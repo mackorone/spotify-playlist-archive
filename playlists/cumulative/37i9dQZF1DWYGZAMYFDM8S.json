@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-05",
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
   "name": "Acoustic Chill",
-  "published_playlist_ids": [
-    "0wv7jIu1raSykzpAO7jkt2"
-  ],
   "tracks": [
     {
       "album": {
@@ -139,6 +136,24 @@
     {
       "album": {
         "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+    },
+    {
+      "album": {
+        "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
       "artists": [
@@ -149,7 +164,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
@@ -465,6 +480,24 @@
     {
       "album": {
         "name": "Miles and Miles",
+        "url": "https://open.spotify.com/album/16ZBD2rfhcmite2xZ4prJT"
+      },
+      "artists": [
+        {
+          "name": "Handsome and Gretyl",
+          "url": "https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 265280,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/0Kyxsaxjph9rfEru2uXIGu"
+    },
+    {
+      "album": {
+        "name": "Miles and Miles",
         "url": "https://open.spotify.com/album/2aGQYE2YiaM44GKTBTOFLc"
       },
       "artists": [
@@ -497,6 +530,24 @@
       "duration_ms": 216146,
       "name": "Back to Tennessee",
       "url": "https://open.spotify.com/track/6yVZtPADFaHeYpeAS45Gz2"
+    },
+    {
+      "album": {
+        "name": "Be So Cruel (Stripped)",
+        "url": "https://open.spotify.com/album/0uypCQZERlewPD7jjHhZVU"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 162854,
+      "name": "Be So Cruel - Stripped",
+      "url": "https://open.spotify.com/track/4VN1iJu8OWnh2yY6QNoKOj"
     },
     {
       "album": {
@@ -911,7 +962,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 181139,
       "name": "Catholic Country",
       "url": "https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3"
@@ -1113,7 +1164,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
@@ -1918,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "German Cars",
+        "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201453,
+      "name": "German Cars",
+      "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
+    },
+    {
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/7LKvzKPsswrEApW8rFi1xq"
       },
@@ -2355,7 +2424,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 160941,
       "name": "i don't care - bonus track",
       "url": "https://open.spotify.com/track/3pM7NQahwmilUQ2JSBJOzA"
@@ -2773,6 +2842,28 @@
       "duration_ms": 147346,
       "name": "Love Flew Away",
       "url": "https://open.spotify.com/track/6FwkV9baY3ERqmxPsBLzYf"
+    },
+    {
+      "album": {
+        "name": "Manly Man",
+        "url": "https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        },
+        {
+          "name": "Emily Weisband",
+          "url": "https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210963,
+      "name": "Manly Man",
+      "url": "https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI"
     },
     {
       "album": {
@@ -3868,6 +3959,24 @@
     },
     {
       "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4QnkWi5jg50ZVkzBB3PZ4e"
+    },
+    {
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
       },
@@ -4495,7 +4604,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
@@ -4697,7 +4806,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 211794,
       "name": "The Rains",
       "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
@@ -5000,6 +5109,28 @@
     },
     {
       "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
+    },
+    {
+      "album": {
         "name": "Tugboats - EP",
         "url": "https://open.spotify.com/album/4YWD3lW1stJ601JlsaBOJ5"
       },
@@ -5267,7 +5398,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 211509,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
@@ -5411,7 +5542,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 271800,
       "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
       "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
@@ -5577,6 +5708,28 @@
       "duration_ms": 125408,
       "name": "Woodpecker",
       "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
+    },
+    {
+      "album": {
+        "name": "Worst Day (Stripped Version)",
+        "url": "https://open.spotify.com/album/1DYJdrMj7pXgVzj8HD5b51"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168774,
+      "name": "Worst Day - Stripped Version",
+      "url": "https://open.spotify.com/track/7dWVYMBp1sAECRjWKh3ySp"
     },
     {
       "album": {

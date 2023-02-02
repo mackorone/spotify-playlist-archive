@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Real rap music from the golden era.\n",
   "name": "I Love My '90s Hip-Hop",
-  "published_playlist_ids": [
-    "3nluuMc1ut66d8EDvyctJz"
-  ],
   "tracks": [
     {
       "album": {
@@ -1480,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Center of Attention",
+        "url": "https://open.spotify.com/album/2VXkgdiXFunIO581a4vqcR"
+      },
+      "artists": [
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "name": "InI",
+          "url": "https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276373,
+      "name": "Grown Man Sport",
+      "url": "https://open.spotify.com/track/6hANdvhL9H7bkESqIVeVIZ"
+    },
+    {
+      "album": {
         "name": "The 18th Letter / The Book Of Life",
         "url": "https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn"
       },
@@ -1668,7 +1687,7 @@
     },
     {
       "album": {
-        "name": "19 Naughty III",
+        "name": "19NaughtyIII",
         "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
       },
       "artists": [
@@ -1697,7 +1716,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 214066,
       "name": "Hip-Hop",
       "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
@@ -3355,7 +3374,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-13",
       "duration_ms": 218333,
       "name": "Slam",
       "url": "https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn"

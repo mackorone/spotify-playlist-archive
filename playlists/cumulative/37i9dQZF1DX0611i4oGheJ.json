@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Sweet gems to help you slow down and savor your day.",
   "name": "Soft + Slow",
-  "published_playlist_ids": [
-    "1IVOoA16apieUJxkNJzI8P"
-  ],
   "tracks": [
     {
       "album": {
@@ -631,7 +628,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 179188,
       "name": "Collateral",
       "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
@@ -721,7 +718,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 235474,
       "name": "Desert Song",
       "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
@@ -995,7 +992,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 210704,
       "name": "Everybody Needs Somebody",
       "url": "https://open.spotify.com/track/1uheNSEpSpLy6RQ9iJ0PXn"
@@ -1089,6 +1086,24 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "album": {
+        "name": "Ledges",
+        "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243773,
+      "name": "First Defeat",
+      "url": "https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc"
     },
     {
       "album": {
@@ -2505,7 +2520,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
@@ -2739,7 +2754,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 184787,
       "name": "Motel",
       "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
@@ -3645,7 +3660,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 154893,
       "name": "Solving Problems",
       "url": "https://open.spotify.com/track/2a4qT0yEynuoHJR4sxkh84"
@@ -4713,6 +4728,24 @@
     {
       "album": {
         "name": "Twist",
+        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186157,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
+    },
+    {
+      "album": {
+        "name": "Twist",
         "url": "https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL"
       },
       "artists": [
@@ -4723,7 +4756,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 186157,
       "name": "Twist",
       "url": "https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC"
@@ -4885,7 +4918,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 248427,
       "name": "Waves - Guitar Acoustic",
       "url": "https://open.spotify.com/track/6yiWXb7aSGTLtrh7oKj80S"

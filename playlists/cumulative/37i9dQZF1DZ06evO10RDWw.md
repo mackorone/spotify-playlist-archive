@@ -4,7 +4,7 @@
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-31 songs - 1 hr 48 min - not published yet
+32 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Keep Secrets](https://open.spotify.com/track/6zsYr6wStLsJ1j9zUnoQ6T) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:44 | 2022-10-25 |  |
 | [Let Go Control](https://open.spotify.com/track/0OiZCyNOdjpHm38CQXLGH7) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Voices](https://open.spotify.com/album/28LWWFUiQSA4WEZTYtSGbh) | 2:58 | 2022-10-25 |  |
 | [Lost Symphonies](https://open.spotify.com/track/7EzL0vW3YlaAH0EiUe5MKk) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:55 | 2022-10-25 |  |
+| [Love Maker](https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [The Grey](https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD) | 3:17 | 2022-12-29 | 2023-01-01 |
 | [Move Slow](https://open.spotify.com/track/7d4BF0jqyQAoaU9kz1AlV3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Ncis: The Official Tv Soundtrack \- Vol\. 2](https://open.spotify.com/album/576fyLLci8j617RWwYX54O) | 3:08 | 2022-10-25 |  |
 | [New Angel](https://open.spotify.com/track/7mph7O5E7n3wKJcy2jNx0w) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w) | 2:56 | 2022-10-25 |  |
 | [On My Own](https://open.spotify.com/track/4V6qDAzkekP88eUeKKIeoI) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 5:17 | 2022-10-25 |  |

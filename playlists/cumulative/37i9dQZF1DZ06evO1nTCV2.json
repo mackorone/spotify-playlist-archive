@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-12",
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
   "name": "This Is Ryan Adams",
-  "published_playlist_ids": [
-    "1wzNW1io1DWM2bpUlq1Ggc"
-  ],
   "tracks": [
     {
       "album": {
@@ -188,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239103,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/58D6qBdHSRzRklrlyH81H8"
+    },
+    {
+      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -279,6 +294,24 @@
     {
       "album": {
         "name": "Big Colors",
+        "url": "https://open.spotify.com/album/52I0BOmsfSkktBS11ANyE4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187906,
+      "name": "Big Colors",
+      "url": "https://open.spotify.com/track/01E0hLWxNOd3EC87piQP3j"
+    },
+    {
+      "album": {
+        "name": "Big Colors",
         "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
       },
       "artists": [
@@ -289,7 +322,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 187906,
       "name": "Big Colors",
       "url": "https://open.spotify.com/track/64QHj3KzbmnvZBGEuFV9IS"
@@ -325,7 +358,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2023-01-07",
       "duration_ms": 318653,
       "name": "Blue Sky Blues",
       "url": "https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV"
@@ -495,6 +528,24 @@
     {
       "album": {
         "name": "Big Colors",
+        "url": "https://open.spotify.com/album/52I0BOmsfSkktBS11ANyE4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "Do Not Disturb",
+      "url": "https://open.spotify.com/track/3TVSDKECnlWmmGLyX6jEm1"
+    },
+    {
+      "album": {
+        "name": "Big Colors",
         "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
       },
       "artists": [
@@ -505,7 +556,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 180640,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/5a8eKLK3XvwrkgRXpchNAW"
@@ -631,7 +682,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": "2023-01-09",
       "duration_ms": 340666,
       "name": "English Girls Approximately",
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
@@ -775,7 +826,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 171666,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
@@ -819,6 +870,42 @@
     {
       "album": {
         "name": "Big Colors",
+        "url": "https://open.spotify.com/album/52I0BOmsfSkktBS11ANyE4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213946,
+      "name": "Fuck the Rain",
+      "url": "https://open.spotify.com/track/1aaytdHwlq3UvtJVyw3wRH"
+    },
+    {
+      "album": {
+        "name": "Big Colors",
+        "url": "https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 213946,
+      "name": "Fuck The Rain",
+      "url": "https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG"
+    },
+    {
+      "album": {
+        "name": "Big Colors",
         "url": "https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl"
       },
       "artists": [
@@ -829,7 +916,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 213946,
       "name": "Fuck The Rain",
       "url": "https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I"
@@ -883,7 +970,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 213373,
       "name": "Hall of Shame",
       "url": "https://open.spotify.com/track/3jwnNTEjlyg6z1ctcxYWsV"
@@ -923,6 +1010,24 @@
       "duration_ms": 162306,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
+    },
+    {
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401573,
+      "name": "Highway Patrolman",
+      "url": "https://open.spotify.com/track/5ernvtf4gNNDjSjOjkEIHy"
     },
     {
       "album": {
@@ -973,7 +1078,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 191226,
       "name": "I Can't Remember",
       "url": "https://open.spotify.com/track/23gqNeMwhNIDeO7ZJhe7ab"
@@ -1196,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126310,
+      "name": "Johnny 99",
+      "url": "https://open.spotify.com/track/1iFr9whP3Zfps8CEGQmgNH"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
       },
@@ -1322,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223834,
+      "name": "Mansion on the Hill",
+      "url": "https://open.spotify.com/track/3yXVvNoDRPlO06LZeoByxv"
+    },
+    {
+      "album": {
         "name": "Devolver",
         "url": "https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h"
       },
@@ -1412,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211016,
+      "name": "Nebraska",
+      "url": "https://open.spotify.com/track/5qfZWhHJRkXfFdAO3KRvvH"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -1499,6 +1658,24 @@
       "duration_ms": 296724,
       "name": "Oh My Sweet Carolina",
       "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
+    },
+    {
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 265304,
+      "name": "Open All Night",
+      "url": "https://open.spotify.com/track/7DfXbkFcVPFK2zIP6Eedru"
     },
     {
       "album": {
@@ -1639,7 +1816,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": "2022-12-19",
       "duration_ms": 217693,
       "name": "Run",
       "url": "https://open.spotify.com/track/3Tsa7IQlaD0WDGMEE4DaCD"
@@ -1729,7 +1906,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 174480,
       "name": "So Dumb",
       "url": "https://open.spotify.com/track/0m5ISodD9A6WI7Wjtpf595"
@@ -1819,7 +1996,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2022-12-19",
       "duration_ms": 164480,
       "name": "Stare at the TV",
       "url": "https://open.spotify.com/track/6MlCbqN85iGl4AIJTAQLSD"
@@ -1873,7 +2050,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2023-01-06",
       "duration_ms": 164466,
       "name": "Style",
       "url": "https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi"
@@ -1927,7 +2104,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 187120,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/2t9Jfb0QjeUdJcNpzwCVdT"
@@ -1945,7 +2122,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": "2023-01-05",
       "duration_ms": 218400,
       "name": "The Rescue Blues",
       "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
@@ -1985,6 +2162,24 @@
       "duration_ms": 318586,
       "name": "The Shadowlands",
       "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
+    },
+    {
+      "album": {
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 81440,
+      "name": "Theo Is Dreaming",
+      "url": "https://open.spotify.com/track/0p6EmD0ixiLtlBbFOsgUIU"
     },
     {
       "album": {
@@ -2150,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239252,
+      "name": "Used Cars",
+      "url": "https://open.spotify.com/track/2jQYAjZ6BDCHgD2lX1nSGl"
+    },
+    {
+      "album": {
         "name": "Chris",
         "url": "https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X"
       },
@@ -2165,6 +2378,24 @@
       "duration_ms": 137106,
       "name": "Was I Wrong",
       "url": "https://open.spotify.com/track/1KhVi78g6RUIVYDPzEfWUw"
+    },
+    {
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 198520,
+      "name": "Welcome to New York",
+      "url": "https://open.spotify.com/track/3fxcUfVbzcKssPNrqsvspm"
     },
     {
       "album": {
@@ -2215,7 +2446,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 161200,
       "name": "When She Smiles",
       "url": "https://open.spotify.com/track/5FH7xahRUc3FmbEWkED0BR"

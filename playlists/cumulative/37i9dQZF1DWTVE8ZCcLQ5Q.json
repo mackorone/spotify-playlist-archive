@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
   "name": "RADAR Brasil",
-  "published_playlist_ids": [
-    "62Z0vZErIH6g7RB9Wn42Q7"
-  ],
   "tracks": [
     {
       "album": {
@@ -927,10 +924,36 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 162000,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/0behTwZwYY2BR47eX3GjCq"
+    },
+    {
+      "album": {
+        "name": "Todo Mundo Ama O Sol",
+        "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
+      },
+      "artists": [
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/3D4H9CEYCjP7KuHQ8JZVtv"
     },
     {
       "album": {
@@ -2725,7 +2748,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": "2022-12-13",
       "duration_ms": 140689,
       "name": "Imaginar",
       "url": "https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX"
@@ -3187,7 +3210,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": "2023-02-01",
       "duration_ms": 288383,
       "name": "Mais Uma Can\u00e7\u00e3o Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy"
@@ -3367,7 +3390,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 150857,
       "name": "Me liga",
       "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
@@ -3447,10 +3470,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 173147,
       "name": "Meu Grande Amor",
       "url": "https://open.spotify.com/track/06leULDpUK6vlq3I29zdvr"
+    },
+    {
+      "album": {
+        "name": "BXD IN JAZZ",
+        "url": "https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173147,
+      "name": "Meu Grande Amor",
+      "url": "https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ"
     },
     {
       "album": {
@@ -4165,7 +4206,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-13",
       "duration_ms": 172414,
       "name": "poderia ser pior",
       "url": "https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN"
@@ -4321,7 +4362,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": "2022-12-08",
       "duration_ms": 158569,
       "name": "Prata Amor",
       "url": "https://open.spotify.com/track/3aiKlNW8MgZFzA3cGsaJWJ"
@@ -5827,7 +5868,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 147476,
       "name": "Viciado em Voc\u00ea",
       "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"

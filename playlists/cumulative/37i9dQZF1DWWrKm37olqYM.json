@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The raw, bass-trembling energy of Baltimore Club. A selection of classic and new tracks. Cover: Rican Da Menace",
+  "description": "The raw, bass-trembling energy of Baltimore Club. A selection of classic and new tracks. Cover: Don3ydon",
   "name": "Baltimore Club",
-  "published_playlist_ids": [
-    "5TALYxdz8KvCUOjfUqx9cT"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,6 +42,28 @@
       "duration_ms": 62437,
       "name": "AH BAH",
       "url": "https://open.spotify.com/track/3xaBmikNA88h9pR9JpOe3D"
+    },
+    {
+      "album": {
+        "name": "Ah Bah, Pt. 2",
+        "url": "https://open.spotify.com/album/2hY16oXVooiBh1D646rlao"
+      },
+      "artists": [
+        {
+          "name": "Donn3ydon",
+          "url": "https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv"
+        },
+        {
+          "name": "D STURDY",
+          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99500,
+      "name": "Ah Bah, Pt. 2",
+      "url": "https://open.spotify.com/track/3ucRUYoKZe1KuObvcE9RwF"
     },
     {
       "album": {
@@ -1043,6 +1062,24 @@
       "duration_ms": 140973,
       "name": "Mi Gente - 4B Remix",
       "url": "https://open.spotify.com/track/1w8vh6tGExWiPJv49U7Zd7"
+    },
+    {
+      "album": {
+        "name": "Microdosing (Mixed)",
+        "url": "https://open.spotify.com/album/3v8HcN24urZPBDqLrCkPMg"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Microdosing - Mixed",
+      "url": "https://open.spotify.com/track/2uXHNaXg2U6Xxj4TSvMTtb"
     },
     {
       "album": {

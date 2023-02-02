@@ -4,7 +4,7 @@
 
 > Have a nice relaxed dinner with some chill indie music.
 
-147 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/5DQOvJsKzXZMJCIkrgn4FQ)
+148 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Higher Love](https://open.spotify.com/track/30fUMnf2FI00EVTMRhOHhb) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Silver Lining](https://open.spotify.com/album/5U017xFzIEof40cTb7Z1SF) | 3:33 | 2018-11-19 | 2022-11-13 |
 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 | 2018-11-19 |  |
 | [Holocene](https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn) | 5:36 | 2018-11-19 | 2022-07-29 |
-| [I Don't Know What I Can Save You From](https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz) | 4:37 | 2018-11-19 |  |
+| [I Don't Know What I Can Save You From](https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz) | 4:37 | 2018-11-19 | 2023-01-28 |
+| [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 | 2018-11-19 |  |
 | [I Was An Eagle](https://open.spotify.com/track/2Imlbw05FhPRzWNyS2tokZ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/3soWADRhP2sj651R2BUt9E) | 4:21 | 2018-11-19 | 2022-07-29 |
 | [I Was An Eagle](https://open.spotify.com/track/6MSh3uMbEAWfjLuedvJ2cT) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 4:21 | 2018-11-19 |  |
 | [In the Stream](https://open.spotify.com/track/02iZJRlOZ7VRbzO8uVdOva) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/7hoiuRyh1XBh4YUOB0ZeGx) | 5:10 | 2018-11-19 | 2022-07-29 |

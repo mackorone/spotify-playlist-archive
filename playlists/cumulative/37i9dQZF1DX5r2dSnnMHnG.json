@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
   "name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
-  "published_playlist_ids": [
-    "3bTGjCbNqBInmwb7ojPDvw"
-  ],
   "tracks": [
     {
       "album": {
@@ -676,6 +673,24 @@
     },
     {
       "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt.1)",
+        "url": "https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc"
+    },
+    {
+      "album": {
         "name": "Happy Ending",
         "url": "https://open.spotify.com/album/4jus9HaNnfiyXpP8ci0TAp"
       },
@@ -785,7 +800,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 192500,
       "name": "I See You",
       "url": "https://open.spotify.com/track/3ykkBOfFlZrIqgxn6aoLya"
@@ -843,7 +858,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 229354,
       "name": "If I (with Yun DDanDDan)",
       "url": "https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U"
@@ -1300,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194786,
+      "name": "My Destiny",
+      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
+    },
+    {
+      "album": {
         "name": "neighborhood bookstore",
         "url": "https://open.spotify.com/album/1uD7hkW3B5HUcVZYwV1PvS"
       },
@@ -1413,7 +1446,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 211400,
       "name": "Only I Want To Know",
       "url": "https://open.spotify.com/track/15ecAutv7JSuRkL9I9DrUB"
@@ -2166,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/55nlKfRPcPhRYY6tujIRjg"
       },
@@ -2177,7 +2228,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153506,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/59sio2uP1zKQu0SSmXtmqt"
@@ -2389,7 +2440,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 215981,
       "name": "Walk",
       "url": "https://open.spotify.com/track/6EJXOBn2gYccEJLMsZXiSw"

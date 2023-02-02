@@ -4,7 +4,7 @@
 
 > All the best hits from Shawn Mendes, Taylor Swift and more!
 
-66 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/2BZKeYtKAutBETvZNA1895)
+66 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Jumping BoAs, Our Beloved BoA is here and BETTER than ever!
 
-113 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/0vyInYKvXtvOsuYvaowiIo)
+113 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "So fresh, so smooth. Cover: Candy Dulfer",
+  "description": "So fresh, so smooth. Cover: Lin Rountree",
   "name": "New Smooth Jazz",
-  "published_playlist_ids": [
-    "73Eg864FGRS3gdmYP6IVUV"
-  ],
   "tracks": [
     {
       "album": {
@@ -168,6 +165,24 @@
     },
     {
       "album": {
+        "name": "All Love",
+        "url": "https://open.spotify.com/album/5BAHMxR5mzhEHy4WspShc8"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192081,
+      "name": "All Love",
+      "url": "https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh"
+    },
+    {
+      "album": {
         "name": "All That Matters",
         "url": "https://open.spotify.com/album/4EhyShIfNF7T6WKym6BzXN"
       },
@@ -197,7 +212,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 231285,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
@@ -491,7 +506,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 190344,
       "name": "BE",
       "url": "https://open.spotify.com/track/2BOcRhGIKurTmHQ8t22y6D"
@@ -745,7 +760,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
@@ -887,7 +902,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 260398,
       "name": "Chicago Morning",
       "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
@@ -1039,9 +1054,9 @@
           "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 294840,
       "name": "Convergency",
       "url": "https://open.spotify.com/track/5tkJLRlnVyoKFlT89TiSOP"
@@ -1157,7 +1172,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 232810,
       "name": "Cupid Shuffle",
       "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
@@ -1237,6 +1252,28 @@
       "duration_ms": 260083,
       "name": "Defy",
       "url": "https://open.spotify.com/track/3Nafj5uljh3v8anIABX3aM"
+    },
+    {
+      "album": {
+        "name": "Del Mar",
+        "url": "https://open.spotify.com/album/4sKiIOOpmFKBwQGTEhk11p"
+      },
+      "artists": [
+        {
+          "name": "Rick Habana",
+          "url": "https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds"
+        },
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239700,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1"
     },
     {
       "album": {
@@ -1349,7 +1386,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 216437,
       "name": "Donut Jam",
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
@@ -1461,7 +1498,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": "2023-01-25",
       "duration_ms": 210714,
       "name": "Driving All Night",
       "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
@@ -2193,7 +2230,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 268538,
       "name": "Hello Beautiful - radio single",
       "url": "https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp"
@@ -2313,7 +2350,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2023-01-10",
       "duration_ms": 294252,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
@@ -2405,7 +2442,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 231267,
       "name": "III",
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
@@ -2634,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/27mwWf8lLpu2v9jEvrOLLZ"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259624,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/6Br6QbD4sRQRjY1ZqrQaKv"
+    },
+    {
+      "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/3B6JmsgFu4k50ctzvjQ414"
       },
@@ -2834,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Lean Into It",
+        "url": "https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Neu",
+          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264148,
+      "name": "Lean Into It",
+      "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
+    },
+    {
+      "album": {
         "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
         "url": "https://open.spotify.com/album/0DUGnTHNjvNAM2BEJEAahu"
       },
@@ -2979,7 +3052,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 283760,
       "name": "Look Both Ways",
       "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
@@ -3637,7 +3710,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 227369,
       "name": "One More Night - Single Edit",
       "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
@@ -3877,7 +3950,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 249529,
       "name": "Radio Vibe - radio single",
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
@@ -4037,7 +4110,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 248712,
       "name": "Safe and Sound",
       "url": "https://open.spotify.com/track/64YEp1YNctGTXdIMySqsWC"
@@ -4447,6 +4520,24 @@
       "duration_ms": 228102,
       "name": "Soul to Soul - 2022 Version",
       "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
+    },
+    {
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/5iS8xmYmYmxqUgdOVICdxr"
+      },
+      "artists": [
+        {
+          "name": "Christophe Goze",
+          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 229237,
+      "name": "Soul to Soul - 2022 Version",
+      "url": "https://open.spotify.com/track/46xA9y3Fy9Igs0EnFK5CsX"
     },
     {
       "album": {
@@ -5493,7 +5584,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 293280,
       "name": "Weekend Groove",
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"

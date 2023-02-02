@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Timeless tunes served over easy for all your brunching needs!",
+  "description": "Classic tunes served over easy for the perfect brunch soundtrack.",
   "name": "Sunny Side Up",
-  "published_playlist_ids": [
-    "6oBsdW7bJwBzmYuFyvjA6b"
-  ],
   "tracks": [
     {
       "album": {
@@ -149,10 +146,32 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 223133,
       "name": "Ahead By A Century",
       "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Ain't No Mountain High Enough",
+      "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
     },
     {
       "album": {
@@ -185,7 +204,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 306666,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5"
@@ -221,7 +240,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 218240,
       "name": "America",
       "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
@@ -239,7 +258,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 254000,
       "name": "Angel Of The Morning",
       "url": "https://open.spotify.com/track/6NVB6W7G3svCKe5zB7kY8q"
@@ -257,7 +276,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 428222,
       "name": "As",
       "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
@@ -293,7 +312,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 283880,
       "name": "At Seventeen - Remastered",
       "url": "https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY"
@@ -311,10 +330,28 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 186093,
       "name": "Back Stabbers",
       "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Banana Pancakes",
+      "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
     },
     {
       "album": {
@@ -635,7 +672,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 239960,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
@@ -653,7 +690,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 273506,
       "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
@@ -743,7 +780,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 151973,
       "name": "Everything She Ain\u2019t",
       "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
@@ -948,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered 2009",
+      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+    },
+    {
+      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
@@ -1049,7 +1104,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 269333,
       "name": "I Can't Help It",
       "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
@@ -1103,7 +1158,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 165893,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1aRrJewQmqU3wMUf86VVc6"
@@ -1121,7 +1176,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 180280,
       "name": "I Saw the Light - 2015 Remaster",
       "url": "https://open.spotify.com/track/5uRkew0DtfAQmv0oEYNwFF"
@@ -1211,7 +1266,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 153506,
       "name": "I'm Into Something Good",
       "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
@@ -1319,7 +1374,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 169293,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
@@ -1355,7 +1410,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 216333,
       "name": "Lady Day and John Coltrane",
       "url": "https://open.spotify.com/track/7aLn70gMnbTCVGoIro42Kd"
@@ -1373,7 +1428,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 199293,
       "name": "Les Fleurs",
       "url": "https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs"
@@ -1463,7 +1518,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
@@ -1535,7 +1590,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 281973,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6Ep2XErOa5SCBGzARBpCr4"
@@ -1643,7 +1698,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 197346,
       "name": "Right As Rain",
       "url": "https://open.spotify.com/track/6oW04c2E7lebl09WHsBAWO"
@@ -1679,7 +1734,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 200053,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
@@ -1859,7 +1914,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 164933,
       "name": "Spooky (Single Version)",
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
@@ -1967,7 +2022,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 371706,
       "name": "Summer Breeze, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
@@ -2039,7 +2094,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 195000,
       "name": "Sunshine Superman",
       "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
@@ -2115,10 +2170,28 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 230973,
       "name": "The First Cut Is the Deepest - Acoustic Version",
       "url": "https://open.spotify.com/track/4PzPvpE63ttEbKyMDRWB6q"
+    },
+    {
+      "album": {
+        "name": "Inseparable",
+        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171960,
+      "name": "This Will Be (An Everlasting Love)",
+      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
       "album": {
@@ -2133,7 +2206,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 198693,
       "name": "Too Late To Turn Back Now",
       "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
@@ -2205,7 +2278,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 163346,
       "name": "Up, Up and Away",
       "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
@@ -2349,7 +2422,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 245479,
       "name": "Working My Way Back to You / Forgive Me, Girl",
       "url": "https://open.spotify.com/track/1wouF9mtyiwZDYiq5YElaq"
@@ -2367,7 +2440,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 400066,
       "name": "Year of the Cat",
       "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
@@ -2396,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -2407,7 +2498,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"

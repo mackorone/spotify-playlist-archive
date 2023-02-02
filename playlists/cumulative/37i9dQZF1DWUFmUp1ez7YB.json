@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "\u00a1Quiero Salsa, dame Salsa! Foto: Marc Anthony",
   "name": "Dame Salsa",
-  "published_playlist_ids": [
-    "2rnLhja0HRVk5exQIlpkYr"
-  ],
   "tracks": [
     {
       "album": {
@@ -593,7 +590,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 331773,
       "name": "Conciencia",
       "url": "https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj"
@@ -1609,6 +1606,24 @@
       "duration_ms": 300106,
       "name": "Lady Laura",
       "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
+    },
+    {
+      "album": {
+        "name": "Salsa Dura, Vol. 5",
+        "url": "https://open.spotify.com/album/1uRY3jqUxtHVxvNdxD6dlR"
+      },
+      "artists": [
+        {
+          "name": "Los Bravos de Panama",
+          "url": "https://open.spotify.com/artist/6Lbj575WtaBDArzLuB3Vog"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395933,
+      "name": "Lagrimas",
+      "url": "https://open.spotify.com/track/1xygRDEU3ZI63I3gISgAVn"
     },
     {
       "album": {

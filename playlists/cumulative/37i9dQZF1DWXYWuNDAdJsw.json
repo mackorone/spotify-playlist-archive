@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-01",
   "description": "el nombre lo dice todo.",
   "name": "Perrear y Llorar",
-  "published_playlist_ids": [
-    "61DjCGIvgLvfIb5LlJiMje"
-  ],
   "tracks": [
     {
       "album": {
@@ -215,7 +212,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 201049,
       "name": "Cama Vacia",
       "url": "https://open.spotify.com/track/6sR4WtcYJOCXzDsDfY9PwV"
@@ -263,6 +260,24 @@
       "duration_ms": 207666,
       "name": "Cenicero",
       "url": "https://open.spotify.com/track/4JznxNAtycdgvzd4kv343C"
+    },
+    {
+      "album": {
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219183,
+      "name": "CONTINGENTE",
+      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
     },
     {
       "album": {
@@ -337,7 +352,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 188654,
       "name": "Cuando Perriabas",
       "url": "https://open.spotify.com/track/5mj8WVFcKdGA8p9HWGTSLc"
@@ -794,21 +809,25 @@
     },
     {
       "album": {
-        "name": "Sentimiento, Elegancia y Maldad",
-        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
+        "name": "Ganas de Ti",
+        "url": "https://open.spotify.com/album/4tdBbMgmNpN0mOEMswLmu9"
       },
       "artists": [
         {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "date_added": "2022-07-01",
+      "date_added": "2022-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 171333,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
+      "duration_ms": 211657,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/791kF1u1fflDhWfXs98QCL"
     },
     {
       "album": {
@@ -827,6 +846,24 @@
       "duration_ms": 171333,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/6nQCni9g6jDYKXaViEuDyS"
+    },
+    {
+      "album": {
+        "name": "Sentimiento, Elegancia y Maldad",
+        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
     },
     {
       "album": {
@@ -929,7 +966,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 210606,
       "name": "Ignorantes",
       "url": "https://open.spotify.com/track/3wYRLYuO1M88d8woWUIxct"
@@ -999,6 +1036,24 @@
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+    },
+    {
+      "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/35tpDrBCdtuyINZQVW0X8k"
+      },
+      "artists": [
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191693,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/0Ytw6vO3vGY47p707NUaC8"
     },
     {
       "album": {
@@ -1493,6 +1548,32 @@
     {
       "album": {
         "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
+    },
+    {
+      "album": {
+        "name": "Famouz",
         "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
       },
       "artists": [
@@ -1511,7 +1592,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 309120,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
@@ -1555,7 +1636,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 239205,
       "name": "No Quiere Enamorarse - Remix",
       "url": "https://open.spotify.com/track/0XC9N5n8osww4bfsPuNMpS"
@@ -1864,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "perreo sad",
+        "url": "https://open.spotify.com/album/7EQXEMpQyRSMdWbLEOLC9j"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185136,
+      "name": "perreo sad",
+      "url": "https://open.spotify.com/track/1cze6kBI1UeQL8xvjyNOwm"
+    },
+    {
+      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/3Q0J5O5iugt4arPomuIIyB"
       },
@@ -2129,7 +2228,7 @@
       },
       "artists": [
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -2147,6 +2246,24 @@
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
+    },
+    {
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222762,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/06SVpxUS3JlL2g2p6QdbBl"
     },
     {
       "album": {
@@ -2352,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
+      },
+      "artists": [
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130119,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/45Ti1WCOwxVXZjOQOEdo4d"
+    },
+    {
+      "album": {
         "name": "Te Extra\u00f1o",
         "url": "https://open.spotify.com/album/1zY8Vg48fVFebEsLarexDO"
       },
@@ -2523,7 +2658,7 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "date_added": "2022-10-27",
+      "date_added": "2022-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177397,

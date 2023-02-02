@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Funky & groovy tunes for poolside chilling.",
   "name": "Poolside Grooves",
-  "published_playlist_ids": [
-    "578neCDuWLyeGQpOdBBB8u"
-  ],
   "tracks": [
     {
       "album": {
@@ -651,6 +648,32 @@
       "duration_ms": 241834,
       "name": "Ceramic",
       "url": "https://open.spotify.com/track/2jN9H14xlf2KuDsqKV6wsG"
+    },
+    {
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/0QsRnX70CLkR37iaYpqoLG"
+      },
+      "artists": [
+        {
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Clinging On Me",
+      "url": "https://open.spotify.com/track/2EGyiht9vLt5NQ2KOdWOml"
     },
     {
       "album": {
@@ -1348,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "Give It a Go",
+        "url": "https://open.spotify.com/album/1z44wef0na78nNIvld0NcQ"
+      },
+      "artists": [
+        {
+          "name": "Curtis Cole",
+          "url": "https://open.spotify.com/artist/3nHifOdw3FgOxPAlg4kzTl"
+        },
+        {
+          "name": "Jenny Penkin",
+          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166303,
+      "name": "Give It a Go",
+      "url": "https://open.spotify.com/track/2aUPmWTy3eTfbVFx3BVaE9"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/5Jr1eGcMKChuU0gQdxeF5b"
       },
@@ -1473,7 +1518,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 252185,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc"
@@ -1682,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185591,
+      "name": "I Got Your Back",
+      "url": "https://open.spotify.com/track/5qPqZ4TMhr3uF1Vv0y3LRf"
+    },
+    {
+      "album": {
         "name": "I Got Your Back",
         "url": "https://open.spotify.com/album/6CC5BUqncXiqJOSKi1ZCu1"
       },
@@ -1693,7 +1756,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 185687,
       "name": "I Got Your Back",
       "url": "https://open.spotify.com/track/16s1oTqJSCXz2KELFhnKll"
@@ -1737,6 +1800,28 @@
       "duration_ms": 323000,
       "name": "I Want You - Underboss Remix",
       "url": "https://open.spotify.com/track/5XglCdjCtfFJpKlIOf1y4I"
+    },
+    {
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Mister Vi",
+          "url": "https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596157,
+      "name": "I'm A Blessed Man",
+      "url": "https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA"
     },
     {
       "album": {
@@ -1821,7 +1906,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 221871,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
@@ -1843,6 +1928,42 @@
       "duration_ms": 221871,
       "name": "It's Been a Little Heavy Lately",
       "url": "https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z"
+    },
+    {
+      "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221873,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
+    },
+    {
+      "album": {
+        "name": "Labfunk (21st Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0iTL9FP05unP4iwBbciHPx"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435502,
+      "name": "It's Complete - 2022 Mix",
+      "url": "https://open.spotify.com/track/6RqQUx2nAfP864X9IEGOY7"
     },
     {
       "album": {
@@ -2342,6 +2463,28 @@
     },
     {
       "album": {
+        "name": "Vibe Creator",
+        "url": "https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU"
+      },
+      "artists": [
+        {
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+        },
+        {
+          "name": "Simon Jnr",
+          "url": "https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Need Somebody",
+      "url": "https://open.spotify.com/track/2lAKCOAltfHzrnWDCMfQ7r"
+    },
+    {
+      "album": {
         "name": "Need Somebody (feat. Simon Jnr)",
         "url": "https://open.spotify.com/album/6CiwYfai0tGINQm1pGgMQD"
       },
@@ -2357,7 +2500,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 172200,
       "name": "Need Somebody (feat. Simon Jnr)",
       "url": "https://open.spotify.com/track/0lJ1MhIYQv2vP4fJOvV1dE"
@@ -3320,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "The Juice: Vol. III",
+        "url": "https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175527,
+      "name": "Slide All Night",
+      "url": "https://open.spotify.com/track/1pou1vJsBUcH1y7UmFmDVp"
+    },
+    {
+      "album": {
         "name": "So Cool",
         "url": "https://open.spotify.com/album/0WTexgyWemY3YVYS3VE8Qk"
       },
@@ -3415,6 +3576,36 @@
       "duration_ms": 198120,
       "name": "Someone Special",
       "url": "https://open.spotify.com/track/4idEjqHVBPG2y2nTukwUys"
+    },
+    {
+      "album": {
+        "name": "Soul Caliber (Remix)",
+        "url": "https://open.spotify.com/album/6hEiPo9qf1SegYq6l6f3tF"
+      },
+      "artists": [
+        {
+          "name": "Aron",
+          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
+        },
+        {
+          "name": "h0wdy",
+          "url": "https://open.spotify.com/artist/2Cub16XBwQ5vWVzVveNLH1"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Quintin Gulledge",
+          "url": "https://open.spotify.com/artist/0VY2ENfE55Nl1zja969Zwf"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224498,
+      "name": "Soul Caliber (Remix)",
+      "url": "https://open.spotify.com/track/455v0kWFW362VlD22VJFvz"
     },
     {
       "album": {
@@ -3840,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "Reason to Smile",
+        "url": "https://open.spotify.com/album/0RkFiGprYwfyALDs4tQLMC"
+      },
+      "artists": [
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/2Ke0t5CgPSFbdJcRF2GzFr"
+    },
+    {
+      "album": {
         "name": "Great Lakes Influence",
         "url": "https://open.spotify.com/album/5Xt0CWRI6jl03L58jdKoQj"
       },
@@ -4175,6 +4384,42 @@
       "duration_ms": 242346,
       "name": "What Do You Say (Move It Baby)",
       "url": "https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh"
+    },
+    {
+      "album": {
+        "name": "Reflections EP",
+        "url": "https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358875,
+      "name": "Workin' All Day",
+      "url": "https://open.spotify.com/track/1R5dbZKMJyoBziVfDV76dU"
+    },
+    {
+      "album": {
+        "name": "Young Hearts",
+        "url": "https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "Young Hearts",
+      "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.\n",
   "name": "Soca Classics",
-  "published_playlist_ids": [
-    "64TrHSSpN6MFtOko77c2wK"
-  ],
   "tracks": [
     {
       "album": {
@@ -879,6 +876,32 @@
     {
       "album": {
         "name": "Famalay",
+        "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199020,
+      "name": "Famalay",
+      "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
+    },
+    {
+      "album": {
+        "name": "Famalay",
         "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
       },
       "artists": [
@@ -897,7 +920,7 @@
       ],
       "date_added": "2020-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9"
@@ -3331,7 +3354,7 @@
     {
       "album": {
         "name": "West Indian",
-        "url": "https://open.spotify.com/album/3xvPs1mCwpvTPQlNtHsVyS"
+        "url": "https://open.spotify.com/album/3RYApYuUFt8eDOvmVmsig5"
       },
       "artists": [
         {
@@ -3342,6 +3365,24 @@
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187823,
+      "name": "West Indian",
+      "url": "https://open.spotify.com/track/4PLywM0ijCk1gsEnTl1R7v"
+    },
+    {
+      "album": {
+        "name": "West Indian",
+        "url": "https://open.spotify.com/album/3xvPs1mCwpvTPQlNtHsVyS"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
       "duration_ms": 187823,
       "name": "West Indian",
       "url": "https://open.spotify.com/track/5ojDwaC18QlyMu43T6UArw"

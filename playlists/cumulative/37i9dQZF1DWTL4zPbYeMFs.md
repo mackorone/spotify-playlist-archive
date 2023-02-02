@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi evening.
 
-46 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/7oiZrfdRzIQ2ploR2YcUiu)
+46 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Maahi Ve](https://open.spotify.com/track/7Czm0vv2sYL5z4P51KY66e) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Sujata Bhattacharya](https://open.spotify.com/artist/63gr7tdupR56177ARreusx), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 6:06 | 2022-03-14 |  |
 | [Madhaniya](https://open.spotify.com/track/1PJjB3p65wjdCbMTObhPxv) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniya \- Single](https://open.spotify.com/album/23eYpUkPcWs2ooPZNeVfTy) | 4:15 | 2022-03-14 |  |
 | [Mahiya](https://open.spotify.com/track/5f6v7J2ifXZZijn0AGd0Bz) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mahiya](https://open.spotify.com/album/7DvAu6vwzu1iZEe5kHszLz) | 5:02 | 2022-03-14 |  |
-| [Mehendi Lagi](https://open.spotify.com/track/6nh7VYmtwkzXK1Ua85ronc) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV) | [Mehendi Lagi](https://open.spotify.com/album/11CstMSjuNTXYm3my0HmGE) | 3:30 | 2022-03-14 |  |
+| [Mehendi Lagi](https://open.spotify.com/track/6nh7VYmtwkzXK1Ua85ronc) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Mehendi Lagi](https://open.spotify.com/album/11CstMSjuNTXYm3my0HmGE) | 3:30 | 2022-03-14 |  |
 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjana Sanghi](https://open.spotify.com/artist/0nFIPa2qOn5ODHEWi3Ywan) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 | 2022-03-14 |  |
 | [Mehndi](https://open.spotify.com/track/7GnO1WjNfc0BjHwwbkmsAn) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [DJ KSR](https://open.spotify.com/artist/5Vo22DmP2xVFg9dwnAZapU) | [Mehndi](https://open.spotify.com/album/5GbJKpHQ3UIKqZLSUZlj0x) | 2:52 | 2022-03-14 |  |
 | [Mehndi Hai Rachnewali](https://open.spotify.com/track/0lCdndc8chDOcAQqfLvCyE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Zubeidaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5t0wkaiJ86D3MtdBhUevkd) | 4:26 | 2022-03-14 |  |
@@ -52,7 +52,7 @@
 | [Sajh Dhaj Ke](https://open.spotify.com/track/5HJGzB7sZleFrrDvr0pRo4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Pankaj Kapur](https://open.spotify.com/artist/2o8YweTDrUygJuPWOFDN62) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 4:52 | 2022-03-14 |  |
 | [Sun Sohniye \- From "Afsar"](https://open.spotify.com/track/0Sf6tCf1PpIXrG5htibftj) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sun Sohniye \(From "Afsar"\)](https://open.spotify.com/album/1lotYHh1TgHkdt28VVUfSF) | 2:38 | 2022-03-14 |  |
 | [Taar Bijli](https://open.spotify.com/track/2mMW4YtrF03h5h4NaXCDsS) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Gangs Of Wasseypur \- 2](https://open.spotify.com/album/7DBbDXQbei6e4X6EdXOyz2) | 6:52 | 2022-03-14 |  |
-| [Thoda Thoda Pyar](https://open.spotify.com/track/0tHgJvMHEy3tQUxGqs8zTb) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 4:02 | 2022-03-14 |  |
+| [Thoda Thoda Pyar](https://open.spotify.com/track/0tHgJvMHEy3tQUxGqs8zTb) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 4:02 | 2022-03-14 |  |
 | [Thoda Thoda Pyar \(From "Love Aaj Kal"\)](https://open.spotify.com/track/5O7NujeJHdRbpkj79jEygT) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Love Aaj Kal](https://open.spotify.com/album/4u7WFjehsC5sUibLEOaqLf) | 4:02 | 2022-03-14 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

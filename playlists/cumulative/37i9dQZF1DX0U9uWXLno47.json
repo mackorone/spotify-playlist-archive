@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Cl\u00e1sicos que no sab\u00edas que eran covers para disfrutar con pap\u00e1.",
   "name": "Covers Padres",
-  "published_playlist_ids": [
-    "0xa56MXGmyMkeCUbUQIGYD"
-  ],
   "tracks": [
     {
       "album": {
@@ -243,6 +240,24 @@
     {
       "album": {
         "name": "Resistance Radio: The Man in the High Castle Album",
+        "url": "https://open.spotify.com/album/3Dn3xwT7mCdnG81G6iMMEJ"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/72kaYFXcFXeCOP5Q4HqoSN"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193194,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/5bLWWo2SeuRzwnfVOms336"
+    },
+    {
+      "album": {
+        "name": "Resistance Radio: The Man in the High Castle Album",
         "url": "https://open.spotify.com/album/3kkGQZCcJAW0W0sURDT0gQ"
       },
       "artists": [
@@ -271,7 +286,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 195706,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/1rEVyVwei0Wq3HlYJRS7CZ"
@@ -649,7 +664,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-24",
       "duration_ms": 274285,
       "name": "Golden Years",
       "url": "https://open.spotify.com/track/34PRFgMjpf1mTiIDIve6Sz"
@@ -713,7 +728,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202053,
-      "name": "Higher Ground - Remastered",
+      "name": "Higher Ground - Remastered 2003",
       "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
     },
     {
@@ -1057,7 +1072,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 200000,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv"
@@ -1209,7 +1224,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 190751,
       "name": "Let's Spend the Night Together - 2013 Remaster",
       "url": "https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO"
@@ -1379,10 +1394,32 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 221133,
       "name": "Man on the Moon",
       "url": "https://open.spotify.com/track/2hV9iER3lF70vUB05vP6G1"
+    },
+    {
+      "album": {
+        "name": "Let It Be Blue",
+        "url": "https://open.spotify.com/album/6XdHpR1NvTr8aclVS09l3g"
+      },
+      "artists": [
+        {
+          "name": "!!!",
+          "url": "https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg"
+        },
+        {
+          "name": "Meah Pace",
+          "url": "https://open.spotify.com/artist/45d7D0HdSf3sGmojJmkvgi"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221133,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/37W2mx55FB48Qfi4u4L3Bm"
     },
     {
       "album": {

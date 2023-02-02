@@ -4,7 +4,7 @@
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-122 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/1Tu1mArc6Ym1uHBqG7xX3z)
+122 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,9 +30,9 @@
 | [Crazy \- Single Version](https://open.spotify.com/track/4DuBNU1r50XEv4dvsrQcpY) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Gold](https://open.spotify.com/album/3kwl00I9hJSfwfWc4T3NAx) | 2:42 | 2021-10-22 | 2022-07-29 |
 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 | 2022-03-18 |  |
 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 | 2021-10-22 |  |
-| [Do Me with Love](https://open.spotify.com/track/4BOLIOeDnuQqrd1O4j1okS) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Janie Fricke](https://open.spotify.com/album/1ZAqjmQz7KghNFTeThuQJ7) | 2:49 | 2022-03-18 |  |
+| [Do Me with Love](https://open.spotify.com/track/4BOLIOeDnuQqrd1O4j1okS) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [17 Greatest Hits](https://open.spotify.com/album/1ZAqjmQz7KghNFTeThuQJ7) | 2:49 | 2022-03-18 | 2022-12-05 |
 | [Do Me with Love](https://open.spotify.com/track/023vtOQfgWyJFegMIe1WHv) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Anthology](https://open.spotify.com/album/3thfGRk7zUBbrSWaGXhOxg) | 2:51 | 2021-10-22 | 2022-07-29 |
-| [Do Me with Love](https://open.spotify.com/track/3AbkUW6Ce5hqmd18Dm1fzZ) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Sleeping with Your Memory](https://open.spotify.com/album/78AJ3GJhuovCzEOZDzOGDK) | 2:52 | 2022-03-18 | 2022-11-14 |
+| [Do Me with Love](https://open.spotify.com/track/3AbkUW6Ce5hqmd18Dm1fzZ) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Sleeping with Your Memory](https://open.spotify.com/album/78AJ3GJhuovCzEOZDzOGDK) | 2:52 | 2022-03-18 |  |
 | [Do Ya'](https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [Greatest Hits\-\-"Songs from an Aging Sex Bomb"](https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X) | 4:05 | 2021-10-22 |  |
 | [Does He Love You](https://open.spotify.com/track/7xQ0BegzdB8TCLreb0MQsi) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Linda Davis](https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv) | [50 Greatest Hits](https://open.spotify.com/album/2Fs8kfD1oFmBpQxf5XIYgR) | 4:19 | 2021-10-22 | 2022-07-29 |
 | [Does He Love You](https://open.spotify.com/track/2h5Gd8kfCQXWWdWSM1omvZ) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Linda Davis](https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv) | [Country Duets](https://open.spotify.com/album/4Gdfwsn5Sfrkc70t5899Wo) | 4:20 | 2022-03-18 | 2022-11-13 |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "The whole family can worship together with these upbeat, inspirational songs.",
   "name": "Inspiration for Kids",
-  "published_playlist_ids": [
-    "4ouO9TGcvdiRiB4W0BQXPr"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,28 @@
       "duration_ms": 59000,
       "name": "(Don't You Know) It's Time To Praise The Lord",
       "url": "https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj"
+    },
+    {
+      "album": {
+        "name": "10,000 Armies",
+        "url": "https://open.spotify.com/album/68gsIXz2fHm4eY2jCODwnZ"
+      },
+      "artists": [
+        {
+          "name": "Influence Music Kids",
+          "url": "https://open.spotify.com/artist/542wlUL6sF17e4UguG9y7z"
+        },
+        {
+          "name": "Whitney Medina",
+          "url": "https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196770,
+      "name": "10,000 Armies - Kids Version",
+      "url": "https://open.spotify.com/track/1HiqYVHbYJY9T5WdFuXlyX"
     },
     {
       "album": {

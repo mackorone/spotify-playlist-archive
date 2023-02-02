@@ -4,7 +4,7 @@
 
 > Remembering the voices that have always spoken truth to power.
 
-46 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/7vAfmpBAVQyXweFVmlW8iX)
+46 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

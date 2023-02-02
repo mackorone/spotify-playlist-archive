@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-108 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/51Vd6umMWNvVzBmx5KIj0I)
+108 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bohemienne](https://open.spotify.com/track/24B4JQh1WaoVllHGQzjRMr) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 4:22 | 2022-11-25 |  |
 | [Boum musette](https://open.spotify.com/track/5o21zzrmo3ppnruabrr1Fa) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [La foule \(Collection "Les archives de l'accordéon"\)](https://open.spotify.com/album/00Q6aSetTUHYYFZygpEdv7) | 2:24 | 2022-02-18 |  |
 | [Brise Napolitaine \- 1956](https://open.spotify.com/track/5tsAXJsDCzJL9mOLW09xX0) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [Valse Musette](https://open.spotify.com/album/3IstTjNFAMomssd6s9g8XX) | 2:25 | 2022-02-18 |  |
-| [Cest Si Bon](https://open.spotify.com/track/0OHa1UeDdKnkfGlq7brxnB) | [Bon Appétit Musique](https://open.spotify.com/artist/7tWQJ9vhVcQQBscWdUR4MI) | [France And French Cafe Accordion Music](https://open.spotify.com/album/41kogh7wCSEEL2olQyMmXi) | 3:16 | 2022-02-18 |  |
+| [Cest Si Bon](https://open.spotify.com/track/0OHa1UeDdKnkfGlq7brxnB) | [Bon Appétit Musique](https://open.spotify.com/artist/7tWQJ9vhVcQQBscWdUR4MI) | [France And French Cafe Accordion Music](https://open.spotify.com/album/41kogh7wCSEEL2olQyMmXi) | 3:16 | 2022-02-18 | 2023-01-12 |
 | [Cirque Francais](https://open.spotify.com/track/1e8P1UMUIa6sOlX9a4BbNb) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:24 | 2022-11-25 |  |
 | [Corinne](https://open.spotify.com/track/6W8cg08lZU9JnndwYtEhTS) | [Charles Camilleri](https://open.spotify.com/artist/0S86Uw64KjBhVoZxgbuZiM), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 4:02 | 2022-02-18 | 2022-07-29 |
 | [Corinne](https://open.spotify.com/track/1CEjw6vteEMITpEl15WseM) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 4:02 | 2022-02-18 |  |

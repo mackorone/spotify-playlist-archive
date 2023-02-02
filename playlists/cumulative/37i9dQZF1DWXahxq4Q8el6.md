@@ -4,7 +4,7 @@
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-81 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/0k0VtrZCFLgHJzINOLLZfg)
+82 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Hollow in the Ferns](https://open.spotify.com/track/7ChcR1Vdev6qnpcELoU5tI) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 3:38 | 2021-01-29 |  |
 | [Hope](https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:30 | 2021-01-29 |  |
 | [I'm Forrest..\. Forrest Gump](https://open.spotify.com/track/1ijrMIqQvZNsnoqGukPzFD) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Forrest Gump \- Original Motion Picture Score](https://open.spotify.com/album/1Fw951OcmbeCmVnnNcRYrp) | 2:39 | 2021-01-29 |  |
-| [Leaping Penguins](https://open.spotify.com/track/2aNbmkcEn5i29PSbWjjxB0) | [George Fenton](https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [Frozen Planet \(Soundtrack from the TV series\)](https://open.spotify.com/album/02bMvrs1MgBGhtAc311yzW) | 1:28 | 2022-07-13 |  |
+| [Leaping Penguins](https://open.spotify.com/track/2aNbmkcEn5i29PSbWjjxB0) | [George Fenton](https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [Frozen Planet \(Soundtrack from the TV series\)](https://open.spotify.com/album/02bMvrs1MgBGhtAc311yzW) | 1:28 | 2022-07-13 | 2022-12-04 |
 | [Leaping Penguins](https://open.spotify.com/track/4axwWfy5bqOQeZ0adeJ6XU) | [George Fenton](https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [Frozen Planet \(Soundtrack from the TV series\)](https://open.spotify.com/album/3A4JADKRXmANcPAPB8UHwn) | 1:28 | 2021-01-29 | 2022-07-29 |
+| [Leaping Penguins](https://open.spotify.com/track/6wsoNBrdpgQ0EY0MektJYq) | [George Fenton](https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [Frozen Planet \(Soundtrack from the TV Series\)](https://open.spotify.com/album/1wri0zC2tZRJeEPN7sXhO6) | 1:28 | 2022-09-16 |  |
 | [Liz On Top Of The World \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/6QuCKdMsTW8ppnUiFmxJLF) | [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice OST](https://open.spotify.com/album/31qEnY1MFmGwOdgjLLClPd) | 1:22 | 2021-01-29 |  |
 | [Main Titles from the HBO Miniseries Band of Brothers \- Instrumental](https://open.spotify.com/track/1LcNtS9B22LgIHxd9gTGcV) | [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4), [Michael Kamen](https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb) | [Band of Brothers \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6KAFJmF0fCCTnUnFvPP6m6) | 2:24 | 2021-01-29 |  |
 | [Making Water](https://open.spotify.com/track/0AeUTVVGVWgwPCpPGAm6sT) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [The Martian: Original Motion Picture Score](https://open.spotify.com/album/17o7ljUmsa9MusgN2BjXwV) | 2:38 | 2021-01-29 |  |

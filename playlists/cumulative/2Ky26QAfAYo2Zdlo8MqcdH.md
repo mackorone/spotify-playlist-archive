@@ -4,7 +4,7 @@
 
 > Listen the best of punk pop during your breakfast.
 
-20 songs - 1 hr 3 min - [published](https://open.spotify.com/playlist/3WWZlwJ5WvJWKrAIwZJKuF)
+20 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

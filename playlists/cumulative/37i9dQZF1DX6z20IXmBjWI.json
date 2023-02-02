@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Acoustic and roots music gems. ",
   "name": "Infinite Acoustic",
-  "published_playlist_ids": [
-    "2lhdiCy6DWi2BRRHxhm4lv"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 273513,
       "name": "A Prayer Of My Own",
       "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
@@ -55,10 +52,28 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 231408,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
+    },
+    {
+      "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
     },
     {
       "album": {
@@ -73,7 +88,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
@@ -445,7 +460,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
@@ -485,6 +500,24 @@
       "duration_ms": 217466,
       "name": "Big Black Car",
       "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+    },
+    {
+      "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/3sBXsP0zgyV9t5HfLf6hEb"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205812,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/1grI6XCzv8xD3agR9gUpRl"
     },
     {
       "album": {
@@ -1229,7 +1262,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 279680,
       "name": "Elijah - Acoustic Version",
       "url": "https://open.spotify.com/track/6FnCRa4EVBmzHaLxKKGsCb"
@@ -1417,6 +1450,24 @@
     {
       "album": {
         "name": "Ledges",
+        "url": "https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 243773,
+      "name": "First Defeat",
+      "url": "https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc"
+    },
+    {
+      "album": {
+        "name": "Ledges",
         "url": "https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW"
       },
       "artists": [
@@ -1445,7 +1496,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 242387,
       "name": "Follow My Voice",
       "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
@@ -2149,7 +2200,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 210160,
       "name": "How Can You Sing",
       "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
@@ -2225,7 +2276,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 188346,
       "name": "Hurts (But It Goes Away) - Acoustic",
       "url": "https://open.spotify.com/track/0Jgk1xdaIbtHdW1hjeQXiV"
@@ -2515,7 +2566,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
@@ -2927,7 +2978,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 256798,
       "name": "My City of Ruins",
       "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
@@ -3111,6 +3162,24 @@
       "duration_ms": 189500,
       "name": "Next to Me - Acoustic",
       "url": "https://open.spotify.com/track/5bSxRjgi1YMopg5HMUL2gU"
+    },
+    {
+      "album": {
+        "name": "No Horse To Ride (demo version)",
+        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133906,
+      "name": "No Horse To Ride - demo version",
+      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
     },
     {
       "album": {
@@ -4297,7 +4366,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
@@ -4369,7 +4438,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 265840,
       "name": "Sense of Home",
       "url": "https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I"
@@ -4387,7 +4456,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
@@ -4423,7 +4492,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-12",
       "duration_ms": 222133,
       "name": "Silver Dagger - Solstice Version",
       "url": "https://open.spotify.com/track/7u3LJNd9Iv7KecnKmB3gxa"
@@ -4499,6 +4568,24 @@
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/4WkXg0OeMYPY7oM9ZRq6mm"
+    },
+    {
+      "album": {
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
     },
     {
       "album": {
@@ -5383,7 +5470,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
@@ -5707,7 +5794,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-25",
       "duration_ms": 212634,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"

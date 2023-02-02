@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
   "name": "This Is Perdidos De Sinaloa",
-  "published_playlist_ids": [
-    "6Y7WCOGwQgghlGDjlm7brC"
-  ],
   "tracks": [
     {
       "album": {
@@ -284,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Deja De Chingar",
+        "url": "https://open.spotify.com/album/0orJw54cnLfLmYPSVpkj64"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199861,
+      "name": "Deja De Chingar",
+      "url": "https://open.spotify.com/track/72qLlWqf657e3hEkP7LkHx"
+    },
+    {
+      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
@@ -321,7 +336,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 193096,
       "name": "El Amigazo (En Vivo)",
       "url": "https://open.spotify.com/track/5UIA7eyt28flCy6kwIiuZ1"
@@ -339,7 +354,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 249789,
       "name": "El Signo Libra",
       "url": "https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7"
@@ -455,6 +470,28 @@
       "duration_ms": 202826,
       "name": "Juro Por Dios - En Vivo",
       "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
+    },
+    {
+      "album": {
+        "name": "La Bruta (En Vivo)",
+        "url": "https://open.spotify.com/album/583SjEIDcYrSXrOYWa0V3Z"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "La Bruta (En Vivo)",
+      "url": "https://open.spotify.com/track/7IVjHkw0xPgHsswmRDUDLD"
     },
     {
       "album": {
@@ -621,7 +658,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 185870,
       "name": "Lo S\u00e9",
       "url": "https://open.spotify.com/track/6FOdDUjwDhXKj7SO2wONlo"
@@ -683,6 +720,28 @@
       "duration_ms": 256914,
       "name": "Me Hubieras Cobrado",
       "url": "https://open.spotify.com/track/7kjrKf3poQGEoNMXnQVAMs"
+    },
+    {
+      "album": {
+        "name": "Me Muero",
+        "url": "https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Me Muero",
+      "url": "https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM"
     },
     {
       "album": {
@@ -793,6 +852,32 @@
       "duration_ms": 222469,
       "name": "Mujer Hermosa",
       "url": "https://open.spotify.com/track/0XhaVvPNfXxl3qDV5cpg4T"
+    },
+    {
+      "album": {
+        "name": "Mundo De Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/1fSwfzY2vnT784StdTTtaO"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "Banda La Perdida",
+          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Mundo De Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/6RwMdLaMNnY0q3D6YbvLOK"
     },
     {
       "album": {
@@ -909,7 +994,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 217531,
       "name": "No Vuelvo A Extranarte",
       "url": "https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ"
@@ -1053,7 +1138,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 186462,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh"
@@ -1231,6 +1316,28 @@
       "duration_ms": 220917,
       "name": "Sigo de pie",
       "url": "https://open.spotify.com/track/67VgUmWzx04XMSXTf9CZqn"
+    },
+    {
+      "album": {
+        "name": "Dariel Party, Vol. 1",
+        "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 180917,
+      "name": "Soy Un Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/2U7mduMbGpHQV0vYeagNdU"
     },
     {
       "album": {
@@ -1515,6 +1622,28 @@
       "duration_ms": 184348,
       "name": "Ya Duele Menos",
       "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
+    },
+    {
+      "album": {
+        "name": "Yo Tambi\u00e9n Soy Bien Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/6UH5kiYAjCUqL6SqJDjsQd"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251968,
+      "name": "Yo Tambi\u00e9n Soy Bien Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/0dWLTesLn3JYHQOID9vHqy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO407nKU"

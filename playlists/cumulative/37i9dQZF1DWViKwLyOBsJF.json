@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Traditional carols and hymns for a classic Christmas feeling.",
   "name": "Instrumental Christmas Hymns",
-  "published_playlist_ids": [
-    "3fahOy3iri1dJ2MuPaHK5f"
-  ],
   "tracks": [
     {
       "album": {
@@ -892,10 +889,36 @@
     },
     {
       "album": {
-        "name": "Silent Night",
-        "url": "https://open.spotify.com/album/5NzYBUOkslN8o3SRDxj620"
+        "name": "The Little Drummer Boy",
+        "url": "https://open.spotify.com/album/50N8RLcnXHRulPucazKUfE"
       },
       "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 150917,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/0X7zX4vhaYLY0Li1zTpfnS"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/6U12R48Wp7jHFTX4odwrDr"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
@@ -903,10 +926,54 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
+      "duration_ms": 150917,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/5mEuKXw8Sn0WMiSTbaCSZ3"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/5NzYBUOkslN8o3SRDxj620"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
       "duration_ms": 150917,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/6qIgnz0yHDeMzYVZnmMCen"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150917,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/6x3dy83g7vEmzd6z8wCVhK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A collection of Grieg's finest songs, symphonies and suites.
 
-73 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/18CkEV4o34PZUxDKJ4FaDk)
+73 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-13",
   "description": "hairbrush as a microphone type songs.",
   "name": "Slumber Party",
-  "published_playlist_ids": [
-    "6PTJHBFUIOwc6BtLykSSy8"
-  ],
   "tracks": [
     {
       "album": {
@@ -1001,7 +998,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2022-12-13",
       "duration_ms": 284480,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl"
@@ -1019,7 +1016,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-02",
       "duration_ms": 217573,
       "name": "Genie In a Bottle",
       "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
@@ -1317,6 +1314,28 @@
       "duration_ms": 162586,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw"
+    },
+    {
+      "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "i'm so tired...",
+      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
     },
     {
       "album": {
@@ -3039,7 +3058,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 227373,
       "name": "The Heart Wants What It Wants",
       "url": "https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA"

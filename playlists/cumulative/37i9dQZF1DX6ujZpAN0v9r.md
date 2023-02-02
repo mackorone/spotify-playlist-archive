@@ -4,7 +4,7 @@
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
 
-227 songs - 17 hr 23 min - [published](https://open.spotify.com/playlist/5wox3oqTyq5tKxLClFEbq5)
+228 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 | 2020-10-29\* | 2022-07-29 |
 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 | 2021-06-03 |  |
 | [Sugar for the Pill](https://open.spotify.com/track/523OTV3Jai7mqHO2vgtOg6) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Sugar for the Pill](https://open.spotify.com/album/0l5I4Ai7B9rnpb5ynLDmM8) | 4:30 | 2021-06-03 | 2022-11-14 |
+| [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 | 2023-01-11 |  |
 | [Superbike](https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:53 | 2021-06-03 |  |
 | [Superbike](https://open.spotify.com/track/2bVGZZxrkTDmm3UgduHNyh) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj) | 3:53 | 2021-06-03 | 2022-11-25 |
 | [Superbike](https://open.spotify.com/track/4kK7bQcFQKldges2b6WXrV) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Superbike](https://open.spotify.com/album/68TrLByFkqkuVDVmIVpXdi) | 3:53 | 2020-10-29\* | 2022-07-29 |

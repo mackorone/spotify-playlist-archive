@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "County's best like you've never heard before. Cover: Breland. ",
+  "description": "County's best like you've never heard before. Cover: Lainey Wilson",
   "name": "Spotify Singles: Country",
-  "published_playlist_ids": [
-    "6cfFPGErcW6407wBcuU0nz"
-  ],
   "tracks": [
     {
       "album": {
@@ -905,6 +902,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Middle Finger - Spotify Singles",
+      "url": "https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi"
       },
       "artists": [
@@ -1189,6 +1204,24 @@
       "duration_ms": 185331,
       "name": "Reasons - Recorded At Sound Stage Nashville",
       "url": "https://open.spotify.com/track/3ORTR7IKpwANt7TdbGwfwN"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
     },
     {
       "album": {

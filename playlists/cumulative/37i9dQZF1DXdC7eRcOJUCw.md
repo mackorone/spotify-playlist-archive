@@ -4,7 +4,7 @@
 
 > Estas damas sí que tienen carácter\. Majo Aguilar en portada.
 
-175 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/28qg7h7VtnPvoLfHcWoH3E)
+176 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,9 @@
 | [Es Demasiado Tarde \- Remasterizado](https://open.spotify.com/track/0XJmLEViRKNxRxi0ixOJao) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 4:11 | 2021-11-26 | 2022-04-19 |
 | [Esta situación](https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:27 | 2021-11-26 |  |
 | [Fallaste Corazón](https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:44 | 2021-11-26 |  |
+| [Fruta Prohibida](https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:45 | 2022-06-08 |  |
 | [Fruta Prohibida](https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts) | 2:45 | 2022-04-18 | 2022-07-29 |
-| [Fruta Prohibida](https://open.spotify.com/track/7wzBcwQYUyboa2w56LWlIP) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/186sbJdKHVH7OM5MuBtdUv) | 2:45 | 2022-06-08 |  |
+| [Fruta Prohibida](https://open.spotify.com/track/7wzBcwQYUyboa2w56LWlIP) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/186sbJdKHVH7OM5MuBtdUv) | 2:45 | 2022-06-08 | 2022-12-22 |
 | [Gaviota Traidora](https://open.spotify.com/track/4RFUAP9a2VWF7BF0XsghH8) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/6GwaoWbWyoONxQA8NxnaQM) | 2:42 | 2022-06-08 | 2022-11-13 |
 | [Gaviota Traidora](https://open.spotify.com/track/54UCeomwW6iG6gN0YijQfM) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Grandes Exitos\-Flor Silvestre](https://open.spotify.com/album/4FNgT1gbX9oHHuikiyZcOv) | 2:42 | 2021-11-26 | 2022-07-29 |
 | [Gaviota Traidora](https://open.spotify.com/track/65DppNriLfxOOM5eCSaKm3) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 2:42 | 2022-06-08 |  |

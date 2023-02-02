@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 66,
+  "num_followers": 65,
   "original_name": "Top Picks Club",
   "owner": {
     "name": "Spotify",
@@ -74,6 +74,14 @@
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
       "duration_ms": 201000,

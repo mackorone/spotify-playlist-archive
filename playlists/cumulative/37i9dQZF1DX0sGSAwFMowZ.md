@@ -4,7 +4,7 @@
 
 > This Is Girls' Generation\. The essential tracks, all in one playlist.
 
-149 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/6wsxtOIw6YJHSLN9yzJBNB)
+149 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

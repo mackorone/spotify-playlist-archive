@@ -4,7 +4,7 @@
 
 > Enjoy the top streamed country songs of 2016 right here! Cover: Dan + Shay
 
-50 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/1J91eYkhnaRSxGcD3PNzXl)
+50 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

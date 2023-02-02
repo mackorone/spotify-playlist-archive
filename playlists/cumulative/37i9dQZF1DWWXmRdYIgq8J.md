@@ -4,7 +4,7 @@
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-93 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/3hJwIKMOemzG50G9c6UeZn)
+94 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Kirk Na Din](https://open.spotify.com/track/5CHZlrPJRkmNVfzMyqt3mT) | [Cecil Funrose](https://open.spotify.com/artist/3wRM9dajPobZCh8VKpRxhR) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 4:36 | 2021-10-21 |  |
 | [Lago Tore Paiya](https://open.spotify.com/track/30QugxPxe1wtt7e7o0yoQz) | [Nishard M](https://open.spotify.com/artist/6z6RdNPFBjmUIsstVgTzqi), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Lago Tore Paiya](https://open.spotify.com/album/3LfDkwVOjVBEqFexB1va1i) | 3:41 | 2021-10-21 | 2022-10-05 |
 | [Lago Tore Paiya](https://open.spotify.com/track/4kIvWWW7DVn5dNE5dZsTGK) | [Nishard M](https://open.spotify.com/artist/6z6RdNPFBjmUIsstVgTzqi), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Lago Tore Paiya](https://open.spotify.com/album/0t0l1mRGOfyhFn1Ddvrb0I) | 3:41 | 2022-09-27 |  |
-| [Legend](https://open.spotify.com/track/6e5mgv3aosMtxjI15UssZp) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Legend](https://open.spotify.com/album/3t4xXfaFVDuqArHeCl2P2R) | 3:21 | 2021-10-21 |  |
+| [Legend](https://open.spotify.com/track/5Ry1vM7AHWyygE3TDq8Gco) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Legend](https://open.spotify.com/album/2smg9m98tURDyPbgN5b61p) | 3:21 | 2022-10-27 |  |
+| [Legend](https://open.spotify.com/track/6e5mgv3aosMtxjI15UssZp) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Legend](https://open.spotify.com/album/3t4xXfaFVDuqArHeCl2P2R) | 3:21 | 2021-10-21 | 2022-12-19 |
 | [Loota La](https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV) | [Sonny Man](https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:02 | 2021-10-21 |  |
 | [Lootala](https://open.spotify.com/track/1XbEmKkEdifeicWVbhbS3T) | [Sonny Mann](https://open.spotify.com/artist/7ISdKLHNOk7qDf9vIRwCa0) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 5:02 | 2022-06-22 |  |
 | [Mohan Bina Gowna](https://open.spotify.com/track/03qQAIUvSjPUzeonHQvjgY) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 5:00 | 2022-06-22 |  |

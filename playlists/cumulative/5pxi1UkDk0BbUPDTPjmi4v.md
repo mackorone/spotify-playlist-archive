@@ -4,7 +4,7 @@
 
 > Here's to cherishing lifelong friends, remembering the good times, and celebrating the end of an era!
 
-40 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/24oxbIyGOJ1OSC5jAbIJgp)
+40 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

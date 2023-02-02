@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Sometimes a cover can be even better than the original. You decide. Cover: M\u00e5neskin",
   "name": "Rock Covers",
-  "published_playlist_ids": [
-    "6fMWxdc4tVDZLm5e3A4GlR"
-  ],
   "tracks": [
     {
       "album": {
@@ -224,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Alison (Demo)",
+        "url": "https://open.spotify.com/album/6YEqa6Rd3McfnhXd2wGiBY"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154427,
+      "name": "Alison - Demo",
+      "url": "https://open.spotify.com/track/4DbANKRc1W9ChH2pWchb58"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL"
       },
@@ -307,7 +322,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 249853,
       "name": "Ballroom Blitz",
       "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
@@ -395,7 +410,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-11-29",
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
@@ -1183,7 +1198,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 265476,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm"
@@ -1885,7 +1900,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202053,
-      "name": "Higher Ground - Remastered",
+      "name": "Higher Ground - Remastered 2003",
       "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
     },
     {
@@ -2003,7 +2018,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 189248,
       "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
       "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
@@ -2405,7 +2420,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 314522,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/2yoZimUShwEoCsXEfmRGNV"
@@ -2985,7 +3000,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 210997,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/5LVUEkOEf54bCxaDGiDAoR"
@@ -3727,7 +3742,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 204653,
       "name": "Royals",
       "url": "https://open.spotify.com/track/3RZxpy9ic7FhK3UPvxmPET"
@@ -3897,6 +3912,50 @@
       "duration_ms": 300698,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
+    },
+    {
+      "album": {
+        "name": "Separate Ways (Worlds Apart)",
+        "url": "https://open.spotify.com/album/4hYWzikXRPg5I80ZqLPGAC"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316458,
+      "name": "Separate Ways (Worlds Apart)",
+      "url": "https://open.spotify.com/track/7goFhrbCC2m2HI3EbBYgU4"
+    },
+    {
+      "album": {
+        "name": "Separate Ways (Worlds Apart) [feat. Lzzy Hale]",
+        "url": "https://open.spotify.com/album/6q3H4YDdXRgKmXeNEdECrQ"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 316458,
+      "name": "Separate Ways (Worlds Apart) [feat. Lzzy Hale]",
+      "url": "https://open.spotify.com/track/1H0HP2mqLRJtgfYisSEDWo"
     },
     {
       "album": {
@@ -4175,7 +4234,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 221481,
       "name": "Sugar We\u2019re Goin Down",
       "url": "https://open.spotify.com/track/1WoP8y5Koy4p51ZFGWEacX"
@@ -4749,7 +4808,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-09",
       "duration_ms": 259689,
       "name": "Uninvited",
       "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
@@ -4937,7 +4996,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"

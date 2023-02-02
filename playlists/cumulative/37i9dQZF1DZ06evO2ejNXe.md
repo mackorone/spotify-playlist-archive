@@ -4,7 +4,7 @@
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/6FgtEwLsDoBJ1pzNYHsEP8)
+48 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 | 2022-06-01 |  |
 | [Calzones De Bolitas](https://open.spotify.com/track/0FpwNEP4wq4iFN3W2M5HaH) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [El Reloj De Mi Corazon](https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w) | 3:32 | 2022-06-01 |  |
 | [Claridad](https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:38 | 2022-06-01 |  |
-| [Creiste](https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 2:43 | 2022-08-20 | 2022-08-22 |
+| [Creiste](https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 2:43 | 2022-08-20 |  |
 | [Dale Biberon](https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:24 | 2022-06-02 |  |
 | [Dejala Que Baile](https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:56 | 2022-06-01 |  |
 | [El Chango Lloron](https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:23 | 2022-06-01 |  |
@@ -34,7 +34,7 @@
 | [La Guera Karla](https://open.spotify.com/track/1AnMUfHLFWbM26lZWH793A) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 2:51 | 2022-06-01 |  |
 | [Locamente Enamorado](https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 3:26 | 2022-06-01 |  |
 | [Lolita La Cevichera](https://open.spotify.com/track/2I16xsBvYgqVAaL4pd4Z8B) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:28 | 2022-06-01 |  |
-| [Mambo Caliente](https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:29 | 2022-06-01 |  |
+| [Mambo Caliente](https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:29 | 2022-06-01 | 2022-12-05 |
 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 | 2022-06-01 |  |
 | [Mambo Maria](https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 2:41 | 2022-06-01 |  |
 | [Mambo, Mambo](https://open.spotify.com/track/1lfsFtXEM1TSYTja0WCo7C) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:04 | 2022-06-01 |  |
@@ -47,6 +47,7 @@
 | [Playa Sola](https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:51 | 2022-06-01 |  |
 | [Ponte El Zarape](https://open.spotify.com/track/4gZTC4RXeQMYPINO9geFta) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:03 | 2022-06-01 |  |
 | [Por Ella](https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 4:07 | 2022-06-01 |  |
+| [Que Bonita Te Ves](https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:20 | 2022-12-27 |  |
 | [Que Esto Que Lo Otro](https://open.spotify.com/track/5NwNMxpq58Sg2aKCCHJy0o) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:32 | 2022-06-01 |  |
 | [Rico Ritmo](https://open.spotify.com/track/1jHMIjqGdJrWH3FrpevfUR) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:45 | 2022-06-01 |  |
 | [Ritmo Caliente](https://open.spotify.com/track/0JMPuoi9vvGyWrPm9f8j3V) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 2:43 | 2022-06-01 |  |

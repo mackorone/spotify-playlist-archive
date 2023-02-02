@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,009 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,311 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nothing More to Say \- Dub](https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Nothing More to Say](https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi) | 5:25 |
-| 2 | [Beautiful](https://open.spotify.com/track/2NyST1PrdhrIySjgKG8fop) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/6v7bvadPuidJL6o6kepl1f) | 3:49 |
+| 2 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
 | 3 | [Happiness](https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6) | 4:03 |
 | 4 | [Liquorice](https://open.spotify.com/track/3LmlegS3av5opwiIMVDbgI) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:16 |
 | 5 | [Mean Girls](https://open.spotify.com/track/64n00yB9GuPvH5FJiNtq8F) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [333](https://open.spotify.com/album/38grabLpTHYySHEyG0TyUN) | 2:26 |
@@ -68,6 +68,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 58 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 |
 | 59 | [On Da Block](https://open.spotify.com/track/7GBzYvWAITt7DDYyR1L3jG) | [StacEmp](https://open.spotify.com/artist/3d4rK6MigFRFYMKWGQhA58) | [Steel City Dance Discs Volume 16](https://open.spotify.com/album/6QH8oOcYmyhA9PKjpaLrPS) | 6:52 |
 | 60 | [FELL](https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [SIREN CALL](https://open.spotify.com/album/3Mozvi21Fv8p7YSjRcRSkg) | 3:03 |
-| 61 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 |
+| 61 | [Puppy](https://open.spotify.com/track/4PTM36Ku1D59yaDVA2T5Ld) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/6jGkDcPdeC8CBB3RXb1wf5) | 4:08 |
 
-Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDk5ZjA5MjVmZGRmN2ZiZmQ4NzExZTYwZjBjNGYxZDky`
+Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDllNzgzZDFiOTBmMzY3M2UxYjYxNDc5NTc0OGNkY2Q3`

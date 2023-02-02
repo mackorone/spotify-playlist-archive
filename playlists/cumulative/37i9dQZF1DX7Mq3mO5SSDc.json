@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-29",
   "description": "An homage to the iconic label\u2019s 1980s and 1990s roots.",
   "name": "Hip-Hop Anthems: Def Jam",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -849,6 +848,10 @@
         {
           "name": "3rd Bass",
           "url": "https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc"
+        },
+        {
+          "name": "Zev Love",
+          "url": "https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx"
         }
       ],
       "date_added": "2020-03-04",

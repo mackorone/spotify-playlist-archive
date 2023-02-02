@@ -4,7 +4,7 @@
 
 > The official playlist for all things League of Legends featuring the Worlds Anthem: "STAR WALKIN'" by Lil Nas X.
 
-190 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/2PgZSYFWMxW0qdwLuhrNOZ)
+190 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

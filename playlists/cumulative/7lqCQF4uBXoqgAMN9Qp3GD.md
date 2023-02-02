@@ -4,7 +4,7 @@
 
 > 
 
-11 songs - 46 min 3 sec - not published yet
+11 songs - 46 min 3 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

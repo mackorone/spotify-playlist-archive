@@ -4,7 +4,7 @@
 
 > The ones we love\. This is R.E.M.
 
-59 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/0SLZjuxDe8fCRaEhWZbpcs)
+59 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

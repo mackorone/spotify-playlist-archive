@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,609 likes - 97 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,158 likes - 97 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 55 | [Upon Burning Skies](https://open.spotify.com/track/0ImWqzGKxRkRD28Zlck86R) | [Sable Sheep](https://open.spotify.com/artist/4XaYCUxd6APqq2eMhOTm5R) | [Upon Burning Skies](https://open.spotify.com/album/5WANTczHKKfzfKSKTh28i3) | 8:24 |
 | 56 | [Eyes On Fire \- Michael Bibi Remix](https://open.spotify.com/track/4iwbpbaCayPJVbjILoaFV0) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Eyes On Fire \(Michael Bibi Remix\)](https://open.spotify.com/album/5o2VFMAuqgdxhxpbJGoZZg) | 6:01 |
 | 57 | [Days \- Soul Clap Remix](https://open.spotify.com/track/3YBL3hMnn9SliOQWCLc1ND) | [Creep](https://open.spotify.com/artist/7uxdd0kdUdXLwkJKBQkVtP), [Soul Clap](https://open.spotify.com/artist/5QR4Lj1NcJQlNeIIJ6BQos) | [Days \(Remixes\)](https://open.spotify.com/album/6GdH73bw6Zkjo2p5M6zLkX) | 5:33 |
-| 58 | [Peru \- Original Mix](https://open.spotify.com/track/72lYfha9WcI0rPEesPnKk4) | [D.C\. Salas](https://open.spotify.com/artist/0I5D6nYC5x4pwIg6tPbMf3) | [Ibiza Underground 2011](https://open.spotify.com/album/173eL8LOalcV39QJW3ZjZF) | 6:31 |
+| 58 | [Peru \- Original Mix](https://open.spotify.com/track/72lYfha9WcI0rPEesPnKk4) | [DC Salas](https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw) | [Ibiza Underground 2011](https://open.spotify.com/album/173eL8LOalcV39QJW3ZjZF) | 6:31 |
 | 59 | [10AM Fuse](https://open.spotify.com/track/03cy6hMyW9Y07tJuF2bIg3) | [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [Theory To Start EP](https://open.spotify.com/album/0VWMSL6qWgOj2bUlHkaoFv) | 7:03 |
 | 60 | [Bad Boy](https://open.spotify.com/track/1AnpldetwK3OnL6tLrvgzf) | [Richy Ahmed](https://open.spotify.com/artist/1ac5NUFh98sMs0DGX4xlSt) | [Bad Boy/Italo 80](https://open.spotify.com/album/0mpgrUKS4nq1jvfJST56fK) | 6:01 |
 | 61 | [Up To Love](https://open.spotify.com/track/50rpy4fARZI7PCHjFbkHD3) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Up To Love](https://open.spotify.com/album/5znJ97w508PdQv7YUNidmy) | 7:08 |

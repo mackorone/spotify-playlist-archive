@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
   "name": "This Is Mr Eazi",
-  "published_playlist_ids": [
-    "04LUwGShR4OdBbtoV9xRij"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,10 +24,36 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 195789,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw"
+    },
+    {
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
     },
     {
       "album": {
@@ -449,7 +472,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 156545,
       "name": "Come Online (feat. King Promise & Diquenza) - Remix",
       "url": "https://open.spotify.com/track/4si8WMTSHD5k9WP5DgV7ye"
@@ -535,7 +558,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2023-01-01",
       "duration_ms": 178106,
       "name": "Dabebi",
       "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
@@ -1737,7 +1760,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": "2023-01-19",
       "duration_ms": 145174,
       "name": "Property",
       "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
@@ -1829,10 +1852,44 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 179000,
       "name": "See Me",
       "url": "https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7"
+    },
+    {
+      "album": {
+        "name": "See Something",
+        "url": "https://open.spotify.com/album/01W43KdTTTYrCzTQPpG52K"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157219,
+      "name": "See Something",
+      "url": "https://open.spotify.com/track/0QG6TEF6PwA6HeMDiE6NJb"
     },
     {
       "album": {
@@ -1877,7 +1934,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 151656,
       "name": "She Loves Me",
       "url": "https://open.spotify.com/track/0NrppiQcbgGrgobengy7e2"
@@ -2245,7 +2302,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 186120,
       "name": "Too Bad Bad (feat. Mr Eazi)",
       "url": "https://open.spotify.com/track/46B65q1LbqKB9ikpuGMI6D"
@@ -2275,6 +2332,24 @@
       "duration_ms": 224842,
       "name": "Walangolo",
       "url": "https://open.spotify.com/track/1rgPaNbruePcgLEX3rse9j"
+    },
+    {
+      "album": {
+        "name": "Werser",
+        "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248697,
+      "name": "Werser",
+      "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
     },
     {
       "album": {
@@ -2323,7 +2398,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2023-01-16",
       "duration_ms": 200209,
       "name": "Zodi (feat. Mr Eazi)",
       "url": "https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4"

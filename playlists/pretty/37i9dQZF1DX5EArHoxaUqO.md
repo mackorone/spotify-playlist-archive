@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 
 > Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892 likes - 26 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 974 likes - 26 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 | 17 | [Hold On, Be Strong](https://open.spotify.com/track/7g8S0N45Tkp7yE1WEWRwyu) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 1:12 |
 | 18 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
 | 19 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
-| 20 | [Iconoteca](https://open.spotify.com/track/7xpKSrGAp1ZpX84Ui6Gc67) | [Rino De Filippi](https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0) | [French Riviera \(Edited Version\)](https://open.spotify.com/album/1DiOn1vpniiSJW8uqo6M45) | 3:35 |
+| 20 | [Iconoteca](https://open.spotify.com/track/05nLdp35XZU72bD5fRQMmn) | [Rino de Filippi](https://open.spotify.com/artist/6chjBsgCUvgk03POtYqekx) | [French Riviera](https://open.spotify.com/album/1zGjmNUUwgqkHDDKdQxunV) | 3:35 |
 | 21 | [Méditation Des Enfants](https://open.spotify.com/track/3wRs0OVDfZU0Hs4Jw7A2xh) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 1:33 |
 | 22 | [Portrait of Tracy](https://open.spotify.com/track/5NBAy2oiS9OIWyAZhklsH2) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Jaco Pastorius](https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m) | 2:22 |
 | 23 | [Pyramid Song](https://open.spotify.com/track/55q3Ro66yXWi9rsEddeEN4) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) | 4:48 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EArHoxaUqO.md) - [plain]
 | 25 | [Swing Low Sweet Chariot, Come Sunday](https://open.spotify.com/track/5wXulQePYdipf5yZuFjZS8) | [Brenda Mitchell Stewart](https://open.spotify.com/artist/4cIe8bqCXOsO0tUqS6qjqq) | [Missin' Mahalia: A Tribute To Ms\. Mahalia Jackson](https://open.spotify.com/album/1Dp5fbc3wjdY9YMGHCWgP2) | 5:57 |
 | 26 | [Goodnight, Sweetheart, Goodnight](https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Presenting the Spaniels](https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2) | 2:40 |
 
-Snapshot ID: `MTYyMDMzOTA1NCwwMDAwMDAwMDVkMTZhZGM3ZDBlOTA1ZWFlYmFjZWI2ZTQzYzIwODk5`
+Snapshot ID: `MTYyMDMzOTA1NCwwMDAwMDAwMDFmNjVhNGQ4ZWE4Mzk0YzFlOWUwNWI1NTA5MzhmMTUw`

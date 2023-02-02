@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
   "description": "Keep your run going with these upbeat rock tracks.",
-  "name": "ROCK 'N' RUN",
-  "published_playlist_ids": [
-    "3TPPArdfkB2psOaQQ7VVia"
-  ],
+  "name": "Rock 'n' Run",
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 202493,
       "name": "\"45\"",
       "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
@@ -253,7 +250,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 188653,
       "name": "Back Foot",
       "url": "https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC"
@@ -289,10 +286,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 225786,
       "name": "Beautiful Way",
       "url": "https://open.spotify.com/track/0W3g9YcnBlaQZzhLTpPEAM"
+    },
+    {
+      "album": {
+        "name": "SUCKAPUNCH",
+        "url": "https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "Beautiful Way",
+      "url": "https://open.spotify.com/track/3SevJWsbqUOpfPOpRZGrP9"
     },
     {
       "album": {
@@ -955,7 +970,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 168333,
       "name": "Fireman & Dancer",
       "url": "https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG"
@@ -991,7 +1006,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 222214,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
@@ -1027,7 +1042,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 217159,
       "name": "Heart and Soul",
       "url": "https://open.spotify.com/track/7CskFQLRb7IdIEdnAnjMDV"
@@ -1153,7 +1168,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 250240,
       "name": "If You Can't Hang",
       "url": "https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD"
@@ -1405,7 +1420,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 220446,
       "name": "Live Outside",
       "url": "https://open.spotify.com/track/4gFBRNM2w934WZMOINd49G"
@@ -1549,7 +1564,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 202838,
       "name": "Movies",
       "url": "https://open.spotify.com/track/3D8jabgtmZtDibyb6gqZOT"
@@ -1733,7 +1748,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 240572,
       "name": "Out of the Black",
       "url": "https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX"
@@ -2075,7 +2090,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 227200,
       "name": "State of Love and Trust",
       "url": "https://open.spotify.com/track/0KEhlgtlk0HuqBIqfGCGdF"
@@ -2205,6 +2220,24 @@
       "duration_ms": 194626,
       "name": "The Big What If",
       "url": "https://open.spotify.com/track/5S9nq3W1Vzw8L3mXl0L4G9"
+    },
+    {
+      "album": {
+        "name": "Sleeping With Ghosts",
+        "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190573,
+      "name": "The Bitter End",
+      "url": "https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf"
     },
     {
       "album": {
@@ -2363,7 +2396,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "The Small Print",
       "url": "https://open.spotify.com/track/6mPJvjjx7pcfZuI57Dh95o"
@@ -2417,7 +2450,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 265706,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
@@ -2550,6 +2583,24 @@
     },
     {
       "album": {
+        "name": "When Your Heart Stops Beating",
+        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
+      },
+      "artists": [
+        {
+          "name": "+44",
+          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "When Your Heart Stops Beating",
+      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
+    },
+    {
+      "album": {
         "name": "White Flag",
         "url": "https://open.spotify.com/album/6DfSN8W4AwOI1sr7a0nJZ3"
       },
@@ -2651,7 +2702,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 163760,
       "name": "Your Graduation",
       "url": "https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD"

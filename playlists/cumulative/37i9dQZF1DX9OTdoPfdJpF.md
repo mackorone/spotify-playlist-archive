@@ -4,7 +4,7 @@
 
 > Jamiroquai, the essential tracks, all in one playlist.
 
-50 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/6JpObmeb89mqYuEUceHPUy)
+50 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

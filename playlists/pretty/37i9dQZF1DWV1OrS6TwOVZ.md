@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1OrS6TwOVZ.md) - [plain]
 
 > The musically talented <a href="">Folamour</a> shares a feel good, groovy mix that will surely lift your spirits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,352 likes - 14 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,206 likes - 14 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place\. Cover: Star Wars: Andor
 
-121 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
+121 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Boba's Throne](https://open.spotify.com/track/5dHi50VL84X1SboMkXz4D7) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 3:45 | 2022-01-21 |  |
 | [Cantina Band](https://open.spotify.com/track/69EcXnxVVPb6Uz0Py7Wvcu) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Cantina Band](https://open.spotify.com/album/3cHajBszGLiZRY2kmaAoXo) | 2:20 | 2021-05-14 |  |
 | [Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 2:44 | 2021-05-14 |  |
-| [Cantina Song aka Mad About Mad About Me](https://open.spotify.com/track/03BiEbsMRrMkTNkgK5Bout) | [R3X](https://open.spotify.com/artist/2NMTE0NjCxiFqSWWnoizOe), [Figrin D'an and the Modal Nodes](https://open.spotify.com/artist/2zDOQCpjvoYQ1Igsm4ckbq) | [Star Wars: Galaxy's Edge Oga's Cantina: R3X's Playlist \#1](https://open.spotify.com/album/2UaqneQVFLgZ65ymj8h3Aj) | 2:54 | 2022-06-28 |  |
+| [Cantina Song aka Mad About Mad About Me](https://open.spotify.com/track/03BiEbsMRrMkTNkgK5Bout) | [R3X](https://open.spotify.com/artist/3VIzopkfBcSr8aZWElLH4P), [Figrin D'an and the Modal Nodes](https://open.spotify.com/artist/2zDOQCpjvoYQ1Igsm4ckbq) | [Star Wars: Galaxy's Edge Oga's Cantina: R3X's Playlist \#1](https://open.spotify.com/album/2UaqneQVFLgZ65ymj8h3Aj) | 2:54 | 2022-06-28 |  |
 | [Canto Bight](https://open.spotify.com/track/52hMydaS1ld25uY0wI1sHW) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 2:37 | 2021-05-14 |  |
 | [Dice & Roll](https://open.spotify.com/track/1k9RJ8bFFyT41s3FvUGSFP) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Solo: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm) | 1:54 | 2021-05-14 |  |
 | [Dooku Arrives](https://open.spotify.com/track/2peyQLkWFqjrMg49gGI0oQ) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Tales of the Jedi \(Original Soundtrack\)](https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ) | 2:43 | 2022-10-26 |  |

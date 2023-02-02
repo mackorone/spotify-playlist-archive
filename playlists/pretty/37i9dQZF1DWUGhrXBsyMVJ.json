@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1950s.",
-  "num_followers": 137325,
+  "num_followers": 151779,
   "original_name": "50s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxNTE5MSwwMDAwMDAwMDk0MzNlOThjNmRkODQ0ODljYzQ1NzE4OTUwMThiYWM3",
+  "snapshot_id": "MTY0MTgxNTE5MSwwMDAwMDAwMGRmYzJlNzVjM2Q5ZDk0ZDk0MzA5N2NlZDU2OWU5MmIy",
   "tracks": [
     {
       "added_at": "2022-01-10 11:46:31",
@@ -143,6 +143,42 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
+        "name": "Love, Ella",
+        "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Dream A Little Dream Of Me - Single Version",
+      "url": "https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Come Fly With Me (Remastered)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -171,42 +207,6 @@
       "duration_ms": 181493,
       "name": "A Kiss To Build A Dream On - Single Version",
       "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Come Fly With Me (Remastered)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Love, Ella",
-        "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Dream A Little Dream Of Me - Single Version",
-      "url": "https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -279,18 +279,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 179426,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -307,22 +307,6 @@
       "duration_ms": 215466,
       "name": "It's Always You - Vocal Version",
       "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -359,22 +343,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Day By Night (with Paul Weston & His Music From Hollywood)",
-        "url": "https://open.spotify.com/album/3Q4k7vP53iNv1MMoEqro7x"
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Paul Weston And His Orchestra",
-          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
         }
       ],
-      "duration_ms": 223373,
-      "name": "Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood)",
-      "url": "https://open.spotify.com/track/2HyPrPSANTIPkR6CfiytwY"
+      "duration_ms": 179426,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -395,22 +375,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Best Of The Crew Cuts",
-        "url": "https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP"
-      },
-      "artists": [
-        {
-          "name": "The Crew Cuts",
-          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
-        }
-      ],
-      "duration_ms": 168893,
-      "name": "Sh-Boom",
-      "url": "https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "Today & Yesterday",
         "url": "https://open.spotify.com/album/29LVsHDQnohvzRrKerq5t3"
       },
@@ -427,18 +391,38 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+        "name": "Day By Night (with Paul Weston & His Music From Hollywood)",
+        "url": "https://open.spotify.com/album/3Q4k7vP53iNv1MMoEqro7x"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Paul Weston And His Orchestra",
+          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
         }
       ],
-      "duration_ms": 222733,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU"
+      "duration_ms": 223373,
+      "name": "Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood)",
+      "url": "https://open.spotify.com/track/2HyPrPSANTIPkR6CfiytwY"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "The Best Of The Crew Cuts",
+        "url": "https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP"
+      },
+      "artists": [
+        {
+          "name": "The Crew Cuts",
+          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -455,6 +439,22 @@
       "duration_ms": 173240,
       "name": "Witchcraft",
       "url": "https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -491,6 +491,38 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 117213,
+      "name": "Words Of Love",
+      "url": "https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Songs For Young Lovers",
+        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "My Funny Valentine - Remastered",
+      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -523,34 +555,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Songs For Young Lovers",
-        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
+        "name": "He's So Fine",
+        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 150666,
-      "name": "My Funny Valentine - Remastered",
-      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 117213,
-      "name": "Words Of Love",
-      "url": "https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw"
+      "duration_ms": 154173,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -587,22 +603,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "He's So Fine",
-        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 127106,
       "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
       "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "The Best of Ritchie Valens",
-        "url": "https://open.spotify.com/album/0TyByC1U6mPoii8aeQ4L2i"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 116626,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/7wO1SGOue1lTuTzmXsp6vm"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -655,6 +639,22 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
+        "name": "The Best of Ritchie Valens",
+        "url": "https://open.spotify.com/album/0TyByC1U6mPoii8aeQ4L2i"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 116626,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/7wO1SGOue1lTuTzmXsp6vm"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
         "name": "Ricky Sings Again (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
       },
@@ -671,38 +671,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Too Young",
-      "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "You Mean Everything to Me",
-      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "The Fabulous Favorites",
         "url": "https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv"
       },
@@ -715,6 +683,22 @@
       "duration_ms": 172773,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -739,22 +723,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
@@ -771,6 +739,38 @@
       "duration_ms": 179866,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "You Mean Everything to Me",
+      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "Presenting Marion Ryan",
         "url": "https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 175053,
       "name": "Love Me Forever",
       "url": "https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
     },
     {
       "added_at": "2022-01-10 11:46:31",

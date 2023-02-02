@@ -4,7 +4,7 @@
 
 > It's a Felabration\. The <a href="spotify:artist:5CG9X521RDFWCuAhlo6QoR">Black President</a>'s grooves still resonate—preorder the Erykah Badu\-curated <a href="https://regulartrademark.fela.net/products/fela\-kuti\-box\-set\-4\-curated\-by\-erykah\-badu?variant=1711344746520">Fela Kuti Box Set \#4</a>, out Dec 15.
 
-50 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/1YBaVRgo4G8vZpBQHKATBs)
+50 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

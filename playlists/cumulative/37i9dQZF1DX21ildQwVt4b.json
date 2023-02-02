@@ -2,9 +2,151 @@
   "date_first_scraped": "2022-05-01",
   "description": "Featuring all trans, non-binary, and two spirit voices discussing the future of gender justice.",
   "name": "Beyond Trans Visibility: ALOK",
-  "published_playlist_ids": [
-    "4pXx3yXCNXO6TmNCoYBCOM"
+  "tracks": [
+    {
+      "album": {
+        "name": "Unladylike",
+        "url": "https://open.spotify.com/show/4HIbrI2ckotPHTh6REyR73"
+      },
+      "artists": [
+        {
+          "name": "Unladylike",
+          "url": "https://open.spotify.com/show/4HIbrI2ckotPHTh6REyR73"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2464156,
+      "name": "Beyond Trans Visibility with Raquel Willis",
+      "url": "https://open.spotify.com/episode/0zubOYcGRmjgZOPCvTE4q9"
+    },
+    {
+      "album": {
+        "name": "Making Gay History | LGBTQ Oral Histories from the Archive",
+        "url": "https://open.spotify.com/show/1NlHk37Vo7HlGE1CFg8uGx"
+      },
+      "artists": [
+        {
+          "name": "Making Gay History | LGBTQ Oral Histories from the Archive",
+          "url": "https://open.spotify.com/show/1NlHk37Vo7HlGE1CFg8uGx"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1327751,
+      "name": "Bonus: From the Vault: Sylvia Rivera & Marsha P. Johnson, 1970",
+      "url": "https://open.spotify.com/episode/6quZFURWoHUBwJadcMCh9a"
+    },
+    {
+      "album": {
+        "name": "TransLash Podcast with Imara Jones",
+        "url": "https://open.spotify.com/show/3bKZAZDRPlB8ZRyUSpJ6t8"
+      },
+      "artists": [
+        {
+          "name": "TransLash Podcast with Imara Jones",
+          "url": "https://open.spotify.com/show/3bKZAZDRPlB8ZRyUSpJ6t8"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2452793,
+      "name": "Immigration, Detention and Trans Rights",
+      "url": "https://open.spotify.com/episode/7xenHJhunGNwJw6fOv3PgR"
+    },
+    {
+      "album": {
+        "name": "Two Spirit Talks",
+        "url": "https://open.spotify.com/show/0rLW1CVfQ7xC3WwrMdRkHz"
+      },
+      "artists": [
+        {
+          "name": "Two Spirit Talks",
+          "url": "https://open.spotify.com/show/0rLW1CVfQ7xC3WwrMdRkHz"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3630631,
+      "name": "Indigiqueer Futurisms",
+      "url": "https://open.spotify.com/episode/3nAwMuM7ehk07jQVHQV5ul"
+    },
+    {
+      "album": {
+        "name": "The Laverne Cox Show",
+        "url": "https://open.spotify.com/show/2GPQaKpelElHdMyhbILHil"
+      },
+      "artists": [
+        {
+          "name": "The Laverne Cox Show",
+          "url": "https://open.spotify.com/show/2GPQaKpelElHdMyhbILHil"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 4568711,
+      "name": "Pushing Back Against Anti-Trans Media & Policies with Chase Strangio",
+      "url": "https://open.spotify.com/episode/1drGQAmfU7GifkpMGTBWE1"
+    },
+    {
+      "album": {
+        "name": "LGBTQ&A",
+        "url": "https://open.spotify.com/show/37E7LIv89GodYNEBAWREd8"
+      },
+      "artists": [
+        {
+          "name": "LGBTQ&A",
+          "url": "https://open.spotify.com/show/37E7LIv89GodYNEBAWREd8"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1967386,
+      "name": "Shea Diamond: Why Music is a Tool for Trans Liberation",
+      "url": "https://open.spotify.com/episode/0yXJVRzsL8e2xPLMvenKfQ"
+    },
+    {
+      "album": {
+        "name": "I Weigh with Jameela Jamil",
+        "url": "https://open.spotify.com/show/48QtcFDDyQzKIc4B0fo4V7"
+      },
+      "artists": [
+        {
+          "name": "I Weigh with Jameela Jamil",
+          "url": "https://open.spotify.com/show/48QtcFDDyQzKIc4B0fo4V7"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 5150302,
+      "name": "Transgender Justice with Shon Faye",
+      "url": "https://open.spotify.com/episode/55Jz0jnkiAPQRZgikL09zJ"
+    },
+    {
+      "album": {
+        "name": "Getting Curious with Jonathan Van Ness",
+        "url": "https://open.spotify.com/show/0wK8MPt9f2z2R4HustgqHh"
+      },
+      "artists": [
+        {
+          "name": "Getting Curious with Jonathan Van Ness",
+          "url": "https://open.spotify.com/show/0wK8MPt9f2z2R4HustgqHh"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3421962,
+      "name": "What Does Pride Mean To You? with Ashlee Marie Preston",
+      "url": "https://open.spotify.com/episode/2nfU9RHgXxLCtVAdIl32rA"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX21ildQwVt4b"
 }

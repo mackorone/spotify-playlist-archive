@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes. Cover:  Cypress Hill",
-  "name": "I Love Rap 'n' Roll",
-  "published_playlist_ids": [
-    "3fOLmkEsg2O82RAMft1mmW"
-  ],
+  "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes. Cover: JAY-Z & Linkin Park",
+  "name": "Rap 'n' Roll",
   "tracks": [
     {
       "album": {
@@ -191,7 +188,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 173733,
       "name": "Bullet - Single Version",
       "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
@@ -227,7 +224,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 254906,
       "name": "Can't Get the Best of Me",
       "url": "https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw"
@@ -249,6 +246,28 @@
       "duration_ms": 262053,
       "name": "Can't Stop Partying",
       "url": "https://open.spotify.com/track/27ZbZfFUabhU1KBt746OcX"
+    },
+    {
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232600,
+      "name": "Children of the Korn (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
     },
     {
       "album": {
@@ -301,6 +320,28 @@
       "duration_ms": 234160,
       "name": "Close Your Eyes (And Count To Fuck)",
       "url": "https://open.spotify.com/track/2Kn3xgaDCM4aHuHK7FApgC"
+    },
+    {
+      "album": {
+        "name": "Believers Never Die (Volume Two)",
+        "url": "https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170040,
+      "name": "Dear Future Self (Hands Up)",
+      "url": "https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH"
     },
     {
       "album": {
@@ -461,7 +502,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 233760,
       "name": "Fight Like A Brave",
       "url": "https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw"
@@ -645,7 +686,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 201666,
       "name": "Get Naked",
       "url": "https://open.spotify.com/track/0CqQvJTH40jIehyC3ND6Er"
@@ -809,7 +850,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 229266,
       "name": "I Love You Mary Jane",
       "url": "https://open.spotify.com/track/4eObWNJwTvfQe66wIzfHjb"
@@ -886,6 +927,28 @@
     },
     {
       "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151683,
+      "name": "IT'S ALL FADING TO BLACK",
+      "url": "https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI"
+    },
+    {
+      "album": {
         "name": "Built From Scratch",
         "url": "https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv"
       },
@@ -949,7 +1012,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 182960,
       "name": "it\u2019s a bad dream (Feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/4o2pCUcxHc8wabzbNi5naZ"
@@ -971,7 +1034,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 262160,
       "name": "Just Another Victim",
       "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
@@ -989,7 +1052,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
@@ -1263,7 +1326,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 173326,
       "name": "Made An America",
       "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
@@ -1333,6 +1396,28 @@
       "duration_ms": 197960,
       "name": "Make Noise (feat. Lenny Kravitz)",
       "url": "https://open.spotify.com/track/0zpLgWZgWvm2rebnYjvoSt"
+    },
+    {
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174067,
+      "name": "Monsters (feat. blackbear)",
+      "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
     },
     {
       "album": {
@@ -1635,7 +1720,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 219053,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl"
@@ -1945,7 +2030,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 227749,
       "name": "Sunrise Trailer Park (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/19glo6zeI6mUdELLmCIYq8"
@@ -2019,7 +2104,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 173132,
       "name": "the ground below (feat. Royal Blood) - Royal Jewels Mix",
       "url": "https://open.spotify.com/track/0ZihFuThMaeARjmxTsoNFe"
@@ -2092,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250213,
+      "name": "Unfuck The World",
+      "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
+    },
+    {
+      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -2147,7 +2250,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 238066,
       "name": "We Made It (feat. Linkin Park)",
       "url": "https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U"
@@ -2275,7 +2378,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 250586,
       "name": "Wretches and Kings",
       "url": "https://open.spotify.com/track/4uqacT1xJ7UhPJAMAcb25A"
@@ -2315,7 +2418,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 254200,
       "name": "XXX. FEAT. U2.",
       "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF"

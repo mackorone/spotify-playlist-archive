@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
   "name": "This Is Bobby Pulido",
-  "published_playlist_ids": [
-    "1xjrOFeEw74VbZbRn49c5D"
-  ],
   "tracks": [
     {
       "album": {
@@ -1105,7 +1102,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 218226,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/2RgBInbB7gq3ewMVkqYIPr"
@@ -1313,7 +1310,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 303533,
       "name": "Viviras Selena",
       "url": "https://open.spotify.com/track/2pXb4Rtjt4RfmdlxqUYCdG"

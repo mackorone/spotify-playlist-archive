@@ -4,7 +4,7 @@
 
 > Celebrating 50 years of the original artists, songs, and recordings from the iconic 1969 Woodstock Music Festival
 
-102 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/79hWuis0D7vMO7G2HTY3qC)
+102 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Summer Breeze \- Live](https://open.spotify.com/track/6vsIZiooOVARa5jvyKypOw) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Wild in Woodstock: The Isley Brothers Live at Bearsville Sound Studio \(1980\)](https://open.spotify.com/album/72MfvP136wxG7aeTUKzyJ7) | 10:24 | 2019-08-15 |  |
 | [Suzie Q \- Live At The Woodstock Music & Art Fair / 1969](https://open.spotify.com/track/5r2LpFOMcl33DHi9tsIO0B) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Live At Woodstock](https://open.spotify.com/album/56jhCxU4IQs54Od4ariSaY) | 10:52 | 2019-08-15 |  |
 | [Take Me Back To The Sweet Sunny South \- Live At The Woodstock Music & Art Fair / 1969](https://open.spotify.com/track/4sYfCERMWBYDoHku3wAJYJ) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Live At Woodstock](https://open.spotify.com/album/5z56SO1GMxmXbNIRBbOBcj) | 2:44 | 2019-08-15 |  |
-| [Tears Of Rage \- Remastered](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 | 2019-08-15 |  |
+| [Tears Of Rage \- Remastered 2000](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 | 2019-08-15 |  |
 | [Teen Angel \- Live at Woodstock](https://open.spotify.com/track/2xXRvMUpBA1NARlT56fFPW) | [Sha Na Na](https://open.spotify.com/artist/2SmjZ060s1uBMud6afmImP) | [Live at Woodstock](https://open.spotify.com/album/3M0qNiaX9kPnjqUdauF1Q9) | 3:31 | 2019-08-15 |  |
 | [Tell The Truth \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/2xZBk3McxhrcatEMSwL8KW) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO), [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [Johnny Winter: The Woodstock Experience](https://open.spotify.com/album/0eVzMYs0TMHO9uMP1dAOsK) | 6:51 | 2019-08-15 |  |
 | [That Lady \- Live](https://open.spotify.com/track/35Sp4BD5VE4QR42SGMLQhg) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Wild in Woodstock: The Isley Brothers Live at Bearsville Sound Studio \(1980\)](https://open.spotify.com/album/72MfvP136wxG7aeTUKzyJ7) | 3:36 | 2019-08-15 |  |

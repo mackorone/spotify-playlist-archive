@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "These beautifully-hypnotising vocalists are bound to make your evenings more chilling than ever.",
   "name": "Haunting Vocals",
-  "published_playlist_ids": [
-    "6I9zKrFBIVKUckprWsUFLc"
-  ],
   "tracks": [
     {
       "album": {
@@ -541,7 +538,7 @@
     {
       "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
       "artists": [
         {
@@ -552,6 +549,24 @@
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Half the World Away",
+      "url": "https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 198133,
       "name": "Half the World Away",
       "url": "https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR"
@@ -859,6 +874,24 @@
     {
       "album": {
         "name": "Impressions",
+        "url": "https://open.spotify.com/album/2Ney0TSRz1uChEDF2nROh2"
+      },
+      "artists": [
+        {
+          "name": "Kemrie",
+          "url": "https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280131,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/039KCeBrprEJiYqqt33diP"
+    },
+    {
+      "album": {
+        "name": "Impressions",
         "url": "https://open.spotify.com/album/1reOkkyChSAu1w9aWvhJCE"
       },
       "artists": [
@@ -869,7 +902,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 280131,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/12ZNnAQqvmJmT1wGXkzKCd"

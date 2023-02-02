@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "A pop rock running mix.",
   "name": "Pop Rock Run",
-  "published_playlist_ids": [
-    "4FKjGWyoTiRnN1BLl76wKJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv"
@@ -430,6 +427,24 @@
     },
     {
       "album": {
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+    },
+    {
+      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -777,7 +792,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 186173,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/5xT8JXJSyHYNfC11OFqzFL"
@@ -903,7 +918,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 185466,
       "name": "Money Run Low",
       "url": "https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI"
@@ -1231,6 +1246,24 @@
       "duration_ms": 241666,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+    },
+    {
+      "album": {
+        "name": "The News",
+        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
     },
     {
       "album": {

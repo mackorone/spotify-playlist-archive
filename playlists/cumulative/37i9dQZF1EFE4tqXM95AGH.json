@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU\">Leland</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Leland",
-  "published_playlist_ids": [
-    "5rPfC5CqDzXlAgFaSQs6O5"
-  ],
   "tracks": [
     {
       "album": {
@@ -2014,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Over Tonight",
+        "url": "https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200367,
+      "name": "Over Tonight",
+      "url": "https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4"
+    },
+    {
+      "album": {
         "name": "CollXtion II",
         "url": "https://open.spotify.com/album/12ty08Y0h6TtP469jEtJ9S"
       },
@@ -2217,6 +2232,24 @@
     {
       "album": {
         "name": "Super Sunset",
+        "url": "https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235879,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/4E5BoPxABSbi6Tkhaz2uzi"
+    },
+    {
+      "album": {
+        "name": "Super Sunset",
         "url": "https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK"
       },
       "artists": [
@@ -2227,7 +2260,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 235879,
       "name": "Science",
       "url": "https://open.spotify.com/track/6OteeaJa1FSjBA6o1Ixwfq"
@@ -3011,6 +3044,28 @@
       "duration_ms": 214325,
       "name": "Workin On It",
       "url": "https://open.spotify.com/track/5gcQ9obFGkSPciwUjHCgRs"
+    },
+    {
+      "album": {
+        "name": "You Know What I Need",
+        "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "You Know What I Need",
+      "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
     },
     {
       "album": {

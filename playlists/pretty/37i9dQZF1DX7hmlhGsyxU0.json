@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 102029,
+  "num_followers": 115149,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzMTMxMCwwMDAwMDAwMGI4MTczMWNiYTdiNDFkMGNiYzIwNGM3YThkNTQ3MGE1",
+  "snapshot_id": "MTY2NzgzMTMxMCwwMDAwMDAwMGQ4Y2MxYjRhZTE4N2U0ZWYxODk1MzlhN2M4M2Y5Mjg3",
   "tracks": [
     {
       "added_at": "2022-11-07 14:28:30",
@@ -63,6 +63,46 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "Composites",
+        "url": "https://open.spotify.com/album/4cXbbhXyF7CW82c4a7zLcY"
+      },
+      "artists": [
+        {
+          "name": "Thrupence",
+          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
+        },
+        {
+          "name": "Josh Hooke",
+          "url": "https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj"
+        },
+        {
+          "name": "Jack Vanzet",
+          "url": "https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Composite 03",
+      "url": "https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Made To Be Wanting",
+        "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
+      },
+      "artists": [
+        {
+          "name": "Job Roggeveen",
+          "url": "https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv"
+        }
+      ],
+      "duration_ms": 183764,
+      "name": "Made To Be Wanting",
+      "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "Motifs in F# Major (Reimagined)",
         "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
       },
@@ -104,6 +144,14 @@
       },
       "artists": [
         {
+          "name": "Anthony Newley",
+          "url": "https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI"
+        },
+        {
+          "name": "Leslie Bricusse",
+          "url": "https://open.spotify.com/artist/6WYFvZo9oPFiHYMjEluhG3"
+        },
+        {
           "name": "Sophie Hutchings",
           "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
         }
@@ -131,62 +179,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Made To Be Wanting",
-        "url": "https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF"
-      },
-      "artists": [
-        {
-          "name": "Job Roggeveen",
-          "url": "https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv"
-        }
-      ],
-      "duration_ms": 183764,
-      "name": "Made To Be Wanting",
-      "url": "https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Composites",
-        "url": "https://open.spotify.com/album/4cXbbhXyF7CW82c4a7zLcY"
-      },
-      "artists": [
-        {
-          "name": "Thrupence",
-          "url": "https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9"
-        },
-        {
-          "name": "Josh Hooke",
-          "url": "https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj"
-        },
-        {
-          "name": "Jack Vanzet",
-          "url": "https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf"
-        }
-      ],
-      "duration_ms": 223283,
-      "name": "Composite 03",
-      "url": "https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Floating on Land",
-        "url": "https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X"
-      },
-      "artists": [
-        {
-          "name": "Svvn",
-          "url": "https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Floating on Land",
-      "url": "https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
       },
@@ -199,42 +191,6 @@
       "duration_ms": 153000,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Steady, Thyself (Piano Version)",
-        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
-      },
-      "artists": [
-        {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
-        }
-      ],
-      "duration_ms": 185387,
-      "name": "Steady, Thyself (Piano Version)",
-      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "You Will Never Walk Alone (Glowworm Rework)",
-        "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
-      },
-      "artists": [
-        {
-          "name": "Maciej Sadowski",
-          "url": "https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J"
-        },
-        {
-          "name": "Glowworm",
-          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "You Will Never Walk Alone - Glowworm Rework",
-      "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -259,54 +215,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Ad Infinitum",
-        "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
-      },
-      "artists": [
-        {
-          "name": "Vincent Isler",
-          "url": "https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj"
-        }
-      ],
-      "duration_ms": 191482,
-      "name": "Ad Infinitum",
-      "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
-      },
-      "artists": [
-        {
-          "name": "Simon Antonio",
-          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
-      },
-      "artists": [
-        {
-          "name": "Franco Robert",
-          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Ash",
         "url": "https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9"
       },
@@ -323,38 +231,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Swan Lake Story",
-        "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
+        "name": "You Will Never Walk Alone (Glowworm Rework)",
+        "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
       },
       "artists": [
         {
-          "name": "W CELLO",
-          "url": "https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd"
+          "name": "Maciej Sadowski",
+          "url": "https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J"
         },
         {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+          "name": "Glowworm",
+          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
         }
       ],
-      "duration_ms": 170375,
-      "name": "Swan Lake Story, Op. 1",
-      "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Altair",
-        "url": "https://open.spotify.com/album/63k0EPkRUVxxvAG86udhxo"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Zawadzki",
-          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Procyon",
-      "url": "https://open.spotify.com/track/1s1lHjPIULWHiKyDnY6MdY"
+      "duration_ms": 233120,
+      "name": "You Will Never Walk Alone - Glowworm Rework",
+      "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -379,114 +271,34 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+        "name": "Steady, Thyself (Piano Version)",
+        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
       },
       "artists": [
         {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
         }
       ],
-      "duration_ms": 153387,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
+      "duration_ms": 185387,
+      "name": "Steady, Thyself (Piano Version)",
+      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
     },
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
+        "name": "Ad Infinitum",
+        "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
       },
       "artists": [
         {
-          "name": "Takaaki Izumi",
-          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
+          "name": "Vincent Isler",
+          "url": "https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Drifter",
-      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
-      },
-      "artists": [
-        {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
-        }
-      ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "To the Moon and Back",
-        "url": "https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P"
-      },
-      "artists": [
-        {
-          "name": "Aija Alsina",
-          "url": "https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "To the Moon and Back",
-      "url": "https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Sea Notes",
-        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
-      },
-      "artists": [
-        {
-          "name": "Joanna Finnis",
-          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
-        }
-      ],
-      "duration_ms": 128684,
-      "name": "Flight of the Sea Birds",
-      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Calm Water",
-        "url": "https://open.spotify.com/album/3slPGMMjH6yTnbbJ0yYv8l"
-      },
-      "artists": [
-        {
-          "name": "Elise Bordeaux",
-          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
-        }
-      ],
-      "duration_ms": 260729,
-      "name": "Calm Water",
-      "url": "https://open.spotify.com/track/3VHj17DOjq1Yf89SCPK0Nj"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+      "duration_ms": 191482,
+      "name": "Ad Infinitum",
+      "url": "https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -507,22 +319,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Living Rooms",
-        "url": "https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE"
-      },
-      "artists": [
-        {
-          "name": "Joshua Naranjo",
-          "url": "https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Living Rooms",
-      "url": "https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "The Innkeeper and the Moon",
         "url": "https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv"
       },
@@ -535,6 +331,74 @@
       "duration_ms": 317682,
       "name": "The Innkeeper and the Moon",
       "url": "https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
+      },
+      "artists": [
+        {
+          "name": "Simon Antonio",
+          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Floating on Land",
+        "url": "https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X"
+      },
+      "artists": [
+        {
+          "name": "Svvn",
+          "url": "https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Floating on Land",
+      "url": "https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "To the Moon and Back",
+        "url": "https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P"
+      },
+      "artists": [
+        {
+          "name": "Aija Alsina",
+          "url": "https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA"
+        }
+      ],
+      "duration_ms": 270003,
+      "name": "To the Moon and Back",
+      "url": "https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Swan Lake Story",
+        "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
+      },
+      "artists": [
+        {
+          "name": "W CELLO",
+          "url": "https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd"
+        },
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 170375,
+      "name": "Swan Lake Story, Op. 1",
+      "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -555,18 +419,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Efterskalv",
-        "url": "https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS"
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
       },
       "artists": [
         {
-          "name": "Vargkvint",
-          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
+          "name": "Franco Robert",
+          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
         }
       ],
-      "duration_ms": 229350,
-      "name": "Efterskalv",
-      "url": "https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno"
+      "duration_ms": 212307,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -583,6 +447,54 @@
       "duration_ms": 146016,
       "name": "November Sea",
       "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Sea Notes",
+        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+      },
+      "artists": [
+        {
+          "name": "Joanna Finnis",
+          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "Flight of the Sea Birds",
+      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Sad Cello & Piano XXII",
+        "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
+      },
+      "artists": [
+        {
+          "name": "Martin Czerny",
+          "url": "https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Tired Mind",
+      "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -607,22 +519,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "On The Verge Of Collapse",
-        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
-      },
-      "artists": [
-        {
-          "name": "Rohit",
-          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "We All Grieve Differently",
-      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Heavy Moon",
         "url": "https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz"
       },
@@ -639,82 +535,50 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Sad Cello & Piano XXII",
-        "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
       },
       "artists": [
         {
-          "name": "Martin Czerny",
-          "url": "https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu"
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Tired Mind",
-      "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
     },
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
+        "name": "Living Rooms",
+        "url": "https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE"
       },
       "artists": [
         {
-          "name": "Jack Hopkins",
-          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
+          "name": "Joshua Naranjo",
+          "url": "https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5"
         }
       ],
-      "duration_ms": 232105,
-      "name": "R\u00eaverie",
-      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
+      "duration_ms": 175384,
+      "name": "Living Rooms",
+      "url": "https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG"
     },
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "How Time Works",
-        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
+        "name": "On The Verge Of Collapse",
+        "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
       },
       "artists": [
         {
-          "name": "Eric Carlson",
-          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
+          "name": "Rohit",
+          "url": "https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3"
         }
       ],
-      "duration_ms": 225053,
-      "name": "How Time Works",
-      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Walking on the Sand",
-        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
-      },
-      "artists": [
-        {
-          "name": "Raf21",
-          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
-        }
-      ],
-      "duration_ms": 207046,
-      "name": "Walking on the Sand - Piano & Waves",
-      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Zerachiel",
-        "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 191870,
-      "name": "Zerachiel",
-      "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
+      "duration_ms": 168224,
+      "name": "We All Grieve Differently",
+      "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -735,22 +599,66 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "The Last Gate",
-        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
       },
       "artists": [
         {
-          "name": "Cesare Picco",
-          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
-        },
-        {
-          "name": "Leonardo Sapere",
-          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
         }
       ],
-      "duration_ms": 408791,
-      "name": "Inside Me",
-      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
+      },
+      "artists": [
+        {
+          "name": "Takaaki Izumi",
+          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Efterskalv",
+        "url": "https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS"
+      },
+      "artists": [
+        {
+          "name": "Vargkvint",
+          "url": "https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a"
+        }
+      ],
+      "duration_ms": 229350,
+      "name": "Efterskalv",
+      "url": "https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "How Time Works",
+        "url": "https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE"
+      },
+      "artists": [
+        {
+          "name": "Eric Carlson",
+          "url": "https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "How Time Works",
+      "url": "https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -775,66 +683,70 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
+        "name": "Zerachiel",
+        "url": "https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R"
       },
       "artists": [
         {
-          "name": "Cysur",
-          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 132755,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
+      "duration_ms": 191870,
+      "name": "Zerachiel",
+      "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
     },
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+        "name": "The Last Gate",
+        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
       "artists": [
         {
-          "name": "George Wilson",
-          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
+          "name": "Cesare Picco",
+          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
+        },
+        {
+          "name": "Leonardo Sapere",
+          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
         }
       ],
-      "duration_ms": 174894,
-      "name": "Biding Time",
-      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
+      "duration_ms": 408791,
+      "name": "Inside Me",
+      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
     },
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Melody of Hope (2021 Version)",
-        "url": "https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS"
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
       },
       "artists": [
         {
-          "name": "Justus R\u00fcmenapp",
-          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
         }
       ],
-      "duration_ms": 111687,
-      "name": "Melody of Hope - 2021 Version",
-      "url": "https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO"
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
     },
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
       },
       "artists": [
         {
-          "name": "Norman D\u00fcck",
-          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+          "name": "Jack Hopkins",
+          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
         }
       ],
-      "duration_ms": 136932,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
+      "duration_ms": 232105,
+      "name": "R\u00eaverie",
+      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -855,34 +767,66 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
+        "name": "Melody of Hope (2021 Version)",
+        "url": "https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS"
       },
       "artists": [
         {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+          "name": "Justus R\u00fcmenapp",
+          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
         }
       ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
+      "duration_ms": 111687,
+      "name": "Melody of Hope - 2021 Version",
+      "url": "https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO"
     },
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "S\u00e9r\u00e9nit\u00e9",
-        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+        "name": "Words Left Unspoken",
+        "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00e9mie Fauquet",
-          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+          "name": "Malin Eriksson",
+          "url": "https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU"
         }
       ],
-      "duration_ms": 108690,
-      "name": "S\u00e9r\u00e9nit\u00e9",
-      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+      "duration_ms": 165741,
+      "name": "A Winter's Tale",
+      "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Walking on the Sand",
+        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
+      },
+      "artists": [
+        {
+          "name": "Raf21",
+          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+        }
+      ],
+      "duration_ms": 207046,
+      "name": "Walking on the Sand - Piano & Waves",
+      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "duration_ms": 136932,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -907,6 +851,54 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
+      },
+      "artists": [
+        {
+          "name": "Cysur",
+          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
+        }
+      ],
+      "duration_ms": 132755,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
+      },
+      "artists": [
+        {
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
+        }
+      ],
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Calm Water",
+        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
+      },
+      "artists": [
+        {
+          "name": "Elise Bordeaux",
+          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+        }
+      ],
+      "duration_ms": 260729,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "Reveries",
         "url": "https://open.spotify.com/album/6VXf0ZqeNciAwRPVJRL1b7"
       },
@@ -919,6 +911,22 @@
       "duration_ms": 211999,
       "name": "Fade Far Away",
       "url": "https://open.spotify.com/track/29JEQ9F09fK6pyyEwy66am"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
+      },
+      "artists": [
+        {
+          "name": "George Wilson",
+          "url": "https://open.spotify.com/artist/3crBavkxFGH8HktUgUqUDY"
+        }
+      ],
+      "duration_ms": 174894,
+      "name": "Biding Time",
+      "url": "https://open.spotify.com/track/6gy6hOA6rtxL8LHCKm7hYC"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -939,18 +947,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Words Left Unspoken",
-        "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
+        "name": "S\u00f3liton",
+        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
       },
       "artists": [
         {
-          "name": "Malin Eriksson",
-          "url": "https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU"
+          "name": "Igor Ferreira",
+          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 165741,
-      "name": "A Winter's Tale",
-      "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
+      "duration_ms": 122347,
+      "name": "S\u00f3liton",
+      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -975,34 +983,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Spirituality",
-        "url": "https://open.spotify.com/album/5Mg4X8prOVvFQTphWIxjSw"
+        "name": "Musica Desolata",
+        "url": "https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB"
       },
       "artists": [
         {
-          "name": "Sebastian Zawadzki",
-          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Perceptions",
-      "url": "https://open.spotify.com/track/2p6aUfi3f2dP3CWzeyMj5W"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "Adventure",
-        "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
-      },
-      "artists": [
+          "name": "Alexei Aigui",
+          "url": "https://open.spotify.com/artist/5LaWJYIJaRFtx0HbieOTE5"
+        },
         {
-          "name": "Mahmoud Valanejad",
-          "url": "https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor"
+          "name": "Arkady Marto",
+          "url": "https://open.spotify.com/artist/2EgSk5VfvU0eFTdX3J7tWx"
         }
       ],
-      "duration_ms": 222909,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
+      "duration_ms": 284506,
+      "name": "Musica Desolata",
+      "url": "https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -1027,38 +1023,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Musica Desolata",
-        "url": "https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB"
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn"
       },
       "artists": [
         {
-          "name": "Alexei Aigui",
-          "url": "https://open.spotify.com/artist/5LaWJYIJaRFtx0HbieOTE5"
-        },
-        {
-          "name": "Arkady Marto",
-          "url": "https://open.spotify.com/artist/2EgSk5VfvU0eFTdX3J7tWx"
+          "name": "Mahmoud Valanejad",
+          "url": "https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor"
         }
       ],
-      "duration_ms": 284506,
-      "name": "Musica Desolata",
-      "url": "https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "S\u00f3liton",
-        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
-      },
-      "artists": [
-        {
-          "name": "Igor Ferreira",
-          "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
-        }
-      ],
-      "duration_ms": 122347,
-      "name": "S\u00f3liton",
-      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
+      "duration_ms": 222909,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -1075,6 +1051,38 @@
       "duration_ms": 112625,
       "name": "The Sky Cracked",
       "url": "https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Spirituality",
+        "url": "https://open.spotify.com/album/6ytGMqdfc9lXcGPIxRB0y6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Perceptions",
+      "url": "https://open.spotify.com/track/3l2bfJwIejAb1RsLop8yQm"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Altair",
+        "url": "https://open.spotify.com/album/1eXcC6om8XZvhgtBQZdP3N"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/5c7kAnQfIrU7B5F4T4dxRl"
     }
   ],
   "unique_name": "Instrumental Reading",

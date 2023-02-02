@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best Indie tracks. Cover - Anuv Jain",
+  "description": "The best Indie tracks from the scene. Cover - Rito Riba",
   "name": "Indie India ",
-  "published_playlist_ids": [
-    "5J0oFaPhwRhYmz4fIMaWG7"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 185305,
       "name": "Aao Chalein",
       "url": "https://open.spotify.com/track/0wNf3Yk11625KJ6mDkEjzu"
@@ -214,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Aise Ho Tum",
+        "url": "https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Aise Ho Tum",
+      "url": "https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0"
+    },
+    {
+      "album": {
         "name": "Akhiyaan",
         "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
       },
@@ -261,7 +276,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 153693,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
@@ -609,7 +624,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 281218,
       "name": "cold/mess",
       "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
@@ -645,7 +660,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 150000,
       "name": "days",
       "url": "https://open.spotify.com/track/7xxk2elVJN3IjhbV3T8Shz"
@@ -913,7 +928,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 218000,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/3TaoFBplKZB4AclYV2cDwT"
@@ -1205,6 +1220,32 @@
       "duration_ms": 212068,
       "name": "I'm On Holiday",
       "url": "https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f"
+    },
+    {
+      "album": {
+        "name": "Ik Tu Hi (No-Mabe)",
+        "url": "https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi"
+      },
+      "artists": [
+        {
+          "name": "Rito Riba",
+          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196060,
+      "name": "Ik Tu Hi (No-Mabe)",
+      "url": "https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf"
     },
     {
       "album": {
@@ -1531,6 +1572,28 @@
       "duration_ms": 189391,
       "name": "Khamoshi",
       "url": "https://open.spotify.com/track/3t07ms95QIBxBzcdF3P4CA"
+    },
+    {
+      "album": {
+        "name": "Khayaal",
+        "url": "https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Khayaal",
+      "url": "https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl"
     },
     {
       "album": {
@@ -1915,7 +1978,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 142201,
       "name": "Mehfooz",
       "url": "https://open.spotify.com/track/36jYuqoGDDlfZBst0p4JGy"
@@ -1977,7 +2040,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 213986,
       "name": "Meri Baaton Mein Tu",
       "url": "https://open.spotify.com/track/5nTbPFqLKmQdIg1SD8KgG4"
@@ -2067,7 +2130,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 198303,
       "name": "Muskan",
       "url": "https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i"
@@ -2089,6 +2152,24 @@
       "duration_ms": 258716,
       "name": "Muskurahat",
       "url": "https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8"
+    },
+    {
+      "album": {
+        "name": "Nadaniya",
+        "url": "https://open.spotify.com/album/2DSR5z0gsqRIVpQqlygNrp"
+      },
+      "artists": [
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 172564,
+      "name": "Nadaniya",
+      "url": "https://open.spotify.com/track/4AQYycFEyP7XknIX9ODpBq"
     },
     {
       "album": {
@@ -2155,6 +2236,24 @@
     {
       "album": {
         "name": "Noor",
+        "url": "https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H"
+    },
+    {
+      "album": {
+        "name": "Noor",
         "url": "https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R"
       },
       "artists": [
@@ -2216,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Parda",
+        "url": "https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192323,
+      "name": "Parda",
+      "url": "https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD"
+    },
+    {
+      "album": {
         "name": "Pardo",
         "url": "https://open.spotify.com/album/3RdqIXCoSYTHEXsJGHPwgT"
       },
@@ -2252,6 +2369,28 @@
     },
     {
       "album": {
+        "name": "Pehli Baar Mile",
+        "url": "https://open.spotify.com/album/04Lg0MSC0JlWAx9DMWmyt6"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203137,
+      "name": "Pehli Baar Mile",
+      "url": "https://open.spotify.com/track/3CXlvNO3LSurkx7cNMOXRj"
+    },
+    {
+      "album": {
         "name": "People - Single",
         "url": "https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS"
       },
@@ -2267,6 +2406,24 @@
       "duration_ms": 188689,
       "name": "People - Hindi Reprise",
       "url": "https://open.spotify.com/track/0hWGN19owiVVfI2f3ePxij"
+    },
+    {
+      "album": {
+        "name": "Phir Bekhabar",
+        "url": "https://open.spotify.com/album/0cGn21RY35wMplh6OB7nRL"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Adwani",
+          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197304,
+      "name": "Phir Bekhabar",
+      "url": "https://open.spotify.com/track/5pUrlEGxrzuC2PzjcqBFRA"
     },
     {
       "album": {
@@ -2452,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "Saanjh",
+        "url": "https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282391,
+      "name": "Saanjh",
+      "url": "https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs"
+    },
+    {
+      "album": {
         "name": "Ved",
         "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
       },
@@ -2485,6 +2660,24 @@
       "duration_ms": 230204,
       "name": "Sage",
       "url": "https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl"
+    },
+    {
+      "album": {
+        "name": "Sajna",
+        "url": "https://open.spotify.com/album/3l2xpQwu7pgc5ic1GyR1PG"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 205446,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/6Px3kJxZiQzGe9hU5twvy2"
     },
     {
       "album": {
@@ -2573,6 +2766,24 @@
       "duration_ms": 192540,
       "name": "Sha- Dobara",
       "url": "https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC"
+    },
+    {
+      "album": {
+        "name": "Bombay Dreams",
+        "url": "https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Shaayad",
+      "url": "https://open.spotify.com/track/6ymoA9aCgqTyoQLIeR7vCX"
     },
     {
       "album": {
@@ -3104,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6lYabKmdLSpFPbh29M6cI7"
+      },
+      "artists": [
+        {
+          "name": "Shrinidhi Ghatate",
+          "url": "https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 233656,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/1SBRoo7B2xmCE1ODnrhcOv"
+    },
+    {
+      "album": {
         "name": "Ch\u00e9rie",
         "url": "https://open.spotify.com/album/3VpTYKbea17lRbiCHob5ov"
       },
@@ -3185,7 +3414,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 222400,
       "name": "Woh Saat Din",
       "url": "https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV"

@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230934,
+  "num_followers": 230744,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDFmMTc0ZGQ2MmJhNTBlYjNmOGVmYmM0YTNiYWI4MWRl",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGNiY2E0Y2Y2M2QyYTBhYmYwYmE5NjM3ZTk4NjRmNzc4",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -23,26 +23,6 @@
       "duration_ms": 174260,
       "name": "Miracle In The Middle Of My Heart",
       "url": "https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Make You Feel Like",
-        "url": "https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU"
-      },
-      "artists": [
-        {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
-        },
-        {
-          "name": "Redward Martin",
-          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
-        }
-      ],
-      "duration_ms": 187372,
-      "name": "Make You Feel Like",
-      "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -67,18 +47,38 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Retreat",
-        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
+        "name": "Make You Feel Like",
+        "url": "https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU"
       },
       "artists": [
         {
-          "name": "Sinee",
-          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+        },
+        {
+          "name": "Redward Martin",
+          "url": "https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2"
         }
       ],
-      "duration_ms": 171137,
-      "name": "Retreat",
-      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
+      "duration_ms": 187372,
+      "name": "Make You Feel Like",
+      "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Montrose Ave",
+        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Montrose Ave",
+      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -99,22 +99,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Feel It Still",
-        "url": "https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t"
+        "name": "Retreat",
+        "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
       },
       "artists": [
         {
-          "name": "Revelries",
-          "url": "https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ"
-        },
-        {
-          "name": "Henri Purnell",
-          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+          "name": "Sinee",
+          "url": "https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7"
         }
       ],
-      "duration_ms": 222590,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6"
+      "duration_ms": 171137,
+      "name": "Retreat",
+      "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -167,6 +163,26 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Feel It Still",
+        "url": "https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t"
+      },
+      "artists": [
+        {
+          "name": "Revelries",
+          "url": "https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ"
+        },
+        {
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+        }
+      ],
+      "duration_ms": 222590,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Wicked Hearts",
         "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Save Tonight",
-        "url": "https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0"
-      },
-      "artists": [
-        {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
-        }
-      ],
-      "duration_ms": 198159,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Summer Crush",
         "url": "https://open.spotify.com/album/7u3rOTDTne8OfLdo79a0Go"
       },
@@ -219,18 +219,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Montrose Ave",
-        "url": "https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5"
+        "name": "Back To You (Joey Pecoraro Remix)",
+        "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
       },
       "artists": [
         {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
         }
       ],
-      "duration_ms": 173320,
-      "name": "Montrose Ave",
-      "url": "https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC"
+      "duration_ms": 226644,
+      "name": "Back To You - Joey Pecoraro Remix",
+      "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -247,6 +251,42 @@
       "duration_ms": 195638,
       "name": "Give Me a Light",
       "url": "https://open.spotify.com/track/6dnPMrlvN8w1KIgV8pb9Gu"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Fading Nights",
+        "url": "https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Anna Naklab",
+          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+        }
+      ],
+      "duration_ms": 346500,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "All The Wild Things",
+        "url": "https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc"
+      },
+      "artists": [
+        {
+          "name": "Lylos",
+          "url": "https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR"
+        }
+      ],
+      "duration_ms": 210412,
+      "name": "All The Wild Things",
+      "url": "https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -271,54 +311,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "All The Wild Things",
-        "url": "https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc"
+        "name": "Save Tonight",
+        "url": "https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0"
       },
       "artists": [
         {
-          "name": "Lylos",
-          "url": "https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR"
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
         }
       ],
-      "duration_ms": 210412,
-      "name": "All The Wild Things",
-      "url": "https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "The Look of Love",
-        "url": "https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf"
-      },
-      "artists": [
-        {
-          "name": "farfetch'd",
-          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
-        }
-      ],
-      "duration_ms": 194429,
-      "name": "The Look of Love",
-      "url": "https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Fading Nights",
-        "url": "https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "Anna Naklab",
-          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
-        }
-      ],
-      "duration_ms": 346500,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf"
+      "duration_ms": 198159,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -387,22 +391,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Back To You (Joey Pecoraro Remix)",
-        "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
+        "name": "The Look of Love",
+        "url": "https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
         }
       ],
-      "duration_ms": 226644,
-      "name": "Back To You - Joey Pecoraro Remix",
-      "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
+      "duration_ms": 194429,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -471,6 +471,106 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
+        "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+        },
+        {
+          "name": "Agatha Saron",
+          "url": "https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO"
+        }
+      ],
+      "duration_ms": 200131,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+      },
+      "artists": [
+        {
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "All Access",
+        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
+      },
+      "artists": [
+        {
+          "name": "Ben Eggs",
+          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
+        }
+      ],
+      "duration_ms": 186888,
+      "name": "All Access",
+      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Ever Wonder",
+        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
+      },
+      "artists": [
+        {
+          "name": "Linae",
+          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
+        }
+      ],
+      "duration_ms": 147367,
+      "name": "Don't Ever Wonder",
+      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "White Heart Sand",
+        "url": "https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd"
+      },
+      "artists": [
+        {
+          "name": "Togo Bao",
+          "url": "https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn"
+        }
+      ],
+      "duration_ms": 228735,
+      "name": "White Heart Sand",
+      "url": "https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk"
       },
@@ -483,6 +583,54 @@
       "duration_ms": 172027,
       "name": "Movement",
       "url": "https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Sooner Or Later",
+        "url": "https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky"
+      },
+      "artists": [
+        {
+          "name": "Cratouille",
+          "url": "https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR"
+        }
+      ],
+      "duration_ms": 172124,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -507,122 +655,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "All Access",
-        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
-      },
-      "artists": [
-        {
-          "name": "Ben Eggs",
-          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
-        }
-      ],
-      "duration_ms": 186888,
-      "name": "All Access",
-      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Never Be the Same (Sons Of Maria vs. Agatha Saron)",
-        "url": "https://open.spotify.com/album/2a6WTjGTEKetqEjGUkRk4U"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Maria",
-          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
-        },
-        {
-          "name": "Agatha Saron",
-          "url": "https://open.spotify.com/artist/7w6sRUIg45gPBfa6d2vvYO"
-        }
-      ],
-      "duration_ms": 200131,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/2oIFFx2csg2lxgOhLDrd70"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "White Heart Sand",
-        "url": "https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd"
-      },
-      "artists": [
-        {
-          "name": "Togo Bao",
-          "url": "https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "White Heart Sand",
-      "url": "https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Don't Ever Wonder",
-        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
-      },
-      "artists": [
-        {
-          "name": "Linae",
-          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Don't Ever Wonder",
-      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Sooner Or Later",
-        "url": "https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky"
-      },
-      "artists": [
-        {
-          "name": "Cratouille",
-          "url": "https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR"
-        }
-      ],
-      "duration_ms": 172124,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Love Me (Don't Worry)",
         "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
       },
@@ -643,50 +675,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
       },
       "artists": [
         {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+          "name": "Gary Luton",
+          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
         }
       ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Everything Shines",
-        "url": "https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7"
-      },
-      "artists": [
-        {
-          "name": "Tomas Skyldeberg",
-          "url": "https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef"
-        }
-      ],
-      "duration_ms": 179889,
-      "name": "Summer Vibe",
-      "url": "https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv"
+      "duration_ms": 214357,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -703,22 +703,6 @@
       "duration_ms": 186900,
       "name": "Elephant & Castle",
       "url": "https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
-      },
-      "artists": [
-        {
-          "name": "Gary Luton",
-          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -755,18 +739,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
+        "name": "Surf The Orange Water",
+        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
       },
       "artists": [
         {
-          "name": "Julia Bergwall",
-          "url": "https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD"
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
         }
       ],
-      "duration_ms": 192472,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
+      "duration_ms": 189880,
+      "name": "Violet Breeze",
+      "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -787,66 +771,38 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf"
       },
       "artists": [
         {
-          "name": "PANG!",
-          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
+          "name": "Tyron Hapi",
+          "url": "https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I"
+        },
+        {
+          "name": "Lucas Marx",
+          "url": "https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
+      "duration_ms": 150014,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE"
     },
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "I Need My Girl",
-        "url": "https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq"
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI"
       },
       "artists": [
         {
-          "name": "Gnarly Gibbs",
-          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
+          "name": "Julia Bergwall",
+          "url": "https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD"
         }
       ],
-      "duration_ms": 222838,
-      "name": "I Need My Girl",
-      "url": "https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Surf The Orange Water",
-        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
-      },
-      "artists": [
-        {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Violet Breeze",
-      "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Feel The Heat",
-        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
-      },
-      "artists": [
-        {
-          "name": "Bon Lui",
-          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
-        }
-      ],
-      "duration_ms": 319677,
-      "name": "Feel The Heat",
-      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
+      "duration_ms": 192472,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -867,18 +823,66 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Midnight Sky",
-        "url": "https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg"
+        "name": "Feel The Heat",
+        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
       },
       "artists": [
         {
-          "name": "Sol Calor",
-          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
+          "name": "Bon Lui",
+          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
         }
       ],
-      "duration_ms": 214096,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk"
+      "duration_ms": 319677,
+      "name": "Feel The Heat",
+      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "I Need My Girl",
+        "url": "https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq"
+      },
+      "artists": [
+        {
+          "name": "Gnarly Gibbs",
+          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
+        }
+      ],
+      "duration_ms": 222838,
+      "name": "I Need My Girl",
+      "url": "https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
+      },
+      "artists": [
+        {
+          "name": "PANG!",
+          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Everything Shines",
+        "url": "https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7"
+      },
+      "artists": [
+        {
+          "name": "Tomas Skyldeberg",
+          "url": "https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef"
+        }
+      ],
+      "duration_ms": 179889,
+      "name": "Summer Vibe",
+      "url": "https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -899,6 +903,42 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Kindisch Presents: Kindisch Steps VI",
+        "url": "https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy"
+      },
+      "artists": [
+        {
+          "name": "Kora (CA)",
+          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
+        },
+        {
+          "name": "Adrien (CA)",
+          "url": "https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ"
+        }
+      ],
+      "duration_ms": 719414,
+      "name": "Nuit d'Afrique",
+      "url": "https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Surf The Orange Water",
+        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "duration_ms": 186809,
+      "name": "Surf The Orange Water",
+      "url": "https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
       },
@@ -915,70 +955,34 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
       },
       "artists": [
         {
-          "name": "Vivaldi Verdes",
-          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
+          "name": "Sol Calor",
+          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
         }
       ],
-      "duration_ms": 235549,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
+      "duration_ms": 218584,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
     },
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+        "name": "Bellevue",
+        "url": "https://open.spotify.com/album/65ncxNO2Kt96Cxwpu3tedv"
       },
       "artists": [
         {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+          "name": "Isla Bonner",
+          "url": "https://open.spotify.com/artist/2rbgxJc6kAcF1PzeVrFgUo"
         }
       ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Follow the Sun",
-        "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
-      },
-      "artists": [
-        {
-          "name": "Gnarly Gibbs",
-          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
-        }
-      ],
-      "duration_ms": 243624,
-      "name": "Follow the Sun",
-      "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Crying Wolf",
-        "url": "https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L"
-      },
-      "artists": [
-        {
-          "name": "Sugar Jesus",
-          "url": "https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5"
-        },
-        {
-          "name": "Leda",
-          "url": "https://open.spotify.com/artist/5fPiq0Rr9INjEZICiUMc7O"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Crying Wolf",
-      "url": "https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva"
+      "duration_ms": 198894,
+      "name": "Bellevue",
+      "url": "https://open.spotify.com/track/7CcJM0gz2YrZUCxOlIzQ8W"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -1003,18 +1007,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
+        "name": "Follow the Sun",
+        "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
       },
       "artists": [
         {
-          "name": "Sol Calor",
-          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
+          "name": "Gnarly Gibbs",
+          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
         }
       ],
-      "duration_ms": 218584,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
+      "duration_ms": 243624,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
     }
   ],
   "unique_name": "Aperitivo Time",

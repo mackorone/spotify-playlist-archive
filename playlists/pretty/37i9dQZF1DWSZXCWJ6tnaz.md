@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 
 > A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,655 likes - 38 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,516 likes - 38 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 | 8 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 |
 | 9 | [Avant\-dernières pensées: I\. Idylle \- Snorri Hallgrímsson Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Avant\-dernières pensées: I\. Idylle \[Snorri Hallgrímsson Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv) | 3:56 |
 | 10 | [Still](https://open.spotify.com/track/6B0ZlLf0p2s1Lwt3ivAXKy) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Still](https://open.spotify.com/album/0QxD0lOJH9NBtJuSb2can4) | 2:22 |
-| 11 | [6 Encores for Piano: No\. 3, Wasserklavier](https://open.spotify.com/track/07tKTXpTwZhseOKcmzCv6D) | [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [LISZT INSPECTIONS](https://open.spotify.com/album/26tmVV1dFkaftPXyMrRABC) | 2:19 |
+| 11 | [6 Encores for Piano \(1965\): No\. 3, Wasserklavier](https://open.spotify.com/track/0RnF44RV45by9HTtZuttgl) | [Luciano Berio](https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO), [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [Liszt Inspections](https://open.spotify.com/album/0HOOCAPfWkh6e24UQLkok5) | 2:19 |
 | 12 | [My fellow creatures](https://open.spotify.com/track/1YcABWwgkfrOSw8VMgDWZU) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:25 |
 | 13 | [Roses in a Box](https://open.spotify.com/track/20BUmbjIRXr7MnGjNaC2R2) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [William Howard](https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL) | [Sixteen Contemporary Love Songs for Piano](https://open.spotify.com/album/2OYyS1vSV7qEIYjA763YvF) | 3:41 |
 | 14 | [Patterns, Erase \- Simeon Walker Rework](https://open.spotify.com/track/1Biw7PpA3W0wCSl4PPspsa) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Dear, Piano](https://open.spotify.com/album/1MrAfbbO15n2Y1odaVOt9u) | 4:31 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 | 37 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 |
 | 38 | [Somnia](https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Somnia](https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4) | 3:18 |
 
-Snapshot ID: `MTY2ODQzMjMxNiwwMDAwMDAwMDI5YmJhZmFjYzU2Yzc4YjI1YTg1ZTZiYzA3YmYzMmZl`
+Snapshot ID: `MTY2ODQzMjMxNiwwMDAwMDAwMGNkYzdhYThmZDE1MTk3MDM5YTg4OWUxNjdjZDVlZjNh`

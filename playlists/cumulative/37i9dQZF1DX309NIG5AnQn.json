@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-30",
   "description": "Hay otro sonido y lo encontr\u00e1s ac\u00e1. \nFoto: Buenos Vampiros.",
   "name": "Corriente Alternativa",
-  "published_playlist_ids": [
-    "5FP3dwk8hADhOl8RSWpO0T"
-  ],
   "tracks": [
     {
       "album": {
@@ -317,10 +314,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 229329,
       "name": "Color",
       "url": "https://open.spotify.com/track/6yPdKUk3kSelyKc15Ix0sV"
+    },
+    {
+      "album": {
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229329,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/76MMaNzI01OojAm2MJExHv"
     },
     {
       "album": {

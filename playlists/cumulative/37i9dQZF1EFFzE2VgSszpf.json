@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2Qo1l3s9YqHwoM1udvQbsr\">Kadhja Bonet</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Kadhja Bonet",
-  "published_playlist_ids": [
-    "1w0SMgXeEiZnBzt44KT9oN"
-  ],
   "tracks": [
     {
       "album": {
@@ -219,10 +216,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 159061,
       "name": "For You",
       "url": "https://open.spotify.com/track/1FF6Bb7hgRQWDEmn9iWQix"
+    },
+    {
+      "album": {
+        "name": "For You (Many Selves Version)",
+        "url": "https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir"
+      },
+      "artists": [
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221525,
+      "name": "For You - Many Selves Version",
+      "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
     },
     {
       "album": {

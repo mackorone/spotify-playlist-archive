@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
   "name": "Legendary Labels: VP Records",
-  "published_playlist_ids": [
-    "3unIimQjWMk86DrgGDOhN0"
-  ],
   "tracks": [
     {
       "album": {
@@ -476,6 +473,24 @@
     },
     {
       "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/3nHyznRwytwaj0sBoa9RR1"
+      },
+      "artists": [
+        {
+          "name": "Tanto Metro & Devonte",
+          "url": "https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209053,
+      "name": "Give It To Her",
+      "url": "https://open.spotify.com/track/00FU5uypELwgQuM9IbFC6G"
+    },
+    {
+      "album": {
         "name": "Down In Jamaica: 40 Years of VP Records",
         "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
       },
@@ -751,10 +766,40 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 273360,
       "name": "I'm Still in Love with You (feat. Sasha)",
       "url": "https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
+        },
+        {
+          "name": "Jeremy Harding",
+          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
+        },
+        {
+          "name": "Murray Elias",
+          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "I'm Still in Love with You (feat. Sasha)",
+      "url": "https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN"
     },
     {
       "album": {
@@ -1701,7 +1746,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 227933,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "<a href=\"http://casaum.org/\">Casa 1</a> recommends songs from LBT women (lesbians, bi and trans). | Cover:  Ventura Profana",
   "name": "Garota, o farol t\u00e1 aceso",
-  "published_playlist_ids": [
-    "5vDUfBtAHRwJD6jYMYd1zW"
-  ],
   "tracks": [
     {
       "album": {
@@ -89,10 +86,32 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 194873,
       "name": "Amor e Sacanagem",
       "url": "https://open.spotify.com/track/74KhL2RSFJK0o2hNwBnuA2"
+    },
+    {
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/6Mc2eMm7ClOoCMnZg8CuwH"
+      },
+      "artists": [
+        {
+          "name": "A\u00edla",
+          "url": "https://open.spotify.com/artist/3OtIWdfvw95ikh5dpiNop3"
+        },
+        {
+          "name": "Lu\u00edsa Nascimento",
+          "url": "https://open.spotify.com/artist/75P8IMO7QpxyxglsNvLZGg"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194873,
+      "name": "Amor e Sacanagem",
+      "url": "https://open.spotify.com/track/1wZh8VTAmSoCZuXzudYmBJ"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-17",
   "description": "wandering the forest as the fog floats through the trees",
   "name": "gloomcore",
-  "published_playlist_ids": [
-    "6TfVEDAhgo97YC4Yvz98Mx"
-  ],
   "tracks": [
     {
       "album": {
@@ -98,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Moments.",
+        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
+      },
+      "artists": [
+        {
+          "name": "Violet A. Foster",
+          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291553,
+      "name": "Animism",
+      "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
+    },
+    {
+      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -131,6 +146,42 @@
       "duration_ms": 315284,
       "name": "As I Came Through the Desert Thus It Was",
       "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
+    },
+    {
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/3FdVZ4nJWJnQVuSgzhAApZ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Carson",
+          "url": "https://open.spotify.com/artist/60FenJLDBQ18RLeUXVtTOb"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237744,
+      "name": "Asleep at the Wheel",
+      "url": "https://open.spotify.com/track/4TgK5rhGwoKbqkLgdtC6IA"
+    },
+    {
+      "album": {
+        "name": "You Are Here / Ataraxia",
+        "url": "https://open.spotify.com/album/5jvrvQ02mWbzd5rEshxbFQ"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "Ataraxia",
+      "url": "https://open.spotify.com/track/0HICmyLJANMaAjSMSqEZUj"
     },
     {
       "album": {
@@ -170,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+      },
+      "artists": [
+        {
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162051,
+      "name": "Birth Marks",
+      "url": "https://open.spotify.com/track/2qkXi20Y1sUQrQy1KHzdVR"
+    },
+    {
+      "album": {
         "name": "Deathconsciousness",
         "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
       },
@@ -181,7 +250,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 338000,
       "name": "Bloodhail",
       "url": "https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq"
@@ -199,10 +268,46 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 388000,
       "name": "Buried Above Ground",
       "url": "https://open.spotify.com/track/5dAoUZkkkmx0YDMK9Bmy2g"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/66hWGmiZJlOcp5VUrSs07L"
+      },
+      "artists": [
+        {
+          "name": "Solkaida",
+          "url": "https://open.spotify.com/artist/3WOXZTYEJlLiwBxsoFl2EH"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/2pEcP8gvx0G1aA3NmNbwlJ"
+    },
+    {
+      "album": {
+        "name": "Dreams of a Wake",
+        "url": "https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi"
+      },
+      "artists": [
+        {
+          "name": "thin air",
+          "url": "https://open.spotify.com/artist/65OVOH6e3BNhnFJX3qramL"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283986,
+      "name": "Chlorine Gargoyle",
+      "url": "https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo"
     },
     {
       "album": {
@@ -419,7 +524,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 688000,
       "name": "Earthmover",
       "url": "https://open.spotify.com/track/77yGZRjuWfSzbDT0ROSSUG"
@@ -485,6 +590,24 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "album": {
+        "name": "Fallen Down",
+        "url": "https://open.spotify.com/album/7ajASrVc4lCeQ4Scp85Xvz"
+      },
+      "artists": [
+        {
+          "name": "Duncan Cox",
+          "url": "https://open.spotify.com/artist/26vX4WK3FGhtkiExrFubD4"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141219,
+      "name": "Fallen Down",
+      "url": "https://open.spotify.com/track/20Y0mRrgyivN56Euwcwu0w"
     },
     {
       "album": {
@@ -807,7 +930,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 141040,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os"
@@ -922,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Minecraft - Volume Alpha",
+        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Minecraft",
+      "url": "https://open.spotify.com/track/6xwhCiWXREsAIQVZqHswVw"
+    },
+    {
+      "album": {
         "name": "Coma Waering",
         "url": "https://open.spotify.com/album/2HFgZ2MeCZKxPFrBGY2ulz"
       },
@@ -951,7 +1092,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 302638,
       "name": "My Body Betrayed Me",
       "url": "https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3"
@@ -969,7 +1110,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 291706,
       "name": "New Dawn Fades - 2007 Remaster",
       "url": "https://open.spotify.com/track/5EabbLQZbdhCqG6aK9PFLU"
@@ -1027,6 +1168,24 @@
       "duration_ms": 237847,
       "name": "Part",
       "url": "https://open.spotify.com/track/03cSAXCu8hzINJuF6D0YBA"
+    },
+    {
+      "album": {
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+      },
+      "artists": [
+        {
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200059,
+      "name": "Perpetual Care",
+      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
     },
     {
       "album": {
@@ -1095,7 +1254,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 1742426,
       "name": "Providence",
       "url": "https://open.spotify.com/track/35MghvJDcBxKqb1VHL6ePy"
@@ -1113,7 +1272,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 147533,
       "name": "Real Death",
       "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
@@ -1275,7 +1434,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 119990,
       "name": "Six Forty Seven",
       "url": "https://open.spotify.com/track/2WuK1opHQzRo18YXCtY2DF"
@@ -1387,7 +1546,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 58937,
       "name": "Spaces Inbetween.",
       "url": "https://open.spotify.com/track/54shhL9vif2iwUXg0lNpQX"
@@ -1409,6 +1568,24 @@
       "duration_ms": 489320,
       "name": "Spectral",
       "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+    },
+    {
+      "album": {
+        "name": "stardust",
+        "url": "https://open.spotify.com/album/5AAp97h2IQKCe94W5Wgsy3"
+      },
+      "artists": [
+        {
+          "name": "x\u00f3jira",
+          "url": "https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "stardust",
+      "url": "https://open.spotify.com/track/71M0d7047A3ZLTQSKZt94p"
     },
     {
       "album": {
@@ -1477,7 +1654,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 1352413,
       "name": "Storm",
       "url": "https://open.spotify.com/track/1HfJV18PHF2UQqh4TuySBJ"
@@ -1603,7 +1780,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 368692,
       "name": "The Mysterious Vanishing of Electra",
       "url": "https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q"
@@ -1646,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Fa\u00e7ade",
+        "url": "https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU"
+      },
+      "artists": [
+        {
+          "name": "Petrichor",
+          "url": "https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228101,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/7GOGLPdwOkhLvHkYx6yA2r"
+    },
+    {
+      "album": {
         "name": "Arborescence",
         "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
       },
@@ -1664,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Fa\u00e7ade",
+        "url": "https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU"
+      },
+      "artists": [
+        {
+          "name": "Petrichor",
+          "url": "https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252630,
+      "name": "Uncertainty",
+      "url": "https://open.spotify.com/track/0JNVvSNvv0MuCiKu4lDbtp"
+    },
+    {
+      "album": {
         "name": "Untethering",
         "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
       },
@@ -1679,6 +1892,24 @@
       "duration_ms": 418349,
       "name": "Untethering",
       "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
+    },
+    {
+      "album": {
+        "name": "Fa\u00e7ade",
+        "url": "https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU"
+      },
+      "artists": [
+        {
+          "name": "Petrichor",
+          "url": "https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 334364,
+      "name": "Videotape (Fa\u00e7ade)",
+      "url": "https://open.spotify.com/track/1m1Ma4vQ571qukCDojlmk7"
     },
     {
       "album": {
@@ -1747,7 +1978,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 285906,
       "name": "When the Sun Hits",
       "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-01",
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
   "name": "Praise and Worship",
-  "published_playlist_ids": [
-    "7augvUBLA6t5dcDdUKo5Km"
-  ],
   "tracks": [
     {
       "album": {
@@ -89,7 +86,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 297250,
       "name": "April Celebrants Special (Live)",
       "url": "https://open.spotify.com/track/6s4JdeAKoimUzDkClTadeg"
@@ -213,10 +210,32 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 214989,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
+    },
+    {
+      "album": {
+        "name": "Come & See (Creative Version)",
+        "url": "https://open.spotify.com/album/6DIEcOqCnFOmwMw9TAxInT"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433232,
+      "name": "Come & See",
+      "url": "https://open.spotify.com/track/6u15MnjmTHU0eeSn5ulhYZ"
     },
     {
       "album": {
@@ -239,6 +258,28 @@
       "duration_ms": 311623,
       "name": "Come Alive (feat. Todd Dulaney)",
       "url": "https://open.spotify.com/track/0vbNaNFCWorlaHrzsCli4w"
+    },
+    {
+      "album": {
+        "name": "Endure",
+        "url": "https://open.spotify.com/album/4aoSdYgt7hia1vht8sysVP"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6htaqouwVH0LnEY2gU0KKI"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168012,
+      "name": "Curry",
+      "url": "https://open.spotify.com/track/2S6JR0CGGHCtVwjuNoBRza"
     },
     {
       "album": {
@@ -297,7 +338,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 299049,
       "name": "Ese (Thank You)",
       "url": "https://open.spotify.com/track/1vS7QapA3eXAVkhjbnYKpX"
@@ -407,7 +448,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "Fire",
       "url": "https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm"
@@ -433,6 +474,32 @@
       "duration_ms": 172680,
       "name": "For Me",
       "url": "https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk"
+    },
+    {
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/7vVLq5Jzpqevd43tAIx4eA"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Ryan Hylton",
+          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201648,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h"
     },
     {
       "album": {
@@ -465,10 +532,50 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 850671,
       "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
       "url": "https://open.spotify.com/track/1h0prCASS9tSr8JHAUvCBx"
+    },
+    {
+      "album": {
+        "name": "Grateful Hearts",
+        "url": "https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq"
+      },
+      "artists": [
+        {
+          "name": "Joyful Way Incorporated",
+          "url": "https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 850671,
+      "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
+      "url": "https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5"
+    },
+    {
+      "album": {
+        "name": "Give Him Praise",
+        "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 120000,
+      "name": "Give Him Praise",
+      "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
     },
     {
       "album": {
@@ -585,7 +692,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 156048,
       "name": "Hallelu",
       "url": "https://open.spotify.com/track/7kS7kiFLVZ0UZDpFyPusXG"
@@ -625,7 +732,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 158608,
       "name": "Hallow",
       "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
@@ -785,10 +892,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 168000,
       "name": "Jireh (My Provider)",
       "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
+    },
+    {
+      "album": {
+        "name": "Joy (Reason)",
+        "url": "https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 141531,
+      "name": "Joy (Reason)",
+      "url": "https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV"
     },
     {
       "album": {
@@ -828,6 +953,32 @@
     },
     {
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237669,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS"
+    },
+    {
+      "album": {
         "name": "Mercy (Sho Mo)",
         "url": "https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx"
       },
@@ -839,10 +990,32 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 165642,
       "name": "Mercy (Sho Mo)",
       "url": "https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY"
+    },
+    {
+      "album": {
+        "name": "Meto",
+        "url": "https://open.spotify.com/album/5rFO9ALAdQq8wDFhdNdgS6"
+      },
+      "artists": [
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        },
+        {
+          "name": "IGWE",
+          "url": "https://open.spotify.com/artist/2VFULDBfmhd8oBrCNJ5WEG"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250391,
+      "name": "Meto",
+      "url": "https://open.spotify.com/track/14EvjEIycn85qYPwRLekr5"
     },
     {
       "album": {
@@ -937,7 +1110,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 209437,
       "name": "Na Me Be This",
       "url": "https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO"
@@ -1021,7 +1194,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 248200,
       "name": "Nhyira",
       "url": "https://open.spotify.com/track/1Xn4HToryYUuIPP1LJa8LQ"
@@ -1043,7 +1216,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 409999,
       "name": "Nkwa Abodoo (feat. Nacy)",
       "url": "https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb"
@@ -1333,7 +1506,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 157309,
       "name": "Relief",
       "url": "https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD"
@@ -1407,7 +1580,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 153473,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
@@ -1451,7 +1624,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 206897,
       "name": "Show Dem",
       "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
@@ -1585,7 +1758,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 271950,
       "name": "Testify",
       "url": "https://open.spotify.com/track/469a5ribFps5STVVzbnL3l"
@@ -1676,6 +1849,46 @@
     },
     {
       "album": {
+        "name": "VIBES",
+        "url": "https://open.spotify.com/album/1JB6EdMUgU9PwXNsGCvyAP"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193163,
+      "name": "VIBES",
+      "url": "https://open.spotify.com/track/05ee5RwDmyeOpIQeshWlJq"
+    },
+    {
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/1IJgW1LInx1jkRSSLegyRL"
+      },
+      "artists": [
+        {
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        },
+        {
+          "name": "Johnny Haick",
+          "url": "https://open.spotify.com/artist/3uSVYg6uMnIBv06tyILBj3"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 475544,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/6yZu268Sq4D1xfEY0Q9x8f"
+    },
+    {
+      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -1687,7 +1900,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 252473,
       "name": "W' agye Me",
       "url": "https://open.spotify.com/track/4JQofHiIEY6EuWLXAxe7SG"
@@ -1723,7 +1936,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 298396,
       "name": "Wobeye Kese - Version 1",
       "url": "https://open.spotify.com/track/5M1pUiWe3yAVTVMQE3ZM31"
@@ -1749,6 +1962,24 @@
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
+    },
+    {
+      "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "Worry About Nothing",
+      "url": "https://open.spotify.com/track/1bateGag5fX01lBjlkJ6JG"
     },
     {
       "album": {
@@ -1785,6 +2016,24 @@
       "duration_ms": 162000,
       "name": "Yellow Soul",
       "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "album": {
+        "name": "Yes, Lord!",
+        "url": "https://open.spotify.com/album/5cSDcoxm30scAAdvCTUaPn"
+      },
+      "artists": [
+        {
+          "name": "Buchi",
+          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 309705,
+      "name": "Yes, Lord!",
+      "url": "https://open.spotify.com/track/6qBObB4fdVeswPpu1tJFGg"
     },
     {
       "album": {

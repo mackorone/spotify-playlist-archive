@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-19",
   "description": "Sad and gloomy instrumental Jazz.",
   "name": "Sad Jazz",
-  "published_playlist_ids": [
-    "6TUsSMZfT1RvK6nvajCGWL"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 192807,
       "name": "A Few Odd Jobs",
       "url": "https://open.spotify.com/track/3iqhWCI6anGEfsGuHgTOCm"
@@ -134,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Aesthete",
+        "url": "https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q"
+      },
+      "artists": [
+        {
+          "name": "Billy Hicks Quartet",
+          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222459,
+      "name": "Aesthete",
+      "url": "https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL"
+    },
+    {
+      "album": {
         "name": "Be Cool",
         "url": "https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D"
       },
@@ -181,7 +196,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 238113,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/7ncpKFg4IUzVIjnSPTD98y"
@@ -224,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Anse Source d'Argent",
+        "url": "https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG"
+      },
+      "artists": [
+        {
+          "name": "Jenny Jones",
+          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238077,
+      "name": "Anse Source d'Argent",
+      "url": "https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR"
+    },
+    {
+      "album": {
         "name": "At Dusk",
         "url": "https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO"
       },
@@ -235,7 +268,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 204751,
       "name": "At Dusk",
       "url": "https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK"
@@ -397,7 +430,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 269500,
       "name": "Black Forest Rose",
       "url": "https://open.spotify.com/track/46KhjnbImVzXTidxnZeqzH"
@@ -610,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Brother Rabbit",
+        "url": "https://open.spotify.com/album/0mO4xPzkwqsq9N9nvBGM18"
+      },
+      "artists": [
+        {
+          "name": "Jacky Bonnet Group",
+          "url": "https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "Brother Rabbit",
+      "url": "https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs"
+    },
+    {
+      "album": {
         "name": "Lady In Satin",
         "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA"
       },
@@ -708,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Chelsea Bridge",
+        "url": "https://open.spotify.com/album/193K3cqXvobNyEPiuOmEVz"
+      },
+      "artists": [
+        {
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234460,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/3adEZyI3YfyACGbH293KTG"
+    },
+    {
+      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -737,7 +806,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205078,
       "name": "Close Enough For Love",
       "url": "https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM"
@@ -928,6 +997,24 @@
     },
     {
       "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/4BtSurjJ5AKBGfNk1Tuav9"
+      },
+      "artists": [
+        {
+          "name": "Nelly Vernon",
+          "url": "https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204696,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/3DZ0VT9Cnl9P2kj5rEGske"
+    },
+    {
+      "album": {
         "name": "Changing Places",
         "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
       },
@@ -1037,7 +1124,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 356920,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/2yHAermF5pXf4HQPcbkjy1"
@@ -2195,7 +2282,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 180691,
       "name": "If You Say Goodbye",
       "url": "https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY"
@@ -2513,7 +2600,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 403226,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx"
@@ -2679,7 +2766,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 273616,
       "name": "Midnight midtown",
       "url": "https://open.spotify.com/track/23SM99bJ0j6IejFfLXkUoA"
@@ -2697,10 +2784,28 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 271277,
       "name": "Miles and Miles",
       "url": "https://open.spotify.com/track/6EjkHR4gYfNQjWwoyiCTbh"
+    },
+    {
+      "album": {
+        "name": "Min B\u00e4sta V\u00e4n",
+        "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
+      },
+      "artists": [
+        {
+          "name": "Bergsundet",
+          "url": "https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214944,
+      "name": "Min B\u00e4sta V\u00e4n",
+      "url": "https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS"
     },
     {
       "album": {
@@ -2755,7 +2860,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 319733,
       "name": "My Little Brown Book",
       "url": "https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN"
@@ -2821,6 +2926,24 @@
       "duration_ms": 576560,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/7gapLLf7TnXBg6NnT3kH8e"
+    },
+    {
+      "album": {
+        "name": "Mysterious Stranger",
+        "url": "https://open.spotify.com/album/6R7K535bnjXQy4DYE9VYnI"
+      },
+      "artists": [
+        {
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240950,
+      "name": "Mysterious Stranger",
+      "url": "https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI"
     },
     {
       "album": {
@@ -2923,6 +3046,24 @@
       "duration_ms": 179866,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y"
+    },
+    {
+      "album": {
+        "name": "On 14th Street",
+        "url": "https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176896,
+      "name": "On 14th Street",
+      "url": "https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4"
     },
     {
       "album": {
@@ -3173,7 +3314,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2023-01-20",
       "duration_ms": 370680,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/2ZkAAVVr0wuSN0pYdXBGmI"
@@ -3195,6 +3336,24 @@
       "duration_ms": 330124,
       "name": "Sad Story",
       "url": "https://open.spotify.com/track/6DK6hcOB6iCaXH3Bc8TqWb"
+    },
+    {
+      "album": {
+        "name": "Salar de Uyuni",
+        "url": "https://open.spotify.com/album/3RcrtLDdMGa4pvCtV4AMkp"
+      },
+      "artists": [
+        {
+          "name": "John B. Stewart",
+          "url": "https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254492,
+      "name": "Salar de Uyuni",
+      "url": "https://open.spotify.com/track/4lmHHLC06pFMx2gb7KnDJW"
     },
     {
       "album": {
@@ -3281,10 +3440,28 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 483280,
       "name": "Seymour Reads the Constitution",
       "url": "https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9"
+    },
+    {
+      "album": {
+        "name": "She Steps Into The Frame",
+        "url": "https://open.spotify.com/album/63GO4Q9IV55ana3r02rsWD"
+      },
+      "artists": [
+        {
+          "name": "Marc Henley Trio",
+          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141848,
+      "name": "She Steps Into The Frame",
+      "url": "https://open.spotify.com/track/5iShMgXWNiRUHc1knNf6QI"
     },
     {
       "album": {
@@ -3389,6 +3566,24 @@
       "duration_ms": 262977,
       "name": "Sleep Paralysis",
       "url": "https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX"
+    },
+    {
+      "album": {
+        "name": "Sleeted Streets",
+        "url": "https://open.spotify.com/album/2lS8BnBmFMczWJ6WrjPAoK"
+      },
+      "artists": [
+        {
+          "name": "Eduard Landings",
+          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224776,
+      "name": "Sleeted Streets",
+      "url": "https://open.spotify.com/track/4dX9jhmfLWYYmb1NQ5SCgN"
     },
     {
       "album": {
@@ -3581,7 +3776,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 473680,
       "name": "Spartacus Love Theme",
       "url": "https://open.spotify.com/track/69VOuX3N2H0zFRbtoLWFKA"
@@ -3661,6 +3856,24 @@
       "duration_ms": 286133,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k"
+    },
+    {
+      "album": {
+        "name": "Steps from the Nightingale",
+        "url": "https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA"
+      },
+      "artists": [
+        {
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154681,
+      "name": "Steps from the Nightingale",
+      "url": "https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z"
     },
     {
       "album": {
@@ -4119,7 +4332,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 335840,
       "name": "Time Remembered - Live",
       "url": "https://open.spotify.com/track/7wpeyD7ZlOmN4JGyEvfg38"
@@ -4321,7 +4534,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 345818,
       "name": "When You Return",
       "url": "https://open.spotify.com/track/7LTpiEX2hKJjvMdMFICzSU"
@@ -4437,6 +4650,42 @@
       "duration_ms": 315405,
       "name": "Willow Weep for Me - Remastered",
       "url": "https://open.spotify.com/track/111VqNnQA1m6enKxaO77B5"
+    },
+    {
+      "album": {
+        "name": "Anyone Can Dream",
+        "url": "https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192394,
+      "name": "Winter in Munich",
+      "url": "https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq"
+    },
+    {
+      "album": {
+        "name": "Withered Flowers",
+        "url": "https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Withered Flowers",
+      "url": "https://open.spotify.com/track/7zu57iXTCngCECQrUNVLSN"
     },
     {
       "album": {
@@ -4601,6 +4850,24 @@
       "duration_ms": 330615,
       "name": "Young and Foolish",
       "url": "https://open.spotify.com/track/2ncnr8AuzqAabOGEIoA863"
+    },
+    {
+      "album": {
+        "name": "\u00daltimamente",
+        "url": "https://open.spotify.com/album/0UlBxNwVwKvU30I3RHUlAr"
+      },
+      "artists": [
+        {
+          "name": "Joanna Mason",
+          "url": "https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "\u00daltimamente",
+      "url": "https://open.spotify.com/track/1BJmiWUEqMx2aqHqfIbeAQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0aiWQDFamDa"

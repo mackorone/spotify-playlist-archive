@@ -1,15 +1,439 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44321,
+  "num_followers": 44408,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTk5Nyw5NzJlMDg4NzkyMTFmOTE4MmQxMzYzNjYzMTMwY2VjOGVkYTdlN2I1",
+  "snapshot_id": "NjA2Niw1NGNiNzFlOTc2NjU1MzQzZjMzNWY1MDAzZDViMDY4NTBiZGU3MTdh",
   "tracks": [
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Moonlight (feat. Gianni Taylor)",
+        "url": "https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "GIANNI TAYLOR",
+          "url": "https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i"
+        }
+      ],
+      "duration_ms": 173061,
+      "name": "Moonlight (feat. Gianni Taylor)",
+      "url": "https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk"
+    },
+    {
+      "added_at": "2023-01-27 06:19:01",
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/7sOA6ilyWGVxXgwsTf6Jm3"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "duration_ms": 172857,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/2e3Qt3sB30HiEWqlwUWga9"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/0UmkkEWHquA9fVy8MjNMsB"
+      },
+      "artists": [
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        },
+        {
+          "name": "3DI",
+          "url": "https://open.spotify.com/artist/5lLpc0Fm6VJEcJxai3Fq4G"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/1ByFlaAaOkFzzIDhhBf3ox"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Traces Of You",
+        "url": "https://open.spotify.com/album/2sZAcRt2t9zr1X7CO00wZY"
+      },
+      "artists": [
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Traces Of You",
+      "url": "https://open.spotify.com/track/1V0mxw6kWF2edrzAE97I4g"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "KPASA (feat. Drty Tropix)",
+        "url": "https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        },
+        {
+          "name": "Drty Tropix",
+          "url": "https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "KPASA (feat. Drty Tropix)",
+      "url": "https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Phat Brahms (Coone Remix 2.0)",
+        "url": "https://open.spotify.com/album/47bfgSSEuMdUIGtHT0KGFw"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Angger Dimas",
+          "url": "https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 179673,
+      "name": "Phat Brahms - Coone Remix 2.0",
+      "url": "https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/4U7lCbHpPpgHuXbAkvQeBB"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "duration_ms": 128507,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/42uX9KNWASwZxnmtn1YKBn"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Vamos a Beber (Sak Noel Remix)",
+        "url": "https://open.spotify.com/album/4SG62I5xwZTEqQUX6W5ONW"
+      },
+      "artists": [
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Vamos a Beber - Sak Noel Remix",
+      "url": "https://open.spotify.com/track/4JRLNNdcgxmZOS6gziBIew"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Osaka Psycho",
+        "url": "https://open.spotify.com/album/5gANRMe0nkkXIBhQ4d3ptr"
+      },
+      "artists": [
+        {
+          "name": "SWAGE",
+          "url": "https://open.spotify.com/artist/4AX69F3L6j5N4wZFUaXYdc"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Osaka Psycho",
+      "url": "https://open.spotify.com/track/4al48UReBtAEGNK48WLPCR"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Never Be The Same (feat. Paige Duch\u00e9)",
+        "url": "https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN"
+      },
+      "artists": [
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        },
+        {
+          "name": "Paige Duch\u00e9",
+          "url": "https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws"
+        }
+      ],
+      "duration_ms": 162663,
+      "name": "Never Be The Same (feat. Paige Duch\u00e9)",
+      "url": "https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Treat U Wrong",
+        "url": "https://open.spotify.com/album/2h2VFBu0mviDo2RXXU9Yzm"
+      },
+      "artists": [
+        {
+          "name": "aboywithabag",
+          "url": "https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY"
+        }
+      ],
+      "duration_ms": 122103,
+      "name": "Treat U Wrong",
+      "url": "https://open.spotify.com/track/0TtPLbRdf1d6paRb1XAXFg"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "D House",
+        "url": "https://open.spotify.com/album/7nIEkc3bIt0DIzUqQB3koJ"
+      },
+      "artists": [
+        {
+          "name": "DISTO",
+          "url": "https://open.spotify.com/artist/1uodYnEBYYgZsExzoMeiGl"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "D House",
+      "url": "https://open.spotify.com/track/6TKtoZBT8PGOgIP3e30hDN"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "All The Time",
+        "url": "https://open.spotify.com/album/04Er7EWQFPjGPTthhPLh7n"
+      },
+      "artists": [
+        {
+          "name": "aboywithabag",
+          "url": "https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Night Spot (feat. B Che)",
+        "url": "https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ"
+      },
+      "artists": [
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+        },
+        {
+          "name": "B Che",
+          "url": "https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN"
+        }
+      ],
+      "duration_ms": 180230,
+      "name": "Night Spot (feat. B Che)",
+      "url": "https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Welcome to the Playhouse",
+        "url": "https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Welcome to the Playhouse",
+      "url": "https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "OPEN YOUR EYES",
+        "url": "https://open.spotify.com/album/6ZHkAA8tCE9803lwFAgwKU"
+      },
+      "artists": [
+        {
+          "name": "THIEVES",
+          "url": "https://open.spotify.com/artist/0l6M2vf0lC8N42B4spXUSn"
+        },
+        {
+          "name": "BADVOID",
+          "url": "https://open.spotify.com/artist/1xLTclBBWlypMWDMV8Eb6O"
+        }
+      ],
+      "duration_ms": 192951,
+      "name": "OPEN YOUR EYES",
+      "url": "https://open.spotify.com/track/6NU79Y1bRxbHwqSYdWUL2h"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8"
+      },
+      "artists": [
+        {
+          "name": "Cabuizee",
+          "url": "https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Toxic Rain (prod. David Mugratsch) [VIP Mix]",
+        "url": "https://open.spotify.com/album/0YDquXUQDJ58JD6fp7XTzR"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "David Mugratsch",
+          "url": "https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud"
+        }
+      ],
+      "duration_ms": 116308,
+      "name": "Toxic Rain (prod. David Mugratsch) - VIP Mix",
+      "url": "https://open.spotify.com/track/16VzFdHhJz6PkyFWMoEggi"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm"
+      },
+      "artists": [
+        {
+          "name": "La Favi",
+          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
+        }
+      ],
+      "duration_ms": 178056,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Dale Loca",
+        "url": "https://open.spotify.com/album/2lawLhKlGRsqvS4ETYdPqW"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Anna Marchesini",
+          "url": "https://open.spotify.com/artist/5pgt3A5TmZz94jyIbUPbtD"
+        }
+      ],
+      "duration_ms": 138480,
+      "name": "Dale Loca",
+      "url": "https://open.spotify.com/track/2gadKaKUi5ZGtzawTUfLwr"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Guaracha En Reggaetonlandia",
+        "url": "https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        }
+      ],
+      "duration_ms": 146313,
+      "name": "Guaracha En Reggaetonlandia",
+      "url": "https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Pump It Up",
         "url": "https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v"
@@ -37,163 +461,7 @@
       "url": "https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb"
     },
     {
-      "added_at": "2022-11-18 16:53:08",
-      "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"
-    },
-    {
-      "added_at": "2022-11-22 23:29:35",
-      "album": {
-        "name": "Android",
-        "url": "https://open.spotify.com/album/4LWlEIlGzCjoru2PaLC8PO"
-      },
-      "artists": [
-        {
-          "name": "RANKZ",
-          "url": "https://open.spotify.com/artist/6DjZSHY1ANtCvlwvy0A469"
-        }
-      ],
-      "duration_ms": 241985,
-      "name": "Android",
-      "url": "https://open.spotify.com/track/7MPdKQ3oeTZ8K9aOS8yymf"
-    },
-    {
-      "added_at": "2022-11-18 16:53:08",
-      "album": {
-        "name": "Night Spot (feat. B Che)",
-        "url": "https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ"
-      },
-      "artists": [
-        {
-          "name": "R3LL",
-          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
-        },
-        {
-          "name": "B Che",
-          "url": "https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN"
-        }
-      ],
-      "duration_ms": 180230,
-      "name": "Night Spot (feat. B Che)",
-      "url": "https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Welcome to the Playhouse",
-        "url": "https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Welcome to the Playhouse",
-      "url": "https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Unbroken",
-        "url": "https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8"
-      },
-      "artists": [
-        {
-          "name": "Cabuizee",
-          "url": "https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Unbroken",
-      "url": "https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "All The Time",
-        "url": "https://open.spotify.com/album/04Er7EWQFPjGPTthhPLh7n"
-      },
-      "artists": [
-        {
-          "name": "aboywithabag",
-          "url": "https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "All The Time",
-      "url": "https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm"
-      },
-      "artists": [
-        {
-          "name": "La Favi",
-          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
-        }
-      ],
-      "duration_ms": 178056,
-      "name": "Action",
-      "url": "https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Dale Loca",
-        "url": "https://open.spotify.com/album/2lawLhKlGRsqvS4ETYdPqW"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        },
-        {
-          "name": "Anna Marchesini",
-          "url": "https://open.spotify.com/artist/5pgt3A5TmZz94jyIbUPbtD"
-        }
-      ],
-      "duration_ms": 138480,
-      "name": "Dale Loca",
-      "url": "https://open.spotify.com/track/2gadKaKUi5ZGtzawTUfLwr"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Guaracha En Reggaetonlandia",
-        "url": "https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf"
-      },
-      "artists": [
-        {
-          "name": "2DEEP",
-          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
-        }
-      ],
-      "duration_ms": 146313,
-      "name": "Guaracha En Reggaetonlandia",
-      "url": "https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Chain Reaction (feat. GiGi Grombacher)",
         "url": "https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd"
@@ -213,27 +481,7 @@
       "url": "https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Toxic Rain (prod. David Mugratsch)",
-        "url": "https://open.spotify.com/album/5ijTP9RBfREShGfAQ90rrP"
-      },
-      "artists": [
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        },
-        {
-          "name": "David Mugratsch",
-          "url": "https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud"
-        }
-      ],
-      "duration_ms": 147540,
-      "name": "Toxic Rain (prod. David Mugratsch)",
-      "url": "https://open.spotify.com/track/7b2FGXLZY3ABSxVgkpccCf"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Dramatic",
         "url": "https://open.spotify.com/album/0QuSvdYztrOUUPE5E6WKpP"
@@ -253,7 +501,7 @@
       "url": "https://open.spotify.com/track/2KIJSmiVOO0Obh6h1rx8ti"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/159iw0k9cDQehxfOECRZgW"
@@ -269,7 +517,7 @@
       "url": "https://open.spotify.com/track/7Kqqg2agWjcT0nBVpzqA4B"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "CREW",
         "url": "https://open.spotify.com/album/7251NIf38i495LPXBgj6UY"
@@ -289,7 +537,23 @@
       "url": "https://open.spotify.com/track/4jP8t7NUr3ESUZ3b5Zmp6M"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
+      "album": {
+        "name": "Android",
+        "url": "https://open.spotify.com/album/4LWlEIlGzCjoru2PaLC8PO"
+      },
+      "artists": [
+        {
+          "name": "RANKZ",
+          "url": "https://open.spotify.com/artist/6DjZSHY1ANtCvlwvy0A469"
+        }
+      ],
+      "duration_ms": 241985,
+      "name": "Android",
+      "url": "https://open.spotify.com/track/7MPdKQ3oeTZ8K9aOS8yymf"
+    },
+    {
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Check This (with Kuhlosul)",
         "url": "https://open.spotify.com/album/38mQizKbMFN1w8PM238v4k"
@@ -309,7 +573,7 @@
       "url": "https://open.spotify.com/track/0hSMYFjDOvzULFrOtmC3s6"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/1Ap4fL7irXlphPx9XIMkwq"
@@ -329,7 +593,7 @@
       "url": "https://open.spotify.com/track/5ENZmalv3TTuZyZpihKyg1"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Like Me (feat. Hooli)",
         "url": "https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH"
@@ -349,7 +613,7 @@
       "url": "https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/4IPhl0uklSlmoSzZpA0yGc"
@@ -365,7 +629,7 @@
       "url": "https://open.spotify.com/track/71R8InTY1qrseVysUhGE8X"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Tuxedo (feat. 24hrs)",
         "url": "https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk"
@@ -385,23 +649,7 @@
       "url": "https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "A Slushii Summer",
-        "url": "https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "I Don't Miss U",
-      "url": "https://open.spotify.com/track/5yHpXftp1WadoINgFucZTz"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Can\u2019t Wait (feat. Tatiana Hazel)",
         "url": "https://open.spotify.com/album/52E6cNhQu9YtNb1x6qP9vf"
@@ -421,27 +669,7 @@
       "url": "https://open.spotify.com/track/6zKYgILhhx9vYGa4imIvFm"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "A Slushii Summer",
-        "url": "https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Love Jesse",
-          "url": "https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5"
-        }
-      ],
-      "duration_ms": 160201,
-      "name": "Summer Lasts Forever (feat. Love Jesse)",
-      "url": "https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "H8 December",
         "url": "https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S"
@@ -465,7 +693,7 @@
       "url": "https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "The Whistle",
         "url": "https://open.spotify.com/album/6Ml1rV2N0McOkkfUU8k7iR"
@@ -489,7 +717,7 @@
       "url": "https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/4oDhPuAO99SV2eccvGKO3w"
@@ -505,31 +733,7 @@
       "url": "https://open.spotify.com/track/1Mge9Dsm61dHkXVQkLY2Es"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Blow The Socket",
-        "url": "https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        },
-        {
-          "name": "PAV4N",
-          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
-        }
-      ],
-      "duration_ms": 192068,
-      "name": "Blow The Socket",
-      "url": "https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Mawlee (feat. Young Buck & DJ Afterthought) [RIOT TEN VIP Mix]",
         "url": "https://open.spotify.com/album/307ezARBk8h7JbrIPvMeSu"
@@ -553,31 +757,7 @@
       "url": "https://open.spotify.com/track/43885roVl0jIEIpWT1yzyP"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Young & Lit (feat. Bok Nero)",
-        "url": "https://open.spotify.com/album/0cwp9pwywIQAjMfIuezSJM"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        },
-        {
-          "name": "Softest Hard",
-          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
-        }
-      ],
-      "duration_ms": 189595,
-      "name": "Young & Lit (feat. Bok Nero)",
-      "url": "https://open.spotify.com/track/6KnBrpwDJZgMAIXXyRFkEN"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv"
@@ -593,7 +773,7 @@
       "url": "https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/1yr7m2ScfY46QpjJacjdKG"
@@ -609,7 +789,7 @@
       "url": "https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Take My Breath Away (feat. Linney)",
         "url": "https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe"
@@ -629,7 +809,7 @@
       "url": "https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Return To Form",
         "url": "https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX"
@@ -645,7 +825,7 @@
       "url": "https://open.spotify.com/track/5gCKPDM4n94TD4c0D8fxJj"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Frenzy",
         "url": "https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo"
@@ -661,7 +841,7 @@
       "url": "https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "We\u2019re Falling (feat. sapientdream)",
         "url": "https://open.spotify.com/album/1rrrcWXR4L1LPOaDgAg1ks"
@@ -685,23 +865,7 @@
       "url": "https://open.spotify.com/track/3kaVh7zUaVT87qnHngdnCF"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Feels Like",
-        "url": "https://open.spotify.com/album/0VH6K3eQTPE3sdFAbNnW65"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/2dJC7TpwGn8b2ricS0nnZV"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3raiGz0JFTWpnzvMgJtnC2"
@@ -721,35 +885,7 @@
       "url": "https://open.spotify.com/track/0oHEiGSJjfLROTq55TEoFl"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Villainy (feat. Gold & Mikey Rotten)",
-        "url": "https://open.spotify.com/album/7I439tCjMMzzWE1bauLG06"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Dr. Ozi",
-          "url": "https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF"
-        },
-        {
-          "name": "Gold",
-          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
-        },
-        {
-          "name": "Mikey Rotten",
-          "url": "https://open.spotify.com/artist/1zHT9y9IMhDCl0j6TSkZ1m"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Villainy (feat. Gold & Mikey Rotten)",
-      "url": "https://open.spotify.com/track/3279d3UVvnvJGhZOHj5Mtq"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/6mhUBbGECknvUeH5TzmrCi"
@@ -769,7 +905,7 @@
       "url": "https://open.spotify.com/track/0jpJNvfr7oBTn5AQnpjEoC"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/4X8VkITNuqIpWDWWKjBu3B"
@@ -785,7 +921,7 @@
       "url": "https://open.spotify.com/track/1hHtStAWuaS1iCBZCdU44x"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Vamos a Beber",
         "url": "https://open.spotify.com/album/1wNNIHN5hLmdxWIPUkoffz"
@@ -805,7 +941,7 @@
       "url": "https://open.spotify.com/track/6mc1TOxoCF9H4q7nvxjGyd"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO"
@@ -829,7 +965,7 @@
       "url": "https://open.spotify.com/track/2K1613LBzxXXXlJGunZcLd"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Waiting For The Day (feat. Kyle Reynolds)",
         "url": "https://open.spotify.com/album/1yKCAwWiURqdUyA7yi7yHu"
@@ -853,43 +989,7 @@
       "url": "https://open.spotify.com/track/6VGqFX2ZOLbdhtOZXNXY2k"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm"
-      },
-      "artists": [
-        {
-          "name": "StayLoose",
-          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Pick Yourself Up",
-        "url": "https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 204369,
-      "name": "Pick Yourself Up",
-      "url": "https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/5v7v1enr2SRCVNyeGUCF4y"
@@ -905,23 +1005,7 @@
       "url": "https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo"
-      },
-      "artists": [
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        }
-      ],
-      "duration_ms": 140701,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Pompeii (feat. Crooked Bangs)",
         "url": "https://open.spotify.com/album/3Y10pwQZ9FUIpOelXxirRx"
@@ -945,7 +1029,7 @@
       "url": "https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/41ANCAUNiWvzR9cjxq5iVD"
@@ -961,7 +1045,7 @@
       "url": "https://open.spotify.com/track/7l9iHqc96MliysA243IK2V"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3"
@@ -981,83 +1065,7 @@
       "url": "https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/32INDtZDynyEP0PqpLiOog"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        },
-        {
-          "name": "Nytrix",
-          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Own The Night",
-        "url": "https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 180193,
-      "name": "Own The Night",
-      "url": "https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Enter With Caution (feat. Alix Robson)",
-        "url": "https://open.spotify.com/album/15ShC3FREY48amM8OYEP0E"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        },
-        {
-          "name": "Alix Robson",
-          "url": "https://open.spotify.com/artist/79GdQ9zaVZKtAIe5XSItbT"
-        }
-      ],
-      "duration_ms": 223557,
-      "name": "Enter With Caution (feat. Alix Robson)",
-      "url": "https://open.spotify.com/track/4sDBG6YWfUcWd6Cev8fWUJ"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "sunlight",
-        "url": "https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU"
-      },
-      "artists": [
-        {
-          "name": "juuku",
-          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
-        }
-      ],
-      "duration_ms": 171710,
-      "name": "sunlight",
-      "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Such A Fool",
         "url": "https://open.spotify.com/album/6hx1sl6hIlnIpRizDhTId2"
@@ -1073,7 +1081,7 @@
       "url": "https://open.spotify.com/track/0X3byZemxzyGTIIA7A2WGS"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Kanos",
         "url": "https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf"
@@ -1089,7 +1097,7 @@
       "url": "https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Stop The World",
         "url": "https://open.spotify.com/album/5tjyquuAUCmHet1Fn1kLUW"
@@ -1113,7 +1121,7 @@
       "url": "https://open.spotify.com/track/0exb2sKaTVyq2AmTKJmdwo"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Plus 1 (feat. Nasty C)",
         "url": "https://open.spotify.com/album/6JWPlOkQqI3zBheWVemmJP"
@@ -1137,7 +1145,7 @@
       "url": "https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj"
     },
     {
-      "added_at": "2022-11-11 22:11:10",
+      "added_at": "2023-01-27 06:18:43",
       "album": {
         "name": "Da Homies",
         "url": "https://open.spotify.com/album/3NJWsGiRPEyCOLKq1jB5Ac"
@@ -1155,26 +1163,6 @@
       "duration_ms": 215238,
       "name": "Da Homies",
       "url": "https://open.spotify.com/track/47xNlfeg2FAIENeBC79kye"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "GAWT DAT",
-        "url": "https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "BERNZIKIAL",
-          "url": "https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "GAWT DAT",
-      "url": "https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1"
     }
   ],
   "unique_name": "Dim Mak New Releases",

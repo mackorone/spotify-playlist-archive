@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-22",
   "description": "Grandes temas del rock de ayer y de hoy.",
   "name": "Radio Rock",
-  "published_playlist_ids": [
-    "6lSNulmAPESmaOIYlj0NuJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -217,7 +214,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-01-06",
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
@@ -505,10 +502,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267596,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
     },
     {
       "album": {
@@ -631,7 +646,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 221332,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
@@ -1153,7 +1168,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 274746,
       "name": "Rebel Rebel - 2016 Remaster",
       "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
@@ -1477,7 +1492,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-10",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Clara Rockmore. The essential tracks, all in one playlist.",
   "name": "This Is Clara Rockmore",
-  "published_playlist_ids": [
-    "3LGDEDJDDWoaf7M1RTrrNy"
-  ],
   "tracks": [
     {
       "album": {
@@ -271,7 +268,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-14",
       "duration_ms": 63106,
       "name": "Commentary 6",
       "url": "https://open.spotify.com/track/37JMZzhw88Btj0MyUzNCms"
@@ -297,7 +294,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2023-01-04",
       "duration_ms": 242773,
       "name": "Commentary: Interviews",
       "url": "https://open.spotify.com/track/6zAR0wKfhrYUFraTXoz0xW"
@@ -548,6 +545,32 @@
     },
     {
       "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Morey Ritt",
+          "url": "https://open.spotify.com/artist/1JAXudyatYMiUMGNTRtvK6"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 220400,
+      "name": "Interview with Clara Rockmore and Morey Ritt",
+      "url": "https://open.spotify.com/track/1Lx6LMEaPUhuR4ReW8hyMp"
+    },
+    {
+      "album": {
         "name": "Music and Memories: Clara Rockmore (Bonus Album)",
         "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
       },
@@ -667,6 +690,32 @@
       "duration_ms": 297040,
       "name": "O Cease Thy Singing, Maiden Fair, Op. 4: No. 4",
       "url": "https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6"
+    },
+    {
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "Robert Sherman",
+          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 259600,
+      "name": "Opening remarks",
+      "url": "https://open.spotify.com/track/4gcNQkAcGnyyFPLkMTYgln"
     },
     {
       "album": {
@@ -845,7 +894,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": "2023-01-11",
       "duration_ms": 259560,
       "name": "Song of Grusia (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/3fTKOgKYBzkehYXOilFIGu"
@@ -971,7 +1020,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2022-12-25",
       "duration_ms": 190400,
       "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
@@ -1027,7 +1076,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-01-24",
       "duration_ms": 745600,
       "name": "Theremin Concerto",
       "url": "https://open.spotify.com/track/164RuJFLGfWUnvLPZaoDEH"
@@ -1057,7 +1106,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": "2023-02-01",
       "duration_ms": 37800,
       "name": "Theremin Concerto: Broadcast Commentary",
       "url": "https://open.spotify.com/track/1VIn2VcadnLfJYizznzpad"
@@ -1079,7 +1128,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-01",
       "duration_ms": 264280,
       "name": "Theremin Concerto: Pastorale",
       "url": "https://open.spotify.com/track/22rXGMOKzA05kco3q4Y06E"
@@ -1153,7 +1202,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2023-02-02",
       "duration_ms": 288666,
       "name": "Violin Concerto No. 2 in D Minor, Op. 22: II. Romance (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/1I5XeJJpgp6IkkOwTOqIuw"

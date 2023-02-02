@@ -4,7 +4,7 @@
 
 > Let's end the year with a bang\. These are the ultimate floorfillers for your New Year's party!
 
-82 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/2jkrQYbakoIZ1jH5waVymP)
+82 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

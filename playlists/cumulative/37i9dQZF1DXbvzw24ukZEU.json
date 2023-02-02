@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-13",
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2010s.\n\n",
   "name": "Latin Chillout 10s",
-  "published_playlist_ids": [
-    "3FGOdzBhTAyW8zf7DnlUoN"
-  ],
   "tracks": [
     {
       "album": {
@@ -143,7 +140,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 191106,
       "name": "Bachata En Fukuoka",
       "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
@@ -395,7 +392,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 200346,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
@@ -417,7 +414,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200586,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
@@ -497,7 +494,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-29",
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
@@ -730,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 206693,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
+    },
+    {
+      "album": {
         "name": "Ella Quiere Beber (Remix)",
         "url": "https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG"
       },
@@ -959,7 +974,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 282226,
       "name": "Hoja en Blanco",
       "url": "https://open.spotify.com/track/3yjU1r7jlFvZHeidCjulpq"
@@ -1077,7 +1092,7 @@
           "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1149,7 +1164,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2022-12-18",
       "duration_ms": 226400,
       "name": "Ll\u00e9vame Contigo",
       "url": "https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw"
@@ -1411,7 +1426,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 155946,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6qoIFQfdmaQF9A1gb67tR7"
@@ -1977,7 +1992,7 @@
       },
       "artists": [
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1991,7 +2006,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-24",
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
@@ -2319,7 +2334,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163813,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/2vrpcQNg6itmgVZWsNjWe0"

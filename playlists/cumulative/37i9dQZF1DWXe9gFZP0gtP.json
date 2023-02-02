@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Calm your mind with gentle piano and ambient music.",
   "name": "Stress Relief",
-  "published_playlist_ids": [
-    "7wZ6R9ir4o1jCeBuEOr8FQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -311,6 +308,24 @@
       "duration_ms": 140689,
       "name": "Aphelia",
       "url": "https://open.spotify.com/track/3PFOZVcCigY9NLmnjl7z9O"
+    },
+    {
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33"
+      },
+      "artists": [
+        {
+          "name": "Elsa Whage",
+          "url": "https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176454,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/57LIE4xGtrUqicdDiikdMp"
     },
     {
       "album": {
@@ -1085,7 +1100,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 300000,
       "name": "Crown",
       "url": "https://open.spotify.com/track/710CYEvGVvt42z3PBd7OU8"
@@ -1542,13 +1557,31 @@
     },
     {
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/54INztVhPtcP07CYx9dwfo"
+      },
+      "artists": [
+        {
+          "name": "Rizzolo",
+          "url": "https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125073,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/11UZcELqU0dAiNLD3MboDh"
+    },
+    {
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e"
       },
       "artists": [
         {
-          "name": "Breathania",
-          "url": "https://open.spotify.com/artist/2jZ2BLUbfB4Zri64YQChn6"
+          "name": "Hema",
+          "url": "https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc"
         }
       ],
       "date_added": "2022-11-11",
@@ -2194,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Hills",
+        "url": "https://open.spotify.com/album/4jgjzmK773C6q9NGVAtD0l"
+      },
+      "artists": [
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153464,
+      "name": "Hills",
+      "url": "https://open.spotify.com/track/6rMM5c330kAz3wKRmH4IRn"
+    },
+    {
+      "album": {
         "name": "Honouring the Promise",
         "url": "https://open.spotify.com/album/4XNXRAgmYCln4JkUE294Lc"
       },
@@ -2235,8 +2286,8 @@
       },
       "artists": [
         {
-          "name": "Luca Sana",
-          "url": "https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA"
+          "name": "Tone Jacobs",
+          "url": "https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT"
         }
       ],
       "date_added": "2022-09-02",
@@ -2421,7 +2472,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 182655,
       "name": "Immersed",
       "url": "https://open.spotify.com/track/1HZa1EjZeJDzQ7r6NwX6jW"
@@ -2745,7 +2796,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 258549,
       "name": "Kv\u00e4llshimmel",
       "url": "https://open.spotify.com/track/06dcHFDNhqqAscjqqRXBl5"
@@ -2767,6 +2818,24 @@
       "duration_ms": 192250,
       "name": "Lago de Atitla\u0301n",
       "url": "https://open.spotify.com/track/08KQZAu0iL2E4CHwwmUIjS"
+    },
+    {
+      "album": {
+        "name": "Lagoom",
+        "url": "https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC"
+      },
+      "artists": [
+        {
+          "name": "Harvey Lanza",
+          "url": "https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Lagoom",
+      "url": "https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM"
     },
     {
       "album": {
@@ -3202,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "milagro",
+        "url": "https://open.spotify.com/album/23VRakpuBMbOAzSCkPJvEC"
+      },
+      "artists": [
+        {
+          "name": "Ezechiel Almonte",
+          "url": "https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182579,
+      "name": "milagro",
+      "url": "https://open.spotify.com/track/4RlPG34EWDZRfQpOFXIr5a"
+    },
+    {
+      "album": {
         "name": "Mild",
         "url": "https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS"
       },
@@ -3339,7 +3426,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 149157,
       "name": "Moonlight Memoirs",
       "url": "https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz"
@@ -3616,6 +3703,24 @@
     },
     {
       "album": {
+        "name": "Old Faro",
+        "url": "https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH"
+      },
+      "artists": [
+        {
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189938,
+      "name": "Old Faro",
+      "url": "https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi"
+    },
+    {
+      "album": {
         "name": "Gemstones, Vol. 5",
         "url": "https://open.spotify.com/album/1rwLMZEmA0AK34SMAHyh1m"
       },
@@ -3649,6 +3754,24 @@
       "duration_ms": 168000,
       "name": "Open Heart",
       "url": "https://open.spotify.com/track/7meCshsWEYqEIsyDz02Wwr"
+    },
+    {
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/0eRqxc2mha7D43HwvqgLDs"
+      },
+      "artists": [
+        {
+          "name": "Amel Scott",
+          "url": "https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156367,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/0n8IZnobhLxdjk02TtAnQj"
     },
     {
       "album": {
@@ -4066,13 +4189,31 @@
     },
     {
       "album": {
+        "name": "Lakshmi",
+        "url": "https://open.spotify.com/album/66lkSZN2o3CNRmCzbzRSTg"
+      },
+      "artists": [
+        {
+          "name": "Lake Melville",
+          "url": "https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Rekha",
+      "url": "https://open.spotify.com/track/4qrNoVMU8gN61AQqU3e13U"
+    },
+    {
+      "album": {
         "name": "Release",
         "url": "https://open.spotify.com/album/4jBVlTEpIx48NPGSxfBAKr"
       },
       "artists": [
         {
-          "name": "Signa Meyer",
-          "url": "https://open.spotify.com/artist/4A9fzSajHnwIXn4u4KT7Ke"
+          "name": "Danoa",
+          "url": "https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2"
         }
       ],
       "date_added": "2022-09-13",
@@ -4131,7 +4272,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 188000,
       "name": "Returning",
       "url": "https://open.spotify.com/track/0jNDmSQYJjV7bi6cMgpDqB"
@@ -4354,6 +4495,24 @@
     },
     {
       "album": {
+        "name": "Seimheach",
+        "url": "https://open.spotify.com/album/1JfGo4In46TZrkc06pYQgv"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Village",
+          "url": "https://open.spotify.com/artist/2BFpVYblz5isZ4eTnMXUQI"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157462,
+      "name": "Seimheach",
+      "url": "https://open.spotify.com/track/7p3bUYxhfjZzNt2CmDW4uT"
+    },
+    {
+      "album": {
         "name": "Sense of inner peace",
         "url": "https://open.spotify.com/album/511n5GvMwwIGAcq0Jiy217"
       },
@@ -4567,6 +4726,24 @@
       "duration_ms": 189000,
       "name": "Sognante",
       "url": "https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw"
+    },
+    {
+      "album": {
+        "name": "Sogno eterno",
+        "url": "https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0"
+      },
+      "artists": [
+        {
+          "name": "Luna Novina",
+          "url": "https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Sogno eterno",
+      "url": "https://open.spotify.com/track/0th3A703YVssZCiPxdj07r"
     },
     {
       "album": {
@@ -5097,8 +5274,8 @@
       },
       "artists": [
         {
-          "name": "Aulin Heras",
-          "url": "https://open.spotify.com/artist/5IoiWICcLlfWh4K4VBQcDu"
+          "name": "Julian Nema",
+          "url": "https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS"
         }
       ],
       "date_added": "2022-06-16",
@@ -5449,6 +5626,24 @@
       "duration_ms": 185000,
       "name": "Ve\u010deras",
       "url": "https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm"
+    },
+    {
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33"
+      },
+      "artists": [
+        {
+          "name": "Elsa Whage",
+          "url": "https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219900,
+      "name": "Virtuous",
+      "url": "https://open.spotify.com/track/7LXscZffE8LUyJ4tn43RZa"
     },
     {
       "album": {

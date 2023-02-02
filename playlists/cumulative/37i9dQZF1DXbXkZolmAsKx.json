@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-12",
   "description": "The best Ambient tracks from 2010 to 2019. ",
   "name": "Ambient 2010s",
-  "published_playlist_ids": [
-    "35yQHDJt5uIXaC5Kq6C4sA"
-  ],
   "tracks": [
     {
       "album": {
@@ -972,6 +969,24 @@
     },
     {
       "album": {
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212839,
+      "name": "LUX 1.4",
+      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
+    },
+    {
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -1305,10 +1320,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 260834,
       "name": "Reflection (Excerpt)",
       "url": "https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36"
+    },
+    {
+      "album": {
+        "name": "Reflection (Excerpt)",
+        "url": "https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260834,
+      "name": "Reflection - Excerpt",
+      "url": "https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT"
     },
     {
       "album": {
@@ -1413,10 +1446,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 210118,
       "name": "Semena Mertvykh",
       "url": "https://open.spotify.com/track/4uWtEvbfRnT7lV4Y5b5gBB"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210118,
+      "name": "Semena Mertvykh",
+      "url": "https://open.spotify.com/track/51B3H88KSH1BkLdQnWlEZl"
     },
     {
       "album": {

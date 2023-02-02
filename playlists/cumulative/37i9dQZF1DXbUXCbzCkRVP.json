@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-20",
   "description": "Iconic instrumentals from the history of Blues.",
   "name": "Instrumental Blues",
-  "published_playlist_ids": [
-    "1rB5kOejoAbOILEpVBlbXb"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2023-02-01",
       "duration_ms": 173000,
       "name": "Ain't That Dandy",
       "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
@@ -106,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Alone With Yourself",
+        "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
+      },
+      "artists": [
+        {
+          "name": "Gary O'Slide",
+          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233382,
+      "name": "Alone With Yourself",
+      "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
+    },
+    {
+      "album": {
         "name": "Big Band Bounce & Boogie",
         "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
       },
@@ -124,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Io",
+        "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
+      },
+      "artists": [
+        {
+          "name": "Daniel Arena",
+          "url": "https://open.spotify.com/artist/1YP7BAcfpCRnxermSsAXEA"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
+    },
+    {
+      "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
@@ -139,6 +172,28 @@
       "duration_ms": 159626,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J"
+    },
+    {
+      "album": {
+        "name": "Country, Blues & More",
+        "url": "https://open.spotify.com/album/7uePfdkQNlG54ecNTMY6RP"
+      },
+      "artists": [
+        {
+          "name": "Paul Lenart",
+          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
+        },
+        {
+          "name": "Duke Levine",
+          "url": "https://open.spotify.com/artist/1BLHu0HotsBC4OdmciQJRh"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133481,
+      "name": "Blue Dreamer",
+      "url": "https://open.spotify.com/track/2zrEfIvpzLaRYzGD8jU0cU"
     },
     {
       "album": {
@@ -178,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Blues On Blues",
+        "url": "https://open.spotify.com/album/1XHnDSzTvbGK4oJkOtzC7V"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183279,
+      "name": "Blues After Hours",
+      "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
+    },
+    {
+      "album": {
         "name": "The Modern Legacy",
         "url": "https://open.spotify.com/album/5KYO0eRr8nZwQESUhUreBy"
       },
@@ -211,6 +284,28 @@
       "duration_ms": 209840,
       "name": "Blues Boys Tune",
       "url": "https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl"
+    },
+    {
+      "album": {
+        "name": "Spread The Love",
+        "url": "https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
+        {
+          "name": "The Broadcasters",
+          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 191520,
+      "name": "Blues For Bill",
+      "url": "https://open.spotify.com/track/4QeECZukfz0Kt3RJDBSkLk"
     },
     {
       "album": {
@@ -280,6 +375,24 @@
     },
     {
       "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509106,
+      "name": "Blues For Otis Rush",
+      "url": "https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY"
+    },
+    {
+      "album": {
         "name": "The King Records R&B Anthology - Volume 1",
         "url": "https://open.spotify.com/album/1TF4ssAYpS3HCJ2V5MxTOY"
       },
@@ -291,7 +404,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-29",
       "duration_ms": 161853,
       "name": "Blues For The Red Boy",
       "url": "https://open.spotify.com/track/74Z91ZZf0cwGWOVEJQacvA"
@@ -327,7 +440,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 133088,
       "name": "Boedo's Blues",
       "url": "https://open.spotify.com/track/1tszEe9cZ8aZGqEfj7AYx7"
@@ -345,10 +458,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 133533,
       "name": "Boogie Albert",
       "url": "https://open.spotify.com/track/54XdAhnIsuW0YevJyI1e1P"
+    },
+    {
+      "album": {
+        "name": "Ain't That Lovin' You Baby",
+        "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153973,
+      "name": "Boogie in the Dark",
+      "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
     },
     {
       "album": {
@@ -428,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Essential Rhythm Beds",
+        "url": "https://open.spotify.com/album/5KiG9omZSUHrZts9DvsCqw"
+      },
+      "artists": [
+        {
+          "name": "Paul Lenart",
+          "url": "https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 108600,
+      "name": "Clarksdale Blues",
+      "url": "https://open.spotify.com/track/7wg8Mdx3dy93WqPOOsmSPx"
+    },
+    {
+      "album": {
         "name": "King Of The Blues Guitar (Reissue)",
         "url": "https://open.spotify.com/album/4btZS65kvBlUlw7xSnzehz"
       },
@@ -457,10 +606,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": "2023-01-12",
       "duration_ms": 340840,
       "name": "Dockside Boogie",
       "url": "https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD"
+    },
+    {
+      "album": {
+        "name": "Don't Be Late",
+        "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
+      },
+      "artists": [
+        {
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166436,
+      "name": "Don't Be Late",
+      "url": "https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu"
     },
     {
       "album": {
@@ -475,10 +642,46 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 361689,
       "name": "Easy Does It Blues",
       "url": "https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12"
+    },
+    {
+      "album": {
+        "name": "Theresa Fungus Amung Us",
+        "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267506,
+      "name": "End Of The Blues",
+      "url": "https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 132800,
+      "name": "Evans' Shuffle",
+      "url": "https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te"
     },
     {
       "album": {
@@ -518,6 +721,46 @@
     },
     {
       "album": {
+        "name": "Gaslighter's Ball",
+        "url": "https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo"
+      },
+      "artists": [
+        {
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190956,
+      "name": "Gaslighter's Ball",
+      "url": "https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg"
+    },
+    {
+      "album": {
+        "name": "R&B from the Marquee / At the Cavern (Remastered)",
+        "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
+      },
+      "artists": [
+        {
+          "name": "Alexis Korner's Blues Incorporated",
+          "url": "https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 150465,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
+    },
+    {
+      "album": {
         "name": "Saga Blues: Chicago Slide Guitar Masters \"From Tampa Red to Elmore James\"",
         "url": "https://open.spotify.com/album/34KpwnL6xD2nYfX8hgoEPA"
       },
@@ -533,6 +776,24 @@
       "duration_ms": 139386,
       "name": "Hawaiian Boogie",
       "url": "https://open.spotify.com/track/50IAP78bUna2exWkQiGhrM"
+    },
+    {
+      "album": {
+        "name": "Blues Kingpins",
+        "url": "https://open.spotify.com/album/6ZYbk8xFYOiqSBkxUmOOVI"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-08",
+      "duration_ms": 139653,
+      "name": "Hawaiian Boogie (No. 2)",
+      "url": "https://open.spotify.com/track/3CaLMAdCR0IWOSGRHLh53x"
     },
     {
       "album": {
@@ -601,7 +862,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 116173,
       "name": "Hot and Heavy",
       "url": "https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq"
@@ -698,6 +959,42 @@
     },
     {
       "album": {
+        "name": "Music For Mad Men - Robust Blues",
+        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139413,
+      "name": "Jukebox Shuffle",
+      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
+    },
+    {
+      "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393666,
+      "name": "Little Johnny Lee",
+      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
+    },
+    {
+      "album": {
         "name": "I Feel Like Goin' On",
         "url": "https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K"
       },
@@ -727,7 +1024,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 344266,
       "name": "Long gone",
       "url": "https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z"
@@ -768,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Midnight In Memphis",
+        "url": "https://open.spotify.com/album/0W13XEedSrRjAWMNGilF60"
+      },
+      "artists": [
+        {
+          "name": "Curtis Baker & The Bravehearts",
+          "url": "https://open.spotify.com/artist/3lQTRCvi6W0iU1VZurddTR"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187582,
+      "name": "Midnight In Memphis",
+      "url": "https://open.spotify.com/track/3LD6GIWctcXt9wm3z89zps"
+    },
+    {
+      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
       },
@@ -783,6 +1098,28 @@
       "duration_ms": 179440,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
+    },
+    {
+      "album": {
+        "name": "Ode to Lynn Taitt",
+        "url": "https://open.spotify.com/album/43TTJfYeftVYRqyi6kXw6h"
+      },
+      "artists": [
+        {
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Cindy Cashdollar",
+          "url": "https://open.spotify.com/artist/1Geygkl2ueTUPSA6EkUaj4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181814,
+      "name": "Ode to Lynn Taitt",
+      "url": "https://open.spotify.com/track/2IkeeV6KxreS3OJu2r4r8b"
     },
     {
       "album": {
@@ -920,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Put It",
+        "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
+      },
+      "artists": [
+        {
+          "name": "TrackTribe",
+          "url": "https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210260,
+      "name": "Put It",
+      "url": "https://open.spotify.com/track/0ilZ3ymj1tmMcwGsrYpkfb"
+    },
+    {
+      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -996,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Mile End ll",
+        "url": "https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf"
+    },
+    {
+      "album": {
         "name": "Ultimate Collection",
         "url": "https://open.spotify.com/album/6CbrZqDIfD8TDS4xrXC8MS"
       },
@@ -1061,10 +1434,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 185786,
       "name": "Side Tracked",
       "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
+    },
+    {
+      "album": {
+        "name": "Mick Taylor",
+        "url": "https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne"
+      },
+      "artists": [
+        {
+          "name": "Mick Taylor",
+          "url": "https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Slow Blues",
+      "url": "https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU"
     },
     {
       "album": {
@@ -1162,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "Sunfall",
+        "url": "https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5"
+      },
+      "artists": [
+        {
+          "name": "Sarah Rogo",
+          "url": "https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy"
+        },
+        {
+          "name": "Haus Music",
+          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240259,
+      "name": "Sunfall Blues",
+      "url": "https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s"
+    },
+    {
+      "album": {
         "name": "Death Chants, Breakdowns And Military Waltzes",
         "url": "https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu"
       },
@@ -1209,7 +1622,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 245933,
       "name": "Thank You Mr. Poobah",
       "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
@@ -1227,7 +1640,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 177120,
       "name": "The Clock Strikes Twelve",
       "url": "https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2"
@@ -1249,6 +1662,24 @@
       "duration_ms": 253733,
       "name": "The Creeper Returns",
       "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
+    },
+    {
+      "album": {
+        "name": "The Grind",
+        "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
+      },
+      "artists": [
+        {
+          "name": "Gus Cleese",
+          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76339,
+      "name": "The Grind",
+      "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
     },
     {
       "album": {
@@ -1274,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Thackery And The Drivers",
+          "url": "https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 564133,
+      "name": "The Messiah Will Come",
+      "url": "https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu"
+    },
+    {
+      "album": {
         "name": "Theresa Fungus Amung Us",
         "url": "https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY"
       },
@@ -1285,7 +1734,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188293,
       "name": "The Screwdriver",
       "url": "https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A"
@@ -1310,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "The Sulfur Blues",
+        "url": "https://open.spotify.com/album/7oXEK96qmpyj2g9FjxhSGF"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "The Sulfur Blues",
+      "url": "https://open.spotify.com/track/719TL8nU2gowduPRAuaDdf"
+    },
+    {
+      "album": {
         "name": "Truly English Blues Rock Band",
         "url": "https://open.spotify.com/album/4G5jNn7Xlh9eOC1ZyCJYDS"
       },
@@ -1321,7 +1788,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-10",
       "duration_ms": 173674,
       "name": "The Supernatural",
       "url": "https://open.spotify.com/track/4r4fq97cNvnRw7TmN6AaPr"
@@ -1375,7 +1842,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 170441,
       "name": "Unmilitary Two-Step",
       "url": "https://open.spotify.com/track/6rkKAYvMwrYUK2Ub1CARFL"
@@ -1415,6 +1882,24 @@
       "duration_ms": 158266,
       "name": "Whammer Jammer",
       "url": "https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF"
+    },
+    {
+      "album": {
+        "name": "Sweet Emma",
+        "url": "https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341854,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/14ZXH12Uk9RJStH5x1RoXT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbUXCbzCkRVP"

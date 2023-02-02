@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New no wave, post-punk, and anything else. Cover: The Cool Greenhouse",
+  "description": "New no wave, post-punk, and anything else. Cover: M(h)aol",
   "name": "Post Punk",
-  "published_playlist_ids": [
-    "0Kwx2x0cfXxWAWrkYyuEPR"
-  ],
   "tracks": [
     {
       "album": {
@@ -293,7 +290,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 178654,
       "name": "Avoidarama",
       "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
@@ -509,7 +506,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 204354,
       "name": "Best Behavior",
       "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
@@ -905,7 +902,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2023-01-19",
       "duration_ms": 363773,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk"
@@ -1074,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Crossing Guard",
+        "url": "https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284880,
+      "name": "Crossing Guard",
+      "url": "https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx"
+    },
+    {
+      "album": {
         "name": "Crow's Perch",
         "url": "https://open.spotify.com/album/0B0Z0UFqsSCUBdM2nKgSVk"
       },
@@ -1161,6 +1176,24 @@
       "duration_ms": 185248,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP"
+    },
+    {
+      "album": {
+        "name": "Thirst",
+        "url": "https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1"
+      },
+      "artists": [
+        {
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160896,
+      "name": "Dazzling",
+      "url": "https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm"
     },
     {
       "album": {
@@ -1777,7 +1810,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 196493,
       "name": "Get Unjaded",
       "url": "https://open.spotify.com/track/2SG9JJ08AAhwS993F6srEj"
@@ -1813,7 +1846,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 279817,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
@@ -1957,7 +1990,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 157199,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/6EMxqMzbCNZHQn1jeiav6q"
@@ -3293,7 +3326,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 204306,
       "name": "Nigel Hitter",
       "url": "https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX"
@@ -3531,7 +3564,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 375626,
       "name": "Paddling",
       "url": "https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz"
@@ -3841,7 +3874,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 209000,
       "name": "Queen Sophie for President",
       "url": "https://open.spotify.com/track/6EEdvLIM8kecYVtpA6Ug86"
@@ -4281,7 +4314,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 234293,
       "name": "South",
       "url": "https://open.spotify.com/track/2U4ssOuiGX9QC0Z1K1BI8z"
@@ -4912,6 +4945,42 @@
     },
     {
       "album": {
+        "name": "Theme New Bond Junior",
+        "url": "https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx"
+      },
+      "artists": [
+        {
+          "name": "JOHN (TIMESTWO)",
+          "url": "https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196549,
+      "name": "Theme New Bond Junior",
+      "url": "https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT"
+    },
+    {
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1YH5G3nbN3k50SjR3zPEfM"
+      },
+      "artists": [
+        {
+          "name": "Mhaol",
+          "url": "https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166022,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/4e7SS7u3ejEiQsbY7X59n1"
+    },
+    {
+      "album": {
         "name": "These Are Not Your Memories",
         "url": "https://open.spotify.com/album/50ghcLExc0stAzU2ieijfv"
       },
@@ -5107,6 +5176,24 @@
       "duration_ms": 174384,
       "name": "Trials And Tribulations",
       "url": "https://open.spotify.com/track/6RL8zPiCh34CcBjQhnjGJp"
+    },
+    {
+      "album": {
+        "name": "Cave World",
+        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199732,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
     },
     {
       "album": {
@@ -5327,7 +5414,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-05",
       "duration_ms": 248267,
       "name": "Who's My Eugene? - Edit",
       "url": "https://open.spotify.com/track/3VTH9rhnc8jceZAU90hzwt"

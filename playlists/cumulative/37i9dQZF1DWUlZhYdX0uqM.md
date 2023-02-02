@@ -4,7 +4,7 @@
 
 > Experience Tom Petty's final project, "Wildflowers & All The Rest," the way he originally envisioned it.
 
-78 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/5V2xUpr8HdyOjxYA6JjAGs)
+78 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

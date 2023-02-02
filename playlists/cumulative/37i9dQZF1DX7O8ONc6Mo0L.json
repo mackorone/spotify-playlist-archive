@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Relaxe com hinos ac\u00fasticos. Foto: Clovis, Ton Carfi",
+  "description": "Relaxe com hinos ac\u00fasticos. Foto: Kleber Lucas, Caetano Veloso",
   "name": "Gospel Ac\u00fastico",
-  "published_playlist_ids": [
-    "2qVFdBscejCMla6A7JhqfJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -207,10 +204,32 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 238889,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/2OFVWDZP3ikovgSWAzD4Dg"
+    },
+    {
+      "album": {
+        "name": "Ao Pr\u00f3ximo",
+        "url": "https://open.spotify.com/album/1wP4UP9l3I5hm76cO8HHqz"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        },
+        {
+          "name": "Estev\u00e3o Queiroga",
+          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 211780,
+      "name": "Ao Pr\u00f3ximo",
+      "url": "https://open.spotify.com/track/6FmVDXWWPKiJKRIydyCn5t"
     },
     {
       "album": {
@@ -486,6 +505,28 @@
     },
     {
       "album": {
+        "name": "Deus Cuida de Mim",
+        "url": "https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224485,
+      "name": "Deus Cuida de Mim",
+      "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
+    },
+    {
+      "album": {
         "name": "Doce Presen\u00e7a",
         "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
       },
@@ -541,6 +582,24 @@
       "duration_ms": 249331,
       "name": "Ele Nos Ama - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6mfGVJl7uQ6LcE3owuUOPs"
+    },
+    {
+      "album": {
+        "name": "Lukas Agustinho (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5APvOGecNpXVX7A147Nj2b"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139880,
+      "name": "Ele \u00e9 Exaltado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5Z1bAuX0pHETilmLlmUoFa"
     },
     {
       "album": {
@@ -1346,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "O Tempo Voa",
+        "url": "https://open.spotify.com/album/720WqhrubKhHaG6Acp8yT8"
+      },
+      "artists": [
+        {
+          "name": "Jairo Bonfim",
+          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277636,
+      "name": "O Tempo Voa",
+      "url": "https://open.spotify.com/track/7bwnpc3RD1K90md80Yk9gP"
+    },
+    {
+      "album": {
         "name": "Paz da Minha Alma",
         "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
       },
@@ -1607,7 +1684,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 340236,
       "name": "Tens Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2U26JR0DawBOmdPZ44aIQB"
@@ -1713,7 +1790,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 285624,
       "name": "Vai Passar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB"

@@ -4,7 +4,7 @@
 
 > Songs from the 80s that made you sing and dance all summer long.
 
-89 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/276vU7opRhNPtw4dhgpYZF)
+89 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

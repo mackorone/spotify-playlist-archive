@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Pakka Folk beats from Kollywood!\nCover : Vikram",
   "name": "Thara Local",
-  "published_playlist_ids": [
-    "5ViJtyAwBRLu7fqFg9JMgY"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Ramya Behra",
+          "name": "Ramya Behara",
           "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
         },
         {
@@ -189,6 +186,32 @@
       "duration_ms": 239989,
       "name": "Chill Bro (From \"Pattas\")",
       "url": "https://open.spotify.com/track/1EKvufWHnlZbGZGMDg3NYR"
+    },
+    {
+      "album": {
+        "name": "Chilla Chilla (From \"Thunivu\")",
+        "url": "https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Chilla Chilla (From \"Thunivu\")",
+      "url": "https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB"
     },
     {
       "album": {

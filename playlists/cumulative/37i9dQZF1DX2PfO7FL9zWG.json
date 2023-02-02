@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-14",
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Allison Russell",
   "name": "Folk Favourites",
-  "published_playlist_ids": [
-    "1P9OyTiTUDz0lOylvWtrf5"
-  ],
   "tracks": [
     {
       "album": {
@@ -199,7 +196,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 251324,
       "name": "Another Way",
       "url": "https://open.spotify.com/track/6xU24c00m15ZxjFqmVs0hN"
@@ -639,7 +636,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 181139,
       "name": "Catholic Country",
       "url": "https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3"
@@ -765,7 +762,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 198546,
       "name": "Come Home Soon",
       "url": "https://open.spotify.com/track/1cphwoceaKmjUZSRKYbFh2"
@@ -963,7 +960,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 191353,
       "name": "Everyone I've Never Met",
       "url": "https://open.spotify.com/track/01cuVZlQ0fjxgxy7MwHRru"
@@ -2319,7 +2316,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 218368,
       "name": "Kitchen Sink",
       "url": "https://open.spotify.com/track/0baEuNfCAnahq2e5PhJPrn"
@@ -2395,7 +2392,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
@@ -2713,6 +2710,24 @@
     {
       "album": {
         "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402654,
+      "name": "Middle Of Nowhere",
+      "url": "https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q"
+    },
+    {
+      "album": {
+        "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb"
       },
       "artists": [
@@ -2723,7 +2738,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"
@@ -2929,7 +2944,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 211500,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ"
@@ -3160,6 +3175,28 @@
     },
     {
       "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253868,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/0eRXRjA5C18oSVKJPGv0UD"
+    },
+    {
+      "album": {
         "name": "pictures (feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/57m4VrZC3SF9syDVhMFIg5"
       },
@@ -3237,6 +3274,24 @@
       "duration_ms": 195850,
       "name": "Real Peach - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
+    },
+    {
+      "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/3b4ce5ACUpyAvWW91LXTNR"
+      },
+      "artists": [
+        {
+          "name": "Chris Staples",
+          "url": "https://open.spotify.com/artist/5DAYFETp2MfJgHkgbkJvoX"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 128373,
+      "name": "Relatively Permanent",
+      "url": "https://open.spotify.com/track/3d0QZXFE01zj5QwjxHikB7"
     },
     {
       "album": {

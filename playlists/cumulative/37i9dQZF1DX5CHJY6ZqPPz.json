@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-10",
   "description": "All about aespa: meeting another self and experiencing the new world",
   "name": "This Is aespa",
-  "published_playlist_ids": [
-    "5qAhGSk1PC3ccp0C4jIsbV"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,28 @@
       "duration_ms": 147400,
       "name": "aenergy",
       "url": "https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q"
+    },
+    {
+      "album": {
+        "name": "Beautiful Christmas",
+        "url": "https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Beautiful Christmas",
+      "url": "https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe"
     },
     {
       "album": {

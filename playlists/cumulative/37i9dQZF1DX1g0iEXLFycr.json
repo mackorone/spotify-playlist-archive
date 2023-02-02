@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-07-29",
   "description": "Uplifting anthems to power you through 'til the weekend.",
   "name": "Feel Good Friday",
-  "published_playlist_ids": [
-    "2tFotzrzPUxGRiBA9Ot6cF"
-  ],
   "tracks": [
     {
       "album": {
@@ -501,10 +498,28 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 212440,
       "name": "Are You Ready For Love? - Remastered",
       "url": "https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2020-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "Are You Ready For Love? - Remastered",
+      "url": "https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR"
     },
     {
       "album": {
@@ -4172,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/2pcI0ixfcCz1eUUxbYO69n"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "date_added": "2020-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Inner Smile",
+      "url": "https://open.spotify.com/track/0yvDNlMoafoHNR9M5LIOGJ"
+    },
+    {
+      "album": {
         "name": "Crowd Pleasers",
         "url": "https://open.spotify.com/album/3BqbDAKBHbtZCaJkXLxdco"
       },
@@ -4219,7 +4252,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 230640,
       "name": "Inner Smile",
       "url": "https://open.spotify.com/track/7zTbBG1yo6VUHbcqT2pAke"

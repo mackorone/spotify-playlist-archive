@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "Music from \"Love Live! Sunshine!!\" /Aqours\u306e\u300c\u307f\u3093\u306a\u3067\u53f6\u3048\u308b\u7269\u8a9e\u300d\u3092\u5f69\u3063\u3066\u304d\u305f\u540d\u66f2\u306e\u6570\u3005\u304c\u3053\u3053\u306b\u3002\u25b6\ufe0e\u300cLove Live\uff01\u300d<a href=\"spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF\">Here</a> \u00a92017 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
   "name": "Love Live! Sunshine!! -\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
-  "published_playlist_ids": [
-    "47UoXXJRZPYtDVBPn0LK6e"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 353093,
       "name": "1STAR",
       "url": "https://open.spotify.com/track/71WkT8jdbJeb5mgNhzo8oU"
@@ -113,7 +110,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 266093,
       "name": "Braveheart Coaster",
       "url": "https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6"
@@ -341,7 +338,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": "2023-01-07",
       "duration_ms": 237693,
       "name": "Main theme of Lovelive! Sunshine!!",
       "url": "https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ"
@@ -457,6 +454,32 @@
       "duration_ms": 229346,
       "name": "Paradise Chime",
       "url": "https://open.spotify.com/track/6ib8owyFKokRdEECOOkATG"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30c0\u30a4\u30e4 (CV.\u5c0f\u5bae\u6709\u7d17)",
+          "url": "https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb"
+        },
+        {
+          "name": "\u6d25\u5cf6\u5584\u5b50 (CV.\u5c0f\u6797\u611b\u9999)",
+          "url": "https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 269000,
+      "name": "Party! Party! PaPaPaParty!",
+      "url": "https://open.spotify.com/track/671VDfkihffwDZBz56nZ5P"
     },
     {
       "album": {
@@ -623,7 +646,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 291240,
       "name": "\u3068\u304d\u3081\u304d\u5206\u985e\u5b66",
       "url": "https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x"
@@ -671,15 +694,23 @@
       },
       "artists": [
         {
-          "name": "\u308f\u3044\u308f\u3044\u308f\u3044",
-          "url": "https://open.spotify.com/artist/2KkZ1TSYd3qY6cdB3RpKz6"
+          "name": "You Watanabe (CV: Shuka Saito)",
+          "url": "https://open.spotify.com/artist/4Xu7KIJcGf3HjxUFiObdcL"
+        },
+        {
+          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
+          "url": "https://open.spotify.com/artist/0lwG80fDev1QNPOODUohyV"
+        },
+        {
+          "name": "Ruby Kurosawa (CV: Ai Furihata)",
+          "url": "https://open.spotify.com/artist/6xjmmhxHFSi5eDJCuTna0B"
         }
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193224,
-      "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044!",
+      "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044! - \u308f\u3044\u308f\u3044\u308f\u3044",
       "url": "https://open.spotify.com/track/23Fqi9wj9HeaQAzPIypZdR"
     },
     {
@@ -761,7 +792,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 272266,
       "name": "\u30c0\u30a4\u30b9\u30ad\u3060\u3063\u305f\u3089\u30c0\u30a4\u30b8\u30e7\u30a6\u30d6!",
       "url": "https://open.spotify.com/track/51118cg0D9k0F952AGtNou"
@@ -791,8 +822,16 @@
       },
       "artists": [
         {
-          "name": "\u308f\u3044\u308f\u3044\u308f\u3044",
-          "url": "https://open.spotify.com/artist/2KkZ1TSYd3qY6cdB3RpKz6"
+          "name": "You Watanabe (CV: Shuka Saito)",
+          "url": "https://open.spotify.com/artist/4Xu7KIJcGf3HjxUFiObdcL"
+        },
+        {
+          "name": "Yoshiko Tsushima (CV: Aika Kobayashi)",
+          "url": "https://open.spotify.com/artist/0lwG80fDev1QNPOODUohyV"
+        },
+        {
+          "name": "Ruby Kurosawa (CV: Ai Furihata)",
+          "url": "https://open.spotify.com/artist/6xjmmhxHFSi5eDJCuTna0B"
         }
       ],
       "date_added": "2022-11-08",

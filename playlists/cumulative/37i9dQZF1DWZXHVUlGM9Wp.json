@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "Keep on skating to the groovy boogie ",
   "name": "The Roller Rink ",
-  "published_playlist_ids": [
-    "04amIGThswj9l5Ef18j76s"
-  ],
   "tracks": [
     {
       "album": {
@@ -286,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Beat Goes On (Rhythm to the Brain)",
+        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133212,
+      "name": "Beat Goes On (Rhythm to the Brain)",
+      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -301,6 +316,32 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "album": {
+        "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+        "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160656,
+      "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+      "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
     },
     {
       "album": {
@@ -573,6 +614,32 @@
       "duration_ms": 347226,
       "name": "Class/Style (I've Got It) - Marc Hartman 88 Extended Mix",
       "url": "https://open.spotify.com/track/7hPVMXu6lk2fXeabRhoaiv"
+    },
+    {
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
       "album": {
@@ -849,6 +916,24 @@
       "duration_ms": 410973,
       "name": "Don't Go Lose It Baby",
       "url": "https://open.spotify.com/track/6OmycgKSlz5VDri540KrIc"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
     },
     {
       "album": {
@@ -1167,7 +1252,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 234800,
       "name": "Funkytown - Single Version",
       "url": "https://open.spotify.com/track/0YMXR8nStUpZFEfkvA2VXX"
@@ -1185,10 +1270,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 241906,
       "name": "Get Down Saturday Night",
       "url": "https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3"
+    },
+    {
+      "album": {
+        "name": "Saturday Songs",
+        "url": "https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "Get Down Saturday Night",
+      "url": "https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv"
     },
     {
       "album": {
@@ -1269,6 +1372,24 @@
       "duration_ms": 248133,
       "name": "Give It To Me Baby",
       "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
+    },
+    {
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
       "album": {
@@ -1546,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "It's Quiet Now (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
+    },
+    {
+      "album": {
         "name": "Let Me Be Your Angel",
         "url": "https://open.spotify.com/album/1r3ojiC0kokSIk8S4K3tQV"
       },
@@ -1582,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "Just Say",
+        "url": "https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Tara Carosielli",
+          "url": "https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Just Say",
+      "url": "https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO"
+    },
+    {
+      "album": {
         "name": "Kiss It Better (Dance Remix)",
         "url": "https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4"
       },
@@ -1593,10 +1758,50 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 325306,
       "name": "Kiss It Better - KAYTRANADA Edition",
       "url": "https://open.spotify.com/track/62tnsScYuep18LnQiQqHmX"
+    },
+    {
+      "album": {
+        "name": "Kiss Me More (feat. SZA)",
+        "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208866,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "Knock On Wood: The Anthology",
+        "url": "https://open.spotify.com/album/6brPlzSCD2ucBdhqmasvdf"
+      },
+      "artists": [
+        {
+          "name": "Amii Stewart",
+          "url": "https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248720,
+      "name": "Knock On Wood - 1985 7\" Remix",
+      "url": "https://open.spotify.com/track/2qxrGDWh1qXWXJ1DbbxAEu"
     },
     {
       "album": {
@@ -1955,7 +2160,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
@@ -1973,7 +2178,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 254080,
       "name": "Messages from the Stars",
       "url": "https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1"
@@ -2071,7 +2276,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 270145,
       "name": "Must Be Love (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
@@ -2161,7 +2366,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 227086,
       "name": "Oh Sheit it's X",
       "url": "https://open.spotify.com/track/6EidGY4S6hkU6fwNdSSabg"
@@ -2187,7 +2392,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/64weGLgl76gsui1qXQatNa"
@@ -2346,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "George McCrae - Disco Pioneer",
+        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
+    },
+    {
+      "album": {
         "name": "Hive Mind",
         "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
       },
@@ -2375,7 +2598,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 237893,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
@@ -3091,7 +3314,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 272000,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7"
@@ -3217,7 +3440,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 186181,
       "name": "Your Teeth In My Neck",
       "url": "https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b"

@@ -4,7 +4,7 @@
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-85 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/0lHqHMv4PqSf7iP3xOQ8Du)
+87 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Feliz e Ponto](https://open.spotify.com/track/1QYmLRM57ZQtI4XF7sELDe) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7h6xV3HFFEltOSwr0e6mzn) | 2:36 | 2022-06-14 |  |
 | [Feliz e Ponto](https://open.spotify.com/track/5FczE5cs1l7BnflNo6RGXA) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Novos Talentos da Música Brasileira](https://open.spotify.com/album/5ZCMrFVPulzvFD8kfvlmrZ) | 2:36 | 2022-10-07 | 2022-11-13 |
 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 | 2022-06-14 | 2022-07-29 |
-| [Fever](https://open.spotify.com/track/0SMKJo3fHqODpavZKFBEjn) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:56 | 2022-06-14 |  |
+| [Fever](https://open.spotify.com/track/0SMKJo3fHqODpavZKFBEjn) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:56 | 2022-06-14 | 2023-01-28 |
+| [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 | 2022-11-25 |  |
 | [For No One](https://open.spotify.com/track/2NzCkfCsvsCQ3RZ9aJqRFw) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/1EggMJbrddGeSyNjDzDRMI) | 5:02 | 2022-06-14 |  |
 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 | 2022-06-14 |  |
 | [FYN](https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FYN](https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH) | 3:27 | 2022-06-14 | 2022-07-29 |
@@ -81,7 +82,8 @@
 | [Sunshine \(feat\. Lil Wayne & Childish Gambino\)](https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 3:26 | 2022-06-14 | 2022-10-08 |
 | [Sweetie Odo](https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sway Clarke](https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:35 | 2022-06-14 |  |
 | [Terrorista del Amor](https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tu](https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT) | 3:12 | 2022-06-14 | 2022-07-29 |
-| [Terrorista del Amor](https://open.spotify.com/track/3IBr0mlJyT7q98SvxhXY9D) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tu](https://open.spotify.com/album/4A05RmdRBZsP0pxRqeQmnp) | 3:12 | 2022-06-14 |  |
+| [Terrorista del Amor](https://open.spotify.com/track/3IBr0mlJyT7q98SvxhXY9D) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Tu](https://open.spotify.com/album/4A05RmdRBZsP0pxRqeQmnp) | 3:12 | 2022-06-14 | 2022-12-18 |
+| [Terrorista Del Amor](https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [TU](https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla) | 3:12 | 2022-11-25 |  |
 | [Tom Jobim](https://open.spotify.com/track/6BRjl1Pkk7zBUMnRwdnGOz) | [Edley INC.](https://open.spotify.com/artist/4ugyOypb7Cflv7D72t80UE) | [Tom Jobim](https://open.spotify.com/album/10g32N6XzlGiOQ79DvYbJO) | 4:08 | 2022-06-14 |  |
 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 | 2022-06-14 |  |
 | [Um Corpo no Mundo](https://open.spotify.com/track/2kEGhFlJxjVtXnIpudVLtI) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 6:25 | 2022-06-14 |  |

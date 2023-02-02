@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Grab your coffee and ease into the day with this light blend.",
   "name": "Morning Coffee",
-  "published_playlist_ids": [
-    "7Fr5GUMZQ3Hygddnz1fMLN"
-  ],
   "tracks": [
     {
       "album": {
@@ -239,6 +236,24 @@
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/3NPkwNFvfOoski2eJj89cL"
+    },
+    {
+      "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
     },
     {
       "album": {
@@ -1177,7 +1192,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 232528,
       "name": "Black And White - Stripped",
       "url": "https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S"
@@ -1213,7 +1228,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 214874,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
@@ -1815,7 +1830,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 190066,
       "name": "Cheap Date",
       "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
@@ -2865,7 +2880,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 274830,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
@@ -3061,7 +3076,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 233760,
       "name": "Famous",
       "url": "https://open.spotify.com/track/3qbToOWJKKc0HtruELjlE1"
@@ -5309,7 +5324,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 278693,
       "name": "I Love The Rain The Most",
       "url": "https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG"
@@ -6027,7 +6042,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "King Street",
       "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
@@ -6117,7 +6132,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-11",
       "duration_ms": 268880,
       "name": "Learn To Be Still",
       "url": "https://open.spotify.com/track/5POu9RspR7sR9zD5m6ZZkJ"
@@ -6153,7 +6168,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 206880,
       "name": "Lebanon",
       "url": "https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ"
@@ -6983,7 +6998,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 335859,
       "name": "Microdose",
       "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
@@ -8257,7 +8272,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 306466,
       "name": "Pretty Things",
       "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
@@ -8715,7 +8730,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 221142,
       "name": "Roadtripsong",
       "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
@@ -8751,7 +8766,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 210377,
       "name": "Rocky Trail",
       "url": "https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3"
@@ -8859,7 +8874,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 174146,
       "name": "Safeword",
       "url": "https://open.spotify.com/track/3FIcE9t4VtHLVNwaMSRALs"
@@ -9623,7 +9638,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2022-12-29",
       "duration_ms": 242640,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy"
@@ -10429,7 +10444,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 221423,
       "name": "The City",
       "url": "https://open.spotify.com/track/58gvTZSWei1plTDPQIqXfD"
@@ -10625,6 +10640,24 @@
       "duration_ms": 233307,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/2XyhWiLdaahhkjFFKQp1nM"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0UyDij8GOVajgiMBrVKOH5"
+      },
+      "artists": [
+        {
+          "name": "Ed Prosek",
+          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233307,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/3tYAfLlWTekl6vCp5viAj4"
     },
     {
       "album": {
@@ -11051,6 +11084,24 @@
       "duration_ms": 307506,
       "name": "Tiger Lilies",
       "url": "https://open.spotify.com/track/3UTtblnDHe2GOuP3Pil8MV"
+    },
+    {
+      "album": {
+        "name": "Sun On Shade",
+        "url": "https://open.spotify.com/album/69F8Om824qZRGRDVkO187y"
+      },
+      "artists": [
+        {
+          "name": "Sun On Shade",
+          "url": "https://open.spotify.com/artist/7uYtZH0hRJ7VwvaSCiQpFX"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307506,
+      "name": "Tiger Lilies - feat. Lloyd Buchanan",
+      "url": "https://open.spotify.com/track/7rSTJg9t7XDq2hgR9XjYS9"
     },
     {
       "album": {

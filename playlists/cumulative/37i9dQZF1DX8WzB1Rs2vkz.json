@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1Un amor que te hace bailar!",
+  "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
   "name": "Amor Tropical",
-  "published_playlist_ids": [
-    "2lymHG74BVSi4WY59SAeB3"
-  ],
   "tracks": [
     {
       "album": {
@@ -153,6 +150,24 @@
     {
       "album": {
         "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
+    },
+    {
+      "album": {
+        "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
       },
       "artists": [
@@ -163,7 +178,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 257079,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/5DAcQYhc2MurNpTHtX8kZ3"
@@ -239,10 +254,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 250920,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/0TarPYIjJndYucFUOMce8P"
+    },
+    {
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250920,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
     },
     {
       "album": {
@@ -261,7 +294,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-28",
       "duration_ms": 170106,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D"
@@ -305,6 +338,46 @@
       "duration_ms": 191209,
       "name": "Carita de Inocente",
       "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
+    },
+    {
+      "album": {
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
+    },
+    {
+      "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 211400,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
     },
     {
       "album": {
@@ -479,6 +552,24 @@
       "duration_ms": 206933,
       "name": "Darte un Beso",
       "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+    },
+    {
+      "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "album": {
@@ -695,7 +786,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm"
@@ -720,6 +811,24 @@
     },
     {
       "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
+    },
+    {
+      "album": {
         "name": "Quiero Ser Tu Amor",
         "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
       },
@@ -731,7 +840,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 219586,
       "name": "La Mejor De Todas",
       "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
@@ -927,7 +1036,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 254720,
       "name": "Obsesion",
       "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
@@ -945,7 +1054,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 150071,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
@@ -963,7 +1072,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-06",
       "duration_ms": 216666,
       "name": "Pegao / Me Miro y La Mire - TikTok Hit",
       "url": "https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk"
@@ -1122,6 +1231,28 @@
     },
     {
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "album": {
         "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
       },
@@ -1137,7 +1268,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 245066,
       "name": "Si Te Vas / Que Tengo Que Hacer - Original Remix",
       "url": "https://open.spotify.com/track/0OyHCmkCp2qZJ44ZKB26fX"
@@ -1231,7 +1362,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-24",
       "duration_ms": 249120,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"

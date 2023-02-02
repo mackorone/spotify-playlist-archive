@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
   "name": "Bon Voyage",
-  "published_playlist_ids": [
-    "0iDVwvtzO5q5icbp8vjmdq"
-  ],
   "tracks": [
     {
       "album": {
@@ -118,7 +115,7 @@
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 203373,
+      "duration_ms": 201720,
       "name": "54-46 That's My Number",
       "url": "https://open.spotify.com/track/5UDsHnUvshUv5EuPhDTRqb"
     },
@@ -863,7 +860,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 325481,
       "name": "Adome Nyueto",
       "url": "https://open.spotify.com/track/0U3EbpYDTSF2PrnkAi5y7e"
@@ -899,7 +896,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 326978,
       "name": "Adome Nyueto",
       "url": "https://open.spotify.com/track/4JxUuQvXNpSWOZloyLpqVU"
@@ -1037,7 +1034,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 257000,
       "name": "Aflana",
       "url": "https://open.spotify.com/track/6kVwe3MsTHSAU4w1UfIkTW"
@@ -1109,7 +1106,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 424500,
       "name": "African Unity",
       "url": "https://open.spotify.com/track/2m726B9GhghzqDrH56NVFu"
@@ -1257,7 +1254,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 275874,
       "name": "Ageruj (with Vocals)",
       "url": "https://open.spotify.com/track/3WSDzBVzsE161eiU0uhj3O"
@@ -1311,7 +1308,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 307500,
       "name": "Agricultural Revolution",
       "url": "https://open.spotify.com/track/2zKv5S3cllj2aGXZbX4N9V"
@@ -2171,7 +2168,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 426000,
       "name": "Albaki",
       "url": "https://open.spotify.com/track/1Ug0d2vHuOUL08MLZSMu8h"
@@ -2447,7 +2444,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 79093,
-      "name": "Aloha! - Main Title Theme",
+      "name": "Aloha! (Main Title Theme) - from \u201cThe White Lotus: Season 1\u201d",
       "url": "https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu"
     },
     {
@@ -2769,7 +2766,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 702000,
       "name": "Ana Damir El Motakallim",
       "url": "https://open.spotify.com/track/7JNyr6lS7KF2m2we2HEfZI"
@@ -3051,7 +3048,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 278000,
       "name": "Argos Farfish",
       "url": "https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5"
@@ -3475,7 +3472,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 270500,
       "name": "Ay Iheqqiyen - Digital Bonus Track",
       "url": "https://open.spotify.com/track/6BT2qtwxnnsqeNSsUtQY0P"
@@ -3601,7 +3598,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 393143,
       "name": "Aziza",
       "url": "https://open.spotify.com/track/5w18dF3sw9TBk1strem4h5"
@@ -3695,7 +3692,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 190124,
       "name": "Badala Zamana (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6"
@@ -4364,6 +4361,24 @@
     },
     {
       "album": {
+        "name": "Bassa Bassa",
+        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
+      },
+      "artists": [
+        {
+          "name": "Jembaa Groove",
+          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301647,
+      "name": "Bassa Bassa",
+      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
+    },
+    {
+      "album": {
         "name": "Teorema | La stagione dei sensi | Vergogna schifosi",
         "url": "https://open.spotify.com/album/4n1Yo99yJNavZmeNHGLn9z"
       },
@@ -4483,7 +4498,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 193000,
       "name": "Betebki Leh",
       "url": "https://open.spotify.com/track/6ZUcDOl21fkQUqhBU3b99j"
@@ -5061,7 +5076,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 163000,
       "name": "Bossa",
       "url": "https://open.spotify.com/track/6Kp52G7u4E5gWhUqy7YQJt"
@@ -6115,7 +6130,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 183000,
       "name": "Casablanca Shuffle",
       "url": "https://open.spotify.com/track/2qqnkP3zJQukLEbeQudaS9"
@@ -6361,7 +6376,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 352000,
       "name": "Chama'a",
       "url": "https://open.spotify.com/track/1XgEYtyqEjvVcdlMBGpRPo"
@@ -6963,6 +6978,24 @@
       "duration_ms": 131045,
       "name": "Coconut",
       "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
+    },
+    {
+      "album": {
+        "name": "As For\u00e7as Da Natureza",
+        "url": "https://open.spotify.com/album/6lCS4sFwe1vHQh9e6JwEYL"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "Coisa Da Antiga",
+      "url": "https://open.spotify.com/track/725Wi8BXKcLdc497RPER2u"
     },
     {
       "album": {
@@ -8050,6 +8083,28 @@
     },
     {
       "album": {
+        "name": "Cumbia Divina",
+        "url": "https://open.spotify.com/album/0JMgjnQAPG9wshV7jXXpUX"
+      },
+      "artists": [
+        {
+          "name": "Mitchum Yacoub",
+          "url": "https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr"
+        },
+        {
+          "name": "Divina Jasso",
+          "url": "https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "Cumbia Divina",
+      "url": "https://open.spotify.com/track/4SUxBg3jDSbCismwRBVLMV"
+    },
+    {
+      "album": {
         "name": "Very, Very, Well",
         "url": "https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll"
       },
@@ -8801,7 +8856,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 256250,
       "name": "Dameek Majeb",
       "url": "https://open.spotify.com/track/5T2fEj5W670f2PfDtz1k8V"
@@ -8877,6 +8932,24 @@
       "duration_ms": 274160,
       "name": "Dance",
       "url": "https://open.spotify.com/track/5v07ixxqjQWApqv99bpSGA"
+    },
+    {
+      "album": {
+        "name": "Canto de Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/06USmj4AVPJAbYj2di4k8v"
+      },
+      "artists": [
+        {
+          "name": "Agep\u00ea",
+          "url": "https://open.spotify.com/artist/5T2UOU9fV8RcUgLH3b6TTN"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "Dance Maria",
+      "url": "https://open.spotify.com/track/26s4mCZ2Plz0ucEZJboRQf"
     },
     {
       "album": {
@@ -9017,7 +9090,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 281250,
       "name": "Dari Demou'ek",
       "url": "https://open.spotify.com/track/4WkKXTTZuAr9QgIeTAmA6w"
@@ -10641,7 +10714,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 358000,
       "name": "El Bahr Azra",
       "url": "https://open.spotify.com/track/5qVUVHTb3sUpCaE8UTKJ6s"
@@ -11017,7 +11090,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 279874,
       "name": "El Fen",
       "url": "https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B"
@@ -11555,7 +11628,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 220101,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT"
@@ -11577,7 +11650,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 220080,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7"
@@ -11983,7 +12056,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 172562,
       "name": "Every Body Is Going Home",
       "url": "https://open.spotify.com/track/3585H368hQUrTPLbyWIast"
@@ -12585,7 +12658,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 163437,
       "name": "Fine Anyway",
       "url": "https://open.spotify.com/track/1CvYa7uK1o1YU9k8liIdRB"
@@ -13182,6 +13255,24 @@
     },
     {
       "album": {
+        "name": "Padang Moonrise: The Birth of the Modern Indonesian Recording Industry (1955-69)",
+        "url": "https://open.spotify.com/album/2VcjOyFmj6AW9OCMEIbWiT"
+      },
+      "artists": [
+        {
+          "name": "Orkes Teruna Ria",
+          "url": "https://open.spotify.com/artist/1nODTtepYj7jrl1CBiHceD"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Geleang Sapi",
+      "url": "https://open.spotify.com/track/0wK9zNTJ2xrDSTlhirPopQ"
+    },
+    {
+      "album": {
         "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
         "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
@@ -13380,6 +13471,24 @@
     },
     {
       "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "album": {
         "name": "Belly Dance Disco",
         "url": "https://open.spotify.com/album/0Do7K9YnjkUIRLIVqXMmYA"
       },
@@ -13427,7 +13536,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 195874,
       "name": "Git Ya Sheta",
       "url": "https://open.spotify.com/track/3gJuXPyLKyNcKORSt6FNPJ"
@@ -13467,6 +13576,24 @@
       "duration_ms": 137656,
       "name": "Gladys",
       "url": "https://open.spotify.com/track/3prb4Gpdj8lQ8Q3MvxuO2N"
+    },
+    {
+      "album": {
+        "name": "Antonio Carlos & Jocafi",
+        "url": "https://open.spotify.com/album/0XLM8s3mgV2KahkWE4Utn2"
+      },
+      "artists": [
+        {
+          "name": "Antonio Carlos & Jocafi",
+          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "Glorioso Santo Antonio",
+      "url": "https://open.spotify.com/track/0A4d6hN1JTKvdl30bUFGUS"
     },
     {
       "album": {
@@ -13593,7 +13720,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 165604,
       "name": "Gone Away Again",
       "url": "https://open.spotify.com/track/2LHfvXx92f9HAYV146h6TE"
@@ -14203,7 +14330,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 205874,
       "name": "Haditouni (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/5NS5Cu30CbNTBVKhh1feTX"
@@ -14689,7 +14816,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 273500,
       "name": "Heik ha Nishtghil",
       "url": "https://open.spotify.com/track/72lhr6B1gHOO0oP3vIETkC"
@@ -15253,10 +15380,32 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 344000,
       "name": "I Love Music - Umoja Edit",
       "url": "https://open.spotify.com/track/1WMJQKsYV5ZrBAW0ayHJSK"
+    },
+    {
+      "album": {
+        "name": "Hot Casa Records, Vol. 1",
+        "url": "https://open.spotify.com/album/3pdmm1aqnSNlG6ckV2vhIP"
+      },
+      "artists": [
+        {
+          "name": "The Sumo Brothers",
+          "url": "https://open.spotify.com/artist/3RcP5YGPY95XRxwmwvTzpv"
+        },
+        {
+          "name": "Umoja",
+          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "I Love Music - Umoja Edit",
+      "url": "https://open.spotify.com/track/4ARKWFPq1w1o6rDeNeEh7B"
     },
     {
       "album": {
@@ -15775,7 +15924,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 132250,
       "name": "Insomnia Blue",
       "url": "https://open.spotify.com/track/3C1mnv8uY8cGbAjQPcPhZs"
@@ -16804,6 +16953,24 @@
     },
     {
       "album": {
+        "name": "O Africanto dos Tinco\u00e3s",
+        "url": "https://open.spotify.com/album/2W7LAYpSOcthmexwlrxfdL"
+      },
+      "artists": [
+        {
+          "name": "Os Tinco\u00e3s",
+          "url": "https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187293,
+      "name": "J\u00f3",
+      "url": "https://open.spotify.com/track/3B6m9uuLo4QiO69UdJ3b4a"
+    },
+    {
+      "album": {
         "name": "Kabhi",
         "url": "https://open.spotify.com/album/6gEiZwKKFyQim4GQ7fVJdb"
       },
@@ -16863,7 +17030,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 296500,
       "name": "Kaddaba",
       "url": "https://open.spotify.com/track/62Bj2lKYBeGmkX2Ldstf57"
@@ -17000,6 +17167,24 @@
     },
     {
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/3FKWeXjx5EoeQiC8x8IMmn"
+      },
+      "artists": [
+        {
+          "name": "Los Soneros De Gamero",
+          "url": "https://open.spotify.com/artist/7okHK7NaNwxujUlsF3aIdW"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204216,
+      "name": "Katunga",
+      "url": "https://open.spotify.com/track/6XVBxEx7kWyr4TWBTZqt6d"
+    },
+    {
+      "album": {
         "name": "Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975-91",
         "url": "https://open.spotify.com/album/1gXeomyVC17Y26UmWP5ugy"
       },
@@ -17011,7 +17196,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 206186,
       "name": "Katunga",
       "url": "https://open.spotify.com/track/031KqYKOurfURoOyI2GwZE"
@@ -17173,7 +17358,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 211250,
       "name": "Khobs",
       "url": "https://open.spotify.com/track/6xjIrx0kE96n5OQvj9oZmO"
@@ -17245,7 +17430,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 221310,
       "name": "Khomo Tsaka Deile Kae?",
       "url": "https://open.spotify.com/track/2Dls8E4dloSP9UEqXbj6f3"
@@ -17281,7 +17466,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 224720,
       "name": "Khomo Tsaka Deile Kae?",
       "url": "https://open.spotify.com/track/1McHU7TbeVZsSMQb4UCG0B"
@@ -18226,6 +18411,24 @@
     },
     {
       "album": {
+        "name": "Sonido Verde De Moyobamba",
+        "url": "https://open.spotify.com/album/5s4MiGctOORj7z0r6BIszJ"
+      },
+      "artists": [
+        {
+          "name": "Sonido Verde de Moyobamba",
+          "url": "https://open.spotify.com/artist/1Baty2g58xV5fK9iK2p4Lw"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167902,
+      "name": "La Longuita",
+      "url": "https://open.spotify.com/track/3NuyDGUeynr5Z7GA29ZcbP"
+    },
+    {
+      "album": {
         "name": "Bailar en la cueva",
         "url": "https://open.spotify.com/album/1LtIOscLBDW8C8ZDDUriqi"
       },
@@ -18459,7 +18662,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 171247,
       "name": "La Pastorcita",
       "url": "https://open.spotify.com/track/6Kh547PrBuJKYyBqtTeG9A"
@@ -18481,7 +18684,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 171266,
       "name": "La Pastorcita",
       "url": "https://open.spotify.com/track/7C6GTp0DjWK435LPUGdh1R"
@@ -18935,7 +19138,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 316000,
       "name": "Lahnon Lemra'ati Wa Beladi",
       "url": "https://open.spotify.com/track/1pD6xDgBxvuL0ogimb0lUK"
@@ -19011,7 +19214,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 183000,
       "name": "Lala Tibki",
       "url": "https://open.spotify.com/track/0atYXkM6w6POTv6vvFwYWu"
@@ -19051,7 +19254,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 216750,
       "name": "Lam Azal",
       "url": "https://open.spotify.com/track/2ivLBONwWJRJs9CwnmTa9T"
@@ -19481,7 +19684,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 355250,
       "name": "Lgira",
       "url": "https://open.spotify.com/track/4HrlCSrt21riW04z9LcFkw"
@@ -21471,7 +21674,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 265000,
       "name": "Matar Al Sabah",
       "url": "https://open.spotify.com/track/0uOinAKIEo8AFfK1DcVnYd"
@@ -21525,7 +21728,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 284000,
       "name": "Matar Naem",
       "url": "https://open.spotify.com/track/2L2dNmghNALXW3XLeuY4fg"
@@ -21789,19 +21992,15 @@
       },
       "artists": [
         {
-          "name": "Karl Hector",
-          "url": "https://open.spotify.com/artist/4iAX0hXhpXUTHhnskcMQqS"
-        },
-        {
-          "name": "The Malcouns",
-          "url": "https://open.spotify.com/artist/1axHFh7kwFpWPbP2lbXQU4"
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
         }
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204106,
-      "name": "Mellow - Version",
+      "name": "Mellow (Version)",
       "url": "https://open.spotify.com/track/34ZTSa0gUHEqSbDuoqfhqf"
     },
     {
@@ -21817,7 +22016,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 318000,
       "name": "Men Awel Deqiqa",
       "url": "https://open.spotify.com/track/1BXok7hU9kericO8hfmHn6"
@@ -22623,7 +22822,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 301500,
       "name": "Moulate Salef",
       "url": "https://open.spotify.com/track/0r08RM2ogWG8Pf8LTJLd14"
@@ -23190,6 +23389,28 @@
     },
     {
       "album": {
+        "name": "Nasnusa - \u05e0\u05e1\u05e0\u05d5\u05e1\u05d4",
+        "url": "https://open.spotify.com/album/4A71javjbVkdU7mtWo4UpI"
+      },
+      "artists": [
+        {
+          "name": "Sababa 5",
+          "url": "https://open.spotify.com/artist/4MAzZqdLNuFniumG9Sbjiu"
+        },
+        {
+          "name": "Barak Cohen",
+          "url": "https://open.spotify.com/artist/7c8GBUPVFZpDzjA0Cuxoxo"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226246,
+      "name": "Nasnusa - \u05e0\u05e1\u05e0\u05d5\u05e1\u05d4",
+      "url": "https://open.spotify.com/track/4hhClmUqE6t0Q12NUFKT43"
+    },
+    {
+      "album": {
         "name": "Cumbia Cumbia 1 & 2",
         "url": "https://open.spotify.com/album/3f2vGfuy9m5nsrlhYHuOwM"
       },
@@ -23740,6 +23961,24 @@
     },
     {
       "album": {
+        "name": "Nossos Dias S\u00e3o Outros",
+        "url": "https://open.spotify.com/album/243y5PspCdl6ZhXZzNP2SF"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rio L\u00facio",
+          "url": "https://open.spotify.com/artist/6N3oaT6ko0how8LS769KNc"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170248,
+      "name": "Nossos Dias S\u00e3o Outros",
+      "url": "https://open.spotify.com/track/5hbrpMT3pC50Gxfrc6lMkX"
+    },
+    {
+      "album": {
         "name": "Cada Um Na Sua",
         "url": "https://open.spotify.com/album/5Qyb6850mSnxAZ99W0wmzW"
       },
@@ -24251,7 +24490,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 247756,
       "name": "Oh Yeh Soweto",
       "url": "https://open.spotify.com/track/6Ev8U76AVKTwpIz4PAIp2e"
@@ -24317,7 +24556,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 249826,
       "name": "Oh Yeh Soweto",
       "url": "https://open.spotify.com/track/62PQBJn14c9Um19YDFfU2j"
@@ -24569,7 +24808,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 151000,
       "name": "Omar Gatlato - Alternative Version",
       "url": "https://open.spotify.com/track/7dzYaXqZia6DREhyasOsth"
@@ -24822,6 +25061,24 @@
     },
     {
       "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162102,
+      "name": "Opendoors",
+      "url": "https://open.spotify.com/track/1gPeJMO7Az6ZtzHiaKUTWb"
+    },
+    {
+      "album": {
         "name": "Opini\u00e3o De Nara",
         "url": "https://open.spotify.com/album/1ux284zEB97Vdxzfg6WN7r"
       },
@@ -24989,6 +25246,28 @@
       "duration_ms": 212746,
       "name": "Otro Muerde el Polvo - Another One Bites the Dust",
       "url": "https://open.spotify.com/track/04rjMM4TLlevascCX3GlOM"
+    },
+    {
+      "album": {
+        "name": "Tezeta",
+        "url": "https://open.spotify.com/album/7l6cwZjSOsaOYD20YaFODd"
+      },
+      "artists": [
+        {
+          "name": "Hailu Mergia",
+          "url": "https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm"
+        },
+        {
+          "name": "The Walias",
+          "url": "https://open.spotify.com/artist/0utUPtDWzcvggWvsleb4r2"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203023,
+      "name": "Ou-Ou-Ta",
+      "url": "https://open.spotify.com/track/4Nmg8CI6dCfaTN2pV49fwt"
     },
     {
       "album": {
@@ -26439,7 +26718,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 173624,
       "name": "Quaboos",
       "url": "https://open.spotify.com/track/6klY2x5Qk0GeYbo6Agr2UE"
@@ -26796,6 +27075,24 @@
     },
     {
       "album": {
+        "name": "Rakiya Su Katamam b/w Leylim Ley",
+        "url": "https://open.spotify.com/album/2fr4NMJF6laNA85zchtlX2"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220142,
+      "name": "Rak\u0131ya Su Katamam",
+      "url": "https://open.spotify.com/track/53YrFJD6mDPGKq8e0SK5LC"
+    },
+    {
+      "album": {
         "name": "Raspberry Jam",
         "url": "https://open.spotify.com/album/46Zpt8JaprjXhAfcnLvR0Y"
       },
@@ -26879,7 +27176,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 264312,
       "name": "Reet",
       "url": "https://open.spotify.com/track/6QelefKwVqtaDnBz68CRPR"
@@ -27445,7 +27742,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 242000,
       "name": "Rouhi Ya Hafida",
       "url": "https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS"
@@ -28347,7 +28644,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 182000,
       "name": "Sid Redad",
       "url": "https://open.spotify.com/track/2TXif9OdtUhylCUEgtUfLR"
@@ -28641,7 +28938,7 @@
       },
       "artists": [
         {
-          "name": "Isaac & Nora",
+          "name": "Isaac et Nora",
           "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
         }
       ],
@@ -29571,7 +29868,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 399500,
       "name": "Sudan in the heart of Africa",
       "url": "https://open.spotify.com/track/741j9zYeM3s2Lk46h15leT"
@@ -29821,7 +30118,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 279000,
       "name": "Taali",
       "url": "https://open.spotify.com/track/5qB1Og6KwxwV1f6EJLOFWE"
@@ -29857,7 +30154,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 283250,
       "name": "Taarida",
       "url": "https://open.spotify.com/track/424pOLYhm0PdZr3OHRDWBE"
@@ -30289,7 +30586,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 318500,
       "name": "Tameghra",
       "url": "https://open.spotify.com/track/1V1iLb59WEDGTLT0BTSjc5"
@@ -30325,7 +30622,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 222493,
       "name": "Tango",
       "url": "https://open.spotify.com/track/1aGnagYPzdnaSHMLPSPsp9"
@@ -30350,6 +30647,24 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/2AajW3BeWlJeouC1N80zUU"
+    },
+    {
+      "album": {
         "name": "Tape 19.11 / Ayonha",
         "url": "https://open.spotify.com/album/1vko2s44jqGOQ3jPOLfz58"
       },
@@ -30361,7 +30676,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 166000,
       "name": "Tape 19.11",
       "url": "https://open.spotify.com/track/4h7JjnDMwdu1Kh5jAqrVap"
@@ -30401,6 +30716,24 @@
       "duration_ms": 164786,
       "name": "Tatl\u0131 Dile G\u00fcler Y\u00fcze",
       "url": "https://open.spotify.com/track/4ZXNMQ1V2Rogc4uYN4bnHi"
+    },
+    {
+      "album": {
+        "name": "The Movers - Vol. 1 - 1970-1976 (Analog Africa No.35)",
+        "url": "https://open.spotify.com/album/5M23YnDKjYklJw9cGECRLq"
+      },
+      "artists": [
+        {
+          "name": "The Movers",
+          "url": "https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171366,
+      "name": "Tau Special",
+      "url": "https://open.spotify.com/track/3A3aHkc0pnGvw9GWZJaYSJ"
     },
     {
       "album": {
@@ -30451,7 +30784,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 186750,
       "name": "Tayeh",
       "url": "https://open.spotify.com/track/6eSRBI8vDQsFQ8rSN341tJ"
@@ -30643,7 +30976,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 279250,
       "name": "Tendme (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/6Fw6Ok3z54zNDNSBPeVyxN"
@@ -30835,7 +31168,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 219916,
       "name": "Tew'idni Dom",
       "url": "https://open.spotify.com/track/4JPL6wrfR5830g9vam65e5"
@@ -31568,6 +31901,24 @@
     },
     {
       "album": {
+        "name": "Successi da Sanremo",
+        "url": "https://open.spotify.com/album/2WO9YgLUBVKkBCrMhSlKqZ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Christian",
+          "url": "https://open.spotify.com/artist/1tGvCnveV3FhhNIjjGEPPI"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183408,
+      "name": "Timida serenata",
+      "url": "https://open.spotify.com/track/0yWAeUs9UxuCE6PWFf7Jai"
+    },
+    {
+      "album": {
         "name": "The Darjeeling Limited",
         "url": "https://open.spotify.com/album/5ZYgdnOWgfgruHFLt1J3Ss"
       },
@@ -32228,7 +32579,7 @@
     },
     {
       "album": {
-        "name": "Forge Your Own Chains: Heavy Psychedelic Ballads And Dirges 1968-1974",
+        "name": "Forge Your Own Chains: Heavy Psychedelic Ballads and Dirges 1968-1974",
         "url": "https://open.spotify.com/album/1TQtU1pMPnhKv3Nz23TGMI"
       },
       "artists": [
@@ -32443,7 +32794,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 268000,
       "name": "Un toit et une famille",
       "url": "https://open.spotify.com/track/2NIrQXLiSiGuOpDPUaCBMy"
@@ -33439,10 +33790,36 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 247250,
       "name": "Win Terram",
       "url": "https://open.spotify.com/track/21SdDged8mWRNvDnwPzxH1"
+    },
+    {
+      "album": {
+        "name": "Windy Lady",
+        "url": "https://open.spotify.com/album/2SpsDxp0RjilT31F2AMytS"
+      },
+      "artists": [
+        {
+          "name": "Daniel T.",
+          "url": "https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY"
+        },
+        {
+          "name": "Eiko Hara",
+          "url": "https://open.spotify.com/artist/3kXFE55gYRGrhLu6bilTR4"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303824,
+      "name": "Windy Lady - Turbotito Remix",
+      "url": "https://open.spotify.com/track/0KDh5xTrfpODT5p3G4rxm4"
     },
     {
       "album": {
@@ -33465,7 +33842,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 303824,
       "name": "Windy Lady - Turbotito Remix",
       "url": "https://open.spotify.com/track/4WQllP6JUK7i5f6yQSQCqM"
@@ -33721,7 +34098,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 404000,
       "name": "Ya Shaifni",
       "url": "https://open.spotify.com/track/7smdXKUOqHPj7z6srs2kmL"
@@ -33815,6 +34192,28 @@
       "duration_ms": 211146,
       "name": "Yebeqagnal",
       "url": "https://open.spotify.com/track/1191c3MFmsESihKbaoWUkC"
+    },
+    {
+      "album": {
+        "name": "Estrellas",
+        "url": "https://open.spotify.com/album/2WgEVB6gkJ8ijn08kafvrf"
+      },
+      "artists": [
+        {
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        },
+        {
+          "name": "Jos\u00e9 Padilla",
+          "url": "https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319947,
+      "name": "Yebo Edi Pachanga",
+      "url": "https://open.spotify.com/track/2TatZQhTE9sNia2FNaebc1"
     },
     {
       "album": {
@@ -34367,7 +34766,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 166500,
       "name": "Zina",
       "url": "https://open.spotify.com/track/4IAvBYQXPFYdbcrBtcyzWQ"

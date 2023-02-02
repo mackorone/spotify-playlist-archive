@@ -4,7 +4,7 @@
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-133 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/5uUFbAhLiVNLmtCNfyWc4t)
+133 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,8 +114,8 @@
 | [The End Of The World](https://open.spotify.com/track/7hCJBmVoSVPvPxiWTx82Yn) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Heartbreak Jazz Songs](https://open.spotify.com/album/2u6BwOBJwcPwhEEeftYTQk) | 2:47 | 2022-04-13 | 2022-07-29 |
 | [The End Of The World](https://open.spotify.com/track/3esK0w6IPlcvCa27sqUYeg) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The End Of The World](https://open.spotify.com/album/5auWOjG5DsSccVLD9qqjd0) | 2:49 | 2022-06-29 |  |
 | [The Masquerade Is Over](https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:18 | 2022-04-13 |  |
-| [The Thrill Is Gone](https://open.spotify.com/track/1iIwa1EUHXhImSJlfPUAci) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [Jazz Noir](https://open.spotify.com/album/7CgE3mxQpB67UZRv6zYQlv) | 4:50 | 2022-09-30 | 2022-10-22 |
-| [The Thrill Is Gone](https://open.spotify.com/track/751SzrAQQ7eVA2niD1twG7) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [cosy autumn jazz](https://open.spotify.com/album/1N8ifrvGovGJ063efZvpBR) | 4:50 | 2022-09-30 |  |
+| [The Thrill Is Gone](https://open.spotify.com/track/1iIwa1EUHXhImSJlfPUAci) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [Jazz Noir](https://open.spotify.com/album/7CgE3mxQpB67UZRv6zYQlv) | 4:50 | 2022-09-30 |  |
+| [The Thrill Is Gone](https://open.spotify.com/track/751SzrAQQ7eVA2niD1twG7) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [cosy autumn jazz](https://open.spotify.com/album/1N8ifrvGovGJ063efZvpBR) | 4:50 | 2022-09-30 | 2022-12-16 |
 | [The Thrill Is Gone](https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [The Thrill Is Gone](https://open.spotify.com/album/11lw4GDycdDi2CM5mLWVBy) | 4:50 | 2022-04-13 | 2022-10-20 |
 | [There Must Be A Way](https://open.spotify.com/track/67U4IqbrefNGF3f7kSV4Fj) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/19UoBHanqMth4tk0rFw5RJ) | 3:06 | 2022-04-13 | 2022-07-29 |
 | [There Must Be A Way](https://open.spotify.com/track/2s8ITxz8gyXbrU8e54Tobv) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:06 | 2022-11-09 | 2022-11-13 |

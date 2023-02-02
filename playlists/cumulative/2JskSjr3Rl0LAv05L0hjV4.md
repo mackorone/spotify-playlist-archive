@@ -4,7 +4,7 @@
 
 > Let these singers tug on your heartstrings with their amazing vocal performances.
 
-25 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/0InLeXcEiTrrb6BmColetg)
+25 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-11",
   "description": "for a first class pre, press play",
   "name": "Limo Ride",
-  "published_playlist_ids": [
-    "2xyhoBtqpLjudJPzw42nzp"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,7 +96,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
@@ -125,6 +122,28 @@
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/5Rowu1BG2XEfKfJEijeBss"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
     },
     {
       "album": {
@@ -1391,7 +1410,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 187840,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr"
@@ -1421,6 +1440,32 @@
       "duration_ms": 187840,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ"
+    },
+    {
+      "album": {
+        "name": "Jenny From The Block - The Remixes",
+        "url": "https://open.spotify.com/album/7pJj6tOX5HCBaYfLPiHfDn"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189764,
+      "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
+      "url": "https://open.spotify.com/track/0jiBVBJkLrlGLgrIVmd3VK"
     },
     {
       "album": {

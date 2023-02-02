@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "it's a cinnamon infused kind of mood",
   "name": "pumpkin spice",
-  "published_playlist_ids": [
-    "0mBRoCtoHT76cBA1H5bvPI"
-  ],
   "tracks": [
     {
       "album": {
@@ -1057,10 +1054,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 135124,
       "name": "didn't you believe in me?",
       "url": "https://open.spotify.com/track/3nKtDtNpGFa8fRZQMpjNVR"
+    },
+    {
+      "album": {
+        "name": "quite early one morning",
+        "url": "https://open.spotify.com/album/5a3kOqAT5oGo2zudSTlru9"
+      },
+      "artists": [
+        {
+          "name": "Philip Brooks",
+          "url": "https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135124,
+      "name": "didn't you believe in me?",
+      "url": "https://open.spotify.com/track/6wHLcpbvq2HEz3fS7ik9IB"
     },
     {
       "album": {
@@ -2219,6 +2234,24 @@
     {
       "album": {
         "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402654,
+      "name": "Middle Of Nowhere",
+      "url": "https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q"
+    },
+    {
+      "album": {
+        "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb"
       },
       "artists": [
@@ -2229,7 +2262,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"

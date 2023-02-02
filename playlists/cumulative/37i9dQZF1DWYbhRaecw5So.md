@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-55 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/0umjXykMErxEDJOEfw95Pu)
+55 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

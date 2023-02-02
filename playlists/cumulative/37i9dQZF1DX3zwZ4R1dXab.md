@@ -4,12 +4,12 @@
 
 > Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.
 
-79 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/0vKjwC12x9Psx4QBF8Kziu)
+80 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2022-09-15 |  |
-| [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 | 2022-09-15 | 2022-11-13 |
+| [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2022-09-15 | 2023-01-22 |
+| [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 | 2022-09-15 |  |
 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 | 2022-09-15 |  |
 | [Apart, Together](https://open.spotify.com/track/0OiXiEqUyVZrz8OnJkek2q) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Apart, Together](https://open.spotify.com/album/5XtJ21nRx5xJ9KNI9bZP2e) | 2:04 | 2022-09-15 |  |
 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-09-15 |  |
@@ -21,7 +21,7 @@
 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 | 2022-09-15 |  |
 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 | 2022-09-15 |  |
 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:26 | 2022-09-15 |  |
-| [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 | 2022-09-15 |  |
+| [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 | 2022-09-15 | 2023-01-29 |
 | [Don't Worry Be Happy](https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [Simple Pleasures](https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b) | 4:54 | 2022-09-15 |  |
 | [Early Hours](https://open.spotify.com/track/6FDWiY1Gy0DVhvYGtkLBCa) | [Sunset Chamber](https://open.spotify.com/artist/6xdDIOgbdCLHsDX4dcnSfI) | [Early Hours](https://open.spotify.com/album/0xpzjW3KD6Dy9sRk0IxPh5) | 3:02 | 2022-09-15 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2022-09-15 |  |
@@ -30,7 +30,7 @@
 | [Fields of gold](https://open.spotify.com/track/0XQKhaXCmkXURkz92za8pX) | [Mio Camara](https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq) | [Fields of gold](https://open.spotify.com/album/5rhWv8xXKNsfXKkTOOIhlv) | 3:33 | 2022-09-15 |  |
 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 | 2022-09-15 |  |
 | [Finding Solitude](https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Finding Solitude](https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7) | 2:33 | 2022-09-15 |  |
-| [Flavor](https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Flavor](https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy) | 2:32 | 2022-09-15 |  |
+| [Flavor](https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Flavor](https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy) | 2:32 | 2022-09-15 | 2022-12-29 |
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-09-15 |  |
 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2022-09-15 |  |
 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 | 2022-09-15 |  |
@@ -53,11 +53,11 @@
 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 | 2022-09-15 |  |
 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 | 2022-09-15 |  |
 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2022-09-15 |  |
-| [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2022-09-15 | 2022-11-12 |
+| [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2022-09-15 |  |
 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 | 2022-09-15 |  |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-09-15 |  |
 | [Persistence](https://open.spotify.com/track/3ZAlpXJWeKniBrqSMffs0j) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Persistence](https://open.spotify.com/album/6orrmY7UOM4QMlFLnFwobd) | 2:46 | 2022-09-15 |  |
-| [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 | 2022-09-15 |  |
+| [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 | 2022-09-15 |  |
 | [Pragmatique](https://open.spotify.com/track/5lLjOkaJ7pqx2qOS7bN22M) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Pragmatique](https://open.spotify.com/album/4Ex97kKG6Boz9EYF6hivhc) | 2:00 | 2022-09-15 |  |
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2022-09-15 |  |
 | [Resurrection](https://open.spotify.com/track/0BtJKY7UaAtw4ViVQJHOHI) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Eternity](https://open.spotify.com/album/5HxEiomNu1exVfU8cokO0A) | 2:00 | 2022-09-15 |  |
@@ -79,6 +79,7 @@
 | [The Lion Sleeps Tonight](https://open.spotify.com/track/5X6VbizePQKSnt55YWWyGS) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [Both Sides Now](https://open.spotify.com/album/6I9RmyZrutcjFnXthpdhkx) | 2:33 | 2022-09-15 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-09-15 |  |
 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 | 2022-09-15 |  |
+| [Unwritten Thoughts](https://open.spotify.com/track/0qXXvOL6Ujkboy0u6QHCam) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Escape](https://open.spotify.com/album/4pihDS6JH0lIBv4er7yBpm) | 3:28 | 2022-12-19 |  |
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-09-15 |  |
 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 | 2022-09-15 |  |
 | [Weightless](https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [The Ambient Zone Just Music Cafe Vol 4](https://open.spotify.com/album/0JsrUHqVkWkXt0vQeNiVkW) | 8:00 | 2022-09-15 |  |

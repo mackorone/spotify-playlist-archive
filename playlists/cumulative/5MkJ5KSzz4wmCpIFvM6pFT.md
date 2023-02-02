@@ -4,7 +4,7 @@
 
 > Missa inte Johnossi på Flamingo\-scenen på TORSDAG / 18.45
 
-10 songs - 41 min 31 sec - [published](https://open.spotify.com/playlist/7HeYVTQuUrwnrzBOrNyxIO)
+10 songs - 41 min 31 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

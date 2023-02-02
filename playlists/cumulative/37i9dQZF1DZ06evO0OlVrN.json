@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Relampagos Del Norte",
-  "published_playlist_ids": [
-    "7G8o4dvFn1kxELCECehqiI"
-  ],
   "tracks": [
     {
       "album": {
@@ -117,7 +114,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2023-01-23",
       "duration_ms": 171816,
       "name": "Anhelo",
       "url": "https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp"
@@ -456,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Carta Jugada",
+        "url": "https://open.spotify.com/album/6hIdbrZ6oE86qovJBhQs1L"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 145586,
+      "name": "El Mudo",
+      "url": "https://open.spotify.com/track/0nPCdv3NceFCfG9hYUYR2y"
+    },
+    {
+      "album": {
         "name": "Doble 2 En 1",
         "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
       },
@@ -507,6 +522,24 @@
       "duration_ms": 163561,
       "name": "La Calandria",
       "url": "https://open.spotify.com/track/7dMuUJav5z8sWek9KmiTz0"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 143438,
+      "name": "La Criminal",
+      "url": "https://open.spotify.com/track/06sDSQea3CjpaAcmNn2ITE"
     },
     {
       "album": {
@@ -619,7 +652,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 186360,
       "name": "Mi Charchina",
       "url": "https://open.spotify.com/track/6vK2viIk4tabUUztnxQcTb"
@@ -706,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188630,
+      "name": "Ni Los Pleitos",
+      "url": "https://open.spotify.com/track/1bTWYFOaOO5RCeZPjUmIK5"
+    },
+    {
+      "album": {
         "name": "Los Relampagos Del Norte",
         "url": "https://open.spotify.com/album/3MrkwTmOD0zCV35nuCwPws"
       },
@@ -739,6 +790,32 @@
       "duration_ms": 243760,
       "name": "Podiosero De Amor - Live",
       "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
+    },
+    {
+      "album": {
+        "name": "Grandes Popurr\u00eds Con...",
+        "url": "https://open.spotify.com/album/2d2JHyDLUovey7KamW8ta9"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        },
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 829988,
+      "name": "Popurri de Rancheras",
+      "url": "https://open.spotify.com/track/0xWYWhcCCMSvHnjFDsIEDJ"
     },
     {
       "album": {

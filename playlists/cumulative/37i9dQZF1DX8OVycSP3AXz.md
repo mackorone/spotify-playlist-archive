@@ -4,7 +4,7 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-92 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/1E6Av7gXZceh7QkqVWHz8v)
+92 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

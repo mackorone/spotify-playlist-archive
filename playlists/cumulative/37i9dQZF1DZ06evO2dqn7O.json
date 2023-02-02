@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-27",
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
   "name": "This Is X Ambassadors",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -57,6 +56,32 @@
       "duration_ms": 305093,
       "name": "American Oxygen",
       "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
     },
     {
       "album": {
@@ -165,7 +190,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 133241,
       "name": "Bullshit",
       "url": "https://open.spotify.com/track/2PT5rRPOZ2BpkGh17PvqIf"
@@ -361,7 +386,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 203517,
       "name": "Happy Home",
       "url": "https://open.spotify.com/track/1jvn8lZb2sfFQccN76MnV3"
@@ -640,6 +665,24 @@
     },
     {
       "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
+      "duration_ms": 201773,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/3qHzSBZ4gVVZZmV3XB089s"
+    },
+    {
+      "album": {
         "name": "Not Easy",
         "url": "https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O"
       },
@@ -677,7 +720,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 285164,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2qo6M1TWBhGCX4N0LlqvMi"
@@ -757,6 +800,28 @@
       "duration_ms": 217853,
       "name": "Shining",
       "url": "https://open.spotify.com/track/4qwaIFrAbHGLjeqwEO77rG"
+    },
+    {
+      "album": {
+        "name": "skip.that.party (with Jensen McRae)",
+        "url": "https://open.spotify.com/album/0w7D24H0GkZiX2z4co1GKe"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 231532,
+      "name": "skip.that.party (with Jensen McRae)",
+      "url": "https://open.spotify.com/track/7IbWXDiwOW8egg28MA0Qpb"
     },
     {
       "album": {

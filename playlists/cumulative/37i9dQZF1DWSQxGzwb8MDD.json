@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-27",
   "description": "Monsters's favorite tracks. Updated regularly. Curated by Monster. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
   "name": "Monster's track IDs",
-  "published_playlist_ids": [
-    "3VPyFHCP4HjYLBccRSFFLz"
-  ],
   "tracks": [
     {
       "album": {
@@ -62,6 +59,42 @@
     },
     {
       "album": {
+        "name": "VIRTUAL VELOCITY",
+        "url": "https://open.spotify.com/album/1YBe9J12Lf8I0PcwDEm1Ti"
+      },
+      "artists": [
+        {
+          "name": "cyberflex",
+          "url": "https://open.spotify.com/artist/0meSG6NZtsaqFaZo46Itrw"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290348,
+      "name": "Aint Tryin",
+      "url": "https://open.spotify.com/track/7aMPC6MIyQhH05Gu7bITQB"
+    },
+    {
+      "album": {
+        "name": "Emerge",
+        "url": "https://open.spotify.com/album/5hZsoDf7rizzN6AqU3qYIZ"
+      },
+      "artists": [
+        {
+          "name": "Kovert",
+          "url": "https://open.spotify.com/artist/5W1dJUVVvOxkYp7r6Z86Bk"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418285,
+      "name": "Amphibian",
+      "url": "https://open.spotify.com/track/41Suz8eMIQXvKdOtkeBYEU"
+    },
+    {
+      "album": {
         "name": "Astral Awakening",
         "url": "https://open.spotify.com/album/6miuZUbj0ZPP6wcThNYlpv"
       },
@@ -98,6 +131,24 @@
     },
     {
       "album": {
+        "name": "NOS",
+        "url": "https://open.spotify.com/album/25kbQFxbKFIwnBeBvRQTEW"
+      },
+      "artists": [
+        {
+          "name": "zpectrum",
+          "url": "https://open.spotify.com/artist/0sZKl4bfwAsv7l0zcuqWnp"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323214,
+      "name": "B MY H8R - Original Mix",
+      "url": "https://open.spotify.com/track/4oZpmsthYEExPP5pYVsK5e"
+    },
+    {
+      "album": {
         "name": "Vertex",
         "url": "https://open.spotify.com/album/1jnSklJcTdYWzxZJe6xsLe"
       },
@@ -117,6 +168,24 @@
       "duration_ms": 334771,
       "name": "Bad Future ft. Garden Krist",
       "url": "https://open.spotify.com/track/4F1PlxEZp9BkH3DnTEGdM8"
+    },
+    {
+      "album": {
+        "name": "International Chromies Vol. 12",
+        "url": "https://open.spotify.com/album/25vHA8QdkoMYjFT6fqUbjd"
+      },
+      "artists": [
+        {
+          "name": "Jensen Interceptor",
+          "url": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435197,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/3th5YZb02p5kSMRo74G8Ui"
     },
     {
       "album": {
@@ -185,10 +254,28 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 272280,
       "name": "Check Mate",
       "url": "https://open.spotify.com/track/22CE5S0W2mBnuQnIQS6O0N"
+    },
+    {
+      "album": {
+        "name": "Coloured City",
+        "url": "https://open.spotify.com/album/1kYvbDh903FSdoxxb2FOXr"
+      },
+      "artists": [
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370480,
+      "name": "Coloured City",
+      "url": "https://open.spotify.com/track/2ct2YTfKDEn9LZyeeyYimw"
     },
     {
       "album": {
@@ -366,6 +453,24 @@
     },
     {
       "album": {
+        "name": "System 01 1990\u200b-\u200b1994",
+        "url": "https://open.spotify.com/album/1X41ti1sG3MSX93tBO8Wdo"
+      },
+      "artists": [
+        {
+          "name": "System 01",
+          "url": "https://open.spotify.com/artist/1Jyx3m6ShqmMaXl0yL7PKS"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282437,
+      "name": "Drugs Work",
+      "url": "https://open.spotify.com/track/4qm1KLxVgCxvsFLiMbiLKW"
+    },
+    {
+      "album": {
         "name": "Corrupted Minds",
         "url": "https://open.spotify.com/album/101DXSwAZl87VfHjbHyakI"
       },
@@ -518,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Fashion Chronic",
+        "url": "https://open.spotify.com/album/4VcxzxD3lXZkVzBwrQLUnA"
+      },
+      "artists": [
+        {
+          "name": "Schacke",
+          "url": "https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541186,
+      "name": "Fashion Chronic",
+      "url": "https://open.spotify.com/track/3rQN4WM6E7C7GvWGuc5ReM"
+    },
+    {
+      "album": {
         "name": "Helen Is Dead",
         "url": "https://open.spotify.com/album/3sM1uBGCHlTozPatZRHBda"
       },
@@ -590,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Glory 2 Ukraine",
+        "url": "https://open.spotify.com/album/6toHhiWbxawOsyClpxJ0TE"
+      },
+      "artists": [
+        {
+          "name": "Badwor7h",
+          "url": "https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219416,
+      "name": "Glory 2 Ukraine",
+      "url": "https://open.spotify.com/track/1eBgnELawTqgIyRV0hIYO9"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/0LiyDeXIrk4HuEtlEJ6GeC"
       },
@@ -627,6 +768,24 @@
       "duration_ms": 354623,
       "name": "got rat?",
       "url": "https://open.spotify.com/track/0FMGoVcfeZe8WBVoqpnAaU"
+    },
+    {
+      "album": {
+        "name": "Got'got",
+        "url": "https://open.spotify.com/album/5qhl3ZHnxeYHMqQ3EzcNEo"
+      },
+      "artists": [
+        {
+          "name": "Julian Muller",
+          "url": "https://open.spotify.com/artist/5UWmNXxqHIUcpHEJCxDojK"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274485,
+      "name": "Got'Got",
+      "url": "https://open.spotify.com/track/1grvBKI0WCEmOoOa6pIeXD"
     },
     {
       "album": {
@@ -728,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Hydraulix 09 (Remastered)",
+        "url": "https://open.spotify.com/album/3Ny1jdQei5tdwUMEip2oen"
+      },
+      "artists": [
+        {
+          "name": "D.A.V.E. The Drummer",
+          "url": "https://open.spotify.com/artist/4ulxN8QnUlk3bX6IopQO7C"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510752,
+      "name": "Hydraulix 09 A",
+      "url": "https://open.spotify.com/track/2fxNkT1PUocRFT2BwyRolp"
+    },
+    {
+      "album": {
         "name": "Shattered",
         "url": "https://open.spotify.com/album/4yBhU89Fm0NExPYjMUNUX4"
       },
@@ -743,6 +920,24 @@
       "duration_ms": 326956,
       "name": "I Tried to Untie the Knots",
       "url": "https://open.spotify.com/track/7uPubIOH3m7yqqyNmlVaUs"
+    },
+    {
+      "album": {
+        "name": "It's Our Future (Special Edition)",
+        "url": "https://open.spotify.com/album/6JBXwq9E37ZRG1hLf6f0mn"
+      },
+      "artists": [
+        {
+          "name": "AWeX",
+          "url": "https://open.spotify.com/artist/4ER5Hmm4cR41UYuyJuPwDP"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330466,
+      "name": "It's Our Future",
+      "url": "https://open.spotify.com/track/3OW6EY8txbD8VazmHS7Ljg"
     },
     {
       "album": {
@@ -779,6 +974,24 @@
       "duration_ms": 342776,
       "name": "Knock You Out",
       "url": "https://open.spotify.com/track/2YQQlWVMI8G7JaizPhhKRa"
+    },
+    {
+      "album": {
+        "name": "Laika",
+        "url": "https://open.spotify.com/album/4FsZl3J54LTP2vlWSPAofH"
+      },
+      "artists": [
+        {
+          "name": "Introversion",
+          "url": "https://open.spotify.com/artist/7qXRl6cKc9zsbV0ekjUQKm"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466215,
+      "name": "Laika",
+      "url": "https://open.spotify.com/track/4YgILysYNihBtQQvZTbRhZ"
     },
     {
       "album": {
@@ -837,6 +1050,24 @@
       "duration_ms": 452814,
       "name": "Let's Ride",
       "url": "https://open.spotify.com/track/2vjeWP5iBO8jjKFOd3nMNC"
+    },
+    {
+      "album": {
+        "name": "International Chromies Vol. 12",
+        "url": "https://open.spotify.com/album/25vHA8QdkoMYjFT6fqUbjd"
+      },
+      "artists": [
+        {
+          "name": "Viikatory",
+          "url": "https://open.spotify.com/artist/2dqEsgubwPTHwSCzE0vClZ"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346625,
+      "name": "Main Mix To Subs",
+      "url": "https://open.spotify.com/track/0QuB1hYTJGA6PmFrvZBGQN"
     },
     {
       "album": {
@@ -948,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "The Gomboc Stone",
+        "url": "https://open.spotify.com/album/01QJogXBejPUvm2RDZQBUG"
+      },
+      "artists": [
+        {
+          "name": "NPLNSSS",
+          "url": "https://open.spotify.com/artist/6NAcyiEM7RfTcxpfCFkO9U"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361646,
+      "name": "Mr Pothead",
+      "url": "https://open.spotify.com/track/5r3DJAojXxibEP8hOivc0n"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -1039,6 +1288,24 @@
       "duration_ms": 220285,
       "name": "Pokrzyk",
       "url": "https://open.spotify.com/track/2IRbHdvhE3z9mXSk3Fl1o3"
+    },
+    {
+      "album": {
+        "name": "Return of the Golden Funk",
+        "url": "https://open.spotify.com/album/2FHptZi8FfJvJa8rr7RbWK"
+      },
+      "artists": [
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344166,
+      "name": "Power 2 Tha People",
+      "url": "https://open.spotify.com/track/7aftORj0cBJ8cDgEL6VmLs"
     },
     {
       "album": {
@@ -1178,7 +1445,7 @@
         },
         {
           "name": "Bill Brown",
-          "url": "https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ"
+          "url": "https://open.spotify.com/artist/5FocFnjmzwOl3JIihEYoEc"
         },
         {
           "name": "Talla 2XLC",
@@ -1191,6 +1458,46 @@
       "duration_ms": 487845,
       "name": "Speed of Light - Talla 2XLC Remix",
       "url": "https://open.spotify.com/track/4aG8z4OWKNd6oANThQxDba"
+    },
+    {
+      "album": {
+        "name": "Superwoman",
+        "url": "https://open.spotify.com/album/4Wtpzh9tlF07zfro2ZARMT"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
+        },
+        {
+          "name": "Sticky Icky",
+          "url": "https://open.spotify.com/artist/0LCzHtbCkrN9CF0ZzEdMmp"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406153,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/0fIPrtVqAd1rHnGSByqnzq"
+    },
+    {
+      "album": {
+        "name": "Blue Euphoria \u200e",
+        "url": "https://open.spotify.com/album/5A6Gi7vxpvatJvFbnmUPBa"
+      },
+      "artists": [
+        {
+          "name": "Funeral Future",
+          "url": "https://open.spotify.com/artist/7gfvkCsWrwrN3o3F6u7oIT"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294146,
+      "name": "Taste the Excess",
+      "url": "https://open.spotify.com/track/61RzFhsky1A76rvjlzUxUw"
     },
     {
       "album": {
@@ -1227,6 +1534,46 @@
       "duration_ms": 340645,
       "name": "The Message",
       "url": "https://open.spotify.com/track/0fX5mg1KW0i8AK73k6dINN"
+    },
+    {
+      "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/0GooWFdPm9J9QqEw4s2EQW"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/4J8NXee9Hvh8sR7U56dVRf"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515558,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/3iQqrip0OVOo5XfxNlUWsT"
+    },
+    {
+      "album": {
+        "name": "Slash 001",
+        "url": "https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn"
+      },
+      "artists": [
+        {
+          "name": "Alpha Tracks",
+          "url": "https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3"
+        },
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363243,
+      "name": "To Nights - KI/KI Remix",
+      "url": "https://open.spotify.com/track/68KweGBSQfD2jrUvKMuASE"
     },
     {
       "album": {
@@ -1437,6 +1784,24 @@
       "duration_ms": 293000,
       "name": "Wile Out - Original Mix",
       "url": "https://open.spotify.com/track/0W7kdn8iAkPpb7QlxXEswO"
+    },
+    {
+      "album": {
+        "name": "InterWave 10",
+        "url": "https://open.spotify.com/album/5aBKQXfuY5bRvmm1AYpj2S"
+      },
+      "artists": [
+        {
+          "name": "Wavebndr",
+          "url": "https://open.spotify.com/artist/56Hv4PqazAClj7ZhzaKCDT"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385470,
+      "name": "Zmbi Zne",
+      "url": "https://open.spotify.com/track/01VLtsjg7w8ARt8WvCRnpF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSQxGzwb8MDD"

@@ -4,7 +4,7 @@
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-165 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/3TGj756pi2TgmaL4E5mf1J)
+166 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Devotion](https://open.spotify.com/track/1KkHP4XsCdH3e8d2rrntHA) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Devotion](https://open.spotify.com/album/6O3f8tfqgEyfNeW2AQYaBH) | 3:42 | 2021-12-31 |  |
 | [Devotion](https://open.spotify.com/track/6isD7JA7wF5TV6E3cVxcgD) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Devotion](https://open.spotify.com/album/0zWoD0T4iBYL1qWso6n8fc) | 3:42 | 2021-12-31 | 2022-07-03 |
 | [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/5YYfRoURZob8PAsw0gzwjF) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/4NKrnSZo8kbQ7rpghQvOrA) | 3:47 | 2021-12-31 | 2022-07-28 |
-| [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K) | 3:47 | 2021-12-31 |  |
+| [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/6HAYpLUYV5LWy3xPPMiz7K) | 3:47 | 2021-12-31 | 2022-12-17 |
 | [Earth](https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [Elements](https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H) | 3:20 | 2021-12-31 |  |
 | [Edge of Time \(Bala Mandala Remix\)](https://open.spotify.com/track/4qjDLG7d5gQoE2vkQKOrjz) | [William Matthews](https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA), [Lauren Evans](https://open.spotify.com/artist/3C7ueB5rQVcVfh0ryluAvk), [Bala Mandala](https://open.spotify.com/artist/6wz0tpwgz2ASbD9cWqxb64) | [Edge of Time \(Bala Mandala Remix\)](https://open.spotify.com/album/3lQfdE3f9o8tcERGl6uZeH) | 4:20 | 2021-12-31 | 2022-07-27 |
 | [Every Little Thing](https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [III \(Reimagined\)](https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO) | 3:22 | 2021-12-31 |  |
@@ -65,6 +65,7 @@
 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 | 2021-12-31 |  |
 | [Hear Your Heart](https://open.spotify.com/track/1zI297SasSVNI2TLh3Ypm7) | [myChurch Music](https://open.spotify.com/artist/0kUjsG9rypTopBusbPm43B) | [Hear Your Heart](https://open.spotify.com/album/6zvijC2Xfhb47tuRsEjDkI) | 3:04 | 2021-12-31 | 2022-10-05 |
 | [Heartache](https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 3:28 | 2021-12-31 | 2022-07-29 |
+| [Heaven On Earth \- Radio Single](https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Heaven On Earth](https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL) | 3:45 | 2021-12-31 |  |
 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 | 2021-12-31 |  |
 | [Highest Praise](https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM) | [C3LA Music](https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA) | [Highest Praise](https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z) | 4:03 | 2021-12-31 | 2022-10-21 |
 | [Horizon](https://open.spotify.com/track/1NmHUEvUh1JdxsxSBv1xIg) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Horizon](https://open.spotify.com/album/5aioaYMnrqTk5GzgfKGvG8) | 3:43 | 2021-12-31 | 2022-07-29 |
@@ -139,7 +140,7 @@
 | [Signs](https://open.spotify.com/track/7Jsgkhp3pASBzaqb4vI9nW) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [How Could I Be Silent](https://open.spotify.com/album/5WDL5SKUnD01m3oEHGSJ4A) | 3:32 | 2021-12-31 | 2022-07-29 |
 | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [SIMPLE \(feat\. Joe L Barnes\)](https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ) | 2:32 | 2021-12-31 |  |
 | [Sound of Freedom](https://open.spotify.com/track/0ffnyvtjsmJvME97m2JVeh) | [All Things New](https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG) | [Sound of Freedom](https://open.spotify.com/album/18OqMfunWkhyZIiQCqxvhT) | 3:15 | 2021-12-31 | 2022-07-29 |
-| [Sound of Freedom](https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2) | [All Things New](https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG) | [Grace That Changes Everything](https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS) | 3:15 | 2021-12-31 | 2022-11-13 |
+| [Sound of Freedom](https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2) | [All Things New](https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG) | [Grace That Changes Everything](https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS) | 3:15 | 2021-12-31 | 2023-01-28 |
 | [Speak To Me](https://open.spotify.com/track/0Uo5RykIRgIM6idQO7UYvq) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/20vUrDPN0HgVWHcySErCSr) | 3:55 | 2021-12-31 | 2022-07-29 |
 | [Stand Firm](https://open.spotify.com/track/2S4vZbC5zdTd7tURXvpVnd) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Seasons](https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW) | 3:28 | 2021-12-31 | 2022-06-26 |
 | [Standing In Your Light](https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Standing In Your Light](https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP) | 3:32 | 2021-12-31 | 2022-07-29 |
@@ -172,6 +173,6 @@
 | [You Got This](https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [You Got This](https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I) | 3:14 | 2021-12-31 |  |
 | [You Loved Me First](https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Creíste en Mí / You Loved Me First](https://open.spotify.com/album/6KXVUObEuVcXoFMt6KvCcl) | 3:29 | 2021-12-31 | 2022-11-12 |
 | [You Say](https://open.spotify.com/track/6QtP7JPUMeDNxo1YMeh2wX) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [You Say](https://open.spotify.com/album/2QKUAxpv1OyBYBdPYAZW9p) | 2:52 | 2021-12-31 | 2022-07-29 |
-| [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 | 2021-12-31 |  |
+| [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 | 2021-12-31 |  |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

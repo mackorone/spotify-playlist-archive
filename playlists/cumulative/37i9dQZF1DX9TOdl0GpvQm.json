@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Walk the threshold into the netherworld...",
   "name": "Hauntology",
-  "published_playlist_ids": [
-    "2xEYlodwFsYYobn5qckSqi"
-  ],
   "tracks": [
     {
       "album": {
@@ -275,7 +272,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 83826,
       "name": "BARTLEBY - Titles",
       "url": "https://open.spotify.com/track/07K4C1sexV20UkgQaJCswj"
@@ -293,7 +290,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 117840,
       "name": "Black Ants In Sound-Dust",
       "url": "https://open.spotify.com/track/5Ej9HY6ZVTAhjObtnIeeAz"
@@ -591,7 +588,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Coney Island",
       "url": "https://open.spotify.com/track/1CtOu0i3Qvzi2HeIW1PHiT"
@@ -819,6 +816,24 @@
       "duration_ms": 253100,
       "name": "Die Dosis macht das Gift",
       "url": "https://open.spotify.com/track/0xq0GbMjRnrKfTV9fw02fR"
+    },
+    {
+      "album": {
+        "name": "En \u00c1tomos Volando",
+        "url": "https://open.spotify.com/album/00LWccHAjSAVMgs6HFiV3o"
+      },
+      "artists": [
+        {
+          "name": "Ezmeralda",
+          "url": "https://open.spotify.com/artist/1evlZb4RMrNoQ26G6EyGZA"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285842,
+      "name": "Duelo (Cumbia del Fantasma)",
+      "url": "https://open.spotify.com/track/6heNYymv8CZYCKz90RpY6S"
     },
     {
       "album": {
@@ -1093,7 +1108,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 228289,
       "name": "Fol-de-rol",
       "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
@@ -1259,7 +1274,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 65666,
       "name": "Hearts And Flowers",
       "url": "https://open.spotify.com/track/6DPtZ1yxZPmWGfoBoq4q9E"
@@ -1295,7 +1310,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 106123,
       "name": "High Street Spasm",
       "url": "https://open.spotify.com/track/0fcg1PjDAWyi7Ro24XC34E"
@@ -1335,7 +1350,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 128866,
       "name": "i see, so i see so",
       "url": "https://open.spotify.com/track/7CIrECWYdCzXoITbDL2Tn3"
@@ -1501,7 +1516,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 144543,
       "name": "Kinky Korner Klub",
       "url": "https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU"
@@ -1681,7 +1696,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 254624,
       "name": "Mannequin Metric",
       "url": "https://open.spotify.com/track/2B32tq6y3LxOnV9OkCZLOe"
@@ -1735,7 +1750,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 92773,
       "name": "Melissa Juice",
       "url": "https://open.spotify.com/track/782LcmOkkNn1dm083on9wF"
@@ -1825,7 +1840,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 393195,
       "name": "Monastic",
       "url": "https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu"
@@ -1865,7 +1880,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 176652,
       "name": "Moonlight and Magic",
       "url": "https://open.spotify.com/track/3cSV9CdfTgLo6z7NtFZjtK"
@@ -1883,7 +1898,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 240666,
       "name": "My Beautiful White Dog",
       "url": "https://open.spotify.com/track/1EDWlisAe1lpsY6Rr7ubME"
@@ -2035,7 +2050,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 138920,
       "name": "Omni Vignette",
       "url": "https://open.spotify.com/track/6QFj2DMznntolgajylaJeT"
@@ -2321,7 +2336,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 210118,
       "name": "Semena Mertvykh",
       "url": "https://open.spotify.com/track/4uWtEvbfRnT7lV4Y5b5gBB"
@@ -2357,7 +2372,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 80746,
       "name": "Sighting in Corridor 12",
       "url": "https://open.spotify.com/track/4Bl2Z2vukTroAm242DDtov"
@@ -2451,7 +2466,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Sopa De Salsa",
       "url": "https://open.spotify.com/track/2FR1LR3aD2CNF2w2HZoYyI"
@@ -2657,7 +2672,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 217133,
       "name": "Teresa, Lark of Ascension",
       "url": "https://open.spotify.com/track/05d3d97A54UUffKia3WKpJ"
@@ -2697,10 +2712,28 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 271853,
       "name": "the be colony",
       "url": "https://open.spotify.com/track/66tkKvIRiNOVuZ4VLQRquL"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258586,
+      "name": "The Beach At Redpoint",
+      "url": "https://open.spotify.com/track/7FKPc0Xx4r3SJR1IwrQfxF"
     },
     {
       "album": {
@@ -2715,7 +2748,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 258586,
       "name": "The Beach At Redpoint",
       "url": "https://open.spotify.com/track/7IFLsGyxJUX4cCWauaWG6U"
@@ -2733,7 +2766,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 193346,
       "name": "The Black Drop",
       "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
@@ -3503,7 +3536,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 244693,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"

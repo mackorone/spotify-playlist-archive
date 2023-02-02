@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpzpfnVhpIz.md) - [plain]
 
 > Italian superstar producer & DJ <a href="spotify:artist:5ENS85nZShljwNgg4wFD7D">Gabry Ponte</a> promises a good time with his mix featuring recent hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,522 likes - 19 songs - 58 min 15 sec
+[Spotify](https://open.spotify.com/user/spotify) - 12,935 likes - 19 songs - 58 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can't Get Over You \- Mixed](https://open.spotify.com/track/11Rg3yZw3moNt5syQVGEjc) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Can't Get Over You](https://open.spotify.com/album/3dxWxqKrVJNdHOtqZRTblp) | 3:04 |
 | 2 | [Equal in the Darkness \(Gabry Ponte Remix\) \- Mixed](https://open.spotify.com/track/72QGmEBlO6SvAmYabY9Hpw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Equal in the Darkness \(Gabry Ponte Remix\) \[Mixed\]](https://open.spotify.com/album/2cGPItZsPsjf5Nb04v1LuG) | 3:18 |
 | 3 | [Piece Of Art \- Mixed](https://open.spotify.com/track/30w2S2cSNEIi2Vm1zLiazn) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art \(Mixed\)](https://open.spotify.com/album/2Fk0HoIFSpzKsBKFl3zOP3) | 3:52 |
-| 4 | [Tactus \- Mixed](https://open.spotify.com/track/7rfJGvoiOvry3STzujztG1) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM), [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Tactus \(Mixed\)](https://open.spotify.com/album/1BH2pClAxV4TTwjZ1nIwow) | 3:23 |
+| 4 | [Tactus \(hungry for your touch\) \- Mixed](https://open.spotify.com/track/3QsOgYaBaZvhKqa8L4PdM7) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM), [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Tactus \(hungry for your touch\) \[Mixed\]](https://open.spotify.com/album/3M1WpRPnlAa0KnMyQzwGlX) | 3:23 |
 | 5 | [Diamonds \- Mixed](https://open.spotify.com/track/7fj5oRXrAfxlwwkDYCdDtc) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Diamonds \(Mixed\)](https://open.spotify.com/album/0ORribk1iFBNGluCyCatWg) | 3:05 |
 | 6 | [Dancing \- Mixed](https://open.spotify.com/track/04W3AvvoUngXGYhtFpbNyV) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Dancing \(Mixed\)](https://open.spotify.com/album/7CTRRLyexKMhKQCUYnkROd) | 3:43 |
 | 7 | [Alive \(with Roland Clark\) \- Mixed](https://open.spotify.com/track/4sbUn7SDGKWHpLyPtfxHIG) | [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Alive \(with Roland Clark\) \[Mixed\]](https://open.spotify.com/album/4sMwkUt0bekM8Xo0Qk2oOu) | 2:25 |
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpzpfnVhpIz.md) - [plain]
 | 18 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 |
 | 19 | [Ferris Wheel \- Ashley Wallbridge Remix \- Mixed](https://open.spotify.com/track/1WQ8ibSIyPrDkiwnuehnd3) | [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y), [Norni](https://open.spotify.com/artist/6huxF5zlE1RX4sKRUWlEeW), [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG) | [Ferris Wheel \- Ashley Wallbridge Remix \(Mixed\)](https://open.spotify.com/album/12InWOMfp0IuhvnYF2UA6r) | 2:26 |
 
-Snapshot ID: `MTY2MDY2MTM0NSwwMDAwMDAwMDIxNDcwZDQwNTI3YzI3Y2ViYzUzMWVhM2RlZWQxY2Jl`
+Snapshot ID: `MTY3MjM3NjcwMCwwMDAwMDAwMGQ2Yjg5YjIzY2NlMmRmMjBiMGFmYjI5NDNjZmRjZDQx`

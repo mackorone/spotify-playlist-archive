@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "All the hits you'll need to make your summer sizzle.",
   "name": "Summer Hits",
-  "published_playlist_ids": [
-    "5Tz3j6NeYOoWmHXBAGiazZ"
-  ],
   "tracks": [
     {
       "album": {
@@ -263,24 +260,6 @@
       "duration_ms": 242956,
       "name": "A Whole New World (End Title)",
       "url": "https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT"
-    },
-    {
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2022-07-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -941,6 +920,24 @@
       "duration_ms": 161746,
       "name": "Antisocial (with Travis Scott)",
       "url": "https://open.spotify.com/track/1DhRbox3xkceP64k3JeYfW"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -3653,7 +3650,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-25",
       "duration_ms": 153166,
       "name": "CTRL + ALT + DEL",
       "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
@@ -5663,7 +5660,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163090,
       "name": "fingers crossed",
       "url": "https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y"
@@ -8313,7 +8310,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 185522,
       "name": "I Love U",
       "url": "https://open.spotify.com/track/2FqkTu4FhwDWn9hzEaWWCE"
@@ -9535,7 +9532,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 176078,
       "name": "Just A Cloud Away",
       "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
@@ -14517,7 +14514,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
@@ -16920,6 +16917,28 @@
     },
     {
       "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo"
+    },
+    {
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -16957,7 +16976,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"

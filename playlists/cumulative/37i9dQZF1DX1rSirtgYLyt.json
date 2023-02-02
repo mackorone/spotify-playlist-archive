@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-27",
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
   "name": "Blues Covers",
-  "published_playlist_ids": [
-    "2CACYxcXWrR79wm1dLrCxU"
-  ],
   "tracks": [
     {
       "album": {
@@ -77,10 +74,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 239106,
       "name": "99 Year Blues",
       "url": "https://open.spotify.com/track/7GQZYw55Juuq3tntjZJzZt"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/51Q8xb6yKqRdETYMUDj9mo"
+      },
+      "artists": [
+        {
+          "name": "Bonny B.",
+          "url": "https://open.spotify.com/artist/0awWK2CDOk4vhdtqs6WlOG"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429077,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0JCiStjQ3LqDn6Ijni8wFf"
     },
     {
       "album": {
@@ -201,6 +216,24 @@
       "duration_ms": 407653,
       "name": "Ain't No Way",
       "url": "https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH"
+    },
+    {
+      "album": {
+        "name": "Rebel Moon Blues",
+        "url": "https://open.spotify.com/album/3Sycy3TJ81TWGMyZaNvWyw"
+      },
+      "artists": [
+        {
+          "name": "Sass Jordan",
+          "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156622,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/3t3qyDmYzMH3uiXMVFqk5v"
     },
     {
       "album": {
@@ -482,6 +515,32 @@
     },
     {
       "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/0V2B8DyoDJ4Dfegtxi4wc4"
+      },
+      "artists": [
+        {
+          "name": "\"Short Shank\" Phillips",
+          "url": "https://open.spotify.com/artist/47GGSBykc5uyv1fE149jqp"
+        },
+        {
+          "name": "Johnny Staccato",
+          "url": "https://open.spotify.com/artist/0IgCMJfvwL2Xjlpn0EzJTX"
+        },
+        {
+          "name": "Randy Resnick",
+          "url": "https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/6450nZgQk10gXxcF056bGW"
+    },
+    {
+      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -547,7 +606,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 258466,
       "name": "Crossroads - Live",
       "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
@@ -761,7 +820,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 348906,
       "name": "Green Manalishi (With the Two Prong Crown)",
       "url": "https://open.spotify.com/track/1ugH9JwMb8Kv77IeNrkvWw"
@@ -801,6 +860,24 @@
       "duration_ms": 306866,
       "name": "Hesitation Blues - Live",
       "url": "https://open.spotify.com/track/2ZA8w7VIA2A5bFmb3ViXoQ"
+    },
+    {
+      "album": {
+        "name": "Greatest Blues Covers",
+        "url": "https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268466,
+      "name": "Honey, Hush Aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/2OcI0qBGh43Ujr4xhxUGg7"
     },
     {
       "album": {
@@ -909,6 +986,42 @@
       "duration_ms": 302840,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/5mv7gXwH5qYChfwISnOx94"
+    },
+    {
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/1rRm5wc5lBtycx5xlY3848"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302426,
+      "name": "I Ain't Superstitious - 2005 Remaster",
+      "url": "https://open.spotify.com/track/7n7k2SsZKMUUQms4ZxTk34"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282426,
+      "name": "I Can't Quit You Baby - 1990 Remaster",
+      "url": "https://open.spotify.com/track/62QInSlXQI11BR9ycVWjd6"
     },
     {
       "album": {
@@ -1090,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "Azules",
+        "url": "https://open.spotify.com/album/5FgIkk5UzpEDPmlIGDYGdf"
+      },
+      "artists": [
+        {
+          "name": "Louise Phelan",
+          "url": "https://open.spotify.com/artist/4R2C8Ny7ORE5oPb1huKjGc"
+        },
+        {
+          "name": "Octavio Herrero",
+          "url": "https://open.spotify.com/artist/3VmU8oqTb14Tn7Yjs8wVCB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "I'm a Woman",
+      "url": "https://open.spotify.com/track/0es3vILJEEfnvfXSJfHjF8"
+    },
+    {
+      "album": {
         "name": "All Blues'd Up: Songs of Bob Dylan",
         "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
       },
@@ -1170,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Strange Angels: In Flight with Elmore James",
+        "url": "https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Look on Yonder Wall",
+      "url": "https://open.spotify.com/track/773LlUafLOEk5AKr1DIGag"
+    },
+    {
+      "album": {
         "name": "The Robert Johnson Songbook",
         "url": "https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX"
       },
@@ -1210,6 +1363,32 @@
     },
     {
       "album": {
+        "name": "Strange Angels: In Flight with Elmore James",
+        "url": "https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        },
+        {
+          "name": "Billy Gibbons",
+          "url": "https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD"
+        },
+        {
+          "name": "Mickey Raphael",
+          "url": "https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358382,
+      "name": "Mean Mistreatin' Mama",
+      "url": "https://open.spotify.com/track/2kGpMbIIaK82aYl1N4xoHC"
+    },
+    {
+      "album": {
         "name": "Messing With The Blues",
         "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
       },
@@ -1243,6 +1422,24 @@
       "duration_ms": 392586,
       "name": "Million Miles",
       "url": "https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P"
+    },
+    {
+      "album": {
+        "name": "Sings Ballads & Blues",
+        "url": "https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK"
+      },
+      "artists": [
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "Muleskinner Blues",
+      "url": "https://open.spotify.com/track/27Be6a8BHTjUS736RAnGgP"
     },
     {
       "album": {
@@ -1359,6 +1556,64 @@
       "duration_ms": 186240,
       "name": "Ramblin' On My Mind - Mono",
       "url": "https://open.spotify.com/track/5ah6Etv38v3ZsE0iyZMdTq"
+    },
+    {
+      "album": {
+        "name": "Blues Without You",
+        "url": "https://open.spotify.com/album/0Bi6Nd9yKYnZRnwWCrhhyr"
+      },
+      "artists": [
+        {
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379746,
+      "name": "Roadhouse Blues",
+      "url": "https://open.spotify.com/track/4vfYiHDVNlMjFuc81pS6h1"
+    },
+    {
+      "album": {
+        "name": "Strange Situations: The Stan Webb & Chicken Shack Indigo Sessions",
+        "url": "https://open.spotify.com/album/4TnvcqbCj5pncCpXtBnNgH"
+      },
+      "artists": [
+        {
+          "name": "Stan Webb",
+          "url": "https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF"
+        },
+        {
+          "name": "Chicken Shack",
+          "url": "https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256013,
+      "name": "She Loves You",
+      "url": "https://open.spotify.com/track/4HnmJHeEWRhyVETGfBiGIX"
+    },
+    {
+      "album": {
+        "name": "Pray for Rain",
+        "url": "https://open.spotify.com/album/4ZLAsjVWkF6YjKJbfa4fhA"
+      },
+      "artists": [
+        {
+          "name": "Marty O'Reilly & the Old Soul Orchestra",
+          "url": "https://open.spotify.com/artist/0oFKnXK9fgRpWNyKoJeSOy"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411240,
+      "name": "Smokestack Lightning",
+      "url": "https://open.spotify.com/track/2ltKgfElKBcNHh2ZIq0TRv"
     },
     {
       "album": {
@@ -1506,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Green River",
+        "url": "https://open.spotify.com/album/3E9yu7yqBGvCRgZqk1oD43"
+      },
+      "artists": [
+        {
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305493,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4R3mHfzNpk0YmRx983jzik"
+    },
+    {
+      "album": {
         "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
         "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
       },
@@ -1525,6 +1798,42 @@
       "duration_ms": 240693,
       "name": "Sweet Home Chicago - Mono Rough Mix",
       "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
+    },
+    {
+      "album": {
+        "name": "The Robert Johnson Songbook",
+        "url": "https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX"
+      },
+      "artists": [
+        {
+          "name": "Peter Green Splinter Group",
+          "url": "https://open.spotify.com/artist/77aUDqXRIvkDNxARfYwoHC"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254973,
+      "name": "Sweet Home Chicago - Studio",
+      "url": "https://open.spotify.com/track/0znXZlsMDXLiTeK1IoG0XD"
+    },
+    {
+      "album": {
+        "name": "Taxman",
+        "url": "https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee"
+      },
+      "artists": [
+        {
+          "name": "Teresa James",
+          "url": "https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206815,
+      "name": "Taxman",
+      "url": "https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI"
     },
     {
       "album": {
@@ -1575,7 +1884,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 179680,
       "name": "There's A Bright Side Somewhere",
       "url": "https://open.spotify.com/track/3ThRt0CKd9Fu3d4SiSYf69"
@@ -1611,7 +1920,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 183840,
       "name": "Tom Cat Blues",
       "url": "https://open.spotify.com/track/69LGgafa9setHOHVyPQyJK"

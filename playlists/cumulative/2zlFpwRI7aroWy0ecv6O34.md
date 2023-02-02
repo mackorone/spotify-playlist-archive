@@ -4,7 +4,7 @@
 
 > Wind down for the evening with your special someone and this soothing selection of serenades.
 
-181 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/6DEUVsuaskCvDvLTwIDSDN)
+181 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

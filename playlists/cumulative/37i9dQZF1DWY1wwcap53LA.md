@@ -2,9 +2,9 @@
 
 ### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
 
-> Country music making waves\. Cover: Shaboozey
+> Country music making waves\. Cover: Blanco Brown
 
-119 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+123 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 | 2022-09-23 |  |
 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 | 2021-12-03 |  |
 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 | 2022-03-25 |  |
+| [Another Round](https://open.spotify.com/track/11VDLa4XbXDIPC6rxbpAy1) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Another Round](https://open.spotify.com/album/1cziB9zkAdtab5TMnmJ8sH) | 3:13 | 2023-01-13 |  |
 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 | 2021-12-03 |  |
 | [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 | 2022-09-16 |  |
 | [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2021-12-03 | 2022-09-18 |
@@ -48,6 +49,7 @@
 | [Heart You Can't Break](https://open.spotify.com/track/0acpf9wterZQ763bWUSsun) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:21 | 2022-07-01 | 2022-10-09 |
 | [Heart You Can't Break](https://open.spotify.com/track/1ixFVX3Pz4N8CbpvQqcK44) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/6pD3YcWd6fUMVIximPNNYU) | 3:21 | 2022-10-07 |  |
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2021-12-03 |  |
+| [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 | 2023-01-27 |  |
 | [Hold My Horses](https://open.spotify.com/track/2b42Ji4pWoTYnh0nxjnASa) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Too Much Of A Good Thing](https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll) | 3:00 | 2022-10-07 | 2022-11-14 |
 | [Hold My Horses](https://open.spotify.com/track/2n6YMK1vCr5xkDVJ7MdQHw) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:00 | 2022-10-14 |  |
 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 | 2022-06-03 | 2022-07-29 |
@@ -57,6 +59,7 @@
 | [Hotel Room](https://open.spotify.com/track/1owUVU4Hg4Qqb6sn6wnVid) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Hotel Room](https://open.spotify.com/album/2SoyvUgq6doxWrBW45q1E8) | 2:31 | 2022-05-20 |  |
 | [How You Love Someone](https://open.spotify.com/track/56XDLBRNjRSnQnwlWTuwKh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [How You Love Someone](https://open.spotify.com/album/5E3d726Sw4jFs5PPiDe5Du) | 4:25 | 2022-10-07 |  |
 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 | 2022-04-01 |  |
+| [I'll Never](https://open.spotify.com/track/2c9WCG3eAxbCUiEbvAVj2z) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I'll Never](https://open.spotify.com/album/18EtwJgfmxArCatnS6w49T) | 2:43 | 2023-01-13 |  |
 | [If I Wanted Wine](https://open.spotify.com/track/4cgwtyl8Ig2RxDTz0d0JyM) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 2:44 | 2022-06-01 |  |
 | [Just In Case](https://open.spotify.com/track/0YXTxxhAcbshkZ6n4QO30H) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/6ZJaKkfHx5nfEkXXjq3Ond) | 2:58 | 2022-09-02 |  |
 | [Just Say I Love You](https://open.spotify.com/track/4iVi2YeSzYut5CgMu9WBu3) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [Just Say I Love You](https://open.spotify.com/album/2HCLaqqb00O9PPNy4aYXx3) | 4:00 | 2021-12-03 |  |
@@ -81,6 +84,7 @@
 | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/track/6fk8yiw2sxAC6ycLU7EaZa) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/album/2FDgPyH6uGxspBo6ReEUxW) | 2:00 | 2021-12-03 |  |
 | [Port City](https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Port City](https://open.spotify.com/album/4D56Jhz6zigKLQ3Y1WYuSz) | 3:50 | 2022-03-18 |  |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 |  |
+| [Pretty Little Devils](https://open.spotify.com/track/6rcQA9q2ZdJeUzZKZU6pUg) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Pretty Little Devils](https://open.spotify.com/album/6laMfCUBqD0g3uVQRUYNBO) | 2:59 | 2023-01-20 |  |
 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 | 2021-12-03 |  |
 | [Red Dirt Cursed](https://open.spotify.com/track/71UT0ooGTviqmCfpdClNoY) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/64evxUin5gboW74Ko8TFef) | 3:56 | 2022-05-27 |  |
 | [Remember Her Name](https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/2rAvDy2nHanof8iWkFUWKg) | 2:58 | 2021-12-03 |  |

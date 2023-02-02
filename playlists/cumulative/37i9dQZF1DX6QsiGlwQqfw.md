@@ -4,7 +4,7 @@
 
 > Instrumentals from the North Indian school of music.
 
-57 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/6Y859xNo4TJoGUZatAOuWq)
+57 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

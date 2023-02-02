@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Soak up these laid-back jams. ",
   "name": "Beach Vibes",
-  "published_playlist_ids": [
-    "6DdOJ3YsuWQvPWCu8KZtTS"
-  ],
   "tracks": [
     {
       "album": {
@@ -365,7 +362,7 @@
           "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206829,
@@ -1016,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Down With You - Single",
+        "url": "https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210050,
+      "name": "Down With You",
+      "url": "https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA"
+    },
+    {
+      "album": {
         "name": "A Seafarer and the Infinite Dream",
         "url": "https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER"
       },
@@ -1027,7 +1042,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 195026,
       "name": "Drifting In Out of Time",
       "url": "https://open.spotify.com/track/1P69oceVUgEEKO5TBKM7kn"
@@ -1697,7 +1712,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 143856,
       "name": "I Like the Way You Roll (feat. Slightly Stoopid)",
       "url": "https://open.spotify.com/track/2dBQiMLWP9cWCYfwB56YHf"
@@ -1735,7 +1750,7 @@
           "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156646,
@@ -1919,7 +1934,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-01-15",
       "duration_ms": 304322,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY"
@@ -1941,7 +1956,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 282323,
       "name": "Kingdom (with The Movement)",
       "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
@@ -1959,7 +1974,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 216200,
       "name": "Knocking at Your Door",
       "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
@@ -2181,6 +2196,24 @@
       "duration_ms": 213733,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/0xtvV6h7qWiTjab9GIoWkZ"
+    },
+    {
+      "album": {
+        "name": "Say What You're Thinking",
+        "url": "https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6swAqbmAJ7m19IxoHK1y5Z"
     },
     {
       "album": {

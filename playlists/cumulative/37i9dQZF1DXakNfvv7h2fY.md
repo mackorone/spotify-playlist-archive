@@ -2,9 +2,9 @@
 
 ### [Rainy Day Blues](https://open.spotify.com/playlist/37i9dQZF1DXakNfvv7h2fY)
 
-> Rain keep a fallin’ round my window pane..\. Blues to warm the soul when there’s no point going outside.
+> Comforting Blues to warm the soul when there’s no point going outside.
 
-100 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
+101 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Personal Manager](https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 4:28 | 2022-07-28 |  |
 | [Personal Manager](https://open.spotify.com/track/3rdggOvseyMgqFFbWLLp8W) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa) | 4:30 | 2022-05-25 | 2022-07-29 |
 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 | 2022-07-28 |  |
+| [Rainin' In My Heart](https://open.spotify.com/track/0t5IteKDnugg7tZKEh8fYS) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:32 | 2023-01-10 |  |
 | [Rainy Day Blues](https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Singles](https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A) | 2:14 | 2022-08-18 |  |
 | [Rainy Day Blues \- Remastered 1997](https://open.spotify.com/track/1M2dW9x2BwXyuKYnl6XIPV) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [The Bluebird Recordings, 1938](https://open.spotify.com/album/4HhTU3By2batodWLzxpYqc) | 3:18 | 2022-07-28 |  |
 | [Salt In My Wounds](https://open.spotify.com/track/0fnALehX0CnAZYD6Lerc8a) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up](https://open.spotify.com/album/1ISxqujnZ2NLb6LOYY92qK) | 4:13 | 2022-05-25 | 2022-07-29 |

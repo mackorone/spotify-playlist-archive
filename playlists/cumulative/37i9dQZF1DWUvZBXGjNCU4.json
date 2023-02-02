@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-05-15",
   "description": "Warm and cozy acoustic instrumentals.",
   "name": "Sweater Weather Instrumentals",
-  "published_playlist_ids": [
-    "7okZyc3inRIRHWsMfSeJko"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Pampa y Misterio",
+        "url": "https://open.spotify.com/album/0l517ILh9o9JHdRw7WsrrX"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Escofet",
+          "url": "https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111701,
+      "name": "13 de Julio",
+      "url": "https://open.spotify.com/track/2htFLReJu6umNjsW1jAsMM"
+    },
     {
       "album": {
         "name": "A Moment To Arise",
@@ -23,6 +38,24 @@
       "duration_ms": 150500,
       "name": "A Moment To Arise",
       "url": "https://open.spotify.com/track/3122D1oPB9S7azLBXWBrtS"
+    },
+    {
+      "album": {
+        "name": "A Sky Full of Stars",
+        "url": "https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156008,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH"
     },
     {
       "album": {
@@ -77,6 +110,24 @@
       "duration_ms": 149631,
       "name": "Alahazy Basin",
       "url": "https://open.spotify.com/track/01Whyc3tjloWGRTPoK8MKR"
+    },
+    {
+      "album": {
+        "name": "Altri Tempi",
+        "url": "https://open.spotify.com/album/3QGyNeWDbPOGX6oSXtDCWG"
+      },
+      "artists": [
+        {
+          "name": "Atos Arces",
+          "url": "https://open.spotify.com/artist/4ljlcKJnAdk2UlhQR638pG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252136,
+      "name": "Altri Tempi",
+      "url": "https://open.spotify.com/track/2bdS2ijhi2tuwOlkHFF0lm"
     },
     {
       "album": {
@@ -149,6 +200,24 @@
       "duration_ms": 210923,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/0AdUlf7gmrwhuVp8oznsRc"
+    },
+    {
+      "album": {
+        "name": "Take Me Home Country Roads",
+        "url": "https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI"
+      },
+      "artists": [
+        {
+          "name": "Jo Rochford",
+          "url": "https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265906,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/1ZAiKDMu90wXjRrVKHMZE7"
     },
     {
       "album": {
@@ -257,6 +326,24 @@
       "duration_ms": 187000,
       "name": "Bagatelle Valley",
       "url": "https://open.spotify.com/track/1JaFCtOHjdzp0X5ReBZj4g"
+    },
+    {
+      "album": {
+        "name": "Beautitude",
+        "url": "https://open.spotify.com/album/2exVfoLC3vLD8qBdNDPuDY"
+      },
+      "artists": [
+        {
+          "name": "Georg Gardner",
+          "url": "https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119100,
+      "name": "Beautitude",
+      "url": "https://open.spotify.com/track/4IWpVVj6c0LhBePxFoAZEe"
     },
     {
       "album": {
@@ -693,6 +780,42 @@
       "duration_ms": 185000,
       "name": "Distances",
       "url": "https://open.spotify.com/track/63iYBQAZDyqQYwf91qG6ZX"
+    },
+    {
+      "album": {
+        "name": "Door Of The North",
+        "url": "https://open.spotify.com/album/1gHkkuNVNrRNZsSB0aolOt"
+      },
+      "artists": [
+        {
+          "name": "Carol Maddox",
+          "url": "https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154992,
+      "name": "Door Of The North",
+      "url": "https://open.spotify.com/track/7fYKZFLRRlcBIQ17V1E5qE"
+    },
+    {
+      "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/2M1tz2hu4LvjsZfiam9AUV"
+      },
+      "artists": [
+        {
+          "name": "Don Steale",
+          "url": "https://open.spotify.com/artist/2HwPnlL403PomZYlx8SHQs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/2MCRPbiKo2AmcBduhTrUqI"
     },
     {
       "album": {
@@ -1366,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Hummingbirds",
+        "url": "https://open.spotify.com/album/6Y8ZwQynXvimAfa6r1qZdp"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Lola",
+          "url": "https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136046,
+      "name": "Hummingbirds",
+      "url": "https://open.spotify.com/track/2810NQ7JzSiWNnw4FR2wcG"
+    },
+    {
+      "album": {
         "name": "H\u00fcgel des Nordens",
         "url": "https://open.spotify.com/album/01C4mq3tGQZVG5kUMUHVhn"
       },
@@ -1615,6 +1756,24 @@
       "duration_ms": 170000,
       "name": "In A Slow Moment",
       "url": "https://open.spotify.com/track/6tHQxrvxKbZAr2E0wEoX87"
+    },
+    {
+      "album": {
+        "name": "In Daisies Lain",
+        "url": "https://open.spotify.com/album/48Ry8I2qQ5R6wyMfVQMjwf"
+      },
+      "artists": [
+        {
+          "name": "Georg Gardner",
+          "url": "https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141515,
+      "name": "In Daisies Lain",
+      "url": "https://open.spotify.com/track/5cfyGiPqoeKsIGgnmj6Hvq"
     },
     {
       "album": {
@@ -2266,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "Ocean View",
+        "url": "https://open.spotify.com/album/1IWqrzNu8FNPasLEbQgojS"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Ocean View",
+      "url": "https://open.spotify.com/track/5pBeteeE2OuxTCkPbykuhb"
+    },
+    {
+      "album": {
         "name": "Andorra",
         "url": "https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e"
       },
@@ -2461,6 +2638,24 @@
       "duration_ms": 138878,
       "name": "Pegasi",
       "url": "https://open.spotify.com/track/1j1LCMYDvPMho2uWB5qdUg"
+    },
+    {
+      "album": {
+        "name": "Pipes Canyon",
+        "url": "https://open.spotify.com/album/0b4jMAmrxMk9MxLsKvB4ko"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "Pipes Canyon",
+      "url": "https://open.spotify.com/track/10QnuxhWxXnQfDIFfpTTra"
     },
     {
       "album": {
@@ -2875,6 +3070,24 @@
       "duration_ms": 113780,
       "name": "Sky",
       "url": "https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7"
+    },
+    {
+      "album": {
+        "name": "Soft Echoes",
+        "url": "https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV"
+      },
+      "artists": [
+        {
+          "name": "Colin Weary",
+          "url": "https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207412,
+      "name": "Soft Echoes",
+      "url": "https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo"
     },
     {
       "album": {
@@ -3436,6 +3649,24 @@
     },
     {
       "album": {
+        "name": "Until Eternity",
+        "url": "https://open.spotify.com/album/1N1czqs5ixWciPe4b6f8VO"
+      },
+      "artists": [
+        {
+          "name": "Serilda Bell",
+          "url": "https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121710,
+      "name": "Until Eternity",
+      "url": "https://open.spotify.com/track/0Ln2XQp3zJpRsAqDvTJhgA"
+    },
+    {
+      "album": {
         "name": "Untroubled by a Rainy Day",
         "url": "https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR"
       },
@@ -3562,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Walking In Your Shoes",
+        "url": "https://open.spotify.com/album/4CABL5ysMBfQTcDDM9Updm"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130787,
+      "name": "Walking In Your Shoes",
+      "url": "https://open.spotify.com/track/2rzB7UPdvMTfedZzHmDA5v"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/00016y6rEQmuv4JGNL6w4c"
       },
@@ -3577,6 +3826,24 @@
       "duration_ms": 177789,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1fCos6izL2keCsoAtj30Kk"
+    },
+    {
+      "album": {
+        "name": "Weary Traveler",
+        "url": "https://open.spotify.com/album/0uP3ptU1wLEBiIH6qpWoP9"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "Weary Traveler",
+      "url": "https://open.spotify.com/track/7gLCSVhUt9CNBoCqNRas4R"
     },
     {
       "album": {

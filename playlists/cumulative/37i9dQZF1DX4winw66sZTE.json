@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-23",
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -469,7 +468,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 189410,
       "name": "Don't Know You",
       "url": "https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg"
@@ -599,7 +598,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 225373,
       "name": "FIRE",
       "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
@@ -1057,7 +1056,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 217835,
       "name": "Loner",
       "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
@@ -1097,6 +1096,24 @@
       "duration_ms": 233986,
       "name": "LUCIFER",
       "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
+    },
+    {
+      "album": {
+        "name": "Lupin",
+        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "Lupin",
+      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
     },
     {
       "album": {
@@ -1486,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "The Wonder Years",
+        "url": "https://open.spotify.com/album/0UNkEtrX0bVpMqzvclY0oD"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Tell me (Sampling From `Two Of Hearts`)",
+      "url": "https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl"
+    },
+    {
+      "album": {
         "name": "NCT 2018 EMPATHY",
         "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
       },
@@ -1793,6 +1828,24 @@
       "duration_ms": 198008,
       "name": "\ub2e4\ub978 \ub0a8\uc790 \ub9d0\uace0 \ub108 Only You",
       "url": "https://open.spotify.com/track/09CAOGrMHucCFL64TYGJ7H"
+    },
+    {
+      "album": {
+        "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
+        "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239186,
+      "name": "\ubbf8\uc778\uc544 Bonamana",
+      "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
     },
     {
       "album": {

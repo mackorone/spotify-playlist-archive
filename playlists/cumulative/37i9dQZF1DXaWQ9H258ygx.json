@@ -2,8 +2,29 @@
   "date_first_scraped": "2022-10-04",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
   "name": "Keith Power's Taste",
-  "published_playlist_ids": [],
   "tracks": [
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234284,
+      "name": "Babylon (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6Aj2H0Z0v0JgnSfPEwCgW0"
+    },
     {
       "album": {
         "name": "No Love Lost",
@@ -341,10 +362,28 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 224629,
       "name": "Kody Blu 31",
       "url": "https://open.spotify.com/track/4iMzpYxUO5RiZkGmNKRCMh"
+    },
+    {
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224629,
+      "name": "Kody Blu 31",
+      "url": "https://open.spotify.com/track/6ZGoFntcQUWTPGGQPQmecY"
     },
     {
       "album": {
@@ -417,7 +456,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 227654,
       "name": "Lens",
       "url": "https://open.spotify.com/track/371H6HjS4SXGbQ9IVfFUIL"
@@ -591,7 +630,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 220133,
       "name": "Retrograde (feat. 6LACK & Lucky Daye)",
       "url": "https://open.spotify.com/track/3v5WRAItrZgr5vCdW3vTmz"
@@ -752,8 +791,44 @@
     },
     {
       "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/6UKb1qcw5jqmoVeln2i3ZL"
+    },
+    {
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/4QTfWxMZjLRhQ9zxomi4t4"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/46Mk1NVIpCcRIAXY92mWAW"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
         {
@@ -766,7 +841,7 @@
       "date_removed": null,
       "duration_ms": 267384,
       "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/46Mk1NVIpCcRIAXY92mWAW"
+      "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
     },
     {
       "album": {

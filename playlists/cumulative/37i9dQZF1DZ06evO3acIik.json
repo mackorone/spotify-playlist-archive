@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
   "name": "This Is Montell Fish",
-  "published_playlist_ids": [
-    "7KOOkYyd9ZT4DmcehRF0as"
-  ],
   "tracks": [
     {
       "album": {
@@ -472,6 +469,24 @@
     },
     {
       "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/2JxPgHghyuG0SKNy8htBWg"
+    },
+    {
+      "album": {
         "name": "Exscape",
         "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
       },
@@ -483,7 +498,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 142285,
       "name": "Exscape",
       "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"

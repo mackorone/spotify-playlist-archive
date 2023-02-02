@@ -4,7 +4,7 @@
 
 > Top of the top tracks in K\-Pop Daebak playlist this year! Cover: ITZY
 
-83 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/1vgxxlz4oe5ojdJ3LtAQT7)
+83 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

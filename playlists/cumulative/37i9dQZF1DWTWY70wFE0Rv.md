@@ -4,7 +4,7 @@
 
 > This playlist is a soundtrack for you to live your best life, to experience the best love you will ever have, to remember that in the moments where things feel hard, hard times don't last forever\. With Love, <a href="https://www.theokraproject.com/">The Okra Project</a> \| Cover: Dominique Morgan
 
-50 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/3Gf6ys8rN3kfNRvU11Rtik)
+51 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Brokenhearted](https://open.spotify.com/track/3zeyP0JnzXEx3uZLmpOdtP) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 5:52 | 2022-03-08 |  |
 | [Can't Raise a Man](https://open.spotify.com/track/0vvKyFjX1hzSwpNtVwnJ2H) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Rebellious Soul](https://open.spotify.com/album/6fGZwUN91Qe5h8xFcLV487) | 3:28 | 2022-03-08 |  |
 | [Catch This Love](https://open.spotify.com/track/6srcAu7CPT2h2ePrCEm42q) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [Catch This Love](https://open.spotify.com/album/31BvJJpjUx5g8GjRgU8xQa) | 2:18 | 2022-03-08 |  |
-| [Dive](https://open.spotify.com/track/6qCJs5tpKRER18Ev4s7KGA) | [Asanni Armon](https://open.spotify.com/artist/2c4SvUMW4DTtQL6o3XAT2W), [Doug Thee Savage](https://open.spotify.com/artist/5qg3wWsQAz1oQ7iYiiMp2v), [PHARAOH RAPTURE](https://open.spotify.com/artist/21AxhVOZ35gW0kQxVzrd6z), [s.e.r](https://open.spotify.com/artist/03iO7GSdDJazWl7NBWBbDp), [Saint Justina](https://open.spotify.com/artist/3i9wTTVlckchlRby1LDBOK) | [Dive](https://open.spotify.com/album/7L4gV9Og1WCJDQFFA7f8yw) | 4:09 | 2022-03-08 |  |
+| [Dive](https://open.spotify.com/track/0S6N1NfZ7CNYDgTlqYr5A9) | [Asanni Armon](https://open.spotify.com/artist/2c4SvUMW4DTtQL6o3XAT2W), [Doug Thee Savage](https://open.spotify.com/artist/5qg3wWsQAz1oQ7iYiiMp2v), [PHARAOH RAPTURE](https://open.spotify.com/artist/5o1tQEJ0hOBlMQ0Ki6OBFS), [s.e.r](https://open.spotify.com/artist/03iO7GSdDJazWl7NBWBbDp), [Saint Justina](https://open.spotify.com/artist/1eZcVz4GXfA07vmA9ib2mI) | [Dive](https://open.spotify.com/album/0mVjKHAu5fOspH28mdaT2K) | 4:09 | 2022-03-08 |  |
+| [Dive](https://open.spotify.com/track/6qCJs5tpKRER18Ev4s7KGA) | [Asanni Armon](https://open.spotify.com/artist/2c4SvUMW4DTtQL6o3XAT2W), [Doug Thee Savage](https://open.spotify.com/artist/5qg3wWsQAz1oQ7iYiiMp2v), [PHARAOH RAPTURE](https://open.spotify.com/artist/21AxhVOZ35gW0kQxVzrd6z), [s.e.r](https://open.spotify.com/artist/03iO7GSdDJazWl7NBWBbDp), [Saint Justina](https://open.spotify.com/artist/3i9wTTVlckchlRby1LDBOK) | [Dive](https://open.spotify.com/album/7L4gV9Og1WCJDQFFA7f8yw) | 4:09 | 2022-03-08 | 2023-01-01 |
 | [Do You Feel](https://open.spotify.com/track/7vuEdoEGYqzfR1ooE8EhlE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End](https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW) | 7:36 | 2022-03-08 |  |
 | [Fierce \- Radio Edit](https://open.spotify.com/track/5A8495QB6sHlIWuzeimUvJ) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Angelica Ross](https://open.spotify.com/artist/7H13Gscov16YbLmMjQ0Xiu), [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [Fierce \(Radio Edit\)](https://open.spotify.com/album/4lP0dw0HBBfaSGD7u6mNQE) | 3:55 | 2022-03-08 |  |
 | [Fine Time](https://open.spotify.com/track/1ovXQ9GMVyoWOWOxRHM8GO) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 4:32 | 2022-03-08 |  |

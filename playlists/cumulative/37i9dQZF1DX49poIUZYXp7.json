@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The extraordinary women making great country music today. Cover: Mickey Guyton",
+  "description": "The extraordinary women making great country music today. Cover: Maren Morris",
   "name": "Women of Country",
-  "published_playlist_ids": [
-    "1lyekVvOZu5fLx1jMjH3fX"
-  ],
   "tracks": [
     {
       "album": {
@@ -271,7 +268,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 149332,
       "name": "Better On Me",
       "url": "https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p"
@@ -452,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Broken Hearts (Do Broken Things)",
+        "url": "https://open.spotify.com/album/1efm4LdXrob1poODgNBTDa"
+      },
+      "artists": [
+        {
+          "name": "Runaway June",
+          "url": "https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195326,
+      "name": "BROKEN HEARTS (DO BROKEN THINGS)",
+      "url": "https://open.spotify.com/track/3zZbFj2cV0lYyXLxaPXnFh"
+    },
+    {
+      "album": {
         "name": "Untamed",
         "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },
@@ -499,7 +514,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 206293,
       "name": "Buy My Own Drinks",
       "url": "https://open.spotify.com/track/3WBY2lhKzkxaG5bNscQrOG"
@@ -1159,10 +1174,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 187749,
       "name": "Fix You Too",
       "url": "https://open.spotify.com/track/2dOz227iHvVgTiVDVHOicN"
+    },
+    {
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187749,
+      "name": "Fix You Too",
+      "url": "https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA"
     },
     {
       "album": {
@@ -1195,7 +1228,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-03",
       "duration_ms": 190223,
       "name": "Footprints On The Moon",
       "url": "https://open.spotify.com/track/66mmgHMVELzJ95xzfeFL2r"
@@ -1581,10 +1614,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 224581,
       "name": "Hair Salon",
       "url": "https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG"
+    },
+    {
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224581,
+      "name": "Hair Salon",
+      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
     },
     {
       "album": {
@@ -2289,7 +2340,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 187373,
       "name": "I'm A Survivor",
       "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
@@ -2721,7 +2772,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 163531,
       "name": "LOVE IS A COWBOY",
       "url": "https://open.spotify.com/track/0syI1uKOPmjaRAdnpC1LUr"
@@ -2869,6 +2920,24 @@
       "duration_ms": 201322,
       "name": "Make It Past Georgia",
       "url": "https://open.spotify.com/track/7aRVF1U72PPCTJiSX2vRpd"
+    },
+    {
+      "album": {
+        "name": "Crashlanded",
+        "url": "https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165081,
+      "name": "Mama, Dolly, Jesus",
+      "url": "https://open.spotify.com/track/7zggetlqMBzNpdCM0mdfzS"
     },
     {
       "album": {
@@ -3089,7 +3158,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 187360,
       "name": "My Left Hand",
       "url": "https://open.spotify.com/track/4xvjIj6hR1HNv5G0ooi0CG"
@@ -3561,7 +3630,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 186094,
       "name": "Right On Time",
       "url": "https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX"
@@ -3669,7 +3738,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201653,
       "name": "Sayin' What I'm Thinkin'",
       "url": "https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79"
@@ -3766,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "Shoot Tequila",
+        "url": "https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193898,
+      "name": "Shoot Tequila",
+      "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
+    },
+    {
+      "album": {
         "name": "Should Have Known Better",
         "url": "https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c"
       },
@@ -3813,7 +3900,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-02-01",
       "duration_ms": 181183,
       "name": "Should\u2019ve Known Better",
       "url": "https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT"
@@ -3889,6 +3976,24 @@
       "duration_ms": 187121,
       "name": "Sister",
       "url": "https://open.spotify.com/track/39O2sUSkGz1fxBjihGRlve"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/79xHTzUrCaeUntHK1XqRyU"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214840,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/0SSBQdSqV7cE07R1k0auuJ"
     },
     {
       "album": {
@@ -4131,7 +4236,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 212666,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu"
@@ -4385,10 +4490,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
+    },
+    {
+      "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
     },
     {
       "album": {
@@ -5354,6 +5477,24 @@
     },
     {
       "album": {
+        "name": "you don't deserve a country song",
+        "url": "https://open.spotify.com/album/2bjwSohuICaxJuvKX9Fh0M"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "you don't deserve a country song",
+      "url": "https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS"
+    },
+    {
+      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -5409,7 +5550,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 157290,
       "name": "Your Momma Still Does",
       "url": "https://open.spotify.com/track/0F7Kxrd27Q1jYhnKVoWnUa"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
   "name": "Ballads International",
-  "published_playlist_ids": [
-    "1ZTU8Dt8vxdmkmh5cekOqK"
-  ],
   "tracks": [
     {
       "album": {
@@ -107,7 +104,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 218673,
       "name": "17h",
       "url": "https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu"
@@ -251,7 +248,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 205520,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep"
@@ -845,10 +842,28 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 157186,
       "name": "criminal",
       "url": "https://open.spotify.com/track/311s3ffZ2YnoB5jCcUOgiN"
+    },
+    {
+      "album": {
+        "name": "criminal",
+        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157186,
+      "name": "criminal",
+      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
     },
     {
       "album": {
@@ -1173,7 +1188,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 268426,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
@@ -2243,6 +2258,24 @@
     {
       "album": {
         "name": "Malay Mo, Tayo",
+        "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274291,
+      "name": "Malay Mo",
+      "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
+    },
+    {
+      "album": {
+        "name": "Malay Mo, Tayo",
         "url": "https://open.spotify.com/album/401eCisGwwn6mkEi5A21Iw"
       },
       "artists": [
@@ -2253,7 +2286,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 274291,
       "name": "Malay Mo, Tayo",
       "url": "https://open.spotify.com/track/0cMcFcm3YvB8o1yKkYNv0a"
@@ -2579,10 +2612,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
+    },
+    {
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173021,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
     },
     {
       "album": {
@@ -2713,7 +2768,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 243504,
       "name": "Pindirai",
       "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
@@ -2947,7 +3002,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 186915,
       "name": "Sikasih",
       "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
@@ -3027,7 +3082,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
@@ -3525,7 +3580,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 145301,
       "name": "Tum Jaisi Ho",
       "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
@@ -3818,6 +3873,24 @@
     },
     {
       "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
+      },
+      "artists": [
+        {
+          "name": "Julie Anne San Jose",
+          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223546,
+      "name": "Your Song (My One and Only You)",
+      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
+    },
+    {
+      "album": {
         "name": "Your Song (My One and Only You)",
         "url": "https://open.spotify.com/album/3mNbu0ZXCMNFS6308EQ4qU"
       },
@@ -3829,7 +3902,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 222533,
       "name": "Your Song - My One and Only You",
       "url": "https://open.spotify.com/track/311a0P87ZiMjjCaoQSZEfh"
@@ -4029,10 +4102,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 202755,
       "name": "\u0421\u0430\u043b\u044e\u0442, \u0412\u0435\u0440\u0430",
       "url": "https://open.spotify.com/track/4Fs5Rl03jVC7bIsAmiIsys"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0430\u043b\u044e\u0442, \u0412\u0435\u0440\u0430",
+        "url": "https://open.spotify.com/album/75MrdzzI1A1pUlbzKnSvVM"
+      },
+      "artists": [
+        {
+          "name": "Mona Songz",
+          "url": "https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202755,
+      "name": "\u0421\u0430\u043b\u044e\u0442, \u0412\u0435\u0440\u0430",
+      "url": "https://open.spotify.com/track/4MkpJLmeQX6D4ZMulyWxGO"
     },
     {
       "album": {
@@ -4167,6 +4258,24 @@
     {
       "album": {
         "name": "\u56a3\u5f20",
+        "url": "https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp"
+      },
+      "artists": [
+        {
+          "name": "en",
+          "url": "https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253994,
+      "name": "\u56a3\u5f20",
+      "url": "https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C"
+    },
+    {
+      "album": {
+        "name": "\u56a3\u5f20",
         "url": "https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw"
       },
       "artists": [
@@ -4195,7 +4304,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 253994,
       "name": "\u56a3\u5f20",
       "url": "https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv"

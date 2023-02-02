@@ -4,7 +4,7 @@
 
 > Enjoy M.Net's dance battle show Street Dance Girls Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿댄스 걸스 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-43 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/47RuOfSLUImp6TQPHwDiwX)
+44 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [\(The Legend Of\) Miss Baltimore Crabs](https://open.spotify.com/track/2q9aC39U5yGWK5bZ2WyfBP) | [Michelle Pfeiffer](https://open.spotify.com/artist/6nKfpz5OosWfOp3CnY0kvy), [Motion Picture Cast of Hairspray](https://open.spotify.com/artist/1TWItH0fGVAaHbNiIyFjcP) | [Hairspray \(Soundtrack To The Motion Picture\)](https://open.spotify.com/album/01K49LryuXVxdy52dD3zd1) | 4:07 | 2022-01-14 |  |
 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 | 2022-01-14 |  |
 | [At ease](https://open.spotify.com/track/5JewgPuqclOSQ24QWH4czD) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:29 | 2022-01-14 |  |
-| [Autobahn](https://open.spotify.com/track/3nZmmlE1Fm6FLGDExRimAi) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:17 | 2022-01-14 |  |
+| [Autobahn](https://open.spotify.com/track/3nZmmlE1Fm6FLGDExRimAi) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:17 | 2022-01-14 |  |
 | [Autobahn](https://open.spotify.com/track/6tXdZhb2h63rv7EcSo5qKY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/1tS3m75eaIrnhic359uVcY) | 3:17 | 2022-01-14 | 2022-07-29 |
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2022-01-14 |  |
 | [Bada Boom \(With MISMOLLY, TURNS\)](https://open.spotify.com/track/7010GzT5bbMuQ4fWTMbpKz) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 2:56 | 2022-01-14 |  |
@@ -40,7 +40,8 @@
 | [Mirror Mirror](https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Changbin of Stray Kids](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [Mirror Mirror](https://open.spotify.com/album/3R5wfZr723i5qfyPCAuUnS) | 3:52 | 2022-01-14 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2022-01-14 |  |
 | [NO BREAK \(Prod\. GooseBumps & Simon Dominic\)](https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L) | [HolyBang](https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:19 | 2022-01-14 |  |
-| [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 | 2022-01-14 |  |
+| [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 | 2022-01-14 | 2022-12-14 |
+| [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 | 2022-01-14 |  |
 | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/track/1K7WzjKDcDdVbKNGrB0gej) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Rave de Favela \(feat\. BEAM\)](https://open.spotify.com/album/6A0SAv8tSkXHGzIlgFIhSy) | 2:34 | 2022-01-14 |  |
 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 | 2022-01-14 |  |
 | [ROCKET](https://open.spotify.com/track/0xhBYNgmGLJEyvfObiwAhq) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 3:11 | 2022-01-14 |  |

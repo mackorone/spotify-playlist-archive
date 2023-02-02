@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/karencivil/?hl=en\">Karen Civil</a>",
   "name": "Karen Civil's Taste",
-  "published_playlist_ids": [
-    "3tO2vNLNfXt7eLeo6EtxcD"
-  ],
   "tracks": [
     {
       "album": {
@@ -839,7 +836,7 @@
     {
       "album": {
         "name": "SEPT 5TH",
-        "url": "https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc"
+        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
       },
       "artists": [
         {
@@ -850,6 +847,24 @@
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200223,
+      "name": "Too Deep",
+      "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
+    },
+    {
+      "album": {
+        "name": "SEPT 5TH",
+        "url": "https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
       "duration_ms": 200223,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/3uSSjnDMmoyERaAK9KvpJR"

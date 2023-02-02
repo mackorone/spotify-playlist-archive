@@ -4,7 +4,7 @@
 
 > Relaxing music and sounds for sleeping.
 
-256 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/5rgh2vQqq4FwzvlZrwNuEX)
+256 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Music from that amazing era\. Cover: Teddy Riley
 
-72 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/3LLczNPMEh351FaOO7FDDn)
+72 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

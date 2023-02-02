@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Hx1xrkC8KHm5UrNq9oCWi">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-78 songs - 4 hr 16 min - not published yet
+79 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Eyes On You](https://open.spotify.com/track/0T3lAx5TMBRO9CkYDO1A2L) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Find Myself](https://open.spotify.com/album/22VKkGoe1Hjza2kTIM3sR7) | 3:53 | 2022-11-11 |  |
 | [falling up](https://open.spotify.com/track/7mZGZjiVK1buBSwRhOEnpN) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:57 | 2022-11-11 |  |
 | [Find Myself](https://open.spotify.com/track/3wyv3pKlVxP7dmUgIrQOU9) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Find Myself](https://open.spotify.com/album/22VKkGoe1Hjza2kTIM3sR7) | 3:32 | 2022-11-11 |  |
-| [Focus](https://open.spotify.com/track/3TIaRAllPFMEfwVoY6ue4l) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK) | 3:47 | 2022-11-11 |  |
+| [Focus](https://open.spotify.com/track/3TIaRAllPFMEfwVoY6ue4l) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK) | 3:47 | 2022-11-11 | 2022-12-02 |
+| [Focus](https://open.spotify.com/track/4rJdWYYtB15dqizbumex4a) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:47 | 2022-12-01 |  |
 | [Fuck It Tho](https://open.spotify.com/track/3P1LCtIyz5HH8ZmIv80qe3) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Unbound 02](https://open.spotify.com/album/7vjgXhtKKst7WM0YAvkll5) | 3:14 | 2022-11-11 |  |
 | [Gone](https://open.spotify.com/track/1dHhX4kzzge5XYRL6S2L6q) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:50 | 2022-11-11 |  |
 | [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 | 2022-11-11 |  |

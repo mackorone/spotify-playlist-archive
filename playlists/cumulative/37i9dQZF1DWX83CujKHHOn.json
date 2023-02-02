@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
   "name": "Alone Again",
-  "published_playlist_ids": [
-    "4TuqprRvF3pWyUXfGA1jsb"
-  ],
   "tracks": [
     {
       "album": {
@@ -1087,7 +1084,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 227076,
       "name": "Darling",
       "url": "https://open.spotify.com/track/55Fs8h2Ui6YQZEFNaM7MdC"
@@ -2064,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -2097,7 +2112,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 137532,
       "name": "i hate you for this",
       "url": "https://open.spotify.com/track/4pVqrsykRGIyicylgR2gIx"
@@ -2495,7 +2510,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 181490,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/2DEuwLFHWl96sJWf2CavPS"
@@ -2885,7 +2900,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 185440,
       "name": "like that",
       "url": "https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v"
@@ -2939,7 +2954,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 235800,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1UGMu0Tf5nmKoYIPPztbQQ"
@@ -3033,7 +3048,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 186463,
       "name": "Lose You Too",
       "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
@@ -3297,6 +3312,24 @@
       "duration_ms": 204000,
       "name": "Love You From a Distance",
       "url": "https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7"
+    },
+    {
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162732,
+      "name": "Make It To Me",
+      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
     },
     {
       "album": {
@@ -4163,7 +4196,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 181408,
       "name": "Say It Again - Acoustic",
       "url": "https://open.spotify.com/track/7puldW6ecGUcM3Vau6U0SD"
@@ -4315,6 +4348,24 @@
       "duration_ms": 221170,
       "name": "Since U Been Gone - Acoustic Version",
       "url": "https://open.spotify.com/track/4iObEYRE4FLm0D90gmZFef"
+    },
+    {
+      "album": {
+        "name": "Skeleton Key",
+        "url": "https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q"
+      },
+      "artists": [
+        {
+          "name": "Hunter Daily",
+          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 179106,
+      "name": "Skeleton Key",
+      "url": "https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu"
     },
     {
       "album": {
@@ -4505,15 +4556,11 @@
         {
           "name": "Kurt Hugo Schneider",
           "url": "https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm"
-        },
-        {
-          "name": "Yoandri",
-          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
         }
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-08",
       "duration_ms": 162272,
       "name": "Someone You Loved - Acoustic",
       "url": "https://open.spotify.com/track/7iSool3PmS50F5St2bhmTU"
@@ -4613,7 +4660,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240706,
-      "name": "Stay - Album Version (Edited)",
+      "name": "Stay",
       "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
     },
     {
@@ -5274,6 +5321,24 @@
     },
     {
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223043,
+      "name": "Too Much To Ask",
+      "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
+    },
+    {
+      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -5451,6 +5516,24 @@
       "duration_ms": 184213,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5tajmvqHF6YW1iiUFzKpCB"
+    },
+    {
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177523,
+      "name": "watch",
+      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
     },
     {
       "album": {
@@ -5755,6 +5838,24 @@
       "duration_ms": 211413,
       "name": "Why Don't You Love Me (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/0cEBv7oJxFp3bfTFqWFI0R"
+    },
+    {
+      "album": {
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
     },
     {
       "album": {

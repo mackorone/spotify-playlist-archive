@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Relax to these mellow cello melodies.",
   "name": "Mellow Cello",
-  "published_playlist_ids": [
-    "5QP85XJ5BkoMn5QWDijTgf"
-  ],
   "tracks": [
     {
       "album": {
@@ -1270,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Santosha",
+        "url": "https://open.spotify.com/album/0i7YAD1BjzmuSWhrG6aex8"
+      },
+      "artists": [
+        {
+          "name": "Challem",
+          "url": "https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223538,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/0APlwe0ewwMipyVg3WkEI3"
+    },
+    {
+      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/6EmPU6EqoBE5TLEZoAytYY"
       },
@@ -1281,10 +1296,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 223538,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3iuInbK0VFSFLv3fts8IcI"
+    },
+    {
+      "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/2if8mACHves2Fw1Pv3qC0k"
+      },
+      "artists": [
+        {
+          "name": "Challem",
+          "url": "https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 223538,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6ETiqLUzBgn8dvNmCYjpoG"
     },
     {
       "album": {
@@ -1422,7 +1455,7 @@
     },
     {
       "album": {
-        "name": "Schubert: Im Abendrot, D. 799 (Version for Cello and Piano) [Musical Moments]",
+        "name": "Schubert: Im Abendrot, D. 799 (Transcr. for Cello and Piano) [Musical Moments]",
         "url": "https://open.spotify.com/album/2HPzeJ3WJiYZfXs5UE3B7P"
       },
       "artists": [
@@ -1443,7 +1476,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 262413,
-      "name": "Im Abendrot, D. 799 (Version for Cello and Piano) - Musical Moments",
+      "name": "Im Abendrot, D. 799 (Transcr. for Cello and Piano) - Musical Moments",
       "url": "https://open.spotify.com/track/3ZJTnugRytfjlvOdhdWOiS"
     },
     {
@@ -1762,36 +1795,6 @@
     },
     {
       "album": {
-        "name": "Cello Moods",
-        "url": "https://open.spotify.com/album/7i83TEHhrYpSdiemOVqajE"
-      },
-      "artists": [
-        {
-          "name": "Jules Massenet",
-          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
-        },
-        {
-          "name": "Julian Lloyd Webber",
-          "url": "https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "James Judd",
-          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
-        }
-      ],
-      "date_added": "2022-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 293000,
-      "name": "M\u00e9ditation de Tha\u00efs",
-      "url": "https://open.spotify.com/track/1OifapAqjUL6WOMEF4D7Qj"
-    },
-    {
-      "album": {
         "name": "Exam Revision Music",
         "url": "https://open.spotify.com/album/79K0Fd1UcNcBVIlblPrhz1"
       },
@@ -1819,6 +1822,36 @@
       "duration_ms": 293000,
       "name": "M\u00e9ditation de Tha\u00efs",
       "url": "https://open.spotify.com/track/6L6SaD6eTvVIaRG67e4pm0"
+    },
+    {
+      "album": {
+        "name": "Cello Moods",
+        "url": "https://open.spotify.com/album/7i83TEHhrYpSdiemOVqajE"
+      },
+      "artists": [
+        {
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        {
+          "name": "Julian Lloyd Webber",
+          "url": "https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "James Judd",
+          "url": "https://open.spotify.com/artist/3bRgHXc5F81fdXrdh5jpz5"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "M\u00e9ditation de Tha\u00efs (Arr. Cullen for Cello and Orchestra)",
+      "url": "https://open.spotify.com/track/1OifapAqjUL6WOMEF4D7Qj"
     },
     {
       "album": {
@@ -2359,7 +2392,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240000,
-      "name": "R\u00eaverie, L. 68",
+      "name": "R\u00eaverie, CD 76 (Arr. Cullen for Cello and Orchestra)",
       "url": "https://open.spotify.com/track/0wgqbmYhQyoL2TXGzQEg4k"
     },
     {
@@ -3171,7 +3204,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 359266,
       "name": "Vocalise, Op 34, No. 14",
       "url": "https://open.spotify.com/track/1NVmE91Q7SnrjcjCuJfbdr"
@@ -3197,7 +3230,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 359266,
       "name": "Vocalise, Op 34, No. 14",
       "url": "https://open.spotify.com/track/4uJgG0wWIWtrChWI85YuPH"

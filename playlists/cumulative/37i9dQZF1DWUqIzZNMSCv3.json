@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Relaxing classical piano.",
   "name": "Classical Piano",
-  "published_playlist_ids": [
-    "2E2RyBcBkqOG7RVx0sFU7t"
-  ],
   "tracks": [
     {
       "album": {
@@ -553,7 +550,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272133,
       "name": "Deux Arabesques, L66: No. 1: Andantino con moto",
       "url": "https://open.spotify.com/track/6VnSkysUFuLEayG0LIQlVF"
@@ -575,7 +572,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 272133,
       "name": "Deux Arabesques, L66: No. 1: Andantino con moto",
       "url": "https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n"
@@ -1361,10 +1358,32 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 284013,
       "name": "Schubert: Piano Sonata No. 14 in A Minor, Op. posth. 143, D. 784 \"Grande Sonate\": II. Andante",
       "url": "https://open.spotify.com/track/0igQOjlKECAEjXsKM5Y8dl"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Sonatas D. 784 & 959",
+        "url": "https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Eric Lu",
+          "url": "https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284013,
+      "name": "Schubert: Piano Sonata No. 14 in A Minor, Op. posth. 143, D. 784 \"Grande Sonate\": II. Andante",
+      "url": "https://open.spotify.com/track/6HbZbPPi4uFNtb4iZYfzzP"
     },
     {
       "album": {

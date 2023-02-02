@@ -4,7 +4,7 @@
 
 > ONLY LOVERS LEFT ALIVE will be in cinemas from 21st February\. The soundtrack will be available from 17th February.
 
-11 songs - 56 min 55 sec - [published](https://open.spotify.com/playlist/24YM0QpNiPH5EAhdC4f4Ry)
+11 songs - 56 min 55 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

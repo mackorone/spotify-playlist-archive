@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 
 > The perfect soundtrack for when you're having fun in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

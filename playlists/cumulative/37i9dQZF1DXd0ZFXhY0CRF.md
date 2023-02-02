@@ -4,7 +4,7 @@
 
 > These women rock our worlds with their music and influence\. Cover: Alanis Morissette
 
-174 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/4puxHH16U8QMCFkFLBLCLa)
+174 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,8 +148,8 @@
 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 | 2022-03-08 |  |
 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 | 2020-03-24 | 2022-07-29 |
 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2020-03-24 |  |
-| [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2022-03-08 | 2022-11-16 |
-| [Still into You](https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:36 | 2022-03-08 |  |
+| [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2022-03-08 |  |
+| [Still into You](https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:36 | 2022-03-08 | 2022-12-30 |
 | [Strange Things Happening Every Day](https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:47 | 2022-03-08 |  |
 | [Stuck](https://open.spotify.com/track/0x8VeSHmhbRl9EUAdsEx6A) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I Don't Like Being Honest](https://open.spotify.com/album/5kZtMQfFg0BMibHRGi6ghX) | 3:26 | 2020-03-11 |  |
 | [Stuck](https://open.spotify.com/track/7wRXGqMQpTacDEGbJDg8tw) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Stuck](https://open.spotify.com/album/0ij5wkWYJKSxVzROOPRzdU) | 3:26 | 2020-03-11 | 2022-07-29 |

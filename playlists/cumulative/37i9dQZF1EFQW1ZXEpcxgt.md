@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6S5xTXudxisQUeWkyU4H74">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/20FGvaxINrxgnRyxmNTUGJ)
+111 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Everywhere](https://open.spotify.com/track/2NRpuYVJPYhxC8xyutxkoL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:48 | 2022-06-04 |  |
 | [Fire](https://open.spotify.com/track/11fPH8NoSw15IG5hWk5zLL) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:22 | 2022-06-04 |  |
 | [Fly](https://open.spotify.com/track/0PvbgBKA1ZMsTNrd8QVlCi) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Spies in Disguise](https://open.spotify.com/artist/6KvlPV9ixIAotRrbKHWZPl) | [Fly](https://open.spotify.com/album/3Shvkj36f9cbFZOQe9Dc0K) | 2:43 | 2022-06-04 |  |
-| [Forget Forever \- ST£FAN Remix](https://open.spotify.com/track/7EO3dPoidji4aCBvfcftYF) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [For You EP](https://open.spotify.com/album/1Um6gMP04VQ0rGegUyXthT) | 3:46 | 2022-06-04 |  |
+| [Forget Forever](https://open.spotify.com/track/7D39d96OheT62fgxoGaElz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 4:11 | 2023-01-06 |  |
+| [Forget Forever \- ST£FAN Remix](https://open.spotify.com/track/7EO3dPoidji4aCBvfcftYF) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [For You EP](https://open.spotify.com/album/1Um6gMP04VQ0rGegUyXthT) | 3:46 | 2022-06-04 | 2023-01-07 |
 | [Fun \(feat\. Chris Brown\)](https://open.spotify.com/track/6Zo3wgDE076K2AuiGZF3CS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:22 | 2022-06-04 |  |
 | [Gang Up \(with Young Thug, 2 Chainz & Wiz Khalifa feat\. PnB Rock\)](https://open.spotify.com/track/5PfTI3zrQbZEWcQdycMqJM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Gang Up \(with Young Thug, 2 Chainz & Wiz Khalifa feat\. PnB Rock\)](https://open.spotify.com/album/4RTL2dk2qeQL5Udhatt73n) | 3:51 | 2022-06-04 |  |
 | [Ghost](https://open.spotify.com/track/3w9uPtA4j0t4dkylvd2Fea) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Travel](https://open.spotify.com/album/2UAXbkVAmerFPsznkDKnmG) | 2:56 | 2022-06-04 |  |

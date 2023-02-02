@@ -2,9 +2,9 @@
 
 ### [90's Alt Rock](https://open.spotify.com/playlist/65mTEy33PMBRsfVtpwexlc)
 
-> Grab your hair gel and let's slide back to the 90's Alt Rock scene! Cover: Depeche Mode
+> Best of 90s alternative rock music including iconic throwback alt rock songs from Blur, Depeche Mode, The Goo Goo Dolls, and more!
 
-83 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/24JwVIN24HR2XePMfwWc4Y)
+83 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

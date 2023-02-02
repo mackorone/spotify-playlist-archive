@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
   "name": "The Wind Down",
-  "published_playlist_ids": [
-    "6sRs5ZXRX0XP3quUNYTpL5"
-  ],
   "tracks": [
     {
       "album": {
@@ -206,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Daniel Aged",
+        "url": "https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aged",
+          "url": "https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275500,
+      "name": "Bh",
+      "url": "https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ"
+    },
+    {
+      "album": {
         "name": "Birds",
         "url": "https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T"
       },
@@ -343,7 +358,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 230000,
       "name": "Caves Lit by Flame",
       "url": "https://open.spotify.com/track/6uksFpENKduAMBgTetGBF5"
@@ -455,7 +470,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/3NLm801woJocONz1NmPJZR"
@@ -665,7 +680,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 420000,
       "name": "El Azul del Cielo - Mente Org\u00e1nica Remix",
       "url": "https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm"
@@ -763,7 +778,7 @@
     {
       "album": {
         "name": "Imagine Gold",
-        "url": "https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm"
+        "url": "https://open.spotify.com/album/57zYxVdmLfWbqxI1r7MbWo"
       },
       "artists": [
         {
@@ -774,6 +789,24 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 279360,
+      "name": "Fires",
+      "url": "https://open.spotify.com/track/0uCYDUL5xO9cdnj0L8Q6vv"
+    },
+    {
+      "album": {
+        "name": "Imagine Gold",
+        "url": "https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
       "duration_ms": 279360,
       "name": "Fires",
       "url": "https://open.spotify.com/track/3J29rY1I9u0gNsvHq1cgUk"
@@ -1027,7 +1060,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8"
@@ -1787,6 +1820,24 @@
       "duration_ms": 255466,
       "name": "Tottertot",
       "url": "https://open.spotify.com/track/3TiZvtDtyzmTILrzViENjk"
+    },
+    {
+      "album": {
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "Tottertot",
+      "url": "https://open.spotify.com/track/5QILwMbxfKKlyRlRzd3afx"
     },
     {
       "album": {

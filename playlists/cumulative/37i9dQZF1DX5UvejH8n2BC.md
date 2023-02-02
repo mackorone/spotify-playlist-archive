@@ -4,7 +4,7 @@
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-35 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/1sZQDeKb0fSNEWBSFcVUJi)
+35 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Breaking and Entering \- 12" Version](https://open.spotify.com/track/7EeTRmNCoGhvN1CM3qbMOu) | [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK), [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [David Todd](https://open.spotify.com/artist/5OYReAyrBw6qS3vOtMCaZA) | [The Women of Philadelphia International Records \- The Remixes](https://open.spotify.com/album/0Zhm6kMdeBa2iv48QhnYSu) | 7:00 | 2022-03-03 |  |
 | [Closer Than Close](https://open.spotify.com/track/1l96x4p9UmYJSLBiyhMsAI) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Closer Than Close](https://open.spotify.com/album/22nMe2qIFJb85ac51jkn0P) | 5:56 | 2022-03-03 |  |
 | [Dirty Ol' Man](https://open.spotify.com/track/2svNxzjcNhy1U9JhaxAaQa) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 4:35 | 2022-03-03 |  |
-| [Disco Dancer](https://open.spotify.com/track/00uxI8BWoA3p7ikapcnEzd) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 7:21 | 2022-03-03 |  |
+| [Disco Dancer](https://open.spotify.com/track/00uxI8BWoA3p7ikapcnEzd) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 7:21 | 2022-03-03 | 2023-02-01 |
 | [Don't Let It Go to Your Head \- 12" Version](https://open.spotify.com/track/4nRiCBgh4dvI1fqv3f7rpw) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Happy To Be With You](https://open.spotify.com/album/36gLFOM5E6PELPukiJ4I0d) | 4:51 | 2022-03-03 |  |
 | [Free Love](https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:04 | 2022-03-03 |  |
 | [Getting Serious](https://open.spotify.com/track/08pTWZPpPcAZa4m0NM32jd) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 7:56 | 2022-03-03 |  |
@@ -26,7 +26,7 @@
 | [Love, Need and Want You](https://open.spotify.com/track/0t1MdYckZOtGVykowa6d95) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:58 | 2022-03-03 |  |
 | [Night People These Days](https://open.spotify.com/track/5QFF9FaSmMGrG56ldscScG) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 8:28 | 2022-03-03 | 2022-11-24 |
 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 | 2022-03-03 |  |
-| [No One Can Love You More](https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 4:23 | 2022-03-03 | 2022-11-22 |
+| [No One Can Love You More](https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 4:23 | 2022-03-03 |  |
 | [Nobody Could Take Your Place](https://open.spotify.com/track/4873dV93AQTyB57RMqbVUA) | [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK), [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [What Color Is Love](https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF) | 4:58 | 2022-03-03 |  |
 | [O\-o\-h Child](https://open.spotify.com/track/6oAsrBcTsceOwqH3uHuRzp) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 5:10 | 2022-03-03 |  |
 | [Old Friend](https://open.spotify.com/track/371pwLFOPkgWAgN4RkVcP4) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:51 | 2022-03-03 |  |
@@ -39,8 +39,8 @@
 | [What You Won't Do for Love](https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:02 | 2022-03-03 |  |
 | [When Will I See You Again](https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:58 | 2022-03-03 |  |
 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 | 2022-03-03 |  |
-| [Year Of Decision](https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:41 | 2022-03-03 |  |
-| [You Are My Friend](https://open.spotify.com/track/7sFyB4BNNfyIwB4CtWEBMh) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Patti Labelle \(Expanded Edition\)](https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u) | 4:36 | 2022-03-03 | 2022-11-01 |
+| [Year Of Decision](https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:41 | 2022-03-03 | 2023-02-01 |
+| [You Are My Friend](https://open.spotify.com/track/7sFyB4BNNfyIwB4CtWEBMh) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Patti Labelle \(Expanded Edition\)](https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u) | 4:36 | 2022-03-03 |  |
 | [You Gonna Make Me Love Somebody Else](https://open.spotify.com/track/7MRCd5tmZ2iURu4elcBsuH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:30 | 2022-03-03 |  |
 | [You Know How to Love Me \- 7" Version](https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:46 | 2022-03-03 |  |
 

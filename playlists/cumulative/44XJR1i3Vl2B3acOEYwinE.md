@@ -4,7 +4,7 @@
 
 > You know you love them...\. Get ready to sing like no one is listening to scores of timeless pop and rock power ballads.
 
-79 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/1fOFQiuVlT4zPxoV4HaqWF)
+79 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

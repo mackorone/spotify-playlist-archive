@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Selena y Jenni en un mismo lugar.
 
-58 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/1yp29JzIyqwCrXAjDlArdr)
+58 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,063 likes - 58 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,649 likes - 58 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 43 | [Laal Meri Pat](https://open.spotify.com/track/29UhqX83vWJ1jTRCmV3Ozy) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Akbar Ali](https://open.spotify.com/artist/7oI0MZCqPpPF8z4ThsDwHl), [Arieb Azhar](https://open.spotify.com/artist/1KjLKN1BFLWDWx6r8fWqdy) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 8:20 |
 | 44 | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/track/3mdWh20oySW08m75NxSC51) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF) | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/album/53Itk6l9qzgKvvTBopDjhi) | 7:12 |
 | 45 | [Shamaan Pai Gaiyaan / Kee Dam Da Bharosa \(Coke Studio Season 9\)](https://open.spotify.com/track/07YlxDz2MLAlvIP9rgjFiD) | [Rachel Viccaji](https://open.spotify.com/artist/79BYcJwv1Xid7f250YBhun), [Kashif Ali](https://open.spotify.com/artist/1yvFwbn2g2LzY6CuTbfANQ) | [Shamaan Pai Gaiyaan / Kee Dam Da Bharosa \(Coke Studio Season 9\)](https://open.spotify.com/album/3rxVe1gmtcRE3Y9hu1UJn7) | 6:30 |
-| 46 | [Lagi Bina / Chal Mele Noon Challiye](https://open.spotify.com/track/1LuLpzIUbHC400nO8XRs5t) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 8:12 |
+| 46 | [Lagi Bina/Chal Mele Noon Challiye](https://open.spotify.com/track/39GINZGDFwFP2jeKp0PSXK) | [Jaffer Zaidi](https://open.spotify.com/artist/2IDzlRhIDa3xEqXTrAE8ex), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q) | [Coke Studio Season 9 Episode 6](https://open.spotify.com/album/7K2eeaENGgn33dsHe2Hwmb) | 8:12 |
 | 47 | [Jaag Rahi](https://open.spotify.com/track/36pThMLl9NPkjd4V7kg6T9) | [Fariha Pervez](https://open.spotify.com/artist/5LwE32eXslmO2Ffb0sv0UQ), [Ali Noor](https://open.spotify.com/artist/1QHzQZO9zzSjv0yRRzgBPO) | [Jaag Rahi](https://open.spotify.com/album/6oPjmqELcDmWUkXTR5mgax) | 6:01 |
 | 48 | [Chaa Rahi Kali Ghata](https://open.spotify.com/track/78xcub4FzranFU5SmRPg8j) | [Hina Nasrullah](https://open.spotify.com/artist/6xLg3SN4UR6GC5aLO86jYm), [Amanat Ali](https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 7:38 |
 | 49 | [Ronay Na Diya](https://open.spotify.com/track/2RjyU8S6Goa2LMERIvfzhx) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Coke Studio Season 10 \- Episode 3](https://open.spotify.com/album/38RPDZ3avBF2kuw9K9SI3z) | 5:39 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 | 57 | [Daachi Waaliya](https://open.spotify.com/track/1uBcSRrHdMrTwLIoBYoUMi) | [Hadiqa Kiani](https://open.spotify.com/artist/63wazelWDcHlj6vxmpjR7H) | [Daachi Waaliya](https://open.spotify.com/album/73YNgJro1GEHAzecBWrPs2) | 8:02 |
 | 58 | [Pardesiya](https://open.spotify.com/track/4yiPORt9JZGtYlsd22p8So) | [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Pardesiya](https://open.spotify.com/album/699uRjiyL8W2TssLjLzT4s) | 8:42 |
 
-Snapshot ID: `MTY0NjY1OTUwMiwwMDAwMDAwMDExYTRiNWMwOTNhNmNlZTEwMjMyZjNiZGNlZDYxNGY0`
+Snapshot ID: `MTY0NjY1OTUwMiwwMDAwMDAwMGUxZjhlMGZhZDQ3OGY1YzMxNWVjYmRjNDhiZTMyM2U2`

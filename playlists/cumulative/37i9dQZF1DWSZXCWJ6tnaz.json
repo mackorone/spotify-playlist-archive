@@ -2,10 +2,29 @@
   "date_first_scraped": "2022-05-26",
   "description": "A safe space for reflecting and remembering. Soft, instrumental music to bring you comfort and strength. ",
   "name": "Reflection",
-  "published_playlist_ids": [
-    "795SCNBaIRC4NKBwTzfdNv"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Liszt Inspections",
+        "url": "https://open.spotify.com/album/0HOOCAPfWkh6e24UQLkok5"
+      },
+      "artists": [
+        {
+          "name": "Luciano Berio",
+          "url": "https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO"
+        },
+        {
+          "name": "Marino Formenti",
+          "url": "https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139653,
+      "name": "6 Encores for Piano (1965): No. 3, Wasserklavier",
+      "url": "https://open.spotify.com/track/0RnF44RV45by9HTtZuttgl"
+    },
     {
       "album": {
         "name": "LISZT INSPECTIONS",
@@ -19,7 +38,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 139653,
       "name": "6 Encores for Piano: No. 3, Wasserklavier",
       "url": "https://open.spotify.com/track/07tKTXpTwZhseOKcmzCv6D"

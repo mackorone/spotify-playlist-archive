@@ -1,0 +1,512 @@
+{
+  "date_first_scraped": "2022-12-24",
+  "description": "This is Linked Horizon. The essential tracks, all in one playlist.",
+  "name": "This Is Linked Horizon",
+  "tracks": [
+    {
+      "album": {
+        "name": "Shinjitsu eno Shingeki",
+        "url": "https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329982,
+      "name": "13 no Fuyu",
+      "url": "https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2"
+    },
+    {
+      "album": {
+        "name": "Rakuen Eno Shingeki",
+        "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240573,
+      "name": "Akatsuki no Requiem",
+      "url": "https://open.spotify.com/track/2vH8JFJKfkAgZs1GFlOzGh"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310680,
+      "name": "Guren no Yumiya",
+      "url": "https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U"
+    },
+    {
+      "album": {
+        "name": "Guren no Yumiya Tv Size Ver.",
+        "url": "https://open.spotify.com/album/28mxaeUdRq9Z2f0BnrY9WT"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94283,
+      "name": "Guren no Yumiya Tv Size Ver.",
+      "url": "https://open.spotify.com/track/6rsbsdiGDrYvhbb1K7ziTL"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306480,
+      "name": "Guren no Zahyou",
+      "url": "https://open.spotify.com/track/5CEBVy6ywqHcEOuFThtjEJ"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349693,
+      "name": "Jiyuu no Daishou",
+      "url": "https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331946,
+      "name": "Jiyuu no Tsubasa",
+      "url": "https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT"
+    },
+    {
+      "album": {
+        "name": "Rakuen Eno Shingeki",
+        "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313973,
+      "name": "Kakumei no Yoru ni",
+      "url": "https://open.spotify.com/track/56eJgVP1LcvbuYecQicpYf"
+    },
+    {
+      "album": {
+        "name": "Jiyuu Eno Shingeki",
+        "url": "https://open.spotify.com/album/3SbektNvHcTUH5uP2fpiUP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252640,
+      "name": "Moshi Kono Kabe No Naka Ga Ikken No Ie Datoshitara",
+      "url": "https://open.spotify.com/track/2nHjd0aNkPjP5MnA6kMwFm"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327040,
+      "name": "Nikagetsugo no Kimi e",
+      "url": "https://open.spotify.com/track/7IMuezAZparajKkgkCMalN"
+    },
+    {
+      "album": {
+        "name": "Seishun wa Hanabi no Youni",
+        "url": "https://open.spotify.com/album/6LyBed3rgD3tqdWnPUyacK"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93791,
+      "name": "Seishun wa Hanabi no Youni",
+      "url": "https://open.spotify.com/track/7rNCnPglDEZn7pboEo24gC"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341413,
+      "name": "Shinzo wo Sasageyo!",
+      "url": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
+    },
+    {
+      "album": {
+        "name": "Shinjitsu eno Shingeki",
+        "url": "https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276176,
+      "name": "Shoukei to Shikabane no Michi",
+      "url": "https://open.spotify.com/track/7lcTpZtdTyfiIgVIpmTVut"
+    },
+    {
+      "album": {
+        "name": "Rakuen Eno Shingeki",
+        "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236173,
+      "name": "Tasogare no Rakuen",
+      "url": "https://open.spotify.com/track/75S5vWZUfeTs1Bf6P6yXei"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 537213,
+      "name": "Theme of the Linked Horizon",
+      "url": "https://open.spotify.com/track/0Qit1wQs5mvD86LqnsBlGg"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 687298,
+      "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u7d00\u884c",
+      "url": "https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310386,
+      "name": "\u541b\u306f\u50d5\u306e\u5e0c\u671b - Vocalized Version",
+      "url": "https://open.spotify.com/track/11Z0ESWmihfMooJCVDngWz"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488513,
+      "name": "\u5e0c\u671b\u3078\u5411\u3046\u8b5a\u8a69\u66f2 - Long Version",
+      "url": "https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372004,
+      "name": "\u5f7c\u306e\u8005\u306e\u540d\u306f\u2026 - Vocalized Version",
+      "url": "https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341344,
+      "name": "\u611b\u306e\u653e\u6d6a\u8005 - Vocalized Version",
+      "url": "https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 338920,
+      "name": "\u6226\u3044\u306e\u9418 - Long Version",
+      "url": "https://open.spotify.com/track/6EByiOlFcxdA5zj8Gcu0wU"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270355,
+      "name": "\u6765\u8a2a\u8005 - Long Version",
+      "url": "https://open.spotify.com/track/4tKj8h6sJQ4fK4HtT9Qu2Y"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 326693,
+      "name": "\u7d14\u611b(\u30cf\u30fc\u30c8\u30de\u30fc\u30af) \u5341\u5b57\u7832\u706b - Long Version",
+      "url": "https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277346,
+      "name": "\u82b1\u304c\u6563\u308b\u4e16\u754c - Vocalized Version",
+      "url": "https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 155328,
+      "name": "\u865a\u308d\u306a\u6708\u306e\u4e0b\u3067 - Vocalized Version",
+      "url": "https://open.spotify.com/track/5rpWxq3rr852eGbO0fQ2Qg"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315255,
+      "name": "\u96db\u9ce5 - Vocalized Version",
+      "url": "https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5c0f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166033,
+      "name": "\u98a8\u304c\u5439\u3044\u305f\u65e5 - Piano Solo Version",
+      "url": "https://open.spotify.com/track/6huaX3NTgDSVAYJOjOJNn5"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u5927\u7d00\u884c",
+        "url": "https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311013,
+      "name": "\u98a8\u306e\u884c\u65b9 - Vocalized Version",
+      "url": "https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SlEIw"
+}

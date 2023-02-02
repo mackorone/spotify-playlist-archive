@@ -4,7 +4,7 @@
 
 > Reach inner tranquility with peaceful Hang and ambient.
 
-78 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/5gpuoAqwEPxVmBsNt9nypB)
+80 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Spa Relaxation](https://open.spotify.com/track/61XlrBX0wIJNoTAzlNsCZx) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [The Hang Drum Project](https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX) | [Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music](https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg) | 2:28 | 2022-09-08 |  |
 | [Spiritual Journey](https://open.spotify.com/track/1sBIlq2mIQCLVTiyp8RHIs) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:24 | 2022-09-08 |  |
 | [Still Holding Still](https://open.spotify.com/track/0IzgnldBjDUZwaUxbbfsRH) | [Galtritandos](https://open.spotify.com/artist/4QyQTLlakG31IZkXiacgpA) | [Still Holding Still](https://open.spotify.com/album/3DahldM8WQAFCPLoMW6yFc) | 1:54 | 2022-09-08 |  |
+| [Stille Wind](https://open.spotify.com/track/60qaAdG1djT8vmVmtLbwje) | [Lieblings Handpan Musik](https://open.spotify.com/artist/0uphIvaGJ83V3r5Xmcwqre), [Hang Drum](https://open.spotify.com/artist/06ar3VcFwsFQkQImv8ihDf), [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO) | [Handpan Klangtherapie](https://open.spotify.com/album/0SqHNCpEly0sSyLYtNSSIJ) | 2:30 | 2022-12-22 |  |
 | [Stillness is Waiting](https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 2:38 | 2022-09-08 |  |
 | [Stress Relief](https://open.spotify.com/track/67QljIQJUbSx3KOJeADxex) | [Spiritual Meditation Vibes](https://open.spotify.com/artist/1ZxiigDh7uW74TuFXlb5WP) | [Hang Drum Music \- Relaxing Ambient for Meditation Yoga and Relax](https://open.spotify.com/album/7pptSJSIxXsiAWFVeOl6kh) | 3:23 | 2022-09-08 |  |
 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 | 2022-09-08 |  |
@@ -83,6 +84,7 @@
 | [Trancique Hang](https://open.spotify.com/track/7fy6IqmJwXNBy6cHbSim08) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Trancique Hang](https://open.spotify.com/album/4zMNHtQL7ooHTh2V1jwmGG) | 1:59 | 2022-09-08 |  |
 | [Under the Blue Sky](https://open.spotify.com/track/5LeobX1vuRcmKRU0tTRCj1) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:07 | 2022-09-08 |  |
 | [Waves are coming](https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98) | [Nicole Rosario](https://open.spotify.com/artist/56m6DbefNtX4faz0CTVjUY) | [Waves are coming](https://open.spotify.com/album/4YJTcfkvMihuIDh0oQAnuq) | 3:53 | 2022-09-08 |  |
+| [Wenn sich ein Wasser im Weltraum befindet](https://open.spotify.com/track/7IbCyMVtbBPTyfi3MEKCTL) | [Lieblings Handpan Musik](https://open.spotify.com/artist/0uphIvaGJ83V3r5Xmcwqre), [Hang Drum](https://open.spotify.com/artist/06ar3VcFwsFQkQImv8ihDf), [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO) | [Heiliger Baum \(Hang Drum\)](https://open.spotify.com/album/02K27tV8TGFt6gChZvNwD1) | 4:44 | 2022-12-22 |  |
 | [Whispering Creek](https://open.spotify.com/track/67X5pyBDjFjo2wvwcGHZiq) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [The Melody Within, Vol\. 1](https://open.spotify.com/album/06riU4SWaTMPHCfaL0ZvCB) | 8:01 | 2022-09-08 |  |
 | [Winds Of Hope](https://open.spotify.com/track/7Fk9G56CT7oAyqPRHCR54V) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:16 | 2022-09-08 |  |
 | [Wonderful](https://open.spotify.com/track/3mPiAPrn5vI6gawTnoz5nV) | [Handpan Paradise](https://open.spotify.com/artist/3SUdfJgl34LM3ual6dkXE6) | [Paradise](https://open.spotify.com/album/4akdB5BgbeG6uvszCIWbDG) | 2:08 | 2022-09-08 |  |

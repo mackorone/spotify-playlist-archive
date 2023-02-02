@@ -4,7 +4,7 @@
 
 > This is Uptown Records\. The essential tracks, all in one playlist\. Rest in peace, Andre O'Neal Harrell!
 
-38 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/6sKyRMgnIBe3sZO4jj5nou)
+38 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

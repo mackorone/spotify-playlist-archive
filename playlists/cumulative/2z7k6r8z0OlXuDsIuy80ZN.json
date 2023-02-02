@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-15",
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 \u00a1Busca m\u00e1s playlists en nuestro perfil y en la <a href=\"http://onelink.to/los40app\">app LOS40</a>!",
   "name": "Lista de LOS 40 (Oficial) | \ud83c\uddea\ud83c\uddf8",
-  "published_playlist_ids": [
-    "2EQ7mQxKSAz66lR2sssfQA"
-  ],
   "tracks": [
     {
       "album": {
@@ -131,10 +128,50 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 205716,
       "name": "Amapolas",
       "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
+    },
+    {
+      "album": {
+        "name": "Amigos (con Maria Becerra)",
+        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233755,
+      "name": "Amigos (con Maria Becerra)",
+      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "album": {
@@ -196,6 +233,28 @@
     },
     {
       "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179066,
+      "name": "Bebiendo Sola",
+      "url": "https://open.spotify.com/track/0wIIVkpeRLjoGAYkeYXevR"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -243,7 +302,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 172626,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/6XwtI61NZnkhmclCwC4hbu"
@@ -265,6 +324,28 @@
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN"
+    },
+    {
+      "album": {
+        "name": "CAIRO",
+        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
     },
     {
       "album": {
@@ -337,10 +418,28 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 163244,
       "name": "Carretera y manta",
       "url": "https://open.spotify.com/track/4RgqBP0RY3pQY3Z3d3fKnf"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
     },
     {
       "album": {
@@ -421,6 +520,28 @@
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2WSLiFW6zmSsPWWDmG8IOi"
+    },
+    {
+      "album": {
+        "name": "CORAZONES ROTOS",
+        "url": "https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230130,
+      "name": "CORAZONES ROTOS",
+      "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
     },
     {
       "album": {
@@ -555,7 +676,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 174801,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
@@ -621,7 +742,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 196363,
       "name": "DON'T YOU WORRY",
       "url": "https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM"
@@ -675,7 +796,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 224675,
       "name": "El d\u00eda menos pensado",
       "url": "https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz"
@@ -752,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -771,6 +910,24 @@
       "duration_ms": 190893,
       "name": "Forever My Love",
       "url": "https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV"
+    },
+    {
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203472,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
     },
     {
       "album": {
@@ -1069,7 +1226,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
@@ -1350,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -1423,7 +1598,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 190318,
       "name": "Maybe You\u2019re The Problem",
       "url": "https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA"
@@ -1449,6 +1624,28 @@
       "duration_ms": 163353,
       "name": "Me Quedo (feat. Ana Mena)",
       "url": "https://open.spotify.com/track/1MdsletWuIR9ItEnitWRwp"
+    },
+    {
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
       "album": {
@@ -1659,7 +1856,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 160733,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
@@ -1729,6 +1926,24 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "album": {
+        "name": "Quasi",
+        "url": "https://open.spotify.com/album/0akDdsW5I5D6ZpQU4B6Kre"
+      },
+      "artists": [
+        {
+          "name": "Pablo L\u00f3pez",
+          "url": "https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209700,
+      "name": "Quasi",
+      "url": "https://open.spotify.com/track/4raY0xxADxSo4sachP0rFr"
     },
     {
       "album": {
@@ -1813,10 +2028,28 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 183898,
       "name": "Qui\u00e9n Dir\u00eda",
       "url": "https://open.spotify.com/track/0Fd3900xH77g0ARXQjtYvV"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 bonita",
+        "url": "https://open.spotify.com/album/1Em1AH6NyWHAPyCaVM7iGX"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163768,
+      "name": "Qu\u00e9 bonita",
+      "url": "https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU"
     },
     {
       "album": {
@@ -1857,6 +2090,28 @@
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "album": {
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217196,
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
     },
     {
       "album": {
@@ -1947,7 +2202,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 198758,
       "name": "solo x ti",
       "url": "https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB"
@@ -1973,6 +2228,46 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "album": {
+        "name": "Suena en las Bodas",
+        "url": "https://open.spotify.com/album/1GCMmZzwzTjGegPwK3tXmK"
+      },
+      "artists": [
+        {
+          "name": "Bombai",
+          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192406,
+      "name": "Suena en las Bodas",
+      "url": "https://open.spotify.com/track/5saZEfLmY8Ii6BZq7gGLe7"
+    },
+    {
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
       "album": {
@@ -2009,7 +2304,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
@@ -2063,7 +2358,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 215163,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
@@ -2117,7 +2412,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 162181,
       "name": "TOKE",
       "url": "https://open.spotify.com/track/2H8v0g9A4anC2UmZAPKgQn"
@@ -2175,7 +2470,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 165200,
       "name": "TV",
       "url": "https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI"
@@ -2222,6 +2517,28 @@
     },
     {
       "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "album": {
         "name": "No, No Vuelve",
         "url": "https://open.spotify.com/album/5Kcur0mxf34Q4BKTdeBBQj"
       },
@@ -2233,7 +2550,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 239200,
       "name": "Volver\u00e1 - 2021",
       "url": "https://open.spotify.com/track/1t0iDaXutz0LrGzSBbWGu5"

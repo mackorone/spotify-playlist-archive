@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,855 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,186 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 10 | [On Fire Again \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/2Ug470Bny3tWsLl9iA3wcp) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:03 |
 | 11 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 |
 | 12 | [Eat Them Apples](https://open.spotify.com/track/7ofbhfuwvOfeG8yIKI9aeK) | [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 2:55 |
-| 13 | [I Love You](https://open.spotify.com/track/1JWUUSoVpMjz1Sgy56kFUg) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/3X4oLQ5APFlwryQnOeNtYJ) | 3:22 |
+| 13 | [I Love You](https://open.spotify.com/track/2asYogTvOCEZe9LGIjzMA4) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4) | 3:22 |
 | 14 | [Me and My Mind](https://open.spotify.com/track/4QG1X1iG7fevXjaEeGLmBI) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/09xUbuXHA0Wp7QqHOE1Pdh) | 3:04 |
 | 15 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/1BOhfgNrX3vKKrzyTKhsPE) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:15 |
 | 16 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 47 | [I Can’t Believe](https://open.spotify.com/track/5jnHZDEQg9a6tv8Ndp277s) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Mood Swing](https://open.spotify.com/album/2tfrNC7CphnNqyPVMwoXs2) | 2:26 |
 | 48 | [Open Tales](https://open.spotify.com/track/3d5DC4HtUqwBF7K1SbBTKT) | [Bora York](https://open.spotify.com/artist/3IeaI931pLCF0gOhDKJyBX) | [Dreaming Free](https://open.spotify.com/album/00XX9ytFIQLaxIgHwIF6NG) | 3:35 |
 | 49 | [Age of Consent \(New Order\)](https://open.spotify.com/track/0s1AJpOokiTy1UMG4D4iPn) | [Cayetana](https://open.spotify.com/artist/5yC8tl2VVpS4HO758L0lSc) | [Tired Eyes](https://open.spotify.com/album/34mGoOqqWODhXjwOXeJ0fK) | 3:46 |
-| 50 | [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 |
+| 50 | [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 |
 | 51 | [Candy \(feat\. Ryan Chambers\)](https://open.spotify.com/track/1nArmVH4322LPDTPFVaL68) | [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz), [Ryan Chambers](https://open.spotify.com/artist/6O91ouSNeRUa0jdq0q5s07) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 2:16 |
 | 52 | [Midnight Sun \(with Ukiyo\)](https://open.spotify.com/track/6DGSMdJtEmxzu8JKjb62xI) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 3:55 |
 | 53 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 84 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 85 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 
-Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMDFiMmJlMTc1MDE3NDc5OTEzY2JlZWZjZjdmNTBlY2E2`
+Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMDY1NTY2OTYxNDkxYzM3MzNhMTQ0Mjc0ZDhkNDIyNTNm`

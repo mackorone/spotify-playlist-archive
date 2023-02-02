@@ -4,11 +4,12 @@
 
 > A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
-48 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/795SCNBaIRC4NKBwTzfdNv)
+49 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [6 Encores for Piano: No\. 3, Wasserklavier](https://open.spotify.com/track/07tKTXpTwZhseOKcmzCv6D) | [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [LISZT INSPECTIONS](https://open.spotify.com/album/26tmVV1dFkaftPXyMrRABC) | 2:19 | 2022-05-06 |  |
+| [6 Encores for Piano \(1965\): No\. 3, Wasserklavier](https://open.spotify.com/track/0RnF44RV45by9HTtZuttgl) | [Luciano Berio](https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO), [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [Liszt Inspections](https://open.spotify.com/album/0HOOCAPfWkh6e24UQLkok5) | 2:19 | 2022-11-14 |  |
+| [6 Encores for Piano: No\. 3, Wasserklavier](https://open.spotify.com/track/07tKTXpTwZhseOKcmzCv6D) | [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [LISZT INSPECTIONS](https://open.spotify.com/album/26tmVV1dFkaftPXyMrRABC) | 2:19 | 2022-05-06 | 2023-01-04 |
 | [6 Encores for Piano: Wasserklavier](https://open.spotify.com/track/0aOvxm0QThgJ3QSV0qqS35) | [Luciano Berio](https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO), [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [Liszt Inspections](https://open.spotify.com/album/6jsYX84x9gvc35STePwC7h) | 2:19 | 2022-05-06 | 2022-07-29 |
 | [A Sparrow Alighted upon our Shoulder](https://open.spotify.com/track/6PqxMqUPd6oPpOhxKvk1U2) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Air Lyndhurst String Orchestra](https://open.spotify.com/artist/72UK8pq1vewvVNs0mGCoH8), [Anthony Weeden](https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98) | [Relaxing Classical](https://open.spotify.com/album/1IgpoX287uoldZN4gRe9ne) | 2:26 | 2022-05-06 | 2022-11-14 |
 | [A Sparrow Alighted upon our Shoulder](https://open.spotify.com/track/1G2mAZQL8xfy9wRqC6fY6K) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Air Lyndhurst String Orchestra](https://open.spotify.com/artist/72UK8pq1vewvVNs0mGCoH8), [Anthony Weeden](https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98) | [Orphée](https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN) | 2:27 | 2022-05-06 |  |

@@ -4,7 +4,7 @@
 
 > The best Modernist music from the early 20th century\. Impressionism with Ravel and Debussy\. Expressionism with Schoenberg and Webern\. Neoclassical with Stravinsky and Bartok.
 
-50 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4mXOhUBtoxQMWLaqc23hOC)
+50 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

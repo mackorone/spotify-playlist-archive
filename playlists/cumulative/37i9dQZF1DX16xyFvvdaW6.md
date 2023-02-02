@@ -4,13 +4,14 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-54 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/0suQIohnJkMbg3Mf0bU3LR)
+55 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Ángel](https://open.spotify.com/track/471CAxyTTVZDK8g4MUXfnq) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Voy A Entregar Mi Corazón](https://open.spotify.com/album/5WgMBg0KfWb1drMLy4uOw2) | 3:36 | 2022-07-22 |  |
 | [Alaba](https://open.spotify.com/track/3gtKnR2a9bQMIB4OnSZ1JX) | [Banda Generasion](https://open.spotify.com/artist/6W6JOZ91tOgrLB4bdcGs3r) | [Yo Soy Generasion](https://open.spotify.com/album/0Q9uXsdYktit3JOb3LRsaV) | 5:24 | 2022-07-22 |  |
-| [Almas Mecanicas](https://open.spotify.com/track/2JiYhjQK2wR4vOAdATsISG) | [Exegesis](https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6) | [Espiritu Artificial](https://open.spotify.com/album/2EXsfs6TC1Z2l2kw8CivdQ) | 5:52 | 2022-07-22 |  |
+| [Almas Mecanicas](https://open.spotify.com/track/2JiYhjQK2wR4vOAdATsISG) | [Exegesis](https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6) | [Espiritu Artificial](https://open.spotify.com/album/2EXsfs6TC1Z2l2kw8CivdQ) | 5:52 | 2022-07-22 | 2022-12-04 |
+| [Almas Mecanicas](https://open.spotify.com/track/4t15P4sjW4v7OsaxvmD42k) | [Exegesis](https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6) | [Espiritu Artificial](https://open.spotify.com/album/3GkSk8MzVJjxBKSgCh4mfx) | 5:52 | 2022-10-25 |  |
 | [Cansado \- En Vivo](https://open.spotify.com/track/4PfdJ9cvHMUwGJnjiDyx30) | [Vox Dei](https://open.spotify.com/artist/3qJHHkBTYuEBHmLZ7cEei6) | [30 Años \(En Vivo\)](https://open.spotify.com/album/4ZTqyGp6fYYgrY61GKiWZD) | 5:08 | 2022-07-22 | 2022-10-26 |
 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 | 2022-07-22 |  |
 | [Dias Mejores](https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1OkifSNfJnObBOcbJ2lpPW) | 4:27 | 2022-07-22 |  |
@@ -48,7 +49,7 @@
 | [Siguiéndote Los Pasos](https://open.spotify.com/track/7oKiPeuyHCuAeV8Idsep1T) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Apasionado Por Ti](https://open.spotify.com/album/17sFSyV70emgk2ES8zWdzd) | 3:00 | 2022-07-22 |  |
 | [Sin Ti](https://open.spotify.com/track/24OFC5OpzofkePp1WjcczE) | [Micmas](https://open.spotify.com/artist/1NUs0BBtwTVx6Wbx1fsGr0) | [Pasado Participio](https://open.spotify.com/album/6OGhT2jnGfKf5ys6RmqA4Z) | 3:22 | 2022-07-22 |  |
 | [Sobre las Aguas](https://open.spotify.com/track/0160nXrwsZGabn2MS3eZBt) | [Credo](https://open.spotify.com/artist/6RjjLhiDH0icVk8Et5Unsl) | [Sobre las Aguas](https://open.spotify.com/album/0NTxzUKkcuioP465pmYzUF) | 4:00 | 2022-07-22 |  |
-| [Somos Libres](https://open.spotify.com/track/2C5f7uN6SEhhZuEBiVednO) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Incontenible Es Tu Amor](https://open.spotify.com/album/3US7xplIUPp647q67nCMS0) | 3:55 | 2022-07-22 |  |
+| [Somos Libres feat\. Omar Rodríguez Music](https://open.spotify.com/track/2C5f7uN6SEhhZuEBiVednO) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Incontenible Es Tu Amor](https://open.spotify.com/album/3US7xplIUPp647q67nCMS0) | 3:55 | 2022-07-22 |  |
 | [Tiene razón](https://open.spotify.com/track/0YVkK3eoqA9rmpqyMObT4h) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Indudablemente](https://open.spotify.com/album/59P6zsVljf0Gs8h4F8iWw4) | 3:19 | 2022-07-22 |  |
 | [Todo para Mi](https://open.spotify.com/track/3x3ajfjfMqRVcht85ZG89W) | [Blest](https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw) | [Lo Mejor de la Música Cristiana](https://open.spotify.com/album/739VThS5Uq7FlQTCe9IAhN) | 4:26 | 2022-07-22 |  |
 | [Tomalo](https://open.spotify.com/track/7GP2GccgQxRrj8pVSrCZ4D) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [The Best Of Christian Music](https://open.spotify.com/album/5xeOaJzmbrsHhot4GJ85M9) | 3:11 | 2022-07-22 |  |

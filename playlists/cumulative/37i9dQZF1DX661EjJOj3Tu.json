@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
   "name": "Latin Jazz",
-  "published_playlist_ids": [
-    "6qmxQRqQvEVEPIuHCP321g"
-  ],
   "tracks": [
     {
       "album": {
@@ -541,7 +538,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 366133,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/6tzz5dilZg1HbCgvgtAKT6"
@@ -829,6 +826,24 @@
       "duration_ms": 256266,
       "name": "Chamber Timba",
       "url": "https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN"
+    },
+    {
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256653,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
     },
     {
       "album": {
@@ -1725,7 +1740,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 289986,
       "name": "Descarga Vald\u00e9s",
       "url": "https://open.spotify.com/track/2fKIOUrSKTpI6LlRRELZ7a"
@@ -2021,7 +2036,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-03",
       "duration_ms": 250080,
       "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
@@ -2513,6 +2528,24 @@
       "duration_ms": 344606,
       "name": "Guarajazz",
       "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
+    },
+    {
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "album": {
@@ -3387,7 +3420,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 225985,
       "name": "Me Has Echado al Olvido",
       "url": "https://open.spotify.com/track/7HdnmmBjTOb66oKs8LeqY0"
@@ -3409,6 +3442,24 @@
       "duration_ms": 331933,
       "name": "Melodia De Arrabal",
       "url": "https://open.spotify.com/track/3pNQYZkQ6iGn3dYoUNBB6F"
+    },
+    {
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 156466,
+      "name": "Mercy, Mercy, Mercy",
+      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
     },
     {
       "album": {
@@ -4433,7 +4484,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-21",
       "duration_ms": 349165,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
@@ -5251,7 +5302,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 357120,
       "name": "The Feeling Of Jazz",
       "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
@@ -5798,24 +5849,6 @@
     },
     {
       "album": {
-        "name": "Compact Jazz: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "date_added": "2022-07-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212493,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
-    },
-    {
-      "album": {
         "name": "Antonio Carlos Jobim: Finest Hour",
         "url": "https://open.spotify.com/album/1XkX9d8U5KCcD5DKEpMfOy"
       },
@@ -5835,6 +5868,50 @@
       "duration_ms": 214866,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/3IvzsLgMv2eF5eSXoeP7Xm"
+    },
+    {
+      "album": {
+        "name": "Compact Jazz: Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 212493,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
+    },
+    {
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     },
     {
       "album": {

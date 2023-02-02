@@ -4,7 +4,7 @@
 
 > Top of the top hits from Korean Pop Artists! Cover: <a href="spotify:artist:41MozSoPIsD1dJM0CLPjZF">BLACKPINK</a>
 
-145 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/7vrBYk8g13xhxuK6Oiw2h4)
+147 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [DINOSAUR](https://open.spotify.com/track/3UMjZ9bAT1AnpcWD4aKyP8) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SUMMER EPISODE](https://open.spotify.com/album/38x3xlcIBGevQrWHCY6TPs) | 4:00 | 2022-03-18 | 2022-07-29 |
 | [DINOSAUR](https://open.spotify.com/track/49KDK2ccYnOCYPeXfDO3YT) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SUMMER EPISODE](https://open.spotify.com/album/6nvvOIQoyryvZjr7baMuXP) | 4:00 | 2022-07-14 |  |
 | [Don't Wanna Cry](https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:23 | 2022-03-18 |  |
-| [DRAMARAMA](https://open.spotify.com/track/1BSncOsSJPQkpl29QM0ipj) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:06 | 2022-03-18 |  |
+| [DRAMARAMA](https://open.spotify.com/track/1BSncOsSJPQkpl29QM0ipj) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:06 | 2022-03-18 |  |
 | [Egotistic](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [RED MOON](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) | 3:16 | 2022-03-18 |  |
 | [Energetic](https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [1\-1=0 \(NOTHING WITHOUT YOU\)](https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8) | 3:09 | 2022-03-18 |  |
 | [Everytime](https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Descendants Of The Sun Pt.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE) | 3:09 | 2022-03-18 |  |
@@ -109,13 +109,15 @@
 | [Scentist](https://open.spotify.com/track/1ta34Dk3EH9rcQ6Bu3Yj35) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Eau De Vixx](https://open.spotify.com/album/3NdoYD1cAxSr6cjh99yrGz) | 3:04 | 2022-03-18 | 2022-07-29 |
 | [Scentist](https://open.spotify.com/track/18oDuUN4ixceCOX6hkfdRZ) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [EAU DE VIXX](https://open.spotify.com/album/4dUIpYgwZeY8z15ikxThDE) | 3:04 | 2022-07-14 |  |
 | [Scentist](https://open.spotify.com/track/1HybeCid417lV9ldlKGenl) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Reincarnation](https://open.spotify.com/album/6A2ahWJPDQl2n7bAtftT51) | 3:07 | 2022-07-14 | 2022-11-14 |
-| [SEE SEA](https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe) | 3:20 | 2022-07-14 |  |
+| [SEE SEA](https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe) | 3:20 | 2022-07-14 |  |
 | [SEE SEA](https://open.spotify.com/track/481yYUbtfs67PaKYKxJOeF) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/2BOKToUfHlLRoVEcRxbQsr) | 3:20 | 2022-03-18 | 2022-07-29 |
 | [SEE SEA](https://open.spotify.com/track/6UMAXSwjuP9YPlObKugTO9) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SAY MY NAME](https://open.spotify.com/album/0ZqsXIBaGGO8I1AbCxAdyt) | 3:20 | 2022-07-14 | 2022-11-13 |
-| [seoul \(prod\. HONNE\)](https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 4:35 | 2022-07-14 |  |
+| [seoul \(prod\. HONNE\)](https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb) | 4:35 | 2022-07-14 |  |
+| [seoul \(prod\. HONNE\)](https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 4:35 | 2022-07-14 | 2022-12-19 |
 | [seoul \(prod\. HONNE\)](https://open.spotify.com/track/73ipE4lfZ53pvBbJPXkiEK) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/0XqAZHNx0xJDObehTI2587) | 4:35 | 2022-03-18 | 2022-07-29 |
 | [She's In The Rain](https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/2rKkvzVCh5GD3yh5BYBJ4a) | 3:57 | 2022-03-18 | 2022-07-29 |
-| [She's In The Rain](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) | 3:57 | 2022-07-14 |  |
+| [She's In The Rain](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) | 3:57 | 2022-07-14 | 2023-01-04 |
+| [She's In The Rain](https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV) | 3:57 | 2022-07-14 |  |
 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 | 2022-03-18 |  |
 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2022-07-14 |  |
 | [Shoot Me](https://open.spotify.com/track/5ScMgtPM10SNI8BsQQOWpo) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/6yX7wmwbxtp9WSerXWqh82) | 2:55 | 2022-03-18 | 2022-07-29 |

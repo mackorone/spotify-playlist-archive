@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxJoqkIi5qT.md) - [plain]
 
 > "I use my art to gain perspective and find peace\. The journey is in the destination\. Take in the view, you deserve it." Cover: Hayley Kiyoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047 likes - 36 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 999 likes - 36 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

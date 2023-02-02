@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Catch the week's hottest Cantopop songs by Hins Cheung, Serrini and more\. Cover: <a href="spotify:artist:6B9YF4eOv99klogeZUzkYM">Mirror</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,305 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,608 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
-  "published_playlist_ids": [
-    "3pQB6bVE7rab9WbzcxnMjP"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,7 +24,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": "2023-01-17",
       "duration_ms": 222133,
       "name": "2 Poemes, Op. 32 : 2 Poemes, Op. 32: No. 1 in F sharp major",
       "url": "https://open.spotify.com/track/3p2Bs1MKlmN52yrJPlZpCY"
@@ -51,12 +48,64 @@
           "url": "https://open.spotify.com/artist/2aExcBr1TqFMd7zDw9HT64"
         }
       ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58333,
+      "name": "5 Preludes, Op. 74: No. 1. Douloureux dechirant",
+      "url": "https://open.spotify.com/track/7fdtNhPaovHOz6eGBsxrWu"
+    },
+    {
+      "album": {
+        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
+        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Cecil Lytle",
+          "url": "https://open.spotify.com/artist/2aExcBr1TqFMd7zDw9HT64"
+        }
+      ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": "2023-02-02",
       "duration_ms": 117400,
       "name": "5 Preludes, Op. 74: No. 2. Tres lent, contemplatif",
       "url": "https://open.spotify.com/track/5fvAOnB3TFJWaehSr9L7Dt"
+    },
+    {
+      "album": {
+        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
+        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Cecil Lytle",
+          "url": "https://open.spotify.com/artist/2aExcBr1TqFMd7zDw9HT64"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 106933,
+      "name": "5 Preludes, Op. 74: No. 4. Lent, vague, indecis",
+      "url": "https://open.spotify.com/track/2DTebRH0zNQK1KJU5UfW0s"
     },
     {
       "album": {
@@ -79,7 +128,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 76560,
       "name": "7 Preludes, Op. 17 : 7 Preludes, Op. 17: No. 6 in B flat: Andante doloroso",
       "url": "https://open.spotify.com/track/1vrnotlgED9toLpMsfiUu7"
@@ -119,7 +168,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": "2023-01-02",
       "duration_ms": 270000,
       "name": "A Spark from the Infinite - part 2",
       "url": "https://open.spotify.com/track/62u8bT0zb0vnMnyF740LCG"
@@ -188,6 +237,32 @@
     },
     {
       "album": {
+        "name": "Archangels",
+        "url": "https://open.spotify.com/album/75fGDmfK5XoJU8uWEBI7DT"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Julian Wachner",
+          "url": "https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH"
+        },
+        {
+          "name": "NOVUS NY Cellists",
+          "url": "https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 782615,
+      "name": "Archangels; II. Protection Vigil",
+      "url": "https://open.spotify.com/track/2UMMLazyq8TzvA5Qr4RQsm"
+    },
+    {
+      "album": {
         "name": "Lisbon Concert",
         "url": "https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI"
       },
@@ -242,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Music for the Gift",
+        "url": "https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 301026,
+      "name": "Bird of Paradise: Part 1",
+      "url": "https://open.spotify.com/track/7ozjAzViP4PTJxKuvIVpjE"
+    },
+    {
+      "album": {
         "name": "Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
       },
@@ -279,7 +372,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 519000,
       "name": "Blue Anthem",
       "url": "https://open.spotify.com/track/6LLSaICqGSFPi6TYaYT6au"
@@ -355,7 +448,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2023-01-03",
       "duration_ms": 696007,
       "name": "Cannabis",
       "url": "https://open.spotify.com/track/5G6iNArq3GslJKMnrdp9eH"
@@ -457,7 +550,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": "2023-01-04",
       "duration_ms": 347906,
       "name": "Crucifixion Voices",
       "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
@@ -605,7 +698,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-19",
       "duration_ms": 688000,
       "name": "Eastern Man",
       "url": "https://open.spotify.com/track/02DJWyW9y1TcwlhF3xScxR"
@@ -645,6 +738,66 @@
       "duration_ms": 802293,
       "name": "Emerald Runner",
       "url": "https://open.spotify.com/track/1MaSYb6iRmbCOdWfphWMcX"
+    },
+    {
+      "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 297506,
+      "name": "Even Your Beloved Wife",
+      "url": "https://open.spotify.com/track/55Bw5EGZQfbXkrKcduiR86"
+    },
+    {
+      "album": {
+        "name": "John Cage: Litany for the Whale",
+        "url": "https://open.spotify.com/album/7M1mQHS6iSTph4jEyYupNw"
+      },
+      "artists": [
+        {
+          "name": "John Cage",
+          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Theatre Of Voices",
+          "url": "https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56"
+        },
+        {
+          "name": "Alan Bennett",
+          "url": "https://open.spotify.com/artist/3D8I281fLMVQyllXYZQ2NV"
+        },
+        {
+          "name": "Andrea Fullington",
+          "url": "https://open.spotify.com/artist/6EJJnZgExJa0WXQ1nqEg92"
+        },
+        {
+          "name": "Paul Eliott",
+          "url": "https://open.spotify.com/artist/41SQcY8GbLRL5qUy6G1OmH"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 304040,
+      "name": "Five (Five Voices)",
+      "url": "https://open.spotify.com/track/7CG0K8qonZE6Sl0WFp9CSP"
     },
     {
       "album": {
@@ -706,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 279133,
+      "name": "Gha Ten In Darbari",
+      "url": "https://open.spotify.com/track/1qGRUrhjIFl2xAcW0kihtX"
+    },
+    {
+      "album": {
         "name": "TROPICAL ESCAPE riddim",
         "url": "https://open.spotify.com/album/2hhxH2bK8GTTO26t90nCYC"
       },
@@ -717,7 +888,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": "2023-01-04",
       "duration_ms": 174482,
       "name": "GIMME LIKKLE ONE DROP",
       "url": "https://open.spotify.com/track/1hIKpBKkdz2r7XZXwbzlgO"
@@ -790,6 +961,36 @@
     },
     {
       "album": {
+        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
+        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
+      },
+      "artists": [
+        {
+          "name": "Thomas de Hartmann",
+          "url": "https://open.spotify.com/artist/7jqkUMjqGY2FfZRUirtKdo"
+        },
+        {
+          "name": "G. I. Gurdjieff",
+          "url": "https://open.spotify.com/artist/4zFrWxrEffCBWEqNnZyB8T"
+        },
+        {
+          "name": "Herbert Henck",
+          "url": "https://open.spotify.com/artist/3oUiU2Wni97F5yPnZm1kUx"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 104000,
+      "name": "Hymns from a Great Temple: Hymn No. 3, \"Hymn of the Cherubim\"",
+      "url": "https://open.spotify.com/track/45G3yCpdT7oaChqXr8avFp"
+    },
+    {
+      "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
       },
@@ -859,7 +1060,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": "2023-01-24",
       "duration_ms": 448026,
       "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
       "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
@@ -950,6 +1151,28 @@
     },
     {
       "album": {
+        "name": "Imaginational Anthem",
+        "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
+      },
+      "artists": [
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 394813,
+      "name": "La Cigale (The Locust)",
+      "url": "https://open.spotify.com/track/2N0wGSAsy0PR4dM2fWHmzV"
+    },
+    {
+      "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
@@ -961,10 +1184,46 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 365306,
       "name": "La Muerte en Medias Caladas Negras",
       "url": "https://open.spotify.com/track/5JA6S6rXT6GkSu64nSeqtg"
+    },
+    {
+      "album": {
+        "name": "The Padova Concert",
+        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 256040,
+      "name": "Land's End",
+      "url": "https://open.spotify.com/track/6vF5EhJM7nnovxzL2tz0kN"
+    },
+    {
+      "album": {
+        "name": "An Introduction To Amiata's New Music Series Vol1",
+        "url": "https://open.spotify.com/album/7xYZP2kzAXxUGEWueXBSw3"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258026,
+      "name": "Land's End",
+      "url": "https://open.spotify.com/track/1yYwD8sKQy9ZKz3lgZ0pDk"
     },
     {
       "album": {
@@ -983,7 +1242,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": "2023-01-07",
       "duration_ms": 352973,
       "name": "Lazy Afternoon Among the Crocodiles",
       "url": "https://open.spotify.com/track/11OopoutzfE1yieQAe5KX3"
@@ -1081,7 +1340,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 43468,
       "name": "Marley Bell",
       "url": "https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn"
@@ -1103,7 +1362,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 171000,
       "name": "Medusa's Refrain - part 1",
       "url": "https://open.spotify.com/track/5q9AFuVIZnqwpfVUo5daET"
@@ -1276,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "All Wi Linky Dem - Island Vibes Riddim",
+        "url": "https://open.spotify.com/album/0UliYJ6TJoBkLTA6cpVP9y"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 208573,
+      "name": "Never Leave I",
+      "url": "https://open.spotify.com/track/3fbrJruhyq5ph3jCNd8D1g"
+    },
+    {
+      "album": {
         "name": "Atlantis Nath",
         "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
       },
@@ -1341,7 +1618,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 458436,
       "name": "Part III - Live 1974",
       "url": "https://open.spotify.com/track/6PJDAsoCcmsvQqI6YsTGis"
@@ -1377,7 +1654,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 580846,
       "name": "Part V - Live 1974",
       "url": "https://open.spotify.com/track/5DKZNBg516xpG4Q4tcoFmc"
@@ -1395,7 +1672,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": "2023-01-05",
       "duration_ms": 603834,
       "name": "Part VI - Live 1974",
       "url": "https://open.spotify.com/track/7u1J53yzLPZfCesbi4UcoG"
@@ -1413,7 +1690,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 554672,
       "name": "Part VII - Live 1974",
       "url": "https://open.spotify.com/track/0uq9fIUxNfEUxM5qa1zX8C"
@@ -1431,7 +1708,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-21",
       "duration_ms": 336810,
       "name": "Part VIII - Live 1974",
       "url": "https://open.spotify.com/track/15scPBj0oF0GvorNBhPn93"
@@ -1485,7 +1762,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-01-11",
       "duration_ms": 2388746,
       "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
       "url": "https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m"
@@ -1521,7 +1798,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -1539,7 +1816,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": "2023-01-24",
       "duration_ms": 364960,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/21rumctdL8MYeZKpv3T2gz"
@@ -1629,7 +1906,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 589255,
       "name": "Remember This, O Mind; III. Even Your Beloved Wife",
       "url": "https://open.spotify.com/track/0nOrwhZGToAWHHKCdKGrWt"
@@ -1651,6 +1928,28 @@
       "duration_ms": 50142,
       "name": "Sanguine Cherry",
       "url": "https://open.spotify.com/track/5DRTBcoHrx4YM5uO5M1lFi"
+    },
+    {
+      "album": {
+        "name": "Autodreamographical Tales",
+        "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Bang On A Can All-Stars",
+          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 506088,
+      "name": "Science Fiction",
+      "url": "https://open.spotify.com/track/0Yg9Kv0WiWE9AR7DoVF37z"
     },
     {
       "album": {
@@ -1705,7 +2004,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 41891,
       "name": "Skylar Saunders",
       "url": "https://open.spotify.com/track/13KF8bVEeQdZ0QRJOPoIZx"
@@ -1745,7 +2044,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 214626,
       "name": "Spirit of Peace: Part I.",
       "url": "https://open.spotify.com/track/0hh4neHwvdZK7jB4yobBoX"
@@ -1767,7 +2066,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 456066,
       "name": "Spirit of Peace: Part II.",
       "url": "https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP"
@@ -1803,7 +2102,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": "2022-12-15",
       "duration_ms": 150213,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/3aJIumuPZqaew8jF6Fy3vu"
@@ -1825,7 +2124,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 613746,
       "name": "Sunrise Of The Planetary Dream Collector - 1985 Version",
       "url": "https://open.spotify.com/track/5RQlKEz672VrGewNyimvbs"
@@ -1847,6 +2146,28 @@
       "duration_ms": 207746,
       "name": "Tango Ladeado",
       "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
+    },
+    {
+      "album": {
+        "name": "The Lion's Throne",
+        "url": "https://open.spotify.com/album/5gHeA1IYYEDZoGMPoNgmjP"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Amelia Cuni",
+          "url": "https://open.spotify.com/artist/7caCvnanZCHvcoPslDOGkW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 590426,
+      "name": "Tarana in Hindol",
+      "url": "https://open.spotify.com/track/4mLCDBrUnCOoKQif9ucuHH"
     },
     {
       "album": {
@@ -1891,7 +2212,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": "2023-01-26",
       "duration_ms": 447063,
       "name": "The Faquir",
       "url": "https://open.spotify.com/track/4Tm5zrS91ImUe2y8HoF09d"
@@ -2003,7 +2324,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 396160,
       "name": "The Harp of New Albion: V. Premonition Rag",
       "url": "https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa"
@@ -2021,7 +2342,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-02",
       "duration_ms": 604333,
       "name": "The Harp of New Albion: VI. Return of the Ancestors",
       "url": "https://open.spotify.com/track/1BfjSZH8MBJKHa34FfGoKL"
@@ -2039,7 +2360,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-18",
       "duration_ms": 566400,
       "name": "The Harp of New Albion: VIII. The Magic Knot Waltz",
       "url": "https://open.spotify.com/track/07Ug3dg1bkX12uUrmioMKj"
@@ -2079,10 +2400,28 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": "2023-01-19",
       "duration_ms": 324680,
       "name": "The Lake",
       "url": "https://open.spotify.com/track/1kRvMfo4lmzxstmbozPm4N"
+    },
+    {
+      "album": {
+        "name": "The Padova Concert",
+        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 327200,
+      "name": "The Magic Knot Waltz",
+      "url": "https://open.spotify.com/track/3G3Q3zWECE6DUjIN0iAhb2"
     },
     {
       "album": {
@@ -2221,7 +2560,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": "2023-01-10",
       "duration_ms": 510912,
       "name": "The War on the Poor",
       "url": "https://open.spotify.com/track/0QzXHnMXyxyMei1sYboG6E"
@@ -2239,7 +2578,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": "2023-01-20",
       "duration_ms": 369773,
       "name": "Turning",
       "url": "https://open.spotify.com/track/06G6wzp6Ac4auou9U22yMS"
@@ -2333,7 +2672,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 180869,
       "name": "Zucchini",
       "url": "https://open.spotify.com/track/2VK6z7oz1vunj6hVPtjf8q"

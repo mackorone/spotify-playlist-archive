@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
   "name": "Hype",
-  "published_playlist_ids": [
-    "5pR45Pbz8RKqZerXlydxiz"
-  ],
   "tracks": [
     {
       "album": {
@@ -389,7 +386,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188607,
       "name": "Backbreaker",
       "url": "https://open.spotify.com/track/2mhD6IAZ7oGdRT8bzFI5tF"
@@ -685,7 +682,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 184049,
       "name": "BODY SH!T",
       "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
@@ -1088,6 +1085,28 @@
     },
     {
       "album": {
+        "name": "dashstar* (Yellow Claw Trap Edit)",
+        "url": "https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152776,
+      "name": "dashstar* - Yellow Claw Trap Edit",
+      "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
+    },
+    {
+      "album": {
         "name": "Dawn Of The Dead",
         "url": "https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV"
       },
@@ -1143,7 +1162,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 233046,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
@@ -1491,7 +1510,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2023-02-02",
       "duration_ms": 248275,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6PVxTUWkUdH5nqmGL1mO6O"
@@ -1627,7 +1646,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 144000,
       "name": "Flat Line",
       "url": "https://open.spotify.com/track/2JmbEZudT2eA3kUp5nXGZf"
@@ -1763,7 +1782,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "G.T.F.O.T.W. (feat. Hashu)",
       "url": "https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty"
@@ -1895,7 +1914,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 364800,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7"
@@ -2651,7 +2670,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 174657,
       "name": "Loving You Kills Me",
       "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
@@ -2970,6 +2989,28 @@
     },
     {
       "album": {
+        "name": "Never Be The Same (feat. Sara Benyo)",
+        "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230425,
+      "name": "Never Be The Same (feat. Sara Benyo)",
+      "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
+    },
+    {
+      "album": {
         "name": "NEW WIP",
         "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
       },
@@ -3164,6 +3205,28 @@
     },
     {
       "album": {
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+    },
+    {
+      "album": {
         "name": "Oceans & Galaxies",
         "url": "https://open.spotify.com/album/68ktA77AGDVlrifYU53GzL"
       },
@@ -3329,7 +3392,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 160874,
       "name": "Pop Off",
       "url": "https://open.spotify.com/track/2brgW2rPRbY5Zn0aU2USgc"
@@ -3384,6 +3447,28 @@
     },
     {
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6unE3WcMjp3qr9sVt4LmY2"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 206897,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/1nmuZI2wKNBEyqXkDIDN91"
+    },
+    {
+      "album": {
         "name": "Purple Lamborghini (with Rick Ross)",
         "url": "https://open.spotify.com/album/3W6iNTF9ajh2btsyxslpCY"
       },
@@ -3399,7 +3484,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 215510,
       "name": "Purple Lamborghini (with Rick Ross)",
       "url": "https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ"
@@ -3829,7 +3914,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-17",
       "duration_ms": 278808,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"

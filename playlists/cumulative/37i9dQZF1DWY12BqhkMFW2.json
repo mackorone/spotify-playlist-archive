@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
   "name": "Soul Revived",
-  "published_playlist_ids": [
-    "0eLui4qtyf4eA1MgRpDFE4"
-  ],
   "tracks": [
     {
       "album": {
@@ -77,7 +74,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 185356,
       "name": "Angel",
       "url": "https://open.spotify.com/track/5zsqV7VwDz2gRnALIpTaP1"
@@ -99,7 +96,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-23",
       "duration_ms": 331133,
       "name": "As",
       "url": "https://open.spotify.com/track/750vuAyjSZGt53r570s8ML"
@@ -453,7 +450,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 302440,
       "name": "Let's Chill",
       "url": "https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu"
@@ -851,7 +848,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 329464,
       "name": "Song For You",
       "url": "https://open.spotify.com/track/3v5YKvxegZyG6TJwK1loMA"
@@ -1273,7 +1270,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 355800,
       "name": "Zoom",
       "url": "https://open.spotify.com/track/3OWjkfq3mlexSVFAGamhhr"

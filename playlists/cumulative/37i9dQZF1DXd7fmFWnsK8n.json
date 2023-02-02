@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
   "name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
-  "published_playlist_ids": [
-    "1uSHSuxOWBP2EXOAgcFytc"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 186920,
       "name": "Ache",
       "url": "https://open.spotify.com/track/0gaM0xYRyVebGj1YPx608K"
@@ -77,6 +74,24 @@
       "duration_ms": 261213,
       "name": "Bang!Bang!Bang!",
       "url": "https://open.spotify.com/track/0ZuhTLqnLM5lGQV4k7eZGT"
+    },
+    {
+      "album": {
+        "name": "\u0179enit - EP",
+        "url": "https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228706,
+      "name": "BLACK TlGER",
+      "url": "https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1"
     },
     {
       "album": {
@@ -831,7 +846,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 288400,
       "name": "miss you...",
       "url": "https://open.spotify.com/track/7GdsInz5oCHoQagRIczvE9"
@@ -1163,7 +1178,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 264373,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/5k8QFRIIXtufXNL0Ys9WXr"
@@ -1181,7 +1196,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 253986,
       "name": "Re-raise",
       "url": "https://open.spotify.com/track/4RqIz3fZW3K00ZG4rSqwLn"
@@ -1660,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30e9\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/4tdPbaZwm8pPjiXPclsj5e"
+      },
+      "artists": [
+        {
+          "name": "MEZZO\u201d",
+          "url": "https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278373,
+      "name": "\u30ab\u30e9\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/2NSUDNby2hmjaZHk2a6z0V"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30fc\u30d7",
         "url": "https://open.spotify.com/album/19Er19UBgDjHxofmw8KnRR"
       },
@@ -2087,7 +2120,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2022-12-08",
       "duration_ms": 263386,
       "name": "\u6fc0\u60c5",
       "url": "https://open.spotify.com/track/3qOVMClhpgvWo1NLVeCn6T"

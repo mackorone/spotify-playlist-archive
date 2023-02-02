@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Pride](https://open.spotify.com/playlist/37i9dQZF1DXcaEXdyjLdxm)
 
-> LGBTQQIA+ artists like you've never heard before\. Cover: Ethel Cain.
+> LGBTQIA+ artists like you've never heard before\. Cover: G FLIP.
 
-76 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/5hCASO58LS3FyWd4FiMjbC)
+77 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Face Like Thunder \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0OKn9iHjJ8ZNfCRff1mLJA) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 4:14 | 2021-05-25 |  |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2021-05-25 | 2022-07-29 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2021-05-25 |  |
+| [GAY 4 ME \- Spotify Singles \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/4E1QNVcaLYlqyfjklxvwOK) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 4:44 | 2023-01-20 |  |
 | [Get Here \- Recorded At RAK Studios, London](https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 2:49 | 2021-05-25 |  |
 | [Go Away \- Spotify Singles](https://open.spotify.com/track/6MPS7r19dpI9d3TM8aw4Wo) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:35 | 2022-06-01 |  |
 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 | 2021-05-25 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-17",
   "description": "Calm and soothing strings to help you get a good night's rest.",
   "name": "Strings for Sleeping",
-  "published_playlist_ids": [
-    "3Z0IuotzjWfeTQs2UgGRVV"
-  ],
   "tracks": [
     {
       "album": {
@@ -1149,7 +1146,7 @@
     {
       "album": {
         "name": "nighteveryday",
-        "url": "https://open.spotify.com/album/6PFpxGyzOsrkAcC88eUEHu"
+        "url": "https://open.spotify.com/album/6joX6D4D5SLcmbakPYoqTr"
       },
       "artists": [
         {
@@ -1160,6 +1157,24 @@
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 166956,
+      "name": "nighteveryday",
+      "url": "https://open.spotify.com/track/18TxczgcjnRnmyBEDGXbXv"
+    },
+    {
+      "album": {
+        "name": "nighteveryday",
+        "url": "https://open.spotify.com/album/6PFpxGyzOsrkAcC88eUEHu"
+      },
+      "artists": [
+        {
+          "name": "Ever So So Deep",
+          "url": "https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
       "duration_ms": 166956,
       "name": "nighteveryday",
       "url": "https://open.spotify.com/track/3D6hyGiGDkOidw2tWTZkAN"

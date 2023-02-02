@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Turn that frown upside down with these pop classics.",
   "name": "Positive Vibes",
-  "published_playlist_ids": [
-    "3W7Fah7GFgjpPiL4jMmi0W"
-  ],
   "tracks": [
     {
       "album": {
@@ -163,7 +160,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-01",
       "duration_ms": 187920,
       "name": "All About That Bass",
       "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
@@ -1024,7 +1021,7 @@
     },
     {
       "album": {
-        "name": "How Deep is Your Love",
+        "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
       "artists": [
@@ -1041,7 +1038,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212640,
-      "name": "How Deep is Your Love",
+      "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     },
     {
@@ -1325,7 +1322,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 193000,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
@@ -1347,7 +1344,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-24",
       "duration_ms": 220573,
       "name": "Middle",
       "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
@@ -1545,7 +1542,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-19",
       "duration_ms": 193920,
       "name": "Problem",
       "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
@@ -1737,7 +1734,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 188174,
       "name": "Slow Hands",
       "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
@@ -1879,6 +1876,24 @@
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+    },
+    {
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244880,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
     },
     {
       "album": {
@@ -2195,7 +2210,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"

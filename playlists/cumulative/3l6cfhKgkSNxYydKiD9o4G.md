@@ -4,7 +4,7 @@
 
 > 
 
-36 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/6vAmIlG2BJpn1wCHkxgCmC)
+36 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Dawn \(Go Away\)](https://open.spotify.com/track/7tAwfqQWDA1dLKiLvn8EgH) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 2:47 | 2013-06-20 |  |
 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 | 2013-06-20 |  |
 | [Evidently Chickentown](https://open.spotify.com/track/3uOLeNeB06RNX2v9SsprHT) | [John Cooper Clarke](https://open.spotify.com/artist/0EOkMBYWbDnVqwfHA4zq32) | [The Very Best Of](https://open.spotify.com/album/0GbJSduK8qUuLpG91duF0C) | 2:20 | 2013-06-20 |  |
-| [Fisheman's Daughter](https://open.spotify.com/track/3PHzDyIRkfWZPi1IleR7AU) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Acadie](https://open.spotify.com/album/5jeo6gUcru9NPdrCtwOlxf) | 2:46 | 2013-06-20 |  |
+| [Fisheman's Daughter \(Album Version\)](https://open.spotify.com/track/3PHzDyIRkfWZPi1IleR7AU) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Acadie](https://open.spotify.com/album/5jeo6gUcru9NPdrCtwOlxf) | 2:46 | 2013-06-20 |  |
 | [Going Down Slow](https://open.spotify.com/track/5mX5ZTyJa6dptaNtrI78yG) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Blues Master Works](https://open.spotify.com/album/3bY3TiKFUZR4K9nEMrBv8O) | 3:25 | 2013-06-20 |  |
 | [Goodnight My Love](https://open.spotify.com/track/0WJrNmCygAG8lkA6HBYglk) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Music You Heard On The Sopranos](https://open.spotify.com/album/3Ilhhiu77Z2tsp4JVSMjWg) | 3:08 | 2013-06-20 |  |
 | [Heaven Only Knows](https://open.spotify.com/track/4XGt69jqwcdtUxV6IQiCjT) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Emmylou Harris Anthology: The Warner/Reprise Years](https://open.spotify.com/album/3fsuUekVTVRclF4p7IRan2) | 3:43 | 2013-06-20 |  |

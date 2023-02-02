@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-11",
   "description": "This is Maaya Sakamoto. The essential tracks, all in one playlist.",
   "name": "This Is Maaya Sakamoto",
-  "published_playlist_ids": [
-    "5ygZUlIVEGyKj8FsaadfcX"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 197333,
       "name": "Aoi Hitomi",
       "url": "https://open.spotify.com/track/1qq3YfabdCwpHFhqnWSnUz"
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 331465,
       "name": "birds",
       "url": "https://open.spotify.com/track/4LJiorJdPtMw2zXjfceIfD"
@@ -192,6 +189,28 @@
     },
     {
       "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        },
+        {
+          "name": "\u548c\u7530\u5f18\u6a39",
+          "url": "https://open.spotify.com/artist/3ISeKqB65XZIfHAR9gtLv2"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268133,
+      "name": "Duet! feat. \u548c\u7530\u5f18\u6a39",
+      "url": "https://open.spotify.com/track/1rwzyBNALfHD2uxLmpnTRI"
+    },
+    {
+      "album": {
         "name": "FOLLOW ME UP",
         "url": "https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y"
       },
@@ -221,7 +240,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 348833,
       "name": "Gift",
       "url": "https://open.spotify.com/track/1aBaRD0eeJ3nPI2isigrWO"
@@ -239,10 +258,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": "2023-01-10",
       "duration_ms": 343066,
       "name": "Gyakko -unplugged session-",
       "url": "https://open.spotify.com/track/2suN1RxO4zbJHQnGAjNjHU"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u65e5\u3060\u3051\u306e\u97f3\u697d",
+        "url": "https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279600,
+      "name": "Hidden Notes",
+      "url": "https://open.spotify.com/track/6gfY8im5MigHx4Okp0YzRU"
     },
     {
       "album": {
@@ -345,7 +382,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-28",
       "duration_ms": 318933,
       "name": "SAVED.",
       "url": "https://open.spotify.com/track/0Q3M2UGqG8UisohFJUZ0QO"
@@ -406,6 +443,24 @@
     },
     {
       "album": {
+        "name": "FOLLOW ME UP",
+        "url": "https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 293000,
+      "name": "That is To Say",
+      "url": "https://open.spotify.com/track/35Acye6BqUz6l7oPhetF3f"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30f3\u30af\u3099\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3+ \u30cb\u30b3\u30cf\u309a\u30c1",
         "url": "https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr"
       },
@@ -443,6 +498,42 @@
       "duration_ms": 331865,
       "name": "tune the rainbow",
       "url": "https://open.spotify.com/track/2vBTbVowqNQEUApLooNtFz"
+    },
+    {
+      "album": {
+        "name": "WOWOW Original Animation \"The Fire Hunter\" Ending Theme Song / TV Animation \"REVENGER\" Ending Theme Song Mada Tooku ni Iru / un_mute",
+        "url": "https://open.spotify.com/album/4N1Iw4L0uoPVrjNl3GfZPn"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297293,
+      "name": "un_mute",
+      "url": "https://open.spotify.com/track/3u5awR3XHHpmdn0nQWf5ul"
+    },
+    {
+      "album": {
+        "name": "WOWOW\u30aa\u30ea\u30b8\u30ca\u30eb\u30a2\u30cb\u30e1\u300c\u706b\u72e9\u308a\u306e\u738b\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de / TV\u30a2\u30cb\u30e1\u300cREVENGER\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de \u307e\u3060\u9060\u304f\u306b\u3044\u308b / un_mute",
+        "url": "https://open.spotify.com/album/6gGM1wmwOjwXZyOjkFu43t"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 297293,
+      "name": "un_mute",
+      "url": "https://open.spotify.com/track/5eaP3rpHtO5HdhFSivEmuF"
     },
     {
       "album": {
@@ -497,7 +588,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 304506,
       "name": "\u3044\u3064\u304b\u65c5\u306b\u51fa\u308b\u65e5",
       "url": "https://open.spotify.com/track/1DOvdpZ24AWVbL5NqgOzSN"
@@ -533,10 +624,28 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 316866,
       "name": "\u3053\u308c\u304b\u3089",
       "url": "https://open.spotify.com/track/5LDIB7WhwNvV4emxxEfq7g"
+    },
+    {
+      "album": {
+        "name": "WOWOW\u30aa\u30ea\u30b8\u30ca\u30eb\u30a2\u30cb\u30e1\u300c\u706b\u72e9\u308a\u306e\u738b\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de / TV\u30a2\u30cb\u30e1\u300cREVENGER\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de \u307e\u3060\u9060\u304f\u306b\u3044\u308b / un_mute",
+        "url": "https://open.spotify.com/album/6gGM1wmwOjwXZyOjkFu43t"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "\u3053\u3093\u306a\u65e5\u304c\u6765\u308b\u306a\u3093\u3066",
+      "url": "https://open.spotify.com/track/5gQkuTzS56ao7RpXkpPwIb"
     },
     {
       "album": {
@@ -576,6 +685,28 @@
     },
     {
       "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        },
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284506,
+      "name": "\u3072\u3068\u304f\u3061\u3044\u304b\u304b\u3099? feat. \u571f\u5c90\u9ebb\u5b50",
+      "url": "https://open.spotify.com/track/5OXT2oFI8Mm8E0iqkV7zCd"
+    },
+    {
+      "album": {
         "name": "\u3042\u306a\u305f\u3092\u4fdd\u3064\u3082\u306e/\u307e\u3060\u3046\u3054\u304f",
         "url": "https://open.spotify.com/album/5d3fMo5ShVeEdncXnSAtYy"
       },
@@ -595,6 +726,24 @@
       "duration_ms": 348413,
       "name": "\u307e\u3060\u3046\u3054\u304f",
       "url": "https://open.spotify.com/track/7cLNdxNArBlr3J5ArlbyeB"
+    },
+    {
+      "album": {
+        "name": "WOWOW\u30aa\u30ea\u30b8\u30ca\u30eb\u30a2\u30cb\u30e1\u300c\u706b\u72e9\u308a\u306e\u738b\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de / TV\u30a2\u30cb\u30e1\u300cREVENGER\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de \u307e\u3060\u9060\u304f\u306b\u3044\u308b / un_mute",
+        "url": "https://open.spotify.com/album/6gGM1wmwOjwXZyOjkFu43t"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314866,
+      "name": "\u307e\u3060\u9060\u304f\u306b\u3044\u308b",
+      "url": "https://open.spotify.com/track/2e6wFnPEzIgFMV23ZOhvF4"
     },
     {
       "album": {
@@ -681,7 +830,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 251102,
       "name": "\u30b9\u30d4\u30ab",
       "url": "https://open.spotify.com/track/5pgmW3oMLmZpYwlhgvITlH"
@@ -699,7 +848,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2022-12-30",
       "duration_ms": 228973,
       "name": "\u30c7\u30a3\u30fc\u30bc\u30eb",
       "url": "https://open.spotify.com/track/6Ukab7uqNtX78FPBJOjVMA"
@@ -724,7 +873,7 @@
     },
     {
       "album": {
-        "name": "\u30ab\u30fc\u30c8\u3099\u30ad\u30e3\u30d5\u309a\u30bf\u30fc\u3055\u304f\u3089 \u30bd\u30f3\u30af\u3099\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 1999.4~2001.2",
+        "name": "\u30ab\u30fc\u30c9\u30ad\u30e3\u30d7\u30bf\u30fc\u3055\u304f\u3089 \u30bd\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 1999.4~2001.2",
         "url": "https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR"
       },
       "artists": [
@@ -1030,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "25\u5468\u5e74\u8a18\u5ff5\u30a2\u30eb\u30cf\u3099\u30e0 \u30b7\u30f3\u30af\u3099\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3+ \u30a2\u30c1\u30b3\u30c1",
+        "url": "https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280293,
+      "name": "\u5e78\u305b\u306b\u3064\u3044\u3066\u79c1\u304b\u3099\u77e5\u3063\u3066\u3044\u308b5\u3064\u306e\u65b9\u6cd5",
+      "url": "https://open.spotify.com/track/0kaD2eFGEkjDhWNQI6dITy"
+    },
+    {
+      "album": {
         "name": "FOLLOW ME UP",
         "url": "https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y"
       },
@@ -1189,7 +1356,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 370533,
       "name": "\u8352\u5ddd\u5c0f\u666f",
       "url": "https://open.spotify.com/track/0bCYCxhnmWCFA8WcoCOvqz"

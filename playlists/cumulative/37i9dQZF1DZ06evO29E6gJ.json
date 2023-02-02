@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
   "name": "This Is Los Alegres De Teran",
-  "published_playlist_ids": [
-    "3L1RmjKFTceey2iLuEWcFK"
-  ],
   "tracks": [
     {
       "album": {
@@ -163,7 +160,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 270453,
       "name": "Corrido De Felipe Angeles",
       "url": "https://open.spotify.com/track/04WwCNKM6hbBAc9IJ5d01f"
@@ -426,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Serenata Bajo Las Estrellas 15 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/0j2N0ZJPQjEQgcMN3OPNJk"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162720,
+      "name": "Ingrato Amor",
+      "url": "https://open.spotify.com/track/1eaux4zfvoNc0LuXIVRgzB"
+    },
+    {
+      "album": {
         "name": "El Disco de Oro",
         "url": "https://open.spotify.com/album/2pzAQ1soE41kyiDbtEZCck"
       },
@@ -437,7 +452,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 164360,
       "name": "Ingrato Amor",
       "url": "https://open.spotify.com/track/5t65uwfgs6ZYzdP3gGuIj7"

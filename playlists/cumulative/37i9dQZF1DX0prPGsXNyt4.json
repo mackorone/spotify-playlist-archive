@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-24",
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
   "name": "Casal Mandrake",
-  "published_playlist_ids": [
-    "4VavWr4LbyFMzey3WZnEMy"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,7 +20,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 118321,
       "name": "8 Ou 80",
       "url": "https://open.spotify.com/track/0Jx7E49MmE6PJ1R83L6bWP"
@@ -296,13 +293,17 @@
     },
     {
       "album": {
-        "name": "Funk \u00e9 N\u00f3is GR6 3.1 - Vol. 1",
+        "name": "Funk \u00e9 N\u00f3is GR6 3.1, Vol. 1",
         "url": "https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU"
       },
       "artists": [
         {
           "name": "Mc Kevin",
           "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
       "date_added": "2022-03-18",
@@ -583,6 +584,10 @@
           "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
         },
         {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
+        {
           "name": "MC Ryan SP",
           "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
@@ -745,6 +750,32 @@
       "duration_ms": 353696,
       "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
       "url": "https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d"
+    },
+    {
+      "album": {
+        "name": "PROIBIDRILL",
+        "url": "https://open.spotify.com/album/1MndcCC7a7N1qSfAg1Z1S6"
+      },
+      "artists": [
+        {
+          "name": "MC Smith",
+          "url": "https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Pretta Poder",
+          "url": "https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Mina de F\u00e9",
+      "url": "https://open.spotify.com/track/4VQ2PAYUxoSzJHzPWGEFbh"
     },
     {
       "album": {

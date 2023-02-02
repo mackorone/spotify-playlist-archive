@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-10",
   "description": "Disfruta con mam\u00e1 la era dorada de los 80's.  ",
   "name": "Mam\u00e1 80era",
-  "published_playlist_ids": [
-    "2bFb9aU7QO0KHEjsEO6R11"
-  ],
   "tracks": [
     {
       "album": {
@@ -257,7 +254,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 161026,
       "name": "Celos",
       "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
@@ -567,7 +564,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2022-12-13",
       "duration_ms": 294870,
       "name": "Duri Duri (Baila Baila)",
       "url": "https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39"
@@ -661,7 +658,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 214573,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0"
@@ -773,6 +770,24 @@
       "duration_ms": 224173,
       "name": "Flashdance...What A Feeling - From \"Flashdance\"",
       "url": "https://open.spotify.com/track/5nUpmh8WSlQooSmNEUWDJo"
+    },
+    {
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "album": {
@@ -1273,7 +1288,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 253066,
       "name": "Luna m\u00e1gica",
       "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
@@ -1991,7 +2006,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-22",
       "duration_ms": 256200,
       "name": "Veinte Millas",
       "url": "https://open.spotify.com/track/2PJa2C3r3b6byOU6JsxNUn"

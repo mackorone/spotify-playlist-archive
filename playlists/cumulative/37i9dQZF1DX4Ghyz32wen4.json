@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Foto: Paulo Londra",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Nsqk en portada.",
   "name": "sentimiento.",
-  "published_playlist_ids": [
-    "7tURDhchLm4ApuqHMwUzSU"
-  ],
   "tracks": [
     {
       "album": {
@@ -80,6 +77,24 @@
     },
     {
       "album": {
+        "name": "ant\u00eddoto",
+        "url": "https://open.spotify.com/album/7LTfZVq7KYAesuz68KxhNs"
+      },
+      "artists": [
+        {
+          "name": "D. Krugga",
+          "url": "https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "ant\u00eddoto",
+      "url": "https://open.spotify.com/track/76WhhOuq2FLhzA9g90tKEG"
+    },
+    {
+      "album": {
         "name": "Apaga la Luz",
         "url": "https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s"
       },
@@ -135,6 +150,24 @@
       "duration_ms": 233105,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH"
+    },
+    {
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "album": {
@@ -269,6 +302,24 @@
       "duration_ms": 163755,
       "name": "COLTRANE",
       "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
+    },
+    {
+      "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245700,
+      "name": "Cuando Me Vaya",
+      "url": "https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW"
     },
     {
       "album": {
@@ -411,6 +462,36 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
+    },
+    {
+      "album": {
+        "name": "Eres un Arte",
+        "url": "https://open.spotify.com/album/2YlGzp6EFvKukhDHbKJhRR"
+      },
+      "artists": [
+        {
+          "name": "Derian",
+          "url": "https://open.spotify.com/artist/220SaLUhEtl59oRglesxcL"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "Alexis Chaires",
+          "url": "https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr"
+        },
+        {
+          "name": "Deack Lopez",
+          "url": "https://open.spotify.com/artist/191vrwSKDKBZRG1u7NcMpo"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233842,
+      "name": "Eres un Arte",
+      "url": "https://open.spotify.com/track/37i9NWAGKTyazstAz6nfos"
     },
     {
       "album": {
@@ -567,6 +648,24 @@
       "duration_ms": 205200,
       "name": "Ladrones de Estrellas",
       "url": "https://open.spotify.com/track/5NqtAYtvukTpz4om6tQ5Zg"
+    },
+    {
+      "album": {
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
     },
     {
       "album": {
@@ -975,7 +1074,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 196000,
       "name": "No Inventes",
       "url": "https://open.spotify.com/track/2AU1zlNbI0GcxeWPG04eLU"
@@ -1033,7 +1132,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 222680,
       "name": "Notificaci\u00f3n",
       "url": "https://open.spotify.com/track/3LYn6oi29ACxuEFCKd0xBN"
@@ -1059,6 +1158,28 @@
       "duration_ms": 222680,
       "name": "Notificaci\u00f3n",
       "url": "https://open.spotify.com/track/62SKI7ByCAOwSbuUa7B0A5"
+    },
+    {
+      "album": {
+        "name": "Notificaci\u00f3n",
+        "url": "https://open.spotify.com/album/1LzkBjuMTYNgFLaOmcx3UW"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        },
+        {
+          "name": "Nana Bersa",
+          "url": "https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223093,
+      "name": "Notificaci\u00f3n",
+      "url": "https://open.spotify.com/track/6qWukaKIiMt1G7TEfVHlzZ"
     },
     {
       "album": {
@@ -1545,10 +1666,28 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 143225,
       "name": "\u00cdntimo",
       "url": "https://open.spotify.com/track/2gohC1iBNEdCtnpbSF9tU6"
+    },
+    {
+      "album": {
+        "name": "\u00cdntimo",
+        "url": "https://open.spotify.com/album/4pbsAXJhDBGKiXKuBiJspO"
+      },
+      "artists": [
+        {
+          "name": "Alex Gracia",
+          "url": "https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143626,
+      "name": "\u00cdntimo",
+      "url": "https://open.spotify.com/track/1gqbU9zB1RHIhID5XFmOM7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4"

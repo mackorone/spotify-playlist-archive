@@ -4,7 +4,7 @@
 
 > All of the classics songs, all in one place.
 
-52 songs - 2 hr 3 min - [published](https://open.spotify.com/playlist/3gRfc5r1jjL88z25pzBFOH)
+52 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

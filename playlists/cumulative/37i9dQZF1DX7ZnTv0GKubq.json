@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-22",
   "description": "Late night chilled vibes, for those intimate moments.",
   "name": "Spotify & Chill",
-  "published_playlist_ids": [
-    "05s68v4iBuEFERPXDrDMju"
-  ],
   "tracks": [
     {
       "album": {
@@ -171,6 +168,24 @@
       "duration_ms": 228473,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23"
+    },
+    {
+      "album": {
+        "name": "Come Around EP",
+        "url": "https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228473,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
     },
     {
       "album": {
@@ -373,7 +388,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
@@ -525,7 +540,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 201942,
       "name": "Bussdown (feat. Shaybo)",
       "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
@@ -659,7 +674,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 184090,
       "name": "Cigarettes & Alcohol",
       "url": "https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0"
@@ -877,7 +892,25 @@
     {
       "album": {
         "name": "Don't Take Your Love",
-        "url": "https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9"
+        "url": "https://open.spotify.com/album/2fje8BKwgRfnIADIikLTli"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 186494,
+      "name": "Don't Take Your Love",
+      "url": "https://open.spotify.com/track/1GHXliRsmm1Qb40h3PKnrs"
+    },
+    {
+      "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
       "artists": [
         {
@@ -888,6 +921,24 @@
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186494,
+      "name": "Don't Take Your Love",
+      "url": "https://open.spotify.com/track/1d4srFfqCqXT5EpesRXAkT"
+    },
+    {
+      "album": {
+        "name": "Don't Take Your Love",
+        "url": "https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
       "duration_ms": 186494,
       "name": "Don't Take Your Love",
       "url": "https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA"
@@ -963,7 +1014,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 165009,
       "name": "Everybody Business",
       "url": "https://open.spotify.com/track/6TrdeNEgbKuBqIToRfdWMY"
@@ -1573,7 +1624,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 189000,
       "name": "homebody",
       "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
@@ -1995,7 +2046,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-02-01",
       "duration_ms": 185681,
       "name": "just a boy",
       "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
@@ -2771,6 +2822,24 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "album": {
@@ -3893,6 +3962,24 @@
       "duration_ms": 198666,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/4F8ZpGHyAwNCNgEKrjlDSZ"
+    },
+    {
+      "album": {
+        "name": "Very Few Friends",
+        "url": "https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Very Few Friends",
+      "url": "https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi"
     },
     {
       "album": {

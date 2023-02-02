@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
   "name": "This Is Nightwish",
-  "published_playlist_ids": [
-    "2MJVM40wk4kbPwCrOhCR9b"
-  ],
   "tracks": [
     {
       "album": {
@@ -523,7 +520,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 209000,
       "name": "Instrumental (Crimson Tide / Deep Blue Sea) - Live",
       "url": "https://open.spotify.com/track/5EKThE1jwnncFiGoEtNVBG"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "Energetic tracks from the 1990s to boost your running session.",
   "name": "90s Pop Run",
-  "published_playlist_ids": [
-    "7D5evLIzQvkxIsF51nBPOm"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 230933,
       "name": "2 Times - Original",
       "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
@@ -199,10 +196,32 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 253000,
       "name": "Blood on the Dance Floor",
       "url": "https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc"
+    },
+    {
+      "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
     },
     {
       "album": {
@@ -495,10 +514,32 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 250426,
       "name": "Here Comes The Hotstepper - Heartical Mix",
       "url": "https://open.spotify.com/track/3DWS2ZgcoQgfFm7uEnzYMI"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Hotstepper",
+        "url": "https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5"
+      },
+      "artists": [
+        {
+          "name": "Ini Kamoze",
+          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250466,
+      "name": "Here Comes the Hotstepper - Heartical Mix",
+      "url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx"
     },
     {
       "album": {
@@ -859,7 +900,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 227040,
       "name": "Life Is a Flower",
       "url": "https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P"
@@ -1145,6 +1186,24 @@
       "duration_ms": 252133,
       "name": "Paying The Price Of Love",
       "url": "https://open.spotify.com/track/33Z1BRngcyzyEYo3lRQY8H"
+    },
+    {
+      "album": {
+        "name": "We All Need Love",
+        "url": "https://open.spotify.com/album/61jMz9gG0UkpTGeVI2x26L"
+      },
+      "artists": [
+        {
+          "name": "Double You",
+          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/0bwNb4KRkhzahJJMFsGoPR"
     },
     {
       "album": {
@@ -1563,7 +1622,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 211800,
       "name": "Two Can Play That Game - Radio Edit",
       "url": "https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0"

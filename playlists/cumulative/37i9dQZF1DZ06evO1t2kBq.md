@@ -4,7 +4,7 @@
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 22 min - [published](https://open.spotify.com/playlist/5Eh1vidO7hsvmFQqGiaXiF)
+59 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

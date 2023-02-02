@@ -4,7 +4,7 @@
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-149 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/033UsUOq5jX4rotaC52w8z)
+150 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Los Pobres Tambien LLoran](https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:36 | 2021-12-02 |  |
 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 | 2021-12-02 | 2022-11-13 |
 | [Los Últimos](https://open.spotify.com/track/6Y9P646HsmJtZEE2zmgHeF) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 4:42 | 2021-12-02 | 2022-07-29 |
-| [Maestra](https://open.spotify.com/track/4uQf92w1IjsdnKZevVANAt) | [Elvis Martinez](https://open.spotify.com/artist/2Nbb9tYqcZvINNMbUsQn26) | [Maestra](https://open.spotify.com/album/5oTBkhFGfjSNTLYcZEiDCy) | 3:54 | 2021-12-02 |  |
+| [Maestra](https://open.spotify.com/track/4uQf92w1IjsdnKZevVANAt) | [Elvis Martinez](https://open.spotify.com/artist/2Nbb9tYqcZvINNMbUsQn26) | [Maestra](https://open.spotify.com/album/5oTBkhFGfjSNTLYcZEiDCy) | 3:54 | 2021-12-02 | 2022-12-31 |
+| [Maestra](https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c) | [Elvis Martinez El Camarón](https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP) | [Tres Palabras](https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5) | 3:51 | 2022-10-25 |  |
 | [Me Duele La Cabeza](https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Oblígame](https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm) | 3:53 | 2021-12-02 |  |
 | [Me Quedo](https://open.spotify.com/track/301E9bwin8Gh2PCp0doIDz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:55 | 2021-12-02 | 2022-10-26 |
 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 | 2021-12-02 |  |

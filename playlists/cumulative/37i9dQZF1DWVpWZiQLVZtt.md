@@ -4,7 +4,7 @@
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 
-144 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/4TPOg4z7ow0pMjivOY7ryi)
+144 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Nada Hará Cambiar Mi Amor Por Ti](https://open.spotify.com/track/0sSYH6wPWL9SB7CDV8Bb0I) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:39 | 2022-01-27 |  |
 | [No Le Dijo Nada](https://open.spotify.com/track/6zfTUzKLKRXeSzIl7DYPvq) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 3:42 | 2022-01-27 |  |
 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 | 2022-01-27 |  |
-| [No Podras](https://open.spotify.com/track/2Pu6Yd9XZ8H4lrGPv9kqEH) | [Cristian](https://open.spotify.com/artist/3udlGv7o6NeUWRlRFGqPY9) | [Mis Mejores Momentos:Para Coleccionistas Romantic](https://open.spotify.com/album/101Hh240WmUplE337DUCEO) | 4:02 | 2022-01-27 |  |
+| [No Podras](https://open.spotify.com/track/2Pu6Yd9XZ8H4lrGPv9kqEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mis Mejores Momentos:Para Coleccionistas Romantic](https://open.spotify.com/album/101Hh240WmUplE337DUCEO) | 4:02 | 2022-01-27 |  |
 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 | 2022-01-27 |  |
 | [No Te Preocupes](https://open.spotify.com/track/3sU8d9i91CGeKRJR7WAHwk) | [El Simbolo](https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3) | [Éxitos](https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd) | 3:58 | 2022-01-27 |  |
 | [Nunca Te Olvidaré](https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Cosas Del Amor](https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB) | 4:24 | 2022-01-27 |  |

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u00a1Brillando baldosa! Foto: Grupo Niche",
+  "description": "\u00a1Brillando baldosa! Foto: Juan Carlos Ensamble",
   "name": "Salsa Colombiana",
-  "published_playlist_ids": [
-    "1eegQiXfJaHta2senGpLua"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,7 +24,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 244088,
       "name": "Amantes - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/30UA08ePK3varU1cNX2Owt"
@@ -255,7 +252,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 260865,
       "name": "Canciones Viejas",
       "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
@@ -541,6 +538,24 @@
       "duration_ms": 241880,
       "name": "El Coco",
       "url": "https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G"
+    },
+    {
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/29NP640fImq9OjFZRrYmFx"
+      },
+      "artists": [
+        {
+          "name": "La Radio Bemb\u00e9 Orquesta",
+          "url": "https://open.spotify.com/artist/6cajshs06v9KvBLZuJZhfW"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/24rWaJaf238EktE0rQrtyj"
     },
     {
       "album": {
@@ -882,6 +897,24 @@
     },
     {
       "album": {
+        "name": "La \u00danica",
+        "url": "https://open.spotify.com/album/1SCjBabL3glZMAXCwqC5W7"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Ensamble",
+          "url": "https://open.spotify.com/artist/2D6mQmDTdaLcA9BZytb4yk"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177179,
+      "name": "La \u00danica",
+      "url": "https://open.spotify.com/track/4ecq0bpcAfBzdAwA20Sy5M"
+    },
+    {
+      "album": {
         "name": "Historia M\u00fasical - 30 \u00c9xitos",
         "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
       },
@@ -941,6 +974,24 @@
       "duration_ms": 274760,
       "name": "Lindo Yamb\u00fa",
       "url": "https://open.spotify.com/track/1SRtV0s5iBamG2CQcNGvV1"
+    },
+    {
+      "album": {
+        "name": "Soy la Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/68OC8H6MlIrTIrOdTqO2tt"
+      },
+      "artists": [
+        {
+          "name": "Manyoma Brothers",
+          "url": "https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267541,
+      "name": "Logr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo"
     },
     {
       "album": {
@@ -1191,7 +1242,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 208235,
       "name": "Para el Monte - Live",
       "url": "https://open.spotify.com/track/1USJMj8alL9SWWaziuKZCI"
@@ -1609,6 +1660,24 @@
       "duration_ms": 255000,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/4oNLeMYQUM4qfmZvfrToA0"
+    },
+    {
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287441,
+      "name": "Tocando el Cielo Con las Manos",
+      "url": "https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6"
     },
     {
       "album": {

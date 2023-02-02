@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: GREY D",
   "name": "RADAR Vietnam",
-  "published_playlist_ids": [
-    "2s99wOe5KkDPtODdly2OIW"
-  ],
   "tracks": [
     {
       "album": {
@@ -194,7 +191,7 @@
     },
     {
       "album": {
-        "name": "'d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a' \u2013 Maxi Single",
+        "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a \u2013 Maxi Single",
         "url": "https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL"
       },
       "artists": [
@@ -311,10 +308,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 250538,
       "name": "Ho\u00e0ng H\u00f4n",
       "url": "https://open.spotify.com/track/0AFGP6yJiakwce0evtrbxd"
+    },
+    {
+      "album": {
+        "name": "Ho\u00e0ng H\u00f4n",
+        "url": "https://open.spotify.com/album/20l0aOMxX0YDZq1bBCuoU6"
+      },
+      "artists": [
+        {
+          "name": "Cheung",
+          "url": "https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250538,
+      "name": "Ho\u00e0ng H\u00f4n",
+      "url": "https://open.spotify.com/track/0GdrFeLGWjlEcAfoQEMXH5"
     },
     {
       "album": {
@@ -784,7 +799,7 @@
     },
     {
       "album": {
-        "name": "'d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a' \u2013 Maxi Single",
+        "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a \u2013 Maxi Single",
         "url": "https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL"
       },
       "artists": [

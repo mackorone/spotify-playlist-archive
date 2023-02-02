@@ -4,7 +4,7 @@
 
 > El género cubano cantable y bailable por excelencia.
 
-96 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/0wPAeHX5PTuxN79WTWAwvo)
+96 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

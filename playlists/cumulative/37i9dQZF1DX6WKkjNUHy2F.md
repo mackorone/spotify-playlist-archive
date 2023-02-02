@@ -4,7 +4,7 @@
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
-35 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/2D6Av3yzPkip4DMqjTyV9j)
+36 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [La La La](https://open.spotify.com/track/1RjpMjVNCHWoltfYSBHEKg) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana](https://open.spotify.com/album/53iwAByO7wE7EqnpFPpIB3) | 3:42 | 2022-11-12 | 2022-11-13 |
 | [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2022-07-29 |  |
 | [Let's Have A Kiki](https://open.spotify.com/track/154Ada4WZXskIMnsKiy26u) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour \(Deluxe\)](https://open.spotify.com/album/2P12s0AcooZGvM6mfgeuw3) | 3:50 | 2017-06-02 |  |
-| [Live Your Life](https://open.spotify.com/track/1DkE9q0AAby1arBO7rIqZ1) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [This Is What I Do](https://open.spotify.com/album/3cU7WKJxiHrZDaDCk1HSkm) | 4:33 | 2017-06-02 |  |
+| [Live Your Life](https://open.spotify.com/track/1DkE9q0AAby1arBO7rIqZ1) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [This Is What I Do](https://open.spotify.com/album/3cU7WKJxiHrZDaDCk1HSkm) | 4:33 | 2017-06-02 | 2022-12-01 |
+| [Live Your Life](https://open.spotify.com/track/5xxXrfRW2n8eqllPtEDbEU) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [This Is What I Do](https://open.spotify.com/album/7fGB7p5gO9DeSLaJTvSrWH) | 4:33 | 2022-12-01 |  |
 | [Queen](https://open.spotify.com/track/1DfRCC2qpjjzc6l5DmTjkG) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright](https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra) | 3:50 | 2022-07-29 |  |
 | [Queen](https://open.spotify.com/track/52WTLETEHs5jwCr7LCq0VW) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright](https://open.spotify.com/album/28FxHb9OJRzAch4DwUUsaT) | 3:50 | 2017-06-02 | 2022-07-29 |
 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 | 2017-06-02 |  |

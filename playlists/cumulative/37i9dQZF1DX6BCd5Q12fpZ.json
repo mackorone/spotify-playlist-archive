@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
   "name": "Eurovision Party",
-  "published_playlist_ids": [
-    "1exkrkQUMlN50irx29MF90"
-  ],
   "tracks": [
     {
       "album": {
@@ -317,7 +314,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181520,
-      "name": "Diva - Radio Edit",
+      "name": "Diva - English Radio Version",
       "url": "https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge"
     },
     {
@@ -535,6 +532,24 @@
       "duration_ms": 168266,
       "name": "Every way that I can - English Radio Edit",
       "url": "https://open.spotify.com/track/2oWD0Kfu4JogKWouqax5GW"
+    },
+    {
+      "album": {
+        "name": "No Boundaries",
+        "url": "https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166893,
+      "name": "Every Way That I Can - Philippe Laurent from Galleon Radio Edit",
+      "url": "https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp"
     },
     {
       "album": {
@@ -1673,7 +1688,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 181173,
       "name": "Only Teardrops",
       "url": "https://open.spotify.com/track/269y1Vw3O0C9uI3drXpfo9"
@@ -1691,7 +1706,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183240,
       "name": "Only Teardrops",
       "url": "https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu"
@@ -2013,7 +2028,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 172666,
       "name": "Runaway - Bonus Track",
       "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
@@ -2139,7 +2154,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 178880,
       "name": "Shady Lady",
       "url": "https://open.spotify.com/track/5devjcsxeVnwYQbaYJ2Ewx"
@@ -2507,7 +2522,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 182548,
       "name": "Verona - Eurovision 2017 - Estonia",
       "url": "https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD"
@@ -2741,10 +2756,28 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 186000,
       "name": "You are the only one",
       "url": "https://open.spotify.com/track/6IMHlXaG4aCFWupl9NCZO2"
+    },
+    {
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/1gKYilxh4go3gKDikTH1ZO"
+      },
+      "artists": [
+        {
+          "name": "Sergey Lazarev",
+          "url": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "You are the only one",
+      "url": "https://open.spotify.com/track/7ANprWfKB8UoNggroXtfUv"
     },
     {
       "album": {

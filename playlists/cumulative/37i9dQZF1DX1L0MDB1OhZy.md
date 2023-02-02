@@ -4,7 +4,7 @@
 
 > Love Books? Free your reading from the tyranny of page and screen with this collection of audiobooks\. Follow for frequent additions!
 
-122 songs - 2 day 20 hr 39 min - [published](https://open.spotify.com/playlist/4De2ah7nIXMZAWpkjxVcJs)
+122 songs - 2 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

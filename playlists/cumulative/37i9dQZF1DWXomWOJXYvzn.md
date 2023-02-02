@@ -4,7 +4,7 @@
 
 > Commonly known as <a href="https://www.instagram.com/alohodc/">ALOHO</a>, this queer/lesbian bar, safe space, and community hub in Washington, DC  helps to co\-curate a playlist of their favorite Pride jams!
 
-68 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/3kiPtpB81ucJZ3VLPIWDlu)
+68 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

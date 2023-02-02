@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-105 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
+107 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Eighthundred Streets by Feet \(Live in Hamburg\)](https://open.spotify.com/track/0JTGz6NuHb7cuLM5GEbMZw) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [e.s.t\. Live in Hamburg](https://open.spotify.com/album/3PU1b3aDrbMKucRulElluF) | 9:35 | 2021-11-12 |  |
 | [Equestrian Interlude \- Live](https://open.spotify.com/track/4iSBtIlyHUHzmyskZdhoBt) | [Steve Kaldestad](https://open.spotify.com/artist/7Cao2Bt1ODXYUnzkqI4ENL) | [Equestrian Interlude \(Live\)](https://open.spotify.com/album/1N7c2p9mLY8Ikzl9Hk980l) | 6:37 | 2022-03-11 |  |
 | [Evidence \- Live At Carnegie Hall, New York/1957](https://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r) | [Thelonious Monk Quartet](https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [At Carnegie Hall](https://open.spotify.com/album/3x38mYlwkm6L6vYIn0Hzqk) | 4:41 | 2021-11-12 |  |
+| [Exodus](https://open.spotify.com/track/062FRhtHo7W8ZvZUefVIb9) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [In Concert](https://open.spotify.com/album/07fBpu7zIOCeOwCFKoWnu3) | 8:09 | 2023-01-27 |  |
 | [Fair Trade \- Live in Paris](https://open.spotify.com/track/11HEYsb6P91SXnwUHEoQO7) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Live in Paris](https://open.spotify.com/album/6UeVvu9ou7G4ZhZIE5rSRn) | 5:57 | 2022-03-18 |  |
 | [Filthy McNasty \- Live At Village Gate Club, New York, 1961 / Remastered 2006 / Rudy Van Gelder Edition](https://open.spotify.com/track/78DXI2y5wYjNm2W5cDAUSA) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Doin' The Thing: The Horace Silver Quintet At The Village Gate \(Remastered 2006/Rudy Van Gelder Edition\)](https://open.spotify.com/album/6CPk8vCQBxUtcPBQgnVvJv) | 11:02 | 2021-11-12 |  |
 | [Footprints \- Live](https://open.spotify.com/track/5XuhO3gmErT7vls3Jjr6FZ) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Footprints \- Live](https://open.spotify.com/album/77hBFKuRXGV6kgHsG2c034) | 7:53 | 2021-11-12 |  |
@@ -112,6 +113,7 @@
 | [Where Do I Go from Here? \- Live](https://open.spotify.com/track/7nkambEulQpS321zfsrbiA) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [On a Clear Day: The Oscar Peterson Trio \- Live in Zurich, 1971](https://open.spotify.com/album/38lO4EZETq8mnXKHi1Nvkl) | 7:38 | 2022-10-21 |  |
 | [Windjammer \- Live At The Lighthouse, Hermosa Beach, CA/1972](https://open.spotify.com/track/2JqnTQh5Shj7V5geLwXJZj) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Live At The Lighthouse](https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ) | 12:15 | 2021-11-12 |  |
 | [Yesterdays \(Live\) \- Live At Cafe Bohemia, NY, 1955 / Remastered 2001](https://open.spotify.com/track/3261Vks4j8VomrwDXph9zB) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [At The Cafe Bohemia](https://open.spotify.com/album/7abhRrzWB22yrMLbp7HcMJ) | 4:18 | 2021-11-12 |  |
+| [You Gotta Move \- Live](https://open.spotify.com/track/68kNEyWdXZL5t1qJiDxv9l) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [You Gotta Move \(Live\)](https://open.spotify.com/album/590vu7oWUxgtmGGC9j24VI) | 14:01 | 2023-01-13 |  |
 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

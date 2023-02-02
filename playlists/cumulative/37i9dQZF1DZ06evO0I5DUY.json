@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
   "name": "This Is Los Cadetes De Linares",
-  "published_playlist_ids": [
-    "0WK1R7cOtc6ojpQbtQbUnD"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 187666,
       "name": "A\u00f1orando Tus Besos",
       "url": "https://open.spotify.com/track/5ajGpk5BqdTuyvuBLItxkx"
@@ -203,7 +200,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 160200,
       "name": "Desprecio",
       "url": "https://open.spotify.com/track/7uCGYSsVLXWQpfGb26QSfq"
@@ -791,7 +788,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 216720,
       "name": "Laurita Garza",
       "url": "https://open.spotify.com/track/6T7yJ6ptjuHDQP8cXaiu2R"
@@ -1022,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Mis Recuerdos Adios Amigo Del Alma",
+        "url": "https://open.spotify.com/album/66lB6Ab3RKhrlQ29sxWvRx"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140640,
+      "name": "Por Ser Tan Pobre",
+      "url": "https://open.spotify.com/track/73BHd7jJqU2JrPXoWLyMK8"
+    },
+    {
+      "album": {
         "name": "Los Dos Amigos",
         "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
       },
@@ -1087,7 +1102,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 162120,
       "name": "Regalo de Reyes",
       "url": "https://open.spotify.com/track/0ENJiHJvWTM5ZXgxyYRkIO"
@@ -1105,7 +1120,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 156880,
       "name": "Rezando Por Ella",
       "url": "https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0"

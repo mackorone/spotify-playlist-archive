@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 
 > The official playlist for Heartstopper\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,775 likes - 36 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,325 likes - 36 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 | 6 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
 | 7 | [girls](https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173) | 3:18 |
 | 8 | [Dance with Me](https://open.spotify.com/track/2sBKLT7bFa38yVAYxYltUX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:54 |
-| 9 | [Angel](https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU) | 3:56 |
+| 9 | [Angel](https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f) | 3:56 |
 | 10 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 |
 | 11 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
 | 12 | [Telephone](https://open.spotify.com/track/4VgdhAy0DBSF5hbbKzTEdS) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:33 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 | 35 | [Moment In The Sun](https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx) | 3:09 |
 | 36 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 
-Snapshot ID: `MTY1MTgzNDE4NCwwMDAwMDAwMGUzOTYyYjE2MjhiZDUyYzU5MmUwOWE0OGRkZmE5Mzc1`
+Snapshot ID: `MTY1MTgzNDE4NCwwMDAwMDAwMGM3NDhiMTNmMzJhYWMyMWFiNzZiOTYxOTM2MmEzNTYz`

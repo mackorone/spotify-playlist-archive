@@ -4,7 +4,7 @@
 
 > Free\-spirited, eclectic, and decadent lyrics mix with folksy, indie, and slightly psychedelic acoustics\. This is The New Bohemian.
 
-81 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/2b6JdOLvXPtfSf0xGU1ppL)
+81 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

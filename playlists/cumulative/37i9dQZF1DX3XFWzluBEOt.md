@@ -4,7 +4,7 @@
 
 > En el corazón de los fanáticos, canciones que navegaron bajo la superficie.
 
-27 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/7EqZd6UUHGwvKCL2jECel9)
+27 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

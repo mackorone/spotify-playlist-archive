@@ -4,7 +4,7 @@
 
 > Celebrate legendary DJ/BBC Radio 1 host John Peel's legacy in this collection of highlights from 5 decades of <a href="https://en.wikipedia.org/wiki/List\_of\_Peel\_sessions">Peel Sessions</a>\. Hear Pavement covering <a href="spotify:user:spotify:playlist:37i9dQZF1DX7mMRxgkst0Y">The Fall</a>, acoustic Morrissey, Nirvana before Nevermind, Bowie debuting Hunky Dory outtake, and many more.
 
-60 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/3ebvNgO0WQTAndqEOoXuTQ)
+60 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

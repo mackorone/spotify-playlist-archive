@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l\">Teddy Geiger</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Teddy Geiger",
-  "published_playlist_ids": [
-    "6IpcksdUvSGLIcSPPeLhih"
-  ],
   "tracks": [
     {
       "album": {
@@ -1355,6 +1352,24 @@
       "duration_ms": 206003,
       "name": "Jump On It",
       "url": "https://open.spotify.com/track/66iI77cgWBEdGichkndWJe"
+    },
+    {
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174183,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd"
     },
     {
       "album": {
@@ -2759,7 +2774,7 @@
       },
       "artists": [
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],

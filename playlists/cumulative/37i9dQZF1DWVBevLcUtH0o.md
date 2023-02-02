@@ -4,7 +4,7 @@
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large.
 
-56 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/0nS20VBWOXRuUexzH8mtkB)
+56 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

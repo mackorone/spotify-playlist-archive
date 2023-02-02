@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc5QDlvD7t0.md) - [plain]
 
 > The best indie rock/pop/punk/dance/hip hop/r&b of 2019\. Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,570 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,690 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc5QDlvD7t0.md) - [plain]
 | 22 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 |
 | 23 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 |
 | 24 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
-| 25 | [Best Life](https://open.spotify.com/track/068XDWvE8tDnQsKo8J3x1Z) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [uknowhatimsayin¿](https://open.spotify.com/album/4G3BRVsGEpWzUdplFJ1VBl) | 2:33 |
+| 25 | [Best Life](https://open.spotify.com/track/54YyC7XnYzbyY9HnqtNnfH) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [uknowhatimsayin¿](https://open.spotify.com/album/5RCXsrdnNwXGDgKVYpWKHW) | 2:33 |
 | 26 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
 | 27 | [Spirit](https://open.spotify.com/track/0f9vhmR2FVZ75t69Lvo39b) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/0Rl2oukHRhIEK48o5ZbJNu) | 4:49 |
 | 28 | [DYSFUNCTIONAL](https://open.spotify.com/track/60y3oBiHHIlOzUFZRWP6Ak) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [DYSFUNCTIONAL](https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc5QDlvD7t0.md) - [plain]
 | 49 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
 | 50 | [placeholder](https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz) | 3:50 |
 
-Snapshot ID: `MTU3NTk5NDk2MiwwMDAwMDAwMDA0NDc3MTc0NDk0MjRlNzEwOTIzMWRjMjc5NmIxNDQ1`
+Snapshot ID: `MTU3NTk5NDk2MiwwMDAwMDAwMDkwNjFmOTA2M2E1YjIxNjU5NWY4OGI5ZTdjNTM2OTFm`

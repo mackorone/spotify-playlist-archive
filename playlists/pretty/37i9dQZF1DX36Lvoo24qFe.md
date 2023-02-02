@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36Lvoo24qFe.md) - [plain]
 
 > The ultimate playlist to water your plants to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,010 likes - 27 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,982 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [burning piles \- Slowed](https://open.spotify.com/track/4Nwb63vYtwv8KgVw5LsIW0) | [Tooney Tunes](https://open.spotify.com/artist/6Vve3uh2knAhvVLKa2dvlS) | [burning piles \(Slowed\)](https://open.spotify.com/album/52O3Ty6OQNnOfgLEZhY4RO) | 5:27 |
+| 1 | [burning piles \- Slowed \- Remix](https://open.spotify.com/track/26b5p4qw9SQxSWN0Bzoak6) | [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny), [SECA Records](https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox) | [burning piles \- Slowed \(Remix\)](https://open.spotify.com/album/3tsPgAoL639q9gOZQckv8n) | 5:27 |
 | 2 | [Violent \- slowed + reverb](https://open.spotify.com/track/04qNn4YcbE0O0UJXZosaQe) | [Leverutlo](https://open.spotify.com/artist/0yVpvGeAKY4QMkYUopBu7a) | [Violent \(slowed + reverb\)](https://open.spotify.com/album/6XAdZ91yspefbJXDEzgFZW) | 2:32 |
 | 3 | [Aesthetic Girl \(Slowed + Reverb\) \[Love Making Ver\]](https://open.spotify.com/track/5077oyWMFY3CVOX53UfPpd) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl \(Slowed + Reverb\) \[Love Making Ver\]](https://open.spotify.com/album/6EMVGd2CgjonyXdwKUY19U) | 5:19 |
 | 4 | [Hopeless Romantic \(Slowed + Reverb\)](https://open.spotify.com/track/1NkyGvvH5Vai7qC24P9bqm) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Hopeless Romantic \(Slowed + Reverb\)](https://open.spotify.com/album/1tvVMZ79HjX4vwnUXHgJDz) | 5:16 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36Lvoo24qFe.md) - [plain]
 | 11 | [alex g treehouse cover](https://open.spotify.com/track/1dQp6zZgvJj4dTrbQJrZn4) | [kelseydog](https://open.spotify.com/artist/2ApxzswVcHDlqJYfonvcGU) | [thinking](https://open.spotify.com/album/7tmREtxIU8NPJmI6OoN8R7) | 0:39 |
 | 12 | [Foreign Bodies](https://open.spotify.com/track/42kJ4xNjMHEeIuLxfIUOYd) | [Radiation City](https://open.spotify.com/artist/1nlI6sCz1fw135KYwweoCk) | [Animals In The Median](https://open.spotify.com/album/6FJCSBtJHYl1aOXl8iirjz) | 3:57 |
 | 13 | [L$D](https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:58 |
-| 14 | [Nine Is God](https://open.spotify.com/track/6sChW7Z0IwSvvBR6m4dMws) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly) | 4:57 |
+| 14 | [Nine Is God](https://open.spotify.com/track/5ZGM626be3ItMW4UPjfqdY) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr) | 4:57 |
 | 15 | [Staring Out the Window](https://open.spotify.com/track/0a9J9ZIWu6nTRR0LjdBrUm) | [Fulton Lights](https://open.spotify.com/artist/3co8dAneVL9vedCNOD5Lkb) | [3 Songs](https://open.spotify.com/album/5cDJTr4S1cldzVHEOqkMLi) | 3:01 |
 | 16 | [Acid Rain](https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [The Maze To Nowhere](https://open.spotify.com/album/4bplGkhwmNIVjMf2rTGeW5) | 2:52 |
 | 17 | [Abusey Junction](https://open.spotify.com/track/0M4ulR5HLZSGmuBKmdtDD5) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Out Here](https://open.spotify.com/album/3Pv6mwJhDCHsM04UqY0ueZ) | 7:04 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36Lvoo24qFe.md) - [plain]
 | 26 | [Jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 |
 | 27 | [The Fall](https://open.spotify.com/track/4aoUYp6DBRT2JjDw9qOFO5) | [Blake Leyh](https://open.spotify.com/artist/2gKgSA1quoNlsq2RnNIQu8) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 1:50 |
 
-Snapshot ID: `MTYyMTI5NDAzMCwwMDAwMDAwMGJiN2M3Nzg2YzMwMGQyYzU3YWZkZTlhZjVmZWQ5NGQ5`
+Snapshot ID: `MTYyMTI5NDAzMCwwMDAwMDAwMDBiZmRjM2Q1ODYyODVhNDFlZGQ1ZDhkNmU4ODMwNTBi`

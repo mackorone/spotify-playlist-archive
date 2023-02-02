@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/1vO472V3XfC0C1yYfOuExo)
+152 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Billie Holiday](https://open.spotify.com/track/2AlAmmMbgPadVZt0fH5aVW) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 3:14 | 2021-12-27 |  |
 | [Bittersweet](https://open.spotify.com/track/6fxuZrQxCPx0FeVSRZtCjw) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make A Scene](https://open.spotify.com/album/78y25UZcWa7BugXNRVuXDl) | 3:30 | 2021-12-27 |  |
 | [Boy](https://open.spotify.com/track/2axz5zimxFZduxUx8FDyKO) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever \(Deluxe Edition\)](https://open.spotify.com/album/2QDWFfsBr3EngvBwPtxoIY) | 3:48 | 2021-12-27 |  |
+| [Boys](https://open.spotify.com/track/4IYk5ESCDyErbN4jRPVBPq) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:05 | 2022-12-26 |  |
 | [BPM](https://open.spotify.com/track/3sHPa949wvS2SOVibGndoy) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [I Believe in You](https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC) | 4:05 | 2021-12-27 |  |
 | [C'Mon C'Mon](https://open.spotify.com/track/3Qk4KuCEABEX99TcxI9hmI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Kingsize](https://open.spotify.com/album/2gY7wANdIC3BOpBJJCiDCH) | 4:49 | 2021-12-27 |  |
 | [Change Your Life](https://open.spotify.com/track/1nDQ9EvOmLj1dYKRbbqcoU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:25 | 2021-12-27 |  |
@@ -58,6 +59,7 @@
 | [I Can't Wait](https://open.spotify.com/track/398JRb74efCO1xDxb36DTI) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Forever Is Over](https://open.spotify.com/album/6dIKn7KD9OTrNnqoPIt9bH) | 3:43 | 2021-12-27 |  |
 | [I Don't Know What It Is](https://open.spotify.com/track/3MJnTuDz55mdvbqGxc55u4) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/0OrHGmFklZgRtjgJuiaLAb) | 3:17 | 2021-12-27 |  |
 | [I Love It](https://open.spotify.com/track/6g225JcOUd88PRslWGsRD3) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:50 | 2021-12-27 |  |
+| [I'm Alright](https://open.spotify.com/track/0bGS851JgP0O5PXzNXzEcr) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:04 | 2022-12-26 |  |
 | [If U Can't Dance](https://open.spotify.com/track/6bh25NILjNfJnIvGRT2emC) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:48 | 2021-12-27 |  |
 | [If Ya Gettin' Down](https://open.spotify.com/track/6UespeVK9gGMnEyeMktQhU) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 3:00 | 2021-12-27 |  |
 | [If You Come To Me](https://open.spotify.com/track/4FV9InscvnORIskVXChR6f) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Ladies Night](https://open.spotify.com/album/6qsgLiECZ00OmrxvA3FSJ5) | 3:46 | 2021-12-27 |  |
@@ -82,6 +84,7 @@
 | [Lonely With You](https://open.spotify.com/track/1PMF8UtwRQtFccnD3ZlXfP) | [No Frills Twins](https://open.spotify.com/artist/0txX04I8tX1Slgkipl0rsv) | [Lonely With You](https://open.spotify.com/album/4aioDIyKH3cb3751EO74pu) | 3:49 | 2021-12-27 | 2022-07-28 |
 | [Love Affair](https://open.spotify.com/track/0iReGfmVn96YVgK4zG3eZX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:49 | 2021-12-27 |  |
 | [Love at First Sight](https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t) | 3:58 | 2021-12-27 |  |
+| [Love Me Hard](https://open.spotify.com/track/10XF4kqTkPmSdYFYzGeT7s) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 | 2022-12-26 |  |
 | [Lovers Rock](https://open.spotify.com/track/7mhej3Ia2MCc70ezcZdYuB) | [ABS](https://open.spotify.com/artist/4WivN6D56Y1AtjWPQ0HRRt) | [Abstract Theory](https://open.spotify.com/album/0MnIIyrXuXQCRtdNurf8Zp) | 4:29 | 2021-12-27 |  |
 | [Loving Days](https://open.spotify.com/track/09pDDFlNY1wkw67ci85RZl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 4:26 | 2021-12-27 |  |
 | [Lullaby](https://open.spotify.com/track/3hKUw3ZS76pmqAH0LATmpD) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Hot](https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2) | 3:26 | 2021-12-27 |  |
@@ -96,12 +99,14 @@
 | [Nowhere To Run](https://open.spotify.com/track/1PmSs7s1IUbcHokRmGIXeT) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Melanie C](https://open.spotify.com/album/7owRAI8xguTpim2jdn0Chg) | 3:34 | 2021-12-27 |  |
 | [O Holy Night](https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:53 | 2021-12-27 |  |
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-12-27 |  |
+| [Only You](https://open.spotify.com/track/0SElZqWjPYLsOub9h4VpGK) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes \(Deluxe Edition\)](https://open.spotify.com/album/5UO8gsaqNUoFrKBBQBEoVn) | 4:11 | 2023-01-02 |  |
 | [Outer Space Girls](https://open.spotify.com/track/2If7ZY3QFecpAiwtvdifnS) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Too Much](https://open.spotify.com/album/24ip1G5MdfgcC0kxQDTasv) | 3:57 | 2021-12-27 | 2022-11-08 |
 | [Outer Space Girls](https://open.spotify.com/track/1XHosFpKcWkRtuxPQm0HnO) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 3:58 | 2022-11-07 |  |
 | [Over You](https://open.spotify.com/track/4GWO6Pla2VYQ0AbY6aSVZB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 4:21 | 2021-12-27 |  |
 | [Paper Planes](https://open.spotify.com/track/3hSva4mXv3c2Cf63onTgiK) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:41 | 2021-12-27 |  |
 | [Personal Thunder](https://open.spotify.com/track/535yGaAt34yLFFiboAQsFW) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Echoes](https://open.spotify.com/album/0JQLxDADhjMFSdbi1HEQQd) | 4:52 | 2021-12-27 |  |
 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 | 2022-03-13 |  |
+| [Places](https://open.spotify.com/track/1HOLGWMADWYkbXUgFp8Smq) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 2:59 | 2022-11-27 | 2022-12-03 |
 | [Play To Win](https://open.spotify.com/track/37wacPZlYHUsrXnydnovyo) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:20 | 2021-12-27 |  |
 | [Please Stay](https://open.spotify.com/track/53GIGtgIkuYUDhdXoDFU0l) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 4:08 | 2021-12-27 |  |
 | [Ready or Not](https://open.spotify.com/track/1W9kMx5nVlaEkwthVPRsHU) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 3:49 | 2022-07-24 |  |
@@ -116,6 +121,7 @@
 | [Sparks](https://open.spotify.com/track/2l5Erct877PPZUx7Iy3HUD) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Sparks](https://open.spotify.com/album/58NN8n8lTv4Xn4xtKjWWE5) | 4:09 | 2022-02-22 |  |
 | [Spice Girl](https://open.spotify.com/track/4HW5kSQ8M2IQWZhSxERvla) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 2:53 | 2021-12-27 |  |
 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 | 2021-12-27 |  |
+| [Spin Me Round](https://open.spotify.com/track/0C5NWIzDFpeDKBjVvpjIAc) | [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Spin Me Round \(Remixes\) \- EP](https://open.spotify.com/album/2OmBbxJdmkiYV0dBmRZu0q) | 3:05 | 2023-01-22 |  |
 | [Starlight](https://open.spotify.com/track/2MJ8rS9Vi489qebKCh1Xb2) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Letters \(Deluxe Edition\)](https://open.spotify.com/album/5sqeWpEKYq5b7g0rIbSIk8) | 4:18 | 2021-12-27 |  |
 | [Starlite](https://open.spotify.com/track/50FsLjyg3LAjEyaw3IWt7R) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Prismophonic](https://open.spotify.com/album/5dx4v0NMzf2O6TCgfGrt0r) | 3:32 | 2021-12-27 |  |
 | [Stars](https://open.spotify.com/track/2zLLPBqAZOzwgTgv4TJbjn) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:42 | 2021-12-27 |  |

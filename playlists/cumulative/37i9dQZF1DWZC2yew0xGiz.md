@@ -4,7 +4,7 @@
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-39 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/3WbwSM5Rxh6r83rw0ZWIf0)
+39 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

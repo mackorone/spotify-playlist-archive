@@ -4,7 +4,7 @@
 
 > Put your headphones on and enjoy your day.
 
-40 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/5HtQ5iF2YeYyvQtg5eHFJB)
+41 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Rock And Roll All Nite](https://open.spotify.com/track/4DmkQZINxKk2QO5oBxbfIX) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Ikons](https://open.spotify.com/album/3PriQcpZjPyX2sCmnl9BRV) | 2:48 | 2015-08-05 |  |
 | [The Feast and The Famine](https://open.spotify.com/track/1M4Wy6jRce1x17qyE7yQAB) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Sonic Highways](https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9) | 3:49 | 2015-08-05 |  |
 | [Tie Your Mother Down \- Remastered 2011](https://open.spotify.com/track/317hcpA4YtWbeLwim7Fdnk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set](https://open.spotify.com/album/1Q9NOisnaTULM5CZD4rIgZ) | 4:46 | 2015-08-05 |  |
-| [Toys In The Attic](https://open.spotify.com/track/4pj8ElgSWmmy5LT9a7jb0s) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:05 | 2015-08-05 |  |
+| [Toys In The Attic](https://open.spotify.com/track/4e4ukCLCov1UYoup2SdRHB) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:05 | 2015-08-05 |  |
+| [Toys In The Attic](https://open.spotify.com/track/4pj8ElgSWmmy5LT9a7jb0s) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:05 | 2015-08-05 | 2023-01-13 |
 | [Woman](https://open.spotify.com/track/0ih9zKff98LBiaSnr95fBu) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Rock Motivation](https://open.spotify.com/album/6MbiLUw1KReHVRuZvCChal) | 2:55 | 2015-08-05 | 2022-11-14 |
 | [Woman](https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 2:56 | 2015-08-05 |  |
 | [Woman](https://open.spotify.com/track/54ix2V2omFv9UUiMks7Fhf) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0jjNb79VYqLY21IjyWKsWe) | 2:56 | 2015-08-05 | 2022-07-29 |

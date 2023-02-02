@@ -2,9 +2,9 @@
 
 ### [Post\-Grunge Society](https://open.spotify.com/playlist/37i9dQZF1DWVwr24yj95lH)
 
-> The best Grunge heirs' songs\. Cover: Staind
+> The best Grunge heirs' songs\. Cover: Puddle of Mudd
 
-159 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/0QVwgnSnBXtgD6WdqeyPu5)
+160 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,9 +145,10 @@
 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 | 2021-11-25 |  |
 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 | 2022-09-20 |  |
 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 | 2021-11-25 |  |
+| [Tomorrow](https://open.spotify.com/track/1kWbriV6xrd2lqFJfm7WJm) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp](https://open.spotify.com/album/64WvOCBCS1PuOSAX513DBw) | 4:25 | 2022-11-16 |  |
 | [Tomorrow](https://open.spotify.com/track/3NhdBIiNvq6q2mPpHwkfDg) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp](https://open.spotify.com/album/4T1qvZb3TTgUU6U0kjQbuc) | 4:25 | 2021-11-25 | 2022-07-29 |
 | [Tomorrow](https://open.spotify.com/track/5Heu4Nyrx3w5agcWLhqFyo) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/0ZDX7TUhxIn3S9PzO069hX) | 4:26 | 2022-11-04 | 2022-11-13 |
-| [Tomorrow](https://open.spotify.com/track/6eN4jSuT84yNZEZnrUMrVp) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 4:27 | 2022-06-28 |  |
+| [Tomorrow](https://open.spotify.com/track/6eN4jSuT84yNZEZnrUMrVp) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 4:27 | 2022-06-28 | 2022-11-28 |
 | [Touch, Peel And Stand](https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:57 | 2021-11-25 |  |
 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 | 2021-11-25 |  |
 | [Vitamin R \(Leading Us Along\)](https://open.spotify.com/track/04NGX0b5Tgs7VsErfn5OA1) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [This Type Of Thinking \(Could Do Us In\)](https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB) | 3:43 | 2021-11-25 |  |

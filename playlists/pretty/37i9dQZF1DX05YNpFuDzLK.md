@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,373 likes - 55 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,453 likes - 55 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 47 | [Never End](https://open.spotify.com/track/2lAg8s3QxxgsTLReuocXGY) | [Lelouch \(CV: Jun Fukuyama \)](https://open.spotify.com/artist/28W6ugaQgusYHGOLU168c0) | [CODE GEASS Lelouch of the Rebellion Character Song Best](https://open.spotify.com/album/0QgYZkEZ7hUlKrZKyrZTh1) | 4:36 |
 | 48 | [Hare Nochi Natsuno Ame](https://open.spotify.com/track/3gbLkvIDHDEhVyI5Qw3vgU) | [Shirley \(CV: Tomiko Orikasa \)](https://open.spotify.com/artist/4oyLv4lmkKLcW9jBnGuqiU) | [CODE GEASS Lelouch of the Rebellion Character Song Best](https://open.spotify.com/album/0QgYZkEZ7hUlKrZKyrZTh1) | 4:54 |
 | 49 | [Tennshi\-teki Kenpo 4jo](https://open.spotify.com/track/3x1z93295mcnEZsTkfCuqh) | [Tien Zi \(CV: Tamaki Matsumoto \)](https://open.spotify.com/artist/2IdIiAuUpBAxUuzLxqdb0D) | [CODE GEASS Lelouch of the Rebellion R2 Sound Variety R18](https://open.spotify.com/album/2podOQX7M5J1FsjN4u2W6V) | 3:23 |
-| 50 | [Rigorous](https://open.spotify.com/track/1RMEsdDz9cRdMN2CIcdBk3) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [”Code Geass Lelouch of the Rebellion Lost Stories”: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:32 |
-| 51 | [Flowering](https://open.spotify.com/track/2Mh9AFDuMmgnJUozz89sWF) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [”Code Geass Lelouch of the Rebellion Lost Stories”: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 1:50 |
-| 52 | [Salvation](https://open.spotify.com/track/3irK9WOSOIUxPVobKUpkxj) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [”Code Geass Lelouch of the Rebellion Lost Stories”: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 1:42 |
-| 53 | [Rhythmic Footstep](https://open.spotify.com/track/5u6IMA5Ldpf4dzC8wSdy46) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [”Code Geass Lelouch of the Rebellion Lost Stories”: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:00 |
-| 54 | [Upheaval](https://open.spotify.com/track/04RuAp7fyZdSXaWoKHCJAk) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [”Code Geass Lelouch of the Rebellion Lost Stories”: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:00 |
-| 55 | [Serious Landscape](https://open.spotify.com/track/6fWhrSFAm5ISISLcY97L4c) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [”Code Geass Lelouch of the Rebellion Lost Stories”: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:05 |
+| 50 | [Rigorous](https://open.spotify.com/track/1RMEsdDz9cRdMN2CIcdBk3) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:32 |
+| 51 | [Flowering](https://open.spotify.com/track/2Mh9AFDuMmgnJUozz89sWF) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 1:50 |
+| 52 | [Salvation](https://open.spotify.com/track/3irK9WOSOIUxPVobKUpkxj) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 1:42 |
+| 53 | [Rhythmic Footstep](https://open.spotify.com/track/5u6IMA5Ldpf4dzC8wSdy46) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:00 |
+| 54 | [Upheaval](https://open.spotify.com/track/04RuAp7fyZdSXaWoKHCJAk) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:00 |
+| 55 | [Serious Landscape](https://open.spotify.com/track/6fWhrSFAm5ISISLcY97L4c) | [ZENTA](https://open.spotify.com/artist/377oOdd3zUzbPBGGMPFMyu) | [Code Geass Lelouch of the Rebellion Lost Stories: Memorial Collection](https://open.spotify.com/album/2ZThBj8dl8o9vOEyapljVx) | 2:05 |
 
 Snapshot ID: `MTY2ODY5NzUwMywwMDAwMDAwMGMzMTczYWE4NTNiNzc5ZTNjMThhYjhjNDJmMDg5MzQz`

@@ -4,7 +4,7 @@
 
 > The latest singles on Spotify all in one playlist\. Updated weekly.
 
-76 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/5XmfkZLyyyaxek9bcgI9kg)
+76 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

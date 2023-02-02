@@ -4,7 +4,7 @@
 
 > Achieve optimal workday zen with this relaxed, meditative mix.
 
-75 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5LZtncbGVmYkaBqv23p6OZ)
+75 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Forgotten Birthday](https://open.spotify.com/track/4oyYo2HU1wF6LYkoBLHzZF) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Long Way to Fall](https://open.spotify.com/album/4jtxnDlaBONIMGw9ePSrAQ) | 7:01 | 2016-08-20 |  |
 | [A Long Way to Fall](https://open.spotify.com/track/1FiIoX3oCqgqwThDvwoPSc) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Long Way to Fall](https://open.spotify.com/album/4jtxnDlaBONIMGw9ePSrAQ) | 6:06 | 2016-08-20 |  |
 | [A Walk](https://open.spotify.com/track/5MSfgtOBZkbxlcwsI9XNpf) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/07iFqXD8DLWr2iqe1Sr1p2) | 5:16 | 2016-08-20 |  |
-| [Absence \(Bibio Remix\)](https://open.spotify.com/track/4hFTZ1IqqWuHZgp9KJTywk) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Feast / Beast](https://open.spotify.com/album/7Iw2Io8NipDlMCDdS8UsKC) | 6:28 | 2016-08-20 |  |
+| [Absence \- Bibio Remix](https://open.spotify.com/track/4hFTZ1IqqWuHZgp9KJTywk) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Feast / Beast](https://open.spotify.com/album/7Iw2Io8NipDlMCDdS8UsKC) | 6:28 | 2016-08-20 |  |
 | [Aerosphere](https://open.spotify.com/track/15r7G3aREDv80eGhdJqG83) | [Deepchord](https://open.spotify.com/artist/45g23Apmqo2x4obM7LjmpW) | [20 Electrostatic Soundfields](https://open.spotify.com/album/6BNQ821u9UBJQNqEdPQdmq) | 10:16 | 2016-08-20 |  |
 | [Alice Enters](https://open.spotify.com/track/6V2zt4V2XtG4x2EuJbyG8k) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Another Happy Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0KbQLhslfkYGJokYeqsrVO) | 2:57 | 2016-08-20 |  |
 | [Alone On the Plateaux](https://open.spotify.com/track/0NS09SANAtx3Nf11mR5I5E) | [Simon Lomax](https://open.spotify.com/artist/4iipbn3tIPmcrE7Ob6baDt) | [Zone of Cold](https://open.spotify.com/album/4ZnSHB5S7pSPWfUOqzSvnV) | 10:04 | 2016-08-20 |  |

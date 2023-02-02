@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Indie takes on songs others make. Cover: Remi Wolf",
+  "description": "The best indie covers. Cover: Remi Wolf",
   "name": "Indie Covers",
-  "published_playlist_ids": [
-    "1xscuBe0hUgZ7Q0c20ddVX"
-  ],
   "tracks": [
     {
       "album": {
@@ -533,7 +530,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 216440,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
@@ -707,6 +704,24 @@
     {
       "album": {
         "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 187333,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/7I4aB73LOtDFQhJQE6HmQc"
       },
       "artists": [
@@ -721,6 +736,32 @@
       "duration_ms": 187333,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/5sKN6nGLcbfveIVEoejeoC"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
     },
     {
       "album": {
@@ -1221,7 +1262,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 222640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
@@ -1315,6 +1356,24 @@
       "duration_ms": 206623,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/6xTB1RZS2BEsXjcMQSeXtu"
+    },
+    {
+      "album": {
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "album": {
@@ -2061,10 +2120,32 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 267946,
       "name": "Go Easy, Kid (with James Blake)",
       "url": "https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD"
+    },
+    {
+      "album": {
+        "name": "Go Easy, Kid (with James Blake)",
+        "url": "https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267946,
+      "name": "Go Easy, Kid (with James Blake)",
+      "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
     },
     {
       "album": {
@@ -2343,7 +2424,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2023-01-23",
       "duration_ms": 169626,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
@@ -2361,7 +2442,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 183748,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/2UrSdFSG1rTuzCwAkeP0ou"
@@ -2523,10 +2604,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 263870,
       "name": "Home",
       "url": "https://open.spotify.com/track/38O3WQ0SQykunIq3cbZIFb"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6Y5dQYeqMOgGFQOaRIxga8"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hall",
+          "url": "https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263870,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7B909vn7L9vAEdTYjXi7EC"
     },
     {
       "album": {
@@ -2815,7 +2914,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 153624,
       "name": "i will follow you into the dark - Spotify Singles",
       "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
@@ -3201,7 +3300,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 206496,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8"
@@ -3219,7 +3318,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 164211,
       "name": "Just the Two of Us",
       "url": "https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW"
@@ -3291,7 +3390,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 188418,
       "name": "Knee Deep at ATP",
       "url": "https://open.spotify.com/track/18g9sFXzAcXTPrcmDXSk9z"
@@ -4149,7 +4248,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 274506,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
@@ -4297,7 +4396,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2022-12-08",
       "duration_ms": 182080,
       "name": "Our House",
       "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
@@ -4341,6 +4440,24 @@
     {
       "album": {
         "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233406,
+      "name": "Pink + White - Live at Electric Lady",
+      "url": "https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR"
+    },
+    {
+      "album": {
+        "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ"
       },
       "artists": [
@@ -4351,7 +4468,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 233406,
       "name": "Pink + White - Live at Electric Lady",
       "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
@@ -4409,7 +4526,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 232200,
       "name": "Pumped Up Kicks - Gus Dapperton Version",
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
@@ -4607,7 +4724,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 220005,
       "name": "Running Up That Hill - Spotify Singles",
       "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
@@ -4791,7 +4908,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 195578,
       "name": "slow dancing in a burning room - stripped",
       "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
@@ -5109,7 +5226,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
@@ -5319,7 +5436,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 400565,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
@@ -5557,7 +5674,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": "2023-01-18",
       "duration_ms": 224706,
       "name": "These Days",
       "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
@@ -6165,7 +6282,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 354533,
       "name": "Weird Fishes",
       "url": "https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8"
@@ -6353,7 +6470,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 152227,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8"
@@ -6469,6 +6586,32 @@
       "duration_ms": 220468,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/0Yba22WJ5zZzqEsVmd6Tsj"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262714,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
     },
     {
       "album": {

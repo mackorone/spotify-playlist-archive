@@ -4,7 +4,7 @@
 
 > What we're gonna do right now is go back—back in time\. Here are all your favorite '90s R&B slow jams!
 
-59 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/5GiYoPdEGXgoW4OrhGKFS7)
+59 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [How Many Ways](https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:48 | 2021-03-05 |  |
 | [I Get Lonely](https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:17 | 2021-03-05 |  |
 | [I Get Lonely](https://open.spotify.com/track/5xLDmkobOw674TLTBBmnuN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:17 | 2021-03-05 | 2022-10-09 |
-| [I Got A Thang 4 Ya!](https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0) | [Lokey](https://open.spotify.com/artist/4bidFqFLzQ6OBICstJbr05) | [Radio Waves Of The '90s: Urban Hits](https://open.spotify.com/album/6lnkKUssdkeFx4jFng3L6C) | 4:17 | 2021-03-05 |  |
+| [I Got A Thang 4 Ya!](https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0) | [Lokey](https://open.spotify.com/artist/4bidFqFLzQ6OBICstJbr05) | [Radio Waves Of The '90s: Urban Hits](https://open.spotify.com/album/6lnkKUssdkeFx4jFng3L6C) | 4:17 | 2021-03-05 | 2023-01-24 |
 | [I Gotta Be](https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [A Jagged Era](https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB) | 3:35 | 2021-03-05 |  |
 | [If I Ever Fall In Love](https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3), [Bill Appleberry](https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 4:49 | 2021-03-05 |  |
 | [Insatiable](https://open.spotify.com/track/2cXdUg5c57C4b2qLCqHAOX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 6:39 | 2021-03-05 | 2022-07-29 |
@@ -51,7 +51,7 @@
 | [Pleasure & Pain](https://open.spotify.com/track/74glbwcJjpaHIk4uqHilnM) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:16 | 2021-03-05 | 2022-07-13 |
 | [Ready Or Not](https://open.spotify.com/track/78fii1y8vrGtn5YtHEnpaN) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:32 | 2021-03-05 |  |
 | [Sara Smile](https://open.spotify.com/track/0aqVhoenCvorCVcEZEfiLS) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:32 | 2021-03-05 |  |
-| [Scandalous](https://open.spotify.com/track/2dnPoLlcwJFtFm1pps3Bm0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Batman](https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK) | 6:15 | 2021-03-05 | 2022-11-25 |
+| [Scandalous](https://open.spotify.com/track/2dnPoLlcwJFtFm1pps3Bm0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Batman](https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK) | 6:15 | 2021-03-05 |  |
 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 | 2021-03-05 |  |
 | [Sending My Love](https://open.spotify.com/track/5yMQERKmNx6ajo4qHi1KT2) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/01FqJwpa24Vfb8DI6sZI6B) | 3:41 | 2021-03-05 | 2022-07-29 |
 | [Shhh](https://open.spotify.com/track/3xWWs8xnzh3sg7F6KlhfSC) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [The Best of Tevin Campbell](https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN) | 4:54 | 2021-03-05 | 2022-11-13 |

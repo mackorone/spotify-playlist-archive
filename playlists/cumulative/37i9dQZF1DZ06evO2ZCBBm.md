@@ -4,7 +4,7 @@
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/3RSWdYQk2ESbtH2oh3V7bX)
+73 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Blow Me](https://open.spotify.com/track/1vS7jjy99wfMVVC9nzZtX1) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:20 | 2022-01-17 |  |
 | [Blue and Yellow](https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:21 | 2022-01-17 |  |
 | [body bag \(feat\. YUNGBLUD & Bert McCracken of The Used\)](https://open.spotify.com/track/0NZrY7Lc9g6V03hxRpfToV) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Tickets To My Downfall \(SOLD OUT Deluxe\)](https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC) | 2:50 | 2022-01-17 |  |
-| [Brain Unguent](https://open.spotify.com/track/6YYVHAMbXOyQSgFtSYYRsW) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 1:28 | 2022-01-21 | 2022-03-31 |
+| [Brain Unguent](https://open.spotify.com/track/6YYVHAMbXOyQSgFtSYYRsW) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 1:28 | 2022-01-21 | 2022-12-08 |
 | [Bulimic](https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:20 | 2022-03-01 | 2022-10-07 |
 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 | 2022-01-17 |  |
 | [Burning Down the House](https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 3:39 | 2022-01-17 |  |
@@ -54,13 +54,14 @@
 | [Noise and Kisses](https://open.spotify.com/track/3J0cTSuhrsoG9lY2AonjmH) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:49 | 2022-01-17 | 2022-10-12 |
 | [Obvious Blasé](https://open.spotify.com/track/6uconLlN5bCZsWYZDcaty4) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:52 | 2022-01-17 |  |
 | [On My Own](https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:43 | 2022-01-17 |  |
+| [Operation Me](https://open.spotify.com/track/5lpF23ghsmM7udnXOdoF14) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 3:01 | 2022-12-23 | 2023-01-02 |
 | [Over and Over Again](https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Canyon](https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe) | 5:14 | 2022-01-17 |  |
 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/0brRAViWRg60fyrCynTPxl) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:47 | 2022-01-17 |  |
 | [Paralyzed](https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:13 | 2022-01-17 |  |
-| [Playing The Victim](https://open.spotify.com/track/1jQ56oPXtND0hIyb2SHGQN) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 2:22 | 2022-11-11 | 2022-11-23 |
+| [Playing The Victim](https://open.spotify.com/track/1jQ56oPXtND0hIyb2SHGQN) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 2:22 | 2022-11-11 |  |
 | [Poetic Tragedy](https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:44 | 2022-02-25 | 2022-10-13 |
 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 | 2022-01-17 |  |
-| [Put Me Out](https://open.spotify.com/track/6XcLXKshSwwbShcndUY1Kh) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 4:02 | 2022-01-17 |  |
+| [Put Me Out](https://open.spotify.com/track/6XcLXKshSwwbShcndUY1Kh) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 4:02 | 2022-01-17 | 2022-12-28 |
 | [Revolution](https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 4:04 | 2022-01-17 |  |
 | [River Stay](https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 3:04 | 2022-01-17 |  |
 | [Sick Hearts](https://open.spotify.com/track/3unplKLGy9fffR2HDbMWTa) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:27 | 2022-01-17 |  |

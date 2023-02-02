@@ -4,7 +4,7 @@
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-80 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/7FfYgPlgGkKYkTqIwLeLMg)
+80 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Jika \- Lemon & Herb Remix](https://open.spotify.com/track/7LdrWWVy38G7G8B9Bv2ixW) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w) | [Jika EP](https://open.spotify.com/album/620uN2e9ilPg65f7hDSJBr) | 4:26 | 2021-10-14 |  |
 | [KAMBA](https://open.spotify.com/track/3Kvzzly09Ziy1UUzsn5sZx) | [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [KAMBA](https://open.spotify.com/album/7wDd3HggMn8ZTxGE4E1PWl) | 2:33 | 2021-07-01 |  |
 | [Khala Zome \(feat\. Mbuso Khoza\) \- \[Lemon & Herb Remix\]](https://open.spotify.com/track/2WEHnvmu4vbOe1AXeNzG5Y) | [KingSfiso](https://open.spotify.com/artist/3xAufCvmDKxcXZOE3p9lSH), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW), [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w) | [Khala Zome \(feat\. Mbuso Khoza\) \[Lemon & Herb Remix\]](https://open.spotify.com/album/0uOvmhT2t99UemSCTGNynk) | 7:36 | 2022-03-17 |  |
-| [Khula](https://open.spotify.com/track/21yMnKufBg1L51PGGVryTj) | [Bello no Gallo](https://open.spotify.com/artist/4sOkkFiZ3kba2UST1tiQ7c), [Niseni](https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J) | [Khula](https://open.spotify.com/album/0wqlhwTE4SMnsAfqhkbnxE) | 4:00 | 2022-02-17 |  |
+| [Khula](https://open.spotify.com/track/21yMnKufBg1L51PGGVryTj) | [Bello no Gallo](https://open.spotify.com/artist/10jCMXxrxSLEToXTKVJJWn), [Niseni](https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J) | [Khula](https://open.spotify.com/album/0wqlhwTE4SMnsAfqhkbnxE) | 4:00 | 2022-02-17 |  |
 | [Lighthouse \(feat\. Da Capo & Sun\-El Musician\)](https://open.spotify.com/track/35qHKKZbmtFEjhlMTCymIn) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Lighthouse \(feat\. Da Capo & Sun\-El Musician\)](https://open.spotify.com/album/0SJLsjE3ZDpYkwSXZ4IDLL) | 5:35 | 2021-10-14 |  |
 | [LiYoshona \- Shimza Remix](https://open.spotify.com/track/2bKZu1kbb2XSSvRYPbscuL) | [Kwiish SA](https://open.spotify.com/artist/2J1TbsWFTYT0LHNSX897xS), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [MalumNator](https://open.spotify.com/artist/25IVkspnS4ZKKxGVyOgVnK), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Shimza Amapiano Afrotech Remixes](https://open.spotify.com/album/1sKI0OHaJnwq7h0nOygsAm) | 5:58 | 2021-12-30 |  |
 | [Mama \(Da Capo's Touch\)](https://open.spotify.com/track/6BLMoJcHmJiYfFRPKWOaEw) | [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Mama \(Da Capo's Touch\)](https://open.spotify.com/album/3CRw6YSsrFJQLjD3kVjM1i) | 7:29 | 2021-10-14 |  |

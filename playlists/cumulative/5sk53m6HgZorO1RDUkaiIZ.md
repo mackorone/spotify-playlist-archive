@@ -4,7 +4,7 @@
 
 > All confirmed artists at the Bråvalla Festival 2017! June 28th \- July 1st, Norrköping, Sweden\. <a href="http://www.bravallafestival.se/">www.bravallafestival.se</a>
 
-159 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/2tslPI1L7we7Rqm1LSxr3A)
+159 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

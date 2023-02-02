@@ -4,7 +4,7 @@
 
 > Crush on Crush's K\-R&B and musics.
 
-181 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/0AgsqAvfHbdqkSc0aWP6fc)
+181 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Let Us Go](https://open.spotify.com/track/0FdsSbg6VINuk5FLKtUl7n) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crash Landing on You \(Original Television Soundtrack\)](https://open.spotify.com/album/46paHZ8Md6AICwfjybLjOM) | 3:41 | 2020-12-27 | 2022-07-29 |
 | [Let Us Go](https://open.spotify.com/track/2y3Z9MQdgoENX8FtIVI40H) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/5iqfGbG2zpIih56ptL9OUV) | 3:41 | 2020-12-27 | 2022-07-29 |
 | [Let Us Go](https://open.spotify.com/track/3RhwOffN5GMvTZZ7ZYXTQk) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2t3uzrkNH5XOfgfe5bnTEE) | 3:41 | 2020-12-27 |  |
-| [Let Us Go](https://open.spotify.com/track/49a7NWJpx8Q3EjLDWxTui7) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crash Landing on You \(Original Television Soundtrack\)](https://open.spotify.com/album/1lb206sGMTJryXF66FpT0k) | 3:41 | 2022-09-29 | 2022-11-13 |
+| [Let Us Go](https://open.spotify.com/track/49a7NWJpx8Q3EjLDWxTui7) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crash Landing on You \(Original Television Soundtrack\)](https://open.spotify.com/album/1lb206sGMTJryXF66FpT0k) | 3:41 | 2022-09-29 | 2022-12-17 |
 | [Life is Beautiful](https://open.spotify.com/track/5ECfpZMZiM2DMJag83DQuo) | [Toy](https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Da Capo](https://open.spotify.com/album/1ac4LAkzA5YUGVrEvxdoh9) | 4:22 | 2020-12-27 | 2022-07-29 |
 | [Life is Beautiful \(With Dynamicduo & Zion T & Crush\)](https://open.spotify.com/track/7gFWkMwPIAXn1rr3JyFKjG) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:22 | 2020-12-27 |  |
 | [Life Is Good](https://open.spotify.com/track/7gRVrDCQcoEnHrPxdblf6I) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [dj friz](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) | [Luckynumbers](https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj) | 4:54 | 2020-12-27 | 2022-07-29 |

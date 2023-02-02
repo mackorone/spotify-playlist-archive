@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The great masterpieces of the genre.",
+  "description": "The great masterpieces of the genre. Cover: U2",
   "name": "Soft Rock",
-  "published_playlist_ids": [
-    "1qRV6OOjOHTyxZOcARbHhF"
-  ],
   "tracks": [
     {
       "album": {
@@ -842,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
+    },
+    {
+      "album": {
         "name": "Forever Man",
         "url": "https://open.spotify.com/album/1i1OirKFpITQYYWDPEDjx7"
       },
@@ -871,7 +886,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
@@ -2297,7 +2312,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 286386,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
@@ -2405,7 +2420,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 189186,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
@@ -3129,7 +3144,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 381998,
       "name": "Lyin' Eyes - 2013 Remaster",
       "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
@@ -3813,7 +3828,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
@@ -4047,7 +4062,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-20",
       "duration_ms": 266613,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
@@ -4486,7 +4501,7 @@
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -4499,7 +4514,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Tears in Heaven - Acoustic Live",
       "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
     },
     {
@@ -4605,7 +4620,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 338800,
       "name": "The Flame",
       "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
@@ -5669,7 +5684,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"

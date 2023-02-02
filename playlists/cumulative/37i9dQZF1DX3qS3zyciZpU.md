@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-151 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/2tqwvqLztEVOvwl4EXM922)
+153 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [I Run To You](https://open.spotify.com/track/2YVCkTYJpv5jelYrHYoEG8) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Lady Antebellum](https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh) | 4:16 | 2021-09-17 |  |
 | [I Swear](https://open.spotify.com/track/553tCwkqeLLa1uCPPNd6az) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 4:24 | 2021-09-17 |  |
 | [I WILL, I SWEAR, I DO](https://open.spotify.com/track/5qkzYOVjOAcKE1zhmNBsL9) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [I WILL, I SWEAR, I DO](https://open.spotify.com/album/0tMuDCcWqJCwg09caTmgOh) | 3:13 | 2021-11-05 |  |
+| [I'll Never](https://open.spotify.com/track/2c9WCG3eAxbCUiEbvAVj2z) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I'll Never](https://open.spotify.com/album/18EtwJgfmxArCatnS6w49T) | 2:43 | 2023-01-13 |  |
 | [I'll Say I Do](https://open.spotify.com/track/4eSOx2FzrVXpKmtssY59LB) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [I'll Say I Do](https://open.spotify.com/album/6sDNyjuQ8lvAKoc6qf6K6A) | 3:55 | 2021-09-17 |  |
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-09-17 |  |
 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 | 2021-09-17 |  |
@@ -109,6 +110,7 @@
 | [Settle Me Down](https://open.spotify.com/track/4fFIpQ8eswym0U7movpzQR) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/4GQN4YJc8mwPgxUMqX80Be) | 2:57 | 2022-02-18 | 2022-07-29 |
 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 | 2021-09-17 |  |
 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 | 2021-09-17 |  |
+| [She's Somebody's Daughter \(The Wedding Version\)](https://open.spotify.com/track/6gSZX6W69nGvEBzlvfvvz2) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [She's Somebody's Daughter \(The Wedding Version\)](https://open.spotify.com/album/2gofZasmvwfD1dkgQPORTW) | 3:30 | 2023-01-27 |  |
 | [Shoes to Fill](https://open.spotify.com/track/4DeC7THq7hJw5TV8dQjSCk) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Finally](https://open.spotify.com/album/0HeTHWLmcrCShhRz79CKUe) | 3:05 | 2021-09-17 |  |
 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2021-09-17 |  |
 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 | 2021-09-17 |  |

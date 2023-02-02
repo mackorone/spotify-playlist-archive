@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQCYtfr3hh.md) - [plain]
 
 > The best of the Bollywood diva\. Cover: Aishwarya Rai Bachchan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,665 likes - 29 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,942 likes - 29 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQCYtfr3hh.md) - [plain]
 | 20 | [Alizeh](https://open.spotify.com/track/4rIv0uUnxs5hVZfe5t9SNs) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XfOSDomcrv4lDvlrxknlt) | 4:42 |
 | 21 | [Song: Hamesha Tumko Chaha](https://open.spotify.com/track/7508E9guaBFcipYVJTECBV) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Devdas \- An Adaptation Of Sarat Chandra Chattopadhyay's "Devdas"](https://open.spotify.com/album/7DMHBOZasKAboJFNNV7k4m) | 4:26 |
 | 22 | [Kuch Naa Kaho](https://open.spotify.com/track/2x1cepyIlfViCPkXY30sek) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Kuch Naa Kaho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hXQRQLBAYoi3EAyrRH9Iv) | 5:21 |
-| 23 | [Bulleya](https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
+| 23 | [Bulleya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
 | 24 | [Hai Dil](https://open.spotify.com/track/6aLoQVa2jEfYQpldpbSWkK) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Dil Ka Rishta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5LQwSf3fgtxayGrZXwvB6W) | 4:27 |
 | 25 | [Daiya Daiya Daiya Re](https://open.spotify.com/track/01HjcxcMuOAYFKLi7rMRxR) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Dil Ka Rishta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5LQwSf3fgtxayGrZXwvB6W) | 4:43 |
 | 26 | [Hai Mera Dil Tu](https://open.spotify.com/track/1XCXCUzRu0FoHwlMUU1yb1) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Babul Supriyo](https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0) | [Albela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FUOWs5zDtXyTB3OfNRszY) | 3:29 |

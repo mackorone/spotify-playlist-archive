@@ -4,11 +4,12 @@
 
 > All about aespa: meeting another self and experiencing the new world
 
-26 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/5qAhGSk1PC3ccp0C4jIsbV)
+27 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [aenergy](https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 2:27 | 2022-07-08 |  |
+| [Beautiful Christmas](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Beautiful Christmas](https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG) | 3:29 | 2022-12-14 |  |
 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2022-07-08 |  |
 | [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2022-07-08 |  |
 | [Dreams Come True \- Instrumental](https://open.spotify.com/track/7LOV1wyhrT7XjFgbz5sJ88) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2022-07-08 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The best tracks from the great Miles Davis.",
   "name": "This Is Miles Davis",
-  "published_playlist_ids": [
-    "6e4rtl5SvFO1Jq3xitAZyt"
-  ],
   "tracks": [
     {
       "album": {
@@ -808,24 +805,6 @@
     },
     {
       "album": {
-        "name": "E.S.P.",
-        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "date_added": "2022-04-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 328426,
-      "name": "E.S.P.",
-      "url": "https://open.spotify.com/track/61K5CsgNZy69TFzrsFS1XM"
-    },
-    {
-      "album": {
         "name": "The Best Of Miles Davis",
         "url": "https://open.spotify.com/album/14Gdsp33387vOEIskmNYUy"
       },
@@ -859,6 +838,24 @@
       "duration_ms": 328733,
       "name": "E.S.P.",
       "url": "https://open.spotify.com/track/1IPHdEjEFdVMPvqvbceEYK"
+    },
+    {
+      "album": {
+        "name": "E.S.P. (2022 Remaster)",
+        "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333171,
+      "name": "E.S.P.",
+      "url": "https://open.spotify.com/track/61K5CsgNZy69TFzrsFS1XM"
     },
     {
       "album": {
@@ -916,7 +913,7 @@
     },
     {
       "album": {
-        "name": "E.S.P.",
+        "name": "E.S.P. (2022 Remaster)",
         "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
       },
       "artists": [
@@ -928,7 +925,7 @@
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 374133,
+      "duration_ms": 377320,
       "name": "Eighty-One",
       "url": "https://open.spotify.com/track/0eyDYZmV5seBW1j9Ga41AR"
     },
@@ -2386,7 +2383,7 @@
     },
     {
       "album": {
-        "name": "Quiet Nights",
+        "name": "Quiet Nights (2022 Remaster)",
         "url": "https://open.spotify.com/album/37sPrSzrALZYsuH8i6zX1M"
       },
       "artists": [
@@ -2398,7 +2395,7 @@
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 361733,
+      "duration_ms": 366373,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/3eN0rzXMRYXmXtBkFOXYdI"
     },

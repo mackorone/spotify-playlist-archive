@@ -4,7 +4,7 @@
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Carlos & José en portada.
 
-182 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/0yReHuRr1FPfjUMqzMjhhX)
+183 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Belleza De Cantina](https://open.spotify.com/track/28V858H8DAUHqxh6KsNx5l) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Lo Mas Ranchero De...](https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3) | 3:00 | 2022-03-17 |  |
 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/1OVjCXRrPSbYfDwMTSTXRF) | [Los Humildes Hermanos Ayala](https://open.spotify.com/artist/22GEcjAc2Uvgl2neYIZwdL) | [Desde el corral \(En Vivo\)](https://open.spotify.com/album/6qsXUi1aIwzBroAPMh1mgU) | 2:47 | 2022-03-17 |  |
 | [Carta Abierta](https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Internacionalmente Norteños](https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42) | 2:52 | 2022-03-17 |  |
+| [Celos de Ti](https://open.spotify.com/track/4zZrn8xdILDHN2uKAmy2bJ) | [EL INTERNACIONAL GRUPO LA MIGRA](https://open.spotify.com/artist/65JVLaAkyGalURJCfuedWh) | [LA MIGRA Y SUS MAS GRANDES EXITOS](https://open.spotify.com/album/0xm2NmhWa2tpxx8LBN60aT) | 4:14 | 2022-03-17 | 2023-01-22 |
 | [Celos De Ti](https://open.spotify.com/track/1jRwHA9ZDDBsTNpFpVk9xr) | [Grupo La Migra](https://open.spotify.com/artist/1eaHml08IuqyA3rOTPMfWQ) | [10 Canonazos Musicales](https://open.spotify.com/album/5RC75yFyzSR9IANeh8TcXP) | 4:15 | 2022-03-17 | 2022-11-13 |
 | [Celos De Ti](https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 4:15 | 2022-03-17 |  |
 | [Celos De Ti](https://open.spotify.com/track/67pVsXRvhlBZP4sTAT65jF) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos, Vol\. 2](https://open.spotify.com/album/21JpnaOhZSnwCmsPc2brqv) | 4:15 | 2022-03-17 | 2022-07-29 |

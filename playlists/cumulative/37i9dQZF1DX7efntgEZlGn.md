@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-58 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/4voCCAakSbdaILEDDIaot8)
+59 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Can't Style Me](https://open.spotify.com/track/5aPAFKyR7ydaaR9B1Mdbzg) | [Bura](https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k) | [Can't Style Me](https://open.spotify.com/album/4BD9pAseOoO6vjBlSYWzqx) | 4:00 | 2022-10-28 |  |
 | [Cheza Gospel](https://open.spotify.com/track/23QRgJ0c7GmQens8wuX9N3) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Cheza Gospel](https://open.spotify.com/album/2VH1TToc1g3wnCzl3cGIM7) | 3:34 | 2022-04-13 |  |
 | [Donjo](https://open.spotify.com/track/7s61PhYsflmINKwYsQfPpI) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Chapter IV](https://open.spotify.com/album/58JBueyer8tCatNlJ1f3OM) | 3:18 | 2022-04-13 |  |
+| [Enjoy](https://open.spotify.com/track/5TaYOrcT1oTXhkbpDt7Kkg) | [Kelvin Weber](https://open.spotify.com/artist/6eebIf2iLkgsPBujMxRnwZ), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [Josh Cleopa](https://open.spotify.com/artist/57OQOZ0jKyNW8bsOTgCdT3) | [ENJOY](https://open.spotify.com/album/2rsZP3S0j81N42gu4NWRna) | 4:42 | 2023-01-12 |  |
 | [Enjoy \(Yo Blessings\)](https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Enjoy \(Yo Blessings\)](https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy) | 3:15 | 2022-04-13 |  |
 | [Far Above](https://open.spotify.com/track/4xJ6LdzyX4BBx19XuGqR6q) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/56dKSbQijsJuvVxdQNiUkm) | 3:36 | 2022-04-13 |  |
 | [Far Above](https://open.spotify.com/track/7hiGfUcMXTdILXfIlFDD3S) | [Danny Gift](https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK) | [Bright Dawn Riddim](https://open.spotify.com/album/7kM83QA7i1CaBIByXSIIzh) | 3:36 | 2022-04-13 | 2022-11-11 |
@@ -41,7 +42,7 @@
 | [Macho, Pt\. 2 \- Remix](https://open.spotify.com/track/3JEUWoHFELLQD5YFHHuJFg) | [Kris Erroh](https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2), [Juliani](https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7), [Ngashville](https://open.spotify.com/artist/6qHpqIoM0dqh30aDg10SCe), [MR.T](https://open.spotify.com/artist/1sUyZcWKUqXMhdqQOwLaTp), [SkBlue](https://open.spotify.com/artist/380ykbGsnwdSS0m69fz8sM), [Mc L.C](https://open.spotify.com/artist/5UJ1BoR7GIgf5u5TtoMOhb), [Dunco](https://open.spotify.com/artist/5fBnSAypAHI1lSCizDRhyH), [Mutua](https://open.spotify.com/artist/3hWuR6uWx3avBgadzqVjwj) | [Macho, Pt\. 2 \(Remix\)](https://open.spotify.com/album/34Ww4qGyCdUohbJdq1kMkK) | 4:40 | 2022-04-13 | 2022-10-29 |
 | [Manweri](https://open.spotify.com/track/0Sv9WTeghj3jZZDdYmrEzQ) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Manweri](https://open.spotify.com/album/1dKIFmNNW3k1MSnya4E9Jb) | 4:17 | 2022-04-13 |  |
 | [Mfalme](https://open.spotify.com/track/1Mgoe4AVSoYoiDplMNk83O) | [Kris Erroh](https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2), [Lydia Ndwiga](https://open.spotify.com/artist/2rwjHvuk1Raby2BbaSe3K3), [Dunco Atalaku](https://open.spotify.com/artist/4exKG7ovOYAfVhfoMUZuhe) | [Mfalme](https://open.spotify.com/album/0hlOZli0GBXO6LSrJ914Xk) | 3:47 | 2022-04-13 |  |
-| [Mukbang](https://open.spotify.com/track/5APruxOCs1HP4aDkqi7FbG) | [Shani](https://open.spotify.com/artist/1ZbZCoHYPTyGtMK5W56sUp) | [Mukbang](https://open.spotify.com/album/5P7vPbmu2Mgq7JPQxdBuGy) | 2:34 | 2022-04-13 |  |
+| [Mukbang](https://open.spotify.com/track/5APruxOCs1HP4aDkqi7FbG) | [Shani](https://open.spotify.com/artist/1ZbZCoHYPTyGtMK5W56sUp) | [Mukbang](https://open.spotify.com/album/5P7vPbmu2Mgq7JPQxdBuGy) | 2:34 | 2022-04-13 | 2023-01-13 |
 | [New Song](https://open.spotify.com/track/6GCPnmXPqNap4pXckghuZF) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug) | [New Song](https://open.spotify.com/album/4MQwDxDIAqaZ6WwJMUnEPb) | 3:35 | 2022-04-13 |  |
 | [Nifungue](https://open.spotify.com/track/2WznROVaHV9p0h23V2xK9X) | [Mash Mwana](https://open.spotify.com/artist/5RDbIB3h8z9qD3ALmSfjmt), [Masterpiece King](https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF) | [Nifungue](https://open.spotify.com/album/7srblHhdVFR1b98ytNkCep) | 3:09 | 2022-04-13 | 2022-10-29 |
 | [Ninyeshee](https://open.spotify.com/track/7evPaguX9dGzgv8hu1kcn3) | [BRANNY](https://open.spotify.com/artist/2wBg0iI6AFCm42fUkvIZ6u), [Shani](https://open.spotify.com/artist/1ZbZCoHYPTyGtMK5W56sUp), [Havoc](https://open.spotify.com/artist/5bYp8wilbCtNvQ0naeQ4rQ), [Laura Karwirwa](https://open.spotify.com/artist/7wkxMxxw3LihaaaWQA7tYT) | [Ninyeshee](https://open.spotify.com/album/4dIgeqqMlPdyIyQBRieAJa) | 3:29 | 2022-04-13 |  |

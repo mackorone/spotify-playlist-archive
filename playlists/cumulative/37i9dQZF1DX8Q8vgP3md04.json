@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "Hit music from Ethiopia's finest.",
   "name": "Ethio-Pop",
-  "published_playlist_ids": [
-    "5h1kkeVebhBTJyRzBDxWOy"
-  ],
   "tracks": [
     {
       "album": {
@@ -226,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Bayish",
+        "url": "https://open.spotify.com/album/1O5cvXeKsXahndfs5KDAnA"
+      },
+      "artists": [
+        {
+          "name": "Dagi D",
+          "url": "https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245934,
+      "name": "Bayish",
+      "url": "https://open.spotify.com/track/576KoTxxx3Ap5jOMU9AO0T"
+    },
+    {
+      "album": {
         "name": "Betam New Emiwodish",
         "url": "https://open.spotify.com/album/1q9LnwtvnZa3dEMPYxmpkQ"
       },
@@ -237,7 +252,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 338364,
       "name": "Betam New Emewodish",
       "url": "https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X"
@@ -313,6 +328,42 @@
       "duration_ms": 369440,
       "name": "Checheho",
       "url": "https://open.spotify.com/track/3B3YUcoMB8CmXOuKT3z1WD"
+    },
+    {
+      "album": {
+        "name": "Darm Yelat",
+        "url": "https://open.spotify.com/album/5WbVCGdmMmWVjCbR64FghT"
+      },
+      "artists": [
+        {
+          "name": "Nahom Mekuria",
+          "url": "https://open.spotify.com/artist/3zFxJvpOzvb6aD0Lvk96he"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197473,
+      "name": "Darm Yelat",
+      "url": "https://open.spotify.com/track/6SVoDXBSU1eZKRdokV2yaT"
+    },
+    {
+      "album": {
+        "name": "Debdabew",
+        "url": "https://open.spotify.com/album/6EnCinWmYu4RLO4hHfK593"
+      },
+      "artists": [
+        {
+          "name": "Jacky Gosee",
+          "url": "https://open.spotify.com/artist/1ZS1gBpPCK7yHhFjwTwxGh"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239536,
+      "name": "Debdabew",
+      "url": "https://open.spotify.com/track/3SZkTKou5arG4fI4O2krPE"
     },
     {
       "album": {
@@ -597,7 +648,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 293384,
       "name": "Gude",
       "url": "https://open.spotify.com/track/4h3xIy5sNOJ2sPGcyVIRsd"
@@ -619,6 +670,24 @@
       "duration_ms": 299706,
       "name": "Hager Alegn",
       "url": "https://open.spotify.com/track/2p3jtfV6Zq0aegDj1Mpbm8"
+    },
+    {
+      "album": {
+        "name": "Jegna",
+        "url": "https://open.spotify.com/album/0t3z1KzzscbB49f6U3btUQ"
+      },
+      "artists": [
+        {
+          "name": "Mastewal Eyayu",
+          "url": "https://open.spotify.com/artist/2ycWMnbSfkoPNAjXvo1BvP"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362163,
+      "name": "Jegna",
+      "url": "https://open.spotify.com/track/6iQkqugtqS7wC5FWOTlQ98"
     },
     {
       "album": {
@@ -699,7 +768,7 @@
     {
       "album": {
         "name": "Lageba New",
-        "url": "https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW"
+        "url": "https://open.spotify.com/album/1cLOZ7hjPx1d5qWUK1ImXY"
       },
       "artists": [
         {
@@ -710,6 +779,24 @@
       "date_added": "2020-06-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Lageba New",
+      "url": "https://open.spotify.com/track/3dUwM1SPDO9WtawRzN1otb"
+    },
+    {
+      "album": {
+        "name": "Lageba New",
+        "url": "https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW"
+      },
+      "artists": [
+        {
+          "name": "Gildo Kassa",
+          "url": "https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS"
+        }
+      ],
+      "date_added": "2020-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
       "duration_ms": 221681,
       "name": "Lageba New",
       "url": "https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV"
@@ -793,7 +880,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 259130,
       "name": "Lingerish",
       "url": "https://open.spotify.com/track/3bGYH5jipEhhVSQtCek73t"
@@ -1331,7 +1418,7 @@
       ],
       "date_added": "2018-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 220746,
       "name": "Zemenay Mariye",
       "url": "https://open.spotify.com/track/5pCITb1hiPJhRAGlh42hIC"

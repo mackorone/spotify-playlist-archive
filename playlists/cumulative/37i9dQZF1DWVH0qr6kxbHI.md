@@ -4,7 +4,7 @@
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-88 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/7AgCSFXvd2y5oOtuGeyQLl)
+88 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 | 2022-04-28 |  |
 | [Amor, Amor](https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Mis Recuerdos](https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h) | 3:50 | 2022-04-28 |  |
 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 | 2022-04-28 |  |
-| [Baladilla De Los Tres Ríos](https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar) | [Pasion Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Baladilla De Los Tres Ríos](https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh) | 3:12 | 2022-11-03 |  |
+| [Baladilla De Los Tres Ríos](https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Baladilla De Los Tres Ríos](https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh) | 3:12 | 2022-11-03 |  |
 | [Bandido](https://open.spotify.com/track/2rHhKu1hW8uqyr7LSrRn8E) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Bandido](https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW) | 3:02 | 2022-04-28 |  |
 | [Beso a beso..\. dulcemente](https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [En directo](https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ) | 4:12 | 2022-04-28 |  |
 | [Blanco y Negro](https://open.spotify.com/track/2yc9sElleYDl3NXMZSgsRv) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Guerra Fria](https://open.spotify.com/album/7popMaqBQ73NwM0Evpn16K) | 3:53 | 2022-04-28 |  |
@@ -56,12 +56,12 @@
 | [Lagrimas Negras \(with Diego "El Cigala"\)](https://open.spotify.com/track/2pg2VDBleQisqlEEkdJM5q) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:49 | 2022-04-28 | 2022-07-29 |
 | [Los Nardos](https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [Pecado de Amor \(Original Motion Picture\)](https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq) | 3:31 | 2022-04-28 |  |
 | [Luna de miel](https://open.spotify.com/track/4s3G4N7ejPSQwByKruYCes) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Grande](https://open.spotify.com/album/3ajZ81w9u3tvXntUT5Qkgg) | 3:52 | 2022-04-28 |  |
-| [Maria Se Bebe las Calles](https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj) | [Pasión Vega](https://open.spotify.com/artist/6M7I15G01CY1bzvGtfir9b) | [Banderas De Nadie](https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr) | 4:05 | 2022-04-28 |  |
+| [Maria Se Bebe las Calles](https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Banderas De Nadie](https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr) | 4:05 | 2022-04-28 |  |
 | [Marinero de Luces](https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 3:02 | 2022-04-28 |  |
 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 | 2022-04-28 |  |
 | [No Renunciare](https://open.spotify.com/track/3ue0cIdE6upG6r7CmSxzCQ) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Mis Recuerdos](https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h) | 3:30 | 2022-04-28 |  |
 | [No Se por Que Te Quiero](https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Mirame](https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs) | 3:35 | 2022-04-28 |  |
-| [No Se por Que Te Quiero \(with Pablo Albóran\) \- Con Pablo Alboran](https://open.spotify.com/track/0545pp6WZyT1aSd9stPeu9) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:44 | 2022-04-28 |  |
+| [No Se por Que Te Quiero \(with Pablo Alborán\) \- Con Pablo Alboran](https://open.spotify.com/track/0545pp6WZyT1aSd9stPeu9) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:44 | 2022-04-28 |  |
 | [Ojos verdes](https://open.spotify.com/track/6PpH6uTiQSkFGeh5cV3UPk) | [Concha Piquer](https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0) | [Canciones De Oro](https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2) | 3:18 | 2022-04-28 |  |
 | [Piensa en mí](https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 4:29 | 2022-04-28 |  |
 | [Ponte la Mano en el Pecho](https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Decálogo \(Sus 10 Mayores Éxitos\)](https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7) | 3:31 | 2022-04-28 |  |

@@ -4,7 +4,7 @@
 
 > Some of Barack Obama's favorite songs of the summer\. A mix of genres & eras made with everyone in mind!
 
-45 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/3hphFF4NddFh5MxjiBoT8m)
+45 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,8 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA) | 2:12 | 2021-07-10 |  |
 | [Conséquence](https://open.spotify.com/track/45maHVGVAxDBaNap9dUMwN) | [Kékélé](https://open.spotify.com/artist/4qjqvzyR3Kq2W9puCX2wE7) | [Kinavana](https://open.spotify.com/album/62hYg9ivSjwLvL5Bl2SzUf) | 5:18 | 2021-07-10 | 2022-09-24 |
 | [Conséquence](https://open.spotify.com/track/76ot3BABnfPJi06g7J7iBa) | [Kékélé](https://open.spotify.com/artist/4qjqvzyR3Kq2W9puCX2wE7) | [Kinavana](https://open.spotify.com/album/5aX2ssV8mdnw05IxzcdrKJ) | 5:18 | 2021-07-10 |  |
-| [Coyote](https://open.spotify.com/track/1iTayn3u1hV9XPpBQglZcH) | [Flickxr.](https://open.spotify.com/artist/2bP2XiRavK6ameEEvX6QZ9), [texotr](https://open.spotify.com/artist/0ZyY6X6yXkd6fIXtkZ3ln9) | [Coyote](https://open.spotify.com/album/4Vd8BnfKTaGup0eYrby8CQ) | 5:01 | 2021-07-10 |  |
-| [Coyote](https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:01 | 2021-07-10 | 2022-11-20 |
+| [Coyote](https://open.spotify.com/track/1iTayn3u1hV9XPpBQglZcH) | [Flickxr.](https://open.spotify.com/artist/2bP2XiRavK6ameEEvX6QZ9), [texotr](https://open.spotify.com/artist/0ZyY6X6yXkd6fIXtkZ3ln9) | [Coyote](https://open.spotify.com/album/4Vd8BnfKTaGup0eYrby8CQ) | 5:01 | 2021-07-10 | 2022-12-02 |
+| [Coyote](https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:01 | 2021-07-10 |  |
 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 | 2021-07-10 |  |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2021-07-10 |  |
 | [Does Anybody Really Know What Time It Is?](https://open.spotify.com/track/6Q6YqGj1Ku1CUGHWSFwSHY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:22 | 2021-07-10 |  |

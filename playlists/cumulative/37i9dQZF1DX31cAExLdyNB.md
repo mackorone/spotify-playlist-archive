@@ -4,7 +4,7 @@
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-104 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/3ypfMXWSNw8YIRCS2CDHjN)
+104 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-64 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/2Gz9kC8AIgoXvxdfjIonf2)
+65 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,8 @@
 | [Black Roller Coming](https://open.spotify.com/track/5OLFlnmmC8gQHiFisYvrAh) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 2:49 | 2020-12-08 |  |
 | [Blues Comin' On](https://open.spotify.com/track/5D7ZBbrS0iSh2jlyaBEBe9) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 5:55 | 2020-12-08 |  |
 | [Blues For The Weepers](https://open.spotify.com/track/1uOKBuziYCCioYymiwI8zi) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 3:46 | 2020-12-08 |  |
+| [Boom Boom](https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Boom Boom](https://open.spotify.com/album/0Fj3i3nj3SabKrmnSIUsrA) | 2:52 | 2020-12-08 |  |
 | [Boom Boom](https://open.spotify.com/track/1tRztGP1nj2Vdn3wGaRtkq) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/2QJKrWBci7NRXIFDe1zo6p), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Boom Boom](https://open.spotify.com/album/1u48epo8DIoUdTxL5EfE3B) | 2:52 | 2020-12-08 | 2022-10-13 |
-| [Boom Boom](https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/0U4YQE1rVs1bFFdRTv5s6u), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Boom Boom](https://open.spotify.com/album/0Fj3i3nj3SabKrmnSIUsrA) | 2:52 | 2020-12-08 |  |
 | [Catfish](https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Catfish](https://open.spotify.com/album/0UHFzxUW8gPhFwjIj7y6E0) | 3:51 | 2020-12-08 |  |
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2020-12-08 | 2022-07-29 |
 | [Catfish Blues](https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK) | 4:11 | 2020-12-08 |  |
@@ -60,7 +60,8 @@
 | [Storm Came](https://open.spotify.com/track/6oHqTQAnT0gqHfirnS1pu9) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Amitié](https://open.spotify.com/album/46lxdP9TY1y8hLJyy2NWFE) | 2:18 | 2020-12-08 |  |
 | [The Juice \(feat\. Marcus King\)](https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:07 | 2020-12-08 |  |
 | [The Well](https://open.spotify.com/track/4wszHgvhXYlN2Io813hLQ1) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 2:57 | 2020-12-08 |  |
-| [Thinking 'Bout Myself](https://open.spotify.com/track/1AcfYPIBBde0ZIkLxgm6EF) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:41 | 2020-12-08 |  |
+| [Thinking 'Bout Myself](https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:41 | 2020-12-08 |  |
+| [Thinking 'Bout Myself](https://open.spotify.com/track/1AcfYPIBBde0ZIkLxgm6EF) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:41 | 2020-12-08 | 2022-11-27 |
 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 | 2020-12-08 |  |
 | [Threw Me to the Wolves](https://open.spotify.com/track/2NyIqmxO95eMwULJLThPPu) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves \(Revisited\)](https://open.spotify.com/album/3v4mvvhmpHsIHFARPcYHe6) | 3:52 | 2020-12-08 |  |
 | [Threw Me To The Wolves](https://open.spotify.com/track/2pzX6WBgMtavA1hZ0pt91F) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Threw Me to the Wolves](https://open.spotify.com/album/5wwJpsU8T5zdRT2X8XnZ7s) | 3:52 | 2020-12-08 | 2022-07-29 |

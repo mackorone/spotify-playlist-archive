@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "The best Blues for a long trip behind the wheel. ",
   "name": "Blues Road Trip",
-  "published_playlist_ids": [
-    "7inldxiHCey24iSezd8whW"
-  ],
   "tracks": [
     {
       "album": {
@@ -135,6 +132,24 @@
       "duration_ms": 151560,
       "name": "Billy Boy's Jump",
       "url": "https://open.spotify.com/track/1FdYBTTaSGYMaz1zf42kzJ"
+    },
+    {
+      "album": {
+        "name": "Beck, Bogert, Appice",
+        "url": "https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz"
+      },
+      "artists": [
+        {
+          "name": "Beck, Bogert, Appice",
+          "url": "https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "Black Cat Moan",
+      "url": "https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2"
     },
     {
       "album": {
@@ -2317,7 +2332,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 166933,
       "name": "Two Way Wishing",
       "url": "https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4"

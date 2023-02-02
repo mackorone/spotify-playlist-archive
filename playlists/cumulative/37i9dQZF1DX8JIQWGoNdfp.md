@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/cheetah/">Tyreek Hill</a>
 
-52 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/7gPxjWhkTaEICFGtx9DSh7)
+52 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
   "name": "Latin Dinner",
-  "published_playlist_ids": [
-    "3N3y8hpOLcf4lHcrRM7Jsi"
-  ],
   "tracks": [
     {
       "album": {
@@ -507,7 +504,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-01",
       "duration_ms": 294000,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/0efgPvuswa3D7pghLVpQwV"
@@ -3257,7 +3254,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 273466,
       "name": "Tiene Sabor, Tiene Saz\u00f3n",
       "url": "https://open.spotify.com/track/7CPu17eltuCnWj3QZtlI8Z"
@@ -3509,7 +3506,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 244043,
       "name": "Ya Lleg\u00f3 - Captain Planet Remix",
       "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"
@@ -3582,24 +3579,6 @@
     },
     {
       "album": {
-        "name": "Compact Jazz: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "date_added": "2022-01-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212493,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
-    },
-    {
-      "album": {
         "name": "Antonio Carlos Jobim: Finest Hour",
         "url": "https://open.spotify.com/album/2iBlbJFXs5U3dY8G9UGyTB"
       },
@@ -3619,6 +3598,50 @@
       "duration_ms": 214866,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
+    },
+    {
+      "album": {
+        "name": "Compact Jazz: Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 212493,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
+    },
+    {
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     },
     {
       "album": {

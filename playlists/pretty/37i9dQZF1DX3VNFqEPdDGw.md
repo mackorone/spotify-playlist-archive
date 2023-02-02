@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,025 likes - 53 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,046 likes - 53 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lounge around without a care in the world...
 
-39 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/01LD2sm6ynxSXrM57w9OPt)
+39 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

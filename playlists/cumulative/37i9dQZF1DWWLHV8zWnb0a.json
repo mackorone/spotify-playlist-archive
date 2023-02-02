@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-30",
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
   "name": "Oscuros 90",
-  "published_playlist_ids": [
-    "0ZTvaGdY3PACa8LPz6dQs6"
-  ],
   "tracks": [
     {
       "album": {
@@ -567,7 +564,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-17",
       "duration_ms": 184866,
       "name": "Bull In The Heather",
       "url": "https://open.spotify.com/track/6px1KhTqAfxdcF6A1JGSpx"
@@ -1215,7 +1212,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 200240,
       "name": "Goin' Out West",
       "url": "https://open.spotify.com/track/141XsxpUkbj7AkQKT8vySq"
@@ -1417,6 +1414,24 @@
       "duration_ms": 223053,
       "name": "Horror Head",
       "url": "https://open.spotify.com/track/1SoPOB7wsqbR9wDPU1KapO"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252360,
+      "name": "Human Behaviour",
+      "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
     },
     {
       "album": {
@@ -1799,7 +1814,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 310293,
       "name": "Just One Fix",
       "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
@@ -2177,7 +2192,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 178640,
       "name": "March Of The Pigs",
       "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
@@ -2653,7 +2668,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 455853,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
@@ -2909,7 +2924,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 327120,
       "name": "Spinning Away",
       "url": "https://open.spotify.com/track/0EZ4GxnjKkB5Q0X5MhMNEf"

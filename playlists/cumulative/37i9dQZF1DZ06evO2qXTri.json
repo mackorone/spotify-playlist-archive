@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
   "name": "This Is Kirk Franklin",
-  "published_playlist_ids": [
-    "5Iz7UtOI9cegXVAiq9AOUp"
-  ],
   "tracks": [
     {
       "album": {
@@ -98,6 +95,32 @@
     },
     {
       "album": {
+        "name": "Better Days (Live)",
+        "url": "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k"
+      },
+      "artists": [
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323333,
+      "name": "Better Days - Live",
+      "url": "https://open.spotify.com/track/1GBtvDSR3e5D5GJAYIYhEc"
+    },
+    {
+      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
       },
@@ -187,7 +210,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 312078,
       "name": "Can't Nobody (feat. Ryan Ofei & Maryanne J. George)",
       "url": "https://open.spotify.com/track/6m2L8UyoRjOYDJZ4Hdjcvd"
@@ -275,7 +298,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-29",
       "duration_ms": 180678,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/3Xvw1rd3WZn4qLuiz1Veaj"
@@ -460,6 +483,24 @@
     },
     {
       "album": {
+        "name": "The Rebirth of Kirk Franklin",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265866,
+      "name": "He Reigns / Awesome God",
+      "url": "https://open.spotify.com/track/1mkLV53Mtcpl4XJOcBL5B4"
+    },
+    {
+      "album": {
         "name": "The Essential Kirk Franklin",
         "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
       },
@@ -471,7 +512,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 266400,
       "name": "He Reigns / Awesome God",
       "url": "https://open.spotify.com/track/2vWWqwrLHAc1th3bR5O4Uv"
@@ -533,7 +574,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 259066,
       "name": "Hello God",
       "url": "https://open.spotify.com/track/5vCmQ3GFBY338mNytXxXaB"
@@ -831,10 +872,40 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 309066,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/4IyemaA2yUElYlOiCV1vGC"
+    },
+    {
+      "album": {
+        "name": "Life and Favor",
+        "url": "https://open.spotify.com/album/4gpnTKSK7OOSQpr8TtMeEo"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "New Life",
+          "url": "https://open.spotify.com/artist/6VNKtxRJ6IFNHhNC4HUhBw"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 239200,
+      "name": "Life and Favor - Remix",
+      "url": "https://open.spotify.com/track/4CCe4GWOFUZBvMXq45jkU0"
     },
     {
       "album": {
@@ -1103,7 +1174,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-02-02",
       "duration_ms": 337893,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7"

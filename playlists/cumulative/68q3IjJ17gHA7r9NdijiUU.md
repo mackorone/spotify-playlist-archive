@@ -4,7 +4,7 @@
 
 > Finally, the perfect roadtrip playlist is here\. Sing along to these classics and new hits, and discover new favorites along the way!
 
-146 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/7wE4KWEfCjsHjIxhHAMbXZ)
+146 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

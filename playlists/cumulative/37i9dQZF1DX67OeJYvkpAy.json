@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-14",
   "description": "the best of the deep end. cover: Kay9ine",
   "name": "lofi rap",
-  "published_playlist_ids": [
-    "05XcV66yrFwpM4y0Nurpue"
-  ],
   "tracks": [
     {
       "album": {
@@ -85,7 +82,7 @@
       },
       "artists": [
         {
-          "name": "JBee",
+          "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
@@ -405,24 +402,6 @@
       "duration_ms": 392013,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej"
-    },
-    {
-      "album": {
-        "name": "Better Than Me",
-        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
-      },
-      "artists": [
-        {
-          "name": "KS",
-          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
-        }
-      ],
-      "date_added": "2022-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146729,
-      "name": "Better Than Me",
-      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
     },
     {
       "album": {
@@ -795,7 +774,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 182608,
       "name": "Derby To Moston",
       "url": "https://open.spotify.com/track/2zOL1aU5TWkOcLizB4CJNa"
@@ -817,6 +796,24 @@
       "duration_ms": 182608,
       "name": "Derby To Moston",
       "url": "https://open.spotify.com/track/488gyYhx0kuJzJvMEXtouL"
+    },
+    {
+      "album": {
+        "name": "Derby To Moston",
+        "url": "https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182648,
+      "name": "Derby To Moston",
+      "url": "https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9"
     },
     {
       "album": {
@@ -885,10 +882,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 133090,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/5geYrrlo5OEZ4ImHAgcHd5"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/5857X0HSQoIMW8mdJKhDVA"
     },
     {
       "album": {
@@ -1120,6 +1135,42 @@
     },
     {
       "album": {
+        "name": "High on Love",
+        "url": "https://open.spotify.com/album/5DJTixdrcHHAbzbnYzCE26"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 181044,
+      "name": "High on Love",
+      "url": "https://open.spotify.com/track/2zZUvshFMhGN6QmnOUqMJI"
+    },
+    {
+      "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
+    },
+    {
+      "album": {
         "name": "High On Love",
         "url": "https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo"
       },
@@ -1131,7 +1182,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 181044,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
@@ -1239,10 +1290,64 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 176680,
       "name": "I Thought I'd Die In Your Arms",
       "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
+    },
+    {
+      "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
+    },
+    {
+      "album": {
+        "name": "I Thought I'd Die In Your Arms",
+        "url": "https://open.spotify.com/album/1faQu8qGIL4XNZHno11AuF"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/6Us2o4FMWMwRdWfSCUsWvv"
+    },
+    {
+      "album": {
+        "name": "I Wanna Start My Life Again",
+        "url": "https://open.spotify.com/album/2ZKJfUIWwVZL2dYYrRXetk"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150884,
+      "name": "I Wanna Start My Life Again",
+      "url": "https://open.spotify.com/track/0KooKH1oKoOho3w9kyG9PP"
     },
     {
       "album": {
@@ -1257,7 +1362,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 150884,
       "name": "I Wanna Start My Life Again",
       "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
@@ -1275,10 +1380,28 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 189781,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
+    },
+    {
+      "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4"
     },
     {
       "album": {
@@ -1635,10 +1758,32 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 181090,
       "name": "Married To Music",
       "url": "https://open.spotify.com/track/0BzkXAdyJcycv5eij2YzaQ"
+    },
+    {
+      "album": {
+        "name": "Married To Music",
+        "url": "https://open.spotify.com/album/03qB1vrxjtdKWIMstmF6MK"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        },
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "Married To Music",
+      "url": "https://open.spotify.com/track/4gvrwEE8pDAlgb9rjnvcEA"
     },
     {
       "album": {
@@ -1671,10 +1816,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 207249,
       "name": "Meaning Of Love",
       "url": "https://open.spotify.com/track/1r42qcKQ61V3nKUd0QFXY3"
+    },
+    {
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207307,
+      "name": "Meaning Of Love",
+      "url": "https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66"
     },
     {
       "album": {
@@ -1813,7 +1976,7 @@
       },
       "artists": [
         {
-          "name": "JBee",
+          "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         },
         {
@@ -1841,10 +2004,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 168751,
       "name": "No Emotions",
       "url": "https://open.spotify.com/track/1qSTiAFlGJY9aJVgreRF8D"
+    },
+    {
+      "album": {
+        "name": "No Emotions",
+        "url": "https://open.spotify.com/album/17K4yH8Z5TxBVc5F49J5wQ"
+      },
+      "artists": [
+        {
+          "name": "Ddotz x Dice",
+          "url": "https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170062,
+      "name": "No Emotions",
+      "url": "https://open.spotify.com/track/5iSCp2kkb7UzpZavOMXhbA"
     },
     {
       "album": {
@@ -1885,6 +2066,24 @@
     {
       "album": {
         "name": "No Pain",
+        "url": "https://open.spotify.com/album/3neEYpzdx056vivkqTKYlQ"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163723,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
+    },
+    {
+      "album": {
+        "name": "No Pain",
         "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
       },
       "artists": [
@@ -1895,7 +2094,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 165405,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
@@ -2117,7 +2316,7 @@
           "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
         },
         {
-          "name": "JBee",
+          "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
@@ -2184,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
+    },
+    {
+      "album": {
         "name": "She Comes & Goes",
         "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
       },
@@ -2195,10 +2412,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 199705,
       "name": "She Comes & Goes",
       "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
+    },
+    {
+      "album": {
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/0jsWbLeChDHLiQVyqI3jUY"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/64ouLp8HmGoKawnFAmcGeR"
     },
     {
       "album": {
@@ -2285,10 +2520,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 111250,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
+    },
+    {
+      "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111253,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
     },
     {
       "album": {
@@ -2339,10 +2592,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 200039,
       "name": "take the risk",
       "url": "https://open.spotify.com/track/6A4zgs4IsEi3iglTBF2RUL"
+    },
+    {
+      "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/3GtwsJ6W6K5YhhmhSFvjET"
+      },
+      "artists": [
+        {
+          "name": "OB",
+          "url": "https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 200888,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/0awuE0LPZZUnlNyfS3KH0B"
     },
     {
       "album": {
@@ -2357,10 +2628,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-02-01",
       "duration_ms": 200888,
       "name": "Take The Risk",
       "url": "https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi"
+    },
+    {
+      "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/3xmYrVJwdA922UfaEbiWGW"
+      },
+      "artists": [
+        {
+          "name": "OB",
+          "url": "https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 200888,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/6PrlW3ixvblqC6gLCDMAOH"
     },
     {
       "album": {
@@ -2386,12 +2675,34 @@
     },
     {
       "album": {
+        "name": "Take The Risk (xSyborg Remix)",
+        "url": "https://open.spotify.com/album/0w5iHzH3j7mV8GtIWqPm1R"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "xSyborg",
+          "url": "https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200039,
+      "name": "Take The Risk - xSyborg Remix",
+      "url": "https://open.spotify.com/track/4ai0k3zlivanKlfM3nqtkO"
+    },
+    {
+      "album": {
         "name": "Talking Stage",
         "url": "https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX"
       },
       "artists": [
         {
-          "name": "JBee",
+          "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
@@ -2473,6 +2784,24 @@
       "duration_ms": 142027,
       "name": "Told Me",
       "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
+    },
+    {
+      "album": {
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp"
+      },
+      "artists": [
+        {
+          "name": "KS",
+          "url": "https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146729,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8"
     },
     {
       "album": {

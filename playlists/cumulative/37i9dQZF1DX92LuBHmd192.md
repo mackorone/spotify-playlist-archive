@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2016! Cover: Justin Bieber
 
-161 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/6dPXw2DJKdZW1vqPi9LYbZ)
+161 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

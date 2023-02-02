@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-18",
   "description": "Hip Hop pra fazer os corres da vida.",
   "name": "No corre",
-  "published_playlist_ids": [
-    "7DAGjpLvat3eEtPVDLnVUB"
-  ],
   "tracks": [
     {
       "album": {
@@ -460,6 +457,28 @@
     },
     {
       "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
+      "url": "https://open.spotify.com/track/7Gte9xFdlHkyBMmpRNUyP8"
+    },
+    {
+      "album": {
         "name": "Back In Traffic (feat. KIRBY)",
         "url": "https://open.spotify.com/album/7iTi1Vio2z7cT0ZvQiIWFN"
       },
@@ -801,7 +820,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-17",
       "duration_ms": 163499,
       "name": "Blacc Tarantino",
       "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
@@ -1325,7 +1344,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-03",
       "duration_ms": 155200,
       "name": "COUNT ON ME",
       "url": "https://open.spotify.com/track/1kdixtbMh0JUWlvSDmfM9I"
@@ -1405,6 +1424,24 @@
       "duration_ms": 291611,
       "name": "D.M.B.",
       "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
+    },
+    {
+      "album": {
+        "name": "Daily Duppy (Dem Dead)",
+        "url": "https://open.spotify.com/album/6H1aU8exiYl8OI0Xt8d4GG"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179907,
+      "name": "Daily Duppy (Dem Dead)",
+      "url": "https://open.spotify.com/track/1RLFNhcRa6572GRGfa6TBB"
     },
     {
       "album": {
@@ -2048,6 +2085,32 @@
     },
     {
       "album": {
+        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+    },
+    {
+      "album": {
         "name": "RTJ CU4TRO",
         "url": "https://open.spotify.com/album/1ILVeBkzKVhwqn1ze1et9x"
       },
@@ -2067,7 +2130,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 244586,
       "name": "fuera de vista (feat. Baco Exu Do Blues) - TROOKO\u2019s Versi\u00f3n",
       "url": "https://open.spotify.com/track/4NqA2uQZsBGBelv77weqdi"
@@ -2293,7 +2356,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2rPHUAeUPbNgTmK18FPTiZ"
@@ -2315,7 +2378,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
@@ -2407,7 +2470,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 185140,
       "name": "Good Movie",
       "url": "https://open.spotify.com/track/3UZdSNMSGjZM5GuGuqB5ff"
@@ -3493,7 +3556,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 150053,
       "name": "Louis Baggage (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB"
@@ -3630,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+    },
+    {
+      "album": {
         "name": "Black On Both Sides",
         "url": "https://open.spotify.com/album/4jZI8SruF5N6sKJoWItEhl"
       },
@@ -3725,6 +3806,28 @@
       "duration_ms": 304933,
       "name": "Mind Blowin' (feat. Vinia Mojica)",
       "url": "https://open.spotify.com/track/1foIqCKbgzB1czR3SgoEjK"
+    },
+    {
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
     },
     {
       "album": {
@@ -4231,7 +4334,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 236799,
       "name": "Not For Nothing (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
@@ -4449,6 +4552,32 @@
       "duration_ms": 160993,
       "name": "Pangea",
       "url": "https://open.spotify.com/track/0qiIYN9abyZQTbsg7PdM4v"
+    },
+    {
+      "album": {
+        "name": "Park Bench Blues (feat. Curren$y)",
+        "url": "https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "MonstaBeatz",
+          "url": "https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Park Bench Blues (feat. Curren$y)",
+      "url": "https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z"
     },
     {
       "album": {
@@ -5038,6 +5167,24 @@
     },
     {
       "album": {
+        "name": "Shittin' Me",
+        "url": "https://open.spotify.com/album/3M1sz7dBtyfa1KqdiAylC6"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144729,
+      "name": "Shittin' Me",
+      "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
+    },
+    {
+      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -5155,7 +5302,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 244158,
       "name": "Slap",
       "url": "https://open.spotify.com/track/75VgEKfn6TL5W3hSPE81ZC"
@@ -5213,7 +5360,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 152478,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/1dKwfm7cjsj73CLjk3oReY"
@@ -5557,7 +5704,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 352613,
       "name": "Survivors Guilt",
       "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
@@ -5988,6 +6135,24 @@
     },
     {
       "album": {
+        "name": "Torpedo",
+        "url": "https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240967,
+      "name": "Torpedo",
+      "url": "https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw"
+    },
+    {
+      "album": {
         "name": "Troubles [Feat. T-Pain]",
         "url": "https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe"
       },
@@ -6003,7 +6168,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 160000,
       "name": "Troubles [Feat. T-Pain]",
       "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"

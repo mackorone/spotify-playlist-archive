@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
   "name": "Jazz Covers",
-  "published_playlist_ids": [
-    "0a8qLwuYjb3BzzgElxKw9i"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 456480,
       "name": "A Case Of You - Short Version",
       "url": "https://open.spotify.com/track/4pVnYnA1mTIccXsLLEKMyY"
+    },
+    {
+      "album": {
+        "name": "Jazz Volume: Herbie Hancock",
+        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
     },
     {
       "album": {
@@ -55,7 +70,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 289653,
       "name": "A Day In The Life",
       "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
@@ -193,7 +208,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 148800,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
@@ -295,7 +310,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 319786,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6p5xME6kNYc2lkvt4atkKL"
@@ -487,7 +502,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": "2022-11-29",
       "duration_ms": 458160,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/2MMhpRPmQYXk7xm7KHgWoq"
@@ -577,7 +592,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 232522,
       "name": "Chelsea Morning",
       "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
@@ -599,6 +614,28 @@
       "duration_ms": 401706,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E"
+    },
+    {
+      "album": {
+        "name": "Play Favorites",
+        "url": "https://open.spotify.com/album/18PqcQgK9HM9N3NaLnPc9H"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Johnson",
+          "url": "https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi"
+        },
+        {
+          "name": "Randy Ingram",
+          "url": "https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 263453,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/2OsL9OwffBpmb4YlrEpxxB"
     },
     {
       "album": {
@@ -809,7 +846,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 244573,
       "name": "Flim",
       "url": "https://open.spotify.com/track/73dk1Hmi0bDX9IMYISFuac"
@@ -823,6 +860,22 @@
         {
           "name": "Nils Landgren",
           "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        },
+        {
+          "name": "Johan Norberg",
+          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
+        },
+        {
+          "name": "Rasmus Kihlberg",
+          "url": "https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR"
         }
       ],
       "date_added": "2022-09-13",
@@ -925,7 +978,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 277960,
       "name": "Heart Shaped Box",
       "url": "https://open.spotify.com/track/5i17LHqATVUzB3qJaUcNkO"
@@ -1031,7 +1084,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 252680,
       "name": "Hey, That's No Way To Say Goodbye",
       "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
@@ -1092,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "How Deep Is Your Love",
+        "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
+      },
+      "artists": [
+        {
+          "name": "Charles Daisey & Friends",
+          "url": "https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200750,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
+    },
+    {
+      "album": {
         "name": "Accelerando",
         "url": "https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF"
       },
@@ -1115,6 +1186,24 @@
       "duration_ms": 579160,
       "name": "Human Nature (Trio Extension)",
       "url": "https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL"
+    },
+    {
+      "album": {
+        "name": "I Am The Walrus",
+        "url": "https://open.spotify.com/album/4Py5viNf0Lzt14Od4iTCNJ"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254573,
+      "name": "I Am The Walrus",
+      "url": "https://open.spotify.com/track/1FQ36swxT2Zn0K5xlwkxUg"
     },
     {
       "album": {
@@ -1147,10 +1236,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 292498,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/1W6p8Y996nO7Pd1JYEZIb6"
+    },
+    {
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205502,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
     },
     {
       "album": {
@@ -1173,7 +1280,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 318086,
       "name": "I Think It's Going to Rain Today",
       "url": "https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD"
@@ -1209,7 +1316,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 282235,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0KmnSwNsxEyKVF00QuSZMf"
@@ -1559,7 +1666,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 523613,
       "name": "Maiden Voyage / Everything In Its Right Place",
       "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
@@ -1615,6 +1722,36 @@
       "duration_ms": 174466,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
+    },
+    {
+      "album": {
+        "name": "4 Wheel Drive",
+        "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        },
+        {
+          "name": "Wolfgang Haffner",
+          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
+        },
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226558,
+      "name": "Maybe I'm Amazed",
+      "url": "https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu"
     },
     {
       "album": {
@@ -1763,7 +1900,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 369876,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
@@ -1781,7 +1918,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 545013,
       "name": "Paranoid Android",
       "url": "https://open.spotify.com/track/2sowiwuhxt4nLIWP6vWJOa"
@@ -1803,7 +1940,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 198080,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/5cS6bmbwOKs0xyIYfDQumf"
@@ -2019,7 +2156,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 240893,
       "name": "She's Always A Woman",
       "url": "https://open.spotify.com/track/4ql11Y7pZAgUW25dbJqFED"
@@ -2059,6 +2196,32 @@
       "duration_ms": 229493,
       "name": "Simple Twist Of Fate",
       "url": "https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv"
+    },
+    {
+      "album": {
+        "name": "Remember to Remember",
+        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cusmano",
+          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
+        },
+        {
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305631,
+      "name": "Sorry Seems to Be the Hardest Word",
+      "url": "https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp"
     },
     {
       "album": {
@@ -2481,6 +2644,24 @@
       "duration_ms": 232253,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
+    },
+    {
+      "album": {
+        "name": "Your Mother Should Know",
+        "url": "https://open.spotify.com/album/6tv11K8mOCg9OlDakoEGiO"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138213,
+      "name": "Your Mother Should Know",
+      "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7lkAsA4QOXG"

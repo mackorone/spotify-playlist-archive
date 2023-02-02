@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
   "name": "This Is Verdi",
-  "published_playlist_ids": [
-    "1JX2k68z13nb5nDeYoOiIS"
-  ],
   "tracks": [
     {
       "album": {
@@ -3745,12 +3742,12 @@
       },
       "artists": [
         {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
           "name": "Giuseppe Verdi",
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
         },
         {
           "name": "Prague Philharmonic Orchestra",

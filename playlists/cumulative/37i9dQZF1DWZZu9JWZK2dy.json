@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "The hottest Anime hits of the 00s.  2000\u5e74\u4ee3\u306e\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u7279\u96c6\uff01Illustration by <a href=\"https://www.instagram.com/hideyasu_moto/\"> Hideyasu Moto</a>",
   "name": "Anime Rewind '00s",
-  "published_playlist_ids": [
-    "39JhdRXejkPBSUicsoFlpo"
-  ],
   "tracks": [
     {
       "album": {
@@ -271,7 +268,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215346,
-      "name": "DANZEN!\u3075\u305f\u308a\u306f\u30d5\u309a\u30ea\u30ad\u30e5\u30a2",
+      "name": "DANZEN!\u3075\u305f\u308a\u306f\u30d7\u30ea\u30ad\u30e5\u30a2",
       "url": "https://open.spotify.com/track/0eHv2HCxtNv1g3IiydZHjO"
     },
     {
@@ -449,10 +446,28 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 266266,
       "name": "Gamble Rumble",
       "url": "https://open.spotify.com/track/5r0ZmGWdDPkY4gqAr0t9kf"
+    },
+    {
+      "album": {
+        "name": "\u61d0-\u30ca\u30c4-\u30a8\u30e2\u30c6\u30a3\u30c3\u30af J-POP \u795eBUZZ HIT SONGS (DJ KOO PLAYLIST MEGA MIX)",
+        "url": "https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS"
+      },
+      "artists": [
+        {
+          "name": "m.o.v.e",
+          "url": "https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267800,
+      "name": "Gamble Rumble",
+      "url": "https://open.spotify.com/track/6oT735CbhxWY1ZsvHRg6u4"
     },
     {
       "album": {
@@ -687,6 +702,28 @@
       "duration_ms": 241506,
       "name": "JOINT",
       "url": "https://open.spotify.com/track/0VRn529V2PuyZ9HTbd5sy9"
+    },
+    {
+      "album": {
+        "name": "\"SERGEANT KERORO\" KERORO Songs",
+        "url": "https://open.spotify.com/album/6NA4L8cYcXbVnsYfzIestY"
+      },
+      "artists": [
+        {
+          "name": "Nobuaki Kakuda",
+          "url": "https://open.spotify.com/artist/6d3s9bd3dlNCqNIQ7IMkWx"
+        },
+        {
+          "name": "Juri Ihata",
+          "url": "https://open.spotify.com/artist/5V6Fmx6qjQcg7avFO4cyLK"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Kerot! to March",
+      "url": "https://open.spotify.com/track/3edh7C1iGIslrU7Vx7wTQH"
     },
     {
       "album": {
@@ -1141,7 +1178,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 191000,
       "name": "\u30b1\u30ed\u30c3! \u3068\u30de\u30fc\u30c1",
       "url": "https://open.spotify.com/track/7ehux42uSQOUuhWS4yPBbb"
@@ -1600,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "\u61d0-\u30ca\u30c4-\u30a8\u30e2\u30c6\u30a3\u30c3\u30af J-POP \u795eBUZZ HIT SONGS (DJ KOO PLAYLIST MEGA MIX)",
+        "url": "https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS"
+      },
+      "artists": [
+        {
+          "name": "Road Of Major",
+          "url": "https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "\u5fc3\u7d75",
+      "url": "https://open.spotify.com/track/33CYO63qC6GGwK5WAFFFD2"
+    },
+    {
+      "album": {
         "name": "ROAD OF MAJOR II",
         "url": "https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh"
       },
@@ -1611,7 +1666,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 261833,
       "name": "\u5fc3\u7d75",
       "url": "https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM"

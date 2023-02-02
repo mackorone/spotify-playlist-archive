@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Let these songs soundtrack your busy wedding season.",
   "name": "Band Baaja Bollywood",
-  "published_playlist_ids": [
-    "0kmAjHvJvbuKLD5ubLOeNo"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,7 +24,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 325706,
       "name": "Bahara",
       "url": "https://open.spotify.com/track/1gwO79MdYdumgIjxq8eCxB"
@@ -146,6 +143,40 @@
     },
     {
       "album": {
+        "name": "Chedkhaniyan (From \"Shehzada\")",
+        "url": "https://open.spotify.com/album/4ZRWac4XgoJF3bITMy3GHA"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231421,
+      "name": "Chedkhaniyan (From \"Shehzada\")",
+      "url": "https://open.spotify.com/track/6EKY8rpjaBxxB0WbXJhedU"
+    },
+    {
+      "album": {
         "name": "Hum Saath - Saath Hain (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0V8O6S0S6mYdyPch6DdW8g"
       },
@@ -193,7 +224,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231562,
-      "name": "Cutiepie",
+      "name": "Cutiepie (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/7hXnhouVPnOnFwCGrQMHvB"
     },
     {
@@ -539,6 +570,10 @@
         {
           "name": "Prem & Hardeep",
           "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2021-10-29",
@@ -696,7 +731,7 @@
         },
         {
           "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/7g50VfJAaMxErQDD8CqlSV"
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
         }
       ],
       "date_added": "2021-10-29",
@@ -767,10 +802,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 286694,
       "name": "Mehndi Laga Ke Rakhna (From \"Dilwale Dulhania Le Jayenge\")",
       "url": "https://open.spotify.com/track/6fAd7h8Jt3Hsf764rn7kEV"
+    },
+    {
+      "album": {
+        "name": "Mood Banaleya",
+        "url": "https://open.spotify.com/album/5r0qdhwVJtTcZ3ejOP8M3n"
+      },
+      "artists": [
+        {
+          "name": "Amruta Fadnavis",
+          "url": "https://open.spotify.com/artist/14HU1ikR555oozRRbVQeZg"
+        },
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234260,
+      "name": "Mood Banaleya",
+      "url": "https://open.spotify.com/track/2hLEiRXEa7ehdGQwINN0XQ"
     },
     {
       "album": {
@@ -919,6 +976,10 @@
         {
           "name": "Zain - Sam",
           "url": "https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2021-10-29",
@@ -953,6 +1014,28 @@
       "duration_ms": 233920,
       "name": "Punjabi Wedding Song",
       "url": "https://open.spotify.com/track/69iDTIABXobqbl8zJOp8dq"
+    },
+    {
+      "album": {
+        "name": "Macharla Chunaav Kshetra (M.C.K)",
+        "url": "https://open.spotify.com/album/0qRXOBFcg6JaeECfILhtvz"
+      },
+      "artists": [
+        {
+          "name": "Tarannum Mallik Jain",
+          "url": "https://open.spotify.com/artist/4ZourJRcQTpIL5haRgvyWl"
+        },
+        {
+          "name": "Harry Anand",
+          "url": "https://open.spotify.com/artist/6u8WDhZmfLcGVyknPoLrrY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "Ra Ra Reddy",
+      "url": "https://open.spotify.com/track/3CltdQnB1NJuE5khm0d6r7"
     },
     {
       "album": {
@@ -1103,6 +1186,32 @@
       "duration_ms": 408920,
       "name": "Say \"Shava Shava\"",
       "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
+    },
+    {
+      "album": {
+        "name": "Special Edition Kudi (From \"Chhatriwali\")",
+        "url": "https://open.spotify.com/album/52d1Rldtdg5ht9HoNndOEK"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Gandhharv Sachdeva",
+          "url": "https://open.spotify.com/artist/5oLlZ9IrLXVex2JVbRNxVS"
+        },
+        {
+          "name": "Sumeet Bellary",
+          "url": "https://open.spotify.com/artist/6XOsP5dT3d0YbZXWTumRdd"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192259,
+      "name": "Special Edition Kudi (From \"Chhatriwali\")",
+      "url": "https://open.spotify.com/track/3xVKKmVMKmZ7vu2PDgeAiA"
     },
     {
       "album": {

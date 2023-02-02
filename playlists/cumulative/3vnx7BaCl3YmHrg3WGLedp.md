@@ -4,7 +4,7 @@
 
 > Harmonicas &amp; slide guitars for the win\. Chill out with some laid back roots &amp; Americana.
 
-95 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/2xIlrRogGXiV845brWvjQG)
+95 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

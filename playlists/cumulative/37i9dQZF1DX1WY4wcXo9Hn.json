@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "a maroon kind of mood",
+  "description": "i can picture it after all these days",
   "name": "scarf season",
-  "published_playlist_ids": [
-    "23fB26dU2vYzc523vA12TM"
-  ],
   "tracks": [
     {
       "album": {
@@ -1157,7 +1154,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
@@ -1929,6 +1926,24 @@
       "duration_ms": 138586,
       "name": "Year From Now",
       "url": "https://open.spotify.com/track/2XbHQSvl64ZzEkzV91j1WC"
+    },
+    {
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1WY4wcXo9Hn"

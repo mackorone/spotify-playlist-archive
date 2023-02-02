@@ -4,7 +4,7 @@
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/6ekucn6Wbk3jh9UDmm3XTW)
+63 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 | 2022-10-22 |  |
 | [C.A.N.C.E.R](https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:19 | 2022-05-30 |  |
 | [Castles In The Air](https://open.spotify.com/track/1UNG4xf1SxhDE62c8vPCwR) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 3:42 | 2022-05-30 |  |
-| [Change \(In The House Of Flies\) \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Spotify Singles](https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui) | 4:55 | 2022-05-30 |  |
+| [Change \(In The House Of Flies\) \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Spotify Singles](https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui) | 4:55 | 2022-05-30 | 2022-12-29 |
 | [Colony Collapse](https://open.spotify.com/track/3nRmk2LJq3bTacynhGmAUW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:31 | 2022-05-30 |  |
 | [Day in Day Out](https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:10 | 2022-06-11 |  |
 | [Daybreak](https://open.spotify.com/track/1ARkHSVKsDO1RWu2vedbpm) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:32 | 2022-05-30 |  |
@@ -37,9 +37,9 @@
 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 | 2022-09-01 | 2022-11-04 |
 | [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 | 2022-11-03 |  |
 | [Dethroned](https://open.spotify.com/track/2XvLhlHXJID2ORTL4EBlsW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 3:06 | 2022-06-25 | 2022-06-27 |
-| [Devil's Island](https://open.spotify.com/track/7E72zJebtIL3QHjXZOBk3d) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:06 | 2022-05-30 |  |
+| [Devil's Island](https://open.spotify.com/track/7E72zJebtIL3QHjXZOBk3d) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:06 | 2022-05-30 | 2022-12-08 |
 | [Discourse Is Dead](https://open.spotify.com/track/3XFqW9PbzMBy6wV06egJQ2) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:46 | 2022-05-30 | 2022-10-05 |
-| [doomscrolling](https://open.spotify.com/track/12lkUbhW7B4dZ46xHoT9Sj) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:21 | 2022-10-22 | 2022-11-17 |
+| [doomscrolling](https://open.spotify.com/track/12lkUbhW7B4dZ46xHoT9Sj) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:21 | 2022-10-22 | 2022-12-18 |
 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:08 | 2022-05-30 |  |
 | [Downfall](https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 4:04 | 2022-05-30 |  |
 | [Early Grave](https://open.spotify.com/track/4soE6F9djLRl3OwQyKd3p2) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 3:32 | 2022-05-30 |  |
@@ -49,7 +49,7 @@
 | [Gone With The Wind](https://open.spotify.com/track/6w9PFIfsLZvzo09nfmqjxQ) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:45 | 2022-05-30 |  |
 | [Gravedigger](https://open.spotify.com/track/6n5njQ1hPrRVjBtlYNQtgu) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:05 | 2022-05-30 |  |
 | [Gravity](https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:18 | 2022-05-30 |  |
-| [Heartburn](https://open.spotify.com/track/7zWpt2cSbTHyjTdWY805Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:37 | 2022-05-30 |  |
+| [Heartburn](https://open.spotify.com/track/7zWpt2cSbTHyjTdWY805Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:37 | 2022-05-30 | 2022-12-22 |
 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 | 2022-05-30 |  |
 | [Hollow Crown](https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 4:24 | 2022-06-16 |  |
 | [Holy Hell](https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 | 2022-05-30 |  |

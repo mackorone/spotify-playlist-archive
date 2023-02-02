@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "For the pain, tears and heartbreak.",
   "name": "End in Tears ",
-  "published_playlist_ids": [
-    "0jW8v03O6T6PWZPdnpYcDn"
-  ],
   "tracks": [
     {
       "album": {
@@ -190,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Kold Szn",
+        "url": "https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181348,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6"
+    },
+    {
+      "album": {
         "name": "Freestyle EP",
         "url": "https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO"
       },
@@ -353,7 +368,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 139780,
       "name": "DON'T",
       "url": "https://open.spotify.com/track/5AzIXbjKdIR5NwLtQD4f48"
@@ -607,7 +622,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 162352,
       "name": "Heartburn (Sooibrand)",
       "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
@@ -647,6 +662,24 @@
       "duration_ms": 174000,
       "name": "I Hate U",
       "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131219,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7"
     },
     {
       "album": {
@@ -690,8 +723,52 @@
     },
     {
       "album": {
+        "name": "Ife Ife",
+        "url": "https://open.spotify.com/album/7iIw1JOb6ciXxIw603PpvJ"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 138422,
+      "name": "Ife Ife",
+      "url": "https://open.spotify.com/track/3716u4GLH9a7HqmwCWLrC9"
+    },
+    {
+      "album": {
         "name": "In A Loop",
         "url": "https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "date_added": "2022-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 193515,
+      "name": "In A Loop",
+      "url": "https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2"
+    },
+    {
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
       "artists": [
         {
@@ -712,7 +789,7 @@
       "date_removed": null,
       "duration_ms": 193515,
       "name": "In A Loop",
-      "url": "https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2"
+      "url": "https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U"
     },
     {
       "album": {
@@ -727,7 +804,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-09",
       "duration_ms": 180000,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ"
@@ -1209,7 +1286,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
@@ -1375,7 +1452,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 153077,
       "name": "Perfect Girl (feat. MisterKay)",
       "url": "https://open.spotify.com/track/02N7PICytyxQIB83WNtxC8"
@@ -1531,7 +1608,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 205131,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/2ncseCYD6unNaUj3j05azH"
@@ -1553,6 +1630,24 @@
       "duration_ms": 167767,
       "name": "Single",
       "url": "https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe"
+    },
+    {
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
       "album": {

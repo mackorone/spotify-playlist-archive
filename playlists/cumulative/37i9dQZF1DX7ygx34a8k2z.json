@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-18",
   "description": "dig through the record bin.",
   "name": "Thrifted",
-  "published_playlist_ids": [
-    "1mhOfY9jjNkvaWM7mCmBjC"
-  ],
   "tracks": [
     {
       "album": {
@@ -343,7 +340,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 355533,
       "name": "Breadcrumb Trail",
       "url": "https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d"
@@ -404,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
+    },
+    {
+      "album": {
         "name": "Endtroducing",
         "url": "https://open.spotify.com/album/05umIHnYZLSD2TcZrQulgi"
       },
@@ -415,7 +430,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 401400,
       "name": "Building Steam With A Grain Of Salt",
       "url": "https://open.spotify.com/track/6K8J4txeZp5anMIE0srVqr"
@@ -631,7 +646,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 305533,
       "name": "Cornflake Girl - 2015 Remaster",
       "url": "https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn"
@@ -685,7 +700,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 194093,
       "name": "Cure for Pain",
       "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
@@ -901,7 +916,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 316173,
       "name": "Fascination Street - 2010 Remaster",
       "url": "https://open.spotify.com/track/49gCfmOmL7FOflCHMC5Nz2"
@@ -1643,7 +1658,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246400,
       "name": "Kool Thing",
       "url": "https://open.spotify.com/track/02NjS2MNrjsdxiQNfrl7zz"
@@ -1679,7 +1694,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 193493,
       "name": "Ladykillers",
       "url": "https://open.spotify.com/track/64RQTM5ih8kx5rl8fxbRVv"
@@ -1701,6 +1716,24 @@
       "duration_ms": 156666,
       "name": "Laid",
       "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
+    },
+    {
+      "album": {
+        "name": "Little Birds",
+        "url": "https://open.spotify.com/album/6W06B6AqeuOXBAIKGqbGHT"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373975,
+      "name": "Little Birds - Live [2014]",
+      "url": "https://open.spotify.com/track/337ozPp0qC9WVOtqeA6vW0"
     },
     {
       "album": {
@@ -1777,6 +1810,24 @@
     {
       "album": {
         "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
+    },
+    {
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
         "url": "https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604"
       },
       "artists": [
@@ -1787,7 +1838,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 134200,
       "name": "Lump",
       "url": "https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX"
@@ -2007,7 +2058,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 188693,
       "name": "Novocaine For The Soul",
       "url": "https://open.spotify.com/track/4uPi47C1WcnhIbvCx4zCu6"
@@ -2155,7 +2206,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 411560,
       "name": "Pictures Of Success",
       "url": "https://open.spotify.com/track/0emIKBmjUMB5AXxbIU2e7P"
@@ -2227,7 +2278,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 258912,
       "name": "Race for the Prize - 2017 Remaster",
       "url": "https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH"
@@ -2443,7 +2494,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 230973,
       "name": "Shady Lane",
       "url": "https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd"
@@ -2537,6 +2588,24 @@
       "duration_ms": 232146,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
+    },
+    {
+      "album": {
+        "name": "Stoned and Dethroned",
+        "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 151960,
+      "name": "Sometimes Always",
+      "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
     },
     {
       "album": {
@@ -2695,7 +2764,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 199466,
       "name": "Strange",
       "url": "https://open.spotify.com/track/2TTAPkrGQQOZkaUTUlt21Q"
@@ -3145,7 +3214,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 240306,
       "name": "What\u2019s The Frequency, Kenneth? - Remastered",
       "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"
@@ -3203,6 +3272,24 @@
       "duration_ms": 192226,
       "name": "Whippin' Piccadilly",
       "url": "https://open.spotify.com/track/6JKK5s5eMws7yoXpPIqKwq"
+    },
+    {
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287506,
+      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
     },
     {
       "album": {

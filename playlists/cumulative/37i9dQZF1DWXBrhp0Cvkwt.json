@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "soundtracking your ex calling/nothing's working/existential crisis",
   "name": "mercury in retrograde",
-  "published_playlist_ids": [
-    "7xn0WLmo8CN5m9X5KXy76q"
-  ],
   "tracks": [
     {
       "album": {
@@ -239,7 +236,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 131824,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV"
@@ -459,7 +456,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-15",
       "duration_ms": 177373,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih"
@@ -639,7 +636,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 215515,
       "name": "chance with you",
       "url": "https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT"
@@ -769,7 +766,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 256107,
       "name": "complex (demo)",
       "url": "https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB"
@@ -985,7 +982,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 213133,
       "name": "drunk text me",
       "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
@@ -1165,7 +1162,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 204314,
       "name": "feel like shit",
       "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
@@ -1219,7 +1216,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 124021,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
@@ -1817,7 +1814,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
@@ -2459,7 +2456,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 112863,
       "name": "Sleep Thru Ur Alarms",
       "url": "https://open.spotify.com/track/3Mmt4wAMtWRmObAxbejpPe"
@@ -2647,6 +2644,24 @@
       "duration_ms": 160659,
       "name": "striptease",
       "url": "https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co"
+    },
+    {
+      "album": {
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
+      },
+      "artists": [
+        {
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "album": {
@@ -2917,7 +2932,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 168182,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"

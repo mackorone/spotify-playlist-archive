@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-22",
   "description": "Canciones que marcaron \u00e9poca en nuestro rock. \u00a1Para cantar a los gritos! Foto: Soda Stereo",
   "name": "50 Himnos del Rock en Espa\u00f1ol",
-  "published_playlist_ids": [
-    "2htb8U6lCVsmqI546CANC4"
-  ],
   "tracks": [
     {
       "album": {
@@ -433,7 +430,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": "2023-01-20",
       "duration_ms": 177786,
       "name": "Florecita Rockera",
       "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
@@ -455,6 +452,24 @@
       "duration_ms": 250293,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm"
+    },
+    {
+      "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
     },
     {
       "album": {

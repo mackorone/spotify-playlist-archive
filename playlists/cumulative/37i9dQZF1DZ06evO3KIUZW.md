@@ -4,7 +4,7 @@
 
 > This is Iron Maiden\. The essential tracks, all in one playlist.
 
-59 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/1r3Tf28CGicSoncEzlcMwJ)
+59 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,14 +46,14 @@
 | [Senjutsu](https://open.spotify.com/track/5aCPxXIBHYa2t6BXhKA6o7) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 8:20 | 2022-08-02 |  |
 | [Seventh Son of a Seventh Son \- 2015 Remaster](https://open.spotify.com/track/4STDzTw4Z13mee7Ig4vi1n) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Seventh Son of a Seventh Son \(2015 Remaster\)](https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz) | 9:54 | 2022-05-30 |  |
 | [Sign of the Cross \- 2015 Remaster](https://open.spotify.com/track/1QwWRwiaCRbWl48nMqJuUG) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The X Factor \(2015 Remaster\)](https://open.spotify.com/album/3irqbaStVsDR9IEdg8Cdwz) | 11:16 | 2022-08-02 | 2022-09-26 |
-| [Speed of Light](https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 5:01 | 2022-05-30 | 2022-10-18 |
+| [Speed of Light](https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 5:01 | 2022-05-30 |  |
 | [Still Life \- 2015 Remaster](https://open.spotify.com/track/48ShNhzz3tueJ5g55usma7) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby) | 4:57 | 2022-06-07 | 2022-10-13 |
 | [Stranger in a Strange Land \- 2015 Remaster](https://open.spotify.com/track/2ItrQShUvHTeaiZiDukjNo) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L) | 5:46 | 2022-05-30 |  |
 | [Stratego](https://open.spotify.com/track/7BOLGsgOMicS0GLmsX940c) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:59 | 2022-09-11 |  |
 | [The Clairvoyant \- 2015 Remaster](https://open.spotify.com/track/1NVvYEAv61lWHmptNEBUHf) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Seventh Son of a Seventh Son \(2015 Remaster\)](https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz) | 4:27 | 2022-05-30 |  |
 | [The Clansman \- 2015 Remaster](https://open.spotify.com/track/4L6lZetSWtn949AGIhd5aR) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Virtual XI \(2015 Remaster\)](https://open.spotify.com/album/4olc018Cln2QaMRFy1sk7v) | 8:59 | 2022-05-30 |  |
 | [The Evil That Men Do \- 2015 Remaster](https://open.spotify.com/track/0S90LE5Z8FOdbui3tLak6t) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Seventh Son of a Seventh Son \(2015 Remaster\)](https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz) | 4:34 | 2022-05-30 |  |
-| [The Loneliness of the Long Distance Runner \- 2015 Remaster](https://open.spotify.com/track/5ttrHRvvbegTmsCevibnFR) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L) | 6:33 | 2022-11-05 |  |
+| [The Loneliness of the Long Distance Runner \- 2015 Remaster](https://open.spotify.com/track/5ttrHRvvbegTmsCevibnFR) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L) | 6:33 | 2022-11-05 | 2022-11-29 |
 | [The Number of the Beast \- 2015 Remaster](https://open.spotify.com/track/3nlGByvetDcS1uomAoiBmy) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO) | 4:50 | 2022-05-30 |  |
 | [The Parchment](https://open.spotify.com/track/55y0pLHkNTaX2MdB4XmHU3) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 12:38 | 2022-06-01 | 2022-07-21 |
 | [The Prisoner \- 2015 Remaster](https://open.spotify.com/track/60JWUDrpUTuu6gxTvknjg5) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO) | 6:02 | 2022-05-30 |  |
@@ -61,7 +61,7 @@
 | [The Time Machine](https://open.spotify.com/track/2orfmTbBQtEI1wpukVt40z) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 7:09 | 2022-05-30 |  |
 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby) | 4:12 | 2022-05-30 |  |
 | [The Wicker Man \- 2015 Remaster](https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Brave New World \(2015 Remaster\)](https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB) | 4:35 | 2022-05-30 |  |
-| [The Writing On The Wall](https://open.spotify.com/track/20sXcaJkWP0DdzA58Colw3) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 6:13 | 2022-05-30 |  |
+| [The Writing on the Wall](https://open.spotify.com/track/20sXcaJkWP0DdzA58Colw3) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 6:13 | 2022-05-30 |  |
 | [Transylvania \- 2015 Remaster](https://open.spotify.com/track/43QZUbTYnsU7ypUKxOyTRz) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 4:04 | 2022-05-30 |  |
 | [Wasted Years \- 2015 Remaster](https://open.spotify.com/track/1HM7Vp84E4SMzdrZONg6bH) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L) | 5:09 | 2022-05-30 |  |
 | [Wasting Love \- 2015 Remaster](https://open.spotify.com/track/2KKLuHN6zDxVnWtFKO8vo4) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO) | 5:51 | 2022-05-30 |  |

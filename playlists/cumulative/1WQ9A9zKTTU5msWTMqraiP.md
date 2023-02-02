@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-225 songs - 15 hr 41 min - not published yet
+225 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

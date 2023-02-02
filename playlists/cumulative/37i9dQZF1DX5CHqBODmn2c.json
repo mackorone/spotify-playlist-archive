@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Top of the top hits from Korean Pop Artists! Cover: <a href=\"spotify:artist:41MozSoPIsD1dJM0CLPjZF\">BLACKPINK</a>",
   "name": "Best of 2018: K-Pop",
-  "published_playlist_ids": [
-    "7vrBYk8g13xhxuK6Oiw2h4"
-  ],
   "tracks": [
     {
       "album": {
@@ -621,7 +618,7 @@
       },
       "artists": [
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
@@ -1903,7 +1900,7 @@
       },
       "artists": [
         {
-          "name": "Hyolyn",
+          "name": "HYOLYN",
           "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         }
       ],
@@ -1953,7 +1950,7 @@
     {
       "album": {
         "name": "mono.",
-        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
       },
       "artists": [
         {
@@ -1964,6 +1961,24 @@
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275954,
+      "name": "seoul (prod. HONNE)",
+      "url": "https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5"
+    },
+    {
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
       "duration_ms": 275954,
       "name": "seoul (prod. HONNE)",
       "url": "https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ"
@@ -2017,10 +2032,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 237576,
       "name": "She's In The Rain",
       "url": "https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE"
+    },
+    {
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
       "album": {

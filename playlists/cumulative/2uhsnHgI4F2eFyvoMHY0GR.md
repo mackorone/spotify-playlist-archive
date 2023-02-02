@@ -4,7 +4,7 @@
 
 > Rock your workday lyric free with classic rock favorites, meditative heavy metal, and art rock wonders.
 
-42 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/7qdy6T0g0iRjw7Knk5q5Ba)
+42 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

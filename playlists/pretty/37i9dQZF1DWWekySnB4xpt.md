@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: LAGOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,095 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,975 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 20 | [Mentiras](https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Commercial](https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb) | 3:21 |
 | 21 | [Amén](https://open.spotify.com/track/7AjcJrynzHWlawo87kafY2) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Amén](https://open.spotify.com/album/78lYOKWnja1dwjaX8kHeP5) | 4:13 |
 | 22 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 |
-| 23 | [A Veces](https://open.spotify.com/track/3aZx00h5NlPzmfTPuVplJ5) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [A Veces](https://open.spotify.com/album/6Sj3PLu88SCbUgkm8KlXDu) | 3:46 |
+| 23 | [A Veces](https://open.spotify.com/track/3aZx00h5NlPzmfTPuVplJ5) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [A Veces](https://open.spotify.com/album/6Sj3PLu88SCbUgkm8KlXDu) | 3:46 |
 | 24 | [Ando buscando \(feat\. Piso 21\)](https://open.spotify.com/track/4bd65mDKdhgKngKlF4Q1pZ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [De amor y dolor](https://open.spotify.com/album/4rqQSxG9XsmXmglu0hOjJw) | 3:19 |
 | 25 | [Ojitos \(Remix\) \[feat\. El Potro Álvarez & Farruko\]](https://open.spotify.com/track/5EjfGgOtvmbmsgXoONmsY5) | [Sixto Rein](https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7), [El Potro Alvarez](https://open.spotify.com/artist/6P4uOSrdyHqsyLDVcBYUry), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Ojitos \(Remix\) \[feat\. El Potro Álvarez & Farruko\]](https://open.spotify.com/album/4dQ6HJnfubQmA1UgOWWgE0) | 3:56 |
 | 26 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 30 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 |
 | 31 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 |
 | 32 | [Yo Sin Ti No Valgo Nada](https://open.spotify.com/track/3X0UWJ0rvEMmqzAeQ9KzXG) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [De Repente](https://open.spotify.com/album/1aaWmBWgbSWGWm4B6b9Lu0) | 3:44 |
-| 33 | [El Farolito](https://open.spotify.com/track/67vl3Vho4atdzslUGgB67i) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/0BX2GBWYpsDFd95iHObVvB) | 3:21 |
+| 33 | [El Farolito \- Live](https://open.spotify.com/track/7mSjzMyIzwP1EowBGHFDcf) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/6QgBIdJpw0eP7xwN6D3TKx) | 3:19 |
 | 34 | [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 |
 | 35 | [Se Acabó \(feat\. Chino & Nacho\)](https://open.spotify.com/track/0Utzzt4g5obYXkREtLiRR1) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [El Plan](https://open.spotify.com/album/2DVYLr5bpUMkzql2NQlMSW) | 3:27 |
 | 36 | [Tus Ojos](https://open.spotify.com/track/0s4Ii0CKY34yDgppbLxCc2) | [Diveana](https://open.spotify.com/artist/41fGnoX6m27IaN3vAW2knx) | [Diveana Exitos \(Tecno Caribe\)](https://open.spotify.com/album/533Fkva8B2RywHUEW9b8Zg) | 4:30 |
-| 37 | [Una Fan Enamorada](https://open.spotify.com/track/07EGbR4e9MznCDPuWGcD93) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [La Historia](https://open.spotify.com/album/4VOSk2bhh4ubQcbCbL1uqZ) | 4:51 |
+| 37 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0ZrR1RTJj1glZWtYvBfU7M) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/6WazOboL5RdFSLktiSsZO5) | 4:51 |
 | 38 | [Te Doy Mi Amor](https://open.spotify.com/track/5cgwBlY1oNdnuNsy4PaXAz) | [Bacanos](https://open.spotify.com/artist/3z3dviTNMzuW5GNEfcZQdP) | [Baila Pa Mi](https://open.spotify.com/album/3V12VqHb3oVpbwFGd3tKGn) | 3:48 |
 | 39 | [Te Veo](https://open.spotify.com/track/7iG17BHNVVEUr5gIiJX2xX) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Sin Otro Sentido](https://open.spotify.com/album/5TcY3XLRQoEfKOJGeTPbRS) | 3:25 |
 | 40 | [Ya Compré el Anillo](https://open.spotify.com/track/2iZwmHdh0xGzFpdm48uFbL) | [Jorge Luis Chacin](https://open.spotify.com/artist/6ik9bjjFeSdO1cue8p2V7G), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Ya Compré el Anillo](https://open.spotify.com/album/2D6EeHlZ2iknrGxBS7uD2Y) | 3:35 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 84 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 |
 | 85 | [Manantial de Corazón](https://open.spotify.com/track/24ri1EFlBW3eYOuidgmBxu) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Tren de los Regresos \(Parada Especial\)](https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3) | 4:12 |
 
-Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDg5OGY1NDExNzFkM2ZhNWEwYzMyMjIyZTU1YTc5OWU1`
+Snapshot ID: `MTY2NDUxNDAwMCwwMDAwMDAwMDM0MjE1MDU0MDlkMjdhOThmZmFmMzJiZTQwMThlOGIz`

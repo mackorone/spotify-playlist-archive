@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-03-28",
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
   "name": "Indie AlterLatino",
-  "published_playlist_ids": [
-    "14AX2AOMCBOX7NLvLNkMVH"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "12:21",
+        "url": "https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs"
+      },
+      "artists": [
+        {
+          "name": "Cruz Del Monte",
+          "url": "https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213344,
+      "name": "12:21",
+      "url": "https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr"
+    },
     {
       "album": {
         "name": "Los Tiempos Inciertos (feat. Raag)",
@@ -295,7 +310,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 208097,
       "name": "Aura - Spanish Version",
       "url": "https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN"
@@ -749,6 +764,28 @@
       "duration_ms": 214867,
       "name": "Couldn't Seal The Deal",
       "url": "https://open.spotify.com/track/4GZ61USOfH8M2EsWBdKzg1"
+    },
+    {
+      "album": {
+        "name": "Cucu",
+        "url": "https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc"
+      },
+      "artists": [
+        {
+          "name": "Gotopo",
+          "url": "https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF"
+        },
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112602,
+      "name": "Cucu",
+      "url": "https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ"
     },
     {
       "album": {
@@ -1279,7 +1316,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 165000,
       "name": "Fr\u00edo Blues",
       "url": "https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX"
@@ -1635,7 +1672,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 434406,
-      "name": "Kiss the frog",
+      "name": "Kiss the Frog",
       "url": "https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0"
     },
     {
@@ -3763,6 +3800,24 @@
       "duration_ms": 164651,
       "name": "wepa (Eggglub Remix)",
       "url": "https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl"
+    },
+    {
+      "album": {
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
+      },
+      "artists": [
+        {
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
     },
     {
       "album": {

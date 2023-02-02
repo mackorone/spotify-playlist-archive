@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Joie Chavis.
 
-42 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/6q3g2oihE3PU4hlnP5GhhO)
+42 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

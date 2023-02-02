@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
   "name": "Relaxing Vocal Jazz",
-  "published_playlist_ids": [
-    "1xksct4B5bg9jYP5TYccYG"
-  ],
   "tracks": [
     {
       "album": {
@@ -177,7 +174,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 166506,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0AxWzSG8MUj5CMH8XGnwHz"
@@ -231,7 +228,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 295951,
       "name": "As Long as He Needs Me",
       "url": "https://open.spotify.com/track/7Exg33sywNNAv8XgFt6oUj"
@@ -267,7 +264,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 233384,
       "name": "Be That Someone",
       "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
@@ -307,7 +304,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 380380,
       "name": "Behind Me",
       "url": "https://open.spotify.com/track/1iEYkH6B6KKkeElA98faHh"
@@ -368,6 +365,28 @@
     },
     {
       "album": {
+        "name": "Songs from Other Places (Special Edition)",
+        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Art Hirahara",
+          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252213,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2jSNZUNgyRArdjjSoqlCPH"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/2SlyYuhpJZ6iQiiR08NG00"
       },
@@ -405,7 +424,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 252213,
       "name": "Bonita - Special Edition",
       "url": "https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H"
@@ -448,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
+      },
+      "artists": [
+        {
+          "name": "Deelee Dube",
+          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338822,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
+    },
+    {
+      "album": {
         "name": "City Garden",
         "url": "https://open.spotify.com/album/6ziyb5Tcw8wGU9hISjQZEr"
       },
@@ -467,7 +504,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 394453,
       "name": "City Garden",
       "url": "https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91"
@@ -539,7 +576,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 186280,
       "name": "Dream a Little Dream of Me",
       "url": "https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF"
@@ -847,7 +884,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 249815,
       "name": "Guess Who I Saw Today",
       "url": "https://open.spotify.com/track/0HW2RKF80cPR9mnN5T5Rum"
@@ -1305,10 +1342,36 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 410773,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N"
+    },
+    {
+      "album": {
+        "name": "In the Wee Small Hours",
+        "url": "https://open.spotify.com/album/4im28jrt1yqHnzUlFFaKwn"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249362,
+      "name": "In the Wee Small Hours",
+      "url": "https://open.spotify.com/track/4MxZoNyKehFAWt5Kwe2ZXm"
     },
     {
       "album": {
@@ -1749,7 +1812,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 234493,
       "name": "Marie",
       "url": "https://open.spotify.com/track/4qDlFHTl5YlyowI3LazpgU"
@@ -1825,7 +1888,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 260746,
       "name": "Memories Of You - Special Edition",
       "url": "https://open.spotify.com/track/5T4yRU7ihxsaSQzpvCW6dU"
@@ -1984,6 +2047,28 @@
     },
     {
       "album": {
+        "name": "Songs from Other Places (Special Edition)",
+        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Art Hirahara",
+          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249453,
+      "name": "My Ship",
+      "url": "https://open.spotify.com/track/2CW9ojLmE3GM7h7xdfCXXb"
+    },
+    {
+      "album": {
         "name": "Songs From Other Places (Special Edition)",
         "url": "https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1"
       },
@@ -1999,7 +2084,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 249453,
       "name": "My Ship - Special Edition",
       "url": "https://open.spotify.com/track/4CAfKmZlIn6TPczUUhv2CM"
@@ -2181,6 +2266,24 @@
       "duration_ms": 279746,
       "name": "Once Upon a Summertime",
       "url": "https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6"
+    },
+    {
+      "album": {
+        "name": "Only the Lonely",
+        "url": "https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192171,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc"
     },
     {
       "album": {
@@ -2703,8 +2806,8 @@
       },
       "artists": [
         {
-          "name": "Naama Gheber",
-          "url": "https://open.spotify.com/artist/1KObvUW72IGgUzVi9oe60n"
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
         }
       ],
       "date_added": "2022-09-28",
@@ -2877,6 +2980,24 @@
       "duration_ms": 371170,
       "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
       "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
+    },
+    {
+      "album": {
+        "name": "Violets for Your Furs",
+        "url": "https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt"
+      },
+      "artists": [
+        {
+          "name": "Jason Fabus",
+          "url": "https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216654,
+      "name": "Violets for Your Furs",
+      "url": "https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d"
     },
     {
       "album": {

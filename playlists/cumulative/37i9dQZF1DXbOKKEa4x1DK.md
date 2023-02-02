@@ -4,7 +4,7 @@
 
 > Para los enamorados y despechados.
 
-89 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/38Ai5WsfkNpO3c1KY0X1gl)
+92 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [La Fotografia](https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:06 | 2021-10-19 |  |
 | [La Quiero a Morir / Si Algún Día la Vez](https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ) | 6:33 | 2021-10-19 |  |
 | [Llego Tu Marido](https://open.spotify.com/track/7agCLiP3Q8MqFvxQu7WA9B) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Caliente](https://open.spotify.com/album/0gEYiU9xYpARpvTMRitIw1) | 5:06 | 2021-10-19 |  |
-| [Maldita Sea](https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK) | 4:14 | 2021-10-19 |  |
+| [Maldita Sea](https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK) | 4:14 | 2021-10-19 | 2022-12-01 |
+| [Maldita Sea](https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [La Negra Mia](https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC) | 4:15 | 2021-10-19 |  |
 | [Me Arrepiento](https://open.spotify.com/track/2mImo5tRWlJrd7a1kl176n) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:46 | 2021-10-19 |  |
 | [Me vas a Extrañar](https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me vas a Extrañar](https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt) | 5:02 | 2021-10-19 |  |
 | [Mi Forma de Ser](https://open.spotify.com/track/4v5L6UOxIaj6f5fwgP3MNc) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [On Fire](https://open.spotify.com/album/6YNKw4ToWPZYy1AFzaCIBP) | 3:09 | 2021-10-19 |  |
@@ -69,7 +70,8 @@
 | [Que Levante la Mano](https://open.spotify.com/track/0zg7eikeFzJg2GZcNZi24l) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Escúchame](https://open.spotify.com/album/1O4E5VYQQeZX7GMkRjZn6r) | 3:57 | 2021-10-19 |  |
 | [Que Levante la Mano](https://open.spotify.com/track/4mPgxlYJlHWiy5BrzKxBe1) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Escúchame](https://open.spotify.com/album/09bJwJxoqry4AZzHQLlGiH) | 3:57 | 2021-10-19 | 2022-10-15 |
 | [Que Levante La Mano](https://open.spotify.com/track/0zWq2k5vGMrs6Ahpq7wFiD) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [2004 Año De Exitos Bachatas Y Merengues](https://open.spotify.com/album/1mr9Z7h14YAxKLRa7WgurF) | 3:59 | 2021-10-19 | 2022-11-13 |
-| [Que Pasara](https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN) | 3:41 | 2021-10-19 |  |
+| [Que Pasara](https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3) | 3:38 | 2021-10-19 |  |
+| [Que Pasara](https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN) | 3:41 | 2021-10-19 | 2022-12-02 |
 | [Quiero Saber de Tí](https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw) | [Raffy Matias](https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l) | [Acusame](https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI) | 4:41 | 2021-10-19 |  |
 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 | 2021-10-19 |  |
 | [Si Algún Día la Ves](https://open.spotify.com/track/1mrP3kSnqLuHVirEGRFtdQ) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Merengue Clásico ¡Éxitos Latino!](https://open.spotify.com/album/42WNLGoCL3r41cHAlqDezg) | 4:44 | 2021-10-19 | 2022-11-13 |
@@ -84,7 +86,8 @@
 | [Te Compro Tu Novia](https://open.spotify.com/track/5DrdMZSiRKOVQszXln9VMO) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [América Sin Queja](https://open.spotify.com/album/5iHMlPownkV9K9VBR2GCoo) | 4:27 | 2021-10-19 |  |
 | [Te Compro Tu Novia](https://open.spotify.com/track/7cMljBL3dSigvVGa2JmIId) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Merengue Clásico ¡Éxitos Latino!](https://open.spotify.com/album/42WNLGoCL3r41cHAlqDezg) | 4:27 | 2021-10-19 | 2022-11-13 |
 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 | 2021-10-19 |  |
-| [Tu Me Vas a Dejar](https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV) | 4:24 | 2021-10-19 |  |
+| [Tu Me Vas a Dejar](https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV) | 4:24 | 2021-10-19 | 2022-12-01 |
+| [Tu Me Vas a Dejar](https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi) | 4:25 | 2021-10-19 |  |
 | [Tu No Sabes Del Amor](https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF) | [El Sujeto](https://open.spotify.com/artist/1agXndRcnMoHrs8BqFDi0R) | [I Love Urbano 2011 \(Dembow \- Mambo \- Reggaeton \- Merengue Urbano\)](https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj) | 3:42 | 2021-10-19 |  |
 | [Tu Vas a Volar](https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vuelve el Merengue](https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj) | 4:56 | 2021-10-19 |  |
 | [Un Beso y una Flor](https://open.spotify.com/track/3SnAxVKTCE6oLiXIDqEpUd) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/5pybY0Fv6TnJCi7Ds6roxv) | 4:34 | 2021-10-19 | 2022-10-14 |

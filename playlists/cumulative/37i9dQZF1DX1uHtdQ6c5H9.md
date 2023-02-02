@@ -4,7 +4,7 @@
 
 > Banjo and guitar lessons care of folk hero Pete Seeger.
 
-65 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/2a3rbCZJUyoTl9wzx5o9jL)
+65 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

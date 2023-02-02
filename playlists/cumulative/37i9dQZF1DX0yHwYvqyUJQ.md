@@ -4,7 +4,7 @@
 
 > Learn Italian with a collection of audio courses that will take you from beginner lessons and travel necessities to advanced conversations.
 
-608 songs - 2 day 5 hr 36 min - [published](https://open.spotify.com/playlist/0YZAqN8U28zThYs64zTfVp)
+608 songs - 2 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

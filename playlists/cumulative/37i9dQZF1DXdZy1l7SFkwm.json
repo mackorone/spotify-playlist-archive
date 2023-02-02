@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "El aderezo que te falta.",
   "name": "Cocina con sabor",
-  "published_playlist_ids": [
-    "3uTOUzf7YyzIgGkcaTGudH"
-  ],
   "tracks": [
     {
       "album": {
@@ -823,7 +820,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": "2023-01-15",
       "duration_ms": 218373,
       "name": "Com qualquer dois mil r\u00e9is",
       "url": "https://open.spotify.com/track/7x4RlD4cgBUUnxh6k35kaE"
@@ -1097,7 +1094,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 220101,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT"
@@ -1119,7 +1116,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 220080,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7"
@@ -2415,7 +2412,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 115266,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
@@ -3122,7 +3119,7 @@
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 188253,
+      "duration_ms": 188466,
       "name": "Sweet and Dandy",
       "url": "https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD"
     },
@@ -3157,7 +3154,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 113466,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/6jJrEyRWPaURJbPh4P4ybz"
@@ -3618,24 +3615,6 @@
     },
     {
       "album": {
-        "name": "Compact Jazz: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "date_added": "2021-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212493,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
-    },
-    {
-      "album": {
         "name": "Tom Jobim E Amigos",
         "url": "https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M"
       },
@@ -3655,6 +3634,50 @@
       "duration_ms": 212400,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ"
+    },
+    {
+      "album": {
+        "name": "Compact Jazz: Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 212493,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
+    },
+    {
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     },
     {
       "album": {

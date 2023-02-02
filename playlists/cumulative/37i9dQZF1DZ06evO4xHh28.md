@@ -4,7 +4,7 @@
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 37 min - not published yet
+43 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,10 @@
 | [Bury Me in Black \- Demo](https://open.spotify.com/track/0uwM67BScty5fvQLUZneX5) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Life on the Murder Scene](https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO) | 2:36 | 2022-10-25 |  |
 | [Cancer](https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:22 | 2022-10-25 |  |
 | [Cemetery Drive](https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:08 | 2022-10-25 |  |
-| [Dead!](https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:15 | 2022-10-25 |  |
+| [Dead!](https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:15 | 2022-10-25 | 2023-01-16 |
 | [Demolition Lovers](https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 6:06 | 2022-10-25 |  |
 | [Desert Song](https://open.spotify.com/track/1rDJIKiabJGtDtT8y72aTr) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Life on the Murder Scene](https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO) | 3:50 | 2022-10-25 |  |
+| [Disenchanted](https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:55 | 2023-01-15 |  |
 | [Drowning Lessons](https://open.spotify.com/track/08VsSDNBuAOwGu8tkpJlSU) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 4:23 | 2022-10-25 |  |
 | [F.T.W.W.W.](https://open.spotify.com/track/1Fmz64vSu0CgsYMm7iqlSH) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Mad Gear and Missile Kid EP](https://open.spotify.com/album/5opukBgphgATwbRHHMXgCM) | 2:27 | 2022-10-30 |  |
 | [Fake Your Death](https://open.spotify.com/track/2M8g01v2vUMn39YQ10l7ef) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [May Death Never Stop You](https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw) | 3:20 | 2022-10-25 |  |

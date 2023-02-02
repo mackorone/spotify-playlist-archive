@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-24",
   "description": "\u00a1A calentar garganta!",
   "name": "La Cantina",
-  "published_playlist_ids": [
-    "16C4gyv5rwRyQDMCpAHjTu"
-  ],
   "tracks": [
     {
       "album": {
@@ -363,6 +360,24 @@
       "duration_ms": 144360,
       "name": "Aqu\u00ed Abajo",
       "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
+    },
+    {
+      "album": {
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165933,
+      "name": "Aqu\u00ed Algo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG"
     },
     {
       "album": {
@@ -765,7 +780,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 169750,
       "name": "Decide Qu\u00e9 Somos",
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
@@ -791,6 +806,24 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+    },
+    {
+      "album": {
+        "name": "XVII ANIVERSARIO",
+        "url": "https://open.spotify.com/album/4cnDNI7pytSivupozFsMi7"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225217,
+      "name": "Dijimos",
+      "url": "https://open.spotify.com/track/4IHUyrYKSdwR6qmlhrSKDv"
     },
     {
       "album": {
@@ -1095,7 +1128,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 147514,
       "name": "El Rey De Mil Coronas - Live",
       "url": "https://open.spotify.com/track/1c0i26VMuRPQotPKBDfnzd"
@@ -1117,6 +1150,28 @@
       "duration_ms": 200840,
       "name": "Entonces Que Somos",
       "url": "https://open.spotify.com/track/4xgBQfC09yhhY44xgcN6vx"
+    },
+    {
+      "album": {
+        "name": "Entre El Amar Y El Querer",
+        "url": "https://open.spotify.com/album/2k9WSDU5yDudkeNsmxqnz5"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Entre El Amar Y El Querer",
+      "url": "https://open.spotify.com/track/5SvFpAJFgnuVzGX7TeK5CS"
     },
     {
       "album": {
@@ -1355,7 +1410,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 228635,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
@@ -1467,10 +1522,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 204533,
       "name": "Llamarada",
       "url": "https://open.spotify.com/track/3gy3pz80G5bBYUHyucUOx3"
+    },
+    {
+      "album": {
+        "name": "Una Copa Por Cada Reina",
+        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Lo Siento Mi Amor",
+      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
     },
     {
       "album": {
@@ -1926,6 +1999,28 @@
     },
     {
       "album": {
+        "name": "No Me Deja De Doler",
+        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157946,
+      "name": "No Me Deja De Doler",
+      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
+    },
+    {
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -2118,6 +2213,28 @@
     },
     {
       "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
       },
@@ -2173,7 +2290,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 175506,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/00zD9aiaLdQcIwSNoWD0pW"
@@ -2432,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
+    },
+    {
+      "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
         "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
@@ -2451,6 +2586,24 @@
       "duration_ms": 209673,
       "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
       "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Mi Vida",
+        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149986,
+      "name": "Te Ofrezco Un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0Y7t0yxq86MFEWQ1rTTN89"
     },
     {
       "album": {
@@ -2523,7 +2676,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 231839,
       "name": "Te Vas a Arrepentir",
       "url": "https://open.spotify.com/track/2uAqlWmMNq1CJSezD2b2Fj"
@@ -2577,7 +2730,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 210280,
       "name": "Vas A Llorar Por M\u00ed",
       "url": "https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg"
@@ -2685,7 +2838,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 212547,
       "name": "Ya No Quiero Andar Contigo",
       "url": "https://open.spotify.com/track/00XB6UnshchPDNdCvXzokD"

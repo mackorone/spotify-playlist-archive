@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Israel & Rodolffo, Ana Castela",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Ana Castela",
   "name": "Esquenta Sertanejo",
-  "published_playlist_ids": [
-    "1QClRCShAKNcti565v7TOp"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,6 +42,24 @@
       "duration_ms": 176549,
       "name": "50 por Cento",
       "url": "https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6"
+    },
+    {
+      "album": {
+        "name": "Identidade, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "A Culpa \u00c9 Nossa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn"
     },
     {
       "album": {
@@ -175,7 +190,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 153409,
       "name": "Arranh\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
@@ -430,6 +445,46 @@
     },
     {
       "album": {
+        "name": "Buteco Goi\u00e2nia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161685,
+      "name": "Cara da Derrota - Ao Vivo",
+      "url": "https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ"
+    },
+    {
+      "album": {
+        "name": "Cavalo de Pau",
+        "url": "https://open.spotify.com/album/2BDEQmIWBMZQg8BuGClF5y"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Denner",
+          "url": "https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164029,
+      "name": "Cavalo de Pau",
+      "url": "https://open.spotify.com/track/74Le949TrZk4zwDjtWzH23"
+    },
+    {
+      "album": {
         "name": "Pr\u00f3ximo Passo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2aeDFXeS2WvKqIfXQyKRGa"
       },
@@ -543,7 +598,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 213006,
       "name": "C\u00ea T\u00e1 Preparada - Ao Vivo",
       "url": "https://open.spotify.com/track/1tYJnXtKLoWVIL4lZOouQG"
@@ -583,6 +638,24 @@
       "duration_ms": 188671,
       "name": "Desbloqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/66HWIQEq6xO0IZ47AHrybG"
+    },
+    {
+      "album": {
+        "name": "DONA DE MIM",
+        "url": "https://open.spotify.com/album/6gUUHKk5qcIHyffnbfApNO"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145091,
+      "name": "DONA DE MIM",
+      "url": "https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT"
     },
     {
       "album": {
@@ -823,10 +896,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 135200,
       "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
       "url": "https://open.spotify.com/track/5lCAtKxkZL6tFDyGX9t87j"
+    },
+    {
+      "album": {
+        "name": "WS On Board (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135325,
+      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
     },
     {
       "album": {
@@ -877,7 +968,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 182805,
       "name": "Ex dos Meus Sonhos - Ao Vivo",
       "url": "https://open.spotify.com/track/7LUZT12r4xmwR1Kh8TJgjv"
@@ -971,7 +1062,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 165558,
       "name": "Felicidade Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/6BIvQ6KIdwhUB29lCVy0cd"
@@ -1087,6 +1178,24 @@
       "duration_ms": 172639,
       "name": "Imagina A Sentada - Ao Vivo",
       "url": "https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM"
+    },
+    {
+      "album": {
+        "name": "Decretos Reais, Vol. 2",
+        "url": "https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166774,
+      "name": "Le\u00e3o",
+      "url": "https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO"
     },
     {
       "album": {
@@ -1377,14 +1486,14 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 174081,
       "name": "Namorando Com Saudade",
       "url": "https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6"
     },
     {
       "album": {
-        "name": "Ao Vivo Em Bras\u00edlia (Deluxe)",
+        "name": "Israel & Rodolffo: Ao Vivo Em Bras\u00edlia (Deluxe)",
         "url": "https://open.spotify.com/album/4WiThiD9AkxCSYf291UDwc"
       },
       "artists": [
@@ -1562,6 +1671,50 @@
     },
     {
       "album": {
+        "name": "Palha\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170191,
+      "name": "Palha\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh"
+    },
+    {
+      "album": {
+        "name": "Perdoou Nada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "Perdoou Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"
+    },
+    {
+      "album": {
         "name": "Perfeito Pra Ficar Sozinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/0hSTkDethURIn0Bqp009ja"
       },
@@ -1664,6 +1817,28 @@
     },
     {
       "album": {
+        "name": "Quando Apaga A Luz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/14GC6d6HNAE3AZEItOG0kc"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144298,
+      "name": "Quando Apaga A Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd"
+    },
+    {
+      "album": {
         "name": "Buteco in Boston (Ao Vivo)",
         "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
       },
@@ -1697,10 +1872,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 189007,
       "name": "Rasteira - Ao Vivo",
       "url": "https://open.spotify.com/track/685gjMmRjwLFrtCWtF2sXo"
+    },
+    {
+      "album": {
+        "name": "LUAN CITY DELUXE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148548,
+      "name": "SOLTEIROU - Ao Vivo",
+      "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
     },
     {
       "album": {
@@ -1773,7 +1966,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 187381,
       "name": "Termina Comigo Antes",
       "url": "https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP"
@@ -1795,7 +1988,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 173375,
       "name": "Tes\u00e3o Da Madrugada - Ao Vivo",
       "url": "https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU"
@@ -2075,7 +2268,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 188951,
       "name": "\u00c1gua Nos Z\u00f3i - Ao Vivo",
       "url": "https://open.spotify.com/track/77rIMl1WIrLf4ZDKFYZ4ji"

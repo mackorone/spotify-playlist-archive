@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
   "name": "This Is Nana Mizuki",
-  "published_playlist_ids": [
-    "5e1wTIx40yM15wWg2ayaVN"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 324586,
       "name": "BRAVE PHOENIX",
       "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 242400,
       "name": "Exterminate",
       "url": "https://open.spotify.com/track/335ebz0kyT8Y8uVQxFsKGM"
@@ -199,7 +196,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 245093,
       "name": "Exterminate",
       "url": "https://open.spotify.com/track/22b3p38QWCoHEZI3PQ5RnK"
@@ -217,7 +214,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 254253,
       "name": "FEARLESS HERO",
       "url": "https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50"
@@ -415,7 +412,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 230269,
       "name": "Go Live!",
       "url": "https://open.spotify.com/track/6fPmnIyjD5Gq9G4IVJ8ThE"
@@ -469,10 +466,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 280640,
       "name": "innocent starter",
       "url": "https://open.spotify.com/track/1HQC4xCEMH0VZUnj4xkVFu"
+    },
+    {
+      "album": {
+        "name": "innocent starter",
+        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281133,
+      "name": "innocent starter",
+      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
     },
     {
       "album": {
@@ -505,7 +520,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 302239,
       "name": "Justice to Believe",
       "url": "https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj"
@@ -703,7 +718,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 222640,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/7scWTACvzsB1Q92nERgey4"
@@ -768,6 +783,24 @@
     },
     {
       "album": {
+        "name": "\u6df1\u611b",
+        "url": "https://open.spotify.com/album/2vsgFj7x7y6VRxVq3W7TlU"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278040,
+      "name": "PRIDE OF GLORY",
+      "url": "https://open.spotify.com/track/3y7PqC0sjFJSJQbqGD9Vd2"
+    },
+    {
+      "album": {
         "name": "DELIGHTED REVIVER",
         "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
       },
@@ -797,7 +830,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 271679,
       "name": "Red Breeze",
       "url": "https://open.spotify.com/track/45x5FCsI4VvKoGyQXDnhPk"
@@ -905,7 +938,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 208520,
       "name": "STARTING NOW!",
       "url": "https://open.spotify.com/track/3hAyDY3024JUVmiIaBpcz0"
@@ -1121,7 +1154,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 239189,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30b9\u30d5\u30a3\u30a2",
       "url": "https://open.spotify.com/track/5Xb7Xp3EyRr0RuRau3fFO3"
@@ -1395,7 +1428,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 278640,
       "name": "\u7d76\u5bfe\u7684\u5e78\u798f\u8ad6",
       "url": "https://open.spotify.com/track/7xUn19Rgau7DnWwi1fSrie"
@@ -1459,7 +1492,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 91266,
-      "name": "\u9769\u547d\u30c7\u30e5\u30a2\u30ea\u30ba\u30e0 - \u30a2\u30cb\u30e1\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "name": "\u9769\u547d\u30c7\u30e5\u30a2\u30ea\u30ba\u30e0 -\u30a2\u30cb\u30e1\u30d0\u30fc\u30b8\u30e7\u30f3-",
       "url": "https://open.spotify.com/track/2ViUOdaqvpNEKFiXiYj6Qg"
     }
   ],

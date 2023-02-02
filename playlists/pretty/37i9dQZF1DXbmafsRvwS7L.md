@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmafsRvwS7L.md) - [plain]
 
 > Curated by the biggest stars of the 2021 NFL Draft celebrating their journey to Draft Night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,438 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,429 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The softer side of dance.
 
-148 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/5mexHLItAZBx7Z6vC6fNK2)
+148 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

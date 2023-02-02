@@ -4,7 +4,7 @@
 
 > We married women only seem to have about four taste buds left: one for vodka, one for wine, one for cheese, and one for chocolate\. This list is for us\. Add friends, uncork, and enjoy.
 
-53 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/7KLZwMt9r8UIRajQ7UtCri)
+53 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

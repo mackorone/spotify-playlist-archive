@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1Picositos y con mucho sabor para apoyar a la Selecci\u00f3n! \ud83c\uddf2\ud83c\uddfd \ud83e\udd73",
-  "name": "Chilaquiles Pamboleros",
-  "published_playlist_ids": [
-    "4Q1G17YGjayP3gLunVYAPv"
-  ],
+  "description": "\u00a1Picositos y con mucho sabor! ",
+  "name": "Los Chilaquiles",
   "tracks": [
     {
       "album": {
@@ -17,7 +14,7 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194560,
@@ -93,7 +90,7 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210040,
@@ -111,7 +108,7 @@
           "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213026,
@@ -179,6 +176,24 @@
     {
       "album": {
         "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269466,
+      "name": "Babalu",
+      "url": "https://open.spotify.com/track/2q6Ctk1nBJU59XtYhiN47b"
+    },
+    {
+      "album": {
+        "name": "Ska Cubano",
         "url": "https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA"
       },
       "artists": [
@@ -189,7 +204,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 271466,
       "name": "Babalu",
       "url": "https://open.spotify.com/track/1B6eTnzTdnL1FH94eRT5pQ"
@@ -247,7 +262,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2022-12-25",
       "duration_ms": 281100,
       "name": "Bleu de lune (El Buho Remix)",
       "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
@@ -273,7 +288,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-19",
       "duration_ms": 257853,
       "name": "Bocanegra",
       "url": "https://open.spotify.com/track/57e8weoxM68ESpTZrv1KPX"
@@ -325,7 +340,7 @@
           "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201084,
@@ -361,7 +376,7 @@
           "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195946,
@@ -411,6 +426,24 @@
     {
       "album": {
         "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218640,
+      "name": "Chango",
+      "url": "https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa"
+    },
+    {
+      "album": {
+        "name": "Ska Cubano",
         "url": "https://open.spotify.com/album/2eWZWaeg03fmtSWUoWYQHn"
       },
       "artists": [
@@ -439,7 +472,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 218640,
       "name": "Chango",
       "url": "https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C"
@@ -461,7 +494,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 263933,
       "name": "Chucusteady",
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
@@ -531,7 +564,7 @@
           "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230133,
@@ -549,7 +582,7 @@
           "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244413,
@@ -571,7 +604,7 @@
           "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180012,
@@ -589,7 +622,7 @@
           "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213791,
@@ -607,7 +640,7 @@
           "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215066,
@@ -625,7 +658,7 @@
           "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202200,
@@ -661,7 +694,7 @@
           "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252679,
@@ -723,7 +756,7 @@
           "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 324280,
@@ -795,7 +828,7 @@
           "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220533,
@@ -857,7 +890,7 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 271560,
@@ -875,7 +908,7 @@
           "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223503,
@@ -893,7 +926,7 @@
           "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 290089,
@@ -911,7 +944,7 @@
           "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202440,
@@ -931,7 +964,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 313133,
       "name": "D\u00f3nde Va Chichi?",
       "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
@@ -947,7 +980,7 @@
           "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168045,
@@ -983,7 +1016,7 @@
           "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254375,
@@ -1001,7 +1034,7 @@
           "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150360,
@@ -1025,7 +1058,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 202368,
       "name": "El Traketeo",
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
@@ -1041,7 +1074,7 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174160,
@@ -1077,7 +1110,7 @@
           "url": "https://open.spotify.com/artist/0AxfwcgIunBWHErW7HtZmK"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 269279,
@@ -1095,7 +1128,7 @@
           "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202666,
@@ -1113,7 +1146,7 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183080,
@@ -1131,7 +1164,7 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217521,
@@ -1185,7 +1218,7 @@
           "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219026,
@@ -1223,7 +1256,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-29",
       "duration_ms": 185083,
       "name": "Harta",
       "url": "https://open.spotify.com/track/1nBAQLlD3WPf939Jlrc2Ku"
@@ -1245,7 +1278,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 203059,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/7dNOYhHNvhCs0uKkCQdH2M"
@@ -1283,12 +1316,30 @@
           "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 199250,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
+    },
+    {
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199314,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "album": {
@@ -1331,7 +1382,7 @@
           "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 205156,
@@ -1349,7 +1400,7 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188416,
@@ -1385,7 +1436,7 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208352,
@@ -1403,7 +1454,7 @@
           "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169600,
@@ -1423,7 +1474,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 146680,
       "name": "La Danza de los Simpsons",
       "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
@@ -1457,7 +1508,7 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 141920,
@@ -1475,7 +1526,7 @@
           "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208875,
@@ -1511,7 +1562,7 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174106,
@@ -1533,7 +1584,7 @@
           "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254339,
@@ -1551,7 +1602,7 @@
           "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 260728,
@@ -1569,7 +1620,7 @@
           "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173480,
@@ -1627,7 +1678,7 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160653,
@@ -1665,7 +1716,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Lazalypso",
       "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
@@ -1753,7 +1804,7 @@
           "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223160,
@@ -1909,7 +1960,7 @@
           "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202253,
@@ -1963,7 +2014,7 @@
           "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207400,
@@ -2017,7 +2068,7 @@
           "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247453,
@@ -2087,7 +2138,7 @@
           "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 267415,
@@ -2115,6 +2166,24 @@
     {
       "album": {
         "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "album": {
+        "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
       },
       "artists": [
@@ -2123,9 +2192,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
@@ -2209,10 +2278,32 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
+    },
+    {
+      "album": {
+        "name": "Cumbia Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k"
     },
     {
       "album": {
@@ -2243,7 +2334,7 @@
           "url": "https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 366503,
@@ -2265,7 +2356,7 @@
           "url": "https://open.spotify.com/artist/2i5GSJG12PicnskMwuoQ99"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 243973,
@@ -2321,7 +2412,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 168306,
       "name": "Para Elisa",
       "url": "https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX"
@@ -2337,7 +2428,7 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171549,
@@ -2375,7 +2466,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 102371,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
@@ -2395,7 +2486,7 @@
           "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178933,
@@ -2449,7 +2540,7 @@
           "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225320,
@@ -2467,7 +2558,7 @@
           "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217586,
@@ -2485,7 +2576,7 @@
           "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216317,
@@ -2509,7 +2600,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 177773,
       "name": "Quiero Verte Feliz",
       "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
@@ -2525,7 +2616,7 @@
           "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181968,
@@ -2601,7 +2692,7 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182559,
@@ -2619,7 +2710,7 @@
           "url": "https://open.spotify.com/artist/6cWxc7Lnk8MqzVZXiibgWN"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165047,
@@ -2639,7 +2730,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 189616,
       "name": "Si Me Quieres",
       "url": "https://open.spotify.com/track/6Bx4bfum3dd8FAEiLVntzP"
@@ -2655,7 +2746,7 @@
           "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 308837,
@@ -2767,7 +2858,7 @@
           "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181264,
@@ -2785,7 +2876,7 @@
           "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172706,
@@ -2803,7 +2894,7 @@
           "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 281861,
@@ -2839,7 +2930,7 @@
           "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "date_added": "2022-11-04",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252888,
@@ -2893,7 +2984,7 @@
           "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247893,
@@ -2913,7 +3004,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 223488,
       "name": "Todos tenemos hogar",
       "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
@@ -2929,7 +3020,7 @@
           "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224396,
@@ -2947,7 +3038,7 @@
           "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240953,
@@ -2965,7 +3056,7 @@
           "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226346,
@@ -3001,7 +3092,7 @@
           "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188813,
@@ -3037,7 +3128,7 @@
           "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225360,
@@ -3065,6 +3156,24 @@
     {
       "album": {
         "name": "Viene de Mi",
+        "url": "https://open.spotify.com/album/3QO8BwyrIdg5ZLWevzNCI7"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 230400,
+      "name": "Viene de Mi",
+      "url": "https://open.spotify.com/track/5Hs9XxMWxUj973mlLHw6BV"
+    },
+    {
+      "album": {
+        "name": "Viene de Mi",
         "url": "https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ"
       },
       "artists": [
@@ -3075,7 +3184,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 230400,
       "name": "Viene de Mi",
       "url": "https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr"
@@ -3127,7 +3236,7 @@
           "url": "https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184743,
@@ -3145,7 +3254,7 @@
           "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186247,

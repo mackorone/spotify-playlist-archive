@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "make a mess of it. Cover: DeathbyRomy",
   "name": "Sludge",
-  "published_playlist_ids": [
-    "3yPNBCqDIplXzlh2PGS3eF"
-  ],
   "tracks": [
     {
       "album": {
@@ -891,7 +888,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 209411,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
@@ -939,6 +936,28 @@
       "duration_ms": 209411,
       "name": "Falling",
       "url": "https://open.spotify.com/track/76wQ671soYkMWo9dOWcH2e"
+    },
+    {
+      "album": {
+        "name": "Beyond the Senses",
+        "url": "https://open.spotify.com/album/3pYfGgnd7jxga8VzEMOniD"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209416,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1660w15xd64WxBUirN9e4E"
     },
     {
       "album": {
@@ -1266,32 +1285,6 @@
     },
     {
       "album": {
-        "name": "HTIS",
-        "url": "https://open.spotify.com/album/5dyhUIvWHSq974a0MUVrc5"
-      },
-      "artists": [
-        {
-          "name": "Meg Myers",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
-        },
-        {
-          "name": "Luna Shadows",
-          "url": "https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ"
-        },
-        {
-          "name": "Carmen Vandenberg",
-          "url": "https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS"
-        }
-      ],
-      "date_added": "2022-09-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195133,
-      "name": "HTIS",
-      "url": "https://open.spotify.com/track/5pAfHXMg9s3MzGDPyxjRCH"
-    },
-    {
-      "album": {
         "name": "CHILDREN OF LIGHT II",
         "url": "https://open.spotify.com/album/4ju7VhYQ892SQ7gEmMViW4"
       },
@@ -1315,6 +1308,32 @@
       "duration_ms": 195133,
       "name": "HTIS",
       "url": "https://open.spotify.com/track/6ZL9yaWzZtyjksUXwqncAZ"
+    },
+    {
+      "album": {
+        "name": "HTIS (feat. Carmen Vandenberg and Luna Shadows)",
+        "url": "https://open.spotify.com/album/5dyhUIvWHSq974a0MUVrc5"
+      },
+      "artists": [
+        {
+          "name": "Meg Myers",
+          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+        },
+        {
+          "name": "Luna Shadows",
+          "url": "https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ"
+        },
+        {
+          "name": "Carmen Vandenberg",
+          "url": "https://open.spotify.com/artist/2Zc5QLd6oXX67boj5GGfdS"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "HTIS (feat. Carmen Vandenberg and Luna Shadows)",
+      "url": "https://open.spotify.com/track/5pAfHXMg9s3MzGDPyxjRCH"
     },
     {
       "album": {

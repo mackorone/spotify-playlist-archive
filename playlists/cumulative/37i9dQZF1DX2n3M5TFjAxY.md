@@ -4,12 +4,12 @@
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-54 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/3qSlYMi2YCjaMpwGLF0PxY)
+54 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/3p80oHzgCSRjyF1NCT01EQ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CsOnkpCIORrHXJiXoqqOp) | 0:00 | 2021-03-02 |  |
-| [](https://open.spotify.com/track/74GA1foNDq2gKJb35mqTHq) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5JkJ9pSk7nYygEJxJCrGUr) | 0:00 | 2021-03-02 |  |
+| [](https://open.spotify.com/track/3p80oHzgCSRjyF1NCT01EQ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CsOnkpCIORrHXJiXoqqOp) | 0:00 | 2021-03-02 | 2022-12-19 |
+| [](https://open.spotify.com/track/74GA1foNDq2gKJb35mqTHq) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5JkJ9pSk7nYygEJxJCrGUr) | 0:00 | 2021-03-02 | 2022-12-19 |
 | [Ah Yalali](https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Dawrouli An Habib](https://open.spotify.com/album/1PQ2uPvUobUfgwOedPBHFv) | 5:25 | 2021-03-02 |  |
 | [Akdeb Alek Live Record](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Alek Live Record](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 | 2021-03-02 |  |
 | [Ala Baly](https://open.spotify.com/track/4ITlOYD10CGbp5bf79OA0E) | [Aida el Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt) | [Ala Baly](https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55) | 5:14 | 2021-03-02 |  |
@@ -45,7 +45,7 @@
 | [Oyon El Alb Live Record](https://open.spotify.com/track/6UkneNSMIdiwUEaSVfcYVd) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Oyon El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 19:44 | 2021-03-02 |  |
 | [Seret El Hob](https://open.spotify.com/track/1PkyJNFqmxHhwGhphkcy5y) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 39:13 | 2021-03-02 |  |
 | [Set El Habayib](https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Set El Habayib](https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP) | 6:23 | 2021-03-02 |  |
-| [Wahshtnee](https://open.spotify.com/track/5RgqO9WWTD91KjGcM7jbq3) | [Souad Mohamed](https://open.spotify.com/artist/5EXCqb9zKeodd2EDM9RAhz) | [Wahshtnee](https://open.spotify.com/album/0xbFQIkXS2iMsFcYlZyUM2) | 12:05 | 2021-03-02 |  |
+| [Wahshtnee](https://open.spotify.com/track/5RgqO9WWTD91KjGcM7jbq3) | [Souad Mohamed](https://open.spotify.com/artist/5EXCqb9zKeodd2EDM9RAhz) | [Wahshtnee](https://open.spotify.com/album/0xbFQIkXS2iMsFcYlZyUM2) | 12:05 | 2021-03-02 | 2022-12-19 |
 | [We Betesaal Ya Habebi](https://open.spotify.com/track/3hndaYdDG9Sabywbyz3PPa) | [Afaf Rady](https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy) | [Ally Taaly](https://open.spotify.com/album/3yGicNvFuw4vga0sUjfEXN) | 6:29 | 2021-03-02 |  |
 | [Wehiat Eineik](https://open.spotify.com/track/3VrcD46eXNQ1l326guhmpC) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Shadya](https://open.spotify.com/album/2OqsCesiiN65QdUP1zNa4v) | 4:46 | 2021-03-02 |  |
 | [Wehyaty Andak](https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u) | [Zekra](https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 7:07 | 2021-03-02 |  |

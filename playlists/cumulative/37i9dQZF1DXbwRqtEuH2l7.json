@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Long and constant - lose yourself in the sustain.",
   "name": "Drones",
-  "published_playlist_ids": [
-    "7nhVz0B4W46kGNWnN6asrC"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 397673,
       "name": "1.1 - 7.5.19",
       "url": "https://open.spotify.com/track/2KyWSfiYsyWdAlfML3EX2Z"
@@ -81,7 +78,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 363883,
       "name": "?",
       "url": "https://open.spotify.com/track/15RDpqONY9BUkRzpRtFZf5"
@@ -331,10 +328,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 219289,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/0Tb0yPFftPTvr7miqHBXQB"
+    },
+    {
+      "album": {
+        "name": "Sceneries",
+        "url": "https://open.spotify.com/album/4kI9YUQifb51tnR2s7EJsr"
+      },
+      "artists": [
+        {
+          "name": "Lauge",
+          "url": "https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369477,
+      "name": "Before the Arctic Wind Returns",
+      "url": "https://open.spotify.com/track/6SS17aFeaNZugLIGpVTeAz"
     },
     {
       "album": {
@@ -583,7 +598,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 216249,
       "name": "Cerebral Features",
       "url": "https://open.spotify.com/track/357Fo8qt21NhCLcmwc7cpE"
@@ -772,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Cloudline",
+        "url": "https://open.spotify.com/album/1bLq05o6DZoBw85k6ITEsa"
+      },
+      "artists": [
+        {
+          "name": "Hats\u00fc",
+          "url": "https://open.spotify.com/artist/0Nm8ZQuikXSCTVymMITgMd"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "Cloudline",
+      "url": "https://open.spotify.com/track/6p4yw4aRRg2SJuQm898pla"
+    },
+    {
+      "album": {
         "name": "2R0I2P0",
         "url": "https://open.spotify.com/album/3yHKmmc0q9KDfLrdX2FKEE"
       },
@@ -813,6 +846,24 @@
       "duration_ms": 273147,
       "name": "Composition 1960 No. 7",
       "url": "https://open.spotify.com/track/1VfIcSmNrnl4fBsCZwih2e"
+    },
+    {
+      "album": {
+        "name": "Contemporary Apathy",
+        "url": "https://open.spotify.com/album/2m6yOFJDvngvEMOWZLXf08"
+      },
+      "artists": [
+        {
+          "name": "Echo Grid",
+          "url": "https://open.spotify.com/artist/4qGt1eVZPXnNdybSfpi8lv"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342866,
+      "name": "Contemporary Apathy",
+      "url": "https://open.spotify.com/track/2dOtyjeGIOV76PwS7FUwAb"
     },
     {
       "album": {
@@ -969,7 +1020,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-21",
       "duration_ms": 263851,
       "name": "Distant - Drone Mix",
       "url": "https://open.spotify.com/track/0MAhzaMVquiCYKzmhydblv"
@@ -999,6 +1050,24 @@
     {
       "album": {
         "name": "Dream",
+        "url": "https://open.spotify.com/album/5Z1kpyPx0btNe8O3jZZl1b"
+      },
+      "artists": [
+        {
+          "name": "Cholosus",
+          "url": "https://open.spotify.com/artist/2IxefYESLxSZta8oWQOSvv"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434089,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/4SHueg10m38WqyeLugSayp"
+    },
+    {
+      "album": {
+        "name": "Dream",
         "url": "https://open.spotify.com/album/2saJZHSNvwPxaaArq3iKzP"
       },
       "artists": [
@@ -1009,7 +1078,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 434089,
       "name": "Dream",
       "url": "https://open.spotify.com/track/4oIAv5hE2WYfo75ibQA9GU"
@@ -1190,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259693,
+      "name": "Everending",
+      "url": "https://open.spotify.com/track/3y7cWkrp5vYTK3uLJmhj7c"
+    },
+    {
+      "album": {
         "name": "Infinite Branches",
         "url": "https://open.spotify.com/album/6WDNNZf7ddS7EfhJaD3meF"
       },
@@ -1223,7 +1310,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 159197,
       "name": "Evil-Minded",
       "url": "https://open.spotify.com/track/3THvr8CyGPLmMKJgGttxYp"
@@ -1320,6 +1407,32 @@
     },
     {
       "album": {
+        "name": "Fond (Rework)",
+        "url": "https://open.spotify.com/album/4JcX4CjnRbPzSgT2wADcIE"
+      },
+      "artists": [
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Fond - Rework",
+      "url": "https://open.spotify.com/track/1NR4lmznMMB07hzvy4PN74"
+    },
+    {
+      "album": {
         "name": "Fragments of the Mosaic",
         "url": "https://open.spotify.com/album/5CbUyfXv1nFnn9vPuwjCIU"
       },
@@ -1349,7 +1462,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 174000,
       "name": "Garlands",
       "url": "https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0"
@@ -1729,7 +1842,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 302266,
       "name": "Kokaral",
       "url": "https://open.spotify.com/track/1v1TqKk1yakQHJ1QxwmC0p"
@@ -1787,6 +1900,24 @@
       "duration_ms": 202285,
       "name": "Lands End - Revisited 432Hz",
       "url": "https://open.spotify.com/track/7JqsRiaX6HSdrTJqeJK0pt"
+    },
+    {
+      "album": {
+        "name": "Mysterious Shapes and Remembered Rhythms",
+        "url": "https://open.spotify.com/album/0Hq25reNy7WC2ubWOoKwjP"
+      },
+      "artists": [
+        {
+          "name": "Ian Hawgood",
+          "url": "https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Life Lived in the Echoes of Emptiness",
+      "url": "https://open.spotify.com/track/4lx6thZ1sT0Nrv6XopvpyY"
     },
     {
       "album": {
@@ -1975,6 +2106,28 @@
       "duration_ms": 318426,
       "name": "Mercury Immersion",
       "url": "https://open.spotify.com/track/3tGJoZdI21UKDSRjCFBloj"
+    },
+    {
+      "album": {
+        "name": "Moons of Jupiter",
+        "url": "https://open.spotify.com/album/59KUVS7yqnphA6QLUczhKu"
+      },
+      "artists": [
+        {
+          "name": "Science Of Sleeping",
+          "url": "https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn"
+        },
+        {
+          "name": "Spacecraft",
+          "url": "https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248940,
+      "name": "Metis",
+      "url": "https://open.spotify.com/track/6AhQjVyjnB224UKG5oTWrm"
     },
     {
       "album": {
@@ -2672,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "Spora",
+        "url": "https://open.spotify.com/album/2OzRGpE3w3A21eGXEAElOi"
+      },
+      "artists": [
+        {
+          "name": "Noah Faulkner",
+          "url": "https://open.spotify.com/artist/7llmnhFTdoWphUkJ4ExPvR"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142053,
+      "name": "Spora",
+      "url": "https://open.spotify.com/track/37eq8mf6CHkrvTRR8GnmYs"
+    },
+    {
+      "album": {
         "name": "Theatre",
         "url": "https://open.spotify.com/album/7BM9vxoyxZuOobwdWubI9D"
       },
@@ -2983,7 +3154,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 399818,
       "name": "Then a quick walk down the street",
       "url": "https://open.spotify.com/track/5NiqpQrxv2AHAJQV3lQzL2"
@@ -3161,7 +3332,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 125095,
       "name": "Unbearable Tension",
       "url": "https://open.spotify.com/track/0ZYzse3xAsOwiKkgKH0tnj"
@@ -3259,6 +3430,24 @@
       "duration_ms": 120000,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/0duCORCB0jzdnSGW7yPZrW"
+    },
+    {
+      "album": {
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107626,
+      "name": "Washed Out",
+      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
     },
     {
       "album": {

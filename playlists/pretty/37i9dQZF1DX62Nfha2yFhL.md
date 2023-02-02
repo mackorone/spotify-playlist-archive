@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,964 likes - 64 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,151 likes - 64 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [try\. \(feat\. JoJo\)](https://open.spotify.com/track/7jVxoi0YzIfmaZ4X0o0Jp9) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 2:13 |
 | 2 | [Big Baby DRAM](https://open.spotify.com/track/09oWpz1zSRScuPYFFbGAmq) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 5:05 |
-| 3 | [Today](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Today](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 |
+| 3 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 |
 | 4 | [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 |
 | 5 | [Freeze Tag \(feat\. Phoelix\)](https://open.spotify.com/track/47v4uUtj5AukJmCbMq4Kry) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 3:11 |
 | 6 | [The Better Benediction \(pt.2\) \(feat\. Lisa Knowles\-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard\)](https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 4:31 |

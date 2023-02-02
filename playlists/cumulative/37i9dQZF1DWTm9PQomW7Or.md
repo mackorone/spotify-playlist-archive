@@ -4,7 +4,7 @@
 
 > Enjoy the JTBC drama 'IDOL : The Coup,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '아이돌'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요.\)
 
-32 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/6F1Ul5nbat8DbhfmmcARpZ)
+32 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

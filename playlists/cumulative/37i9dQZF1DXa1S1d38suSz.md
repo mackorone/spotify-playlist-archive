@@ -4,7 +4,7 @@
 
 > Tú, nosotros y esta lista de canciones\. Foto: Chayanne
 
-80 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/3WqtowYoqJPslwPTVPQQJV)
+81 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Nadie](https://open.spotify.com/track/4KdHtVaVD3c0n8iUnU2uz1) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Frecuencia](https://open.spotify.com/album/6hfHnK0eRvNceDhHdlwevc) | 4:14 | 2022-05-06 | 2022-06-17 |
 | [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 | 2022-06-16 |  |
 | [No Podrás](https://open.spotify.com/track/6gZOW0BdA7G1Nkg0uK0YDI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Singles](https://open.spotify.com/album/6ZxbfjQ6vmmS4aa4qjgfRV) | 4:05 | 2022-01-14 | 2022-09-10 |
+| [No Sé Querer](https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [No Sé Querer](https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO) | 3:25 | 2023-01-27 |  |
 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 | 2022-01-14 | 2022-04-02 |
 | [Ojos Marrones \- Con Sebastián Yatra](https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ojos Marrones \(Con Sebastián Yatra\)](https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd) | 3:18 | 2022-08-24 |  |
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 5:27 | 2022-01-14 |  |

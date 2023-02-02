@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-13",
   "description": "Scary monsters and filthy drops.",
   "name": "The Graveyard",
-  "published_playlist_ids": [
-    "0Sw1qMD3QYX3Np7RcmZMZR"
-  ],
   "tracks": [
     {
       "album": {
@@ -289,10 +286,32 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 352500,
       "name": "Dance with Death",
       "url": "https://open.spotify.com/track/2icGHFD0MuDrfyok0hZC0A"
+    },
+    {
+      "album": {
+        "name": "Dance with Death",
+        "url": "https://open.spotify.com/album/2RtmP1Gin5BBNgxlu44qeH"
+      },
+      "artists": [
+        {
+          "name": "Ghost Dance",
+          "url": "https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ"
+        },
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352500,
+      "name": "Dance with Death",
+      "url": "https://open.spotify.com/track/3WHzdoudaQvAOcGDYFRpWn"
     },
     {
       "album": {
@@ -743,6 +762,28 @@
     {
       "album": {
         "name": "Hell on Earth",
+        "url": "https://open.spotify.com/album/2BRkDmh59BD4RJuoHopbuE"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Hell on Earth",
+      "url": "https://open.spotify.com/track/4NhfgWzbXBtGPCbyIOGk3q"
+    },
+    {
+      "album": {
+        "name": "Hell on Earth",
         "url": "https://open.spotify.com/album/7dnhkoLh6CayRg3B1HVEXe"
       },
       "artists": [
@@ -757,7 +798,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 185333,
       "name": "Hell on Earth",
       "url": "https://open.spotify.com/track/5rFtboDQj9ECmz4pAjDsta"
@@ -1881,7 +1922,7 @@
       },
       "artists": [
         {
-          "name": "Lucii",
+          "name": "Luci",
           "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
         }
       ],

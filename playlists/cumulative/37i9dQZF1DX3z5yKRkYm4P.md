@@ -4,7 +4,7 @@
 
 > Los muertos al cajón y los vivos al fiestón.
 
-84 songs - 4 hr 41 min - not published yet
+85 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 | 2022-10-10 |  |
 | [Spooky](https://open.spotify.com/track/5z4iT44mMHyZozsTFy4A51) | [Classics IV](https://open.spotify.com/artist/6XGJvNG372fPJ2TV2OoN0Z) | [Best Of](https://open.spotify.com/album/1Tt7kLJ0EC4t8w3D4WyySr) | 2:55 | 2022-10-10 |  |
 | [Spooky, Scary Skeletons \- Undead Tombstone Remix](https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music \(Deluxe Edition\)](https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4) | 2:05 | 2022-10-10 |  |
-| [Stinkin' Zombies](https://open.spotify.com/track/3IEhTMoRdwGj8ekSk4MqKH) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [Red Dead Redemption: Undead Nightmare Original Soundtrack](https://open.spotify.com/album/2YGuFhmMtK5rD7v5K3AV4V) | 3:11 | 2022-10-10 |  |
+| [Stinkin' Zombies](https://open.spotify.com/track/1M2s8CvdojlVc1SeUFfnD4) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [Red Dead Redemption: Undead Nightmare Original Soundtrack](https://open.spotify.com/album/2RVAztnGDcmO51LE7YBohk) | 3:11 | 2022-10-10 |  |
+| [Stinkin' zombies](https://open.spotify.com/track/3IEhTMoRdwGj8ekSk4MqKH) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [Red Dead Redemption: Undead Nightmare Original Soundtrack](https://open.spotify.com/album/2YGuFhmMtK5rD7v5K3AV4V) | 3:11 | 2022-10-10 | 2022-12-01 |
 | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/track/2YoUCthmk1GQOEMJOj0UMH) | [Cumbia Drive](https://open.spotify.com/artist/1P3VBHhKgNg31uzh0pINyc) | [Stranger Things \(Versión Cumbia\)](https://open.spotify.com/album/6NbzLDhhHcGIDhVMyX2wEE) | 1:46 | 2022-10-10 |  |
 | [Superstition \- Single Version](https://open.spotify.com/track/57wV4ExkkZBDEwM1OqGmGp) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Spring Clean](https://open.spotify.com/album/6h0tyUTj25WN2yhgxAkfgY) | 4:04 | 2022-10-10 | 2022-11-13 |
 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2022-10-10 |  |

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "All 80s, all ballads. Cover: Whitney Houston",
+  "description": "All 80s, all ballads. Cover: Michael Bolton",
   "name": "80s Ballads",
-  "published_playlist_ids": [
-    "5MJ9psTUoa9dYMF8ULHTj9"
-  ],
   "tracks": [
     {
       "album": {
@@ -290,6 +287,42 @@
     },
     {
       "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343933,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "album": {
         "name": "Wheels Are Turnin'",
         "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
       },
@@ -453,7 +486,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 266266,
       "name": "Endless Love - From \"The Endless Love\" Soundtrack",
       "url": "https://open.spotify.com/track/0FGxAEMIE5GhyFqFMHRWaO"
@@ -987,6 +1020,24 @@
       "duration_ms": 236706,
       "name": "Leave a Tender Moment Alone",
       "url": "https://open.spotify.com/track/4Qw41GUmS4rF7GR3am9Rt6"
+    },
+    {
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7"
     },
     {
       "album": {
@@ -1851,7 +1902,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 252613,
       "name": "The Search Is Over",
       "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
@@ -1887,7 +1938,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 227293,
       "name": "There's No Easy Way",
       "url": "https://open.spotify.com/track/7ePEIbrsRXk9En7noiLAo7"
@@ -1905,7 +1956,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 206640,
       "name": "Think of Laura",
       "url": "https://open.spotify.com/track/5jLq63jMFWg0dKHnht6YI0"
@@ -2119,6 +2170,24 @@
       "duration_ms": 232666,
       "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
       "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
+    },
+    {
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "album": {
@@ -2339,7 +2408,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-29",
       "duration_ms": 340626,
       "name": "You're The Best Thing",
       "url": "https://open.spotify.com/track/0Njh4xmjFcX3f8TO1ocdlb"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "Get excited with these festive favourites alongside some of the newest holiday releases.",
   "name": "Christmas is Coming",
-  "published_playlist_ids": [
-    "2Kr0huhuGmwKqVDH3tUmr8"
-  ],
   "tracks": [
     {
       "album": {
@@ -341,6 +338,24 @@
       "duration_ms": 150440,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/61Bk7DCKXyMdfdJqK0DuoR"
+    },
+    {
+      "album": {
+        "name": "Christmas Drillings",
+        "url": "https://open.spotify.com/album/0CBwRbpR7nrqLubnx5CjNo"
+      },
+      "artists": [
+        {
+          "name": "Sidemen",
+          "url": "https://open.spotify.com/artist/3cz1YSCXv6hjifHO6bYLLH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Christmas Drillings",
+      "url": "https://open.spotify.com/track/7oD6QZsaK3lrMWsmJnvuO0"
     },
     {
       "album": {
@@ -732,6 +747,42 @@
     },
     {
       "album": {
+        "name": "Food Aid",
+        "url": "https://open.spotify.com/album/1uuYOPop4HSbbFZoXHgBZ6"
+      },
+      "artists": [
+        {
+          "name": "LadBaby",
+          "url": "https://open.spotify.com/artist/0gWa2AiDlbvF24aqoLT2c1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240746,
+      "name": "Food Aid",
+      "url": "https://open.spotify.com/track/6tNRqkD3aFkUgmCRjw54TO"
+    },
+    {
+      "album": {
+        "name": "I'll Be Waiting (Sad At Christmas)",
+        "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200968,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD"
+    },
+    {
+      "album": {
         "name": "The Pianoman at Christmas",
         "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
       },
@@ -1041,10 +1092,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
     },
     {
       "album": {
@@ -1222,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Little Drummer Boy",
+        "url": "https://open.spotify.com/album/1Qbu7yfsgiJKDc96hHe30t"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172186,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/0GtaQ9DJkI7KEvRQCG6aqK"
+    },
+    {
+      "album": {
         "name": "Love this Christmas",
         "url": "https://open.spotify.com/album/3CdqhL16AXYFXcHyGkPFzB"
       },
@@ -1237,6 +1324,24 @@
       "duration_ms": 191653,
       "name": "Love this Christmas",
       "url": "https://open.spotify.com/track/0s3x37HfdUXvoW9N5zA5fN"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/6VpaWGxgxBNrU5WBfKPUfM"
+      },
+      "artists": [
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/2EfOo7QkJu69cxRTZLvgaZ"
     },
     {
       "album": {
@@ -1273,7 +1378,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 218170,
       "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
       "url": "https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H"
@@ -1331,6 +1436,24 @@
       "duration_ms": 183066,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/1F1KGmpwDNzTrhgNAVDx42"
+    },
+    {
+      "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191378,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
     },
     {
       "album": {
@@ -1995,6 +2118,24 @@
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/4R9DGZjme5DCgHlmLvXYkQ"
+    },
+    {
+      "album": {
+        "name": "Walking in The Air",
+        "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239250,
+      "name": "Walking in The Air",
+      "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
     },
     {
       "album": {

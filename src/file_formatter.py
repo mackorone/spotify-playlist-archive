@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
+import dataclasses
 import datetime
+import json
 from typing import List, Mapping, Tuple
 
 from plants.markdown import MarkdownEscapedString
@@ -24,7 +26,10 @@ class Formatter:
     @classmethod
     def readme(cls, prev_content: str, playlists: Mapping[PlaylistID, Playlist]) -> str:
         old_lines = prev_content.splitlines()
-        index = old_lines.index("## Playlists")
+        prefix = "## Playlists"
+        index = next(i for i, line in enumerate(old_lines) if line.startswith(prefix))
+        header = prefix + MarkdownEscapedString(f" ({len(playlists)})")
+
         playlist_tuples: List[Tuple[str, str]] = []
         for playlist_id, playlist in playlists.items():
             name_stripped = playlist.unique_name.strip()
@@ -32,8 +37,22 @@ class Formatter:
             link = cls._link(text, URL.pretty(playlist_id))
             playlist_tuples.append((name_stripped, f"- {link}"))
         playlist_lines = [text for key, text in sorted(playlist_tuples)]
-        new_lines = old_lines[: index + 1] + [""] + playlist_lines
+
+        new_lines = old_lines[:index] + [header, ""] + playlist_lines
         return "\n".join(new_lines) + "\n"
+
+    @classmethod
+    def metadata_json(cls, playlists: Mapping[PlaylistID, Playlist]) -> str:
+        metadata_dict = {}
+        for playlist_id, playlist in playlists.items():
+            playlist_dict = dataclasses.asdict(playlist)
+            del playlist_dict["tracks"]
+            metadata_dict[playlist_id] = playlist_dict
+        return json.dumps(
+            metadata_dict,
+            indent=2,
+            sort_keys=True,
+        )
 
     @classmethod
     def plain(cls, playlist_id: PlaylistID, playlist: Playlist) -> str:
@@ -133,29 +152,12 @@ class Formatter:
         )
 
         num_songs = len(playlist.tracks)
-        info_line = "{} - {} - ".format(
+        info_line = "{} - {}".format(
             f"{num_songs:,} song" + ("s" if num_songs > 1 else ""),
             cls._format_duration_english(
                 sum(track.duration_ms for track in playlist.tracks)
             ),
         )
-        published_playlist_ids = playlist.published_playlist_ids
-        if len(published_playlist_ids) == 0:
-            info_line += "not published yet"
-        if len(published_playlist_ids) == 1:
-            info_line += cls._link(
-                MarkdownEscapedString("published"),
-                f"https://open.spotify.com/playlist/{published_playlist_ids[0]}",
-            )
-        if len(published_playlist_ids) > 1:
-            info_line += " published: "
-            info_line += ", ".join(
-                cls._link(
-                    MarkdownEscapedString(f"part {i + 1}"),
-                    f"https://open.spotify.com/playlist/{playlist_id}",
-                )
-                for i, playlist_id in enumerate(published_playlist_ids)
-            )
 
         lines += [
             info_line,

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Cerchi energie e buona musica? Prova con la nostra playlist!",
+  "description": "In cerca di energie? Prova con la nostra playlist!",
   "name": "Una Carica di Espresso!",
-  "published_playlist_ids": [
-    "1MD1xnD0LanKfsaqIIX4F0"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,7 +20,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
@@ -97,6 +94,28 @@
       "duration_ms": 185196,
       "name": "All Night (feat. Scott Mac)",
       "url": "https://open.spotify.com/track/0mXl1OxRJosurefeFAncD6"
+    },
+    {
+      "album": {
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
     },
     {
       "album": {
@@ -181,7 +200,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 131904,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/1BexE9djGgIapZuU4Gu4TU"
@@ -365,7 +384,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 181712,
       "name": "Bon Trip - Radio Edit",
       "url": "https://open.spotify.com/track/1m7rYHVB8LHDTm9EqtKP4f"
@@ -471,7 +490,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 175081,
       "name": "Breathe (feat. kaspara)",
       "url": "https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r"
@@ -761,7 +780,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -1103,7 +1122,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 194826,
       "name": "Family",
       "url": "https://open.spotify.com/track/3TKpJrY9q49Mj1JOsM9zGL"
@@ -1403,7 +1422,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 158709,
       "name": "He Goes Down",
       "url": "https://open.spotify.com/track/4Jxqo3meY7nbbnqa7cQY7p"
@@ -1455,6 +1474,28 @@
       "duration_ms": 190772,
       "name": "Hear Me Say",
       "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+    },
+    {
+      "album": {
+        "name": "Heartstrings",
+        "url": "https://open.spotify.com/album/6Zf2UCQdYaRfR5pFXQAl90"
+      },
+      "artists": [
+        {
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 211359,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/6Qv3OWGNixqEobRC5vM0Bp"
     },
     {
       "album": {
@@ -1740,6 +1781,28 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147139,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
+    },
+    {
+      "album": {
         "name": "I Swear",
         "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
       },
@@ -1879,7 +1942,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 204514,
       "name": "Juliet & Romeo",
       "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
@@ -2274,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
+    },
+    {
+      "album": {
         "name": "1984",
         "url": "https://open.spotify.com/album/2qaaaIfB5TuEAh5cqI1ksz"
       },
@@ -2333,6 +2414,28 @@
       "duration_ms": 198125,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/0rY4VH4Gztiwi6uLGaQcdP"
+    },
+    {
+      "album": {
+        "name": "Million Dollar Baby (Nathan Dawe Remix)",
+        "url": "https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185864,
+      "name": "Million Dollar Baby - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX"
     },
     {
       "album": {
@@ -2399,6 +2502,28 @@
       "duration_ms": 210820,
       "name": "Money Money",
       "url": "https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV"
+    },
+    {
+      "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145666,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
     },
     {
       "album": {
@@ -2512,7 +2637,29 @@
     },
     {
       "album": {
-        "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178809,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
+    },
+    {
+      "album": {
+        "name": "Never Love You Again",
         "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
       },
       "artists": [
@@ -2533,7 +2680,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191329,
-      "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
+      "name": "Never Love You Again",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
     },
     {
@@ -2678,6 +2825,28 @@
     },
     {
       "album": {
+        "name": "Perfect Melody",
+        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159850,
+      "name": "Perfect Melody",
+      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
+    },
+    {
+      "album": {
         "name": "Peru (R3HAB Remix)",
         "url": "https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4"
       },
@@ -2737,7 +2906,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 202646,
       "name": "Piece Of Me (with LOVA)",
       "url": "https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4"
@@ -2942,6 +3111,28 @@
     },
     {
       "album": {
+        "name": "Rockstar Baby (feat. Mougleta)",
+        "url": "https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174858,
+      "name": "Rockstar Baby (feat. Mougleta)",
+      "url": "https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p"
+    },
+    {
+      "album": {
         "name": "Sad in Scandinavia",
         "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
       },
@@ -2991,7 +3182,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 185015,
       "name": "Running",
       "url": "https://open.spotify.com/track/4hsRzEQg0t9qgtB4iXEGB5"
@@ -3156,6 +3347,46 @@
     },
     {
       "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "album": {
+        "name": "Shivers (Ofenbach Remix)",
+        "url": "https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187247,
+      "name": "Shivers - Ofenbach Remix",
+      "url": "https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT"
       },
@@ -3193,7 +3424,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 176734,
       "name": "Something Stupid (feat. AWA)",
       "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
@@ -3259,7 +3490,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 173714,
       "name": "Stronger (feat. Kesha)",
       "url": "https://open.spotify.com/track/4NctFqJyGAqurHFEUQvWgR"
@@ -3285,6 +3516,28 @@
       "duration_ms": 195711,
       "name": "Summer Of Love",
       "url": "https://open.spotify.com/track/56YpW3nISMuVvM6pHkR9oU"
+    },
+    {
+      "album": {
+        "name": "Sunday Night",
+        "url": "https://open.spotify.com/album/0P55wyOTaw9K3dkyqsjnoH"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150131,
+      "name": "Sunday Night",
+      "url": "https://open.spotify.com/track/7IAFfnLZEm7zPyTBNjjdYb"
     },
     {
       "album": {
@@ -3369,6 +3622,28 @@
       "duration_ms": 161040,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+    },
+    {
+      "album": {
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
       "album": {
@@ -3736,6 +4011,28 @@
     },
     {
       "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/61M0m1vZBq2Tj7m2R7dPKE"
       },
@@ -3765,10 +4062,32 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 191719,
       "name": "Whitney",
       "url": "https://open.spotify.com/track/3wnV3a1u6QgSzKPZl5v67c"
+    },
+    {
+      "album": {
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
     },
     {
       "album": {

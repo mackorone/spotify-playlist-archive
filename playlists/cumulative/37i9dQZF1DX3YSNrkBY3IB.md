@@ -4,7 +4,7 @@
 
 > Check out these Hip Hop classics that are great for the whole family.
 
-51 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/6ojJOhCCk5Plcodw4vIUac)
+51 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,11 +26,11 @@
 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 | 2020-09-29 |  |
 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/2tFAP5PycKceC26ZnIqnBt) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP) | 3:42 | 2020-09-29 | 2022-07-29 |
 | [It's a Shame \(My Sister\)](https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA) | [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu), [True Image](https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj) | [Down to Earth](https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT) | 3:42 | 2020-09-29 |  |
-| [It's Tricky](https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 3:03 | 2020-12-07 | 2022-11-22 |
+| [It's Tricky](https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 3:03 | 2020-12-07 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [Greatest Hits](https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy) | 4:50 | 2021-03-19 |  |
 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 | 2020-09-29 |  |
 | [Ladies First \- Radio Edit](https://open.spotify.com/track/2hZ88MVnZCOuXZ2UmeCOFI) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [Ladies First](https://open.spotify.com/album/5KWbm0YELafqxzEmE27J5O) | 3:49 | 2020-09-29 | 2022-07-29 |
-| [Ladies First \- Radio Edit](https://open.spotify.com/track/2kdJAbzcLT7XEQ0QeZERIB) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [Ladies First](https://open.spotify.com/album/6FrpOdvtCpq4atd48hyLVq) | 3:49 | 2020-09-29 |  |
+| [Ladies First \- Radio Edit](https://open.spotify.com/track/2kdJAbzcLT7XEQ0QeZERIB) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [Ladies First](https://open.spotify.com/album/6FrpOdvtCpq4atd48hyLVq) | 3:49 | 2020-09-29 | 2023-02-01 |
 | [Loungin'](https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:39 | 2021-03-19 |  |
 | [Mistadobalina](https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [The Best Of Del Tha Funkee Homosapien \[The Elektra Years\]: The B\-Boy Handbook](https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur) | 4:20 | 2022-01-10 |  |
 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/7xykwR6UJ4XNND931IsDLW) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remaster\)](https://open.spotify.com/album/6uMVAiciTpTyrQn5QJDPJM) | 4:17 | 2021-03-19 |  |

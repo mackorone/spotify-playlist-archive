@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/285xVjuyHG2CusStdc8kCS.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Nicktim / Radio Edit](https://open.spotify.com/track/2bNrvWD9d5Zn9tS8XvcaMk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/0z7Mr85v0hPSX0VOUxP51W) | 3:28 |
 | 2 | [Drinking from the Bottle \(feat\. Tinie Tempah\)](https://open.spotify.com/track/1oHxIPqJyvAYHy0PVrDU98) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:00 |
 | 3 | [Heart Attack](https://open.spotify.com/track/25n4NECujqOxQHdXVIVc9I) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack](https://open.spotify.com/album/1mQiBukL1OBUwIy5z63adB) | 3:31 |
-| 4 | [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:21 |
+| 4 | [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:21 |
 | 5 | [Reload \- Vocal Version / Radio Edit](https://open.spotify.com/track/40AYRnDKhhrH4JZO4KS9Dj) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/7cNKFmj46OhKkXoaRxUu4i) | 3:41 |
 | 6 | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\) \- Radio Edit](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(feat\. Pharrell Williams & Nile Rodgers\) \[Radio Edit\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 |
 | 7 | [This Is What It Feels Like](https://open.spotify.com/track/6NdkzOSCLzmyV9Qc4DKhJ2) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [This Is What It Feels Like](https://open.spotify.com/album/4uPKXpXtHrspK8v2ObzyPs) | 3:24 |

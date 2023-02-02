@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "\u00a1Vamos a bailar con Dios!",
   "name": "Baila Con Dios",
-  "published_playlist_ids": [
-    "6Y8UbtURyWBf2yUJAyO8WE"
-  ],
   "tracks": [
     {
       "album": {
@@ -371,7 +368,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 257230,
       "name": "El Mismo De Ayer",
       "url": "https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC"
@@ -703,6 +700,24 @@
       "duration_ms": 235389,
       "name": "Mi Fe",
       "url": "https://open.spotify.com/track/3ByHOVprxjQwTrUGBnc1QT"
+    },
+    {
+      "album": {
+        "name": "Oveja Entre Lobos",
+        "url": "https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Mi Fe",
+      "url": "https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d"
     },
     {
       "album": {

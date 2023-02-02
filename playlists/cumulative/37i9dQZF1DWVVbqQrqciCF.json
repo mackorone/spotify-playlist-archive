@@ -1,0 +1,664 @@
+{
+  "date_first_scraped": "2022-12-24",
+  "description": "\u30b3\u30f3\u30dd\u30fc\u30b6\u30fc\u306eAyase\u3001\u30dc\u30fc\u30ab\u30eb\u306eikura\u304b\u3089\u306a\u308b\u300c\u5c0f\u8aac\u3092\u97f3\u697d\u306b\u3059\u308b\u30e6\u30cb\u30c3\u30c8\u300d\u3001YOASOBI\u306e\u697d\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is YOASOBI",
+  "tracks": [
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/142pAHbasPxFPBKbS5wsb3"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248444,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3eGKvQ0eYpyl28lMo8ZT93"
+    },
+    {
+      "album": {
+        "name": "E-SIDE",
+        "url": "https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213692,
+      "name": "Comet",
+      "url": "https://open.spotify.com/track/7LrT6Lpn0hOQ58pbBP6D2M"
+    },
+    {
+      "album": {
+        "name": "E-SIDE",
+        "url": "https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270801,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0O0RP8iesLTKxhlEY4MKX6"
+    },
+    {
+      "album": {
+        "name": "E-SIDE 2",
+        "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198243,
+      "name": "Halzion",
+      "url": "https://open.spotify.com/track/6YgWUfKPwZJigKBbSDwu7e"
+    },
+    {
+      "album": {
+        "name": "E-SIDE 2",
+        "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242001,
+      "name": "Haruka",
+      "url": "https://open.spotify.com/track/0jFon5RVg19KlwNVnXVX0s"
+    },
+    {
+      "album": {
+        "name": "E-SIDE",
+        "url": "https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256483,
+      "name": "Haven't",
+      "url": "https://open.spotify.com/track/33ALvsldNGJduk3Bqr7VjS"
+    },
+    {
+      "album": {
+        "name": "E-SIDE 2",
+        "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202080,
+      "name": "If I Could Draw Life",
+      "url": "https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR"
+    },
+    {
+      "album": {
+        "name": "Into the Night",
+        "url": "https://open.spotify.com/album/6MZSQuewUgYmyFGvN5S0rz"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262153,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/0JyJVPi4IBCgj2wTRKb0yN"
+    },
+    {
+      "album": {
+        "name": "E-SIDE 2",
+        "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219018,
+      "name": "Just a Little Step",
+      "url": "https://open.spotify.com/track/3UCbRuJbsnEZeGLXefqeow"
+    },
+    {
+      "album": {
+        "name": "E-SIDE 2",
+        "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210667,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/325iR7dCw6hNekr48puGdG"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v"
+    },
+    {
+      "album": {
+        "name": "RGB",
+        "url": "https://open.spotify.com/album/1lFZcTOrL1ZukflkJg9zX2"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "RGB",
+      "url": "https://open.spotify.com/track/55O5PJor96At64xOQSWnkc"
+    },
+    {
+      "album": {
+        "name": "THE BOOK 2",
+        "url": "https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166426,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/0dSPApaBoWn6SA4GKWq9QK"
+    },
+    {
+      "album": {
+        "name": "E-SIDE 2",
+        "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166761,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/6Kh3obD8LG4yeXxQDhr6Vr"
+    },
+    {
+      "album": {
+        "name": "E-SIDE 2",
+        "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/4KFvsGchCp4c7zphBlPxz3"
+    },
+    {
+      "album": {
+        "name": "E-SIDE 2",
+        "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        },
+        {
+          "name": "midories",
+          "url": "https://open.spotify.com/artist/71hoL3Rlmuptv4h4g2bJxU"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217428,
+      "name": "The Swallow (feat. Midories)",
+      "url": "https://open.spotify.com/track/6oexafIxFkZaEEcfJCsx4y"
+    },
+    {
+      "album": {
+        "name": "E-SIDE",
+        "url": "https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "Tracing A Dream",
+      "url": "https://open.spotify.com/track/4L9Iuupn2JTSCHSn8uVdD6"
+    },
+    {
+      "album": {
+        "name": "YOASOBI THE BOOK 2 Spotify Edition",
+        "url": "https://open.spotify.com/show/5SkUpm1BgQpKmWwP5YkfCn"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI THE BOOK 2 Spotify Edition",
+          "url": "https://open.spotify.com/show/5SkUpm1BgQpKmWwP5YkfCn"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3960720,
+      "name": "YOASOBI THE BOOK 2 Spotify Edition",
+      "url": "https://open.spotify.com/episode/0sPNGPetAt5PP9IXKD6Bko"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306e\u5922\u3092\u306a\u305e\u3063\u3066",
+        "url": "https://open.spotify.com/album/6VtHuuDn351LBXwpxmvZqt"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "\u3042\u306e\u5922\u3092\u306a\u305e\u3063\u3066",
+      "url": "https://open.spotify.com/track/4BE1OloRc9xwjyqA4wFFuN"
+    },
+    {
+      "album": {
+        "name": "\u305f\u3076\u3093",
+        "url": "https://open.spotify.com/album/2882DYZkYy3UOYyWOvbnnl"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258666,
+      "name": "\u305f\u3076\u3093",
+      "url": "https://open.spotify.com/track/62Lv9WcrfzJqhvYDbilJy3"
+    },
+    {
+      "album": {
+        "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
+        "url": "https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
+      "url": "https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg"
+    },
+    {
+      "album": {
+        "name": "THE BOOK 2",
+        "url": "https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201626,
+      "name": "\u3082\u3057\u3082\u547d\u304c\u63cf\u3051\u305f\u3089",
+      "url": "https://open.spotify.com/track/5WYTSyhKonzQZ3hu14LNr6"
+    },
+    {
+      "album": {
+        "name": "THE BOOK",
+        "url": "https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271440,
+      "name": "\u30a2\u30f3\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC"
+    },
+    {
+      "album": {
+        "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
+        "url": "https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        },
+        {
+          "name": "\u30df\u30c9\u30ea\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217429,
+      "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
+      "url": "https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30eb\u30ab",
+        "url": "https://open.spotify.com/album/6uq5X6zI466fOyPkzwVYTH"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243613,
+      "name": "\u30cf\u30eb\u30ab",
+      "url": "https://open.spotify.com/track/6wKmxUeMJAoz2GpMrw95z5"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "\u30df\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30ec\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/6RfHLN2DLnZLAvR5Ogb4jA"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "\u30e9\u30d6\u30ec\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/185Wm4Mx09dQG0fUktklDm"
+    },
+    {
+      "album": {
+        "name": "\u4e09\u539f\u8272",
+        "url": "https://open.spotify.com/album/3MeMuzwFRLje0g7fdni41h"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "\u4e09\u539f\u8272",
+      "url": "https://open.spotify.com/track/3FUCuf498nFHJXFYR1V9Bd"
+    },
+    {
+      "album": {
+        "name": "\u512a\u3057\u3044\u5f57\u661f",
+        "url": "https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215333,
+      "name": "\u512a\u3057\u3044\u5f57\u661f",
+      "url": "https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c"
+    },
+    {
+      "album": {
+        "name": "\u591c\u306b\u99c6\u3051\u308b",
+        "url": "https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261013,
+      "name": "\u591c\u306b\u99c6\u3051\u308b",
+      "url": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
+    },
+    {
+      "album": {
+        "name": "\u597d\u304d\u3060",
+        "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217512,
+      "name": "\u597d\u304d\u3060",
+      "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
+    },
+    {
+      "album": {
+        "name": "\u602a\u7269",
+        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "\u602a\u7269",
+      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
+    },
+    {
+      "album": {
+        "name": "\u6d77\u306e\u307e\u306b\u307e\u306b",
+        "url": "https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255918,
+      "name": "\u6d77\u306e\u307e\u306b\u307e\u306b",
+      "url": "https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN"
+    },
+    {
+      "album": {
+        "name": "\u795d\u798f",
+        "url": "https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "\u795d\u798f",
+      "url": "https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw"
+    },
+    {
+      "album": {
+        "name": "\u7fa4\u9752",
+        "url": "https://open.spotify.com/album/4nLIK2uFzYUJqLAfJZYgLx"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248444,
+      "name": "\u7fa4\u9752",
+      "url": "https://open.spotify.com/track/0T4AitQuq8IJhWBWuZwkFA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVVbqQrqciCF"
+}

@@ -4,7 +4,7 @@
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-65 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2MbvFGK8Q4PKjddwW7wsN9)
+66 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 | 2021-09-29 |  |
 | [I Don't Live In A Dream \- Live](https://open.spotify.com/track/3ho5QaAxckBv9GluIYqLMT) | [Jackie Greene](https://open.spotify.com/artist/5idHaEmJbiGTZ2MBmhmGMV), [Shannon Sanders](https://open.spotify.com/artist/44DNDJwAygYFhD3Pd7jOuI) | [I Don't Live In A Dream \(Live\)](https://open.spotify.com/album/295AdcebONhviN3QaEu65K) | 5:45 | 2021-09-29 |  |
 | [I Have Learned To Do Without You](https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Only For The Lonely](https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m) | 4:14 | 2021-09-29 |  |
-| [I See It Now](https://open.spotify.com/track/23I2duciX9JdJANkYyrGm6) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/4VL4eRCCfus08MjUiYFB7x) | 2:53 | 2021-09-29 |  |
+| [I See It Now](https://open.spotify.com/track/23I2duciX9JdJANkYyrGm6) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/4VL4eRCCfus08MjUiYFB7x) | 2:53 | 2021-09-29 | 2022-11-28 |
+| [I See It Now](https://open.spotify.com/track/4NhO8oJUelTgNmj3G6JZKr) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/5Gc1jfwEfaGaOq3QllW9rb) | 2:53 | 2021-09-29 |  |
 | [In the Kitchen](https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/7ypdPobffspADW87626GOy) | 4:11 | 2021-09-29 |  |
 | [Jeremiah](https://open.spotify.com/track/23ZnVd3Qa0kwsTJcfHVjJ0) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 3:03 | 2021-09-29 |  |
 | [La Bamba Rebelde](https://open.spotify.com/track/3cyREPYKAMQNfki246eknU) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 5:23 | 2021-09-29 |  |

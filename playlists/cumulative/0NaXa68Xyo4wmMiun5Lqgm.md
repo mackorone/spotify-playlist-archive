@@ -4,7 +4,7 @@
 
 > Turn your commute into a karaoke party\. Stay tuned for the next edition\. This time: Rock Ballads.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/57sEzjJML3pTPJES0k8iiN)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

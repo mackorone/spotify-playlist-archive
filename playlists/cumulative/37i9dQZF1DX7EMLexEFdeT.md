@@ -4,7 +4,7 @@
 
 > Did you hear that?
 
-90 songs - 5 hr 57 min - not published yet
+91 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Queens Will Play](https://open.spotify.com/track/3vxwiMABa7CUkMi6f1jSFh) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [In The Future](https://open.spotify.com/album/6bFa0guTmFUo2DKGiVts6R) | 5:16 | 2022-09-23 |  |
 | [Raise Hell](https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 4:08 | 2022-09-23 |  |
 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 | 2022-09-23 |  |
-| [Running with the Wolves](https://open.spotify.com/track/20qtjUDcb8HH8ouF51BirQ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:14 | 2022-09-23 |  |
+| [Running with the Wolves](https://open.spotify.com/track/20qtjUDcb8HH8ouF51BirQ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:14 | 2022-09-23 | 2022-12-01 |
+| [Running with the Wolves](https://open.spotify.com/track/6qMMJiCtrlHmxGyFUStff8) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:14 | 2022-09-23 |  |
 | [Season of the Witch](https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 4:53 | 2022-09-23 |  |
 | [Seven Devils](https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 5:03 | 2022-09-23 |  |
 | [Silent Shout](https://open.spotify.com/track/6JQFuxLwhvtHRmRMebgiLB) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Silent Shout](https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9) | 4:53 | 2022-09-23 |  |

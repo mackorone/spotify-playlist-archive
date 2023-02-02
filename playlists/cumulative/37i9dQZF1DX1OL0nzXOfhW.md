@@ -2,15 +2,16 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: 麗英
+> 發掘世一超新聲，香港RADAR超新聲正式展開！
 
-68 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
+77 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1973時光機](https://open.spotify.com/track/0jyjo2cXhAkRppXIUvnaEU) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973時光機](https://open.spotify.com/album/0g3iNv1VndF71XB7dL9dzG) | 3:56 | 2022-08-18 |  |
 | [1973的軌跡](https://open.spotify.com/track/5Z75p2CZda3ofl2umIJBmc) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的軌跡](https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T) | 3:09 | 2022-08-18 |  |
 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 | 2022-05-26 |  |
+| [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 |  |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-05-26 |  |
 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 | 2022-05-26 |  |
 | [Cozy City](https://open.spotify.com/track/2BbjYvro6HGorIwGCoDcCw) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [小王子](https://open.spotify.com/album/0dMrxzd1C8h1wITGmdLsWj) | 2:59 | 2022-05-26 |  |
@@ -45,7 +46,8 @@
 | [saturday night](https://open.spotify.com/track/6jl35iYUR4IMQ96o8aWSy2) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [saturday night](https://open.spotify.com/album/3skcQqVKnlKiG4TGqrQVin) | 2:55 | 2022-08-18 |  |
 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 | 2022-05-26 | 2022-10-05 |
 | [Someday My Prince Will Come](https://open.spotify.com/track/66TcAzggm7K6qGrp5e82c3) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 4:12 | 2022-09-15 |  |
-| [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 | 2022-05-26 |  |
+| [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 | 2022-05-26 | 2023-01-20 |
+| [The Bright Side](https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [The Bright Side](https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ) | 4:10 | 2023-01-12 |  |
 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 | 2022-08-18 |  |
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-05-26 |  |
 | [· · 一](https://open.spotify.com/track/6udvMAKpaJ99XOzCv0GrYN) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/2PY375a2tZKvK809i4Y0yg) | 4:36 | 2022-08-18 |  |
@@ -65,16 +67,23 @@
 | [岸](https://open.spotify.com/track/6HddvIovaBHsG3gHuNSt5l) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [岸](https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7) | 3:21 | 2022-10-06 |  |
 | [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 | 2022-11-24 |  |
 | [日出的缺口](https://open.spotify.com/track/7ap3XCfO7Wr5iO4K45sqrk) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [日出的缺口](https://open.spotify.com/album/0f2AGfQ2LZwnjUmbvqY9as) | 3:16 | 2022-10-20 |  |
+| [時間計](https://open.spotify.com/track/5WB57ar8s4gFszp0tBCnn0) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [時間計](https://open.spotify.com/album/2jvVEaHcTs3q3F3WA77RZT) | 3:27 | 2023-01-19 |  |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 |  |
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 |  |
+| [江湖](https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:41 | 2022-12-29 |  |
 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 | 2022-05-26 |  |
 | [無恙](https://open.spotify.com/track/26iJfJ442rlJQuZIAxBDPt) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [無恙](https://open.spotify.com/album/5xeX4hzucOx2sh7BNWxN0S) | 3:35 | 2022-05-26 |  |
 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 | 2022-05-26 |  |
 | [矮妹正傳](https://open.spotify.com/track/6KtWgqqyD4XFJDdOewkg1u) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [矮妹正傳](https://open.spotify.com/album/2OqTqhAmWnMHJH3hzD2me3) | 3:21 | 2022-05-26 |  |
+| [神話](https://open.spotify.com/track/2LghoR88w97O8Szz4AKJWk) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:33 | 2022-12-29 |  |
 | [聽海浪](https://open.spotify.com/track/7nlBO1PoiiB5rjro96w35l) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Midnight.](https://open.spotify.com/artist/0hLugf4oCj37Z2o5Y3Dg6o) | [Bluesea EP \(Extended Version\)](https://open.spotify.com/album/3mQOhYbV2Q7TulGiPcXZzK) | 3:32 | 2022-08-18 |  |
+| [至尊寶](https://open.spotify.com/track/3ttnCFGnBXNrwci9N8a5NK) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [至尊寶](https://open.spotify.com/album/4zU7ZbEFX2K0nkaFstuHfr) | 3:48 | 2022-12-01 |  |
+| [莊](https://open.spotify.com/track/3EzQ6PZT9eMDKUxsxwFDVt) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 2:50 | 2022-12-29 |  |
+| [角度 \(feat\. ZAIN\)](https://open.spotify.com/track/1fEOejvs3lGYCkdTmicb8s) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 4:29 | 2022-12-29 |  |
 | [跌嘢唔好搵](https://open.spotify.com/track/06bzWBi4FyF85A57GlV4H8) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/6IovMmC40xqVfBCzXwxChg) | 3:11 | 2022-05-26 | 2022-07-29 |
 | [跌嘢唔好搵](https://open.spotify.com/track/4i1RCwJXyCM8ay5sXJTK2s) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/1qjK50aArwff8NhitLm8KT) | 3:11 | 2022-07-28 |  |
 | [距離](https://open.spotify.com/track/4jxVPx9LaVbEtJlWTUcqQ1) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [距離](https://open.spotify.com/album/2LzTqzNDP0u9Fh84oF6dE8) | 4:22 | 2022-05-26 | 2022-11-25 |
+| [長命斜 \(feat\. PetPetShawn & Polar G\)](https://open.spotify.com/track/28tAShSWb3LVHkmjIG2Jbi) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM), [Polar G](https://open.spotify.com/artist/3uALJGaW8zzDcfuzKftTYL) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:34 | 2022-12-29 |  |
 | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/track/3TewUoxPgSIvXOT0IgPf1i) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [Geniuz F the FUTURE](https://open.spotify.com/artist/447RvE0QN6IQgxWbllfL2g) | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/album/084SZr4OQdAn7MH2GS3X5G) | 3:27 | 2022-05-26 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

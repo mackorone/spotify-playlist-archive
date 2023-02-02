@@ -4,7 +4,7 @@
 
 > Finally that person that we've missed so much is home\. This deserves  a party!
 
-70 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/6ZzaRwkIqkDTAxx4Nmt8Nv)
+70 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

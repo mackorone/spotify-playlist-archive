@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8NT7BzoF8r.md) - [plain]
 
 > The fantastic French producer <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAk">Myd</a> warms our heart and soul with an indie dance mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122 likes - 11 songs - 59 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,366 likes - 11 songs - 59 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 
 > 情人節有麗英@小薯茄為你揀選情歌單《擁抱單身的你》，單拖過節有我哋陪你呀！
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,941 likes - 25 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,012 likes - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [明明單身最開心](https://open.spotify.com/track/4tEhLCTI4gaDA3uyuuA2sR) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [明明單身最開心](https://open.spotify.com/album/6XTBlKsMZ63NzNDO6MhSN6) | 3:53 |
-| 2 | [Pretender](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 5:26 |
+| 2 | [Pretender](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 5:26 |
 | 3 | [Sokkenai](https://open.spotify.com/track/1rYg6v89UhWyPMbr8uf4fl) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv) | 6:32 |
 | 4 | [深夜浪漫](https://open.spotify.com/track/5V17L4QLIZpZ3sZtgHlmej) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [深夜浪漫](https://open.spotify.com/album/3DfW1z9k62nYQ4s4XJh7Gi) | 3:16 |
 | 5 | [コイワズライ](https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 3:55 |

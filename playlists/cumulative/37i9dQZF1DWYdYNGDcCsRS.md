@@ -4,7 +4,7 @@
 
 > Legendary Swedish house producer <a href="spotify:artist:15xvsJMf8phaNa1LYvL9Qv">John Dahlbäck</a> takes the decks for a dark and melodic mix perfect for the long summer nights.
 
-17 songs - 58 min 36 sec - [published](https://open.spotify.com/playlist/0Nh3dusPqsN4lqUegMBk4B)
+17 songs - 58 min 36 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

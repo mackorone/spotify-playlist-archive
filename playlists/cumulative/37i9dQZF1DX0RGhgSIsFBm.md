@@ -4,7 +4,7 @@
 
 > A collection of classic horror and spooky stories, from Stoker to Hitchcock.
 
-134 songs - 1 day 18 hr 10 min - [published](https://open.spotify.com/playlist/3QuUmxQpDsOeCDX4P6b5tf)
+134 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

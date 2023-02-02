@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-08",
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
   "name": "Stranger Ambient",
-  "published_playlist_ids": [
-    "35JGd7xkZ4aXiacB1Wn3xh"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 480506,
       "name": "#14",
       "url": "https://open.spotify.com/track/2KhubLGvTQRSmsXLy10JU1"
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 211373,
       "name": "#6",
       "url": "https://open.spotify.com/track/6ucdKYdgqPpt5c7QqPAAN1"
@@ -441,7 +438,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192757,
       "name": "Bathyscaphe",
       "url": "https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I"
@@ -647,7 +644,7 @@
     {
       "album": {
         "name": "The Digging Remedy",
-        "url": "https://open.spotify.com/album/0UoUjQNjDBpBGsuTpIEIz4"
+        "url": "https://open.spotify.com/album/0WKm16Qa3ZrFVWyA8v8OJz"
       },
       "artists": [
         {
@@ -658,6 +655,24 @@
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Do Matter",
+      "url": "https://open.spotify.com/track/49jtaVSPf7RzqtFfHlFOLr"
+    },
+    {
+      "album": {
+        "name": "The Digging Remedy",
+        "url": "https://open.spotify.com/album/0UoUjQNjDBpBGsuTpIEIz4"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 220920,
       "name": "Do Matter",
       "url": "https://open.spotify.com/track/6ZQ3XvLBrmwnoNFtU0c2X5"
@@ -691,7 +706,7 @@
           "url": "https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186321,
@@ -765,7 +780,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": "2022-12-14",
       "duration_ms": 194946,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83"
@@ -1173,7 +1188,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 254624,
       "name": "Mannequin Metric",
       "url": "https://open.spotify.com/track/2B32tq6y3LxOnV9OkCZLOe"
@@ -1289,7 +1304,7 @@
     {
       "album": {
         "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
       },
       "artists": [
         {
@@ -1300,6 +1315,24 @@
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 321453,
+      "name": "Music Is Math",
+      "url": "https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 321453,
       "name": "Music Is Math",
       "url": "https://open.spotify.com/track/3vBJYnujT3yxLjLEG1jtDS"
@@ -1371,10 +1404,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 91706,
       "name": "Olson",
       "url": "https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91706,
+      "name": "Olson",
+      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
     },
     {
       "album": {
@@ -1473,10 +1524,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 287403,
       "name": "Reach For The Dead",
       "url": "https://open.spotify.com/track/2hgerKBJ7tetp3JfL5OZX9"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287403,
+      "name": "Reach For The Dead",
+      "url": "https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ"
     },
     {
       "album": {
@@ -1491,7 +1560,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 256401,
       "name": "Sick Times",
       "url": "https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8"
@@ -1545,7 +1614,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 91994,
       "name": "Slipping Away (In a Dream)",
       "url": "https://open.spotify.com/track/7puJT8Dq180XAnVWs0wLAA"
@@ -1585,7 +1654,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 242232,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx"
@@ -1621,7 +1690,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 217133,
       "name": "Teresa, Lark of Ascension",
       "url": "https://open.spotify.com/track/05d3d97A54UUffKia3WKpJ"

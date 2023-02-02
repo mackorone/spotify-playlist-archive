@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-13",
   "description": "Close the curtains, it's time for some leftfield gems.",
   "name": "Noises After Dark",
-  "published_playlist_ids": [
-    "6h0aBJF4DpxBxWLBMOrNnP"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 271642,
       "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
       "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
+    },
+    {
+      "album": {
+        "name": "2nd Round / FFBH",
+        "url": "https://open.spotify.com/album/7cjAjQbz0Rdh7UnGFLXQE5"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150718,
+      "name": "2nd Round",
+      "url": "https://open.spotify.com/track/0lrsCibEGQd7uP0eJ7T2bk"
     },
     {
       "album": {
@@ -473,7 +488,7 @@
           "url": "https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202388,
@@ -664,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Disco Tech",
+        "url": "https://open.spotify.com/album/3uQZ29VZlBf1s7q63HPBF5"
+      },
+      "artists": [
+        {
+          "name": "DeusExMaschine",
+          "url": "https://open.spotify.com/artist/3hcNCLF1EXk0SHCxe7Rtb9"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139046,
+      "name": "Disco Tech",
+      "url": "https://open.spotify.com/track/6PJ2PkkoyuHQmdq7NFiVGo"
+    },
+    {
+      "album": {
         "name": "DPDR",
         "url": "https://open.spotify.com/album/3SbgsXnMicVH5OkvwNk6O7"
       },
@@ -711,7 +744,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 343129,
       "name": "Easy",
       "url": "https://open.spotify.com/track/34PeugGdjObVPu5esGnFze"
@@ -901,7 +934,7 @@
           "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208274,
@@ -1097,9 +1130,9 @@
           "url": "https://open.spotify.com/artist/02KxlepEQhtmo6Z75oWpcN"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 334095,
       "name": "Happy Metal",
       "url": "https://open.spotify.com/track/1p0CFZpqD1p3xhZGpP4rZJ"
@@ -1205,7 +1238,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 200000,
       "name": "Hey Baby - Edit",
       "url": "https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE"
@@ -1339,7 +1372,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 312700,
       "name": "I've Felt Better - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/776c1GM41sF4ZbWeWiUEgr"
@@ -1411,7 +1444,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 321502,
       "name": "Idontknow",
       "url": "https://open.spotify.com/track/7nSBHckG4tTFkp0xqNZDs5"
@@ -1427,9 +1460,9 @@
           "url": "https://open.spotify.com/artist/04zsBrhqOL2WNQvd5MDupE"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 311664,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/4iTuPWFi9iJL5Zq6W0EEtK"
@@ -1472,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "IHEARTPARIS",
+        "url": "https://open.spotify.com/album/4fagOwyVkX7lSzA4Ma0snt"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Boxia",
+          "url": "https://open.spotify.com/artist/1OU8mX7tZjCf4u3Ege0JX3"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350943,
+      "name": "IHEARTPARIS",
+      "url": "https://open.spotify.com/track/1q4RIjVsZ7lBsW3wZhranD"
+    },
+    {
+      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
       },
@@ -1483,7 +1538,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 301061,
       "name": "Into The Light",
       "url": "https://open.spotify.com/track/42NPEbb30IfU6NLnPpLRQq"
@@ -1677,9 +1732,9 @@
           "url": "https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 390500,
       "name": "Kill The System - Matrixxman Remix",
       "url": "https://open.spotify.com/track/6TGaoiwDkG3w4d2UMQermN"
@@ -1837,9 +1892,9 @@
           "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 264585,
       "name": "Love You",
       "url": "https://open.spotify.com/track/1hxl37Z76KQ2PKq7QZtinx"
@@ -1897,7 +1952,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-25",
       "duration_ms": 524705,
       "name": "M-type",
       "url": "https://open.spotify.com/track/0bHco4SUI1EJmxtcRohKIn"
@@ -2005,7 +2060,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 312677,
       "name": "Midnight Shift",
       "url": "https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS"
@@ -2409,7 +2464,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-25",
       "duration_ms": 289445,
       "name": "Polymer Pyramid",
       "url": "https://open.spotify.com/track/0SSgDTHqX7y3JwJ47XUtmx"
@@ -2443,7 +2498,7 @@
           "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 277239,
@@ -2463,7 +2518,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2022-12-14",
       "duration_ms": 370393,
       "name": "Proton",
       "url": "https://open.spotify.com/track/7qYLpCBd3QTlCJY1BXpzCQ"
@@ -2501,9 +2556,9 @@
           "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 229290,
       "name": "Repeater",
       "url": "https://open.spotify.com/track/5nFk84BnSMagKAS1exyWsd"
@@ -2601,6 +2656,24 @@
       "duration_ms": 297253,
       "name": "Saku",
       "url": "https://open.spotify.com/track/2h8OnhWZCRGNjptZ9IurZw"
+    },
+    {
+      "album": {
+        "name": "Sample Minds",
+        "url": "https://open.spotify.com/album/0Ki1ujx7omMHN0Mah2Mn3t"
+      },
+      "artists": [
+        {
+          "name": "Elisa Bee",
+          "url": "https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297440,
+      "name": "Sample Minds",
+      "url": "https://open.spotify.com/track/4RywHmfGP2yzzYTxsCNQH1"
     },
     {
       "album": {
@@ -2711,6 +2784,24 @@
       "duration_ms": 271274,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/4RrMjTMEkksPxC4zVhQKAO"
+    },
+    {
+      "album": {
+        "name": "Shifty",
+        "url": "https://open.spotify.com/album/09eUqNU7UxERiYXh5DQPgd"
+      },
+      "artists": [
+        {
+          "name": "Ashee",
+          "url": "https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194418,
+      "name": "Sisqo",
+      "url": "https://open.spotify.com/track/19B9jkBiEZgxXkx4MVFOCk"
     },
     {
       "album": {
@@ -3205,7 +3296,7 @@
           "url": "https://open.spotify.com/artist/3SZBUeVJfGLUpAPNEQbBKk"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 334040,
@@ -3269,6 +3360,24 @@
       "duration_ms": 299986,
       "name": "What Could I Say?",
       "url": "https://open.spotify.com/track/4XDPNzYcvHEeZRfUw1Er4D"
+    },
+    {
+      "album": {
+        "name": "What Is House",
+        "url": "https://open.spotify.com/album/2jQksOKSO8BBFiTGJgsu5j"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "What Is House",
+      "url": "https://open.spotify.com/track/5r4q7XKiX4KbCriVk8kM3p"
     },
     {
       "album": {
@@ -3343,9 +3452,9 @@
           "url": "https://open.spotify.com/artist/5XhDw44AriiKxTl7Q7kIMQ"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 148076,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/28bBwCM8Uyc10LPYQYdeRU"

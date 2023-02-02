@@ -1,13 +1,29 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 174263,
+  "num_followers": 189182,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMDE1YTUzYjg5MGQzZWE1OGEwNDQwNWVmMGUyYTc2ZTkw",
+  "snapshot_id": "MTYzODgwNjA0OCwwMDAwMDAwMDAwMTUzMWQyM2E0OGJmODgzYjNmZDE1ZmE5MjhjZWNl",
   "tracks": [
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 234493,
       "name": "Man! I Feel Like A Woman!",
       "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -59,18 +59,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -107,38 +107,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Love Story (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
-    },
-    {
-      "added_at": "2021-12-06 15:54:08",
-      "album": {
-        "name": "Cars (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Life is a Highway",
-      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Poems, Prayers and Promises",
         "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
       },
@@ -155,6 +123,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 211893,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
+    },
+    {
+      "added_at": "2021-12-06 15:54:08",
+      "album": {
+        "name": "Cars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -203,18 +203,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+        "name": "A Lot About Livin' (And A Little 'Bout Love)",
+        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+      "duration_ms": 148160,
+      "name": "Chattahoochee",
+      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "A Lot About Livin' (And A Little 'Bout Love)",
-        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 148160,
-      "name": "Chattahoochee",
-      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
+      "duration_ms": 263760,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd"
     },
     {
       "added_at": "2021-12-06 15:54:08",
@@ -283,18 +283,34 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+        "name": "Strait Out Of The Box",
+        "url": "https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 263760,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd"
+      "duration_ms": 200666,
+      "name": "Check Yes Or No",
+      "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -311,22 +327,6 @@
       "duration_ms": 201106,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -363,70 +363,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Strait Out Of The Box",
-        "url": "https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Check Yes Or No",
-      "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "My Maria",
-      "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
-    },
-    {
-      "added_at": "2021-12-06 15:54:08",
-      "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Would You Go With Me",
-      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Lonely Grill",
         "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
@@ -457,52 +393,20 @@
       "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
     },
     {
-      "added_at": "2021-12-06 15:54:08",
-      "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
-    },
-    {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Forever and Ever, Amen",
-      "url": "https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "In Color",
-      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
+      "duration_ms": 208106,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -523,6 +427,54 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+    },
+    {
+      "added_at": "2021-12-06 15:54:08",
+      "album": {
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Would You Go With Me",
+      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Forever and Ever, Amen",
+      "url": "https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
@@ -535,6 +487,54 @@
       "duration_ms": 287266,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "In Color",
+      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Love Story (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -569,36 +569,20 @@
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
-      "added_at": "2021-09-23 20:29:34",
+      "added_at": "2021-12-06 15:54:08",
       "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 214866,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "John Michael Montgomery",
-        "url": "https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk"
-      },
-      "artists": [
-        {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Sold (The Grundy County Auction Incident)",
-      "url": "https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR"
+      "duration_ms": 214106,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -619,50 +603,34 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+        "name": "John Michael Montgomery",
+        "url": "https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
         }
       ],
-      "duration_ms": 214293,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
+      "duration_ms": 152186,
+      "name": "Sold (The Grundy County Auction Incident)",
+      "url": "https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR"
     },
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "I'm Countryfied",
-        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
       "artists": [
         {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 144186,
-      "name": "Louisiana Saturday Night",
-      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Carrying Your Love With Me",
-        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Carrying Your Love With Me",
-      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
+      "duration_ms": 214866,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -683,50 +651,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "The Road To Here",
-        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
         }
       ],
-      "duration_ms": 272346,
-      "name": "Boondocks",
-      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
-    },
-    {
-      "added_at": "2021-12-06 15:54:08",
-      "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Always Never The Same",
-        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Write This Down",
-      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -743,6 +679,74 @@
       "duration_ms": 223832,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 152866,
+      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
+      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Carrying Your Love With Me",
+        "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Carrying Your Love With Me",
+      "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "The Road To Here",
+        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -779,22 +783,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
-      },
-      "artists": [
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
       },
@@ -827,22 +815,50 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+        "name": "Always Never The Same",
+        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 152866,
-      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
-      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
+      "duration_ms": 219600,
+      "name": "Write This Down",
+      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Did I Shave My Legs For This?",
+        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
+      },
+      "artists": [
+        {
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
+    },
+    {
+      "added_at": "2021-12-06 15:54:08",
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -863,18 +879,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Did I Shave My Legs For This?",
-        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
+        "name": "Diamond Rio",
+        "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
       },
       "artists": [
         {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
         }
       ],
-      "duration_ms": 291533,
-      "name": "Strawberry Wine",
-      "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
+      "duration_ms": 198333,
+      "name": "Meet In the Middle",
+      "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -895,34 +911,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Diamond Rio",
-        "url": "https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
       "artists": [
         {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Meet In the Middle",
-      "url": "https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+      "duration_ms": 173466,
+      "name": "Teach Your Children",
+      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Old 8 x 10",
-        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Deeper Than the Holler",
-      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 224866,
       "name": "American Honey",
       "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Everywhere We Go",
         "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
@@ -1039,66 +1023,34 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 232106,
-      "name": "Tim McGraw",
-      "url": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa"
+      "duration_ms": 248280,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
     },
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Here For The Party",
-        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
+        "name": "Old 8 x 10",
+        "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
       },
       "artists": [
         {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 221333,
-      "name": "Redneck Woman",
-      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
-    },
-    {
-      "added_at": "2021-12-06 15:54:08",
-      "album": {
-        "name": "My Kind Of Livin'",
-        "url": "https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl"
-      },
-      "artists": [
-        {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        }
-      ],
-      "duration_ms": 230373,
-      "name": "Redneck Yacht Club",
-      "url": "https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Teach Your Children",
-      "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
+      "duration_ms": 219080,
+      "name": "Deeper Than the Holler",
+      "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1119,18 +1071,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "I Walk the Line (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 176533,
-      "name": "I Walk the Line",
-      "url": "https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE"
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1151,6 +1103,38 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Here For The Party",
+        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Redneck Woman",
+      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "I Walk the Line (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 176533,
+      "name": "I Walk the Line",
+      "url": "https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "American Man: Greatest Hits Vol. II",
         "url": "https://open.spotify.com/album/3Ayxk9tKhpAE9gffRUWfDi"
       },
@@ -1163,6 +1147,70 @@
       "duration_ms": 224960,
       "name": "You're Gonna Miss This",
       "url": "https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "It's All About to Change",
+        "url": "https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Here's a Quarter (Call Someone Who Cares)",
+      "url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Tim McGraw",
+      "url": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
+      },
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2021-12-06 15:54:08",
+      "album": {
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "duration_ms": 230373,
+      "name": "Redneck Yacht Club",
+      "url": "https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1199,54 +1247,6 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Rose Garden",
-        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
-      },
-      "artists": [
-        {
-          "name": "Lynn Anderson",
-          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Little Bit Of Life",
-        "url": "https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F"
-      },
-      "artists": [
-        {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        }
-      ],
-      "duration_ms": 228653,
-      "name": "International Harvester",
-      "url": "https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
-    },
-    {
-      "added_at": "2021-12-06 15:54:08",
-      "album": {
-        "name": "Josh Gracin",
-        "url": "https://open.spotify.com/album/1V4qP0BJJBZsY2LOkcfwE0"
-      },
-      "artists": [
-        {
-          "name": "Josh Gracin",
-          "url": "https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Nothin' To Lose",
-      "url": "https://open.spotify.com/track/7oiCqfE8Wjk8wf0pFTgL2H"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Little Bit Of Life",
+        "url": "https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "duration_ms": 228653,
+      "name": "International Harvester",
+      "url": "https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
       },
@@ -1343,34 +1343,18 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Judge Jerrod & The Hung Jury",
-        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
+        "name": "If I Could Make a Living",
+        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
       },
       "artists": [
         {
-          "name": "Jerrod Niemann",
-          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Lover, Lover",
-      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "You Do Your Thing",
-        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Something to Be Proud Of",
-      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
+      "duration_ms": 133853,
+      "name": "If I Could Make a Living",
+      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1407,66 +1391,34 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+        "name": "Judge Jerrod & The Hung Jury",
+        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
         }
       ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+      "duration_ms": 193733,
+      "name": "Lover, Lover",
+      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
     },
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "If I Could Make a Living",
-        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+        "name": "You Do Your Thing",
+        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
-      "duration_ms": 133853,
-      "name": "If I Could Make a Living",
-      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Living Hard",
-        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Watching Airplanes",
-      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Let's Be Us Again",
-        "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "Mr. Mom",
-      "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
+      "duration_ms": 256600,
+      "name": "Something to Be Proud Of",
+      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1487,6 +1439,54 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
+        "name": "Living Hard",
+        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Watching Airplanes",
+      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
+    },
+    {
+      "added_at": "2021-12-06 15:54:08",
+      "album": {
+        "name": "Josh Gracin",
+        "url": "https://open.spotify.com/album/1V4qP0BJJBZsY2LOkcfwE0"
+      },
+      "artists": [
+        {
+          "name": "Josh Gracin",
+          "url": "https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Nothin' To Lose",
+      "url": "https://open.spotify.com/track/7oiCqfE8Wjk8wf0pFTgL2H"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Let's Be Us Again",
+        "url": "https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "Mr. Mom",
+      "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
         "name": "Coal Miner's Daughter",
         "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
@@ -1503,40 +1503,8 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "I Loved Her First",
-        "url": "https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f"
-      },
-      "artists": [
-        {
-          "name": "Heartland",
-          "url": "https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "I Loved Her First",
-      "url": "https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "Mud On The Tires",
-        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Mud on the Tires",
-      "url": "https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE"
-    },
-    {
-      "added_at": "2021-09-23 20:29:34",
-      "album": {
-        "name": "It's All About to Change",
-        "url": "https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW"
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
       "artists": [
         {
@@ -1544,9 +1512,41 @@
           "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 152333,
-      "name": "Here's a Quarter (Call Someone Who Cares)",
-      "url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "Martina",
+        "url": "https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "This One's for the Girls",
+      "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
+    },
+    {
+      "added_at": "2021-09-23 20:29:34",
+      "album": {
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2021-09-23 20:29:34",
@@ -1567,50 +1567,50 @@
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Diggin' Up Bones",
-      "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+      "duration_ms": 246440,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
     },
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "I'm From The Country",
-        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
+        "name": "Third Rock From The Sun",
+        "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 213973,
-      "name": "I'm From The Country - Single Version",
-      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
+      "duration_ms": 216200,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
     },
     {
       "added_at": "2021-09-23 20:29:34",
       "album": {
-        "name": "Be Here",
-        "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
+        "name": "I Loved Her First",
+        "url": "https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Heartland",
+          "url": "https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9"
         }
       ],
-      "duration_ms": 224629,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
+      "duration_ms": 212880,
+      "name": "I Loved Her First",
+      "url": "https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ"
     }
   ],
   "unique_name": "Raised on Country",

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "Simmer down with this relaxing selection of old and new Reggae.",
   "name": "Chilled Reggae",
-  "published_playlist_ids": [
-    "0Jg6LvqlfA99j1rS3eLGZd"
-  ],
   "tracks": [
     {
       "album": {
@@ -67,6 +64,24 @@
       "duration_ms": 219040,
       "name": "Brown Skin",
       "url": "https://open.spotify.com/track/1m2c9ZjrXRGRvvPhVOUXrV"
+    },
+    {
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8"
+      },
+      "artists": [
+        {
+          "name": "Etana",
+          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200370,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We"
     },
     {
       "album": {
@@ -581,7 +596,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 207000,
       "name": "Love Overdue",
       "url": "https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio"
@@ -737,7 +752,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 259880,
       "name": "New Blessings",
       "url": "https://open.spotify.com/track/63foYg1Lz1djaWQizq7qjX"
@@ -1107,6 +1122,24 @@
     {
       "album": {
         "name": "As I Am",
+        "url": "https://open.spotify.com/album/4jwdfSqcclUXP5KGmZcTE8"
+      },
+      "artists": [
+        {
+          "name": "Julian Marley",
+          "url": "https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270694,
+      "name": "Straighter Roads",
+      "url": "https://open.spotify.com/track/38BC1rrHVvWgYmt51cg3pw"
+    },
+    {
+      "album": {
+        "name": "As I Am",
         "url": "https://open.spotify.com/album/6xmVHLUAKoduiLAyQ7ZCjX"
       },
       "artists": [
@@ -1135,7 +1168,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-11-30",
       "duration_ms": 245678,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/11SeVWsf1VtRsrZJNfrOuv"
@@ -1340,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8"
+      },
+      "artists": [
+        {
+          "name": "Etana",
+          "url": "https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240937,
+      "name": "Truly",
+      "url": "https://open.spotify.com/track/41Q0CyYopxjKXpM9EXeVHR"
+    },
+    {
+      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1"
       },
@@ -1351,7 +1402,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 192000,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt"

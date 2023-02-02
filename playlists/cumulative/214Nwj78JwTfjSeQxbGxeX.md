@@ -4,7 +4,7 @@
 
 > A different option for your New Year's Eve party\. Sweet pop, rock, and singer/songwriter tunes about this special holiday.
 
-28 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/4P577G96GUNn1BMUbl35Kj)
+28 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

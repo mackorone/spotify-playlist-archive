@@ -4,7 +4,7 @@
 
 > Unforgettable love songs from the 1950s.
 
-78 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/4ZjJlkSxHJnoI3jnaOXFJU)
+78 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

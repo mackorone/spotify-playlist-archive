@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "The perfect songs for the perfect day.",
   "name": "Country Wedding",
-  "published_playlist_ids": [
-    "2tqwvqLztEVOvwl4EXM922"
-  ],
   "tracks": [
     {
       "album": {
@@ -1232,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "I'll Never",
+        "url": "https://open.spotify.com/album/18EtwJgfmxArCatnS6w49T"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "I'll Never",
+      "url": "https://open.spotify.com/track/2c9WCG3eAxbCUiEbvAVj2z"
+    },
+    {
+      "album": {
         "name": "I'll Say I Do",
         "url": "https://open.spotify.com/album/6sDNyjuQ8lvAKoc6qf6K6A"
       },
@@ -1863,6 +1878,24 @@
       "duration_ms": 248200,
       "name": "She's In Love With The Boy - Single Version",
       "url": "https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN"
+    },
+    {
+      "album": {
+        "name": "She's Somebody's Daughter (The Wedding Version)",
+        "url": "https://open.spotify.com/album/2gofZasmvwfD1dkgQPORTW"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210475,
+      "name": "She's Somebody's Daughter (The Wedding Version)",
+      "url": "https://open.spotify.com/track/6gSZX6W69nGvEBzlvfvvz2"
     },
     {
       "album": {

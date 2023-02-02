@@ -4,7 +4,7 @@
 
 > Get Ready! Show Time! iKON's new EP 'FLASHBACK' is out now! This is iKON playlist is composed of songs that tell iKON's honest and sentimental stories.
 
-62 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/1B4kGlPntqKPPV2ND1sBSP)
+62 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

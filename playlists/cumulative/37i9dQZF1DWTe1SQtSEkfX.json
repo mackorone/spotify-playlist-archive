@@ -2,9 +2,223 @@
   "date_first_scraped": "2022-05-01",
   "description": "Is that a UFO? Hear stories, predictions, and more as Joe talks about alien life.",
   "name": "JRE Goes Extra-Terrestrial",
-  "published_playlist_ids": [
-    "6hRvHsidodBqg3ZGjSO4xf"
+  "tracks": [
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 6049564,
+      "name": "#1029 - Tom DeLonge",
+      "url": "https://open.spotify.com/episode/2ybsXdWAtxqLBdRByLb2YG"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 8629742,
+      "name": "#1130 - Adam Frank",
+      "url": "https://open.spotify.com/episode/5IEuVVOlKB7MmwK9bTiaRz"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 9928782,
+      "name": "#1284 - Graham Hancock",
+      "url": "https://open.spotify.com/episode/28NjcnhgduoERiKLaIYO4x"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 9452193,
+      "name": "#1299 - Annie Jacobsen",
+      "url": "https://open.spotify.com/episode/2IbxzgOjmevALKdkgzjIOm"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 8084236,
+      "name": "#1315 - Bob Lazar & Jeremy Corbell",
+      "url": "https://open.spotify.com/episode/7Gg4Qi578G5SXoEtaLVVpx"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 8403882,
+      "name": "#1351 - Dan Aykroyd",
+      "url": "https://open.spotify.com/episode/10CvRcZkxYb4jbaYBTluVG"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 6865606,
+      "name": "#1361 - Cmdr. David Fravor & Jeremy Corbell",
+      "url": "https://open.spotify.com/episode/16If5PVe6ouxeDwNbtu0iC"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10922388,
+      "name": "#1465 - Tim Pool",
+      "url": "https://open.spotify.com/episode/7jaDnzMVU7krcu6hK1qKO6"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10559657,
+      "name": "#1510 - George Knapp and Jeremy Corbell",
+      "url": "https://open.spotify.com/episode/3RIsqi1Axn6zPGd0IpCRgf"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10975849,
+      "name": "#1853 - Jeremy Corbell",
+      "url": "https://open.spotify.com/episode/0gYVutFOYsHaklxO0DLcS7"
+    },
+    {
+      "album": {
+        "name": "JRE Clips",
+        "url": "https://open.spotify.com/show/1LMmQF9PH8LjYrktU0Oq5Y"
+      },
+      "artists": [
+        {
+          "name": "JRE Clips",
+          "url": "https://open.spotify.com/show/1LMmQF9PH8LjYrktU0Oq5Y"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1464366,
+      "name": "Joe Rogan and Tim Pool Go DEEP on UFOs",
+      "url": "https://open.spotify.com/episode/1HleJniS6eIBdhT2qghxAQ"
+    },
+    {
+      "album": {
+        "name": "JRE Clips",
+        "url": "https://open.spotify.com/show/1LMmQF9PH8LjYrktU0Oq5Y"
+      },
+      "artists": [
+        {
+          "name": "JRE Clips",
+          "url": "https://open.spotify.com/show/1LMmQF9PH8LjYrktU0Oq5Y"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 886955,
+      "name": "What Was Happening Before the Big Bang? w/Brian Greene | Joe Rogan",
+      "url": "https://open.spotify.com/episode/02U3tUSM0MWZqM3Ezd5g3Z"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTe1SQtSEkfX"
 }

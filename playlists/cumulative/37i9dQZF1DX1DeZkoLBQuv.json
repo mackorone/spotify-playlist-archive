@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-25",
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
   "name": "Louvores de Natal",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -234,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi"
+      },
+      "artists": [
+        {
+          "name": "Purples",
+          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279520,
+      "name": "Emanuel",
+      "url": "https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR"
+    },
+    {
+      "album": {
         "name": "Eu e o Rei (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
       },
@@ -289,7 +306,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 198228,
       "name": "Feliz Natal",
       "url": "https://open.spotify.com/track/5gYzSC8RstOKVyM6HHgVKA"
@@ -602,6 +619,24 @@
     },
     {
       "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Trio Nascimento",
+          "url": "https://open.spotify.com/artist/0nmfUUkYqGngUmVhJfGAFw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 211440,
+      "name": "No Humilde Pres\u00e9pio (Away In a Manger)",
+      "url": "https://open.spotify.com/track/6FW7SRtspdfCTaTv4GM5j3"
+    },
+    {
+      "album": {
         "name": "Noite de Paz",
         "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
       },
@@ -635,7 +670,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 284200,
       "name": "Noite Feliz (Stille Nacht)",
       "url": "https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT"
@@ -733,6 +768,28 @@
       "duration_ms": 245160,
       "name": "O Nome de Jesus - Ac\u00fastico Ao Vivo",
       "url": "https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz"
+    },
+    {
+      "album": {
+        "name": "O Primeiro Natal",
+        "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "O Primeiro Natal",
+      "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
     },
     {
       "album": {
@@ -844,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Folk Christmas",
+        "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171571,
+      "name": "Surgem Anjos Proclamando",
+      "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
+    },
+    {
+      "album": {
         "name": "Diante do Trono (Ao Vivo)",
         "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
       },
@@ -877,7 +952,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-06",
       "duration_ms": 255986,
       "name": "Tenha pra Voc\u00ea um Feliz Natal",
       "url": "https://open.spotify.com/track/1y0oEieIbO267rpUEpvgMM"
@@ -895,7 +970,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 218314,
       "name": "Vem Cear",
       "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
@@ -917,6 +992,24 @@
       "duration_ms": 193000,
       "name": "Vem Chegando o Natal",
       "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
+    },
+    {
+      "album": {
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 202013,
+      "name": "Vinde Celebremos",
+      "url": "https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU"
     },
     {
       "album": {

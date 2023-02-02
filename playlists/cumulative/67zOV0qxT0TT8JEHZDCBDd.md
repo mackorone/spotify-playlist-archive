@@ -4,7 +4,7 @@
 
 > Missa inte Miguel på Azalea\-scenen på FREDAG / 21.15
 
-10 songs - 34 min 31 sec - [published](https://open.spotify.com/playlist/498hOiqTWX93usqdVFXoUq)
+10 songs - 34 min 31 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

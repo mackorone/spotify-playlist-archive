@@ -2,14 +2,15 @@
 
 ### [\#GRWM Telugu](https://open.spotify.com/playlist/37i9dQZF1DX442zFw7L5ce)
 
-> Songs that will remind you of the QUEEN you are, while you get ready to slay the world! <br/>Cover : Pooja Hegde
+> Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-109 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/6CiuZSUfHYczuo85ChaXYn)
+111 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangali, Kid Sathya](https://open.spotify.com/artist/0msjNpDNwMgjbKmjbcwGHU) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 | 2022-10-17 |  |
 | [Adhento Gaani Vunnapaatuga](https://open.spotify.com/track/6jR5F8G9ZzCEQo27UgUrN6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Adhento Gaani Vunnapaatuga\(Jersey\)](https://open.spotify.com/album/00S5jU14zx45cD2F6RqV22) | 3:57 | 2021-10-21 | 2022-10-14 |
+| [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swaranlata](https://open.spotify.com/artist/4tbAszpshMTxXt5UvP7rU9) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 | 2023-01-30 |  |
 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan, Gopika poornima](https://open.spotify.com/artist/2XvK1qhSh7sTup7WKTrnoi) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 | 2022-10-13 |  |
 | [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 | 2022-10-13 |  |
 | [Andaala Raakshsive](https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Oke Okkadu](https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu) | 6:13 | 2022-10-13 |  |
@@ -107,13 +108,14 @@
 | [Undiporaadhey \- From "Hushaaru"](https://open.spotify.com/track/4e4XPlM5s86iz9YXdUuIMg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Musical Magic of Sid Sriram](https://open.spotify.com/album/7vXgMTFLWO84G84kGc8KxJ) | 2:53 | 2021-10-21 | 2022-07-29 |
 | [Urumulu Nimuvvalai](https://open.spotify.com/track/2rTmVSZOPnS9jrgcl6EjV0) | [Rajesh, Sujatha](https://open.spotify.com/artist/13Da3IxfSztUGGPXJOy6i4) | [Chandralekha](https://open.spotify.com/album/0u0QnbKBaBNm3yRNps6KRl) | 4:31 | 2022-10-13 |  |
 | [Vachindamma](https://open.spotify.com/track/4XgpSQ4nGBBqu8iNNFCYLH) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2S7yFArvQ3gpnuiza1o3s1) | 4:10 | 2021-10-21 | 2022-07-29 |
-| [Vachindamma](https://open.spotify.com/track/6obKaXHU2avqfLZFPjGm4K) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 4:10 | 2021-10-21 | 2022-11-13 |
+| [Vachindamma](https://open.spotify.com/track/6obKaXHU2avqfLZFPjGm4K) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 4:10 | 2021-10-21 |  |
 | [Vachindamma](https://open.spotify.com/track/7sQs1t47PqfKa1L7kOtLko) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Expectional Music Of Gopi Sundar](https://open.spotify.com/album/2YjU5LftLFtIiKDLa7cJ33) | 4:10 | 2021-10-21 |  |
 | [Vayari Bhama](https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu) | [Ramana Gogula](https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv) | [Thammudu](https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh) | 5:16 | 2022-10-13 |  |
 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 | 2021-10-21 | 2022-10-14 |
 | [Ye Chilipi](https://open.spotify.com/track/3LYt0b1ljHUYoG5YL2WwWP) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl) | [Gharshana\-New](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 5:15 | 2022-10-13 |  |
 | [Ye Chota Nuvvunna \(From "Saaho"\) \(feat\. Tulsi Kumar, Haricharan Seshadri\)](https://open.spotify.com/track/499rs8fMaltXk2BOlq9P0m) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Ye Chota Nuvvunna \(From "Saaho"\)](https://open.spotify.com/album/3ZrZpzTnY2dG9j6deMtuRq) | 3:14 | 2021-10-21 | 2022-10-14 |
 | [Ye Manishike Majiliyo](https://open.spotify.com/track/6yfEswWlijoaqCh4awvtJV) | [Arun Gopan](https://open.spotify.com/artist/5OAYaHDcHFCxxg4xkkzNrU), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Baby Anusha](https://open.spotify.com/artist/4vFKx0H0VA1QXc5TV7sqSj) | [Majili](https://open.spotify.com/album/0SJwTqboAS7rX85m11nMTn) | 4:05 | 2021-10-21 | 2022-10-14 |
+| [Yentha Sakkagunnave](https://open.spotify.com/track/6nhLm8GEkkH9kunfqdAFcO) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Rangasthalam](https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP) | 4:22 | 2023-01-10 |  |
 | [Yenti Yenti](https://open.spotify.com/track/4KOG5lRsY1Ja55bids06vB) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2S7yFArvQ3gpnuiza1o3s1) | 3:19 | 2021-10-21 | 2022-07-29 |
 | [Yenti Yenti](https://open.spotify.com/track/7tyNbBsDOWmyLV3bWAmqQt) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Expectional Music Of Gopi Sundar](https://open.spotify.com/album/2YjU5LftLFtIiKDLa7cJ33) | 3:19 | 2021-10-21 | 2022-10-14 |
 | [Zindabad Zindabad](https://open.spotify.com/track/2QYaPFQkOcUZYfylyJHiH6) | [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp), [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Zindabad Zindabad \(From "Ismart Shankar"\)](https://open.spotify.com/album/2nd58tEypZXdmfQ0Ilqe6g) | 3:09 | 2021-10-21 | 2022-10-14 |

@@ -4,7 +4,7 @@
 
 > A selection of the greatest Thrash Metal tunes\. Cover: Slayer
 
-90 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/6G9MT8JD50Gnl26nAjeAQK)
+90 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

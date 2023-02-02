@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,667 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,032 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [一番歌](https://open.spotify.com/track/3KpKnheFsY52KFOSsLAk3C) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [一番歌](https://open.spotify.com/album/2H98HIfvUyuGMBJsB0OAVg) | 5:01 |
 | 2 | [Receive You The Archetype](https://open.spotify.com/track/4jHGBmn0GEwLF0KOrMQrXI) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [庄司 英徳](https://open.spotify.com/artist/5HOu40y4JzaPi68Juxb7gF) | [龍が如く 維新! オリジナルサウンドトラック \(Vol.1\)](https://open.spotify.com/album/0KsRvbwK7YVhTn8GYPXaAx) | 3:22 |
 | 3 | [意地桜 \- Full Spec Edition](https://open.spotify.com/track/1IFmX1oMmlI0Mru3OjozNE) | [齋藤 一\(黒田 崇矢\)](https://open.spotify.com/artist/0JEtUo0kVK4epnMOfZVNh0) | [龍が如く 維新! オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH) | 3:47 |
-| 4 | [AKUMA NO JIGOKUNABE \- Full Spec Edition](https://open.spotify.com/track/0GBmHTLp9zXUcWY94c8oB5) | [春日 一番<中谷 一博>](https://open.spotify.com/artist/5QNhqwPZ8iarTac5KosBfO) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7I23Ozytuydr8LCgRiHNY5) | 4:28 |
-| 5 | [YUME MITA SUGATA E \- Full Spec Edition](https://open.spotify.com/track/6HlDgEYFIdGVMKvDktLLJu) | [春日 一番<中谷 一博>](https://open.spotify.com/artist/5QNhqwPZ8iarTac5KosBfO) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7I23Ozytuydr8LCgRiHNY5) | 3:45 |
+| 4 | [AKUMA NO JIGOKUNABE \- Full Spec Edition](https://open.spotify.com/track/038ibKsl5lpjWfP27cMfwv) | [春日 一番<中谷 一博>](https://open.spotify.com/artist/5QNhqwPZ8iarTac5KosBfO) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL) | 4:28 |
+| 5 | [YUME MITA SUGATA E \- Full Spec Edition](https://open.spotify.com/track/0TMIymda8Ll0oNJSs4MmaR) | [春日 一番<中谷 一博>](https://open.spotify.com/artist/5QNhqwPZ8iarTac5KosBfO) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL) | 3:45 |
 | 6 | [黒い傷跡のブルース](https://open.spotify.com/track/2vETONR6Cg38Cutr15cm61) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [GALAXY](https://open.spotify.com/album/7mwyKRv88venpHvwhTXF9j) | 4:00 |
 | 7 | [Clock Strikes](https://open.spotify.com/track/30CenAPBR2VmH91r4Um32b) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [JINSEI KAKETE BOKU WA](https://open.spotify.com/album/5dWke9BKYdBq7YXbb7jrLC) | 3:55 |
 | 8 | [紅](https://open.spotify.com/track/7Kyh4musIxUJhuhOVgR60f) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p) | [湘南乃風 〜COME AGAIN〜](https://open.spotify.com/album/0rfIbXcXQYQDslQw1cvNPh) | 6:17 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 17 | [指の行方](https://open.spotify.com/track/3g80KGbeo6QCuzKEGLAkPW) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:04 |
 | 18 | [ライフイズビューティフル](https://open.spotify.com/track/7tjzUhIBqcIhsmLRL4y94p) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [ケツノポリス5](https://open.spotify.com/album/0icQ1sy5NbKWwOI4ItAt6w) | 6:06 |
 | 19 | [rain drops \- Full Spec Edition](https://open.spotify.com/track/22tEijyxz920RizPo8pMN2) | [花\(平野綾\)](https://open.spotify.com/artist/1A2yBiM3rc5VjokjfM06f4) | [Ryu ga gotoku Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6) | 5:25 |
-| 20 | [harukaze \- Full Spec Edition](https://open.spotify.com/track/0UdESiFm3bzaiShAT88Nd1) | [向田 紗栄子<上坂 すみれ>](https://open.spotify.com/artist/1VOaYBcQI1bCbeneMIbc3v) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7I23Ozytuydr8LCgRiHNY5) | 4:02 |
+| 20 | [harukaze \- Full Spec Edition](https://open.spotify.com/track/7vaUNjMhcOYvlO8SGgF50C) | [向田 紗栄子<上坂 すみれ>](https://open.spotify.com/artist/1VOaYBcQI1bCbeneMIbc3v) | [YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL) | 4:02 |
 | 21 | [ring \- Full Spec Edition](https://open.spotify.com/track/1n6eakU3mozez5M2F7HY1w) | [ユキ\(杉平真奈美\)](https://open.spotify.com/artist/0nIEnGkGDh7caedAuri3jQ) | [Ryu ga gotoku Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6) | 5:33 |
 | 22 | [Moment de la Petite Sirene \-刹那の人魚姫\- \- Full Spec Edition](https://open.spotify.com/track/09kXFMLhz3AAb1lYfBweU0) | [ゆい\(キャバ嬢\)](https://open.spotify.com/artist/4fEkryoARm02INZe34De3q) | [龍が如く極 オリジナルサウンドトラック](https://open.spotify.com/album/6GVsIY1HyTGLeXnk989ZPL) | 4:42 |
 | 23 | [サタデーナイト☆ラヴァー](https://open.spotify.com/track/0qmtwmjJIpHZyCSItymVqr) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 49 | [神室純恋歌 \~桐生&支静加\~](https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:02 |
 | 50 | [Shiawase\-nara\-iiya \- Full Spec Edition](https://open.spotify.com/track/795netq7zSVvayTiDkbePw) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 6:30 |
 
-Snapshot ID: `MTYyMTYwNTM2MCwwMDAwMDAwMGEyNWVhNGE4MGZhNGQ5OGQzYTMwMzI4ODJlOWNkM2Mx`
+Snapshot ID: `MTYyMTYwNTM2MCwwMDAwMDAwMDc5MGZiMGI0MjU0NDFjN2VkZjEzNmExZjljODA4MTRi`

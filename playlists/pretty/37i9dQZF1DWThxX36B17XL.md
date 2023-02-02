@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThxX36B17XL.md) - [plain]
 
 > No es música ligera, son canciones animales y cumplieron 30 años.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,438 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,189 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

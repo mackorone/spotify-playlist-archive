@@ -4,7 +4,7 @@
 
 > The best of Detroit Blues
 
-48 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/0vDnBzMRT6DKANzb3EBCnw)
+48 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

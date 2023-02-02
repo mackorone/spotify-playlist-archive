@@ -4,7 +4,7 @@
 
 > Rock this list to help you rock that last rep\. Gainz.
 
-103 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/7HxL3sD1XtHdgI4KkmP1RI)
+103 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Get in touch with nature with these songs about our environment.
 
-44 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/3xKn3HRBVAk6XBnX7cj6v5)
+44 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

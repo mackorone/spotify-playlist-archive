@@ -4,7 +4,7 @@
 
 > Vintage soul gems from the archives.
 
-180 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
+182 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/3FrbrJRS7holohrfzLVX1E) | [Chris Clark](https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm) | [The Complete Motown Singles, Vol\. 6: 1966](https://open.spotify.com/album/3mQO3RmWVxI7U4y0HxUeh1) | 2:28 | 2022-05-11 | 2022-11-13 |
 | [Do I Love You \(Indeed I Do\) \- Alternate Mix](https://open.spotify.com/track/16alVF2EqOAlAW9vxx3PNf) | [Chris Clark](https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm) | [A Cellarful Of Motown!](https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks) | 2:30 | 2022-05-11 |  |
 | [Do I Love You \(Indeed I Do\) \- Alternate Mix](https://open.spotify.com/track/7foUedbDl6HKO0V4D1WcRq) | [Chris Clark](https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm) | [A Cellarful Of Motown](https://open.spotify.com/album/6HOyslEDqav46anMdGvPF2) | 2:30 | 2021-04-23 | 2022-07-29 |
-| [Do Right Man](https://open.spotify.com/track/3KY2qXOmrVbsRWZueVvpwK) | [Little Beaver & the Rocketeers](https://open.spotify.com/artist/50AdSiBu7Vrlbh5RelgYJm) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 2:54 | 2022-05-11 |  |
+| [Do Right Man](https://open.spotify.com/track/3KY2qXOmrVbsRWZueVvpwK) | [Little Beaver & the Rocketeers](https://open.spotify.com/artist/50AdSiBu7Vrlbh5RelgYJm) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 2:54 | 2022-05-11 | 2023-01-22 |
 | [Do Right Man](https://open.spotify.com/track/57ey598LjotK7zyN1ZthzA) | [Little Beaver & the Rocketeers](https://open.spotify.com/artist/50AdSiBu7Vrlbh5RelgYJm) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/4wuivK7CmmM39477VRbkF4) | 2:54 | 2021-04-23 | 2022-07-29 |
+| [Do Right Man](https://open.spotify.com/track/7m4dpcQOvdwOLOezBms3Ar) | [Sam Baker](https://open.spotify.com/artist/42uyOyZCm8gj8y3Rxgbm0a) | [Florida Funk](https://open.spotify.com/album/4vvWtsOMbwns1dUZjTol3d) | 2:50 | 2022-05-11 |  |
 | [Don't Let It Go to Your Head \- 12" Version](https://open.spotify.com/track/4nRiCBgh4dvI1fqv3f7rpw) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Happy To Be With You](https://open.spotify.com/album/36gLFOM5E6PELPukiJ4I0d) | 4:51 | 2021-07-20 |  |
 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 | 2021-07-20 |  |
 | [Even Though You're Gone](https://open.spotify.com/track/3xpa77sO4lKGadIRCwXK5I) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Goin' Places](https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3) | 4:33 | 2021-07-20 |  |
@@ -107,8 +108,9 @@
 | [Lift This Hurt](https://open.spotify.com/track/5WVNCgR9F6sNOTmISgL7Xk) | [Elvin Spencer](https://open.spotify.com/artist/6qU8k346Etf0hHeYaAoxk1) | [Eccentric Soul: Twinight's Lunar Rotation](https://open.spotify.com/album/3aGDWYkRUBjc6k114lAnPI) | 2:41 | 2021-04-23 | 2022-07-29 |
 | [Love Is the Message \(feat\. The Three Degrees\)](https://open.spotify.com/track/7jPcmkRtO3BPBEAA9Q58AN) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 6:36 | 2021-07-20 |  |
 | [Love, Love, Love](https://open.spotify.com/track/4bBR6VDctTQkZay4j7hRTx) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Modern Soul Classics](https://open.spotify.com/album/2vudmNthkNWP8DVR3LqeQe) | 3:22 | 2021-04-23 |  |
+| [Main Squeeze](https://open.spotify.com/track/4IhtiSk5MvZ6JYyXRuBqcb) | [Nate Evans](https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l) | [Pardon My Innocent Heart b/w Main Squeeze](https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk) | 3:14 | 2022-05-11 |  |
 | [Main Squeeze](https://open.spotify.com/track/5kKVhJNc8kc96xbMs4W4w4) | [Nate Evans](https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l) | [Eccentric Soul: Twinight's Lunar Rotation](https://open.spotify.com/album/3aGDWYkRUBjc6k114lAnPI) | 3:14 | 2021-04-23 | 2022-07-29 |
-| [Main Squeeze](https://open.spotify.com/track/5qJKjlVWrkcDtrHyikH6a1) | [Nate Evans](https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l) | [Eccentric Soul: Twinight's Lunar Rotation](https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2) | 3:14 | 2022-05-11 |  |
+| [Main Squeeze](https://open.spotify.com/track/5qJKjlVWrkcDtrHyikH6a1) | [Nate Evans](https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l) | [Eccentric Soul: Twinight's Lunar Rotation](https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2) | 3:14 | 2022-05-11 | 2022-12-18 |
 | [Merry Go Round](https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5) | [The Joneses](https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK) | [Movin' On \- The Early Years \(Remastered\)](https://open.spotify.com/album/7mIldRsXig3Qb5kpusP5ft) | 4:30 | 2021-04-23 |  |
 | [Mine All Mine](https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Closer Than Close](https://open.spotify.com/album/6niA5WysdTshOMYsFAvkTz) | 4:30 | 2021-07-20 |  |
 | [Motor City \- Single Version](https://open.spotify.com/track/65gVO07fFP7eWFjJQiNX3r) | [The Satintones](https://open.spotify.com/artist/6CpK7aaneTdvYmRsPOlF25) | [The Complete Tamla And Motown Singles...Plus!](https://open.spotify.com/album/2FwTUXppv3Nt8N11zoxbRW) | 2:33 | 2021-04-23 |  |

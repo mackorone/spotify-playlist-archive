@@ -4,18 +4,18 @@
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-61 songs - 3 hr 9 min - not published yet
+61 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Babbling Brook](https://open.spotify.com/track/6SwFLZEH7gG2fxGLAdsj4m) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Babbling Stream in the Forest](https://open.spotify.com/album/0fN39o8AJyHObpdmuoVUda) | 3:21 | 2022-10-27 |  |
-| [A Creek In The Jungle](https://open.spotify.com/track/6sCXRYcWRoyFaHp2WzBb8T) | [The Sound Designers](https://open.spotify.com/artist/5fW4vA2xSDXwdSopSVrerj) | [A Creek In The Jungle](https://open.spotify.com/album/6yjGJsLWm1zMHaPzxRzFzp) | 3:20 | 2022-10-27 |  |
+| [A Creek In The Jungle](https://open.spotify.com/track/6sCXRYcWRoyFaHp2WzBb8T) | [The Sound Designers](https://open.spotify.com/artist/5fW4vA2xSDXwdSopSVrerj) | [A Creek In The Jungle](https://open.spotify.com/album/6yjGJsLWm1zMHaPzxRzFzp) | 3:20 | 2022-10-27 | 2023-02-02 |
 | [Babbling Brook](https://open.spotify.com/track/4ec3VGnJUyMfX5GEFCBipt) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2022-10-27 |  |
 | [Babbling Forest Brook](https://open.spotify.com/track/70wI8fVLWlH0Cy0jZlH7tf) | [Calming Water](https://open.spotify.com/artist/0BEeBDjTHbZ0SS6NVRNcUn) | [Babbling Stream](https://open.spotify.com/album/6odFmCA3nOYG362B7Bel5v) | 3:31 | 2022-10-27 |  |
 | [Big and calm creek, distant wind in trees](https://open.spotify.com/track/5JH5HC1r8ljEGjXYq8Uzcd) | [Sounds of Scandinavia](https://open.spotify.com/artist/3SfbWy42IpSQrfjrIErmKt) | [Waters of the North](https://open.spotify.com/album/6eUzmobKzaTB4q8VhhNxMD) | 2:45 | 2022-10-27 |  |
 | [Birds and A Beautiful Brook](https://open.spotify.com/track/4OYT2GFHJmObxsuZdA8m0R) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Sounds Of The Forest](https://open.spotify.com/album/4LRcAAnR6Zlg200Op6tiZC) | 2:08 | 2022-10-27 |  |
 | [Blissful Brook \(Rain\)](https://open.spotify.com/track/3fEv1aGc7IsFlDUUrxIsWL) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Blissful Nature Sounds](https://open.spotify.com/album/07rmOLfWdDDM4rJx1VhjR6) | 3:12 | 2022-10-27 |  |
-| [Blue Stream](https://open.spotify.com/track/5qjGUHHKNozzMnw987lVry) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Sound of Nature](https://open.spotify.com/album/7sBAqC5kXL7wZoDVXOU0ex) | 2:36 | 2022-10-27 | 2022-11-24 |
+| [Blue Stream](https://open.spotify.com/track/5qjGUHHKNozzMnw987lVry) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Sound of Nature](https://open.spotify.com/album/7sBAqC5kXL7wZoDVXOU0ex) | 2:36 | 2022-10-27 |  |
 | [Calm Rainforest Noise](https://open.spotify.com/track/2fB3f2KnKfgYj3wbjBh3Nj) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Calm Rainforest Noise](https://open.spotify.com/album/4iSALerJ8CpOKnfVfRZmHR) | 3:36 | 2022-10-27 | 2022-11-24 |
 | [Calm River Noise](https://open.spotify.com/track/4khXlaLUgJZnC683jmW6wF) | [The Outdoor Library](https://open.spotify.com/artist/3LhW1K0Q3xRX4PzqLlEx0F) | [Calm River Noise](https://open.spotify.com/album/0yZJu6HXP6Xxit4hdkak7I) | 3:21 | 2022-10-27 |  |
 | [Calming River Water](https://open.spotify.com/track/6vpNww23UkrnbMWdQLAQ94) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [Swedish River Sounds Vol\. 2](https://open.spotify.com/album/5WFw9LxCl3TY6ioNWn9Jsf) | 2:06 | 2022-10-27 | 2022-11-24 |
@@ -41,7 +41,7 @@
 | [Light Stream](https://open.spotify.com/track/1IRVelDSzORo06pEzecCiI) | [Ebb&Flod](https://open.spotify.com/artist/1IsJosONX2G4ekmLMfjTO4) | [Gentle Stream](https://open.spotify.com/album/2FzwA8tmqu4QccprXAb8PH) | 3:16 | 2022-10-27 |  |
 | [Little Babbling Brook](https://open.spotify.com/track/4oCZ4rR6q9FTXFwwEw3Xya) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Natural Relaxation](https://open.spotify.com/album/4p5N8lC09TgcmcW5iELNXU) | 3:59 | 2022-10-27 |  |
 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 | 2022-10-27 |  |
-| [Northern River](https://open.spotify.com/track/6OyRkPLVvqrhLCJkObruWb) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 3:04 | 2022-10-27 | 2022-11-24 |
+| [Northern River](https://open.spotify.com/track/6OyRkPLVvqrhLCJkObruWb) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Circle of Earth](https://open.spotify.com/album/3Gu9YgsqlLILMcW5k30exE) | 3:04 | 2022-10-27 |  |
 | [Overflowing Stream](https://open.spotify.com/track/0bkpm8NP8SJZLlPKol67db) | [Naturae](https://open.spotify.com/artist/4HL4peOCpnvJztd1zYQLuU) | [Streams & Falls](https://open.spotify.com/album/1MgJ6AXomRefwSqSHFijCP) | 4:58 | 2022-10-27 |  |
 | [Pond Of Sleep](https://open.spotify.com/track/6sURZokRcztKu6xYfsatXm) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Pond Of Sleep](https://open.spotify.com/album/5ldXqn6VEKsa2TBnONcyV4) | 2:07 | 2022-10-27 |  |
 | [Rain Forest River](https://open.spotify.com/track/6VeOkaotCgCi5fqDR2aKxi) | [River Dreams Catalog](https://open.spotify.com/artist/6eBzW7r64y7AQS4kE2BNmE) | [River Dreams Vol\. 1](https://open.spotify.com/album/50L1ElINmGvHh48jg0WaCK) | 2:28 | 2022-10-27 |  |
@@ -57,7 +57,7 @@
 | [Soothing Spring Creek Sound](https://open.spotify.com/track/1ELff1MF9KFsGkrpGBPXcC) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [Swedish River Sounds Vol\. 2](https://open.spotify.com/album/5WFw9LxCl3TY6ioNWn9Jsf) | 2:12 | 2022-10-27 | 2022-11-24 |
 | [Soothing Stream](https://open.spotify.com/track/1SORCxjXkhCI9KKMVWziVC) | [Daichi](https://open.spotify.com/artist/7zzSVeglgyoJFOhuqJCWCg) | [River Run](https://open.spotify.com/album/41ZY6k3GWlLC7eGf3tAeRE) | 3:20 | 2022-10-27 | 2022-11-24 |
 | [Sound Of The Brook](https://open.spotify.com/track/7uowYLfmCRzUsGsWUGUTZR) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Sound Of The Brook](https://open.spotify.com/album/5Zmh803Q2FStZrPpisw5Qy) | 3:51 | 2022-10-27 | 2022-11-24 |
-| [Sparkling Energy Creek](https://open.spotify.com/track/7CQpRxRhiPsTIzbVaiMdXZ) | [Embracing Sounds](https://open.spotify.com/artist/3yrsA40P229aJh2vhsvn61) | [Sparkling Energy Creek](https://open.spotify.com/album/3H8VAtA2cT2BbZwSZ42aPB) | 1:55 | 2022-10-27 |  |
+| [Sparkling Energy Creek](https://open.spotify.com/track/7CQpRxRhiPsTIzbVaiMdXZ) | [Embracing Sounds](https://open.spotify.com/artist/3yrsA40P229aJh2vhsvn61) | [Sparkling Energy Creek](https://open.spotify.com/album/3H8VAtA2cT2BbZwSZ42aPB) | 1:55 | 2022-10-27 | 2022-12-22 |
 | [Spring Creek](https://open.spotify.com/track/4AubLLJUxHh4PxDCJUZiSx) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Spring Creek](https://open.spotify.com/album/1qq0T0W2P5yH7rsjSwWMWV) | 2:23 | 2022-10-27 |  |
 | [Stream Three](https://open.spotify.com/track/48qRXWcmClJrIyaQ0TSXNU) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Part II](https://open.spotify.com/album/75UIRk0PxOfWNFJRupK4TD) | 3:09 | 2022-10-27 |  |
 | [The River In Me](https://open.spotify.com/track/0pN6GLYsTjaMlXCkpsWq8h) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Sleep On The Ocean](https://open.spotify.com/album/3tUgq5TQwhQHdvYIlRHEr8) | 3:14 | 2022-10-27 |  |

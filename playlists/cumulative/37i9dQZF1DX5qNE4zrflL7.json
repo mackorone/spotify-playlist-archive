@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The songs that influenced everything that has happened since. Cover: Jimi Hendrix",
   "name": "Alternative 60s",
-  "published_playlist_ids": [
-    "79xUevvuTQnyCBirNlp86S"
-  ],
   "tracks": [
     {
       "album": {
@@ -669,7 +666,7 @@
     {
       "album": {
         "name": "The Crazy World of Arthur Brown",
-        "url": "https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr"
+        "url": "https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj"
       },
       "artists": [
         {
@@ -680,6 +677,24 @@
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 175893,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1wVBq2SkE1AOKoaOxUVvDC"
+    },
+    {
+      "album": {
+        "name": "The Crazy World of Arthur Brown",
+        "url": "https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr"
+      },
+      "artists": [
+        {
+          "name": "The Crazy World Of Arthur Brown",
+          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
       "duration_ms": 175893,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3iiTTuCxl62q4WvDpFRSrX"

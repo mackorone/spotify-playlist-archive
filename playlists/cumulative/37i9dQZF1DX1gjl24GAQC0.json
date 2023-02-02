@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover: TO1 [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover: SF9 [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
-  "published_playlist_ids": [
-    "1rQmqTB8OYYXGSYSv738KR"
-  ],
   "tracks": [
     {
       "album": {
@@ -185,7 +182,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 211866,
       "name": "9 and Three Quarters (Run Away)",
       "url": "https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr"
@@ -401,7 +398,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 183613,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7qrpkyFfaglH9BfYbppZPH"
@@ -646,6 +643,24 @@
     },
     {
       "album": {
+        "name": "HARMONY : SET IN",
+        "url": "https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168053,
+      "name": "Back Down",
+      "url": "https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv"
+    },
+    {
+      "album": {
         "name": "It\u2019s ME, It's WE",
         "url": "https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB"
       },
@@ -791,6 +806,24 @@
       "duration_ms": 247400,
       "name": "Beautiful Breakup",
       "url": "https://open.spotify.com/track/2NlTJ3Jf6skIJfTD0oJatY"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183120,
+      "name": "Beautiful Liar",
+      "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
     },
     {
       "album": {
@@ -1293,6 +1326,24 @@
       "duration_ms": 201445,
       "name": "Can't You See Me?",
       "url": "https://open.spotify.com/track/2qI0Uchpdc2RkzuhbRnnZ8"
+    },
+    {
+      "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
     },
     {
       "album": {
@@ -2272,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213071,
+      "name": "FAM (Korean Ver.)",
+      "url": "https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN"
+    },
+    {
+      "album": {
         "name": "FANTASIA X",
         "url": "https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4"
       },
@@ -2409,10 +2478,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 209574,
       "name": "Fireworks (I'm The One)",
       "url": "https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v"
+    },
+    {
+      "album": {
+        "name": "Come To Life",
+        "url": "https://open.spotify.com/album/7DAnweYfgKkI2OzupEMnQC"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA WDJ",
+          "url": "https://open.spotify.com/artist/3sQoi7YsPFaxKcQlSemJ93"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
+      "duration_ms": 196706,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/5HUSHuEQ2u49F2Bn7V7OI4"
     },
     {
       "album": {
@@ -2553,7 +2640,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 182653,
       "name": "Freeze Tag",
       "url": "https://open.spotify.com/track/7CAZZTBrcyRj3PjENWOdBZ"
@@ -2741,7 +2828,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 183090,
       "name": "Given-Taken",
       "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
@@ -2759,7 +2846,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 207053,
       "name": "Glitch Mode",
       "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
@@ -2954,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197025,
+      "name": "HALAZIA",
+      "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
+    },
+    {
+      "album": {
         "name": "Happy Death Day",
         "url": "https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr"
       },
@@ -2965,7 +3070,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-14",
       "duration_ms": 220396,
       "name": "Happy Death Day",
       "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
@@ -3062,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "BOYS PLANET - Here I Am",
+        "url": "https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc"
+      },
+      "artists": [
+        {
+          "name": "BOYS PLANET",
+          "url": "https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244733,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q"
+    },
+    {
+      "album": {
         "name": "INSIDE",
         "url": "https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW"
       },
@@ -3077,6 +3200,24 @@
       "duration_ms": 196960,
       "name": "Hero",
       "url": "https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md"
+    },
+    {
+      "album": {
+        "name": "off the wall",
+        "url": "https://open.spotify.com/album/5NkKedFEJ4qyK4imPMDR2d"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 174234,
+      "name": "hey",
+      "url": "https://open.spotify.com/track/6I2OEdbHkkaZTOi3mWpHjq"
     },
     {
       "album": {
@@ -4162,6 +4303,24 @@
     },
     {
       "album": {
+        "name": "INCENSE",
+        "url": "https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/7n21DchMhEHga46iMecQHW"
+    },
+    {
+      "album": {
         "name": "REASON FOR BEING : Benevolence",
         "url": "https://open.spotify.com/album/40kgv1cXd23PsABJIxXDJ1"
       },
@@ -4371,7 +4530,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 207617,
       "name": "MIROH",
       "url": "https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH"
@@ -4789,7 +4948,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 187466,
       "name": "NANANA",
       "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
@@ -5214,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "THE PIECE OF9",
+        "url": "https://open.spotify.com/album/5SPtURpxbD8ZCIKRpjQWpo"
+      },
+      "artists": [
+        {
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216680,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ"
+    },
+    {
+      "album": {
         "name": "Golden Child 2nd Album [Game Changer]",
         "url": "https://open.spotify.com/album/4PTy3b8H1Blt625KhFa9QU"
       },
@@ -5315,7 +5492,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2022-12-27",
       "duration_ms": 176466,
       "name": "RED",
       "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
@@ -5603,7 +5780,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 192786,
       "name": "Same Scent",
       "url": "https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA"
@@ -5729,7 +5906,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 198795,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
@@ -5859,6 +6036,24 @@
       "duration_ms": 203906,
       "name": "skinz",
       "url": "https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk"
+    },
+    {
+      "album": {
+        "name": "Snow Prince - MIRAE Special Single",
+        "url": "https://open.spotify.com/album/0BiXOaI2DRmgTuhjGwlP45"
+      },
+      "artists": [
+        {
+          "name": "MIRAE",
+          "url": "https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 205354,
+      "name": "Snow Prince",
+      "url": "https://open.spotify.com/track/3rCV8mltrSBeDbCrQ0fbWL"
     },
     {
       "album": {
@@ -6132,6 +6327,24 @@
     },
     {
       "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
+    },
+    {
+      "album": {
         "name": "TAKE A CHANCE",
         "url": "https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E"
       },
@@ -6341,7 +6554,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 211933,
       "name": "The One",
       "url": "https://open.spotify.com/track/1Kb2RNTXZ3PaL2xMDuJgQ6"
@@ -6690,6 +6903,28 @@
     },
     {
       "album": {
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
+    },
+    {
+      "album": {
         "name": "Odd - The 4th Album",
         "url": "https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa"
       },
@@ -6737,7 +6972,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 205720,
       "name": "Virus",
       "url": "https://open.spotify.com/track/6Cl4pfI7IDhX1zEfiBP8KR"
@@ -7047,6 +7282,24 @@
       "duration_ms": 199013,
       "name": "WONDERLAND",
       "url": "https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ"
+    },
+    {
+      "album": {
+        "name": "SPECIAL GIFT [Woo Woo]",
+        "url": "https://open.spotify.com/album/0t5Rqa89XrQu11AWnoCJoU"
+      },
+      "artists": [
+        {
+          "name": "n.SSign",
+          "url": "https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 218386,
+      "name": "Woo Woo",
+      "url": "https://open.spotify.com/track/7GemKTNrhp4Fs9GErgWIE9"
     },
     {
       "album": {

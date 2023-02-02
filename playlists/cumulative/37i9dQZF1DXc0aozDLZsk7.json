@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
   "name": "No Stress",
-  "published_playlist_ids": [
-    "5tbn3fbQU8g3JiRO1DPsxf"
-  ],
   "tracks": [
     {
       "album": {
@@ -643,7 +640,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 221706,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8"
@@ -853,7 +850,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-13",
       "duration_ms": 201657,
       "name": "Emily",
       "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
@@ -1347,7 +1344,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-17",
       "duration_ms": 200620,
       "name": "Home",
       "url": "https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb"
@@ -1437,7 +1434,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-15",
       "duration_ms": 227613,
       "name": "House With No Mirrors",
       "url": "https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh"
@@ -1574,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "If We Make It Through December",
+        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 179074,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
+    },
+    {
+      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -1589,6 +1604,28 @@
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "album": {
+        "name": "Inside Friend (feat. John Mayer)",
+        "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175432,
+      "name": "Inside Friend (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
     },
     {
       "album": {
@@ -2597,7 +2634,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2022-12-16",
       "duration_ms": 255533,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
@@ -3287,7 +3324,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 174860,
       "name": "There's No Way",
       "url": "https://open.spotify.com/track/5ZpIsCmJtMAyTvz8Z3bGXX"
@@ -3313,6 +3350,28 @@
       "duration_ms": 174860,
       "name": "There's No Way (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/0WTN7om3lHG3yYMigwzBxl"
+    },
+    {
+      "album": {
+        "name": "There's No Way (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174860,
+      "name": "There's No Way (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
     },
     {
       "album": {

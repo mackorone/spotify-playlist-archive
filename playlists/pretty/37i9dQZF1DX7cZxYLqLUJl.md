@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 
 > Wake up in your own pace with piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,351 likes - 103 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,106 likes - 103 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 | 25 | [All My Words](https://open.spotify.com/track/4t6nAyyW8FEEXbN5MLAjtL) | [Mark Millson](https://open.spotify.com/artist/3wIkO7KPoP7jhrn7OA4yvG) | [All My Words](https://open.spotify.com/album/3szqW639zPbIC99Fy8eNfF) | 2:41 |
 | 26 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 |
 | 27 | [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 |
-| 28 | [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 |
+| 28 | [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jack Sansom](https://open.spotify.com/artist/3umCEdMTP9fjBnfclPxi1Z) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 |
 | 29 | [Wunder](https://open.spotify.com/track/119a8rsOkvUFXPwpVCQUPW) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Wunder](https://open.spotify.com/album/0inF6HuUMAG0pdakByW83E) | 2:56 |
 | 30 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 |
 | 31 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 |

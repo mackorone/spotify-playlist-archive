@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "A swinging Jazz soundtrack for your drive time.",
   "name": "Jazz in the Car",
-  "published_playlist_ids": [
-    "0C5uVtE1kP1r63LtVzXgsK"
-  ],
   "tracks": [
     {
       "album": {
@@ -2387,7 +2384,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 411733,
       "name": "Ow!",
       "url": "https://open.spotify.com/track/1Ju0Tsue7GTzlcx0y2kN2C"
@@ -3511,7 +3508,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 282165,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/4OCZosYvqSIZ0iU55mxhV1"

@@ -4,7 +4,7 @@
 
 > Get the most out of your day and \#makeithappen.
 
-30 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/2NfnKhwSG039yzdfwNKw71)
+30 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

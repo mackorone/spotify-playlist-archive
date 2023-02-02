@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1494311,
+  "num_followers": 1558779,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4NTI3NywwMDAwMDAwMDQ4YmYxMzVkN2U3Y2Q5MDg3NTNjNDAyNzBmZjFkNDNk",
+  "snapshot_id": "MTY2OTM4NTI3NywwMDAwMDAwMGEyZTE1ZDIzNmViMjU1NWEyZmVjMDFjMjUzZjU3M2E4",
   "tracks": [
     {
       "added_at": "2022-11-17 09:29:18",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Bring Me To Life",
-      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
         "name": "Infest",
         "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
       },
@@ -407,6 +391,38 @@
       "duration_ms": 252613,
       "name": "Duality",
       "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 299866,
+      "name": "Be Quiet and Drive (Far Away)",
+      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -443,18 +459,18 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 299866,
-      "name": "Be Quiet and Drive (Far Away)",
-      "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
+      "duration_ms": 185586,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -491,50 +507,18 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Meteora",
-        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+        "name": "Trapt",
+        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Trapt",
+          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
         }
       ],
-      "duration_ms": 185586,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 272973,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 270920,
-      "name": "Falling Away from Me",
-      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
+      "duration_ms": 285569,
+      "name": "Headstrong",
+      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -555,50 +539,34 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Trapt",
-        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
       "artists": [
         {
-          "name": "Trapt",
-          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 285569,
-      "name": "Headstrong",
-      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+      "duration_ms": 270920,
+      "name": "Falling Away from Me",
+      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
     },
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Flyleaf",
-        "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
       "artists": [
         {
-          "name": "Flyleaf",
-          "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 175880,
-      "name": "I'm So Sick",
-      "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "What I've Done",
-      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
+      "duration_ms": 272973,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -619,6 +587,22 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "7 Words",
+      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -635,50 +619,18 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Every Six Seconds",
-        "url": "https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe"
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
       "artists": [
         {
-          "name": "Saliva",
-          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 252400,
-      "name": "Click Click Boom",
-      "url": "https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Nookie",
-      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "7 Words",
-      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
+      "duration_ms": 205613,
+      "name": "What I've Done",
+      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -699,18 +651,34 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+        "name": "Every Six Seconds",
+        "url": "https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Papercut",
-      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+      "duration_ms": 252400,
+      "name": "Click Click Boom",
+      "url": "https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Flyleaf",
+        "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
+      },
+      "artists": [
+        {
+          "name": "Flyleaf",
+          "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "I'm So Sick",
+      "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -727,6 +695,22 @@
       "duration_ms": 188600,
       "name": "I-E-A-I-A-I-O",
       "url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Nookie",
+      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -779,18 +763,18 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Devil Without a Cause",
-        "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 265840,
-      "name": "Bawitdaba",
-      "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
+      "duration_ms": 184866,
+      "name": "Papercut",
+      "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -807,6 +791,54 @@
       "duration_ms": 270960,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Devil Without a Cause",
+        "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Bawitdaba",
+      "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "The Only",
+      "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -843,34 +875,18 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+        "name": "Candyass",
+        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
       "artists": [
         {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
         }
       ],
-      "duration_ms": 171106,
-      "name": "The Only",
-      "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Left Behind",
-      "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
+      "duration_ms": 267000,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -891,38 +907,6 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Godsmack",
-        "url": "https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Candyass",
-        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
-      },
-      "artists": [
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -935,38 +919,6 @@
       "duration_ms": 237360,
       "name": "Back to School (Mini Maggit)",
       "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 146480,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "The Reason (15th Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/6mjHiGwrRGE8LVCXVc5QDU"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -987,18 +939,34 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
+        "name": "The Reason (15th Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
       },
       "artists": [
         {
-          "name": "Earshot",
-          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
+      "duration_ms": 162106,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/6mjHiGwrRGE8LVCXVc5QDU"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Godsmack",
+        "url": "https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -1019,6 +987,22 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
         "name": "Spit",
         "url": "https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 189706,
       "name": "Brackish",
       "url": "https://open.spotify.com/track/6lqwRfIHYRiJ7M9xfLqcRx"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
+      },
+      "artists": [
+        {
+          "name": "Earshot",
+          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -1067,54 +1067,6 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Digimortal",
-        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Linchpin",
-      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Introduction To Mayhem",
-        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
-      },
-      "artists": [
-        {
-          "name": "Primer 55",
-          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Get Some",
-        "url": "https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda"
-      },
-      "artists": [
-        {
-          "name": "Snot",
-          "url": "https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Snot",
-      "url": "https://open.spotify.com/track/3qCQNtggJw1gxoptMgDhyR"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
         "name": "The Fundamental Elements of Southtown",
         "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
@@ -1131,34 +1083,18 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Through The Eyes",
-        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
+        "name": "Digimortal",
+        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
       },
       "artists": [
         {
-          "name": "Flaw",
-          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 176600,
-      "name": "Get Up Again",
-      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "A Snow Capped Romance",
-        "url": "https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9"
-      },
-      "artists": [
-        {
-          "name": "36 Crazyfists",
-          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Bloodwork",
-      "url": "https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS"
+      "duration_ms": 204853,
+      "name": "Linchpin",
+      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -1179,18 +1115,50 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
-        "name": "Recoil (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G"
+        "name": "Through The Eyes",
+        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
       },
       "artists": [
         {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+          "name": "Flaw",
+          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
         }
       ],
-      "duration_ms": 273066,
-      "name": "In the Air Tonight",
-      "url": "https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0"
+      "duration_ms": 176600,
+      "name": "Get Up Again",
+      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Get Some",
+        "url": "https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda"
+      },
+      "artists": [
+        {
+          "name": "Snot",
+          "url": "https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Snot",
+      "url": "https://open.spotify.com/track/3qCQNtggJw1gxoptMgDhyR"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Introduction To Mayhem",
+        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
+      },
+      "artists": [
+        {
+          "name": "Primer 55",
+          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -1211,6 +1179,22 @@
     {
       "added_at": "2022-11-17 09:29:18",
       "album": {
+        "name": "Recoil (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 273066,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
         "name": "The Height of Callousness",
         "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
       },
@@ -1223,6 +1207,54 @@
       "duration_ms": 194733,
       "name": "New Disease",
       "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Adema",
+        "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
+      },
+      "artists": [
+        {
+          "name": "Adema",
+          "url": "https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "The Way You Like It",
+      "url": "https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "A Snow Capped Romance",
+        "url": "https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9"
+      },
+      "artists": [
+        {
+          "name": "36 Crazyfists",
+          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Bloodwork",
+      "url": "https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS"
+    },
+    {
+      "added_at": "2022-11-17 09:29:18",
+      "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 142866,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/4DSAxhyfL8uZYTbRNsSHMU"
     },
     {
       "added_at": "2022-11-17 09:29:18",
@@ -1255,38 +1287,6 @@
       "duration_ms": 191360,
       "name": "A Certain Shade of Green",
       "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "...An Education In Rebellion",
-        "url": "https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76"
-      },
-      "artists": [
-        {
-          "name": "The Union Underground",
-          "url": "https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "South Texas Deathride",
-      "url": "https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD"
-    },
-    {
-      "added_at": "2022-11-17 09:29:18",
-      "album": {
-        "name": "Spit",
-        "url": "https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 142866,
-      "name": "Spit",
-      "url": "https://open.spotify.com/track/4DSAxhyfL8uZYTbRNsSHMU"
     }
   ],
   "unique_name": "Nu Metal Era",

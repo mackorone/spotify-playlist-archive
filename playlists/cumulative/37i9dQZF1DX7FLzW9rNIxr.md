@@ -4,7 +4,7 @@
 
 > They have not been wasting their young years \- they have been making some of the most beautiful music in the world.
 
-31 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/41wFOtNkApkTfV7lmk73Au)
+31 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

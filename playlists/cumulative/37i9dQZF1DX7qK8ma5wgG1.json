@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Songs for a broken heart",
   "name": "Sad Songs",
-  "published_playlist_ids": [
-    "6YJH6Sv9lXBPweUakPzcSg"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 274946,
       "name": "(I should) take better care",
       "url": "https://open.spotify.com/track/4UL4KALnWgkFlKHEIJUGUH"
@@ -341,6 +338,24 @@
       "duration_ms": 168522,
       "name": "Boring, Happy, Beautiful",
       "url": "https://open.spotify.com/track/0W4prfO7VR3dDo1PfINTXE"
+    },
+    {
+      "album": {
+        "name": "Boyfriend Of The Year (Sadder)",
+        "url": "https://open.spotify.com/album/74TSVzcVGWahrH8YahztM2"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Boyfriend Of The Year (Sadder)",
+      "url": "https://open.spotify.com/track/07vp6uxlDyqDPhjLWhFbSI"
     },
     {
       "album": {
@@ -730,6 +745,24 @@
     },
     {
       "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104408,
+      "name": "emails i can\u2019t send",
+      "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1011,7 +1044,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 221377,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn"
@@ -1101,7 +1134,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-30",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -1245,7 +1278,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 184505,
       "name": "i don't want to watch the world end with someone else",
       "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
@@ -1317,7 +1350,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 194603,
       "name": "i met a boy online",
       "url": "https://open.spotify.com/track/2sWCaFAWzl1tDBtdhhWG2z"
@@ -1339,6 +1372,42 @@
       "duration_ms": 209006,
       "name": "I Miss You - Paddy's Song",
       "url": "https://open.spotify.com/track/6Lqa8EZSaGEl80rojsrz1B"
+    },
+    {
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167538,
+      "name": "I miss you, I\u2019m sorry",
+      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
+    },
+    {
+      "album": {
+        "name": "I'll Be Waiting",
+        "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172547,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY"
     },
     {
       "album": {
@@ -1505,6 +1574,60 @@
       "duration_ms": 205994,
       "name": "If You Ever Change Your Mind",
       "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
+    },
+    {
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 177609,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU"
+    },
+    {
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177609,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc"
+    },
+    {
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227749,
+      "name": "In The Kitchen",
+      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
     },
     {
       "album": {
@@ -1931,7 +2054,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 224278,
       "name": "Love is Pain",
       "url": "https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8"
@@ -1985,7 +2108,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 187293,
       "name": "Mr. Forgettable",
       "url": "https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU"
@@ -2338,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Something to Someone",
+        "url": "https://open.spotify.com/album/26WEpGNBMTJE5jyRcMtE01"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183789,
+      "name": "Something to Someone - Piano",
+      "url": "https://open.spotify.com/track/5LMMHLhxyicdWm3uEdbNrV"
+    },
+    {
+      "album": {
         "name": "Something to Someone (Piano)",
         "url": "https://open.spotify.com/album/2es7Wvv9mh7IK9K874jQJW"
       },
@@ -2349,7 +2490,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 183789,
       "name": "Something to Someone - Piano",
       "url": "https://open.spotify.com/track/5YLGr2aXsNZWpZmwQiaX7H"
@@ -2461,6 +2602,24 @@
       "duration_ms": 208826,
       "name": "Train Wreck",
       "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
+    },
+    {
+      "album": {
+        "name": "trust issues",
+        "url": "https://open.spotify.com/album/3DENi04ImVVBYhh3zpfXIN"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134262,
+      "name": "trust issues",
+      "url": "https://open.spotify.com/track/5jQVx40dbpDsstcwlhpk9u"
     },
     {
       "album": {
@@ -2739,7 +2898,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 225186,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/7bxcHHBpto3NgHAMeGCKFH"
@@ -2833,7 +2992,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"

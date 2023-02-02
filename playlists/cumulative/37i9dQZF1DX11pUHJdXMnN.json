@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "House and disco jams with an 80s-infused retro flavour.",
   "name": "Laser Disco",
-  "published_playlist_ids": [
-    "0zvb0POlvbyMbG9Tppieti"
-  ],
   "tracks": [
     {
       "album": {
@@ -518,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393973,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
+    },
+    {
+      "album": {
         "name": "Polydans Remixes",
         "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
       },
@@ -741,6 +756,24 @@
     {
       "album": {
         "name": "Know You",
+        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
+    },
+    {
+      "album": {
+        "name": "Know You",
         "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
       },
       "artists": [
@@ -911,7 +944,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 313106,
       "name": "Lyra - Dusky Remix",
       "url": "https://open.spotify.com/track/3vZf4XO3DAXef9aOyx0SVW"
@@ -1105,7 +1138,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 220451,
       "name": "Never Let You Go - Skream Remix (Edit)",
       "url": "https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8"
@@ -1269,6 +1302,24 @@
       "duration_ms": 205078,
       "name": "Roma",
       "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
+    },
+    {
+      "album": {
+        "name": "ANIITIME003",
+        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
+      },
+      "artists": [
+        {
+          "name": "ANII",
+          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444150,
+      "name": "Silver Machine",
+      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
     },
     {
       "album": {
@@ -1483,7 +1534,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 409961,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
@@ -1527,7 +1578,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-06",
       "duration_ms": 180960,
       "name": "What Are U Gonna Do",
       "url": "https://open.spotify.com/track/1LPrVY0aROcFkP2A9D9YCJ"

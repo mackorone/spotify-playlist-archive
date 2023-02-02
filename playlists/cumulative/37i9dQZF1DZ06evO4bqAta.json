@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-25",
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
   "name": "This Is Bob Dylan",
-  "published_playlist_ids": [
-    "153GK6uVRuhJewKLGkWHlb"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 165426,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
@@ -271,7 +268,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 360013,
       "name": "False Prophet",
       "url": "https://open.spotify.com/track/0JBFlDivbkrskU7oYnjdIU"
@@ -441,7 +438,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 276733,
       "name": "I Contain Multitudes",
       "url": "https://open.spotify.com/track/5AJT2Tk8mnDEnCtsikWVu2"
@@ -495,7 +492,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 392213,
       "name": "I've Made Up My Mind to Give Myself to You",
       "url": "https://open.spotify.com/track/5JqAHgYG2j9hwqCwKZpBUI"
@@ -585,7 +582,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 252066,
       "name": "It's All Over Now, Baby Blue",
       "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
@@ -711,7 +708,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 171106,
       "name": "Love Minus Zero",
       "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
@@ -751,6 +748,24 @@
       "duration_ms": 211000,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc"
+    },
+    {
+      "album": {
+        "name": "Slow Train Coming",
+        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 267106,
+      "name": "Man Gave Names to All the Animals",
+      "url": "https://open.spotify.com/track/5mGq3cybgQDZgTEbu9ldV9"
     },
     {
       "album": {
@@ -805,6 +820,24 @@
       "duration_ms": 258973,
       "name": "Meet Me in the Morning",
       "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
+    },
+    {
+      "album": {
+        "name": "Mississippi (Version 2)",
+        "url": "https://open.spotify.com/album/4mAnAlXFfFIlnzNRV8cCfR"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312600,
+      "name": "Mississippi - Version 2",
+      "url": "https://open.spotify.com/track/4T7zdEt6EPBYPINynERjCN"
     },
     {
       "album": {
@@ -911,10 +944,28 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 387733,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
+    },
+    {
+      "album": {
+        "name": "Not Dark Yet (Version 1)",
+        "url": "https://open.spotify.com/album/577uc6MHsDO7dJEPimNkmc"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432133,
+      "name": "Not Dark Yet - Version 1",
+      "url": "https://open.spotify.com/track/5CdrxIu33WFVpa2qnuG3A1"
     },
     {
       "album": {
@@ -965,7 +1016,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 107226,
       "name": "Oxford Town",
       "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
@@ -1026,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "Ring Them Bells",
+      "url": "https://open.spotify.com/track/1Y3VFY4mkLqMIkqxC51p6l"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
       },
@@ -1055,7 +1124,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 331493,
       "name": "Sara",
       "url": "https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM"
@@ -1127,7 +1196,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-01",
       "duration_ms": 160000,
       "name": "Song to Woody",
       "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
@@ -1278,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 211026,
+      "name": "Turkey Chase",
+      "url": "https://open.spotify.com/track/7huqsHcUto3D3TDHPWtuYQ"
+    },
+    {
+      "album": {
         "name": "Blonde On Blonde",
         "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
       },
@@ -1289,10 +1376,28 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-16",
       "duration_ms": 451133,
       "name": "Visions of Johanna",
       "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
+    },
+    {
+      "album": {
+        "name": "New Morning",
+        "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142946,
+      "name": "Winterlude",
+      "url": "https://open.spotify.com/track/6h8laPks98zPizQ5qahy40"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bqAta"

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Rock sin vueltas. Foto: El Cuarteto De Nos.",
+  "description": "Rock sin vueltas. Foto: EMI",
   "name": "La Frecuencia",
-  "published_playlist_ids": [
-    "56SMHx11i5aVGx2LZ3nkds"
-  ],
   "tracks": [
     {
       "album": {
@@ -1210,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "Deja Su Lugar",
+        "url": "https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4"
+      },
+      "artists": [
+        {
+          "name": "La Triple Nelson",
+          "url": "https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Deja Su Lugar",
+      "url": "https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp"
+    },
+    {
+      "album": {
         "name": "Dejo Atr\u00e1s",
         "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
       },
@@ -1333,10 +1352,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267596,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
     },
     {
       "album": {
@@ -1387,7 +1424,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 174194,
       "name": "El Comienzo del Final",
       "url": "https://open.spotify.com/track/14mNmaD7yPKqrmhJzW1rgI"
@@ -2249,7 +2286,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 309954,
       "name": "Korea",
       "url": "https://open.spotify.com/track/4xP6pfadCFsCE1OA22BgZG"
@@ -3097,7 +3134,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 259839,
       "name": "No llora",
       "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
@@ -3115,7 +3152,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-16",
       "duration_ms": 206868,
       "name": "No Te Imaginas",
       "url": "https://open.spotify.com/track/6l0ClSGxF3VwZIvxseYERY"
@@ -3396,7 +3433,7 @@
     },
     {
       "album": {
-        "name": "Para Mi Para Vos",
+        "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
@@ -3408,7 +3445,7 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 254146,
+      "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
     },
@@ -3652,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Cada Segundo Dura Una Eternidad",
+        "url": "https://open.spotify.com/album/456MmGpEpuDN6zIeSYgr99"
+      },
+      "artists": [
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223806,
+      "name": "Que Sigas Bien",
+      "url": "https://open.spotify.com/track/3BWUc9emQ4e1SglwrkBMtR"
+    },
+    {
+      "album": {
         "name": "Bajo la Misma Ciudad",
         "url": "https://open.spotify.com/album/1iLUu7vCCKq18JTxCAs2Tw"
       },
@@ -3681,7 +3736,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 349893,
       "name": "Qu\u00e9 Es Dios?",
       "url": "https://open.spotify.com/track/5P29BFj3HVX4iEsK7lCa0t"
@@ -4106,6 +4161,24 @@
     },
     {
       "album": {
+        "name": "Surtido",
+        "url": "https://open.spotify.com/album/2mCfQzd2pUWD1l71xRIP0E"
+      },
+      "artists": [
+        {
+          "name": "La Triple Nelson",
+          "url": "https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 218266,
+      "name": "Surtido",
+      "url": "https://open.spotify.com/track/61Vz32W74Ty0OwM8KGeSud"
+    },
+    {
+      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -4125,6 +4198,24 @@
     {
       "album": {
         "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
       "artists": [
@@ -4135,7 +4226,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
@@ -4833,6 +4924,24 @@
     {
       "album": {
         "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
       "artists": [
@@ -4843,7 +4952,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"

@@ -4,7 +4,7 @@
 
 > A selection of classic short stories and literature by women.
 
-39 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/4BqBfLT4RzslzZzLatXDZq)
+39 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

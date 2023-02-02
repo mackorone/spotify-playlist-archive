@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
   "name": "This Is Pauline Oliveros",
-  "published_playlist_ids": [
-    "5xnvtvaufG9BAcEZxHRGmf"
-  ],
   "tracks": [
     {
       "album": {
@@ -165,7 +162,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": "2023-01-27",
       "duration_ms": 157400,
       "name": "Alien Makeover",
       "url": "https://open.spotify.com/track/2YBqSfVClH6M5I5Ouyt7w9"
@@ -191,7 +188,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-09",
       "duration_ms": 412294,
       "name": "All Creatures Get It",
       "url": "https://open.spotify.com/track/175dH359woZbiN6qTMQdwR"
@@ -235,7 +232,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 363520,
       "name": "Altamirage III",
       "url": "https://open.spotify.com/track/0qB2kROt2cgfU7tlCzAqKI"
@@ -279,10 +276,62 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 193194,
       "name": "Altamirage V",
       "url": "https://open.spotify.com/track/73XUdV2DFnlyq1gE8qrS6I"
+    },
+    {
+      "album": {
+        "name": "The Space Between with Jo\u00eblle L\u00e9andre",
+        "url": "https://open.spotify.com/album/5R0cXznPxS9DvS49jYJKKa"
+      },
+      "artists": [
+        {
+          "name": "Philip Gelb",
+          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Dana Reason",
+          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
+        },
+        {
+          "name": "Jo\u00eblle L\u00e9andre",
+          "url": "https://open.spotify.com/artist/6Vl8OiMNnnLoHgrJTUBaru"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 160466,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3S7rMn7iMmRJeD6wWYwzsz"
+    },
+    {
+      "album": {
+        "name": "Music from the ONCE Festival 1961-1966",
+        "url": "https://open.spotify.com/album/3Na7wNz8laJmyCykFxII4t"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "David Tudor",
+          "url": "https://open.spotify.com/artist/1yD5aG8UUxsRwjya7fIa6s"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1033119,
+      "name": "Applebox Double",
+      "url": "https://open.spotify.com/track/4W6wFI0LtkFs6buiT5dHW5"
     },
     {
       "album": {
@@ -305,7 +354,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 204698,
       "name": "Arc Hive",
       "url": "https://open.spotify.com/track/3MyJ4MYNczi8sjZb4eiJrF"
@@ -341,7 +390,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2023-01-03",
       "duration_ms": 180040,
       "name": "Body Stories",
       "url": "https://open.spotify.com/track/7uICRy0IYUKeYQjZojQ2UA"
@@ -359,10 +408,46 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": "2023-02-02",
       "duration_ms": 1950107,
       "name": "Bog Road",
       "url": "https://open.spotify.com/track/3JPgUFZaSBP8ncwWs1OiwO"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1954080,
+      "name": "Boone Bog",
+      "url": "https://open.spotify.com/track/2JqCtJW71qERWIHPDK0z5N"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 770373,
+      "name": "Bottoms Up 1",
+      "url": "https://open.spotify.com/track/2zGk2I7Ik8ECJ2E96sDiKu"
     },
     {
       "album": {
@@ -437,7 +522,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 432733,
       "name": "Candles on the Lake Shore",
       "url": "https://open.spotify.com/track/7qEmDdoE2XugSgsy9rNPGI"
@@ -463,7 +548,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 483666,
       "name": "Condensed Matter",
       "url": "https://open.spotify.com/track/4hZZT6s8rQZ71aa6KbJSMn"
@@ -481,7 +566,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 160240,
       "name": "Cows, Cows, Cows!",
       "url": "https://open.spotify.com/track/4vvCbnChsEcrbNFjfjaj94"
@@ -529,7 +614,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": "2023-01-13",
       "duration_ms": 485186,
       "name": "Cyber Talk",
       "url": "https://open.spotify.com/track/6ZgMWgmu62nxrwXDxde71A"
@@ -559,7 +644,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-13",
       "duration_ms": 174240,
       "name": "David's Sandbox",
       "url": "https://open.spotify.com/track/2OtzKgyyOyq0cqTTZz687I"
@@ -611,7 +696,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2022-12-27",
       "duration_ms": 165138,
       "name": "Deep-Sea Rendez-Vous",
       "url": "https://open.spotify.com/track/0ZsN5BFNEOO0dbOQVKh6Fz"
@@ -637,10 +722,36 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 263826,
       "name": "Desposition",
       "url": "https://open.spotify.com/track/4ZWr04cqxx5RP5N0OlfZek"
+    },
+    {
+      "album": {
+        "name": "phase/transitions (vol. 2)",
+        "url": "https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 261825,
+      "name": "Devil in the Details",
+      "url": "https://open.spotify.com/track/5PAyrw5gVMxzDXJEH7dGUk"
     },
     {
       "album": {
@@ -693,7 +804,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 211093,
       "name": "Display of Plasma",
       "url": "https://open.spotify.com/track/5xNggf69ytqkDlULoIPU3n"
@@ -767,7 +878,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 199880,
       "name": "Duet",
       "url": "https://open.spotify.com/track/2DpRCugH6W4YelZWeprDNv"
@@ -815,7 +926,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-02-01",
       "duration_ms": 128973,
       "name": "Fantastic Increments",
       "url": "https://open.spotify.com/track/1iqeU4xp8Qq8B6BC32kVan"
@@ -841,10 +952,28 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 125586,
       "name": "Favorite Spark",
       "url": "https://open.spotify.com/track/24cUGtJpX9aTWBNfRzqd09"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "Fed Back 2",
+      "url": "https://open.spotify.com/track/5EL8kwk54XmX03SOYEJmc3"
     },
     {
       "album": {
@@ -871,6 +1000,32 @@
       "duration_ms": 733447,
       "name": "Festival of the Cicada - Live",
       "url": "https://open.spotify.com/track/2T3OJMfoUPV3zK08Jjs5DB"
+    },
+    {
+      "album": {
+        "name": "phase/transitions (vol. 1)",
+        "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 925786,
+      "name": "Filtered Reality",
+      "url": "https://open.spotify.com/track/3bQ8bGe17d3CWMDpgROPLQ"
     },
     {
       "album": {
@@ -929,7 +1084,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": "2023-01-05",
       "duration_ms": 254960,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/6CpzkEGtziYLYBuZS2CgrW"
@@ -955,7 +1110,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-26",
       "duration_ms": 392040,
       "name": "From the Backstretch - Live",
       "url": "https://open.spotify.com/track/3PY81IH55XLkkll2zgQVWQ"
@@ -1017,7 +1172,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 129065,
       "name": "Gravity Wins",
       "url": "https://open.spotify.com/track/52QnTntelHXZDUCfDAZskY"
@@ -1061,7 +1216,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": "2023-01-25",
       "duration_ms": 193813,
       "name": "Growler",
       "url": "https://open.spotify.com/track/4EiNKvrhChXtR5iyB9o2TT"
@@ -1131,7 +1286,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-16",
       "duration_ms": 395853,
       "name": "How?",
       "url": "https://open.spotify.com/track/4JxP15fvt3ORd7Ahfjky8x"
@@ -1167,7 +1322,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": "2022-12-31",
       "duration_ms": 968040,
       "name": "III",
       "url": "https://open.spotify.com/track/63sKc5bAefymu5ity0Qpbo"
@@ -1185,7 +1340,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2022-12-31",
       "duration_ms": 563373,
       "name": "III Of IV",
       "url": "https://open.spotify.com/track/5v2R74iTgntgSFm1kYS9d1"
@@ -1229,10 +1384,40 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-10",
       "duration_ms": 59000,
       "name": "In the Houses of My Families",
       "url": "https://open.spotify.com/track/4siYbu927SstAZU6VHoNXp"
+    },
+    {
+      "album": {
+        "name": "The Space Between with Barre Phillips",
+        "url": "https://open.spotify.com/album/2zKXJwGI8jRnRadiQHgtQS"
+      },
+      "artists": [
+        {
+          "name": "Philip Gelb",
+          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Dana Reason",
+          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
+        },
+        {
+          "name": "Barre Phillips",
+          "url": "https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 836840,
+      "name": "Incandescent Gesture",
+      "url": "https://open.spotify.com/track/1Iu8v8D2wGAUD8npnoEp3D"
     },
     {
       "album": {
@@ -1255,7 +1440,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 199991,
       "name": "Information National Forest",
       "url": "https://open.spotify.com/track/0qaoSyRrXkLz7H2SBMmpvh"
@@ -1285,7 +1470,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": "2023-01-10",
       "duration_ms": 510040,
       "name": "Inner",
       "url": "https://open.spotify.com/track/3c7GNksSHLQRQDAwSdc6vk"
@@ -1329,10 +1514,28 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2023-01-27",
       "duration_ms": 999400,
       "name": "IV Of IV",
       "url": "https://open.spotify.com/track/4wgoRq5FxguolBfMGdz4n3"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 952200,
+      "name": "Jar Piece",
+      "url": "https://open.spotify.com/track/7jP2N7JaHG5eN8NuUmeVnH"
     },
     {
       "album": {
@@ -1355,7 +1558,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 215880,
       "name": "Jupiter Smiles",
       "url": "https://open.spotify.com/track/3USmotICBcaGGxPfqATu64"
@@ -1381,7 +1584,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 193159,
       "name": "Last Night in the Holocene",
       "url": "https://open.spotify.com/track/7JWRsHoHsEcl2iD8fl0Vru"
@@ -1407,7 +1610,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 216013,
       "name": "Lines of Inevitability",
       "url": "https://open.spotify.com/track/3CNI9FT4WuBhQYux5VwdF0"
@@ -1429,7 +1632,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": "2023-01-28",
       "duration_ms": 654386,
       "name": "Maritime Rites: Rattlesnake Mountain",
       "url": "https://open.spotify.com/track/3Eg7ej0MOufgqKkFZFAu1V"
@@ -1455,7 +1658,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-23",
       "duration_ms": 130933,
       "name": "Mass Action",
       "url": "https://open.spotify.com/track/4NEL3xHrHuN5ctwyg2ovvb"
@@ -1485,7 +1688,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": "2023-01-09",
       "duration_ms": 749986,
       "name": "Mercury Retrograde",
       "url": "https://open.spotify.com/track/2UdGIIppEzR9SBdRkUXCNN"
@@ -1521,7 +1724,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-12-30",
       "duration_ms": 2018160,
       "name": "Mind Bog",
       "url": "https://open.spotify.com/track/3kZm6sinhvCCvLE77gYa5l"
@@ -1557,7 +1760,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-10",
       "duration_ms": 1048026,
       "name": "Mnemonics III",
       "url": "https://open.spotify.com/track/5x3P1G22nPQtkc29lkmW47"
@@ -1637,7 +1840,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": "2023-02-01",
       "duration_ms": 856346,
       "name": "Monument",
       "url": "https://open.spotify.com/track/6WWfPwQFOKNrdt5XDz6ViJ"
@@ -1663,7 +1866,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 243840,
       "name": "Morphotropic",
       "url": "https://open.spotify.com/track/6lOzGJLSRY374dHqBpIEWU"
@@ -1693,7 +1896,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-24",
       "duration_ms": 273560,
       "name": "Natto Breath",
       "url": "https://open.spotify.com/track/0Kwj0pY2OSlF67FDT2L09h"
@@ -1737,7 +1940,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": "2023-01-07",
       "duration_ms": 988306,
       "name": "Nite",
       "url": "https://open.spotify.com/track/4TOzYJCeDzFzKcbPkOschJ"
@@ -1759,6 +1962,28 @@
       "duration_ms": 1059960,
       "name": "No Mo",
       "url": "https://open.spotify.com/track/4RmTpdN9MWyfGRhRiYoDkh"
+    },
+    {
+      "album": {
+        "name": "Lotto S.E.L. - Et Spel for to Eller Fleire",
+        "url": "https://open.spotify.com/album/13D88HNolpDtVGV0tcGhxb"
+      },
+      "artists": [
+        {
+          "name": "N/A",
+          "url": "https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 526786,
+      "name": "Old Sound, New Sound, Borrowed Sound Blue",
+      "url": "https://open.spotify.com/track/3I6nx9swPrIqLD95fpVveO"
     },
     {
       "album": {
@@ -1829,7 +2054,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 831146,
       "name": "Outline: for flute, percussion and string bass",
       "url": "https://open.spotify.com/track/6X5eQbBOtHeDipm9Efhutg"
@@ -1865,10 +2090,40 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": "2023-01-05",
       "duration_ms": 243986,
       "name": "Pauline's Solo",
       "url": "https://open.spotify.com/track/7zM9MsyzwpYErpujQMH6YQ"
+    },
+    {
+      "album": {
+        "name": "The Space Between with Barre Phillips",
+        "url": "https://open.spotify.com/album/2zKXJwGI8jRnRadiQHgtQS"
+      },
+      "artists": [
+        {
+          "name": "Philip Gelb",
+          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Dana Reason",
+          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
+        },
+        {
+          "name": "Barre Phillips",
+          "url": "https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 216853,
+      "name": "Penguin",
+      "url": "https://open.spotify.com/track/22Et0FhvnfZabfCJ2CWWy9"
     },
     {
       "album": {
@@ -1891,7 +2146,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 282813,
       "name": "Photonic Dance",
       "url": "https://open.spotify.com/track/0dtNZJou6NptVMtC4DFsyn"
@@ -1917,7 +2172,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-24",
       "duration_ms": 208053,
       "name": "Pivot Point",
       "url": "https://open.spotify.com/track/3vmMPY1J7OBcoOYNUPSHz9"
@@ -1971,7 +2226,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2022-12-05",
       "duration_ms": 635413,
       "name": "Procession",
       "url": "https://open.spotify.com/track/07UUzMNgw4G1z7e9Vwv20C"
@@ -1997,7 +2252,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 330320,
       "name": "Pulling Rank",
       "url": "https://open.spotify.com/track/5ivWFisjOYaEdm0qhVtSUk"
@@ -2025,9 +2280,39 @@
           "url": "https://open.spotify.com/artist/7nVIbVC1823oRcakpFbiWd"
         }
       ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 214440,
+      "name": "Quartetto Telematico #1",
+      "url": "https://open.spotify.com/track/6gJwQqlBcKKS2M3K3MkuOr"
+    },
+    {
+      "album": {
+        "name": "phase/transitions (vol. 1)",
+        "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        },
+        {
+          "name": "Chris Chafe",
+          "url": "https://open.spotify.com/artist/7nVIbVC1823oRcakpFbiWd"
+        }
+      ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": "2023-02-01",
       "duration_ms": 184720,
       "name": "Quartetto Telematico #2",
       "url": "https://open.spotify.com/track/0LIfj51l30JOgZkGcUiLiV"
@@ -2057,7 +2342,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 221146,
       "name": "Quartetto Telematico #3",
       "url": "https://open.spotify.com/track/7etthEUmgR5cJD0Gm0dHW5"
@@ -2087,7 +2372,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-02-02",
       "duration_ms": 147973,
       "name": "Quartetto Telematico #5",
       "url": "https://open.spotify.com/track/7ys0YWoEWq7fddPr4pz7Eh"
@@ -2117,7 +2402,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 171106,
       "name": "Quartetto Telematico #6",
       "url": "https://open.spotify.com/track/3DFpK890CslTbYxX8WihKW"
@@ -2147,7 +2432,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-24",
       "duration_ms": 470506,
       "name": "Quartettto Telematico #4",
       "url": "https://open.spotify.com/track/7lkUdOD99R4wMF1BU5oVtS"
@@ -2183,7 +2468,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-01-07",
       "duration_ms": 223960,
       "name": "Reverberations",
       "url": "https://open.spotify.com/track/6QhWeoGPAlrNOhnyhmQyLF"
@@ -2199,9 +2484,27 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 575080,
+      "name": "Ringing the Mods 1 Heads",
+      "url": "https://open.spotify.com/track/77Nf7qhiLigQMsqaRw9RhF"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": "2023-01-17",
       "duration_ms": 575280,
       "name": "Ringing the Mods 2 Tails",
       "url": "https://open.spotify.com/track/76k24sDZMcQaAkgBinkllo"
@@ -2245,7 +2548,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2023-01-26",
       "duration_ms": 284673,
       "name": "Room At the Inn",
       "url": "https://open.spotify.com/track/6ngAUMaLLjcje2iU17j4Wp"
@@ -2301,7 +2604,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-27",
       "duration_ms": 245384,
       "name": "Several More Happened",
       "url": "https://open.spotify.com/track/14KI3MCgh7scFAQkA5aNBW"
@@ -2327,7 +2630,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 197920,
       "name": "Several Other Notions",
       "url": "https://open.spotify.com/track/2TaE1SwczjqKKVNxINSBQA"
@@ -2353,7 +2656,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-20",
       "duration_ms": 329586,
       "name": "Shear Viscosity",
       "url": "https://open.spotify.com/track/1ddvHU5FBTRdvoqsNTYKBK"
@@ -2378,6 +2681,36 @@
     },
     {
       "album": {
+        "name": "The Space Between with Jo\u00eblle L\u00e9andre",
+        "url": "https://open.spotify.com/album/5R0cXznPxS9DvS49jYJKKa"
+      },
+      "artists": [
+        {
+          "name": "Philip Gelb",
+          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Dana Reason",
+          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
+        },
+        {
+          "name": "Jo\u00eblle L\u00e9andre",
+          "url": "https://open.spotify.com/artist/6Vl8OiMNnnLoHgrJTUBaru"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 243653,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/5UtlbbhPS9yHx3ujQ2SRwW"
+    },
+    {
+      "album": {
         "name": "phase/transitions (vol. 1)",
         "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
       },
@@ -2397,7 +2730,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 202533,
       "name": "Sirens of Titan",
       "url": "https://open.spotify.com/track/6xD4CD2VXU8eueuUZzNpU3"
@@ -2445,10 +2778,28 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": "2023-01-10",
       "duration_ms": 435000,
       "name": "Snow Drifts",
       "url": "https://open.spotify.com/track/0RDaGU8rrfG6MFZq2YPBvz"
+    },
+    {
+      "album": {
+        "name": "No Mo",
+        "url": "https://open.spotify.com/album/3SiVMbk8hQsG1VuJkvJsPh"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 824760,
+      "name": "Something Else",
+      "url": "https://open.spotify.com/track/141XHh4dxYa4K8q1k7mcYF"
     },
     {
       "album": {
@@ -2471,7 +2822,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 240880,
       "name": "Sonic Mercury",
       "url": "https://open.spotify.com/track/4O6J19ZtPJBzYaOYXPvRlE"
@@ -2515,7 +2866,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-27",
       "duration_ms": 780466,
       "name": "Spin Density",
       "url": "https://open.spotify.com/track/5P5vf7XIvku60wurI5VZCI"
@@ -2611,7 +2962,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 427607,
       "name": "Succisa Pratensis",
       "url": "https://open.spotify.com/track/6HkF93DbaFVQiG4n8x2Th5"
@@ -2637,7 +2988,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 174893,
       "name": "Supercritical",
       "url": "https://open.spotify.com/track/3XWlm1PuZhTGy3gedOKKmf"
@@ -2667,7 +3018,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-10",
       "duration_ms": 316893,
       "name": "Surely It Was",
       "url": "https://open.spotify.com/track/3TplkvXU7hOqr9ilrI5R4Y"
@@ -2685,7 +3036,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": "2022-12-28",
       "duration_ms": 1651080,
       "name": "Tara's Room",
       "url": "https://open.spotify.com/track/2BcRnZTZbFmvEBSDoBc8z4"
@@ -2707,6 +3058,32 @@
       "duration_ms": 1377840,
       "name": "Team and Desecrations Improvisation",
       "url": "https://open.spotify.com/track/3cRqpTWpQ0vm7kpix29RZ3"
+    },
+    {
+      "album": {
+        "name": "phase/transitions (vol. 1)",
+        "url": "https://open.spotify.com/album/3RFNgtwC1h1UzApPMsoAQo"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 121386,
+      "name": "The Angle of Incidence",
+      "url": "https://open.spotify.com/track/4MwT65cFtT7dPCfwQC2sCG"
     },
     {
       "album": {
@@ -2783,7 +3160,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 448306,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/0KKtoErDaqimf2hZfEw3VL"
@@ -2813,7 +3190,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-23",
       "duration_ms": 130360,
       "name": "The Lonely Halibut",
       "url": "https://open.spotify.com/track/24iGyU7piTZCKnYtDx7IDZ"
@@ -2879,7 +3256,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-14",
       "duration_ms": 865733,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/77gWQtMuwLoBHzbPyy6S9X"
@@ -2941,7 +3318,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 364080,
       "name": "Then we were not there",
       "url": "https://open.spotify.com/track/3rEw3Qnam3kvW2wTAnpQr3"
@@ -2967,7 +3344,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 480225,
       "name": "Three of a Mind",
       "url": "https://open.spotify.com/track/4y3wgiAx0GbD28bnNxHTEQ"
@@ -3019,9 +3396,27 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 244080,
+      "name": "Three Pieces III",
+      "url": "https://open.spotify.com/track/6QizflgSNHWGIUAxCG1dId"
+    },
+    {
+      "album": {
+        "name": "Reverberations: Tape & Electronic Music 1961-1970",
+        "url": "https://open.spotify.com/album/4uzsVWdvmqCLjH60WkTMoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-01-10",
       "duration_ms": 1177920,
       "name": "Time Perspectives",
       "url": "https://open.spotify.com/track/2dmBXKZU0ptr1ItsMfQMju"
@@ -3091,10 +3486,36 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 319532,
       "name": "Trientalis Europaea",
       "url": "https://open.spotify.com/track/3DlkpH9BmBI9FAmIFFOUkq"
+    },
+    {
+      "album": {
+        "name": "Altamirage",
+        "url": "https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "James Ilgenfritz",
+          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
+        },
+        {
+          "name": "Anagram Ensemble",
+          "url": "https://open.spotify.com/artist/2FX44ZQpUxNDbSlYFLMSQs"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 83114,
+      "name": "Trio For Trumpet, Accordion, and String Bass I",
+      "url": "https://open.spotify.com/track/5NKgGrmJNk9Rw3RA8Gxipv"
     },
     {
       "album": {
@@ -3195,7 +3616,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 92095,
       "name": "Trio For Trumpet, Accordion, and String Bass V",
       "url": "https://open.spotify.com/track/2ZZtFGWyY3tWQphYricM1b"
@@ -3221,7 +3642,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 289853,
       "name": "Under the Influences",
       "url": "https://open.spotify.com/track/2YUlGRcwMouHDQimtd2Q2P"
@@ -3251,7 +3672,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-01",
       "duration_ms": 688426,
       "name": "Untited #270",
       "url": "https://open.spotify.com/track/5yrWE0AgTqRcQiIGyE0IFC"
@@ -3281,7 +3702,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": "2023-01-14",
       "duration_ms": 555893,
       "name": "Untitled #273",
       "url": "https://open.spotify.com/track/5IZeF6Cn3v6ePZalWN2G5R"
@@ -3347,7 +3768,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 427695,
       "name": "Vaccinium Myrtillus",
       "url": "https://open.spotify.com/track/04iUS6mYbmKESivrKn1HtD"
@@ -3373,7 +3794,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 201280,
       "name": "Vaporization",
       "url": "https://open.spotify.com/track/3Vh3q9m1HRvQdLfcE6ysAc"
@@ -3399,10 +3820,40 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 214080,
       "name": "Venus Rising",
       "url": "https://open.spotify.com/track/5m7ZLZHWo6ibtEvtSPrJxf"
+    },
+    {
+      "album": {
+        "name": "The Space Between with Jo\u00eblle L\u00e9andre",
+        "url": "https://open.spotify.com/album/5R0cXznPxS9DvS49jYJKKa"
+      },
+      "artists": [
+        {
+          "name": "Philip Gelb",
+          "url": "https://open.spotify.com/artist/072w1Ic6TAlSH4svuUIlPE"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Dana Reason",
+          "url": "https://open.spotify.com/artist/3b22DdZo7z9wyXQxgHiijf"
+        },
+        {
+          "name": "Jo\u00eblle L\u00e9andre",
+          "url": "https://open.spotify.com/artist/6Vl8OiMNnnLoHgrJTUBaru"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 443733,
+      "name": "Vittoria",
+      "url": "https://open.spotify.com/track/6vsMJbyrCpH7iM3dc7pFRh"
     },
     {
       "album": {
@@ -3457,7 +3908,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 889547,
       "name": "We Are Still Thinking About The Title",
       "url": "https://open.spotify.com/track/0KxNQpJuUASL2crmvIHqX4"
@@ -3513,7 +3964,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 492093,
       "name": "What Gets Left Behind - Live",
       "url": "https://open.spotify.com/track/5DEY6mY9VkgFlzNQYOr7nO"
@@ -3583,7 +4034,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 306040,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/35IB6jqgvQyjWst1ot9lDd"

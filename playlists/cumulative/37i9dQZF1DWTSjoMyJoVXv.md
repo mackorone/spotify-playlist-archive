@@ -4,7 +4,7 @@
 
 > The Bollywood songwriting team's best work.
 
-30 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/0oAogCOC50fFP5GGv3Rd3S)
+30 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

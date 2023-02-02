@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,071 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,645 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 18 | [Aao Na](https://open.spotify.com/track/1wJpkjQe0KDIAQfT3QKUjX) | [Jolly Mukherjee](https://open.spotify.com/artist/1k86nyDLibfGQYpps8NKO0), [Sridevi Kapoor](https://open.spotify.com/artist/0OBz8mYBMe8tAG2drRn9ZV) | [Песни из к/ф Диско Дива](https://open.spotify.com/album/6mgRhaMMBZRmUVebgmWiM1) | 4:10 |
 | 19 | [Hari Om Hari](https://open.spotify.com/track/01XB8eBdOVeSzNGIRQqqv7) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Pyaara Dushman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EGYsYtquqd98zUrLOn53B) | 6:38 |
 | 20 | [Aap Ke Aa Jane Se \(From "Khudgarz"\)](https://open.spotify.com/track/0HkyMWJTYyhp4kALs17YlA) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Mohammed Aziz](https://open.spotify.com/artist/3vXBH4XwXSLM1YIrRBt98k) | [Melodious Voice of Sadhana Sargam](https://open.spotify.com/album/7ID29f8hV3J5IOFmugRQQo) | 7:12 |
-| 21 | [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- Zamaane Ko Dikhana Hai / Soundtrack Version](https://open.spotify.com/track/34kyAlWl29abvjFCLgdq4M) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Zamaane Ko Dikhana Hai](https://open.spotify.com/album/0ewP49TaCcfkO6mupldqPP) | 8:00 |
+| 21 | [Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah \(Zamaane Ko Dikhana Hai\) \- From "Zamaane Ko Dikhana Hai"](https://open.spotify.com/track/34kyAlWl29abvjFCLgdq4M) | [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Zamaane Ko Dikhana Hai](https://open.spotify.com/album/0ewP49TaCcfkO6mupldqPP) | 8:00 |
 | 22 | [Udi Baba](https://open.spotify.com/track/4cdy3F7hCRFN8HvVIdOFTq) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Vidhaata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UaPWSo0xzoG0X82x7TZdw) | 6:23 |
 | 23 | [The Disco Song](https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 5:42 |
 | 24 | [Gunmaster G\-9](https://open.spotify.com/track/6kAVYOf6CbuLO7odHTiRJu) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Annette Pinto](https://open.spotify.com/artist/1iAJP0fds4MdLGjha2ahDt) | [Surakksha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y96C5codhCZcwTr8inaLU) | 5:17 |

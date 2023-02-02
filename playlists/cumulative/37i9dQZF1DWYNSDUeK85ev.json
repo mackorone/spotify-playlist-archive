@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "La m\u00fasica que prende la fiesta!",
   "name": "Joda",
-  "published_playlist_ids": [
-    "1jUwJwWRtwiunxH0XaRprk"
-  ],
   "tracks": [
     {
       "album": {
@@ -273,7 +270,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": "2022-12-06",
       "duration_ms": 182496,
       "name": "AM",
       "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
@@ -1001,7 +998,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
@@ -1215,7 +1212,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227395,
       "name": "C\u00f3mo est\u00e1s",
       "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
@@ -1503,8 +1500,8 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
       "date_added": "2022-07-22",
@@ -1739,7 +1736,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
@@ -1797,7 +1794,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
@@ -1959,7 +1956,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 182863,
       "name": "Envolver Remix",
       "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
@@ -1995,7 +1992,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 190564,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf"
@@ -2143,7 +2140,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
@@ -2987,7 +2984,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 382555,
       "name": "La Curiosidad (feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",
       "url": "https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD"
@@ -4110,6 +4107,24 @@
     },
     {
       "album": {
+        "name": "SnipeZ",
+        "url": "https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196044,
+      "name": "Ne\u00f3n",
+      "url": "https://open.spotify.com/track/3vRF2KJzU2l5Zae0L0Kdi7"
+    },
+    {
+      "album": {
         "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
         "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
       },
@@ -4169,7 +4184,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": "2023-01-13",
       "duration_ms": 250840,
       "name": "No Es Justo",
       "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
@@ -4213,10 +4228,36 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 307546,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW"
+    },
+    {
+      "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
     },
     {
       "album": {
@@ -4568,6 +4609,28 @@
     },
     {
       "album": {
+        "name": "Pal Party",
+        "url": "https://open.spotify.com/album/3J0jOvR1gVCShYy6YLWLFC"
+      },
+      "artists": [
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136291,
+      "name": "Pal Party",
+      "url": "https://open.spotify.com/track/3sWXB7x9mwNkrHD2lFtept"
+    },
+    {
+      "album": {
         "name": "PAM",
         "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
       },
@@ -4767,6 +4830,24 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
+    },
+    {
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/519NM1nvGS2JZwji1k6g9z"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61518,
+      "name": "Pideme la Luna - Remix",
+      "url": "https://open.spotify.com/track/53h0I0zOgs1KntA5lel3EF"
     },
     {
       "album": {
@@ -5126,6 +5207,24 @@
     },
     {
       "album": {
+        "name": "\u00bfQu\u00e9 No Vale Nada?",
+        "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244653,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/5okavJ731DnmenoazNvinG"
+    },
+    {
+      "album": {
         "name": "Que Desgracia",
         "url": "https://open.spotify.com/album/3svefxTp7oowDqna6fp1Ya"
       },
@@ -5262,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125828,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz"
+    },
+    {
+      "album": {
         "name": "Que Tire Pa Lante",
         "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
       },
@@ -5273,7 +5390,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 210520,
       "name": "Que Tire Pa Lante",
       "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
@@ -5419,7 +5536,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
@@ -5499,7 +5616,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 184254,
       "name": "Relaci\u00f3n",
       "url": "https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ"
@@ -5900,6 +6017,28 @@
     },
     {
       "album": {
+        "name": "Sesi\u00f3n - 6",
+        "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
+      },
+      "artists": [
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/0IO56E14smKzfaMfFrIklL"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150315,
+      "name": "Sesi\u00f3n - 6",
+      "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
+    },
+    {
+      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -6041,7 +6180,7 @@
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -6123,7 +6262,7 @@
       },
       "artists": [
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -6559,7 +6698,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-15",
       "duration_ms": 201818,
       "name": "Te Robar\u00e9",
       "url": "https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T"
@@ -7167,14 +7306,14 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240853,
       "name": "Una Cerveza",
       "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
     },
     {
       "album": {
-        "name": "Enoc",
+        "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
@@ -7416,6 +7555,24 @@
     },
     {
       "album": {
+        "name": "Vida Gangster",
+        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170058,
+      "name": "Vida Gangster",
+      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
+    },
+    {
+      "album": {
         "name": "Cumbia Sabrosa",
         "url": "https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm"
       },
@@ -7629,7 +7786,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 304091,
       "name": "Zun Da Da",
       "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"

@@ -1,15 +1,15 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 175030,
+  "num_followers": 177781,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDAwMjJkODgxYjhiNjhkM2VhNmFhMmEzYzA0ZjY4NTAzYg==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA3YjIyY2ZhOTg1MTM5ZmU3N2RlNWM5Y2UyODBiNDkyOA==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "El Free",
         "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Sue\u00f1o XXX",
         "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/33XISWpHJRbAvFSMW1y44A"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
@@ -57,71 +57,7 @@
       "url": "https://open.spotify.com/track/2bpmteM9wnfynV1MNkI898"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Para Ti Solita",
-        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 155973,
-      "name": "En Resumen",
-      "url": "https://open.spotify.com/track/7DbS4AzvjmJPeJP3Uwovs6"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Me Est\u00e1 Gustando",
-        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Me Est\u00e1 Gustando",
-      "url": "https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Sue\u00f1o XXX",
-        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Me Toc\u00f3 Perder",
-      "url": "https://open.spotify.com/track/2bKxgwhHmjvqan4LQ4GXHZ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Ando Bien Pedo",
         "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
@@ -137,7 +73,23 @@
       "url": "https://open.spotify.com/track/58rgceeiYu1wFneDP2j5LJ"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Para Ti Solita",
+        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 155973,
+      "name": "En Resumen",
+      "url": "https://open.spotify.com/track/7DbS4AzvjmJPeJP3Uwovs6"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Me Est\u00e1 Gustando",
         "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
@@ -148,12 +100,28 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 144613,
-      "name": "Pistear\u00e9",
-      "url": "https://open.spotify.com/track/0LCMFLgIISg4Mab1YL5shU"
+      "duration_ms": 180146,
+      "name": "Me Est\u00e1 Gustando",
+      "url": "https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "El Free",
         "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
@@ -169,7 +137,7 @@
       "url": "https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Sue\u00f1o XXX",
         "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
@@ -180,28 +148,12 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 143400,
-      "name": "Hasta Que Salga El Sol",
-      "url": "https://open.spotify.com/track/5jezNmDvHt6ecvWeMfwW0v"
+      "duration_ms": 183640,
+      "name": "Me Toc\u00f3 Perder",
+      "url": "https://open.spotify.com/track/2bKxgwhHmjvqan4LQ4GXHZ"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Ando Bien Pedo",
-        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "La Escuelita",
-      "url": "https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Me Est\u00e1 Gustando",
         "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
@@ -212,12 +164,28 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 179933,
-      "name": "Recu\u00e9rdenme As\u00ed",
-      "url": "https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl"
+      "duration_ms": 144613,
+      "name": "Pistear\u00e9",
+      "url": "https://open.spotify.com/track/0LCMFLgIISg4Mab1YL5shU"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Quisiera Saber",
+        "url": "https://open.spotify.com/album/1YLA1QkbnzgXWkD5TkCDs7"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "Quisiera Saber",
+      "url": "https://open.spotify.com/track/3K4HDf1v1l3g0QvMbBPyWW"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "El Free",
         "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
@@ -233,7 +201,39 @@
       "url": "https://open.spotify.com/track/6uh4lKGlcy14su96RvV6df"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "La Escuelita",
+      "url": "https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "Recu\u00e9rdenme As\u00ed",
+      "url": "https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Fuerte No Soy",
         "url": "https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
@@ -265,7 +265,23 @@
       "url": "https://open.spotify.com/track/3gizL2fAU59XhtjbZpbme7"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Sue\u00f1o XXX",
+        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Hasta Que Salga El Sol",
+      "url": "https://open.spotify.com/track/5jezNmDvHt6ecvWeMfwW0v"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Me Est\u00e1 Gustando",
         "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
@@ -281,43 +297,7 @@
       "url": "https://open.spotify.com/track/4xKmCXrvnvrRa7XoBIwUoZ"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Si Te Vas A Ir",
-        "url": "https://open.spotify.com/album/7aLmI4s5RkG708JchOa2qH"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Si Te Vas A Ir",
-      "url": "https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Tacones Rojos (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Tacones Rojos - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
@@ -337,23 +317,7 @@
       "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Me Est\u00e1 Gustando",
-        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 157680,
-      "name": "Me Est\u00e1 Tirando El Rollo",
-      "url": "https://open.spotify.com/track/5v9LZ5q4vX0ybNUgSJtMin"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
@@ -369,23 +333,7 @@
       "url": "https://open.spotify.com/track/2dgwZntNk1YJO9SiFyydHb"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Vivir La Vida",
-        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "Vivir La Vida",
-      "url": "https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
@@ -401,7 +349,7 @@
       "url": "https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Me Est\u00e1 Gustando",
         "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
@@ -412,12 +360,32 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 153866,
-      "name": "Al Rescate",
-      "url": "https://open.spotify.com/track/6RYkjZLxo7xZSR9LNr57K9"
+      "duration_ms": 157680,
+      "name": "Me Est\u00e1 Tirando El Rollo",
+      "url": "https://open.spotify.com/track/5v9LZ5q4vX0ybNUgSJtMin"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Tacones Rojos (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Tacones Rojos - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
@@ -433,10 +401,10 @@
       "url": "https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
-        "name": "Para Ti Solita",
-        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
+        "name": "Vivir La Vida",
+        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
       },
       "artists": [
         {
@@ -444,15 +412,15 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 197253,
-      "name": "Sin Autorizaci\u00f3n",
-      "url": "https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC"
+      "duration_ms": 177133,
+      "name": "Vivir La Vida",
+      "url": "https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
       },
       "artists": [
         {
@@ -460,28 +428,12 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 150786,
-      "name": "Eres Dif\u00edcil",
-      "url": "https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D"
+      "duration_ms": 153866,
+      "name": "Al Rescate",
+      "url": "https://open.spotify.com/track/6RYkjZLxo7xZSR9LNr57K9"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "La Baraja",
-        "url": "https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "La Baraja",
-      "url": "https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Volver A Volar",
         "url": "https://open.spotify.com/album/5AcdviRjHFjsErdiU3RtWg"
@@ -561,10 +513,10 @@
       "url": "https://open.spotify.com/track/1UTax2cvw1ehp87jkxbCXF"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
-        "name": "Ando Bien Pedo",
-        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
       },
       "artists": [
         {
@@ -572,12 +524,44 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 208293,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou"
+      "duration_ms": 150786,
+      "name": "Eres Dif\u00edcil",
+      "url": "https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Para Ti Solita",
+        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Sin Autorizaci\u00f3n",
+      "url": "https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "La Baraja",
+        "url": "https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "La Baraja",
+      "url": "https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
@@ -593,7 +577,23 @@
       "url": "https://open.spotify.com/track/7kmrbuDn7yI4t0VoHIV9PR"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Superlameando",
         "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
@@ -613,10 +613,10 @@
       "url": "https://open.spotify.com/track/0NiQtVu6jYIqQjCKVlqjX5"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
-        "name": "Me Siento A Todo Dar",
-        "url": "https://open.spotify.com/album/54uGnanbGdJIINnc3U3Clx"
+        "name": "Si Te Vas A Ir",
+        "url": "https://open.spotify.com/album/7aLmI4s5RkG708JchOa2qH"
       },
       "artists": [
         {
@@ -624,28 +624,12 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Me Siento A Todo Dar",
-      "url": "https://open.spotify.com/track/4UkEbKZ1YbtDnrLGWXp0LJ"
+      "duration_ms": 197386,
+      "name": "Si Te Vas A Ir",
+      "url": "https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Quisiera Saber",
-        "url": "https://open.spotify.com/album/1YLA1QkbnzgXWkD5TkCDs7"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Quisiera Saber",
-      "url": "https://open.spotify.com/track/3K4HDf1v1l3g0QvMbBPyWW"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Los Gustos Que Me Doy",
         "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
@@ -661,23 +645,7 @@
       "url": "https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 132106,
-      "name": "Que A Toda Madre (Que A Todo Dar)",
-      "url": "https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Vengo A Decirte",
         "url": "https://open.spotify.com/album/0CnvKmPlj5MYRyWySTAODw"
@@ -693,71 +661,7 @@
       "url": "https://open.spotify.com/track/37yaX9Lb6lelIodevWgR9T"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Vivir La Vida",
-        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Ponle Que S\u00ed",
-      "url": "https://open.spotify.com/track/2MViucn04mANEpbKRh5p4D"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Llorando En Un Carro Del A\u00f1o",
-        "url": "https://open.spotify.com/album/18XHmgKEQKh4EwxqHDAJNM"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 148426,
-      "name": "Llorando En Un Carro Del A\u00f1o",
-      "url": "https://open.spotify.com/track/4OfIidHHKBPT32ZJpN8m6T"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 141280,
-      "name": "Voy A Pistear",
-      "url": "https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Sue\u00f1o XXX",
-        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "Morras De Acci\u00f3n",
-      "url": "https://open.spotify.com/track/6Kbf0AabdaT73J54MwKswQ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Vivir La Vida",
         "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
@@ -773,7 +677,55 @@
       "url": "https://open.spotify.com/track/2SbrBJ7ueAZ4iGYHTf21HU"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Me Siento A Todo Dar",
+        "url": "https://open.spotify.com/album/54uGnanbGdJIINnc3U3Clx"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Me Siento A Todo Dar",
+      "url": "https://open.spotify.com/track/4UkEbKZ1YbtDnrLGWXp0LJ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 132106,
+      "name": "Que A Toda Madre (Que A Todo Dar)",
+      "url": "https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Llorando En Un Carro Del A\u00f1o",
+        "url": "https://open.spotify.com/album/18XHmgKEQKh4EwxqHDAJNM"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 148426,
+      "name": "Llorando En Un Carro Del A\u00f1o",
+      "url": "https://open.spotify.com/track/4OfIidHHKBPT32ZJpN8m6T"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Una Peda Con El Viejo",
         "url": "https://open.spotify.com/album/06veMmIctzxEgh8oubKTUX"
@@ -789,23 +741,7 @@
       "url": "https://open.spotify.com/track/21hGjxRr4AKTmHsh84ayOw"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "Te Acostumbr\u00e9 A Mis Besos",
-      "url": "https://open.spotify.com/track/3Zj6ZHiLwbKW1DvtcAf1sG"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Para Qu\u00e9 Me Las Diste",
         "url": "https://open.spotify.com/album/5wgOVJ9KTVFbhau9ppTj80"
@@ -825,7 +761,71 @@
       "url": "https://open.spotify.com/track/7AyxD2OecOyvIlByUY0Kvz"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 141280,
+      "name": "Voy A Pistear",
+      "url": "https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Vivir La Vida",
+        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Ponle Que S\u00ed",
+      "url": "https://open.spotify.com/track/2MViucn04mANEpbKRh5p4D"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Sue\u00f1o XXX",
+        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "Morras De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/6Kbf0AabdaT73J54MwKswQ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "Te Acostumbr\u00e9 A Mis Besos",
+      "url": "https://open.spotify.com/track/3Zj6ZHiLwbKW1DvtcAf1sG"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "A Toda Madre",
         "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
@@ -841,7 +841,43 @@
       "url": "https://open.spotify.com/track/0VcgAjwQsF92hVn4g5Awmi"
     },
     {
-      "added_at": "2022-11-25 14:27:23",
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Mi \u00daltimo Deseo",
+        "url": "https://open.spotify.com/album/6I8efdU2wPu46QxwGcsPqD"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Mi \u00datimo Deseo",
+      "url": "https://open.spotify.com/track/5DbHwG8J096GjmUPDXCIo1"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
+      "album": {
+        "name": "Sue\u00f1o XXX",
+        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 146786,
+      "name": "La Peda",
+      "url": "https://open.spotify.com/track/56zRgQeUeM1xRwEHtGStTy"
+    },
+    {
+      "added_at": "2023-02-01 17:51:38",
       "album": {
         "name": "Di",
         "url": "https://open.spotify.com/album/6VuPsmLx3cksABLrjHrjY5"
@@ -859,38 +895,6 @@
       "duration_ms": 178866,
       "name": "Di",
       "url": "https://open.spotify.com/track/3oS01WFEINphPVTxcala2x"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Sue\u00f1o XXX",
-        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 146786,
-      "name": "La Peda",
-      "url": "https://open.spotify.com/track/56zRgQeUeM1xRwEHtGStTy"
-    },
-    {
-      "added_at": "2022-11-25 14:27:23",
-      "album": {
-        "name": "Si No Existieras...Pero Existimos",
-        "url": "https://open.spotify.com/album/19TgMyTRUaYXQ4dSj84cgn"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 155573,
-      "name": "Amores Fingidos",
-      "url": "https://open.spotify.com/track/4J3miVgH4SeSdYf1SN8lB1"
     }
   ],
   "unique_name": "This Is Banda Los Recoditos",

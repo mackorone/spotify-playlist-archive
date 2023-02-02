@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
   "name": "70s Country",
-  "published_playlist_ids": [
-    "1KxHyfdL3wCGKY9oZxPyfF"
-  ],
   "tracks": [
     {
       "album": {
@@ -199,7 +196,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 168933,
       "name": "Bloody Mary Morning",
       "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
@@ -567,7 +564,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 167706,
       "name": "East Bound and Down",
       "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
@@ -1043,7 +1040,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-10",
       "duration_ms": 192040,
       "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
       "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
@@ -1325,6 +1322,24 @@
       "duration_ms": 240106,
       "name": "Long Haired Country Boy",
       "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+    },
+    {
+      "album": {
+        "name": "Silk Purse",
+        "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263400,
+      "name": "Long Long Time",
+      "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
     },
     {
       "album": {
@@ -1705,6 +1720,24 @@
       "duration_ms": 157746,
       "name": "Pass Me By",
       "url": "https://open.spotify.com/track/0KaaQF4tqn8Ser0PxfqTGz"
+    },
+    {
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/0O7fLzqBv5cj2tONoAj8sE"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rodriguez",
+          "url": "https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157746,
+      "name": "Pass Me By",
+      "url": "https://open.spotify.com/track/13ion8hnAYRdnLmuxddivf"
     },
     {
       "album": {

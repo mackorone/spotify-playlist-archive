@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.",
   "name": "Christmas Lullabies",
-  "published_playlist_ids": [
-    "0cma9eATlERoy7bhmBZ0M3"
-  ],
   "tracks": [
     {
       "album": {
@@ -116,6 +113,28 @@
     },
     {
       "album": {
+        "name": "Little Star",
+        "url": "https://open.spotify.com/album/46hkWWf7jd6FyDZwCwRPXm"
+      },
+      "artists": [
+        {
+          "name": "Edwin Othello Excell",
+          "url": "https://open.spotify.com/artist/5mOhoiRh7zP0udscnBUyGz"
+        },
+        {
+          "name": "Bae Bee",
+          "url": "https://open.spotify.com/artist/1OYYgvoQMVHpU1HgW0ZduV"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167812,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/1vvJlfnj5pfqpI5S8Yrq3e"
+    },
+    {
+      "album": {
         "name": "Quietime In The Garden",
         "url": "https://open.spotify.com/album/2NdrbO9WGOrDfY9boMUt6N"
       },
@@ -149,6 +168,24 @@
       "duration_ms": 227253,
       "name": "Angels From The Realms Of Glory",
       "url": "https://open.spotify.com/track/4xKthebrMWpRlfCdqGjfZk"
+    },
+    {
+      "album": {
+        "name": "Twinkle, Twinkle, Little Star",
+        "url": "https://open.spotify.com/album/4kn6vjaZBrC25WwrizfxrH"
+      },
+      "artists": [
+        {
+          "name": "Elsa Ekel\u00f6f",
+          "url": "https://open.spotify.com/artist/4inKxBzHNdu9I7yp2iY8e8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77211,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/05JzXrAMXWpNmvQgsxxYwB"
     },
     {
       "album": {
@@ -257,6 +294,24 @@
       "duration_ms": 107493,
       "name": "Away in a Manger",
       "url": "https://open.spotify.com/track/6EPQBJzVPciZVmXpQntlXa"
+    },
+    {
+      "album": {
+        "name": "Calming Christmas Flow",
+        "url": "https://open.spotify.com/album/3aXKEnziDwXCVJqbx97Jj9"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66850,
+      "name": "Be Thou My Vision Lullaby",
+      "url": "https://open.spotify.com/track/3P96LOcJuE4Aqzetsqnou2"
     },
     {
       "album": {
@@ -401,6 +456,24 @@
       "duration_ms": 196333,
       "name": "Do You Want to Build a Snowman?",
       "url": "https://open.spotify.com/track/1fbnn3frhDoCMsM0QEogJK"
+    },
+    {
+      "album": {
+        "name": "Peaceful Christmas Cello",
+        "url": "https://open.spotify.com/album/06hUzupPHjNtNHr4yrmrgF"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95769,
+      "name": "Dona Nobis Pacem - Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/3doLaEr9KYiReJIRkGWbxJ"
     },
     {
       "album": {
@@ -574,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/3YGh4CN0JocLK0SwvJgMWc"
+      },
+      "artists": [
+        {
+          "name": "Benny Andersson",
+          "url": "https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/7k7gkF1Z6IPUJIu9ARkRky"
+    },
+    {
+      "album": {
         "name": "Christmas Spa",
         "url": "https://open.spotify.com/album/6i7aQrxUd1jpAR6Ni95uib"
       },
@@ -693,7 +784,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 207106,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/6yJoCZIFEUx0UFhVmE2QDm"
@@ -715,6 +806,24 @@
       "duration_ms": 207106,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/7jB8pSChFzxNfGOIhHGNho"
+    },
+    {
+      "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/4rXUlp3GgLqARaMmJ22siM"
+      },
+      "artists": [
+        {
+          "name": "Ian Wong",
+          "url": "https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105365,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/3vbzj78wOFNBZykhXztXiT"
     },
     {
       "album": {
@@ -808,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Winter Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/7jLZwWbXt1vis9OzlWN1qM"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106447,
+      "name": "Jolly Old Saint Nicholas",
+      "url": "https://open.spotify.com/track/5HcE6dI9hOcjG0t1ZqKjyK"
+    },
+    {
+      "album": {
         "name": "Christmas Baby: Christmas Music,Christmas Carols, Holiday Music, Baby Lullabies & Baby Lullaby Music",
         "url": "https://open.spotify.com/album/6lodGpWBpMc6JO6nEpqxIN"
       },
@@ -834,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Christmas Lullabies",
+        "url": "https://open.spotify.com/album/5gcFtGz8MFUST69lxrvVol"
+      },
+      "artists": [
+        {
+          "name": "Universe Mind",
+          "url": "https://open.spotify.com/artist/2awxN1MZogaVe4XxP4NNjG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/1ZWIyUI8An10AbGznyAJS5"
+    },
+    {
+      "album": {
         "name": "Christmas Lullabies Vol 3",
         "url": "https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n"
       },
@@ -845,7 +990,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 236250,
       "name": "Joy to the World (Instrumental)",
       "url": "https://open.spotify.com/track/2XG2tfepUFV6ujKSLFmL7u"
@@ -924,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "O Christmas Tree (Soft Piano Version)",
+        "url": "https://open.spotify.com/album/1UGJaMpcL6k1gbleCBUjDY"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64444,
+      "name": "O Christmas Tree - Soft Piano Version",
+      "url": "https://open.spotify.com/track/5KTMmMPIA6gUxxJX7OJP0R"
+    },
+    {
+      "album": {
         "name": "Peaceful Christmas Harp",
         "url": "https://open.spotify.com/album/1ZPpgQnJEJEHCycs1dWEHl"
       },
@@ -957,6 +1120,24 @@
       "duration_ms": 114843,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/32i2RMnxpMfTYBRGhNWZbb"
+    },
+    {
+      "album": {
+        "name": "Christmas Lullabies, Vol. 2",
+        "url": "https://open.spotify.com/album/34sTR4gJbGeXmRVUpltCxk"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63373,
+      "name": "O Little Town Of Bethlehem Lullaby",
+      "url": "https://open.spotify.com/track/6wG0W7L4nVL28C7s0YO81g"
     },
     {
       "album": {
@@ -1320,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Upon a Star",
+        "url": "https://open.spotify.com/album/0AGVGTxd6cjDO1bZXx1AJQ"
+      },
+      "artists": [
+        {
+          "name": "Yi Nantiro",
+          "url": "https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116111,
+      "name": "Upon a Star",
+      "url": "https://open.spotify.com/track/6GOpUvPIGWW3CFBfVnd8uA"
+    },
+    {
+      "album": {
         "name": "Christmas Lullabies Vol 3",
         "url": "https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n"
       },
@@ -1389,6 +1588,24 @@
       "duration_ms": 149200,
       "name": "What Child Is This?",
       "url": "https://open.spotify.com/track/6wmn2LNYtTowLmGG8uRNru"
+    },
+    {
+      "album": {
+        "name": "Little Donkey",
+        "url": "https://open.spotify.com/album/1hS0GhWKiFmZOWsqLnBeyM"
+      },
+      "artists": [
+        {
+          "name": "Charles Conte",
+          "url": "https://open.spotify.com/artist/0To8dvXvNaBa5ucn97a1dS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136833,
+      "name": "When A Child Is Born",
+      "url": "https://open.spotify.com/track/1QZWQNbo6aupLs38M2M1bY"
     },
     {
       "album": {

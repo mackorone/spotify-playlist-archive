@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-11",
   "description": "Perch\u00e9...It\u2019s Only Rock \u2019n Roll (But We Like It)!",
   "name": "Rock: i Classici",
-  "published_playlist_ids": [
-    "47Fb9PguYtl6xx6qEq0a8v"
-  ],
   "tracks": [
     {
       "album": {
@@ -495,7 +492,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 261933,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
@@ -891,7 +888,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-17",
       "duration_ms": 382296,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
@@ -1125,10 +1122,28 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267596,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
     },
     {
       "album": {
@@ -2079,7 +2094,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-26",
       "duration_ms": 423840,
       "name": "Layla",
       "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
@@ -2605,7 +2620,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 194146,
       "name": "Old Time Rock & Roll",
       "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
@@ -2663,6 +2678,24 @@
       "duration_ms": 268506,
       "name": "Owner of a Lonely Heart",
       "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
+    },
+    {
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2021-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "album": {
@@ -3967,7 +4000,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
   "name": "Modhymns",
-  "published_playlist_ids": [
-    "6hHifxlV6iYC7c6IGWvkKH"
-  ],
   "tracks": [
     {
       "album": {
@@ -519,7 +516,7 @@
     {
       "album": {
         "name": "Housefires III",
-        "url": "https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR"
+        "url": "https://open.spotify.com/album/4HCgEprGQ9xJdc80TF4fov"
       },
       "artists": [
         {
@@ -530,6 +527,24 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 491690,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/0QatL1szZzMTAfZoJKWo0s"
+    },
+    {
+      "album": {
+        "name": "Housefires III",
+        "url": "https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
       "duration_ms": 491690,
       "name": "Build My Life",
       "url": "https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp"
@@ -681,7 +696,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 228437,
       "name": "Come Behold the Wondrous Mystery",
       "url": "https://open.spotify.com/track/191TpctWpKVr86es9Q2heJ"
@@ -873,7 +888,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 264617,
       "name": "Dancing on the Moon",
       "url": "https://open.spotify.com/track/7w0JJqemxICJVhhZn2i8ut"
@@ -1075,7 +1090,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 279253,
       "name": "Doxology//Amen",
       "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
@@ -3941,7 +3956,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-06",
       "duration_ms": 318566,
       "name": "You Are My All In All",
       "url": "https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9"

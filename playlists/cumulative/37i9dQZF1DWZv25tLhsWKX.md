@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: Yola
 
-81 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/6q3rP2a04MXLNfjAQ9mpop)
+81 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

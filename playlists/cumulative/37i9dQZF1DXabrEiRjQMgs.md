@@ -4,7 +4,7 @@
 
 > Explore the world of ballet.
 
-60 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/6dPFdlGoKmKoSc5FhbWWhn)
+60 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

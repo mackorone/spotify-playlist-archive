@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Tinsel! Lights! Yelling! These family-friendly Christmas songs will get the party started.",
   "name": "Family Christmas Party",
-  "published_playlist_ids": [
-    "4adFmDn6HaaYuB5tODjiNo"
-  ],
   "tracks": [
     {
       "album": {
@@ -117,6 +114,24 @@
       "duration_ms": 258693,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/1j75fzIDImv5G7NvSW9FNK"
+    },
+    {
+      "album": {
+        "name": "All The Children",
+        "url": "https://open.spotify.com/album/28peZvLZSm5izgtbWIhMWd"
+      },
+      "artists": [
+        {
+          "name": "Gummib\u00e4r",
+          "url": "https://open.spotify.com/artist/6NJb7ZCMVLu2ZXwWJa2O3G"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "All The Children",
+      "url": "https://open.spotify.com/track/5lpoogZcerFwUQdgrREJ2X"
     },
     {
       "album": {
@@ -629,6 +644,36 @@
       "duration_ms": 201373,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/7DNB4gBzWIe8Pwml3hGHbH"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad (with The Simpsons)",
+        "url": "https://open.spotify.com/album/0ZcvS854Zujt3tuVmKzEUY"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "Virginia Bocelli",
+          "url": "https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX"
+        },
+        {
+          "name": "The Simpsons",
+          "url": "https://open.spotify.com/artist/7r0Otd9dEStSVIxJ02ml5a"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122320,
+      "name": "Feliz Navidad (with The Simpsons)",
+      "url": "https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ"
     },
     {
       "album": {
@@ -1340,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 140667,
+      "name": "Jingle Bells - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0AZkaiZwMl3fULKhhSQxlG"
+    },
+    {
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3"
       },
@@ -1673,7 +1736,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-07",
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/1c8okwl6G1OUhgU2BJekIx"
@@ -2424,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Santa Shimmy",
+        "url": "https://open.spotify.com/album/1rstp3wPLzKWvJpu69Oy5K"
+      },
+      "artists": [
+        {
+          "name": "Rooftop Reindeer",
+          "url": "https://open.spotify.com/artist/3zZiipVoKHLO5ug5orFutn"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143250,
+      "name": "Santa Shimmy",
+      "url": "https://open.spotify.com/track/1TStrtvufeRfHOG7ItASvW"
+    },
+    {
+      "album": {
         "name": "\u015aWI\u0118TA, \u015aWI\u0118TA",
         "url": "https://open.spotify.com/album/2Z0Yk8D7w4nj9thNNZSwub"
       },
@@ -2699,6 +2780,24 @@
       "duration_ms": 203880,
       "name": "Take Me Home For Christmas",
       "url": "https://open.spotify.com/track/72HP2M4jjw4t0AIGdEVGEF"
+    },
+    {
+      "album": {
+        "name": "Pj Panda Christmas Party 2",
+        "url": "https://open.spotify.com/album/4xIEYSi2W8tIE3O8km7GJ3"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/1DHB6O3SB2uL1MLSarp2iD"
     },
     {
       "album": {

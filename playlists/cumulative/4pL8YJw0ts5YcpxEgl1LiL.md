@@ -4,7 +4,7 @@
 
 > Missa inte Of Monsters and Men på Azalea\-scenen på FREDAG / 16.10
 
-10 songs - 44 min 21 sec - [published](https://open.spotify.com/playlist/5Kj5J2T3eQD0bK78ATOrni)
+10 songs - 44 min 21 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

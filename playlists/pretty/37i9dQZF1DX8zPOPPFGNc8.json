@@ -1,29 +1,13 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
-  "num_followers": 1474,
+  "num_followers": 3170,
   "original_name": "Tommy Brown's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU5NjgwMCwwMDAwMDAwMDQ1ZmE0NjQ4NDM0MDIyMDAyMDJhMGUxZWEwZjM1NjI4",
+  "snapshot_id": "MTY2NDU5NjgwMCwwMDAwMDAwMGUzY2U4ZGUwOGY2OTk2ZGY3YzQ3OTdkYmE0NTQ1ZTZh",
   "tracks": [
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Yeezus",
-        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 229146,
-      "name": "Bound 2",
-      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
-    },
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 239835,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 229146,
+      "name": "Bound 2",
+      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -135,38 +151,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
@@ -199,6 +199,42 @@
       "duration_ms": 194621,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "My Boo",
+      "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -223,38 +259,18 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "My Boo",
-      "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -299,22 +315,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Hollywood's Bleeding",
-      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -327,94 +327,6 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272186,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Love Lies (with Normani)",
-        "url": "https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 201707,
-      "name": "Love Lies (with Normani)",
-      "url": "https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "ye",
-        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Magic In The Hamptons (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
-      },
-      "artists": [
-        {
-          "name": "Social House",
-          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "Magic In The Hamptons (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -439,6 +351,110 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hollywood's Bleeding",
+      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Love Lies (with Normani)",
+        "url": "https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 201707,
+      "name": "Love Lies (with Normani)",
+      "url": "https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Magic In The Hamptons (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
+      },
+      "artists": [
+        {
+          "name": "Social House",
+          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "Magic In The Hamptons (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "ye",
+        "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 314075,
+      "name": "Nikes",
+      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 204426,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -491,18 +491,38 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
         }
       ],
-      "duration_ms": 314075,
-      "name": "Nikes",
-      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
+      "duration_ms": 189440,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -543,26 +563,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 241400,
       "name": "Childs Play",
       "url": "https://open.spotify.com/track/3NxAG2ni1lLa8RKL6a0INc"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -595,22 +611,6 @@
       "duration_ms": 177813,
       "name": "Ice Cream (with Selena Gomez)",
       "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 374413,
-      "name": "No More Parties In LA",
-      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
       },
@@ -679,6 +663,38 @@
       "duration_ms": 311440,
       "name": "Thriller - 2003 Edit",
       "url": "https://open.spotify.com/track/0wQy2OO7jKjm0OOmA7gv3f"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Diplomatic Immunity",
+        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
+      },
+      "artists": [
+        {
+          "name": "The Diplomats",
+          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "I Really Mean It - Skit 1",
+      "url": "https://open.spotify.com/track/1IQPLs3r6lt4iNrQzAhnWs"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 374413,
+      "name": "No More Parties In LA",
+      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -723,18 +739,34 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Diplomatic Immunity",
-        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw"
       },
       "artists": [
         {
-          "name": "The Diplomats",
-          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
+          "name": "Frisco Kid",
+          "url": "https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7"
         }
       ],
-      "duration_ms": 262026,
-      "name": "I Really Mean It - Skit 1",
-      "url": "https://open.spotify.com/track/1IQPLs3r6lt4iNrQzAhnWs"
+      "duration_ms": 191533,
+      "name": "Bashment Time Featuring Mr. Easy",
+      "url": "https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
+        "name": "Total Reggae: Summer Hits",
+        "url": "https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -767,18 +799,18 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw"
+        "name": "Diplomatic Immunity",
+        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
       },
       "artists": [
         {
-          "name": "Frisco Kid",
-          "url": "https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7"
+          "name": "The Diplomats",
+          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
         }
       ],
-      "duration_ms": 191533,
-      "name": "Bashment Time Featuring Mr. Easy",
-      "url": "https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP"
+      "duration_ms": 259440,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/6UyI6iKB6UoVehiKNeIyRz"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -795,22 +827,6 @@
       "duration_ms": 273880,
       "name": "1+1",
       "url": "https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Total Reggae: Summer Hits",
-        "url": "https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -847,22 +863,6 @@
       "duration_ms": 178066,
       "name": "Sucky Ducky",
       "url": "https://open.spotify.com/track/2JDb4hjA4JK4PoI47Ra492"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Diplomatic Immunity",
-        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
-      },
-      "artists": [
-        {
-          "name": "The Diplomats",
-          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/6UyI6iKB6UoVehiKNeIyRz"
     },
     {
       "added_at": "2022-10-01 04:00:00",

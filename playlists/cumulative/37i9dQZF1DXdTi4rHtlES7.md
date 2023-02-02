@@ -4,7 +4,7 @@
 
 > Disfruta esta selección musical, de la mano de Poncho.
 
-50 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/6z6BraNWp3zglua5eYOicY)
+50 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Learn and practice your Chinese language skills, from basic vocabulary to useful travel phrases and conversations.
 
-263 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/3mCvGJ2ELFlhtMZ0GFMJ71)
+263 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
   "name": "Texas Country Rewind",
-  "published_playlist_ids": [
-    "6kdXzda1LIaxeejkB6DjXj"
-  ],
   "tracks": [
     {
       "album": {
@@ -67,6 +64,24 @@
     {
       "album": {
         "name": "After the Fire",
+        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185247,
+      "name": "Ain't a Train",
+      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
+    },
+    {
+      "album": {
+        "name": "After the Fire",
         "url": "https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H"
       },
       "artists": [
@@ -77,7 +92,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 185247,
       "name": "Ain't a Train",
       "url": "https://open.spotify.com/track/2iMcoxNfwUwTrKVNX1ZQya"
@@ -657,10 +672,28 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 246803,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/1T5IbNS5mqd0hx1TGZoacY"
+    },
+    {
+      "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246803,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5"
     },
     {
       "album": {

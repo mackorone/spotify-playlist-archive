@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "The best and finest '80s Funk. Cover: Bootsy Collins.",
   "name": "I Love My '80s Funk",
-  "published_playlist_ids": [
-    "3f9kVVAg7rQUcBVrSRpqMR"
-  ],
   "tracks": [
     {
       "album": {
@@ -733,7 +730,7 @@
     {
       "album": {
         "name": "The Collection",
-        "url": "https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz"
+        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
       },
       "artists": [
         {
@@ -744,6 +741,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 282866,
+      "name": "Freaks Come Out at Night",
+      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz"
+      },
+      "artists": [
+        {
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
       "duration_ms": 282866,
       "name": "Freaks Come Out at Night",
       "url": "https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a"

@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-202 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/0gghZCgUDQvda6LW20JSdc)
+202 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Fallen Leaf](https://open.spotify.com/track/7jy55dXHKNQU2z1m8aUfuy) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Hip Dozer, Vol\. 6](https://open.spotify.com/album/2UPZZagR1OvO6uuouU1qJ0) | 2:35 | 2022-04-28 | 2022-08-31 |
 | [Falling Stars](https://open.spotify.com/track/4mIgrbxrhfjvbbi8pSPYZl) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Falling Stars](https://open.spotify.com/album/3VPdb1H1lJCjUnQvJKxQFW) | 1:43 | 2022-08-30 |  |
 | [Felted](https://open.spotify.com/track/0pc7pvoTQFPebXtWw35AK2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [nobuddy](https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v) | [Felted October](https://open.spotify.com/album/5vIvFrE4zGmZq2Fveo3ar4) | 1:51 | 2021-06-02 | 2022-08-31 |
-| [Foyer](https://open.spotify.com/track/5xLp8h4lYj0PoevICi9WWq) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Foyer](https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu) | 2:49 | 2022-08-30 |  |
+| [Foyer](https://open.spotify.com/track/5xLp8h4lYj0PoevICi9WWq) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7), [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41) | [Foyer](https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu) | 2:49 | 2022-08-30 |  |
 | [French Riviera](https://open.spotify.com/track/6BbQ8awsF9a0cdldNXM5aP) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [French Riviera](https://open.spotify.com/album/6xKn3EX8MzotKT3zLhX5Aa) | 2:08 | 2020-10-20\* | 2022-08-31 |
 | [Fresh Air](https://open.spotify.com/track/3xwMfWfBRgdTWzPNrIfDTw) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Fresh Air](https://open.spotify.com/album/5Yvsg0Yzg8pYR8X3EiUBok) | 2:55 | 2022-08-30 |  |
 | [Funk for Food](https://open.spotify.com/track/2rLwz4Eihs3PXhx7e4qhcN) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Funk for Food](https://open.spotify.com/album/1qBIwBv13XdiXfnU07Fsw9) | 1:55 | 2020-10-20\* | 2022-08-31 |

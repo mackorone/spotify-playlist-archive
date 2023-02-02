@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
   "name": "Norske viser",
-  "published_playlist_ids": [
-    "532FWuTW1QFsPK6DTMO5T1"
-  ],
   "tracks": [
     {
       "album": {
@@ -189,7 +186,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-18",
       "duration_ms": 250403,
       "name": "Alt det som skinner",
       "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
@@ -315,7 +312,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244120,
       "name": "Bestevenn",
       "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
@@ -391,6 +388,28 @@
       "duration_ms": 195906,
       "name": "Bror",
       "url": "https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS"
+    },
+    {
+      "album": {
+        "name": "Bror",
+        "url": "https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194893,
+      "name": "Bror",
+      "url": "https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA"
     },
     {
       "album": {
@@ -535,7 +554,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 205062,
       "name": "den tyngste turen",
       "url": "https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0"
@@ -776,6 +795,28 @@
     },
     {
       "album": {
+        "name": "Du ga m\u00e6 viljestyrke",
+        "url": "https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Du ga m\u00e6 viljestyrke",
+      "url": "https://open.spotify.com/track/2CmPtitvLJxUscTLe5FntO"
+    },
+    {
+      "album": {
         "name": "Du har meg (feat. Jenny Zett)",
         "url": "https://open.spotify.com/album/4pM50PikeR2aPhNwVBRbSw"
       },
@@ -852,6 +893,32 @@
     },
     {
       "album": {
+        "name": "Eg Glemmer Deg Aldri",
+        "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Aslag Haugen",
+          "url": "https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178116,
+      "name": "Eg glemmer deg aldri",
+      "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
+    },
+    {
+      "album": {
         "name": "Ei kvinnehand",
         "url": "https://open.spotify.com/album/16xFeS64qgOjf0L6v0Nugg"
       },
@@ -899,7 +966,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225800,
       "name": "Ein farfar i livet",
       "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
@@ -1094,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "Evig kvile",
+        "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189239,
+      "name": "Evig kvile",
+      "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+    },
+    {
+      "album": {
         "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
         "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
@@ -1145,6 +1234,28 @@
       "duration_ms": 184827,
       "name": "Finn Veien Engel - New version",
       "url": "https://open.spotify.com/track/57okbLO40Q3aH4SgcAfmSS"
+    },
+    {
+      "album": {
+        "name": "Fordi eg elskar deg",
+        "url": "https://open.spotify.com/album/53dmlzt7IY86gQU3sObaPC"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190320,
+      "name": "Fordi eg elskar deg",
+      "url": "https://open.spotify.com/track/2MkdeB9TXLBZpYHpXJECXe"
     },
     {
       "album": {
@@ -1329,7 +1440,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 288078,
       "name": "God Natt Oslo",
       "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
@@ -1351,10 +1462,32 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 236640,
       "name": "Godt nok",
       "url": "https://open.spotify.com/track/534GzSVJHfkIWPNkwobLAi"
+    },
+    {
+      "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/7mdhA3SaJpAwxthbw2mksg"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212378,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/2wfnh9UNfZPrPKb3PWUOYl"
     },
     {
       "album": {
@@ -1431,6 +1564,28 @@
       "duration_ms": 240160,
       "name": "Halvveis rundt jorden",
       "url": "https://open.spotify.com/track/1QQsomZh4unathI9P0c4Qn"
+    },
+    {
+      "album": {
+        "name": "Han er ikkje deg",
+        "url": "https://open.spotify.com/album/5AAbIbS9ob9hXok5nOZ1Qw"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154444,
+      "name": "Han er ikkje deg",
+      "url": "https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M"
     },
     {
       "album": {
@@ -1701,7 +1856,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 203439,
       "name": "I huset med deg",
       "url": "https://open.spotify.com/track/6YFSlVmx8n88FwjoN1hplw"
@@ -1882,6 +2037,28 @@
     },
     {
       "album": {
+        "name": "Jovial",
+        "url": "https://open.spotify.com/album/55G0O9SlnAKfWtbG6l2w8A"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170893,
+      "name": "Jovial",
+      "url": "https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR"
+    },
+    {
+      "album": {
         "name": "Julinetter",
         "url": "https://open.spotify.com/album/3TnJRJMmG55xg5iuTzS4sZ"
       },
@@ -2059,7 +2236,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 113400,
       "name": "Kvelden Lister Seg P\u00e5 T\u00e5",
       "url": "https://open.spotify.com/track/05VWAlqAeLSMuwTED7O0Fu"
@@ -2351,7 +2528,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 202000,
       "name": "Mitt lille land",
       "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
@@ -2427,7 +2604,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 322826,
       "name": "Novemberdag novembernatt",
       "url": "https://open.spotify.com/track/2pnrk0bjGIhgsklVVrKz1v"
@@ -2445,7 +2622,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 213146,
       "name": "N\u00e5 er jeg inspirert av Veronica Maggio",
       "url": "https://open.spotify.com/track/6aeoCU2Ub7S82JJ152ROUz"
@@ -2482,7 +2659,7 @@
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 231226,
+      "duration_ms": 233291,
       "name": "N\u00e5r himmelen faller ned",
       "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
     },
@@ -2547,6 +2724,24 @@
       "duration_ms": 186552,
       "name": "Pusterom",
       "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
+    },
+    {
+      "album": {
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279240,
+      "name": "P\u00e5 vei",
+      "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
     },
     {
       "album": {
@@ -2680,6 +2875,28 @@
     },
     {
       "album": {
+        "name": "Skyfri Himmel",
+        "url": "https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212914,
+      "name": "Skyfri Himmel",
+      "url": "https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS"
+    },
+    {
+      "album": {
         "name": "Sm\u00e5`n",
         "url": "https://open.spotify.com/album/7nc2z9Yw6Q7DL0aUKg5XoC"
       },
@@ -2767,7 +2984,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 288678,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
@@ -2839,7 +3056,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": "2023-01-20",
       "duration_ms": 180328,
       "name": "Svarte Skyer",
       "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
@@ -2857,7 +3074,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 281955,
       "name": "S\u00e5 fullt av ja",
       "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
@@ -3077,10 +3294,32 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 179533,
       "name": "Togsang",
       "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
+    },
+    {
+      "album": {
+        "name": "Tre Pakker Sigaretter",
+        "url": "https://open.spotify.com/album/7C4j0qTmR7bSpn2uebJmjj"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193988,
+      "name": "Tre pakker sigaretter",
+      "url": "https://open.spotify.com/track/4IrUGDg2xUSyp5r2I5eJZv"
     },
     {
       "album": {
@@ -3117,9 +3356,9 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": "2023-01-28",
       "duration_ms": 230973,
-      "name": "Trondheimsnatt",
+      "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
       "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
     },
     {
@@ -3219,7 +3458,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 244266,
       "name": "Under deg",
       "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
@@ -3379,7 +3618,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 195680,
       "name": "Vi M\u00f8ttes I En Soloppgang",
       "url": "https://open.spotify.com/track/1nCIRz2gS5f5QA6Qnm0wBs"
@@ -3469,7 +3708,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 181200,
       "name": "V\u00e5r Beste Dag",
       "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
@@ -3487,7 +3726,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 202588,
       "name": "V\u00e5r beste dag",
       "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"

@@ -4,7 +4,7 @@
 
 > The best of Iron Maiden\. All in one playlist.
 
-50 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/4xxPU47IkTNnuNKOGAGgFj)
+50 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

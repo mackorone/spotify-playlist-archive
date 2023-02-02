@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is DZ Deathrays. The essential tracks, all in one playlist.",
   "name": "This Is DZ Deathrays",
-  "published_playlist_ids": [
-    "6t5R4Y2WSSNblWK3Xrazc4"
-  ],
   "tracks": [
     {
       "album": {
@@ -152,6 +149,24 @@
     },
     {
       "album": {
+        "name": "The DZ Deathrays Spotify Margarita Monday Monster Mash Mix",
+        "url": "https://open.spotify.com/album/1Q2YJt77QN5LWZVZaUO2yU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39148,
+      "name": "Come down - Crooked colours",
+      "url": "https://open.spotify.com/track/7rZB2xn83Wymu6r8en1bby"
+    },
+    {
+      "album": {
         "name": "Bloodstreams",
         "url": "https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ"
       },
@@ -206,6 +221,28 @@
     },
     {
       "album": {
+        "name": "Positive Rising (Pt. 2/ Deluxe)",
+        "url": "https://open.spotify.com/album/7u1AwMaq12tfVeXuL9LkfU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        },
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114920,
+      "name": "Fear The Anchor",
+      "url": "https://open.spotify.com/track/3XPitvPYDSmoqcehdRkfAr"
+    },
+    {
+      "album": {
         "name": "Positive Rising: Part 2",
         "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
       },
@@ -221,7 +258,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 114920,
       "name": "Fear The Anchor (feat. Ecca Vandal)",
       "url": "https://open.spotify.com/track/3EJA61z43vLiRaWhzGJnEC"
@@ -903,7 +940,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 159546,
       "name": "Skeleton Key",
       "url": "https://open.spotify.com/track/3cDHzxJC3bJQB1XlmZ5kYH"

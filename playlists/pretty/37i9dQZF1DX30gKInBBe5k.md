@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 ### [slowcore](https://open.spotify.com/playlist/37i9dQZF1DX30gKInBBe5k)
 
-> Bare emotions and stripped\-down intensity: a hardcore home for slowcore fans.
+> a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,855 likes - 85 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,714 likes - 85 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 84 | [nail i couldn't bite](https://open.spotify.com/track/0AgghN0YfYSZRilCXOb3do) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [Hypnic Jerks](https://open.spotify.com/album/3M1hjHgDdFdhZKQRAccl8n) | 5:15 |
 | 85 | [Lullaby](https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 9:49 |
 
-Snapshot ID: `MTY0Mjc5OTIwNCwwMDAwMDAwMDdiMmEyMzAwNjE5NmVhNGZhYmU4YTNkNWM0ZWUzOWJl`
+Snapshot ID: `MTY3MzQ1MzM0MiwwMDAwMDAwMDhmNjk2ZDIzOTE2ZWE4MzQyNDdlYzEwZTE5Zjc1ZGE5`

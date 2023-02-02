@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "Let the music flow through you...",
   "name": "Soulful",
-  "published_playlist_ids": [
-    "1ARK1a9pdFLy7LDb3sdMHy"
-  ],
   "tracks": [
     {
       "album": {
@@ -113,7 +110,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 230826,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/5frJ2iO0fDjeAVHlg9Z62T"
@@ -347,7 +344,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2022-12-02",
       "duration_ms": 203700,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ"
@@ -477,7 +474,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 196536,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj"
@@ -513,7 +510,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 279453,
       "name": "deeper",
       "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
@@ -625,7 +622,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 219000,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
@@ -989,10 +986,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 189426,
       "name": "Golden",
       "url": "https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
     },
     {
       "album": {
@@ -1025,7 +1040,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 204042,
       "name": "Got Me (Feelin' Like)",
       "url": "https://open.spotify.com/track/5tZXAxvk8Zfe1p6Pd78kqa"
@@ -1086,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Happily Drowning",
+        "url": "https://open.spotify.com/album/1W5NCoyBJKXJMDDVLTXDSg"
+      },
+      "artists": [
+        {
+          "name": "Moody",
+          "url": "https://open.spotify.com/artist/1Vu6Ckzy4K3UIl8PH3Y2se"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219702,
+      "name": "Happily Drowning",
+      "url": "https://open.spotify.com/track/1hCGFa8m9fpMyjKxw3DwJx"
+    },
+    {
+      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh"
       },
@@ -1133,10 +1166,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 208306,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7EqgMVJIt8rUhf1OZJrxtx"
+    },
+    {
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1Jg4EisDyjigjGPZqCPnhH"
+      },
+      "artists": [
+        {
+          "name": "Bumpy",
+          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 266904,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7lH9Vabqv6TRBoJOxBxCzn"
     },
     {
       "album": {
@@ -1266,6 +1317,28 @@
     },
     {
       "album": {
+        "name": "Hurts So Bad",
+        "url": "https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235061,
+      "name": "Hurts So Bad - with Josh Teskey",
+      "url": "https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai"
+    },
+    {
+      "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
       },
@@ -1299,6 +1372,24 @@
       "duration_ms": 244200,
       "name": "I Won't Let You Down",
       "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
+    },
+    {
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/7DcV93rZBpU6R1v8Qm9Tc5"
+      },
+      "artists": [
+        {
+          "name": "Zoe Moon",
+          "url": "https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207017,
+      "name": "In Person",
+      "url": "https://open.spotify.com/track/6VSIeXguQQFWomYqBP9ECD"
     },
     {
       "album": {
@@ -1349,7 +1440,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 268013,
       "name": "inside out",
       "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
@@ -1389,6 +1480,28 @@
       "duration_ms": 186224,
       "name": "Into Your Life",
       "url": "https://open.spotify.com/track/3M9lOw3yCJFDdMDOlD6qin"
+    },
+    {
+      "album": {
+        "name": "Raindrops & Intuition",
+        "url": "https://open.spotify.com/album/130yqWSrUxKPsjHCGMGoZl"
+      },
+      "artists": [
+        {
+          "name": "pastels",
+          "url": "https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR"
+        },
+        {
+          "name": "Elysia",
+          "url": "https://open.spotify.com/artist/20Yr8zbaGxjlmBEKjVVdNR"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224559,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/3oZdGtVdpexPzYZHvMz9yS"
     },
     {
       "album": {
@@ -1446,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "lady lovin'",
+        "url": "https://open.spotify.com/album/3CWo3fW7bbZMxuF2jEmOqY"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sands",
+          "url": "https://open.spotify.com/artist/4Cu0LLtgyjsjQS7epwWL40"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 178333,
+      "name": "lady lovin'",
+      "url": "https://open.spotify.com/track/1LDjZZmhunJz9lvMT5v5X1"
+    },
+    {
+      "album": {
         "name": "Leave It All Behind",
         "url": "https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh"
       },
@@ -1457,7 +1588,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 235353,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST"
@@ -1599,6 +1730,24 @@
       "duration_ms": 150208,
       "name": "Mikey Might",
       "url": "https://open.spotify.com/track/4tHN4ENGcnHuaOIDWQlI3x"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/27xePvSrtU2d9uC8deq5cy"
+      },
+      "artists": [
+        {
+          "name": "Mo\u2019Ju",
+          "url": "https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215186,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1X8qpbbjQo0vftVq5c7kwr"
     },
     {
       "album": {
@@ -1823,7 +1972,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 180355,
       "name": "Only Wanna Be With You",
       "url": "https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1"
@@ -1885,6 +2034,24 @@
       "duration_ms": 166800,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w"
+    },
+    {
+      "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA"
+      },
+      "artists": [
+        {
+          "name": "HALES",
+          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL"
     },
     {
       "album": {
@@ -2045,7 +2212,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 187438,
       "name": "Put D'Angelo On",
       "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
@@ -2103,6 +2270,24 @@
       "duration_ms": 232053,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
+    },
+    {
+      "album": {
+        "name": "Reelin'",
+        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
     },
     {
       "album": {
@@ -2599,7 +2784,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 137546,
       "name": "The Room",
       "url": "https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa"
@@ -2758,6 +2943,46 @@
     },
     {
       "album": {
+        "name": "Morning Sun EP",
+        "url": "https://open.spotify.com/album/36SkaBEql9AE8tof9cD8bC"
+      },
+      "artists": [
+        {
+          "name": "Bumpy",
+          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/0wwoNSM5DmYtlm2d3SFsv4"
+    },
+    {
+      "album": {
+        "name": "Way That We Feel",
+        "url": "https://open.spotify.com/album/2EkKiKIRODZp9xfoY29hFG"
+      },
+      "artists": [
+        {
+          "name": "TOI",
+          "url": "https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A"
+        },
+        {
+          "name": "Zoe Moon",
+          "url": "https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190469,
+      "name": "Way That We Feel",
+      "url": "https://open.spotify.com/track/7AfeSdXYaEOttGjbssdDwp"
+    },
+    {
+      "album": {
         "name": "What It Is In Your Eyes",
         "url": "https://open.spotify.com/album/1ZUxsJJBDyjy3reeJ8JMEx"
       },
@@ -2823,7 +3048,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 191842,
       "name": "With You",
       "url": "https://open.spotify.com/track/06kvUr3p93vBQT1n1Dv3Se"
@@ -2849,6 +3074,24 @@
       "duration_ms": 133762,
       "name": "Yebba\u2019s Heartbreak",
       "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
+    },
+    {
+      "album": {
+        "name": "You Never Visit Me",
+        "url": "https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230906,
+      "name": "You Never Visit Me",
+      "url": "https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2AHwa6tQ2Yy"

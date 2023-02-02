@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-12",
   "description": "This is Oasis. The essential tracks, all in one playlist.",
   "name": "This Is Oasis",
-  "published_playlist_ids": [
-    "4DsBzLXOa5IdfOWSaGnozR"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-16",
       "duration_ms": 312906,
       "name": "Be Here Now - Remastered",
       "url": "https://open.spotify.com/track/1WKQuEgQnvvgVxj5B7ptwl"
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-02-01",
       "duration_ms": 289146,
       "name": "Cigarettes & Alcohol - Remastered",
       "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
@@ -397,7 +394,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 400867,
       "name": "I Am The Walrus (Live at Knebworth, 11 August '96)",
       "url": "https://open.spotify.com/track/1vvlQgoUYdBICnqzuREVnI"
@@ -620,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/3LzKUdUTdJb6P7xGN6SotC"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192546,
+      "name": "Married With Children",
+      "url": "https://open.spotify.com/track/0oemhAQXaaIHCEARF9JFGg"
+    },
+    {
+      "album": {
         "name": "Definitely Maybe (Remastered)",
         "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
       },
@@ -631,7 +646,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 195000,
       "name": "Married with Children - Remastered",
       "url": "https://open.spotify.com/track/4bvi8n8Xa2kX0UG02cvuE9"
@@ -667,7 +682,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-12-05",
       "duration_ms": 303320,
       "name": "Morning Glory - Remastered",
       "url": "https://open.spotify.com/track/1H0K1GVwLteCZrPquy7qkM"
@@ -703,7 +718,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 322946,
       "name": "Rock 'n' Roll Star - Remastered",
       "url": "https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u"
@@ -829,7 +844,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 392306,
       "name": "Slide Away - Remastered",
       "url": "https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG"
@@ -847,7 +862,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 327920,
       "name": "Some Might Say - Remastered",
       "url": "https://open.spotify.com/track/1xxPQaR29dAf3yxaafByeD"
@@ -873,6 +888,24 @@
     {
       "album": {
         "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5WsCU95SaumguegxnC87TV"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356600,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/2gANywSFYF58YFMPdDSAjC"
+    },
+    {
+      "album": {
+        "name": "Be Here Now",
         "url": "https://open.spotify.com/album/4hSEYRwC5VNYF02lxNaLAM"
       },
       "artists": [
@@ -883,7 +916,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 356600,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7aSSsHnGQ54rbMZpXApmtU"
@@ -963,6 +996,24 @@
     {
       "album": {
         "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6F2iD5c7Aca3E0wmmPhgax"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 312640,
+      "name": "Sunday Morning Call",
+      "url": "https://open.spotify.com/track/7EeyAZiyUEPFr8eBzG2BrT"
+    },
+    {
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
       "artists": [
@@ -1009,7 +1060,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 263746,
       "name": "Talk Tonight - Remastered",
       "url": "https://open.spotify.com/track/2LNV0347QKt4AHxRSfCBij"
@@ -1027,7 +1078,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": "2023-01-21",
       "duration_ms": 349640,
       "name": "The Girl In The Dirty Shirt - Remastered",
       "url": "https://open.spotify.com/track/1MkwGdfDRDpDe0y2LkHAFO"
@@ -1171,7 +1222,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-25",
       "duration_ms": 344493,
       "name": "Who Feels Love?",
       "url": "https://open.spotify.com/track/7b39sBdskwLKVwNpC37gRo"

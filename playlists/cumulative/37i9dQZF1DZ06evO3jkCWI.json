@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
   "name": "This Is Los Invasores De Nuevo Le\u00f3n",
-  "published_playlist_ids": [
-    "4fMUj7mAN5J355FNck9WHZ"
-  ],
   "tracks": [
     {
       "album": {
@@ -549,7 +546,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 189093,
       "name": "Gracias Porque Volviste",
       "url": "https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg"
@@ -567,7 +564,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 152293,
       "name": "La Fuga Del Rojo",
       "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
@@ -589,7 +586,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 163293,
       "name": "La Lloradera",
       "url": "https://open.spotify.com/track/5XMKMu698zpti1TwbCUrZr"
@@ -705,7 +702,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 191813,
       "name": "Laurita Garza",
       "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
@@ -903,7 +900,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 198392,
       "name": "M\u00e1rchate",
       "url": "https://open.spotify.com/track/1qnMgwNNQA83JNL3IfSCOr"
@@ -921,10 +918,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 166266,
       "name": "Nada Contigo",
       "url": "https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va"
+    },
+    {
+      "album": {
+        "name": "10+10",
+        "url": "https://open.spotify.com/album/32PDVB8vzIpO0hqyas42fY"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146586,
+      "name": "Ni Amores Ni Deudas (feat. Los Invasores de Nuevo Le\u00f3n)",
+      "url": "https://open.spotify.com/track/37XJBZYOnErRNl7vawIwf7"
     },
     {
       "album": {
@@ -1029,7 +1048,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 219000,
       "name": "Ponle Ventanas Al Viento",
       "url": "https://open.spotify.com/track/0GtV5vYrnQ3g47AZPQ78go"

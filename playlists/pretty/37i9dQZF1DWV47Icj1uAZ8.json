@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 5820,
+  "num_followers": 11817,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMDNjNzk4OTM0MTI0MjE0ODNkMTg5OTYwYmNlMjI2MGNh",
+  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMDBiNjk1YjU5NmZmZWZiZjg0N2RhNGY0NzUzODkwY2E0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "MERCEDES",
+        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 233069,
+      "name": "MERCEDES",
+      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -215,22 +231,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "MERCEDES",
-        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 233069,
-      "name": "MERCEDES",
-      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -243,22 +243,6 @@
       "duration_ms": 234093,
       "name": "The Message",
       "url": "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "25 million",
-      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -323,22 +307,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "blkswn",
-        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 469830,
-      "name": "Amphetamine",
-      "url": "https://open.spotify.com/track/3Zau3JcrZcBfw8aVjKGkSX"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -351,6 +319,38 @@
       "duration_ms": 306257,
       "name": "t h e . c l i m b . b a c k",
       "url": "https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "25 million",
+      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "blkswn",
+        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 469830,
+      "name": "Amphetamine",
+      "url": "https://open.spotify.com/track/3Zau3JcrZcBfw8aVjKGkSX"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 386626,
+      "name": "Next Lifetime",
+      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -419,38 +435,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 386626,
-      "name": "Next Lifetime",
-      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 139574,
       "name": "Bria's Interlude (feat. Omarion)",
       "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 291448,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -515,6 +531,22 @@
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 224730,
+      "name": "Piece Of Me",
+      "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -539,74 +571,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Summers",
-        "url": "https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 209605,
-      "name": "4 Nothin'",
-      "url": "https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 224730,
-      "name": "Piece Of Me",
-      "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 291448,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Care Package",
         "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
       },
@@ -623,22 +587,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "SBTRKT (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
+        "name": "Summers",
+        "url": "https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb"
       },
       "artists": [
         {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
         },
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG"
+      "duration_ms": 209605,
+      "name": "4 Nothin'",
+      "url": "https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -663,24 +627,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "1st Born Second",
-        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
-      },
-      "artists": [
-        {
-          "name": "Bilal",
-          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Soul Sista",
-      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
       "artists": [
         {
@@ -688,9 +636,29 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 344346,
-      "name": "Really Love",
-      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "SBTRKT (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -711,22 +679,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Crenshaw",
-        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Face the World",
-      "url": "https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
       },
@@ -743,6 +695,38 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Face the World",
+      "url": "https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "1st Born Second",
+        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Soul Sista",
+      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "But You Caint Use My Phone (Mixtape)",
         "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 319958,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Let's Get It On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Let's Get It On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 255986,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS"
+      "duration_ms": 344346,
+      "name": "Really Love",
+      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -807,26 +807,6 @@
       "duration_ms": 184736,
       "name": "Sleep Walkin",
       "url": "https://open.spotify.com/track/2Chpj7Kjc3AEi5D6Of4KOE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Summers",
-        "url": "https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 223811,
-      "name": "Still Think of You",
-      "url": "https://open.spotify.com/track/0VtFjHIopAFm0h9NyD7P7f"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -871,22 +851,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 400840,
-      "name": "Time's A Wastin",
-      "url": "https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -899,6 +863,42 @@
       "duration_ms": 178973,
       "name": "Lost One",
       "url": "https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Summers",
+        "url": "https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 223811,
+      "name": "Still Think of You",
+      "url": "https://open.spotify.com/track/0VtFjHIopAFm0h9NyD7P7f"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 263923,
+      "name": "Timmy's Prayer",
+      "url": "https://open.spotify.com/track/16bQdxSVtmvL2hc4h3OJE3"
     }
   ],
   "unique_name": "Kofi Siriboe's Taste",

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is The XCERTS. The essential tracks, all in one playlist.",
   "name": "This Is The XCERTS",
-  "published_playlist_ids": [
-    "4HQ8jbRFH0oLg7Xqm9c9uw"
-  ],
   "tracks": [
     {
       "album": {
@@ -239,7 +236,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 238796,
       "name": "Feels Like Falling in Love - Alternate Version",
       "url": "https://open.spotify.com/track/0pzeklIkrqOfc1eeleQ3px"
@@ -279,6 +276,24 @@
       "duration_ms": 219280,
       "name": "First Kiss Feeling",
       "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
+    },
+    {
+      "album": {
+        "name": "GIMME",
+        "url": "https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100467,
+      "name": "GIMME",
+      "url": "https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S"
     },
     {
       "album": {
@@ -329,7 +344,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-01-04",
       "duration_ms": 254106,
       "name": "He Sinks. He Sleeps",
       "url": "https://open.spotify.com/track/56z4syxpmOFBfrGAlM0VuR"
@@ -419,7 +434,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 369053,
       "name": "Home vs Home - Blueskies Remix",
       "url": "https://open.spotify.com/track/5muEIkHoRmhgQEQTjOC1H4"
@@ -437,7 +452,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 317573,
       "name": "Hurt with Me",
       "url": "https://open.spotify.com/track/1jyz1bZTmvO1bfBK3f8sWk"
@@ -455,7 +470,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 206200,
       "name": "I Am Home",
       "url": "https://open.spotify.com/track/4kxZCCAbX5Rw0bKglRTSRI"
@@ -635,7 +650,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 202550,
       "name": "Kids On Drugs",
       "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
@@ -653,7 +668,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 300293,
       "name": "Lament",
       "url": "https://open.spotify.com/track/0P0mOSWEtA6suhu7zrcgOX"
@@ -671,7 +686,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 167813,
       "name": "Let's Run",
       "url": "https://open.spotify.com/track/2Wwm67ZMDDj9gY2jPcwFLO"
@@ -689,7 +704,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2022-12-29",
       "duration_ms": 171551,
       "name": "Listen. Don't Panic",
       "url": "https://open.spotify.com/track/5obgk2nN9DpMqkAD2aiLHM"
@@ -743,7 +758,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2023-01-03",
       "duration_ms": 211614,
       "name": "Lost but Not Alone",
       "url": "https://open.spotify.com/track/5GwRCe3UTH28eBBlD3Qjad"
@@ -833,7 +848,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-24",
       "duration_ms": 179383,
       "name": "Pop Song",
       "url": "https://open.spotify.com/track/5X8TmJVSztmMqT0kq2z6G3"
@@ -923,7 +938,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 195066,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
@@ -984,6 +999,24 @@
     },
     {
       "album": {
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183875,
+      "name": "She",
+      "url": "https://open.spotify.com/track/3QXfWJWaIzypNt8SKjXbps"
+    },
+    {
+      "album": {
         "name": "Hold on to Your Heart",
         "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
       },
@@ -1038,6 +1071,42 @@
     },
     {
       "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 212746,
+      "name": "Tear Me Down",
+      "url": "https://open.spotify.com/track/4RZv3EVH2lebzYec3mSi2Z"
+    },
+    {
+      "album": {
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 182264,
+      "name": "Teenage Lust",
+      "url": "https://open.spotify.com/track/3bW5tgDE5f9nvwMJsaeHLq"
+    },
+    {
+      "album": {
         "name": "Hold on to Your Heart",
         "url": "https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2"
       },
@@ -1049,7 +1118,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": "2022-12-25",
       "duration_ms": 178746,
       "name": "The Dark",
       "url": "https://open.spotify.com/track/0dssgFX5eTaCA7TcSwgDII"
@@ -1089,6 +1158,24 @@
       "duration_ms": 343212,
       "name": "There Is Only You",
       "url": "https://open.spotify.com/track/7aqRsbwlcDexjeRKdv6UGc"
+    },
+    {
+      "album": {
+        "name": "Live Like This",
+        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 188936,
+      "name": "Waste Away - Demo",
+      "url": "https://open.spotify.com/track/6B8V4E3GXnLrmts6ZYIN1c"
     },
     {
       "album": {
@@ -1175,7 +1262,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 245925,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4eynH9mNWCPMAmFujU8Qyy"

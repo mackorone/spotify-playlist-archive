@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Alternative Arabic songs. Cover: Adonis.",
   "name": "Arab Indie",
-  "published_playlist_ids": [
-    "5Kcna48CrV8fuYA6mNyZOZ"
-  ],
   "tracks": [
     {
       "album": {
@@ -1366,24 +1363,6 @@
     },
     {
       "album": {
-        "name": "Sieli",
-        "url": "https://open.spotify.com/album/1lfY8HkF1LuHU19pdKSXOs"
-      },
-      "artists": [
-        {
-          "name": "Maujoud",
-          "url": "https://open.spotify.com/artist/30Hwqlea9IBZ9CDaFsUU6I"
-        }
-      ],
-      "date_added": "2022-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 345450,
-      "name": "Sieli",
-      "url": "https://open.spotify.com/track/34zQrwOc1XfE7UUvGZruuA"
-    },
-    {
-      "album": {
         "name": "Sint El Ew",
         "url": "https://open.spotify.com/album/6bjdPYlUv6grgJWy5Jbiid"
       },
@@ -1612,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0646\u0642\u0630\u064a\u0646\u064a \u0645\u0646\u064a",
+        "url": "https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181335,
+      "name": "\u0627\u0646\u0642\u0630\u064a\u0646\u064a \u0645\u0646\u064a",
+      "url": "https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5"
+    },
+    {
+      "album": {
         "name": "\u0628\u0634\u062a\u0642\u0644\u0643",
         "url": "https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE"
       },
@@ -1663,6 +1660,28 @@
       "duration_ms": 234242,
       "name": "\u0632\u064a \u0632\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3"
+    },
+    {
+      "album": {
+        "name": "\u0633\u064a\u0644\u064a",
+        "url": "https://open.spotify.com/album/1lfY8HkF1LuHU19pdKSXOs"
+      },
+      "artists": [
+        {
+          "name": "Maujoud",
+          "url": "https://open.spotify.com/artist/30Hwqlea9IBZ9CDaFsUU6I"
+        },
+        {
+          "name": "\u0628\u062d\u0631 \u063a\u0627\u0632\u064a",
+          "url": "https://open.spotify.com/artist/46FaNQ24WNfMzWOVobepxY"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345450,
+      "name": "\u0633\u064a\u0644\u064a",
+      "url": "https://open.spotify.com/track/34zQrwOc1XfE7UUvGZruuA"
     },
     {
       "album": {
@@ -1775,6 +1794,24 @@
       "duration_ms": 173164,
       "name": "\u0644\u062d\u0627\u0644\u0647\u0627",
       "url": "https://open.spotify.com/track/64NJb1lr4J9IXDUNl63nxo"
+    },
+    {
+      "album": {
+        "name": "\u0644\u0648",
+        "url": "https://open.spotify.com/album/5DKgNNMIerP7WFn4H10RMw"
+      },
+      "artists": [
+        {
+          "name": "MoJaNaD",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u0644\u0648",
+      "url": "https://open.spotify.com/track/3zmnkk8mrFEr7gUcPDd5t7"
     },
     {
       "album": {

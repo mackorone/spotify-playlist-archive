@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3l6cfhKgkSNxYydKiD9o4G.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 36 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 604 likes - 36 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/3l6cfhKgkSNxYydKiD9o4G.md) - [plain]
 | 11 | [Goodnight My Love](https://open.spotify.com/track/0WJrNmCygAG8lkA6HBYglk) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Music You Heard On The Sopranos](https://open.spotify.com/album/3Ilhhiu77Z2tsp4JVSMjWg) | 3:08 |
 | 12 | [Certamente](https://open.spotify.com/track/1ah1aqLPlq0NG1g2KaFEky) | [Madreblu](https://open.spotify.com/artist/2tIYKLNVmTnflhlaack7Dz) | [Necessita](https://open.spotify.com/album/6nPeRGk2SO1anHm1GKeSx9) | 3:35 |
 | 13 | [High Fidelity](https://open.spotify.com/track/0FKPuEwGl4zunq0HKcoxQ5) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/7runu9rj3FdiuPBFKRzASm) | 2:27 |
-| 14 | [Fisheman's Daughter](https://open.spotify.com/track/3PHzDyIRkfWZPi1IleR7AU) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Acadie](https://open.spotify.com/album/5jeo6gUcru9NPdrCtwOlxf) | 2:46 |
+| 14 | [Fisheman's Daughter \(Album Version\)](https://open.spotify.com/track/3PHzDyIRkfWZPi1IleR7AU) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Acadie](https://open.spotify.com/album/5jeo6gUcru9NPdrCtwOlxf) | 2:46 |
 | 15 | [Shuck Dub](https://open.spotify.com/track/0NRR0GRi0N2kcZ9KOvyWoB) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come On In](https://open.spotify.com/album/0yI1kMsqFqVOaH8TsyhsPu) | 4:28 |
 | 16 | [Black Books](https://open.spotify.com/track/5o1E86HCf3vNM7rg53C8kB) | [Nils Lofgren](https://open.spotify.com/artist/2TpAfGX0XNikAg5QjrbbvE) | [Acoustic Live](https://open.spotify.com/album/5bZIIwa458O6X5b2mgCkzU) | 5:46 |
 | 17 | [I've Got A Feeling](https://open.spotify.com/track/03dM67MbIZXVjmRPH6L8Tj) | [Campbell Brothers](https://open.spotify.com/artist/6F02cSi3cag2LVOi83fxvX) | [Pass Me Not](https://open.spotify.com/album/4kNYxCKLFOCqx6e4phfqTI) | 3:59 |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Love at its most dramatic. Cover: Moulin Rouge",
   "name": "Broadway in Love!",
-  "published_playlist_ids": [
-    "2qmmfC30ZHMujmfzim09nF"
-  ],
   "tracks": [
     {
       "album": {
@@ -67,7 +64,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 142600,
       "name": "A Heart Full Of Love",
       "url": "https://open.spotify.com/track/1audfn0M2y51sgmKFHCxoC"
@@ -149,7 +146,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282906,
       "name": "All The Wasted Time",
       "url": "https://open.spotify.com/track/0ZBRs1C3g6nZykR7jPFPBi"
@@ -225,7 +222,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 99880,
       "name": "Before and After You",
       "url": "https://open.spotify.com/track/3W2O6SHHBJju8Twzk71ZKI"
@@ -265,7 +262,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 204853,
       "name": "Bill",
       "url": "https://open.spotify.com/track/0BKNA4OFye3cS0JPzZ9BOv"
@@ -332,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Jersey Boys Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/5sCVURwZOOd13unG0uJmNX"
+      },
+      "artists": [
+        {
+          "name": "John Lloyd Young",
+          "url": "https://open.spotify.com/artist/4QTd2YuZS6ShgqWfeREdB3"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "Can't Take My Eyes off of You - From \"Jersey Boys\"",
+      "url": "https://open.spotify.com/track/77IRyrOkpKBIlNQu59zdvX"
+    },
+    {
+      "album": {
         "name": "Fun Home (A New Broadway Musical)",
         "url": "https://open.spotify.com/album/2GKE26bq2o8qoukpNlZnrh"
       },
@@ -343,7 +358,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 262373,
       "name": "Changing My Major",
       "url": "https://open.spotify.com/track/6jgLIGTcVtQl9Q4r0otEMW"
@@ -397,7 +412,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 107649,
       "name": "Come Home with Me",
       "url": "https://open.spotify.com/track/15r85VRFlKo2w8a5ymikr7"
@@ -467,7 +482,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199826,
       "name": "Do You Love Me?",
       "url": "https://open.spotify.com/track/4Dndv8nt0DSxNzKNrh12tZ"
@@ -511,7 +526,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 325293,
       "name": "Elephant Love Medley",
       "url": "https://open.spotify.com/track/5JRgVMONxTRjC1g1d0XsvX"
@@ -555,7 +570,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 165360,
       "name": "Goodnight My Someone",
       "url": "https://open.spotify.com/track/09kRTnc2HceP9PssB7uAEQ"
@@ -617,7 +632,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 185360,
       "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
@@ -639,7 +654,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 247733,
       "name": "How Could I Ever Know (From \"The Secret Garden\")",
       "url": "https://open.spotify.com/track/2ZBLSCM9TRvrMSHQIxqdOu"
@@ -694,6 +709,32 @@
     },
     {
       "album": {
+        "name": "Funny Girl (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/44jNMYeyAJstThz75DDsFW"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        {
+          "name": "Ramin Karimloo",
+          "url": "https://open.spotify.com/artist/2caaCPRmsp0wFF9utMxeMP"
+        },
+        {
+          "name": "New Broadway Cast of Funny Girl",
+          "url": "https://open.spotify.com/artist/46lhCwPnvFpOdmVBfDFdB9"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "I Want to Be Seen with You",
+      "url": "https://open.spotify.com/track/0fQDwYUYs7c2tGwJsBNJA5"
+    },
+    {
+      "album": {
         "name": "The Bodyguard: The Musical (World Premiere Cast Recording)",
         "url": "https://open.spotify.com/album/4WFaeEbGR2FPRzxgdsGBBF"
       },
@@ -745,7 +786,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 189573,
       "name": "I Won't Send Roses - From \"Mack & Mabel Original Cast Recording\"",
       "url": "https://open.spotify.com/track/0Dd4VyKXlNcsAhLq3f9zqN"
@@ -785,7 +826,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 153133,
       "name": "I'll Be Here",
       "url": "https://open.spotify.com/track/6BmTGKJDphlIUEwGTUVBIG"
@@ -836,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Laura Dreyfuss",
+          "url": "https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248653,
+      "name": "If I Could Tell Her",
+      "url": "https://open.spotify.com/track/6nkcPGa0sr24NFCc5l5UjE"
+    },
+    {
+      "album": {
         "name": "Bernadette Peters Loves Rodgers And Hammerstein",
         "url": "https://open.spotify.com/album/4kECsyOIrvR2kemjIFtoBU"
       },
@@ -854,6 +917,28 @@
     },
     {
       "album": {
+        "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "Jessie Mueller",
+          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547093,
+      "name": "If I Loved You",
+      "url": "https://open.spotify.com/track/4rJl5AHCtg33i3iJeaCpjp"
+    },
+    {
+      "album": {
         "name": "Guys and Dolls (New Broadway Cast Recording (1992))",
         "url": "https://open.spotify.com/album/7aVLz778h7j4o82KcAD2Ic"
       },
@@ -869,7 +954,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 151573,
       "name": "If I Were a Bell",
       "url": "https://open.spotify.com/track/72eXptAG5hDKvS59VDLHNU"
@@ -917,7 +1002,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 188800,
       "name": "It Only Takes a Taste",
       "url": "https://open.spotify.com/track/0jW4YGXcbUBsMjQa7aHuSf"
@@ -935,10 +1020,36 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 118080,
       "name": "Johanna (From \"Sweeney Todd 2012 London Cast Recording\")",
       "url": "https://open.spotify.com/track/3G87kJWKE9ZLgGvheG3V4d"
+    },
+    {
+      "album": {
+        "name": "Sweeney Todd: The Demon Barber of Fleet Street (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2q6InM859RCsSQOjHWNHk2"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sondheim",
+          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
+        },
+        {
+          "name": "Victor Garber",
+          "url": "https://open.spotify.com/artist/38cD8Rgj90SnDQFCmBGwUS"
+        },
+        {
+          "name": "Paul Gemignani",
+          "url": "https://open.spotify.com/artist/5oi5DXLFdDZKjwlVxRY3GS"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117320,
+      "name": "Johanna (From \"Sweeney Todd\")",
+      "url": "https://open.spotify.com/track/1mglqKLKJ9wRUQmoWxyb5m"
     },
     {
       "album": {
@@ -968,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Follies: New Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/7vx2IsGyWN0lim75r1pdau"
+      },
+      "artists": [
+        {
+          "name": "New Broadway Cast of \"Follies\"",
+          "url": "https://open.spotify.com/artist/2LWZxC0kowYYqsCnIAd9wl"
+        },
+        {
+          "name": "Bernadette Peters",
+          "url": "https://open.spotify.com/artist/1lIG8lqWxus7LqThGUXMa1"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274866,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/4oqBhS0Az0yv625qI6rFnX"
+    },
+    {
+      "album": {
         "name": "Unmasked: The Platinum Collection (Deluxe)",
         "url": "https://open.spotify.com/album/6lfGhIVE8by4922uwuCxla"
       },
@@ -987,6 +1120,36 @@
       "duration_ms": 206946,
       "name": "Love Changes Everything - From \"Aspects Of Love\"",
       "url": "https://open.spotify.com/track/4uQqE8J8Yn4izuKz9Eu9x3"
+    },
+    {
+      "album": {
+        "name": "Les Mis\u00e9rables (Original 1985 London Cast Recording)",
+        "url": "https://open.spotify.com/album/6czYnhVAHQF0UiAilCvFMP"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Caine",
+          "url": "https://open.spotify.com/artist/7KFTSRleRiAI1TYReJql8P"
+        },
+        {
+          "name": "Rebecca Caine & Colm Wilkinson",
+          "url": "https://open.spotify.com/artist/30FFnxJFqNd3kMGyfgCV5U"
+        },
+        {
+          "name": "Michael Ball, Rebecca Caine & Frances Ruffelle",
+          "url": "https://open.spotify.com/artist/6sY2J57nXbs8nPePdgE84Y"
+        },
+        {
+          "name": "Rebecca Caine & Frances Ruffelle",
+          "url": "https://open.spotify.com/artist/7xhx9OsE59vGfUY6hv0Rhe"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317906,
+      "name": "Love Montage: I Saw Him Once / In My Life / A Heart Full of Love",
+      "url": "https://open.spotify.com/track/4q8Hw7k5tpe1AALlTVgKyS"
     },
     {
       "album": {
@@ -1117,7 +1280,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 263466,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/1A2FtmZH9Q6uFXLjKCaWvt"
@@ -1139,6 +1302,28 @@
       "duration_ms": 263466,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/25QAR7Dq2PVClNcMhxUnW5"
+    },
+    {
+      "album": {
+        "name": "Merrily We Roll Along",
+        "url": "https://open.spotify.com/album/3KZq3isCTbYMzGvnXkTfNr"
+      },
+      "artists": [
+        {
+          "name": "Jim Walton",
+          "url": "https://open.spotify.com/artist/4AimqsCVx82zEDGEDCPpOD"
+        },
+        {
+          "name": "Ann Morrison",
+          "url": "https://open.spotify.com/artist/5y53MK418Qo9tGpSGifNVv"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140586,
+      "name": "Not a Day Goes By",
+      "url": "https://open.spotify.com/track/58fqnTtqAz8yOAl1WfSM4r"
     },
     {
       "album": {
@@ -1165,7 +1350,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 236773,
       "name": "Not While I'm Around",
       "url": "https://open.spotify.com/track/67RQrv20bjrWI2cAWSjJXC"
@@ -1183,7 +1368,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 239466,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6cs44cWPd4652NlIrzRqNx"
@@ -1274,6 +1459,50 @@
     },
     {
       "album": {
+        "name": "Rewrite The Stars",
+        "url": "https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU"
+      },
+      "artists": [
+        {
+          "name": "Zac Efron",
+          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Rewrite The Stars",
+      "url": "https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN"
+    },
+    {
+      "album": {
+        "name": "Ragtime: The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1ITaTY1cwy5bnG3Dyoucr1"
+      },
+      "artists": [
+        {
+          "name": "Audra McDonald",
+          "url": "https://open.spotify.com/artist/7F6surn3OpdyOzupSawyli"
+        },
+        {
+          "name": "Brian Stokes Mitchell",
+          "url": "https://open.spotify.com/artist/22ZiDrzGc0fi8wGMaHPmtX"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "Sarah Brown Eyes",
+      "url": "https://open.spotify.com/track/4riCZ3C7FiUg3SRd7JBU0p"
+    },
+    {
+      "album": {
         "name": "Heathers: The Musical (World Premiere Cast Recording)",
         "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
       },
@@ -1343,7 +1572,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 224893,
       "name": "Someone to Watch Over Me",
       "url": "https://open.spotify.com/track/11INgPYlfDfgfjTAYOapXA"
@@ -1428,6 +1657,36 @@
     },
     {
       "album": {
+        "name": "West Side Story (New Broadway Cast Recording (2009))",
+        "url": "https://open.spotify.com/album/2tMSkFy27VIZjBum94KbpD"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Barasch",
+          "url": "https://open.spotify.com/artist/5wJjWlX2hWxeVN8X08MTQE"
+        },
+        {
+          "name": "Matt Cavenaugh",
+          "url": "https://open.spotify.com/artist/6WiZX2e7EGamztEoz3w8nX"
+        },
+        {
+          "name": "Josefina Scaglione",
+          "url": "https://open.spotify.com/artist/2QEinD0PnxnbHDhmsIBoVH"
+        },
+        {
+          "name": "West Side Story Ensemble (2009)",
+          "url": "https://open.spotify.com/artist/1DAQp7Udeg4wall9nDEZFu"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409720,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/6olJrYB94NqdARj9tWRplO"
+    },
+    {
+      "album": {
         "name": "La Cage Aux Folles (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4iQ4C2Wtz3pXSXJs9KyxdV"
       },
@@ -1443,7 +1702,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 281226,
       "name": "Song on the Sand",
       "url": "https://open.spotify.com/track/3LX9Tcu3b3gQGYYUmHvzqQ"
@@ -1543,7 +1802,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 248546,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7ETCUCheWrp9y0k3zaoCNq"
@@ -1565,7 +1824,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 192520,
       "name": "The Best Thing That Ever Has Happened (with Alec Baldwin)",
       "url": "https://open.spotify.com/track/6FMrzmKlLzrXKGp3qvQT1f"
@@ -1587,10 +1846,32 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 238000,
       "name": "The Human Heart",
       "url": "https://open.spotify.com/track/2SstrDmpPTmtHfpW9Z5Fy2"
+    },
+    {
+      "album": {
+        "name": "Once on This Island (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6gSo70KxG1aQRLRYvptsEi"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Once On This Island Storytellers",
+          "url": "https://open.spotify.com/artist/2Am9K49DTac0Pf0YOa3qwF"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "The Human Heart",
+      "url": "https://open.spotify.com/track/3hN5ozYYSzesDQGg6opMwg"
     },
     {
       "album": {
@@ -1609,6 +1890,32 @@
       "duration_ms": 356973,
       "name": "The I Love You Song",
       "url": "https://open.spotify.com/track/6dqEr0TRaRjRZrDYkf3Kle"
+    },
+    {
+      "album": {
+        "name": "The Phantom Of The Opera",
+        "url": "https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Phantom Of The Opera Original London Cast",
+          "url": "https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25"
+        },
+        {
+          "name": "Michael Crawford",
+          "url": "https://open.spotify.com/artist/5fRiVl9fyhUEZhcpMyIxUG"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341600,
+      "name": "The Music Of The Night",
+      "url": "https://open.spotify.com/track/2jF3AQzvTj9L1Ax9Di5BYu"
     },
     {
       "album": {
@@ -1663,7 +1970,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 197442,
       "name": "There But For You Go I",
       "url": "https://open.spotify.com/track/76dzL9ttiT2nlbtkYzRimJ"
@@ -1770,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "Song & Dance - The Songs (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/27mKZ3DcNm6qjqkN5IiHUV"
+      },
+      "artists": [
+        {
+          "name": "Bernadette Peters",
+          "url": "https://open.spotify.com/artist/1lIG8lqWxus7LqThGUXMa1"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224826,
+      "name": "Unexpected Song",
+      "url": "https://open.spotify.com/track/0G8QDBQ0qLH9j32WEJZaUv"
+    },
+    {
+      "album": {
         "name": "Nine: The Musical (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6Qmou5RmL4htJOTZCKoyFe"
       },
@@ -1785,7 +2110,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 300266,
       "name": "Unusual Way",
       "url": "https://open.spotify.com/track/2Hl4nwPX321cC3zkpq2RgF"
@@ -1829,10 +2154,32 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 124093,
       "name": "West Side Story: Act II: Somewhere",
       "url": "https://open.spotify.com/track/7DhQXwTYALJHMqoYaVaTFg"
+    },
+    {
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237387,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "album": {
@@ -1851,7 +2198,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 237453,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/0HM0aQHIIJ2LXDSlvwDh7c"
@@ -1910,6 +2257,28 @@
     },
     {
       "album": {
+        "name": "Dreamgirls: Original Broadway Cast Album (25th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/6XurFIcLRBy0OKPSVQ0ifa"
+      },
+      "artists": [
+        {
+          "name": "Ben Harney",
+          "url": "https://open.spotify.com/artist/0Y0omRNRazs2AXg8k7AFpi"
+        },
+        {
+          "name": "Sheryl Lee Ralph",
+          "url": "https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161640,
+      "name": "When I First Saw You - Dreamgirls/Broadway/Original Cast Version",
+      "url": "https://open.spotify.com/track/0jinWTjcJhpkFecnRpavLD"
+    },
+    {
+      "album": {
         "name": "Sondheim, Etc., Etc. Bernadette Peters Live At Carnegie Hall (The Rest Of It)",
         "url": "https://open.spotify.com/album/1BrJyLlsU77KMsU3nbwtt3"
       },
@@ -1959,6 +2328,28 @@
       "duration_ms": 266933,
       "name": "Without Love",
       "url": "https://open.spotify.com/track/2nYchL9d0SXuX2krMUSZOF"
+    },
+    {
+      "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/2v3UoAXux8q8caeYbGVPza"
+      },
+      "artists": [
+        {
+          "name": "Adam Pascal",
+          "url": "https://open.spotify.com/artist/0bvwPCit9Yh0yVdLKGnXRi"
+        },
+        {
+          "name": "Heather Headley",
+          "url": "https://open.spotify.com/artist/2xDc4cU0Rj6YG8SrmAHIy0"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Written In The Stars",
+      "url": "https://open.spotify.com/track/6uvV1x0xnLFP6kGRghxeOq"
     },
     {
       "album": {

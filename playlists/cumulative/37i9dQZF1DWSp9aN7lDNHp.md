@@ -4,7 +4,7 @@
 
 > A selection of the best songs from their albums and beyond.
 
-30 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/13zKOJ11utLCatCElPlh6y)
+30 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

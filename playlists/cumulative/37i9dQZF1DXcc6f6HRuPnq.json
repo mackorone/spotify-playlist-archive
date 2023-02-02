@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Late night cool and the sound of smooth blues.",
   "name": "Midnight Blues",
-  "published_playlist_ids": [
-    "1lH2OQ6D3sovihnuAm71bl"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 245653,
       "name": "Along About Midnight",
       "url": "https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R"
@@ -430,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Driftin' Blues (Live)",
+        "url": "https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh"
+      },
+      "artists": [
+        {
+          "name": "Charles Brown",
+          "url": "https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Driftin' Blues - Live",
+      "url": "https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L"
+    },
+    {
+      "album": {
         "name": "Sings Bessie Smith",
         "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
@@ -481,6 +496,24 @@
       "duration_ms": 237973,
       "name": "Feel Like Going Home",
       "url": "https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C"
+    },
+    {
+      "album": {
+        "name": "Gee Baby Ain't I Good To You",
+        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Gee Baby Ain't I Good To You",
+      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
     },
     {
       "album": {
@@ -794,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC"
+      },
+      "artists": [
+        {
+          "name": "Jantso Jokelin",
+          "url": "https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219915,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw"
+    },
+    {
+      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
@@ -859,10 +910,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 408480,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW"
+    },
+    {
+      "album": {
+        "name": "For Blind Willie",
+        "url": "https://open.spotify.com/album/2dKPexwvzRiovmrTAlqSGB"
+      },
+      "artists": [
+        {
+          "name": "Bror Gunnar Jansson",
+          "url": "https://open.spotify.com/artist/5orM2dN0u2EPAgSttOKI3Q"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361970,
+      "name": "Lord I Just Can't Keep from Crying",
+      "url": "https://open.spotify.com/track/77b4dmfwHQJ8qSgQ8MzYMx"
     },
     {
       "album": {
@@ -942,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Sings... Me And The Blues",
+        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "Me And The Blues",
+      "url": "https://open.spotify.com/track/0xxbcXo99r5cJItylWkKNh"
+    },
+    {
+      "album": {
         "name": "Still Got The Blues",
         "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
@@ -1011,6 +1098,28 @@
       "duration_ms": 290106,
       "name": "Night Time Is the Right Time",
       "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
+    },
+    {
+      "album": {
+        "name": "On Late Nights",
+        "url": "https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269702,
+      "name": "On Late Nights",
+      "url": "https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D"
     },
     {
       "album": {
@@ -1379,6 +1488,24 @@
       "duration_ms": 428266,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
+    },
+    {
+      "album": {
+        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "That Evening Train - Remastered 2022",
+      "url": "https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl"
     },
     {
       "album": {

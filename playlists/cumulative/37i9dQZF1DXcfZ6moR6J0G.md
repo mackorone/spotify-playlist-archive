@@ -4,7 +4,7 @@
 
 > You know what time it is.
 
-155 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/20d4IlNUeftDn1dC55e5ld)
+155 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Snot](https://open.spotify.com/track/3qCQNtggJw1gxoptMgDhyR) | [Snot](https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8) | [Get Some](https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda) | 3:21 | 2022-06-18 |  |
 | [Somewhere I Belong](https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:33 | 2022-06-18 | 2022-11-14 |
 | [Somewhere I Belong](https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 3:33 | 2021-09-06 | 2022-07-29 |
-| [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 | 2021-09-06 |  |
+| [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 | 2021-09-06 | 2022-12-27 |
 | [Southtown](https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:07 | 2021-09-06 |  |
 | [Spit](https://open.spotify.com/track/4DSAxhyfL8uZYTbRNsSHMU) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu) | 2:22 | 2022-04-17 |  |
 | [Stoopid](https://open.spotify.com/track/3lvMZTPh9snQKo4OiP13CU) | [Snot](https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8) | [Get Some](https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda) | 3:52 | 2022-04-17 | 2022-11-13 |
@@ -151,7 +151,7 @@
 | [Tainted Love](https://open.spotify.com/track/3RTeHN0JPOikvIXYCxBSK1) | [My Ruin](https://open.spotify.com/artist/6z0facoMGZYR8El8YaMw3q) | [Speak and Destroy](https://open.spotify.com/album/4p1SiSYDHzb1pdcTLJoaC4) | 3:48 | 2022-04-17 | 2022-06-29 |
 | [The Key To Gramercy Park \- Album Version \(Edited\)](https://open.spotify.com/track/56RVUS1Yo2YxkhU9bIi2i1) | [Deadsy](https://open.spotify.com/artist/1RBQSFgtcUFw4LXSw0tUBq) | [Commencement](https://open.spotify.com/album/2kBPVOM0vVUlihWChxqWMD) | 3:12 | 2021-09-06 | 2022-11-14 |
 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 | 2021-09-06 |  |
-| [The Way You Like It](https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:39 | 2022-11-03 | 2022-11-13 |
+| [The Way You Like It](https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:39 | 2022-11-03 |  |
 | [Thumper](https://open.spotify.com/track/5UxmJ9bBeGRFhZsItTkoTL) | [Raging Speedhorn](https://open.spotify.com/artist/3D3G4JAVp6JQVEKjUaaSxA) | [Raging Speedhorn](https://open.spotify.com/album/5oDEwZgZZaeFXAQvN5L4ID) | 2:36 | 2022-04-17 | 2022-04-20 |
 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 | 2021-09-06 |  |
 | [Ty Jonathan Down](https://open.spotify.com/track/5O9OjIL1D7akvZ91VT7VPH) | [Videodrone](https://open.spotify.com/artist/7hl6MPeP2VSGIbJY6lpml0), [David Kahne](https://open.spotify.com/artist/6G0eM0JfYIbNAdp9YPykhr) | [Videodrone](https://open.spotify.com/album/6RBKITC2WoADf4ZtGV3TSO) | 4:21 | 2022-04-17 | 2022-04-21 |

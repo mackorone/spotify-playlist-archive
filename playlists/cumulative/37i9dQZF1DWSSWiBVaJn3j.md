@@ -4,7 +4,7 @@
 
 > 60s rock to fuel your ride\. Cover: Jimi Hendrix
 
-55 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/2PKxCmYyIft6ApSPavHDQE)
+55 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU05aHRDUDnL.md) - [plain]
 
 > Put your headphones on and enjoy your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,312 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,668 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU05aHRDUDnL.md) - [plain]
 | 3 | [The Feast and The Famine](https://open.spotify.com/track/1M4Wy6jRce1x17qyE7yQAB) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Sonic Highways](https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9) | 3:49 |
 | 4 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 |
 | 5 | [Dirty Girl](https://open.spotify.com/track/5BrQMw5Xy8OU8a1qQGGv8Y) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [World On Fire](https://open.spotify.com/album/3ZyFMWdKyIYxCLbK40OvcV) | 4:14 |
-| 6 | [Toys In The Attic](https://open.spotify.com/track/4pj8ElgSWmmy5LT9a7jb0s) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:05 |
+| 6 | [Toys In The Attic](https://open.spotify.com/track/4e4ukCLCov1UYoup2SdRHB) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:05 |
 | 7 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/4z7OCDAAIZxfzQ6qyUSx1O) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Through The Past, Darkly \(Big Hits Vol\. 2\)](https://open.spotify.com/album/1Dsx0X79p4owIdoS0kTYgb) | 2:59 |
 | 8 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
 | 9 | [Jamie's Cryin' \- 2015 Remaster](https://open.spotify.com/track/6MumccCPd4N6qBVdl0gSeM) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:29 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU05aHRDUDnL.md) - [plain]
 | 19 | [Roadhouse Blues \- New Stereo Mix](https://open.spotify.com/track/4VHvZjaD1sdWA7vC4Dm2Au) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 4:08 |
 | 20 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 |
 
-Snapshot ID: `MTY0Mzc1NTU5MSwwMDAwMDAwMDY3YzU0MGQ3MWUyNWU0MDAyZjJjYmRlZTcwNjY4YjE0`
+Snapshot ID: `MTY0Mzc1NTU5MSwwMDAwMDAwMDhlMmU1NDcyNThiMTQ2NWMxMzEzOTI5ZTQ1NWVhOTA0`

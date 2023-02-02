@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
   "name": "Salsa: Los '70",
-  "published_playlist_ids": [
-    "4nnFd93C2I3sEx07XAmJIF"
-  ],
   "tracks": [
     {
       "album": {
@@ -1121,10 +1118,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 225140,
       "name": "Lloraras - Edit",
       "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
+    },
+    {
+      "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "album": {
@@ -1551,7 +1566,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-07",
       "duration_ms": 295392,
       "name": "Que Pena",
       "url": "https://open.spotify.com/track/7H6TbcATjUfP6gkJ7vxfp5"
@@ -1679,7 +1694,7 @@
     {
       "album": {
         "name": "Qu\u00e9 Pena",
-        "url": "https://open.spotify.com/album/0uGdFy3Gujx8h93HkCFWFf"
+        "url": "https://open.spotify.com/album/5JtBd2d34ueQOa0VHr13I5"
       },
       "artists": [
         {
@@ -1690,6 +1705,24 @@
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 295206,
+      "name": "Qu\u00e9 Pena",
+      "url": "https://open.spotify.com/track/2BiPX58VlbUBfiu7hlbomO"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Pena",
+        "url": "https://open.spotify.com/album/0uGdFy3Gujx8h93HkCFWFf"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
       "duration_ms": 295206,
       "name": "Qu\u00e9 Pena",
       "url": "https://open.spotify.com/track/6afQURuED4PRXcA8IGoSx4"

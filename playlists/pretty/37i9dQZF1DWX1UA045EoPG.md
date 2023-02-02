@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,941 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,391 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 2 | [Summertime Magic](https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 3:33 |
 | 3 | [Loud](https://open.spotify.com/track/556LJMJMhRJUNb4IggLTMM) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Loud](https://open.spotify.com/album/4esQRJHaiTQycN77tdw8fZ) | 3:19 |
 | 4 | [Sometime](https://open.spotify.com/track/0k7jQIz3bZBeeCwmBFZzOS) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Sometime](https://open.spotify.com/album/2XAClj8jcQ28igOqs1iMRU) | 2:46 |
-| 5 | [Just a Little](https://open.spotify.com/track/5P6nbeGMqnAGwqt9rrraaQ) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Just a Little](https://open.spotify.com/album/4D5CFuwtc552jcdLkSahXq) | 3:43 |
+| 5 | [Just a Little](https://open.spotify.com/track/6GDoulv0WO25vEFjN6pZOq) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Just a Little](https://open.spotify.com/album/3HozEf10DwxV06n4WZ6Kym) | 3:43 |
 | 6 | [Sky High](https://open.spotify.com/track/4KPTn94q9A0WsuypOrSzIV) | [Mr\. Goldenfold](https://open.spotify.com/artist/6FPuOcm8xqY362N137yZXi) | [Neighborhood](https://open.spotify.com/album/5LvMZHMGHz6w3N2nwVjdkB) | 2:55 |
 | 7 | [Easy Money](https://open.spotify.com/track/17FYfMKpJJP4uP6B8qv90o) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB) | [Easy Money](https://open.spotify.com/album/3n2oIsnzSfEV3j5gnHQvC5) | 2:57 |
 | 8 | [Peach Jam](https://open.spotify.com/track/6dktyiCWz2JYGmcPQ5D5dY) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Head In The Clouds](https://open.spotify.com/album/6YFBWwUDdot8IjBZSYOacB) | 2:41 |
 | 9 | [Cool It](https://open.spotify.com/track/6jTJq11wBAeTptcybJHmgJ) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [Bits & Pieces](https://open.spotify.com/album/2ORjqBygvY8oyEp6oVm8PB) | 3:42 |
 | 10 | [So Fine \(Feat\. Falcxne\)](https://open.spotify.com/track/6r3RoSEAZQMHCZqSS4aEL9) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [Sundae Sauuce Presents: Chocolate Drizzle](https://open.spotify.com/album/0JpEaFsmduibGQhAEoIgXz) | 2:38 |
-| 11 | [Hate Me](https://open.spotify.com/track/31e0GKdA86PliYQ9xnbbtP) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Hate Me](https://open.spotify.com/album/5o96HoZeovqDi3O61OThxA) | 2:26 |
+| 11 | [Hate Me](https://open.spotify.com/track/2ronhbN9odAFiKjVlyLNOE) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Hate Me](https://open.spotify.com/album/5k15DlgvkLscvA2Ym9EqqT) | 2:26 |
 | 12 | [Slinky Man](https://open.spotify.com/track/0nVLAxfxzW9487k5LZpscC) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 2:11 |
 | 13 | [Fuji.](https://open.spotify.com/track/2xWavyjB5Nif5Cy8lRLX4Q) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [Swimming](https://open.spotify.com/album/2eN8bdTlnXQJlA4cKVYX4L) | 1:48 |
 | 14 | [Old Age](https://open.spotify.com/track/1nMULe4EavfF8SZHQ3Pag9) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Old Age](https://open.spotify.com/album/33vsKtsIqvAk0mpiVKN3rz) | 2:21 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 19 | [Mona Lisa Bonet](https://open.spotify.com/track/06I2oTgzyWBjw6qJcKGMkk) | [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [Mona Lisa Bonet](https://open.spotify.com/album/6t3OXIO6WN2k24g8xRsam6) | 2:05 |
 | 20 | [Dangerous](https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [This Time](https://open.spotify.com/album/5d1GP0Dl62bgaOQ8euQJAn) | 3:51 |
 | 21 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 |
-| 22 | [Rollercoaster](https://open.spotify.com/track/2MLgNLIkT0SZ2YPhZ8rbg4) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Rollercoaster](https://open.spotify.com/album/4ZCormQxAfZzBFxNx0jnfm) | 3:17 |
+| 22 | [Rollercoaster](https://open.spotify.com/track/4TPzZlQvwNwO8tI3f6lsY2) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Overgrown](https://open.spotify.com/album/3FBY8CnuZ6aD3pzfSodd3W) | 3:17 |
 | 23 | [La Piña](https://open.spotify.com/track/3fmIXrnXgt6ZzXWHewbvSC) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [La Piña](https://open.spotify.com/album/4Ur27mAxzS8CzHr942EuGE) | 3:39 |
 | 24 | [Keep the Spark Alive](https://open.spotify.com/track/4ortOUyHPtxAmM1T0xXEhZ) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Bonus Points](https://open.spotify.com/artist/3GlCVMFRzrZ3FGtt4apejf) | [Keep the Spark Alive](https://open.spotify.com/album/2pJERUgp7pWBqhEnztIedx) | 3:01 |
 | 25 | [Fresh! \(feat\. Flamingosis\)](https://open.spotify.com/track/0xyZGdpkODxuHeitZUpHPO) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Fresh!](https://open.spotify.com/album/6osa0X7YiamMzT7mf1VBGW) | 2:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 47 | [Confession](https://open.spotify.com/track/1KRoRM6vuzm3TTAMDrQYNK) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Confession](https://open.spotify.com/album/3KrnlFZDvXlRWNnTRR3sxQ) | 3:55 |
 | 48 | [Crumbs](https://open.spotify.com/track/0wgElszsos5fWd2lT8AJGG) | [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Crumbs](https://open.spotify.com/album/5nRCPFk5CcyWduE1zgskS0) | 3:13 |
 | 49 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 |
-| 50 | [Left & Right](https://open.spotify.com/track/5N6d8ri3KFmAhVIXGydnLN) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [Left & Right](https://open.spotify.com/album/7ELdoHPpEJ9uOdM02EzBXL) | 3:08 |
+| 50 | [Left & Right](https://open.spotify.com/track/0m9ggRI3M7andaAAwhpyQ0) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Everything Is Always a Process](https://open.spotify.com/album/2l9tj36iPJgoGP2hO3VNCj) | 3:08 |
 
-Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDNhODEzZGRkZTA3ZjkxNDRhZjUyMzhiNzE4NjY0ZGQz`
+Snapshot ID: `MTY2NDI2OTY3NCwwMDAwMDAwMDZlNzdhOGUwMGZjNmY5Yjg1ZDliODI0MjE3YTExMDM3`

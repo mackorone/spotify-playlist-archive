@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:0DqR5aQYPz1s2M3YbycLMJ\">jamesjamesjames' </a> favourite tracks.  Updated regularly. Curated by jamesjamesjames. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "jamesjamesjames' track IDs",
-  "published_playlist_ids": [
-    "46XZ4IMGhni4OH0JCWukmO"
-  ],
   "tracks": [
     {
       "album": {
@@ -111,7 +108,7 @@
     {
       "album": {
         "name": "PC Music, Vol. 1",
-        "url": "https://open.spotify.com/album/6v7bvadPuidJL6o6kepl1f"
+        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
       },
       "artists": [
         {
@@ -122,6 +119,24 @@
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227750,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
+    },
+    {
+      "album": {
+        "name": "PC Music, Vol. 1",
+        "url": "https://open.spotify.com/album/6v7bvadPuidJL6o6kepl1f"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 229333,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/2NyST1PrdhrIySjgKG8fop"
@@ -915,7 +930,7 @@
     {
       "album": {
         "name": "Puppy",
-        "url": "https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn"
+        "url": "https://open.spotify.com/album/6jGkDcPdeC8CBB3RXb1wf5"
       },
       "artists": [
         {
@@ -926,6 +941,24 @@
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248698,
+      "name": "Puppy",
+      "url": "https://open.spotify.com/track/4PTM36Ku1D59yaDVA2T5Ld"
+    },
+    {
+      "album": {
+        "name": "Puppy",
+        "url": "https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 248698,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly"

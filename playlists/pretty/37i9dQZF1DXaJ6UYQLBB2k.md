@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 
 > Re\-live the glory of Ambient from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,617 likes - 70 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,384 likes - 70 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 7 | [Ruins Garden Drones](https://open.spotify.com/track/3qTXozJolSndqd3zNkjxUD) | [Alio Die, Gregorio Bardini](https://open.spotify.com/artist/15TmzWRgHtXeXhhU34nopD) | [Suspended Feathers](https://open.spotify.com/album/05fvIaTslna4FiYqJNR2Et) | 9:08 |
 | 8 | [Baltimore to Fair Play](https://open.spotify.com/track/0TJJcRcGvDs7DxAL79bqFN) | [The KLF](https://open.spotify.com/artist/6dYrdRlNZSKaVxYg5IrvCH), [The Justified Ancients of Mu Mu](https://open.spotify.com/artist/623YeFh2bNivR5ZxQcsjjP) | [Come Down Dawn](https://open.spotify.com/album/4fBvkZkBuPyo3k7ZogKFAo) | 7:44 |
 | 9 | [Longing for Daydreams](https://open.spotify.com/track/0lPoWjJaNfHm16girMZV7v) | [Holger Czukay](https://open.spotify.com/artist/58nPlJ5CNYu0nGLOuE1Uuk) | [Moving Pictures](https://open.spotify.com/album/2e8sm7FQGeZYHWEUVS5SbY) | 5:22 |
-| 10 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 |
+| 10 | [\#17](https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 2:05 |
 | 11 | [Postscript](https://open.spotify.com/track/3g1hBwztBeoT9dK9w16ENA) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 16:41 |
 | 12 | [Love Theme from Twin Peaks \- Instrumental](https://open.spotify.com/track/6WSB31O8sxrhly3HNfOEzF) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [Soundtrack From Twin Peaks](https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX) | 5:04 |
 | 13 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 38 | [Joyriding III](https://open.spotify.com/track/6iArrdSIfnOT7PA7ohxdqZ) | [Bedouin Ascent](https://open.spotify.com/artist/69rm1lAHokysa2NBh4ZwV0) | [Virtual Dreams: Ambient Explorations In The House & Techno Age, 1993\-1997](https://open.spotify.com/album/11GgRVmpjBJNVRPjNPQQTQ) | 2:00 |
 | 39 | [Back Side Of The Moon](https://open.spotify.com/track/4gvPbKEQyTZBoX2k7P1MFZ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL) | 14:14 |
 | 40 | [Undercurrent](https://open.spotify.com/track/6Qyy9fqDBBZyl90snerjl0) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 4:41 |
-| 41 | [Where We Lived](https://open.spotify.com/track/0LHwhtADY3HcxbZRFJaWQN) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Spinner \[Expanded Edition\]](https://open.spotify.com/album/7JQTEkhfjqaiQuRl4hYb5W) | 3:00 |
+| 41 | [Where We Lived](https://open.spotify.com/track/7wR6WVfGqUZrk8cQRJec38) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Spinner](https://open.spotify.com/album/2Vknz1aNeu8ntZdTxwHZyo) | 3:00 |
 | 42 | [Slip, Dip](https://open.spotify.com/track/2YyXej3Cwztlc8ijBDh5vR) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Drop](https://open.spotify.com/album/6Fb5fYghhLgnEniAMICvjA) | 2:18 |
 | 43 | [4:14](https://open.spotify.com/track/5snT0KvkN7Ty0oiVyxZMfE) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 4:15 |
 | 44 | [\#3](https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:44 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 51 | [Opening](https://open.spotify.com/track/7zlQOoectwIdD96oPLDveN) | [A Produce](https://open.spotify.com/artist/0BtlYa6Mov8Ike1JmPE1dt) | [Reflect Like A Mirror, Respond Like An Echo](https://open.spotify.com/album/5xecJxSkuzwT2DruccuBIN) | 2:30 |
 | 52 | [babysbreath](https://open.spotify.com/track/7Cwt68khwNZg4yc9enbjsY) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BG7NoX84aiRFWseVIS8eA) | 3:51 |
 | 53 | [Laika](https://open.spotify.com/track/7zFv2VmCMIQR2S9bTJ5KEY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 14:34 |
-| 54 | [Garden Recalled](https://open.spotify.com/track/2pGkBtX5wp67XM8RqU77ar) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Spinner \[Expanded Edition\]](https://open.spotify.com/album/7JQTEkhfjqaiQuRl4hYb5W) | 3:21 |
+| 54 | [Garden Recalled](https://open.spotify.com/track/0gpKR0EMqUvz9IHe2coSwj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Spinner](https://open.spotify.com/album/2Vknz1aNeu8ntZdTxwHZyo) | 3:21 |
 | 55 | [9:25](https://open.spotify.com/track/3CJdVCB0MjIzJWWebjxRQQ) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 9:34 |
 | 56 | [Triennale](https://open.spotify.com/track/1TpfK6G0X5muasT0eQsipa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 4:06 |
 | 57 | [\#11](https://open.spotify.com/track/00rqHqrLS3ZZCqRLsMSPXs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:18 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 62 | [Mestigoth](https://open.spotify.com/track/3CAZVIDUo5qfbaAJZ664F5) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 1:43 |
 | 63 | [5](https://open.spotify.com/track/31Fh0P3RuBgqr4Q98fySA5) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Hotel Paral.lel](https://open.spotify.com/album/1dE84ei4z2SdzcQIbQIfwX) | 6:59 |
 | 64 | [The Angelic Appearance](https://open.spotify.com/track/0Fs2CWurShoStSr7mDVYT0) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/6Hv4N99ZepwCn74FU6L4Ie) | 5:48 |
-| 65 | [Lanzarote](https://open.spotify.com/track/328Dtn2EjoTCPuULdZGmod) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/24tydQEhQTIlAaGNk9LrPv) | 8:39 |
+| 65 | [Lanzarote](https://open.spotify.com/track/4m3PCeereQNS2gm7jGiS1P) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly \(Expanded Edition\)](https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6) | 8:39 |
 | 66 | [Precipice](https://open.spotify.com/track/4oTeGVTZhMgn1ZwuJzroOu) | [Jeff Greinke](https://open.spotify.com/artist/3g94tTUOoqf4IweFjbAA30) | [Lost Terrain](https://open.spotify.com/album/2ByS4Re6ViTadx6HsPaPx5) | 5:14 |
 | 67 | [Near & Far Away](https://open.spotify.com/track/3B6Wm7UhJ7tmydqpdI4jod) | [A Produce](https://open.spotify.com/artist/0BtlYa6Mov8Ike1JmPE1dt) | [Reflect Like A Mirror, Respond Like An Echo](https://open.spotify.com/album/5xecJxSkuzwT2DruccuBIN) | 5:47 |
 | 68 | [The Tower](https://open.spotify.com/track/2Ew9aqhpxnNLxZgLdgdoki) | [Robyn Miller](https://open.spotify.com/artist/70EWCtKhQhtClb7NWQlm0d) | [Myst \- The Soundtrack](https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT) | 1:43 |
 | 69 | [Circle \- 1996 Remix](https://open.spotify.com/track/1RNDTmjsiekXqaOJejZaFb) | [Rapoon](https://open.spotify.com/artist/3rZRPN25ZcxuWzcBPgYPYn) | [Recurring \(Dream Circle\)](https://open.spotify.com/album/4zBhwNhgPvprOw2FwawvKZ) | 8:25 |
 | 70 | [Phaze](https://open.spotify.com/track/6BA4U2AJ2So49LRolXPuLI) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu), [Tim Floyd](https://open.spotify.com/artist/6kq8fkuEqOfcqZhUHa69KG) | [Drift](https://open.spotify.com/album/1ZP8ZRPWDYfj6aGWtJua11) | 1:30 |
 
-Snapshot ID: `MTY2OTIwNjgyNiwwMDAwMDAwMDI3N2NhZGE5YmU5YmNjNDYzYjRjMjBmMTg3ZjFiZjY2`
+Snapshot ID: `MTY3MjQyMjYxMywwMDAwMDAwMDQ1NjkwNjg1NjRlNjkwOWE0MjVkNDU5ZDVjYmNmMDgz`

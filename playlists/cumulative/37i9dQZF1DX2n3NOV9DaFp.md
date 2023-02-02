@@ -4,7 +4,7 @@
 
 > The official playlist of Rolling Loud.
 
-282 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/2hyYLyeEoLCdZNlf4BNnXB)
+282 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

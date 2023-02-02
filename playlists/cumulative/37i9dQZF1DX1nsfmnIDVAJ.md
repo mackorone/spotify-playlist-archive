@@ -4,7 +4,7 @@
 
 > Where all Hamilton music coexists.
 
-72 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1Sjd8mbGciNLtH0ge94Gox)
+72 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

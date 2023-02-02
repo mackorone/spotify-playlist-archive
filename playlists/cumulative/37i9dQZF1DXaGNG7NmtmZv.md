@@ -4,7 +4,7 @@
 
 > Classic songs from the legends of the hardcore scene.
 
-88 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/47UJ8RmOikLRz8ibfhHOqe)
+88 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Chain Letter](https://open.spotify.com/track/7lF14EmytH8hkPGRX8Iu8Z) | [Endicott](https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF) | [Words in Ink Don't Lie](https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu) | 2:35 | 2020-12-08 | 2022-07-29 |
 | [Chasing the Dragon](https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/1g3661VmArydCMCXltxVJk) | 3:23 | 2020-12-08 | 2022-07-29 |
 | [Chasing the Dragon](https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx) | 3:23 | 2020-12-08 |  |
-| [Choices Made](https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Set Your Goals](https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda) | 2:28 | 2020-12-08 | 2022-11-22 |
+| [Choices Made](https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Set Your Goals](https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda) | 2:28 | 2020-12-08 | 2023-01-15 |
 | [Choices Made](https://open.spotify.com/track/6RwlqbbXVy8DjRmTgxxRx5) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Solid Bond: The Complete Discography](https://open.spotify.com/album/4e36aYT7dRveOWWd5HPAgY) | 2:28 | 2020-12-08 | 2022-07-29 |
 | [Down for Life](https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [State Of The World Address](https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn) | 3:45 | 2020-12-08 |  |
 | [Element](https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [Vision of Disorder](https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD) | 3:13 | 2020-12-08 |  |
@@ -40,11 +40,11 @@
 | [Get It Away](https://open.spotify.com/track/4G3XY6LeHc54ZEmHw5qNWE) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 2:46 | 2020-12-08 | 2022-07-29 |
 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 | 2020-12-08 |  |
 | [Glue](https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 1:18 | 2020-12-08 | 2022-08-05 |
-| [Gomorrah's Season Ends](https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k) | 3:29 | 2020-12-08 |  |
+| [Gomorrah's Season Ends](https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k) | 3:29 | 2020-12-08 | 2023-02-01 |
 | [Gomorrah's Season Ends](https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi) | 3:29 | 2020-12-08 | 2022-07-29 |
 | [Gotta Go](https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Something's Gotta Give](https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ) | 3:34 | 2020-12-08 |  |
 | [Gravity Wins Again](https://open.spotify.com/track/6BtPf07BVx4QNWvopvOyW6) | [One King Down](https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D) | [Gravity Wins Again \- EP](https://open.spotify.com/album/4Vj5PyRGUJKyG3OyydLJnJ) | 2:26 | 2020-12-08 | 2022-07-28 |
-| [Hail Destroyer](https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/4zR3343ue909iFnr6odhK3) | 3:16 | 2020-12-08 |  |
+| [Hail Destroyer](https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/4zR3343ue909iFnr6odhK3) | 3:16 | 2020-12-08 | 2023-01-07 |
 | [Hail Destroyer](https://open.spotify.com/track/6ltuf6egc9J496H2JyvSq7) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/5IgBHly6pTFCWxFoHr6DqU) | 3:16 | 2020-12-08 | 2022-07-29 |
 | [Hard Times](https://open.spotify.com/track/2o3v9646q5cqBv5mdYXAYR) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 1:36 | 2020-12-08 |  |
 | [Here to Stay](https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 2:24 | 2020-12-08 |  |
@@ -59,8 +59,8 @@
 | [Never Alone](https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [The Damned, the Shamed](https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW) | 2:50 | 2020-12-08 |  |
 | [New Direction](https://open.spotify.com/track/7CdGO6KJg20UAAXl7CW8q6) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:29 | 2020-12-08 |  |
 | [New York City](https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 2:01 | 2020-12-08 |  |
-| [Over the Years](https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Friendship Loyalty Commitment](https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I) | 2:05 | 2020-12-08 | 2022-07-27 |
-| [Proud To Be DFL](https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0) | [DFL](https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb) | [Proud To Be](https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P) | 1:25 | 2020-12-08 | 2022-11-21 |
+| [Over the Years](https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Friendship Loyalty Commitment](https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I) | 2:05 | 2020-12-08 | 2023-01-27 |
+| [Proud To Be DFL](https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0) | [DFL](https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb) | [Proud To Be](https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P) | 1:25 | 2020-12-08 |  |
 | [Punishment](https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Urban Discipline](https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws) | 4:44 | 2020-12-08 |  |
 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 | 2020-12-08 |  |
 | [Ransom Note](https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ) | [Endicott](https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF) | [Words in Ink Don't Lie](https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu) | 2:39 | 2020-12-08 | 2022-07-25 |
@@ -80,7 +80,7 @@
 | [Step Down](https://open.spotify.com/track/6DE037vHREtIRYjqzZ8fkf) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64ZNLvblppwORqskxoMbG1) | 3:09 | 2020-12-08 | 2022-10-13 |
 | [Step Down](https://open.spotify.com/track/2t4jzAAzlt4BasOuHPrJ0k) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch The Surface](https://open.spotify.com/album/76TWjo9O40anFFnKtyACcd) | 3:10 | 2020-12-08 | 2022-07-29 |
 | [Strength Through Unity](https://open.spotify.com/track/4k1avYF42hK2l4iKprwzij) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Strength Through Unity](https://open.spotify.com/album/63xBmhjFGPDlnvNA31Nzwd) | 1:54 | 2020-12-08 | 2022-07-15 |
-| [Strength Thru Unity](https://open.spotify.com/track/4OJZM33D5Z4XO6KhGp3Wva) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Haterz Be Damned: New, Old & Rare](https://open.spotify.com/album/7cTQVE19wRopoVrkumYTvi) | 1:54 | 2020-12-08 | 2022-10-18 |
+| [Strength Thru Unity](https://open.spotify.com/track/4OJZM33D5Z4XO6KhGp3Wva) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Haterz Be Damned: New, Old & Rare](https://open.spotify.com/album/7cTQVE19wRopoVrkumYTvi) | 1:54 | 2020-12-08 |  |
 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 | 2020-12-08 |  |
 | [Take a Stand](https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 1:40 | 2020-12-08 |  |
 | [The Disconnect](https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Current Will Carry Us](https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0) | 3:56 | 2020-12-08 | 2022-07-28 |

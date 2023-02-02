@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A collection of powerful voices and alluring siren songs. ",
   "name": "Femme Fatale",
-  "published_playlist_ids": [
-    "4TFPubUIaS3b8U0Aq9oe9J"
-  ],
   "tracks": [
     {
       "album": {
@@ -808,6 +805,24 @@
     },
     {
       "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju"
+      },
+      "artists": [
+        {
+          "name": "Bryde",
+          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178256,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y"
+    },
+    {
+      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -1132,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Bon Adventure",
+        "url": "https://open.spotify.com/album/7EGoVr8xneoTGBwPZTX1Ia"
+      },
+      "artists": [
+        {
+          "name": "Jillette Johnson",
+          "url": "https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Just for Fun",
+      "url": "https://open.spotify.com/track/282p28Iff7PicfKaCpbl7F"
+    },
+    {
+      "album": {
         "name": "Keep Lying (Demo)",
         "url": "https://open.spotify.com/album/5KmFgc0v96LnHNmUdTs5WJ"
       },
@@ -1197,7 +1230,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 195990,
       "name": "Left With Someone Else",
       "url": "https://open.spotify.com/track/0qin3yx9CCpBxiZRAwSeGJ"
@@ -1773,7 +1806,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 211216,
       "name": "Pain of Love",
       "url": "https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb"
@@ -1809,7 +1842,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 171173,
       "name": "Presence",
       "url": "https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o"
@@ -2141,7 +2174,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 236053,
       "name": "The Touch",
       "url": "https://open.spotify.com/track/5uUv74gkYBFYMGkS0D4cuW"
@@ -2159,7 +2192,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 284600,
       "name": "This World",
       "url": "https://open.spotify.com/track/3ttKMMwWGBcp08UWhtdqd7"
@@ -2195,7 +2228,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 182381,
       "name": "Touched (Live)",
       "url": "https://open.spotify.com/track/6WMqm7SOuCGgIBqXifY67N"

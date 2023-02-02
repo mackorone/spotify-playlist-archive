@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The best in old & new Reggae. Cover: Bob Marley.",
   "name": "One Love",
-  "published_playlist_ids": [
-    "55GdQaI3M6rHQD7agSU7NY"
-  ],
   "tracks": [
     {
       "album": {
@@ -1605,10 +1602,32 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 197666,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
+    },
+    {
+      "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197840,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
     },
     {
       "album": {
@@ -2073,10 +2092,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 279720,
       "name": "I Shot The Sheriff",
       "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
+    },
+    {
+      "album": {
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280600,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/71zvW0WZ0bap9gphp7Jhgp"
     },
     {
       "album": {
@@ -2229,7 +2266,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2023-01-07",
       "duration_ms": 229168,
       "name": "Incient Stepping",
       "url": "https://open.spotify.com/track/2ZMrQpLGv3H10PeNDEL1UF"
@@ -3117,7 +3154,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 228506,
       "name": "Love Is My Religion",
       "url": "https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR"
@@ -3883,7 +3920,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 204933,
       "name": "Natty Rebel",
       "url": "https://open.spotify.com/track/0OXqjgWApWQvuZcWTjmhxS"
@@ -4614,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "The Youth Of Today",
+        "url": "https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204222,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
+    },
+    {
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
       },
@@ -4625,7 +4680,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 205426,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
@@ -4931,7 +4986,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-28",
       "duration_ms": 200196,
       "name": "Raggamuffin",
       "url": "https://open.spotify.com/track/1m1BWVNNPRTiYmlCd5eqW0"
@@ -5877,9 +5932,9 @@
           "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "date_added": "2022-10-14",
+      "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 247756,
       "name": "Stay",
       "url": "https://open.spotify.com/track/27RAZKSDzCpLCSaLBK8BNg"
@@ -6165,7 +6220,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 228600,
       "name": "Tempted to Touch",
       "url": "https://open.spotify.com/track/24kv7kR0Cz8ZBWFx4Kq50A"
@@ -6187,7 +6242,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
@@ -6209,7 +6264,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/5Zzh3jIDIvCb6bllZjfuL4"
@@ -6373,7 +6428,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 213977,
       "name": "The Kalling",
       "url": "https://open.spotify.com/track/71FgWYL9m6vSypm6FzUVJv"
@@ -6501,7 +6556,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 194882,
       "name": "Think About You - Notion Mix",
       "url": "https://open.spotify.com/track/698qfbrci5r8U0EKceXhml"
@@ -6895,7 +6950,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 217288,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO"
@@ -6993,7 +7048,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": "2023-01-25",
       "duration_ms": 290626,
       "name": "War Ina Babylon",
       "url": "https://open.spotify.com/track/5Me6F9y6iArvYxyuP30m14"
@@ -7215,6 +7270,24 @@
       "duration_ms": 224840,
       "name": "World A Reggae Music",
       "url": "https://open.spotify.com/track/3Gym3Rtm6FHpTrLlJTcz3j"
+    },
+    {
+      "album": {
+        "name": "Black Star",
+        "url": "https://open.spotify.com/album/01imgCzPh4MFp2S6PmpL3M"
+      },
+      "artists": [
+        {
+          "name": "Anthony B",
+          "url": "https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224840,
+      "name": "World A Reggae Music",
+      "url": "https://open.spotify.com/track/4lE3rkBD6Ey1SQSd19XfY7"
     },
     {
       "album": {

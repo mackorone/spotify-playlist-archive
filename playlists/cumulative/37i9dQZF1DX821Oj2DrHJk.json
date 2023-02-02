@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Rock that was on repeat during the summers of the 1970s.",
   "name": "70s Summer Rock",
-  "published_playlist_ids": [
-    "2cyQ6dmMAqrX0JrBpZloRA"
-  ],
   "tracks": [
     {
       "album": {
@@ -145,10 +142,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 280360,
       "name": "Back In the Saddle",
       "url": "https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280431,
+      "name": "Back In the Saddle",
+      "url": "https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs"
     },
     {
       "album": {
@@ -163,7 +178,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-15",
       "duration_ms": 237333,
       "name": "Bad Bad Boy",
       "url": "https://open.spotify.com/track/0UIpa8py2QChTdE1KB4yKa"
@@ -361,7 +376,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168826,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/4scS449npSaFolwj9b4RJD"
@@ -397,7 +412,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 180693,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/39ZC8fZuLGJfpoaTST7vw3"
@@ -559,7 +574,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 354933,
       "name": "Davy's On The Road Again",
       "url": "https://open.spotify.com/track/0AYhsErBaLgKL2qYNhHTZj"
@@ -793,7 +808,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 205440,
       "name": "Girls Talk",
       "url": "https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6"
@@ -1045,7 +1060,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-03",
       "duration_ms": 135666,
       "name": "I Love To Boogie",
       "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
@@ -2222,7 +2237,7 @@
     },
     {
       "album": {
-        "name": "Running on Empty (2018 Remaster)",
+        "name": "Running on Empty (Remastered)",
         "url": "https://open.spotify.com/album/24UtAJJRIuHICjdIDqaNhg"
       },
       "artists": [
@@ -2235,7 +2250,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204464,
-      "name": "Stay - 2018 Remaster",
+      "name": "Stay - Remastered",
       "url": "https://open.spotify.com/track/5eMjcHVRRh1tbimTgJPoGn"
     },
     {
@@ -2317,7 +2332,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -2328,6 +2343,24 @@
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
@@ -2363,7 +2396,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-01",
       "duration_ms": 195973,
       "name": "Take Me Bak 'Ome",
       "url": "https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4"
@@ -2605,7 +2638,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -2616,6 +2649,24 @@
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"

@@ -4,7 +4,7 @@
 
 > From then to now, these songs will forever be classics.
 
-28 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/70NyPdT5M68lQRt0p6CXf0)
+28 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

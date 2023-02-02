@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-24",
   "description": "Uma playlist s\u00f3 com as origens do Rap nacional. Foto: MV Bill",
   "name": "No Princ\u00edpio Era o Verso",
-  "published_playlist_ids": [
-    "17snTQx4nUc5vx1ksDMIHE"
-  ],
   "tracks": [
     {
       "album": {
@@ -935,7 +932,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 524460,
       "name": "O Amor Venceu a Guerra",
       "url": "https://open.spotify.com/track/7LhExbpqQCLy2tFPK8N5P9"
@@ -999,6 +996,42 @@
       "duration_ms": 453200,
       "name": "O Cl\u00e3 da Vila",
       "url": "https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23"
+    },
+    {
+      "album": {
+        "name": "Direto do Campo de Exterm\u00ednio",
+        "url": "https://open.spotify.com/album/1Go1H9TBAYiZzvTyDn63r9"
+      },
+      "artists": [
+        {
+          "name": "Fac\u00e7\u00e3o Central",
+          "url": "https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 315396,
+      "name": "O Homem Estragou Tudo",
+      "url": "https://open.spotify.com/track/5gbRWrqq9jnGhzxQfUMPHC"
+    },
+    {
+      "album": {
+        "name": "Direto do Campo de Exterm\u00ednio",
+        "url": "https://open.spotify.com/album/3SStKpKrLzkfETa9i73mMn"
+      },
+      "artists": [
+        {
+          "name": "Fac\u00e7\u00e3o Central",
+          "url": "https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315466,
+      "name": "O Homem estragou tudo",
+      "url": "https://open.spotify.com/track/3QF009hr5Vu9o6d3z3ViQ0"
     },
     {
       "album": {

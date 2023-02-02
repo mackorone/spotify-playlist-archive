@@ -4,7 +4,7 @@
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-112 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/7goobQ9e4xy8l1vfpiYXYS)
+114 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2022-02-09 | 2022-11-02 |
 | [I Like Me Better \- Ryan Riback Remix](https://open.spotify.com/track/2wViKxJDqr6AUG6dv7oMW4) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [I met you when I was 18\. \(the extras\)](https://open.spotify.com/album/53L0zJIjxxqClZyJGN5p7o) | 3:30 | 2022-02-09 |  |
 | [I Like Me Better \- Ryan Riback Remix](https://open.spotify.com/track/6fnIitWMKHnRnMLxSb0MYW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [I met you when I was 18\. \(the extras\)](https://open.spotify.com/album/5ge6i2NdRMK8XM8Lb9eUDe) | 3:30 | 2022-02-09 | 2022-11-02 |
-| [I Love You](https://open.spotify.com/track/1JWUUSoVpMjz1Sgy56kFUg) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/3X4oLQ5APFlwryQnOeNtYJ) | 3:22 | 2022-02-09 |  |
+| [I Love You](https://open.spotify.com/track/1JWUUSoVpMjz1Sgy56kFUg) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/3X4oLQ5APFlwryQnOeNtYJ) | 3:22 | 2022-02-09 | 2023-01-27 |
+| [I Love You](https://open.spotify.com/track/2asYogTvOCEZe9LGIjzMA4) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4) | 3:22 | 2022-02-09 |  |
 | [I Will Take Care Of You](https://open.spotify.com/track/5EqnXSr74hfTgMa2n2Ne54) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [This Is Where I Live](https://open.spotify.com/album/77N6jWITSP46ToG6ESeHUh) | 2:52 | 2022-02-09 |  |
 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/0L8uKyQFShC68d3W23Rgyu) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [If The World Ended Tonight \(From The Netflix Film "To All The Boys: Always and Forever"\)](https://open.spotify.com/album/0K8WFKwMeLWl7Je98idoOF) | 3:56 | 2022-02-09 |  |
 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/7m26R0lPWq6OaDuL6o3aRr) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:56 | 2022-02-09 |  |
@@ -85,7 +86,8 @@
 | [Peaches](https://open.spotify.com/track/7yndlXlrUV0dA01TBMvxuY) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Peaches](https://open.spotify.com/album/4hyB3TXvwJuvBgXMbOFBeH) | 3:30 | 2022-02-09 |  |
 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 | 2022-02-09 |  |
 | [Psychic Reader](https://open.spotify.com/track/43nkVaKeVXgEC5jGqeylmp) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Psychic Reader](https://open.spotify.com/album/5klZj0GbathSjaZZBD2Qxm) | 3:24 | 2022-02-09 |  |
-| [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 | 2022-02-09 |  |
+| [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 | 2022-02-09 | 2022-12-14 |
+| [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 | 2022-02-09 |  |
 | [Q&A](https://open.spotify.com/track/0S6giCcEzgm7SzK6cczMKc) | [Cherry Bullet](https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ) | [Cherry Bullet 1st Single Album Let's Play Cherry Bullet](https://open.spotify.com/album/0qXdSJ3TqYmGEjaLTsmGvr) | 3:26 | 2022-02-09 |  |
 | [Real Love](https://open.spotify.com/track/2f47eePMUJvRVVqWdA4JC2) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Rabbit Hole](https://open.spotify.com/album/3O9h4n6a5yGA4OCcwNx2se) | 3:46 | 2022-02-09 |  |
 | [Run For Your Money](https://open.spotify.com/track/7wW1OO2yJ5vrfaVRuasv7n) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:02 | 2022-02-09 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
   "name": "Chillout Classics",
-  "published_playlist_ids": [
-    "1Y2DnKP1bwhjjw2yMKm1Bf"
-  ],
   "tracks": [
     {
       "album": {
@@ -221,7 +218,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 239432,
       "name": "Angel Echoes",
       "url": "https://open.spotify.com/track/4ja4D4qcwGC5Zg1IwDWsIL"
@@ -431,7 +428,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 257720,
       "name": "Before Today - 2015 Remaster",
       "url": "https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT"
@@ -608,6 +605,46 @@
     },
     {
       "album": {
+        "name": "Superluminal",
+        "url": "https://open.spotify.com/album/3l50IaIO1hQnl4MiTHTJsn"
+      },
+      "artists": [
+        {
+          "name": "Sofa Surfers",
+          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
+        },
+        {
+          "name": "Mani Obeya",
+          "url": "https://open.spotify.com/artist/3Ex5qqvWXjVZkWuTkYkKc6"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286386,
+      "name": "Broken Together",
+      "url": "https://open.spotify.com/track/7ItezsVpDJjSP2Y5mpnOnH"
+    },
+    {
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
+    },
+    {
+      "album": {
         "name": "Endtroducing.....",
         "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
       },
@@ -619,7 +656,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 399026,
       "name": "Building Steam With A Grain Of Salt",
       "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
@@ -955,7 +992,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 324173,
       "name": "Flip Ya Lid",
       "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
@@ -1135,11 +1172,15 @@
         {
           "name": "Kings of Convenience",
           "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        },
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
         }
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 252933,
       "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
       "url": "https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3"
@@ -1617,6 +1658,24 @@
     {
       "album": {
         "name": "Major Force West ('93 - '97)",
+        "url": "https://open.spotify.com/album/465mxu1pDJsSCXOziGO7ly"
+      },
+      "artists": [
+        {
+          "name": "Major Force West E.M.S. Orchestra",
+          "url": "https://open.spotify.com/artist/0pRKH6lK1VidZ76cfdGx9v"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384960,
+      "name": "Mugen - In the Morning",
+      "url": "https://open.spotify.com/track/4ayKqsvMn7CTyUg2cZMzLc"
+    },
+    {
+      "album": {
+        "name": "Major Force West ('93 - '97)",
         "url": "https://open.spotify.com/album/1yA9wy8Tg3cNJPUh7IobIA"
       },
       "artists": [
@@ -1707,6 +1766,24 @@
     {
       "album": {
         "name": "Satta",
+        "url": "https://open.spotify.com/album/0ZR87OL6kj1s2MonZprzkn"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379360,
+      "name": "Night over Manaus",
+      "url": "https://open.spotify.com/track/23jbfWs739EBZEl4xWYiVl"
+    },
+    {
+      "album": {
+        "name": "Satta",
         "url": "https://open.spotify.com/album/33EJ6lZ0aQ6uYFnac5F5Xq"
       },
       "artists": [
@@ -1753,7 +1830,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 280266,
       "name": "Nights Introlude",
       "url": "https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk"
@@ -1915,7 +1992,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265293,
       "name": "Part of the Process",
       "url": "https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C"
@@ -1933,7 +2010,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 324906,
       "name": "Peacock Tail",
       "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
@@ -2587,7 +2664,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 419426,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO"
@@ -3135,7 +3212,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 210466,
       "name": "You Wish",
       "url": "https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,498 likes - 33 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,442 likes - 33 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 32 | [Guru Smaranam](https://open.spotify.com/track/6n4Oa9DqN2ZaAGQlJ94WiR) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 3:39 |
 | 33 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 |
 
-Snapshot ID: `MTY1OTcwMjg3MCwwMDAwMDAwMDQ1YTc0Y2I5MzJhNWVhYzhiYjJhYjY2ZTJkZGFlNWVj`
+Snapshot ID: `MTY3NTI0ODc3NSwwMDAwMDAwMDQyOTZiZDdiODhiNzcxODAwODFiMWUyYzcyYzYwYTU5`

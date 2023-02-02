@@ -4,7 +4,7 @@
 
 > Learn French with a collection of audio courses that will take you from beginner lessons to advanced conversations and even French literature appreciation.
 
-540 songs - 2 day 3 hr 30 min - [published](https://open.spotify.com/playlist/5R3KrUkJZ2AeBVtgG0KSp5)
+540 songs - 2 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

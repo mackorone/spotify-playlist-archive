@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
   "name": "This Is Stevie Ray Vaughan",
-  "published_playlist_ids": [
-    "2sTCeRqFZP7FBgs84k9rr5"
-  ],
   "tracks": [
     {
       "album": {
@@ -207,7 +204,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 537226,
       "name": "Don't Lie To Me",
       "url": "https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma"
@@ -337,7 +334,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-01",
       "duration_ms": 311200,
       "name": "Iced Over - Live at Carnegie Hall, New York, NY - October 1984",
       "url": "https://open.spotify.com/track/4Hfdbs9kVpEMCqehzqAcDs"
@@ -611,7 +608,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 459493,
       "name": "Match Box Blues",
       "url": "https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM"
@@ -651,7 +648,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-13",
       "duration_ms": 75600,
       "name": "Old Times",
       "url": "https://open.spotify.com/track/4NQKArbOy5gvTrMqByOHj0"

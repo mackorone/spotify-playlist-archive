@@ -4,7 +4,7 @@
 
 > The best of RHCP, all in one playlist.
 
-50 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/1XNZ71Oqx9ekLoWyu77r8o)
+50 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > DJ Minx co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Motor City has to offer!
 
-43 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/623AC8Z1fYMYt9K4uN3qss)
+43 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Namesake](https://open.spotify.com/track/2snK7YVjWywLR54UaxOZ5j) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Namesake](https://open.spotify.com/album/3SBHO665sa2NJDQ5g9T6va) | 4:35 | 2021-06-01 | 2022-11-13 |
 | [Namesake](https://open.spotify.com/track/3eMPNkpiw3gtUBgALHHzfZ) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Transgressor](https://open.spotify.com/album/6FWBdyDi9p00D7LQQgUVeX) | 4:35 | 2021-06-01 |  |
 | [Namesake](https://open.spotify.com/track/5YrkOgkJsk2c7kOZuhGmpm) | [Tunde Olaniran](https://open.spotify.com/artist/3qwKzITLJVVAo2Fn8TusjE) | [Transgressor](https://open.spotify.com/album/57uo4jwBc428S0JiQru6LQ) | 4:35 | 2021-06-01 | 2022-07-29 |
-| [Parallel Shifting](https://open.spotify.com/track/2ixO74rwcwtYBywwU0lFCH) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox), [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Parallel Shifting](https://open.spotify.com/album/35YikyE0kgjEmbsUuhxtzn) | 8:42 | 2021-06-01 |  |
+| [Parallel Shifting](https://open.spotify.com/track/2ixO74rwcwtYBywwU0lFCH) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox) | [Parallel Shifting](https://open.spotify.com/album/35YikyE0kgjEmbsUuhxtzn) | 8:42 | 2021-06-01 |  |
 | [Paris to 313](https://open.spotify.com/track/21JEClblt8TWHN7bylt0tH) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [ARNAUD PARIS](https://open.spotify.com/artist/771BX97y9cPydphKozdxxE) | [Violet Groove E.P.](https://open.spotify.com/album/7yO99oqltTRlNvJOiE9tmF) | 5:38 | 2021-06-01 |  |
 | [Playing for Keeps](https://open.spotify.com/track/1obG4GJhU5knvTUYzK9eYC) | [Reginald Hawkins](https://open.spotify.com/artist/4cmMd17FBvPtgh7xRkhEAB) | [Playing for Keeps](https://open.spotify.com/album/5FexEqAhnP7J7jOzfEm196) | 3:50 | 2021-06-01 |  |
 | [Queen Deep Inna Dub \- Original Mix](https://open.spotify.com/track/0WjS45CeYUrxaGADjaWeKx) | [Pirahnahead](https://open.spotify.com/artist/5K3U3kI5XtFGUsI4FNC2GJ), [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [Stephane Pompougnac Sunset Sessions](https://open.spotify.com/album/7og4gC5sOI0dhhCdCwMOst) | 5:56 | 2021-06-01 |  |

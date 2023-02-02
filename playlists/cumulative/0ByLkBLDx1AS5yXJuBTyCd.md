@@ -4,7 +4,7 @@
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
 
-36 songs - 2 hr 15 min - [published](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
+36 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Iscanwaya](https://open.spotify.com/track/5mnLwCEirROAxinArA8JnU) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja De Coca: The Music of the Andes](https://open.spotify.com/album/7lkpPNaQ21Feb89pbzXh9o) | 4:45 | 2014-12-17 |  |
 | [Jungle Drum](https://open.spotify.com/track/0YWQXkEyPOPsOLxFvjR1JU) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Me And Armini \(US Edition\)](https://open.spotify.com/album/0hvsonhgBUyLPlVCmI6BNh) | 2:13 | 2014-12-17 |  |
 | [Kissing In The Falling Rain](https://open.spotify.com/track/1Byu7Kfn21paic1Hu6y8Bj) | [Odd Hugo](https://open.spotify.com/artist/4VVgCpsMCfLoh6sEayUbBe) | [Odd Hugo](https://open.spotify.com/album/7nGRAnAAYbPiqqbUZU6MQO) | 6:17 | 2014-12-17 |  |
-| [La licenza di tuttologo](https://open.spotify.com/track/2BdbAsZsyOi4g5DtMG2D3m) | [Cecco E Cipo](https://open.spotify.com/artist/0VbUbw58jB5hpnWdWMB3AJ) | [Lo gnomo e lo gnù](https://open.spotify.com/album/6N4xho8oQxLxMveqRENUxb) | 3:56 | 2014-12-17 |  |
+| [La licenza di tuttologo](https://open.spotify.com/track/2BdbAsZsyOi4g5DtMG2D3m) | [Cecco e Cipo](https://open.spotify.com/artist/0VbUbw58jB5hpnWdWMB3AJ) | [Lo gnomo e lo gnù](https://open.spotify.com/album/6N4xho8oQxLxMveqRENUxb) | 3:56 | 2014-12-17 |  |
 | [Laska \- Love](https://open.spotify.com/track/0j5Huvd9QyXRp6j4Eg7rA1) | [Marta Topferova](https://open.spotify.com/artist/0d7O9YRjrjiEHxe1PyyQid) | [Homage To Homeland \- Czech, Moravian & Slovak Folk Songs](https://open.spotify.com/album/0P0Is0Dw3fXudVYGiEHX99) | 2:02 | 2014-12-17 |  |
 | [Mandaci una cartolina](https://open.spotify.com/track/3a4NTcto1zSlm91pFiQJmy) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Elettra](https://open.spotify.com/album/7GknD59iP2LPvAvkVq89yd) | 3:40 | 2014-12-17 |  |
 | [Matinfa](https://open.spotify.com/track/0zPTvyxFOg7IVeD96qiztY) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/2dvZQXaNIoS3EqMJA15Dij) | 5:54 | 2014-12-17 |  |

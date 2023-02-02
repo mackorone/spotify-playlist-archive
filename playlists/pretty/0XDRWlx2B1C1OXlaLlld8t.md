@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0XDRWlx2B1C1OXlaLlld8t.md) - [plain]
 
 > Coast along to the best of the alt rock era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631 likes - 26 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 629 likes - 26 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

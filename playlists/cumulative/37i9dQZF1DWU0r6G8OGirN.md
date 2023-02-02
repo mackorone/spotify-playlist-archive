@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-85 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
+85 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 | 2022-10-13 |  |
 | [Toyland](https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Happy Christmas](https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq) | 3:53 | 2022-10-20 |  |
 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 | 2022-10-07 |  |
-| [We Wish You a Merry Christmas \(Piano\)](https://open.spotify.com/track/46o7C7eAk0MHuRIoniPfwZ) | [John Fulford Music](https://open.spotify.com/artist/6CL7c5qT8oda6dIdyOoXTz) | [Holiday Jazz](https://open.spotify.com/album/4Y5LPU1oUNQUGPNOEq8Jkm) | 2:22 | 2021-12-21 |  |
+| [We Wish You a Merry Christmas \(Piano\)](https://open.spotify.com/track/46o7C7eAk0MHuRIoniPfwZ) | [John Fulford Music](https://open.spotify.com/artist/6CL7c5qT8oda6dIdyOoXTz) | [Holiday Jazz](https://open.spotify.com/album/4Y5LPU1oUNQUGPNOEq8Jkm) | 2:22 | 2021-12-21 | 2022-12-16 |
 | [What Are You Doing New Years Eve](https://open.spotify.com/track/1fnKHY9FBFexqlx69unvhd) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Jeff Steinberg Orchestra](https://open.spotify.com/artist/3rw5T4cOHin6M1Jaf912oJ) | [Christmas By Candlelight](https://open.spotify.com/album/3tSZBHIEPQo1nOrniwqadI) | 4:57 | 2021-12-21 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 | 2021-12-21 |  |
 | [White Christmas](https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb) | [Lyla Lee Band](https://open.spotify.com/artist/44QGQt033sUjbeecDPn791) | [Winter Wonderland](https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs) | 2:33 | 2022-10-25 |  |

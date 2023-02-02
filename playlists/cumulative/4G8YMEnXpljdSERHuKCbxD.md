@@ -4,7 +4,7 @@
 
 > Listen to the same playlist that’s playing through the halls of the world famous Warner Records!
 
-67 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/4w467Yl0Skc1PvLkHphDNc)
+67 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

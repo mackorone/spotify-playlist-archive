@@ -4,7 +4,7 @@
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-131 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/51VUBPDUeBVmMBu3JyYpOE)
+131 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,8 @@
 | [Bye Bye Blackbird \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:54 | 2022-05-13 |  |
 | [Candy](https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Daylight Express](https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN) | 2:25 | 2022-05-13 |  |
 | [Children](https://open.spotify.com/track/2zd2XhHfRH0pOyMw1sK0jo) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Ravensburg](https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR) | 5:42 | 2022-05-13 |  |
-| [Children's Waltz](https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn) | [Late Night Jazz \(Deluxe Edition\)](https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64) | 2:59 | 2022-09-15 | 2022-10-12 |
-| [Comin' Down](https://open.spotify.com/track/60EjvhLsxvgFbkQR6s4Jsx) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 4:28 | 2022-05-13 |  |
+| [Children's Waltz](https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn) | [Late Night Jazz \(Deluxe Edition\)](https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64) | 2:59 | 2022-09-15 |  |
+| [Comin' Down](https://open.spotify.com/track/60EjvhLsxvgFbkQR6s4Jsx) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 4:28 | 2022-05-13 | 2023-01-15 |
 | [Con Alma](https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Dizzy 100](https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn) | 5:03 | 2022-05-13 |  |
 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 | 2022-05-13 |  |
 | [Cottage for Sale](https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Walter Bolden](https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf) | [Dusty Blue](https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU) | 4:27 | 2022-05-13 |  |
@@ -46,7 +46,7 @@
 | [Gemini II](https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w) | [Marcus Belgrave](https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX) | [Gemini II](https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm) | 5:37 | 2022-05-13 |  |
 | [Gilimanuk](https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Buoyancy](https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv) | 3:48 | 2022-05-13 |  |
 | [Groundswell](https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Towards Language](https://open.spotify.com/album/7KasSjd80yub7wdciH7G52) | 5:36 | 2022-05-13 |  |
-| [Have Blues, Will Play'em](https://open.spotify.com/track/3QUjF8gUCYlmzChLcQsDbT) | [Bill Coleman](https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w) | [Boogie To Funk \- That's The Way I Like It](https://open.spotify.com/album/70HYV459jHKqPQ7QsNNUiX) | 9:46 | 2022-05-13 | 2022-09-11 |
+| [Have Blues, Will Play'em](https://open.spotify.com/track/3QUjF8gUCYlmzChLcQsDbT) | [Bill Coleman](https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w) | [Boogie To Funk \- That's The Way I Like It](https://open.spotify.com/album/70HYV459jHKqPQ7QsNNUiX) | 9:46 | 2022-05-13 | 2023-01-21 |
 | [Have Blues, Will Play'em](https://open.spotify.com/track/6UOQDhoXLJbJ2H3quqOUX8) | [Bill Coleman](https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w) | [The Paris Album](https://open.spotify.com/album/1sGpVsIBbzgOPgbNxEQOuV) | 9:46 | 2022-05-13 | 2022-07-29 |
 | [Hazy Blues](https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Take a Coffee Break](https://open.spotify.com/album/15RS9hTyIwntnc0MEK1Aec) | 6:37 | 2022-05-13 | 2022-07-28 |
 | [Hazy Blues](https://open.spotify.com/track/5Noftu4CxWX5RtttPGTgMD) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Out Front](https://open.spotify.com/album/15QQxPy6AbNHVBgnQx7x4y) | 6:41 | 2022-05-13 | 2022-09-03 |

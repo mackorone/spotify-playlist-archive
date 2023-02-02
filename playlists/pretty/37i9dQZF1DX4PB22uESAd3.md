@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,735 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,119 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

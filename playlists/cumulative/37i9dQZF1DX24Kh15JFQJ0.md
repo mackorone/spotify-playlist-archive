@@ -2,9 +2,9 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: Tanya Tucker
+> The latest music from our Country Heroes\. Cover: Willie Nelson
 
-166 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+170 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/6SewJZC2f9ETwJR2zZWkOP) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot...Brand New Man/Believe](https://open.spotify.com/album/0BNJ0USnQIvtEdWYmooZ8q) | 3:10 | 2021-10-15 | 2022-07-29 |
 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 | 2022-07-22 |  |
 | [Broken Neon Hearts](https://open.spotify.com/track/4p3FGuE3sa95Oq8CUggOtg) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Broken Neon Hearts](https://open.spotify.com/album/3UBCPfcnpK4KidTVfJT6BE) | 3:21 | 2022-02-11 |  |
+| [Busted](https://open.spotify.com/track/1Z4oveFlLPWBAWHCZamcyS) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Busted](https://open.spotify.com/album/4JjWnoRKo2RdjOLqGG2951) | 3:28 | 2023-01-20 |  |
 | [Can't Even Get The Blues \- Revived](https://open.spotify.com/track/2NikNS7ZoIKCe3nnpKarZB) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Can't Even Get The Blues \(Revived\)](https://open.spotify.com/album/53omWBMCdsczrNdP1FkQ4N) | 3:10 | 2021-10-15 |  |
 | [Carryin' Fire \- From The Vault](https://open.spotify.com/track/2oLa6cIjW7JPMtYx4KKLtz) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life \(35th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7GN562ELq8Sfvy7RruWk7U) | 3:37 | 2021-10-15 |  |
 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 | 2021-10-15 |  |
@@ -49,6 +50,7 @@
 | [Dents On A Chevy](https://open.spotify.com/track/7sA9nuB1TGbZ4iHzLL80FH) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Jacob](https://open.spotify.com/album/4YbkRO4bAGaiOr1qiex8mi) | 3:17 | 2022-08-05 |  |
 | [Does He Love You \- Revisited](https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 4:25 | 2021-10-15 |  |
 | [Don't Drink Whiskey](https://open.spotify.com/track/31kF7HdCkTL4PcjYRHU5EE) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Don't Drink Whiskey](https://open.spotify.com/album/4iLmKTaXTnGxbv0mFBIchD) | 3:38 | 2022-01-28 |  |
+| [Don’t Make Me Have To Come Down There](https://open.spotify.com/track/09KvWJRQrqRaTxvNNtJFc7) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Don’t Make Me Have To Come Down There](https://open.spotify.com/album/57sOqzRyTNjSiHUIDviHwN) | 3:42 | 2023-01-20 |  |
 | [Dusty Bottles](https://open.spotify.com/track/79eXcwwGDoGby7NxPOW0vw) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dusty Bottles](https://open.spotify.com/album/1O0K1b7OZDchLrM0ifo9d9) | 3:30 | 2022-04-22 | 2022-07-29 |
 | [Dusty Bottles](https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 3:30 | 2022-07-22 |  |
 | [Dusty Old Dust](https://open.spotify.com/track/2WNcZzyx0W4ufueyWSF3qd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Dusty Old Dust](https://open.spotify.com/album/5vrzgbC6QkrdYSXIc6UM68) | 5:40 | 2021-10-15 |  |
@@ -67,6 +69,7 @@
 | [Going Out Like This](https://open.spotify.com/track/2La9vfJPqpxxKgOxCqlJT3) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Sippin' On The Simple Life](https://open.spotify.com/album/5vKquArL0GIKYNrNXpS3Mo) | 3:29 | 2021-10-15 |  |
 | [Gonna Be Alright](https://open.spotify.com/track/3wQWy9KSrcMviSoFRNGeDI) | [The Kentucky Headhunters](https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY) | [....That's a Fact Jack!](https://open.spotify.com/album/6B0g54q8KeALKIM1rARwmw) | 3:59 | 2021-11-19 | 2022-09-21 |
 | [Good Brown Gravy](https://open.spotify.com/track/4r73MgEVjf5xMkGui5tNeD) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794), [Wink Martindale](https://open.spotify.com/artist/1X5ZSwlYraWjWqjkkhJjdg) | [Good Brown Gravy](https://open.spotify.com/album/04FuVoV7pMjU94jTcUfRly) | 2:38 | 2021-10-15 |  |
+| [Grass Is Green Enough Right Here](https://open.spotify.com/track/2tQFUEceD3I2SHKzT6u9Z4) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Grass Is Green Enough Right Here](https://open.spotify.com/album/2eNC9W2afhPJOYIp6qgFTm) | 2:26 | 2023-01-06 |  |
 | [Heartbreak Song](https://open.spotify.com/track/3q3hcw8QF3feQOpd3xKdMy) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Heartbreak Song](https://open.spotify.com/album/6el7S7Ebsgh69AimpDPesJ) | 3:59 | 2022-07-29 |  |
 | [Hearts in the Sand](https://open.spotify.com/track/3C91xtXZGNY4mM2DcbzlRt) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [The Rest of It's Mine](https://open.spotify.com/album/6b5WQURAJNRYKYYKbtMenX) | 3:56 | 2022-07-22 |  |
 | [Her Loving Man](https://open.spotify.com/track/2VqE5LvdZ5S8CBrxubpakU) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR) | 5:22 | 2022-05-16 |  |
@@ -144,7 +147,8 @@
 | [Take It Like a Man](https://open.spotify.com/track/4tUzsCOYbYhyj0x064W37G) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Milestone](https://open.spotify.com/album/1WZzoVlzSUTxrfa5ApTHw9) | 4:02 | 2022-09-02 |  |
 | [Take It to the Bank](https://open.spotify.com/track/4bP7A6zIgLqCr6c99dktyv) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [All American Texan](https://open.spotify.com/album/0lQ8btmxplIW9B8vVGHOti) | 5:15 | 2021-10-15 |  |
 | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 | 2022-09-23 |  |
-| [The Highway](https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [The Highway](https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA) | 3:29 | 2021-10-15 |  |
+| [The Highway](https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [The Highway](https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA) | 3:29 | 2021-10-15 | 2023-01-28 |
+| [The Highway](https://open.spotify.com/track/2bjsDs1YVpwRPXDbf5UpXZ) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [The Highway](https://open.spotify.com/album/3DMTMBOqY8QrlV0TJP6moQ) | 3:29 | 2023-01-20 |  |
 | [The Letter That Johnny Walker Read \(feat\. Lee Ann Womack\)](https://open.spotify.com/track/05dkkp51ZkuPj98URZSG8l) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Half a Hundred Years](https://open.spotify.com/album/6SpBTmlOgevRZFjXT1kNWG) | 3:37 | 2021-10-15 |  |
 | [The Night The Lights Went Out In Georgia \- Eric Kupper Remix](https://open.spotify.com/track/3CCx4xeyrZQTONz6MvURaX) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [The Night The Lights Went Out In Georgia \(Eric Kupper Remix\)](https://open.spotify.com/album/26KZhHTqgLBdOQ80UrCewv) | 5:04 | 2021-10-15 | 2022-09-21 |
 | [The Rest of It's Mine](https://open.spotify.com/track/2Bj7YGVBtjbVrWhhSRVwaj) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX), [Paul Overstreet](https://open.spotify.com/artist/3ylJ2aEWS2QkIj4XPiC28z) | [The Rest of It's Mine](https://open.spotify.com/album/6sCKgnzpFAqnJbGFZUFGl2) | 3:33 | 2022-05-16 |  |

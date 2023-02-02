@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Querencia is here !",
   "name": "This Is CHUNG HA",
-  "published_playlist_ids": [
-    "5tPgRj1Mt1ZyOeaWvPHY0Z"
-  ],
   "tracks": [
     {
       "album": {
@@ -1597,6 +1594,28 @@
     {
       "album": {
         "name": "RUN",
+        "url": "https://open.spotify.com/album/48A6N9jopPaR7RtwMiQysL"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/0avAEHS9V6lDcZ5yUgU6sT"
+    },
+    {
+      "album": {
+        "name": "RUN",
         "url": "https://open.spotify.com/album/0yJV3VXMUvWWQGt27lojCu"
       },
       "artists": [
@@ -1611,7 +1630,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-08",
       "duration_ms": 176626,
       "name": "RUN",
       "url": "https://open.spotify.com/track/0pAwtPm7uIMxXlmyvMaZ5g"
@@ -1633,7 +1652,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 176626,
       "name": "RUN",
       "url": "https://open.spotify.com/track/5EI1PqfGKGTk746tL2rqft"

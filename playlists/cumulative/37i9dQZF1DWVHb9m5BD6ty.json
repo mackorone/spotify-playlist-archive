@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-25",
   "description": "The best in Black music from Ireland. Cover: Soul\u00e9",
   "name": "Frequency UK & Ireland",
-  "published_playlist_ids": [
-    "3nAIeyixZaYOskCsYoaIs7"
-  ],
   "tracks": [
     {
       "album": {
@@ -143,12 +140,30 @@
     {
       "album": {
         "name": "Beggin U",
-        "url": "https://open.spotify.com/album/3KO0dWKUQDeYQ5GKlz0VtW"
+        "url": "https://open.spotify.com/album/4ko4HMy93msu1xCWtmGY32"
       },
       "artists": [
         {
           "name": "Jrilla",
           "url": "https://open.spotify.com/artist/2PRaSVqPQoBgmpJfnliAgh"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 135894,
+      "name": "Beggin U",
+      "url": "https://open.spotify.com/track/3iL5a6F7mUlyUpVRR39spR"
+    },
+    {
+      "album": {
+        "name": "Beggin U",
+        "url": "https://open.spotify.com/album/3KO0dWKUQDeYQ5GKlz0VtW"
+      },
+      "artists": [
+        {
+          "name": "Jrilla",
+          "url": "https://open.spotify.com/artist/72S9EGxCYScsUNOf7g6Poo"
         }
       ],
       "date_added": "2022-03-17",
@@ -519,10 +534,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 155761,
       "name": "Go Ali Go",
       "url": "https://open.spotify.com/track/21pbWipcWfNFjwdgJyDKe0"
+    },
+    {
+      "album": {
+        "name": "Go Ali Go",
+        "url": "https://open.spotify.com/album/0nPJGaU9jyy0lNUCiFjiOf"
+      },
+      "artists": [
+        {
+          "name": "Alicia Raye",
+          "url": "https://open.spotify.com/artist/5JcE1g6GbiFOLEdxpM5nmZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155761,
+      "name": "Go Ali Go",
+      "url": "https://open.spotify.com/track/63T9nZ4YBr7W9gfvYO8qLw"
     },
     {
       "album": {
@@ -537,10 +570,28 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 189426,
       "name": "Golden",
       "url": "https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
     },
     {
       "album": {
@@ -849,7 +900,7 @@
     {
       "album": {
         "name": "Long Nights",
-        "url": "https://open.spotify.com/album/3VQp3peJICpaQMShwYRgJW"
+        "url": "https://open.spotify.com/album/5BdQqKTrDCml1FbVql9YWm"
       },
       "artists": [
         {
@@ -860,6 +911,24 @@
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198367,
+      "name": "Long Nights",
+      "url": "https://open.spotify.com/track/6k15T8waur3Db6AaSb9vIm"
+    },
+    {
+      "album": {
+        "name": "Long Nights",
+        "url": "https://open.spotify.com/album/3VQp3peJICpaQMShwYRgJW"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
       "duration_ms": 198367,
       "name": "Long Nights",
       "url": "https://open.spotify.com/track/7jJ8iI3nd7qtKEwpHBBiIX"
@@ -1059,10 +1128,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 221615,
       "name": "Need Nobody",
       "url": "https://open.spotify.com/track/1fbFNdqWWftOcG7X55Ywxa"
+    },
+    {
+      "album": {
+        "name": "Need Nobody",
+        "url": "https://open.spotify.com/album/5MI7Q5CoTcCRQmRKbrqlFb"
+      },
+      "artists": [
+        {
+          "name": "BoyW1DR",
+          "url": "https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221615,
+      "name": "Need Nobody",
+      "url": "https://open.spotify.com/track/7kUDVLWuiEjQuFLAkPKDs8"
     },
     {
       "album": {
@@ -1099,10 +1186,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 172258,
       "name": "No Time",
       "url": "https://open.spotify.com/track/0upjJ52QhVlh2c8jpVTHw8"
+    },
+    {
+      "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/79oqsXyZ4dB5ih51Qm052A"
+      },
+      "artists": [
+        {
+          "name": "Evans Junior",
+          "url": "https://open.spotify.com/artist/4cWQPBUFPUbuFCkYLGF8eC"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/12hi13T84P1AHFmE5f3bue"
     },
     {
       "album": {
@@ -1135,10 +1240,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 203639,
       "name": "On My Ones",
       "url": "https://open.spotify.com/track/0cFQGgsyC1b2CNgtslpRIQ"
+    },
+    {
+      "album": {
+        "name": "On My Ones",
+        "url": "https://open.spotify.com/album/79nilmYjc74SZYGtPCFwgd"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203639,
+      "name": "On My Ones",
+      "url": "https://open.spotify.com/track/1UtUD0jdLsPoisQkRFkZQb"
     },
     {
       "album": {
@@ -1222,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "SELL\u00d3TAPE",
+        "url": "https://open.spotify.com/album/2FxKuexnnZpUS2g23JC8zY"
+      },
+      "artists": [
+        {
+          "name": "SELLO",
+          "url": "https://open.spotify.com/artist/6GdZAjpf8BRRnbBWLaiFZ7"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "Process",
+      "url": "https://open.spotify.com/track/2hNmvH9on84gZ52YDF6ovV"
+    },
+    {
+      "album": {
         "name": "Process",
         "url": "https://open.spotify.com/album/7n6VKHTbUaVVwa7iKShPlw"
       },
@@ -1233,7 +1374,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 185400,
       "name": "Process",
       "url": "https://open.spotify.com/track/3VpfWEICyjRTxsYspN91Wq"
@@ -1425,10 +1566,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 183000,
       "name": "Sharingan",
       "url": "https://open.spotify.com/track/369BjuBIVwQ9Z0ZvNrdCK9"
+    },
+    {
+      "album": {
+        "name": "Sharingan",
+        "url": "https://open.spotify.com/album/7ElFV9toYFJq1T2VSBaxY9"
+      },
+      "artists": [
+        {
+          "name": "Offica",
+          "url": "https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Sharingan",
+      "url": "https://open.spotify.com/track/7FTPrKmohZPchzkNuilZhs"
     },
     {
       "album": {
@@ -1443,10 +1602,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 189532,
       "name": "Shining",
       "url": "https://open.spotify.com/track/0KW1G9rKXlALday2nNAjNd"
+    },
+    {
+      "album": {
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/6ehnt3b5Dlr5A0PA3E3KKK"
+      },
+      "artists": [
+        {
+          "name": "BoyW1DR",
+          "url": "https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189532,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/5QP2rGiVzDNAEsS5loaGck"
     },
     {
       "album": {
@@ -1635,10 +1812,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 186701,
       "name": "Talk Of The Town",
       "url": "https://open.spotify.com/track/549CKBALykqVi1XVPw9Fe6"
+    },
+    {
+      "album": {
+        "name": "Talk Of The Town",
+        "url": "https://open.spotify.com/album/2phDAPFkN9NhkOPaZmK6Nm"
+      },
+      "artists": [
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186701,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/5UDz6sn2l8wxb8UiLwPuQi"
     },
     {
       "album": {
@@ -1919,10 +2114,40 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 184109,
       "name": "WAR",
       "url": "https://open.spotify.com/track/50AAi0kczxZp2JgwyV3dPu"
+    },
+    {
+      "album": {
+        "name": "WAR (feat. Femz20)",
+        "url": "https://open.spotify.com/album/1iBEkVXwo9DuhyiSHKFQbZ"
+      },
+      "artists": [
+        {
+          "name": "Larry Alabi",
+          "url": "https://open.spotify.com/artist/2sxFUmv71CURKSJCgDXGF8"
+        },
+        {
+          "name": "SELLO",
+          "url": "https://open.spotify.com/artist/6GdZAjpf8BRRnbBWLaiFZ7"
+        },
+        {
+          "name": "Smilez",
+          "url": "https://open.spotify.com/artist/6a6XQx0GYcdhqqy2zskc5E"
+        },
+        {
+          "name": "Femz20",
+          "url": "https://open.spotify.com/artist/3v3Pi3YRfCFklCJmXCWC8n"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "WAR (feat. Femz20)",
+      "url": "https://open.spotify.com/track/6X1dDER5GSvAJlNINlr1uz"
     },
     {
       "album": {

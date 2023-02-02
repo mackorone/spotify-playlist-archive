@@ -4,7 +4,7 @@
 
 > An introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era.
 
-126 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/66saN2I1skkb1AhteyAPLW)
+126 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

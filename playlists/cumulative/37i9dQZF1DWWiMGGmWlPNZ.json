@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Reach inner tranquility with peaceful Hang and ambient. ",
   "name": "Serenity",
-  "published_playlist_ids": [
-    "5gpuoAqwEPxVmBsNt9nypB"
-  ],
   "tracks": [
     {
       "album": {
@@ -1216,6 +1213,32 @@
     },
     {
       "album": {
+        "name": "Handpan Klangtherapie",
+        "url": "https://open.spotify.com/album/0SqHNCpEly0sSyLYtNSSIJ"
+      },
+      "artists": [
+        {
+          "name": "Lieblings Handpan Musik",
+          "url": "https://open.spotify.com/artist/0uphIvaGJ83V3r5Xmcwqre"
+        },
+        {
+          "name": "Hang Drum",
+          "url": "https://open.spotify.com/artist/06ar3VcFwsFQkQImv8ihDf"
+        },
+        {
+          "name": "Hang Drum Music",
+          "url": "https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150624,
+      "name": "Stille Wind",
+      "url": "https://open.spotify.com/track/60qaAdG1djT8vmVmtLbwje"
+    },
+    {
+      "album": {
         "name": "Handpan Reflections",
         "url": "https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT"
       },
@@ -1459,6 +1482,32 @@
       "duration_ms": 233055,
       "name": "Waves are coming",
       "url": "https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98"
+    },
+    {
+      "album": {
+        "name": "Heiliger Baum (Hang Drum)",
+        "url": "https://open.spotify.com/album/02K27tV8TGFt6gChZvNwD1"
+      },
+      "artists": [
+        {
+          "name": "Lieblings Handpan Musik",
+          "url": "https://open.spotify.com/artist/0uphIvaGJ83V3r5Xmcwqre"
+        },
+        {
+          "name": "Hang Drum",
+          "url": "https://open.spotify.com/artist/06ar3VcFwsFQkQImv8ihDf"
+        },
+        {
+          "name": "Hang Drum Music",
+          "url": "https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284318,
+      "name": "Wenn sich ein Wasser im Weltraum befindet",
+      "url": "https://open.spotify.com/track/7IbCyMVtbBPTyfi3MEKCTL"
     },
     {
       "album": {

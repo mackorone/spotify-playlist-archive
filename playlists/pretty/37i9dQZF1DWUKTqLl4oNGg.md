@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 
 > Above the city of Los Angeles, here are a few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,465 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,275 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 | 59 | [Desperados Under the Eaves](https://open.spotify.com/track/6PAGJfVrbxdIhIJmbsDLim) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Warren Zevon](https://open.spotify.com/album/5wY8fZoi9eFh3WMjLcHFps) | 4:47 |
 | 60 | [The Bells of Rhymney](https://open.spotify.com/track/1mpv6hIbfG75txI9zJGcf4) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Mr\. Tambourine Man](https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa) | 3:30 |
 
-Snapshot ID: `MTU5MDExMDI1NSwwMDAwMDAwMDU3NDE0OTViZWU4OGU4ODRhODFjMjk3YzI1NWI1NGVh`
+Snapshot ID: `MTY3Mjc2NjM5NSwwMDAwMDAwMDhlYzhmNTA0NzAxMmFiNDJkMDE3NTA5MTNmZGRmOGZk`

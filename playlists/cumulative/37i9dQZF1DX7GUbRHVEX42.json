@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "The best current contemporary Reggae. Cover: Kabaka Pyramid",
   "name": "Irie",
-  "published_playlist_ids": [
-    "0YIpWHNBNN3qo5IAtegSNU"
-  ],
   "tracks": [
     {
       "album": {
@@ -313,7 +310,7 @@
     {
       "album": {
         "name": "Cornerstone 2022",
-        "url": "https://open.spotify.com/album/0WE6c5U0BxItFScQn9KA3I"
+        "url": "https://open.spotify.com/album/4n4JqW5QoditCjAtJmB4Q2"
       },
       "artists": [
         {
@@ -344,6 +341,44 @@
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236730,
+      "name": "Cornerstone 2022",
+      "url": "https://open.spotify.com/track/6HzSFTiDLSk6hdTIgViNjs"
+    },
+    {
+      "album": {
+        "name": "Cornerstone 2022",
+        "url": "https://open.spotify.com/album/0WE6c5U0BxItFScQn9KA3I"
+      },
+      "artists": [
+        {
+          "name": "The Marley Brothers",
+          "url": "https://open.spotify.com/artist/53lYQjtmgJPaOseKa1sttY"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Julian Marley",
+          "url": "https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
       "duration_ms": 236730,
       "name": "Cornerstone 2022",
       "url": "https://open.spotify.com/track/6IdTZHEefQ8A2WagEvsFlZ"
@@ -539,10 +574,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 254310,
       "name": "Helping Hand",
       "url": "https://open.spotify.com/track/0ouLZmfGnrvxXGpY3k4IaB"
+    },
+    {
+      "album": {
+        "name": "Helping Hand",
+        "url": "https://open.spotify.com/album/2lfVfxMsxDc3eBta9bG49a"
+      },
+      "artists": [
+        {
+          "name": "Irie Souljah",
+          "url": "https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254310,
+      "name": "Helping Hand",
+      "url": "https://open.spotify.com/track/2tRuKUxUuEzcevtKfZ9piA"
     },
     {
       "album": {

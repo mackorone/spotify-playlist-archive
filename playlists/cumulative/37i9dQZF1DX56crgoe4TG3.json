@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Front Country",
   "name": "Bluegrass Covers",
-  "published_playlist_ids": [
-    "6j3EUqB0DJZF4yMM5cX435"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 87453,
       "name": "22",
       "url": "https://open.spotify.com/track/7jCwf7cmTz39HrFEkIH5Qu"
@@ -404,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7falZh1l6FbSfdXBRRGeWm"
+      },
+      "artists": [
+        {
+          "name": "Heather Sarona",
+          "url": "https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215560,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/6Yha6zZt78YGfpUT8pZZHD"
+    },
+    {
+      "album": {
         "name": "Lizard Vision",
         "url": "https://open.spotify.com/album/39wW3gZkVGupQpLXw2ogs9"
       },
@@ -513,7 +528,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 124734,
       "name": "Cotton Eyed Joe (feat. Carl Miner & Jamie Dick)",
       "url": "https://open.spotify.com/track/7mrdHjkfEFTXCniqDTOYHM"
@@ -713,6 +728,28 @@
       "duration_ms": 223625,
       "name": "Diane",
       "url": "https://open.spotify.com/track/6jjtloIxVfU2xSyi96V5UT"
+    },
+    {
+      "album": {
+        "name": "Crooked Tree (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212251,
+      "name": "Dire Wolf - Bonus Track",
+      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
     },
     {
       "album": {
@@ -1748,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/37giKlWlFrTFv6cIMXXUt4"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242346,
+      "name": "Killing Me Softly",
+      "url": "https://open.spotify.com/track/6QgSrNAJU5w3JhyucHXGdk"
+    },
+    {
+      "album": {
         "name": "Kiss From A Rose",
         "url": "https://open.spotify.com/album/7FRzhL5VqBkKdo4JWc8vMP"
       },
@@ -2560,6 +2615,42 @@
     },
     {
       "album": {
+        "name": "Song for a Winter's Night",
+        "url": "https://open.spotify.com/album/57cxci74OPUile2bjgfso2"
+      },
+      "artists": [
+        {
+          "name": "Rumour Mill",
+          "url": "https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 215274,
+      "name": "Song for a Winter's Night",
+      "url": "https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb"
+    },
+    {
+      "album": {
+        "name": "Song For A Winter's Night",
+        "url": "https://open.spotify.com/album/2xohh3ZJof8cVR565Ap4GI"
+      },
+      "artists": [
+        {
+          "name": "Rumour Mill",
+          "url": "https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215274,
+      "name": "Song For A Winter's Night",
+      "url": "https://open.spotify.com/track/5BA7aoZQbAFRyTnaHpepNJ"
+    },
+    {
+      "album": {
         "name": "Rodrigo y Gabriela",
         "url": "https://open.spotify.com/album/5FvEdQEFFSPk1BUPaWU6Nr"
       },
@@ -2647,6 +2738,24 @@
       "duration_ms": 253346,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG"
+    },
+    {
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli"
+      },
+      "artists": [
+        {
+          "name": "Joy Kills Sorrow",
+          "url": "https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253346,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns"
     },
     {
       "album": {
@@ -2759,6 +2868,24 @@
       "duration_ms": 224773,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/6xAdFwLNed6786FezhUMVS"
+    },
+    {
+      "album": {
+        "name": "Ain't Hungover Yet",
+        "url": "https://open.spotify.com/album/366ssa5QnTPViLln8TFILV"
+      },
+      "artists": [
+        {
+          "name": "Grain Thief",
+          "url": "https://open.spotify.com/artist/1s72KWoPysNDIrYfiysfxv"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375189,
+      "name": "Tangled up in Blue",
+      "url": "https://open.spotify.com/track/1ijN5R7ZoAntTo2TgbKZbV"
     },
     {
       "album": {
@@ -3349,7 +3476,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 206826,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4G7Q7lJaJjm6YciwXuQs4H"

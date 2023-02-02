@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-26",
   "description": "This is Finch. The essential tracks, all in one playlist.",
   "name": "This Is Finch",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -35,7 +34,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 189786,
       "name": "Anywhere But Here",
       "url": "https://open.spotify.com/track/2jPYuI2SRCueYfdrMntkCq"
@@ -53,7 +52,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 189786,
       "name": "Anywhere But Here",
       "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
@@ -294,6 +293,24 @@
     },
     {
       "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 199600,
+      "name": "Letters To You",
+      "url": "https://open.spotify.com/track/5ViK71JwQMOnWxzw4yHZYh"
+    },
+    {
+      "album": {
         "name": "Back To Oblivion",
         "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
       },
@@ -309,6 +326,24 @@
       "duration_ms": 191213,
       "name": "Murder Me",
       "url": "https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/7yspkJ99ueJylCjxHGEH77"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 191213,
+      "name": "Murder Me",
+      "url": "https://open.spotify.com/track/2QdBDeZ2pLn3JmCXxwlknX"
     },
     {
       "album": {
@@ -363,6 +398,24 @@
       "duration_ms": 250213,
       "name": "Nothing In The Sun",
       "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
+    },
+    {
+      "album": {
+        "name": "Galleons of Passion 2 (expanded & remastered)",
+        "url": "https://open.spotify.com/album/5LLhZh5gz8fPq1cBhm98Eu"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/5FkqKnWT3Uf7lhShflsViO"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 662926,
+      "name": "Paradoxical Moods - live 1975",
+      "url": "https://open.spotify.com/track/6mgB7miIa3f7Ftat2Tb73b"
     },
     {
       "album": {
@@ -471,6 +524,42 @@
       "duration_ms": 242933,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/0W0hRhNEajLKOPlxFDq8Q8"
+    },
+    {
+      "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 110226,
+      "name": "The Casket Of Roderic Usher",
+      "url": "https://open.spotify.com/track/02GYMZb9sYAEcRLGgQYXaB"
+    },
+    {
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-06",
+      "duration_ms": 173733,
+      "name": "Two Guns To The Temple",
+      "url": "https://open.spotify.com/track/4XTwwsOi4vezsAjc8azV5N"
     },
     {
       "album": {

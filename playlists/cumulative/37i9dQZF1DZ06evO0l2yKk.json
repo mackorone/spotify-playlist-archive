@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
   "name": "This Is Cardenales De Nuevo Le\u00f3n",
-  "published_playlist_ids": [
-    "5AsMVAddbd1rZqrqx6hkSC"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 182200,
       "name": "Bailotea",
       "url": "https://open.spotify.com/track/1fyLW3o7YFf1FokqoJHC9d"
@@ -131,6 +128,40 @@
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "album": {
+        "name": "Claro Que Se Puede (Proyecto de Amor)",
+        "url": "https://open.spotify.com/album/1lfaRyGuURjmommrpUxhls"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        },
+        {
+          "name": "Los Bravos del Norte",
+          "url": "https://open.spotify.com/artist/46XFR4hn1MmBKyvwxxEFFo"
+        },
+        {
+          "name": "Ricky Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/2fN4AmackOjPcaThwvLyy6"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 241753,
+      "name": "Claro Que Se Puede! (Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/2V5uUsoAyW9B0IBCZ8Brrp"
     },
     {
       "album": {
@@ -415,7 +446,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 199226,
       "name": "La Baraja",
       "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
@@ -541,7 +572,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-05",
       "duration_ms": 177907,
       "name": "Mesa para Dos",
       "url": "https://open.spotify.com/track/0L5Rw0Sojb2O7XMnGZUU66"
@@ -595,7 +626,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 193186,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/39jp91yfW61L2bBjpucX1D"
@@ -671,7 +702,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 146586,
       "name": "Ni Amores Ni Deudas (feat. Los Invasores de Nuevo Le\u00f3n)",
       "url": "https://open.spotify.com/track/37XJBZYOnErRNl7vawIwf7"
@@ -689,7 +720,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 202303,
       "name": "Ni Perd\u00f3n Ni Olvido",
       "url": "https://open.spotify.com/track/1su6dKGlD22nSA5kcoUrum"
@@ -747,6 +778,24 @@
       "duration_ms": 203666,
       "name": "No Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX"
+    },
+    {
+      "album": {
+        "name": "Nuevamente El Amor",
+        "url": "https://open.spotify.com/album/7qFy8pz6riHrOQLtFHjXcF"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Nuevamente El Amor",
+      "url": "https://open.spotify.com/track/3ADa5NLyUgz1mUGpJZ8ZGh"
     },
     {
       "album": {

@@ -4,14 +4,15 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-74 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/0aQjrq4EoXUS7jLQajURnf)
+76 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [34 Ghosts IV](https://open.spotify.com/track/2vXOjiwfjobOqrezcuSBok) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Ghosts I\-IV](https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp) | 5:52 | 2022-02-10 |  |
 | [Across White Oak Mountain](https://open.spotify.com/track/6I7U9PRJPSLrmnieJA4B8U) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows In The Basilica](https://open.spotify.com/album/6haBtUE6M80jxNgGFRgcFw) | 3:50 | 2022-02-10 | 2022-07-29 |
 | [Across White Oak Mountain](https://open.spotify.com/track/6mFuM7qrH8p57mgYeG3IRI) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows in the Basilica](https://open.spotify.com/album/08ukVwsvdLCb4GSplKE3u6) | 3:50 | 2022-04-22 |  |
-| [Afar](https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Serpent \(In Quicksilver\)](https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl) | 2:34 | 2022-02-10 |  |
+| [Afar](https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Serpent \(In Quicksilver\)](https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl) | 2:34 | 2022-02-10 | 2023-02-02 |
+| [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 | 2022-09-30 |  |
 | [Agave](https://open.spotify.com/track/0DifKkrphdk37zLMFppXM2) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/2WjEpzE4jtsoClOCYAxxQ4) | 1:58 | 2022-02-10 | 2022-07-29 |
 | [Agave](https://open.spotify.com/track/6naW8OkDHDhM4wYEwZJgwe) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/05tAz0b9gHjjlpaIOxNvfy) | 1:58 | 2022-04-22 |  |
 | [Ai Du](https://open.spotify.com/track/7vzhCpNntdmzI3yop3UckE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu](https://open.spotify.com/album/0mrP9dZLtrJtUEBuhGgVRF) | 7:09 | 2022-02-10 | 2022-07-29 |
@@ -33,7 +34,8 @@
 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/2oiA79pJ9Y901ZS2qd6Jl1) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/7L5ViL8FXX0tr7ccEByRfH) | 3:55 | 2022-04-22 |  |
 | [Dreaming of the Kelly Pool](https://open.spotify.com/track/3tLvxAAZi8EWFT5fW6R763) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Dreaming of the Kelly Pool](https://open.spotify.com/album/67O2wOdn2nqHitF5e3Yim3) | 3:55 | 2022-02-10 | 2022-07-29 |
 | [Elk River](https://open.spotify.com/track/75s7uFrBUhwHH4sVbsSn0a) | [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [For Octavio Paz](https://open.spotify.com/album/1KsF9degqPu3DEJTQLalNI) | 3:11 | 2022-02-10 |  |
-| [Estancia](https://open.spotify.com/track/56wSQCknk5Fp0gOt9EaT2e) | [Bill Elm & Woody Jackson](https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg) | 2:02 | 2022-02-10 |  |
+| [Estancia](https://open.spotify.com/track/6JSZq2FkHOZGZ5hV85fBa2) | [Bill Elm](https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK) | 2:02 | 2022-09-30 |  |
+| [Estancia](https://open.spotify.com/track/56wSQCknk5Fp0gOt9EaT2e) | [Bill Elm & Woody Jackson](https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg) | 2:02 | 2022-02-10 | 2022-11-30 |
 | [Flower Turned Inside\-Out](https://open.spotify.com/track/25ISO5GDUQU94hqhjFFQIS) | [Glenn Jones](https://open.spotify.com/artist/7HY8lCkyEUSL5jfENlkshV) | [Fleeting](https://open.spotify.com/album/1nJRtI9d5gAd3HZjN2IXLA) | 4:20 | 2022-02-10 |  |
 | [He is Without His Guns](https://open.spotify.com/track/1ZkNI3JpzfQ5LMV33zH7Jg) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Into the Light](https://open.spotify.com/album/6PKMSpHdDkaay6WTBUzxz0) | 3:24 | 2022-02-10 |  |
 | [Highway Anxiety](https://open.spotify.com/track/3JLXnHbsF9kJrAphXVPoF6) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 9:06 | 2022-02-10 |  |

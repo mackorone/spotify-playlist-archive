@@ -4,7 +4,7 @@
 
 > Legendary Italian DJ <a href="spotify:artist:6PozOimyS8a9OxMddMSBCf">Molella</a> delivers a mix for the ages, featuring a blend of classics and new tracks.
 
-23 songs - 1 hr 2 min - [published](https://open.spotify.com/playlist/1UBojVQrYJwJ4lrFTTa7JZ)
+23 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

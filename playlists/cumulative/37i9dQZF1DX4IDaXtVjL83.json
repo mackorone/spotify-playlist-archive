@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! Cover: AB6IX, Reiley",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! Cover: 220 KID, Willim, Kang Daniel",
   "name": "K-Pop X-Overs",
-  "published_playlist_ids": [
-    "0DIHYFEqLdrnfdqObi2sJD"
-  ],
   "tracks": [
     {
       "album": {
@@ -85,7 +82,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 223040,
       "name": "A WOO!!",
       "url": "https://open.spotify.com/track/7DzFF9F9FK7zaBZMyEKPjn"
@@ -213,7 +210,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 231373,
       "name": "Before 4:30 (She Said\u2026)",
       "url": "https://open.spotify.com/track/6eXHtOGepsKaJ6UzN42YlG"
@@ -303,7 +300,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 206000,
       "name": "Best Friend (feat. Doja Cat, Jamie & CHANMINA) [Remix]",
       "url": "https://open.spotify.com/track/7L72EQGrKTteP3IjLHNdFJ"
@@ -826,6 +823,28 @@
     },
     {
       "album": {
+        "name": "GOOD VIBES",
+        "url": "https://open.spotify.com/album/75YhMYc4lGw8BN4AWcHoSj"
+      },
+      "artists": [
+        {
+          "name": "Chad Future",
+          "url": "https://open.spotify.com/artist/7FOqtptgmy8wtpNrzXcYOT"
+        },
+        {
+          "name": "Kyung dasom",
+          "url": "https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179393,
+      "name": "GOOD VIBES",
+      "url": "https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg"
+    },
+    {
+      "album": {
         "name": "Gotta Get Back (feat. Pink Sweat$)",
         "url": "https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO"
       },
@@ -1057,7 +1076,7 @@
           "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
@@ -1079,7 +1098,7 @@
           "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         },
         {
@@ -1093,6 +1112,54 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
+    },
+    {
+      "album": {
+        "name": "Like California",
+        "url": "https://open.spotify.com/album/1Q3J1EjS9oEJgVoILiHiTS"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162385,
+      "name": "Like California",
+      "url": "https://open.spotify.com/track/7ouOGLgqPhs5ezGPegOT6t"
+    },
+    {
+      "album": {
+        "name": "Look Where We Are",
+        "url": "https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        },
+        {
+          "name": "Willim",
+          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Look Where We Are",
+      "url": "https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75"
     },
     {
       "album": {
@@ -1173,7 +1240,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 205226,
       "name": "LUNATIC (English Ver.)",
       "url": "https://open.spotify.com/track/6iQQ9sg5NSauLU4TzKFOsY"
@@ -1362,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "THE WORLD EP.PARADIGM",
+        "url": "https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193341,
+      "name": "Paradigm",
+      "url": "https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm"
+    },
+    {
+      "album": {
         "name": "Perfect World",
         "url": "https://open.spotify.com/album/012FDe5q7Af7H9dy47DjVJ"
       },
@@ -1377,6 +1462,24 @@
       "duration_ms": 182680,
       "name": "Perfect World",
       "url": "https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT"
+    },
+    {
+      "album": {
+        "name": "POPPY (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "POPPY - Japanese Ver.",
+      "url": "https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H"
     },
     {
       "album": {
@@ -1471,7 +1574,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 153706,
       "name": "Rose - English Version",
       "url": "https://open.spotify.com/track/2shyarF21wZvWew00TdaP3"
@@ -1515,6 +1618,36 @@
       "duration_ms": 200546,
       "name": "Scars",
       "url": "https://open.spotify.com/track/4C9Zhjq5ux9ieiDWYfFcfP"
+    },
+    {
+      "album": {
+        "name": "Self Love",
+        "url": "https://open.spotify.com/album/6YiGUfINmmOfD4zBZwagW8"
+      },
+      "artists": [
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        },
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        },
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229928,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/6pSCLFRN1QIJ4Rn0CDGwUC"
     },
     {
       "album": {
@@ -1799,7 +1932,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 167661,
       "name": "The Weekend (with 347aidan) - Remix",
       "url": "https://open.spotify.com/track/0G7xOaJtStqoAEyLKNuRA3"
@@ -1920,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "WHEN I MOVE (Japanese Version)",
+        "url": "https://open.spotify.com/album/2vt69W1CGy5OWAbJGBKTQd"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "WHEN I MOVE - Japanese Version",
+      "url": "https://open.spotify.com/track/21GuGNE5kAObbWPDRYaYLi"
+    },
+    {
+      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/1Diw0Vc2BRsiATDrRveAOq"
       },
@@ -1957,7 +2108,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 170000,
       "name": "Wouldn't Be Me (feat. JAMIE)",
       "url": "https://open.spotify.com/track/13ggxXlRQxbxVXvM02UCJe"
@@ -2055,7 +2206,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 199026,
       "name": "Yummy Yummy Love",
       "url": "https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB"

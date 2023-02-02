@@ -4,7 +4,7 @@
 
 > Songs all about cleaning up.
 
-37 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/2ReI04f5VoYE7BBtfAWes4)
+37 songs - 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

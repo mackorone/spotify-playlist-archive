@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
   "name": "Reggae Al Sur",
-  "published_playlist_ids": [
-    "5wJsWdiqLgGKoWe7fmymn2"
-  ],
   "tracks": [
     {
       "album": {
@@ -1305,7 +1302,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 343880,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2LsIPIq9oe9sCt5oKwGnpt"
@@ -1341,7 +1338,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 304426,
       "name": "Flores y Burbujas",
       "url": "https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD"
@@ -1687,6 +1684,36 @@
       "duration_ms": 214154,
       "name": "La Huida",
       "url": "https://open.spotify.com/track/52Php2aMXTxfMaMmJSMQSa"
+    },
+    {
+      "album": {
+        "name": "The King Is Back",
+        "url": "https://open.spotify.com/album/5NfRSBalg4W9v2E01yHRzF"
+      },
+      "artists": [
+        {
+          "name": "Bubaseta",
+          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
+        },
+        {
+          "name": "Subwoffer",
+          "url": "https://open.spotify.com/artist/0Qsv4mPm5fOiJ6nOFxtZLm"
+        },
+        {
+          "name": "King Kong Click",
+          "url": "https://open.spotify.com/artist/0lTSSQrxOMu4Keh48GrIkX"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246659,
+      "name": "La Movie",
+      "url": "https://open.spotify.com/track/5u1rcgkyH4ewqTaVUI6Ekk"
     },
     {
       "album": {
@@ -2286,6 +2313,28 @@
     },
     {
       "album": {
+        "name": "Que Bonita Vecindad",
+        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223405,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
+    },
+    {
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
@@ -2341,6 +2390,28 @@
       "duration_ms": 211000,
       "name": "No al Remate de Ceramica Neuquen",
       "url": "https://open.spotify.com/track/6lkf0F3opf4dYQx1Czxaka"
+    },
+    {
+      "album": {
+        "name": "No Insistas",
+        "url": "https://open.spotify.com/album/5QElG8KePpyHtSvjzo2hpq"
+      },
+      "artists": [
+        {
+          "name": "Lion Reggae",
+          "url": "https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko"
+        },
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206677,
+      "name": "No Insistas",
+      "url": "https://open.spotify.com/track/4PvvhS8ntwMJEzXMlzGqcA"
     },
     {
       "album": {
@@ -2471,7 +2542,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 228510,
       "name": "On the Good Road - En Vivo En Sala Siranush",
       "url": "https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc"
@@ -2793,7 +2864,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 309240,
       "name": "Resistencia indigena",
       "url": "https://open.spotify.com/track/1dIhVyOcHzgL07hSO7IOex"
@@ -2885,6 +2956,28 @@
       "duration_ms": 219061,
       "name": "Runnin' out of Fools",
       "url": "https://open.spotify.com/track/6kvm98YbESolyOzhUDSLRG"
+    },
+    {
+      "album": {
+        "name": "Ruptura",
+        "url": "https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Fanbrown",
+          "url": "https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Ruptura",
+      "url": "https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k"
     },
     {
       "album": {
@@ -3205,7 +3298,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 286000,
       "name": "Strengthen Your Mind",
       "url": "https://open.spotify.com/track/3BjRtnuG74eUj4dYp9mrDT"
@@ -3281,7 +3374,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-25",
       "duration_ms": 263144,
       "name": "Tenia Tanto Para Darte",
       "url": "https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb"
@@ -3437,7 +3530,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Torito",
       "url": "https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd"

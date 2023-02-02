@@ -4,7 +4,7 @@
 
 > Escucha todos los éxitos de Reik en un sólo lugar.
 
-73 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3JZfhUMjwwhZCMa1zG4rqZ)
+73 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 
 > Funk to these good ol' funky soul classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,900 likes - 80 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,803 likes - 80 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 2 | [Get Up Offa That Thing](https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Cold Sweat & Other Soul Classics: James Brown](https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R) | 4:10 |
 | 3 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
 | 4 | [Get Down On It \- Single Version](https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:31 |
-| 5 | [Memphis Soul Stew](https://open.spotify.com/track/6MqfTP3OwngywVTOS5OAFt) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [King Size Soul](https://open.spotify.com/album/10oWkzpDsLfD1lq21m6RPr) | 2:59 |
-| 6 | [Controversy](https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 7:15 |
+| 5 | [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 |
+| 6 | [Memphis Soul Stew](https://open.spotify.com/track/6MqfTP3OwngywVTOS5OAFt) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [King Size Soul](https://open.spotify.com/album/10oWkzpDsLfD1lq21m6RPr) | 2:59 |
 | 7 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 |
-| 8 | [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 |
-| 9 | [Funkin' for Jamaica](https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Love Approach \(Bonus Track\)](https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP) | 4:42 |
+| 8 | [Funkin' for Jamaica](https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Love Approach \(Bonus Track\)](https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP) | 4:42 |
+| 9 | [Controversy](https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 7:15 |
 | 10 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 11 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
 | 12 | [Why Did You Do It \- Remastered](https://open.spotify.com/track/38DAUnVJ0zqOdRuW7RG3sl) | [Stretch](https://open.spotify.com/artist/61oNrjLV0SUliHTOXUgCXg) | [Elastique \(Remastered\)](https://open.spotify.com/album/3tzMsfGTrNMJ7h1SRYQUs4) | 3:31 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 41 | [Blame It on the Boogie](https://open.spotify.com/track/0ryUadrXsahO3mASlKUJlT) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:30 |
 | 42 | [I Don't Believe You Want To Get Up And Dance \(Oops Up Side Your Head\)](https://open.spotify.com/track/520fkoz7YAPnqZNvZ21UfP) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band II](https://open.spotify.com/album/50IVeN4X1yybqwXc1kNGok) | 8:42 |
 | 43 | [The Jam](https://open.spotify.com/track/1xXNrpcZ7UyKVWiI6GEc75) | [Graham Central Station](https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F) | [Ain't No 'Bout\-A\-Doubt It](https://open.spotify.com/album/5UcoqwPZQ0HBi4WgmDgEHs) | 8:12 |
-| 44 | [Theme From "Shaft"](https://open.spotify.com/track/3UgWZwO5KqlfujQn53UW3I) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:36 |
+| 44 | [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 |
 | 45 | [Burn Rubber On Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/track/32YzjV133gteg9LMBGO2OA) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Greatest Hits](https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4) | 4:12 |
 | 46 | [Slippery When Wet](https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 3:17 |
 | 47 | [Atomic Dog](https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Computer Games](https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav) | 4:47 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 55 | [Pass The Peas](https://open.spotify.com/track/62rSpnxXl2lXDevp1z583x) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [James Brown's Funky People](https://open.spotify.com/album/5ytMVOR2Moy8hu7Tx1hee2) | 3:11 |
 | 56 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
 | 57 | [Shining Star](https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 2:50 |
-| 58 | [Stomp! \- Single Version](https://open.spotify.com/track/1Vauxb0dB53UEQc600Shji) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:07 |
+| 58 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
 | 59 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
 | 60 | [I'd Rather Be with You](https://open.spotify.com/track/42rFOQqHmXf9IkdwVqkooK) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 4:57 |
 | 61 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 79 | [It's Serious](https://open.spotify.com/track/5KV0kTuocyu9UT2aq2fuiB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [We All Know Who We Are](https://open.spotify.com/album/4kwAmxSWZndrH076YU2VgY) | 8:09 |
 | 80 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(O.S.T.\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
 
-Snapshot ID: `MTY2MzU2OTQ2MSwwMDAwMDAwMGNlNjc1YTRmN2YzZjJkYWM2YmI1MTRkN2YzYTY2NTcy`
+Snapshot ID: `MTY3NTI1MTIwMiwwMDAwMDAwMGU0ZmQ2Njk3M2Y4M2JlZWFlMWI5YjFkMjAzY2FhZjUx`

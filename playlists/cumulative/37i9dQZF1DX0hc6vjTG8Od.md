@@ -4,7 +4,7 @@
 
 > Energy is <a href ="spotify:artist:6zsJjoCtL1WByG0VsuFWzR">BLOND:ISH</a> currency and that is what you'll get when you hear her latest mix for Spotify!
 
-16 songs - 1 hr 4 min - not published yet
+16 songs - 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

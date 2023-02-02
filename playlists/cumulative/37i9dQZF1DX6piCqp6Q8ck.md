@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-113 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
+114 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Little White Berry](https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Ben Castle](https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 3:24 | 2021-12-21 |  |
 | [Man With The Bag](https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV) | 2:54 | 2022-01-03 |  |
 | [Man With The Bag](https://open.spotify.com/track/6hDObWDLZG5GoEySmtSjAF) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG) | 2:54 | 2021-12-21 | 2022-07-29 |
-| [Mary's Boy Child](https://open.spotify.com/track/0cbzNKDJPIpNOKfBGiRmn2) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Mary's Boy Child](https://open.spotify.com/album/5e0Z0zZAOlCB8u8RiXklfR) | 2:06 | 2022-11-17 |  |
+| [Mary's Boy Child](https://open.spotify.com/track/0cbzNKDJPIpNOKfBGiRmn2) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Mary's Boy Child](https://open.spotify.com/album/5e0Z0zZAOlCB8u8RiXklfR) | 2:06 | 2022-11-17 | 2022-12-03 |
+| [Mary's Boy Child](https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Jazzy Christmas Celebration](https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP) | 2:06 | 2022-11-29 |  |
 | [Mele Kalikimaka](https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 2:33 | 2021-12-21 |  |
 | [Mr\. Christmas](https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B) | 3:36 | 2021-12-21 |  |
 | [O Come, All Ye Faithful](https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL), [Dave Birkman](https://open.spotify.com/artist/4EfQMoNIcpy9wJDuCkYrzc), [Essiet Essiet](https://open.spotify.com/artist/1gQ8mRcuJnb3j7CJpMMTDa), [Carl Allen](https://open.spotify.com/artist/5ufrB7FmfeQ8whmRiRe9gF) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 5:12 | 2021-12-21 |  |

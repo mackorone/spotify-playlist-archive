@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-22",
   "description": "Clear your mind with soothing new age guitar.",
   "name": "Meditative Guitar",
-  "published_playlist_ids": [
-    "436FR3vTM10amif2FlaZkJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -116,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Aspettami",
+        "url": "https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r"
+      },
+      "artists": [
+        {
+          "name": "Luka Vida",
+          "url": "https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125997,
+      "name": "Aspettami",
+      "url": "https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF"
+    },
+    {
+      "album": {
         "name": "Astral Body",
         "url": "https://open.spotify.com/album/7GwWItskLCrgRjyEwbKzhZ"
       },
@@ -189,6 +204,24 @@
       "duration_ms": 191000,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
+    },
+    {
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/0AChUaHjN3SbGsBf68Awll"
+      },
+      "artists": [
+        {
+          "name": "Zane Cassidy",
+          "url": "https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109377,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/0ebnYLExhairdQKLJGRgDb"
     },
     {
       "album": {
@@ -336,6 +369,42 @@
     },
     {
       "album": {
+        "name": "Blue Depths",
+        "url": "https://open.spotify.com/album/44NPPHtkt0LzfAkAqGQoLB"
+      },
+      "artists": [
+        {
+          "name": "Voyage Control",
+          "url": "https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214721,
+      "name": "Blue Depths",
+      "url": "https://open.spotify.com/track/1rLeCtjTSyVONLUcAen2ZZ"
+    },
+    {
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/6LjRKT71Go9zcqsSxT9FrV"
+      },
+      "artists": [
+        {
+          "name": "Cody Wallter",
+          "url": "https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/5w0R9CF9qaTfwghKBi6Tb0"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/7MqcHPgnwEyuIzw1zfA2Ol"
       },
@@ -387,6 +456,24 @@
       "duration_ms": 131995,
       "name": "Clermont",
       "url": "https://open.spotify.com/track/0WNOQLJP7OsYJ9nLUO1IPY"
+    },
+    {
+      "album": {
+        "name": "Consapevolezza",
+        "url": "https://open.spotify.com/album/2QMr6qobtdVlPn7Y6UZdf2"
+      },
+      "artists": [
+        {
+          "name": "Trinitah",
+          "url": "https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "Consapevolezza",
+      "url": "https://open.spotify.com/track/1FrBUnhD9T673kr9nfbdGP"
     },
     {
       "album": {
@@ -498,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/3n3ri3uLMAQYMxeFDPAyqJ"
+      },
+      "artists": [
+        {
+          "name": "Leigh Erin",
+          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177767,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/6XgxMjACtxIGyMpHjXGQ1y"
+    },
+    {
+      "album": {
         "name": "Emersion",
         "url": "https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z"
       },
@@ -545,7 +650,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 135325,
       "name": "Everyday Peace",
       "url": "https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699"
@@ -624,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Fleeting Thoughts",
+        "url": "https://open.spotify.com/album/2Lh2xrVBPsJXMOkW7xLQmD"
+      },
+      "artists": [
+        {
+          "name": "Amat Leony",
+          "url": "https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175816,
+      "name": "Fleeting Thoughts",
+      "url": "https://open.spotify.com/track/7KIiDekYdnY4vQUjyzsG8N"
+    },
+    {
+      "album": {
         "name": "Forests and Hills",
         "url": "https://open.spotify.com/album/4RIXar48wxLqPfxwnycwNF"
       },
@@ -653,7 +776,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 193714,
       "name": "Green Hills",
       "url": "https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W"
@@ -743,7 +866,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 172200,
       "name": "Ikaria",
       "url": "https://open.spotify.com/track/4NVV2FdOTnoUh8wn6YKD5v"
@@ -876,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Light Within",
+        "url": "https://open.spotify.com/album/4KynjAVJdNcPdu4ZgBzPad"
+      },
+      "artists": [
+        {
+          "name": "Hedda Young",
+          "url": "https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153919,
+      "name": "Light Within",
+      "url": "https://open.spotify.com/track/7rNnrVwbsVBp9ft4i35ARA"
+    },
+    {
+      "album": {
         "name": "Lost in the Clouds",
         "url": "https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y"
       },
@@ -909,6 +1050,24 @@
       "duration_ms": 177453,
       "name": "Luci Scure",
       "url": "https://open.spotify.com/track/1En4zVe0RnD9VxyCdDzwim"
+    },
+    {
+      "album": {
+        "name": "Magic Worlds",
+        "url": "https://open.spotify.com/album/61rBosjZ6hfSCqJcQAfyeh"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172639,
+      "name": "Magic Worlds",
+      "url": "https://open.spotify.com/track/3fZsYSmV0wVcYiMxadz8zB"
     },
     {
       "album": {
@@ -1283,7 +1442,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 284712,
       "name": "Path To Self",
       "url": "https://open.spotify.com/track/3o76zTFwwLZ7lx5La5L09O"
@@ -1456,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Reposeful",
+        "url": "https://open.spotify.com/album/6W600f8bk6lwStjaswF53R"
+      },
+      "artists": [
+        {
+          "name": "Jonas Bergwall",
+          "url": "https://open.spotify.com/artist/0ftaU73nHXEcuyB2BVCLi5"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143673,
+      "name": "Reposeful",
+      "url": "https://open.spotify.com/track/3212jPly6zOlG8EKmiJ8pf"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/1adS1XhqBudKquCDqma83g"
       },
@@ -1507,6 +1684,24 @@
       "duration_ms": 338325,
       "name": "Sail Away",
       "url": "https://open.spotify.com/track/6mamgQsrc9tFBXAEaOqa1Y"
+    },
+    {
+      "album": {
+        "name": "Sense Of Purpose",
+        "url": "https://open.spotify.com/album/7M8AAxi71Aw8Igk5DoRTwL"
+      },
+      "artists": [
+        {
+          "name": "Samaneh Awad",
+          "url": "https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137865,
+      "name": "Sense Of Purpose",
+      "url": "https://open.spotify.com/track/1BvhFvVFE0crj3NwwUp1ov"
     },
     {
       "album": {
@@ -2047,6 +2242,24 @@
       "duration_ms": 155692,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/29vkYjTn6LlSkyLKzhvNhM"
+    },
+    {
+      "album": {
+        "name": "Whisper in the wind",
+        "url": "https://open.spotify.com/album/5BZ2gwkDuYlpVkObyPMCr3"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182924,
+      "name": "Whisper in the wind",
+      "url": "https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W"
     },
     {
       "album": {

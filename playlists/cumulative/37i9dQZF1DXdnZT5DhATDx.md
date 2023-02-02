@@ -4,7 +4,7 @@
 
 > What is dead may never die\. Listen to the most memorable and pinnacle tracks from all eight seasons of Game of Thrones.
 
-132 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/0hhh6F8OD604WIr58kEXWn)
+132 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

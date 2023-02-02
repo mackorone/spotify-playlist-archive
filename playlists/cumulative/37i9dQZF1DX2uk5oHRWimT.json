@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Have yourself a little cozy Christmas.",
   "name": "Acoustic Christmas",
-  "published_playlist_ids": [
-    "63MZdRyonVuAsWti5LxFl1"
-  ],
   "tracks": [
     {
       "album": {
@@ -524,6 +521,28 @@
     },
     {
       "album": {
+        "name": "Maybe This Christmas, Vol. 7: Country Sleigh Ride",
+        "url": "https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2"
+      },
+      "artists": [
+        {
+          "name": "Almost Christmas",
+          "url": "https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "Christmas Dream",
+      "url": "https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl"
+    },
+    {
+      "album": {
         "name": "Christmas Dream",
         "url": "https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4"
       },
@@ -535,7 +554,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 177866,
       "name": "Christmas Dream",
       "url": "https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk"
@@ -2823,6 +2842,24 @@
       "duration_ms": 141613,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/0xo74ue4eAko2WXco63cfv"
+    },
+    {
+      "album": {
+        "name": "Songs That Sleigh",
+        "url": "https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272128,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5buoO4z08iVTp3i8wxtYUK"
     },
     {
       "album": {

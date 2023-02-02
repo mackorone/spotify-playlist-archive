@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-09",
   "description": "Una sensual selecci\u00f3n de canciones para bailar en una sola baldosa.",
   "name": "Salsa Rom\u00e1ntica",
-  "published_playlist_ids": [
-    "5e64oDpSbQovckjKQVo4HX"
-  ],
   "tracks": [
     {
       "album": {
@@ -404,6 +401,28 @@
     },
     {
       "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Ray Sepulveda",
+          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267389,
+      "name": "Extra\u00f1o Tu Amor",
+      "url": "https://open.spotify.com/track/1kp1N9tj9zGbpttRISpgu9"
+    },
+    {
+      "album": {
         "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas, Vol. 1",
         "url": "https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ"
       },
@@ -419,7 +438,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 267389,
       "name": "Extra\u00f1o Tu Amor",
       "url": "https://open.spotify.com/track/4WcWjBoSYqZBwqeYlz0qey"

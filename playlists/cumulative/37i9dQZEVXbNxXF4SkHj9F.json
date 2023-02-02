@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - South Korea.",
   "name": "Top 50 - South Korea",
-  "published_playlist_ids": [
-    "4DRTrXneBtNnJtlxBODsX9"
-  ],
   "tracks": [
     {
       "album": {
@@ -125,7 +122,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 230293,
       "name": "2 Baddies",
       "url": "https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX"
@@ -363,9 +360,9 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-27",
       "duration_ms": 135533,
-      "name": "A Holly Jolly Christmas - Single Version",
+      "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
     },
     {
@@ -674,6 +671,44 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 1",
+        "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        },
+        {
+          "name": "QM",
+          "url": "https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j"
+        },
+        {
+          "name": "Kim Jae Wook",
+          "url": "https://open.spotify.com/artist/3cHJ87EhyuC7TPJLwIKIeS"
+        },
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "DAMINI",
+          "url": "https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 293215,
+      "name": "AJUSHI",
+      "url": "https://open.spotify.com/track/7mD6UISuxA2uqWAQh7oSjV"
+    },
+    {
+      "album": {
         "name": "Alcohol-Free",
         "url": "https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE"
       },
@@ -728,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-11",
+      "duration_ms": 186186,
+      "name": "All Day (with Tablo)",
+      "url": "https://open.spotify.com/track/40SuiVcQ5NyDk48nZSADK3"
+    },
+    {
+      "album": {
         "name": "Bambi - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
@@ -757,7 +810,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": "2022-12-29",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -811,7 +864,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 188942,
       "name": "Amor",
       "url": "https://open.spotify.com/track/3scRk3rUGIwpCg9kMNrtEQ"
@@ -1143,7 +1196,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": "2023-01-03",
       "duration_ms": 195667,
       "name": "As You Wish",
       "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
@@ -1334,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Ay-Yo - The 4th Album Repackage",
+        "url": "https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Ay-Yo",
+      "url": "https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81"
+    },
+    {
+      "album": {
         "name": "Pole Dance",
         "url": "https://open.spotify.com/album/2PYqZxuc86lS0DtCCh1sB7"
       },
@@ -1389,7 +1460,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
@@ -1625,6 +1696,46 @@
       "duration_ms": 261186,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/6NBbpQfD2MZcCNBOy7iE7Q"
+    },
+    {
+      "album": {
+        "name": "Beautiful Christmas",
+        "url": "https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 209800,
+      "name": "Beautiful Christmas",
+      "url": "https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 183120,
+      "name": "Beautiful Liar",
+      "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
     },
     {
       "album": {
@@ -1977,10 +2088,28 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+    },
+    {
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 234386,
+      "name": "Big world",
+      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
     },
     {
       "album": {
@@ -1999,6 +2128,50 @@
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "JAMBINO",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 222000,
+      "name": "BINGO (Feat. meenoi, george) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/33zyxtEENVeaXiAZc8s6Wa"
+    },
+    {
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 216440,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
     },
     {
       "album": {
@@ -2612,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 196079,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/4OSVR8gq2l3ceJiXNR7iiM"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -2666,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
+    },
+    {
+      "album": {
         "name": "VALORANT / Can\u2032t Slow Me Down",
         "url": "https://open.spotify.com/album/0KcTPJHY7Icv9WYHXmcun1"
       },
@@ -2707,10 +2916,28 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-11-28",
       "duration_ms": 191964,
       "name": "CASE 143",
       "url": "https://open.spotify.com/track/1klq7dgG1Pz0ijci5Pmae1"
+    },
+    {
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 164693,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/53qayme5jMFwTb3fF84uv6"
     },
     {
       "album": {
@@ -2816,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 114026,
+      "name": "Change pt.2",
+      "url": "https://open.spotify.com/track/7vPMugKcYwnX9Dh7SrLFHF"
+    },
+    {
+      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
@@ -2888,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/1E5swTfZ9FF5ECxH1N7EvL"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 182453,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/1LJT4ctFlHUSVsfZqMeaz0"
+    },
+    {
+      "album": {
         "name": "Summer Queen",
         "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
       },
@@ -2953,10 +3216,28 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": "2023-02-01",
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
+    },
+    {
+      "album": {
+        "name": "Christmas Without You",
+        "url": "https://open.spotify.com/album/4vxk8Q78WLINHtJpDSuvq7"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 169245,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/1QLZKzC2pjP4ySf4ALrNhm"
     },
     {
       "album": {
@@ -2993,6 +3274,24 @@
       "duration_ms": 243507,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 196507,
+      "name": "Closer (with Paul Blanco, Mahalia)",
+      "url": "https://open.spotify.com/track/5AmBIWCnsLscPSYsfCApBy"
     },
     {
       "album": {
@@ -3117,6 +3416,32 @@
       "duration_ms": 310393,
       "name": "Come to Life",
       "url": "https://open.spotify.com/track/6DZz58CbF0AKw5PCKqNKcM"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 229450,
+      "name": "COMPASS (Feat. UNEDUCATED KID, SUPERBEE) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/3drPHXPtY4FQ4H55QVLHbY"
     },
     {
       "album": {
@@ -3277,6 +3602,32 @@
       "duration_ms": 204800,
       "name": "Crash Landing",
       "url": "https://open.spotify.com/track/66eZq38bO1ofzmpNa02XiL"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
       "album": {
@@ -3486,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 146226,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/1UbjPSgETXPg3bdzYLCrhO"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -3630,6 +3999,50 @@
     },
     {
       "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 186471,
+      "name": "Devil by the Window",
+      "url": "https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Spray",
+          "url": "https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 252760,
+      "name": "Diamonds (Feat. lIlBOI, Spray)",
+      "url": "https://open.spotify.com/track/6KgkuACjbs8BCaGwwZt4Fj"
+    },
+    {
+      "album": {
         "name": "ENTWURF",
         "url": "https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP"
       },
@@ -3641,7 +4054,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC"
@@ -3765,6 +4178,24 @@
       "duration_ms": 273640,
       "name": "Dissonance (Feat. AKMU) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/0AF50NdDzZ3cze2O0SyjXf"
+    },
+    {
+      "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
       "album": {
@@ -4481,7 +4912,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
@@ -4620,6 +5051,28 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 210401,
+      "name": "ERI ERI (Feat. Homies)",
+      "url": "https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R"
+    },
+    {
+      "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
       },
@@ -4685,7 +5138,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 228615,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK"
@@ -4765,6 +5218,32 @@
       "duration_ms": 184354,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 234839,
+      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
     },
     {
       "album": {
@@ -4853,6 +5332,24 @@
       "duration_ms": 216573,
       "name": "Far",
       "url": "https://open.spotify.com/track/3HxtdKRmw0BNUs4VM7uYvE"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180676,
+      "name": "Farewell, Neverland",
+      "url": "https://open.spotify.com/track/43mnNatwMMydJ4CxMdQVnJ"
     },
     {
       "album": {
@@ -4979,7 +5476,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2023-01-11",
       "duration_ms": 210253,
       "name": "Feel My Rhythm",
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
@@ -4997,7 +5494,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-28",
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -5033,7 +5530,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 180220,
       "name": "Filter",
       "url": "https://open.spotify.com/track/4bZZVcgWWMWPBwzTTp642w"
@@ -5109,6 +5606,50 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 2",
+        "url": "https://open.spotify.com/album/2MypmCpJHMyUOKcnWsByC0"
+      },
+      "artists": [
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 260359,
+      "name": "Flick (Feat. BE\u2032O, HAON) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/18FgZS3SkPGifWyVGYO9Gh"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
       "album": {
@@ -5256,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-12",
+      "duration_ms": 162295,
+      "name": "Forg_tful (with Kim Sawol)",
+      "url": "https://open.spotify.com/track/3XKI5295qhFbwNesz3ollU"
+    },
+    {
+      "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
       },
@@ -5314,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 168760,
+      "name": "Fuckin' New Year",
+      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
+    },
+    {
+      "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
       },
@@ -5329,6 +5906,28 @@
       "duration_ms": 139308,
       "name": "Future",
       "url": "https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h"
+    },
+    {
+      "album": {
+        "name": "Fxxxnds",
+        "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
+      "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
     },
     {
       "album": {
@@ -5735,7 +6334,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -5865,7 +6464,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-16",
       "duration_ms": 156354,
       "name": "Good Parts (when the quality is bad but I am)",
       "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
@@ -5919,10 +6518,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 237093,
+      "name": "Graduation",
+      "url": "https://open.spotify.com/track/35ytd9cmG15jXG0RKWC9p4"
     },
     {
       "album": {
@@ -6053,6 +6670,28 @@
       "duration_ms": 174226,
       "name": "Happy Birthday To You",
       "url": "https://open.spotify.com/track/29Vfu3AZXW3EOxtalAajJ9"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 155753,
+      "name": "Happy Fools (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/77LZvE2XLYn2AW55UxIG8H"
     },
     {
       "album": {
@@ -6197,6 +6836,24 @@
       "duration_ms": 232226,
       "name": "Heaven's Cloud",
       "url": "https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-12",
+      "duration_ms": 226189,
+      "name": "Hectic (with Colde)",
+      "url": "https://open.spotify.com/track/3wEr5lmE7oaC3qhCbJTY8B"
     },
     {
       "album": {
@@ -6451,7 +7108,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-28",
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -6723,7 +7380,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -7068,6 +7725,32 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229604,
+      "name": "I'm Not Here To Make Friends",
+      "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour (Deluxe)",
         "url": "https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR"
       },
@@ -7195,7 +7878,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 195053,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i"
@@ -7249,7 +7932,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 196365,
       "name": "Impurities",
       "url": "https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es"
@@ -7535,10 +8218,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": "2022-12-17",
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
     },
     {
       "album": {
@@ -7553,7 +8254,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-28",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -7705,7 +8406,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-28",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -7860,6 +8561,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -7995,7 +8714,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-28",
       "duration_ms": 203653,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
@@ -8013,7 +8732,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": "2022-12-28",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -8335,7 +9054,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-28",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -8617,7 +9336,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-27",
       "duration_ms": 200880,
       "name": "Like It's Christmas",
       "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv"
@@ -8802,9 +9521,45 @@
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 244426,
+      "duration_ms": 244500,
       "name": "London Boy",
       "url": "https://open.spotify.com/track/6auT8cRBu3BgPRBrdVBY15"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 203680,
+      "name": "LONE RANGER",
+      "url": "https://open.spotify.com/track/0R4axRx5Y4rwYY22UZhx2e"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-11",
+      "duration_ms": 166020,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/50y0OQgar3BnwTt1pXdYsM"
     },
     {
       "album": {
@@ -8971,7 +9726,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 242760,
       "name": "Love Always Run Away",
       "url": "https://open.spotify.com/track/4rMEoXVYww6Xy7q9wSj4gy"
@@ -9155,6 +9910,28 @@
       "duration_ms": 191293,
       "name": "Love Station",
       "url": "https://open.spotify.com/track/2LQCNmrPz6cIm1Y3sdwHO4"
+    },
+    {
+      "album": {
+        "name": "Love War",
+        "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "Love War (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
     },
     {
       "album": {
@@ -9419,7 +10196,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
@@ -9531,7 +10308,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-28",
       "duration_ms": 211013,
       "name": "Make It To Christmas",
       "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
@@ -9871,7 +10648,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": "2022-12-28",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -10005,6 +10782,42 @@
       "duration_ms": 156091,
       "name": "Moon",
       "url": "https://open.spotify.com/track/2Rd4eJ4KwXQQn2sMSToyUM"
+    },
+    {
+      "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 253173,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/2T7gEWrBetDarvBXexyw8Z"
+    },
+    {
+      "album": {
+        "name": "MOONLIGHT SUNRISE",
+        "url": "https://open.spotify.com/album/5RB4SBhMgWr2S48npenObP"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/38DlSDrx9tgc5Gfq6y3aBa"
     },
     {
       "album": {
@@ -10283,7 +11096,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-28",
       "duration_ms": 255400,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
@@ -10301,7 +11114,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2022-11-28",
       "duration_ms": 181800,
       "name": "My pleasure Is That You Ride The Bentley",
       "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
@@ -10377,7 +11190,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -10498,6 +11311,48 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 1",
+        "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
+      },
+      "artists": [
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        },
+        {
+          "name": "R.Tee",
+          "url": "https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN"
+        },
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        },
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "Mckdaddy",
+          "url": "https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA"
+        },
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377371,
+      "name": "MY WAY (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/3XfngyuVjltVRHSsLjrCRO"
+    },
+    {
+      "album": {
         "name": "Hot Sauce - The 1st Album",
         "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
       },
@@ -10593,6 +11448,32 @@
       "duration_ms": 212807,
       "name": "NAKKA (with IU)",
       "url": "https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Semi Final",
+        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
+      },
+      "artists": [
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 227346,
+      "name": "Name Tag (Feat. Sik-K, Coogie) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/4Q1mkQI9zKjEPsbI19hpsN"
     },
     {
       "album": {
@@ -10773,7 +11654,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 147426,
       "name": "New thing (Prod. ZICO) (Feat. Homies)",
       "url": "https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR"
@@ -10835,6 +11716,32 @@
       "duration_ms": 236480,
       "name": "Next Stop",
       "url": "https://open.spotify.com/track/2qd4cLpENPf0gBia8WFi0m"
+    },
+    {
+      "album": {
+        "name": "The Story : RETOLD",
+        "url": "https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "WDBZ",
+          "url": "https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 219293,
+      "name": "Nirvana (feat. pH-1 & WDBZ)",
+      "url": "https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg"
     },
     {
       "album": {
@@ -10987,6 +11894,82 @@
       "duration_ms": 205600,
       "name": "No Tomorrow (Feat. lIlBOI, nafla)",
       "url": "https://open.spotify.com/track/07jOogwG0xr8UjtsxqdhPH"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 193963,
+      "name": "No.2 (with parkjiyoon)",
+      "url": "https://open.spotify.com/track/5ky45fGKbzGYilDewlBD6Z"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 180853,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163648,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
     },
     {
       "album": {
@@ -11236,6 +12219,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/6yUxkZHB0tE1pNDXKoqiV2"
       },
@@ -11251,6 +12252,24 @@
       "duration_ms": 246380,
       "name": "ON",
       "url": "https://open.spotify.com/track/3cbLHmmEPvTgHKvl53WYiy"
+    },
+    {
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 199000,
+      "name": "On A Ride",
+      "url": "https://open.spotify.com/track/1hYQUY06GbO7YR8QeO7Qdk"
     },
     {
       "album": {
@@ -11407,7 +12426,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 206626,
       "name": "Oort Cloud",
       "url": "https://open.spotify.com/track/7tOsgOjrzBVQqyaMDBlZV8"
@@ -11461,7 +12480,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 207386,
       "name": "Our Blues, Our Life",
       "url": "https://open.spotify.com/track/2jidjmWNeRmKgLjXhW52Gz"
@@ -12032,6 +13051,32 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Semi Final",
+        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 209757,
+      "name": "PPAK (Feat. Paloalto, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/3lnn14odZPgqyNooN6jQBa"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -12375,7 +13420,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 196400,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/50xSycnGMDy0Wg5jJcOv3S"
@@ -12723,7 +13768,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -12849,7 +13894,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-28",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -13197,7 +14242,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": "2022-12-28",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -14025,7 +15070,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-29",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -14155,6 +15200,24 @@
       "duration_ms": 215670,
       "name": "SSKK",
       "url": "https://open.spotify.com/track/4xZtkGQiFjG1DNA6bQYyHg"
+    },
+    {
+      "album": {
+        "name": "Stamp On It - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
+      },
+      "artists": [
+        {
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232813,
+      "name": "Stamp On It",
+      "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
     },
     {
       "album": {
@@ -14321,7 +15384,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 210928,
       "name": "Stay Alive (Prod. SUGA of BTS)",
       "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
@@ -14436,6 +15499,46 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 175328,
+      "name": "Still Life (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 175328,
+      "name": "Still Life (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre"
+    },
+    {
+      "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
       },
@@ -14545,6 +15648,24 @@
       "duration_ms": 156876,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/7gXMkqirKU23zgdlSAb00a"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
     },
     {
       "album": {
@@ -14780,6 +15901,24 @@
     },
     {
       "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 180986,
+      "name": "Take My Breath",
+      "url": "https://open.spotify.com/track/1v4Jh705vsTcn74IMDNa4s"
+    },
+    {
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz"
       },
@@ -14921,6 +16060,24 @@
       "duration_ms": 178186,
       "name": "TANG!\u2661",
       "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
+    },
+    {
+      "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 178680,
+      "name": "Tangerine Love (Favorite)",
+      "url": "https://open.spotify.com/track/3yRdRil3CldYFNS3eYAf1X"
     },
     {
       "album": {
@@ -15073,7 +16230,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 174646,
       "name": "That That (prod. & feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
@@ -15113,7 +16270,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-04",
       "duration_ms": 144933,
       "name": "That's Hilarious",
       "url": "https://open.spotify.com/track/0wPKDeY4fZXT6k9bzV0kx0"
@@ -15185,7 +16342,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-27",
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
@@ -15612,6 +16769,24 @@
     },
     {
       "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 157261,
+      "name": "Tinnitus (Wanna be a rock)",
+      "url": "https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X"
+    },
+    {
+      "album": {
         "name": "To Life",
         "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
       },
@@ -15757,7 +16932,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 174386,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
@@ -15797,6 +16972,24 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "album": {
+        "name": "Trippy",
+        "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207680,
+      "name": "Trippy",
+      "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
     },
     {
       "album": {
@@ -15968,6 +17161,32 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Semi Final",
+        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 208200,
+      "name": "Ugly duckling (Feat. sunwoojunga, BOBBY) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/4CtEpNW39gY6bHWFDfoXKG"
+    },
+    {
+      "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
@@ -15979,10 +17198,32 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": "2022-12-28",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
     },
     {
       "album": {
@@ -16001,7 +17242,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
@@ -16165,7 +17406,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": "2023-01-13",
       "duration_ms": 216280,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5"
@@ -16187,6 +17428,28 @@
       "duration_ms": 194840,
       "name": "VENOM",
       "url": "https://open.spotify.com/track/5VwOAFFqlLikti3l1RJnPz"
+    },
+    {
+      "album": {
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
     },
     {
       "album": {
@@ -16378,6 +17641,24 @@
     },
     {
       "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 215120,
+      "name": "Walk With You",
+      "url": "https://open.spotify.com/track/0ioPVzKGYu2TTbZZ5Wo4Kd"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -16550,6 +17831,44 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 1",
+        "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "toigo",
+          "url": "https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG"
+        },
+        {
+          "name": "J'Kyun",
+          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
+        },
+        {
+          "name": "JAMBINO",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+        },
+        {
+          "name": "XINSAYNE",
+          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-12",
+      "duration_ms": 265252,
+      "name": "WE (Feat. Jay Park) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -16587,6 +17906,48 @@
       "duration_ms": 175946,
       "name": "WE GO",
       "url": "https://open.spotify.com/track/08T4C8obLBuhwzJiYWBVRT"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 1",
+        "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "Polodared",
+          "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
+        },
+        {
+          "name": "Chillin Homie",
+          "url": "https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM"
+        },
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 322173,
+      "name": "We Higher (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/6tgVI8jFmgbCUhxxyCt2yD"
     },
     {
       "album": {
@@ -16695,6 +18056,42 @@
       "duration_ms": 178153,
       "name": "What\u2019s Next",
       "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "album": {
+        "name": "MOVE AGAIN (Japan Special Edition)",
+        "url": "https://open.spotify.com/album/25hgAAeE86W8cEH7s4osl6"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 178360,
+      "name": "WHEN I MOVE",
+      "url": "https://open.spotify.com/track/5xHVCtel1AeJTaK3mS8UDf"
+    },
+    {
+      "album": {
+        "name": "MOVE AGAIN",
+        "url": "https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 178360,
+      "name": "WHEN I MOVE",
+      "url": "https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC"
     },
     {
       "album": {
@@ -16824,6 +18221,46 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 273499,
+      "name": "Wild Flower (with youjeen)",
+      "url": "https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Youjeen",
+          "url": "https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273499,
+      "name": "Wild Flower (with youjeen)",
+      "url": "https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
       },
@@ -16875,7 +18312,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
@@ -17283,7 +18720,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": "2022-12-27",
       "duration_ms": 156773,
       "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"
@@ -17420,6 +18857,24 @@
     },
     {
       "album": {
+        "name": "yours",
+        "url": "https://open.spotify.com/album/0jHd7ZpKA9tjCWcGq8jAHF"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 165229,
+      "name": "yours",
+      "url": "https://open.spotify.com/track/2bU2EvhMM4Z1M1CLJlnZH1"
+    },
+    {
+      "album": {
         "name": "Jirisan (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4"
       },
@@ -17438,6 +18893,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-11",
+      "duration_ms": 233688,
+      "name": "Yun (with Erykah Badu)",
+      "url": "https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R"
+    },
+    {
+      "album": {
         "name": "ZOOM",
         "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
       },
@@ -17453,6 +18926,24 @@
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+    },
+    {
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 184186,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/18OjYSOz2ryc2vLmAeG2de"
     },
     {
       "album": {
@@ -17496,6 +18987,24 @@
     },
     {
       "album": {
+        "name": "\u5de6\u53f3\u76f2",
+        "url": "https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 267103,
+      "name": "\u5de6\u53f3\u76f2",
+      "url": "https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ"
+    },
+    {
+      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
       },
@@ -17511,6 +19020,24 @@
       "duration_ms": 185573,
       "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "\u7b2c\u30bc\u30ed\u611f",
+      "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
     },
     {
       "album": {

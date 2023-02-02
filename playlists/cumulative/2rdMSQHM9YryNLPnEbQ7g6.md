@@ -4,7 +4,7 @@
 
 > A collection to remember and honor the music and life of Joe Cocker.
 
-47 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/3ePw5U6ZnXVZzeYVcGck8X)
+47 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

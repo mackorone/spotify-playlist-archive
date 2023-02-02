@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Lonely The Brave. The essential tracks, all in one playlist.",
   "name": "This Is Lonely The Brave",
-  "published_playlist_ids": [
-    "4Am2nGzT1v1T7bvwT3pcGs"
-  ],
   "tracks": [
     {
       "album": {
@@ -116,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Open Door",
+        "url": "https://open.spotify.com/album/6AzBVVQb8qfA92sPKWljH4"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "Bound",
+      "url": "https://open.spotify.com/track/6jsMPT55Il0q1VfaWaqBhy"
+    },
+    {
+      "album": {
         "name": "The Hope List",
         "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
       },
@@ -127,7 +142,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 216266,
       "name": "Bound",
       "url": "https://open.spotify.com/track/7sySSvITN4b66p0fDZ53bh"
@@ -181,7 +196,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 234800,
       "name": "Chasing Knives",
       "url": "https://open.spotify.com/track/0vVAoUccmbNieQB9YNirV1"
@@ -325,7 +340,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 211840,
       "name": "Dinosaurs",
       "url": "https://open.spotify.com/track/0kNvVLZsEgWBzhfYwboY70"
@@ -638,6 +653,24 @@
     },
     {
       "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69413,
+      "name": "The Day's War",
+      "url": "https://open.spotify.com/track/4hojR5MvY3Ut9h15ueqxvS"
+    },
+    {
+      "album": {
         "name": "The Hope List",
         "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
       },
@@ -747,6 +780,24 @@
     {
       "album": {
         "name": "Diamond Days EP",
+        "url": "https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218533,
+      "name": "Two Heads",
+      "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
+    },
+    {
+      "album": {
+        "name": "Diamond Days EP",
         "url": "https://open.spotify.com/album/70FYVDqcCDDDWrDxosXSfB"
       },
       "artists": [
@@ -757,7 +808,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 218533,
       "name": "Two Heads",
       "url": "https://open.spotify.com/track/4a7J8atRYTomOWzMAJm6UN"

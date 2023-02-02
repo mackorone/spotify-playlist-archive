@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-36 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/6e5RDA21o0H1NgbL33DXgN)
+36 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

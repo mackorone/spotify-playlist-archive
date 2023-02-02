@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-18",
   "description": "This is Quicksand. The essential tracks, all in one playlist.",
   "name": "This Is Quicksand",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -258,6 +257,32 @@
     },
     {
       "album": {
+        "name": "Holy Dub (Hallowed Be Thy Name)",
+        "url": "https://open.spotify.com/album/2fQxNB6cAEwzIrpvbkOlwW"
+      },
+      "artists": [
+        {
+          "name": "New Age Doom",
+          "url": "https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni"
+        },
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223943,
+      "name": "Holy Dub (Hallowed Be Thy Name)",
+      "url": "https://open.spotify.com/track/5WMjstig44rt0AbrlhLeMH"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S"
       },
@@ -341,7 +366,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 155294,
       "name": "Katakana",
       "url": "https://open.spotify.com/track/32BYPMEddd8a8LXToTelRw"
@@ -453,6 +478,24 @@
       "duration_ms": 153226,
       "name": "Omission",
       "url": "https://open.spotify.com/track/7ckA1e9ERiVGLj9pKYivO0"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214920,
+      "name": "Phase 90",
+      "url": "https://open.spotify.com/track/0o5YYTNfafNubrZ4JyBe3X"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Gather your friends for the cherished ritual that is brunch. If not for the pomo irony, then for the endless hibiscus lavender mimosas.",
   "name": "Boozy Brunch",
-  "published_playlist_ids": [
-    "77F99slL8XuYqo0FuKXNMN"
-  ],
   "tracks": [
     {
       "album": {
@@ -261,6 +258,24 @@
       "duration_ms": 171493,
       "name": "Biloxi",
       "url": "https://open.spotify.com/track/0usEptA5JIPH91TzfJgwuS"
+    },
+    {
+      "album": {
+        "name": "Heart Like a Levee",
+        "url": "https://open.spotify.com/album/6LX8I9Fawu1RqXHgFbcgBo"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171493,
+      "name": "Biloxi",
+      "url": "https://open.spotify.com/track/64K5tnMgCe8IDouGq9NOda"
     },
     {
       "album": {
@@ -799,12 +814,12 @@
           "url": "https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO"
         },
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
           "name": "Conor Oberst",
           "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
       "date_added": "2019-06-07",
@@ -1123,7 +1138,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 232186,
       "name": "Hands on You",
       "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
@@ -1189,7 +1204,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
@@ -1211,6 +1226,24 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
+    },
+    {
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "album": {
@@ -3043,7 +3076,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-16",
       "duration_ms": 188000,
       "name": "Whiskey Trip",
       "url": "https://open.spotify.com/track/4izowlxQFW0BUzukGGerm4"

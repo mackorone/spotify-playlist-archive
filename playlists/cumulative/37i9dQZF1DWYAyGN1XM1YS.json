@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Back to the golden age of emo. Cover: Thursday",
+  "description": "Back to the golden age of emo. Cover: Weezer",
   "name": "mEMOries",
-  "published_playlist_ids": [
-    "2OcBf1DX0Haz6eQXJ4V6dg"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 245560,
       "name": "A Lull In Traffic",
       "url": "https://open.spotify.com/track/2HmdQtNJDraTM9JNQCXC0K"
@@ -404,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172600,
+      "name": "Getchoo",
+      "url": "https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK"
+    },
+    {
+      "album": {
         "name": "Yank Crime",
         "url": "https://open.spotify.com/album/7AHbaRIYnilUwe981nZpmi"
       },
@@ -455,6 +470,24 @@
       "duration_ms": 325520,
       "name": "Grace Kelly With Wings",
       "url": "https://open.spotify.com/track/3LTwneFzQwPFSI1O8QfNXf"
+    },
+    {
+      "album": {
+        "name": "The Gloria Record",
+        "url": "https://open.spotify.com/album/4xfddyCrChAJ6weLGd7sih"
+      },
+      "artists": [
+        {
+          "name": "The Gloria Record",
+          "url": "https://open.spotify.com/artist/0gYSiuHXa3SjZA45d6AU0U"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270040,
+      "name": "Grace, The Snow Is Here",
+      "url": "https://open.spotify.com/track/2rUZQAHtHdEczOy4SvCZv4"
     },
     {
       "album": {
@@ -566,7 +599,7 @@
     },
     {
       "album": {
-        "name": "Frame and Canvas",
+        "name": "Frame & Canvas",
         "url": "https://open.spotify.com/album/4WBDw3hnJTvWXXDaCNKVqJ"
       },
       "artists": [
@@ -620,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/0t4i21CD8Z0p8iQnojCvxX"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/5Lzz2tZ2hKO8PDslKBQgZL"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157760,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/6OnsOlASiHq1voOtTL1FRu"
+    },
+    {
+      "album": {
         "name": "Soon",
         "url": "https://open.spotify.com/album/2ripjHj9gBOBakmPftt58S"
       },
@@ -631,7 +682,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 136266,
       "name": "Mother Mary",
       "url": "https://open.spotify.com/track/37loR0ac9T655PNfPIpHmA"
@@ -649,7 +700,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 288066,
       "name": "Napoleon Solo",
       "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
@@ -962,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Sorry About Tomorrow",
+        "url": "https://open.spotify.com/album/6fYGFmyMFVEZvS7F95lLD2"
+      },
+      "artists": [
+        {
+          "name": "Hot Rod Circuit",
+          "url": "https://open.spotify.com/artist/209McJAEbNbvQXsnuNJZJw"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157093,
+      "name": "The Pharmacist",
+      "url": "https://open.spotify.com/track/0KclZLYgFPkj4K2bTlPCHF"
+    },
+    {
+      "album": {
         "name": "The Medicine",
         "url": "https://open.spotify.com/album/4EryTp8PVe5XFM9wrIw26m"
       },
@@ -1016,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 181706,
+      "name": "Tired Of Sex",
+      "url": "https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct"
+    },
+    {
+      "album": {
         "name": "United By Fate",
         "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
       },
@@ -1027,7 +1114,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 167400,
       "name": "Travel By Telephone",
       "url": "https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Hot noise for summer days.",
   "name": "Summer Rock",
-  "published_playlist_ids": [
-    "5zEkm1jh8QhoO6jxa8ICRU"
-  ],
   "tracks": [
     {
       "album": {
@@ -397,7 +394,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 211701,
       "name": "CHEMICALS",
       "url": "https://open.spotify.com/track/1zMAaHzTsJ4Q75R2wVLQut"
@@ -523,7 +520,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 197493,
       "name": "Crushed Velvet",
       "url": "https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm"
@@ -1414,6 +1411,28 @@
     },
     {
       "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        },
+        {
+          "name": "Joe Talbot",
+          "url": "https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164485,
+      "name": "My Town",
+      "url": "https://open.spotify.com/track/5GgWSPOy9j3vbcfXmUTbA7"
+    },
+    {
+      "album": {
         "name": "My Town (feat. Joe Talbot)",
         "url": "https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy"
       },
@@ -1429,7 +1448,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 164485,
       "name": "My Town (feat. Joe Talbot)",
       "url": "https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye"
@@ -1826,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "RITUALS",
+        "url": "https://open.spotify.com/album/62cKkFUbbmw5lx2XK17KEJ"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207010,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/5RuV11hkZ75dXUhglEKA9F"
+    },
+    {
+      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/6FR6YOqNeAqXbtVVMMi9Ud"
       },
@@ -1921,6 +1958,24 @@
       "duration_ms": 216000,
       "name": "Still Running (5K) (feat.DJ Lethal)",
       "url": "https://open.spotify.com/track/0ZVEWpBhZ5sJKD5ZWn8ieG"
+    },
+    {
+      "album": {
+        "name": "VI",
+        "url": "https://open.spotify.com/album/7ttrc4ughOmz3dWMkpIrQv"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "Straight to My Head",
+      "url": "https://open.spotify.com/track/0J870c2hR9AjjtQsZh42iI"
     },
     {
       "album": {
@@ -2025,7 +2080,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-16",
       "duration_ms": 181978,
       "name": "Summer Never Dies",
       "url": "https://open.spotify.com/track/7ppyG40pUDh915fSp4qqBo"
@@ -2235,6 +2290,24 @@
     {
       "album": {
         "name": "This is Our Life",
+        "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224306,
+      "name": "This is Our Life",
+      "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
+    },
+    {
+      "album": {
+        "name": "This is Our Life",
         "url": "https://open.spotify.com/album/0dQPaO9I1hRzDwe2RePxFR"
       },
       "artists": [
@@ -2263,7 +2336,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6"
@@ -2389,7 +2462,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 216547,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2VSTOiCySVABw6AzuIDK2F"
@@ -2411,6 +2484,24 @@
       "duration_ms": 216547,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4h29sbk9D6LsjFPrOw6CZn"
+    },
+    {
+      "album": {
+        "name": "American Bollywood",
+        "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216547,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL"
     },
     {
       "album": {

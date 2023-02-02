@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Soft, smoky undertones of singer-songwriter sounds give way to lingering notes of rich, earthy chamber folk. Cover: Glen Hansard.",
   "name": "Folk Feast",
-  "published_playlist_ids": [
-    "2Hethr1BcIJ6J3upAu0u4u"
-  ],
   "tracks": [
     {
       "album": {
@@ -455,7 +452,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 235640,
       "name": "Boys",
       "url": "https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR"
@@ -883,7 +880,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/3NLm801woJocONz1NmPJZR"
@@ -1113,7 +1110,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201936,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
@@ -1153,6 +1150,24 @@
       "duration_ms": 231706,
       "name": "El B\u00faho",
       "url": "https://open.spotify.com/track/56YTfwdpf1agjjowWOsi8W"
+    },
+    {
+      "album": {
+        "name": "Stoalin'",
+        "url": "https://open.spotify.com/album/6zr5naI1knY0SDRSFLq2Ws"
+      },
+      "artists": [
+        {
+          "name": "Isbells",
+          "url": "https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210573,
+      "name": "Elation",
+      "url": "https://open.spotify.com/track/4EKvUdkxSYrCNxvjjrFGoo"
     },
     {
       "album": {
@@ -3077,7 +3092,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-21",
       "duration_ms": 271000,
       "name": "Strange American Dream",
       "url": "https://open.spotify.com/track/47gcxX5MdXuh57rXYFCkLh"
@@ -3589,7 +3604,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 223613,
       "name": "This Sweet Love",
       "url": "https://open.spotify.com/track/1aPIOiggxmM2pjDBky1HIo"
@@ -4109,7 +4124,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 208573,
       "name": "Wild Blue Wind",
       "url": "https://open.spotify.com/track/4B5KrJ7KVVIH6xCGPrZxd5"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Elevate the moment and unwind with the lush sounds of these ethereal tracks.",
   "name": "Lush + Ethereal",
-  "published_playlist_ids": [
-    "2sqAkZ7irgoKucdGgQUB0Y"
-  ],
   "tracks": [
     {
       "album": {
@@ -662,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Dark Reflection",
+        "url": "https://open.spotify.com/album/4owCDcV0Y7w6BmKxnZ9DkP"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krauter",
+          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260153,
+      "name": "Dark Reflection",
+      "url": "https://open.spotify.com/track/2XMvL8Bjeq5VUzZgFJE56D"
+    },
+    {
+      "album": {
         "name": "Welcome Home",
         "url": "https://open.spotify.com/album/2EfMonuPPufarxkmaLwvxC"
       },
@@ -869,7 +884,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 272172,
       "name": "Faux",
       "url": "https://open.spotify.com/track/0d9UAfLZnNNKhr5zUd9nfv"
@@ -895,6 +910,32 @@
       "duration_ms": 272172,
       "name": "Faux",
       "url": "https://open.spotify.com/track/5c3mx1oOkT5ynQ4MpK1ul1"
+    },
+    {
+      "album": {
+        "name": "Faux",
+        "url": "https://open.spotify.com/album/6EJzOOCPJqYWXpu0Gfn1oy"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        },
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        },
+        {
+          "name": "Ed Tullett",
+          "url": "https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272172,
+      "name": "Faux",
+      "url": "https://open.spotify.com/track/6SxnGpJwsNO78aJnAzOHXz"
     },
     {
       "album": {
@@ -1215,10 +1256,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 189426,
       "name": "Golden",
       "url": "https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
     },
     {
       "album": {
@@ -1521,10 +1580,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 203911,
       "name": "I Wanted to Leave",
       "url": "https://open.spotify.com/track/2Tq3fayHpjP2nOZlBEjt3N"
+    },
+    {
+      "album": {
+        "name": "I Wanted to Leave (Sitar Version)",
+        "url": "https://open.spotify.com/album/5MiRZqeTOp7PqdgoTFwEav"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203911,
+      "name": "I Wanted to Leave",
+      "url": "https://open.spotify.com/track/61iGwqhbDwkXanVo5LwJyF"
     },
     {
       "album": {
@@ -2103,10 +2180,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 152333,
       "name": "Petals",
       "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
+    },
+    {
+      "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
     },
     {
       "album": {
@@ -2651,7 +2746,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 199634,
       "name": "Tayrona (feat. Wilsen)",
       "url": "https://open.spotify.com/track/2Sxt4EK2LAElVzvMl6POvI"
@@ -2681,6 +2776,28 @@
       "duration_ms": 207841,
       "name": "Tayrona (feat. Wilsen) [Henry Green Rework]",
       "url": "https://open.spotify.com/track/4PgKJq4xGJt7KBRxgV96ZU"
+    },
+    {
+      "album": {
+        "name": "Tayrona EP",
+        "url": "https://open.spotify.com/album/2uSzewIo6qfL1tckQjYf6n"
+      },
+      "artists": [
+        {
+          "name": "Mt. Wolf",
+          "url": "https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z"
+        },
+        {
+          "name": "Wilsen",
+          "url": "https://open.spotify.com/artist/4aiyHXUEJDuoEBjnwjR2LZ"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199634,
+      "name": "Tayrona - feat. Wilsen",
+      "url": "https://open.spotify.com/track/5gLoLe0c3VRr3I9NyPuXdC"
     },
     {
       "album": {

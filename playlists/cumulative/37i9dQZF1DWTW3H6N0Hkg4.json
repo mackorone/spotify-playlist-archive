@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-09",
   "description": "Cumbias de anta\u00f1o para bailar.",
   "name": "Cumbias Viejitas",
-  "published_playlist_ids": [
-    "2fhHhOwZ66lJ05RKWGny0t"
-  ],
   "tracks": [
     {
       "album": {
@@ -837,7 +834,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-31",
       "duration_ms": 184972,
       "name": "Cumbia Cienaguera",
       "url": "https://open.spotify.com/track/3uUTp8ivOJPX695AIFBpwj"
@@ -1169,6 +1166,24 @@
       "duration_ms": 281129,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
+    },
+    {
+      "album": {
+        "name": "Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225831,
+      "name": "El Aguajal",
+      "url": "https://open.spotify.com/track/69wiGluawqV442FfP20UXz"
     },
     {
       "album": {
@@ -1933,7 +1948,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 195210,
       "name": "La Banda Borracha",
       "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
@@ -1955,6 +1970,24 @@
       "duration_ms": 228571,
       "name": "La Brujita",
       "url": "https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ"
+    },
+    {
+      "album": {
+        "name": "Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220177,
+      "name": "La Colegiada",
+      "url": "https://open.spotify.com/track/0EYVTuGER9NV3k7FT5oX1E"
     },
     {
       "album": {
@@ -2515,7 +2548,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-21",
       "duration_ms": 162826,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
@@ -2663,7 +2696,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 248373,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
@@ -3017,7 +3050,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 220354,
       "name": "Ojitos Hechiceros",
       "url": "https://open.spotify.com/track/19J8yoEtrBYtCNP9eOBAcz"
@@ -3136,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "La Orquesta de Siempre: Volume 1",
+        "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226373,
+      "name": "Pasito Tun, Tun",
+      "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
+    },
+    {
+      "album": {
         "name": "Los A\u00f1os De Oro - La Orquesta De Siempre",
         "url": "https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz"
       },
@@ -3147,7 +3198,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 226373,
       "name": "Pasito Tun, Tun",
       "url": "https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB"
@@ -3335,6 +3386,24 @@
       "duration_ms": 233613,
       "name": "Porque te Amo",
       "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
+    },
+    {
+      "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
     },
     {
       "album": {
@@ -3710,6 +3779,24 @@
     },
     {
       "album": {
+        "name": "Sensacion Latina",
+        "url": "https://open.spotify.com/album/5Da24tiYjKHIhWSdqxV9cf"
+      },
+      "artists": [
+        {
+          "name": "Yucateco",
+          "url": "https://open.spotify.com/artist/6cWxc7Lnk8MqzVZXiibgWN"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165047,
+      "name": "Sensacion Latina",
+      "url": "https://open.spotify.com/track/1z7YvRwJKKCxzEMLPA2WbL"
+    },
+    {
+      "album": {
         "name": "Silbando",
         "url": "https://open.spotify.com/album/4AOhk71w9BIDc99SEKMj6W"
       },
@@ -3833,7 +3920,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 242918,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/5kyyzquBdNuJis2kVC4GmT"

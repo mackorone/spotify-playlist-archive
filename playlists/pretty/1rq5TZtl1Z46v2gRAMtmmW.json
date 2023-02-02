@@ -1,13 +1,121 @@
 {
   "description": "",
-  "num_followers": 27015,
+  "num_followers": 27269,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzIwNywyZWUzNzIyZjg2NzQ3NTZkMmJlNjNkNjU0NzRmZGI0Y2Q0M2ExMmFm",
+  "snapshot_id": "MzIyNSwxMmY4NGY1YzkyYWE5MDdlMjM1NTUxYzQ3NTc4MzQwODQ0ODA2OTMx",
   "tracks": [
+    {
+      "added_at": "2023-01-24 14:47:46",
+      "album": {
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 335383,
+      "name": "Fold",
+      "url": "https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG"
+    },
+    {
+      "added_at": "2023-01-20 12:09:33",
+      "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/17RXzKiPyfV4Ud7ii1atEP"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Artadi",
+          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
+        }
+      ],
+      "duration_ms": 206662,
+      "name": "Visionary",
+      "url": "https://open.spotify.com/track/1JXAauW28NaabFzWBucAJk"
+    },
+    {
+      "added_at": "2023-01-20 12:09:15",
+      "album": {
+        "name": "Don\u2019t Lose Time",
+        "url": "https://open.spotify.com/album/4LertToXpmjRS34cm3TrUq"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 373802,
+      "name": "Don\u2019t Lose Time",
+      "url": "https://open.spotify.com/track/3I1CfmUZZrLAyYY4zm409Y"
+    },
+    {
+      "added_at": "2023-01-09 19:27:25",
+      "album": {
+        "name": "Rice",
+        "url": "https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
+    },
+    {
+      "added_at": "2023-01-11 18:47:38",
+      "album": {
+        "name": "The Last Goodbye (Hayden James Remix)",
+        "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "The Last Goodbye (feat. Bettye LaVette) - Hayden James Remix",
+      "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
+    },
+    {
+      "added_at": "2022-12-08 01:36:37",
+      "album": {
+        "name": "I Just Want To Love You (Club Version)",
+        "url": "https://open.spotify.com/album/3S948ScIz3AJ0QvPcXF9C6"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 304990,
+      "name": "I Just Want To Love You - Club Version",
+      "url": "https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk"
+    },
     {
       "added_at": "2022-11-17 19:43:21",
       "album": {
@@ -157,22 +265,6 @@
       "url": "https://open.spotify.com/track/3gIrjqnZpDkChCsPqTLHF9"
     },
     {
-      "added_at": "2022-10-31 23:58:20",
-      "album": {
-        "name": "What We Do For Others",
-        "url": "https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR"
-      },
-      "artists": [
-        {
-          "name": "Dorian Concept",
-          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
-        }
-      ],
-      "duration_ms": 203505,
-      "name": "Not You Anymore",
-      "url": "https://open.spotify.com/track/0uRlksJ4Cv20KK0nYuzLxR"
-    },
-    {
       "added_at": "2022-10-12 15:59:51",
       "album": {
         "name": "Dream",
@@ -219,26 +311,6 @@
       "duration_ms": 281041,
       "name": "Not - BBC Radio 1 Session",
       "url": "https://open.spotify.com/track/70jr15kpcFlZAyJ8hotjIg"
-    },
-    {
-      "added_at": "2022-10-21 16:43:02",
-      "album": {
-        "name": "Shimmer",
-        "url": "https://open.spotify.com/album/5J9PhCTsvguuCAEMnxlagY"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        },
-        {
-          "name": "Frazer Ray",
-          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
-        }
-      ],
-      "duration_ms": 320009,
-      "name": "Troopa",
-      "url": "https://open.spotify.com/track/0wrBjtMrRznJgK92WFsA7e"
     },
     {
       "added_at": "2022-10-14 18:23:51",
@@ -387,38 +459,6 @@
       "duration_ms": 277432,
       "name": "Dancing In The Shadows",
       "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
-    },
-    {
-      "added_at": "2022-09-16 19:22:02",
-      "album": {
-        "name": "MOSQUITO",
-        "url": "https://open.spotify.com/album/4Kn8Km3RZWAM7LfK3bfrKK"
-      },
-      "artists": [
-        {
-          "name": "LYZZA",
-          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Blush Me Out!",
-      "url": "https://open.spotify.com/track/7At2LwoalVOj9MY9GH1EST"
-    },
-    {
-      "added_at": "2022-08-25 16:34:57",
-      "album": {
-        "name": "Body Mind Hell",
-        "url": "https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd"
-      },
-      "artists": [
-        {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
-        }
-      ],
-      "duration_ms": 164071,
-      "name": "Body Mind Hell",
-      "url": "https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq"
     },
     {
       "added_at": "2022-08-24 17:18:03",
@@ -659,38 +699,6 @@
       "duration_ms": 273844,
       "name": "Lost Island",
       "url": "https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr"
-    },
-    {
-      "added_at": "2022-03-09 12:04:10",
-      "album": {
-        "name": "Vocoder",
-        "url": "https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 455000,
-      "name": "Vocoder",
-      "url": "https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD"
-    },
-    {
-      "added_at": "2022-01-14 12:41:04",
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 342053,
-      "name": "Age of Phase",
-      "url": "https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

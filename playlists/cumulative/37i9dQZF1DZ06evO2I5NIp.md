@@ -4,7 +4,7 @@
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-74 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/2sgp57SR3g5DZ4v54uUY9H)
+75 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,13 +36,13 @@
 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/5vYM0NGLtGNidLnC34Ij4L) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 4:21 | 2022-08-05 |  |
 | [In The Blood Of The Blues](https://open.spotify.com/track/6ZmqDRKnUzyS1L3Df2BrRk) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:52 | 2022-08-05 |  |
 | [Isn't That So](https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:17 | 2022-08-24 |  |
-| [It Don't Hurt No More](https://open.spotify.com/track/0t2oq1DRaeWzX6VQ1fAXeE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 7:05 | 2022-08-05 |  |
+| [It Don't Hurt No More](https://open.spotify.com/track/0t2oq1DRaeWzX6VQ1fAXeE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 7:05 | 2022-08-05 | 2023-01-11 |
 | [It's 2 A.M.](https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:28 | 2022-08-05 |  |
-| [It's My Own Tears](https://open.spotify.com/track/3hEujxmbPHfblaCnUML6ow) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 6:05 | 2022-08-05 | 2022-11-09 |
-| [It's My Own Tears](https://open.spotify.com/track/2ELvEasdfW66obN7sBw1Eb) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blues Ballads](https://open.spotify.com/album/0w9dUoFQIdEZpilkUmBaWA) | 6:06 | 2022-11-08 |  |
-| [Jesus Just Left Chicago](https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:35 | 2022-08-05 | 2022-11-01 |
+| [It's My Own Tears](https://open.spotify.com/track/3hEujxmbPHfblaCnUML6ow) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 6:05 | 2022-08-05 |  |
+| [It's My Own Tears](https://open.spotify.com/track/2ELvEasdfW66obN7sBw1Eb) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blues Ballads](https://open.spotify.com/album/0w9dUoFQIdEZpilkUmBaWA) | 6:06 | 2022-11-08 | 2022-12-08 |
+| [Jesus Just Left Chicago](https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:35 | 2022-08-05 | 2023-02-01 |
 | [Ka\-Ching](https://open.spotify.com/track/7rnvAAyPIh1wUvSHV6VvNS) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:01 | 2022-08-05 |  |
-| [Lemon Pie](https://open.spotify.com/track/1du6ikTuFwWd7QweSi8Nss) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 3:25 | 2022-08-05 | 2022-11-26 |
+| [Lemon Pie](https://open.spotify.com/track/1du6ikTuFwWd7QweSi8Nss) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 3:25 | 2022-08-05 | 2023-02-01 |
 | [Livin' On Love](https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:03 | 2022-08-05 |  |
 | [Long As I Can See The Light](https://open.spotify.com/track/40FfbBZ6mxWBpsg7r1cTFL) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:21 | 2022-08-05 |  |
 | [Love Scene](https://open.spotify.com/track/7LeVZJBczfjJNaDWGcqojf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:10 | 2022-08-05 | 2022-09-11 |
@@ -61,6 +61,7 @@
 | [Smoked Ham And Peaches](https://open.spotify.com/track/0TbFm64bFWwsy2gfhDmfIR) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:35 | 2022-08-21 | 2022-10-11 |
 | [Steamy Windows](https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Funky Blues](https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI) | 5:03 | 2022-08-05 |  |
 | [Such A Pretty Flame](https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:31 | 2022-08-05 |  |
+| [Suspicion](https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:55 | 2023-01-10 |  |
 | [The Battle Is Over \(But The War Goes On\)](https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:53 | 2022-08-05 |  |
 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 | 2022-08-20 |  |
 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 | 2022-08-05 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-30",
   "description": "Bandas legendarias y canciones que hicieron historia. Foto: Los Prisioneros.",
   "name": "Cl\u00e1sicos del Rock",
-  "published_playlist_ids": [
-    "5NxZhJwLIteg0zdOc5RKb1"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 310146,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
@@ -581,7 +578,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-08",
       "duration_ms": 194573,
       "name": "El Duelo",
       "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
@@ -1182,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 236472,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
+    },
+    {
+      "album": {
         "name": "Ni Por La Raz\u00f3n, Ni Por La Fuerza (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/69Zs9jtNOpru1938K1odQi"
       },
@@ -1337,7 +1352,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-20",
       "duration_ms": 288066,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
@@ -1899,7 +1914,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 231800,
       "name": "Sabor a Chocolate",
       "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
@@ -2055,6 +2070,24 @@
     {
       "album": {
         "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
       "artists": [
@@ -2065,7 +2098,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
@@ -2245,7 +2278,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-01",
       "duration_ms": 342520,
       "name": "Triste canci\u00f3n",
       "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"

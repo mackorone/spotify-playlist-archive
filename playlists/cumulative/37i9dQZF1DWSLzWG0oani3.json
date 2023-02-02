@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Suena en el barrio, suena ac\u00e1. Foto: DT.Bilardo",
   "name": "Cumbia 420",
-  "published_playlist_ids": [
-    "08wPNXaQ2kxk28fUrtfLBd"
-  ],
   "tracks": [
     {
       "album": {
@@ -583,6 +580,32 @@
     {
       "album": {
         "name": "EL NOBA | DJ TAO Turreo Sessions #7",
+        "url": "https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129069,
+      "name": "EL NOBA | DJ TAO Turreo Sessions #7",
+      "url": "https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n"
+    },
+    {
+      "album": {
+        "name": "EL NOBA | DJ TAO Turreo Sessions #7",
         "url": "https://open.spotify.com/album/7bQ39IUdJuoNSZYRkJ9xYs"
       },
       "artists": [
@@ -601,10 +624,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 129069,
       "name": "EL NOBA | DJ TAO Turreo Sessions #7",
       "url": "https://open.spotify.com/track/5oLWzTgq6WsZyMF16IiN7R"
+    },
+    {
+      "album": {
+        "name": "EL TIRRI | DJ TAO Turreo Sessions #8",
+        "url": "https://open.spotify.com/album/5CXlDM6yPugcBGn5CPJm3k"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "EL TIRRI | DJ TAO Turreo Sessions #8",
+      "url": "https://open.spotify.com/track/2emaPMbgugJb0EhCVccat7"
     },
     {
       "album": {
@@ -623,7 +668,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 184053,
       "name": "EL TIRRI | DJ TAO Turreo Sessions #8",
       "url": "https://open.spotify.com/track/0HghA8NwsiFcgROYKFjX3W"
@@ -649,6 +694,32 @@
       "duration_ms": 138508,
       "name": "Encapsulado en el Bm",
       "url": "https://open.spotify.com/track/6I0p6Tm3Dmw2g15PMuA5ww"
+    },
+    {
+      "album": {
+        "name": "Fenomenal",
+        "url": "https://open.spotify.com/album/2fFjuvFcpxaUhTDM8zOx3W"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213338,
+      "name": "Fenomenal",
+      "url": "https://open.spotify.com/track/41NSAiKyjasSqJdbGYJ3H3"
     },
     {
       "album": {
@@ -679,6 +750,28 @@
       "duration_ms": 267021,
       "name": "Fiesta Panky",
       "url": "https://open.spotify.com/track/6H2dh3gbmmdtn4dBQmPkJV"
+    },
+    {
+      "album": {
+        "name": "Finochetto",
+        "url": "https://open.spotify.com/album/7bm07KeXWVh2tlZfF5ekR8"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Finochetto",
+      "url": "https://open.spotify.com/track/4ykXVIVKVtuaqhRh3RKNHD"
     },
     {
       "album": {
@@ -825,7 +918,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 130660,
       "name": "LA JOAQUI | DJ TAO Turreo Sessions #6",
       "url": "https://open.spotify.com/track/0IYYVOKk1t7QrCfKmSZZoy"
@@ -851,6 +944,28 @@
       "duration_ms": 130660,
       "name": "LA JOAQUI | DJ TAO Turreo Sessions #6",
       "url": "https://open.spotify.com/track/0h1Cp5qtDPVzarqIsdWdCT"
+    },
+    {
+      "album": {
+        "name": "LA JOAQUI | DJ TAO Turreo Sessions #6",
+        "url": "https://open.spotify.com/album/5fp2cMFps4ctRsi30e8tB6"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130660,
+      "name": "LA JOAQUI | DJ TAO Turreo Sessions #6",
+      "url": "https://open.spotify.com/track/3vfF2yl2si2qoOQsv7DfUk"
     },
     {
       "album": {
@@ -1507,10 +1622,32 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 210461,
       "name": "RAFA PAB\u00d6N | DJ TAO Turreo Session #11",
       "url": "https://open.spotify.com/track/6AXdAALVzq9mV8RJWX20zo"
+    },
+    {
+      "album": {
+        "name": "RAFA PAB\u00d6N | DJ TAO Turreo Sessions #11",
+        "url": "https://open.spotify.com/album/61iQWLPBMdkAQIDMlifGb2"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "RAFA PAB\u00d6N | DJ TAO Turreo Sessions #11",
+      "url": "https://open.spotify.com/track/1DD7LZaZ8UdCOCqRfA8Kb8"
     },
     {
       "album": {
@@ -1674,6 +1811,32 @@
     },
     {
       "album": {
+        "name": "Se Pik\u00f3 El After",
+        "url": "https://open.spotify.com/album/2hkzdGPSximNluKRSlD75G"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Se Pik\u00f3 El After",
+      "url": "https://open.spotify.com/track/4XMnk5JteXlqjvc52OkoTJ"
+    },
+    {
+      "album": {
         "name": "Sembrando el Terror",
         "url": "https://open.spotify.com/album/5JDvh94dBqaSiup6t98ShE"
       },
@@ -1731,6 +1894,40 @@
       "duration_ms": 226666,
       "name": "Sembrando el Terror - Remix",
       "url": "https://open.spotify.com/track/7I8o4jSN5Xf7NLXIfjTuM4"
+    },
+    {
+      "album": {
+        "name": "Ser\u00e1 (feat. Tamara B\u00e1ez & DT.Bilardo)",
+        "url": "https://open.spotify.com/album/2MQZG90FO0qGdhhajfJsc8"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        },
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        },
+        {
+          "name": "Tamara B\u00e1ez",
+          "url": "https://open.spotify.com/artist/0JhK7gnIBytbUEh2PURT8i"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169420,
+      "name": "Ser\u00e1 (feat. Tamara B\u00e1ez & DT.Bilardo)",
+      "url": "https://open.spotify.com/track/6J50I7pW8UQJE8qVT0RSea"
     },
     {
       "album": {

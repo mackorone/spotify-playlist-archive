@@ -4,7 +4,7 @@
 
 > The essential deadmau5 originals and remixes.
 
-86 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/2w4wF0CQhJCYyw7kLz4Y9N)
+86 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

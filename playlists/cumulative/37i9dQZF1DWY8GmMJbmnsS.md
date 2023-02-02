@@ -4,7 +4,7 @@
 
 > All of your classic soul ballads, right here\. Cover: Percy Sledge
 
-75 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/20VzWcV4IPB7T8VIiW5Cwq)
+75 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

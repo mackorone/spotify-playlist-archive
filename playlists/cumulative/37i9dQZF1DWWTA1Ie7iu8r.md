@@ -4,7 +4,7 @@
 
 > Get your creep on with these freaky 'love' songs.
 
-96 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/1CeHWW3TBs23WTaZQc2mAZ)
+96 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

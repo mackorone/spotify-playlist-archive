@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-15",
   "description": "Put your headphones on and enjoy your day.",
   "name": "Headphones on, World Off",
-  "published_playlist_ids": [
-    "5HtQ5iF2YeYyvQtg5eHFJB"
-  ],
   "tracks": [
     {
       "album": {
@@ -661,7 +658,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -672,6 +669,24 @@
       "date_added": "2015-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185109,
+      "name": "Toys In The Attic",
+      "url": "https://open.spotify.com/track/4e4ukCLCov1UYoup2SdRHB"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2015-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 185133,
       "name": "Toys In The Attic",
       "url": "https://open.spotify.com/track/4pj8ElgSWmmy5LT9a7jb0s"

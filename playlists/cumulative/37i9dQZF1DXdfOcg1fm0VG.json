@@ -2,10 +2,29 @@
   "date_first_scraped": "2021-12-21",
   "description": "Double-jump into these legendary video game soundtracks, featuring old favorites and new classics.",
   "name": "Video Game Soundtracks",
-  "published_playlist_ids": [
-    "6QDrYjPydAImw8FyOhDXlM"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Red Dead Redemption Original Soundtrack",
+        "url": "https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK"
+      },
+      "artists": [
+        {
+          "name": "Bill Elm",
+          "url": "https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW"
+        },
+        {
+          "name": "Woody Jackson",
+          "url": "https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338240,
+      "name": "(Theme From) Red Dead Redemption",
+      "url": "https://open.spotify.com/track/4BL3XnXe40ZS2YuRXWS4wX"
+    },
     {
       "album": {
         "name": "Red Dead Redemption Original Soundtrack",
@@ -19,7 +38,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 338240,
       "name": "(Theme From) Red Dead Redemption",
       "url": "https://open.spotify.com/track/2cnhi0n4UMWCXQIEaVjnm5"
@@ -44,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Portal 2: Songs to Test by (Collectors Edition)",
+        "url": "https://open.spotify.com/album/3avDuVP1Ua1QsCXLoSStHb"
+      },
+      "artists": [
+        {
+          "name": "Aperture Science Psychoacoustic Laboratories",
+          "url": "https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "9999999",
+      "url": "https://open.spotify.com/track/7cb5qcpZusQZv5FVnj4sRg"
+    },
+    {
+      "album": {
         "name": "Portal 2: Songs to Test By (Collectors Edition)",
         "url": "https://open.spotify.com/album/5l1BFWphq5XiWlpbYUjrhr"
       },
@@ -55,7 +92,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 192426,
       "name": "9999999",
       "url": "https://open.spotify.com/track/7t0AFyyVYgwXuPRjbhQGph"
@@ -529,6 +566,24 @@
       "duration_ms": 48630,
       "name": "Crash Bandicoot Main Theme",
       "url": "https://open.spotify.com/track/73gyiXLAKUUtX8sAiE2gGV"
+    },
+    {
+      "album": {
+        "name": "The Callisto Protocol (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2TzKa6fZV8syswzob8Sb19"
+      },
+      "artists": [
+        {
+          "name": "Finishing Move Inc.",
+          "url": "https://open.spotify.com/artist/4LI758CRLLaXDPpVScbsEf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213586,
+      "name": "Crash Landing",
+      "url": "https://open.spotify.com/track/4BhtX2RYw9R6Y3ZNWz1DqM"
     },
     {
       "album": {
@@ -2190,6 +2245,76 @@
     },
     {
       "album": {
+        "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
+        "url": "https://open.spotify.com/album/5tOvIY2wdzZdimqejO04nR"
+      },
+      "artists": [
+        {
+          "name": "ZREO: Second Quest",
+          "url": "https://open.spotify.com/artist/05AGytwFyvapQpCCCKxB4t"
+        },
+        {
+          "name": "Ari Fisher",
+          "url": "https://open.spotify.com/artist/07rnY0mvYeyEPmXtxdLtHd"
+        },
+        {
+          "name": "Atlys",
+          "url": "https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg"
+        },
+        {
+          "name": "Shane Cox",
+          "url": "https://open.spotify.com/artist/5lsm7WKhncE6yZ1GSNx7r2"
+        },
+        {
+          "name": "Michael A. Grant",
+          "url": "https://open.spotify.com/artist/5xnLuHlotCjJwv8z20LhWL"
+        },
+        {
+          "name": "Liza Saracina",
+          "url": "https://open.spotify.com/artist/7AsJnHhfKdC6JbayMi7qzc"
+        },
+        {
+          "name": "Scott Hearn",
+          "url": "https://open.spotify.com/artist/1PtqwTpl0i2GpdHQUpva3T"
+        },
+        {
+          "name": "Tim Stoney",
+          "url": "https://open.spotify.com/artist/2XtBCEEXqhJwco6i1md1JD"
+        },
+        {
+          "name": "Meredith Moore",
+          "url": "https://open.spotify.com/artist/2gybYvNWbuooD6nVbvBGKo"
+        },
+        {
+          "name": "Gianluca Cucco",
+          "url": "https://open.spotify.com/artist/6kZCniozPQAf4NaKqRCGF8"
+        },
+        {
+          "name": "Michele Fortunato",
+          "url": "https://open.spotify.com/artist/3pMKETicvcKufM2oIsTP0H"
+        },
+        {
+          "name": "Jennifer Kirby",
+          "url": "https://open.spotify.com/artist/0h81NmXZ2wJ4gW1dF5HEJ0"
+        },
+        {
+          "name": "Davide Bonomo",
+          "url": "https://open.spotify.com/artist/3XdMZPBtkLuVtKubOktgPr"
+        },
+        {
+          "name": "Allison Dettloff",
+          "url": "https://open.spotify.com/artist/0yKCKijZLjUaf91y2xi6UE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376441,
+      "name": "The Great Sea (From \"The Legend of Zelda: The Wind Waker\")",
+      "url": "https://open.spotify.com/track/6QZXrA53z0pp9skkQHKwBa"
+    },
+    {
+      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
       },
@@ -2353,6 +2478,24 @@
     {
       "album": {
         "name": "The Tomb Raider Suite",
+        "url": "https://open.spotify.com/album/6NYHX8GzTK9FYQDbJLmrv0"
+      },
+      "artists": [
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "Tomb Raider Theme",
+      "url": "https://open.spotify.com/track/1BJtsYb9mSh8y9BW6pB71N"
+    },
+    {
+      "album": {
+        "name": "The Tomb Raider Suite",
         "url": "https://open.spotify.com/album/3xfTmsqB82eFdMfKSA9YdH"
       },
       "artists": [
@@ -2363,7 +2506,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 193840,
       "name": "Tomb Raider Theme",
       "url": "https://open.spotify.com/track/2dEmQ9nsLbLaztypZxG78f"

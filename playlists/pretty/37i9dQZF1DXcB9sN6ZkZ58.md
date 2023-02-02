@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,897 likes - 98 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,874 likes - 98 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 | 74 | [Banana](https://open.spotify.com/track/17VG7Iu5vxG9h3XV0ZzX74) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte) | 3:56 |
 | 75 | [C'mon Let's Make A Pizza](https://open.spotify.com/track/6RxCH8C1ZWPgmV5VflTg5Q) | [We Kids Rock](https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT) | [Let The Sun Shine](https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx) | 3:11 |
 | 76 | [Bread Bowl](https://open.spotify.com/track/0NEaL5ls3pfxyKif9EZkVw) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Fast Casual](https://open.spotify.com/album/0nsdGogR0v9D4bHUgfedBL) | 2:27 |
-| 77 | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 |
+| 77 | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 |
 | 78 | [Plain Plate Of Noodles](https://open.spotify.com/track/14PayGOujnGIj6g4oG7v5i) | [Orson Hong](https://open.spotify.com/artist/4fOfG0cFnoMOqoF41egcYh), [The Sack Lunch Bunch](https://open.spotify.com/artist/4m5nO3q3BD6TVa3wsmFiVC) | [John Mulaney & The Sack Lunch Bunch](https://open.spotify.com/album/6voftk1KiRATintCChjvrW) | 2:49 |
 | 79 | [Eat Fruit Every Day](https://open.spotify.com/track/3DhkQDmg8s17XR7JFW1waN) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap 8](https://open.spotify.com/album/66sd4xuoNus5yIx9lFpamV) | 1:39 |
 | 80 | [Baking Cookies](https://open.spotify.com/track/1kH1vKhV9jE74jAs0DyS5f) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap \(In the House\)](https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf) | 1:58 |

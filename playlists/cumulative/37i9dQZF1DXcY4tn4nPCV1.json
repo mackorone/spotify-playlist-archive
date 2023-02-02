@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "A calm, instrumental reading playlist. ",
   "name": "Read & Unwind",
-  "published_playlist_ids": [
-    "1CMYDtTchww5I0POME7JqP"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 160250,
       "name": "Aftontimma",
       "url": "https://open.spotify.com/track/1svRACx5V80ifZCa1xC6DJ"
@@ -318,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Yurusu",
+        "url": "https://open.spotify.com/album/2mE1jjMKmt8gDX54MyHtQo"
+      },
+      "artists": [
+        {
+          "name": "Tim Linghaus",
+          "url": "https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148146,
+      "name": "Banquet for A Boy from the Neighbourhood",
+      "url": "https://open.spotify.com/track/3qP3pv8Gp8ODZeWm2V9bxc"
+    },
+    {
+      "album": {
         "name": "Beauty Of You",
         "url": "https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x"
       },
@@ -405,6 +420,24 @@
       "duration_ms": 160624,
       "name": "Belle Chose",
       "url": "https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY"
+    },
+    {
+      "album": {
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/71ey9Q6ZMIjIbkQV76nqIr"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184335,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/04JrzZqZTMeY5gRY3IH7Pr"
     },
     {
       "album": {
@@ -888,7 +921,7 @@
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 157390,
+      "duration_ms": 156916,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/0QVOz1Ciduo7miwdCMAeRD"
     },
@@ -1773,7 +1806,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 170250,
       "name": "How Soon",
       "url": "https://open.spotify.com/track/3MScOhpysH4pW5PVziEpxS"
@@ -1953,7 +1986,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 152581,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V"
@@ -2266,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Les larmes de l'hiver",
+        "url": "https://open.spotify.com/album/3LxgwHbb6V7joeTWy7ldV5"
+      },
+      "artists": [
+        {
+          "name": "Isaac Boudillet",
+          "url": "https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145162,
+      "name": "Les larmes de l'hiver",
+      "url": "https://open.spotify.com/track/5OVinfTbBTJn2cErpyhl4F"
+    },
+    {
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/1l3v5h34S4SMNKFblH6pkr"
       },
@@ -2374,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "Lydian Fairytale",
+        "url": "https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105786,
+      "name": "Lydian Fairytale",
+      "url": "https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i"
+    },
+    {
+      "album": {
         "name": "guardian & magic",
         "url": "https://open.spotify.com/album/4RiiB4I0Rd4W3oPX2rcCah"
       },
@@ -2475,7 +2544,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 182500,
       "name": "Mare\u0301e",
       "url": "https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD"
@@ -2663,6 +2732,24 @@
       "duration_ms": 213066,
       "name": "Moment of Silence",
       "url": "https://open.spotify.com/track/5bAeFY9aWmcu0PKqDfUNgc"
+    },
+    {
+      "album": {
+        "name": "moments",
+        "url": "https://open.spotify.com/album/6DwFhIUkHBf6SW7p8nFhwo"
+      },
+      "artists": [
+        {
+          "name": "Novum Cordis",
+          "url": "https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "moments",
+      "url": "https://open.spotify.com/track/4VFCYji2KWLkBgPyVStKT0"
     },
     {
       "album": {
@@ -2990,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "November Birdie",
+        "url": "https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ"
+      },
+      "artists": [
+        {
+          "name": "El Pianista Manco",
+          "url": "https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162178,
+      "name": "November Birdie",
+      "url": "https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt"
+    },
+    {
+      "album": {
         "name": "N\u00e1dhern\u00fd de\u0148",
         "url": "https://open.spotify.com/album/5ZcPS7zyjR9emfCmPajYYI"
       },
@@ -3109,7 +3214,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 214124,
       "name": "Ornaments",
       "url": "https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI"
@@ -3296,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "Picturesque",
+        "url": "https://open.spotify.com/album/41FZx9BHA6721zRbYjVtsI"
+      },
+      "artists": [
+        {
+          "name": "Megan Wofford",
+          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160285,
+      "name": "Picturesque",
+      "url": "https://open.spotify.com/track/5hJplIKy4SJw5z3UGozP4Q"
+    },
+    {
+      "album": {
         "name": "Piha",
         "url": "https://open.spotify.com/album/15RupUZmdLHRPgUX5PCAdf"
       },
@@ -3383,6 +3506,24 @@
       "duration_ms": 169500,
       "name": "Pure Joy",
       "url": "https://open.spotify.com/track/3CyDX1BeiOFbTcgnPijESa"
+    },
+    {
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101825,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k"
     },
     {
       "album": {
@@ -3656,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "Khione",
+        "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179768,
+      "name": "Ruise\u00f1or",
+      "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
+    },
+    {
+      "album": {
         "name": "R\u00f8gsl\u00f8r",
         "url": "https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN"
       },
@@ -3725,6 +3884,24 @@
       "duration_ms": 156500,
       "name": "Sanpo",
       "url": "https://open.spotify.com/track/07lePWIMzKuTsvkTtTVQhW"
+    },
+    {
+      "album": {
+        "name": "Satnam",
+        "url": "https://open.spotify.com/album/4MZPC36fdwtJlnvFdI5H64"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Keys",
+          "url": "https://open.spotify.com/artist/1hwg5trEAbDiMWVaV0jhpq"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134506,
+      "name": "Satnam",
+      "url": "https://open.spotify.com/track/3jc3XuSYXCSxjnQBx9gP1z"
     },
     {
       "album": {
@@ -3962,6 +4139,24 @@
     },
     {
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/7FgWxjsFY2iaboS6cEd1r2"
+      },
+      "artists": [
+        {
+          "name": "Richard Sauzal",
+          "url": "https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99474,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/2rcfgubkSTNwpNIpURgTmx"
+    },
+    {
+      "album": {
         "name": "Divisio",
         "url": "https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34"
       },
@@ -4085,6 +4280,24 @@
       "duration_ms": 135250,
       "name": "Sol",
       "url": "https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C"
+    },
+    {
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB"
+      },
+      "artists": [
+        {
+          "name": "Claire Lerdier",
+          "url": "https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
     },
     {
       "album": {
@@ -4214,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "Wolken Traum",
+        "url": "https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Schulmann",
+          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152690,
+      "name": "Sternennacht",
+      "url": "https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye"
+    },
+    {
+      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/2cithPsoePBPykDtE8zWao"
       },
@@ -4229,6 +4460,24 @@
       "duration_ms": 206500,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg"
+    },
+    {
+      "album": {
+        "name": "Sunday breeze",
+        "url": "https://open.spotify.com/album/31KA9JmcgGuefqDeQXak52"
+      },
+      "artists": [
+        {
+          "name": "Volker Anderson",
+          "url": "https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98250,
+      "name": "Sunday breeze",
+      "url": "https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN"
     },
     {
       "album": {
@@ -4261,7 +4510,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 162624,
       "name": "Sunset Aglow",
       "url": "https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ"
@@ -4391,7 +4640,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 117391,
       "name": "The Crossing (Revisited)",
       "url": "https://open.spotify.com/track/2aLM9O5Gz5X758xYkgpSC6"
@@ -4812,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "T\u00f4t le matin",
+        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
+      },
+      "artists": [
+        {
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130889,
+      "name": "T\u00f4t le matin",
+      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
+    },
+    {
+      "album": {
         "name": "Un Lent Mouvement",
         "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
       },
@@ -4827,6 +5094,24 @@
       "duration_ms": 161624,
       "name": "Un Lent Mouvement",
       "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
+    },
+    {
+      "album": {
+        "name": "Une main tendue",
+        "url": "https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Aubin",
+          "url": "https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121299,
+      "name": "Une main tendue",
+      "url": "https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima"
     },
     {
       "album": {

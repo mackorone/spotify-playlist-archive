@@ -4,7 +4,7 @@
 
 > Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.
 
-32 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/1WjMWUQOKKw29fz69hwFQh)
+34 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,10 @@
 | [Goodnight, Sweetheart, Goodnight](https://open.spotify.com/track/4XYtukhmv6PgESSHm3hS3K) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Rock 'N' Roll Legend: The Spaniels](https://open.spotify.com/album/00WsL2je7cpiwFjt44JxaP) | 2:40 | 2021-05-06 | 2022-07-29 |
 | [Goodnite Sweetheart, Goodnite](https://open.spotify.com/track/7yb15rQiMlaiGbrKfECOEI) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [Doo Wop Pops \(Volume One\)](https://open.spotify.com/album/4wfRpsosy07okdHKP4gddi) | 2:40 | 2021-05-06 | 2022-11-13 |
 | [Hold On, Be Strong](https://open.spotify.com/track/7g8S0N45Tkp7yE1WEWRwyu) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 1:12 | 2021-05-06 |  |
+| [Iconoteca](https://open.spotify.com/track/05nLdp35XZU72bD5fRQMmn) | [Rino de Filippi](https://open.spotify.com/artist/6chjBsgCUvgk03POtYqekx) | [French Riviera](https://open.spotify.com/album/1zGjmNUUwgqkHDDKdQxunV) | 3:35 | 2021-05-06 |  |
 | [Iconoteca](https://open.spotify.com/track/533MyzSJnuD7hQ3Rg6LtOu) | [Rino De Filippi](https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0) | [French Riviera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JfyQdgonnrK4t6qPYpctt) | 3:35 | 2021-05-06 | 2022-07-29 |
-| [Iconoteca](https://open.spotify.com/track/7xpKSrGAp1ZpX84Ui6Gc67) | [Rino De Filippi](https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0) | [French Riviera \(Edited Version\)](https://open.spotify.com/album/1DiOn1vpniiSJW8uqo6M45) | 3:35 | 2021-05-06 |  |
+| [Iconoteca](https://open.spotify.com/track/5bodSQgtwaw2Gb6l6qvdxz) | [Rino De Filippi](https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0) | [French Riviera \(Edited Version\)](https://open.spotify.com/album/5KTcW3YNUr91ErOnULC9tI) | 3:35 | 2021-05-06 | 2023-01-30 |
+| [Iconoteca](https://open.spotify.com/track/7xpKSrGAp1ZpX84Ui6Gc67) | [Rino De Filippi](https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0) | [French Riviera \(Edited Version\)](https://open.spotify.com/album/1DiOn1vpniiSJW8uqo6M45) | 3:35 | 2021-05-06 | 2023-01-11 |
 | [Méditation Des Enfants](https://open.spotify.com/track/3wRs0OVDfZU0Hs4Jw7A2xh) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 1:33 | 2021-05-06 |  |
 | [Olélé moliba makasi](https://open.spotify.com/track/0GOVrPqk9SXO1ap6LDH9q2) | [Jean\-Marie Bolangassa](https://open.spotify.com/artist/5EYMCZHZySno9oBjAYcHYz) | [Comptines pour chanter l'Afrique](https://open.spotify.com/album/4Y5OKDlEAT0B9h6JywQix2) | 2:12 | 2021-05-06 |  |
 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 | 2021-05-06 |  |

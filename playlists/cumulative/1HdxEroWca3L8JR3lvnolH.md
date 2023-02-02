@@ -4,7 +4,7 @@
 
 > Visit <a href="http://artistsden.com/zacbrownband">ArtistsDen.com</a> to win tickets to see Zac Brown Band this summer and head to <a href="https://open.spotify.com/show/5d0QhqhbJVt4YRORde0yR8">Spotify Mobile</a> to watch clips of their incredible Artists Den show.
 
-16 songs - 1 hr 1 min - [published](https://open.spotify.com/playlist/78QhwJXyaTHY0jdThz2lFp)
+16 songs - 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

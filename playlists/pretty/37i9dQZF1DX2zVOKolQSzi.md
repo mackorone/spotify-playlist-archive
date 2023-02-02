@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,088 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,924 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 6 | [Colorful Midst](https://open.spotify.com/track/6PbY8O3q4hKwTZcsqmo5ba) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [The Main Squeeze](https://open.spotify.com/album/01rFrRHFCxVOpb4SympYlU) | 4:10 |
 | 7 | [Time For Love](https://open.spotify.com/track/7EzkFnIt0pJ420BqhcyZ6W) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 3:34 |
 | 8 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 |
-| 9 | [Shake It On](https://open.spotify.com/track/4bL5GNTF2zw5WyEle7irMf) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 5:14 |
-| 10 | [Gust of Wind](https://open.spotify.com/track/5m6F6glTwHhsolaKD0gGu0) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 4:45 |
-| 11 | [How It's Done](https://open.spotify.com/track/0XxsJxPcByLfVphUM2QzCw) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Together](https://open.spotify.com/album/3OYfshPEbKYN8aYZfIk9XW) | 4:41 |
+| 9 | [How It's Done](https://open.spotify.com/track/0XxsJxPcByLfVphUM2QzCw) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Together](https://open.spotify.com/album/3OYfshPEbKYN8aYZfIk9XW) | 4:41 |
+| 10 | [Shake It On](https://open.spotify.com/track/4bL5GNTF2zw5WyEle7irMf) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Automaton](https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0) | 5:14 |
+| 11 | [Gust of Wind](https://open.spotify.com/track/5m6F6glTwHhsolaKD0gGu0) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 4:45 |
 | 12 | [Jam On](https://open.spotify.com/track/1ePjiM953NQc7FfRTNjxsq) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth) | [The Power of the One](https://open.spotify.com/album/0HiqFidTpNyPKiaW8B0lwg) | 5:02 |
 | 13 | [She's On Fire](https://open.spotify.com/track/3Ln02VKgVQ4evdnm86gPJJ) | [Bo Saris](https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l) | [Gold](https://open.spotify.com/album/1fvAt6txgwrzz0ULXhARpT) | 2:53 |
 | 14 | [Funk Ain't Ova](https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 3:51 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 39 | [Roller Coaster](https://open.spotify.com/track/0Vp9U635pdoAUnpY1tIeow) | [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Loopified \(Deluxe Edition\)](https://open.spotify.com/album/6j7dPFEVXUIavRWKyuamlu) | 3:34 |
 | 40 | [Ric Flair](https://open.spotify.com/track/2ThDKh9TW5xICXsM5qFP65) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Tom McGuire & the Brassholes](https://open.spotify.com/album/4u2sxYAvSd3UQnRlQPSOT6) | 4:16 |
 | 41 | [Do U Want It?](https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4) | [Papa Grows Funk](https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q) | [Needle in the Groove](https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4) | 4:50 |
-| 42 | [Come on with the Good Thing](https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music for Robots](https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc) | 5:19 |
+| 42 | [Come on with the Good Thing](https://open.spotify.com/track/7z4eAMrP1KnLXdulAjER41) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Come on with the Good Thing](https://open.spotify.com/album/0bL75fPbxNsM0gBQpYxM2F) | 5:19 |
 | 43 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 |
 | 44 | [Leather Tramp](https://open.spotify.com/track/4eE8oY58qNnSonXWTApsqP) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Bedrock](https://open.spotify.com/album/7BfW6qexlu1FanMNnCdoUb) | 5:51 |
 | 45 | [Du\-Vibrations](https://open.spotify.com/track/0uv5Ypi8uZeQAljcUkUhhn) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Du\-Vibrations](https://open.spotify.com/album/6tg0wj5eMhCIAP67kQZ7Q2) | 2:55 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zVOKolQSzi.md) - [plain]
 | 72 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 73 | [It's Gonna Rain](https://open.spotify.com/track/58gPIRzKQteZDwUQKQAj0q) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 5:07 |
 
-Snapshot ID: `MTY2NDUzMzIwMCwwMDAwMDAwMDFjNDFmNDA5MTBlZTY1OTNkMjQyNTk0ZGUyZTA1YzM2`
+Snapshot ID: `MTY3MTAyNzc0OCwwMDAwMDAwMGRiNGU1YjZlOTE1NDA0ZDI0ZTRhNDdjN2YzNTVhZTE5`

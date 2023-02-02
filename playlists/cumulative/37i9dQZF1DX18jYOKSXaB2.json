@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "consider this an RSVP to littest wedding parties ",
   "name": "Small Chops ",
-  "published_playlist_ids": [
-    "0bSPCUxLrbY58psnl7ryQ1"
-  ],
   "tracks": [
     {
       "album": {
@@ -368,6 +365,28 @@
     },
     {
       "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130477,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
+    },
+    {
+      "album": {
         "name": "Jaiye (Ihe Geme)",
         "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
       },
@@ -379,7 +398,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 207409,
       "name": "Find Somebody",
       "url": "https://open.spotify.com/track/5Pj1Fogn76Q2FE5JUMh50Q"
@@ -427,6 +446,24 @@
       "duration_ms": 165668,
       "name": "Flex",
       "url": "https://open.spotify.com/track/1mZBFDxLjiBjWBZHIdumGc"
+    },
+    {
+      "album": {
+        "name": "Folake",
+        "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Folake",
+      "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
     },
     {
       "album": {
@@ -746,6 +783,28 @@
     },
     {
       "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/5kKcj1ekmHXMhqKlXIToml"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199126,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1EOCegpfqI77GcoJMo0NdH"
+    },
+    {
+      "album": {
         "name": "My Man",
         "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
       },
@@ -765,6 +824,24 @@
       "duration_ms": 218181,
       "name": "My Man",
       "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
+    },
+    {
+      "album": {
+        "name": "My Only Baby",
+        "url": "https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158069,
+      "name": "My Only Baby",
+      "url": "https://open.spotify.com/track/6ZF8NhfpndsCZeCW20i3AH"
     },
     {
       "album": {
@@ -1156,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175792,
+      "name": "Stand By You",
+      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
+    },
+    {
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -1200,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+    },
+    {
+      "album": {
         "name": "A Piece Of Me",
         "url": "https://open.spotify.com/album/0enq2ODADHlUOmFWjxatEj"
       },
@@ -1215,7 +1328,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 156700,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/0yOviZhkPwCUtOfWRRP6nd"

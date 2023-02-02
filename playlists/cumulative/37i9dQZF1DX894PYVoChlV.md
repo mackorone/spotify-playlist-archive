@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX894PYVoChlV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX894PYVoChlV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX894PYVoChlV)
 
-### [Luis Miguel \- Romances](https://open.spotify.com/playlist/37i9dQZF1DX894PYVoChlV)
+### [Luis Miguel: Romances](https://open.spotify.com/playlist/37i9dQZF1DX894PYVoChlV)
 
 > ¡Las canciones más románticas de Luismi!
 
-68 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/0oWOO4IAmiJgAGJ5owJzUV)
+68 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

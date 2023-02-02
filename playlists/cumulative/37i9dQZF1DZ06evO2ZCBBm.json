@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-18",
   "description": "This is The Used. The essential tracks, all in one playlist.",
   "name": "This Is The Used",
-  "published_playlist_ids": [
-    "3RSWdYQk2ESbtH2oh3V7bX"
-  ],
   "tracks": [
     {
       "album": {
@@ -215,7 +212,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-31",
+      "date_removed": "2022-12-08",
       "duration_ms": 88412,
       "name": "Brain Unguent",
       "url": "https://open.spotify.com/track/6YYVHAMbXOyQSgFtSYYRsW"
@@ -856,6 +853,24 @@
     },
     {
       "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 181874,
+      "name": "Operation Me",
+      "url": "https://open.spotify.com/track/5lpF23ghsmM7udnXOdoF14"
+    },
+    {
+      "album": {
         "name": "The Canyon",
         "url": "https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe"
       },
@@ -921,7 +936,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 142412,
       "name": "Playing The Victim",
       "url": "https://open.spotify.com/track/1jQ56oPXtND0hIyb2SHGQN"
@@ -975,7 +990,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 242306,
       "name": "Put Me Out",
       "url": "https://open.spotify.com/track/6XcLXKshSwwbShcndUY1Kh"

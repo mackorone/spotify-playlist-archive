@@ -4,7 +4,7 @@
 
 > Peaceful tracks for the whole family.
 
-200 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/70JlTcW90vM4eY1bmvDf6c)
+200 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

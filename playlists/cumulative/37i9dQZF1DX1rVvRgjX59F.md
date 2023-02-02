@@ -2,9 +2,9 @@
 
 ### [90s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX1rVvRgjX59F)
 
-> These songs rocked the 90s\. Cover: Rage Against The Machine
+> These songs rocked the 90s\. Cover: Nirvana
 
-152 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/3ssq6CMYUOuOSUXgLz3W6D)
+153 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Losing My Religion](https://open.spotify.com/track/2CnIIJhb0NlLFhVDWWkDgb) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Car Music](https://open.spotify.com/album/2lpJyWIrAQVs8MVJZTXx1V) | 4:28 | 2022-09-20 | 2022-11-14 |
 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 | 2022-03-24 |  |
 | [Losing My Religion](https://open.spotify.com/track/4d9RTWdrFLVAGhdzvqxkwn) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time](https://open.spotify.com/album/22c9GGhLosljU2p3xPmOfe) | 4:28 | 2021-12-10 | 2022-07-29 |
-| [Lump](https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:14 | 2021-12-10 |  |
+| [Lump](https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:14 | 2022-09-20 |  |
+| [Lump](https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:14 | 2021-12-10 | 2023-01-05 |
 | [Machinehead](https://open.spotify.com/track/1Z5LCXu5Ca3sHAy6OdUrBT) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/72X9bb0R8LXGnVHZ3O40OK) | 4:16 | 2021-12-10 | 2022-07-29 |
 | [Machinehead](https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:16 | 2022-03-24 |  |
 | [Man in the Box](https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:45 | 2021-12-10 |  |
@@ -127,7 +128,7 @@
 | [Shine](https://open.spotify.com/track/0YxF9sFRaiMFueeH3bfbfb) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [NOW That's What I Call The 90s](https://open.spotify.com/album/1XzFPnkfh8owZ91QSNFs0M) | 5:07 | 2022-09-20 | 2022-11-13 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2021-12-10 |  |
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2021-12-10 |  |
-| [Stupid Girl](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 | 2021-12-10 |  |
+| [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 | 2021-12-10 |  |
 | [Sunburn](https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:53 | 2021-12-10 |  |
 | [Supersonic \- Remastered](https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:43 | 2021-12-10 |  |
 | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Smells Like Children](https://open.spotify.com/album/6nCgYzfYRa3SPmL0AW8is1) | 4:53 | 2021-12-10 |  |

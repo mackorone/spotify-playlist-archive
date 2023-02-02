@@ -4,7 +4,7 @@
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-91 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
+91 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

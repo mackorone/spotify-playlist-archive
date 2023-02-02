@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Rock that was on repeat during the summers of the 1990s.",
   "name": "90s Summer Rock",
-  "published_playlist_ids": [
-    "3tnqKXamIBRk8iOPpGRhQG"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,7 +124,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 219813,
       "name": "All For You",
       "url": "https://open.spotify.com/track/5fwCxKVai3LszSWFZ9AyA8"
@@ -1413,7 +1410,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 213773,
       "name": "Pick A Part That's New",
       "url": "https://open.spotify.com/track/5ENmb2WrPdGlSAYBaZrEoF"
@@ -1431,10 +1428,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 235360,
       "name": "Pink",
       "url": "https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235473,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx"
     },
     {
       "album": {
@@ -1910,24 +1925,6 @@
     },
     {
       "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "date_added": "2021-04-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 258533,
-      "name": "Stupid Girl",
-      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
-    },
-    {
-      "album": {
         "name": "Garbage",
         "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
       },
@@ -1943,6 +1940,24 @@
       "duration_ms": 258533,
       "name": "Stupid Girl",
       "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
+    },
+    {
+      "album": {
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258533,
+      "name": "Stupid Girl - Remastered 2015",
+      "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
     },
     {
       "album": {

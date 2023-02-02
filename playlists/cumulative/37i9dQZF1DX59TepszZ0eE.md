@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=30kKyVSiQHO0XN\_Fsd07xA">Benjamin Dube</a>
 
-80 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/1ZMetk2R7ibX8I08siiaLQ)
+80 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

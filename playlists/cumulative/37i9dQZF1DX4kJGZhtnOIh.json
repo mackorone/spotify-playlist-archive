@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Have a nice relaxed dinner with some chill indie music.",
   "name": "Mellow Dinner",
-  "published_playlist_ids": [
-    "5DQOvJsKzXZMJCIkrgn4FQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -1133,10 +1130,28 @@
       ],
       "date_added": "2018-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 277506,
       "name": "I Don't Know What I Can Save You From",
       "url": "https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS"
+    },
+    {
+      "album": {
+        "name": "Quiet Is The New Loud",
+        "url": "https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "date_added": "2018-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277506,
+      "name": "I Don't Know What I Can Save You From",
+      "url": "https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN"
     },
     {
       "album": {

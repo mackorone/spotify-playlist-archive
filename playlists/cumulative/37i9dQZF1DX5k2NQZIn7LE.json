@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Fusion hits of Coke Studio Pakistan. Cover: Justin Bibis",
   "name": "Best of: Coke Studio Fusion",
-  "published_playlist_ids": [
-    "0XQM5ONk6GhW4OcFYlBuNy"
-  ],
   "tracks": [
     {
       "album": {
@@ -550,6 +547,32 @@
     },
     {
       "album": {
+        "name": "Coke Studio Season 9 Episode 5",
+        "url": "https://open.spotify.com/album/0TYZKlP336TX3VUL39uXR2"
+      },
+      "artists": [
+        {
+          "name": "Faakhir Mehmood",
+          "url": "https://open.spotify.com/artist/1qQJwdn7ly96oIwBlIh678"
+        },
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        },
+        {
+          "name": "Masooma Anwar and Shahzad Nawaz",
+          "url": "https://open.spotify.com/artist/6q3kns9q4DT6KbycguuPfw"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431000,
+      "name": "Jhalliya",
+      "url": "https://open.spotify.com/track/3SLF8aHcEjcSWXhQ8UFkhO"
+    },
+    {
+      "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL"
       },
@@ -599,7 +622,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 431000,
       "name": "Jhalliya (Coke Studio Season 9)",
       "url": "https://open.spotify.com/track/5VFdLShbyF8zbSJUntxeMe"
@@ -731,7 +754,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 492500,
       "name": "Lagi Bina / Chal Mele Noon Challiye",
       "url": "https://open.spotify.com/track/1LuLpzIUbHC400nO8XRs5t"
@@ -761,6 +784,32 @@
       "duration_ms": 492500,
       "name": "Lagi Bina / Chal Mele Noon Challiye",
       "url": "https://open.spotify.com/track/2TjnflQB8mssCigfip3x9k"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 9 Episode 6",
+        "url": "https://open.spotify.com/album/7K2eeaENGgn33dsHe2Hwmb"
+      },
+      "artists": [
+        {
+          "name": "Jaffer Zaidi",
+          "url": "https://open.spotify.com/artist/2IDzlRhIDa3xEqXTrAE8ex"
+        },
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        },
+        {
+          "name": "Saieen Zahoor",
+          "url": "https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492500,
+      "name": "Lagi Bina/Chal Mele Noon Challiye",
+      "url": "https://open.spotify.com/track/39GINZGDFwFP2jeKp0PSXK"
     },
     {
       "album": {

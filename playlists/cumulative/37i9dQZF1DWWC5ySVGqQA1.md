@@ -4,7 +4,7 @@
 
 > A collection of all things Austen, including audiobooks, poetry, and cinematic scores.
 
-127 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/3AugNB8FAKSRrkNJCc480c)
+127 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

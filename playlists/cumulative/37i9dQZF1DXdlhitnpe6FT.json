@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "The notes that will make you long for those days of yore.",
   "name": "Golden Instrumentals",
-  "published_playlist_ids": [
-    "2mdoB8gHvTDYVCENDqa6NW"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 135666,
       "name": "A Swingin' Safari",
       "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
@@ -1453,7 +1450,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 159586,
       "name": "Kiss of Fire",
       "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
@@ -1871,7 +1868,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 135993,
       "name": "Look for a Star",
       "url": "https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM"
@@ -3461,6 +3458,24 @@
       "duration_ms": 164920,
       "name": "Yellow Bird",
       "url": "https://open.spotify.com/track/3KOC0porpfAeFFYuA4d73z"
+    },
+    {
+      "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "album": {

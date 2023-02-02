@@ -4,7 +4,7 @@
 
 > An epic event in the making\. You can not enjoy a Foam party without the perfect songs to get everyone jumping\. Turn it up and let the foam start flowing!
 
-67 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/1gSCktCzvR0lAFauUqIeky)
+67 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Stampede](https://open.spotify.com/track/6yYEaaBr3AG6LBBNC2ku0N) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Stampede](https://open.spotify.com/album/73zazHfic6asS0qidGLMMm) | 4:17 | 2014-01-23 |  |
 | [Sunlight \- Torqux & Twist Remix](https://open.spotify.com/track/4VzZlAxgHHrQ7oAiLvbjpD) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [Torqux & Twist](https://open.spotify.com/artist/6XfbnyWNX20GpsNp4wa0aZ) | [Sunlight \(2011\)](https://open.spotify.com/album/106OFKaEPbbSgh4X9LjNJj) | 5:18 | 2013-11-21 |  |
 | [Svenska \- Radio Edit](https://open.spotify.com/track/6GX0CTte29j9YFpVpj81B2) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Svenska](https://open.spotify.com/album/6Kw35ssQZSSKwYXaYLaN0Y) | 2:43 | 2013-08-05 |  |
-| [The Island \- Steve Angello, AN21, Max Vangeli Remix](https://open.spotify.com/track/2RS9TJTiHvg0guy8hSmiAF) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Max Vangeli](https://open.spotify.com/artist/6Tu9KiWKN5ENQ2VjGCVN18), [Steve Angelo](https://open.spotify.com/artist/4Kwvd0nhOTKoAtvA230pwC) | [The Island \(Steve Angello, AN21 & Max Vangeli Remix\)](https://open.spotify.com/album/76TlPoqPLiYJJ2sjgHb9vE) | 6:40 | 2013-06-21 |  |
+| [The Island \- Steve Angello, AN21, Max Vangeli Remix](https://open.spotify.com/track/2RS9TJTiHvg0guy8hSmiAF) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Max Vangeli](https://open.spotify.com/artist/6Tu9KiWKN5ENQ2VjGCVN18), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [The Island \(Steve Angello, AN21 & Max Vangeli Remix\)](https://open.spotify.com/album/76TlPoqPLiYJJ2sjgHb9vE) | 6:40 | 2013-06-21 |  |
 | [The Spark \- Cherry Cherry Boom Boom Remix](https://open.spotify.com/track/6XGSVfrX3RanlUSIzLhwGS) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Spree Wilson](https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy) | [The Spark \(Remixes\)](https://open.spotify.com/album/01FOmguEfKmoMoKKTKC25S) | 4:26 | 2013-12-02 |  |
 | [The Way It Was](https://open.spotify.com/track/5eUQhntIXZXHzyqhpsdC6t) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Weekend In America](https://open.spotify.com/album/1xWDWiFPt6yosqOXu8oI4L) | 5:47 | 2013-11-21 |  |
 | [Until the End \(feat\. Joe Gil\)](https://open.spotify.com/track/6ZnVDTG0j7uod6iEwf5nF8) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [Joe Gil](https://open.spotify.com/artist/2xPjzvlRo2NgaW89XrH5lF) | [Speed of Life](https://open.spotify.com/album/7mtGFateqra8sw1YPHcX3j) | 4:05 | 2014-02-24 |  |

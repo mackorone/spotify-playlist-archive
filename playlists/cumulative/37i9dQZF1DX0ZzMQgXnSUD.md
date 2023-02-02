@@ -4,7 +4,7 @@
 
 > "Bond..\. James Bond." Cover: <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">Billie Eilish</a>
 
-51 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/4VaHsyK2hlLM9Ze1eGMozZ)
+51 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

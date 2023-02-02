@@ -1,11 +1,30 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music with a Latin flair. Cover: Frank Ray",
+  "description": "Country music with a Latin flair. Cover: Kat & Alex",
   "name": "Country Latino",
-  "published_playlist_ids": [
-    "1WK5MqHO5idzyfqGcT0LRT"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "'Til I Can Make It On My Own",
+        "url": "https://open.spotify.com/album/0Y3PDimWHc95usGdTNObKx"
+      },
+      "artists": [
+        {
+          "name": "Savannah Rae",
+          "url": "https://open.spotify.com/artist/0MCORpw49PaeUUsSZwH0pw"
+        },
+        {
+          "name": "Georgette Jones",
+          "url": "https://open.spotify.com/artist/6ofwDVSodVYTHLohoLDKSw"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189292,
+      "name": "'Til I Can Make It On My Own",
+      "url": "https://open.spotify.com/track/3VuQUuFw1QPNUqbsTOWDie"
+    },
     {
       "album": {
         "name": "1990s Drunk",
@@ -176,6 +195,24 @@
     },
     {
       "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162142,
+      "name": "Before The Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
+    },
+    {
+      "album": {
         "name": "Perder o Ganar",
         "url": "https://open.spotify.com/album/6nhXLyWpfRblMBerEkXitK"
       },
@@ -342,6 +379,28 @@
     },
     {
       "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+    },
+    {
+      "album": {
         "name": "Day Drinking (Party Mix)",
         "url": "https://open.spotify.com/album/221DPZOZH1TDYisXjLeC81"
       },
@@ -393,10 +452,32 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 178946,
       "name": "Down The Road",
       "url": "https://open.spotify.com/track/5kdajqHHMPDsFEQEY7YstN"
+    },
+    {
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/5S5dZ1YxS2JLDHDxjH3ZVD"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        },
+        {
+          "name": "The Buckleys",
+          "url": "https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Down The Road",
+      "url": "https://open.spotify.com/track/2omj4J6W4cL2cOU4Tjz0Sr"
     },
     {
       "album": {
@@ -633,6 +714,24 @@
       "duration_ms": 193695,
       "name": "Hey Baby Que Pas\u00f3 - Live from Texas",
       "url": "https://open.spotify.com/track/6w7T58kAjQNfp0jG9UheoJ"
+    },
+    {
+      "album": {
+        "name": "Make it Norte\u00f1o Vol. 1",
+        "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
+      },
+      "artists": [
+        {
+          "name": "EZ Band",
+          "url": "https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
     },
     {
       "album": {
@@ -1534,7 +1633,7 @@
     },
     {
       "album": {
-        "name": "Country from another country",
+        "name": "Country from another Country",
         "url": "https://open.spotify.com/album/2MyLrd6esHFxMjP1FdtC7W"
       },
       "artists": [
@@ -1585,6 +1684,28 @@
       "duration_ms": 198866,
       "name": "Se Va A Arrepentir",
       "url": "https://open.spotify.com/track/3tV7TCBFRB4dZ03gYwZ7Ax"
+    },
+    {
+      "album": {
+        "name": "Someone Just Like You",
+        "url": "https://open.spotify.com/album/74omuBW8hpg3xNNW4wy5xX"
+      },
+      "artists": [
+        {
+          "name": "Stefano Manrique",
+          "url": "https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP"
+        },
+        {
+          "name": "Aria Fenix",
+          "url": "https://open.spotify.com/artist/2037mdH5NiUF4UrZRBh5vb"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Someone Just Like You",
+      "url": "https://open.spotify.com/track/3QrLq2W0y6hWgr2cgiCTRF"
     },
     {
       "album": {
@@ -1861,6 +1982,24 @@
       "duration_ms": 180361,
       "name": "Tonto",
       "url": "https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO"
+    },
+    {
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159712,
+      "name": "Touring Tx",
+      "url": "https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU"
     },
     {
       "album": {

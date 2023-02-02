@@ -4,7 +4,7 @@
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-95 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/0eXMlsTiRHC7wELyKeszOt)
+95 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Book Of Love \- Single Version](https://open.spotify.com/track/6kIYy84YuKk2dwAZbYJjrG) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Chess Chartbusters Vol\. 2](https://open.spotify.com/album/1dETsddr8HxqJcUOpMcMg4) | 2:18 | 2019-02-06 | 2022-07-29 |
 | [Booted](https://open.spotify.com/track/78GAfIYfFDN22ezrrRWiAE) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [A Complete Introduction To Chess \(International Version\)](https://open.spotify.com/album/7hPlKsSeUcWkEIeFgEaPdH) | 3:02 | 2019-02-06 | 2022-07-29 |
 | [Booted](https://open.spotify.com/track/3mKwsHWqKv7mzVpZZwPsPH) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 3:04 | 2019-02-06 |  |
-| [Castle Rock](https://open.spotify.com/track/3ziYOWYJfaJ6slSK9sVxjq) | [Al Sears](https://open.spotify.com/artist/59UXaFl5TP0boyuFGFPk6x) | [It Don't Mean a Thing](https://open.spotify.com/album/2oVb0f3YkvScqdO14wD9g1) | 2:52 | 2019-02-06 | 2022-11-13 |
+| [Castle Rock](https://open.spotify.com/track/3ziYOWYJfaJ6slSK9sVxjq) | [Al Sears](https://open.spotify.com/artist/59UXaFl5TP0boyuFGFPk6x) | [It Don't Mean a Thing](https://open.spotify.com/album/2oVb0f3YkvScqdO14wD9g1) | 2:52 | 2019-02-06 | 2023-01-23 |
 | [Castle Rock](https://open.spotify.com/track/0A6W5ksyw31Uwdu6YInvPy) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [The Jazz Collection](https://open.spotify.com/album/6hAzcYkjNrbGsgE2eAo4a5) | 2:47 | 2019-02-06 | 2022-07-29 |
 | [Castle Rock](https://open.spotify.com/track/1fiVhiSdp7mCu4RKwjPrcN) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Castle Rock](https://open.spotify.com/album/4hMfnrM2BPDK9SHSUAcK3Q) | 2:49 | 2019-02-06 |  |
 | [Deacon Rides Again](https://open.spotify.com/track/6VT0pyPchEgvAQeCfMVB2m) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [The Best Of \(1948\-1955\)](https://open.spotify.com/album/4hPy6XBw8d7WtgDA3WKwUf) | 2:47 | 2019-02-06 |  |
@@ -85,7 +85,7 @@
 | [Safronia B](https://open.spotify.com/track/27kwBNU1VWNRPjFxvz8EOt) | [Calvin Boze and His All Stars](https://open.spotify.com/artist/4eoLuYkFKv9tETDJoVMgQM) | [Jump Blue: Rockin' The Jukes](https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk) | 2:24 | 2019-02-06 |  |
 | [See See Rider](https://open.spotify.com/track/0HsYttDxOv3neiw3L0wimY) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Soul On Fire: The Best Of LaVern Baker](https://open.spotify.com/album/656bjmiiDmAKjaC9U5HXbh) | 2:29 | 2019-02-06 |  |
 | [Sexy Ways](https://open.spotify.com/track/2rPldGkXgTyfehH8uRss0k) | [The Midnighters](https://open.spotify.com/artist/5IMmgN6diakOaeFp8ydvDu) | [Sexy Ways \- 4 Track EP](https://open.spotify.com/album/0YTiWX0LrfxXDfyBJnW5E3) | 2:32 | 2019-02-06 |  |
-| [Sh\-Boom](https://open.spotify.com/track/5TiUTAPurormiQX9gE0CAQ) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Atlantic 60th: At The Hop](https://open.spotify.com/album/6LFNpN228ffJyxBHQx1a9H) | 2:24 | 2019-02-06 |  |
+| [Sh\-Boom](https://open.spotify.com/track/5TiUTAPurormiQX9gE0CAQ) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Atlantic 60th: At The Hop](https://open.spotify.com/album/6LFNpN228ffJyxBHQx1a9H) | 2:24 | 2019-02-06 |  |
 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 | 2019-02-06 |  |
 | [Smooth Sailing](https://open.spotify.com/track/72bmhWmIt5ddPl8xf89u03) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald](https://open.spotify.com/album/6gjATHaUJqGV4YfRH32dmE) | 3:07 | 2019-02-06 | 2022-07-29 |
 | [Smooth Sailing](https://open.spotify.com/track/6vubuLvaXL1bO4hQbAzG2E) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Ray Charles Singers](https://open.spotify.com/artist/716xTLDou3FHSi9mXOMU1Z) | [Lullabies Of Birdland](https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K) | 3:06 | 2019-02-06 |  |

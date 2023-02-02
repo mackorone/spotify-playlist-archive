@@ -4,7 +4,7 @@
 
 > From the past to the present, soul music has evolved into many different sounds and Motown has been at the forefront.
 
-38 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/3cK9yg3609ko0saEs1Ekc8)
+38 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

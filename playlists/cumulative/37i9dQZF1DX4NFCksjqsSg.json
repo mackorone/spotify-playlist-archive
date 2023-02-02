@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-14",
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
   "name": "Fromage",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -24,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Sans retour",
+        "url": "https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq"
+      },
+      "artists": [
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435840,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW"
+    },
+    {
+      "album": {
         "name": "Tant qu'il y aura des enfants",
         "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
       },
@@ -35,7 +52,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 438840,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/1UX0cAfJoC2mkPCbCxrKh3"
@@ -125,7 +142,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 226013,
       "name": "Bye Bye Mon Cowboy - Original Version",
       "url": "https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J"
@@ -291,7 +308,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 207600,
       "name": "Dans chacun de mes silences",
       "url": "https://open.spotify.com/track/3gGaqfP07cG0uDqxKQl2UF"
@@ -1087,7 +1104,7 @@
       ],
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-19",
       "duration_ms": 245933,
       "name": "Pied De Poule",
       "url": "https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2"
@@ -1275,7 +1292,7 @@
     {
       "album": {
         "name": "Seul",
-        "url": "https://open.spotify.com/album/4OXnjT7CzgxXltJx6Vmt3I"
+        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
       "artists": [
         {
@@ -1290,6 +1307,28 @@
       "date_added": "2020-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211293,
+      "name": "Sous le vent",
+      "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
+    },
+    {
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/4OXnjT7CzgxXltJx6Vmt3I"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
       "duration_ms": 211293,
       "name": "Sous le vent",
       "url": "https://open.spotify.com/track/6lZ2KGdvuuYDxFSmrL5v1K"

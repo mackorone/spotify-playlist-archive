@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
   "name": "Folklore Rom\u00e1ntico ",
-  "published_playlist_ids": [
-    "6iMV8piE9igffxc51R0RU9"
-  ],
   "tracks": [
     {
       "album": {
@@ -131,7 +128,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 211410,
       "name": "Amarte Sin Piedad",
       "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
@@ -261,7 +258,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 263993,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le"
@@ -279,7 +276,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-02-02",
       "duration_ms": 170000,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
@@ -609,7 +606,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 162192,
       "name": "D\u00e9jame Intentar",
       "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
@@ -895,7 +892,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 319116,
       "name": "Gotas de Amor",
       "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
@@ -1205,7 +1202,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": "2022-12-03",
       "duration_ms": 260040,
       "name": "Me Duele Todav\u00eda",
       "url": "https://open.spotify.com/track/2vFUcGJIhcGnNS8Gnu135v"
@@ -1981,7 +1978,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 202728,
       "name": "Tan Cerca En La Distancia",
       "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"
@@ -1999,7 +1996,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 246741,
       "name": "Tan Lejos de Mi",
       "url": "https://open.spotify.com/track/1ryLI4hIaYrhhUnJsGNyru"
@@ -2093,7 +2090,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-17",
       "duration_ms": 239365,
       "name": "Todo Ser\u00e1 Mejor",
       "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
@@ -2136,7 +2133,7 @@
     },
     {
       "album": {
-        "name": "Tu respuesta",
+        "name": "Tu Respuesta",
         "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
       },
       "artists": [
@@ -2149,7 +2146,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222908,
-      "name": "Tu respuesta - Zamba",
+      "name": "Tu Respuesta",
       "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {

@@ -4,10 +4,11 @@
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/10l4h92hmnaN43FPdhOuHz)
+51 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Adieu](https://open.spotify.com/track/56SLMIzWKrEOWIQ5LCzKXV) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:38 | 2022-11-29 |  |
 | [Amerika](https://open.spotify.com/track/1a8JpAL3vbAdXYrEABvOtb) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 3:46 | 2022-05-30 |  |
 | [Angst](https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:44 | 2022-05-30 |  |
 | [Armee der Tristen](https://open.spotify.com/track/514GW1c9Jn21KgZmO6mZIE) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:25 | 2022-05-30 |  |
@@ -21,7 +22,7 @@
 | [Du riechst so gut](https://open.spotify.com/track/4yUcHLkHUwAPpKN0Uvdo8I) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:51 | 2022-05-30 |  |
 | [Engel](https://open.spotify.com/track/0xrkyEMkG4dVa5OMLQZOX8) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:24 | 2022-05-30 |  |
 | [Feuer frei!](https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 3:08 | 2022-05-30 |  |
-| [Giftig](https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:08 | 2022-05-30 |  |
+| [Giftig](https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:08 | 2022-05-30 | 2022-11-30 |
 | [Haifisch](https://open.spotify.com/track/5392GpKmAP3UvIAfHC8LAW) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:44 | 2022-05-30 |  |
 | [Halleluja](https://open.spotify.com/track/5lGk2d6vYXSv5RiLMHLsCZ) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Raritäten \(1994 \- 2012\)](https://open.spotify.com/album/0o0QM3HLgDRQQslL2ott2a) | 3:44 | 2022-05-30 |  |
 | [Heirate mich](https://open.spotify.com/track/33LTCp3HM36k7KuB7M3IHd) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:44 | 2022-05-30 |  |

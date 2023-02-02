@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "This is MILO\u0160. The essential tracks, all in one playlist.",
   "name": "This is MILO\u0160",
-  "published_playlist_ids": [
-    "57Tzrtx4jHxJk32TpJwQHo"
-  ],
   "tracks": [
     {
       "album": {
@@ -897,6 +894,40 @@
       "duration_ms": 172960,
       "name": "Cuatro Tangos: Libertango - Latino Gold Version",
       "url": "https://open.spotify.com/track/1UIEHcG0yr5J2NJbmLDwA5"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n",
+        "url": "https://open.spotify.com/album/6yvrS8yYXlTIyUBxyBP7Yy"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        },
+        {
+          "name": "Ksenija Sidorova",
+          "url": "https://open.spotify.com/artist/2eQM9blUQw9vY62tYLcpVk"
+        },
+        {
+          "name": "Studioorchester der Europ\u00e4ischen FilmPhilharmonie",
+          "url": "https://open.spotify.com/artist/2LQEXX6CkuQ3qmwVbq883t"
+        },
+        {
+          "name": "Christoph Israel",
+          "url": "https://open.spotify.com/artist/3LBQMLjfH1rDN06z0uLbSI"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181413,
+      "name": "Cuatro Tangos: Libertango - Latino Gold Version",
+      "url": "https://open.spotify.com/track/0fI9x1NVOAmPLo4UA1hE7c"
     },
     {
       "album": {
@@ -2041,6 +2072,10 @@
       },
       "artists": [
         {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
           "name": "Milo\u0161 Karadagli\u0107",
           "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
         },
@@ -2059,7 +2094,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 181400,
       "name": "Libertango (from \"Cuatro Tangos\") - Latino Gold Version",
       "url": "https://open.spotify.com/track/2fZxoOFhWOmKeYPWUcvMdY"

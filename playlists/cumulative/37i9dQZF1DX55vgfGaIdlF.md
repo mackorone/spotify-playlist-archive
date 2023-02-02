@@ -4,7 +4,7 @@
 
 > Slow down with these late night jams.
 
-88 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/7pSouUJjpM3i6LRYHeFP7e)
+88 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

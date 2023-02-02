@@ -4,7 +4,7 @@
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-208 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/69xAd56tPCCivjLTy5nEvF)
+210 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Forever With You](https://open.spotify.com/track/0WATpfBLHGcX4DDxyL83HW) | [Ryan Lau](https://open.spotify.com/artist/646tpmjSFYpGby2Jr7MDCX) | [Forever With You](https://open.spotify.com/album/0sOgtJSmw2q94seovYpMe7) | 1:49 | 2022-07-22 |  |
 | [Free Rider](https://open.spotify.com/track/1107wtcxWd3cPY4xYC2MwS) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/1dvjRmAhV8xSt1d3CLHQPy) | 3:31 | 2022-07-22 | 2022-10-13 |
 | [Free Rider](https://open.spotify.com/track/5MHD8arSmLCrkujTJBjoab) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/69ioWkMs6HxMePYts5VxSY) | 3:31 | 2022-07-22 |  |
-| [Give It Hell](https://open.spotify.com/track/3zLorBeTEnHM5UBd8HuCEd) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2P2XnrV9VnGxJ0UqHNxt4E) | 3:24 | 2022-07-22 |  |
+| [Give It Hell](https://open.spotify.com/track/06FU6MJmk3cGUt4SVKzWKo) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:24 | 2022-07-22 |  |
+| [Give It Hell](https://open.spotify.com/track/3zLorBeTEnHM5UBd8HuCEd) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2P2XnrV9VnGxJ0UqHNxt4E) | 3:24 | 2022-07-22 | 2022-12-01 |
 | [Give You My Love](https://open.spotify.com/track/1le4AShk5pZ1KTswuwdpvc) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 5:24 | 2022-07-22 |  |
 | [Gonna Drive All Night](https://open.spotify.com/track/6Jj3j1dZQI7JWrMAwtm7yr) | [Julian Emery](https://open.spotify.com/artist/4nbCme6RCJulaab14aFmqP) | [Drive All Night](https://open.spotify.com/album/50tgVonsGallh4xTYf2myi) | 3:26 | 2022-07-22 |  |
 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 | 2022-07-22 |  |
@@ -130,7 +131,8 @@
 | [Nothing's Alright](https://open.spotify.com/track/5JqqoMrMOHkFWfeKKCsoDq) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [More](https://open.spotify.com/album/2KjdkaGCd0OnLUxCLoViMh) | 3:24 | 2022-07-22 |  |
 | [Nothing's Alright](https://open.spotify.com/track/7EodxTVCwwkiVHYfhC9rQa) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [More](https://open.spotify.com/album/2UCj1Nck6LUXkd9ixFbhHi) | 3:24 | 2022-07-22 | 2022-11-13 |
 | [November](https://open.spotify.com/track/3mM9vRlgBSZGyTLzJ4je5m) | [Keith Skooglund](https://open.spotify.com/artist/6UxzEMXInwnATIwEbDxkr0) | [November](https://open.spotify.com/album/1cEsGPDHBbS4Ik7eNQwRuF) | 2:59 | 2022-07-22 |  |
-| [Ode to LBC](https://open.spotify.com/track/0QgPqgtkywb0VNkaQFHAle) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [dear april, ily \(deluxe\)](https://open.spotify.com/album/32qamHYrNoKgBjrzzjK68u) | 3:03 | 2022-07-22 |  |
+| [Ode to LBC](https://open.spotify.com/track/0NA4W3IO9LNJ0s5KRIM3FB) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [dear april, ily \(deluxe\)](https://open.spotify.com/album/1oQ8HKieZSMapORo82MC6i) | 3:03 | 2022-07-22 |  |
+| [Ode to LBC](https://open.spotify.com/track/0QgPqgtkywb0VNkaQFHAle) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [dear april, ily \(deluxe\)](https://open.spotify.com/album/32qamHYrNoKgBjrzzjK68u) | 3:03 | 2022-07-22 | 2022-12-01 |
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2022-07-22 |  |
 | [Oh My Stars](https://open.spotify.com/track/65D1Gw34nZZpjfcZPmOBwY) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [The Ladder](https://open.spotify.com/album/0oiW40jJHbCnTHIfG1yTaL) | 5:02 | 2022-07-22 |  |
 | [On My Way Home](https://open.spotify.com/track/44y71LA72zHm2SgMjfMN5v) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:50 | 2022-07-22 |  |

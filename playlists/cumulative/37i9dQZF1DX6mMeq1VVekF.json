@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-10",
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
   "name": "Free Form",
-  "published_playlist_ids": [
-    "68Ruera9xeYyhoqA8BzxMu"
-  ],
   "tracks": [
     {
       "album": {
@@ -57,7 +54,7 @@
       },
       "artists": [
         {
-          "name": "JBee",
+          "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
@@ -81,7 +78,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-23",
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
@@ -845,7 +842,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 216933,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
@@ -2003,7 +2000,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 319758,
       "name": "Im Workin (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/4cqjB1MFbHYmCzN6ENAbOV"
@@ -2025,7 +2022,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 158219,
       "name": "In Disguise (feat. Bakar)",
       "url": "https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc"
@@ -2147,6 +2144,36 @@
       "duration_ms": 193586,
       "name": "July",
       "url": "https://open.spotify.com/track/0uypiIp2vPk2Si9X2Qc94M"
+    },
+    {
+      "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "MANIK MC",
+          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
+        },
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "MIDNIGHT PHUNK",
+          "url": "https://open.spotify.com/artist/4ALqqxZGxXSP8g10Q1xvWI"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193586,
+      "name": "July",
+      "url": "https://open.spotify.com/track/1aUJc88f1y0vsC93U1DbGk"
     },
     {
       "album": {
@@ -2387,7 +2414,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 217925,
       "name": "Love is a Lottery",
       "url": "https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx"
@@ -3597,6 +3624,24 @@
     {
       "album": {
         "name": "Rainforest",
+        "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2022-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/7jnaAu7P745QnBBHm3RtSU"
+    },
+    {
+      "album": {
+        "name": "Rainforest",
         "url": "https://open.spotify.com/album/00tnsObPbrXxDLTPBHhzbH"
       },
       "artists": [
@@ -3805,7 +3850,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 312000,
       "name": "Scary Sight",
       "url": "https://open.spotify.com/track/4R9JMjQdMt7AMRis0HlF7w"
@@ -3987,7 +4032,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 165306,
       "name": "Sometimes I Feel Like A Motherless Child",
       "url": "https://open.spotify.com/track/0ZbsKlIZ1LBXEmCJOaO3pO"
@@ -4795,7 +4840,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx"
@@ -4849,7 +4894,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 267173,
       "name": "Zipcodes",
       "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"

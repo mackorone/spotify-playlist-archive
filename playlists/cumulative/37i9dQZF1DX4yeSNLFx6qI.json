@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
   "name": "Sin Ti",
-  "published_playlist_ids": [
-    "5ip3Hsabx9kyB1i1dzdp3Y"
-  ],
   "tracks": [
     {
       "album": {
@@ -106,6 +103,24 @@
     },
     {
       "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159465,
+      "name": "ADI\u00d3S AMOR",
+      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
@@ -175,6 +190,24 @@
       "duration_ms": 258532,
       "name": "Al\u00e9jate de M\u00ed",
       "url": "https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV"
+    },
+    {
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231951,
+      "name": "amantes y amigos",
+      "url": "https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48"
     },
     {
       "album": {
@@ -327,7 +360,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 196626,
       "name": "Atado Entre Tus Manos",
       "url": "https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG"
@@ -461,7 +494,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 204920,
       "name": "Cap\u00edtulos",
       "url": "https://open.spotify.com/track/6l99dHCyRaZWtlu3UUtCxs"
@@ -660,6 +693,24 @@
     },
     {
       "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
+    },
+    {
+      "album": {
         "name": "Limonada",
         "url": "https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA"
       },
@@ -747,6 +798,24 @@
       "duration_ms": 245466,
       "name": "De la Ilusi\u00f3n Al Miedo",
       "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
+    },
+    {
+      "album": {
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144631,
+      "name": "Deb\u00ed Suponerlo",
+      "url": "https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa"
     },
     {
       "album": {
@@ -870,6 +939,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235306,
+      "name": "D\u00e9jenme Llorar",
+      "url": "https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx"
+    },
+    {
+      "album": {
         "name": "Corazon Latino",
         "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
       },
@@ -975,6 +1062,24 @@
       "duration_ms": 163933,
       "name": "En Alg\u00fan Momento (Ahora No)",
       "url": "https://open.spotify.com/track/4LqkF0XoUPjOk7mykwuHit"
+    },
+    {
+      "album": {
+        "name": "\u00bfA D\u00f3nde Vamos?",
+        "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229107,
+      "name": "Enam\u00f3rate De Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/1pDgS6HDNrrIawdhYEvI0s"
     },
     {
       "album": {
@@ -1223,7 +1328,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 189240,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ"
@@ -1249,6 +1354,28 @@
       "duration_ms": 223634,
       "name": "La Parte Buena",
       "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
+    },
+    {
+      "album": {
+        "name": "La Siguiente",
+        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 202176,
+      "name": "La Siguiente",
+      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
     },
     {
       "album": {
@@ -1307,7 +1434,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 204044,
       "name": "Lo Intent\u00e9 Todo",
       "url": "https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM"
@@ -1485,7 +1612,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 158873,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1"
@@ -2099,10 +2226,32 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
+    },
+    {
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173021,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
     },
     {
       "album": {
@@ -2258,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240613,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
+    },
+    {
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/0QR0yP5JpjjAmHyqrMpWSk"
       },
@@ -2295,6 +2462,24 @@
       "duration_ms": 189986,
       "name": "Qu\u00e9 Hubiera Sido",
       "url": "https://open.spotify.com/track/1CktJB7mAIY4jqzv7oPbKL"
+    },
+    {
+      "album": {
+        "name": "Rabia",
+        "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "Rabia",
+      "url": "https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD"
     },
     {
       "album": {
@@ -2407,7 +2592,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 165760,
       "name": "Roto",
       "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
@@ -2505,7 +2690,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 238458,
       "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
       "url": "https://open.spotify.com/track/0EWTV2ya46WyDFrKiDz7ay"
@@ -2635,7 +2820,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 144840,
       "name": "Son Tantas Cosas",
       "url": "https://open.spotify.com/track/54nYowFYNMP2buVxg73w6w"
@@ -2697,7 +2882,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 228958,
       "name": "Tanto Amor (feat. Matisse) - El Viaje de Matisse",
       "url": "https://open.spotify.com/track/2zTxwFHPKf27XGpOhMr27N"
@@ -2715,7 +2900,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 183265,
       "name": "Te acuerdas?",
       "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
@@ -2899,10 +3084,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 194836,
       "name": "Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2"
+    },
+    {
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194836,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6"
     },
     {
       "album": {
@@ -3128,6 +3331,28 @@
     },
     {
       "album": {
+        "name": "Un Mill\u00f3n Como T\u00fa",
+        "url": "https://open.spotify.com/album/5r75ptD4oGxvbu9iWUhqCB"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275026,
+      "name": "Un Mill\u00f3n Como T\u00fa",
+      "url": "https://open.spotify.com/track/619zlIsV7csW2h2narAoPC"
+    },
+    {
+      "album": {
         "name": "Verano, por siempre",
         "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
       },
@@ -3266,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283893,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6"
+    },
+    {
+      "album": {
         "name": "Ya No Est\u00e1s",
         "url": "https://open.spotify.com/album/3NXZtSLp4BRmph8pajGnNN"
       },
@@ -3353,7 +3596,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 132112,
       "name": "\u00bfC\u00f3mo Est\u00e1s?",
       "url": "https://open.spotify.com/track/39UW0ALFyTXCNpCNxBUdNP"
@@ -3393,7 +3636,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 211138,
       "name": "\u00bfPor Qu\u00e9 Lloras? (feat. Matisse)",
       "url": "https://open.spotify.com/track/2G9LSMGW7a9QFP8Fi9cvTE"

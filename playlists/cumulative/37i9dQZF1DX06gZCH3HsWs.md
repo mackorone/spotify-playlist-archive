@@ -4,7 +4,7 @@
 
 > Celebrating the roots of Dubstep, est\. Croydon, UK.
 
-74 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/5AdvqmHQvAfvbCuozkh2tg)
+74 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

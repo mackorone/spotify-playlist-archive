@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Global ambient with percussion to soundtrack your Yoga session.",
   "name": "Yoga Flow",
-  "published_playlist_ids": [
-    "4EVIotVnoAM9t9wn6xhCfE"
-  ],
   "tracks": [
     {
       "album": {
@@ -296,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Beneath The Waves",
+        "url": "https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17"
+      },
+      "artists": [
+        {
+          "name": "Joborja Perc",
+          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177856,
+      "name": "Beneath The Waves",
+      "url": "https://open.spotify.com/track/6DryQS95o3eNK9iq2vrtBT"
+    },
+    {
+      "album": {
         "name": "Bless The Rains In India",
         "url": "https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU"
       },
@@ -311,6 +326,24 @@
       "duration_ms": 132521,
       "name": "Bless The Rains In India",
       "url": "https://open.spotify.com/track/57cmpxG9ZVzVRyrK7HXaoE"
+    },
+    {
+      "album": {
+        "name": "Beneath The Waves",
+        "url": "https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17"
+      },
+      "artists": [
+        {
+          "name": "Joborja Perc",
+          "url": "https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186571,
+      "name": "Blue Reef",
+      "url": "https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi"
     },
     {
       "album": {
@@ -347,6 +380,24 @@
       "duration_ms": 210778,
       "name": "Bryophyta",
       "url": "https://open.spotify.com/track/0RsowQU2tkZoqlMK5fAU3Z"
+    },
+    {
+      "album": {
+        "name": "Calm Night",
+        "url": "https://open.spotify.com/album/3lx9UDC30ijqxQpYWtBF2I"
+      },
+      "artists": [
+        {
+          "name": "Dumana",
+          "url": "https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168630,
+      "name": "Calm Night",
+      "url": "https://open.spotify.com/track/72JSniZSFFQry3AQVYa8tB"
     },
     {
       "album": {
@@ -559,7 +610,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 326164,
       "name": "D\u00e9tente (Hang drum)",
       "url": "https://open.spotify.com/track/799kB7l9LSSlsz4MMaoaok"
@@ -617,6 +668,24 @@
       "duration_ms": 170226,
       "name": "Empty Nest",
       "url": "https://open.spotify.com/track/7EXaHleHFbECQcHRB4zc5i"
+    },
+    {
+      "album": {
+        "name": "Eretinda / The Chakra Movement",
+        "url": "https://open.spotify.com/album/1FlSZCcXYMB3GZAZrI1Yu4"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213194,
+      "name": "Eretinda",
+      "url": "https://open.spotify.com/track/3iSbAOqTZp5DKYP82hJ9nO"
     },
     {
       "album": {
@@ -1070,6 +1139,42 @@
     },
     {
       "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp"
+      },
+      "artists": [
+        {
+          "name": "Bahn Kramina",
+          "url": "https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Kramina",
+      "url": "https://open.spotify.com/track/3W5kk8r0aKHUN5QwOIy7qh"
+    },
+    {
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/3mrcdI2YVDyjCZNtNeoOkf"
+      },
+      "artists": [
+        {
+          "name": "Narmada Shore",
+          "url": "https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179803,
+      "name": "Life Is A Gift",
+      "url": "https://open.spotify.com/track/6FDQviX4rM4mZJIqM9Gqih"
+    },
+    {
+      "album": {
         "name": "Lines of Mauve",
         "url": "https://open.spotify.com/album/3f7SSz5LBqvz1Vqmkffk4V"
       },
@@ -1135,7 +1240,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 196365,
       "name": "Longest Dream",
       "url": "https://open.spotify.com/track/5yqMOOJZrTCwguufPzo6LK"
@@ -1229,6 +1334,24 @@
       "duration_ms": 162114,
       "name": "Magic Moment",
       "url": "https://open.spotify.com/track/5cPMT9j9tE4ZK6C7mlSK5n"
+    },
+    {
+      "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp"
+      },
+      "artists": [
+        {
+          "name": "Bahn Kramina",
+          "url": "https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172961,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/0H6JIWGyILocIhKM8ItOHC"
     },
     {
       "album": {
@@ -1380,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Planets Rise",
+        "url": "https://open.spotify.com/album/65izdFSoEJds0oVAHgzzVZ"
+      },
+      "artists": [
+        {
+          "name": "Northern Path",
+          "url": "https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Planets Rise",
+      "url": "https://open.spotify.com/track/0Qx2fTCn7wSxeHt3jyI1Jj"
+    },
+    {
+      "album": {
         "name": "Ergo",
         "url": "https://open.spotify.com/album/6lso3LVOMoZjyInhTdXQzq"
       },
@@ -1524,6 +1665,42 @@
     },
     {
       "album": {
+        "name": "Rise Above",
+        "url": "https://open.spotify.com/album/3jpuCYyyIDM4jysW5L6j6a"
+      },
+      "artists": [
+        {
+          "name": "Rhia Medina",
+          "url": "https://open.spotify.com/artist/0l1AWcJLnjRdZx1XLVki2p"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174923,
+      "name": "Rise Above",
+      "url": "https://open.spotify.com/track/613tP1bD9ND4kivnxj6git"
+    },
+    {
+      "album": {
+        "name": "Rise and Shine",
+        "url": "https://open.spotify.com/album/3rpPv6h5BZfRvyzw4ilxh3"
+      },
+      "artists": [
+        {
+          "name": "Solarixo",
+          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Rise and Shine",
+      "url": "https://open.spotify.com/track/1wsYllfN4QacmrmX9vLPv8"
+    },
+    {
+      "album": {
         "name": "Sona",
         "url": "https://open.spotify.com/album/6L1Ky0jzreyEh7IO6kXLTr"
       },
@@ -1647,7 +1824,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 214000,
       "name": "Sand of the Desert",
       "url": "https://open.spotify.com/track/3vvRalqHBwE90YlukV71Qm"
@@ -1777,6 +1954,24 @@
       "duration_ms": 134504,
       "name": "Silhouette Of The Rising Moon",
       "url": "https://open.spotify.com/track/4Xx0DgSHugdXDOqd2t6K0D"
+    },
+    {
+      "album": {
+        "name": "Slow Dharma Rhythm",
+        "url": "https://open.spotify.com/album/0BYXB6NTn8RnJSMlWRFunN"
+      },
+      "artists": [
+        {
+          "name": "Prana Collective",
+          "url": "https://open.spotify.com/artist/5RfYWT0kGJC1Ag4C605tW2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Slow Dharma Rhythm",
+      "url": "https://open.spotify.com/track/2h8r92cX2vlsbmId8bav3l"
     },
     {
       "album": {
@@ -1953,7 +2148,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 212000,
       "name": "Sun Prayer",
       "url": "https://open.spotify.com/track/0KHcH20cePIP8078vLJljF"
@@ -2068,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/3mrcdI2YVDyjCZNtNeoOkf"
+      },
+      "artists": [
+        {
+          "name": "Narmada Shore",
+          "url": "https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188715,
+      "name": "The Rising",
+      "url": "https://open.spotify.com/track/0a8yGgIIXWDzCL0pc5WYiY"
+    },
+    {
+      "album": {
         "name": "The Soul Of The River",
         "url": "https://open.spotify.com/album/7cmnDVld1JljGcOcQpVA5d"
       },
@@ -2176,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Tribal Tibble",
+        "url": "https://open.spotify.com/album/1eBHxz3Ebe4CC8X7O3ytS3"
+      },
+      "artists": [
+        {
+          "name": "Lek-Singh",
+          "url": "https://open.spotify.com/artist/2xjXGjIknfLJXWsZ11MfvI"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238124,
+      "name": "Tribal Tibble",
+      "url": "https://open.spotify.com/track/6t6QdyCqUFIuIVbYVSK3zU"
+    },
+    {
+      "album": {
         "name": "Until Dawn",
         "url": "https://open.spotify.com/album/5UCKkqlCwev6mlA8K3qtvf"
       },
@@ -2277,7 +2508,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 173077,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/4M5e0WjzpTtQun2uRocx29"
@@ -2299,6 +2530,24 @@
       "duration_ms": 152000,
       "name": "Woodworkings",
       "url": "https://open.spotify.com/track/762tPXLug1WSdhiTZiIcSm"
+    },
+    {
+      "album": {
+        "name": "Yin Rhythmatism",
+        "url": "https://open.spotify.com/album/2L9IuGburCtgwiwxfCWlcT"
+      },
+      "artists": [
+        {
+          "name": "Ahamkara",
+          "url": "https://open.spotify.com/artist/0KriRLi8cRLqZU8SJQUgOf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Yin Rhythmatism",
+      "url": "https://open.spotify.com/track/5nhIw5ibl4jJ1Uu9Z4zg8q"
     },
     {
       "album": {

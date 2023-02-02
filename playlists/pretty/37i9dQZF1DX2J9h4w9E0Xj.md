@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,540 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,361 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 | 20 | [Down](https://open.spotify.com/track/1K2YHBBSOIGB7UCK2gLBbI) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Down](https://open.spotify.com/album/4DGWHq0aKL2IgckAKvAEOk) | 3:00 |
 | 21 | [Target Practice](https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Target Practice](https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI) | 2:30 |
 | 22 | [SO TIRED](https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [FRENCH FRIES](https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm) | 3:35 |
-| 23 | [Lava Lamp Pisco](https://open.spotify.com/track/2SPQ2AjGncFJ9fEP0TOwn1) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/2Bl7TOVcB1J05tcKqeL3oa) | 4:01 |
+| 23 | [Lava Lamp Pisco](https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw) | 4:01 |
 | 24 | [I.W.G.F.U.](https://open.spotify.com/track/6nIsw8hm5Qwna1iwJYTwXc) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [I.W.G.F.U.](https://open.spotify.com/album/2X8mrYWzbs724f3FEnSUEI) | 3:36 |
 | 25 | [White Picket Fence](https://open.spotify.com/track/6siOHdRw7Y4g0NmAZ5bweV) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [White Picket Fence](https://open.spotify.com/album/0OH3zQevY0Y3eXo0qA2aH1) | 2:56 |
 | 26 | [Hide](https://open.spotify.com/track/7x1RSzh3EmnIgJzqJCQtd3) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [Hide](https://open.spotify.com/album/3AY7vjgNINaKOGOF00Jwrr) | 3:00 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 | 39 | [Drive Me Home](https://open.spotify.com/track/3AmBGjKYm9c2unI4HVKhEl) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Drive Me Home](https://open.spotify.com/album/0EHwLpLAugSESONgAX8qAl) | 3:18 |
 | 40 | [the last time i was scared was when you caught me trying to kill you](https://open.spotify.com/track/5FpeWv5FyrZnX7C0Q6ypFl) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [the last time i was scared was when you caught me trying to kill you](https://open.spotify.com/album/2NcnVcvucXCSRBj1XCVsx7) | 2:14 |
 | 41 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
-| 42 | [I Just Want That Movie Ending](https://open.spotify.com/track/1DvWXKEOUVx6Uueskk1dYw) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/1VrI6y38tqIwZc01YRFh2G) | 4:30 |
+| 42 | [I Just Want That Movie Ending](https://open.spotify.com/track/1szsGgLWJNiNpJNueHHKxI) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb) | 4:30 |
 | 43 | [What Would You Do?](https://open.spotify.com/track/5v2lHIHssGvhW1vcJuLrLq) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [What Would You Do?](https://open.spotify.com/album/039EIWZALzu9b9Yy5W6x9p) | 2:21 |
 | 44 | [Charlie's Car](https://open.spotify.com/track/0QIwCmAjPIClfPdvHIYeBI) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Charlie's Car](https://open.spotify.com/album/5nAsDKZKbbrxbeYjqmQgtR) | 2:41 |
 | 45 | [Alright](https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Alright](https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 | 49 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
 | 50 | [Endgame](https://open.spotify.com/track/7y6bW9cd1UfttzwqU2lsti) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Endgame](https://open.spotify.com/album/4qqgxO477yvIgcKNL3PwfJ) | 2:36 |
 
-Snapshot ID: `MTY0ODE0MzQzMCwwMDAwMDAwMGQxZjYxMjk2ZmNkZjM2MzFmYTE1MDE4ZDVkMTgxNTkz`
+Snapshot ID: `MTY0ODE0MzQzMCwwMDAwMDAwMGZkOGRkOWM3MWY5NDdhOTMxNTZjMzZmNDUzMmM1Mzc5`

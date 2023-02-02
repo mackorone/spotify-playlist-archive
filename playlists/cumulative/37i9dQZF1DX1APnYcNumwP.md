@@ -4,7 +4,7 @@
 
 > Get immersed by the great depths of ambient and drone.
 
-108 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/1dMBiS1UblD3IgAlmZN7K3)
+108 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

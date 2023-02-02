@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-19",
   "description": "<a href=\"spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ\">Nina Las Vegas'</a> favourite tracks. Updated regularly. Curated by Nina Las Vegas. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Nina Las Vegas' track IDs",
-  "published_playlist_ids": [
-    "22V2A3qGlZBRfAvB6XMm0w"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 161001,
       "name": "101010101 (3D)",
       "url": "https://open.spotify.com/track/1yhijEkkmMwl147cwwvKQa"
@@ -73,10 +70,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 177000,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3gThsMtkS4ferms1umtnqL"
+    },
+    {
+      "album": {
+        "name": "Alors Alors",
+        "url": "https://open.spotify.com/album/6NW9xEZgwyhhNal3GoUOWl"
+      },
+      "artists": [
+        {
+          "name": "Benzz",
+          "url": "https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132765,
+      "name": "Alors Alors",
+      "url": "https://open.spotify.com/track/4BOZst1a8mfanfRSfdRzi9"
     },
     {
       "album": {
@@ -103,7 +118,7 @@
       },
       "artists": [
         {
-          "name": "Nuum",
+          "name": "nuum",
           "url": "https://open.spotify.com/artist/6BAW0yDEeA4wOskLv8y1qe"
         }
       ],
@@ -210,6 +225,24 @@
     },
     {
       "album": {
+        "name": "The Truth Of The Myth",
+        "url": "https://open.spotify.com/album/0Ia7WKtrFo61tQFH3MW4Dc"
+      },
+      "artists": [
+        {
+          "name": "Seimei",
+          "url": "https://open.spotify.com/artist/7zZ9WviThpO5AVYmigIf3V"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376893,
+      "name": "Belfast",
+      "url": "https://open.spotify.com/track/45foO7uI6nRDp78tHpg93p"
+    },
+    {
+      "album": {
         "name": "Big Natty Rasta",
         "url": "https://open.spotify.com/album/6Qkuhu0sMKxoCwlfPrIXrY"
       },
@@ -221,10 +254,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 190000,
       "name": "Big Natty Rasta",
       "url": "https://open.spotify.com/track/41OUnKntDpuprtxRmGMIjM"
+    },
+    {
+      "album": {
+        "name": "Glitch Princess",
+        "url": "https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288573,
+      "name": "Bites on My Neck",
+      "url": "https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor"
     },
     {
       "album": {
@@ -309,6 +360,28 @@
       "duration_ms": 175676,
       "name": "Burn Dem Bridges",
       "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
+    },
+    {
+      "album": {
+        "name": "Burn Dem Bridges (Nia Archives Edit)",
+        "url": "https://open.spotify.com/album/0trpgSYjPsFpnsjxD7FAIM"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147455,
+      "name": "Burn Dem Bridges - Nia Archives Edit",
+      "url": "https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn"
     },
     {
       "album": {
@@ -613,7 +686,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 242446,
       "name": "Crush Me",
       "url": "https://open.spotify.com/track/6KV155X0T39sg7oDqi3G4L"
@@ -671,7 +744,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 202493,
       "name": "DID IT AGAIN",
       "url": "https://open.spotify.com/track/7MW3XxRkjAZEmP0vHdk65X"
@@ -762,6 +835,28 @@
     },
     {
       "album": {
+        "name": "Drop",
+        "url": "https://open.spotify.com/album/1m3tmmXgoFtDcuDOnX3PwV"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        },
+        {
+          "name": "CD",
+          "url": "https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/1lUgDKz3pU8AXiqiO1WfzK"
+    },
+    {
+      "album": {
         "name": "Dance Trax, Vol. 36",
         "url": "https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT"
       },
@@ -795,7 +890,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 283501,
       "name": "drum cloud",
       "url": "https://open.spotify.com/track/20FvCoUju5czGfP8T3pwJj"
@@ -955,7 +1050,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 229674,
       "name": "Forever (jamesjamesjames Remix)",
       "url": "https://open.spotify.com/track/6z24CmJ1eeJV8Wzkv24FKI"
@@ -1431,7 +1526,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 348106,
       "name": "ISoft Life",
       "url": "https://open.spotify.com/track/1KMdsn40pcqhQcDmWW8rUg"
@@ -1592,6 +1687,64 @@
     },
     {
       "album": {
+        "name": "DAAANGER (Deluxe)",
+        "url": "https://open.spotify.com/album/2gufTJej1tExux6pTfJWg9"
+      },
+      "artists": [
+        {
+          "name": "LEVi",
+          "url": "https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Link Up",
+      "url": "https://open.spotify.com/track/5Af7upek1IDziAryeMRINA"
+    },
+    {
+      "album": {
+        "name": "Focus, Explode",
+        "url": "https://open.spotify.com/album/1J7C27j3kKnlBDL44ge90M"
+      },
+      "artists": [
+        {
+          "name": "Strict Face",
+          "url": "https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274121,
+      "name": "Liquid Gold",
+      "url": "https://open.spotify.com/track/0wHyxpWx7LdOmc54h8GVxP"
+    },
+    {
+      "album": {
+        "name": "Looking At Your Pager (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/1kdnF2ZYbBEh14FYvy1lcv"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219073,
+      "name": "Looking at Your Pager - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/19IYiA9TCmbCet65fZZhhN"
+    },
+    {
+      "album": {
         "name": "LOS APARATOS",
         "url": "https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi"
       },
@@ -1655,6 +1808,24 @@
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+    },
+    {
+      "album": {
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168096,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws"
     },
     {
       "album": {
@@ -1796,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Nice To See You",
+        "url": "https://open.spotify.com/album/0kCB7D2VKmhnlAEdTo0ixc"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302123,
+      "name": "Nice To See You",
+      "url": "https://open.spotify.com/track/29h1JvmqLYta6weden9cIm"
+    },
+    {
+      "album": {
         "name": "Nike",
         "url": "https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx"
       },
@@ -1867,6 +2056,24 @@
     {
       "album": {
         "name": "Not There",
+        "url": "https://open.spotify.com/album/6T6Esg6eUxOmcAj8zb1iU2"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202076,
+      "name": "Not There",
+      "url": "https://open.spotify.com/track/1e1bUo8cxd9JHABlXnmBMl"
+    },
+    {
+      "album": {
+        "name": "Not There",
         "url": "https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An"
       },
       "artists": [
@@ -1877,7 +2084,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 202076,
       "name": "Not There",
       "url": "https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG"
@@ -2053,7 +2260,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 320000,
       "name": "Pax - Four Tet Remix",
       "url": "https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3"
@@ -2111,7 +2318,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 261176,
       "name": "Phase 3",
       "url": "https://open.spotify.com/track/7HY8TclvCi8FHcnC3tj6gB"
@@ -2129,7 +2336,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 283507,
       "name": "Platinum Strength",
       "url": "https://open.spotify.com/track/7AZdKMR98ospejDkGb8Nm8"
@@ -2208,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/3OcgIT5qeI4lZnaUHqLQLi"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/6eydzKn9vLC57U9iToAwJD"
+    },
+    {
+      "album": {
         "name": "MATA",
         "url": "https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX"
       },
@@ -2267,6 +2492,28 @@
       "duration_ms": 233293,
       "name": "Roadblock",
       "url": "https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX"
+    },
+    {
+      "album": {
+        "name": "19 & Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142571,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH"
     },
     {
       "album": {
@@ -2354,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Seek & Destroy",
+      "url": "https://open.spotify.com/track/6eT2V7nKXyMf47TwPbtgAD"
+    },
+    {
+      "album": {
         "name": "Shirt",
         "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
       },
@@ -2391,6 +2656,28 @@
       "duration_ms": 226500,
       "name": "Speedy Gs",
       "url": "https://open.spotify.com/track/5FHLW4748Qp01kvyPjbODM"
+    },
+    {
+      "album": {
+        "name": "Start Small (Lamorn Remix)",
+        "url": "https://open.spotify.com/album/54SAgYdUypGi1rRlc58GVN"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Lamorn",
+          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298754,
+      "name": "Start Small - Lamorn Remix",
+      "url": "https://open.spotify.com/track/79HLHHL8xuSumcE6ZV2tOP"
     },
     {
       "album": {
@@ -2478,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Take me home",
+        "url": "https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "Take me home",
+      "url": "https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I"
+    },
+    {
+      "album": {
         "name": "Take Off",
         "url": "https://open.spotify.com/album/3baRS0atOGXgfCMHCxFjvW"
       },
@@ -2541,7 +2846,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
@@ -2563,7 +2868,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 181685,
       "name": "Taste",
       "url": "https://open.spotify.com/track/0AuymFTTHVgNnq3nKVgRuZ"
@@ -2581,7 +2886,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 127262,
       "name": "THAT GIRL",
       "url": "https://open.spotify.com/track/6CxNuPyJT0eqePcocLEoHa"
@@ -2701,10 +3006,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 198130,
       "name": "Voodoo (with J Balvin & Tainy)",
       "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
+    },
+    {
+      "album": {
+        "name": "Welcome To My Island",
+        "url": "https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233278,
+      "name": "Welcome To My Island",
+      "url": "https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud"
     },
     {
       "album": {
@@ -2788,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Work Don't Stop",
+        "url": "https://open.spotify.com/album/137773lEIYB4FGzzQ00xgp"
+      },
+      "artists": [
+        {
+          "name": "Big Skeez",
+          "url": "https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Work Don't Stop",
+      "url": "https://open.spotify.com/track/2oykIE78Z7BSDrq4VEsMy7"
+    },
+    {
+      "album": {
         "name": "Matangi",
         "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
       },
@@ -2835,7 +3176,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 181077,
       "name": "Your Prime",
       "url": "https://open.spotify.com/track/40eJ7ZkhHJ9fEaRXntlytk"
@@ -2853,7 +3194,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 172600,
       "name": "Zoo Girl",
       "url": "https://open.spotify.com/track/2NjpeINGlEPLSftif482b7"

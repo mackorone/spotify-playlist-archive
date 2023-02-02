@@ -4,7 +4,7 @@
 
 > Whether you call it technical, progressive or math metal, it all djents\. Cover: InVisions
 
-146 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/3FSD1cPTm5Jn7t9GfW79Oi)
+146 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

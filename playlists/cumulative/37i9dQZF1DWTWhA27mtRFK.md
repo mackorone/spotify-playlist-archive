@@ -4,7 +4,7 @@
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-76 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
+76 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Sonny Okosun. The essential tracks, all in one playlist.",
   "name": "This Is Sonny Okosun",
-  "published_playlist_ids": [
-    "0a2chP1EajQG8cINpQWqPB"
-  ],
   "tracks": [
     {
       "album": {
@@ -271,7 +268,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 218500,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/1oZ0AbWLSlFWkqBfkkf5OU"
@@ -415,7 +412,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 377093,
       "name": "Holy Mass",
       "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
@@ -613,7 +610,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": "2022-12-05",
       "duration_ms": 292800,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/2m5S0q094ritGmyxX8sWlq"
@@ -768,6 +765,24 @@
     },
     {
       "album": {
+        "name": "51 Lex Presents: My Woman",
+        "url": "https://open.spotify.com/album/3ybLZt0CZ7T1Xf7EXxxYdR"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465506,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/7m1uJW6AuBwPupO90L7APQ"
+    },
+    {
+      "album": {
         "name": "De Fiesta Con... El Caribe, Vol. 2: Festival Internacional",
         "url": "https://open.spotify.com/album/7hrymOvZsjxxVP3McyCb2y"
       },
@@ -876,6 +891,24 @@
     },
     {
       "album": {
+        "name": "51 Lex Presents: Olu Ebube",
+        "url": "https://open.spotify.com/album/2HKflXbr5801wXTtIv32PP"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478786,
+      "name": "Olu Ebube (Ibo Language)",
+      "url": "https://open.spotify.com/track/2Qn7UBzuG48cETAoVAn5e6"
+    },
+    {
+      "album": {
         "name": "Papa's Land",
         "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
       },
@@ -941,7 +974,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 400026,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/0MaN8WY843OfeLUTH0L8lV"
@@ -995,7 +1028,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": "2022-12-20",
       "duration_ms": 335613,
       "name": "Sound Of Music (Wonderful Jah)",
       "url": "https://open.spotify.com/track/79K9qfkTfNgVnPWr2rMtbf"
@@ -1013,7 +1046,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 410666,
       "name": "Steady & Slow",
       "url": "https://open.spotify.com/track/2g79o3Z89QIl1WHhsBQRJj"
@@ -1085,7 +1118,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 513039,
       "name": "The light Of Jah",
       "url": "https://open.spotify.com/track/7cN4N2QhqMl9v5f3DgO4cR"
@@ -1157,7 +1190,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 418093,
       "name": "War of Nations",
       "url": "https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI"
@@ -1179,6 +1212,24 @@
       "duration_ms": 463333,
       "name": "We're In Love",
       "url": "https://open.spotify.com/track/1hZouejgq7j3WfonImzf1S"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: O'Nambia",
+        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 463333,
+      "name": "We're in Love",
+      "url": "https://open.spotify.com/track/7yB2okdczHTP962N6M8u1W"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Learn and practice your Russian language skills, from basic vocabulary to useful travel phrases and conversations.
 
-174 songs - 18 hr 35 min - [published](https://open.spotify.com/playlist/2UkqupMjkGKH48SwipI7Dt)
+174 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

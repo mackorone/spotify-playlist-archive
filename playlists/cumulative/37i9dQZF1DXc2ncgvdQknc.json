@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-14",
   "description": "All 10s, all ballads. Cover: Adele",
   "name": "10s Ballads",
-  "published_playlist_ids": [
-    "78OgGyzhtKp99xxofYpFYm"
-  ],
   "tracks": [
     {
       "album": {
@@ -117,7 +114,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278746,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
@@ -333,7 +330,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 225146,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
@@ -933,7 +930,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-17",
       "duration_ms": 260533,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
@@ -1661,7 +1658,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240706,
-      "name": "Stay - Album Version (Edited)",
+      "name": "Stay",
       "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
     },
     {

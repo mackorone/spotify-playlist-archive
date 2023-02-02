@@ -4,7 +4,7 @@
 
 > Wake up to Songbirds, a mix of melody\-driven indie, folk, and Americana.
 
-25 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/7wBj436qDZKWgB1EBTfkbV)
+25 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

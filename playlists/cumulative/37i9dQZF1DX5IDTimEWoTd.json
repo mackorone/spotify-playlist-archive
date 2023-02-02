@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-07-29",
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
   "name": "Warm Fuzzy Feeling",
-  "published_playlist_ids": [
-    "7nReIoiSVbXtMiixzq38Mf"
-  ],
   "tracks": [
     {
       "album": {
@@ -619,7 +616,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 184973,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx"
@@ -951,7 +948,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
@@ -1250,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Forever and Ever and Always",
+        "url": "https://open.spotify.com/album/5EykK3QfILVgK3kdUQHWrM"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140038,
+      "name": "Forever and Ever and Always",
+      "url": "https://open.spotify.com/track/5keXeMrCGBYXpJYQ0FFqjK"
+    },
+    {
+      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -1513,7 +1528,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 306200,
       "name": "Hold You in My Arms",
       "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
@@ -1643,7 +1658,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 202684,
       "name": "I Like Me Better - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO"
@@ -2163,7 +2178,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 208186,
       "name": "Line By Line (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
@@ -2333,7 +2348,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 226954,
       "name": "love is just a word",
       "url": "https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi"
@@ -2896,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234156,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -3044,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182028,
+      "name": "Smiling All The Way Back Home",
+      "url": "https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB"
+    },
+    {
+      "album": {
         "name": "Smiling All The Way Back Home",
         "url": "https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8"
       },
@@ -3095,7 +3146,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": "2022-12-28",
       "duration_ms": 208154,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
@@ -3221,7 +3272,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 162120,
       "name": "Steal My Love",
       "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"
@@ -3355,10 +3406,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
+    },
+    {
+      "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
     },
     {
       "album": {
@@ -3377,6 +3446,28 @@
       "duration_ms": 196746,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "album": {
@@ -3873,6 +3964,24 @@
       "duration_ms": 222643,
       "name": "Up In Flames (Single from \u201cTime Is Up\u201d Soundtrack)",
       "url": "https://open.spotify.com/track/3nd9LYwkRmQXON3a96B8Lk"
+    },
+    {
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
       "album": {

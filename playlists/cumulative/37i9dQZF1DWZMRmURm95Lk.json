@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. In cover, Inoki e DJ Shocca.",
+  "description": "Beat e rime, oggi come una volta. Mezzosangue in cover.",
   "name": "Radici Hip Hop",
-  "published_playlist_ids": [
-    "4N3m0KkyvafB7QizhgRop2"
-  ],
   "tracks": [
     {
       "album": {
@@ -214,6 +211,32 @@
     },
     {
       "album": {
+        "name": "B4T",
+        "url": "https://open.spotify.com/album/4TyVY0RTzuokyVgXTIElMN"
+      },
+      "artists": [
+        {
+          "name": "Depha Beat",
+          "url": "https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm"
+        },
+        {
+          "name": "Kira",
+          "url": "https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC"
+        },
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156279,
+      "name": "B4T",
+      "url": "https://open.spotify.com/track/2Gyq8XJDhXYOI6jBYW76km"
+    },
+    {
+      "album": {
         "name": "Dead poets 2.0 Cyphers",
         "url": "https://open.spotify.com/album/4I1Ba3vJiG1ge6aIGyakVJ"
       },
@@ -289,7 +312,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 180776,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
@@ -411,7 +434,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-05",
       "duration_ms": 261810,
       "name": "Black Rain, pt. 2",
       "url": "https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF"
@@ -611,7 +634,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 187000,
       "name": "Carattere",
       "url": "https://open.spotify.com/track/1fjTchtUOqEz2PhBqgLH5p"
@@ -769,6 +792,24 @@
       "duration_ms": 265840,
       "name": "Chiedi Alla Polvere 2008",
       "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182153,
+      "name": "Chiudi Gli Occhi",
+      "url": "https://open.spotify.com/track/7Iq93UBQAA4zSYVkbKDJBO"
     },
     {
       "album": {
@@ -998,6 +1039,28 @@
     },
     {
       "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Da 1k In Su (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
+    },
+    {
+      "album": {
         "name": "Daimon",
         "url": "https://open.spotify.com/album/4GvLhJ5Am3n68AamyaDabP"
       },
@@ -1013,7 +1076,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 246818,
       "name": "Daimon",
       "url": "https://open.spotify.com/track/64XdgtHEsUoYNqg0ZHyGcb"
@@ -1097,7 +1160,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 216224,
       "name": "Desideri (feat. Ghemon & Frank Siciliano)",
       "url": "https://open.spotify.com/track/6irVg96EubTPvkRTYasLbA"
@@ -1181,7 +1244,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 260183,
       "name": "Dio lodato per sta chanche",
       "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
@@ -1281,7 +1344,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 105205,
       "name": "Dopo Sole",
       "url": "https://open.spotify.com/track/1grNbRYrJiei15zzpX2fMV"
@@ -1491,7 +1554,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 185759,
       "name": "Fra le note",
       "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
@@ -2010,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
+        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225755,
+      "name": "L'attimo esatto",
+      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
+    },
+    {
+      "album": {
         "name": "L'ELICOTTERO SUL BOSCO",
         "url": "https://open.spotify.com/album/0q0OFv4Gboexr3bzfJkSxK"
       },
@@ -2392,6 +2473,28 @@
     },
     {
       "album": {
+        "name": "Locals only",
+        "url": "https://open.spotify.com/album/2mX8HVs8TDxwa1gTw5k19U"
+      },
+      "artists": [
+        {
+          "name": "Egreen",
+          "url": "https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 142333,
+      "name": "Locals only",
+      "url": "https://open.spotify.com/track/5QuaYNyzZZiMsysFmmPPY2"
+    },
+    {
+      "album": {
         "name": "XENOVERSO",
         "url": "https://open.spotify.com/album/3FfcXJaX81r93MXbmHZUvy"
       },
@@ -2575,7 +2678,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 175219,
       "name": "Maledetti",
       "url": "https://open.spotify.com/track/1xL1G84NvDrorgI0Xcg0Rt"
@@ -2661,6 +2764,32 @@
       "duration_ms": 296093,
       "name": "Meglio Che Scendi",
       "url": "https://open.spotify.com/track/4F5UX1kX9hmqe88NPwl36v"
+    },
+    {
+      "album": {
+        "name": "Barre Mellow Vol.2",
+        "url": "https://open.spotify.com/album/1SFesoZhv1xT3aFM5u1Bra"
+      },
+      "artists": [
+        {
+          "name": "Halba x Foldino",
+          "url": "https://open.spotify.com/artist/4RFIOsKA6DuzE9DGGOHjPT"
+        },
+        {
+          "name": "ydn",
+          "url": "https://open.spotify.com/artist/4JcvyNRNODMozJnJTomJds"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 196595,
+      "name": "MELLOW 7",
+      "url": "https://open.spotify.com/track/1KydqUX6nzGm67LWgLbYRa"
     },
     {
       "album": {
@@ -3397,7 +3526,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 262338,
       "name": "Ora Che La Musica Non C'\u00e8",
       "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
@@ -3496,6 +3625,28 @@
     },
     {
       "album": {
+        "name": "Petra.",
+        "url": "https://open.spotify.com/album/5cRhODEj0eIKDJXsHp1D4O"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165273,
+      "name": "Petra.",
+      "url": "https://open.spotify.com/track/48xtEcLKPcXlYdlPZJTeVs"
+    },
+    {
+      "album": {
         "name": "Pezzi sparsi",
         "url": "https://open.spotify.com/album/4C212s6Y6mmROehhc9am5N"
       },
@@ -3585,7 +3736,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 230375,
       "name": "Pioggia infinita",
       "url": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
@@ -4228,6 +4379,32 @@
     },
     {
       "album": {
+        "name": "Sang\u00f2",
+        "url": "https://open.spotify.com/album/4BfD7Clcx5oBmDfB0K5t2T"
+      },
+      "artists": [
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        },
+        {
+          "name": "Louis Dee",
+          "url": "https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 208636,
+      "name": "Sabbie Mobili (feat. Davide Shorty)",
+      "url": "https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7"
+    },
+    {
+      "album": {
         "name": "Addio, a domani.",
         "url": "https://open.spotify.com/album/3wkBMD98Ty2XycLzeJ0enh"
       },
@@ -4320,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "Turbe Giovanili",
+        "url": "https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "Scattano Le Indagini",
+      "url": "https://open.spotify.com/track/0FeJBn5QuPRTuWyaSNu2aE"
+    },
+    {
+      "album": {
         "name": "Beat Coin",
         "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
       },
@@ -4369,6 +4564,24 @@
       "duration_ms": 262548,
       "name": "Sempre In Piedi",
       "url": "https://open.spotify.com/track/7n8xoN63j0jfjz3008NyBB"
+    },
+    {
+      "album": {
+        "name": "SETE",
+        "url": "https://open.spotify.com/album/7in7wi889gpL9KC4KGFl6K"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119891,
+      "name": "SETE",
+      "url": "https://open.spotify.com/track/3EovIrHKaYuj7BE42FCpZ5"
     },
     {
       "album": {
@@ -4566,6 +4779,24 @@
     },
     {
       "album": {
+        "name": "SETE",
+        "url": "https://open.spotify.com/album/5gENxlnXv9piRcg60MIRsT"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188456,
+      "name": "Sono un Disastro",
+      "url": "https://open.spotify.com/track/1KNQthJkG9zmVGwftZyXSV"
+    },
+    {
+      "album": {
         "name": "Sound Fi Dead",
         "url": "https://open.spotify.com/album/4aw0V9iSboXwBVPKkwWjAT"
       },
@@ -4662,6 +4893,28 @@
     },
     {
       "album": {
+        "name": "Dentro La Mia Mente",
+        "url": "https://open.spotify.com/album/44LZ7F8oRtBh1Ra1WOBC9Q"
+      },
+      "artists": [
+        {
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 178555,
+      "name": "Stai Con Me",
+      "url": "https://open.spotify.com/track/7KaOCxetm1UhJP0bPZrZuz"
+    },
+    {
+      "album": {
         "name": "Stili Di B-Boy",
         "url": "https://open.spotify.com/album/7FjoXq5vmN7YPvWMWGtirN"
       },
@@ -4711,7 +4964,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
@@ -4777,7 +5030,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 205026,
       "name": "Sulla Giostra",
       "url": "https://open.spotify.com/track/01l8BJl6CoFQaR3RFliOD9"
@@ -4855,7 +5108,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 180740,
       "name": "Tenere conto",
       "url": "https://open.spotify.com/track/4N7LPsWFruYR8bGLM96grV"
@@ -5269,7 +5522,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 233386,
       "name": "VETERANO (feat. DJ Shocca)",
       "url": "https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9"

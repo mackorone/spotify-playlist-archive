@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,632 likes - 56 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,686 likes - 56 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 48 | [Angel's Egg: Prelude](https://open.spotify.com/track/3qPdfEagq3UMnBlI8fyj6Z) | [Yoshihiro Kanno](https://open.spotify.com/artist/1heTq679gdTz4dVxujnP2m), [Noriko Ogawa](https://open.spotify.com/artist/60Ygpctc1ZdaRuvvrkiqAU) | [Yoshihiro Kanno: Light, Water, Rainbow...](https://open.spotify.com/album/5U6LNjErYVpSQSVQk5mhjf) | 3:25 |
 | 49 | [Omake\-Pfadlib](https://open.spotify.com/track/0HxoynruEEEo4DF0axOFNj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:31 |
 | 50 | [pfAD\-10:罪](https://open.spotify.com/track/3a3yOY5NhZV9msnSMC1T5e) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Takafumi Wada](https://open.spotify.com/artist/3sxGuh5kVr4exa9PABWTm1) | [七つの大罪 オリジナル・サウンドトラック 2](https://open.spotify.com/album/67H16vW2PEzBo2ZrTkWVHz) | 2:12 |
-| 51 | [Rei\-Opus V](https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:59 |
+| 51 | [Rei\-Opus V](https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:59 |
 | 52 | [AdラLib](https://open.spotify.com/track/4AwCgFvlH58SmKbNWFKsWY) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [キルラキル コンプリートサウンドトラック](https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6) | 3:23 |
 | 53 | [IiMuRoYa\-$.feat 3rd\-Mov.:HEiW@→KiZUN@](https://open.spotify.com/track/59owDR67uubyLwhXNEtQ2k) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック II](https://open.spotify.com/album/0y3XZ3R8MsOQGx16H1wsuz) | 4:12 |
 | 54 | [Kakusei Shinn Asuka](https://open.spotify.com/track/1WNJIa7BzKD6G9v3UR9JJZ) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUITE GUNDAM SEED DESTINY Original Motion Picture Soundtrack 2](https://open.spotify.com/album/3zIYQhqTWF1iEoN220OOEu) | 1:49 |

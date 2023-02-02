@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2006! Cover: Justin Timberlake
 
-159 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/4Ew2qa4hLvvUTXig1T7ApM)
+159 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

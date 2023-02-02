@@ -4,7 +4,7 @@
 
 > A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.
 
-120 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/0wz6julsTeg1QhgoYDFPGm)
+120 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

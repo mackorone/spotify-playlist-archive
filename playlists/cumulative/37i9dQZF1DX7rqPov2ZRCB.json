@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
   "name": "Merengue T\u00edpico",
-  "published_playlist_ids": [
-    "2kyJb17WIqLunrqe9YytYt"
-  ],
   "tracks": [
     {
       "album": {
@@ -117,6 +114,24 @@
       "duration_ms": 163970,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/0RJs8drfEtEtUWy5Ujwbup"
+    },
+    {
+      "album": {
+        "name": "La Cuesti\u00f3n",
+        "url": "https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henr\u00edquez",
+          "url": "https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Ad\u00e1n y Eva",
+      "url": "https://open.spotify.com/track/4HLRak2Wxe2X2HndXYQ7pS"
     },
     {
       "album": {
@@ -653,7 +668,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2022-12-31",
       "duration_ms": 213880,
       "name": "Consejo a las Mujeres",
       "url": "https://open.spotify.com/track/6thw9YnuxjfJ49RwxblhVK"
@@ -779,7 +794,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": "2022-12-06",
       "duration_ms": 284760,
       "name": "Cumande",
       "url": "https://open.spotify.com/track/6V5xHNN6A1WefkSKgQkOsS"
@@ -887,7 +902,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-06",
       "duration_ms": 365600,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/2vJJxPOAPHPYBJqEHl64Oi"
@@ -1643,7 +1658,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-26",
       "duration_ms": 300760,
       "name": "El Pompo",
       "url": "https://open.spotify.com/track/7HgiICdOqo0M8mliWTfqdx"
@@ -1979,7 +1994,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 250613,
       "name": "La Batata",
       "url": "https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa"
@@ -2109,10 +2124,28 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 168489,
       "name": "La Correa",
       "url": "https://open.spotify.com/track/09HW13Gn5zXFQnJlvt95n9"
+    },
+    {
+      "album": {
+        "name": "60 \u00c9xitos",
+        "url": "https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henriquez",
+          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "La Correa",
+      "url": "https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv"
     },
     {
       "album": {
@@ -2239,7 +2272,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 371586,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/6sjj7jg37ccG6jTjlqvJG3"
@@ -2597,7 +2630,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2023-01-08",
       "duration_ms": 656718,
       "name": "La Parrandera",
       "url": "https://open.spotify.com/track/4oAR1btdXP6IhFC34AFgWg"
@@ -2658,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Consagraci\u00f3n de Cari\u00f1o",
+        "url": "https://open.spotify.com/album/785ylApcbHMfJ6nzmBumvv"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henriquez",
+          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "La Pava",
+      "url": "https://open.spotify.com/track/2NjlBCWu91w1DPNb7jPb15"
+    },
+    {
+      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/023zve01lZHkCgbqesOjSg"
       },
@@ -2673,6 +2724,24 @@
       "duration_ms": 173360,
       "name": "La Pava",
       "url": "https://open.spotify.com/track/5MFurpjWaE0RP7O5fpxkNz"
+    },
+    {
+      "album": {
+        "name": "A Llorar Mis Penas",
+        "url": "https://open.spotify.com/album/09Q6xLmKJy7UKFi4U3LF6R"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henr\u00edquez",
+          "url": "https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 172000,
+      "name": "La Pava",
+      "url": "https://open.spotify.com/track/5Tw1y1ChGIp8lzJdJXuYrW"
     },
     {
       "album": {
@@ -2973,7 +3042,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 237640,
       "name": "Las Viejas De Ahora",
       "url": "https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9"
@@ -4089,7 +4158,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 305773,
       "name": "Tipico Caliente",
       "url": "https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE"
@@ -4197,7 +4266,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 275626,
       "name": "Vamos Habla Ingles",
       "url": "https://open.spotify.com/track/3AYVn3RT2SQhzpGq9gRy4b"
@@ -4269,7 +4338,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 279474,
       "name": "Ya No Creo en Ti",
       "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"

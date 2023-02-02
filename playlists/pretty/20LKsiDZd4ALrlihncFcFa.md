@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain]
 
 > The ultimate 90s alt rock playlist featuring Foo Fighters, Pearl Jam, Rage Against the Machine &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 764,782 likes - 100 songs - 6 hr 35 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 763,935 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain]
 | 99 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
 | 100 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 |
 
-Snapshot ID: `NTIxLGE0ODhjNTI1MDBkYTY4OTYyNjZhZTdiNzNjOGJiYjU5YTMyN2I2NDU=`
+Snapshot ID: `NTIzLGI1ODQ2NjdjNTI2Y2IyMzczZTAxYTMyOGJjM2RjYTg5NzBmZGI2Yzk=`

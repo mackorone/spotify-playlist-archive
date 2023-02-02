@@ -4,7 +4,7 @@
 
 > Piano arrangements of classical masterpieces.
 
-50 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/0QCPNnEOAOkeT3mvRfrBsL)
+50 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

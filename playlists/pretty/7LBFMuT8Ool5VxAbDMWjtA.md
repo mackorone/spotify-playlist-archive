@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7LBFMuT8Ool5VxAbDMWjtA.md) - [plain]
 
 > Dark trap beats and ethereal synth arpeggios.
 
-[Spotify Official](https://open.spotify.com/user/tj0g0uiiz4rscm97u8kuqyadv) - 6,192 likes - 44 songs - 2 hr 40 min
+[Spotify Official](https://open.spotify.com/user/tj0g0uiiz4rscm97u8kuqyadv) - 6,165 likes - 44 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

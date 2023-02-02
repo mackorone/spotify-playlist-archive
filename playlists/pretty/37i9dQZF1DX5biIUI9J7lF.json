@@ -1,12 +1,12 @@
 {
   "description": "more than just a lifestyle",
-  "num_followers": 3702,
+  "num_followers": 5974,
   "original_name": "soft life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDVlYWY5ZjU2Mjk1OWRjZGVlODNkNGYwODExZDVhMDU0",
+  "snapshot_id": "MTY2OTk2ODYxOSwwMDAwMDAwMGU0YjFkNTUxMmQwY2EzZDVkYzQxZDRmNjg0MWE5OTJl",
   "tracks": [
     {
       "added_at": "2022-11-24 23:00:00",
@@ -79,6 +79,26 @@
       "duration_ms": 168205,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
+    },
+    {
+      "added_at": "2022-12-02 08:10:19",
+      "album": {
+        "name": "Be On It",
+        "url": "https://open.spotify.com/album/0hEih748IMyx6TO21NEdGw"
+      },
+      "artists": [
+        {
+          "name": "TSCRPT",
+          "url": "https://open.spotify.com/artist/4Z02hpbBY4eH7yN7ceInzV"
+        },
+        {
+          "name": "Rebecca Winter",
+          "url": "https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Be On It",
+      "url": "https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT"
     },
     {
       "added_at": "2022-11-24 23:00:00",
@@ -328,7 +348,7 @@
       "added_at": "2022-11-24 23:00:00",
       "album": {
         "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9"
+        "url": "https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0"
       },
       "artists": [
         {
@@ -338,7 +358,7 @@
       ],
       "duration_ms": 211128,
       "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd"
+      "url": "https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv"
     },
     {
       "added_at": "2022-11-24 23:00:00",

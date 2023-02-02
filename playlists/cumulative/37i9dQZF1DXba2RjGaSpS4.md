@@ -4,7 +4,7 @@
 
 > ¡Empieza un nuevo día con una sonrisa!
 
-110 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/2LTCHqxWDmLKlpGpK2kxc6)
+110 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

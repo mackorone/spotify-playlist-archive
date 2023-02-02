@@ -1,13 +1,129 @@
 {
-  "description": "The best in blues right now. Cover: Joe Louis Walker",
-  "num_followers": 41217,
+  "description": "The best in blues right now. Cover: Taj Mahal",
+  "num_followers": 43415,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDFiYWExOGYxZGM1MjYxYzkzZDc3NzdkZTU1MWI1ZGJh",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDJiZjVkZDFmMjYwZDY0YzMzODZlNDM2MGI3MTYyYzM5",
   "tracks": [
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "500 Miles",
+        "url": "https://open.spotify.com/album/0shW2Ea6gtcqAYOm2bPDMg"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/1oVkFIm3zqa7fy5nUxFyhH"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "That's What Love Will Make You Do",
+        "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "That's What Love Will Make You Do",
+      "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Gee Baby Ain't I Good To You",
+        "url": "https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Gee Baby Ain't I Good To You",
+      "url": "https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Highest Bidder (Acoustic)",
+        "url": "https://open.spotify.com/album/7FB08bB5nHUdT6yvxyrXTo"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Highest Bidder - Acoustic",
+      "url": "https://open.spotify.com/track/1h5ohHc3D1kqp4keFCNfR0"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Don't Walk Out That Door",
+        "url": "https://open.spotify.com/album/5rtVWnIqV2kos0M7PE0KdO"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 249045,
+      "name": "Don't Walk Out That Door",
+      "url": "https://open.spotify.com/track/7dlPFiCTg6YXAjqmn6GwjA"
+    },
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "Don't Know Where She Went",
+        "url": "https://open.spotify.com/album/3Ey01PYiP2lgKibsEEAuuK"
+      },
+      "artists": [
+        {
+          "name": "The Nighthawks",
+          "url": "https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Don't Know Where She Went",
+      "url": "https://open.spotify.com/track/04854r1cdTenXuu3dR2yDv"
+    },
     {
       "added_at": "2022-11-18 05:01:00",
       "album": {
@@ -23,22 +139,6 @@
       "duration_ms": 232200,
       "name": "Pay the Price",
       "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "The Weight of the World",
-        "url": "https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 265045,
-      "name": "The Weight of the World",
-      "url": "https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -203,6 +303,22 @@
       "duration_ms": 424626,
       "name": "Mortgage on My Soul",
       "url": "https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "The Weight of the World",
+        "url": "https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "duration_ms": 265045,
+      "name": "The Weight of the World",
+      "url": "https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -1589,70 +1705,6 @@
       "url": "https://open.spotify.com/track/1HENXx512ScE18AYoJm45r"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/7FnFu8xkQdB5HtX9sTg4eq"
-    },
-    {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "Twisted Ambition",
-        "url": "https://open.spotify.com/album/3PiBghHOpoFuvDw0w61QlI"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Twisted Ambition",
-      "url": "https://open.spotify.com/track/0kB5X2jVipRRWxGyz0xGRC"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Poor Black Children",
-        "url": "https://open.spotify.com/album/05tULZEoDObegbsFSLgXAw"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Wilson",
-          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
-        }
-      ],
-      "duration_ms": 227434,
-      "name": "Poor Black Children",
-      "url": "https://open.spotify.com/track/7zLqqKktW17B2S5CRlrBY7"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Alone With Blues",
-        "url": "https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN"
-      },
-      "artists": [
-        {
-          "name": "Diesel",
-          "url": "https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR"
-        }
-      ],
-      "duration_ms": 219641,
-      "name": "Mirror Blues",
-      "url": "https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX"
-    },
-    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Raisin' Kane",
@@ -1671,38 +1723,6 @@
       "duration_ms": 178680,
       "name": "Raisin' Kane",
       "url": "https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/7MNdKioZBeUYQnpFP9mZiV"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 383360,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "Hangover Blues",
-        "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 244746,
-      "name": "Hangover Blues",
-      "url": "https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY"
     }
   ],
   "unique_name": "Got Blues",

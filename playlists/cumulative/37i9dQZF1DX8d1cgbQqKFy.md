@@ -4,7 +4,7 @@
 
 > Dive into the works of Noam Chomsky, beginning with his latest 2014 release, When Elites Fail.
 
-410 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/2VMXynIh71mHXTRYdUpX6a)
+410 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

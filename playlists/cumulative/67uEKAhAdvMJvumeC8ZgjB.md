@@ -4,7 +4,7 @@
 
 > Unwind and enjoy the evening.
 
-26 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/7JHBszdb8EFltYKnw9s7ht)
+26 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

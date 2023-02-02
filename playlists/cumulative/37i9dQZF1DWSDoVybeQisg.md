@@ -4,13 +4,13 @@
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-119 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/3pi4HINlvE2D4FpaH97xE1)
+119 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5D \(Fifth Dimension\)](https://open.spotify.com/track/6QZfj7u76JcewmSARFVUmr) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Essential Byrds](https://open.spotify.com/album/5TDuE1VngEpSqXue0bMRU1) | 2:32 | 2021-11-10 | 2022-07-29 |
 | [5D \(Fifth Dimension\)](https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 2:33 | 2021-11-10 |  |
-| [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 | 2021-11-10 | 2022-11-23 |
+| [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 | 2021-11-10 |  |
 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 | 2021-11-10 |  |
 | [All Kinds of Highs](https://open.spotify.com/track/4Fm5hirlJGMEtcXcd2H7zZ) | [Bohemian Vendetta](https://open.spotify.com/artist/73VmM9R8AtZr2yM6cTkB6c) | [Bohemian Vendetta](https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD) | 3:40 | 2021-11-10 | 2022-11-13 |
 | [Alone Again Or](https://open.spotify.com/track/6hXHOrhKW9dgQt35Mc5dCb) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes](https://open.spotify.com/album/6myt0Ez6hGJIPQeZKgY8um) | 3:17 | 2021-11-10 | 2022-07-29 |
@@ -63,7 +63,7 @@
 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 | 2021-11-10 |  |
 | [Mr\. Soul](https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield Again](https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7) | 2:52 | 2021-11-10 |  |
 | [My Back Pages](https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Younger Than Yesterday](https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1) | 3:08 | 2021-11-10 |  |
-| [My Woman's Head](https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV) | [Sly Stone](https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0), [The Mojo Men](https://open.spotify.com/artist/0RMmoLhiIGyaVI6icgcJU9) | [Sly Stone & The Mojo Men](https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH) | 3:01 | 2021-11-10 |  |
+| [My Woman's Head](https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV) | [Sly Stone](https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0), [The Mojo Men](https://open.spotify.com/artist/0RMmoLhiIGyaVI6icgcJU9) | [Sly Stone & The Mojo Men](https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH) | 3:01 | 2021-11-10 | 2022-12-24 |
 | [My Womans Head](https://open.spotify.com/track/3m0wZuXpHAse472ASMfTpU) | [Sly Stone & The Mojo Men](https://open.spotify.com/artist/6ihpa5zgHEYPbYr27mSAuj) | [Psychedelic Rock](https://open.spotify.com/album/6KxCnCQbrEcyVgfhncxUGN) | 3:01 | 2021-11-10 | 2022-07-29 |
 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 | 2021-11-10 |  |
 | [Nights In White Satin \- Single Edit](https://open.spotify.com/track/6clw4A52XQ9tLBPHBM8SYG) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1), [Peter Knight](https://open.spotify.com/artist/6USAIDgcDSYPE4cFvHibpX) | [Nights In White Satin Hit Pac](https://open.spotify.com/album/2cYCHa8cPrvU2Vrw4xahof) | 4:24 | 2021-11-10 | 2022-07-29 |

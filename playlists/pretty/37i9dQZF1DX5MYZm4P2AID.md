@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,572 likes - 81 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,186 likes - 81 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 5 | [John B Sail \(The Wreck of the John B\)](https://open.spotify.com/track/2zGdoeMBdeWlQeINKvHWdF) | [The Royal Victoria Hotel Calypsos](https://open.spotify.com/artist/2lbAmEkwTeWMeHBfPIS1Xp), [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 2:56 |
 | 6 | [Sandman](https://open.spotify.com/track/28I0KNqOmkvzzz7SghMhfu) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/1wJMfWm97AQEJqz70orTU8) | 3:12 |
 | 7 | [Fun](https://open.spotify.com/track/4v7prkc928rArBPIwxGJKa) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Fragments](https://open.spotify.com/album/0sr9FWHQ3ckzVkFYk3NPrL) | 3:17 |
-| 8 | [Morning Song](https://open.spotify.com/track/02BHrZuoTz32hlaXRbbvge) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:24 |
+| 8 | [Morning Song](https://open.spotify.com/track/01WQr2XhNnZMu4bjkgLN5s) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:24 |
 | 9 | [Wiya Waist](https://open.spotify.com/track/4lVHvQoC3VMvF0fVpj7c3k) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Aban](https://open.spotify.com/album/2KlF5Rk0eZZbOIwLThaiU1) | 3:13 |
 | 10 | [Baby Why](https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/76PUXnKLSKNPLih9haUnau) | 5:14 |
 | 11 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 35 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
 | 36 | [Give Love A Try](https://open.spotify.com/track/4i00ONewCjrYXz4VZbIMw5) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Meets Sly & Robbie Downtown](https://open.spotify.com/album/2aCP5RN7FDS11gIurk5nvK) | 2:14 |
 | 37 | [The Gunslinger](https://open.spotify.com/track/5K5qfjarVrpR1bpqFc2fer) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [No Mans Land](https://open.spotify.com/album/6mv6jWzf1Z3NsOEAHrh2ze) | 2:59 |
-| 38 | [Johny Says Stay Cool](https://open.spotify.com/track/2EOIrxpEkRXfwnvxk54Up0) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2) | 2:36 |
+| 38 | [Johny Says Stay Cool](https://open.spotify.com/track/6wPXCLMgpEZIt7TNTURGKe) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL) | 2:36 |
 | 39 | [Airwalkin'](https://open.spotify.com/track/3nay2OjMdoZwdf9Tc1dDFc) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Out In The World](https://open.spotify.com/album/5xSRTWBpIFJZZGGRjxNP4F) | 3:35 |
 | 40 | [Pork Rind](https://open.spotify.com/track/2IrhshaSvChFM5VTzooXsn) | [Blackfoot Gypsies](https://open.spotify.com/artist/4wTY4zovD9wK63Wi4WhxGN) | [Handle It](https://open.spotify.com/album/6I3KcXTCNb5QWEmMxNGH6G) | 3:39 |
 | 41 | [Duel in the Dust](https://open.spotify.com/track/1Phs2DbD67760vXozfXnw3) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [No Mans Land](https://open.spotify.com/album/6mv6jWzf1Z3NsOEAHrh2ze) | 2:47 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 80 | [Never Gonna Let You Go](https://open.spotify.com/track/2Im4WHEm20ByCq5AhgshXr) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/2Ab9XyK05zjxrxQpl2YBqD) | 2:31 |
 | 81 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMDFhZjgxZDEzYmIxOTJmNmNhYzc1Njc3ZmIyZmIzYjZl`
+Snapshot ID: `MTY1MTc4MTEzNywwMDAwMDAwMDljYzUwOWJiNzdiYTJjYzVkMTExOTcwNjk4Y2Q2ZjVl`

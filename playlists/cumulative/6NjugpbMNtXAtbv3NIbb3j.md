@@ -4,7 +4,7 @@
 
 > The Spotify House 2015 Thursday lineup.
 
-20 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/7ckrUpDroxHr9SwDwTLicA)
+20 songs - 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

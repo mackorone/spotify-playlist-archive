@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-01",
   "description": "The songs that defined Nigeria's Alt\u00e9 era ",
   "name": "Alt\u00e9 Classics ",
-  "published_playlist_ids": [
-    "4AfobrCRq8eWikHPvogUQe"
-  ],
   "tracks": [
     {
       "album": {
@@ -85,10 +82,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 223853,
       "name": "Aiya",
       "url": "https://open.spotify.com/track/4x89vYSEGIhYd5YKSIUyZL"
+    },
+    {
+      "album": {
+        "name": "Sunsets in Lagos",
+        "url": "https://open.spotify.com/album/3mbHTOgBQgcuOEjzdaAwgb"
+      },
+      "artists": [
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223896,
+      "name": "Aiya",
+      "url": "https://open.spotify.com/track/5pldaGwSTIgiNoJ5bOxSjT"
     },
     {
       "album": {
@@ -1097,7 +1112,7 @@
           "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Odunsi The Engine",
+          "name": "Odunsi (The Engine)",
           "url": "https://open.spotify.com/artist/2IJM1sZVKURhI8zSar9pbL"
         }
       ],

@@ -4,7 +4,7 @@
 
 > Score your day with some signature indie ballads.
 
-57 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/04ZASbGllIfGh6S6l6QMRk)
+57 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Listen Korean indie queen BOL4's melting voice.
 
-135 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/6D7jXJvFtGu8RpCwros1uN)
+135 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

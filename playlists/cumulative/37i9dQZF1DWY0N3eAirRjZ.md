@@ -4,7 +4,7 @@
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: Keauhou
 
-68 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/1jo88XDGrRdHEAZh0fJEh3)
+68 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

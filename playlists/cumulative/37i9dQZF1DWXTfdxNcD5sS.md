@@ -4,7 +4,7 @@
 
 > We found dancing\. Listen to a selection from <a href="https://www.thewarehouseproject.com/ticketlist">The Warehouse Project</a> to celebrate their return to Manchester this month!
 
-66 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/35TmqE1z8EnbA23NNKAylV)
+67 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Liverpool Street In The Rain](https://open.spotify.com/track/0QNkVh7nw7KkQSPkjharYW) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [How The Dogs Chill, Vol\. 1](https://open.spotify.com/album/6c7WKxOsmyo8lH9g5DIFuq) | 5:32 | 2021-09-21 | 2022-07-29 |
 | [Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [How The Dogs Chill, Vol.1](https://open.spotify.com/album/12KUsz5VGp0SNjfXPxNVjE) | 5:32 | 2021-09-21 |  |
 | [Lyk U Use 2 \(feat\. Andres\)](https://open.spotify.com/track/4ncFRft2xEs4kanULQjaOz) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX), [Andres](https://open.spotify.com/artist/7sdFsJNQmnXEJjpgeVeQWO) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 5:43 | 2021-09-21 |  |
-| [Made To Stray](https://open.spotify.com/track/7M0GDtHcuJrTMWtnSs48I3) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/6ETAoJJ5NhxsGyD53cHApT) | 4:46 | 2021-09-21 |  |
+| [Made To Stray](https://open.spotify.com/track/0BVdNCqYq6offkjRGKVRDB) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/4jaLRarRRCScr5v6Y6vUQu) | 4:46 | 2021-09-21 |  |
+| [Made To Stray](https://open.spotify.com/track/7M0GDtHcuJrTMWtnSs48I3) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/6ETAoJJ5NhxsGyD53cHApT) | 4:46 | 2021-09-21 | 2023-02-02 |
 | [Midnight Request Line](https://open.spotify.com/track/6saiu3uHwIpzPl8GKtRRNR) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skream! \(Expanded Edition\)](https://open.spotify.com/album/1nWIYpBIbSn759fhDYPvrx) | 3:59 | 2021-09-21 |  |
 | [MTI](https://open.spotify.com/track/1f8Egwl9HHjPIawRbuioCi) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [4D](https://open.spotify.com/album/76254F4WYdKOm0pVAVvp0x) | 4:16 | 2021-09-21 |  |
 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 | 2021-09-21 |  |

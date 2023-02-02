@@ -4,7 +4,7 @@
 
 > Hear all of TAEYEON's biggest and best hits in one playlist.
 
-82 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/29UVr9MpEgujCNX539vx1g)
+82 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

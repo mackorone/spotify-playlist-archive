@@ -4,7 +4,7 @@
 
 > Funk to these good ol' funky soul classics!
 
-111 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/1zjOq1oqEJezG95HP1aOeI)
+113 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Slippery When Wet](https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 3:17 | 2020-04-15 |  |
 | [Soul Finger](https://open.spotify.com/track/085diW9d1iWe9qeNQiDYOw) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Soul Finger](https://open.spotify.com/album/55E0BKK84Zv6x5y7j8BGTk) | 2:22 | 2020-05-08 |  |
 | [Soul Power 74 \- Pt\. 2](https://open.spotify.com/track/7rFS1AleVTvi4Ye5fzLL44) | [Maceo And The Macks](https://open.spotify.com/artist/0rDIqnqwAmDPL1gyzoFH9y) | [Us](https://open.spotify.com/album/0xokdAGKPT5G5kld9cgcOX) | 4:08 | 2020-05-08 |  |
-| [Stomp! \- Single Version](https://open.spotify.com/track/1Vauxb0dB53UEQc600Shji) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:07 | 2020-05-08 |  |
+| [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 | 2020-05-08 |  |
+| [Stomp! \- Single Version](https://open.spotify.com/track/1Vauxb0dB53UEQc600Shji) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:07 | 2020-05-08 | 2023-01-15 |
 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 | 2020-05-08 |  |
 | [Super Freak](https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 3:25 | 2020-05-08 |  |
 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(O.S.T.\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 | 2020-04-15 |  |
@@ -106,7 +107,8 @@
 | [The Payback](https://open.spotify.com/track/0YSE1fLSwXoGAb3CPzUgZm) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [70's Funk Classics](https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc) | 3:33 | 2020-04-15 |  |
 | [The Payback \- Part 1](https://open.spotify.com/track/0E4Tb9UvOHgI5v59yG50Wm) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Get On Up \- The James Brown Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6f8C6KCkU3ybGalzVqbXY8) | 3:33 | 2020-04-15 | 2022-07-29 |
 | [The Payback \- Pt\. 1](https://open.spotify.com/track/5W649n58BMtYondTG3XLYq) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [D.J\. Masters: Funk Classics](https://open.spotify.com/album/5ZGnytq7MQh4vWvWS1xj4s) | 3:33 | 2020-04-15 | 2022-11-14 |
-| [Theme From "Shaft"](https://open.spotify.com/track/3UgWZwO5KqlfujQn53UW3I) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:36 | 2020-05-08 |  |
+| [Theme From "Shaft"](https://open.spotify.com/track/3UgWZwO5KqlfujQn53UW3I) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:36 | 2020-05-08 | 2023-01-15 |
+| [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 | 2020-05-08 |  |
 | [Think](https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:19 | 2020-05-08 |  |
 | [Think \(About It\)](https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Think \(About It\)](https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE) | 3:24 | 2020-05-08 |  |
 | [U Got the Look](https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 3:47 | 2020-05-08 | 2022-07-29 |

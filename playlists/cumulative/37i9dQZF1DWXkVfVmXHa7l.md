@@ -4,7 +4,7 @@
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-113 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/69wekaeiYRD9lqR2LK7zID)
+113 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

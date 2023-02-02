@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Release The Bats! Siouxsie and the Banshees on the cover.",
+  "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
   "name": "Dark & Gothic",
-  "published_playlist_ids": [
-    "4KApc26ZEN8ii4rvfEh5sM"
-  ],
   "tracks": [
     {
       "album": {
@@ -451,7 +448,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 295680,
       "name": "Beat And The Pulse",
       "url": "https://open.spotify.com/track/5hyEQ6BNYKYrsRNiUxrXT4"
@@ -667,10 +664,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 227276,
       "name": "Blood Be Fluid",
       "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
+    },
+    {
+      "album": {
+        "name": "The Best Of Gene Loves Jezebel - Voodoo Dollies",
+        "url": "https://open.spotify.com/album/0dyidFH3g6JfRNNfhjilf4"
+      },
+      "artists": [
+        {
+          "name": "Gene Loves Jezebel",
+          "url": "https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286773,
+      "name": "Break the Chain",
+      "url": "https://open.spotify.com/track/4pzso9h6xrYcthbQHdaeOq"
     },
     {
       "album": {
@@ -703,7 +718,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 288400,
       "name": "Break The Chain",
       "url": "https://open.spotify.com/track/19ZQ1EOicYOZn5eamUrWFQ"
@@ -883,7 +898,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 335373,
       "name": "Cut The Tree",
       "url": "https://open.spotify.com/track/5qqLatt5qjPHoIUpZYGhgw"
@@ -1304,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711"
+      },
+      "artists": [
+        {
+          "name": "Twin Tribes",
+          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190525,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
+    },
+    {
+      "album": {
         "name": "Fell in Love with a Mermaid",
         "url": "https://open.spotify.com/album/1AFRlFvmQOVgbuL9V52xat"
       },
@@ -1409,7 +1442,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 181466,
       "name": "For Her Light",
       "url": "https://open.spotify.com/track/72mNXIGJyhuC4NQS4AvvBQ"
@@ -1553,7 +1586,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 268773,
       "name": "Go! - Club Mix",
       "url": "https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio"
@@ -1575,6 +1608,24 @@
       "duration_ms": 347333,
       "name": "Golden Age / Labyrinth of Memories",
       "url": "https://open.spotify.com/track/5JwaphAXyuQwuQpQfpMFA8"
+    },
+    {
+      "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
       "album": {
@@ -1679,7 +1730,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 353106,
       "name": "Heart and Soul - 2007 Remaster",
       "url": "https://open.spotify.com/track/4SDscXJTjdF2YgSkYADyU0"
@@ -1719,6 +1770,24 @@
       "duration_ms": 199944,
       "name": "Helena",
       "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
+    },
+    {
+      "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/36FcnufhmxEwHxSPPZIH9l"
+      },
+      "artists": [
+        {
+          "name": "Crone Visions",
+          "url": "https://open.spotify.com/artist/12MHSwdVzUugwDgfhf3p0J"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV"
     },
     {
       "album": {
@@ -1787,7 +1856,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-17",
       "duration_ms": 365706,
       "name": "Holiday on the Moon",
       "url": "https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8"
@@ -1967,7 +2036,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 354573,
       "name": "Indigo Eyes",
       "url": "https://open.spotify.com/track/76gFDqnsl7dZvEABaH5qir"
@@ -2885,7 +2954,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 220640,
       "name": "Play for Today - 2006 Remaster",
       "url": "https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY"
@@ -3346,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV"
+      },
+      "artists": [
+        {
+          "name": "Twin Tribes",
+          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187517,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
       },
@@ -3742,6 +3829,28 @@
     },
     {
       "album": {
+        "name": "STORY OF BLOOD",
+        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451986,
+      "name": "STORY OF BLOOD",
+      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
+    },
+    {
+      "album": {
         "name": "III - Nyctophilian",
         "url": "https://open.spotify.com/album/7AVvNgSuWnRAn8sRjUGRRM"
       },
@@ -3757,6 +3866,24 @@
       "duration_ms": 238560,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/59JCFnXKnbVDihSdhDpNa9"
+    },
+    {
+      "album": {
+        "name": "Strung Out Johnny",
+        "url": "https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "Strung Out Johnny",
+      "url": "https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu"
     },
     {
       "album": {
@@ -3969,7 +4096,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 220093,
       "name": "The Lovecats",
       "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"

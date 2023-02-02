@@ -2,9 +2,223 @@
   "date_first_scraped": "2022-05-01",
   "description": "Conversations on health and fitness, plus tips to jumpstart a new and improved lifestyle.",
   "name": "JRE Talks Health",
-  "published_playlist_ids": [
-    "5E2DpxnMj4wt4TAU8cpGaL"
+  "tracks": [
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 9976151,
+      "name": "#1037 - Chris Kresser",
+      "url": "https://open.spotify.com/episode/4aidTIVUWpTKm9w4I0nlbC"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 9461551,
+      "name": "#1267 - Gary Taubes & Stephan Guyenet",
+      "url": "https://open.spotify.com/episode/6civXCl6aIUJGFyHqkiPlQ"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 8354260,
+      "name": "#1301 - Laird Hamilton",
+      "url": "https://open.spotify.com/episode/5jw2KCwboJzJymB7my3jbl"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10262848,
+      "name": "#1389 - Chris Kresser Debunks \"The Gamechangers\" Documentary",
+      "url": "https://open.spotify.com/episode/3GGXTvfCmjZBLQGQqXrLDh"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 6348265,
+      "name": "#1399 - Pavel Tsatsouline",
+      "url": "https://open.spotify.com/episode/0Jy9viZSQbrVVXuPLBmlOG"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 11064425,
+      "name": "#1474 - Dr. Rhonda Patrick",
+      "url": "https://open.spotify.com/episode/5dPiWhRGxso8rcctfJ7fC6"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 8953918,
+      "name": "#1514 - Joe De Sena",
+      "url": "https://open.spotify.com/episode/5OwcTg3qUWupSHKgjQaarf"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 8513457,
+      "name": "#904 - Gary Taubes",
+      "url": "https://open.spotify.com/episode/53pKJqVdwqjyouPtoK2ozV"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10495071,
+      "name": "#935 - Robb Wolf",
+      "url": "https://open.spotify.com/episode/079p2CiYtIaqiV8aohR4fP"
+    },
+    {
+      "album": {
+        "name": "JRE Clips",
+        "url": "https://open.spotify.com/show/1LMmQF9PH8LjYrktU0Oq5Y"
+      },
+      "artists": [
+        {
+          "name": "JRE Clips",
+          "url": "https://open.spotify.com/show/1LMmQF9PH8LjYrktU0Oq5Y"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 363879,
+      "name": "Joe Rogan Recommends Four Simple Exercises for a Ferocious Workout",
+      "url": "https://open.spotify.com/episode/6hng2fvg3hIVAAKA5RuC5F"
+    },
+    {
+      "album": {
+        "name": "JRE Clips",
+        "url": "https://open.spotify.com/show/1LMmQF9PH8LjYrktU0Oq5Y"
+      },
+      "artists": [
+        {
+          "name": "JRE Clips",
+          "url": "https://open.spotify.com/show/1LMmQF9PH8LjYrktU0Oq5Y"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 522099,
+      "name": "The Importance of Functional Strength Training | Joe Rogan & Pat McNamara",
+      "url": "https://open.spotify.com/episode/7h5TTGLGt5AnVhW3GZt9Og"
+    },
+    {
+      "album": {
+        "name": "JRE Clips",
+        "url": "https://open.spotify.com/show/1LMmQF9PH8LjYrktU0Oq5Y"
+      },
+      "artists": [
+        {
+          "name": "JRE Clips",
+          "url": "https://open.spotify.com/show/1LMmQF9PH8LjYrktU0Oq5Y"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 898798,
+      "name": "Why Being a \"Mouth-Breather\" Is Bad For You w/James Nestor | Joe Rogan",
+      "url": "https://open.spotify.com/episode/3pvyfPIsDmkNhcMqv59yLW"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXmt3eyYYAW6"
 }

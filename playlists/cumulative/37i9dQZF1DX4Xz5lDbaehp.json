@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-04",
   "description": "Introducing the Fresh Finds Class of 2021. Editors' picks of the top Fresh Finds this year. Cover: Pom Pom Squad, Araya, TOLEDO. Artwork: Isu Kim",
   "name": "Fresh Finds Presents... Fresh Finds Class of 2021",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -323,10 +322,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+    },
+    {
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
     },
     {
       "album": {
@@ -366,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Flower Ghoul",
+        "url": "https://open.spotify.com/album/2YO1qD5UtT9U5FDDeesuWE"
+      },
+      "artists": [
+        {
+          "name": "Deijuvhs",
+          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4BeYJ0wIwouR1RgEWqkOwB"
+    },
+    {
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/70opr7vOKa2LgR2ihHm9uj"
       },
@@ -377,7 +412,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 228000,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/7heKE7iTEOpQBVPN6KeZRx"
@@ -1030,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Fantasy Girl",
+        "url": "https://open.spotify.com/album/33hWzJf0abePlCAAskSZSC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Escuyos",
+          "url": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204042,
+      "name": "Got Me (Feelin' Like)",
+      "url": "https://open.spotify.com/track/3PkTWWD9NDIN82BwuB3yOe"
+    },
+    {
+      "album": {
         "name": "Got Me (Feelin' Like)",
         "url": "https://open.spotify.com/album/19WNAHNH5e9e55hMbKcJ5q"
       },
@@ -1041,7 +1094,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 204042,
       "name": "Got Me (Feelin' Like)",
       "url": "https://open.spotify.com/track/5tZXAxvk8Zfe1p6Pd78kqa"
@@ -1427,10 +1480,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 177176,
       "name": "Late To The Party",
       "url": "https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7"
+    },
+    {
+      "album": {
+        "name": "Late To The Party",
+        "url": "https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177176,
+      "name": "Late To The Party",
+      "url": "https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn"
     },
     {
       "album": {
@@ -1924,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "We're more than friends, but less than lovers.",
+        "url": "https://open.spotify.com/album/4PWlGW7L9xO1LMF89Rhtnu"
+      },
+      "artists": [
+        {
+          "name": "Ricky James",
+          "url": "https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149818,
+      "name": "Pissed in the Morning",
+      "url": "https://open.spotify.com/track/37MEdkEWiuRRxzKmzzgaHb"
+    },
+    {
+      "album": {
         "name": "Pissed in the Morning",
         "url": "https://open.spotify.com/album/0Pprw9uYAGNPm9Y1Wh6Q1F"
       },
@@ -1935,7 +2024,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 149818,
       "name": "Pissed in the Morning",
       "url": "https://open.spotify.com/track/3cKgffGir3V6y0iGR75KHT"
@@ -2101,10 +2190,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 172831,
       "name": "Right Where You Like",
       "url": "https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql"
+    },
+    {
+      "album": {
+        "name": "Right Where You Like",
+        "url": "https://open.spotify.com/album/0Qg0coUk5hJTJRHnultu4u"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chahayed",
+          "url": "https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172831,
+      "name": "Right Where You Like",
+      "url": "https://open.spotify.com/track/7IoZZURqAsM3luroL55gG8"
     },
     {
       "album": {
@@ -2249,10 +2356,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 116504,
       "name": "soda stain",
       "url": "https://open.spotify.com/track/3RbKJKBWHBBPkNZ3BaCKfj"
+    },
+    {
+      "album": {
+        "name": "soda stain",
+        "url": "https://open.spotify.com/album/1Gn1TB1BRQC0UI5nfCdWKB"
+      },
+      "artists": [
+        {
+          "name": "The Golf Club",
+          "url": "https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116504,
+      "name": "soda stain",
+      "url": "https://open.spotify.com/track/77GEf9fKSwqfxM26VJs7UK"
     },
     {
       "album": {

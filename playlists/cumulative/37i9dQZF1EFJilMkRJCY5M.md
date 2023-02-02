@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-79 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0gxAW1q4I1g7VVKmDKFea6)
+82 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2022-05-29 |  |
 | [If You Only Knew](https://open.spotify.com/track/1Sa8stvZa1DDMXWirp34XB) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [If You Only Knew](https://open.spotify.com/album/0QYjygDiIDvVRdicdoTrvk) | 3:32 | 2022-10-08 |  |
 | [In The Middle](https://open.spotify.com/track/6qnvjsMmlxf4TPfbD53ybj) | [The Mamas](https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ) | [In The Middle](https://open.spotify.com/album/0AndLLhclP9WoLEsXVWipw) | 3:03 | 2022-05-29 |  |
-| [Keep in Touch](https://open.spotify.com/track/4G3U1mkd1x0qYYzVAcV4rY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [TWENTYTWENTY](https://open.spotify.com/album/13j0Kg7NR6uwvE1TEXlNQi) | 3:02 | 2022-05-29 |  |
+| [Keep in Touch](https://open.spotify.com/track/4G3U1mkd1x0qYYzVAcV4rY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [TWENTYTWENTY](https://open.spotify.com/album/13j0Kg7NR6uwvE1TEXlNQi) | 3:02 | 2022-05-29 | 2022-12-24 |
 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 | 2022-05-29 |  |
 | [lose a friend](https://open.spotify.com/track/0Cw21zwpYtEsRtX1ahlC5O) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 3:07 | 2022-05-29 |  |
 | [Loud House](https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1) | 3:24 | 2022-08-07 |  |
@@ -52,6 +52,7 @@
 | [Mercury Rising](https://open.spotify.com/track/00Onz80bx3KFwXcAcwZfH4) | [Tezza](https://open.spotify.com/artist/6T3zoiBS7q6g0H7rSnKvRd) | [Mercury Rising](https://open.spotify.com/album/6GQGzl8XsvWfPgr0KL22I5) | 2:41 | 2022-05-29 |  |
 | [Miss It Now \(For Sarah\)](https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Miss It Now \(For Sarah\)](https://open.spotify.com/album/1xGWc24fUFh0QtXmCfQvSG) | 2:30 | 2022-05-29 |  |
 | [More Than I Want To](https://open.spotify.com/track/7g1JBB5oEkSFAPMBi1Qlc4) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [More Than I Want To](https://open.spotify.com/album/1nTLKXHk6HsFbDoUGG7415) | 2:47 | 2022-05-29 |  |
+| [nervous](https://open.spotify.com/track/7gacDtNNBGmV4D1ZzjSsHJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [nervous](https://open.spotify.com/album/5vBpXxwiH2nZS3K4mB3Wm5) | 2:58 | 2023-01-27 |  |
 | [never been in love](https://open.spotify.com/track/3C1BJMHwYRUBrg78duMaOE) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Sugarcoated](https://open.spotify.com/album/4505aBIeu5JcRNKg3nFQbt) | 3:06 | 2022-05-29 |  |
 | [Never Now](https://open.spotify.com/track/2gSFr15E0Mv4cI6dhZJLWs) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Never Now](https://open.spotify.com/album/4k7wUy1wwoaIRvkMbbekNu) | 3:32 | 2022-05-29 |  |
 | [New Town](https://open.spotify.com/track/2znEJ1xEQdOnXJB44jRoSB) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5UHON4pVvrXgn9DIPUNPq0) | 3:12 | 2022-05-29 |  |
@@ -78,7 +79,8 @@
 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 | 2022-05-29 |  |
 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 | 2022-06-18 |  |
 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 | 2022-05-29 |  |
-| [Unbreakup](https://open.spotify.com/track/6NODj3b3U76GKaBRE07Mee) | [Cadence](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/0Bk4pwzuIDK25RQhxf3qMZ) | 3:44 | 2022-05-29 |  |
+| [Unbreakup](https://open.spotify.com/track/2md4QjCglKIHsB95VM8pWi) | [Cadence](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/2dI9QoBHep9dPf00ubgsjN) | 3:44 | 2022-12-10 |  |
+| [Unbreakup](https://open.spotify.com/track/6NODj3b3U76GKaBRE07Mee) | [Cadence](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/0Bk4pwzuIDK25RQhxf3qMZ) | 3:44 | 2022-05-29 | 2022-12-11 |
 | [Wasted](https://open.spotify.com/track/411amJVDbx5dt7cGFPIAhg) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Wasted](https://open.spotify.com/album/6Zqf5CDLIGPjHh6ZT0NInT) | 2:45 | 2022-10-18 |  |
 | [Wasted](https://open.spotify.com/track/5HUfKHpYUG2Q5qtuVJ9IE3) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Wasted](https://open.spotify.com/album/6kdwiQJEmAhrNPo9mvhD8m) | 2:45 | 2022-05-29 | 2022-10-19 |
 | [We Can’t Be Friends](https://open.spotify.com/track/07N4DMXTlLjoGnaNdr75z9) | [Drty Shdw](https://open.spotify.com/artist/1V5Vqlxw4xGhfGQt4N64DL) | [We Can’t Be Friends](https://open.spotify.com/album/49Vai1B7rDNOgmKoWvqirN) | 3:34 | 2022-05-29 |  |
@@ -86,6 +88,7 @@
 | [Where Do We Go \- The Voice Performance](https://open.spotify.com/track/5a7QUeuh2OXw0SI4go5shg) | [John Holiday](https://open.spotify.com/artist/1t7W0bPXdarbjiCuEeFv2y) | [The Season 19 Collection \(The Voice Performance\)](https://open.spotify.com/album/2V28iwMeICBbv2Qqsi9gd1) | 2:27 | 2022-05-29 |  |
 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 | 2022-08-06 |  |
 | [Wild Thoughts](https://open.spotify.com/track/3zKHLE9q6vcmg0ZFnvkCcM) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [Way Back When](https://open.spotify.com/album/3VPqcQjuGUSlHz8ThfntyN) | 3:15 | 2022-06-26 |  |
-| [Wish You Wouldn’t](https://open.spotify.com/track/1C3Mqv16nA4U4NPKzFlXFa) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me: The Way I Feel](https://open.spotify.com/album/1O0hQggcu3MyPbmvTPm3X7) | 3:15 | 2022-10-13 |  |
+| [Wish You Wouldn’t](https://open.spotify.com/track/1C3Mqv16nA4U4NPKzFlXFa) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me: The Way I Feel](https://open.spotify.com/album/1O0hQggcu3MyPbmvTPm3X7) | 3:15 | 2022-10-13 | 2023-01-14 |
+| [Wish You Wouldn’t](https://open.spotify.com/track/6n4oQej0fopZK1Vijr6CFo) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Real To Me: The Way I Feel \(Deluxe Edition\)](https://open.spotify.com/album/5dMuhkxPLZSmG1uGMuPEf1) | 3:15 | 2023-01-13 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

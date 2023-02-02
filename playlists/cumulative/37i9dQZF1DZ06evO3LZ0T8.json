@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-10",
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
   "name": "This Is SUBSHIFT",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -195,6 +194,24 @@
       "duration_ms": 176750,
       "name": "Don't Sweat It",
       "url": "https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215708,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
     },
     {
       "album": {
@@ -423,6 +440,24 @@
       "duration_ms": 169830,
       "name": "Oh Babe",
       "url": "https://open.spotify.com/track/2PLMPEaM0SaBjIgIb8ntxD"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176648,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD"
     },
     {
       "album": {

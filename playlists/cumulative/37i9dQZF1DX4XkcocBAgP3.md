@@ -4,7 +4,7 @@
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/3Kp3WiSdtQdoPYlxnSP7sR)
+71 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Every Little Bit Helps](https://open.spotify.com/track/4403SJ69vRequRi3bV57e4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 4:07 | 2022-08-25 |  |
 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 | 2022-08-25 |  |
 | [Going, Going, Gone](https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 2:57 | 2022-08-25 |  |
+| [Growin' Up and Gettin' Old](https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up and Gettin' Old](https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d) | 3:53 | 2023-01-27 |  |
 | [Honky Tonk Highway](https://open.spotify.com/track/72DdM3q1npvvRUoa1YQEOd) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:32 | 2022-08-25 |  |
 | [Houston, We Got a Problem](https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:11 | 2022-08-25 |  |
 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:42 | 2022-08-25 |  |

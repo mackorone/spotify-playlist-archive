@@ -1,0 +1,26 @@
+[pretty](/playlists/pretty/37i9dQZF1DWSyvClYigbMm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSyvClYigbMm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSyvClYigbMm)
+
+### [Roger Sanchez DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWSyvClYigbMm)
+
+> House Music legend S\-Man, aka <a href="spotify:artist:1HT9k1ZSUL9IczSstOAgWJ">Roger Sanchez</a>, takes us on a ride with his latest DJ set.
+
+14 songs - 59 min 56 sec
+
+| Title | Artist(s) | Album | Length | Added | Removed |
+|---|---|---|---|---|---|
+| [Alma Roja \- DJ Chus Remix \- Mixed](https://open.spotify.com/track/5FZ2xYw6S7KqdPrwR9yWCA) | [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Alma Roja \- DJ Chus Remix \(Mixed\)](https://open.spotify.com/album/2okzNkuPv1SS6xc7PfJGXp) | 3:49 | 2022-12-28 |  |
+| [Genius Of House \- Sam Divine Remix \- Mixed](https://open.spotify.com/track/5SuglkxbgfeHLmyIQiu4dQ) | [Uch](https://open.spotify.com/artist/0DwWk352O9u1BN0eNJx9wT), [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ) | [Genius Of House \- Sam Divine Remix \(Mixed\)](https://open.spotify.com/album/00o3Hdq3AtZ02ppCiviIrM) | 4:49 | 2022-12-28 |  |
+| [Happy Baby \- Mixed](https://open.spotify.com/track/50qjWl8RGn4RFkFiqwxeWL) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc) | [Happy Baby \(Mixed\)](https://open.spotify.com/album/2PxITywyMZmjhpuEzJWMVt) | 4:04 | 2022-12-28 |  |
+| [Jack Your Soul \- Mixed](https://open.spotify.com/track/6pfhUxMPHCi1Xg4jwn4aYL) | [Horatio](https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD) | [Jack Your Soul \(Mixed\)](https://open.spotify.com/album/4LJpHQstda1CYu8VySko97) | 2:47 | 2022-12-28 |  |
+| [Lazmeh \- Mixed](https://open.spotify.com/track/4ruYXKnhAKcM4PElmbQ5fL) | [Saliva Commandos](https://open.spotify.com/artist/1KoSnTUvEhtwNeZqaZnZ9M) | [Lazmeh \(Mixed\)](https://open.spotify.com/album/5qD8yIUTiG2bSC87uD0634) | 4:47 | 2022-12-28 |  |
+| [Losing Your Mind \- Roger Sanchez Dark Remix \- Mixed](https://open.spotify.com/track/1hmK5QZf753BrsAIXoTAy9) | [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Losing Your Mind \- Roger Sanchez Dark Remix \(Mixed\)](https://open.spotify.com/album/6EBEAvmge17TXV8bm96VAk) | 5:20 | 2022-12-28 |  |
+| [My Roots \(Technasia Remix\) \- Mixed](https://open.spotify.com/track/7LwgPMKumZu1BmwmcSTFa1) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [My Roots \(Technasia Remix\) \[Mixed\]](https://open.spotify.com/album/4n7zmZSOK0YpsH67HIs4nE) | 3:34 | 2022-12-28 |  |
+| [No Victim \- Mixed](https://open.spotify.com/track/0ezGOvVFzRIdbWQrfE8ywo) | [NIGHTLAB](https://open.spotify.com/artist/2MGVPPnJFQdzBGVaD0bLWf) | [No Victim \(Mixed\)](https://open.spotify.com/album/0EvLnqXuefs6yVIuQ8iEO7) | 3:49 | 2022-12-28 |  |
+| [Oyelo \- Mixed](https://open.spotify.com/track/1lDQnVWqiFb2rP52BIu2qB) | [Alvaro Smart](https://open.spotify.com/artist/5mbyspiSS4lpcYgcLKWKmS), [DJ Oliver](https://open.spotify.com/artist/0CRTINjG89hi9bwdOOzE5w), [Jhonny Reuters](https://open.spotify.com/artist/19YQxT5GjcVSrrDaEloFS6) | [Oyelo \(Mixed\)](https://open.spotify.com/album/4wB7cmgiyIyGCDo76EYvuE) | 3:04 | 2022-12-28 |  |
+| [Remember Me \- Mixed](https://open.spotify.com/track/2s4chMlVm8n6qolsEGiIBm) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Remember Me \(Mixed\)](https://open.spotify.com/album/7EiZO3ztwux39RrTq8kXsN) | 5:21 | 2022-12-28 |  |
+| [Retrofuture \- Mixed](https://open.spotify.com/track/2bzoDjEUKeMEzfinFzkobC) | [Cocodrills](https://open.spotify.com/artist/5CkZdJ21uRyz9wG9KSDJEN) | [Retrofuture \(Mixed\)](https://open.spotify.com/album/6T5doUMAIsokwptKo5sRgB) | 4:31 | 2022-12-28 |  |
+| [Scorpion \(The Ghetto\) \- Javi Bora Remix \- Mixed](https://open.spotify.com/track/6BhabEmNdym35wle9t5aON) | [Saliva Commandos](https://open.spotify.com/artist/1KoSnTUvEhtwNeZqaZnZ9M), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Javi Bora](https://open.spotify.com/artist/55KbYy2WOB2To9rnNkSGZ2) | [Scorpion \(The Ghetto\) \- Javi Bora Remix \[Mixed\]](https://open.spotify.com/album/4bHJWmZXU5AB1aizrbmh4C) | 4:34 | 2022-12-28 |  |
+| [Turn on the Music \(Rogue D Remix\) \- Mixed](https://open.spotify.com/track/3eDaDO0OIZCdVDz3DyB9dj) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Rogue D](https://open.spotify.com/artist/0GD2p148QIVSHAkeGPdu6f) | [Turn on the Music \(Rogue D Remix\) \[Mixed\]](https://open.spotify.com/album/5WlXIQTKm3zytbwQ3UoD2q) | 4:53 | 2022-12-28 |  |
+| [Voices \- Mixed](https://open.spotify.com/track/6NuQKwnn2M4oUdbWlsODsn) | [Silvano Del Gado](https://open.spotify.com/artist/3sxWIeO2uiWcI5xPwWekYq) | [Voices \(Mixed\)](https://open.spotify.com/album/0gaVUKYbGNbGYgSrfEHDp1) | 4:34 | 2022-12-28 |  |
+
+\*This playlist was first scraped on 2023-01-01. Prior content cannot be recovered.

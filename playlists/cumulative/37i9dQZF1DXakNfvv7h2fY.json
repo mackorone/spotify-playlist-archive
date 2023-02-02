@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Rain keep a fallin\u2019 round my window pane... Blues to warm the soul when there\u2019s no point going outside.\n",
+  "description": "Comforting Blues to warm the soul when there\u2019s no point going outside.\n",
   "name": "Rainy Day Blues",
-  "published_playlist_ids": [
-    "7oJ0v1QCs5RqWKmg8kv7zj"
-  ],
   "tracks": [
     {
       "album": {
@@ -1289,6 +1286,24 @@
       "duration_ms": 124786,
       "name": "Please Tell Me Why",
       "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
+    },
+    {
+      "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152933,
+      "name": "Rainin' In My Heart",
+      "url": "https://open.spotify.com/track/0t5IteKDnugg7tZKEh8fYS"
     },
     {
       "album": {

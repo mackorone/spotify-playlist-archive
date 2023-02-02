@@ -4,7 +4,7 @@
 
 > Rewind and unwind with sirens of the seventies and eighties.
 
-86 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/2a6pRjNMNt3VwiEs9C9Lyi)
+86 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Larissa Lambert is our new RADAR artist to watch!
 
-180 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
+180 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

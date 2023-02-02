@@ -2,9 +2,9 @@
 
 ### [Old School Metal](https://open.spotify.com/playlist/37i9dQZF1DX2LTcinqsO68)
 
-> Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth
+> Like the old school sound of metal? Then you'll love this playlist! Cover: Iron Maiden
 
-209 songs - 16 hr 35 min - [published](https://open.spotify.com/playlist/1VmlLP0qiZZBktFrdHU5cj)
+210 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Eruption \- 2015 Remaster](https://open.spotify.com/track/2tAeN2TKlQLOoSPXtARzBV) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 1:42 | 2021-11-28 |  |
 | [Evil](https://open.spotify.com/track/5pH1BecbNktYDbYw0XCEWn) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58) | 4:44 | 2022-07-14 |  |
 | [Evil](https://open.spotify.com/track/6LGoJAyN1xAqF3VJZt0MKx) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/2csZMxSEbMiDhiaZuEeuuv) | 4:44 | 2021-11-28 | 2022-07-29 |
-| [Fast as a Shark](https://open.spotify.com/track/204523f9MSgEfc0oDJycNS) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Restless And Wild](https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX) | 3:48 | 2022-07-14 |  |
+| [Fast as a Shark](https://open.spotify.com/track/204523f9MSgEfc0oDJycNS) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Restless And Wild](https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX) | 3:48 | 2022-07-14 | 2023-01-22 |
 | [Fast As A Shark](https://open.spotify.com/track/1zFarlqzxsE9I3QiwrdwJN) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Restless And Wild](https://open.spotify.com/album/5EQYYnFwrXo3PWSRICoFHj) | 3:49 | 2021-11-28 | 2022-07-29 |
 | [Fight Fire With Fire \(Remastered\)](https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 4:44 | 2022-07-14 |  |
 | [Fight Fire With Fire \- Remastered](https://open.spotify.com/track/2tfJfHUDg7w1FuiIoXuDVw) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/5nBU21L37aHEOEjoXV6g8O) | 4:44 | 2021-11-28 | 2022-07-29 |
@@ -81,7 +81,8 @@
 | [Holy Diver](https://open.spotify.com/track/57fqmDaokbxZ3TaB0jp39q) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 5:53 | 2022-07-14 |  |
 | [Holy Diver \- 2016 Remaster](https://open.spotify.com/track/6zJ8axqwi1XQDfO5fMtanG) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver \(2016 Remaster\)](https://open.spotify.com/album/4SeV83magIxYBuQNLjrXFz) | 5:54 | 2022-10-25 | 2022-11-13 |
 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 | 2021-11-28 |  |
-| [I Love It Loud](https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 4:15 | 2021-11-28 |  |
+| [I Love It Loud](https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 4:15 | 2021-11-28 | 2022-12-15 |
+| [I Love It Loud \- 2022 Remastered](https://open.spotify.com/track/600p5yFQWKHxqEvejm6GfN) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 4:14 | 2022-10-25 |  |
 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 | 2021-11-28 |  |
 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 | 2022-07-14 |  |
 | [I Wanna Be Somebody](https://open.spotify.com/track/395uj20WFZvffLXIGFD0u6) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/1wkHccuJCH8tFv8aE4YkOs) | 3:43 | 2021-11-28 | 2022-07-29 |
@@ -135,7 +136,7 @@
 | [One \(Remastered\)](https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF) | 7:26 | 2022-07-14 |  |
 | [One \(Remastered\)](https://open.spotify.com/track/3sRZqCxbnwiKKPe57WoT6S) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered\)](https://open.spotify.com/album/4Cn4T0onWhfJZwWVzU5a2t) | 7:26 | 2022-10-25 | 2022-11-13 |
 | [Only the Brave](https://open.spotify.com/track/5F4PRUrsZQ8zTppxd6OA9a) | [Tygers Of Pan Tang](https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna) | [Tygers of Pan Tang](https://open.spotify.com/album/3amo8Qg9VoTutpiftk6oAO) | 5:03 | 2021-11-28 | 2022-11-13 |
-| [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 | 2021-11-28 | 2022-11-14 |
+| [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 | 2021-11-28 | 2022-12-16 |
 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 | 2022-07-14 |  |
 | [Overkill](https://open.spotify.com/track/3fGFMkrNPkLDclY5zngqqW) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill](https://open.spotify.com/album/1hindeJXXIjo4qrTOOusGG) | 5:11 | 2022-10-25 | 2022-11-12 |
 | [Overkill](https://open.spotify.com/track/1Krtfh550kyhfWPcRp6SnD) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Deluxe Edition\)](https://open.spotify.com/album/3xqjaGS3zK0WQPLg6Qdb50) | 5:13 | 2021-11-28 | 2022-07-29 |
@@ -210,7 +211,7 @@
 | [Wasted Years \- 1998 Remaster](https://open.spotify.com/track/4PSiPZp8MYMDZzuBhCLgc6) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere In Time](https://open.spotify.com/album/6Iqmuo6t66LmiO3al7U8ZD) | 5:07 | 2021-11-28 | 2022-07-29 |
 | [Wasted Years \- 2015 Remaster](https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 \- Remaster\)](https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr) | 5:09 | 2022-07-14 |  |
 | [We Rock](https://open.spotify.com/track/6qxi41lmbH35MT29bqlL4k) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [The Last In Line](https://open.spotify.com/album/2Oc6mL1VEuNPUEkbVeN1P0) | 4:33 | 2021-11-28 | 2022-07-29 |
-| [We Rock](https://open.spotify.com/track/4cMKvXUOLFbC6lRLCz5HPg) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [The Last in Line](https://open.spotify.com/album/4XAy5hk5sgMdDlORiNrVM9) | 4:35 | 2022-07-14 | 2022-11-14 |
+| [We Rock](https://open.spotify.com/track/4cMKvXUOLFbC6lRLCz5HPg) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [The Last in Line](https://open.spotify.com/album/4XAy5hk5sgMdDlORiNrVM9) | 4:35 | 2022-07-14 |  |
 | [We're Not Gonna Take It](https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:39 | 2021-11-28 |  |
 | [Wheels of Steel \- 2009 Remastered Version](https://open.spotify.com/track/4ie42LCUKcp68EnZOMw9PG) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Wheels of Steel \(2009 Remastered Version\)](https://open.spotify.com/album/6EGEGr4oY0PsV6yGBxeQ8J) | 5:58 | 2021-11-28 |  |
 | [Wild Child](https://open.spotify.com/track/3iC3Numiy9P3AkF7iioKmx) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [The Last Command](https://open.spotify.com/album/6208JTIcyn2wSRjiRXMTUv) | 5:12 | 2022-07-14 |  |

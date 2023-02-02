@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Happy and uplifting Jazz to get you in a good mood.",
   "name": "Feel Good Jazz",
-  "published_playlist_ids": [
-    "4rHMKSAEVjnyNAUi0PpYVv"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,24 @@
       "duration_ms": 156546,
       "name": "(How Little It Matters) How Little We Know",
       "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
+    },
+    {
+      "album": {
+        "name": "42nd Street Shuffle",
+        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259786,
+      "name": "42nd Street Shuffle",
+      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
     },
     {
       "album": {
@@ -231,6 +246,28 @@
       "duration_ms": 219266,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D"
+    },
+    {
+      "album": {
+        "name": "Jazz Masters 35: Johnny Hodges",
+        "url": "https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447200,
+      "name": "Back Beat",
+      "url": "https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS"
     },
     {
       "album": {
@@ -525,7 +562,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 331386,
       "name": "Doozy - 1966 Album Version",
       "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
@@ -579,7 +616,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 255000,
       "name": "El D\u00eda Feliz Que Est\u00e1 Llegando",
       "url": "https://open.spotify.com/track/3tDgxtrndyfPWSZNiBpJXl"
@@ -889,7 +926,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 144800,
       "name": "I Ain't Got Nobody",
       "url": "https://open.spotify.com/track/1mYU1xNK2THM44DpukZGY4"
@@ -907,7 +944,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 167160,
       "name": "I Can't Believe That You're In Love With Me",
       "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
@@ -1153,7 +1190,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 188640,
       "name": "I'm Beginning To See The Light - Mono Version",
       "url": "https://open.spotify.com/track/3oDZ1hAeCOUo0oJKlqc9sw"
@@ -1326,7 +1363,7 @@
     },
     {
       "album": {
-        "name": "Introducing",
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
       "artists": [
@@ -1337,9 +1374,9 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 300346,
-      "name": "It's All Right With Me - Rudy Van Gelder Edition/Digital Remaster/2006",
+      "name": "It's All Right With Me - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow"
     },
     {
@@ -1377,7 +1414,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 192213,
       "name": "It's Only a Paper Moon",
       "url": "https://open.spotify.com/track/27Gqrcetxl6L6UOyhKrLwo"
@@ -1645,7 +1682,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 201466,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6"
@@ -2069,7 +2106,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 322586,
       "name": "Room 608 - Remastered",
       "url": "https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50"
@@ -2213,7 +2250,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 225600,
       "name": "Sun of June",
       "url": "https://open.spotify.com/track/4rIDC72fAd26dB4U9pCAGa"
@@ -2361,7 +2398,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 144840,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
@@ -2839,7 +2876,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 171240,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"

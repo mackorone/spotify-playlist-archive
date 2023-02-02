@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "oops_i_did_it_again.mp3",
   "name": "dosmileras",
-  "published_playlist_ids": [
-    "7h1W8RLtMVCpgWm47PFbh3"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 228906,
       "name": "Ain't No Other Man",
       "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
@@ -217,7 +214,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 225373,
       "name": "Bella Traicion",
       "url": "https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ"
@@ -647,7 +644,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 285773,
       "name": "El Ultimo Adios",
       "url": "https://open.spotify.com/track/7lnun6viJADQCvZnE0w9q8"
@@ -777,10 +774,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 211666,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak"
     },
     {
       "album": {
@@ -1045,10 +1060,40 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 273360,
       "name": "I'm Still in Love with You (feat. Sasha)",
       "url": "https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
+        },
+        {
+          "name": "Jeremy Harding",
+          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
+        },
+        {
+          "name": "Murray Elias",
+          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "I'm Still in Love with You (feat. Sasha)",
+      "url": "https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN"
     },
     {
       "album": {
@@ -1199,7 +1244,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
@@ -1419,7 +1464,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-02-01",
       "duration_ms": 250866,
       "name": "Muriendo Lento (feat. Belinda)",
       "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
@@ -2433,7 +2478,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-26",
       "duration_ms": 246200,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"

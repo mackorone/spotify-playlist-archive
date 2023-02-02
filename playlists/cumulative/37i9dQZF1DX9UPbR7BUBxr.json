@@ -2,10 +2,43 @@
   "date_first_scraped": "2022-06-20",
   "description": "Songs and episodes to help you find that work/pause balance. Co-curation: Varun Duggirala",
   "name": "PAUSE: Productivity",
-  "published_playlist_ids": [
-    "7qhRYDL50AsB9exwnr99dR"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Feel Better, Live More with Dr Rangan Chatterjee",
+        "url": "https://open.spotify.com/show/6NyPQfcSR9nj0DPDr2ixrK"
+      },
+      "artists": [
+        {
+          "name": "Feel Better, Live More with Dr Rangan Chatterjee",
+          "url": "https://open.spotify.com/show/6NyPQfcSR9nj0DPDr2ixrK"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 879490,
+      "name": "#243 BITESIZE | Why Consistency is Key for Success, Health and Happiness | Rich Roll",
+      "url": "https://open.spotify.com/episode/7z8IdfRQotdYMVyxNqr0IC"
+    },
+    {
+      "album": {
+        "name": "Take a Pause with Varun Duggirala",
+        "url": "https://open.spotify.com/show/5RRxDb6EOTjAp7QqpW5xHU"
+      },
+      "artists": [
+        {
+          "name": "Take a Pause with Varun Duggirala",
+          "url": "https://open.spotify.com/show/5RRxDb6EOTjAp7QqpW5xHU"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 335063,
+      "name": "5 \u201cPowerful\u201d steps that help you perform better in life",
+      "url": "https://open.spotify.com/episode/4M8dqH2D8ZthJ8GtKQfWIL"
+    },
     {
       "album": {
         "name": "Calming Winds",
@@ -55,7 +88,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 152200,
       "name": "After Surf Sandwich",
       "url": "https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV"
@@ -240,6 +273,24 @@
     },
     {
       "album": {
+        "name": "The Next Big Idea",
+        "url": "https://open.spotify.com/show/2aoNkInl8NmE2X2xT1DOQQ"
+      },
+      "artists": [
+        {
+          "name": "The Next Big Idea",
+          "url": "https://open.spotify.com/show/2aoNkInl8NmE2X2xT1DOQQ"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 865567,
+      "name": "Book Bite #1: You Get Around 4,000 Weeks on Earth. How Should You Spend Them?",
+      "url": "https://open.spotify.com/episode/5zbcwuIKkrCgqMBIqSOF3j"
+    },
+    {
+      "album": {
         "name": "City Glow",
         "url": "https://open.spotify.com/album/2zZYmrXtRsIElvMmWtOA7d"
       },
@@ -309,6 +360,24 @@
       "duration_ms": 208625,
       "name": "Dawn Chorus",
       "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+    },
+    {
+      "album": {
+        "name": "Take a Pause with Varun Duggirala",
+        "url": "https://open.spotify.com/show/5RRxDb6EOTjAp7QqpW5xHU"
+      },
+      "artists": [
+        {
+          "name": "Take a Pause with Varun Duggirala",
+          "url": "https://open.spotify.com/show/5RRxDb6EOTjAp7QqpW5xHU"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 226100,
+      "name": "Don\u2019t fear failure ! You can learn from it",
+      "url": "https://open.spotify.com/episode/6x7Cl04raZuLcTxUj5h5ZZ"
     },
     {
       "album": {
@@ -653,6 +722,42 @@
       "duration_ms": 110882,
       "name": "hoj ti to",
       "url": "https://open.spotify.com/track/2qzjYqTA8dwy99L6Mhp91n"
+    },
+    {
+      "album": {
+        "name": "The Crazy Ones",
+        "url": "https://open.spotify.com/show/7v0bSXLudQ4m58rIcevedx"
+      },
+      "artists": [
+        {
+          "name": "The Crazy Ones",
+          "url": "https://open.spotify.com/show/7v0bSXLudQ4m58rIcevedx"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 719386,
+      "name": "How to Maximize Your Own Evolution",
+      "url": "https://open.spotify.com/episode/5GAylfS0PjFMwrbIYMXoTc"
+    },
+    {
+      "album": {
+        "name": "WorkLife with Adam Grant",
+        "url": "https://open.spotify.com/show/4eylg9GZJOVvUhTynt4jjA"
+      },
+      "artists": [
+        {
+          "name": "WorkLife with Adam Grant",
+          "url": "https://open.spotify.com/show/4eylg9GZJOVvUhTynt4jjA"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 794136,
+      "name": "How to stop languishing and start finding flow | TED Talks Daily",
+      "url": "https://open.spotify.com/episode/3DeedQPdjCahzuIb8ZeOSB"
     },
     {
       "album": {
@@ -1065,7 +1170,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 124235,
       "name": "Peach Sky",
       "url": "https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD"
@@ -1339,6 +1444,24 @@
       "duration_ms": 181692,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/0xCw0LHiXmkgmCkzOWqhuF"
+    },
+    {
+      "album": {
+        "name": "Take a Pause with Varun Duggirala",
+        "url": "https://open.spotify.com/show/5RRxDb6EOTjAp7QqpW5xHU"
+      },
+      "artists": [
+        {
+          "name": "Take a Pause with Varun Duggirala",
+          "url": "https://open.spotify.com/show/5RRxDb6EOTjAp7QqpW5xHU"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 372424,
+      "name": "The \u201cReal\u201d reason why following your curiosity is more important than following your passion",
+      "url": "https://open.spotify.com/episode/2fbHLKtasgid7LpbcDWWlG"
     },
     {
       "album": {

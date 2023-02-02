@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-12",
   "description": "This is Muse. The essential tracks, all in one playlist.",
   "name": "This Is Muse",
-  "published_playlist_ids": [
-    "2A2W6E9IWWEYyaOGZZsUVO"
-  ],
   "tracks": [
     {
       "album": {
@@ -307,7 +304,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 203177,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5PCNd6UnT4y9Ygz0KFmIMC"
@@ -365,6 +362,32 @@
       "duration_ms": 217034,
       "name": "Ghosts (How Can I Move On)",
       "url": "https://open.spotify.com/track/0C5U4go8KKWHmAipujRH6I"
+    },
+    {
+      "album": {
+        "name": "Ghosts (How Can I Move On) [feat. Elisa]",
+        "url": "https://open.spotify.com/album/7uz5nvQUPKp2veCYlfOFQe"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Matt Bellamy",
+          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217301,
+      "name": "Ghosts (How Can I Move On) [feat. Elisa]",
+      "url": "https://open.spotify.com/track/4ggQZbM68glGfoH1kImIwO"
     },
     {
       "album": {
@@ -793,7 +816,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 317000,
       "name": "Showbiz",
       "url": "https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz"
@@ -1153,7 +1176,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 216729,
       "name": "We Are Fucking Fucked",
       "url": "https://open.spotify.com/track/5IumuUJqNO7K5SvniuDrBz"

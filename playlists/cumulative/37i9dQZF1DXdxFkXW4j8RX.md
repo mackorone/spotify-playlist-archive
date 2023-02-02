@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-139 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/3f2UzVfRrTk3AGf7wEehR9)
+139 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

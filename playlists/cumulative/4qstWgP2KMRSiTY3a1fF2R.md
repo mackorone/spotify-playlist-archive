@@ -4,7 +4,7 @@
 
 > Get your morning on the ropes with some ANGRY ROCK!
 
-22 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/3cdCDdhiVUM0wJpOO2L3mU)
+22 songs - 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

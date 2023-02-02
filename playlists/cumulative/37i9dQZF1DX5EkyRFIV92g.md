@@ -4,7 +4,7 @@
 
 > This is Kendrick Lamar\. Essential tracks all in one playlist.
 
-87 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/2gURM4VFY4GNBKA4eJjlmx)
+88 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [N95](https://open.spotify.com/track/4GsMplCKuZQaYoLKlYXK8i) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [NOW That's What I Call Music! Vol\. 83](https://open.spotify.com/album/3qCvZmBYk84q2vj3jonmEu) | 3:12 | 2022-05-13 | 2022-11-13 |
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2022-05-13 |  |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-13 | 2022-07-29 |
-| [Never Catch Me](https://open.spotify.com/track/6CTG85NJI1Wm60pxTSRNwL) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [You're Dead!](https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj) | 3:54 | 2018-02-19 |  |
+| [Never Catch Me](https://open.spotify.com/track/1KOqY0QTSadQFRgbNw1sLh) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [You're Dead!](https://open.spotify.com/album/7DFT5wc0jn6U7DqooS8y6l) | 3:54 | 2018-02-19 |  |
+| [Never Catch Me](https://open.spotify.com/track/6CTG85NJI1Wm60pxTSRNwL) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [You're Dead!](https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj) | 3:54 | 2018-02-19 | 2023-02-02 |
 | [Perfect Pint \(feat\. Kendrick Lamar, Gucci Mane & Rae Sremmurd\)](https://open.spotify.com/track/3A2OHirUAlQp2x73BJlEDA) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Ransom 2](https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw) | 4:00 | 2018-02-19 |  |
 | [Poetic Justice](https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:00 | 2018-02-19 |  |
 | [Purple Hearts](https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:29 | 2022-05-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,012 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,296 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 9 | [Quarantino](https://open.spotify.com/track/3LKmwpIWHicHZbVKEz1usZ) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Quarantino](https://open.spotify.com/album/4B63Fl7bus1DEph97L9uQu) | 2:40 |
 | 10 | [The Mountain](https://open.spotify.com/track/6ZofNkbrrcBZXdVylX1C6v) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Dead Man](https://open.spotify.com/album/1xtDOqLuXQIPlrKrQYKeet) | 2:55 |
 | 11 | [New Legends](https://open.spotify.com/track/3QJTmlay3nLxhp0ol14N3l) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/18nkh2pT8cwaheJfw9p9ju) | 4:16 |
-| 12 | [Backseat](https://open.spotify.com/track/6wDJfepTbKTD77PWL4lato) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Backseat](https://open.spotify.com/album/0p7IKV2hLRD82kyXv9js0v) | 3:31 |
+| 12 | [Backseat](https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:31 |
 | 13 | [Pack a Bag](https://open.spotify.com/track/1eyfRgScLbmcFiLHaTUx3G) | [S.O.C.O.M.](https://open.spotify.com/artist/2xy8Q3ffCr9OxUijmGDx3Z) | [Pack a Bag](https://open.spotify.com/album/3eIH5pdEQqWX9Gm8PVPmwV) | 3:04 |
 | 14 | [Cast Your Cares](https://open.spotify.com/track/7LL4WNn25gRttBo33fNULY) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Hands Are Made for Working](https://open.spotify.com/album/4c3cNKOMgMHeZJcD6Q03JO) | 5:35 |
 | 15 | [The One Where I Talk To God](https://open.spotify.com/track/6ZW8f8xNkauNEKBQthQaas) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [Marty For President 2](https://open.spotify.com/album/5q0lLOpbosrUJTR3oRztJw) | 3:21 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 48 | [The Isle Of Arran](https://open.spotify.com/track/2YQ1cc9xWnp5qI08rKt6wv) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:34 |
 | 49 | [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 |
 
-Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMGZmNmFkODcwZWE1ZDFmYzllNzdiNGY5NzUzMzRkYmVh`
+Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMDVjYTU1ZWVkZTlhMTlhYzNlYTk5MTIzYTFkODM1NTk5`

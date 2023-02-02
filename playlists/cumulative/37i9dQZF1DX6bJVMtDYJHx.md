@@ -4,7 +4,7 @@
 
 > Celebrating the legacy of the undisputed Queen of Soul, Aretha Franklin\.  Her most essential tracks, all in one playlist.
 
-51 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/6eWIEOvHdwAmbDLuMrbmXT)
+51 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

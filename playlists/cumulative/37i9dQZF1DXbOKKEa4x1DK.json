@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-03",
   "description": "Para los enamorados y despechados.",
   "name": "Merengue De Amor",
-  "published_playlist_ids": [
-    "38Ai5WsfkNpO3c1KY0X1gl"
-  ],
   "tracks": [
     {
       "album": {
@@ -779,10 +776,28 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 254511,
       "name": "Maldita Sea",
       "url": "https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss"
+    },
+    {
+      "album": {
+        "name": "La Negra Mia",
+        "url": "https://open.spotify.com/album/4t7DGFShnFDkOWneDiLDHC"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Maldita Sea",
+      "url": "https://open.spotify.com/track/6LbzQKMKllO8zPSQlXMqxG"
     },
     {
       "album": {
@@ -1155,7 +1170,7 @@
     {
       "album": {
         "name": "Por un Poco de Amor",
-        "url": "https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN"
+        "url": "https://open.spotify.com/album/3j56jEfANtsYlTJ9mzCaq3"
       },
       "artists": [
         {
@@ -1166,6 +1181,24 @@
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Que Pasara",
+      "url": "https://open.spotify.com/track/3t8PVrZMstgAeWuIzUZSHU"
+    },
+    {
+      "album": {
+        "name": "Por un Poco de Amor",
+        "url": "https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
       "duration_ms": 221100,
       "name": "Que Pasara",
       "url": "https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo"
@@ -1439,10 +1472,28 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 264515,
       "name": "Tu Me Vas a Dejar",
       "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
+    },
+    {
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6MSQpN5C6I4Rb0Vec5h2wi"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Tu Me Vas a Dejar",
+      "url": "https://open.spotify.com/track/1xJXSAosZHRwMiaeYxIpyV"
     },
     {
       "album": {

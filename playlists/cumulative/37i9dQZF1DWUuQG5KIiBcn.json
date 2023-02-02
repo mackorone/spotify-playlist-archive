@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-23",
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
   "name": "Corridos de Anta\u00f1o",
-  "published_playlist_ids": [
-    "6t9dYU0lb5Dzk8M8t6oooM"
-  ],
   "tracks": [
     {
       "album": {
@@ -125,6 +122,24 @@
       "duration_ms": 141493,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
+    },
+    {
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "Arturo Garza Trevino",
+      "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
     },
     {
       "album": {
@@ -658,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Corridos A Quema Ropa",
+        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159160,
+      "name": "El Centenario",
+      "url": "https://open.spotify.com/track/5hApUHRz3FFnwEWcJDXEo7"
+    },
+    {
+      "album": {
         "name": "Corridos Prohibidos",
         "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
       },
@@ -669,7 +702,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 147306,
       "name": "El Corrido",
       "url": "https://open.spotify.com/track/4GS8J5N1MAprTeeW8FX8p4"
@@ -1163,7 +1196,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 177911,
       "name": "Heraclio Bernal",
       "url": "https://open.spotify.com/track/1WRxstLiGTUU5gWCf88nsp"
@@ -1207,6 +1240,24 @@
       "duration_ms": 190413,
       "name": "Juan Martha",
       "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
+    },
+    {
+      "album": {
+        "name": "20 Corridos Valientes",
+        "url": "https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE"
+      },
+      "artists": [
+        {
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192522,
+      "name": "Kilometro 1160",
+      "url": "https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs"
     },
     {
       "album": {
@@ -1473,7 +1524,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 172200,
       "name": "La C\u00e1rcel De Cananea",
       "url": "https://open.spotify.com/track/5ZuBhTD8ZyV4ucBg9TKW8U"
@@ -2159,7 +2210,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 174506,
       "name": "Pescadores De Ensenada",
       "url": "https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe"
@@ -2217,6 +2268,24 @@
       "duration_ms": 187907,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl"
+    },
+    {
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164386,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb"
     },
     {
       "album": {

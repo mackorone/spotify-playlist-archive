@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
   "name": "Metal del Nuestro",
-  "published_playlist_ids": [
-    "7s5Dgpk9E3N59KDagZAZrc"
-  ],
   "tracks": [
     {
       "album": {
@@ -379,7 +376,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": "2022-12-26",
       "duration_ms": 248360,
       "name": "Brutal Existencia",
       "url": "https://open.spotify.com/track/2evFymF2OK3gW1enigpUqD"
@@ -1809,7 +1806,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-02",
       "duration_ms": 180693,
       "name": "La Caperuputa y el Lobo Culi\u00f3n",
       "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
@@ -1957,7 +1954,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 328800,
       "name": "Lowborn Bastard",
       "url": "https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd"
@@ -1975,7 +1972,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 87302,
       "name": "Macho Alfa",
       "url": "https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv"
@@ -2443,7 +2440,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 170161,
       "name": "Poseido Por Mezcal",
       "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
@@ -2609,7 +2606,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-11",
       "duration_ms": 374026,
       "name": "Reinar\u00e1 el Caos",
       "url": "https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z"
@@ -3283,6 +3280,24 @@
       "duration_ms": 150600,
       "name": "\u00a1Qu\u00e9menlos!",
       "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
+    },
+    {
+      "album": {
+        "name": "Muerte Verdadera Muerte",
+        "url": "https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE"
+      },
+      "artists": [
+        {
+          "name": "Masacre",
+          "url": "https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "\u00c9xodo",
+      "url": "https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3gzwlIik99M"

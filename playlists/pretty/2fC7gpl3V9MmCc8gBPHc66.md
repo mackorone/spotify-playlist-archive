@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2fC7gpl3V9MmCc8gBPHc66.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 840 songs - 2 day 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 840 songs - 2 day 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -544,7 +544,7 @@ pretty - [cumulative](/playlists/cumulative/2fC7gpl3V9MmCc8gBPHc66.md) - [plain]
 | 534 | [Bring Me Everyone](https://open.spotify.com/track/6Yy4YrF9wmkyAHZUX5A3QO) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Latest Version Of The Truth](https://open.spotify.com/album/1qYiC3Hcvhby1ws9CVngzp) | 3:58 |
 | 535 | [Mine](https://open.spotify.com/track/3CF2zEIFWXQ2pFCuuo1Nb3) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Mustasch](https://open.spotify.com/album/21guOULCVP6UtQkBsRsjBY) | 3:41 |
 | 536 | [Homophobic/Alcoholic](https://open.spotify.com/track/1FkxZ8ujkjewaZaySGjE9k) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [The new sound of the true best](https://open.spotify.com/album/6jtR5S7AM1aJ9taaqDZVSh) | 4:07 |
-| 537 | [Holy Wars...The Punishment Due \- Remastered](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 |
+| 537 | [Holy Wars...The Punishment Due \- Remastered 2004](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 |
 | 538 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 |
 | 539 | [Peace Sells \- Remastered](https://open.spotify.com/track/3090goAxG6IlpCifA8m9xB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 4:02 |
 | 540 | [Hangar 18 \- Remastered](https://open.spotify.com/track/6b6uLZsoGhObYexIxnRbIb) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:11 |

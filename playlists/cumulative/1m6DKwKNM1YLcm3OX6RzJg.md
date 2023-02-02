@@ -4,7 +4,7 @@
 
 > Upptäck svenska talanger som kommer att vara soundtracket till ditt 2014\.  En spellista som ständigt uppdateras.
 
-63 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/12ULcUeryTX9L62IjU8aNs)
+63 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-11",
   "description": "Lately I've been dressing for revenge",
   "name": "Villain Mode",
-  "published_playlist_ids": [
-    "1tPoUAYzbtzf09bxrh5s55"
-  ],
   "tracks": [
     {
       "album": {
@@ -210,6 +207,24 @@
     },
     {
       "album": {
+        "name": "AVA",
+        "url": "https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159338,
+      "name": "AVA",
+      "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
+    },
+    {
+      "album": {
         "name": "Never for Ever (2018 Remaster)",
         "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
       },
@@ -329,7 +344,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 181640,
       "name": "Bang Bang Bang Bang",
       "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
@@ -437,7 +452,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -513,7 +528,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 151999,
       "name": "Break My Heart Myself (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G"
@@ -657,7 +672,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 168213,
       "name": "Can't Be Tamed",
       "url": "https://open.spotify.com/track/2r6DdaSbkbwoPzuK6NjLPn"
@@ -683,7 +698,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 172826,
       "name": "Candy Store",
       "url": "https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx"
@@ -942,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Cross My Heart I Hope U Die",
+        "url": "https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168874,
+      "name": "Cross My Heart I Hope U Die",
+      "url": "https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz"
+    },
+    {
+      "album": {
         "name": "Massive Luxury Overdose",
         "url": "https://open.spotify.com/album/5glF3lGmuuYIHVeEVNUyyq"
       },
@@ -1115,7 +1148,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 153222,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub"
@@ -1411,7 +1444,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 155866,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS"
@@ -1518,7 +1551,7 @@
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 180186,
+      "duration_ms": 173466,
       "name": "engravings",
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
     },
@@ -1863,7 +1896,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 254725,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
@@ -2823,7 +2856,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 186426,
       "name": "Money, Money, Money",
       "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
@@ -2913,7 +2946,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 186826,
       "name": "My Songs Know What You Did In The Dark (Light Em Up)",
       "url": "https://open.spotify.com/track/7s0lDK7y3XLmI7tcsRAbW0"
@@ -3101,7 +3134,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 219773,
       "name": "Potential Breakup Song",
       "url": "https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47"
@@ -3351,7 +3384,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 247147,
       "name": "Season Of The Witch",
       "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
@@ -3578,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Sour Switchblade",
+        "url": "https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4"
+      },
+      "artists": [
+        {
+          "name": "Elita",
+          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 148955,
+      "name": "Sour Switchblade",
+      "url": "https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ"
+    },
+    {
+      "album": {
         "name": "Anxiety Angel",
         "url": "https://open.spotify.com/album/5ipcsit6PRtDh8Pdkt1wuv"
       },
@@ -3773,7 +3824,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 201101,
       "name": "THAT BITCH",
       "url": "https://open.spotify.com/track/77o1HdXHm1hLd7Ebe9ygd0"
@@ -4015,7 +4066,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 190800,
       "name": "tired of california",
       "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
@@ -4095,6 +4146,28 @@
       "duration_ms": 133509,
       "name": "UH OH! (feat. BENEE)",
       "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
+    },
+    {
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
       "album": {
@@ -4211,7 +4284,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-08",
       "duration_ms": 263880,
       "name": "When You Die",
       "url": "https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji"
@@ -4345,6 +4418,24 @@
       "duration_ms": 143466,
       "name": "Wish You the Worst",
       "url": "https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS"
+    },
+    {
+      "album": {
+        "name": "Wish You the Worst",
+        "url": "https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Wish You the Worst",
+      "url": "https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k"
     },
     {
       "album": {

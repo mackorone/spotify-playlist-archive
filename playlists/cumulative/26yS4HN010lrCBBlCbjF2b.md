@@ -4,7 +4,7 @@
 
 > Hultsfredsfestivalen 2012 går av stapeln den 14:e juni och pågår t.om\. den 16:e\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-93 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/6dACCvxQEu2uainfQoxeG7)
+93 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

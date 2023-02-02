@@ -4,17 +4,18 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/4R9EPFhGfbJ9ffLcucgt7g)
+72 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't Gonna Cry](https://open.spotify.com/track/25YCqSHWQ98M6zo2qmF5RM) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:33 | 2022-08-05 | 2022-10-24 |
-| [Baby Blue Eyes \(feat\. Larkin Poe\) \- Rainy Day Sessions](https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [The Rainy Day Sessions EP](https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr) | 3:53 | 2022-10-12 |  |
+| [Baby Blue Eyes \(feat\. Larkin Poe\) \- Rainy Day Sessions](https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [The Rainy Day Sessions EP](https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr) | 3:53 | 2022-10-12 | 2022-12-21 |
 | [Back Down South](https://open.spotify.com/track/3eAwGZfTnsKwE7k7OexXu7) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:54 | 2022-08-05 |  |
 | [Back Down South / Blue Sky \- Live In Concert](https://open.spotify.com/track/12x2ehVZJy3ZXLYWxXwCL5) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu) | 4:58 | 2022-08-08 |  |
 | [Bad Spell](https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2uX8wXgr0jog1Xz6vZSxLS) | 3:15 | 2022-11-01 | 2022-11-23 |
-| [Bad Spell](https://open.spotify.com/track/5TS1lP8hWsGMjjblpVrUnI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 | 2022-11-24 |  |
+| [Bad Spell](https://open.spotify.com/track/5TS1lP8hWsGMjjblpVrUnI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 | 2022-11-24 | 2023-01-13 |
 | [Bad Spell](https://open.spotify.com/track/5cHukuRapWJdAY6EitrL2C) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2h7ZuJxpRNLE2B2FQwSIuq) | 3:15 | 2022-08-05 | 2022-11-25 |
+| [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2023-01-12 |  |
 | [Banks of Allatoona](https://open.spotify.com/track/1OQdBEEJHy4ALJxjzEz5ZI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:34 | 2022-08-05 | 2022-11-14 |
 | [Bell Bottom Blues](https://open.spotify.com/track/4rt1XgXMAoCT97MhMj8bou) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:41 | 2022-08-05 |  |
 | [Black Betty](https://open.spotify.com/track/14b07Oyy41Y243WaJJivSO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:44 | 2022-08-05 |  |

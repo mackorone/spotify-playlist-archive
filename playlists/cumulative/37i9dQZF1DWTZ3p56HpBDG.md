@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-163 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/3JDO71q59WF0VHwxTBMofQ)
+164 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [City Slums \(feat\. DIVINE\)](https://open.spotify.com/track/6xzQ1uSk2Rzz6Xdf8xBnWn) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [City Slums \(feat\. DIVINE\)](https://open.spotify.com/album/1grQXv1qJbhubOAYEeIOW6) | 3:47 | 2022-10-06 |  |
 | [Control](https://open.spotify.com/track/2famriH3O9cb6LHu8iRpUI) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Control](https://open.spotify.com/album/4N7hL7GzcAfFYHr9zsLWJi) | 3:07 | 2021-11-10 | 2022-07-19 |
 | [Cotton Candy](https://open.spotify.com/track/7eYpfunwlv4RY6s0pEQe8p) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/1Ai0hOFpZgdTZG3jOS1bRj) | 2:34 | 2021-11-10 | 2022-07-19 |
-| [Deal With It](https://open.spotify.com/track/3l9KybL4tK1jAP7u3UkWwe) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5) | 2:31 | 2022-10-06 |  |
+| [Deal With It](https://open.spotify.com/track/3l9KybL4tK1jAP7u3UkWwe) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5) | 2:31 | 2022-10-06 | 2023-02-02 |
+| [Deal With It](https://open.spotify.com/track/48iyEjHqc399GIvhbWCDaz) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/4hBcCJ6y6uLtVPJ4l2xpL5) | 2:32 | 2022-11-17 |  |
 | [Deathcab](https://open.spotify.com/track/4DsZFbvLhBxz5rQZiozfDn) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Poetry Ceylon](https://open.spotify.com/album/5ahVKY0miWXtbmA4E618Zi) | 3:38 | 2022-10-06 |  |
 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-10-06 |  |
 | [Do You Love Her Now](https://open.spotify.com/track/13JjdKeIUy6P916p3MemXn) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:34 | 2021-11-10 | 2022-07-19 |

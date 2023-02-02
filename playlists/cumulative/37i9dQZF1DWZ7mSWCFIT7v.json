@@ -2,10 +2,43 @@
   "date_first_scraped": "2022-02-17",
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
   "name": "Refractions",
-  "published_playlist_ids": [
-    "6KKCtKWPCrKLZ3W8ZVtimv"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149869,
+      "name": "10",
+      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
+    },
+    {
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
     {
       "album": {
         "name": "Long Exposure",
@@ -73,10 +106,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 247488,
       "name": "4 Ya Kiss",
       "url": "https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN"
+    },
+    {
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "5",
+      "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
     },
     {
       "album": {
@@ -257,7 +308,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 319047,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
@@ -603,7 +654,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": "2023-01-15",
       "duration_ms": 347276,
       "name": "Aural Drift - T.Raumschmiere Remix",
       "url": "https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu"
@@ -921,7 +972,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 186624,
       "name": "C.A.",
       "url": "https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803"
@@ -1469,6 +1520,24 @@
     {
       "album": {
         "name": "Fir Wave",
+        "url": "https://open.spotify.com/album/6mfZkiUX4cK5rTVfKCJFqW"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Ecovocative",
+      "url": "https://open.spotify.com/track/0CFgpPfYd1KJRNMLEpatzL"
+    },
+    {
+      "album": {
+        "name": "Fir Wave",
         "url": "https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV"
       },
       "artists": [
@@ -1519,6 +1588,24 @@
       "duration_ms": 263750,
       "name": "Emergence in Nature",
       "url": "https://open.spotify.com/track/3Si3HzFpu7BEAxc3nh4gQ2"
+    },
+    {
+      "album": {
+        "name": "Fir Wave",
+        "url": "https://open.spotify.com/album/6mfZkiUX4cK5rTVfKCJFqW"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263750,
+      "name": "Emergence in Nature",
+      "url": "https://open.spotify.com/track/6tRS5HuyInWuZJNcTHPOSK"
     },
     {
       "album": {
@@ -1641,7 +1728,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 255933,
       "name": "Eutow",
       "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
@@ -1713,7 +1800,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 356813,
       "name": "F7",
       "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
@@ -1825,7 +1912,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 191000,
       "name": "FlimFlam",
       "url": "https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0"
@@ -1927,6 +2014,24 @@
       "duration_ms": 270546,
       "name": "Give It Your Choir - Instrumental",
       "url": "https://open.spotify.com/track/4spkJG5cndAWgMH1ESF1iQ"
+    },
+    {
+      "album": {
+        "name": "Tempus",
+        "url": "https://open.spotify.com/album/2cq6vTpNKi4LJFXAwlwckm"
+      },
+      "artists": [
+        {
+          "name": "Pole",
+          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 246367,
+      "name": "Grauer Sand",
+      "url": "https://open.spotify.com/track/3EiZaX03fYdPKhsoji5p96"
     },
     {
       "album": {
@@ -2387,6 +2492,24 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "album": {
+        "name": "ADDLE",
+        "url": "https://open.spotify.com/album/1xD85z87BbTL8jtOEHPCK5"
+      },
+      "artists": [
+        {
+          "name": "Bogdan Raczynski",
+          "url": "https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244002,
+      "name": "LADDE",
+      "url": "https://open.spotify.com/track/1uescVu7fcevtmnW9vps7A"
     },
     {
       "album": {
@@ -2906,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Nannou (Mixed)",
+        "url": "https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Nannou - Mixed",
+      "url": "https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz"
+    },
+    {
+      "album": {
         "name": "Suddenly I Am Falling",
         "url": "https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN"
       },
@@ -3033,7 +3174,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 281986,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M"
@@ -3141,7 +3282,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 290555,
       "name": "Paravents",
       "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
@@ -3343,7 +3484,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
@@ -3811,7 +3952,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 182400,
       "name": "Second Love",
       "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
@@ -4013,7 +4154,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 217494,
       "name": "Some Way",
       "url": "https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR"
@@ -4085,7 +4226,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 105482,
       "name": "Stationmaster",
       "url": "https://open.spotify.com/track/0ivCCyi9umwXGb0XEQtHqP"
@@ -4175,7 +4316,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 223750,
       "name": "Summer Places",
       "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
@@ -4652,6 +4793,24 @@
     },
     {
       "album": {
+        "name": "Misplaced",
+        "url": "https://open.spotify.com/album/0QppwjRDWUS0SPwD7L1cvS"
+      },
+      "artists": [
+        {
+          "name": "Fthmlss",
+          "url": "https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Treks",
+      "url": "https://open.spotify.com/track/3LLih0W5lB0xEAQxSxoBW6"
+    },
+    {
+      "album": {
         "name": "Truffles Sprinkles",
         "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
       },
@@ -4739,6 +4898,24 @@
       "duration_ms": 252255,
       "name": "Two Thousand and Seventeen",
       "url": "https://open.spotify.com/track/3yogEdp82IygdtF6fYj42Z"
+    },
+    {
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
     },
     {
       "album": {
@@ -4861,7 +5038,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 299263,
       "name": "Vertiko",
       "url": "https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg"
@@ -4879,7 +5056,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2023-01-10",
       "duration_ms": 258174,
       "name": "Victims of Victimless Crimes",
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
@@ -5117,7 +5294,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 221632,
       "name": "Xid",
       "url": "https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2"

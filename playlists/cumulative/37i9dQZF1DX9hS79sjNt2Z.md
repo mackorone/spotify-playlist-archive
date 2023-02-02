@@ -4,7 +4,7 @@
 
 > Easter songs for the whole family.
 
-108 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/3QrEQk8Sp836cpwikrDWjx)
+108 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

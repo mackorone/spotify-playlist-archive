@@ -4,7 +4,7 @@
 
 > From early performances to iconic Grateful Dead, enjoy key picks that highlight the folk, bluegrass, and old time virtuosity of Jerry Garcia.
 
-60 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/7mM2AMTPLexks0Wsb0sGQW)
+60 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

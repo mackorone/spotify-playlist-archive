@@ -4,7 +4,7 @@
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-74 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/5DQkBIKvID2f1LdpT2HjaI)
+74 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,8 @@
 | [Look](https://open.spotify.com/track/0GVQb2UqgxEUrXidPgklFj) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA) | 4:34 | 2022-07-10 |  |
 | [Look](https://open.spotify.com/track/36cHPJs9Ku6MMXaABn15QE) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Love Songs](https://open.spotify.com/album/6hamK8zsehwexjo0LENuG5) | 4:34 | 2022-09-02 | 2022-11-14 |
 | [Look](https://open.spotify.com/track/6WieZpY4oFb5oZNZQacgxb) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Sexuality](https://open.spotify.com/album/3TvXsmeUpAC3TVaPFd4jr0) | 4:34 | 2022-01-11 | 2022-07-29 |
+| [Lucky Star](https://open.spotify.com/track/3JhAETPmy2RZSLTZ6FmcHp) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Hold Up](https://open.spotify.com/album/7ECP8AzznFSErmzzik305h) | 4:55 | 2022-07-10 |  |
 | [Lucky Star](https://open.spotify.com/track/5EMwg8P4A3Qj7BPtau1Mn0) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Hold Up \(Remastered\)](https://open.spotify.com/album/6P9Y3V5y09D0577sYb0ZjR) | 4:55 | 2022-01-11 | 2022-07-29 |
-| [Lucky Star \(feat\. Ron Carroll\)](https://open.spotify.com/track/3JhAETPmy2RZSLTZ6FmcHp) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Hold Up](https://open.spotify.com/album/7ECP8AzznFSErmzzik305h) | 4:55 | 2022-07-10 |  |
 | [Lucky Star \- Extended Vocal Edit](https://open.spotify.com/track/2r1ayKuPDXsJZBm3Jrr5WV) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Technics : House](https://open.spotify.com/album/1nz9JHmlpEHVkdhl7QnwQm) | 4:57 | 2022-09-02 | 2022-11-13 |
 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2022-07-10 |  |
 | [Midnight City](https://open.spotify.com/track/6uaBPdNeTvL4yH9CVJOg6K) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Midnight City](https://open.spotify.com/album/5DB2xMdT0qoWeaHGW9q8e6) | 4:01 | 2022-09-02 | 2022-11-14 |

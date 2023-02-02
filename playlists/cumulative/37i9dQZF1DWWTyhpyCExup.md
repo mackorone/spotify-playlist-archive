@@ -4,7 +4,7 @@
 
 > Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Jon Batiste
 
-103 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/2zeMD6M2G1mrTH8hnWvyw7)
+106 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ballad Of A Young Troubadour](https://open.spotify.com/track/2lehXeYhJTJ2eV1eqzrbWf) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [The Ridge](https://open.spotify.com/album/1uOIVchKLrPdI7SStZx14C) | 5:36 | 2021-10-22 | 2022-07-29 |
 | [Birthday Party](https://open.spotify.com/track/2QRxYrJkEg1iLdvudQHII1) | [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [Holidays](https://open.spotify.com/album/1KKSiga0I3uiNI4T18Mw36) | 2:15 | 2021-10-22 |  |
 | [Black Irish Indian](https://open.spotify.com/track/7dVdTythtqhJLeRA9vKkkC) | [Cherokee Rose](https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI) | [Black Irish Indian](https://open.spotify.com/album/3HO00ATLZnsQW5iiUA13Me) | 3:17 | 2022-02-07 |  |
+| [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2023-01-25 |  |
 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2021-10-22 |  |
 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:43 | 2021-10-22 |  |
 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:49 | 2022-06-17 |  |
@@ -65,7 +66,9 @@
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2021-12-01 |  |
 | [neve give up](https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [aloha](https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd) | 3:41 | 2021-10-22 |  |
 | [New Colossus](https://open.spotify.com/track/462nbWwasi5npUIeT79CIx) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Grenades](https://open.spotify.com/album/6Nqb3BPmH4xpzjqJs14W8a) | 4:26 | 2021-10-22 |  |
+| [New Day](https://open.spotify.com/track/1MgS5QaPUOd0vJK6DWwraw) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [New Day](https://open.spotify.com/album/1Hu8TUT4WPpryik4S307sI) | 3:21 | 2023-01-25 |  |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-10-22 |  |
+| [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 | 2023-01-25 |  |
 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 | 2022-06-03 |  |
 | [People Need People](https://open.spotify.com/track/6KiWFNyMCXE7dvuj1eU5u0) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:24 | 2022-06-03 |  |
 | [Perfect Wife](https://open.spotify.com/track/2fYXieYGhGKFYUH5wbBnVp) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:38 | 2021-12-01 |  |

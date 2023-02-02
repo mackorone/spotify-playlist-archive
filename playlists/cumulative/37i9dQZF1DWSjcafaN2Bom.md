@@ -4,7 +4,7 @@
 
 > The official playlist for Sex Education\. Watch now on Netflix.
 
-93 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/03Z90QqcWDw1OsFOAahdXg)
+94 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Die Young](https://open.spotify.com/track/3Q24nB1uSmsYgS6rjWW8Ac) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Die Young](https://open.spotify.com/album/7KqKApnKK584VzbbwGPtS0) | 3:31 | 2021-10-26 | 2022-11-13 |
 | [Die Young](https://open.spotify.com/track/6mnjcTmK8TewHfyOp3fC9C) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Deluxe Version\)](https://open.spotify.com/album/0gT5HL6RnvHBxJ2gY7lidR) | 3:31 | 2021-10-26 | 2022-07-29 |
 | [Die Young](https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:31 | 2021-10-26 |  |
-| [Don't Wanna Fall In Love](https://open.spotify.com/track/1YakuHfzKxjnseCEeVQtrY) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr) | 3:52 | 2021-10-26 |  |
+| [Don't Wanna Fall In Love](https://open.spotify.com/track/1YakuHfzKxjnseCEeVQtrY) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr) | 3:52 | 2021-10-26 | 2022-12-28 |
+| [Don't Wanna Fall In Love](https://open.spotify.com/track/3oX4rYpiWbx87CTBVQEwik) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/4QcOCTHmUunvqizQvuFEZt) | 3:52 | 2021-10-26 |  |
 | [Don't Wanna Fall In Love](https://open.spotify.com/track/5KbwfZTcyt5REWi1ZSN4J8) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle](https://open.spotify.com/album/11iNkXjw7QFVmFpdpMRvGO) | 3:52 | 2021-10-26 | 2022-07-29 |
 | [Don't Worry Baby](https://open.spotify.com/track/6KZqW1CRQjzpRgXoOmLkKQ) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [50 Big Ones: Greatest Hits](https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F) | 2:50 | 2021-10-26 |  |
 | [Every Morning \- Remastered](https://open.spotify.com/track/6Neq7tjnknt4URNI8txFL4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 3:40 | 2021-10-26 |  |

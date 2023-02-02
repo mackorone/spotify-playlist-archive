@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "Chill afro music to study with.",
   "name": "Sound Semester ",
-  "published_playlist_ids": [
-    "0IH3xMG1wgIStcChEOMik2"
-  ],
   "tracks": [
     {
       "album": {
@@ -88,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Alarm",
+        "url": "https://open.spotify.com/album/7bQn6pdb6524vpGGxftUA9"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/273uUYBv3zZoqSR8VOk6vV"
+    },
+    {
+      "album": {
         "name": "Alert Your Boy",
         "url": "https://open.spotify.com/album/0EJ1cKIOze9Oc2aYtaVeZ1"
       },
@@ -153,7 +168,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 165448,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT"
@@ -211,7 +226,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 150857,
       "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
@@ -277,7 +292,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
@@ -401,7 +416,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 237876,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
@@ -581,8 +596,8 @@
       },
       "artists": [
         {
-          "name": "AV",
-          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
       "date_added": "2022-06-09",
@@ -757,7 +772,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 138181,
       "name": "DKT",
       "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
@@ -801,6 +816,24 @@
     {
       "album": {
         "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166642,
+      "name": "emiliana",
+      "url": "https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv"
+    },
+    {
+      "album": {
+        "name": "Sad Romance",
         "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
       },
       "artists": [
@@ -811,7 +844,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 166642,
       "name": "emiliana",
       "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
@@ -1073,7 +1106,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2023-02-01",
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
@@ -1197,7 +1230,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 137480,
       "name": "Home",
       "url": "https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0"
@@ -1343,7 +1376,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
@@ -1499,7 +1532,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 157500,
       "name": "Leaving Summer",
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
@@ -1561,6 +1594,32 @@
       "duration_ms": 174757,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/1nMgPaY45oMa6fZnBh8z8F"
+    },
+    {
+      "album": {
+        "name": "Things We Don't Talk About",
+        "url": "https://open.spotify.com/album/6b10CoMCksM7uJYa4zOykU"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Nevis",
+          "url": "https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3"
+        },
+        {
+          "name": "Kaien Cruz",
+          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
+        },
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229024,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/0TalH2EQxBFEOJGNMk8Edm"
     },
     {
       "album": {
@@ -1703,7 +1762,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 206077,
       "name": "Love, Today",
       "url": "https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8"
@@ -1761,7 +1820,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 197074,
       "name": "Lucid Cruise 2.0",
       "url": "https://open.spotify.com/track/2vw9YvN1l0plaFQUW2zTdi"
@@ -1835,7 +1894,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": "2023-02-01",
       "duration_ms": 190621,
       "name": "Many Man - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
@@ -1911,7 +1970,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 196712,
       "name": "mmadu",
       "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
@@ -2073,8 +2132,8 @@
       },
       "artists": [
         {
-          "name": "AV",
-          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
       "date_added": "2022-07-07",
@@ -2119,10 +2178,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
+      "album": {
+        "name": "Noba Bangathini",
+        "url": "https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290786,
+      "name": "Noba Bangathini",
+      "url": "https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP"
     },
     {
       "album": {
@@ -2177,7 +2254,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 145084,
       "name": "OMOGE WA JO",
       "url": "https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC"
@@ -2484,6 +2561,36 @@
     },
     {
       "album": {
+        "name": "Show Me Something",
+        "url": "https://open.spotify.com/album/2lhMtPZJOQRmwdCgONmZqb"
+      },
+      "artists": [
+        {
+          "name": "WeTalkSound",
+          "url": "https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w"
+        },
+        {
+          "name": "PDSTRN",
+          "url": "https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv"
+        },
+        {
+          "name": "Kaey",
+          "url": "https://open.spotify.com/artist/5QxTvd1ydIesFmXZ7bv9ou"
+        },
+        {
+          "name": "Vader the Wildcard",
+          "url": "https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178363,
+      "name": "Show Me Something",
+      "url": "https://open.spotify.com/track/0bexhCKTPDlufk97tVvo3v"
+    },
+    {
+      "album": {
         "name": "SHOWING OFF HER BODY (with Davido)",
         "url": "https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN"
       },
@@ -2499,7 +2606,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-13",
       "duration_ms": 212639,
       "name": "SHOWING OFF HER BODY (with Davido)",
       "url": "https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb"
@@ -2760,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/3Bcj3vvXd5w0eEEiIw5nJO"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134964,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/17uovpjxgRlZOAriKRsgfE"
+    },
+    {
+      "album": {
         "name": "Too Good",
         "url": "https://open.spotify.com/album/3tyZSkDg5L8sti6qwxrAs3"
       },
@@ -2771,7 +2896,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 230400,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/2ljnYyH3utOWhdZkkty1dQ"
@@ -2837,7 +2962,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 153402,
       "name": "Very Simple",
       "url": "https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR"
@@ -2947,7 +3072,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
@@ -3133,7 +3258,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"

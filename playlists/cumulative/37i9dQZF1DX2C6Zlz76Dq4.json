@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Country's legendary artists singing your favorite Christmas Classics. Cover: Ronnie Dunn",
+  "description": "Country's legendary artists singing your favorite Christmas Classics. Cover: Reba McEntire",
   "name": "Country Christmas Classics",
-  "published_playlist_ids": [
-    "0WF5q0vWVSEHA7PeU0PIAB"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 278000,
       "name": "All I Want for Christmas Is a Real Good Tan",
       "url": "https://open.spotify.com/track/0la64DF1pXfSU0Ff6EH8Cr"
@@ -163,7 +160,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 128386,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/5LRO9vh8rMPCv1UitAphgE"
@@ -217,10 +214,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 157146,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/20wFGfFLNGcRLyKRThUrXl"
+    },
+    {
+      "album": {
+        "name": "Christmas At Our House",
+        "url": "https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172426,
+      "name": "Christmas At Our House",
+      "url": "https://open.spotify.com/track/38BQ3pZGq9MMNSguqGKZc5"
     },
     {
       "album": {
@@ -1009,7 +1024,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 148453,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/2sZkqb7HSlNCu5DgIbrKNV"
@@ -1125,10 +1140,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 221933,
       "name": "I Saw Mama Kissing Santa Claus",
       "url": "https://open.spotify.com/track/3CJqXOzLqPaSNyU7Vna8jk"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Christmas Collection",
+        "url": "https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223253,
+      "name": "I Saw Mama Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/1DhCamp4LLENxOB0IYkSfB"
     },
     {
       "album": {
@@ -1179,10 +1212,46 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 165596,
       "name": "I Wish It Would Snow",
       "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
+    },
+    {
+      "album": {
+        "name": "Christmas At Our House",
+        "url": "https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/0afX1OkO9Az9BMtfnLLc29"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Christmas Collection",
+        "url": "https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/7e9p7zLR9k7v5QQmXlsDaS"
     },
     {
       "album": {
@@ -1237,6 +1306,24 @@
       "duration_ms": 163733,
       "name": "If We Make It Through December",
       "url": "https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79"
+    },
+    {
+      "album": {
+        "name": "Christmas At Our House",
+        "url": "https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "It Must Have Been The Mistletoe (Our First Christmas)",
+      "url": "https://open.spotify.com/track/76dd0L4Bk6rRlEjt5oB47S"
     },
     {
       "album": {
@@ -1359,7 +1446,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 111133,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/6O0r0XAu8i4C9MZKTP7Eat"
@@ -1377,10 +1464,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 134536,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5bupxBdku81nfYhc0rRmC0"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Christmas Collection",
+        "url": "https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111160,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5UXNlsV0ZvSQg7Sj3IVIIs"
     },
     {
       "album": {
@@ -1485,7 +1590,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 107573,
       "name": "Let It Snow, Let It Snow, Let It Snow",
       "url": "https://open.spotify.com/track/2PtLkaWhgELK7PoW1X9XwL"
@@ -1615,7 +1720,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 344400,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/45GpOBstjMxhdO0pIQIJSg"
@@ -1748,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Christmas Collection",
+        "url": "https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/1Sx2LlAejMVQhdRyeK9PvY"
+    },
+    {
+      "album": {
         "name": "Cheers, It's Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4Jk9oJP4aUo6X2XSwTgnBh"
       },
@@ -1799,7 +1922,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 193240,
       "name": "Old Time Christmas",
       "url": "https://open.spotify.com/track/64ArvdniI0ku7QdYORA7Td"
@@ -2037,7 +2160,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 169666,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/56zCi5Jm6mBxzgQBHlfHEg"
@@ -2109,7 +2232,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 162146,
       "name": "Santa Claus Is Comin' To Town",
       "url": "https://open.spotify.com/track/4y0WpCQRpLusnadYW1dDhr"
@@ -2253,7 +2376,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 279506,
       "name": "Santa, I'm Right Here",
       "url": "https://open.spotify.com/track/16xYHsqJrCQb2B7v1JEGj2"
@@ -2397,7 +2520,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 206493,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/5lJekfkMUrA3sAlA3oYJgs"
@@ -2451,7 +2574,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 184906,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/47lSBOvRsTDsoLwWuDdOm4"
@@ -2505,7 +2628,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 234120,
       "name": "The Secret Of Giving",
       "url": "https://open.spotify.com/track/4OBRIQRdCSNYqftjhIOhj6"
@@ -2646,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Christmas Collection",
+        "url": "https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127320,
+      "name": "Up On The Housetop",
+      "url": "https://open.spotify.com/track/3wQFNbNymjiBfwXgGiJ6Tu"
+    },
+    {
+      "album": {
         "name": "Classic Christmas",
         "url": "https://open.spotify.com/album/59uaoonibMpTiQfdn50y3k"
       },
@@ -2711,7 +2852,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 140986,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/5Df57NkKjeclTvTNngwwgy"
@@ -2891,7 +3032,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 198826,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/38OI3L8ROlaH8whHPx3JwZ"
@@ -2927,7 +3068,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202826,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/3R9byQBqOUNryOOf3o8eDI"

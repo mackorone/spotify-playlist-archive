@@ -4,7 +4,7 @@
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-77 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/2YNoFl7lR2PxUel0utuI8K)
+77 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

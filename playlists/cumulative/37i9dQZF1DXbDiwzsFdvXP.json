@@ -2,9 +2,187 @@
   "date_first_scraped": "2022-05-01",
   "description": "Explore food culture through a Black lens. Updates once a month.",
   "name": "Soul Foodie",
-  "published_playlist_ids": [
-    "5QvlhWqVJnFJOXXtPl4PVr"
+  "tracks": [
+    {
+      "album": {
+        "name": "Sidedoor",
+        "url": "https://open.spotify.com/show/1XSjN7lgDlwMzHy43gMANd"
+      },
+      "artists": [
+        {
+          "name": "Sidedoor",
+          "url": "https://open.spotify.com/show/1XSjN7lgDlwMzHy43gMANd"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1993758,
+      "name": "America\u2019s Unknown Celebrity Chef",
+      "url": "https://open.spotify.com/episode/6k5U1EudZ2ITExq7NBMclq"
+    },
+    {
+      "album": {
+        "name": "Bleav in The Spice Rack",
+        "url": "https://open.spotify.com/show/5mRVZYcdU03oY9RCU0CQxO"
+      },
+      "artists": [
+        {
+          "name": "Bleav in The Spice Rack",
+          "url": "https://open.spotify.com/show/5mRVZYcdU03oY9RCU0CQxO"
+        }
+      ],
+      "date_added": "2020-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2020597,
+      "name": "Black vegans; and Gwyneth Paltrow\u2019s vagina scented candle",
+      "url": "https://open.spotify.com/episode/3xkofujSiSCwhJxo5b51PT"
+    },
+    {
+      "album": {
+        "name": "Meat and Three",
+        "url": "https://open.spotify.com/show/4szKQfuX0KSV9iO8UE7Hil"
+      },
+      "artists": [
+        {
+          "name": "Meat and Three",
+          "url": "https://open.spotify.com/show/4szKQfuX0KSV9iO8UE7Hil"
+        }
+      ],
+      "date_added": "2020-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1430674,
+      "name": "Black-Owned Food Businesses: The Past, Present, and Future",
+      "url": "https://open.spotify.com/episode/3Pw1vCapxT84wUqjPidcJr"
+    },
+    {
+      "album": {
+        "name": "Salt & Spine",
+        "url": "https://open.spotify.com/show/1UfofPPEAGqPxviLm0sfWN"
+      },
+      "artists": [
+        {
+          "name": "Salt & Spine",
+          "url": "https://open.spotify.com/show/1UfofPPEAGqPxviLm0sfWN"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3119177,
+      "name": "Chronicling centuries of black cookbooks, Toni Tipton-Martin brings these recipes to the page in Jubilee",
+      "url": "https://open.spotify.com/episode/48PMfPMV8iVgqKGJ6OUBpl"
+    },
+    {
+      "album": {
+        "name": "A Hungry Society",
+        "url": "https://open.spotify.com/show/3XwaXfuQ9jCUpWCILCWbYr"
+      },
+      "artists": [
+        {
+          "name": "A Hungry Society",
+          "url": "https://open.spotify.com/show/3XwaXfuQ9jCUpWCILCWbYr"
+        }
+      ],
+      "date_added": "2020-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3182497,
+      "name": "Episode 65: Michael W. Twitty on Culinary History and More",
+      "url": "https://open.spotify.com/episode/57eGYcwnqG3TEM2UfZuON7"
+    },
+    {
+      "album": {
+        "name": "Living The Principles Podcast",
+        "url": "https://open.spotify.com/show/2AfiHHFoCQodgv1i500jFz"
+      },
+      "artists": [
+        {
+          "name": "Living The Principles Podcast",
+          "url": "https://open.spotify.com/show/2AfiHHFoCQodgv1i500jFz"
+        }
+      ],
+      "date_added": "2020-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1909065,
+      "name": "For The Food And To Dance",
+      "url": "https://open.spotify.com/episode/2umjAhdZ6E4Vs6AcMJOLRi"
+    },
+    {
+      "album": {
+        "name": "A Taste of the Past",
+        "url": "https://open.spotify.com/show/5DXcwMjMYJpQOoXYVOwxZA"
+      },
+      "artists": [
+        {
+          "name": "A Taste of the Past",
+          "url": "https://open.spotify.com/show/5DXcwMjMYJpQOoXYVOwxZA"
+        }
+      ],
+      "date_added": "2020-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2082612,
+      "name": "Golden Arches in Black America",
+      "url": "https://open.spotify.com/episode/7lxw2sUeRAIBNUKo9Egoph"
+    },
+    {
+      "album": {
+        "name": "Extra Spicy",
+        "url": "https://open.spotify.com/show/7tOXuwdG0MkzrUouBYv018"
+      },
+      "artists": [
+        {
+          "name": "Extra Spicy",
+          "url": "https://open.spotify.com/show/7tOXuwdG0MkzrUouBYv018"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2462040,
+      "name": "Only Nigerian Restaurant in San Francisco Burns Down",
+      "url": "https://open.spotify.com/episode/0PKlZMaUM0ScJQ9O5Lmkhw"
+    },
+    {
+      "album": {
+        "name": "Food Heaven Podcast",
+        "url": "https://open.spotify.com/show/4BhBEg2b57dtyBZAXEVOVD"
+      },
+      "artists": [
+        {
+          "name": "Food Heaven Podcast",
+          "url": "https://open.spotify.com/show/4BhBEg2b57dtyBZAXEVOVD"
+        }
+      ],
+      "date_added": "2020-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2512118,
+      "name": "What To Do When You\u2019re Sick of Cooking",
+      "url": "https://open.spotify.com/episode/1hYR41GZPWubwIMjnmBFM2"
+    },
+    {
+      "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/show/0TNivCfDqUMOg02S7UIaIN"
+      },
+      "artists": [
+        {
+          "name": "Bite",
+          "url": "https://open.spotify.com/show/0TNivCfDqUMOg02S7UIaIN"
+        }
+      ],
+      "date_added": "2020-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3376915,
+      "name": "Why We Need Black-Owned Food Media",
+      "url": "https://open.spotify.com/episode/19SwWLV51ufxTRJ1vRJUxy"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbDiwzsFdvXP"
 }

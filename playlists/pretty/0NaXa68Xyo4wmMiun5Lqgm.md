@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NaXa68Xyo4wmMiun5Lqgm.md) - [plain]
 
 > Turn your commute into a karaoke party\. Stay tuned for the next edition\. This time: Rock Ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 170 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

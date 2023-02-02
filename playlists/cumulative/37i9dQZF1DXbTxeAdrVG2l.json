@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "The biggest songs of the 1990s. ",
   "name": "All Out 90s",
-  "published_playlist_ids": [
-    "1RUV9dGsKNifOhk3c3Xq5f"
-  ],
   "tracks": [
     {
       "album": {
@@ -1075,7 +1072,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2020-12-24",
+      "date_removed": null,
       "duration_ms": 242266,
       "name": "Back for Good - Radio Mix",
       "url": "https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ"
@@ -1955,7 +1952,7 @@
       ],
       "date_added": "2019-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 285026,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/1JClFT74TYSXlzpagbmj0S"
@@ -2467,7 +2464,7 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Cotton Eye Joe",
       "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
@@ -4013,7 +4010,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
@@ -4314,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
+    },
+    {
+      "album": {
         "name": "Vagabond Heart (Expanded Edition)",
         "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
       },
@@ -4527,7 +4542,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 257733,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI"
@@ -6983,7 +6998,7 @@
       ],
       "date_added": "2019-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
@@ -7917,7 +7932,7 @@
       ],
       "date_added": "2019-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-05",
       "duration_ms": 236150,
       "name": "Narcotic - Radio Edit",
       "url": "https://open.spotify.com/track/1H5VQuShs4qfwBXyHF0PeH"
@@ -8243,7 +8258,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 388733,
       "name": "Nothing Else Matters (Remastered)",
       "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
@@ -8305,6 +8320,24 @@
       "duration_ms": 270706,
       "name": "Ode To My Family",
       "url": "https://open.spotify.com/track/1AWXiUQjoQfcmqaBEtaOoL"
+    },
+    {
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271533,
+      "name": "Ode To My Family",
+      "url": "https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok"
     },
     {
       "album": {
@@ -9249,7 +9282,7 @@
       ],
       "date_added": "2019-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-03",
       "duration_ms": 266560,
       "name": "Runaway Train (2022 Remaster)",
       "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
@@ -9321,7 +9354,7 @@
       ],
       "date_added": "2019-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-25",
       "duration_ms": 191506,
       "name": "Santa Monica",
       "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
@@ -9909,7 +9942,7 @@
       ],
       "date_added": "2019-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 212066,
       "name": "Slide",
       "url": "https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA"
@@ -10219,7 +10252,7 @@
       ],
       "date_added": "2019-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-17",
+      "date_removed": "2023-01-06",
       "duration_ms": 267133,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
@@ -10991,7 +11024,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 342400,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
@@ -11323,7 +11356,7 @@
       ],
       "date_added": "2021-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 210480,
       "name": "To Be With You - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
@@ -12031,7 +12064,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 224466,
       "name": "Weather With You",
       "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
@@ -12911,7 +12944,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 258133,
       "name": "You'll Be In My Heart - From \"Tarzan\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1fTDYdx5zYfWJSX0JlKO8o"

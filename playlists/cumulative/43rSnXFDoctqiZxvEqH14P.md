@@ -4,7 +4,7 @@
 
 > Your go\-to collection for just hanging out and doing nothing..\. or whatever.
 
-56 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5PAgA9VLmJBsGlCGam0fhB)
+56 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

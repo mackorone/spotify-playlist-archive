@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
   "name": "Gym Motivation",
-  "published_playlist_ids": [
-    "41QyXALy8jMYAlVYh7UXYG"
-  ],
   "tracks": [
     {
       "album": {
@@ -133,7 +130,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
@@ -155,7 +152,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"

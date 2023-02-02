@@ -4,7 +4,7 @@
 
 > Enjoy the JTBC drama 'Thirty\-Nine' OSTs in a different way with the special contents\. You can watch this drama on Netflix as well\. \(JTBC 드라마 '서른, 아홉'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. 넷플릭스에서도 서른, 아홉을 감상하실 수 있습니다.\)
 
-37 songs - 1 hr 33 min - [published](https://open.spotify.com/playlist/6s4gEJJ5Uvhm3wOFFTyr7o)
+37 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

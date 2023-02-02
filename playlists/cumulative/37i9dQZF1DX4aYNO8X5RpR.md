@@ -4,7 +4,7 @@
 
 > Comforting sounds of thunder and rain.
 
-205 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/0nlg0xFxpMJfB9VIsNYqUE)
+205 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > With autumn comes darker days and colder weather.
 
-308 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/0ZYpBWkMbWIgKuZRtQFkdd)
+308 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

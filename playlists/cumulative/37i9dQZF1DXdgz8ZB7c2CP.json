@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring new music by Pauline Herr.",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Stwo.",
   "name": "creamy",
-  "published_playlist_ids": [
-    "3MCIvOCYNv0w7VlFeU1IOX"
-  ],
   "tracks": [
     {
       "album": {
@@ -179,7 +176,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-19",
       "duration_ms": 125016,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0xKcqGdFWwO9flQUL0s594"
@@ -357,7 +354,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 208979,
       "name": "ASTRAL",
       "url": "https://open.spotify.com/track/4xZs3f8uEyKtvuwlsQGGne"
@@ -467,6 +464,32 @@
       "duration_ms": 246760,
       "name": "Beneath Us",
       "url": "https://open.spotify.com/track/21LG8xoR5iNEkbIJrLvkze"
+    },
+    {
+      "album": {
+        "name": "Best Part About You (camoufly Remix)",
+        "url": "https://open.spotify.com/album/6VMsqDQQWBssZR5j3daWLM"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191823,
+      "name": "Best Part About You - camoufly Remix",
+      "url": "https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn"
     },
     {
       "album": {
@@ -751,7 +774,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-08",
       "duration_ms": 221168,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/6oLq9cWvEc08wo7V5DpjVl"
@@ -955,7 +978,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 204470,
       "name": "Comb - Absent Chronicles Remix",
       "url": "https://open.spotify.com/track/12OtYMAKuPrBdXxEmEoanq"
@@ -1031,6 +1054,24 @@
       "duration_ms": 240000,
       "name": "Context",
       "url": "https://open.spotify.com/track/5BjXiQdBBy10FQemhcRqIS"
+    },
+    {
+      "album": {
+        "name": "Context",
+        "url": "https://open.spotify.com/album/3SB7UA6NkQIBlQMnZQnPy1"
+      },
+      "artists": [
+        {
+          "name": "On Planets",
+          "url": "https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 240000,
+      "name": "Context",
+      "url": "https://open.spotify.com/track/6oPGuHXGQkViIavFLWj7BT"
     },
     {
       "album": {
@@ -1201,7 +1242,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 137647,
       "name": "Dish",
       "url": "https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy"
@@ -1267,7 +1308,7 @@
       },
       "artists": [
         {
-          "name": "afternoon bike ride",
+          "name": "Afternoon Bike Ride",
           "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
         },
         {
@@ -1277,7 +1318,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143093,
       "name": "Dog Years - weird inside Remix",
       "url": "https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs"
@@ -1533,10 +1574,28 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 184545,
       "name": "Everybody You Hurt",
       "url": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
+    },
+    {
+      "album": {
+        "name": "Everybody You Hurt",
+        "url": "https://open.spotify.com/album/2z291DYIYmPosH2qNtbDYH"
+      },
+      "artists": [
+        {
+          "name": "Aaron Kates",
+          "url": "https://open.spotify.com/artist/1exfMe6DfajvxW8ddOC7TT"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184545,
+      "name": "Everybody You Hurt",
+      "url": "https://open.spotify.com/track/3odHCrMLEkfNslqDbrkLJt"
     },
     {
       "album": {
@@ -1591,7 +1650,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 262447,
       "name": "Fall In",
       "url": "https://open.spotify.com/track/6uEy133no179YW6ulcmalc"
@@ -1895,6 +1954,24 @@
       "duration_ms": 184421,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0wzFugjnb3aytMSNZdwdyK"
+    },
+    {
+      "album": {
+        "name": "Forte",
+        "url": "https://open.spotify.com/album/3DbbEUCzn198WFMjdbIVrz"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230790,
+      "name": "Forte",
+      "url": "https://open.spotify.com/track/2CSneRO5qx2XF7st3k9x0D"
     },
     {
       "album": {
@@ -2674,6 +2751,32 @@
     },
     {
       "album": {
+        "name": "CAGE SCRIPT",
+        "url": "https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "KOTONOHOUSE",
+          "url": "https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC"
+        },
+        {
+          "name": "RANASOL",
+          "url": "https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "IN YOUR EYES \u300c\u77b3\u306e\u4e2d\u3067\u300d",
+      "url": "https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj"
+    },
+    {
+      "album": {
         "name": "In Your Head (RL Grime Edit)",
         "url": "https://open.spotify.com/album/4TMnqsuZv6ewXkZnNAqYB3"
       },
@@ -2750,6 +2853,28 @@
     },
     {
       "album": {
+        "name": "Kaleidoscope (Me&U)",
+        "url": "https://open.spotify.com/album/2TNaumC6KtDTgt80bdY3n5"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "Alexander Lewis",
+          "url": "https://open.spotify.com/artist/1XwAo9UCt90soyw5V7U6LV"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Kaleidoscope (Me&U)",
+      "url": "https://open.spotify.com/track/6T5BzQTQzr7JQkPUVlbbLL"
+    },
+    {
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/4Jr5o5eaXLhVSucvED6QA4"
       },
@@ -2787,7 +2912,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 217846,
       "name": "Keep You",
       "url": "https://open.spotify.com/track/0yxqE17S8mauxiv10mMVS0"
@@ -2813,6 +2938,28 @@
       "duration_ms": 213817,
       "name": "Kids",
       "url": "https://open.spotify.com/track/21xQCaFIcz9lZNf9u5ySev"
+    },
+    {
+      "album": {
+        "name": "Kids (feat. dawsonLIED)",
+        "url": "https://open.spotify.com/album/4yAQ8KQD9CiQBvlz3j5LBV"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "dawsonLIED",
+          "url": "https://open.spotify.com/artist/1r4GEbBCnlUoE1T7k1baxM"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213817,
+      "name": "Kids (feat. dawsonLIED)",
+      "url": "https://open.spotify.com/track/4XwHtfePlLsUpEUeQ5hp9D"
     },
     {
       "album": {
@@ -2907,7 +3054,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-11-28",
       "duration_ms": 131000,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/0yrprIEMM99mThlgrdewdw"
@@ -2925,7 +3072,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 185600,
       "name": "let it go",
       "url": "https://open.spotify.com/track/1czCYuXfV3XtRTgxnVqyHY"
@@ -2951,6 +3098,24 @@
       "duration_ms": 185535,
       "name": "let me",
       "url": "https://open.spotify.com/track/6ThArNkAqw6TzGaFgnX5j1"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201857,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad"
     },
     {
       "album": {
@@ -3307,7 +3472,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 201680,
       "name": "Night Goggles - Rome in Silver Remix",
       "url": "https://open.spotify.com/track/4Hp78I5rUnRkEvhp9ZXk5Z"
@@ -3565,7 +3730,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2022-12-22",
       "duration_ms": 181242,
       "name": "overwhelmed - Ookay remix",
       "url": "https://open.spotify.com/track/64zyMkiyBPSyCUgLl4AIXB"
@@ -3931,6 +4096,10 @@
         {
           "name": "Subtronics",
           "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Cyclops Recordings",
+          "url": "https://open.spotify.com/artist/51y7yOXUTJFsgK8xPWt9l8"
         }
       ],
       "date_added": "2021-08-06",
@@ -4147,7 +4316,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 163669,
       "name": "Safe",
       "url": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
@@ -4165,7 +4334,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 150857,
       "name": "Sakura VIP",
       "url": "https://open.spotify.com/track/4x0DXKcYYlI3bWxTf768D6"
@@ -4205,7 +4374,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 240000,
       "name": "see str8",
       "url": "https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz"
@@ -4297,6 +4466,32 @@
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
+    },
+    {
+      "album": {
+        "name": "Shellshock (Edit)",
+        "url": "https://open.spotify.com/album/2ljDGMcczlIKC69aNczUno"
+      },
+      "artists": [
+        {
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+        },
+        {
+          "name": "Eprom",
+          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
+        },
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246346,
+      "name": "Shellshock - Edit",
+      "url": "https://open.spotify.com/track/42azUFbAeOk3JpTlqxFBE1"
     },
     {
       "album": {
@@ -4575,7 +4770,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 251566,
       "name": "Spectacle",
       "url": "https://open.spotify.com/track/5Nx50OXz1e3q7M1jLdnjvH"
@@ -5077,7 +5272,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2022-11-30",
       "duration_ms": 214110,
       "name": "Thief",
       "url": "https://open.spotify.com/track/3Tw9Z8J4DLL1Y2zVyBiDg0"
@@ -5219,7 +5414,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 177103,
       "name": "Under the Same Stars - Sweater Beats Remix",
       "url": "https://open.spotify.com/track/7fkf0pSWrK1waeSzVlwjtF"
@@ -5443,7 +5638,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 183652,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/0xjZJqMYwv7oNB4KsJiUUM"
@@ -5668,6 +5863,28 @@
     },
     {
       "album": {
+        "name": "When I Fall",
+        "url": "https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "When I Fall",
+      "url": "https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC"
+    },
+    {
+      "album": {
         "name": "Gouldian Finch 4",
         "url": "https://open.spotify.com/album/2CESN88Wh608Fo3eCxEEhj"
       },
@@ -5743,6 +5960,24 @@
       "duration_ms": 225000,
       "name": "When You Feel Like This",
       "url": "https://open.spotify.com/track/4yYYjy0Dtj4CkWeqljwpLq"
+    },
+    {
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/6F520hQ7Mc4QVoFSRggMNS"
+      },
+      "artists": [
+        {
+          "name": "Lamorn",
+          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193300,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/0YtKptsHPmje5CEXbwmnPi"
     },
     {
       "album": {
@@ -5833,7 +6068,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 136551,
       "name": "You",
       "url": "https://open.spotify.com/track/48pPiD01arCZeI8Pehoh3R"

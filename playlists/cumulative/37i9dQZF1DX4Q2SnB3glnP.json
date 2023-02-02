@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Music wellness for your soul.",
   "name": "SPA Treatment",
-  "published_playlist_ids": [
-    "4mp9Oxx4e4HzTV82HU14u2"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,10 +42,36 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 241500,
       "name": "60 bpm Slow Drone Sleep",
       "url": "https://open.spotify.com/track/1DgW2B2EyeU51Ia6VBCeHt"
+    },
+    {
+      "album": {
+        "name": "Music For Deep Sleep",
+        "url": "https://open.spotify.com/album/1qDFYGroUiPFR9ZU9TxpDN"
+      },
+      "artists": [
+        {
+          "name": "Deep Sleep Music Collective",
+          "url": "https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5"
+        },
+        {
+          "name": "Deep Sleep Music Experience",
+          "url": "https://open.spotify.com/artist/1RulmpMDhjAPg9gx6tAzw9"
+        },
+        {
+          "name": "Relaxing Spa Music",
+          "url": "https://open.spotify.com/artist/7B8bzfiNYRSCKXElRPtWiE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "60 bpm Slow Drone Sleep",
+      "url": "https://open.spotify.com/track/2fJAcXD5AZzmscP73R1fbe"
     },
     {
       "album": {
@@ -85,6 +108,24 @@
       "duration_ms": 219386,
       "name": "A Glimpse of Eternity",
       "url": "https://open.spotify.com/track/4gIkhmRSrvTltuBGYVp3TX"
+    },
+    {
+      "album": {
+        "name": "A Glorious Morning (Spa)",
+        "url": "https://open.spotify.com/album/0r6cTXwz1LvmGfa5C9wPdW"
+      },
+      "artists": [
+        {
+          "name": "Elijah Reilly",
+          "url": "https://open.spotify.com/artist/40cyqxW9Yq0YEUY8NME3sy"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203891,
+      "name": "A Glorious Morning (Spa)",
+      "url": "https://open.spotify.com/track/3gF1BjpJbEiJFHr646872q"
     },
     {
       "album": {
@@ -130,7 +171,7 @@
       "artists": [
         {
           "name": "Pristeen",
-          "url": "https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh"
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
         }
       ],
       "date_added": "2022-05-05",
@@ -499,7 +540,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 173189,
       "name": "Blanket of Peace",
       "url": "https://open.spotify.com/track/2PvRoKLmB0Q211nKNw8vmS"
@@ -1280,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183225,
+      "name": "Explorer",
+      "url": "https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj"
+    },
+    {
+      "album": {
         "name": "Integrating",
         "url": "https://open.spotify.com/album/2tPY3IAMnGDBKJevNL4iRi"
       },
@@ -1363,7 +1422,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 184000,
       "name": "Finding You",
       "url": "https://open.spotify.com/track/57XqKCO5MeTbiaLSnq6dFj"
@@ -1421,6 +1480,24 @@
       "duration_ms": 162500,
       "name": "Flucht",
       "url": "https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4"
+    },
+    {
+      "album": {
+        "name": "Foliage",
+        "url": "https://open.spotify.com/album/0iHWuRkhVKW1buqJmtCncO"
+      },
+      "artists": [
+        {
+          "name": "Wate Way",
+          "url": "https://open.spotify.com/artist/2FlrdMztVZTJ9Df7qeGMvR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Foliage",
+      "url": "https://open.spotify.com/track/0rVFLkB8YWaET3lwNnCsVF"
     },
     {
       "album": {
@@ -1640,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Hiemal",
+        "url": "https://open.spotify.com/album/7oKLhCmpADNtLE1j2v8f3i"
+      },
+      "artists": [
+        {
+          "name": "Klaangen",
+          "url": "https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167886,
+      "name": "Hiemal",
+      "url": "https://open.spotify.com/track/7EZKkc9CWvBoB52E2g2rFP"
+    },
+    {
+      "album": {
         "name": "Hong Kong Atmosphere",
         "url": "https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB"
       },
@@ -1727,6 +1822,24 @@
       "duration_ms": 214579,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3XRvk5eVsIoAIOlczehBmD"
+    },
+    {
+      "album": {
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Improved Focus",
+      "url": "https://open.spotify.com/track/2I6wgXiYhpwJ5D6P2vKXEA"
     },
     {
       "album": {
@@ -2983,7 +3096,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 176500,
       "name": "Reaching",
       "url": "https://open.spotify.com/track/0KvgYjNjdjpgjanBhUnSfO"
@@ -3494,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "Sleep Drone In C",
+        "url": "https://open.spotify.com/album/2xyKsesDNwPXWot5KRcwLz"
+      },
+      "artists": [
+        {
+          "name": "Kamila Tait",
+          "url": "https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Sleep Drone In C",
+      "url": "https://open.spotify.com/track/5fy41aUyrZd4sHSFbq2fJQ"
+    },
+    {
+      "album": {
         "name": "8D Moments Vol.1",
         "url": "https://open.spotify.com/album/0oTWY60154TcCaTOQRkWAJ"
       },
@@ -3757,7 +3888,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 194285,
       "name": "The Deepest Well",
       "url": "https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS"
@@ -3829,7 +3960,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 182965,
       "name": "The Nimrod - Ambient Version",
       "url": "https://open.spotify.com/track/67HuZVUKkrklQTcJyUrNzq"
@@ -3919,7 +4050,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 176106,
       "name": "The Tower of Embellion",
       "url": "https://open.spotify.com/track/1JT0EGMCr3SCUumDC4JIlx"
@@ -4297,10 +4428,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 357973,
       "name": "Unearth",
       "url": "https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR"
+    },
+    {
+      "album": {
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
+      },
+      "artists": [
+        {
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
     },
     {
       "album": {
@@ -4340,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "Unwind",
+        "url": "https://open.spotify.com/album/7LX0QJNQOhEOEHGsHyUeie"
+      },
+      "artists": [
+        {
+          "name": "Tascenda",
+          "url": "https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135200,
+      "name": "Unwind",
+      "url": "https://open.spotify.com/track/3e1SIAaOU2ai7MGF77qxUi"
+    },
+    {
+      "album": {
         "name": "Roma Atmosphere",
         "url": "https://open.spotify.com/album/5j8CZ8WMJoxRfwVAdFJai0"
       },
@@ -4369,7 +4536,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 221538,
       "name": "Villa Borghese",
       "url": "https://open.spotify.com/track/7mgRNwdm9onGJz8y0neIos"

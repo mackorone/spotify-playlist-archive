@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The Bollywood crooner's best songs.",
+  "description": "Bollywood crooner's essential songs.",
   "name": "This Is Arijit Singh",
-  "published_playlist_ids": [
-    "5a0HCfJmRc8ZpTMvehGeYq"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,7 +42,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 309103,
       "name": "Aabaad Barbaad (From \"Ludo\")",
       "url": "https://open.spotify.com/track/0hFUtSsV2itYEUTZGj6w5H"
@@ -177,7 +174,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 282272,
       "name": "Alizeh",
       "url": "https://open.spotify.com/track/4rIv0uUnxs5hVZfe5t9SNs"
@@ -297,7 +294,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 289333,
-      "name": "Channa Mereya",
+      "name": "Channa Mereya (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM"
     },
     {
@@ -451,6 +448,10 @@
         {
           "name": "Sunny M.R.",
           "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Neelesh Misra",
+          "url": "https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI"
         }
       ],
       "date_added": "2021-12-08",
@@ -725,7 +726,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 271586,
       "name": "Hungama Ho Gaya (From \"Queen\")",
       "url": "https://open.spotify.com/track/4ZiH6RyMrw2vlgD6vrvzBd"
@@ -791,10 +792,70 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 237142,
       "name": "Jeetega Jeetega Film Version",
       "url": "https://open.spotify.com/track/17fhQI9tsFAdd5fPSBBCWu"
+    },
+    {
+      "album": {
+        "name": "Pathaan",
+        "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208164,
+      "name": "Jhoome Jo Pathaan",
+      "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
+    },
+    {
+      "album": {
+        "name": "Jo Tum Saath Ho (From \"Salaam Venky\")",
+        "url": "https://open.spotify.com/album/3VdmgKfAUkK2M5PiMwmQGl"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348851,
+      "name": "Jo Tum Saath Ho (From \"Salaam Venky\")",
+      "url": "https://open.spotify.com/track/6pFAVtBhANwBgG6sZzZju2"
     },
     {
       "album": {
@@ -949,7 +1010,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 217848,
       "name": "Lehra Do",
       "url": "https://open.spotify.com/track/1E2Hs9fuKr9wSPAvlYX8lR"
@@ -1228,7 +1289,7 @@
     },
     {
       "album": {
-        "name": "Half Girlfriend",
+        "name": "Half Girlfriend (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3aeT26ypiF8fCWImdu0cGs"
       },
       "artists": [
@@ -1339,7 +1400,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 308253,
       "name": "Saawali Si Raat",
       "url": "https://open.spotify.com/track/4I5Xcdu5Hnki1aP0Uxbs4n"
@@ -1553,7 +1614,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 241102,
       "name": "Sooiyan",
       "url": "https://open.spotify.com/track/5ybC28fr8Kmm8Kvv6tqI8X"
@@ -1750,6 +1811,36 @@
     },
     {
       "album": {
+        "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkar\")",
+        "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265108,
+      "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkar\")",
+      "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
+    },
+    {
+      "album": {
         "name": "Gabbar Is Back",
         "url": "https://open.spotify.com/album/0pCSIpQw2LzncVyGVnoAul"
       },
@@ -1801,7 +1892,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252631,
-      "name": "The Breakup Song",
+      "name": "The Breakup Song (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/7BjQd0sfYsMGVrTpRdBNTT"
     },
     {
@@ -1894,7 +1985,7 @@
     },
     {
       "album": {
-        "name": "Kesari",
+        "name": "Kesari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE"
       },
       "artists": [
@@ -1927,6 +2018,10 @@
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         }
       ],
       "date_added": "2021-12-08",

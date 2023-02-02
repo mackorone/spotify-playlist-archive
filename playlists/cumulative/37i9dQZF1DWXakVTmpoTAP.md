@@ -4,7 +4,7 @@
 
 > Songs that show your dad love and appreciation
 
-68 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/3B9KBYwsNJbaDjE2PiZgRZ)
+68 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 | 2021-06-17 |  |
 | [Cat's in the Cradle](https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Verities & Balderdash](https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT) | 3:42 | 2022-06-09 |  |
 | [Color Him Father](https://open.spotify.com/track/4qlk1U68B90hEi37NvCJRK) | [The Winstons](https://open.spotify.com/artist/1VePrTOSgCLcaBecBs7i2q) | [Color Him Father](https://open.spotify.com/album/5Ups4qqJu7BegTd8JoOU4M) | 3:10 | 2022-06-09 |  |
-| [Daddy](https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:58 | 2021-06-17 |  |
+| [Daddy](https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:58 | 2021-06-17 | 2022-11-30 |
 | [Daddy Could Swear, I Declare](https://open.spotify.com/track/2EljJKZd4yCPBhWczgQjoo) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 3:45 | 2022-06-09 | 2022-07-29 |
 | [Daddy Lessons](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:47 | 2022-06-09 |  |
 | [Daddy Sang Bass](https://open.spotify.com/track/6cyQhHuw8lEXgHGJlXUiR9) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Holy Land](https://open.spotify.com/album/2nydwfDSmSmJaFTNsWK1kG) | 2:20 | 2022-06-09 |  |
@@ -40,7 +40,7 @@
 | [Forever Young](https://open.spotify.com/track/1qli6fjEVdmMgssWy55eiZ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Greatest Hits Volume 3](https://open.spotify.com/album/3R4p0qCYhtK1YdPtvlDD7T) | 4:56 | 2021-06-17 |  |
 | [He Didn't Have to Be](https://open.spotify.com/track/1LONTBZZRxDVx4wEvdcCLd) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:42 | 2022-06-09 |  |
 | [Hey Dad \(2021\)](https://open.spotify.com/track/3PCcuK9fcUodRLLtykSOJ1) | [Matt Stillwell](https://open.spotify.com/artist/4fZSTS8imV1CaUPHQf4CC7) | [Hey Dad \(2021\)](https://open.spotify.com/album/0qlzq66HlQNkrx4fUXb13L) | 3:22 | 2022-06-09 | 2022-07-28 |
-| [I Learned From You](https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:23 | 2021-06-17 | 2022-11-26 |
+| [I Learned From You](https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:23 | 2021-06-17 |  |
 | [I Loved Her First](https://open.spotify.com/track/0fZq48okuWkpAgjsWogAJ4) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/6TrguRnEqy2RL8mB1n3Z33) | 3:32 | 2021-06-17 | 2022-07-29 |
 | [I Loved Her First](https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f) | 3:32 | 2022-06-09 |  |
 | [I'm Her Daddy](https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:18 | 2022-06-09 |  |

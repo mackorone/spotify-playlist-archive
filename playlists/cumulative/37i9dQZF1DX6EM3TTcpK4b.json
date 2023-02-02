@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-23",
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
   "name": "Cl\u00e1sicas del Mariachi",
-  "published_playlist_ids": [
-    "5wGit89Dc1HWZ3GYt8uMaV"
-  ],
   "tracks": [
     {
       "album": {
@@ -1033,7 +1030,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 193706,
       "name": "Golondrina De Ojos Negros - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/3syPKM9ORE0fyb7tucLR58"
@@ -2315,7 +2312,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 182266,
       "name": "Ya No Me Interesas",
       "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"

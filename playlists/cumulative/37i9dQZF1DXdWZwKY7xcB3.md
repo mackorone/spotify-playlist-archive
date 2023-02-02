@@ -4,7 +4,7 @@
 
 > Comedians ponder all things music, including their favorite celebrities and pop culture icons\. \[Warning: Explicit Content\]
 
-71 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/4zwDNo3BXJrjq7Y94Pyvhu)
+71 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

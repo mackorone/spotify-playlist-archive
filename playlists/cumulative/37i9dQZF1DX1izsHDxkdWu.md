@@ -4,7 +4,7 @@
 
 > Fire up your rocket and sing\-along with Fei Fei to the Moon!
 
-37 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/6xi4eYSUkB6cRZuum2E0ma)
+37 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

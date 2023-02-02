@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,398 likes - 30 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,834 likes - 30 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 10 | [AH BAH](https://open.spotify.com/track/3xaBmikNA88h9pR9JpOe3D) | [Donn3ydon](https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv) | [AH BAH](https://open.spotify.com/album/5uCZUkhtQ8r0s3L6ZeNP0c) | 1:02 |
 | 11 | [GO AWFF](https://open.spotify.com/track/4mavsLIM2B5ZOrR5ob2xhZ) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Ernest Third](https://open.spotify.com/artist/1hISYBYZizLjUwbo3i2cK1) | [GO AWFF](https://open.spotify.com/album/69qJrlH9dK4UC1rATaULAW) | 2:51 |
 | 12 | [attachment \(she wanna love\)](https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC), [Kanii Archive](https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv) | [attachment \(she wanna love\)](https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl) | 1:28 |
-| 13 | [eyes \- vip mix](https://open.spotify.com/track/3SjHG35gKjNAJVtC63cGOi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [rave](https://open.spotify.com/album/00K2bUoUO3r54vyX6fB0qx) | 2:23 |
+| 13 | [eyes \- vip mix](https://open.spotify.com/track/56rlMjA64EogThHrCENHDA) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [rave](https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw) | 2:23 |
 | 14 | [Companion](https://open.spotify.com/track/5gdTDWskPEc1QlJ4mukqBd) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/2zl7Hs6CM8FC2aoQibqk16) | [Companion](https://open.spotify.com/album/4WuPNxFbBAuY9wyc0C3ptV) | 1:30 |
 | 15 | [DO WHAT I LIKE](https://open.spotify.com/track/1GT3KnokImz4D10rBqJAzc) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [DO WHAT I LIKE](https://open.spotify.com/album/3tAHJW9YIWgXaFfXTTG4qD) | 2:16 |
 | 16 | [ZAZA](https://open.spotify.com/track/64y0NPZeOIewgF413KARfy) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [ZAZA](https://open.spotify.com/album/4hklCiWYHkGeRqgCGs7wRB) | 2:29 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 29 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 |
 | 30 | [The Present Is a Gift](https://open.spotify.com/track/6Lp5QVSsAFVX3tSdQXmWG0) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [The Present Is a Gift](https://open.spotify.com/album/1a3P5dc4h5NHeMd2PR1Rnz) | 3:42 |
 
-Snapshot ID: `MTY2OTE1Njc3MCwwMDAwMDAwMDUyNWZiNjllYzVjZjhkNWNkNDNhOGFmOWZhMzEyMTJi`
+Snapshot ID: `MTY2OTE1Njc3MCwwMDAwMDAwMDY0MGEzNTAwMTY3NjkyNDljZWY3ODJkMDI2YzkwODk0`

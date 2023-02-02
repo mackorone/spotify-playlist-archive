@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Deephouse that travels from Afro to Eastern sounds.",
   "name": "Dunes",
-  "published_playlist_ids": [
-    "3RXQhU6kWbIikRAH2XKGj0"
-  ],
   "tracks": [
     {
       "album": {
@@ -137,6 +134,32 @@
       "duration_ms": 525619,
       "name": "Amal",
       "url": "https://open.spotify.com/track/6mbaDJR50wBfd2LuXTKSd2"
+    },
+    {
+      "album": {
+        "name": "Amazigh Remixes",
+        "url": "https://open.spotify.com/album/4lzuNAKSYZ2rsCUkHA02mZ"
+      },
+      "artists": [
+        {
+          "name": "Elisa Elisa",
+          "url": "https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393685,
+      "name": "Amazigh - Enoo Napa Dub",
+      "url": "https://open.spotify.com/track/6BfjfsJVEGNcRmibMhmz3h"
     },
     {
       "album": {
@@ -305,6 +328,24 @@
       "duration_ms": 312233,
       "name": "Badawi",
       "url": "https://open.spotify.com/track/6E7JarTA0Y68vPlLg36DJ8"
+    },
+    {
+      "album": {
+        "name": "Baglami",
+        "url": "https://open.spotify.com/album/4EK46NYAw0L0GQ8z1MjmRr"
+      },
+      "artists": [
+        {
+          "name": "DJ DALI",
+          "url": "https://open.spotify.com/artist/69tAExl6Egi3sb0ZW13NPS"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330491,
+      "name": "Baglami",
+      "url": "https://open.spotify.com/track/159mYyAervSmRxUdyEaOdq"
     },
     {
       "album": {
@@ -565,7 +606,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 374876,
       "name": "Cigano",
       "url": "https://open.spotify.com/track/1to9O59JU5BmGDzjQrzAZy"
@@ -1048,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "Fomalah",
+        "url": "https://open.spotify.com/album/1Mzpalm1vye6Rz709d4qtt"
+      },
+      "artists": [
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        },
+        {
+          "name": "YASS",
+          "url": "https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428956,
+      "name": "Fomalah",
+      "url": "https://open.spotify.com/track/3y0NlHjBLhQdGoK3OscjeD"
+    },
+    {
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/37abhSU412bkiwXr3ShshM"
       },
@@ -1206,6 +1269,36 @@
     },
     {
       "album": {
+        "name": "Hayasa",
+        "url": "https://open.spotify.com/album/5nHl5etUCu0S9Tum3ocFno"
+      },
+      "artists": [
+        {
+          "name": "DARNO",
+          "url": "https://open.spotify.com/artist/3Rx3ZlDu2q99fQgWBZ298Z"
+        },
+        {
+          "name": "GATA BAND",
+          "url": "https://open.spotify.com/artist/7GdFYG0SCgZnhfnHnIC4Ho"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Monojoke",
+          "url": "https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448524,
+      "name": "Hayasa - Monojoke Remix",
+      "url": "https://open.spotify.com/track/64EnP9VqlTUMCNyn9mt6Kx"
+    },
+    {
+      "album": {
         "name": "How long",
         "url": "https://open.spotify.com/album/6gMtzCRhctZHbZy4NAIBMr"
       },
@@ -1225,6 +1318,32 @@
       "duration_ms": 404375,
       "name": "How long",
       "url": "https://open.spotify.com/track/3b7fskQHs7o1bYYA6ARdZS"
+    },
+    {
+      "album": {
+        "name": "Hustle Tribes (The Deepshakerz Tribe Remix)",
+        "url": "https://open.spotify.com/album/5uecXR62wSr0xj6APC9HKq"
+      },
+      "artists": [
+        {
+          "name": "Dave Mayer",
+          "url": "https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan"
+        },
+        {
+          "name": "Deeplomatik",
+          "url": "https://open.spotify.com/artist/2RBiRrMFQjr0A34HQ5RbHz"
+        },
+        {
+          "name": "The Deepshakerz",
+          "url": "https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Hustle Tribes - The Deepshakerz Tribe Remix",
+      "url": "https://open.spotify.com/track/5kqEbWSdMFXtVplPN1uWaI"
     },
     {
       "album": {
@@ -1365,6 +1484,14 @@
         {
           "name": "Guy Lalibert\u00e9",
           "url": "https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        },
+        {
+          "name": "Snow Owl",
+          "url": "https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua"
         },
         {
           "name": "Bedouin",
@@ -1720,6 +1847,46 @@
     },
     {
       "album": {
+        "name": "Malayou",
+        "url": "https://open.spotify.com/album/3NGlNwZ7brGUuqQ9Z0Fazy"
+      },
+      "artists": [
+        {
+          "name": "Da Mike",
+          "url": "https://open.spotify.com/artist/6y47rh8rdNwWhWqJs8ondd"
+        },
+        {
+          "name": "Kawtar Sadik",
+          "url": "https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441999,
+      "name": "Malayou",
+      "url": "https://open.spotify.com/track/0hT1vHRFdU5pcqs9D4cTjk"
+    },
+    {
+      "album": {
+        "name": "Mbodiene",
+        "url": "https://open.spotify.com/album/1HaPXzH7jfTmB1C00gDf45"
+      },
+      "artists": [
+        {
+          "name": "Everything Counts",
+          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490389,
+      "name": "Mbodiene",
+      "url": "https://open.spotify.com/track/7HtwnNHm0I2hWxlpZOpaPn"
+    },
+    {
+      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
@@ -1866,6 +2033,28 @@
     },
     {
       "album": {
+        "name": "Neko Ep",
+        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
+      },
+      "artists": [
+        {
+          "name": "Jacob Groening",
+          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
+        },
+        {
+          "name": "Kotoe",
+          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273523,
+      "name": "Neko (feat Kotoe)",
+      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
+    },
+    {
+      "album": {
         "name": "Nemrut (Edit)",
         "url": "https://open.spotify.com/album/59DIyGYgWwT6vo7eSeaae3"
       },
@@ -1881,6 +2070,80 @@
       "duration_ms": 390646,
       "name": "Nemrut - Edit",
       "url": "https://open.spotify.com/track/3yYRlfWjWcJReYTAT54I7o"
+    },
+    {
+      "album": {
+        "name": "Nene Man Ni",
+        "url": "https://open.spotify.com/album/3mi4Ul9CePML6MxVBP7TAY"
+      },
+      "artists": [
+        {
+          "name": "Gianni Romano",
+          "url": "https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK"
+        },
+        {
+          "name": "Emanuele Esposito",
+          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418048,
+      "name": "Nene Man Ni",
+      "url": "https://open.spotify.com/track/7m4bWgzzK8DYLZBjHAIGVv"
+    },
+    {
+      "album": {
+        "name": "Obbatala",
+        "url": "https://open.spotify.com/album/1DI9vExiR85U1srTsof7O0"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Da Le (Havana)",
+          "url": "https://open.spotify.com/artist/0Ls9PL0afEyfXXY1XDdQP2"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412068,
+      "name": "Obbatala",
+      "url": "https://open.spotify.com/track/4kDHcLLfnC8Zj0gbCGUwAX"
+    },
+    {
+      "album": {
+        "name": "Ode Ireti (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "El-Jay",
+          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239925,
+      "name": "Ode Ireti - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
     },
     {
       "album": {
@@ -2137,6 +2400,10 @@
         {
           "name": "Professor",
           "url": "https://open.spotify.com/artist/6CVlmc2tvzoff758MgvAT5"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         }
       ],
       "date_added": "2022-07-21",
@@ -2640,6 +2907,32 @@
     },
     {
       "album": {
+        "name": "Thousand And Two Nights",
+        "url": "https://open.spotify.com/album/67EAgGAHyrOdf3QKhkpJHv"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        },
+        {
+          "name": "Dikla Hackmon",
+          "url": "https://open.spotify.com/artist/1WMzRg50fwSyMmnKQ0xEvj"
+        },
+        {
+          "name": "Paso Doble",
+          "url": "https://open.spotify.com/artist/3UcGeZb5ji86oAC34FtYtp"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Thousand And Two Nights - Paso Doble Remix",
+      "url": "https://open.spotify.com/track/2WSTSLildq9gO9mK6sNTgp"
+    },
+    {
+      "album": {
         "name": "Tolo",
         "url": "https://open.spotify.com/album/732vlGVmJhgDRwLjWce1qv"
       },
@@ -2724,6 +3017,28 @@
     },
     {
       "album": {
+        "name": "Two Zulu Men In Ibiza EP",
+        "url": "https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz"
+      },
+      "artists": [
+        {
+          "name": "DJ Merlon",
+          "url": "https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421027,
+      "name": "Two Zulu Men In Ibiza",
+      "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
+    },
+    {
+      "album": {
         "name": "Vatra",
         "url": "https://open.spotify.com/album/57HyuY3gr0yMDoD5cdbXR7"
       },
@@ -2787,10 +3102,32 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 426541,
       "name": "Water",
       "url": "https://open.spotify.com/track/6CJRmGL7DViCD19b1AjZ3i"
+    },
+    {
+      "album": {
+        "name": "Anchor Point EP",
+        "url": "https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Spins",
+          "url": "https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Waves & Wavs",
+      "url": "https://open.spotify.com/track/5HRWhU6V48zxJqkh99DJQv"
     },
     {
       "album": {
@@ -2809,6 +3146,46 @@
       "duration_ms": 251865,
       "name": "Whale Song",
       "url": "https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN"
+    },
+    {
+      "album": {
+        "name": "Whistleman EP",
+        "url": "https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479920,
+      "name": "Whistleman",
+      "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
+    },
+    {
+      "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "album": {
@@ -2948,6 +3325,28 @@
     },
     {
       "album": {
+        "name": "Yekokwam",
+        "url": "https://open.spotify.com/album/2TnHnAtW5A2mpjRNHeECaK"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360991,
+      "name": "Yekokwam",
+      "url": "https://open.spotify.com/track/3Sco2ZlbYuSdLIvj85JT6v"
+    },
+    {
+      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -2967,7 +3366,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 375917,
       "name": "You Need Me (feat. Maxine Ashley & Sun-El Musician)",
       "url": "https://open.spotify.com/track/2ieFaRzeA5yfRjanzaBS8Q"

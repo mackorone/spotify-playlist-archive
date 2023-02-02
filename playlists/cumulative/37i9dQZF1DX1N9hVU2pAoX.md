@@ -4,7 +4,7 @@
 
 > If you or someone you know is struggling, you aren’t alone\.  loveislouder.com/prevent
 
-12 songs - 38 min 58 sec - [published](https://open.spotify.com/playlist/3B2OEySBZiWDYvM19XJ4Su)
+12 songs - 38 min 58 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

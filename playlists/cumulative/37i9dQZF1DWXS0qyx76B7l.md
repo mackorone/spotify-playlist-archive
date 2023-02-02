@@ -4,7 +4,7 @@
 
 > Songs about the iconic city\. Welcome to the Big Apple!
 
-105 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/304x1Ce1d77xP3lFWeIUYd)
+105 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [NEW DORP\. NEW YORK](https://open.spotify.com/track/2YKcA5ZkWQfVHd7bMIv4iw) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Wonder Where We Land](https://open.spotify.com/album/6ce0iHUNEFDL2UWJjXlI6L) | 3:00 | 2020-05-13 | 2022-01-29 |
 | [New York](https://open.spotify.com/track/73EByXGIiEe7e3SRNLcipP) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Jukebox](https://open.spotify.com/album/03JINxTGl6LFAgfcdMvCvv) | 2:01 | 2020-05-13 | 2022-06-22 |
 | [New York](https://open.spotify.com/track/5FBaWYaoA8j260ctveOa4a) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/0MeOIA0wwSa6nW79jy8QcZ) | 3:55 | 2020-05-13 | 2022-07-29 |
-| [New York](https://open.spotify.com/track/0EP3yjbjHdbUL1miyNlgys) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [New York](https://open.spotify.com/album/2MvEZPyhKqA5SdVAmsu2nC) | 3:21 | 2020-05-13 |  |
+| [New York](https://open.spotify.com/track/0EP3yjbjHdbUL1miyNlgys) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [New York](https://open.spotify.com/album/2MvEZPyhKqA5SdVAmsu2nC) | 3:21 | 2020-05-13 | 2022-12-04 |
 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 | 2020-05-13 |  |
 | [New York](https://open.spotify.com/track/1xfXPn56cFAEP9ReiIV8ha) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [New York](https://open.spotify.com/album/0cSIbQhjQ1RHnSUyRIUl39) | 3:38 | 2020-05-13 | 2022-07-29 |
 | [New York at Night](https://open.spotify.com/track/1AETvuSzlhLT7uasHHmGvI) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:34 | 2020-05-13 | 2022-07-27 |
@@ -112,6 +112,6 @@
 | [Walk on the Wild Side](https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1) | 4:13 | 2020-05-13 | 2022-07-28 |
 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 | 2022-01-24 |  |
 | [Welcome To New York](https://open.spotify.com/track/6qnM0XXPZOINWA778uNqQ9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:32 | 2020-05-13 |  |
-| [Welcome To New York City](https://open.spotify.com/track/6GJe7xXJVxmPZpMBVb7kOc) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 5:09 | 2020-05-13 | 2022-11-14 |
+| [Welcome To New York City](https://open.spotify.com/track/6GJe7xXJVxmPZpMBVb7kOc) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy) | 5:09 | 2020-05-13 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "M\u00fasica motivacional para quemar esa hamburguesa que comiste el finde.",
   "name": "Maldita Hamburguesa",
-  "published_playlist_ids": [
-    "1GYt6A531w759QfJlAemMx"
-  ],
   "tracks": [
     {
       "album": {
@@ -523,7 +520,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 290960,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
@@ -577,10 +574,28 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267596,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
     },
     {
       "album": {
@@ -923,7 +938,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 318226,
       "name": "Jeremy",
       "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
@@ -1719,7 +1734,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 276880,
       "name": "Tom Sawyer",
       "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
@@ -1871,7 +1886,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -1882,6 +1897,24 @@
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
@@ -2007,7 +2040,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 343640,
       "name": "You Could Be Mine",
       "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"

@@ -4,7 +4,7 @@
 
 > 
 
-731 songs - 2 day 1 hr 44 min - [published](https://open.spotify.com/playlist/0fCtQPyc2UfKU6oHsoXFs0)
+731 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Hollow Crown](https://open.spotify.com/track/06RJTDG2ZosQFt90Ze161Y) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/3mxUyr3mp1mL0DRoGaAgpR) | 4:24 | 2011-07-08 |  |
 | [Holy Diver](https://open.spotify.com/track/6jwS43q1m1jvf76tmOo1Hc) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Dio / Rock Legends](https://open.spotify.com/album/5OpZ8IOIhUYaD6gX7USOfk) | 5:41 | 2011-07-08 |  |
 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 | 2011-07-08 |  |
-| [Holy Wars...The Punishment Due \- Remastered](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 | 2011-07-08 |  |
+| [Holy Wars...The Punishment Due \- Remastered 2004](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 | 2011-07-08 |  |
 | [Homophobic/Alcoholic](https://open.spotify.com/track/1FkxZ8ujkjewaZaySGjE9k) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [The new sound of the true best](https://open.spotify.com/album/6jtR5S7AM1aJ9taaqDZVSh) | 4:07 | 2011-07-08 |  |
 | [Hot Dog](https://open.spotify.com/track/4jbBnudcEbhPiFOoHwe8iy) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water \(Explicit Version\)](https://open.spotify.com/album/3uOEEa9T9s1lpoKzVCxZU0) | 3:50 | 2011-07-08 |  |
 | [House And The Rising Son](https://open.spotify.com/track/2rurP5mnYnHYJ9wjISUX5D) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House Of Pain](https://open.spotify.com/album/6aQe8pwmbv89DodASvyuSq) | 3:39 | 2011-07-08 |  |

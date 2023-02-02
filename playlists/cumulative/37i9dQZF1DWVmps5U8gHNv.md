@@ -2,9 +2,9 @@
 
 ### [Essential Folk](https://open.spotify.com/playlist/37i9dQZF1DWVmps5U8gHNv)
 
-> A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
+> A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-171 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/5XrR4yd4Dusry8J0LVbkFW)
+176 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,9 +90,12 @@
 | [Lullaby](https://open.spotify.com/track/6oVt9GBbquoFDz3VTPFe1e) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:57 | 2021-08-18 |  |
 | [Lungs](https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter](https://open.spotify.com/album/2drUynocyGveMTFheprmJy) | 2:34 | 2021-08-18 | 2022-07-29 |
 | [Lungs \- Live](https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter, Houston, Texas](https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC) | 2:34 | 2022-03-11 |  |
+| [Make You Feel My Love \- Take 1](https://open.spotify.com/track/78fE6GJay1PbThXWGXOnM9) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17 \(Deluxe Edition\)](https://open.spotify.com/album/0qfFt0ItzdJngdYWWxRkub) | 4:10 | 2023-01-27 |  |
 | [Matty Groves](https://open.spotify.com/track/1RU9IjayNNnMibiXKp5Hxs) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Liege And Lief](https://open.spotify.com/album/1FrW2Bbq6IXkyPM5wznMPD) | 8:08 | 2021-08-18 | 2022-07-29 |
 | [Matty Groves](https://open.spotify.com/track/6PANXCHzEANzajOgtwLMnN) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Liege And Lief](https://open.spotify.com/album/505zw4fKgpk8HXqyw3BMFq) | 8:09 | 2022-03-11 |  |
 | [Matty Groves](https://open.spotify.com/track/2k512lGXvUnWUvKz9jIlPO) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Folk Music](https://open.spotify.com/album/7GDONoah42N8bVPTY8G9tK) | 8:10 | 2022-03-11 | 2022-11-13 |
+| [Mississippi \- Version 2](https://open.spotify.com/track/4T7zdEt6EPBYPINynERjCN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Mississippi \(Version 2\)](https://open.spotify.com/album/4mAnAlXFfFIlnzNRV8cCfR) | 5:12 | 2023-01-20 | 2023-01-29 |
+| [Mississippi \- Version 2](https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 5:12 | 2023-01-27 |  |
 | [Mr\. Tambourine Man](https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 5:30 | 2021-08-18 |  |
 | [Mr\. Tambourine Man](https://open.spotify.com/track/3yVKhOMynkNEGYlQo6JMbY) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Preflyte](https://open.spotify.com/album/7obV5Bgx5m2O7q9YPlP0mv) | 2:18 | 2022-03-11 |  |
 | [Mr\. Tambourine Man](https://open.spotify.com/track/25KmhG8FQE4EJDqvfDVO3F) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Preflyte](https://open.spotify.com/album/5fMeKlV1cX0I0xxGot2o6h) | 2:19 | 2021-08-18 | 2022-07-29 |
@@ -100,6 +103,8 @@
 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 | 2022-03-11 |  |
 | [Mrs\. Robinson \- Single Mix](https://open.spotify.com/track/3CJ60azPXtva8OdBsxSA7a) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG) | 3:54 | 2021-08-18 | 2022-07-29 |
 | [Music Is Love](https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [If I Could Only Remember My Name](https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM) | 3:22 | 2021-08-18 | 2022-03-09 |
+| [Not Dark Yet \- Version 1](https://open.spotify.com/track/4tBwhmAibSxix5rKQ5zr4c) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 7:10 | 2023-01-27 |  |
+| [Not Dark Yet \- Version 1](https://open.spotify.com/track/5CdrxIu33WFVpa2qnuG3A1) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Not Dark Yet \(Version 1\)](https://open.spotify.com/album/577uc6MHsDO7dJEPimNkmc) | 7:12 | 2023-01-20 | 2023-01-29 |
 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 | 2021-08-18 |  |
 | [Old Man](https://open.spotify.com/track/4rWbao8Vde6ioqH2jZI4ee) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Greatest Hits](https://open.spotify.com/album/2hNa7oWGatOqnKw9cmS4ao) | 3:22 | 2021-08-18 | 2022-03-09 |
 | [Once I Was](https://open.spotify.com/track/6iI6NXjtI3IkjK2k1juqaX) | [Tim Buckley](https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr) | [Goodbye And Hello](https://open.spotify.com/album/1jKfTvT64lcQwA74WmkKiJ) | 3:23 | 2021-08-18 |  |

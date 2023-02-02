@@ -4,7 +4,7 @@
 
 > Classic drinking singalongs.
 
-60 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/56xGjjMt3q1sbs8rAN1t2E)
+61 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Lily The Pink](https://open.spotify.com/track/2XXFwUTAOjRdPOzhFmiqfx) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [The Best Of The Irish Rovers](https://open.spotify.com/album/7eR6s2Ag147H5yHOG1CwDV) | 3:21 | 2020-03-16 |  |
 | [Molly Malone](https://open.spotify.com/track/4AyeGAsIJ4OJdgCGEKUUsV) | [Johnny Logan & Friends](https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6) | [The Irish Connection](https://open.spotify.com/album/5QFGKq3F7nwj615jRrOcTC) | 3:06 | 2022-03-16 |  |
 | [Molly Malone](https://open.spotify.com/track/7gV15ft4DZydpfAgYnakST) | [Johnny Logan & Friends](https://open.spotify.com/artist/0T2vuEBLAy5QdxWqm6GQY6) | [The Irish Connection](https://open.spotify.com/album/4sHCKXPUThL5qMqSEEVU6M) | 3:06 | 2020-03-16 | 2022-07-29 |
-| [Muirsheen Durkin](https://open.spotify.com/track/7DkDrVprJzciRxztQ7UG1I) | [The Blarney Lads](https://open.spotify.com/artist/0NVUu7IN9htn2Ak7CY8mCL) | [Molly Malone: 20 Traditional Irish Favorites for St\. Patrick's Day](https://open.spotify.com/album/1NrHPStocUvzCEV4lTJCRr) | 2:08 | 2020-03-16 |  |
+| [Muirsheen Durkin](https://open.spotify.com/track/2m2YyIx0wbM38KvAHlZlml) | [Irish Lads Of Limerick](https://open.spotify.com/artist/1OGjD0Wx8kiMTo7k966sn8) | [Irish Favorites](https://open.spotify.com/album/61LonjrzxQuiSMY3syhEsa) | 2:08 | 2022-03-16 |  |
+| [Muirsheen Durkin](https://open.spotify.com/track/7DkDrVprJzciRxztQ7UG1I) | [The Blarney Lads](https://open.spotify.com/artist/0NVUu7IN9htn2Ak7CY8mCL) | [Molly Malone: 20 Traditional Irish Favorites for St\. Patrick's Day](https://open.spotify.com/album/1NrHPStocUvzCEV4lTJCRr) | 2:08 | 2020-03-16 | 2022-12-01 |
 | [Murisheen Durkin](https://open.spotify.com/track/3z7gAXbFw6R1jqun0pEfAz) | [The Poxy Boggards](https://open.spotify.com/artist/02AfNHKlkhaU7geymsecab) | [Whiskey Business](https://open.spotify.com/album/1CCbyiAHeoiMhvxVwKPe0W) | 3:33 | 2022-03-16 |  |
 | [On the One Road](https://open.spotify.com/track/3axEGZqZ54eYrGIOnuYz0m) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [Let The People Sing](https://open.spotify.com/album/68z5Mo8YEeiwdF5SItYJ2R) | 3:03 | 2020-03-16 |  |
 | [Paddle Me Own Canoe](https://open.spotify.com/track/4ayxeG7J8CyT0Bwb8bHIXb) | [Waxies Dargle](https://open.spotify.com/artist/6XyWSrfIUyLVu2htZ0w8VH) | [Irish Drinking Songs](https://open.spotify.com/album/2QYhhgP7i8J6mbANcKCeCv) | 2:45 | 2020-03-16 |  |

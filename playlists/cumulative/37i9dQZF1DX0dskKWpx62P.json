@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-08",
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
   "name": "Huaynos Cl\u00e1sicos",
-  "published_playlist_ids": [
-    "6WULSQ3fhigV44qwMbRlO1"
-  ],
   "tracks": [
     {
       "album": {
@@ -1613,7 +1610,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 167466,
       "name": "Sihuarsito",
       "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
@@ -1649,7 +1646,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-03",
       "duration_ms": 239853,
       "name": "Sirwana",
       "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
@@ -1757,7 +1754,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 159453,
       "name": "Triste Enamorado",
       "url": "https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK"
@@ -1793,7 +1790,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 264736,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/0zyojpH4GWVShFTsOMMLJt"
@@ -1824,12 +1821,12 @@
       "artists": [
         {
           "name": "Los Hermanos Curi",
-          "url": "https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9"
+          "url": "https://open.spotify.com/artist/6IevV2x2hafFJUf9xU6y78"
         }
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 266774,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/1xF8kpo2MmbMT7cEBWGUMB"
@@ -1955,7 +1952,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 287800,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX"
@@ -1977,6 +1974,24 @@
       "duration_ms": 287800,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/65UbyGpH5tP9AkmZAXV8aB"
+    },
+    {
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/0y0l5FMyFAuMDhhhnnXxW7"
+      },
+      "artists": [
+        {
+          "name": "William Luna",
+          "url": "https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287805,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/6tp6NTptAjAdiayBTJnRbR"
     },
     {
       "album": {

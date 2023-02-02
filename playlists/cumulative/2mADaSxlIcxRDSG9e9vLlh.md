@@ -4,7 +4,7 @@
 
 > Songs for you and your best friend\. Endless love in any weather.
 
-35 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/2KgxHu7oKXk5HliU5AMyZC)
+35 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Happy Home](https://open.spotify.com/track/4Jem4FLgv1l6x7fXyLSyJN) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Happy Home](https://open.spotify.com/album/0B7fqlrGFN6IyC219tUQyw) | 3:36 | 2015-01-12 |  |
 | [Higher \(feat\. B.o.B\)](https://open.spotify.com/track/1UoDxE4HOUH9J6F4yWrcxa) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Higher \(feat\. B.o.B\)](https://open.spotify.com/album/1fth6DklGAfloYRGDptYiB) | 3:33 | 2015-01-12 |  |
 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/4ZrbWwFHHjPoe7cfUBJ9WQ) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 2:48 | 2015-01-08 |  |
-| [Is This Love \- Montmartre Remix](https://open.spotify.com/track/14CsUVcoKztExH6aSgfrfb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Is This Love \(Montmartre Remix\)](https://open.spotify.com/album/2vivonRnTYYyd9LdsrYKoA) | 4:29 | 2015-01-12 |  |
+| [Is This Love \- Montmartre Remix](https://open.spotify.com/track/14CsUVcoKztExH6aSgfrfb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Is This Love \(Montmartre Remix\)](https://open.spotify.com/album/2vivonRnTYYyd9LdsrYKoA) | 4:29 | 2015-01-12 |  |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2015-01-12 |  |
 | [Like My Dog](https://open.spotify.com/track/4RvN1i2qMIqgg4yWTqtvvR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Enjoy Yourself](https://open.spotify.com/album/731bZzgCiyc5rCtDQ3PiZA) | 2:46 | 2015-01-08 |  |
 | [Live Till I Die](https://open.spotify.com/track/3Jauu3MzVAw652B2LSgOVI) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Live Till I Die](https://open.spotify.com/album/3lUuSmPoS3eN2OdpmTczt9) | 3:05 | 2015-01-12 |  |

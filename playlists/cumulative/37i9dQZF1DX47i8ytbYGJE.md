@@ -4,7 +4,7 @@
 
 > Hillbilly and Rock music fusing together called Rockabilly!  Thankyouverymuch...
 
-321 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/3GVV7z7IlOsMQHBFeVAJAv)
+322 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Dixie Fried](https://open.spotify.com/track/67a41MrXPrrSM3OeqoxMkM) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Original Golden Hits](https://open.spotify.com/album/6UYgHKeG16ICKNm52dVnJi) | 2:24 | 2020-10-11 | 2022-11-18 |
 | [Dixie Fried](https://open.spotify.com/track/5W07idwf58ahnvoPgYb2xI) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Most Wanted 50s Rockabilly](https://open.spotify.com/album/69V0tr8soM6T7zu9ZviP5s) | 2:24 | 2020-10-11 | 2022-11-13 |
 | [Dixie Fried](https://open.spotify.com/track/20IsGvRnqdzzotrQeJ6GRb) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The 50 Best Rockabilly Songs Ever](https://open.spotify.com/album/0Nb8B0PNy4XnoZAPw2cSOU) | 2:27 | 2020-10-11 | 2022-07-29 |
-| [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 | 2020-10-11 |  |
+| [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 | 2020-10-11 | 2023-01-05 |
+| [Do Me No Wrong \(Demo\)](https://open.spotify.com/track/61vCg9VRY7AXw3rFRd39g9) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Presenting Pat Cupp](https://open.spotify.com/album/6uflDIt9eWuGJPE5soqSn8) | 2:24 | 2020-10-11 |  |
 | [Don't](https://open.spotify.com/track/2xqlg4S9Z3FD8yWMli2Wuy) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Forever: The Best of Elvis Presley](https://open.spotify.com/album/7mxsNoS5WUrhkW5gPYLFHo) | 2:48 | 2020-10-11 | 2022-07-29 |
 | [Don't](https://open.spotify.com/track/3GmyQPjj9nPQx5LHQb4k5J) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 2:48 | 2020-10-11 |  |
 | [Don't](https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:48 | 2020-10-11 | 2022-11-13 |

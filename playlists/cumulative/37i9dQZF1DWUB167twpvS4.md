@@ -4,7 +4,7 @@
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 
-97 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/49TY9RElDGcRdKuxPFwwYQ)
+97 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-23",
   "description": "no-clip out of reality",
   "name": "liminal",
-  "published_playlist_ids": [
-    "6dPjrd3A0KFEWg2AfbxWij"
-  ],
   "tracks": [
     {
       "album": {
@@ -62,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Deathconsciousness",
+        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
+      },
+      "artists": [
+        {
+          "name": "Have A Nice Life",
+          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472695,
+      "name": "A Quick One Before the Eternal Worm Devours Connecticut",
+      "url": "https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY"
+    },
+    {
+      "album": {
         "name": "Ultra Truth",
         "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
@@ -81,6 +96,42 @@
       "duration_ms": 82683,
       "name": "Ache",
       "url": "https://open.spotify.com/track/3tOx7feTSndrn23Pv5LKjX"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3"
+    },
+    {
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
     },
     {
       "album": {
@@ -120,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Best of Luck (From the Film \"Velocity\")",
+        "url": "https://open.spotify.com/album/7JREhlt7IIkD2mCr3Gwr5E"
+      },
+      "artists": [
+        {
+          "name": "Geller",
+          "url": "https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111023,
+      "name": "Best of Luck",
+      "url": "https://open.spotify.com/track/4UwwTjYElB7ODGfPXQzURF"
+    },
+    {
+      "album": {
         "name": "Geogaddi",
         "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
       },
@@ -131,10 +200,28 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 37626,
       "name": "Beware The Friendly Stranger",
       "url": "https://open.spotify.com/track/3KflFtXKKX61Ljf3TQqXln"
+    },
+    {
+      "album": {
+        "name": "sungazing",
+        "url": "https://open.spotify.com/album/6LhN2ibtSczdogP7IrJIhM"
+      },
+      "artists": [
+        {
+          "name": "Video Days",
+          "url": "https://open.spotify.com/artist/3kbxSeLvtQJkPCCh3ESKoe"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83250,
+      "name": "Bleached",
+      "url": "https://open.spotify.com/track/7nTrgV4osUk3b5ZKgKEWlu"
     },
     {
       "album": {
@@ -167,10 +254,28 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 225000,
       "name": "Brian is the Most Beautiful",
       "url": "https://open.spotify.com/track/1YkMJr3IwSLmMpcsBI5KWS"
+    },
+    {
+      "album": {
+        "name": "Songs & Demos 2015-2017",
+        "url": "https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1"
+      },
+      "artists": [
+        {
+          "name": "Memo Boy",
+          "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Brian is the Most Beautiful",
+      "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX"
     },
     {
       "album": {
@@ -390,6 +495,42 @@
     },
     {
       "album": {
+        "name": "green to blue (slowed + reverbed)",
+        "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187068,
+      "name": "green to blue - slowed + reverbed",
+      "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
+    },
+    {
+      "album": {
+        "name": "Donnie Darko (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/14YY4AaUCXICymdzNYBUS3"
+      },
+      "artists": [
+        {
+          "name": "Michael Andrews",
+          "url": "https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51893,
+      "name": "Gretchen Ross",
+      "url": "https://open.spotify.com/track/5acbJHiejvbt4rOc8esb5k"
+    },
+    {
+      "album": {
         "name": "heart held",
         "url": "https://open.spotify.com/album/7gCGDCh2DBlmRoBFsJLrWi"
       },
@@ -470,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Selected Ambient Works 85-92",
+        "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77346,
+      "name": "I",
+      "url": "https://open.spotify.com/track/2FQviMkaoixlgWuGL4u1EO"
+    },
+    {
+      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
       },
@@ -535,7 +694,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 75294,
       "name": "I'll make it better",
       "url": "https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn"
@@ -691,7 +850,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 57000,
       "name": "It's Playtime",
       "url": "https://open.spotify.com/track/36t2yFEbWl2afvMnAmMU3p"
@@ -727,7 +886,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 65000,
       "name": "Key",
       "url": "https://open.spotify.com/track/7K7E7LKK51PezScgsvVg9Y"
@@ -767,10 +926,32 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 221678,
       "name": "Level 4 Abandoned Office",
       "url": "https://open.spotify.com/track/4XdvQE2cXhbGxCtEDVamXj"
+    },
+    {
+      "album": {
+        "name": "The Shining (Selections from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI"
+      },
+      "artists": [
+        {
+          "name": "Wendy Carlos",
+          "url": "https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB"
+        },
+        {
+          "name": "Rachel Elkind",
+          "url": "https://open.spotify.com/artist/26WQwAYoinO6Cda6Gwy7yR"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "Main Title (The Shining)",
+      "url": "https://open.spotify.com/track/4WnuHIJTLrFkAQdpryLDe7"
     },
     {
       "album": {
@@ -832,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Minecraft - Volume Alpha",
+        "url": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Moog City",
+      "url": "https://open.spotify.com/track/4Ar3oSp4bAw5gz22F70GM7"
+    },
+    {
+      "album": {
         "name": "Mrs Magic",
         "url": "https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO"
       },
@@ -865,7 +1064,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 384116,
       "name": "Never",
       "url": "https://open.spotify.com/track/7fwE3Nr0RsTzYOocfu2XbV"
@@ -887,6 +1086,24 @@
       "duration_ms": 198857,
       "name": "nevermind, everything's ok",
       "url": "https://open.spotify.com/track/6ALOEBRrJZZ1lpAHbr1VOA"
+    },
+    {
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/3cONM1LoGdn5gxCdE2AZ5g"
+      },
+      "artists": [
+        {
+          "name": "slo moon",
+          "url": "https://open.spotify.com/artist/7EJZT0ZlKcnyuuaEy31h1i"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132260,
+      "name": "New World Pt. 3",
+      "url": "https://open.spotify.com/track/0CXH4JqtK5MpoxjMrZkjZr"
     },
     {
       "album": {
@@ -1013,7 +1230,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 300000,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA"
@@ -1035,6 +1252,24 @@
       "duration_ms": 185223,
       "name": "Oh Klahoma",
       "url": "https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn"
+    },
+    {
+      "album": {
+        "name": "What We Do For Others",
+        "url": "https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR"
+      },
+      "artists": [
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162010,
+      "name": "Out",
+      "url": "https://open.spotify.com/track/3XacRs7DmGzAb8auxz6Wnt"
     },
     {
       "album": {
@@ -1092,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Donnie Darko (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/14YY4AaUCXICymdzNYBUS3"
+      },
+      "artists": [
+        {
+          "name": "Michael Andrews",
+          "url": "https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122600,
+      "name": "Philosophy of Time Travel",
+      "url": "https://open.spotify.com/track/279OmEUbE1uSLMT9usR4nb"
+    },
+    {
+      "album": {
         "name": "2000 - 2004",
         "url": "https://open.spotify.com/album/0XEVhUvCuqZpSClREEsVlg"
       },
@@ -1107,6 +1360,24 @@
       "duration_ms": 261596,
       "name": "PP1",
       "url": "https://open.spotify.com/track/1lZUpqag6NEbHJqOEVKsAz"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87466,
+      "name": "QKThr",
+      "url": "https://open.spotify.com/track/7vuYfz0siJY66fLEiDKnEh"
     },
     {
       "album": {
@@ -1139,7 +1410,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 214588,
       "name": "retire (final)",
       "url": "https://open.spotify.com/track/3xO7yLHU8cTglvxXHFdrSc"
@@ -1183,6 +1454,46 @@
       "duration_ms": 119990,
       "name": "Six Forty Seven",
       "url": "https://open.spotify.com/track/2WuK1opHQzRo18YXCtY2DF"
+    },
+    {
+      "album": {
+        "name": "slow motion",
+        "url": "https://open.spotify.com/album/0aVyHAajV6nmFMgCirST5g"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327428,
+      "name": "slow motion",
+      "url": "https://open.spotify.com/track/7tcf3SrKUt9S9jxBgvEsMd"
+    },
+    {
+      "album": {
+        "name": "snowfall",
+        "url": "https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124065,
+      "name": "snowfall",
+      "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
     },
     {
       "album": {
@@ -1233,10 +1544,46 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 202965,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3IRsovEHKu0ZgufFhbPLbu"
+    },
+    {
+      "album": {
+        "name": "Be the One You Love",
+        "url": "https://open.spotify.com/album/4vnVALee891bV599C0I6rI"
+      },
+      "artists": [
+        {
+          "name": "Sitcom",
+          "url": "https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202965,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/69PcaJEZMB3cCfCeRSibj2"
+    },
+    {
+      "album": {
+        "name": "Replica",
+        "url": "https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq"
     },
     {
       "album": {
@@ -1273,6 +1620,24 @@
       "duration_ms": 89640,
       "name": "The descent",
       "url": "https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV"
+    },
+    {
+      "album": {
+        "name": "The Lobotomy",
+        "url": "https://open.spotify.com/album/3U9MYZmNOkSsfgz4OKxHOZ"
+      },
+      "artists": [
+        {
+          "name": "Maebi",
+          "url": "https://open.spotify.com/artist/6tVxgFV9M1sqlTWUnQOhlu"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67500,
+      "name": "The Lobotomy",
+      "url": "https://open.spotify.com/track/6U15XUlSWG6RGx4OhAHKHf"
     },
     {
       "album": {
@@ -1443,7 +1808,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 165253,
       "name": "You'll Never Know",
       "url": "https://open.spotify.com/track/7kQkgdg6nDVEzeJptMVbGT"
@@ -1479,7 +1844,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 182181,
       "name": "\u200e\u200e\u200e",
       "url": "https://open.spotify.com/track/2xGX9859UkwGWqLf9FqF69"
@@ -1533,7 +1898,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 62263,
       "name": "\u30d0\u30e9\u30c3\u30af\u96c6\u843d",
       "url": "https://open.spotify.com/track/36cHqq0lwA1u1KWxPI8nol"

@@ -4,7 +4,7 @@
 
 > Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв.
 
-166 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/6Ue29HB0gI4bMizHZxTapf)
+169 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Chase](https://open.spotify.com/track/6BsKEHEM030NplaMi3kzvs) | [Cartridge 1987](https://open.spotify.com/artist/359GzoMEPYlm349fhv6YHo) | [Last Escape](https://open.spotify.com/album/11TckwddbOYHGhcqy9CF6F) | 5:49 | 2021-10-03 |  |
 | [Cities I'll Never See](https://open.spotify.com/track/4e3RPUOscdBHqk3oz9stLz) | [PatternShift](https://open.spotify.com/artist/6MNFOvQOGj0BYmHJa6tVIV) | [Fragments of the Fleet](https://open.spotify.com/album/0SbzudPYfwplzYQ0rkX7El) | 3:36 | 2020-10-20\* | 2020-12-22 |
 | [City Nights](https://open.spotify.com/track/3fdvyC0ndLpg8pNaeiYEH8) | [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER), [FATHERDUDE](https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z) | [City Nights](https://open.spotify.com/album/0xKd3RMuZvgxoZ8bSinDUV) | 3:48 | 2021-04-08 | 2021-05-23 |
+| [Classique](https://open.spotify.com/track/767a2JIsUhYYxrDLSWAs5e) | [Adieu Aru](https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3) | [Classique](https://open.spotify.com/album/4Uj6HHrgN4YRNIq5R2fZTM) | 3:52 | 2023-01-10 |  |
 | [Code Veronica](https://open.spotify.com/track/4s1WeTMHNFlXNDl8FFXL7j) | [LukHash](https://open.spotify.com/artist/3hvgLXeDFNiqDOVXl0xTge) | [We Are Stardust](https://open.spotify.com/album/44VSxIyuf81epxtp59WTNT) | 3:56 | 2021-12-20 | 2022-04-07 |
 | [Complete Meltdown](https://open.spotify.com/track/79YWAIRoguzVO8oaAQHqEj) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Dark Nation](https://open.spotify.com/album/4nMPwVZCbanG2cMNJX6sHl) | 5:52 | 2020-11-24 | 2020-12-22 |
 | [Conflict](https://open.spotify.com/track/4rk94uEZLJftdhnjp4Hwsx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Revenger](https://open.spotify.com/album/6z5absG3SjLYPN8AhVcO0e) | 3:07 | 2021-01-25 |  |
@@ -56,6 +57,7 @@
 | [Dream](https://open.spotify.com/track/510nIoUssfjQlGx6NEah8U) | [Advakit](https://open.spotify.com/artist/7gzzt6L2XRIxnJsIL0Ytve) | [Dream](https://open.spotify.com/album/1Vhq66iVnIcc9Z9oKrkf93) | 3:52 | 2021-08-26 | 2021-12-20 |
 | [Drift](https://open.spotify.com/track/5FqMFN6enobvl6ojiTt98J) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Drift](https://open.spotify.com/album/6KqNzVNnKYzhkHYVnFxirn) | 5:07 | 2021-01-25 |  |
 | [Drive\-by Stalking](https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Drive\-by Stalking](https://open.spotify.com/album/2uM7nC8LLABOWiami4Ipw9) | 5:20 | 2021-10-03 |  |
+| [Droid Rage](https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48) | [OGRE Sound](https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj) | [195](https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC) | 1:51 | 2023-01-10 |  |
 | [Dust](https://open.spotify.com/track/5UFXAE1QXIGnmALcrQ4DgZ) | [M\|O\|O\|N](https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT) | [Particles](https://open.spotify.com/album/3RxVWDJQBliYc65AFr9IIq) | 5:02 | 2020-10-20\* |  |
 | [Dying Breath](https://open.spotify.com/track/1JgkJDPiMUsMmwqO0ZZl55) | [LukHash](https://open.spotify.com/artist/3hvgLXeDFNiqDOVXl0xTge), [Meredith Bull](https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or) | [Dying Breath](https://open.spotify.com/album/5mWICelgDtfwjOE3I4S1iy) | 4:30 | 2021-03-16 | 2021-04-26 |
 | [Echoes In Time](https://open.spotify.com/track/3GrvlmYvl4yO05W2XfL3Ww) | [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Echoes In Time](https://open.spotify.com/album/7thv8ii3dR0mmvLFcmvu77) | 5:13 | 2020-10-20\* |  |
@@ -84,6 +86,7 @@
 | [Interstellar](https://open.spotify.com/track/4qLR4gAxwV1ma8lLm9I3tR) | [Zombie Hyperdrive](https://open.spotify.com/artist/72naL8vQVNsx85zPLuTSWf) | [Hyperion](https://open.spotify.com/album/2LvJcBfcyB5HIQNzzao8Tf) | 4:08 | 2020-10-20\* |  |
 | [Intro](https://open.spotify.com/track/7tmQ688j3uYdcl9H4ZO3DW) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/2Nz9gdj35Unk1AbfL8Igmx) | 3:09 | 2020-10-20\* |  |
 | [Journey's End](https://open.spotify.com/track/0MCNg9SJL7HNBkAn6Irl5m) | [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1) | [Volume 1 \(Deluxe Edition\)](https://open.spotify.com/album/4XjKlJKFpaPrtcmcK75KND) | 4:26 | 2020-10-20\* |  |
+| [Kaboom](https://open.spotify.com/track/3r4fcy5ojAZkg3jc3dGOGy) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Christmas Kaboom](https://open.spotify.com/album/1P7zujclH7FPCTiKN6WuOF) | 3:06 | 2023-01-10 |  |
 | [La Mer Des Possibilités](https://open.spotify.com/track/4HDCMfoZfUzfeKJ2JYruJR) | [Le Matos](https://open.spotify.com/artist/5nrAu9uBcj8NcdZHo09qG9) | [Join Us](https://open.spotify.com/album/7MDFWbbFE27CuKen5DHAL3) | 5:58 | 2021-10-03 |  |
 | [Landing](https://open.spotify.com/track/2syhrmQS7JyyhqP8KCZGmA) | [Zane Oliver](https://open.spotify.com/artist/27guOan51Zu1GtK5k9Ip2A) | [New Wave EP](https://open.spotify.com/album/2J4n6JUSynpUOrIgOzM0if) | 3:29 | 2020-10-20\* |  |
 | [Landing On 51](https://open.spotify.com/track/7CI5MHtF2gY6gYml0jqrXe) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [The Electronic Magic of Tangerine Dream \- the Anthology](https://open.spotify.com/album/7JKzFpsGCnTDYJCzZDxA6o) | 7:57 | 2020-10-20\* |  |
@@ -152,8 +155,8 @@
 | [Super Reaction \- DRYVE Remix](https://open.spotify.com/track/2EEmxyQQq12E3RufHFy9o2) | [Peppermint Heaven](https://open.spotify.com/artist/5Z8dppr18ffRuESjxyQTXW), [DRYVE](https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER) | [Super Reaction \(DRYVE Remix\)](https://open.spotify.com/album/6wftsCONzyH3jZ4if4crqc) | 4:07 | 2021-04-26 | 2021-08-01 |
 | [Synthblade](https://open.spotify.com/track/1LwDEdrwezFTxHeuRBFRon) | [Cyberpunkers](https://open.spotify.com/artist/0VVOaCyLiCdkAdlC11W4eK) | [Synthblade](https://open.spotify.com/album/2QYEL37sRB9LO9ohUC5boJ) | 3:27 | 2020-10-20\* |  |
 | [Synthetic](https://open.spotify.com/track/0KlKYTupXUKaqAH8tQEp0m) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Gaming Music 2020](https://open.spotify.com/album/1eAThXscX1g21VKKD6FFLe) | 3:21 | 2020-10-20\* |  |
-| [Synthetic Soul](https://open.spotify.com/track/4OLcJ9rtBl6ORPmRRwUydC) | [Lazerpunk](https://open.spotify.com/artist/1xFCRE0T1SELBAaxtlG5X3), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [Synthetic Soul](https://open.spotify.com/album/5JX3DOtifiSx7Oy0WsgIaH) | 4:08 | 2022-04-06 |  |
-| [Takeoff](https://open.spotify.com/track/4smnlSoB45rmAGV2hDdY5g) | [Starcop](https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh) | [Galaxy](https://open.spotify.com/album/1IpJnmVSsimq6AWU7f3zyV) | 2:39 | 2021-08-01 |  |
+| [Synthetic Soul](https://open.spotify.com/track/4OLcJ9rtBl6ORPmRRwUydC) | [Lazerpunk](https://open.spotify.com/artist/1xFCRE0T1SELBAaxtlG5X3), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [Synthetic Soul](https://open.spotify.com/album/5JX3DOtifiSx7Oy0WsgIaH) | 4:08 | 2022-04-06 | 2023-01-11 |
+| [Takeoff](https://open.spotify.com/track/4smnlSoB45rmAGV2hDdY5g) | [Starcop](https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh) | [Galaxy](https://open.spotify.com/album/1IpJnmVSsimq6AWU7f3zyV) | 2:39 | 2021-08-01 | 2023-01-11 |
 | [Tech Noir](https://open.spotify.com/track/5VKEsChbUowEF2BT0gJSGX) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Charlie Simpson](https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9) | [GUNSHIP](https://open.spotify.com/album/03Rl4TjvJVdR2nBUupV7Wf) | 4:57 | 2020-10-20\* |  |
 | [Temple of Eternity](https://open.spotify.com/track/0rPjceGXpvTxoe2sy3eGiX) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Temple of Eternity](https://open.spotify.com/album/3MDuQ1x6xYgPrW0x70ifl2) | 3:03 | 2020-11-07 |  |
 | [The Cross](https://open.spotify.com/track/1crqEnkmbA7Rt3A1dA386e) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [88:88](https://open.spotify.com/album/2j4ro7dtXWPrSjjE7mdKqY) | 4:12 | 2021-05-23 |  |

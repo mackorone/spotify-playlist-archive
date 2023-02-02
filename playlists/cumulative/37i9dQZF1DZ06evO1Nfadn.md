@@ -4,7 +4,7 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/12cLMFUlwhG9QUaeXV6IET)
+77 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [El Toca Toca](https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [A Corazón Abierto](https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk) | 2:46 | 2022-06-01 |  |
 | [El Zancudito](https://open.spotify.com/track/1Y3HAmViyeZjPisxX8R4H8) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:44 | 2022-06-01 |  |
 | [Estare Contigo](https://open.spotify.com/track/6WIMzW10yHaUBVr262fcAH) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 3:52 | 2022-06-22 | 2022-10-08 |
+| [Evidencias](https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 3:36 | 2022-12-30 |  |
 | [Fallaste Corazón](https://open.spotify.com/track/7o0nQZWb5CJLUd6zOMGC7K) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 3:01 | 2022-08-02 | 2022-08-14 |
 | [Grítenme Piedras del Campo](https://open.spotify.com/track/0duYLzWicDpeFY1km3tSI2) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Coleccion](https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM) | 2:21 | 2022-06-01 | 2022-07-05 |
 | [Jacinto Pérez De La O](https://open.spotify.com/track/5ZltgKoPzE2AKQQq8EeG0q) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 3:06 | 2022-06-01 |  |
@@ -46,7 +47,7 @@
 | [La Mano de Dios](https://open.spotify.com/track/6DuEpEA8q3Qn7afD6ep5QA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:33 | 2022-06-25 |  |
 | [La Negra Tete](https://open.spotify.com/track/4DbREQlyfOX0p6PiymhkvW) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Serie 20 Exitos](https://open.spotify.com/album/0LqVH79uT6txB15PXmZLci) | 2:56 | 2022-06-02 | 2022-08-25 |
 | [La Prendita](https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lo Que Son las Cosas](https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi) | 3:06 | 2022-06-01 |  |
-| [La Que Se Fue](https://open.spotify.com/track/4xy7wejmM34LnfhLDIpanB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:19 | 2022-11-04 |  |
+| [La Que Se Fue](https://open.spotify.com/track/4xy7wejmM34LnfhLDIpanB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:19 | 2022-11-04 | 2023-01-29 |
 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 | 2022-06-03 |  |
 | [La Traicionera](https://open.spotify.com/track/1cHG4Z9p9qSwKVs8AetKAz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:15 | 2022-09-18 |  |
 | [Lagrimas de Sangre](https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:41 | 2022-06-11 |  |
@@ -82,7 +83,7 @@
 | [Tu Precio](https://open.spotify.com/track/1N7iPUvDor2HA8wOlS5LIB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:52 | 2022-06-05 |  |
 | [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/3U047sYv0nyixJuVA9JNOv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:30 | 2022-06-01 |  |
 | [Vamos a Bailar](https://open.spotify.com/track/4z1epl2x7FM0r7ImLr2Lq7) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:50 | 2022-06-01 |  |
-| [Y Andale](https://open.spotify.com/track/6ZrnySwVbRAQVIxWUbXjkk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:28 | 2022-11-11 | 2022-11-17 |
-| [Yo Le Bautizo el Chiquito](https://open.spotify.com/track/3D9tVDp399MoQvJD9g8F4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Soy Mexicano](https://open.spotify.com/album/6Mc8AQvP2LBKHZGX5ihwpa) | 3:10 | 2022-06-01 |  |
+| [Y Andale](https://open.spotify.com/track/6ZrnySwVbRAQVIxWUbXjkk) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:28 | 2022-11-11 |  |
+| [Yo Le Bautizo el Chiquito](https://open.spotify.com/track/3D9tVDp399MoQvJD9g8F4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Soy Mexicano](https://open.spotify.com/album/6Mc8AQvP2LBKHZGX5ihwpa) | 3:10 | 2022-06-01 | 2022-12-21 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

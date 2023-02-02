@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-01",
   "description": "Best blends of Electronic music Across East Africa",
   "name": "Oontz",
-  "published_playlist_ids": [
-    "450gAMxXNrHrJlyvpSxLfT"
-  ],
   "tracks": [
     {
       "album": {
@@ -49,7 +46,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 408568,
       "name": "AmaWoodblock",
       "url": "https://open.spotify.com/track/4a0Fs2VJZczKlqe7chCDr7"
@@ -121,7 +118,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 112566,
       "name": "Body Goals",
       "url": "https://open.spotify.com/track/7pBahgD8wtjGZlM2Rvrs9F"
@@ -151,6 +148,76 @@
       "duration_ms": 381600,
       "name": "Changilo - Tayllor Remix",
       "url": "https://open.spotify.com/track/281TWPHivsxPPg1nL4HTn5"
+    },
+    {
+      "album": {
+        "name": "Chills",
+        "url": "https://open.spotify.com/album/7sae1ej4tsPEHBBj80JWEh"
+      },
+      "artists": [
+        {
+          "name": "Tokyonite",
+          "url": "https://open.spotify.com/artist/5WttUzDUxd2UC83jyglcBb"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Chills",
+      "url": "https://open.spotify.com/track/2AYPYrXvtLkOzElD28svfr"
+    },
+    {
+      "album": {
+        "name": "Chuki",
+        "url": "https://open.spotify.com/album/5IzLQJEynAMDV6DGfzfkr6"
+      },
+      "artists": [
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "TekniQ",
+          "url": "https://open.spotify.com/artist/2bStEVhFVPtYOzOxP58xeq"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386870,
+      "name": "Chuki",
+      "url": "https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp"
+    },
+    {
+      "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/5Bbumee8E2JyV57k17861e"
+      },
+      "artists": [
+        {
+          "name": "Anigmus",
+          "url": "https://open.spotify.com/artist/3SGoaGg7W9nMfX8bUc32rG"
+        },
+        {
+          "name": "Magic Music Record",
+          "url": "https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG"
+        },
+        {
+          "name": "Deaf Kev",
+          "url": "https://open.spotify.com/artist/0ZJ6To8MLb62N3dA9udHX4"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Crystal Castles",
+      "url": "https://open.spotify.com/track/03ECbB4w8kzV5AuQZIAcQk"
     },
     {
       "album": {
@@ -203,6 +270,28 @@
       "duration_ms": 227973,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4ubZszrzbW32EIfQlfwBgW"
+    },
+    {
+      "album": {
+        "name": "Heart & Home",
+        "url": "https://open.spotify.com/album/3TqLZFi5ebWxFiT4l0ralM"
+      },
+      "artists": [
+        {
+          "name": "Lauwz",
+          "url": "https://open.spotify.com/artist/3Ve5wOwJP6ERWAukCZXbKb"
+        },
+        {
+          "name": "Bapti",
+          "url": "https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Heart & Home",
+      "url": "https://open.spotify.com/track/2CCeJrNHjfCPPbAgbxfZeG"
     },
     {
       "album": {
@@ -319,7 +408,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 398745,
       "name": "Jaber - Ed-Ward Remix",
       "url": "https://open.spotify.com/track/1NkrKRit8SntjduFYM3Xgp"
@@ -345,7 +434,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 330491,
       "name": "Jama",
       "url": "https://open.spotify.com/track/4p1ypYoh4DugiJjBBJhnym"
@@ -517,7 +606,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 272030,
       "name": "Lwandle",
       "url": "https://open.spotify.com/track/28Wq5lknJHU4p4vlKOyXKX"
@@ -557,7 +646,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 214184,
       "name": "MaMirenza",
       "url": "https://open.spotify.com/track/7j2hOS24pyOMXdeOEX26TA"
@@ -601,10 +690,32 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 348750,
       "name": "Meremeta - Original Mix",
       "url": "https://open.spotify.com/track/1RtNC1Fzwk82d0agNBbxu5"
+    },
+    {
+      "album": {
+        "name": "Mezdeke",
+        "url": "https://open.spotify.com/album/0KNgzeBHr2gBFJTJGiwjNv"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1kayan",
+          "url": "https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464000,
+      "name": "Mezdeke",
+      "url": "https://open.spotify.com/track/4bo8D47IbBsbG3UQ0wSO7t"
     },
     {
       "album": {
@@ -906,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Pray To God",
+        "url": "https://open.spotify.com/album/62ie0Jhk5Q652kHONqxEcN"
+      },
+      "artists": [
+        {
+          "name": "JOSHUA LAZER",
+          "url": "https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182867,
+      "name": "Pray To God",
+      "url": "https://open.spotify.com/track/0FyxV8ikLg4L824IbC9U1a"
+    },
+    {
+      "album": {
         "name": "OLD IS THE NEW RETRO!",
         "url": "https://open.spotify.com/album/0oF3mVLCLUv85hPhXpi5Uj"
       },
@@ -1189,7 +1318,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 215593,
       "name": "Thikii",
       "url": "https://open.spotify.com/track/5bjSIkDCPuJY10GDdh2uJT"
@@ -1207,7 +1336,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 170358,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/0OZO70ieDFWmwejTbWaI3s"
@@ -1281,10 +1410,58 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 330622,
       "name": "Uka\u00e1",
       "url": "https://open.spotify.com/track/3bpXqUTAXGFQkB7SNRGREn"
+    },
+    {
+      "album": {
+        "name": "The 4th Republic",
+        "url": "https://open.spotify.com/album/2XDjGP9eHn0YjnzS6AG19k"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332419,
+      "name": "Umenitosha",
+      "url": "https://open.spotify.com/track/7t1y3tsgDKQnIGp7jw10Po"
+    },
+    {
+      "album": {
+        "name": "UNASIFU",
+        "url": "https://open.spotify.com/album/3ZrrjXGlUHRRW8ZiMfjQWd"
+      },
+      "artists": [
+        {
+          "name": "Enzo Siffredi",
+          "url": "https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ"
+        },
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "BAQABO",
+          "url": "https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179062,
+      "name": "UNASIFU",
+      "url": "https://open.spotify.com/track/5LupM0umG4xt2FcuarfR4q"
     },
     {
       "album": {

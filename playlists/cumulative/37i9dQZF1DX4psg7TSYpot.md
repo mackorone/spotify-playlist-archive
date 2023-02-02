@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-124 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/0mrd15aLOKr95KM1j8m6jV)
+126 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Nutshell](https://open.spotify.com/track/4ElGaXU3jJJI5HtRpli5Tv) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Nutshell](https://open.spotify.com/album/0GZduTtg1Dj4BRGTHzYlMS) | 3:05 | 2022-03-10 |  |
 | [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 | 2022-03-10 |  |
 | [One](https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D) | [Castle Theater](https://open.spotify.com/artist/66DA1SaRhtBFQo4dQ8eF3e) | [One](https://open.spotify.com/album/0bSKEEtgOoaruEJ6NKvkCk) | 3:03 | 2022-03-10 |  |
-| [Paradise \- Acoustic](https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ) | 2:33 | 2022-03-10 |  |
+| [Paradise \- Acoustic](https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/1Ad968gPukAt86YXpyEWIy) | 2:33 | 2022-09-30 |  |
+| [Paradise \- Acoustic](https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ) | 2:33 | 2022-03-10 | 2022-12-25 |
 | [Plowed](https://open.spotify.com/track/3F3fUJdadTQEqO81ZWF5ZK) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Plowed](https://open.spotify.com/album/6dXn2EYiw4kD1PFwpgdLoM) | 3:18 | 2022-03-10 | 2022-08-03 |
 | [Pretty Paper](https://open.spotify.com/track/4Uo9MMLohVxRyD4VPSDdDq) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Pretty Paper](https://open.spotify.com/album/1gPXN9FQn2BD4DLq0UyQwn) | 2:43 | 2022-03-10 |  |
 | [Ridin' Solo](https://open.spotify.com/track/6VtXVWUzeJ4BtW08ppm9CH) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Ridin' Solo](https://open.spotify.com/album/7w5z58RtTGZn5JRUMlV0Tk) | 4:07 | 2022-03-10 |  |
@@ -110,7 +111,8 @@
 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 | 2022-03-10 | 2022-06-04 |
 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 | 2022-03-10 | 2022-07-29 |
 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 | 2022-07-26 | 2022-08-27 |
-| [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 | 2022-03-10 |  |
+| [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 | 2022-03-10 | 2022-12-25 |
+| [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/2y4KKdn0UQPCIh0wbBYfgR) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic EP](https://open.spotify.com/album/2hqtH9rg9G0BsaymBNA8Bp) | 2:46 | 2022-09-30 |  |
 | [Someone You Loved](https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:25 | 2022-03-10 |  |
 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 | 2022-03-10 |  |
 | [Stay](https://open.spotify.com/track/3FDkUi2PPTBNGZRVyS19Gi) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Stay](https://open.spotify.com/album/1B6OjPf4sMsav2FSysIvJT) | 3:29 | 2022-03-10 |  |

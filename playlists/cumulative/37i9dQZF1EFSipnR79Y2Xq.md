@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-24 songs - 1 hr 10 min - [published](https://open.spotify.com/playlist/5pm8NcLKBdOH1KLR9vtiVS)
+25 songs - 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Esto Es Así](https://open.spotify.com/track/4t9EQ2mAXzPZLpMPwDAGIM) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Esto Es Así](https://open.spotify.com/album/32ZX00cqoOq3l8c2iwZ88x) | 2:56 | 2022-10-11 |  |
 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 | 2022-09-16 |  |
 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 | 2022-09-16 |  |
+| [Otra](https://open.spotify.com/track/50bGZzlFcee3MEmacYBw3e) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 3:12 | 2022-11-27 |  |
 | [Por Ejemplo \- Versión Banda](https://open.spotify.com/track/53PxyMdMIFOG4VhuA1N1bC) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Por Ejemplo](https://open.spotify.com/album/2hPh0n7Rf4pk5lrgsiTLCM) | 3:02 | 2022-09-16 |  |
 | [Porque Sigo Vivo](https://open.spotify.com/track/1sWJERxemKdTKXVGL4zFrJ) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Porque Sigo Vivo](https://open.spotify.com/album/75AAhtE3Tff60VDqsQ8hOf) | 3:04 | 2022-09-16 |  |
 | [Primero Tu](https://open.spotify.com/track/1Ia0J3DtOitPrvYVnjT4Ob) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [XVII ANIVERSARIO](https://open.spotify.com/album/4cnDNI7pytSivupozFsMi7) | 3:06 | 2022-11-18 |  |

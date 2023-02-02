@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
   "name": "This Is Anti-Flag",
-  "published_playlist_ids": [
-    "3ntLLbFu4xW2KbCpfe6IH1"
-  ],
   "tracks": [
     {
       "album": {
@@ -237,7 +234,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 154906,
       "name": "Casualty",
       "url": "https://open.spotify.com/track/2WfHDSeiNLw0sJQZxM7t1o"
@@ -435,7 +432,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 157066,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/5fmVa9gzihaJtD5pKeEzH3"
@@ -478,6 +475,28 @@
     },
     {
       "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Ashrita Kumar",
+          "url": "https://open.spotify.com/artist/7DSIiUGpsOMhqcyee4UGua"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "IMPERIALISM (feat. Ashrita Kumar of Pinkshift)",
+      "url": "https://open.spotify.com/track/6IE0899wRbZrrGX5NUE4Qj"
+    },
+    {
+      "album": {
         "name": "IMPERIALISM (feat. Ashrita Kumar of Pinkshift)",
         "url": "https://open.spotify.com/album/5qGVr4SEf2QP6eEed7C3C5"
       },
@@ -493,7 +512,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 176666,
       "name": "IMPERIALISM (feat. Ashrita Kumar of Pinkshift)",
       "url": "https://open.spotify.com/track/7M0dXjcXs8JgdMSkHtoLZi"
@@ -536,6 +555,28 @@
     },
     {
       "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Shane Told",
+          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/1XudAZqvPQUyPa8OLkkpgC"
+    },
+    {
+      "album": {
         "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
         "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
       },
@@ -551,7 +592,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 184653,
       "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
       "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
@@ -576,6 +617,28 @@
     },
     {
       "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Jesse Leach",
+          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
+      "url": "https://open.spotify.com/track/1yuQcwJsaaUZHoZq8KeK9a"
+    },
+    {
+      "album": {
         "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
         "url": "https://open.spotify.com/album/16zuCh6AvPoS058XshhseX"
       },
@@ -591,7 +654,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 216000,
       "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
       "url": "https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED"
@@ -631,10 +694,28 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 280346,
       "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
       "url": "https://open.spotify.com/track/5i0eynynsGbrYn3i9MP7LV"
+    },
+    {
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 165800,
+      "name": "ONLY IN MY HEAD",
+      "url": "https://open.spotify.com/track/6U5w3f9d7VfLIBWazU9dw1"
     },
     {
       "album": {
@@ -692,6 +773,28 @@
     },
     {
       "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 150973,
+      "name": "SHALLOW GRAVES (feat. Tr\u00e9 Burt)",
+      "url": "https://open.spotify.com/track/73cjHHahioDVocCvdDcre2"
+    },
+    {
+      "album": {
         "name": "Complete Control Sessions",
         "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
       },
@@ -739,10 +842,46 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 254133,
       "name": "Sky Is Falling",
       "url": "https://open.spotify.com/track/3tC1mUUoPAuerNvMB0t07T"
+    },
+    {
+      "album": {
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
+      "url": "https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv"
+    },
+    {
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90666,
+      "name": "SOLD EVERYTHING",
+      "url": "https://open.spotify.com/track/1Hdt94rsAHp0pugYJpuFd0"
     },
     {
       "album": {
@@ -865,10 +1004,36 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 216093,
       "name": "The Economy is Suffering...Let It Die",
       "url": "https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr"
+    },
+    {
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Tim McIlrath",
+          "url": "https://open.spotify.com/artist/1ha9OccsctLTOMCFWTpC9Z"
+        },
+        {
+          "name": "Brian Baker",
+          "url": "https://open.spotify.com/artist/6iIkHyTPwf0OrLGibZxT8Q"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172746,
+      "name": "THE FIGHT OF OUR LIVES (feat. Tim McIlrath of Rise Against & Brian Baker of Bad Religion)",
+      "url": "https://open.spotify.com/track/06IK0mpgRyTaWUiuiJF5LN"
     },
     {
       "album": {
@@ -891,10 +1056,46 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 172746,
       "name": "THE FIGHT OF OUR LIVES (feat. Tim McIlrath of Rise Against & Brian Baker of Bad Religion)",
       "url": "https://open.spotify.com/track/1TZDfrtzmN70FKKeCcrwxT"
+    },
+    {
+      "album": {
+        "name": "American Spring",
+        "url": "https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88213,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/5VdF9Q0KRG2BkHKUv4OZUq"
+    },
+    {
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "THE HAZARDOUS",
+      "url": "https://open.spotify.com/track/0BgGgwBhHx7j7IiqShMCj8"
     },
     {
       "album": {
@@ -934,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165767,
+      "name": "This Is the New Sound",
+      "url": "https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M"
+    },
+    {
+      "album": {
         "name": "Underground Network",
         "url": "https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg"
       },
@@ -963,7 +1182,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 169746,
       "name": "Throw It Away",
       "url": "https://open.spotify.com/track/5G9WBRnU2CVOfRtykUk8XQ"
@@ -1039,10 +1258,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 243866,
       "name": "Underground Network",
       "url": "https://open.spotify.com/track/3PcbU6v5Fw118EKLEvWNEu"
+    },
+    {
+      "album": {
+        "name": "VICTORY OR DEATH (WE GAVE \u2018EM HELL) (feat. Campino of Die Toten Hosen)",
+        "url": "https://open.spotify.com/album/1g9OgCVZgWNVmQfHoSJ72Q"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Campino",
+          "url": "https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211973,
+      "name": "VICTORY OR DEATH (WE GAVE \u2018EM HELL) (feat. Campino of Die Toten Hosen)",
+      "url": "https://open.spotify.com/track/4P5rqjqcNmCkD5ipTUhhFS"
     },
     {
       "album": {
@@ -1057,7 +1298,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 137973,
       "name": "War Sucks, Let's Party!",
       "url": "https://open.spotify.com/track/1Pf0Aq9h9F09S83nulvM16"
@@ -1097,6 +1338,24 @@
       "duration_ms": 159477,
       "name": "Whistleblower",
       "url": "https://open.spotify.com/track/38XwnC082qy2o9K437Wgbo"
+    },
+    {
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 142040,
+      "name": "WORK & STRUGGLE",
+      "url": "https://open.spotify.com/track/3zF9b1R7lCz98gqbbUCKlZ"
     },
     {
       "album": {

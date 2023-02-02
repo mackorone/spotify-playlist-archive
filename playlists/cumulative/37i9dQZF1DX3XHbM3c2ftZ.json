@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Celebrate Dad with these songs for the whole family.",
   "name": "World's Best Dad",
-  "published_playlist_ids": [
-    "6tl6Ybu4TpCwX9cllSPtj0"
-  ],
   "tracks": [
     {
       "album": {
@@ -251,7 +248,7 @@
     {
       "album": {
         "name": "Skinnamarink TV",
-        "url": "https://open.spotify.com/album/2Mwc6S6uZkjBCFhACiADZL"
+        "url": "https://open.spotify.com/album/1OXxSbuew9543P2pnKaexV"
       },
       "artists": [
         {
@@ -262,6 +259,24 @@
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 124026,
+      "name": "Daddy's Whiskers",
+      "url": "https://open.spotify.com/track/3vGsiPyWnx4SvnRtMY2qUR"
+    },
+    {
+      "album": {
+        "name": "Skinnamarink TV",
+        "url": "https://open.spotify.com/album/2Mwc6S6uZkjBCFhACiADZL"
+      },
+      "artists": [
+        {
+          "name": "Sharon, Lois & Bram",
+          "url": "https://open.spotify.com/artist/0SPvCvZvk7XDx8tGtGQhiE"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
       "duration_ms": 124026,
       "name": "Daddy's Whiskers",
       "url": "https://open.spotify.com/track/5B7vbfnVqNX1zkcy0uqasM"

@@ -4,7 +4,7 @@
 
 > 50 outstanding pieces from the repertoire of <a href="https://en.wikipedia.org/wiki/Concert\_band">concert band</a> \(also called wind ensemble, symphonic band or wind symphony\)\. From cornerstone works by Dvořák, Stravinsky, Grainger to new classics by John Corigliano, David Maslanka, Eric Whitacre, and many more\. Also follow: <a href="spotify:user:spotify:playlist:73OZGA9KbKCzhNe7FcCp17">brass band playlist</a>.
 
-50 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/5nVbCcudyOZFYZmNkRxuDa)
+50 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

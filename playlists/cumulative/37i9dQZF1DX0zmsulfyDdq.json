@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.",
   "name": "Disney Lullaby",
-  "published_playlist_ids": [
-    "5JyRbd7E5Uxc95UIUxdfrc"
-  ],
   "tracks": [
     {
       "album": {
@@ -344,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Strings: Classics",
+        "url": "https://open.spotify.com/album/5lUEkLzLPl4CBvZeZWSxb2"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125781,
+      "name": "Baby Mine",
+      "url": "https://open.spotify.com/track/1ToMbKFFrzMqVIfa6g1Es1"
+    },
+    {
+      "album": {
         "name": "Disney Lullaby Album",
         "url": "https://open.spotify.com/album/3UvlJDMb3sEH8lUk83598i"
       },
@@ -581,6 +596,46 @@
       "duration_ms": 228516,
       "name": "Can You Feel the Love Tonight",
       "url": "https://open.spotify.com/track/2v2jnqIRqN9aCh6ZDTLpqC"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Calm",
+        "url": "https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199860,
+      "name": "Can You Feel the Love Tonight",
+      "url": "https://open.spotify.com/track/3rKHQbK0pKqy0KUjamgHBc"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Strings: Romance",
+        "url": "https://open.spotify.com/album/7F5EjPVGXRXdipfy927cLi"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 169252,
+      "name": "Can You Feel the Love Tonight",
+      "url": "https://open.spotify.com/track/2rW82UtqYE11MY9DBRU3Wz"
     },
     {
       "album": {
@@ -1186,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Strings: Relax",
+        "url": "https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160522,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/7hPHAXzlM5omRCBpeai7no"
+    },
+    {
+      "album": {
         "name": "Disney Orgel/Oyasumi BGM",
         "url": "https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9"
       },
@@ -1572,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Frozen: The Broadway Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2rCCUNn3PUaTsKRAKBIzh4"
+      },
+      "artists": [
+        {
+          "name": "Jelani Alladin",
+          "url": "https://open.spotify.com/artist/4xKyZx66xlcBGoRBhgEXxB"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103213,
+      "name": "Kristoff Lullaby - From \"Frozen: The Broadway Musical\"",
+      "url": "https://open.spotify.com/track/63s0bzZKeVPQkUgWO6la66"
+    },
+    {
+      "album": {
         "name": "Lady and The Tramp and Friends",
         "url": "https://open.spotify.com/album/5nmEqzKRjL3WyA5X7Zppdc"
       },
@@ -1948,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Strings: Romance",
+        "url": "https://open.spotify.com/album/7F5EjPVGXRXdipfy927cLi"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 240949,
+      "name": "Married Life",
+      "url": "https://open.spotify.com/track/5ceWoFaoqzbPrejKbNyRM5"
+    },
+    {
+      "album": {
         "name": "Hercules (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq"
       },
@@ -2218,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Strings: Romance",
+        "url": "https://open.spotify.com/album/7F5EjPVGXRXdipfy927cLi"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 177476,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/0DpenaOtMhXNrBGI3BpIaN"
+    },
+    {
+      "album": {
         "name": "Disney Peaceful Piano: Balance",
         "url": "https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW"
       },
@@ -2295,6 +2422,24 @@
       "duration_ms": 246548,
       "name": "Rainbow Connection",
       "url": "https://open.spotify.com/track/4PLVaLz8Fjbsr56w2xzEYH"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Strings: Classics",
+        "url": "https://open.spotify.com/album/5lUEkLzLPl4CBvZeZWSxb2"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191499,
+      "name": "Rainbow Connection",
+      "url": "https://open.spotify.com/track/610p0uyxEu4qzVVJ853otP"
     },
     {
       "album": {
@@ -2445,6 +2590,32 @@
       "duration_ms": 132545,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/1TJXLo7oTvo9whIY77tfXB"
+    },
+    {
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Gael Garcia Bernal",
+          "url": "https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p"
+        },
+        {
+          "name": "Gabriella Flores",
+          "url": "https://open.spotify.com/artist/0IFKI1ya1XM9LGVktNS2cS"
+        },
+        {
+          "name": "Libertad Garc\u00eda Fonzi",
+          "url": "https://open.spotify.com/artist/1jQ4JIz6HwngSsLWnzgPxA"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69813,
+      "name": "Remember Me (Lullaby)",
+      "url": "https://open.spotify.com/track/2cFGv8v5DcbJXHEdzouFne"
     },
     {
       "album": {
@@ -2857,7 +3028,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 192469,
       "name": "The Family Madrigal",
       "url": "https://open.spotify.com/track/1gstHbv6e2ECve1q1DoX3a"
@@ -3232,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161813,
+      "name": "Waiting On A Miracle - Instrumental",
+      "url": "https://open.spotify.com/track/59Oxnmf5QDvKmUlgeC7j8S"
+    },
+    {
+      "album": {
         "name": "Disney Guitar: Joy",
         "url": "https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW"
       },
@@ -3466,6 +3655,24 @@
     },
     {
       "album": {
+        "name": "Pinocchio (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117693,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
+    },
+    {
+      "album": {
         "name": "Disney Guitar: Dream",
         "url": "https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C"
       },
@@ -3529,6 +3736,28 @@
       "duration_ms": 223367,
       "name": "Wherever the Trail May Lead",
       "url": "https://open.spotify.com/track/5uMtYRyqukpjLh24dKWoHP"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174882,
+      "name": "Winnie the Pooh",
+      "url": "https://open.spotify.com/track/7gKHQy915DlMWd1xuF11BO"
     },
     {
       "album": {
@@ -3657,6 +3886,28 @@
       "duration_ms": 247801,
       "name": "You'll Be in My Heart",
       "url": "https://open.spotify.com/track/5UewWG58QFgJXV36lH6kY8"
+    },
+    {
+      "album": {
+        "name": "Lofi Minnie: Chill",
+        "url": "https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kaale",
+          "url": "https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL"
+        },
+        {
+          "name": "Disney Lofi",
+          "url": "https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288705,
+      "name": "You'll Be In My Heart",
+      "url": "https://open.spotify.com/track/3XXemjIqQleJMVtae2Vsb6"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "New makes old. Cover: Sierra Ferrell",
   "name": "Vintage Vibes",
-  "published_playlist_ids": [
-    "4Q5EZJbUbCT3HpL6GxMjPC"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 274333,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L"
@@ -768,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Ramblin' Soul",
+        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 253080,
+      "name": "From What I Recall",
+      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
+    },
+    {
+      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
       },
@@ -869,7 +884,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-30",
       "duration_ms": 185216,
       "name": "Goodbye San Antonio, Hello Amsterdam",
       "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
@@ -2005,7 +2020,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-16",
       "duration_ms": 235677,
       "name": "Make Way for Love",
       "url": "https://open.spotify.com/track/7HPewHhdWfo1EtLp6C8PYJ"
@@ -2257,7 +2272,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 186626,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/0mSZBCx1e6hfk4AxsiCT9T"
@@ -2859,7 +2874,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
@@ -3021,7 +3036,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 163906,
       "name": "That's How I Feel",
       "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"

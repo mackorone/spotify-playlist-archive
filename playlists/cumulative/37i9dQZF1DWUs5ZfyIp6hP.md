@@ -4,7 +4,7 @@
 
 > Light of your 4th with these family\-friendly tunes.
 
-72 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/11OpCHhH8MTANOGktvaIzu)
+73 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Fireworks Song](https://open.spotify.com/track/0aBKDOyeSUpLAITMp7oD6Q) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing Vol\. 2](https://open.spotify.com/album/6rvdxo8ELO613Vwh4g7VI5) | 1:02 | 2021-06-22 | 2022-10-14 |
 | [Fireworks Song](https://open.spotify.com/track/1JLbYbuSoUUu8S6O3lQWC5) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing Vol\. 2](https://open.spotify.com/album/55xej9hDGebVfzefdo53Y3) | 1:02 | 2022-06-28 | 2022-11-24 |
 | [Fireworks Song](https://open.spotify.com/track/1j0Chd2a3LyrJ2NGBc1Ubn) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing Vol\. 2](https://open.spotify.com/album/1Tmjp6UzYvGNaQCXR1uOxR) | 1:02 | 2022-06-28 |  |
-| [Fireworks!](https://open.spotify.com/track/6FvzTqHZHbW2Rr8DE81OE2) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Gustafer Yellowgold's Year in the Day](https://open.spotify.com/album/3dH8eSwObAiv9csvShIC7Z) | 3:00 | 2021-06-22 |  |
+| [Fireworks!](https://open.spotify.com/track/6FvzTqHZHbW2Rr8DE81OE2) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Gustafer Yellowgold's Year in the Day](https://open.spotify.com/album/3dH8eSwObAiv9csvShIC7Z) | 3:00 | 2021-06-22 | 2022-12-08 |
+| [Fireworks!](https://open.spotify.com/track/5hYMDmMqBC9iUE1OudUfFB) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Year In The Day](https://open.spotify.com/album/5XFROmgGL1GQrZ0ivAPaYe) | 3:00 | 2022-06-28 |  |
 | [Fireworks!](https://open.spotify.com/track/2mwoW56fl8WR1x6JmcqW1a) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Favorite American Patriotic Songs for Kids](https://open.spotify.com/album/5gJ8ypDYryTPd9UG1pJFgd) | 1:03 | 2021-06-22 |  |
 | [Fourth of July \- 2015 Version](https://open.spotify.com/track/4y4thwlaN6YcT3vOvOslDI) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Favorite American Patriotic Songs for Kids](https://open.spotify.com/album/5gJ8ypDYryTPd9UG1pJFgd) | 1:15 | 2021-06-22 |  |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/5H1ur8DKF9iTilrVlEdo0w) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NOW That's What I Call Music!, Vol\. 60 \(Deluxe Edition\)](https://open.spotify.com/album/74BVAeJgcJjomcDq9HKii7) | 3:50 | 2022-06-28 | 2022-11-13 |

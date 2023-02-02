@@ -4,7 +4,7 @@
 
 > Top of the top K\-Pop artists this year! Cover: BLACKPINK
 
-65 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/4h4fci6lHwU5hzbKKm3nOD)
+65 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

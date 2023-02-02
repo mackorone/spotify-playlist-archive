@@ -4,7 +4,7 @@
 
 > Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
 
-42 songs - 2 hr 14 min - not published yet
+43 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [幕末の亡霊](https://open.spotify.com/track/44PSvZ6X3IS4reRgqhHJ37) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:25 | 2022-10-04 |  |
 | [新月の夜に](https://open.spotify.com/track/6uyKHr77uBJnOeNJZELpzy) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 3:32 | 2022-10-04 |  |
 | [旅の幕開け](https://open.spotify.com/track/2TJEk9uBkJQHN81OuRPaiK) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 3:43 | 2022-10-04 |  |
+| [時計台の鐘](https://open.spotify.com/track/4fJC5DUwH9xy8ofjFPXuUJ) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [時計台の鐘](https://open.spotify.com/album/3NjtYF9lvn0lR5JTP9CcfU) | 4:13 | 2023-01-17 |  |
 | [樺太へ](https://open.spotify.com/track/6RnOeDXEDBypAJLU9X1Agk) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:41 | 2022-10-04 |  |
 | [殺しの匂い](https://open.spotify.com/track/43sqLLmiiulez3cMoNZrY2) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:21 | 2022-10-04 |  |
 | [無い物ねだり](https://open.spotify.com/track/06HDuFiRR1FerMuhqKR56U) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 3:37 | 2022-10-04 |  |

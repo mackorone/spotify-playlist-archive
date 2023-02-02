@@ -4,7 +4,7 @@
 
 > The late, great Elliott Smith\. RIP
 
-22 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/0Crrix9Kk1sbN0odqbwlEh)
+22 songs - 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

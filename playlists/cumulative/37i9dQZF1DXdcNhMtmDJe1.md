@@ -4,7 +4,7 @@
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-68 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/3UGzpnEvt2afgerLwrpJUf)
+68 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

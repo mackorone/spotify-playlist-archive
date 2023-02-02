@@ -4,14 +4,14 @@
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/71Zv4rCSRmVJyeYVBZibaN)
+58 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Broadcast](https://open.spotify.com/track/0XKPSoioAF6jB3nFFNwWMs) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:01 | 2022-09-24 | 2022-09-26 |
 | [A Forecast](https://open.spotify.com/track/3YJjOAN5gE1CW03WjHROpQ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:38 | 2022-09-22 | 2022-09-25 |
 | [Adieux](https://open.spotify.com/track/5w1kK7BBfB9BPL0kM4MiGu) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:25 | 2022-09-21 | 2022-09-23 |
-| [Always Running Never Looking Back](https://open.spotify.com/track/6jtUHlH97ALHhY53veFd20) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 2:11 | 2022-09-16 |  |
+| [Always Running Never Looking Back](https://open.spotify.com/track/6jtUHlH97ALHhY53veFd20) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 2:11 | 2022-09-16 | 2023-01-04 |
 | [Amends](https://open.spotify.com/track/4QM0w0rYkuT9jAt2x0bS6s) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:44 | 2022-09-16 | 2022-10-13 |
 | [And Now It's Happening in Mine](https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:37 | 2022-09-16 |  |
 | [Anyone / Anything](https://open.spotify.com/track/6Pr9rKp3Y63aXROEH1dfDZ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:39 | 2022-09-16 |  |
@@ -40,7 +40,7 @@
 | [Huckleberry](https://open.spotify.com/track/3Q6Sv1clwS3d9cJDBgzlYX) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Touché Amoré](https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf) | 1:44 | 2022-09-16 | 2022-10-13 |
 | [I'll Deserve Just That](https://open.spotify.com/track/1VKRkpRK1ABeE3GmGmkbLc) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Searching For A Pulse/The Worth Of The World](https://open.spotify.com/album/7zKDC3zIId5lJy0ycwPFDD) | 1:43 | 2022-09-16 |  |
 | [I'll Get My Just Deserve](https://open.spotify.com/track/1U0EMRx1NrpF8ZabB7soNI) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Searching For A Pulse/The Worth Of The World](https://open.spotify.com/album/7zKDC3zIId5lJy0ycwPFDD) | 1:34 | 2022-09-16 |  |
-| [Is Survived By](https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:30 | 2022-09-16 |  |
+| [Is Survived By](https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:30 | 2022-09-16 | 2022-12-20 |
 | [Just Exist](https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:17 | 2022-09-16 |  |
 | [Lament](https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:20 | 2022-09-16 |  |
 | [Limelight](https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 5:02 | 2022-09-16 |  |
@@ -51,6 +51,7 @@
 | [Non Fiction](https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:05 | 2022-09-22 | 2022-10-01 |
 | [Palm Dreams](https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 2:26 | 2022-09-16 |  |
 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 | 2022-09-16 |  |
+| [Praise / Love](https://open.spotify.com/track/1A8DwHJSNibbVTqPLN0zlc) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 1:01 | 2022-12-19 |  |
 | [Rapture](https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:11 | 2022-09-16 |  |
 | [Reminders](https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:03 | 2022-09-16 |  |
 | [Savoring](https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:56 | 2022-09-16 |  |
@@ -59,7 +60,7 @@
 | [Softer Spoken](https://open.spotify.com/track/7aoOy4QXKGhecDODluw2c6) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 1:55 | 2022-09-19 | 2022-10-13 |
 | [Steps](https://open.spotify.com/track/66tkJursjOgAkQ94z7Vtn5) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:38 | 2022-09-16 |  |
 | [Suckerfish](https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:38 | 2022-09-16 |  |
-| [Swimming with Sharks](https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:03 | 2022-09-30 | 2022-10-02 |
+| [Swimming with Sharks](https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:03 | 2022-09-30 |  |
 | [The Great Repetition](https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:48 | 2022-09-16 |  |
 | [Throwing Copper \(Anniversary Version\)](https://open.spotify.com/track/15kxOx6AWB1BzmuBiflGGp) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Dead Horse X](https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa) | 2:20 | 2022-09-16 | 2022-10-07 |
 | [To Write Content](https://open.spotify.com/track/5x0Jn9gZDKu0IO6pXaQrKr) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 2:57 | 2022-09-16 |  |

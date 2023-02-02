@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Richard Marx
 
-70 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
+71 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Knockabout World](https://open.spotify.com/track/5Ru1T8rme8tDQWjADHrMSQ) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [I Am Not a Dog on a Chain](https://open.spotify.com/album/40ujnXEoJYbg0AaI9iDaVN) | 3:25 | 2021-10-22 |  |
 | [Let Go](https://open.spotify.com/track/1vSu9DJEAIoKK52gaJnA5G) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [LIMITLESS](https://open.spotify.com/album/1NXH0HmDo32FeptgAsKvjS) | 3:39 | 2021-10-22 | 2022-07-09 |
 | [Long Shot](https://open.spotify.com/track/4Q5CLb0X0TekGSgkwn0jyj) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [He Sang She Sang](https://open.spotify.com/album/6apzcsmHj4RWqxWPycVsFr) | 4:33 | 2022-05-06 |  |
-| [Me Not Loving You](https://open.spotify.com/track/2A1DHo5MnoDHKpoXTDR0vi) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [The Body Remembers](https://open.spotify.com/album/5gqkg3QPLgnGQQIVOOupdY) | 4:27 | 2021-10-22 |  |
+| [Me Not Loving You](https://open.spotify.com/track/2A1DHo5MnoDHKpoXTDR0vi) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [The Body Remembers](https://open.spotify.com/album/5gqkg3QPLgnGQQIVOOupdY) | 4:27 | 2021-10-22 | 2023-01-06 |
 | [Metal Water Wood](https://open.spotify.com/track/74xme6fG8qeC7BfwXiDa7j) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Ocean to Ocean](https://open.spotify.com/album/08dsnxebW6wZCu8NpmK3kn) | 4:00 | 2021-10-29 |  |
 | [Moon Over Wichita](https://open.spotify.com/track/2kWASdkm5BAA5kGJ4jN39D) | [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Moon Over Wichita/Heartbreak Storms](https://open.spotify.com/album/1gQZpefWws00Mglq7lv1oM) | 3:12 | 2022-04-01 |  |
 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 | 2021-10-22 | 2022-07-16 |
@@ -53,6 +53,7 @@
 | [One Hell Of A Life](https://open.spotify.com/track/3td9rTUTQRbaBQ5mD7ZiTr) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time \(The Hourglass Edition\)](https://open.spotify.com/album/5QAf18dGZUv4X5FKc3T7i7) | 5:23 | 2021-12-03 | 2022-07-29 |
 | [One More Cup Of Coffee](https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Surrounded By Time](https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X) | 3:45 | 2021-10-29 |  |
 | [One More Time](https://open.spotify.com/track/5oD2dU9uXCuCLYKGeTYi7i) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [One More Time](https://open.spotify.com/album/0187WUsGIlSalPRu0BOu1y) | 3:58 | 2021-10-22 | 2022-05-07 |
+| [Panopticom \- Bright Side Mix](https://open.spotify.com/track/0DpMQVZpl0bsIlFbm5CS7V) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Panopticom \(Bright Side Mix\)](https://open.spotify.com/album/3vMQQGbY67Sj77bD6dT8zt) | 5:13 | 2023-01-06 |  |
 | [Precious Time](https://open.spotify.com/track/4U9OxFxU1rM1GixGF2MXRS) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Precious Time](https://open.spotify.com/album/6C6bBwceQNCXaNK78OPTKe) | 4:27 | 2021-10-22 | 2022-04-02 |
 | [Pretending](https://open.spotify.com/track/3WYq8auGS8CFtRM7XLNxJn) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Pretending](https://open.spotify.com/album/5sHQpKS54EcEG784t7bJaO) | 6:47 | 2022-04-08 |  |
 | [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 | 2021-10-22 |  |

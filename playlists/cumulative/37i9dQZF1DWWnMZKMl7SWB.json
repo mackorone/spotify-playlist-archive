@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "Bases suaves para inspirarte mientras trabajas.",
   "name": "Impulso Creativo",
-  "published_playlist_ids": [
-    "2SfGU6Jvcp2B2brAOygqpz"
-  ],
   "tracks": [
     {
       "album": {
@@ -135,6 +132,24 @@
       "duration_ms": 144177,
       "name": "1am in nyc",
       "url": "https://open.spotify.com/track/5BIwDSCZB1DVt7CJJn6UAa"
+    },
+    {
+      "album": {
+        "name": "2day",
+        "url": "https://open.spotify.com/album/5j9RWutbmSJQ8bHo9bOlL7"
+      },
+      "artists": [
+        {
+          "name": "crackle n bop",
+          "url": "https://open.spotify.com/artist/7geWyYxsW6YdSKLBjB6mir"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109367,
+      "name": "2day",
+      "url": "https://open.spotify.com/track/1dQFJczFI9rVXbDXvavD03"
     },
     {
       "album": {
@@ -707,10 +722,32 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 276785,
       "name": "Beautiful Escape",
       "url": "https://open.spotify.com/track/5MChi9fdCbTIWDJPPUuuW6"
+    },
+    {
+      "album": {
+        "name": "Beat Tape 2",
+        "url": "https://open.spotify.com/album/1rccj3MT8J26ZXlOVQLEuN"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276785,
+      "name": "Beautiful Escape",
+      "url": "https://open.spotify.com/track/6m0lkuDCha77hh7tB5J7IO"
     },
     {
       "album": {
@@ -929,6 +966,24 @@
       "duration_ms": 300266,
       "name": "Body Language - Interpretation",
       "url": "https://open.spotify.com/track/6syBFNheQcC5HYt4sh6gkC"
+    },
+    {
+      "album": {
+        "name": "Bossa Bem",
+        "url": "https://open.spotify.com/album/2yRNisFBclumNBbUhE4ZXw"
+      },
+      "artists": [
+        {
+          "name": "The Directionz",
+          "url": "https://open.spotify.com/artist/66vdhayY3Ab8VeJUxKQmiR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Bossa Bem",
+      "url": "https://open.spotify.com/track/203h5qdRjnASiE1dOXzEmY"
     },
     {
       "album": {
@@ -1255,10 +1310,28 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 245653,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/3nXapkwJPBvHDG5u3PLRGp"
+    },
+    {
+      "album": {
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
     },
     {
       "album": {
@@ -2147,6 +2220,28 @@
     {
       "album": {
         "name": "Beat Tape 2",
+        "url": "https://open.spotify.com/album/1rccj3MT8J26ZXlOVQLEuN"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342603,
+      "name": "In the Midst of It All",
+      "url": "https://open.spotify.com/track/1TLHZcMQRMgW3N7hjh9Zlu"
+    },
+    {
+      "album": {
+        "name": "Beat Tape 2",
         "url": "https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8"
       },
       "artists": [
@@ -2161,7 +2256,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 342603,
       "name": "In the Midst of It All",
       "url": "https://open.spotify.com/track/6vPDjg4zuLlJrzgm9vqZCj"
@@ -2181,7 +2276,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 83986,
-      "name": "Interlude",
+      "name": "INTERLUDE",
       "url": "https://open.spotify.com/track/0AV6NavKfgyIe7z8tU4sdy"
     },
     {
@@ -3577,7 +3672,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 112840,
-      "name": "Prelude",
+      "name": "PRELUDE",
       "url": "https://open.spotify.com/track/1q1p0bsfEgqXDEWo1kx363"
     },
     {
@@ -3891,6 +3986,24 @@
       "duration_ms": 184989,
       "name": "Roll Back - Single Mix",
       "url": "https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21"
+    },
+    {
+      "album": {
+        "name": "Roronoa",
+        "url": "https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK"
+      },
+      "artists": [
+        {
+          "name": "Koby 808",
+          "url": "https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134785,
+      "name": "Roronoa",
+      "url": "https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0"
     },
     {
       "album": {
@@ -4623,6 +4736,24 @@
       "duration_ms": 101647,
       "name": "Sunhat",
       "url": "https://open.spotify.com/track/1coFcVuX3Ws09wptKbIzKE"
+    },
+    {
+      "album": {
+        "name": "sunshine",
+        "url": "https://open.spotify.com/album/25DoamTx8yHEhwGQ4nWEIG"
+      },
+      "artists": [
+        {
+          "name": "fly_by_wire",
+          "url": "https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138653,
+      "name": "sunshine",
+      "url": "https://open.spotify.com/track/6PhsEeekyldBPZ55toYDDE"
     },
     {
       "album": {
@@ -5623,7 +5754,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 239417,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX"
@@ -5641,7 +5772,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239417,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"

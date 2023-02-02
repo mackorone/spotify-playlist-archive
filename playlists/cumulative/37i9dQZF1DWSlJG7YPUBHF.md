@@ -2,9 +2,9 @@
 
 ### [Legendary Guitar Solos](https://open.spotify.com/playlist/37i9dQZF1DWSlJG7YPUBHF)
 
-> Enjoy the most epic, electrifying, face\-melting axe performances\. Cover: Eddie Van Halen
+> Face\-melters only\. Cover: Jeff Beck
 
-59 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/0rO41sUWACZztPLVmQUDoG)
+59 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 | 2021-12-13 |  |
 | [Bohemian Rhapsody](https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Stone Cold Classics](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) | 5:55 | 2021-12-13 |  |
 | [Bold as Love](https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 4:11 | 2021-12-13 |  |
-| [Brighton Rock \- Remastered 2011](https://open.spotify.com/track/4ObxJP7kYUkBqpiklCzrBo) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 5:10 | 2021-12-13 |  |
+| [Brighton Rock \- Remastered 2011](https://open.spotify.com/track/4ObxJP7kYUkBqpiklCzrBo) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 5:10 | 2021-12-13 | 2022-12-24 |
 | [Cause We've Ended as Lovers](https://open.spotify.com/track/4zoQ3EqopTIGmK2c2rPV5t) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u) | 5:42 | 2021-12-13 |  |
 | [Cause We've Ended as Lovers](https://open.spotify.com/track/5AICUm2wDa8bSu2HFRyMyU) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/3PZSoJCzPos29legd35FAu) | 5:42 | 2021-12-13 | 2022-07-29 |
 | [Cliffs Of Dover \- Instrumental](https://open.spotify.com/track/5qm0KiVKMXW1kq6VrnIhz5) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Ah Via Musicom](https://open.spotify.com/album/4euX7BHHIVZecdn7Ii3eg2) | 4:09 | 2021-12-13 |  |
@@ -30,7 +30,7 @@
 | [Flying in a Blue Dream](https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [Flying In A Blue Dream](https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6) | 5:23 | 2021-12-13 |  |
 | [For the Love of God](https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Passion And Warfare](https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45) | 6:03 | 2021-12-13 |  |
 | [Free Bird](https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 9:07 | 2021-12-13 |  |
-| [Hangar 18](https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:14 | 2021-12-13 | 2022-07-29 |
+| [Hangar 18](https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:14 | 2021-12-13 |  |
 | [Heartbreaker \- 1990 Remaster](https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:14 | 2021-12-13 |  |
 | [Highway Star](https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 6:08 | 2021-12-13 |  |
 | [Hitch a Ride](https://open.spotify.com/track/0870QNicMawQH2cnzBVZ3P) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:11 | 2021-12-13 |  |
@@ -51,7 +51,7 @@
 | [Rice Pudding](https://open.spotify.com/track/4hQFPRgDFU8M5AmDAGq02d) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Beck\-Ola](https://open.spotify.com/album/3EESd44PFyI8YczpseEtno) | 7:22 | 2021-12-13 | 2022-07-27 |
 | [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:31 | 2021-12-13 |  |
 | [Shock Me](https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:46 | 2021-12-13 |  |
-| [Spanish Fly \- 2015 Remaster](https://open.spotify.com/track/3rUHyuFsFizq8gIQO0z2jH) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen II \(Remastered\)](https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI) | 1:01 | 2021-12-13 | 2022-11-13 |
+| [Spanish Fly \- 2015 Remaster](https://open.spotify.com/track/3rUHyuFsFizq8gIQO0z2jH) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen II \(Remastered\)](https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI) | 1:01 | 2021-12-13 | 2022-12-20 |
 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 | 2021-12-13 |  |
 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 | 2021-12-13 |  |
 | [Still Got The Blues](https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 6:10 | 2021-12-13 |  |
@@ -62,7 +62,7 @@
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2021-12-13 |  |
 | [Sympathy For The Devil](https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Collection: The London Years](https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB) | 6:16 | 2021-12-13 |  |
 | [The Bomber A: Closet Queen B: Bolero C: Cast Your Fate To The Wind \- Medley](https://open.spotify.com/track/7Gq4o3qwY5kTdwNwyQ4lLu) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Rides Again](https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0) | 7:04 | 2021-12-13 | 2022-11-17 |
-| [The Width of a Circle \- 2015 Remaster](https://open.spotify.com/track/2o9VAWKD7yvnyrBRw9tzgH) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \(2015 Remaster\)](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 8:12 | 2021-12-13 | 2022-07-29 |
+| [The Width of a Circle \- 2015 Remaster](https://open.spotify.com/track/2o9VAWKD7yvnyrBRw9tzgH) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \(2015 Remaster\)](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 8:12 | 2021-12-13 | 2023-02-01 |
 | [Under a Glass Moon](https://open.spotify.com/track/2bBAAVvOHsr7vxWFTuYxH8) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 7:03 | 2021-12-13 |  |
 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 | 2021-12-13 |  |
 | [Watermelon In Easter Hay](https://open.spotify.com/track/0Q2dRzhPWFOex89dOjbq5Y) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Joe's Garage Acts I, II & III](https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS) | 9:07 | 2021-12-13 |  |

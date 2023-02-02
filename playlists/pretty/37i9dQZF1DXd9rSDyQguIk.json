@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 984929,
+  "num_followers": 1025640,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMGE3MmFkZTExNjJlNjNmMWYwZDU2NjU2NTgxZmU5ZmE3",
+  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMGIwYmNiZDRhY2I1YjFlZDExNGExNjEyYjIyMGI5NmJk",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
     },
     {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
+    },
+    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Burnin'",
@@ -103,22 +119,6 @@
       "duration_ms": 188400,
       "name": "Smokestack Lightnin'",
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Indianola Mississippi Seeds",
@@ -235,6 +219,22 @@
       "duration_ms": 293733,
       "name": "Chains And Things",
       "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -291,6 +291,22 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "Somebody Loan Me A Dime",
+      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
         "name": "Bo Diddley",
         "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
       },
@@ -321,36 +337,36 @@
       "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "The Pious Bird of Good Omen",
-        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 172693,
-      "name": "Black Magic Woman - 2018 Master",
-      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
+      "duration_ms": 271653,
+      "name": "Damn Right, I've Got the Blues",
+      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "To Know You Is To Love You",
-        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 515000,
-      "name": "To Know You Is To Love You",
-      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
+      "duration_ms": 141933,
+      "name": "Love Struck Baby",
+      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -371,18 +387,34 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "To Know You Is To Love You",
+        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 271653,
-      "name": "Damn Right, I've Got the Blues",
-      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
+      "duration_ms": 515000,
+      "name": "To Know You Is To Love You",
+      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "Junker's Blues",
+      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -419,34 +451,18 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Live And Well",
-        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 517400,
-      "name": "Why I Sing The Blues",
-      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 141933,
-      "name": "Love Struck Baby",
-      "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
+      "duration_ms": 314880,
+      "name": "Be Careful With a Fool",
+      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -467,22 +483,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "Junker's Blues",
-      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "King Of The Boogie",
         "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
       },
@@ -497,20 +497,84 @@
       "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+        "name": "Koko Taylor",
+        "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 314880,
-      "name": "Be Careful With a Fool",
-      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+      "duration_ms": 182826,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Live And Well",
+        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 517400,
+      "name": "Why I Sing The Blues",
+      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 172693,
+      "name": "Black Magic Woman - 2018 Master",
+      "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 445533,
+      "name": "Bad News Is Coming",
+      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
       "added_at": "2022-11-03 15:56:12",
@@ -535,82 +599,34 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Koko Taylor",
-        "url": "https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy"
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 182826,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Somebody Loan Me A Dime",
-        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Somebody Loan Me A Dime",
-      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Bad News Is Coming",
-        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
-        }
-      ],
-      "duration_ms": 445533,
-      "name": "Bad News Is Coming",
-      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Chicago Bound",
-        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
       },
       "artists": [
         {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 167266,
-      "name": "Walking By Myself",
-      "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
+      "duration_ms": 295693,
+      "name": "T-Bone Shuffle",
+      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -645,20 +661,36 @@
       "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 216626,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Chicago Bound",
+        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Walking By Myself",
+      "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -677,38 +709,6 @@
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "The Cream Of Clapton",
-        "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Crossroads - Live",
-      "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
@@ -723,86 +723,6 @@
       "duration_ms": 181786,
       "name": "She's A Sweet One",
       "url": "https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "The Allman Brothers Band (Deluxe)",
-        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 227751,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 295693,
-      "name": "T-Bone Shuffle",
-      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Born Under A Bad Sign (Mono)",
-        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 156397,
-      "name": "Crosscut Saw - Mono Mix",
-      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 431853,
-      "name": "Stone Crazy",
-      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -823,34 +743,50 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Easy Blues (France, 1978) [Blues Reference]",
-        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
+        "name": "The Cream Of Clapton",
+        "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
       },
       "artists": [
         {
-          "name": "Lafayette Leake",
-          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 252133,
-      "name": "Short Dressed Woman",
-      "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
+      "duration_ms": 255600,
+      "name": "Crossroads - Live",
+      "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Allman Brothers Band (Deluxe)",
+        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 227751,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
     },
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
       "artists": [
         {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         }
       ],
-      "duration_ms": 259760,
-      "name": "Two Bugs and a Roach",
-      "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
+      "duration_ms": 215026,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -869,36 +805,52 @@
       "url": "https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Bloomfield-A Retrospective",
-        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },
       "artists": [
         {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 414960,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
+      "duration_ms": 431853,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
     },
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
+        "name": "Born Under A Bad Sign (Mono)",
+        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         }
       ],
-      "duration_ms": 173040,
-      "name": "Got My Mojo Working",
-      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
+      "duration_ms": 156397,
+      "name": "Crosscut Saw - Mono Mix",
+      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Easy Blues (France, 1978) [Blues Reference]",
+        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Leake",
+          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Short Dressed Woman",
+      "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -919,6 +871,54 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
+        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Bloomfield-A Retrospective",
+        "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        }
+      ],
+      "duration_ms": 414960,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Two Bugs and a Roach",
+      "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -931,6 +931,54 @@
       "duration_ms": 183026,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Mean Mistreater",
+      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Nothing But The Truth",
+        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 367533,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
+    },
+    {
+      "added_at": "2021-06-18 04:29:20",
+      "album": {
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 334400,
+      "name": "Blue Monday Hangover - Remastered",
+      "url": "https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -965,54 +1013,6 @@
       "url": "https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Mean Mistreater",
-      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2021-06-18 04:29:20",
-      "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 334400,
-      "name": "Blue Monday Hangover - Remastered",
-      "url": "https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ"
-    },
-    {
       "added_at": "2021-06-18 04:29:20",
       "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Nothing But The Truth",
-        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 367533,
-      "name": "Sadie",
-      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Alligator Records Years",
         "url": "https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 304600,
       "name": "Should I Wait",
       "url": "https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "The Best Of Duke-Peacock Blues",
-        "url": "https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q"
+        "name": "Fast Fingers",
+        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
       },
       "artists": [
         {
-          "name": "Larry Davis",
-          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9"
+      "duration_ms": 239266,
+      "name": "Little Angel Child",
+      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1111,34 +1111,34 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Fast Fingers",
-        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
+        "name": "The Son Seals Blues Band",
+        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
       },
       "artists": [
         {
-          "name": "Jimmy Dawkins",
-          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Little Angel Child",
-      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
+      "duration_ms": 362400,
+      "name": "Now That I'm Down",
+      "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2021-06-18 04:29:20",
       "album": {
-        "name": "Sufferin' Mind",
-        "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
       },
       "artists": [
         {
-          "name": "Guitar Slim",
-          "url": "https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 180453,
-      "name": "The Things That I Used To Do",
-      "url": "https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX"
+      "duration_ms": 274440,
+      "name": "I'm A Woman - Remastered",
+      "url": "https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola"
     }
   ],
   "unique_name": "Blues Classics",

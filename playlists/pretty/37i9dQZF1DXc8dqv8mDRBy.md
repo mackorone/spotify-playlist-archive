@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,363 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,085 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 | 42 | [Te estás olvidando de mí](https://open.spotify.com/track/3AKyURJxA2IRJwxjkZggC8) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te estás olvidando de mí](https://open.spotify.com/album/5xBZq1HDeIt56vtLU1eMAY) | 3:02 |
 | 43 | [Jueves](https://open.spotify.com/track/1P6Hp9P2IejrmC8ssAQNPQ) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Nuestra Casa a la Izquierda del Tiempo](https://open.spotify.com/album/7kkgWcMLYlOJXWudVS66Wp) | 4:23 |
 | 44 | [Aqui Estoy Yo](https://open.spotify.com/track/4go2M6us50x9TQ1NvsB4vt) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 4:11 |
-| 45 | [Consejo de Amor](https://open.spotify.com/track/3za3hxbolwmy9AeUpWzuRE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Quiero Volver](https://open.spotify.com/album/2RuYsBRCgFEantZkX83W2Y) | 3:19 |
+| 45 | [Consejo de Amor \(feat\. Morat\)](https://open.spotify.com/track/7GrffUxvaKz4wKmyutin0P) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Quiero Volver](https://open.spotify.com/album/3L2sHT4Y1hbYYTt78OT0me) | 3:19 |
 | 46 | [Extraños](https://open.spotify.com/track/3TLy6QnVYWBf55YSy4D7nH) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Extraños](https://open.spotify.com/album/5XpFAQwEHU4kTNDd4EqoMy) | 3:52 |
 | 47 | [TQM](https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:19 |
 | 48 | [Te Voy a Amar](https://open.spotify.com/track/6G6DiIkasBrTbARK74U7kv) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Te Voy a Amar](https://open.spotify.com/album/5Nbmpy3j7Bsk5Fi2AUSQYh) | 3:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 | 59 | [Tu mirada en mi](https://open.spotify.com/track/2KktXDl8ImxzmhF2dkhDA2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Mundos Opuestos](https://open.spotify.com/album/3wEMYca7zqRh3KCTDXPJcl) | 3:42 |
 | 60 | [Vengo Del Futuro](https://open.spotify.com/track/4mvtqRJpySaswY75a9WfVm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:16 |
 
-Snapshot ID: `MTY2NzUzODAwMCwwMDAwMDAwMGIyMzdhN2M1MWY2NGNmOGJjYTQ2OGRhM2IyNjlhYjE1`
+Snapshot ID: `MTY2NzUzODAwMCwwMDAwMDAwMGZhODcwZWFjYTlkOWNkNGQ2MDEzNDUzM2UxOTcxZWI3`

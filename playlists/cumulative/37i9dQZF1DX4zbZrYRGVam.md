@@ -4,7 +4,7 @@
 
 > The biggest songs of summer 2022
 
-32 songs - 1 hr 46 min - [published](https://open.spotify.com/playlist/5mgYWfgrlTQhTTSLB7vWah)
+32 songs - 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

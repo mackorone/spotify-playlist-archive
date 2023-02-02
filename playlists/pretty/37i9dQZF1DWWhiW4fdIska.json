@@ -1,29 +1,13 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 15098,
+  "num_followers": 16673,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDRmMTg2MjJmNjQ4ODhiNTcwMDk5NGFhMWNhNjFmOGYx",
+  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDkwMWI2YWI4N2Q3ZmE4NWE5Y2RhNThkMGFiNjk3NTQ4",
   "tracks": [
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 370866,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"
-    },
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 219586,
       "name": "Pride and Joy",
       "url": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 370866,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -91,18 +91,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
         }
       ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+      "duration_ms": 179693,
+      "name": "Somebody Loan Me A Dime",
+      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -123,18 +123,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Somebody Loan Me A Dime",
-        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Somebody Loan Me A Dime",
-      "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -199,6 +183,38 @@
       "duration_ms": 297373,
       "name": "Lenny",
       "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Blow By Blow",
+        "url": "https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Freeway Jam",
+      "url": "https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -235,6 +251,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 431853,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "Born Under A Bad Sign (Mono)",
         "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
@@ -251,18 +283,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+        "name": "A Hard Road",
+        "url": "https://open.spotify.com/album/160euwnzg8f0oSEz3on32Z"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         }
       ],
-      "duration_ms": 431853,
-      "name": "Stone Crazy",
-      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
+      "duration_ms": 176040,
+      "name": "The Super-Natural",
+      "url": "https://open.spotify.com/track/2DVswRuJlXu4QiZQfOoIx7"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -363,34 +395,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "The Complete Chess Masters",
-        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 189133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 467426,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA"
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -411,6 +427,38 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 467426,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "The Complete Chess Masters",
+        "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "The Son Seals Blues Band",
         "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
       },
@@ -427,34 +475,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "A Hard Road",
-        "url": "https://open.spotify.com/album/160euwnzg8f0oSEz3on32Z"
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
       },
       "artists": [
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 176040,
-      "name": "The Super-Natural",
-      "url": "https://open.spotify.com/track/2DVswRuJlXu4QiZQfOoIx7"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+      "duration_ms": 200240,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -471,22 +503,6 @@
       "duration_ms": 279958,
       "name": "Tattoo'd Lady",
       "url": "https://open.spotify.com/track/3qy4FZ9nzsjSmVOBMZCUed"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -523,22 +539,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Blow By Blow",
-        "url": "https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Freeway Jam",
-      "url": "https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
@@ -555,18 +555,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Dust My Broom",
-        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 150667,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
+      "duration_ms": 280773,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/7ELwHVSWfMNy4zEq1IIbWu"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -583,6 +583,22 @@
       "duration_ms": 170000,
       "name": "T-Bone Shuffle",
       "url": "https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Dust My Broom",
+        "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 150667,
+      "name": "Shake Your Money Maker",
+      "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -611,22 +627,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Roy Buchanan",
-        "url": "https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "John's Blues",
-      "url": "https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -643,34 +643,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
+        "name": "Roy Buchanan",
+        "url": "https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
         }
       ],
-      "duration_ms": 373000,
-      "name": "Ventilator Blues",
-      "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "Vivid Sound",
-        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Guitar\" Watson",
-          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Cuttin' In",
-      "url": "https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX"
+      "duration_ms": 306000,
+      "name": "John's Blues",
+      "url": "https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -695,6 +679,38 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "Vivid Sound",
+        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Cuttin' In",
+      "url": "https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Ventilator Blues",
+      "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "Tattoo (Remastered 2017)",
         "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
       },
@@ -711,13 +727,13 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Hound Dog Taylor & The Houserockers",
+        "name": "Hound Dog Taylor and The Houserockers",
         "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
       "artists": [
         {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
         }
       ],
       "duration_ms": 219066,
@@ -743,22 +759,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 280773,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/7ELwHVSWfMNy4zEq1IIbWu"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "The Original Delta Blues (Mojo Workin': Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/3k3hqZqYl9XYgKC63wrKMq"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 363226,
       "name": "Downhearted Blues",
       "url": "https://open.spotify.com/track/0h0pAsjw7YVQyn43cbAPqF"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "The Very Best Of Albert King",
-        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "Blues Power",
-      "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -835,6 +819,22 @@
       "duration_ms": 316666,
       "name": "It's My Own Fault",
       "url": "https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "The Very Best Of Albert King",
+        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Blues Power",
+      "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
     }
   ],
   "unique_name": "Classic Blues Guitar",

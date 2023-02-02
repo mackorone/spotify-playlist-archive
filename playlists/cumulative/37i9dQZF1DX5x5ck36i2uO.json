@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "\uc7ac\uc988\ub9db \ud799\ud569",
-  "published_playlist_ids": [
-    "0JIQYIs8BcYEYxPxINEZdb"
-  ],
   "tracks": [
     {
       "album": {
@@ -103,7 +100,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 163066,
       "name": "20180222-20180930",
       "url": "https://open.spotify.com/track/2nrWw9mH2R5IiNFRtcAkIK"
@@ -139,7 +136,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 234202,
       "name": "3 GUINEAS",
       "url": "https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE"
@@ -1087,7 +1084,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 215857,
       "name": "GOOD NIGHT",
       "url": "https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57"
@@ -1116,6 +1113,28 @@
     },
     {
       "album": {
+        "name": "good1ife",
+        "url": "https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi"
+      },
+      "artists": [
+        {
+          "name": "J'Kyun",
+          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
+        },
+        {
+          "name": "Marco",
+          "url": "https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "good1ife",
+      "url": "https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F"
+    },
+    {
+      "album": {
         "name": "Green Thumb",
         "url": "https://open.spotify.com/album/6dC3Lpvf5aEGVzdYaY3iwV"
       },
@@ -1127,7 +1146,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 185213,
       "name": "Green Thumb",
       "url": "https://open.spotify.com/track/1AF238PPGmau0Y9AV13Fp2"
@@ -1301,7 +1320,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 93039,
       "name": "Human fever",
       "url": "https://open.spotify.com/track/7kLmCBlcTP2DR5lIiz22e3"
@@ -2054,6 +2073,28 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
+    },
+    {
+      "album": {
         "name": "FOODCOURT",
         "url": "https://open.spotify.com/album/5rSNi6XreLAaSRFz4OC1db"
       },
@@ -2289,7 +2330,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 178933,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/6lmSfkbYSpI6zgLjzkZ4WS"
@@ -2381,7 +2422,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-24",
       "duration_ms": 155060,
       "name": "Room Service",
       "url": "https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W"
@@ -2563,7 +2604,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 209205,
       "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
       "url": "https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz"
@@ -2681,6 +2722,28 @@
       "duration_ms": 182760,
       "name": "SUMMER '21",
       "url": "https://open.spotify.com/track/2Rw5QLA8JRa8JyBGrjcyev"
+    },
+    {
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny"
+      },
+      "artists": [
+        {
+          "name": "BEAT SOMEONE",
+          "url": "https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY"
+        },
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196214,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc"
     },
     {
       "album": {
@@ -2848,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Tourist",
+        "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189520,
+      "name": "Tourist",
+      "url": "https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn"
+    },
+    {
+      "album": {
         "name": "The Angel Wakes Hell's Morning",
         "url": "https://open.spotify.com/album/6jBp4T0NBQwJ9cnp1yXrgb"
       },
@@ -2933,7 +3014,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 232759,
       "name": "Walk With Us (feat. Jedi P & Am Kay)",
       "url": "https://open.spotify.com/track/7HtPan3iB9NTVEl4bT9auy"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
   "name": "Acid Blues",
-  "published_playlist_ids": [
-    "4hlf5ZG8IaIwQc0qKofAzM"
-  ],
   "tracks": [
     {
       "album": {
@@ -477,6 +474,24 @@
     {
       "album": {
         "name": "The Crazy World of Arthur Brown",
+        "url": "https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj"
+      },
+      "artists": [
+        {
+          "name": "The Crazy World Of Arthur Brown",
+          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/2HlO7aYhiN86NBC9j4l3SO"
+    },
+    {
+      "album": {
+        "name": "The Crazy World of Arthur Brown",
         "url": "https://open.spotify.com/album/7j7IHDXm1vXmDBqQqpzHDz"
       },
       "artists": [
@@ -505,7 +520,7 @@
       ],
       "date_added": "2018-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 224600,
       "name": "I Put a Spell on You",
       "url": "https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT"

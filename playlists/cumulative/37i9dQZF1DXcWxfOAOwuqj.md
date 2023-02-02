@@ -4,7 +4,7 @@
 
 > Lo esencial!
 
-35 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/0mSOWinXlu5Z47d97vl1Pi)
+35 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

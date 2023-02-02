@@ -4,7 +4,7 @@
 
 > Find your flow with these trap and lofi beats.
 
-268 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+268 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Spiderweb](https://open.spotify.com/track/7rQvmg0QWCtF8FHEsS9WTV) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Spiderweb](https://open.spotify.com/album/4Y1pdVWhJp634aCRW9nG7i) | 2:18 | 2022-04-08 | 2022-06-03 |
 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 | 2022-04-08 | 2022-05-27 |
 | [Start to End](https://open.spotify.com/track/3tGEZc7yJkzVN5NUKPl1Jc) | [Youthful Lovers](https://open.spotify.com/artist/6ASqq2vhsnh5g8h96C6CNO) | [Feeling Good](https://open.spotify.com/album/7EYRNajKXA68FQ6Yx6ZBRU) | 3:23 | 2022-04-08 | 2022-05-27 |
-| [stating the obvious](https://open.spotify.com/track/6v7devbeCi08pDiP1zwRmQ) | [Snake Pila](https://open.spotify.com/artist/345Ge7p3aRxLcZ7q6lf7BT) | [stating the obvious](https://open.spotify.com/album/0EtIyPTxbTK6yzcr1wbFzy) | 1:49 | 2022-11-11 |  |
+| [stating the obvious](https://open.spotify.com/track/6v7devbeCi08pDiP1zwRmQ) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [stating the obvious](https://open.spotify.com/album/0EtIyPTxbTK6yzcr1wbFzy) | 1:49 | 2022-11-11 |  |
 | [Steven Universe](https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Steven Universe](https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5) | 2:14 | 2022-08-05 |  |
 | [Strawberry Swing](https://open.spotify.com/track/7cUHQEWPtf0aB4CfLpzA75) | [jellykat](https://open.spotify.com/artist/33iusmfTCVj9fhVpCspl6X) | [Strawberry Swing](https://open.spotify.com/album/47LjTTsbVhApvM3iv1Tdpm) | 2:00 | 2022-04-08 | 2022-05-27 |
 | [Submerge](https://open.spotify.com/track/2swnkoWOG2QAefflEyUUeQ) | [KNŐDA](https://open.spotify.com/artist/2fDqX2aMSmr0pVuSdK5tWy) | [Submerge](https://open.spotify.com/album/0Eq1dAGselQKhk2v4Vg05S) | 2:14 | 2022-04-08 | 2022-05-27 |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-07",
   "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Yeison Jim\u00e9nez",
   "name": "Ranchenato",
-  "published_playlist_ids": [
-    "4dgRTLno9dN3O245XyEHEz"
-  ],
   "tracks": [
     {
       "album": {
@@ -774,6 +771,28 @@
     },
     {
       "album": {
+        "name": "Entre Copa y Copa",
+        "url": "https://open.spotify.com/album/06gQzNIkKd9u3iLqDUoflD"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Ceballos",
+          "url": "https://open.spotify.com/artist/2uNCwCLFD16nb7hhibD0sl"
+        },
+        {
+          "name": "Luis Alberto Posada",
+          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168116,
+      "name": "Entre Copa y Copa",
+      "url": "https://open.spotify.com/track/3eYFUlQKXEDMNMyFJd91nJ"
+    },
+    {
+      "album": {
         "name": "Gracias A Ti",
         "url": "https://open.spotify.com/album/0gMHccAgjbeyF6HuSm8zPu"
       },
@@ -989,7 +1008,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 222392,
       "name": "Llevame Contigo",
       "url": "https://open.spotify.com/track/2V1ZDHW7tEAlkEUZwHD8Wn"
@@ -1318,6 +1337,28 @@
     },
     {
       "album": {
+        "name": "Nuestro Juramento",
+        "url": "https://open.spotify.com/album/59P55KVxpocTwKRlpahlDR"
+      },
+      "artists": [
+        {
+          "name": "Juan Fernando Velasco",
+          "url": "https://open.spotify.com/artist/3vA0UcLmHZEoVavifm65mc"
+        },
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202425,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/0uzR8Ehgl6BGsU2ZvLPe3A"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
       },
@@ -1406,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "Olv\u00eddala",
+        "url": "https://open.spotify.com/album/4a5YLvtRLtPwLwlUugRwT3"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Kristian Camilo",
+          "url": "https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290406,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/06aboDWEiJkyVF2wQu1Lry"
+    },
+    {
+      "album": {
         "name": "Por Siempre (Deluxe)",
         "url": "https://open.spotify.com/album/23LQ3yuJE3lPcYEH6zQA3C"
       },
@@ -1443,7 +1506,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 290406,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/7qi8GownCCQrzrTaweqIKD"
@@ -1747,7 +1810,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 274367,
       "name": "Tarde Lo Conoc\u00ed - Regional Mexicano",
       "url": "https://open.spotify.com/track/3LpyI9jFcToBdJy00IbewV"
@@ -1783,10 +1846,28 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 173999,
       "name": "Te Super\u00e9",
       "url": "https://open.spotify.com/track/3nGC3Mt4aKEPNSG9Ur3xyQ"
+    },
+    {
+      "album": {
+        "name": "TQM",
+        "url": "https://open.spotify.com/album/4pwaSmWEjeC59CQnOIW1dv"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166826,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/4zzq1AGYtBKQusGF2RJRot"
     },
     {
       "album": {

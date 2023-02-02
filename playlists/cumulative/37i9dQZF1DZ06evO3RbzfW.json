@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-05-31",
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
   "name": "This Is Rammstein",
-  "published_playlist_ids": [
-    "10l4h92hmnaN43FPdhOuHz"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278211,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/56SLMIzWKrEOWIQ5LCzKXV"
+    },
     {
       "album": {
         "name": "Reise, Reise",
@@ -253,7 +268,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 188263,
       "name": "Giftig",
       "url": "https://open.spotify.com/track/3Ye7vnZdrO2Gq5IyyH3cOp"

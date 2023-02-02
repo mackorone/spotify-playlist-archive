@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Check out these throwback R&B jams from the first decade of the 21st century. Cover: Chris Brown",
+  "description": "The most essential R&B songs from the 2000s. Cover: Mariah Carey",
   "name": "I Love My '00s R&B",
-  "published_playlist_ids": [
-    "7MJ3ipEjnPWxpL2L6nZbav"
-  ],
   "tracks": [
     {
       "album": {
@@ -407,7 +404,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 236826,
       "name": "Case Of The Ex (Whatcha Gonna Do)",
       "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
@@ -673,6 +670,24 @@
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
+    },
+    {
+      "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 271173,
+      "name": "Falsetto",
+      "url": "https://open.spotify.com/track/2P1e3xpjDhYFqOFeu8IWzS"
     },
     {
       "album": {
@@ -1110,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "I Luv Your Girl",
+      "url": "https://open.spotify.com/track/3wkNK8tJZ2stygNJm8RCRD"
+    },
+    {
+      "album": {
         "name": "Ready (Deluxe)",
         "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
       },
@@ -1175,7 +1208,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 226760,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/3lqT89gv8p3PYwXtr3ODjv"
@@ -1262,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Memoirs of an imperfect Angel",
+        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238866,
+      "name": "It's A Wrap",
+      "url": "https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma"
+    },
+    {
+      "album": {
         "name": "Part III",
         "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
       },
@@ -1331,7 +1382,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 250666,
       "name": "Kiss Kiss (feat. T-Pain)",
       "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
@@ -1693,7 +1744,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-29",
       "duration_ms": 242466,
       "name": "Officially Missing You",
       "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
@@ -1759,6 +1810,24 @@
       "duration_ms": 193093,
       "name": "Peaches & Cream",
       "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
+    },
+    {
+      "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 194653,
+      "name": "Playin' In Her Hair",
+      "url": "https://open.spotify.com/track/4nADMbhDxHvT99gRqj5O21"
     },
     {
       "album": {
@@ -2147,7 +2216,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 213026,
       "name": "Stutter (feat. Mystikal) - Double Take Remix",
       "url": "https://open.spotify.com/track/7FWuzwapuKHTEyDJIcQOw3"

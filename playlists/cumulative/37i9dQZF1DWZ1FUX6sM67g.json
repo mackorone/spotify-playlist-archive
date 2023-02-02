@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Gusi",
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Prince Royce",
   "name": "Punto Tropical",
-  "published_playlist_ids": [
-    "16anPiH3Ulo6h6pHaV7pop"
-  ],
   "tracks": [
     {
       "album": {
@@ -464,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n Sin Cara (2.0)",
+        "url": "https://open.spotify.com/album/5HDywuzxDTbHC3FyKsv4bK"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210118,
+      "name": "Coraz\u00f3n Sin Cara - 2.0",
+      "url": "https://open.spotify.com/track/2KYJkrhsEOmyUgeFPCHvkD"
+    },
+    {
+      "album": {
         "name": "Cumbia Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3mfwypID037UHlutwTYINo"
       },
@@ -705,6 +720,28 @@
       "duration_ms": 176320,
       "name": "El Negrito",
       "url": "https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2"
+    },
+    {
+      "album": {
+        "name": "Los Piratas",
+        "url": "https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109062,
+      "name": "El Pan De Estefan\u00eda",
+      "url": "https://open.spotify.com/track/16FefzVT7e93dO2CWeuOFW"
     },
     {
       "album": {
@@ -955,7 +992,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 232355,
       "name": "La Peruana",
       "url": "https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1"
@@ -1053,7 +1090,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
@@ -1172,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Mi Secreto",
+        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179834,
+      "name": "Mi Secreto",
+      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
+    },
+    {
+      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -1245,7 +1300,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 200915,
       "name": "No Dudo",
       "url": "https://open.spotify.com/track/5GM9s07GhcM7f71kDnRc5l"
@@ -1354,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Pega\u00edto",
+        "url": "https://open.spotify.com/album/0HdmTSwkvLqGCXg7VQ2pPX"
+      },
+      "artists": [
+        {
+          "name": "Jhosy",
+          "url": "https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155994,
+      "name": "Pega\u00edto",
+      "url": "https://open.spotify.com/track/1RFWaEBbwIZV6ZcpuZzZC8"
+    },
+    {
+      "album": {
         "name": "Por Un Perro",
         "url": "https://open.spotify.com/album/1S7umwRqsNaYeoSWe0UjLw"
       },
@@ -1369,7 +1442,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 230320,
       "name": "Por Un Perro",
       "url": "https://open.spotify.com/track/3OBIkfgxatom7uCRNZxEa3"
@@ -1501,6 +1574,28 @@
       "duration_ms": 208726,
       "name": "Quiero Casarme Contigo",
       "url": "https://open.spotify.com/track/0vZ1LSs2LcKyhq9hwzwuVz"
+    },
+    {
+      "album": {
+        "name": "Quiero Ser Yo (Ese Hombre)",
+        "url": "https://open.spotify.com/album/2TVZbwxhpXOlmGm0nZQd6q"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174106,
+      "name": "Quiero Ser Yo (Ese Hombre)",
+      "url": "https://open.spotify.com/track/6gSo55R1Kl9qN3JiD4YtzD"
     },
     {
       "album": {
@@ -1793,7 +1888,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 254628,
       "name": "Un Ladr\u00f3n",
       "url": "https://open.spotify.com/track/0GRqaS1RZuqNTlnlOPb5sX"

@@ -4,7 +4,7 @@
 
 > Happy Shakespeare Day & National Poetry Month! Lovely, temperate, devouring..\. indelible recordings of every Shakespearean poem.
 
-162 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5mBjCRu7yTudy1feAHshcy)
+162 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

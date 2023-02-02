@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 726182,
+  "num_followers": 742727,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMGRlOTRiMGYzMDcyYjZiMWU1ZGExZTNiNTNjYzIzZjc1",
+  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMGFiYjM1YzY3YzliMTFhYjQyMzY1MDcxZDc5ZmI3YWVi",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "In Square Circle",
-        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252560,
-      "name": "Part-Time Lover",
-      "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 323346,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "In Square Circle",
+        "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252560,
+      "name": "Part-Time Lover",
+      "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -155,18 +171,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 275533,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+      "duration_ms": 239026,
+      "name": "P.Y.T. (Pretty Young Thing)",
+      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -219,38 +235,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "How Could It Be",
-        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Murphy",
-          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Party All the Time",
-      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
@@ -283,18 +267,34 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "The Gap Band IV",
-        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 312906,
-      "name": "You Dropped A Bomb On Me",
-      "url": "https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD"
+      "duration_ms": 276666,
+      "name": "So Emotional",
+      "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "How Could It Be",
+        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Murphy",
+          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Party All the Time",
+      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -311,22 +311,6 @@
       "duration_ms": 386026,
       "name": "Somebody Else's Guy",
       "url": "https://open.spotify.com/track/6xEg0lNce24BEPjCjqy5JB"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 276666,
-      "name": "So Emotional",
-      "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -363,22 +347,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Ready For The World",
-        "url": "https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg"
-      },
-      "artists": [
-        {
-          "name": "Ready For The World",
-          "url": "https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV"
-        }
-      ],
-      "duration_ms": 240093,
-      "name": "Oh Sheila",
-      "url": "https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Great R&B",
         "url": "https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V"
       },
@@ -399,18 +367,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "The Best of Gerald Levert",
-        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
+        "name": "The Gap Band IV",
+        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
       },
       "artists": [
         {
-          "name": "Levert",
-          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
         }
       ],
-      "duration_ms": 262373,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
+      "duration_ms": 312906,
+      "name": "You Dropped A Bomb On Me",
+      "url": "https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD"
     },
     {
       "added_at": "2021-07-01 19:39:13",
@@ -431,6 +399,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Ready For The World",
+        "url": "https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg"
+      },
+      "artists": [
+        {
+          "name": "Ready For The World",
+          "url": "https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Oh Sheila",
+      "url": "https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Gold - '80s Soul",
         "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Best Of/20th Century",
-        "url": "https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7"
+        "name": "The Best of Gerald Levert",
+        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
       },
       "artists": [
         {
-          "name": "Teena Marie",
-          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
+          "name": "Levert",
+          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
         }
       ],
-      "duration_ms": 383706,
-      "name": "Square Biz",
-      "url": "https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM"
+      "duration_ms": 262373,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -479,18 +463,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Do Me Baby",
-        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
+        "name": "Best Of/20th Century",
+        "url": "https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7"
       },
       "artists": [
         {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+          "name": "Teena Marie",
+          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
         }
       ],
-      "duration_ms": 300733,
-      "name": "Fool's Paradise",
-      "url": "https://open.spotify.com/track/2smHxX4ZmwamJ1Cu3BM3Os"
+      "duration_ms": 383706,
+      "name": "Square Biz",
+      "url": "https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -543,6 +527,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Do Me Baby",
+        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
+      },
+      "artists": [
+        {
+          "name": "Meli'sa Morgan",
+          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "Fool's Paradise",
+      "url": "https://open.spotify.com/track/2smHxX4ZmwamJ1Cu3BM3Os"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
         "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
       },
@@ -579,18 +579,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
-        "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
+        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
       },
       "artists": [
         {
-          "name": "Dazz Band",
-          "url": "https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l"
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Let It Whip",
-      "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
+      "duration_ms": 364946,
+      "name": "Love Come Down",
+      "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -611,18 +611,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Dazz Band",
+        "url": "https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG"
       },
       "artists": [
         {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+          "name": "Dazz Band",
+          "url": "https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l"
         }
       ],
-      "duration_ms": 364946,
-      "name": "Love Come Down",
-      "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
+      "duration_ms": 287000,
+      "name": "Let It Whip",
+      "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
     },
     {
       "added_at": "2021-04-01 19:37:56",

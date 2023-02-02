@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-109 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/4hQjQa56iChyP2Tec96JWg)
+109 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [One Moment](https://open.spotify.com/track/6v29e9ZravvxVPW9ICCmIn) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [One Moment](https://open.spotify.com/album/43DNy0NyAXS603IPelGSTR) | 5:45 | 2021-08-12 |  |
 | [Paradise \(feat\. Insight\) \- Extended](https://open.spotify.com/track/1V4ik8IUnOhdqJtlq7LWba) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Insight](https://open.spotify.com/artist/4mNqgCpPwkwYyr6xlqJViu) | [Paradise \(feat\. Insight\)](https://open.spotify.com/album/1itJyuA4M8mMBAdNuNXqHo) | 6:42 | 2021-08-12 |  |
 | [Party in progress B Side](https://open.spotify.com/track/6UYXvuqW8Bj4nGrVrVTYwb) | [Pat Wilson](https://open.spotify.com/artist/08J8IIaUH1bt16yRIhEdvP) | [Party in Progress EP](https://open.spotify.com/album/0P8SfnU0u9bWNaqqogvb1s) | 6:03 | 2021-08-12 |  |
-| [Peru \- Original Mix](https://open.spotify.com/track/72lYfha9WcI0rPEesPnKk4) | [D.C\. Salas](https://open.spotify.com/artist/0I5D6nYC5x4pwIg6tPbMf3) | [Ibiza Underground 2011](https://open.spotify.com/album/173eL8LOalcV39QJW3ZjZF) | 6:31 | 2021-08-12 |  |
+| [Peru \- Original Mix](https://open.spotify.com/track/72lYfha9WcI0rPEesPnKk4) | [DC Salas](https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw) | [Ibiza Underground 2011](https://open.spotify.com/album/173eL8LOalcV39QJW3ZjZF) | 6:31 | 2021-08-12 |  |
 | [Psycho Killer \- Original OG Mix](https://open.spotify.com/track/5MlEf3IMZMZdCehq6PhAuJ) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr), [Charlie Sputnik](https://open.spotify.com/artist/0gzDPfSntesPB6zpECNovz) | [Psycho Killer](https://open.spotify.com/album/3bO4dmoC1vhXTf2uvuMW4t) | 6:50 | 2021-08-12 |  |
 | [Raving I'm Raving \- Remix.Mp3](https://open.spotify.com/track/0xi6k3xSyrxWG0oeQMQJnk) | [Shut Up and Dance](https://open.spotify.com/artist/5m8iUPCoViiUr1fXKjX7ej) | [Death Is Not the End](https://open.spotify.com/album/4eBXRI4mExUO5zSZULCYnK) | 4:22 | 2021-08-12 |  |
 | [Rokfin](https://open.spotify.com/track/0dEQ1WctKluMufT2lKOjns) | [GruuvElement's](https://open.spotify.com/artist/3hqAkng6qZQZCkLkAFZSdf) | [Rokfin](https://open.spotify.com/album/0Zi5aK7WCZsWErICj9Ze7o) | 6:49 | 2021-08-12 |  |

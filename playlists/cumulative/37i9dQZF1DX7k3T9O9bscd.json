@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Psyched-out bands from the four corners of the world.",
+  "description": "Psyched-out bands from the four corners of the world. Temples on cover.",
   "name": "Neo-Psychedelic Rock",
-  "published_playlist_ids": [
-    "2RHGcfs46V7xV3q5UtJeL9"
-  ],
   "tracks": [
     {
       "album": {
@@ -187,7 +184,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 417777,
       "name": "Angel Dust",
       "url": "https://open.spotify.com/track/75wCRzBwolcOkpB4OsRVnL"
@@ -403,7 +400,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 258680,
       "name": "Bestiario",
       "url": "https://open.spotify.com/track/0JOkNtA6xYd1A7H7XTryS5"
@@ -439,7 +436,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 321906,
       "name": "Black Kite",
       "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
@@ -626,6 +623,24 @@
     },
     {
       "album": {
+        "name": "H\u00e4xan",
+        "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
+      },
+      "artists": [
+        {
+          "name": "Yo Diablo",
+          "url": "https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247034,
+      "name": "Cap.4: El Sabbath de las Brujas",
+      "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
+    },
+    {
+      "album": {
         "name": "Cardboard Pile",
         "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
       },
@@ -691,7 +706,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-11",
       "duration_ms": 131426,
       "name": "Chasse \u00e0 l'homme",
       "url": "https://open.spotify.com/track/30njO8xB8t4gUbocXczybe"
@@ -999,7 +1014,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 383100,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
@@ -1197,7 +1212,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 318591,
       "name": "Eventually",
       "url": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw"
@@ -1420,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Gamma Rays",
+        "url": "https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260346,
+      "name": "Gamma Rays",
+      "url": "https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM"
+    },
+    {
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/1YNpikcqLN0DiQ2WX9SYFF"
       },
@@ -1539,7 +1572,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": "2022-12-28",
       "duration_ms": 365797,
       "name": "Greven",
       "url": "https://open.spotify.com/track/5QbDGQdwnrfxWuBDhNMVMN"
@@ -1611,7 +1644,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 177493,
       "name": "Homage",
       "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK"
@@ -1917,7 +1950,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": "2022-12-14",
       "duration_ms": 205160,
       "name": "Indian Zone Drum Killer Inc.",
       "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
@@ -2527,7 +2560,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 271880,
       "name": "Mind Mischief",
       "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
@@ -2599,7 +2632,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 541122,
       "name": "New Hope For The New Year",
       "url": "https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY"
@@ -2856,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
+      "album": {
         "name": "Paraphernalia",
         "url": "https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1"
       },
@@ -3000,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366066,
+      "name": "Posthumous Forgiveness",
+      "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc"
+    },
+    {
+      "album": {
         "name": "Posthumous Forgiveness",
         "url": "https://open.spotify.com/album/0AA8MiQS9djcrznNT83ViG"
       },
@@ -3036,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "The Grodeck Whipperjenny",
+        "url": "https://open.spotify.com/album/2wdDKLGzrJ0SR1Q3ydZ4P0"
+      },
+      "artists": [
+        {
+          "name": "The Grodeck Whipperjenny",
+          "url": "https://open.spotify.com/artist/644ywfAXoGkPjOOxg2nZPE"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 276826,
+      "name": "Put Your Thing On Me",
+      "url": "https://open.spotify.com/track/55uKi2bQPxwGgFkxOiMicQ"
+    },
+    {
+      "album": {
         "name": "The Grodeck Whipperjenny (Digitally Remastered)",
         "url": "https://open.spotify.com/album/5qGe0KjGNFeVqGBHRwZwfT"
       },
@@ -3065,7 +3152,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 209907,
       "name": "P\u00e5 knivan",
       "url": "https://open.spotify.com/track/1LlK2ubpG3rHStn7ZGav3j"
@@ -3317,7 +3404,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 218013,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
@@ -3443,7 +3530,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 195346,
       "name": "Shimmer and Disappear",
       "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
@@ -3839,7 +3926,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
@@ -4071,7 +4158,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 273000,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/6aKI6d7NkTPqHoElel3TnI"
@@ -4353,7 +4440,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 192386,
       "name": "Victor's Belt",
       "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
@@ -4551,7 +4638,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 225750,
       "name": "Youth Accomplished",
       "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
@@ -4623,7 +4710,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 169539,
       "name": "\u65b0\u5e38\u614b",
       "url": "https://open.spotify.com/track/1MEWYQi6lFbpsvwrFrAGSn"

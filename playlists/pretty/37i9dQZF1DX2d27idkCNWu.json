@@ -1,15 +1,15 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 255168,
+  "num_followers": 257968,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM0NTIwMCwwMDAwMDAwMGE1ZGNhYTAwZWE5MGFiZWI3ZWE1YWMxZmUyZGQ0MDhl",
+  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDhjNGU3M2Q2N2I2NmIxMjRjNDdlNGYyMjBjZDVjNzVl",
   "tracks": [
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
@@ -29,7 +29,27 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "I'm Good (Blue) [Acoustic]",
+        "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 138024,
+      "name": "I'm Good (Blue) - Acoustic",
+      "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
@@ -45,7 +65,23 @@
       "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
@@ -61,7 +97,7 @@
       "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Falling Like The Stars",
         "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
@@ -77,23 +113,7 @@
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "I Don't Care (Acoustic)",
-        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 238220,
-      "name": "I Don't Care - Acoustic",
-      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "One Too Many",
         "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
@@ -113,7 +133,23 @@
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "I Don't Care (Acoustic)",
+        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 238220,
+      "name": "I Don't Care - Acoustic",
+      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
@@ -129,7 +165,7 @@
       "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -149,23 +185,7 @@
       "url": "https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "1.22.03 Acoustic",
-        "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 276786,
-      "name": "She Will Be Loved - Acoustic",
-      "url": "https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
@@ -181,7 +201,39 @@
       "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "1.22.03 Acoustic",
+        "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 276786,
+      "name": "She Will Be Loved - Acoustic",
+      "url": "https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Te Amar Demais",
+        "url": "https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR"
+      },
+      "artists": [
+        {
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+        }
+      ],
+      "duration_ms": 131970,
+      "name": "Te Amar Demais",
+      "url": "https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
@@ -197,75 +249,7 @@
       "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 149451,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "mama's boy",
-        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "if this is the last time",
-      "url": "https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Live from Spotify London",
-        "url": "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Viva La Vida - Live from Spotify London",
-      "url": "https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
@@ -285,23 +269,59 @@
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 176586,
-      "name": "Use Somebody - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Live from Spotify London",
+        "url": "https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Viva La Vida - Live from Spotify London",
+      "url": "https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "if this is the last time",
+      "url": "https://open.spotify.com/track/3bsRMvQja4huvPWo1S5ONc"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Arcade (Acoustic Version)",
         "url": "https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz"
@@ -317,7 +337,55 @@
       "url": "https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 176586,
+      "name": "Use Somebody - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) [A Cappella]",
+        "url": "https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        },
+        {
+          "name": "Elyse Myers",
+          "url": "https://open.spotify.com/artist/19we83RL2vr4HF6zU6KBAT"
+        },
+        {
+          "name": "Sri",
+          "url": "https://open.spotify.com/artist/04mSgmkYxSJMrZeqBoGOvc"
+        },
+        {
+          "name": "Chris Olsen",
+          "url": "https://open.spotify.com/artist/1BS8EXDNdqtlSaW3ZBsNT7"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
+      "url": "https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "1.22.03 Acoustic",
         "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
@@ -333,55 +401,7 @@
       "url": "https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Oh My Messy Mind",
-        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "The Grenade Sessions",
-        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 249535,
-      "name": "Grenade - Acoustic",
-      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
@@ -397,7 +417,103 @@
       "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 149451,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 249535,
+      "name": "Grenade - Acoustic",
+      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Oh My Messy Mind",
+        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Girassol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 65059,
+      "name": "Girassol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
@@ -417,71 +533,7 @@
       "url": "https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "All of Me - Live from Spotify Milan",
-      "url": "https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Meant to Be (Acoustic)",
-        "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 158279,
-      "name": "Meant to Be - Acoustic",
-      "url": "https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Let Yourself In",
-        "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Nothing But a Song - Bonus Acoustic Version",
-      "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
@@ -497,7 +549,155 @@
       "url": "https://open.spotify.com/track/09fAL7YwPV3YzVmQDzLY8d"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Bad Memories (Acoustic)",
+        "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 141330,
+      "name": "Bad Memories - Acoustic",
+      "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Meant to Be (Acoustic)",
+        "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 158279,
+      "name": "Meant to Be - Acoustic",
+      "url": "https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Coast (Acoustic)",
+        "url": "https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Coast (feat. Anderson .Paak) [Acoustic]",
+      "url": "https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "All of Me - Live from Spotify Milan",
+      "url": "https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Better Part of Me",
+        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Better Part of Me",
+      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Let Yourself In",
+        "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Nothing But a Song - Bonus Acoustic Version",
+      "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Human Nature (Acoustic)",
         "url": "https://open.spotify.com/album/1g6uFc2bQQpbxZ1cNWeKTk"
@@ -517,39 +717,7 @@
       "url": "https://open.spotify.com/track/5tMIrapXY40t9GHD2BbBaJ"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 225790,
-      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Live / Unplugged",
         "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
@@ -565,7 +733,7 @@
       "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "All The Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
@@ -581,159 +749,23 @@
       "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Burning - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "penhasco. (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "penhasco. - (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 191953,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "New Rules (Acoustic)",
-        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 213436,
-      "name": "New Rules - Acoustic",
-      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 213542,
-      "name": "More Than Words - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
-        "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
       },
       "artists": [
         {
           "name": "Ed Sheeran",
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 194884,
-      "name": "South of the Border (feat. Camila Cabello) - Acoustic",
-      "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
+      "duration_ms": 225790,
+      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Make Me (Cry) [Acoustic Version]",
-        "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Make Me (Cry) - Acoustic Version",
-      "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
@@ -753,39 +785,139 @@
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Trilhas",
-        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 228231,
-      "name": "Barquinho de papel",
-      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
+      "duration_ms": 231160,
+      "name": "Burning - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 246000,
-      "name": "If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-      "url": "https://open.spotify.com/track/2QcuQQRX2P0bhZcs861SJY"
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "penhasco. (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "penhasco. - (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 191953,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "New Rules (Acoustic)",
+        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 213436,
+      "name": "New Rules - Acoustic",
+      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Live at Sydney Opera House",
+        "url": "https://open.spotify.com/album/7vNVlKih6TRHu9kIL5YhgT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 268919,
+      "name": "Georgia - Live at Sydney Opera House",
+      "url": "https://open.spotify.com/track/352fUC91RxPM0HPCNoNYEN"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
+        "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "South of the Border (feat. Camila Cabello) - Acoustic",
+      "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
@@ -801,59 +933,7 @@
       "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 202482,
-      "name": "Stan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Sun Will Shine (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0TCXRPafxQF65CJ5M4e86y"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "Sun Will Shine - Acoustic Version",
-      "url": "https://open.spotify.com/track/7a5w6S1iiQT6x1AWBVGMHv"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Ain't Together",
-      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
@@ -869,39 +949,59 @@
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Unfinished (Acoustic)",
-        "url": "https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "If I Ain't Got You - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
+      "url": "https://open.spotify.com/track/2QcuQQRX2P0bhZcs861SJY"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Make Me (Cry) [Acoustic Version]",
+        "url": "https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk"
       },
       "artists": [
         {
           "name": "Noah Cyrus",
           "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 247002,
-      "name": "Unfinished - Acoustic",
-      "url": "https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL"
+      "duration_ms": 232906,
+      "name": "Make Me (Cry) - Acoustic Version",
+      "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
+        "name": "Trilhas",
+        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
       },
       "artists": [
         {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 243955,
-      "name": "America",
-      "url": "https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0"
+      "duration_ms": 228231,
+      "name": "Barquinho de papel",
+      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Sheezus",
         "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
@@ -917,23 +1017,55 @@
       "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Crazy in Love",
-        "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
       "artists": [
         {
-          "name": "Rio Bossa Trio",
-          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 218528,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
+      "duration_ms": 202280,
+      "name": "Ain't Together",
+      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 202482,
+      "name": "Stan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 213542,
+      "name": "More Than Words - Spotify Singles",
+      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Believe Acoustic",
         "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
@@ -949,23 +1081,23 @@
       "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+        "name": "Crazy in Love",
+        "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Rio Bossa Trio",
+          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
         }
       ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+      "duration_ms": 218528,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
@@ -981,23 +1113,175 @@
       "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Off",
-        "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
+        "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
+        "url": "https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms"
       },
       "artists": [
         {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
-      "duration_ms": 165604,
-      "name": "Off",
-      "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
+      "duration_ms": 135493,
+      "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
+      "url": "https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Live At AllSaints Studios",
+        "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Thunder - Live/Acoustic",
+      "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 243955,
+      "name": "America",
+      "url": "https://open.spotify.com/track/5lZSpbb0BQsequomhDDWv0"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 313520,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
+        "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 138348,
+      "name": "Love Me Now (feat. FAST BOY) - Acoustic",
+      "url": "https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "Elastic Heart - Live from The Village",
+      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "PSYCHO (Acoustic)",
+        "url": "https://open.spotify.com/album/6gQZTsyFmMPZ2vdh413QoK"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 140026,
+      "name": "PSYCHO - Acoustic",
+      "url": "https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 191444,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 154990,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
@@ -1025,127 +1309,23 @@
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
+        "name": "Off",
+        "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 191444,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+      "duration_ms": 165604,
+      "name": "Off",
+      "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Live At AllSaints Studios",
-        "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Thunder - Live/Acoustic",
-      "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "Elastic Heart - Live from The Village",
-      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "PSYCHO (Acoustic)",
-        "url": "https://open.spotify.com/album/6gQZTsyFmMPZ2vdh413QoK"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 140026,
-      "name": "PSYCHO - Acoustic",
-      "url": "https://open.spotify.com/track/7EZiKFoOdwja5fgZW3DePA"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 313520,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Living Without You (Acoustic)",
-        "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Living Without You - Acoustic",
-      "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Our Roots Run Deep (Live)",
-        "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 535611,
-      "name": "All I Want - Live in Dublin / 2022",
-      "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "FRIENDS (Acoustic)",
         "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
@@ -1165,23 +1345,7 @@
       "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Sorry Not Sorry",
-        "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 154990,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Jason Mraz's Beautiful Mess: Live on Earth",
         "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
@@ -1197,7 +1361,23 @@
       "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "Veneno - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Rise (Acoustic)",
         "url": "https://open.spotify.com/album/4M4lVwxi3BpaAmv9hMIzrm"
@@ -1217,39 +1397,7 @@
       "url": "https://open.spotify.com/track/64TfjW0Ebj9Uq0ik2OfmE7"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185975,
-      "name": "Veneno - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Dance All Over Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7cZx7Ph6c35Tcj3wv8eNME"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 214884,
-      "name": "Dance All Over Me - Acoustic",
-      "url": "https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
@@ -1265,23 +1413,7 @@
       "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Acoustic EP",
-        "url": "https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Here Without You - Acoustic Version",
-      "url": "https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
@@ -1297,23 +1429,23 @@
       "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Ver\u00e3o Ac\u00fastico",
-        "url": "https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE"
+        "name": "Acoustic EP",
+        "url": "https://open.spotify.com/album/2sRSdxx5eJz8mewqaf6hmy"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 242040,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o"
+      "duration_ms": 233160,
+      "name": "Here Without You - Acoustic Version",
+      "url": "https://open.spotify.com/track/0NGSH2Ah772qMcLTANjyO7"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
@@ -1329,7 +1461,75 @@
       "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Ver\u00e3o Ac\u00fastico",
+        "url": "https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Our Roots Run Deep (Live)",
+        "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 535611,
+      "name": "All I Want - Live in Dublin / 2022",
+      "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Sun Will Shine (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0TCXRPafxQF65CJ5M4e86y"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Sun Will Shine - Acoustic Version",
+      "url": "https://open.spotify.com/track/7a5w6S1iiQT6x1AWBVGMHv"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Unfinished (Acoustic)",
+        "url": "https://open.spotify.com/album/2sixGREINdRrjW0Ug4jDoq"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 247002,
+      "name": "Unfinished - Acoustic",
+      "url": "https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Live Acoustic EP",
         "url": "https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda"
@@ -1345,103 +1545,7 @@
       "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
     },
     {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 222270,
-      "name": "Attention - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "What A Shame",
-        "url": "https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX"
-      },
-      "artists": [
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        }
-      ],
-      "duration_ms": 131830,
-      "name": "What A Shame - Acoustic",
-      "url": "https://open.spotify.com/track/5bfDlx0BjbgBWqdemT2uR1"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Daisies (Acoustic)",
-        "url": "https://open.spotify.com/album/6RY76U2nPOnRdR2aZ95KIK"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Daisies - Acoustic",
-      "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Waiting for My Rocket to Come (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5XmgxU4rDcAoP1EHiSFYBX"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 229693,
-      "name": "The Remedy (I Won't Worry) - Live",
-      "url": "https://open.spotify.com/track/0f0k6SsnHoZRR4Vkzvr2NO"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "feiti\u00e7o",
-        "url": "https://open.spotify.com/album/2rbpZj8PRp8yCBRVwd04vY"
-      },
-      "artists": [
-        {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
-        }
-      ],
-      "duration_ms": 182645,
-      "name": "feiti\u00e7o",
-      "url": "https://open.spotify.com/track/6SB9mfvH0SoT3qoRbeOTlL"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Two Commas",
-        "url": "https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt"
-      },
-      "artists": [
-        {
-          "name": "Poo Bear",
-          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
-        }
-      ],
-      "duration_ms": 214208,
-      "name": "Two Commas",
-      "url": "https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
+      "added_at": "2023-01-27 03:00:00",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
@@ -1467,82 +1571,6 @@
       "duration_ms": 168346,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Blame It On Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
-      },
-      "artists": [
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "Blame It On Me - Acoustic",
-      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 174858,
-      "name": "pequena - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Entrelace",
-        "url": "https://open.spotify.com/album/3SIqwZQQFhhxTHbUHhnxqF"
-      },
-      "artists": [
-        {
-          "name": "Theodoro Nag\u00f4",
-          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
-        },
-        {
-          "name": "A Timeline",
-          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Entrelace",
-      "url": "https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

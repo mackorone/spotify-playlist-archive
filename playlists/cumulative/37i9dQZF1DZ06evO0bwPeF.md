@@ -4,7 +4,7 @@
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 42 min - not published yet
+48 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [I Know](https://open.spotify.com/track/5YZc9o1Uk69v7fuO2R3cLG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:40 | 2022-11-17 |  |
 | [In Person](https://open.spotify.com/track/1eeR14LMpSxl2KjrqHup3p) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:06 | 2022-11-20 |  |
 | [In The Meantime](https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:08 | 2022-11-17 |  |
+| [Intro \- Live at CBGB](https://open.spotify.com/track/7G0GL6nuNPavq0qXmAASBF) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Live and Rare](https://open.spotify.com/album/23LB0tzYvazXNVnYL1OZbo) | 1:39 | 2023-01-04 |  |
 | [Iron Head](https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:22 | 2022-11-17 |  |
 | [Just Another Victim](https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0), [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [Unsung: The Best Of Helmet 1991\-1997](https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO) | 4:22 | 2022-11-17 |  |
 | [Like I Care](https://open.spotify.com/track/1UOkTycAtWGz5rgQxo1E9M) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 3:19 | 2022-11-17 |  |
@@ -48,6 +49,7 @@
 | [So Long](https://open.spotify.com/track/4VP7mWCin77GP9PVGzaSUX) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:12 | 2022-11-17 |  |
 | [Speechless](https://open.spotify.com/track/2GN8Femwt83EIwInIuQj33) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 2:58 | 2022-11-17 |  |
 | [Swallowing Everything](https://open.spotify.com/track/7fdCDdBypKbgiHatHUXmcM) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:54 | 2022-11-17 |  |
+| [Taken](https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 1:53 | 2023-01-14 |  |
 | [Tic](https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:40 | 2022-11-17 |  |
 | [Turned Out](https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 4:13 | 2022-11-17 |  |
 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 | 2022-11-17 |  |

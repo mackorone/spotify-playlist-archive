@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-13",
   "description": "Big rap for big reps. You got this.",
   "name": "Rap Workout",
-  "published_playlist_ids": [
-    "3dzXnP6mzePU6Z42zVgBQy"
-  ],
   "tracks": [
     {
       "album": {
@@ -219,7 +216,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 207083,
       "name": "4 The Win",
       "url": "https://open.spotify.com/track/78UihSJn90VSGBBES12kFL"
@@ -357,6 +354,24 @@
       "duration_ms": 288019,
       "name": "Act a Fool",
       "url": "https://open.spotify.com/track/3KIMdTgROcteSwwKwoK3Bs"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/40xx4FFeandutDmaK3qEqj"
+      },
+      "artists": [
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221100,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/4z5WcMruV9ABwG9pJE1GT2"
     },
     {
       "album": {
@@ -539,7 +554,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-04",
       "duration_ms": 171891,
       "name": "AP - Music from the film Boogie",
       "url": "https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI"
@@ -783,7 +798,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 176133,
       "name": "Ballin",
       "url": "https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT"
@@ -1533,7 +1548,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 225439,
       "name": "Broke Boys",
       "url": "https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8"
@@ -2090,6 +2105,28 @@
     },
     {
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "album": {
         "name": "The Forever Story",
         "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
       },
@@ -2105,7 +2142,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
@@ -2803,7 +2840,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 172361,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
@@ -3011,7 +3048,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 169306,
       "name": "From Nothing",
       "url": "https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc"
@@ -3055,6 +3092,32 @@
       "duration_ms": 217440,
       "name": "Full Clip",
       "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "album": {
+        "name": "MANSION MUSIK",
+        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175999,
+      "name": "FULLY LOADED (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/45M6MPP3yI5I1PXse40lpR"
     },
     {
       "album": {
@@ -3165,6 +3228,28 @@
       "duration_ms": 166840,
       "name": "Gang Signs (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
+    },
+    {
+      "album": {
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159370,
+      "name": "Gangsta Boo (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv"
     },
     {
       "album": {
@@ -3923,6 +4008,24 @@
       "duration_ms": 195428,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/4lzWu0lHUWhiRV9egR0i2c"
+    },
+    {
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
     },
     {
       "album": {
@@ -4724,6 +4827,28 @@
     },
     {
       "album": {
+        "name": "King Snipe",
+        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214593,
+      "name": "King Snipe",
+      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -5148,6 +5273,28 @@
     },
     {
       "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
+    },
+    {
+      "album": {
         "name": "Magic City (feat. Quavo)",
         "url": "https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw"
       },
@@ -5359,7 +5506,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 440857,
       "name": "Mel Made Me Do It",
       "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
@@ -5959,7 +6106,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 205280,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
@@ -6083,7 +6230,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 171429,
       "name": "One In The Chamber",
       "url": "https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy"
@@ -6163,7 +6310,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 135430,
       "name": "Opp Stoppa (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW"
@@ -6258,6 +6405,28 @@
     },
     {
       "album": {
+        "name": "Buy or Bye 2",
+        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
+    },
+    {
+      "album": {
         "name": "Over The Top (feat. Drake)",
         "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
       },
@@ -6273,7 +6442,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 153406,
       "name": "Over The Top (feat. Drake)",
       "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
@@ -7005,7 +7174,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 190344,
       "name": "REPEAT IT (with Gunna)",
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
@@ -7321,7 +7490,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 157808,
       "name": "Ruining It",
       "url": "https://open.spotify.com/track/17LCwrvRDLak4BxLA1T9nH"
@@ -7461,7 +7630,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 204791,
       "name": "Scarface (feat. EST Gee)",
       "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
@@ -7751,6 +7920,24 @@
       "duration_ms": 192000,
       "name": "Showin Off Pt.2 (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/6JzyJgeHSRS4aYiK5gt02M"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/0gBApcXn5P14zuoBj27Uxd"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Similar",
+      "url": "https://open.spotify.com/track/46GyY53xkfMRYTqZAQ33ne"
     },
     {
       "album": {
@@ -8901,7 +9088,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 153147,
       "name": "TRAGIC (feat. Youngboy Never Broke Again & Internet Money)",
       "url": "https://open.spotify.com/track/13EW51DKru044OJDJ9Bm8o"
@@ -9007,7 +9194,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 132750,
       "name": "Umm Hmm",
       "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
@@ -9197,7 +9384,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 192956,
       "name": "Wants and Needs (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
@@ -9381,7 +9568,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 147511,
       "name": "We Up",
       "url": "https://open.spotify.com/track/2bJojWEUKvijZaSo7Jfh0W"
@@ -9719,6 +9906,24 @@
       "duration_ms": 128951,
       "name": "Woo Nina",
       "url": "https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi"
+    },
+    {
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-118 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/6IxMgm3Cmj6134xqBls034)
+118 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Ocean Glow](https://open.spotify.com/track/0VEfKc8Hi0ATp7vQ7cpoLY) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Escape](https://open.spotify.com/album/2ejB5Om23BjIfUnhuSeL5u) | 3:00 | 2022-11-22 |  |
 | [Ocean Sleep 2](https://open.spotify.com/track/1EmQgOdgtKafjNdLWidsoi) | [Four Elements Sounds](https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD) | [Ocean Sleep Volume 1](https://open.spotify.com/album/7qsNPYJ07YR7ElMUlsESIY) | 5:16 | 2022-11-22 |  |
 | [Ocean Wave Tranquility](https://open.spotify.com/track/5QN4ohn0UCzVtEjcwCXu9J) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Ocean Wave Tranquility](https://open.spotify.com/album/62V6uvjlaJbgxVcjkoJTsC) | 3:00 | 2022-04-22 |  |
-| [Oceania](https://open.spotify.com/track/2XBXsgTZ1AaEGLMATQCDvq) | [Strand](https://open.spotify.com/artist/5EXTU53qs6CxaNLqVVSQSN) | [Oceania](https://open.spotify.com/album/5YRA7lTQ1rPmqNxzxwMapz) | 3:03 | 2022-11-22 |  |
+| [Oceania](https://open.spotify.com/track/2XBXsgTZ1AaEGLMATQCDvq) | [Strand](https://open.spotify.com/artist/33ba5zUhmCywWnxQmJRQww) | [Oceania](https://open.spotify.com/album/5YRA7lTQ1rPmqNxzxwMapz) | 3:03 | 2022-11-22 |  |
 | [Ondas de sueño](https://open.spotify.com/track/257HeQKft6Ef6fNZSP0T5n) | [Ayudantes para dormir](https://open.spotify.com/artist/3uiLZIt70oh7RelYoaozqD) | [Ayudantes para dormir](https://open.spotify.com/album/7r5Aj4mO7gl9VFowZjI1LS) | 4:34 | 2022-04-22 |  |
 | [Onde Tropicali](https://open.spotify.com/track/14nCYdzeZI7gN08hWW48y0) | [Floriana Beach](https://open.spotify.com/artist/25uoYOdzu9AQYPIR7F6Nrf) | [Acqua Sicura](https://open.spotify.com/album/1MgeFv3KYOrI5LOYpz3spy) | 1:12 | 2022-04-22 |  |
 | [Peaceful waves](https://open.spotify.com/track/2dJsaUEG3JQUb88F7YL5t0) | [The Relaxation Hub](https://open.spotify.com/artist/6J2XOkGyDdC603Fmf44J5e) | [Peaceful Waves](https://open.spotify.com/album/65gW8GTFtnExMQmFQ15N5l) | 1:53 | 2022-04-22 |  |

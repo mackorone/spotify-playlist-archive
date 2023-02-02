@@ -4,7 +4,7 @@
 
 > Escape the world with the best, most relaxing Jazz.
 
-50 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/2lkF34ivWXj4FNUPybetur)
+50 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-05",
   "description": "This is The Cure. The essential tracks, all in one playlist.",
   "name": "This Is The Cure",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -75,6 +74,24 @@
       "duration_ms": 256320,
       "name": "A Night Like This",
       "url": "https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG"
+    },
+    {
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
+      "duration_ms": 304640,
+      "name": "A Strange Day",
+      "url": "https://open.spotify.com/track/6Gy6FSCOVFKhB8XcfgaF3D"
     },
     {
       "album": {
@@ -204,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Wish (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Cut - 1990 Demo",
+      "url": "https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf"
+    },
+    {
+      "album": {
         "name": "Wish (30th Anniversary)",
         "url": "https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5"
       },
@@ -215,7 +250,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 213293,
       "name": "Cut - 1990 Demo",
       "url": "https://open.spotify.com/track/1Esj2DJR8Xlxru5RDQtcoP"
@@ -287,7 +322,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 520159,
       "name": "End - Live In Paris / 1992",
       "url": "https://open.spotify.com/track/7jG9gCKyeEEBB2HPJTv04D"
@@ -413,7 +448,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 313880,
       "name": "If Only Tonight We Could Sleep - Live",
       "url": "https://open.spotify.com/track/2fqKtoic5F3mJW5JpnVScF"
@@ -777,6 +812,42 @@
       "duration_ms": 271293,
       "name": "Push",
       "url": "https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm"
+    },
+    {
+      "album": {
+        "name": "The Head on the Door (Deluxed Edition)",
+        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198506,
+      "name": "Six Different Ways - 2006 Remaster",
+      "url": "https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX"
+    },
+    {
+      "album": {
+        "name": "Wish (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280306,
+      "name": "The Big Hand - 1990 Demo",
+      "url": "https://open.spotify.com/track/2Uj46H1Rj1zVKJY1U8gZZE"
     },
     {
       "album": {

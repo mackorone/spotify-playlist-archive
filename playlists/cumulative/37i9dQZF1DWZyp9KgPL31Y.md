@@ -4,7 +4,7 @@
 
 > A collection of all The Shins greatest tracks, plus some of James Mercer's other projects.
 
-28 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/2v0MvtF0vc3LhQKTEADDr5)
+28 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

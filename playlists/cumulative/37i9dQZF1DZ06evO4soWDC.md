@@ -4,7 +4,7 @@
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/0OZe0uAP6M7UuJTxopMkud)
+48 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,10 +18,10 @@
 | [C](https://open.spotify.com/track/0zcuJNBPv85Bt8GTqagZta) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Tassie](https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv) | 1:32 | 2022-09-16 |  |
 | [Clothes I Slept In](https://open.spotify.com/track/3Jq8BFu09A3H1WeJNdmFJ4) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:38 | 2022-09-16 |  |
 | [Collisions](https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 3:06 | 2022-09-16 |  |
-| [Count Me Out](https://open.spotify.com/track/0Q5ZJHuiydKeQEBdAbOJNS) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 4:52 | 2022-09-16 |  |
+| [Count Me Out](https://open.spotify.com/track/0Q5ZJHuiydKeQEBdAbOJNS) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 4:52 | 2022-09-16 | 2022-12-27 |
 | [Death Rattle](https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:40 | 2022-09-16 |  |
-| [Devil's in the Detail](https://open.spotify.com/track/3pDS9rIhjPlHNED5OBh8Wh) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 3:01 | 2022-09-18 | 2022-11-13 |
-| [Drop Out](https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 2:11 | 2022-09-16 | 2022-10-09 |
+| [Devil's in the Detail](https://open.spotify.com/track/3pDS9rIhjPlHNED5OBh8Wh) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 3:01 | 2022-09-18 | 2023-01-01 |
+| [Drop Out](https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 2:11 | 2022-09-16 |  |
 | [Dying to Feel Alive](https://open.spotify.com/track/36i5ZC3bv8hv5AqWtlqJep) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 4:33 | 2022-09-16 |  |
 | [Every Time You're Here \(I'm Gone\)](https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 2:44 | 2022-09-16 |  |
 | [Get Sad, See Mates](https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 2:56 | 2022-09-16 |  |

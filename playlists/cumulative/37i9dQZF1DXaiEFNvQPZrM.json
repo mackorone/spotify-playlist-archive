@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-19",
   "description": "Traditional country sounds from artists of yesterday and today.",
   "name": "Traditional Country",
-  "published_playlist_ids": [
-    "1PinEuxNNxda9HKkvWhvaJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -203,7 +200,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 184466,
       "name": "Blame It On the Rain",
       "url": "https://open.spotify.com/track/2QachFuS9lrs5LLQ2aE8nB"
@@ -365,7 +362,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 204453,
       "name": "Catching Up With An Ol' Memory",
       "url": "https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw"
@@ -993,7 +990,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 190660,
       "name": "Hot Beer",
       "url": "https://open.spotify.com/track/5CawRA9RzdlvF8ladonjsl"
@@ -1101,7 +1098,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 208365,
       "name": "I'd Do It Different",
       "url": "https://open.spotify.com/track/4rzD1EihpFtcWLtNAQ2ugc"
@@ -1137,7 +1134,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216066,
       "name": "I'm No Stranger to the Rain",
       "url": "https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1"
@@ -1195,6 +1192,24 @@
       "duration_ms": 186746,
       "name": "If I Didn't Have You",
       "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+    },
+    {
+      "album": {
+        "name": "Alive Right Now",
+        "url": "https://open.spotify.com/album/3MQE9zQ1GI1E6pTGoYWxkQ"
+      },
+      "artists": [
+        {
+          "name": "Robby Johnson",
+          "url": "https://open.spotify.com/artist/1yKm1X4CnWuMKpiFXlDNgs"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228002,
+      "name": "If I Ever Was a Cowboy",
+      "url": "https://open.spotify.com/track/4SLrCOVGrXzJkT9dejzP0U"
     },
     {
       "album": {
@@ -1263,7 +1278,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 218720,
       "name": "Just Might Have Her Radio On",
       "url": "https://open.spotify.com/track/0vnCEYbnzh4g8peFJ6ZqKm"
@@ -1357,6 +1372,24 @@
       "duration_ms": 228733,
       "name": "Livin' On Love",
       "url": "https://open.spotify.com/track/26iYJEimPCE0ozDlpj0UFN"
+    },
+    {
+      "album": {
+        "name": "Let's Do Country Right",
+        "url": "https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I"
+      },
+      "artists": [
+        {
+          "name": "Easton Corbin",
+          "url": "https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "Lonesome Drinkers",
+      "url": "https://open.spotify.com/track/4VAzdlWsoSkjCcdL0YFGIv"
     },
     {
       "album": {
@@ -1765,7 +1798,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 197044,
       "name": "Over Drinkin' Under Thinkin'",
       "url": "https://open.spotify.com/track/2YrUpji5N9biuvxKgyO2OT"
@@ -2273,7 +2306,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 212920,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/1rVZ7EqoVJfrciRW80Uljh"

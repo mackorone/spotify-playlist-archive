@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
   "name": "Punk Unplugged",
-  "published_playlist_ids": [
-    "2gYz3qj1b5UVMrGVG0Oipm"
-  ],
   "tracks": [
     {
       "album": {
@@ -257,7 +254,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 113210,
       "name": "Ache",
       "url": "https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6"
@@ -437,7 +434,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 264305,
       "name": "Back Together",
       "url": "https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan"
@@ -599,7 +596,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 185727,
       "name": "Cement",
       "url": "https://open.spotify.com/track/2NLUz9yivz34Omzme8bQUY"
@@ -2502,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179347,
+      "name": "Leave It All Behind - Acoustic",
+      "url": "https://open.spotify.com/track/4B6ODLVDLIWcQxNUWmjlmY"
+    },
+    {
+      "album": {
         "name": "Light On",
         "url": "https://open.spotify.com/album/0shoi18L4d6jBsFyTs29d2"
       },
@@ -2675,7 +2690,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 237714,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/4prBT2FQAEMMXUXn40pwRf"
@@ -3141,6 +3156,24 @@
     {
       "album": {
         "name": "Pavement (Acoustic)",
+        "url": "https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240428,
+      "name": "Pavement (Acoustic)",
+      "url": "https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy"
+    },
+    {
+      "album": {
+        "name": "Pavement (Acoustic)",
         "url": "https://open.spotify.com/album/7c84hLBvFMTGpCXL0drPB9"
       },
       "artists": [
@@ -3465,7 +3498,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-28",
       "duration_ms": 203791,
       "name": "Send Help",
       "url": "https://open.spotify.com/track/3P3OfdWRtg1UTtF1dqeSe8"
@@ -3711,7 +3744,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 256600,
       "name": "Still Dreaming (Acoustic)",
       "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
@@ -4345,7 +4378,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 234000,
       "name": "Violets",
       "url": "https://open.spotify.com/track/6veNr8pvwqdErGuk5xp2Im"

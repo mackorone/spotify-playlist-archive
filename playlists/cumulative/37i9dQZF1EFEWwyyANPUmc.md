@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Cwc7OU92zsScsUHw2wW0y">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-52 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/04Px2zRqzuKCARA4eLARbp)
+53 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Ghetto Gossip](https://open.spotify.com/track/4MxzbBZw5fCFketoXuOTBM) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 3:32 | 2022-06-04 |  |
 | [Gold](https://open.spotify.com/track/4LpcOXk1mmEUqGoVORZ2lk) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Gold](https://open.spotify.com/album/7JXXX1QR2GLSONcFHSVp9v) | 2:49 | 2022-06-04 |  |
 | [GQOM](https://open.spotify.com/track/1XnurriC13rl5bdrjXhM59) | [Bang La Decks](https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT) | [GQOM](https://open.spotify.com/album/3EKcdo0Io0bA9ZqTeIA7Zy) | 3:14 | 2022-06-04 |  |
-| [Gypsy](https://open.spotify.com/track/1gtoJYq7yhISk72RRpK82q) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Gypsy](https://open.spotify.com/album/6ZIWLpoGHJWgAYjVPX4rAT) | 3:18 | 2022-06-04 |  |
+| [Gypsy](https://open.spotify.com/track/1gtoJYq7yhISk72RRpK82q) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Gypsy](https://open.spotify.com/album/6ZIWLpoGHJWgAYjVPX4rAT) | 3:18 | 2022-06-04 | 2023-02-01 |
+| [Gypsy](https://open.spotify.com/track/4UINZDQVlLV2QDJ5FPv6eT) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Gypsy](https://open.spotify.com/album/3vxFPOYg85lQtPbn9LUNjf) | 3:18 | 2023-01-31 |  |
 | [I Will Wait](https://open.spotify.com/track/67OcYgRuZyiiNyQsDihSQd) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [I Will Wait \(feat\. Hero Baldwin\)](https://open.spotify.com/album/36m1G2NmTQvGtRtjRTqc1Y) | 2:27 | 2022-06-04 |  |
 | [Ibiza](https://open.spotify.com/track/5YAVXFERnWkGlRRF6d39wo) | [Marco Carpentieri](https://open.spotify.com/artist/7qD17uug3YdoCuu1UqYTJa), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Ibiza](https://open.spotify.com/album/4rCFMkYoK4vDEkpONtcdZO) | 3:26 | 2022-06-04 |  |
 | [Jouw Geluk \(Vivo Por Ti\)](https://open.spotify.com/track/2W6227oegq7pAkYGucvziS) | [Déon Leon](https://open.spotify.com/artist/3oaUkKeOrroHK6zxaMttCj) | [Jouw Geluk \(Vivo Por Ti\)](https://open.spotify.com/album/5DYeSUrMJ1s0VaIFjmeAyy) | 3:10 | 2022-06-04 |  |

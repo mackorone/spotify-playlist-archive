@@ -1,29 +1,13 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 124237,
+  "num_followers": 130705,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMGZiOTIxMmIxMTYwNmQ0ZWUxNTk2MDc5ZTQ4NTdkNDNl",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDQzZDEzYWFjZGY4Y2UyMjE5ZjY2MWViZTlkYmVkNTgz",
   "tracks": [
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Running on Empty / Nothing but Time (Digital 45)",
-        "url": "https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL"
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 291893,
-      "name": "Running on Empty",
-      "url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
       "added_at": "2022-07-05 19:11:34",
@@ -71,6 +55,38 @@
       "duration_ms": 173466,
       "name": "Teach Your Children",
       "url": "https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Running on Empty / Nothing but Time (Digital 45)",
+        "url": "https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 291893,
+      "name": "Running on Empty",
+      "url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 444053,
+      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -107,18 +123,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
       "artists": [
         {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 444053,
-      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -171,22 +187,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Garden Party",
         "url": "https://open.spotify.com/album/76BrDrAEcQhjvXehCVMpWv"
       },
@@ -223,6 +223,54 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Manassas",
+        "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stills",
+          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Willin'",
+      "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
+    },
+    {
+      "added_at": "2022-06-01 14:20:20",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 250888,
+      "name": "Witchy Woman - 2013 Remaster",
+      "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
       },
@@ -253,20 +301,20 @@
       "url": "https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK"
     },
     {
-      "added_at": "2022-06-01 14:18:36",
+      "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Heart Like A Wheel",
-        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
+        "name": "Firefall",
+        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
         }
       ],
-      "duration_ms": 182040,
-      "name": "Willin'",
-      "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
+      "duration_ms": 216066,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -296,25 +344,25 @@
           "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 250888,
-      "name": "Witchy Woman - 2013 Remaster",
-      "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
+      "duration_ms": 250456,
+      "name": "Train Leaves Here This Morning - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
     },
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Firefall",
-        "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
       },
       "artists": [
         {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
         }
       ],
-      "duration_ms": 216066,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP"
+      "duration_ms": 298893,
+      "name": "Just Can't Be",
+      "url": "https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -335,22 +383,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "The Flying Burrito Brothers",
-        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 298893,
-      "name": "Just Can't Be",
-      "url": "https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Through The Morning, Through The Night",
         "url": "https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ"
       },
@@ -363,38 +395,6 @@
       "duration_ms": 232400,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Manassas",
-        "url": "https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stills",
-          "url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT"
-    },
-    {
-      "added_at": "2022-06-01 14:20:20",
-      "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "Train Leaves Here This Morning - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -427,22 +427,6 @@
       "duration_ms": 243000,
       "name": "Lonesome L.A. Cowboy",
       "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
-    },
-    {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
-        "name": "Song for Juli",
-        "url": "https://open.spotify.com/album/2NHyA67soVC7mENTAxCifZ"
-      },
-      "artists": [
-        {
-          "name": "Jesse Colin Young",
-          "url": "https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/2XIZRY7dQtyUhFngzHeEUu"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -493,6 +477,70 @@
       "url": "https://open.spotify.com/track/3nWfVgvBTxLteKXR9MSYaS"
     },
     {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "Song for Juli",
+        "url": "https://open.spotify.com/album/2NHyA67soVC7mENTAxCifZ"
+      },
+      "artists": [
+        {
+          "name": "Jesse Colin Young",
+          "url": "https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/2XIZRY7dQtyUhFngzHeEUu"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Tried So Hard",
+      "url": "https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Hotel California (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Sweetheart Of The Rodeo",
+        "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "One Hundred Years from Now",
+      "url": "https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi"
+    },
+    {
       "added_at": "2020-08-05 15:52:11",
       "album": {
         "name": "Grievous Angel",
@@ -515,70 +563,50 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Hotel California (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
         }
       ],
-      "duration_ms": 304925,
-      "name": "New Kid in Town - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
-    },
-    {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
-        "name": "The Flying Burrito Brothers",
-        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Tried So Hard",
-      "url": "https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh"
+      "duration_ms": 169840,
+      "name": "Morning Sky",
+      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
     },
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Ton-Ton Macoute!",
-        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
+        "name": "Hand Sown...Home Grown",
+        "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
       },
       "artists": [
         {
-          "name": "Johnny Jenkins",
-          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
         }
       ],
-      "duration_ms": 205093,
-      "name": "Down Along The Cove",
-      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
+      "duration_ms": 141160,
+      "name": "Silver Threads And Golden Needles",
+      "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
     },
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Magnetic South (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
       },
       "artists": [
         {
-          "name": "Michael Nesmith",
-          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
-        },
-        {
-          "name": "The First National Band",
-          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
+          "name": "Gene Clark",
+          "url": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Mama Nantucket",
-      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
+      "duration_ms": 391773,
+      "name": "Strength of Strings",
+      "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -627,38 +655,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Sweetheart Of The Rodeo",
-        "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "One Hundred Years from Now",
-      "url": "https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Hand Sown...Home Grown",
-        "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Silver Threads And Golden Needles",
-      "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "The Flying Burrito Brothers",
         "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
       },
@@ -671,22 +667,6 @@
       "duration_ms": 196800,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Morning Sky",
-      "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -707,6 +687,42 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Magnetic South (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
+      },
+      "artists": [
+        {
+          "name": "Michael Nesmith",
+          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
+        },
+        {
+          "name": "The First National Band",
+          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Mama Nantucket",
+      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Ton-Ton Macoute!",
+        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jenkins",
+          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Down Along The Cove",
+      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Safe at Home",
         "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
       },
@@ -716,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
         }
       ],
-      "duration_ms": 175240,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS"
+      "duration_ms": 169133,
+      "name": "Miller's Cave",
+      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -739,34 +755,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "No Other",
-        "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
+        "name": "Slippin Away",
+        "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
       },
       "artists": [
         {
-          "name": "Gene Clark",
-          "url": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+          "name": "Chris Hillman",
+          "url": "https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs"
         }
       ],
-      "duration_ms": 391773,
-      "name": "Strength of Strings",
-      "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
-      },
-      "artists": [
-        {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Two Lane Highway",
-      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
+      "duration_ms": 195693,
+      "name": "Step on Out",
+      "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -787,34 +787,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Slippin Away",
-        "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
       },
       "artists": [
         {
-          "name": "Chris Hillman",
-          "url": "https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs"
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Step on Out",
-      "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Sittin' In",
-        "url": "https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco"
-      },
-      "artists": [
-        {
-          "name": "Loggins & Messina",
-          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Listen to a Country Song",
-      "url": "https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h"
+      "duration_ms": 246693,
+      "name": "Two Lane Highway",
+      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -835,18 +819,38 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Safe at Home",
-        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG"
       },
       "artists": [
         {
-          "name": "The International Submarine Band",
-          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        },
+        {
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
         }
       ],
-      "duration_ms": 169133,
-      "name": "Miller's Cave",
-      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
+      "duration_ms": 235106,
+      "name": "Make A Little Magic - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Sittin' In",
+        "url": "https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco"
+      },
+      "artists": [
+        {
+          "name": "Loggins & Messina",
+          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Listen to a Country Song",
+      "url": "https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h"
     }
   ],
   "unique_name": "Country Rock Classics",

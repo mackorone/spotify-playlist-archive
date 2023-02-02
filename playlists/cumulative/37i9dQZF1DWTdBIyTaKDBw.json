@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
   "name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
-  "published_playlist_ids": [
-    "4JM95H8vsjsz2KMA6pkYt7"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 181626,
       "name": "A longing night",
       "url": "https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5"
@@ -279,7 +276,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 228000,
       "name": "Back Home",
       "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
@@ -411,6 +408,24 @@
       "duration_ms": 185124,
       "name": "bottom parade",
       "url": "https://open.spotify.com/track/4jTyKruIyG8mAI1c8QlxfD"
+    },
+    {
+      "album": {
+        "name": "Honey jar No.01",
+        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
+      },
+      "artists": [
+        {
+          "name": "HolyBear",
+          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219205,
+      "name": "Butterfly on my mind",
+      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
     },
     {
       "album": {
@@ -600,6 +615,46 @@
     },
     {
       "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
+    },
+    {
+      "album": {
+        "name": "December's Spring",
+        "url": "https://open.spotify.com/album/4knx3cIPVE7wb6yNJhhS1A"
+      },
+      "artists": [
+        {
+          "name": "YUN HU",
+          "url": "https://open.spotify.com/artist/2yjxXnxo2b9nxPv6JbvDgp"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "December's Spring(Prod. Sam Kim)",
+      "url": "https://open.spotify.com/track/2gccCocSljvkKhBL7gkYLN"
+    },
+    {
+      "album": {
         "name": "Don't be sad",
         "url": "https://open.spotify.com/album/4HWHzQGYvQa6EbK3K8rs2I"
       },
@@ -629,7 +684,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 255280,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0dmEAPKuehgDaVKVKlm0rd"
@@ -669,7 +724,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 212080,
       "name": "Dreamy Alarm",
       "url": "https://open.spotify.com/track/7unbE46iO68VyMnVXXrVrB"
@@ -896,6 +951,28 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "album": {
         "name": "First time ... ing",
         "url": "https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax"
       },
@@ -911,6 +988,24 @@
       "duration_ms": 230610,
       "name": "forever",
       "url": "https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03"
+    },
+    {
+      "album": {
+        "name": "Free Giveaway",
+        "url": "https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY"
+      },
+      "artists": [
+        {
+          "name": "Coffeeboy",
+          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 211456,
+      "name": "Free Giveaway",
+      "url": "https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi"
     },
     {
       "album": {
@@ -1026,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "album": {
         "name": "[Vol.134] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'",
         "url": "https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw"
       },
@@ -1085,7 +1198,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 227853,
       "name": "Heart in Motion",
       "url": "https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK"
@@ -1357,7 +1470,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 205002,
       "name": "Leave like this",
       "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
@@ -1631,10 +1744,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 244363,
       "name": "Maudie",
       "url": "https://open.spotify.com/track/0fu1BE5X5HZsYrphbof5DS"
+    },
+    {
+      "album": {
+        "name": "\uc232 Forest",
+        "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244363,
+      "name": "Maudie",
+      "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
     },
     {
       "album": {
@@ -1852,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "Unlock My Boss, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh"
+      },
+      "artists": [
+        {
+          "name": "Park Hyun Kyu",
+          "url": "https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "NOW",
+      "url": "https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT"
+    },
+    {
+      "album": {
         "name": "ALL IN",
         "url": "https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn"
       },
@@ -1903,6 +2052,24 @@
       "duration_ms": 270664,
       "name": "Only you",
       "url": "https://open.spotify.com/track/5hzZl2FVuN2auomlHFV47r"
+    },
+    {
+      "album": {
+        "name": "Origin of Love",
+        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
+      },
+      "artists": [
+        {
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "Origin of Love",
+      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
     },
     {
       "album": {
@@ -1997,7 +2164,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 190146,
       "name": "Play the field (With ONEW, Yoo Inna)",
       "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
@@ -2069,7 +2236,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 164640,
       "name": "Propose",
       "url": "https://open.spotify.com/track/5yygP5IhQWB6NExGRGziYZ"
@@ -2171,7 +2338,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 178886,
       "name": "ROSE",
       "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
@@ -2287,6 +2454,24 @@
       "duration_ms": 240000,
       "name": "SNOW",
       "url": "https://open.spotify.com/track/6HsPtlz07NgjDlTLAmXt2c"
+    },
+    {
+      "album": {
+        "name": "Twenties = Love",
+        "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
+      },
+      "artists": [
+        {
+          "name": "\uc544\uc6cc\uba5c\uce20 Hourmelts",
+          "url": "https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 213200,
+      "name": "Snow Sun",
+      "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
     },
     {
       "album": {
@@ -2518,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
+    },
+    {
+      "album": {
         "name": "Syncrofusion Lena Park + Brand New Music",
         "url": "https://open.spotify.com/album/6P6MNd9zNPxd6mPAYt0zWK"
       },
@@ -2627,7 +2830,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 197066,
       "name": "Thermometer - ON Team Version",
       "url": "https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP"
@@ -2693,6 +2896,28 @@
       "duration_ms": 230333,
       "name": "Thought Of You",
       "url": "https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0"
+    },
+    {
+      "album": {
+        "name": "cozy christmas",
+        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
+      },
+      "artists": [
+        {
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "Eily",
+          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123666,
+      "name": "Today and other days (Feat. Eily)",
+      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
     },
     {
       "album": {
@@ -2874,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "When I see you",
+        "url": "https://open.spotify.com/album/64PaZnR3MjSalwK0Y6CDg2"
+      },
+      "artists": [
+        {
+          "name": "Herz Analog",
+          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296799,
+      "name": "When I see you",
+      "url": "https://open.spotify.com/track/3reYD1dbHpy1G7BpKyBzTK"
+    },
+    {
+      "album": {
         "name": "[Vol.8] You Hee yul's Sketchbook 10th Anniversary Project : 4th Voice 'Sketchbook X Hwa Sa'",
         "url": "https://open.spotify.com/album/5l820EUqNJRBTvpsJlTp1n"
       },
@@ -2903,10 +3146,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 191114,
       "name": "Wind",
       "url": "https://open.spotify.com/track/0oPiNXJVKFp3T5wo6S0nUw"
+    },
+    {
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
+      },
+      "artists": [
+        {
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "Winter Theater",
+      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
     },
     {
       "album": {
@@ -2957,7 +3218,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-10",
       "duration_ms": 185386,
       "name": "With all my heart",
       "url": "https://open.spotify.com/track/5zhOr1qGlSEHhv5XEuzi0j"
@@ -3065,7 +3326,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 239613,
       "name": "\ub098\ube44",
       "url": "https://open.spotify.com/track/1R1mvOZ2cfnM39erhGQ5WQ"
@@ -3307,6 +3568,32 @@
       "duration_ms": 260624,
       "name": "\uc5b4\ub5a1\ud574 (Feat. \uc2a4\ud154\ub77c\uc7a5)",
       "url": "https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob"
+    },
+    {
+      "album": {
+        "name": "\uc774\ub978 \uaca8\uc6b8",
+        "url": "https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "\uae30\uc6d0 (Giwon)",
+          "url": "https://open.spotify.com/artist/1sf52yxej6A0Yso1Gv7vdY"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "\uc774\ub978 \uaca8\uc6b8(Feat. Gist, \uae30\uc6d0(Giwon))",
+      "url": "https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R"
     },
     {
       "album": {

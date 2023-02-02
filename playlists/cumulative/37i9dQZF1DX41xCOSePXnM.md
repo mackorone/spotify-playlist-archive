@@ -4,7 +4,7 @@
 
 > Sit there, all by yourself, and listen to the <a href="spotify:artist:2wkz8hACugzAvF0voupg3H">folk legend</a>.
 
-50 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/3r4RGHt1HQx1KnvBT2lJas)
+50 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

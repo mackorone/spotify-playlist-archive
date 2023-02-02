@@ -4,7 +4,7 @@
 
 > ¡Achis achis los mariachis!
 
-53 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/14mIEZGisMRWpXff2RgtSX)
+53 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

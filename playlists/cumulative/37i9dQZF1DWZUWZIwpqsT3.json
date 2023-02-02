@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Press play and let's dance with the biggest Brazilian DJ!",
   "name": "This Is Alok",
-  "published_playlist_ids": [
-    "6MZWwqjG4Q8Yhj3nm7gAIo"
-  ],
   "tracks": [
     {
       "album": {
@@ -3497,6 +3494,28 @@
       "duration_ms": 204402,
       "name": "Wherever You Go (feat. John Martin) [Alle Farben Remix]",
       "url": "https://open.spotify.com/track/4r6ndOoKApeKBXx9BB4VVA"
+    },
+    {
+      "album": {
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZUWZIwpqsT3"

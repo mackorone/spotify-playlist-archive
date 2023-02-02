@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-119 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/3oCTRz60otx3xUwTM6srZy)
+119 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A calm and relaxing Christmas piano soundtrack for the Holidays",
   "name": "Christmas Peaceful Piano",
-  "published_playlist_ids": [
-    "2x7sSOhmPXaV5o4uGuTeqA"
-  ],
   "tracks": [
     {
       "album": {
@@ -1596,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Holiday Improvisations",
+        "url": "https://open.spotify.com/album/308ccuyDr8CgJ9NNFhDcZo"
+      },
+      "artists": [
+        {
+          "name": "Leila Milki",
+          "url": "https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79133,
+      "name": "Peaceful Midnight Vignette",
+      "url": "https://open.spotify.com/track/5lu9eIMZWM5jhwezjP9VAt"
+    },
+    {
+      "album": {
         "name": "X-Mas",
         "url": "https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7"
       },
@@ -1902,6 +1917,72 @@
     },
     {
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123502,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2lzHOWyFnlG057YxwW4iYh"
+    },
+    {
+      "album": {
+        "name": "The Little Drummer Boy",
+        "url": "https://open.spotify.com/album/50N8RLcnXHRulPucazKUfE"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 123502,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/3qIyXzaFyemcsdtDwCz00L"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/6U12R48Wp7jHFTX4odwrDr"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 123502,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/7vFgAMthJFP6jr9HTef2Y8"
+    },
+    {
+      "album": {
         "name": "Gather Around The Christmas Tree",
         "url": "https://open.spotify.com/album/2bDhA7c8KAj4CzavWa49fU"
       },
@@ -1913,7 +1994,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 122000,
       "name": "The First Noe\u0308l",
       "url": "https://open.spotify.com/track/2s286y2oyE6zfa6QF8X9eU"

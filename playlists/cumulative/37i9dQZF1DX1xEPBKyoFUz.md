@@ -4,7 +4,7 @@
 
 > The return of Kratos and Atreus has arrived! Listen to their playlist while playing God of War Ragnarök \(rated "M" for "mature".\)
 
-312 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/0baera3LhxgyRhDcpAQcGW)
+313 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Gangsta's Paradise](https://open.spotify.com/track/7lQWRAjyhTpCWFC0jmclT4) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0fYctMs4EvoEqzDh8Kmg5g) | 4:00 | 2021-11-03 | 2022-02-19 |
 | [Gentleman](https://open.spotify.com/track/26spalP6x2gUAab8rwB8dQ) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Tik Tock Hits 2020](https://open.spotify.com/album/4Da9F5PAFILkjmNmm81NZ3) | 3:14 | 2022-08-31 | 2022-11-10 |
 | [Gentlemen](https://open.spotify.com/track/2aYVewTJtQfbTecUZVJQKl) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Things We've Said](https://open.spotify.com/album/1Jd6Q3VdlaAdpfKvHV99ep) | 3:30 | 2022-08-31 | 2022-11-10 |
-| [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 | 2022-11-09 |  |
+| [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 | 2022-11-09 | 2023-01-18 |
+| [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 | 2022-11-09 |  |
 | [Giving Up \(feat\. Jaden Michaels\)](https://open.spotify.com/track/0Tzwjig9HzGTj5Y5a3RdhE) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Giving Up \(feat\. Jaden Michaels\)](https://open.spotify.com/album/79BUBM9tprS60lkRCTVfJL) | 4:09 | 2022-02-18 | 2022-06-04 |
 | [Glitter \(feat\. Ambré Perkins\) \- Netsky Remix](https://open.spotify.com/track/1BXBAmb1lGgPg9nFy4bIdT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Glitter \(feat\. Ambré Perkins\) \[Netsky Remix\]](https://open.spotify.com/album/3Cjs3JXlouexT47pGuqc8F) | 2:53 | 2022-02-18 | 2022-06-04 |
 | [God of War](https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 4:06 | 2022-11-09 |  |

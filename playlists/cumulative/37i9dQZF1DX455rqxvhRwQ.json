@@ -2,9 +2,187 @@
   "date_first_scraped": "2022-05-01",
   "description": "Learn something new as Joe talks with academics, experts, and more.",
   "name": "JRE Talks with Academics",
-  "published_playlist_ids": [
-    "38xYMjEgsqvqysjAXw6X6P"
+  "tracks": [
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 9694261,
+      "name": "#1003 - Sean Carroll",
+      "url": "https://open.spotify.com/episode/3CUzPLZC4OEj9aROCEiEAe"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10502176,
+      "name": "#1041 - Dan Carlin",
+      "url": "https://open.spotify.com/episode/7xhBFsOUDS79vAhEYJWq9h"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10416959,
+      "name": "#1136 - Hamilton Morris",
+      "url": "https://open.spotify.com/episode/4xBgDDb5rBrTWo0qIUXfuG"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 12068223,
+      "name": "#1159 - Neil deGrasse Tyson",
+      "url": "https://open.spotify.com/episode/6yjxExOSU9UvcAVkonaps4"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 7511980,
+      "name": "#1221 - Jonathan Haidt",
+      "url": "https://open.spotify.com/episode/40C1TzeSXuEnqQomY8ayQW"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 9510475,
+      "name": "#1383 - Malcolm Gladwell",
+      "url": "https://open.spotify.com/episode/2YXIDPs07hoBtyJjYwm6pN"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 6281763,
+      "name": "#1402 - Boyan Slat",
+      "url": "https://open.spotify.com/episode/1KEwHVvJKNce09dWQBu692"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 5650729,
+      "name": "#1439 - Michael Osterholm",
+      "url": "https://open.spotify.com/episode/19tbM1zqjc6KjcRbzMwihN"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10925054,
+      "name": "#1453 - Eric Weinstein",
+      "url": "https://open.spotify.com/episode/78HkbguvMumJfUUC2ToHzt"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10948510,
+      "name": "#862 - Trevor Valle",
+      "url": "https://open.spotify.com/episode/7hlnaLC642ReafI6SBiYAC"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX455rqxvhRwQ"
 }

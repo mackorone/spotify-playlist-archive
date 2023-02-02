@@ -4,7 +4,7 @@
 
 > Listen to the most streamed male artists in the US this year!
 
-25 songs - 1 hr 34 min - [published](https://open.spotify.com/playlist/3ZjQyJM0S19wMYrQE5ymYs)
+25 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

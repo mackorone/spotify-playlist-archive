@@ -4,7 +4,7 @@
 
 > A collection of pop hits and viral trends that's updated weekly!  Cover: Katy Perry
 
-38 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/6ESgtnisEjuZIPKS6LtAkO)
+38 songs - 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

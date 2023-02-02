@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-25",
   "description": "This is U2. The essential tracks, all in one playlist.",
   "name": "This Is U2 (3)",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -57,6 +56,24 @@
       "duration_ms": 248400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271546,
+      "name": "Bullet The Blue Sky - Remastered 2007",
+      "url": "https://open.spotify.com/track/1C6Tmo58WMtnAPdxYz9qCz"
     },
     {
       "album": {
@@ -197,7 +214,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 238293,
       "name": "Get Out Of Your Own Way",
       "url": "https://open.spotify.com/track/4nXYb4yc3c1a3NWqdpDrnd"
@@ -215,7 +232,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 284600,
       "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
       "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
@@ -341,10 +358,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 226670,
       "name": "Invisible - (RED) Edit",
       "url": "https://open.spotify.com/track/1zU1hssVqbyepuLza1qmgO"
+    },
+    {
+      "album": {
+        "name": "Songs Of Innocence",
+        "url": "https://open.spotify.com/album/7DY6v8qiyQcsTCqUWjH7pS"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319457,
+      "name": "Iris (Hold Me Close)",
+      "url": "https://open.spotify.com/track/7kbQE1Xbyf7kvcn4DVICiR"
     },
     {
       "album": {
@@ -377,10 +412,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 416533,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx"
+    },
+    {
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256893,
+      "name": "Lights Of Home",
+      "url": "https://open.spotify.com/track/2pguQFntKxYZNGvXvZVWDp"
     },
     {
       "album": {
@@ -399,6 +452,24 @@
       "duration_ms": 324013,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
+    },
+    {
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234013,
+      "name": "Miracle Drug",
+      "url": "https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4"
     },
     {
       "album": {
@@ -525,7 +596,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 274120,
       "name": "Original Of The Species",
       "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
@@ -752,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269053,
+      "name": "The Fly",
+      "url": "https://open.spotify.com/track/4nBln1vXTHnJzXvNgvXyIA"
+    },
+    {
+      "album": {
         "name": "The Saints Are Coming",
         "url": "https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il"
       },
@@ -767,7 +856,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 202413,
       "name": "The Saints Are Coming",
       "url": "https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z"
@@ -803,7 +892,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 330506,
       "name": "Ultra Violet (Light My Way)",
       "url": "https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a"

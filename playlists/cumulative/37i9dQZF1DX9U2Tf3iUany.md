@@ -4,13 +4,13 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-56 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/4XTbJ3yoSja9uWVXymVuB5)
+56 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aim For The Moon \(feat\. Quavo\)](https://open.spotify.com/track/6O7fPYTsb2mY0PiFt2ymDB) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:55 | 2022-10-01 |  |
 | [All I Ever Wanted](https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Double Up](https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW) | 4:02 | 2022-10-01 |  |
-| [Another Day](https://open.spotify.com/track/6myUpr3GDR80Dg3zqNTmmG) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:19 | 2022-10-01 | 2022-11-22 |
+| [Another Day](https://open.spotify.com/track/6myUpr3GDR80Dg3zqNTmmG) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:19 | 2022-10-01 | 2023-02-01 |
 | [Atlantic City](https://open.spotify.com/track/4JwjzS9WFkWlpzGCwh82fn) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Jericho](https://open.spotify.com/album/0RLw5OMSYJ9FNUJvBTfHzU) | 5:14 | 2022-10-01 |  |
 | [Best Friend \- Remix](https://open.spotify.com/track/1wI3UvluGGKUeFeVFsP9do) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [Best Friend \(Remix\)](https://open.spotify.com/album/27GrIQPCPtPyEUxONxAcRe) | 4:14 | 2022-10-01 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2022-10-01 |  |
@@ -34,7 +34,7 @@
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2022-10-01 |  |
 | [ICY GRL](https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 1:49 | 2022-10-01 |  |
 | [Kacey Talk](https://open.spotify.com/track/1SF8piqsZWn86DajVKih8F) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 2:31 | 2022-10-01 |  |
-| [Karma](https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Hunger For More](https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v) | 4:38 | 2022-10-01 | 2022-11-20 |
+| [Karma](https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Hunger For More](https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v) | 4:38 | 2022-10-01 | 2023-01-17 |
 | [La vie en rose](https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4) | 7:28 | 2022-10-01 | 2022-11-13 |
 | [Maggie May](https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:50 | 2022-10-01 |  |
 | [Mannequin \(feat\. Lil Tjay\)](https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:40 | 2022-10-01 |  |

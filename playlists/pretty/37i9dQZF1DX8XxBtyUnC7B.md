@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XxBtyUnC7B.md) - [plain]
 
 ### [Souvenirs](https://open.spotify.com/playlist/37i9dQZF1DX8XxBtyUnC7B)
 
-> Vive la France !
+> Vive la France ! 🇫🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,881 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,362 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XxBtyUnC7B.md) - [plain]
 | 29 | [Frou\-Frou](https://open.spotify.com/track/2Ucg35BqNQWSNnBossVGVZ) | [Berthe Sylva](https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0) | [Chante](https://open.spotify.com/album/1g18yXxYwQ1N660N5HFJpt) | 3:02 |
 | 30 | [Les Aristochats](https://open.spotify.com/track/2SDU9Ls1XkvkbmlUgzyx2x) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [The Aristocats Original Soundtrack](https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO) | 2:20 |
 
-Snapshot ID: `MTY2MjU1MTA2MiwwMDAwMDAwMDBkZDUwNjEyNTg2YmZmNTAyOGNlYmMyODRmZWY2MzVj`
+Snapshot ID: `MTY3MTUzOTgyOCwwMDAwMDAwMDU4NjQ1NTRiNzdkZDZhNTk0NTdhMjNkYTVhZTA2ZTgy`

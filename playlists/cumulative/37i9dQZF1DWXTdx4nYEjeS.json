@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
   "name": "Mates y M\u00fasica",
-  "published_playlist_ids": [
-    "3QIsT3LSf24K84j95owWwc"
-  ],
   "tracks": [
     {
       "album": {
@@ -1200,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Amores Prohibidos",
+        "url": "https://open.spotify.com/album/3UtKEUIbn6eO4buBE826We"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 195426,
+      "name": "Amores Prohibidos",
+      "url": "https://open.spotify.com/track/7GpNKzUbcQ5wJfY6IWrQWe"
+    },
+    {
+      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh"
       },
@@ -1519,7 +1534,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
@@ -2031,7 +2046,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 279920,
       "name": "Bastar\u00e1",
       "url": "https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF"
@@ -2335,6 +2350,24 @@
       "duration_ms": 180066,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
+    },
+    {
+      "album": {
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186245,
+      "name": "BSOS",
+      "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
     },
     {
       "album": {
@@ -3151,7 +3184,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 270635,
       "name": "CHANT (feat. Tones And I)",
       "url": "https://open.spotify.com/track/5BgeAX4HuZdcuCqmu4pIMM"
@@ -5077,6 +5110,28 @@
       "duration_ms": 210850,
       "name": "El A\u00f1o Pasado",
       "url": "https://open.spotify.com/track/6ZI3xXHtM4zHcUjLw890uT"
+    },
+    {
+      "album": {
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206146,
+      "name": "El Bolero",
+      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
     },
     {
       "album": {
@@ -7014,6 +7069,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
+    },
+    {
+      "album": {
         "name": "La Conquista del Espacio",
         "url": "https://open.spotify.com/album/0hUTkPlrlHbLkrKB8JLTXQ"
       },
@@ -8221,7 +8294,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 277573,
       "name": "La Declaraci\u00f3n",
       "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
@@ -9711,7 +9784,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
@@ -11452,6 +11525,24 @@
     },
     {
       "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/5PiGqB14PQ9GWPeVWC2tC0"
       },
@@ -12114,7 +12205,7 @@
     },
     {
       "album": {
-        "name": "Para Mi Para Vos",
+        "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
@@ -12126,7 +12217,7 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 254146,
+      "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
     },
@@ -12489,7 +12580,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-17",
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
@@ -12917,7 +13008,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 156665,
       "name": "PUAJ (sesi\u00f3n)",
       "url": "https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8"
@@ -14157,7 +14248,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 202513,
       "name": "Seminare (Remasterizado 2021)",
       "url": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
@@ -15022,6 +15113,28 @@
     },
     {
       "album": {
+        "name": "Sudaka",
+        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 202808,
+      "name": "Sudaka",
+      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
+    },
+    {
+      "album": {
         "name": "Sudestada",
         "url": "https://open.spotify.com/album/5asSIwQvBJip4ZuusTdAX7"
       },
@@ -15055,7 +15168,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 275440,
       "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
@@ -15421,6 +15534,24 @@
       "duration_ms": 197195,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/68ngc4vLwImhAeWHmXKcEI"
+    },
+    {
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Tenso",
+      "url": "https://open.spotify.com/track/6qjVwfPtN73Rj7vSAaAuF2"
     },
     {
       "album": {
@@ -16026,6 +16157,24 @@
     },
     {
       "album": {
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "TUNA",
+      "url": "https://open.spotify.com/track/06kZbAkPevdwrQDa1Y41UM"
+    },
+    {
+      "album": {
         "name": "Suena la Alarma",
         "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
       },
@@ -16271,7 +16420,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 274586,
       "name": "Un Misil En Mi Placard - MTV Unplugged",
       "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
@@ -17605,6 +17754,28 @@
       "duration_ms": 299360,
       "name": "Yo Quiero Ver Un Tren - Live",
       "url": "https://open.spotify.com/track/5r6xyRtNLEXZ5L9cWpzryO"
+    },
+    {
+      "album": {
+        "name": "Yo Te Dir\u00e9",
+        "url": "https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207632,
+      "name": "Yo Te Dir\u00e9",
+      "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"
     },
     {
       "album": {

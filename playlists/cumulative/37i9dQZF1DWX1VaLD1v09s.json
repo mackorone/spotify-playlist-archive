@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
   "name": "Easter",
-  "published_playlist_ids": [
-    "6YEOhxlMSKcPFNC9j3L9q9"
-  ],
   "tracks": [
     {
       "album": {
@@ -659,7 +656,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 200773,
       "name": "Beautiful Scandalous Night",
       "url": "https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg"
@@ -1581,7 +1578,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-09",
       "duration_ms": 234748,
       "name": "Come See (Glory Hallelujah)",
       "url": "https://open.spotify.com/track/5rDxLru8HN7czVZrw7BzOt"
@@ -4497,7 +4494,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 357404,
       "name": "Just The Cross",
       "url": "https://open.spotify.com/track/4rL4jepFTo9OeQ3A0bFej9"
@@ -5967,7 +5964,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 292546,
       "name": "Refiner's Fire",
       "url": "https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF"
@@ -6495,7 +6492,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 292953,
       "name": "Speak the Name (feat. Natalie Grant)",
       "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
@@ -7081,7 +7078,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 277480,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5JJPHbFPolI3dl8VbUuoAs"
@@ -7905,6 +7902,24 @@
       "duration_ms": 231550,
       "name": "What You Could Do With Me",
       "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
+    },
+    {
+      "album": {
+        "name": "Satisfy (Live)",
+        "url": "https://open.spotify.com/album/5hFzKLzolMNHxndo0gkf9J"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Scott",
+          "url": "https://open.spotify.com/artist/7HJ2qHT3pTpbEpLs7kGBCt"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237680,
+      "name": "When I Survey (The Wondrous Cross) - Live",
+      "url": "https://open.spotify.com/track/3OHj3fzeyn0854r7Xl6MMH"
     },
     {
       "album": {

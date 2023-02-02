@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-09",
   "description": "Las divas del pop latino de ayer y hoy. Foto: Alejandra Guzm\u00e1n",
   "name": "Mujeres del Pop Latino",
-  "published_playlist_ids": [
-    "6OVps4t01j2MG90WMdax7o"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,7 +20,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 185573,
       "name": "100 A\u00f1os",
       "url": "https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL"
@@ -223,7 +220,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 189413,
       "name": "Ay, DiOs M\u00edo!",
       "url": "https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz"
@@ -303,6 +300,24 @@
       "duration_ms": 178693,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
     },
     {
       "album": {
@@ -411,10 +426,32 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 199720,
       "name": "Consejo de Amor",
       "url": "https://open.spotify.com/track/3za3hxbolwmy9AeUpWzuRE"
+    },
+    {
+      "album": {
+        "name": "Quiero Volver",
+        "url": "https://open.spotify.com/album/3L2sHT4Y1hbYYTt78OT0me"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199720,
+      "name": "Consejo de Amor (feat. Morat)",
+      "url": "https://open.spotify.com/track/7GrffUxvaKz4wKmyutin0P"
     },
     {
       "album": {
@@ -451,7 +488,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-28",
       "duration_ms": 256519,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
@@ -961,7 +998,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
@@ -1420,6 +1457,28 @@
     },
     {
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173021,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
+    },
+    {
+      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
       },
@@ -1693,7 +1752,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
@@ -1905,7 +1964,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 204906,
       "name": "Todos Me Miran",
       "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"

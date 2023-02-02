@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "Koffee takes us on a trip to the Caribbean with Xport ",
   "name": "Xport",
-  "published_playlist_ids": [
-    "1TJXBk9CCJF8TpecLcEXcm"
-  ],
   "tracks": [
     {
       "album": {
@@ -929,10 +926,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 219933,
       "name": "Give Me A Try",
       "url": "https://open.spotify.com/track/4pwGFtnF5ZWvvZee3Qmw1n"
+    },
+    {
+      "album": {
+        "name": "The Journey - The Very Best Of Sizzla Kalonji",
+        "url": "https://open.spotify.com/album/07AQybXuRFflDzipExouL4"
+      },
+      "artists": [
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Give Me A Try",
+      "url": "https://open.spotify.com/track/1PBYTQCR01OnAn41fqsvU6"
     },
     {
       "album": {

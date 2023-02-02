@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-17",
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee, Luis Fonsi",
   "name": "10s Latino",
-  "published_playlist_ids": [
-    "1UlthmmpWE0s2dmunRNOcw"
-  ],
   "tracks": [
     {
       "album": {
@@ -125,36 +122,6 @@
     {
       "album": {
         "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "date_added": "2022-01-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270493,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
-    },
-    {
-      "album": {
-        "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb"
       },
       "artists": [
@@ -181,6 +148,36 @@
       "duration_ms": 271080,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/5LVoGJTyG6fLJgoGkY2QAZ"
+    },
+    {
+      "album": {
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270493,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
     },
     {
       "album": {
@@ -1169,7 +1166,7 @@
           "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1199,7 +1196,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-13",
       "duration_ms": 451343,
       "name": "La Ocasi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/1M9gupJZxS3LdK8R6UZfYH"
@@ -1428,6 +1425,28 @@
     },
     {
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210367,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
+    },
+    {
+      "album": {
         "name": "MIA (feat. Drake)",
         "url": "https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO"
       },
@@ -1443,7 +1462,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 210367,
       "name": "MIA (feat. Drake)",
       "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
@@ -2149,10 +2168,32 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202626,
       "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
+    },
+    {
+      "album": {
+        "name": "Listen Up! The Official 2010 FIFA World Cup Album",
+        "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.",
   "name": "This Is Beethoven",
-  "published_playlist_ids": [
-    "7npQPe6LEo683b5Sn0aaAj"
-  ],
   "tracks": [
     {
       "album": {
@@ -233,6 +230,36 @@
       "duration_ms": 406146,
       "name": "Beethoven: Cello Sonata No. 1 in F Major, Op. 5 No. 1: II. Rondo - Allegro vivace",
       "url": "https://open.spotify.com/track/4mJAeByWSQgfpEVfWCg8eg"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso",
+        "url": "https://open.spotify.com/album/3jg9l2rpMkWBoIduyU7pxT"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457533,
+      "name": "Beethoven: Piano Concerto No. 5 in E-Flat Major, Op. 73 - II. Adagio un poco mosso",
+      "url": "https://open.spotify.com/track/1tI5Tzj3l9aEgmuFemCXyH"
     },
     {
       "album": {
@@ -1451,7 +1478,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 457533,
       "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73: 2. Adagio un poco mosso",
       "url": "https://open.spotify.com/track/2YmBSm1LtCHGSGVsSH5afY"
@@ -2135,7 +2162,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 373665,
       "name": "Rage Over A Lost Penny, Op. 129",
       "url": "https://open.spotify.com/track/2SnBJrcW6z0RNMMg39pkJC"
@@ -2157,10 +2184,32 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 373665,
       "name": "Rage Over A Lost Penny, Op. 129",
       "url": "https://open.spotify.com/track/2YFuTzAr02YYroPwI6vTi1"
+    },
+    {
+      "album": {
+        "name": "Beethoven - Classics for Commuting",
+        "url": "https://open.spotify.com/album/7Fh9ZUG9ysg5kFs0SB2KgL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Valentina Lisitsa",
+          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 373665,
+      "name": "Rage Over A Lost Penny, Op. 129",
+      "url": "https://open.spotify.com/track/45J7lYFWQU6YvKEcYZgKYr"
     },
     {
       "album": {
@@ -2746,6 +2795,58 @@
     },
     {
       "album": {
+        "name": "Beethoven: The Symphonies",
+        "url": "https://open.spotify.com/album/1rhH8zUG5xka0e3ETED4hP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 695893,
+      "name": "Symphony No. 2 in D Major, Op. 36: I. Adagio molto - Allegro con brio",
+      "url": "https://open.spotify.com/track/7uzXSsbbOJjGeRQ3cCKi4z"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Symphonies",
+        "url": "https://open.spotify.com/album/1rhH8zUG5xka0e3ETED4hP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553546,
+      "name": "Symphony No. 2 in D Major, Op. 36: II. Larghetto",
+      "url": "https://open.spotify.com/track/6NXGfvlzfwoO44etLpbuAf"
+    },
+    {
+      "album": {
         "name": "Beethoven: Symphonies Nos.1 & 2",
         "url": "https://open.spotify.com/album/6RtKpeRISLTP7CmSaFbYOO"
       },
@@ -2795,58 +2896,6 @@
       "duration_ms": 695893,
       "name": "Symphony No. 2 in D, Op. 36: 1. Adagio molto - Allegro con brio",
       "url": "https://open.spotify.com/track/6CYcGn9ovbglDC9FwLX2VF"
-    },
-    {
-      "album": {
-        "name": "Beethoven: The Symphonies",
-        "url": "https://open.spotify.com/album/1rhH8zUG5xka0e3ETED4hP"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "date_added": "2022-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 695893,
-      "name": "Symphony No. 2 in D, Op. 36: 1. Adagio molto - Allegro con brio",
-      "url": "https://open.spotify.com/track/7uzXSsbbOJjGeRQ3cCKi4z"
-    },
-    {
-      "album": {
-        "name": "Beethoven: The Symphonies",
-        "url": "https://open.spotify.com/album/1rhH8zUG5xka0e3ETED4hP"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "date_added": "2022-07-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 553546,
-      "name": "Symphony No. 2 in D, Op. 36: 2. Larghetto",
-      "url": "https://open.spotify.com/track/6NXGfvlzfwoO44etLpbuAf"
     },
     {
       "album": {
@@ -3319,7 +3368,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 811906,
-      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": 1. Allegro ma non troppo, un poco maestoso",
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": I. Allegro ma non troppo, un poco maestoso",
       "url": "https://open.spotify.com/track/3HifyVE7xq0su2F6Hz7ie6"
     },
     {
@@ -3345,7 +3394,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 856053,
-      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": 2. Molto vivace",
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": II. Molto vivace",
       "url": "https://open.spotify.com/track/2GAcOueBAbwU0kgaXKVAdM"
     },
     {
@@ -3371,7 +3420,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 771320,
-      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": 3. Adagio molto e cantabile",
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": III. Adagio molto e cantabile",
       "url": "https://open.spotify.com/track/69nDKRbYZLGNEkPhImEVGB"
     },
     {

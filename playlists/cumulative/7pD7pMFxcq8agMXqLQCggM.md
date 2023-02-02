@@ -4,7 +4,7 @@
 
 > New takes on old sounds\. These tracks talk back to their roots in the folk, blues, soul, country, and Americana traditions.
 
-54 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/3dHW7p2adjbbSr9mnyMKdD)
+54 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

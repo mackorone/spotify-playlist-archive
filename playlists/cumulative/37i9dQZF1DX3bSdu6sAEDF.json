@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Let this smooth mix carry you home in style.",
   "name": "Evening Commute",
-  "published_playlist_ids": [
-    "1ldJRNHV4cXibxutBhNe0N"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 166890,
       "name": "911",
       "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
@@ -185,7 +182,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 205905,
       "name": "Again",
       "url": "https://open.spotify.com/track/6ZZntgtMvygJgfnzkpiklv"
@@ -813,7 +810,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-16",
       "duration_ms": 207722,
       "name": "Broke",
       "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
@@ -889,6 +886,24 @@
       "duration_ms": 199640,
       "name": "Can't Hide It",
       "url": "https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7"
+    },
+    {
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
       "album": {
@@ -1537,7 +1552,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-14",
       "duration_ms": 234186,
       "name": "Give Me The Reason",
       "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
@@ -2231,7 +2246,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 206222,
       "name": "I\u2019m Not Perfect (But I\u2019m Trying)",
       "url": "https://open.spotify.com/track/10LBv5a9JLom1L6a05goUV"
@@ -2379,6 +2394,24 @@
       "duration_ms": 235447,
       "name": "Light Shine In",
       "url": "https://open.spotify.com/track/01JNL6P4M4hRPUWvK7Fr96"
+    },
+    {
+      "album": {
+        "name": "LIGHTNING",
+        "url": "https://open.spotify.com/album/5omg8JAqL1wXARrfBLWXHD"
+      },
+      "artists": [
+        {
+          "name": "Josie Dunne",
+          "url": "https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 162684,
+      "name": "LIGHTNING",
+      "url": "https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5"
     },
     {
       "album": {
@@ -2995,6 +3028,24 @@
       "duration_ms": 165523,
       "name": "On Your Way Home",
       "url": "https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2"
+    },
+    {
+      "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/4k4NkY9Y054ETiqhz2cNCS"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178010,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/1lmLWFZA8056zsE4paVrPC"
     },
     {
       "album": {
@@ -4481,6 +4532,10 @@
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
         },
         {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        },
+        {
           "name": "Aaron Frazer",
           "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
@@ -4599,6 +4654,24 @@
       "duration_ms": 206672,
       "name": "You're Already Gone",
       "url": "https://open.spotify.com/track/4DuquLkwkYPUJEgWRmq7dT"
+    },
+    {
+      "album": {
+        "name": "Your Internet Sucks",
+        "url": "https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "Your Internet Sucks",
+      "url": "https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3bSdu6sAEDF"

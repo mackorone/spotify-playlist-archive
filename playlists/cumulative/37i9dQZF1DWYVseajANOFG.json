@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-22",
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Jorkan",
   "name": "Flow Panam\u00e1",
-  "published_playlist_ids": [
-    "79dWlZ80QnS0vL3EFzUJSz"
-  ],
   "tracks": [
     {
       "album": {
@@ -358,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Coexistencia",
+        "url": "https://open.spotify.com/album/2Z4R6v7ghh8fbO1xYrk3lW"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "Casaya",
+      "url": "https://open.spotify.com/track/4iRHjxLojZsyclcODm5NOv"
+    },
+    {
+      "album": {
         "name": "CASIO",
         "url": "https://open.spotify.com/album/1pfRvtEcvCTkvuufARDURL"
       },
@@ -467,7 +482,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 194507,
       "name": "Corazon en Venta",
       "url": "https://open.spotify.com/track/2ghXk7RN8UdQnfidePtlZZ"
@@ -744,6 +759,36 @@
     },
     {
       "album": {
+        "name": "ELLA VIBRA (feat. Sir Boss)",
+        "url": "https://open.spotify.com/album/4MAKSkwgSIIxVLVMzymLkM"
+      },
+      "artists": [
+        {
+          "name": "Zetto",
+          "url": "https://open.spotify.com/artist/2icP2VXBVXI6D4B5zfC1ab"
+        },
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
+        },
+        {
+          "name": "T.O.T",
+          "url": "https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw"
+        },
+        {
+          "name": "Sir Boss",
+          "url": "https://open.spotify.com/artist/5IOGZkPuWHakMDPdNhyRlm"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 209360,
+      "name": "ELLA VIBRA (feat. Sir Boss)",
+      "url": "https://open.spotify.com/track/3DAtscvJFomZ3nJZUrmlOD"
+    },
+    {
+      "album": {
         "name": "En La De Ella",
         "url": "https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH"
       },
@@ -763,7 +808,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 230653,
       "name": "En La De Ella",
       "url": "https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj"
@@ -899,7 +944,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 174946,
       "name": "Foto En Panty",
       "url": "https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR"
@@ -1009,6 +1054,32 @@
       "duration_ms": 186133,
       "name": "Hecha Pa' Mi",
       "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "album": {
+        "name": "Hey Shorty",
+        "url": "https://open.spotify.com/album/0bL0aTf0YG4HlJZ1C9s11l"
+      },
+      "artists": [
+        {
+          "name": "BCA",
+          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+        },
+        {
+          "name": "La Exce",
+          "url": "https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Hey Shorty",
+      "url": "https://open.spotify.com/track/6wypFud9yFrGL7ruaWXSiO"
     },
     {
       "album": {
@@ -1761,7 +1832,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 200000,
       "name": "NE\u00d3N",
       "url": "https://open.spotify.com/track/3nRhaIvACfTDowMcx9MfWT"
@@ -2188,6 +2259,28 @@
     },
     {
       "album": {
+        "name": "PRESO Y MOSTROSIAO",
+        "url": "https://open.spotify.com/album/1xZ55Sg97LBPYzu0fuw1LV"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        },
+        {
+          "name": "Danny Yash",
+          "url": "https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294901,
+      "name": "PRESO Y MOSTROSIAO",
+      "url": "https://open.spotify.com/track/3uqDOi2zjDhXH5zMxIquKC"
+    },
+    {
+      "album": {
         "name": "En La Luna",
         "url": "https://open.spotify.com/album/3dN45Kj9R75Zbj6Xt8Ed9P"
       },
@@ -2403,7 +2496,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 136562,
       "name": "Se Murio Todo",
       "url": "https://open.spotify.com/track/5FqKPAL1z8ManW4VkkFTLs"
@@ -2774,6 +2867,28 @@
     },
     {
       "album": {
+        "name": "Tu Loco",
+        "url": "https://open.spotify.com/album/0t9xJs4Z8Po09tdPwg05xi"
+      },
+      "artists": [
+        {
+          "name": "Mole",
+          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319738,
+      "name": "Tu Loco",
+      "url": "https://open.spotify.com/track/2KQj2OQo0UcJ2uFAe5LG47"
+    },
+    {
+      "album": {
         "name": "TU NO TA LINDO RMX",
         "url": "https://open.spotify.com/album/2tsQAkFL0mxJXy4t9A347Y"
       },
@@ -2905,7 +3020,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 137365,
       "name": "UN BAILECITO",
       "url": "https://open.spotify.com/track/6KucQTkLYN2UPf0vAQnDH0"
@@ -2949,6 +3064,60 @@
       "duration_ms": 160853,
       "name": "UNA VAINA LOKA",
       "url": "https://open.spotify.com/track/5yTkmQFKrr3raDab181y59"
+    },
+    {
+      "album": {
+        "name": "Van Duro",
+        "url": "https://open.spotify.com/album/6oKY7iRFgtDnSW74ejypiF"
+      },
+      "artists": [
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155125,
+      "name": "Van Duro",
+      "url": "https://open.spotify.com/track/3rBITsfts82foOS58VKMoj"
+    },
+    {
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7t8B9Xl645Qgl7mNDdoQag"
+      },
+      "artists": [
+        {
+          "name": "Shyno",
+          "url": "https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 278345,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/34yHHuurblZVZuoXo49FxM"
+    },
+    {
+      "album": {
+        "name": "XOXO (Piso 33)",
+        "url": "https://open.spotify.com/album/0RSc1IGrFrhRMtZCq2GQ1F"
+      },
+      "artists": [
+        {
+          "name": "Shyno",
+          "url": "https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275349,
+      "name": "XOXO (Piso 33)",
+      "url": "https://open.spotify.com/track/5i7vlTb77WEAlewZCzr6GG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYVseajANOFG"

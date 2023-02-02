@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Beautifully dark, dramatic tracks.",
   "name": "Dark & Stormy",
-  "published_playlist_ids": [
-    "05MxtZKo0HueRtsNgrnDSa"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 198313,
       "name": "Ain't No Grave (Sparse)",
       "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
@@ -419,7 +416,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 217840,
       "name": "Boris",
       "url": "https://open.spotify.com/track/1rfSdNJodNnBxLlPok0YFB"
@@ -611,7 +608,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2022-12-08",
       "duration_ms": 251692,
       "name": "Coming of Age (demo)",
       "url": "https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN"
@@ -1992,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Gamble for a Rose",
+        "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
+      },
+      "artists": [
+        {
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242253,
+      "name": "Loose Change for the Boatman",
+      "url": "https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl"
+    },
+    {
+      "album": {
         "name": "Lost It All",
         "url": "https://open.spotify.com/album/26TDhagwH7yap92e04ObFu"
       },
@@ -2536,6 +2551,36 @@
     },
     {
       "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251469,
+      "name": "Salt In The Wound",
+      "url": "https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI"
+    },
+    {
+      "album": {
         "name": "Fall Forever",
         "url": "https://open.spotify.com/album/7hPVqeniaW7KBITPBam9If"
       },
@@ -2601,10 +2646,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 266277,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6"
+    },
+    {
+      "album": {
+        "name": "Love and War",
+        "url": "https://open.spotify.com/album/5pt1GAcmsDuMUXgelOQYXA"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266277,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/4PJ7UxGTWvLLbNBn75fcx6"
     },
     {
       "album": {
@@ -2709,7 +2772,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2023-01-28",
       "duration_ms": 362280,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH"

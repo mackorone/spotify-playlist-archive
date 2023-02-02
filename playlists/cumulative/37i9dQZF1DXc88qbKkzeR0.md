@@ -4,7 +4,7 @@
 
 > Songs for your villain era, curated by Jenn Robinson, Camila Mendes & Maya Hawke\. Watch Do Revenge on Netflix.
 
-77 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/0apMnsLqqy4OYzTgiQlxlm)
+78 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2022-07-22 | 2022-09-17 |
 | [Slut Pop](https://open.spotify.com/track/5GUz1LkyUwjMxC5aC1H5zW) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:57 | 2022-09-16 |  |
 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 | 2022-09-16 |  |
-| [The Devil](https://open.spotify.com/track/0RVmQhPYqnyCGzIPo6K5cs) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/0YM67c7AYsZkvCSpPoYrFJ) | 2:47 | 2022-09-16 |  |
+| [The Devil](https://open.spotify.com/track/0RVmQhPYqnyCGzIPo6K5cs) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/0YM67c7AYsZkvCSpPoYrFJ) | 2:47 | 2022-09-16 | 2022-12-01 |
+| [The Devil](https://open.spotify.com/track/2V42gWdGouZxx742zdv8Pa) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 2:47 | 2022-09-16 |  |
 | [The Zombie Song](https://open.spotify.com/track/2bfNnO1OpLCxaDR73phdMk) | [Stephanie Mabey](https://open.spotify.com/artist/11ymgw8TwTMPeYllQ6V1uw) | [Wake Up Dreaming](https://open.spotify.com/album/2xbFouhkVLqxXMGEXYPFMj) | 2:52 | 2022-07-22 | 2022-09-17 |
 | [THIQUE](https://open.spotify.com/track/1LCm0lFnEsxR2oPqyHLGX9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:04 | 2022-09-16 |  |
 | [This Hell](https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Hell](https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E) | 3:56 | 2022-09-16 |  |

@@ -4,7 +4,7 @@
 
 > The best of the band's 8 albums!
 
-37 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/5w0INJO3trLuRKDnmfWpXK)
+37 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

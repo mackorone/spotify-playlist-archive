@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,698 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,233 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 46 | [Tunnels and Lines](https://open.spotify.com/track/0wI6oSiCPq1nfG0vvUPX1r) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Ocha Scores](https://open.spotify.com/album/5neD4cM7aAEPaSv0pTDPZF) | 4:10 |
 | 47 | [Wheels Keep Spinning](https://open.spotify.com/track/0FJNcwBAZ6zjGkJ6FjbHgG) | [Danny Brooks](https://open.spotify.com/artist/3iy0FX1d73IIAJx99mwB3h) | [It's A Southern Thing](https://open.spotify.com/album/4GhLVSMBnTsBqZStcVQOgq) | 4:08 |
 | 48 | [Coming Home](https://open.spotify.com/track/5RKk9BhJeZeLOmrMIingqX) | [Dove Pilot](https://open.spotify.com/artist/1sVhgq2Yf3CltNQZUdlmgz) | [Dove Pilot](https://open.spotify.com/album/3V7iGGN7jMnbxQpEnOrXf9) | 5:11 |
-| 49 | [Give It Hell](https://open.spotify.com/track/3zLorBeTEnHM5UBd8HuCEd) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2P2XnrV9VnGxJ0UqHNxt4E) | 3:24 |
+| 49 | [Give It Hell](https://open.spotify.com/track/06FU6MJmk3cGUt4SVKzWKo) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:24 |
 | 50 | [Love You Like I Do](https://open.spotify.com/track/4P3P15yCJAedEeE4KsDoc1) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Fallen Paradise](https://open.spotify.com/album/0Pq2CJXepTD3Tbl9jXhlhu) | 3:54 |
 | 51 | [Rings Around My Father's Eyes](https://open.spotify.com/track/3HHwfzYgE2s2fkbTjqGMjB) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:17 |
 | 52 | [What Dreams Are Made Of](https://open.spotify.com/track/4kU3W9CBmw5s7f5R5A8Axt) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [MOJO](https://open.spotify.com/album/1xtL6ok6dwZ473pkdzgUy2) | 4:25 |
@@ -177,7 +177,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 167 | [Sweet End](https://open.spotify.com/track/5neux3Gz5ESJDleVirL1ty) | [Five2](https://open.spotify.com/artist/5A2U6dOsmXhurD2wpZbq1y) | [Sweet End](https://open.spotify.com/album/2z4s4RbhI3h2JUiMdi0XOW) | 3:59 |
 | 168 | [Universe](https://open.spotify.com/track/0E9dqD4PX6NyFjRm6qy67F) | [Sounding Arrow](https://open.spotify.com/artist/1NsbPxBRY1cYkn0cqcxkqv) | [Loving Is Breathing](https://open.spotify.com/album/3Oi2YStTUttHxi5ms89xCm) | 4:36 |
 | 169 | [Someone Someday](https://open.spotify.com/track/05Bd4QYgCLBbEq8BFn1YkF) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Someone Someday](https://open.spotify.com/album/1j1ytVFYpziu8soc3Aicmu) | 3:17 |
-| 170 | [Ode to LBC](https://open.spotify.com/track/0QgPqgtkywb0VNkaQFHAle) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [dear april, ily \(deluxe\)](https://open.spotify.com/album/32qamHYrNoKgBjrzzjK68u) | 3:03 |
+| 170 | [Ode to LBC](https://open.spotify.com/track/0NA4W3IO9LNJ0s5KRIM3FB) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [dear april, ily \(deluxe\)](https://open.spotify.com/album/1oQ8HKieZSMapORo82MC6i) | 3:03 |
 | 171 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/6cLEpgDcEldV1n9gusHQUX) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 3:16 |
 | 172 | [Take Me Apart](https://open.spotify.com/track/5Vklvoh0PmgKfekJyVadFs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Take Me Apart](https://open.spotify.com/album/0AKeQGFy4FxMEaE6yS65bY) | 4:00 |
 | 173 | [Straight from the Bottle](https://open.spotify.com/track/071AeB0CZLEwgZlRN1ORsP) | [Cree Rider Family Band](https://open.spotify.com/artist/3XRXBKYzi8ShXOANoYJb1p) | [One Night Stand](https://open.spotify.com/album/0Sd1LEIYbTtnXQKrq68GEk) | 3:43 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDAyMzc5OGRlYzVhZDZlZjI2ZGFkYTJiZDllMzE1YjUy`
+Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDM5M2I5NDMyNGNhOGU4OTViMjNlZmMxNjQxNWU2ZTg3`

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Kids music the whole family can enjoy. Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!",
+  "description": "Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!",
   "name": "Kids Music",
-  "published_playlist_ids": [
-    "1xwqNtCgsi5kgP4g07FmIb"
-  ],
   "tracks": [
     {
       "album": {
@@ -103,6 +100,28 @@
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
+    },
+    {
+      "album": {
+        "name": "School of Rock (Original Music from the Series)",
+        "url": "https://open.spotify.com/album/3SsHDfRaZOQqsnEYudPV4C"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "School of Rock Cast",
+          "url": "https://open.spotify.com/artist/4K0OM7fVHVhfMNfMklEwaa"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116215,
+      "name": "Are You Ready To Rock",
+      "url": "https://open.spotify.com/track/68uRn5hfyRhOGTdf2qYSLL"
     },
     {
       "album": {
@@ -269,7 +288,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 152201,
       "name": "Disney Junior Trick or Treats - From \"Disney Junior Music: Trick or Treats\"",
       "url": "https://open.spotify.com/track/4y7dTEcqzOdEQ34jL2ZT3p"
@@ -440,6 +459,42 @@
     },
     {
       "album": {
+        "name": "Hacky Smacky (Brush Your Teeth)",
+        "url": "https://open.spotify.com/album/6HOk99up52yxXcBOmi3mgo"
+      },
+      "artists": [
+        {
+          "name": "Hooray Kids Songs",
+          "url": "https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132471,
+      "name": "Hacky Smacky (Brush Your Teeth)",
+      "url": "https://open.spotify.com/track/5rW7P3ZeKvQpJ09tSAfDLQ"
+    },
+    {
+      "album": {
+        "name": "Songs for Kids: Classic Children's Music",
+        "url": "https://open.spotify.com/album/6oqSFrJ6Et7ZOkV7VVjthq"
+      },
+      "artists": [
+        {
+          "name": "Toddler Tunes",
+          "url": "https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83291,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/5FrKs0gJEathso1k99PiO5"
+    },
+    {
+      "album": {
         "name": "Here Comes Pippi Longstocking",
         "url": "https://open.spotify.com/album/6KCRazFgI6ZQKpVx42Lt7K"
       },
@@ -459,6 +514,24 @@
       "duration_ms": 70453,
       "name": "Here Comes Pippi Longstocking",
       "url": "https://open.spotify.com/track/1l7uz7c4VBx97DdlerRmeU"
+    },
+    {
+      "album": {
+        "name": "Blue's Clues & You Nursery Rhymes Vol. 3",
+        "url": "https://open.spotify.com/album/5XYfTCPyoRNRMBfyRnyQEK"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/5MJaz1QTEavuAgzDf3T5rB"
     },
     {
       "album": {
@@ -561,6 +634,42 @@
       "duration_ms": 135671,
       "name": "If I Were In Your Shoes",
       "url": "https://open.spotify.com/track/1DysowdsvK9Ol0znKuJnFE"
+    },
+    {
+      "album": {
+        "name": "Snow Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xwyAIxnln2pl0fus9a0tH"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111553,
+      "name": "It's A Snow Day",
+      "url": "https://open.spotify.com/track/2XO6U3D3h3dnlEMq9jp6zy"
+    },
+    {
+      "album": {
+        "name": "Songs for Kids: Classic Children's Music",
+        "url": "https://open.spotify.com/album/6oqSFrJ6Et7ZOkV7VVjthq"
+      },
+      "artists": [
+        {
+          "name": "Toddler Tunes",
+          "url": "https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 137454,
+      "name": "Itsy Bitsy Spider",
+      "url": "https://open.spotify.com/track/2t03vqSeWEX0HjtdozYSpr"
     },
     {
       "album": {
@@ -797,7 +906,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 126144,
       "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
@@ -1226,6 +1335,28 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124899,
+      "name": "SuperKitty Call",
+      "url": "https://open.spotify.com/track/7sNz8djgmg2wkZMN9ozQPv"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -1259,7 +1390,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 146252,
       "name": "The Aquathawn",
       "url": "https://open.spotify.com/track/1HPcXGieyMTYa1ZSbpHEWy"
@@ -1285,6 +1416,24 @@
       "duration_ms": 129045,
       "name": "The Doc Is 10 - From \"Disney Junior Music: Doc McStuffins\"",
       "url": "https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w"
+    },
+    {
+      "album": {
+        "name": "The Fairly Odd Parents",
+        "url": "https://open.spotify.com/album/0TNzN5F4lsxUfnvFBcjI2E"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46114,
+      "name": "The Fairly Odd Parents Theme Song",
+      "url": "https://open.spotify.com/track/4yghJ7WGLIOMFbV70QRYKE"
     },
     {
       "album": {
@@ -1486,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "United By The Music",
+        "url": "https://open.spotify.com/album/3c6SLwBHPH8924a24k0x6I"
+      },
+      "artists": [
+        {
+          "name": "THE SQUISH",
+          "url": "https://open.spotify.com/artist/3dM3C9jKAKYR94VMlQJoeP"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "United By The Music",
+      "url": "https://open.spotify.com/track/5UnQqP50CLu6Rlzw27S2mI"
+    },
+    {
+      "album": {
         "name": "Until I Found You",
         "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
       },
@@ -1537,6 +1704,24 @@
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "album": {
+        "name": "Wash Us",
+        "url": "https://open.spotify.com/album/2hV7tkmF3ljKM0cHMFn3rl"
+      },
+      "artists": [
+        {
+          "name": "Hooray Kids Songs",
+          "url": "https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145587,
+      "name": "Wash Us",
+      "url": "https://open.spotify.com/track/2MNvaRGBl9sLGxP1VKNUQT"
     },
     {
       "album": {

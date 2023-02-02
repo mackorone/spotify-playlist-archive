@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PERSES",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PRETZELLE",
   "name": "T-Pop Now",
-  "published_playlist_ids": [
-    "46jC5TDLIJijd5c6Z3EIRR"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,7 +56,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 215593,
       "name": "17 \u0e19\u0e32\u0e17\u0e35",
       "url": "https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J"
@@ -548,6 +545,24 @@
     },
     {
       "album": {
+        "name": "JUST DANCE",
+        "url": "https://open.spotify.com/album/6l64wDsFlpzZsQvtWjqDfs"
+      },
+      "artists": [
+        {
+          "name": "bXd",
+          "url": "https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212343,
+      "name": "JUST DANCE",
+      "url": "https://open.spotify.com/track/0yk8huYYGt1SHHxlI8hnGc"
+    },
+    {
+      "album": {
         "name": "Last Train",
         "url": "https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G"
       },
@@ -607,6 +622,46 @@
       "duration_ms": 182125,
       "name": "Melbourne",
       "url": "https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ"
+    },
+    {
+      "album": {
+        "name": "Mr. Everything",
+        "url": "https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Mr. Everything",
+      "url": "https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC"
+    },
+    {
+      "album": {
+        "name": "My Ecstasy (feat. D GERRARD)",
+        "url": "https://open.spotify.com/album/4Nfh20acMhUJd6pXWursAY"
+      },
+      "artists": [
+        {
+          "name": "BRIGHT",
+          "url": "https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt"
+        },
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "My Ecstasy",
+      "url": "https://open.spotify.com/track/1adZCcp1Zd0hCLwh6X2Oym"
     },
     {
       "album": {
@@ -715,6 +770,24 @@
       "duration_ms": 163200,
       "name": "Peek",
       "url": "https://open.spotify.com/track/2bcfJ1aSghqIDwA4corfW2"
+    },
+    {
+      "album": {
+        "name": "Pom Pom",
+        "url": "https://open.spotify.com/album/1GOElDaXMy5zfUGpmtDfGo"
+      },
+      "artists": [
+        {
+          "name": "Fyeqoodgurl",
+          "url": "https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Pom Pom",
+      "url": "https://open.spotify.com/track/6TMKYVnwMJDHDnkyFm2OgL"
     },
     {
       "album": {
@@ -867,7 +940,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 207073,
       "name": "SuperCarCare",
       "url": "https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r"
@@ -907,6 +980,24 @@
       "duration_ms": 194307,
       "name": "U can't hurt me no more",
       "url": "https://open.spotify.com/track/7MF3ugIgl06Fi8CX5NKA4m"
+    },
+    {
+      "album": {
+        "name": "While We\u2019re Young",
+        "url": "https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc"
+      },
+      "artists": [
+        {
+          "name": "LUSS",
+          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 204705,
+      "name": "While We\u2019re Young",
+      "url": "https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4"
     },
     {
       "album": {
@@ -957,7 +1048,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 240500,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e01\u0e48\u0e2d\u0e19\u0e19\u0e30 (GOODBYE)",
       "url": "https://open.spotify.com/track/7EtCnq7brD1RU8ldqKWB0I"
@@ -1210,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19 \u0e04\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/7jarLJFZP27N4t7GpQ73DU"
+      },
+      "artists": [
+        {
+          "name": "Kaew Natruja",
+          "url": "https://open.spotify.com/artist/3T6wkzov42KuhYFCqUnhL0"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 236470,
+      "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19 \u0e04\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/0fvvyqCcC852NNvxYa0Yiq"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e19\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e42\u0e04\u0e23\u0e40\u0e27\u0e1f (microwave)",
         "url": "https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ"
       },
@@ -1423,7 +1532,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 202000,
       "name": "\u0e04\u0e38\u0e22\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e40\u0e01\u0e48\u0e07",
       "url": "https://open.spotify.com/track/4DqaFHKqAsnBn9DfLWhRpW"
@@ -1604,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "kiddorecords D-SUEM-BLUR",
+        "url": "https://open.spotify.com/album/74l8lgDRag1rBUvsyB0eQp"
+      },
+      "artists": [
+        {
+          "name": "Porch Pathaseth",
+          "url": "https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 176000,
+      "name": "\u0e08\u0e35\u0e1a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49 - Available Now",
+      "url": "https://open.spotify.com/track/0UTKM4QrKUwNCvWUzq7E6E"
+    },
+    {
+      "album": {
         "name": "MAS[S]TERPIECE",
         "url": "https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2"
       },
@@ -1735,6 +1862,24 @@
       "duration_ms": 192559,
       "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e48\u0e30\u0e40\u0e19\u0e35\u0e48\u0e22 (Can I Call You Mine)",
       "url": "https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb"
+    },
+    {
+      "album": {
+        "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e49\u0e30 (U like it?)",
+        "url": "https://open.spotify.com/album/0JUFTGeAGPVoEFzNIzs04Z"
+      },
+      "artists": [
+        {
+          "name": "Bean Napason",
+          "url": "https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 196893,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e49\u0e30 (U like it?)",
+      "url": "https://open.spotify.com/track/7yXuMQovK5W52TiPFEKWqy"
     },
     {
       "album": {
@@ -1927,7 +2072,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 230078,
       "name": "\u0e15\u0e30\u0e40\u0e01\u0e35\u0e22\u0e07\u0e27\u0e34\u0e40\u0e28\u0e29 (One Wish)",
       "url": "https://open.spotify.com/track/5MHTuKhXrorETiHPktRrBv"
@@ -2104,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e01\u0e47\u0e23\u0e31\u0e01\u0e44\u0e1b\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/7IGF03KO1vRanMOaROicVI"
+      },
+      "artists": [
+        {
+          "name": "GoyNattyDream",
+          "url": "https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224810,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e31\u0e01\u0e01\u0e47\u0e23\u0e31\u0e01\u0e44\u0e1b\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/0n325RDOa9owgXvUtuxlO7"
+    },
+    {
+      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e08\u0e23\u0e34\u0e07",
         "url": "https://open.spotify.com/album/1bDTHuznOFJ3s3fZEqEaGp"
       },
@@ -2242,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Unnoticed)",
+        "url": "https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266470,
+      "name": "\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Unnoticed)",
+      "url": "https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ"
+    },
+    {
+      "album": {
         "name": "Cigarette Candy & Vanilla Sky",
         "url": "https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu"
       },
@@ -2329,7 +2510,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 182500,
       "name": "\u0e19\u0e31\u0e01\u0e41\u0e2a\u0e14\u0e07\u0e17\u0e48\u0e32\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07",
       "url": "https://open.spotify.com/track/1bOp9fTreRtgduisx31YZc"
@@ -2351,6 +2532,24 @@
       "duration_ms": 226981,
       "name": "\u0e19\u0e34\u0e19\u0e08\u0e32",
       "url": "https://open.spotify.com/track/6MySIb6kDy1Qedt2sANIYW"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e0a\u0e34\u0e1a\u0e1b\u0e38\u0e4b\u0e07 Feat.SPRITE",
+        "url": "https://open.spotify.com/album/2bAeenjgVDSwCpEWEcnsbJ"
+      },
+      "artists": [
+        {
+          "name": "bonnadol",
+          "url": "https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216315,
+      "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e0a\u0e34\u0e1a\u0e1b\u0e38\u0e4b\u0e07 Feat.SPRITE",
+      "url": "https://open.spotify.com/track/6I3Y2cxdvLVZeLRVoB3aVG"
     },
     {
       "album": {
@@ -2770,6 +2969,28 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e01\u0e47\u0e23\u0e31\u0e01\u0e14\u0e34 (From \"Cutie Pie 2 You\")",
+        "url": "https://open.spotify.com/album/0AyEXAG2tEss8ErlR2V62p"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        },
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197684,
+      "name": "\u0e23\u0e31\u0e01\u0e01\u0e47\u0e23\u0e31\u0e01\u0e14\u0e34 - From \"Cutie Pie 2 You\"",
+      "url": "https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e02\u0e49\u0e32\u0e07\u0e40\u0e14\u0e35\u0e22\u0e27 (Falling in Love)",
         "url": "https://open.spotify.com/album/5tCQ7kmjqVm4yWM6EahkZj"
       },
@@ -2991,7 +3212,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 235227,
       "name": "\u0e25\u0e2d\u0e07\u0e04\u0e38\u0e22 (TRY)",
       "url": "https://open.spotify.com/track/4Fengh8aD0M4QLZB21nloU"
@@ -3135,7 +3356,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 250408,
       "name": "\u0e27\u0e31\u0e19\u0e04\u0e23\u0e1a\u0e40\u0e25\u0e34\u0e01 - UNNIVERSARY",
       "url": "https://open.spotify.com/track/7vUrVGEoDUfxHZFK4lDTKR"
@@ -3153,7 +3374,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 255724,
       "name": "\u0e27\u0e32\u0e14\u0e44\u0e27\u0e49 - recall",
       "url": "https://open.spotify.com/track/3FUAv32u0F64kcaaLRimPr"
@@ -3305,7 +3526,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 188000,
       "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Eyes Don\u2019t Lie)",
       "url": "https://open.spotify.com/track/3Rkt2LzmQkW2yzSM0NAZgT"
@@ -3341,7 +3562,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 220421,
       "name": "\u0e2a\u0e39\u0e49\u0e0a\u0e35\u0e27\u0e34\u0e15 \u0e41\u0e15\u0e48\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2a\u0e39\u0e49\u0e01\u0e25\u0e31\u0e1a (Hang in There!)",
       "url": "https://open.spotify.com/track/6JVtp9kQzGiCNYVpoLFILn"
@@ -3435,6 +3656,24 @@
       "duration_ms": 260440,
       "name": "\u0e2b\u0e27\u0e32\u0e19\u0e40\u0e01\u0e34\u0e19\u0e44\u0e1b Ost. \u0e01\u0e25\u0e23\u0e31\u0e01\u0e23\u0e38\u0e48\u0e19\u0e1e\u0e35\u0e48",
       "url": "https://open.spotify.com/track/3skROEFEL3UCMfHrYje0F0"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/4Fdzbc9iDgLCyRctS1R5g6"
+      },
+      "artists": [
+        {
+          "name": "Proo Thunwa",
+          "url": "https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 211836,
+      "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/6Mr7XbwIKjbpTRofrDegVB"
     },
     {
       "album": {
@@ -3605,6 +3844,24 @@
       "duration_ms": 238000,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (repeat)",
       "url": "https://open.spotify.com/track/1E0waZD9GmD0SkbEhk19J4"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e14\u0e37\u0e49\u0e2d\u0e14\u0e34 (Kissed)",
+        "url": "https://open.spotify.com/album/3ypShxK5YV0oVRpC0Tl7N9"
+      },
+      "artists": [
+        {
+          "name": "Marc Tatchapon",
+          "url": "https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e14\u0e37\u0e49\u0e2d\u0e14\u0e34 - Kissed",
+      "url": "https://open.spotify.com/track/0G7rz6YlugHKHUKRtxhpvO"
     },
     {
       "album": {
@@ -3781,7 +4038,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 155156,
       "name": "\u0e40\u0e02\u0e35\u0e22\u0e19\u0e25\u0e07\u0e15\u0e23\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e31\u0e14\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e22\u0e31\u0e22\u0e0b\u0e38\u0e1b\u0e15\u0e32\u0e23\u0e4c \u0e0a\u0e48\u0e2d\u0e07 3",
       "url": "https://open.spotify.com/track/0eJtchpMPXDavVyfyepMog"
@@ -3839,6 +4096,24 @@
       "duration_ms": 255308,
       "name": "\u0e40\u0e08\u0e47\u0e1a\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/0h2d6neCSNxF2bJPxOJubF"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e08\u0e47\u0e1a\u0e19\u0e30 (Hurt me)",
+        "url": "https://open.spotify.com/album/2a5dt0twdrfVYEdJAff5Ay"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 240833,
+      "name": "\u0e40\u0e08\u0e47\u0e1a\u0e19\u0e30 (Hurt me)",
+      "url": "https://open.spotify.com/track/0K5jkka7iP8dlFi0as6Jh8"
     },
     {
       "album": {
@@ -4116,6 +4391,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e43\u0e2b\u0e21\u0e48 (One More Chance)",
+        "url": "https://open.spotify.com/album/3dUIovhnjUOUA7CCqwvkMd"
+      },
+      "artists": [
+        {
+          "name": "WIN METAWIN",
+          "url": "https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 238356,
+      "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e43\u0e2b\u0e21\u0e48 (One More Chance)",
+      "url": "https://open.spotify.com/track/0y2YB7eptCx1NyV52Uu1i1"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e15\u0e31\u0e27\u0e40\u0e25\u0e47\u0e01 (Chob Kub Khun)",
         "url": "https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI"
       },
@@ -4203,7 +4496,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 216734,
       "name": "\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e44\u0e21\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e07 - Hermionong",
       "url": "https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7"
@@ -4814,6 +5107,28 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e01\u0e31\u0e4a\u0e01\u0e2b\u0e23\u0e2d\u0e01 (Unlimited)",
+        "url": "https://open.spotify.com/album/5EpuJLJG6Y9oiN037ZKzye"
+      },
+      "artists": [
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        },
+        {
+          "name": "54 Entertainment Trainees",
+          "url": "https://open.spotify.com/artist/6douJMquLUNMd7wp0P1esZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 211138,
+      "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e01\u0e31\u0e4a\u0e01\u0e2b\u0e23\u0e2d\u0e01 (Unlimited)",
+      "url": "https://open.spotify.com/track/4rU6bimKj6hJFFKRd3iiGz"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e22\u0e34\u0e19\u0e14\u0e35",
         "url": "https://open.spotify.com/album/0Ifu2SC417RilqteSg2vns"
       },
@@ -4829,6 +5144,24 @@
       "duration_ms": 233317,
       "name": "\u0e44\u0e21\u0e48\u0e22\u0e34\u0e19\u0e14\u0e35",
       "url": "https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2b\u0e47\u0e19\u0e15\u0e48\u0e32\u0e07 (U R Mine)",
+        "url": "https://open.spotify.com/album/6msk0pybxXr877JwlHb7LA"
+      },
+      "artists": [
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202038,
+      "name": "\u0e44\u0e21\u0e48\u0e23\u0e31\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2b\u0e47\u0e19\u0e15\u0e48\u0e32\u0e07 (U R Mine)",
+      "url": "https://open.spotify.com/track/3v5t1e2XeLtJoZDENzdanb"
     },
     {
       "album": {
@@ -4883,6 +5216,24 @@
       "duration_ms": 218750,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e01\u0e23\u0e07\u0e43\u0e08\u0e09\u0e31\u0e19\u0e01\u0e47\u0e40\u0e01\u0e23\u0e07\u0e43\u0e08\u0e41\u0e1f\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/7xbsVR2KSzNXYkbLDTVvW0"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23\u0e21\u0e31\u0e49\u0e07 (Original Soundtrack From \"\u0e27\u0e38\u0e48\u0e19\u0e23\u0e31\u0e01\u0e19\u0e31\u0e01\u0e08\u0e34\u0e49\u0e19 Why You Y Me?)",
+        "url": "https://open.spotify.com/album/2SqMKNybQ7DV7hJ0gqwn5R"
+      },
+      "artists": [
+        {
+          "name": "Jump Pisitpol",
+          "url": "https://open.spotify.com/artist/7nbtiYrwbJ3mJXaSdZwnmD"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 221686,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23\u0e21\u0e31\u0e49\u0e07 - Original Soundtrack From \"\u0e27\u0e38\u0e48\u0e19\u0e23\u0e31\u0e01\u0e19\u0e31\u0e01\u0e08\u0e34\u0e49\u0e19 Why You Y Me?",
+      "url": "https://open.spotify.com/track/1pxrSbfXB51N5WRoSHZAX5"
     },
     {
       "album": {

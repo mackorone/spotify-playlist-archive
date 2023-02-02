@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 301330,
+  "num_followers": 319396,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MzA5NiwwMDAwMDAwMDM4ZDQyYTgwMDVjZGZkZTA2Zjg4ZjVlN2Y2ZDZkNTE2",
+  "snapshot_id": "MTY2MjY1MzA5NiwwMDAwMDAwMGJmODRkYmQyMzEwNWQ2OGQ2OGZmYWE3YzBmYmU0YjU5",
   "tracks": [
     {
       "added_at": "2022-09-08 16:04:56",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "Everybody Loves Somebody",
-        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Everybody Loves Somebody",
-      "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
         "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
         "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
@@ -207,22 +191,6 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
-      },
-      "artists": [
-        {
-          "name": "The Ink Spots",
-          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "I Don't Want To Set The World On Fire",
-      "url": "https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -235,6 +203,22 @@
       "duration_ms": 196840,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Everybody Loves Somebody",
+        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Everybody Loves Somebody",
+      "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -255,18 +239,18 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "The Ink Spots",
+          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
         }
       ],
-      "duration_ms": 151866,
-      "name": "What A Diff'rence A Day Made",
-      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
+      "duration_ms": 181066,
+      "name": "I Don't Want To Set The World On Fire",
+      "url": "https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -287,6 +271,38 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "What A Diff'rence A Day Made",
+      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -299,6 +315,22 @@
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Moon River And Other Great Movie Themes",
+        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "Moon River (From \"Breakfast at Tiffany's\")",
+      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -331,38 +363,6 @@
       "duration_ms": 141133,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Moon River And Other Great Movie Themes",
-        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 162893,
-      "name": "Moon River (From \"Breakfast at Tiffany's\")",
-      "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -407,6 +407,74 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 149826,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
+        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
         "name": "Rarities, Outtakes & Other Delights, Vol. 2",
         "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
       },
@@ -432,157 +500,9 @@
           "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 149826,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
-        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Dick Stabile And His Orchestra",
-          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "It's Always You - Vocal Version",
-      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Comin' Home Baby",
-        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Comin' Home Baby",
-      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
       "duration_ms": 178573,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "The Stardust Road",
-        "url": "https://open.spotify.com/album/1e1zz72xREdXtdedgG8EDx"
-      },
-      "artists": [
-        {
-          "name": "Hoagy Carmichael",
-          "url": "https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk"
-        }
-      ],
-      "duration_ms": 146346,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/0VX8ptOQhUt1SIOHYLZGNN"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "I Left My Heart In San Francisco",
-        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 170960,
-      "name": "(I Left My Heart) In San Francisco",
-      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -603,18 +523,18 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "In The Wee Small Hours",
-        "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 180933,
-      "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
-      "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
+      "duration_ms": 215466,
+      "name": "It's Always You - Vocal Version",
+      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -635,6 +555,70 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 170960,
+      "name": "(I Left My Heart) In San Francisco",
+      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "In The Wee Small Hours",
+        "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
+      "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "The Stardust Road",
+        "url": "https://open.spotify.com/album/1e1zz72xREdXtdedgG8EDx"
+      },
+      "artists": [
+        {
+          "name": "Hoagy Carmichael",
+          "url": "https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk"
+        }
+      ],
+      "duration_ms": 146346,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/0VX8ptOQhUt1SIOHYLZGNN"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 165973,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "It's Impossible",
+        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "And I Love You So",
+      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -683,34 +683,18 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "It's Impossible",
-        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 197626,
-      "name": "And I Love You So",
-      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 216573,
+      "duration_ms": 179373,
       "name": "Misty",
-      "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
+      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -747,18 +731,18 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+        "name": "Oh! Look At Me Now",
+        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 196666,
-      "name": "Someone To Watch Over Me",
-      "url": "https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X"
+      "duration_ms": 138600,
+      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
+      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -779,18 +763,50 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "Oh! Look At Me Now",
-        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
         }
       ],
-      "duration_ms": 138600,
-      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
-      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
+      "duration_ms": 216573,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Moon River And Other Great Movie Themes",
+        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 154866,
+      "name": "A Summer Place",
+      "url": "https://open.spotify.com/track/71kwIDWJ0xClRjxvIey6D0"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
+        "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 160946,
+      "name": "It's A Lovely Day Today",
+      "url": "https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -807,22 +823,6 @@
       "duration_ms": 204133,
       "name": "Tea For Two",
       "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
-        "name": "Hello Young Lovers",
-        "url": "https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Durante",
-          "url": "https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "The Glory of Love",
-      "url": "https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u"
     }
   ],
   "unique_name": "Crooner Classics",

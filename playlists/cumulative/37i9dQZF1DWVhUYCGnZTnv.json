@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Your very own time capsule: a nostalgic look back on the past four years.",
   "name": "CLASS OF 2020 mixtape",
-  "published_playlist_ids": [
-    "5GkdXPgZsfNNV4RjJ3N95k"
-  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +50,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 250173,
       "name": "1-800-273-8255",
       "url": "https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV"
@@ -535,10 +532,32 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
     },
     {
       "album": {
@@ -879,6 +898,24 @@
       "duration_ms": 179172,
       "name": "bellyache",
       "url": "https://open.spotify.com/track/51NFxnQvaosfDDutk0tams"
+    },
+    {
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262231,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
     },
     {
       "album": {
@@ -1617,7 +1654,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 177184,
       "name": "Chill Bill (feat. J. Davi$ & Spooks)",
       "url": "https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp"
@@ -2537,7 +2574,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
@@ -2571,7 +2608,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
@@ -3373,7 +3410,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 267066,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
@@ -4239,7 +4276,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
@@ -4355,7 +4392,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 275080,
       "name": "Love Galore (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
@@ -5112,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219159,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
+    },
+    {
+      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -5243,7 +5298,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 210746,
       "name": "Nice For What",
       "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
@@ -5867,7 +5922,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 249213,
       "name": "Party Monster",
       "url": "https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt"
@@ -6674,6 +6729,24 @@
     },
     {
       "album": {
+        "name": "Come Over When You're Sober, Pt. 1",
+        "url": "https://open.spotify.com/album/6GkrA9XjOpEFkep0TIfFB8"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231546,
+      "name": "Save That Shit",
+      "url": "https://open.spotify.com/track/64PgpLHuQK3UJ5qZ875Vei"
+    },
+    {
+      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
@@ -7251,7 +7324,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 190288,
       "name": "Stir Fry",
       "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
@@ -7927,7 +8000,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
@@ -8571,7 +8644,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 276147,
       "name": "Walk It Talk It",
       "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
@@ -8875,7 +8948,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"

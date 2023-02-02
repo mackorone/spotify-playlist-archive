@@ -4,7 +4,7 @@
 
 > Grab your food, turn on the easy hip\-hop and enjoy.
 
-23 songs - 1 hr 32 min - [published](https://open.spotify.com/playlist/36NF6IDNnG06iOciCJdC6P)
+23 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

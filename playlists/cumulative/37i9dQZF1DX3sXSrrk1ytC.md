@@ -4,7 +4,7 @@
 
 > Feel energized with classic Pop and Rock.
 
-48 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/5NLIi6b1jj5pLOk4OhDpvU)
+48 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

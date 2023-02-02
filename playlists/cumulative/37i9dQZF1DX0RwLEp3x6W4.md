@@ -4,7 +4,7 @@
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems\. Cover: Hazel Dickens & Alice Gerrard
 
-87 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/07yp3lWFtNeOSgqePmPMKz)
+87 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,9 @@
 | [High on the Mountain](https://open.spotify.com/track/3H88Mnt8OpEVKqtFK4VvLt) | [Ola Belle Reed](https://open.spotify.com/artist/0jUzzv49Ke4m0qqcuudBsw), [David Reed](https://open.spotify.com/artist/3aPOHzWoJLndm8DWc66g8r) | [Rising Sun Melodies](https://open.spotify.com/album/1oAai33BPMT0OdEWNdJEHB) | 3:06 | 2018-04-04 |  |
 | [Home to the Mountains](https://open.spotify.com/track/57sK732mNfISkoPhiHVlfc) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 3:24 | 2022-10-07 | 2022-10-14 |
 | [Home to the Mountains](https://open.spotify.com/track/7MXx4m8ZMEK1lY5rhNlIkJ) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6jqh9xProzlkcBe2KEtNR7) | 3:24 | 2022-10-07 |  |
+| [How Mountain Girls Can Love](https://open.spotify.com/track/6HoK2GX9eOU256CMrIUowb) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [The Stanley Brothers In Person](https://open.spotify.com/album/0xMFn5gLOTDF70vZH9b2Kz) | 2:04 | 2018-04-04 |  |
 | [How Mountain Girls Can Love](https://open.spotify.com/track/3h4ZRO4FPpK53fOYLVZOxJ) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [The Stanley Brothers And The Clinch Mountain Boys](https://open.spotify.com/album/4g3jAc1BMq3LCl0YuY6Asz) | 2:07 | 2018-04-04 | 2022-07-29 |
 | [How Mountain Girls Can Love](https://open.spotify.com/track/5Q8WL1D8GwJThft1zogNQB) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Best Of The Best](https://open.spotify.com/album/3VI5iieIzI6cSQdPmb9JJW) | 2:08 | 2022-10-07 | 2022-11-13 |
-| [How Mountain Girls Can Love \- Original Gusto Recordings](https://open.spotify.com/track/6HoK2GX9eOU256CMrIUowb) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [The Stanley Brothers In Person \(Original Gusto Recordings\)](https://open.spotify.com/album/0xMFn5gLOTDF70vZH9b2Kz) | 2:04 | 2018-04-04 |  |
 | [I Get My Whiskey From Rockingham](https://open.spotify.com/track/4cflYCggviRhnRG5S7imFv) | [Earl Johnson](https://open.spotify.com/artist/5gQB55Wng31KUOSUFQHkBM) | [Earl Johnson Vol\. 1 1927](https://open.spotify.com/album/3Rzrkz2HjdEApCXVeO1KoO) | 3:01 | 2018-04-04 |  |
 | [I Know You're Married](https://open.spotify.com/track/5Svt17d1PY8BXsENcIZ3Ae) | [Reno & Smiley](https://open.spotify.com/artist/3dj0KjG7ZqNbMfbe2BVI4H) | [16 Greatest Hits](https://open.spotify.com/album/6GETKavSJG8YWPEUBYmyQR) | 2:37 | 2018-04-04 | 2022-07-29 |
 | [I Know You're Married](https://open.spotify.com/track/2occZs95OdLL3jRwEcFfAB) | [Reno & Smiley](https://open.spotify.com/artist/3dj0KjG7ZqNbMfbe2BVI4H) | [The Talk Of The Town](https://open.spotify.com/album/5Snxdedm4EKPjcAD5u0dpX) | 2:37 | 2018-04-04 |  |
@@ -88,7 +88,7 @@
 | [Trail Of Sorrow](https://open.spotify.com/track/5auPuadXQe10VNd2eGa5AO) | [Reno & Smiley](https://open.spotify.com/artist/3dj0KjG7ZqNbMfbe2BVI4H) | [16 Greatest Hits](https://open.spotify.com/album/2TKhTZX3zVdyycpCnmRdiu) | 2:18 | 2022-10-07 | 2022-11-14 |
 | [Trail Of Sorrow](https://open.spotify.com/track/5UK4j1axMzwv8W6Cn1GqRp) | [Reno & Smiley](https://open.spotify.com/artist/3dj0KjG7ZqNbMfbe2BVI4H) | [Early Years 1951\-1959 \- Volume 2](https://open.spotify.com/album/2prMM8p2294Fa1bikOWQPZ) | 2:19 | 2018-04-04 |  |
 | [Train on the Island](https://open.spotify.com/track/5uI7caUGXYxH6pYhkRxq1z) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 1:44 | 2018-04-04 |  |
-| [Weepin' Willow \- Original Gusto Recordings](https://open.spotify.com/track/6o8InB6SL9tpBW77B6JJcR) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Sing Everybody's Country Favorites \(Original Gusto Recordings\)](https://open.spotify.com/album/7IjHhe8xyf2H4JLCqbOoLJ) | 2:23 | 2018-04-04 |  |
+| [Weepin' Willow](https://open.spotify.com/track/6o8InB6SL9tpBW77B6JJcR) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Sing Everybody's Country Favorites](https://open.spotify.com/album/7IjHhe8xyf2H4JLCqbOoLJ) | 2:23 | 2018-04-04 |  |
 | [What Would You Give In Exchange](https://open.spotify.com/track/4HW9cnF8pDl6WgK4g9cfij) | [The Monroe Brothers](https://open.spotify.com/artist/4eaGB6IFAhm0pqXElO5MJZ) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 3:09 | 2018-04-04 |  |
 | [Where The Soul Never Dies](https://open.spotify.com/track/4ag360fiy5rnd0cDvJTG1z) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [What A Friend We Have In Jesus](https://open.spotify.com/album/0tGWVCyoIRSGBjUVg2xQFI) | 1:31 | 2018-04-04 |  |
 | [Where The Soul Never Dies](https://open.spotify.com/track/5pcsWp9xmIWddwaONjUMdy) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [What A Friend We Have In Jesus](https://open.spotify.com/album/5MFc5Ij7yKb7sdKN0TcabB) | 1:31 | 2018-04-04 | 2022-07-29 |

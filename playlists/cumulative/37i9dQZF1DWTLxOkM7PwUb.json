@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-13",
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
   "name": "Trap Luv",
-  "published_playlist_ids": [
-    "6lpcIVeOfM0gXNeewIFzKd"
-  ],
   "tracks": [
     {
       "album": {
@@ -809,6 +806,24 @@
     {
       "album": {
         "name": "Como Estrellas",
+        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
+      },
+      "artists": [
+        {
+          "name": "LA YOUNG",
+          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Como Estrellas",
+      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
+    },
+    {
+      "album": {
+        "name": "Como Estrellas",
         "url": "https://open.spotify.com/album/0tm8uER1ZGdUFGKUg3QTud"
       },
       "artists": [
@@ -819,7 +834,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 219000,
       "name": "Como Estrellas",
       "url": "https://open.spotify.com/track/7GcN9q4AAH4uzQKvyuvByT"
@@ -1027,7 +1042,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 172803,
       "name": "Debo Cambiar (feat. KHEA)",
       "url": "https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q"
@@ -1573,7 +1588,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 269720,
       "name": "JetLag",
       "url": "https://open.spotify.com/track/3Gily4qMvAOytQ07gpHDVD"
@@ -1595,7 +1610,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 207146,
       "name": "Ke Sientes",
       "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
@@ -1705,6 +1720,24 @@
       "duration_ms": 184701,
       "name": "LADO A LADO",
       "url": "https://open.spotify.com/track/1OgQpZbKqjrkwG3wuRWnhD"
+    },
+    {
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243957,
+      "name": "Las Jordan",
+      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
     },
     {
       "album": {
@@ -1987,7 +2020,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 255080,
       "name": "Mi Llamada",
       "url": "https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE"
@@ -2257,6 +2290,32 @@
     {
       "album": {
         "name": "Nunca Me Amo",
+        "url": "https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/6jCF6MQ050engg73RJnN87"
+    },
+    {
+      "album": {
+        "name": "Nunca Me Amo",
         "url": "https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4"
       },
       "artists": [
@@ -2275,7 +2334,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 199641,
       "name": "Nunca Me Amo",
       "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
@@ -3103,10 +3162,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 187046,
       "name": "S\u00e1banas An\u00f3nimas",
       "url": "https://open.spotify.com/track/2VJ74YqEINo2GpS1b9dPpX"
+    },
+    {
+      "album": {
+        "name": "Por Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187046,
+      "name": "S\u00e1banas An\u00f3nimas",
+      "url": "https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE"
     },
     {
       "album": {
@@ -3471,7 +3548,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 181800,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp"

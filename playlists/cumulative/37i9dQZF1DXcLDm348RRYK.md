@@ -4,7 +4,7 @@
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-77 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/5hjTWJounGDY6ag6ldJKXp)
+77 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

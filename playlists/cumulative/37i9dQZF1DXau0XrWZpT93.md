@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-85 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+85 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

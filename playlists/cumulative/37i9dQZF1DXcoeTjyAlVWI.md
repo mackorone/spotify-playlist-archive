@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4YWj8sohRDjL9deiuRvEEY">Noisia</a> takes us on a retrospective journey through their mix.
 
-35 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/59fIiu6HP5xU3VF2vmMGLs)
+35 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

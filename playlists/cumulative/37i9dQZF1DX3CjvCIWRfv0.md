@@ -4,7 +4,7 @@
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-106 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/2cGfSAEa6ffV3BWAPvn5gG)
+106 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

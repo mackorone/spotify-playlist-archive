@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-01",
   "description": "\u00c9xitos rom\u00e1nticos y eternos. Foto: Alejandro Sanz",
   "name": "Hits Rom\u00e1nticos",
-  "published_playlist_ids": [
-    "0jl0XlOQEsEONv8moCpOdv"
-  ],
   "tracks": [
     {
       "album": {
@@ -785,7 +782,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
@@ -995,7 +992,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 305293,
       "name": "Como Te Recuerdo",
       "url": "https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR"
@@ -1013,7 +1010,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 237400,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/6sM2l0nxPaYvELuhzIMnoI"
@@ -1049,7 +1046,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 258093,
       "name": "Completamente Enamorados",
       "url": "https://open.spotify.com/track/1zU6PCdQxUu1tMT5xbc6x5"
@@ -1563,7 +1560,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235906,
-      "name": "Desde cuando - (iTunes exclusive)",
+      "name": "Desde cuando",
       "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
     },
     {
@@ -1777,7 +1774,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 265226,
       "name": "D\u00edgale",
       "url": "https://open.spotify.com/track/4KgcAo8wQrXexfwpIsgzLf"
@@ -1853,7 +1850,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 234773,
       "name": "El Amar y el Querer",
       "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
@@ -2251,7 +2248,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 249200,
       "name": "Enamorado de Ti",
       "url": "https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q"
@@ -2479,7 +2476,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 237373,
       "name": "Esclavo De Sus Besos",
       "url": "https://open.spotify.com/track/0srf60K7I8vK7iVCv4oGZj"
@@ -2497,7 +2494,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-20",
       "duration_ms": 279040,
       "name": "Escucha a tu coraz\u00f3n",
       "url": "https://open.spotify.com/track/7rlNIalRVbyM76fUXCfXg3"
@@ -3381,7 +3378,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 215400,
       "name": "La Nave del Olvido",
       "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
@@ -4133,7 +4130,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 223666,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
@@ -5002,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "20 -- 21",
+        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186870,
+      "name": "Pero Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/30brAfx64jxQMeUNUgDFaj"
+    },
+    {
+      "album": {
         "name": "Pero Te Conoc\u00ed",
         "url": "https://open.spotify.com/album/7nv6eLXbM7wGEXmjwh2djL"
       },
@@ -5233,7 +5248,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 244693,
       "name": "Por Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/5scw7DWTRzsKzeA05QtCQB"
@@ -6495,7 +6510,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 289600,
       "name": "Suave",
       "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
@@ -6716,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "Te Amo y Punto",
+        "url": "https://open.spotify.com/album/2docoJFd5tY0o9iqbsYhsK"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165569,
+      "name": "Te Amo y Punto",
+      "url": "https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc"
+    },
+    {
+      "album": {
         "name": "Hacia Adentro",
         "url": "https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL"
       },
@@ -6835,7 +6868,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 223786,
       "name": "Te Fuiste de Aqu\u00ed",
       "url": "https://open.spotify.com/track/0832pFK9N12P1B0nuaUb2Z"
@@ -6871,7 +6904,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-20",
       "duration_ms": 292760,
       "name": "Te Llor\u00e9 Un R\u00edo",
       "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
@@ -7269,7 +7302,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 262333,
       "name": "Tu \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
@@ -7457,7 +7490,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 210653,
       "name": "Una Mujer Como T\u00fa",
       "url": "https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh"
@@ -7529,10 +7562,32 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 175013,
       "name": "Ven Porque Te Necesito",
       "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
+    },
+    {
+      "album": {
+        "name": "Viaje a ning\u00fan lado (con Carin Leon)",
+        "url": "https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 229567,
+      "name": "Viaje a ning\u00fan lado (con Carin Leon)",
+      "url": "https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH"
     },
     {
       "album": {

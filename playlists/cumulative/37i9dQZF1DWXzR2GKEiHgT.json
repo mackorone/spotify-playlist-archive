@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Slip into slumber with soothing water sounds.",
-  "name": "The Sleep Machine: Waterscapes",
-  "published_playlist_ids": [
-    "3orUpWmUP8XdWYQVEuyTH3"
-  ],
+  "description": "Slip into slumber with soothing sea sounds.",
+  "name": "Deep Ocean Deep Sleep",
   "tracks": [
     {
       "album": {
@@ -158,7 +155,7 @@
       "artists": [
         {
           "name": "Ocean Vacation",
-          "url": "https://open.spotify.com/artist/5TgEJqhCrbEiOGTNMC5dh4"
+          "url": "https://open.spotify.com/artist/7hO7QJqzlEr6RaZlaalLLR"
         }
       ],
       "date_added": "2021-11-11",
@@ -1531,7 +1528,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 172384,
       "name": "Nature Sounds from the Ocean",
       "url": "https://open.spotify.com/track/0GGML2SYBdmFknw2726Rap"
@@ -1873,7 +1870,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 208280,
       "name": "Pacific Ocean",
       "url": "https://open.spotify.com/track/4beKgc6XO9T2JUM7npzZNE"
@@ -2291,6 +2288,24 @@
       "duration_ms": 190122,
       "name": "Santa Monica Beach Waves",
       "url": "https://open.spotify.com/track/6tk4FeBQbOTJ2DT3VB509w"
+    },
+    {
+      "album": {
+        "name": "Yugen (Nature)",
+        "url": "https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Santa Teresa (Ocean)",
+      "url": "https://open.spotify.com/track/5cxdMghnuN2EpTpeJ1v6Qm"
     },
     {
       "album": {
@@ -2899,7 +2914,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 165057,
       "name": "Super Soothing Evening Waves",
       "url": "https://open.spotify.com/track/6L8AUW3COyY7Z2Ww1RIEVH"
@@ -3223,7 +3238,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-25",
       "duration_ms": 184759,
       "name": "Wave Sounds From Your Favorite Beach",
       "url": "https://open.spotify.com/track/2R6HB9DiSAxq08vj5dj9B3"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Take the afternoon off.",
   "name": "Ros\u00e9 on Tap",
-  "published_playlist_ids": [
-    "64LGzR07zq6CmmON7Z6yjH"
-  ],
   "tracks": [
     {
       "album": {
@@ -1045,7 +1042,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 187840,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr"
@@ -1085,7 +1082,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -1107,7 +1104,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
@@ -1169,7 +1166,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-21",
       "duration_ms": 239400,
       "name": "Let's Get Loud",
       "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
@@ -2261,6 +2258,24 @@
       "duration_ms": 187600,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/7HX9f8AMBl0vQxAoAzLqhS"
+    },
+    {
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
   "name": "Acoustic Hits",
-  "published_playlist_ids": [
-    "7bUcek1mMNSNQXUd5BDskV"
-  ],
   "tracks": [
     {
       "album": {
@@ -332,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187682,
+      "name": "Anyone For You (Tiger Lily)",
+      "url": "https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0"
+    },
+    {
+      "album": {
         "name": "Anyone For You (Tiger Lily)",
         "url": "https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j"
       },
@@ -343,7 +358,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 187682,
       "name": "Anyone For You (Tiger Lily)",
       "url": "https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL"
@@ -909,7 +924,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 188057,
       "name": "Can't See Straight - Acoustic",
       "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
@@ -1569,7 +1584,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 232164,
       "name": "Fallen so Young",
       "url": "https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN"
@@ -1867,7 +1882,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 258530,
       "name": "Foreign Hands",
       "url": "https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK"
@@ -1921,7 +1936,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "Fortune - Acoustic",
       "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
@@ -5205,7 +5220,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 193786,
       "name": "sunday",
       "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"

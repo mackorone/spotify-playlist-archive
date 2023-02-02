@@ -4,7 +4,7 @@
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/1rGmepNWby58fxtmyNRycf)
+58 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

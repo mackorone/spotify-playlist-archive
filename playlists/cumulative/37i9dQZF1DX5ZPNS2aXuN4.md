@@ -4,7 +4,7 @@
 
 > An introduction to the music of Bartok, Hungary's greatest composer.
 
-109 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/5QWVYmwWpWHocH48FhHCga)
+109 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

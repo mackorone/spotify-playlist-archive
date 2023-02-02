@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,138 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,462 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [世界が終るまでは… \[WANDS 第5期 ver.\]](https://open.spotify.com/track/3Kihz14e1cNkpl5PiJOiB7) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [世界が終るまでは… \[WANDS 第5期 ver.\]](https://open.spotify.com/album/0nZnyIFO6XBzTqzGeLOBLy) | 5:13 |
-| 2 | [謎](https://open.spotify.com/track/42S5PVNFPb4xwxl51HVh0k) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [謎](https://open.spotify.com/album/7mgGlCQhihfUrVj7IBabYk) | 4:35 |
-| 3 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 |
-| 4 | [1/2](https://open.spotify.com/track/30RyPOEySEbfoHsd2UELNb) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [川本真琴](https://open.spotify.com/album/2h51mctnS9OjJFqs6HT0Ip) | 5:15 |
-| 5 | [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 |
-| 6 | [Catch You Catch Me](https://open.spotify.com/track/6ElSzFGDDrOnE0ifSf7WMC) | [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [カードキャプターさくら ソングコレクション 1998.4\~1999.2](https://open.spotify.com/album/3DbJExsQsNeyI1D86ooudT) | 3:45 |
-| 7 | [おジャ魔女カーニバル!!](https://open.spotify.com/track/63CbmTcrmJlFYSehryyG48) | [MAHO堂](https://open.spotify.com/artist/4iaXf3pKcpKpWrIaPDg2li) | [おジャ魔女どれみ Select Best](https://open.spotify.com/album/4IKaNqQcDMuRkfpTGU1HIT) | 3:35 |
-| 8 | [運命のルーレット廻して](https://open.spotify.com/track/36LFRJKinf0TWJjHg6SmHg) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [運命のルーレット廻して](https://open.spotify.com/album/0am0AmvgNvxLx0swxwyQVx) | 5:00 |
-| 9 | [Hohoemi no Bakudan](https://open.spotify.com/track/5BG5LEDS1Q24SZuofpWSBG) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [Hohoemi no Bakudan](https://open.spotify.com/album/5t1KlykzXKaYZIn75048c3) | 4:14 |
-| 10 | [ムーンライト伝説](https://open.spotify.com/track/3fbEsr4mfsFbKYOBU074Fy) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 2:55 |
-| 11 | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\) \(ドラゴンボールZ\)](https://open.spotify.com/track/40rB6GShOHTdu8ZZZZtVG8) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\)](https://open.spotify.com/album/6ODDOBJd06l5Cb5qTbS5qt) | 4:13 |
-| 12 | [あなただけ見つめてる](https://open.spotify.com/track/0e4jGLY8dwOnhniy2Hdtzc) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 \~All Singles + \~](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:42 |
-| 13 | [ギリギリchop](https://open.spotify.com/track/6UUmbqYhL4p8W70bCzfOpx) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ギリギリchop](https://open.spotify.com/album/2xvUnnVWLk2tEPlbtOBpOd) | 3:57 |
-| 14 | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/track/3ELgk6SEzS1e1BKqdIh252) | [Rica Matsumoto](https://open.spotify.com/artist/72GURBGvhqtUrJctxI6tE9) | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/album/3KBzzDchZ4hNeBngIHASeu) | 4:19 |
-| 15 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 |
+| 2 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 |
+| 3 | [1/2](https://open.spotify.com/track/30RyPOEySEbfoHsd2UELNb) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [川本真琴](https://open.spotify.com/album/2h51mctnS9OjJFqs6HT0Ip) | 5:15 |
+| 4 | [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 |
+| 5 | [Catch You Catch Me](https://open.spotify.com/track/6ElSzFGDDrOnE0ifSf7WMC) | [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [カードキャプターさくら ソングコレクション 1998.4\~1999.2](https://open.spotify.com/album/3DbJExsQsNeyI1D86ooudT) | 3:45 |
+| 6 | [おジャ魔女カーニバル!!](https://open.spotify.com/track/63CbmTcrmJlFYSehryyG48) | [MAHO堂](https://open.spotify.com/artist/4iaXf3pKcpKpWrIaPDg2li) | [おジャ魔女どれみ Select Best](https://open.spotify.com/album/4IKaNqQcDMuRkfpTGU1HIT) | 3:35 |
+| 7 | [Hohoemi no Bakudan](https://open.spotify.com/track/5BG5LEDS1Q24SZuofpWSBG) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [Hohoemi no Bakudan](https://open.spotify.com/album/5t1KlykzXKaYZIn75048c3) | 4:14 |
+| 8 | [ムーンライト伝説](https://open.spotify.com/track/3fbEsr4mfsFbKYOBU074Fy) | [DALI](https://open.spotify.com/artist/6emADnvWyoxFZipxX89lHl) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 2:55 |
+| 9 | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\) \(ドラゴンボールZ\)](https://open.spotify.com/track/40rB6GShOHTdu8ZZZZtVG8) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\)](https://open.spotify.com/album/6ODDOBJd06l5Cb5qTbS5qt) | 4:13 |
+| 10 | [あなただけ見つめてる](https://open.spotify.com/track/0e4jGLY8dwOnhniy2Hdtzc) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 \~All Singles + \~](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:42 |
+| 11 | [ギリギリchop](https://open.spotify.com/track/6UUmbqYhL4p8W70bCzfOpx) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ギリギリchop](https://open.spotify.com/album/2xvUnnVWLk2tEPlbtOBpOd) | 3:57 |
+| 12 | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/track/3ELgk6SEzS1e1BKqdIh252) | [Rica Matsumoto](https://open.spotify.com/artist/72GURBGvhqtUrJctxI6tE9) | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/album/3KBzzDchZ4hNeBngIHASeu) | 4:19 |
+| 13 | [オラはにんきもの](https://open.spotify.com/track/4wXNNWkfD8JLN8AFSCYXvb) | [のはらしんのすけ](https://open.spotify.com/artist/6llUTHSSYBAyRZtZiwj0bm) | [クレヨンしんちゃん](https://open.spotify.com/album/6wxH8XD524yDFAWQ8yS65R) | 3:32 |
+| 14 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 |
+| 15 | [謎](https://open.spotify.com/track/42S5PVNFPb4xwxl51HVh0k) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [謎](https://open.spotify.com/album/7mgGlCQhihfUrVj7IBabYk) | 4:35 |
 | 16 | [名探偵コナン メイン・テーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/5vWYRXIw88ZKaOjsvFuWus) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 2:27 |
 | 17 | [DAN DAN 心魅かれてく](https://open.spotify.com/track/0F1G4ssr0RMdm9h0GEbt40) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [TODAY IS ANOTHER DAY](https://open.spotify.com/album/7nGUYK8tHjuKsHgq3qIDhE) | 4:29 |
 | 18 | [Unyielding Wish \- Complete ver](https://open.spotify.com/track/5MIYbpRYfWwkxL8QW6z6v6) | [Naomi Tamura](https://open.spotify.com/artist/0L7Qb17znlkaydgMefkLUq) | [Unyielding Wish \(Complete ver\)](https://open.spotify.com/album/2JgbFOv9PhaCK3NGwvnJhe) | 3:51 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 21 | [マイ フレンド](https://open.spotify.com/track/4mt3qRk1HWnk4kyvjbp8Jk) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [マイ フレンド](https://open.spotify.com/album/0pZXSUADHSImR5emCEln8R) | 4:19 |
 | 22 | [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 |
 | 23 | [SEVENTH MOON](https://open.spotify.com/track/72n1TrXlJUz1Lq4xHnjWYd) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [BASARA NEKKI](https://open.spotify.com/artist/3P94aBFfSL9ZKcLpDOlbN2) | [SEVENTH MOON](https://open.spotify.com/album/1lEZO1OI2yk5gYC1chPCxx) | 5:24 |
-| 24 | [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 |
+| 24 | [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichiro Mizuki](https://open.spotify.com/artist/4uW4SEyjVLBFqGsy9iaD9N) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 |
 | 25 | [Around The World](https://open.spotify.com/track/1gsbM54z2EPqErHfiPIIhy) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 5:06 |
 | 26 | [JUST COMMUNICATION](https://open.spotify.com/track/2MJuRVxvB0Wq298yZAmpuT) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [JUST COMMUNICATION](https://open.spotify.com/album/3srT3oJ15NvnclIkLlvN8q) | 4:19 |
 | 27 | [勇気100% \- \(合唱ヴァージョン\)/すずかけ児童合唱団](https://open.spotify.com/track/0UBWkGVqwsWESsVfdnXbut) | [すずかけ児童合唱団](https://open.spotify.com/artist/3HozfEg3Tn0RVf1aBJLdnU) | [「忍たまファミリー・ベストセレクション」](https://open.spotify.com/album/4VUJ2ges1ogO66dtbvTSpP) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
 | 50 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 |
 
-Snapshot ID: `MTY2MTg3NjMzNywwMDAwMDAwMDU2NjAzMDc5NGY4MzBmMjg0ODU4MTdkOTc2NTBhNWE0`
+Snapshot ID: `MTY3MTg3NjUwNywwMDAwMDAwMDRjNzEzZjYyMDMwMGFiNzFlOWUwNGEzMjQ2NGNhODVl`

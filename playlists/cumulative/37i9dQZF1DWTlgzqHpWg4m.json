@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bands from and songs about The Golden State. Here's your playlist for California Dreamin'",
+  "description": "welcome to the Golden State.",
   "name": "California Rock State",
-  "published_playlist_ids": [
-    "4SbwVdVItzfdu5SIZ5qyZY"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,6 +56,24 @@
       "duration_ms": 200560,
       "name": "All Star",
       "url": "https://open.spotify.com/track/22c2pt75xtnDddA5Zlm0yy"
+    },
+    {
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
     },
     {
       "album": {
@@ -127,7 +142,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 187853,
       "name": "California",
       "url": "https://open.spotify.com/track/6bGStfo1wNj7QG4Dh1nH1q"
@@ -145,7 +160,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 190400,
       "name": "California",
       "url": "https://open.spotify.com/track/08aMpsxjozNNQPVnnE1QaC"
@@ -163,7 +178,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 163682,
       "name": "California",
       "url": "https://open.spotify.com/track/2cs6ASglDOWlPnlWbfaBZf"
@@ -181,10 +196,28 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 196786,
       "name": "California",
       "url": "https://open.spotify.com/track/7MdqStZphq1x5yTXfqgD5U"
+    },
+    {
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305899,
+      "name": "California",
+      "url": "https://open.spotify.com/track/7oTE1KmtU2ml9zBhv9Reao"
     },
     {
       "album": {
@@ -199,7 +232,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 300720,
       "name": "California",
       "url": "https://open.spotify.com/track/4KHlhArYm3VfjwanKaLUqa"
@@ -235,7 +268,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 231652,
       "name": "California",
       "url": "https://open.spotify.com/track/1Tc3kbOaPzpY8y9phWaVDx"
@@ -271,7 +304,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 258333,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/2Uu5tdc6CUll2vQhkeC4f7"
@@ -289,7 +322,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 234774,
       "name": "California Dreaming",
       "url": "https://open.spotify.com/track/5jsn38ryHgFhcbJgZMQCo0"
@@ -325,7 +358,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 214186,
       "name": "California Friends",
       "url": "https://open.spotify.com/track/1KgS3NtxZ0yCVvWWHhYtyx"
@@ -343,7 +376,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 205426,
       "name": "California Kids",
       "url": "https://open.spotify.com/track/0UbS4oWIo2nUXeTxsvFaN1"
@@ -361,7 +394,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 311360,
       "name": "California Nights",
       "url": "https://open.spotify.com/track/7JJX0jNN99WhEHncAgoTKS"
@@ -379,7 +412,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 127746,
       "name": "California Sun - 2017 Remaster",
       "url": "https://open.spotify.com/track/4dyBuBbYZj1iiK0ywYjYzT"
@@ -397,7 +430,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 208693,
       "name": "California Waiting",
       "url": "https://open.spotify.com/track/6LhN47wHHsSzlbVzsXe7cY"
@@ -505,7 +538,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 229013,
       "name": "Circadian Rhythm (Last Dance)",
       "url": "https://open.spotify.com/track/127qrKbnyZCYnn158P80op"
@@ -541,7 +574,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 302040,
       "name": "City Of Angels",
       "url": "https://open.spotify.com/track/1dUU2RYiMZ9HCk6CB9Akup"
@@ -613,7 +646,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 255000,
       "name": "Doesn't Remind Me",
       "url": "https://open.spotify.com/track/0o995gJCGebaza0LWybToU"
@@ -757,7 +790,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 196160,
       "name": "Feeling Ok",
       "url": "https://open.spotify.com/track/0pufbBQTb9Voh9ZtpCpYLH"
@@ -829,7 +862,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 244640,
       "name": "Fly",
       "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
@@ -955,7 +988,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 204066,
       "name": "Guru",
       "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
@@ -973,7 +1006,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 202031,
       "name": "Handyman",
       "url": "https://open.spotify.com/track/2o2RDduVgudcGSLrFaV1D0"
@@ -1369,7 +1402,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 275720,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/0y5CnV2idm2KkQEudDjfDT"
@@ -1405,7 +1438,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 183266,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/1kVWn6BRzI9CwGz2vwmXlH"
@@ -1423,7 +1456,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 237573,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6"
@@ -1639,7 +1672,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 244400,
       "name": "My Body",
       "url": "https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs"
@@ -1754,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3x507Iwk3UNquPkPrnHRrt"
       },
@@ -1826,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Regret Me",
+        "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196085,
+      "name": "Regret Me",
+      "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
+    },
+    {
+      "album": {
         "name": "Saints of Los Angeles",
         "url": "https://open.spotify.com/album/10fAGbgRYyt8gMk5QyPPXn"
       },
@@ -1837,7 +1906,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 202146,
       "name": "Saints of Los Angeles",
       "url": "https://open.spotify.com/track/3X9dVZIEva7gODLCk3csnc"
@@ -1999,7 +2068,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 228466,
       "name": "Something to Believe In",
       "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
@@ -2053,7 +2122,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 205173,
       "name": "Sweet Disaster",
       "url": "https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE"
@@ -2071,7 +2140,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 161999,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6"
@@ -2197,7 +2266,7 @@
       ],
       "date_added": "2018-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 297160,
       "name": "The Mephistopheles Of Los Angeles",
       "url": "https://open.spotify.com/track/0rp3C6QuEi2EsicBwb4ozV"
@@ -2273,6 +2342,24 @@
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/7afSN5zhUhkbpRFpYKYztK"
+    },
+    {
+      "album": {
+        "name": "tired of california",
+        "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 190800,
+      "name": "tired of california",
+      "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
     },
     {
       "album": {
@@ -2366,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256760,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
+    },
+    {
+      "album": {
         "name": "Hit Rewind",
         "url": "https://open.spotify.com/album/2HU17SEYHEsx4AjjEHC0uE"
       },
@@ -2437,7 +2542,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 231866,
       "name": "Where'd You Go (feat. Holly Brook & Jonah Matranga)",
       "url": "https://open.spotify.com/track/7pAT4dOUzjq8Ziap5ShIqC"

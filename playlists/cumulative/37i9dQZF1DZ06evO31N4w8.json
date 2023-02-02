@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Rieleros Del Norte",
-  "published_playlist_ids": [
-    "0sYa4z4Qbp5n9iE99g3wrJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 181773,
       "name": "A Punto De Llorar",
       "url": "https://open.spotify.com/track/37L9WDAl7Y81QYhkgoxJBQ"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182560,
+      "name": "A Punto De Llorar",
+      "url": "https://open.spotify.com/track/6CNZmbCSVhFJciK0uPSbpm"
     },
     {
       "album": {
@@ -149,6 +164,24 @@
       "duration_ms": 236173,
       "name": "Capricho Maldito",
       "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
+    },
+    {
+      "album": {
+        "name": "Castillo De Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/1gzPnbtL63YRYwbbfzDcVH"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Castillo De Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/4fULKqADhPqLutoSfZZtEo"
     },
     {
       "album": {
@@ -1007,7 +1040,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 203440,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM"
@@ -1025,7 +1058,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 203853,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
@@ -1079,7 +1112,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 172120,
       "name": "Un Engan\u0303o Ma\u0301s",
       "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
@@ -1205,7 +1238,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 205453,
       "name": "\u00bfY Ahora Que?",
       "url": "https://open.spotify.com/track/2fSzRd5DUY27pBuFSaqRSW"

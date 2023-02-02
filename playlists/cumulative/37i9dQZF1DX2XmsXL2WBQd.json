@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Anthems from the early days of recorded rap music.",
   "name": "I Love My '80s Hip-Hop",
-  "published_playlist_ids": [
-    "0wZfFAve2bpWARsdwq2jEw"
-  ],
   "tracks": [
     {
       "album": {
@@ -643,7 +640,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-09",
       "duration_ms": 336866,
       "name": "Follow The Leader",
       "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
@@ -661,7 +658,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 282866,
       "name": "Freaks Come Out at Night",
       "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
@@ -679,7 +676,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 282866,
       "name": "Freaks Come Out at Night",
       "url": "https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a"
@@ -733,7 +730,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 279866,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2GLDYbNCRgsZTBhrBqhdm0"
@@ -751,7 +748,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279866,
       "name": "Friends",
       "url": "https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN"
@@ -805,7 +802,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 197933,
       "name": "Get into It",
       "url": "https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp"
@@ -899,7 +896,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 336173,
       "name": "Hip Hop Be Bop (Original Version)",
       "url": "https://open.spotify.com/track/21NALHsloDI31T781jDMFw"
@@ -1401,7 +1398,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 248160,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq"
@@ -1419,7 +1416,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 167880,
       "name": "My Adidas",
       "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
@@ -1437,7 +1434,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 271333,
       "name": "My Part of Town",
       "url": "https://open.spotify.com/track/0shIrYpCMWM0721jBuT7iV"
@@ -1937,7 +1934,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 330573,
       "name": "Rock Box",
       "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
@@ -2171,7 +2168,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 359693,
       "name": "Strong Island",
       "url": "https://open.spotify.com/track/4gL6J18mb93kNay5kuAUFR"
@@ -2347,6 +2344,10 @@
         {
           "name": "3rd Bass",
           "url": "https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc"
+        },
+        {
+          "name": "Zev Love",
+          "url": "https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx"
         }
       ],
       "date_added": "2021-12-21",
@@ -2391,6 +2392,24 @@
       "duration_ms": 293733,
       "name": "The Godfather",
       "url": "https://open.spotify.com/track/6IJaK78xPzOsr7kZat4Ohd"
+    },
+    {
+      "album": {
+        "name": "The Magic Number",
+        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195883,
+      "name": "The Magic Number",
+      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
     },
     {
       "album": {

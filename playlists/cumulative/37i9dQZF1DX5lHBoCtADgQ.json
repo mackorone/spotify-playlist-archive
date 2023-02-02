@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Enjoy the folk from Punjab. Cover: Neha Bhasin",
   "name": "Folk Punjabi",
-  "published_playlist_ids": [
-    "6lhmrLr4Sb80M73Sr2P9CQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -279,6 +276,32 @@
       "duration_ms": 218333,
       "name": "Challa Mera Jee Dhola",
       "url": "https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt"
+    },
+    {
+      "album": {
+        "name": "Chan Kithan",
+        "url": "https://open.spotify.com/album/34bEDfoNeAjmHWnkmPT5ky"
+      },
+      "artists": [
+        {
+          "name": "NAVNEET KAUR",
+          "url": "https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5"
+        },
+        {
+          "name": "JusKeys",
+          "url": "https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc"
+        },
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Chan Kithan",
+      "url": "https://open.spotify.com/track/3V94RK5PxcSSRCxhEWBIuQ"
     },
     {
       "album": {

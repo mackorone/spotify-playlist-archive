@@ -4,7 +4,7 @@
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-156 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7ij89g35L5wid2aPGmGS4I)
+156 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

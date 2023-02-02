@@ -4,7 +4,7 @@
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-87 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/0eSlqedljXbl1Hpa924LIm)
+87 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-01",
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ-u8gnmqQaUJ8A\">Loufi</a>\n",
   "name": "Afrikaanse Hip Hop",
-  "published_playlist_ids": [
-    "2L0hHi2CI7ZbUGqYTWQUQ1"
-  ],
   "tracks": [
     {
       "album": {
@@ -85,7 +82,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 186640,
       "name": "Bons",
       "url": "https://open.spotify.com/track/27rWp1eK0aH82c8Uo9nJAB"
@@ -111,6 +108,32 @@
       "duration_ms": 263140,
       "name": "Breinsuiker - Remix",
       "url": "https://open.spotify.com/track/20CX51tTFlht4gXK1loswW"
+    },
+    {
+      "album": {
+        "name": "Bru",
+        "url": "https://open.spotify.com/album/6RirppwJmnR5e0PTghCull"
+      },
+      "artists": [
+        {
+          "name": "BRU",
+          "url": "https://open.spotify.com/artist/5BZSMHMX8U0s2uLdutE8Sv"
+        },
+        {
+          "name": "Isaac Mutant",
+          "url": "https://open.spotify.com/artist/76VLsNwSomCEFiV6Va9PgX"
+        },
+        {
+          "name": "Baze",
+          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266486,
+      "name": "Bring the Noise",
+      "url": "https://open.spotify.com/track/6e3FJoRmqAQF76x4o3BYjn"
     },
     {
       "album": {
@@ -377,7 +400,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 186017,
       "name": "Haartseer Naai",
       "url": "https://open.spotify.com/track/1o8sfR9JWRPgl2rwmiCaeR"
@@ -403,7 +426,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 244956,
       "name": "Happy Family",
       "url": "https://open.spotify.com/track/48dgyAaCvCVEL7V1wCa7ir"
@@ -524,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Jou Mase",
+        "url": "https://open.spotify.com/album/4scKcqaWvc2circ9KE6cS8"
+      },
+      "artists": [
+        {
+          "name": "Die Twaalf",
+          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+        },
+        {
+          "name": "Bailomusiq",
+          "url": "https://open.spotify.com/artist/2ZSqXSAkJWBP9i95OW6jAm"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184018,
+      "name": "Jou Mase",
+      "url": "https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm"
+    },
+    {
+      "album": {
         "name": "Kaapstad is Myne",
         "url": "https://open.spotify.com/album/2CyG7LKG8En8K89wPskp95"
       },
@@ -575,7 +620,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 183405,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/5cSoFnlKff1cC7IU1tOLq8"
@@ -703,10 +748,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 193628,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc"
+    },
+    {
+      "album": {
+        "name": "Mooiste Meisies",
+        "url": "https://open.spotify.com/album/6CPg4uM54Rc86XT2bRfamF"
+      },
+      "artists": [
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221571,
+      "name": "Mooiste Meisies",
+      "url": "https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw"
     },
     {
       "album": {
@@ -729,6 +792,46 @@
       "duration_ms": 184407,
       "name": "Moola",
       "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
+    },
+    {
+      "album": {
+        "name": "My Main Bra Tops",
+        "url": "https://open.spotify.com/album/1fi2Jaz0NJyc1yGMnlWwjT"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 183014,
+      "name": "My Main Bra Tops",
+      "url": "https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac"
+    },
+    {
+      "album": {
+        "name": "Noem My 'n Goen",
+        "url": "https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp"
+      },
+      "artists": [
+        {
+          "name": "KRO-Barz",
+          "url": "https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152054,
+      "name": "Noem My 'n Goen",
+      "url": "https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1"
     },
     {
       "album": {
@@ -765,6 +868,28 @@
       "duration_ms": 212727,
       "name": "Ongerep",
       "url": "https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy"
+    },
+    {
+      "album": {
+        "name": "Passion Vir Die Game",
+        "url": "https://open.spotify.com/album/5IaeLYlC58bvW4tSpuAgF6"
+      },
+      "artists": [
+        {
+          "name": "Ktog",
+          "url": "https://open.spotify.com/artist/0rqXLEx5cewNCwWuuUTrfT"
+        },
+        {
+          "name": "King B Hf",
+          "url": "https://open.spotify.com/artist/4Z9gJNJkCxN3xhjrEITDLt"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330031,
+      "name": "Passion Vir Die Game",
+      "url": "https://open.spotify.com/track/5Bn47hs1QD5eByG6g11cKS"
     },
     {
       "album": {
@@ -805,7 +930,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 212053,
       "name": "Pot Jie Kos",
       "url": "https://open.spotify.com/track/4q26B1ucwbE6DgGytVBXpV"
@@ -877,7 +1002,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 196702,
       "name": "Ricky Opi Beat",
       "url": "https://open.spotify.com/track/0ZDBZzm4srA2FEFx4V43PK"
@@ -895,10 +1020,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 186500,
       "name": "Sex in Afrikaans",
       "url": "https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z"
+    },
+    {
+      "album": {
+        "name": "Skattie",
+        "url": "https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193834,
+      "name": "Skattie",
+      "url": "https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr"
     },
     {
       "album": {
@@ -917,6 +1060,24 @@
       "duration_ms": 180166,
       "name": "Slaaplose Nagte",
       "url": "https://open.spotify.com/track/2ESObtgSm31Cbyjeg9Uw4Q"
+    },
+    {
+      "album": {
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq"
+      },
+      "artists": [
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169062,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
     },
     {
       "album": {
@@ -971,7 +1132,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 201293,
       "name": "S\u00ea Net",
       "url": "https://open.spotify.com/track/5j6SZZCXd6h1N1bb00eaOu"
@@ -1015,6 +1176,28 @@
       "duration_ms": 183062,
       "name": "There It Is",
       "url": "https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS"
+    },
+    {
+      "album": {
+        "name": "VAAK",
+        "url": "https://open.spotify.com/album/2IKuJJg4ytGVCdJu5cT4CI"
+      },
+      "artists": [
+        {
+          "name": "JAYD?N",
+          "url": "https://open.spotify.com/artist/54ngOPG4z2cf7NgtItNAG5"
+        },
+        {
+          "name": "Ello-Jay",
+          "url": "https://open.spotify.com/artist/2PDHdUgudDmPTRwh1HJAXp"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129097,
+      "name": "VAAK",
+      "url": "https://open.spotify.com/track/0bnaAVz6aptalheXgeQSC1"
     },
     {
       "album": {
@@ -1123,10 +1306,50 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 275121,
       "name": "Windgat",
       "url": "https://open.spotify.com/track/6bttyQEk8x8i4pzNfqEjtd"
+    },
+    {
+      "album": {
+        "name": "WUTJAINJILLE",
+        "url": "https://open.spotify.com/album/4aza6nbvvOP3SPWK5NKOhL"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo 7945",
+          "url": "https://open.spotify.com/artist/42kYVWWbrUVyhsCWzxKwVp"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172434,
+      "name": "WUTJAINJILLE",
+      "url": "https://open.spotify.com/track/6xWKj3N3die6nrCtv6WZiS"
+    },
+    {
+      "album": {
+        "name": "Yes Meneer",
+        "url": "https://open.spotify.com/album/6zGyqXBpUdzjPdRFXaSszY"
+      },
+      "artists": [
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237551,
+      "name": "Yes Meneer",
+      "url": "https://open.spotify.com/track/1c2tsesE4APsc5mUwMt4D2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP"

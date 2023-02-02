@@ -4,7 +4,7 @@
 
 > Classic Ambient and Environmental music made in Japan.
 
-56 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4ZZLOdQNvNgxBdDIIzifmx)
+56 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

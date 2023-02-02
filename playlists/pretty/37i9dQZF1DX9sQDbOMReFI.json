@@ -1,18 +1,18 @@
 {
-  "description": "The best side! Cover: Snoop Dogg & Dr. Dre",
-  "num_followers": 619759,
+  "description": "The best side! Cover: Mount Westmore",
+  "num_followers": 651865,
   "original_name": "I Love My West Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcyNzM4OSwwMDAwMDAwMGNjZmUwMzFlZDdlNzFmNjAyNjk0MWVmYTdhM2IzODFj",
+  "snapshot_id": "MTY3MDU2MjAwMCwwMDAwMDAwMGIyM2VhOGVmMTU1ZjdiMzA5MWViMWJjYjdkM2NhZjNh",
   "tracks": [
     {
-      "added_at": "2020-05-04 14:10:56",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "The Chronic",
-        "url": "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
       "artists": [
         {
@@ -24,12 +24,28 @@
           "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 238466,
+      "duration_ms": 237573,
       "name": "Nuthin' But A \"G\" Thang",
-      "url": "https://open.spotify.com/track/4YtoipFgf4k0AfD17ZfD5X"
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
-      "added_at": "2020-06-15 17:33:58",
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Dear Mama",
+      "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "The Predator",
         "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
@@ -45,27 +61,7 @@
       "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
     },
     {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Operation Stackola",
-        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
-      },
-      "artists": [
-        {
-          "name": "Luniz",
-          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
-        },
-        {
-          "name": "Michael Marshall",
-          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "I Got 5 On It",
-      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Regulate\u2026 G Funk Era",
         "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
@@ -85,391 +81,7 @@
       "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
     },
     {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Dear Mama",
-      "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Gangsta Memorial",
-        "url": "https://open.spotify.com/album/63e4jpPrJzjGsTxM4QOOFb"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 332733,
-      "name": "Real Muthaphuckkin' G's",
-      "url": "https://open.spotify.com/track/53BZ6XygAoubR5DU5w38Vq"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "93 'til Infinity",
-        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
-      },
-      "artists": [
-        {
-          "name": "Souls Of Mischief",
-          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "93 'Til Infinity",
-      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Bizarre Ride II The Pharcyde",
-        "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
-      },
-      "artists": [
-        {
-          "name": "The Pharcyde",
-          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
-        }
-      ],
-      "duration_ms": 303493,
-      "name": "Passin' Me By",
-      "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
-    },
-    {
-      "added_at": "2022-11-26 01:34:13",
-      "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 310720,
-      "name": "Bitch, Don\u2019t Kill My Vibe",
-      "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9"
-    },
-    {
-      "added_at": "2020-06-15 17:33:58",
-      "album": {
-        "name": "Bootlegs And B-Sides",
-        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Check Yo Self - Remix",
-      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Friday (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 305573,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Regulate\u2026 G Funk Era",
-        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
-      },
-      "artists": [
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        },
-        {
-          "name": "O.G.L.B.",
-          "url": "https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "This D.J.",
-      "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Strictly 4 My N.I.G.G.A.Z...",
-        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Keep Ya Head Up",
-      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "It Takes a Thief",
-        "url": "https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb"
-      },
-      "artists": [
-        {
-          "name": "Coolio",
-          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
-        }
-      ],
-      "duration_ms": 334440,
-      "name": "Fantastic Voyage",
-      "url": "https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Death Certificate",
-        "url": "https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 313546,
-      "name": "No Vaseline",
-      "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Sex Packets",
-        "url": "https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL"
-      },
-      "artists": [
-        {
-          "name": "Digital Underground",
-          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
-        }
-      ],
-      "duration_ms": 391693,
-      "name": "The Humpty Dance",
-      "url": "https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Cypress Hill",
-        "url": "https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 252240,
-      "name": "How I Could Just Kill a Man",
-      "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Get In Where You Fit In",
-        "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 361266,
-      "name": "I'm a Player - Street Version",
-      "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
-    },
-    {
-      "added_at": "2022-11-26 01:34:13",
-      "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "MC Eiht",
-          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
-        }
-      ],
-      "duration_ms": 350120,
-      "name": "m.A.A.d city",
-      "url": "https://open.spotify.com/track/2cDCojn6uIBM6A5xTAbl3H"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "So Many Tears",
-      "url": "https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "AmeriKKKa's Most Wanted",
-        "url": "https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "The Nigga Ya Love To Hate",
-      "url": "https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ"
-    },
-    {
-      "added_at": "2021-08-27 03:06:32",
-      "album": {
-        "name": "Music To Driveby",
-        "url": "https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS"
-      },
-      "artists": [
-        {
-          "name": "Compton's Most Wanted",
-          "url": "https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Hood Took Me Under",
-      "url": "https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F"
-    },
-    {
-      "added_at": "2021-08-27 03:06:32",
-      "album": {
-        "name": "Short Dog's In The House",
-        "url": "https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 302133,
-      "name": "The Ghetto",
-      "url": "https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf"
-    },
-    {
-      "added_at": "2021-08-27 03:06:32",
-      "album": {
-        "name": "Don't Fight The Feelin'",
-        "url": "https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793"
-      },
-      "artists": [
-        {
-          "name": "Rappin' 4-Tay",
-          "url": "https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "Playaz Club",
-      "url": "https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla"
-    },
-    {
-      "added_at": "2021-08-27 03:06:32",
-      "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "I Wanna Get High",
-      "url": "https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Dramacydal",
-          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Me Against The World",
-      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
-    },
-    {
-      "added_at": "2022-11-26 01:34:13",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -489,79 +101,43 @@
       "url": "https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o"
     },
     {
-      "added_at": "2021-08-27 03:06:32",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "At Your Own Risk",
-        "url": "https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt"
+        "name": "Operation Stackola",
+        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
       "artists": [
         {
-          "name": "King Tee",
-          "url": "https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut"
+          "name": "Luniz",
+          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
         },
         {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Breeze",
-          "url": "https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp"
+          "name": "Michael Marshall",
+          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
         }
       ],
-      "duration_ms": 299026,
-      "name": "Played Like A Piano",
-      "url": "https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP"
+      "duration_ms": 253533,
+      "name": "I Got 5 On It",
+      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Brothas Doobie",
-        "url": "https://open.spotify.com/album/33SkKSM72vyJvx5oc13351"
+        "name": "Gangsta Memorial",
+        "url": "https://open.spotify.com/album/63e4jpPrJzjGsTxM4QOOFb"
       },
       "artists": [
         {
-          "name": "Funkdoobiest",
-          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
         }
       ],
-      "duration_ms": 219466,
-      "name": "Lost in Thought",
-      "url": "https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t"
+      "duration_ms": 332733,
+      "name": "Real Muthaphuckkin' G's",
+      "url": "https://open.spotify.com/track/53BZ6XygAoubR5DU5w38Vq"
     },
     {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "This Is The Shack",
-        "url": "https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU"
-      },
-      "artists": [
-        {
-          "name": "Dove Shack",
-          "url": "https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Summertime In The LBC",
-      "url": "https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Safe + Sound",
-        "url": "https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe"
-      },
-      "artists": [
-        {
-          "name": "DJ Quik",
-          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
-        }
-      ],
-      "duration_ms": 352906,
-      "name": "Dollaz + Sense",
-      "url": "https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
@@ -585,7 +161,427 @@
       "url": "https://open.spotify.com/track/74kHlIr01X459gqsSdNilW"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Get In Where You Fit In",
+        "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 361266,
+      "name": "I'm a Player - Street Version",
+      "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "MC Eiht",
+          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+        }
+      ],
+      "duration_ms": 350120,
+      "name": "m.A.A.d city",
+      "url": "https://open.spotify.com/track/2cDCojn6uIBM6A5xTAbl3H"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Bizarre Ride II The Pharcyde",
+        "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "duration_ms": 303493,
+      "name": "Passin' Me By",
+      "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "93 'til Infinity",
+        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Mischief",
+          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "93 'Til Infinity",
+      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Daz Dillinger",
+          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Gin N Juice (feat. Dat Nigga Daz)",
+      "url": "https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Bootlegs And B-Sides",
+        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Check Yo Self - Remix",
+      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "O.G.L.B.",
+          "url": "https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "This D.J.",
+      "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "It Takes a Thief",
+        "url": "https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        }
+      ],
+      "duration_ms": 334440,
+      "name": "Fantastic Voyage",
+      "url": "https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 310720,
+      "name": "Bitch, Don\u2019t Kill My Vibe",
+      "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Sex Packets",
+        "url": "https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL"
+      },
+      "artists": [
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "duration_ms": 391693,
+      "name": "The Humpty Dance",
+      "url": "https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Death Certificate",
+        "url": "https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 313546,
+      "name": "No Vaseline",
+      "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Cypress Hill",
+        "url": "https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 252240,
+      "name": "How I Could Just Kill a Man",
+      "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Short Dog's In The House",
+        "url": "https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 302133,
+      "name": "The Ghetto",
+      "url": "https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "So Many Tears",
+      "url": "https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Music To Driveby",
+        "url": "https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS"
+      },
+      "artists": [
+        {
+          "name": "Compton's Most Wanted",
+          "url": "https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Hood Took Me Under",
+      "url": "https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "AmeriKKKa's Most Wanted",
+        "url": "https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "The Nigga Ya Love To Hate",
+      "url": "https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Safe + Sound",
+        "url": "https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe"
+      },
+      "artists": [
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "Dollaz + Sense",
+      "url": "https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Don't Fight The Feelin'",
+        "url": "https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793"
+      },
+      "artists": [
+        {
+          "name": "Rappin' 4-Tay",
+          "url": "https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "Playaz Club",
+      "url": "https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Dramacydal",
+          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Me Against The World",
+      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "I Wanna Get High",
+      "url": "https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Brothas Doobie",
+        "url": "https://open.spotify.com/album/33SkKSM72vyJvx5oc13351"
+      },
+      "artists": [
+        {
+          "name": "Funkdoobiest",
+          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Lost in Thought",
+      "url": "https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "This Is The Shack",
+        "url": "https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU"
+      },
+      "artists": [
+        {
+          "name": "Dove Shack",
+          "url": "https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Summertime In The LBC",
+      "url": "https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Get In Where You Fit In",
         "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
@@ -601,39 +597,47 @@
       "url": "https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE"
     },
     {
-      "added_at": "2021-08-27 03:06:32",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Explicit Game",
-        "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
+        "name": "At Your Own Risk",
+        "url": "https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt"
       },
       "artists": [
         {
-          "name": "Dru Down",
-          "url": "https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk"
+          "name": "King Tee",
+          "url": "https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Breeze",
+          "url": "https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp"
         }
       ],
-      "duration_ms": 254093,
-      "name": "Pimp Of The Year",
-      "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
+      "duration_ms": 299026,
+      "name": "Played Like A Piano",
+      "url": "https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP"
     },
     {
-      "added_at": "2021-08-27 03:06:32",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Hispanic Causing Panic",
-        "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
+        "name": "Quik Is The Name",
+        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
       },
       "artists": [
         {
-          "name": "Kid Frost",
-          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
         }
       ],
-      "duration_ms": 209066,
-      "name": "La Raza",
-      "url": "https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar"
+      "duration_ms": 323266,
+      "name": "Tonite",
+      "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
     },
     {
-      "added_at": "2020-05-04 14:10:56",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "The Best of MC Eiht",
         "url": "https://open.spotify.com/album/38BUSePXkHHL9gNyS1weTB"
@@ -649,7 +653,7 @@
       "url": "https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO"
     },
     {
-      "added_at": "2021-08-27 03:06:32",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Mack 10",
         "url": "https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO"
@@ -669,87 +673,39 @@
       "url": "https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "No One Can Do It Better",
-        "url": "https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD"
+        "name": "Explicit Game",
+        "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
       },
       "artists": [
         {
-          "name": "The D.O.C.",
-          "url": "https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd"
+          "name": "Dru Down",
+          "url": "https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk"
         }
       ],
-      "duration_ms": 269973,
-      "name": "It's Funky Enough - Remastered Single",
-      "url": "https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b"
+      "duration_ms": 254093,
+      "name": "Pimp Of The Year",
+      "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
     },
     {
-      "added_at": "2020-05-04 14:10:56",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Quik Is The Name",
-        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
+        "name": "Hispanic Causing Panic",
+        "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
       },
       "artists": [
         {
-          "name": "DJ Quik",
-          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+          "name": "Kid Frost",
+          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
         }
       ],
-      "duration_ms": 323266,
-      "name": "Tonite",
-      "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
+      "duration_ms": 209066,
+      "name": "La Raza",
+      "url": "https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Bizarre Ride II The Pharcyde",
-        "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
-      },
-      "artists": [
-        {
-          "name": "The Pharcyde",
-          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
-        }
-      ],
-      "duration_ms": 321506,
-      "name": "Otha Fish",
-      "url": "https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx"
-    },
-    {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Hip-Hop Legacy, Vol. 8",
-        "url": "https://open.spotify.com/album/6lC6kysYRpVbkJsWQDsybb"
-      },
-      "artists": [
-        {
-          "name": "Tha Dogg Pound",
-          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
-        }
-      ],
-      "duration_ms": 290272,
-      "name": "New York, New York",
-      "url": "https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Kill At Will",
-        "url": "https://open.spotify.com/album/7oeFV70h2fDapspboicRP5"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Jackin' For Beats",
-      "url": "https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "It's A Compton Thang!",
         "url": "https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY"
@@ -765,7 +721,103 @@
       "url": "https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Kill At Will",
+        "url": "https://open.spotify.com/album/7oeFV70h2fDapspboicRP5"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "Jackin' For Beats",
+      "url": "https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Hip-Hop Legacy, Vol. 8",
+        "url": "https://open.spotify.com/album/6lC6kysYRpVbkJsWQDsybb"
+      },
+      "artists": [
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        }
+      ],
+      "duration_ms": 290272,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Bizarre Ride II The Pharcyde",
+        "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "duration_ms": 321506,
+      "name": "Otha Fish",
+      "url": "https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "No One Can Do It Better",
+        "url": "https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD"
+      },
+      "artists": [
+        {
+          "name": "The D.O.C.",
+          "url": "https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "It's Funky Enough - Remastered Single",
+      "url": "https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR"
+      },
+      "artists": [
+        {
+          "name": "Domino",
+          "url": "https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1"
+        }
+      ],
+      "duration_ms": 259279,
+      "name": "Getto Jam",
+      "url": "https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "I Wish My Brother George Was Here",
+        "url": "https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor"
+      },
+      "artists": [
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Mistadobalina",
+      "url": "https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "In A Major Way",
         "url": "https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw"
@@ -793,39 +845,7 @@
       "url": "https://open.spotify.com/track/4iL2i3kck6tRcbSGuXJOe7"
     },
     {
-      "added_at": "2020-05-04 14:10:56",
-      "album": {
-        "name": "Domino",
-        "url": "https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR"
-      },
-      "artists": [
-        {
-          "name": "Domino",
-          "url": "https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1"
-        }
-      ],
-      "duration_ms": 259279,
-      "name": "Getto Jam",
-      "url": "https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx"
-    },
-    {
-      "added_at": "2021-08-27 03:06:32",
-      "album": {
-        "name": "I Wish My Brother George Was Here",
-        "url": "https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor"
-      },
-      "artists": [
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Mistadobalina",
-      "url": "https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Hi-Five: Digital Underground",
         "url": "https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8"
@@ -841,7 +861,7 @@
       "url": "https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Ahmad",
         "url": "https://open.spotify.com/album/1oRFXTDboyfWXB0c1z6QiT"
@@ -855,22 +875,6 @@
       "duration_ms": 303373,
       "name": "Back in the Day - Remix",
       "url": "https://open.spotify.com/track/5gUVdjfPWoaKoRiEMHBX6P"
-    },
-    {
-      "added_at": "2021-08-27 03:06:32",
-      "album": {
-        "name": "Uncle Sam's Curse",
-        "url": "https://open.spotify.com/album/7FJYYNhnLJIp7psLUwoBBb"
-      },
-      "artists": [
-        {
-          "name": "Above The Law",
-          "url": "https://open.spotify.com/artist/1YStXHRj5phGb2LGCudZ6N"
-        }
-      ],
-      "duration_ms": 267093,
-      "name": "Black Superman",
-      "url": "https://open.spotify.com/track/4ptJmZRriw38WVG9mrW5nT"
     }
   ],
   "unique_name": "I Love My West Coast Classics",

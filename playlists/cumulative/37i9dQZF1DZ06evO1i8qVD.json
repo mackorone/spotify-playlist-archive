@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
   "name": "This Is Buddy Guy",
-  "published_playlist_ids": [
-    "0Jw0JU7br3aWZmQsckIayH"
-  ],
   "tracks": [
     {
       "album": {
@@ -431,7 +428,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 138506,
       "name": "First Time I Met The Blues - Single Version",
       "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
@@ -449,7 +446,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 505906,
       "name": "Five Long Years",
       "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
@@ -537,10 +534,32 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 228019,
       "name": "Fresh Out",
       "url": "https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz"
+    },
+    {
+      "album": {
+        "name": "The Blues Don't Lie",
+        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188973,
+      "name": "Gunsmoke Blues (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/5fqugbggilsnWCohZhTSdA"
     },
     {
       "album": {
@@ -559,7 +578,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 188973,
       "name": "Gunsmoke Blues (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
@@ -617,7 +636,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 255600,
       "name": "I Go By Feel",
       "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
@@ -751,7 +770,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-01-04",
       "duration_ms": 296280,
       "name": "I've Got Dreams To Remember",
       "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
@@ -773,6 +792,24 @@
       "duration_ms": 172173,
       "name": "Jam On A Monday Morning",
       "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+    },
+    {
+      "album": {
+        "name": "DJ Play My Blues",
+        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 282493,
+      "name": "Just Teasin'",
+      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
     },
     {
       "album": {
@@ -943,7 +980,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": "2023-01-04",
       "duration_ms": 446080,
       "name": "My Time After Awhile - Live",
       "url": "https://open.spotify.com/track/6GcQV50jII3TVIhkMmk6qI"
@@ -1059,7 +1096,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-02-02",
       "duration_ms": 180772,
       "name": "Sit and Cry (The Blues)",
       "url": "https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk"
@@ -1207,7 +1244,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 385013,
       "name": "Somebody's Sleeping in My Bed",
       "url": "https://open.spotify.com/track/5x43Y3cKUlwnOlRWkb2IMJ"
@@ -1359,7 +1396,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 330360,
       "name": "The World Needs Love",
       "url": "https://open.spotify.com/track/5NYYOgId5AKiVlp2GPt1vg"
@@ -1483,6 +1520,28 @@
       "duration_ms": 279813,
       "name": "What You Gonna Do About Me (feat. Beth Hart)",
       "url": "https://open.spotify.com/track/3aa9lEOjZOn2Om2vdMCR1E"
+    },
+    {
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 275680,
+      "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
+      "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
     },
     {
       "album": {

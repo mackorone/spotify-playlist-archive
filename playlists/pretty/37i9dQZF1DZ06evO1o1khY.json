@@ -1,15 +1,15 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 2415,
+  "num_followers": 5488,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDAyZjQwMWVlODg3OGE2Zjg4OWRiMjQwZDhmZjI0NGE4Yw==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDAzOGFmYjRmYzczMTMzYjg4ZWMzMWMxZTI3ZmRkM2NlYQ==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Tomorrow 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
@@ -29,7 +29,27 @@
       "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
+      "album": {
+        "name": "On Wat U On (with GloRilla)",
+        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 159720,
+      "name": "On Wat U On (with GloRilla)",
+      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "F.N.F. (Let's Go)",
         "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
@@ -49,23 +69,31 @@
       "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v"
+        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
       "artists": [
         {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP"
+      "duration_ms": 145655,
+      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
@@ -81,7 +109,59 @@
       "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
+      "album": {
+        "name": "Bestfrenn (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 138972,
+      "name": "Bestfrenn (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf"
+    },
+    {
+      "added_at": "2023-02-01 17:51:18",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP"
+    },
+    {
+      "added_at": "2023-02-01 17:51:18",
+      "album": {
+        "name": "Nut Quick",
+        "url": "https://open.spotify.com/album/4dxjlUOxRmGsC6ss1H5VWY"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 158136,
+      "name": "Nut Quick",
+      "url": "https://open.spotify.com/track/0WEpjj9YZTbvvIzNiRBAtW"
+    },
+    {
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/358jvrijvWrD1zDXk8uL3G"
@@ -101,10 +181,10 @@
       "url": "https://open.spotify.com/track/7v6B1kRUvNbkVGfqSkrwuS"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
-        "name": "Nut Quick",
-        "url": "https://open.spotify.com/album/4dxjlUOxRmGsC6ss1H5VWY"
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
       "artists": [
         {
@@ -112,12 +192,12 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 158136,
-      "name": "Nut Quick",
-      "url": "https://open.spotify.com/track/0WEpjj9YZTbvvIzNiRBAtW"
+      "duration_ms": 190276,
+      "name": "No More Love",
+      "url": "https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "CRUNKSTAR",
         "url": "https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV"
@@ -137,23 +217,7 @@
       "url": "https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 175463,
-      "name": "PHATNALL",
-      "url": "https://open.spotify.com/track/3HEiAAH5AdjA3ac3aVTQpE"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Westside Baby (Gutta)",
         "url": "https://open.spotify.com/album/4EmV4t1h2uMFlyIkk3qiz6"
@@ -169,7 +233,7 @@
       "url": "https://open.spotify.com/track/3djbJUX2x2ZVqeoH22tOyN"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Set The Tone",
         "url": "https://open.spotify.com/album/7ptT0eB5rLQRUlUAULqJjX"
@@ -205,7 +269,23 @@
       "url": "https://open.spotify.com/track/0MSe6jp83mHI6jqZqoyeZz"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 170711,
+      "name": "Out Loud Thinking",
+      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
+    },
+    {
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Sneaky Link",
         "url": "https://open.spotify.com/album/444HMhYaC7JPfiOOCbRDBU"
@@ -225,23 +305,7 @@
       "url": "https://open.spotify.com/track/5Ml0jIVN0WWU3YTkRwLT9l"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 190276,
-      "name": "No More Love",
-      "url": "https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Gang Nem",
         "url": "https://open.spotify.com/album/3yFLxnWLRK4nUfq4XpU4au"
@@ -257,27 +321,7 @@
       "url": "https://open.spotify.com/track/6klLjDbLFjIINFcNSkgnTZ"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Niki Pooh",
-          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "OOOHH",
         "url": "https://open.spotify.com/album/51Q9lpFEfU4iyXOgtSo7E1"
@@ -301,7 +345,7 @@
       "url": "https://open.spotify.com/track/1qJvi5YfZTRQcdzrqD4oT4"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
@@ -312,12 +356,32 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 170711,
-      "name": "Out Loud Thinking",
-      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
+      "duration_ms": 175463,
+      "name": "PHATNALL",
+      "url": "https://open.spotify.com/track/3HEiAAH5AdjA3ac3aVTQpE"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Niki Pooh",
+          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
+    },
+    {
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Big Shit",
         "url": "https://open.spotify.com/album/47iTiC280nbUCYKSexLoAO"
@@ -337,7 +401,7 @@
       "url": "https://open.spotify.com/track/7LrEMRvMU0UnNWjuZuHacj"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Better Thangs (Remix)",
         "url": "https://open.spotify.com/album/3atBxuFcUVkdnXTsMehmHT"
@@ -361,23 +425,7 @@
       "url": "https://open.spotify.com/track/12dDT2AnpscZ1zL72RvPGR"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "You Ain't Shit",
-        "url": "https://open.spotify.com/album/1OacT8jeOurJExUtAUf2M9"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 220003,
-      "name": "You Ain't Shit",
-      "url": "https://open.spotify.com/track/5DE3GqkM204y8eS2AAhujh"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
@@ -397,7 +445,7 @@
       "url": "https://open.spotify.com/track/0EC9HpKL4bS8O9ANKXLnE2"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "R-A-T-C-H-E-T (FNF FREESTYLE) [Remix]",
         "url": "https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr"
@@ -421,7 +469,43 @@
       "url": "https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:18",
+      "album": {
+        "name": "You Ain't Shit",
+        "url": "https://open.spotify.com/album/1OacT8jeOurJExUtAUf2M9"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 220003,
+      "name": "You Ain't Shit",
+      "url": "https://open.spotify.com/track/5DE3GqkM204y8eS2AAhujh"
+    },
+    {
+      "added_at": "2023-02-01 17:51:18",
+      "album": {
+        "name": "Common Denominator",
+        "url": "https://open.spotify.com/album/1eIgblJilmCeaymw8cyeTt"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 157387,
+      "name": "Common Denominator",
+      "url": "https://open.spotify.com/track/5MFkk1aeKVU6XBOKqkSnNn"
+    },
+    {
+      "added_at": "2023-02-01 17:51:18",
       "album": {
         "name": "Afford Me",
         "url": "https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ"

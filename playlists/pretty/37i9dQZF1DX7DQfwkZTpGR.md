@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DQfwkZTpGR.md) - [plain]
 
 > The historic Italian crew delivers a mix for the ages—featuring contributions by <a href="spotify:artist:4sIhi1hLpRYRGxuPGgucTx">Ricky Le Roy</a>, <a href="spotify:artist:5Aj10ZmH8mlNB8tirOAo4f">Mario Più</a>, <a href="spotify:artist:4JrU565LFXyKjDaHhdmPR6">Joy Kitikonti</a> and <a href="spotify:artist:12cfYIEB508tIyRhgf8Hla">00Zicky</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581 likes - 14 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,869 likes - 14 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-80 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
+81 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 | 2021-04-20 |  |
 | [High Time](https://open.spotify.com/track/2k3XVSB5S7teKwdOCZ6E99) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 5:48 | 2021-04-20 |  |
 | [High, Drunk, and Heartbroke](https://open.spotify.com/track/4p9D4xmZekyDDQdj7E7t1W) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA) | [High, Drunk, and Heartbroke](https://open.spotify.com/album/4LABJGkJKQVOP1zR6MnZRE) | 6:17 | 2021-04-20 |  |
+| [Holy Roller](https://open.spotify.com/track/3D1xwgtx3n5K9FUqGCBsKq) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Holy Roller](https://open.spotify.com/album/4IxTz2QTl1CJqobASo2O3J) | 3:22 | 2022-12-02 |  |
 | [Horses & Weed](https://open.spotify.com/track/08sNpSbnzaPv0dpQvm8sgv) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Horses & Weed](https://open.spotify.com/album/5rnzFUqTog7uCgBJxudv30) | 3:57 | 2022-09-23 |  |
 | [Hush Hush](https://open.spotify.com/track/2zwN5UpzCDnxk4tqWDaJF4) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Annie Up](https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG) | 3:23 | 2021-04-20 |  |
 | [I Breathe In, I Breathe Out](https://open.spotify.com/track/3r513lY50AOJBqaG4nP2LT) | [Chris Cagle](https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl) | [The Best Of Chris Cagle](https://open.spotify.com/album/5pFRXi6aWOpOlUESPBRLru) | 4:03 | 2021-04-20 |  |

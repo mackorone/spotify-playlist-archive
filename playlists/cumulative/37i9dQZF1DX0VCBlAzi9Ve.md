@@ -4,7 +4,7 @@
 
 > Let it simmer with some smooth R&amp;B.
 
-47 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/2DkFZ3ifqowOjtkTcUTEzD)
+47 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

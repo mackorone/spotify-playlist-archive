@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 61586,
+  "num_followers": 64585,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDQ3YzRlOGU1Yzk4Mzc5ZTdhZGM0NzJmYWQ1NzM1OTk0",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDVkNGRlNDQ0ZjM2MGQyNzk2NTYxM2Q1ZDhiZTBkYjNi",
   "tracks": [
     {
       "added_at": "2022-04-09 04:26:32",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
+        "name": "Apollo Sound 5",
+        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Que Se Sepa",
+      "url": "https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
         "name": "Under The Streetlamps: Anthology 1967-72",
         "url": "https://open.spotify.com/album/678pt0QZ8mwQakkZRuuzQq"
       },
@@ -95,34 +111,18 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Apollo Sound 5",
-        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
       },
       "artists": [
         {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
         }
       ],
-      "duration_ms": 196226,
-      "name": "Que Se Sepa",
-      "url": "https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+      "duration_ms": 160826,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
     },
     {
       "added_at": "2021-09-07 18:02:03",
@@ -141,20 +141,20 @@
       "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
     },
     {
-      "added_at": "2022-04-09 04:26:32",
+      "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
       "artists": [
         {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
         }
       ],
-      "duration_ms": 160826,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
+      "duration_ms": 165213,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
     },
     {
       "added_at": "2022-04-09 04:25:14",
@@ -207,26 +207,6 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Conga Blue",
-        "url": "https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        },
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/5ZCHcxVW3vMPzJMTW9wBpc"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 333280,
       "name": "El Pito (I'll Never Go Back To Georgia)",
       "url": "https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Conga Blue",
+        "url": "https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        },
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/5ZCHcxVW3vMPzJMTW9wBpc"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -279,6 +279,42 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
+        "name": "Barretto",
+        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Guarar\u00e9",
+      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "A Man And His Music: The Player",
+        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 446400,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
         "name": "De Panama A Nueva York",
         "url": "https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR"
       },
@@ -299,6 +335,22 @@
     {
       "added_at": "2021-09-07 18:02:03",
       "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "duration_ms": 325920,
+      "name": "Micaela - Live",
+      "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
         "name": "Orchestra Harlow Presenta a Ismael Miranda",
         "url": "https://open.spotify.com/album/3YIcRu0JUrtqcXQUoLjoy4"
       },
@@ -315,6 +367,22 @@
       "duration_ms": 196600,
       "name": "Grazin' In The Grass",
       "url": "https://open.spotify.com/track/071QzNfV4nNVuCbBZ598uC"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "La Cuna",
+        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 514866,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
     },
     {
       "added_at": "2021-09-07 18:02:03",
@@ -353,42 +421,6 @@
       "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "Barretto",
-        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Tito G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
-        }
-      ],
-      "duration_ms": 338520,
-      "name": "Guarar\u00e9",
-      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
-      },
-      "artists": [
-        {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
-        }
-      ],
-      "duration_ms": 325920,
-      "name": "Micaela - Live",
-      "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
-    },
-    {
       "added_at": "2021-09-07 18:02:03",
       "album": {
         "name": "Joey",
@@ -405,20 +437,20 @@
       "url": "https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv"
     },
     {
-      "added_at": "2021-09-07 18:02:03",
+      "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Introducing George Guzman",
-        "url": "https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb"
+        "name": "Mongo Santamaria's Greatest Hits",
+        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
       },
       "artists": [
         {
-          "name": "George Guzman",
-          "url": "https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL"
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
         }
       ],
-      "duration_ms": 247053,
-      "name": "Marilu",
-      "url": "https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1"
+      "duration_ms": 344960,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -443,90 +475,50 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Mongo Santamaria's Greatest Hits",
-        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
+        "name": "Pachanguerisimo, Vol. 1",
+        "url": "https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq"
       },
       "artists": [
         {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+          "name": "Pete Terrace",
+          "url": "https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP"
         }
       ],
-      "duration_ms": 344960,
-      "name": "Cloud Nine",
-      "url": "https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Take A Trip Pussy Cat",
-        "url": "https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg"
-      },
-      "artists": [
-        {
-          "name": "The Latin Blues Band",
-          "url": "https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W"
-        },
-        {
-          "name": "Luis Aviles",
-          "url": "https://open.spotify.com/artist/0Gn61gQpTFRbP9l6lyEy49"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "(I'll Be A) Happy Man",
-      "url": "https://open.spotify.com/track/5LuzVIV75d9eaSeJfOfTJK"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Con Todos los Hierros: Everything But The Kitchen Sink",
-        "url": "https://open.spotify.com/album/4VXR5GVsHxY0dXM0XwK9rX"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        },
-        {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Arrecot\u00edn Arrecot\u00e1n",
-      "url": "https://open.spotify.com/track/4YvQolXPImTRwrhG40hqsf"
+      "duration_ms": 144813,
+      "name": "A la la E",
+      "url": "https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6"
     },
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "A Man And His Music: The Player",
-        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 446400,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
+      "duration_ms": 272253,
+      "name": "Lo Atar\u00e1 la Arache",
+      "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
     },
     {
-      "added_at": "2022-04-09 04:26:32",
+      "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "La Cuna",
-        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
+        "name": "Introducing George Guzman",
+        "url": "https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb"
       },
       "artists": [
         {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+          "name": "George Guzman",
+          "url": "https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL"
         }
       ],
-      "duration_ms": 514866,
-      "name": "Pastime Paradise",
-      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
+      "duration_ms": 247053,
+      "name": "Marilu",
+      "url": "https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1"
     }
   ],
   "unique_name": "Boogaloo Essentials",

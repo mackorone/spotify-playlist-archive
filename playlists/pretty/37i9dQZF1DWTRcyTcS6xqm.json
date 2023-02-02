@@ -1,28 +1,28 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 7413,
+  "num_followers": 8267,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDhiMDBhYmYwOTNkNmQyM2UwMTc2MTFkY2FmNWU5YTMz",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGE2ZjQwOTUwMzliMjQzZDFhOTBmN2I2OTU4NThjMTgz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
       },
       "artists": [
         {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 246573,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF"
+      "duration_ms": 143226,
+      "name": "The House Is Rockin'",
+      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -43,18 +43,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "In Step",
-        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 143226,
-      "name": "The House Is Rockin'",
-      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
+      "duration_ms": 246573,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Can't Look Back",
+        "url": "https://open.spotify.com/album/1SvTWXMHWM41KEQ3es4m0r"
+      },
+      "artists": [
+        {
+          "name": "Coco Montoya",
+          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Back In A Cadillac",
+      "url": "https://open.spotify.com/track/19aE9JrFOAlIgHWPm8ni37"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Blues Summit",
         "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
       },
@@ -115,6 +131,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
+      "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Dust My Broom",
         "url": "https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq"
       },
@@ -127,6 +163,22 @@
       "duration_ms": 150667,
       "name": "Shake Your Money Maker",
       "url": "https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Mojo Boogie - Remastered",
+      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -167,38 +219,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
         }
       ],
-      "duration_ms": 197946,
-      "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
-      "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 293293,
-      "name": "Mojo Boogie - Remastered",
-      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+      "duration_ms": 236746,
+      "name": "Too Drunk To Drive Drunk",
+      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -219,34 +251,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
         }
       ],
-      "duration_ms": 170000,
-      "name": "T-Bone Shuffle",
-      "url": "https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Can't Look Back",
-        "url": "https://open.spotify.com/album/1SvTWXMHWM41KEQ3es4m0r"
-      },
-      "artists": [
-        {
-          "name": "Coco Montoya",
-          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Back In A Cadillac",
-      "url": "https://open.spotify.com/track/19aE9JrFOAlIgHWPm8ni37"
+      "duration_ms": 209120,
+      "name": "Make It Move",
+      "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -267,18 +283,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA"
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
       "artists": [
         {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
         }
       ],
-      "duration_ms": 236746,
-      "name": "Too Drunk To Drive Drunk",
-      "url": "https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv"
+      "duration_ms": 170000,
+      "name": "T-Bone Shuffle",
+      "url": "https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -319,34 +335,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
       },
       "artists": [
         {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
         }
       ],
-      "duration_ms": 209120,
-      "name": "Make It Move",
-      "url": "https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Booty And The Beast",
-        "url": "https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi"
-      },
-      "artists": [
-        {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "Sweet Goddess of Love and Beer",
-      "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
+      "duration_ms": 239853,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -371,18 +371,50 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
+        "name": "Booty And The Beast",
+        "url": "https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi"
       },
       "artists": [
         {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
         }
       ],
-      "duration_ms": 239853,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz"
+      "duration_ms": 279640,
+      "name": "Sweet Goddess of Love and Beer",
+      "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 114784,
+      "name": "We've Got The Music",
+      "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Benton County Relic",
+        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 143013,
+      "name": "Get Your Groove On",
+      "url": "https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -403,22 +435,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 288282,
-      "name": "Blues Party",
-      "url": "https://open.spotify.com/track/3o6j1UHNrch5Xigvyn3jZA"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "That's What I Heard",
         "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
       },
@@ -431,6 +447,22 @@
       "duration_ms": 224906,
       "name": "Hot",
       "url": "https://open.spotify.com/track/13fRchgQiChtVn1vcQ7QTt"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 288282,
+      "name": "Blues Party",
+      "url": "https://open.spotify.com/track/3o6j1UHNrch5Xigvyn3jZA"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -455,22 +487,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 114784,
-      "name": "We've Got The Music",
-      "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Like It on Top",
         "url": "https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8"
       },
@@ -491,6 +507,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Got Soul",
+      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The Bookends",
         "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
@@ -505,20 +537,20 @@
       "url": "https://open.spotify.com/track/3vuaT3eh47OoyjFtCjDyta"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-11-05 04:00:00",
       "album": {
-        "name": "Benton County Relic",
-        "url": "https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu"
+        "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
       },
       "artists": [
         {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
         }
       ],
-      "duration_ms": 143013,
-      "name": "Get Your Groove On",
-      "url": "https://open.spotify.com/track/7rTMCY2QFWN8iHD1JjCWye"
+      "duration_ms": 149895,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -535,22 +567,6 @@
       "duration_ms": 254240,
       "name": "I Feel so Good",
       "url": "https://open.spotify.com/track/1P7QsV7OG46lyLy85Mmd2v"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Got Soul",
-      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -591,22 +607,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Stompin' Ground",
         "url": "https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti"
       },
@@ -614,6 +614,10 @@
         {
           "name": "Tommy Castro",
           "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        },
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
         }
       ],
       "duration_ms": 239666,
@@ -635,6 +639,22 @@
       "duration_ms": 295746,
       "name": "Best in Town",
       "url": "https://open.spotify.com/track/5sPZH5scVV63witIumgJIa"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -671,42 +691,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Dirty Truth",
-        "url": "https://open.spotify.com/album/0kzodLdXKTl9mbyAr5hFXW"
+        "name": "Stronger For It",
+        "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
         }
       ],
-      "duration_ms": 262413,
-      "name": "Outlaw Angel",
-      "url": "https://open.spotify.com/track/6sxkNpFtNuK5q8ctf626Z1"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Times Have Changed",
-        "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Baker Brooks",
-          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
-        },
-        {
-          "name": "Felix Cavaliere",
-          "url": "https://open.spotify.com/artist/74wxdlP4utkNZrtAL0mKrQ"
-        },
-        {
-          "name": "Lee Roy Parnell",
-          "url": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Come On Up",
-      "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
+      "duration_ms": 156773,
+      "name": "Whoop And Holler",
+      "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -731,6 +727,62 @@
       "duration_ms": 275226,
       "name": "Let The Good Time Party Begin",
       "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Dirty Truth",
+        "url": "https://open.spotify.com/album/0kzodLdXKTl9mbyAr5hFXW"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 262413,
+      "name": "Outlaw Angel",
+      "url": "https://open.spotify.com/track/6sxkNpFtNuK5q8ctf626Z1"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "Damage Control",
+        "url": "https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH"
+      },
+      "artists": [
+        {
+          "name": "Curtis Salgado",
+          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
+        }
+      ],
+      "duration_ms": 256522,
+      "name": "Hail Mighty Caesar",
+      "url": "https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Times Have Changed",
+        "url": "https://open.spotify.com/album/5CjUUKNjZj3rjOIrph5xxx"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Baker Brooks",
+          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
+        },
+        {
+          "name": "Felix Cavaliere",
+          "url": "https://open.spotify.com/artist/74wxdlP4utkNZrtAL0mKrQ"
+        },
+        {
+          "name": "Lee Roy Parnell",
+          "url": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Come On Up",
+      "url": "https://open.spotify.com/track/2w34s0Ym9EmBrOChohADgW"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -765,22 +817,6 @@
       "url": "https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Damage Control",
-        "url": "https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH"
-      },
-      "artists": [
-        {
-          "name": "Curtis Salgado",
-          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
-        }
-      ],
-      "duration_ms": 256522,
-      "name": "Hail Mighty Caesar",
-      "url": "https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI"
-    },
-    {
       "added_at": "2021-03-19 05:01:00",
       "album": {
         "name": "Big Mama's Soul Food",
@@ -803,38 +839,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Stronger For It",
-        "url": "https://open.spotify.com/album/1sCv9I6R8QMWsjSG9yxJcA"
-      },
-      "artists": [
-        {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Whoop And Holler",
-      "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Blues Survivor",
-        "url": "https://open.spotify.com/album/2oBD4lmYyAVaRYTbHBkrKr"
-      },
-      "artists": [
-        {
-          "name": "Joe Louis Walker",
-          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
-        }
-      ],
-      "duration_ms": 410360,
-      "name": "Shake For Me",
-      "url": "https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Girls With Guitars",
         "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
       },
@@ -851,18 +855,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Son Of A Bluesman",
-        "url": "https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9"
+        "name": "Show Of Strength",
+        "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
       },
       "artists": [
         {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
         }
       ],
-      "duration_ms": 281013,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
+      "duration_ms": 360146,
+      "name": "Little Juke Joint",
+      "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
     }
   ],
   "unique_name": "Blues Party",

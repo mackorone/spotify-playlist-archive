@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "2012 highlights from the home of indie music.",
   "name": "Best of Indie 2012",
-  "published_playlist_ids": [
-    "29YeNDTqUiFvSscOUZ5nOE"
-  ],
   "tracks": [
     {
       "album": {
@@ -491,10 +488,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 284146,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
+    },
+    {
+      "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
     },
     {
       "album": {
@@ -895,10 +910,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+    },
+    {
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "album": {
@@ -1021,10 +1054,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 179653,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1N3c3dDtbx1OodfkIcxBmy"
+    },
+    {
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179653,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
     },
     {
       "album": {
@@ -1097,7 +1148,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 241613,
       "name": "It's Only Life",
       "url": "https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH"
@@ -1205,7 +1256,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 239613,
       "name": "lofticries",
       "url": "https://open.spotify.com/track/0Uc1kywLKWHjqRbuY6OJvK"
@@ -1403,7 +1454,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 251453,
       "name": "Next Year",
       "url": "https://open.spotify.com/track/04Lfe4r35E38e6D0FlJKfn"
@@ -1681,7 +1732,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-10",
       "duration_ms": 182146,
       "name": "Serpents",
       "url": "https://open.spotify.com/track/2v05RhwIQx3zbN8O72Ff69"
@@ -2219,7 +2270,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 318423,
       "name": "Yet Again",
       "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"

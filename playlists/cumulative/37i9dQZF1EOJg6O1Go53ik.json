@@ -1,9 +1,44 @@
 {
   "date_first_scraped": "2022-10-30",
   "description": "Dig deeper into some of your top artists of 2020 with a mix of talk and music.",
-  "name": "On Record (2)",
-  "published_playlist_ids": [],
+  "name": "On Record (3)",
   "tracks": [
+    {
+      "album": {
+        "name": "Why I Hate this Album",
+        "url": "https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s"
+      },
+      "artists": [
+        {
+          "name": "Why I Hate this Album",
+          "url": "https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 5476347,
+      "name": "#67 - Pink - Missundaztood",
+      "url": "https://open.spotify.com/episode/2OquVf9jWJm9RxIyPJnUrf"
+    },
+    {
+      "album": {
+        "name": "1001 Album Club",
+        "url": "https://open.spotify.com/show/7f5Rdm6RukUPsWFtxlEfOb"
+      },
+      "artists": [
+        {
+          "name": "1001 Album Club",
+          "url": "https://open.spotify.com/show/7f5Rdm6RukUPsWFtxlEfOb"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 960052,
+      "name": "019  Ella Fitzgerald - Sings the Gershwin Song Book",
+      "url": "https://open.spotify.com/episode/3ne1wQAfU2YLTqgyaV3dm6"
+    },
     {
       "album": {
         "name": "A Thousand Years",
@@ -42,6 +77,24 @@
     },
     {
       "album": {
+        "name": "LadyGang",
+        "url": "https://open.spotify.com/show/00wEJsU0XM16HnVSu4c8hd"
+      },
+      "artists": [
+        {
+          "name": "LadyGang",
+          "url": "https://open.spotify.com/show/00wEJsU0XM16HnVSu4c8hd"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3303314,
+      "name": "Christina Perri",
+      "url": "https://open.spotify.com/episode/7iNTab0ZDTvDdarf7MCX93"
+    },
+    {
+      "album": {
         "name": "Come Away With Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6PguISnE2nz7CuhnIAWhQF"
       },
@@ -57,6 +110,24 @@
       "duration_ms": 198226,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/52FKX00U3PnzrBQmbMTB8b"
+    },
+    {
+      "album": {
+        "name": "FreaKBeatS EDM podcast",
+        "url": "https://open.spotify.com/show/6nkFEdeDqxuXG1DPZqP7sf"
+      },
+      "artists": [
+        {
+          "name": "FreaKBeatS EDM podcast",
+          "url": "https://open.spotify.com/show/6nkFEdeDqxuXG1DPZqP7sf"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1047168,
+      "name": "Happy 30th Birthday Avicii; 8th Sept. 2019 | Episode 123",
+      "url": "https://open.spotify.com/episode/4xkB9jPWfWNuk1CfcTuH2x"
     },
     {
       "album": {
@@ -154,6 +225,42 @@
     },
     {
       "album": {
+        "name": "Kyle Meredith With...",
+        "url": "https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI"
+      },
+      "artists": [
+        {
+          "name": "Kyle Meredith With...",
+          "url": "https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1226240,
+      "name": "Kyle Meredith With... Ingrid Michaelson",
+      "url": "https://open.spotify.com/episode/3vNRIcyly7Iueb8ETf6MNl"
+    },
+    {
+      "album": {
+        "name": "Self-Helpless",
+        "url": "https://open.spotify.com/show/331TJ7eQKg2gHmAk7AU4XG"
+      },
+      "artists": [
+        {
+          "name": "Self-Helpless",
+          "url": "https://open.spotify.com/show/331TJ7eQKg2gHmAk7AU4XG"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1819507,
+      "name": "Michael Bubl\u00e9",
+      "url": "https://open.spotify.com/episode/2TVj2nVXqonItq3lka8i4K"
+    },
+    {
+      "album": {
         "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
         "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
       },
@@ -169,6 +276,60 @@
       "duration_ms": 224226,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn"
+    },
+    {
+      "album": {
+        "name": "Anna Faris Is Unqualified",
+        "url": "https://open.spotify.com/show/6ubUV2saxlMsNlrjK0oLqV"
+      },
+      "artists": [
+        {
+          "name": "Anna Faris Is Unqualified",
+          "url": "https://open.spotify.com/show/6ubUV2saxlMsNlrjK0oLqV"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 4928130,
+      "name": "Norah Jones",
+      "url": "https://open.spotify.com/episode/6Db8HyyK2vMteKwVoC1Bej"
+    },
+    {
+      "album": {
+        "name": "The Best Hang Podcast",
+        "url": "https://open.spotify.com/show/5jZSR5YDg2WzSkvo5fFYO2"
+      },
+      "artists": [
+        {
+          "name": "The Best Hang Podcast",
+          "url": "https://open.spotify.com/show/5jZSR5YDg2WzSkvo5fFYO2"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 4132988,
+      "name": "Season 1 Mike On Much: Jason Mraz (#123)",
+      "url": "https://open.spotify.com/episode/52Egi5VmJStEPEtNMSwb59"
+    },
+    {
+      "album": {
+        "name": "Elvis Duran and the Morning Show ON DEMAND",
+        "url": "https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi"
+      },
+      "artists": [
+        {
+          "name": "Elvis Duran and the Morning Show ON DEMAND",
+          "url": "https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 6971820,
+      "name": "The Day Bruno Mars Called",
+      "url": "https://open.spotify.com/episode/4cKRSBFHi3jOq4SYZ7Xj25"
     },
     {
       "album": {
@@ -205,6 +366,24 @@
       "duration_ms": 12004,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8"
+    },
+    {
+      "album": {
+        "name": "Popcast",
+        "url": "https://open.spotify.com/show/3ugDIELXIU7erW5Xp49tWp"
+      },
+      "artists": [
+        {
+          "name": "Popcast",
+          "url": "https://open.spotify.com/show/3ugDIELXIU7erW5Xp49tWp"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1826560,
+      "name": "Why We\u2019re Still Listening to the Beatles\u2019 \u2018Sgt. Pepper\u2019",
+      "url": "https://open.spotify.com/episode/31fwCZJrpDvcHOWsrOJZrE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EOJg6O1Go53ik"

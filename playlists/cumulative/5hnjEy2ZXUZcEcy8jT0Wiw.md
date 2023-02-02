@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-342 songs - 23 hr 56 min - [published](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
+343 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Negotiation's Over](https://open.spotify.com/track/19Oy2pBYfpz7OhraQQgUn8) | [OGRE Sound](https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj) | [195](https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC) | 2:28 | 2019-07-15 |  |
 | [Neon Division](https://open.spotify.com/track/28e71n4lAnr7A5N64Gk78s) | [V FOR VICTORY](https://open.spotify.com/artist/6UKAwF1dSqCYutWDeyH36F) | [Neon Division](https://open.spotify.com/album/41u0uBT4v9574JzyT3DoaP) | 6:14 | 2019-07-15 |  |
 | [Neural Net](https://open.spotify.com/track/7nWJ0xCo6xaJkqig8UEZ73) | [Don](https://open.spotify.com/artist/2ldH4h3nkIuOio5BW1KWUs), [Arctic Mega Defender](https://open.spotify.com/artist/4AQcUa62ohDxrUzHY1nS8X) | [Neural Net](https://open.spotify.com/album/2hxAYl4RkoM4UxCFVucH9S) | 3:49 | 2019-07-16 |  |
+| [Nexus](https://open.spotify.com/track/67H6EbmguJyi0zbVzuTxBn) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ), [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [Nexus](https://open.spotify.com/album/1v8Rd25usJ3DblzOzBtoyV) | 3:35 | 2022-12-09 |  |
 | [Night Crawler](https://open.spotify.com/track/1DGTFVHRxCMqE5MqG9Fk6Q) | [Terrordyne](https://open.spotify.com/artist/6P5GUtpISiShk3WnsCrABy) | [Wrong Turn](https://open.spotify.com/album/2dxRgBjpEva2JX1jlf8Zgy) | 4:03 | 2020-12-12 |  |
 | [Night Force](https://open.spotify.com/track/7beCbOF1ICLYiLl1WRsIXP) | [Power Glove](https://open.spotify.com/artist/0dalJaAT80lKfkZsC86lnW) | [Futurecop! presents We Are the Future](https://open.spotify.com/album/0BaLSSbHEEMxGHECWBywcO) | 4:15 | 2019-07-15 |  |
 | [Night Lights](https://open.spotify.com/track/5yzJfE8n4Xhq9mGNsnXfgM) | [Jupiter\-8](https://open.spotify.com/artist/71hu2qmDH3K0MF4ZY3DZ6r) | [Night Lights](https://open.spotify.com/album/46tan0nVxB2pnsvB9crULh) | 4:25 | 2019-07-15 |  |

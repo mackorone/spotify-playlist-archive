@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Lean back, close your eyes, and relax.",
   "name": "Keep Calm",
-  "published_playlist_ids": [
-    "6R3n3sy2PZgo8hDFzJepwy"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/181ybi6b0dYJBcQzETKv67"
@@ -692,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/4Mc2ZJzVs7svcAa6K16PzR"
+      },
+      "artists": [
+        {
+          "name": "Theo Adagio",
+          "url": "https://open.spotify.com/artist/0hXbvfASKCsYIP7qG9iN4K"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153906,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/2iz8mLXZg0y2ObLkWBvJVE"
+    },
+    {
+      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/7sJJum4P8SaEmJI6Ud1rpk"
       },
@@ -743,6 +758,24 @@
       "duration_ms": 192000,
       "name": "Close your eyes",
       "url": "https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl"
+    },
+    {
+      "album": {
+        "name": "An Evening Sky",
+        "url": "https://open.spotify.com/album/3au3MZf62Yy8cm4OknYbWh"
+      },
+      "artists": [
+        {
+          "name": "Vista Hierro",
+          "url": "https://open.spotify.com/artist/0CALPbZtkitbpbqDjU6Ddp"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152414,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/6za1vOLEcxfVRs9xFTNGfS"
     },
     {
       "album": {
@@ -1165,8 +1198,8 @@
       },
       "artists": [
         {
-          "name": "Zhou Thiemo",
-          "url": "https://open.spotify.com/artist/3melX7nvzHoJ9w8pCvpTRK"
+          "name": "Halcyon Wings",
+          "url": "https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ"
         }
       ],
       "date_added": "2022-11-11",
@@ -1237,8 +1270,8 @@
       },
       "artists": [
         {
-          "name": "Sama Reicart",
-          "url": "https://open.spotify.com/artist/37ciUEYtMGcDUn53mDSCtb"
+          "name": "Reiki Akoya",
+          "url": "https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5"
         }
       ],
       "date_added": "2022-10-14",
@@ -1247,6 +1280,24 @@
       "duration_ms": 195750,
       "name": "Essence Of Life",
       "url": "https://open.spotify.com/track/1AEY6qqRFUTssOXfRZOh9p"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8"
+      },
+      "artists": [
+        {
+          "name": "Midnight Diver",
+          "url": "https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142518,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf"
     },
     {
       "album": {
@@ -1391,6 +1442,24 @@
       "duration_ms": 206250,
       "name": "Farley",
       "url": "https://open.spotify.com/track/0Ct6WKA4XqXRFdFn2BFkxD"
+    },
+    {
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/1d8NwbMFmKF9jRnV4vDa81"
+      },
+      "artists": [
+        {
+          "name": "Tikos",
+          "url": "https://open.spotify.com/artist/2cFXG0m3aAeTHtfxT1p684"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155281,
+      "name": "Ferona",
+      "url": "https://open.spotify.com/track/6gTj9ziamEC4GY9EqfzFKD"
     },
     {
       "album": {
@@ -2006,6 +2075,24 @@
     },
     {
       "album": {
+        "name": "Lagoom",
+        "url": "https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC"
+      },
+      "artists": [
+        {
+          "name": "Harvey Lanza",
+          "url": "https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Lagoom",
+      "url": "https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM"
+    },
+    {
+      "album": {
         "name": "Laikas Miega",
         "url": "https://open.spotify.com/album/73ptqEIMKkiLTK3wZBBomt"
       },
@@ -2431,7 +2518,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 229910,
       "name": "Moment of Peace",
       "url": "https://open.spotify.com/track/3IvRypHZvFCKf6y7H4VLSX"
@@ -2593,7 +2680,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 129282,
       "name": "Nightlight",
       "url": "https://open.spotify.com/track/2OlcmyPBuYV93F5yya6gvY"
@@ -3163,8 +3250,8 @@
       },
       "artists": [
         {
-          "name": "Mergen Aurel",
-          "url": "https://open.spotify.com/artist/3xcPKdQ9jaodfrdkUR725f"
+          "name": "Reiki Akoya",
+          "url": "https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5"
         }
       ],
       "date_added": "2022-11-11",
@@ -3295,7 +3382,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 291320,
       "name": "Ready (Eventide)",
       "url": "https://open.spotify.com/track/3TkZqdoFUtauvCxBsgNglY"
@@ -3569,6 +3656,24 @@
       "duration_ms": 163005,
       "name": "Shapeless",
       "url": "https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE"
+    },
+    {
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/6T315JLO4N7RDtHYMRt2Vx"
+      },
+      "artists": [
+        {
+          "name": "Armando Mago",
+          "url": "https://open.spotify.com/artist/3G03DUCoeCCsWqlZRlvakU"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145396,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/6AOdCocb5K5qoqtgJJZfbv"
     },
     {
       "album": {
@@ -3896,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/5cAyA5mlUDMuQ89JHasPkg"
+      },
+      "artists": [
+        {
+          "name": "Ilumina",
+          "url": "https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1o (nos vemos ma\u00f1ana)",
         "url": "https://open.spotify.com/album/1cv6KC1L2brsbH63ImADBK"
       },
@@ -4033,7 +4156,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 180079,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/6V8THVzHBSqnQG1fud3FjS"
@@ -4591,7 +4714,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 118874,
       "name": "Vue d'hiver",
       "url": "https://open.spotify.com/track/0ynxLfs9IO4bi4AMBbHqI9"
@@ -4721,6 +4844,24 @@
       "duration_ms": 202499,
       "name": "Where There Is Hope",
       "url": "https://open.spotify.com/track/1FccNfzWE4sM0h63DrxRl3"
+    },
+    {
+      "album": {
+        "name": "Where Trees Stand Tall",
+        "url": "https://open.spotify.com/album/1Su8cxJRziavqhZt8NKuYv"
+      },
+      "artists": [
+        {
+          "name": "Lesunia",
+          "url": "https://open.spotify.com/artist/3rfxxLcf3jUOQN2ptyhIVj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118233,
+      "name": "Where Trees Stand Tall",
+      "url": "https://open.spotify.com/track/2dfPVbN70gDVrfMHdsfrUC"
     },
     {
       "album": {

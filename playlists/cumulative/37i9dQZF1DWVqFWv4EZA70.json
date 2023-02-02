@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "Beats que le suben el \u00e1nimo a tu d\u00eda.",
   "name": "Relax Brunch",
-  "published_playlist_ids": [
-    "5VrVr3VNwavbhZLRyDryhs"
-  ],
   "tracks": [
     {
       "album": {
@@ -251,6 +248,24 @@
     {
       "album": {
         "name": "Thought So\u2026",
+        "url": "https://open.spotify.com/album/6eRbwkfRJkEWTdNQ7NL3rT"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281308,
+      "name": "Da Feelin",
+      "url": "https://open.spotify.com/track/2eV5tSdlAqNQIHRzHUMsXe"
+    },
+    {
+      "album": {
+        "name": "Thought So\u2026",
         "url": "https://open.spotify.com/album/0nLCUby65vPnn29qRPFq4I"
       },
       "artists": [
@@ -261,7 +276,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 281626,
       "name": "Da Feelin",
       "url": "https://open.spotify.com/track/4JCmpKszRvku5euErqBIPO"
@@ -981,6 +996,28 @@
     {
       "album": {
         "name": "Oh My God (feat. Lily Allen)",
+        "url": "https://open.spotify.com/album/4J086EMlr6bwo4E4o93vvP"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219160,
+      "name": "Oh My God (feat. Lily Allen) - Instrumental",
+      "url": "https://open.spotify.com/track/3WQIsoZw1ozbE7KW0C7gfW"
+    },
+    {
+      "album": {
+        "name": "Oh My God (feat. Lily Allen)",
         "url": "https://open.spotify.com/album/2NPq3xrMiBkXt6dz8LPPTN"
       },
       "artists": [
@@ -995,7 +1032,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 220720,
       "name": "Oh My God (feat. Lily Allen) - Instrumental",
       "url": "https://open.spotify.com/track/5KNqTr64pJLzSrDC6P4NH6"
@@ -1493,6 +1530,24 @@
     {
       "album": {
         "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209316,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m"
+    },
+    {
+      "album": {
+        "name": "In A Space Outta Sound",
         "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
       },
       "artists": [
@@ -1503,7 +1558,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 210466,
       "name": "You Wish",
       "url": "https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz"

@@ -4,7 +4,7 @@
 
 > Celebrating the oral tradition of Punjabi poetry.
 
-43 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/4mYwTcH6PxKTxtN3dhZN3h)
+43 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/66qrbgFxBQIYZjL76PLDsW)
+63 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [I Apologize](https://open.spotify.com/track/11uYLvX94pLqGXyiBqv4vI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 4:02 | 2022-05-30 |  |
 | [I Refuse](https://open.spotify.com/track/7H3wZikaMxA1D3ipMy8evb) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:38 | 2022-05-30 |  |
 | [Inside Out](https://open.spotify.com/track/163Kb2pSLLduhfbO6Zn0sL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:46 | 2022-05-30 |  |
+| [IOU](https://open.spotify.com/track/0rqRkmrlWyuhSUqJKvf8SK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:27 | 2022-12-04 | 2022-12-21 |
 | [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 | 2022-05-30 | 2022-09-09 |
 | [Jekyll and Hyde](https://open.spotify.com/track/5MjkeHk6I0JA0q13eqtnJP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:26 | 2022-05-30 |  |
 | [Judgment Day](https://open.spotify.com/track/28pN19lOLb7o6CZlCAcflX) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:52 | 2022-08-21 |  |

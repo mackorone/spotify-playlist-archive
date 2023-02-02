@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-17",
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
   "name": "Sol de Domingo",
-  "published_playlist_ids": [
-    "0lHqHMv4PqSf7iP3xOQ8Du"
-  ],
   "tracks": [
     {
       "album": {
@@ -733,10 +730,28 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 236372,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0SMKJo3fHqODpavZKFBEjn"
+    },
+    {
+      "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236372,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
     },
     {
       "album": {
@@ -1521,10 +1536,32 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 192800,
       "name": "Terrorista del Amor",
       "url": "https://open.spotify.com/track/3IBr0mlJyT7q98SvxhXY9D"
+    },
+    {
+      "album": {
+        "name": "TU",
+        "url": "https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla"
+      },
+      "artists": [
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Terrorista Del Amor",
+      "url": "https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This hard hitting rock playlist features rock icons YUNGBLUD, The 1975, and more!
 
-63 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/7FznKeCsQpNLqZlJ0uMlc2)
+63 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
   "name": "This Is ReoNa",
-  "published_playlist_ids": [
-    "6veeVefkYHSLtRTsxsOXCw"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,7 +92,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 314253,
       "name": "ANIMA -Naked Style.- -Instrumental-",
       "url": "https://open.spotify.com/track/1D7CDijkgMBPtWARJiOxNt"
@@ -294,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Alive(Special Edition)",
+        "url": "https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/1Hane5qDm7pjoe5F96HtnZ"
+    },
+    {
+      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
       },
@@ -353,6 +368,24 @@
       "duration_ms": 257786,
       "name": "Scar/let",
       "url": "https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f"
+    },
+    {
+      "album": {
+        "name": "Alive(Special Edition)",
+        "url": "https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320560,
+      "name": "Simoom",
+      "url": "https://open.spotify.com/track/05MXmdbsQsZbyBpuFr5f3P"
     },
     {
       "album": {
@@ -447,6 +480,24 @@
       "duration_ms": 238666,
       "name": "time",
       "url": "https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0"
+    },
+    {
+      "album": {
+        "name": "VITA",
+        "url": "https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306586,
+      "name": "VITA",
+      "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
     },
     {
       "album": {
@@ -735,6 +786,24 @@
       "duration_ms": 267533,
       "name": "\u30e9\u30a4\u30d5\u30fb\u30a4\u30ba\u30fb\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30a9\u30fc -Instrumental-",
       "url": "https://open.spotify.com/track/4h2bkYwwW83WbPVFixtzE4"
+    },
+    {
+      "album": {
+        "name": "Alive(Special Edition)",
+        "url": "https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319346,
+      "name": "\u4e00\u756a\u661f",
+      "url": "https://open.spotify.com/track/0rFlCZTNJO8p9A7Jg7PYn3"
     },
     {
       "album": {

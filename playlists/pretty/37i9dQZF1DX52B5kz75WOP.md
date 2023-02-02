@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52B5kz75WOP.md) - [plain]
 
 > Curated by <a href="spotify:artist:6ZLTlhejhndI4Rh53vYhrY>Ozzy Osbourne</a> for his beloved Pomeranian, Rocky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761 likes - 17 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 829 likes - 17 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52B5kz75WOP.md) - [plain]
 | 5 | [Dog Eat Dog](https://open.spotify.com/track/0L0x35hQnmCLtHeSGQlEZj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 3:34 |
 | 6 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
 | 7 | [Party with the Animals](https://open.spotify.com/track/3YLMkQJQXf7IUrZY8RdSfk) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:18 |
-| 8 | [Walkin' The Dog](https://open.spotify.com/track/3TtNZafFdL1ccxVNERnh4w) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 3:12 |
+| 8 | [Walkin' The Dog](https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 3:13 |
 | 9 | [Givin the Dog a Bone](https://open.spotify.com/track/6rAy2MsMUabbqu2VygrblP) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:31 |
 | 10 | [Hair Of The Dog](https://open.spotify.com/track/1wXE6zvNWRz8GuMfEUgETz) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair Of The Dog](https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF) | 4:09 |
 | 11 | [The Dogs of War](https://open.spotify.com/track/4ggDbvTME5EAso1xfGX2M0) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 6:03 |
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52B5kz75WOP.md) - [plain]
 | 16 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 | 17 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
 
-Snapshot ID: `MTU3OTAyOTQ1NiwwMDAwMDAwMGFjMmI4YTU0ZGJlODJjOTYwNDBiYzY5OGVlMDA4ZDhk`
+Snapshot ID: `MTU3OTAyOTQ1NiwwMDAwMDAwMDRhZmNiMzIxZTU3MGMxNzUzNWY0NmU1YzdmZGE0NTky`

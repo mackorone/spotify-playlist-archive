@@ -1,15 +1,15 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 7,
+  "num_followers": 21,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDA5MzgyNjZhZDEzNjM3M2UyNTg3M2I1NDI4NGM4MDUzZA==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDAzMjFlZWE0M2Q4ODAwZjhhY2JiNmZlMzk0ZjNjOTc3NA==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 176648,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/05RILyqqydSjfCP9LK54yX"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/1lamYQInWLWWadZ0WJr77I"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Oh Babe",
         "url": "https://open.spotify.com/album/5JfeF8AIoBKK3zdV8ihUTx"
@@ -61,7 +77,23 @@
       "url": "https://open.spotify.com/track/2PLMPEaM0SaBjIgIb8ntxD"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 215708,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Club 95",
         "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
@@ -93,59 +125,7 @@
       "url": "https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "I Want",
-        "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 174260,
-      "name": "I Want",
-      "url": "https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Furious!",
-        "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Hooders",
-          "url": "https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS"
-        }
-      ],
-      "duration_ms": 198100,
-      "name": "Furious!",
-      "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Club 95",
-        "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 169455,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1sDfCWZzggw6l015h5agWf"
@@ -165,7 +145,39 @@
       "url": "https://open.spotify.com/track/51Ovzmx3WMnHZqMdNq7xrv"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "I Want",
+        "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 174260,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Club 95",
+        "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 169455,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "The Rhythm",
         "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
@@ -181,23 +193,7 @@
       "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/4ZQoniqkWM5cCB1ZuXteb0"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 172757,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/4eUuY3G6yQwMqZtVQlbEsW"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "My Mind / Let Me",
         "url": "https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td"
@@ -213,30 +209,10 @@
       "url": "https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Fantom Freq",
-          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
-        }
-      ],
-      "duration_ms": 219344,
-      "name": "U Know It",
-      "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/0xHSBEVtHFggmTWPKLXYtl"
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/4ZQoniqkWM5cCB1ZuXteb0"
       },
       "artists": [
         {
@@ -244,12 +220,12 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 192975,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/1RsPpQPKq3REgPS2reByKR"
+      "duration_ms": 172757,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/4eUuY3G6yQwMqZtVQlbEsW"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Money Zone",
         "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
@@ -265,7 +241,43 @@
       "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Furious!",
+        "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Hooders",
+          "url": "https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS"
+        }
+      ],
+      "duration_ms": 198100,
+      "name": "Furious!",
+      "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/0xHSBEVtHFggmTWPKLXYtl"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/1RsPpQPKq3REgPS2reByKR"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Back Again",
         "url": "https://open.spotify.com/album/1TIw2arqA2nlo3xeBe3cSj"
@@ -285,10 +297,30 @@
       "url": "https://open.spotify.com/track/5AjHfQmvYqKs3I4Qc0aFXo"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle"
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Fantom Freq",
+          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
+        }
+      ],
+      "duration_ms": 219344,
+      "name": "U Know It",
+      "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/0CgiHbDExqV0Gk7YZzRCm3"
       },
       "artists": [
         {
@@ -296,12 +328,28 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 171473,
-      "name": "Hustler - Radio Edit",
-      "url": "https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H"
+      "duration_ms": 178586,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2QWF5091N3go4P54nO1faZ"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 216683,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "2 LA",
         "url": "https://open.spotify.com/album/7tjJCsyo9jqtQQ1DnLr85F"
@@ -321,23 +369,7 @@
       "url": "https://open.spotify.com/track/0Nwr2tgFoTgnKwG1sc8n8N"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 216683,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Ride or Die",
         "url": "https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV"
@@ -369,59 +401,7 @@
       "url": "https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/0CgiHbDExqV0Gk7YZzRCm3"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2QWF5091N3go4P54nO1faZ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "In My Bag",
-        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "owie",
-          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
-        }
-      ],
-      "duration_ms": 184567,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "The Streets",
-        "url": "https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 158427,
-      "name": "The Streets",
-      "url": "https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Don't Sweat It",
         "url": "https://open.spotify.com/album/3u7jL6KxRZ2OhGcyjXesFF"
@@ -441,7 +421,75 @@
       "url": "https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "DNA (Radio Edit)",
+        "url": "https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 178190,
+      "name": "DNA - Radio Edit",
+      "url": "https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 171473,
+      "name": "Hustler - Radio Edit",
+      "url": "https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "In My Bag",
+        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "owie",
+          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
+        }
+      ],
+      "duration_ms": 184567,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 158427,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Shake the Bass 4",
         "url": "https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/0606StM2HkTudakYuVy2rd"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Raise It Up",
         "url": "https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE"
@@ -481,39 +529,7 @@
       "url": "https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "DNA (Radio Edit)",
-        "url": "https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 178190,
-      "name": "DNA - Radio Edit",
-      "url": "https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "The Streets",
-        "url": "https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 181383,
-      "name": "Amped",
-      "url": "https://open.spotify.com/track/5b3FKpYuq2RbHCBf4Fz5H1"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"
@@ -529,7 +545,23 @@
       "url": "https://open.spotify.com/track/2yVH1P2sIObsFVopVqClhR"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 181383,
+      "name": "Amped",
+      "url": "https://open.spotify.com/track/5b3FKpYuq2RbHCBf4Fz5H1"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
   "name": "Workday K-Pop",
-  "published_playlist_ids": [
-    "0D18aBi0Sv1wtiPPmYkA2H"
-  ],
   "tracks": [
     {
       "album": {
@@ -145,7 +142,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 223451,
       "name": "11:11",
       "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
@@ -964,6 +961,24 @@
     },
     {
       "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "album": {
         "name": "IN LIFE",
         "url": "https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft"
       },
@@ -1762,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
+    },
+    {
+      "album": {
         "name": "History Of Kingdom: Pt. III. Ivan",
         "url": "https://open.spotify.com/album/3fViCo8Y9npRg9TjSpOiCo"
       },
@@ -2397,7 +2430,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 237707,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV"
@@ -2665,6 +2698,24 @@
       "duration_ms": 236667,
       "name": "Cherry Bomb",
       "url": "https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58"
+    },
+    {
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
     },
     {
       "album": {
@@ -3233,7 +3284,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-02-01",
       "duration_ms": 176546,
       "name": "Darl+ing",
       "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
@@ -3510,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "album": {
         "name": "NATURE WORLD: CODE M",
         "url": "https://open.spotify.com/album/3XJnhd1OJGfH3qXbIz02l4"
       },
@@ -3611,7 +3680,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 192093,
       "name": "Do It Like This",
       "url": "https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL"
@@ -3683,7 +3752,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 220173,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U"
@@ -3813,7 +3882,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 201880,
       "name": "Don\u2019t Need Your Love",
       "url": "https://open.spotify.com/track/7oEm5Q1virEUB9H0XjWZzF"
@@ -3929,7 +3998,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 192735,
       "name": "Dream of You (with R3HAB)",
       "url": "https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa"
@@ -4955,7 +5024,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 177373,
       "name": "Flip That",
       "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
@@ -8045,7 +8114,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 224257,
       "name": "Lion Heart",
       "url": "https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3"
@@ -8243,7 +8312,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 173440,
       "name": "LOVE me",
       "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
@@ -8355,6 +8424,28 @@
       "duration_ms": 171797,
       "name": "Love To Hate Me",
       "url": "https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ"
+    },
+    {
+      "album": {
+        "name": "Love War",
+        "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "Love War (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
     },
     {
       "album": {
@@ -8481,7 +8572,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2023-01-14",
       "duration_ms": 196702,
       "name": "Ma Boy",
       "url": "https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1"
@@ -9251,7 +9342,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 198520,
       "name": "Naughty",
       "url": "https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79"
@@ -9541,7 +9632,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 177728,
       "name": "Not Shy",
       "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
@@ -9656,6 +9747,24 @@
     },
     {
       "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+    },
+    {
+      "album": {
         "name": "AD MARE",
         "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
       },
@@ -9765,6 +9874,24 @@
       "duration_ms": 248202,
       "name": "Okay Dokey",
       "url": "https://open.spotify.com/track/1R6qeTvAvaxB7hydIYVIY8"
+    },
+    {
+      "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
     },
     {
       "album": {
@@ -10086,6 +10213,24 @@
     },
     {
       "album": {
+        "name": "PANDORA'S BOX",
+        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
+      },
+      "artists": [
+        {
+          "name": "MAVE:",
+          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196826,
+      "name": "PANDORA",
+      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
+    },
+    {
+      "album": {
         "name": "One-reeler / Act IV",
         "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
       },
@@ -10279,7 +10424,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 189049,
       "name": "Peek-A-Boo",
       "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
@@ -10323,7 +10468,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 154003,
       "name": "Phase Me",
       "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
@@ -11701,6 +11846,24 @@
     {
       "album": {
         "name": "mono.",
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275954,
+      "name": "seoul (prod. HONNE)",
+      "url": "https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5"
+    },
+    {
+      "album": {
+        "name": "mono.",
         "url": "https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H"
       },
       "artists": [
@@ -11711,7 +11874,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 275954,
       "name": "seoul (prod. HONNE)",
       "url": "https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ"
@@ -12476,6 +12639,24 @@
     },
     {
       "album": {
+        "name": "Stamp On It - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
+      },
+      "artists": [
+        {
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232813,
+      "name": "Stamp On It",
+      "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
+    },
+    {
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS"
       },
@@ -12523,7 +12704,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 195653,
       "name": "Stay This Way",
       "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
@@ -13259,7 +13440,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 210051,
       "name": "The Real - Heung Version",
       "url": "https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU"
@@ -13509,7 +13690,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 189077,
       "name": "TOUCH",
       "url": "https://open.spotify.com/track/1mdEvT7X3Rs7vL75fRb8oo"
@@ -13675,7 +13856,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 207600,
       "name": "Uh-Oh",
       "url": "https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL"
@@ -13729,7 +13910,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-03",
       "duration_ms": 189882,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi"
@@ -13823,6 +14004,28 @@
       "duration_ms": 203640,
       "name": "Very Very Very",
       "url": "https://open.spotify.com/track/6VJhf9l4ALDquID0bN51QQ"
+    },
+    {
+      "album": {
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
     },
     {
       "album": {
@@ -14413,6 +14616,24 @@
       "duration_ms": 191920,
       "name": "WHAT'S GOIN' ON",
       "url": "https://open.spotify.com/track/5RYFLurX0Vg85bgnClS6im"
+    },
+    {
+      "album": {
+        "name": "MOVE AGAIN",
+        "url": "https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "WHEN I MOVE",
+      "url": "https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC"
     },
     {
       "album": {

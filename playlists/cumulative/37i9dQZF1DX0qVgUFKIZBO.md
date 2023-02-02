@@ -4,7 +4,7 @@
 
 > ¡Agarra el micrófono y empieza a cantar estos éxitos inolvidables!
 
-98 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/1J4PyabyPPlQjCqwGqNy6D)
+98 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

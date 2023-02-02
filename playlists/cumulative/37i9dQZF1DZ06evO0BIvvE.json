@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
   "name": "This Is Billy Paul",
-  "published_playlist_ids": [
-    "1gFUXn6U9aKUVqz74eCknF"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,6 +24,28 @@
       "duration_ms": 178733,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/1w4EmsaSRG53afdB1LLYPj"
+    },
+    {
+      "album": {
+        "name": "Soulicious The Soul Album",
+        "url": "https://open.spotify.com/album/4CmQx74g7z10roxVrd7Ujw"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298693,
+      "name": "Always And Forever (feat. Billy Paul)",
+      "url": "https://open.spotify.com/track/0Okw02rqih2NWC7P6BGtNI"
     },
     {
       "album": {
@@ -81,7 +100,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 188600,
       "name": "Be Truthful to Me",
       "url": "https://open.spotify.com/track/2qvVFJqlGwSmAsdqpew5xv"
@@ -261,7 +280,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 302733,
       "name": "Everybody's Breakin' Up",
       "url": "https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j"
@@ -319,7 +338,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": "2023-02-01",
       "duration_ms": 293906,
       "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
       "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
@@ -362,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/7C5aOmsPLgSPGdmy0kpS2I"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 262040,
+      "name": "I Only Have Eyes for You",
+      "url": "https://open.spotify.com/track/5CLVqVWtdEprTlBqMZPcLh"
+    },
+    {
+      "album": {
         "name": "War of the Gods (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
@@ -373,7 +410,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": "2022-12-29",
       "duration_ms": 372533,
       "name": "I See the Light",
       "url": "https://open.spotify.com/track/3aq0mO4ZQN2VQuHDq5OUNj"
@@ -449,6 +486,32 @@
       "duration_ms": 438986,
       "name": "I Was Married",
       "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
+    },
+    {
+      "album": {
+        "name": "Too Good to Stay Hidden Archives",
+        "url": "https://open.spotify.com/album/4fqOFUjhI7apJAnA5KftEy"
+      },
+      "artists": [
+        {
+          "name": "The Catch",
+          "url": "https://open.spotify.com/artist/3HOHkhvP9X5NoTqKPUGKT9"
+        },
+        {
+          "name": "Ruby Turner",
+          "url": "https://open.spotify.com/artist/0yIXmbc7ceEmnecGhc71ke"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 266240,
+      "name": "I Wish It Would Rain",
+      "url": "https://open.spotify.com/track/5QoOf8xF9mMniKoYBsvXyH"
     },
     {
       "album": {
@@ -679,7 +742,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": "2022-12-28",
       "duration_ms": 385720,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/18lK1qUysT3bdjUZsHFFlb"
@@ -701,6 +764,32 @@
       "duration_ms": 219320,
       "name": "Love Buddies",
       "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
+    },
+    {
+      "album": {
+        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 302642,
+      "name": "Love Train - Live",
+      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
     },
     {
       "album": {
@@ -853,7 +942,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 276906,
       "name": "On A Clear Day (You Can See Forever)",
       "url": "https://open.spotify.com/track/4d60Vgve7bbcFfnEkeZqn4"
@@ -1055,7 +1144,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-25",
       "duration_ms": 302053,
       "name": "The Times Of Our Lives",
       "url": "https://open.spotify.com/track/5CKiJHl7e2TgQV7uggALnK"
@@ -1189,7 +1278,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"

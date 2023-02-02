@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,625 likes - 101 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045 likes - 101 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 82 | [The Conjuring Mirror](https://open.spotify.com/track/7unnhqIAYx1e8XZlOpVhuJ) | [Sinius](https://open.spotify.com/artist/0lWqbldjrATxzUIvy7eNuU) | [The Poltergeist Syndrome](https://open.spotify.com/album/5fLe5b1uHnqW43aY6cSXTK) | 9:23 |
 | 83 | [Labyrinths & Jokes](https://open.spotify.com/track/2FKNr1Hstg1Hjohgxqcq28) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm) | [Modern Jester](https://open.spotify.com/album/32Ma3r8xwPQuhkLpMcAcAe) | 2:35 |
 | 84 | [Afterlife Aftershave \- Edit](https://open.spotify.com/track/0qRHTFbrBefRGzwlDhrMld) | [Sedibus](https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Afterlife Aftershave \(Edit\)](https://open.spotify.com/album/6hlBndeGrYZsQ5iO4xQ2Pl) | 2:58 |
-| 85 | [Hidden](https://open.spotify.com/track/6X5wDFw0cCvLNYWfimW3vz) | [Ssaliva](https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB) | [Hidden / Riffle](https://open.spotify.com/album/1UmLSPYZtsuTKmn8x9y8eK) | 2:25 |
+| 85 | [Hidden](https://open.spotify.com/track/6X5wDFw0cCvLNYWfimW3vz) | [Ssaliva](https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB) | [Hidden / Rifle](https://open.spotify.com/album/1UmLSPYZtsuTKmn8x9y8eK) | 2:25 |
 | 86 | [Early Light \(Meitei Remix\)](https://open.spotify.com/track/46G1RK4actdNQF6KZenmLV) | [Tobias Wilden](https://open.spotify.com/artist/59hcWy4ZpbiDgeHpIc7Xgf), [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Early Light \(Meitei Remix\)](https://open.spotify.com/album/1Ztr7R5aUPtOR7uapYuBcG) | 6:12 |
 | 87 | [Two Halves Touching](https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 3:50 |
 | 88 | [Gates Of Desire](https://open.spotify.com/track/7KWVeOXeLse2oBkgZEDzyk) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 2:55 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcndo43KVGbN.md) - [plain]
 | 100 | [Kogarashi, Postcard Five](https://open.spotify.com/track/4joej1hfb433p1mgpNQFdd) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 7:25 |
 | 101 | [Champagne Smoke](https://open.spotify.com/track/0gzwDzpe5eoD1lwJdTPeU4) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 4:28 |
 
-Snapshot ID: `MTY2NDg5NDY0OSwwMDAwMDAwMDgxYzZjNjUxMDJlNWFlNTIyZWVlYjZkMGZmMjIxNmYy`
+Snapshot ID: `MTY3MzMwMjU5MSwwMDAwMDAwMDA2NDBhYjI1ZGI2OGIxMjAwYmYyZTMzMjI0ZDY2MTQ3`

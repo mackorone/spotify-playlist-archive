@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
   "name": "This Is Lou Rawls",
-  "published_playlist_ids": [
-    "4MtAxAAqSfe653w7202MvO"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,7 +20,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 165960,
       "name": "'Tain't Nobody's Biz-ness If I Do",
       "url": "https://open.spotify.com/track/3YKl0GFke1KhVACpj59XtL"
@@ -49,7 +46,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-12",
       "duration_ms": 225600,
       "name": "(They Call It) Stormy Monday",
       "url": "https://open.spotify.com/track/2crEiBgrvX5Etv2E8yCysO"
@@ -190,6 +187,28 @@
     },
     {
       "album": {
+        "name": "ARETHA",
+        "url": "https://open.spotify.com/album/0RemO3TlI1NdaeWqdE4E9H"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 388320,
+      "name": "At Last (with Lou Rawls) - Live",
+      "url": "https://open.spotify.com/track/7wAleLENYvPLATrmuPkrA5"
+    },
+    {
+      "album": {
         "name": "Now Is The Time",
         "url": "https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58"
       },
@@ -259,7 +278,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 178240,
       "name": "Blues Is A Woman",
       "url": "https://open.spotify.com/track/144kj4S4IGdWjcHjb1PyWL"
@@ -429,7 +448,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 173973,
       "name": "Goin' To Chicago Blues - 2006 Remaster",
       "url": "https://open.spotify.com/track/4JT4LRlahM5LARTB93105T"
@@ -490,6 +509,28 @@
     },
     {
       "album": {
+        "name": "Portrait Of The Blues",
+        "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 189733,
+      "name": "I Just Want To Make Love To You",
+      "url": "https://open.spotify.com/track/5pGeEPpwJiFyvBbKGBZcKZ"
+    },
+    {
+      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -537,10 +578,32 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-11-29",
       "duration_ms": 215240,
       "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
       "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+    },
+    {
+      "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188493,
+      "name": "I'd Rather Drink Muddy Water - Live/1968",
+      "url": "https://open.spotify.com/track/7ykrjb0F8haiGHwXobEY1q"
     },
     {
       "album": {
@@ -580,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Hit After Hit",
+        "url": "https://open.spotify.com/album/6trCrDq7j7Uku5GIiYE7qA"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131614,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/0ZMwnIDnRaSSxcbUl7Z8yo"
+    },
+    {
+      "album": {
         "name": "Stormy Monday",
         "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
       },
@@ -595,7 +676,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-02-02",
       "duration_ms": 208866,
       "name": "In The Evening When The Sun Goes Down",
       "url": "https://open.spotify.com/track/449ERuFb4q69n28mdvpUS7"
@@ -782,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Hit After Hit",
+        "url": "https://open.spotify.com/album/6trCrDq7j7Uku5GIiYE7qA"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 134943,
+      "name": "Nine Pound Hammer",
+      "url": "https://open.spotify.com/track/1gbdDazbGiV83TxannfdyL"
+    },
+    {
+      "album": {
         "name": "Nobody But Lou",
         "url": "https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM"
       },
@@ -891,7 +990,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 222960,
       "name": "Save the Bones for Henry Jones",
       "url": "https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq"
@@ -927,7 +1026,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 351653,
       "name": "Season Of The Witch",
       "url": "https://open.spotify.com/track/65CQSLIsCjbVyGXVRg97K4"
@@ -949,7 +1048,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 191600,
       "name": "See See Rider",
       "url": "https://open.spotify.com/track/0nm1sz6alpQnzQAZZ8oOPq"
@@ -1111,7 +1210,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-16",
       "duration_ms": 191306,
       "name": "Sweet Lover",
       "url": "https://open.spotify.com/track/0uLV5fXFiGv9i9UEKDOCGc"
@@ -1133,6 +1232,24 @@
       "duration_ms": 162666,
       "name": "Tain't Nobody's Biz-Ness If I Do",
       "url": "https://open.spotify.com/track/1c8DBv0jzvNO2RZaRrieSq"
+    },
+    {
+      "album": {
+        "name": "Hit After Hit",
+        "url": "https://open.spotify.com/album/6trCrDq7j7Uku5GIiYE7qA"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 154012,
+      "name": "The Biggest Lover In Town",
+      "url": "https://open.spotify.com/track/1eRtP4Opm3CpNNSc8yvocW"
     },
     {
       "album": {
@@ -1223,7 +1340,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2023-01-29",
       "duration_ms": 225600,
       "name": "They Call It Stormy Monday",
       "url": "https://open.spotify.com/track/71vtUr8NIGW8lqAgsxCO0M"
@@ -1295,7 +1412,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 241680,
       "name": "Tobacco Road - 2006 Remaster",
       "url": "https://open.spotify.com/track/2XV3Q00jCVoePVLoXl8nKn"
@@ -1429,7 +1546,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-02-01",
       "duration_ms": 357040,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
@@ -1537,7 +1654,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 318213,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/5t49UsvU4pnQaP6ys3EvcD"

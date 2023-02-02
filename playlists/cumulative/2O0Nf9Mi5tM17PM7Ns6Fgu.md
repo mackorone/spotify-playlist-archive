@@ -4,7 +4,7 @@
 
 > Orb's official Spotify Gaming playlist! Full of high BPM, kick\-ass melodies and euphoria.
 
-38 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/2Bcp4A69q971j3GWwAWYuB)
+38 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

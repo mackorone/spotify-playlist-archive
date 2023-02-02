@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-286 songs - 14 hr 39 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+288 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Gravitron](https://open.spotify.com/track/6tHxTbhBFK3SkiqNQiExQu) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:36 | 2021-12-27 |  |
 | [Great Big Plans](https://open.spotify.com/track/2PJ0ZEVGQWwtMnUgKW46S7) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Great Big Plans](https://open.spotify.com/album/2fMST4xYVfOrXy9uWzhgec) | 4:31 | 2021-12-27 |  |
 | [Halloween](https://open.spotify.com/track/29VC2kQrNweVAnYkgVHdn5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:36 | 2021-12-27 |  |
+| [Hatchet](https://open.spotify.com/track/4RVQPQixdEwYaF5iTo6t0Y) | [Yellowbirddd](https://open.spotify.com/artist/3RAdJVSaypsA6vvo6yp5eV), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [while the light is fading](https://open.spotify.com/album/4fo8MGUW0ZqyIolLNVXWE9) | 4:16 | 2022-12-17 |  |
 | [Headmess](https://open.spotify.com/track/3qRMi1evJvfowhgZDuj20J) | [Bell Horses](https://open.spotify.com/artist/2AdoTCFp76OEjtdSM1NZvC) | [This Loves Last Time](https://open.spotify.com/album/5ZPOnEFbI3BgWS1vHair0O) | 3:18 | 2021-12-27 |  |
 | [Hell's Bells](https://open.spotify.com/track/2qcdSOytptCu0TB3IWl6CS) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:43 | 2021-12-27 |  |
 | [Help](https://open.spotify.com/track/6DMoVhIb6jTRSD4ZXAHfXe) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Seven](https://open.spotify.com/album/2ionR1WChNlzQbTkjI69CV) | 2:31 | 2022-11-10 |  |
@@ -260,8 +261,9 @@
 | [The Weight of the World](https://open.spotify.com/track/4GoU0IJy3UTfPTkWcAJytM) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:26 | 2021-12-27 |  |
 | [The Wish](https://open.spotify.com/track/1vJuuTx0d9D7wNwx7aQGW0) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 1:58 | 2021-12-27 |  |
 | [The Yoko Factor](https://open.spotify.com/track/6UNxSB3EF2qaymwB5nRjMh) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:10 | 2021-12-27 |  |
+| [Things We Don't Need Anymore](https://open.spotify.com/track/7G9gZs9Dwt3UpXAkXkW58F) | [Almost Christmas](https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Maybe This Christmas, Vol\. 6: Holiday Cheer](https://open.spotify.com/album/6cymDG3h1yntlgB608r5Ux) | 2:58 | 2022-12-02 |  |
 | [Things We Don't Need Anymore](https://open.spotify.com/track/2iITgZDp1M49FF0HfB8sqa) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Things We Don't Need Anymore](https://open.spotify.com/album/1h2DjfiO32pA9103ZYhKPP) | 2:58 | 2021-12-27 | 2022-03-01 |
-| [Things We Don't Need Anymore](https://open.spotify.com/track/2tWDIAMCanFjLLJGh9HnxS) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Things We Don't Need Anymore](https://open.spotify.com/album/37sWFSeLgENxLUWycGrfZ6) | 2:58 | 2022-02-28 |  |
+| [Things We Don't Need Anymore](https://open.spotify.com/track/2tWDIAMCanFjLLJGh9HnxS) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Things We Don't Need Anymore](https://open.spotify.com/album/37sWFSeLgENxLUWycGrfZ6) | 2:58 | 2022-02-28 | 2022-12-03 |
 | [This Year's Girl](https://open.spotify.com/track/7tTq3WMmOVVyjULjCbOoxA) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:31 | 2021-12-27 |  |
 | [Totally Worth It](https://open.spotify.com/track/3mYnHLEaj0VOXFBifAnw8u) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp) | 2:48 | 2021-12-27 | 2022-09-06 |
 | [Totally Worth It](https://open.spotify.com/track/68HfrhYClNKJiGdhztgvy9) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 2:48 | 2022-09-05 |  |

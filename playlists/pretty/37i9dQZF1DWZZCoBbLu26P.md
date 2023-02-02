@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.<br/>Cover: Bimini
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,698 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,170 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 6 | [Boys Like Me](https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Kaleidoscope](https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9) | 3:22 |
 | 7 | [Excuse the Beauty](https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI) | [Latrice Royale](https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC), [Epiphany Mattel](https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy) | [Excuse the Beauty](https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS) | 3:09 |
 | 8 | [Gimme What I Want](https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym) | [The Rosé](https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD) | [Gimme What I Want](https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4) | 2:30 |
-| 9 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 |
+| 9 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 |
 | 10 | [Much Betta](https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb) | [Baga chipz](https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240) | [Much Betta](https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB) | 2:19 |
 | 11 | [Brown Cow Stunning](https://open.spotify.com/track/17nicr4bub5sGc9Hac7hUg) | [Monique Heart](https://open.spotify.com/artist/0iJr2eJYe4WsiZrmCn2nV3) | [Brown Cow Stunning](https://open.spotify.com/album/3D4tRIWeEXpUUccba35Rku) | 3:07 |
 | 12 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 19 | [Werqin' Girl \(Professional\)](https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv) | [Shangela Laquifa](https://open.spotify.com/artist/7czghyR75hlwV4ddLK5MeD) | [Werqin' Girl \(Professional\)](https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm) | 3:42 |
 | 20 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
 | 21 | [Bitch On Heels \- Kelvin Wood Radio Mix](https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp), [Kelvin Wood](https://open.spotify.com/artist/0oxqy1B5Cfc2Ir24IQt3vs) | [Bitch On Heels \(Kelvin Wood Remix\)](https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA) | 2:58 |
-| 22 | [Tommy's Dream](https://open.spotify.com/track/48gwHIUd09s0g1JxEv9VzJ) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Tommy's Dream](https://open.spotify.com/album/5bAvj4QAWaKMQQaTIMRK7c) | 3:39 |
+| 22 | [Tommy's Dream](https://open.spotify.com/track/0RsKr0MBHoL1qxoeWyhNrh) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Tommy's Dream](https://open.spotify.com/album/6aMOR9XeLq7DcyXUnYg9mO) | 3:39 |
 | 23 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
 | 24 | [Your Makeup Is Terrible](https://open.spotify.com/track/55EINX1PxT45s5rpO8UIQw) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Anus](https://open.spotify.com/album/5IMcfR6mVlC4eLOzDSmIk1) | 3:58 |
 | 25 | [Wrong Bitch](https://open.spotify.com/track/07PV0hY4wUx5W1jCCSK8pL) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Straight Outta Oz](https://open.spotify.com/album/0pfOC2s36015PQ8Wh0xMaV) | 2:38 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 84 | [To the Moon \- Cast Version](https://open.spotify.com/track/5xzSubIQvRSH5ryDk6EhU1) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc) | [To the Moon \(Cast Version\)](https://open.spotify.com/album/7fMIVWlRIrPSe1H8ceFcaG) | 3:02 |
 | 85 | [Jungle Kitty](https://open.spotify.com/track/6aoIbBF71WGdWJhifeoi5V) | [Bebe Zahara Benet](https://open.spotify.com/artist/4d5CbyJTqjfFvn9ZgU5bEa) | [Jungle Kitty](https://open.spotify.com/album/6dgRWADx9TcH1osLAXWV90) | 3:05 |
 
-Snapshot ID: `MTY2Mzg3MTA0NiwwMDAwMDAwMGM4YzM3MjExMzM1ZDk1NGZiYTUzYzkzYjJkNzU0YjRj`
+Snapshot ID: `MTY2Mzg3MTA0NiwwMDAwMDAwMGUyNTY2ODIyNzdjZmI2ZmNlNzY3ZDUyOTJhYjlmYWU5`

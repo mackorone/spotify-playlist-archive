@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Your favorite songs from Netflix movie musicals all in one playlist.",
+  "description": "Your favorite songs from Netflix movie musicals all in one playlist. Cover: Matilda the Musical",
   "name": "Netflix Theater Kids Official Playlist",
-  "published_playlist_ids": [
-    "1ZDaUf6YIkjsIdmZKcFPrx"
-  ],
   "tracks": [
     {
       "album": {
@@ -696,6 +693,28 @@
     },
     {
       "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "Alisha Weir",
+          "url": "https://open.spotify.com/artist/4LFK3XsOfUptZuyigAPP2a"
+        },
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188346,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/4kKjD66XgNYi8vY4YspmFV"
+    },
+    {
+      "album": {
         "name": "Vivo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk"
       },
@@ -914,6 +933,36 @@
     },
     {
       "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hodson-Prior",
+          "url": "https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF"
+        },
+        {
+          "name": "Meesha Garbett",
+          "url": "https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4"
+        },
+        {
+          "name": "Liberty Greig",
+          "url": "https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4"
+        },
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174746,
+      "name": "Revolting Children",
+      "url": "https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt"
+    },
+    {
+      "album": {
         "name": "Over the Moon (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
       },
@@ -1089,6 +1138,48 @@
       "duration_ms": 185106,
       "name": "Wear Your Crown",
       "url": "https://open.spotify.com/track/5CuiqZdFteipmSPj8yqBOf"
+    },
+    {
+      "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "Rei Yamauchi Fulker",
+          "url": "https://open.spotify.com/artist/1vDVH1YBvOITLFe04vlW6U"
+        },
+        {
+          "name": "Andrei Shen",
+          "url": "https://open.spotify.com/artist/2HmeDTpg2cFa1mLIwOVwhx"
+        },
+        {
+          "name": "Winter Jarrett Glasspool",
+          "url": "https://open.spotify.com/artist/6Kbak7pyGFEeePN6Tjhi0p"
+        },
+        {
+          "name": "Ashton Robertson",
+          "url": "https://open.spotify.com/artist/0W6urLgHvLObjLnFQBopo5"
+        },
+        {
+          "name": "Lashana Lynch",
+          "url": "https://open.spotify.com/artist/2UDUbzLUtoj0Uv4t1rLaul"
+        },
+        {
+          "name": "Alisha Weir",
+          "url": "https://open.spotify.com/artist/4LFK3XsOfUptZuyigAPP2a"
+        },
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222053,
+      "name": "When I Grow Up",
+      "url": "https://open.spotify.com/track/5cbDOddnHEHcKVNntaRkxC"
     },
     {
       "album": {

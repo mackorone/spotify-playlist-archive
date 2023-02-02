@@ -4,7 +4,7 @@
 
 > A <a href="http://www.digster.fm/decades">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.
 
-49 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/5HEqV0rQqjjE3E9EubDE42)
+49 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 
 > Blues with a lighter, up\-beat feel\. Cover: Taj Mahal & Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,701 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,183 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Listen](https://open.spotify.com/track/5JlYv60TgliGsHiPRzOMfx) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:29 |
+| 1 | [Listen](https://open.spotify.com/track/5JlYv60TgliGsHiPRzOMfx) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:29 |
 | 2 | [Singing In My Soul](https://open.spotify.com/track/3BlwNNhMoNy3kJJQkotssv) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:46 |
 | 3 | [Gonna Be All Right](https://open.spotify.com/track/7iltfnTWDyOWNeVbf6uJEA) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 4:23 |
 | 4 | [Joy Comes Back](https://open.spotify.com/track/2y4xTUliqsmrGvDvJ2sy6y) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Joy Comes Back](https://open.spotify.com/album/0KVRKuJ3L6dpheQaBJZJrt) | 4:31 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dqF2kqDiBN.md) - [plain]
 | 37 | [You're the One](https://open.spotify.com/track/0NNeMobitIwPjxvZx28AxD) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 2:49 |
 | 38 | [I Want To Shout About It](https://open.spotify.com/track/2h8qkFrZdHeDe4usK4jsOz) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Hard Truth](https://open.spotify.com/album/3AaBJu4gsVjChcKqYe0Sgb) | 3:39 |
 | 39 | [Nothing But Fine](https://open.spotify.com/track/5o0r4jyCw8L5udeXsQ9STY) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Winning Hand](https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA) | 3:52 |
-| 40 | [Soul Shake](https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Stompin' Ground](https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti) | 3:59 |
+| 40 | [Soul Shake](https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Stompin' Ground](https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti) | 3:59 |
 | 41 | [Joy](https://open.spotify.com/track/1ZUn8WgpE4D5IUjrdxOLur) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [The Son Of A Bluesman](https://open.spotify.com/album/4ncErgtor51fjBYPYQ7hk9) | 3:49 |
 | 42 | [Uptown to Harlem](https://open.spotify.com/track/7x4lvXYpRlmqpS5pWc2SJh) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Jellybean Johnson](https://open.spotify.com/artist/6nSWotZBWhRE2qQhbMzWTr) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 4:23 |
 | 43 | [Sweet Goddess of Love and Beer](https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Booty And The Beast](https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi) | 4:39 |

@@ -4,7 +4,7 @@
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more.
 
-107 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/1Tc2vYhpkKJFNbCpnmKrSz)
+107 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

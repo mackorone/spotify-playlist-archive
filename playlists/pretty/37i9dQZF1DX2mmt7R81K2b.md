@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,905 likes - 49 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,440 likes - 49 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 23 | [Bach à la jazz](https://open.spotify.com/track/18mefzc19revZMMDVPxMPT) | [Matt Herskowitz](https://open.spotify.com/artist/4qixXDBzpahvfXrHux93Ck) | [Les triplettes de Belleville \(Bande originale du film\)](https://open.spotify.com/album/1HTooPlkTxGohRy43IvZ3c) | 1:20 |
 | 24 | [Aria / Goldberg Variation No\. 1](https://open.spotify.com/track/3JZCddd48NgLYgHvLkLylo) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My History of Jazz](https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85) | 4:42 |
 | 25 | [Promenade from "Pictures of an exhibition" \- Jazz Version](https://open.spotify.com/track/6fQ2GaQ3xoI35Pq2ymOKCl) | [Modest Mussorgsky](https://open.spotify.com/artist/2L37nYywvAZEGNI63WepZc), [Pietro Beltrani](https://open.spotify.com/artist/4leQT1pQeSNV91sEiJfmu5) | [Promenade from "Pictures of an exhibition" \(Jazz Version\)](https://open.spotify.com/album/2myvzZBserSMEddKm1b8BW) | 5:07 |
-| 26 | [Nocturne No\. 20 in C\-sharp minor, Op\. posthume \(Arr\. for Jazz Solo\)](https://open.spotify.com/track/641dlUcV9G6s5I9BtfKAsE) | [Jacques Loussier](https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245) | [Beyond Bach, Other Composers I Adore](https://open.spotify.com/album/6wcn0aASsJ15iIE1a7KeC1) | 1:56 |
+| 26 | [Nocturne No\. 20 In C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/4LvG1nirz2wv1ln5weaCyE) | [Jacques Loussier](https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245) | [Impressions On Chopin's Nocturnes](https://open.spotify.com/album/6NMAG8fSNPjlWjcuwEJj46) | 1:56 |
 | 27 | [Variation d’Apollon](https://open.spotify.com/track/4xxsj5DGpSyqpe4IwaAHkP) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 4:33 |
 | 28 | [Movement I, Pt\. IV](https://open.spotify.com/track/5HvjZVl5FgrMxusRKPchBs) | [The Classical Jazz Quartet](https://open.spotify.com/artist/1eTIQmloFf0HEKBHoLt4fW), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Stefon Harris](https://open.spotify.com/artist/4FDlrSZ3mEv5Jvn482sCbZ), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [The Classical Jazz Quartet Play Rachmaninov](https://open.spotify.com/album/7uWekrM76prs7XHttD4IWc) | 4:09 |
 | 29 | [Intermezzo, Op\. 118, No\. 2 \- Live](https://open.spotify.com/track/0Lf9AIOPZqprp67xBWbTG1) | [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI) | [The Bandwagon](https://open.spotify.com/album/5XxvFw1K9lYu78ipjF8gpG) | 6:39 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 48 | [Ornithology \(Arr\. Horsting for Recorder and Ensemble\)](https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [Fuse](https://open.spotify.com/artist/1FayrEV2WYTH8tzkxkWZzP) | [Parker: Ornithology \(Arr\. Horsting for Recorder and Ensemble\)](https://open.spotify.com/album/1gi2fFJa1ablewcCparDeG) | 2:50 |
 | 49 | [Turkish Rondo](https://open.spotify.com/track/2QJg3WPi2to3IOA3WfHBlO) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 3:37 |
 
-Snapshot ID: `MTY2OTMzMDgwMCwwMDAwMDAwMDNmZmUzZWQ3NTY2YzdjZjMyNzcxYWQ4ZjgwOWEyZGE3`
+Snapshot ID: `MTY3NDczNTQ3MywwMDAwMDAwMGJmMzdkNjA2NmU4Nzg5YzAwMDdjN2ZlZWFmMmZjYTIy`

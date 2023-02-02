@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-10",
   "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Paramore",
   "name": "Plugged In",
-  "published_playlist_ids": [
-    "658IZO2NGtKPsTaXlLP4qD"
-  ],
   "tracks": [
     {
       "album": {
@@ -1129,6 +1126,24 @@
       "duration_ms": 207464,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/4kutzanEPtsdPPO8kjxjgu"
+    },
+    {
+      "album": {
+        "name": "C'est Comme \u00c7a",
+        "url": "https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149251,
+      "name": "C\u2019est Comme \u00c7a",
+      "url": "https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb"
     },
     {
       "album": {
@@ -3242,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "Love From The Other Side",
+        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247320,
+      "name": "Love From The Other Side - Edit",
+      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
+    },
+    {
+      "album": {
         "name": "Love It When You Hate Me (feat. blackbear)",
         "url": "https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0"
       },
@@ -4558,6 +4591,24 @@
     },
     {
       "album": {
+        "name": "Show Me Your God",
+        "url": "https://open.spotify.com/album/3AM7lcG3bkYL8FPtXlhReq"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217127,
+      "name": "Show Me Your God",
+      "url": "https://open.spotify.com/track/049eMbPucZ3Acq6r3aQkvz"
+    },
+    {
+      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/47EbZp22zR6rGhKJJsuZBv"
       },
@@ -5088,6 +5139,24 @@
     },
     {
       "album": {
+        "name": "Tell Me I\u2019m Alive",
+        "url": "https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155562,
+      "name": "Tell Me I\u2019m Alive",
+      "url": "https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt"
+    },
+    {
+      "album": {
         "name": "TGIF (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6iJUFzxgiJKvrReWU0THNa"
       },
@@ -5244,6 +5313,24 @@
     },
     {
       "album": {
+        "name": "The News",
+        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
+    },
+    {
+      "album": {
         "name": "10,000 Days",
         "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
       },
@@ -5329,7 +5416,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 373898,
-      "name": "The Writing On The Wall",
+      "name": "The Writing on the Wall",
       "url": "https://open.spotify.com/track/6KxDdy6asuOagDjO4fjE5Q"
     },
     {

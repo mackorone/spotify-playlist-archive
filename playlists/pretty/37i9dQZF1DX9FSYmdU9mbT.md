@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,275 likes - 90 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253,688 likes - 90 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baby](https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:32 |
 | 2 | [Força Estranha](https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:34 |
-| 3 | [Como 2 E 2 \- Ao Vivo](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 |
+| 3 | [Como 2 E 2 \- Ao Vivo / Introdução](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 |
 | 4 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
 | 5 | [Dia Branco \- Ao Vivo \| Bonus Track](https://open.spotify.com/track/1E3W3Gtvm6ayy7fAtaPGQV) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Solo Contigo \(ao Vivo\) \- Deluxe Edition](https://open.spotify.com/album/5hJLWVGCXTXdZb6kvC4Cgh) | 4:01 |
 | 6 | [Como Nossos Pais](https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:21 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 57 | [O Segundo Sol: Turnê Jardim\-Pomar \(Ao Vivo em Porto Alegre\)](https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [O Segundo Sol: Turnê Jardim\-Pomar \(Ao Vivo em Porto Alegre\)](https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm) | 4:13 |
 | 58 | [A Sua \- Ao Vivo](https://open.spotify.com/track/2YFYdYxHeoPuuM1fe7VVSo) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memórias \(2001\) \- Ao Vivo](https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK) | 3:01 |
 | 59 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 |
-| 60 | [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 |
+| 60 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 |
 | 61 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
 | 62 | [Anunciação \- Ao Vivo](https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:27 |
 | 63 | [Back in Bahia \- Ao vivo](https://open.spotify.com/track/42XOOCltwfAiy8AdUHA4MT) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Dois Amigos, Um Século de Música: Multishow Live](https://open.spotify.com/album/5wkh8zB5DgWzdbyrjWwN8r) | 2:24 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 89 | [Oba, Lá Vem Ela](https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Favourites: From Samba Esquema Novo 1963 To Africa Brasil 1976](https://open.spotify.com/album/1jJXtCHztoIKiSG8IbLmq0) | 4:14 |
 | 90 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 
-Snapshot ID: `MTY2ODAxMTk0MSwwMDAwMDAwMGY1MmM0YTE3MDZiMTQxODc5Nzc1NjkxMzcxNGRiODRm`
+Snapshot ID: `MTY2ODAxMTk0MSwwMDAwMDAwMDFiOTcwY2U5MTdiNDc5NWQ0NDBjYmQzZDM5YzMwOTE1`

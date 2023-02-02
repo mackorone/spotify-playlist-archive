@@ -4,7 +4,7 @@
 
 > Top of the top hits from Korean Pop Artists! Cover: BTS
 
-93 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/6La3x3XzP8xjm67THINOXJ)
+93 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

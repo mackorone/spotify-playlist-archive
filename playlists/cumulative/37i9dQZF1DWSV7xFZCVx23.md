@@ -4,7 +4,7 @@
 
 > Enjoy the JTBC drama 'Snowdrop,' OSTs in a different way with the lines in the drama\. You can watch this drama on Disney + as well\. \(JTBC 드라마 '설강화'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. 디즈니 플러스에서도 설강화를 감상하실 수 있습니다.\)
 
-54 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/56lnAt2UK7mKSWz1im12TB)
+54 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

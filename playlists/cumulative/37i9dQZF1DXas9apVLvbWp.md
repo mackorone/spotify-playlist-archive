@@ -4,7 +4,7 @@
 
 > <a href="http://bluegiant.jp/">BLUE GIANT EXPLORER</a>とSpotifyのコラボ・プレイリスト。<br/>いよいよアメリカに上陸した主人公＝宮本大が愛聴する、新旧のジャズの名曲たち！
 
-88 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/3SBIYJjkXKCexmWARLAOzW)
+88 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

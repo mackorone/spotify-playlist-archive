@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzFjA6TS6P3.md) - [plain]
 
 > All songs from South Korean survival hip\-hop TV show 'School Rapper\(고등래퍼\)\. Cover: TRADE L \(Season 4 Winner\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,936 likes - 107 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,510 likes - 107 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzFjA6TS6P3.md) - [plain]
 | 92 | [Mask Off](https://open.spotify.com/track/44CqHwKENyq3STawSPy4HT) | [Kim Geun Su](https://open.spotify.com/artist/4M3WEAoKQWP8C8PPoTmidn), [H2ADIN](https://open.spotify.com/artist/3zwWVOlbMyWNKfiqcU1Xz2) | [School Rapper2 Team\-Battle Pt\. 1](https://open.spotify.com/album/6JWpeoi0sUVfU8y7aFf2Df) | 3:45 |
 | 93 | [Asian Drum \(Prod\. SLO\)](https://open.spotify.com/track/2iP3HyTDUf9gk0NrCYINfS) | [WEBSTER B](https://open.spotify.com/artist/0B2LPLMSHN2GkVELqTrsba), [nongmill kim](https://open.spotify.com/artist/5DRgmwlZtxrLEs3zxDgSxi) | [School Rapper2 Team\-Battle Pt\. 1](https://open.spotify.com/album/6JWpeoi0sUVfU8y7aFf2Df) | 3:33 |
 | 94 | [The Boy with Glory](https://open.spotify.com/track/1aoCM3qspeHzLssGPpxXsE) | [Lee Dongmin \(ICE PUFF\)](https://open.spotify.com/artist/5wXu1QgQaYplosUgAKq27y), [Don Mills, G2](https://open.spotify.com/artist/1cWuarbQwoZm23RwNGuuYT) | [School Rapper FINAL](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) | 3:44 |
-| 95 | [Bell](https://open.spotify.com/track/0JWog912MK1yQbdawLOhIQ) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [School Rapper FINAL](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) | 3:28 |
+| 95 | [Bell](https://open.spotify.com/track/0JWog912MK1yQbdawLOhIQ) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [School Rapper FINAL](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) | 3:28 |
 | 96 | [Star](https://open.spotify.com/track/0rQLCkdMqNFX40U8CqZt93) | [Mac Curly](https://open.spotify.com/artist/4PyCHh3hh6m4OzVcV2aj18), [Jessi](https://open.spotify.com/artist/3YFNWBXKaHtR6RVvReN99N), [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [School Rapper FINAL](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) | 4:19 |
 | 97 | [Drop](https://open.spotify.com/track/5ruVKc6a9Gq2YxFeuiHPJu) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [School Rapper FINAL](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) | 2:57 |
 | 98 | [Come for you](https://open.spotify.com/track/1AKR6nJPP378DWceE9gE07) | [Osshun Gum](https://open.spotify.com/artist/3VHiU9P0Cuwdj4vQAcoeFD), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [FNRL.](https://open.spotify.com/artist/1CiGjXvX4nTxk01GOekIYW) | [School Rapper FINAL](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) | 3:51 |

@@ -4,7 +4,7 @@
 
 > All songs from South Korean survival hip\-hop TV show 'School Rapper\(고등래퍼\)\. Cover: TRADE L \(Season 4 Winner\)
 
-177 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/1WZjPz86sRNUtEindfZ029)
+177 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bar Code \(Prod\. GroovyRoom\)](https://open.spotify.com/track/08aurbdx6Lh5dhNYAXYiBa) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper2 Team\-Battle Part 3](https://open.spotify.com/album/2JClPQ6cvFEt60tszdK01u) | 3:42 | 2021-07-20 | 2022-07-29 |
 | [Bar Code \(Prod\. GroovyRoom\)](https://open.spotify.com/track/0el9gNyGpY6xGwOkPwKsPR) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [School Rapper 2 Team\-Battle Part 3](https://open.spotify.com/album/5gzRcFZt1zI7Vpxq3N14vL) | 3:42 | 2021-07-20 |  |
 | [Bell](https://open.spotify.com/track/0NyzUyLKdMklKWl54JBIeo) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Hyo ryn](https://open.spotify.com/artist/5cX3DhbltT9vwuiA7cKm9u) | [School Rapper FINAL](https://open.spotify.com/album/766870jh3A6EBRsNmsTRX1) | 3:28 | 2021-07-20 | 2022-07-29 |
-| [Bell](https://open.spotify.com/track/0JWog912MK1yQbdawLOhIQ) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [School Rapper FINAL](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) | 3:28 | 2021-07-20 |  |
+| [Bell](https://open.spotify.com/track/0JWog912MK1yQbdawLOhIQ) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [School Rapper FINAL](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) | 3:28 | 2021-07-20 |  |
 | [Better Man](https://open.spotify.com/track/6JGYME6SPOqLU2FMiJf9aS) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [School Rapper FINAL](https://open.spotify.com/album/1HlNyrcRkCbpi87jz6rY7y) | 4:06 | 2021-07-20 |  |
 | [Better Man](https://open.spotify.com/track/4elMaVXezNNDOUOKqYmcbO) | [Young B.](https://open.spotify.com/artist/0XlkD2jN3mdbLUK1ZvFHfE), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [School Rapper FINAL](https://open.spotify.com/album/766870jh3A6EBRsNmsTRX1) | 4:06 | 2021-07-20 | 2022-07-29 |
 | [BIG BIG BIG \(Feat\. Simon Dominic\)](https://open.spotify.com/track/71Ix5Ot48mYP5pLQbOzKxV) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [YoBoy](https://open.spotify.com/artist/1SV2AnEqTjsFJOw4wpAsZM), [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [School Rapper4 \- Team Battle:Group](https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK) | 4:30 | 2021-07-20 |  |

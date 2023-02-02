@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Grouper. The essential tracks, all in one playlist.",
   "name": "This Is Grouper",
-  "published_playlist_ids": [
-    "6cS0Ja7qFbMdxrl26pZLPg"
-  ],
   "tracks": [
     {
       "album": {
@@ -260,6 +257,28 @@
     },
     {
       "album": {
+        "name": "Stain Licker",
+        "url": "https://open.spotify.com/album/4U5588OifAJPFrUK8pkrSF"
+      },
+      "artists": [
+        {
+          "name": "Imagine Drowning",
+          "url": "https://open.spotify.com/artist/00Z6TAeTxPFq45NrCtj7M9"
+        },
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142025,
+      "name": "Con",
+      "url": "https://open.spotify.com/track/7gMeu7u38sAcWH8TGdhtuD"
+    },
+    {
+      "album": {
         "name": "The Man Who Died in His Boat",
         "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
@@ -361,7 +380,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": "2023-02-01",
       "duration_ms": 380226,
       "name": "Dragging the Streets - First Heart Tone",
       "url": "https://open.spotify.com/track/7xpVS1KQiRFWgZGi1bdijA"
@@ -505,7 +524,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-02",
       "duration_ms": 330373,
       "name": "Hold",
       "url": "https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH"
@@ -811,7 +830,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 310351,
       "name": "Moving Machine",
       "url": "https://open.spotify.com/track/2K1CarKyRcBNV47HSPAnZV"
@@ -1009,7 +1028,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 366373,
       "name": "STS",
       "url": "https://open.spotify.com/track/5qBNDLnDNj3j34T7PMqxqY"
@@ -1099,7 +1118,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 319200,
       "name": "Towers",
       "url": "https://open.spotify.com/track/16B3iA9vo22DeOe8ohyTcZ"
@@ -1207,7 +1226,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2023-01-19",
       "duration_ms": 153960,
       "name": "Way Their Crept",
       "url": "https://open.spotify.com/track/2LhBBwOS7Aoo3VtmpdCYab"

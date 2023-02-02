@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-09",
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
   "name": "Iconos del Rock Latinoamericano",
-  "published_playlist_ids": [
-    "3h4mSICDb0QUk3bKE3SOeP"
-  ],
   "tracks": [
     {
       "album": {
@@ -1418,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Solos en Am\u00e9rica",
+        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
+      },
+      "artists": [
+        {
+          "name": "Miguel Mateos - Zas",
+          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265706,
+      "name": "Cuando Seas Grande",
+      "url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB"
+    },
+    {
+      "album": {
         "name": "C\u00f3ctel",
         "url": "https://open.spotify.com/album/6MejeMIFK2vSxmFawbTlSd"
       },
@@ -1483,7 +1498,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 245481,
       "name": "C\u00edrculo De Amor",
       "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
@@ -1829,7 +1844,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 311893,
       "name": "El amor despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
@@ -2243,7 +2258,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-14",
+      "date_removed": null,
       "duration_ms": 187066,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
@@ -3195,7 +3210,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
@@ -3303,7 +3318,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 213720,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
@@ -3926,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236472,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
       },
@@ -4283,7 +4316,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 237346,
       "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
       "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
@@ -5887,7 +5920,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-29",
       "duration_ms": 181826,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
@@ -5905,7 +5938,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2022-12-26",
       "duration_ms": 253880,
       "name": "Si Se\u00f1or",
       "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
@@ -6305,7 +6338,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
@@ -6716,6 +6749,24 @@
     },
     {
       "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217849,
+      "name": "Ven Aqu\u00ed",
+      "url": "https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO"
+    },
+    {
+      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -6835,7 +6886,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 283093,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G"
@@ -6961,7 +7012,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Zafar",
       "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"

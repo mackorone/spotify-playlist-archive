@@ -4,11 +4,12 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-139 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/6mRS7vK5o4DCt7Kc7WlJdj)
+142 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 | 2022-03-25 |  |
+| [All Over Again](https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL) | 3:43 | 2022-03-25 | 2022-12-25 |
+| [All Over Again](https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz) | 3:43 | 2022-10-10 |  |
 | [always, i'll care](https://open.spotify.com/track/1LdS1ULS9e18oW3M2C1MUj) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [always, i’ll care](https://open.spotify.com/album/1kfbFGL5zSzXv2p5usgNcs) | 2:26 | 2022-03-25 | 2022-07-29 |
 | [always, i'll care](https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF) | 2:26 | 2022-06-17 | 2022-10-11 |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-08-25 |  |
@@ -30,6 +31,7 @@
 | [Civilized](https://open.spotify.com/track/3bQvM3YOC0CLeqZuKwHTZP) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Civilized](https://open.spotify.com/album/1iJwOG1p3lEd5DAw8s76Vq) | 3:25 | 2022-06-17 | 2022-10-11 |
 | [Crater on the Moon](https://open.spotify.com/track/4t6CSU0uY8Z6bi32Ml78Vg) | [Ok Moon](https://open.spotify.com/artist/2YT2DEtRTNmUZkR53QaU20) | [Crater on the Moon](https://open.spotify.com/album/5kpzNyJMTgqA6ygjJUx6xx) | 4:10 | 2022-03-25 | 2022-06-17 |
 | [dark until september.](https://open.spotify.com/track/7n5LJO27QLW54MmCU8ok2e) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [dark until september.](https://open.spotify.com/album/7B0QjSgkMYYWtfenh2Wz31) | 3:27 | 2022-03-25 |  |
+| [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-27 |  |
 | [Delusional](https://open.spotify.com/track/1ZuT3WXc8VkSxGTGY9Pm4g) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Delusional](https://open.spotify.com/album/2WhyFL6JiegvEYGUasRomx) | 4:10 | 2022-06-17 |  |
 | [Delusional](https://open.spotify.com/track/2LcsjEjWN5uZ4qC3IqmPCz) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Best Indie Folk of 2021, Vol\. 4](https://open.spotify.com/album/1NHfwivYblR7DotRQN86AK) | 4:10 | 2022-10-10 | 2022-11-13 |
 | [Delusional](https://open.spotify.com/track/6jh10WQnBRJ0SCwEXLxgY2) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Delusional](https://open.spotify.com/album/13q5886lEsp0lCMcHcnwSg) | 4:10 | 2022-03-25 | 2022-07-29 |
@@ -37,6 +39,7 @@
 | [Down](https://open.spotify.com/track/0ivLrWbRZRioeJ4JqlbH40) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Photograph \- Sad Songs](https://open.spotify.com/album/1CHLh27IMUa9RpBtan8eGi) | 3:04 | 2022-10-10 | 2022-11-13 |
 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 | 2022-06-17 |  |
 | [Down](https://open.spotify.com/track/6wpdCYRRzFtBT7HzdEqgK9) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/3sUfbClZ6oRx9KtOLdzqTf) | 3:04 | 2022-03-25 | 2022-07-29 |
+| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-27 |  |
 | [Easy Tiger](https://open.spotify.com/track/2IbzYGcve6P1QV94UFxtik) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Easy Tiger](https://open.spotify.com/album/21rJkp3ysXGOSL7320EFTL) | 3:16 | 2022-03-25 | 2022-07-29 |
 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 | 2022-06-17 |  |
 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 | 2022-03-25 |  |
@@ -90,7 +93,7 @@
 | [Monsters](https://open.spotify.com/track/64bEffum8UMASd4IscbCVk) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Monsters](https://open.spotify.com/album/6sbermgqUPrKm7TmrOrefv) | 4:36 | 2022-06-17 |  |
 | [oh, mexico](https://open.spotify.com/track/4YwGqn5HGXVAOEPauLc9MJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [oh, mexico](https://open.spotify.com/album/2UsD7KcPZQn8aO4tlFTOiG) | 3:04 | 2022-03-25 | 2022-07-29 |
 | [oh, mexico](https://open.spotify.com/track/0lTrYYWDbZc390uHYhXT0c) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Cozy Coffee Moments](https://open.spotify.com/album/0wqKDUV5JMGlhQiiG3j98z) | 3:04 | 2022-10-10 | 2022-11-14 |
-| [oh, mexico](https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF) | 3:04 | 2022-06-17 |  |
+| [oh, mexico](https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF) | 3:04 | 2022-06-17 | 2023-01-27 |
 | [Okay](https://open.spotify.com/track/25NjUjptKOeu1k6O4YdyUm) | [Tulliah](https://open.spotify.com/artist/6gdXkpJpXAh1XJGBMOveLq) | [Fre$h Hugs](https://open.spotify.com/album/3RHatxu13kLwtcJxxMcgvD) | 4:13 | 2022-03-25 | 2022-10-13 |
 | [Okay](https://open.spotify.com/track/2Z9oOIEPqIA1RPepcDyG8y) | [Tulliah](https://open.spotify.com/artist/6gdXkpJpXAh1XJGBMOveLq) | [Fre$h Hugs](https://open.spotify.com/album/35LKB6WhagH9EVouPmcDvE) | 4:13 | 2022-10-10 |  |
 | [Paint](https://open.spotify.com/track/4vXlDcmTeOtibVCX8X5DjJ) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Paint](https://open.spotify.com/album/45bPUWarmAyPDY9yKCJ8kf) | 4:41 | 2022-03-25 | 2022-07-29 |
@@ -134,7 +137,7 @@
 | [Walk Above the City \(feat\. Maro\)](https://open.spotify.com/track/3GbfeAIMz63lXalcGO4FFi) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Walk Above the City \(feat\. Maro\)](https://open.spotify.com/album/28ktV64rSS53iVeOamQEIb) | 4:00 | 2022-03-25 | 2022-07-29 |
 | [We Gotta Go](https://open.spotify.com/track/7yhMzOtnrsZUULmpRpIBA8) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [We Gotta Go](https://open.spotify.com/album/1Gat8TNCnjHiGx1bWV1ZCZ) | 4:12 | 2022-03-25 |  |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2022-08-25 |  |
-| [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 | 2022-03-25 |  |
+| [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 | 2022-03-25 | 2023-01-27 |
 | [White Water](https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [White Water](https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V) | 3:53 | 2022-06-17 |  |
 | [White Water](https://open.spotify.com/track/3D2jsYmtwlnK4kQLXHPUb5) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [White Water](https://open.spotify.com/album/1EsXpEeWrDFDjoH8flzfeL) | 3:54 | 2022-03-25 | 2022-07-29 |
 | [Wicked Game](https://open.spotify.com/track/28sO7MOtRFfrUHrvdBeyfE) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Boy & Bear at Golden Retriever Studio](https://open.spotify.com/album/6RrsqCPJLgyTX5LG8UBbgr) | 4:12 | 2022-06-17 |  |

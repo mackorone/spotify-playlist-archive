@@ -4,7 +4,7 @@
 
 > The official playlist for MO\. Watch now on Netflix!
 
-49 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/1f4S79Lov5epDz7pHsaAok)
+50 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Overdose \- From the Netflix Series "Mo"](https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Overdose \(From the Netflix Series "Mo"\)](https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI) | 2:54 | 2022-08-31 |  |
 | [Parking Lot](https://open.spotify.com/track/4q0dCs7oOlqiUPx8BoybhK) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi) | 1:01 | 2022-09-09 | 2022-11-17 |
 | [Parking Lot](https://open.spotify.com/track/67GL6xJlgzOaD7CU6T4v5z) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 1:01 | 2022-09-09 |  |
-| [Riding Down South](https://open.spotify.com/track/1dJzejhJpke1MFD5zpb1eN) | [Oilver Grey](https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2) | [Southern Hip Hop](https://open.spotify.com/album/3uaOPy2KG1oTOgGAsfPSed) | 2:18 | 2022-08-30 |  |
+| [Riding Down South](https://open.spotify.com/track/1dJzejhJpke1MFD5zpb1eN) | [Oilver Grey](https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2) | [Southern Hip Hop](https://open.spotify.com/album/3uaOPy2KG1oTOgGAsfPSed) | 2:18 | 2022-08-30 | 2022-12-02 |
+| [Riding Down South](https://open.spotify.com/track/5CEUbWgQVtvAIBKjVDXQNQ) | [Oilver Grey](https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2) | [Southern Hip Hop](https://open.spotify.com/album/0XQgQqBsdnKOndpv6Mqj49) | 2:18 | 2022-09-09 |  |
 | [Rudeboi \(feat\. Lil Wayne\)](https://open.spotify.com/track/67s1bLy25GxjEgAuHRaQr4) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Return of the Trill](https://open.spotify.com/album/2zJwPCX53y4xeWjvcKAO17) | 4:04 | 2022-08-30 |  |
 | [SHAKE](https://open.spotify.com/track/7sU86lbmcT6ks3tw2MMwoB) | [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [SHAKE](https://open.spotify.com/album/5hN3wqb9mYuWI31s0vggik) | 3:13 | 2022-08-30 |  |
 | [Sippin Codine](https://open.spotify.com/track/5gC56RBCPbLFM8E21Qt1Xg) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Big Moe](https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr) | [3 N The Mornin’ Part Two](https://open.spotify.com/album/2F7xZ22zn1KZRlM4v6M9de) | 1:17 | 2022-08-30 |  |

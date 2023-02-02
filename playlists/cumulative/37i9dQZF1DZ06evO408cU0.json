@@ -2,10 +2,29 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
   "name": "This Is Banda Carnaval",
-  "published_playlist_ids": [
-    "35hDIY0DqmGq3d8jBCjAkq"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "118 Balazos",
+      "url": "https://open.spotify.com/track/7rSQQD13gfhbidmiCfrKpH"
+    },
     {
       "album": {
         "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
@@ -91,7 +110,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 148680,
       "name": "Caballito De Otate - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
@@ -247,7 +266,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 191560,
       "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
@@ -355,7 +374,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 200560,
       "name": "El N\u00famero 1 - En Vivo",
       "url": "https://open.spotify.com/track/0bcmcH4Dw3hizwWB7JKdSE"
@@ -503,6 +522,28 @@
       "duration_ms": 152506,
       "name": "Entre Ella Y T\u00fa",
       "url": "https://open.spotify.com/track/2HavagLtOTS95ZX8Fmyz6z"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El Rancho San Vicente",
+        "url": "https://open.spotify.com/album/4Mg2CoaM5PqRjm7byUonvH"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "Entre La Lluvia Y Mi Llorar - En Vivo",
+      "url": "https://open.spotify.com/track/2yPC0Jqy4TyU6As3laVefc"
     },
     {
       "album": {
@@ -687,7 +728,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 204653,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/0epRumtLjExXKVCdnzxxDx"
@@ -727,6 +768,28 @@
       "duration_ms": 214666,
       "name": "Lo Que Pienso De Ti",
       "url": "https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/3tNN1pG4SrRNvRUzYD52g6"
     },
     {
       "album": {
@@ -784,6 +847,28 @@
     },
     {
       "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-28",
+      "duration_ms": 145920,
+      "name": "Mi Virgencita",
+      "url": "https://open.spotify.com/track/0D6F8YIA0dTfhDhpokALgA"
+    },
+    {
+      "album": {
         "name": "M\u00e1ximo Nivel",
         "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
@@ -795,7 +880,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 187720,
       "name": "Mis Dos Vicios",
       "url": "https://open.spotify.com/track/6HbeUTNk0RyDBgU4a1KwV6"
@@ -867,7 +952,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 153640,
       "name": "Porque As\u00ed Ten\u00eda Que Ser",
       "url": "https://open.spotify.com/track/0pmmaDa3lIHX5YoAv29WMZ"
@@ -946,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Se Vale Enamorarse",
+        "url": "https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Se Vale Enamorarse",
+      "url": "https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z"
+    },
+    {
+      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -961,6 +1064,28 @@
       "duration_ms": 198306,
       "name": "Segunda Opci\u00f3n",
       "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 216200,
+      "name": "Soy As\u00ed",
+      "url": "https://open.spotify.com/track/5O5vy1yeRas4o7JYgdKPu2"
     },
     {
       "album": {
@@ -1051,6 +1176,50 @@
       "duration_ms": 237626,
       "name": "Vas A Estar Bien",
       "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 185866,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/28DJPWV7RkA4TkX8z1NHfl"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158826,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/0nTf8OiF3lUTkDxJaMJB0N"
     },
     {
       "album": {
@@ -1147,7 +1316,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 262533,
       "name": "Vuelve, Vuelve - En Vivo",
       "url": "https://open.spotify.com/track/6aCCj56P1fRI9l0pkwDBfF"

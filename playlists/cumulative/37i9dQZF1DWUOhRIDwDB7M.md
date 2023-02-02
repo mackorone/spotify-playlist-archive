@@ -4,7 +4,7 @@
 
 > Positive and uplifting ambient instrumental tracks.
 
-259 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
+261 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Crossing](https://open.spotify.com/track/08Q4GyxnB8ak1ZwHnjwova) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Crossing](https://open.spotify.com/album/3FljiBhzr6zWL9zymtBkpV) | 2:33 | 2021-09-06 |  |
 | [Curiosity](https://open.spotify.com/track/3WEdWvAScE1EcBfErseQnC) | [Beau Projet](https://open.spotify.com/artist/5bLGj9jAzmBqGwjB2UbjOC) | [Curiosity](https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k) | 2:35 | 2021-09-06 |  |
 | [Curious Morning](https://open.spotify.com/track/5lZyYNi8OfFWKiX1p9zDQP) | [Michael Orvind](https://open.spotify.com/artist/5T6TsN3w0beYOD37SZqb6n) | [Curious Morning](https://open.spotify.com/album/4XJCJP5JB80dwJKDt0rlpN) | 3:02 | 2021-09-06 |  |
+| [Daybreak](https://open.spotify.com/track/6XEh5HfvUIdJiyujQ3HnoT) | [Tehan Form](https://open.spotify.com/artist/4x7h0jaU1U1n2jKWoNfPij) | [Daybreak](https://open.spotify.com/album/2W7g2RcbpDsH9cmmKsnlih) | 2:54 | 2022-12-09 |  |
 | [Daylight](https://open.spotify.com/track/5fsPBLoI0fYY48Yql6ThtE) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Daylight](https://open.spotify.com/album/5PGH5aOoMj8KC5JUX3eDYx) | 2:28 | 2021-09-06 |  |
 | [De Mi Para Ti](https://open.spotify.com/track/0ncMnwCTxqA6Sut46E5TK2) | [Reina del Mar](https://open.spotify.com/artist/2eTD3o9uyy2e71k0hzNjE6) | [De Mi Para Ti](https://open.spotify.com/album/7vjStb8HqLILr0adb3FdDf) | 3:11 | 2021-09-06 |  |
 | [Deep Blue](https://open.spotify.com/track/62XTLLgzGTrdBevT7EaJLO) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Water Island](https://open.spotify.com/album/0G5QJUB8uyYEbMABwBc1db) | 4:12 | 2021-09-06 |  |
@@ -128,7 +129,7 @@
 | [Halcyon](https://open.spotify.com/track/4DkgaBjJfrfavy1bWQb6vf) | [William Duhamel](https://open.spotify.com/artist/2MJK51yXcbWpaiL0MWCAtp) | [Halcyon](https://open.spotify.com/album/0qRTjn6f3uNJTGfcaQfJ0c) | 2:23 | 2021-09-06 |  |
 | [Heavy Head](https://open.spotify.com/track/3AmRJH8hJvtEJ57x6xq0Gq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Deep Dreams](https://open.spotify.com/album/7fvUEchZHf7pNEBzsPim4f) | 3:33 | 2021-09-06 |  |
 | [Home Tales](https://open.spotify.com/track/6ciLznTYOK6bq6iMcSlyrn) | [Handley Page](https://open.spotify.com/artist/0vzZmlsPGLKCCG8qW7WrvV) | [Home Tales](https://open.spotify.com/album/6w6dhpG5hetNvPpe2lBIzh) | 3:29 | 2021-09-06 |  |
-| [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Luca Sana](https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 | 2022-09-02 |  |
+| [Hope For Tomorrow](https://open.spotify.com/track/3KDUPdVPn8GTeqWo90MEIs) | [Tone Jacobs](https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT) | [Hope For Tomorrow](https://open.spotify.com/album/5LnDRliCzdyPUIcasFKzVR) | 2:36 | 2022-09-02 |  |
 | [How She Said Goodbye](https://open.spotify.com/track/0FqFrSSluFI2ZBTNfdak7d) | [Echo Dreams](https://open.spotify.com/artist/4qoy1t3iKnW6Axin7dMVnd) | [How She Said Goodbye](https://open.spotify.com/album/0G1dXPE8X1bLcP84OSZ9KQ) | 2:55 | 2021-09-06 |  |
 | [How Your Heart Sings](https://open.spotify.com/track/2aCsZCeT8P9MULklOrNHJH) | [Made Of Gold](https://open.spotify.com/artist/1ilmmDuqRKxhOkqBZTtqNH) | [Lighthouse](https://open.spotify.com/album/0TdaNHlOAybJQHT6IbKA8z) | 3:46 | 2021-09-06 |  |
 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 | 2021-09-06 |  |
@@ -187,6 +188,7 @@
 | [Pre](https://open.spotify.com/track/6CQoENYuGo2GAoj2Gh6XmA) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 1:47 | 2022-10-21 | 2022-11-13 |
 | [Projections](https://open.spotify.com/track/0pgh65p0D9uDSdOrmsaTgu) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [Projections](https://open.spotify.com/album/518vvUBj26HuDFKyjYejAp) | 2:40 | 2021-09-06 |  |
 | [Purple Sky](https://open.spotify.com/track/5Oieu8wCXlEtEvXu6fFjBD) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Purple Sky](https://open.spotify.com/album/1A55cYEukwiRbFZtBaFz49) | 2:36 | 2021-09-06 |  |
+| [Purpose](https://open.spotify.com/track/0WXhEn3IN5xTCSm6qWixEz) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Empathy](https://open.spotify.com/album/3cJ5MRVonIt3dJ2KjYabwp) | 3:29 | 2022-12-02 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-09-06 |  |
 | [Red Sky at Night](https://open.spotify.com/track/3R9iknEaIh2gUNS8cBVRhH) | [Nishol](https://open.spotify.com/artist/4SfjuPryVgTry3qffdm6oM) | [Red Sky at Night](https://open.spotify.com/album/1aOOWV81kQmS9efdxs0ODx) | 3:13 | 2021-09-06 |  |
 | [Reflections](https://open.spotify.com/track/78OmWdWdxRwFlIEDgNALeD) | [Made Of Gold](https://open.spotify.com/artist/1ilmmDuqRKxhOkqBZTtqNH) | [Reflections](https://open.spotify.com/album/3AehN6vnl5y9j9ihOloltl) | 3:18 | 2021-09-06 |  |
@@ -226,7 +228,7 @@
 | [Tendrils](https://open.spotify.com/track/7FHyT32LoAMUFZCJXyvBg9) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Tendrils](https://open.spotify.com/album/5o1ieatpIUcozmIdMwbT7H) | 2:19 | 2021-09-06 |  |
 | [The Discovery](https://open.spotify.com/track/5NKK0t7lYlyDsT5auDYKmq) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [The Discovery](https://open.spotify.com/album/5AIoZtcwqxJZ5HOc5CFUKI) | 3:13 | 2021-09-06 |  |
 | [The Dusk](https://open.spotify.com/track/1IP6Rxvohb7Sv6c7eqCzx8) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [The Dusk](https://open.spotify.com/album/0Ed6n6t6YsIFh4XbInQaVv) | 2:40 | 2021-09-06 |  |
-| [The First Light](https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d) | [Mo Fiera](https://open.spotify.com/artist/3L536wLE8wGiLp3ttXomqz) | [Crepuscule](https://open.spotify.com/album/7zOlVGVm9AGwbPBr6TpWzI) | 2:46 | 2022-11-11 |  |
+| [The First Light](https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Crepuscule](https://open.spotify.com/album/7zOlVGVm9AGwbPBr6TpWzI) | 2:46 | 2022-11-11 |  |
 | [The Five Times I Loved You](https://open.spotify.com/track/0W4RUo3m0jL0wHADS0PLme) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:25 | 2021-09-06 |  |
 | [The Flow](https://open.spotify.com/track/5utTNDqFPpLSC19SqHNIXx) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sleepwalking](https://open.spotify.com/album/7i4b354sCe4KyTPaelIKdn) | 2:45 | 2021-09-06 |  |
 | [The Land Untouched](https://open.spotify.com/track/76m4OZPd4JPBzPELtXeBwz) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [The Pilgrimage Series: Departure](https://open.spotify.com/album/5bX3B8XiOHrmOlq33D2iTG) | 4:00 | 2021-09-06 |  |

@@ -4,12 +4,13 @@
 
 > more than just a lifestyle
 
-67 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/0NLbMYpAMwQLpeCANQMHmc)
+69 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 | 2022-07-27 |  |
 | [ATM \(feat\. Missy Elliott\)](https://open.spotify.com/track/3cqm5i4yDaNuzu9oQmQzBC) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [2000AND4EVA](https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt) | 3:07 | 2022-07-27 | 2022-08-27 |
+| [Be On It](https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT) | [TSCRPT](https://open.spotify.com/artist/4Z02hpbBY4eH7yN7ceInzV), [Rebecca Winter](https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5) | [Be On It](https://open.spotify.com/album/0hEih748IMyx6TO21NEdGw) | 3:36 | 2022-12-02 |  |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2022-07-27 |  |
 | [Blessed](https://open.spotify.com/track/7jrfqHvcRvJluOlCGJU54G) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Blessed](https://open.spotify.com/album/3e55MhiRUpp3FnfkLlr4aH) | 3:08 | 2022-07-27 |  |
 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 | 2022-07-27 |  |
@@ -26,7 +27,8 @@
 | [Enjoy](https://open.spotify.com/track/1LCy7LSknQSMxxflErjKqO) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Enjoy](https://open.spotify.com/album/1MbsUNijqaPrfESRq6jz7c) | 2:16 | 2022-07-27 |  |
 | [Enjoyment](https://open.spotify.com/track/6JLATH1pX3C4YOoZrjffxQ) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Enjoyment](https://open.spotify.com/album/42bt55qWJCFcSMp0D1ysfl) | 3:24 | 2022-11-18 |  |
 | [Enjoyment](https://open.spotify.com/track/2bwPEHSNLSjN4LJYdD80rK) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Enjoyment](https://open.spotify.com/album/5j37hkPCPpwl3JzdjAWdtW) | 3:14 | 2022-07-27 |  |
-| [Enjoyment](https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9) | 3:31 | 2022-11-24 |  |
+| [Enjoyment](https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/40wEiQXiTnm0tqFlDZbdI9) | 3:31 | 2022-11-24 | 2022-12-25 |
+| [Enjoyment](https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0) | 3:31 | 2022-11-24 |  |
 | [Fall](https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:00 | 2022-07-27 |  |
 | [FANCY](https://open.spotify.com/track/5qnG5K46AMldqlO96i5pKA) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:23 | 2022-07-27 |  |
 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 | 2022-07-27 |  |

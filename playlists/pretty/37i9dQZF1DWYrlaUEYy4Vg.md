@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrlaUEYy4Vg.md) - [plain]
 
 > John Mayer's new album Sob Rock and his greatest songs all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,819 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,494 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrlaUEYy4Vg.md) - [plain]
 | 59 | [Split Screen Sadness](https://open.spotify.com/track/2eMVogxm08LgfgnWpahooV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 5:06 |
 | 60 | [Magnolia \(feat\. John Mayer\)](https://open.spotify.com/track/0VzLAYIns618H651sG09Gp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Eric Clapton & Friends \- The Breeze \(An Appreciation of JJ Cale\)](https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs) | 3:41 |
 
-Snapshot ID: `MTY0NzYxNTkyOSwwMDAwMDAwMGNjZTk0OGZlMzUzMDFmOWQxODIwZmQ5MjEwMTY1YmQ4`
+Snapshot ID: `MTY3MjI2MDg2OCwwMDAwMDAwMDAzNDEzODkwNmRkNTA4ZTRiYjA1NmEyZDU4ZGU4NjEy`

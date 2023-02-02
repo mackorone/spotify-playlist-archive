@@ -4,7 +4,7 @@
 
 > Wake up in your own pace with piano music.
 
-112 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/0qaCjDbgSf7UbCyYhc7Bsa)
+112 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Involution](https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR) | [Chris DiGiorgio](https://open.spotify.com/artist/2TzK3jTz6ETUS8ElO97lHl) | [Involution](https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4) | 2:43 | 2021-04-21 |  |
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2021-04-21 |  |
 | [Just For Now](https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Just For Now](https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV) | 1:50 | 2021-04-21 |  |
-| [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 | 2021-04-21 |  |
+| [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jack Sansom](https://open.spotify.com/artist/3umCEdMTP9fjBnfclPxi1Z) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 | 2021-04-21 |  |
 | [Lekko](https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Lekko](https://open.spotify.com/album/2AKOAyRuAkRAg0sNWoH2nL) | 2:27 | 2021-04-21 |  |
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2021-04-21 |  |
 | [Look Inside Yourself](https://open.spotify.com/track/0HjbgCPF2lbT6zvaLsfkql) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/30RisILwJC85OO8yOOlxRs) | 3:38 | 2022-03-18 | 2022-11-13 |

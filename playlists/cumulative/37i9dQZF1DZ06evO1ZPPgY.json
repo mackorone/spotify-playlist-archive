@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-20",
   "description": "This is Barry White. The essential tracks, all in one playlist.",
   "name": "This Is Barry White",
-  "published_playlist_ids": [
-    "0ve0IQqpcAf2gcufo71nvo"
-  ],
   "tracks": [
     {
       "album": {
@@ -167,7 +164,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-04-29",
+      "date_removed": "2023-01-29",
       "duration_ms": 443706,
       "name": "Don't Play Games",
       "url": "https://open.spotify.com/track/2ufJWHzuyZQSLfPR3k1f5A"
@@ -221,7 +218,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 194173,
       "name": "Honey Please, Can't Ya See",
       "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
@@ -401,7 +398,7 @@
       ],
       "date_added": "2021-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-01",
       "duration_ms": 425733,
       "name": "I'm So Blue And You Are Too",
       "url": "https://open.spotify.com/track/1LeoYNCcoGdBDzdkXciscV"
@@ -517,6 +514,36 @@
       "duration_ms": 237426,
       "name": "It's Only Love Doing Its Thing",
       "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
+    },
+    {
+      "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        },
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 49760,
+      "name": "Jook Joint Outro",
+      "url": "https://open.spotify.com/track/48Tu1uUuY7CzWTizLM4a3h"
     },
     {
       "album": {
@@ -1297,7 +1324,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-02",
       "duration_ms": 276466,
       "name": "You're The First, The Last, My Everything",
       "url": "https://open.spotify.com/track/5dXJ1SoksFkgdx3yxIoYNO"
@@ -1327,7 +1354,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 267106,
       "name": "You're The First, The Last, My Everything - Live",
       "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"

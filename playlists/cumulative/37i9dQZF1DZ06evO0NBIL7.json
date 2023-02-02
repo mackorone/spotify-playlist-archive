@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Fangclub. The essential tracks, all in one playlist.",
   "name": "This Is Fangclub",
-  "published_playlist_ids": [
-    "2dyz5XJZJ6VHq4VxeqR4OA"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,24 @@
       "duration_ms": 171733,
       "name": "All I Have",
       "url": "https://open.spotify.com/track/0rmS4JGPXQuXUk8ZCIksIJ"
+    },
+    {
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208693,
+      "name": "Animal Skin",
+      "url": "https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3"
     },
     {
       "album": {
@@ -91,7 +106,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": "2023-01-17",
       "duration_ms": 255198,
       "name": "Black Rainbow",
       "url": "https://open.spotify.com/track/1gtmQU62sEGfkPEbRf5XGj"
@@ -145,7 +160,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 207906,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/5epGSSIQKPc81a1y8n7I9U"
@@ -203,6 +218,24 @@
       "duration_ms": 200813,
       "name": "Heart Is A Landmine",
       "url": "https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0"
+    },
+    {
+      "album": {
+        "name": "Vulture Culture",
+        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 195173,
+      "name": "Heavy Handed",
+      "url": "https://open.spotify.com/track/0KVdDZCYaEidgt0PY2TuBU"
     },
     {
       "album": {

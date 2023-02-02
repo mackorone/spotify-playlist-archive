@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5ZhOMhIvZkv2S7fBPcxQ1t">Gloria Trevi </a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-51 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/2Clw82UhtR0ZfLcRXSh4Py)
+52 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,5 +59,6 @@
 | [Y Ahora Te Sorprendes](https://open.spotify.com/track/4HyPqj0BvhLpwnzf0VAYwD) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:36 | 2022-06-04 |  |
 | [Yo Soy Su Vida](https://open.spotify.com/track/5KkXuQaCuB2tAGpCRY6suu) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:39 | 2022-06-04 |  |
 | [Ábranse Perras](https://open.spotify.com/track/7b7AziuX7EeIzvatDcC0RS) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:19 | 2022-06-04 |  |
+| [Él Se Equivocó](https://open.spotify.com/track/4z7QjhiABJOZdyk7v8G8eY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:36 | 2023-02-01 |  |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

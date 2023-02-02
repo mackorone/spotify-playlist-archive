@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JEG5nlR2Tc.md) - [plain]
 
 > Pack your backpack and get ready for school!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530 likes - 39 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558 likes - 39 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JEG5nlR2Tc.md) - [plain]
 | 3 | [First Day of School](https://open.spotify.com/track/3haP3mk7a0lb2VJ5Psg2hU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 2:39 |
 | 4 | [1, 2, It's Time for School](https://open.spotify.com/track/0eQexO3cFOHMN4i4ExuK3J) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 |
 | 5 | [Let’s Go!](https://open.spotify.com/track/4s2e30fGKP8pzjU9Tm2Jlh) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Let’s Go!](https://open.spotify.com/album/0z61UND9eDh45w40p50rWp) | 1:13 |
-| 6 | [Back To School](https://open.spotify.com/track/71we5LwSPzAvIu4BDXoTl6) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Back To School](https://open.spotify.com/album/4RrE1dmtIwYkysqgesSzC4) | 3:22 |
+| 6 | [Back To School](https://open.spotify.com/track/71we5LwSPzAvIu4BDXoTl6) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Back To School](https://open.spotify.com/album/4RrE1dmtIwYkysqgesSzC4) | 3:22 |
 | 7 | [Ready Set Go!](https://open.spotify.com/track/2NdPviXMOzvJ6JIotl50CL) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [Ready Set Go!](https://open.spotify.com/album/3cO1RRSX4z4AcrINOuCKAP) | 2:51 |
 | 8 | [I Wanna Go Back To School](https://open.spotify.com/track/0YdZwwhDHpgDuSZun0dgJF) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [I Wanna Go Back To School](https://open.spotify.com/album/6Mzxd99wxhoMwDoocfdcGN) | 3:06 |
 | 9 | [Back to School](https://open.spotify.com/track/3jl76KfnNA5eR8S1CQA0eN) | [Joanie Leeds and the Nightlights](https://open.spotify.com/artist/3TXQsHUIMlMh1vViK6u3bP) | [Bandwagon](https://open.spotify.com/album/0GI1br56mKcRsZqw0Kfsbg) | 2:17 |

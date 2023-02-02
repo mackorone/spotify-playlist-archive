@@ -4,7 +4,7 @@
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-111 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/6z8AfU874zmIOlsImqKd6w)
+112 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Happy](https://open.spotify.com/track/4a44Q09IDiwTP2wu7xYmeA) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Happy](https://open.spotify.com/album/1VztFkixxU9hwzzoGxYV7i) | 2:51 | 2021-12-09 |  |
 | [Helicopter \- Original Edit](https://open.spotify.com/track/3m3OwRXheUtBRKmcVNUsFo) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Helicopter](https://open.spotify.com/album/4MrQAUymyrKSb6u7o2Kdpm) | 3:22 | 2021-12-09 | 2022-07-29 |
 | [Helicopter \- Video Edit](https://open.spotify.com/track/1CT9ebtobcouQw7G9mZ9AV) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Helicopter \(Video Edit\)](https://open.spotify.com/album/2vVYOsPwDIDRigcmvqDlRF) | 3:26 | 2022-07-28 |  |
+| [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2022-12-07 |  |
 | [High On Life \(feat\. Bonn\)](https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [High On Life \(feat\. Bonn\)](https://open.spotify.com/album/1GUfof1gHsqYjoHFym3aim) | 3:50 | 2021-12-09 |  |
 | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Higher Ground \(feat\. John Martin\)](https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH) | 3:26 | 2021-12-09 |  |
 | [Hold On & Believe \(feat\. The Federal Empire\)](https://open.spotify.com/track/3tka6vtNbu9C2xsbthEkNG) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [The Federal Empire](https://open.spotify.com/artist/4PjHNisXpQqSDXOJBFRK8p) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:54 | 2021-12-09 |  |

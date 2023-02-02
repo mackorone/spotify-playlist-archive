@@ -4,7 +4,7 @@
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-189 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/085exfJgl69qUdFZhCGUCQ)
+189 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Break Every Chain \- Live](https://open.spotify.com/track/3vk0GnIa9jp1B00felbJQE) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Awakening \- Live From Chicago](https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft) | 8:07 | 2020-08-26 |  |
 | [Broken Prayers](https://open.spotify.com/track/4hPxXTBcUoEQjedrVPXelB) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Broken Prayers](https://open.spotify.com/album/4aA0JSLq72bSlyvRsQaB8m) | 3:14 | 2020-08-26 | 2022-07-28 |
 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 | 2020-08-26 |  |
-| [Build My Life \- Live](https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:39 | 2020-08-26 | 2022-11-24 |
+| [Build My Life \- Live](https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:39 | 2020-08-26 |  |
 | [Chain Breaker](https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 3:16 | 2020-08-26 |  |
 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 | 2020-08-26 |  |
 | [Church \(Take Me Back\)](https://open.spotify.com/track/3vvao6zCQPVB8EGajtg9dp) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Church \(Take Me Back\) / Grave](https://open.spotify.com/album/0pGJxxpEZ6Vgq9Vd6GNyHE) | 2:56 | 2020-08-26 | 2022-07-29 |
@@ -86,7 +86,7 @@
 | [I Need A Miracle](https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Miracle](https://open.spotify.com/album/2Ucfsu0BFP0UMEuHcLjzH3) | 3:42 | 2020-08-26 |  |
 | [I Will Fear No More](https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [The Beginning & Everything After](https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0) | 3:22 | 2020-08-26 |  |
 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 | 2020-08-26 |  |
-| [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 | 2020-08-26 | 2022-11-13 |
+| [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 | 2020-08-26 | 2023-02-01 |
 | [In Awe](https://open.spotify.com/track/053yoApAqzVFYZQUcf60Zv) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [One\-Way Conversations](https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW) | 3:38 | 2020-08-26 | 2022-07-29 |
 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 | 2020-08-26 |  |
 | [Into The Deep \- Live](https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Into The Deep \(Live\)](https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB) | 6:28 | 2020-08-26 | 2022-11-13 |
@@ -196,6 +196,6 @@
 | [You Got This](https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [You Got This](https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I) | 3:14 | 2020-08-26 | 2022-07-29 |
 | [You Keep Hope Alive](https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [You Keep Hope Alive](https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp) | 4:11 | 2020-08-26 |  |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2020-08-26 |  |
-| [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 | 2020-08-26 |  |
+| [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 | 2020-08-26 | 2022-12-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

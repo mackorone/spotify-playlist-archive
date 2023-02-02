@@ -4,7 +4,7 @@
 
 > Depeche Mode, the essential tracks, all in one playlist.
 
-51 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/3AH57WOYf9xZXjsQCeHArK)
+51 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

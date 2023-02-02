@@ -4,7 +4,7 @@
 
 > Settle down with a nice cup of tea and enjoy the novels, stories, poems, and letters of Emily, Charlotte, Anne, and Patrick Branwell Brontë.
 
-139 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/2kjiw3eQmM1CZhFaEZCSHm)
+139 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

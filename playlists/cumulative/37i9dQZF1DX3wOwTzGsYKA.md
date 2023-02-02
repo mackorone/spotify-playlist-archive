@@ -4,7 +4,7 @@
 
 > "This is a 'FEEL IT ALL' playlist\. When I got pregnant & sober, I was so afraid that actually feeling all of the feelings I’d been numbing for so long would kill me\. I needed to practice feeling in manageable bits\. Each night, I’d lay in bed, play a song, listen, and feel." Cover: Glennon Doyle
 
-22 songs - 1 hr 26 min - not published yet
+22 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

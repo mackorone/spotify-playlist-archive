@@ -4,7 +4,7 @@
 
 > Check out the essential tracks by Volbeat.
 
-54 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/1tvRbH9HR3hMMekAQISUOa)
+54 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

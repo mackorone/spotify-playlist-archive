@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hc6vjTG8Od.md) - [plain]
 
 > Energy is <a href ="spotify:artist:6zsJjoCtL1WByG0VsuFWzR">BLOND:ISH</a> currency and that is what you'll get when you hear her latest mix for Spotify!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,414 likes - 16 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 16 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hc6vjTG8Od.md) - [plain]
 | 15 | [I Want To Know What Love Is \- BLOND:ISH Sunrise Jungle Rework \- Mixed](https://open.spotify.com/track/7cKF95yfs14qbCHFPjpMuH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [I Want To Know What Love Is \- BLOND:ISH Sunrise Jungle Rework \(Mixed\)](https://open.spotify.com/album/6S2Y7tclhhum1eeVcN2bHY) | 4:33 |
 | 16 | [Papa Sooma \- Mixed](https://open.spotify.com/track/6XSeqhGLwqGdbbkDASXyJ6) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Papa Sooma \(Mixed\)](https://open.spotify.com/album/22PmTFxwE6CGPBev5lIq6U) | 3:47 |
 
-Snapshot ID: `MTY2NjMzMzQzMSwwMDAwMDAwMDE1MTVhYmJlYTgyZjQxZDFhZDY0ZDMyOGNlYmI4YWJh`
+Snapshot ID: `MTY2NjMzMzQzMiwwMDAwMDAwMGVhMzY1NmNjZWM5MDBlZWQwNWYyMDRmOGFlOTUyYmNh`

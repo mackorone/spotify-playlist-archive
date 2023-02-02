@@ -4,7 +4,7 @@
 
 > Brazilian DJ and Producer <a href="spotify:artist:3wkaDi2HJV3eCaBJ4iH6om">ANNA</a> delivers a high\-energy Techno mix.
 
-14 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/0OhPkux4YyTTSkvqI3Rxn8)
+14 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

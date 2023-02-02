@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Elle and Tao's mixtape. Watch <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033\">Heartstopper</a> now on Netflix.",
   "name": "Heartstopper: Elle and Tao",
-  "published_playlist_ids": [
-    "7nLx1ZfBO8wpD4fuVZKNMF"
-  ],
   "tracks": [
     {
       "album": {
@@ -759,10 +756,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/0MIiqne6YsbsDz4z9MGA2K"
+    },
+    {
+      "album": {
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "album": {

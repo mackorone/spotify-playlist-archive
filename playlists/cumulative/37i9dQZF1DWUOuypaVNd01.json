@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-24",
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Malcolm VL, Jotap\u00ea",
   "name": "Malandro Posturado",
-  "published_playlist_ids": [
-    "6DYnkcmoPdSe2U2BMKpXAN"
-  ],
   "tracks": [
     {
       "album": {
@@ -31,7 +28,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 163000,
       "name": "1.5.7",
       "url": "https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU"
@@ -139,6 +136,28 @@
       "duration_ms": 194816,
       "name": "99 N\u00e3o \u00c9 100",
       "url": "https://open.spotify.com/track/09fHhIwGvRtvi32cxOmsJQ"
+    },
+    {
+      "album": {
+        "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125793,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
     },
     {
       "album": {
@@ -780,6 +799,28 @@
     },
     {
       "album": {
+        "name": "Dia D",
+        "url": "https://open.spotify.com/album/7L1VP9DYsDUja27l0A15DT"
+      },
+      "artists": [
+        {
+          "name": "blkmc",
+          "url": "https://open.spotify.com/artist/05tzFCNZJtb8GRFZack55F"
+        },
+        {
+          "name": "Cenoura Beats",
+          "url": "https://open.spotify.com/artist/0YGqYLwpbQ8TSeVNYw5P1n"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Dia D",
+      "url": "https://open.spotify.com/track/7xRn0uXRRTHqFFKW2YdvXS"
+    },
+    {
+      "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
@@ -811,12 +852,16 @@
       },
       "artists": [
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
           "name": "Major RD",
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
           "name": "LEALL",
@@ -825,10 +870,6 @@
         {
           "name": "Big Bllakk",
           "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
         },
         {
           "name": "Pedro Apoema",
@@ -1092,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Mundo Invertido",
+        "url": "https://open.spotify.com/album/5FYBIbs8Lyc2g469Lmot0J"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209737,
+      "name": "Falcon",
+      "url": "https://open.spotify.com/track/6w1q6fG07BBKzCbJ0z7CDk"
+    },
+    {
+      "album": {
         "name": "Favela Bail\u00e3o",
         "url": "https://open.spotify.com/album/1t5NyVCHhjqiLkv4mzi7v6"
       },
@@ -1297,7 +1356,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 218288,
       "name": "Gorillaz",
       "url": "https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd"
@@ -1431,6 +1490,66 @@
       "duration_ms": 186000,
       "name": "Infravermelho",
       "url": "https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm"
+    },
+    {
+      "album": {
+        "name": "Jhony Convida #3 - Crias do Tank",
+        "url": "https://open.spotify.com/album/3QOPUOAr7NoeXQ3LaIlRLJ"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Jhony Mc",
+          "url": "https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww"
+        },
+        {
+          "name": "Mozart Mz",
+          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
+        },
+        {
+          "name": "MC FAEL",
+          "url": "https://open.spotify.com/artist/1Ljw2Sjawn2CBZ63ewLP1H"
+        },
+        {
+          "name": "Nego Drama",
+          "url": "https://open.spotify.com/artist/2qrG2M6RJou5dJFocowU2L"
+        },
+        {
+          "name": "Doug",
+          "url": "https://open.spotify.com/artist/5feMPVVueEUmxCFyv8RHsm"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 211862,
+      "name": "Jhony Convida #3 - Crias do Tank",
+      "url": "https://open.spotify.com/track/7JKCzGM8deRmIatfD1pZQ3"
+    },
+    {
+      "album": {
+        "name": "Joga e Descontrai",
+        "url": "https://open.spotify.com/album/1GkAILVDeTqdESnKt6kKr9"
+      },
+      "artists": [
+        {
+          "name": "M4rid\u00e3o 70",
+          "url": "https://open.spotify.com/artist/38ITayRnrKrR0A7RpqILI4"
+        },
+        {
+          "name": "Bragadok",
+          "url": "https://open.spotify.com/artist/4rVt7hTJTBUspoIHMoGpHu"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 172956,
+      "name": "Joga e Descontrai",
+      "url": "https://open.spotify.com/track/2shKQJp8LXNDlD7N79MLRC"
     },
     {
       "album": {
@@ -1575,7 +1694,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 162271,
       "name": "Mais Que Isso",
       "url": "https://open.spotify.com/track/7cwOSjgr1DexGiCOeO4mAK"
@@ -1777,11 +1896,15 @@
         {
           "name": "Mu540",
           "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Rimura",
+          "url": "https://open.spotify.com/artist/1jiDZPnZHiAZUgg911r419"
         }
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 109741,
       "name": "Mvp",
       "url": "https://open.spotify.com/track/4H9cPnHTghjVPmjuBucCMN"
@@ -1974,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Passport",
+        "url": "https://open.spotify.com/album/5Dd5o5rkha3XZiodjiUgwB"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190328,
+      "name": "Passport",
+      "url": "https://open.spotify.com/track/7aPw9TXsyHIYlOhIDDyOL2"
+    },
+    {
+      "album": {
         "name": "Nova Febre",
         "url": "https://open.spotify.com/album/1sJhdEu5L79eaACENANaas"
       },
@@ -2019,6 +2160,28 @@
       "duration_ms": 127075,
       "name": "Pente Ta Girando",
       "url": "https://open.spotify.com/track/4xRLcusfqhhm2kXAqQCKxr"
+    },
+    {
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187972,
+      "name": "Pop Smoke Freestyle",
+      "url": "https://open.spotify.com/track/4NdVfpzsIl80ydtWuvveNh"
     },
     {
       "album": {
@@ -2093,7 +2256,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 216338,
       "name": "Prop\u00f3sitos",
       "url": "https://open.spotify.com/track/2LACCpFwBMjEHa3BqcYLVk"
@@ -2657,10 +2820,32 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 114929,
       "name": "Toque no Radinho",
       "url": "https://open.spotify.com/track/4KCz6JYsOCIJ90O7Zw19Ul"
+    },
+    {
+      "album": {
+        "name": "Tudo Normal",
+        "url": "https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2"
+      },
+      "artists": [
+        {
+          "name": "Blecaute",
+          "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
+        },
+        {
+          "name": "$aint GR",
+          "url": "https://open.spotify.com/artist/4efJxp2bt5eBfZAvUeFANX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165857,
+      "name": "Tudo Normal",
+      "url": "https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0"
     },
     {
       "album": {

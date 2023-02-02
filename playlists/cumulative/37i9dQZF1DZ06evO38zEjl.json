@@ -2,10 +2,29 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
   "name": "This Is Jon Hassell",
-  "published_playlist_ids": [
-    "5utu6NSDQOYS6yo7sj1Zvx"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 283333,
+      "name": "(Like) Warriors Everywhere (Courage)",
+      "url": "https://open.spotify.com/track/4NFTr6KZ3HGVVhCXmNu6Hm"
+    },
     {
       "album": {
         "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
@@ -55,7 +74,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 320266,
       "name": "Air",
       "url": "https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s"
@@ -187,7 +206,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": "2023-01-18",
       "duration_ms": 280066,
       "name": "Balia",
       "url": "https://open.spotify.com/track/2zzfAe9dSic2L9MGTCDxPk"
@@ -375,7 +394,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": "2023-02-01",
       "duration_ms": 702146,
       "name": "Darbari Bridge",
       "url": "https://open.spotify.com/track/3IG17OU64mtHaPXz6ziFqN"
@@ -393,7 +412,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": "2023-01-04",
       "duration_ms": 832160,
       "name": "Darbari Extension I",
       "url": "https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO"
@@ -727,7 +746,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2023-01-19",
       "duration_ms": 403186,
       "name": "Itimad",
       "url": "https://open.spotify.com/track/5IHnMKUAkcYkf6eKfIgudL"
@@ -855,7 +874,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-17",
       "duration_ms": 429160,
       "name": "Maarifa Street",
       "url": "https://open.spotify.com/track/1eL6wpxyDb1Wt7kgV8yNoE"
@@ -1019,7 +1038,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": "2023-01-26",
       "duration_ms": 270040,
       "name": "Ondas Do Mar De Vigo",
       "url": "https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd"
@@ -1063,6 +1082,36 @@
       "duration_ms": 434293,
       "name": "Out Pours (Kongo) Blue [Prayer]",
       "url": "https://open.spotify.com/track/1GEjkGIXfNLZpV4XINVy94"
+    },
+    {
+      "album": {
+        "name": "Utopies",
+        "url": "https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7"
+      },
+      "artists": [
+        {
+          "name": "Hadouk Trio",
+          "url": "https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js"
+        },
+        {
+          "name": "Didier Malherbe",
+          "url": "https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl"
+        },
+        {
+          "name": "Loy Ehrlich",
+          "url": "https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 213253,
+      "name": "Parasol Blanc, pt. 2",
+      "url": "https://open.spotify.com/track/1VeMQPvEgDpbmszWba9vIR"
     },
     {
       "album": {
@@ -1131,7 +1180,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 427533,
       "name": "Power Spot",
       "url": "https://open.spotify.com/track/2W01MVAo5hFT1ybtruRc5c"
@@ -1265,10 +1314,32 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": "2023-01-22",
       "duration_ms": 293373,
       "name": "Sundown Dance",
       "url": "https://open.spotify.com/track/2r8ZZIipWHs1cDJk5Ot2Fx"
+    },
+    {
+      "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 259173,
+      "name": "Tales of the Near Future (Clairvoyance)",
+      "url": "https://open.spotify.com/track/41NtDamY27bjNQwwvKGCww"
     },
     {
       "album": {
@@ -1447,7 +1518,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-27",
       "duration_ms": 1314912,
       "name": "Vernal Equinox",
       "url": "https://open.spotify.com/track/3EIv3TZlRfeTpmXS7uoRFq"
@@ -1537,7 +1608,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 453120,
       "name": "Wing Melodies",
       "url": "https://open.spotify.com/track/3nWWMBKHbfhQGZOYHKynKb"
@@ -1605,7 +1676,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 317986,
       "name": "Ya Safwa Ti",
       "url": "https://open.spotify.com/track/3HIOAlsSQQI8PtI5sNcK1F"

@@ -4,7 +4,7 @@
 
 > The 52nd Annual nominees are here! Tune in to TBN on Oct\. 22nd 8/7 PM Central to watch this year's celebration.
 
-62 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/6W32BvFTC8EXEGen2OEqbG)
+62 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

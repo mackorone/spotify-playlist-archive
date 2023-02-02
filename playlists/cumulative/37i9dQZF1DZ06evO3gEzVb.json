@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
   "name": "This Is Daddy Lumba",
-  "published_playlist_ids": [
-    "4ZgERGnq6QOKTxmLecboD4"
-  ],
   "tracks": [
     {
       "album": {
@@ -691,6 +688,24 @@
       "duration_ms": 313391,
       "name": "Odo Nti",
       "url": "https://open.spotify.com/track/0lvAnvn5yMeFS5k8LyhY3A"
+    },
+    {
+      "album": {
+        "name": "Ofon Na \u0190di As\u025bm Fo",
+        "url": "https://open.spotify.com/album/6PJLm0zfTufZAUfqMWNHPU"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336107,
+      "name": "Ofon Na \u0190di As\u025bm Fo",
+      "url": "https://open.spotify.com/track/2V82ttwikT8kbMLURYQyvx"
     },
     {
       "album": {

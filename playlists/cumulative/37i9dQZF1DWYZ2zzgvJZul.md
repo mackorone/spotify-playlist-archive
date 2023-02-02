@@ -4,7 +4,7 @@
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Usted Señalemelo
 
-161 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/0l9Wh8w43fBjYdr4AnAill)
+161 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

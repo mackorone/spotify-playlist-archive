@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Pop classics and show tunes, sung by legendary classical voices. Cover: Andrea Bocelli",
   "name": "Classical Crossover",
-  "published_playlist_ids": [
-    "2aqWtg3gFyBEEz7hN86TZv"
-  ],
   "tracks": [
     {
       "album": {
@@ -243,7 +240,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 249013,
       "name": "Ave Maria, D. 839 (Arr. Garrett / van der Heijden for Voice, Violin and Orchestra)",
       "url": "https://open.spotify.com/track/6Djg0bJXADJyZzWR6WXtEZ"
@@ -751,7 +748,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193333,
-      "name": "Never Say Goodbye (Adapted from \"Pavane, M. 19\")",
+      "name": "Never Say Goodbye (Adapted From \"Pavane, M. 19\")",
       "url": "https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE"
     },
     {
@@ -800,6 +797,10 @@
         "url": "https://open.spotify.com/album/6UpFGwTAEexVrJrR2icKHn"
       },
       "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        },
         {
           "name": "Bryn Terfel",
           "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"

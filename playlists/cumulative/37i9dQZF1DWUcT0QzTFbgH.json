@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "All the music from Michaela Coel\u2019s new HBO series, I May Destroy You, now streaming on  <a href=\"https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ\">HBO Max</a>",
   "name": "I May Destroy You",
-  "published_playlist_ids": [
-    "5Tbd4QpWdncHbWQkHUpL2F"
-  ],
   "tracks": [
     {
       "album": {
@@ -581,7 +578,7 @@
     {
       "album": {
         "name": "Eleven",
-        "url": "https://open.spotify.com/album/6rDsE9m1fJqtfgJmbp91bc"
+        "url": "https://open.spotify.com/album/17WoKlxY15L7vUuwplGgSn"
       },
       "artists": [
         {
@@ -592,6 +589,24 @@
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220684,
+      "name": "Her Winter",
+      "url": "https://open.spotify.com/track/1UEpN7Ns4F4sRgmuZeF9hx"
+    },
+    {
+      "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/6rDsE9m1fJqtfgJmbp91bc"
+      },
+      "artists": [
+        {
+          "name": "Melo-Zed",
+          "url": "https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
       "duration_ms": 220684,
       "name": "Her Winter",
       "url": "https://open.spotify.com/track/2xGBD7Bn0zsCBJvpuo9W1w"
@@ -906,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Memories Over Money",
+        "url": "https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq"
+      },
+      "artists": [
+        {
+          "name": "Kamakaze",
+          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/0H9aeVlzhelT1pjZW4aebD"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/0l1cQuO8xp4OvoUtjkBCZN"
       },
@@ -917,7 +950,7 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 227000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/60n0uavWtFl3XMK7TzefB4"
@@ -1293,7 +1326,7 @@
     {
       "album": {
         "name": "Stillness In Wonderland (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL"
+        "url": "https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI"
       },
       "artists": [
         {
@@ -1304,6 +1337,24 @@
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 271438,
+      "name": "Out of sight (yhyh)",
+      "url": "https://open.spotify.com/track/06O9C9qkFu8p1502wikEPb"
+    },
+    {
+      "album": {
+        "name": "Stillness In Wonderland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 271438,
       "name": "Out of sight (yhyh)",
       "url": "https://open.spotify.com/track/0CJgUhLHQuzHQnegA77DPr"
@@ -1615,10 +1666,32 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 213600,
       "name": "Square 1",
       "url": "https://open.spotify.com/track/0ea9086ldqbhDObsvpmUqF"
+    },
+    {
+      "album": {
+        "name": "Mmm Mmm / Square 1",
+        "url": "https://open.spotify.com/album/3m9vBldCC2uiLx03aTkBto"
+      },
+      "artists": [
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "date_added": "2020-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Square 1",
+      "url": "https://open.spotify.com/track/2W84dAf6uRUEdLN1YkQ4gg"
     },
     {
       "album": {

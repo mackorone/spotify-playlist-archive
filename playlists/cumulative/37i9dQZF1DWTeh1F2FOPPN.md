@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/quintab/">Quinta Brunson</a>
 
-50 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/6weRsuEYlPuAnuyGWC3hxp)
+50 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

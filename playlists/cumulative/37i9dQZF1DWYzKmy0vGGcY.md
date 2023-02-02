@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-211 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/5fgwAY73JTriUUqNxbT4r5)
+212 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,9 +71,10 @@
 | [Harbor Lights](https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Reflections](https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F) | 3:14 | 2021-04-07 |  |
 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 | 2021-04-07 | 2022-07-29 |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-05-30 |  |
+| [Hey Paula](https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Hey Paula](https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh) | 2:26 | 2022-05-30 |  |
 | [Hey Paula](https://open.spotify.com/track/50tTePJn69dlpGxVfWWHWM) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Lo Mejor de los Años 60, Vol\. 3 Pop](https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK) | 2:32 | 2021-04-07 | 2022-07-29 |
 | [Hey Paula \(Re\-Recording\)](https://open.spotify.com/track/7HwPyAmN3aLyr7TuSPfxJv) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [The Ultimate Sixties Collection](https://open.spotify.com/album/2CqYJbZzK4gOM33MtBoI6D) | 2:26 | 2022-05-30 | 2022-11-13 |
-| [Hey Paula \- Single Version](https://open.spotify.com/track/6MpCxTJNdkHIpvQRuID8zU) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [\#1 Radio Hits of the 60's](https://open.spotify.com/album/4o3sNKvKE9yfyhMVm6oSg3) | 2:31 | 2022-05-30 |  |
+| [Hey Paula \- Single Version](https://open.spotify.com/track/6MpCxTJNdkHIpvQRuID8zU) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [\#1 Radio Hits of the 60's](https://open.spotify.com/album/4o3sNKvKE9yfyhMVm6oSg3) | 2:31 | 2022-05-30 | 2022-12-03 |
 | [Honey](https://open.spotify.com/track/4YSAWi7YcWhVj8uUNVQic6) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [100 Unforgettable Love Songs](https://open.spotify.com/album/6ONcF1dk7Kl5TSSwJvs554) | 3:58 | 2022-05-30 | 2022-11-13 |
 | [Honey](https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [Honey](https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP) | 3:58 | 2022-05-30 |  |
 | [Honey](https://open.spotify.com/track/7KkmPCj7Eh9tCD7bF5H2yh) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [This Is..\. 1968](https://open.spotify.com/album/4ThbPOaSGQqqsn5FRKBX5i) | 4:01 | 2021-04-07 | 2022-07-29 |

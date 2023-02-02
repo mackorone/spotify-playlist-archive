@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-69 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/7q42XxhLdyUlgapD7SYD2G)
+70 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 | 2022-09-26 |  |
 | [Inside My Head](https://open.spotify.com/track/5nqottyC6tma8QpHE3VXmO) | [Kick Bong](https://open.spotify.com/artist/3q6niISy491vVKvl8SguX2) | [Inside My Head](https://open.spotify.com/album/2bcrafHtFzL9fL4iEoNqPe) | 5:04 | 2022-05-30 |  |
 | [Istanbul a Facette](https://open.spotify.com/track/33EpfDn7lrt91wR10qwI9H) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI) | [Istanbul a Facette](https://open.spotify.com/album/2tPWMO8Ez8LUEQcZcpUbQl) | 6:47 | 2022-05-30 |  |
-| [Jamileh](https://open.spotify.com/track/0wegArF0QhIeFAq6RYCeEm) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3) | [Miniature 1](https://open.spotify.com/album/1Nm08hXrpfAWxAMhkuflH4) | 5:42 | 2022-05-30 |  |
+| [Jamileh](https://open.spotify.com/track/0wegArF0QhIeFAq6RYCeEm) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3) | [Miniature 1](https://open.spotify.com/album/1Nm08hXrpfAWxAMhkuflH4) | 5:42 | 2022-05-30 | 2022-12-05 |
+| [Jamileh](https://open.spotify.com/track/2CZlZNEwLxDEAfqpZlfK2o) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3) | [Miniature I](https://open.spotify.com/album/5gKKf89Dem52fwvDdIiFPz) | 5:42 | 2022-10-04 |  |
 | [Katoa](https://open.spotify.com/track/438xLWbd5HkLpGn2d8rl5X) | [MI.LA](https://open.spotify.com/artist/67Nx0BYJLxmenQP6Azr34H) | [Katoa](https://open.spotify.com/album/4lxbeDBHemLmKqjFTz7GIx) | 4:29 | 2022-05-30 |  |
 | [Last Chance](https://open.spotify.com/track/57F72SNODqvkm6PAVvoL3B) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Bennu](https://open.spotify.com/album/0ap1ioMSBoEr7eWqwU2DxH) | 2:47 | 2022-05-30 | 2022-10-13 |
 | [Last Chance](https://open.spotify.com/track/59cz7nnzQ6roNXBEDqkMJc) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 2:47 | 2022-10-04 |  |

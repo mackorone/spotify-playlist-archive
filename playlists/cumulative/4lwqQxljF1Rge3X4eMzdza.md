@@ -4,7 +4,7 @@
 
 > Missa inte Kendrick Lamar på Azalea\-scenen på LÖRDAG / 21.00
 
-10 songs - 42 min 35 sec - [published](https://open.spotify.com/playlist/1WAozFEHt4DClmlJjCsUVg)
+10 songs - 42 min 35 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

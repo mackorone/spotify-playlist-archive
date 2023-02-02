@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-28",
   "description": "This is Thursday. The essential tracks, all in one playlist.",
   "name": "This Is Thursday",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -53,10 +52,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 98800,
       "name": "A Sketch For Time's Arrow",
       "url": "https://open.spotify.com/track/7f1BLzNWamtnJlF7YG52Am"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 181826,
+      "name": "As He Climbed The Dark Mountain",
+      "url": "https://open.spotify.com/track/0CraZjvIB4XJ87tC7N5Zcn"
     },
     {
       "album": {
@@ -143,7 +160,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 239013,
       "name": "Beyond The Visible Spectrum",
       "url": "https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z"
@@ -731,6 +748,42 @@
       "duration_ms": 211960,
       "name": "This Side of Brightness",
       "url": "https://open.spotify.com/track/5gOlzxxl94eXariShwCikl"
+    },
+    {
+      "album": {
+        "name": "War All The Time",
+        "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 136333,
+      "name": "This Song Brought To You By A Falling Bomb",
+      "url": "https://open.spotify.com/track/6VYMzpPyB6QVdPwXP0fTMw"
+    },
+    {
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253253,
+      "name": "Time's Arrow",
+      "url": "https://open.spotify.com/track/2EPYehgxIsqGvxUcxwgxkH"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-22",
   "description": "Lo mejor de la nueva. Foto: Montano, Totoy El Frio",
   "name": "Academia Reggaet\u00f3n",
-  "published_playlist_ids": [
-    "3ZGG1JOi7RasWn3HYxETEa"
-  ],
   "tracks": [
     {
       "album": {
@@ -751,7 +748,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 222127,
       "name": "Duro",
       "url": "https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo"
@@ -809,7 +806,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 171453,
       "name": "Frontea",
       "url": "https://open.spotify.com/track/4jtGy607XxJ3jXVU5w07em"
@@ -927,10 +924,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 152004,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL"
+    },
+    {
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "album": {
@@ -981,7 +996,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 223266,
       "name": "Hace Rato",
       "url": "https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB"
@@ -1312,6 +1327,28 @@
     },
     {
       "album": {
+        "name": "GATA PISTOLA",
+        "url": "https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142168,
+      "name": "La m\u00e1s Famosa",
+      "url": "https://open.spotify.com/track/2kY3foijfdehX02ktsZ6E7"
+    },
+    {
+      "album": {
         "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
         "url": "https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF"
       },
@@ -1613,7 +1650,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 178240,
       "name": "Mala Memoria",
       "url": "https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj"
@@ -1894,6 +1931,36 @@
     },
     {
       "album": {
+        "name": "Nada Formal",
+        "url": "https://open.spotify.com/album/27e20XRLAglZv8waxqEeWz"
+      },
+      "artists": [
+        {
+          "name": "MVSIS",
+          "url": "https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269306,
+      "name": "Nada Formal",
+      "url": "https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED"
+    },
+    {
+      "album": {
         "name": "No Digas Nada",
         "url": "https://open.spotify.com/album/0HWuSkJYvFz2B3dFz6FXge"
       },
@@ -1927,7 +1994,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 192000,
       "name": "No Lo Pienses",
       "url": "https://open.spotify.com/track/6x6DEqEtqiQ803pOkEc8qr"
@@ -2055,7 +2122,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 119105,
       "name": "PA QU\u00c9 PUuu",
       "url": "https://open.spotify.com/track/6LieYtwlDRlIusYZsYA4tw"
@@ -2077,6 +2144,24 @@
       "duration_ms": 152151,
       "name": "Pa' La Playa",
       "url": "https://open.spotify.com/track/09w0xAsYZXE6M8oImjFsfz"
+    },
+    {
+      "album": {
+        "name": "Pal' Otro A\u00f1o",
+        "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150894,
+      "name": "Pal' Otro A\u00f1o",
+      "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
     },
     {
       "album": {
@@ -2113,7 +2198,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 184087,
       "name": "Palmas",
       "url": "https://open.spotify.com/track/6OuB9oT6tP6bWANlpkBEgj"
@@ -2254,6 +2339,28 @@
     },
     {
       "album": {
+        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
+      },
+      "artists": [
+        {
+          "name": "OMGisNEFF",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "SokeThugPro",
+          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
+    },
+    {
+      "album": {
         "name": "Perriando Te Voy A Olvidar",
         "url": "https://open.spotify.com/album/4LyHRFsx6Ax8GXyER3ql6A"
       },
@@ -2283,7 +2390,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 180739,
       "name": "PHILLIE",
       "url": "https://open.spotify.com/track/2OkCvqEGmcg1z5N7YUszYS"
@@ -2331,7 +2438,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 213837,
       "name": "Prendete",
       "url": "https://open.spotify.com/track/6Dei890Fy98wn36t39CSht"
@@ -2463,6 +2570,24 @@
       "duration_ms": 176629,
       "name": "Que Loco Mami",
       "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
+    },
+    {
+      "album": {
+        "name": "Que Pvter\u00eda",
+        "url": "https://open.spotify.com/album/2azP4Xmddy56fIbFoHrAAu"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143266,
+      "name": "Que Pvter\u00eda",
+      "url": "https://open.spotify.com/track/1Cu2XVeJznrcbS2r6iOLNZ"
     },
     {
       "album": {
@@ -2697,7 +2822,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 293000,
       "name": "Sigue Sola (with Juhn & KHEA feat. Totoy El Frio, Jerry Di & Be\u00e9le)",
       "url": "https://open.spotify.com/track/7GRe01YSKYRxkXGmrjkcGU"
@@ -2979,7 +3104,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2023-01-28",
       "duration_ms": 149326,
       "name": "Te Juro",
       "url": "https://open.spotify.com/track/0JElJmnJDGum8BGOE4yNsU"
@@ -3037,7 +3162,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 195348,
       "name": "Toque de Queda",
       "url": "https://open.spotify.com/track/2xw8SE40VrzlJ1QHDe50ec"
@@ -3150,6 +3275,28 @@
     },
     {
       "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "album": {
         "name": "Un Poquito",
         "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
       },
@@ -3239,6 +3386,24 @@
       "duration_ms": 217080,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w"
+    },
+    {
+      "album": {
+        "name": "Uno Pal Otro",
+        "url": "https://open.spotify.com/album/7vL8qLZ9jfN6hwpBV4VR7R"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "Uno Pal Otro",
+      "url": "https://open.spotify.com/track/4tM5wHvqV3nufCwXbtY3O4"
     },
     {
       "album": {

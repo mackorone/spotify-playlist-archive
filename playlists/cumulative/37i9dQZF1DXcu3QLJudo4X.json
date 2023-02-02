@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
   "name": "Blues Standards",
-  "published_playlist_ids": [
-    "2f6ONNjgKhI99SaSsbeC2X"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,7 +20,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 183800,
       "name": "(I Think) Drowning on Dry Land",
       "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
@@ -45,6 +42,24 @@
       "duration_ms": 225733,
       "name": "(You've Got To) Love Her With A Feeling",
       "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
+    },
+    {
+      "album": {
+        "name": "Presenting Jimmy Whitherspoon",
+        "url": "https://open.spotify.com/album/6NVixVUSc6EtmvWzJM8vZf"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Whiterspoon",
+          "url": "https://open.spotify.com/artist/6Jsv53pu1yK3Q9ZuHcfhsH"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218053,
+      "name": "Ain't Nobody's Business",
+      "url": "https://open.spotify.com/track/4aD3d9kzxY8MXAssMQ3c6v"
     },
     {
       "album": {
@@ -113,7 +128,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 300013,
       "name": "Baby, Please Don't Go",
       "url": "https://open.spotify.com/track/1jyznfH2Lp3TrIHx5cFQwv"
@@ -221,7 +236,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 174560,
       "name": "Caldonia",
       "url": "https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU"
@@ -300,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "Dirt Road Blues - 2022 Remix",
+      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
+    },
+    {
+      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM"
       },
@@ -311,7 +344,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 206933,
       "name": "Driftin' Blues",
       "url": "https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv"
@@ -459,7 +492,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-28",
       "duration_ms": 281773,
       "name": "Goin' Down Slow",
       "url": "https://open.spotify.com/track/4DIg6Cu5kWVQA3KO2NQpAM"
@@ -553,6 +586,24 @@
       "duration_ms": 319333,
       "name": "How Long Blues",
       "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
+    },
+    {
+      "album": {
+        "name": "Can't Quit You Baby / Sit Down Baby",
+        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187173,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     },
     {
       "album": {
@@ -701,7 +752,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 151960,
       "name": "Kansas City",
       "url": "https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b"
@@ -827,10 +878,28 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 144746,
       "name": "Mystery Train",
       "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
+    },
+    {
+      "album": {
+        "name": "Mystery Train / Love My Baby",
+        "url": "https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU"
     },
     {
       "album": {
@@ -881,7 +950,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 147840,
       "name": "One Night - Remastered",
       "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
@@ -971,7 +1040,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189466,
       "name": "See See Rider Blues",
       "url": "https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G"
@@ -989,7 +1058,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 216106,
       "name": "Sitting On Top Of The World",
       "url": "https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx"
@@ -1237,6 +1306,24 @@
       "duration_ms": 199960,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
+    },
+    {
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
       "album": {

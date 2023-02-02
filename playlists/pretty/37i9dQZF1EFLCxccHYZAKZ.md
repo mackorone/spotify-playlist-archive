@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155 likes - 34 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 229 likes - 34 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 12 | [No Going Back](https://open.spotify.com/track/2vSgW76655sD8YdCqZ5bN7) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Antomage](https://open.spotify.com/artist/6xqmiKO95KxwEiz8BQQauZ), [Bromage](https://open.spotify.com/artist/1aAW5k56ulsXw0ZEm6PpOS) | [No Going Back](https://open.spotify.com/album/0vp0e4m0DeTnouFtrE64w3) | 2:40 |
 | 13 | [body in my bed](https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:23 |
 | 14 | [Lava](https://open.spotify.com/track/2hs2PHJuYNmFCi6bnVmHNK) | [Leu Leu Land](https://open.spotify.com/artist/6lH8TyRSfitGTanY5N4k2J) | [Lava](https://open.spotify.com/album/7MuUrgeqiiW3cH0rGO3yqE) | 2:40 |
-| 15 | [Feel So Good](https://open.spotify.com/track/5uyJh3z8NrvRNry7YSNqQp) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Feel So Good](https://open.spotify.com/album/4KTk2TRMNMp9JN2JeUWC2i) | 3:05 |
-| 16 | [Moon \- Official Summerburst Anthem / 2016](https://open.spotify.com/track/5M4mJKwSHV5d8sTlrO4J8i) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Moon \(Official Summerburst Anthem / 2016\)](https://open.spotify.com/album/1kW9XcmMNIy4qwjncfViyX) | 3:30 |
-| 17 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
+| 15 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
+| 16 | [Feel So Good](https://open.spotify.com/track/5uyJh3z8NrvRNry7YSNqQp) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Feel So Good](https://open.spotify.com/album/4KTk2TRMNMp9JN2JeUWC2i) | 3:05 |
+| 17 | [Moon \- Official Summerburst Anthem / 2016](https://open.spotify.com/track/5M4mJKwSHV5d8sTlrO4J8i) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Moon \(Official Summerburst Anthem / 2016\)](https://open.spotify.com/album/1kW9XcmMNIy4qwjncfViyX) | 3:30 |
 | 18 | [Boiling](https://open.spotify.com/track/05gFzegb6BktSf5irqDcyT) | [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD), [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Boiling](https://open.spotify.com/album/3UF5pFIUg2oNNIkkekPEik) | 3:39 |
 | 19 | [Adios!](https://open.spotify.com/track/2B021Vp8zMjUFsVz26fkN0) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [Adios!](https://open.spotify.com/album/7kGoSK4R4F5uPlacA5ZUQn) | 3:04 |
 | 20 | [Sleepless](https://open.spotify.com/track/1XTaHOa5fk73VbEBQlkP2z) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Sleepless](https://open.spotify.com/album/4aYcKQuqP4AjHvaa69xibv) | 2:40 |
 | 21 | [Splash](https://open.spotify.com/track/4zdKDFFjZ5ZWGBRgNIwGF6) | [OLIVIO](https://open.spotify.com/artist/4AqSg5M86lgbLEEprbEajB) | [Splash](https://open.spotify.com/album/6gCrd502MTnnIfDfuytFbV) | 3:27 |
-| 22 | [When We Were Kids](https://open.spotify.com/track/2upAsEC2spNx7SjeegZXed) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [When We Were Kids](https://open.spotify.com/album/3K8UDI2CeV11Mv27FVZhV6) | 3:10 |
-| 23 | [Queen \- Medsyster Version](https://open.spotify.com/track/7iUMq85VsJkFsGhRU3FT6f) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8), [AMWIN](https://open.spotify.com/artist/4Lj9IwyjADyWsk9eEtQUbY), [LASH](https://open.spotify.com/artist/3A6EnD5cRkVQdHsHeKcWV6), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Queen \(Medsyster Version\)](https://open.spotify.com/album/07VAigrA5trYduULBqHpZX) | 3:42 |
+| 22 | [Queen \- Medsyster Version](https://open.spotify.com/track/7iUMq85VsJkFsGhRU3FT6f) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8), [AMWIN](https://open.spotify.com/artist/4Lj9IwyjADyWsk9eEtQUbY), [LASH](https://open.spotify.com/artist/3A6EnD5cRkVQdHsHeKcWV6), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Queen \(Medsyster Version\)](https://open.spotify.com/album/07VAigrA5trYduULBqHpZX) | 3:42 |
+| 23 | [When We Were Kids](https://open.spotify.com/track/2upAsEC2spNx7SjeegZXed) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [When We Were Kids](https://open.spotify.com/album/3K8UDI2CeV11Mv27FVZhV6) | 3:10 |
 | 24 | [Stress No More](https://open.spotify.com/track/7e4AjAysr2lNQVva4Lasvy) | [Vinil](https://open.spotify.com/artist/4B9njk5H0MezHq02ZrF6SA), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Stress No More](https://open.spotify.com/album/7hx7CmaGtC2odugPxf1TR8) | 3:12 |
 | 25 | [Red Lights \(feat\. Natali Noor\)](https://open.spotify.com/track/1RXnYPcwdFfohfT6P20U3S) | [Le Boeuf](https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Red Lights \(feat\. Natali Noor\)](https://open.spotify.com/album/1h6l1uadQeVYjf7LxX9tpV) | 2:59 |
 | 26 | [Her Bed \(feat\. Nikki Ambers\)](https://open.spotify.com/track/7kU2p11hk4kHFH2aL95qHB) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [Nikki Ambers](https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7) | [Her Bed \(feat\. Nikki Ambers\)](https://open.spotify.com/album/1YGRXIRAbMEHCnLyzy9n4P) | 2:15 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 33 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `Mjc4MjM3NTgsMDAwMDAwMDBiZGViNmFmODJjNjM4MTFlNTYzYzBhNjQ1YzU1YjQ4OQ==`
+Snapshot ID: `Mjc5MjE2MTYsMDAwMDAwMDAyYzg3MGZjZjk2ZTdjNThjOTQ1ZDMxOTk1MGQzOGFjOA==`

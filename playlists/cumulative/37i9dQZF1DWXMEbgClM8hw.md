@@ -4,7 +4,7 @@
 
 > A 50\-track collection of the best brass band pieces in <a href="http://open.spotify.com/genre/classical">classical</a> music, from Fanfares For The Common Men, to dozens of brilliant 20/21 century works in the ever expanding repertoire\. Also follow: <a href="spotify:user:spotify:playlist:28dKgWKUcZ6HKUmav0jQ1w">wind symphoy playlist</a>.
 
-50 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4bWGU7foJ6Q4XuFvZpob2L)
+50 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

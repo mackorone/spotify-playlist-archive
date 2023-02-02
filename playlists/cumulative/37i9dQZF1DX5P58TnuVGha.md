@@ -4,7 +4,7 @@
 
 > Your essential collection, all in one playlist.
 
-25 songs - 1 hr 38 min - [published](https://open.spotify.com/playlist/0tdoYIUDuZvzJBCI0d0ikL)
+25 songs - 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

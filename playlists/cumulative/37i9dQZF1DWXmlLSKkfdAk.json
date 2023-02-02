@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Sit back with this fun and diverse mix of acoustic covers.",
   "name": "Acoustic Covers",
-  "published_playlist_ids": [
-    "56MimGQfv13ynX1TQdHFIl"
-  ],
   "tracks": [
     {
       "album": {
@@ -159,6 +156,24 @@
       "duration_ms": 251440,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/31xBa8IYA5HFtZZlHwYA1y"
+    },
+    {
+      "album": {
+        "name": "Accidentally in Love",
+        "url": "https://open.spotify.com/album/3ZYoYn2I9t1mAqgeHVDI3w"
+      },
+      "artists": [
+        {
+          "name": "Cole Swensen",
+          "url": "https://open.spotify.com/artist/2Hhs5G5jxtbxhOUzm32YxR"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155818,
+      "name": "Accidentally in Love",
+      "url": "https://open.spotify.com/track/3MFbgNUHOM21e2A0X02bWA"
     },
     {
       "album": {
@@ -1092,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "Crooked Tree (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212251,
+      "name": "Dire Wolf - Bonus Track",
+      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+    },
+    {
+      "album": {
         "name": "Don't Dream It's Over",
         "url": "https://open.spotify.com/album/21wasMSzv1uqkmqO4NhndJ"
       },
@@ -1360,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Covers from Home",
+        "url": "https://open.spotify.com/album/6BAh6hwMexhCLh3myahu5A"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/4GtkO065k7XSNJ9OQcnBHW"
+    },
+    {
+      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
       },
@@ -1371,10 +1426,32 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 228693,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
+    },
+    {
+      "album": {
+        "name": "Eternal Flame",
+        "url": "https://open.spotify.com/album/7tb7dGLxrTJDQvF0kGdf3e"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162546,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/4v2L78a6CUNGucM9hRyDiP"
     },
     {
       "album": {
@@ -1393,7 +1470,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 162546,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/7kqlAbUuU1v9w5LN1nOO2q"
@@ -1419,6 +1496,24 @@
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "album": {
@@ -1552,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Forget Me (Acoustic)",
+        "url": "https://open.spotify.com/album/3GDZaAHfzHdPxirDkwQn8w"
+      },
+      "artists": [
+        {
+          "name": "Joey Stamper",
+          "url": "https://open.spotify.com/artist/6t70simaQ2YQHec8QqhiwD"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159489,
+      "name": "Forget Me - Acoustic",
+      "url": "https://open.spotify.com/track/7gpBEWu4SaZijgwKbzeLpt"
+    },
+    {
+      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -1603,6 +1716,24 @@
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
       "album": {
@@ -4443,6 +4574,24 @@
       "duration_ms": 302880,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
+    },
+    {
+      "album": {
+        "name": "Sweet Disposition",
+        "url": "https://open.spotify.com/album/1zHCpxr1jaYwrGiakk5xFZ"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234679,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/0L6G4tEZZmNBKHvnuoBgAc"
     },
     {
       "album": {

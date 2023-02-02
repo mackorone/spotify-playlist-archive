@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
   "name": "Soft 50s",
-  "published_playlist_ids": [
-    "1rXcx4WvqwbQUqwLDBHKJH"
-  ],
   "tracks": [
     {
       "album": {
@@ -500,6 +497,24 @@
     },
     {
       "album": {
+        "name": "When You're Away",
+        "url": "https://open.spotify.com/album/0zcp9PFB5tBzLS8V9ZPqgK"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/5wcR5Xdn2RxQmQGqrer8JQ"
+    },
+    {
+      "album": {
         "name": "50's Love Songs",
         "url": "https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q"
       },
@@ -511,7 +526,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 184093,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/6HuSgh4PeME56VMDrufHxo"

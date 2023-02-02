@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-26",
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
   "name": "Easy Jazz",
-  "published_playlist_ids": [
-    "0aBELbZxmQOYGlLTnkY2l0"
-  ],
   "tracks": [
     {
       "album": {
@@ -124,6 +121,28 @@
     },
     {
       "album": {
+        "name": "True Love's Flame",
+        "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Herman",
+          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
+        },
+        {
+          "name": "Anna Serierse",
+          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152360,
+      "name": "A Place I Don\u2019t Know",
+      "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
+    },
+    {
+      "album": {
         "name": "They Oughta Write a Song",
         "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
       },
@@ -229,7 +248,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 348013,
       "name": "All I Needed",
       "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
@@ -1133,7 +1152,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 142533,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
@@ -1151,7 +1170,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 288693,
       "name": "From Paris With Love - Single Version",
       "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
@@ -1169,7 +1188,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2023-01-27",
       "duration_ms": 170000,
       "name": "Girl from Ipanema",
       "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
@@ -1263,7 +1282,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 388114,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
@@ -1502,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Always Seem to Get Things Wrong",
+        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251413,
+      "name": "I'll Tell You Something",
+      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
+    },
+    {
+      "album": {
         "name": "Dreaming Wide Awake",
         "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
       },
@@ -1589,7 +1626,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 175636,
       "name": "I'm the Sky, I'm the Earth",
       "url": "https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT"
@@ -1889,7 +1926,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-05",
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
@@ -2099,7 +2136,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 222920,
       "name": "La belle vie - The Good Life",
       "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
@@ -2117,7 +2154,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 492520,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
@@ -2149,6 +2186,18 @@
         {
           "name": "Nils Landgren",
           "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Johan Norberg",
+          "url": "https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr"
+        },
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        },
+        {
+          "name": "Rasmus Kihlberg",
+          "url": "https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR"
         }
       ],
       "date_added": "2022-08-19",
@@ -2196,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Songs from Other Places (Special Edition)",
+        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183480,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/4hPTnzenfZExO1hKV3hVeA"
+    },
+    {
+      "album": {
         "name": "Songs From Other Places (Special Edition)",
         "url": "https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1"
       },
@@ -2211,7 +2278,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 183480,
       "name": "Lovely Day - Special Edition",
       "url": "https://open.spotify.com/track/0AdeVqrnbX2SeC9RGVgJWm"
@@ -2367,7 +2434,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 214546,
       "name": "My Baby Just Cares For Me",
       "url": "https://open.spotify.com/track/1b8AEwsyE0NTgvySRi6SFz"
@@ -2407,7 +2474,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 243373,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/4VT4kkO2o3n4HRjBHmo1jo"
@@ -2483,7 +2550,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 245175,
       "name": "once in a moon",
       "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
@@ -2657,7 +2724,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 105721,
       "name": "Red",
       "url": "https://open.spotify.com/track/4g0tDA4iqG7apDR9YgCyOb"
@@ -2809,7 +2876,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2023-02-01",
       "duration_ms": 237813,
       "name": "Smile",
       "url": "https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK"
@@ -3075,7 +3142,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 201577,
       "name": "Taxes",
       "url": "https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM"
@@ -3111,7 +3178,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 324826,
       "name": "The Age Of Anxiety",
       "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
@@ -3129,7 +3196,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 207800,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/3SOolXGudRj8IbpmEFPAj1"
@@ -3209,7 +3276,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 273960,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul"
@@ -3504,6 +3571,28 @@
     },
     {
       "album": {
+        "name": "Try Your Wings",
+        "url": "https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5"
+      },
+      "artists": [
+        {
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 174000,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X"
+    },
+    {
+      "album": {
         "name": "Twentysomething",
         "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
@@ -3793,7 +3882,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 245793,
       "name": "You Never Ask - from 'Madame Sean Connery'",
       "url": "https://open.spotify.com/track/6UZATdF1FiuNheMPu5K14z"

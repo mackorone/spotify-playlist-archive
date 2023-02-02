@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
+  "description": "The most essential R&B songs from the 2010s. Cover: Miguel",
   "name": "I Love My '10s R&B",
-  "published_playlist_ids": [
-    "62gKARUgXf3sQQyKBotdBs"
-  ],
   "tracks": [
     {
       "album": {
@@ -171,10 +168,28 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 98023,
       "name": "Belong to the City",
       "url": "https://open.spotify.com/track/05ht6LtilQXryLlGAKH208"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98023,
+      "name": "Belong to the City",
+      "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
     },
     {
       "album": {
@@ -265,7 +280,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": "2023-01-11",
       "duration_ms": 234040,
       "name": "Body Party",
       "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
@@ -353,7 +368,7 @@
     {
       "album": {
         "name": "PARTYNEXTDOOR",
-        "url": "https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH"
+        "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
       },
       "artists": [
         {
@@ -364,6 +379,24 @@
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 99213,
+      "name": "Break from Toronto",
+      "url": "https://open.spotify.com/track/5fEB6ZmVkg63GZg9qO86jh"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR",
+        "url": "https://open.spotify.com/album/4EZoN6mRXNcGxHXZC2doJH"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
       "duration_ms": 99213,
       "name": "Break from Toronto",
       "url": "https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g"
@@ -457,10 +490,32 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 235477,
       "name": "Come and See Me (feat. Drake)",
       "url": "https://open.spotify.com/track/1wZqJM5FGDEl3FjHDxDyQd"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235477,
+      "name": "Come and See Me (feat. Drake)",
+      "url": "https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr"
     },
     {
       "album": {
@@ -541,7 +596,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
@@ -559,7 +614,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 171818,
       "name": "D'Evils",
       "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
@@ -791,7 +846,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-06",
       "duration_ms": 211960,
       "name": "Ex Calling",
       "url": "https://open.spotify.com/track/1MQ8ydvrTnn2QJgXFATJvD"
@@ -845,7 +900,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 200133,
       "name": "Focus",
       "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
@@ -1066,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216630,
+      "name": "Her Way",
+      "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
+    },
+    {
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -1095,7 +1168,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": "2023-01-26",
       "duration_ms": 406466,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
@@ -1228,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185979,
+      "name": "Issues/Hold On",
+      "url": "https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb"
+    },
+    {
+      "album": {
         "name": "Call Me Crazy, But...",
         "url": "https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7"
       },
@@ -1250,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72080,
+      "name": "James Joint",
+      "url": "https://open.spotify.com/track/6K4Co1NQyOnoFEJMkZHkln"
+    },
+    {
+      "album": {
         "name": "Get You - Single",
         "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
       },
@@ -1265,6 +1374,24 @@
       "duration_ms": 270846,
       "name": "Japanese Denim",
       "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
+    },
+    {
+      "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187893,
+      "name": "John Redcorn",
+      "url": "https://open.spotify.com/track/5ibTi2YwtvbB1bTOv2I93d"
     },
     {
       "album": {
@@ -1855,10 +1982,28 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 174306,
       "name": "PERSIAN RUGS",
       "url": "https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
     },
     {
       "album": {
@@ -1957,7 +2102,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 161200,
       "name": "Pour It Up",
       "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
@@ -2175,7 +2320,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 211610,
       "name": "Shea Butter Baby (with J. Cole)",
       "url": "https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl"
@@ -2693,7 +2838,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 212880,
       "name": "Wus Good / Curious",
       "url": "https://open.spotify.com/track/2ekdnv2xVIyAdG3ySoDDeY"

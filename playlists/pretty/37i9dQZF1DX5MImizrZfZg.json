@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 42012,
+  "num_followers": 44852,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDgyZDFiNjUzNjQyMmU0YTg1YmNlYzhmMjYyODNiOWYw",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMGEzMTkwNWExZTExMjdjMDY1YjJmYjg4NjQ1ODU4ODM0",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -43,38 +43,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Tequila Moon",
-        "url": "https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "Tequila Moon",
-      "url": "https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Player's Club",
-        "url": "https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Suede",
-      "url": "https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
@@ -107,22 +75,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Slow Jam",
-      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Keepin' It Cool",
         "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
       },
@@ -139,18 +91,82 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Night On The Town",
-        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
+        "name": "Player's Club",
+        "url": "https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U"
       },
       "artists": [
         {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
         }
       ],
-      "duration_ms": 289240,
-      "name": "Let It Flow",
-      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
+      "duration_ms": 256226,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Tequila Moon",
+        "url": "https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "Tequila Moon",
+      "url": "https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Up Front",
+        "url": "https://open.spotify.com/album/12qKRGcqgSwQXZbP5MFb0y"
+      },
+      "artists": [
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4c1n3sgF8KcQXi6pF45X9o"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -187,50 +203,50 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
+        "name": "Night On The Town",
+        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
       },
       "artists": [
         {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
         }
       ],
-      "duration_ms": 250746,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
+      "duration_ms": 289240,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
     },
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
       "artists": [
         {
-          "name": "Jeff Golub",
-          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 266106,
-      "name": "On The Wes Side",
-      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
+      "duration_ms": 326213,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
     },
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
+        "name": "Just Doing What I do",
+        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
       },
       "artists": [
         {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+          "name": "Marcus Johnson",
+          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
         }
       ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
+      "duration_ms": 210773,
+      "name": "18th & M",
+      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -267,22 +283,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 326213,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
       },
@@ -299,34 +299,50 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Just Doing What I do",
-        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
       },
       "artists": [
         {
-          "name": "Marcus Johnson",
-          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
         }
       ],
-      "duration_ms": 210773,
-      "name": "18th & M",
-      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
     },
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+        "name": "The Sax Pack",
+        "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
       },
       "artists": [
         {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+          "name": "The Sax Pack",
+          "url": "https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA"
         }
       ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+      "duration_ms": 214986,
+      "name": "The Sax Pack",
+      "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Golub",
+          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "On The Wes Side",
+      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -347,34 +363,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Up Front",
-        "url": "https://open.spotify.com/album/12qKRGcqgSwQXZbP5MFb0y"
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
       "artists": [
         {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
         }
       ],
-      "duration_ms": 267266,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/4c1n3sgF8KcQXi6pF45X9o"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Just Chillin'",
-        "url": "https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "I Still Believe",
-      "url": "https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd"
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -391,6 +391,22 @@
       "duration_ms": 242000,
       "name": "11:58",
       "url": "https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Just Chillin'",
+        "url": "https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -451,6 +467,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Kickin' It",
+        "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Chopsticks",
+      "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "My Inspiration",
         "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
       },
@@ -487,18 +519,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Kickin' It",
-        "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
       },
       "artists": [
         {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 238066,
-      "name": "Chopsticks",
-      "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
+      "duration_ms": 238293,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -535,54 +567,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 238293,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "The Sax Pack",
-        "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
-      },
-      "artists": [
-        {
-          "name": "The Sax Pack",
-          "url": "https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "The Sax Pack",
-      "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Keepin' It Real",
-        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
-      },
-      "artists": [
-        {
-          "name": "Joe McBride",
-          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
-        }
-      ],
-      "duration_ms": 301693,
-      "name": "Keepin' It Real",
-      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "In the Moment",
         "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
       },
@@ -595,38 +579,6 @@
       "duration_ms": 251960,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "The Limit's The Sky",
-        "url": "https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x"
-      },
-      "artists": [
-        {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Chill Or Be Chilled",
-      "url": "https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Hang Time",
-        "url": "https://open.spotify.com/album/5js3uGBKjYbpFyPhcVaw37"
-      },
-      "artists": [
-        {
-          "name": "Wayman Tisdale",
-          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Ain't No Stoppin' Us Now",
-      "url": "https://open.spotify.com/track/1Nu6wkDGw7JurB4AktFuoE"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -647,6 +599,38 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Keepin' It Real",
+        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
+      },
+      "artists": [
+        {
+          "name": "Joe McBride",
+          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Keepin' It Real",
+      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Hang Time",
+        "url": "https://open.spotify.com/album/5js3uGBKjYbpFyPhcVaw37"
+      },
+      "artists": [
+        {
+          "name": "Wayman Tisdale",
+          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Ain't No Stoppin' Us Now",
+      "url": "https://open.spotify.com/track/1Nu6wkDGw7JurB4AktFuoE"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Metro Blue",
         "url": "https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR"
       },
@@ -663,114 +647,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Both Sides",
-        "url": "https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9"
+        "name": "The Limit's The Sky",
+        "url": "https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x"
       },
       "artists": [
         {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
         }
       ],
-      "duration_ms": 295760,
-      "name": "So Divine",
-      "url": "https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Elixir",
-        "url": "https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV"
-      },
-      "artists": [
-        {
-          "name": "Pamela Williams",
-          "url": "https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM"
-        }
-      ],
-      "duration_ms": 202129,
-      "name": "Frobidden Fruit",
-      "url": "https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "HeadBoppin (with bonus track)",
-        "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
-      },
-      "artists": [
-        {
-          "name": "Shilts",
-          "url": "https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Talk of the Town",
-        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Tale of Two Cities",
-      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Off The Record",
-        "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 304040,
-      "name": "Floor & More",
-      "url": "https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "110 Degrees and Rising",
-        "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Toney",
-          "url": "https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Just Like The First Time",
-      "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Hi-Lo Split",
-        "url": "https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp"
-      },
-      "artists": [
-        {
-          "name": "Marc Antoine",
-          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "For A Smile",
-      "url": "https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn"
+      "duration_ms": 223666,
+      "name": "Chill Or Be Chilled",
+      "url": "https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -791,6 +679,86 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV"
+      },
+      "artists": [
+        {
+          "name": "Pamela Williams",
+          "url": "https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM"
+        }
+      ],
+      "duration_ms": 202129,
+      "name": "Frobidden Fruit",
+      "url": "https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Tale of Two Cities",
+      "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Hi-Lo Split",
+        "url": "https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp"
+      },
+      "artists": [
+        {
+          "name": "Marc Antoine",
+          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "For A Smile",
+      "url": "https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 304040,
+      "name": "Floor & More",
+      "url": "https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Both Sides",
+        "url": "https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 295760,
+      "name": "So Divine",
+      "url": "https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
       },
@@ -807,13 +775,45 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Saxophonic",
+        "url": "https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Honey-Dipped",
+      "url": "https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "110 Degrees and Rising",
+        "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Toney",
+          "url": "https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Just Like The First Time",
+      "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Stay Awhile",
         "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
       },
       "artists": [
         {
           "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
+          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
         }
       ],
       "duration_ms": 255093,

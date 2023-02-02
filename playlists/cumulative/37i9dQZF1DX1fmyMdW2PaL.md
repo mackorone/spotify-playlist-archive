@@ -4,7 +4,7 @@
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Show Me The Body
 
-403 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/5uvLVBp4h63WAyYfutapmk)
+403 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

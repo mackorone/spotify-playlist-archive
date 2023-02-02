@@ -4,7 +4,7 @@
 
 > Intoxicating, joyful pop captures the Pride spirit for the Austrian drag queen and Eurovision Song Contest 2014 winner.
 
-40 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/0QIWLBdDSfcQJjUD8rQpQ3)
+40 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Coast along to the best of the alt rock era.
 
-26 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/5yocQp2P0FToSpqcPGUbFg)
+26 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

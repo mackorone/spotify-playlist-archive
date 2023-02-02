@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-25",
   "description": "Latin music making waves. Cover: Jenn Morel",
   "name": "Latin Frequency",
-  "published_playlist_ids": [
-    "0zMa04VYLgYObHIDHZsMot"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 173904,
       "name": "7heaven",
       "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
+    },
+    {
+      "album": {
+        "name": "94",
+        "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153680,
+      "name": "94",
+      "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
     },
     {
       "album": {
@@ -655,7 +670,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 181080,
       "name": "Esa Flaca",
       "url": "https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G"
@@ -767,6 +782,24 @@
       "duration_ms": 146966,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg"
+    },
+    {
+      "album": {
+        "name": "Fue",
+        "url": "https://open.spotify.com/album/7L6g9MtMHH52YLcYBBPMu2"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171857,
+      "name": "Fue",
+      "url": "https://open.spotify.com/track/4Yce6tyMOK05sPdCMQVxlt"
     },
     {
       "album": {
@@ -1219,7 +1252,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 235462,
       "name": "Mismo De Antes",
       "url": "https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb"

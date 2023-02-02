@@ -4,7 +4,7 @@
 
 > In memory of the South African jazz pioneer \(1939–2018\).
 
-36 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/6sonBVu9mSOgms2YG5QPD3)
+36 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

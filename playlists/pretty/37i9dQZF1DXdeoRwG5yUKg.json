@@ -1,12 +1,12 @@
 {
   "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
-  "num_followers": 76286,
+  "num_followers": 77967,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDhhOTViZjI1MGQyMmE0NTA3NmU1MTgzMmZiNDllYzRm",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDg2ZGUwNWE2NjcwZjNkMDBlMWZiNDk5NDFmOWEwYWFi",
   "tracks": [
     {
       "added_at": "2022-09-02 04:02:00",
@@ -23,6 +23,26 @@
       "duration_ms": 226986,
       "name": "That's How Love Is Made",
       "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
+    },
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "Better Days (feat. Dave Fenley)",
+        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
+      },
+      "artists": [
+        {
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
     },
     {
       "added_at": "2022-11-11 05:01:00",

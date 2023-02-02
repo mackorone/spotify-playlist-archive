@@ -4,7 +4,7 @@
 
 > Where nature and white noise meet.
 
-136 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/3PEHXXxoI35nN8diF5gcHS)
+136 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

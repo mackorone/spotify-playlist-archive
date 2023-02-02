@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-22",
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Plastilina Mosh en portada.",
   "name": "Iconos del Rock Mexicano",
-  "published_playlist_ids": [
-    "2UMRgZlvzwOWUgThpBtpYG"
-  ],
   "tracks": [
     {
       "album": {
@@ -275,7 +272,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-12",
       "duration_ms": 241800,
       "name": "Aqu\u00ed No Es D\u00f3nde",
       "url": "https://open.spotify.com/track/6IkojHlvNIAXXHWhlcE1Oq"
@@ -527,7 +524,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 198173,
       "name": "Caminar Sola",
       "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
@@ -617,7 +614,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 240306,
       "name": "Cerquita de Dios",
       "url": "https://open.spotify.com/track/3TmdXxx65CnANS9DMrS1aK"
@@ -635,7 +632,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 208866,
       "name": "Chavo de Onda",
       "url": "https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf"
@@ -815,7 +812,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 277800,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
@@ -977,7 +974,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 237840,
       "name": "Dead - En Vivo",
       "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
@@ -995,7 +992,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 329573,
       "name": "Deja Te Conecto",
       "url": "https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ"
@@ -1053,6 +1050,24 @@
       "duration_ms": 201306,
       "name": "Dejala Tranquila",
       "url": "https://open.spotify.com/track/1I93cMeIRrnOfxsEtAPNJG"
+    },
+    {
+      "album": {
+        "name": "Guillotina",
+        "url": "https://open.spotify.com/album/4Cx1y0dopmbJ4vJWQ09UYD"
+      },
+      "artists": [
+        {
+          "name": "Guillotina",
+          "url": "https://open.spotify.com/artist/0B8O7AzuDbSQKZCfAWkNn7"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266400,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/7G2AUTPHHrDCRAtUEB0aSi"
     },
     {
       "album": {
@@ -1229,7 +1244,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 138400,
       "name": "El Hombre P\u00e1nico",
       "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
@@ -2552,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "Guillotina",
+        "url": "https://open.spotify.com/album/4Cx1y0dopmbJ4vJWQ09UYD"
+      },
+      "artists": [
+        {
+          "name": "Guillotina",
+          "url": "https://open.spotify.com/artist/0B8O7AzuDbSQKZCfAWkNn7"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336800,
+      "name": "No Se Puede Ceder",
+      "url": "https://open.spotify.com/track/3AOrsiFsbNuu8Lh43GF1Um"
+    },
+    {
+      "album": {
         "name": "The Pre End of the World Soundtrack",
         "url": "https://open.spotify.com/album/7LP1CEBNhr3BZ2PXtcOlt3"
       },
@@ -3447,7 +3480,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 97200,
       "name": "Surf Mongol",
       "url": "https://open.spotify.com/track/1skML2AxX4glNCpqWdLWWE"
@@ -3490,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Acapulco Golden",
+        "url": "https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88253,
+      "name": "Tangatutanga",
+      "url": "https://open.spotify.com/track/6jKsTrjBw58EylG0U0Pxws"
+    },
+    {
+      "album": {
         "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
@@ -3505,6 +3556,24 @@
       "duration_ms": 182786,
       "name": "Tijuana Sound Machine",
       "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
+    },
+    {
+      "album": {
+        "name": "Guillotina",
+        "url": "https://open.spotify.com/album/4Cx1y0dopmbJ4vJWQ09UYD"
+      },
+      "artists": [
+        {
+          "name": "Guillotina",
+          "url": "https://open.spotify.com/artist/0B8O7AzuDbSQKZCfAWkNn7"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287626,
+      "name": "Todo Sigue Igual",
+      "url": "https://open.spotify.com/track/2o31MfSmyxVtv9SPZsoINO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Kick it old school with this playlist of throwback R&amp;B.
 
-41 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/3rBuZYWaX6qFbOKxqJstd2)
+41 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

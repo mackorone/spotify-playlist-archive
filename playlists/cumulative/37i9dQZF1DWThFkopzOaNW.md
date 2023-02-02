@@ -4,7 +4,7 @@
 
 > Celebrate the career of one of the most influential <a href="spotify:artist:1mFX1QlezK1lNPKQJkhwWb">R&B groups</a> of all time.
 
-56 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/3gTQhQlbSFMNtLP3beWw6X)
+56 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

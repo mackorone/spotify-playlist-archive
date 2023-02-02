@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
   "name": "This Is The Jones Girls",
-  "published_playlist_ids": [
-    "2s5owikyjfrw5etYCfTIut"
-  ],
   "tracks": [
     {
       "album": {
@@ -199,7 +196,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 155186,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec"
@@ -263,7 +260,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-28",
       "duration_ms": 309000,
       "name": "Could You Be Mine?",
       "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
@@ -363,7 +360,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 168920,
       "name": "Don't Be Sorry Be Careful",
       "url": "https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t"
@@ -705,7 +702,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2022-12-02",
       "duration_ms": 10466,
       "name": "Let's Hit It (Dialogue)",
       "url": "https://open.spotify.com/track/498m2SxS8djtCZzNJgZH7F"
@@ -841,7 +838,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-25",
       "duration_ms": 188040,
       "name": "My Own Special Way",
       "url": "https://open.spotify.com/track/1tg9bmIvnUnxyFSI1f1q05"
@@ -1369,6 +1366,24 @@
       "duration_ms": 180350,
       "name": "You're Gonna Make Me Love Somedoy Else",
       "url": "https://open.spotify.com/track/5M4Ku2ZUn4qfFPaXcL3u1w"
+    },
+    {
+      "album": {
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 231053,
+      "name": "You're the Only Bargain I've Got",
+      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
     },
     {
       "album": {

@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-26",
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
   "name": "This Is Taking Back Sunday",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -35,7 +34,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 299721,
       "name": "A Song For Dan",
       "url": "https://open.spotify.com/track/54ZRdH8aJD9yUbkJmkFqKz"
@@ -57,6 +56,24 @@
       "duration_ms": 239453,
       "name": "All Ready To Go",
       "url": "https://open.spotify.com/track/0rkg1WLUTCvzYM8ViG29d8"
+    },
+    {
+      "album": {
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228322,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/5HS7t19RoitQdGssdOCzkf"
     },
     {
       "album": {
@@ -186,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Transformers: Revenge Of The Fallen The Album",
+        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168360,
+      "name": "Capital M-E",
+      "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
+    },
+    {
+      "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
@@ -197,10 +232,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 168360,
       "name": "Capital M-E",
       "url": "https://open.spotify.com/track/7gZpGRd8lzWXBIMDWIN2LX"
+    },
+    {
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232026,
+      "name": "Cut Me Up Jenny",
+      "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
     },
     {
       "album": {
@@ -259,6 +312,24 @@
       "duration_ms": 252506,
       "name": "Death Wolf",
       "url": "https://open.spotify.com/track/2D1i89f8JciKL4IOmUwdEy"
+    },
+    {
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "El Paso",
+      "url": "https://open.spotify.com/track/0uUCGxUnbgiYDc9mnj9nZh"
     },
     {
       "album": {
@@ -327,7 +398,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-14",
       "duration_ms": 217453,
       "name": "Fences",
       "url": "https://open.spotify.com/track/4XtYWu7zHWqBOBgjVbgd74"
@@ -483,7 +554,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 201920,
       "name": "Mutual Head Club - Demo",
       "url": "https://open.spotify.com/track/5UYNFezTaq71mYe6dfu9LO"
@@ -555,7 +626,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 239081,
       "name": "Nothing At All",
       "url": "https://open.spotify.com/track/0IKqfoRn3Lp8gGnM8IcrcD"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-24",
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
   "name": "Gamer Gang",
-  "published_playlist_ids": [
-    "73qzmtM6uDZBs8ROQmiLzF"
-  ],
   "tracks": [
     {
       "album": {
@@ -593,7 +590,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "Bal\u00e3o",
       "url": "https://open.spotify.com/track/4QFzCjkQl2c7wrzVrOu2sz"
@@ -755,10 +752,32 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 183219,
       "name": "BELIEVE IT",
       "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
     },
     {
       "album": {
@@ -1727,10 +1746,32 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2rPHUAeUPbNgTmK18FPTiZ"
+    },
+    {
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181688,
+      "name": "GO (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
     },
     {
       "album": {
@@ -2534,7 +2575,7 @@
         },
         {
           "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/3GWrFBnQYNEJcoLUCc34hV"
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
       "date_added": "2020-10-20",
@@ -3643,7 +3684,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 185333,
       "name": "Pipa Voada (feat. Emicida)",
       "url": "https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi"
@@ -3903,7 +3944,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-09",
       "duration_ms": 420000,
       "name": "Poesia Ac\u00fastica - Paris",
       "url": "https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK"

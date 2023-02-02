@@ -4,7 +4,7 @@
 
 > &quot;Sleep is the best meditation.&quot; \-Dalai Lama
 
-34 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/4WRMv1AwFzZ1WnCu3qJrmb)
+34 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

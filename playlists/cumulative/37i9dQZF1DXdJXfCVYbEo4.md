@@ -4,7 +4,7 @@
 
 > Las canciones que consagraron a Soda Stereo en Latinoamérica y más allá.
 
-25 songs - 1 hr 48 min - [published](https://open.spotify.com/playlist/0uNK8VT53PUwCR6an7A5TG)
+25 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

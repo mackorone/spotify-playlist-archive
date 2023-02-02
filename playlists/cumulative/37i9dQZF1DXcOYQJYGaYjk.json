@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
   "name": "Heavy Gamers",
-  "published_playlist_ids": [
-    "0CXUKaVOYdtwBBmW5qBSmh"
-  ],
   "tracks": [
     {
       "album": {
@@ -660,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/2zORPlfjurmM0Wgh1Nniix"
       },
@@ -813,7 +828,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-01",
       "duration_ms": 223547,
       "name": "Death",
       "url": "https://open.spotify.com/track/2e9HC16cEYxDnj4QAmsYi4"
@@ -892,6 +907,28 @@
     },
     {
       "album": {
+        "name": "DUKE NUKEM",
+        "url": "https://open.spotify.com/album/0OzvI11qM6D82gtA7iMqLz"
+      },
+      "artists": [
+        {
+          "name": "SHUSH",
+          "url": "https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs"
+        },
+        {
+          "name": "ROMA JONSON",
+          "url": "https://open.spotify.com/artist/21v9qLqZzJBzxIKZZNgD1a"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129264,
+      "name": "DUKE NUKEM",
+      "url": "https://open.spotify.com/track/1MbDJQVfQAeCTWMUeXvrDB"
+    },
+    {
+      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -921,7 +958,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 225245,
       "name": "Executioner's Tax (Swing of the Axe)",
       "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
@@ -1119,10 +1156,32 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 201173,
       "name": "Heart Of Fire",
       "url": "https://open.spotify.com/track/7ej1r1ngI0fAYBHfGtwi7Y"
+    },
+    {
+      "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        },
+        {
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202418,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY"
     },
     {
       "album": {
@@ -1789,7 +1848,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 200800,
       "name": "Panic",
       "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
@@ -1987,7 +2046,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 243939,
       "name": "Quantum Flux",
       "url": "https://open.spotify.com/track/1ZiTdxdpKQuovW4ERgBIO2"
@@ -2611,7 +2670,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 238306,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/47fPXkWBYmYLcRCGrXgoYq"

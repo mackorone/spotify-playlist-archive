@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-29",
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
   "name": "This Is Saweetie",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -80,6 +79,28 @@
     },
     {
       "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152241,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+    },
+    {
+      "album": {
         "name": "Baby Boo",
         "url": "https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4"
       },
@@ -95,7 +116,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 152241,
       "name": "Baby Boo (with Saweetie)",
       "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
@@ -279,7 +300,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-26",
       "duration_ms": 178909,
       "name": "Closer - Remix",
       "url": "https://open.spotify.com/track/68BKZi6RpZ8DDq8nBZCFCJ"

@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-13",
   "description": "I'd come back if you'd just call",
   "name": "longing",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -313,6 +312,28 @@
       "duration_ms": 237818,
       "name": "Darling",
       "url": "https://open.spotify.com/track/2nATTe1i7aMzIZ8klEpgQ7"
+    },
+    {
+      "album": {
+        "name": "Dawns (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290892,
+      "name": "Dawns (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
     },
     {
       "album": {

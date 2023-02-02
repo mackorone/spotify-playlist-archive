@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=r9po0m5GS-OqftcZy_pYog\"> Blxckie </a> ",
+  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=nyBVVSAgQ6ir7o2rnvWgRg\"> AKA </a>",
   "name": "No Wahala",
-  "published_playlist_ids": [
-    "6lFDRmAzLffN6r39zEBvaL"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 132765,
       "name": "4 Door Jeep",
       "url": "https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso"
@@ -562,18 +559,40 @@
     },
     {
       "album": {
+        "name": "By Force",
+        "url": "https://open.spotify.com/album/1eW5AAkt2BYHu4NPEEOlkC"
+      },
+      "artists": [
+        {
+          "name": "8figurez",
+          "url": "https://open.spotify.com/artist/3yJexXx23gh77vExWiL29J"
+        },
+        {
+          "name": "Gemini Major",
+          "url": "https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190295,
+      "name": "By Force",
+      "url": "https://open.spotify.com/track/7eEY6xTOIbHgZpU4NS6gZP"
+    },
+    {
+      "album": {
         "name": "EAST MPAKA LONDON",
         "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
       },
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         }
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": "2023-01-28",
       "duration_ms": 164954,
       "name": "CATALYST",
       "url": "https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX"
@@ -591,7 +610,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 167889,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/0eYtxjlZfYQEsqCWzzptuO"
@@ -679,10 +698,54 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/57o2d5ejkTbNMrgoraDkOJ"
+    },
+    {
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208163,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
+    },
+    {
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/3D2Q4xKdKQQigHuNk1O3ZD"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 208163,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/6ilJ5I8xWC4CjCvgLA91Fy"
     },
     {
       "album": {
@@ -947,7 +1010,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2023-01-20",
       "duration_ms": 185362,
       "name": "First Sermon",
       "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
@@ -1035,7 +1098,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 145330,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ"
@@ -1354,6 +1417,32 @@
     },
     {
       "album": {
+        "name": "Speak N Vrostaan",
+        "url": "https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Papta Mancane",
+          "url": "https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "Is'pantsula (feat. Papta Mancane)",
+      "url": "https://open.spotify.com/track/79OhS9g3iIGJSjf8OxbiVB"
+    },
+    {
+      "album": {
         "name": "Jack",
         "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
       },
@@ -1646,7 +1735,7 @@
     },
     {
       "album": {
-        "name": "Yp & Azanti, Vol. 1",
+        "name": "YP & Azanti, Vol. 1",
         "url": "https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK"
       },
       "artists": [
@@ -1807,7 +1896,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 145333,
       "name": "MOSHITO",
       "url": "https://open.spotify.com/track/0alylhpp2eVgZYSPfZg9Gi"
@@ -1829,6 +1918,28 @@
       "duration_ms": 186173,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/2zmtVdWZ37PZEbN8lx5cou"
+    },
+    {
+      "album": {
+        "name": "MOTOWN (feat. BabyTron)",
+        "url": "https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164861,
+      "name": "MOTOWN",
+      "url": "https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ"
     },
     {
       "album": {
@@ -2105,6 +2216,28 @@
       "duration_ms": 192000,
       "name": "PLAYBACK",
       "url": "https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7"
+    },
+    {
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Khuli Chana",
+          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175428,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw"
     },
     {
       "album": {

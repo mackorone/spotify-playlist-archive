@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Turn the energy levels up and join the party wherever you are!",
   "name": "PARTY MODE",
-  "published_playlist_ids": [
-    "1PuNlNfn3dc6Go7OukEidr"
-  ],
   "tracks": [
     {
       "album": {
@@ -177,7 +174,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-29",
       "duration_ms": 164975,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/6qLkMLUIkdtX34gHF9sPFL"
@@ -590,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
+    {
+      "album": {
         "name": "Better Me (feat. Lily Mckenzie)",
         "url": "https://open.spotify.com/album/6fQqgCDn84OWQZTSswLo6l"
       },
@@ -605,7 +620,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 191625,
       "name": "Better Me (feat. Lily Mckenzie)",
       "url": "https://open.spotify.com/track/3aeqEyOCo9AaKboo37Wr8B"
@@ -693,7 +708,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 166742,
       "name": "Black Hole - Goodboys Remix",
       "url": "https://open.spotify.com/track/7FWDL4IevECW4AFWeovlOG"
@@ -1110,6 +1125,28 @@
     },
     {
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246944,
+      "name": "Dance with My Ghost (feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/6lQzNJLgIn4uEK4NUMUcjv"
+    },
+    {
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/4M3rsAYpJxIVXqYHxylljj"
       },
@@ -1436,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "album": {
         "name": "Elevated",
         "url": "https://open.spotify.com/album/6a3wDTIPiYQwXGkNAAye04"
       },
@@ -1447,7 +1502,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 193872,
       "name": "Elevated",
       "url": "https://open.spotify.com/track/0qZ2NBUmGIaHzvUAfH43A0"
@@ -1542,6 +1597,32 @@
     },
     {
       "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Franklin",
+          "url": "https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168289,
+      "name": "Everybody Dance",
+      "url": "https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M"
+    },
+    {
+      "album": {
         "name": "Everybody Dance (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb"
       },
@@ -1561,7 +1642,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 168289,
       "name": "Everybody Dance (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
@@ -2181,10 +2262,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 144960,
       "name": "Good for Me (feat. Anna Straker)",
       "url": "https://open.spotify.com/track/1S69G657rrHOIfPkKNihwH"
+    },
+    {
+      "album": {
+        "name": "Good for Me (feat. Anna Straker)",
+        "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        },
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "Anna Straker",
+          "url": "https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Good for Me (feat. Anna Straker)",
+      "url": "https://open.spotify.com/track/2uq1PtuZxq2BAWqZSS80Bd"
     },
     {
       "album": {
@@ -2269,7 +2376,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-25",
       "duration_ms": 174649,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
@@ -2397,7 +2504,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 170880,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/5HopfU98O15r6TiQorUxSD"
@@ -2507,6 +2614,28 @@
       "duration_ms": 198620,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
+    },
+    {
+      "album": {
+        "name": "Hipcats",
+        "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129836,
+      "name": "Hipcats",
+      "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
     },
     {
       "album": {
@@ -2951,7 +3080,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-15",
       "duration_ms": 214560,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
@@ -3449,7 +3578,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208536,
-      "name": "Love Tonight - Vintage Culture & Kiko Franco Remix Edit",
+      "name": "Love Tonight (Vintage Culture & Kiko Franco Remix Edit)",
       "url": "https://open.spotify.com/track/53ICqRSyTfhrrvNwVSP6am"
     },
     {
@@ -3543,7 +3672,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 161149,
       "name": "Luv Drunk",
       "url": "https://open.spotify.com/track/4TtEUqECGrixlAgkvzndCq"
@@ -3685,6 +3814,28 @@
       "duration_ms": 142120,
       "name": "Million Ways - Steve Void Remix",
       "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
+    },
+    {
+      "album": {
+        "name": "Miss You (Sped Up Version)",
+        "url": "https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171701,
+      "name": "Miss You - Sped Up Version",
+      "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
     },
     {
       "album": {
@@ -4107,7 +4258,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2023-01-18",
       "duration_ms": 163840,
       "name": "Night Ends",
       "url": "https://open.spotify.com/track/1jghJYP9CZ5tbkZXNFEq0i"
@@ -4362,6 +4513,28 @@
     },
     {
       "album": {
+        "name": "Out Of Nowhere",
+        "url": "https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        },
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
+    },
+    {
+      "album": {
         "name": "Out Of Time",
         "url": "https://open.spotify.com/album/2JSbmQ8Y7wYdoI3U6PxLkX"
       },
@@ -4451,7 +4624,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 150947,
       "name": "Paranoid (feat. Izzy Bizu)",
       "url": "https://open.spotify.com/track/2obJRJaLqTepXxwa2ww8cF"
@@ -4509,7 +4682,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 189120,
       "name": "Physical - Claptone Remix",
       "url": "https://open.spotify.com/track/4KKaV1zUcpDecobqLjwIkB"
@@ -4960,6 +5133,24 @@
     },
     {
       "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "album": {
         "name": "Sextacy",
         "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
       },
@@ -5187,6 +5378,28 @@
       "duration_ms": 241889,
       "name": "Street Rave - Edit",
       "url": "https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf"
+    },
+    {
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234053,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
     },
     {
       "album": {
@@ -5805,7 +6018,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 167190,
       "name": "U Sure",
       "url": "https://open.spotify.com/track/5h3zWZ4MzO3AANv5wDYBxE"
@@ -6303,7 +6516,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230945,
-      "name": "Won't Forget You - Edit",
+      "name": "Won't Forget You (Edit)",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {

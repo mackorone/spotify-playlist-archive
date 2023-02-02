@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
   "name": "This Is Nick Drake",
-  "published_playlist_ids": [
-    "4HIrU2E8UBtxajxKI0lidy"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 115960,
       "name": "All My Trials",
       "url": "https://open.spotify.com/track/0pkVXg95DxLPdmz027lPZ1"
@@ -77,7 +74,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 133226,
       "name": "Been Smoking Too Long",
       "url": "https://open.spotify.com/track/0mpy4rRJcHILTMdnPatza8"
@@ -113,7 +110,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 144293,
       "name": "Blues Run The Game",
       "url": "https://open.spotify.com/track/2x0iOnnRsVQDY4C8Pg7XoU"
@@ -149,7 +146,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 32146,
       "name": "Come Into The Garden (Introduction)",
       "url": "https://open.spotify.com/track/4kBpRGDsUpGwkyu0q6kQQJ"
@@ -171,6 +168,28 @@
       "duration_ms": 146026,
       "name": "Day Is Done",
       "url": "https://open.spotify.com/track/66790TBuwlIrGxWWTVc6yl"
+    },
+    {
+      "album": {
+        "name": "Beyond All Reasonable Doubt",
+        "url": "https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw"
+      },
+      "artists": [
+        {
+          "name": "Chris Adams",
+          "url": "https://open.spotify.com/artist/2aTr5YBE3BLn7KlHqExc8v"
+        },
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199762,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R"
     },
     {
       "album": {
@@ -311,7 +330,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 179333,
       "name": "Milk And Honey",
       "url": "https://open.spotify.com/track/5C9LySq5h3t2Uc6DStZ5pa"
@@ -581,7 +600,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 163400,
       "name": "Winter Is Gone",
       "url": "https://open.spotify.com/track/5XSARpNjtA1GIQR8gzebgm"

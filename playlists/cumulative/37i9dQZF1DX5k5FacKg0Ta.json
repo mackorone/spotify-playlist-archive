@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
   "name": "Jazzia Suomesta",
-  "published_playlist_ids": [
-    "4dQJSl2Re8NrzRsKhgyvQD"
-  ],
   "tracks": [
     {
       "album": {
@@ -175,6 +172,28 @@
       "duration_ms": 254629,
       "name": "Aurinko",
       "url": "https://open.spotify.com/track/0prylnSBXShJ37C8nZZwld"
+    },
+    {
+      "album": {
+        "name": "Births Today",
+        "url": "https://open.spotify.com/album/5Cu7wpoRwOErMpUfJWQA3X"
+      },
+      "artists": [
+        {
+          "name": "RinneRadio",
+          "url": "https://open.spotify.com/artist/4qjNgDN11K9KIhXSNbMQPt"
+        },
+        {
+          "name": "Juha M\u00e4ki-Patola",
+          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210146,
+      "name": "Births Today",
+      "url": "https://open.spotify.com/track/3daOwvvlyswZiRgw6Spb3j"
     },
     {
       "album": {
@@ -363,6 +382,24 @@
       "duration_ms": 475909,
       "name": "Concrete Material",
       "url": "https://open.spotify.com/track/1lsfDuTKA2VqxWp4o0DOSf"
+    },
+    {
+      "album": {
+        "name": "Corona",
+        "url": "https://open.spotify.com/album/04MAdee5JJQdLMfESDGYbX"
+      },
+      "artists": [
+        {
+          "name": "Aaro Laitinen Quintet",
+          "url": "https://open.spotify.com/artist/38NWfEYiJBllcdL6vE4Wb0"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435773,
+      "name": "Corona",
+      "url": "https://open.spotify.com/track/3nP2kXpViJJR0gjNFlvy1i"
     },
     {
       "album": {
@@ -556,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Equilibrium",
+        "url": "https://open.spotify.com/album/0Q0Swg25g1QDGqRhvikXNl"
+      },
+      "artists": [
+        {
+          "name": "North of Kallio Ensemble",
+          "url": "https://open.spotify.com/artist/7sB7k5nRT61iJ4HDliQRtQ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285560,
+      "name": "Equilibrium",
+      "url": "https://open.spotify.com/track/5encxpCxzvb2FbnKCzYHqe"
+    },
+    {
+      "album": {
         "name": "Final Round",
         "url": "https://open.spotify.com/album/5iv71zHywXGWiJsB697xpE"
       },
@@ -729,6 +784,24 @@
       "duration_ms": 231710,
       "name": "Hover",
       "url": "https://open.spotify.com/track/4L8MDfYP5EF61dDjkEtcat"
+    },
+    {
+      "album": {
+        "name": "Hustoi",
+        "url": "https://open.spotify.com/album/3cKJHD8OgLeYnQJpW355SO"
+      },
+      "artists": [
+        {
+          "name": "Halme Prospekt",
+          "url": "https://open.spotify.com/artist/1se0dh7TJmCMgQo4nEpI3B"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257430,
+      "name": "Hustoi",
+      "url": "https://open.spotify.com/track/5DIox0mCNo1bzbCWrOwZ8f"
     },
     {
       "album": {
@@ -1040,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "My Finnish Soul",
+        "url": "https://open.spotify.com/album/6qiOxwnfwtnuVBgwU9NR9l"
+      },
+      "artists": [
+        {
+          "name": "Eeppi Ursin",
+          "url": "https://open.spotify.com/artist/4mZ1U29cyK5MkPefagHlzn"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270362,
+      "name": "Myrskyn J\u00e4lkeen",
+      "url": "https://open.spotify.com/track/40YB7af2XRxHzO8AYThAnQ"
+    },
+    {
+      "album": {
         "name": "Ne H\u00f6lm\u00f6t",
         "url": "https://open.spotify.com/album/0uk6R34azCdrEGPYzWidii"
       },
@@ -1087,7 +1178,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 437200,
       "name": "Northern Journey",
       "url": "https://open.spotify.com/track/7fJ1mBSGYpNtT6tgOHfovt"

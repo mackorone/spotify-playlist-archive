@@ -4,7 +4,7 @@
 
 > ¡Ay, chiquitita, cómo la quiero! ¡Y puro Grupo Firme!
 
-69 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/0Xp49xubOBO0VQbFyOnSyq)
+69 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

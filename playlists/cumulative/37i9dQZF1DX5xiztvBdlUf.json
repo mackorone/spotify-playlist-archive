@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Deep House in all its shapes and colours.",
   "name": "Deep House Blend",
-  "published_playlist_ids": [
-    "476LKMTEI8iEbPIKztl18B"
-  ],
   "tracks": [
     {
       "album": {
@@ -155,7 +152,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 224262,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs"
@@ -181,6 +178,28 @@
     {
       "album": {
         "name": "alone with you (feat. Didi Han)",
+        "url": "https://open.spotify.com/album/1pM6qa4CNTYLrSL1Bd3Bcw"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        },
+        {
+          "name": "DIDI HAN",
+          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210607,
+      "name": "alone with you (feat. Didi Han)",
+      "url": "https://open.spotify.com/track/2zWyV9CIpfaH6v0g1mq1a0"
+    },
+    {
+      "album": {
+        "name": "alone with you (feat. Didi Han)",
         "url": "https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz"
       },
       "artists": [
@@ -195,7 +214,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 210607,
       "name": "alone with you (feat. Didi Han)",
       "url": "https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E"
@@ -285,7 +304,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 460800,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
@@ -734,6 +753,28 @@
     },
     {
       "album": {
+        "name": "Pamoja / Can Soleil / Nestor",
+        "url": "https://open.spotify.com/album/6i3CuCxz4PclCexBllSMWG"
+      },
+      "artists": [
+        {
+          "name": "Dorian Craft",
+          "url": "https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip"
+        },
+        {
+          "name": "Baron (FR)",
+          "url": "https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420983,
+      "name": "Can Soleil",
+      "url": "https://open.spotify.com/track/3009a1t7bhTpvBDEIKtI4X"
+    },
+    {
+      "album": {
         "name": "Fact & Fiction / Can't Get Enough",
         "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
       },
@@ -825,6 +866,24 @@
       "duration_ms": 420272,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN"
+    },
+    {
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420272,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
     },
     {
       "album": {
@@ -941,7 +1000,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 437770,
       "name": "Cloud 7",
       "url": "https://open.spotify.com/track/0Iqp5CMzuBY9B23EApb8Bu"
@@ -967,6 +1026,28 @@
       "duration_ms": 246466,
       "name": "Cold Shoulder - Helsloot Remix",
       "url": "https://open.spotify.com/track/1ipso6qku1yalltQEtxAPw"
+    },
+    {
+      "album": {
+        "name": "Cold Shoulder (Helsloot Remix)",
+        "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
+      },
+      "artists": [
+        {
+          "name": "Words of Ni\u014d",
+          "url": "https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246466,
+      "name": "Cold Shoulder - Helsloot Remix",
+      "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
     },
     {
       "album": {
@@ -1069,7 +1150,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 270506,
       "name": "Cool Air",
       "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
@@ -1387,7 +1468,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-06",
       "duration_ms": 630336,
       "name": "Dig Deep",
       "url": "https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc"
@@ -1449,7 +1530,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 381442,
       "name": "Disco Voador - Oliver Koletzki Remix",
       "url": "https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx"
@@ -1505,6 +1586,24 @@
       "duration_ms": 387302,
       "name": "Diving Into Minds - Club Mix",
       "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t You Know",
+        "url": "https://open.spotify.com/album/30BCvZmqpyfE3oOyqvTYcd"
+      },
+      "artists": [
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556025,
+      "name": "Don\u2019t You Know",
+      "url": "https://open.spotify.com/track/2nAxXOuq4bkxYJj8YOOA6o"
     },
     {
       "album": {
@@ -1785,7 +1884,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 226352,
       "name": "Feelin\u2019",
       "url": "https://open.spotify.com/track/3u7ViRI0Yl94qqln4SH4SG"
@@ -2331,7 +2430,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 392000,
       "name": "I Care For You",
       "url": "https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt"
@@ -2437,7 +2536,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 407804,
       "name": "Ice Raven",
       "url": "https://open.spotify.com/track/4IK547npKWryEQh97Wzsrl"
@@ -3221,7 +3320,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 214591,
       "name": "Lunaire",
       "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
@@ -3239,7 +3338,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 386173,
       "name": "Magenta",
       "url": "https://open.spotify.com/track/7dfmRPjeclzvCQaIVnlgpH"
@@ -3475,7 +3574,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-21",
       "duration_ms": 455915,
       "name": "Morning Routine",
       "url": "https://open.spotify.com/track/1kaTtElKK0jIKTdwg9ASLp"
@@ -3615,6 +3714,24 @@
     {
       "album": {
         "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373487,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
+    },
+    {
+      "album": {
+        "name": "Nice to Meet You",
         "url": "https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y"
       },
       "artists": [
@@ -3625,7 +3742,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 373487,
       "name": "Nice to Meet You",
       "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
@@ -3918,6 +4035,24 @@
     },
     {
       "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+    },
+    {
+      "album": {
         "name": "Ortaya",
         "url": "https://open.spotify.com/album/61L6xQEv9CokeOq9BM29VW"
       },
@@ -3995,6 +4130,28 @@
       "duration_ms": 483226,
       "name": "Owl Adventure",
       "url": "https://open.spotify.com/track/51uhOO3zvddkGfZHkRxbJc"
+    },
+    {
+      "album": {
+        "name": "Oxygen (Klangkarussell Remix)",
+        "url": "https://open.spotify.com/album/5d8WXhJiQak8tEXBSC2HWX"
+      },
+      "artists": [
+        {
+          "name": "SIN",
+          "url": "https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ"
+        },
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 739700,
+      "name": "Oxygen - Klangkarussell Remix",
+      "url": "https://open.spotify.com/track/5L917TMJ8sIhEsuxQGjwH8"
     },
     {
       "album": {
@@ -4197,7 +4354,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 377225,
       "name": "Psilocybin",
       "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
@@ -4313,7 +4470,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": "2023-01-14",
       "duration_ms": 403286,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"
@@ -4924,6 +5081,28 @@
     },
     {
       "album": {
+        "name": "Speed Of Sound",
+        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431419,
+      "name": "Speed of Sound",
+      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
+    },
+    {
+      "album": {
         "name": "St Claire",
         "url": "https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q"
       },
@@ -5211,7 +5390,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 155720,
       "name": "Through The Night - Radio Edit",
       "url": "https://open.spotify.com/track/2gHEGakBTCACE179XoCg2K"
@@ -5233,6 +5412,32 @@
       "duration_ms": 391125,
       "name": "Time Traveller",
       "url": "https://open.spotify.com/track/4wbLApI2Fm7Ach7ni0o9J4"
+    },
+    {
+      "album": {
+        "name": "To Be Written",
+        "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
+      },
+      "artists": [
+        {
+          "name": "Marc DePulse",
+          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Lunar Plane",
+          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393442,
+      "name": "To Be Written - Lunar Plane Remix",
+      "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
     },
     {
       "album": {
@@ -5941,6 +6146,32 @@
       "duration_ms": 382668,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/6aqhM9bUq6tdC9QUj3OXij"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/7szvJIeKj3HVTv63bkIs2E"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Andrew Pololos",
+          "url": "https://open.spotify.com/artist/4L4Ztz8S7RAQxrFgEZS5dm"
+        },
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 214167,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3GNR7g7jIQcRC6Q0sZtqmw"
     },
     {
       "album": {

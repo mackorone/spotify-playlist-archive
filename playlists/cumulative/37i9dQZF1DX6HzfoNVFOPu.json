@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.",
   "name": "Deep Dive: 00s Rock",
-  "published_playlist_ids": [
-    "5hcw9b05MXjlbJWhFDxard"
-  ],
   "tracks": [
     {
       "album": {
@@ -1071,7 +1068,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": "2023-01-29",
       "duration_ms": 234426,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/4dZhQj20JbKlD9oR0X8kjZ"
@@ -1143,7 +1140,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 205752,
       "name": "But It's Better If You Do",
       "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
@@ -1377,7 +1374,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": "2023-02-01",
       "duration_ms": 251800,
       "name": "Closure",
       "url": "https://open.spotify.com/track/3wwoB2eYeGnuOSuIYqXEdl"
@@ -1827,7 +1824,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 317160,
       "name": "Do You Call My Name",
       "url": "https://open.spotify.com/track/5w0jXRvylCbWxFrJx2H1Fl"
@@ -2385,7 +2382,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 246333,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7zQ5nqAKKfk0gtBgV70gyq"
@@ -3672,6 +3669,28 @@
     },
     {
       "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214720,
+      "name": "I'm Not Jesus - International Version",
+      "url": "https://open.spotify.com/track/7rCHmESfvRcjqaU7My7ge8"
+    },
+    {
+      "album": {
         "name": "Red Right Return",
         "url": "https://open.spotify.com/album/28NjP8sRaEaf17KMATTRsG"
       },
@@ -3755,7 +3774,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 241320,
       "name": "In One Ear",
       "url": "https://open.spotify.com/track/2VRJIIzbhhOGaxAhwCMfZX"
@@ -3917,7 +3936,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 151333,
       "name": "Is This It",
       "url": "https://open.spotify.com/track/0jBE7Fn78EAvmIs3dCd6GO"
@@ -4025,7 +4044,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 214333,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/4iihDHIoKZdOeOW1kFDUtR"
@@ -4187,7 +4206,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 194573,
       "name": "Juicebox",
       "url": "https://open.spotify.com/track/3jjQHULAVn71k40mKwGMiV"
@@ -4277,7 +4296,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 175173,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46"
@@ -4835,7 +4854,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-12",
       "duration_ms": 227360,
       "name": "Lost Cause",
       "url": "https://open.spotify.com/track/29i8axWOLDmgbiutJb9prB"
@@ -5329,7 +5348,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-27",
       "duration_ms": 239240,
       "name": "Mr. E's Beautiful Blues",
       "url": "https://open.spotify.com/track/2TVTvVuYZ7ZFonjMI3bKKe"
@@ -5387,6 +5406,24 @@
       "duration_ms": 241840,
       "name": "My Doorbell",
       "url": "https://open.spotify.com/track/2KjqIRW1pRVK7o5B29UqYI"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241866,
+      "name": "My Doorbell",
+      "url": "https://open.spotify.com/track/0pzjcWYkyynxhONSm5C8Cu"
     },
     {
       "album": {
@@ -5509,7 +5546,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-19",
       "duration_ms": 343626,
       "name": "No Cars Go",
       "url": "https://open.spotify.com/track/51xBgzcyzojRpqFW2ICQAB"
@@ -6690,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "Hoobastank (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/6xdSzlVVKW3fQidPxBImTG"
+    },
+    {
+      "album": {
         "name": "Billy Talent III",
         "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
       },
@@ -7385,7 +7440,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 225333,
       "name": "Spread Your Love",
       "url": "https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6"
@@ -8555,7 +8610,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 255813,
       "name": "Try Honesty",
       "url": "https://open.spotify.com/track/3fPSHjVO4iwwGEhHvTwlNb"

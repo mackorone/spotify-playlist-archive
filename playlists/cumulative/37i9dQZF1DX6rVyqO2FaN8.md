@@ -4,7 +4,7 @@
 
 > Recent tracks from the Hot Country playlist that are still smokin'\. Cover: Midland
 
-129 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/0TBZn7zfejqBGy43W0aTCF)
+129 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

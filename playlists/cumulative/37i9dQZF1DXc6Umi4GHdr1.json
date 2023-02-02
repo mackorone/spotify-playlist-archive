@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.",
   "name": "Study Guitar",
-  "published_playlist_ids": [
-    "4HU2Rw6bNgsjgvEsWWL6e8"
-  ],
   "tracks": [
     {
       "album": {
@@ -26,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Sky Full of Stars",
+        "url": "https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1"
+      },
+      "artists": [
+        {
+          "name": "Walter Penn",
+          "url": "https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156008,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH"
+    },
+    {
+      "album": {
         "name": "Airstream",
         "url": "https://open.spotify.com/album/4SBHi1gf4x4rlDr6DEHw16"
       },
@@ -41,6 +56,24 @@
       "duration_ms": 224000,
       "name": "Airstream",
       "url": "https://open.spotify.com/track/4Dh7eyJf2nJgPfpQAOiL7z"
+    },
+    {
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm"
+      },
+      "artists": [
+        {
+          "name": "Jay Peters",
+          "url": "https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129291,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy"
     },
     {
       "album": {
@@ -380,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Chameleon\u2019s tuning",
+        "url": "https://open.spotify.com/album/0n8hKnSnZPGPm1i7LblWdm"
+      },
+      "artists": [
+        {
+          "name": "Aveline Bisset",
+          "url": "https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141497,
+      "name": "Chameleon\u2019s tuning",
+      "url": "https://open.spotify.com/track/35DNlywB4BvMt3Ys4aIxPR"
+    },
+    {
+      "album": {
         "name": "Cheese and Wine",
         "url": "https://open.spotify.com/album/19Cbc4r3BvAIrk8wk51yGW"
       },
@@ -524,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Cumulus",
+        "url": "https://open.spotify.com/album/2tl0bMSrfzfM0nzTwlPddG"
+      },
+      "artists": [
+        {
+          "name": "Lesley Harmon",
+          "url": "https://open.spotify.com/artist/4uKlprMWvRbTYRspAQQdM2"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87268,
+      "name": "Cumulus",
+      "url": "https://open.spotify.com/track/5Ykw2B7qy8ziuYPq6GhsgR"
+    },
+    {
+      "album": {
         "name": "Currer Bell",
         "url": "https://open.spotify.com/album/7Fes7QyLJptB1xdfzTJmPK"
       },
@@ -575,6 +644,24 @@
       "duration_ms": 154437,
       "name": "Das Gebirge",
       "url": "https://open.spotify.com/track/12gTq55jChsH7RIFX6LoBP"
+    },
+    {
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/38CMtYhTZkGGCAi63jiTDi"
+      },
+      "artists": [
+        {
+          "name": "Trevor Potts",
+          "url": "https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168332,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/4kUStH2WW43Ly9wXHOry5v"
     },
     {
       "album": {
@@ -647,6 +734,24 @@
       "duration_ms": 241592,
       "name": "die Tulpe",
       "url": "https://open.spotify.com/track/2lxdP9tH5uCkKXJi8MfxpK"
+    },
+    {
+      "album": {
+        "name": "Dorival",
+        "url": "https://open.spotify.com/album/460T3DYQguwcbXb5M97nr6"
+      },
+      "artists": [
+        {
+          "name": "Azur",
+          "url": "https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166003,
+      "name": "Dorival",
+      "url": "https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3"
     },
     {
       "album": {
@@ -866,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/53PivFOhCq2M9aoVOWDRCj"
+      },
+      "artists": [
+        {
+          "name": "Dena Audley",
+          "url": "https://open.spotify.com/artist/0PMxfySITWLIxBnSJAvUK1"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7bRZz44ODWdcv9OnPDTmpe"
+    },
+    {
+      "album": {
         "name": "Second Wind",
         "url": "https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln"
       },
@@ -974,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Gone to seed",
+        "url": "https://open.spotify.com/album/7MvoXy4KLNxXMCBI6F3I8K"
+      },
+      "artists": [
+        {
+          "name": "Freda Barton",
+          "url": "https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144054,
+      "name": "Gone to seed",
+      "url": "https://open.spotify.com/track/0b4pX3JMLnJi1QY3W42zjN"
+    },
+    {
+      "album": {
         "name": "Hearts Entwined (Ethereal Guitar)",
         "url": "https://open.spotify.com/album/3d5sBqzj7y36pGyGr39JnK"
       },
@@ -1079,6 +1220,24 @@
       "duration_ms": 149000,
       "name": "High Seas",
       "url": "https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv"
+    },
+    {
+      "album": {
+        "name": "Hope Is The Thing With Feathers",
+        "url": "https://open.spotify.com/album/2R3SdXnRlzP5xE1MvkYjMD"
+      },
+      "artists": [
+        {
+          "name": "Verona Cassidy",
+          "url": "https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125807,
+      "name": "Hope Is The Thing With Feathers",
+      "url": "https://open.spotify.com/track/3bfqaJtj53DnO5pJn3DUw1"
     },
     {
       "album": {
@@ -1374,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Little Brook",
+        "url": "https://open.spotify.com/album/4LFmxQ7oxYlsVgITnOa2SX"
+      },
+      "artists": [
+        {
+          "name": "Leon Arms",
+          "url": "https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142750,
+      "name": "Little Brook",
+      "url": "https://open.spotify.com/track/7qNq3sxKEdzYWvxLSLkj0J"
+    },
+    {
+      "album": {
         "name": "Live just one more moment",
         "url": "https://open.spotify.com/album/52cRGasaOFSkOte69HO7Yf"
       },
@@ -1464,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Midnight Rain",
+        "url": "https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok"
+      },
+      "artists": [
+        {
+          "name": "Zion Houston",
+          "url": "https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s"
+    },
+    {
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/4Vghw5bCOZnBkD4W1Mr9I9"
       },
@@ -1519,6 +1714,42 @@
       "duration_ms": 196607,
       "name": "Minore Sostenuto, Op. 107",
       "url": "https://open.spotify.com/track/7xyK7jldqjNERe6RP0DWuZ"
+    },
+    {
+      "album": {
+        "name": "Misspent Life",
+        "url": "https://open.spotify.com/album/4dFszxldPJd0l36xuAXPu2"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Rae",
+          "url": "https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168939,
+      "name": "Misspent Life",
+      "url": "https://open.spotify.com/track/3ktxKAEJ3WvNezNl00O041"
+    },
+    {
+      "album": {
+        "name": "Moondust",
+        "url": "https://open.spotify.com/album/1qZvjFoXmGVvCTWNd9YPef"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Femi",
+          "url": "https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129765,
+      "name": "Moondust",
+      "url": "https://open.spotify.com/track/4f4IeJgCi2IVwmjqbDzDON"
     },
     {
       "album": {
@@ -1666,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "Once In A While",
+        "url": "https://open.spotify.com/album/749CEfY8WRDfgzHNpRTjBC"
+      },
+      "artists": [
+        {
+          "name": "Celestie",
+          "url": "https://open.spotify.com/artist/5Azi9a1sNElNceqcPgurQ7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151866,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/3dR2j28YmdHGc0rY3OEs1o"
+    },
+    {
+      "album": {
         "name": "Paradise Cove",
         "url": "https://open.spotify.com/album/7w6OR7HvoGdQqDAoG271fw"
       },
@@ -1681,6 +1930,24 @@
       "duration_ms": 256062,
       "name": "Paradise Cove",
       "url": "https://open.spotify.com/track/3lCez1NMvH5SXtWDYT6pSR"
+    },
+    {
+      "album": {
+        "name": "Path To Nowhere",
+        "url": "https://open.spotify.com/album/6l5u0lxJyTycWNjYsG8lCV"
+      },
+      "artists": [
+        {
+          "name": "Mysha Carney",
+          "url": "https://open.spotify.com/artist/3dvsn9GPd4lnOCek1zZDIO"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104939,
+      "name": "Path To Nowhere",
+      "url": "https://open.spotify.com/track/1ZHAE8T4OUQ9zySQ6B83Qw"
     },
     {
       "album": {
@@ -1735,6 +2002,24 @@
       "duration_ms": 155181,
       "name": "Pinus Halepensis",
       "url": "https://open.spotify.com/track/5vHDaXBGHiN5AroXmGjucE"
+    },
+    {
+      "album": {
+        "name": "Piumata",
+        "url": "https://open.spotify.com/album/3oKBrqXfzKn8vYJwAra3T1"
+      },
+      "artists": [
+        {
+          "name": "Briana Courtois",
+          "url": "https://open.spotify.com/artist/16zv8egdYW4tjmgK2JqIwV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Piumata",
+      "url": "https://open.spotify.com/track/0SwMXhWI9pZO0lroyyjfCl"
     },
     {
       "album": {
@@ -1962,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Sans Toi - Guitar",
+        "url": "https://open.spotify.com/album/38NCkRjEp9lwz3GmRQOyeq"
+      },
+      "artists": [
+        {
+          "name": "Loane Tellier",
+          "url": "https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138162,
+      "name": "Sans Toi",
+      "url": "https://open.spotify.com/track/0gYgdEiS0wNp4OFllLrpr3"
+    },
+    {
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs"
       },
@@ -2031,6 +2334,24 @@
       "duration_ms": 173698,
       "name": "Sir Lancelot",
       "url": "https://open.spotify.com/track/2CPWOD9WJN19q2NY2sqpq7"
+    },
+    {
+      "album": {
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6uhWaOInvJrT8zV8YbGiN6"
+      },
+      "artists": [
+        {
+          "name": "Serena Perez",
+          "url": "https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112395,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/0SeZxemKR9G0OZ9peDOMjK"
     },
     {
       "album": {
@@ -2669,6 +2990,42 @@
       "duration_ms": 130131,
       "name": "When You Hold Me",
       "url": "https://open.spotify.com/track/4mDch7mKVDPFcF8TD5v6p6"
+    },
+    {
+      "album": {
+        "name": "Winter Blues",
+        "url": "https://open.spotify.com/album/2f8eOYEG4ftkAniFWAUBDV"
+      },
+      "artists": [
+        {
+          "name": "Joey Michels",
+          "url": "https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127403,
+      "name": "Winter Blues",
+      "url": "https://open.spotify.com/track/2s2gJ5xHJcVfiJ6GnvRk0m"
+    },
+    {
+      "album": {
+        "name": "Winterland",
+        "url": "https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131074,
+      "name": "Winterland",
+      "url": "https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO"
     },
     {
       "album": {

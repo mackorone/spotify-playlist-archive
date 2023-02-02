@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain]
 
 > Light of your 4th with these family\-friendly tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,729 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain]
 | 12 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 |
 | 13 | [The Other Side](https://open.spotify.com/track/6cN7DMetKweuV7GZ5htak4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:08 |
 | 14 | [50 States](https://open.spotify.com/track/3fvtkCu5uKcEoMdnAtiCv9) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap 6](https://open.spotify.com/album/7tZGyOMUj6xQX8J78zuU2t) | 1:52 |
-| 15 | [Fireworks!](https://open.spotify.com/track/6FvzTqHZHbW2Rr8DE81OE2) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Gustafer Yellowgold's Year in the Day](https://open.spotify.com/album/3dH8eSwObAiv9csvShIC7Z) | 3:00 |
+| 15 | [Fireworks!](https://open.spotify.com/track/5hYMDmMqBC9iUE1OudUfFB) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Year In The Day](https://open.spotify.com/album/5XFROmgGL1GQrZ0ivAPaYe) | 3:00 |
 | 16 | [American Heart](https://open.spotify.com/track/2yPFfoT04AIb5Ak4r1NdHr) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [American Heart](https://open.spotify.com/album/2c5cAit9jY2Xk7A6mhaIkJ) | 3:53 |
 | 17 | [drivers license](https://open.spotify.com/track/4ml4WlnHDEpOK8HRVYTCWf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 4:02 |
 | 18 | [Running Through America](https://open.spotify.com/track/3Gl5wyYQpldg5Sts8k50iL) | [Rolie Polie Guacamole](https://open.spotify.com/artist/5B7XLUnkpg3TQYgP088xqT) | [Triathlon](https://open.spotify.com/album/3Sq25gzor7hJXedb4D3zrt) | 3:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUs5ZfyIp6hP.md) - [plain]
 | 50 | [Hot Fun in the Summertime](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:37 |
 | 51 | [The United States Where Freedom Rings](https://open.spotify.com/track/2dkSS53ACmE7OFBDqa41OQ) | [Jeography](https://open.spotify.com/artist/5l2nxUCCFQtdomhQ8ldeOB) | [Geography Songs for This Planet](https://open.spotify.com/album/4GrgdZjtFrmanopz1ANjvg) | 7:43 |
 
-Snapshot ID: `MTY1NjQzMzIxMiwwMDAwMDAwMDE3MDRiZGQ3OTU4NTNmZTQyZGFlY2ZmZDE4YzA5NDI4`
+Snapshot ID: `MTY1NjQzMzIxMiwwMDAwMDAwMDZjNjZkOTJiMGIzYTAyY2IxM2E0NGRkNjM0YjJkNGY3`

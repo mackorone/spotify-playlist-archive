@@ -4,7 +4,7 @@
 
 > New music from all\-time greats! Cover: Pink Floyd
 
-55 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/417uTD9hFYLOKnNMeHCzDQ)
+55 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

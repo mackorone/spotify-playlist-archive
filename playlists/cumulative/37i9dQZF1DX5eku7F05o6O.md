@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-160 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/1uamJwZjgxkyJHjt785hKa)
+160 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

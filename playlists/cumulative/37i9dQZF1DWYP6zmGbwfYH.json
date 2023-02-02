@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-23",
   "description": "El icuiricui, el matalacachimba y el ruletero.",
   "name": "Ruleteando",
-  "published_playlist_ids": [
-    "39vfktrnS8Wr51Upfb0wRu"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 242800,
       "name": "Abrazame y Perdoname",
       "url": "https://open.spotify.com/track/0w8yx6IabNOKltsP6ABqcM"
@@ -73,7 +70,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-25",
       "duration_ms": 225973,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m"
@@ -783,7 +780,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 206146,
       "name": "Dos Locos",
       "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
@@ -855,7 +852,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 157600,
       "name": "D\u00e9jenme llorar - Con banda",
       "url": "https://open.spotify.com/track/6MpWEoDk1S8oJJaEga4DiP"
@@ -1291,7 +1288,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 305053,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
@@ -1367,7 +1364,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 198213,
       "name": "Fuiste Mala",
       "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
@@ -2117,7 +2114,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 173626,
       "name": "Notas de Sociedad",
       "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
@@ -2291,10 +2288,32 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
+    },
+    {
+      "album": {
+        "name": "Cumbia Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k"
     },
     {
       "album": {
@@ -3037,7 +3056,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 194466,
       "name": "Te Quiero A T\u00ed",
       "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"

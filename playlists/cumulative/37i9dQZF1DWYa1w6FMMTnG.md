@@ -4,7 +4,7 @@
 
 > Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.
 
-85 songs - 4 hr 5 min - not published yet
+85 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

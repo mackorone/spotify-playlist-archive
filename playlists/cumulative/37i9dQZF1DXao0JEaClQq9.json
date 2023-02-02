@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "if it feels ethereal, it's here. cover: Weyes Blood ",
+  "description": "if it feels ethereal, it's here. cover: Kimbra ",
   "name": "Ethereal",
-  "published_playlist_ids": [
-    "4CRtbJr5tLg7o8NQ01m1n7"
-  ],
   "tracks": [
     {
       "album": {
@@ -204,6 +201,24 @@
     },
     {
       "album": {
+        "name": "A Place To Lie",
+        "url": "https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323210,
+      "name": "A Place To Lie",
+      "url": "https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R"
+    },
+    {
+      "album": {
         "name": "La Linda",
         "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
       },
@@ -305,7 +320,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
@@ -367,6 +382,24 @@
       "duration_ms": 268306,
       "name": "All I Need (feat. Beth Hirsch)",
       "url": "https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj"
+    },
+    {
+      "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/3UloUmEFb7XcPCinY1XBsX"
+      },
+      "artists": [
+        {
+          "name": "BONZIE",
+          "url": "https://open.spotify.com/artist/5P7xOLYjahofPTxDa0MOc8"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189376,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/2J0OyHOLx1IfGN3NspS1VB"
     },
     {
       "album": {
@@ -460,6 +493,24 @@
     },
     {
       "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352178,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
+    },
+    {
+      "album": {
         "name": "Angel On My Shoulder",
         "url": "https://open.spotify.com/album/5rJ5nSlS3ARksBxsaysCQL"
       },
@@ -507,7 +558,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 266721,
       "name": "Another Lover",
       "url": "https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL"
@@ -728,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Be On Your Way",
+        "url": "https://open.spotify.com/album/5cl1NwVLViPBDolbgrWYSl"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244772,
+      "name": "Be On Your Way",
+      "url": "https://open.spotify.com/track/0gnSRfmHb2SlTtI0wHx9cX"
+    },
+    {
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4HdbjrrLN9BjHfmtZ1riof"
       },
@@ -865,7 +934,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 296554,
       "name": "Billions",
       "url": "https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm"
@@ -1729,7 +1798,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 224393,
       "name": "Condition",
       "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
@@ -1812,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/6WlmR977FLZn35bctH2DWv"
+      },
+      "artists": [
+        {
+          "name": "Active Child",
+          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315066,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/3Ian22jSpN2O6tBRI307Ok"
+    },
+    {
+      "album": {
         "name": "Crumbs",
         "url": "https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ"
       },
@@ -1823,7 +1910,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 193424,
       "name": "Crumbs",
       "url": "https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz"
@@ -2021,7 +2108,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 237480,
       "name": "Delete Forever",
       "url": "https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej"
@@ -2267,7 +2354,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-13",
       "duration_ms": 322562,
       "name": "Door",
       "url": "https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh"
@@ -2694,6 +2781,28 @@
     },
     {
       "album": {
+        "name": "foolish thinking",
+        "url": "https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Ryan Lott",
+          "url": "https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353021,
+      "name": "foolish thinking",
+      "url": "https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv"
+    },
+    {
+      "album": {
         "name": "Ache of Victory",
         "url": "https://open.spotify.com/album/55ICRQmIlXrgsAS1JfKnEI"
       },
@@ -2727,6 +2836,28 @@
       "duration_ms": 202536,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
+    },
+    {
+      "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136477,
+      "name": "FORWARD",
+      "url": "https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5"
     },
     {
       "album": {
@@ -2995,7 +3126,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 204702,
       "name": "Glitter and Tears - Myra Molloy Remix",
       "url": "https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg"
@@ -3848,6 +3979,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Like Alice",
+        "url": "https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136153,
+      "name": "I'm Not Like Alice",
+      "url": "https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5"
+    },
+    {
+      "album": {
         "name": "I'm On",
         "url": "https://open.spotify.com/album/3kptKZRdNf94sV6gFveVYc"
       },
@@ -4079,7 +4228,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 151656,
       "name": "jessamine",
       "url": "https://open.spotify.com/track/3tyb330XAhtwkykFWS378z"
@@ -4217,7 +4366,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 305506,
       "name": "Kerosene!",
       "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
@@ -4651,7 +4800,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 186866,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
@@ -5202,6 +5351,50 @@
     },
     {
       "album": {
+        "name": "Mystery Boy (Vegyn Remix)",
+        "url": "https://open.spotify.com/album/3c8YyFMZ6gn4orPAMbu3DL"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Mystery Boy - Vegyn Remix",
+      "url": "https://open.spotify.com/track/2MKMdhHQeRujdPrEaZp8aa"
+    },
+    {
+      "album": {
+        "name": "Mystery Boy (Vegyn Remix)",
+        "url": "https://open.spotify.com/album/2T1FpiNGqka6RSpMgtd3Ao"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 154000,
+      "name": "Mystery Boy - Vegyn Remix",
+      "url": "https://open.spotify.com/track/6sgly9yTIbjFyUW5k2a7pc"
+    },
+    {
+      "album": {
         "name": "Never Get To Fuck Any1",
         "url": "https://open.spotify.com/album/32Dk2xAvKOt7eSFvPTQX0x"
       },
@@ -5579,7 +5772,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 241453,
       "name": "Only Living For You",
       "url": "https://open.spotify.com/track/2uV2U719oryrhBsj3jTqNT"
@@ -5789,7 +5982,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 281190,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5"
@@ -6350,6 +6543,24 @@
     },
     {
       "album": {
+        "name": "River / Happy Xmas (War Is Over)",
+        "url": "https://open.spotify.com/album/6pr4v7NJt54lnLjDMwiOy1"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 240687,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6GIGtQZq4wKWlDM8wUfS6c"
+    },
+    {
+      "album": {
         "name": "Heaven To A Tortured Mind",
         "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
       },
@@ -6433,7 +6644,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 199000,
       "name": "SADIST",
       "url": "https://open.spotify.com/track/0x2BBTnwlR3StGFVM7mZmr"
@@ -6896,6 +7107,32 @@
     },
     {
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187788,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S"
+    },
+    {
+      "album": {
         "name": "Sensational",
         "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
       },
@@ -7175,7 +7412,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 371087,
       "name": "Stay Awhile",
       "url": "https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml"
@@ -7313,6 +7550,24 @@
       "duration_ms": 344344,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/1xiL7VZGTXUcJRmHqlIY5a"
+    },
+    {
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344344,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
     },
     {
       "album": {
@@ -8083,7 +8338,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 262400,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
@@ -8679,6 +8934,28 @@
       "duration_ms": 149013,
       "name": "With You - Spotify Studio Oyster Recording",
       "url": "https://open.spotify.com/track/1gob2nlpbo0RwsjMMKlrKy"
+    },
+    {
+      "album": {
+        "name": "Meeting with a Judas Tree",
+        "url": "https://open.spotify.com/album/2JEmFCOxEi8Onik59bRrMg"
+      },
+      "artists": [
+        {
+          "name": "Duval Timothy",
+          "url": "https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y"
+        },
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 212959,
+      "name": "Wood",
+      "url": "https://open.spotify.com/track/3EyxbmvNxqvFLmqRMc5Caw"
     },
     {
       "album": {

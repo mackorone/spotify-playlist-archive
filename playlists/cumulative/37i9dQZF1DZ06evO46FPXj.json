@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Autechre. The essential tracks, all in one playlist.",
   "name": "This Is Autechre",
-  "published_playlist_ids": [
-    "0WU5a7eAdnsL2PN62ZeEjg"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 349767,
       "name": "777",
       "url": "https://open.spotify.com/track/5txiIpQhhGzdII7Bci8wuv"
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 519524,
       "name": "Acroyear2",
       "url": "https://open.spotify.com/track/0YxgETKHayjfYMws5jZ9dw"
@@ -257,7 +254,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 739494,
       "name": "bladelores",
       "url": "https://open.spotify.com/track/0z5NOndJF0DHq6GizOZjUT"
@@ -295,7 +292,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 584133,
-      "name": "Brunchusevenmx",
+      "name": "Bronchusevenmx",
       "url": "https://open.spotify.com/track/3L8TGifjpCtqYarKwojpQ8"
     },
     {
@@ -401,7 +398,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 401314,
       "name": "Cfern",
       "url": "https://open.spotify.com/track/7EuJMbuh3qf5hVg27q6B03"
@@ -419,7 +416,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 456226,
       "name": "Chatter",
       "url": "https://open.spotify.com/track/2H9h90KQGqB2z34sptglwj"
@@ -581,7 +578,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 166437,
       "name": "DekDre Scap B",
       "url": "https://open.spotify.com/track/74y2Grz5MlGmah722TxSZg"
@@ -671,7 +668,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 196600,
       "name": "Dropp",
       "url": "https://open.spotify.com/track/2dr40Mh5nBfFj3U2qKrs1e"
@@ -743,7 +740,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 295976,
       "name": "esc desc",
       "url": "https://open.spotify.com/track/4WOwxNRtErpf5sWuvWvGVu"
@@ -1301,7 +1298,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 223464,
       "name": "marhide",
       "url": "https://open.spotify.com/track/5jylHt5j4Zkd2Ks7H6Ttzv"
@@ -1373,7 +1370,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 468800,
       "name": "Nil",
       "url": "https://open.spotify.com/track/7ve54JSHBvuDEqDD5zixOl"
@@ -1391,7 +1388,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 220200,
       "name": "Nine",
       "url": "https://open.spotify.com/track/7FR8DdPrRieZexZQaGDRWU"
@@ -1463,7 +1460,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 428131,
       "name": "Pen Expers",
       "url": "https://open.spotify.com/track/6DFoBjJDvYC28COaoxZYda"
@@ -1596,6 +1593,42 @@
     },
     {
       "album": {
+        "name": "Oversteps",
+        "url": "https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249800,
+      "name": "pt2ph8",
+      "url": "https://open.spotify.com/track/4qJm6hIBf3UUg9j38cgA5X"
+    },
+    {
+      "album": {
+        "name": "Oversteps",
+        "url": "https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 278626,
+      "name": "qplay",
+      "url": "https://open.spotify.com/track/5ElWBGXHXlpKHcS8EZOCgh"
+    },
+    {
+      "album": {
         "name": "SIGN",
         "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
       },
@@ -1679,7 +1712,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": "2022-12-20",
       "duration_ms": 127853,
       "name": "Rettic AC",
       "url": "https://open.spotify.com/track/3QyfMPXAuzX6x1bgkgjuoV"
@@ -1751,7 +1784,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-21",
       "duration_ms": 587200,
       "name": "Second Bad Vilbel",
       "url": "https://open.spotify.com/track/6IOIjAiwta1b4r2mVQ5leS"
@@ -2007,6 +2040,24 @@
       "duration_ms": 405773,
       "name": "Teartear",
       "url": "https://open.spotify.com/track/66VeMBcGiUYsXUr5Jqc2QV"
+    },
+    {
+      "album": {
+        "name": "Chiastic Slide",
+        "url": "https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416909,
+      "name": "Tewe",
+      "url": "https://open.spotify.com/track/1bP6HZj0zgug1YdY1fQxZO"
     },
     {
       "album": {

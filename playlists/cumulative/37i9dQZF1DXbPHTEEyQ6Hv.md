@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-120 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/2x7sSOhmPXaV5o4uGuTeqA)
+124 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [O Holy Night](https://open.spotify.com/track/2ClC0UkO46ZOGLk9R6M8c2) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/5MaXMlmiT3f2wZ5oqYKebv) | 2:13 | 2022-11-09 |  |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/1hmwBO0NO72Kn6jcRubbXZ) | [Milos Foreman](https://open.spotify.com/artist/76UnKxgXMyljNuYnFp2ieZ) | [O Little Town of Bethlehem](https://open.spotify.com/album/1jkYdCQ6NU6EkTKvOvtTHF) | 2:21 | 2022-10-14 |  |
 | [Oh Holy Night](https://open.spotify.com/track/5aKLsTh2eSp1cZxWidGU8K) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [Oh Holy Night](https://open.spotify.com/album/6MxlnQlKdMrLDZwPnzbGXZ) | 4:04 | 2021-12-14 | 2022-11-10 |
+| [Peaceful Midnight Vignette](https://open.spotify.com/track/5lu9eIMZWM5jhwezjP9VAt) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Holiday Improvisations](https://open.spotify.com/album/308ccuyDr8CgJ9NNFhDcZo) | 1:19 | 2022-12-16 |  |
 | [Please Come Home for Christmas](https://open.spotify.com/track/53ke8sTyEWjVjiBoE8kbkS) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 3:34 | 2021-12-14 |  |
 | [Sans Day Carol](https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:41 | 2021-12-14 |  |
 | [Santa Tell Me](https://open.spotify.com/track/1AToYrtSByKZq8a6uIEsmg) | [Pam Hill](https://open.spotify.com/artist/2G0kAA5t60WuLGOa1FSFRB) | [Santa Tell Me](https://open.spotify.com/album/7CM27GU1KQV7vTiNSkxf1P) | 2:14 | 2022-10-14 |  |
@@ -113,7 +114,10 @@
 | [The Christmas Waltz](https://open.spotify.com/track/1mo1GHuFkrf5HbmsIAFE9A) | [Wolfgang Hesse](https://open.spotify.com/artist/0DA4ip8spL0eleah5T7Xoz) | [Wolfgang Hesse](https://open.spotify.com/album/7LQuSNfNniF4uHmJxC1ruS) | 3:00 | 2021-12-14 | 2022-10-15 |
 | [The Coventry Carol](https://open.spotify.com/track/1qRLuNPkZL4NcTvhbrn6yI) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:16 | 2021-12-14 |  |
 | [The Day Before Christmas](https://open.spotify.com/track/5Jdvuh1kRvNvkWRwxYY1sh) | [Jascha van Nuenen](https://open.spotify.com/artist/0wxmGu7bfQkix7ZeK8A0mz) | [The Day Before Christmas](https://open.spotify.com/album/2m0DnFENgUgtJq410jEGcT) | 1:42 | 2022-11-09 |  |
-| [The First Noël](https://open.spotify.com/track/2s286y2oyE6zfa6QF8X9eU) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Gather Around The Christmas Tree](https://open.spotify.com/album/2bDhA7c8KAj4CzavWa49fU) | 2:02 | 2021-12-14 |  |
+| [The First Noel](https://open.spotify.com/track/2lzHOWyFnlG057YxwW4iYh) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas](https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP) | 2:03 | 2022-12-14 |  |
+| [The First Noel](https://open.spotify.com/track/3qIyXzaFyemcsdtDwCz00L) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Little Drummer Boy](https://open.spotify.com/album/50N8RLcnXHRulPucazKUfE) | 2:03 | 2022-12-06 | 2022-12-16 |
+| [The First Noel](https://open.spotify.com/track/7vFgAMthJFP6jr9HTef2Y8) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The First Noel](https://open.spotify.com/album/6U12R48Wp7jHFTX4odwrDr) | 2:03 | 2022-12-06 | 2022-12-09 |
+| [The First Noël](https://open.spotify.com/track/2s286y2oyE6zfa6QF8X9eU) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Gather Around The Christmas Tree](https://open.spotify.com/album/2bDhA7c8KAj4CzavWa49fU) | 2:02 | 2021-12-14 | 2022-12-07 |
 | [The Holly and the Ivy](https://open.spotify.com/track/0YrtmukmxadUiL71QmYavc) | [David Osborne](https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G) | [Piano Christmas](https://open.spotify.com/album/5DzeLiTyNyuJWq5kJkjaVV) | 1:52 | 2021-12-14 |  |
 | [The Most Wonderful Gift](https://open.spotify.com/track/1A2p03BIqWmsrZ1m5HMNFv) | [Deborah Luman](https://open.spotify.com/artist/6ECfTOwRS9QkTKgziQ5BBO) | [The Most Wonderful Gift](https://open.spotify.com/album/4YGmYz1eoA6TW6ZgjiM58V) | 2:56 | 2022-11-09 |  |
 | [The Night Before Christmas](https://open.spotify.com/track/40BxkceWiGC2D37Iv3PqQS) | [Marvin Simmons](https://open.spotify.com/artist/6K3rVk2qB0yKO8ToZnovWf) | [It's Christmas Every Day](https://open.spotify.com/album/3lHNVUvVKOZvjuA6VkpCIN) | 2:36 | 2021-12-14 |  |

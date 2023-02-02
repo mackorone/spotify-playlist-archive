@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: Big Yasa",
+  "description": "The best of bars, beats & rhymes from the 254. ",
   "name": "254 Flow",
-  "published_playlist_ids": [
-    "5uX6eRgTlxUUU0p5d2ahrD"
-  ],
   "tracks": [
     {
       "album": {
@@ -172,6 +169,24 @@
     },
     {
       "album": {
+        "name": "NDANI YA COCKPIT 3",
+        "url": "https://open.spotify.com/album/3NvCDHqPpNi1y3lVhmAAsy"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333479,
+      "name": "Balalu",
+      "url": "https://open.spotify.com/track/0ARRlq8N1s8cAQ0ykjAez9"
+    },
+    {
+      "album": {
         "name": "Blue Ticks (feat. Femi One)",
         "url": "https://open.spotify.com/album/2TNxPFOTblCkmnndT4Z3Ki"
       },
@@ -231,10 +246,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 126730,
       "name": "Borrow",
       "url": "https://open.spotify.com/track/5Fy8z5xuJHsd6Id0DYRxZN"
+    },
+    {
+      "album": {
+        "name": "Can't Explain",
+        "url": "https://open.spotify.com/album/3q3wWQdqqEycnfOowIkiej"
+      },
+      "artists": [
+        {
+          "name": "Daney B",
+          "url": "https://open.spotify.com/artist/6epD1176qeIbTNiB4Tx3dG"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168203,
+      "name": "Can't Explain",
+      "url": "https://open.spotify.com/track/54JJgbC9WjqEEQukBlCJzh"
     },
     {
       "album": {
@@ -244,12 +277,12 @@
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         }
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 164954,
       "name": "CATALYST",
       "url": "https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX"
@@ -267,7 +300,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 167889,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/0eYtxjlZfYQEsqCWzzptuO"
@@ -378,7 +411,7 @@
         },
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         }
       ],
       "date_added": "2022-11-10",
@@ -400,7 +433,7 @@
         },
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         }
       ],
       "date_added": "2022-07-07",
@@ -531,7 +564,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 308000,
       "name": "Grey Area",
       "url": "https://open.spotify.com/track/6mtiCdPpaaJxMX3tckWfnS"
@@ -698,7 +731,7 @@
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         },
         {
           "name": "Big yasa",
@@ -711,7 +744,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 143687,
       "name": "Last Air Bender",
       "url": "https://open.spotify.com/track/4xIFdWcoMb9MqLYpvS8uCy"
@@ -724,7 +757,7 @@
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         },
         {
           "name": "Big yasa",
@@ -737,7 +770,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": "2023-01-19",
       "duration_ms": 150836,
       "name": "LAST AIR BENDER",
       "url": "https://open.spotify.com/track/3Tkrl8e0p4WvXCq31ITeXw"
@@ -784,6 +817,32 @@
     },
     {
       "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/77GsYDaqzWi5uTDxBYVy3x"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Iyanah",
+          "url": "https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO"
+        },
+        {
+          "name": "BasicCity",
+          "url": "https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/7ojMJpBewMnczrWKsIlKMC"
+    },
+    {
+      "album": {
         "name": "Mabadiliko",
         "url": "https://open.spotify.com/album/6IFsDy5C0kynOzSTMQVolo"
       },
@@ -806,6 +865,28 @@
     },
     {
       "album": {
+        "name": "Connecting The Dots",
+        "url": "https://open.spotify.com/album/65eH656OUbEIXNrFqV0tqc"
+      },
+      "artists": [
+        {
+          "name": "Kig$",
+          "url": "https://open.spotify.com/artist/0f9uh9RgnM6OSO5zkGyRpZ"
+        },
+        {
+          "name": "Kahu$h",
+          "url": "https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230414,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/0SWqx2r2vLUY3j9bCPYnLp"
+    },
+    {
+      "album": {
         "name": "Make Amends",
         "url": "https://open.spotify.com/album/5uFC8GqHRAwtyV2wY8oWER"
       },
@@ -817,7 +898,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 171951,
       "name": "Make Amends",
       "url": "https://open.spotify.com/track/5F2xI5nPDnatDJvNtP06NA"
@@ -843,6 +924,40 @@
       "duration_ms": 259578,
       "name": "Makin Music",
       "url": "https://open.spotify.com/track/4Z5DU441GzVl5OVxUl8xmU"
+    },
+    {
+      "album": {
+        "name": "SNAKE EYES",
+        "url": "https://open.spotify.com/album/4DkV4LOwG1Y1rQSrlmpBbz"
+      },
+      "artists": [
+        {
+          "name": "UVT",
+          "url": "https://open.spotify.com/artist/4mzw3dz0gTuhVaXU8OAJwq"
+        },
+        {
+          "name": "SYEKO",
+          "url": "https://open.spotify.com/artist/1ViOji0PrdPWPz9Del25Nw"
+        },
+        {
+          "name": "djprodluigi",
+          "url": "https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI"
+        },
+        {
+          "name": "Kiddo Nel",
+          "url": "https://open.spotify.com/artist/24H6TrMSn6pUjBRlXcptXj"
+        },
+        {
+          "name": "TJ Bliko",
+          "url": "https://open.spotify.com/artist/0QpwSLJ5IdyNFhDD9duqnq"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192709,
+      "name": "MAMBA FLOW (feat. Kiddo Nel & TJ Bliko)",
+      "url": "https://open.spotify.com/track/3FkF6InKBRbaKei477gV6n"
     },
     {
       "album": {
@@ -879,7 +994,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 174930,
       "name": "Mazza",
       "url": "https://open.spotify.com/track/1kAL4G6ScoiGFB1YWRKtj7"
@@ -919,6 +1034,28 @@
       "duration_ms": 238889,
       "name": "Mc Mca",
       "url": "https://open.spotify.com/track/0wAgvKKxVwqJghZtNOa4GY"
+    },
+    {
+      "album": {
+        "name": "MOTOWN (feat. BabyTron)",
+        "url": "https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164861,
+      "name": "MOTOWN",
+      "url": "https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ"
     },
     {
       "album": {
@@ -1108,7 +1245,7 @@
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         }
       ],
       "date_added": "2022-04-14",
@@ -1117,6 +1254,24 @@
       "duration_ms": 197565,
       "name": "Pree",
       "url": "https://open.spotify.com/track/2YEu77cQVAPT51V4dWSyAb"
+    },
+    {
+      "album": {
+        "name": "EAST MPAKA LONDON",
+        "url": "https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 197565,
+      "name": "PREE",
+      "url": "https://open.spotify.com/track/37Y6TzAQsNfXR5nfQsrkBW"
     },
     {
       "album": {
@@ -1296,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Shmoke",
+        "url": "https://open.spotify.com/album/1m8EVbDpkDLABR2ojleMPg"
+      },
+      "artists": [
+        {
+          "name": "Xavier Xander",
+          "url": "https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102762,
+      "name": "Shmoke",
+      "url": "https://open.spotify.com/track/3pgVqyZNW3PXilNUdXV9q8"
+    },
+    {
+      "album": {
         "name": "Ceduction",
         "url": "https://open.spotify.com/album/72CVdgTmhjPyGh78LRv1Gy"
       },
@@ -1419,10 +1592,36 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 122266,
       "name": "Staki Kubonga Mob",
       "url": "https://open.spotify.com/track/2pNfV9uuYNSXAuW1FG2Vou"
+    },
+    {
+      "album": {
+        "name": "IMPRESSING MYSELF",
+        "url": "https://open.spotify.com/album/037nljmHSWbT0KlOPiqk0j"
+      },
+      "artists": [
+        {
+          "name": "Boeyylee",
+          "url": "https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN"
+        },
+        {
+          "name": "PEPA",
+          "url": "https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh"
+        },
+        {
+          "name": "djprodluigi",
+          "url": "https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122266,
+      "name": "STAKI KUBONGA MOB",
+      "url": "https://open.spotify.com/track/3Al64p5TiG2KsDMRbaTdLC"
     },
     {
       "album": {
@@ -1521,10 +1720,32 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 159757,
       "name": "Thao Moja",
       "url": "https://open.spotify.com/track/1PO7W6fuOlFqM7bdNhzN1q"
+    },
+    {
+      "album": {
+        "name": "The Avengers Cypher (feat. Katapilla)",
+        "url": "https://open.spotify.com/album/3RDYhpl3VUBVrLnMX1yM63"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        },
+        {
+          "name": "Katapilla",
+          "url": "https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286014,
+      "name": "The Avengers Cypher (feat. Katapilla)",
+      "url": "https://open.spotify.com/track/7B8ihSTZ2vUmZKhcO4L4Lo"
     },
     {
       "album": {
@@ -1547,7 +1768,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 186693,
       "name": "Three",
       "url": "https://open.spotify.com/track/7mNsd1i6rIlRWK8N4QtlOg"
@@ -1569,6 +1790,28 @@
       "duration_ms": 220055,
       "name": "Tom Mboya",
       "url": "https://open.spotify.com/track/2y5CIx4aoIGMoJilesf2yA"
+    },
+    {
+      "album": {
+        "name": "Nattorius",
+        "url": "https://open.spotify.com/album/1ixq1wEqfuauhtyVe8X8OT"
+      },
+      "artists": [
+        {
+          "name": "GTA",
+          "url": "https://open.spotify.com/artist/5ja1GRgYKlXJNpcCLB3mxh"
+        },
+        {
+          "name": "NATTY",
+          "url": "https://open.spotify.com/artist/4eNDlXIuO29xtFWoqRmcli"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132685,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz"
     },
     {
       "album": {
@@ -1613,7 +1856,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 267441,
       "name": "Umoroto",
       "url": "https://open.spotify.com/track/5wjD5yBTFfmSzfFdxfNAki"
@@ -1626,7 +1869,7 @@
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         }
       ],
       "date_added": "2022-05-27",
@@ -1644,12 +1887,12 @@
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         }
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": "2023-01-19",
       "duration_ms": 228855,
       "name": "USIKAM HII SECTION",
       "url": "https://open.spotify.com/track/5XDl1xJSDK5ys6jI9r0p2i"
@@ -1667,10 +1910,32 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 162951,
       "name": "W.T.N ?",
       "url": "https://open.spotify.com/track/7dfVmXnGB5OlBHiQum53rL"
+    },
+    {
+      "album": {
+        "name": "IMPRESSING MYSELF",
+        "url": "https://open.spotify.com/album/037nljmHSWbT0KlOPiqk0j"
+      },
+      "artists": [
+        {
+          "name": "Boeyylee",
+          "url": "https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN"
+        },
+        {
+          "name": "Joshoxy",
+          "url": "https://open.spotify.com/artist/0PbQMJK1AKXAbvSakUmtmw"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 162951,
+      "name": "W.T.N ?",
+      "url": "https://open.spotify.com/track/5pcDfYgjlpoAs9tZvohneD"
     },
     {
       "album": {

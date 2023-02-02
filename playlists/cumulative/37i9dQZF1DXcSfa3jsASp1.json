@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Rock that was on repeat during the summers of the 2010s.",
   "name": "10s Summer Rock",
-  "published_playlist_ids": [
-    "3f3f8piufbDLkFObYrYDmB"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-29",
       "duration_ms": 226466,
       "name": "1000hp",
       "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
@@ -37,7 +34,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
@@ -55,7 +52,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv"
@@ -181,7 +178,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 221039,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
@@ -577,7 +574,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 280426,
       "name": "Dangerous (feat. Joywave)",
       "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
@@ -1990,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2020-05-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 209703,
+      "name": "Sham Pain",
+      "url": "https://open.spotify.com/track/1YLxrvfvFivQj7eh3Y5yxA"
+    },
+    {
+      "album": {
         "name": "North (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3JdxPzUYUcVeRgfdOGXZLC"
       },
@@ -2145,7 +2160,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
@@ -2163,7 +2178,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi"

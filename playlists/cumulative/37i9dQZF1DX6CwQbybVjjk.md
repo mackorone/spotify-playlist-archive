@@ -4,7 +4,7 @@
 
 > Check out these indie musics, all froms artists playing at SXSW 2017..\. Cover: <a href="spotify:artist:7FU0xCgmSYQEiBeevUqQ4S">Yoke Lore</a>.
 
-59 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/1nef7sIigr60Sm6Eg6wJsy)
+59 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

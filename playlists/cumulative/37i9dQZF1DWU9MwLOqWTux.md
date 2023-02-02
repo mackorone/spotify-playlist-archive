@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0Dc2rdPzleezxhvQhQbXuS">Idris Elba</a>'s tantalizing mix demonstrates the renowned actor's talents on the decks.
 
-14 songs - 58 min 47 sec - [published](https://open.spotify.com/playlist/4Vt8y8ADxadMidWj8qdSA1)
+14 songs - 58 min 47 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

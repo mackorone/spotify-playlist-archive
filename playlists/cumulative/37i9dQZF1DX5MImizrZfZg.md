@@ -4,7 +4,7 @@
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-62 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/5fFmqi20MwiZNMyRJH0Uph)
+62 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [For A Smile](https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Hi\-Lo Split](https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp) | 4:13 | 2020-08-19 |  |
 | [Frobidden Fruit](https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Elixir](https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV) | 3:22 | 2020-08-19 |  |
 | [Frobidden Fruit](https://open.spotify.com/track/6uRuDaFMH7UpEuWi4bQFrG) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Elixir](https://open.spotify.com/album/1m52eUD1SkD5l7qA8tyDB6) | 3:22 | 2020-08-19 | 2022-07-29 |
-| [Honey\-Dipped](https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Saxophonic](https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l) | 4:23 | 2020-08-19 | 2022-11-26 |
+| [Honey\-Dipped](https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Saxophonic](https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l) | 4:23 | 2020-08-19 |  |
 | [Hyde Park \(The 'Ah, Oooh' Song\)](https://open.spotify.com/track/5nRaaCkfZUrsg3MRYOXTFU) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:21 | 2020-08-19 |  |
 | [I Still Believe](https://open.spotify.com/track/0uaGecCnDEfCxErLESir5U) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/6UmGaBGKzyZioXZui0KabU) | 3:59 | 2020-08-19 | 2022-07-29 |
 | [I Still Believe](https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt) | 3:59 | 2020-08-19 |  |
@@ -45,7 +45,7 @@
 | [Kisses in the Rain](https://open.spotify.com/track/0xGa0PyJsByzRajl8KYefg) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:32 | 2020-08-19 |  |
 | [La Dolce Vita](https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 5:25 | 2020-08-19 |  |
 | [Let It Flow](https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Night On The Town](https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq) | 4:49 | 2020-08-19 |  |
-| [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 | 2020-08-19 |  |
+| [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 | 2020-08-19 |  |
 | [Mildred's Attraction](https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:45 | 2020-08-19 |  |
 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 | 2020-08-19 |  |
 | [Nightfall](https://open.spotify.com/track/1a3aN3eutz5D3IQlLCwIEY) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/7bLMqsTsu3yAOocXEx2LJ4) | 5:32 | 2020-08-19 | 2022-07-29 |
@@ -53,7 +53,7 @@
 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 | 2020-08-19 |  |
 | [Pacifica](https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Stay With Me](https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3) | 4:16 | 2020-08-19 |  |
 | [People Make the World Go Round](https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Metro Blue](https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR) | 4:25 | 2020-08-19 |  |
-| [Say Something](https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs) | [Shilts](https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2) | [HeadBoppin \(with bonus track\)](https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE) | 4:08 | 2020-08-19 |  |
+| [Say Something](https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs) | [Shilts](https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2) | [HeadBoppin \(with bonus track\)](https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE) | 4:08 | 2020-08-19 | 2023-01-03 |
 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 | 2020-08-19 |  |
 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 | 2020-08-19 |  |
 | [Soul Dream](https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Tim Bowman](https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e) | 5:02 | 2020-08-19 |  |

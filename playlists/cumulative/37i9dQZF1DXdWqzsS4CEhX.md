@@ -4,7 +4,7 @@
 
 > La hora de la nostalgia es patrocinada por tus baladas favoritas.
 
-67 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/3fZLU2Xny6uOiZKhn0ZJRL)
+67 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

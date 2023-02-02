@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "feel it all. Cover: My Chemical Romance",
   "name": "Emo Forever",
-  "published_playlist_ids": [
-    "3u6curULml7JidmJsufdg2"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 255175,
       "name": "Alive With the Glory of Love",
       "url": "https://open.spotify.com/track/6YEs8KWsFKQmULF5CUOz4n"
@@ -404,7 +401,7 @@
     },
     {
       "album": {
-        "name": "Still Searching",
+        "name": "Still Searching (Deluxe Version)",
         "url": "https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj"
       },
       "artists": [
@@ -1380,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "American Football",
+        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Never Meant",
+      "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
+    },
+    {
+      "album": {
         "name": "J.A.C.K.",
         "url": "https://open.spotify.com/album/6LPiuWcOA9oPH8IERVWhGr"
       },
@@ -1589,7 +1604,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 232200,
       "name": "Punk Rock Princess",
       "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
@@ -2435,7 +2450,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 212186,
       "name": "Warm Me Up",
       "url": "https://open.spotify.com/track/0tkJnDYPIxF1xqxKe8x8YU"

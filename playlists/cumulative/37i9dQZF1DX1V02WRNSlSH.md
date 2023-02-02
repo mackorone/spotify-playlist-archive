@@ -4,7 +4,7 @@
 
 > Country Music to tickle your funny bone.
 
-77 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/6QBssPmdMEU35cgkohvjds)
+77 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-22",
   "description": "Timeless Pakistani hits, all in one place. Cover - Nusrat Fateh Ali Khan",
   "name": "All Time Pakistani Hits",
-  "published_playlist_ids": [
-    "28KEDXVHJsaZKM0uXK0rXO"
-  ],
   "tracks": [
     {
       "album": {
@@ -463,10 +460,32 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 362040,
       "name": "Bichar Kai Bhee",
       "url": "https://open.spotify.com/track/4R0v5iueMuknx0V6YFChic"
+    },
+    {
+      "album": {
+        "name": "Bikhra",
+        "url": "https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168300,
+      "name": "Bikhra",
+      "url": "https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X"
     },
     {
       "album": {
@@ -589,7 +608,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 388786,
       "name": "Chandni Raatein",
       "url": "https://open.spotify.com/track/0n3soc0bTxQslLiMpbgZyk"
@@ -859,7 +878,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 386560,
       "name": "Dholna",
       "url": "https://open.spotify.com/track/6GCD5Mc8eHF2aHSYUf8qdN"
@@ -949,7 +968,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2023-01-17",
       "duration_ms": 271000,
       "name": "Dil Na Lagay",
       "url": "https://open.spotify.com/track/5lW3Y0CMIuvCrxCqp8jCz6"
@@ -1133,7 +1152,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 381848,
       "name": "Humsafar",
       "url": "https://open.spotify.com/track/3gBwuyMuSVK9ubjEhoNooA"
@@ -1425,7 +1444,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2023-01-08",
       "duration_ms": 302560,
       "name": "Jiya Na Jaye",
       "url": "https://open.spotify.com/track/4CFl8AjPYyA6AqSzM8f5SU"
@@ -1483,6 +1502,24 @@
       "duration_ms": 301586,
       "name": "Kahani Mohabbat Ki",
       "url": "https://open.spotify.com/track/3msj9nAjWXLfsL20vF0MDp"
+    },
+    {
+      "album": {
+        "name": "Kahani Suno 2.0",
+        "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173637,
+      "name": "Kahani Suno 2.0",
+      "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
     },
     {
       "album": {
@@ -1771,7 +1808,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": "2023-01-21",
       "duration_ms": 286373,
       "name": "Laga Reh",
       "url": "https://open.spotify.com/track/2ZgW0BbaNtygHT43FEyHhR"
@@ -1843,7 +1880,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 246533,
       "name": "Mahi-Ve",
       "url": "https://open.spotify.com/track/6u2uJXCU1gxiIyfa3LJkX2"
@@ -2013,7 +2050,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 345213,
       "name": "Menu Tere Naal",
       "url": "https://open.spotify.com/track/7yafPTMrC1Cev2zGJ2NWNk"
@@ -2343,7 +2380,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 218400,
       "name": "Nahin Hai Yeh Pyar",
       "url": "https://open.spotify.com/track/565wNlsWcWTAYXdtvLys1u"
@@ -2566,6 +2603,28 @@
     },
     {
       "album": {
+        "name": "Pasoori",
+        "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
+      },
+      "artists": [
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224146,
+      "name": "Pasoori",
+      "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
+    },
+    {
+      "album": {
         "name": "Best of Siege",
         "url": "https://open.spotify.com/album/55tD7F8Levcnd2y2OWMhk1"
       },
@@ -2725,7 +2784,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2023-01-21",
       "duration_ms": 275186,
       "name": "Rangeen",
       "url": "https://open.spotify.com/track/68NKwqYYhDz347R1w0z5sD"
@@ -3158,6 +3217,28 @@
     },
     {
       "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255764,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx"
+    },
+    {
+      "album": {
         "name": "Suno Ke Mein Hun Jawan",
         "url": "https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG"
       },
@@ -3349,7 +3430,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 205640,
       "name": "Tu Jo Nahin",
       "url": "https://open.spotify.com/track/7DS1Sx7CYAi78dprHqT2Gi"
@@ -3385,7 +3466,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 314493,
       "name": "Ucchayan Majajan Aali",
       "url": "https://open.spotify.com/track/290a4qvrJNMeJQaxotj9X1"
@@ -3479,6 +3560,24 @@
       "duration_ms": 280520,
       "name": "Way Rahiya",
       "url": "https://open.spotify.com/track/7b0QqWdZdNIyuRrC8Jo0mc"
+    },
+    {
+      "album": {
+        "name": "Wo Humsafar Tha (From \"Humsafar\")",
+        "url": "https://open.spotify.com/album/36UC2snz7H2x2YaU2YSEr3"
+      },
+      "artists": [
+        {
+          "name": "Quratulain Balouch",
+          "url": "https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386612,
+      "name": "Wo Humsafar Tha - From \"Humsafar\"",
+      "url": "https://open.spotify.com/track/2z8o3kYaRs2nZGxnZ691SJ"
     },
     {
       "album": {

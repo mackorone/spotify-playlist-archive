@@ -4,7 +4,7 @@
 
 > Within these words, "midnight's all a glimmer, and noon a purple glow..." Classic performances of Yeats' poems alongside the voice of the man himself.
 
-42 songs - 1 hr 35 min - [published](https://open.spotify.com/playlist/77YCTdYvglPrOp2gNdzo0t)
+42 songs - 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

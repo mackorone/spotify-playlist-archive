@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
   "name": "Kitsun\u00e9's New, Hot & Fresh",
-  "published_playlist_ids": [
-    "6gxGlcxed4RBnU8Hz4XDes"
-  ],
   "tracks": [
     {
       "album": {
@@ -84,6 +81,28 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/0hhqR9E19JXrsqF2EjPUNc"
+      },
+      "artists": [
+        {
+          "name": "Pollena",
+          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
+        },
+        {
+          "name": "Max Wheeler",
+          "url": "https://open.spotify.com/artist/3VfVPS04066laDWCxcVe1j"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217239,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/3AUVgd5EWkAGDzqrKR36DN"
+    },
+    {
+      "album": {
         "name": "Azibi",
         "url": "https://open.spotify.com/album/2Bq9G72vRZozfbTIQljekL"
       },
@@ -95,7 +114,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 232380,
       "name": "Azibi",
       "url": "https://open.spotify.com/track/5cTlfi5VG3ziOXtAh3CV4c"
@@ -335,7 +354,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 162333,
       "name": "DO MAR",
       "url": "https://open.spotify.com/track/0ra2NmkSqQzmRE5DUdNUTb"
@@ -481,10 +500,28 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 191250,
       "name": "Everything Is Changing - Radio Edit",
       "url": "https://open.spotify.com/track/5aTCZ0Hc3GtpqcC6mCKTyY"
+    },
+    {
+      "album": {
+        "name": "Fake My Heart",
+        "url": "https://open.spotify.com/album/7soqzqK8vd3EeMYbrFEqvM"
+      },
+      "artists": [
+        {
+          "name": "BROTHER SUN SISTER MOON",
+          "url": "https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216718,
+      "name": "Fake My Heart",
+      "url": "https://open.spotify.com/track/4kQNrp1ckyNhUbODrGBDVt"
     },
     {
       "album": {
@@ -629,7 +666,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 175484,
       "name": "girl",
       "url": "https://open.spotify.com/track/68aPLEBwJmpYMuurXihCct"
@@ -647,7 +684,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 187686,
       "name": "grandson",
       "url": "https://open.spotify.com/track/1Ztzzizm7xvOtbOWgPnMT0"
@@ -798,6 +835,24 @@
     },
     {
       "album": {
+        "name": "I Don't",
+        "url": "https://open.spotify.com/album/51dAGL3zPrDnGfKj24Sqz2"
+      },
+      "artists": [
+        {
+          "name": "Munan",
+          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190629,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/5yFtC081hlnMkXiZruPMmf"
+    },
+    {
+      "album": {
         "name": "I'll Give You Dedication",
         "url": "https://open.spotify.com/album/4vrGADeX4iagpCw2MnOORv"
       },
@@ -827,7 +882,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 164272,
       "name": "Icy",
       "url": "https://open.spotify.com/track/1I7e4AyVqSBOoh6GHttqws"
@@ -935,7 +990,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 176726,
       "name": "Kutamba",
       "url": "https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI"
@@ -953,7 +1008,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 191831,
       "name": "Lava In The Sky",
       "url": "https://open.spotify.com/track/6DcENaDftcPkVz3fJlnCPD"
@@ -993,6 +1048,28 @@
       "duration_ms": 213300,
       "name": "Leather Free Seats",
       "url": "https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf"
+    },
+    {
+      "album": {
+        "name": "Leather Free Seats (Mosey Remix)",
+        "url": "https://open.spotify.com/album/4Aehq0oOw4WgMeWEaOr36R"
+      },
+      "artists": [
+        {
+          "name": "Lil Seyi",
+          "url": "https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O"
+        },
+        {
+          "name": "Mosey",
+          "url": "https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Leather Free Seats - Mosey Remix",
+      "url": "https://open.spotify.com/track/77tGVhgSQbOopj3qSDKhZm"
     },
     {
       "album": {
@@ -1076,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "MOONKISS",
+        "url": "https://open.spotify.com/album/0ENK4WbQuDunSFcCYBNakg"
+      },
+      "artists": [
+        {
+          "name": "R.I.Pablo",
+          "url": "https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148377,
+      "name": "MOONKISS",
+      "url": "https://open.spotify.com/track/3jjaWxIRbxUkgcO5R3cxaL"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/53QtBB62XZEkvGVoazcE4f"
       },
@@ -1094,7 +1189,7 @@
     },
     {
       "album": {
-        "name": "TALES_FOR_NIGHTCLUBS_III",
+        "name": "TALES FOR NIGHTCLUBS III",
         "url": "https://open.spotify.com/album/1rapZi3fPJc3RLRQdxocM7"
       },
       "artists": [
@@ -1109,6 +1204,28 @@
       "duration_ms": 175897,
       "name": "MY MIND",
       "url": "https://open.spotify.com/track/7Kgcz89XMfj4WHtm5nd3mJ"
+    },
+    {
+      "album": {
+        "name": "MY MIND (Duarte Remix)",
+        "url": "https://open.spotify.com/album/6dOb32eRDgw7APDZ6REMPj"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        },
+        {
+          "name": "Duarte",
+          "url": "https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266250,
+      "name": "MY MIND - Duarte Remix",
+      "url": "https://open.spotify.com/track/6BEAYuiyGLW1qEzwROV26G"
     },
     {
       "album": {
@@ -1314,6 +1431,32 @@
     },
     {
       "album": {
+        "name": "RABONA (Kolter Remix)",
+        "url": "https://open.spotify.com/album/5YqnKBllt7n0EjlW3hmo3c"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        },
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        },
+        {
+          "name": "DJOKO",
+          "url": "https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "RABONA - Kolter Remix",
+      "url": "https://open.spotify.com/track/14635LEGaiyHFMN2HDdiKh"
+    },
+    {
+      "album": {
         "name": "Recall (Young Man)",
         "url": "https://open.spotify.com/album/2A787Mr8PzkjC2lUjwOxAb"
       },
@@ -1333,6 +1476,28 @@
       "duration_ms": 317265,
       "name": "Recall (Young Man)",
       "url": "https://open.spotify.com/track/3qn8vCHlKfZiiZaQZHFwYI"
+    },
+    {
+      "album": {
+        "name": "Recall (Young Man) [mynameisleonidas remix]",
+        "url": "https://open.spotify.com/album/278OYAAXVh8yEMV1oObf20"
+      },
+      "artists": [
+        {
+          "name": "Lil Seyi",
+          "url": "https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O"
+        },
+        {
+          "name": "mynameisleonidas",
+          "url": "https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Recall (Young Man) - mynameisleonidas remix",
+      "url": "https://open.spotify.com/track/6z4GK0lDRafPzzzgbPubfj"
     },
     {
       "album": {
@@ -1514,6 +1679,46 @@
     },
     {
       "album": {
+        "name": "Shiver & Gold",
+        "url": "https://open.spotify.com/album/5o7cXm5Xm6KMkltlPzBDIW"
+      },
+      "artists": [
+        {
+          "name": "Imanos",
+          "url": "https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214062,
+      "name": "Shiver & Gold",
+      "url": "https://open.spotify.com/track/3N71XPi2XVIuIMSrrsy8fB"
+    },
+    {
+      "album": {
+        "name": "Shiver & Gold (RJ The Second Remix)",
+        "url": "https://open.spotify.com/album/2FfKgU6tIKQXbeQiB4yZP8"
+      },
+      "artists": [
+        {
+          "name": "Imanos",
+          "url": "https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb"
+        },
+        {
+          "name": "RJ The Second",
+          "url": "https://open.spotify.com/artist/2hfegcERF3KkLLAp8CpdFf"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227619,
+      "name": "Shiver & Gold - RJ The Second Remix",
+      "url": "https://open.spotify.com/track/6OZMJyT3EttQpNO7HtAs0Q"
+    },
+    {
+      "album": {
         "name": "Shy",
         "url": "https://open.spotify.com/album/4JZHZRLlXUs15fOzj9FumQ"
       },
@@ -1619,10 +1824,32 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 146660,
       "name": "SUE\u00d1O",
       "url": "https://open.spotify.com/track/1iV2awZB7fKegkMmgbhHaV"
+    },
+    {
+      "album": {
+        "name": "SUE\u00d1O (Harry Romero Remix)",
+        "url": "https://open.spotify.com/album/0VFlojZdwoZDdZfLXHDf8d"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347520,
+      "name": "SUE\u00d1O - Harry Romero Remix",
+      "url": "https://open.spotify.com/track/6YeE6BmI4UO0BbehpZtZXj"
     },
     {
       "album": {
@@ -1749,7 +1976,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 120693,
       "name": "Toronto Funhouse",
       "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
@@ -1879,7 +2106,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 207268,
       "name": "Willow Tree",
       "url": "https://open.spotify.com/track/7HyQKWEzycUMPaKnPWcZet"

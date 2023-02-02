@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-29",
   "description": "This is Latto. The essential tracks, all in one playlist.",
   "name": "This Is Latto",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -43,6 +42,24 @@
       "duration_ms": 80006,
       "name": "777 Pt. 1",
       "url": "https://open.spotify.com/track/4vUeHbV4moHsvwqdwZNEQo"
+    },
+    {
+      "album": {
+        "name": "Another Nasty Song",
+        "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144313,
+      "name": "Another Nasty Song",
+      "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
     },
     {
       "album": {
@@ -113,7 +130,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 200876,
       "name": "Bad Azz (feat. Latto & Benny The Butcher)",
       "url": "https://open.spotify.com/track/3KtXO2iSrh3uhtupzih5F6"
@@ -470,6 +487,32 @@
     },
     {
       "album": {
+        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+    },
+    {
+      "album": {
         "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
         "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
       },
@@ -813,10 +856,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 200135,
       "name": "Muwop (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/231WYcXWUxYSx79tuPtzBk"
+    },
+    {
+      "album": {
+        "name": "Muwop (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200135,
+      "name": "Muwop (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
     },
     {
       "album": {
@@ -835,7 +900,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 174545,
       "name": "Naked (feat. Latto)",
       "url": "https://open.spotify.com/track/4aQNaW6LKNMa0FEToHWSmc"
@@ -853,7 +918,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 103488,
       "name": "No Hook",
       "url": "https://open.spotify.com/track/5HyUymevRIBqIlHfmup8Sz"
@@ -1146,6 +1211,28 @@
     },
     {
       "album": {
+        "name": "Baby23",
+        "url": "https://open.spotify.com/album/24BUwYiW8uDG5tBV428gBY"
+      },
+      "artists": [
+        {
+          "name": "JayDaYoungan",
+          "url": "https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137615,
+      "name": "Touch Your Toes (feat. Latto)",
+      "url": "https://open.spotify.com/track/6ihOIyQU6nvqHG5wJtofEM"
+    },
+    {
+      "album": {
         "name": "Wet (feat. Latto) [Remix]",
         "url": "https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL"
       },
@@ -1187,6 +1274,28 @@
       "duration_ms": 170270,
       "name": "Wheelie (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5lrAnzvRBQSgAkpo0WkMjB"
     },
     {
       "album": {

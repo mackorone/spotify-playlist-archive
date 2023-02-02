@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Los mejores temas del Rock Cristiano. \u00a1Dale al play y disfruta estos tremendos temazos!",
   "name": "Rock Cristiano",
-  "published_playlist_ids": [
-    "0suQIohnJkMbg3Mf0bU3LR"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,10 +52,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 352493,
       "name": "Almas Mecanicas",
       "url": "https://open.spotify.com/track/2JiYhjQK2wR4vOAdATsISG"
+    },
+    {
+      "album": {
+        "name": "Espiritu Artificial",
+        "url": "https://open.spotify.com/album/3GkSk8MzVJjxBKSgCh4mfx"
+      },
+      "artists": [
+        {
+          "name": "Exegesis",
+          "url": "https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352493,
+      "name": "Almas Mecanicas",
+      "url": "https://open.spotify.com/track/4t15P4sjW4v7OsaxvmD42k"
     },
     {
       "album": {
@@ -735,13 +750,17 @@
         {
           "name": "En Esp\u00edritu Y En Verdad",
           "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
         }
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235102,
-      "name": "Somos Libres",
+      "name": "Somos Libres feat. Omar Rodr\u00edguez Music",
       "url": "https://open.spotify.com/track/2C5f7uN6SEhhZuEBiVednO"
     },
     {

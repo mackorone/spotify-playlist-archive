@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
   "name": "This Is Brandi Carlile",
-  "published_playlist_ids": [
-    "0q9eCBIENK9Aex2kFoVgdb"
-  ],
   "tracks": [
     {
       "album": {
@@ -147,7 +144,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 233998,
       "name": "Cleanup Hitter",
       "url": "https://open.spotify.com/track/0RQT5rs8uElx7yrvhj6GMU"
@@ -899,7 +896,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 300066,
       "name": "Space Oddity",
       "url": "https://open.spotify.com/track/0bcEINLq5Giisn7fbgtl3N"
@@ -1059,7 +1056,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2022-12-31",
       "duration_ms": 206268,
       "name": "The Things I Regret",
       "url": "https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs"

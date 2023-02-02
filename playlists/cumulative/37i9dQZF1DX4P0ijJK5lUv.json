@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Heartwarming carols and classical Christmas favourites, guaranteed to make any festive occasion merry and bright.",
   "name": "Classical Christmas",
-  "published_playlist_ids": [
-    "1wC0ShR4J2RwULQ8yliEYA"
-  ],
   "tracks": [
     {
       "album": {
@@ -879,8 +876,8 @@
       },
       "artists": [
         {
-          "name": "Anonymous\u00a0",
-          "url": "https://open.spotify.com/artist/35y6unM66rGPWHTRFNrqKS"
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
           "name": "Anonymous 4",
@@ -1163,6 +1160,28 @@
     {
       "album": {
         "name": "The Greatest Christmas Choral Classics",
+        "url": "https://open.spotify.com/album/2hP35HVdyHGW5NMAqLnlas"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Crouch End Festival Chorus",
+          "url": "https://open.spotify.com/artist/5z1FDKqosEGwr8HrgzNa0q"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205626,
+      "name": "Coventry Carol",
+      "url": "https://open.spotify.com/track/0aLgCWazFYVuABVvvkUOyg"
+    },
+    {
+      "album": {
+        "name": "The Greatest Christmas Choral Classics",
         "url": "https://open.spotify.com/album/6v5ZUwOa6PrDi4hEzYUjkc"
       },
       "artists": [
@@ -1177,7 +1196,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 205626,
       "name": "Coventry Carol",
       "url": "https://open.spotify.com/track/6Mny9POjdSOXwWm9jcZHLw"
@@ -2375,7 +2394,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 261186,
       "name": "In the Bleak Midwinter (Version for Choir and Strings)",
       "url": "https://open.spotify.com/track/3wXkC0b1LYIGySg98ORz33"
@@ -2417,7 +2436,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 261186,
       "name": "In the Bleak Midwinter (Version for Choir and Strings)",
       "url": "https://open.spotify.com/track/6DbqaDv1fAk6q1bPp6hbFY"
@@ -2813,10 +2832,32 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 181266,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/5Bk7yTPZY9CV4mbIR1hHVO"
+    },
+    {
+      "album": {
+        "name": "Christmas Choral Classics",
+        "url": "https://open.spotify.com/album/7flf53PSWVU2cHuNn6oVJi"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Crouch End Festival Chorus",
+          "url": "https://open.spotify.com/artist/5z1FDKqosEGwr8HrgzNa0q"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/7Dt5udIZei9CnQ9dSlckpG"
     },
     {
       "album": {

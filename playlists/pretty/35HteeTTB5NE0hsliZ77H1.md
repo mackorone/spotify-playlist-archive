@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/35HteeTTB5NE0hsliZ77H1.md) - [plain]
 
 > Yours is no ordinary life\. Listen outside the lines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 63 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 63 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

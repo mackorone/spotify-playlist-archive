@@ -4,7 +4,7 @@
 
 > Who runs the world? GIRLS!
 
-138 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/02YbompUlncE5cgV47VrQg)
+138 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

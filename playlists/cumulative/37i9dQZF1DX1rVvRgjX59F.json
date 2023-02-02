@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "These songs rocked the 90s. Cover: Rage Against The Machine",
+  "description": "These songs rocked the 90s. Cover: Nirvana",
   "name": "90s Rock Anthems",
-  "published_playlist_ids": [
-    "3ssq6CMYUOuOSUXgLz3W6D"
-  ],
   "tracks": [
     {
       "album": {
@@ -1503,6 +1500,24 @@
     {
       "album": {
         "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
+    },
+    {
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
         "url": "https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604"
       },
       "artists": [
@@ -1513,7 +1528,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 134200,
       "name": "Lump",
       "url": "https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX"
@@ -2167,7 +2182,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 258133,
-      "name": "Stupid Girl",
+      "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
     },
     {

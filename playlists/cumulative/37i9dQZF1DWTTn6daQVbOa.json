@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Mellow songs from the 1970s.",
   "name": "Soft 70s",
-  "published_playlist_ids": [
-    "55JECVuG1IkXGyKrIFKeiW"
-  ],
   "tracks": [
     {
       "album": {
@@ -153,6 +150,24 @@
       "duration_ms": 173306,
       "name": "A Little Bit More",
       "url": "https://open.spotify.com/track/3I7bYwN9cMsXm5HqEH76Vv"
+    },
+    {
+      "album": {
+        "name": "Completely Hooked",
+        "url": "https://open.spotify.com/album/0UQeeHZSz95cijW6o07wib"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174733,
+      "name": "A Little Bit More - Single Version",
+      "url": "https://open.spotify.com/track/0IyaUK4bo54AnnNVhS9RSW"
     },
     {
       "album": {
@@ -2205,7 +2220,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
       "url": "https://open.spotify.com/track/3EO5DSiJSASa69I7Vv00gN"
@@ -3149,7 +3164,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 168106,
       "name": "Oh My Love - Remastered 2010",
       "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
@@ -3311,7 +3326,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 230533,
       "name": "Please Don't Go - Single Version",
       "url": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
@@ -3545,7 +3560,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-02-02",
       "duration_ms": 209346,
       "name": "Seasons in the Sun",
       "url": "https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR"
@@ -4861,7 +4876,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-29",
       "duration_ms": 291760,
       "name": "Wishing on a Star",
       "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"

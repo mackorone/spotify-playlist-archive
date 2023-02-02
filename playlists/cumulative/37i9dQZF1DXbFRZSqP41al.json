@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Burn off all those beers from last night.",
   "name": "Rock Your Body",
-  "published_playlist_ids": [
-    "5v75t6HpGYMhjfPC1WhqkE"
-  ],
   "tracks": [
     {
       "album": {
@@ -365,7 +362,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 207586,
       "name": "Blood",
       "url": "https://open.spotify.com/track/7qzNc93sUMR3vHt5WADmOa"
@@ -647,6 +644,24 @@
       "duration_ms": 162666,
       "name": "Celebrity Skin",
       "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
+    },
+    {
+      "album": {
+        "name": "Black Gives Way to Blue",
+        "url": "https://open.spotify.com/album/3F2cL1E3FXYa74V7D7oAoI"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237906,
+      "name": "Check My Brain",
+      "url": "https://open.spotify.com/track/0Fl8ciGpmcUezzgaSKvysd"
     },
     {
       "album": {
@@ -1425,7 +1440,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 279333,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE"
@@ -1933,7 +1948,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
@@ -2067,7 +2082,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 170200,
       "name": "Jessica Kill",
       "url": "https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30"
@@ -2897,7 +2912,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 178795,
       "name": "Reckless Tongue",
       "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
@@ -3354,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "Tear Me To Pieces",
+        "url": "https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176805,
+      "name": "Tear Me to Pieces",
+      "url": "https://open.spotify.com/track/67e8Oap4yuF4yS7XYW5yZW"
+    },
+    {
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -3491,7 +3524,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 205160,
       "name": "The House of Wolves",
       "url": "https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd"
@@ -3643,6 +3676,24 @@
     {
       "album": {
         "name": "This is Our Life",
+        "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224306,
+      "name": "This is Our Life",
+      "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
+    },
+    {
+      "album": {
+        "name": "This is Our Life",
         "url": "https://open.spotify.com/album/0dQPaO9I1hRzDwe2RePxFR"
       },
       "artists": [
@@ -3671,7 +3722,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6"

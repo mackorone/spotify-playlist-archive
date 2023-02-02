@@ -4,7 +4,7 @@
 
 > スクウェア・エニックスの多彩な楽曲から、お出かけのお供にぴったりなアップテンポチューンをお届け。A variety/selection of up\-tempo tracks from SQUARE ENX to hit the town\. © 2022 SQUARE ENIX CO., LTD\. All Rights Reserved\. Illustration: TOSHIYUKI ITAHANA
 
-30 songs - 1 hr 40 min - [published](https://open.spotify.com/playlist/2PK0pOWXpS4Hc2roO5tmdC)
+30 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

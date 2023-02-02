@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-22",
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
   "name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
-  "published_playlist_ids": [
-    "0fYuaDGdomcOuqOi0yoUUE"
-  ],
   "tracks": [
     {
       "album": {
@@ -237,6 +234,24 @@
       "duration_ms": 177520,
       "name": "AM 1:00",
       "url": "https://open.spotify.com/track/1As2wI0IUwdqPe6i149Q8T"
+    },
+    {
+      "album": {
+        "name": "Unlock My Boss, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7fc4t7MRmxZkQWxPHjVoHh"
+      },
+      "artists": [
+        {
+          "name": "WOO JEE WON",
+          "url": "https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241259,
+      "name": "Am I living like a dream?",
+      "url": "https://open.spotify.com/track/4mOf7FNqxwLer8Skri59Li"
     },
     {
       "album": {
@@ -593,7 +608,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-27",
       "duration_ms": 162266,
       "name": "Feeling Good - 2019 Ver",
       "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
@@ -719,7 +734,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 187906,
       "name": "Green War",
       "url": "https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW"
@@ -773,7 +788,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 194611,
       "name": "HEY RAIN",
       "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
@@ -816,6 +831,24 @@
     },
     {
       "album": {
+        "name": "How many nights should far away more",
+        "url": "https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc"
+      },
+      "artists": [
+        {
+          "name": "Shin Sae Byeok",
+          "url": "https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "How many nights should far away more",
+      "url": "https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX"
+    },
+    {
+      "album": {
         "name": "How To Love (Feat.Paul Kim)",
         "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
       },
@@ -853,6 +886,24 @@
       "duration_ms": 214740,
       "name": "I mean, I love you",
       "url": "https://open.spotify.com/track/4kGyac4sr1u0GprRRjFDTp"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
+      },
+      "artists": [
+        {
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254186,
+      "name": "I Will Remember You",
+      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
     },
     {
       "album": {
@@ -975,7 +1026,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 215840,
       "name": "Let\u2019s Dance For Me",
       "url": "https://open.spotify.com/track/4B98oSagUnhwOevFz4Pao4"
@@ -1105,6 +1156,24 @@
       "duration_ms": 171797,
       "name": "Love To Hate Me",
       "url": "https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
     },
     {
       "album": {
@@ -1611,6 +1680,24 @@
     {
       "album": {
         "name": "surf.",
+        "url": "https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225777,
+      "name": "surf.",
+      "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
+    },
+    {
+      "album": {
+        "name": "surf.",
         "url": "https://open.spotify.com/album/0ZbnD6CJpKcj0m4Zde5XFm"
       },
       "artists": [
@@ -1621,7 +1708,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 225777,
       "name": "surf.",
       "url": "https://open.spotify.com/track/6fhtB9Qf8vkJLPL88WMylY"
@@ -1665,7 +1752,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-26",
       "duration_ms": 244360,
       "name": "To you, Tomorrow",
       "url": "https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG"
@@ -1973,7 +2060,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 240000,
       "name": "Your Voice Makes Me Dream",
       "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"
@@ -2093,6 +2180,24 @@
       "duration_ms": 229946,
       "name": "\uc124\uba85\uc11c Guidebook",
       "url": "https://open.spotify.com/track/7gJoFABLxuCaR4Quf7N73a"
+    },
+    {
+      "album": {
+        "name": "Cobalt Blue",
+        "url": "https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 201003,
+      "name": "\ud750\ub974\ub294 \uc2dc\uac04 \uc18d\uc5d0 \uc6b0\ub9ac\ub294 \uc544\ub984\ub2e4\uc6cc What A Beautiful Night",
+      "url": "https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaw0Z91oVe88"

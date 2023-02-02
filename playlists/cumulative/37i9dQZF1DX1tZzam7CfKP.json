@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-08",
   "description": "All funk, all live. Cover: Earth Wind & Fire",
   "name": "Funk Live & Loud",
-  "published_playlist_ids": [
-    "2v0Q5hgZbBPeZBtRP6q1o6"
-  ],
   "tracks": [
     {
       "album": {
@@ -157,6 +154,24 @@
       "duration_ms": 304933,
       "name": "Chase Me",
       "url": "https://open.spotify.com/track/1lFUQF7P2Q7hNCMTQTJAkk"
+    },
+    {
+      "album": {
+        "name": "The Power Station Tour (West Coast)",
+        "url": "https://open.spotify.com/album/7i8OowqVyZHx8FIH16WW5S"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300083,
+      "name": "Cory Wong - The Power Station Tour Live",
+      "url": "https://open.spotify.com/track/0hA0WmQreJnjgwG2I3y9Z7"
     },
     {
       "album": {
@@ -690,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Shout Out! To Freedom\u2026 (Live at Pikes Ibiza)",
+        "url": "https://open.spotify.com/album/6uFs5V9VWsrJWi6wFZusB6"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496033,
+      "name": "Own Me - Live at Pikes Ibiza",
+      "url": "https://open.spotify.com/track/3EvJZh4uA88IeMWyiuHTxi"
+    },
+    {
+      "album": {
         "name": "Own Me (Live at Pikes Ibiza)",
         "url": "https://open.spotify.com/album/50hUqiCnpIpWaKkHHLqiqW"
       },
@@ -701,7 +734,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 496033,
       "name": "Own Me - Live at Pikes Ibiza",
       "url": "https://open.spotify.com/track/68pP7yZDSypoO61c71GmMD"

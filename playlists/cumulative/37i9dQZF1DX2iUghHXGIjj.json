@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Raw, emotional, and acoustic. Cover: Taj Mahal",
+  "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
   "name": "Acoustic Blues",
-  "published_playlist_ids": [
-    "6OR1PRarcE5A0vVZdgyZgB"
-  ],
   "tracks": [
     {
       "album": {
@@ -1197,7 +1194,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 137186,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly"
@@ -1215,7 +1212,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 137186,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG"
@@ -1258,7 +1255,7 @@
     },
     {
       "album": {
-        "name": "stripped back (deluxe) [Stripped Back]",
+        "name": "stripped back (deluxe)",
         "url": "https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS"
       },
       "artists": [
@@ -1453,10 +1450,28 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 144000,
       "name": "Letter from Bluewater Man",
       "url": "https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44"
+    },
+    {
+      "album": {
+        "name": "Letter from Bluewater Man",
+        "url": "https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Letter from Bluewater Man",
+      "url": "https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX"
     },
     {
       "album": {
@@ -1913,6 +1928,28 @@
     {
       "album": {
         "name": "Push The Blues Away",
+        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209618,
+      "name": "Push The Blues Away",
+      "url": "https://open.spotify.com/track/3XV3dGbHJGBCmgDl4A4oh5"
+    },
+    {
+      "album": {
+        "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC"
       },
       "artists": [
@@ -1927,7 +1964,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 209618,
       "name": "Push The Blues Away",
       "url": "https://open.spotify.com/track/6U1c5I3iixRjilhhMzzx2m"

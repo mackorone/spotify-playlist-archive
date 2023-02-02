@@ -4,7 +4,7 @@
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-165 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/0rClSBTsn8sf5B9eX9AaIM)
+166 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,12 +119,12 @@
 | [O \-正.反.合.](https://open.spotify.com/track/0tx5cus5dxnIKLtBWYgADn) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [O\-正.反.合\. \- The 3rd Album](https://open.spotify.com/album/2adPdNYrrTt2tIkthQN5ee) | 4:15 | 2022-04-19 | 2022-07-29 |
 | [O.K](https://open.spotify.com/track/3CDDZYgE0S8sHLXEZjKCOd) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Let's Fly](https://open.spotify.com/album/25vqMVgefCdbeuVAmqMP02) | 3:33 | 2022-04-19 |  |
 | [Oh Yeah](https://open.spotify.com/track/1dFxxKyeRHmcMmjf8A7OMH) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [BOM](https://open.spotify.com/artist/5YufpyEN94qXvsWoOg54pV) | [BIGBANG Special Edition](https://open.spotify.com/album/5kJPwfrd8cM9nurOLE0lr6) | 3:19 | 2022-04-19 | 2022-07-24 |
-| [Oh Yeah](https://open.spotify.com/track/6ZiUqGTo40Xl0DqePb3eZd) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [JUST BLAQ](https://open.spotify.com/album/77HVZwPYR9jaAByeqsv60T) | 3:29 | 2022-04-19 |  |
+| [Oh Yeah](https://open.spotify.com/track/6ZiUqGTo40Xl0DqePb3eZd) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [JUST BLAQ](https://open.spotify.com/album/77HVZwPYR9jaAByeqsv60T) | 3:29 | 2022-04-19 | 2022-12-13 |
 | [Oh Yeah \(Feat\. Park Bom\)](https://open.spotify.com/track/2hn0s9jTuO4GqVAZboT7w8) | [GD&TOP](https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn), [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [GD&TOP](https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F) | 3:15 | 2022-04-19 |  |
 | [One of a Kind](https://open.spotify.com/track/5w3nEh5I3eqU7RSPssdpE1) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [One of a Kind](https://open.spotify.com/album/04p6m20CMtSxI5DrqDDe78) | 3:25 | 2022-04-19 | 2022-06-21 |
 | [One Of A Kind](https://open.spotify.com/track/6CtYW6EWGMbfe96eqwCThq) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [One of a Kind](https://open.spotify.com/album/4EitCfNTOlnqtRrmBBuwGQ) | 3:25 | 2022-04-19 |  |
 | [Passion](https://open.spotify.com/track/3BjDhQ5kcWXEfz0dS2KE52) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [YG 10th Anniversary](https://open.spotify.com/album/4SqXG1zGw3SFaQGvpjPWRd) | 3:22 | 2022-04-19 | 2022-07-29 |
-| [Phone Number](https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [노.라.보.세.](https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li) | 3:32 | 2022-04-19 | 2022-11-22 |
+| [Phone Number](https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [노.라.보.세.](https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li) | 3:32 | 2022-04-19 |  |
 | [Phone Number](https://open.spotify.com/track/0I6Ku311dBJ3RElClEwufw) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [YG 10th Anniversary](https://open.spotify.com/album/4SqXG1zGw3SFaQGvpjPWRd) | 3:33 | 2022-04-19 | 2022-07-29 |
 | [POISON](https://open.spotify.com/track/2r5xY48FMJ35oD3lKXl9eB) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [POISON](https://open.spotify.com/album/25R9uXJqiwyH3WJdCdUdKK) | 3:27 | 2022-04-19 |  |
 | [Pretty Girl](https://open.spotify.com/track/3ZSTMY1gFXXrbZ7Ddbq0b3) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Honey \(Special Edition\)](https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB) | 2:47 | 2022-04-19 | 2022-07-29 |
@@ -133,7 +133,8 @@
 | [Replay](https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The SHINee World \- The First Album](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) | 3:33 | 2022-04-19 |  |
 | [Ring Ding Dong](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [2009, Year Of Us \- The Third Mini Album](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) | 3:53 | 2022-04-19 |  |
 | [Ring My Bell](https://open.spotify.com/track/19euxgpVaBlvBOIRTLsgJQ) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [Girl's Day Love Second Album](https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me) | 3:18 | 2022-04-19 |  |
-| [Rising Sun](https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Rising Sun \- 2nd Album](https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR) | 4:42 | 2022-04-19 |  |
+| [Rising Sun](https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Rising Sun \- 2nd Album](https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR) | 4:42 | 2022-04-19 | 2023-01-29 |
+| [Rock U](https://open.spotify.com/track/3Ul9cvsm5KTGNvO5SAYH97) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 1st](https://open.spotify.com/album/0JbzuxsVq0fLuuHy841PMZ) | 3:31 | 2022-04-19 |  |
 | [Rock U](https://open.spotify.com/track/4LeCCkumA3FJgt127oIWkB) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 1st](https://open.spotify.com/album/0K4fZ2Yh3SHWWhBrTBoDII) | 3:31 | 2022-04-19 | 2022-07-09 |
 | [Sexy, Free & Single](https://open.spotify.com/track/2gVUU6cUYgsExc7X70FrTo) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Sexy, Free & Single](https://open.spotify.com/album/2JuQjHZ6ssTtwCrPgqc0Br) | 3:44 | 2022-04-19 | 2022-07-29 |
 | [SHAKE IT](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SHAKE IT](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) | 3:28 | 2022-04-19 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-13",
   "description": "Ya Wailee! Get ready for some serious 00s nostalgia. Cover : Nancy Ajram",
   "name": "00s Arabic Hits",
-  "published_playlist_ids": [
-    "7AMijtVhbae7derUkv7JiM"
-  ],
   "tracks": [
     {
       "album": {
@@ -653,7 +650,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 213695,
       "name": "Haollak Eih",
       "url": "https://open.spotify.com/track/1uQfLicb1k25vIfPpfSmqk"
@@ -779,7 +776,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 315612,
       "name": "Lail Wa Raed Wa Reeh",
       "url": "https://open.spotify.com/track/0J49Oq7Y8O4CSbdZeEVSBT"
@@ -833,7 +830,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 481281,
       "name": "Ma Waatak Bi Nijoum Al Alil",
       "url": "https://open.spotify.com/track/3KGJvOcroqIzJtgQTNRB1j"
@@ -855,6 +852,24 @@
       "duration_ms": 275043,
       "name": "Ma Yhemmak",
       "url": "https://open.spotify.com/track/03qj4j7ESR4ryymbR3Bvlq"
+    },
+    {
+      "album": {
+        "name": "Mandam A'Leuk",
+        "url": "https://open.spotify.com/album/0xtqgojulqbkDENkt7vYjB"
+      },
+      "artists": [
+        {
+          "name": "Nawal Al Zoghbi",
+          "url": "https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312400,
+      "name": "Mandam A'leyk - 2000 Digital Remaster",
+      "url": "https://open.spotify.com/track/0zhjCI84FEpzxhVt7DcZ6H"
     },
     {
       "album": {
@@ -1277,6 +1292,24 @@
     {
       "album": {
         "name": "Oriental Ra\u00ef Party",
+        "url": "https://open.spotify.com/album/3DsVrDED3EawtrPvX2aBZQ"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 234226,
+      "name": "Wana Wana",
+      "url": "https://open.spotify.com/track/36bJT8A2jUNIbFa8mxW5z9"
+    },
+    {
+      "album": {
+        "name": "Oriental Ra\u00ef Party",
         "url": "https://open.spotify.com/album/3LFSYJfcUd31sIirhLZd3e"
       },
       "artists": [
@@ -1287,7 +1320,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 234226,
       "name": "Wana Wana",
       "url": "https://open.spotify.com/track/40v2G2YDUk4oA5UZfv7evR"
@@ -1420,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Yally Mashy",
+        "url": "https://open.spotify.com/album/3axL9aPebifeaGhmtmPbKM"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333557,
+      "name": "Ya Tara",
+      "url": "https://open.spotify.com/track/1qzVBmXs4OeL8nwl7bZIMf"
+    },
+    {
+      "album": {
         "name": "Youm Wara Youm",
         "url": "https://open.spotify.com/album/1XN2P2xKgRSo8LYCwf33Sr"
       },
@@ -1510,6 +1561,42 @@
     },
     {
       "album": {
+        "name": "\u0627\u062a\u062d\u062f\u0649 \u0627\u0644\u0639\u0627\u0644\u0645",
+        "url": "https://open.spotify.com/album/0ld1Uq0f8yT6f7AAccuWSH"
+      },
+      "artists": [
+        {
+          "name": "\u0635\u0627\u0628\u0631 \u0627\u0644\u0631\u0628\u0627\u0639\u0649",
+          "url": "https://open.spotify.com/artist/3skqO5M0sMXLt506BFMksT"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297691,
+      "name": "\u0627\u062a\u062d\u062f\u0649 \u0627\u0644\u0639\u0627\u0644\u0645",
+      "url": "https://open.spotify.com/track/13Lc1DODxLE01Gs4Cpkp1n"
+    },
+    {
+      "album": {
+        "name": "\u062d\u0628\u0643 \u0639\u0644\u0645\u0646\u064a",
+        "url": "https://open.spotify.com/album/41wGZLOe4uhn6VS40VjG9A"
+      },
+      "artists": [
+        {
+          "name": "\u0641\u0636\u0644 \u0634\u0627\u0643\u0631",
+          "url": "https://open.spotify.com/artist/4BToNiwcCGe2xoQSuYQBXI"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313939,
+      "name": "\u0627\u062e\u062f\u0646\u064a \u0645\u0639\u0643",
+      "url": "https://open.spotify.com/track/2OG1u9eX4Zjsi7fGQB9T8t"
+    },
+    {
+      "album": {
         "name": "\u064a\u0627 \u062e\u0633\u0627\u0631\u062a\u0643 \u0641\u0649 \u0627\u0644\u064a\u0627\u0644\u0649",
         "url": "https://open.spotify.com/album/3oUnSsugdYXbTwLOpjq7Sa"
       },
@@ -1521,7 +1608,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 263000,
       "name": "\u0627\u0634\u0648\u0641 \u0641\u064a\u0643 \u064a\u0648\u0645",
       "url": "https://open.spotify.com/track/6XbcPZc1kZ1bbTmzI7Pqzw"
@@ -1546,6 +1633,42 @@
     },
     {
       "album": {
+        "name": "\u062d\u0628\u064a\u0628\u064a \u064a\u0627",
+        "url": "https://open.spotify.com/album/0kD0fdr5woasIliscmO9eM"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Fouad",
+          "url": "https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216006,
+      "name": "\u062d\u0628\u064a\u0628\u064a \u064a\u0627",
+      "url": "https://open.spotify.com/track/3JtQZRGn1GWraaMI8hJWVk"
+    },
+    {
+      "album": {
+        "name": "\u062d\u0633\u064a\u0646 \u0627\u0644\u062c\u0633\u0645\u064a \u0662\u0660\u0661\u0660",
+        "url": "https://open.spotify.com/album/4cLgnSoT9jUsfT3YWwuMCs"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266840,
+      "name": "\u0633\u062a\u0629 \u0627\u0644\u0635\u0628\u062d",
+      "url": "https://open.spotify.com/track/4XwmkLMuFc96k7BJmXLUZF"
+    },
+    {
+      "album": {
         "name": "\u062c\u0648\u0647 \u0627\u0644\u0642\u0644\u0628",
         "url": "https://open.spotify.com/album/4W2UyI6S09RUKbpTQfJ2Ue"
       },
@@ -1564,6 +1687,78 @@
     },
     {
       "album": {
+        "name": "\u0646\u0628\u064a\u0644 \u0662\u0660\u0660\u0660",
+        "url": "https://open.spotify.com/album/5MBlfc6WofFmD0wgOeAx5Q"
+      },
+      "artists": [
+        {
+          "name": "Nabeel Shuail",
+          "url": "https://open.spotify.com/artist/4nZsv9MFbvSrHrNupU4Ttu"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342282,
+      "name": "\u0637\u0628\u0639\u0643 \u063a\u064a\u0631",
+      "url": "https://open.spotify.com/track/50IxI0PAJfii3ggbTVTyU7"
+    },
+    {
+      "album": {
+        "name": "\u0637\u0628\u064a\u0628 \u062c\u0631\u0627\u062d",
+        "url": "https://open.spotify.com/album/36uGSGjHobfqKqsFpTHvlA"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381200,
+      "name": "\u0637\u0628\u064a\u0628 \u062c\u0631\u0627\u062d",
+      "url": "https://open.spotify.com/track/73Qln2DC1UheLEv1b08Fd7"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0645\u0631\u0649 \u0643\u0644\u0648",
+        "url": "https://open.spotify.com/album/5nF7lmHdRQzBfTLwAD1oWV"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279588,
+      "name": "\u0639\u0645\u0631\u0649 \u0643\u0644\u0648",
+      "url": "https://open.spotify.com/track/7xH8bHSZ4qWB7QiAauh16n"
+    },
+    {
+      "album": {
+        "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
+        "url": "https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264228,
+      "name": "\u0642\u0635\u0627\u062f \u0639\u064a\u0646\u0649",
+      "url": "https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8"
+    },
+    {
+      "album": {
         "name": "\u0623\u062d\u0644\u0649 \u0627\u062b\u0646\u064a\u0646",
         "url": "https://open.spotify.com/album/2xaQDViCrqeoXhz6X3OPvM"
       },
@@ -1579,6 +1774,42 @@
       "duration_ms": 378000,
       "name": "\u0642\u0644\u0628\u064a \u0645\u0639\u0630\u0628",
       "url": "https://open.spotify.com/track/7d9vTDybKlnO9mI0sXvi9n"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0644 \u0627\u0644\u0642\u0635\u0627\u064a\u062f",
+        "url": "https://open.spotify.com/album/2ENnt1IKcJNla5goMsY1Zn"
+      },
+      "artists": [
+        {
+          "name": "Marwan Khoury",
+          "url": "https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241031,
+      "name": "\u0643\u0644 \u0627\u0644\u0642\u0635\u0627\u064a\u062f",
+      "url": "https://open.spotify.com/track/2SbOhkuficQ2KVvVofnsWP"
+    },
+    {
+      "album": {
+        "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
+        "url": "https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246047,
+      "name": "\u0644\u064a\u0644\u0649 \u0646\u0647\u0627\u0631\u0649",
+      "url": "https://open.spotify.com/track/1F4llVlAB6yfumGxPXBOxc"
     },
     {
       "album": {
@@ -1604,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "\u0645\u0634\u0643\u0644\u0646\u064a",
+        "url": "https://open.spotify.com/album/6icC7FZy5GrRoxwMKrQsVT"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360071,
+      "name": "\u0645\u0634\u0643\u0644\u0646\u064a",
+      "url": "https://open.spotify.com/track/0Sa90lwNm34LvVNy9h7yoI"
+    },
+    {
+      "album": {
         "name": "\u0645\u0639\u0642\u0648\u0644",
         "url": "https://open.spotify.com/album/0IoUZAoBAIyldt7snnSb9T"
       },
@@ -1622,6 +1871,60 @@
     },
     {
       "album": {
+        "name": "\u062d\u0627\u0641\u064a\u0629 \u0627\u0644\u0642\u062f\u0645\u064a\u0646",
+        "url": "https://open.spotify.com/album/07sqZJy5rXeLNLz9JcSYW5"
+      },
+      "artists": [
+        {
+          "name": "Kadim Al Sahir",
+          "url": "https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566256,
+      "name": "\u0647\u0644 \u0639\u0646\u062f\u0643 \u0634\u0643",
+      "url": "https://open.spotify.com/track/32yeXsKQbP5tIGWYoEVNnM"
+    },
+    {
+      "album": {
+        "name": "\u0628\u062f\u0649 \u0639\u064a\u0634",
+        "url": "https://open.spotify.com/album/2pmkzxgK0pNs8uFRJnhFGg"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250880,
+      "name": "\u064a\u0627 \u062d\u064a\u0627\u0629 \u0642\u0644\u0628\u0649",
+      "url": "https://open.spotify.com/track/52ylRHT88HVcIsVJ6AmetJ"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0635\u062a\u064a",
+        "url": "https://open.spotify.com/album/3WHI3KogOWEu2OG3WEqDli"
+      },
+      "artists": [
+        {
+          "name": "\u0641\u0631\u0642\u0629 \u062c\u064a\u062a\u0627\u0631\u0627",
+          "url": "https://open.spotify.com/artist/0WtMDWKKkF9ZsTRsa9ffWU"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318667,
+      "name": "\u064a\u0627 \u063a\u0627\u0644\u064a",
+      "url": "https://open.spotify.com/track/5Pkag3Ny83R1QX7WFo8eyz"
+    },
+    {
+      "album": {
         "name": "\u064a\u0627 \u063a\u0627\u064a\u0628 | Ya ghayeb",
         "url": "https://open.spotify.com/album/1zllS0OgHqjTCFZhsNAo5Y"
       },
@@ -1637,6 +1940,24 @@
       "duration_ms": 236013,
       "name": "\u064a\u0627 \u063a\u0627\u064a\u0628",
       "url": "https://open.spotify.com/track/5TUWTLuTWP9u3zd1C4A5r8"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0646\u0627 \u0648\u0627\u0644\u0644\u064a\u0644",
+        "url": "https://open.spotify.com/album/5CkPFJECR9SZ21ZeYdxJeL"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0631\u0648\u0627\u0646 \u062e\u0648\u0631\u0649 - \u0643\u0627\u0631\u0648\u0644 \u0633\u0645\u0627\u062d\u0647",
+          "url": "https://open.spotify.com/artist/5vXwZBIEHhceDpk0VIs50Q"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277185,
+      "name": "\u064a\u0627\u0631\u0628",
+      "url": "https://open.spotify.com/track/1eZvf2kpynyMd6kIuja9mD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTTCCEjVC99N"

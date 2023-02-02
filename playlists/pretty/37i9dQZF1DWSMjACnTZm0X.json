@@ -1,15 +1,79 @@
 {
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL?si=D6t3mgaNRoG34W61XJd0Qw\">Lojay</a>, <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=KWN2MSIkRP2HPgX2t9QTMg\">DJ Maphorisa</a> and <a href=\"https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=g31cPvUxRSGeNeezoaaKYg\">Kabza De Small</a>",
-  "num_followers": 3502,
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW?si=yhkjM4YgQcialbj-N_-D4A\">Mr Eazi</a>",
+  "num_followers": 4087,
   "original_name": "Piano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDRlNmFhMDQyMTRlNDI1ZWI5NDVmYjkyMmUxNDA0MjEy",
+  "snapshot_id": "MTY3NDgwOTA0OSwwMDAwMDAwMGU4MzhiNWNkNDVlNzA4YzZjNzRhMWMzNGQ0MWExZmQz",
   "tracks": [
     {
-      "added_at": "2022-11-17 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
+      "album": {
+        "name": "Werser",
+        "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 248697,
+      "name": "Werser",
+      "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
+    },
+    {
+      "added_at": "2023-01-27 08:44:09",
+      "album": {
+        "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
+        "url": "https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 193274,
+      "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H"
+    },
+    {
+      "added_at": "2023-01-27 08:44:09",
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Sunmomi",
+      "url": "https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M"
+    },
+    {
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "CANADA",
         "url": "https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW"
@@ -33,7 +97,47 @@
       "url": "https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
+      "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
+    },
+    {
+      "added_at": "2023-01-27 08:44:09",
+      "album": {
+        "name": "EP Ya Baba",
+        "url": "https://open.spotify.com/album/0EkFZZ27esrer52Rqb9iF7"
+      },
+      "artists": [
+        {
+          "name": "Gusba Banana",
+          "url": "https://open.spotify.com/artist/0JQngxUcKlWPmUklxDidWb"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Mashonzha",
+      "url": "https://open.spotify.com/track/6fVhiCUu6bhwRQflSayHbh"
+    },
+    {
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Mr Big Flexa",
         "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
@@ -57,51 +161,7 @@
       "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
     },
     {
-      "added_at": "2022-11-02 09:56:01",
-      "album": {
-        "name": "Wa Kula (Zacaria)",
-        "url": "https://open.spotify.com/album/7xQGp5Epz5G2ESwOORmiHh"
-      },
-      "artists": [
-        {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        },
-        {
-          "name": "Jah Prayzah",
-          "url": "https://open.spotify.com/artist/13JLy7UFJgqRypeQGbucP3"
-        }
-      ],
-      "duration_ms": 269933,
-      "name": "Wa Kula (Zacaria)",
-      "url": "https://open.spotify.com/track/13vm93aPWfMs6lnKAVDoLR"
-    },
-    {
-      "added_at": "2022-10-31 12:51:59",
-      "album": {
-        "name": "Zukunft Pink (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 230829,
-      "name": "Zukunft Pink (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Mozambique (feat. 10x Guluva, Yung Silly Coon & PILLS)",
         "url": "https://open.spotify.com/album/6jQrJD5qjoxVBBooTpHMEK"
@@ -137,71 +197,51 @@
       "url": "https://open.spotify.com/track/6y6XLG70Bys7LyDkN8lwhD"
     },
     {
-      "added_at": "2022-09-22 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
-        "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
-        "url": "https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj"
+        "name": "The Kid You Know",
+        "url": "https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
         },
         {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
         }
       ],
-      "duration_ms": 193274,
-      "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
-      "url": "https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H"
+      "duration_ms": 297345,
+      "name": "Amawele",
+      "url": "https://open.spotify.com/track/3QWSO7dAr4PXL8QK2vzySs"
     },
     {
-      "added_at": "2022-09-09 02:44:44",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+        "name": "Toro (feat. DDG)",
+        "url": "https://open.spotify.com/album/1azB57ciVEMuo9C5qMcBWp"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Sunmomi",
-      "url": "https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "EP Ya Baba",
-        "url": "https://open.spotify.com/album/0EkFZZ27esrer52Rqb9iF7"
-      },
-      "artists": [
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        },
         {
-          "name": "Gusba Banana",
-          "url": "https://open.spotify.com/artist/0JQngxUcKlWPmUklxDidWb"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Mashonzha",
-      "url": "https://open.spotify.com/track/6fVhiCUu6bhwRQflSayHbh"
+      "duration_ms": 235662,
+      "name": "Toro (feat. DDG)",
+      "url": "https://open.spotify.com/track/6qaRAEwQ7rQ6Qd1kwBEqWK"
     },
     {
-      "added_at": "2022-08-11 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Nice (Kiss)",
         "url": "https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm"
@@ -229,27 +269,95 @@
       "url": "https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA"
     },
     {
-      "added_at": "2022-11-17 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
-        "name": "Toro (feat. DDG)",
-        "url": "https://open.spotify.com/album/1azB57ciVEMuo9C5qMcBWp"
+        "name": "Khusela (feat. Msaki)",
+        "url": "https://open.spotify.com/album/2sfjcZkqiS1bQT3zb4EiVL"
       },
       "artists": [
         {
-          "name": "Sho Madjozi",
-          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
         },
         {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
         }
       ],
-      "duration_ms": 235662,
-      "name": "Toro (feat. DDG)",
-      "url": "https://open.spotify.com/track/6qaRAEwQ7rQ6Qd1kwBEqWK"
+      "duration_ms": 501283,
+      "name": "Khusela (feat. Msaki)",
+      "url": "https://open.spotify.com/track/1mg27ci1uDANuJ2ghZBrir"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
+      "album": {
+        "name": "Wa Kula (Zacaria)",
+        "url": "https://open.spotify.com/album/7xQGp5Epz5G2ESwOORmiHh"
+      },
+      "artists": [
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        },
+        {
+          "name": "Jah Prayzah",
+          "url": "https://open.spotify.com/artist/13JLy7UFJgqRypeQGbucP3"
+        }
+      ],
+      "duration_ms": 269933,
+      "name": "Wa Kula (Zacaria)",
+      "url": "https://open.spotify.com/track/13vm93aPWfMs6lnKAVDoLR"
+    },
+    {
+      "added_at": "2023-01-27 08:44:09",
+      "album": {
+        "name": "Zukunft Pink - ALLIANCE REMIX (feat. Focalistic, Kwam.E, ALBI X, Willy Will, Awa Khiwe, Benji Asare, In\u00e9z)",
+        "url": "https://open.spotify.com/album/0D1spdpLQGtL4JtqSz0qIK"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Willy Will",
+          "url": "https://open.spotify.com/artist/7COHnUQjxEVi5SggMxlu4E"
+        },
+        {
+          "name": "Kwam.E",
+          "url": "https://open.spotify.com/artist/4H9W4cb3X0qRpv87yKV7fV"
+        },
+        {
+          "name": "ALBI X",
+          "url": "https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56"
+        },
+        {
+          "name": "Awa Khiwe",
+          "url": "https://open.spotify.com/artist/6MpRaR69eK9y4KZ7IGAAMH"
+        },
+        {
+          "name": "Benji Asare",
+          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 310712,
+      "name": "Zukunft Pink - ALLIANCE REMIX (feat. Focalistic, Kwam.E, ALBI X, Willy Will, Awa Khiwe, Benji Asare, In\u00e9z)",
+      "url": "https://open.spotify.com/track/2gcuuCGQ9xU3fMsbChH6Sv"
+    },
+    {
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Tanzania",
         "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
@@ -277,31 +385,7 @@
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
     },
     {
-      "added_at": "2022-09-22 21:59:00",
-      "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
-    },
-    {
-      "added_at": "2022-10-31 12:51:59",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Khan",
         "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
@@ -325,27 +409,31 @@
       "url": "https://open.spotify.com/track/4zCzPIdWmPDnvcyhSGvHqS"
     },
     {
-      "added_at": "2022-06-16 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
-        "name": "Khusela (feat. Msaki)",
-        "url": "https://open.spotify.com/album/2sfjcZkqiS1bQT3zb4EiVL"
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
       "artists": [
         {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
         }
       ],
-      "duration_ms": 501283,
-      "name": "Khusela (feat. Msaki)",
-      "url": "https://open.spotify.com/track/1mg27ci1uDANuJ2ghZBrir"
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
-      "added_at": "2022-09-09 02:44:44",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB"
@@ -381,7 +469,59 @@
       "url": "https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM"
     },
     {
-      "added_at": "2022-09-09 02:44:44",
+      "added_at": "2023-01-27 08:44:09",
+      "album": {
+        "name": "Yaba Buluku (feat. Preck & Nelson Tivane) [Remix]",
+        "url": "https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi"
+      },
+      "artists": [
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Preck",
+          "url": "https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY"
+        },
+        {
+          "name": "Nelson Tivane",
+          "url": "https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S"
+        }
+      ],
+      "duration_ms": 214408,
+      "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
+      "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
+    },
+    {
+      "added_at": "2023-01-27 08:44:09",
+      "album": {
+        "name": "Kokokokoko",
+        "url": "https://open.spotify.com/album/3pfrpbYDEG3liawfrAI5Xk"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        {
+          "name": "Theology HD",
+          "url": "https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH"
+        }
+      ],
+      "duration_ms": 259519,
+      "name": "Kokokokoko",
+      "url": "https://open.spotify.com/track/1wEARf9O4Y99NAY89Zk6Tw"
+    },
+    {
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Ekhaya",
         "url": "https://open.spotify.com/album/1I0NVt2ETbbxHOPsw083zF"
@@ -413,31 +553,7 @@
       "url": "https://open.spotify.com/track/1T2pzBmz9yh5ddK8KZbtG7"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Kokokokoko",
-        "url": "https://open.spotify.com/album/3pfrpbYDEG3liawfrAI5Xk"
-      },
-      "artists": [
-        {
-          "name": "Moonchild Sanelly",
-          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
-        },
-        {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
-        },
-        {
-          "name": "Theology HD",
-          "url": "https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH"
-        }
-      ],
-      "duration_ms": 259519,
-      "name": "Kokokokoko",
-      "url": "https://open.spotify.com/track/1wEARf9O4Y99NAY89Zk6Tw"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Maitama (Going)",
         "url": "https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5"
@@ -465,7 +581,7 @@
       "url": "https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ"
     },
     {
-      "added_at": "2022-08-04 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
         "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
@@ -493,59 +609,7 @@
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Yaba Buluku (feat. Preck & Nelson Tivane) [Remix]",
-        "url": "https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi"
-      },
-      "artists": [
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Preck",
-          "url": "https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY"
-        },
-        {
-          "name": "Nelson Tivane",
-          "url": "https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
-      "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
-    },
-    {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Selema (Po Po) [Remix]",
-        "url": "https://open.spotify.com/album/4Inwvvp1zEZrhIriqbZK5f"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 331349,
-      "name": "Selema (Po Po) - Remix",
-      "url": "https://open.spotify.com/track/32YnNTVsrqcSPj3aXDbi80"
-    },
-    {
-      "added_at": "2022-10-31 12:51:59",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Stop Nonsense",
         "url": "https://open.spotify.com/album/48gsJqhB5us0lFC37ImxxO"
@@ -561,7 +625,7 @@
       "url": "https://open.spotify.com/track/2PLjbUapab2cpATtNjvXmf"
     },
     {
-      "added_at": "2022-09-09 02:44:44",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "SLOW WINE",
         "url": "https://open.spotify.com/album/49TepG6PsqWFNIfs7fDcjT"
@@ -581,7 +645,7 @@
       "url": "https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM"
     },
     {
-      "added_at": "2022-10-31 12:51:59",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Global",
         "url": "https://open.spotify.com/album/6GcabwyEVG6I28iqygw0p0"
@@ -597,7 +661,7 @@
       "url": "https://open.spotify.com/track/2jOmnwTKCreSIpO6jNPb33"
     },
     {
-      "added_at": "2022-08-11 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Ziya Khala",
         "url": "https://open.spotify.com/album/5SJD74L6baR4ROiiVFMVYf"
@@ -621,51 +685,7 @@
       "url": "https://open.spotify.com/track/2rmAdvW1snyycYiCgSKsrp"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Wena",
-        "url": "https://open.spotify.com/album/7nSoq7EvSWqK3ckNvLd7x6"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        },
-        {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
-        },
-        {
-          "name": "Yumbs",
-          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/6OjjYkAZfOYO77B2DBEvFV"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Ameno Amapiano Remix (You Wanna Bamba)",
-        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
-      },
-      "artists": [
-        {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        },
-        {
-          "name": "Nektunez",
-          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
-        }
-      ],
-      "duration_ms": 227100,
-      "name": "Ameno Amapiano Remix (You Wanna Bamba)",
-      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "I Am The King Of Amapiano: Sweet & Dust",
         "url": "https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Ke Star (Remix)",
         "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
     },
     {
-      "added_at": "2022-11-17 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Chale (feat. Clementine Douglas) [Amapiano Remix]",
         "url": "https://open.spotify.com/album/3iUbZxaLXYmebEMBwQCmDj"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/12Ribc4xP16sIgFOvMdexc"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Ghorba",
         "url": "https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Cleopatra (feat. Alex Price)",
         "url": "https://open.spotify.com/album/0MIKGb3t0qcRRLftv6Nv99"
@@ -793,7 +813,7 @@
       "url": "https://open.spotify.com/track/3VkVbl3uuVnceUaGUlrN83"
     },
     {
-      "added_at": "2022-06-16 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Bathini (feat. Young Stunna & Artwork Sounds)",
         "url": "https://open.spotify.com/album/0io0I1tNzck5wHgmBMPcUU"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/1rdeLjtCukMRFVW5GgZgHu"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Dubai",
         "url": "https://open.spotify.com/album/3LU9tiUoLpihL2pXPbejWO"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/6tx3PPYfrkpeJqQH2oSxhH"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "SAD GIRLZ LUV MONEY (feat. Moliy & Kali Uchis) [Vigro Deep Amapiano Remix]",
         "url": "https://open.spotify.com/album/2EOWRhAyOt6UmBprRs7Ye1"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/3BmxwS8SAdpVMi4dqMK0xG"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
@@ -893,7 +913,7 @@
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
     },
     {
-      "added_at": "2022-09-09 02:44:44",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Lay It Down (Freeze)",
         "url": "https://open.spotify.com/album/12vCcwi0rhDDbOhVGVHpuM"
@@ -909,7 +929,7 @@
       "url": "https://open.spotify.com/track/4XUhN77UBA4i0uNa3u0Icz"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Faster",
         "url": "https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p"
@@ -925,7 +945,7 @@
       "url": "https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t"
     },
     {
-      "added_at": "2022-11-17 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Make You Say",
         "url": "https://open.spotify.com/album/3oq0l9uJ2ZZPQnRy367TZM"
@@ -945,7 +965,7 @@
       "url": "https://open.spotify.com/track/6RTwIBYKDxNhEG8V2dV5FQ"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v"
@@ -961,7 +981,7 @@
       "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Mystery Lady (Scorpion Kings Remix)",
         "url": "https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi"
@@ -989,7 +1009,7 @@
       "url": "https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Nitongoze (feat. Diamond Platnumz)",
         "url": "https://open.spotify.com/album/1ZQ99HHidfORTcxmZDVF0o"
@@ -1009,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3nhcujaIb4YbrhRqIMZv7G"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Selema (Po Po)",
         "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
@@ -1029,7 +1049,7 @@
       "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Bells",
         "url": "https://open.spotify.com/album/5fb9nAydl4x1Orhsrd4622"
@@ -1057,7 +1077,7 @@
       "url": "https://open.spotify.com/track/7c5rKCDYYbyBsLlJ00NgCD"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "I Did It (Bum Bum)",
         "url": "https://open.spotify.com/album/7E1fYgJc0JPn19Rj1dOj7G"
@@ -1077,7 +1097,7 @@
       "url": "https://open.spotify.com/track/0Y1DdSpkxR1YX1lOxk1V6Z"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
         "url": "https://open.spotify.com/album/6i59pzMOcP1qQ1WnEKJz80"
@@ -1105,7 +1125,7 @@
       "url": "https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "REQUIRE (with Olamide)",
         "url": "https://open.spotify.com/album/1Sdrty8ZkaNRbZqjhrHKYt"
@@ -1125,51 +1145,7 @@
       "url": "https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Tell Somebody",
-        "url": "https://open.spotify.com/album/5PqqFK9QKjPlh4oeRRSqx8"
-      },
-      "artists": [
-        {
-          "name": "Effyzzie Music",
-          "url": "https://open.spotify.com/artist/6t4HMpwMpyeEmGv1QvEVPS"
-        },
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        },
-        {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
-        }
-      ],
-      "duration_ms": 237599,
-      "name": "Tell Somebody",
-      "url": "https://open.spotify.com/track/3EWJSHGXN8dA983I0sMhmd"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Toku",
-        "url": "https://open.spotify.com/album/3DOxTWi2PFLXCwXBC6F9LY"
-      },
-      "artists": [
-        {
-          "name": "K\u03a3ITO",
-          "url": "https://open.spotify.com/artist/5kgyjglDiOtJ4CI6vtBYhO"
-        },
-        {
-          "name": "XXX//PEKE//XXX",
-          "url": "https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Toku",
-      "url": "https://open.spotify.com/track/290Q8ZOLk1Laqt3giUGRCd"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Cross My Lane",
         "url": "https://open.spotify.com/album/38IxB0W7HqdzGJvrtW4iP5"
@@ -1189,47 +1165,7 @@
       "url": "https://open.spotify.com/track/5u3DBDAtwldSB0vq2wRKPG"
     },
     {
-      "added_at": "2022-08-11 21:59:00",
-      "album": {
-        "name": "BADDEST",
-        "url": "https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL"
-      },
-      "artists": [
-        {
-          "name": "DJ Shawn",
-          "url": "https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 225425,
-      "name": "BADDEST",
-      "url": "https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "3ini",
-        "url": "https://open.spotify.com/album/7swsJlf5q3FSqn3MIQjQBa"
-      },
-      "artists": [
-        {
-          "name": "Leil",
-          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
-        }
-      ],
-      "duration_ms": 177749,
-      "name": "3ini",
-      "url": "https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU"
-    },
-    {
-      "added_at": "2022-08-11 21:59:00",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Jaiye Foreign",
         "url": "https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY"
@@ -1249,7 +1185,7 @@
       "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
     },
     {
-      "added_at": "2022-05-23 07:21:35",
+      "added_at": "2023-01-27 08:44:09",
       "album": {
         "name": "Mang' Dakiwe (Remix)",
         "url": "https://open.spotify.com/album/7LhPDGHwqdinqFXBQxAwcI"

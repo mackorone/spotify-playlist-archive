@@ -4,7 +4,7 @@
 
 > Yours is no ordinary life\. Listen outside the lines.
 
-63 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/3y8h3uLgTIyw7glLKF1Gbf)
+63 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

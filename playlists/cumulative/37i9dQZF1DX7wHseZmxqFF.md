@@ -4,7 +4,7 @@
 
 > The UK girl group grab the power and show their love for Pride, unfurling a no\-fail list of pop party jams and club classics.
 
-46 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/3L4dM6eSGvIxUEviUKowiC)
+46 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

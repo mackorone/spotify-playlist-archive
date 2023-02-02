@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-10-16",
   "description": "Some of the worlds most beautiful love songs.",
   "name": "Love Ballads",
-  "published_playlist_ids": [
-    "04ydEG3A6bW8Wea1ObmNiD"
-  ],
   "tracks": [
     {
       "album": {
@@ -855,7 +852,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 224693,
       "name": "Bette Davis Eyes - Re-Recorded",
       "url": "https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu"
@@ -1071,7 +1068,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 221373,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/7oHymG8r14Iv9zn5hFTNax"
@@ -3773,7 +3770,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
@@ -4652,6 +4649,42 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116666,
+      "name": "Please Notice",
+      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
+    },
+    {
+      "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
+    },
+    {
+      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -4771,7 +4804,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 256146,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
@@ -5030,6 +5063,24 @@
     },
     {
       "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182028,
+      "name": "Smiling All The Way Back Home",
+      "url": "https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB"
+    },
+    {
+      "album": {
         "name": "Smiling All The Way Back Home",
         "url": "https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8"
       },
@@ -5177,7 +5228,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240706,
-      "name": "Stay - Album Version (Edited)",
+      "name": "Stay",
       "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
     },
     {
@@ -5885,6 +5936,24 @@
       "duration_ms": 224426,
       "name": "Underneath Your Clothes",
       "url": "https://open.spotify.com/track/6biR1gMwcN71SDt3Eh4eEu"
+    },
+    {
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "album": {

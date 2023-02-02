@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-08",
   "description": "Early explorations with recorded sounds as instruments -  the groundwork for sampling as we know it today.",
   "name": "Musique Concr\u00e8te",
-  "published_playlist_ids": [
-    "4vM64ZMVSwtnmECx082lsj"
-  ],
   "tracks": [
     {
       "album": {
@@ -1065,7 +1062,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 28369,
       "name": "Science & Industry",
       "url": "https://open.spotify.com/track/5k7TXJ6IwxCiqU5z0V6laU"
@@ -1087,6 +1084,24 @@
       "duration_ms": 28369,
       "name": "Science & Industry",
       "url": "https://open.spotify.com/track/5pAZhawFE5XMjnSWApssUg"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Phil Young",
+          "url": "https://open.spotify.com/artist/7zPjfafzGdjuMFEaUBzRMU"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31680,
+      "name": "Science and Industry",
+      "url": "https://open.spotify.com/track/7jCdR2wBBmGI9ZXZVGb5Ln"
     },
     {
       "album": {

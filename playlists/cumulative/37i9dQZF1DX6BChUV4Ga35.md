@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-114 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/5mDi0ly6f3Nrf2gFlIwbHJ)
+114 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

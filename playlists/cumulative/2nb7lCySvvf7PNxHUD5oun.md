@@ -4,7 +4,7 @@
 
 > In honor of JAM, we're collecting your favorite jazz tracks! Share yours at \#SpotifyJAM
 
-40 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/3TcAGRFGBp7J7c40caudRt)
+40 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

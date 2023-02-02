@@ -4,7 +4,7 @@
 
 > Siempre seremos Soda, siempre seremos rock.
 
-20 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/6UIPN3NIE4BzuKiOdUBsSo)
+20 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

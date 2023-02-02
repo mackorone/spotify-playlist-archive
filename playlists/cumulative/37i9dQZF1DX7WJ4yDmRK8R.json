@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
   "name": "The Essential Ska",
-  "published_playlist_ids": [
-    "3uBCjD3QXS1bsdZpxQUdvo"
-  ],
   "tracks": [
     {
       "album": {
@@ -26,6 +23,28 @@
     },
     {
       "album": {
+        "name": "007 Shanty Town",
+        "url": "https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        },
+        {
+          "name": "ACES",
+          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "007 (Shanty Town)",
+      "url": "https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP"
+    },
+    {
+      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -41,6 +60,24 @@
       "duration_ms": 130373,
       "name": "180 Degrees",
       "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
+    },
+    {
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204026,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
     },
     {
       "album": {
@@ -145,7 +182,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 220133,
       "name": "A Flowery Song",
       "url": "https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby"
@@ -347,7 +384,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 305360,
       "name": "B.L.M",
       "url": "https://open.spotify.com/track/5jvVBreQOSEW2r78oC0CoZ"
@@ -545,7 +582,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 182560,
       "name": "Choose My Friends",
       "url": "https://open.spotify.com/track/5xhB62X5svVDYitg5fDe3v"
@@ -711,10 +748,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 152369,
       "name": "Dippy Egg",
       "url": "https://open.spotify.com/track/3OqTya26KpcQYUa72cSI4Y"
+    },
+    {
+      "album": {
+        "name": "The Toasters: 30th Anniversary",
+        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Don't Let the Bastards Grind You Down",
+      "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
     },
     {
       "album": {
@@ -747,7 +802,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 186804,
       "name": "Ego",
       "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
@@ -787,6 +842,24 @@
       "duration_ms": 157306,
       "name": "El Coo Cooi",
       "url": "https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV"
+    },
+    {
+      "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
     },
     {
       "album": {
@@ -837,7 +910,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
@@ -916,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Funky Kingston",
+        "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295666,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
+    },
+    {
+      "album": {
         "name": "Future Version",
         "url": "https://open.spotify.com/album/6R8uEFFgmYorZhQaY8neuP"
       },
@@ -931,6 +1022,42 @@
       "duration_ms": 95500,
       "name": "Future Version",
       "url": "https://open.spotify.com/track/03VKi7ZYa1pvUKeZ8TfrOP"
+    },
+    {
+      "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170546,
+      "name": "Gangsters - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5PLkbN1xEJ3KoF1tyqjpfZ"
+    },
+    {
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "album": {
@@ -1057,7 +1184,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 226413,
       "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
       "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
@@ -1093,7 +1220,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 229813,
       "name": "Hey Road",
       "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
@@ -1172,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+      },
+      "artists": [
+        {
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/51vJlDmoPncY0fzzarlHW2"
+    },
+    {
+      "album": {
         "name": "Get Warmer",
         "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
       },
@@ -1219,7 +1364,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202000,
       "name": "I Don't Wanna Go",
       "url": "https://open.spotify.com/track/2QMorHwzcNe3lvoBaN41CE"
@@ -1273,7 +1418,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 124296,
       "name": "If I Could Only Listen to My Heart",
       "url": "https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1"
@@ -1352,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "Losing Streak",
+        "url": "https://open.spotify.com/album/5cpnq6VX4FCWQJpm2tA8np"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169106,
+      "name": "Johnny Quest Thinks We're Sellouts",
+      "url": "https://open.spotify.com/track/3Sl62Dyoh3wI3gLIJSypnb"
+    },
+    {
+      "album": {
         "name": "Just Sayings",
         "url": "https://open.spotify.com/album/3XUooOlcpsDLZnZJFWF2G9"
       },
@@ -1417,7 +1580,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 183570,
       "name": "Keep on Chasing",
       "url": "https://open.spotify.com/track/352s3lxFuWqTuP9p1wjbdo"
@@ -1435,10 +1598,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 185120,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2e8yaFJOfZbsttpJhcTLcc"
+    },
+    {
+      "album": {
+        "name": "Let's Do Rock Steady",
+        "url": "https://open.spotify.com/album/1mnzdkXqugo6pnz3O0GRNO"
+      },
+      "artists": [
+        {
+          "name": "The Bodysnatchers",
+          "url": "https://open.spotify.com/artist/4A8i0BB8EcWKijB9T54QRV"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174490,
+      "name": "Let's Do Rock Steady",
+      "url": "https://open.spotify.com/track/0FkBWszH9H2y7TxH899416"
     },
     {
       "album": {
@@ -1543,7 +1724,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 166640,
       "name": "Lip Up Fatty",
       "url": "https://open.spotify.com/track/2V5tv4ZwtNTgAp4MCwNOXb"
@@ -1579,7 +1760,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 213754,
       "name": "LONELY BOY",
       "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
@@ -1655,6 +1836,42 @@
       "duration_ms": 228529,
       "name": "Love Revolution",
       "url": "https://open.spotify.com/track/6Gf3haPGf1ldOPgPOAHboX"
+    },
+    {
+      "album": {
+        "name": "The Essential Fishbone",
+        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "Ma and Pa",
+      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
+    },
+    {
+      "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165168,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA"
     },
     {
       "album": {
@@ -1759,7 +1976,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 182256,
       "name": "Morbid Obsessions",
       "url": "https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh"
@@ -2036,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Indie Singles Collection 1991-1996",
+        "url": "https://open.spotify.com/album/3gwVOnYIvRJFJyrJzaPnWF"
+      },
+      "artists": [
+        {
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "On My Radio",
+      "url": "https://open.spotify.com/track/7kNNi7Wv4LQcYS4k2E1TZA"
+    },
+    {
+      "album": {
         "name": "A Passage In Time (Explicit Version)",
         "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
       },
@@ -2069,6 +2304,24 @@
       "duration_ms": 138360,
       "name": "One Step Beyond",
       "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
+    },
+    {
+      "album": {
+        "name": "Ska and Rocksteady Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159381,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ"
     },
     {
       "album": {
@@ -2180,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/1aDfrUrNxGmQkV8CYk8n6s"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176693,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/2EISedV2npKMtvygkykV2r"
+    },
+    {
+      "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
@@ -2216,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Too Much Too Young",
+        "url": "https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno"
+    },
+    {
+      "album": {
         "name": "Broadcasting to the Nations",
         "url": "https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS"
       },
@@ -2227,7 +2516,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 196773,
       "name": "Revolution Riot",
       "url": "https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9"
@@ -2270,6 +2559,24 @@
     },
     {
       "album": {
+        "name": "Ball Of Fire",
+        "url": "https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420840,
+      "name": "Rock Fort Rock",
+      "url": "https://open.spotify.com/track/5iLpRDS6TNaIxh1zppyfEY"
+    },
+    {
+      "album": {
         "name": "Rock The Casbah (Ranking Roger)",
         "url": "https://open.spotify.com/album/0oLCJ91O7NIiWQmfPZhFbK"
       },
@@ -2281,7 +2588,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 260711,
       "name": "Rock the Casbah (Ranking Roger)",
       "url": "https://open.spotify.com/track/3BlBgTuUlGKFO9EhhnJZhA"
@@ -2479,7 +2786,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 205585,
       "name": "Seven Seas",
       "url": "https://open.spotify.com/track/5EOJzNZsHhJIP0cwowK8i9"
@@ -2699,7 +3006,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 186092,
       "name": "Sorry I'm Not Sorry",
       "url": "https://open.spotify.com/track/278kcYhSJT5MorzKYpkKqK"
@@ -2717,7 +3024,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 194640,
       "name": "Sound of a Revolution",
       "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
@@ -2760,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "The Green Album",
+        "url": "https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw"
+      },
+      "artists": [
+        {
+          "name": "Skankin' Pickle",
+          "url": "https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191293,
+      "name": "Special Brew",
+      "url": "https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr"
+    },
+    {
+      "album": {
         "name": "Battle Hymns",
         "url": "https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7"
       },
@@ -2771,7 +3096,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 72600,
       "name": "Step One",
       "url": "https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA"
@@ -3023,7 +3348,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-10",
       "duration_ms": 217826,
       "name": "The Constant",
       "url": "https://open.spotify.com/track/57vL24peZXDTr0fEkCenUL"
@@ -3075,7 +3400,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 477836,
       "name": "THE FINAL PARADE",
       "url": "https://open.spotify.com/track/2bKOzEirhfTNQHGvCJRwYz"
@@ -3097,6 +3422,24 @@
       "duration_ms": 194760,
       "name": "The Impression That I Get",
       "url": "https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS"
+    },
+    {
+      "album": {
+        "name": "Let's Face It",
+        "url": "https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166133,
+      "name": "The Rascal King",
+      "url": "https://open.spotify.com/track/13BRH2RILNifFRNTXbLUka"
     },
     {
       "album": {
@@ -3194,6 +3537,24 @@
     },
     {
       "album": {
+        "name": "A Live Injection: Anthology 1968-1979",
+        "url": "https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm"
+      },
+      "artists": [
+        {
+          "name": "The Untouchables",
+          "url": "https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw"
+    },
+    {
+      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
       },
@@ -3281,6 +3642,42 @@
       "duration_ms": 188733,
       "name": "Too Much Information",
       "url": "https://open.spotify.com/track/0SnMkgqpYimCtOmiId16SS"
+    },
+    {
+      "album": {
+        "name": "Too Much Pressure",
+        "url": "https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV"
+      },
+      "artists": [
+        {
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231493,
+      "name": "Too Much Pressure",
+      "url": "https://open.spotify.com/track/5UwELoOykVTB1WiVknlyh4"
+    },
+    {
+      "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366760,
+      "name": "Too Much Too Young - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1u2bt26ipUrk4kHvcLXl6R"
     },
     {
       "album": {
@@ -3583,7 +3980,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 165813,
       "name": "When The Wall Falls",
       "url": "https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9"
@@ -3605,6 +4002,24 @@
       "duration_ms": 143546,
       "name": "Where I'm Going",
       "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
+    },
+    {
+      "album": {
+        "name": "More Noise And Other Disturbances",
+        "url": "https://open.spotify.com/album/28xDdUxyWOjPzZKbcQMJlO"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/6KwaJu7h79dMxDvcxgiyfc"
     },
     {
       "album": {
@@ -3655,7 +4070,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 196053,
       "name": "Wonderful Day for the Race",
       "url": "https://open.spotify.com/track/3bylr7iU0HQcaC5jAm1WBy"
@@ -3785,6 +4200,24 @@
       "duration_ms": 239466,
       "name": "You",
       "url": "https://open.spotify.com/track/1xvnm1ufz1gjM3vOu9T8V5"
+    },
+    {
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
     },
     {
       "album": {

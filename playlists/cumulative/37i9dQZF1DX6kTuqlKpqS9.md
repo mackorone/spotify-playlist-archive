@@ -4,7 +4,7 @@
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-81 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/78I0A29BGLLpEnxIWpW2q7)
+81 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Uplifting and happy jazz christmas classics.",
   "name": "Feel Good Christmas",
-  "published_playlist_ids": [
-    "4gY5NRqqcG0a90IfsPyzR2"
-  ],
   "tracks": [
     {
       "album": {
@@ -1395,10 +1392,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 126284,
       "name": "Mary's Boy Child",
       "url": "https://open.spotify.com/track/0cbzNKDJPIpNOKfBGiRmn2"
+    },
+    {
+      "album": {
+        "name": "A Jazzy Christmas Celebration",
+        "url": "https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126284,
+      "name": "Mary's Boy Child",
+      "url": "https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh"
     },
     {
       "album": {

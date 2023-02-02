@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 70s rock!",
   "name": "Deep Dive: 70s Rock",
-  "published_playlist_ids": [
-    "0MQTjD16oHAcLkC8Pt5QWL"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 202266,
       "name": "100,000 Years",
       "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
@@ -559,7 +556,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 275506,
       "name": "Am I Losin'",
       "url": "https://open.spotify.com/track/3Kf5L7zIhbrj1S5BPCodX8"
@@ -908,7 +905,7 @@
     },
     {
       "album": {
-        "name": "Eddie Money",
+        "name": "Eddie Money (2022 Remaster)",
         "url": "https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye"
       },
       "artists": [
@@ -920,8 +917,8 @@
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210826,
-      "name": "Baby Hold On",
+      "duration_ms": 213633,
+      "name": "Baby Hold On (2022 Remaster)",
       "url": "https://open.spotify.com/track/5ZYvcJ04ccUw2Matbnmu0U"
     },
     {
@@ -973,10 +970,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 280360,
       "name": "Back In the Saddle",
       "url": "https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280431,
+      "name": "Back In the Saddle",
+      "url": "https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs"
     },
     {
       "album": {
@@ -1844,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261940,
+      "name": "Brooklyn (Owes The Charmer Under Me)",
+      "url": "https://open.spotify.com/track/0t9IrTpcOWuTBKfjlQhuyF"
+    },
+    {
+      "album": {
         "name": "Shades Of A Blue Orphanage",
         "url": "https://open.spotify.com/album/6jXNB46aXlL2oWY03GtFHy"
       },
@@ -2204,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219716,
+      "name": "Change Of The Guard",
+      "url": "https://open.spotify.com/track/1hKDXDtgKCgdVi0L6wtXN0"
+    },
+    {
+      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -2345,7 +2396,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 189665,
       "name": "Come To Poppa",
       "url": "https://open.spotify.com/track/0IHpdWuBRfCMgQxEF2EnDF"
@@ -2651,7 +2702,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 222800,
       "name": "Dancin' Fool",
       "url": "https://open.spotify.com/track/6tCk1N85t6h4v1xXI6o0Ad"
@@ -4433,7 +4484,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 285040,
       "name": "Gimme Your Money Please",
       "url": "https://open.spotify.com/track/6sqshZ3VTPTQL2EW5c3WQ9"
@@ -4595,7 +4646,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 222066,
       "name": "Going Mobile",
       "url": "https://open.spotify.com/track/236pPQUEDapfH7Jn6rbhBa"
@@ -6501,7 +6552,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 222066,
       "name": "Island Girl",
       "url": "https://open.spotify.com/track/1H7x0bYvO4rwUOb8fQXfEk"
@@ -7149,10 +7200,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 206266,
       "name": "Last Child",
       "url": "https://open.spotify.com/track/5jH8ecmEyX08pQ06T0h6ly"
+    },
+    {
+      "album": {
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206631,
+      "name": "Last Child",
+      "url": "https://open.spotify.com/track/3Kx6oHPQxtA5aJzcZeuE7r"
     },
     {
       "album": {
@@ -7187,7 +7256,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210480,
-      "name": "Lawyers, Guns and Money - 2007 Remaster",
+      "name": "Lawyers, Guns and Money",
       "url": "https://open.spotify.com/track/64dHj8ZxaI2Wj0brEehVMN"
     },
     {
@@ -7293,7 +7362,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": "2023-01-22",
       "duration_ms": 235826,
       "name": "Let It Down - Original Guitar And Vocal / Remastered 2014",
       "url": "https://open.spotify.com/track/790HGH8bq17Mp5FhBqyrYM"
@@ -7995,10 +8064,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 267226,
       "name": "Mama Kin",
       "url": "https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269190,
+      "name": "Mama Kin",
+      "url": "https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw"
     },
     {
       "album": {
@@ -9209,10 +9296,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 219133,
       "name": "Oh Carol",
       "url": "https://open.spotify.com/track/1FtvOp0RNttPrO4UVfCMSH"
+    },
+    {
+      "album": {
+        "name": "The Montreux Album",
+        "url": "https://open.spotify.com/album/3SdxUiI231ZLtt9m604GVd"
+      },
+      "artists": [
+        {
+          "name": "Smokie",
+          "url": "https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219293,
+      "name": "Oh Carol",
+      "url": "https://open.spotify.com/track/24JcvexK0aBumwpEHcnfka"
     },
     {
       "album": {
@@ -10019,7 +10124,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Radancer",
       "url": "https://open.spotify.com/track/0CpP2VQHK5HcxXtUzzOjiB"
@@ -10037,7 +10142,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 240426,
       "name": "Radancer",
       "url": "https://open.spotify.com/track/3Oh0gMdXMZgavYd74bMFMT"
@@ -10059,7 +10164,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 255266,
       "name": "Railroad Song",
       "url": "https://open.spotify.com/track/5tTVQLUw5HJJHt58MifwQS"
@@ -10491,7 +10596,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-13",
       "duration_ms": 149800,
       "name": "Rockin' Around (With You)",
       "url": "https://open.spotify.com/track/0inmDzoPyVU5PYVgHJ8y7b"
@@ -11902,7 +12007,7 @@
     },
     {
       "album": {
-        "name": "Running on Empty (2018 Remaster)",
+        "name": "Running on Empty (Remastered)",
         "url": "https://open.spotify.com/album/24UtAJJRIuHICjdIDqaNhg"
       },
       "artists": [
@@ -11915,7 +12020,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204464,
-      "name": "Stay - 2018 Remaster",
+      "name": "Stay - Remastered",
       "url": "https://open.spotify.com/track/5eMjcHVRRh1tbimTgJPoGn"
     },
     {
@@ -12785,7 +12890,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 277101,
       "name": "The Green Manalishi (With the Two Prong Crown) - 2013 Remaster",
       "url": "https://open.spotify.com/track/3ewHrol22L7bKiI0zAIbdX"
@@ -13329,7 +13434,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": "2023-01-11",
       "duration_ms": 183400,
       "name": "The Wild One, Forever",
       "url": "https://open.spotify.com/track/5ZdZppoiqEJsgjYXnJeAKA"
@@ -13383,7 +13488,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 299733,
       "name": "Things Goin' On",
       "url": "https://open.spotify.com/track/3ncge3MnlzfSvV7AQrbtTG"
@@ -13707,10 +13812,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 333226,
       "name": "Train Kept a Rollin'",
       "url": "https://open.spotify.com/track/664NjRsLgSJtqX8VM0Ghh1"
+    },
+    {
+      "album": {
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333662,
+      "name": "Train Kept a Rollin'",
+      "url": "https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5"
     },
     {
       "album": {
@@ -14067,7 +14190,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-17",
       "duration_ms": 233506,
       "name": "Warm Ways - 2017 Remaster",
       "url": "https://open.spotify.com/track/0rPCoC5DzT84GFTu94uRua"
@@ -14449,7 +14572,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-04",
       "duration_ms": 209853,
       "name": "Willie And The Hand Jive",
       "url": "https://open.spotify.com/track/7aDdRtuCpHGdz7OZFvgbHJ"
@@ -14467,7 +14590,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-18",
       "duration_ms": 329400,
       "name": "Winter - Remastered",
       "url": "https://open.spotify.com/track/5BquOJwWEEJMGqXsUNWjHu"

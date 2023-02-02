@@ -4,7 +4,7 @@
 
 > Some of Barack Obama's favorite songs of the summer\. A mix of genres & eras made with everyone in mind!
 
-46 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/374sud1g4Bn0tHXwIyAhTk)
+46 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

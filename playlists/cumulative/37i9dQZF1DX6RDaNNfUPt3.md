@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1qpR5mURxk3d8f6mww6uKT">Shura</a> joins us to \#PressPlayForPride\. Discover more at <a href="https://open.spotify.com/genre/pride">spotify.com/pride.</a>
 
-26 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/7Jl1N9OVCqNebST4ScwtZT)
+26 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

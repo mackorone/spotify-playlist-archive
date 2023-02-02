@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-86 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/52RI4Gq3FQmvdVfo6uxBM5)
+86 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

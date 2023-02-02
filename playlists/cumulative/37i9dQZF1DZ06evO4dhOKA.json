@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
   "name": "This Is Lalo Mora",
-  "published_playlist_ids": [
-    "26XIbqN6SHbg7Y0qsWzhfG"
-  ],
   "tracks": [
     {
       "album": {
@@ -385,7 +382,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 196733,
       "name": "El Hombre Que M\u00e1s Te Am\u00f3",
       "url": "https://open.spotify.com/track/2yGA0E2SvFEKz17nAjWo1w"
@@ -457,7 +454,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 177306,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
@@ -1325,7 +1322,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 169573,
       "name": "Para Ti Mi Amor",
       "url": "https://open.spotify.com/track/2DgnPsg5oI4jiFLnTvuEBA"
@@ -1409,6 +1406,28 @@
       "duration_ms": 547333,
       "name": "Popurri / En Vivo Desde Monterrey - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
       "url": "https://open.spotify.com/track/0sPQ3zxRu4JqrPm3fbwL80"
+    },
+    {
+      "album": {
+        "name": "Celebrando 40 Anos Con Los Grandes",
+        "url": "https://open.spotify.com/album/4e7nkQeq9HK90viFoAKJG5"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197360,
+      "name": "Prieta Consentida",
+      "url": "https://open.spotify.com/track/3qitfywmnN1uAaD86mRPJs"
     },
     {
       "album": {
@@ -1539,6 +1558,36 @@
       "duration_ms": 148680,
       "name": "Si Me Vas A Dejar",
       "url": "https://open.spotify.com/track/2b10msu5ZMtRJTsuNaCjWv"
+    },
+    {
+      "album": {
+        "name": "Somebodyz",
+        "url": "https://open.spotify.com/album/4TyiVN0uGAl3dqhkhQSnA0"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        },
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 196042,
+      "name": "Somebodyz",
+      "url": "https://open.spotify.com/track/7yNVL3HRGUSJD2QXjZ4JxP"
     },
     {
       "album": {
@@ -1740,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "Vete Con \u00c9l",
+        "url": "https://open.spotify.com/album/6z3bp5QfUzrv0UBwZczWrZ"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Vete Con \u00c9l",
+      "url": "https://open.spotify.com/track/3wb0nxCJhqLld4338jCLiB"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos Con Sax, Vol. 2",
         "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
       },
@@ -1777,7 +1848,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 132217,
       "name": "Z07",
       "url": "https://open.spotify.com/track/6OxIrIU3dQ0GXNSczy92Dc"

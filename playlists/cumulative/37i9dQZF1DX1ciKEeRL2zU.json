@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-22",
   "description": "Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.",
   "name": "Love Back",
-  "published_playlist_ids": [
-    "4z4liMLXSt1JHB0mmnGsSi"
-  ],
   "tracks": [
     {
       "album": {
@@ -799,7 +796,7 @@
     {
       "album": {
         "name": "Naninina",
-        "url": "https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9"
+        "url": "https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk"
       },
       "artists": [
         {
@@ -810,6 +807,24 @@
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 254453,
+      "name": "Ndikuthandile",
+      "url": "https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz"
+    },
+    {
+      "album": {
+        "name": "Naninina",
+        "url": "https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
       "duration_ms": 254466,
       "name": "Ndikuthandile",
       "url": "https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G"
@@ -852,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Manyan-nyan",
+        "url": "https://open.spotify.com/album/4cLXQxAwec5h5NlekHWxxZ"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264560,
+      "name": "Ndizakulinda",
+      "url": "https://open.spotify.com/track/6zyeB1g4X42kfk2oACeBD3"
+    },
+    {
+      "album": {
         "name": "Manyan-Nyan",
         "url": "https://open.spotify.com/album/2MTklyV4R4mB2MY4KdsoZY"
       },
@@ -863,7 +896,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 265110,
       "name": "Ndizakulinda",
       "url": "https://open.spotify.com/track/0ye4dGTsrYGgextieTRILC"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "<a href=\"spotify:artist:0XfQBWgzisaS9ltDV9bXAS\">Honey Dijon</a>'s favorite tracks. Updated regularly. Curated by Honey Dijon. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Honey Dijon's track IDs",
-  "published_playlist_ids": [
-    "26pgehX1ipT0qyKlAqJXDp"
-  ],
   "tracks": [
     {
       "album": {
@@ -1304,6 +1301,50 @@
     },
     {
       "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213358,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/2Nt5P7S3Fb5UfWentBaDS1"
+    },
+    {
+      "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "It's Quiet Now (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
+    },
+    {
+      "album": {
         "name": "It's What We Live, It's What We Are",
         "url": "https://open.spotify.com/album/1XXdIzAfbIvaXR09NAs6ey"
       },
@@ -1544,6 +1585,28 @@
     },
     {
       "album": {
+        "name": "Black Girl Magic",
+        "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193859,
+      "name": "Love Is A State Of Mind (feat. Ramona Renea)",
+      "url": "https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL"
+    },
+    {
+      "album": {
         "name": "Love Is A State Of Mind (feat. Ramona Renea)",
         "url": "https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta"
       },
@@ -1747,6 +1810,28 @@
       "duration_ms": 374308,
       "name": "Not About You (feat. Hadiya George) - KDA 'Legacy' Extended Remix",
       "url": "https://open.spotify.com/track/3E3i9HPozXn5JS0yw6AJJR"
+    },
+    {
+      "album": {
+        "name": "Nothing Without You",
+        "url": "https://open.spotify.com/album/6x05aytiXJutRJCI3V8kH8"
+      },
+      "artists": [
+        {
+          "name": "GIDE\u00d6N",
+          "url": "https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5"
+        },
+        {
+          "name": "Mandel Turner",
+          "url": "https://open.spotify.com/artist/2oF8BMcZCAnRmMwrwVBm7R"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389996,
+      "name": "Nothing Without You",
+      "url": "https://open.spotify.com/track/4HCjWPVlBQNVor12xzptGm"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "It's just us\u2014and this awesome alt soundtrack.",
   "name": "You & Me",
-  "published_playlist_ids": [
-    "2Ni00bI0Uwu2mjVXmNScYr"
-  ],
   "tracks": [
     {
       "album": {
@@ -1121,7 +1118,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 180213,
       "name": "Free Animal",
       "url": "https://open.spotify.com/track/5nQvUs9YQeg3vshSzydlRw"
@@ -1139,7 +1136,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 180213,
       "name": "Free Animal",
       "url": "https://open.spotify.com/track/6pnD89Q888HUHhcwQUTky8"
@@ -1197,10 +1194,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 164138,
       "name": "FUNERAL GREY",
       "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
+    },
+    {
+      "album": {
+        "name": "REAL SUPER DARK",
+        "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs"
     },
     {
       "album": {
@@ -1449,7 +1464,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
@@ -1471,6 +1486,24 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
+    },
+    {
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "album": {
@@ -1523,7 +1556,7 @@
       "date_added_asterisk": true,
       "date_removed": null,
       "duration_ms": 237560,
-      "name": "Honest",
+      "name": "Honest - From The Amazing Spider-Man 2 Soundtrack",
       "url": "https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf"
     },
     {
@@ -1575,7 +1608,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 274226,
       "name": "I Found",
       "url": "https://open.spotify.com/track/4lRuRtvftdSSUA7hLP7zAr"
@@ -3070,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270483,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
+    },
+    {
+      "album": {
         "name": "Stars Are on Your Side",
         "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },
@@ -3787,10 +3838,28 @@
       ],
       "date_added": "2020-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 235266,
       "name": "Youuu",
       "url": "https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235266,
+      "name": "Youuu",
+      "url": "https://open.spotify.com/track/1JsVSz41mZAl02GXUApmGp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6mvEU1S6INL"

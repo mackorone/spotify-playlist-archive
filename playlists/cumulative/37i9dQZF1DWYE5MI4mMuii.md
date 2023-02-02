@@ -4,7 +4,7 @@
 
 > Time to put on your best dancing shoes \- the jukebox is on!
 
-81 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/5IBuC0AHNldOgHOCTRII87)
+81 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

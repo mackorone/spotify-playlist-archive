@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,351 likes - 71 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,049 likes - 71 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 33 | [Living In A Burning House](https://open.spotify.com/track/0dXY4cKAKXZ74B41vclGlu) | [Selwyn Birchwood](https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD) | [Living In A Burning House](https://open.spotify.com/album/0iZ7zjxkdJVCaImg2EJZzB) | 4:08 |
 | 34 | [Going Up](https://open.spotify.com/track/784KWAUgpgpzWnwaCQzi5k) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Mindcontrol](https://open.spotify.com/album/2wtFYPfuLvIZmSeu9ohh7t) | 3:07 |
 | 35 | [Fading Away](https://open.spotify.com/track/7FpFxqvwMMR4j1Yi1vndpK) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Fading Away](https://open.spotify.com/album/4rbAfXhaS3CKaDGSfaK9Jb) | 3:44 |
-| 36 | [Made Man](https://open.spotify.com/track/6BklMtRiRy8BjeK9Lf1krs) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Made Man](https://open.spotify.com/album/7ydPuN7qQGp1G9eYoFMGpK) | 3:29 |
+| 36 | [Made Man](https://open.spotify.com/track/6yc6bMZVPQHR06a8H1WOmG) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Wanted](https://open.spotify.com/album/7BoDAUUVu2xqWTyYVkDG9m) | 3:29 |
 | 37 | [T.C.B\. or T.Y.A.](https://open.spotify.com/track/0bpdYlt8oPbGeBZb3gDdZk) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Nobody's Fault But Mine](https://open.spotify.com/album/6Ft9rsJU1EN1tKUcjOFCaC) | 3:38 |
 | 38 | [Groove With Me](https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 4:01 |
 | 39 | [Lives That Don't Exist](https://open.spotify.com/track/0X4vLevfEeJIgjVpKedbgK) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Blind for Love](https://open.spotify.com/album/6l5J6OqjFMWGhv9132gs83) | 3:55 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 70 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
 | 71 | [In Time](https://open.spotify.com/track/4BVmZWmdjlmJTRBPfiGbjB) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 7:02 |
 
-Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMGQxOWNmZGU2MzM0NDJlMzgwODFkOWFkYjE0NDA0ZWU0`
+Snapshot ID: `MTY2OTM1MjQwMCwwMDAwMDAwMDRiZDA0YWIwYzU0YWM1NGM0YzlmNGE5ZjhjZDFjZWFm`

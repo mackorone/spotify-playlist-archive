@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-13",
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
   "name": "Mexican Party Anthems",
-  "published_playlist_ids": [
-    "1Hm9a0lVPB1DfYDmLo3qLD"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 121026,
       "name": "Arrem\u00e1ngala Arremp\u00fajala",
       "url": "https://open.spotify.com/track/16RyGCJmiM2GPdTuikdEkM"
@@ -204,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+    },
+    {
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -219,6 +238,24 @@
       "duration_ms": 187524,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
     },
     {
       "album": {
@@ -612,6 +649,24 @@
     },
     {
       "album": {
+        "name": "El Muchacho Alegre",
+        "url": "https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156322,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/1vWFjySESZSYWZ8GCwGGWt"
+    },
+    {
+      "album": {
         "name": "Lo Nuevo + Lo Mejor",
         "url": "https://open.spotify.com/album/2PCDqxOuXKxyWsxqu6VgJz"
       },
@@ -821,7 +876,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 202200,
       "name": "El Wiri Wiri Aka El Guiri Guiri",
       "url": "https://open.spotify.com/track/1fYwFiuLGzGuXRiwvHqqjl"
@@ -931,7 +986,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 190800,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
@@ -949,7 +1004,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 190800,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/7Eo1JOdPvYYZqveKzXh8pN"
@@ -1129,7 +1184,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-28",
       "duration_ms": 193306,
       "name": "La Jaiba",
       "url": "https://open.spotify.com/track/0BQ7uJTvZDZxH4k7cwrSQ1"
@@ -1147,7 +1202,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 151586,
       "name": "La Leona y el Mandil\u00f3n",
       "url": "https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH"
@@ -1475,7 +1530,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 235146,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/4b07ImFm5cxW7gx05lFWqG"
@@ -1515,7 +1570,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216986,
       "name": "Mis Sentimientos",
       "url": "https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p"
@@ -1551,7 +1606,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2022-12-08",
       "duration_ms": 205093,
       "name": "Na Na Na (Dulce Ni\u00f1a)",
       "url": "https://open.spotify.com/track/6M870HixVgIS4VTudBHcz8"
@@ -1612,6 +1667,42 @@
     },
     {
       "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
+    },
+    {
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -1667,7 +1758,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
@@ -1786,6 +1877,28 @@
     },
     {
       "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
         "name": "Tengo Una Illusi\u00f3n",
         "url": "https://open.spotify.com/album/3hbjT0ctHBW6BxZLcysm7m"
       },
@@ -1797,7 +1910,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 168253,
       "name": "Qu\u00e9 Bonita",
       "url": "https://open.spotify.com/track/6uJ0y1FoiRjVUpCPGdsydA"

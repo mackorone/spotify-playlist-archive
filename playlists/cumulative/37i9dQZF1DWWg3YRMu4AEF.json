@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Feel on top of the world with these uplifting anthems of the 70s.",
   "name": "Good Feeling 70s",
-  "published_playlist_ids": [
-    "2dx0vSRjUrUfJCJ8y5zgga"
-  ],
   "tracks": [
     {
       "album": {
@@ -1006,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Sheer Heart Attack (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
+    },
+    {
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -1143,7 +1158,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-16",
       "duration_ms": 212306,
       "name": "Livin' Thing",
       "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
@@ -1417,7 +1432,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-25",
       "duration_ms": 214080,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
@@ -1817,7 +1832,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
@@ -2045,7 +2060,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -2056,6 +2071,24 @@
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
@@ -2134,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+    },
+    {
+      "album": {
         "name": "The Essential",
         "url": "https://open.spotify.com/album/3OWloNx2gY95VXXpotMvky"
       },
@@ -2181,7 +2232,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 178200,
       "name": "You Are The Sunshine Of My Life",
       "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"

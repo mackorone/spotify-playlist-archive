@@ -2,9 +2,9 @@
 
 ### [70s Soft Rock](https://open.spotify.com/playlist/37i9dQZF1DX50zbPdCCGia)
 
-> The best soft rock from the 1970s.
+> The best soft rock from the 1970s\. Cover: Styx
 
-171 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/1IgZ8KwdjzVpSHJdp9dx2F)
+172 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,10 +97,11 @@
 | [Mull Of Kintyre](https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings Greatest](https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5) | 4:46 | 2021-11-23 |  |
 | [My Love \- 2018 Remaster](https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Red Rose Speedway](https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD) | 4:07 | 2021-11-23 |  |
 | [My Own Space](https://open.spotify.com/track/6trxmIB7QC2eQqWMMLgFrJ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 3:04 | 2021-11-23 | 2022-11-13 |
-| [Name Of The Game \- Remastered 2010](https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 5:21 | 2021-11-23 |  |
+| [Name Of The Game \- Remastered 2010](https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [Straight Up \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/0BWOueFZKxQrQWNRt20Lvc) | 5:21 | 2021-11-23 | 2023-02-01 |
 | [New Age \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/5HsAR5wajzn4JideTD4SXs) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 5:10 | 2021-11-23 | 2022-07-27 |
 | [New Kid in Town \- 2013 Remaster](https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 5:04 | 2021-11-23 |  |
 | [Oh! Sweet Nuthin' \- 2015 Remaster](https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 7:25 | 2021-11-23 |  |
+| [Old Man](https://open.spotify.com/track/1geuctUKhvAydlkc0xzMTp) | [Lucixn](https://open.spotify.com/artist/7jyXXQEyXVGDYKQ85Es2Er), [imnotege](https://open.spotify.com/artist/7pySAy9Rry78aefhmoQy0s) | [Old Man](https://open.spotify.com/album/1dirmucBUgOm45ld0yDY6u) | 3:22 | 2023-01-18 |  |
 | [Old Man \- 2009 Remaster](https://open.spotify.com/track/16XeptMdlJTWWeIrwEAOvv) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:22 | 2021-11-23 | 2022-07-21 |
 | [One of These Nights \- 2013 Remaster](https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:51 | 2021-11-23 |  |
 | [Our House](https://open.spotify.com/track/6ofrP1AqJbDg5T3NKxcKlG) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN 2012](https://open.spotify.com/album/1gKLKKS7zYJJsV0pF1R2f9) | 3:46 | 2022-07-05 |  |

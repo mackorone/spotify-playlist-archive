@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
   "name": "Contemporary Folk",
-  "published_playlist_ids": [
-    "79ANrvDhADPfS6kpFqiqNP"
-  ],
   "tracks": [
     {
       "album": {
@@ -1555,6 +1552,24 @@
     {
       "album": {
         "name": "Woman in Color",
+        "url": "https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg"
+      },
+      "artists": [
+        {
+          "name": "Raye Zaragoza",
+          "url": "https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207840,
+      "name": "He Calls Me River",
+      "url": "https://open.spotify.com/track/1Sq7OyYJTqTM15QhjrJxIg"
+    },
+    {
+      "album": {
+        "name": "Woman in Color",
         "url": "https://open.spotify.com/album/7pPR3wabtIfX0k3qN8uGeY"
       },
       "artists": [
@@ -1709,7 +1724,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 184826,
       "name": "History Repeats",
       "url": "https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7"
@@ -2029,6 +2044,24 @@
       "duration_ms": 236394,
       "name": "In the Kingdom of Dreams",
       "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
+    },
+    {
+      "album": {
+        "name": "The Eternal Rocks Beneath",
+        "url": "https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS"
+      },
+      "artists": [
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 254633,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/4dEShdbZOn5qXWXQbUyGh9"
     },
     {
       "album": {
@@ -2371,7 +2404,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 245693,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
@@ -2967,7 +3000,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 282586,
       "name": "Quasheba, Quasheba",
       "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
@@ -2985,7 +3018,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-07",
       "duration_ms": 276576,
       "name": "Queen Jane Approximately",
       "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
@@ -3255,7 +3288,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 187186,
       "name": "Stuck In The South",
       "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
@@ -3399,7 +3432,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-05",
       "duration_ms": 235146,
       "name": "The Capitalist Blues",
       "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
@@ -4019,7 +4052,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 306213,
       "name": "Walk Into a Storm",
       "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"

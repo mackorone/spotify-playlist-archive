@@ -4,7 +4,7 @@
 
 > Get ready for dinner with some upbeat, funky and cooking Jazz.
 
-178 songs - 19 hr 2 min - [published](https://open.spotify.com/playlist/6BjwyoA9Lay57oVZdsqp91)
+178 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

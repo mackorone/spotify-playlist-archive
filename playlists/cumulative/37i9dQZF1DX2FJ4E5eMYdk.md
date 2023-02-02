@@ -4,7 +4,7 @@
 
 > groovy.
 
-118 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/3pt2XHEmoAsRNo2qzVm6m5)
+119 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Eno Nothing](https://open.spotify.com/track/3ty4wwRjK57Mfdbf5xTqUA) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco) | [ism](https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU) | 3:36 | 2022-07-22 |  |
 | [Far out Feeling](https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21) | 3:38 | 2022-07-22 |  |
 | [Far Out Feeling](https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5D062RPrAS76knCMha1xCw) | 3:39 | 2021-10-08 | 2022-07-29 |
-| [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 | 2022-09-02 |  |
+| [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 | 2022-09-02 | 2022-12-04 |
 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 | 2021-10-08 |  |
 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 | 2021-10-08 |  |
 | [Goodbye Summer](https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5) | [Shannon Shaw](https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq) | [Shannon In Nashville](https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt) | 2:43 | 2021-10-08 |  |
@@ -41,10 +41,10 @@
 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 | 2021-10-08 |  |
 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 | 2021-10-08 | 2022-09-05 |
 | [Hey Man](https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY) | 3:56 | 2021-10-08 | 2022-07-29 |
-| [Hey Man](https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:56 | 2022-07-22 | 2022-11-13 |
+| [Hey Man](https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:56 | 2022-07-22 | 2023-02-01 |
 | [Hippo](https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 2:20 | 2022-07-22 |  |
 | [Hippo](https://open.spotify.com/track/62ik4X7W26bB7X9JtJcTjY) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Hippo](https://open.spotify.com/album/1w2SKr8HERIcQbsP3kWEUB) | 2:20 | 2022-04-15 | 2022-07-27 |
-| [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 | 2021-10-08 | 2022-11-13 |
+| [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 | 2021-10-08 |  |
 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:11 | 2022-09-02 |  |
 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 | 2022-09-02 | 2022-11-13 |
 | [Island Time](https://open.spotify.com/track/453gfGTfhbbOGXVaaNVrPo) | [Jamtown](https://open.spotify.com/artist/32eTdkXPNVrfPShFVWZu1N) | [Island Time](https://open.spotify.com/album/0ILY6L8LhDDnmfctnXdwjj) | 3:55 | 2021-10-08 | 2022-04-21 |
@@ -118,7 +118,8 @@
 | [The Roundabout](https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8) | 4:41 | 2021-10-08 | 2022-07-29 |
 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 | 2021-10-08 |  |
 | [Trust Me](https://open.spotify.com/track/0pvrCp6dJ07yIqv10yGzT7) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/17zWsw6bRbky5USG6OeO08) | 3:41 | 2022-04-15 | 2022-10-22 |
-| [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 | 2022-10-21 |  |
+| [Trust Me](https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Trust Me](https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq) | 3:41 | 2022-07-22 |  |
+| [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 | 2022-10-21 | 2023-01-06 |
 | [Waiting for an Invitation](https://open.spotify.com/track/71yh7sKS2R54c3qcGuRv2j) | [Benji Hughes](https://open.spotify.com/artist/1w4UUVXVsk63VT2vTwx1e1) | [A Love Extreme](https://open.spotify.com/album/2zQGpwdvHqZhw2BguUqb18) | 4:15 | 2022-04-15 |  |
 | [Washed Out](https://open.spotify.com/track/3tPJ5lnVg2dT3NqGCoOnOX) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Íkaros](https://open.spotify.com/album/1Te304pis78wXeMCIawVuz) | 4:44 | 2022-07-22 | 2022-11-12 |
 | [Washed Out](https://open.spotify.com/track/6eRWiC37qNFG4p3IsLrst6) | [Timberwolf](https://open.spotify.com/artist/1EOuZ9k42Xpo2pGtpv986O) | [Íkaros](https://open.spotify.com/album/67M0ktUMgHOrZqDVdZLOfl) | 4:44 | 2021-10-08 | 2022-04-21 |

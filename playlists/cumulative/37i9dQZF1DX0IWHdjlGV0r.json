@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Certi amori bruciano di pi\u00f9. Cover: Luch\u00e8",
+  "description": "Certi amori bruciano di pi\u00f9. Cover: Neima Ezza",
   "name": "Arsenico",
-  "published_playlist_ids": [
-    "0ub8fLPq50x7iJHKg2Rrfv"
-  ],
   "tracks": [
     {
       "album": {
@@ -219,7 +216,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 176166,
       "name": "Barcellona",
       "url": "https://open.spotify.com/track/51zuoAf9f1DNTVmBJHVErg"
@@ -355,6 +352,24 @@
     {
       "album": {
         "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220299,
+      "name": "BUONANOTTE",
+      "url": "https://open.spotify.com/track/5MNHrahj1qZFjh46GZmqLT"
+    },
+    {
+      "album": {
+        "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
       },
       "artists": [
@@ -365,7 +380,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 220299,
       "name": "BUONANOTTE",
       "url": "https://open.spotify.com/track/6QgnT0tFcEWqzAO6GrYvff"
@@ -387,7 +402,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 189108,
       "name": "Caff\u00e8",
       "url": "https://open.spotify.com/track/4V5gmy8imyB0TJwdIYuGRv"
@@ -581,7 +596,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 184525,
       "name": "COLPA TUA \u2af7\u2af8 (con VENERUS & GU\u00c8 PEQUENO)",
       "url": "https://open.spotify.com/track/3ILta8SPlsWdOueRYzc5mL"
@@ -799,7 +814,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 182377,
       "name": "FINCH\u00c9 FA GIORNO",
       "url": "https://open.spotify.com/track/5yYsbDBAflTr31aksx8BHS"
@@ -947,10 +962,28 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 198519,
       "name": "IL MIO NOME",
       "url": "https://open.spotify.com/track/4dpWBKuNFd3W4pJCgD3kCD"
+    },
+    {
+      "album": {
+        "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198519,
+      "name": "IL MIO NOME",
+      "url": "https://open.spotify.com/track/50BtIqilFzXVUMVC6ddTDa"
     },
     {
       "album": {
@@ -1202,6 +1235,32 @@
     },
     {
       "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165216,
+      "name": "MONDAY (feat. Shiva & Michelangelo)",
+      "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
+    },
+    {
+      "album": {
         "name": "MUJER",
         "url": "https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV"
       },
@@ -1235,6 +1294,28 @@
       "duration_ms": 161739,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/6LHw9ZjMZ2VGW2AbSABBO4"
+    },
+    {
+      "album": {
+        "name": "Nessuno",
+        "url": "https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187624,
+      "name": "Nessuno",
+      "url": "https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D"
     },
     {
       "album": {
@@ -1355,6 +1436,24 @@
       "duration_ms": 192786,
       "name": "Non Fare Cos\u00ec",
       "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
+    },
+    {
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228454,
+      "name": "Non lo Sai",
+      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
     },
     {
       "album": {
@@ -2033,6 +2132,28 @@
       "duration_ms": 185426,
       "name": "Vogl Sul A Te",
       "url": "https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215421,
+      "name": "X CASO (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
     },
     {
       "album": {

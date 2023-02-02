@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,213 likes - 71 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,347 likes - 71 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 49 | [Uniform](https://open.spotify.com/track/6wm7NdzAaNA4KxgM0Em3w7) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [Ancestor Boy](https://open.spotify.com/album/3TJytf0pGdE091GmE0z4Rc) | 3:14 |
 | 50 | [Tulpar](https://open.spotify.com/track/1vdlZbL65vnKLxCxiafNHx) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Tulpar](https://open.spotify.com/album/0cxD4j3Zp1Q0wSZnPIBgO2) | 3:25 |
 | 51 | [The Archer](https://open.spotify.com/track/0uugjx8o1PE42p11EJTpvJ) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz) | 6:01 |
-| 52 | [Love Birds \(acoustic\) \- WXAXRXP Session](https://open.spotify.com/track/2mpxwkwJKrTCTpWLxetAJn) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [WXAXRXP Session](https://open.spotify.com/album/33aX0rd6cQXvAggwL52puW) | 4:31 |
+| 52 | [Love Birds \(acoustic\) \- WXAXRXP Session](https://open.spotify.com/track/5HHUcRqLOs9OkTf4qNX6lF) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [WXAXRXP Session](https://open.spotify.com/album/3t9hFz7sq6MnhtTVceRB8R) | 4:31 |
 | 53 | [Anxiety](https://open.spotify.com/track/55EUSGKBeZSHmy53mRKk2k) | [Leila Samir](https://open.spotify.com/artist/3SEWWBoysH0FKZ7KROMAaG) | [No Music](https://open.spotify.com/album/7v3Pl4Bak76OUNIQdwTe0Q) | 4:16 |
 | 54 | [TILT \- Single Edit](https://open.spotify.com/track/3Y7Y2OBvupVBPBUDU0FaFC) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [Young Paint](https://open.spotify.com/artist/2fhkMDN3asvYcvkWTh8x0w) | [TILT](https://open.spotify.com/album/0dTcjoXoUdeFlXZgWLqd6E) | 3:08 |
 | 55 | [Ribbon on Neck](https://open.spotify.com/track/6FFfmSXIbCzSCQ5xcprsuG) | [Karen Gwyer](https://open.spotify.com/artist/7CIkQIdBUVT7ppXHLSbK3U) | [Man on Mountain](https://open.spotify.com/album/2vL3mxzjEAr1I0mADmOBOq) | 6:20 |
 | 56 | [Cricoid Pressure](https://open.spotify.com/track/1vOjYbRYc77mh6L6berVuG) | [Rrose](https://open.spotify.com/artist/5naKaYAyzzuPDsh4H2dwyT) | [DJ\-Kicks EP](https://open.spotify.com/album/4qwvX4iedw4JeIcTtiHUCw) | 8:15 |
 | 57 | [Milky Eye](https://open.spotify.com/track/74uxGYW8I4rppX9SZOFTem) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1) | [Angel Lust](https://open.spotify.com/album/03MYXgLR6BVHjI2CC6wO78) | 2:56 |
-| 58 | [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/track/2eK9fQF84eSw3DqJ7LbPOQ) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/album/3JEIiy4nCsXBudx1QZevuC) | 4:26 |
+| 58 | [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/track/4qYshoEFhmPtEHBYX3n9xp) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/album/2wm5AfDrhMn9IlDfhJWQP5) | 4:26 |
 | 59 | [And The Flower Have Time For Me](https://open.spotify.com/track/79esiu48acT9OaALUpQfWG) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we), [Jefre Cantu\-Ledesma](https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5) | [Limpid As The Solitudes](https://open.spotify.com/album/45iHfoJPEQlkqAwDGRMANF) | 5:42 |
 | 60 | [False Ceiling](https://open.spotify.com/track/0JYSWjXkSV8D1pDmcP7XOQ) | [Laila Sakini](https://open.spotify.com/artist/4oPgOwhDzwOWUOvfR8qPm1), [Lucy Van](https://open.spotify.com/artist/0jouS9J0IuJ4gbwEyr9WMM) | [Figures](https://open.spotify.com/album/6m2mpZaKC4qdo3IFvZby8m) | 5:40 |
 | 61 | [San José ll](https://open.spotify.com/track/7Jv4PZ07MgwQGXJtU0hRe9) | [Niño Árbol](https://open.spotify.com/artist/5m0sadWkszdehCnCpa2HYI) | [María, San José](https://open.spotify.com/album/6LGEDIGbrB7UuHMs7HLJgQ) | 5:54 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 70 | [Hyphae](https://open.spotify.com/track/1P2vvqWQ36gkiUoxrY9z74) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Hyphae](https://open.spotify.com/album/3Y2DIQoC2UeA1oSr1vhTbF) | 6:27 |
 | 71 | [Teta 7hz \(Tool\) \[feat\. DeForrest Brown Jr.\]](https://open.spotify.com/track/3nHU4KLvIBXCSfcrKmaJZW) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:33 |
 
-Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMGZmNjI5ODhiY2Q5MDQ1M2JmY2UxZjQxNGExZGE0MDli`
+Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMDgzYjgxMWVkNzlhMzY1ZDA3MzBiNTg5ZTI3MTAyZjJh`

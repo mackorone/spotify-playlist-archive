@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-31",
   "description": "The official playlist for MO. Watch now on Netflix!",
   "name": "MO Official Playlist",
-  "published_playlist_ids": [
-    "1f4S79Lov5epDz7pHsaAok"
-  ],
   "tracks": [
     {
       "album": {
@@ -803,10 +800,28 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 138000,
       "name": "Riding Down South",
       "url": "https://open.spotify.com/track/1dJzejhJpke1MFD5zpb1eN"
+    },
+    {
+      "album": {
+        "name": "Southern Hip Hop",
+        "url": "https://open.spotify.com/album/0XQgQqBsdnKOndpv6Mqj49"
+      },
+      "artists": [
+        {
+          "name": "Oilver Grey",
+          "url": "https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Riding Down South",
+      "url": "https://open.spotify.com/track/5CEUbWgQVtvAIBKjVDXQNQ"
     },
     {
       "album": {

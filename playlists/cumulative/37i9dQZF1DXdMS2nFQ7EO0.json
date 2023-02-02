@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.",
   "name": "Las Vegas Pool Party",
-  "published_playlist_ids": [
-    "1ZF0pbGIatnjdQmWjkzz9Q"
-  ],
   "tracks": [
     {
       "album": {
@@ -159,6 +156,28 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246061,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
     },
     {
       "album": {
@@ -712,6 +731,36 @@
     },
     {
       "album": {
+        "name": "Escape (Remixes)",
+        "url": "https://open.spotify.com/album/696LM3H0xsPyx0PrFEPEUo"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 240445,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6t8oosZU0hFD847n53vinc"
+    },
+    {
+      "album": {
         "name": "Escape (feat. Hayla)",
         "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
       },
@@ -735,10 +784,40 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
+      "album": {
+        "name": "Escape (feat. Hayla)",
+        "url": "https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH"
     },
     {
       "album": {
@@ -985,6 +1064,28 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "album": {
+        "name": "Hombres y Mujeres",
+        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148644,
+      "name": "Hombres y Mujeres",
+      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
     },
     {
       "album": {
@@ -1455,7 +1556,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158095,
-      "name": "Love Tonight - David Guetta Remix Edit",
+      "name": "Love Tonight (David Guetta Remix Edit)",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
     },
     {
@@ -2214,6 +2315,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232498,
+      "name": "Qu\u00e9date - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
+    },
+    {
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -2484,6 +2607,32 @@
     },
     {
       "album": {
+        "name": "Si Es Trucho Es Trucho (feat. Farruko & El Alfa) [Remix]",
+        "url": "https://open.spotify.com/album/59639HF0Gv2YA57xkJ28NC"
+      },
+      "artists": [
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213785,
+      "name": "Si Es Trucho Es Trucho (feat. Farruko & El Alfa) - Remix",
+      "url": "https://open.spotify.com/track/79TmKWcU3YfyqkmE34pCRr"
+    },
+    {
+      "album": {
         "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) [Remix]",
         "url": "https://open.spotify.com/album/2V3oEJWhKr8oYA9VwvPCPX"
       },
@@ -2503,7 +2652,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 213785,
       "name": "Si Es Trucho Es Trucho (feat. Farruko and El Alfa) - Remix",
       "url": "https://open.spotify.com/track/3pvalQEg29xTyQk1eqWtVJ"

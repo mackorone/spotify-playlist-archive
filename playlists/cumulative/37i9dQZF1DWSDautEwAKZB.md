@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Latin](https://open.spotify.com/playlist/37i9dQZF1DWSDautEwAKZB)
 
-> Latin superstars like you've never heard before\. Cover: LUMILLA
+> Latin superstars like you've never heard before\. Cover: Kevin Kaarl
 
-70 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/5TwbIYs6Yq7MRkumDdjTE9)
+70 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

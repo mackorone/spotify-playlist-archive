@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24HEIuw8etbkitpDCxZ1dQ.md) - [plain]
 
 > A playlist with songs from the best reviewed albums in Sweden 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,587 likes - 61 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,585 likes - 61 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

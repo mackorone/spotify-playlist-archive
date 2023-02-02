@@ -4,7 +4,7 @@
 
 > Music from "Symphogear"! /アニメ「戦姫絶唱シンフォギア」の楽曲を1つのプレイリストで。Ⓒproject シンフォギアXV
 
-58 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/1KjOcTBVr824LaVF6eI116)
+58 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

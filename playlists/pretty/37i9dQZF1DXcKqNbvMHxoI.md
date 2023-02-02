@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,985 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,183 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 | 74 | [JOY \(Warm Bullet\)](https://open.spotify.com/track/651ISDzJhS2cIYtXlHiMXl) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Fred](https://open.spotify.com/artist/3oHPPysnsyCHI6qEIiWDSK) | [JOY \(journal.30.03.2020\)](https://open.spotify.com/album/61RjvAdIxRfGijHvmVRgb7) | 4:20 |
 | 75 | [05:10 AM / DREAM I NEVER HAD](https://open.spotify.com/track/57rsP9XufjzYaw7yG01XAB) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [FRIDAY FOREVER](https://open.spotify.com/album/5i9U5MGjNDeP5wQxZNTOw6) | 4:38 |
 | 76 | [Carlos \(make it thru\)](https://open.spotify.com/track/4pok08MvDsJzOM6kMpWHmc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:23 |
-| 77 | [2005 NYE](https://open.spotify.com/track/6ezV370O6dVoAf9DtRK4X9) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/4PPA1thVaDI5MUuRqmNTR9) | 4:47 |
+| 77 | [2005 NYE](https://open.spotify.com/track/1rzH1WxcHyLEyBuErJQVO0) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/1Epdx4Nl1hobUOEnIXGHVl) | 4:47 |
 | 78 | [Ur <3](https://open.spotify.com/track/6BSxcPX8hKm6O4ZLsKw9qS) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Rose, Vol\. 2](https://open.spotify.com/album/4ykOmXue0lJlEcirTef37v) | 3:43 |
 | 79 | [Little Girl](https://open.spotify.com/track/6MWW1R6QcvgZOJ27ANqb9j) | [Rafau Etamski](https://open.spotify.com/artist/7crMfuf5neUYzmwwklDPCO) | [Little Girl](https://open.spotify.com/album/3vwyoOkfnsK1cr4kIknmnz) | 4:12 |
 | 80 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 
-Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMGQzMDRjZTI4NTc2MDY0MGU4NjY1ZjliOWM1NmJlNGUy`
+Snapshot ID: `MTY1ODg1NzYyOCwwMDAwMDAwMGJmZjEyZGNkODBlNzY2NTFlYzkyY2Q5Mzc5NjczNzVi`

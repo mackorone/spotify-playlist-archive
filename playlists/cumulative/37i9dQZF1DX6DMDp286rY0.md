@@ -4,7 +4,7 @@
 
 > Iconic South Asian women artists through the decades by Brown Girl Mag\. Cover: Arooj Aftab
 
-62 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2bct1KnJY9BqTmsSmY4vN4)
+62 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

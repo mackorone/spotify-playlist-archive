@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A ponerse a tono con los mejores cumbiones. Foto: Armon\u00eda 10",
+  "description": "A ponerse a tono con los mejores cumbiones. Foto: Hnos Yaipen",
   "name": "Cumbias de Oro",
-  "published_playlist_ids": [
-    "5GjAZyTyn8IndSL0yMdeQa"
-  ],
   "tracks": [
     {
       "album": {
@@ -135,7 +132,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-21",
       "duration_ms": 238893,
       "name": "Antahuara",
       "url": "https://open.spotify.com/track/1d7eRr7zChFXSv13adTGcv"
@@ -153,7 +150,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 196265,
       "name": "Asesina de Amor",
       "url": "https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m"
@@ -189,7 +186,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-25",
       "duration_ms": 219951,
       "name": "Cambio Mi Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2"
@@ -276,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Con la Mano en el Mo\u00f1o",
+        "url": "https://open.spotify.com/album/1Vi8z8VCPnmMZoQ3nNBvPB"
+      },
+      "artists": [
+        {
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235362,
+      "name": "Con la Mano en el Mo\u00f1o",
+      "url": "https://open.spotify.com/track/3ks8JZI6QpfylogVJnHEgx"
+    },
+    {
+      "album": {
         "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
         "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
       },
@@ -309,7 +324,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 306720,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/7aX99BUihifb3Flv07Dtyb"
@@ -537,6 +552,28 @@
       "duration_ms": 260649,
       "name": "D\u00edas Felices",
       "url": "https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg"
+    },
+    {
+      "album": {
+        "name": "D\u00edgame usted se\u00f1orita",
+        "url": "https://open.spotify.com/album/0AVgpKaGnG95xnZ1MBozW7"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Mesones",
+          "url": "https://open.spotify.com/artist/3rncKt7sH5O1C2xPOyGlze"
+        },
+        {
+          "name": "Kale \u201cLa Evoluci\u00f3n\u201d",
+          "url": "https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223107,
+      "name": "D\u00edgame usted se\u00f1orita",
+      "url": "https://open.spotify.com/track/73uNKhA2TUC93J9mIk7hrZ"
     },
     {
       "album": {
@@ -915,7 +952,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-25",
       "duration_ms": 241319,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d"
@@ -1063,7 +1100,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-11-30",
       "duration_ms": 262440,
       "name": "Me extra\u00f1ar\u00e1s",
       "url": "https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf"
@@ -1604,7 +1641,7 @@
     },
     {
       "album": {
-        "name": "Sin Fronteras!",
+        "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx"
       },
       "artists": [

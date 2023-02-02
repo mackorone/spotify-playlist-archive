@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Centroamérica y el Caribe.
 
-36 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/5PgzLfMAxTbmtecaXhzrPb)
+36 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

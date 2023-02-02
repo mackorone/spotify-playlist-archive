@@ -4,7 +4,7 @@
 
 > David Tennant, Sir Ian McKellen, and other inspired prophets of Shakespeare's histories await...
 
-87 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/5Fl2YkWnX5ynBkLntzeCzU)
+87 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

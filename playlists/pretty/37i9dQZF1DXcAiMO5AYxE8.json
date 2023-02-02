@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 458214,
+  "num_followers": 468256,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGU1N2QzOWJlNDUyN2U2ZThjYmUzNzZhZDM5MjVmNGQ1",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDUyYzEwZTczOThhZjBmZGU2ZTQ1MmIyM2M2MTRhNmNh",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -147,6 +147,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "September",
+      "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Freedom for the Stallion (Expanded Edition)",
         "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 256493,
       "name": "You Should Be Dancing - Edit / From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "September",
-      "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -259,6 +259,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Triumph",
         "url": "https://open.spotify.com/album/5YhOA7OGN6xFPwQznkfe69"
       },
@@ -275,22 +291,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Altogether",
-        "url": "https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS"
-      },
-      "artists": [
-        {
-          "name": "The Nolans",
-          "url": "https://open.spotify.com/artist/2H32fphWQj9hhVuCOKkchM"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "I'm in the Mood for Dancing",
-      "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Nicolette",
         "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
       },
@@ -303,6 +303,22 @@
       "duration_ms": 191773,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Altogether",
+        "url": "https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS"
+      },
+      "artists": [
+        {
+          "name": "The Nolans",
+          "url": "https://open.spotify.com/artist/2H32fphWQj9hhVuCOKkchM"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "I'm in the Mood for Dancing",
+      "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
     },
     {
       "added_at": "2021-07-04 17:34:32",
@@ -339,18 +355,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+        "name": "Destiny (Expanded Version)",
+        "url": "https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
         }
       ],
-      "duration_ms": 339320,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+      "duration_ms": 227261,
+      "name": "Shake Your Body (Down to the Ground) - 7\" Version",
+      "url": "https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -383,38 +399,6 @@
       "duration_ms": 272000,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7"
-    },
-    {
-      "added_at": "2021-07-04 17:34:32",
-      "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 335613,
-      "name": "Only the Strong Survive",
-      "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Destiny (Expanded Version)",
-        "url": "https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 227261,
-      "name": "Shake Your Body (Down to the Ground) - 7\" Version",
-      "url": "https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -469,20 +453,20 @@
       "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
     },
     {
-      "added_at": "2020-04-14 18:41:41",
+      "added_at": "2021-07-04 17:34:32",
       "album": {
-        "name": "The Leif Garrett Collection",
-        "url": "https://open.spotify.com/album/1FWTjROros7lbWXXmHKqJc"
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
       "artists": [
         {
-          "name": "Leif Garrett",
-          "url": "https://open.spotify.com/artist/2MyNAoQL07EABerr6yhoT4"
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 196440,
-      "name": "I Was Made for Dancin'",
-      "url": "https://open.spotify.com/track/3kovBaZ1LGLH1PL31qG7cL"
+      "duration_ms": 335613,
+      "name": "Only the Strong Survive",
+      "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -519,18 +503,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Odyssey (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
+        "name": "The Leif Garrett Collection",
+        "url": "https://open.spotify.com/album/1FWTjROros7lbWXXmHKqJc"
       },
       "artists": [
         {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+          "name": "Leif Garrett",
+          "url": "https://open.spotify.com/artist/2MyNAoQL07EABerr6yhoT4"
         }
       ],
-      "duration_ms": 336466,
-      "name": "Native New Yorker - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+      "duration_ms": 196440,
+      "name": "I Was Made for Dancin'",
+      "url": "https://open.spotify.com/track/3kovBaZ1LGLH1PL31qG7cL"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -567,6 +551,42 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
+      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Odyssey (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 336466,
+      "name": "Native New Yorker - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Winner Takes All",
         "url": "https://open.spotify.com/album/0SVqyFBkvKyaZMRKKftr6z"
       },
@@ -599,26 +619,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
-      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "About Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6"
       },
@@ -647,6 +647,26 @@
       "duration_ms": 275666,
       "name": "Jack and Jill",
       "url": "https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 386426,
+      "name": "Bad Luck (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -697,6 +717,22 @@
       "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
     },
     {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Dream On (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx"
+      },
+      "artists": [
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+        }
+      ],
+      "duration_ms": 312680,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ"
+    },
+    {
       "added_at": "2021-07-04 17:34:32",
       "album": {
         "name": "Time Is Slipping Away",
@@ -719,38 +755,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Dream On (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx"
+        "name": "More Monty",
+        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
       },
       "artists": [
         {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+          "name": "G.Q.",
+          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
         }
       ],
-      "duration_ms": 312680,
-      "name": "Shine On",
-      "url": "https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 386426,
-      "name": "Bad Luck (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
+      "duration_ms": 233266,
+      "name": "Disco Nights (Rock Freak) - Single Remix",
+      "url": "https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -771,22 +787,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "More Monty",
-        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
-      },
-      "artists": [
-        {
-          "name": "G.Q.",
-          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Disco Nights (Rock Freak) - Single Remix",
-      "url": "https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Soultry, Jazzy, & Sexy",
         "url": "https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 322386,
       "name": "Can't Fake the Feeling",
       "url": "https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Best Of MFSB: Love Is The Message",
+        "url": "https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 348333,
+      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees) - \"A Tom Moulton Mix\"",
+      "url": "https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -831,26 +851,6 @@
       "duration_ms": 303280,
       "name": "Stop and Think",
       "url": "https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "The Best Of MFSB: Love Is The Message",
-        "url": "https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S"
-      },
-      "artists": [
-        {
-          "name": "MFSB",
-          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
-        },
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 348333,
-      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees) - \"A Tom Moulton Mix\"",
-      "url": "https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -951,18 +951,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Disco Nights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
+        "name": "The Best Of Patti Austin",
+        "url": "https://open.spotify.com/album/4WlyJSZZrjia1Vx6NOYENO"
       },
       "artists": [
         {
-          "name": "G.Q.",
-          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
         }
       ],
-      "duration_ms": 254880,
-      "name": "Boogie Oogie Oogie",
-      "url": "https://open.spotify.com/track/1kt3FyvHIhZkYBgKjAiroE"
+      "duration_ms": 207226,
+      "name": "(Ooh-Wee) He's Killing Me",
+      "url": "https://open.spotify.com/track/0dEJHQJDmjJEY5rnhlbfyC"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -983,18 +983,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Best Of Patti Austin",
-        "url": "https://open.spotify.com/album/4WlyJSZZrjia1Vx6NOYENO"
+        "name": "Disco Nights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
       },
       "artists": [
         {
-          "name": "Patti Austin",
-          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+          "name": "G.Q.",
+          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
         }
       ],
-      "duration_ms": 207226,
-      "name": "(Ooh-Wee) He's Killing Me",
-      "url": "https://open.spotify.com/track/0dEJHQJDmjJEY5rnhlbfyC"
+      "duration_ms": 254880,
+      "name": "Boogie Oogie Oogie",
+      "url": "https://open.spotify.com/track/1kt3FyvHIhZkYBgKjAiroE"
     },
     {
       "added_at": "2020-04-14 18:41:41",

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/20GjXoOdMhodfDMvSdh6mm\">Jessie Reyez</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Jessie Reyez",
-  "published_playlist_ids": [
-    "2GDbC2D3KKrQLryFm8sE5m"
-  ],
   "tracks": [
     {
       "album": {
@@ -205,10 +202,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 235636,
       "name": "Courtside (feat. Jessie Reyez)",
       "url": "https://open.spotify.com/track/47HZhxG5m2pZpzY54tQKLY"
+    },
+    {
+      "album": {
+        "name": "A Muse In Her Feelings",
+        "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "Courtside (feat. Jessie Reyez)",
+      "url": "https://open.spotify.com/track/4pmlYSxJbwD4wgitas1bKJ"
     },
     {
       "album": {

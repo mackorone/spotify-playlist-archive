@@ -2,32 +2,7 @@
   "date_first_scraped": "2021-12-28",
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
   "name": "Fireside Christmas Jazz",
-  "published_playlist_ids": [
-    "5cNXdJnskmm641e5o7i3nb"
-  ],
   "tracks": [
-    {
-      "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "date_added": "2021-12-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194133,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
-    },
     {
       "album": {
         "name": "Christmas With Sinatra And Friends",
@@ -49,6 +24,28 @@
       "duration_ms": 196440,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/2xoTSMtigVw64fJ9Ff5Tlk"
+    },
+    {
+      "album": {
+        "name": "Together Again (Remastered 2003)",
+        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194133,
+      "name": "A Child Is Born - Remastered 2003",
+      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
     },
     {
       "album": {
@@ -85,6 +82,24 @@
       "duration_ms": 174066,
       "name": "A Song For Christmas",
       "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
+    },
+    {
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241374,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
     },
     {
       "album": {
@@ -255,7 +270,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 177293,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
@@ -909,7 +924,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 121573,
       "name": "Love Is a Christmas Rose",
       "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
@@ -1307,7 +1322,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 166613,
       "name": "Sleighride",
       "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"

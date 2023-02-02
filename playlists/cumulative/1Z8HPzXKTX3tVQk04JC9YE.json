@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "All your favorite tracks from the hottest TV shows, commercials, and movies! Cover: Sofia Carson",
   "name": "As Seen on TV",
-  "published_playlist_ids": [
-    "2cfy7Rm8LVljTMG1lEbl0m"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 280400,
       "name": "(I Just) Died In Your Arms",
       "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
@@ -102,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Applause (From \"Tell It Like a Woman\")",
+        "url": "https://open.spotify.com/album/7tfweNIzqYmP7abrg3SR31"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182016,
+      "name": "Applause - From \"Tell It Like a Woman\"",
+      "url": "https://open.spotify.com/track/4ZlWlBH5FEoFDKgthWtHRl"
+    },
+    {
+      "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
       },
@@ -135,7 +150,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 186653,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/1rqUr01F5kEXJneMBGSwRR"
@@ -229,6 +244,24 @@
       "duration_ms": 266840,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "album": {
@@ -608,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
+    },
+    {
+      "album": {
         "name": "The Works",
         "url": "https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43"
       },
@@ -821,7 +872,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 175733,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/0Ir0Esfpcg0EB6Kq8VbbAh"
@@ -1216,6 +1267,42 @@
     },
     {
       "album": {
+        "name": "Step Up: Season 3, Episode 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/220B7wKU4sCVyN5d4JsLqI"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 191946,
+      "name": "Need You to Know",
+      "url": "https://open.spotify.com/track/5S9Ex4TLHQ5d5mBwzPdd5O"
+    },
+    {
+      "album": {
+        "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267504,
+      "name": "Nothing Is Lost (You Give Me Strength)",
+      "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
+    },
+    {
+      "album": {
         "name": "Meteora",
         "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
@@ -1447,10 +1534,28 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 257226,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
+    },
+    {
+      "album": {
+        "name": "Step Up: Season 3, Episode 9 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/51i1NJjB1kpCJNBSLaJJqk"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/1zPl3KAqFcIOTC9b2hsS3f"
     },
     {
       "album": {
@@ -1887,7 +1992,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 161466,
       "name": "Up Around The Bend",
       "url": "https://open.spotify.com/track/5XPv30nzEZOFS10mKGbtQ7"

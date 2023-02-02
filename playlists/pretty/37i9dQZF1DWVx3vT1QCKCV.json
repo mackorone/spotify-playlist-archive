@@ -1,47 +1,15 @@
 {
   "description": "The jazz giant's classic recordings.",
-  "num_followers": 172396,
+  "num_followers": 175123,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc2ODUxMCwwMDAwMDAwMDYyNDUyZDM4MDM1MWFjMTFiZDEzM2Y1ZDRiOWVjZDQw",
+  "snapshot_id": "MTY3NDEyMjAwNSwwMDAwMDAwMDU1NWNlMzRmODg1MzlhYzUwMzg2ODk3ZjhhNjk4YmVl",
   "tracks": [
     {
-      "added_at": "2022-09-21 13:55:10",
-      "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 462866,
-      "name": "A Love Supreme, Pt. I \u2013 Acknowledgement",
-      "url": "https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd"
-    },
-    {
-      "added_at": "2022-09-21 13:55:10",
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 479023,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
-    },
-    {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
         "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
@@ -57,10 +25,10 @@
       "url": "https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
-        "name": "A Love Supreme, Pt. IV - Psalm (Live In Seattle)",
-        "url": "https://open.spotify.com/album/5vhyzhJXAtm6UbZNlWo5Wa"
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
       },
       "artists": [
         {
@@ -68,28 +36,12 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 399719,
-      "name": "A Love Supreme, Pt. IV - Psalm - Live",
-      "url": "https://open.spotify.com/track/3WUVwdYEPeVyYWjNfCp0KQ"
+      "duration_ms": 643127,
+      "name": "Blue Train",
+      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
-      "album": {
-        "name": "Blue World",
-        "url": "https://open.spotify.com/album/5OdRhr4aotXEXEnH6N2eRv"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 368253,
-      "name": "Blue World",
-      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC"
-    },
-    {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "My Favorite Things (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0"
@@ -105,7 +57,23 @@
       "url": "https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 462866,
+      "name": "A Love Supreme, Pt. I \u2013 Acknowledgement",
+      "url": "https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
@@ -125,7 +93,23 @@
       "url": "https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Coltrane's Sound",
+        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 411293,
+      "name": "The Night Has a Thousand Eyes",
+      "url": "https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Naima",
         "url": "https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD"
@@ -141,7 +125,7 @@
       "url": "https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "A Love Supreme: Live In Seattle",
         "url": "https://open.spotify.com/album/6X4w3XifxQVXdKDgwgD7Wk"
@@ -157,7 +141,7 @@
       "url": "https://open.spotify.com/track/6Rmd7FLjty9bW1hrGUB2Wc"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Both Directions At Once: The Lost Album (Deluxe Version)",
         "url": "https://open.spotify.com/album/0NSRgubfAJoYv2kvVAcRKy"
@@ -173,7 +157,7 @@
       "url": "https://open.spotify.com/track/7aGpjo6SB59tpTiMlD1uvL"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
@@ -189,7 +173,7 @@
       "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Blue Train",
         "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
@@ -205,7 +189,7 @@
       "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
@@ -225,7 +209,7 @@
       "url": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "One Down, One Up: Live At The Half Note",
         "url": "https://open.spotify.com/album/13vOj4n0shZtxuPqrw00iP"
@@ -241,7 +225,7 @@
       "url": "https://open.spotify.com/track/3s4SpgPUXR1mNAwpu8N2GU"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Interplay [Box Set]",
         "url": "https://open.spotify.com/album/1H7bSbmS2OprRnTd4xz0Xy"
@@ -269,7 +253,23 @@
       "url": "https://open.spotify.com/track/7y7M0Qd8r37uhLLScSQUyB"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Coltrane Jazz",
+        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Little Old Lady",
+      "url": "https://open.spotify.com/track/6yEiLheybRkNWSgyp7HyBg"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Both Directions At Once: The Lost Album (Deluxe Version)",
         "url": "https://open.spotify.com/album/0NSRgubfAJoYv2kvVAcRKy"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/1HlfLVWYTIQZOoYOi1LdFy"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/4k4GArOeURhbuSgwxr1K96"
@@ -301,23 +301,7 @@
       "url": "https://open.spotify.com/track/22aNvuEw7GdMarYLfYe6fm"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
-      "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 437840,
-      "name": "A Love Supreme, Pt. II - Resolution",
-      "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
-    },
-    {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Coltrane [Rudy Van Gelder Remaster]",
         "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
@@ -333,7 +317,7 @@
       "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Soultrane",
         "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
@@ -349,7 +333,23 @@
       "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Blue World",
+        "url": "https://open.spotify.com/album/5OdRhr4aotXEXEnH6N2eRv"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 368253,
+      "name": "Blue World",
+      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Ol\u00e9 Coltrane (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5BGkenbuo3xY3CRblRPj8K"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/0Haa5GeQyJJ9SjSqbqcXsT"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW"
@@ -397,7 +397,23 @@
       "url": "https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Coltrane's Sound",
+        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 337133,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/26bnmztmGcY03sO1uWmoTd"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Blue Train",
         "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/3HNhdvVw92awlT3gfqXIxW"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Crescent",
         "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "My Favorite Things (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0"
@@ -445,7 +461,27 @@
       "url": "https://open.spotify.com/track/6yuhA5jlK7gEAIVoJ5WK1f"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 733066,
+      "name": "Tenor Madness - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Coltrane's Sound",
         "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/3m88YPqvxIj4VV0JJKR5FZ"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Impressions",
         "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
@@ -477,7 +513,23 @@
       "url": "https://open.spotify.com/track/2JQqfVJhFnNADUJDDPmw63"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Expression (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2qvrCh2e86ZdDaLOdPfRDH"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 507400,
+      "name": "Offering",
+      "url": "https://open.spotify.com/track/6E8AggcTs1w0AX94N6mLpg"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Naima",
         "url": "https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD"
@@ -493,7 +545,7 @@
       "url": "https://open.spotify.com/track/3m0pro98is58H4UJfDo7ZE"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Giant Steps (Mono)",
         "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
@@ -509,7 +561,7 @@
       "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Thelonious Monk with John Coltrane (OJC Remaster)",
         "url": "https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy"
@@ -529,7 +581,7 @@
       "url": "https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
@@ -545,7 +597,7 @@
       "url": "https://open.spotify.com/track/5FLQmLjjeNIuC8U5mDnXC8"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
@@ -565,23 +617,7 @@
       "url": "https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 643127,
-      "name": "Blue Train",
-      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
-    },
-    {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Coltrane's Sound",
         "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
@@ -597,7 +633,7 @@
       "url": "https://open.spotify.com/track/3aEshDcbhyoOtsxbP0RYoQ"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "The Complete Africa / Brass Sessions",
         "url": "https://open.spotify.com/album/04nfBhMWMp1Y6zhl4o0psq"
@@ -613,7 +649,23 @@
       "url": "https://open.spotify.com/track/71RPjNw25QN44DbMHhNlFO"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "A Love Supreme, Pt. IV - Psalm (Live In Seattle)",
+        "url": "https://open.spotify.com/album/5vhyzhJXAtm6UbZNlWo5Wa"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 399719,
+      "name": "A Love Supreme, Pt. IV - Psalm - Live",
+      "url": "https://open.spotify.com/track/3WUVwdYEPeVyYWjNfCp0KQ"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Coltrane Jazz",
         "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
@@ -629,7 +681,7 @@
       "url": "https://open.spotify.com/track/1Rph9i0FWKDa9Aq9H4iiMx"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "The Last Trane",
         "url": "https://open.spotify.com/album/7vidJBr8AgwyiVYQnMHaZ9"
@@ -645,7 +697,7 @@
       "url": "https://open.spotify.com/track/5JhHBvu41PEkDQLtUy0I2g"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW"
@@ -661,7 +713,39 @@
       "url": "https://open.spotify.com/track/1tmS9GlMz65L605SucDUsA"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Coltrane Plays the Blues",
+        "url": "https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 470666,
+      "name": "Blues to Elvin",
+      "url": "https://open.spotify.com/track/6zsXduqHYbAAy318vQqNTA"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 479023,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
@@ -681,7 +765,7 @@
       "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Crescent",
         "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
@@ -697,7 +781,7 @@
       "url": "https://open.spotify.com/track/4m2KaJ4OXKkPcCKe1wb2Pc"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
@@ -713,7 +797,55 @@
       "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "At Carnegie Hall",
+        "url": "https://open.spotify.com/album/3x38mYlwkm6L6vYIn0Hzqk"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk Quartet",
+          "url": "https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 472133,
+      "name": "Monk's Mood - Live At Carnegie Hall, New York/1957",
+      "url": "https://open.spotify.com/track/79MgyQQ1Jdk7KuAKlPrQmU"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 562640,
+      "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Live At Birdland",
         "url": "https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU"
@@ -729,7 +861,7 @@
       "url": "https://open.spotify.com/track/013grywiX7Qu6WVfnJ1opa"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Coltrane Jazz",
         "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
@@ -745,7 +877,7 @@
       "url": "https://open.spotify.com/track/38DgLl4Cm6tU7wKyB6ZykE"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Blue Train",
         "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
@@ -761,7 +893,7 @@
       "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "The Final Tour: The Bootleg Series, Vol. 6",
         "url": "https://open.spotify.com/album/3p6XK8PERkujtV6MRu7QH3"
@@ -781,7 +913,7 @@
       "url": "https://open.spotify.com/track/6Qpke1nLtW5lciSvWy87KS"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/4k4GArOeURhbuSgwxr1K96"
@@ -797,7 +929,39 @@
       "url": "https://open.spotify.com/track/0Y6BbUaS6TfTrB2ZqtprnR"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 437840,
+      "name": "A Love Supreme, Pt. II - Resolution",
+      "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Coltrane Plays the Blues",
+        "url": "https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 319679,
+      "name": "Mr. Syms",
+      "url": "https://open.spotify.com/track/0zqdzQsIvZXRRpbujjhvg5"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Giant Steps (Mono)",
         "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
@@ -813,7 +977,59 @@
       "url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 901840,
+      "name": "Impressions - Live At The Village Vanguard, New York/1961",
+      "url": "https://open.spotify.com/track/0CB88iJNRCNLTxIRGlkYJA"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Coltrane Time",
+        "url": "https://open.spotify.com/album/1q3rQgShuowlnUcfKFxESq"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 377506,
+      "name": "Just Friends - 1991 Digital Remaster",
+      "url": "https://open.spotify.com/track/28DkOS1AxI9H9VT5YHRtyz"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "The Final Tour: The Bootleg Series, Vol. 6",
+        "url": "https://open.spotify.com/album/3p6XK8PERkujtV6MRu7QH3"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 841040,
+      "name": "Bye Bye Blackbird - Live from Olympia Theatre, Paris - March 1960",
+      "url": "https://open.spotify.com/track/1wzqUhFKuzDhbcHni9mV22"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Living Space",
         "url": "https://open.spotify.com/album/4VfwIglkIBIVoi3VeoYxB4"
@@ -829,7 +1045,47 @@
       "url": "https://open.spotify.com/track/6uCYqP3NK1cRE5eOOx7F3z"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Mating Call [RVG Remaster]",
+        "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA"
+      },
+      "artists": [
+        {
+          "name": "Tadd Dameron",
+          "url": "https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 353826,
+      "name": "Super Jet",
+      "url": "https://open.spotify.com/track/0n9toZOivQbcwGuwNsPywM"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 336546,
+      "name": "You Are Too Beautiful",
+      "url": "https://open.spotify.com/track/4bA0Y5vHsRx2RH59lGkryb"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
@@ -845,7 +1101,7 @@
       "url": "https://open.spotify.com/track/2urSBQat1mXT6bLgCunxAy"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Stellar Regions (Expanded Edition)",
         "url": "https://open.spotify.com/album/7mRUsJqMx3abxYEVch43bI"
@@ -861,7 +1117,71 @@
       "url": "https://open.spotify.com/track/4NiKtErEz8AzMHw6XzXhbm"
     },
     {
-      "added_at": "2022-09-21 13:55:10",
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "duration_ms": 355333,
+      "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Live At Birdland",
+        "url": "https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 490533,
+      "name": "I Want To Talk About You - Live At Birdland Jazzclub, New York City, NY/1963",
+      "url": "https://open.spotify.com/track/0Gyk86QWZXG45SvjpLbu6D"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Meditations",
+        "url": "https://open.spotify.com/album/0jwbGEDOCydvlWUIhS6gGY"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 489440,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/77cmgRVbL9Nrzs4ohbJzBQ"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
       "album": {
         "name": "Coltrane [Rudy Van Gelder Remaster]",
         "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
@@ -875,6 +1195,230 @@
       "duration_ms": 377013,
       "name": "Straight Street - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/6fdLlJJC7D4wkeRVAXR6tK"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
+        "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 145832,
+      "name": "Countdown - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7aubHMiL85lZyppYOOwbwu"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "At Carnegie Hall",
+        "url": "https://open.spotify.com/album/3x38mYlwkm6L6vYIn0Hzqk"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk Quartet",
+          "url": "https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "Epistrophy - Live At Carnegie Hall, New York /1957/Early Show",
+      "url": "https://open.spotify.com/track/5DhAJI6n3mq0dJCbW3UsJF"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "duration_ms": 542400,
+      "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/2TtadFmrnrFZecasfj0p4t"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 1140356,
+      "name": "Ascension - Edition I / Pt. 1",
+      "url": "https://open.spotify.com/track/0eVS2VExhupn7ByD1oeuWv"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "One Down, One Up: Live At The Half Note",
+        "url": "https://open.spotify.com/album/13vOj4n0shZtxuPqrw00iP"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 1659493,
+      "name": "One Down, One Up - Live At The Half Note",
+      "url": "https://open.spotify.com/track/4Y0viZJi0J0wGGq53V8lsA"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Both Directions At Once: The Lost Album (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0NSRgubfAJoYv2kvVAcRKy"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 523453,
+      "name": "Untitled Original 11386",
+      "url": "https://open.spotify.com/track/0hQZmG7mYTjdYrAQqY5Unx"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 361773,
+      "name": "I Hear A Rhapsody",
+      "url": "https://open.spotify.com/track/4OPLH2UblzNmILgeHiIFfE"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 255960,
+      "name": "Say It (Over And Over Again)",
+      "url": "https://open.spotify.com/track/016HKF7A4O7tatoJ9BgZM1"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Cattin' With Coltrane And Quinichette",
+        "url": "https://open.spotify.com/album/3UGaeiIAcnGG75F5NlrU9A"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Paul Quinichette",
+          "url": "https://open.spotify.com/artist/79M6Ce0m7LMzZOfy5C27C1"
+        }
+      ],
+      "duration_ms": 441026,
+      "name": "Cattin' - Instrumental",
+      "url": "https://open.spotify.com/track/5lbtWuTVT2l3pT7Y7A6zSH"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Milestones",
+        "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "duration_ms": 342066,
+      "name": "Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh"
+    },
+    {
+      "added_at": "2023-01-19 09:53:25",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 562733,
+      "name": "Love Thy Neighbor",
+      "url": "https://open.spotify.com/track/1gKTf31EAVW8F57Z36uu0A"
     }
   ],
   "unique_name": "This Is John Coltrane",

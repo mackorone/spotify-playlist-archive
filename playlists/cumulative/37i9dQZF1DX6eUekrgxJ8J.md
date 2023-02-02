@@ -4,7 +4,7 @@
 
 > Discover hits signed Smokey Robinson that shaped the early sound of Motown.
 
-25 songs - 1 hr 18 min - [published](https://open.spotify.com/playlist/1gLafyJTVLTDSRgWZIBAVP)
+25 songs - 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

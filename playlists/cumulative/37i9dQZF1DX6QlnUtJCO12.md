@@ -4,7 +4,7 @@
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-61 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/7bIPeIf3ZZl1Rzq5h8DZnJ)
+61 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

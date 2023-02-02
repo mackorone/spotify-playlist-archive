@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "The best and finest '60s Funk. Cover: The Meters.",
   "name": "I Love My '60s Funk",
-  "published_playlist_ids": [
-    "2Q52D217xAp1HkZ1f7Otra"
-  ],
   "tracks": [
     {
       "album": {
@@ -279,7 +276,7 @@
     {
       "album": {
         "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/3iSaoLNyr2b1u0hfAzNsiM"
+        "url": "https://open.spotify.com/album/7Lwx1Q6GHeKp6p8pnSgGu6"
       },
       "artists": [
         {
@@ -290,6 +287,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197800,
+      "name": "Everything I Do Goin' Be Funky",
+      "url": "https://open.spotify.com/track/2DeZEHRDH35GWfHMkAV6Ih"
+    },
+    {
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/3iSaoLNyr2b1u0hfAzNsiM"
+      },
+      "artists": [
+        {
+          "name": "Don Covay",
+          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 197800,
       "name": "Everything I Do Goin' Be Funky",
       "url": "https://open.spotify.com/track/5EQRiL6hOtongNIxiTKIM4"
@@ -368,6 +383,24 @@
     },
     {
       "album": {
+        "name": "The Complete Motown Singles - Vol. 8: 1968",
+        "url": "https://open.spotify.com/album/0XAoUrM42zDYCc0wGsjRFv"
+      },
+      "artists": [
+        {
+          "name": "Shorty Long",
+          "url": "https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 154720,
+      "name": "Here Comes The Judge",
+      "url": "https://open.spotify.com/track/3sWVdMFlcUzA8p93yIjR2f"
+    },
+    {
+      "album": {
         "name": "60s Summer Hits",
         "url": "https://open.spotify.com/album/6BzwVfcHtCUmknaAuSpmce"
       },
@@ -397,10 +430,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 157226,
       "name": "Here Comes The Judge",
       "url": "https://open.spotify.com/track/6yNprdbGhzfEwSIaS1GvRV"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Judge (Expanded Edition)",
+        "url": "https://open.spotify.com/album/06M17CoGEyKAEUGB4xOlea"
+      },
+      "artists": [
+        {
+          "name": "Shorty Long",
+          "url": "https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158573,
+      "name": "Here Comes The Judge",
+      "url": "https://open.spotify.com/track/2FoOmATzzZmtaD6hKrpDRB"
     },
     {
       "album": {
@@ -491,6 +542,24 @@
       "duration_ms": 148466,
       "name": "I'm Shakin'",
       "url": "https://open.spotify.com/track/0NFLJaA6Pwha8Yd2lGPKzw"
+    },
+    {
+      "album": {
+        "name": "Walk Slow",
+        "url": "https://open.spotify.com/album/05cBWZpaWFHYRFt4mmwAil"
+      },
+      "artists": [
+        {
+          "name": "Little Willie John",
+          "url": "https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 155715,
+      "name": "I'm Shakin'",
+      "url": "https://open.spotify.com/track/23KiVFFZMMMMV3sAVmhrr6"
     },
     {
       "album": {

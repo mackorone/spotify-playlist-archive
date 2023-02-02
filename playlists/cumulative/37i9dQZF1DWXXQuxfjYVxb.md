@@ -4,7 +4,7 @@
 
 > The very best of Cardi B\. Listen to Cardi's new song  "UP" Okurr!
 
-42 songs - 2 hr 23 min - not published yet
+42 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

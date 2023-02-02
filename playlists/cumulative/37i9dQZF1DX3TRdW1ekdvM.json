@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Perfect sleep riding Theta brain waves. It's Science, it works!",
   "name": "REM sleep",
-  "published_playlist_ids": [
-    "0k7IQIk85I1l06fbIplDhu"
-  ],
   "tracks": [
     {
       "album": {
@@ -1259,10 +1256,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 190262,
       "name": "Theta Wave 5Hz",
       "url": "https://open.spotify.com/track/6JUpXHOhsQWn0ptRITy1Gq"
+    },
+    {
+      "album": {
+        "name": "Mellow Alpha Wave Sleep Songs",
+        "url": "https://open.spotify.com/album/3tPjodj9pfIU4CJYaV7DAK"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sound Library",
+          "url": "https://open.spotify.com/artist/2HUwcmtXI5ee5Zo3nnThlV"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190262,
+      "name": "Theta Wave 5Hz",
+      "url": "https://open.spotify.com/track/2n685RNPUFRPbZAKFiGoeM"
     },
     {
       "album": {
@@ -1375,10 +1390,36 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 231255,
       "name": "Theta Waves for Sleeping Aid",
       "url": "https://open.spotify.com/track/1CT6mKyUMshi15W3a42r6R"
+    },
+    {
+      "album": {
+        "name": "12 Ambient Sounds: Perfect for Massage & Relaxation",
+        "url": "https://open.spotify.com/album/3KSav8qEyzxbZCZTCSNqb6"
+      },
+      "artists": [
+        {
+          "name": "Massage Therapy Music",
+          "url": "https://open.spotify.com/artist/4hKUd7Y5CiAGqVk2Z4NV9P"
+        },
+        {
+          "name": "Massage",
+          "url": "https://open.spotify.com/artist/0HvEQZLOZip1nNQ9Vb4pbl"
+        },
+        {
+          "name": "Spa Relaxation & Spa",
+          "url": "https://open.spotify.com/artist/3B6M89h47V1ZxSJUYjL0ZO"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231255,
+      "name": "Theta Waves for Sleeping Aid",
+      "url": "https://open.spotify.com/track/21OG5CTzNIICHNzzetBhyI"
     },
     {
       "album": {

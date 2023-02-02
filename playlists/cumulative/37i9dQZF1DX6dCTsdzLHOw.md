@@ -4,7 +4,7 @@
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-41 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/7fBxUYr44Ikmg6ar6XDArN)
+42 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [Psycho Suite](https://open.spotify.com/track/2AfA142FyTrSA58SArYR5r) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [99 Must\-Have Halloween Classics](https://open.spotify.com/album/0b9hNMy12w8qGs8eYNwM1L) | 2:07 | 2021-12-15 |  |
 | [Psycho Theme \( Bernard Herman \- Ensign Music \)](https://open.spotify.com/track/40cXtLMqZo33qFeY2uVhFn) | [Halloween](https://open.spotify.com/artist/5Ure3b6cjh5Gk29qg82eym) | [Halloween Themes / Horror Movie Music That Will Scare You More Than Sound Fx](https://open.spotify.com/album/0ZbEWtaLdNW3MNbeFf7ZVf) | 1:02 | 2021-12-15 |  |
 | [Reanimator Prologue & Main Title](https://open.spotify.com/track/6w8V10yvjN3cU9iqJYwXqq) | [Richard Band](https://open.spotify.com/artist/0TXK10MEUmsJGH4lMosMiT) | [Re\-Animator: Prologue and Main Title](https://open.spotify.com/album/2HNiURAevNka5UetR9us36) | 4:15 | 2021-12-15 |  |
-| [Reel 9](https://open.spotify.com/track/1Y61rEEjZfAoM19LA2UTkQ) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/4fxuoOfryOYbq6UXsb0Ani) | 10:56 | 2021-12-15 |  |
+| [Reel 9](https://open.spotify.com/track/1Y61rEEjZfAoM19LA2UTkQ) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/4fxuoOfryOYbq6UXsb0Ani) | 10:56 | 2021-12-15 | 2022-12-04 |
 | [Reel 9](https://open.spotify.com/track/1pRGFSv1jsiVsTLMSTpQRB) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Soundtrack\)](https://open.spotify.com/album/1T9FXEBAlOOUvwNxjI2Jad) | 10:56 | 2021-12-15 | 2022-07-29 |
+| [Reel 9](https://open.spotify.com/track/42GFFFw4gMMefVth1lmAit) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack / Expanded Edition\)](https://open.spotify.com/album/0r0lUqzO9oZYlTmyqSHUwj) | 10:56 | 2021-12-15 |  |
 | [Reel 9](https://open.spotify.com/track/3EvFms36jvks6vjMpXHf7l) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29MYWk2vo7Q3UEV5hAdyPz) | 10:58 | 2021-12-15 | 2022-11-13 |
 | [Run To The Church](https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Sixth Sense \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI) | 1:21 | 2021-12-15 |  |
 | [Side A](https://open.spotify.com/track/4hRKUei7qAK1kOth7cPaim) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Alan R\. Splet](https://open.spotify.com/artist/55AfCsXWthqoG9dDIGqVrD) | [Eraserhead Soundtrack](https://open.spotify.com/album/0dWqp2IrTBMumfADclgSJz) | 20:08 | 2021-12-15 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.",
   "name": "Family Movie Hits",
-  "published_playlist_ids": [
-    "5VEyXoyPv34EuLVwWwWH7G"
-  ],
   "tracks": [
     {
       "album": {
@@ -2288,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "Blue's Big City Adventure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ImvierEtcok4Ml5uYUjvR"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187365,
+      "name": "On Our Way - Original Music from the Motion Picture",
+      "url": "https://open.spotify.com/track/4HzmrAE3JTTXgO9hLONPfn"
+    },
+    {
+      "album": {
         "name": "Vivo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk"
       },
@@ -2476,10 +2491,6 @@
         "url": "https://open.spotify.com/album/5L7cZeMTVwaJUt1NHJSuEm"
       },
       "artists": [
-        {
-          "name": "My Little Pony",
-          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
-        },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
@@ -2688,7 +2699,7 @@
       "artists": [
         {
           "name": "The Chords",
-          "url": "https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk"
+          "url": "https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T"
         }
       ],
       "date_added": "2022-03-25",

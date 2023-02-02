@@ -4,7 +4,7 @@
 
 > you made it to prom, now dance it out.
 
-96 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/2fGBuH4aUdpH0kTVMnTDRv)
+96 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

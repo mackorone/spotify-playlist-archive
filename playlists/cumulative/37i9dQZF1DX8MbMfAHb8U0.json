@@ -2,10 +2,25 @@
   "date_first_scraped": "2021-12-21",
   "description": "The tracks that you love from the artists you love. Cover: Erykah Badu",
   "name": "I Love My Neo-Soul",
-  "published_playlist_ids": [
-    "55RU8oZjX8hltMj0iIsfn8"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/3VkbWApaBik1JL9IV98mAB"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/4IUSCokY39aICKizwxj0Ey"
+    },
     {
       "album": {
         "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
@@ -214,8 +229,8 @@
     },
     {
       "album": {
-        "name": "00s Soul",
-        "url": "https://open.spotify.com/album/3VkbWApaBik1JL9IV98mAB"
+        "name": "Dinner Music",
+        "url": "https://open.spotify.com/album/6rtET2pD0xPZBl3EqTbBk5"
       },
       "artists": [
         {
@@ -228,7 +243,7 @@
       "date_removed": null,
       "duration_ms": 296106,
       "name": "Brown Skin",
-      "url": "https://open.spotify.com/track/4IUSCokY39aICKizwxj0Ey"
+      "url": "https://open.spotify.com/track/4cADiYkm8GM9Cvub2nh1sa"
     },
     {
       "album": {

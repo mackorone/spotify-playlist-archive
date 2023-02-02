@@ -4,7 +4,7 @@
 
 > Love can be kind, chaotic, peaceful, passionate, and more\. Here are songs for whatever version of love you're feeling!
 
-87 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/006IJn5AtCGfuK4Qw6HXpE)
+87 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

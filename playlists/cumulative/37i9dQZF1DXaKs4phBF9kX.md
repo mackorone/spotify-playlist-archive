@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 1980s.
 
-126 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/3L4dwnT5cfSEloX5VLPL45)
+126 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Cuts Like A Knife](https://open.spotify.com/track/6Epps3iS9xKesAY4c0z4jn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/1hUiT5wFSraneBf4aNpbL3) | 5:18 | 2021-04-09 | 2022-07-29 |
 | [Cuts Like A Knife](https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 5:19 | 2021-04-09 |  |
 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 | 2021-04-09 |  |
-| [Don't Let Him Go](https://open.spotify.com/track/6UxGF7LGJ5qE0LJViSTsA2) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:45 | 2021-04-09 | 2022-11-13 |
+| [Don't Let Him Go](https://open.spotify.com/track/6UxGF7LGJ5qE0LJViSTsA2) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:45 | 2021-04-09 |  |
 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 | 2021-04-09 |  |
 | [Dreams](https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 4:54 | 2021-04-09 |  |
 | [Emotional Rescue \- Remastered 2009](https://open.spotify.com/track/5IATbFZds3cbOx8YxuMuko) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Emotional Rescue \(2009 Re\-Mastered\)](https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB) | 5:39 | 2021-04-09 |  |
@@ -99,7 +99,7 @@
 | [Rosanna](https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 5:31 | 2021-04-09 |  |
 | [Rumbleseat](https://open.spotify.com/track/1Xi2xGXEDGvliLRCM8eWyV) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Scarecrow](https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk) | 2:58 | 2021-04-09 | 2022-07-29 |
 | [Seven Seas](https://open.spotify.com/track/5qzwrPRbnaqSOK545OEJBq) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain \(Expanded; 2007 Remaster\)](https://open.spotify.com/album/3V4j1tMdQqpq8nwW02UOiW) | 3:19 | 2021-04-09 | 2022-04-09 |
-| [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 | 2022-04-08 |  |
+| [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 | 2022-04-08 | 2022-12-04 |
 | [Sharp Dressed Man \- 2008 Remaster](https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:18 | 2021-04-09 |  |
 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 | 2021-04-09 |  |
 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 | 2021-04-09 |  |
@@ -110,7 +110,7 @@
 | [Sledgehammer \- 2012 Remaster](https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 5:11 | 2022-04-08 |  |
 | [Smokin' In The Boys Room](https://open.spotify.com/track/0TiRPD1YD6Ox3bUujwXCQa) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain](https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe) | 3:28 | 2021-04-09 | 2022-07-29 |
 | [Smokin' In The Boys Room](https://open.spotify.com/track/2gvgvbokPJZ7Uw5u2m5LeP) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre Of Pain \(Deluxe Version\)](https://open.spotify.com/album/317PMJr7FxxDrsjJWydYVb) | 3:28 | 2021-04-09 |  |
-| [Spirit in the Sky](https://open.spotify.com/track/097Tr8QiDLiTQlEoLI96AP) | [Doctor & The Medics](https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr) | [Laughing At the Pieces](https://open.spotify.com/album/0O2LDqpLcWUxONhKfvRK1g) | 3:28 | 2021-04-09 | 2022-11-14 |
+| [Spirit in the Sky](https://open.spotify.com/track/097Tr8QiDLiTQlEoLI96AP) | [Doctor & The Medics](https://open.spotify.com/artist/0auxGqduSBWubpKjjSNKLr) | [Laughing At the Pieces](https://open.spotify.com/album/0O2LDqpLcWUxONhKfvRK1g) | 3:28 | 2021-04-09 | 2023-01-23 |
 | [Still They Ride](https://open.spotify.com/track/2or8ETC2aPaOLJFnF9VoXX) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:50 | 2021-04-09 | 2022-11-13 |
 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 | 2021-04-09 |  |
 | [Suzanne](https://open.spotify.com/track/1ek2BBY1US8xQlNsb8os3P) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Raised On Radio](https://open.spotify.com/album/0o61yZjH9JNYjfQXQkdJFq) | 3:38 | 2021-04-09 | 2022-07-29 |

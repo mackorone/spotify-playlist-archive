@@ -4,7 +4,7 @@
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived!/「攻殻機動隊」シリーズを彩る音楽をひとつのプレイリストに。©S,IG/K/2045
 
-60 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/5MQzfJEuUTvFJoeVTczwMK)
+60 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

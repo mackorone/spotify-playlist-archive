@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "All the best in new and classic Christmas Pop! Cover: Ariana Grande",
   "name": "Christmas Pop",
-  "published_playlist_ids": [
-    "1cWqFYI6ySnzsyIBE6xMhO"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,24 @@
       "duration_ms": 209360,
       "name": "8 Days of Christmas",
       "url": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
+    },
+    {
+      "album": {
+        "name": "A Nonsense Christmas",
+        "url": "https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153099,
+      "name": "A Nonsense Christmas",
+      "url": "https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q"
     },
     {
       "album": {
@@ -718,6 +733,24 @@
     },
     {
       "album": {
+        "name": "My Kind Of Christmas",
+        "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241600,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/49k6iIn3ceIhyeFNSQChQh"
+    },
+    {
+      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z"
       },
@@ -745,6 +778,24 @@
       "duration_ms": 207469,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb"
+    },
+    {
+      "album": {
+        "name": "A Tori Kelly Christmas",
+        "url": "https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183547,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/0yHmaiDRUkiQcl0heatewy"
     },
     {
       "album": {
@@ -821,6 +872,24 @@
       "duration_ms": 237135,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/1cKKOUekhGu2JblwwUiOJS"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1ANKUQ8iU1mnN3jpGXFiT1"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257933,
+      "name": "Christmas Wrapping",
+      "url": "https://open.spotify.com/track/1O2ymfIOPUz7RLzjDCnCWv"
     },
     {
       "album": {
@@ -1333,10 +1402,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 208800,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR"
+    },
+    {
+      "album": {
+        "name": "Hard Candy Christmas",
+        "url": "https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf"
     },
     {
       "album": {
@@ -1489,6 +1576,42 @@
       "duration_ms": 205626,
       "name": "Ho Ho Ho",
       "url": "https://open.spotify.com/track/7bVtNuuRXxwEvKelw08FB0"
+    },
+    {
+      "album": {
+        "name": "Pick Out A Christmas Tree",
+        "url": "https://open.spotify.com/album/5vvy2MDeEzVJc4CvGpPKDu"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 181026,
+      "name": "Holiday Party",
+      "url": "https://open.spotify.com/track/29mIEUY4YHQmFyZ2tspe71"
+    },
+    {
+      "album": {
+        "name": "Holiday Party",
+        "url": "https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "Holiday Party",
+      "url": "https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN"
     },
     {
       "album": {
@@ -2047,7 +2170,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 133973,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/67ysoHKWwlQXSaqxefj0Ey"
@@ -2305,6 +2428,24 @@
       "duration_ms": 162009,
       "name": "Marry Christmas",
       "url": "https://open.spotify.com/track/2U6awlumXAgKea9EcFrEgR"
+    },
+    {
+      "album": {
+        "name": "Fantastic Boney M.",
+        "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270440,
+      "name": "Mary's Boy Child",
+      "url": "https://open.spotify.com/track/3Fi1Omhrp7yzJOCbhzhpLk"
     },
     {
       "album": {
@@ -2623,10 +2764,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 178386,
       "name": "Officially Christmas",
       "url": "https://open.spotify.com/track/2Z0htiPiNK8IiJDYTD51hr"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas II You",
+        "url": "https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Oh Santa!",
+      "url": "https://open.spotify.com/track/04t8HpnAGcLaWnBwzVR7H1"
     },
     {
       "album": {
@@ -2675,7 +2834,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 200466,
       "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
       "url": "https://open.spotify.com/track/2VkuxjlbnbaBiWYpdBGVol"
@@ -3385,12 +3544,12 @@
       },
       "artists": [
         {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
         }
       ],
       "date_added": "2022-10-25",
@@ -4147,6 +4306,28 @@
       "duration_ms": 156773,
       "name": "You Make It Feel Like Christmas (with Blake Shelton)",
       "url": "https://open.spotify.com/track/3SjaE7SExrVnRZi45KXT3O"
+    },
+    {
+      "album": {
+        "name": "Warmer In The Winter (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166133,
+      "name": "You\u2019re A Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/6TXAjof8V0Gr4zFoY00zHR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0A8zVl7p82B"

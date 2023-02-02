@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-17",
   "description": "Dance tracks for a big workout.",
   "name": "Beast Mode Dance",
-  "published_playlist_ids": [
-    "6mUtN4cMwDhmgdGpsWc2qP"
-  ],
   "tracks": [
     {
       "album": {
@@ -269,7 +266,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 182653,
       "name": "All Day (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R"
@@ -533,7 +530,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 143906,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
@@ -555,6 +552,36 @@
       "duration_ms": 126972,
       "name": "Back to Life",
       "url": "https://open.spotify.com/track/6ixjgNCGvFTXTO1fGqltw1"
+    },
+    {
+      "album": {
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
       "album": {
@@ -841,7 +868,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2022-12-22",
       "duration_ms": 156190,
       "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis) - Shift K3Y Edit",
       "url": "https://open.spotify.com/track/1gb9DUaeZtyZ8w2cwANM5m"
@@ -1331,7 +1358,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 140481,
       "name": "dashstar* - VIP",
       "url": "https://open.spotify.com/track/0zXiTthYKCfvfwixJdn92o"
@@ -1639,7 +1666,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-17",
       "duration_ms": 209687,
       "name": "Don\u2019t Keep Me Waiting",
       "url": "https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn"
@@ -1854,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "album": {
         "name": "ESTILAZO",
         "url": "https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t"
       },
@@ -1891,7 +1936,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 198014,
       "name": "Everything But You (feat. A7S)",
       "url": "https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV"
@@ -2342,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "God On The Weekend",
+        "url": "https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180231,
+      "name": "God On The Weekend",
+      "url": "https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh"
+    },
+    {
+      "album": {
         "name": "Good Luck",
         "url": "https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg"
       },
@@ -2423,6 +2486,32 @@
       "duration_ms": 121904,
       "name": "Goodies",
       "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
+    },
+    {
+      "album": {
+        "name": "Guddi Riddim",
+        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Guddi Riddim",
+      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
     },
     {
       "album": {
@@ -2621,6 +2710,46 @@
       "duration_ms": 171840,
       "name": "Hero",
       "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
+    },
+    {
+      "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "album": {
@@ -3277,7 +3406,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 150476,
       "name": "In Your Arms (For An Angel)",
       "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
@@ -3375,7 +3504,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 163832,
       "name": "Just In Case",
       "url": "https://open.spotify.com/track/2AAMkITmFcCL9MtTKFui2k"
@@ -3474,6 +3603,28 @@
     },
     {
       "album": {
+        "name": "La Danse",
+        "url": "https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248687,
+      "name": "La Danse",
+      "url": "https://open.spotify.com/track/0NkOrQXPqhUe7tIfjenEIi"
+    },
+    {
+      "album": {
         "name": "Language",
         "url": "https://open.spotify.com/album/24FFBFTNl0Rraus5wPoQnH"
       },
@@ -3489,6 +3640,24 @@
       "duration_ms": 368475,
       "name": "Language",
       "url": "https://open.spotify.com/track/4ta97KyyCWLCQAAFtOWFpy"
+    },
+    {
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "album": {
@@ -3829,7 +3998,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 167526,
       "name": "Lonely Heart",
       "url": "https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1"
@@ -4039,7 +4208,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 203288,
       "name": "LOW",
       "url": "https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8"
@@ -4309,6 +4478,28 @@
       "duration_ms": 126763,
       "name": "Money On My Mind",
       "url": "https://open.spotify.com/track/0SCZoOyU9qkPZXIk7YmENI"
+    },
+    {
+      "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145666,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
     },
     {
       "album": {
@@ -4594,6 +4785,36 @@
     },
     {
       "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
+        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "album": {
         "name": "New Highs",
         "url": "https://open.spotify.com/album/7McKh6efly4TflW0IU4sl0"
       },
@@ -4631,7 +4852,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL"
@@ -4763,7 +4984,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 164739,
       "name": "Off Of My Mind",
       "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
@@ -4881,7 +5102,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 148095,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
@@ -5354,6 +5575,28 @@
     },
     {
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195262,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK"
+    },
+    {
+      "album": {
         "name": "Rain In Ibiza",
         "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
       },
@@ -5625,7 +5868,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 174858,
       "name": "Rockstar Baby (feat. Mougleta)",
       "url": "https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p"
@@ -6533,7 +6776,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 197760,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt"
@@ -7175,7 +7418,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 174215,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
@@ -7241,6 +7484,28 @@
       "duration_ms": 329531,
       "name": "When The Summer Dies",
       "url": "https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI"
+    },
+    {
+      "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
       "album": {

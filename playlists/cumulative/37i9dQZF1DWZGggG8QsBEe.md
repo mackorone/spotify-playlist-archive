@@ -4,7 +4,7 @@
 
 > A flow of white water noise, let go to the soothing rush of cascading waterfall sounds.
 
-52 songs - 2 hr 31 min - not published yet
+52 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Esopus Creek](https://open.spotify.com/track/6TDm4Y1ly5F4IfMuhLWSi7) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Esopus Creek](https://open.spotify.com/album/55tkNp2Xvl5qosqsTi50iy) | 2:44 | 2022-10-27 |  |
 | [Feel The River](https://open.spotify.com/track/6MLGJkWExg0JHkG5Sq3B50) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Feel The River](https://open.spotify.com/album/54zVwrIbAn0hn99p2cOegi) | 3:20 | 2022-10-27 |  |
 | [focus water stream](https://open.spotify.com/track/1pEJlVzcCKCLV8JW0TYCB2) | [Sounds of Beauty](https://open.spotify.com/artist/0HVe7pR5Jimsjvw7NTNala) | [Water Sounds](https://open.spotify.com/album/1NEKfuhrHdM1r7hDVe01EK) | 3:39 | 2022-10-27 |  |
-| [Forest Waterfall](https://open.spotify.com/track/2JUydjXnVVXHCyYv4yeYN8) | [Vattenmannen](https://open.spotify.com/artist/0ZZMkuvAapZ9KEvxQ5XeYJ) | [Meditate To The Sound Of Water](https://open.spotify.com/album/1cAnbiwCT1ogtEhPI1cLtm) | 1:38 | 2022-10-27 |  |
+| [Forest Waterfall](https://open.spotify.com/track/2JUydjXnVVXHCyYv4yeYN8) | [Vattenmannen](https://open.spotify.com/artist/0ZZMkuvAapZ9KEvxQ5XeYJ) | [Meditate To The Sound Of Water](https://open.spotify.com/album/1cAnbiwCT1ogtEhPI1cLtm) | 1:38 | 2022-10-27 | 2022-12-21 |
 | [Forest Waterfall \- Seamless](https://open.spotify.com/track/0NOpFrkdXNs8vI13WeS7F4) | [Vattenmannen](https://open.spotify.com/artist/0ZZMkuvAapZ9KEvxQ5XeYJ) | [Meditate To The Sound Of Water](https://open.spotify.com/album/1cAnbiwCT1ogtEhPI1cLtm) | 1:38 | 2022-10-27 |  |
 | [Glittering Falls](https://open.spotify.com/track/6OPibbuc7jJPIE1KJ7zlJk) | [Relax in Nature](https://open.spotify.com/artist/16fYHNLMoSN9nzztR8e2Sw) | [Tropical Waterfall](https://open.spotify.com/album/4j3KMcFMVPDyez6Ibai6dv) | 2:41 | 2022-10-27 |  |
 | [Gurgelnder Bergbach](https://open.spotify.com/track/3t2wVzmrOEXa81UEyXFkHv) | [Wasser Freq](https://open.spotify.com/artist/5BSws4xXtmTrcvdacAMzjF) | [Beruhigender Wasserlauf](https://open.spotify.com/album/0xYC3jTemfxkmi8n7audKZ) | 2:21 | 2022-10-27 |  |
@@ -45,7 +45,7 @@
 | [Soothing Waterfall Sound](https://open.spotify.com/track/6pgcEyzxF17mxQ6PYflb29) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Waterfall Sleep Noises](https://open.spotify.com/album/6cyRxitvNynnQFZqkZLNuE) | 3:19 | 2022-10-27 |  |
 | [Steady River, Water on Rocks](https://open.spotify.com/track/0MwnX9BPBrIWPy76Sm5eUT) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of the River](https://open.spotify.com/album/2USCB87emFJWHZssoPEeGu) | 1:58 | 2022-10-27 |  |
 | [Steady Waterfall](https://open.spotify.com/track/1w4LsiXcSP9JyEeHPNS9Fk) | [Waterfalling](https://open.spotify.com/artist/3e0rJbfOEVSWe77JRZWGXd) | [Waterfalling](https://open.spotify.com/album/7qA6Aqaktt9X2qw9wbohuI) | 4:15 | 2022-10-27 |  |
-| [Stream after Rainfall](https://open.spotify.com/track/6oFpFzqMPOyVGN42WvYeBx) | [Forest Treasures](https://open.spotify.com/artist/7Mted4UtEmtfL8RUBKybu5) | [Fierce Stream](https://open.spotify.com/album/2WottxBO0alEOyKvzpBGSi) | 3:12 | 2022-10-27 |  |
+| [Stream after Rainfall](https://open.spotify.com/track/6oFpFzqMPOyVGN42WvYeBx) | [Forest Treasures](https://open.spotify.com/artist/4JYeGAbcGu32UoJYNf4Awd) | [Fierce Stream](https://open.spotify.com/album/2WottxBO0alEOyKvzpBGSi) | 3:12 | 2022-10-27 |  |
 | [Take Me Down the River](https://open.spotify.com/track/0dUdMzVlqyCZzrLr2eCkyB) | [Ebb&Flod](https://open.spotify.com/artist/1IsJosONX2G4ekmLMfjTO4) | [Gentle Stream](https://open.spotify.com/album/2FzwA8tmqu4QccprXAb8PH) | 3:16 | 2022-10-27 |  |
 | [Waterfall](https://open.spotify.com/track/20Ni1eLWzkaqx8d55X8Par) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Baby Sleep White Noise](https://open.spotify.com/album/4vPYOEzg31z0Nc6stLRLgL) | 3:47 | 2022-10-27 |  |
 | [Waterfall Bliss \- Seamless](https://open.spotify.com/track/103vKb26KjfvHr3uwd1gAx) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Woosh By](https://open.spotify.com/album/4IRTkvbY6uwkxjEhFVaWpj) | 2:54 | 2022-10-27 |  |

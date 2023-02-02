@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
   "name": "This Is Carin Leon",
-  "published_playlist_ids": [
-    "3T4GDcQQHsN5wLXYdod9rv"
-  ],
   "tracks": [
     {
       "album": {
@@ -125,10 +122,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 226978,
       "name": "Como Duele Equivocarse",
       "url": "https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI"
+    },
+    {
+      "album": {
+        "name": "Como Duele Equivocarse",
+        "url": "https://open.spotify.com/album/6tdGbF9oCsV0zRsTTgwJHo"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226978,
+      "name": "Como Duele Equivocarse",
+      "url": "https://open.spotify.com/track/5dm6FlDN6r8C8SJuAF0vNR"
     },
     {
       "album": {
@@ -223,10 +242,54 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 207504,
       "name": "Coqueta - Live",
       "url": "https://open.spotify.com/track/59UYyOnT5xZKVOaTZ6KdJ8"
+    },
+    {
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Roy Rosas",
+          "url": "https://open.spotify.com/artist/4UzNiMYOdbQhZ6KsOZSWQm"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203147,
+      "name": "Cuando Toca Mi Piel - En Vivo",
+      "url": "https://open.spotify.com/track/6z17iqYbnNFwUJ4wEsMbUE"
+    },
+    {
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
     },
     {
       "album": {
@@ -687,7 +750,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 235987,
       "name": "Me Lo Contaron Ayer - Live",
       "url": "https://open.spotify.com/track/2CLoq0TB9BwQh5pUmjYGn9"
@@ -723,7 +786,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 181298,
       "name": "Mi Juventud A Los 40 - Live",
       "url": "https://open.spotify.com/track/11JXlw8095b1ruXKvhslHf"
@@ -741,7 +804,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 213542,
       "name": "More Than Words - Spotify Singles",
       "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
@@ -853,7 +916,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 216977,
       "name": "Que Es Pa' Mi",
       "url": "https://open.spotify.com/track/2HdkLQkwXWT6yyZJYySAPf"
@@ -900,6 +963,28 @@
     },
     {
       "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
       },
@@ -915,6 +1000,24 @@
       "duration_ms": 232885,
       "name": "Quisiera Saber",
       "url": "https://open.spotify.com/track/4diIDbBQpsEQUiOt42VkGB"
+    },
+    {
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200022,
+      "name": "Recordaras - En Vivo",
+      "url": "https://open.spotify.com/track/1X1HVUBlxczcppQakPkuJN"
     },
     {
       "album": {
@@ -1167,7 +1270,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 235068,
       "name": "Tu Lo Decidiste - Live",
       "url": "https://open.spotify.com/track/03wFSF2wINNP5tFsyUf4ur"
@@ -1232,6 +1335,28 @@
     },
     {
       "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215106,
+      "name": "Una Noche Cualquiera",
+      "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
+    },
+    {
+      "album": {
         "name": "Viaje a ning\u00fan lado (con Carin Leon)",
         "url": "https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4"
       },
@@ -1251,6 +1376,28 @@
       "duration_ms": 229567,
       "name": "Viaje a ning\u00fan lado (con Carin Leon)",
       "url": "https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH"
+    },
+    {
+      "album": {
+        "name": "Voy a Conquistarte",
+        "url": "https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175051,
+      "name": "Voy a Conquistarte",
+      "url": "https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B9t7y"

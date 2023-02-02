@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-13",
   "description": "The biggest party hits of the 1980s. ",
   "name": "80s Party",
-  "published_playlist_ids": [
-    "3kB1Lk0bVGYiyyetIIpGyo"
-  ],
   "tracks": [
     {
       "album": {
@@ -410,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2021-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258399,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+    },
+    {
+      "album": {
         "name": "Diesel And Dust",
         "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
       },
@@ -785,7 +800,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-02-01",
       "duration_ms": 227600,
       "name": "Crazy Crazy Nights",
       "url": "https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns"
@@ -933,7 +948,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 204786,
       "name": "Dancing in the Street - 2002 Remaster",
       "url": "https://open.spotify.com/track/6FnuMo55jNECTDdS1nD5H0"
@@ -955,6 +970,24 @@
       "duration_ms": 270720,
       "name": "Dancing On The Ceiling",
       "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
+      },
+      "artists": [
+        {
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244120,
+      "name": "Dancing with Tears in My Eyes",
+      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
     },
     {
       "album": {
@@ -1305,7 +1338,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 229213,
       "name": "Flashdance... What A Feeling - '95 Version",
       "url": "https://open.spotify.com/track/5CGziaEatzKez145qf7Xj2"
@@ -1341,7 +1374,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237053,
       "name": "Flashdance...What a Feeling - Radio Edit",
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
@@ -1395,7 +1428,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-23",
       "duration_ms": 284506,
       "name": "Forget Me Nots - Remastered",
       "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx"
@@ -1521,7 +1554,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 240800,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
@@ -1809,7 +1842,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 357026,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/01lewSOj9ZaXplh9TpNKL4"
@@ -2303,7 +2336,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-17",
       "duration_ms": 243093,
       "name": "I'm Your Man",
       "url": "https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z"
@@ -3157,7 +3190,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-21",
       "duration_ms": 234466,
       "name": "Mary's Prayer",
       "url": "https://open.spotify.com/track/6G3afsR0udhKnAU0Tut25j"
@@ -3175,7 +3208,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 307933,
       "name": "Master Blaster (Jammin')",
       "url": "https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT"
@@ -3463,7 +3496,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-29",
       "duration_ms": 241506,
       "name": "On The Radio",
       "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
@@ -4867,7 +4900,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 358053,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"

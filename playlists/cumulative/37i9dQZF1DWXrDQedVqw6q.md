@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-155 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+157 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [Drifting](https://open.spotify.com/track/6ZPr9b4odEGaYIFdYDRGM4) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Drifting](https://open.spotify.com/album/7rb1ZtyB3i3h9pCdMJRZr6) | 3:00 | 2022-03-21 |  |
 | [Eau Rouge](https://open.spotify.com/track/0H9dq2PB8RxswjJaECzwoC) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Eau Rouge](https://open.spotify.com/album/3BC8lAsB5VUcdgIVhCdmZh) | 3:38 | 2022-03-21 |  |
 | [Echoes](https://open.spotify.com/track/5pJiOBUlMmk3dv1kx2rqPu) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Echoes](https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33) | 4:20 | 2022-03-21 | 2022-08-13 |
-| [Efflorescence](https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g) | [Zhou Thiemo](https://open.spotify.com/artist/3melX7nvzHoJ9w8pCvpTRK) | [Efflorescence](https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC) | 3:00 | 2022-11-11 |  |
+| [Efflorescence](https://open.spotify.com/track/4iaZYHsfo1yuZmM9IlTl9g) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Efflorescence](https://open.spotify.com/album/1B6egnIEsekK1eGnNr7yLC) | 3:00 | 2022-11-11 |  |
 | [Empathy](https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Empathy](https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w) | 2:29 | 2022-03-21 |  |
 | [Equipoise](https://open.spotify.com/track/0Ij8KeRUVRRAOjJceqt6FF) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Equipoise](https://open.spotify.com/album/54epGztbs8gWarb8ChOzgj) | 2:56 | 2022-03-21 |  |
+| [Eternal](https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Eternal](https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8) | 2:22 | 2022-12-20 |  |
 | [Eternity](https://open.spotify.com/track/0ZTkd15cwmZiOmtb8Gg3q5) | [String Astronauts](https://open.spotify.com/artist/3uesHPllAYmqsy4sdQqFJr) | [Eternity](https://open.spotify.com/album/5F9HeSB4R2MUHZ9IUPC0ry) | 2:50 | 2022-03-21 |  |
 | [Everness](https://open.spotify.com/track/1IfYfVPTYbiDY9UXTBrdVj) | [Justine Ny](https://open.spotify.com/artist/4zj2FwGigg4Ibz59s9uEXc) | [Everness](https://open.spotify.com/album/0fBAEeT1QeW0NOlGuFm1NF) | 2:36 | 2022-03-21 |  |
 | [fabienne](https://open.spotify.com/track/2FxwP5bwUPpYZUzkhoATvL) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [fabienne](https://open.spotify.com/album/1bVkyLeW2JiUWhs0myUELT) | 1:56 | 2022-03-21 |  |
@@ -58,6 +59,7 @@
 | [Forever Right Now](https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR) | [Tom Brown Sterling](https://open.spotify.com/artist/5QFEyJpaEKyXqrXJbZQRiY) | [Forever Right Now](https://open.spotify.com/album/6XeAvtLpu79R5eMwsXft7j) | 2:16 | 2022-03-21 | 2022-09-07 |
 | [From The Horizon](https://open.spotify.com/track/4Wk9NDOcjHMSDcnKnVfLvb) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [From The Horizon](https://open.spotify.com/album/61jBjdLl3sLfmMOuK2w4d9) | 3:08 | 2022-03-21 | 2022-09-07 |
 | [Gentle Serenity](https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb) | [Perfect Shapes](https://open.spotify.com/artist/7rocivfP8tOkfNxT2jp9Fr) | [Horizon](https://open.spotify.com/album/3887UhI3G4vNcTefsBA5Zi) | 3:27 | 2022-03-21 |  |
+| [Horizon](https://open.spotify.com/track/2sagi6LnzbTNFRMuhrW683) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Horizon](https://open.spotify.com/album/6K3Rrv6q0SWdYHeho5DqdM) | 1:32 | 2023-01-06 |  |
 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 | 2022-03-21 | 2022-08-13 |
 | [Hyacinths](https://open.spotify.com/track/1tnWwIOUKtPD4Fc13hg8F3) | [Eyüp Börekç](https://open.spotify.com/artist/2PcaI1a5aqV8rbitzcX5u8) | [Hyacinths](https://open.spotify.com/album/4Dgvaw4NLjbSTCbuPKEyRm) | 1:54 | 2022-03-21 |  |
 | [Il Segreto Dell Isola](https://open.spotify.com/track/7odpvITlqx8YH3QQONsJf5) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Osservazioni](https://open.spotify.com/album/3MCnWEvdRqmzUN6k1sgcso) | 2:58 | 2022-03-21 |  |

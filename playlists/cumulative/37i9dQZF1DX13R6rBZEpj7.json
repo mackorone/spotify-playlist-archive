@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Turn up the volume for some filthy bassline! ft. Zero",
+  "description": "Turn up the volume for some filthy bassline! ft. Bushbaby",
   "name": "Bassline Bangers",
-  "published_playlist_ids": [
-    "4SEWCFMiD2v6uvHXh5cmid"
-  ],
   "tracks": [
     {
       "album": {
@@ -85,6 +82,28 @@
       "duration_ms": 231555,
       "name": "Again",
       "url": "https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP"
+    },
+    {
+      "album": {
+        "name": "Aight Boom (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/086oqWH3xfRrtg39eiJGLC"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166015,
+      "name": "Aight Boom (feat. Scrufizzer)",
+      "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
     },
     {
       "album": {
@@ -183,7 +202,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 270461,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj"
@@ -325,7 +344,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 282890,
       "name": "Behind the Scenes",
       "url": "https://open.spotify.com/track/20tM3OtYXmpUtoZjFnmO1b"
@@ -865,7 +884,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 195558,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
@@ -1173,7 +1192,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-25",
       "duration_ms": 271602,
       "name": "Got A Groove",
       "url": "https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC"
@@ -1329,7 +1348,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 232888,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
@@ -1548,6 +1567,28 @@
     },
     {
       "album": {
+        "name": "It's Your Time",
+        "url": "https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        },
+        {
+          "name": "Jamie Boy Bassline",
+          "url": "https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186659,
+      "name": "It's Your Time",
+      "url": "https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa"
+    },
+    {
+      "album": {
         "name": "Jazzy Jeff",
         "url": "https://open.spotify.com/album/0kZOYHOd52pjGdS3bznGTt"
       },
@@ -1585,6 +1626,28 @@
       "duration_ms": 231009,
       "name": "Jet Wash",
       "url": "https://open.spotify.com/track/4CUbMRMuSvsVgYhkRuY5lZ"
+    },
+    {
+      "album": {
+        "name": "Jurgen Kropper (feat. Local)",
+        "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Jurgen Kropper (feat. Local)",
+      "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
     },
     {
       "album": {
@@ -1687,6 +1750,28 @@
       "duration_ms": 251076,
       "name": "Lazerbeams",
       "url": "https://open.spotify.com/track/4Hj1uH3V9BRbVuafRXKjNK"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/4fMO4OlnCis4oiu2UxADOI"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213743,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/6TtKgnMlm2HhDPT1oHglfW"
     },
     {
       "album": {
@@ -1876,7 +1961,7 @@
         },
         {
           "name": "Booda",
-          "url": "https://open.spotify.com/artist/68jeZ3k9uWo241zpfm4Agn"
+          "url": "https://open.spotify.com/artist/1qW7b6PBEfdvzVvZ5bAre6"
         },
         {
           "name": "Mr Traumatik",
@@ -2001,10 +2086,28 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 254769,
       "name": "No Clip",
       "url": "https://open.spotify.com/track/19djX580zpwpDHDAbGnaul"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/6oPo89O2VgvSqY4JBd7xh3"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "No Clip",
+      "url": "https://open.spotify.com/track/1TQVU0gGIRUUzlZLVAbojX"
     },
     {
       "album": {
@@ -2073,7 +2176,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 195692,
       "name": "Nuclear",
       "url": "https://open.spotify.com/track/3OWUGei3PnLi5pqAl68fhZ"
@@ -2149,7 +2252,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 234703,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"
@@ -2237,7 +2340,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-01-25",
       "duration_ms": 210001,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"
@@ -2795,7 +2898,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 236522,
       "name": "Thugs",
       "url": "https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc"
@@ -2945,7 +3048,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 188307,
       "name": "Wanna Freak",
       "url": "https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q"

@@ -4,7 +4,7 @@
 
 > An introduction to Giacomo Puccini, one of the great Italian opera composers.
 
-120 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/6pFOJ8SKnl4tTx8OfmjZH0)
+120 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

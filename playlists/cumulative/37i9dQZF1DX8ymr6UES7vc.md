@@ -4,7 +4,7 @@
 
 > Simply rain
 
-281 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/5HVaKyRZwEab1QoIqR5dSf)
+281 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

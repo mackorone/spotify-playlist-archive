@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL\">Elton John</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Elton John",
-  "published_playlist_ids": [
-    "1V8qoYuXAl3nBrjXBEwYzP"
-  ],
   "tracks": [
     {
       "album": {
@@ -1443,7 +1440,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 58026,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/3zxOf1iy9N3qU23wNIY2Xc"
@@ -1793,7 +1790,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": "2023-02-01",
       "duration_ms": 264840,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/088m4EqzTTqyd3aSsIsMpu"
@@ -2057,7 +2054,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 299840,
       "name": "Don't Trust That Woman",
       "url": "https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv"
@@ -2425,7 +2422,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 311426,
       "name": "Fascist Faces - Remastered 2003",
       "url": "https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9"
@@ -2783,6 +2780,28 @@
     {
       "album": {
         "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204066,
+      "name": "Good Morning To The Night - Elton John Vs. PNAU / Remastered",
+      "url": "https://open.spotify.com/track/6o3n0xG9tyQ8zZLbnxTqsP"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
         "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
       },
       "artists": [
@@ -2797,7 +2816,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 204066,
       "name": "Good Morning To The Night - Elton John Vs. PNAU / Remastered",
       "url": "https://open.spotify.com/track/7pKdIQ7nO2E9t8T3cnnYMG"
@@ -2833,7 +2852,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 210640,
       "name": "Goodbye Marlon Brando",
       "url": "https://open.spotify.com/track/6yCaV30GOlv9bVF1H5yTeT"
@@ -2973,7 +2992,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213600,
-      "name": "Hakuna Matata - From \"The Lion King\"/Soundtrack",
+      "name": "Hakuna Matata - From \"The Lion King\" Soundtrack",
       "url": "https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN"
     },
     {
@@ -3083,6 +3102,24 @@
       "duration_ms": 82493,
       "name": "Heart Blanche Intro",
       "url": "https://open.spotify.com/track/2UWOyb5yo1aB7sgQbXrBFM"
+    },
+    {
+      "album": {
+        "name": "The Fox",
+        "url": "https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314693,
+      "name": "Heart In The Right Place - Remastered 2003",
+      "url": "https://open.spotify.com/track/4L4Bs8mRMrjf1RC12ZQ1Lx"
     },
     {
       "album": {
@@ -3451,7 +3488,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2023-01-05",
       "duration_ms": 284920,
       "name": "I Am Your Robot - Remastered 2003",
       "url": "https://open.spotify.com/track/6xxA33oKDP3URcaeCzEawr"
@@ -5011,6 +5048,28 @@
       "duration_ms": 332733,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/51Y1WwassIhqZYBwwaAjzr"
+    },
+    {
+      "album": {
+        "name": "= (Christmas Edition)",
+        "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
     },
     {
       "album": {
@@ -7683,7 +7742,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 276066,
       "name": "The Camera Never Lies",
       "url": "https://open.spotify.com/track/4jvqotcqMZ32eA6zGiSY2X"

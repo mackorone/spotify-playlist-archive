@@ -4,7 +4,7 @@
 
 > Enjoy the glorious summer days with these happy mood tracks full of sunshine.
 
-42 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/23e1w0MnmDr7XxaMta4KDX)
+42 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

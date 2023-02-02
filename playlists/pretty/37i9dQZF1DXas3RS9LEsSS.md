@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,446 likes - 59 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,530 likes - 59 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Creeme](https://open.spotify.com/track/2vzADeejfV6SDXWSC03jiZ) | [Lucía Bossa](https://open.spotify.com/artist/5RYUaJybe2gOXQJURadkdl) | [Creeme](https://open.spotify.com/album/6AyRJ3pYIbcZcgmEuRr74q) | 3:22 |
-| 2 | [Mugre](https://open.spotify.com/track/4JiQitejySZpFVqtXDGsW9) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Sancocho Stereo](https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB) | 4:13 |
-| 3 | [Que Pena](https://open.spotify.com/track/1GBga6jrKsaw3QKZx82IGB) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Que Pena](https://open.spotify.com/album/26W9CnAEctnOkYV0MEVAtv) | 2:52 |
+| 2 | [Mugre](https://open.spotify.com/track/35PSnAtNhWDrsHaik2Re8y) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:13 |
+| 3 | [Que Pena](https://open.spotify.com/track/4xOLS2Fa48jL47HszrEewo) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Ahora Es Cuando](https://open.spotify.com/album/0swiunze7QIGHOYQwROnOq) | 2:52 |
 | 4 | [Blues latino](https://open.spotify.com/track/1U8gp98p9rXXG9lNHorx0y) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn) | [Blues Latino \(20th Aniversary\)](https://open.spotify.com/album/23v6BF9leDR6lFb2tAZGyJ) | 5:32 |
 | 5 | [Ella Es Como un Ángel \- En Vivo Cosquín Rock](https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Vivo Cosquín Rock](https://open.spotify.com/album/1Ybi5wzBImPEtCiP7MPFuR) | 2:58 |
 | 6 | [La Balada del Diablo y la Muerte](https://open.spotify.com/track/46hGh2ZdORn4We1nsbkPK8) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [La Balada del Diablo y la Muerte](https://open.spotify.com/album/1MMzu2HjRm27tsrBKFMvOx) | 5:33 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 58 | [Témpano de Hielo](https://open.spotify.com/track/101jHksIr05Ir0cKcpyKpw) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Magnolia](https://open.spotify.com/album/165s9omOoI3IYG7SX7osuq) | 3:13 |
 | 59 | [Avellaneda Blues](https://open.spotify.com/track/15YA2WKbpA7Jd7y7X74naF) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Obras Cumbres](https://open.spotify.com/album/0n3NEHj4PMTmlM6hXXapbm) | 5:33 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGYwNDllZmU3MTM1ZTNjNmNmOGRhN2ZiYmU0NjIwNjU3`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDg0MGRlNzVhNTYxMjkxZjBmODRjNDM0YTRhY2E1NTgz`

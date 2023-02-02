@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-01",
   "description": "The best tunes in Jazz history. Cover: John Coltrane",
   "name": "Jazz Classics",
-  "published_playlist_ids": [
-    "4TeJWp2FnWT3w9IWQNn7Hv"
-  ],
   "tracks": [
     {
       "album": {
@@ -155,7 +152,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 462866,
       "name": "A Love Supreme, Pt. I \u2013 Acknowledgement",
       "url": "https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd"
@@ -209,7 +206,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 495373,
       "name": "A Night In Tunisia - Rudy Van Gelder Edition / 2003 Remaster",
       "url": "https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF"
@@ -515,7 +512,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 368746,
       "name": "Along Came Betty",
       "url": "https://open.spotify.com/track/3Ysj0cl3Jlb6Ysp6um8QI7"
@@ -569,7 +566,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 194573,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
@@ -627,7 +624,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 422640,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/1QlTNF43OyKK9BorIRsJ8o"
@@ -787,7 +784,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 388146,
       "name": "Black Nile - Remastered",
       "url": "https://open.spotify.com/track/3rXJbXaRGLK1A6vPmRafRR"
@@ -849,7 +846,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 456360,
       "name": "Blue Monk - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/2C3rh8eX5vltOmwrz9I78n"
@@ -921,7 +918,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 172293,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/0ADAFZE0bYIuaIyPNFl3LE"
@@ -939,7 +936,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 643127,
       "name": "Blue Train",
       "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
@@ -1289,7 +1286,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 277800,
       "name": "Conference Of The Birds",
       "url": "https://open.spotify.com/track/5Vmt3ascqbh0QJCV1een0Q"
@@ -1325,7 +1322,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 180706,
       "name": "Cool Out",
       "url": "https://open.spotify.com/track/5Pp7GAMJHAW31meFVjNg58"
@@ -1475,7 +1472,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 338733,
       "name": "Danny's Dream",
       "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
@@ -1537,6 +1534,28 @@
       "duration_ms": 330426,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/1GhDF8jJYkDtwH4NYXsDuh"
+    },
+    {
+      "album": {
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332120,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2"
     },
     {
       "album": {
@@ -1739,7 +1758,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 344066,
       "name": "Fair Weather - Remastered",
       "url": "https://open.spotify.com/track/3X3p3u03P8eFL8WTH0oaaU"
@@ -1851,7 +1870,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 259413,
       "name": "For Lena And Lennie",
       "url": "https://open.spotify.com/track/5uNtaTmigAubx5fLfO92AW"
@@ -2033,7 +2052,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 287843,
       "name": "Giant Steps - 2020 Remaster",
       "url": "https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2"
@@ -2112,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "Jazz Volume: Oscar Peterson",
+        "url": "https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 250853,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/1EI2LEt7o54SZhbxCJYrms"
+    },
+    {
+      "album": {
         "name": "Oscar Peterson: Hits & Rarities",
         "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
       },
@@ -2123,7 +2160,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 250853,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/2X5idL5vlUv99KEZVc1d4i"
@@ -2177,7 +2214,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 313440,
       "name": "He's Younger Than You Are - From \"Alfie\" Score",
       "url": "https://open.spotify.com/track/11vaRXRIFXJTRr3BuzNbk5"
@@ -2213,7 +2250,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 281986,
       "name": "Hoe Down",
       "url": "https://open.spotify.com/track/3k7MPapSDy9kSWuhvXxP3c"
@@ -2253,7 +2290,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 330693,
       "name": "How Long Has This Been Going On",
       "url": "https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib"
@@ -2415,7 +2452,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 266706,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb"
@@ -2451,7 +2488,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 153706,
       "name": "I'll Never Smile Again",
       "url": "https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh"
@@ -2577,7 +2614,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 196440,
       "name": "I've Got A Crush On You",
       "url": "https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn"
@@ -2707,7 +2744,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 485226,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
@@ -2743,7 +2780,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 718960,
       "name": "Inner Urge - Rudy Van Gelder Edition; 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/05aZ2boQ1yuAD4p4HyORbK"
@@ -2823,7 +2860,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 148266,
       "name": "It's A Lovely Day Today",
       "url": "https://open.spotify.com/track/5BLr7EEgi2JdKbMbYjFXas"
@@ -2961,7 +2998,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 173733,
       "name": "Koko - Original Take 2",
       "url": "https://open.spotify.com/track/0d6m2xfXqMyEKOeRvfL7Ot"
@@ -3015,7 +3052,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 332133,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/2n0nSu6H5KrAYRfI6iKtwT"
@@ -3243,7 +3280,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 197706,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/0DuWyzeLH09PQcnOMJiRgE"
@@ -3301,7 +3338,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 195160,
       "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
@@ -3573,7 +3610,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 232377,
       "name": "Monticello",
       "url": "https://open.spotify.com/track/0FKnknau5UBXgN2Q6vVHgC"
@@ -3627,7 +3664,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 824133,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH"
@@ -3837,7 +3874,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 413306,
       "name": "My Sin - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1ebZEQLe2lfwyMnuhnIDjx"
@@ -3873,7 +3910,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 265049,
       "name": "Naima - Mono",
       "url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"
@@ -4105,7 +4142,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 407586,
       "name": "One For Majid - Live",
       "url": "https://open.spotify.com/track/1xKMxT6PFOr4RJWhoisP0t"
@@ -4149,7 +4186,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 349026,
       "name": "Open Letter To Duke",
       "url": "https://open.spotify.com/track/2wHIDNvfYyZWPpMqX3fDE4"
@@ -4221,7 +4258,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 244466,
       "name": "Polka Dots And Moonbeams - Remastered",
       "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
@@ -4269,7 +4306,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 550493,
       "name": "Questar",
       "url": "https://open.spotify.com/track/1ChYuSIoOFDVY6fHSXF6zS"
@@ -4325,7 +4362,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 342333,
-      "name": "Remember - Remastered",
+      "name": "Remember - 1999/ Remastered",
       "url": "https://open.spotify.com/track/2BhU0Hl5OatWiCW93pE2b8"
     },
     {
@@ -4435,7 +4472,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 379000,
       "name": "Serenade To A Soul Sister - Remastered",
       "url": "https://open.spotify.com/track/1duGF26RKaTntfsJ0cTkzj"
@@ -4585,7 +4622,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 357422,
       "name": "Soledad de Murcia",
       "url": "https://open.spotify.com/track/76XN6m7RzGYwnzngUGD6Tt"
@@ -4621,7 +4658,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 471173,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"
@@ -4811,7 +4848,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 191621,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH"
@@ -5035,7 +5072,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 192866,
       "name": "Strange Fruit",
       "url": "https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV"
@@ -5089,7 +5126,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 526892,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2bPeAxNC1S1C359ds8Tw3X"
@@ -5187,7 +5224,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 235733,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/4Ee5140BdE8S0wHlWjq0DO"
@@ -5357,7 +5394,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 733066,
       "name": "Tenor Madness - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO"
@@ -5375,7 +5412,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 339066,
       "name": "Tetragon",
       "url": "https://open.spotify.com/track/12cMYRYTV2RTz4YTlOpgSu"
@@ -5463,7 +5500,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 441426,
       "name": "The Moontrane - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998",
       "url": "https://open.spotify.com/track/4ZAcQgIlpV5z7k7evEF0MJ"
@@ -5583,7 +5620,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 441026,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/4jCoxXaEKeTWkQ7HL1d5de"
@@ -5699,7 +5736,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 181009,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/4WyWVpoXP9z0SczdZdfVI2"
@@ -5779,7 +5816,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 385866,
       "name": "This I Dig Of You - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu"
@@ -5837,7 +5874,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 412653,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
@@ -5855,7 +5892,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 321157,
       "name": "Triste",
       "url": "https://open.spotify.com/track/7z4EbJbnbvWcP9Bg15fpgC"
@@ -6003,7 +6040,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 420226,
       "name": "Waltz for Debby (Take 2) - Live",
       "url": "https://open.spotify.com/track/49H4LDNFE5BU7ZMIg8UsZy"
@@ -6133,10 +6170,32 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 222360,
       "name": "What's The Rush",
       "url": "https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH"
+    },
+    {
+      "album": {
+        "name": "Keep Calm with Jazz",
+        "url": "https://open.spotify.com/album/6Id96zESyjAKNBGB427Tfo"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "What's The Rush",
+      "url": "https://open.spotify.com/track/7yRMYF0BqrqPjinbG9Ja3Z"
     },
     {
       "album": {
@@ -6187,7 +6246,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 191933,
       "name": "Windows",
       "url": "https://open.spotify.com/track/0m8tSPLHhjhGToD6LW0RPp"
@@ -6227,7 +6286,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 399466,
       "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"

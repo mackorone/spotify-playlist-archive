@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-27",
   "description": "as mais tristes do brasil",
   "name": "sad sla",
-  "published_playlist_ids": [
-    "4ADBfixRHFwffrKYoekmv1"
-  ],
   "tracks": [
     {
       "album": {
@@ -755,7 +752,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 140312,
       "name": "Di\u00e1rio de um Ex-Amor",
       "url": "https://open.spotify.com/track/76JTOcSuSbj0ZeAqIVnl56"
@@ -777,7 +774,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 216000,
       "name": "E Se Eu Falasse o Que Sinto?",
       "url": "https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX"
@@ -1345,7 +1342,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 120110,
       "name": "MERCEDES",
       "url": "https://open.spotify.com/track/0cq8MDW1cDoCFUah8J9dzZ"
@@ -1443,6 +1440,28 @@
       "duration_ms": 173776,
       "name": "Movimento",
       "url": "https://open.spotify.com/track/58UHu0BkydzUIOcp1Gru3H"
+    },
+    {
+      "album": {
+        "name": "Papel de Carta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6jOWkYdTXWt9p2nDzYLnFr"
+      },
+      "artists": [
+        {
+          "name": "Karen Jonz",
+          "url": "https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C"
+        },
+        {
+          "name": "Gab Ferreira",
+          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224631,
+      "name": "Nunca foi descaso (feat. Gab Ferreira) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cdwRfJldwrKv6mrHvCR1r"
     },
     {
       "album": {
@@ -2125,7 +2144,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 155136,
       "name": "Vazio Existencial",
       "url": "https://open.spotify.com/track/5L2qdvLOqZ6VtLJTm1jmfl"

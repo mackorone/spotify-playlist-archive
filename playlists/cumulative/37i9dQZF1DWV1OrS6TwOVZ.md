@@ -4,7 +4,7 @@
 
 > The musically talented <a href="">Folamour</a> shares a feel good, groovy mix that will surely lift your spirits!
 
-14 songs - 1 hr 0 min - not published yet
+14 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

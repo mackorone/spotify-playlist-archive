@@ -4,7 +4,7 @@
 
 > The rising star <a href=“spotify:artist:4ztolv1NbTfNxSjS1EgtOX”>Amy Wiles</a>  shares a handpicked selection of Progressive tunes for her latest Spotify mix.
 
-12 songs - 56 min 57 sec - [published](https://open.spotify.com/playlist/43efGeiCRwJmnpO3OfKAVy)
+12 songs - 56 min 57 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.",
   "name": "Deep Dive: 90s Rock",
-  "published_playlist_ids": [
-    "5fY6Ph5wM7EgXYDIjEJqVm"
-  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 199533,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/5tN541sO7fKaxdQx1BWfRh"
@@ -1265,7 +1262,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 183346,
       "name": "Bone Machine - Remastered",
       "url": "https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t"
@@ -1715,7 +1712,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 236000,
       "name": "Come To My Window",
       "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
@@ -3011,7 +3008,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 284693,
       "name": "Feed My Frankenstein",
       "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
@@ -3713,7 +3710,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 236733,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/2fIpea5Sh5celp8JRI7Z4U"
@@ -3803,7 +3800,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-20",
       "duration_ms": 268840,
       "name": "Heartbreak Station",
       "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
@@ -4045,6 +4042,24 @@
     {
       "album": {
         "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 219289,
+      "name": "Hole Hearted",
+      "url": "https://open.spotify.com/track/1cItNpcJskTVETprljc7HV"
+    },
+    {
+      "album": {
+        "name": "Extreme II - Pornograffitti",
         "url": "https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz"
       },
       "artists": [
@@ -4073,10 +4088,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 370093,
       "name": "Hole In My Soul",
       "url": "https://open.spotify.com/track/7kPuCwBWgXy5TGfgwNUKwV"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370410,
+      "name": "Hole In My Soul",
+      "url": "https://open.spotify.com/track/7ornLs8NlxZ95IDWTyBIEj"
     },
     {
       "album": {
@@ -4235,7 +4268,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174786,
       "name": "Hush",
       "url": "https://open.spotify.com/track/4041m5Nr5GuEaqDSq9wjXa"
@@ -5495,7 +5528,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 159773,
       "name": "M+M's",
       "url": "https://open.spotify.com/track/6A82LV89Dc6eMJI4ocqwUS"
@@ -5657,7 +5690,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 252866,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
@@ -5783,7 +5816,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 240733,
       "name": "Miss You Love",
       "url": "https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw"
@@ -6089,7 +6122,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-28",
       "duration_ms": 132173,
       "name": "My Beloved Monster",
       "url": "https://open.spotify.com/track/0GXPDJCtVhrgZFuVlepFLp"
@@ -6359,7 +6392,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-17",
       "duration_ms": 191933,
       "name": "Not If You Were The Last Junkie On Earth",
       "url": "https://open.spotify.com/track/3M7bAbqHp8mfI3DsYADdcS"
@@ -6827,10 +6860,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 235360,
       "name": "Pink",
       "url": "https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO"
+    },
+    {
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235473,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx"
     },
     {
       "album": {
@@ -6935,7 +6986,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-25",
       "duration_ms": 251866,
       "name": "Pretty Noose",
       "url": "https://open.spotify.com/track/6ZzeXWwDvMzrgCWt9RwBj1"
@@ -7191,7 +7242,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-15",
       "duration_ms": 258912,
       "name": "Race for the Prize - 2017 Remaster",
       "url": "https://open.spotify.com/track/1RZlGlz8eXT1KmJYpqFRzH"
@@ -7641,7 +7692,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 341666,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/1wmaAfrbe1JLiyt7SpZeQU"
@@ -8325,7 +8376,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 246373,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/2lU2VI066HaPGyKTh6ANvI"
@@ -9063,7 +9114,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 211066,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg"
@@ -9171,7 +9222,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 291053,
       "name": "Swallowed",
       "url": "https://open.spotify.com/track/5eilSVtn5pkequUpyV6w9d"
@@ -9322,6 +9373,24 @@
     },
     {
       "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263746,
+      "name": "Talk Tonight - Remastered",
+      "url": "https://open.spotify.com/track/2LNV0347QKt4AHxRSfCBij"
+    },
+    {
+      "album": {
         "name": "Welcome To Wherever You Are (Remastered)",
         "url": "https://open.spotify.com/album/6BucEUL1TVDW6WQ59RS3WV"
       },
@@ -9466,6 +9535,24 @@
     },
     {
       "album": {
+        "name": "The Science of Things (Remastered)",
+        "url": "https://open.spotify.com/album/3g8X1UPYeOQONtYJyy2F1h"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217493,
+      "name": "The Chemicals Between Us",
+      "url": "https://open.spotify.com/track/2jOdqw7a9uV1s256FXXR4W"
+    },
+    {
+      "album": {
         "name": "The Science Of Things (Remastered)",
         "url": "https://open.spotify.com/album/4nyIZOdTVoGo94fIYU3foo"
       },
@@ -9603,7 +9690,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 255400,
       "name": "The Down Town",
       "url": "https://open.spotify.com/track/64u34NNXDlc3y61FIveY2w"
@@ -10467,7 +10554,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278480,
       "name": "Until The End Of The World",
       "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"

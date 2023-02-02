@@ -4,7 +4,7 @@
 
 > The best of Deftones, all in one place.
 
-50 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/30anUisWTiwPKxrnb6PTPp)
+50 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

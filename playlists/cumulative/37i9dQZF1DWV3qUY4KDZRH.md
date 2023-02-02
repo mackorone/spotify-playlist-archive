@@ -4,7 +4,7 @@
 
 > MUNA co\-curate a list of the very best songs from LGBTQQIA+ artists and allies that L.A\. has to offer.
 
-35 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/0xU8ZNY9JRY0CnmJx6Gc6H)
+35 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

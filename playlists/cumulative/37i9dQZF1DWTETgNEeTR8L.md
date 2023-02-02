@@ -4,7 +4,7 @@
 
 > Techno legend <a href="spotify:artist:1btv9qmIpbp7q1ixCYNdHu">Adam Beyer</a> delivers a stunning masterpiece.
 
-15 songs - 1 hr 15 min - [published](https://open.spotify.com/playlist/2zQ8wpDgpz3jGSQWbTv8tY)
+15 songs - 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

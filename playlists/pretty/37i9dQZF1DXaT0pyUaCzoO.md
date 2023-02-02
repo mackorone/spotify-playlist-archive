@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 
 > Songs of pride and empowerment to enjoy with little listeners\. Cover: That Girl Lay Lay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,898 likes - 71 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,892 likes - 71 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 | 55 | [MY POWER](https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:19 |
 | 56 | [A Change Is Gonna Come](https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [A Change Is Gonna Come](https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI) | 3:11 |
 | 57 | [I JUST WANNA LIVE](https://open.spotify.com/track/39LS7G7XuDR5yXnmZJ58C5) | [Keedron Bryant](https://open.spotify.com/artist/2l5DDUyyMSmNBLCSa0BIIX) | [I JUST WANNA LIVE](https://open.spotify.com/album/5jzehRkLXUpfbFs1XfCMZx) | 3:08 |
-| 58 | [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 |
+| 58 | [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 |
 | 59 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 |
 | 60 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
 | 61 | [Tomorrow \(A Better You, Better Me\)](https://open.spotify.com/track/4jYuAdVCOMkEQJWV2qvlj6) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [Back On The Block](https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82) | 4:46 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 | 70 | [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 |
 | 71 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 |
 
-Snapshot ID: `MTYzMTUzNzQ1NiwwMDAwMDAwMDUyNzZmYjQ3ZmJmYmYyZmY1NjJlYTBmYTU4ZDM0NjFj`
+Snapshot ID: `MTYzMTUzNzQ1NiwwMDAwMDAwMDgzY2IzYWM0ZmViZmYwYzc4YzFjNmI0NGUyNzcyZTFj`

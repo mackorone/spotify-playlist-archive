@@ -4,7 +4,7 @@
 
 > Déjate seducir por la elegancia musical de esta selección.
 
-79 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/5fMEfkBp2Hqeijo6ib6Ma1)
+79 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

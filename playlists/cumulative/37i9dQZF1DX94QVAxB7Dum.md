@@ -2,9 +2,9 @@
 
 ### [The Black Power Mixtape 1967–1975](https://open.spotify.com/playlist/37i9dQZF1DX94QVAxB7Dum)
 
-> Music in the award\-winning doc: The Black Power Mixtape 1967–1975.
+> Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-162 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/1QA2tc2Xo5I48etmel1cFu)
+163 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Oh, No Not My Baby](https://open.spotify.com/track/0UaDKKReLUGqJVNUIemaPk) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [The Very Best Of Maxine Brown](https://open.spotify.com/album/64qNZpi71sBTDe2F23IlOn) | 2:37 | 2021-04-29 | 2022-07-29 |
 | [On Broadway](https://open.spotify.com/track/6uXhOcodsFEqQeHRkLgNp2) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [30 Greatest Hits](https://open.spotify.com/album/5urQ0YtsUuvtVyALtGpjDs) | 2:50 | 2021-04-29 | 2022-07-29 |
 | [On Broadway \(Re\-recording\)](https://open.spotify.com/track/0xgdDVeM9XGZlN3aOw9yzX) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [At Their Best](https://open.spotify.com/album/75KcSJAPDqGwRcEsnEkIhC) | 2:48 | 2021-04-29 | 2022-11-13 |
-| [On Broadway \- Re\-Recording](https://open.spotify.com/track/7xs0AmGs6R9fCOAipbAExp) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Golden Legends: The Drifters](https://open.spotify.com/album/7ib2aOqt1KIm1C0jApKMDl) | 2:46 | 2021-04-29 |  |
+| [On Broadway \(Remastered 2023\) \(rerecordings\)](https://open.spotify.com/track/6aPCq4osIKVgGyBJpH5g30) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Saturday Night At The Movies and More Classics From the Drifters \(Remastered 2023\)](https://open.spotify.com/album/0ZSF8ULkF6G8owyvhG0Xue) | 2:48 | 2021-04-29 |  |
+| [On Broadway \- Re\-Recording](https://open.spotify.com/track/7xs0AmGs6R9fCOAipbAExp) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Golden Legends: The Drifters](https://open.spotify.com/album/7ib2aOqt1KIm1C0jApKMDl) | 2:46 | 2021-04-29 | 2023-01-06 |
 | [One of a Kind \(Love Affair\)](https://open.spotify.com/track/0s5lu82Sx3aymTuGdCoQK5) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Platinum Collection](https://open.spotify.com/album/1zTfR7F2hKmdTkv3pZ7LkO) | 3:34 | 2021-04-29 | 2022-07-29 |
 | [One of a Kind \(Love Affair\)](https://open.spotify.com/track/3LV2CK8sJiYjg1bV1aHQop) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:34 | 2021-04-29 |  |
 | [One of a Kind \(Love Affair\)](https://open.spotify.com/track/61zPE0SSVqKWELU02sCwb8) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [One of a Kind \(Love Affair\) \[Tom Moulton Mix\]](https://open.spotify.com/album/03U3Coslur0Wd7JWdByWiI) | 3:34 | 2021-04-29 | 2022-11-14 |

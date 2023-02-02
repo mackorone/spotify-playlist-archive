@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-15",
   "description": "Beat distraction and stay on task with these bird sounds to for your (home) office workday. ",
   "name": "Office Garden",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -89,7 +88,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 123594,
       "name": "Bird Sounds HD",
       "url": "https://open.spotify.com/track/4CfWxs2ZmO9H34idCvfnvp"
@@ -143,7 +142,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 112965,
       "name": "Birds and Increasing Wind",
       "url": "https://open.spotify.com/track/1YBs0EOOgWqCw58d9gxWlB"
@@ -197,7 +196,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 170000,
       "name": "Birds Of Yosemite In The Morning",
       "url": "https://open.spotify.com/track/6mksvvJOSRUfdoYwbfd7R2"
@@ -669,6 +668,24 @@
       "duration_ms": 180558,
       "name": "Spring Birds In The Forest",
       "url": "https://open.spotify.com/track/3DkJyqUOfk9eFg2f6Maqgw"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze Bird",
+        "url": "https://open.spotify.com/album/4qe0C4jwN9ix2zefirJ3wA"
+      },
+      "artists": [
+        {
+          "name": "Dominica del Foresta",
+          "url": "https://open.spotify.com/artist/0hG7O67NvjLAehkxcJmmJZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140610,
+      "name": "Summer Breeze Bird",
+      "url": "https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y"
     },
     {
       "album": {

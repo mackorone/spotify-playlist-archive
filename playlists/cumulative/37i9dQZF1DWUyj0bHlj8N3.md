@@ -4,7 +4,7 @@
 
 > Canciones y beats que te llevan al siguiente nivel.
 
-76 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/7GoY7XTUTKEMExoByipk3y)
+76 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.
 
-113 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6nR9fObgGSerkhsDfjVzFd)
+113 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2022-05-13 |  |
 | [Makin' Whoopie \(feat\. Rickie Lee Jones\)](https://open.spotify.com/track/2zkWE1oR2StRrv42F0bEEe) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Sleepless In Seattle: Original Motion Picture Soundtrack](https://open.spotify.com/album/3Qz4L6mtgnRBU6UPihqEan) | 4:07 | 2022-05-13 | 2022-07-27 |
 | [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 | 2022-05-13 |  |
-| [Monday, Monday \- Single Version](https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 3:28 | 2022-05-13 | 2022-11-22 |
+| [Monday, Monday \- Single Version](https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 3:28 | 2022-05-13 | 2023-02-01 |
 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 | 2022-07-18 |  |
 | [More Than A Woman \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 | 2022-05-13 |  |
 | [My Body Keeps Changing My Mind](https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA) | [Karen Carpenter](https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1) | [Karen Carpenter](https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ) | 3:45 | 2022-05-13 | 2022-07-29 |

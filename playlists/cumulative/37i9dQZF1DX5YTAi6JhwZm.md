@@ -4,7 +4,7 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-150 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
+150 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Tariff \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/3WJpTTRFQr46ZF2Td29bTj) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [Detroit\-New York Junction](https://open.spotify.com/album/6lNbe1duzyK37MFoUeKqoy) | 5:30 | 2022-02-25 |  |
 | [Tenor madness](https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Swiss Nights, Vol\. 3](https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4) | 12:42 | 2022-03-04 | 2022-11-17 |
 | [That Old Black Magic](https://open.spotify.com/track/7hkaJ4CZ3LIDjCVFXAp6N6) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Beegie Adair Trio](https://open.spotify.com/artist/7tAni5NIpM2GBzOQMDSgVa) | [That Old Black Magic](https://open.spotify.com/album/21MsGvFf6FdX3HPB0kCqEQ) | 4:25 | 2021-12-17 |  |
-| [The Best Things In Life Are Free](https://open.spotify.com/track/4QWh5rzYlmp30SUZrw7Czk) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:26 | 2021-12-17 |  |
+| [The Best Things In Life Are Free](https://open.spotify.com/track/4QWh5rzYlmp30SUZrw7Czk) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:26 | 2021-12-17 | 2022-12-01 |
 | [The Call](https://open.spotify.com/track/6dr3C76wvbQJty7WvNG7tG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [The Call](https://open.spotify.com/album/43moPGlUvUG7X0uAVb7yFd) | 4:03 | 2021-12-17 |  |
 | [The Cape Verdean Blues \- Rudy Van Gelder Edition / 2003 Remastered](https://open.spotify.com/track/2Z7Z8BDwjZQeYuzwe3LdOp) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [The Cape Verdean Blues](https://open.spotify.com/album/2jTvEM76ioutKODSdPllkr) | 4:59 | 2022-08-19 |  |
 | [The Chant \(Live 1960\)](https://open.spotify.com/track/1mtO7k5FGRjlJmrM9nf5GH) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Live in Paris](https://open.spotify.com/album/1rNkK7VLotjAHOQJ08nQe1) | 9:02 | 2022-02-25 |  |

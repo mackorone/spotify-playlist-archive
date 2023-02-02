@@ -27,3 +27,5 @@
         - .coveragerc file should include:
           [report]
           exclude_lines = @external
+    - Reuse scraping code from mackorone/spotify-playlist-publisher
+    - Play around with Spotipy: https://github.com/spotipy-dev/spotipy

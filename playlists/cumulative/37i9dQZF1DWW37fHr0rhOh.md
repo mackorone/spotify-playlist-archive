@@ -4,7 +4,7 @@
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-103 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/2lh87IirFnHxX7KFcEgDYj)
+103 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

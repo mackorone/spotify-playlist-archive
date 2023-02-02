@@ -1,15 +1,15 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 92460,
+  "num_followers": 94640,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDAxZWM2M2NjZjVhMWQ3MjVkYmYyMjM1NWUxNmM2ZTE0NA==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDAxMDBiMzQwYTUzZjExNTY3YmRmYzYxMWJlNmRhZmM3Yg==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "1492: Conquest of Paradise",
         "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5avVpUakfMHD6qGpaH26CF"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "L'apocalypse des animaux (Remastered)",
         "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3uNFRvQVEIEsQgHdZFw6Dk"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
         "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "1492: Conquest of Paradise",
         "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0v6FuCt6q776u7DzFMOPi0"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
@@ -105,7 +105,39 @@
       "url": "https://open.spotify.com/track/2oDR7QWoLBk9VYMwsFbRGq"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "Hymne - Remastered",
+      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "Titles",
+      "url": "https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
@@ -125,39 +157,7 @@
       "url": "https://open.spotify.com/track/0I0i0baAjsJMlTq4rw8w5Q"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
-        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "Titles",
-      "url": "https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Opera sauvage (Remastered)",
-        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 164133,
-      "name": "Hymne - Remastered",
-      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/575blCgesVtCu0HEYaIcas"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "1492: Conquest of Paradise",
         "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
@@ -189,215 +189,7 @@
       "url": "https://open.spotify.com/track/574kl9OU5dmKGKYhDFXj2P"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 473253,
-      "name": "Ask the Mountains",
-      "url": "https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Opera sauvage (Remastered)",
-        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "L'enfant - Remastered",
-      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Blade Runner (Music From The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 305026,
-      "name": "Memories of Green",
-      "url": "https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "1492: Conquest of Paradise",
-        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 314333,
-      "name": "Twenty Eighth Parallel",
-      "url": "https://open.spotify.com/track/15I4SzvLAI1mguGr9mgIUq"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "China",
-        "url": "https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "The Tao Of Love",
-      "url": "https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Blade Runner (Music From The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Tears in Rain",
-      "url": "https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "1492: Conquest of Paradise",
-        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Light and Shadow",
-      "url": "https://open.spotify.com/track/7Imvh030lE3llIlUIC4Nr9"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 372680,
-      "name": "Songs of the Seas",
-      "url": "https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 352386,
-      "name": "Antarctica Echoes - Remastered",
-      "url": "https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Blade Runner (Music From The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "One More Kiss, Dear",
-      "url": "https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "1492: Conquest of Paradise",
-        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 800040,
-      "name": "Pinta, Nina, Santa Maria",
-      "url": "https://open.spotify.com/track/0BQcj5GUvonO9byni0bEuu"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 312826,
-      "name": "Through the Night Mist",
-      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
@@ -413,7 +205,183 @@
       "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 473253,
+      "name": "Ask the Mountains",
+      "url": "https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "One More Kiss, Dear",
+      "url": "https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 314333,
+      "name": "Twenty Eighth Parallel",
+      "url": "https://open.spotify.com/track/15I4SzvLAI1mguGr9mgIUq"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "China",
+        "url": "https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "The Tao Of Love",
+      "url": "https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "L'enfant - Remastered",
+      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 305026,
+      "name": "Memories of Green",
+      "url": "https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Light and Shadow",
+      "url": "https://open.spotify.com/track/7Imvh030lE3llIlUIC4Nr9"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 372680,
+      "name": "Songs of the Seas",
+      "url": "https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Tears in Rain",
+      "url": "https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 118893,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Alexander (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
@@ -429,7 +397,39 @@
       "url": "https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 312826,
+      "name": "Through the Night Mist",
+      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 352386,
+      "name": "Antarctica Echoes - Remastered",
+      "url": "https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
@@ -445,55 +445,7 @@
       "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Early Years",
-      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "L'apocalypse des animaux (Remastered)",
-        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "La mort du loup - Remastered",
-      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Albedo 0.39",
-        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 344293,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
@@ -509,7 +461,23 @@
       "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Early Years",
+      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Rosetta",
         "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
@@ -525,7 +493,7 @@
       "url": "https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "L'apocalypse des animaux (Remastered)",
         "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
@@ -541,155 +509,7 @@
       "url": "https://open.spotify.com/track/4QNTuaDSBZTg7sKEF8zXf4"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Across the Mountains",
-      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Prelude (Voices)",
-        "url": "https://open.spotify.com/album/21elcibDkkuOqqkZYrg4hj"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        },
-        {
-          "name": "Piano in a Living Room",
-          "url": "https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Prelude (Voices)",
-      "url": "https://open.spotify.com/track/3DvQ0SduBB9zfn5PZXaucl"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 331426,
-      "name": "12 O'Clock",
-      "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 463773,
-      "name": "Fields of Coral",
-      "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 351133,
-      "name": "Nocturnal Promenade",
-      "url": "https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 356626,
-      "name": "Dream in an Open Place",
-      "url": "https://open.spotify.com/track/2Jbdcc1ZSqOBGhLEtoiLuh"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "El Greco - Original Motion Picture Soundtrack By Vangelis",
-        "url": "https://open.spotify.com/album/63lUp5PxD47l3Cx468Ptwj"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "El Greco - Part 1",
-      "url": "https://open.spotify.com/track/3h9cnu26p2T6vvgdMxFpnf"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 340426,
-      "name": "Memories of Blue",
-      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Moonlight Reflections",
-      "url": "https://open.spotify.com/track/5q50gPhmfwV6eEMyXNWXbB"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
@@ -705,10 +525,10 @@
       "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
       },
       "artists": [
         {
@@ -716,12 +536,28 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 95666,
-      "name": "Young Alexander",
-      "url": "https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK"
+      "duration_ms": 331426,
+      "name": "12 O'Clock",
+      "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Albedo 0.39",
+        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 344293,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "L'apocalypse des animaux (Remastered)",
         "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
@@ -732,12 +568,44 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 601506,
-      "name": "Cr\u00e9ation du monde - Remastered",
-      "url": "https://open.spotify.com/track/4sGMiZL7PhTJgcg2pJwXP4"
+      "duration_ms": 185226,
+      "name": "La mort du loup - Remastered",
+      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Across the Mountains",
+      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
@@ -753,7 +621,23 @@
       "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "In the magic of Cosmos",
+        "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "In the magic of Cosmos",
+      "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
@@ -769,7 +653,71 @@
       "url": "https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 95666,
+      "name": "Young Alexander",
+      "url": "https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Moonlight Reflections",
+      "url": "https://open.spotify.com/track/5q50gPhmfwV6eEMyXNWXbB"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "El Greco - Original Motion Picture Soundtrack By Vangelis",
+        "url": "https://open.spotify.com/album/63lUp5PxD47l3Cx468Ptwj"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "El Greco - Part 1",
+      "url": "https://open.spotify.com/track/3h9cnu26p2T6vvgdMxFpnf"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 340426,
+      "name": "Memories of Blue",
+      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Alexander (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
@@ -785,7 +733,71 @@
       "url": "https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 351133,
+      "name": "Nocturnal Promenade",
+      "url": "https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 601506,
+      "name": "Cr\u00e9ation du monde - Remastered",
+      "url": "https://open.spotify.com/track/4sGMiZL7PhTJgcg2pJwXP4"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 463773,
+      "name": "Fields of Coral",
+      "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 356626,
+      "name": "Dream in an Open Place",
+      "url": "https://open.spotify.com/track/2Jbdcc1ZSqOBGhLEtoiLuh"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Opera sauvage (Remastered)",
         "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"

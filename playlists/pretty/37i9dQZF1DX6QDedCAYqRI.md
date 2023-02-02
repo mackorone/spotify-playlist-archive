@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,600 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,474 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 13 | [Yearning](https://open.spotify.com/track/5AIFWdHJbWYmTc81kSUwCn) | [Cheri Indigo](https://open.spotify.com/artist/7xfSpg2jjE8rY2nFCWrM8S) | [Yearning](https://open.spotify.com/album/12n7yACSrfiGAUGkl1LVWc) | 3:49 |
 | 14 | [囡仔的怹](https://open.spotify.com/track/6fJUqzUwKL8XXcRn3gFkB5) | [TzChien慈謙](https://open.spotify.com/artist/7J3UwMTN9ldjM4ALmCuba2) | [反](https://open.spotify.com/album/5TTb91ckW0j3dzY5PJLXDm) | 4:14 |
 | 15 | [I wish I can be Rich](https://open.spotify.com/track/7FxEJu7QhAzT3MTE6e1FZn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/5EJh5oud3icqeswaDukDp7) | 3:46 |
-| 16 | [Impressions](https://open.spotify.com/track/12ZNnAQqvmJmT1wGXkzKCd) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/1reOkkyChSAu1w9aWvhJCE) | 4:40 |
+| 16 | [Impressions](https://open.spotify.com/track/039KCeBrprEJiYqqt33diP) | [Kemrie](https://open.spotify.com/artist/5ZAXoEmG8XufgQpkWbHbSp) | [Impressions](https://open.spotify.com/album/2Ney0TSRz1uChEDF2nROh2) | 4:40 |
 | 17 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
 | 18 | [Wish That You Were Here \- From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture](https://open.spotify.com/track/1FrrRHxMKVvd85O3gancxW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Wish That You Were Here \(From “Miss Peregrine’s Home For Peculiar Children” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uqahF2HRLrjnU1VE2D0r6) | 6:42 |
 | 19 | [Horizon](https://open.spotify.com/track/7K0Cua3mEHtWMWKlMVh8N5) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Black Dog: Being a Teacher \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1XUDf70Z6hdqzjv2eqUfpq) | 4:14 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 34 | [Porcelain](https://open.spotify.com/track/1zKij1M9oYMTeMCKNErsxe) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 4:01 |
 | 35 | [Fond Adieu](https://open.spotify.com/track/4PBaW66WiNFXh5pdrYjlhE) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Fond Adieu](https://open.spotify.com/album/0eoPFyv4fmzB3IFG8U7JYi) | 3:53 |
 | 36 | [In my hand](https://open.spotify.com/track/3cjTqH0FJghhtaheWNkNv7) | [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Violet Sun](https://open.spotify.com/album/5yfMZ1JBzHx1Nt4VYb824M) | 4:21 |
-| 37 | [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 |
+| 37 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
 | 38 | [It's Happening Again](https://open.spotify.com/track/5uE0ggArLjnpwVPEXc36Hx) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 4:20 |
 | 39 | [Run Away](https://open.spotify.com/track/3vtSvKUHdwAynIE3xjwDnZ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [When I Was Young \- EP](https://open.spotify.com/album/67aZECTq3l8kjV7h8EFXCp) | 3:05 |
 | 40 | [Winter's Love](https://open.spotify.com/track/2aXezkhSUuCVEACRHHK1CB) | [My Life As Ali Thomas](https://open.spotify.com/artist/60QGyk5ToNbgI6fVGjZhHa) | [Paper](https://open.spotify.com/album/73Ful0q2t6NtMsIhpDbAsj) | 4:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 69 | [Revolve](https://open.spotify.com/track/4a2PTeP8MF4q4MphoV3iE3) | [Little Sea](https://open.spotify.com/artist/05JF2urTunljp953SopuXc) | [Revolve](https://open.spotify.com/album/0ATFW1N2rZb1fhW8wUYG16) | 4:04 |
 | 70 | [Had a Love](https://open.spotify.com/track/4xGjnjJMbjLFEJwb0gW1pP) | [Vessels](https://open.spotify.com/artist/6Y1nACvxtuuTjKx2b4Rwmb), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Had a Love](https://open.spotify.com/album/4pPpxfKMupyb0qLLuaWHlY) | 4:37 |
 
-Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDIwMmJkMWRkZTI5ZmEwMmVhMTg1ZGIwNDQ4NDM4NTE1`
+Snapshot ID: `MTY1NDA0NjMzNSwwMDAwMDAwMDY3ODVkZWQ4ZmJlNWFjMzI3YjJjOTYwMWUxNTRmZDAy`

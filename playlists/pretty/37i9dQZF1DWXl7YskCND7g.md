@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7YskCND7g.md) - [plain]
 
 > Some of Ruby Ibarra's favorite podcast interviews of Filipina\-American women creatives who are not only excelling in their respective crafts, but are also uplifting their communities and redefining what it means to be Filipina\-American\. These wide array of podcasts include activist and journalist Maria Ressa, chef Nicole Ponseca, author and emcee Rocky Rivera, and filmmakers Ramona Diaz, Isabel Sandoval, and Michele Josue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 323 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

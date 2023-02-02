@@ -4,7 +4,7 @@
 
 > Relax to the roaring sound of crashing waves.
 
-213 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/594hR0ebiHjW4zJrk4dgQL)
+213 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Big East Coast Waves](https://open.spotify.com/track/2qDi9txI6sNXnPAyq18Fnq) | [Atlantic Waves \(For Sleep\)](https://open.spotify.com/artist/4pKwFBw3mP2KUmTGG49roD) | [Atlantic Waves For Relaxing 2](https://open.spotify.com/album/1lMGvTFElYnhV7ZtMLLcdv) | 2:10 | 2022-08-03 |  |
 | [Big East Coast Waves](https://open.spotify.com/track/2ELCDF7IW3mezuo59JH3oF) | [World Recorders](https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE) | [Sleepy Waves](https://open.spotify.com/album/0gq2bdNAUry8TOOCtPjXsa) | 3:29 | 2022-08-03 |  |
 | [Big Pacific Waves](https://open.spotify.com/track/5XIpBloItgxw3ARoiAI1eI) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Calming Waves](https://open.spotify.com/album/2LQJ4m4EPPjeSVaLKs61w0) | 2:46 | 2022-08-03 |  |
-| [Big Waves](https://open.spotify.com/track/4LMB7JZy59tKfOkqAmnd8W) | [Beach Wave Explosion](https://open.spotify.com/artist/7gdvKecJEHlqXxVcmGCn0a) | [Windy Beach](https://open.spotify.com/album/5aENLHyxg8CXD3WHtUjIrL) | 3:10 | 2022-08-03 |  |
+| [Big Waves](https://open.spotify.com/track/4LMB7JZy59tKfOkqAmnd8W) | [Beach Wave Explosion](https://open.spotify.com/artist/1DNNwqmuY6iopjc3F9uLLN) | [Windy Beach](https://open.spotify.com/album/5aENLHyxg8CXD3WHtUjIrL) | 3:10 | 2022-08-03 |  |
 | [Big Waves](https://open.spotify.com/track/3mDat1idepzQv9pyrHhm5l) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Wave Sounds](https://open.spotify.com/album/1qVY1drmjE9wCDusfxgBzg) | 2:04 | 2022-08-03 |  |
 | [Big Waves Rolling In](https://open.spotify.com/track/6fYnju6yqwdkv6hYTg1VqG) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Nano Wave Sounds](https://open.spotify.com/album/10WTH1C6D3FXY9rsRlipeQ) | 2:48 | 2022-08-03 |  |
 | [Big Waves Surf's Up](https://open.spotify.com/track/7tZgdyZBW2UtIbbXA6iq8Y) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Ocean Walk](https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw) | 2:02 | 2022-08-03 |  |

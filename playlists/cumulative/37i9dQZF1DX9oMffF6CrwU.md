@@ -4,7 +4,7 @@
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-74 songs - 4 hr 36 min - not published yet
+75 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Hell's Bells](https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5) | [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Lions And Lambs](https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ) | 3:36 | 2022-10-27 |  |
 | [In the Woods Somewhere](https://open.spotify.com/track/5Pkn31exSVgFbfDAH961QC) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 5:31 | 2022-10-27 |  |
 | [Katie Cruel](https://open.spotify.com/track/6VXUBP9QwbRbKLPzYaMK71) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time \(50th Anniversary Edition\)](https://open.spotify.com/album/36WryGURqME9Y2URzzzmio) | 2:22 | 2022-10-27 |  |
-| [Little Red Riding Hood \- Slowed](https://open.spotify.com/track/7obA90qRdvJJ8ndwFwGmo8) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Little Red Riding Hood](https://open.spotify.com/album/0oGc7NjZ0GaBdzgT8Zjswn) | 3:13 | 2022-10-27 |  |
+| [Little Red Riding Hood \- Slowed](https://open.spotify.com/track/1woIsytjwWa4RQZujuVD8X) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Little Red Riding Hood](https://open.spotify.com/album/0RXFnO2m2z4QQfHMfFTzNv) | 3:13 | 2022-10-27 |  |
+| [Little Red Riding Hood \- Slowed](https://open.spotify.com/track/7obA90qRdvJJ8ndwFwGmo8) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Little Red Riding Hood](https://open.spotify.com/album/0oGc7NjZ0GaBdzgT8Zjswn) | 3:13 | 2022-10-27 | 2023-01-06 |
 | [Little Sadie](https://open.spotify.com/track/0hx1VYrHlfA0ZgVHHbcXX9) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Transmigration Blues \(Deluxe Edition\)](https://open.spotify.com/album/7DNc0CovWdm5G4jPWQQiMN) | 3:34 | 2022-10-27 |  |
 | [Long Black Veil](https://open.spotify.com/track/4Cl4CwxNKrMjq2OHeujr9E) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 4:38 | 2022-10-27 |  |
 | [Mama Werewolf](https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:41 | 2022-10-27 |  |

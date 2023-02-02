@@ -4,7 +4,7 @@
 
 > This is Emeli Sandé\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/0yGxOadOvwh84CnPv5LLnE)
+40 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

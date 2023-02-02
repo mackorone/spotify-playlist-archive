@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-12-07",
   "description": "A salute to all of the women that like it loud & heavy. Cover: BABYMETAL",
   "name": "Heavy Queens",
-  "published_playlist_ids": [
-    "2PwU7tbcMm117R21Ot8It9"
-  ],
   "tracks": [
     {
       "album": {
@@ -163,7 +160,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 320283,
       "name": "Abyss of Time - Countdown to Singularity -",
       "url": "https://open.spotify.com/track/627pEZNVSQ3iUyvOoxXVUw"
@@ -333,7 +330,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203373,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1"
@@ -351,7 +348,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 203373,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ"
@@ -405,7 +402,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246880,
       "name": "Ava of Death",
       "url": "https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq"
@@ -870,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Stigmata Itch",
+        "url": "https://open.spotify.com/album/1lrivcdLt2w1EXhVKwYvLN"
+      },
+      "artists": [
+        {
+          "name": "Rave The Reqviem",
+          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "Colossvs",
+      "url": "https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t"
+    },
+    {
+      "album": {
         "name": "Come For Me",
         "url": "https://open.spotify.com/album/3Ts7i90oOwxtYNzZqKfM7l"
       },
@@ -933,7 +948,7 @@
           "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181853,
@@ -1047,7 +1062,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 300579,
       "name": "Deadly Diminuendo",
       "url": "https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD"
@@ -1087,6 +1102,32 @@
       "duration_ms": 256105,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6mJ1xzqTOpUfIKVc4d5HDl"
+    },
+    {
+      "album": {
+        "name": "Do Or Die (feat. Nathan James)",
+        "url": "https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3"
+        },
+        {
+          "name": "Inglorious",
+          "url": "https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7"
+        },
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193068,
+      "name": "Do Or Die (feat. Nathan James)",
+      "url": "https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi"
     },
     {
       "album": {
@@ -1523,7 +1564,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 337058,
       "name": "Freedom - The Wolves Within -",
       "url": "https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N"
@@ -2107,7 +2148,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 195306,
       "name": "K.M.B.",
       "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
@@ -2307,7 +2348,7 @@
           "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 155342,
@@ -2460,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "METAL KINGDOM",
+        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351354,
+      "name": "METAL KINGDOM",
+      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
+    },
+    {
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG"
       },
@@ -2523,7 +2582,7 @@
           "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 237354,
@@ -2569,7 +2628,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-08",
       "duration_ms": 245664,
       "name": "Moot",
       "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
@@ -2695,7 +2754,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 340281,
       "name": "Noise",
       "url": "https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA"
@@ -2713,7 +2772,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 340281,
       "name": "Noise",
       "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
@@ -3025,7 +3084,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 95693,
       "name": "Real Wild Child",
       "url": "https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb"
@@ -3205,7 +3264,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 276560,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
@@ -3457,7 +3516,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-02",
       "duration_ms": 309826,
       "name": "Songs the Night Sings",
       "url": "https://open.spotify.com/track/7iZoDXIunEJkR7nWLxRoQu"
@@ -3523,7 +3582,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 186986,
       "name": "Strong",
       "url": "https://open.spotify.com/track/4OYa2PXcdFhsg3SGkevSjl"
@@ -3943,7 +4002,7 @@
           "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148500,
@@ -4169,7 +4228,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Ugly Fucker",
       "url": "https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs"

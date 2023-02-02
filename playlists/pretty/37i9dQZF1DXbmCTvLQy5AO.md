@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,235 likes - 74 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,363 likes - 74 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 10 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
 | 11 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
 | 12 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 |
-| 13 | [Venom](https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Venom](https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv) | 2:34 |
+| 13 | [Venom](https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:34 |
 | 14 | [LGBT](https://open.spotify.com/track/2PSuZ7k5bBmhkuH5vbfFPc) | [Deebo2x](https://open.spotify.com/artist/0hyMnB9nY24uy6Pc3NtKXO) | [LGBT](https://open.spotify.com/album/1rAo1kxsd4R89TWJnMVxqn) | 3:12 |
 | 15 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 16 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 61 | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/track/3e1C4xcn4REvbAa7M6VshF) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat \(feat\. BIA & Kehlani\)](https://open.spotify.com/album/6j46dFtnzrjKNAmfcEtpKJ) | 4:43 |
 | 62 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
 | 63 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
-| 64 | [LMK\_WHAT’S REALLY GOOD REMIX\_ FEAT\_PRINCESS NOKIA\_JUNGLEPUSSY\_CUPCAKKE\_MS\. BOOGIE\_100 BPM](https://open.spotify.com/track/1q5h9UkGVYVoec4ydU9P0d) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Ms\. Boogie](https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/00bR0PfkGVAizXpN05DYrs) | 5:20 |
+| 64 | [LMK\_WHAT’S REALLY GOOD REMIX\_ FEAT\_PRINCESS NOKIA\_JUNGLEPUSSY\_CUPCAKKE\_MS\. BOOGIE\_100 BPM](https://open.spotify.com/track/1JblDE7lQlw09HD3vm2YyZ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Ms\. Boogie](https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/5S5ZRw92uGjaWUlIDPIlPY) | 5:20 |
 | 65 | [wicked, sexy!](https://open.spotify.com/track/6IsOt1shnug3aISsedXatq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx) | [EVERYTHING YOU HEARD IS TRUE](https://open.spotify.com/album/2x6YmHjZ0hkVETiz6IJ3EN) | 2:17 |
 | 66 | [Don Diva](https://open.spotify.com/track/07hzPXzmVs98M0eRsCINt1) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 3:03 |
 | 67 | [Out of Me Head](https://open.spotify.com/track/3G9tyuUoBVNTDXY0icrUVf) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 2:21 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 73 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
 | 74 | [Burning](https://open.spotify.com/track/5UCL0TZACi3cgVaIPs0UVm) | [Mista Strange](https://open.spotify.com/artist/6f2OiLi5ws1F1xkHgjDPBX) | [Strange Faces](https://open.spotify.com/album/5myzv5MVvDrFji6BKIVbzS) | 3:45 |
 
-Snapshot ID: `MTY2ODQzNzg4MiwwMDAwMDAwMDg5ODA0ZTRmMjg5MjEzYmNkOGFmYTEwOTFiNzkzZTg5`
+Snapshot ID: `MTY3NDU2ODgwMCwwMDAwMDAwMDliNjAyNjQ0YmQxZGI1N2FkYzY0NTFiOTQwNDZhMTdk`

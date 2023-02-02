@@ -4,7 +4,7 @@
 
 > The best of Oasis, all in one playlist.
 
-50 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/0ptIBaaqLhAk0UhRGNSZHg)
+50 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

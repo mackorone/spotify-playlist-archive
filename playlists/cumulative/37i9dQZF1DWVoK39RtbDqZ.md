@@ -4,7 +4,7 @@
 
 > Environmental compositions bringing together the worlds of field recording and music.
 
-149 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/0xsMMzwYOUr2gs3GDxPl7y)
+149 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

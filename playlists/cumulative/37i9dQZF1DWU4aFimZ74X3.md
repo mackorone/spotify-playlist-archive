@@ -4,7 +4,7 @@
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-37 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/0QFdavKYPDZHPszr7caW05)
+37 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Tales of high action and grand adventures...
 
-71 songs - 21 hr 20 min - [published](https://open.spotify.com/playlist/77P2P4c3GKcqRm0xFY7AyP)
+71 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The '90s Bollywood vocalist’s best offerings.
 
-30 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/3r9FzLhhUSeFJ3Qi7RnHSE)
+30 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

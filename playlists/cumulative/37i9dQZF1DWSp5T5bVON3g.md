@@ -4,7 +4,7 @@
 
 > The legendary bass players in jazz\. Cover: Charles Mingus
 
-87 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/3CxiRRBE3frg7fcnyFt3Vm)
+87 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

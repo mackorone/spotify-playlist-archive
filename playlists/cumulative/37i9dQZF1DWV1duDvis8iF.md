@@ -4,7 +4,7 @@
 
 > A collection of classic and contemporary Irish short stories, novels, plays, poetry, and historical artifacts in English and Irish.
 
-235 songs - 1 day 14 hr 10 min - [published](https://open.spotify.com/playlist/6lejQPdaONkwic3ZBJkyhe)
+235 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

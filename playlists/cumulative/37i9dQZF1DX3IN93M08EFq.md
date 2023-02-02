@@ -4,7 +4,7 @@
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-129 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/57DWmGvUhAKWKbar5DftNQ)
+129 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Vart jag mig i världen vänder](https://open.spotify.com/track/7nLMZKhfkFZLr9rz4VyOpF) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Ett fel närmare rätt](https://open.spotify.com/album/5GkyGLEWLO3RNzZAmOZgLt) | 3:32 | 2021-06-15 |  |
 | [Vi kommer att dö samtidigt](https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Säkert!](https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi) | 2:59 | 2021-06-15 | 2022-11-13 |
 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 | 2021-06-15 | 2022-11-13 |
-| [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 | 2021-06-15 | 2022-11-13 |
+| [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 | 2021-06-15 | 2023-02-01 |
 | [You Can Call Me Al](https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 4:36 | 2021-06-15 |  |
 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 | 2021-06-15 |  |
 

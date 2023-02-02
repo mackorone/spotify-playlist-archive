@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-30",
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Babas\u00f3nicos.",
   "name": "Baladas Rock",
-  "published_playlist_ids": [
-    "3Hz5XnPKhoCMvogn26Eynm"
-  ],
   "tracks": [
     {
       "album": {
@@ -289,7 +286,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 219323,
       "name": "Capital Afectivo",
       "url": "https://open.spotify.com/track/3ig0xkpP1fVJYr9JZW8lwf"
@@ -513,6 +510,28 @@
       "duration_ms": 186266,
       "name": "De M\u00ed",
       "url": "https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO"
+    },
+    {
+      "album": {
+        "name": "Deja Su Lugar",
+        "url": "https://open.spotify.com/album/1V1ijqEHIpV8UtWqicm0z4"
+      },
+      "artists": [
+        {
+          "name": "La Triple Nelson",
+          "url": "https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Deja Su Lugar",
+      "url": "https://open.spotify.com/track/3BtjI4eHea41g6x2B8Z1Mp"
     },
     {
       "album": {
@@ -1881,7 +1900,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 237035,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/52Dq7xuXXP66zCJLTf94K8"
@@ -2185,7 +2204,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 292400,
       "name": "Y Quem\u00e1s",
       "url": "https://open.spotify.com/track/499kpq8yWHsIWhWrM0Wk6v"

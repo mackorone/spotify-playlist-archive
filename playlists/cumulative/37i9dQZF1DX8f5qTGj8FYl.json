@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "When the funk is just too funky for words to keep up.",
   "name": "Instrumental Funk",
-  "published_playlist_ids": [
-    "0VOQIkEXNtvvWCaWdPdkUl"
-  ],
   "tracks": [
     {
       "album": {
@@ -69,6 +66,10 @@
         {
           "name": "Scary Pockets",
           "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "STARBLASTER",
+          "url": "https://open.spotify.com/artist/4bZJS8EXwIYuZAqV2p04PW"
         }
       ],
       "date_added": "2021-12-24",
@@ -477,7 +478,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 343080,
       "name": "Broasted Or Fried",
       "url": "https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI"
@@ -789,7 +790,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 317000,
       "name": "Couple A Brownies",
       "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
@@ -1317,7 +1318,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 252106,
       "name": "First Impression",
       "url": "https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn"
@@ -1389,7 +1390,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 299000,
       "name": "Funkafized",
       "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
@@ -1581,7 +1582,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-28",
       "duration_ms": 208384,
       "name": "Getaway Car",
       "url": "https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf"
@@ -2295,7 +2296,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-08",
       "duration_ms": 299705,
       "name": "Kerria Lacca",
       "url": "https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG"
@@ -2442,7 +2443,7 @@
       "artists": [
         {
           "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
+          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
         }
       ],
       "date_added": "2020-11-13",
@@ -2451,6 +2452,24 @@
       "duration_ms": 255093,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+    },
+    {
+      "album": {
+        "name": "Songs from the House of Grease",
+        "url": "https://open.spotify.com/album/2qqpahdgQM6RLq8qyEmmGH"
+      },
+      "artists": [
+        {
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "Missy's Strut",
+      "url": "https://open.spotify.com/track/2oChEoxQkpXyJEBpzt3PMA"
     },
     {
       "album": {
@@ -2523,7 +2542,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2022-12-08",
       "duration_ms": 357000,
       "name": "N.E.G.U",
       "url": "https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume"
@@ -2798,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/5GRKKSeFR3jo08wsmvTZFa"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126123,
+      "name": "PROG",
+      "url": "https://open.spotify.com/track/6oHXksqLTLGNTBb24g1tRy"
+    },
+    {
+      "album": {
         "name": "Prospect Park West",
         "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
       },
@@ -2817,7 +2854,7 @@
     {
       "album": {
         "name": "Psychic Powers",
-        "url": "https://open.spotify.com/album/3JfCmBfzyP1Na1ZYOblBCz"
+        "url": "https://open.spotify.com/album/4JWBQMTD8OEsmELMJPxcTu"
       },
       "artists": [
         {
@@ -2832,6 +2869,28 @@
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 158620,
+      "name": "Psychic Powers",
+      "url": "https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS"
+    },
+    {
+      "album": {
+        "name": "Psychic Powers",
+        "url": "https://open.spotify.com/album/3JfCmBfzyP1Na1ZYOblBCz"
+      },
+      "artists": [
+        {
+          "name": "Janko Nilovic",
+          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
+        },
+        {
+          "name": "The Soul Surfers",
+          "url": "https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
       "duration_ms": 158620,
       "name": "Psychic Powers",
       "url": "https://open.spotify.com/track/5xhQ3UWq2LhlYKFy1G1kY5"
@@ -2939,7 +2998,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 222533,
       "name": "Samson",
       "url": "https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn"
@@ -2997,7 +3056,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 149059,
       "name": "Saturday Morning",
       "url": "https://open.spotify.com/track/72KvdSoiLLrbTmeuh8wNsw"
@@ -3304,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/23g3lGN1wEYDJkQ8I8XsAJ"
+      },
+      "artists": [
+        {
+          "name": "Roberto Restuccia",
+          "url": "https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 245374,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/2qa0PzLeNUGs0RtNu7Yw8F"
+    },
+    {
+      "album": {
         "name": "Stay In Your Lane",
         "url": "https://open.spotify.com/album/33xCBK6L6WoFPUVgMLiTaC"
       },
@@ -3327,6 +3404,32 @@
       "duration_ms": 120185,
       "name": "Stay In Your Lane",
       "url": "https://open.spotify.com/track/06rsFCBNsgVgMYXe6il6ZG"
+    },
+    {
+      "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl"
+      },
+      "artists": [
+        {
+          "name": "Magic In Threes",
+          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
+        },
+        {
+          "name": "Charles Ray",
+          "url": "https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX"
+        },
+        {
+          "name": "Troy Atkins",
+          "url": "https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120185,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3"
     },
     {
       "album": {
@@ -3479,6 +3582,28 @@
       "duration_ms": 167391,
       "name": "The Birdwatcher",
       "url": "https://open.spotify.com/track/0irNVT66UpJn8njXxsKhbV"
+    },
+    {
+      "album": {
+        "name": "Tailwinds",
+        "url": "https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg"
+      },
+      "artists": [
+        {
+          "name": "The Fearless Flyers",
+          "url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 167391,
+      "name": "The Birdwatcher",
+      "url": "https://open.spotify.com/track/2sqZfX3pEda59tqZNPJMaS"
     },
     {
       "album": {
@@ -3895,7 +4020,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-25",
       "duration_ms": 238706,
       "name": "West Coast Jam",
       "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"
@@ -3953,6 +4078,24 @@
       "duration_ms": 138533,
       "name": "Work Tapes",
       "url": "https://open.spotify.com/track/5hVL3iwV00R4K10kPmfM5W"
+    },
+    {
+      "album": {
+        "name": "3 (Remastered)",
+        "url": "https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML"
+      },
+      "artists": [
+        {
+          "name": "Magic In Threes",
+          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138533,
+      "name": "Work Tapes",
+      "url": "https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM"
     },
     {
       "album": {

@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-01-24",
   "description": "Run to indie and alternative hits.",
   "name": "Indie x Running",
-  "published_playlist_ids": [
-    "16tAbaDH2msClKjWgEvXJ3"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Young & Naive",
+        "url": "https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193017,
+      "name": "19 in a Week",
+      "url": "https://open.spotify.com/track/3rhwcOaX6HbsUmZCizAc06"
+    },
     {
       "album": {
         "name": "1998",
@@ -171,7 +186,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 217914,
       "name": "Afterworld",
       "url": "https://open.spotify.com/track/4ILnzWMNQzZVN0WbJuM6Bg"
@@ -920,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "album": {
         "name": "Roy Pablo",
         "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
       },
@@ -1003,7 +1036,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 163381,
       "name": "Dirtball",
       "url": "https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz"
@@ -1993,7 +2026,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 165666,
       "name": "Is This What It Feels Like to Feel Like This?",
       "url": "https://open.spotify.com/track/05AXOoZN3bpJh6oXylrfvX"
@@ -2015,6 +2048,24 @@
       "duration_ms": 165666,
       "name": "Is This What It Feels Like to Feel Like This?",
       "url": "https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG"
+    },
+    {
+      "album": {
+        "name": "Is This What It Feels Like to Feel Like This?",
+        "url": "https://open.spotify.com/album/2YoatZbkNsBRrfmX0pq9Ay"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Is This What It Feels Like to Feel Like This?",
+      "url": "https://open.spotify.com/track/3aVGdoYas2GPVZNLN1IxXY"
     },
     {
       "album": {
@@ -2047,7 +2098,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 122338,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
@@ -2573,7 +2624,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 192789,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
@@ -2815,7 +2866,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 178142,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/47NoCaEOxlLifJ86Pr3hb8"
@@ -3201,6 +3252,24 @@
       "duration_ms": 254037,
       "name": "This Song Is Not About A Girl",
       "url": "https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU"
+    },
+    {
+      "album": {
+        "name": "Today (can't help but cry)",
+        "url": "https://open.spotify.com/album/71HtRi6nvIXWQgrgnfz0kb"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252631,
+      "name": "Today (can't help but cry)",
+      "url": "https://open.spotify.com/track/34uL0b0ekds3vN3jgfpsqS"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [10s Soft Rock](https://open.spotify.com/playlist/37i9dQZF1DXcf57PJZ9901)
 
-> The best soft rock from the 2010s.
+> The best soft rock from the 2010s\. Cover: Keane
 
-129 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/0odmU63W8mzvvddJ5VjjQC)
+129 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Broken](https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 4:07 | 2020-12-08 |  |
 | [Champion Of The World](https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Champion of The World / Daddy](https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j) | 4:17 | 2021-10-14 | 2022-07-29 |
 | [Champion Of The World](https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:17 | 2021-10-14 |  |
-| [Cold Arms](https://open.spotify.com/track/3dBwNOUqqdCYPmiUMXxZMy) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 2:49 | 2020-12-08 | 2022-11-14 |
+| [Cold Arms](https://open.spotify.com/track/3dBwNOUqqdCYPmiUMXxZMy) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 2:49 | 2020-12-08 |  |
 | [Cold Arms](https://open.spotify.com/track/77R5bi9hfAUKZmu6tjOcxg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 2:49 | 2020-12-08 | 2022-10-13 |
 | [Cold Arms](https://open.spotify.com/track/1Krvbw26ewysVZRY6Rd9n1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 2:49 | 2020-12-08 | 2022-07-29 |
 | [Country Song](https://open.spotify.com/track/0XY9YAtkp5GXMuFdkZk8Xp) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 1:49 | 2020-12-08 | 2022-11-13 |
@@ -36,7 +36,7 @@
 | [Flying High Falling Low](https://open.spotify.com/track/5ompsQEJ93uy0YGCgANzBI) | [Walking On Cars](https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg) | [Everything This Way](https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3) | 4:21 | 2020-12-08 |  |
 | [Girls Like You](https://open.spotify.com/track/3p1vxaIG6BDLnhJvyy2NNJ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/0fe04UycvOyXQD4o3uA7Vo) | 3:35 | 2022-03-28 | 2022-07-29 |
 | [Girls Like You](https://open.spotify.com/track/5DK8dP9WZsBNVLWSA3VJXh) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Trending Pop for Kids](https://open.spotify.com/album/3TgBOdotWzm5VmTHZyorNY) | 3:35 | 2022-03-28 | 2022-11-13 |
-| [Girls Like You](https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:35 | 2022-03-28 | 2022-11-14 |
+| [Girls Like You](https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:35 | 2022-03-28 |  |
 | [Glasgow](https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 2:37 | 2020-12-08 |  |
 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 | 2020-12-08 |  |
 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 | 2022-03-28 |  |
@@ -49,7 +49,7 @@
 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 | 2020-12-08 | 2022-07-29 |
 | [If You Ever Want To Be In Love](https://open.spotify.com/track/02fZLz9BmmOKb5wkueM9D4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 3:58 | 2020-12-08 | 2022-07-29 |
 | [If You Ever Want To Be In Love](https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2020-12-08 |  |
-| [Killing Me](https://open.spotify.com/track/3lcYh4YFzkeZf1ebWy8wPx) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 3:25 | 2020-12-08 | 2022-11-14 |
+| [Killing Me](https://open.spotify.com/track/3lcYh4YFzkeZf1ebWy8wPx) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 3:25 | 2020-12-08 | 2023-02-01 |
 | [Landlady](https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:01 | 2020-12-08 |  |
 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 | 2020-12-08 |  |
 | [Let It Go](https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 4:20 | 2020-12-08 | 2022-07-29 |
@@ -63,7 +63,7 @@
 | [Maps](https://open.spotify.com/track/110utfuF28YdGbEzmQKhsa) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V \(Deluxe\)](https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu) | 3:09 | 2022-03-28 | 2022-07-29 |
 | [Maps](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:09 | 2022-03-28 |  |
 | [Maps](https://open.spotify.com/track/6Z6QASP1xCDeVaQMbkN4Ox) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Children's Hit Music 2022](https://open.spotify.com/album/4odnQSZNSkFseDPYMEGOYM) | 3:10 | 2022-03-28 | 2022-11-13 |
-| [Misery](https://open.spotify.com/track/6KBYk8OFtod7brGuZ3Y67q) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:36 | 2022-03-28 |  |
+| [Misery](https://open.spotify.com/track/6KBYk8OFtod7brGuZ3Y67q) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:36 | 2022-03-28 | 2023-01-15 |
 | [Misery](https://open.spotify.com/track/77vZNsVR5OOZt2go8KH2wH) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/1386EMXipwNDbs0qduSWgC) | 3:36 | 2022-03-28 | 2022-07-29 |
 | [Monster](https://open.spotify.com/track/1tQtvqPs77t6CYemcXOs2T) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 3:56 | 2020-12-08 | 2022-07-27 |
 | [Monster](https://open.spotify.com/track/4ma2AbPdsy5ijCyJn16mAv) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:56 | 2020-12-08 | 2022-10-13 |
@@ -130,7 +130,7 @@
 | [The Troubles](https://open.spotify.com/track/2djBFFaafredmGix2Z5TBY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 4:45 | 2020-12-08 | 2022-07-29 |
 | [Under Your Scars](https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 3:51 | 2020-12-08 |  |
 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 | 2020-12-08 |  |
-| [When You Can't Sleep At Night](https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 3:32 | 2020-12-08 |  |
+| [When You Can't Sleep At Night](https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 3:32 | 2020-12-08 | 2023-01-12 |
 | [Where's My Love](https://open.spotify.com/track/0IRmoVD5Zbndp79ShxphRb) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:22 | 2020-12-08 | 2022-11-13 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2020-12-08 |  |
 | [Where's My Love](https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/2Hz6tGm9vVbjYWgpANWp5E) | 3:22 | 2020-12-08 | 2022-07-29 |

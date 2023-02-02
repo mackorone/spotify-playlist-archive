@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:4qUoZ6ErhTYFhAI0W1iI9q\">Ezekiel</a>'s track IDs. Updated regularly. Curated by Ezekiel. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Ezekiel's track IDs",
-  "published_playlist_ids": [
-    "6KxHg5N9T9KxJ7MDqj5H4b"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,7 +24,7 @@
     {
       "album": {
         "name": "About You Now",
-        "url": "https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW"
+        "url": "https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD"
       },
       "artists": [
         {
@@ -38,6 +35,24 @@
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218786,
+      "name": "About You Now",
+      "url": "https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8"
+    },
+    {
+      "album": {
+        "name": "About You Now",
+        "url": "https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW"
+      },
+      "artists": [
+        {
+          "name": "OTTO",
+          "url": "https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 218786,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO"
@@ -403,10 +418,32 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 145183,
       "name": "homeswitcher",
       "url": "https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy"
+    },
+    {
+      "album": {
+        "name": "Teen Week",
+        "url": "https://open.spotify.com/album/2zaNeL1xFEOp7on5ZJXJSA"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        },
+        {
+          "name": "kmoe",
+          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145183,
+      "name": "homeswitcher",
+      "url": "https://open.spotify.com/track/3wGDs4CbpDqpsTYyN5pe8o"
     },
     {
       "album": {
@@ -559,7 +596,7 @@
     {
       "album": {
         "name": "Safe In The Hands of Love",
-        "url": "https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk"
+        "url": "https://open.spotify.com/album/01HArmgfXe7xDaYXWKfhuf"
       },
       "artists": [
         {
@@ -570,6 +607,24 @@
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209094,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1Ml7MxO0SKv1bT8xFA64Oj"
+    },
+    {
+      "album": {
+        "name": "Safe In The Hands of Love",
+        "url": "https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 209094,
       "name": "Noid",
       "url": "https://open.spotify.com/track/6fhH6tRpDX77lDmqBy9LF7"

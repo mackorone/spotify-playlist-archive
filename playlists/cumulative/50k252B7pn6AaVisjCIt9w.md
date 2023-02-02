@@ -4,7 +4,7 @@
 
 > Featuring the best in Country like Carrie Underwood, Keith Urban and more!
 
-61 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/1FJuuY6HjhOOQolzfdQfp0)
+61 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

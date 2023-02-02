@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Everything Broadway-adjacent. Cover: The Sanderson Sisters",
+  "description": "Everything Broadway-adjacent. Cover: Matilda",
   "name": "Off Broadway",
-  "published_playlist_ids": [
-    "3a6QDi9Fpx4195yiMPoXKx"
-  ],
   "tracks": [
     {
       "album": {
@@ -414,6 +411,50 @@
     },
     {
       "album": {
+        "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177680,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/3I3QV9fD0CQdnekEPNgYIk"
+    },
+    {
+      "album": {
+        "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "Rizwan Manji",
+          "url": "https://open.spotify.com/artist/4mz7AGZHijxHC1fc6bGfYn"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318533,
+      "name": "Belle",
+      "url": "https://open.spotify.com/track/1SSyCUkZvRADNdol04UqmE"
+    },
+    {
+      "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
       },
@@ -632,7 +673,25 @@
     },
     {
       "album": {
-        "name": "Everybody's Coming Together (from \"Almost Famous - The Musical\")",
+        "name": "Easy Way Out",
+        "url": "https://open.spotify.com/album/4uFnmd6UA4f2wNG031sQ2o"
+      },
+      "artists": [
+        {
+          "name": "Laura Dreyfuss",
+          "url": "https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191301,
+      "name": "Easy Way Out",
+      "url": "https://open.spotify.com/track/7nwH6jOOzg0T6ZM5iKFESi"
+    },
+    {
+      "album": {
+        "name": "Everybody's Coming Together",
         "url": "https://open.spotify.com/album/54SJhf5ehcNqAVW04RoBeS"
       },
       "artists": [
@@ -645,7 +704,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191226,
-      "name": "Everybody's Coming Together - from \"Almost Famous - The Musical\"",
+      "name": "Everybody's Coming Together",
       "url": "https://open.spotify.com/track/5t2IHN1tkZOGT7WzfPJZsq"
     },
     {
@@ -721,6 +780,28 @@
       "duration_ms": 187306,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/1xubaVW0WOyUJu65gSaxXQ"
+    },
+    {
+      "album": {
+        "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
+      },
+      "artists": [
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "Rizwan Manji",
+          "url": "https://open.spotify.com/artist/4mz7AGZHijxHC1fc6bGfYn"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221880,
+      "name": "Gaston",
+      "url": "https://open.spotify.com/track/166GvTGtUQyLy4J52yaQnv"
     },
     {
       "album": {
@@ -1512,6 +1593,36 @@
     },
     {
       "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hodson-Prior",
+          "url": "https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF"
+        },
+        {
+          "name": "Meesha Garbett",
+          "url": "https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4"
+        },
+        {
+          "name": "Liberty Greig",
+          "url": "https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4"
+        },
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174746,
+      "name": "Revolting Children",
+      "url": "https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt"
+    },
+    {
+      "album": {
         "name": "Songs For You",
         "url": "https://open.spotify.com/album/2JeYtBmJUBy70zDqD1mBdm"
       },
@@ -1710,6 +1821,40 @@
     },
     {
       "album": {
+        "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Martin Short",
+          "url": "https://open.spotify.com/artist/0dV9xcjrW5YwkxG3gEBhRx"
+        },
+        {
+          "name": "David Alan Grier",
+          "url": "https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136266,
+      "name": "Something There",
+      "url": "https://open.spotify.com/track/3gifBCwPR8K9KA3U1hG5jp"
+    },
+    {
+      "album": {
         "name": "Between the Lines",
         "url": "https://open.spotify.com/album/6OEtqsulWG2hoRFHCGztT1"
       },
@@ -1761,6 +1906,24 @@
       "duration_ms": 202533,
       "name": "Song About You",
       "url": "https://open.spotify.com/track/01Dmc9x1ogPGsk80kWK4nY"
+    },
+    {
+      "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259239,
+      "name": "Still Holding My Hand",
+      "url": "https://open.spotify.com/track/1Nye4OrwEUTDjF1UBiqBJY"
     },
     {
       "album": {
@@ -1858,7 +2021,7 @@
     },
     {
       "album": {
-        "name": "The Night-Time Sky's Got Nothing on You (from \"Almost Famous - The Musical\")",
+        "name": "The Night-Time Sky's Got Nothing on You",
         "url": "https://open.spotify.com/album/48ybZa5Klu3naTjFcZMxC3"
       },
       "artists": [
@@ -1879,7 +2042,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215853,
-      "name": "The Night-Time Sky's Got Nothing on You - from \"Almost Famous - The Musical\"",
+      "name": "The Night-Time Sky's Got Nothing on You",
       "url": "https://open.spotify.com/track/6NLdEVaTnMouAcIOM2hlnE"
     },
     {
@@ -1999,6 +2162,32 @@
     {
       "album": {
         "name": "Assassins (The 2022 Off-Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6U7iRoc5P856IAoVgDBqMk"
+      },
+      "artists": [
+        {
+          "name": "Adam Chanler-Berat",
+          "url": "https://open.spotify.com/artist/3SOOtiaBzkUEnsXie4OCli"
+        },
+        {
+          "name": "Stephen Sondheim",
+          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
+        },
+        {
+          "name": "Tavi Gevinson",
+          "url": "https://open.spotify.com/artist/5UPafCEfe7WChRQO14KAVR"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217196,
+      "name": "Unworthy of Your Love",
+      "url": "https://open.spotify.com/track/05Xy99vdh4zFljTSZR2iCj"
+    },
+    {
+      "album": {
+        "name": "Assassins (The 2022 Off-Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1RXmNwoVCFP8Ktk0kimN4E"
       },
       "artists": [
@@ -2017,7 +2206,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 217196,
       "name": "Unworthy of Your Love",
       "url": "https://open.spotify.com/track/18Tsg3JxjoeWGKtKtlwq1L"

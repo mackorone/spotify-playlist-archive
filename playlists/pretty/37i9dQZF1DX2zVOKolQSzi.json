@@ -1,12 +1,12 @@
 {
   "description": "The best and finest '10s Funk. Cover: Pharrell Williams.",
-  "num_followers": 35088,
+  "num_followers": 40924,
   "original_name": "I Love My '10s Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUzMzIwMCwwMDAwMDAwMDFjNDFmNDA5MTBlZTY1OTNkMjQyNTk0ZGUyZTA1YzM2",
+  "snapshot_id": "MTY3MTAyNzc0OCwwMDAwMDAwMGRiNGU1YjZlOTE1NDA0ZDI0ZTRhNDdjN2YzNTVhZTE5",
   "tracks": [
     {
       "added_at": "2021-05-05 15:15:21",
@@ -159,6 +159,22 @@
     {
       "added_at": "2021-05-05 15:15:21",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/3OYfshPEbKYN8aYZfIk9XW"
+      },
+      "artists": [
+        {
+          "name": "Candy Dulfer",
+          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
+        }
+      ],
+      "duration_ms": 281049,
+      "name": "How It's Done",
+      "url": "https://open.spotify.com/track/0XxsJxPcByLfVphUM2QzCw"
+    },
+    {
+      "added_at": "2021-05-05 15:15:21",
+      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 285626,
       "name": "Gust of Wind",
       "url": "https://open.spotify.com/track/5m6F6glTwHhsolaKD0gGu0"
-    },
-    {
-      "added_at": "2021-05-05 15:15:21",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/3OYfshPEbKYN8aYZfIk9XW"
-      },
-      "artists": [
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
-        }
-      ],
-      "duration_ms": 281049,
-      "name": "How It's Done",
-      "url": "https://open.spotify.com/track/0XxsJxPcByLfVphUM2QzCw"
     },
     {
       "added_at": "2021-05-05 15:36:44",
@@ -727,8 +727,8 @@
     {
       "added_at": "2021-05-05 15:15:21",
       "album": {
-        "name": "Music for Robots",
-        "url": "https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc"
+        "name": "Come on with the Good Thing",
+        "url": "https://open.spotify.com/album/0bL75fPbxNsM0gBQpYxM2F"
       },
       "artists": [
         {
@@ -738,7 +738,7 @@
       ],
       "duration_ms": 319932,
       "name": "Come on with the Good Thing",
-      "url": "https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB"
+      "url": "https://open.spotify.com/track/7z4eAMrP1KnLXdulAjER41"
     },
     {
       "added_at": "2022-03-07 10:57:10",

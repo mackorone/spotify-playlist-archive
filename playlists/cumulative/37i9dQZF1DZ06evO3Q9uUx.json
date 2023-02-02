@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-29",
   "description": "This is BIA. The essential tracks, all in one playlist.",
   "name": "This Is BIA",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -47,7 +46,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 189105,
       "name": "AUTOMATIC (feat. Doe Boy & 42 Dugg)",
       "url": "https://open.spotify.com/track/0PDno6z7Wn9gPYLn75QEMZ"
@@ -353,7 +352,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 114602,
       "name": "FREE BIA (1ST DAY OUT)",
       "url": "https://open.spotify.com/track/7g3hyRYCjM27HBHgYRp8MI"
@@ -371,7 +370,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 179754,
       "name": "FUNGSHWAY",
       "url": "https://open.spotify.com/track/1FPKkqAxaTAxLsercL5u4g"
@@ -895,6 +894,32 @@
       "duration_ms": 162779,
       "name": "SKATE",
       "url": "https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR"
+    },
+    {
+      "album": {
+        "name": "Solitude (with BIA & Lucky Daye)",
+        "url": "https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174476,
+      "name": "Solitude (with BIA & Lucky Daye)",
+      "url": "https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu"
     },
     {
       "album": {

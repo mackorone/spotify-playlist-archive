@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 ### [History of Country Music](https://open.spotify.com/playlist/37i9dQZF1DXcYKwAtV4NDh)
 
-> A deep and concise look at the music that made Country Music what is is today\.  Covers eras <br/>1930's \- 1990.
+> A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,610 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,965 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 106 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/6EGRx5TVuHAsmy3JKb8SRC) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5) | 3:23 |
 | 107 | [Fancy](https://open.spotify.com/track/1ecIqo8pOc8S6y3l80iGxd) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Best Of/20th Century](https://open.spotify.com/album/0Rb3coYXuUlgRLoi3UhADa) | 4:56 |
 
-Snapshot ID: `MTY1MTg2NjQ3NiwwMDAwMDAwMGQ5ZjcwZDU0ODIxM2IzNWQzMTkxMzRhMjM4MDg0Y2Jm`
+Snapshot ID: `MTY3MzY0MjE3NCwwMDAwMDAwMGEwNGFkMTc1ZDcxMTNhYmQ3YWJmM2I0YzY0MDI0NmE3`

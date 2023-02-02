@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Celia Cruz Y Tito Puente en un mismo lugar\. Listen to both icons here!
 
-75 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/42vZA0UNgFC5oXYwNCKqsh)
+76 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,8 +80,9 @@
 | [Yeah!](https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito's Idea](https://open.spotify.com/album/1kHWWswdYnqytKxTQS6rxE) | 7:26 | 2021-12-14 |  |
 | [Yerbero Moderno](https://open.spotify.com/track/2ww6Z7Lnd8WuOg3Lk5idIJ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia Cruz \- Greatest Hits](https://open.spotify.com/album/634V0km4mTClHkrGiEKw9B) | 4:34 | 2021-12-14 | 2022-07-29 |
 | [Yerbero Moderno](https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 4:34 | 2022-07-27 |  |
+| [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/0pJ6DjmHj6C34AGVtwRslQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tributo a Ismael Rivera](https://open.spotify.com/album/2LMtV9cAn00R2ByyrxdLyY) | 4:58 | 2022-07-27 |  |
 | [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/4CcFy8b5WSld7ZvGpxLfb9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tributo A Ismael Rivera](https://open.spotify.com/album/3KPWwNdx8vwBe3AFAQixcc) | 4:58 | 2021-12-14 | 2022-07-29 |
-| [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/6MPEQFBZERZBaZJw0f7LPY) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [The Rough Guide to Salsa Divas](https://open.spotify.com/album/2PpNoXeZBMt1gdGIdg2PZJ) | 5:00 | 2022-07-27 |  |
+| [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/6MPEQFBZERZBaZJw0f7LPY) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [The Rough Guide to Salsa Divas](https://open.spotify.com/album/2PpNoXeZBMt1gdGIdg2PZJ) | 5:00 | 2022-07-27 | 2023-01-14 |
 | [Yo Viviré \- I Will Survive](https://open.spotify.com/track/1Vtlzi6oMaFYEp7b4mPSqn) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Soy Mujer](https://open.spotify.com/album/0bxrZ24WsckwlT7D2nsRbz) | 4:31 | 2021-12-14 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

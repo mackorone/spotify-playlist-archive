@@ -4,7 +4,7 @@
 
 > The best of Bon Iver, and a bit more of founder Justin Vernon's other projects.
 
-43 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/5W74awfno1GgphNJokOzwc)
+43 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

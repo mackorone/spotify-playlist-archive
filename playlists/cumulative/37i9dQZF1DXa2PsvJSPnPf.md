@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-166 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/1J46WbZ3oHtv4aJLZ1hDCX)
+167 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,8 +107,9 @@
 | [One Little Feeling](https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [True Meaning](https://open.spotify.com/album/1hAH4XIkzAgTyVqVP3EDsK) | 3:33 | 2021-11-19 |  |
 | [Overland](https://open.spotify.com/track/4x8q2pNkL1UVTf6b4l2TG3) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [See You Around](https://open.spotify.com/album/5CE2xIBgva5wYBhfMbluQW) | 3:25 | 2021-11-19 | 2022-07-29 |
 | [Overland](https://open.spotify.com/track/4k5R36pR5HA3SHlabSQX56) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:25 | 2022-05-16 |  |
-| [Paducah](https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/5V1in7tAJUHIuZ5qVkPx5K) | 3:30 | 2022-05-16 |  |
+| [Paducah](https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/5V1in7tAJUHIuZ5qVkPx5K) | 3:30 | 2022-05-16 | 2023-01-16 |
 | [Paducah](https://open.spotify.com/track/4VmDr13LpbbL1l1rOru8qA) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Paducah](https://open.spotify.com/album/3gBoXOHHHXWL9oVZkp5dUi) | 3:30 | 2021-11-19 | 2022-07-29 |
+| [Paducah](https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo) | 3:30 | 2022-05-16 |  |
 | [Peace In The Valley](https://open.spotify.com/track/3WsDleEAEGbfWN7kqdVYMU) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Peace In The Valley / There's A First Time For Everything](https://open.spotify.com/album/0yC97p3MaFfTTJn7i2q13G) | 2:49 | 2021-11-19 | 2022-07-29 |
 | [Peace In The Valley](https://open.spotify.com/track/3dY21TGWCgJWjInJyIVf10) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 3](https://open.spotify.com/album/2A3zdBNByKeHyD5ivtwuOV) | 2:49 | 2022-05-16 |  |
 | [Perfect Imperfections](https://open.spotify.com/track/7g5xq6q4oQBE6P3NjD0jRB) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 4:02 | 2021-11-19 |  |

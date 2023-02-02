@@ -1,18 +1,346 @@
 {
   "description": "The official playlist for <a href=\"spotify:user:0ouhj3nctpqgo8bgamzte2o6o\">Paramount Network</a>'s Yellowstone.",
-  "num_followers": 96144,
+  "num_followers": 214513,
   "original_name": "Yellowstone Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTA2MTQxOCwwMDAwMDAwMDNjY2RlZGZhODhhOGYxZjAyNTk2ZTlkNDg1NWUwOTEz",
+  "snapshot_id": "MTY3Mjc5NDAwMCwwMDAwMDAwMDY1YTljMzZiODg5NGZlNGViOTY0MjA3MDJlYzg3NTA2",
   "tracks": [
+    {
+      "added_at": "2023-01-04 01:00:00",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Fast as You",
+      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
+    },
+    {
+      "added_at": "2023-01-04 01:00:00",
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 188882,
+      "name": "Tishomingo",
+      "url": "https://open.spotify.com/track/1TsiwVwHhLgVK8sxBchINM"
+    },
+    {
+      "added_at": "2023-01-04 01:00:00",
+      "album": {
+        "name": "No Horse To Ride",
+        "url": "https://open.spotify.com/album/3nO6JEsqrqiJwHlRdZr5M8"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 133873,
+      "name": "No Horse To Ride",
+      "url": "https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3"
+    },
+    {
+      "added_at": "2023-01-04 01:00:00",
+      "album": {
+        "name": "No Reservations",
+        "url": "https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq"
+      },
+      "artists": [
+        {
+          "name": "Alex Williams",
+          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "No Reservations",
+      "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"
+    },
+    {
+      "added_at": "2022-12-19 01:00:00",
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/5k7tvONUJjP2aTxI6BBCo0"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 181239,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj"
+    },
+    {
+      "added_at": "2022-12-19 01:00:00",
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+    },
+    {
+      "added_at": "2022-12-19 01:00:00",
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 161799,
+      "name": "Motorcycle Drive By",
+      "url": "https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x"
+    },
+    {
+      "added_at": "2022-12-19 01:00:00",
+      "album": {
+        "name": "Let It Out",
+        "url": "https://open.spotify.com/album/1VfNlgg6CkLSyhjpCNEK1M"
+      },
+      "artists": [
+        {
+          "name": "L.A. Edwards",
+          "url": "https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV"
+        }
+      ],
+      "duration_ms": 191356,
+      "name": "Let It Out",
+      "url": "https://open.spotify.com/track/42O1JZwHywFbQ0BDU1CDnu"
+    },
+    {
+      "added_at": "2022-12-19 01:00:00",
+      "album": {
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Fear and Saturday Night",
+        "url": "https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 255697,
+      "name": "Nobody Knows My Trouble",
+      "url": "https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Watermelon Moonshine",
+      "url": "https://open.spotify.com/track/7Fa7EcDrcGw2SUh8WjX3zo"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "After the Fire",
+        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 179295,
+      "name": "One Good Decision",
+      "url": "https://open.spotify.com/track/14vBZAB9XM4dk043qV4c7G"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Factories, Farms & Amphetamines",
+        "url": "https://open.spotify.com/album/0ActL0zLX4MYN4pOcOjm8b"
+      },
+      "artists": [
+        {
+          "name": "Myron Elkins",
+          "url": "https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Factories, Farms & Amphetamines",
+      "url": "https://open.spotify.com/track/3tAiYwZoNxsIH4uswEEoZ6"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/6pDo5cqQYdCekqJthJFFBk"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hoskins",
+          "url": "https://open.spotify.com/artist/7FSF3vuIliCSshbpPAnA7E"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "H-Town Turnaround",
+      "url": "https://open.spotify.com/track/4NE7SPLiUV96VgGmbIUqmZ"
+    },
+    {
+      "added_at": "2022-12-12 19:48:14",
+      "album": {
+        "name": "Wrong Side Of The River",
+        "url": "https://open.spotify.com/album/3t95eQ548nZyQIsvizYOMM"
+      },
+      "artists": [
+        {
+          "name": "Myron Elkins",
+          "url": "https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "Wrong Side Of The River",
+      "url": "https://open.spotify.com/track/2qAH4Al00y0M7qzUOqAv00"
+    },
+    {
+      "added_at": "2022-12-06 00:12:34",
+      "album": {
+        "name": "Far from Home",
+        "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
+    },
+    {
+      "added_at": "2022-12-06 00:12:34",
+      "album": {
+        "name": "All of My Love",
+        "url": "https://open.spotify.com/album/09GlWNlMfUNVedsw9So3JR"
+      },
+      "artists": [
+        {
+          "name": "Senora May",
+          "url": "https://open.spotify.com/artist/5zHAQHBRNMEqG5Of2CM0cD"
+        },
+        {
+          "name": "Chloe Edmonstone",
+          "url": "https://open.spotify.com/artist/6kgVWfXC4jGyad7xT5EKp3"
+        },
+        {
+          "name": "Seth Avett",
+          "url": "https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW"
+        }
+      ],
+      "duration_ms": 240170,
+      "name": "Intertwine",
+      "url": "https://open.spotify.com/track/11dqE6ebU0FtXDoTuDQqLD"
+    },
+    {
+      "added_at": "2022-11-28 23:54:45",
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 255413,
+      "name": "New Friends",
+      "url": "https://open.spotify.com/track/3UXO74viaatyxa6vIxsK3g"
+    },
+    {
+      "added_at": "2022-11-28 23:54:45",
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 211315,
+      "name": "The Good I'll Do",
+      "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
+    },
     {
       "added_at": "2022-11-21 20:10:18",
       "album": {
         "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/0ZCiHJtfke9bvbl9U62lrf"
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
       },
       "artists": [
         {
@@ -22,7 +350,7 @@
       ],
       "duration_ms": 168120,
       "name": "Smell Like Smoke",
-      "url": "https://open.spotify.com/track/4KxfeI9XB1BdKn4zlomB3R"
+      "url": "https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc"
     },
     {
       "added_at": "2022-11-21 01:00:00",
@@ -265,10 +593,10 @@
       "url": "https://open.spotify.com/track/3Aw7AkVsRDZfcJ4LfGCDj0"
     },
     {
-      "added_at": "2021-12-28 16:23:57",
+      "added_at": "2022-12-07 20:51:53",
       "album": {
         "name": "Chess",
-        "url": "https://open.spotify.com/album/1Hsjz9l68sZbrKuZP8Ofq9"
+        "url": "https://open.spotify.com/album/37WoevP8269NwUSQ370NVV"
       },
       "artists": [
         {
@@ -278,7 +606,7 @@
       ],
       "duration_ms": 152195,
       "name": "Chess",
-      "url": "https://open.spotify.com/track/4QEX5xovdi7LpxPucf99aX"
+      "url": "https://open.spotify.com/track/7AYbl1Auq495a2BUcc5Xf5"
     },
     {
       "added_at": "2021-12-28 16:23:57",
@@ -1216,7 +1544,7 @@
       "added_at": "2020-06-22 13:53:34",
       "album": {
         "name": "Adobe Sessions",
-        "url": "https://open.spotify.com/album/5wSwd9cxD1Ii8yvgxUnyr3"
+        "url": "https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW"
       },
       "artists": [
         {
@@ -1226,13 +1554,13 @@
       ],
       "duration_ms": 259457,
       "name": "Mamma Song",
-      "url": "https://open.spotify.com/track/5EUXRdukDwEkNays7HQ3AB"
+      "url": "https://open.spotify.com/track/0FHr4lDNfkrOd0oOAiJS1H"
     },
     {
       "added_at": "2020-06-22 13:53:34",
       "album": {
         "name": "Cigarette",
-        "url": "https://open.spotify.com/album/0IpzRCBFjho1olTGa7haHu"
+        "url": "https://open.spotify.com/album/7sbNpqAePuSfznP3AMCpdc"
       },
       "artists": [
         {
@@ -1242,7 +1570,7 @@
       ],
       "duration_ms": 214259,
       "name": "Cigarette",
-      "url": "https://open.spotify.com/track/1MC0zx1YAB2OZrqaA9eRZ9"
+      "url": "https://open.spotify.com/track/2U3DpE3tZk504wqtUs9jbA"
     },
     {
       "added_at": "2020-06-22 13:53:34",
@@ -1332,7 +1660,7 @@
       "added_at": "2019-08-23 14:34:15",
       "album": {
         "name": "Love Someone",
-        "url": "https://open.spotify.com/album/3RLZXZluEVBUzt92OLKsm2"
+        "url": "https://open.spotify.com/album/4tJ4uQSqHlYSLUXQq0BJaE"
       },
       "artists": [
         {
@@ -1342,7 +1670,7 @@
       ],
       "duration_ms": 194810,
       "name": "Love Someone",
-      "url": "https://open.spotify.com/track/3drvPv9MzHO2QhbUgTi5T3"
+      "url": "https://open.spotify.com/track/6VsI7EZPBKskkkUPT6mrOT"
     },
     {
       "added_at": "2019-08-23 14:34:15",

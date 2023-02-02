@@ -4,7 +4,7 @@
 
 > A journey through The Beatles' career.
 
-95 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/2vH7QFejVO1fA3pMsde2oG)
+95 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

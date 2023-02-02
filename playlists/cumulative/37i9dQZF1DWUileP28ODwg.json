@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys",
   "name": "Top Christian Contemporary",
-  "published_playlist_ids": [
-    "4vhwseXb2IJBghYVawMgmp"
-  ],
   "tracks": [
     {
       "album": {
@@ -2229,6 +2226,24 @@
     {
       "album": {
         "name": "If The Lord Builds The House",
+        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235640,
+      "name": "If The Lord Builds The House",
+      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
+    },
+    {
+      "album": {
+        "name": "If The Lord Builds The House",
         "url": "https://open.spotify.com/album/6V9WshsSiYxovVnq1MPuTQ"
       },
       "artists": [
@@ -2564,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Live Out Loud",
+        "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203507,
+      "name": "Live Out Loud",
+      "url": "https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc"
+    },
+    {
+      "album": {
         "name": "All That Remains",
         "url": "https://open.spotify.com/album/2CXuD2PLxaz2WrhtOHKyEk"
       },
@@ -2665,7 +2698,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 252520,
       "name": "Love Over Religion",
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
@@ -2999,6 +3032,24 @@
     {
       "album": {
         "name": "Jordan St. Cyr",
+        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188426,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
+    },
+    {
+      "album": {
+        "name": "Jordan St. Cyr",
         "url": "https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK"
       },
       "artists": [
@@ -3009,7 +3060,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 188426,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5zlWZifhZcoFGgMdXWycFw"
@@ -3499,7 +3550,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 209262,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"

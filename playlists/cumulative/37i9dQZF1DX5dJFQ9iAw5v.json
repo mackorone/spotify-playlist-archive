@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
   "name": "Jazz Argentino",
-  "published_playlist_ids": [
-    "34pOQEeViNfqKIxC13NqiC"
-  ],
   "tracks": [
     {
       "album": {
@@ -337,7 +334,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 230133,
       "name": "Caminando Con Aud\u00edfonos",
       "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
@@ -355,7 +352,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 412693,
       "name": "Cero",
       "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
@@ -413,7 +410,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-22",
       "duration_ms": 448320,
       "name": "Cocodrilos",
       "url": "https://open.spotify.com/track/2HVrhsjXnBWtDnSDJhj6oq"
@@ -435,7 +432,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 257519,
       "name": "Corre Ni\u00f1a",
       "url": "https://open.spotify.com/track/3JB87Mtpxx777llgvhdpzZ"
@@ -531,7 +528,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 362066,
       "name": "Do\u00f1a Cha Cha",
       "url": "https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ"
@@ -567,7 +564,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 385416,
       "name": "El Gaita",
       "url": "https://open.spotify.com/track/5REMrMzbiw86zd1MQQEbXg"
@@ -767,7 +764,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2022-12-13",
       "duration_ms": 572278,
       "name": "Estate",
       "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
@@ -783,7 +780,7 @@
           "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
         },
         {
-          "name": "Nino Josele",
+          "name": "Ni\u00f1o Josele",
           "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
         }
       ],
@@ -865,7 +862,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 192615,
       "name": "Here\u00b4s That Rainy Day",
       "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
@@ -913,7 +910,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 408293,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH"
@@ -1141,7 +1138,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 326666,
       "name": "Luna en Nueva York",
       "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"

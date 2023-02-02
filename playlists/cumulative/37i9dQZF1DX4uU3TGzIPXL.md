@@ -4,7 +4,7 @@
 
 > The songs of the 1990s that will make you dance all summer long!
 
-162 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/41ScF5UDsiCJupESfjOcX6)
+163 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2022-04-16 |  |
 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 | 2022-06-14 | 2022-07-29 |
 | [9Pm \(Till I Come\)](https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:13 | 2022-06-14 |  |
+| [A Girl Like You](https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir) | 3:56 | 2022-06-14 |  |
 | [A Girl Like You](https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG) | 3:56 | 2022-06-14 | 2022-11-09 |
 | [Ain't No Doubt](https://open.spotify.com/track/5qbrpQ5ac44s48PU1ouUVC) | [Jimmy Nail](https://open.spotify.com/artist/5JmiJ0uN4rutaRsDfBUPHl) | [The Nail File](https://open.spotify.com/album/1SJamO5H1EerRJXXvq18Yi) | 4:07 | 2022-04-16 | 2022-07-29 |
 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 | 2022-04-16 |  |
@@ -24,7 +25,7 @@
 | [Always There \- David Morales Remix](https://open.spotify.com/track/4Yw6kVIb8NJIgLdPZKWxs1) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Remixed](https://open.spotify.com/album/6pbImFsmFNxwj2nRjMJlNH) | 6:36 | 2022-04-16 | 2022-07-27 |
 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 | 2022-06-14 |  |
 | [Another Night](https://open.spotify.com/track/0MhkdVUCf8ZttUXzZ3J9J6) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Ultimate Club Dance 90s \- Vol\. 2](https://open.spotify.com/album/3lH40SlojmDYl4muKywyoa) | 3:56 | 2022-04-16 | 2022-07-29 |
-| [Another Night](https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x) | 3:56 | 2022-06-14 |  |
+| [Another Night](https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x) | 3:56 | 2022-06-14 | 2023-01-13 |
 | [Baby Got Back](https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Mack Daddy](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) | 4:22 | 2022-04-16 |  |
 | [Baby, Baby](https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:56 | 2022-04-16 | 2022-11-13 |
 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH), [Tom Lord\-Alge](https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 | 2022-04-16 |  |

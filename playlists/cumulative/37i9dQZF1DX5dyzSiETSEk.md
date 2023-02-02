@@ -4,7 +4,7 @@
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-123 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/5XFqsyLYlOB2spadiOeuPU)
+123 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

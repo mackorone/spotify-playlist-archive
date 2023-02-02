@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-10",
   "description": "D\u00e9sormais, aucune raison de se faire ch**r au gym.",
   "name": "Donne-to\u00e9",
-  "published_playlist_ids": [
-    "0U6BItUewcPTCkrT4zM3lw"
-  ],
   "tracks": [
     {
       "album": {
@@ -819,7 +816,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 143969,
       "name": "Girl Code",
       "url": "https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh"
@@ -870,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Good Example",
+        "url": "https://open.spotify.com/album/5XYRI6hFXHNmHL5RNWAJV3"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149052,
+      "name": "Good Example",
+      "url": "https://open.spotify.com/track/5PgAN9SzTeMgyPu16C5RON"
+    },
+    {
+      "album": {
         "name": "Good Example (with Andy Grammer)",
         "url": "https://open.spotify.com/album/2NjENS5zmbvNvABCfygUU6"
       },
@@ -885,7 +904,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 149052,
       "name": "Good Example (with Andy Grammer)",
       "url": "https://open.spotify.com/track/5SspaMrPfWyRCS0GpjIxa6"
@@ -1473,7 +1492,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-02-01",
       "duration_ms": 369523,
       "name": "Oser aimer - Dave Aud\u00e9 Pride Remix",
       "url": "https://open.spotify.com/track/38S02R6YsFzcinhk74QLyh"
@@ -1611,7 +1630,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 178369,
       "name": "Purple Hat",
       "url": "https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z"
@@ -1629,7 +1648,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 178369,
       "name": "Purple Hat",
       "url": "https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl"
@@ -1941,7 +1960,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 218616,
       "name": "Sous les rivi\u00e8res",
       "url": "https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4"

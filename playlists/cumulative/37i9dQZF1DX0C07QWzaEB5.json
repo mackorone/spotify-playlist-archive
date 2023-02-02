@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "\uc720\ud589\uc740 \ub3cc\uace0 \ub3cc\uc544! \ub808\ud2b8\ub85c\uc5d0 \uc0c8\ub85c\uc6c0\uc744 \ub354\ud55c \ub274\ud2b8\ub85c \ub304\uc2a4 \uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (\ucee4\ubc84: SUNMI(\uc120\ubbf8))",
   "name": "\ub274\ud2b8\ub85c \ub304\uc2a4 \ubba4-\uc9c1",
-  "published_playlist_ids": [
-    "5TvEGY4L7IQ4l4nYERahnP"
-  ],
   "tracks": [
     {
       "album": {
@@ -317,6 +314,28 @@
       "duration_ms": 205506,
       "name": "Crazy like feather",
       "url": "https://open.spotify.com/track/4ORTthTsQPhRAUFv5AyS0w"
+    },
+    {
+      "album": {
+        "name": "Pairing",
+        "url": "https://open.spotify.com/album/6A5WZUUzuktHTw1n6M03ya"
+      },
+      "artists": [
+        {
+          "name": "FilmSound",
+          "url": "https://open.spotify.com/artist/0sCvfEmo7OQ1cd2eID60rD"
+        },
+        {
+          "name": "OYEON",
+          "url": "https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/4Umzv0vY5vDuXtYuJQp5Oq"
     },
     {
       "album": {
@@ -1005,6 +1024,24 @@
     {
       "album": {
         "name": "JUST 4 U\u2026",
+        "url": "https://open.spotify.com/album/6nRF22Aks8hXmdHmZ5XrQV"
+      },
+      "artists": [
+        {
+          "name": "CSVC",
+          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252148,
+      "name": "JUST 4 U\u2026",
+      "url": "https://open.spotify.com/track/48UxplgQgIdFJVFkMCza7a"
+    },
+    {
+      "album": {
+        "name": "JUST 4 U\u2026",
         "url": "https://open.spotify.com/album/4GNHP9aikaKwjS11EiIBaD"
       },
       "artists": [
@@ -1015,7 +1052,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 252148,
       "name": "JUST 4 U\u2026",
       "url": "https://open.spotify.com/track/4wUJrcKgtHG6ya2DQuoGsk"
@@ -1280,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Michael Jackson",
+        "url": "https://open.spotify.com/album/3XHOJvbNjgu8CFE2kd5hKg"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Michael Jackson (Dance Ver.)",
+      "url": "https://open.spotify.com/track/2g3umQsrOCBk3mSKafF8Sd"
+    },
+    {
+      "album": {
         "name": "AQUA CITY",
         "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
@@ -1381,7 +1436,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 193842,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/0vV4yOjr2G6rffnoUg0ttG"
@@ -1641,7 +1696,7 @@
       },
       "artists": [
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
@@ -2207,6 +2262,24 @@
     {
       "album": {
         "name": "SUMMER LOVE\u2026",
+        "url": "https://open.spotify.com/album/08PiCTIK798erEd7joIO7d"
+      },
+      "artists": [
+        {
+          "name": "CSVC",
+          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250004,
+      "name": "SUMMER LOVE\u2026",
+      "url": "https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc"
+    },
+    {
+      "album": {
+        "name": "SUMMER LOVE\u2026",
         "url": "https://open.spotify.com/album/2cMseEooCLrfoNa8GZ13nu"
       },
       "artists": [
@@ -2217,7 +2290,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 250004,
       "name": "SUMMER LOVE\u2026",
       "url": "https://open.spotify.com/track/5tVvmlomWtXPTYCirxP5NZ"
@@ -2587,6 +2660,28 @@
       "duration_ms": 214439,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3iQqCQZtx8ZEKSXBkg3J4s"
+    },
+    {
+      "album": {
+        "name": "Tonight (Feat. Summer Soul)",
+        "url": "https://open.spotify.com/album/6KeFlvykuxCkKSHYPXrc8u"
+      },
+      "artists": [
+        {
+          "name": "JINex",
+          "url": "https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT"
+        },
+        {
+          "name": "Summer Soul",
+          "url": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202124,
+      "name": "Tonight (Feat. Summer Soul)",
+      "url": "https://open.spotify.com/track/5oodXSTHKXbciMByyywlC8"
     },
     {
       "album": {
@@ -3043,6 +3138,24 @@
       "duration_ms": 273078,
       "name": "\ub110 \uc88b\uc544\ud558\uace0 \uc788\uc5b4 I'm Into You (with. Kirin, Dala, Jungu)",
       "url": "https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3"
+    },
+    {
+      "album": {
+        "name": "\ubb34\uc790\ube44 No Mercy",
+        "url": "https://open.spotify.com/album/7aWySG1r7rZtJSdokvFBTb"
+      },
+      "artists": [
+        {
+          "name": "CSVC",
+          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193841,
+      "name": "\ubb34\uc790\ube44 No Mercy",
+      "url": "https://open.spotify.com/track/1Mu2WHJ7q2axc3xuq25nKA"
     },
     {
       "album": {

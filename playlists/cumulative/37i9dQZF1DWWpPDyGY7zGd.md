@@ -4,7 +4,7 @@
 
 > Ambient glimpses of light.
 
-179 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/64DRbQC1Lcyo6AXTksrVbC)
+179 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-129 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/2QwlzrEjUwHNpvdCZVIDMX)
+129 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,9 +55,9 @@
 | [El Wall](https://open.spotify.com/track/00MXsjYKxtLgohKqsXAAHA) | [Jarana Beat](https://open.spotify.com/artist/34y5NnlN2zQYqZZWwYSy60), [Ana Tijuox](https://open.spotify.com/artist/2TEJXR9asamFJ7EMuuFpKE), [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [El Wall](https://open.spotify.com/album/4L1giQreKUcrCX2gJo8O6A) | 2:54 | 2022-03-04 |  |
 | [Ella Me Enamoró](https://open.spotify.com/track/122nYSJuwGDvoODZxTAuE5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Ella Me Enamoró](https://open.spotify.com/album/46M72fEbiyFNH4pvyw5Pxp) | 3:46 | 2022-03-04 |  |
 | [En el Último Trago \(feat\. Cyrille Aimée\)](https://open.spotify.com/track/1bUBrrlsck74gistqPBpAp) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [En el Último Trago \(feat\. Cyrille Aimée\)](https://open.spotify.com/album/3tAognJvJ33ya4hsZts96q) | 3:54 | 2022-03-04 |  |
-| [En Tu Pelo](https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:03 | 2022-03-04 |  |
 | [En Tu Pelo](https://open.spotify.com/track/3fvk9GHGFlyXPf4eSAJGwW) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [En Tu Pelo](https://open.spotify.com/album/7DUAPU2UlcTZTB73Kj1Kld) | 3:03 | 2022-03-04 | 2022-11-13 |
 | [En tu pelo](https://open.spotify.com/track/7pfyOy1Tbz68brlpi2JrZU) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [En tu pelo](https://open.spotify.com/album/61JJTXsxJCbeU3J3rOcadz) | 3:04 | 2022-03-04 | 2022-07-29 |
+| [En Tu Pelo](https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:03 | 2022-03-04 |  |
 | [Es Mi Derecho](https://open.spotify.com/track/0vdl4qtAy9Na3baARNsnJE) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Es Mi Derecho](https://open.spotify.com/album/4Jzve9aeQTRVjw4StscJ39) | 3:00 | 2022-03-04 |  |
 | [Eso](https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Eso](https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W) | 4:02 | 2022-03-04 |  |
 | [Esperanza](https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Esperanza](https://open.spotify.com/album/4PtPHfnj1DZZIkVNlVjpyq) | 5:28 | 2022-03-04 |  |

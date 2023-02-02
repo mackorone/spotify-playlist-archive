@@ -4,7 +4,7 @@
 
 > This is Slipknot\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/7cRsoDpUOIMkzdPYuPNOkI)
+52 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [H377](https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:23 | 2022-10-02 | 2022-10-22 |
 | [Heirloom](https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:31 | 2022-10-12 | 2022-11-11 |
 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 | 2022-10-01 |  |
+| [I Am Hated](https://open.spotify.com/track/1hrDDgkVbbS5bySL8uHLh3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 2:37 | 2022-12-10 | 2023-01-12 |
 | [Killpop](https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 3:45 | 2022-05-30 |  |
 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 | 2022-05-30 |  |
 | [Medicine for the Dead](https://open.spotify.com/track/0qFBuG34m8V4LMgYUMYPV7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 6:16 | 2022-10-01 | 2022-10-31 |

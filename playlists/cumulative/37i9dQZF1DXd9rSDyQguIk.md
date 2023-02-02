@@ -4,7 +4,7 @@
 
 > Nothing but classic blues tracks
 
-99 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/25kgjWOtno43YyLeVznhiH)
+99 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [I'm A Man](https://open.spotify.com/track/51tJjIf9azRnA6om4BcfNm) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/6ZM2GOoGAbRZAssx5Lspmu) | 2:44 | 2018-03-29 | 2022-07-29 |
 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 | 2018-03-29 |  |
 | [I'm A Man \- Single Version](https://open.spotify.com/track/0zN29YHQSZz1WbyA3DAOrq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Electric Blues](https://open.spotify.com/album/7MtqlIFHBn8g0KhzMNASay) | 3:02 | 2018-03-29 | 2022-11-13 |
-| [I'm A Woman \- Remastered](https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 4:34 | 2021-06-18 | 2022-11-13 |
+| [I'm A Woman \- Remastered](https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 4:34 | 2021-06-18 |  |
 | [I'm Tore Down](https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 4:13 | 2020-01-15 |  |
 | [Inflation](https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o) | [Earnest Jackson](https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm), [Sugar Daddy and the Gumbo Roux](https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6) | [Inflation](https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD) | 3:19 | 2022-11-03 |  |
 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 | 2020-01-15 |  |
@@ -71,7 +71,7 @@
 | [Mean Mistreater](https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 3:52 | 2018-03-29 |  |
 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 | 2020-01-15 |  |
 | [My Babe](https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:42 | 2020-01-15 |  |
-| [Now That I'm Down](https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 6:02 | 2018-03-29 | 2022-11-13 |
+| [Now That I'm Down](https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 6:02 | 2018-03-29 |  |
 | [Now That I'm Down](https://open.spotify.com/track/6eIJfQX1WPU2iOFe1x605S) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3y3AIABlmCoUuSyVC8vqpY) | 6:02 | 2018-03-29 | 2022-07-28 |
 | [Part Time Love](https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [This Is Clarence Carter](https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx) | 2:41 | 2018-03-29 |  |
 | [Pride and Joy](https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 3:39 | 2018-03-29 |  |
@@ -92,9 +92,9 @@
 | [Stone Crazy](https://open.spotify.com/track/3FVpPBl3Jbd5TRLUFZamO9) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walkin' Through The Woods](https://open.spotify.com/album/3zAWUcaE9lzjf5qWcNqJlk) | 7:14 | 2020-01-15 | 2022-07-29 |
 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 | 2018-03-29 |  |
 | [T\-Bone Shuffle](https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Deluxe Edition](https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN) | 4:55 | 2020-01-15 |  |
-| [Texas Flood](https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9) | [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [The Best Of Duke\-Peacock Blues](https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q) | 2:43 | 2018-03-29 |  |
+| [Texas Flood](https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9) | [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [The Best Of Duke\-Peacock Blues](https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q) | 2:43 | 2018-03-29 | 2023-02-01 |
 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 | 2018-03-29 |  |
-| [The Things That I Used To Do](https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 3:00 | 2020-01-15 |  |
+| [The Things That I Used To Do](https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 3:00 | 2020-01-15 | 2022-12-27 |
 | [The Thrill Is Gone](https://open.spotify.com/track/4VCl2a5JvdrEx6PL2P29ty) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Anthology](https://open.spotify.com/album/1LzYzoyDpRjM8o5GDha0yN) | 5:24 | 2018-03-29 | 2022-07-29 |
 | [The Thrill Is Gone](https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:24 | 2018-03-29 |  |
 | [To Know You Is To Love You](https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [To Know You Is To Love You](https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl) | 8:35 | 2020-01-15 |  |

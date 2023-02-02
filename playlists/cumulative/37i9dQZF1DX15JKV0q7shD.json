@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Those quintessential sad songs ",
   "name": "Classics For Crying",
-  "published_playlist_ids": [
-    "25YMJMMUP0rqPnac5HBzvf"
-  ],
   "tracks": [
     {
       "album": {
@@ -343,7 +340,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 279826,
       "name": "Breathe (2 AM)",
       "url": "https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56"
@@ -971,7 +968,7 @@
     {
       "album": {
         "name": "I Don't Want To Miss A Thing EP",
-        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
+        "url": "https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F"
       },
       "artists": [
         {
@@ -982,6 +979,24 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299723,
+      "name": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq"
+    },
+    {
+      "album": {
+        "name": "I Don't Want To Miss A Thing EP",
+        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 299760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
@@ -1537,7 +1552,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-18",
       "duration_ms": 258653,
       "name": "Myth",
       "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
@@ -1609,7 +1624,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 339533,
       "name": "Pale Blue Eyes",
       "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
@@ -2019,7 +2034,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240706,
-      "name": "Stay - Album Version (Edited)",
+      "name": "Stay",
       "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
     },
     {

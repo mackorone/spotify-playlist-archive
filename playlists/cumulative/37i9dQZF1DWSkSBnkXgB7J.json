@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-05",
   "description": "Everything you need to hear from the most exciting artists. Handpicked by our editors. Cover: BiGSaM.",
   "name": "RADAR ARABIA",
-  "published_playlist_ids": [
-    "1Ds22R1HY8cK2GQHEEkmhI"
-  ],
   "tracks": [
     {
       "album": {
@@ -1368,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0646\u0642\u0630\u064a\u0646\u064a \u0645\u0646\u064a",
+        "url": "https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 181335,
+      "name": "\u0627\u0646\u0642\u0630\u064a\u0646\u064a \u0645\u0646\u064a",
+      "url": "https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5"
+    },
+    {
+      "album": {
         "name": "\u0628\u0627\u0644\u0645\u062e\u062a\u0635\u0631 - Single",
         "url": "https://open.spotify.com/album/4fEQSmOjq9oU6gtl8iMB26"
       },
@@ -1607,6 +1622,24 @@
       "duration_ms": 201183,
       "name": "\u0648\u0644\u0627 \u0635\u062d\u0628\u0647 \u0627\u062d\u0644\u0649",
       "url": "https://open.spotify.com/track/5abjiC8O2jUGyXhFozLhOc"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627 \u0628\u0627\u063a\u064a\u0629",
+        "url": "https://open.spotify.com/album/5r1nnBiexkEb6NG9Dvlfro"
+      },
+      "artists": [
+        {
+          "name": "Bigsam",
+          "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197537,
+      "name": "\u064a\u0627 \u0628\u0627\u063a\u064a\u0629",
+      "url": "https://open.spotify.com/track/4VEJSIx2XA4MZbNzRDLQNz"
     },
     {
       "album": {

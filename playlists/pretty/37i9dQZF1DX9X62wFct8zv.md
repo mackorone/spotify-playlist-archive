@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X62wFct8zv.md) - [plain]
 
 > The best of Fleetwood Mac, together and apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,997 likes - 72 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,898 likes - 72 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 |
 | 2 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 5:29 |
 | 3 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 |
-| 4 | [Countdown](https://open.spotify.com/track/3s9FRQEyUJoOsijNGiOTQQ) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Out of the Cradle](https://open.spotify.com/album/6AXUV0aHP6vWHVNOOlH8XA) | 3:23 |
+| 4 | [Friend](https://open.spotify.com/track/3befmnYkiaaIrKBm0y4oVC) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [In The Meantime](https://open.spotify.com/album/5H8eRRAEx1Cb5I2RE4eh51) | 4:30 |
 | 5 | [Albatross \- 2018 Master](https://open.spotify.com/track/3iTkd7x5X2LIVKu7JNwqHR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 3:11 |
 | 6 | [Sentimental Lady](https://open.spotify.com/track/478thMMvYGris8eJPcDRoq) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [French Kiss](https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ) | 2:58 |
 | 7 | [Sara \- 2015 Remaster](https://open.spotify.com/track/0YuCATlVwxG5Mq8lN2Omro) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:35 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X62wFct8zv.md) - [plain]
 | 15 | [Oh Well \(Pt\. 1\) \- 2013 Remaster](https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR) | 3:22 |
 | 16 | [Wild Heart \- 2016 Remaster](https://open.spotify.com/track/0gzI0zfUaoXFVNTUNQE9ad) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 6:09 |
 | 17 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 |
-| 18 | [Friend](https://open.spotify.com/track/3befmnYkiaaIrKBm0y4oVC) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [In The Meantime](https://open.spotify.com/album/5H8eRRAEx1Cb5I2RE4eh51) | 4:30 |
+| 18 | [Countdown](https://open.spotify.com/track/3s9FRQEyUJoOsijNGiOTQQ) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Out of the Cradle](https://open.spotify.com/album/6AXUV0aHP6vWHVNOOlH8XA) | 3:23 |
 | 19 | [Big Love \- 2017 Remaster](https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:43 |
 | 20 | [Trouble](https://open.spotify.com/track/04ijIUVdT4Qy1SBWFUPROY) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Law and Order](https://open.spotify.com/album/38UhlwlFmxKBRVCUdaY21m) | 3:56 |
 | 21 | [Gold Dust Woman \- 2004 Remaster](https://open.spotify.com/track/1cioTI6lHVmW4UWKEi8ChG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Deluxe Edition\)](https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1) | 4:55 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X62wFct8zv.md) - [plain]
 | 71 | [Say You Love Me](https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:09 |
 | 72 | [Leather and Lace](https://open.spotify.com/track/6L5c6wFGDQswebVAS3BmUw) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 3:54 |
 
-Snapshot ID: `MTY1NDA5MDMzMywwMDAwMDAwMGFjZWIyNGIxMjU3MTBiMTZlYzdjYzVjYzk3ZDFkNzk3`
+Snapshot ID: `MTY2OTkzOTI2MiwwMDAwMDAwMGI2MDMwZTU1M2RlMmNkNDkwNzliMjQ0ZGQ5YjUxNDBk`

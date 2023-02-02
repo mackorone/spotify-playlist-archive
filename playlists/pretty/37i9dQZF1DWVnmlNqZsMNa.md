@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnmlNqZsMNa.md) - [plain]
 
 > The nature has a lot to say\. Come, talk a walk!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,669 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,148 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

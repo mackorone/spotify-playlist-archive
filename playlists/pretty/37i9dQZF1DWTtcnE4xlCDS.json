@@ -1,15 +1,387 @@
 {
   "description": "Enjoy music from DEN-ON-BU! \u6c17\u92ed\u306e\u30b3\u30f3\u30dd\u30fc\u30b6\u30fc\u304c\u591a\u6570\u53c2\u52a0\u3057\u3001\u4eca\u8a71\u984c\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30d7\u30ed\u30b8\u30a7\u30af\u30c8<a href=\"https://denonbu.jp/\">\u300c\u96fb\u97f3\u90e8\u300d</a>\u3092\u7279\u96c6!! \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3068\u7d21\u3050\u96fb\u5b50\u97f3\u697d\u306e\u4e16\u754c\u306b\u98db\u3073\u8fbc\u3082\u3046\u3002",
-  "num_followers": 16381,
+  "num_followers": 22725,
   "original_name": "DEN-ON-BU \u96fb\u97f3\u90e8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYyMzQzOCwwMDAwMDAwMDdjNjRkZTUyMTIyNTZlNDVkMjQ2NTk3MDY1MmFlNjhl",
+  "snapshot_id": "MTY3NDczNzU2OCwwMDAwMDAwMDg2ZTJhM2M1YzE2ODNhZGI2ZjM4YTBkMzk1MDViZTYw",
   "tracks": [
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/4RkyRGUSz9b3Biwl0fNjZB"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "picco",
+          "url": "https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM"
+        },
+        {
+          "name": "\u72ac\u5420\u57fc\u7d2b\u674f (CV: \u9577\u8c37\u5ddd\u73b2\u5948)",
+          "url": "https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/0e3J9w5XeUq7zLICM7VKjY"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "teardrop",
+        "url": "https://open.spotify.com/album/2cBHn11uOtQyNnet1BjlG3"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "picco",
+          "url": "https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM"
+        },
+        {
+          "name": "\u685c\u4e43\u7f8e\u3005\u514e (CV: \u5c0f\u5742\u4e95\u7950\u8389\u7d75)",
+          "url": "https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "teardrop",
+      "url": "https://open.spotify.com/track/3TYNQm2F0p6KX3AcHuS9Bw"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "You Are The Light",
+        "url": "https://open.spotify.com/album/5fa0qYzIn1ooIPuIg5okt2"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u5916\u795e\u7530\u6587\u82b8\u9ad8\u6821",
+          "url": "https://open.spotify.com/artist/5l6WrdmLlrxtBeRH6OOub6"
+        },
+        {
+          "name": "\u795e\u5bae\u524d\u53c2\u9053\u5b78\u5712",
+          "url": "https://open.spotify.com/artist/5OIAt6iflQP7QE5dWAg3Ii"
+        },
+        {
+          "name": "\u6e2f\u767d\u91d1\u5973\u5b66\u9662",
+          "url": "https://open.spotify.com/artist/6eHsXYmw47VoTIVRENvVbC"
+        },
+        {
+          "name": "\u5e1d\u97f3\u56fd\u969b\u5b66\u9662",
+          "url": "https://open.spotify.com/artist/3DuzdA7sSHyXRGHC7HZHoa"
+        },
+        {
+          "name": "\u6e21\u8fba \u91cf [BNSI]",
+          "url": "https://open.spotify.com/artist/40hUcepx63vnmj2KNmG9yP"
+        }
+      ],
+      "duration_ms": 268573,
+      "name": "You Are The Light",
+      "url": "https://open.spotify.com/track/5ldDKgidUu0EYHjOGizdPS"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "Reverse Edge",
+        "url": "https://open.spotify.com/album/7qPh0T13PCTFhoJolDuHj6"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Kan Takahiko",
+          "url": "https://open.spotify.com/artist/2eOPTQxZPGde8cZPJv80SX"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Reverse Edge",
+      "url": "https://open.spotify.com/track/2gIFO4B71chQvFfUb6dzI5"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3JtrsZzAxhjO8n9YDz0Fw5"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "BOOGEY VOXX",
+          "url": "https://open.spotify.com/artist/3VAdXfwUyM3Z1KvtnPlllq"
+        },
+        {
+          "name": "D.watt(IOSYS)",
+          "url": "https://open.spotify.com/artist/0t8quIImGrrY7TD7uW2twd"
+        },
+        {
+          "name": "\u65e5\u9ad8\u96f6\u5948 (CV: \u8500 \u7950\u4f73)",
+          "url": "https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz"
+        },
+        {
+          "name": "D.watt",
+          "url": "https://open.spotify.com/artist/7jEjiWsuWaoWwNS9I8CtJr"
+        }
+      ],
+      "duration_ms": 327586,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/42c2s0zb9FT06MvOeQJrSS"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "UNDERCOVER",
+        "url": "https://open.spotify.com/album/2o6aSU2iKpD3mUAzyaH5so"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Shinpei Nasuno",
+          "url": "https://open.spotify.com/artist/5PR2yqnZM0wldX5hvDKtSO"
+        },
+        {
+          "name": "\u65e5\u9ad8\u96f6\u5948 (CV: \u8500 \u7950\u4f73)",
+          "url": "https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz"
+        },
+        {
+          "name": "\u6771\u96f2\u548c\u97f3 (CV: \u5929\u97f3\u307f\u307b)",
+          "url": "https://open.spotify.com/artist/3986rXZPVr6K7P0JrNzqvV"
+        },
+        {
+          "name": "\u8305\u91ce\u3075\u305f\u3070 (CV: \u5800\u8d8a\u305b\u306a)",
+          "url": "https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD"
+        }
+      ],
+      "duration_ms": 241573,
+      "name": "UNDERCOVER",
+      "url": "https://open.spotify.com/track/2DqCucDmG35UtS93dbOkag"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "Hakahakai Princess",
+        "url": "https://open.spotify.com/album/25gQRb9A1ZfqRwAj54uKZx"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u308a\u3080\u308b (CV: \u3092\u3068\u306f)",
+          "url": "https://open.spotify.com/artist/5trPMTBMzwq4ZCACvjAl77"
+        },
+        {
+          "name": "Shogo Nomura [BNSI]",
+          "url": "https://open.spotify.com/artist/27qFVObzkSkdHWoxUydH7C"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Hakahakai Princess",
+      "url": "https://open.spotify.com/track/2MFr1ExctkjXF3fCOMEx7r"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "Kitsune Tsuki",
+        "url": "https://open.spotify.com/album/6WtBtNjx3ewqeCT2I4kKzK"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u5b89\u500d=\u30b7\u30e3\u30af\u30b8=\u6469\u8036 (CV: SONOTA)",
+          "url": "https://open.spotify.com/artist/60QMxQ8fL0bkHTo5bQTErW"
+        },
+        {
+          "name": "Sho Okada [BNSI]",
+          "url": "https://open.spotify.com/artist/4Gxcq5xbQxSPTfmg7CKJxW"
+        }
+      ],
+      "duration_ms": 163466,
+      "name": "Kitsune Tsuki",
+      "url": "https://open.spotify.com/track/2UDHtvUi0USlOSYwpSR47u"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "Cheater",
+        "url": "https://open.spotify.com/album/0ovGFZNkO5iPwGEeiMZp8z"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u5927\u795e \u7e8f (CV: \u5409\u7530\u51dc\u97f3)",
+          "url": "https://open.spotify.com/artist/0KVD9C9bWghG5tKjDMZxrM"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "Cheater",
+      "url": "https://open.spotify.com/track/5twtNpFW2opaTy4MbAYdcV"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "Kingen",
+        "url": "https://open.spotify.com/album/3APd2VG6zRlbrqPo7u1b0p"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u65b0\u5bbfGR\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/05W3IYfntUTen1kfrsHY0N"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "S.L.N.M",
+          "url": "https://open.spotify.com/artist/2wQ6WfIXCtYuSVrBOjUDef"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Kingen",
+      "url": "https://open.spotify.com/track/0LaGomAkrvf3BNvg5JecGt"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "Sukatto natubare!\u2600hachamecha beach de do-n da Yo !",
+        "url": "https://open.spotify.com/album/7eF4gHUz3mQ2b9PqmTtmp8"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u65e5\u9ad8\u96f6\u5948 (CV: \u8500 \u7950\u4f73)",
+          "url": "https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz"
+        },
+        {
+          "name": "\u6771\u96f2\u548c\u97f3 (CV: \u5929\u97f3\u307f\u307b)",
+          "url": "https://open.spotify.com/artist/3986rXZPVr6K7P0JrNzqvV"
+        },
+        {
+          "name": "\u8305\u91ce\u3075\u305f\u3070 (CV: \u5800\u8d8a\u305b\u306a)",
+          "url": "https://open.spotify.com/artist/2t6UP0EFODfJPxn1nsADpD"
+        },
+        {
+          "name": "\u8fd1\u85e4\u79c0\u6b21",
+          "url": "https://open.spotify.com/artist/5O7qpLkBExGmFkET2llHHG"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Lemon girl",
+      "url": "https://open.spotify.com/track/6T7zXwZ90biDUfemV96ZeX"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "Sukatto natubare!\u2600hachamecha beach de do-n da Yo !",
+        "url": "https://open.spotify.com/album/7eF4gHUz3mQ2b9PqmTtmp8"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "Ray_Oh",
+          "url": "https://open.spotify.com/artist/0Fj8TqIKuZMy6jV6Rh3ksg"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "GLITTER HORIZON by Ray_Oh",
+      "url": "https://open.spotify.com/track/46YNhz2iikVKZnSwYnKLGn"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "PRECIOUS NIGHT",
+        "url": "https://open.spotify.com/album/7tIumwmVAVf6PilLZ1s7sX"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "\u30cf\u30ec\u30c8\u30ad\u30c9\u30ad",
+          "url": "https://open.spotify.com/artist/6nU3k3VQREJ4fiUafZzmwH"
+        },
+        {
+          "name": "\u9ed2\u9244\u305f\u307e (CV: \u79cb\u5948)",
+          "url": "https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph"
+        }
+      ],
+      "duration_ms": 272200,
+      "name": "PRECIOUS NIGHT",
+      "url": "https://open.spotify.com/track/70E8iQmFwLKzYDdaGlyyrO"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
+      "album": {
+        "name": "Sweet Illusion",
+        "url": "https://open.spotify.com/album/5UkeLvWAFmmCo4ogCKQ2ZL"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "\u767d\u91d1 \u714c (CV: \u5c0f\u5bae\u6709\u7d17)",
+          "url": "https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw"
+        }
+      ],
+      "duration_ms": 237187,
+      "name": "Sweet Illusion",
+      "url": "https://open.spotify.com/track/3NS4FZSiLcwkVrgGdSUIEI"
+    },
+    {
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Cinderella Magic Stage",
         "url": "https://open.spotify.com/album/0RwGN4h39P816HrnYrKhf6"
@@ -33,7 +405,7 @@
       "url": "https://open.spotify.com/track/4i5Z3kLt4j7wrsp0HdhSVU"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Be All Right",
         "url": "https://open.spotify.com/album/1YHbPuMhTiamHXWmF00iK5"
@@ -57,7 +429,7 @@
       "url": "https://open.spotify.com/track/3bYDKIuE1iwwwUTrZQxiyC"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Fantasia of Salvation",
         "url": "https://open.spotify.com/album/7A2UrCNVVZMFXFQnITnz18"
@@ -81,7 +453,7 @@
       "url": "https://open.spotify.com/track/30BZO8w8Il1gQhJP6PhUAn"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "THE ONE",
         "url": "https://open.spotify.com/album/0Zu5SmlTbjp1pHRbBFkcuu"
@@ -105,7 +477,7 @@
       "url": "https://open.spotify.com/track/5G7iWfLidPNFKgnq2M5Klw"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Ilusion (Respect. AKROGLAM)",
         "url": "https://open.spotify.com/album/35kx9lZ59v06reBvMLwfnz"
@@ -133,7 +505,7 @@
       "url": "https://open.spotify.com/track/1lCxUEctBFAi1pR8S1AA96"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Azabu Autobahn",
         "url": "https://open.spotify.com/album/28gwqAP3lRHLtOtIljLDRT"
@@ -161,7 +533,7 @@
       "url": "https://open.spotify.com/track/3GDkfY41zqh8hR9fmT9Xgn"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "IAM",
         "url": "https://open.spotify.com/album/4Bzj9M3FEKoMx13RGNdHCP"
@@ -197,7 +569,7 @@
       "url": "https://open.spotify.com/track/4U0A5A7C9DiJ8XPsVXRIxt"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "emeth",
         "url": "https://open.spotify.com/album/4Ws5sJt6zxPLXPcijetsP7"
@@ -217,7 +589,7 @@
       "url": "https://open.spotify.com/track/6cbOkryaoMax1aIgeR4MUG"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Do You Even DJ? 2nd",
         "url": "https://open.spotify.com/album/1yG1RxfZMLg2IWQcETcs9r"
@@ -241,7 +613,7 @@
       "url": "https://open.spotify.com/track/24sv6qDu9hafOJ8VhEL2ac"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Sync My Lights",
         "url": "https://open.spotify.com/album/2vTZyxDN4NpFRJWHWv740U"
@@ -269,7 +641,7 @@
       "url": "https://open.spotify.com/track/6xUEfLhkIz6lOycSgPHYDd"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Tsukuyomi no Dance",
         "url": "https://open.spotify.com/album/1zN8mlWjSWlCJZnO2dfJyD"
@@ -289,7 +661,7 @@
       "url": "https://open.spotify.com/track/2dasj4hJ2o2y0yTeKBYRqH"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Anthem of Dawn",
         "url": "https://open.spotify.com/album/2ZWe388APLwZ8XNv2hLzFv"
@@ -309,7 +681,7 @@
       "url": "https://open.spotify.com/track/5hJQB4qDmypCtoIpkfOCqC"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Platinum White",
         "url": "https://open.spotify.com/album/155Z9tcdBwlpYj3IiEjbsX"
@@ -329,7 +701,7 @@
       "url": "https://open.spotify.com/track/2A4lO6hSjSznM03D4WIsnl"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU 1st LIVE -Make Waves- DANCE TRACK",
         "url": "https://open.spotify.com/album/5xCiqHMNrNax57or0U39oH"
@@ -349,7 +721,7 @@
       "url": "https://open.spotify.com/track/1BaF3CLIyQCOm8PkNpqK0e"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU 1st LIVE -Make Waves- DANCE TRACK",
         "url": "https://open.spotify.com/album/5xCiqHMNrNax57or0U39oH"
@@ -365,11 +737,11 @@
         }
       ],
       "duration_ms": 173114,
-      "name": "Sweet Operation",
+      "name": "Sweet Operation by Midy",
       "url": "https://open.spotify.com/track/5DyirjXPWr2fPllPR3Elqc"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU 1st LIVE -Make Waves- DANCE TRACK",
         "url": "https://open.spotify.com/album/5xCiqHMNrNax57or0U39oH"
@@ -385,11 +757,11 @@
         }
       ],
       "duration_ms": 181663,
-      "name": "Spot AA",
+      "name": "Spot AA by maeshima soshi",
       "url": "https://open.spotify.com/track/3qlajwJ4RDxD7sgZF4NOuo"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU 1st LIVE -Make Waves- DANCE TRACK",
         "url": "https://open.spotify.com/album/5xCiqHMNrNax57or0U39oH"
@@ -405,11 +777,11 @@
         }
       ],
       "duration_ms": 214738,
-      "name": "I'm alive with this town",
+      "name": "I'm alive with this town by KOTONOHOUSE",
       "url": "https://open.spotify.com/track/0T6HOXSIh9X08GmnFIcNP1"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -433,7 +805,7 @@
       "url": "https://open.spotify.com/track/04MEog6E2IUp95ZkkyAAYU"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -457,7 +829,7 @@
       "url": "https://open.spotify.com/track/1SFgbp8eEYFL0qpQQ2Th8s"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -489,7 +861,7 @@
       "url": "https://open.spotify.com/track/5DliMfmbMwAy5NBHv8moVh"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -517,7 +889,7 @@
       "url": "https://open.spotify.com/track/7qcQAN75KcUR6et1Y5EftV"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "REIGN",
         "url": "https://open.spotify.com/album/3DeKeE8hyDJ9zEcaY9uAVS"
@@ -553,7 +925,7 @@
       "url": "https://open.spotify.com/track/2vpTEOs2PdL8Tx0IjTK3C6"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "NEW FRONTIER!",
         "url": "https://open.spotify.com/album/2L7EHzwRLzx9FP62URoz8e"
@@ -585,7 +957,7 @@
       "url": "https://open.spotify.com/track/2IHfPWl34hGzWV6y584oOA"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Sirens in the Beginning",
         "url": "https://open.spotify.com/album/41aQJ6VnDr7aU1wLOFRDsn"
@@ -605,7 +977,7 @@
       "url": "https://open.spotify.com/track/43KbYiXkCyQteYflZRxcsj"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "The Magic of Happiness",
         "url": "https://open.spotify.com/album/2xtXqkPmoILiZUxNnMXwgM"
@@ -629,7 +1001,7 @@
       "url": "https://open.spotify.com/track/2FkPvV6AXvoWhbxyfdHIZ4"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/7iKo3hG01Bgb2h4hJPBGjS"
@@ -657,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3ATbjKtNaaWD3GeSB0uscz"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Usagi to Kame",
         "url": "https://open.spotify.com/album/1vRpZYG1ePdbotZzHQe1G5"
@@ -677,7 +1049,7 @@
       "url": "https://open.spotify.com/track/04wOOiBT9EJKkDcWSLyBMb"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Bakuretsu Thaumazein",
         "url": "https://open.spotify.com/album/6u0YzoyeOjKUy3RW4pzYIV"
@@ -705,7 +1077,7 @@
       "url": "https://open.spotify.com/track/4orPQUbXlsloI3Oft0WeV5"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Beat Me!",
         "url": "https://open.spotify.com/album/2N7HFZBj8cZbQYeBgeZwo3"
@@ -729,7 +1101,7 @@
       "url": "https://open.spotify.com/track/5zSU7qrhBekdoQh1i9UfrQ"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Find Me",
         "url": "https://open.spotify.com/album/55ZftQ1gzLmBT0gfpuduBq"
@@ -761,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6xDneWRPZXxVqUS3qum8dw"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Intersection by Sho Okada",
         "url": "https://open.spotify.com/album/2fnTG9RGKdqA4yiS2fGFWI"
@@ -781,7 +1153,7 @@
       "url": "https://open.spotify.com/track/5fu0I2A0H7G3VSTji3PZa0"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Distortion",
         "url": "https://open.spotify.com/album/1MZQjf1v6LY8tBtHquAxYr"
@@ -813,7 +1185,7 @@
       "url": "https://open.spotify.com/track/3ABRb3RKETcTBBMhoig6xs"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "CHAMPION GIRL",
         "url": "https://open.spotify.com/album/0yXUfHV2VPf2tegyOU8yD3"
@@ -837,7 +1209,7 @@
       "url": "https://open.spotify.com/track/7tlHSna1rluIpbpNWd0nXM"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Melodies light up my life",
         "url": "https://open.spotify.com/album/0fwCP9wjyh3b3RgbysGIIN"
@@ -865,7 +1237,7 @@
       "url": "https://open.spotify.com/track/5Qd2F7YtcYdtPLw7GCWJP5"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Inverted Pyramid",
         "url": "https://open.spotify.com/album/4TQS6ogljAftq2vDqCf5Yz"
@@ -897,7 +1269,7 @@
       "url": "https://open.spotify.com/track/2TBAZ3ali3gViBMWBxYoXj"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Night Flying",
         "url": "https://open.spotify.com/album/53mbELBH9Aam49AtzMi8qP"
@@ -921,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0M8GrO8R44w1ykJ3MUGUyT"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Love me harder",
         "url": "https://open.spotify.com/album/6mUOP8vKNSH2EMK1LXKuBQ"
@@ -957,7 +1329,7 @@
       "url": "https://open.spotify.com/track/4nfozdNRD6T715w5tmP4XL"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "AKIBA CYCLE",
         "url": "https://open.spotify.com/album/2b6yOGWfssSP1hBL0sREEG"
@@ -989,7 +1361,7 @@
       "url": "https://open.spotify.com/track/0S2Wgllv1S2MvkiPOux5UM"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "MIDNIGHT TOWN",
         "url": "https://open.spotify.com/album/43zKpR2I32DvzyR65J1FWk"
@@ -1013,7 +1385,7 @@
       "url": "https://open.spotify.com/track/1UkPWHxvjLQcJyVE6hOW8P"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Catch a Fire",
         "url": "https://open.spotify.com/album/0c9l4Lt7enMy8abs1ZZGzC"
@@ -1037,7 +1409,7 @@
       "url": "https://open.spotify.com/track/71NAELZD48PIgqQ2b0d3pd"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Eat Sleep Dance",
         "url": "https://open.spotify.com/album/0HVuB4xTfASjULQAfRRS3s"
@@ -1061,7 +1433,7 @@
       "url": "https://open.spotify.com/track/5UCwDVUCNvDZ4OkIDa7Hyo"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Toarutowa",
         "url": "https://open.spotify.com/album/3N860l8PV2gNbQO8xCjptw"
@@ -1085,7 +1457,7 @@
       "url": "https://open.spotify.com/track/62IiUWRDn9bMQBlOo9isqZ"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Misty Love",
         "url": "https://open.spotify.com/album/1Pltsb0DjRg1YZAzM70wQ7"
@@ -1113,7 +1485,7 @@
       "url": "https://open.spotify.com/track/2yRTjU9poz9cJAYdo0di7j"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "JUNGLE WAHHOI",
         "url": "https://open.spotify.com/album/0X45zCJSfH8MUlQ5pyM07X"
@@ -1137,7 +1509,7 @@
       "url": "https://open.spotify.com/track/2S8870UUSoe1vF2fNWVD0V"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Idol Break All",
         "url": "https://open.spotify.com/album/6HwaHdbXGzLMYqV6hzcMng"
@@ -1161,7 +1533,7 @@
       "url": "https://open.spotify.com/track/3ITvF86ZmiQccDf4OChsO8"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Chick Chick love\u2661",
         "url": "https://open.spotify.com/album/1rUW0xUvhO4ewnBKdSBAhM"
@@ -1185,7 +1557,7 @@
       "url": "https://open.spotify.com/track/5XH6OGHlYOhWtnsOkQ3xr2"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "pop enemy",
         "url": "https://open.spotify.com/album/2BddqBb6t1Vcuv8x9bn7jk"
@@ -1217,7 +1589,7 @@
       "url": "https://open.spotify.com/track/1M6yK92r4sN3A50o53PNtX"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Akuma no lullaby",
         "url": "https://open.spotify.com/album/1n5GBg1rIfNefBDNEjEFVb"
@@ -1245,7 +1617,7 @@
       "url": "https://open.spotify.com/track/5jZtgXtuhmG4fmmjbJGN4L"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/0O1Z63jPSgAodlpW6kPUwA"
@@ -1277,7 +1649,7 @@
       "url": "https://open.spotify.com/track/4ZyP5GCDlqt4mHPJ9U7xc0"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "twilight",
         "url": "https://open.spotify.com/album/1FMBaIsI8fM3CFBq3zjJyr"
@@ -1309,7 +1681,7 @@
       "url": "https://open.spotify.com/track/2IKnzlGIQdUShjMK42c3EM"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Do You Even DJ?",
         "url": "https://open.spotify.com/album/3akNtT2KPE6r507NhxUhez"
@@ -1333,7 +1705,7 @@
       "url": "https://open.spotify.com/track/6GKtFAMI80Zl1cDTdyIjqM"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "In my world",
         "url": "https://open.spotify.com/album/44r3NHKDNHXuX71Jrhkm8W"
@@ -1365,7 +1737,7 @@
       "url": "https://open.spotify.com/track/7ppZ8vYZoQiFljgaV09FQG"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Where Is The Love",
         "url": "https://open.spotify.com/album/2RCEV3ttFO1vj3VW1X7RxS"
@@ -1401,7 +1773,7 @@
       "url": "https://open.spotify.com/track/68hk6aCelSgrKjHaUxJ8k5"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/3oXaOoZN7PTlfiBmB1nbzN"
@@ -1433,7 +1805,7 @@
       "url": "https://open.spotify.com/track/67bwJQoI7WcebvbG5UdU6E"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "Hand Over",
         "url": "https://open.spotify.com/album/4YKY3HF0VDa3iXQcoa81Uu"
@@ -1465,7 +1837,7 @@
       "url": "https://open.spotify.com/track/2cPHje3G1qqgjCVSSqSVaF"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1493,7 +1865,7 @@
       "url": "https://open.spotify.com/track/67w69NSmVL1XMcbIlhUYQW"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1517,7 +1889,7 @@
       "url": "https://open.spotify.com/track/15rnfjeK8fMhYHfPfjYPyf"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1537,7 +1909,7 @@
       "url": "https://open.spotify.com/track/7wymuy9a4mINzkHp5jP7mf"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1561,7 +1933,7 @@
       "url": "https://open.spotify.com/track/7EEtp77MW2pqMBwIZGDv9d"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1593,7 +1965,7 @@
       "url": "https://open.spotify.com/track/1f5aDvftajWjalmVB7pnHG"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DOKI DOKI PARIRARURA",
         "url": "https://open.spotify.com/album/09m1iPfWhvDjanKZhG0wbk"
@@ -1621,7 +1993,7 @@
       "url": "https://open.spotify.com/track/7n3J6UZFXUwI98tzKdayro"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1641,7 +2013,7 @@
       "url": "https://open.spotify.com/track/1rLB3WgbThVEA1OFx20ciE"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1665,7 +2037,7 @@
       "url": "https://open.spotify.com/track/1QBi1B7tNpnMoaV9I3qf9F"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1685,7 +2057,7 @@
       "url": "https://open.spotify.com/track/3xdfcxoBRKkO0sg543ojOD"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1709,7 +2081,7 @@
       "url": "https://open.spotify.com/track/4BqCbm2gzhR14lxyyPGy7O"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1729,7 +2101,7 @@
       "url": "https://open.spotify.com/track/7njmvcAZzBpnppNLrgwkqs"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1753,7 +2125,7 @@
       "url": "https://open.spotify.com/track/07RhH81L2S0QNnyf94FmBP"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1773,7 +2145,7 @@
       "url": "https://open.spotify.com/track/3LKIZwA0Arr1kfscCh5DvT"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1797,7 +2169,7 @@
       "url": "https://open.spotify.com/track/3eeNWXYH9g78steJlAdjYz"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1817,7 +2189,7 @@
       "url": "https://open.spotify.com/track/7tSFDKNE3vPnXPcTCjc68B"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU BEST ALBUM -season.0-",
         "url": "https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast"
@@ -1837,7 +2209,7 @@
       "url": "https://open.spotify.com/track/0dOyo1l8NZMDv87gp7al6s"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU (AKIBA Winter Magic REMIX)",
         "url": "https://open.spotify.com/album/3rtkHJ7fBqEnvZ4quYZDeB"
@@ -1857,7 +2229,7 @@
       "url": "https://open.spotify.com/track/34X3p442A0RywBZ0D84k9O"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU (AKIBA Winter Magic REMIX)",
         "url": "https://open.spotify.com/album/3rtkHJ7fBqEnvZ4quYZDeB"
@@ -1889,7 +2261,7 @@
       "url": "https://open.spotify.com/track/5PxjjGWlWl1lgzzbl3N9Ap"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU (AKIBA Winter Magic REMIX)",
         "url": "https://open.spotify.com/album/3rtkHJ7fBqEnvZ4quYZDeB"
@@ -1913,7 +2285,7 @@
       "url": "https://open.spotify.com/track/7EAnTPaHtQdkghGZYezG0g"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU (HARAJUKU Kawaii Halloween REMIX)",
         "url": "https://open.spotify.com/album/5e5pkM1cSsDKE5PCaDDvXc"
@@ -1933,7 +2305,7 @@
       "url": "https://open.spotify.com/track/4N3YDTeqab0kUjyWTaMRiF"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU (HARAJUKU Kawaii Halloween REMIX)",
         "url": "https://open.spotify.com/album/5e5pkM1cSsDKE5PCaDDvXc"
@@ -1957,7 +2329,7 @@
       "url": "https://open.spotify.com/track/4OCUDcBEmZRyslIEZl8O6K"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU (HARAJUKU Kawaii Halloween REMIX)",
         "url": "https://open.spotify.com/album/5e5pkM1cSsDKE5PCaDDvXc"
@@ -1989,7 +2361,7 @@
       "url": "https://open.spotify.com/track/5DfqtGOg5G3qzKtuYQW4mq"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "\u96fb\u97f3\u90e8 AZABU (Autumn Night REMIX)",
         "url": "https://open.spotify.com/album/2LlG4kNjrEMYT7QAb5MUpA"
@@ -2009,7 +2381,7 @@
       "url": "https://open.spotify.com/track/27YC5LzGBLFj28xcPLQGag"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "\u96fb\u97f3\u90e8 AZABU (Autumn Night REMIX)",
         "url": "https://open.spotify.com/album/2LlG4kNjrEMYT7QAb5MUpA"
@@ -2041,7 +2413,7 @@
       "url": "https://open.spotify.com/track/27VrXL0irjjIOLpepQhJeb"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "\u96fb\u97f3\u90e8 AZABU (Autumn Night REMIX)",
         "url": "https://open.spotify.com/album/2LlG4kNjrEMYT7QAb5MUpA"
@@ -2065,7 +2437,7 @@
       "url": "https://open.spotify.com/track/01AtZqeK3BpUAJUsUaFdox"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU (SHIBUYA New Year REMIX)",
         "url": "https://open.spotify.com/album/2wsCiA3HAaYG8Du98pBmyc"
@@ -2085,7 +2457,7 @@
       "url": "https://open.spotify.com/track/01swG4o04O49Vo1k60PYyf"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU (SHIBUYA New Year REMIX)",
         "url": "https://open.spotify.com/album/2wsCiA3HAaYG8Du98pBmyc"
@@ -2109,7 +2481,7 @@
       "url": "https://open.spotify.com/track/5oZC9VXHkiJr24qoLqqtho"
     },
     {
-      "added_at": "2022-10-13 01:10:00",
+      "added_at": "2023-01-26 12:52:48",
       "album": {
         "name": "DENONBU (SHIBUYA New Year REMIX)",
         "url": "https://open.spotify.com/album/2wsCiA3HAaYG8Du98pBmyc"

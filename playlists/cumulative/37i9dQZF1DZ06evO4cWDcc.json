@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-05",
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
   "name": "This Is Jimi Hendrix",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -17,7 +16,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-19",
       "duration_ms": 108373,
       "name": "Ain't No Telling",
       "url": "https://open.spotify.com/track/1ToNKcpVRTxzAgRiywifMt"
@@ -35,7 +34,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-02",
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
@@ -53,10 +52,68 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 265813,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/05wdcnTRK6d5tzQxCPTY3c"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263947,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0QenQiXnBs7s9fBWGluD17"
+    },
+    {
+      "album": {
+        "name": "Songs For Groovy Children: The Fillmore East Concerts",
+        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Auld Lang Syne - Live at the Fillmore East, NY - 12/31/69 - 2nd Set",
+      "url": "https://open.spotify.com/track/3AqVSxLsEpGtg1NbqOiid9"
+    },
+    {
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 238306,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
     },
     {
       "album": {
@@ -161,7 +218,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 106840,
       "name": "Chuck Wein Introduction - Live In Maui, 1970",
       "url": "https://open.spotify.com/track/6ZmOfbPSylxWUv1M9lpBgS"
@@ -233,7 +290,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 285386,
       "name": "Dolly Dagger",
       "url": "https://open.spotify.com/track/417qXCSHPqUYQHyPbRTpM2"
@@ -255,6 +312,24 @@
       "duration_ms": 229120,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
+    },
+    {
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Earth Blues",
+      "url": "https://open.spotify.com/track/7aAholeRCIGZD1QhHYKDDq"
     },
     {
       "album": {
@@ -359,7 +434,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 223680,
       "name": "Gypsy Eyes",
       "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
@@ -557,7 +632,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-01",
       "duration_ms": 283786,
       "name": "Johnny B. Goode - Live Berkeley Community Center, Berkeley, CA May 30, 1970",
       "url": "https://open.spotify.com/track/2Evi89iMO3vQMsGPMuSwhx"
@@ -647,7 +722,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 207760,
       "name": "Long Hot Summer Night",
       "url": "https://open.spotify.com/track/1HFj7yC7uZfqjWuoH6DO9r"
@@ -773,7 +848,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 330133,
       "name": "Power of Soul - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
       "url": "https://open.spotify.com/track/1xdaiO16taT9WMES2GeQCW"
@@ -795,6 +870,24 @@
       "duration_ms": 170813,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 222066,
+      "name": "Rainy Day, Dream Away",
+      "url": "https://open.spotify.com/track/0xwG5stzrc5B70TycPwenY"
     },
     {
       "album": {
@@ -831,6 +924,24 @@
       "duration_ms": 215133,
       "name": "Room Full of Mirrors",
       "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
+    },
+    {
+      "album": {
+        "name": "The Jimi Hendrix Experience (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/1tNYWgvzsqA4OqNDX9Qhoq"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111173,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band (Live in Stockholm, Sweden, September 5, 1967)",
+      "url": "https://open.spotify.com/track/5zOiE2wgEC6Q4WSGjKMbv5"
     },
     {
       "album": {
@@ -885,6 +996,24 @@
       "duration_ms": 234866,
       "name": "Sweet Angel",
       "url": "https://open.spotify.com/track/3t3CO2eP3gLbiFFN5Z4gmB"
+    },
+    {
+      "album": {
+        "name": "Los Angeles Forum - April 26, 1969 (Live)",
+        "url": "https://open.spotify.com/album/2UjqG36E2iVJ14XiJXL7jT"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 934026,
+      "name": "Tax Free - Live at the Los Angeles Forum, Inglewood, CA - April 26, 1969",
+      "url": "https://open.spotify.com/track/6aafnoN8DyLju1SVjN3YVH"
     },
     {
       "album": {
@@ -989,7 +1118,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-28",
       "duration_ms": 182546,
       "name": "Wait Until Tomorrow",
       "url": "https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7"

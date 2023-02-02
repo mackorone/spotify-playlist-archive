@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-01",
   "description": "Buenas vibras para limpiar la casa! The best vibes to keep the house clean!",
   "name": "Cleaning Kit en Espa\u00f1ol",
-  "published_playlist_ids": [
-    "0KuPiQD1QCKngSaltgSNqK"
-  ],
   "tracks": [
     {
       "album": {
@@ -403,6 +400,24 @@
       "duration_ms": 310360,
       "name": "Cali Pachanguero",
       "url": "https://open.spotify.com/track/1Z6fpTTJelPqdI4CwvnpK4"
+    },
+    {
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310360,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
     },
     {
       "album": {
@@ -909,7 +924,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 189066,
       "name": "Dulcito e Coco",
       "url": "https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML"
@@ -1223,7 +1238,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 249200,
       "name": "Enamorado de Ti",
       "url": "https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q"
@@ -1339,6 +1354,24 @@
       "duration_ms": 197640,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/27HEcrCxtG7hJQSi1JzMJI"
+    },
+    {
+      "album": {
+        "name": "Felicidad",
+        "url": "https://open.spotify.com/album/62sFaXABrQ6potGL10NAtl"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/5BAbezIjIvHR4VOMECrIv9"
     },
     {
       "album": {
@@ -1599,7 +1632,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 231786,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/4nVyHATevhl5RC6Qmoko5H"
@@ -2171,7 +2204,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-12",
       "duration_ms": 255533,
       "name": "La Vaca",
       "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
@@ -2906,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "La Tierra del Olvido (005)",
+        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188720,
+      "name": "Pa' Mayte",
+      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
+    },
+    {
+      "album": {
         "name": "La Tierra del Olvido",
         "url": "https://open.spotify.com/album/4eULyeHcegYFenTA5T0P51"
       },
@@ -3109,7 +3160,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
@@ -3179,7 +3230,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
@@ -3387,7 +3438,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 293906,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
@@ -3619,7 +3670,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 199110,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
@@ -3695,7 +3746,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 177397,
       "name": "Un Minuto",
       "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
@@ -3729,7 +3780,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 194906,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
@@ -3823,7 +3874,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 205746,
       "name": "Whine Up (feat. Elephant Man) - English Version",
       "url": "https://open.spotify.com/track/6Avndj1UPQLwR2qqzDwZBc"
@@ -3877,7 +3928,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 196893,
       "name": "Y Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX"

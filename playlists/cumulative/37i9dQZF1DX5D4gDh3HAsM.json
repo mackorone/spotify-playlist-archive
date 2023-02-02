@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
   "name": "Christmas Jazz",
-  "published_playlist_ids": [
-    "12HWYiTUQkdIKRtyDC4XH7"
-  ],
   "tracks": [
     {
       "album": {
@@ -143,7 +140,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 360133,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG"
@@ -197,7 +194,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 200461,
       "name": "Christmas Calling (Jolly Jones)",
       "url": "https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks"
@@ -215,7 +212,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 200461,
       "name": "Christmas Calling (Jolly Jones)",
       "url": "https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi"
@@ -273,7 +270,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 174893,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
@@ -995,7 +992,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 154080,
       "name": "Little Jack Frost Get Lost",
       "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
@@ -1057,10 +1054,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 126284,
       "name": "Mary's Boy Child",
       "url": "https://open.spotify.com/track/0cbzNKDJPIpNOKfBGiRmn2"
+    },
+    {
+      "album": {
+        "name": "A Jazzy Christmas Celebration",
+        "url": "https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126284,
+      "name": "Mary's Boy Child",
+      "url": "https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh"
     },
     {
       "album": {
@@ -1401,7 +1416,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 150412,
       "name": "Show Me The Magic",
       "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
@@ -1473,7 +1488,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 192800,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
@@ -1721,7 +1736,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 223315,
       "name": "The Little Things",
       "url": "https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8"
@@ -1905,7 +1920,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-11-28",
       "duration_ms": 286533,
       "name": "What Child Is This?",
       "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"
@@ -1988,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "European Quartet: A Little Christmas Music",
+        "url": "https://open.spotify.com/album/2KxLBRm5ZqsiiTs6efbZHb"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/6qaVpEUBt6tLOrzZkRjhJB"
+    },
+    {
+      "album": {
         "name": "Wonderful Christmastime",
         "url": "https://open.spotify.com/album/3fa8tkY8qCM6rmxp4p2xUd"
       },
@@ -1999,7 +2032,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 320000,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/7pDKjFyrECfNrXScLg5MM9"

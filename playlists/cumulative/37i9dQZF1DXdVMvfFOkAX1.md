@@ -4,7 +4,7 @@
 
 > Elegant, dark and full of character, explore the very best of Chopin's iconic waltzes.
 
-20 songs - 1 hr 6 min - [published](https://open.spotify.com/playlist/35yCkyDLKg2gCxmcbEE9s5)
+20 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

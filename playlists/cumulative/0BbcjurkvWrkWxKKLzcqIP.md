@@ -4,7 +4,7 @@
 
 > Soundtrack a perfect crafternoon spent scrapbooking, knitting, or working on projects with friends.
 
-70 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/62cEIXQ48n0ww7AbIOtkNp)
+70 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

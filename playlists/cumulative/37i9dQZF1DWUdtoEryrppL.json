@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-28",
   "description": "My favourite tracks to harness your focus and push you to the limit in your next workout.",
   "name": "To Your Limit",
-  "published_playlist_ids": [
-    "046CnMbW6heH6DEk9pW3XA"
-  ],
   "tracks": [
     {
       "album": {
@@ -153,7 +150,7 @@
     {
       "album": {
         "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
       },
       "artists": [
         {
@@ -164,6 +161,24 @@
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
+    },
+    {
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-30",
       "duration_ms": 399026,
       "name": "Building Steam With A Grain Of Salt",
       "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
@@ -461,7 +476,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202053,
-      "name": "Higher Ground - Remastered",
+      "name": "Higher Ground - Remastered 2003",
       "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
     },
     {
@@ -651,6 +666,32 @@
       "duration_ms": 205360,
       "name": "My Head Is A Jungle - MK Remix - Radio Edit",
       "url": "https://open.spotify.com/track/1yAAmuuGbPc6U6nsZHWliT"
+    },
+    {
+      "album": {
+        "name": "My Head Is A Jungle (Remix)",
+        "url": "https://open.spotify.com/album/6TtfObVSatzAH0o0IMzCik"
+      },
+      "artists": [
+        {
+          "name": "CursedSanity",
+          "url": "https://open.spotify.com/artist/3GTQ50msSR4uuj5rax5eEH"
+        },
+        {
+          "name": "Reaxys",
+          "url": "https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI"
+        },
+        {
+          "name": "twexih",
+          "url": "https://open.spotify.com/artist/3MEAyqQ8SL7qsbnNEcbFQz"
+        }
+      ],
+      "date_added": "2021-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-30",
+      "duration_ms": 206053,
+      "name": "My Head Is A Jungle - Remix",
+      "url": "https://open.spotify.com/track/58cqk8lrssnTQGMWp6wgI3"
     },
     {
       "album": {

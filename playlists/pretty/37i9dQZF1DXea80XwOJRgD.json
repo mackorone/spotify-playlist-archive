@@ -1,12 +1,12 @@
 {
   "description": "Some heart and soul for those up late.",
-  "num_followers": 140751,
+  "num_followers": 141481,
   "original_name": "The Midnight Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcyNjM4MywwMDAwMDAwMDYwM2MxMjFlNmMxNjUwZDZlNWY1MWQyNDI5ZjNkMTRl",
+  "snapshot_id": "MTY3MTAyNzQ0OSwwMDAwMDAwMDhhZjk1YzAyMDQ1YWVmMTJlYTE0OWQ1MDI5ODdlODhi",
   "tracks": [
     {
       "added_at": "2022-03-08 14:26:48",
@@ -223,6 +223,30 @@
       "duration_ms": 219831,
       "name": "Run Deep",
       "url": "https://open.spotify.com/track/5K1QAv6t5t6C1rhfxqXjie"
+    },
+    {
+      "added_at": "2022-12-14 14:17:29",
+      "album": {
+        "name": "A Day in the Life",
+        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
+      },
+      "artists": [
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        },
+        {
+          "name": "Kevin \"K.D.\" Davis",
+          "url": "https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Spend My Life With You",
+      "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
     },
     {
       "added_at": "2020-04-08 13:50:58",
@@ -717,6 +741,22 @@
       "url": "https://open.spotify.com/track/39Q20GZHKK0IK8oKkhfxiJ"
     },
     {
+      "added_at": "2021-04-09 10:00:34",
+      "album": {
+        "name": "Welcome 2 America",
+        "url": "https://open.spotify.com/album/6Idpgkp0xxbQA3Ej1QdsZh"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 323813,
+      "name": "Welcome 2 America",
+      "url": "https://open.spotify.com/track/2St53T2Yitx2E3gA674RP0"
+    },
+    {
       "added_at": "2017-11-04 00:39:24",
       "album": {
         "name": "Fowl Play",
@@ -781,22 +821,6 @@
       "url": "https://open.spotify.com/track/14wfwfd0xRy29tMH6h3Qmc"
     },
     {
-      "added_at": "2021-04-09 10:00:34",
-      "album": {
-        "name": "Welcome 2 America",
-        "url": "https://open.spotify.com/album/6Idpgkp0xxbQA3Ej1QdsZh"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 323813,
-      "name": "Welcome 2 America",
-      "url": "https://open.spotify.com/track/2St53T2Yitx2E3gA674RP0"
-    },
-    {
       "added_at": "2017-11-04 00:39:24",
       "album": {
         "name": "On Time",
@@ -859,22 +883,6 @@
       "duration_ms": 251000,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/7xtpbJoe4D8NxpK6jMn88a"
-    },
-    {
-      "added_at": "2020-04-08 13:50:58",
-      "album": {
-        "name": "Nicotine",
-        "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
-      },
-      "artists": [
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
     }
   ],
   "unique_name": "The Midnight Hour",

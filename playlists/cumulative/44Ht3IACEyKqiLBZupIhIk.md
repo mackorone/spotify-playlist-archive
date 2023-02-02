@@ -4,7 +4,7 @@
 
 > Sweet and slow, soft and soothing..\. a collection of beautiful bluegrass vocals.
 
-29 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/0mhBL89dTtfA8gdS3XrXKq)
+29 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

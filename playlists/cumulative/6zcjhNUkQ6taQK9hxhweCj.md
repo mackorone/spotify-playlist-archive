@@ -4,7 +4,7 @@
 
 > Deep, dark, gritty, vintage sounds from the best in indie blues folk.
 
-48 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/4RzGPRkTYtjFXUeEeutye5)
+48 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

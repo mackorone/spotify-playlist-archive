@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-13",
   "description": "That summer in the city feeling, any day of the week. ",
   "name": "Rooftop Sunset",
-  "published_playlist_ids": [
-    "3WIgMYDQC96eGhgOWOnDY8"
-  ],
   "tracks": [
     {
       "album": {
@@ -1055,7 +1052,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 427990,
       "name": "Is It All Over My Face? - Female Version",
       "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
@@ -1375,6 +1372,24 @@
     {
       "album": {
         "name": "Mars 500",
+        "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412257,
+      "name": "Mars 500",
+      "url": "https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM"
+    },
+    {
+      "album": {
+        "name": "Mars 500",
         "url": "https://open.spotify.com/album/7lfXilxttazWRwNcThahfc"
       },
       "artists": [
@@ -1421,7 +1436,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2022-11-28",
       "duration_ms": 396546,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
@@ -1642,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/1lZYSSKDM10kl2UIl2wXId"
+      },
+      "artists": [
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352758,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/4at1ctwfMr2a1t8xEpmOzX"
+    },
+    {
+      "album": {
         "name": "Okay Okay / Hey Ciao Tu",
         "url": "https://open.spotify.com/album/5xafnQUhXG38lGXHgUgjJ8"
       },
@@ -1653,7 +1686,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 258096,
       "name": "Okay Okay - Remastered",
       "url": "https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6"
@@ -1821,10 +1854,28 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 367619,
       "name": "Pool Party Music",
       "url": "https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9"
+    },
+    {
+      "album": {
+        "name": "2015 - 2017",
+        "url": "https://open.spotify.com/album/5aqiSYD4CoXgKW7p7mUNex"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367619,
+      "name": "Pool Party Music",
+      "url": "https://open.spotify.com/track/4JHzX0ZqlUR4cTFqELFl8o"
     },
     {
       "album": {
@@ -2085,10 +2136,32 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq"
+    },
+    {
+      "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     },
     {
       "album": {
@@ -2595,7 +2668,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-12",
       "duration_ms": 247266,
       "name": "Walk on By",
       "url": "https://open.spotify.com/track/2FDIwfqSI44hVE9D6RmLQQ"
@@ -2609,6 +2682,10 @@
         {
           "name": "Project Pablo",
           "url": "https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
         }
       ],
       "date_added": "2021-09-01",

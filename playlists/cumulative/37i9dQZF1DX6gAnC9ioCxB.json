@@ -2,9 +2,295 @@
   "date_first_scraped": "2022-05-01",
   "description": "Get inspired by these stories and conversations around self-improvement.",
   "name": "JRE's Most Motivating Guests",
-  "published_playlist_ids": [
-    "5JUkv93VdyoFVJJLUuUhdA"
+  "tracks": [
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 11260888,
+      "name": "#1054 - Dr. Rhonda Patrick",
+      "url": "https://open.spotify.com/episode/3JGuLUtsJ32YBA7qI6IcsO"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10335616,
+      "name": "#1200 - Ross Edgley",
+      "url": "https://open.spotify.com/episode/2wFi4A1QkUyUj1cVhhScmU"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 8281698,
+      "name": "#1212 - David Goggins",
+      "url": "https://open.spotify.com/episode/27QZ8gh5X27R9LRB02hD3n"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 6741286,
+      "name": "#1213 - Dr. Andrew Weil",
+      "url": "https://open.spotify.com/episode/0in3ntA6303CYpA3ASpeVe"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 8463092,
+      "name": "#1234 - David Sinclair",
+      "url": "https://open.spotify.com/episode/0Gifr7mhEsQBI5oGzJomz2"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 7756094,
+      "name": "#1478 - Joel Salatin",
+      "url": "https://open.spotify.com/episode/4ftPQAYtdWSzh23GadelrV"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10949417,
+      "name": "#1787 - Dakota Meyer",
+      "url": "https://open.spotify.com/episode/23UU1WhuEeHbXbTKIi7scJ"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10221865,
+      "name": "#1791 - Sadhguru",
+      "url": "https://open.spotify.com/episode/0zN02uiYg9KUwYs4JY8Nwg"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 7750996,
+      "name": "#1829 - Bobby Azarian",
+      "url": "https://open.spotify.com/episode/7xA1gGIa9YCk9cmMrdnajv"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10852051,
+      "name": "#1858 - Josh Dubin & Derrick Hamilton",
+      "url": "https://open.spotify.com/episode/6UeUIxBVH2DnDSv9lH6qFF"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 9922729,
+      "name": "#1870 - Max Lugavere",
+      "url": "https://open.spotify.com/episode/7fkDRpWn7bVWDDsDaOEy5y"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10377301,
+      "name": "#543 - Sam Harris",
+      "url": "https://open.spotify.com/episode/5aWHFm05DR7YCMs9Y2u4eF"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10856861,
+      "name": "#606 - Randall Carlson",
+      "url": "https://open.spotify.com/episode/0Sfwu85dxXHsz9VLoDTnie"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10290340,
+      "name": "#729 - Jocko Willink",
+      "url": "https://open.spotify.com/episode/6JNBgM4EALGH0ERfiSLFeC"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 8537512,
+      "name": "#996 - Dr. Andy Galpin",
+      "url": "https://open.spotify.com/episode/00upERqCfcMFYuPgfodV5M"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 4421120,
+      "name": "JRE MMA Show #47 with Tyson Fury",
+      "url": "https://open.spotify.com/episode/6hChfQF2Sj5aSkyr9peT7R"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6gAnC9ioCxB"
 }

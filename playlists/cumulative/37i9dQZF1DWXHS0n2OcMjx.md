@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-187 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
+189 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [kyoto calling](https://open.spotify.com/track/3Bepjm4vgBBfbLzS0KBTlt) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [kyoto calling](https://open.spotify.com/album/0MWZAefCAhCIkpwtZFsBYv) | 1:58 | 2022-04-08 | 2022-04-22 |
 | [Last Chance](https://open.spotify.com/track/00hvIih24hny87nA7TVO4z) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [elzie](https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:01 | 2022-04-08 |  |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2022-04-08 |  |
-| [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-08 |  |
+| [lemon](https://open.spotify.com/track/3Ca0cl4Qs3IhEBJpjVf53x) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [old fruits](https://open.spotify.com/album/3ksNu0rBR7M7nPfsUTxyQA) | 1:54 | 2022-07-08 |  |
+| [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-08 | 2022-11-28 |
 | [Lettin' Up](https://open.spotify.com/track/0Xwcj8iBawlYwg53Fbu6BE) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [Lettin' Up](https://open.spotify.com/album/1bnlspm7vBj7MbIYuwgy2q) | 4:11 | 2022-04-08 | 2022-04-22 |
 | [Life Rent](https://open.spotify.com/track/7D4RkW53rmZIRnFKhBdaF3) | [BATNAM](https://open.spotify.com/artist/2zW3yK70VmT02XYabNI56m) | [Life Rent](https://open.spotify.com/album/0TcQceIRdrm8BvmhHQDCTS) | 2:01 | 2022-04-08 |  |
 | [Load Game \(Stardew Valley\)](https://open.spotify.com/track/35C8hj4I6JNY2nYbTrFrrc) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Load Game \(Stardew Valley\)](https://open.spotify.com/album/6amw5ydhWMZJ68Hnw5CmNd) | 2:27 | 2022-05-13 |  |
@@ -160,6 +161,7 @@
 | [Sorry, Jorge](https://open.spotify.com/track/5b0Opn1XtWaqN70sXm8uJk) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Flakes](https://open.spotify.com/album/45WTdqbH4bvvR8yZm5ykWL) | 2:06 | 2022-04-08 |  |
 | [Spraytan](https://open.spotify.com/track/73fwCt5oobtmrRsUgGESNk) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Spraytan](https://open.spotify.com/album/2f5Su2fNCqu1gzHH4YK61J) | 2:00 | 2022-04-08 |  |
 | [Steady Rock Stop](https://open.spotify.com/track/0ZEArBcEXkKuHsNYle8TDb) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [Steady Rock Stop](https://open.spotify.com/album/5Nw6pdLEZEWzP94sRCJlkr) | 2:36 | 2022-04-08 |  |
+| [Still Here](https://open.spotify.com/track/2jKbNIrnY3seJn6e32jQvK) | [El Jon](https://open.spotify.com/artist/16Uz21dDhTHs8iIMKKFx4X) | [Still Here](https://open.spotify.com/album/3xEseHRhzns0PdAhdyHZ0g) | 1:58 | 2022-12-23 |  |
 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 | 2022-04-08 |  |
 | [style loop](https://open.spotify.com/track/1RaynSnzgRBH0dSRwaEdFs) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:25 | 2022-04-08 |  |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-04-08 |  |
@@ -174,7 +176,7 @@
 | [Sweet Berries](https://open.spotify.com/track/4V4NLXR80N6ePJ6UDxez7s) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Sweet Berries](https://open.spotify.com/album/16agYZgs1aCOoAak0kyzZV) | 2:47 | 2022-04-08 | 2022-04-22 |
 | [Taking a Gap Year](https://open.spotify.com/track/3EaQ19sdn6IfNNwAbZlLss) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Taking a Gap Year](https://open.spotify.com/album/3gDT4tudeH7Bcg5TW4Y8aS) | 3:55 | 2022-04-08 |  |
 | [Testing Tubes](https://open.spotify.com/track/0z7GuzX6SvdWx7KDW5Zxg6) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Testing Tubes](https://open.spotify.com/album/3p8Ix2MVXJ8Dnnkohm2Met) | 2:28 | 2022-04-08 |  |
-| [The Ceremony](https://open.spotify.com/track/3oQ8b6m5S531gvqZV9wEOY) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Masters of the Lodge](https://open.spotify.com/album/1bx6nmknADHJvaxcvlO4go) | 1:35 | 2022-04-08 |  |
+| [The Ceremony](https://open.spotify.com/track/3oQ8b6m5S531gvqZV9wEOY) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Dontcry](https://open.spotify.com/artist/6oVU5zCfJAyX49KhaKaPRS) | [Masters of the Lodge](https://open.spotify.com/album/1bx6nmknADHJvaxcvlO4go) | 1:35 | 2022-04-08 |  |
 | [Thousand Islands](https://open.spotify.com/track/0PkaVMW00sCAeiXd5mKIVb) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Thousand Islands](https://open.spotify.com/album/1xYOX8UICuZXSwo1e7vLVy) | 3:23 | 2022-04-08 |  |
 | [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2022-04-08 |  |
 | [Toys](https://open.spotify.com/track/0uA5haTZ3KkIWXReBo9PX1) | [Fairground Fish](https://open.spotify.com/artist/6lG54eZ9rnLWDSoaV4GtRE) | [XYZ](https://open.spotify.com/album/4EBEcFilrfd78jF1pIUe2M) | 2:22 | 2022-04-08 |  |

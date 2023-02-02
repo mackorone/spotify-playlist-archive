@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water.
 
-210 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/4Z392Aogjeg7aesUvdewOp)
+210 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

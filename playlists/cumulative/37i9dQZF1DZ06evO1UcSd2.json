@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
   "name": "This Is Lenin Ram\u00edrez",
-  "published_playlist_ids": [
-    "1YYodDIyxN0i5Xwsstvkpi"
-  ],
   "tracks": [
     {
       "album": {
@@ -243,7 +240,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 183375,
       "name": "Del Barrio",
       "url": "https://open.spotify.com/track/4hRreLnYg3zgMp9nYxKkBF"
@@ -440,6 +437,28 @@
     },
     {
       "album": {
+        "name": "El De La Pandilla (En Vivo)",
+        "url": "https://open.spotify.com/album/71Jl9ua91qDVu7ktzJDy7m"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217877,
+      "name": "El De La Pandilla (En Vivo)",
+      "url": "https://open.spotify.com/track/0QgyuDY28jCXnA02KwnHlP"
+    },
+    {
+      "album": {
         "name": "Mi Conquista",
         "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
@@ -593,7 +612,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 177909,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/0Gbvdas2fBkDsQBiNgq8dN"
@@ -615,6 +634,28 @@
       "duration_ms": 140914,
       "name": "El Rata G\u00fcera",
       "url": "https://open.spotify.com/track/2L5zcjxbMjWqvpDoulVrMX"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde las Cascadas",
+        "url": "https://open.spotify.com/album/5V1l94GYXnNAwcMZGYQTio"
+      },
+      "artists": [
+        {
+          "name": "Jesus Payan e Imparables",
+          "url": "https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166425,
+      "name": "El Rayo (En Vivo)",
+      "url": "https://open.spotify.com/track/3rnur7ATDBD9MUcra7XRrj"
     },
     {
       "album": {
@@ -651,7 +692,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 222846,
       "name": "El Se\u00f1or Zambada",
       "url": "https://open.spotify.com/track/1CBXspim9GK60C4auWiPBe"
@@ -1018,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "Lo Paseado Qui\u00e9n Me Lo Quita",
+        "url": "https://open.spotify.com/album/2pg9lePFwsEtRNTnijEI9U"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175997,
+      "name": "Lo Paseado Qui\u00e9n Me Lo Quita",
+      "url": "https://open.spotify.com/track/1XRkSe7d9DGIABTi4gpna9"
+    },
+    {
+      "album": {
         "name": "Maestra del Enga\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/6KTq0B6tFLsoemadvjD8Ql"
       },
@@ -1161,7 +1224,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 180250,
       "name": "Recuerdos del R",
       "url": "https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz"
@@ -1318,6 +1381,28 @@
     },
     {
       "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Golpe De Guerra",
+          "url": "https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189811,
+      "name": "Tamaulipas",
+      "url": "https://open.spotify.com/track/4px78vJGkCKD6khhA8CUBp"
+    },
+    {
+      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -1337,6 +1422,28 @@
       "duration_ms": 179905,
       "name": "The King of Ice",
       "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 270318,
+      "name": "Un Frisian Llamado El Centenario - En Vivo",
+      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
     },
     {
       "album": {

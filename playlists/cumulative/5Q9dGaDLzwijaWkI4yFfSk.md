@@ -4,7 +4,7 @@
 
 > 
 
-45 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/068AiYIrmBFKV7esjtzVDQ)
+45 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bodywork Lover](https://open.spotify.com/track/0pxDyMjjHlYQ1g9Oc9msf1) | [Noonie Bao](https://open.spotify.com/artist/1vIuPjtFhqIPE2n9W2ePgO) | [I Am Noonie Bao](https://open.spotify.com/album/4lih8LOeKRk3NfEtS6QrDW) | 3:59 | 2014-03-20 |  |
 | [Båsmarsch](https://open.spotify.com/track/2VDL9ht28jAnMgds3I12ss) | [Räfven](https://open.spotify.com/artist/5dHvGxMcTxNlOwUmzzsqs3) | [Välkommen Till Räfvbygden](https://open.spotify.com/album/4afZ5aIl9p6W6GPINucAhd) | 2:45 | 2014-03-20 |  |
 | [Cigarett i handen](https://open.spotify.com/track/3ZUssA8VBD1arpWfTljACZ) | [Toni Holgersson](https://open.spotify.com/artist/4mrhln9xCAUxK4fomXAtsB) | [Sentimentalsjukhuset](https://open.spotify.com/album/6xKHq1Ram4AMLuZRdMD28P) | 4:12 | 2014-03-20 |  |
-| [Creed Of The Greedier](https://open.spotify.com/track/6iws8ifRyJDtxdmP5oqGMl) | [ILL Bill](https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V), [Danny Boy](https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga), [DJ Lethal](https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2), [Slaine](https://open.spotify.com/artist/1z1ctFe6fCr5aZnCGKt6rN), [La Coka Nostra](https://open.spotify.com/artist/0BK94SazL2jI020Y8ezR4f) | [Masters Of The Dark Arts](https://open.spotify.com/album/76kptBErxjx7vtKzSXq9xn) | 3:43 | 2014-03-20 |  |
+| [Creed Of The Greedier](https://open.spotify.com/track/6iws8ifRyJDtxdmP5oqGMl) | [ILL BILL](https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V), [Danny Boy](https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga), [DJ Lethal](https://open.spotify.com/artist/2ajHgsmpiyhXrx3JoigTO2), [Slaine](https://open.spotify.com/artist/1z1ctFe6fCr5aZnCGKt6rN), [La Coka Nostra](https://open.spotify.com/artist/0BK94SazL2jI020Y8ezR4f) | [Masters Of The Dark Arts](https://open.spotify.com/album/76kptBErxjx7vtKzSXq9xn) | 3:43 | 2014-03-20 |  |
 | [Det Vackraste](https://open.spotify.com/track/7L2AdLrMaBwkRaIn5tv5gw) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [What We Did Best](https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp) | 2:13 | 2014-03-20 |  |
 | [Easy Rider](https://open.spotify.com/track/4hY0uuREnAREPxuZrl5fO2) | [Lé Betre](https://open.spotify.com/artist/7IalxqI48TH1FFYxQvvaMa) | [Gentlemens Club Cabin](https://open.spotify.com/album/4if5KCIjrZAPsvzgSpI3sm) | 2:04 | 2014-03-20 |  |
 | [Emmylou](https://open.spotify.com/track/7gAtGDZN8iOYyJ3tN1iH9h) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV) | 4:18 | 2014-03-20 |  |

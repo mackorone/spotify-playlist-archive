@@ -4,7 +4,7 @@
 
 > Celebramos las voces extraordinarias del siglo XX, recordando a Diego Verdaguer.
 
-111 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/4vO3TMb39qpZjlrTkg37pq)
+111 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

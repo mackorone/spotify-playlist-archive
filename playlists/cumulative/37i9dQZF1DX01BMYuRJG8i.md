@@ -4,7 +4,7 @@
 
 > Music from "SHADOWS HOUSE"! /アニメ「シャドーハウス」の楽曲を1つのプレイリストで。
 
-30 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/00ZFYMwza1bS717YisD0YS)
+30 songs - 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

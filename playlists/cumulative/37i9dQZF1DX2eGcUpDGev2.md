@@ -4,7 +4,7 @@
 
 > Drift off to sleep with instrumental lullaby versions of your favorite Christian music tracks.
 
-71 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/0VzGqgZrCWFEr9SSDd05to)
+71 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

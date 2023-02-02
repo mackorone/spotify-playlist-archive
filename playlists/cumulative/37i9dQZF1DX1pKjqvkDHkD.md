@@ -4,7 +4,7 @@
 
 > Renowned for her part in the Chicago Black Renaissance, the <a href="spotify:artist:4H2657mM3Y4j6ITcmHOf21">writer</a> reads her own poems and the work of her contemporaries.
 
-52 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/3lJPgBZPjkjtKQT9Gcln91)
+52 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

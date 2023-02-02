@@ -4,7 +4,7 @@
 
 > Get moving with these family\-friendly dance hits!
 
-48 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/5BeG8cl5OqoZoz4Jy5zAW1)
+48 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

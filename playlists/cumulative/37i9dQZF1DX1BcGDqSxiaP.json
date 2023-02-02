@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Releases from the legendary label.",
   "name": "Legendary Labels: Alligator",
-  "published_playlist_ids": [
-    "0FU9aLhSryPXFeMYV4JWNb"
-  ],
   "tracks": [
     {
       "album": {
@@ -217,6 +214,10 @@
         {
           "name": "James Cotton",
           "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
       "date_added": "2020-09-21",
@@ -330,13 +331,13 @@
     },
     {
       "album": {
-        "name": "Hound Dog Taylor & The Houserockers",
+        "name": "Hound Dog Taylor and The Houserockers",
         "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
       "artists": [
         {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
         }
       ],
       "date_added": "2020-09-21",
@@ -719,6 +720,10 @@
         {
           "name": "James Cotton",
           "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
         }
       ],
       "date_added": "2020-09-21",
@@ -791,6 +796,10 @@
         {
           "name": "Billy Branch",
           "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+        },
+        {
+          "name": "Billy Branch & The Sons of Blues",
+          "url": "https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y"
         }
       ],
       "date_added": "2020-09-21",
@@ -1030,13 +1039,13 @@
     },
     {
       "album": {
-        "name": "Hound Dog Taylor & The Houserockers",
+        "name": "Hound Dog Taylor and The Houserockers",
         "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
       "artists": [
         {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
         }
       ],
       "date_added": "2020-09-21",

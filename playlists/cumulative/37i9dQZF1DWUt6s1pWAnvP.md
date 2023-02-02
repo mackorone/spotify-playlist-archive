@@ -4,7 +4,7 @@
 
 > A place for recovery \- silent ambient for thinkers and contemplators.
 
-71 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/4dNVESKui0IPnzcFUq1UUN)
+71 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

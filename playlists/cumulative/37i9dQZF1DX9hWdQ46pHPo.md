@@ -4,7 +4,7 @@
 
 > Country Music Association award\-winning and nominated music from artists then, now, and forever.
 
-78 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/0XHLXdwMgyeKCrmB2r7vAO)
+78 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

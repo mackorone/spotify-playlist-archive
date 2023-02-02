@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "You can dance or chill.",
   "name": "Dance Chill",
-  "published_playlist_ids": [
-    "1BWpzWShYoBy84VHt9IlwY"
-  ],
   "tracks": [
     {
       "album": {
@@ -78,6 +75,32 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
+      },
+      "artists": [
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152903,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+    },
+    {
+      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
       },
@@ -104,6 +127,42 @@
     },
     {
       "album": {
+        "name": "All Shook Up",
+        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
+    },
+    {
+      "album": {
+        "name": "All The Highs (Alternate Versions)",
+        "url": "https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231543,
+      "name": "All The Highs - Slowed",
+      "url": "https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9"
+    },
+    {
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
       },
@@ -119,6 +178,32 @@
       "duration_ms": 143606,
       "name": "Anything",
       "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
     },
     {
       "album": {
@@ -255,6 +340,36 @@
       "duration_ms": 148500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
+    },
+    {
+      "album": {
+        "name": "Blindly [Thom Merlin Remix]",
+        "url": "https://open.spotify.com/album/1xJv5nuu2wpxNZReOAuzuJ"
+      },
+      "artists": [
+        {
+          "name": "Dukewood",
+          "url": "https://open.spotify.com/artist/0saU1gJBLlM25GZ4h0cC7b"
+        },
+        {
+          "name": "De Hofnar",
+          "url": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
+        },
+        {
+          "name": "Kav Verhouzer",
+          "url": "https://open.spotify.com/artist/1yYBD4cVxCxXQXi4QGZfSo"
+        },
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182839,
+      "name": "Blindly [Thom Merlin Remix]",
+      "url": "https://open.spotify.com/track/6l6viiPh9iUZbXuprWe0Dt"
     },
     {
       "album": {
@@ -441,10 +556,32 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 165000,
       "name": "Chasing Daydreams",
       "url": "https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1"
+    },
+    {
+      "album": {
+        "name": "Close To Me",
+        "url": "https://open.spotify.com/album/6puejdn1tcxwEHrxnjU5oj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Murgatroyd",
+          "url": "https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU"
+        },
+        {
+          "name": "Amy Jones",
+          "url": "https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 297435,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/7ufA7tIRMoFd1jTKgAfgRF"
     },
     {
       "album": {
@@ -514,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269799,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by"
+    },
+    {
+      "album": {
         "name": "Down from this High",
         "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
       },
@@ -529,10 +684,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 115297,
       "name": "Down from this High",
       "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
+    },
+    {
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/3rWBCSEsLswnPo8ZKTLYGr"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/1iw6rKb0oWrP0x9Pty6fc7"
     },
     {
       "album": {
@@ -595,6 +768,36 @@
       "duration_ms": 175169,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
+    },
+    {
+      "album": {
+        "name": "Echo [Cha\u00ebl Remix]",
+        "url": "https://open.spotify.com/album/1QjzaTNqb5lC73XzhfG1Lv"
+      },
+      "artists": [
+        {
+          "name": "MKJ",
+          "url": "https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0"
+        },
+        {
+          "name": "YOTO",
+          "url": "https://open.spotify.com/artist/1oFSLlpB3eM6V7Ka71a8Lx"
+        },
+        {
+          "name": "AVY X",
+          "url": "https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px"
+        },
+        {
+          "name": "Cha\u00ebl",
+          "url": "https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Echo [Cha\u00ebl Remix]",
+      "url": "https://open.spotify.com/track/0tYWJ4GvHzNvcbh9hLRFAX"
     },
     {
       "album": {
@@ -917,7 +1120,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 183856,
       "name": "From The Start (feat. Veronica)",
       "url": "https://open.spotify.com/track/4z7hu5mSYlAfqjD1JICi76"
@@ -956,7 +1159,7 @@
         },
         {
           "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2YL8UqzkqxspHtnBkDWyVA"
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
         }
       ],
       "date_added": "2022-09-15",
@@ -1097,7 +1300,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 158608,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/6JC7P4epKYJtW7og3pEaWc"
@@ -1217,7 +1420,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 185520,
       "name": "Keep On Dancing",
       "url": "https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"
@@ -1235,7 +1438,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 202963,
       "name": "Late Delivery",
       "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
@@ -1407,7 +1610,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 156393,
       "name": "Marco Polo",
       "url": "https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv"
@@ -1623,7 +1826,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 153812,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm"
@@ -1641,7 +1844,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 155520,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/0xDVCdhPkMWGA7sZrtrumz"
@@ -1677,7 +1880,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 155263,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W"
@@ -1754,6 +1957,28 @@
     },
     {
       "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+    },
+    {
+      "album": {
         "name": "Room",
         "url": "https://open.spotify.com/album/2Rp0zDV32VxKHoTh1hPyzV"
       },
@@ -1769,7 +1994,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 178236,
       "name": "Room",
       "url": "https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT"
@@ -1799,6 +2024,32 @@
       "duration_ms": 208548,
       "name": "Scent of Wood (Bound to Divide Remix)",
       "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
+    },
+    {
+      "album": {
+        "name": "Second Hand Love",
+        "url": "https://open.spotify.com/album/2tE6xUKn7UOdyHhjdh6G7V"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        },
+        {
+          "name": "FC Commitments",
+          "url": "https://open.spotify.com/artist/2ZDiyRudCpoSMiQTa5ZVOt"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 222848,
+      "name": "Second Hand Love",
+      "url": "https://open.spotify.com/track/2VNyk9xmiWb3J0OPEasXHX"
     },
     {
       "album": {
@@ -1861,7 +2112,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 219111,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4AA5Bkykoy2Nx72VQsqlsW"
@@ -1953,6 +2204,24 @@
       "duration_ms": 150394,
       "name": "Summer Stars",
       "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
+    },
+    {
+      "album": {
+        "name": "Sunday Monday",
+        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
+      },
+      "artists": [
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Sunday Monday",
+      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
     },
     {
       "album": {
@@ -2246,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164388,
+      "name": "What You Do to Me",
+      "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
+    },
+    {
+      "album": {
         "name": "Who's Holding You",
         "url": "https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96"
       },
@@ -2287,7 +2574,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 174893,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"

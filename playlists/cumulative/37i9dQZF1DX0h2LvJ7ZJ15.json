@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "slowed, reverbed, chopped and screwed.",
   "name": "slowed and reverbed",
-  "published_playlist_ids": [
-    "4pr4mU2uzG9Ws0D5WIoeQn"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,7 +96,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 156823,
       "name": "2077 (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/4oKjiIqpMpvglxaNUm3VYn"
@@ -223,7 +220,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 200453,
       "name": "After Party - CHOPNOTSLOP REMIX",
       "url": "https://open.spotify.com/track/5LNi0DUiEQ4Sp6JA5XUSIA"
@@ -735,6 +732,10 @@
           "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
         },
         {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
+        {
           "name": "slater",
           "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
         }
@@ -958,6 +959,24 @@
     },
     {
       "album": {
+        "name": "drowning (remixes)",
+        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
+      },
+      "artists": [
+        {
+          "name": "Vague003",
+          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132576,
+      "name": "drowning (slowed + reverb)",
+      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
+    },
+    {
+      "album": {
         "name": "Ease Off (Slowed & Reverbed)",
         "url": "https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9"
       },
@@ -1049,10 +1068,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-13",
       "duration_ms": 100465,
       "name": "empire state of mind - slowed + reverb",
       "url": "https://open.spotify.com/track/4dc1yIxU50feaV6TscXney"
+    },
+    {
+      "album": {
+        "name": "Escapism. (Slowed Down)",
+        "url": "https://open.spotify.com/album/3JHBuPAYgG72bLORrTFSTU"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287135,
+      "name": "Escapism. - Slowed Down",
+      "url": "https://open.spotify.com/track/4D8h7lEUY0tVRGuX17tz3f"
     },
     {
       "album": {
@@ -1205,7 +1246,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-13",
       "duration_ms": 217200,
       "name": "Feel Like (Slowed)",
       "url": "https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo"
@@ -1416,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "green to blue (slowed + reverbed)",
+        "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187068,
+      "name": "green to blue - slowed + reverbed",
+      "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
+    },
+    {
+      "album": {
         "name": "Happier (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ"
       },
@@ -1555,7 +1614,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 95108,
       "name": "I Don't Trust Nobody - Slowed and Reverb",
       "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
@@ -1709,6 +1768,10 @@
           "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
         },
         {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
+        {
           "name": "slater",
           "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
         }
@@ -1813,6 +1876,50 @@
       "duration_ms": 92869,
       "name": "LEFT RIGHT - Slowed",
       "url": "https://open.spotify.com/track/4YMOED32VTJr8woSeQxvZM"
+    },
+    {
+      "album": {
+        "name": "Freddie's Inferno - The Slow Descent",
+        "url": "https://open.spotify.com/album/69LXu03hHWw4zOaZwi7Zv2"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "OG Ron C",
+          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187810,
+      "name": "Limbo - ChopNotSlop Remix",
+      "url": "https://open.spotify.com/track/5r0X4MhcC7KjN2NQeonWlC"
+    },
+    {
+      "album": {
+        "name": "Freddie's Inferno - Ghost Slowed",
+        "url": "https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "OG Ron C",
+          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Limbo - Ghost Slowed",
+      "url": "https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w"
     },
     {
       "album": {
@@ -2171,7 +2278,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 196568,
       "name": "NOT FAIR (slowed)",
       "url": "https://open.spotify.com/track/3X9DJqqtiG2Uh48TDhtMgn"
@@ -2229,6 +2336,10 @@
         {
           "name": "Paloma Faith",
           "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
         }
       ],
       "date_added": "2022-05-19",
@@ -2255,6 +2366,24 @@
       "duration_ms": 226530,
       "name": "Peli - slowed version",
       "url": "https://open.spotify.com/track/7IerycLUFnFc2IhNpDPFC5"
+    },
+    {
+      "album": {
+        "name": "Possibility",
+        "url": "https://open.spotify.com/album/38pk7xhWyZNvTODl9fdSVP"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 383050,
+      "name": "Possibility - Slowed Down",
+      "url": "https://open.spotify.com/track/03JlIW3RyZdEJBJgfJBWiF"
     },
     {
       "album": {
@@ -2349,7 +2478,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 279250,
       "name": "Renegade (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/7lCu7IgWLKeHBGcTR4HfgX"
@@ -2371,6 +2500,24 @@
       "duration_ms": 279346,
       "name": "Renegade (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/0lOzjQKnffLWj7i6AqNMJG"
+    },
+    {
+      "album": {
+        "name": "The Arrival: Part I (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/7e9NQmhOTt71S59d5NC5Zi"
+      },
+      "artists": [
+        {
+          "name": "Aaryan Shah",
+          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279250,
+      "name": "Renegade - (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/5S74BaKFC7ELNsuhxzoPn4"
     },
     {
       "album": {
@@ -2421,7 +2568,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 180403,
       "name": "Righteous (SLOW & REVERB)",
       "url": "https://open.spotify.com/track/4ItmLaoV2YCCx0MKKQOTNT"
@@ -2633,7 +2780,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 132796,
       "name": "Shhh (Pew Pew) [Slowed + Reverb]",
       "url": "https://open.spotify.com/track/40NU01ZkeQlzMfUuf4aWNm"
@@ -2735,6 +2882,28 @@
       "duration_ms": 203491,
       "name": "SNAP - Low and Slow",
       "url": "https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb"
+    },
+    {
+      "album": {
+        "name": "snowfall (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150660,
+      "name": "snowfall (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
     },
     {
       "album": {
@@ -2869,10 +3038,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 213783,
       "name": "This December - slow",
       "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
+    },
+    {
+      "album": {
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Slowed Down Songs + Reverb",
+          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
     },
     {
       "album": {
@@ -2929,6 +3120,10 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         },
         {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
+        {
           "name": "slater",
           "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
         }
@@ -2961,7 +3156,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 166956,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx"
@@ -3019,10 +3214,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 117399,
       "name": "vendetta! - Slowed + Reverb",
       "url": "https://open.spotify.com/track/27eiUzfUEc75ujJbn68s53"
+    },
+    {
+      "album": {
+        "name": "Vision (Slowed)",
+        "url": "https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh"
+      },
+      "artists": [
+        {
+          "name": "Hucci",
+          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299572,
+      "name": "Vision - Slowed",
+      "url": "https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh"
     },
     {
       "album": {
@@ -3037,7 +3250,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 299572,
       "name": "Vision - Slowed",
       "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
@@ -3077,7 +3290,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": "2022-12-14",
       "duration_ms": 229260,
       "name": "Wet (She Got That\u2026) - Slowed & Reverbed",
       "url": "https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1"
@@ -3215,7 +3428,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"

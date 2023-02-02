@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "2013 highlights from the home of indie music.",
   "name": "Best of Indie 2013",
-  "published_playlist_ids": [
-    "1S81S8JC2nYLWxFw3a2sL5"
-  ],
   "tracks": [
     {
       "album": {
@@ -441,7 +438,7 @@
     {
       "album": {
         "name": "2.0",
-        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
+        "url": "https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP"
       },
       "artists": [
         {
@@ -456,6 +453,28 @@
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 280426,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/2PeKCn8NSGQXAHONaCh3wB"
+    },
+    {
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
+      },
+      "artists": [
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
       "duration_ms": 280426,
       "name": "Dangerous (feat. Joywave)",
       "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
@@ -621,7 +640,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 227066,
       "name": "Even When The Water's Cold",
       "url": "https://open.spotify.com/track/2UjEyfnKzaY7qpBEeESJjv"
@@ -909,7 +928,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-17",
       "duration_ms": 307400,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV"
@@ -1017,7 +1036,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 161973,
       "name": "Little Games",
       "url": "https://open.spotify.com/track/3Z8qysUNh2Rkee72WCZlrR"
@@ -1353,6 +1372,24 @@
       "duration_ms": 249746,
       "name": "Purple Yellow Red and Blue",
       "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
+    },
+    {
+      "album": {
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "Put a Light On",
+      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
     },
     {
       "album": {
@@ -1713,6 +1750,24 @@
       "duration_ms": 251626,
       "name": "Step",
       "url": "https://open.spotify.com/track/607EA1HsuzrqqaPuxyNqpD"
+    },
+    {
+      "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 265613,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P"
     },
     {
       "album": {
@@ -2113,10 +2168,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-30",
       "duration_ms": 344010,
       "name": "We Exist",
       "url": "https://open.spotify.com/track/66gQu4ZIHmDhB8H4wkwm5f"
+    },
+    {
+      "album": {
+        "name": "Miracle Mile",
+        "url": "https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228053,
+      "name": "While I'm Alive",
+      "url": "https://open.spotify.com/track/0hdITyuO1L5ZCTDFUiM4nQ"
     },
     {
       "album": {

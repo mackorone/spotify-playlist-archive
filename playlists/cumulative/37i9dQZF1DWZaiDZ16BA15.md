@@ -4,7 +4,7 @@
 
 > Italian duo <a href="spotify:artist:6mM9a86Nrw0y7f9MaJGbpU">Giolì & Assia</a> deliver a mix featuring tracks from their most recent album and deep, melodic selections.
 
-19 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/6VzpBmUblt554KWQO6cI0o)
+19 songs - 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
   "name": "Sad Beats",
-  "published_playlist_ids": [
-    "7JbBYAKP63QvI8IYc5wpSU"
-  ],
   "tracks": [
     {
       "album": {
@@ -305,7 +302,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 285093,
       "name": "Angie (i\u2019ve been lost)",
       "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
@@ -479,6 +476,32 @@
       "duration_ms": 184038,
       "name": "Be Ok",
       "url": "https://open.spotify.com/track/1xe8rWI6ZToSgKdZ0HMNrO"
+    },
+    {
+      "album": {
+        "name": "Best Part About You (camoufly Remix)",
+        "url": "https://open.spotify.com/album/6VMsqDQQWBssZR5j3daWLM"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191823,
+      "name": "Best Part About You - camoufly Remix",
+      "url": "https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn"
     },
     {
       "album": {
@@ -665,6 +688,28 @@
     {
       "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196965,
+      "name": "Bleu (better with time)",
+      "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
+    },
+    {
+      "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
       },
       "artists": [
@@ -679,7 +724,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 196965,
       "name": "Bleu (better with time)",
       "url": "https://open.spotify.com/track/7mRD0qvI5y0SZ4DPhpejdd"
@@ -1340,6 +1385,28 @@
     },
     {
       "album": {
+        "name": "Different Kind of Lonely",
+        "url": "https://open.spotify.com/album/3jwaqXzP9Te12IdrcmphEv"
+      },
+      "artists": [
+        {
+          "name": "Camp Kubrick",
+          "url": "https://open.spotify.com/artist/3RCqYRekSt6ttwZdkFhmnk"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203176,
+      "name": "Different Kind of Lonely",
+      "url": "https://open.spotify.com/track/5vZvUPKnhEErJ5w4ThtR4i"
+    },
+    {
+      "album": {
         "name": "Disappearing Now",
         "url": "https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz"
       },
@@ -1659,7 +1726,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 168118,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
@@ -1967,7 +2034,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 205462,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
@@ -1989,6 +2056,32 @@
       "duration_ms": 205462,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs"
+    },
+    {
+      "album": {
+        "name": "Not Since When",
+        "url": "https://open.spotify.com/album/1nRMvOYyqvCfcVEo1rz4Id"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5TSYawMYDnedU0UAR4ajrS"
     },
     {
       "album": {
@@ -2183,7 +2276,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 172371,
       "name": "Heartbroken 2022",
       "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
@@ -2421,7 +2514,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 202135,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/7BNVTdnnoMPzj8URWmmGMU"
@@ -2541,7 +2634,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 241760,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/3W1oHe6Sfi9fycAcz9EATc"
@@ -2983,7 +3076,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 150967,
       "name": "Losing Focus",
       "url": "https://open.spotify.com/track/11NiMOI4g4VnTAi5qqTCA7"
@@ -3346,6 +3439,32 @@
     },
     {
       "album": {
+        "name": "Miss You (feat. GG Magree) [Seven Lions and Gem & Tauri Remix]",
+        "url": "https://open.spotify.com/album/7dc72fttC6n7Q3agzyMV3f"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        },
+        {
+          "name": "Gem & Tauri",
+          "url": "https://open.spotify.com/artist/4pSG7BUZvHZGk1j7QoWcFp"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292005,
+      "name": "Miss You (feat. GG Magree) - Seven Lions and Gem & Tauri Remix",
+      "url": "https://open.spotify.com/track/2NUG19cLueD671fKgtGpIp"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/4zvb6dFdrfPFHcLGtMdCXr"
       },
@@ -3361,7 +3480,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 192848,
       "name": "Moment",
       "url": "https://open.spotify.com/track/2Zk9i8ayiwYLZIEJemuhl9"
@@ -3431,6 +3550,54 @@
       "duration_ms": 224391,
       "name": "Never Easy",
       "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
+    },
+    {
+      "album": {
+        "name": "New York ft. mazie",
+        "url": "https://open.spotify.com/album/5MIu1XVdFF3AD2rTuMvGX8"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132228,
+      "name": "New York ft. mazie",
+      "url": "https://open.spotify.com/track/0WdkklLlHI5SdulAdk32wE"
+    },
+    {
+      "album": {
+        "name": "Nobody Like You (feat. Lost Boy)",
+        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Nobody Like You (feat. Lost Boy)",
+      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
     },
     {
       "album": {
@@ -3515,6 +3682,28 @@
       "duration_ms": 175780,
       "name": "Noticed I cried - Flume Remix",
       "url": "https://open.spotify.com/track/2sA3V6IQVkdO8FhWh7ZCMN"
+    },
+    {
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2reFtZBLjA2S5mO0mgFhv8"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ"
     },
     {
       "album": {
@@ -3814,6 +4003,24 @@
     },
     {
       "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "album": {
         "name": "Read Your Mind (with sad alex)",
         "url": "https://open.spotify.com/album/0YrVbBOAFno3lbKyY03Rob"
       },
@@ -4093,10 +4300,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 301803,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/2uYEcvKNeFmGdCHWT7i6OU"
+    },
+    {
+      "album": {
+        "name": "Conscience",
+        "url": "https://open.spotify.com/album/5lGLktcDudhrCwCNLxni6Q"
+      },
+      "artists": [
+        {
+          "name": "Jacob Lee",
+          "url": "https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301803,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/45EJrENg8Aa72uLX22JxY7"
     },
     {
       "album": {
@@ -4298,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Super Human",
+        "url": "https://open.spotify.com/album/5yjMa5thOg0X7tieV3rhTf"
+      },
+      "artists": [
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246190,
+      "name": "Super Human",
+      "url": "https://open.spotify.com/track/1ZMUZYIlsTnQbOrgbpgalr"
+    },
+    {
+      "album": {
         "name": "Sweet Nothings (feat. Minke)",
         "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
       },
@@ -4357,7 +4600,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 358983,
       "name": "The Last Goodbye (feat. Bettye LaVette)",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
@@ -5127,7 +5370,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 239417,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX"

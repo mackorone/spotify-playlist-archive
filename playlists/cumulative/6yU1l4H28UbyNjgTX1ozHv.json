@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
   "name": "Acoustic Driving Songs",
-  "published_playlist_ids": [
-    "5MsbhDGASEPC66ln3S63Ff"
-  ],
   "tracks": [
     {
       "album": {
@@ -66,6 +63,24 @@
     },
     {
       "album": {
+        "name": "All I Have to Do Is Dream (Acoustic)",
+        "url": "https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs"
+      },
+      "artists": [
+        {
+          "name": "Mysha Didi",
+          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132490,
+      "name": "All I Have to Do Is Dream - Acoustic",
+      "url": "https://open.spotify.com/track/1ZInn6dKkIyQv8YFDgmsBD"
+    },
+    {
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/2CCjWEsPiaGoFrlTJUruCc"
       },
@@ -88,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Alone (Acoustic)",
+        "url": "https://open.spotify.com/album/420N4bPQPoz5sYIhCfF0Z7"
+      },
+      "artists": [
+        {
+          "name": "Beth",
+          "url": "https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179576,
+      "name": "Alone - Acoustic",
+      "url": "https://open.spotify.com/track/1B9WxRqdKbP0gAAL3q9Ohe"
+    },
+    {
+      "album": {
         "name": "Are You Lonesome Tonight (Acoustic)",
         "url": "https://open.spotify.com/album/2TcO9xgFjQFpuxIHpLazvO"
       },
@@ -99,7 +132,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 165407,
       "name": "Are You Lonesome Tonight - Acoustic",
       "url": "https://open.spotify.com/track/66YElTd7MwaseFmQrl7fml"
@@ -171,7 +204,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 187103,
       "name": "Believe - Acoustic",
       "url": "https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU"
@@ -243,7 +276,7 @@
       ],
       "date_added": "2020-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 165294,
       "name": "Call Me Maybe - Acoustic",
       "url": "https://open.spotify.com/track/4PgcZ3foDPLLruyBjVlfo3"
@@ -355,7 +388,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 187500,
       "name": "Crazy Love - Acoustic",
       "url": "https://open.spotify.com/track/5OnYymymXaoxjTEEOjqcae"
@@ -618,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Freedom (Acoustic)",
+        "url": "https://open.spotify.com/album/408UMBuS3W1kHMpJJssUBl"
+      },
+      "artists": [
+        {
+          "name": "Thomas Law",
+          "url": "https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187827,
+      "name": "Freedom - Acoustic",
+      "url": "https://open.spotify.com/track/2Sta4O12D55ZhfhBzKMdQZ"
+    },
+    {
+      "album": {
         "name": "Girls Just Want To Have Fun (Acoustic)",
         "url": "https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ"
       },
@@ -651,6 +702,46 @@
       "duration_ms": 153605,
       "name": "Girls Just Want To Have Fun - Acoustic",
       "url": "https://open.spotify.com/track/6Cg3fTIhncrGDUQllTj03U"
+    },
+    {
+      "album": {
+        "name": "Go Your Own Way (Acoustic)",
+        "url": "https://open.spotify.com/album/2tQwErCmn4sCP9pm1A41CM"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        },
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181018,
+      "name": "Go Your Own Way - Acoustic",
+      "url": "https://open.spotify.com/track/7xwjFFd7k4SbDktySZRfLy"
+    },
+    {
+      "album": {
+        "name": "Green Green Grass (Acoustic)",
+        "url": "https://open.spotify.com/album/3yB0O9r2ZlbizS47IRbKyq"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132130,
+      "name": "Green Green Grass - Acoustic",
+      "url": "https://open.spotify.com/track/672lv9gFJeWGQhmfLVOTnO"
     },
     {
       "album": {
@@ -705,7 +796,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 238934,
       "name": "Heal the World - Acoustic",
       "url": "https://open.spotify.com/track/3xcIbxd1AJveTfs8ehX6Pb"
@@ -745,6 +836,28 @@
       "duration_ms": 141653,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP"
+    },
+    {
+      "album": {
+        "name": "Here Comes the Sun (Acoustic)",
+        "url": "https://open.spotify.com/album/0A8ljJPiB39ollmnAu0CKA"
+      },
+      "artists": [
+        {
+          "name": "Molly Hocking",
+          "url": "https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ"
+        },
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144786,
+      "name": "Here Comes the Sun - Acoustic",
+      "url": "https://open.spotify.com/track/6lynns69p4zTCRxmmiSY1x"
     },
     {
       "album": {
@@ -853,7 +966,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 162215,
       "name": "I Can See Clearly Now - Acoustic",
       "url": "https://open.spotify.com/track/4pZWwqmvQwYY1VhGE9sQD9"
@@ -933,7 +1046,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 130022,
       "name": "I Only Want to Be With You - Acoustic",
       "url": "https://open.spotify.com/track/7FwXCHczHaCuLoneBque7B"
@@ -951,7 +1064,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 126430,
       "name": "I Say a Little Prayer - Acoustic",
       "url": "https://open.spotify.com/track/2WEkCMNRYPjbd2FLgPGF9X"
@@ -1012,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "I'm Like a Bird (Acoustic)",
+        "url": "https://open.spotify.com/album/6k4uP5KtblJ7MNJKkQY54c"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 161118,
+      "name": "I'm Like a Bird - Acoustic",
+      "url": "https://open.spotify.com/track/3c8tm69G8hZTs8gJI99Pbe"
+    },
+    {
+      "album": {
         "name": "Iris (Acoustic)",
         "url": "https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY"
       },
@@ -1023,7 +1154,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 155064,
       "name": "Iris - Acoustic",
       "url": "https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ"
@@ -1059,7 +1190,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 181200,
       "name": "I\u2019m Still Standing - Acoustic",
       "url": "https://open.spotify.com/track/2hnhNNo5Rk65UX8GIlhsAM"
@@ -1113,7 +1244,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 148751,
       "name": "Just the Two of Us - Acoustic",
       "url": "https://open.spotify.com/track/4k77p0LNt3affQXC48hQuL"
@@ -1167,7 +1298,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 211710,
       "name": "Kid",
       "url": "https://open.spotify.com/track/5OxjeimztVQLHaykllrWsF"
@@ -1279,6 +1410,24 @@
       "duration_ms": 228506,
       "name": "Love Me Now - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
+    },
+    {
+      "album": {
+        "name": "Lovefool (Acoustic)",
+        "url": "https://open.spotify.com/album/2bDDaOjt4Fy4DmAPqP2l0E"
+      },
+      "artists": [
+        {
+          "name": "Laurence O\u2019Brien",
+          "url": "https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183152,
+      "name": "Lovefool - Acoustic",
+      "url": "https://open.spotify.com/track/1tJCLF1hldhHVC7noH9l0U"
     },
     {
       "album": {
@@ -1517,7 +1666,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 152988,
       "name": "Never Too Much - Acoustic",
       "url": "https://open.spotify.com/track/1MVsvA4KgABP84K4yymwL1"
@@ -1874,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "So Sick (Acoustic)",
+        "url": "https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153370,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
       },
@@ -1903,7 +2070,7 @@
       ],
       "date_added": "2020-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 173528,
       "name": "Stand By Me - Acoustic",
       "url": "https://open.spotify.com/track/3EwflvIjTsj1geph4V1rj5"
@@ -1990,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams (Are Made of This) [Acoustic]",
+        "url": "https://open.spotify.com/album/1hAOKALlbJeuanzRCMTcBE"
+      },
+      "artists": [
+        {
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163132,
+      "name": "Sweet Dreams (Are Made of This) - Acoustic",
+      "url": "https://open.spotify.com/track/4QnF8CePWPb4k2imP90Q1Z"
+    },
+    {
+      "album": {
         "name": "Symphony (feat. Zara Larsson) [Acoustic]",
         "url": "https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0"
       },
@@ -2009,6 +2194,24 @@
       "duration_ms": 216413,
       "name": "Symphony (feat. Zara Larsson) - Acoustic Version",
       "url": "https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d"
+    },
+    {
+      "album": {
+        "name": "Teenage Dirtbag (Acoustic)",
+        "url": "https://open.spotify.com/album/2MfAsqckmrxIssTdeReizP"
+      },
+      "artists": [
+        {
+          "name": "Grace George",
+          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Teenage Dirtbag - Acoustic",
+      "url": "https://open.spotify.com/track/5ZprRG6q2boxa5Ypa3u6Hp"
     },
     {
       "album": {
@@ -2156,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "Valerie (Acoustic)",
+        "url": "https://open.spotify.com/album/5GQMEtMsfqHsAfHXy02VOM"
+      },
+      "artists": [
+        {
+          "name": "Mack Myles",
+          "url": "https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "Valerie - Acoustic",
+      "url": "https://open.spotify.com/track/2maGjY9V7Z0RAVTyXFPyaX"
+    },
+    {
+      "album": {
         "name": "Walking On Sunshine",
         "url": "https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE"
       },
@@ -2221,7 +2442,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 201393,
       "name": "We Have All the Time In the World - Acoustic",
       "url": "https://open.spotify.com/track/6n8mHn9uwo2rq4HT8i2S70"
@@ -2243,6 +2464,24 @@
       "duration_ms": 203800,
       "name": "What Do You Mean? - Acoustic",
       "url": "https://open.spotify.com/track/5bldrrpdHrTeaWNT1Kp5xs"
+    },
+    {
+      "album": {
+        "name": "What's Love Got to Do With It (Acoustic)",
+        "url": "https://open.spotify.com/album/5LhqpsqdqBFg9KtEZjDX0X"
+      },
+      "artists": [
+        {
+          "name": "Kevin Simm",
+          "url": "https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161410,
+      "name": "What's Love Got to Do With It - Acoustic",
+      "url": "https://open.spotify.com/track/3MvFb6pDujgveRaMlTJQ8A"
     },
     {
       "album": {
@@ -2309,8 +2548,8 @@
           "url": "https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB"
         },
         {
-          "name": "Nicholas Cloud",
-          "url": "https://open.spotify.com/artist/13i070mBPykWRF84H8Ht3Q"
+          "name": "Nick Voelker",
+          "url": "https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3"
         },
         {
           "name": "Adiel Mitchell",
@@ -2337,10 +2576,28 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 205226,
       "name": "Yellow - Acoustic",
       "url": "https://open.spotify.com/track/4cNXu88dudLEAhsIbikLvU"
+    },
+    {
+      "album": {
+        "name": "You & Me Song (Acoustic)",
+        "url": "https://open.spotify.com/album/7dKiRJqvMpIOMkbMafTc8k"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "You & Me Song - Acoustic",
+      "url": "https://open.spotify.com/track/1BGqPCs8lTqaRHc6AWBvts"
     },
     {
       "album": {
@@ -2355,7 +2612,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 234090,
       "name": "You Belong With Me - Acoustic",
       "url": "https://open.spotify.com/track/2kLo4Rvt1RKvo4vjDZ9fHy"
@@ -2445,7 +2702,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 147397,
       "name": "You're My Best Friend - Acoustic",
       "url": "https://open.spotify.com/track/4HcNBjBC8a6DVd2pwh0B8R"
@@ -2463,7 +2720,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 184200,
       "name": "You're So Vain - Acoustic",
       "url": "https://open.spotify.com/track/6tIj648abzmT84fdY7eTRW"

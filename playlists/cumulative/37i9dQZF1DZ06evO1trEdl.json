@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
   "name": "This Is The Three Degrees",
-  "published_playlist_ids": [
-    "3ABnPDJjQSoAzMxUwkHNzz"
-  ],
   "tracks": [
     {
       "album": {
@@ -167,10 +164,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 244253,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8"
+    },
+    {
+      "album": {
+        "name": "Look in My Eyes",
+        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 137866,
+      "name": "Drivin' Me Mad",
+      "url": "https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE"
     },
     {
       "album": {
@@ -189,6 +204,28 @@
       "duration_ms": 175680,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez"
+      },
+      "artists": [
+        {
+          "name": "Roy Budd",
+          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137573,
+      "name": "End Titles",
+      "url": "https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA"
     },
     {
       "album": {
@@ -261,7 +298,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 293906,
       "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
       "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
@@ -423,7 +460,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 237706,
       "name": "I Like Being A Woman",
       "url": "https://open.spotify.com/track/1J8gk2wlXNnsabMGUOutl3"
@@ -441,7 +478,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 171960,
       "name": "I Wanna Be Your Baby",
       "url": "https://open.spotify.com/track/7jyu10lLeLdV1dWtFmn9Yw"
@@ -459,7 +496,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 178213,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/0EDADfWHwCXlZDETMCBW3m"
@@ -477,7 +514,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 172133,
       "name": "I'm Gonna Need You",
       "url": "https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY"
@@ -495,7 +532,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 429160,
       "name": "If And When",
       "url": "https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir"
@@ -517,6 +554,64 @@
       "duration_ms": 193533,
       "name": "If You Must Leave My Life",
       "url": "https://open.spotify.com/track/3shCTJnZKOJ7YdHVBRHg4c"
+    },
+    {
+      "album": {
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 193533,
+      "name": "If You Must Leave My Life",
+      "url": "https://open.spotify.com/track/5icPV15prKmFvjRnwQ1lsS"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 232906,
+      "name": "Isn't It a Pity",
+      "url": "https://open.spotify.com/track/4wlBhCofkw3WkNKXo9wWni"
+    },
+    {
+      "album": {
+        "name": "Treasure Isle In Dub: Rare Dubs 1970-1978",
+        "url": "https://open.spotify.com/album/1cA0JUShXHlsosSZcWMfRt"
+      },
+      "artists": [
+        {
+          "name": "Bunny Lee",
+          "url": "https://open.spotify.com/artist/79gBZXBZwJs2cBerjhgAxI"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 223733,
+      "name": "It's Raining Dub",
+      "url": "https://open.spotify.com/track/7E6uigxRWr5GZDMlCEQDsV"
     },
     {
       "album": {
@@ -585,7 +680,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2022-12-13",
       "duration_ms": 173240,
       "name": "Lonely Town",
       "url": "https://open.spotify.com/track/53McY1IpPZJ8v4HyOMi9vm"
@@ -650,6 +745,32 @@
     },
     {
       "album": {
+        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 302642,
+      "name": "Love Train - Live",
+      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
+    },
+    {
+      "album": {
         "name": "The Three Degrees Live",
         "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
       },
@@ -683,6 +804,24 @@
       "duration_ms": 187066,
       "name": "Loving Cup",
       "url": "https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 193946,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/5Yif0s3XbfCnznoFkvbQSG"
     },
     {
       "album": {
@@ -751,7 +890,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2022-12-26",
       "duration_ms": 210826,
       "name": "Melting Pot (Mono Version)",
       "url": "https://open.spotify.com/track/5OAfwamRaDmPHynFb3vJtr"
@@ -971,7 +1110,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 202026,
       "name": "The Grass (Will Sing for You) [Mono Version]",
       "url": "https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2"
@@ -1101,6 +1240,24 @@
       "duration_ms": 221056,
       "name": "This Is the House",
       "url": "https://open.spotify.com/track/7EDI0Ak3KRTgcCZndJJYaG"
+    },
+    {
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 187880,
+      "name": "Through Misty Eyes (Mono Version)",
+      "url": "https://open.spotify.com/track/060nY8Cccr0RQzDfHuHF5I"
     },
     {
       "album": {
@@ -1235,7 +1392,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"

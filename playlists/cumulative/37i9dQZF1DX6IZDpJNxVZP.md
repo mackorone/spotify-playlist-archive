@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-191 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/0R2EZHHQAsftTT9zdzkjlK)
+191 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

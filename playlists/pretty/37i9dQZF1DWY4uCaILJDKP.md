@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962 likes - 102 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,271 likes - 102 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 2 | [W.W.D](https://open.spotify.com/track/0EuPeDqlNgujy5oQ3LtxvP) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [WORLD WIDE DEMPA](https://open.spotify.com/album/109W7IVCmSvgKLaNIq7kpk) | 5:42 |
 | 3 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/03LNdNAUE2xGFZpAsBmXhJ) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/album/1KoYnGSN4VVXBXYtB3KF1W) | 3:53 |
 | 4 | [マツケンEDM](https://open.spotify.com/track/7IUWKPni1OabRud8VpCotT) | [Ken Matsudaira](https://open.spotify.com/artist/5dQEL2DSm82YsiI3GnD8t6) | [マツケンEDM](https://open.spotify.com/album/4v6gJdK7jqwE2AhAoUXjMY) | 4:05 |
-| 5 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Suga Shikao](https://open.spotify.com/artist/6FLRqfzwvP0AmpGhAuTB2e), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 |
+| 5 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 |
 | 6 | [梅](https://open.spotify.com/track/0OCnqdysdBgBQrPFoQO0vq) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [中人](https://open.spotify.com/album/4cgScdHc1ORAy4GgyoZXoz) | 4:16 |
 | 7 | [行くぜっ!怪盗少女 \-ZZ ver.\-](https://open.spotify.com/track/6gIf4tylgA6mr7mj62Pz55) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ZZ's](https://open.spotify.com/album/4jS19EvU4880WgCZEapUyB) | 3:48 |
 | 8 | [Hyouriittai](https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Shinsekai](https://open.spotify.com/album/2R5uRvmQGlvwYDzpl7pK63) | 5:36 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 89 | [We Go! \-On Your Mark\-](https://open.spotify.com/track/1LgsZldOk4HvHkFOTkK0zm) | [Hiro Shimono](https://open.spotify.com/artist/5G94RvsmzC8FAA6I7i0OKH) | [We Go!](https://open.spotify.com/album/5NRbYR1pRrwF4UVckWFFkJ) | 4:03 |
 | 90 | [525600min\. 〜Seasons of Love〜](https://open.spotify.com/track/2VlVh4H6ExtXlIOlSdtcyK) | [K](https://open.spotify.com/artist/2XP6sMIt93QYAb3mrkl2Hy) | [525600min\. 〜Seasons of Love〜](https://open.spotify.com/album/6jAvr9v53w8Q21GXuTWSLn) | 4:52 |
 | 91 | [Home Sweet Home !](https://open.spotify.com/track/71t4iyi0NqFcHU1hcYojjH) | [Yutaro Miura](https://open.spotify.com/artist/4NV9z38H7a9yNJCzu5Pnp3) | [FLOWERS](https://open.spotify.com/album/0bKTvirykWz7P04Tx4F6FZ) | 4:01 |
-| 92 | [ハッピー♡スイート♡バースデー!](https://open.spotify.com/track/0NvXl9PnL6WgJsuVlrUoFR) | [Sasaki Ayaka](https://open.spotify.com/artist/5QiJIyp7IJV0Uaq9gqs7Ch) | [A\-rin Assort](https://open.spotify.com/album/01Geon4MjjGkScqLBJiTlE) | 3:58 |
+| 92 | [ハッピー♡スイート♡バースデー!](https://open.spotify.com/track/0NvXl9PnL6WgJsuVlrUoFR) | [Sasaki Ayaka](https://open.spotify.com/artist/5QiJIyp7IJV0Uaq9gqs7Ch) | [A\-rin Assort](https://open.spotify.com/album/01Geon4MjjGkScqLBJiTlE) | 3:58 |
 | 93 | [Perfect\-area complete!](https://open.spotify.com/track/0mbUCoZHwCFPAyUsEEWXK7) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Movement of magic](https://open.spotify.com/album/0V6EFjSPBXudBEZ13Bt7iZ) | 4:01 |
 | 94 | [Changes](https://open.spotify.com/track/02Ik0DMcCN2TMDGKY9JnUL) | [石田裕子](https://open.spotify.com/artist/1SNm8XI0sfrS0q0l4IuXOH) | [Changes](https://open.spotify.com/album/4K33360b8TthyAVug4xtKd) | 3:36 |
 | 95 | [ぐるぐるDJ TURN!! \- Anime OP Ver.](https://open.spotify.com/track/5DQIzTSYnjCOLG1U3mRnY8) | [Happy Around!](https://open.spotify.com/artist/3UnGSUFAzeXjRQgMNWOtcg) | [ぐるぐるDJ TURN!! \(Anime OP Ver.\)](https://open.spotify.com/album/3pwJHHZnvsGKLdiHZNn4Vz) | 3:44 |

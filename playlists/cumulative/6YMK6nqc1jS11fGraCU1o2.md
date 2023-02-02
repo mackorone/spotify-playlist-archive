@@ -4,7 +4,7 @@
 
 > Sleep, study, or simply still your mind with the soothing sounds of spring.
 
-20 songs - 2 hr 1 min - [published](https://open.spotify.com/playlist/0IT83lmkNTS30YpPEEBV9M)
+20 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

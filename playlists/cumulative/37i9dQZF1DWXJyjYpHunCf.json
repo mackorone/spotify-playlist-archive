@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Stephen Sanchez",
   "name": "Folk Pop",
-  "published_playlist_ids": [
-    "4CdXUQqY69Nj0IMKyxyk64"
-  ],
   "tracks": [
     {
       "album": {
@@ -49,6 +46,24 @@
     {
       "album": {
         "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+    },
+    {
+      "album": {
+        "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
       "artists": [
@@ -59,7 +74,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
@@ -149,7 +164,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-08",
       "duration_ms": 189563,
       "name": "Always, Joni",
       "url": "https://open.spotify.com/track/61EzqOBuKeieLCgkO1xQv8"
@@ -257,7 +272,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2023-01-22",
       "duration_ms": 156853,
       "name": "Archers",
       "url": "https://open.spotify.com/track/0rQyr2LkdMpJqGF1pfxwJi"
@@ -391,6 +406,24 @@
       "duration_ms": 195000,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/7nlGMUcyIGWZQFkOOxOWl5"
+    },
+    {
+      "album": {
+        "name": "Backstage in Glasgow",
+        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136107,
+      "name": "Backstage in Glasgow",
+      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
     },
     {
       "album": {
@@ -790,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/6JmAID0bTN1be4b6EQtKGI"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176388,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/26B9017HwUloEaz9SeiPoy"
+    },
+    {
+      "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/7fL5UDmFr1IdZH3DNP5xhG"
       },
@@ -1177,6 +1228,24 @@
       "duration_ms": 190000,
       "name": "Embers",
       "url": "https://open.spotify.com/track/5narWdetexXv1ucBDuZJfO"
+    },
+    {
+      "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177880,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
       "album": {
@@ -1707,7 +1776,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 262383,
       "name": "Help Me to Feel Again",
       "url": "https://open.spotify.com/track/0W18OZyj6fkWbjYIypxFIn"
@@ -1761,7 +1830,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-06",
       "duration_ms": 206973,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/1TTB0XzXDWd0OIwnhFe8yN"
@@ -1999,6 +2068,24 @@
       "duration_ms": 201875,
       "name": "I Know the Way Home",
       "url": "https://open.spotify.com/track/4uTnmU2jXpoI87haPWMqTi"
+    },
+    {
+      "album": {
+        "name": "I Know the Way Home",
+        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201875,
+      "name": "I Know the Way Home",
+      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
     },
     {
       "album": {
@@ -2355,7 +2442,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 229334,
       "name": "Left With The Wolves",
       "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"
@@ -2825,7 +2912,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 211193,
       "name": "Oh Love",
       "url": "https://open.spotify.com/track/02sas1xqIwRm7iWSoHDvKe"
@@ -3143,7 +3230,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 236906,
       "name": "Revolution (feat. First Aid Kit)",
       "url": "https://open.spotify.com/track/0j1bpDEg44YsqDtvqBBJul"
@@ -3233,7 +3320,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 144506,
       "name": "Searching",
       "url": "https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5"
@@ -3291,7 +3378,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 228986,
       "name": "Some Kind Of Love",
       "url": "https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW"
@@ -3833,10 +3920,28 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 217858,
       "name": "Undone",
       "url": "https://open.spotify.com/track/24hn3aFOHawfGzO4JWwx45"
+    },
+    {
+      "album": {
+        "name": "Palomar Parade",
+        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 217858,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/5iMl1CDPOjElGiCgerN7kN"
     },
     {
       "album": {
@@ -4053,6 +4158,24 @@
       "duration_ms": 211509,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
+    },
+    {
+      "album": {
+        "name": "Palomar Parade",
+        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215516,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
     },
     {
       "album": {

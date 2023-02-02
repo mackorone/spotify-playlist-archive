@@ -4,7 +4,7 @@
 
 > The perfect blend of songs, old and new, for around\-the\-clock listening.
 
-613 songs - 1 day 15 hr 27 min - [published](https://open.spotify.com/playlist/4bCnXDDkJHNRPIitsHY1SA)
+613 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating 60 years of Motown with the music that broke barriers and moved the soul.",
-  "name": "Sound Of Motown",
-  "published_playlist_ids": [
-    "2oGTf2t1kNo7A4i8wuuWDS"
-  ],
+  "description": "Music that broke barriers and moved souls. Cover: The Temptations",
+  "name": "Motown",
   "tracks": [
     {
       "album": {
@@ -84,6 +81,42 @@
     },
     {
       "album": {
+        "name": "The Marvin Gaye Collection",
+        "url": "https://open.spotify.com/album/0Q3zkIW2hLXbBieWZCKXwO"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "Ain't That Peculiar",
+      "url": "https://open.spotify.com/track/34ZfE0AYWeOJktUffTxDFl"
+    },
+    {
+      "album": {
+        "name": "Gettin' Ready (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156173,
+      "name": "Ain't Too Proud To Beg",
+      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
+    },
+    {
+      "album": {
         "name": "Four Tops",
         "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
@@ -99,6 +132,114 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+    },
+    {
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "album": {
+        "name": "Baby, I'm For Real",
+        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201866,
+      "name": "Baby, I'm For Real",
+      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
+    },
+    {
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Bernadette",
+      "url": "https://open.spotify.com/track/0LVvnJs7eOuHIkWwjWHEWF"
+    },
+    {
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Brick House",
+      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
+    },
+    {
+      "album": {
+        "name": "Anthology: The Best Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/7BoUTh07gox5gmUHcbD4pH"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "Can I Get A Witness - Single Version / Mono",
+      "url": "https://open.spotify.com/track/35AePShKeTqklvVwyuJx1P"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167773,
+      "name": "Can I Get A Witness - Stereo Version",
+      "url": "https://open.spotify.com/track/4GWwFW3TkXhhgyt8zUYA93"
     },
     {
       "album": {
@@ -121,10 +262,82 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 287333,
       "name": "Church",
       "url": "https://open.spotify.com/track/6PmnGYDsruYLBNY4Rpx4t9"
+    },
+    {
+      "album": {
+        "name": "Where There's Smoke...",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165226,
+      "name": "Dancing In The Street - Stereo",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+    },
+    {
+      "album": {
+        "name": "Bobby Taylor & The Vancouvers",
+        "url": "https://open.spotify.com/album/2ncW7P7vWGOpjRD3W0mtGg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Taylor & The Vancouvers",
+          "url": "https://open.spotify.com/artist/2yu275LOWOLmpD885w1MMy"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Does Your Mama Know About Me",
+      "url": "https://open.spotify.com/track/5UB1hRBcUDi43KDEahFrEC"
+    },
+    {
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284840,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv"
     },
     {
       "album": {
@@ -146,6 +359,96 @@
     },
     {
       "album": {
+        "name": "People... Hold On",
+        "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462493,
+      "name": "Girl You Need A Change Of Mind",
+      "url": "https://open.spotify.com/track/64bnTYBCQsHAsZUmA2JDH0"
+    },
+    {
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Give It To Me Baby",
+      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
+    },
+    {
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of The Velvelettes",
+        "url": "https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6"
+      },
+      "artists": [
+        {
+          "name": "The Velvelettes",
+          "url": "https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150760,
+      "name": "He Was Really Sayin' Somethin' - Single Version",
+      "url": "https://open.spotify.com/track/7zw0jBh5Khn08DkDP93yyh"
+    },
+    {
+      "album": {
+        "name": "Hitsville: The Making Of Motown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1VaXJtVbXlGmLareWesXfl"
+      },
+      "artists": [
+        {
+          "name": "The Elgins",
+          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156306,
+      "name": "Heaven Must Have Sent You",
+      "url": "https://open.spotify.com/track/6cy84k8xqRXe2II7DQ1XVj"
+    },
+    {
+      "album": {
         "name": "How Sweet It Is To Be Loved By You",
         "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
       },
@@ -164,6 +467,60 @@
     },
     {
       "album": {
+        "name": "Four Tops Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160280,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "album": {
+        "name": "The Mack - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0iOSxNFl6YhVjWxlzyq5T1"
+      },
+      "artists": [
+        {
+          "name": "Willie Hutch",
+          "url": "https://open.spotify.com/artist/5w834ZosnqiBBV8xXCi3oD"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221866,
+      "name": "I Choose You - The Mack/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6WUYwjET4BBUeRfU0kbmWR"
+    },
+    {
+      "album": {
+        "name": "In The Groove",
+        "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194293,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
+    },
+    {
+      "album": {
         "name": "Irons In The Fire",
         "url": "https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a"
       },
@@ -175,7 +532,7 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 451466,
       "name": "I Need Your Lovin'",
       "url": "https://open.spotify.com/track/4CCJB3TUBjvfgahZiTvFg0"
@@ -200,6 +557,60 @@
     },
     {
       "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "album": {
+        "name": "I Was Made To Love Her",
+        "url": "https://open.spotify.com/album/2gBERYtr321tvnJ8iLEbcR"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "I Was Made To Love Her",
+      "url": "https://open.spotify.com/track/35Agv76BTtZGXlXutlfuYj"
+    },
+    {
+      "album": {
+        "name": "Third Album",
+        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237760,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
       },
@@ -211,10 +622,28 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 236773,
       "name": "I'll Make Love To You",
       "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
+    },
+    {
+      "album": {
+        "name": "Ultimate Collection: Gladys Knight & The Pips",
+        "url": "https://open.spotify.com/album/1fSjtqjBKoLfNFZsKFApxA"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192360,
+      "name": "If I Were Your Woman",
+      "url": "https://open.spotify.com/track/3BrUr1rwAYJbf6sLlDf7WN"
     },
     {
       "album": {
@@ -233,10 +662,64 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+    },
+    {
+      "album": {
+        "name": "2nd Time Around (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190058,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
+    },
+    {
+      "album": {
+        "name": "Four Tops Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "It's The Same Old Song",
+      "url": "https://open.spotify.com/track/7d1ustAIlXG7ht5Q4IOv7s"
+    },
+    {
+      "album": {
+        "name": "Watchout!",
+        "url": "https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "Jimmy Mack",
+      "url": "https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP"
     },
     {
       "album": {
@@ -251,10 +734,64 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205400,
       "name": "Jumpin' Jack Flash",
       "url": "https://open.spotify.com/track/2bEBafnFsw7a0X8rjJxdBh"
+    },
+    {
+      "album": {
+        "name": "Sky's The Limit",
+        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228160,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "album": {
+        "name": "Everybody Needs Love",
+        "url": "https://open.spotify.com/album/5l5h2w976gvp8y2IGv2Tp4"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Just Walk In My Shoes",
+      "url": "https://open.spotify.com/track/24JWgD5APBie6VlQ3hLqoY"
+    },
+    {
+      "album": {
+        "name": "Eddie Kendricks",
+        "url": "https://open.spotify.com/album/5StW1pmCyC1WOuEDC8aUQh"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479413,
+      "name": "Keep On Truckin'",
+      "url": "https://open.spotify.com/track/5CiOCxc3argOhj5qKNZGN0"
     },
     {
       "album": {
@@ -305,7 +842,7 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 209440,
       "name": "Little Things - Main Edit",
       "url": "https://open.spotify.com/track/03B8XA9Vpr4oexTnX24Pn9"
@@ -323,7 +860,7 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 272076,
       "name": "Long Song Away",
       "url": "https://open.spotify.com/track/7j7sgbpZrEUyXIjAegqOed"
@@ -341,10 +878,46 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 313373,
       "name": "Love Calls",
       "url": "https://open.spotify.com/track/3HoyAX58MUIBFCNmhMliHy"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection: Diana Ross & The Supremes",
+        "url": "https://open.spotify.com/album/3kBcXeEHgrdFc99iDeWStA"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Love Child",
+      "url": "https://open.spotify.com/track/69EILuL34ggLWQsa626bes"
+    },
+    {
+      "album": {
+        "name": "Diana Ross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468640,
+      "name": "Love Hangover",
+      "url": "https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni"
     },
     {
       "album": {
@@ -359,10 +932,28 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 181440,
       "name": "Love Machine - Pt. 1",
       "url": "https://open.spotify.com/track/1b833AsiKCEhLLxmdQu9Hw"
+    },
+    {
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
     },
     {
       "album": {
@@ -377,10 +968,64 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 157880,
       "name": "Money (That's What I Want) - Single Version / Mono",
       "url": "https://open.spotify.com/track/0QMFMQF3HoSk5WvMyx8aMT"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi"
+      },
+      "artists": [
+        {
+          "name": "Barrett Strong",
+          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158493,
+      "name": "Money (That's What I Want) - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX"
+    },
+    {
+      "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "album": {
+        "name": "Mary Wells Sings My Guy",
+        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174440,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
     },
     {
       "album": {
@@ -402,6 +1047,42 @@
     },
     {
       "album": {
+        "name": "The Very Best Of The Velvelettes",
+        "url": "https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6"
+      },
+      "artists": [
+        {
+          "name": "The Velvelettes",
+          "url": "https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Needle In A Haystack",
+      "url": "https://open.spotify.com/track/26fSgIa539TCK3KV76chHU"
+    },
+    {
+      "album": {
+        "name": "Neither One Of Us",
+        "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
+      "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
+    },
+    {
+      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
       },
@@ -413,7 +1094,7 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 306560,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
@@ -485,7 +1166,7 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 226133,
       "name": "On & On",
       "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
@@ -503,10 +1184,100 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 295357,
       "name": "One Last Cry",
       "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
+        "url": "https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419640,
+      "name": "Papa Was A Rollin' Stone - Single Version",
+      "url": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp"
+    },
+    {
+      "album": {
+        "name": "Please Mr. Postman",
+        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
+    },
+    {
+      "album": {
+        "name": "A Quiet Storm",
+        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468653,
+      "name": "Quiet Storm",
+      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
+    },
+    {
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
+    },
+    {
+      "album": {
+        "name": "Got To Be There",
+        "url": "https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154840,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/63gcHyuhAC8G2C0bVQUOJI"
     },
     {
       "album": {
@@ -582,6 +1353,60 @@
     },
     {
       "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "album": {
+        "name": "The Undisputed Truth",
+        "url": "https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Smiling Faces Sometimes",
+      "url": "https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm"
+    },
+    {
+      "album": {
+        "name": "Cream Of The Crop",
+        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Someday We'll Be Together",
+      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
+    },
+    {
+      "album": {
         "name": "Something To Talk About",
         "url": "https://open.spotify.com/album/0Bb5wrXFtmpV3YRrLNwBI6"
       },
@@ -593,10 +1418,46 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 215333,
       "name": "Something To Talk About",
       "url": "https://open.spotify.com/track/5Ctp29E4N078VPralCQJBb"
+    },
+    {
+      "album": {
+        "name": "All The Great Love Songs",
+        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2LdtluFBgL8cuSo9nkvJ57"
+    },
+    {
+      "album": {
+        "name": "More Hits By The Supremes",
+        "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Stop! In The Name Of Love - Single Version",
+      "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
     },
     {
       "album": {
@@ -611,10 +1472,172 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205466,
       "name": "Super Freak",
       "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
+    },
+    {
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "The Love You Save",
+      "url": "https://open.spotify.com/track/39SyB2NWiRlMtcKrI2rr4k"
+    },
+    {
+      "album": {
+        "name": "Make It Happen",
+        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "The Tears Of A Clown",
+      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
+    },
+    {
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398506,
+      "name": "Three Times A Lady",
+      "url": "https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ"
+    },
+    {
+      "album": {
+        "name": "Up-Tight",
+        "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
+    },
+    {
+      "album": {
+        "name": "War And Peace",
+        "url": "https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200266,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "album": {
+        "name": "Sings Top Ten",
+        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
     },
     {
       "album": {
@@ -636,6 +1659,42 @@
     },
     {
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+    },
+    {
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "album": {
         "name": "Ultimate Collection: Billy Preston",
         "url": "https://open.spotify.com/album/2Kv2oy0Ke1wrZ9DgWQrVFj"
       },
@@ -651,7 +1710,7 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 220600,
       "name": "With You I'm Born Again",
       "url": "https://open.spotify.com/track/7wlPnBfcywEctiVWwCdxvn"
@@ -669,10 +1728,86 @@
       ],
       "date_added": "2019-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 300880,
       "name": "You Are",
       "url": "https://open.spotify.com/track/2SQkCUj5rYrFCRKnaTbYYr"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+    },
+    {
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+    },
+    {
+      "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
+    },
+    {
+      "album": {
+        "name": "OOO Baby Baby: The Anthlogy",
+        "url": "https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "You've Really Got A Hold On Me - Alternate Stereo Mix",
+      "url": "https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYC7CaxNgoCg"

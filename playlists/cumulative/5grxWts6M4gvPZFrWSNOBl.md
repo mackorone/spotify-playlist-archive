@@ -4,7 +4,7 @@
 
 > Missa inte Disclosure på Linné\-scenen på LÖRDAG / 23.00
 
-10 songs - 48 min 37 sec - [published](https://open.spotify.com/playlist/7J6ThB1nRJ9uroMSK3YZnJ)
+10 songs - 48 min 37 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

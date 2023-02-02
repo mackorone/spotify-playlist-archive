@@ -4,7 +4,7 @@
 
 > That fuzzy, noisy punk\-blues hybrid
 
-60 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/1p2RiftJCMyvTVNCgyg4PN)
+61 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Pretty Baby](https://open.spotify.com/track/15IZhtzC8mKdKGXoa9VF7V) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Talking 'bout](https://open.spotify.com/album/3XehbkA49rI1F8wb6CirBe) | 2:14 | 2022-03-28 |  |
 | [Promise Me](https://open.spotify.com/track/4j1XnLrICnmQl9R3zsGlzE) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 2:36 | 2022-03-28 | 2022-07-29 |
 | [Promise Me \- Remastered 2020](https://open.spotify.com/track/620oK7tMifgGBddA6gsGli) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love \(Remastered 2020\)](https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu) | 2:37 | 2022-03-28 |  |
-| [Release The Bats](https://open.spotify.com/track/1gvhqMMbek9ezNtmu4txNJ) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/1JfIRGXDOQFlP1OGWzmvL5) | 2:31 | 2022-03-28 |  |
+| [Release The Bats](https://open.spotify.com/track/1gvhqMMbek9ezNtmu4txNJ) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/1JfIRGXDOQFlP1OGWzmvL5) | 2:31 | 2022-03-28 | 2022-12-03 |
+| [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 | 2022-03-28 |  |
 | [Rock & Roll Nurse](https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn) | [Compulsive Gamblers](https://open.spotify.com/artist/2aSQWCI5yCT8lHd7Mf9irY) | [Crystal Gazing Luck Amazing](https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP) | 4:10 | 2022-03-28 |  |
 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 | 2022-03-28 |  |
 | [Shakey Puddin'](https://open.spotify.com/track/7oK4hF6yoIN9HASBXI5hnN) | [Soledad Brothers](https://open.spotify.com/artist/4TAFRShd7vZ8HEp5yKdwo6) | [Root Damage](https://open.spotify.com/album/3lONx9tNtCCo47EkD0mYJf) | 3:25 | 2022-03-28 |  |

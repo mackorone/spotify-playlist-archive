@@ -4,7 +4,7 @@
 
 > A complete collection of Chopin's Nocturnes.
 
-31 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/6VwimZsczbR7whpzQAEoeh)
+31 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

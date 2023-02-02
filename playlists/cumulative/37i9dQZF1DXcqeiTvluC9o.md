@@ -4,7 +4,7 @@
 
 > There's nothing better than Country Music and Small Town livin'!
 
-75 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/15Jr2NzWMqBLDg1PzN87i8)
+75 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

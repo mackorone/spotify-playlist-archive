@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-05",
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
   "name": "This Is Jimmy Eat World",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -169,6 +168,24 @@
       "duration_ms": 209640,
       "name": "Blister",
       "url": "https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP"
+    },
+    {
+      "album": {
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Call It In The Air",
+      "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
     },
     {
       "album": {
@@ -406,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 198506,
+      "name": "Heart Is Hard To Find",
+      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
+    },
+    {
+      "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
       },
@@ -424,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273200,
+      "name": "If You Don't, Don't",
+      "url": "https://open.spotify.com/track/5prYdqVZFzoOBj33WFTdJu"
+    },
+    {
+      "album": {
         "name": "Invented (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
@@ -435,7 +488,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-05",
       "duration_ms": 427120,
       "name": "Invented",
       "url": "https://open.spotify.com/track/0a9gDPRPLntNNowrvg4xHs"
@@ -577,6 +630,24 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 227733,
+      "name": "Movielike",
+      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
+    },
+    {
+      "album": {
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -705,7 +776,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 251560,
       "name": "Pretty Grids",
       "url": "https://open.spotify.com/track/2s7uFsolFNS1VlVsQRA4uF"
@@ -849,7 +920,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 165853,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"

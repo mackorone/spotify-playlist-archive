@@ -4,7 +4,7 @@
 
 > This is Fatherson\. The essential tracks, all in one playlist.
 
-34 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/2w9AMEYmRxcqw1vx49H6j4)
+34 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

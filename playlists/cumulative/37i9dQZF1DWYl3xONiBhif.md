@@ -4,7 +4,7 @@
 
 > Todo lo nuevo y lo esencial de El Alfa.
 
-103 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/3ryvLS29Jmz6xZGwGfUWOW)
+103 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

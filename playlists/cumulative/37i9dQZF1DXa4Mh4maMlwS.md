@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Amanda Kloots.
 
-37 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/441cLWN4hcj3dwhYZAsloq)
+37 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Heartbeat Song](https://open.spotify.com/track/7FC9Lng8iXU081lbigu8m8) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:18 | 2022-01-12 |  |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2022-01-12 |  |
 | [Hey Mamama](https://open.spotify.com/track/4lgJkFfI7SOO6K2rRwj2Wn) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76) | [Hey Mamama](https://open.spotify.com/album/7zt0FvLGtfCJmVFB7reQ9U) | 3:34 | 2022-01-12 |  |
-| [Higher Ground \- Remastered](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 | 2022-01-12 |  |
+| [Higher Ground \- Remastered 2003](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 | 2022-01-12 |  |
 | [I Am Here](https://open.spotify.com/track/32j279x3imcBWBu9OaHX2n) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:06 | 2022-01-12 |  |
 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 | 2022-01-12 |  |
 | [Kill The Lights \(with Nile Rodgers\) \- Audien Remix](https://open.spotify.com/track/4iCKHGl4ij4YMwFrUZLGEQ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [DJ Cassidy](https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Kill The Lights \(with Nile Rodgers\) \[Remixes\]](https://open.spotify.com/album/3H2mPBmypuqKI2nLeVhLER) | 3:44 | 2022-01-12 |  |

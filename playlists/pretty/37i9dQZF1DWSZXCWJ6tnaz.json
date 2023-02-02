@@ -1,12 +1,12 @@
 {
   "description": "A safe space for reflecting and remembering. Soft, instrumental music to bring you comfort and strength. ",
-  "num_followers": 5655,
+  "num_followers": 7516,
   "original_name": "Reflection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQzMjMxNiwwMDAwMDAwMDI5YmJhZmFjYzU2Yzc4YjI1YTg1ZTZiYzA3YmYzMmZl",
+  "snapshot_id": "MTY2ODQzMjMxNiwwMDAwMDAwMGNkYzdhYThmZDE1MTk3MDM5YTg4OWUxNjdjZDVlZjNh",
   "tracks": [
     {
       "added_at": "2022-11-14 13:25:16",
@@ -195,18 +195,22 @@
     {
       "added_at": "2022-11-14 13:25:16",
       "album": {
-        "name": "LISZT INSPECTIONS",
-        "url": "https://open.spotify.com/album/26tmVV1dFkaftPXyMrRABC"
+        "name": "Liszt Inspections",
+        "url": "https://open.spotify.com/album/0HOOCAPfWkh6e24UQLkok5"
       },
       "artists": [
+        {
+          "name": "Luciano Berio",
+          "url": "https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO"
+        },
         {
           "name": "Marino Formenti",
           "url": "https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB"
         }
       ],
       "duration_ms": 139653,
-      "name": "6 Encores for Piano: No. 3, Wasserklavier",
-      "url": "https://open.spotify.com/track/07tKTXpTwZhseOKcmzCv6D"
+      "name": "6 Encores for Piano (1965): No. 3, Wasserklavier",
+      "url": "https://open.spotify.com/track/0RnF44RV45by9HTtZuttgl"
     },
     {
       "added_at": "2022-11-14 13:25:16",

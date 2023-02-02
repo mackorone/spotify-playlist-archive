@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 
 > From across the globe\. New Songwriters on the horizon\. Cover: <a href="spotify:artist:2YqJwmohaNjg9lg51flSax"> Chiild.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 828 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TlTLxcIo6J.md) - [plain]
 | 23 | [Sweet Love](https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz) | 4:05 |
 | 24 | [The Way I Do](https://open.spotify.com/track/4apnPdCj3uDuqMjGpqQcuc) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Rendezvous @ 7](https://open.spotify.com/album/783S0ZXyJ63o5txGFV5ej0) | 3:13 |
 | 25 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 |
-| 26 | [I Like Me](https://open.spotify.com/track/1Z8d3f6vuedyPzrfPuA5Yl) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8) | 2:30 |
+| 26 | [I Like Me](https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9) | 2:30 |
 | 27 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 |
 | 28 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 |
 | 29 | [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 |
 | 30 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 
-Snapshot ID: `MTY2ODY4ODk1MCwwMDAwMDAwMDE1Njc1YzgyZTUxYmM0ZjhkZWU0NDE3M2ZjNTY5YmZk`
+Snapshot ID: `MTY2ODY4ODk1MCwwMDAwMDAwMDQ2ZDRjNDQyNmI0NTdhMWY5ZjA0YTA1NjQ4YzgzZDli`

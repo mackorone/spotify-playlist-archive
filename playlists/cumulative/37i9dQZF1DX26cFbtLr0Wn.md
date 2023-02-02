@@ -4,7 +4,7 @@
 
 > Selections of modern and contemporary poetry, featuring readings from the poets themselves.
 
-170 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/26UbNA7N6xJsJ26dOu9rse)
+170 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

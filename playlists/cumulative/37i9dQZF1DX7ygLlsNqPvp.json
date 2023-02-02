@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=unNoBURgRqamgVK4iFpzqQ\" > Yaw TOG </a> ",
+  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tPKTmHNTQa2S1MpSDge2Wg\" > Jay Bahd </a> ",
   "name": "Asakaa",
-  "published_playlist_ids": [
-    "2DLSiQlBpHI8M4HICO2Y4A"
-  ],
   "tracks": [
     {
       "album": {
@@ -168,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Anadwo",
+        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170295,
+      "name": "Anadwo",
+      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
+    },
+    {
+      "album": {
         "name": "ANADWO",
         "url": "https://open.spotify.com/album/7MzcMtFt7MIxdGNdEKA2Bw"
       },
@@ -187,10 +202,36 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 163862,
       "name": "ANADWO",
       "url": "https://open.spotify.com/track/5w7jfLrHkTNPT0X8WqvD39"
+    },
+    {
+      "album": {
+        "name": "ANADWO",
+        "url": "https://open.spotify.com/album/1zBWBi9V1zJ1wU6yKCMC8b"
+      },
+      "artists": [
+        {
+          "name": "Kwame Yesu",
+          "url": "https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf"
+        },
+        {
+          "name": "Black Sheriff",
+          "url": "https://open.spotify.com/artist/1zNmTgU8HEjyvdD1UDpOi9"
+        },
+        {
+          "name": "Kimilist",
+          "url": "https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163862,
+      "name": "ANADWO",
+      "url": "https://open.spotify.com/track/0yJwoXiQgvWGRI0zC4fBkc"
     },
     {
       "album": {
@@ -224,6 +265,28 @@
     },
     {
       "album": {
+        "name": "Eye Red",
+        "url": "https://open.spotify.com/album/43AXknA94hSHEdLYRJYmNc"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        },
+        {
+          "name": "Hordzi",
+          "url": "https://open.spotify.com/artist/4kxmAzzMfSOiZZlb9517Ot"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166778,
+      "name": "Asakaa",
+      "url": "https://open.spotify.com/track/3XxJT2dwsorTsI1rBZ0fy0"
+    },
+    {
+      "album": {
         "name": "Aso)den",
         "url": "https://open.spotify.com/album/55WQAIPqeYwBSrutMaXiRK"
       },
@@ -235,7 +298,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 195957,
       "name": "Aso)den",
       "url": "https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky"
@@ -275,7 +338,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 193878,
       "name": "BASELINE",
       "url": "https://open.spotify.com/track/4jWFICufHHnaCDrtCeUGyV"
@@ -319,6 +382,50 @@
       "duration_ms": 167205,
       "name": "Benzo",
       "url": "https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw"
+    },
+    {
+      "album": {
+        "name": "Brodo",
+        "url": "https://open.spotify.com/album/5vP5InTqdYiCA3i2LORLJ3"
+      },
+      "artists": [
+        {
+          "name": "Kev the Topic",
+          "url": "https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s"
+        },
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215510,
+      "name": "Brodo",
+      "url": "https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd"
+    },
+    {
+      "album": {
+        "name": "By Force",
+        "url": "https://open.spotify.com/album/1eW5AAkt2BYHu4NPEEOlkC"
+      },
+      "artists": [
+        {
+          "name": "8figurez",
+          "url": "https://open.spotify.com/artist/3yJexXx23gh77vExWiL29J"
+        },
+        {
+          "name": "Gemini Major",
+          "url": "https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190295,
+      "name": "By Force",
+      "url": "https://open.spotify.com/track/7eEY6xTOIbHgZpU4NS6gZP"
     },
     {
       "album": {
@@ -541,6 +648,28 @@
       "duration_ms": 208144,
       "name": "Fire - Remix",
       "url": "https://open.spotify.com/track/27413RLXJwf8qnCuJynC66"
+    },
+    {
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/6nhytxiQ5m9fgRIMKoqgbi"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "Larruso",
+          "url": "https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163199,
+      "name": "Frass",
+      "url": "https://open.spotify.com/track/4YesAXkrlESdn1Vk2f65pa"
     },
     {
       "album": {
@@ -775,7 +904,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 169335,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/3K0oKOmCATi4SIHJioFrVl"
@@ -813,6 +942,24 @@
       "duration_ms": 195482,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
+    },
+    {
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161699,
+      "name": "Konongo Zongo",
+      "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
     },
     {
       "album": {
@@ -971,7 +1118,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 169770,
       "name": "MAD",
       "url": "https://open.spotify.com/track/3JnvLFQi2mHwBsRtYoyzi4"
@@ -1070,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "My Bro",
+      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+    },
+    {
+      "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/0rtdViHV14ahmFiLkbLdce"
       },
@@ -1115,6 +1284,44 @@
       "duration_ms": 135000,
       "name": "O Di Dan Dan",
       "url": "https://open.spotify.com/track/4Acj2QINn1T6kewzEmQKZu"
+    },
+    {
+      "album": {
+        "name": "Obaa Hemaa",
+        "url": "https://open.spotify.com/album/0FhtqISRyEGe6YVxjySqN9"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184555,
+      "name": "Obaa Hemaa",
+      "url": "https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB"
     },
     {
       "album": {
@@ -1181,7 +1388,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 188186,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/65UfDLUUQphi0TC8ja46nn"
@@ -1247,7 +1454,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 200833,
       "name": "Silent Mode",
       "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
@@ -1354,7 +1561,7 @@
         },
         {
           "name": "Lalid",
-          "url": "https://open.spotify.com/artist/6gWvtdIeRmIE7175RmDJ81"
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
         },
         {
           "name": "QV",
@@ -1513,7 +1720,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 203939,
       "name": "Wtf",
       "url": "https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD"
@@ -1581,7 +1788,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 231500,
       "name": "Yenda",
       "url": "https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo"

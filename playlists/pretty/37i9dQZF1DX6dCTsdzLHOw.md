@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,568 likes - 28 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,891 likes - 28 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 22 | [Psycho Suite](https://open.spotify.com/track/2AfA142FyTrSA58SArYR5r) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [99 Must\-Have Halloween Classics](https://open.spotify.com/album/0b9hNMy12w8qGs8eYNwM1L) | 2:07 |
 | 23 | [Reanimator Prologue & Main Title](https://open.spotify.com/track/6w8V10yvjN3cU9iqJYwXqq) | [Richard Band](https://open.spotify.com/artist/0TXK10MEUmsJGH4lMosMiT) | [Re\-Animator: Prologue and Main Title](https://open.spotify.com/album/2HNiURAevNka5UetR9us36) | 4:15 |
 | 24 | [Ave Satani \- From "The Omen"](https://open.spotify.com/track/2n2Uugl3wR9s2pYjIKbbL9) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [The Omen \(The Deluxe Edition / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4mt098QxrMToyd5GIbJzdm) | 2:35 |
-| 25 | [Reel 9](https://open.spotify.com/track/1Y61rEEjZfAoM19LA2UTkQ) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/4fxuoOfryOYbq6UXsb0Ani) | 10:56 |
+| 25 | [Reel 9](https://open.spotify.com/track/42GFFFw4gMMefVth1lmAit) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [The Fog \(Original Motion Picture Soundtrack / Expanded Edition\)](https://open.spotify.com/album/0r0lUqzO9oZYlTmyqSHUwj) | 10:56 |
 | 26 | [Side A](https://open.spotify.com/track/4hRKUei7qAK1kOth7cPaim) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Alan R\. Splet](https://open.spotify.com/artist/55AfCsXWthqoG9dDIGqVrD) | [Eraserhead Soundtrack](https://open.spotify.com/album/0dWqp2IrTBMumfADclgSJz) | 20:08 |
 | 27 | [This is Halloween](https://open.spotify.com/track/1CYjYSg9sdtbBoxSf8uhFD) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:19 |
 | 28 | [The Twilight Zone \- Remastered 1992](https://open.spotify.com/track/2pdqaNUADr4vkmml8wveJd) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35), [Kevin Reeves](https://open.spotify.com/artist/3hXPNhCTXeyEnwwrXHpMNC), [Ron Furmanek](https://open.spotify.com/artist/7LrLiL3hiy4IDwbWH29vnG) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 2:36 |
 
-Snapshot ID: `MTY1ODkyNjc0MywwMDAwMDAwMDdiYTU3NjgzMWY3N2I4YzA0YmQ1ODIxZjcyZjI3ZTUz`
+Snapshot ID: `MTY1ODkyNjc0MywwMDAwMDAwMDBlOGVmNzcxYjEyZGFmNmZhODE5ZDAzMmM1ZDNlYmNm`

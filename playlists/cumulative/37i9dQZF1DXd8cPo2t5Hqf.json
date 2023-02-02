@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
   "name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
-  "published_playlist_ids": [
-    "47VaY5Lo8u4SWBWLKALuIG"
-  ],
   "tracks": [
     {
       "album": {
@@ -31,7 +28,7 @@
       },
       "artists": [
         {
-          "name": "vocaliodP(noa)",
+          "name": "vocaliod-P(noa)",
           "url": "https://open.spotify.com/artist/7sSRpSgATx1LST4S5zy7Ca"
         }
       ],
@@ -237,7 +234,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 290277,
       "name": "Change me",
       "url": "https://open.spotify.com/track/2ht6Zqpv2qshMK9xLdLU2J"
@@ -651,7 +648,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-16",
       "duration_ms": 308000,
       "name": "MEGANE",
       "url": "https://open.spotify.com/track/5d1pbk01azByOstUjlVjxv"
@@ -959,7 +956,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 221052,
       "name": "SING&SMILE",
       "url": "https://open.spotify.com/track/7holX2kLEbDCNgN5pqkkJy"

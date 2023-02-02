@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-13",
   "description": "Groovy, dancy, funky stuff.",
   "name": "Soir\u00e9e",
-  "published_playlist_ids": [
-    "7nowwmXF5288KAzDDzHkBy"
-  ],
   "tracks": [
     {
       "album": {
@@ -103,6 +100,24 @@
       "duration_ms": 204956,
       "name": "212",
       "url": "https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g"
+    },
+    {
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
+      },
+      "artists": [
+        {
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153697,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
     },
     {
       "album": {
@@ -323,7 +338,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-12",
       "duration_ms": 185213,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/3OT9zVVg5JFjXfGmn2TNrL"
@@ -345,7 +360,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
@@ -881,7 +896,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 168447,
       "name": "Candyfloss",
       "url": "https://open.spotify.com/track/4qMcXVzphY85iKSxYYrtoq"
@@ -1253,7 +1268,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 193285,
       "name": "CRISIS",
       "url": "https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5"
@@ -1513,7 +1528,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 219984,
       "name": "Dead",
       "url": "https://open.spotify.com/track/6Ww5yDLIVX3ZcUs9wSvXH8"
@@ -1821,7 +1836,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-16",
       "duration_ms": 126700,
       "name": "Duo",
       "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
@@ -1903,7 +1918,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 147250,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/5ICUko5tff4xEdS4DdnODT"
@@ -1950,6 +1965,50 @@
     },
     {
       "album": {
+        "name": "Electric Photograph",
+        "url": "https://open.spotify.com/album/0yCpeH8KWCQYACEAc4qk2u"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
+        {
+          "name": "Jereena Montemayor",
+          "url": "https://open.spotify.com/artist/45iYm4bGYfT8nY4RxNBhlr"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175381,
+      "name": "Electric Photograph",
+      "url": "https://open.spotify.com/track/4aMExui9zpbQZNhAmMsHPB"
+    },
+    {
+      "album": {
+        "name": "Electric U",
+        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171696,
+      "name": "Electric U",
+      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
+    },
+    {
+      "album": {
         "name": "Electric U",
         "url": "https://open.spotify.com/album/6VR3JKdOuR1tuMFQl7NgRv"
       },
@@ -1979,7 +2038,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 171696,
       "name": "Electric U",
       "url": "https://open.spotify.com/track/4yEw9bcmDHgIgqe8BCyDWy"
@@ -2230,6 +2289,32 @@
     },
     {
       "album": {
+        "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+        "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310340,
+      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+      "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
+    },
+    {
+      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/2Hnlavdkpy4vZhva8VsTfq"
       },
@@ -2356,7 +2441,7 @@
         },
         {
           "name": "Jess",
-          "url": "https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7"
+          "url": "https://open.spotify.com/artist/0TmD2CTH26wHTBb8LxOw7s"
         }
       ],
       "date_added": "2022-08-11",
@@ -2557,7 +2642,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 219703,
       "name": "golden hour - Jungle Remix",
       "url": "https://open.spotify.com/track/3aUuswb7CSy9sJYUG6ZVzp"
@@ -3337,7 +3422,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 209920,
       "name": "Inhibitions / Intuitions",
       "url": "https://open.spotify.com/track/3XIt6JWoSipTXV3ANjbDFy"
@@ -3639,7 +3724,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
@@ -4454,6 +4539,24 @@
     },
     {
       "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "album": {
         "name": "Don't Go Wasting Time",
         "url": "https://open.spotify.com/album/6q3CZqvnqUH3OhZMDF6fGr"
       },
@@ -5068,6 +5171,24 @@
     },
     {
       "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
+    },
+    {
+      "album": {
         "name": "Purple Sun",
         "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
       },
@@ -5600,6 +5721,24 @@
     },
     {
       "album": {
+        "name": "House Hues",
+        "url": "https://open.spotify.com/album/7zOq9dtIhDjmtYzKnMQU8v"
+      },
+      "artists": [
+        {
+          "name": "IAMNOBODI",
+          "url": "https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98461,
+      "name": "Separated",
+      "url": "https://open.spotify.com/track/5yNL07FfOxLK8onHaA7JIa"
+    },
+    {
+      "album": {
         "name": "The 1975",
         "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
       },
@@ -6117,10 +6256,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 134750,
       "name": "Tell Me Your Fears",
       "url": "https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj"
+    },
+    {
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241304,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk"
     },
     {
       "album": {
@@ -6251,7 +6408,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 208946,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG"
@@ -6273,7 +6430,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 234333,
       "name": "The Thrill",
       "url": "https://open.spotify.com/track/4wqzOaLxiCRy2Et8tRyNSX"
@@ -6515,7 +6672,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
@@ -7109,7 +7266,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 139613,
       "name": "Wildin'",
       "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
@@ -7339,6 +7496,24 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "album": {
+        "name": "Young Hearts",
+        "url": "https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "Young Hearts",
+      "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4Vd1jJ7X9H8"

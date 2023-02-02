@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Strings and pianos to accompany your latest great read.",
   "name": "Instrumental Reading",
-  "published_playlist_ids": [
-    "0GsI4xWiRgp8I8ghyrsDS8"
-  ],
   "tracks": [
     {
       "album": {
@@ -547,6 +544,24 @@
     {
       "album": {
         "name": "Calm Water",
+        "url": "https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ"
+      },
+      "artists": [
+        {
+          "name": "Elise Bordeaux",
+          "url": "https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260729,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
+    },
+    {
+      "album": {
+        "name": "Calm Water",
         "url": "https://open.spotify.com/album/3slPGMMjH6yTnbbJ0yYv8l"
       },
       "artists": [
@@ -557,7 +572,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 260729,
       "name": "Calm Water",
       "url": "https://open.spotify.com/track/3VHj17DOjq1Yf89SCPK0Nj"
@@ -1947,10 +1962,46 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 172480,
       "name": "Perceptions",
       "url": "https://open.spotify.com/track/2p6aUfi3f2dP3CWzeyMj5W"
+    },
+    {
+      "album": {
+        "name": "Spirituality",
+        "url": "https://open.spotify.com/album/6ytGMqdfc9lXcGPIxRB0y6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172480,
+      "name": "Perceptions",
+      "url": "https://open.spotify.com/track/3l2bfJwIejAb1RsLop8yQm"
+    },
+    {
+      "album": {
+        "name": "Spirituality",
+        "url": "https://open.spotify.com/album/5ITO0u3GqWfE5wIx2nXbJ5"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 172480,
+      "name": "Perceptions",
+      "url": "https://open.spotify.com/track/6PwLqNEDYKaVhNk7Aeonnu"
     },
     {
       "album": {
@@ -2063,7 +2114,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 186000,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/1s1lHjPIULWHiKyDnY6MdY"
@@ -2085,6 +2136,42 @@
       "duration_ms": 186000,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2"
+    },
+    {
+      "album": {
+        "name": "Altair",
+        "url": "https://open.spotify.com/album/1eXcC6om8XZvhgtBQZdP3N"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/5c7kAnQfIrU7B5F4T4dxRl"
+    },
+    {
+      "album": {
+        "name": "Altair",
+        "url": "https://open.spotify.com/album/41oa87H2qcmnWdyS1S0iy0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/72iLPdmzbCfua2zOBCm6L2"
     },
     {
       "album": {
@@ -2110,6 +2197,14 @@
         "url": "https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt"
       },
       "artists": [
+        {
+          "name": "Anthony Newley",
+          "url": "https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI"
+        },
+        {
+          "name": "Leslie Bricusse",
+          "url": "https://open.spotify.com/artist/6WYFvZo9oPFiHYMjEluhG3"
+        },
         {
           "name": "Sophie Hutchings",
           "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"

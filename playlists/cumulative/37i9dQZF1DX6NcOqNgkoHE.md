@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2014! Cover: Cesare Cremonini
 
-151 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/3KGCcmq0F6WrAI6aVJ9VAv)
+151 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

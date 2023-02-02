@@ -4,7 +4,7 @@
 
 > Despite their nomenclature defying eclecticism, these folk inspired artists share a collective penchant for welding experimentation with tradition.
 
-45 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/5V7jCBLFJXjdWEZa2Mf5PC)
+45 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

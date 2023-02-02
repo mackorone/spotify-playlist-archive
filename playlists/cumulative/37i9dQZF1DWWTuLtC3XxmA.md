@@ -4,7 +4,7 @@
 
 > A collection of traditional carols and new classics by the biggest, brightest stars! Cover: Kristin Chenoweth
 
-131 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/7cn8GzbNCrgnadfJ65Q1Jc)
+131 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

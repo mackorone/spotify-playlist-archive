@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "<a href=\"spotify:artist:6pSsE5y0uJMwYj83KrPyf9\">Dawn Richard</a>'s favorite tracks. Updated regularly. Curated by Dawn Richard. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Dawn Richard's track IDs",
-  "published_playlist_ids": [
-    "0jqxyVDehbifbJp5LcYEor"
-  ],
   "tracks": [
     {
       "album": {
@@ -859,7 +856,7 @@
     {
       "album": {
         "name": "You're Dead!",
-        "url": "https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj"
+        "url": "https://open.spotify.com/album/7DFT5wc0jn6U7DqooS8y6l"
       },
       "artists": [
         {
@@ -874,6 +871,28 @@
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234486,
+      "name": "Never Catch Me",
+      "url": "https://open.spotify.com/track/1KOqY0QTSadQFRgbNw1sLh"
+    },
+    {
+      "album": {
+        "name": "You're Dead!",
+        "url": "https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 234486,
       "name": "Never Catch Me",
       "url": "https://open.spotify.com/track/6CTG85NJI1Wm60pxTSRNwL"

@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI
+> Scopri il documentario speciale dedicato a Rhove e la playlist con alcune delle top promesse della musica italiana!
 
-81 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
+84 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-08-31 |  |
 | [Aposto](https://open.spotify.com/track/3KA9IQQuAumlMXg0GxWdKg) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Aposto](https://open.spotify.com/album/1hHnzj2rQ4boFeXBLROIXO) | 2:31 | 2022-08-31 |  |
 | [Avec moi](https://open.spotify.com/track/4b3d5gAAIUUhbzhRjQAZ97) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Numeri primi](https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH) | 3:14 | 2022-08-31 |  |
+| [Bambina](https://open.spotify.com/track/3ConKv3XVOlkcQp0SfaHA3) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Bambina](https://open.spotify.com/album/4RVpMxTNK77CJp8ddQbJjL) | 2:19 | 2022-12-08 |  |
 | [Bistrot](https://open.spotify.com/track/6BVYZ55BxhxYxOH4Tfid77) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Bistrot](https://open.spotify.com/album/67PCJjaYPG1cUjD9KXpQVm) | 3:17 | 2022-08-31 |  |
 | [Boss \(io & te\)](https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Boss \(io & te\)](https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy) | 3:01 | 2022-08-31 |  |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-08-31 |  |
@@ -46,16 +47,17 @@
 | [Mama \(feat\. Davinhor\)](https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Mama \(feat\. Davinhor\)](https://open.spotify.com/album/5DaFcleIdZFZDsvx4C4ftg) | 2:26 | 2022-11-24 |  |
 | [MANI STRETTE](https://open.spotify.com/track/5Qo4lrFwepxf9bofOradCv) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:29 | 2022-08-31 |  |
 | [Mayday](https://open.spotify.com/track/6BfywUJ9tXjFNVvLZU1wNW) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Lester Nowhere](https://open.spotify.com/artist/0wolj0IKnhhYnBFynfNaQn) | [Mayday](https://open.spotify.com/album/5AwOXRsX7ZO4Q9n4g0C9N0) | 2:43 | 2022-08-31 |  |
+| [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 | 2023-01-24 |  |
 | [Metaverso](https://open.spotify.com/track/4dCMB4V9Zyncd8oFAzWRSZ) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Post Nostalgia](https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv) | 3:05 | 2022-08-31 |  |
 | [Mezzanotte](https://open.spotify.com/track/652Qiud4KveJC4uUDFDXNw) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Mezzanotte](https://open.spotify.com/album/1pNTOh7L7lDbZGelqCpEKo) | 2:04 | 2022-08-31 |  |
 | [Millemila](https://open.spotify.com/track/21Z6MRumkQbvgyfXPrrMrW) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Millemila](https://open.spotify.com/album/5TdbB1CB4H90cDWSHlBFNC) | 2:48 | 2022-08-31 |  |
 | [Mon Frère](https://open.spotify.com/track/0ECjuTZzoNxv8hRSYS05AX) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Mon Frère](https://open.spotify.com/album/4oNPumU0MDQmVBp22tZLil) | 2:51 | 2022-08-31 |  |
 | [Moncherie \(feat\. Epoque\)](https://open.spotify.com/track/3WEIhQXeExw6gRwxvOa1Ny) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Il giorno in cui ho smesso di pensare](https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq) | 2:43 | 2022-08-31 |  |
-| [Montpellier](https://open.spotify.com/track/0B6URTmcGaWaXCnBtRiDGR) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Montpellier](https://open.spotify.com/album/1oM9EITMQKknIPJ1pxNTza) | 2:10 | 2022-08-31 |  |
+| [Montpellier](https://open.spotify.com/track/0B6URTmcGaWaXCnBtRiDGR) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Montpellier](https://open.spotify.com/album/1oM9EITMQKknIPJ1pxNTza) | 2:10 | 2022-08-31 | 2022-12-15 |
 | [Neon](https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Neon](https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp) | 3:44 | 2022-08-31 |  |
 | [Next Big Thing](https://open.spotify.com/track/3kkvWnuim3d3n9qXCBg9mT) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Goedi](https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 3:19 | 2022-08-31 |  |
 | [Non mi fa dormire \(feat\. Caffellatte\)](https://open.spotify.com/track/3V2nxW0jTVF60OKbNepxUn) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Non mi fa dormire \(feat\. Caffellatte\)](https://open.spotify.com/album/535CWlyiMJgJOgRvbyDF4R) | 2:46 | 2022-08-31 |  |
-| [Nonchalance](https://open.spotify.com/track/1fSUTj7qUeFW6R1PD2ofmn) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Nonchalance](https://open.spotify.com/album/0y3WjIF2bIH5BrbFRsKzZG) | 3:02 | 2022-08-31 |  |
+| [Nonchalance](https://open.spotify.com/track/1fSUTj7qUeFW6R1PD2ofmn) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Nonchalance](https://open.spotify.com/album/0y3WjIF2bIH5BrbFRsKzZG) | 3:02 | 2022-08-31 | 2022-12-09 |
 | [Obligé \(feat\. Axell\)](https://open.spotify.com/track/3ylACUPfBSPxP7KE1QRvxP) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Obligé \(feat\. Axell\)](https://open.spotify.com/album/6SYrKjw00rrplLbusba2Cn) | 2:45 | 2022-08-31 |  |
 | [Occhi Niagara](https://open.spotify.com/track/6FAt6ZLFlPpjg26N5vZcIJ) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Occhi Niagara](https://open.spotify.com/album/5e4Ja9BU1I6flN0insmf1y) | 3:27 | 2022-08-31 |  |
 | [On Time For Her](https://open.spotify.com/track/497mQQdUubKJdTqYUg0D2d) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3jH2bcVzgYzznFCliV5EdI) | 3:38 | 2022-11-07 | 2022-11-13 |
@@ -84,6 +86,7 @@
 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 | 2022-08-31 |  |
 | [Tasche Piene](https://open.spotify.com/track/6FDnLloftKFqfavEIxGJy2) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Bigghie](https://open.spotify.com/artist/2nLSzxzEXcb6ZSqSjWNnul) | [Tasche Piene](https://open.spotify.com/album/1rqwu4TY5aQVaipvV6TED7) | 2:40 | 2022-08-31 |  |
 | [TIRA E MOLLA](https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 2:48 | 2022-08-31 |  |
+| [Tolona](https://open.spotify.com/track/6f74ZrISrgps488L1QYSb0) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tolona](https://open.spotify.com/album/6h8884jQL2kUResMNzgtTf) | 3:04 | 2023-01-23 |  |
 | [TooMuch](https://open.spotify.com/track/4xNJDgvIlMjFIVTr7Fz72j) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [TooMuch](https://open.spotify.com/album/5W1SrEyT5psrYtuyqkOyCi) | 2:23 | 2022-08-31 |  |
 | [Tout va bien](https://open.spotify.com/track/4iuWGd3OWbHzzA8dCWoXTn) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tout va bien](https://open.spotify.com/album/1Mixzi6JgQWY5499xR8ohL) | 2:34 | 2022-08-31 |  |
 | [Traumi](https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Traumi](https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF) | 3:04 | 2022-11-03 |  |

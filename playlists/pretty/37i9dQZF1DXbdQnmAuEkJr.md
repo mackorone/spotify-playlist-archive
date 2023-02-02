@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,479 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,578 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 4 | [Les Deux Printemps](https://open.spotify.com/track/0Nic6UN7Gkmc0KEGZeD5lL) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Quatre Saisons Dans Le Désordre](https://open.spotify.com/album/5bbkmESAWYp9QuMzLCLpbe) | 3:14 |
 | 5 | [Imagine](https://open.spotify.com/track/00N4nzw54Xz4ZwtcDzqHJK) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Isa](https://open.spotify.com/album/1uV6kr7RrDmiffQoxLOg8s) | 2:51 |
 | 6 | [Vendredi 12](https://open.spotify.com/track/21qOyFwwf1CUN55NRbsoVE) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Vendredi 12](https://open.spotify.com/album/3g03WWyAWVBwsidf4RWfJn) | 3:58 |
-| 7 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
+| 7 | [Les yeux ouverts](https://open.spotify.com/track/700r0pgeOxHwgyOCGpZRet) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [3 CD Original Classics](https://open.spotify.com/album/1hxAgsAUo2PeDf5JCZwP8F) | 3:28 |
 | 8 | [Vivre ou ne pas vivre \- Extrait du conte musical 'Les souliers rouges'](https://open.spotify.com/track/4jHHl40RW6ZwV7XacbTVoO) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Arthur H](https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR), [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Best Of \- Morceaux d’amour](https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce) | 4:12 |
 | 9 | [Avant que je m'ennuie](https://open.spotify.com/track/0bTVrDHZ8ddqq8qdrdHiQz) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Mathieu Boogaerts](https://open.spotify.com/album/29BTL0fngaaQ4fKIQXO1Lj) | 3:32 |
 | 10 | [Bahia](https://open.spotify.com/track/18HYNYZAY4Ev0A41zU7g2B) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Bahia](https://open.spotify.com/album/3twysRacM3Fm3hUCWedE9h) | 3:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 69 | [à quoi tu penses quand tu m'adores ?](https://open.spotify.com/track/6zI9QsktCCl9NLJ5Vdop7k) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [à quoi tu penses quand tu m'adores ?](https://open.spotify.com/album/6on8d8g4VHiUM3AkT7ElJn) | 3:13 |
 | 70 | [Les eaux de mars](https://open.spotify.com/track/32FfL5hpFQdweMkxg8Z55o) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v) | [Raconte\-moi..\. \(Bonus Edition\)](https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb) | 3:38 |
 
-Snapshot ID: `MTYzNDE2NDQyMSwwMDAwMDAwMGM1MmFhOWQzNGE4MDcyZTUxNTBhN2JmNGExZjQ5ODUz`
+Snapshot ID: `MTYzNDE2NDQyMSwwMDAwMDAwMDk0ZDRjZjI1ZTBiZjQxNTVkNzQ0OTY4YWUzODIyZjRl`

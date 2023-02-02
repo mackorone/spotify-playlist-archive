@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Luis Miguel y Alejandro Fernández en un mismo lugar.
 
-50 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/5WK7KjTj5uopJ9ZogkB7rZ)
+50 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-71 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/4VCR7dI4Up8fnUbiFhdzLP)
+72 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,9 @@
 | [Big Legged Woman](https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 4:00 | 2020-12-01 |  |
 | [Black Cat Bone](https://open.spotify.com/track/1ici7lPp7HXKhkzQoDUNY0) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Showdown!](https://open.spotify.com/album/0fb0KsRXugaItlrVFVRnUi) | 4:58 | 2020-12-01 |  |
 | [Black Cat Bone](https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Live From The Archive](https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD) | 9:50 | 2020-12-01 |  |
-| [Break on Free](https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva) | [Break on Free](https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM) | 4:12 | 2022-02-18 | 2022-11-05 |
+| [Break on Free](https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva) | [Break on Free](https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM) | 4:12 | 2022-02-18 | 2023-01-15 |
 | [Break On Free](https://open.spotify.com/track/4Fud3EZZ37BrkyPJyyxx5i) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Break on Free](https://open.spotify.com/album/4IiYcLuZPXFYRVifhPtQNx) | 4:12 | 2022-02-18 | 2022-07-29 |
-| [Bubbles](https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0) | [Rick Holmstrom](https://open.spotify.com/artist/35UiXUhK0DxiIColZzzQ4P) | [Bubbles](https://open.spotify.com/album/6bIs6laKPXv8uQYPRGncif) | 2:23 | 2022-02-25 |  |
+| [Bubbles](https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0) | [Rick Holmstrom](https://open.spotify.com/artist/35UiXUhK0DxiIColZzzQ4P) | [Bubbles](https://open.spotify.com/album/6bIs6laKPXv8uQYPRGncif) | 2:23 | 2022-02-25 | 2022-11-27 |
 | [Carry Yourself](https://open.spotify.com/track/1HZz1dNkkeELD70jkM6opL) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/1MetDXRjfRNyM5sIO4LzBF) | 5:23 | 2020-12-01 | 2022-07-29 |
 | [Carry Yourself](https://open.spotify.com/track/3mAiFmSq6tsZGBAZlpps4H) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 5:23 | 2020-12-01 |  |
 | [Chevrolet](https://open.spotify.com/track/3wFhY7dmKE6hrEJfFLFavB) | [Robben Ford & The Blue Line](https://open.spotify.com/artist/0ndEfvEueBLBro612yCKwV) | [Handful Of Blues](https://open.spotify.com/album/5ENJwOTo3xFZ7vkXg8X4er) | 4:17 | 2020-12-01 |  |
@@ -23,6 +23,7 @@
 | [Come To Mama](https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:48 | 2020-12-01 |  |
 | [Crosscut Saw](https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 7:44 | 2020-12-01 |  |
 | [Do It](https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:25 | 2020-12-01 |  |
+| [Dumb It Down](https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:00 | 2022-08-19 |  |
 | [Family Curse](https://open.spotify.com/track/2Bwj1i96TGj2Z2QQhOHy95) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:37 | 2020-12-01 | 2022-07-25 |
 | [Funky Bitch](https://open.spotify.com/track/0G2iXcf4VmGsSKlyFpJ6vt) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Funky Bitch / Ball and Chain](https://open.spotify.com/album/6hruIYWB1piw5DLSX1RN2K) | 4:32 | 2021-06-11 | 2022-07-29 |
 | [Funky Bitch](https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:32 | 2021-06-11 |  |
@@ -41,7 +42,7 @@
 | [I Always Get My Man](https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:49 | 2020-12-01 |  |
 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 | 2020-12-01 |  |
 | [I Want My Crown](https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown](https://open.spotify.com/album/5aBZChPvzX0D1LJluxXd6y) | 4:19 | 2022-01-21 |  |
-| [I'm Beginning To Wonder](https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 4:10 | 2020-12-01 | 2022-11-25 |
+| [I'm Beginning To Wonder](https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 4:10 | 2020-12-01 | 2023-01-08 |
 | [I'm Not Havin' It](https://open.spotify.com/track/3iXMRHn9xcnl50C2WqmqHg) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/6LC0JgaYxblH0m74rvvULm) | 3:13 | 2021-04-23 | 2022-07-25 |
 | [I'm Not Havin' It](https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn) | 3:13 | 2021-04-23 | 2022-11-13 |
 | [Inflation](https://open.spotify.com/track/0PUWmPna5P0hKtSwXWin9o) | [Earnest Jackson](https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm), [Sugar Daddy and the Gumbo Roux](https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6) | [Inflation](https://open.spotify.com/album/0AOkZiHga3bBuhdabrVgyD) | 3:19 | 2022-11-07 |  |
@@ -77,7 +78,7 @@
 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 | 2020-12-01 |  |
 | [Whiskey For Sale](https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:02 | 2020-12-01 |  |
 | [Witch Doctor](https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2) | [Samuel Ashton](https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz) | [Witch Doctor](https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ) | 3:19 | 2022-02-04 |  |
-| [You Been Sweet To Me](https://open.spotify.com/track/4evgHdHMdofFQ9YbpdWq3G) | [Raful Neal](https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0) | [Old Friends](https://open.spotify.com/album/4eg05LO0iG3uN248Bj8Gvj) | 4:50 | 2020-12-01 | 2022-09-13 |
+| [You Been Sweet To Me](https://open.spotify.com/track/4evgHdHMdofFQ9YbpdWq3G) | [Raful Neal](https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0) | [Old Friends](https://open.spotify.com/album/4eg05LO0iG3uN248Bj8Gvj) | 4:50 | 2020-12-01 | 2022-12-16 |
 | [You're Losin' Me](https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:52 | 2020-12-01 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

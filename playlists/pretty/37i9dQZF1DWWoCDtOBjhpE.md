@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoCDtOBjhpE.md) - [plain]
 
 > Listen to the most streamed female artists in the US this year!
 
-[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 20 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 259 likes - 20 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

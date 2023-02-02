@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The powerful, expressive sound of Ballroom and Vogue culture - pioneered by the black LGBTQIA+ community. Cover: Cakes da Killa",
   "name": "The Ballroom (Vogue)",
-  "published_playlist_ids": [
-    "61jb2cF8g7zz9kda9fWPqS"
-  ],
   "tracks": [
     {
       "album": {
@@ -372,6 +369,32 @@
     },
     {
       "album": {
+        "name": "DEEP IN VOGUE (feat. Sophie Ellis-Bextor)",
+        "url": "https://open.spotify.com/album/0FdtnL6SUuctP8bq8WNYhI"
+      },
+      "artists": [
+        {
+          "name": "RHYME SO",
+          "url": "https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Wuh Oh",
+          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "DEEP IN VOGUE - feat. Sophie Ellis-Bextor",
+      "url": "https://open.spotify.com/track/3RtT4bWTzrgAldm9ksoOME"
+    },
+    {
+      "album": {
         "name": "Waltz Darling",
         "url": "https://open.spotify.com/album/1T6VXkSGLyGwJ1l0555IBb"
       },
@@ -569,10 +592,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 143833,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/0F9v0lpBD93UIOh4g0BcPm"
+    },
+    {
+      "album": {
+        "name": "Let It All Out EP",
+        "url": "https://open.spotify.com/album/2n4OhDkh0yjrFimKqX9cFN"
+      },
+      "artists": [
+        {
+          "name": "MikeQ",
+          "url": "https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o"
+        },
+        {
+          "name": "Kevin Jz Prodigy",
+          "url": "https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143833,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/4MzOMQEv4DY79F1uKPWRMJ"
     },
     {
       "album": {
@@ -1973,12 +2018,12 @@
       },
       "artists": [
         {
-          "name": "Janey Jack\u00e9",
-          "url": "https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v"
-        },
-        {
           "name": "Lady Bee",
           "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Janey Jack\u00e9",
+          "url": "https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v"
         }
       ],
       "date_added": "2022-08-05",

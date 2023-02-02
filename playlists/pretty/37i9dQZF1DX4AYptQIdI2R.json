@@ -1,13 +1,81 @@
 {
   "description": "Ahgases! 7 or nothing.",
-  "num_followers": 411758,
+  "num_followers": 414589,
   "original_name": "This Is GOT7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTgwMzU5MCwwMDAwMDAwMDQwZDU3ZTgyMGRkMGFlODQ2ZjAxOTAyMzU3NWEzMzIw",
+  "snapshot_id": "MTY3NDAzMjk3NCwwMDAwMDAwMDY0OWYwYmQzMzFkODJiNGZjM2U4YmZkZTE1MjViMDU2",
   "tracks": [
+    {
+      "added_at": "2023-01-18 09:09:34",
+      "album": {
+        "name": "Chapter 0: WITH",
+        "url": "https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz"
+    },
+    {
+      "added_at": "2023-01-03 02:29:24",
+      "album": {
+        "name": "Ponytail",
+        "url": "https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 205284,
+      "name": "Ponytail (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa"
+    },
+    {
+      "added_at": "2023-01-03 02:29:24",
+      "album": {
+        "name": "Be Yourself",
+        "url": "https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "go UP",
+      "url": "https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C"
+    },
+    {
+      "added_at": "2023-01-03 02:29:24",
+      "album": {
+        "name": "Why Why Why",
+        "url": "https://open.spotify.com/album/5MkkiVN4hu8eQ4vTTuma2q"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "duration_ms": 159936,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/7KJFzhA8d0IpIZLNt367Po"
+    },
     {
       "added_at": "2022-06-21 09:26:30",
       "album": {
@@ -1700,7 +1768,7 @@
           "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
         },
         {
-          "name": "Hyolyn",
+          "name": "HYOLYN",
           "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         }
       ],

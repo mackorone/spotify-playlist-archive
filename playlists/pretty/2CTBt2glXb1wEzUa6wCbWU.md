@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2CTBt2glXb1wEzUa6wCbWU.md) - [plain]
 
 > Missa inte Håkan Hellström på Flamingo\-scenen på FREDAG / 19.40
 
-[Spotify](https://open.spotify.com/user/spotify) - 68 likes - 10 songs - 40 min 3 sec
+[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 10 songs - 40 min 3 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

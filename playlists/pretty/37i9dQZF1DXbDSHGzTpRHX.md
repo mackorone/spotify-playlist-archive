@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,372 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,751 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 10 | [Warm Pants](https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Warm Pants](https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN) | 5:14 |
 | 11 | [Gone](https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS) | [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [RESET](https://open.spotify.com/album/53W9i1T6OTOEvLuKfUTzfr) | 3:10 |
 | 12 | [Dreams](https://open.spotify.com/track/6iCnwfimIzp1CTp06er7Te) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/429Bd8x5qNmBK9z6lyOXr6) | 2:42 |
-| 13 | [dying together](https://open.spotify.com/track/703SHNf8XtJnM3gtryjyJ6) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/31MiwOnaumhyDI1MloNrY3) | 2:36 |
+| 13 | [dying together](https://open.spotify.com/track/4rT2YF1iXeCemJhhee2pQN) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/2a4x992loSNgqAdvP1LjOn) | 2:36 |
 | 14 | [Space Makes Me Sad](https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Space Makes Me Sad](https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX) | 2:16 |
 | 15 | [i don't think i love you anymore](https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01) | 3:49 |
-| 16 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 |
+| 16 | [Wiggle](https://open.spotify.com/track/6SsbCH6SPFGKezh81mEseT) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/7M0hwRTi6xLfbmv91PRXBb) | 2:59 |
 | 17 | [Hollywood](https://open.spotify.com/track/40ZsN7vKatjbyoY8zx0DM8) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/4eosP6b4AHx0GA5Z9WVu0D) | 4:01 |
 | 18 | [mime](https://open.spotify.com/track/4sISzyWDHQQIOor9HokS7X) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [balloons don't float here](https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw) | 3:08 |
 | 19 | [Liar](https://open.spotify.com/track/53yWQ1FObrwPlVYCZdR6es) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Liar](https://open.spotify.com/album/55aI0Y84kAkGiqk8Y7BPGp) | 2:26 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 48 | [Blue Skies](https://open.spotify.com/track/5418UMEZW10tHZ6qrIVlKW) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Ponyboy EP](https://open.spotify.com/album/0oKIN8Ld0MA3hL8edgz6cq) | 5:04 |
 | 49 | [Untitled](https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb) | 2:59 |
 | 50 | [Run Tings \(feat\. Dounia\)](https://open.spotify.com/track/0wYYZ1ag9YbdVKFxoWo6yO) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU), [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Press L To Continue](https://open.spotify.com/album/0kYqF9RnizQlTrVpIrRmac) | 2:49 |
-| 51 | [Cool to You](https://open.spotify.com/track/4TxuAw6GMHFPMv6NQeXm6l) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool to You](https://open.spotify.com/album/3RCFqeTVmiEtc8cYfj7Uf7) | 3:17 |
+| 51 | [Cool To You](https://open.spotify.com/track/09rD9G2Dsbn7NjH6H6LTmL) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Cool To You](https://open.spotify.com/album/33QEbobiBLeUmtw2nsXmE2) | 3:17 |
 | 52 | [COMMA$](https://open.spotify.com/track/1Fk9MDDgy1VvMosMh4m34G) | [LORD$OFDOGTOWN](https://open.spotify.com/artist/3MR1RYx6wS8n93uSVpYoQ5) | [LORD$OFDOGTOWN](https://open.spotify.com/album/7uBoH5eDFQ7ifeAjjtS9Zn) | 2:26 |
 | 53 | [Tokyo](https://open.spotify.com/track/7bRczR0qkPYmWHFYUPBAmN) | [sam.sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Tokyo](https://open.spotify.com/album/5zQL7loJjfOSiUkI8k8l7K) | 2:56 |
 | 54 | [Rewind](https://open.spotify.com/track/3mDU9150jy8FYm8BtImUSw) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Rewind](https://open.spotify.com/album/1joaXuyfiUhkxYZyFeI9jH) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDBlMWJmYzRiMWMxYTBjZDAyODBkNTkyY2ZiMzk0Yjg4`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMGUwNzk2MjI1YjliMGJiOTk3OTYxMzIyZTMyOTA4ODk1`

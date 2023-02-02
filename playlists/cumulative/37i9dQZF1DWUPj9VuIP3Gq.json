@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-08",
   "description": "Dale play y ll\u00e9nate de nostalgia con estas canciones inolvidables.",
   "name": "Radio Latina",
-  "published_playlist_ids": [
-    "3u5yxhoplsyXY7fypHfFVT"
-  ],
   "tracks": [
     {
       "album": {
@@ -233,6 +230,24 @@
     {
       "album": {
         "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
+    },
+    {
+      "album": {
+        "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
       "artists": [
@@ -261,7 +276,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 257079,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/5DAcQYhc2MurNpTHtX8kZ3"
@@ -472,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+    },
+    {
+      "album": {
         "name": "Corriendo Con Tijeras",
         "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
       },
@@ -483,7 +516,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 195133,
       "name": "Corriendo Con Tijeras",
       "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
@@ -505,6 +538,24 @@
       "duration_ms": 211169,
       "name": "Cualquiera",
       "url": "https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN"
+    },
+    {
+      "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "album": {
@@ -591,7 +642,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 195600,
       "name": "Ella Es",
       "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
@@ -663,7 +714,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 124687,
       "name": "Espina De Rosa - Spotify Singles",
       "url": "https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat"
@@ -797,6 +848,24 @@
       "duration_ms": 302320,
       "name": "La Quiero A Morir",
       "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
+    },
+    {
+      "album": {
+        "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
+        "url": "https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189838,
+      "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
+      "url": "https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz"
     },
     {
       "album": {
@@ -1467,10 +1536,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 177480,
       "name": "Salvavidas",
       "url": "https://open.spotify.com/track/2ZXdTXVbAfNde0xbzAOkcr"
+    },
+    {
+      "album": {
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217196,
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
     },
     {
       "album": {

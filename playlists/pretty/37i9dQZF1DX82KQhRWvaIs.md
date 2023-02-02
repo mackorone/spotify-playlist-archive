@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82KQhRWvaIs.md) - [plain]
 
 > This is MILOŠ\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,438 likes - 84 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,399 likes - 84 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82KQhRWvaIs.md) - [plain]
 | 42 | [Here Comes The Sun](https://open.spotify.com/track/597nY0818HEo23dJFIwoi3) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Blackbird \- The Beatles Album](https://open.spotify.com/album/4fJbW2aN9c9zSN8qWVEcWe) | 3:02 |
 | 43 | [All My Loving](https://open.spotify.com/track/1DB9c24Xq72z9Oj7IF1YJo) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Blackbird \- The Beatles Album](https://open.spotify.com/album/4fJbW2aN9c9zSN8qWVEcWe) | 2:20 |
 | 44 | [Lucy In The Sky With Diamonds](https://open.spotify.com/track/0jswaiioMoOmnN6nfOlCMo) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Blackbird \- The Beatles Album](https://open.spotify.com/album/4fJbW2aN9c9zSN8qWVEcWe) | 3:48 |
-| 45 | [Libertango \(from "Cuatro Tangos"\) \- Latino Gold Version](https://open.spotify.com/track/2fZxoOFhWOmKeYPWUcvMdY) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4), [Ksenija Sidorova](https://open.spotify.com/artist/2eQM9blUQw9vY62tYLcpVk), [Studioorchester der Europäischen FilmPhilharmonie](https://open.spotify.com/artist/2LQEXX6CkuQ3qmwVbq883t), [Christoph Israel](https://open.spotify.com/artist/3LBQMLjfH1rDN06z0uLbSI) | [Collaborations](https://open.spotify.com/album/0SewbNPM60dWftj6OvVydc) | 3:01 |
+| 45 | [Cuatro Tangos: Libertango \- Latino Gold Version](https://open.spotify.com/track/0fI9x1NVOAmPLo4UA1hE7c) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4), [Ksenija Sidorova](https://open.spotify.com/artist/2eQM9blUQw9vY62tYLcpVk), [Studioorchester der Europäischen FilmPhilharmonie](https://open.spotify.com/artist/2LQEXX6CkuQ3qmwVbq883t), [Christoph Israel](https://open.spotify.com/artist/3LBQMLjfH1rDN06z0uLbSI) | [Canción](https://open.spotify.com/album/6yvrS8yYXlTIyUBxyBP7Yy) | 3:01 |
 | 46 | [Mas que nada](https://open.spotify.com/track/5Qm14VGqOHQBVjjje2bxZV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Canción](https://open.spotify.com/album/6yvrS8yYXlTIyUBxyBP7Yy) | 3:08 |
 | 47 | [Besame mucho](https://open.spotify.com/track/5Vt9jqpVuWm30gUvunICh3) | [Consuelo Velázquez](https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Canción](https://open.spotify.com/album/6yvrS8yYXlTIyUBxyBP7Yy) | 3:28 |
 | 48 | [The Girl From Ipanema](https://open.spotify.com/track/3g6h928oTRfyaikpKwZFbq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Canción](https://open.spotify.com/album/6yvrS8yYXlTIyUBxyBP7Yy) | 3:18 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82KQhRWvaIs.md) - [plain]
 | 83 | [Quintet No\. 4 for Guitar and Strings in D G.448 \- "Fandango": 4\. Fandango](https://open.spotify.com/track/3GnkqoLXYUxFkjAbNntdCB) | [Luigi Boccherini](https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF), [Paul Watkins](https://open.spotify.com/artist/7qE0skIc5hRIkJ5nyZe0t0) | [Luigi Boccherini \- Great Recordings](https://open.spotify.com/album/5qcFvUorYrRyI7X0lZW9ZU) | 4:01 |
 | 84 | [Theme From Stephen Ward](https://open.spotify.com/track/57MiqNSEWsjRklOOZTxki4) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Theme From Stephen Ward](https://open.spotify.com/album/6drLiLowExvNdrPOSpDBNq) | 3:05 |
 
-Snapshot ID: `MTYxOTE1MDQ2MCwwMDAwMDAwMGZmOTJlZGFlNWQyMTcwZGQ4NzI3MTgzNjhmODk2ZTky`
+Snapshot ID: `MTYxOTE1MDQ2MCwwMDAwMDAwMGRhYjY1YjAwYmI5OGRjNDZiM2EzMmQwYTBjNWMzZjEy`

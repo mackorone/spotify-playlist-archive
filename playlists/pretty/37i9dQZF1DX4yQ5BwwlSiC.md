@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 
 > Check out all of these artists and more performing live in Nashville at the CMA Music Festival 2022! Cover: Carrie Underwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,987 likes - 120 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,778 likes - 120 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 | 45 | [Things A Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 |
 | 46 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
 | 47 | [Try Missing You](https://open.spotify.com/track/14lkoqJMOMaR7s6mBKzb2W) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Try Missing You](https://open.spotify.com/album/3LcIXtkOELYnJyKnMQf9M1) | 3:26 |
-| 48 | [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 |
+| 48 | [Marry That Girl](https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:10 |
 | 49 | [Denim & Rhinestones](https://open.spotify.com/track/4eTogc6gceI3O6AxwwP7oo) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/1OgqlCnE4CasUeYODzIMSs) | 2:48 |
 | 50 | [Damn Strait](https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 3:50 |
 | 51 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 | 119 | [One Margarita](https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:13 |
 | 120 | [Man Made](https://open.spotify.com/track/78W8I06nYAyZtjrlZcPptU) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Man Made](https://open.spotify.com/album/6DIfNNLkwspcD82lM2yaU8) | 3:05 |
 
-Snapshot ID: `MTY1NDExMDM3MCwwMDAwMDAwMDE5MTljZmNiNWFjNTQ5ODk3ODdiYjU0ZTFmMDgyODAz`
+Snapshot ID: `MTY1NDExMDM3MCwwMDAwMDAwMGY5MWU5OWZjMmJlNDcwMzNlMmM1YjVlZTFmMTQzYzE4`

@@ -4,7 +4,7 @@
 
 > Si estuviésemo' en el kínder te enviaba cartita'...
 
-72 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/1ImNxLUROdSto2wRPEpaLH)
+72 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

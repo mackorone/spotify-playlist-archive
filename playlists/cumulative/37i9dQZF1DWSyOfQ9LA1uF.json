@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-20",
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
   "name": "Bloghouse",
-  "published_playlist_ids": [
-    "5Cxep01SDXktRYE7g6krlV"
-  ],
   "tracks": [
     {
       "album": {
@@ -849,7 +846,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-02-01",
       "duration_ms": 218493,
       "name": "Gay Dentists",
       "url": "https://open.spotify.com/track/2KUh0GgOD4u32XqzmtdfRW"
@@ -2275,7 +2272,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 171226,
       "name": "Shut Up and Let Me Go",
       "url": "https://open.spotify.com/track/1C6eViOmSvwrXz9JTHYaOV"
@@ -2293,7 +2290,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171226,
       "name": "Shut Up and Let Me Go",
       "url": "https://open.spotify.com/track/37QOvoAg1EC0PgWnfMrRmi"
@@ -2989,10 +2986,32 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 262773,
       "name": "We Are Your Friends - Justice Vs Simian",
       "url": "https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA"
+    },
+    {
+      "album": {
+        "name": "We Are Your Friends",
+        "url": "https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Simian",
+          "url": "https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262773,
+      "name": "We Are Your Friends - Justice Vs Simian",
+      "url": "https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8"
     },
     {
       "album": {

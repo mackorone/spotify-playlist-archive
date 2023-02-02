@@ -4,7 +4,7 @@
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-143 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/1sZJOt0xueZM3V4be8zHMj)
+144 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Le Pénitencier](https://open.spotify.com/track/06Q5ak3bZZYAf2ssn9FhiY) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Johnny Hallyday Story](https://open.spotify.com/album/1BDmjYyA9l8o19EpZKsnqK) | 4:03 | 2021-03-21 | 2022-07-29 |
 | [Le pénitencier](https://open.spotify.com/track/1Zu1P58I4KcKG1I9oWAImT) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Tendres Annees 60](https://open.spotify.com/album/57sYShGrYWTmNO2RJp8DNF) | 4:03 | 2021-03-21 | 2022-11-13 |
 | [Le pénitencier](https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Le pénitencier](https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6) | 4:05 | 2021-03-21 |  |
-| [Le tourbillon](https://open.spotify.com/track/2PIGvb6Qdl9PQXmnqhbCaQ) | [Georges Delerue](https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag) | [Jules et Jim \(Original Cinema Soundtrack\)](https://open.spotify.com/album/5MJerJF6GVBsL61mueN9cU) | 2:07 | 2021-03-21 |  |
+| [Le tourbillon](https://open.spotify.com/track/1GlwHwQqCxqaHyX4Iz21q1) | [Georges Delerue](https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag) | [Jules & Jim \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KE2RFb1iOYARWwQ85dgep) | 2:07 | 2021-03-21 |  |
+| [Le tourbillon](https://open.spotify.com/track/2PIGvb6Qdl9PQXmnqhbCaQ) | [Georges Delerue](https://open.spotify.com/artist/5C2ILE4DWY1vzn1NPxJOag) | [Jules et Jim \(Original Cinema Soundtrack\)](https://open.spotify.com/album/5MJerJF6GVBsL61mueN9cU) | 2:07 | 2021-03-21 | 2022-12-24 |
 | [Le tourbillon](https://open.spotify.com/track/0ZRnvyA5MxbgTCfWRw3YU4) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Le tourbillon de ma vie \(Best Of 2017\)](https://open.spotify.com/album/6gRQtl64VsWWTh26IuNoGP) | 2:06 | 2021-03-21 | 2022-11-13 |
 | [Le tourbillon](https://open.spotify.com/track/0SfpHtKHFHryAbKwU6viHm) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Succès Et Confidences](https://open.spotify.com/album/0sGNevmIelEj081PXYL1Xt) | 2:07 | 2021-03-21 | 2022-07-29 |
 | [Le téléphone pleure](https://open.spotify.com/track/2Wd4Yu2RtYZjSmzLLaghNZ) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Les Plus Belles Chansons De Claude François](https://open.spotify.com/album/6ee87DJAkjCghFeSVSCnx5) | 3:59 | 2021-03-21 |  |

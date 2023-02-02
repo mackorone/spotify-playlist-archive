@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-01",
   "description": "Fresh Gospel tracks to make you move and bop your head in Praise",
   "name": "Trinity Connect ",
-  "published_playlist_ids": [
-    "4voCCAakSbdaILEDDIaot8"
-  ],
   "tracks": [
     {
       "album": {
@@ -249,6 +246,32 @@
       "duration_ms": 198060,
       "name": "Donjo",
       "url": "https://open.spotify.com/track/7s61PhYsflmINKwYsQfPpI"
+    },
+    {
+      "album": {
+        "name": "ENJOY",
+        "url": "https://open.spotify.com/album/2rsZP3S0j81N42gu4NWRna"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Weber",
+          "url": "https://open.spotify.com/artist/6eebIf2iLkgsPBujMxRnwZ"
+        },
+        {
+          "name": "PAUL CLEMENT",
+          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
+        },
+        {
+          "name": "Josh Cleopa",
+          "url": "https://open.spotify.com/artist/57OQOZ0jKyNW8bsOTgCdT3"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282353,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/5TaYOrcT1oTXhkbpDt7Kkg"
     },
     {
       "album": {
@@ -729,7 +752,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 154319,
       "name": "Mukbang",
       "url": "https://open.spotify.com/track/5APruxOCs1HP4aDkqi7FbG"

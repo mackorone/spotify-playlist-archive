@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 70636,
+  "num_followers": 75022,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMDRkM2Y0OGQxNDgwN2NmYzIwYjg2MjQ5ZDhlMDM1N2Fh",
+  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMDc2YzQzNDZhNWI0MTZmYzM1ZGEzMTk0ZGRmZTI0N2I5",
   "tracks": [
     {
       "added_at": "2021-12-14 16:21:13",
@@ -139,22 +139,18 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Viva Duets",
-        "url": "https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv"
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
       },
       "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
         {
           "name": "Vicente Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 227546,
-      "name": "Return To Me (Regresa a M\u00ed) (with Vicente Fern\u00e1ndez)",
-      "url": "https://open.spotify.com/track/5dT3dcmsoLKhu0V3GjAR7F"
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -175,22 +171,6 @@
       "duration_ms": 228146,
       "name": "S\u00e9 Que Te Duele",
       "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -235,6 +215,26 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Viva Duets",
+        "url": "https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Return To Me (Regresa a M\u00ed) (with Vicente Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/5dT3dcmsoLKhu0V3GjAR7F"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "M\u00edo",
         "url": "https://open.spotify.com/album/47P4pfzxCuOjNEy0aCeS7q"
       },
@@ -267,6 +267,22 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Es La Diferencia",
+        "url": "https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Arriba Huentitan",
         "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
       },
@@ -279,6 +295,22 @@
       "duration_ms": 180733,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 202093,
+      "name": "Qu\u00e9 de Raro Tiene",
+      "url": "https://open.spotify.com/track/3gA2qpAbnuKLQV8Q9ZtIcf"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -299,22 +331,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Es La Diferencia",
-        "url": "https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 291106,
       "name": "Hoy Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Que De Raro Tiene",
-        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 202093,
-      "name": "Qu\u00e9 de Raro Tiene",
-      "url": "https://open.spotify.com/track/3gA2qpAbnuKLQV8Q9ZtIcf"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Te Acostumbraste",
-        "url": "https://open.spotify.com/album/020dEMnyiM4BjXunnmAHDh"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 157093,
-      "name": "Te Acostumbraste",
-      "url": "https://open.spotify.com/track/0KduQ09oGlWG27Y0W2wMD4"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Lo Que T\u00fa Necesitas",
         "url": "https://open.spotify.com/album/3wlF7RXXhJnCPShqWaZ48U"
       },
@@ -431,8 +415,8 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/2BFwJ5lMB5J1vTLCIDwibt"
+        "name": "Te Acostumbraste",
+        "url": "https://open.spotify.com/album/020dEMnyiM4BjXunnmAHDh"
       },
       "artists": [
         {
@@ -440,9 +424,9 @@
           "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 159840,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/2OB2qE2nRI9WGRkLtYrGwd"
+      "duration_ms": 157093,
+      "name": "Te Acostumbraste",
+      "url": "https://open.spotify.com/track/0KduQ09oGlWG27Y0W2wMD4"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -463,18 +447,18 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/2BFwJ5lMB5J1vTLCIDwibt"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 214893,
-      "name": "No Lo Beses",
-      "url": "https://open.spotify.com/track/3cX7KNREYC4NBntB6ccHHt"
+      "duration_ms": 159840,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/2OB2qE2nRI9WGRkLtYrGwd"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -499,8 +483,8 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Un Mexicano en la M\u00e9xico",
-        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
+        "name": "De Que Manera Te Olvido",
+        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
       },
       "artists": [
         {
@@ -508,15 +492,15 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 174360,
-      "name": "La Ley del Monte",
-      "url": "https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI"
+      "duration_ms": 171640,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0mLSnzvqwlq9hhrgJucGJs"
     },
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Dos Mundos",
-        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
       },
       "artists": [
         {
@@ -524,25 +508,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 195906,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Lastima Que Seas Ajena",
-        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "L\u00e1stima Que Seas Ajena",
-      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
+      "duration_ms": 214893,
+      "name": "No Lo Beses",
+      "url": "https://open.spotify.com/track/3cX7KNREYC4NBntB6ccHHt"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -563,8 +531,8 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "De Que Manera Te Olvido",
-        "url": "https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz"
+        "name": "Un Mexicano en la M\u00e9xico",
+        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
       },
       "artists": [
         {
@@ -572,9 +540,25 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 171640,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0mLSnzvqwlq9hhrgJucGJs"
+      "duration_ms": 174360,
+      "name": "La Ley del Monte",
+      "url": "https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "L\u00e1stima Que Seas Ajena",
+      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -591,6 +575,22 @@
       "duration_ms": 180386,
       "name": "Las Botas de Charro",
       "url": "https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Estuve",
+      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -615,18 +615,18 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Viento A Favor",
-        "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 250226,
-      "name": "Te Voy a Perder",
-      "url": "https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l"
+      "duration_ms": 176000,
+      "name": "Las Llaves de Mi Alma",
+      "url": "https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Las Llaves de Mi Alma",
-      "url": "https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Entre El Amor Y Yo",
         "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
       },
@@ -679,8 +663,8 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+        "name": "Viento A Favor",
+        "url": "https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor"
       },
       "artists": [
         {
@@ -688,25 +672,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 174000,
-      "name": "M\u00e1talas",
-      "url": "https://open.spotify.com/track/2uZX6rf2otrXvGx8vby7Xd"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 240240,
-      "name": "Se Me Va La Voz",
-      "url": "https://open.spotify.com/track/4QubLlsaYXoQH3CxGxuTry"
+      "duration_ms": 250226,
+      "name": "Te Voy a Perder",
+      "url": "https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -727,38 +695,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Un Mexicano en la M\u00e9xico",
-        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Si No Te Quisiera",
-        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "La Misma",
-      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -768,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 244133,
-      "name": "Nube Viajera",
-      "url": "https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6"
+      "duration_ms": 174000,
+      "name": "M\u00e1talas",
+      "url": "https://open.spotify.com/track/2uZX6rf2otrXvGx8vby7Xd"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -791,8 +727,24 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1"
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 240240,
+      "name": "Se Me Va La Voz",
+      "url": "https://open.spotify.com/track/4QubLlsaYXoQH3CxGxuTry"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Si No Te Quisiera",
+        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
       },
       "artists": [
         {
@@ -800,29 +752,25 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5"
+      "duration_ms": 189960,
+      "name": "La Misma",
+      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
     },
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+        "name": "Un Mexicano en la M\u00e9xico",
+        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 222226,
-      "name": "M\u00e1s No Puedo",
-      "url": "https://open.spotify.com/track/68teZcAANkNhea13y7GqDP"
+      "duration_ms": 154733,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -839,22 +787,6 @@
       "duration_ms": 202053,
       "name": "Cruz de Olvido",
       "url": "https://open.spotify.com/track/2vJyNEy7aNXMZomvzn5bJo"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "La Mitad Que Me Faltaba",
-      "url": "https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -879,6 +811,26 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "M\u00e1s No Puedo",
+      "url": "https://open.spotify.com/track/68teZcAANkNhea13y7GqDP"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Un Azteca en el Azteca (En Vivo)",
         "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
       },
@@ -895,6 +847,22 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "La Mitad Que Me Faltaba",
+      "url": "https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "El Hombre Que M\u00e1s Te Amo",
         "url": "https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO"
       },
@@ -907,6 +875,22 @@
       "duration_ms": 196520,
       "name": "El Hombre Que M\u00e1s Te Am\u00f3",
       "url": "https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -959,6 +943,22 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Or\u00edgenes",
         "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
       },
@@ -1007,24 +1007,8 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Mi Viejo",
-        "url": "https://open.spotify.com/album/6H1Ru58NKY7aNmHNEic44G"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Mi Viejo",
-      "url": "https://open.spotify.com/track/5jmuiCbNU1SEvFKqMadOZR"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
       "artists": [
         {
@@ -1032,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 180173,
-      "name": "Pude",
-      "url": "https://open.spotify.com/track/13vAioaFGieh0mfAF2pbjF"
+      "duration_ms": 193213,
+      "name": "A Qu\u00e9 Sabe El Olvido",
+      "url": "https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1064,15 +1048,15 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 484706,
-      "name": "Popurr\u00ed Juan Gabriel - En Vivo",
-      "url": "https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv"
+      "duration_ms": 261000,
+      "name": "No S\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk"
     },
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
       "artists": [
         {
@@ -1080,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 193213,
-      "name": "A Qu\u00e9 Sabe El Olvido",
-      "url": "https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R"
+      "duration_ms": 180173,
+      "name": "Pude",
+      "url": "https://open.spotify.com/track/13vAioaFGieh0mfAF2pbjF"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1096,9 +1080,45 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 261000,
-      "name": "No S\u00e9 Olvidar",
-      "url": "https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk"
+      "duration_ms": 484706,
+      "name": "Popurr\u00ed Juan Gabriel - En Vivo",
+      "url": "https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Mi Viejo",
+        "url": "https://open.spotify.com/album/6H1Ru58NKY7aNmHNEic44G"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Mi Viejo",
+      "url": "https://open.spotify.com/track/5jmuiCbNU1SEvFKqMadOZR"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Ment\u00ed",
+      "url": "https://open.spotify.com/track/1LBMyEhRDTzwvZPqaGvnCJ"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1119,22 +1139,18 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Para Sacarte De Mi Vida",
-        "url": "https://open.spotify.com/album/5Z19fEDWinrVN1AtzXjx45"
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
       "artists": [
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 243546,
-      "name": "Para Sacarte De Mi Vida",
-      "url": "https://open.spotify.com/track/43dQwFD0vtPSprSEgGUceQ"
+      "duration_ms": 246053,
+      "name": "Procuro Olvidarte",
+      "url": "https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1155,6 +1171,102 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/7eEvb7cYpg2CAVfpS0bPX3"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 176813,
+      "name": "Yo Quiero Ser",
+      "url": "https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "Cuando Yo Quer\u00eda Ser Grande",
+      "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "Decepciones",
+      "url": "https://open.spotify.com/track/6Ecm8kb3fP58vsFs252AUR"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Quiero Que Vuelvas",
+        "url": "https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Quiero Que Vuelvas",
+      "url": "https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Si T\u00fa Supieras",
+      "url": "https://open.spotify.com/track/4lSsdT57CtgjpWQ1oILLC4"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -1164,9 +1276,29 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 246053,
-      "name": "Procuro Olvidarte",
-      "url": "https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm"
+      "duration_ms": 199600,
+      "name": "A Pesar De Todo",
+      "url": "https://open.spotify.com/track/1gaEzLOIUBJvEpgqN5Mhc1"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Para Sacarte De Mi Vida",
+        "url": "https://open.spotify.com/album/5Z19fEDWinrVN1AtzXjx45"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "Para Sacarte De Mi Vida",
+      "url": "https://open.spotify.com/track/43dQwFD0vtPSprSEgGUceQ"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1196,189 +1328,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 197280,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/7eEvb7cYpg2CAVfpS0bPX3"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 222360,
-      "name": "Cuando Yo Quer\u00eda Ser Grande",
-      "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Quiero Que Vuelvas",
-        "url": "https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Quiero Que Vuelvas",
-      "url": "https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "Decepciones",
-      "url": "https://open.spotify.com/track/6Ecm8kb3fP58vsFs252AUR"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Ment\u00ed",
-      "url": "https://open.spotify.com/track/1LBMyEhRDTzwvZPqaGvnCJ"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Si T\u00fa Supieras",
-      "url": "https://open.spotify.com/track/4lSsdT57CtgjpWQ1oILLC4"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
       "duration_ms": 199000,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/69eGsmBys3tALmQnSSm6xq"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 176813,
-      "name": "Yo Quiero Ser",
-      "url": "https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Confidencias",
-        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "C\u00f3ncavo Y Convexo",
-      "url": "https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Confidencias",
-        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "A Pesar De Todo",
-      "url": "https://open.spotify.com/track/1gaEzLOIUBJvEpgqN5Mhc1"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "Tantita Pena",
-      "url": "https://open.spotify.com/track/4tly3E8AM6NCQ54Q79iRoi"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "Ni\u00f1a Amada M\u00eda",
-      "url": "https://open.spotify.com/track/155jNGmWNRmzwnMqlHo9Ce"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1399,8 +1351,8 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Entre Tus Brazos",
-        "url": "https://open.spotify.com/album/2AL0jknRfCLnaEorY1M4Sa"
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
       "artists": [
         {
@@ -1408,9 +1360,133 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 268093,
-      "name": "H\u00e1blame",
-      "url": "https://open.spotify.com/track/3WpkrJzB5CqQQjqMkUR3K6"
+      "duration_ms": 192040,
+      "name": "Ni\u00f1a Amada M\u00eda",
+      "url": "https://open.spotify.com/track/155jNGmWNRmzwnMqlHo9Ce"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Ya No Insistas Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 204056,
+      "name": "Ya No Insistas Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "Tantita Pena",
+      "url": "https://open.spotify.com/track/4tly3E8AM6NCQ54Q79iRoi"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "C\u00f3ncavo Y Convexo",
+      "url": "https://open.spotify.com/track/0HYdtyMwBcGzw0tfwrXlg0"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Mis Canciones, Mis Amigos",
+        "url": "https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/3YOMXqqIaBYk3W4WecVqCg"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Am\u00e9rica Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/1t2pG2SILJIeGtJbLsKluI"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        },
+        {
+          "name": "Valentina Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6ZmC7bjmEwzBvBM8j3Q6ND"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/116BKjZNni7q1859acbI8M"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 143826,
+      "name": "Nuestro Gran Secreto",
+      "url": "https://open.spotify.com/track/6UnKIvdbaPzCpHnceW372Y"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Yo Nac\u00ed para Amarte",
+      "url": "https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1440,9 +1516,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 143826,
-      "name": "Nuestro Gran Secreto",
-      "url": "https://open.spotify.com/track/6UnKIvdbaPzCpHnceW372Y"
+      "duration_ms": 228106,
+      "name": "Mudanza A La Luna",
+      "url": "https://open.spotify.com/track/5QtzrMvhtEUQzCkehNQqdh"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1463,8 +1539,8 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Mis Canciones, Mis Amigos",
-        "url": "https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t"
+        "name": "Entre Tus Brazos",
+        "url": "https://open.spotify.com/album/2AL0jknRfCLnaEorY1M4Sa"
       },
       "artists": [
         {
@@ -1472,89 +1548,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 143760,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Ya No Insistas Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 204056,
-      "name": "Ya No Insistas Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 228106,
-      "name": "Mudanza A La Luna",
-      "url": "https://open.spotify.com/track/5QtzrMvhtEUQzCkehNQqdh"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 138346,
-      "name": "En Lo Correcto",
-      "url": "https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Yo Nac\u00ed para Amarte",
-      "url": "https://open.spotify.com/track/1vXvkOzHi6NtcKUBAVaeNv"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "No Lo Beses (Mariachi)",
-        "url": "https://open.spotify.com/album/1zhooanNpd9nzQkeICd2Vw"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "No Lo Beses - Mariachi",
-      "url": "https://open.spotify.com/track/5qMyOiRIQ9wXjiSYbBzm1Y"
+      "duration_ms": 268093,
+      "name": "H\u00e1blame",
+      "url": "https://open.spotify.com/track/3WpkrJzB5CqQQjqMkUR3K6"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1575,8 +1571,8 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Un Azteca en el Azteca (En Vivo)",
-        "url": "https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb"
+        "name": "A Mis 80's",
+        "url": "https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh"
       },
       "artists": [
         {
@@ -1584,25 +1580,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 236426,
-      "name": "Ac\u00e1 Entre Nos - En Vivo [Un Azteca en el Azteca]",
-      "url": "https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "Por Tu Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2Uv19wAiksXZcFM84R00KQ"
+      "duration_ms": 180529,
+      "name": "Cuando Me Digas",
+      "url": "https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1623,6 +1603,38 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Por Tu Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2Uv19wAiksXZcFM84R00KQ"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Muriendo de Amor",
+        "url": "https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 174426,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/3XeHLWySChbhhvaZFRezpS"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
         "name": "Confidencias Reales (En Vivo Desde El Teatro Real)",
         "url": "https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP"
       },
@@ -1639,8 +1651,8 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
       "artists": [
         {
@@ -1648,9 +1660,9 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Qu\u00e9 L\u00e1stima",
-      "url": "https://open.spotify.com/track/0NvO81WDJmJ1aorQ4Of2i9"
+      "duration_ms": 138346,
+      "name": "En Lo Correcto",
+      "url": "https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD"
     },
     {
       "added_at": "2021-12-14 16:21:13",

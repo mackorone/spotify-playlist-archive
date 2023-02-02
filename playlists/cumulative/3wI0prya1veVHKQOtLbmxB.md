@@ -4,7 +4,7 @@
 
 > Get ready for Valentine's Day 2023! Love Songs for 2022! Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
 
-80 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/6iVBafOtYI08CSsSNlz6Ga)
+80 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

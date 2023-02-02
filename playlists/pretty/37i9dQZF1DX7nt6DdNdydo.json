@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 36616,
+  "num_followers": 38407,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDIxNTlhYWQ4ZDc2YmYwZWQ1NmEyN2Q3MTJhNDRmOTA3",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDc0OTA0NTQ2MTk0ZDllYTgxM2NlYmRlMzc4NDlmYWU2",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "5-10-15 Hours",
+      "url": "https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Risque Blues - My Ding-A-Ling",
         "url": "https://open.spotify.com/album/4u2xelGNMSwwqPYodFTb1d"
       },
@@ -75,18 +91,50 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+        "name": "Wake Up And Live!",
+        "url": "https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ"
       },
       "artists": [
         {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+          "name": "Floyd Dixon",
+          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
         }
       ],
-      "duration_ms": 195466,
-      "name": "5-10-15 Hours",
-      "url": "https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK"
+      "duration_ms": 139466,
+      "name": "450 Pound Woman",
+      "url": "https://open.spotify.com/track/7lIknnQZTwWds17MoZCoJi"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The EP Collection",
+        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
+      },
+      "artists": [
+        {
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -127,38 +175,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Caldonia - Single Version",
-      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Jump, Jive An' Wail: The Essential",
         "url": "https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w"
       },
@@ -175,6 +191,38 @@
       "duration_ms": 209413,
       "name": "Jump, Jive, An' Wail - Remastered 1996",
       "url": "https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 160827,
+      "name": "Bloodshot Eyes",
+      "url": "https://open.spotify.com/track/4w873lwWDABniYU2MOaXYQ"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -211,54 +259,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 160827,
-      "name": "Bloodshot Eyes",
-      "url": "https://open.spotify.com/track/4w873lwWDABniYU2MOaXYQ"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
-      },
-      "artists": [
-        {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Ain't Nobody Here But Us Chickens",
-      "url": "https://open.spotify.com/track/52UNX3oSXgPC1uKVG0pXI4"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV"
       },
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Wake Up And Live!",
-        "url": "https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ"
-      },
-      "artists": [
-        {
-          "name": "Floyd Dixon",
-          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "450 Pound Woman",
-      "url": "https://open.spotify.com/track/7lIknnQZTwWds17MoZCoJi"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Jimmy Liggins And His Drops Of Joy",
         "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
       },
@@ -319,22 +303,6 @@
       "duration_ms": 156733,
       "name": "Cadillac Boogie",
       "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -355,18 +323,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Aladdin '52-'59:Let The Good Times Roll",
-        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
       },
       "artists": [
         {
-          "name": "Shirley & Lee",
-          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
         }
       ],
-      "duration_ms": 119720,
-      "name": "The Flirt",
-      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
+      "duration_ms": 187773,
+      "name": "Ain't Nobody Here But Us Chickens",
+      "url": "https://open.spotify.com/track/52UNX3oSXgPC1uKVG0pXI4"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -387,6 +355,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Aladdin '52-'59:Let The Good Times Roll",
+        "url": "https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP"
+      },
+      "artists": [
+        {
+          "name": "Shirley & Lee",
+          "url": "https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y"
+        }
+      ],
+      "duration_ms": 119720,
+      "name": "The Flirt",
+      "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Mardi Gras Blues",
         "url": "https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak"
       },
@@ -399,22 +383,6 @@
       "duration_ms": 147053,
       "name": "(Every Time I Hear) That Mellow Saxophone",
       "url": "https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lost Halloween",
-        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
-      },
-      "artists": [
-        {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
-        }
-      ],
-      "duration_ms": 120480,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -435,18 +403,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
+        "name": "Presenting Big Jay McNeely",
+        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
       },
       "artists": [
         {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
         }
       ],
-      "duration_ms": 135853,
-      "name": "Shake That Thing",
-      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
+      "duration_ms": 167866,
+      "name": "Deacon Rides Again",
+      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -467,60 +435,24 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Count Basie Swings - Joe Williams Sings",
-        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
+        "name": "Lost Halloween",
+        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
       },
       "artists": [
         {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        },
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
         }
       ],
-      "duration_ms": 190706,
-      "name": "Roll 'Em Pete",
-      "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
+      "duration_ms": 120480,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
     },
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
-        "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
-      },
-      "artists": [
-        {
-          "name": "The Treniers",
-          "url": "https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Say Hey (The Willie Mays Song)",
-      "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Presenting Big Jay McNeely",
-        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
-      },
-      "artists": [
-        {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "Deacon Rides Again",
-      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT"
       },
       "artists": [
         {
@@ -528,9 +460,25 @@
           "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Keep On Churnin' (Till The Butter Come)",
-      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
+      "duration_ms": 135853,
+      "name": "Shake That Thing",
+      "url": "https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -551,22 +499,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Joe Liggins & The Honeydrippers",
-        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+        "name": "Count Basie Swings - Joe Williams Sings",
+        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
       "artists": [
         {
-          "name": "Joe Liggins",
-          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         },
         {
-          "name": "Honeydrippers",
-          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 286893,
-      "name": "Rhythm In The Barnyard",
-      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
+      "duration_ms": 190706,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -623,18 +571,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+        "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
+        "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "The Treniers",
+          "url": "https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ"
         }
       ],
-      "duration_ms": 124266,
-      "name": "Teenage Baby",
-      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
+      "duration_ms": 191306,
+      "name": "Say Hey (The Willie Mays Song)",
+      "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -655,6 +603,38 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 124266,
+      "name": "Teenage Baby",
+      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Keep On Churnin' (Till The Butter Come)",
+      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Joe Williams' Finest Hour",
         "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 371893,
       "name": "Is You Is Or Is You Ain't My Baby",
       "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Joe Liggins & The Honeydrippers",
+        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+      },
+      "artists": [
+        {
+          "name": "Joe Liggins",
+          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
+        },
+        {
+          "name": "Honeydrippers",
+          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
+        }
+      ],
+      "duration_ms": 286893,
+      "name": "Rhythm In The Barnyard",
+      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Travelin' Blues",
-        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
-      },
-      "artists": [
-        {
-          "name": "Roy Brown",
-          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
-        }
-      ],
-      "duration_ms": 117040,
-      "name": "Let the Four Winds Blow",
-      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
         "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Rock And Roll - The Essential Collection",
-        "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
+        "name": "Travelin' Blues",
+        "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
       },
       "artists": [
         {
-          "name": "Joe Houston & His Rockets",
-          "url": "https://open.spotify.com/artist/0KE5SlfCEB81MaKTaWP4q6"
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
         }
       ],
-      "duration_ms": 160186,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
+      "duration_ms": 117040,
+      "name": "Let the Four Winds Blow",
+      "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -763,6 +747,22 @@
       "duration_ms": 164160,
       "name": "I'm Going To Have Myself A Ball",
       "url": "https://open.spotify.com/track/1tqLXlzrpnMHOQH2kkt1y3"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Rock And Roll - The Essential Collection",
+        "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
+      },
+      "artists": [
+        {
+          "name": "Joe Houston & His Rockets",
+          "url": "https://open.spotify.com/artist/0KE5SlfCEB81MaKTaWP4q6"
+        }
+      ],
+      "duration_ms": 160186,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
     },
     {
       "added_at": "2022-03-28 19:44:25",

@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-159 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
+161 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Desolation Point](https://open.spotify.com/track/0iCSwrR44gwwL0cfuLDjvZ) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3vSNB85xVwlQHjh2AmME8s) | 3:55 | 2019-10-31 | 2022-07-29 |
 | [Desolation Point](https://open.spotify.com/track/1xqwwhzRT5V5cSev8sxXOS) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/71N8R4aZ6VDXWUP9jo8l08) | 3:55 | 2022-01-27 |  |
 | [Desolation Point](https://open.spotify.com/track/7HpHnuK94vWiyXI5iFld4X) | [Steve Smyth](https://open.spotify.com/artist/4ejc2q1FtezVtEDOEOuyMO) | [Exits](https://open.spotify.com/album/3JV08IVUR8OrMfCTMdfThw) | 3:55 | 2022-01-27 | 2022-11-13 |
-| [Devil's Girl](https://open.spotify.com/track/4bnnv2462H6doSlieJUhrP) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n) | [Outlaws and Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3on6GsTjI3kH4pyof9Arhp) | 3:29 | 2022-01-27 |  |
+| [Devil's Girl](https://open.spotify.com/track/4bnnv2462H6doSlieJUhrP) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n) | [Outlaws and Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3on6GsTjI3kH4pyof9Arhp) | 3:29 | 2022-01-27 | 2022-12-01 |
+| [Devil's Girl](https://open.spotify.com/track/5rEYeXEDqlKDbjArQVIQt6) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n) | [Outlaws and Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14TZLEaVzCm5wnyjCJKLXi) | 3:29 | 2022-10-21 |  |
 | [Devil's Girl \(feat\. Melody Michalski\)](https://open.spotify.com/track/0fgj7wVsVLBI1DCr0BhIOe) | [Overnight](https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n), [Melody Michalski](https://open.spotify.com/artist/5opjSR8qDqouCY4PNea3v8) | [Outlaws and Angels \(Original Motion Picture Score\)](https://open.spotify.com/album/3l9k3EdmR1W77MCte6fQFk) | 3:29 | 2019-10-31 | 2022-07-29 |
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2022-01-27 | 2022-10-17 |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-01-27 |  |
@@ -164,6 +165,7 @@
 | [Widow's Peak](https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA) | 3:51 | 2022-01-27 |  |
 | [With Roses](https://open.spotify.com/track/20e1FXXYbzoa34ENMSClEk) | [The Walking Who](https://open.spotify.com/artist/2rSnDv4mgde9Nrmd29Xv4r) | [Lewiside](https://open.spotify.com/album/2TkdZYaMtFX4xGq4vvnAfk) | 3:31 | 2019-10-31 | 2022-07-29 |
 | [With Roses](https://open.spotify.com/track/7mFndwzSz1tL9hQJe8VcoB) | [The Walking Who](https://open.spotify.com/artist/2rSnDv4mgde9Nrmd29Xv4r) | [Lewiside](https://open.spotify.com/album/1pyXvUn0xwcdO8FLCh9Vte) | 3:31 | 2022-01-27 |  |
+| [Words](https://open.spotify.com/track/0gffHnqikqMloBsK7KnTBP) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Words](https://open.spotify.com/album/06UQRgpwTeKNLS8Stuee28) | 5:25 | 2022-12-12 |  |
 | [Work Song](https://open.spotify.com/track/4Vc3bzFxXdrABa2DxgyCMT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:49 | 2019-10-31 |  |
 | [You](https://open.spotify.com/track/463QkaYcFvcfAeHnKNPuRr) | [Lizzie Weber](https://open.spotify.com/artist/4ccrRYqGDvMVvKhI4TKim7) | [You](https://open.spotify.com/album/6rrDTUVgBXzrKINnr49e4e) | 3:03 | 2019-10-31 |  |
 | [You And I](https://open.spotify.com/track/5qoD9i5DqtUWKaxyW29Yt7) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [You And I](https://open.spotify.com/album/7k8UcNo3eeGLfzXUwUNjPO) | 3:45 | 2019-10-31 |  |

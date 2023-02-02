@@ -4,7 +4,7 @@
 
 > Noisy spoken words \- radical and experimental\. Cover: Moor Mother
 
-66 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/3X3R30wFwL3qNb1mdDhdeb)
+66 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

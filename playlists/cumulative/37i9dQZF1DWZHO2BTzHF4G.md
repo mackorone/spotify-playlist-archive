@@ -4,7 +4,7 @@
 
 > Rock that was on repeat during the summers of the 2000s.
 
-144 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/6dFdmMiL6Go999QqBaJzZR)
+146 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,8 @@
 | [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb) | [Vertical Horizon](https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn) | [Everything You Want](https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1) | 4:17 | 2021-04-09 |  |
 | [Faint](https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 2:42 | 2021-04-09 |  |
 | [Faint](https://open.spotify.com/track/7AB0cUXnzuSlAnyHOqmrZr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:42 | 2021-04-09 | 2022-07-28 |
-| [Fire](https://open.spotify.com/track/5mVjSxIfzdQrH5K0w5NPAf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4h3HuXQqdbigPCnfq3kHRm) | 4:12 | 2021-04-09 | 2022-07-29 |
-| [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 | 2021-04-09 |  |
+| [Fire](https://open.spotify.com/track/5mVjSxIfzdQrH5K0w5NPAf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4h3HuXQqdbigPCnfq3kHRm) | 4:12 | 2021-04-09 |  |
+| [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 | 2021-04-09 | 2022-11-27 |
 | [Forever](https://open.spotify.com/track/4oJ4XZwQA2cLMBnRtYSSIb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA) | 4:06 | 2021-04-09 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/7zQ5nqAKKfk0gtBgV70gyq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/2Aa1nPsSmQpQHjc9VdeGCl) | 4:06 | 2021-04-09 |  |
 | [Girlfriend](https://open.spotify.com/track/0zbAZe4hhS8vX4mfMiTDNc) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Soirée d'été : Summer Hits Mix 2022](https://open.spotify.com/album/5N908fN8d6jKcxsFVLxlt3) | 3:36 | 2021-04-09 | 2022-11-13 |
@@ -69,8 +69,10 @@
 | [Imitation Of Life](https://open.spotify.com/track/6VekqQih8fJTHOsoSL01th) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Part Lies, Part Heart, Part Truth, Part Garbage: 1982\-2011](https://open.spotify.com/album/0lkKxxnV5EV8XaKUjjODqd) | 3:57 | 2021-04-09 |  |
 | [In Love With a Girl](https://open.spotify.com/track/3zcmWxxUA7Em7X3IBqZGUo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Gavin DeGraw](https://open.spotify.com/album/5FbUXif3rTa8DX7TTwxegZ) | 3:26 | 2021-04-09 |  |
 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 | 2021-04-09 |  |
-| [In The Morning](https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Alternative Rock Anthems](https://open.spotify.com/album/6HqFU3JhIwBSjpnGYVI3E7) | 3:41 | 2021-04-09 |  |
+| [In The Morning](https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Alternative Rock Anthems](https://open.spotify.com/album/6HqFU3JhIwBSjpnGYVI3E7) | 3:41 | 2021-04-09 | 2022-12-12 |
 | [In The Morning](https://open.spotify.com/track/64IcdRqfcN5rwqSqJpQDDe) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorlight](https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj) | 3:42 | 2021-04-09 | 2022-07-29 |
+| [In The Morning](https://open.spotify.com/track/2VfqriSJNnNAWTsRwFPVtV) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorwhat? The Best Of Razorlight](https://open.spotify.com/album/5ukcsAk1XLdl0dRIKE6D8L) | 3:43 | 2021-04-09 |  |
+| [In The Morning](https://open.spotify.com/track/7dpQuMhLvm1CxlSnyXYdzG) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorwhat? The Best Of Razorlight](https://open.spotify.com/album/1VcnPXc0VNSTCsz5FwvdQj) | 3:43 | 2021-04-09 | 2022-12-13 |
 | [In The Morning](https://open.spotify.com/track/4goVMd3Y6VuEnl2aj4eyQS) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Breakfast Bangers](https://open.spotify.com/album/6hVKyuxW8w5vgMi73tfivH) | 3:45 | 2021-04-09 | 2022-11-13 |
 | [In the Shadows](https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Dead Letters](https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7) | 4:17 | 2021-04-09 |  |
 | [Is It Any Wonder?](https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/3g7Ba6diNryAEMk2LWIgfB) | 3:06 | 2021-04-09 | 2022-07-29 |

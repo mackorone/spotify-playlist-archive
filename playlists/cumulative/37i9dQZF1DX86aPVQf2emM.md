@@ -4,7 +4,7 @@
 
 > His finest work, in one playlist
 
-35 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/5KpVGaLmtcPYy5ZAGgSpid)
+35 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

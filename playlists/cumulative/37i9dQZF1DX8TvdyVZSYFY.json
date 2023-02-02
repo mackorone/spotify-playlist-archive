@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Big hits from the world of acoustics.",
   "name": "Acoustic Throwbacks",
-  "published_playlist_ids": [
-    "15USUzNR9YKdH5WRjqJCtH"
-  ],
   "tracks": [
     {
       "album": {
@@ -1013,7 +1010,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-11",
       "duration_ms": 148288,
       "name": "Call On Me - Acoustic Version",
       "url": "https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi"
@@ -3267,10 +3264,28 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 235763,
       "name": "If You're Not the One",
       "url": "https://open.spotify.com/track/1GR048FTHqQeSuiP1qszT3"
+    },
+    {
+      "album": {
+        "name": "If You're Not the One",
+        "url": "https://open.spotify.com/album/5FxFq3fjle5UXmerJcFaag"
+      },
+      "artists": [
+        {
+          "name": "Kyle Juliano",
+          "url": "https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235763,
+      "name": "If You're Not the One",
+      "url": "https://open.spotify.com/track/7EDmtg8YNDuZNkhLlvhTr9"
     },
     {
       "album": {
@@ -7367,10 +7382,32 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 211573,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/2NemVm8OFPcHdm4JhTTFTD"
+    },
+    {
+      "album": {
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/3R4Wg1XFOSnekFhat6K5Ba"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/6JjQ6iGRJ7PLbJGR4WB9uu"
     },
     {
       "album": {

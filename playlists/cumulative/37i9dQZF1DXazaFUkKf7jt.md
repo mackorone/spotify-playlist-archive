@@ -4,7 +4,7 @@
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-111 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/2D0jbX6eAnZtJ3v3bXZ0zg)
+111 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

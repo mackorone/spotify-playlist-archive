@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.",
   "name": "Pure Rock & Roll",
-  "published_playlist_ids": [
-    "7GR81fCC3XyMT25TeYTKkp"
-  ],
   "tracks": [
     {
       "album": {
@@ -869,7 +866,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-24",
       "duration_ms": 221640,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/3ykSdTGmYPFl8pDBXer1zG"
@@ -1471,7 +1468,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 197520,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
@@ -1493,6 +1490,24 @@
       "duration_ms": 221332,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
+    },
+    {
+      "album": {
+        "name": "Fog Machine",
+        "url": "https://open.spotify.com/album/4G37xdusxvyZqLXUDpeUs7"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193549,
+      "name": "Fog Machine",
+      "url": "https://open.spotify.com/track/2oLMRpIzmWXJAI1oEuSqsc"
     },
     {
       "album": {
@@ -1561,7 +1576,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 180585,
       "name": "Frenzy",
       "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
@@ -2090,6 +2105,42 @@
     },
     {
       "album": {
+        "name": "Vai/Gash",
+        "url": "https://open.spotify.com/album/4Hv4iR1M5Bh1KlZ3J6fJOe"
+      },
+      "artists": [
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "In The Wind",
+      "url": "https://open.spotify.com/track/22p3vBrc3iRBMh8ndiB7rr"
+    },
+    {
+      "album": {
+        "name": "In The Wind",
+        "url": "https://open.spotify.com/album/4HvkVUY6cCAeSNnfU0v4Wv"
+      },
+      "artists": [
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-30",
+      "duration_ms": 229640,
+      "name": "In The Wind",
+      "url": "https://open.spotify.com/track/2NMY0HrpgXgo0AYrjlQiXe"
+    },
+    {
+      "album": {
         "name": "The Essential Billy Joel",
         "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
@@ -2173,7 +2224,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 215666,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
@@ -2612,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Lux \u00c6terna",
+        "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
+    },
+    {
+      "album": {
         "name": "Mister Asylum",
         "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
       },
@@ -2623,7 +2692,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 242560,
       "name": "Lydia",
       "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
@@ -2969,7 +3038,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-19",
       "duration_ms": 234240,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
@@ -3023,7 +3092,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 223386,
       "name": "Nobody Wants to Die",
       "url": "https://open.spotify.com/track/4A7kc0SQCu6btugusS2cYx"
@@ -3801,7 +3870,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-28",
       "duration_ms": 185133,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
@@ -4259,6 +4328,24 @@
     {
       "album": {
         "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
       "artists": [
@@ -4269,7 +4356,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
@@ -4805,6 +4892,24 @@
     {
       "album": {
         "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
       "artists": [
@@ -4815,7 +4920,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"

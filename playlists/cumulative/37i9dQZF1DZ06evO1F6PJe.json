@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
   "name": "This Is Joe Bonamassa",
-  "published_playlist_ids": [
-    "2BVD95AHXNw45iCkOYGi05"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 259399,
       "name": "A Conversation With Alice",
       "url": "https://open.spotify.com/track/12mxhoIT5lU3o4NNAqSu3f"
@@ -409,7 +406,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 295064,
       "name": "Dirty Grease - Radio Version",
       "url": "https://open.spotify.com/track/1EDqhqTWnZ9Ch9cL5pRGvF"
@@ -435,6 +432,28 @@
       "duration_ms": 274546,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
+    },
+    {
+      "album": {
+        "name": "Antipodes",
+        "url": "https://open.spotify.com/album/0f8qJlyAOGniS3MogPgEUH"
+      },
+      "artists": [
+        {
+          "name": "Caroline Jones",
+          "url": "https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212649,
+      "name": "Don't Talk to Me Like I'm Tiffany",
+      "url": "https://open.spotify.com/track/1QXkca3GgoCzzcYUy7OG2P"
     },
     {
       "album": {
@@ -565,6 +584,32 @@
       "duration_ms": 257160,
       "name": "Hanging On A Loser",
       "url": "https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI"
+    },
+    {
+      "album": {
+        "name": "How Come U Don't Call Me Anymore",
+        "url": "https://open.spotify.com/album/6Q9NrZjwc8XnIFT5ICbiTu"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/79xCRaEpYC3kdfmZWGRNjX"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251425,
+      "name": "How Come U Don't Call Me Anymore",
+      "url": "https://open.spotify.com/track/1bcNoi2yLxpbtyZCmajS62"
     },
     {
       "album": {
@@ -839,7 +884,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 408306,
       "name": "Known Unknowns",
       "url": "https://open.spotify.com/track/08ftxnSH1Z4xdZyxmlsOml"
@@ -911,7 +956,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 228520,
       "name": "Love Ain't a Love Song",
       "url": "https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2"
@@ -965,7 +1010,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 366253,
       "name": "Molly O'",
       "url": "https://open.spotify.com/track/0ExwFnQ2XcaUw6buImFuLV"
@@ -1019,7 +1064,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 423666,
       "name": "Notches",
       "url": "https://open.spotify.com/track/37OvIUoTAlKsuO3nTGSLSf"
@@ -1135,7 +1180,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 357093,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/0Q8IxQDgQ1Yyz7rBP8dUHg"
@@ -1393,7 +1438,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 335226,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1"
@@ -1419,6 +1464,28 @@
       "duration_ms": 258786,
       "name": "Tennessee Plates",
       "url": "https://open.spotify.com/track/7IqgzG3pELbSdoIAInTI19"
+    },
+    {
+      "album": {
+        "name": "That's What Love Will Make You Do",
+        "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245173,
+      "name": "That's What Love Will Make You Do",
+      "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
     },
     {
       "album": {
@@ -1681,7 +1748,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 333333,
       "name": "What I've Known For A Very Long Time",
       "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"

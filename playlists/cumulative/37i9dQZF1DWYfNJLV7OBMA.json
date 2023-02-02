@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Trending Sinhalese pop hits. Cover - Dinesh Gamage",
+  "description": "Trending Sinhalese pop hits. Cover - Kanchana Anuradhi",
   "name": "Sinhala Pop",
-  "published_playlist_ids": [
-    "2w2mbMpgTPMFcOGFWypro1"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 174096,
       "name": "Adare Dore",
       "url": "https://open.spotify.com/track/2THtrFrP6UY18n1t2LrSfu"
@@ -59,7 +56,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 171095,
       "name": "Adare Hati",
       "url": "https://open.spotify.com/track/79CkpFcb6Ul9Of2Yimwhqg"
@@ -77,7 +74,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 189173,
       "name": "Akasa Bindu",
       "url": "https://open.spotify.com/track/3hA3LQr2XqOsfcDjUqOa4N"
@@ -113,7 +110,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 162280,
       "name": "Alu Roo",
       "url": "https://open.spotify.com/track/03M4Qnf1rMvaa1fF04v5fp"
@@ -131,7 +128,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 182818,
       "name": "Ambare",
       "url": "https://open.spotify.com/track/4GBY59Q7gS5jwYAeaBo9tm"
@@ -149,7 +146,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 236769,
       "name": "Anawakiyak",
       "url": "https://open.spotify.com/track/1tfds8cHC1G2emUZjs7VHM"
@@ -234,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Api Nam Thawei",
+        "url": "https://open.spotify.com/album/1NH5RHIefdfS4NVE0xxDIx"
+      },
+      "artists": [
+        {
+          "name": "Yuki Navaratne",
+          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
+        },
+        {
+          "name": "Ravi Jay",
+          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207529,
+      "name": "Api Nam Thawei",
+      "url": "https://open.spotify.com/track/5UqShJ81oQHNO6BZL5m9Us"
+    },
+    {
+      "album": {
         "name": "Arabuma",
         "url": "https://open.spotify.com/album/2g3YoyAzOX8X79EZSi35nP"
       },
@@ -253,7 +272,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 203498,
       "name": "Arabuma",
       "url": "https://open.spotify.com/track/1LThpGdzUFEH5M3hygEzSX"
@@ -301,7 +320,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 169777,
       "name": "Athin Allan Hithin Athahera",
       "url": "https://open.spotify.com/track/2lDR7HXvjeDsy6LK8bbSvh"
@@ -331,7 +350,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Awidan Yanawa",
       "url": "https://open.spotify.com/track/7s2fLyvgcSOzuA0rBHuFSE"
@@ -375,7 +394,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 193510,
       "name": "Ayale",
       "url": "https://open.spotify.com/track/0CPSVXtQDqY241diciihH9"
@@ -423,7 +442,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 237290,
       "name": "Ayemath Adaren",
       "url": "https://open.spotify.com/track/5AFdPg3PlQGncQLq0z1AWM"
@@ -496,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Charitha Attalage Medley",
+        "url": "https://open.spotify.com/album/2sg23mpKHyH4ed5oNcPBbH"
+      },
+      "artists": [
+        {
+          "name": "Mahiru Senarathne",
+          "url": "https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158949,
+      "name": "Charitha Attalage Medley",
+      "url": "https://open.spotify.com/track/57o1kkC9RBwoSIuSfHKKBC"
+    },
+    {
+      "album": {
         "name": "Choon Paan (Sata Pata Satta Padi)",
         "url": "https://open.spotify.com/album/1sLxbf3LekBrEasAMnSvQY"
       },
@@ -511,7 +548,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 168000,
       "name": "Choon Paan (Sata Pata Satta Padi)",
       "url": "https://open.spotify.com/track/3XeOtn0z8mv2KksUjeOMOA"
@@ -529,7 +566,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 211200,
       "name": "Cordelia",
       "url": "https://open.spotify.com/track/4XpLYtjWVMOvyBv5VJHXZy"
@@ -551,6 +588,28 @@
       "duration_ms": 175401,
       "name": "Dan Sepada",
       "url": "https://open.spotify.com/track/7vrOOXIHWlBN0lMO7GaAZg"
+    },
+    {
+      "album": {
+        "name": "Danena Thuru Maa",
+        "url": "https://open.spotify.com/album/4fA65iLnPvYCeYLvIMPizQ"
+      },
+      "artists": [
+        {
+          "name": "Dinesh Gamage",
+          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
+        },
+        {
+          "name": "Kanchana Anuradhi",
+          "url": "https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235312,
+      "name": "Danena Thuru Maa",
+      "url": "https://open.spotify.com/track/3fPCob1jPMN9QmYDXwikvx"
     },
     {
       "album": {
@@ -587,10 +646,88 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 239031,
       "name": "Danune Adarayada",
       "url": "https://open.spotify.com/track/7wrD18hP4wlW6T8qNob74Y"
+    },
+    {
+      "album": {
+        "name": "Datha Dara",
+        "url": "https://open.spotify.com/album/5ACrismOfjk5EW5n9oz4t6"
+      },
+      "artists": [
+        {
+          "name": "NaadhaGama",
+          "url": "https://open.spotify.com/artist/6OcxQ6JR8KBybmQOJNWvTU"
+        },
+        {
+          "name": "Ridma Weerawardena",
+          "url": "https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT"
+        },
+        {
+          "name": "Supun Perera",
+          "url": "https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN"
+        },
+        {
+          "name": "Dhanith Sri",
+          "url": "https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs"
+        },
+        {
+          "name": "Dinesh Gamage",
+          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
+        },
+        {
+          "name": "Methun SK",
+          "url": "https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x"
+        },
+        {
+          "name": "Dinupa Kodagoda",
+          "url": "https://open.spotify.com/artist/1hIhsR8RdSlX4IVlxybhFj"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190458,
+      "name": "Datha Dara",
+      "url": "https://open.spotify.com/track/7Dl4H08P6ZsuQnN3rl3X5Q"
+    },
+    {
+      "album": {
+        "name": "Dawasak Ewi",
+        "url": "https://open.spotify.com/album/4TzVvOLGixhBhVC4vt05ks"
+      },
+      "artists": [
+        {
+          "name": "Piyath Rajapakse",
+          "url": "https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195999,
+      "name": "Dawasak Ewi",
+      "url": "https://open.spotify.com/track/4LbnwSS3UQ6syG4ZIUFFXD"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25"
+      },
+      "artists": [
+        {
+          "name": "La Signore",
+          "url": "https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173696,
+      "name": "Dekopul Kandulin Thema",
+      "url": "https://open.spotify.com/track/5q95k2ht4oE5rJSUTGyKU3"
     },
     {
       "album": {
@@ -616,6 +753,28 @@
     },
     {
       "album": {
+        "name": "Dura Akahe",
+        "url": "https://open.spotify.com/album/6UkkSB8EJzR88alvG0eAuz"
+      },
+      "artists": [
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        },
+        {
+          "name": "Ravi Jay",
+          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250090,
+      "name": "Dura Akahe",
+      "url": "https://open.spotify.com/track/6l6ponf8TLRkam1BWG3Vxq"
+    },
+    {
+      "album": {
         "name": "Gajaman Nona",
         "url": "https://open.spotify.com/album/4ioPNbZVGmtOcqvp9O24lx"
       },
@@ -631,10 +790,32 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 163798,
       "name": "Gajaman Nona",
       "url": "https://open.spotify.com/track/23OqflDGsKLH6XtMAieuEH"
+    },
+    {
+      "album": {
+        "name": "Galana Ganga",
+        "url": "https://open.spotify.com/album/6x891Q8N2GwGaSsPbQmBJT"
+      },
+      "artists": [
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        },
+        {
+          "name": "Ravi Jay",
+          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "Galana Ganga",
+      "url": "https://open.spotify.com/track/7apMJLpmlv90I67HMSJGbr"
     },
     {
       "album": {
@@ -744,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Handa Allanna Aasa Gamana",
+        "url": "https://open.spotify.com/album/3BBXDK9dx0RMpee4wZWCix"
+      },
+      "artists": [
+        {
+          "name": "WAYO",
+          "url": "https://open.spotify.com/artist/4FxhFEHyjxhdm3C8vAq0wV"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265653,
+      "name": "Handa Allanna Aasa Gamana",
+      "url": "https://open.spotify.com/track/1udodaXTGGnQjajZl8LBD1"
+    },
+    {
+      "album": {
         "name": "Handa Gawin",
         "url": "https://open.spotify.com/album/0klqE21kzuXBdJwCDnnTR0"
       },
@@ -773,7 +972,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 196333,
       "name": "Handa Gawin",
       "url": "https://open.spotify.com/track/6q54NPEivZfu0w4mfi2pzk"
@@ -791,7 +990,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 180000,
       "name": "Handuma",
       "url": "https://open.spotify.com/track/6ftcWq7l9TcLhiuQcQz86O"
@@ -824,6 +1023,42 @@
     },
     {
       "album": {
+        "name": "Hanthaney",
+        "url": "https://open.spotify.com/album/2V1UlRbJ07HHWThvsmFzYM"
+      },
+      "artists": [
+        {
+          "name": "Dhyan Hewage",
+          "url": "https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Hanthaney",
+      "url": "https://open.spotify.com/track/70JBYyMJ6PI2UDgPOH1OLU"
+    },
+    {
+      "album": {
+        "name": "Hawasaka Ma",
+        "url": "https://open.spotify.com/album/4eEoUBODtF68bzZl3OgmGZ"
+      },
+      "artists": [
+        {
+          "name": "La Signore",
+          "url": "https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "Hawasaka Ma",
+      "url": "https://open.spotify.com/track/6pnC2gyFfl7uDRcjpsWp6l"
+    },
+    {
+      "album": {
         "name": "Heena Horawa",
         "url": "https://open.spotify.com/album/0ytlXnuk7zu6HcIKwsv2bs"
       },
@@ -835,7 +1070,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 186848,
       "name": "Heena Horawa",
       "url": "https://open.spotify.com/track/0VAmZ7Q1apKejQxeOMO0KB"
@@ -864,6 +1099,32 @@
     },
     {
       "album": {
+        "name": "Heena Maka",
+        "url": "https://open.spotify.com/album/6Et4v4uBSdKMFYkGtIYLkm"
+      },
+      "artists": [
+        {
+          "name": "Harshadewa Ariyasinghe",
+          "url": "https://open.spotify.com/artist/40v9sLBiwQOZdLwRhTUjQL"
+        },
+        {
+          "name": "Ravi Jay",
+          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
+        },
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257600,
+      "name": "Heena Maka",
+      "url": "https://open.spotify.com/track/1dC7Q5yBpQ063UrIWpAB3N"
+    },
+    {
+      "album": {
         "name": "Heragiya Da",
         "url": "https://open.spotify.com/album/4HrnNgI0zsYHvfTxhlyojM"
       },
@@ -879,7 +1140,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 217020,
       "name": "Heragiya Da",
       "url": "https://open.spotify.com/track/75T5qAhijiHZnMaPD5x3xt"
@@ -941,7 +1202,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 220937,
       "name": "Hithe Kathawe",
       "url": "https://open.spotify.com/track/2QfmbDmlzrszpUutnNLP81"
@@ -1059,7 +1320,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 218880,
       "name": "Ipadune Dinanna",
       "url": "https://open.spotify.com/track/2WAtFSVVadpRgvLpVRysyu"
@@ -1125,7 +1386,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 218196,
       "name": "Kalpa Kaalayak Pura (Remake)",
       "url": "https://open.spotify.com/track/2AdPHHheiTWDZdJ2zjNfm9"
@@ -1151,7 +1412,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 262736,
       "name": "Kanna",
       "url": "https://open.spotify.com/track/20m6BMf4o8OegDW6dSirDK"
@@ -1195,10 +1456,28 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 203230,
       "name": "Kaviyak Wage",
       "url": "https://open.spotify.com/track/7bT48CImz9ukWWpo2967GV"
+    },
+    {
+      "album": {
+        "name": "Kawiya",
+        "url": "https://open.spotify.com/album/0Pw4f024OJYTupVf1YL5N8"
+      },
+      "artists": [
+        {
+          "name": "Vidula Ravishara",
+          "url": "https://open.spotify.com/artist/4FzhdScTHPgweAc4Ka9fOB"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293184,
+      "name": "Kawiya",
+      "url": "https://open.spotify.com/track/1GmQ31oaEMtoF2CcQySsiN"
     },
     {
       "album": {
@@ -1242,6 +1521,50 @@
     },
     {
       "album": {
+        "name": "Ridma Weerawardena",
+        "url": "https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt"
+      },
+      "artists": [
+        {
+          "name": "Ridma Weerawardena",
+          "url": "https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT"
+        },
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Kuweni",
+      "url": "https://open.spotify.com/track/6V9CHG6y1FmHiLv3REsCy8"
+    },
+    {
+      "album": {
+        "name": "Laga Lagatama",
+        "url": "https://open.spotify.com/album/74o0KKa42C3paQXeneQ8oz"
+      },
+      "artists": [
+        {
+          "name": "Thiwanka Dilshan",
+          "url": "https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx"
+        },
+        {
+          "name": "SHAN PUTHA",
+          "url": "https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Laga Lagatama",
+      "url": "https://open.spotify.com/track/5wFA2pMbE1JkqWUf3SCqQ9"
+    },
+    {
+      "album": {
         "name": "Laga Lagatama (Remix)",
         "url": "https://open.spotify.com/album/2bBBFcFYKULKNXMfOOThO3"
       },
@@ -1261,7 +1584,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 168047,
       "name": "Laga Lagatama - Remix",
       "url": "https://open.spotify.com/track/1iIOK68SJyv4HGiAI8SrNh"
@@ -1319,7 +1642,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 262319,
       "name": "Lassana Oyage",
       "url": "https://open.spotify.com/track/1LMUdCMXZlw1hWtNFOIASz"
@@ -1344,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "Lelena",
+        "url": "https://open.spotify.com/album/036f7KtAyVWBJT3mDUAOsT"
+      },
+      "artists": [
+        {
+          "name": "Nilan Hettiarachchi",
+          "url": "https://open.spotify.com/artist/7exMoM7exKf75tVyXQjOjq"
+        },
+        {
+          "name": "Chamath Sangeeth",
+          "url": "https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193141,
+      "name": "Lelena",
+      "url": "https://open.spotify.com/track/0RX5UmW4ID0NtobeGupa6x"
+    },
+    {
+      "album": {
         "name": "Loka Sithiyama",
         "url": "https://open.spotify.com/album/6HerR0p7gPzUva3eToMZPi"
       },
@@ -1363,7 +1708,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 255880,
       "name": "Loka Sithiyama",
       "url": "https://open.spotify.com/track/1BIokroaGLYloONIDsga8W"
@@ -1425,7 +1770,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 215526,
       "name": "Ma Prarthanawe",
       "url": "https://open.spotify.com/track/4iQykx2tTGNJ11JKbkyTTE"
@@ -1447,10 +1792,50 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 201126,
       "name": "Maa Naari",
       "url": "https://open.spotify.com/track/0m2UX8MpKYR90anxjjePuT"
+    },
+    {
+      "album": {
+        "name": "Maa Nubata Pemkale",
+        "url": "https://open.spotify.com/album/4X6E5jrpFM06LjxLYXi9Ey"
+      },
+      "artists": [
+        {
+          "name": "Dinesh Tharanga",
+          "url": "https://open.spotify.com/artist/0JCmse6ZKrAURE9VcS0Mz1"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273606,
+      "name": "Maa Nubata Pemkale",
+      "url": "https://open.spotify.com/track/48KHBgC6d9sGXg7SLcoCF9"
+    },
+    {
+      "album": {
+        "name": "MAGE",
+        "url": "https://open.spotify.com/album/2JQPe7xoFerVtANTr0gmZ1"
+      },
+      "artists": [
+        {
+          "name": "Kanchana Anuradhi",
+          "url": "https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u"
+        },
+        {
+          "name": "Chamath Sangeeth",
+          "url": "https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "MAGE",
+      "url": "https://open.spotify.com/track/2tyGqrHSrExJNR0IeWcpoX"
     },
     {
       "album": {
@@ -1473,7 +1858,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 203758,
       "name": "Mal Mada Haasi",
       "url": "https://open.spotify.com/track/3A60zxEaWCDe04tcpZJJ09"
@@ -1539,7 +1924,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 200653,
       "name": "Mal Peththak Mashup Vol. 1",
       "url": "https://open.spotify.com/track/7MjEOdw1nzusBMBXSqVd1g"
@@ -1561,7 +1946,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 226325,
       "name": "Mal Warusawai",
       "url": "https://open.spotify.com/track/6oSNAjAkr41RvUEx93ISgX"
@@ -1601,7 +1986,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 217600,
       "name": "Man Soyana",
       "url": "https://open.spotify.com/track/5DlhGsWeIZvUyfD5ElncVm"
@@ -1659,7 +2044,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 234722,
       "name": "Manali",
       "url": "https://open.spotify.com/track/60pjm8kP6STQksXgf7y2Uv"
@@ -1718,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Mandaram Eli",
+        "url": "https://open.spotify.com/album/7DH1ArjMLHLpfysdHLtDtx"
+      },
+      "artists": [
+        {
+          "name": "Bhashi Devanga",
+          "url": "https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "Mandaram Eli",
+      "url": "https://open.spotify.com/track/2US9BVE4YN1Werb6WEc34o"
+    },
+    {
+      "album": {
         "name": "Mandaram Sihine",
         "url": "https://open.spotify.com/album/3PcxJDqMGFywhI8HC8YJA7"
       },
@@ -1744,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "Marunu Hithe",
+        "url": "https://open.spotify.com/album/49gOFKcgnYeYjZwcYZOQ7D"
+      },
+      "artists": [
+        {
+          "name": "Anushka Udana",
+          "url": "https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188290,
+      "name": "Marunu Hithe",
+      "url": "https://open.spotify.com/track/4sSbYsyoxJhyWMq2j99gvQ"
+    },
+    {
+      "album": {
         "name": "Mathaka Wedanawan",
         "url": "https://open.spotify.com/album/6CKJFlEJcHmQBSGfJIbFAB"
       },
@@ -1759,7 +2180,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 209331,
       "name": "Mathaka Wedanawan",
       "url": "https://open.spotify.com/track/59OIWs6dJlaS85S4J01kVT"
@@ -1781,7 +2202,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 198000,
       "name": "Mathake",
       "url": "https://open.spotify.com/track/0r1y5DUXbYuFoYGEnz4vfm"
@@ -1807,6 +2228,24 @@
       "duration_ms": 188936,
       "name": "Me Hitha Na Palu",
       "url": "https://open.spotify.com/track/1r5X6i6U11nStErNNd0opg"
+    },
+    {
+      "album": {
+        "name": "Mekanam Pissuwak Bun",
+        "url": "https://open.spotify.com/album/2LNW5DA1TNvuprDR5XIy31"
+      },
+      "artists": [
+        {
+          "name": "Wasthi",
+          "url": "https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197044,
+      "name": "Mekanam Pissuwak Bun",
+      "url": "https://open.spotify.com/track/0xPSYC5I8gGolOJXpavhcn"
     },
     {
       "album": {
@@ -1894,6 +2333,32 @@
     },
     {
       "album": {
+        "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
+        "url": "https://open.spotify.com/album/2R8F4wxJzpyQuN6fxUUwT1"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243570,
+      "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
+      "url": "https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r"
+    },
+    {
+      "album": {
         "name": "Naden",
         "url": "https://open.spotify.com/album/0zADfkyzT1osNAGFhd5OVw"
       },
@@ -1917,6 +2382,32 @@
       "duration_ms": 173009,
       "name": "Naden",
       "url": "https://open.spotify.com/track/0FSk1OsGWoTCS8lA74x5lF"
+    },
+    {
+      "album": {
+        "name": "Nasuna",
+        "url": "https://open.spotify.com/album/4VZwd0qrnhLH5SDCMe0fJv"
+      },
+      "artists": [
+        {
+          "name": "Chamath Sangeeth",
+          "url": "https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu"
+        },
+        {
+          "name": "Kevin Smokio",
+          "url": "https://open.spotify.com/artist/6NgfAmWM9yXAtnqvlmEkpc"
+        },
+        {
+          "name": "Dinesh Gamage",
+          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "Nasuna",
+      "url": "https://open.spotify.com/track/4GOlWuBwEPFyKNGpUDaB4A"
     },
     {
       "album": {
@@ -1949,7 +2440,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 176029,
       "name": "Nena",
       "url": "https://open.spotify.com/track/0WFz48as786EyNex70sOy7"
@@ -1971,7 +2462,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 221400,
       "name": "Nilwarnaa",
       "url": "https://open.spotify.com/track/7f6sBWY2X5rWLiR7CgWNS9"
@@ -2019,7 +2510,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 178200,
       "name": "Nohimi",
       "url": "https://open.spotify.com/track/02bNr8V1mFKcj69CH4gb71"
@@ -2045,7 +2536,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 161181,
       "name": "Noliyami",
       "url": "https://open.spotify.com/track/4jCa3hXKj4GCCvhZ7kyOo0"
@@ -2085,7 +2576,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 281171,
       "name": "Numba Langa Nathi da",
       "url": "https://open.spotify.com/track/76qgWaAJB1SeZcYFHSWUbc"
@@ -2103,7 +2594,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 271058,
       "name": "Oba Magee",
       "url": "https://open.spotify.com/track/2Ffyz7BvkszEQBAPdPAoXC"
@@ -2143,7 +2634,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 189379,
       "name": "Obemai Saamada",
       "url": "https://open.spotify.com/track/485ntWBqpWmGixodoIaFhx"
@@ -2165,7 +2656,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 184210,
       "name": "Omari",
       "url": "https://open.spotify.com/track/0iIFDg202oHMi5Lh9BdNvM"
@@ -2183,7 +2674,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 165957,
       "name": "Paata Gawe Man",
       "url": "https://open.spotify.com/track/4orf12TDpLYIh6AKSSNn1D"
@@ -2243,7 +2734,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 181906,
       "name": "Pahase",
       "url": "https://open.spotify.com/track/25z3LhoeJlEZW39PkYWtMK"
@@ -2265,7 +2756,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 224217,
       "name": "Palamu Haduwa",
       "url": "https://open.spotify.com/track/1tqF6Jd78jtwqiYXeV3tfP"
@@ -2283,7 +2774,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 226916,
       "name": "Palu Para",
       "url": "https://open.spotify.com/track/0hHuNIuOVaZU1GJj4P25UI"
@@ -2308,6 +2799,28 @@
     },
     {
       "album": {
+        "name": "Pawela Kodu Akase",
+        "url": "https://open.spotify.com/album/5yM7fEWom6JO1g780noZ3d"
+      },
+      "artists": [
+        {
+          "name": "Thilina Ruhunage",
+          "url": "https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn"
+        },
+        {
+          "name": "Samitha Mudunkotuwa",
+          "url": "https://open.spotify.com/artist/4JZtZyM8iEjVLR56DgrI4c"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237517,
+      "name": "Pawela Kodu Akase",
+      "url": "https://open.spotify.com/track/3IfseEvp5VAI6Bcc0NZWGe"
+    },
+    {
+      "album": {
         "name": "Pem Kekula",
         "url": "https://open.spotify.com/album/1mIVw6IZ0jqXKtDbeMWR42"
       },
@@ -2327,7 +2840,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 158857,
       "name": "Pem Kekula",
       "url": "https://open.spotify.com/track/6NWjTke7IJDThX8ze3DUJN"
@@ -2349,7 +2862,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 200425,
       "name": "Pem Sithuwam",
       "url": "https://open.spotify.com/track/6m5xBsXesIroXFfpVutbAA"
@@ -2371,6 +2884,24 @@
       "duration_ms": 175000,
       "name": "Pita Desheka",
       "url": "https://open.spotify.com/track/5yU72Ky9kCHPP0YbomFH3m"
+    },
+    {
+      "album": {
+        "name": "Prathihari",
+        "url": "https://open.spotify.com/album/10e9nMnlID8P2XOY7PY0yk"
+      },
+      "artists": [
+        {
+          "name": "Supun Perera",
+          "url": "https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245882,
+      "name": "Prathihari",
+      "url": "https://open.spotify.com/track/0p4R29GP0b3qj955AXqJsS"
     },
     {
       "album": {
@@ -2407,7 +2938,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 174193,
       "name": "Prema Heeya",
       "url": "https://open.spotify.com/track/0fux6ogRjcVsB81m67z9Ux"
@@ -2429,7 +2960,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 154965,
       "name": "Prema Nikmana",
       "url": "https://open.spotify.com/track/56ZrGZKdMief70wQRRxR5Z"
@@ -2455,7 +2986,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 210731,
       "name": "Premaye Munivariya",
       "url": "https://open.spotify.com/track/0AHgOcdG2Y0JyhBHWyFDk6"
@@ -2561,7 +3092,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240576,
       "name": "Rae Sihinen Maa",
       "url": "https://open.spotify.com/track/75f4NlJv46zv4CuhdtYEwz"
@@ -2579,7 +3110,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 180000,
       "name": "Rap Malsara",
       "url": "https://open.spotify.com/track/6kY2Ap75Z0OQ6guT4IygOp"
@@ -2597,7 +3128,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 212941,
       "name": "Rathu Thol",
       "url": "https://open.spotify.com/track/03RhJg45ObSnOM1tWKNHh2"
@@ -2619,7 +3150,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 203696,
       "name": "Rawdena",
       "url": "https://open.spotify.com/track/0LeK9QVIb2DVJxpbci3e9J"
@@ -2637,7 +3168,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 222500,
       "name": "Raya Pura",
       "url": "https://open.spotify.com/track/4OBgJeGEozmVou7tsENe7D"
@@ -2677,7 +3208,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 182202,
       "name": "Sakkarawattama",
       "url": "https://open.spotify.com/track/0tjAGZW7VKyFlL9WDqkO9t"
@@ -2695,7 +3226,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 270952,
       "name": "Sanda Nena Da",
       "url": "https://open.spotify.com/track/1YPG3UeO0a8vDabyoN9Zd7"
@@ -2717,10 +3248,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 180600,
       "name": "Sanda Wage Pena",
       "url": "https://open.spotify.com/track/0KhbsQkUeVErDzElMRdZMG"
+    },
+    {
+      "album": {
+        "name": "Sandanaari",
+        "url": "https://open.spotify.com/album/1Ema2ZdmS1KtzicBouXmSZ"
+      },
+      "artists": [
+        {
+          "name": "Harsha Withanage",
+          "url": "https://open.spotify.com/artist/5zVC4vxjDqpw3wqRxrLblW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245928,
+      "name": "Sandanaari",
+      "url": "https://open.spotify.com/track/4NEF72vI7ZmlTU7qjPoSvZ"
     },
     {
       "album": {
@@ -2743,10 +3292,72 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 254006,
       "name": "Sandata Duka Hithila",
       "url": "https://open.spotify.com/track/1XzK4MX6X498satJrQzpWM"
+    },
+    {
+      "album": {
+        "name": "Ridma Weerawardena",
+        "url": "https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt"
+      },
+      "artists": [
+        {
+          "name": "Ridma Weerawardena",
+          "url": "https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT"
+        },
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240366,
+      "name": "Sandawathiye",
+      "url": "https://open.spotify.com/track/0qypAiOkwILdSD9MxubFu4"
+    },
+    {
+      "album": {
+        "name": "Ridma Weerawardena",
+        "url": "https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt"
+      },
+      "artists": [
+        {
+          "name": "Ridma Weerawardena",
+          "url": "https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT"
+        },
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273062,
+      "name": "Sansaraye Maa",
+      "url": "https://open.spotify.com/track/0JvXCpykHHvvK53XQZd3Tv"
+    },
+    {
+      "album": {
+        "name": "Sansarini",
+        "url": "https://open.spotify.com/album/6gI0AFK6lYIS2pRzwTMZf9"
+      },
+      "artists": [
+        {
+          "name": "Yasas Medagedara",
+          "url": "https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305526,
+      "name": "Sansarini",
+      "url": "https://open.spotify.com/track/7iSpuul3P4BzaxFPVFFRkr"
     },
     {
       "album": {
@@ -2769,7 +3380,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 191282,
       "name": "Sansun Na",
       "url": "https://open.spotify.com/track/6ixSSQt7gTub2Tpa9FWrIP"
@@ -2805,10 +3416,32 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 191350,
       "name": "Saragi Nethin",
       "url": "https://open.spotify.com/track/5YoH74rzAptvN1FxIRmc8f"
+    },
+    {
+      "album": {
+        "name": "Sarawita",
+        "url": "https://open.spotify.com/album/24rU0xXMmbhzmwuxEngLDL"
+      },
+      "artists": [
+        {
+          "name": "DJ JNK",
+          "url": "https://open.spotify.com/artist/0cw03AoYoYH79oBa0L0hoT"
+        },
+        {
+          "name": "Moniyo",
+          "url": "https://open.spotify.com/artist/1QcBHj8ZwJZVHVRp61NSAo"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "Sarawita",
+      "url": "https://open.spotify.com/track/6TEN58qo7nNyuI9vdgPAxH"
     },
     {
       "album": {
@@ -2827,7 +3460,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 241420,
       "name": "Seema (Oba Ha Ma)",
       "url": "https://open.spotify.com/track/661oegsHBhx0pD7sNz7EO1"
@@ -2849,7 +3482,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 264784,
       "name": "Seema Maayim Kadaa",
       "url": "https://open.spotify.com/track/0Q1xhYJnkPSGAScNJdD4GZ"
@@ -2867,7 +3500,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 191250,
       "name": "Selawena Manasa",
       "url": "https://open.spotify.com/track/09DAnXBRhprRe5ftuRNLC1"
@@ -2925,7 +3558,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 205283,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/4gGcUtvmLz1Dq4vVgDmTji"
@@ -2991,7 +3624,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 216182,
       "name": "Shrungarini",
       "url": "https://open.spotify.com/track/19iPicKXpvehGuhhpuZuiD"
@@ -3049,7 +3682,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 199880,
       "name": "Sipa Gannam",
       "url": "https://open.spotify.com/track/3WKSzzH85tf92kkFE5Layh"
@@ -3075,7 +3708,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 135588,
       "name": "Siri",
       "url": "https://open.spotify.com/track/1zq6YYl7MxrMj4yqtOxwuB"
@@ -3171,7 +3804,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 329408,
       "name": "Team Sanka Mashup",
       "url": "https://open.spotify.com/track/23mA2FvoaVj2Jh3DipiuqK"
@@ -3241,10 +3874,36 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 214153,
       "name": "Thurumpuva",
       "url": "https://open.spotify.com/track/5W9ivlHXPYhn10GCu4TDyC"
+    },
+    {
+      "album": {
+        "name": "Tinkiri",
+        "url": "https://open.spotify.com/album/2XtOcPpTEH0z1grjCrYgbg"
+      },
+      "artists": [
+        {
+          "name": "DJ JNK",
+          "url": "https://open.spotify.com/artist/0cw03AoYoYH79oBa0L0hoT"
+        },
+        {
+          "name": "Moniyo",
+          "url": "https://open.spotify.com/artist/1QcBHj8ZwJZVHVRp61NSAo"
+        },
+        {
+          "name": "Dimi3",
+          "url": "https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Tinkiri",
+      "url": "https://open.spotify.com/track/3PltuHhD5BYPXp6F6OCF9I"
     },
     {
       "album": {
@@ -3263,6 +3922,50 @@
       "duration_ms": 306760,
       "name": "Toyyo Bayyo",
       "url": "https://open.spotify.com/track/1AQpgplBRfllLbYEkmn2km"
+    },
+    {
+      "album": {
+        "name": "Udurawee",
+        "url": "https://open.spotify.com/album/75XT4gNdhho54ACtrblPRw"
+      },
+      "artists": [
+        {
+          "name": "Kanchana Anuradhi",
+          "url": "https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199787,
+      "name": "Udurawee",
+      "url": "https://open.spotify.com/track/16O3jCcjYlDQ1enroz7Gyt"
+    },
+    {
+      "album": {
+        "name": "Unmada Prema Geeya",
+        "url": "https://open.spotify.com/album/6wUgVuhCZTFxKFG3lfvLF6"
+      },
+      "artists": [
+        {
+          "name": "Bathiya & Santhush",
+          "url": "https://open.spotify.com/artist/4qOcN0iWp8vs7OBhxzHY8Q"
+        },
+        {
+          "name": "Yohani",
+          "url": "https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"
+        },
+        {
+          "name": "Kaizer Kaiz",
+          "url": "https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269767,
+      "name": "Unmada Prema Geeya",
+      "url": "https://open.spotify.com/track/1lZLtkHlAVF0iBdkNUkLt2"
     },
     {
       "album": {
@@ -3289,6 +3992,24 @@
       "duration_ms": 172940,
       "name": "Veralu Mal",
       "url": "https://open.spotify.com/track/7kCq23IvruljXm8fUevkaS"
+    },
+    {
+      "album": {
+        "name": "Viramayak",
+        "url": "https://open.spotify.com/album/4Q9uelQARIr02onE5thyaP"
+      },
+      "artists": [
+        {
+          "name": "Bhashi Devanga",
+          "url": "https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222933,
+      "name": "Viramayak",
+      "url": "https://open.spotify.com/track/2KAIdNfyUQEUF6CrilVWac"
     },
     {
       "album": {
@@ -3347,7 +4068,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 250242,
       "name": "Wandana",
       "url": "https://open.spotify.com/track/6xU7Czm0aM7jSNjcKWdhYF"
@@ -3405,10 +4126,32 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 205468,
       "name": "Wiramayak",
       "url": "https://open.spotify.com/track/6FrqrsaUhbLAJI5deOlKZv"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/04NKJp5REYxjBzQdNAbByt"
+      },
+      "artists": [
+        {
+          "name": "Barney Sku",
+          "url": "https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v"
+        },
+        {
+          "name": "Taqiya Zaman",
+          "url": "https://open.spotify.com/artist/0PabKDsomoLc4uPtBGNodI"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107081,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/5pebgx4IJ5YvZH2sYOHDRf"
     },
     {
       "album": {
@@ -3423,7 +4166,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 242255,
       "name": "Yuda Gini Dumaraya",
       "url": "https://open.spotify.com/track/52Dhic5v8569FMNdsyu6qD"
@@ -3441,7 +4184,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 297272,
       "name": "Zd8",
       "url": "https://open.spotify.com/track/3xIqOmBdYH4wIzXqb6nIcc"

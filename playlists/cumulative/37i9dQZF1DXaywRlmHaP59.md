@@ -4,7 +4,7 @@
 
 > The sweet sounds of Lebanon.
 
-73 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/3skYynXq74xJS0Zs0H7gwt)
+73 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

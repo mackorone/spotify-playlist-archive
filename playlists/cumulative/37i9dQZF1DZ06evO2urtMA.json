@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Narrow Head. The essential tracks, all in one playlist.",
   "name": "This Is Narrow Head",
-  "published_playlist_ids": [
-    "04FAiHdgntu9MUnKcvzwgv"
-  ],
   "tracks": [
     {
       "album": {
@@ -98,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/2yTkGlRAiUEZLxdqOR2ejq"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212902,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/3OW0jmq5jeDiDnYKI0apJJ"
+    },
+    {
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
       },
@@ -149,6 +164,24 @@
       "duration_ms": 164733,
       "name": "Feels Like Sand",
       "url": "https://open.spotify.com/track/5ok41XptV2v9yhm92Cp0RK"
+    },
+    {
+      "album": {
+        "name": "Gearhead",
+        "url": "https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204228,
+      "name": "Gearhead",
+      "url": "https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM"
     },
     {
       "album": {

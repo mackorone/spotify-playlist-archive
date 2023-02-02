@@ -4,7 +4,7 @@
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-99 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/65HxUQh37oq5Eems1crT9A)
+101 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 | 2022-03-18 |  |
 | [Bullhead](https://open.spotify.com/track/1Fa7HO1JHC20Fcv0wTTDTQ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Bullhead](https://open.spotify.com/album/4e4gqnGXeLQIpccdoN95kE) | 2:39 | 2022-03-18 | 2022-07-29 |
 | [Bullhead](https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 2:39 | 2022-03-18 |  |
-| [Celtic Storm \(2010\)](https://open.spotify.com/track/3GnmZYcYGFOwLisSqHRjJQ) | [The Mighty Regis](https://open.spotify.com/artist/7ocwcmrX2Fhj5TW4q1BjWp) | [21](https://open.spotify.com/album/7wuhI5WnPheOTenvXEGxy9) | 3:16 | 2022-03-18 |  |
+| [Celtic Storm \(2010\)](https://open.spotify.com/track/3GnmZYcYGFOwLisSqHRjJQ) | [The Mighty Regis](https://open.spotify.com/artist/7ocwcmrX2Fhj5TW4q1BjWp) | [21](https://open.spotify.com/album/7wuhI5WnPheOTenvXEGxy9) | 3:16 | 2022-03-18 | 2022-12-16 |
 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 | 2022-03-18 |  |
 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 | 2022-03-18 |  |
 | [Chip](https://open.spotify.com/track/2SnZayZg4eTZ4592TmK6CN) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off The Leash](https://open.spotify.com/album/3nIof6pCfhhWAmK8LykMJ1) | 3:14 | 2022-03-18 | 2022-07-29 |
@@ -38,7 +38,7 @@
 | [Giving It Up \(The Drink\)](https://open.spotify.com/track/5hUyDIqCOt8oZqqs7W1PPP) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [The Underdogs](https://open.spotify.com/album/1kdh75Ql8j44IdYNeSxSXQ) | 3:02 | 2022-03-18 | 2022-07-16 |
 | [Glad to See the Back of You](https://open.spotify.com/track/37JVPMsOsY6tvG2pn0jI0e) | [The Peelers](https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD) | [Down and out in the City of Saints](https://open.spotify.com/album/2gpS86odPTUcZV6ENCmM5L) | 2:53 | 2022-03-18 | 2022-07-29 |
 | [Grace O'malley](https://open.spotify.com/track/7BxuW1u779q9orjpmbNlxF) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Grace O'malley](https://open.spotify.com/album/2ioktS4K96jpk7Q5McGouo) | 3:36 | 2022-03-18 | 2022-07-15 |
-| [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 | 2022-03-18 | 2022-11-13 |
+| [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 | 2022-03-18 |  |
 | [I'll Fly Away](https://open.spotify.com/track/7b1C6mz6egDlaZWavyKJv6) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/301aLfcteHHAyyJUyC6ysY) | 2:44 | 2022-03-18 |  |
 | [I'll Fly Away](https://open.spotify.com/track/60xc3fnob8DL9NkGFmJxyv) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/51b4dHUjtNFqMHVt6jx7Xi) | 2:46 | 2022-03-18 | 2022-07-25 |
 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 | 2022-03-18 |  |
@@ -76,13 +76,14 @@
 | [Shine On](https://open.spotify.com/track/10c5bkq7d0xJewsycAMJlD) | [The Porters](https://open.spotify.com/artist/1xD4yUPlDCNpdY1Rckd0eL) | [Rum, Bum and Violina](https://open.spotify.com/album/26AKlMqSPrZzuPihhOAEQf) | 4:35 | 2022-03-18 | 2022-07-29 |
 | [Shine On](https://open.spotify.com/track/4FqRa2XKagduNRKn8qnmVc) | [The Porters](https://open.spotify.com/artist/1xD4yUPlDCNpdY1Rckd0eL) | [Rum, Bum and Violina](https://open.spotify.com/album/1TB28bVg1LeTAerr8G5ZEJ) | 4:35 | 2022-03-18 |  |
 | [Skull Creek Logger](https://open.spotify.com/track/5Gh2ldlMcEjcxGXQZO2erc) | [The Wages of Sin](https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV) | [Gringo Mariachi](https://open.spotify.com/album/5uwD1x8Wohjq2PtyKcffeQ) | 3:31 | 2022-03-18 | 2022-07-27 |
-| [Skull Creek Logger](https://open.spotify.com/track/6ZGdCZ2kyGgEXx5PjCji2Y) | [The Wages of Sin](https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV) | [Gringo Mariachi](https://open.spotify.com/album/4IK6O0D4AV6PT6FxWSsZ2S) | 3:31 | 2022-03-18 |  |
+| [Skull Creek Logger](https://open.spotify.com/track/6ZGdCZ2kyGgEXx5PjCji2Y) | [The Wages of Sin](https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV) | [Gringo Mariachi](https://open.spotify.com/album/4IK6O0D4AV6PT6FxWSsZ2S) | 3:31 | 2022-03-18 | 2022-11-27 |
 | [Sleep Is For The Weak](https://open.spotify.com/track/2jJwEjUt89eMfxRqO4WOOH) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Polka's Not Dead](https://open.spotify.com/album/6USXCdKuC6VosxTDmi5PvN) | 3:09 | 2022-03-18 | 2022-07-29 |
 | [Sleep Is for the Weak](https://open.spotify.com/track/3tkXg3freIdvTxN58YUPaG) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Polka's Not Dead](https://open.spotify.com/album/5V7rg6LPNl4TgqiGzA4kZH) | 3:09 | 2022-03-18 |  |
 | [Smash Shit Up](https://open.spotify.com/track/21QpuibkIZywkkDQoAz3eh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Smash Shit Up](https://open.spotify.com/album/3FBUqLBuO2tUqfZiNbuwj3) | 3:49 | 2022-03-18 | 2022-07-28 |
 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 | 2022-03-18 |  |
-| [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 | 2022-03-18 |  |
+| [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 | 2022-03-18 | 2023-01-16 |
 | [Stand Up](https://open.spotify.com/track/3icdIwRcG7VqMwwpbkqkSM) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Toss the Coin](https://open.spotify.com/album/2vthT4utjsxoiZB6YmvsZ7) | 3:31 | 2022-03-18 | 2022-07-26 |
+| [Stand Up](https://open.spotify.com/track/5YmZ8wmqrZulmgtOfLHAnx) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 3:31 | 2022-03-18 |  |
 | [Still Alive](https://open.spotify.com/track/1hVU5v9FSEjWEyqvBFs9Po) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Still Alive](https://open.spotify.com/album/2lxPat5AT5o7D06Q7YNE6G) | 2:47 | 2022-03-18 | 2022-07-29 |
 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 | 2022-03-18 |  |
 | [The Foggy Dew](https://open.spotify.com/track/59cTalavalHWTXoEtGnrJA) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect \- The Irish Sessions](https://open.spotify.com/album/3SIgoKx2ScvBdf7XFps6i0) | 3:11 | 2022-03-18 | 2022-07-29 |
@@ -106,6 +107,7 @@
 | [Walk the Plank Again](https://open.spotify.com/track/6EiQJaVP4JLBDVhKTG8tZ3) | [Brick Top Blaggers](https://open.spotify.com/artist/5NfRMlxntptF6CoAVVnpe2) | [Two Years Enough](https://open.spotify.com/album/78aNC6N1fhpbXRBbgLsMiE) | 2:40 | 2022-03-18 | 2022-07-19 |
 | [Whiskey and Gin](https://open.spotify.com/track/5Z86P3a0reCE58nhDZDCgk) | [The Killigans](https://open.spotify.com/artist/6EnFVB7au1aUyNvdhIzXPB) | [Honor](https://open.spotify.com/album/5q7liZNAS6nQ2gST7wGMmJ) | 2:46 | 2022-03-18 |  |
 | [Wreck Head Wedding](https://open.spotify.com/track/59Yc6uN8UjlhF7XXWAxxoH) | [The Gallowgate Murders](https://open.spotify.com/artist/6pCJCybLgbksMuS4vki2s0) | [Wreckhead Wedding](https://open.spotify.com/album/3s26yNHeTMOhxPGHzWEM0v) | 2:56 | 2022-03-18 | 2022-07-16 |
+| [Yesterday's Rebel](https://open.spotify.com/track/3rldsE7VbNG5jXv2LGNKF8) | [The O'Reillys and the Paddyhats](https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ) | [Green Blood](https://open.spotify.com/album/4AAQCgvQvR3RRpJdxRvNCl) | 2:54 | 2022-03-18 |  |
 | [Yesterday's Rebel](https://open.spotify.com/track/4CORTiFsG6MgUTnyNNTlvW) | [The O'Reillys and the Paddyhats](https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ) | [Green Blood](https://open.spotify.com/album/4vyVIxudWxYavhsRSjJoIa) | 2:54 | 2022-03-18 | 2022-11-20 |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

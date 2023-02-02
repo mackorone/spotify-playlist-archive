@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Discover the unforgettable melodies of Chopin, including moving ballades, relaxing nocturnes and vibrant concertos.",
   "name": "This Is Chopin",
-  "published_playlist_ids": [
-    "1ABuD7n9d0p3BfyYPmnPkg"
-  ],
   "tracks": [
     {
       "album": {
@@ -991,9 +988,9 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 336093,
-      "name": "Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
+      "name": "Fantaisie-Impromptu in C-Sharp Minor, Op. 66",
       "url": "https://open.spotify.com/track/4oowGH3baaetOYlEVUglhU"
     },
     {
@@ -1013,7 +1010,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 336093,
       "name": "Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
       "url": "https://open.spotify.com/track/4yrcnbAajr2GYuCTo1pWP5"
@@ -1490,7 +1487,7 @@
     },
     {
       "album": {
-        "name": "Chopin: Complete Noctures, Barcarolle, Berceuse",
+        "name": "Chopin: Complete Nocturnes, Barcarolle, Berceuse",
         "url": "https://open.spotify.com/album/5hWRkuxBnUvjSIQex2SLKn"
       },
       "artists": [
@@ -2409,7 +2406,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
       "url": "https://open.spotify.com/track/3WIifOYctFn4eagupeKP6a"
@@ -2461,7 +2458,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
       "url": "https://open.spotify.com/track/5sRB3LrpSEQBVaNyFqSrZj"
@@ -2483,7 +2480,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 168960,
       "name": "Waltz in E Minor, Op. Posth., B. 56",
       "url": "https://open.spotify.com/track/7KtY6nRHNXJCILOaYlK0mH"
@@ -2707,6 +2704,28 @@
       "duration_ms": 220160,
       "name": "Waltz No. 7 in C-Sharp Minor, Op. 64 No. 2",
       "url": "https://open.spotify.com/track/7HDqxZ13HhwtwCEGAlz3Gz"
+    },
+    {
+      "album": {
+        "name": "Ivan Moravec Plays Chopin",
+        "url": "https://open.spotify.com/album/3hXVpo2QGhj3vDZ7dlXpl7"
+      },
+      "artists": [
+        {
+          "name": "Frederic Chopin",
+          "url": "https://open.spotify.com/artist/2n4HCLmPLE8gkXoZGCbFwV"
+        },
+        {
+          "name": "Ivan Moravec",
+          "url": "https://open.spotify.com/artist/0ErTQOJGOd7prKFdmsLxh7"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168933,
+      "name": "Waltz No.14 in E Minor, posth.",
+      "url": "https://open.spotify.com/track/5syonZbNYuIfplfk4XK7x0"
     },
     {
       "album": {

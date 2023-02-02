@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Singer-songwriters who colour outside the lines. Cover: Serena Ryder, William Prince",
+  "description": "Singer-songwriters who colour outside the lines. Cover: Benjamin Dakota Rogers",
   "name": "Renegade Folk",
-  "published_playlist_ids": [
-    "5h0SoEEkn4gAx7xRIlcPhO"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "20 Somethin'",
+        "url": "https://open.spotify.com/album/0ZkNmLA4MBUDhi7Ck8iIqR"
+      },
+      "artists": [
+        {
+          "name": "Vicki Brittle",
+          "url": "https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236983,
+      "name": "20 Somethin'",
+      "url": "https://open.spotify.com/track/4lHPNTdXSUfsVMQk0nuP82"
+    },
     {
       "album": {
         "name": "The Rise",
@@ -261,7 +276,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 250880,
       "name": "Arlo",
       "url": "https://open.spotify.com/track/6g8TfaY4o7uzIDHOqXFsxg"
@@ -398,6 +413,28 @@
     },
     {
       "album": {
+        "name": "Better Days (feat. Dave Fenley)",
+        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
+      },
+      "artists": [
+        {
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
+    },
+    {
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -481,7 +518,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 163927,
       "name": "Blackjack County Chain",
       "url": "https://open.spotify.com/track/5LXa2KkGzasB6I66RG7Jay"
@@ -759,7 +796,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 212878,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/3qNBjyA8TTF9e71oNNUdOK"
@@ -799,6 +836,24 @@
       "duration_ms": 234626,
       "name": "Communion - Country version",
       "url": "https://open.spotify.com/track/7BeXzt9gULA8mjUHIKPpIg"
+    },
+    {
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/64tEZ5dQGzLVV9pGkWnebY"
+      },
+      "artists": [
+        {
+          "name": "Meredith Moon",
+          "url": "https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257782,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/0hhRZjuboEqeXWX4f6Wg4c"
     },
     {
       "album": {
@@ -1235,7 +1290,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 208026,
       "name": "Fade Out",
       "url": "https://open.spotify.com/track/6B49lClM6nxx1ARMKrPsa6"
@@ -1253,7 +1308,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 212403,
       "name": "Faded Colours",
       "url": "https://open.spotify.com/track/0naEoV74hkLer1puxhpa4r"
@@ -1476,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Brighter Side of Blue",
+        "url": "https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB"
+      },
+      "artists": [
+        {
+          "name": "Babitha",
+          "url": "https://open.spotify.com/artist/2I2YUGgtWpuhyI1mUzom4y"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201642,
+      "name": "Happy Person",
+      "url": "https://open.spotify.com/track/37a2o186agDwlqxtlb1pWA"
+    },
+    {
+      "album": {
         "name": "Hard To Make A Living",
         "url": "https://open.spotify.com/album/6dubX6Lgnbp4iZZLmL5YN7"
       },
@@ -1625,6 +1698,24 @@
     {
       "album": {
         "name": "Hot Sun",
+        "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
+      },
+      "artists": [
+        {
+          "name": "Daniel James McFadyen",
+          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181866,
+      "name": "Hot Sun",
+      "url": "https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo"
+    },
+    {
+      "album": {
+        "name": "Hot Sun",
         "url": "https://open.spotify.com/album/5zsMjaSXlfETTQhVwDHnMj"
       },
       "artists": [
@@ -1635,7 +1726,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 181866,
       "name": "Hot Sun",
       "url": "https://open.spotify.com/track/7boU5TwZT4PNnBFKvj64i0"
@@ -1700,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Light of Day",
+        "url": "https://open.spotify.com/album/4lH9QMOxTQq32l8L3sd1VC"
+      },
+      "artists": [
+        {
+          "name": "Steven Ryan",
+          "url": "https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207058,
+      "name": "I Would Be Me",
+      "url": "https://open.spotify.com/track/1DiFDYIFjcdZozxQZVC6wS"
+    },
+    {
+      "album": {
         "name": "Light Of Day",
         "url": "https://open.spotify.com/album/7DvZtx3flW9wmtDu5Qz1mU"
       },
@@ -1711,7 +1820,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 207058,
       "name": "I Would Be Me",
       "url": "https://open.spotify.com/track/5G4pbhMytyWMdaJgZe2HLY"
@@ -1783,10 +1892,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 183995,
       "name": "If the Loneliness Don't Kill Me",
       "url": "https://open.spotify.com/track/34wCPaOE7dhUUg8DlR5NQ5"
+    },
+    {
+      "album": {
+        "name": "I'm Not Crying, You're Crying",
+        "url": "https://open.spotify.com/album/2yNUReN1do8Qbg6xkfJiw6"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183995,
+      "name": "If the Loneliness Don't Kill Me",
+      "url": "https://open.spotify.com/track/6vkbnhLvFFkK9dvxeqnus3"
     },
     {
       "album": {
@@ -1819,7 +1946,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 218293,
       "name": "Ink & the Ash",
       "url": "https://open.spotify.com/track/7ojVABChTg9ogpIRq2z9OR"
@@ -1877,6 +2004,24 @@
       "duration_ms": 217960,
       "name": "It's So Hard to Hold On",
       "url": "https://open.spotify.com/track/74X7aghQOSTL34O9xa3fwb"
+    },
+    {
+      "album": {
+        "name": "Iydlmlmg",
+        "url": "https://open.spotify.com/album/1THoy1RiIHbr46SOcADDI1"
+      },
+      "artists": [
+        {
+          "name": "The Secret Beach",
+          "url": "https://open.spotify.com/artist/2BA8RBb2WV5OfaxXELFFe3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177759,
+      "name": "Iydlmlmg",
+      "url": "https://open.spotify.com/track/2Y1dRB5NdxeTdgKJb2x4v2"
     },
     {
       "album": {
@@ -2100,6 +2245,42 @@
     },
     {
       "album": {
+        "name": "Love You Now",
+        "url": "https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "Love You Now",
+      "url": "https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD"
+    },
+    {
+      "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W"
+    },
+    {
+      "album": {
         "name": "When the Magic Hits",
         "url": "https://open.spotify.com/album/5VcEQHvnipMBirRWhE2DqL"
       },
@@ -2241,7 +2422,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 188240,
       "name": "Miracle Mile",
       "url": "https://open.spotify.com/track/2uL6H4ShIUYyu7FL0fRvsg"
@@ -2497,7 +2678,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 173742,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/3S1jrpvGleaEv1KQ8mXCpK"
@@ -2648,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Only an Island",
+        "url": "https://open.spotify.com/album/3tw9sLSnx1LdZFpgfgXGs6"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "Only an Island",
+      "url": "https://open.spotify.com/track/0g1F7GCvtVXwMKuqhAnoBB"
+    },
+    {
+      "album": {
         "name": "Opening the Sky",
         "url": "https://open.spotify.com/album/0970umokFEUwY11RwYX7sE"
       },
@@ -2713,10 +2912,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 154226,
       "name": "Other Side of Goodbye",
       "url": "https://open.spotify.com/track/3mMAm6PHzUdHDXgkCVdcnj"
+    },
+    {
+      "album": {
+        "name": "Papa Took My Totems",
+        "url": "https://open.spotify.com/album/5G2hqoYnvFfqDcpvgxcHIr"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145913,
+      "name": "Papa Took My Totems",
+      "url": "https://open.spotify.com/track/4dcPjXDvCorS2oDU9dJTmf"
     },
     {
       "album": {
@@ -3153,7 +3370,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 187488,
       "name": "Shrine of Shirl",
       "url": "https://open.spotify.com/track/5pdjxSigGGj1ebWvZ1Josd"
@@ -3607,10 +3824,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 249462,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/1mauqJ16bq02UNpTw2IysI"
+    },
+    {
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
+      },
+      "artists": [
+        {
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249462,
+      "name": "Two Shots",
+      "url": "https://open.spotify.com/track/5TedK5daYlWU5Ij9gBxQpk"
     },
     {
       "album": {
@@ -3777,6 +4012,24 @@
       "duration_ms": 193459,
       "name": "What I Had in Mind",
       "url": "https://open.spotify.com/track/5saojvKcj1644C6Fi7BY3j"
+    },
+    {
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165320,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Father of the symphony and string quartet, and teacher to both Mozart and Beethoven\. This is Haydn.
 
-118 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/4o6YvR8pyggN9QqkAYzWZO)
+118 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

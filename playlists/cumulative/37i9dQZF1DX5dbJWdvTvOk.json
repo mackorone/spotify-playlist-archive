@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "Canciones instrumentales de guitarra.",
   "name": "Guitarra Tranquila",
-  "published_playlist_ids": [
-    "284nn8KHwKE48t5E3olrdV"
-  ],
   "tracks": [
     {
       "album": {
@@ -98,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Alpen Rose",
+        "url": "https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164072,
+      "name": "Alpen Rose",
+      "url": "https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY"
+    },
+    {
+      "album": {
         "name": "Morgenstund",
         "url": "https://open.spotify.com/album/2ni9DbZXvKnvHyr5UbYAo5"
       },
@@ -113,6 +128,24 @@
       "duration_ms": 169250,
       "name": "am Marienplatz",
       "url": "https://open.spotify.com/track/6aChaZyAJMXGE1dv3Hl1Py"
+    },
+    {
+      "album": {
+        "name": "Amfora",
+        "url": "https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2"
+      },
+      "artists": [
+        {
+          "name": "Elke Meyer",
+          "url": "https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124754,
+      "name": "Amfora",
+      "url": "https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q"
     },
     {
       "album": {
@@ -386,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Bougainvillea",
+        "url": "https://open.spotify.com/album/1oBJWPznqae6yadezYaRQW"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Lola",
+          "url": "https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123662,
+      "name": "Bougainvillea",
+      "url": "https://open.spotify.com/track/1ZUJLGUSLAhLfWQQduDsb5"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/2NECkSglWdzCrBHJdLXXT2"
       },
@@ -599,6 +650,24 @@
       "duration_ms": 224269,
       "name": "Cerbillona",
       "url": "https://open.spotify.com/track/0tnvceMi3hjvm78mKOzBzm"
+    },
+    {
+      "album": {
+        "name": "Chambers of the Cedars",
+        "url": "https://open.spotify.com/album/4GTIokkhX0O4rCEuUI9D8Q"
+      },
+      "artists": [
+        {
+          "name": "Lavelle Barber",
+          "url": "https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132508,
+      "name": "Chambers of the Cedars",
+      "url": "https://open.spotify.com/track/3UrvaqWxYS6NBrJz3o73SL"
     },
     {
       "album": {
@@ -988,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "D\u00eda F\u00e1cil",
+        "url": "https://open.spotify.com/album/18idEnRzxpLkVIZv8ETBAb"
+      },
+      "artists": [
+        {
+          "name": "Valerio Castilla",
+          "url": "https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181020,
+      "name": "D\u00eda F\u00e1cil",
+      "url": "https://open.spotify.com/track/3Yz1SZXphecIMZcKjdtqFL"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba"
       },
@@ -1039,6 +1126,24 @@
       "duration_ms": 187250,
       "name": "El Raval",
       "url": "https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll"
+    },
+    {
+      "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n"
+      },
+      "artists": [
+        {
+          "name": "Alonso Librado",
+          "url": "https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126496,
+      "name": "El Sabio",
+      "url": "https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt"
     },
     {
       "album": {
@@ -1183,6 +1288,24 @@
       "duration_ms": 176750,
       "name": "Faith Struggle",
       "url": "https://open.spotify.com/track/3rI9bQ7ilP4EKFsr7K9Xib"
+    },
+    {
+      "album": {
+        "name": "Fawns in Spring",
+        "url": "https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr"
+      },
+      "artists": [
+        {
+          "name": "Celia Cloten",
+          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159926,
+      "name": "Fawns in Spring",
+      "url": "https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK"
     },
     {
       "album": {
@@ -1901,6 +2024,24 @@
       "duration_ms": 144323,
       "name": "Natural State",
       "url": "https://open.spotify.com/track/6kvTeQ3FJGVt1UYFcKNPe7"
+    },
+    {
+      "album": {
+        "name": "Objects In The Mirror",
+        "url": "https://open.spotify.com/album/3Mt8dK78eAAHcK4xcXbyIk"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "Objects In The Mirror",
+      "url": "https://open.spotify.com/track/5XrP5bTKvbFSOUiF7oRWwy"
     },
     {
       "album": {
@@ -2664,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "The Hidden Valley",
+        "url": "https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157941,
+      "name": "The Hidden Valley",
+      "url": "https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi"
+    },
+    {
+      "album": {
         "name": "The Poconos",
         "url": "https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017"
       },
@@ -2845,6 +3004,24 @@
       "duration_ms": 147317,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl"
+    },
+    {
+      "album": {
+        "name": "Valle dei Templi",
+        "url": "https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180070,
+      "name": "Valle dei Templi",
+      "url": "https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm"
     },
     {
       "album": {

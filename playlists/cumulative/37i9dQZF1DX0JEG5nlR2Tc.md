@@ -4,7 +4,7 @@
 
 > Pack your backpack and get ready for school!
 
-59 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/2HVuCHulCqBb0FSZwQjcCr)
+59 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Abc Is the Place to B](https://open.spotify.com/track/1VI4sG7Vp6VXhBfhnY0X57) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Oh Lucky Day!](https://open.spotify.com/album/7BSumVCs7CD287vUZ3IQ5C) | 3:00 | 2021-08-26 |  |
 | [Abcs Are Everywhere](https://open.spotify.com/track/5RXLiyrLyVlm5LGfXfU8SQ) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Abc Songs and Nursery Rhymes](https://open.spotify.com/album/6LcMEmAxcM6bAv9E7RqRlQ) | 2:03 | 2021-08-26 |  |
 | [Back to School](https://open.spotify.com/track/3jl76KfnNA5eR8S1CQA0eN) | [Joanie Leeds and the Nightlights](https://open.spotify.com/artist/3TXQsHUIMlMh1vViK6u3bP) | [Bandwagon](https://open.spotify.com/album/0GI1br56mKcRsZqw0Kfsbg) | 2:17 | 2021-08-26 |  |
-| [Back To School](https://open.spotify.com/track/71we5LwSPzAvIu4BDXoTl6) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Back To School](https://open.spotify.com/album/4RrE1dmtIwYkysqgesSzC4) | 3:22 | 2021-08-26 |  |
+| [Back To School](https://open.spotify.com/track/71we5LwSPzAvIu4BDXoTl6) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Back To School](https://open.spotify.com/album/4RrE1dmtIwYkysqgesSzC4) | 3:22 | 2021-08-26 |  |
 | [Backpack Check](https://open.spotify.com/track/7rRQNHBI1FDRKhkRIyGtvh) | [Young Maestro](https://open.spotify.com/artist/1NX9JcweGr9GDuFhgqo63d) | [Backpack Check](https://open.spotify.com/album/4GJKkz4tSDmBd209wDWgNM) | 2:28 | 2021-08-26 |  |
 | [Backpack, Backpack!](https://open.spotify.com/track/0DVMaexfdXDz19zUv1zKej) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/62nlqwR4OIMrI5VVb16Wct) | 0:24 | 2021-08-26 |  |
 | [Book Song](https://open.spotify.com/track/4Bz6toWBDTd7OZvtzwXIpt) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learning Lessons, Telling Time, Please & Thank You! Songs about Concepts, Development & Life Skills for Children with LittleBabyBum](https://open.spotify.com/album/7lLYL753qx17CvST22T1rl) | 1:28 | 2021-08-26 |  |

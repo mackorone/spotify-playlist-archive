@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-12",
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
   "name": "Bach Piano",
-  "published_playlist_ids": [
-    "3g37yQfypLg7Cr12NUa535"
-  ],
   "tracks": [
     {
       "album": {
@@ -1200,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139306,
+      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",
+      "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
+    },
+    {
+      "album": {
         "name": "Bach: The Well-Tempered Clavier, Vol. I",
         "url": "https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV"
       },
@@ -1219,28 +1238,6 @@
       "duration_ms": 85599,
       "name": "The Well-Tempered Clavier, Vol. 1: Prelude No. 11 in F Major, BWV 856",
       "url": "https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt"
-    },
-    {
-      "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "date_added": "2022-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 139306,
-      "name": "The Well-Tempered Clavier: Book 1, BWV 846-869: I. Prelude in C Major, BWV 846",
-      "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTLz6aEnpwGt"

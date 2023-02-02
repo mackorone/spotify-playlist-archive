@@ -4,7 +4,7 @@
 
 > Music from and inspired by The School for Good and Evil\. Watch now on Netflix.
 
-33 songs - 1 hr 48 min - not published yet
+33 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

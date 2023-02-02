@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "M\u00fasica para enamorarse.",
   "name": "Baladas Rom\u00e1nticas",
-  "published_playlist_ids": [
-    "4hPTfvpIVMop23bArXlzb6"
-  ],
   "tracks": [
     {
       "album": {
@@ -278,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
+    },
+    {
+      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -311,6 +326,24 @@
       "duration_ms": 226186,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI"
+    },
+    {
+      "album": {
+        "name": "Besame",
+        "url": "https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 236080,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
     },
     {
       "album": {
@@ -437,7 +470,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-19",
       "duration_ms": 258093,
       "name": "Completamente Enamorados",
       "url": "https://open.spotify.com/track/1zU6PCdQxUu1tMT5xbc6x5"
@@ -737,7 +770,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-28",
       "duration_ms": 251520,
       "name": "El amor",
       "url": "https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i"
@@ -777,7 +810,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 214824,
       "name": "El Amor Que Me Ten\u00eda - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/0OzlamwH7ExWvidVp2f9oK"
@@ -1160,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Hasta Ese D\u00eda",
+        "url": "https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203693,
+      "name": "Hasta Ese D\u00eda",
+      "url": "https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP"
+    },
+    {
+      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -1537,7 +1588,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 204044,
       "name": "Lo Intent\u00e9 Todo",
       "url": "https://open.spotify.com/track/26waqvvTo7eyRIApBjY5jM"
@@ -1595,7 +1646,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 206173,
       "name": "Me Enamor\u00e9 De Ti",
       "url": "https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6"
@@ -1613,7 +1664,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 281800,
       "name": "Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ"
@@ -1667,7 +1718,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 223666,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
@@ -1881,7 +1932,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 317106,
       "name": "No Puedo Dejarte de Amar (with Jes\u00fas Navarro)",
       "url": "https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw"
@@ -2032,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Para Tu Amor",
+      "url": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt"
+    },
+    {
+      "album": {
         "name": "Camilo Superstar",
         "url": "https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS"
       },
@@ -2065,6 +2134,24 @@
       "duration_ms": 272200,
       "name": "Por Amarte As\u00ed",
       "url": "https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa"
+    },
+    {
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 184080,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
     },
     {
       "album": {
@@ -2275,7 +2362,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"

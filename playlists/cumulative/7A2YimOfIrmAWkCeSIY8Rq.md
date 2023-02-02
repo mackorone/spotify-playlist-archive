@@ -4,7 +4,7 @@
 
 > Breathe in, breathe out and let this relaxing playlist help you focus on the task at hand.
 
-89 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/2RpxKyZkt9R2hmx4PwyXXO)
+89 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

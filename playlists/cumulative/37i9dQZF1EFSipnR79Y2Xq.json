@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp\">Nathan Galante</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Nathan Galante",
-  "published_playlist_ids": [
-    "5pm8NcLKBdOH1KLR9vtiVS"
-  ],
   "tracks": [
     {
       "album": {
@@ -233,6 +230,24 @@
       "duration_ms": 186706,
       "name": "Modo Inc\u00f3gnito",
       "url": "https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/50bGZzlFcee3MEmacYBw3e"
     },
     {
       "album": {

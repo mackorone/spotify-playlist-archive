@@ -4,7 +4,7 @@
 
 > Ah, Paris\. It's easy to see why it's called the city of love.
 
-51 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/525tUhRC3jLQuC8NFk0Nxr)
+51 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

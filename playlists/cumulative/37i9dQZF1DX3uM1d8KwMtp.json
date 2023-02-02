@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-25",
   "description": "<a href=\"spotify:artist:1aIWC7EGIcWotOZ8LNHH9j\">Jad Halal</a>'s favorite tracks. Updated regularly. Curated by Jad Halal. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Jad Halal track IDs",
-  "published_playlist_ids": [
-    "55rWXReL0BbQ3M8WTdiEh6"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,7 +92,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 359024,
       "name": "Anchor Point",
       "url": "https://open.spotify.com/track/38VyljyWXnVxtYWSiH5Hzc"
@@ -139,7 +136,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 493630,
       "name": "Anka",
       "url": "https://open.spotify.com/track/3YMoU9AGxlyCQgtIsQ8Vkj"
@@ -175,7 +172,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 337397,
       "name": "Asabaka 3echkoun (Deeper Remix)",
       "url": "https://open.spotify.com/track/1WxhZX5MdFnc2KS85lpsoz"
@@ -208,6 +205,36 @@
     },
     {
       "album": {
+        "name": "Ay Como Hago",
+        "url": "https://open.spotify.com/album/67KSanoaM4gplWUIlwaudD"
+      },
+      "artists": [
+        {
+          "name": "Gianni Romano",
+          "url": "https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK"
+        },
+        {
+          "name": "Emanuele Esposito",
+          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
+        },
+        {
+          "name": "Anlly Marin",
+          "url": "https://open.spotify.com/artist/4ywyCbn9tmI1FzsXlDFvK5"
+        },
+        {
+          "name": "Yimal\u00e1",
+          "url": "https://open.spotify.com/artist/4MtegK6bkIzJEi0PcyOBrN"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392000,
+      "name": "Ay Como Hago",
+      "url": "https://open.spotify.com/track/6p1YupLCbZcXAMYqXzF30A"
+    },
+    {
+      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/4iOutBo6MtZORPul7QDBJv"
       },
@@ -223,6 +250,28 @@
       "duration_ms": 420000,
       "name": "Before",
       "url": "https://open.spotify.com/track/0J6sIxiH8kg1gIhIX1nihQ"
+    },
+    {
+      "album": {
+        "name": "Blaze",
+        "url": "https://open.spotify.com/album/6SwnBZstvXFzoepcQOPXJy"
+      },
+      "artists": [
+        {
+          "name": "Rialians on Earth",
+          "url": "https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345604,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/1O8YpzFXe7vbjck2Wtz1y4"
     },
     {
       "album": {
@@ -358,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Ederlezi",
+        "url": "https://open.spotify.com/album/46mxVymg2PVy9syjcdnB3D"
+      },
+      "artists": [
+        {
+          "name": "Niki4",
+          "url": "https://open.spotify.com/artist/3ZIPK1vx39AtBHleH80CzV"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379672,
+      "name": "Ederlezi",
+      "url": "https://open.spotify.com/track/71YOnZedvz9NM09cdt0Rj2"
+    },
+    {
+      "album": {
         "name": "Eldorado",
         "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
       },
@@ -486,6 +553,32 @@
     },
     {
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/5QSXhVNVFpkPClqFxQUtpz"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        },
+        {
+          "name": "Syon",
+          "url": "https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457775,
+      "name": "Fragile - Extended Mix",
+      "url": "https://open.spotify.com/track/2CDuAnnj2GCxLVxO1Rk7Op"
+    },
+    {
+      "album": {
         "name": "Endless Forest",
         "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
       },
@@ -519,7 +612,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 388480,
       "name": "How Can I Resist",
       "url": "https://open.spotify.com/track/0YnPozuKonupUAmhWinO88"
@@ -713,10 +806,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 492445,
       "name": "La Otra Luna",
       "url": "https://open.spotify.com/track/4jndfQxJh77wUc3prgMcAn"
+    },
+    {
+      "album": {
+        "name": "Lenaia",
+        "url": "https://open.spotify.com/album/1rpVIzw7to1Qfi9TwCkPo3"
+      },
+      "artists": [
+        {
+          "name": "Tayllor",
+          "url": "https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328794,
+      "name": "Lenaia",
+      "url": "https://open.spotify.com/track/1at150vi89vVRYpLGQQTdV"
     },
     {
       "album": {
@@ -735,6 +846,24 @@
       "duration_ms": 423509,
       "name": "Libre",
       "url": "https://open.spotify.com/track/3XeVB8YM20IlBCjEmYc4o9"
+    },
+    {
+      "album": {
+        "name": "Lost Trumpet In Space",
+        "url": "https://open.spotify.com/album/4hrVv6wLydlI4Z7veGvRPl"
+      },
+      "artists": [
+        {
+          "name": "NonCitizens",
+          "url": "https://open.spotify.com/artist/73KWbbG4ZspCHvI0aDcfl1"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "Lost Trumpet In Space",
+      "url": "https://open.spotify.com/track/26z4AI4PEA4HS7MuuV2o8O"
     },
     {
       "album": {
@@ -789,6 +918,14 @@
         {
           "name": "Do\u011fan Sezen",
           "url": "https://open.spotify.com/artist/15ly7L03FKUoQhUnGseqCR"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Cafe De Anatolia LOUNGE",
+          "url": "https://open.spotify.com/artist/3sPrwtAbt5duadW7IHJf1O"
         }
       ],
       "date_added": "2022-08-24",
@@ -815,10 +952,36 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 368542,
       "name": "Miombo - Sam Shure Cowbell Dub",
       "url": "https://open.spotify.com/track/06Y7RRtGrgIKc7pKSJJ8oh"
+    },
+    {
+      "album": {
+        "name": "Seven Seas",
+        "url": "https://open.spotify.com/album/2i3Al7KL47Mp5LcyP9rCn6"
+      },
+      "artists": [
+        {
+          "name": "Vinila von Bismark",
+          "url": "https://open.spotify.com/artist/74nWFV1ioJp3FNqVwINsDZ"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Francis Coletta",
+          "url": "https://open.spotify.com/artist/6qBX3cp5fWdIsYDfbkHb3S"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277073,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/13hPKoBriB6yPSqPvbRd6A"
     },
     {
       "album": {
@@ -951,7 +1114,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 598066,
       "name": "Rapture (John Creamer & Stephane K. Remix) [feat. Nadia Ali]",
       "url": "https://open.spotify.com/track/21s9uaVLfdKb1xEyiy0MBM"
@@ -969,6 +1132,10 @@
         {
           "name": "Gana Congas",
           "url": "https://open.spotify.com/artist/4AEwlGEW0QOEk7QxhyLCff"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         }
       ],
       "date_added": "2022-08-24",
@@ -1094,6 +1261,54 @@
     },
     {
       "album": {
+        "name": "Skabtellak",
+        "url": "https://open.spotify.com/album/44mCFD1ezFhPpLzS1kXII1"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Toufic Hatem",
+          "url": "https://open.spotify.com/artist/4j9gpKIArRkQI69agEe0YH"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374250,
+      "name": "Skabtellak",
+      "url": "https://open.spotify.com/track/6pdiGuujygwdhM46YbYj0H"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        },
+        {
+          "name": "Fahlberg",
+          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223604,
+      "name": "Somebody - Edit",
+      "url": "https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3"
+    },
+    {
+      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -1109,7 +1324,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
@@ -1193,7 +1408,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 510508,
       "name": "The Call - DSF Remix",
       "url": "https://open.spotify.com/track/1FNMA4Zy0o5Z6Mq7H3QRp5"
@@ -1243,7 +1458,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 391937,
-      "name": "The Sound Of Silence - Extended Version",
+      "name": "The Sound of Silence - Extended Mix",
       "url": "https://open.spotify.com/track/2pdFwbvjbixL0aprQ5bnX1"
     },
     {
@@ -1295,10 +1510,32 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 485853,
       "name": "Ufzag",
       "url": "https://open.spotify.com/track/1wZEEn84EPDh0DezMNq7x0"
+    },
+    {
+      "album": {
+        "name": "Vamonos",
+        "url": "https://open.spotify.com/album/6fqjsvw7ENyWIjpwYnPLnW"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        },
+        {
+          "name": "Gabsy",
+          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412561,
+      "name": "Vamonos",
+      "url": "https://open.spotify.com/track/3sVp4qJWZ9S24KPDvEE1E7"
     },
     {
       "album": {
@@ -1317,10 +1554,32 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 383154,
       "name": "Ven Pa Ka - Black Motion Rework",
       "url": "https://open.spotify.com/track/24WCTSU9zrsQxBE1NIhBPM"
+    },
+    {
+      "album": {
+        "name": "Anchor Point EP",
+        "url": "https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Spins",
+          "url": "https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Waves & Wavs",
+      "url": "https://open.spotify.com/track/5HRWhU6V48zxJqkh99DJQv"
     },
     {
       "album": {
@@ -1357,7 +1616,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 460000,
       "name": "When We Meet",
       "url": "https://open.spotify.com/track/4SMLbQZ9rM5BV8ZxLEOtGk"
@@ -1375,7 +1634,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 257803,
       "name": "Who Is Themba (Mixed)",
       "url": "https://open.spotify.com/track/5rofzaLo6DzoR3TUVM8yJq"
@@ -1397,7 +1656,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 431217,
       "name": "Won't Forget You (Eli & Fur Remix)",
       "url": "https://open.spotify.com/track/2zSgjUuUKVUAV0xoCjCczO"
@@ -1449,6 +1708,32 @@
       "duration_ms": 423414,
       "name": "Ya Dam3i",
       "url": "https://open.spotify.com/track/6sjje7260A90a9bOR6EbYG"
+    },
+    {
+      "album": {
+        "name": "Ya Rababa",
+        "url": "https://open.spotify.com/album/39MFNRuzV8F5JOChDRpBxe"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Toufic Hatem",
+          "url": "https://open.spotify.com/artist/4j9gpKIArRkQI69agEe0YH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348305,
+      "name": "Ya Rababa",
+      "url": "https://open.spotify.com/track/0JbbFcObfoamPYxjFO3Bzo"
     },
     {
       "album": {

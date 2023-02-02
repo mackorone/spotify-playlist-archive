@@ -4,7 +4,7 @@
 
 > The perfect playlist for a great party\. Fun, happy, joyful..\. the kids will love it!
 
-44 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/7rE56ItJnLE86OPdeLJt4v)
+44 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

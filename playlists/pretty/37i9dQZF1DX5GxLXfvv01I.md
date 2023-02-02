@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 
 > Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,374 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,404 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 | 44 | [Soul In A Jar](https://open.spotify.com/track/54Biz1kZa4d9fXZdgdaHqN) | [The Veldt](https://open.spotify.com/artist/7hcJOolMkn9jRAAhaVSFnu) | [Afrodisiac](https://open.spotify.com/album/5ByAKbC8SjGW2HF1q4V4ZD) | 4:48 |
 | 45 | [Goodbye Horses](https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \- Single](https://open.spotify.com/album/1Fx6PDY57t5lCqXMvIEdfN) | 3:07 |
 
-Snapshot ID: `MTY2ODA0NTY3OSwwMDAwMDAwMDJlODFiNmVmMGY0YTZkZDMyODAwNDMxZGNlMjExOGE1`
+Snapshot ID: `MTY3MDI4MTcwOSwwMDAwMDAwMDk0NjE2NDYyYTI5MTRiOGI0YjE0NmExOWFlZDVhYWVk`

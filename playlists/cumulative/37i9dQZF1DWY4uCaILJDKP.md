@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-124 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
+124 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [LinQuest 〜やがて伝説へ・・・](https://open.spotify.com/track/1xz7gYwUTADRKhJc6UjGSo) | [LinQ](https://open.spotify.com/artist/05I84aat6qTGKBQM9P4Ynz) | [FRONTIER〜LinQ 第三楽章〜](https://open.spotify.com/album/4Ucb8SJJIfwQIvHX05k4H0) | 4:32 | 2022-03-08 |  |
 | [Merry Hurry Berry](https://open.spotify.com/track/548WgAhiP6BvAqju93WeBc) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Catch the Moment](https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry) | 3:57 | 2022-03-08 |  |
 | [Million Ways=One Destination](https://open.spotify.com/track/744jwW4TDgHXimEXg5T5ET) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:57 | 2022-03-08 |  |
-| [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Suga Shikao](https://open.spotify.com/artist/6FLRqfzwvP0AmpGhAuTB2e), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 | 2022-07-12 |  |
+| [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 | 2022-07-12 |  |
 | [OKITATTAー](https://open.spotify.com/track/3PLUM7RPDgEZ0E8e8M4XQN) | [おきたらんどキッズ](https://open.spotify.com/artist/2Xt5lDM9fryAwMlI2ps1QO), [畑中香音ちゃん](https://open.spotify.com/artist/1kskfEZRyBTOXxptAu9EYw), [中田麻菜ちゃん](https://open.spotify.com/artist/4IQPj8sjJMndVdNKlNd7hm), [高木京之介くん](https://open.spotify.com/artist/128Hd6hjRTirJHRzw4DU9m) | [ABCTV OHAYOUASAHIDESU OKITARAND OKITATTA](https://open.spotify.com/album/2M5uSQandeQMIhCgpkjkHN) | 1:48 | 2022-07-12 |  |
 | [Owaranai Uta](https://open.spotify.com/track/2OxXrvNPvi5Re4BIazEuqV) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Towa](https://open.spotify.com/album/0SJZLC4rrnMg4YgdWvUK9J) | 3:41 | 2022-07-12 |  |
 | [Perfect\-area complete!](https://open.spotify.com/track/0mbUCoZHwCFPAyUsEEWXK7) | [麻生夏子](https://open.spotify.com/artist/1DDZtVeKCSNTVs2EupUsQ1) | [Movement of magic](https://open.spotify.com/album/0V6EFjSPBXudBEZ13Bt7iZ) | 4:01 | 2022-03-08 |  |
@@ -91,7 +91,7 @@
 | [ステキのキセキ](https://open.spotify.com/track/3ANDJ4TjFzjrDSmc9kBou1) | [Hiromi Ota](https://open.spotify.com/artist/0GNTARZTnzrhp9l0c1QJTq) | [ヒロミ☆デラックス Mini](https://open.spotify.com/album/6WayZeCEXHF92515uKs1Kq) | 3:44 | 2022-03-08 |  |
 | [テレ玉くんのうた](https://open.spotify.com/track/0XWGRWEmfQ5zFRYR0nXHtV) | [テレ玉くん](https://open.spotify.com/artist/7oYGlL1pqGrwbMivr4t0Ga) | [テレ玉くんのうた](https://open.spotify.com/album/4KyQLlUff31m1ZpQc45Tmz) | 2:52 | 2022-03-08 |  |
 | [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 | 2022-03-08 |  |
-| [ハッピー♡スイート♡バースデー!](https://open.spotify.com/track/0NvXl9PnL6WgJsuVlrUoFR) | [Sasaki Ayaka](https://open.spotify.com/artist/5QiJIyp7IJV0Uaq9gqs7Ch) | [A\-rin Assort](https://open.spotify.com/album/01Geon4MjjGkScqLBJiTlE) | 3:58 | 2022-03-08 |  |
+| [ハッピー♡スイート♡バースデー!](https://open.spotify.com/track/0NvXl9PnL6WgJsuVlrUoFR) | [Sasaki Ayaka](https://open.spotify.com/artist/5QiJIyp7IJV0Uaq9gqs7Ch) | [A\-rin Assort](https://open.spotify.com/album/01Geon4MjjGkScqLBJiTlE) | 3:58 | 2022-03-08 |  |
 | [バッタマン](https://open.spotify.com/track/3YJ0vNl9V7ab7n7oaEvqP1) | [Bullet Train](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [スターダスト LOVE TRAIN/バッタマン](https://open.spotify.com/album/4kKUWnQN00MhiSKwa7SUp3) | 3:55 | 2022-03-08 |  |
 | [パヒパヒ](https://open.spotify.com/track/15StYdMbnmpn9IknBoSFLP) | [BAND JA NAIMON! MAXX NAKAYOSHI](https://open.spotify.com/artist/1y2BdZ7ihwRkZQCohhNfQq) | [バンドじゃないもん!](https://open.spotify.com/album/7iz0nJiD4N1I8Z1WDH7mNj) | 5:14 | 2022-03-08 |  |
 | [パフィピポ山](https://open.spotify.com/track/1TlIMC8wohB1dOAWBe1sVz) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [パフィピポ山](https://open.spotify.com/album/3oOp35nZBQyrE22E2DC4Kk) | 3:43 | 2022-03-08 | 2022-07-29 |

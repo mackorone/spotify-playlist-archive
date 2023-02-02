@@ -1,18 +1,18 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 11231,
+  "num_followers": 12768,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDA1ZWYzZGEzZGQ4ZWMzNGYwOTNiNDdmMzRiMWViNDQ3OQ==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA5ODlkY2E4NWY0ZGI4ODRlNmIwMTE5ZjlkMjc2YzMxMQ==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
-        "name": "Malas Rachas (En Vivo)",
-        "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
       "artists": [
         {
@@ -20,16 +20,40 @@
           "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         },
         {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 256754,
-      "name": "Malas Rachas (En Vivo)",
-      "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
+      "duration_ms": 260285,
+      "name": "Malas Rachas",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "30 Blindadas",
+        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
+      },
+      "artists": [
+        {
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 126293,
+      "name": "30 Blindadas",
+      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
@@ -45,7 +69,183 @@
       "url": "https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "70 Calaveras (En Vivo)",
+        "url": "https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 169394,
+      "name": "70 Calaveras - En Vivo",
+      "url": "https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Tolin Infante (En Vivo)",
+        "url": "https://open.spotify.com/album/6hNqFGCRdl3xY33GqqHao4"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 242088,
+      "name": "Tolin Infante (En Vivo)",
+      "url": "https://open.spotify.com/track/3xnxQoLbFAPqVzbZdhf37m"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "La Plebada (En Vivo)",
+        "url": "https://open.spotify.com/album/4XXYvofbCf6KV5ZkHGw7fq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 218259,
+      "name": "La Plebada (En Vivo)",
+      "url": "https://open.spotify.com/track/0AdIPj093vFCO7t95TWak4"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "La Recia",
+      "url": "https://open.spotify.com/track/5PGbQgXt8bgXceoK3yZvYo"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "El \u00c1guila Real (Nave 727)",
+      "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Volumen 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/6zDQ8GXYlvtL8o9s0a8Ttz"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 126084,
+      "name": "Vida Mafiosa - En Vivo",
+      "url": "https://open.spotify.com/track/4ExcF29Gk312s57yZq5lrI"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Los Benjamines",
+        "url": "https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 166284,
+      "name": "Los Benjamines",
+      "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "El Principio Y El Fin",
+        "url": "https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 182498,
+      "name": "70 Calaveras",
+      "url": "https://open.spotify.com/track/7ifBr1r11Dt26l4liTr7Ak"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Adi\u00f3s Mi Amor",
+      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "F\u00e1cil Criticar (En Vivo)",
+        "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "duration_ms": 194253,
+      "name": "F\u00e1cil Criticar - En Vivo",
+      "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Yo Vengo de Abajo",
         "url": "https://open.spotify.com/album/1kFr4XGBfsRPrtoNVxnL8m"
@@ -69,123 +269,7 @@
       "url": "https://open.spotify.com/track/4p353XbLuVSgXlwjhpKjzp"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "El \u00c1guila Real (Nave 727)",
-      "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "F\u00e1cil Criticar (En Vivo)",
-        "url": "https://open.spotify.com/album/6WHyDqtHEbVn9YeJQFYGtl"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        }
-      ],
-      "duration_ms": 194253,
-      "name": "F\u00e1cil Criticar - En Vivo",
-      "url": "https://open.spotify.com/track/0kT6qpxBfns68h0W6iXH63"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "La Recia",
-      "url": "https://open.spotify.com/track/5PGbQgXt8bgXceoK3yZvYo"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "El Principio Y El Fin",
-        "url": "https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 182498,
-      "name": "70 Calaveras",
-      "url": "https://open.spotify.com/track/7ifBr1r11Dt26l4liTr7Ak"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Volumen 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/6zDQ8GXYlvtL8o9s0a8Ttz"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 126084,
-      "name": "Vida Mafiosa - En Vivo",
-      "url": "https://open.spotify.com/track/4ExcF29Gk312s57yZq5lrI"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "La Mas Bonita De Todas",
-      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Adi\u00f3s Mi Amor",
-      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "El \u00c1guila Real",
         "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
@@ -201,7 +285,39 @@
       "url": "https://open.spotify.com/track/3HztqhFkIjy8Jf48FOKDJJ"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "Que Te Entregues Hoy",
+      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "El Cache",
+        "url": "https://open.spotify.com/album/5XVx3rhlBrWHjXt1D0O3Jz"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 197491,
+      "name": "El Cache",
+      "url": "https://open.spotify.com/track/3gtirxuuJWHJ1kInwCTsbo"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "La Carrucha (En Vivo)",
         "url": "https://open.spotify.com/album/2vI8Aflm0jIOqszgQuGaTG"
@@ -221,7 +337,23 @@
       "url": "https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "La Mas Bonita De Todas",
+      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Sangre Guerrera",
         "url": "https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR"
@@ -241,23 +373,7 @@
       "url": "https://open.spotify.com/track/54xui38HClfOPGWvn5ihxN"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Que Te Entregues Hoy",
-      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
         "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
@@ -277,103 +393,7 @@
       "url": "https://open.spotify.com/track/6FX1hxjdmuLR4xYalLhZkZ"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Dichos Y Grandes",
-        "url": "https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 198437,
-      "name": "Dichos Y Grandes",
-      "url": "https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Miguel \u00c1ngel",
-        "url": "https://open.spotify.com/album/0XiTVbx22tB1hJMZiH0QX6"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 164777,
-      "name": "Miguel \u00c1ngel",
-      "url": "https://open.spotify.com/track/3GwaJCRZYlQWDASiqQt8O1"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Luz De D\u00eda",
-      "url": "https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/04zj4lyENfdiH3Snca3SoM"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 143746,
-      "name": "El Barba Cerrada",
-      "url": "https://open.spotify.com/track/3yPy39fL0VgdCflXgbJZjc"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Corridos Con Banda",
         "url": "https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ"
@@ -389,10 +409,10 @@
       "url": "https://open.spotify.com/track/1WTnFa5oFYInFV4aX3sHpv"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
-        "name": "El Principio Y El Fin",
-        "url": "https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd"
       },
       "artists": [
         {
@@ -400,76 +420,12 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 207722,
-      "name": "Que Tal",
-      "url": "https://open.spotify.com/track/43BJCb62Swe69FRBEZygFm"
+      "duration_ms": 143746,
+      "name": "El Barba Cerrada",
+      "url": "https://open.spotify.com/track/3yPy39fL0VgdCflXgbJZjc"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Sera El Sereno",
-        "url": "https://open.spotify.com/album/0eDXG5ZGSYinyo2f91s48L"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 143016,
-      "name": "El Elotero",
-      "url": "https://open.spotify.com/track/09BwZJMN17PDjpxBnijjyt"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 154240,
-      "name": "Fiesta De Muerte",
-      "url": "https://open.spotify.com/track/6WujLvXd1gEMMGB0nKIlTU"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Corridos Con Banda",
-        "url": "https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "El Corrido CP-2 AKA Sangre Catracha",
-      "url": "https://open.spotify.com/track/35ZMfACFuEBKzd1q3DpBof"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Una Copa M\u00e1s",
-        "url": "https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Sufre",
-      "url": "https://open.spotify.com/track/74LtuBm6ipOrFDEjjga89B"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "En La Mira",
         "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
@@ -480,12 +436,76 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 193306,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
+      "duration_ms": 255133,
+      "name": "Luz De D\u00eda",
+      "url": "https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Dichos Y Grandes",
+        "url": "https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "Dichos Y Grandes",
+      "url": "https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/09xNyMggKDROc4TYPjiUog"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Miguel \u00c1ngel",
+        "url": "https://open.spotify.com/album/0XiTVbx22tB1hJMZiH0QX6"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 164777,
+      "name": "Miguel \u00c1ngel",
+      "url": "https://open.spotify.com/track/3GwaJCRZYlQWDASiqQt8O1"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/04zj4lyENfdiH3Snca3SoM"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Due\u00f1a De Mi Vida",
         "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
@@ -501,10 +521,10 @@
       "url": "https://open.spotify.com/track/4VKn45HqiDSTZEzCTVEUst"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
-        "name": "Corridos Con Banda",
-        "url": "https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ"
+        "name": "Sera El Sereno",
+        "url": "https://open.spotify.com/album/0eDXG5ZGSYinyo2f91s48L"
       },
       "artists": [
         {
@@ -512,28 +532,12 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 170493,
-      "name": "El Coyote",
-      "url": "https://open.spotify.com/track/6bkpFoadpQOmcFE2xC5Rfs"
+      "duration_ms": 143016,
+      "name": "El Elotero",
+      "url": "https://open.spotify.com/track/09BwZJMN17PDjpxBnijjyt"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Me Gusta Lo Bueno",
-        "url": "https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "Me Gusta Lo Bueno",
-      "url": "https://open.spotify.com/track/12TqOAQIhqchko6cjE91Mh"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "En La Mira",
         "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
@@ -544,15 +548,15 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Tus Bellos Pechos",
-      "url": "https://open.spotify.com/track/5YdYw9nugSQSFsTVrHTWAN"
+      "duration_ms": 193306,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
       "artists": [
         {
@@ -560,76 +564,56 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 251893,
-      "name": "Due\u00f1a De Mi Vida",
-      "url": "https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm"
+      "duration_ms": 154240,
+      "name": "Fiesta De Muerte",
+      "url": "https://open.spotify.com/track/6WujLvXd1gEMMGB0nKIlTU"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
-        "name": "Corridos Con Banda",
-        "url": "https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ"
+        "name": "Fue Un Placer",
+        "url": "https://open.spotify.com/album/39dU0zdn3mhDzE8O3mhzqZ"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "El Perro Negro",
-      "url": "https://open.spotify.com/track/1rP90VhA9IlyqfJGOHuRX1"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Me Gusta Lo Bueno",
-        "url": "https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI"
-      },
-      "artists": [
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        },
+        {
+          "name": "Los Plebes del Rancho del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/1C73c6IIUrIhfwPU8YGoBq"
+        },
+        {
+          "name": "Los Elementos de Culiacan",
+          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
+        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "Ens\u00e9\u00f1ame A Olvidar",
-      "url": "https://open.spotify.com/track/7J2YIWWQlNCz1MLXpdPUwV"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
-      },
-      "artists": [
+        },
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Sentimiento De Dolor",
-      "url": "https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
-      },
-      "artists": [
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 228920,
-      "name": "Por El Ruido De La Cinta",
-      "url": "https://open.spotify.com/track/65jYeBXlXAbre1TP6XORAy"
+      "duration_ms": 267151,
+      "name": "Fue Un Placer",
+      "url": "https://open.spotify.com/track/1xbJgNrATP9zyCKiM3o6NW"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/4n37w7mhMm0i77CimGTgt0"
@@ -645,7 +629,55 @@
       "url": "https://open.spotify.com/track/5LS2EZZyM9whD8b8Bl5elA"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Por El Ruido De La Cinta",
+      "url": "https://open.spotify.com/track/65jYeBXlXAbre1TP6XORAy"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "El Principio Y El Fin",
+        "url": "https://open.spotify.com/album/2FR5MC8QeTPajOyC3XajyH"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 207722,
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/43BJCb62Swe69FRBEZygFm"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Corridos Con Banda",
+        "url": "https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 170493,
+      "name": "El Coyote",
+      "url": "https://open.spotify.com/track/6bkpFoadpQOmcFE2xC5Rfs"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Cigarro De Hoja",
         "url": "https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no"
@@ -661,23 +693,7 @@
       "url": "https://open.spotify.com/track/2rtYAvcfMLss6hzOYObwyp"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Juanito El Comandante",
-      "url": "https://open.spotify.com/track/4gkFnMZqkMYv68qZz9tWrJ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "El \u00c1guila Real",
         "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
@@ -693,7 +709,23 @@
       "url": "https://open.spotify.com/track/6X76twkIP8C6Vc7UtBWFBf"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Una Copa M\u00e1s",
+        "url": "https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Sufre",
+      "url": "https://open.spotify.com/track/74LtuBm6ipOrFDEjjga89B"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Corridos Con Banda",
         "url": "https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ"
@@ -704,15 +736,15 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Valent\u00edn De La Sierra",
-      "url": "https://open.spotify.com/track/2xu5deA14965VAfplcEtQ3"
+      "duration_ms": 156773,
+      "name": "El Corrido CP-2 AKA Sangre Catracha",
+      "url": "https://open.spotify.com/track/35ZMfACFuEBKzd1q3DpBof"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
-        "name": "Cigarro De Hoja",
-        "url": "https://open.spotify.com/album/6OewxwFeK5w70J6oFhi0no"
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
       },
       "artists": [
         {
@@ -720,28 +752,12 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 161960,
-      "name": "El Fin De Nuestro Amor",
-      "url": "https://open.spotify.com/track/5IsKvVrgXiO6QEbETwik9X"
+      "duration_ms": 251893,
+      "name": "Due\u00f1a De Mi Vida",
+      "url": "https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Sangre Guerrera",
-        "url": "https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "De Tu O\u00eddo A Tu Ombligo",
-      "url": "https://open.spotify.com/track/6fRf2VxMjBMtSGD7j0ienu"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "El \u00c1guila Real",
         "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/4CP1GpmLYMSnrdlFT5AQuy"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Me Gusta Lo Bueno",
         "url": "https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI"
@@ -768,12 +784,44 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 197786,
-      "name": "Cargadores Enteipados",
-      "url": "https://open.spotify.com/track/6XB6Liz9fd7W1zCpy3f2le"
+      "duration_ms": 156386,
+      "name": "Me Gusta Lo Bueno",
+      "url": "https://open.spotify.com/track/12TqOAQIhqchko6cjE91Mh"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Corridos Con Banda",
+        "url": "https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "El Perro Negro",
+      "url": "https://open.spotify.com/track/1rP90VhA9IlyqfJGOHuRX1"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Sentimiento De Dolor",
+      "url": "https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd"
@@ -789,10 +837,10 @@
       "url": "https://open.spotify.com/track/465XYz4eYfKiSQD1EFMc5J"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
       "album": {
-        "name": "Una Copa M\u00e1s",
-        "url": "https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI"
+        "name": "Me Gusta Lo Bueno",
+        "url": "https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI"
       },
       "artists": [
         {
@@ -800,12 +848,28 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 186640,
-      "name": "Yo Te Quise Amar",
-      "url": "https://open.spotify.com/track/5hSEPgls5rYRCQCb0ooiVP"
+      "duration_ms": 201440,
+      "name": "Ens\u00e9\u00f1ame A Olvidar",
+      "url": "https://open.spotify.com/track/7J2YIWWQlNCz1MLXpdPUwV"
     },
     {
-      "added_at": "2022-11-25 14:27:37",
+      "added_at": "2023-02-01 17:51:24",
+      "album": {
+        "name": "Corridos Con Banda",
+        "url": "https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Valent\u00edn De La Sierra",
+      "url": "https://open.spotify.com/track/2xu5deA14965VAfplcEtQ3"
+    },
+    {
+      "added_at": "2023-02-01 17:51:24",
       "album": {
         "name": "En La Mira",
         "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
@@ -816,25 +880,9 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 163773,
-      "name": "Ella Me Dijo Que No",
-      "url": "https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0"
-    },
-    {
-      "added_at": "2022-11-25 14:27:37",
-      "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 272426,
-      "name": "Vivir Sin Aire",
-      "url": "https://open.spotify.com/track/1kPds8OapQhPuFZQ9mnyXi"
+      "duration_ms": 191306,
+      "name": "Tus Bellos Pechos",
+      "url": "https://open.spotify.com/track/5YdYw9nugSQSFsTVrHTWAN"
     }
   ],
   "unique_name": "This Is Los Dareyes De La Sierra",

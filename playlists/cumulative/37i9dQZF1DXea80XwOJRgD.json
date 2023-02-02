@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Some heart and soul for those up late.",
   "name": "The Midnight Hour",
-  "published_playlist_ids": [
-    "4GHpFgqd4bd7kxNUP0brg8"
-  ],
   "tracks": [
     {
       "album": {
@@ -391,7 +388,7 @@
       ],
       "date_added": "2020-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 159381,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
@@ -1471,6 +1468,32 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "album": {
+        "name": "A Day in the Life",
+        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
+      },
+      "artists": [
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        },
+        {
+          "name": "Kevin \"K.D.\" Davis",
+          "url": "https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276013,
+      "name": "Spend My Life With You",
+      "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
     },
     {
       "album": {

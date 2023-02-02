@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 
 > A creepy collection of scary sounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,938 likes - 97 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,762 likes - 97 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

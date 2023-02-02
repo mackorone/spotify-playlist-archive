@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "deep & dark. bold & bare. cover: Julien Baker",
+  "description": "deep & dark. bold & bare. cover: Samia",
   "name": "noir",
-  "published_playlist_ids": [
-    "4pk0w13rV4dmJ8ZImqcVXV"
-  ],
   "tracks": [
     {
       "album": {
@@ -278,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307613,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/0Fo7Dd9Yn4VqzcRO9ExChR"
       },
@@ -289,7 +304,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 307613,
       "name": "Body",
       "url": "https://open.spotify.com/track/7pfuJiYU9vnQgBCADJeZsc"
@@ -307,7 +322,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 182062,
       "name": "Boxing Day Blues",
       "url": "https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9"
@@ -329,6 +344,24 @@
       "duration_ms": 182062,
       "name": "Boxing Day Blues",
       "url": "https://open.spotify.com/track/5H4XMIorgnOoTrQ2JLPvEl"
+    },
+    {
+      "album": {
+        "name": "Breathing Song / Honey",
+        "url": "https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "Breathing Song",
+      "url": "https://open.spotify.com/track/13pR0Vy22zw1in2Rd63TVn"
     },
     {
       "album": {
@@ -473,6 +506,24 @@
       "duration_ms": 196624,
       "name": "Coast",
       "url": "https://open.spotify.com/track/6AtvqLh6eSczO0QGi6BFIm"
+    },
+    {
+      "album": {
+        "name": "Eastwick / Cold Caller",
+        "url": "https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237015,
+      "name": "Cold Caller",
+      "url": "https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca"
     },
     {
       "album": {
@@ -1351,7 +1402,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 236610,
       "name": "I'll Go Running",
       "url": "https://open.spotify.com/track/3pdzD05LaKcxuToCrM2w7b"
@@ -1466,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Planet (i)",
+        "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236610,
+      "name": "I\u2019ll Go Running",
+      "url": "https://open.spotify.com/track/57S4atY7SJX3Tz5ugHNzNW"
+    },
+    {
+      "album": {
         "name": "I\u2019ll Still Have Me (Aquilo Remix)",
         "url": "https://open.spotify.com/album/3qRH0q4XS0sbjX0tAaFECr"
       },
@@ -1535,7 +1604,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 208800,
       "name": "Kitchen Table",
       "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
@@ -1967,7 +2036,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 315855,
       "name": "Oliver",
       "url": "https://open.spotify.com/track/60ltZnAfLz7ChT96ld006V"
@@ -2617,6 +2686,36 @@
     {
       "album": {
         "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "album": {
+        "name": "boygenius",
         "url": "https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH"
       },
       "artists": [
@@ -2639,32 +2738,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1"
-    },
-    {
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "date_added": "2021-11-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "album": {
@@ -3129,6 +3202,24 @@
     {
       "album": {
         "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215795,
+      "name": "Too In Love To Die",
+      "url": "https://open.spotify.com/track/1Yk97MXlFwbEGkXhGzeLbE"
+    },
+    {
+      "album": {
+        "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC"
       },
       "artists": [
@@ -3139,7 +3230,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 215795,
       "name": "Too In Love To Die",
       "url": "https://open.spotify.com/track/3MtmuBO41qbBp9qkg7o1Hh"
@@ -3211,7 +3302,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 204973,
       "name": "Vampire Weeknight",
       "url": "https://open.spotify.com/track/3pEGK96mXlfsavPTQdUHOr"

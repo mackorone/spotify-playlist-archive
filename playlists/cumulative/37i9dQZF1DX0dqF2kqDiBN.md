@@ -4,7 +4,7 @@
 
 > Blues with a lighter, up\-beat feel\. Cover: Taj Mahal & Keb' Mo'
 
-54 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/4ymcSSyDhMzAQTgzdnWUwO)
+54 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Let's Get Together](https://open.spotify.com/track/1psJrCCsQqM0KQ0xTHZudG) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor](https://open.spotify.com/album/2lsOrtqnpScvxYvOrqQcl3) | 3:39 | 2020-12-01 | 2022-07-29 |
 | [Let's Get Together](https://open.spotify.com/track/3BAr3C9HFzqNjYuExBQAix) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Fire on the Floor \(Deluxe Edition\)](https://open.spotify.com/album/3DmktzDKQ3DUIdYX3c49gP) | 3:39 | 2020-12-01 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Suitcase](https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7) | 4:16 | 2020-12-01 |  |
-| [Listen](https://open.spotify.com/track/5JlYv60TgliGsHiPRzOMfx) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:29 | 2020-12-01 |  |
+| [Listen](https://open.spotify.com/track/5JlYv60TgliGsHiPRzOMfx) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:29 | 2020-12-01 |  |
 | [Love Light Shine](https://open.spotify.com/track/1V7LEnad3oABKUTADZxtqL) | [Guy Verlinde](https://open.spotify.com/artist/1T4NREhwBrKGyMSMTQY8yn), [The Mighty Gators](https://open.spotify.com/artist/3VzoKJ1XixszFXANQgh8I9) | [X](https://open.spotify.com/album/3kiwdnLoJUlzX3dBxWs5qX) | 4:17 | 2020-12-01 |  |
 | [Love Song](https://open.spotify.com/track/1YpPzjF3LgUr6htLKCnVei) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:03 | 2020-12-01 |  |
 | [Nothing But Fine](https://open.spotify.com/track/5o0r4jyCw8L5udeXsQ9STY) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Winning Hand](https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA) | 3:52 | 2020-12-01 |  |
@@ -49,7 +49,7 @@
 | [Slipped, Tripped And Fell In Love](https://open.spotify.com/track/7mt1H6ndG323VvjxgAM09e) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:22 | 2020-12-01 |  |
 | [So Excited](https://open.spotify.com/track/3mrrWFfuesBi5fswdz1Xxf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:34 | 2020-12-01 |  |
 | [Soul](https://open.spotify.com/track/3JD3Mtjo7c05NZNDCPXh37) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 5:59 | 2020-12-01 |  |
-| [Soul Shake](https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Stompin' Ground](https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti) | 3:59 | 2020-12-01 |  |
+| [Soul Shake](https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165), [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Stompin' Ground](https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti) | 3:59 | 2020-12-01 |  |
 | [Stronger Together](https://open.spotify.com/track/69krfmNys0Jneki3ZAndvY) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 3:34 | 2020-12-01 |  |
 | [Sweet Goddess of Love and Beer](https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Booty And The Beast](https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi) | 4:39 | 2020-12-01 |  |
 | [Sweet Inspiration](https://open.spotify.com/track/6RMhGW31lycj4UqKsLIJyr) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Already Free](https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS) | 4:38 | 2020-12-01 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Cool down with these chill beats",
   "name": "Lo-Fi Cool Down",
-  "published_playlist_ids": [
-    "1idItpP21h4PxE18P8Ie1N"
-  ],
   "tracks": [
     {
       "album": {
@@ -291,6 +288,24 @@
     {
       "album": {
         "name": "Transitions",
+        "url": "https://open.spotify.com/album/45VGwNszNhpqKcYgo3dpZg"
+      },
+      "artists": [
+        {
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "date_added": "2020-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157605,
+      "name": "Blue Haze",
+      "url": "https://open.spotify.com/track/1mxjvX6NeHYGSW7bpgtRfy"
+    },
+    {
+      "album": {
+        "name": "Transitions",
         "url": "https://open.spotify.com/album/58CozCODSGKsDCPzjO0rw5"
       },
       "artists": [
@@ -359,10 +374,32 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 196235,
       "name": "Bopatron",
       "url": "https://open.spotify.com/track/0nyKpt36pWK435Sa7LKk6P"
+    },
+    {
+      "album": {
+        "name": "Bopatron",
+        "url": "https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg"
+      },
+      "artists": [
+        {
+          "name": "Cloudchord",
+          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "date_added": "2020-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "Bopatron",
+      "url": "https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6"
     },
     {
       "album": {
@@ -473,7 +510,7 @@
     {
       "album": {
         "name": "sidewalk safari",
-        "url": "https://open.spotify.com/album/7ycvSoIBz8FRbnbcVlTJFM"
+        "url": "https://open.spotify.com/album/6NsmYIRCoHNEo6bVx89K0E"
       },
       "artists": [
         {
@@ -488,6 +525,28 @@
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 93333,
+      "name": "cat's meow",
+      "url": "https://open.spotify.com/track/47I0dFqnJ6V5P04YW1u96z"
+    },
+    {
+      "album": {
+        "name": "sidewalk safari",
+        "url": "https://open.spotify.com/album/7ycvSoIBz8FRbnbcVlTJFM"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        },
+        {
+          "name": "tenp\u014d",
+          "url": "https://open.spotify.com/artist/2sKh4UHPc6IkW0OTdBavfS"
+        }
+      ],
+      "date_added": "2020-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
       "duration_ms": 93333,
       "name": "cat's meow",
       "url": "https://open.spotify.com/track/7bfwBbrYKFEreVQnFwbWPs"
@@ -557,6 +616,28 @@
       "duration_ms": 115182,
       "name": "Colorful Skies",
       "url": "https://open.spotify.com/track/61hUoJIBc5m8a1YHu15ln9"
+    },
+    {
+      "album": {
+        "name": "Colorful Skies",
+        "url": "https://open.spotify.com/album/36jqommAS821e5J69RH4Bz"
+      },
+      "artists": [
+        {
+          "name": "MiDN8",
+          "url": "https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4"
+        },
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115182,
+      "name": "Colorful Skies",
+      "url": "https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP"
     },
     {
       "album": {
@@ -763,6 +844,32 @@
       "duration_ms": 130677,
       "name": "Egyptian Pools",
       "url": "https://open.spotify.com/track/3CFS6vCzVVsWL5veYusCe7"
+    },
+    {
+      "album": {
+        "name": "Eternal Sunshine",
+        "url": "https://open.spotify.com/album/1Cj58FWzBJlgJS6HcEjKVo"
+      },
+      "artists": [
+        {
+          "name": "cryptic daylight",
+          "url": "https://open.spotify.com/artist/0DMANJOl4cL9Q2uzGbk850"
+        },
+        {
+          "name": "Someone Else",
+          "url": "https://open.spotify.com/artist/35Ir0ossYsmU5VHS1oVr8m"
+        },
+        {
+          "name": "Outertone Chill",
+          "url": "https://open.spotify.com/artist/5r6vb5zhpo84wnn6rT5zLw"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Eternal Sunshine",
+      "url": "https://open.spotify.com/track/3IjcC1K1Iu3Vv4KMQYL2tM"
     },
     {
       "album": {
@@ -1297,7 +1404,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 140000,
       "name": "keep on",
       "url": "https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9"
@@ -1389,7 +1496,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 100811,
       "name": "Lofi Jazz Beat",
       "url": "https://open.spotify.com/track/5eIHjYXJqCYHgTWqd5boz1"
@@ -1490,6 +1597,28 @@
     },
     {
       "album": {
+        "name": "The Art of Chilling, Vol. 2",
+        "url": "https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp"
+      },
+      "artists": [
+        {
+          "name": "The BREED",
+          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
+        },
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5DQ0QCjMsFzIfdhGHtlamp"
+    },
+    {
+      "album": {
         "name": "Mental Acupuncture",
         "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
       },
@@ -1523,7 +1652,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 144022,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw"
@@ -1693,7 +1822,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 225997,
       "name": "Nightcrawler",
       "url": "https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP"
@@ -1823,7 +1952,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 153333,
       "name": "Pixels",
       "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"
@@ -2150,6 +2279,28 @@
     },
     {
       "album": {
+        "name": "Close Distance (Deluxe)",
+        "url": "https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "K, Le Maestro",
+          "url": "https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141773,
+      "name": "Solst\u00e5nd - Bonus Track",
+      "url": "https://open.spotify.com/track/5JhnZmoePRQaSjhtVWPlVZ"
+    },
+    {
+      "album": {
         "name": "gay story",
         "url": "https://open.spotify.com/album/6wNgoamY7ZcZA1mEVXAuZV"
       },
@@ -2209,6 +2360,32 @@
       "duration_ms": 118518,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG"
+    },
+    {
+      "album": {
+        "name": "Collabs, Vol 2",
+        "url": "https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
+        },
+        {
+          "name": "Plusma",
+          "url": "https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH"
+        }
+      ],
+      "date_added": "2020-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 101663,
+      "name": "Soul Finding",
+      "url": "https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa"
     },
     {
       "album": {
@@ -2279,6 +2456,32 @@
       "duration_ms": 139500,
       "name": "Spirited",
       "url": "https://open.spotify.com/track/1UcvLQLOEY12MLaTHigbfo"
+    },
+    {
+      "album": {
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/2QB4GAeIBuGkxUNnUQQNBU"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "Pearldiver",
+          "url": "https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Spirits",
+      "url": "https://open.spotify.com/track/0bHMYI8BEs739S51ZrZ6yy"
     },
     {
       "album": {
@@ -2403,7 +2606,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-15",
       "duration_ms": 124000,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4"
@@ -2513,7 +2716,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 215000,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/44js4MOnD3UwxXchgek0C9"
@@ -2579,6 +2782,28 @@
       "duration_ms": 96026,
       "name": "The Burn Marks on My Epiano Wont Go Away",
       "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
+    },
+    {
+      "album": {
+        "name": "Granat Session, Vol. II",
+        "url": "https://open.spotify.com/album/0JqAJeILF8gY4vOzmjUXkE"
+      },
+      "artists": [
+        {
+          "name": "damaa.beats",
+          "url": "https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY"
+        },
+        {
+          "name": "Otis Ubaka",
+          "url": "https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150507,
+      "name": "The Soul of Things",
+      "url": "https://open.spotify.com/track/0ZDNgOOkCqfJK4jrXGb8wj"
     },
     {
       "album": {
@@ -2761,7 +2986,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 180062,
       "name": "walk in the park",
       "url": "https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw"

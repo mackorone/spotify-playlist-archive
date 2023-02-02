@@ -4,14 +4,15 @@
 
 > <a href="http://casaum.org/">Casa 1</a> recommends songs from LBT women \(lesbians, bi and trans\)\. \| Cover:  Ventura Profana
 
-57 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/5vDUfBtAHRwJD6jYMYd1zW)
+58 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Braba do Jaca](https://open.spotify.com/track/4Dqamp1bT0B8cFgK1gZZtb) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb), [Lari bxd 777](https://open.spotify.com/artist/3UnCbsra63A5dhNr8mWY03) | [Gueto Elegance](https://open.spotify.com/album/3xPaseb2bsgVYawCnQRuCf) | 4:27 | 2022-03-08 |  |
 | [A Mim E A Mais Ninguém](https://open.spotify.com/track/0DJvmpvbh1BBBYjAj89XfK) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Angela Roro](https://open.spotify.com/album/5b9KqfZmD65KQNs6vD4VBd) | 3:05 | 2022-03-08 |  |
 | [ALL YOU NEED IS LOVE](https://open.spotify.com/track/0J2qxktJGqE5yZluCnDOdZ) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [ALL YOU NEED IS LOVE](https://open.spotify.com/album/6Pn3FJ3vIbj7kIbPnrRQem) | 3:37 | 2022-03-08 |  |
-| [Amor e Sacanagem](https://open.spotify.com/track/74KhL2RSFJK0o2hNwBnuA2) | [Aíla](https://open.spotify.com/artist/3OtIWdfvw95ikh5dpiNop3), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU) | [Sentimental](https://open.spotify.com/album/1mVMdjPiXrkk30gBrgxPmK) | 3:14 | 2022-03-08 |  |
+| [Amor e Sacanagem](https://open.spotify.com/track/74KhL2RSFJK0o2hNwBnuA2) | [Aíla](https://open.spotify.com/artist/3OtIWdfvw95ikh5dpiNop3), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU) | [Sentimental](https://open.spotify.com/album/1mVMdjPiXrkk30gBrgxPmK) | 3:14 | 2022-03-08 | 2023-01-08 |
+| [Amor e Sacanagem](https://open.spotify.com/track/1wZh8VTAmSoCZuXzudYmBJ) | [Aíla](https://open.spotify.com/artist/3OtIWdfvw95ikh5dpiNop3), [Luísa Nascimento](https://open.spotify.com/artist/75P8IMO7QpxyxglsNvLZGg) | [Sentimental](https://open.spotify.com/album/6Mc2eMm7ClOoCMnZg8CuwH) | 3:14 | 2022-03-08 |  |
 | [Amor Verdade](https://open.spotify.com/track/6LPvDoyXpThibOnu4677uB) | [Maria Beraldo](https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW) | [Cavala](https://open.spotify.com/album/2VW7FzFPVuGetRhV8J7jt9) | 2:21 | 2022-03-08 |  |
 | [Bombas e Flores](https://open.spotify.com/track/5cx2xDYO7jANWBWWeM6DTg) | [Gabi Nyarai](https://open.spotify.com/artist/0IB5Ndp2YZyowbTFcBjPxx) | [Bombas e Flores](https://open.spotify.com/album/2sbjPhAQBP2Q2EZ50nuVTv) | 3:05 | 2022-03-08 |  |
 | [Busca Implacável](https://open.spotify.com/track/5YYkq6B7VKAnCG7KBavhW4) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Casulo](https://open.spotify.com/album/3vw9NeHgpbpHjc0Wxy78dl) | 4:08 | 2022-03-08 |  |

@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-29",
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
   "name": "This Is Little Simz",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -61,6 +60,24 @@
       "duration_ms": 246936,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/4sDvfEUH3NMH6Yet8V5rAD"
+    },
+    {
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352178,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
     },
     {
       "album": {
@@ -126,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Blank Canvas",
+        "url": "https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95267,
+      "name": "Blank Canvas (Interlude)",
+      "url": "https://open.spotify.com/track/42cVaoypjCYHO00SEj8d7a"
+    },
+    {
+      "album": {
         "name": "GREY Area",
         "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
       },
@@ -177,7 +212,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 252546,
       "name": "Cuckoo (feat. Little Simz)",
       "url": "https://open.spotify.com/track/7GIkNL7cGq9JBjtUcD5M28"
@@ -195,10 +230,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 120396,
       "name": "damn right",
       "url": "https://open.spotify.com/track/12sdOBTZdgxRalR74VwABF"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120396,
+      "name": "damn right",
+      "url": "https://open.spotify.com/track/3Q1HNg15qwjOlDy5ia1NJc"
     },
     {
       "album": {
@@ -213,7 +266,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 232138,
       "name": "Dead Body",
       "url": "https://open.spotify.com/track/0QWDfiuaV7W20y86RGtREF"
@@ -231,7 +284,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 187373,
       "name": "Deranged",
       "url": "https://open.spotify.com/track/5YGWNm8j6U2C3xrfj9qgS0"
@@ -315,10 +368,28 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 256600,
       "name": "God Bless Mary",
       "url": "https://open.spotify.com/track/4hAhIfnJyBDKtjmWaCPCYT"
+    },
+    {
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245819,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
     },
     {
       "album": {
@@ -341,6 +412,42 @@
       "duration_ms": 217386,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/2kbG99CwKxSZ0NTE4xhteT"
+    },
+    {
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238831,
+      "name": "Heart on Fire",
+      "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
+    },
+    {
+      "album": {
+        "name": "Stillness in Wonderland",
+        "url": "https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117249,
+      "name": "Her - Interlude",
+      "url": "https://open.spotify.com/track/4dkq5eUifgGK5ESn5vYQq8"
     },
     {
       "album": {
@@ -485,7 +592,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 245045,
       "name": "Location (feat. Little Simz)",
       "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
@@ -503,10 +610,46 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 126462,
       "name": "might bang, might not",
       "url": "https://open.spotify.com/track/0lAenyfo765pFS0irWQ0sG"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126462,
+      "name": "might bang, might not",
+      "url": "https://open.spotify.com/track/4q6cqwj1Bo7z7S0uF7pKnz"
+    },
+    {
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317278,
+      "name": "No Merci",
+      "url": "https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn"
     },
     {
       "album": {
@@ -579,10 +722,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 154986,
       "name": "one life, might live",
       "url": "https://open.spotify.com/track/5kZ3mNo3Sjstbq5nVa5CMG"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154986,
+      "name": "one life, might live",
+      "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
     },
     {
       "album": {
@@ -619,7 +780,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 124113,
       "name": "Persons",
       "url": "https://open.spotify.com/track/1s9vA3Z6u7Jn1KVzUBeRIB"
@@ -820,6 +981,24 @@
     },
     {
       "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393280,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/6eCxbfPngmMvJjnJxyBcDg"
+    },
+    {
+      "album": {
         "name": "A Curious Tale of Trials + Persons",
         "url": "https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM"
       },
@@ -875,6 +1054,24 @@
     {
       "album": {
         "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154749,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X"
+    },
+    {
+      "album": {
+        "name": "GREY Area",
         "url": "https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY"
       },
       "artists": [
@@ -903,10 +1100,32 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 154749,
       "name": "Venom",
       "url": "https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233497,
+      "name": "where\u2019s my lighter",
+      "url": "https://open.spotify.com/track/6bh9O5b4eHIjdwtcOVbSMe"
     },
     {
       "album": {
@@ -925,7 +1144,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 233497,
       "name": "where\u2019s my lighter",
       "url": "https://open.spotify.com/track/77pRtEdMOE9DpVJLjfmrwb"
@@ -943,7 +1162,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 246528,
       "name": "Wings",
       "url": "https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB"
@@ -1009,7 +1228,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 279579,
       "name": "Wounds",
       "url": "https://open.spotify.com/track/4lrGIVT5CvwirFcBlb5lor"
@@ -1038,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364181,
+      "name": "X",
+      "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
+    },
+    {
+      "album": {
         "name": "Drop 6",
         "url": "https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb"
       },
@@ -1049,10 +1286,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 135322,
       "name": "you should call mum",
       "url": "https://open.spotify.com/track/2SVIkGkmY9ZPZFniCwa7ar"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135322,
+      "name": "you should call mum",
+      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr"

@@ -2,9 +2,9 @@
 
 ### [This Is Red Velvet](https://open.spotify.com/playlist/37i9dQZF1DX4NMZ4UC3NCh)
 
-> Happiness! This is Red Velvet! The ReVe Festival 2022 is here!
+> Happiness! This is Red Velvet! Red Velvet wants everyone to have a Beautiful Christmas!
 
-132 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/4k3z85A5Fsbx0TjazYclfQ)
+138 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,11 +26,15 @@
 | [BAMBOLEO](https://open.spotify.com/track/0jXneVxiitQZsbtftH7HHJ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:28 | 2022-03-22 |  |
 | [Be Natural](https://open.spotify.com/track/03j5je630wlJeQbJTV2lIo) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [Be Natural](https://open.spotify.com/album/6vwGOcHL4iz6PRQfHu6DUh) | 4:40 | 2022-03-22 | 2022-07-29 |
 | [Be Natural](https://open.spotify.com/track/41qLzxymjkp0R5vl3REb1S) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [Be Natural \- The 2nd Single](https://open.spotify.com/album/4OeQ9nilS4Sy3efzt0hVFi) | 4:40 | 2022-03-22 |  |
+| [Beautiful Christmas](https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Beautiful Christmas](https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG) | 3:29 | 2022-12-14 |  |
 | [Beg For Me](https://open.spotify.com/track/6Zr6W8j3jJ3z50XsBCvm3e) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:32 | 2022-03-22 |  |
 | [Better Be](https://open.spotify.com/track/5NIjdxrVUW4GGyLIqXUw9K) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:00 | 2022-03-22 |  |
 | [Bing Bing](https://open.spotify.com/track/0tHkBl71ZHXaFdc0sNGQHz) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:22 | 2022-03-22 |  |
+| [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-11-28 |  |
 | [Butterflies](https://open.spotify.com/track/0cZMA3EdKJKrKoGQEeMhFJ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [RBB \- The 5th Mini Album](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) | 3:29 | 2022-03-22 |  |
+| [BYE BYE](https://open.spotify.com/track/4OSVR8gq2l3ceJiXNR7iiM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:16 | 2022-11-28 |  |
 | [Carpool](https://open.spotify.com/track/2KqYLFNTX2HXzYH4bucBKa) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:26 | 2022-03-22 |  |
+| [Celebrate](https://open.spotify.com/track/53qayme5jMFwTb3fF84uv6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 2:44 | 2022-11-28 |  |
 | [Close To Me \- Red Velvet Remix](https://open.spotify.com/track/696Y3Jx3k4Rjsw8gm2q4l4) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Close To Me \(Red Velvet Remix\)](https://open.spotify.com/album/7dg5iqyFYqRQH7vtAG9VNf) | 3:11 | 2022-03-22 |  |
 | [Color of Love](https://open.spotify.com/track/7fTTAOlLFkIjnWUtpYhx1W) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Bloom](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) | 3:07 | 2022-04-07 |  |
 | [Cool Hot Sweet Love](https://open.spotify.com/track/0IWII7t81mRFEo5NeuUhEJ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/3ZkPccW7mkSC7BCulcPFJs) | 3:53 | 2022-03-22 | 2022-07-29 |
@@ -86,6 +90,7 @@
 | [Naughty](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Naughty](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) | 3:18 | 2022-03-22 |  |
 | [Oh Boy](https://open.spotify.com/track/3rRe3gQHri7GwRg4zvxhc5) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/56L226pRT1sHo2vgoJy5IB) | 3:08 | 2022-03-22 | 2022-07-29 |
 | [Oh Boy](https://open.spotify.com/track/3ts0OSZgdjOP0Uu1DvQK4h) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:08 | 2022-03-22 |  |
+| [On A Ride](https://open.spotify.com/track/1hYQUY06GbO7YR8QeO7Qdk) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:19 | 2022-11-28 |  |
 | [Only You](https://open.spotify.com/track/3gYSjwe2AvcfIlbAVIAf9G) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [HWARANG, Pt\. 4 \(Music from the Original TV Series\)](https://open.spotify.com/album/2g8Gqke0zJvrQ7axxbW0hn) | 3:18 | 2022-03-22 |  |
 | [Parade](https://open.spotify.com/track/3lZHJ90cpbtLCyJNzL39Pb) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:13 | 2022-03-22 |  |
 | [Peek\-A\-Boo](https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 3:09 | 2022-03-22 |  |
@@ -132,6 +137,7 @@
 | [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 | 2022-03-22 |  |
 | [Zimzalabim](https://open.spotify.com/track/2cvi3IRTibXzmAm4f8P2HP) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:10 | 2022-03-22 |  |
 | [Zoo](https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:24 | 2022-03-22 |  |
+| [ZOOM](https://open.spotify.com/track/18OjYSOz2ryc2vLmAeG2de) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:04 | 2022-11-28 |  |
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 | 2022-03-22 |  |
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/7AvXrOVEVRcfXxme2wo6Im) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 3:31 | 2022-03-22 | 2022-07-29 |
 | [사탕 \(Candy\)](https://open.spotify.com/track/1KXNWNBTmdKB97kdo6vI4i) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Mini Album ‘Ice Cream Cake’](https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc) | 4:22 | 2022-03-22 | 2022-07-29 |

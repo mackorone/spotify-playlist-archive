@@ -4,7 +4,7 @@
 
 > Remember the glory days when boy bands and girl groups ruled the radio? Listen to this playlist and bring the Spice Girls, Hanson, and Destiny's Child back!
 
-41 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/5JN3Cu621w3LmjngYDca4w)
+41 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A playlist with songs from the best reviewed albums in Sweden 2012.
 
-61 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/0gAM7iqeArqsehi0zGHYli)
+61 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

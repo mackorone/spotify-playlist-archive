@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "2018 highlights from the home of indie music.",
   "name": "Best of Indie 2018",
-  "published_playlist_ids": [
-    "0O1il5VUEFSUMZMrdTiUS0"
-  ],
   "tracks": [
     {
       "album": {
@@ -269,7 +266,7 @@
     {
       "album": {
         "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
       "artists": [
         {
@@ -280,6 +277,24 @@
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219481,
+      "name": "Cheetah Tongue",
+      "url": "https://open.spotify.com/track/0Pa1cE18FyJqPNQZSeCl0c"
+    },
+    {
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 219481,
       "name": "Cheetah Tongue",
       "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
@@ -431,7 +446,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": "2023-01-20",
       "duration_ms": 239306,
       "name": "Drunk In LA",
       "url": "https://open.spotify.com/track/76XDNJIQpP9WGO5XASGBww"
@@ -995,7 +1010,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-27",
       "duration_ms": 278311,
       "name": "Licking An Orchid",
       "url": "https://open.spotify.com/track/3pihS07XVQEavaS9n7kObt"
@@ -1227,6 +1242,24 @@
       "duration_ms": 137141,
       "name": "Me and My Husband",
       "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+    },
+    {
+      "album": {
+        "name": "Love Is Dead",
+        "url": "https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 188251,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO"
     },
     {
       "album": {
@@ -1609,7 +1642,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-04",
       "duration_ms": 239010,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/6ivRsiNaVBtkQjtkC8QDte"
@@ -2053,10 +2086,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
+    },
+    {
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
     },
     {
       "album": {

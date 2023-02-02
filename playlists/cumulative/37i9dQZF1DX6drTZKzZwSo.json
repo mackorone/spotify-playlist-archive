@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "Classic funk.",
   "name": "Funky Jams",
-  "published_playlist_ids": [
-    "66zY7GIyu4yLAF1qxJVp8B"
-  ],
   "tracks": [
     {
       "album": {
@@ -155,7 +152,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179847,
-      "name": "Coleen feat. The Dap-Kings Horns",
+      "name": "Coleen",
       "url": "https://open.spotify.com/track/5dzTfHXcdHjxoJbpdy4DUu"
     },
     {
@@ -1016,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300693,
+      "name": "Pusherman",
+      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
+    },
+    {
+      "album": {
         "name": "The Best of Delegation",
         "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
       },
@@ -1063,10 +1078,28 @@
       ],
       "date_added": "2020-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 268173,
       "name": "Sea Groove",
       "url": "https://open.spotify.com/track/4lhFA1E4MFfPeO9gYJEZOs"
+    },
+    {
+      "album": {
+        "name": "Humanize",
+        "url": "https://open.spotify.com/album/604icvBHTAfT7q9RvJak3A"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Man",
+          "url": "https://open.spotify.com/artist/6ZEPiznKqWSTc8YMITtM0X"
+        }
+      ],
+      "date_added": "2020-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268173,
+      "name": "Sea Groove",
+      "url": "https://open.spotify.com/track/60vuy9MXz1dgM5EKGmGCYt"
     },
     {
       "album": {
@@ -1337,6 +1370,24 @@
       "duration_ms": 337773,
       "name": "Too Hot Ta Trot",
       "url": "https://open.spotify.com/track/2dm0eNGhVJ7kLOGvczqTu3"
+    },
+    {
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228326,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
     },
     {
       "album": {

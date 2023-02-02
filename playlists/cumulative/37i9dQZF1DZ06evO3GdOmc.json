@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
   "name": "This Is Casting Crowns",
-  "published_playlist_ids": [
-    "0CA93TpnJm4K6dsI9jKOTa"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,24 @@
       "duration_ms": 227813,
       "name": "All Because of Mercy",
       "url": "https://open.spotify.com/track/1bq21JiVUbQG41ukuhC8MT"
+    },
+    {
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241746,
+      "name": "All You've Ever Wanted",
+      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
     },
     {
       "album": {
@@ -145,7 +160,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 287560,
       "name": "At Calvary - Live",
       "url": "https://open.spotify.com/track/5lFbpKvhMEeVqzgRziBYXR"
@@ -235,10 +250,32 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 218533,
       "name": "Desert Road",
       "url": "https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ"
+    },
+    {
+      "album": {
+        "name": "Desert Road",
+        "url": "https://open.spotify.com/album/4Vux1bTa1zV0RjGeCEAUd5"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218484,
+      "name": "Desert Road",
+      "url": "https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t"
     },
     {
       "album": {
@@ -275,6 +312,24 @@
       "duration_ms": 266106,
       "name": "East To West",
       "url": "https://open.spotify.com/track/1wV6lCsV2PCeVZlyGTkVPt"
+    },
+    {
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "Even When You're Running",
+      "url": "https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl"
     },
     {
       "album": {
@@ -530,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266426,
+      "name": "Joyful, Joyful",
+      "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
+    },
+    {
+      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
@@ -638,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "No Hurt",
+      "url": "https://open.spotify.com/track/2GhHGQlN5X0KflaSxAuMZf"
+    },
+    {
+      "album": {
         "name": "No Hurt",
         "url": "https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T"
       },
@@ -649,7 +740,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 192613,
       "name": "No Hurt",
       "url": "https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx"
@@ -743,7 +834,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 265893,
       "name": "One More Song for You",
       "url": "https://open.spotify.com/track/5Dxz0gviDnCbziOTTGIyxo"
@@ -1013,7 +1104,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 265200,
       "name": "Wedding Day",
       "url": "https://open.spotify.com/track/2QQKgTMc1shfwwIzuh4Afd"

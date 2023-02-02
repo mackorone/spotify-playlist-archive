@@ -4,7 +4,7 @@
 
 > Superstar DJ and producer, <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">Martin Garrix</a> readies us for the summer time with a mix featuring bangers from his new album, Sentio!
 
-26 songs - 1 hr 22 min - [published](https://open.spotify.com/playlist/3Jtq8g14ItD8SuqJh9miUf)
+26 songs - 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

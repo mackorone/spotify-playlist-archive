@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Revive la \u00e9poca de los pantalones acampanados en compa\u00f1\u00eda de mam\u00e1.",
   "name": "Mam\u00e1 70era",
-  "published_playlist_ids": [
-    "3ApcnrVoVhYnqieRzGKwfl"
-  ],
   "tracks": [
     {
       "album": {
@@ -293,7 +290,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Coraz\u00f3n m\u00e1gico",
       "url": "https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW"
@@ -545,7 +542,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 256200,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
@@ -1331,7 +1328,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-19",
       "duration_ms": 179466,
       "name": "Never Can Say Goodbye - Single Version",
       "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
@@ -1572,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Sailing / Poor Shirley (Digital 45)",
+        "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2021-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255453,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -1583,7 +1598,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 256146,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
@@ -1727,7 +1742,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-16",
       "duration_ms": 196200,
       "name": "Te Voy a Ense\u00f1ar a Querer",
       "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"

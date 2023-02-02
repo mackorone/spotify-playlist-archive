@@ -4,13 +4,13 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-214 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/3TIa5auBD6glGxwEhYFQcx)
+215 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Absolute Loser](https://open.spotify.com/track/45wGhAr9756RWGrSs35r56) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:51 | 2022-02-17 |  |
 | [Absolute Loser](https://open.spotify.com/track/4G3YqgEEGQe5EhhGiNpUZJ) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser \- Single](https://open.spotify.com/album/5afnpfoIyaMUOr2EmXvid8) | 3:51 | 2021-12-09 | 2022-07-28 |
-| [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 | 2021-12-09 |  |
+| [Ain’t Lookin’](https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Ain’t Lookin’](https://open.spotify.com/album/2zQpWa9zKMqAPLYHwcskJL) | 3:22 | 2021-12-09 | 2022-12-17 |
 | [All About Our Love](https://open.spotify.com/track/6Bdb25Xd50dlIZWuSjEuTO) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [3](https://open.spotify.com/album/2WQB0iJb75vXIGyyeQ84ea) | 3:56 | 2022-02-17 |  |
 | [All About Our Love](https://open.spotify.com/track/6XVLpAZOhf5JebXLNJ7ozr) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [All About Our Love](https://open.spotify.com/album/6YHWv7JPfofZCXBbh9xP5V) | 3:56 | 2021-12-09 | 2022-07-29 |
 | [All My Friends](https://open.spotify.com/track/2WgbFkQQswVVEWnyKnFo2q) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Take Good Care](https://open.spotify.com/album/10cYvuRfY8IpASva845zgF) | 3:38 | 2022-02-17 |  |
@@ -34,7 +34,7 @@
 | [Cautionary Tale](https://open.spotify.com/track/51LJmGVbrbxPP04Kog24Ul) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/7iXMplFdSUSWPl5ALrREZT) | 3:42 | 2021-12-09 | 2022-07-29 |
 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 | 2021-12-09 | 2022-07-29 |
 | [Colorblind](https://open.spotify.com/track/0iAB1A8B5jHPrkfWWyrvj5) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Colorblind](https://open.spotify.com/album/0KxmyxNOqRRKGgBmApF3xj) | 3:28 | 2021-12-09 | 2022-07-28 |
-| [Complex](https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Aquatic Flowers](https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV) | 3:48 | 2021-12-09 |  |
+| [Complex](https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Aquatic Flowers](https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV) | 3:48 | 2021-12-09 | 2022-12-13 |
 | [Cool Jam](https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Cool Jam/Good For You](https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY) | 3:26 | 2021-12-09 |  |
 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 | 2021-12-09 | 2022-04-25 |
 | [Desert Queen](https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Desert Queen](https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI) | 4:42 | 2021-12-09 | 2022-01-19 |
@@ -55,6 +55,7 @@
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 | 2022-02-17 |  |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-12-09 |  |
 | [Expectations](https://open.spotify.com/track/52Ckvs2feGZc9GI77kBfWq) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Think It Over / Expectations](https://open.spotify.com/album/4mSlPObtRrPxj6RxuQg0Tl) | 4:17 | 2021-12-09 | 2022-07-25 |
+| [False Names](https://open.spotify.com/track/3bx4cm6DijL3kzNVo58d1j) | [John Joseph Brill](https://open.spotify.com/artist/6q5toimiubECVRWlZSJEUi) | [False Names](https://open.spotify.com/album/3Kkl2vgUyemvMLo57qF5SX) | 4:01 | 2022-02-17 | 2023-01-18 |
 | [Fever Pitch](https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Fever Pitch](https://open.spotify.com/album/7KAcbEEU9MREoPJxW78cEU) | 2:43 | 2021-12-09 | 2022-07-23 |
 | [Fever Pitch](https://open.spotify.com/track/5vyt44455ipNNVSYq8fYY7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:43 | 2022-02-17 |  |
 | [Free As We Wanna Be](https://open.spotify.com/track/3k1nDv6HGBC8k45KM5SF2T) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 3:16 | 2021-12-09 | 2022-07-29 |
@@ -100,7 +101,7 @@
 | [In My Room](https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 2:45 | 2021-12-09 |  |
 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 | 2021-12-09 |  |
 | [It Ain’t Easy](https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What Is There](https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz) | 3:20 | 2021-12-09 |  |
-| [Jazz on the Autobahn](https://open.spotify.com/track/39FTmyyxXFvK7yXyyuW9ja) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [Jazz on the Autobahn](https://open.spotify.com/album/6WFiE7FugKb5nQpl5Y3FRy) | 4:32 | 2021-12-09 | 2022-11-13 |
+| [Jazz on the Autobahn](https://open.spotify.com/track/39FTmyyxXFvK7yXyyuW9ja) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [Jazz on the Autobahn](https://open.spotify.com/album/6WFiE7FugKb5nQpl5Y3FRy) | 4:32 | 2021-12-09 |  |
 | [Joni](https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Joni](https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9) | 2:55 | 2021-12-09 | 2022-02-19 |
 | [Kitchen Table](https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Kitchen Table](https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0) | 3:28 | 2021-12-09 | 2022-07-29 |
 | [Las Vegas](https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:42 | 2022-02-17 |  |
@@ -133,7 +134,7 @@
 | [Now is the Time](https://open.spotify.com/track/4laTGZ3oNAWgla7mevECwt) | [Norma Tanega](https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP) | [Now Is The Time](https://open.spotify.com/album/20XCI94ozv942iZYSxjSxJ) | 3:56 | 2022-02-25 |  |
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2021-12-09 |  |
 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 | 2021-12-09 |  |
-| [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 | 2021-12-09 | 2022-11-13 |
+| [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 | 2021-12-09 |  |
 | [Only Songs \(Radio Edit\)](https://open.spotify.com/track/6oToe0shcqyTZ00Hgdl9ZB) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 3:03 | 2021-12-09 | 2022-07-25 |
 | [Open up the Heavens](https://open.spotify.com/track/1dthu6dMsSfRe2k1nBTL36) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Open up the Heavens](https://open.spotify.com/album/6uNbLM4IL5OojfhAb8nISM) | 2:41 | 2021-12-09 | 2022-07-29 |
 | [Open up the Heavens](https://open.spotify.com/track/5N2DUST2UGPbE6EiWNpbd1) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:41 | 2022-02-17 | 2022-11-13 |

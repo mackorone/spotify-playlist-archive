@@ -4,17 +4,17 @@
 
 > Lose yourself in the summer daze...
 
-137 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/4JRzjnOLPijNmAgihe8x2o)
+137 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2022-02-10 |  |
-| [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-02-10 |  |
 | [About U](https://open.spotify.com/track/2jBXxytea8dHAOZqIB3pHL) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:57 | 2022-02-10 |  |
 | [About U](https://open.spotify.com/track/5YbQiHdLvjDYxoycsViPXM) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [So Far to Go](https://open.spotify.com/album/5VhZrgglg0LySUDX5qvLEJ) | 2:57 | 2022-02-10 | 2022-11-25 |
 | [Air](https://open.spotify.com/track/3bJJu6tjuKlSGD8vbwJ7FB) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Air](https://open.spotify.com/album/4Fz2th3B672VGj7wm7904J) | 3:48 | 2022-02-10 |  |
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2022-02-10 |  |
 | [All That \(feat\. Channel Tres\)](https://open.spotify.com/track/5rzndDb4DgVkOsIsfbRv0q) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:05 | 2022-02-10 |  |
+| [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-02-10 |  |
 | [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 | 2022-02-10 |  |
 | [Beach Boy](https://open.spotify.com/track/7z1XtZX1KhET1YpRbLMfm2) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Hangout](https://open.spotify.com/album/3vM0XlUdKtHmr3IQEKVO48) | 3:12 | 2022-02-10 | 2022-11-13 |
 | [Big Titties](https://open.spotify.com/track/3ArzoE70ZnTQIHvtggfYoW) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Big Titties](https://open.spotify.com/album/5dhSqAkSZbiqOpM1plKwjG) | 2:27 | 2022-02-10 |  |

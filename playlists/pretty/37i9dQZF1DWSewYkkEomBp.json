@@ -1,12 +1,12 @@
 {
   "description": "The perfect tunes to accompany your lazy day in the garden.",
-  "num_followers": 152816,
+  "num_followers": 153724,
   "original_name": "Summer in the Garden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4OTgyMjU1OSwwMDAwMDAwMGU2MzQ2OGM1M2VlZjJiNTQyYjNkMjU3NGM5N2RiZDQ0",
+  "snapshot_id": "MTU4OTgyMjU1OSwwMDAwMDAwMDE1Mzg4NWI3NWE3ZmQxYmI4OWQ0NmRkOTI3NjY1Nzdm",
   "tracks": [
     {
       "added_at": "2020-05-18 17:22:39",
@@ -379,8 +379,8 @@
     {
       "added_at": "2020-05-18 17:22:39",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
       "artists": [
         {
@@ -390,7 +390,7 @@
       ],
       "duration_ms": 254760,
       "name": "Be Mine",
-      "url": "https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ"
+      "url": "https://open.spotify.com/track/6OXj4cEa6vAAs0jsJVFHxS"
     },
     {
       "added_at": "2020-05-18 17:22:39",
@@ -1075,8 +1075,8 @@
     {
       "added_at": "2020-05-18 17:22:39",
       "album": {
-        "name": "Best of 80s",
-        "url": "https://open.spotify.com/album/0zkMNW1yQlHMIXQDOM6LT8"
+        "name": "Happy Classics",
+        "url": "https://open.spotify.com/album/2cnDTz7eNou1DKvA5bEY35"
       },
       "artists": [
         {
@@ -1084,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
         }
       ],
-      "duration_ms": 230840,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/2ssl3oeVptDKx5PY59Sbm2"
+      "duration_ms": 230760,
+      "name": "Teardrops - Single Version",
+      "url": "https://open.spotify.com/track/6wSYpKrgUJSIrH033Y5WlB"
     },
     {
       "added_at": "2020-05-18 17:22:39",
@@ -1534,6 +1534,10 @@
         {
           "name": "Durand Jones & The Indications",
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
       "duration_ms": 212487,

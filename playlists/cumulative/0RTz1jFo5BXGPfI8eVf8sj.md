@@ -4,7 +4,7 @@
 
 > 
 
-100 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/3oCrl7dlIOGRuWOe68TMkO)
+100 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 3:13 | 2016-09-12 |  |
 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 | 2016-09-12 |  |
 | [Stand By You](https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:39 | 2016-09-12 |  |
-| [Sunday Candy](https://open.spotify.com/track/6fTdcGsjxlAD9PSkoPaLMX) | [Donnie Trumpet & The Social Experiment](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 3:46 | 2016-09-12 |  |
+| [Sunday Candy](https://open.spotify.com/track/6fTdcGsjxlAD9PSkoPaLMX) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 3:46 | 2016-09-12 |  |
 | [Super Bass](https://open.spotify.com/track/7gKIt3rDGIMJDFVSPBnGmj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/2RfF6dGpYIN5u1mNkfG8Pb) | 3:20 | 2016-09-12 |  |
 | [Teenage Dream](https://open.spotify.com/track/55qBw1900pZKfXJ6Q9A2Lc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2016-09-12 |  |
 | [That Don't Impress Me Much](https://open.spotify.com/track/1bvsVJDGG7bXsvGKfwM3yV) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/3sbhN8QlcMeCZAX80IKoW8) | 3:55 | 2016-09-12 |  |

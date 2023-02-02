@@ -4,7 +4,7 @@
 
 > Fangirls get a lot of credit for the influence they wield\. These tracks show the full force of these empowered listeners.
 
-30 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/1llK4oiMB9CMVCYdqUM4jb)
+30 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

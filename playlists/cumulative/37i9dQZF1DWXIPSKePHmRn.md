@@ -4,7 +4,7 @@
 
 > Remembering the amazing <a href="spotify:artist:6LufpoVlIYKQCu9Gjpk8B7">artist</a> \(1956–2016\)\. You will be missed.
 
-30 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/54iKo4uLPtXlCh2nwASBo8)
+30 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

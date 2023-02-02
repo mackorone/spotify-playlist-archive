@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-12",
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
   "name": "Brunch Jazz",
-  "published_playlist_ids": [
-    "1120v1OL3dMNoviL6OZjaA"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 335933,
       "name": "A Handful Of Stars",
       "url": "https://open.spotify.com/track/5KchCZytpApt4oW8f9rkLI"
@@ -188,6 +185,46 @@
     },
     {
       "album": {
+        "name": "Brass Shout",
+        "url": "https://open.spotify.com/album/4J45qykVYkRLFMQGdQEJGn"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310480,
+      "name": "Autumn Leaves - Remastered 2007",
+      "url": "https://open.spotify.com/track/0SHa5TRydRy8RCEova7OkA"
+    },
+    {
+      "album": {
+        "name": "Ben And \"Sweets\"",
+        "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537866,
+      "name": "Better Go",
+      "url": "https://open.spotify.com/track/17boI3WdTRx4eCXKsVg5Ol"
+    },
+    {
+      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
@@ -289,7 +326,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 319426,
       "name": "Blues Back",
       "url": "https://open.spotify.com/track/1HGZcacR6Drgl1o7gEv1bU"
@@ -435,7 +472,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 259933,
       "name": "Charlie Brown Theme",
       "url": "https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY"
@@ -507,7 +544,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 201173,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9"
@@ -822,6 +859,24 @@
     },
     {
       "album": {
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217993,
+      "name": "Freedom Jazz Dance",
+      "url": "https://open.spotify.com/track/2Y3LodqaNIgE1MwTaX7C6o"
+    },
+    {
+      "album": {
         "name": "New Time, New 'Tet",
         "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
       },
@@ -891,6 +946,24 @@
       "duration_ms": 223973,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
+    },
+    {
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203066,
+      "name": "Groovin' High",
+      "url": "https://open.spotify.com/track/1WJGwRV4Ij9StM8gXHMuWy"
     },
     {
       "album": {
@@ -1125,6 +1198,24 @@
       "duration_ms": 318266,
       "name": "I Thought About You",
       "url": "https://open.spotify.com/track/7w68AfSG7PL0oGcpzEcOiM"
+    },
+    {
+      "album": {
+        "name": "Blue's Moods",
+        "url": "https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/11yFXAL7mtcXaEz8CnumIq"
     },
     {
       "album": {
@@ -1376,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Saxophone Supremacy",
+        "url": "https://open.spotify.com/album/2e6azkD3xAzR0bQ8sJHPPb"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt Quartet",
+          "url": "https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230120,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/76mRDTbUFAUyG0yRMzpwwj"
+    },
+    {
+      "album": {
         "name": "Never Stop II",
         "url": "https://open.spotify.com/album/6BwHi8VM68LWmGSTEGmDCe"
       },
@@ -1520,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Oscar Peterson Plays The Cole Porter Songbook",
+        "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/6fqHlcomOg6NBwa25EK58m"
+    },
+    {
+      "album": {
         "name": "Loads Of Love",
         "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
@@ -1610,6 +1737,28 @@
     },
     {
       "album": {
+        "name": "Oscar Peterson Trio Plus One",
+        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315893,
+      "name": "Mack The Knife",
+      "url": "https://open.spotify.com/track/4tJb85eDxIIm2frcwb8PAG"
+    },
+    {
+      "album": {
         "name": "Wynton Kelly!",
         "url": "https://open.spotify.com/album/1gzCCqBq3ow0Un6gILf5Qm"
       },
@@ -1679,6 +1828,24 @@
       "duration_ms": 376333,
       "name": "March On Selma - Remastered",
       "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
+    },
+    {
+      "album": {
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465562,
+      "name": "Melody For C",
+      "url": "https://open.spotify.com/track/5333J0hIUJoXfb2S7bRsaW"
     },
     {
       "album": {
@@ -2017,10 +2184,28 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 208400,
       "name": "On the Sunny Side of the Street - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
+    },
+    {
+      "album": {
+        "name": "The Procrastinator",
+        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361973,
+      "name": "Party Time",
+      "url": "https://open.spotify.com/track/0uNoGfQIO8Jtx5vVhlhHg9"
     },
     {
       "album": {
@@ -2053,7 +2238,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 229866,
       "name": "Pepper Steak",
       "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
@@ -2158,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+    },
+    {
+      "album": {
         "name": "The Golden Flute",
         "url": "https://open.spotify.com/album/4BmWdFMdpfZgKpspsAdqZZ"
       },
@@ -2173,6 +2376,28 @@
       "duration_ms": 231706,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/5OtACP7f32kZgVEXCgVsjs"
+    },
+    {
+      "album": {
+        "name": "Bags Meets Wes [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/0MRn6bdBb83HGYCssD2Sp3"
+      },
+      "artists": [
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        },
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317413,
+      "name": "S.K.J.",
+      "url": "https://open.spotify.com/track/3cGQV0JaTjzB4nMe9h3oru"
     },
     {
       "album": {
@@ -2199,7 +2424,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 365304,
       "name": "S.N.C.F.",
       "url": "https://open.spotify.com/track/2QjzDjDawaDWHnN7KkJHhc"
@@ -2243,7 +2468,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-20",
       "duration_ms": 287000,
       "name": "Sandino",
       "url": "https://open.spotify.com/track/6RHr4ChhpvM4XKRy31xS5W"
@@ -2291,6 +2516,24 @@
       "duration_ms": 339866,
       "name": "Satin Doll",
       "url": "https://open.spotify.com/track/08KRFHK8w57Js5GZZjamll"
+    },
+    {
+      "album": {
+        "name": "Gettin' Around",
+        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380666,
+      "name": "Shiny Stockings",
+      "url": "https://open.spotify.com/track/3lul9ssgcVYSo7ivts4vPb"
     },
     {
       "album": {
@@ -2381,7 +2624,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 190120,
       "name": "Softly As In A Morning Sunrise - Rudy Van Gelder Edition, 2008 Digital Remaster",
       "url": "https://open.spotify.com/track/6I0I8uMyDHtA1nfyP8c5WE"
@@ -2435,7 +2678,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 213133,
       "name": "Somebody Loves Me",
       "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
@@ -2489,10 +2732,28 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-02",
       "duration_ms": 511093,
       "name": "Soul-Lo Blues - Remastered 1997",
       "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
+    },
+    {
+      "album": {
+        "name": "Nights Of Ballads & Blues",
+        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304333,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/4KNkkhjjYXyJMzq5fRi1gm"
     },
     {
       "album": {
@@ -2543,7 +2804,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 347773,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
@@ -2565,6 +2826,32 @@
       "duration_ms": 304373,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/6uoJ2NJAwM4ypScoRbGZyR"
+    },
+    {
+      "album": {
+        "name": "Brown And Roach Incorporated",
+        "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387000,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
     },
     {
       "album": {
@@ -2724,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294973,
+      "name": "The Touch Of Your Lips - Remastered",
+      "url": "https://open.spotify.com/track/3ZTityDuOCHIM7ow7twjmX"
+    },
+    {
+      "album": {
         "name": "The Bill Evans Album",
         "url": "https://open.spotify.com/album/5KMFvQIC2Of0UtJe9w5e0n"
       },
@@ -2837,7 +3142,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 331306,
       "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
@@ -2953,7 +3258,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 307813,
       "name": "Vibraphone Blues",
       "url": "https://open.spotify.com/track/1ClCgQ5wG7US1Q8U7YOokD"
@@ -3015,7 +3320,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 442400,
       "name": "West Coast Blues",
       "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
@@ -3037,6 +3342,24 @@
       "duration_ms": 442533,
       "name": "West Coast Blues",
       "url": "https://open.spotify.com/track/5vooXq1F3SrYJl8TGtMsHA"
+    },
+    {
+      "album": {
+        "name": "A Garland Of Red",
+        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290040,
+      "name": "What Is This Thing Called Love? - Instrumental",
+      "url": "https://open.spotify.com/track/1A2ioCDTc0lDVuCUpBwh3v"
     },
     {
       "album": {
@@ -3094,6 +3417,32 @@
     },
     {
       "album": {
+        "name": "Working the Night Shift",
+        "url": "https://open.spotify.com/album/5qnAFOL2HK4Ly20bk5ixYi"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        },
+        {
+          "name": "Michael Blicher",
+          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 235560,
+      "name": "Working the Night Shift",
+      "url": "https://open.spotify.com/track/3Z20hsq9GRuI2AP5Rx5gwW"
+    },
+    {
+      "album": {
         "name": "Wrapped Tight",
         "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
@@ -3127,6 +3476,42 @@
       "duration_ms": 344373,
       "name": "Yardbird Suite",
       "url": "https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1"
+    },
+    {
+      "album": {
+        "name": "A Swingin' Affair",
+        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394080,
+      "name": "You Stepped Out Of A Dream - Remastered",
+      "url": "https://open.spotify.com/track/1PiW5cq6ReVpNbSGMw2x1o"
+    },
+    {
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "album": {

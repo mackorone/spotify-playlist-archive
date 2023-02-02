@@ -4,7 +4,7 @@
 
 > Focus with nature sounds in the background...
 
-81 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/3PUa6ZntjsSqxBTSyN560X)
+81 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

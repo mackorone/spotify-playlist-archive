@@ -4,7 +4,7 @@
 
 > New album Planet Her and other hits
 
-68 songs - 3 hr 44 min - not published yet
+68 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Control](https://open.spotify.com/track/43uFv6f0uBYBhfr6XncqAe) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Purrr!](https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y) | 3:40 | 2022-06-07 |  |
 | [Cookie Jar](https://open.spotify.com/track/4QdjPwwCCq3ifWVHiRj3jx) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:19 | 2022-06-07 |  |
 | [Cyber Sex](https://open.spotify.com/track/1ghvzmzpx2nnrbx7wtpMgo) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:45 | 2022-06-07 |  |
-| [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2022-06-07 |  |
+| [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2022-06-07 |  |
 | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa) | 4:15 | 2022-06-07 |  |
 | [Equally Lost \(feat\. Doja Cat\)](https://open.spotify.com/track/0zFComc9VzjCKWm4PSbIJk) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Sunshine Kitty](https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW) | 2:14 | 2022-06-07 |  |
 | [Fancy](https://open.spotify.com/track/3hFIXFEPtvruqYsoMW2eKN) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala \(Deluxe Version\)](https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU) | 2:59 | 2022-06-07 |  |

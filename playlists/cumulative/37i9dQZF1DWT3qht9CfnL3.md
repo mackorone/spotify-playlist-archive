@@ -4,7 +4,7 @@
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-89 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/1NWFMjrHiHs2XyVkwZbAl3)
+89 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

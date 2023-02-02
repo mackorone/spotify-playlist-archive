@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Musica dance per le tue giornate di sole!",
   "name": "Voglia di Sole",
-  "published_playlist_ids": [
-    "3Pw35BSQu6TzKW6AUFPPlG"
-  ],
   "tracks": [
     {
       "album": {
@@ -137,10 +134,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 222830,
       "name": "Alive (with Calle Lehmann)",
       "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
+    },
+    {
+      "album": {
+        "name": "Always Be There",
+        "url": "https://open.spotify.com/album/5AjjKzTDARZEg5gPPJx597"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198407,
+      "name": "Always Be There",
+      "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
     },
     {
       "album": {
@@ -237,6 +256,32 @@
       "duration_ms": 207047,
       "name": "Ay Mam\u00e1 - HEREN Radio Edit",
       "url": "https://open.spotify.com/track/1bynb2P0VxAYnOJlvoauWt"
+    },
+    {
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196214,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
     },
     {
       "album": {
@@ -501,7 +546,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 175081,
       "name": "Breathe (feat. kaspara)",
       "url": "https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r"
@@ -680,6 +725,28 @@
     },
     {
       "album": {
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "World's First Cinema",
+          "url": "https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215527,
+      "name": "Castles",
+      "url": "https://open.spotify.com/track/3QdzpmSbCNb8zh98lnUeXE"
+    },
+    {
+      "album": {
         "name": "Caught Up (with Olivia O'Brien)",
         "url": "https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6"
       },
@@ -827,7 +894,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 179853,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
@@ -1319,7 +1386,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 221500,
       "name": "Future In Your Hands (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6"
@@ -2369,7 +2436,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 168635,
       "name": "Love No More",
       "url": "https://open.spotify.com/track/0E8WJOFs2eWD67USh7C6Qd"
@@ -2483,7 +2550,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 187372,
       "name": "Make You Feel Like",
       "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
@@ -2710,7 +2777,7 @@
     },
     {
       "album": {
-        "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
+        "name": "Never Love You Again",
         "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
       },
       "artists": [
@@ -2731,7 +2798,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191329,
-      "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
+      "name": "Never Love You Again",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
     },
     {
@@ -2791,7 +2858,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 168727,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6"
@@ -2831,7 +2898,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 210943,
       "name": "Not Ok",
       "url": "https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x"
@@ -2849,7 +2916,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 136250,
       "name": "Not the One",
       "url": "https://open.spotify.com/track/481ZLYM7FUam5FACXysCev"
@@ -3129,7 +3196,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 160343,
       "name": "Parrot Cay",
       "url": "https://open.spotify.com/track/24CU3VcY0KpF4frH20OY4x"
@@ -3426,6 +3493,32 @@
     },
     {
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6h8sC5uwBGO0Wu6EiToz6a"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168196,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/19boUY253NrYTqJMh50d5X"
+    },
+    {
+      "album": {
         "name": "Runaway (with Sigala and JP Cooper)",
         "url": "https://open.spotify.com/album/3ZdVOcrDeEyQt9UNPubYgo"
       },
@@ -3445,7 +3538,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 168196,
       "name": "Runaway (with Sigala and JP Cooper)",
       "url": "https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC"
@@ -3778,6 +3871,28 @@
     },
     {
       "album": {
+        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
+        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+        },
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193475,
+      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
+      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
+    },
+    {
+      "album": {
         "name": "Stop This Flame (Celeste x MK)",
         "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
       },
@@ -3903,7 +4018,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": "2023-01-24",
       "duration_ms": 149487,
       "name": "Summer Thing",
       "url": "https://open.spotify.com/track/5UbJD3lat3SVDDBXmf8gLc"
@@ -4097,7 +4212,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 158354,
       "name": "The Best",
       "url": "https://open.spotify.com/track/1OU3OPHczBcfFU8cDzSzKT"
@@ -4332,6 +4447,24 @@
     },
     {
       "album": {
+        "name": "Until the Sun Goes Down",
+        "url": "https://open.spotify.com/album/3VxntUkcFedZ4GUpEXJFMw"
+      },
+      "artists": [
+        {
+          "name": "Cristian Marchi",
+          "url": "https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151967,
+      "name": "Until the Sun Goes Down",
+      "url": "https://open.spotify.com/track/7enRXIlD4EXNFiTw0F90pW"
+    },
+    {
+      "album": {
         "name": "Way It Is",
         "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
       },
@@ -4347,7 +4480,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-21",
       "duration_ms": 192905,
       "name": "Way It Is",
       "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"

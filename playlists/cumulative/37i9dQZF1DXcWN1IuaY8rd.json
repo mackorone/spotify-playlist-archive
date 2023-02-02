@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-06-10",
   "description": "Enjoy the world of \u201cBlack Clover\u201d! \u9b54\u6cd5\u5e1d\u3092\u76ee\u6307\u3059\u5c11\u5e74\u305f\u3061\u306e\u7269\u8a9e\u3092\u6b74\u4ee3OP/ED\u3001\u30b5\u30f3\u30c8\u30e9\u66f2\u3067\u304a\u697d\u3057\u307f\u304f\u3060\u3055\u3044\u3002\u00a9 \u7530\u7560\u88d5\u57fa\uff0f\u96c6\u82f1\u793e\u30fb\u30c6\u30ec\u30d3\u6771\u4eac\u30fb\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc\u88fd\u4f5c\u59d4\u54e1\u4f1a",
   "name": "Black Clover -\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc-",
-  "published_playlist_ids": [
-    "0MCrS85VoM1t1atVY1kaao"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Walk",
+        "url": "https://open.spotify.com/album/2W1erva7HEgdfcx4I5UssN"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u539f\u5cb3\u4eba",
+          "url": "https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259973,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/0PievpCNM93Ukg5q5XWu8X"
+    },
     {
       "album": {
         "name": "against all gods",
@@ -185,6 +200,24 @@
       "duration_ms": 177115,
       "name": "Harukamirai",
       "url": "https://open.spotify.com/track/1dN7OMrMKink43A5uhARSR"
+    },
+    {
+      "album": {
+        "name": "Here I Stand (Anime Edit)",
+        "url": "https://open.spotify.com/album/7makenyxwdnXOdla8Z4DY2"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96343,
+      "name": "Here I Stand - Anime Edit",
+      "url": "https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I"
     },
     {
       "album": {

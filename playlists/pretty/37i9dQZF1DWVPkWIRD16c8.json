@@ -1,29 +1,13 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 29241,
+  "num_followers": 31689,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDA1NTQ3OGVmYmI2ZjYzYjNhYjM4NDRkZjQ5M2I3MTk3",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDI2NjkxOTg0MzMwYjc0NWM2ZGJjMmM3ZDM0NGQ2ZTIw",
   "tracks": [
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 333386,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
-    },
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 215613,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -79,22 +79,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Pat Barrett",
-        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "All The People Said Amen",
         "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
       },
@@ -107,6 +91,38 @@
       "duration_ms": 205666,
       "name": "Lord, I Need You",
       "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Pat Barrett",
+        "url": "https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -203,22 +219,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Hills and Valleys (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
       },
@@ -303,18 +303,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
       },
       "artists": [
         {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -335,50 +335,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
         }
       ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
-      },
-      "artists": [
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "Control (Somehow You Want Me)",
-      "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/1QcPl6AFNTiczxCuSpOoEM"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 230610,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/68Vm2W4oURsPV3121vUZgB"
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -407,6 +375,54 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "The Story's Not Over",
+        "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 248733,
+      "name": "Control (Somehow You Want Me)",
+      "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "The Elements",
+        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "I just need U.",
+      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV"
       },
@@ -423,18 +439,34 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1QcPl6AFNTiczxCuSpOoEM"
       },
       "artists": [
         {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 217866,
-      "name": "No Impossible with You",
-      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+      "duration_ms": 230610,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/68Vm2W4oURsPV3121vUZgB"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251714,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -455,50 +487,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "The Story's Not Over",
-        "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
       "artists": [
         {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "A Way to See in the Dark",
-        "url": "https://open.spotify.com/album/70mx4CmJ3HDkkaFOZHHJ7t"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Remind Me Who I Am",
-      "url": "https://open.spotify.com/track/7a9EoyKfRjz7lOW43Z8ZRW"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "The Elements",
-        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "I just need U.",
-      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
+      "duration_ms": 217866,
+      "name": "No Impossible with You",
+      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -535,18 +535,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+        "name": "A Way to See in the Dark",
+        "url": "https://open.spotify.com/album/70mx4CmJ3HDkkaFOZHHJ7t"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 251714,
-      "name": "Love Theory",
-      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+      "duration_ms": 227266,
+      "name": "Remind Me Who I Am",
+      "url": "https://open.spotify.com/track/7a9EoyKfRjz7lOW43Z8ZRW"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -567,6 +567,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "The Best Yet",
         "url": "https://open.spotify.com/album/2VEuUgMk7r1fFYQ4toPVHc"
       },
@@ -583,6 +599,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Maybe It's Ok",
+      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
       },
@@ -595,38 +627,6 @@
       "duration_ms": 298226,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Listen To The Sound",
-        "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -723,54 +723,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "I Know A Ghost",
-        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
+        "name": "Listen To The Sound",
+        "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
       },
       "artists": [
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 209840,
-      "name": "Let It Rain (Is There Anybody)",
-      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Maybe It's Ok",
-      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Eye On It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 214665,
-      "name": "Me Without You",
-      "url": "https://open.spotify.com/track/3LEBulRQI5hHe2TUKKswUf"
+      "duration_ms": 200373,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -795,18 +759,38 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Live Like That",
-        "url": "https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38"
+        "name": "I Know A Ghost",
+        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
       "artists": [
         {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         }
       ],
-      "duration_ms": 237198,
-      "name": "Live Like That",
-      "url": "https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh"
+      "duration_ms": 209840,
+      "name": "Let It Rain (Is There Anybody)",
+      "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Eye On It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 214665,
+      "name": "Me Without You",
+      "url": "https://open.spotify.com/track/3LEBulRQI5hHe2TUKKswUf"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -827,6 +811,38 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Live Like That",
+        "url": "https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 237198,
+      "name": "Live Like That",
+      "url": "https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Saved",
         "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
       },
       "artists": [
         {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
         }
       ],
-      "duration_ms": 281160,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW"
+      "duration_ms": 194680,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -875,18 +891,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Prize Worth Fighting For",
-        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
+        "name": "Never Lost",
+        "url": "https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt"
       },
       "artists": [
         {
-          "name": "Jamie Kimmett",
-          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 200520,
-      "name": "Prize Worth Fighting For",
-      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
+      "duration_ms": 315538,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -911,50 +927,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Never Lost",
-        "url": "https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt"
+        "name": "Prize Worth Fighting For",
+        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Jamie Kimmett",
+          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
         }
       ],
-      "duration_ms": 315538,
-      "name": "Never Lost",
-      "url": "https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "When We Fall Apart",
-      "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
-      },
-      "artists": [
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
+      "duration_ms": 200520,
+      "name": "Prize Worth Fighting For",
+      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -979,18 +963,34 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Out Of The Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0"
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9"
       },
       "artists": [
         {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
         }
       ],
-      "duration_ms": 212600,
-      "name": "Unfinished",
-      "url": "https://open.spotify.com/track/597GRV7fJ030diN3BTWpKS"
+      "duration_ms": 267333,
+      "name": "When We Fall Apart",
+      "url": "https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Ready to Fly",
+        "url": "https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb"
+      },
+      "artists": [
+        {
+          "name": "Jamie Grace",
+          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/5CpLuLmPq50KMIHoUA4L8Z"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1019,50 +1019,34 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Ready to Fly",
-        "url": "https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb"
+        "name": "Out Of The Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0"
       },
       "artists": [
         {
-          "name": "Jamie Grace",
-          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         }
       ],
-      "duration_ms": 190026,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/5CpLuLmPq50KMIHoUA4L8Z"
+      "duration_ms": 212600,
+      "name": "Unfinished",
+      "url": "https://open.spotify.com/track/597GRV7fJ030diN3BTWpKS"
     },
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+        "name": "Flags",
+        "url": "https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR"
       },
       "artists": [
         {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+          "name": "Brooke Fraser",
+          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
         }
       ],
-      "duration_ms": 261880,
-      "name": "The Only Name (Yours Will Be)",
-      "url": "https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Dark Is The Way, Light Is A Place",
-        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
+      "duration_ms": 183073,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Flags",
-        "url": "https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR"
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
       "artists": [
         {
-          "name": "Brooke Fraser",
-          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 183073,
-      "name": "Something in the Water",
-      "url": "https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW"
+      "duration_ms": 261880,
+      "name": "The Only Name (Yours Will Be)",
+      "url": "https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1119,6 +1103,26 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Even Louder",
+        "url": "https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Even Louder",
+      "url": "https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/4nrfC2KI741CXHq1wqvHoY"
       },
@@ -1131,6 +1135,38 @@
       "duration_ms": 202960,
       "name": "It's Gonna Get Better",
       "url": "https://open.spotify.com/track/2FAe8dckXKBLgKoiDEkdi8"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Dark Is The Way, Light Is A Place",
+        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Jordan Feliz Collection",
+        "url": "https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 226886,
+      "name": "Faith - Radio Version",
+      "url": "https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1167,42 +1203,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Jordan Feliz Collection",
-        "url": "https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 226886,
-      "name": "Faith - Radio Version",
-      "url": "https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Even Louder",
-        "url": "https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 209647,
-      "name": "Even Louder",
-      "url": "https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "God Knows (Must Be Love) - Radio Edit",
         "url": "https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0"
       },
@@ -1215,38 +1215,6 @@
       "duration_ms": 236453,
       "name": "God Knows (Must Be Love) - Radio Edit",
       "url": "https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "The Hurt & The Healer",
-        "url": "https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "You Are I Am",
-      "url": "https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1267,6 +1235,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "The Same Jesus",
+        "url": "https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 225996,
+      "name": "The Same Jesus",
+      "url": "https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Yes I Will (Studio Version)",
         "url": "https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 216973,
       "name": "Yes I Will (Studio Version)",
       "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "The Hurt & The Healer",
+        "url": "https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "You Are I Am",
+      "url": "https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli"
     }
   ],
   "unique_name": "Christian Road Trip",

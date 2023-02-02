@@ -4,7 +4,7 @@
 
 > Be like water....<br/>Get into the flow with calming sounds of running streams.
 
-110 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/5lBubUXoaR27mjhSFRWH6Z)
+110 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Birds and A Beautiful Brook](https://open.spotify.com/track/4OYT2GFHJmObxsuZdA8m0R) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Sounds Of The Forest](https://open.spotify.com/album/4LRcAAnR6Zlg200Op6tiZC) | 2:08 | 2022-08-04 |  |
 | [Blissful Brook \(Rain\)](https://open.spotify.com/track/3fEv1aGc7IsFlDUUrxIsWL) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Blissful Nature Sounds](https://open.spotify.com/album/07rmOLfWdDDM4rJx1VhjR6) | 3:12 | 2022-08-04 |  |
 | [Brook after Waterfall](https://open.spotify.com/track/5XUcGcA1THh4obog4x1YcI) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:04 | 2022-08-04 |  |
-| [Burbling Riverfall](https://open.spotify.com/track/6X3QzkvdFTwyNyOYMXS4Fl) | [Riverfall Science](https://open.spotify.com/artist/2IAiURSzgT4eTvDsMhemhX) | [Studies of a River](https://open.spotify.com/album/6cYG51oG7P8Qrc8FbShQI9) | 3:58 | 2022-08-04 |  |
+| [Burbling Riverfall](https://open.spotify.com/track/6X3QzkvdFTwyNyOYMXS4Fl) | [Riverfall Science](https://open.spotify.com/artist/2zCsCmVmbXdxPPfrQzaRfJ) | [Studies of a River](https://open.spotify.com/album/6cYG51oG7P8Qrc8FbShQI9) | 3:58 | 2022-08-04 |  |
 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 | 2022-08-04 |  |
 | [Calm River \- River](https://open.spotify.com/track/690MbFxAbbw2L9itdNbPbw) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 3:53 | 2022-08-04 |  |
 | [Calm River Noise](https://open.spotify.com/track/4khXlaLUgJZnC683jmW6wF) | [The Outdoor Library](https://open.spotify.com/artist/3LhW1K0Q3xRX4PzqLlEx0F) | [Calm River Noise](https://open.spotify.com/album/0yZJu6HXP6Xxit4hdkak7I) | 3:21 | 2022-08-04 |  |
@@ -34,7 +34,7 @@
 | [Fast Flowing River \- Seamless](https://open.spotify.com/track/0kqEkGV3rpy6BvVuM9x1EB) | [Sleepy Falls](https://open.spotify.com/artist/4YEs6CRrsB6P1JZtNVZ09C) | [Rivers And Streams](https://open.spotify.com/album/3l3fLrLSL3024gMcvVLt9c) | 1:50 | 2022-08-04 |  |
 | [Fast River on Rocks](https://open.spotify.com/track/6vhtvMNhtj2207rx9j5lH9) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Jungle River Rapids](https://open.spotify.com/album/0ICLrHqdJ36IN30dyM7B7T) | 3:00 | 2022-08-04 |  |
 | [Feel The River](https://open.spotify.com/track/6MLGJkWExg0JHkG5Sq3B50) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Feel The River](https://open.spotify.com/album/54zVwrIbAn0hn99p2cOegi) | 3:20 | 2022-08-04 |  |
-| [Fierce Stream](https://open.spotify.com/track/1PgJbDQ8HQu41paBJGKo2D) | [Forest Treasures](https://open.spotify.com/artist/7Mted4UtEmtfL8RUBKybu5) | [Fierce Stream](https://open.spotify.com/album/2WottxBO0alEOyKvzpBGSi) | 3:54 | 2022-08-04 |  |
+| [Fierce Stream](https://open.spotify.com/track/1PgJbDQ8HQu41paBJGKo2D) | [Forest Treasures](https://open.spotify.com/artist/4JYeGAbcGu32UoJYNf4Awd) | [Fierce Stream](https://open.spotify.com/album/2WottxBO0alEOyKvzpBGSi) | 3:54 | 2022-08-04 |  |
 | [Fjällbäck](https://open.spotify.com/track/6d54aNX0e0Y4IvncHa3whr) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [More Swedish River Sounds](https://open.spotify.com/album/4yhFtZFQE8rgGX81kYWAlv) | 2:02 | 2022-08-04 |  |
 | [Floating Stream](https://open.spotify.com/track/4nFKWdiu58GCEps0qmcbfj) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Floating Stream](https://open.spotify.com/album/6zCw3WHLqjCvc3EhEstCYo) | 2:24 | 2022-08-04 |  |
 | [Flod i skogen](https://open.spotify.com/track/3RfktG11RapLgNH1qgHWgc) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Floden](https://open.spotify.com/album/59DYy1L2g1AQu8OvnRoccW) | 3:18 | 2022-08-04 |  |
@@ -94,7 +94,7 @@
 | [Spring Creek](https://open.spotify.com/track/1jx4tG84pDPSGOMrKn8g9g) | [Surrounded by Sound](https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i) | [Forest Creeks](https://open.spotify.com/album/1xm82kni5tXwYZYwfGkxG7) | 3:21 | 2022-08-04 |  |
 | [Steady River, Water on Rocks](https://open.spotify.com/track/0MwnX9BPBrIWPy76Sm5eUT) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [3D Audio Textures of the River](https://open.spotify.com/album/2USCB87emFJWHZssoPEeGu) | 1:58 | 2022-08-04 |  |
 | [Steady Waterfall](https://open.spotify.com/track/1w4LsiXcSP9JyEeHPNS9Fk) | [Waterfalling](https://open.spotify.com/artist/3e0rJbfOEVSWe77JRZWGXd) | [Waterfalling](https://open.spotify.com/album/7qA6Aqaktt9X2qw9wbohuI) | 4:15 | 2022-08-04 |  |
-| [Stream after Rainfall](https://open.spotify.com/track/6oFpFzqMPOyVGN42WvYeBx) | [Forest Treasures](https://open.spotify.com/artist/7Mted4UtEmtfL8RUBKybu5) | [Fierce Stream](https://open.spotify.com/album/2WottxBO0alEOyKvzpBGSi) | 3:12 | 2022-08-04 |  |
+| [Stream after Rainfall](https://open.spotify.com/track/6oFpFzqMPOyVGN42WvYeBx) | [Forest Treasures](https://open.spotify.com/artist/4JYeGAbcGu32UoJYNf4Awd) | [Fierce Stream](https://open.spotify.com/album/2WottxBO0alEOyKvzpBGSi) | 3:12 | 2022-08-04 |  |
 | [Stream in Kauai](https://open.spotify.com/track/5lAwfHf4iij8ssWqwSLgor) | [Falling Waters](https://open.spotify.com/artist/0GhLlqPliovYHFcVlk6zvW) | [Water Sounds in Kauai](https://open.spotify.com/album/5XopQLq359oTN58aD3hH8I) | 2:30 | 2022-08-04 |  |
 | [Stream Three](https://open.spotify.com/track/48qRXWcmClJrIyaQ0TSXNU) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Part II](https://open.spotify.com/album/75UIRk0PxOfWNFJRupK4TD) | 3:09 | 2022-08-04 |  |
 | [Stream to the Waterfall](https://open.spotify.com/track/1kgabwYM9KxzRzcuxkjIq6) | [Island Nature Sounds](https://open.spotify.com/artist/6uUdEOkdbmk16c33lfs9XI) | [Calming Hawaiian Water Sounds](https://open.spotify.com/album/2vacWEE2Pj9mVjTzstcClq) | 1:59 | 2022-08-04 |  |

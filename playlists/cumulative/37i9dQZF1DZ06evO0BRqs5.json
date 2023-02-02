@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-06-10",
   "description": "This is Eir Aoi. The essential tracks, all in one playlist.",
   "name": "This Is Eir Aoi",
-  "published_playlist_ids": [
-    "0RiCMVj1fDLgP3TQwhgent"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "ANSWER",
+        "url": "https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "ANSWER",
+      "url": "https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet"
+    },
     {
       "album": {
         "name": "BLAU",
@@ -77,6 +92,24 @@
       "duration_ms": 310626,
       "name": "CaCO -Instrumental",
       "url": "https://open.spotify.com/track/58H90Fan0uwDxquVbZ6yFK"
+    },
+    {
+      "album": {
+        "name": "KALEIDOSCOPE",
+        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209546,
+      "name": "Campanula",
+      "url": "https://open.spotify.com/track/4fygeSa7eyfrKHSvaX9yn3"
     },
     {
       "album": {
@@ -253,10 +286,28 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 243730,
       "name": "HELLO HELLO HELLO",
       "url": "https://open.spotify.com/track/2CR2wXrrSqyAIegVOl8IzF"
+    },
+    {
+      "album": {
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245026,
+      "name": "HELLO HELLO HELLO",
+      "url": "https://open.spotify.com/track/1IlMcBvlQlPSd58GxEHX44"
     },
     {
       "album": {
@@ -710,6 +761,24 @@
     },
     {
       "album": {
+        "name": "FRAGMENT (Special Edition)",
+        "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259466,
+      "name": "\u30b0\u30ed\u30fc\u30a2\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/1JnzJ2SnSrsiUSXIGkvX06"
+    },
+    {
+      "album": {
         "name": "AUBE",
         "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
       },
@@ -811,7 +880,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 89666,
       "name": "\u30b7\u30ea\u30a6\u30b9(TV Size ver.)",
       "url": "https://open.spotify.com/track/6qSXKVVqqHHw1BN9ctDn3s"
@@ -919,7 +988,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 302693,
       "name": "\u30e6\u30e1\u30bb\u30ab\u30a4",
       "url": "https://open.spotify.com/track/7MM3JGBeBLIK3zV6spGXji"
@@ -977,6 +1046,24 @@
       "duration_ms": 285026,
       "name": "\u30ea\u30f3\u30c9\u30a6\u306e\u82b1",
       "url": "https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef"
+    },
+    {
+      "album": {
+        "name": "KALEIDOSCOPE",
+        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "\u30ed\u30bc",
+      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
     },
     {
       "album": {
@@ -1063,10 +1150,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 256680,
       "name": "\u6708\u3092\u8ffd\u3046\u771f\u591c\u4e2d",
       "url": "https://open.spotify.com/track/44nPRe9D8i3BJiTcxYyfp3"
+    },
+    {
+      "album": {
+        "name": "KALEIDOSCOPE",
+        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256693,
+      "name": "\u6708\u3092\u8ffd\u3046\u771f\u591c\u4e2d",
+      "url": "https://open.spotify.com/track/7iuJWDLufY9spbErOgImjj"
     },
     {
       "album": {
@@ -1081,7 +1186,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 300960,
       "name": "\u6ce1\u6cab",
       "url": "https://open.spotify.com/track/51zZOB0rwq7Hr304eY1pJd"
@@ -1225,7 +1330,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 270733,
       "name": "\u8fd1\u672a\u6765\u4ea4\u97ff\u66f2",
       "url": "https://open.spotify.com/track/4hMcTL6kTCzIgmOxQJlqoz"

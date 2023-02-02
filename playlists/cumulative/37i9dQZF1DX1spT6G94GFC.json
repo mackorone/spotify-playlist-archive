@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "These songs rocked the 80s.",
   "name": "80s Rock Anthems",
-  "published_playlist_ids": [
-    "4jYRsZsdPBj4GY3BTjud4Q"
-  ],
   "tracks": [
     {
       "album": {
@@ -1989,7 +1986,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 256933,
       "name": "Rainbow in the Dark",
       "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
@@ -2554,7 +2551,7 @@
     },
     {
       "album": {
-        "name": "Don't Say No",
+        "name": "Don't Say No (Remastered 2010)",
         "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
       },
       "artists": [
@@ -2567,7 +2564,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217613,
-      "name": "The Stroke - Remastered",
+      "name": "The Stroke - Remastered 2010",
       "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
     },
     {
@@ -2721,7 +2718,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"

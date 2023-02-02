@@ -4,7 +4,7 @@
 
 > Nordic underground pioneer <a href="spotify:artist:5vdjF79d5d2m12FOkJhxHB">Jeremy Olander</a> steps up to the decks to take you on a journey through melody!
 
-11 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/15pEnJQs8SZZKwhnwE8Niq)
+11 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-14",
   "description": "Work or rest with these gems from the 80s.",
   "name": "Chilled 80s",
-  "published_playlist_ids": [
-    "2Cgd8hsxaYihdEGXj2hiiD"
-  ],
   "tracks": [
     {
       "album": {
@@ -405,7 +402,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 292666,
       "name": "Behind the Veil (with Terry Bozzio & Tony Hymas)",
       "url": "https://open.spotify.com/track/1zC1tzJToHYYZuTbYbZ4Dl"
@@ -593,7 +590,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 298826,
       "name": "Contacting My Angel",
       "url": "https://open.spotify.com/track/3oy4xC2pSV0ieFvd7RAYAH"
@@ -979,7 +976,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 239986,
       "name": "From a Late Night Train",
       "url": "https://open.spotify.com/track/0rbTIpiUPIRzqn3jJpghNr"
@@ -1105,7 +1102,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 286666,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE"
@@ -1123,7 +1120,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 286666,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/1B1Y52ftMyCmgjPsEMQDqq"
@@ -1663,7 +1660,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202906,
       "name": "Lady Marian - Remastered 2003",
       "url": "https://open.spotify.com/track/4hCacl8149uMvU4EBx4c19"
@@ -2023,7 +2020,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 244066,
       "name": "Otterley",
       "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
@@ -2354,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "Sailing / Poor Shirley (Digital 45)",
+        "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255453,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -2365,7 +2380,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 256146,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
@@ -2401,7 +2416,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 387253,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/6X8zrGoGa1zKgIO2PMq3Bk"

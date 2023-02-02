@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Songs that will make you and your kids laugh.",
   "name": "Silliest Songs Ever",
-  "published_playlist_ids": [
-    "6oqlMpPWfZSiIArFsJgjYS"
-  ],
   "tracks": [
     {
       "album": {
@@ -708,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Spaghetti Bolognaise",
+        "url": "https://open.spotify.com/album/0QDafhENJmTHwLCev4X5wV"
+      },
+      "artists": [
+        {
+          "name": "Peter Combe",
+          "url": "https://open.spotify.com/artist/0UrDI2pvxUUaSgkaSkcpjb"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "Mr Clicketty Cane (Wash Your Face In Orange Juice)",
+      "url": "https://open.spotify.com/track/6CSR4ZKN43afBsT0K156RP"
+    },
+    {
+      "album": {
         "name": "\"Weird Al\" Yankovic",
         "url": "https://open.spotify.com/album/1gnhuWdl30liEUM2jy9lxl"
       },
@@ -1275,7 +1290,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 154133,
       "name": "Wash Your Face in Orange Juice",
       "url": "https://open.spotify.com/track/5jRkrMEQx5FSGIK4EAFvNa"

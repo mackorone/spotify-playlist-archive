@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Descubre los nuevos talentos de Argentina, Chile y Uruguay. \nFoto: Zoe Gotusso.",
   "name": "Radar Al Sur",
-  "published_playlist_ids": [
-    "5Pxi8eyAIqTOgi5TjZfI4h"
-  ],
   "tracks": [
     {
       "album": {
@@ -689,10 +686,28 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 254224,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "album": {

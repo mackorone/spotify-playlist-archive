@@ -4,7 +4,7 @@
 
 > Sounds to wrap you in relaxation and ease\. Curated by the <a href="https://mamaglowfoundation.org/">Mama Glow Foundation</a> advancing reproductive justice and birth equity through education, advocacy and the arts \| Cover: A Beautiful Chorus
 
-59 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/31D8aL5P5FRmx6GLWrdxLs)
+59 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

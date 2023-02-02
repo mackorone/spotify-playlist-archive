@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-18",
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
   "name": "This Is The Beach Boys",
-  "published_playlist_ids": [
-    "51qnZhHx65i9PJjlYRamwa"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-02-02",
       "duration_ms": 120866,
       "name": "409",
       "url": "https://open.spotify.com/track/1gWj5OlKlZmBvtkYxluZux"
@@ -98,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Sail On Sailor \u2013 1972 (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0tOjOMLH9dwS5ITlwtgz9k"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 191753,
+      "name": "All This Is That - A Cappella",
+      "url": "https://open.spotify.com/track/4iXorlF9bZNaFEsQgZ3JT3"
+    },
+    {
+      "album": {
         "name": "All This Is That / Carry Me Home / You Need A Mess Of Help To Stand Alone",
         "url": "https://open.spotify.com/album/4iF9umaUMiPWmTteogYpMF"
       },
@@ -109,7 +124,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 191760,
       "name": "All This Is That - A Cappella",
       "url": "https://open.spotify.com/track/2oIwC1XlEBB2ckr9EOh47d"
@@ -127,7 +142,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-29",
       "duration_ms": 133893,
       "name": "Barbara Ann",
       "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
@@ -167,6 +182,28 @@
       "duration_ms": 204373,
       "name": "California Dreamin' - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/4MHzXgBy7hexDe2Bto11hP"
+    },
+    {
+      "album": {
+        "name": "The Beach Boys With The Royal Philharmonic Orchestra",
+        "url": "https://open.spotify.com/album/11IshdNymucuMOL1GcleRX"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165915,
+      "name": "California Girls",
+      "url": "https://open.spotify.com/track/2RLP5aLMGkH8S3veAjAL6w"
     },
     {
       "album": {
@@ -235,10 +272,46 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 206186,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/5Ohn8E8hjkz8f5ed8i6ifv"
+    },
+    {
+      "album": {
+        "name": "Sail On Sailor \u2013 1972 (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0tOjOMLH9dwS5ITlwtgz9k"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 206189,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/6Wc14HD0svJnrl1FX6fYp3"
+    },
+    {
+      "album": {
+        "name": "Keep An Eye On Summer - The Beach Boys Sessions 1964",
+        "url": "https://open.spotify.com/album/47Hlcbv77B0Oljb3NlPMFG"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 189502,
+      "name": "Christmas Eve - Instrumental Mix",
+      "url": "https://open.spotify.com/track/4unPoTl8WZeUouTgSjTMmj"
     },
     {
       "album": {
@@ -289,7 +362,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2023-01-26",
       "duration_ms": 250960,
       "name": "Disney Girls (1957) - Remastered 2009",
       "url": "https://open.spotify.com/track/17qLiavc8woWHAPAGZD0Py"
@@ -361,7 +434,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 174293,
       "name": "Don't Talk (Put Your Head On My Shoulder) - Mono / Remastered",
       "url": "https://open.spotify.com/track/6gDRRyg6bSODdwbuUBupoU"
@@ -379,7 +452,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
@@ -520,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Sail On Sailor \u2013 1972 (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0tOjOMLH9dwS5ITlwtgz9k"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175288,
+      "name": "God Only Knows - Live At Carnegie Hall",
+      "url": "https://open.spotify.com/track/05lzeSb3W1KJtZ2Xm6aDXB"
+    },
+    {
+      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -585,7 +676,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 168240,
       "name": "Help Me, Rhonda - Single Version/Remastered 2001",
       "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
@@ -639,7 +730,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 30026,
       "name": "Heroes And Villains: Children Were Raised - Master Take A Capella/2011 Smile Version",
       "url": "https://open.spotify.com/track/6zn75Spo8o9g4Hj5NAu3n2"
@@ -769,7 +860,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 230856,
       "name": "Kokomo",
       "url": "https://open.spotify.com/track/3wgxpFGbgAighXR6eo56nW"
@@ -805,7 +896,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 158524,
       "name": "Lavender - Take 4",
       "url": "https://open.spotify.com/track/0aSMm4gT44cPk9NwnIl19N"
@@ -859,7 +950,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 100933,
       "name": "Little Deuce Coupe - Remastered",
       "url": "https://open.spotify.com/track/75WMOzv7195ziyx0qEw1yE"
@@ -895,7 +986,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": "2023-01-28",
       "duration_ms": 143680,
       "name": "Lonely Sea (Mono)",
       "url": "https://open.spotify.com/track/465pSbGkS2UnH9ECAr22La"
@@ -1093,7 +1184,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 121360,
       "name": "Stoked - Remastered 2001",
       "url": "https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd"
@@ -1165,7 +1256,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 126640,
       "name": "Surfin' Safari - Mono/Remastered 2001",
       "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"
@@ -1201,10 +1292,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-02",
       "duration_ms": 149373,
       "name": "Surfin' U.S.A. - Remastered 2001",
       "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "Tears In The Morning - Remastered 2009",
+      "url": "https://open.spotify.com/track/0iz2Pm0bYYrHcuFletpNPT"
     },
     {
       "album": {
@@ -1262,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 129360,
+      "name": "Vegetables - Remastered 2001",
+      "url": "https://open.spotify.com/track/62XI1qJo62w0rvTldCHl9P"
+    },
+    {
+      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -1273,7 +1400,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 153205,
       "name": "Wouldn't It Be Nice - Remastered 2000 / Stereo Mix",
       "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
@@ -1313,7 +1440,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 211893,
       "name": "You Need A Mess Of Help To Stand Alone - Live At Carnegie Hall",
       "url": "https://open.spotify.com/track/02OpsoLFQizrRkr4TxwGTI"

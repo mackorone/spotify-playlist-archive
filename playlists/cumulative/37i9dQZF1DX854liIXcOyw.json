@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "The tracks sticking us together.",
   "name": "Family Glue",
-  "published_playlist_ids": [
-    "6aSSyX8VxZUP0casiY1twa"
-  ],
   "tracks": [
     {
       "album": {
@@ -117,6 +114,24 @@
       "duration_ms": 158253,
       "name": "A Teenager In Love",
       "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
+    },
+    {
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
     },
     {
       "album": {
@@ -301,10 +316,32 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
     },
     {
       "album": {
@@ -2891,7 +2928,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 190058,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
@@ -2927,7 +2964,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 292400,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
@@ -3863,7 +3900,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 203653,
       "name": "New Shoes",
       "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
@@ -4141,7 +4178,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 225992,
       "name": "Physical - Remastered 2021",
       "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
@@ -4325,6 +4362,24 @@
       "duration_ms": 275466,
       "name": "Reelin' In The Years",
       "url": "https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2"
+    },
+    {
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277467,
+      "name": "Reelin' In The Years",
+      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
     },
     {
       "album": {
@@ -4519,7 +4574,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 215080,
       "name": "September",
       "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
@@ -5099,7 +5154,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-22",
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
@@ -5169,7 +5224,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -5180,6 +5235,24 @@
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
@@ -5793,7 +5866,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 246666,
       "name": "Valerie",
       "url": "https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB"

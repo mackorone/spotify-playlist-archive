@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Good vibes for good times!",
   "name": "Reggae Party",
-  "published_playlist_ids": [
-    "5mjM1Y8WNUCGGkDhXj1uoY"
-  ],
   "tracks": [
     {
       "album": {
@@ -255,7 +252,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "Corona and Lime",
       "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
@@ -897,10 +894,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 154455,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/1iJ2W8I5UDk03gZyJwHPr8"
+    },
+    {
+      "album": {
+        "name": "Just Dance",
+        "url": "https://open.spotify.com/album/124WBVqswfTVktUNadJ4T2"
+      },
+      "artists": [
+        {
+          "name": "Rellek Brown",
+          "url": "https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/4lWhdGthmuFgsZEzB02KZu"
     },
     {
       "album": {
@@ -970,28 +985,6 @@
     },
     {
       "album": {
-        "name": "Born and Raised II: The Rebirth",
-        "url": "https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X"
-      },
-      "artists": [
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "date_added": "2022-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223050,
-      "name": "Lonely Days",
-      "url": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT"
-    },
-    {
-      "album": {
         "name": "Lonely Days",
         "url": "https://open.spotify.com/album/3EO87q6YeR522w0C2qaVt4"
       },
@@ -1033,6 +1026,28 @@
       "duration_ms": 222984,
       "name": "Lonely Days (feat. J Boogs)",
       "url": "https://open.spotify.com/track/4a6TfJDJdjuVCKJJWRSM4V"
+    },
+    {
+      "album": {
+        "name": "Born and Raised II (The Rebirth)",
+        "url": "https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223050,
+      "name": "Lonely Days (with J Boog)",
+      "url": "https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT"
     },
     {
       "album": {
@@ -1173,10 +1188,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 252934,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/5H7vRoyMgI4VcuPBLnElAI"
+    },
+    {
+      "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/4UDtxHAZcijAvVhwNenm1P"
+      },
+      "artists": [
+        {
+          "name": "Victor J Sefo",
+          "url": "https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253004,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/0sPw3mbkSbtIIkBmVsFjXr"
     },
     {
       "album": {
@@ -1246,7 +1279,7 @@
     },
     {
       "album": {
-        "name": "My Guy (Remix)",
+        "name": "My Guy",
         "url": "https://open.spotify.com/album/46SVmaDiBJTnWNnfUcTMi3"
       },
       "artists": [
@@ -1486,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "First XV",
+        "url": "https://open.spotify.com/album/7iiz1chr32IjT3FLiC0dpt"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189267,
+      "name": "Road Trip",
+      "url": "https://open.spotify.com/track/6qNg20sM8sdhIiZTo1tstW"
+    },
+    {
+      "album": {
         "name": "Road Trip",
         "url": "https://open.spotify.com/album/6mbJNoKiwm5OP4M8s4jJYl"
       },
@@ -1497,7 +1548,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 189267,
       "name": "Road Trip",
       "url": "https://open.spotify.com/track/7eC3ll1MUIMrZxYREU7uc0"

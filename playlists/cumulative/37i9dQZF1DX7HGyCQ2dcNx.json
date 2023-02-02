@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The artist's latest and greatest hits. Lo nuevo y lo esencial de Jose. \u00a1Leggo!",
   "name": "This Is J Balvin",
-  "published_playlist_ids": [
-    "0anfdNe2iPWw4Dhq3AouqG"
-  ],
   "tracks": [
     {
       "album": {
@@ -163,36 +160,6 @@
     {
       "album": {
         "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270493,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
-    },
-    {
-      "album": {
-        "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb"
       },
       "artists": [
@@ -219,6 +186,36 @@
       "duration_ms": 271080,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/5LVoGJTyG6fLJgoGkY2QAZ"
+    },
+    {
+      "album": {
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270493,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
     },
     {
       "album": {
@@ -417,6 +414,36 @@
     {
       "album": {
         "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/1vrGYhTYdFAtxbC5UeUDDb"
+      },
+      "artists": [
+        {
+          "name": "Sky",
+          "url": "https://open.spotify.com/artist/0JWemE0N1N3nwrtMNg2eMO"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287226,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/1sghPHx2AsbFUhlyQzkWHI"
+    },
+    {
+      "album": {
+        "name": "Bajo Cero",
         "url": "https://open.spotify.com/album/62HvdfrJyULSlryudl5iO6"
       },
       "artists": [
@@ -429,8 +456,8 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
           "name": "MadeinTYO",
@@ -439,10 +466,32 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 287226,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/4mYG9quN0JnwiXzku5aqdI"
+    },
+    {
+      "album": {
+        "name": "Bellacon",
+        "url": "https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Bellacon",
+      "url": "https://open.spotify.com/track/4Zj3K3UaUMC6ndSwl05Zyd"
     },
     {
       "album": {
@@ -1192,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "KAWAII",
+        "url": "https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198247,
+      "name": "KAWAII",
+      "url": "https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN"
+    },
+    {
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -1233,6 +1304,28 @@
       "duration_ms": 216746,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/5zj8WNkBrEzlI5FKeYV4ol"
+    },
+    {
+      "album": {
+        "name": "La Realidad",
+        "url": "https://open.spotify.com/album/6sHOVB9NFpsCohA6yMVsKz"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215228,
+      "name": "La Realidad",
+      "url": "https://open.spotify.com/track/4L5ltYlOriaIigdAvQT6Gc"
     },
     {
       "album": {
@@ -1749,10 +1842,36 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 307546,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW"
+    },
+    {
+      "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
     },
     {
       "album": {
@@ -2599,7 +2718,7 @@
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
@@ -2752,7 +2871,7 @@
     },
     {
       "album": {
-        "name": "Enoc",
+        "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
@@ -2873,7 +2992,7 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],

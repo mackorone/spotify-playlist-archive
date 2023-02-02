@@ -1,29 +1,13 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist. ",
-  "num_followers": 289223,
+  "num_followers": 310516,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTAxNTUyOSwwMDAwMDAwMDgxYmJhY2I4NjA3MWU0ZmNkMzRmMzIxOWM5ZGVkMmIw",
+  "snapshot_id": "MTY3MTE1MzUxNiwwMDAwMDAwMGIxMTZjODQ0ZDg2NWJiNGQzNzdkOWZjODRmMTRlY2M4",
   "tracks": [
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
-    },
     {
       "added_at": "2022-11-21 07:25:29",
       "album": {
@@ -95,6 +79,22 @@
       "duration_ms": 195197,
       "name": "Pop Out (feat. Nardo Wick)",
       "url": "https://open.spotify.com/track/0VOMBffX1llDu37yQUt3u3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2022-10-12 22:51:21",
@@ -183,6 +183,26 @@
       "duration_ms": 197529,
       "name": "Emotionally Scarred",
       "url": "https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm"
+    },
+    {
+      "added_at": "2022-12-16 01:18:36",
+      "album": {
+        "name": "90 Days",
+        "url": "https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 196888,
+      "name": "If You Still Wit Me (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4EvFzNPsp8iyiEO9LDHopv"
     },
     {
       "added_at": "2022-10-14 04:00:00",

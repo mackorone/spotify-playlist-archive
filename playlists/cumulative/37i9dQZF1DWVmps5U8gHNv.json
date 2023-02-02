@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A collection of classics from the height of the folk revival to the rise of the folk rock era. Cover: <a href=\"spotify:artist:74ASZWbe4lXaubB36ztrGX\">Bob Dylan</a>",
+  "description": "A collection of classics from the height of the folk revival to the rise of the folk rock era. Cover: Bob Dylan",
   "name": "Essential Folk",
-  "published_playlist_ids": [
-    "5XrR4yd4Dusry8J0LVbkFW"
-  ],
   "tracks": [
     {
       "album": {
@@ -1504,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0qfFt0ItzdJngdYWWxRkub"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250413,
+      "name": "Make You Feel My Love - Take 1",
+      "url": "https://open.spotify.com/track/78fE6GJay1PbThXWGXOnM9"
+    },
+    {
+      "album": {
         "name": "Liege And Lief",
         "url": "https://open.spotify.com/album/1FrW2Bbq6IXkyPM5wznMPD"
       },
@@ -1555,6 +1570,42 @@
       "duration_ms": 490253,
       "name": "Matty Groves",
       "url": "https://open.spotify.com/track/2k512lGXvUnWUvKz9jIlPO"
+    },
+    {
+      "album": {
+        "name": "Mississippi (Version 2)",
+        "url": "https://open.spotify.com/album/4mAnAlXFfFIlnzNRV8cCfR"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 312600,
+      "name": "Mississippi - Version 2",
+      "url": "https://open.spotify.com/track/4T7zdEt6EPBYPINynERjCN"
+    },
+    {
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312600,
+      "name": "Mississippi - Version 2",
+      "url": "https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI"
     },
     {
       "album": {
@@ -1681,6 +1732,42 @@
       "duration_ms": 202573,
       "name": "Music Is Love",
       "url": "https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55"
+    },
+    {
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430040,
+      "name": "Not Dark Yet - Version 1",
+      "url": "https://open.spotify.com/track/4tBwhmAibSxix5rKQ5zr4c"
+    },
+    {
+      "album": {
+        "name": "Not Dark Yet (Version 1)",
+        "url": "https://open.spotify.com/album/577uc6MHsDO7dJEPimNkmc"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 432133,
+      "name": "Not Dark Yet - Version 1",
+      "url": "https://open.spotify.com/track/5CdrxIu33WFVpa2qnuG3A1"
     },
     {
       "album": {

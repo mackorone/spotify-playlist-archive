@@ -4,7 +4,7 @@
 
 > So smooth, so classic\. Cover: George Benson
 
-72 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/0ZDIbBqEKDIwnLMRTztqt6)
+72 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Just Between Us](https://open.spotify.com/track/4pa23KNAU2ul1REZDMJsAz) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Between Us](https://open.spotify.com/album/1nRaXHXH4pT2yfyHAhCsx5) | 5:08 | 2020-08-19 |  |
 | [Just Hold Me](https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Intimacy](https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK) | 4:16 | 2020-08-19 |  |
 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 | 2020-08-19 |  |
-| [Love Will Find A Way](https://open.spotify.com/track/3ylLhJHuvVBbpcW1bcKpB5) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [Dancing In The Sun](https://open.spotify.com/album/4riUrx6dAarcgrSLXRfKG9) | 5:59 | 2020-08-19 | 2022-11-22 |
+| [Love Will Find A Way](https://open.spotify.com/track/3ylLhJHuvVBbpcW1bcKpB5) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [Dancing In The Sun](https://open.spotify.com/album/4riUrx6dAarcgrSLXRfKG9) | 5:59 | 2020-08-19 | 2023-02-01 |
 | [Morning Dance](https://open.spotify.com/track/03RHLun8Ni9yFjA7vNGOkY) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [Morning Dance](https://open.spotify.com/album/2bqkswHBs3V99xtCU3t14T) | 3:56 | 2020-08-19 | 2022-07-29 |
 | [Morning Dance](https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [Morning Dance](https://open.spotify.com/album/18qf7qvyrcaGFmCB5AblaG) | 3:56 | 2020-08-19 |  |
 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 | 2020-08-19 |  |

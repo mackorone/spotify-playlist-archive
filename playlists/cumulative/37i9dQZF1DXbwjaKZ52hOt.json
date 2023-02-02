@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.",
   "name": "Nursery Rhymes",
-  "published_playlist_ids": [
-    "1cI5PTnsfQOn37ZEyt5QpI"
-  ],
   "tracks": [
     {
       "album": {
@@ -1625,6 +1622,24 @@
       "duration_ms": 136616,
       "name": "Hickory Dickory Dock Baby Nursery Rhyme",
       "url": "https://open.spotify.com/track/3qBWoH4ESJomspW1PSJsFI"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Home on the Range",
+      "url": "https://open.spotify.com/track/75FVOS7yQ1jx0Pp208pVtp"
     },
     {
       "album": {
@@ -4811,6 +4826,24 @@
       "duration_ms": 171132,
       "name": "This Is the Way We Brush Our Teeth Nursery Rhyme",
       "url": "https://open.spotify.com/track/2dE71HKOcZK2fnSJHrtRt9"
+    },
+    {
+      "album": {
+        "name": "Fun with Family and Friends",
+        "url": "https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "This Little Light of Mine",
+      "url": "https://open.spotify.com/track/3awnhwdpf4clxETaYZZCjN"
     },
     {
       "album": {

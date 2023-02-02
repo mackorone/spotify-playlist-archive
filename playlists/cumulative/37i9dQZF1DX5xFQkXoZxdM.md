@@ -4,7 +4,7 @@
 
 > This is the essential collection of songs from Trey Songz.
 
-56 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/44bz21EkXQgr7AKUEkG04Y)
+56 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

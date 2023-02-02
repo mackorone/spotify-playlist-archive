@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX112MgKHIKSG.md) - [plain]
 
 > Stories from the world of Peppa Pig!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,482 likes - 48 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,175 likes - 48 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

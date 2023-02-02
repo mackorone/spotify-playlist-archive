@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-13",
   "description": "Crowdpleasing classics for an easy, carefree day.",
   "name": "Backyard BBQ",
-  "published_playlist_ids": [
-    "5KfAy6T6IqX0wAh1kF69QC"
-  ],
   "tracks": [
     {
       "album": {
@@ -1582,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic Live",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+    },
+    {
+      "album": {
         "name": "Clapton Chronicles: The Best of Eric Clapton",
         "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
       },
@@ -1615,24 +1630,6 @@
       "duration_ms": 279066,
       "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit",
       "url": "https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl"
-    },
-    {
-      "album": {
-        "name": "Unplugged (2013 Remaster)",
-        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "date_added": "2022-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
     },
     {
       "album": {
@@ -2779,6 +2776,24 @@
     {
       "album": {
         "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
       "artists": [
@@ -2789,7 +2804,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
@@ -3136,7 +3151,7 @@
     },
     {
       "album": {
-        "name": "Eddie Money",
+        "name": "Eddie Money (2022 Remaster)",
         "url": "https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye"
       },
       "artists": [
@@ -3148,8 +3163,8 @@
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 237093,
-      "name": "Two Tickets to Paradise",
+      "duration_ms": 240419,
+      "name": "Two Tickets to Paradise (2022 Remaster)",
       "url": "https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH"
     },
     {

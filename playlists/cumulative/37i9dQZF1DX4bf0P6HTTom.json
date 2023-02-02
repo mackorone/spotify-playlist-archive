@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Eagles, The Byrds and all your favorite country rock",
   "name": "Country Rock Classics",
-  "published_playlist_ids": [
-    "5FqY2By8EsJ5wHYuLunZDA"
-  ],
   "tracks": [
     {
       "album": {
@@ -429,7 +426,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 175240,
       "name": "Luxury Liner",
       "url": "https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS"
@@ -487,7 +484,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 235106,
       "name": "Make A Little Magic - 2001 Remaster",
       "url": "https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6"

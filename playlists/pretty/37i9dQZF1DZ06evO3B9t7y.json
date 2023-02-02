@@ -1,15 +1,35 @@
 {
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
-  "num_followers": 411949,
+  "num_followers": 465997,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDBkNDM0YjZkODMzMDk2MmVlOTFlMDk0M2I3YTUwZTJlMw==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA1NGMzYWQ1Nzc0OGE3MThkZjQ5Y2Y0MDYzZWI2MDcyNA==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "No Es Por Ac\u00e1",
         "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
@@ -25,27 +45,7 @@
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Llorar y Llorar (con Carin Leon)",
-        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 169705,
-      "name": "Llorar y Llorar - con Carin Leon",
-      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
@@ -65,43 +65,27 @@
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+        "name": "Llorar y Llorar (con Carin Leon)",
+        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "El T\u00f3xico",
-        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         },
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 179745,
-      "name": "El T\u00f3xico",
-      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
+      "duration_ms": 169705,
+      "name": "Llorar y Llorar - con Carin Leon",
+      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
@@ -121,23 +105,47 @@
       "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
+        "name": "El T\u00f3xico",
+        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
       },
       "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 246131,
-      "name": "Tu - Live",
-      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
+      "duration_ms": 179745,
+      "name": "El T\u00f3xico",
+      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
@@ -153,7 +161,39 @@
       "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "Tu - Live",
+      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Como Lo Hice Yo",
         "url": "https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug"
@@ -173,7 +213,23 @@
       "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154420,
+      "name": "Secuelas De Amor",
+      "url": "https://open.spotify.com/track/0F0vbaAjqfjK1kKH9Wyymn"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "La Esquina del Mall",
         "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
@@ -193,7 +249,39 @@
       "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 180542,
+      "name": "Te Vi Con \u00c9l",
+      "url": "https://open.spotify.com/track/3zK8zUmJzPAF4x1AtkxIcR"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Encerrados Pero Enfiestados Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 200488,
+      "name": "Si Tu Amor No Vuelve - Live",
+      "url": "https://open.spotify.com/track/6xnjB5xkhzYzyrtsUAHHWJ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
@@ -204,12 +292,12 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 154420,
-      "name": "Secuelas De Amor",
-      "url": "https://open.spotify.com/track/0F0vbaAjqfjK1kKH9Wyymn"
+      "duration_ms": 159517,
+      "name": "Alguien Mejor",
+      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
@@ -229,10 +317,10 @@
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa"
+        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
       "artists": [
         {
@@ -240,12 +328,12 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 200488,
-      "name": "Si Tu Amor No Vuelve - Live",
-      "url": "https://open.spotify.com/track/6xnjB5xkhzYzyrtsUAHHWJ"
+      "duration_ms": 203816,
+      "name": "Amorcito M\u00edo - Live",
+      "url": "https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
@@ -256,12 +344,12 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 180542,
-      "name": "Te Vi Con \u00c9l",
-      "url": "https://open.spotify.com/track/3zK8zUmJzPAF4x1AtkxIcR"
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
@@ -272,12 +360,44 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 159517,
-      "name": "Alguien Mejor",
-      "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
+      "duration_ms": 197107,
+      "name": "Que Mas Puedo Pedir (Bonus Track)",
+      "url": "https://open.spotify.com/track/3Y1Xr5Hfie9SDXPxIHSgbz"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 232885,
+      "name": "Quisiera Saber",
+      "url": "https://open.spotify.com/track/4diIDbBQpsEQUiOt42VkGB"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 174262,
+      "name": "Si Una Vez - En Vivo",
+      "url": "https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Que Triste",
         "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
@@ -297,111 +417,7 @@
       "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 203816,
-      "name": "Amorcito M\u00edo - Live",
-      "url": "https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 197107,
-      "name": "Que Mas Puedo Pedir (Bonus Track)",
-      "url": "https://open.spotify.com/track/3Y1Xr5Hfie9SDXPxIHSgbz"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177249,
-      "name": "Como Que Me Enamoro - En Vivo",
-      "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 232885,
-      "name": "Quisiera Saber",
-      "url": "https://open.spotify.com/track/4diIDbBQpsEQUiOt42VkGB"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "El Madrile\u00f1o",
-        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "CAMBIA!",
-      "url": "https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Si Es Cierto Que Te Vas",
         "url": "https://open.spotify.com/album/2gHy7XdAt8pUrtB2mWq2f3"
@@ -417,7 +433,23 @@
       "url": "https://open.spotify.com/track/5ilf0RHAnRF5miyE9ad8O7"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Encerrados Pero Enfiestados Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Mi Eterno Amor Secreto - Live",
+      "url": "https://open.spotify.com/track/5Ipirnomv7UvSnOuH6Df6v"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
@@ -428,12 +460,60 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 174262,
-      "name": "Si Una Vez - En Vivo",
-      "url": "https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC"
+      "duration_ms": 177249,
+      "name": "Como Que Me Enamoro - En Vivo",
+      "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 200022,
+      "name": "Recordaras - En Vivo",
+      "url": "https://open.spotify.com/track/1X1HVUBlxczcppQakPkuJN"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/4MWma3oh4U6javb4kGF1jx"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177194,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Amor Borrachito",
         "url": "https://open.spotify.com/album/4V7LGD03uKHxCJrIy6gjOK"
@@ -453,43 +533,7 @@
       "url": "https://open.spotify.com/track/2yzM8Nq2ykj03M6OGhgLTW"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Viaje a ning\u00fan lado (con Carin Leon)",
-        "url": "https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 229567,
-      "name": "Viaje a ning\u00fan lado (con Carin Leon)",
-      "url": "https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Result\u00f3 Muy Perra (Me Dej\u00f3 Solito)",
         "url": "https://open.spotify.com/album/2VKqdkvlANFAc3AhrYFeyj"
@@ -509,43 +553,7 @@
       "url": "https://open.spotify.com/track/0JfDDmD5vuNYpwQj4FCxdj"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Como Duele Equivocarse",
-        "url": "https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 226978,
-      "name": "Como Duele Equivocarse",
-      "url": "https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 148175,
-      "name": "Tu Amor Barato",
-      "url": "https://open.spotify.com/track/6mRzRxiSCC1Nt7NIZpn3SV"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Con Un Botecito A Pecho",
         "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
@@ -565,7 +573,95 @@
       "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 148175,
+      "name": "Tu Amor Barato",
+      "url": "https://open.spotify.com/track/6mRzRxiSCC1Nt7NIZpn3SV"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Voy a Conquistarte",
+        "url": "https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 175051,
+      "name": "Voy a Conquistarte",
+      "url": "https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Como Duele Equivocarse",
+        "url": "https://open.spotify.com/album/6tdGbF9oCsV0zRsTTgwJHo"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 226978,
+      "name": "Como Duele Equivocarse",
+      "url": "https://open.spotify.com/track/5dm6FlDN6r8C8SJuAF0vNR"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 226307,
+      "name": "El Amor Es Una Farsa",
+      "url": "https://open.spotify.com/track/5fnuU0HMY9ueNeNyKn5dDh"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Guaro (Remix)",
         "url": "https://open.spotify.com/album/68DJWrVtz96h4wibetOKzS"
@@ -621,10 +717,10 @@
       "url": "https://open.spotify.com/track/3PmqejsYxlhII2zo7zXtQ8"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
       },
       "artists": [
         {
@@ -632,15 +728,39 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/4MWma3oh4U6javb4kGF1jx"
+      "duration_ms": 232801,
+      "name": "Solo Un D\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa"
+        "name": "El Madrile\u00f1o",
+        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "CAMBIA!",
+      "url": "https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
       },
       "artists": [
         {
@@ -648,12 +768,32 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 235813,
-      "name": "Mi Eterno Amor Secreto - Live",
-      "url": "https://open.spotify.com/track/5Ipirnomv7UvSnOuH6Df6v"
+      "duration_ms": 219392,
+      "name": "Contigo O Sin Ti - Live",
+      "url": "https://open.spotify.com/track/2kc7Pt2nFRPCEvFB2WR7l0"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Una Noche Cualquiera",
+      "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "La Falta",
         "url": "https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX"
@@ -673,55 +813,7 @@
       "url": "https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 226307,
-      "name": "El Amor Es Una Farsa",
-      "url": "https://open.spotify.com/track/5fnuU0HMY9ueNeNyKn5dDh"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 232801,
-      "name": "Solo Un D\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Pa' Las De Vidrio (Live)",
         "url": "https://open.spotify.com/album/7InJQUmbBBEUqDZZMMJ4C8"
@@ -737,7 +829,7 @@
       "url": "https://open.spotify.com/track/2fxqVHqwGWYDofPNa8iXlc"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
@@ -753,7 +845,7 @@
       "url": "https://open.spotify.com/track/5u8rAoGTVaXBhwn6FZARPQ"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Desvelada Con Banda y Mariachi",
         "url": "https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf"
@@ -769,23 +861,7 @@
       "url": "https://open.spotify.com/track/1c0i26VMuRPQotPKBDfnzd"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 219392,
-      "name": "Contigo O Sin Ti - Live",
-      "url": "https://open.spotify.com/track/2kc7Pt2nFRPCEvFB2WR7l0"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
@@ -801,7 +877,27 @@
       "url": "https://open.spotify.com/track/2OQj9FH7qhrwWOYlJFp4Rf"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Viaje a ning\u00fan lado (con Carin Leon)",
+        "url": "https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 229567,
+      "name": "Viaje a ning\u00fan lado (con Carin Leon)",
+      "url": "https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Encerrados Pero Enfiestados Vol. 2 (Live)",
         "url": "https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa"
@@ -817,100 +913,24 @@
       "url": "https://open.spotify.com/track/18RdaUB0nsdWCS5GadRumO"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
       "artists": [
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 207504,
-      "name": "Coqueta - Live",
-      "url": "https://open.spotify.com/track/59UYyOnT5xZKVOaTZ6KdJ8"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Borrachera Con Taka Takas (Live)",
-        "url": "https://open.spotify.com/album/7kI1nsKpN9VMjfuBRL69Wd"
-      },
-      "artists": [
+        },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Roy Rosas",
+          "url": "https://open.spotify.com/artist/4UzNiMYOdbQhZ6KsOZSWQm"
         }
       ],
-      "duration_ms": 235987,
-      "name": "Me Lo Contaron Ayer - Live",
-      "url": "https://open.spotify.com/track/2CLoq0TB9BwQh5pUmjYGn9"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 216977,
-      "name": "Que Es Pa' Mi",
-      "url": "https://open.spotify.com/track/2HdkLQkwXWT6yyZJYySAPf"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Desvelada Con Banda y Mariachi",
-        "url": "https://open.spotify.com/album/4XbELhyxUc6LUWu3sewRnf"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 181298,
-      "name": "Mi Juventud A Los 40 - Live",
-      "url": "https://open.spotify.com/track/11JXlw8095b1ruXKvhslHf"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Pa' Las De Vidrio (Live)",
-        "url": "https://open.spotify.com/album/7InJQUmbBBEUqDZZMMJ4C8"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 235068,
-      "name": "Tu Lo Decidiste - Live",
-      "url": "https://open.spotify.com/track/03wFSF2wINNP5tFsyUf4ur"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 213542,
-      "name": "More Than Words - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
+      "duration_ms": 203147,
+      "name": "Cuando Toca Mi Piel - En Vivo",
+      "url": "https://open.spotify.com/track/6z17iqYbnNFwUJ4wEsMbUE"
     }
   ],
   "unique_name": "This Is Carin Leon",

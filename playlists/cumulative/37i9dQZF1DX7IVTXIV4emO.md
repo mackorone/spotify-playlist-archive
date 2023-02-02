@@ -4,7 +4,7 @@
 
 > manejando la tranquilidad 🏝  🥥  🏝
 
-225 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/3Q9pI8ajNSCNFWh0sMcjRH)
+225 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

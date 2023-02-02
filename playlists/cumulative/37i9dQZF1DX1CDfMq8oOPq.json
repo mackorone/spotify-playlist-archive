@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: ABRONCA",
+  "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: slipmami",
   "name": "Baby Hair",
-  "published_playlist_ids": [
-    "3rwwZkx8eAvX3Q2DGPIL7D"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,7 +42,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 166153,
       "name": "A Cara do Enquadro",
       "url": "https://open.spotify.com/track/1m519cv6g3gPO5JYuYV3al"
@@ -89,6 +86,24 @@
       "duration_ms": 192128,
       "name": "Afreket\u00ea",
       "url": "https://open.spotify.com/track/6KG9pXyveLUvV1ff5iuAAe"
+    },
+    {
+      "album": {
+        "name": "Ashira No Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea"
+      },
+      "artists": [
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212289,
+      "name": "Apostas e Contratos - Ao Vivo",
+      "url": "https://open.spotify.com/track/79mrh2ByWxSh24uV8I6pIc"
     },
     {
       "album": {
@@ -180,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Faminta",
+        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Ben\u00e7\u00e3o Da Prosperidade",
+      "url": "https://open.spotify.com/track/1VX8i8qoL4kCPDZLb1eKs2"
+    },
+    {
+      "album": {
         "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
         "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
       },
@@ -217,7 +250,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 234461,
       "name": "Carne Preta",
       "url": "https://open.spotify.com/track/3kfsx9AdfRxcAlQJijGCoU"
@@ -343,12 +376,12 @@
           "url": "https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1"
         },
         {
-          "name": "Manel Beats",
-          "url": "https://open.spotify.com/artist/5IU9FllWIyNyECvitNqJ5j"
-        },
-        {
           "name": "Lastra",
           "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        },
+        {
+          "name": "Manel Beats",
+          "url": "https://open.spotify.com/artist/5IU9FllWIyNyECvitNqJ5j"
         }
       ],
       "date_added": "2022-11-18",
@@ -566,6 +599,32 @@
     },
     {
       "album": {
+        "name": "Filhas do Improv\u00e1vel",
+        "url": "https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Filhas do Improv\u00e1vel",
+      "url": "https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT"
       },
@@ -621,7 +680,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 288068,
       "name": "Florescer",
       "url": "https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F"
@@ -643,6 +702,24 @@
       "duration_ms": 205253,
       "name": "FLOW",
       "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
+    },
+    {
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/30bN41Kha9wBELEX60Nvel"
+      },
+      "artists": [
+        {
+          "name": "T\u00edcia",
+          "url": "https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144601,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/0z8LtG7fiK0EHwtNVudl8d"
     },
     {
       "album": {
@@ -691,7 +768,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 155000,
       "name": "FREESTYLE DAS FAIXA ROSA",
       "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
@@ -1055,10 +1132,36 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 120000,
       "name": "Malvadeza",
       "url": "https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB"
+    },
+    {
+      "album": {
+        "name": "Malvatrem",
+        "url": "https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL"
+      },
+      "artists": [
+        {
+          "name": "slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Dorly",
+          "url": "https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109500,
+      "name": "Malvatrem",
+      "url": "https://open.spotify.com/track/6wsR1Hk6yshbjO3Wi7M1GJ"
     },
     {
       "album": {
@@ -1157,7 +1260,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 254711,
       "name": "Molinha",
       "url": "https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo"
@@ -1237,15 +1340,11 @@
         {
           "name": "DJ Alex BNH",
           "url": "https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl"
-        },
-        {
-          "name": "HERvolution",
-          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
         }
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 153606,
       "name": "Mute",
       "url": "https://open.spotify.com/track/0so4HfRx4F1Ffs1PXl04Hk"
@@ -1325,11 +1424,15 @@
         {
           "name": "ALLIRA",
           "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "Wall Music",
+          "url": "https://open.spotify.com/artist/6pr9Hwh9K76ZUN2l6F4SjI"
         }
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 165000,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/7rMDGuF0Ka1DlRn0J5OwcN"
@@ -1634,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Rapper",
+        "url": "https://open.spotify.com/album/6QUcLAP54GOcf5ZUoSbUoZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142192,
+      "name": "Realeza",
+      "url": "https://open.spotify.com/track/5OU9MTz2dl9HKJmoxA5dJV"
+    },
+    {
+      "album": {
         "name": "Eva Gr\u00e3o",
         "url": "https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F"
       },
@@ -1649,6 +1770,24 @@
       "duration_ms": 206651,
       "name": "Ref\u00e9m",
       "url": "https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe"
+    },
+    {
+      "album": {
+        "name": "Respeita (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3hS2GHhiCwX0XVwETTD5uX"
+      },
+      "artists": [
+        {
+          "name": "Yas Werneck",
+          "url": "https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158148,
+      "name": "Respeita - Ao Vivo",
+      "url": "https://open.spotify.com/track/1byuWMcip5l2NzFLcdtuhL"
     },
     {
       "album": {
@@ -1693,6 +1832,28 @@
       "duration_ms": 196165,
       "name": "Rotina",
       "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
+    },
+    {
+      "album": {
+        "name": "Rude",
+        "url": "https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "EVEHIVE",
+          "url": "https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174657,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO"
     },
     {
       "album": {
@@ -1971,7 +2132,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 193570,
       "name": "S\u00f3 Voc\u00ea Pelada",
       "url": "https://open.spotify.com/track/1SLmJ8RDHertaYpp2i4OYt"
@@ -2063,6 +2224,28 @@
       "duration_ms": 168795,
       "name": "Vejo o bem",
       "url": "https://open.spotify.com/track/5M37zvK48rOQMOVyc0t36o"
+    },
+    {
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/0vOrt7Tus6OZbegppVeBX5"
+      },
+      "artists": [
+        {
+          "name": "Dourado",
+          "url": "https://open.spotify.com/artist/6A4I0Mwth99UqrnvGQs7W8"
+        },
+        {
+          "name": "Vibox",
+          "url": "https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/1jMCSwd04JhgbqWJqKJSVG"
     },
     {
       "album": {

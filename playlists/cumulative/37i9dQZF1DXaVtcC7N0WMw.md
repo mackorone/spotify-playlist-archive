@@ -4,7 +4,7 @@
 
 > A poem or short literary excerpt for every day of the month.
 
-29 songs - 1 hr 19 min - [published](https://open.spotify.com/playlist/2UvneXPUq0UJsQzq4y0wIq)
+29 songs - 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

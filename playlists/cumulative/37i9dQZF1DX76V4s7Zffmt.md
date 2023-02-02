@@ -4,7 +4,7 @@
 
 > This is the essential Animal Collective.
 
-30 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/6AQZkhsONKRhHRtH85bpq1)
+30 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

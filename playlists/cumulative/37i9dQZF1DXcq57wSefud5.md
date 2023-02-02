@@ -4,7 +4,7 @@
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
-46 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/3cJYhu5XOiKw5Z1sCU5J49)
+46 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

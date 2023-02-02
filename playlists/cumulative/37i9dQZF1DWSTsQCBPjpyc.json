@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Blues meets funk. Cover: Eric Gales",
   "name": "Funky Blues",
-  "published_playlist_ids": [
-    "4VCR7dI4Up8fnUbiFhdzLP"
-  ],
   "tracks": [
     {
       "album": {
@@ -117,7 +114,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": "2023-01-15",
       "duration_ms": 252226,
       "name": "Break on Free",
       "url": "https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX"
@@ -157,7 +154,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 143116,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0"
@@ -287,6 +284,24 @@
       "duration_ms": 205586,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
+    },
+    {
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240605,
+      "name": "Dumb It Down",
+      "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
     },
     {
       "album": {
@@ -637,7 +652,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-08",
       "duration_ms": 250333,
       "name": "I'm Beginning To Wonder",
       "url": "https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z"
@@ -1321,7 +1336,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": "2022-12-16",
       "duration_ms": 290013,
       "name": "You Been Sweet To Me",
       "url": "https://open.spotify.com/track/4evgHdHMdofFQ9YbpdWq3G"

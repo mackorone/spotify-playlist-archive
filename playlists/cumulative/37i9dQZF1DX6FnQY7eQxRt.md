@@ -4,7 +4,7 @@
 
 > Your favourite Christmas carols, performed and re\-imagined by the world's greatest choirs.
 
-109 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/3enUQntb1e907WEvU5APjG)
+109 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

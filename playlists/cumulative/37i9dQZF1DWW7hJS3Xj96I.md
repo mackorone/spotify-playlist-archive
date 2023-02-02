@@ -4,7 +4,7 @@
 
 > ¡Baila con los mejores éxitos de los 90!
 
-91 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/0nxZjq1X0FlGlwMkxj3U2K)
+94 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Formas De Amor](https://open.spotify.com/track/7tWxrM3TbM9VuXZtruKdky) | [Calo](https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L) | [💗 Pop y Amor 💗](https://open.spotify.com/album/4CDUbBRUJz14GfK6KPnuq8) | 4:00 | 2022-08-31 | 2022-11-13 |
 | [Formas De Amor](https://open.spotify.com/track/5MfHBAD6xKLwRygDd2pHbP) | [Calo](https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L) | [Sin Miedo](https://open.spotify.com/album/39t2XXSG5vyjBq8fyA6kA3) | 4:01 | 2021-12-09 | 2022-07-29 |
 | [Formas De Amor](https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP) | [Calo](https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L) | [Sin Miedo](https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf) | 4:02 | 2022-04-07 |  |
-| [Get Busy](https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:31 | 2022-04-07 |  |
+| [Get Busy](https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:31 | 2022-04-07 | 2023-01-21 |
+| [Get Busy](https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 3:31 | 2022-08-31 |  |
 | [Gracias A Dios](https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:02 | 2021-12-09 |  |
 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [azul azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 | 2021-12-09 |  |
 | [La Calle De Las Sirenas](https://open.spotify.com/track/4KwYQPF1MrpItRpb2H6mdT) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Más Completa Colección](https://open.spotify.com/album/6kLkzewL7iIg1qGAnTaJwx) | 3:51 | 2021-12-09 | 2022-07-29 |
@@ -49,14 +50,16 @@
 | [La pachanga](https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:41 | 2021-12-09 |  |
 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 | 2021-12-09 |  |
 | [Livin' la Vida Loca \- Spanish Version](https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 | 2021-12-09 |  |
-| [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 | 2022-04-07 |  |
+| [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 | 2022-04-07 | 2022-12-12 |
 | [Macarena](https://open.spotify.com/track/1qCFAg2xNJWZF0D5JpDkRu) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [50 Summer Hits](https://open.spotify.com/album/4iRt5STyQudfgvq3Gt2ki6) | 4:11 | 2021-12-09 | 2022-07-29 |
+| [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 | 2022-08-31 |  |
 | [Mambo No\. 5 \(A Little Bit of...\)](https://open.spotify.com/track/7jQBORjiir0pNSKGaHevq9) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit Of Mambo](https://open.spotify.com/album/41GaNTO6AagOC6CEoATrPF) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Mambo No\. 5 \(A Little Bit Of...\)](https://open.spotify.com/track/3l8WwsQTLPysuRph7WIRYq) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [Mambo No\. 5 \(A Little Bit Of...\)](https://open.spotify.com/album/7hRiVC8EIOLbtPRaAV1LnS) | 3:40 | 2022-08-31 | 2022-11-13 |
 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2022-04-07 |  |
 | [Mas De Lo Que Te Imaginas \(Classic Version\)](https://open.spotify.com/track/3PRhLVCZkhI47NI4iwxCNT) | [The Sacados](https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6) | [Superexitos Vol\. 2](https://open.spotify.com/album/6Qjuh2f96ox5s3DpgL62rz) | 3:39 | 2021-12-09 | 2022-07-29 |
 | [Mas de Lo Que Te Imaginas \(Classic Version\)](https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y) | [The Sacados](https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6) | [Superexitos Vol\. 2](https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz) | 3:39 | 2022-04-07 |  |
 | [Media Naranja](https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Fey](https://open.spotify.com/album/28ibwBS08IFdLkcmYSN7Jh) | 3:41 | 2021-12-09 | 2022-07-29 |
+| [Media Naranja](https://open.spotify.com/track/5qOOJibHjeGx0rhzL20JSc) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Originales \- 20 Exitos](https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy) | 3:41 | 2022-08-31 |  |
 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 | 2022-04-07 |  |
 | [Mirala Miralo](https://open.spotify.com/track/7xSvBMiquYNDfg1Vt2W9Rv) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [16 Éxitos De Oro](https://open.spotify.com/album/6ugipz6Zx3IWPW4hGPP9Fk) | 4:04 | 2021-12-09 | 2022-07-29 |
 | [MMMBop \- Single Version](https://open.spotify.com/track/4PgPnzbAgjCQ2eA6YAWcUw) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Guilty Pleasures \(International Version\)](https://open.spotify.com/album/2F3jGeVC9Oua9omnR6Uoi8) | 3:58 | 2022-04-07 | 2022-04-21 |
@@ -74,7 +77,7 @@
 | [Oye Mi Amor](https://open.spotify.com/track/5TA7wLBogohCKbyuCMHBKY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Você É Minha Religião: O Melhor Do Maná \(Deluxe Version\)](https://open.spotify.com/album/0T6xjJtpq2ZFsGb8WVBPfO) | 4:23 | 2022-08-31 | 2022-11-13 |
 | [Pelo Suelto](https://open.spotify.com/track/5cSL4f200gFJB47ynqm73m) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Soy Mujer](https://open.spotify.com/album/2nXE17JauOeyVltE92GMng) | 3:26 | 2022-08-31 | 2022-11-12 |
 | [Pelo Suelto](https://open.spotify.com/track/1H8aAoRO817bygKpgvAcpf) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:26 | 2021-12-09 | 2022-07-29 |
-| [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Serie 2000](https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR) | 4:20 | 2021-12-09 |  |
+| [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Serie 2000](https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR) | 4:20 | 2021-12-09 | 2023-01-22 |
 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 | 2021-12-09 |  |
 | [Solo Se Vive una Vez](https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:13 | 2021-12-09 |  |
 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 | 2021-12-09 |  |

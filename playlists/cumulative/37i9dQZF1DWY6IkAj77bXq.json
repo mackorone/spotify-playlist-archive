@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
   "name": "Sanaci\u00f3n Profunda",
-  "published_playlist_ids": [
-    "0GSyIlhN75utulsjStUTdu"
-  ],
   "tracks": [
     {
       "album": {
@@ -86,7 +83,7 @@
       "artists": [
         {
           "name": "Pristeen",
-          "url": "https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh"
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
         }
       ],
       "date_added": "2022-07-05",
@@ -145,7 +142,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 184477,
       "name": "Air in the Morning",
       "url": "https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU"
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "Among the Clouds",
       "url": "https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR"
@@ -541,7 +538,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 170958,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH"
@@ -793,7 +790,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 158961,
       "name": "Evening Calm",
       "url": "https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3"
@@ -869,6 +866,24 @@
       "duration_ms": 162400,
       "name": "Floating Without Gravity",
       "url": "https://open.spotify.com/track/2CZNgun4NU3Ui9cVbL3c9h"
+    },
+    {
+      "album": {
+        "name": "Free Of Hesitation",
+        "url": "https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr"
+      },
+      "artists": [
+        {
+          "name": "Abigail Dorsey",
+          "url": "https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160427,
+      "name": "Free Of Hesitation",
+      "url": "https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc"
     },
     {
       "album": {
@@ -1052,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Osceola",
+        "url": "https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE"
+      },
+      "artists": [
+        {
+          "name": "Eyelydia",
+          "url": "https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Let Hold",
+      "url": "https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz"
+    },
+    {
+      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
       },
@@ -1207,10 +1240,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 160188,
       "name": "Loveliness",
       "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
+    },
+    {
+      "album": {
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Mind Balance",
+      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
     },
     {
       "album": {
@@ -1243,7 +1294,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 158766,
       "name": "Moonlit",
       "url": "https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8"
@@ -1697,7 +1748,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 192187,
       "name": "Repose",
       "url": "https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv"
@@ -1740,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+    },
+    {
+      "album": {
         "name": "Sandy Foam",
         "url": "https://open.spotify.com/album/47x7s8rWew3mkOc8xgzuIB"
       },
@@ -1769,7 +1838,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-20",
       "duration_ms": 220540,
       "name": "Sapphire Dunes",
       "url": "https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ"
@@ -2183,7 +2252,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-03",
       "duration_ms": 170958,
       "name": "Tangerine Dreams",
       "url": "https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD"
@@ -2399,7 +2468,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 196777,
       "name": "Vivid Imagination",
       "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "Peaceful ambient for mind body connection.",
   "name": "Hatha Yoga",
-  "published_playlist_ids": [
-    "4h4rBqtRamQg1x2iFDUEw4"
-  ],
   "tracks": [
     {
       "album": {
@@ -98,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Aspettami",
+        "url": "https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r"
+      },
+      "artists": [
+        {
+          "name": "Luka Vida",
+          "url": "https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125997,
+      "name": "Aspettami",
+      "url": "https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF"
+    },
+    {
+      "album": {
         "name": "Awaiting The Night",
         "url": "https://open.spotify.com/album/4WbmSphPzHRMjuboa8haMl"
       },
@@ -113,6 +128,24 @@
       "duration_ms": 134285,
       "name": "Awaiting The Night",
       "url": "https://open.spotify.com/track/30uebPIcKyKLYs6GvCMoGI"
+    },
+    {
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/0AChUaHjN3SbGsBf68Awll"
+      },
+      "artists": [
+        {
+          "name": "Zane Cassidy",
+          "url": "https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109377,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/0ebnYLExhairdQKLJGRgDb"
     },
     {
       "album": {
@@ -224,6 +257,42 @@
     },
     {
       "album": {
+        "name": "Breathe Deep",
+        "url": "https://open.spotify.com/album/6TQhNqh95efIgkLWcBn0kf"
+      },
+      "artists": [
+        {
+          "name": "Namaste Flute",
+          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "Breathe Deep",
+      "url": "https://open.spotify.com/track/1IbaKAjgt3jCUgeb3MxKiM"
+    },
+    {
+      "album": {
+        "name": "Breathing Fresh Air",
+        "url": "https://open.spotify.com/album/4J8dh4zW2wYChtJZo8gIrj"
+      },
+      "artists": [
+        {
+          "name": "Eli Dylan",
+          "url": "https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232740,
+      "name": "Breathing Fresh Air (Meditation)",
+      "url": "https://open.spotify.com/track/2wj2XZSRNcHuqHGgMwbUFe"
+    },
+    {
+      "album": {
         "name": "Bring Us Back",
         "url": "https://open.spotify.com/album/6oUu8OWwS3L9YPYleN2Ofu"
       },
@@ -271,7 +340,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 195000,
       "name": "Callisto",
       "url": "https://open.spotify.com/track/0kDtcfMhgxjM2zSwPypNcd"
@@ -415,7 +484,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 168050,
       "name": "Deep Rest",
       "url": "https://open.spotify.com/track/0SOQcyGJpYPtzY89w6Xljm"
@@ -656,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Existence",
+        "url": "https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN"
+      },
+      "artists": [
+        {
+          "name": "Yoo Woon",
+          "url": "https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Existence",
+      "url": "https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z"
+    },
+    {
+      "album": {
         "name": "Facile Senses",
         "url": "https://open.spotify.com/album/1IhQrP1R85Jk319wNJWEzW"
       },
@@ -739,7 +826,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 200333,
       "name": "Flow",
       "url": "https://open.spotify.com/track/4d8AH6faaXgCbO7GVuGqqT"
@@ -854,6 +941,24 @@
     },
     {
       "album": {
+        "name": "In The Distance",
+        "url": "https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk"
+      },
+      "artists": [
+        {
+          "name": "Mindful Changes",
+          "url": "https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151530,
+      "name": "In The Distance",
+      "url": "https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp"
+    },
+    {
+      "album": {
         "name": "Into The Wild",
         "url": "https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL"
       },
@@ -883,7 +988,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 219428,
       "name": "Japanese Garden",
       "url": "https://open.spotify.com/track/4eV80e6Y5BwkKBfVo9xxJs"
@@ -937,7 +1042,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 142635,
       "name": "Kundalini",
       "url": "https://open.spotify.com/track/0sLaaBl2OPlNJeqvhycUab"
@@ -991,7 +1096,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 84705,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/6ORmQ1xm70tFaJMfMqeRLv"
@@ -1171,7 +1276,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 177428,
       "name": "Namaste",
       "url": "https://open.spotify.com/track/7qLT0sVYjM9MlIf7sHfEcX"
@@ -1466,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Path",
+        "url": "https://open.spotify.com/album/0XBvNvgDBZJzhnXA6CB1nU"
+      },
+      "artists": [
+        {
+          "name": "Saige Kasey",
+          "url": "https://open.spotify.com/artist/52UDsMZhmDnjEWtynTRVeV"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Peaceful Path",
+      "url": "https://open.spotify.com/track/5SmMMVSJqtYcgMSesqnYqr"
+    },
+    {
+      "album": {
         "name": "Perpetuality",
         "url": "https://open.spotify.com/album/4Q6TErWBcAFskWp665tW4D"
       },
@@ -1543,8 +1666,8 @@
       },
       "artists": [
         {
-          "name": "Gio Samala",
-          "url": "https://open.spotify.com/artist/4K3H4Mm9cy1wp1deEWEpq2"
+          "name": "David Elo",
+          "url": "https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF"
         }
       ],
       "date_added": "2022-10-25",
@@ -1561,8 +1684,8 @@
       },
       "artists": [
         {
-          "name": "Sundor",
-          "url": "https://open.spotify.com/artist/37LWBuOzSRQzNK3TCaMzoY"
+          "name": "Aerial Sonda",
+          "url": "https://open.spotify.com/artist/0dGSpbEGrgn7BqbDOx2kOA"
         }
       ],
       "date_added": "2022-11-25",
@@ -1639,7 +1762,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 153125,
       "name": "Rendevouz In Orbit",
       "url": "https://open.spotify.com/track/7lY8H2VrsaOHXjQv2IaW12"
@@ -1675,7 +1798,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 366610,
       "name": "Restful Dream",
       "url": "https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB"
@@ -1909,7 +2032,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 178032,
       "name": "secret dream",
       "url": "https://open.spotify.com/track/7nTF2dyXvsPdPVWu9pcz8v"
@@ -1988,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Serena\u00b4s Meditation",
+        "url": "https://open.spotify.com/album/6lF4ne4DEfrpldVN0hEEbT"
+      },
+      "artists": [
+        {
+          "name": "Remittere",
+          "url": "https://open.spotify.com/artist/0sMzImNlIr3ougEsBQ59xm"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Serena\u00b4s Meditation",
+      "url": "https://open.spotify.com/track/0wGvryNQ0SOv7VMnHLs1Nn"
+    },
+    {
+      "album": {
         "name": "Serene Lake",
         "url": "https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo"
       },
@@ -2053,7 +2194,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 228991,
       "name": "Shanti Breaths",
       "url": "https://open.spotify.com/track/1bFYO2lUPYRbkWcJobEroe"
@@ -2143,7 +2284,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 184000,
       "name": "Sol Rythym",
       "url": "https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK"
@@ -2161,7 +2302,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 225874,
       "name": "Solsken",
       "url": "https://open.spotify.com/track/0r14frSgaiYUHdW66ZCDY3"
@@ -2179,7 +2320,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 240000,
       "name": "Sparrow Cloud",
       "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
@@ -2197,7 +2338,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 180204,
       "name": "Spring Flower",
       "url": "https://open.spotify.com/track/6wPoL3OrhS8NOOwWk9F7QW"
@@ -2759,7 +2900,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 199022,
       "name": "Whole Again - Yoga Version",
       "url": "https://open.spotify.com/track/1fdHVkA2KhOYjxBF7BUSle"
@@ -2771,8 +2912,8 @@
       },
       "artists": [
         {
-          "name": "Euryn",
-          "url": "https://open.spotify.com/artist/3gZqDSLp1atN62BEKtHMyS"
+          "name": "Pitouu",
+          "url": "https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG"
         }
       ],
       "date_added": "2022-11-25",
@@ -2831,7 +2972,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 261898,
       "name": "Zenya",
       "url": "https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA"
@@ -2849,7 +2990,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 123798,
       "name": "\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u0938\u092a\u0928\u0947",
       "url": "https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0"

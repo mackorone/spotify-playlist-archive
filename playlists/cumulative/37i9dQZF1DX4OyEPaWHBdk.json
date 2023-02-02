@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Stream and vote for your Worldwide Fans' Choice at the <a href=\"http://2022mama.com/vote/spotify/\">2022 MAMA AWARDS</a>!",
-  "name": "2022 MAMA AWARDS Worldwide Fans' Choice Category",
-  "published_playlist_ids": [
-    "7vcRWJxU5Wkswds3wsTczl"
-  ],
+  "description": "Check out the winners from this year's 2022 MAMA AWARDS!",
+  "name": "2022 MAMA AWARDS: The Winners",
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 230293,
       "name": "2 Baddies",
       "url": "https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX"
@@ -149,6 +146,24 @@
       "duration_ms": 218840,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/34U33Fr2hM6wWkjvdpiwS6"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159761,
+      "name": "Arson",
+      "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
     },
     {
       "album": {
@@ -325,7 +340,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 169253,
       "name": "Candy Sugar Pop",
       "url": "https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d"
@@ -667,7 +682,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
@@ -800,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Grown Ass Kid",
+        "url": "https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik"
+    },
+    {
+      "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
       },
@@ -851,7 +884,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
@@ -959,7 +992,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
@@ -981,6 +1014,24 @@
       "duration_ms": 193560,
       "name": "HAPPEN",
       "url": "https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16"
+    },
+    {
+      "album": {
+        "name": "Happy Death Day",
+        "url": "https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220396,
+      "name": "Happy Death Day",
+      "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
     },
     {
       "album": {
@@ -1258,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274386,
+      "name": "If We Ever Meet Again",
+      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
+    },
+    {
+      "album": {
         "name": "If you lovingly call my name (GyeongseoYeji x Jeon Gunho)",
         "url": "https://open.spotify.com/album/1QD2UJupusQ9zBsldpvS3d"
       },
@@ -1309,7 +1378,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 166053,
       "name": "ILLELLA",
       "url": "https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4"
@@ -1327,7 +1396,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 195053,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
@@ -1367,6 +1436,24 @@
       "duration_ms": 197306,
       "name": "INSIDE OUT",
       "url": "https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk"
+    },
+    {
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
     },
     {
       "album": {
@@ -1615,7 +1702,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
@@ -1637,6 +1724,24 @@
       "duration_ms": 199066,
       "name": "Love Shhh!",
       "url": "https://open.spotify.com/track/00vy9aiFjxMfnKniQAYzrC"
+    },
+    {
+      "album": {
+        "name": "Love, Maybe (A Business Proposal OST Special Track)",
+        "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
     },
     {
       "album": {
@@ -1669,7 +1774,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 185733,
       "name": "MAISON",
       "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
@@ -1933,7 +2038,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 172936,
       "name": "O.O",
       "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
@@ -2161,6 +2266,24 @@
       "duration_ms": 191973,
       "name": "Ponzona",
       "url": "https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1"
+    },
+    {
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "album": {
@@ -2555,7 +2678,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 179453,
       "name": "SNEAKERS",
       "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
@@ -2667,7 +2790,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
@@ -2689,6 +2812,24 @@
       "duration_ms": 205333,
       "name": "strawberry moon",
       "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
+    },
+    {
+      "album": {
+        "name": "SuperCali",
+        "url": "https://open.spotify.com/album/0Z8ddGt1kEMRBTY1engcvy"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181506,
+      "name": "SuperCali",
+      "url": "https://open.spotify.com/track/4pW4sNCWGUG9D9EjACfkvK"
     },
     {
       "album": {
@@ -2725,7 +2866,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 177466,
       "name": "Talk that Talk",
       "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
@@ -2891,7 +3032,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 174386,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
@@ -2981,7 +3122,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
@@ -3223,6 +3364,24 @@
       "duration_ms": 272797,
       "name": "\uc624\ub798\ub41c \ub178\ub798",
       "url": "https://open.spotify.com/track/1YlTjvNlsRBvSOcCqv5xm4"
+    },
+    {
+      "album": {
+        "name": "HAPPY 25th JAURIM",
+        "url": "https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "\ud558\ud558\ud558\uc3ed 25th",
+      "url": "https://open.spotify.com/track/1OOTvc4Ak2K6rPTxMUzXWh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk"

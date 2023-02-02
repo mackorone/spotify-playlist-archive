@@ -4,7 +4,7 @@
 
 > The sound of 90s Jungle rave\. Cover: Roni Size
 
-150 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/6zmrmBwg0PlQPL7DiorJDW)
+150 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

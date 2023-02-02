@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
   "name": "40s Country",
-  "published_playlist_ids": [
-    "6ngukquRtVxTVqJcxVPRbM"
-  ],
   "tracks": [
     {
       "album": {
@@ -131,7 +128,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 135706,
       "name": "Bubbles In My Beer - Single Version",
       "url": "https://open.spotify.com/track/4A2dABZi18gmKGizp0ubyn"
@@ -221,7 +218,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173693,
       "name": "Cherokee Maiden",
       "url": "https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG"
@@ -405,7 +402,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 135933,
       "name": "Divorce Me C.O.D.",
       "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
@@ -567,7 +564,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-24",
       "duration_ms": 171466,
       "name": "Heavy Traffic Ahead",
       "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
@@ -687,6 +684,28 @@
       "duration_ms": 166000,
       "name": "I Saw The Light",
       "url": "https://open.spotify.com/track/04bsExZXrwoRXYKKDWlTIU"
+    },
+    {
+      "album": {
+        "name": "Presenting Patsy Montana",
+        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
+      },
+      "artists": [
+        {
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+        },
+        {
+          "name": "Prairie Ramblers",
+          "url": "https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "I Want to Be a Cowboy's Sweetheart",
+      "url": "https://open.spotify.com/track/0vm8Va7eps0w4DlQ8QWjFd"
     },
     {
       "album": {
@@ -1074,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Presenting Patsy Montana",
+        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
+      },
+      "artists": [
+        {
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174053,
+      "name": "My Poncho Pony",
+      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
+    },
+    {
+      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -1125,6 +1162,24 @@
       "duration_ms": 159760,
       "name": "Nine Pound Hammer",
       "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
+    },
+    {
+      "album": {
+        "name": "Presenting Patsy Montana",
+        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
+      },
+      "artists": [
+        {
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176653,
+      "name": "Old Nevada Moon",
+      "url": "https://open.spotify.com/track/3rhYzTf2LKvMd4K0JkcL3E"
     },
     {
       "album": {
@@ -1255,7 +1310,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 216560,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3Vtcjs5wVanh6LocIRrpwy"
@@ -1731,7 +1786,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-20",
       "duration_ms": 135973,
       "name": "There's A New Moon Over My Shoulder",
       "url": "https://open.spotify.com/track/37wv3n0GnamPkVaO0H5OLz"
@@ -1995,7 +2050,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 172000,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/32Mjgo3oqzlVwaTpidm000"

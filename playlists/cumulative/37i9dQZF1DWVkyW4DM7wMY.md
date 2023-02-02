@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-141 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+141 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

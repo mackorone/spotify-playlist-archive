@@ -4,7 +4,7 @@
 
 > It's a Midwest thing\. Cover: Eminem
 
-83 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/2LlJrz2lAHILE40gju5i3n)
+83 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 
 > Querencia is here !
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,709 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,685 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 48 | [Loveship](https://open.spotify.com/track/6Hqk3UKf4uIrdbkJvwM7y3) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Loveship](https://open.spotify.com/album/6bwWdBKK3YGxgFJkZ8BYVQ) | 4:19 |
 | 49 | [These Nights](https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [These Nights](https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou) | 3:43 |
 | 50 | [FAST](https://open.spotify.com/track/5qz2JLETV6S7nWakMB37ki) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1) | [FAST](https://open.spotify.com/album/1tnhaRf0aRqIrmdyCPPIYc) | 3:04 |
-| 51 | [RUN](https://open.spotify.com/track/5EI1PqfGKGTk746tL2rqft) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [RUN](https://open.spotify.com/album/1A4uz12sqJwbiAOSyiKMVz) | 2:56 |
+| 51 | [RUN](https://open.spotify.com/track/0avAEHS9V6lDcZ5yUgU6sT) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [RUN](https://open.spotify.com/album/48A6N9jopPaR7RtwMiQysL) | 2:56 |
 | 52 | [Young In Love](https://open.spotify.com/track/4dIObSazv75psS0AX9z6ro) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 3:18 |
 | 53 | [Call It Love](https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 4:01 |
 | 54 | [Flourishing](https://open.spotify.com/track/5kbYgt4pAhKsmoQJGCj33x) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 74 | [REMEDY](https://open.spotify.com/track/3BcVxAJ4Ok0zbQ6nsu1No4) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:21 |
 | 75 | [LALALA](https://open.spotify.com/track/1mW3V0DtbrEaUHgApt9Uql) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [LA VIDA LOCA](https://open.spotify.com/album/6rEdWTwLAfTNzSHSH7WHBi) | 3:34 |
 
-Snapshot ID: `MTY2NjQzMDc1OCwwMDAwMDAwMDM2YmJhZDlkNDM1YmNjYjYyNGJjM2E1ODEyOGZhOWU1`
+Snapshot ID: `MTY2NjQzMDc1OCwwMDAwMDAwMGRjYWI1MmI3MjExYTIyNzg5MjhjYzQwOTdhYWNmMWFk`

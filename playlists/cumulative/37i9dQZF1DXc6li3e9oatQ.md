@@ -4,7 +4,7 @@
 
 > Learn Spanish with a collection of audio courses that will take you from beginner lessons to advanced conversations – featuring essential travel phrases and vocabulary!
 
-459 songs - 2 day 0 hr 15 min - [published](https://open.spotify.com/playlist/2y9mLKcjlTvBpEnysoqOz4)
+459 songs - 2 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

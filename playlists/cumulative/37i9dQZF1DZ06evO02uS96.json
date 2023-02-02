@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "This is Aimer. The essential tracks, all in one playlist.",
   "name": "This Is Aimer",
-  "published_playlist_ids": [
-    "1qiJTMwSP57XnJIPa3JfBj"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 296306,
       "name": "broKen NIGHT",
       "url": "https://open.spotify.com/track/6CDkzGTESwc9huctjalPLU"
@@ -131,6 +128,42 @@
       "duration_ms": 230200,
       "name": "cold rain",
       "url": "https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm"
+    },
+    {
+      "album": {
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227146,
+      "name": "Deep down",
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
+    },
+    {
+      "album": {
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
     },
     {
       "album": {
@@ -167,6 +200,24 @@
       "duration_ms": 236293,
       "name": "ever after",
       "url": "https://open.spotify.com/track/0mkctINFN0327pYxp1CRhQ"
+    },
+    {
+      "album": {
+        "name": "BEST SELECTION \"blanc\"",
+        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337066,
+      "name": "everlasting snow",
+      "url": "https://open.spotify.com/track/1pS8rVJSUQUB5kZOMgXaA2"
     },
     {
       "album": {
@@ -412,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238466,
+      "name": "rubble pile",
+      "url": "https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve"
+    },
+    {
+      "album": {
         "name": "o1",
         "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
       },
@@ -517,7 +586,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 302266,
       "name": "Stars in the rain",
       "url": "https://open.spotify.com/track/7DimVUzanCg5lhqk9reDGd"
@@ -571,7 +640,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 287186,
       "name": "tone (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
       "url": "https://open.spotify.com/track/3Ef3BUWsWIglIvZwkUio40"
@@ -929,7 +998,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 352265,
       "name": "\u5b63\u8def",
       "url": "https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY"

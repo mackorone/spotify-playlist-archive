@@ -2,8 +2,25 @@
   "date_first_scraped": "2022-11-23",
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
-  "published_playlist_ids": [],
   "tracks": [
+    {
+      "album": {
+        "name": "Chapter 5",
+        "url": "https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 228937,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7"
+    },
     {
       "album": {
         "name": "Stylish\u2026",
@@ -263,6 +280,24 @@
       "duration_ms": 201226,
       "name": "Fly (feat. Amin. J)",
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+    },
+    {
+      "album": {
+        "name": "Chapter 2",
+        "url": "https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 213838,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM"
     },
     {
       "album": {
@@ -837,8 +872,8 @@
           "url": "https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad"
         },
         {
-          "name": "J",
-          "url": "https://open.spotify.com/artist/0pwxHyrzsUtx7GgGwNHBXT"
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
         }
       ],
       "date_added": "2021-03-11",
@@ -1547,7 +1582,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 232986,
       "name": "\ub2e4\uc904\uaed8",
       "url": "https://open.spotify.com/track/5OqpfkerEQGI9QppSObwkQ"
@@ -1605,6 +1640,24 @@
       "duration_ms": 228153,
       "name": "\ube44\ubc00\ubc88\ud638 486",
       "url": "https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj"
+    },
+    {
+      "album": {
+        "name": "The Windows Of My Soul",
+        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238393,
+      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
+      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
     },
     {
       "album": {

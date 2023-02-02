@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
   "name": "This Is Nicky Romero",
-  "published_playlist_ids": [
-    "0igVTu5HvdcrsZRrSSQai3"
-  ],
   "tracks": [
     {
       "album": {
@@ -137,7 +134,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 198281,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/2xsx8DRlmbGJlxY4msANSB"
@@ -454,6 +451,28 @@
     },
     {
       "album": {
+        "name": "Harmony (Stadiumx Remix)",
+        "url": "https://open.spotify.com/album/166oI2CSmmp0Wk4IaVbNrU"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325645,
+      "name": "Harmony - Extended Stadiumx Remix",
+      "url": "https://open.spotify.com/track/11SwOkvwTXlCfprgPCA5yP"
+    },
+    {
+      "album": {
         "name": "Perception EP",
         "url": "https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE"
       },
@@ -645,7 +664,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 154687,
       "name": "I See",
       "url": "https://open.spotify.com/track/3IOvs8528ie9laMQO4PLPD"
@@ -785,7 +804,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-17",
+      "date_removed": null,
       "duration_ms": 200156,
       "name": "Like Home - Radio Edit",
       "url": "https://open.spotify.com/track/3bUbOOpXfkdDlXg5iPGdJC"
@@ -829,7 +848,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 200156,
       "name": "Like Home - Radio Mix",
       "url": "https://open.spotify.com/track/2RBq5Dl68WQXwWNpP77FQY"
@@ -847,7 +866,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 187320,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7vTaAwEWxj5vhhQpuWZpFm"
@@ -1082,6 +1101,36 @@
     },
     {
       "album": {
+        "name": "Only For The Night",
+        "url": "https://open.spotify.com/album/1Tb49CVypOagsQZqGsQHxz"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        },
+        {
+          "name": "Higher Lane",
+          "url": "https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184843,
+      "name": "Only For The Night",
+      "url": "https://open.spotify.com/track/1UaBt4vluuMX0prcp6et4E"
+    },
+    {
+      "album": {
         "name": "Only For You",
         "url": "https://open.spotify.com/album/2BQ3iU7zPXjXkTrwUwZ9iC"
       },
@@ -1101,7 +1150,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 169570,
       "name": "Only For You",
       "url": "https://open.spotify.com/track/6U9ajbuK8CvXEGKtco10sp"
@@ -1452,6 +1501,32 @@
     },
     {
       "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211406,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
+    },
+    {
+      "album": {
         "name": "Techtronic",
         "url": "https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm"
       },
@@ -1499,10 +1574,32 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 172500,
       "name": "Time",
       "url": "https://open.spotify.com/track/1uTqxBGvEiffBv41ih1nYB"
+    },
+    {
+      "album": {
+        "name": "To The Floor (Nicky Romero Edit)",
+        "url": "https://open.spotify.com/album/5UrucNSjRdkjxj7qLBI5Vp"
+      },
+      "artists": [
+        {
+          "name": "Loud 'N Bright",
+          "url": "https://open.spotify.com/artist/2YvMW8mwEJIohdOpAk4JcG"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "To The Floor (Nicky Romero Edit)",
+      "url": "https://open.spotify.com/track/1HRRS1kg0we00eWCnLeH1m"
     },
     {
       "album": {
@@ -1741,7 +1838,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 174720,
       "name": "You Used To",
       "url": "https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh"

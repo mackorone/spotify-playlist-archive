@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
   "name": "Haitian Heat",
-  "published_playlist_ids": [
-    "3ur3vTrlhNCzIjyRqhoVJ8"
-  ],
   "tracks": [
     {
       "album": {
@@ -141,7 +138,7 @@
           "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         },
         {
-          "name": "Michael Brun",
+          "name": "Micha\u00ebl Brun",
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
@@ -277,6 +274,28 @@
     {
       "album": {
         "name": "Rasanbleman (Red Moon)",
+        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400388,
+      "name": "Ayizan",
+      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
+    },
+    {
+      "album": {
+        "name": "Rasanbleman (Red Moon)",
         "url": "https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy"
       },
       "artists": [
@@ -369,7 +388,7 @@
       },
       "artists": [
         {
-          "name": "Michael Brun",
+          "name": "Micha\u00ebl Brun",
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
@@ -401,7 +420,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 225727,
       "name": "Bade Zile",
       "url": "https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN"
@@ -629,7 +648,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 192897,
       "name": "Culo",
       "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
@@ -1455,7 +1474,7 @@
           "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
         },
         {
-          "name": "Michael Brun",
+          "name": "Micha\u00ebl Brun",
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
@@ -1607,28 +1626,6 @@
     {
       "album": {
         "name": "Melanin",
-        "url": "https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "date_added": "2022-09-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133835,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8"
-    },
-    {
-      "album": {
-        "name": "Melanin",
         "url": "https://open.spotify.com/album/7GeOqIQ7BCbwZmjwpjqeLQ"
       },
       "artists": [
@@ -1647,6 +1644,28 @@
       "duration_ms": 133835,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/6YPJ5TbzwDltVrRR39bGzC"
+    },
+    {
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133835,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8"
     },
     {
       "album": {
@@ -1766,6 +1785,32 @@
     },
     {
       "album": {
+        "name": "Nahil\u00e9",
+        "url": "https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9"
+      },
+      "artists": [
+        {
+          "name": "RockLee",
+          "url": "https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM"
+        },
+        {
+          "name": "Wesli",
+          "url": "https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5"
+        },
+        {
+          "name": "Paul Cargnello",
+          "url": "https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229787,
+      "name": "Nahil\u00e9",
+      "url": "https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa"
+    },
+    {
+      "album": {
         "name": "Nan ou",
         "url": "https://open.spotify.com/album/6hofahig2OrGv725bqsmo3"
       },
@@ -1839,7 +1884,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 173025,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
@@ -1947,7 +1992,7 @@
       },
       "artists": [
         {
-          "name": "Michael Brun",
+          "name": "Micha\u00ebl Brun",
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
@@ -1995,28 +2040,6 @@
     {
       "album": {
         "name": "Melanin",
-        "url": "https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        }
-      ],
-      "date_added": "2022-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154833,
-      "name": "Oh Mama",
-      "url": "https://open.spotify.com/track/2frWAfuGVi9LwwLb5kZFrP"
-    },
-    {
-      "album": {
-        "name": "Melanin",
         "url": "https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp"
       },
       "artists": [
@@ -2035,6 +2058,28 @@
       "duration_ms": 154833,
       "name": "Oh Mama",
       "url": "https://open.spotify.com/track/6O1JbI2vepUE3dg5XKkHYi"
+    },
+    {
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154833,
+      "name": "Oh Mama",
+      "url": "https://open.spotify.com/track/2frWAfuGVi9LwwLb5kZFrP"
     },
     {
       "album": {
@@ -2379,7 +2424,7 @@
       },
       "artists": [
         {
-          "name": "Michael Brun",
+          "name": "Micha\u00ebl Brun",
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
@@ -2543,6 +2588,36 @@
     {
       "album": {
         "name": "Rap ap rete Rap",
+        "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Medjy",
+          "url": "https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48"
+        },
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        },
+        {
+          "name": "Steves J Bryan",
+          "url": "https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236923,
+      "name": "Si Yo Vle",
+      "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
+    },
+    {
+      "album": {
+        "name": "Rap ap rete Rap",
         "url": "https://open.spotify.com/album/3HYHXy8NXQNGjVQ3V60fgI"
       },
       "artists": [
@@ -2565,7 +2640,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 236996,
       "name": "Si Yo Vle",
       "url": "https://open.spotify.com/track/1wk7KUjKk2n5K8xXlkIKRe"
@@ -2971,7 +3046,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
@@ -3005,10 +3080,6 @@
           "url": "https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l"
         },
         {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
           "name": "Simi",
           "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         },
@@ -3023,6 +3094,10 @@
         {
           "name": "Crayon",
           "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
       "date_added": "2022-11-18",
@@ -3093,7 +3168,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-31",
       "duration_ms": 158663,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
@@ -3137,7 +3212,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-02-01",
       "duration_ms": 241104,
       "name": "Zeptima",
       "url": "https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk"

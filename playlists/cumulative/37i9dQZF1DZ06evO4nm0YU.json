@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
   "name": "This Is H\u00e9ctor Lavoe",
-  "published_playlist_ids": [
-    "0j2EwDOjbaMSFsyJ9zlVrR"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,7 +42,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
@@ -367,7 +364,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 328786,
       "name": "El D\u00eda De Mi Suerte",
       "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
@@ -745,7 +742,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 429840,
       "name": "No Me Den Candela",
       "url": "https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU"
@@ -809,7 +806,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-18",
       "duration_ms": 220453,
       "name": "Pachito Ech\u00e9",
       "url": "https://open.spotify.com/track/35KiYF3wTuoVhVYcFPWNWH"
@@ -891,7 +888,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 197026,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/5keKepe0oMUyZcn6PVXBvV"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
   "name": "The New Waltz",
-  "published_playlist_ids": [
-    "3T7FuaCHpe9xluTwkrgztG"
-  ],
   "tracks": [
     {
       "album": {
@@ -305,7 +302,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 224703,
       "name": "Blind Leading the Blind",
       "url": "https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K"
@@ -327,6 +324,24 @@
       "duration_ms": 224703,
       "name": "Blind Leading The Blind",
       "url": "https://open.spotify.com/track/2WbrVeftLDcSAfQBHxA9P4"
+    },
+    {
+      "album": {
+        "name": "Blind Leading the Blind",
+        "url": "https://open.spotify.com/album/3v8OqfgSCnS5NDTUsg7X1P"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2019-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224703,
+      "name": "Blind Leading the Blind",
+      "url": "https://open.spotify.com/track/77nG5iTzpTcgWL1QFstTIS"
     },
     {
       "album": {
@@ -547,7 +562,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 186586,
       "name": "Every One of Us",
       "url": "https://open.spotify.com/track/5b6zAh5CNRv6dN5JrMNtmk"
@@ -821,7 +836,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 203719,
       "name": "Fuh You",
       "url": "https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ"
@@ -1199,7 +1214,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 259106,
       "name": "Loves Missing",
       "url": "https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM"

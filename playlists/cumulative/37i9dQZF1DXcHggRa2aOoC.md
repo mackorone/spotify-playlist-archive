@@ -4,7 +4,7 @@
 
 > You know that all mornings call for Fairuz.
 
-50 songs - 3 hr 43 min - not published yet
+50 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

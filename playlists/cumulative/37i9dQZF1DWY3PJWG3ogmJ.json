@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
   "name": "Extreme Metal Workout",
-  "published_playlist_ids": [
-    "42zmCNqmVhMbS7GsNCf9fQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -824,6 +821,24 @@
     },
     {
       "album": {
+        "name": "The Battle of Yaldabaoth",
+        "url": "https://open.spotify.com/album/3d4cxbyEmAYdr4feJ8O9ob"
+      },
+      "artists": [
+        {
+          "name": "Infant Annihilator",
+          "url": "https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 166283,
+      "name": "Childchewer",
+      "url": "https://open.spotify.com/track/18xvWGURVYg8hUIRHpowNr"
+    },
+    {
+      "album": {
         "name": "Choke",
         "url": "https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK"
       },
@@ -835,10 +850,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 227440,
       "name": "Choke",
       "url": "https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w"
+    },
+    {
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
     },
     {
       "album": {
@@ -1357,7 +1390,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 235493,
       "name": "Endarkenment",
       "url": "https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO"
@@ -1829,7 +1862,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178307,
       "name": "I Am No Good",
       "url": "https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv"
@@ -2031,7 +2064,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-02",
       "duration_ms": 171491,
       "name": "Keep Your Distance",
       "url": "https://open.spotify.com/track/02p1jKVOK2yzCBvRP3DCzX"
@@ -2417,7 +2450,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 188972,
       "name": "Narcissus",
       "url": "https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K"
@@ -2561,7 +2594,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 266518,
       "name": "No Rest No Peace",
       "url": "https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI"
@@ -2597,7 +2630,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2022-11-29",
       "duration_ms": 249901,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
@@ -2633,7 +2666,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-01",
       "duration_ms": 246360,
       "name": "Of Mice and Mountains",
       "url": "https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7"
@@ -2691,6 +2724,24 @@
       "duration_ms": 149160,
       "name": "One with You",
       "url": "https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9"
+    },
+    {
+      "album": {
+        "name": "Our Time Is Now",
+        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271417,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
     },
     {
       "album": {
@@ -2781,7 +2832,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 157320,
       "name": "Persevere and Overcome",
       "url": "https://open.spotify.com/track/7kWjVG07PMQfgmUMcuISO7"
@@ -2925,7 +2976,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 321970,
       "name": "Protector",
       "url": "https://open.spotify.com/track/6upsBSeTbXQqJzN67uG5Ie"
@@ -3015,7 +3066,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 293000,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/55phx17AxbonvXWipSlHON"

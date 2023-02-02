@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-374 songs - 21 hr 4 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
+376 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All The Fucking Time \- Acoustic](https://open.spotify.com/track/5fPehuzkcZkDFFCwf3fRrc) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [All The Fucking Time](https://open.spotify.com/album/03XismopzA2tyBMH58uE7k) | 2:29 | 2021-03-12 |  |
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2021-03-12 |  |
 | [All Time Low \(Acoustic\)](https://open.spotify.com/track/33CE4nXLOB9O3lZTqawwow) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Kaya May](https://open.spotify.com/artist/7o6uQNwIGw0FgF8U5vnfBV) | [All Time Low \(Acoustic\)](https://open.spotify.com/album/32fySVHCiE5LJdJvFo197h) | 2:52 | 2021-03-12 |  |
+| [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2023-01-03 |  |
 | [As Long As You Love Me \- Acoustic Version](https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:41 | 2021-03-12 |  |
 | [Back To You](https://open.spotify.com/track/3y3nLykfrbL6zCLmfMNQVg) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Back To You](https://open.spotify.com/album/1o6Z13Usl6t73yQTLRVby7) | 3:35 | 2021-03-12 |  |
 | [Behind the Light](https://open.spotify.com/track/3crPGxHwf3PZSxOqaXO3Q5) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Behind the Light](https://open.spotify.com/album/36JPaaHtgvqijZAMHmwXhN) | 2:51 | 2021-03-12 | 2022-07-29 |
@@ -213,7 +214,8 @@
 | [No Promises \- Acoustic](https://open.spotify.com/track/19ARiO0qpUHkhRZIjlCIki) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/3HGsy50RgeXR4iUwfc0MgD) | 3:52 | 2022-04-22 | 2022-11-14 |
 | [No Promises \- Acoustic](https://open.spotify.com/track/1LKxHaLu3RG4xWO0DXZ8OU) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/1MI6gNg0plcEOgs8aezsjH) | 3:52 | 2021-03-12 | 2022-07-29 |
 | [No Promises \- Acoustic](https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S) | 3:52 | 2022-04-22 |  |
-| [Nothin' On You](https://open.spotify.com/track/5kxQ0VfrNTuQ6i63802U11) | [Kajiwara](https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo) | [By Popular Demand, Vol\. 2](https://open.spotify.com/album/1Yv4mQTshB88IeYlQMinVY) | 4:03 | 2021-03-12 |  |
+| [Nothin' On You](https://open.spotify.com/track/5kxQ0VfrNTuQ6i63802U11) | [Kajiwara](https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo) | [By Popular Demand, Vol\. 2](https://open.spotify.com/album/1Yv4mQTshB88IeYlQMinVY) | 4:03 | 2021-03-12 | 2023-01-08 |
+| [Nothin' On You](https://open.spotify.com/track/62q1hnohI2uDDZDtsnqWah) | [Kajiwara](https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo) | [By Popular Demand, Vol\. 2](https://open.spotify.com/album/36GxxUcP4g5cL3Kdfi5xAG) | 4:03 | 2022-12-29 |  |
 | [Novocaine \- Acoustic](https://open.spotify.com/track/1KZu4lCJJ4eCBUm9GgqHIL) | [TigerSwan](https://open.spotify.com/artist/2S0zyCV2F3fecOxuKHzM3i) | [Novocaine \(Acoustic\)](https://open.spotify.com/album/3YeIPHSRWUD5hDEJaB7oOZ) | 2:52 | 2021-03-12 |  |
 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 | 2022-04-22 |  |
 | [Ol' Sweet Day](https://open.spotify.com/track/5FJGb4bs2Y4BbiX59zXksH) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/24DUTosxSiZ6X1h1jMMmKX) | 2:58 | 2021-03-12 | 2022-07-29 |
@@ -237,7 +239,7 @@
 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 | 2021-03-12 |  |
 | [Poison \- Acoustic](https://open.spotify.com/track/3Lpcz58EmUfusfV16tPqPH) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Poison \(Acoustic\)](https://open.spotify.com/album/16KGNmwzTUr81fFTrFBqac) | 3:40 | 2021-03-12 |  |
 | [Polaroid \- Acoustic](https://open.spotify.com/track/2f2gz6LZSz67HWq84Hqn2j) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Polaroid \(Acoustic\)](https://open.spotify.com/album/2DEvmVhv8FjwDXn888pSXW) | 3:37 | 2021-03-12 |  |
-| [Prayer In C](https://open.spotify.com/track/3xDwdnSZNnKg7zFagrZQGf) | [Jona Selle](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP) | [Covers Vol.2](https://open.spotify.com/album/2sBeBIeMfkYnJ9hZnWxwnS) | 2:55 | 2021-03-12 |  |
+| [Prayer In C](https://open.spotify.com/track/3xDwdnSZNnKg7zFagrZQGf) | [JONA XX](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP) | [Covers Vol.2](https://open.spotify.com/album/2sBeBIeMfkYnJ9hZnWxwnS) | 2:55 | 2021-03-12 |  |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/0CpgnSp5byPjRH0CzKTSWh) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Banho Acustico](https://open.spotify.com/album/4vvacVa2MbxLJ8uteNCFpV) | 3:18 | 2022-04-22 | 2022-11-13 |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/6HZnBUYzLfIjejP2dBSrMk) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 3:18 | 2022-04-22 |  |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:18 | 2021-03-12 | 2022-07-29 |

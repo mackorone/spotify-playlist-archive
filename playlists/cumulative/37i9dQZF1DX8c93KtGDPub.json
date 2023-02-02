@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now. Cover: She & Him\n",
   "name": "Folksy Christmas",
-  "published_playlist_ids": [
-    "7FfL6kxJ46PiydiUpSfDYM"
-  ],
   "tracks": [
     {
       "album": {
@@ -596,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/1T2g4dgcXn8qvx75OEnkyB"
+      },
+      "artists": [
+        {
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155261,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/4Vqioxd7rPzv5bJV0YnUVx"
+    },
+    {
+      "album": {
         "name": "Sing Sad Christmas",
         "url": "https://open.spotify.com/album/2aB77OyuNQ2eMt4emOoEjV"
       },
@@ -848,6 +863,28 @@
     },
     {
       "album": {
+        "name": "Maybe This Christmas, Vol. 7: Country Sleigh Ride",
+        "url": "https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2"
+      },
+      "artists": [
+        {
+          "name": "Almost Christmas",
+          "url": "https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "Christmas Dream",
+      "url": "https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl"
+    },
+    {
+      "album": {
         "name": "Christmas Dream",
         "url": "https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4"
       },
@@ -859,7 +896,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 177866,
       "name": "Christmas Dream",
       "url": "https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk"
@@ -1468,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "Maybe This Christmas, Vol. 6: Holiday Cheer",
+        "url": "https://open.spotify.com/album/6cymDG3h1yntlgB608r5Ux"
+      },
+      "artists": [
+        {
+          "name": "Almost Christmas",
+          "url": "https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF"
+        },
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "Hang a String of Lights",
+      "url": "https://open.spotify.com/track/6gj7JWe25jFSpFEWKjxadz"
+    },
+    {
+      "album": {
         "name": "Isn't This World Enough?? A Nettwerk Christmas",
         "url": "https://open.spotify.com/album/3o2aareSZ1ku3Sw0BCixcT"
       },
@@ -1479,7 +1538,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 174173,
       "name": "Hang a String of Lights",
       "url": "https://open.spotify.com/track/57sCC8Igwgq174nkBYqcMF"
@@ -2369,6 +2428,28 @@
       "duration_ms": 202186,
       "name": "Lo! How A Rose E'er Blooming",
       "url": "https://open.spotify.com/track/5UjM0Y6EZxS63o1Ntqo7jR"
+    },
+    {
+      "album": {
+        "name": "Lonely on Christmas",
+        "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        },
+        {
+          "name": "Mike and the Moonpies",
+          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189118,
+      "name": "Lonely on Christmas",
+      "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
     },
     {
       "album": {
@@ -3301,6 +3382,24 @@
     {
       "album": {
         "name": "Silver Bells",
+        "url": "https://open.spotify.com/album/3xf3VdXLz6ZtvnCFCxYUou"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115899,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/45ppW2lNnho5FgWdfK3EO9"
+    },
+    {
+      "album": {
+        "name": "Silver Bells",
         "url": "https://open.spotify.com/album/3dmQnVznMkC3m5JRwwYkKz"
       },
       "artists": [
@@ -3627,6 +3726,60 @@
       "duration_ms": 126600,
       "name": "Take Me Back to Toyland",
       "url": "https://open.spotify.com/track/7a9o50udnCEeGVfUdI084k"
+    },
+    {
+      "album": {
+        "name": "Christmas is Cancelled",
+        "url": "https://open.spotify.com/album/2584cImcXalWKOj9zVZ03y"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229833,
+      "name": "Thank You Bruce",
+      "url": "https://open.spotify.com/track/3EBawrYqLkRHQXVtOqngwa"
+    },
+    {
+      "album": {
+        "name": "Christmas is Cancelled",
+        "url": "https://open.spotify.com/album/6j1izZ3gWtFntdOFo6tSd7"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 229833,
+      "name": "Thank You Bruce",
+      "url": "https://open.spotify.com/track/58s8IcZgunOrevqKl6Cz4x"
+    },
+    {
+      "album": {
+        "name": "Christmas is Cancelled",
+        "url": "https://open.spotify.com/album/39DWV95LYxnj5FbJYOZeMs"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 229833,
+      "name": "Thank You Bruce",
+      "url": "https://open.spotify.com/track/72ivBx0IV4zJ2R5dMKTeJz"
     },
     {
       "album": {

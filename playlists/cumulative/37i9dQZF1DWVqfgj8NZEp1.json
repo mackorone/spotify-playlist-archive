@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Relax to the sound of gentle instrumental Jazz.",
   "name": "Coffee Table Jazz",
-  "published_playlist_ids": [
-    "1BNyDUqpnIIfJt1H1RWx5R"
-  ],
   "tracks": [
     {
       "album": {
@@ -203,7 +200,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 419626,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
@@ -229,7 +226,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 316746,
       "name": "A Quiet Dawn",
       "url": "https://open.spotify.com/track/49vQNdC75cHdQ6JLsxGKPJ"
@@ -643,10 +640,36 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 317946,
       "name": "Before It's Time to Say Goodbye",
       "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
+    },
+    {
+      "album": {
+        "name": "Moods",
+        "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
+      },
+      "artists": [
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486314,
+      "name": "Blame It on My Youth",
+      "url": "https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS"
     },
     {
       "album": {
@@ -673,32 +696,6 @@
       "duration_ms": 486314,
       "name": "Blame It on My Youth",
       "url": "https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z"
-    },
-    {
-      "album": {
-        "name": "Moods",
-        "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
-      },
-      "artists": [
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        },
-        {
-          "name": "Henrik Gunde",
-          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
-        }
-      ],
-      "date_added": "2022-06-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 486314,
-      "name": "Blame It on My Youth",
-      "url": "https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS"
     },
     {
       "album": {
@@ -751,7 +748,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 394920,
       "name": "Blue Ballad",
       "url": "https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n"
@@ -803,6 +800,28 @@
       "duration_ms": 371890,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/1yKzcK9jV55JNsf0wQ43tZ"
+    },
+    {
+      "album": {
+        "name": "Bosse Zorro",
+        "url": "https://open.spotify.com/album/6LrpCNNRKvpn0F9sRZ38UY"
+      },
+      "artists": [
+        {
+          "name": "OHOJ",
+          "url": "https://open.spotify.com/artist/5oL30GXMiPkJpEQ99Q7Cdh"
+        },
+        {
+          "name": "Hannes Bennich",
+          "url": "https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247546,
+      "name": "Bosse Zorro",
+      "url": "https://open.spotify.com/track/2QgZMS7J44N1cHflkK2are"
     },
     {
       "album": {
@@ -945,6 +964,28 @@
       "duration_ms": 283650,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/7hW3pQ8yVD94VzKiX0RC8u"
+    },
+    {
+      "album": {
+        "name": "Colonel Sanders (Two Moons Analog Session)",
+        "url": "https://open.spotify.com/album/0WDdLI63t4lp8YCItwfRPm"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Gahler",
+          "url": "https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W"
+        },
+        {
+          "name": "Denis G\u00e4bel",
+          "url": "https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319732,
+      "name": "Colonel Sanders - Two Moons Analog Session",
+      "url": "https://open.spotify.com/track/6sq2nfadF6Riqdbb3e5k8U"
     },
     {
       "album": {
@@ -1175,7 +1216,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 326413,
       "name": "Detour Ahead",
       "url": "https://open.spotify.com/track/63veqr50DnmHuo7M34fmqL"
@@ -1451,7 +1492,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 433438,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/77W0DKmlfrMCTIyQZQdEEI"
@@ -1917,7 +1958,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 586185,
       "name": "How Can I Tell You - Live",
       "url": "https://open.spotify.com/track/4ZUlQw3KS7qiBrgJxSyel0"
@@ -2160,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "I Wish You Met Her",
+        "url": "https://open.spotify.com/album/2Qmi1r9hpLHM0wHWWbx8vb"
+      },
+      "artists": [
+        {
+          "name": "Claudio Jr De Rosa",
+          "url": "https://open.spotify.com/artist/1gam3nB9smXwsHKjVffhuM"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310013,
+      "name": "I Wish You Met Her",
+      "url": "https://open.spotify.com/track/5Meffn7R7UxaTo7LbUjvWV"
+    },
+    {
+      "album": {
         "name": "Powell to the People",
         "url": "https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE"
       },
@@ -2179,7 +2238,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 314763,
       "name": "I'll Keep Loving You",
       "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
@@ -2375,7 +2434,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 373880,
       "name": "Isadora",
       "url": "https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y"
@@ -2625,6 +2684,24 @@
       "duration_ms": 433786,
       "name": "La fin justifie les moyens",
       "url": "https://open.spotify.com/track/1zowWjoCroDC3WZYxbrlNQ"
+    },
+    {
+      "album": {
+        "name": "The Crown & Lobster Trilogy, Pt. II: Blue Is All That's Left",
+        "url": "https://open.spotify.com/album/1dFS8wIJxvJpFtOcLsti40"
+      },
+      "artists": [
+        {
+          "name": "Eric van der Westen",
+          "url": "https://open.spotify.com/artist/0yaTeYrw4ULzSJjbhuRk3d"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291498,
+      "name": "La Margaillette",
+      "url": "https://open.spotify.com/track/0DqU9yL6tcAKzXnJeP2kUs"
     },
     {
       "album": {
@@ -2945,10 +3022,28 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 413813,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/3YXb6d0LRSc3UaYafQ6acE"
+    },
+    {
+      "album": {
+        "name": "City of Sounds",
+        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
+      },
+      "artists": [
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413813,
+      "name": "Moonlight in Vermont",
+      "url": "https://open.spotify.com/track/5SjukQ9cPwYxzUkrxrh4Ri"
     },
     {
       "album": {
@@ -3457,7 +3552,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 482186,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/4UhBGmqcApvAZFTq53ukh7"
@@ -3475,10 +3570,32 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 228403,
       "name": "On a Turquoise Cloud",
       "url": "https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs"
+    },
+    {
+      "album": {
+        "name": "On Late Nights",
+        "url": "https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269702,
+      "name": "On Late Nights",
+      "url": "https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D"
     },
     {
       "album": {
@@ -3721,7 +3838,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 267358,
       "name": "Popkoral",
       "url": "https://open.spotify.com/track/6escBA2tVhUpcc2M5YmtVk"
@@ -3827,6 +3944,24 @@
       "duration_ms": 311480,
       "name": "Romaria",
       "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
+    },
+    {
+      "album": {
+        "name": "Ruth",
+        "url": "https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly"
+      },
+      "artists": [
+        {
+          "name": "Joe Chambers",
+          "url": "https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251277,
+      "name": "Ruth",
+      "url": "https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD"
     },
     {
       "album": {
@@ -3995,7 +4130,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 340506,
       "name": "So Lovely",
       "url": "https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2"
@@ -4049,7 +4184,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 371469,
       "name": "Song For Abdullah - Bonus",
       "url": "https://open.spotify.com/track/20qnvRo3H9PHXH6tn5EP6G"
@@ -4675,6 +4810,18 @@
         {
           "name": "Harry Allen",
           "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+        },
+        {
+          "name": "DAVE BLENKHORN",
+          "url": "https://open.spotify.com/artist/7FLBpcEMOMxk9hMNRfVaOo"
+        },
+        {
+          "name": "MIKE KARN",
+          "url": "https://open.spotify.com/artist/5mkudOQ2e9XucYqI0QOFmg"
+        },
+        {
+          "name": "QUENTIN BAXTER",
+          "url": "https://open.spotify.com/artist/3Y89pBxhMVkFWtkA62yAPU"
         }
       ],
       "date_added": "2022-01-21",
@@ -4709,7 +4856,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 388346,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/5Bl1TC8Y1qh3ui6fGSWL5a"
@@ -4789,7 +4936,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 304293,
       "name": "Theme for Ernie",
       "url": "https://open.spotify.com/track/5duSC0GiQTYs2fdYnS4Qx5"
@@ -4854,6 +5001,40 @@
     },
     {
       "album": {
+        "name": "This Is Our Year",
+        "url": "https://open.spotify.com/album/0vly6DrBxbf2tIUB33vOh0"
+      },
+      "artists": [
+        {
+          "name": "Thomas Sejthen Trio",
+          "url": "https://open.spotify.com/artist/66wuq7K0KsFPamcuZJI3LM"
+        },
+        {
+          "name": "Thomas Sejthen",
+          "url": "https://open.spotify.com/artist/785HPw9fdKz7GmwfItsc2K"
+        },
+        {
+          "name": "Mads Ole Erhardsen",
+          "url": "https://open.spotify.com/artist/6q6FdyAk4gR1slw690LP4o"
+        },
+        {
+          "name": "Jesper Bo Knudsen",
+          "url": "https://open.spotify.com/artist/767zb5lIt0ZuBdDbiBbSUO"
+        },
+        {
+          "name": "S\u00f8ren Bigum",
+          "url": "https://open.spotify.com/artist/0XKjUjSwm1Am2d3M25U2rl"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371894,
+      "name": "This Is Our Year",
+      "url": "https://open.spotify.com/track/24USzMZvsczfg3WsjUruPc"
+    },
+    {
+      "album": {
         "name": "Through the Rain",
         "url": "https://open.spotify.com/album/6FtYUX8NSsxzxleDwqnQB8"
       },
@@ -4901,7 +5082,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 248666,
       "name": "Tis Our Prayer",
       "url": "https://open.spotify.com/track/1A6rWsVB4JNfsvVcAN2FdY"

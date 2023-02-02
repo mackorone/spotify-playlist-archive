@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-07",
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
   "name": "La Dinast\u00eda de... Los Aguilar",
-  "published_playlist_ids": [
-    "4IaS7qt7IgxoHpK2AE8vDm"
-  ],
   "tracks": [
     {
       "album": {
@@ -84,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+    },
+    {
+      "album": {
         "name": "De Plaza En Plaza (Cumbia Sinf\u00f3nica/Deluxe)",
         "url": "https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M"
       },
@@ -153,7 +168,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 147513,
       "name": "Anillo Grabado",
       "url": "https://open.spotify.com/track/4M3A1xOY409r0cGLEKSDmf"
@@ -171,7 +186,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 187280,
       "name": "As\u00ed Es La Vida",
       "url": "https://open.spotify.com/track/3c8lIXaRUGniycNN1Mz2i7"
@@ -255,6 +270,24 @@
       "duration_ms": 195665,
       "name": "Busca Otro Amor",
       "url": "https://open.spotify.com/track/0d70DBNHHVgJC0GQ90BIrY"
+    },
+    {
+      "album": {
+        "name": "Cielo Rojo",
+        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 258048,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
     },
     {
       "album": {
@@ -439,7 +472,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-15",
       "duration_ms": 195744,
       "name": "El Moro De Cumpas",
       "url": "https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4"
@@ -890,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Mi Gusto Es Con Tambora",
+        "url": "https://open.spotify.com/album/3Zjx5IAwDDMUfYagxBP4wg"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 206657,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/59nRuCsjHNdHNrs6BMj3fR"
+    },
+    {
+      "album": {
         "name": "Antonio Aguilar Con Tambora",
         "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
       },
@@ -1017,7 +1068,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 271000,
       "name": "Ni Contigo, Ni Sin Ti",
       "url": "https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd"

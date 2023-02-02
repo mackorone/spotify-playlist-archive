@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help you find that work/pause balance. Co-curation: Varun Duggirala",
-  "num_followers": 3378,
+  "num_followers": 3602,
   "original_name": "PAUSE: Productivity",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUxMzY3NCwwMDAwMDAwMGZlMzcyMTVhNDhiZTVjN2U2YTVkNTY3YTc2OTZiYWI3",
+  "snapshot_id": "MTY3MTQzOTQzMiwwMDAwMDAwMGY3MTE0NDY4Njc5NjliZGNjMzljOTUyN2MzZTViYTdj",
   "tracks": [
     {
       "added_at": "2022-11-15 12:01:14",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-15 12:01:14",
       "album": {
-        "name": "Post It Beats Pt.1",
-        "url": "https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4"
-      },
-      "artists": [
-        {
-          "name": "Breakfast For Brunch",
-          "url": "https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "After Surf Sandwich",
-      "url": "https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV"
-    },
-    {
-      "added_at": "2022-11-15 12:01:14",
-      "album": {
         "name": "Plant Based",
         "url": "https://open.spotify.com/album/2Ep5JJmZhnzaWMK1K33QX2"
       },
@@ -1135,22 +1119,6 @@
       "duration_ms": 147732,
       "name": "Komori Uta",
       "url": "https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu"
-    },
-    {
-      "added_at": "2022-11-15 12:01:14",
-      "album": {
-        "name": "Echo Cliff",
-        "url": "https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el"
-      },
-      "artists": [
-        {
-          "name": "Moodula",
-          "url": "https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "Peach Sky",
-      "url": "https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD"
     }
   ],
   "unique_name": "PAUSE: Productivity",

@@ -4,7 +4,7 @@
 
 > Fire up the grill and enjoy this playlist with the whole family.
 
-65 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/3oUCrpB9ntTb9UkqHlgytt)
+66 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2021-05-25 |  |
 | [Party In The U.S.A.](https://open.spotify.com/track/5VGIhl8LdqmFv1PLOdTz4Q) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Disney's Top Ten](https://open.spotify.com/album/6RyrR4ylaJl6uOIi323Z2u) | 3:22 | 2021-05-25 | 2022-07-29 |
 | [Party In The USA](https://open.spotify.com/track/3OtUDYBkxryDrOoNfScc1D) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Dance Party!](https://open.spotify.com/album/525dVWGpqdJBWBtEFzZVDU) | 3:23 | 2021-05-25 |  |
-| [Peaches](https://open.spotify.com/track/3VEFybccRTeWSZRkJxDuNR) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:51 | 2021-05-25 |  |
+| [Peaches](https://open.spotify.com/track/3VEFybccRTeWSZRkJxDuNR) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:51 | 2021-05-25 | 2023-01-05 |
+| [Peaches](https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:51 | 2021-05-25 |  |
 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 | 2021-05-25 |  |
 | [Pocketful of Sunshine](https://open.spotify.com/track/4hjuUelurEBKlqpJPJ77Iw) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:23 | 2021-05-25 | 2022-07-29 |
 | [Pool Party](https://open.spotify.com/track/1ORFX0Ydw9aLcDVo4vHg2n) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [Myths, Legends And Other Amazing Adventures Vol\. 2](https://open.spotify.com/album/0KPmkUkjGOSYta4AJM1SwJ) | 4:15 | 2021-05-25 |  |

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff0c\u9999\u6e2fRADAR\u8d85\u65b0\u8072\u6b63\u5f0f\u5c55\u958b\uff01Cover: \u9e97\u82f1",
+  "description": "\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff0c\u9999\u6e2fRADAR\u8d85\u65b0\u8072\u6b63\u5f0f\u5c55\u958b\uff01",
   "name": "RADAR HK",
-  "published_playlist_ids": [
-    "2GxyEQrmuXvghh261BCyYI"
-  ],
   "tracks": [
     {
       "album": {
@@ -67,6 +64,24 @@
       "duration_ms": 305360,
       "name": "@renee_0928",
       "url": "https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo"
+    },
+    {
+      "album": {
+        "name": "bad weather",
+        "url": "https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173631,
+      "name": "bad weather",
+      "url": "https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm"
     },
     {
       "album": {
@@ -745,10 +760,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 206345,
       "name": "Sway Away",
       "url": "https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM"
+    },
+    {
+      "album": {
+        "name": "The Bright Side",
+        "url": "https://open.spotify.com/album/6O3wNNGmDracvPAKqI7UwJ"
+      },
+      "artists": [
+        {
+          "name": "COLLAR",
+          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250406,
+      "name": "The Bright Side",
+      "url": "https://open.spotify.com/track/2S0xQFTOafzeErzgTaQavg"
     },
     {
       "album": {
@@ -1118,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "\u6642\u9593\u8a08",
+        "url": "https://open.spotify.com/album/2jvVEaHcTs3q3F3WA77RZT"
+      },
+      "artists": [
+        {
+          "name": "Triple G ",
+          "url": "https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "\u6642\u9593\u8a08",
+      "url": "https://open.spotify.com/track/5WB57ar8s4gFszp0tBCnn0"
+    },
+    {
+      "album": {
         "name": "\u6771\u4eac\u4e00\u8f49",
         "url": "https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0"
       },
@@ -1151,6 +1202,24 @@
       "duration_ms": 226702,
       "name": "\u6771\u4eac\u5922\u904a (\u6771\u4eac\u4e00\u8f49 Japanese Version)",
       "url": "https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33"
+    },
+    {
+      "album": {
+        "name": "\u689f",
+        "url": "https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls"
+      },
+      "artists": [
+        {
+          "name": "Novel Fergus",
+          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221546,
+      "name": "\u6c5f\u6e56",
+      "url": "https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c"
     },
     {
       "album": {
@@ -1226,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "\u689f",
+        "url": "https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls"
+      },
+      "artists": [
+        {
+          "name": "Novel Fergus",
+          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213718,
+      "name": "\u795e\u8a71",
+      "url": "https://open.spotify.com/track/2LghoR88w97O8Szz4AKJWk"
+    },
+    {
+      "album": {
         "name": "Bluesea EP (Extended Version)",
         "url": "https://open.spotify.com/album/3mQOhYbV2Q7TulGiPcXZzK"
       },
@@ -1245,6 +1332,64 @@
       "duration_ms": 212500,
       "name": "\u807d\u6d77\u6d6a",
       "url": "https://open.spotify.com/track/7nlBO1PoiiB5rjro96w35l"
+    },
+    {
+      "album": {
+        "name": "\u81f3\u5c0a\u5bf6",
+        "url": "https://open.spotify.com/album/4zU7ZbEFX2K0nkaFstuHfr"
+      },
+      "artists": [
+        {
+          "name": "Novel Fergus",
+          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228250,
+      "name": "\u81f3\u5c0a\u5bf6",
+      "url": "https://open.spotify.com/track/3ttnCFGnBXNrwci9N8a5NK"
+    },
+    {
+      "album": {
+        "name": "\u689f",
+        "url": "https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls"
+      },
+      "artists": [
+        {
+          "name": "Novel Fergus",
+          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170437,
+      "name": "\u838a",
+      "url": "https://open.spotify.com/track/3EzQ6PZT9eMDKUxsxwFDVt"
+    },
+    {
+      "album": {
+        "name": "\u689f",
+        "url": "https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls"
+      },
+      "artists": [
+        {
+          "name": "Novel Fergus",
+          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
+        },
+        {
+          "name": "ZAIN",
+          "url": "https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "\u89d2\u5ea6 (feat. ZAIN)",
+      "url": "https://open.spotify.com/track/1fEOejvs3lGYCkdTmicb8s"
     },
     {
       "album": {
@@ -1299,6 +1444,32 @@
       "duration_ms": 262967,
       "name": "\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/4jxVPx9LaVbEtJlWTUcqQ1"
+    },
+    {
+      "album": {
+        "name": "\u689f",
+        "url": "https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls"
+      },
+      "artists": [
+        {
+          "name": "Novel Fergus",
+          "url": "https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR"
+        },
+        {
+          "name": "PetPetShawn",
+          "url": "https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM"
+        },
+        {
+          "name": "Polar G",
+          "url": "https://open.spotify.com/artist/3uALJGaW8zzDcfuzKftTYL"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "\u9577\u547d\u659c (feat. PetPetShawn & Polar G)",
+      "url": "https://open.spotify.com/track/28tAShSWb3LVHkmjIG2Jbi"
     },
     {
       "album": {

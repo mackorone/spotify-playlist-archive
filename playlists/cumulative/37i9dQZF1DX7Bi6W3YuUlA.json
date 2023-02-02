@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
   "name": "Blessings",
-  "published_playlist_ids": [
-    "335WJRer6HYh9zgu1XDap1"
-  ],
   "tracks": [
     {
       "album": {
@@ -161,7 +158,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 167142,
       "name": "ABOVE ME (feat. Parris Chariz)",
       "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
@@ -527,7 +524,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 196571,
       "name": "Azusa",
       "url": "https://open.spotify.com/track/4K7SaRHg1R95srP3qkuIMc"
@@ -665,7 +662,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 176076,
       "name": "Be Gone (feat. Mike Teezy)",
       "url": "https://open.spotify.com/track/2cnc9jsFHDsGDQpYBMtgP9"
@@ -1064,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "WINGS OF AN ANGEL",
+        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120888,
+      "name": "butterfly vibes 2",
+      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
+    },
+    {
+      "album": {
         "name": "Cafeteria",
         "url": "https://open.spotify.com/album/6q84E0z9N2ZWBFLBWgADP5"
       },
@@ -1283,7 +1298,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 134123,
       "name": "Chokehold",
       "url": "https://open.spotify.com/track/4zSSSXwurah8BSvbKlH5vc"
@@ -1545,7 +1560,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 250285,
       "name": "Die Empty",
       "url": "https://open.spotify.com/track/6sHj4isyrw1d5hlgEnvALC"
@@ -1665,7 +1680,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 165666,
       "name": "Dreamworld",
       "url": "https://open.spotify.com/track/33zUvNgfOVKXAVoclCrKhq"
@@ -2019,6 +2034,24 @@
       "duration_ms": 157640,
       "name": "Feelin\u2019 Blessed",
       "url": "https://open.spotify.com/track/2ra2e3dUMbtZj9c6H7NGqV"
+    },
+    {
+      "album": {
+        "name": "Ficky Ficky",
+        "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104147,
+      "name": "Ficky Ficky",
+      "url": "https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd"
     },
     {
       "album": {
@@ -2497,7 +2530,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 186906,
       "name": "Grind (feat. Kaleb Mitchell)",
       "url": "https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8"
@@ -2723,7 +2756,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 149213,
       "name": "Holy",
       "url": "https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO"
@@ -2851,6 +2884,10 @@
         {
           "name": "WHATUPRG",
           "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        },
+        {
+          "name": "Rhomar Jessy",
+          "url": "https://open.spotify.com/artist/1jqR1m20qbEMSLfigWG6jT"
         }
       ],
       "date_added": "2022-11-18",
@@ -3085,7 +3122,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 181416,
       "name": "I's On Him",
       "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
@@ -4117,12 +4154,12 @@
           "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
         },
         {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
           "name": "A.I. The Anomaly",
           "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
+        },
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
         }
       ],
       "date_added": "2022-11-18",
@@ -4479,6 +4516,24 @@
       "duration_ms": 175018,
       "name": "No Loss",
       "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
+    },
+    {
+      "album": {
+        "name": "NO WEAPON",
+        "url": "https://open.spotify.com/album/1dCQ5hg9mhPYH59HCPwGJF"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224465,
+      "name": "NO WEAPON",
+      "url": "https://open.spotify.com/track/6gLLWeqFXGYQ5BHzKhM5y5"
     },
     {
       "album": {
@@ -4885,7 +4940,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2022-12-29",
       "duration_ms": 182487,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
@@ -5110,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "Pray 2 God",
+        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "Pray 2 God",
+      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
+    },
+    {
+      "album": {
         "name": "Pray for Me",
         "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
       },
@@ -5261,7 +5334,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 187862,
       "name": "Proverbs & Beats",
       "url": "https://open.spotify.com/track/4zQESthz8AqH8zrKd7Jew2"
@@ -5301,7 +5374,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 163876,
       "name": "Put in on This",
       "url": "https://open.spotify.com/track/3pkRjhx8USyXAb8fqf02A0"
@@ -5594,6 +5667,28 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/2gsAFy50lZsU5vrzFin6sd"
+      },
+      "artists": [
+        {
+          "name": "Lyne Nsongo",
+          "url": "https://open.spotify.com/artist/5jSmCziGF235deMJthrIMA"
+        },
+        {
+          "name": "David Okit",
+          "url": "https://open.spotify.com/artist/2TNEke8iPCbFBj8Tp9KlnJ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/4qzirIMTlJblsRSkVByPHX"
+    },
+    {
+      "album": {
         "name": "Safe N Sound",
         "url": "https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN"
       },
@@ -5660,6 +5755,24 @@
     },
     {
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/5scwM6Xd2qBEZk6ma6MdsS"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 172695,
+      "name": "SET IT OFF",
+      "url": "https://open.spotify.com/track/4IoyhUh08KsDcoWjPbr58e"
+    },
+    {
+      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/3mF8bo5vU8c4HfEvi3TGDl"
       },
@@ -5701,7 +5814,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 200727,
       "name": "SHINING",
       "url": "https://open.spotify.com/track/3Ng0ZXSlo5E1CAgE6AhDhJ"
@@ -5741,7 +5854,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 222375,
       "name": "SIX THIRTY",
       "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
@@ -5997,6 +6110,36 @@
       "duration_ms": 88294,
       "name": "STILL GOING",
       "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
+    },
+    {
+      "album": {
+        "name": "Still Hungry",
+        "url": "https://open.spotify.com/album/5Aalwoihbm3hpdDQaGpXp2"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "ZOU",
+          "url": "https://open.spotify.com/artist/0p8iLYWR8cuT4AovbkPIxu"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/4AERNlPWo2z86KfUCfu2LU"
+        },
+        {
+          "name": "outr.cty",
+          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 204358,
+      "name": "Still Hungry",
+      "url": "https://open.spotify.com/track/5Pfd2yyAFif05Ie3oorPoB"
     },
     {
       "album": {
@@ -6509,6 +6652,24 @@
       "duration_ms": 229413,
       "name": "Trials and Tribulations",
       "url": "https://open.spotify.com/track/5vlGygcIVC8P6Mvj1f42aK"
+    },
+    {
+      "album": {
+        "name": "Tricky",
+        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132635,
+      "name": "Tricky",
+      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
     },
     {
       "album": {
@@ -7133,6 +7294,24 @@
       "duration_ms": 171694,
       "name": "Wodie",
       "url": "https://open.spotify.com/track/1IBGr5TmgoSeo8ufM3pSRb"
+    },
+    {
+      "album": {
+        "name": "Woosah",
+        "url": "https://open.spotify.com/album/6dHdewGLzf3DS7IzYMQ3lX"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 157753,
+      "name": "Woosah",
+      "url": "https://open.spotify.com/track/0E1kivol5RnT49KmePFnYc"
     },
     {
       "album": {

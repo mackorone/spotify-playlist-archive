@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo esencial de René.
 
-19 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/1yQp1AISCS3ieoWUwr4OMq)
+19 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

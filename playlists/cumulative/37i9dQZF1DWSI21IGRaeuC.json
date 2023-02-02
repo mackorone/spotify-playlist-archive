@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "Dive into the deep end of the tech house spectrum.",
   "name": "Minimal Tech",
-  "published_playlist_ids": [
-    "2MGDejgSLmj2L39yQz6FnP"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,7 +42,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 243809,
       "name": "All I Want - Original Mix",
       "url": "https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M"
@@ -117,7 +114,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 206400,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
@@ -531,7 +528,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 407000,
       "name": "DJ Lover - Original Mix",
       "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
@@ -611,7 +608,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 397500,
       "name": "euphoric.",
       "url": "https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1"
@@ -893,7 +890,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 434000,
       "name": "Hydroponic",
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
@@ -1139,7 +1136,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 321818,
       "name": "LOL",
       "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
@@ -1371,7 +1368,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-10",
       "duration_ms": 167638,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
@@ -1935,7 +1932,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 333026,
       "name": "So Sweet - Matthias Tanzmann Remix",
       "url": "https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5"
@@ -2047,7 +2044,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 197502,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
@@ -2228,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "The True Secrets",
+        "url": "https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 384115,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945"
+    },
+    {
+      "album": {
         "name": "Tonight EP",
         "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
       },
@@ -2239,7 +2254,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-02-01",
       "duration_ms": 352500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"

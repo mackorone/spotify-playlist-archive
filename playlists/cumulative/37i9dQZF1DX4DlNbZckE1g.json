@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Lose yourself in the summer daze...",
   "name": "Summer Chillout",
-  "published_playlist_ids": [
-    "4JRzjnOLPijNmAgihe8x2o"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,24 +24,6 @@
       "duration_ms": 191074,
       "name": "2gether",
       "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
-    },
-    {
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2022-02-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -147,6 +126,24 @@
       "duration_ms": 185883,
       "name": "All That (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/5rzndDb4DgVkOsIsfbRv0q"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {

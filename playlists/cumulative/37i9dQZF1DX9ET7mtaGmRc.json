@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-08",
   "description": "\ucd95\uad6c \uc2dc\uc98c\uc774 \ub3cc\uc544\uc654\uc2b5\ub2c8\ub2e4! \uc2dc\ud569\uc758 \uc5f4\uae30\uac00 \uac00\ub4dd\ud55c \ub178\ub798\ub4e4\uacfc \ud568\uaed8 \ubd89\uc740 \uc545\ub9c8\uac00 \ub418\uc5b4\ubcf4\uc138\uc694!",
   "name": "Reds, Korea! (\ucd95\uad6c \uc751\uc6d0\uac00)",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -550,6 +549,28 @@
     },
     {
       "album": {
+        "name": "Shakira. (Expanded Edition) [Spanish Version]",
+        "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "La La La (Brasil 2014) (feat. Carlinhos Brown)",
+      "url": "https://open.spotify.com/track/6i2kn3iS5WKzsaYBdeHLIQ"
+    },
+    {
+      "album": {
         "name": "The 2014 FIFA World Cup Official Album: One Love, One Rhythm",
         "url": "https://open.spotify.com/album/5htwZrf4lCiZ6GTj9Z0CMo"
       },
@@ -565,7 +586,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 197680,
       "name": "La La La (Brazil 2014) (feat. Carlinhos Brown)",
       "url": "https://open.spotify.com/track/2A17TySL9lcoRTA28w9yfB"
@@ -801,6 +822,28 @@
       "duration_ms": 197616,
       "name": "Seven Nation Army (Remix)",
       "url": "https://open.spotify.com/track/0euZRoKYCN8HWgtwwxC1Re"
+    },
+    {
+      "album": {
+        "name": "Sign Of A Victory (feat. Soweto Spiritual Singers) [The Official 2010 FIFA World Cup(TM) Anthem]",
+        "url": "https://open.spotify.com/album/0dpeqKCpdTmHnAmBmn5E98"
+      },
+      "artists": [
+        {
+          "name": "R. Kelly",
+          "url": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+        },
+        {
+          "name": "Soweto Spiritual Singers",
+          "url": "https://open.spotify.com/artist/3232leMew7GVv6CsB87gb8"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253906,
+      "name": "Sign Of A Victory (feat. Soweto Spiritual Singers) - The Official 2010 FIFA World Cup(TM) Anthem",
+      "url": "https://open.spotify.com/track/02Tvus8GNFWQDh6bKX9aH8"
     },
     {
       "album": {
@@ -1145,10 +1188,32 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202626,
       "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
+    },
+    {
+      "album": {
+        "name": "Listen Up! The Official 2010 FIFA World Cup Album",
+        "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
     },
     {
       "album": {

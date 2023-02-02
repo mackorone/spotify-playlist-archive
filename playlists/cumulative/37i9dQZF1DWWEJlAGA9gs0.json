@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of classical music.",
   "name": "Classical Essentials",
-  "published_playlist_ids": [
-    "4GpVB3ZYw6xDnEoi26xxbh"
-  ],
   "tracks": [
     {
       "album": {
@@ -518,7 +515,7 @@
     },
     {
       "album": {
-        "name": "Samuel Barber - Adagio (100th anniversary)",
+        "name": "Samuel Barber - Adagio",
         "url": "https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu"
       },
       "artists": [
@@ -539,7 +536,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 537426,
-      "name": "Barber: Adagio for Strings, Op. 11",
+      "name": "Barber: Adagio for Strings",
       "url": "https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau"
     },
     {
@@ -1781,7 +1778,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204373,
-      "name": "Jazz Suite No. 2: 4. Waltz I",
+      "name": "Jazz Suite No. 2: IV. Waltz I",
       "url": "https://open.spotify.com/track/18ZnvEB9bxLnvSogWRek79"
     },
     {
@@ -4265,7 +4262,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 302986,
       "name": "Speaking Unto Nations (Beethoven Symphony no 7 - II )",
       "url": "https://open.spotify.com/track/08azG1JwwVnkwCMd5focAU"
@@ -4291,7 +4288,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 302986,
       "name": "Speaking Unto Nations (Beethoven Symphony no 7 - II )",
       "url": "https://open.spotify.com/track/0PiKaKQ6gtovR4DtVg8aNn"
@@ -5055,7 +5052,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 469053,
-      "name": "Symphony No. 3 in C Minor, Op. 78 \"Organ Symphony\": 2b. Maestoso - Pi\u00f9 allegro - Molto allegro",
+      "name": "Symphony No. 3 in C Minor, Op. 78 \"Organ Symphony\": IIb. Maestoso - Pi\u00f9 allegro - Molto allegro",
       "url": "https://open.spotify.com/track/0XSRBlP49MgzBCYtGK2NYE"
     },
     {
@@ -6005,7 +6002,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 139306,
-      "name": "The Well-Tempered Clavier: Book 1, BWV 846-869: I. Prelude in C Major, BWV 846",
+      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",
       "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
     },
     {

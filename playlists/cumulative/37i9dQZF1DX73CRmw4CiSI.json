@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-30",
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
   "name": "Veranito a la Espa\u00f1ola",
-  "published_playlist_ids": [
-    "0R3aiZ5IuPHrMCNNbivzBm"
-  ],
   "tracks": [
     {
       "album": {
@@ -610,6 +607,24 @@
     },
     {
       "album": {
+        "name": "10 A\u00f1os Around The World",
+        "url": "https://open.spotify.com/album/1vXo40YW3uDom5F3OifM1z"
+      },
+      "artists": [
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Hoy Puede Ser un Gran Dia - Tributo a Serrat",
+      "url": "https://open.spotify.com/track/1vcZt7qwR9bgVSh7obMjFd"
+    },
+    {
+      "album": {
         "name": "10 A\u00f1os Around The World (Version Comentada)",
         "url": "https://open.spotify.com/album/1AZA9yNFMmcawToDITEscY"
       },
@@ -621,7 +636,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 195466,
       "name": "Hoy Puede Ser un Gran Dia - Tributo a Serrat",
       "url": "https://open.spotify.com/track/1WOn068GSVYKoIXj2veXsw"
@@ -729,13 +744,17 @@
         {
           "name": "La Cabra Mecanica",
           "url": "https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje"
+        },
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
         }
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221373,
-      "name": "La lista de la compra",
+      "name": "La lista de la compra (feat. Mar\u00eda Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ"
     },
     {

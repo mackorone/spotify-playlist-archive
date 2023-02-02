@@ -4,7 +4,7 @@
 
 > The best and finest '10s Funk\. Cover: Pharrell Williams.
 
-77 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/5noqwCCsnUWZmorBqtfD0M)
+78 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Cineramascope](https://open.spotify.com/track/63dv2zKXPamiHHOKQBOzbU) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Corey Henry](https://open.spotify.com/artist/4r6kJJH31uyMF4uWBvnOkh) | [Ya\-Ka\-May \(Deluxe Edition\)](https://open.spotify.com/album/7DgwPKmMoPrZylKAeQ50z6) | 3:14 | 2021-05-05 |  |
 | [City Heights](https://open.spotify.com/track/16Hj0P5jkxkhRMkL1Spz3Y) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [The Sure Fire Soul Ensemble](https://open.spotify.com/album/6xX9JoQh6kquEkXmudqfO3) | 3:43 | 2021-05-05 |  |
 | [Colorful Midst](https://open.spotify.com/track/6PbY8O3q4hKwTZcsqmo5ba) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [The Main Squeeze](https://open.spotify.com/album/01rFrRHFCxVOpb4SympYlU) | 4:10 | 2021-05-05 |  |
-| [Come on with the Good Thing](https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music for Robots](https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc) | 5:19 | 2021-05-05 |  |
+| [Come on with the Good Thing](https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music for Robots](https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc) | 5:19 | 2021-05-05 | 2023-01-06 |
+| [Come on with the Good Thing](https://open.spotify.com/track/7z4eAMrP1KnLXdulAjER41) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Come on with the Good Thing](https://open.spotify.com/album/0bL75fPbxNsM0gBQpYxM2F) | 5:19 | 2021-05-05 |  |
 | [Cory Wong](https://open.spotify.com/track/1L9qsoNnyT3r8fgr2Pr7Ty) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC) | 4:06 | 2021-05-05 |  |
 | [Crave](https://open.spotify.com/track/1Eu00VxwsLMjHI6nQZ9RtW) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hidden Figures: The Album](https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc) | 2:53 | 2021-05-05 |  |
 | [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 | 2021-05-05 |  |

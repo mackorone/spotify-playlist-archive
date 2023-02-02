@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
   "name": "Happy Beats",
-  "published_playlist_ids": [
-    "4dBUFd3W9UPSAiQUVToAFF"
-  ],
   "tracks": [
     {
       "album": {
@@ -243,6 +240,28 @@
       "duration_ms": 162954,
       "name": "Another Life (feat. FLETCHER & Josh Golden)",
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
+    },
+    {
+      "album": {
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215696,
+      "name": "Anti-Hero - Jayda G Remix",
+      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
     },
     {
       "album": {
@@ -1215,7 +1234,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 179853,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
@@ -1288,6 +1307,28 @@
     },
     {
       "album": {
+        "name": "Dance All Over Me",
+        "url": "https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Dance All Over Me - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW"
+    },
+    {
+      "album": {
         "name": "Dance All Over Me (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/1M1s6xXXTuPLs9JDuYe0VB"
       },
@@ -1303,7 +1344,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 165120,
       "name": "Dance All Over Me - Jax Jones Remix",
       "url": "https://open.spotify.com/track/47qIrI42ZraqGwDrs03wHM"
@@ -1369,7 +1410,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 140011,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
@@ -1858,6 +1899,32 @@
     },
     {
       "album": {
+        "name": "Untold Business",
+        "url": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        },
+        {
+          "name": "London Community Gospel Choir",
+          "url": "https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213387,
+      "name": "Everything\u2019s Gonna Be Alright",
+      "url": "https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw"
+    },
+    {
+      "album": {
         "name": "Feed The Fire (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/0CttfgSuHvMSFKshmwa8vb"
       },
@@ -2024,6 +2091,32 @@
     },
     {
       "album": {
+        "name": "Forever And A Day (Diplo Remix)",
+        "url": "https://open.spotify.com/album/119iHl8DWQZweWR0vPEscK"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218053,
+      "name": "Forever And A Day - Diplo Remix",
+      "url": "https://open.spotify.com/track/5ozhK7GvUKSNSr1LrclYM2"
+    },
+    {
+      "album": {
         "name": "Forever Love (feat. Viiq)",
         "url": "https://open.spotify.com/album/19rMZRfgM5ngNLagrXpqwk"
       },
@@ -2065,7 +2158,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 192688,
       "name": "Free",
       "url": "https://open.spotify.com/track/5agmzhJRTNdZsQsuyavdzx"
@@ -2167,7 +2260,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 279270,
       "name": "Future Starts Now",
       "url": "https://open.spotify.com/track/3p2wS6G159mBIU50xl7uvc"
@@ -2621,7 +2714,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 238306,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/2yCyr5ZJHDm9CzpPRdduJ9"
@@ -2727,7 +2820,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 167307,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
@@ -2955,7 +3048,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-06",
       "duration_ms": 219348,
       "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
       "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
@@ -3168,6 +3261,24 @@
     },
     {
       "album": {
+        "name": "Journey (Take Me Where You Wanna)",
+        "url": "https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Journey (Take Me Where You Wanna)",
+      "url": "https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi"
+    },
+    {
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
       },
@@ -3201,6 +3312,24 @@
       "duration_ms": 303124,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD"
+    },
+    {
+      "album": {
+        "name": "Just Can't Get Enough",
+        "url": "https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 303124,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
     },
     {
       "album": {
@@ -3335,7 +3464,7 @@
           "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
@@ -3385,7 +3514,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 179999,
       "name": "Legit",
       "url": "https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz"
@@ -3403,7 +3532,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 189506,
       "name": "Let Me Love U",
       "url": "https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb"
@@ -3532,6 +3661,28 @@
     },
     {
       "album": {
+        "name": "Lightning To Strike",
+        "url": "https://open.spotify.com/album/1aNnUYONYEnpd5jhZactiH"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178721,
+      "name": "Lightning To Strike",
+      "url": "https://open.spotify.com/track/4wc6fFKSf4opxdNajyHPc4"
+    },
+    {
+      "album": {
         "name": "Lights Up (feat. Channel Tres)",
         "url": "https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040"
       },
@@ -3639,7 +3790,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 180977,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO"
@@ -3665,6 +3816,28 @@
     {
       "album": {
         "name": "Long Summer Nights",
+        "url": "https://open.spotify.com/album/141USp9NDZaX6aICT4r4JV"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1"
+        },
+        {
+          "name": "Lilla Vargen",
+          "url": "https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174019,
+      "name": "Long Summer Nights",
+      "url": "https://open.spotify.com/track/0ccnGefiTLZYOdHTB7ut1D"
+    },
+    {
+      "album": {
+        "name": "Long Summer Nights",
         "url": "https://open.spotify.com/album/2pyz3hqxKFFJ1rg2diDWoT"
       },
       "artists": [
@@ -3679,10 +3852,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 174019,
       "name": "Long Summer Nights",
       "url": "https://open.spotify.com/track/3sYbnk1vLjNMxevpne08ts"
+    },
+    {
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/4RNoGz6yD2rrJpJ6Ze6Pa1"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152068,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5ugYo7xM632grP29JqjxZa"
     },
     {
       "album": {
@@ -3723,7 +3918,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
@@ -4645,7 +4840,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 179032,
       "name": "Problems",
       "url": "https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ"
@@ -4857,7 +5052,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 183112,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX"
@@ -4927,7 +5122,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 170785,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/22sKunNSPMCy2lvSLOY5yX"
@@ -5759,7 +5954,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-17",
       "duration_ms": 166736,
       "name": "Tears For Later",
       "url": "https://open.spotify.com/track/0qLCGr3tEqsvk5FfHU2XqV"
@@ -6133,7 +6328,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 220952,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/4aXij4j5BNOKKNrxgA6wc6"
@@ -6213,7 +6408,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 303626,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw"
@@ -6578,6 +6773,28 @@
     },
     {
       "album": {
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
+    },
+    {
+      "album": {
         "name": "With My Friends",
         "url": "https://open.spotify.com/album/1ogQ6f8hVuVHcNOYCX2zw4"
       },
@@ -6715,10 +6932,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 196684,
       "name": "You Got The Love",
       "url": "https://open.spotify.com/track/1O3Jlr6ksM6meUe1atDAxY"
+    },
+    {
+      "album": {
+        "name": "You Know What I Need",
+        "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "You Know What I Need",
+      "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
     },
     {
       "album": {

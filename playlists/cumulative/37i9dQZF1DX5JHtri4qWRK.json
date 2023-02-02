@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-24",
   "description": "R&B jams for the brokenhearted.",
   "name": "Heartbreak Hotel",
-  "published_playlist_ids": [
-    "1Ve8KXr0RcZEOOEI6rgy7n"
-  ],
   "tracks": [
     {
       "album": {
@@ -185,7 +182,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 273438,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
@@ -1025,10 +1022,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 246293,
       "name": "Hallucinations",
       "url": "https://open.spotify.com/track/0UE0RhnRaEYsiYgXpyLoZc"
+    },
+    {
+      "album": {
+        "name": "SEPT 5TH",
+        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246293,
+      "name": "Hallucinations",
+      "url": "https://open.spotify.com/track/3J6I2S9sTNVStKhkrPp3yd"
     },
     {
       "album": {
@@ -1341,7 +1356,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 317560,
       "name": "I Get Lonely",
       "url": "https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN"
@@ -1521,7 +1536,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 232533,
       "name": "If I Was Your Man",
       "url": "https://open.spotify.com/track/5PH2eU6P5LdnwDezBu8334"
@@ -2779,7 +2794,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 218130,
       "name": "Somebody\u2019s Son (Ft Brandy)",
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
@@ -2931,7 +2946,7 @@
     {
       "album": {
         "name": "Morning After",
-        "url": "https://open.spotify.com/album/6rXy4b147LkM3muZKuALSX"
+        "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
       },
       "artists": [
         {
@@ -2942,6 +2957,24 @@
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 246240,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
+    },
+    {
+      "album": {
+        "name": "Morning After",
+        "url": "https://open.spotify.com/album/6rXy4b147LkM3muZKuALSX"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
       "duration_ms": 246240,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/4LkLfPYc3yjOta7Gk8FDRB"
@@ -3103,7 +3136,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 221866,
       "name": "Tyrone - Live",
       "url": "https://open.spotify.com/track/1MCem6JigI6jgQPMgriKbU"
@@ -3237,7 +3270,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 242826,
       "name": "We Need A Resolution (feat. Timbaland)",
       "url": "https://open.spotify.com/track/2c7huQpWR29bcXrrvLcG2j"

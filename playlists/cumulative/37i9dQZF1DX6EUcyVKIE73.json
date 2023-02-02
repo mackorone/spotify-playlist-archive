@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Selections of North Indian classical music.",
   "name": "Hindustani Classical",
-  "published_playlist_ids": [
-    "6KxJho2Z4Stal5h3YgTXxS"
-  ],
   "tracks": [
     {
       "album": {
@@ -151,10 +148,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 1070438,
       "name": "Dhun Pahari",
       "url": "https://open.spotify.com/track/6MrK3tQ2yLbRtQYfPQ22uS"
+    },
+    {
+      "album": {
+        "name": "Live in India \u2013 Performances by Indian Classical Legends",
+        "url": "https://open.spotify.com/album/5DogXVWPwLHJPE07M61ZeB"
+      },
+      "artists": [
+        {
+          "name": "Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1070438,
+      "name": "Dhun Pahari (Live)",
+      "url": "https://open.spotify.com/track/5TR882TjcZakJe7Hegd1Hy"
     },
     {
       "album": {

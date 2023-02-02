@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A mix of punk rock to get you through your workout.",
   "name": "Punk Rock Workout",
-  "published_playlist_ids": [
-    "3JOQwQnXq5qUrauqYRJQpF"
-  ],
   "tracks": [
     {
       "album": {
@@ -1270,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196464,
+      "name": "Down To Hell",
+      "url": "https://open.spotify.com/track/4M8UQs8bpAbJINwpBwZTGI"
+    },
+    {
+      "album": {
         "name": "Dress the Wounds",
         "url": "https://open.spotify.com/album/1WwsIKVq9AlqUDshOq05EH"
       },
@@ -1847,7 +1862,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 219762,
       "name": "Go Down in History",
       "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
@@ -2063,7 +2078,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 199181,
       "name": "Here Tonight",
       "url": "https://open.spotify.com/track/08QLT3tCqODR95QIN8DrGX"
@@ -2351,7 +2366,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 193560,
       "name": "I Just Died in Your Arms",
       "url": "https://open.spotify.com/track/1qfyKQeFz6l6h4caVLmNCW"
@@ -2906,6 +2921,28 @@
     },
     {
       "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        },
+        {
+          "name": "Joe Talbot",
+          "url": "https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164485,
+      "name": "My Town",
+      "url": "https://open.spotify.com/track/5GgWSPOy9j3vbcfXmUTbA7"
+    },
+    {
+      "album": {
         "name": "My Town (feat. Joe Talbot)",
         "url": "https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy"
       },
@@ -2921,7 +2958,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 164485,
       "name": "My Town (feat. Joe Talbot)",
       "url": "https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye"
@@ -4643,7 +4680,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 176893,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
@@ -4679,7 +4716,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 211100,
       "name": "Want Me Around",
       "url": "https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh"

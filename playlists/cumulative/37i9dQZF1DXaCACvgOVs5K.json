@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Ibiza season is back for 2022. Let's dance!",
   "name": "Ibiza 2022",
-  "published_playlist_ids": [
-    "6Sj7A3m3iitpInsJSHHl3W"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,7 +42,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": "2023-01-21",
       "duration_ms": 176640,
       "name": "1, 2 Step (Supersonic)",
       "url": "https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp"
@@ -195,7 +192,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 348306,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/54TgI46OnNqcf0SyzQyCL6"
@@ -475,7 +472,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 176612,
       "name": "Closer - Edit",
       "url": "https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr"
@@ -548,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Domino Remixes",
+        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435266,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
+    },
+    {
+      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -617,7 +632,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 164428,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/3r9CbJJKdAQ1Djfu932w22"
@@ -965,7 +980,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 159010,
       "name": "Is It You",
       "url": "https://open.spotify.com/track/4jlS72eGLijzfr7PymxDYi"
@@ -1041,7 +1056,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 183750,
       "name": "Know My Name",
       "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
@@ -1347,7 +1362,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208536,
-      "name": "Love Tonight - Vintage Culture & Kiko Franco Remix Edit",
+      "name": "Love Tonight (Vintage Culture & Kiko Franco Remix Edit)",
       "url": "https://open.spotify.com/track/53ICqRSyTfhrrvNwVSP6am"
     },
     {
@@ -1901,7 +1916,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 202943,
       "name": "Shake My Booty",
       "url": "https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve"
@@ -1945,6 +1960,28 @@
       "duration_ms": 232245,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
+    },
+    {
+      "album": {
+        "name": "Somebody To Love (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/2Nt3fFGjvlgERESi1QtPjW"
+      },
+      "artists": [
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282461,
+      "name": "Somebody To Love - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/4gJMsAYnnwNBsrhqjLWbWi"
     },
     {
       "album": {
@@ -2295,8 +2332,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230945,
-      "name": "Won't Forget You - Edit",
+      "name": "Won't Forget You (Edit)",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
+    },
+    {
+      "album": {
+        "name": "Workout",
+        "url": "https://open.spotify.com/album/69v32qBsj2wAvt9nTTypIU"
+      },
+      "artists": [
+        {
+          "name": "DJ Craig Gorman",
+          "url": "https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180032,
+      "name": "Workout",
+      "url": "https://open.spotify.com/track/2a68xrYa3kxdyxKQkVuaJQ"
     },
     {
       "album": {

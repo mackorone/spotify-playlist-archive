@@ -95,13 +95,6 @@ class TestUpdateFilesImpl(IsolatedAsyncioTestCase):
         self.playlists_dir = self.repo_dir / "playlists"
         self.file_manager = FileManager(self.playlists_dir)
 
-        # Mock the get_published_cumulative_playlists method
-        self.mock_get_published_cumulative_playlists = UnittestUtils.patch(
-            self,
-            "github.GitHub.get_published_cumulative_playlists",
-            new_callable=lambda: AsyncMock(return_value={}),
-        )
-
         # Mock the GitUtils methods
         UnittestUtils.patch(
             self,
@@ -293,7 +286,7 @@ class TestUpdateFilesImpl(IsolatedAsyncioTestCase):
 
     # Patch the logger to suppress log spew
     @patch("file_updater.logger")
-    async def test_readme(self, mock_logger: Mock) -> None:
+    async def test_readme_and_metadata_json(self, mock_logger: Mock) -> None:
         # +-------------------+---+---+---+---+
         # |     Criteria      | a | b | c | d |
         # +-------------------+---+---+---+---+
@@ -334,7 +327,7 @@ class TestUpdateFilesImpl(IsolatedAsyncioTestCase):
                     """\
                     prev content
 
-                    ## Playlists
+                    ## Playlists \\(1\\)
 
                     - [fizz](buzz)
                     """
@@ -349,11 +342,58 @@ class TestUpdateFilesImpl(IsolatedAsyncioTestCase):
                 """\
                 prev content
 
-                ## Playlists
+                ## Playlists \\(3\\)
 
                 - [name\\_a](/playlists/pretty/a.md)
                 - [name\\_b](/playlists/pretty/b.md)
                 - [name\\_c](/playlists/pretty/c.md)
+                """
+            ),
+        )
+        with open(self.playlists_dir / "metadata.json", "r") as f:
+            content = f.read()
+        self.assertEqual(
+            content,
+            textwrap.dedent(
+                """\
+                {
+                  "a": {
+                    "description": "description",
+                    "num_followers": 0,
+                    "original_name": "name_a",
+                    "owner": {
+                      "name": "owner_name",
+                      "url": "owner_url"
+                    },
+                    "snapshot_id": "snapshot_id",
+                    "unique_name": "name_a",
+                    "url": "url_a"
+                  },
+                  "b": {
+                    "description": "description",
+                    "num_followers": 0,
+                    "original_name": "name_b",
+                    "owner": {
+                      "name": "owner_name",
+                      "url": "owner_url"
+                    },
+                    "snapshot_id": "snapshot_id",
+                    "unique_name": "name_b",
+                    "url": "url_b"
+                  },
+                  "c": {
+                    "description": "description",
+                    "num_followers": 0,
+                    "original_name": " name_c ",
+                    "owner": {
+                      "name": "owner_name",
+                      "url": "owner_url"
+                    },
+                    "snapshot_id": "snapshot_id",
+                    "unique_name": " name_c ",
+                    "url": "url_c"
+                  }
+                }
                 """
             ),
         )

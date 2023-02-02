@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "A new take on a classic sound. Cover: The Jack Moves",
   "name": "Nu-Disco",
-  "published_playlist_ids": [
-    "3MDELIW3DwuUOwrVCjFaSM"
-  ],
   "tracks": [
     {
       "album": {
@@ -442,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4InKmaH0ORYbiXCaHo8hSg"
+      },
+      "artists": [
+        {
+          "name": "Ken@Work",
+          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356983,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/7DRoyQiz59HSM0egAeQnvC"
+    },
+    {
+      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/0diCTKYJdp4IDN0KVs0N6t"
       },
@@ -471,7 +486,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 208552,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/0X5LTG4ImUFlfNgOFXqzuN"
@@ -559,10 +574,32 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 188398,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4475NmYiujibxkv2O7sWED"
+    },
+    {
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/2WZr3RJUsuWLYC27t05Qj9"
+      },
+      "artists": [
+        {
+          "name": "Foreignlocal.",
+          "url": "https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs"
+        },
+        {
+          "name": "Sunsets",
+          "url": "https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181967,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv"
     },
     {
       "album": {
@@ -621,6 +658,28 @@
       "duration_ms": 224640,
       "name": "Cry (Just A Little)",
       "url": "https://open.spotify.com/track/4DtxGurCuuY1yZLoAXLxFp"
+    },
+    {
+      "album": {
+        "name": "Crying At The Discoteque",
+        "url": "https://open.spotify.com/album/7CYAxFYo7zOWstKYpQOhoq"
+      },
+      "artists": [
+        {
+          "name": "Discotron",
+          "url": "https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf"
+        },
+        {
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238571,
+      "name": "Crying At The Discoteque",
+      "url": "https://open.spotify.com/track/0nmp7lSwHJmjqWYtQQn1BC"
     },
     {
       "album": {
@@ -761,6 +820,28 @@
       "duration_ms": 209956,
       "name": "Do I Do - Radio Edit",
       "url": "https://open.spotify.com/track/0GzNOBgWu5468S9emhSFRv"
+    },
+    {
+      "album": {
+        "name": "Do You Wanna (BoogieKnights ReThink)",
+        "url": "https://open.spotify.com/album/3P2FzPaQy1NAU1ggwMevY5"
+      },
+      "artists": [
+        {
+          "name": "Rokwell",
+          "url": "https://open.spotify.com/artist/1NOc6Hatk5Jo0dxGxYpj3X"
+        },
+        {
+          "name": "BoogieKnights",
+          "url": "https://open.spotify.com/artist/3wJU7ygNJY0wWWhwZVYnI0"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258196,
+      "name": "Do You Wanna (BoogieKnights ReThink)",
+      "url": "https://open.spotify.com/track/6LSXQaauJxBhFv0NGJkOyh"
     },
     {
       "album": {
@@ -957,10 +1038,32 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 207096,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn"
+    },
+    {
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT"
+      },
+      "artists": [
+        {
+          "name": "Archie Versace",
+          "url": "https://open.spotify.com/artist/6S3CbwXLm1waxap3VZW24x"
+        },
+        {
+          "name": "Supermini",
+          "url": "https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0"
     },
     {
       "album": {
@@ -1198,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "I Believe It",
+        "url": "https://open.spotify.com/album/7IqVMiFRYTIOkQP0TC5dW8"
+      },
+      "artists": [
+        {
+          "name": "Venice Club",
+          "url": "https://open.spotify.com/artist/5nn6vlKul0h0t1ESe524Vx"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167800,
+      "name": "I Believe It",
+      "url": "https://open.spotify.com/track/5yuscwN84KrGaj06WiUUKy"
+    },
+    {
+      "album": {
         "name": "I Ran (So Far Away) [The Liongold Remixes]",
         "url": "https://open.spotify.com/album/6QPjxeuvnjre45AeuEA6iy"
       },
@@ -1385,7 +1506,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 151704,
       "name": "It's You",
       "url": "https://open.spotify.com/track/1Ky3doQEPgrKmZzLXEp04b"
@@ -1469,7 +1590,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 130253,
       "name": "JUST US TWO",
       "url": "https://open.spotify.com/track/3ipRosZucAVvarAmxKWH1A"
@@ -1723,6 +1844,10 @@
         {
           "name": "dazeychain",
           "url": "https://open.spotify.com/artist/6nRyak5Bpqz95OwA9JUBVE"
+        },
+        {
+          "name": "The Wildcardz",
+          "url": "https://open.spotify.com/artist/5pcPCj25V5zH3ly8v6JF8L"
         }
       ],
       "date_added": "2022-11-18",
@@ -1891,7 +2016,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 177538,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/7a64PMQuzeuPOlhdIKsCgM"
@@ -2026,6 +2151,28 @@
     },
     {
       "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/5QW6KOV70T8IuJGzRwP7GA"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Tom",
+          "url": "https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr"
+        },
+        {
+          "name": "Ngaiire",
+          "url": "https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182314,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I"
       },
@@ -2041,7 +2188,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 268520,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml"
@@ -2281,7 +2428,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 193420,
       "name": "Something Bout The Night",
       "url": "https://open.spotify.com/track/0O2Nc2MkQt84yGHXfzdjZ0"
@@ -2829,7 +2976,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 270676,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/161KhiTvj9JwoO7uzorjGo"
@@ -2869,6 +3016,46 @@
       "duration_ms": 232746,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS"
+    },
+    {
+      "album": {
+        "name": "You're Not Normal (The Brothers Nylon Remix)",
+        "url": "https://open.spotify.com/album/194XuwiTU6XnaNRRkXdWhQ"
+      },
+      "artists": [
+        {
+          "name": "Glamour Hammer",
+          "url": "https://open.spotify.com/artist/7s4dnXFDZnMa8UfOKX5I4S"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269224,
+      "name": "You're Not Normal (The Brothers Nylon Remix)",
+      "url": "https://open.spotify.com/track/2pbCnVeEzLRjeJvxIDPMxJ"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/1LV5fBgsYBmb85DyqCtNNx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202844,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0uo8mXAMX1OGngebGLmAeH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXattPCMpISJh"

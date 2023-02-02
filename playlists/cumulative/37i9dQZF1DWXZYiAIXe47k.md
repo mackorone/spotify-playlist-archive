@@ -4,7 +4,7 @@
 
 > "Absolute Six" and also "Above BrandNew Six".
 
-90 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/0IcP0dCuoCBPPVkleOjySZ)
+92 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [HOLLYWOOD](https://open.spotify.com/track/5caCE7Uqhty9MtlB7Ks5a8) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:07 | 2022-05-22 |  |
 | [IN YOUR EYES](https://open.spotify.com/track/6KqkUPBBGFPBe0jVEy3G4d) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 4:04 | 2022-05-22 |  |
 | [LEVEL UP](https://open.spotify.com/track/16QEfpbKhIOaqahtxvhdAo) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 2:46 | 2022-05-22 |  |
+| [Life is beautiful](https://open.spotify.com/track/7A1LziRSAes7mAJu3ea9wz) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [The Fabulous, Pt\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1vXeRBsGL50xc3AeAGJDTu) | 3:26 | 2023-01-05 |  |
 | [LIGHT ME UP](https://open.spotify.com/track/5nKCQmITzxTEfC8SNmTSkV) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:14 | 2022-05-22 |  |
 | [LOVE AIR](https://open.spotify.com/track/57tbiOceaiySa8CLwIKBmb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:32 | 2022-05-22 |  |
 | [LULULALA](https://open.spotify.com/track/2wY0zy0zM1tUEinoJu6mY6) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO' COMPLETE: HAVE A DREAM](https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH) | 3:05 | 2022-05-22 |  |
@@ -65,6 +66,7 @@
 | [MIRROR](https://open.spotify.com/track/1uThwF3Gi9N9ZR8DVIjS2Q) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:25 | 2022-05-22 |  |
 | [MIRROR](https://open.spotify.com/track/7sMXQv5zDYBttme1UUItdR) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:25 | 2022-05-22 |  |
 | [MOONDANCE](https://open.spotify.com/track/3hGQn8GEEjsJD558f6qAtd) | [JEON WOONG](https://open.spotify.com/artist/7HkRTmxvjlJxL3lEOSxpqN), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [5NALLY](https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC) | 3:44 | 2022-05-22 |  |
+| [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2023-01-05 |  |
 | [MORE](https://open.spotify.com/track/5jQqFhmNdiRp57Y8UNkMsZ) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [5NALLY](https://open.spotify.com/album/5FFZIyxJB33f3kgpCyDURC) | 3:28 | 2022-05-22 |  |
 | [NOTHING WITHOUT YOU](https://open.spotify.com/track/3Jx5wapdhDapIYX8EtHyRf) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [6IXENSE](https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8) | 3:39 | 2022-05-22 |  |
 | [OFF THE RECORD](https://open.spotify.com/track/6axKJDZCXcbZdfJckoO0GT) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:06 | 2022-05-22 |  |

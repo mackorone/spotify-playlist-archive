@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Home is where the heart is.",
   "name": "Home Sweet Home",
-  "published_playlist_ids": [
-    "5lAopPvgezlqzomRb60xSb"
-  ],
   "tracks": [
     {
       "album": {
@@ -232,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
+    },
+    {
+      "album": {
         "name": "Bon Jovi Greatest Hits",
         "url": "https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm"
       },
@@ -358,6 +373,24 @@
     },
     {
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/7HiCDrSmwCZnrPYHNtL9S0"
       },
@@ -449,6 +482,28 @@
       "duration_ms": 214066,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/3adQpYatYOsgAKr853t4mZ"
+    },
+    {
+      "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 223352,
+      "name": "BAILAR CONTIGO",
+      "url": "https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy"
     },
     {
       "album": {
@@ -2367,7 +2422,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 200186,
       "name": "Human",
       "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
@@ -2541,7 +2596,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 289160,
       "name": "I Have Nothing",
       "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
@@ -2935,7 +2990,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 154628,
       "name": "La Copa",
       "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
@@ -3065,7 +3120,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-05",
       "duration_ms": 172213,
       "name": "Lights Up",
       "url": "https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb"
@@ -3395,10 +3450,36 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 231906,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
+    },
+    {
+      "album": {
+        "name": "Mama Wanna Mambo (feat. Natti Natasha & Arturo Sandoval)",
+        "url": "https://open.spotify.com/album/2jZogCViwgsWToJonWfeLY"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 176584,
+      "name": "Mama Wanna Mambo (feat. Natti Natasha & Arturo Sandoval)",
+      "url": "https://open.spotify.com/track/6OsokAcHaqTIJTMcRqp8nO"
     },
     {
       "album": {
@@ -3837,7 +3918,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2022-12-31",
       "duration_ms": 195776,
       "name": "NDA",
       "url": "https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd"
@@ -3909,7 +3990,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 217426,
       "name": "New Light",
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
@@ -4091,6 +4172,32 @@
       "duration_ms": 178933,
       "name": "Oh, Pretty Woman",
       "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
     },
     {
       "album": {
@@ -4355,7 +4462,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 201882,
       "name": "pov",
       "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
@@ -5626,6 +5733,36 @@
     },
     {
       "album": {
+        "name": "Tukoh Taka (Official FIFA Fan Festival\u2122Anthem)",
+        "url": "https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Myriam Fares",
+          "url": "https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 178529,
+      "name": "Tukoh Taka - Official FIFA Fan Festival\u2122 Anthem",
+      "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"
+    },
+    {
+      "album": {
         "name": "Two Fingers EP",
         "url": "https://open.spotify.com/album/1Hgq4PMpNyOP7nZB6KENfS"
       },
@@ -5761,7 +5898,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
@@ -5779,7 +5916,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 173310,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4"

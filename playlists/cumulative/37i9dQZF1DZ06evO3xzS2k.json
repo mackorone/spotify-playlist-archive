@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Nothing. The essential tracks, all in one playlist.",
   "name": "This Is Nothing",
-  "published_playlist_ids": [
-    "385qUgjyB07ZAM2N6EjW6b"
-  ],
   "tracks": [
     {
       "album": {
@@ -685,7 +682,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 342334,
       "name": "The Great Dismal",
       "url": "https://open.spotify.com/track/6F0PDcBcQuf2zq0EXU9iz6"

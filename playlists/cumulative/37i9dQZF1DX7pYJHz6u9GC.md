@@ -4,7 +4,7 @@
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole
 
-143 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
+143 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

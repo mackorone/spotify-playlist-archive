@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-132 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/33onHXtD6FTnm9jpuazHYx)
+132 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

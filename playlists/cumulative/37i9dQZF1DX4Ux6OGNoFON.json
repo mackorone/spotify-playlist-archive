@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Saca, prende y sorprende con esta selecci\u00f3n de buenas vibras. Foto: Dread Mar I",
   "name": "Volando con Reggae",
-  "published_playlist_ids": [
-    "3JQCn0U5J7gjZIqJmCR5xX"
-  ],
   "tracks": [
     {
       "album": {
@@ -261,6 +258,10 @@
         {
           "name": "Pure Negga",
           "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Skillzbeatz",
+          "url": "https://open.spotify.com/artist/09cwFodlXUIGfh0h0O2dH7"
         }
       ],
       "date_added": "2022-07-01",
@@ -457,10 +458,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 280933,
       "name": "El Tambor",
       "url": "https://open.spotify.com/track/244xfUeyheD5Ibupwjwmd3"
+    },
+    {
+      "album": {
+        "name": "Impulso Eterno",
+        "url": "https://open.spotify.com/album/745taLBsTAJAtYAHGQfaTP"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280933,
+      "name": "El Tambor",
+      "url": "https://open.spotify.com/track/2DzEvKYEkhNOymxnvIeXDf"
     },
     {
       "album": {
@@ -603,6 +622,28 @@
     {
       "album": {
         "name": "Homestudio Session #6",
+        "url": "https://open.spotify.com/album/5M3IROBJ77b2DnQ0vWgokk"
+      },
+      "artists": [
+        {
+          "name": "Chusterfield",
+          "url": "https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8"
+        },
+        {
+          "name": "Rastachai",
+          "url": "https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294673,
+      "name": "Homestudio Session #6",
+      "url": "https://open.spotify.com/track/1FPCxlXeRijGMa6vuu04eK"
+    },
+    {
+      "album": {
+        "name": "Homestudio Session #6",
         "url": "https://open.spotify.com/album/1qmW48LkyezRoLuY0BLJF7"
       },
       "artists": [
@@ -617,7 +658,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 294673,
       "name": "Homestudio Session #6",
       "url": "https://open.spotify.com/track/1TIylLDBqvqiQn2x5CuOSy"

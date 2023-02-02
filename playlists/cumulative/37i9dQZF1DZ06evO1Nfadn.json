@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
   "name": "This Is Banda Maguey",
-  "published_playlist_ids": [
-    "12cLMFUlwhG9QUaeXV6IET"
-  ],
   "tracks": [
     {
       "album": {
@@ -530,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
+    },
+    {
+      "album": {
         "name": "15 Canciones Favoritas",
         "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
       },
@@ -703,7 +718,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 139680,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/4xy7wejmM34LnfhLDIpanB"
@@ -1351,7 +1366,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 148320,
       "name": "Y Andale",
       "url": "https://open.spotify.com/track/6ZrnySwVbRAQVIxWUbXjkk"
@@ -1369,7 +1384,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 190756,
       "name": "Yo Le Bautizo el Chiquito",
       "url": "https://open.spotify.com/track/3D9tVDp399MoQvJD9g8F4P"

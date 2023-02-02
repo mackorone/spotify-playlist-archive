@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
   "name": "This Is Brenda Fassie",
-  "published_playlist_ids": [
-    "2DhoEkaEQKaK2kFK1DH9XS"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 321960,
       "name": "Ag Shame Lovey",
       "url": "https://open.spotify.com/track/0bkWZRgB7snn6T54Y1mexg"
+    },
+    {
+      "album": {
+        "name": "Angiph'Endlini",
+        "url": "https://open.spotify.com/album/2gBj2tg2gVfVNhGOYJE7l2"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 234866,
+      "name": "Akunamathata",
+      "url": "https://open.spotify.com/track/1nuQ1fh7uwPRsZb91VMUvD"
     },
     {
       "album": {
@@ -59,6 +74,24 @@
       "duration_ms": 270253,
       "name": "Black President",
       "url": "https://open.spotify.com/track/1u6y55ANLeAiIP26F3I3r4"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "Boipatong",
+      "url": "https://open.spotify.com/track/0RjRoE7GPfLq0hs51lhIPN"
     },
     {
       "album": {
@@ -117,7 +150,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": "2022-12-13",
       "duration_ms": 279866,
       "name": "Elakho Likhona (La Hao Le Teng)",
       "url": "https://open.spotify.com/track/1oLm476hsQ2fEBx468IukC"
@@ -211,7 +244,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 262066,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0Ek44VdlLSiO5MLWISwP5H"
@@ -301,7 +334,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 304133,
       "name": "Kutheni",
       "url": "https://open.spotify.com/track/0qrJ1ifPy3j0pUhYx6Lsfh"
@@ -445,7 +478,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 265866,
       "name": "Memeza",
       "url": "https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze"
@@ -823,7 +856,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 292440,
       "name": "Shoot Them Before They Grow",
       "url": "https://open.spotify.com/track/7zpKc24gsz4QrNSbl70B32"
@@ -889,6 +922,24 @@
       "duration_ms": 259493,
       "name": "Soon And Very Soon - 99 Remix",
       "url": "https://open.spotify.com/track/7eAvqI5V1YcEm7XdtLksZG"
+    },
+    {
+      "album": {
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 275960,
+      "name": "Soon And Very Soon - 99 Remix",
+      "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
     },
     {
       "album": {
@@ -1083,7 +1134,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 279306,
       "name": "Weekend Special",
       "url": "https://open.spotify.com/track/0t8R66DymqgWq2BjureW9r"
@@ -1119,7 +1170,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2023-02-02",
       "duration_ms": 240640,
       "name": "Zola Budd",
       "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"

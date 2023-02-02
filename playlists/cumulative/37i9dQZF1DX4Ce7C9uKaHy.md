@@ -4,7 +4,7 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-130 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
+130 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Q&A](https://open.spotify.com/track/4YEZCdWUOqcZXsx72lFDIE) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Aylior](https://open.spotify.com/artist/2yCHwCR4w8pZyoSCyoQQfx) | [Vondelpark](https://open.spotify.com/album/2A6YTjmAURvNi6N1EHMD3P) | 2:21 | 2020-05-06 | 2022-07-29 |
 | [Reminiscing](https://open.spotify.com/track/0SLqAM3Jv5vKpjskuRK4aw) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA), [Flovry](https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs) | [Before You Go](https://open.spotify.com/album/6rZmtp1Bc9n0rN20uqsLea) | 2:38 | 2020-05-06 |  |
 | [Reminiscing](https://open.spotify.com/track/1eaUFbZZvj19PYSWb3eg0E) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA), [Flovry](https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs) | [Before You Go](https://open.spotify.com/album/05P1M73DOmjq2OrPxOAN50) | 2:38 | 2020-05-06 | 2022-07-29 |
-| [Sassy](https://open.spotify.com/track/7v81zDad0PAPjJ45mphEul) | [Suwanti](https://open.spotify.com/artist/48QEanQFa6GOiSGR3uyiOi), [Cây](https://open.spotify.com/artist/2AMpDRQKGRKMI72ricUKNe) | [Sassy](https://open.spotify.com/album/39cCVhyG7YYWMKLm4yxlp5) | 1:51 | 2020-05-06 |  |
+| [Sassy](https://open.spotify.com/track/7v81zDad0PAPjJ45mphEul) | [Suwanti](https://open.spotify.com/artist/48QEanQFa6GOiSGR3uyiOi) | [Sassy](https://open.spotify.com/album/39cCVhyG7YYWMKLm4yxlp5) | 1:51 | 2020-05-06 |  |
 | [Shifting](https://open.spotify.com/track/5pWSFR7XCupryMCju8umk0) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Tomorrows That Follow](https://open.spotify.com/album/30KbuLXO5pTJ75mBilXPVI) | 2:24 | 2020-05-06 |  |
 | [Shifting](https://open.spotify.com/track/7kZ1PTCdvtf7VZ1GGGcQZx) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Tomorrows That Follow](https://open.spotify.com/album/1gMU9NHaqaSyhCgD2qtbE8) | 2:24 | 2020-05-06 | 2022-07-29 |
 | [sleep static](https://open.spotify.com/track/3Y7o45SbDTvzKrlkVLut4y) | [luvwn](https://open.spotify.com/artist/7nVUUnsqtNsHsClBi5gPwl) | [sleep static](https://open.spotify.com/album/7kxWQptPxIOHYQklLsvuFg) | 1:38 | 2020-05-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,817 likes - 69 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,517 likes - 69 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Lj01u3MgX5.md) - [plain]
 | 14 | [Behind The Groove](https://open.spotify.com/track/6nXCHvql32RBADi95fvHo9) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Lady T \(Expanded Edition 15 Track Version\)](https://open.spotify.com/album/4U0XSBp2dWNCD0aFl7oLTz) | 6:05 |
 | 15 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 |
 | 16 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
-| 17 | [Bounce, Rock, Skate, Roll](https://open.spotify.com/track/2zt545oVs5FxS39b5NB5we) | [Vaughan Mason and Crew](https://open.spotify.com/artist/5MBBgzM082fkQbg75YyKBO) | [Roll Bounce Soundtrack](https://open.spotify.com/album/3FTg8lRnHz4OqHk2Yj7dHl) | 5:29 |
+| 17 | [Bounce, Rock, Skate, Roll](https://open.spotify.com/track/2zt545oVs5FxS39b5NB5we) | [Vaughan Mason and Crew](https://open.spotify.com/artist/5MBBgzM082fkQbg75YyKBO) | [Roll Bounce \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FTg8lRnHz4OqHk2Yj7dHl) | 5:29 |
 | 18 | [The Breaks](https://open.spotify.com/track/5TvcggVu3s2P1fMAS8BupX) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [Kurtis Blow](https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt) | 7:43 |
 | 19 | [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 |
 | 20 | [Candy \- 7" Version](https://open.spotify.com/track/69ZLdWrVMACjGIhEiZqGXa) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [The Definitive Collection](https://open.spotify.com/album/0ewrF9ttoNB8FhDmWLDJzA) | 4:23 |

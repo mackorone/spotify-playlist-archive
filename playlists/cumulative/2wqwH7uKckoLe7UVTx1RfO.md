@@ -4,7 +4,7 @@
 
 > Coast through the good life with these folksy and blissed out tracks.
 
-78 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/5AOW1lkcvzw6zDUE1S9qsC)
+78 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

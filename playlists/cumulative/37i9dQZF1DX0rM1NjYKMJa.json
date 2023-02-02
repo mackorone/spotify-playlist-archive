@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "JORDSS getting you ready for the road at Notting Hill Carnival 2022",
   "name": "Carnival",
-  "published_playlist_ids": [
-    "35sKAj4iwKWEOgdGOJN8Zw"
-  ],
   "tracks": [
     {
       "album": {
@@ -1251,7 +1248,7 @@
     {
       "album": {
         "name": "Famalay",
-        "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
+        "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
       },
       "artists": [
         {
@@ -1270,6 +1267,32 @@
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199020,
+      "name": "Famalay",
+      "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
+    },
+    {
+      "album": {
+        "name": "Famalay",
+        "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9"
@@ -2557,10 +2580,36 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 119040,
       "name": "Mind My Business",
       "url": "https://open.spotify.com/track/28Nm0rgLcn4OUQTocqoDZO"
+    },
+    {
+      "album": {
+        "name": "Mind My Business",
+        "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
+      },
+      "artists": [
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        },
+        {
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119040,
+      "name": "Mind My Business",
+      "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
     },
     {
       "album": {

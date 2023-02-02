@@ -4,7 +4,7 @@
 
 > Songs from all genres get a punk rock makeover.
 
-192 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/5mFudwF8WaoxgZwyt9a9md)
+192 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Good As Hell](https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Good As Hell](https://open.spotify.com/album/3TbhUxXZVy5o5IWARpxptt) | 2:53 | 2021-03-19 |  |
 | [Hammer](https://open.spotify.com/track/0j80OMNnPlSWUwLoJkB1JR) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Hammer](https://open.spotify.com/album/188UbikjlSQhiboWAhAk3U) | 3:40 | 2021-03-19 | 2022-07-29 |
 | [Hammer](https://open.spotify.com/track/5kqr6EkKEafBGKxzjdXOVP) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Hammer](https://open.spotify.com/album/1OjpWJvSUT8Svr3ZYWtCSD) | 3:40 | 2021-03-19 |  |
-| [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 | 2021-03-19 | 2022-11-14 |
+| [Hand in My Pocket](https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:28 | 2021-03-19 | 2023-01-06 |
 | [Hand In My Pocket](https://open.spotify.com/track/63ZO6WjbMpL696Vs0VU4xM) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4WWoHnK6aJKPPUiVrS9cnk) | 3:28 | 2021-03-19 | 2022-07-29 |
 | [Happier](https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY) | [Shorelines](https://open.spotify.com/artist/0dhKIZOcVIhpS5IcsUATkH) | [Happier](https://open.spotify.com/album/0pj8Mpwp0MdcMVhUjaYtMJ) | 3:33 | 2021-03-19 | 2022-11-13 |
 | [Happy Together \(feat\. Ray Toro\)](https://open.spotify.com/track/0n0XAmYCMWlzj3W9VdMejw) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Ray Toro](https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E) | [Happy Together \(feat\. Ray Toro\)](https://open.spotify.com/album/5aoP0bnk5GoiW2NAX779eO) | 2:59 | 2021-03-19 |  |
@@ -76,7 +76,7 @@
 | [How's It Gonna Be](https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533) | [I Call Fives](https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70) | [Someone That's Not You](https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj) | 3:13 | 2021-03-19 |  |
 | [I Against I \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4VgtRoEKV5At6Ye31ZSzsW) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Spotify Singles](https://open.spotify.com/album/2pJFftS8g9JPp57IJxHjiV) | 3:42 | 2021-03-19 | 2022-06-27 |
 | [I Don't Love You](https://open.spotify.com/track/05eWggqE1dGTn8HcB9GeOY) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I Don't Love You](https://open.spotify.com/album/6xJ74TxPjlVl23XU4vfMOb) | 3:51 | 2021-03-19 | 2022-07-28 |
-| [I Don't Love You](https://open.spotify.com/track/5M9KGQXFPLFiSRC9Oo99JX) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I Don't Love You](https://open.spotify.com/album/5PPYEQoCKFqmR1a6RTPVlJ) | 3:51 | 2021-03-19 | 2022-11-14 |
+| [I Don't Love You](https://open.spotify.com/track/5M9KGQXFPLFiSRC9Oo99JX) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I Don't Love You](https://open.spotify.com/album/5PPYEQoCKFqmR1a6RTPVlJ) | 3:51 | 2021-03-19 | 2022-12-16 |
 | [I Knew You Were Trouble](https://open.spotify.com/track/0CsP3X8vw67bm2ieIc73a4) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/3qnbLOjSVqy38vQh1Pj28R) | 3:38 | 2021-03-19 | 2022-07-29 |
 | [I Knew You Were Trouble](https://open.spotify.com/track/4LtWzWV22RQJI8fCtPVunn) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/1l6S45U20fiob98cV6siw8) | 3:38 | 2021-03-19 |  |
 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 | 2021-03-19 |  |
@@ -85,7 +85,7 @@
 | [I Want You Back](https://open.spotify.com/track/6N3HXCGF9y76A9l5zJYeJe) | [Abandoned By Bears](https://open.spotify.com/artist/1ok9NNj6WIYbabBjhowQZP) | [I Want You Back](https://open.spotify.com/album/7EzaGbmp7UEWJUutJgatjz) | 2:49 | 2021-03-19 |  |
 | [I Want You Back](https://open.spotify.com/track/7kNM0HawXQPv1nKORLmpQX) | [Abandoned By Bears](https://open.spotify.com/artist/1ok9NNj6WIYbabBjhowQZP) | [I Want You Back](https://open.spotify.com/album/0l9XkdDzKHWCWYAgONmqsM) | 2:49 | 2021-03-19 | 2022-07-29 |
 | [I Won't Back Down](https://open.spotify.com/track/1Lp4hoExThrJRXZmoeciLA) | [Alone I Walk](https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc) | [I Won't Back Down](https://open.spotify.com/album/46saWxMxcrqUrNBbZs38Qz) | 2:38 | 2021-03-19 | 2022-09-18 |
-| [I Won't Back Down](https://open.spotify.com/track/1r72N7UrcmJIVsib0F7vsV) | [Alone I Walk](https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc) | [I Won't Back Down](https://open.spotify.com/album/2PnX4AnA5v2WyzUHmJ7ZpR) | 2:38 | 2021-03-19 | 2022-11-14 |
+| [I Won't Back Down](https://open.spotify.com/track/1r72N7UrcmJIVsib0F7vsV) | [Alone I Walk](https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc) | [I Won't Back Down](https://open.spotify.com/album/2PnX4AnA5v2WyzUHmJ7ZpR) | 2:38 | 2021-03-19 |  |
 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 | 2021-09-02 |  |
 | [Intentions](https://open.spotify.com/track/3pEy3cfq0SyFDGKtuIE7V7) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Intentions](https://open.spotify.com/album/315llMf2Y1p8xQeNetXnmC) | 3:31 | 2021-03-19 |  |
 | [Just What I Needed](https://open.spotify.com/track/1ZhMrafxgoBuLxf5CF1vrH) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:44 | 2021-03-19 |  |
@@ -136,7 +136,7 @@
 | [Shape of my Heart](https://open.spotify.com/track/04Bg0IZ8mMs7OniLNGibX4) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Shape of my Heart](https://open.spotify.com/album/6RD8qEnRpGirna7pYeXTPe) | 5:37 | 2021-03-19 |  |
 | [Shape of my Heart](https://open.spotify.com/track/2TCJJKuEV1VkVi5D5Y3RKK) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 5:37 | 2021-03-19 | 2022-07-29 |
 | [Silly Girl](https://open.spotify.com/track/50ZvRtcsctYE4p7RX3DR6g) | [Sharp Shock](https://open.spotify.com/artist/259aAzLVXmwPbSgN6a29S2) | [Split](https://open.spotify.com/album/1nF5bO8RLUwZZIroh0DBUC) | 2:30 | 2021-03-19 | 2022-07-20 |
-| [So Done](https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [So Done](https://open.spotify.com/album/35btLqmmx303H9UxLwUSrv) | 1:59 | 2021-03-19 |  |
+| [So Done](https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [So Done](https://open.spotify.com/album/35btLqmmx303H9UxLwUSrv) | 1:59 | 2021-03-19 | 2023-01-04 |
 | [Soak up the Sun](https://open.spotify.com/track/4zLjFbrBuNPglIbyP3NfA1) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [Got You Covered, Vol\. 4](https://open.spotify.com/album/1TbBXy8dsQzi2dQV1thwrZ) | 3:23 | 2021-03-19 | 2022-07-29 |
 | [Soak up the Sun](https://open.spotify.com/track/7jmeasfgUACycDwwC1JnE8) | [Sincerely, Me](https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8) | [Soak up the Sun](https://open.spotify.com/album/437lF978Yeb1SZubuLRtJN) | 3:23 | 2021-03-19 |  |
 | [Sometimes I Don't Mind](https://open.spotify.com/track/3n2tpHjpeYISrl0GX04E3K) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Sometimes I Don't Mind](https://open.spotify.com/album/2BI02YNYTHQci4mZgQdbtT) | 3:05 | 2021-03-19 | 2022-07-29 |

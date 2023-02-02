@@ -4,7 +4,7 @@
 
 > Classic tracks with roots in post\-punk, garage rock, and new wave\. Cover: The Strokes
 
-92 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/0WE4y9j38pkHLOQzcuOVJZ)
+92 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
   "name": "Industrial Metal",
-  "published_playlist_ids": [
-    "2pW8HvIBAmpjMrb0I9AKFn"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,7 +92,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 362482,
       "name": "A Matter of Time",
       "url": "https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q"
@@ -167,7 +164,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 264750,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
@@ -387,6 +384,24 @@
       "duration_ms": 246160,
       "name": "Blitzkrieg",
       "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
+    },
+    {
+      "album": {
+        "name": "Yggdrasil",
+        "url": "https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa"
+      },
+      "artists": [
+        {
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "Blizzard",
+      "url": "https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j"
     },
     {
       "album": {
@@ -647,6 +662,24 @@
     {
       "album": {
         "name": "Compliance",
+        "url": "https://open.spotify.com/album/7f26amusc28x2vnxTACxDN"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302950,
+      "name": "Compliance",
+      "url": "https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9"
+    },
+    {
+      "album": {
+        "name": "Compliance",
         "url": "https://open.spotify.com/album/28JtdcN6FyGol6335SbUlt"
       },
       "artists": [
@@ -729,7 +762,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 337226,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0"
@@ -823,6 +856,28 @@
       "duration_ms": 186066,
       "name": "Die MF Die",
       "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
+    },
+    {
+      "album": {
+        "name": "Dirty Freddy (Remix)",
+        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
+      },
+      "artists": [
+        {
+          "name": "Extize",
+          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Dirty Freddy - Remix",
+      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
     },
     {
       "album": {
@@ -1091,7 +1146,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 243857,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/6JqvqbDADxVZ8Ld9SWt1Ia"
@@ -1131,7 +1186,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 246843,
       "name": "Feed Our Lie",
       "url": "https://open.spotify.com/track/1UxhZwFgV4t8OSBWORCBMG"
@@ -1269,6 +1324,24 @@
     {
       "album": {
         "name": "One Fire",
+        "url": "https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255194,
+      "name": "Hate Like Me",
+      "url": "https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs"
+    },
+    {
+      "album": {
+        "name": "One Fire",
         "url": "https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W"
       },
       "artists": [
@@ -1319,7 +1392,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 218205,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx"
@@ -1355,7 +1428,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 302640,
       "name": "Headhunter V1.0",
       "url": "https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896"
@@ -1560,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Dein Helfer in der Not",
+        "url": "https://open.spotify.com/album/1p28xpi0caBt3ccAqcK7ZY"
+      },
+      "artists": [
+        {
+          "name": "Ost+Front",
+          "url": "https://open.spotify.com/artist/2eYQ3xCgZtpkVQNgXlpuRs"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Ikarus",
+      "url": "https://open.spotify.com/track/1b6Ew1aj2KZ8P4v1WAHZXu"
+    },
+    {
+      "album": {
         "name": "Sex Reflex (Remastered)",
         "url": "https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK"
       },
@@ -1571,7 +1662,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 292036,
       "name": "In League",
       "url": "https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx"
@@ -1673,6 +1764,50 @@
       "duration_ms": 316701,
       "name": "Into the Void",
       "url": "https://open.spotify.com/track/6Q12JjOHsE9kTGVshxrm3F"
+    },
+    {
+      "album": {
+        "name": "Into the Void (HARD BOX Remix)",
+        "url": "https://open.spotify.com/album/5e6b6x3x10PzgUdwFBml39"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        },
+        {
+          "name": "Hard Box",
+          "url": "https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 219123,
+      "name": "Into the Void - HARD BOX Remix",
+      "url": "https://open.spotify.com/track/1QZWJcDtvPASvWbHMFEG7N"
+    },
+    {
+      "album": {
+        "name": "Into the Void (Remix Contest Compilation)",
+        "url": "https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        },
+        {
+          "name": "Hard Box",
+          "url": "https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219123,
+      "name": "Into the Void - HARD BOX Remix",
+      "url": "https://open.spotify.com/track/4gmrTnVyc2Ud9KMWnl05Fh"
     },
     {
       "album": {
@@ -1857,7 +1992,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 274500,
       "name": "Last Ditch - Stabbing Westward Remix",
       "url": "https://open.spotify.com/track/7JKd0xsIfXXsBLX0uXYwMy"
@@ -2088,6 +2223,28 @@
     },
     {
       "album": {
+        "name": "Rock Ain't Dead",
+        "url": "https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz"
+      },
+      "artists": [
+        {
+          "name": "Davey Suicide",
+          "url": "https://open.spotify.com/artist/0JX3GwUe9y5BS2WuQ3qxsV"
+        },
+        {
+          "name": "Telle Smith",
+          "url": "https://open.spotify.com/artist/3DefX0fquR1S2twqp0ui84"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229512,
+      "name": "Medicate Me",
+      "url": "https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58"
+    },
+    {
+      "album": {
         "name": "Symbols",
         "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
       },
@@ -2142,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Modern Demon",
+        "url": "https://open.spotify.com/album/3lGhMyyUWccwG4CyllkmML"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285019,
+      "name": "Modern Demon",
+      "url": "https://open.spotify.com/track/2lsl155lDS6tSqGKJokOGL"
+    },
+    {
+      "album": {
         "name": "Tighter",
         "url": "https://open.spotify.com/album/1R7cyLXrVT4Y7PnXNk7NQl"
       },
@@ -2153,7 +2328,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 104880,
       "name": "Molly",
       "url": "https://open.spotify.com/track/1kTZ1aERsOBTrihsDdGFNn"
@@ -2349,6 +2524,24 @@
       "duration_ms": 269000,
       "name": "New Blood - Zardonic Remix",
       "url": "https://open.spotify.com/track/5jFoxzpYeDOzLpjsNbrn9m"
+    },
+    {
+      "album": {
+        "name": "Ofelia",
+        "url": "https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x"
+      },
+      "artists": [
+        {
+          "name": "Rave The Reqviem",
+          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188613,
+      "name": "Ofelia",
+      "url": "https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3"
     },
     {
       "album": {
@@ -2573,6 +2766,24 @@
       "duration_ms": 154906,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+    },
+    {
+      "album": {
+        "name": "Helheim (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY"
+      },
+      "artists": [
+        {
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192859,
+      "name": "Rabenherz",
+      "url": "https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU"
     },
     {
       "album": {
@@ -3142,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Omen X",
+        "url": "https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206147,
+      "name": "Totuus",
+      "url": "https://open.spotify.com/track/110q5eExcmrgf0fsE610ON"
+    },
+    {
+      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC"
       },
@@ -3279,7 +3508,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 233350,
       "name": "Vivien",
       "url": "https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr"

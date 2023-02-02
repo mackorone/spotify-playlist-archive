@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
   "name": "This Is Eric Clapton",
-  "published_playlist_ids": [
-    "2nMIznnZpbLyUmvlJOurMU"
-  ],
   "tracks": [
     {
       "album": {
@@ -48,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218373,
+      "name": "Alberta - Acoustic Live",
+      "url": "https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd"
+    },
+    {
+      "album": {
         "name": "Unplugged (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
@@ -63,24 +78,6 @@
       "duration_ms": 218373,
       "name": "Alberta - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
       "url": "https://open.spotify.com/track/2ahE4sVGcbb0gUfnSfbdtG"
-    },
-    {
-      "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "date_added": "2022-11-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218373,
-      "name": "Alberta - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd"
     },
     {
       "album": {
@@ -160,7 +157,7 @@
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -173,7 +170,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 239053,
-      "name": "Before You Accuse Me - 2013 Remaster",
+      "name": "Before You Accuse Me - Acoustic Live",
       "url": "https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p"
     },
     {
@@ -232,6 +229,24 @@
     },
     {
       "album": {
+        "name": "From the Cradle",
+        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177506,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/648g2wFtqqzK8rW0Y2F0T3"
+    },
+    {
+      "album": {
         "name": "Live from Madison Square Garden",
         "url": "https://open.spotify.com/album/4KrKq7IX3Rj7btIxF6Hx04"
       },
@@ -251,6 +266,24 @@
       "duration_ms": 333946,
       "name": "Can't Find My Way Home - Live from Madison Square Garden",
       "url": "https://open.spotify.com/track/728aCHRPX4JbPWnAj0D4jL"
+    },
+    {
+      "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
     },
     {
       "album": {
@@ -283,7 +316,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 234813,
       "name": "Change the World - 2015 Remaster",
       "url": "https://open.spotify.com/track/1o2QE6KUthclwKuEDweROU"
@@ -389,7 +422,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-11",
       "duration_ms": 180693,
       "name": "Double Crossing Time - Mono",
       "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
@@ -411,7 +444,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-29",
       "duration_ms": 150626,
       "name": "For Your Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
@@ -436,6 +469,24 @@
     },
     {
       "album": {
+        "name": "Behind the Sun",
+        "url": "https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 191560,
+      "name": "Forever Man - 1999 Remaster",
+      "url": "https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP"
+    },
+    {
+      "album": {
         "name": "Forever Man",
         "url": "https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T"
       },
@@ -447,7 +498,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 192320,
       "name": "Forever Man - 2015 Remaster",
       "url": "https://open.spotify.com/track/349PT8jfi7RxXB7DZM0NMX"
@@ -494,6 +545,28 @@
     },
     {
       "album": {
+        "name": "For Your Love (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 154906,
+      "name": "Got to Hurry - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7GsshbbtIlBFU5SKNDED5s"
+    },
+    {
+      "album": {
         "name": "Nothing But the Blues (Live)",
         "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
       },
@@ -509,6 +582,28 @@
       "duration_ms": 430106,
       "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
       "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
+    },
+    {
+      "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310626,
+      "name": "Hard to Thrill",
+      "url": "https://open.spotify.com/track/0fX9pA3TukbkWCEdNoyysH"
     },
     {
       "album": {
@@ -614,7 +709,7 @@
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -627,7 +722,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226373,
-      "name": "Hey Hey - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Hey Hey - Acoustic Live",
       "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
     },
     {
@@ -807,7 +902,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 193386,
       "name": "I've Got a Rock 'N' Roll Heart",
       "url": "https://open.spotify.com/track/0bsVmf3Ki4x4BzvdrlbYXi"
@@ -829,6 +924,64 @@
       "duration_ms": 193386,
       "name": "I've Got a Rock 'N' Roll Heart",
       "url": "https://open.spotify.com/track/0pEu81PfEP0L9u4iTY5zvI"
+    },
+    {
+      "album": {
+        "name": "Money and Cigarettes (2007 Remaster)",
+        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193386,
+      "name": "I've Got a Rock 'n' Roll Heart",
+      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
+    },
+    {
+      "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256866,
+      "name": "It's Easy",
+      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
+    },
+    {
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251453,
+      "name": "It's in the Way That You Use It - 1999 Remaster",
+      "url": "https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu"
     },
     {
       "album": {
@@ -923,7 +1076,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 318000,
       "name": "Knocking On Heaven's Door - Live At Hammersmith Odeon",
       "url": "https://open.spotify.com/track/5uhvUuQciVrP0p48NqSHaq"
@@ -945,6 +1098,24 @@
       "duration_ms": 236093,
       "name": "Lay Down Sally",
       "url": "https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG"
+    },
+    {
+      "album": {
+        "name": "Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic Live",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
     },
     {
       "album": {
@@ -977,7 +1148,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 269893,
       "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2015 Remaster",
       "url": "https://open.spotify.com/track/3araxDbRmXOwPPiG94HR15"
@@ -1174,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323440,
+      "name": "My Father's Eyes",
+      "url": "https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl"
+    },
+    {
+      "album": {
         "name": "Forever Man",
         "url": "https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T"
       },
@@ -1185,7 +1374,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 323053,
       "name": "My Father's Eyes - 2015 Remaster",
       "url": "https://open.spotify.com/track/7aAkwqs3Yp94iIiPRRD7QA"
@@ -1207,6 +1396,24 @@
       "duration_ms": 338840,
       "name": "No Alibis",
       "url": "https://open.spotify.com/track/4kVgsCz7v8GWtjsxq7qhWI"
+    },
+    {
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235426,
+      "name": "Nobody Knows You When You're Down and Out - Acoustic Live",
+      "url": "https://open.spotify.com/track/7sVxm1I8G8tTznXeirDEXm"
     },
     {
       "album": {
@@ -1239,14 +1446,14 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 230000,
       "name": "Nobody Knows You When You're Down and Out - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2015 Remaster",
       "url": "https://open.spotify.com/track/3SN7svjh3Qsahbp5KXDceM"
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -1259,7 +1466,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 471546,
-      "name": "Old Love - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Old Love - Acoustic Live",
       "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
     },
     {
@@ -1493,7 +1700,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 139373,
       "name": "Rock And Roll Records",
       "url": "https://open.spotify.com/track/4d4O5xw8aIgj2VAIDizE5I"
@@ -1522,7 +1729,7 @@
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -1535,7 +1742,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 390893,
-      "name": "Running on Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Running on Faith - Acoustic Live",
       "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
     },
     {
@@ -1576,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Unplugged (Deluxe Edition) [Live]",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-06",
+      "duration_ms": 208693,
+      "name": "San Francisco Bay Blues - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/6v8CskmNAAvz9tvxKfO8i1"
+    },
+    {
+      "album": {
         "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
         "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
@@ -1591,7 +1816,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2022-12-10",
       "duration_ms": 317320,
       "name": "Sensitive Kind",
       "url": "https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ"
@@ -1699,7 +1924,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 272550,
       "name": "Stand and Deliver",
       "url": "https://open.spotify.com/track/3GmU00wcaBBCgKsFcDQtaZ"
@@ -1764,7 +1989,7 @@
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -1777,7 +2002,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Tears in Heaven - Acoustic Live",
       "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
     },
     {
@@ -1895,7 +2120,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 210933,
       "name": "Tulsa Time",
       "url": "https://open.spotify.com/track/5eq5ddS17QTksWdfLEastZ"
@@ -1935,7 +2160,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 429520,
       "name": "When My Heart Beats Like a Hammer",
       "url": "https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1"

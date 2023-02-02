@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The sound of the new era of Jazz. Cover: Esperanza Spalding",
   "name": "21st Century Jazz",
-  "published_playlist_ids": [
-    "52ZpPLnxkLdZ3FTl62Dt96"
-  ],
   "tracks": [
     {
       "album": {
@@ -1447,7 +1444,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-01",
       "duration_ms": 340044,
       "name": "Cigogne",
       "url": "https://open.spotify.com/track/7y2Lj0tT4XdozP3oThtZm3"
@@ -1793,7 +1790,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 295453,
       "name": "Dagdikt",
       "url": "https://open.spotify.com/track/7nKPNvHglxykdArk6jcIBA"
@@ -3261,7 +3258,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 270813,
       "name": "GOODS YARD feat. Richard Spaven",
       "url": "https://open.spotify.com/track/0n1jwij43Kof3HOM7E3Q1K"
@@ -3377,7 +3374,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 314768,
       "name": "Grenadier",
       "url": "https://open.spotify.com/track/1sjsqhEE2V6fCEAKwAwQ7I"
@@ -3571,7 +3568,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 166760,
       "name": "Honey Caturra",
       "url": "https://open.spotify.com/track/4DSNN0ESNucsjPJDUu2Tyr"
@@ -4434,6 +4431,32 @@
     },
     {
       "album": {
+        "name": "Smoke Sessions (Remixed)",
+        "url": "https://open.spotify.com/album/5tBRsq9lzXfvMGsIQsTIn9"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344720,
+      "name": "Levin's Lope - Karriem Riggins Remix",
+      "url": "https://open.spotify.com/track/3BwZnEqueHZrlAbz2mSAOu"
+    },
+    {
+      "album": {
         "name": "Levin's Lope (Karriem Riggins Remix)",
         "url": "https://open.spotify.com/album/4j6JL0ZiDxUZKxI2y7ELuN"
       },
@@ -4453,7 +4476,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 344720,
       "name": "Levin's Lope - Karriem Riggins Remix",
       "url": "https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5"
@@ -4621,7 +4644,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 282762,
       "name": "Little Jump",
       "url": "https://open.spotify.com/track/5e1PSFh6Qrcr8K89Iy2vCm"
@@ -4695,10 +4718,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-06",
       "duration_ms": 375520,
       "name": "Loosed",
       "url": "https://open.spotify.com/track/159joJXhn4I74i1gZLE3Bs"
+    },
+    {
+      "album": {
+        "name": "Liminal Space",
+        "url": "https://open.spotify.com/album/5d7i7p5mP76Gi4kY2YurSw"
+      },
+      "artists": [
+        {
+          "name": "Ill Considered",
+          "url": "https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375520,
+      "name": "Loosed",
+      "url": "https://open.spotify.com/track/7jPFm9v98htkGY9dHiKFXH"
     },
     {
       "album": {
@@ -5441,7 +5482,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-13",
       "duration_ms": 402773,
       "name": "Move",
       "url": "https://open.spotify.com/track/3HYCr4XXLZxMBqNQOvFNFR"
@@ -5785,10 +5826,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 212026,
       "name": "Not So Modern Times",
       "url": "https://open.spotify.com/track/4AiRfllz5Lx7A6gy9H0ezT"
+    },
+    {
+      "album": {
+        "name": "SGJAZZ, Vol. 2",
+        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
+      },
+      "artists": [
+        {
+          "name": "SGJAZZ",
+          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
+        },
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212026,
+      "name": "Not So Modern Times",
+      "url": "https://open.spotify.com/track/5e4mzh6o5LPqy19A6vGB4w"
     },
     {
       "album": {
@@ -5887,6 +5950,36 @@
       "duration_ms": 227986,
       "name": "N\u00f6rvenich Lounge",
       "url": "https://open.spotify.com/track/3V26wEil0lpRg1UQyju8vS"
+    },
+    {
+      "album": {
+        "name": "XXXX",
+        "url": "https://open.spotify.com/album/4IStAnJ6JI7ivJY8IGpTOW"
+      },
+      "artists": [
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        },
+        {
+          "name": "Emile Parisien",
+          "url": "https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6"
+        },
+        {
+          "name": "Tim Lefebvre",
+          "url": "https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38"
+        },
+        {
+          "name": "Christian Lillinger",
+          "url": "https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 227986,
+      "name": "N\u00f6rvenich Lounge",
+      "url": "https://open.spotify.com/track/5beXQMyanezwQHWfTJptHq"
     },
     {
       "album": {
@@ -6483,7 +6576,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-18",
       "duration_ms": 585601,
       "name": "Plastic Rain",
       "url": "https://open.spotify.com/track/3tv8osVVtb4OlKJGqsrJjA"
@@ -7215,10 +7308,36 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 336773,
       "name": "Satori Ways",
       "url": "https://open.spotify.com/track/1l27GB8qsdLvDIaNjmS7qO"
+    },
+    {
+      "album": {
+        "name": "WEB MAX",
+        "url": "https://open.spotify.com/album/2mcAfe3T2XfQknP5OsgD2r"
+      },
+      "artists": [
+        {
+          "name": "Web Web",
+          "url": "https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF"
+        },
+        {
+          "name": "Max Herre",
+          "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
+        },
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336773,
+      "name": "Satori Ways",
+      "url": "https://open.spotify.com/track/3UouchP78Vima0dabIi3kz"
     },
     {
       "album": {
@@ -7407,6 +7526,36 @@
       "duration_ms": 420460,
       "name": "Ships Come In (A Lullaby)",
       "url": "https://open.spotify.com/track/0Jc7cfNj1ppZfC2WzUJymn"
+    },
+    {
+      "album": {
+        "name": "The Hands of Time",
+        "url": "https://open.spotify.com/album/5EK25oGfbC4cZ04DsLsZwE"
+      },
+      "artists": [
+        {
+          "name": "Weedie Braimah",
+          "url": "https://open.spotify.com/artist/0gNcTRfbjxxOdXxSCoXluo"
+        },
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        },
+        {
+          "name": "Elena Pinderhughes",
+          "url": "https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu"
+        },
+        {
+          "name": "Magatte Sow",
+          "url": "https://open.spotify.com/artist/0WDGKBSxLNMOQgdqt2XldB"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421046,
+      "name": "Ships Come In (A Lullaby)",
+      "url": "https://open.spotify.com/track/1sWtO5DuAnySusPx8NwHR1"
     },
     {
       "album": {
@@ -8111,7 +8260,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-19",
       "duration_ms": 386586,
       "name": "Sunfish",
       "url": "https://open.spotify.com/track/7wXFm7V9l7WDL08iyghuPm"
@@ -8559,10 +8708,36 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 269988,
       "name": "The Elephant in the Room",
       "url": "https://open.spotify.com/track/3KZkUgDEdCX5RGFYGDN962"
+    },
+    {
+      "album": {
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/4kI3cs7XkyzACcl9suYQ6s"
+      },
+      "artists": [
+        {
+          "name": "An0",
+          "url": "https://open.spotify.com/artist/7bGMJI5extdRfbKjw1NufB"
+        },
+        {
+          "name": "kevin",
+          "url": "https://open.spotify.com/artist/3S8QW0sAq2cXykM7MKCC0z"
+        },
+        {
+          "name": "An0kevin",
+          "url": "https://open.spotify.com/artist/31UWwbJn6pacSbQ499Ubw4"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269988,
+      "name": "The Elephant in the Room",
+      "url": "https://open.spotify.com/track/4kG68VmZZJcRqCR5r2tg0Z"
     },
     {
       "album": {
@@ -9333,7 +9508,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 259093,
       "name": "Try Walk With Me (feat. Asheber)",
       "url": "https://open.spotify.com/track/62LsYCyccWELgSd1Qnql8y"
@@ -9687,10 +9862,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 262092,
       "name": "We Go Again",
       "url": "https://open.spotify.com/track/1ZuM7USvEryCw7eDwAvhTw"
+    },
+    {
+      "album": {
+        "name": "Intra-I",
+        "url": "https://open.spotify.com/album/6Px8YAjvVSlADuUJIF4DF6"
+      },
+      "artists": [
+        {
+          "name": "Theon Cross",
+          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262092,
+      "name": "We Go Again",
+      "url": "https://open.spotify.com/track/1wwNaXc795mdzPCeeK3zkp"
     },
     {
       "album": {

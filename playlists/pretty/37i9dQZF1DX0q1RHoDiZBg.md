@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,253 likes - 92 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,245 likes - 92 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

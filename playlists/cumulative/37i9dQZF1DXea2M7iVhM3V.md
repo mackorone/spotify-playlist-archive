@@ -4,7 +4,7 @@
 
 > Kill it today with this awesome Hip Hop.
 
-51 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/5Q6IMDAfsGWBrdnbUcY7mG)
+51 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

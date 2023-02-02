@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 
 > Celebrating 50 years of the original artists, songs, and recordings from the iconic 1969 Woodstock Music Festival
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,982 likes - 100 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,658 likes - 100 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 | 95 | [Rock And Soul Music](https://open.spotify.com/track/4w2qXIjtwE9zIB7SQlNNoj) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Together](https://open.spotify.com/album/6R42AO3pSU2WXVCPs13buk) | 6:54 |
 | 96 | [The Love Machine](https://open.spotify.com/track/6056d1Svol59ioexYWtoL7) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [C.J\. Fish](https://open.spotify.com/album/7bZtqAqVEGS4Id0ZdFbbPF) | 5:48 |
 | 97 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
-| 98 | [Tears Of Rage \- Remastered](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 |
+| 98 | [Tears Of Rage \- Remastered 2000](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 |
 | 99 | [Everything's Gonna Be Alright](https://open.spotify.com/track/2xDBsjOW7TQCYVXz0jOGBS) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Complete Albums 1965\-1980](https://open.spotify.com/album/74Q5wVKJAvWBv2wDOSoJPg) | 2:58 |
 | 100 | [Driftin' and Driftin'](https://open.spotify.com/track/690y2K7VeXxOpXOA14snTd) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Resurrection Of Pigboy Crabshaw](https://open.spotify.com/album/5nEOJtjR1clDZQZwAlA7Qs) | 9:09 |
 

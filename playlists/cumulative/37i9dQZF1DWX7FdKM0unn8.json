@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Listen Korea's classic & old songs from 70's to 80's. (70-80\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "Korean Old Vinyls (\ud1b5\uae30\ud0c0\uc640 LP\ud310)",
-  "published_playlist_ids": [
-    "7vtCT9EARyoqRQSxtdctBN"
-  ],
   "tracks": [
     {
       "album": {
@@ -863,6 +860,24 @@
     {
       "album": {
         "name": "\ub530\ub85c \ub610 \uac19\uc774 Vol.3",
+        "url": "https://open.spotify.com/album/0258DtBYRRSCUNR62yM5BB"
+      },
+      "artists": [
+        {
+          "name": "Apart and Together",
+          "url": "https://open.spotify.com/artist/1eIPxKC8UNMvpad5o6Qbg2"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278622,
+      "name": "\ub5a0\ub098\ubc84\ub9b0 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/7MMVGHfGFZsWy3PFY4YPqE"
+    },
+    {
+      "album": {
+        "name": "\ub530\ub85c \ub610 \uac19\uc774 Vol.3",
         "url": "https://open.spotify.com/album/6fy6yeYkv7M3qVCz5HIHir"
       },
       "artists": [
@@ -877,24 +892,6 @@
       "duration_ms": 278622,
       "name": "\ub5a0\ub098\ubc84\ub9b0 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/2kiqna7MqAupWwZV8vb3mZ"
-    },
-    {
-      "album": {
-        "name": "\ub530\ub85c \ub610 \uac19\uc774 Vol.3",
-        "url": "https://open.spotify.com/album/0258DtBYRRSCUNR62yM5BB"
-      },
-      "artists": [
-        {
-          "name": "\ub530\ub85c \ub610 \uac19\uc774",
-          "url": "https://open.spotify.com/artist/5xwMG3oq16KjZGGWHLeMNH"
-        }
-      ],
-      "date_added": "2021-08-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 278622,
-      "name": "\ub5a0\ub098\ubc84\ub9b0 \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/7MMVGHfGFZsWy3PFY4YPqE"
     },
     {
       "album": {
@@ -1897,8 +1894,8 @@
       },
       "artists": [
         {
-          "name": "\uc740\ubc29\uc6b8\uc790\ub9e4",
-          "url": "https://open.spotify.com/artist/7bSbVUfkQBYgjK0G2Q6cMP"
+          "name": "Eunbangul Sisters",
+          "url": "https://open.spotify.com/artist/0kBrnh1Onqubyc9XpWYYDE"
         }
       ],
       "date_added": "2021-08-12",

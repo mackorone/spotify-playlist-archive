@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Take a deep breath and relax.",
   "name": "Breathe",
-  "published_playlist_ids": [
-    "6gL2G2PqG3eJ4wI5j0BKO2"
-  ],
   "tracks": [
     {
       "album": {
@@ -198,7 +195,7 @@
       "artists": [
         {
           "name": "Pristeen",
-          "url": "https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh"
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
         }
       ],
       "date_added": "2022-05-25",
@@ -826,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Escapism",
+        "url": "https://open.spotify.com/album/4yZf7vfGxPqrSxazti0FFH"
+      },
+      "artists": [
+        {
+          "name": "Corbin Tellier",
+          "url": "https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Escapism",
+      "url": "https://open.spotify.com/track/1hZwpsltD5RTHPhJTEz42U"
+    },
+    {
+      "album": {
         "name": "Falling Autumn Leaves",
         "url": "https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S"
       },
@@ -1114,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Independencia",
+        "url": "https://open.spotify.com/album/52ZD56uYSwIjJsDYT1vSm6"
+      },
+      "artists": [
+        {
+          "name": "Miravaldini",
+          "url": "https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206275,
+      "name": "Independencia",
+      "url": "https://open.spotify.com/track/32UTc4rxIFSvAzzrzWXnXU"
+    },
+    {
+      "album": {
         "name": "Indirectly",
         "url": "https://open.spotify.com/album/0wcE5AoDhShhJMdftUd2oh"
       },
@@ -1276,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Osceola",
+        "url": "https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE"
+      },
+      "artists": [
+        {
+          "name": "Eyelydia",
+          "url": "https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Let Hold",
+      "url": "https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz"
+    },
+    {
+      "album": {
         "name": "Book Of Calmness",
         "url": "https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4"
       },
@@ -1345,6 +1396,24 @@
       "duration_ms": 182557,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/5xe5oU9NJYyUTL2THo1TPy"
+    },
+    {
+      "album": {
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Mind Balance",
+      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
     },
     {
       "album": {
@@ -1443,8 +1512,8 @@
       },
       "artists": [
         {
-          "name": "Hoja Rama",
-          "url": "https://open.spotify.com/artist/4B1koovpVzlZQ4URtMTLvC"
+          "name": "Reiki Nataraj",
+          "url": "https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX"
         }
       ],
       "date_added": "2022-10-21",
@@ -1870,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33"
+      },
+      "artists": [
+        {
+          "name": "Elsa Whage",
+          "url": "https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Seventh Heaven",
+      "url": "https://open.spotify.com/track/2bV4AO2zBHjmlTxcUhY3w9"
+    },
+    {
+      "album": {
         "name": "Paradiso (Meditation Mix)",
         "url": "https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH"
       },
@@ -1899,7 +1986,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 190000,
       "name": "Sinilluarit",
       "url": "https://open.spotify.com/track/3g0xCFy4hQ4MDoe0KfLVud"
@@ -1921,6 +2008,24 @@
       "duration_ms": 154550,
       "name": "Skymning",
       "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
+    },
+    {
+      "album": {
+        "name": "Sleep Drone In C",
+        "url": "https://open.spotify.com/album/2xyKsesDNwPXWot5KRcwLz"
+      },
+      "artists": [
+        {
+          "name": "Kamila Tait",
+          "url": "https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Sleep Drone In C",
+      "url": "https://open.spotify.com/track/5fy41aUyrZd4sHSFbq2fJQ"
     },
     {
       "album": {
@@ -2245,6 +2350,24 @@
       "duration_ms": 147563,
       "name": "The Riddle of Dreams",
       "url": "https://open.spotify.com/track/5HfIHltHzu31DBzxJwoVQg"
+    },
+    {
+      "album": {
+        "name": "Laze",
+        "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
+      },
+      "artists": [
+        {
+          "name": "Aileen Morais",
+          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Warm Embrace",
+      "url": "https://open.spotify.com/track/4H7cke51KBunS0nfrjtu7Q"
     },
     {
       "album": {

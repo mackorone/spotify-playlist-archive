@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "The world series of Ska. Cover: The Interrupters",
   "name": "Ska Around The Globe",
-  "published_playlist_ids": [
-    "7KNWXVoqADrCiHYxopnpHa"
-  ],
   "tracks": [
     {
       "album": {
@@ -56,7 +53,7 @@
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 203373,
+      "duration_ms": 201720,
       "name": "54-46 That's My Number",
       "url": "https://open.spotify.com/track/5UDsHnUvshUv5EuPhDTRqb"
     },
@@ -417,7 +414,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-02",
       "duration_ms": 170013,
       "name": "Al Fondo del Mar",
       "url": "https://open.spotify.com/track/46KrPzw2hZPICMO5zoqtyz"
@@ -1537,7 +1534,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 199106,
       "name": "Criminales Sudamericanos",
       "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
@@ -1869,7 +1866,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": null,
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
@@ -1995,7 +1992,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 163653,
       "name": "El Mi\u00f3n",
       "url": "https://open.spotify.com/track/6aHoNnabXZzxzsjZP2y8Rc"
@@ -2371,7 +2368,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 225880,
       "name": "Forza St. Pauli",
       "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
@@ -2929,7 +2926,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 330866,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1uPXCYx1ucrJBDgywMjPCp"
@@ -3359,7 +3356,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 188320,
       "name": "Kotzen",
       "url": "https://open.spotify.com/track/6UNf12sZXLcvQUbNpyfKHd"
@@ -4967,7 +4964,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 219706,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
@@ -5007,6 +5004,24 @@
       "duration_ms": 192640,
       "name": "Noise Complaint",
       "url": "https://open.spotify.com/track/1VgnOv5Ss0mHQRmzheBKBb"
+    },
+    {
+      "album": {
+        "name": "Strictly Rude",
+        "url": "https://open.spotify.com/album/1kuObhSxafq6parqT4omr8"
+      },
+      "artists": [
+        {
+          "name": "Big D and the Kids Table",
+          "url": "https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192640,
+      "name": "Noise Complaint",
+      "url": "https://open.spotify.com/track/5Cq3iRZZEBUTfKRTXmiz5L"
     },
     {
       "album": {
@@ -6551,7 +6566,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 162930,
       "name": "Ska en la Playa",
       "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
@@ -6831,7 +6846,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 156395,
       "name": "Som de l'oest",
       "url": "https://open.spotify.com/track/4uAO7c2fB3Xnpypuam9YF4"
@@ -7411,7 +7426,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 216626,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/6Eo9czIciWAYe0CWShgi4N"
@@ -7577,6 +7592,24 @@
       "duration_ms": 160026,
       "name": "The Tears of a Clown",
       "url": "https://open.spotify.com/track/3M2mTLjRXRW8dE7j3KTaUv"
+    },
+    {
+      "album": {
+        "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
+        "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
+      },
+      "artists": [
+        {
+          "name": "Dandy Livingstone",
+          "url": "https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172226,
+      "name": "Think About That",
+      "url": "https://open.spotify.com/track/03eFeX9f5stqVIyk93qxut"
     },
     {
       "album": {
@@ -7937,7 +7970,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 229400,
       "name": "Tu Alma M\u00eda & Adelita",
       "url": "https://open.spotify.com/track/1sxw4UT4h3qpd1ABFEPBe8"
@@ -7959,6 +7992,24 @@
       "duration_ms": 229426,
       "name": "Tu Alma M\u00eda & Adelita",
       "url": "https://open.spotify.com/track/3JuJ8K9qJshYxQGR1ijoaa"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233266,
+      "name": "Tu Alma M\u00eda / Adelita",
+      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
     },
     {
       "album": {

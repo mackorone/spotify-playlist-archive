@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 
 > Top of the top hits from Korean Pop Artists! Cover: <a href="spotify:artist:41MozSoPIsD1dJM0CLPjZF">BLACKPINK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,183 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,789 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 | 7 | [FLOWER ROAD](https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [FLOWER ROAD](https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx) | 3:48 |
 | 8 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 |
 | 9 | [Lullaby](https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:37 |
-| 10 | [DRAMARAMA](https://open.spotify.com/track/1BSncOsSJPQkpl29QM0ipj) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:06 |
+| 10 | [DRAMARAMA](https://open.spotify.com/track/1BSncOsSJPQkpl29QM0ipj) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CODE](https://open.spotify.com/album/4NJpBKY4XJbRLAsbbeIzyJ) | 3:06 |
 | 11 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 |
 | 12 | [Countless](https://open.spotify.com/track/6mI6dpwRDteVr3ZQsDeD6e) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The Story of Light' Epilogue \- The 6th Album](https://open.spotify.com/album/0myFUTLsIg4SKyAanKrM3f) | 3:08 |
 | 13 | [Simon Says](https://open.spotify.com/track/1zedfw5iu7XzKJT8CupEIP) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regulate \- The 1st Album Repackage](https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S) | 3:19 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 | 41 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
 | 42 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 |
 | 43 | [Honestly](https://open.spotify.com/track/4LsX7Mz7zhNOoydJfhedL4) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Honestly](https://open.spotify.com/album/5fhNla7mPuyaDXPwZUhM3Q) | 3:26 |
-| 44 | [seoul \(prod\. HONNE\)](https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 4:35 |
+| 44 | [seoul \(prod\. HONNE\)](https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb) | 4:35 |
 | 45 | [Stay With Me](https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Guardian \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) | 3:12 |
 | 46 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
 | 47 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 | 50 | [Scentist](https://open.spotify.com/track/18oDuUN4ixceCOX6hkfdRZ) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [EAU DE VIXX](https://open.spotify.com/album/4dUIpYgwZeY8z15ikxThDE) | 3:04 |
 | 51 | [Call me](https://open.spotify.com/track/6NE3fMuLpGWn86zbGGhmIL) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [THIS IS US](https://open.spotify.com/album/1JpC31overHSqPenjJieXv) | 3:16 |
 | 52 | [DINOSAUR](https://open.spotify.com/track/49KDK2ccYnOCYPeXfDO3YT) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [SUMMER EPISODE](https://open.spotify.com/album/6nvvOIQoyryvZjr7baMuXP) | 4:00 |
-| 53 | [SEE SEA](https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe) | 3:20 |
+| 53 | [SEE SEA](https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SEE SEA](https://open.spotify.com/album/1t3IRZpNvtOD1tXfFLrLOe) | 3:20 |
 | 54 | [Very Very Very](https://open.spotify.com/track/0BhMw9r3eOLMLXRFBLCt6O) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [miss me?](https://open.spotify.com/album/2YyowuE62RMWFtBSa2EO7r) | 3:23 |
 | 55 | [HER](https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [HER](https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3) | 2:59 |
 | 56 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 | 85 | [YOU AND I](https://open.spotify.com/track/1sS61BTtpJxiw8VARNrD7n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 3:15 |
 | 86 | [Crazy](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) | 3:12 |
 | 87 | [Hello Bitches](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Hello Bitches](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | 2:58 |
-| 88 | [She's In The Rain](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) | 3:57 |
+| 88 | [She's In The Rain](https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV) | 3:57 |
 | 89 | [I Don't Love You](https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [STILL](https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU) | 4:14 |
 | 90 | [Roly\-Poly](https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [John Travolta Wanna Be](https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq) | 3:34 |
 | 91 | [gold \(Feat\. Dean\)](https://open.spotify.com/track/0EYOhg4jMf7hCLeQIxlvKL) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [DEAN](https://open.spotify.com/artist/2AP2dAjeRdX48EXcLMXOjf) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHqBODmn2c.md) - [plain]
 | 99 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
 | 100 | [HOLUP!](https://open.spotify.com/track/0dkqqQAizwp3MHJKehq5ng) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [The MOBB](https://open.spotify.com/album/4t6fZKJ4OOVTNc3A8YFq7k) | 3:31 |
 
-Snapshot ID: `MTY1Nzc5MDAyNSwwMDAwMDAwMGRjYzE5NmU3ZGFhZTJiNGM5ZTgxNGQ5M2RkYmM5ZWFk`
+Snapshot ID: `MTY1Nzc5MDAyNSwwMDAwMDAwMGY2MjNiZTdkOTUzYjk4MTE5M2I0NmQwNDRhNTI4NWE4`

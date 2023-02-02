@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,708 likes - 63 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,083 likes - 63 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 47 | [Cinq etudes de bruits \- Etude violette](https://open.spotify.com/track/0kBiKfpX3XJryfVyjcKwn8) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [The French Avant\-Garde in the 20th Century](https://open.spotify.com/album/7bwmOoEpj4IhcviXUeRShT) | 3:20 |
 | 48 | [Le Crabe Qui Jouait Avec La Mer \(Part 1\)](https://open.spotify.com/track/4XfjqzFtBEWSjiqtZcEajp) | [Philippe Arthuys](https://open.spotify.com/artist/3uStZD5U99AvkVXWntR2zJ) | [Le Crabe Qui Jouait Avec La Mer](https://open.spotify.com/album/0qsed81F0U5DL3eKp9jTqy) | 13:45 |
 | 49 | [Amphitryon 38](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 |
-| 50 | [Science & Industry](https://open.spotify.com/track/5k7TXJ6IwxCiqU5z0V6laU) | [Phil Young](https://open.spotify.com/artist/3jbkcQVR0WH0APuO1Gd4Ly) | [Roots of Electronica Vol\. 2, European Avant\-Garde, Noise and Experimental Music](https://open.spotify.com/album/5296k3euZM2KzXQsTPNkqN) | 0:28 |
+| 50 | [Science and Industry](https://open.spotify.com/track/7jCdR2wBBmGI9ZXZVGb5Ln) | [Phil Young](https://open.spotify.com/artist/7zPjfafzGdjuMFEaUBzRMU) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:31 |
 | 51 | [Trilogy](https://open.spotify.com/track/6aCuYQZ9MexFQuOiN8vc9Y) | [David Talcott](https://open.spotify.com/artist/714OsSypsVpE3QzKp0QYn6) | [Highlights of Vortex: Electronic Experiments and Music](https://open.spotify.com/album/4gCHXdm7E3OakQibqt4G1G) | 5:23 |
 | 52 | [Etude for Piano: Guero \(1970\)](https://open.spotify.com/track/06AGoqGmCwAb4Q3IxET5wp) | [Helmut Lachenmann](https://open.spotify.com/artist/0VelZYNiFVkSlRrLP2w9G8), [Roland Keller](https://open.spotify.com/artist/0ePk3E2xvfTtl6tck0jf4W) | [Helmut Lachenmann: Musique Concrète](https://open.spotify.com/album/1pp57YtrtALRwsPD5m6sOS) | 5:32 |
 | 53 | [Etudes Instrumentales: b\) Flute Mexicaine](https://open.spotify.com/track/3l604Urtsbyu4GHYEoFrHM) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [1st panorama de musique concrete \(Remastered\)](https://open.spotify.com/album/7BIGumADSOqwUPay2wCCZw) | 3:08 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 62 | [The 4 Beasts' Amen: Communion: Scala angelica](https://open.spotify.com/track/1ui3g44yhB54q49SJew7dT) | [Hans\-Ola Ericsson](https://open.spotify.com/artist/7hyDap4bASASc6FEB4AwGE), [Susanne Rydén](https://open.spotify.com/artist/0nOPGVvHRYzJW76c3OiWaX), [Tommy Bjork](https://open.spotify.com/artist/5J58YZbJGx52On04YhsyEo), [Anders Hannus](https://open.spotify.com/artist/73RsH4cR30T8nmEsxgLa3d) | [Ericsson: the Four Beasts' Amen / Melody To the Memory of Lost Friend Xiii](https://open.spotify.com/album/6b6VzFCC4rpMkkTaBMr9iZ) | 8:04 |
 | 63 | [Synchronisms No\. 6](https://open.spotify.com/track/3I0gtCsE6xQtyp0jgCPouV) | [Mario Davidovsky](https://open.spotify.com/artist/0RkeeCvii56vYCER2jY5IH), [Aleck Karis](https://open.spotify.com/artist/5infXBnDBbGBPoWNBslhRH) | [Secret Geometry](https://open.spotify.com/album/5ATviy3QWhI6OuzJiN9tr3) | 7:06 |
 
-Snapshot ID: `MTY2NDg5NDM2MSwwMDAwMDAwMDY2ZjUyYWNiMTQ3YTUwODg5ODdhNTJjZmMyYzRhN2Zm`
+Snapshot ID: `MTY2NDg5NDM2MSwwMDAwMDAwMGY2NWI2MjllNjQwYjliNzdmNmQxYjM0YjJkOWYxYWYx`

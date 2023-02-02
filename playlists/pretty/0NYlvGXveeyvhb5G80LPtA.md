@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NYlvGXveeyvhb5G80LPtA.md) - [plain]
 
 > Älskade fotbollslåtar, samlade i en spellista\. Officiella mästerskapslåtar, varvat med inofficiella hyllningar och storslagna arenahymner\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 163 likes - 33 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 162 likes - 33 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

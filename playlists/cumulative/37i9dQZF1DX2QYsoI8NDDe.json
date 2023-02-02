@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Celebrando a los mujerones con sangre mexicana! Cover: Majo Aguilar ",
+  "description": "\u00a1Celebrando a los mujerones con sangre mexicana! Cover: Michelle Bi",
   "name": "Mujerones",
-  "published_playlist_ids": [
-    "7jJsKj2LL4QpeGJ8HwvgK2"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 157760,
       "name": "Abeja Reina",
       "url": "https://open.spotify.com/track/4tiEfGlJaonFDtSTCvesoj"
@@ -98,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164626,
+      "name": "Ahora Va La M\u00eda",
+      "url": "https://open.spotify.com/track/0CEublugofmBX9a2RKoxjq"
+    },
+    {
+      "album": {
         "name": "Ah\u00ed Donde Me Ven",
         "url": "https://open.spotify.com/album/6M9GNcF5jLv8CNmDlFrGid"
       },
@@ -153,7 +168,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 182320,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/5SMGmsiSlbB0mhoM8RVBxQ"
@@ -330,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+    },
+    {
+      "album": {
         "name": "Paquita La Del Barrio En Vivo",
         "url": "https://open.spotify.com/album/4IeKibQyMCzKcITREUrOk4"
       },
@@ -456,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Con Tu Recuerdo",
+        "url": "https://open.spotify.com/album/2HvSOHRTPK1HBUMgA5eUUc"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177053,
+      "name": "Con Tu Recuerdo",
+      "url": "https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc"
+    },
+    {
+      "album": {
         "name": "Consid\u00e9rame",
         "url": "https://open.spotify.com/album/4w7UUOpYQCVZbUSUSIYNc8"
       },
@@ -471,6 +522,24 @@
       "duration_ms": 177378,
       "name": "Consid\u00e9rame",
       "url": "https://open.spotify.com/track/7BDwEPJNbqZhY7MxnywZ6l"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
+      },
+      "artists": [
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213711,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
     },
     {
       "album": {
@@ -521,7 +590,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 201802,
       "name": "Cuando Caiga la Noche",
       "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
@@ -539,7 +608,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2023-01-28",
       "duration_ms": 192913,
       "name": "Cuando Me Importabas",
       "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
@@ -716,6 +785,24 @@
     },
     {
       "album": {
+        "name": "El Primo",
+        "url": "https://open.spotify.com/album/4nGVSLh755URcmcVAKfdIF"
+      },
+      "artists": [
+        {
+          "name": "Michelle BI",
+          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148370,
+      "name": "El Primo",
+      "url": "https://open.spotify.com/track/2bPjoSHjBoiOSeZJwvTXlz"
+    },
+    {
+      "album": {
         "name": "Thalia En Primera Fila",
         "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
       },
@@ -727,7 +814,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249360,
       "name": "El Pr\u00f3ximo Viernes - Live Version",
       "url": "https://open.spotify.com/track/1uW8wYIoulhYK6qIXhakbg"
@@ -839,7 +926,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-01",
       "duration_ms": 244440,
       "name": "Equivocada - Live Version",
       "url": "https://open.spotify.com/track/7yc7bnIJpmecG0Jp1rhDyJ"
@@ -1063,7 +1150,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 187430,
       "name": "Gabriel Ornelas",
       "url": "https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y"
@@ -1085,6 +1172,24 @@
       "duration_ms": 227040,
       "name": "Gaviota Traidora",
       "url": "https://open.spotify.com/track/5qSvi8PGmczWG2sxWwNI2I"
+    },
+    {
+      "album": {
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240648,
+      "name": "Hasta El D\u00eda De Hoy - En Vivo",
+      "url": "https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex"
     },
     {
       "album": {
@@ -1135,7 +1240,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 144869,
       "name": "Hazme Tuya",
       "url": "https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5"
@@ -1207,7 +1312,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 186749,
       "name": "La Glook",
       "url": "https://open.spotify.com/track/0Z3SLVBqMgZSL6wfKmYVrx"
@@ -1301,7 +1406,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221893,
       "name": "La ocasi\u00f3n para amarnos",
       "url": "https://open.spotify.com/track/3kNkKkE4PG8zcbrek4SNQj"
@@ -1519,7 +1624,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 163810,
       "name": "Les Molesta",
       "url": "https://open.spotify.com/track/0FQUdbfAuh7HzHGOeXxvSb"
@@ -1599,7 +1704,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 149866,
       "name": "Los Laureles (The Laurels)",
       "url": "https://open.spotify.com/track/7vi8WVsQGQrzH0fw1hGFOo"
@@ -1768,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "30 Exitos Insuperables",
+        "url": "https://open.spotify.com/album/33ZPVVNd1W4MaLloP1H2UC"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236533,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/15Ua6Q1yeD6GHdf4J0Elws"
+    },
+    {
+      "album": {
         "name": "Merec\u00eda M\u00e1s",
         "url": "https://open.spotify.com/album/4x4GrgG8ikogFhMWmW5aMa"
       },
@@ -1823,7 +1946,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-22",
       "duration_ms": 184469,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4JIGvUeyXTKEzZ8mv0ApKl"
@@ -1899,6 +2022,24 @@
       "duration_ms": 215893,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/6vYyt9OYS6HBT6wI3JP52s"
+    },
+    {
+      "album": {
+        "name": "INERCIA",
+        "url": "https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220250,
+      "name": "Mi Soledad",
+      "url": "https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC"
     },
     {
       "album": {
@@ -1989,6 +2130,24 @@
       "duration_ms": 231967,
       "name": "Mudanzas",
       "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
+    },
+    {
+      "album": {
+        "name": "Mujer Normal",
+        "url": "https://open.spotify.com/album/2rfYNpxBcb7EcSIEdkwTrw"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201466,
+      "name": "Mujer Normal",
+      "url": "https://open.spotify.com/track/726IaUmpXvHvGNih6GHd6W"
     },
     {
       "album": {
@@ -2176,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "No Me Lamentare",
+        "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135806,
+      "name": "No Me Lamentare",
+      "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
+    },
+    {
+      "album": {
         "name": "No Me Preguntes",
         "url": "https://open.spotify.com/album/1ZPDEYqyLdGkvI1vdENwd8"
       },
@@ -2223,7 +2400,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 171461,
       "name": "No Me Preguntes",
       "url": "https://open.spotify.com/track/7h5SXPuwGLSIenz3cLpSb6"
@@ -2259,7 +2436,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 200269,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
@@ -2277,7 +2454,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 231506,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/7dz7NLIMO7es3GfCpf6Mdt"
@@ -2439,7 +2616,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": "2023-02-02",
       "duration_ms": 195533,
       "name": "Paloma negra",
       "url": "https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G"
@@ -2529,7 +2706,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 198102,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
@@ -2547,7 +2724,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 220133,
       "name": "Por hablarle de ti",
       "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
@@ -2587,6 +2764,24 @@
       "duration_ms": 218320,
       "name": "Por Lo Que Reste de Vida",
       "url": "https://open.spotify.com/track/7qDkY9Y9v9eFV53AalBcSd"
+    },
+    {
+      "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158146,
+      "name": "Porque Soy Abeja Reina",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "album": {
@@ -2662,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189309,
+      "name": "Que Poca",
+      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
+    },
+    {
+      "album": {
         "name": "Que Poca",
         "url": "https://open.spotify.com/album/54Q3EKL4bm3MBqFjyqhIH7"
       },
@@ -2673,7 +2886,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 189309,
       "name": "Que Poca",
       "url": "https://open.spotify.com/track/489an9gNuEO1fyf0ZIQ2nc"
@@ -2713,7 +2926,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 258453,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/6h4krpn1OHlpiRDkthIcJk"
@@ -2739,7 +2952,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 224395,
       "name": "Que\u0301 Maldicio\u0301n - Remix",
       "url": "https://open.spotify.com/track/0SWfXjPmLSUydYzwK9ct9F"
@@ -2775,7 +2988,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247053,
       "name": "Quiero Amanecer Con Alguien",
       "url": "https://open.spotify.com/track/2ryQUYtQkg8oHvkEyPxPz5"
@@ -2800,6 +3013,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
+    },
+    {
+      "album": {
         "name": "La Malquerida",
         "url": "https://open.spotify.com/album/6x9gNY8gVDP8yd6isgj8AL"
       },
@@ -2811,7 +3046,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196026,
       "name": "Qu\u00e9 No Me Faltes T\u00fa",
       "url": "https://open.spotify.com/track/4CWs6jJZE4UL2cWv8zl5fl"
@@ -2847,10 +3082,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 304734,
       "name": "Resulta - En Vivo",
       "url": "https://open.spotify.com/track/6Dt6PWJ6lRBhhUF9d9UVRg"
+    },
+    {
+      "album": {
+        "name": "Romeo Y Su Nieta",
+        "url": "https://open.spotify.com/album/3RSaSZediHZ92VPNRzf8KU"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134652,
+      "name": "Romeo Y Su Nieta",
+      "url": "https://open.spotify.com/track/45q7Y91RaCuQAOk2pCSMGM"
     },
     {
       "album": {
@@ -2901,7 +3154,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 206383,
       "name": "Se Disfraz\u00f3",
       "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
@@ -2919,7 +3172,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": "2023-02-01",
       "duration_ms": 238560,
       "name": "Se Me Va A Quemar El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9"
@@ -3621,7 +3874,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 211493,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8"
@@ -3711,7 +3964,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 217160,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/57xIz4fw0sMzc2GRnc2Il7"
@@ -3837,7 +4090,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223413,
       "name": "Yo No Creo en los Hombres (Pop Radio)",
       "url": "https://open.spotify.com/track/7jhXzs2FcFGHQMOW2OiMD0"
@@ -3898,6 +4151,24 @@
     },
     {
       "album": {
+        "name": "\u00bfPor Qu\u00e9 No Vienes?",
+        "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
+      },
+      "artists": [
+        {
+          "name": "Vicky Terrazas",
+          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215346,
+      "name": "\u00bfPor Qu\u00e9 No Vienes?",
+      "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
+    },
+    {
+      "album": {
         "name": "Emociones II",
         "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
       },
@@ -3909,7 +4180,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 207626,
       "name": "\u00bfQuieres Ser Mi Amante?",
       "url": "https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U"

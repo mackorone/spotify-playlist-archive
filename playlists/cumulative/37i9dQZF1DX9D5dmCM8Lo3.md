@@ -4,14 +4,14 @@
 
 > would you like to save before closing?
 
-98 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/36YqD8F3x0V42aodGC6n57)
+98 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!!!!](https://open.spotify.com/track/5fZ40SBA9ylaf7lSpbjrug) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [!!!!](https://open.spotify.com/album/7B2VhmnMb6ks1ZqcqqzHGf) | 5:52 | 2022-03-02 | 2022-07-28 |
 | [.dancecore](https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [Audio Diary](https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK) | 3:09 | 2022-03-11 |  |
 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 | 2022-03-02 |  |
-| [About You Now](https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW) | 3:38 | 2022-03-02 |  |
+| [About You Now](https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW) | 3:38 | 2022-03-02 | 2023-02-02 |
 | [An Obsession With Kit](https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 3:07 | 2022-03-02 |  |
 | [Angel](https://open.spotify.com/track/7GdAzd0WQypZOd7pcwUhxf) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Angel](https://open.spotify.com/album/5dkVASayX6wbSxD3ZWWsuB) | 2:17 | 2022-03-02 |  |
 | [Answers](https://open.spotify.com/track/2XrdLU23MqMdrYhhuf1vtS) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [Answers](https://open.spotify.com/album/4Rv4S6zw3hCRlwAt3KbW1X) | 4:48 | 2022-03-02 | 2022-07-28 |
@@ -28,7 +28,7 @@
 | [Cyan Hardcore](https://open.spotify.com/track/5DbCXRs5PXXDgFrsdzjGDg) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/40IjED8bEPBiyVMr936p6o) | 5:05 | 2022-03-02 |  |
 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 | 2022-03-02 |  |
 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 | 2022-03-02 |  |
-| [departure](https://open.spotify.com/track/3uexwXJFkOVHkmulr3IiLc) | [UNIT KAI](https://open.spotify.com/artist/3xEXDFJiPyIS1oC1xYX06F), [acounta](https://open.spotify.com/artist/0sGvH1VL3n3Dn6rvDu2KhX) | [departure](https://open.spotify.com/album/2gosUSZpSN0zTv9WYF8HCj) | 2:31 | 2022-03-02 |  |
+| [departure](https://open.spotify.com/track/3uexwXJFkOVHkmulr3IiLc) | [UNIT KAI](https://open.spotify.com/artist/3xEXDFJiPyIS1oC1xYX06F), [acounta](https://open.spotify.com/artist/0sGvH1VL3n3Dn6rvDu2KhX) | [departure](https://open.spotify.com/album/2gosUSZpSN0zTv9WYF8HCj) | 2:31 | 2022-03-02 | 2022-12-17 |
 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 | 2022-03-02 |  |
 | [Doku](https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Somoku Hodo](https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd) | 2:52 | 2022-03-02 |  |
 | [don't hold me back](https://open.spotify.com/track/287o8HY3OhxKnJhMwKFLR3) | [Mello Jupiter](https://open.spotify.com/artist/5uM9zhLZdIzlTPjZ71Myt3) | [don't hold me back](https://open.spotify.com/album/4pcGT4DzNuS9060W3ePJ44) | 3:10 | 2022-03-02 | 2022-07-29 |
@@ -43,7 +43,7 @@
 | [Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:28 | 2022-03-02 |  |
 | [Googoo Lagoon](https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Googoo Lagoon](https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca) | 3:44 | 2022-03-02 |  |
 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 | 2022-03-02 |  |
-| [I Really Wish I Was Playing Smash Bros Right Now](https://open.spotify.com/track/7hST4LHaypUoUeGayzsuPG) | [Yesterdayneverhappened](https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh) | [I Love You Kyary](https://open.spotify.com/album/5QKkoqSFe1lUea4tuAtoJb) | 1:21 | 2022-03-11 | 2022-11-17 |
+| [I Really Wish I Was Playing Smash Bros Right Now](https://open.spotify.com/track/7hST4LHaypUoUeGayzsuPG) | [Yesterdayneverhappened](https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh) | [I Love You Kyary](https://open.spotify.com/album/5QKkoqSFe1lUea4tuAtoJb) | 1:21 | 2022-03-11 |  |
 | [I Saw An Angel](https://open.spotify.com/track/6SX6Wrc734LRHmpDS4IlAA) | [Puzzle](https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V) | [Soaring](https://open.spotify.com/album/4nxbpgBiNawsG6Aq2UhR4e) | 2:43 | 2022-04-01 | 2022-07-29 |
 | [I Saw an Angel](https://open.spotify.com/track/4PqdOR9uAfyNp67P9k3bH2) | [Puzzle](https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V) | [Soaring](https://open.spotify.com/album/3piPM3MXYU1wmB9yz7UHcQ) | 2:43 | 2022-04-01 |  |
 | [i want to remember](https://open.spotify.com/track/1xMvToCoCB38sJkFf7d3DQ) | [Mello Jupiter](https://open.spotify.com/artist/5uM9zhLZdIzlTPjZ71Myt3) | [i want to remember](https://open.spotify.com/album/5mswdStWwV2OAszNDPB16a) | 3:57 | 2022-03-02 | 2022-07-27 |
@@ -84,7 +84,7 @@
 | [Pretty Cvnt](https://open.spotify.com/track/2CTcTL788DBaFLnc6QJSzv) | [swrslt](https://open.spotify.com/artist/4hljLrM4LIIh85DLjURyS6) | [Pretty Cvnt](https://open.spotify.com/album/3C7mweDprNNq2yJuWZm8iw) | 3:40 | 2022-03-02 |  |
 | [Pro: Lov: Ad](https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 5:46 | 2022-03-02 |  |
 | [Puddle of Nitrogen](https://open.spotify.com/track/69OVnCNC0SB8EsLsq51lQF) | [Acetantina](https://open.spotify.com/artist/4pOU5L3kyzl3mOup7X0Xxp) | [Temple of Null](https://open.spotify.com/album/3vmSi6NMDAxnYPVKB5EATU) | 3:51 | 2022-03-02 | 2022-08-22 |
-| [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 | 2022-03-11 | 2022-10-14 |
+| [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 | 2022-03-11 | 2022-12-30 |
 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 | 2022-04-01 |  |
 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 | 2022-03-02 |  |
 | [Spirit Gun](https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8) | [Golden Boy](https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq) | [Prince of the Cyber Rave](https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV) | 3:10 | 2022-04-01 |  |
@@ -102,7 +102,7 @@
 | [Visualizer.Eden](https://open.spotify.com/track/5vweEhyO7Am4GGXrhHvShK) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [Visualizer.Eden](https://open.spotify.com/album/1TQsuV5vpKEadjNeii5ULn) | 3:51 | 2022-03-02 | 2022-07-29 |
 | [VOCALOID UTOPIA](https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [VOCALOID DYSTOPIA](https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx) | 2:24 | 2022-03-02 |  |
 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 | 2022-04-01 |  |
-| [Zero Day](https://open.spotify.com/track/084WJhjzcITo45JEgbA40S) | [Colloboh](https://open.spotify.com/artist/0o0jvQAplepjQaJYbXCEVl) | [Zero Day](https://open.spotify.com/album/11L9PcFGchTCKRIfjAl1X2) | 4:49 | 2022-03-11 | 2022-10-06 |
+| [Zero Day](https://open.spotify.com/track/084WJhjzcITo45JEgbA40S) | [Colloboh](https://open.spotify.com/artist/0o0jvQAplepjQaJYbXCEVl) | [Zero Day](https://open.spotify.com/album/11L9PcFGchTCKRIfjAl1X2) | 4:49 | 2022-03-11 |  |
 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ᄋ△+⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ ̈.·\*:・✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 | 2022-03-02 |  |
 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 | 2022-03-03 |  |
 | [あなぐらぐらし](https://open.spotify.com/track/3FvzeaesPY35bhhj55u4zJ) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク6](https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE) | 6:05 | 2022-03-02 |  |

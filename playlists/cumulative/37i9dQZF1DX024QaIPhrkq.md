@@ -4,7 +4,7 @@
 
 > The essential Soundgarden, all in one playlist.
 
-50 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/41z92p1UL6fbbJMWTUk7uv)
+50 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

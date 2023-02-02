@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,267 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,165 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 25 | [HASH BROWN](https://open.spotify.com/track/3eIVs7HjbZOf8QO6yXJAWx) | [Deema](https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm), [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh) | [HASH BROWN](https://open.spotify.com/album/6COYiAa3nBk7fbs66jUHyU) | 3:01 |
 | 26 | [Fear of Heights](https://open.spotify.com/track/5zHRsJK0FIjoB9vA9MABGB) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Growing Teeth](https://open.spotify.com/album/2Bqkuea77cQT2y9JqlfrlC) | 2:54 |
 | 27 | [ROXY](https://open.spotify.com/track/1ijJsS6VCiJXGgHtLHmrCx) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Lavender](https://open.spotify.com/album/0o1r2elNdzE964UNjJp6OG) | 3:25 |
-| 28 | [The City](https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [The City](https://open.spotify.com/album/7aOqSME6hWSephSVHYIsxt) | 4:11 |
+| 28 | [The City](https://open.spotify.com/track/6MBMMCYbAM9QWEgUCaG9pD) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [THIS IS NOT WHAT IT LOOKS LIKE!](https://open.spotify.com/album/2jGyX0p346kDwHvVqanE8W) | 4:11 |
 | 29 | [Catching Eyes](https://open.spotify.com/track/2aUYt0CwHeJLrlgi0akUGp) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3vyUE4IyiLM471hbKVQ9i2) | 4:09 |
 | 30 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
 | 31 | [blocked](https://open.spotify.com/track/2SkipftGTsn9rj44V1Lsg0) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [blocked](https://open.spotify.com/album/6pZIjP0eETD7I1TlGgwQgt) | 2:23 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 89 | [If All I Ever Did](https://open.spotify.com/track/6tKnXzlcz37EcYwu7JNRgg) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [If All I Ever Did](https://open.spotify.com/album/3Rn7jOV4gRxwORCMYHjGbu) | 4:20 |
 | 90 | [100 Rounds](https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [100 Rounds](https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp) | 2:12 |
 | 91 | [Call You Right Now](https://open.spotify.com/track/1im6o9QxFA9raDV5D1RUV6) | [JWestern](https://open.spotify.com/artist/3Hj7VnvhMqphE4MF9oBzkG) | [Call You Right Now](https://open.spotify.com/album/13W6NZY00onLgaDrDYiI56) | 3:03 |
-| 92 | [Colors We Made](https://open.spotify.com/track/1EWK3hODDw0DaiS5ffsPO7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Permanent Beta](https://open.spotify.com/album/4s22gKBrVyGtFSXez21EWV) | 2:50 |
+| 92 | [Colors We Made](https://open.spotify.com/track/2wnt2dMobi8aEqsvYK8N0k) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Colors We Made](https://open.spotify.com/album/6efiQ3j3RIFy6oYHbeziIu) | 2:50 |
 | 93 | [Naked](https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Naked](https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT) | 3:30 |
 | 94 | [a little bit won't kill you but a lot of it sure will](https://open.spotify.com/track/0mUJxZi2lZazzJ2tpNjhYH) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [a little bit won't kill you but a lot of it sure will](https://open.spotify.com/album/2m6ka5YftvSVvEIa4QRaXq) | 2:50 |
 | 95 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 101 | [Bass Jumpin](https://open.spotify.com/track/1T6PwHz0L4zdTyGInqG4xd) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Bass Jumpin](https://open.spotify.com/album/5REn5qlzivqOk4dqhwZZWo) | 2:36 |
 | 102 | [Black Cat](https://open.spotify.com/track/4TpGdf05nm8lYiBPbXjwv2) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 2:56 |
 
-Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMDNjMTJhM2VhNWRhYjIzYTY5ZmMxZjc5ZmUzZGEyNmIw`
+Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMGRkMDU3MTg5NDMwN2FmOWQ3ZTBkZjExYWFlMTE3MTIw`

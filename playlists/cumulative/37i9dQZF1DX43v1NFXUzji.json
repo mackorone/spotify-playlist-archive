@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Latin music bangers for your gaming session! Cover: Banda MS",
   "name": "Latin Gaming",
-  "published_playlist_ids": [
-    "6UjAez27ivzv4M8nQyQUU6"
-  ],
   "tracks": [
     {
       "album": {
@@ -30,7 +27,7 @@
     },
     {
       "album": {
-        "name": "141 (Versi\u00f3n Banda)",
+        "name": "141",
         "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
       },
       "artists": [
@@ -43,7 +40,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175102,
-      "name": "141 - Versi\u00f3n Banda",
+      "name": "141",
       "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
     },
     {
@@ -462,6 +459,32 @@
     },
     {
       "album": {
+        "name": "Aroma",
+        "url": "https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/448oAggap8XbTa6TIOH6Kb"
+    },
+    {
+      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
       },
@@ -797,7 +820,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 181750,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/2QSTNCW51cpgyFqahUxNGe"
@@ -845,7 +868,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 167538,
       "name": "Bloody II",
       "url": "https://open.spotify.com/track/6Hs094CmM9IJcCUpCKodyp"
@@ -980,7 +1003,7 @@
     },
     {
       "album": {
-        "name": "Enoc",
+        "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
@@ -1669,7 +1692,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
@@ -1695,7 +1718,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/493Rk3iS7rs8uPfpnfm95u"
@@ -2317,7 +2340,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 209680,
       "name": "G Wagon",
       "url": "https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n"
@@ -2489,7 +2512,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2022-12-31",
       "duration_ms": 184000,
       "name": "Hace Tiempo",
       "url": "https://open.spotify.com/track/5PSgIaJp6mjIoO5y8kNkrK"
@@ -2795,7 +2818,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 202003,
       "name": "Kong 2.0",
       "url": "https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN"
@@ -3097,7 +3120,7 @@
           "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -3725,8 +3748,8 @@
       },
       "artists": [
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
           "name": "Anuel AA",
@@ -3739,7 +3762,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-11",
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
@@ -3859,7 +3882,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 177583,
       "name": "Morad: Bzrp Music Sessions, Vol. 47",
       "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
@@ -4043,7 +4066,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 171215,
       "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
       "url": "https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI"
@@ -4065,7 +4088,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 158086,
       "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
       "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
@@ -4083,7 +4106,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 140440,
       "name": "Nieve",
       "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
@@ -4191,10 +4214,36 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-11",
       "duration_ms": 307546,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW"
+    },
+    {
+      "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
     },
     {
       "album": {
@@ -4217,7 +4266,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 309120,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
@@ -4549,7 +4598,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 201000,
       "name": "PAM",
       "url": "https://open.spotify.com/track/7uF2XRp2srFB1mvTMEChoh"
@@ -4967,7 +5016,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "Problema",
       "url": "https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2"
@@ -5051,7 +5100,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 196437,
       "name": "Puro Campe\u00f3n",
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
@@ -5769,7 +5818,7 @@
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -5923,6 +5972,28 @@
       "duration_ms": 177442,
       "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
       "url": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
+    },
+    {
+      "album": {
+        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+        "url": "https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177442,
+      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+      "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
     },
     {
       "album": {
@@ -6169,7 +6240,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 165500,
       "name": "Tata",
       "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
@@ -6385,7 +6456,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 147083,
       "name": "Traumada",
       "url": "https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS"
@@ -6529,7 +6600,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 177397,
       "name": "Un Minuto",
       "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
@@ -6599,7 +6670,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 170760,
       "name": "Una Nota",
       "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
@@ -6673,7 +6744,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 186693,
       "name": "VACAXIONES",
       "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
@@ -6695,10 +6766,32 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 208894,
       "name": "Vapor",
       "url": "https://open.spotify.com/track/4yXBfJAPsDZjpjMEp9NyjT"
+    },
+    {
+      "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208894,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/7it0u6IGJQLRX9Q9q7vgOj"
     },
     {
       "album": {
@@ -6891,7 +6984,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 158582,
       "name": "Wherever I May Roam",
       "url": "https://open.spotify.com/track/2UI3zZWB5SzfHQGgjkmlLB"
@@ -6937,7 +7030,7 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -6999,7 +7092,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"

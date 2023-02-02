@@ -4,7 +4,7 @@
 
 > Koffee takes us on a trip to the Caribbean with Xport
 
-136 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/1TJXBk9CCJF8TpecLcEXcm)
+137 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 | 2021-10-24 | 2022-07-29 |
 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 | 2021-10-24 | 2022-07-29 |
 | [Give It All To Me](https://open.spotify.com/track/6vwmviVBIBMGGIEmz88auB) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Give It All To Me](https://open.spotify.com/album/4sHrUYhZdfAdGM0s628Isq) | 3:34 | 2021-10-24 | 2022-07-29 |
-| [Give Me A Try](https://open.spotify.com/track/4pwGFtnF5ZWvvZee3Qmw1n) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Rise To The Occasion](https://open.spotify.com/album/7JtRuLlFw6g3axRUHcG9cP) | 3:39 | 2021-10-24 |  |
+| [Give Me A Try](https://open.spotify.com/track/4pwGFtnF5ZWvvZee3Qmw1n) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Rise To The Occasion](https://open.spotify.com/album/7JtRuLlFw6g3axRUHcG9cP) | 3:39 | 2021-10-24 | 2022-12-24 |
+| [Give Me A Try](https://open.spotify.com/track/1PBYTQCR01OnAn41fqsvU6) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [The Journey \- The Very Best Of Sizzla Kalonji](https://open.spotify.com/album/07AQybXuRFflDzipExouL4) | 3:40 | 2022-08-18 |  |
 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 | 2021-10-24 | 2022-07-29 |
 | [Good Form](https://open.spotify.com/track/5AHu27TVFUg0ANQUrFDMr0) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen \(Deluxe\)](https://open.spotify.com/album/6zA5X3CQ5rgLKhTobyV5Id) | 3:19 | 2021-10-24 | 2022-07-29 |
 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 | 2021-10-24 | 2022-08-19 |

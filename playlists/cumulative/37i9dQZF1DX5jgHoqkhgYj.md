@@ -4,7 +4,7 @@
 
 > A 50\-track introduction to the best\-known South American composer of all time Heitor Villa\-Lobos, who successfully combined Brazilian folk melody and rhythmic elements with Western classical music.
 
-50 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/7f32Ok69uK7q7tqrPj2Kkz)
+50 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-18",
   "description": "This is The Police. The essential tracks, all in one playlist.",
   "name": "This Is The Police",
-  "published_playlist_ids": [
-    "5USS6A89W2jE5wSORwWq7w"
-  ],
   "tracks": [
     {
       "album": {
@@ -505,7 +502,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-06",
       "duration_ms": 276133,
       "name": "Murder By Numbers",
       "url": "https://open.spotify.com/track/2CFafx1QnpbK4CQVOhzxkT"
@@ -545,6 +542,24 @@
       "duration_ms": 176973,
       "name": "On Any Other Day",
       "url": "https://open.spotify.com/track/6rN4PWNTD8AY1mfLslqrQG"
+    },
+    {
+      "album": {
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 234800,
+      "name": "Peanuts",
+      "url": "https://open.spotify.com/track/7Jsli31ZTv3TI28qcXzEkE"
     },
     {
       "album": {
@@ -815,6 +830,32 @@
       "duration_ms": 300826,
       "name": "Walking On The Moon",
       "url": "https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ"
+    },
+    {
+      "album": {
+        "name": "Annette (Unlimited Edition) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf"
+      },
+      "artists": [
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        },
+        {
+          "name": "Adam Driver",
+          "url": "https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M"
+        },
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82613,
+      "name": "We Are the Police",
+      "url": "https://open.spotify.com/track/1cNHW91XkcPxisLZuDbc0h"
     },
     {
       "album": {

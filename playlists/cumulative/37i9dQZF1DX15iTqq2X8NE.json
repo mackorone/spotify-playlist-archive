@@ -2,10 +2,29 @@
   "date_first_scraped": "2021-12-28",
   "description": "A journey in the modern & old Sudanese sounds.\nCover: Soulja",
   "name": "Sudan Sounds",
-  "published_playlist_ids": [
-    "330x5xETTSDAN35Rsqqz7H"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Manara Remixed",
+        "url": "https://open.spotify.com/album/3fGSrhovYina7akOhYp5hG"
+      },
+      "artists": [
+        {
+          "name": "Alsarah & The Nubatones",
+          "url": "https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161863,
+      "name": "3yan T3ban - Oddisee Remix",
+      "url": "https://open.spotify.com/track/01VjNAgvOhVqQZkYGgdRx9"
+    },
     {
       "album": {
         "name": "Manara Remixed",
@@ -284,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Apocalypto",
+        "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
+      },
+      "artists": [
+        {
+          "name": "TooDope",
+          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 177884,
+      "name": "Apocalypto",
+      "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
+    },
+    {
+      "album": {
         "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
         "url": "https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R"
       },
@@ -331,7 +368,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 204521,
       "name": "ARMANI",
       "url": "https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN"
@@ -525,7 +562,7 @@
           "url": "https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U"
         }
       ],
-      "date_added": "2022-11-25",
+      "date_added": "2022-11-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136001,
@@ -672,6 +709,32 @@
     },
     {
       "album": {
+        "name": "Farasha \u0641\u0631\u0627\u0634\u0629",
+        "url": "https://open.spotify.com/album/2SgBBbEiX68bS67DbqFJZG"
+      },
+      "artists": [
+        {
+          "name": "Alsarah",
+          "url": "https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS"
+        },
+        {
+          "name": "Sufyvn",
+          "url": "https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6"
+        },
+        {
+          "name": "Flippter",
+          "url": "https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Farasha \u0641\u0631\u0627\u0634\u0629",
+      "url": "https://open.spotify.com/track/4F731VYNl7sOZ3dwdZZsTV"
+    },
+    {
+      "album": {
         "name": "Farrah Galbi Aljadeed (Habibi Funk 009)",
         "url": "https://open.spotify.com/album/3yPPozyWOkJcry3Ms86kEi"
       },
@@ -691,6 +754,28 @@
       "duration_ms": 301000,
       "name": "Farrah Galbi Aljadeed",
       "url": "https://open.spotify.com/track/0J4ltLwYQP6kyTy8JvmH9K"
+    },
+    {
+      "album": {
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Farrah Galbi Aljadeed",
+      "url": "https://open.spotify.com/track/1PfU9f0u6GJs7aADG0voSk"
     },
     {
       "album": {
@@ -807,7 +892,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 206753,
       "name": "Gatluak",
       "url": "https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj"
@@ -1089,7 +1174,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 172593,
       "name": "Kalam Kteer",
       "url": "https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi"
@@ -1281,7 +1366,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 375480,
       "name": "Manaok (Forbidden)",
       "url": "https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa"
@@ -1303,6 +1388,24 @@
       "duration_ms": 242274,
       "name": "Mango",
       "url": "https://open.spotify.com/track/3KjHzQBWVP8ZoLvAunNBnF"
+    },
+    {
+      "album": {
+        "name": "Hegira",
+        "url": "https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px"
+      },
+      "artists": [
+        {
+          "name": "Adiga Music Band",
+          "url": "https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227124,
+      "name": "Mashy",
+      "url": "https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T"
     },
     {
       "album": {
@@ -1451,7 +1554,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 158709,
       "name": "Moya wa Zait",
       "url": "https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc"
@@ -1585,7 +1688,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 240138,
       "name": "Picasso (Outro)",
       "url": "https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb"
@@ -1986,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391000,
+      "name": "Taban Ahwak",
+      "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
+    },
+    {
+      "album": {
         "name": "The Good Fight",
         "url": "https://open.spotify.com/album/2Il6nG7cY7C7mRax2KqPtL"
       },
@@ -2015,7 +2136,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT"
@@ -2149,7 +2270,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-12",
       "duration_ms": 218983,
       "name": "Zaman Maf",
       "url": "https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP"

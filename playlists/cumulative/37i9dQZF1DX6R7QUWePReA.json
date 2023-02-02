@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Chestnuts roasting on an open fire... Timeless heart-warming classics for the holiday season.",
+  "description": "Timeless heart-warming classics from 1950- 1980 for the holiday season.",
   "name": "Christmas Classics",
-  "published_playlist_ids": [
-    "2LrKZFCCLyYeh3IWx3jt2W"
-  ],
   "tracks": [
     {
       "album": {
@@ -189,7 +186,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -250,6 +247,28 @@
     },
     {
       "album": {
+        "name": "Christmas Jollies",
+        "url": "https://open.spotify.com/album/1SDZGLwOJjtqGrCEbQKTdW"
+      },
+      "artists": [
+        {
+          "name": "The Salsoul Orchestra",
+          "url": "https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4"
+        },
+        {
+          "name": "Tom Moulton",
+          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 728106,
+      "name": "Christmas Medley: Joy To The World/Deck The Halls/O Come All Ye Faithful/Jingle Bells",
+      "url": "https://open.spotify.com/track/73gbEonI6EtiPiqxcsN8DL"
+    },
+    {
+      "album": {
         "name": "Charlie Brown Holiday Hits",
         "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
       },
@@ -287,6 +306,24 @@
       "duration_ms": 176800,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/2QWKbE6GpWhRtlbRwcP7g8"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68760,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
     },
     {
       "album": {
@@ -539,6 +576,24 @@
       "duration_ms": 181360,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/3SLGEzmbQErTvFpPAtiSc7"
+    },
+    {
+      "album": {
+        "name": "I Want a Hippopotamus for Christmas (Hippo the Hero)",
+        "url": "https://open.spotify.com/album/0nuyFYoBsK4Z1j3DimhUZ4"
+      },
+      "artists": [
+        {
+          "name": "Gayla Peevey",
+          "url": "https://open.spotify.com/artist/1suIIDedjFJRuu8k7b55hZ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "I Want a Hippopotamus for Christmas (Hippo the Hero)",
+      "url": "https://open.spotify.com/track/5P8Xvy5tzhmfyfA6GplQ8h"
     },
     {
       "album": {
@@ -872,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Christmas With The Beach Boys",
+        "url": "https://open.spotify.com/album/4eKWZxl6GskSlM2u7TYOC0"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130680,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/75dfH68JDisE8dDaD4KlVY"
+    },
+    {
+      "album": {
         "name": "The Beach Boys' Christmas Album",
         "url": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3"
       },
@@ -883,10 +956,50 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 118840,
       "name": "Little Saint Nick - 1991 Remix",
       "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3hqCOVZ5hZacsYjmOvXZWr"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177360,
+      "name": "Mary's Boy Child",
+      "url": "https://open.spotify.com/track/4Fpd1N7fcbRLnHbsk5D4Ye"
+    },
+    {
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Mele Kalikimaka (Merry Christmas)",
+      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
     },
     {
       "album": {
@@ -905,7 +1018,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 172173,
       "name": "Mele Kalikimaka - Single Version",
       "url": "https://open.spotify.com/track/1GQ3cCJMAhLqWARyVZWxnO"
@@ -1280,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154640,
+      "name": "Santa Claus Is Comin' to Town",
+      "url": "https://open.spotify.com/track/6YeDjSHCDmJKgU8foiaruL"
+    },
+    {
+      "album": {
         "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
         "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
       },
@@ -1309,7 +1440,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 144013,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k"
@@ -1791,6 +1922,24 @@
       "duration_ms": 200960,
       "name": "What Child Is This/The Holly And The Ivy - Medley / Remastered 2006",
       "url": "https://open.spotify.com/track/6OJdXv1Q5OdLgYolFEunJ4"
+    },
+    {
+      "album": {
+        "name": "I Only Have Eyes For You",
+        "url": "https://open.spotify.com/album/4Mr6rpkhF8XvrgHiQTymir"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223453,
+      "name": "When a Child Is Born",
+      "url": "https://open.spotify.com/track/0jXjTHqZVXhQSGUAvUbCvU"
     },
     {
       "album": {

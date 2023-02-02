@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-22",
   "description": "Your favourite party hits to kick off the weekend. Can you taste it?",
   "name": "That Party Feeling",
-  "published_playlist_ids": [
-    "6eMDHpaZ3AEtXhCsVotEbA"
-  ],
   "tracks": [
     {
       "album": {
@@ -279,10 +276,32 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
+    },
+    {
+      "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "date_added": "2020-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "album": {
@@ -403,7 +422,7 @@
       ],
       "date_added": "2019-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 188483,
       "name": "Fibonacci",
       "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
@@ -476,7 +495,7 @@
     },
     {
       "album": {
-        "name": "How Deep is Your Love",
+        "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
       "artists": [
@@ -493,7 +512,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212640,
-      "name": "How Deep is Your Love",
+      "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     },
     {
@@ -675,6 +694,28 @@
     {
       "album": {
         "name": "The Wave",
+        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "date_added": "2019-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
+    },
+    {
+      "album": {
+        "name": "The Wave",
         "url": "https://open.spotify.com/album/0FPqSXvARe3Hr3xL2sEuIe"
       },
       "artists": [
@@ -711,7 +752,7 @@
       ],
       "date_added": "2019-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 160183,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
@@ -879,7 +920,7 @@
       ],
       "date_added": "2018-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2022-12-21",
       "duration_ms": 199915,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/7l1NMHXBISVLarwGyfgmFP"
@@ -965,7 +1006,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 204654,
       "name": "Particula",
       "url": "https://open.spotify.com/track/0e8fTfa0ZKCwOi2UdULooT"

@@ -4,7 +4,7 @@
 
 > A trilha sonora do verão.
 
-151 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/26p8TFBUNyvm12xCRNHL4H)
+151 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [LOKKO](https://open.spotify.com/track/2xRyucSeonJTOAK8EBKFuC) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [LOKKO](https://open.spotify.com/album/4rnvgJNI65psp1SwM4gzve) | 2:38 | 2022-07-07 |  |
 | [LOUCA](https://open.spotify.com/track/0FJpeAT75XI6LImeMhpdU3) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [LOUCA](https://open.spotify.com/album/2sltTO7QbcvucXFetVbccJ) | 2:22 | 2022-07-07 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-07-07 |  |
-| [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2022-07-07 |  |
+| [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2022-07-07 |  |
 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 | 2022-07-07 |  |
 | [Malvada](https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Malvada](https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy) | 2:25 | 2022-07-07 |  |
 | [Malvadão 3](https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Malvadão 3](https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl) | 2:21 | 2022-07-07 |  |

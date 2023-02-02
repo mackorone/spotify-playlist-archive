@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,512 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,161 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 69 | [사랑에 빠지고 싶다](https://open.spotify.com/track/2e460Sd7WZ6BQTNuzK3FwE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 사랑에 빠지고 싶다](https://open.spotify.com/album/1m6rKT2P71vlSPQ3zCZgUk) | 2:25 |
 | 70 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
 | 71 | [Love Is You \- From "Arang and the Magistrate"](https://open.spotify.com/track/6tzCRYAsrV3RXOuoqVvMbq) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Arang and the Magistrate OST Part 7](https://open.spotify.com/album/0n0FqRZftuxVUqJDoZRbOx) | 4:31 |
-| 72 | [And goodbye](https://open.spotify.com/track/0se8KNsSxOzUqudivqSWHB) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [And… \(6\)](https://open.spotify.com/album/3Fd78AN1LXqbV4xqn9ZzJk) | 3:41 |
+| 72 | [And goodbye](https://open.spotify.com/track/0se8KNsSxOzUqudivqSWHB) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [And…](https://open.spotify.com/album/3Fd78AN1LXqbV4xqn9ZzJk) | 3:41 |
 | 73 | [The Letter](https://open.spotify.com/track/7x4ZCeYY5ihBsL7mXcN4TM) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [Lee Kyoung Seo](https://open.spotify.com/artist/3BVKpQR5CjWwQ9xN2kHP7m) | [Fantastic Duo, Pt\. 13](https://open.spotify.com/album/2BCByuEjdYUHbCI8SbsxAU) | 5:18 |
 | 74 | [The Words I Want To Say](https://open.spotify.com/track/74rDZsnTnMsvCBaoVY2KR3) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [Adding Love KTW](https://open.spotify.com/album/3MT47ZhG0otBZoR068YBPN) | 4:32 |
 | 75 | [Every moment of you 너의 모든 순간 \- Piano Ver.](https://open.spotify.com/track/23nYSeav0fx7NcOefWdmWL) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\)](https://open.spotify.com/album/5rx7yA3wqQpDZz0xDeiflG) | 4:02 |

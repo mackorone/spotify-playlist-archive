@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Si te gustan por separado, \u00bfc\u00f3mo no te van a gustar juntos?",
   "name": "Dos Iconos: Rosal\u00eda y C. Tangana",
-  "published_playlist_ids": [
-    "5xE0Z6rCVdMCq72w3t0VYv"
-  ],
   "tracks": [
     {
       "album": {
@@ -1534,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "Magic Oneohtrix Point Never (Blu-ray Edition)",
+        "url": "https://open.spotify.com/album/7D6nstAHvEYc7RuA9ufMxy"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212005,
+      "name": "Nothing\u2019s Special",
+      "url": "https://open.spotify.com/track/42XBr4TCOHEz2SP4vUsBGp"
+    },
+    {
+      "album": {
         "name": "Nothing's Special",
         "url": "https://open.spotify.com/album/2xBvgd6MJXlo98bWrxQRKk"
       },
@@ -1549,7 +1568,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 213179,
       "name": "Nothing\u2019s Special",
       "url": "https://open.spotify.com/track/2EsL4kfdrEZJTKRFhuMDbY"
@@ -2143,6 +2162,28 @@
     {
       "album": {
         "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187773,
+      "name": "\u00bfCu\u00e1nto E$?",
+      "url": "https://open.spotify.com/track/0t5v9u01TBg8gEQk69orZ0"
+    },
+    {
+      "album": {
+        "name": "Famouz",
         "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
       },
       "artists": [
@@ -2157,7 +2198,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 187773,
       "name": "\u00bfCu\u00e1nto E$?",
       "url": "https://open.spotify.com/track/77eLBhhdkYwEOptOKfkXlh"

@@ -4,7 +4,7 @@
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-68 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/4VcScZv2o0s4WmAHR6nbC5)
+68 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sing along to these Vacation Bible School favorites.
 
-53 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/2adYLpKvmJNTalGkrBN10n)
+53 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

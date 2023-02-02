@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Foto: Duki",
+  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Ozuna y YOVNGCHIMI plantando cara.",
   "name": "FRONTEO",
-  "published_playlist_ids": [
-    "5qWh0GZPnfQ4QFIzqA7iQK"
-  ],
   "tracks": [
     {
       "album": {
@@ -340,7 +337,7 @@
     },
     {
       "album": {
-        "name": "Enoc",
+        "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
@@ -357,7 +354,7 @@
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -525,7 +522,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 207749,
       "name": "Gran Vida",
       "url": "https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox"
@@ -559,7 +556,7 @@
       },
       "artists": [
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
@@ -645,10 +642,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 225786,
       "name": "Kobe En LA",
       "url": "https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov"
+    },
+    {
+      "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "album": {
@@ -849,7 +864,7 @@
           "url": "https://open.spotify.com/artist/6lca9phTiMCNjObnwuCFi1"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
@@ -907,7 +922,7 @@
       },
       "artists": [
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -988,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270253,
+      "name": "Nos Matamos",
+      "url": "https://open.spotify.com/track/0kekARy9zsWohICrBUjyIn"
+    },
+    {
+      "album": {
         "name": "Nos Matamos",
         "url": "https://open.spotify.com/album/38rKm1PY26o3u2Q7GXDJLV"
       },
@@ -999,7 +1032,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 270680,
       "name": "Nos Matamos",
       "url": "https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA"
@@ -1023,8 +1056,8 @@
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         },
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
       "date_added": "2021-12-01",
@@ -1049,7 +1082,7 @@
           "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1075,6 +1108,28 @@
       "duration_ms": 318839,
       "name": "Puesto pal' Mill\u00f3n - Remix",
       "url": "https://open.spotify.com/track/1csGDtYYiqJmQi2E8ZYl6O"
+    },
+    {
+      "album": {
+        "name": "Quien Va a Frontiar",
+        "url": "https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Quien Va a Frontiar",
+      "url": "https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK"
     },
     {
       "album": {
@@ -1311,7 +1366,7 @@
       },
       "artists": [
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1345,7 +1400,7 @@
           "url": "https://open.spotify.com/artist/2OT1t2WkAruohDNIwOE8OF"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1383,7 +1438,7 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {

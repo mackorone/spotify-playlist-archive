@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Don't spill your popcorn... these scary movie themes will scare the bejeezus out of you!",
   "name": "Fright Fest",
-  "published_playlist_ids": [
-    "7fBxUYr44Ikmg6ar6XDArN"
-  ],
   "tracks": [
     {
       "album": {
@@ -365,7 +362,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 656573,
       "name": "Reel 9",
       "url": "https://open.spotify.com/track/1Y61rEEjZfAoM19LA2UTkQ"
@@ -387,6 +384,24 @@
       "duration_ms": 656573,
       "name": "Reel 9",
       "url": "https://open.spotify.com/track/1pRGFSv1jsiVsTLMSTpQRB"
+    },
+    {
+      "album": {
+        "name": "The Fog (Original Motion Picture Soundtrack / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0r0lUqzO9oZYlTmyqSHUwj"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 656573,
+      "name": "Reel 9",
+      "url": "https://open.spotify.com/track/42GFFFw4gMMefVth1lmAit"
     },
     {
       "album": {

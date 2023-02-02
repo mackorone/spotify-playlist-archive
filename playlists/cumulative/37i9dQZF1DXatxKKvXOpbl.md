@@ -4,7 +4,7 @@
 
 > Uma seleção good vibes pra você trabalhar de boa!
 
-161 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/09fWrA6IYnwxJenU0brBIZ)
+162 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2021-03-05 |  |
 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 | 2021-03-05 |  |
 | [Falling \(Stripped\)](https://open.spotify.com/track/55FkPfOruqXV8V894BAZMO) | [The Kind](https://open.spotify.com/artist/0oUPljKX0Sl0MNJg3oL4QH) | [Falling \(Stripped\)](https://open.spotify.com/album/39pD08a7e6bhZsKxKDt3dZ) | 3:50 | 2021-03-05 |  |
+| [Feel](https://open.spotify.com/track/0mesc5M3rg18gSQQELwwKu) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 3:02 | 2022-10-14 |  |
 | [Feel](https://open.spotify.com/track/1SMtYXgIOy3btvonrn4pa5) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Feel](https://open.spotify.com/album/3Lqu5UobtbYUhASHttzNjY) | 3:02 | 2021-03-05 | 2022-07-29 |
-| [Feel](https://open.spotify.com/track/3adxxXViv1a6kvkAaACCMm) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES](https://open.spotify.com/album/1cppTra3p7ByUGqNsv3Qla) | 3:02 | 2021-03-05 |  |
+| [Feel](https://open.spotify.com/track/3adxxXViv1a6kvkAaACCMm) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES](https://open.spotify.com/album/1cppTra3p7ByUGqNsv3Qla) | 3:02 | 2021-03-05 | 2022-12-20 |
 | [Feel](https://open.spotify.com/track/4jqqNRHecEuY7hlLBtZc0R) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Studying Vibes](https://open.spotify.com/album/0HxO8XfU6n3L797N7IPF1m) | 3:02 | 2022-10-14 | 2022-11-13 |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2021-03-05 |  |
 | [Fire](https://open.spotify.com/track/0A3nVGUkAN4MDBcnIXrheL) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Fire](https://open.spotify.com/album/3GWzQm3cxcrGj8wF2dZv8X) | 2:28 | 2021-03-05 | 2022-07-29 |
@@ -138,7 +139,7 @@
 | [South of the Border \(feat\. Camila Cabello & Cardi B\)](https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:24 | 2021-03-05 |  |
 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 | 2021-03-05 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/4qaEPJ1S3GkITZRzuNgiwQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe Version\)](https://open.spotify.com/album/7yjQZX94GxVyqDTehxBejk) | 4:00 | 2022-10-14 | 2022-11-14 |
-| [Stay \- Album Version \(Edited\)](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2021-03-05 |  |
+| [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2021-03-05 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2021-03-05 |  |
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2021-03-05 |  |
 | [Take Me to Church](https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:01 | 2021-03-05 |  |

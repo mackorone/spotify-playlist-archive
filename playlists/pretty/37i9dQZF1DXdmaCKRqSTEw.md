@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmaCKRqSTEw.md) - [plain]
 
 > The official playlist for Inventing Anna\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,026 likes - 19 songs - 49 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 16,909 likes - 19 songs - 49 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

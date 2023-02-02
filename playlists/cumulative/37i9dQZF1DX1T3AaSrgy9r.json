@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Underground dance and alternative that went on to define a new millennium.",
   "name": "Generation Electronica",
-  "published_playlist_ids": [
-    "5A3UmZ9akJz7Fe3Cu6Ue68"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,10 +92,28 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 310746,
       "name": "Alberto Balsalm",
       "url": "https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P"
+    },
+    {
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310746,
+      "name": "Alberto Balsalm",
+      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
     },
     {
       "album": {
@@ -794,7 +809,7 @@
       "artists": [
         {
           "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+          "url": "https://open.spotify.com/artist/1bosXOhcCXixClDJR0OnFV"
         }
       ],
       "date_added": "2021-07-14",
@@ -943,10 +958,28 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 238680,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
+    },
+    {
+      "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239760,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p"
     },
     {
       "album": {
@@ -1277,7 +1310,7 @@
     {
       "album": {
         "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
       },
       "artists": [
         {
@@ -1288,6 +1321,24 @@
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 298373,
+      "name": "Midnight In A Perfect World",
+      "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
+    },
+    {
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-30",
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
@@ -1421,7 +1472,7 @@
     {
       "album": {
         "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
       },
       "artists": [
         {
@@ -1432,6 +1483,24 @@
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 117240,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
+    },
+    {
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-30",
       "duration_ms": 117240,
       "name": "Organ Donor",
       "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
@@ -1677,7 +1746,7 @@
     {
       "album": {
         "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
       },
       "artists": [
         {
@@ -1688,6 +1757,24 @@
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149080,
+      "name": "Roygbiv",
+      "url": "https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 151520,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
@@ -1891,7 +1978,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 258533,
-      "name": "Stupid Girl",
+      "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
     },
     {

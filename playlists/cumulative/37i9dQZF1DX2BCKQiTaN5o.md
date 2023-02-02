@@ -4,7 +4,7 @@
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-43 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/0ClG1AQzAPgAIoQvOIkI6A)
+44 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 | 2020-01-19 |  |
 | [Come Down](https://open.spotify.com/track/7qsF31mlCOvFDDZpEiS0Sk) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/73uicPCTt24cmTc9bVaOIp) | 2:49 | 2020-01-19 |  |
 | [Cross Me \(feat\. Chance the Rapper & PnB Rock\)](https://open.spotify.com/track/1oH5Mg9dyAj15lWUmXvmFW) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [No.6 Collaborations Project](https://open.spotify.com/album/5oUZ9TEZR3wOdvqzowuNwl) | 3:24 | 2020-01-19 |  |
-| [Drogba \(Joanna\)](https://open.spotify.com/track/4E0teOQQQwagLVvQ7VfYm1) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Afrowave 2](https://open.spotify.com/album/1R3refsYPuUJ4yl7sNqir1) | 3:19 | 2020-01-19 |  |
+| [Drogba \(Joanna\)](https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Afrowave 2](https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c) | 3:19 | 2020-01-19 |  |
+| [Drogba \(Joanna\)](https://open.spotify.com/track/4E0teOQQQwagLVvQ7VfYm1) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Afrowave 2](https://open.spotify.com/album/1R3refsYPuUJ4yl7sNqir1) | 3:19 | 2020-01-19 | 2022-12-25 |
 | [Feelin' So Good \(feat\. Big Pun & Fat Joe\)](https://open.spotify.com/track/1AlvKwk3NBZ8lAt7GC6SiT) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 5:26 | 2020-01-19 |  |
 | [Feels Good](https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:58 | 2020-01-19 |  |
 | [Finesse \- Remix; feat\. Cardi B](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Finesse \(Remix\) \[feat\. Cardi B\]](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) | 3:37 | 2020-01-19 |  |

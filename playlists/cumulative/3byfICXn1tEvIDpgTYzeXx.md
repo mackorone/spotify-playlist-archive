@@ -4,7 +4,7 @@
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-152 songs - 7 hr 14 min - not published yet
+157 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,11 @@
 | [Chain](https://open.spotify.com/track/6uXOeXGfxOOGnzDx7IITyn) | [KRYPT](https://open.spotify.com/artist/3qEPbign4I5SLa896pahza) | [Chain](https://open.spotify.com/album/69gHVQbX5llW1cl6aqcdQg) | 2:14 | 2022-09-23 |  |
 | [Changes](https://open.spotify.com/track/0RVANtuy22HbA4QcTWkbxr) | [OTASH](https://open.spotify.com/artist/3lWH59JER2slR937o2bnvK), [Bahti](https://open.spotify.com/artist/5b7xNFMAoi598oJclqoR7G) | [Changes](https://open.spotify.com/album/6i0qzKbLoBs2897FiuP8AS) | 2:54 | 2022-09-23 |  |
 | [Children \- Edit Mix](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y) | 4:05 | 2022-09-23 |  |
+| [Close To You](https://open.spotify.com/track/7Jrkl9kRt7I3uBBZn27cS4) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW), [CXSMPX](https://open.spotify.com/artist/5Oqwobm3opos4qxXF5jLhA), [EVILDXER](https://open.spotify.com/artist/6mEaCmk5qUN3U83PzhpjqH) | [Close To You](https://open.spotify.com/album/71LCaos10f7D45Py2RJXRE) | 2:54 | 2022-12-29 |  |
 | [Come to Me](https://open.spotify.com/track/3qk13lMgKy20BmwmErghe3) | [IP Beats](https://open.spotify.com/artist/0inePbQJbrLLSf2vOMzdaF) | [Come to Me](https://open.spotify.com/album/40X5sEVuKR6WS5zUW7iyD1) | 2:33 | 2022-09-23 |  |
 | [Cooler Than Me](https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Cooler Than Me](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP) | 2:59 | 2022-09-23 |  |
 | [Crazy](https://open.spotify.com/track/6Rg8UP503pJiKfeGjv7JBs) | [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Crazy](https://open.spotify.com/album/0DbYRcXK8APfPNpmV6otFT) | 4:00 | 2022-09-23 |  |
+| [DARK SOUL](https://open.spotify.com/track/2gKsPi7ToEZuHJU3BVq7IR) | [SXL1D](https://open.spotify.com/artist/6D282eBXQJhuKhgikbRhde) | [DARK SOUL](https://open.spotify.com/album/6D1Wr9VBg9OToagg3b7UGH) | 3:32 | 2022-12-29 |  |
 | [Darkside](https://open.spotify.com/track/34jHOHcQlN2pqFCbAgQ6LZ) | [Sterk](https://open.spotify.com/artist/4W9eoyGmwzpPXFUIoO8rra), [GROOTT](https://open.spotify.com/artist/6IhOkU0ycJcuKE9Q5vXW5C), [SARDIO](https://open.spotify.com/artist/1TKQPncXcxEpZaDPiN9G1s) | [Darkside](https://open.spotify.com/album/1EV9V4PGr6hohDrJvmUsMz) | 2:48 | 2022-09-23 |  |
 | [Desert Rose](https://open.spotify.com/track/5PCKDvXIi9GWCYZbzcSiTE) | [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z), [OTASH](https://open.spotify.com/artist/3lWH59JER2slR937o2bnvK) | [Desert Rose](https://open.spotify.com/album/39nNmwizrGkX2ncTkRxCaO) | 3:12 | 2022-09-23 |  |
 | [Desire](https://open.spotify.com/track/65VI7Cf6IpQVJFnr0HzigI) | [SMIRNOFF](https://open.spotify.com/artist/0YstQRsnjcXaEwDazjycz4) | [Desire](https://open.spotify.com/album/5fPywJ3CmHMp6S45N23kBj) | 2:20 | 2022-09-23 |  |
@@ -91,7 +93,8 @@
 | [Lonely](https://open.spotify.com/track/650NDOnAvJyFM7iizd0C9k) | [Sterk](https://open.spotify.com/artist/4W9eoyGmwzpPXFUIoO8rra), [GROOTT](https://open.spotify.com/artist/6IhOkU0ycJcuKE9Q5vXW5C) | [Lonely](https://open.spotify.com/album/6NN7b7aIc1C0mTpmLdB1mj) | 3:14 | 2022-09-23 |  |
 | [Long Night](https://open.spotify.com/track/2aCXieokH9yKnfH5kobK9v) | [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z) | [Long Night](https://open.spotify.com/album/1kJnPJRhrG96NfQcGUNZio) | 2:42 | 2022-09-23 |  |
 | [Long Night](https://open.spotify.com/track/6frdj50scthCZfcwmoS78E) | [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z) | [Long Night](https://open.spotify.com/album/79PZT9LTOrs7GH53zvxAqc) | 2:42 | 2022-09-23 |  |
-| [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2022-09-23 |  |
+| [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2022-09-23 |  |
+| [LXST](https://open.spotify.com/track/5j1SpMnZwf8EraQoT6T4NJ) | [Panzer](https://open.spotify.com/artist/3CCPoNaYvH1LPFSBbRGdrl) | [LXST](https://open.spotify.com/album/1dEGuq8hvss5ex5VJKW1hc) | 3:15 | 2022-12-29 |  |
 | [Mantra](https://open.spotify.com/track/3RZvy7noS5NHPlfkSm23qo) | [Panzer](https://open.spotify.com/artist/3CCPoNaYvH1LPFSBbRGdrl) | [Mantra](https://open.spotify.com/album/5mWO53S6YHZHjvPv1hDFvI) | 2:25 | 2022-09-23 |  |
 | [Maybe You](https://open.spotify.com/track/1ox3QRnDayWhIujYW1qWyD) | [Nerkat](https://open.spotify.com/artist/4GvWGr6s2abLSHnoUFAkoD) | [Maybe You](https://open.spotify.com/album/0noux4e1P0zWKoQn6uiIXS) | 2:55 | 2022-09-23 |  |
 | [Megacity](https://open.spotify.com/track/7z6vyz1Bellz8LHoUa3Qo3) | [JAVAD](https://open.spotify.com/artist/3h3sdqy5T8btPqqOzAP4lh) | [Megacity](https://open.spotify.com/album/0GxfP4EHeSgYTJgIqx0jq0) | 2:06 | 2022-09-23 |  |
@@ -112,6 +115,7 @@
 | [Pain](https://open.spotify.com/track/6kCLgMSgvgEnnSi2MmfQMO) | [WHM](https://open.spotify.com/artist/3z4UMuR2vU5gSCokxWjeVO) | [Pain](https://open.spotify.com/album/56atyHVZR5dIJ8PvgdfZ1f) | 2:58 | 2022-09-23 |  |
 | [Pain To Dust](https://open.spotify.com/track/0TqBmLJqYLpId6GIeiyM9c) | [A'Lone](https://open.spotify.com/artist/0FdVEJ79HZwk9RlHyU2Tvc), [ERS](https://open.spotify.com/artist/6npupyUfzFTmraESmaFzxi), [Zhanelya](https://open.spotify.com/artist/5nemrL2vL312LySJWx8b59) | [Pain To Dust](https://open.spotify.com/album/4RMUhTBITqTkOT3ECwOkBA) | 2:20 | 2022-09-23 |  |
 | [Pharaoh](https://open.spotify.com/track/5OtjdrM355EMjzxwC50mIX) | [JAVAD](https://open.spotify.com/artist/3h3sdqy5T8btPqqOzAP4lh), [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [Pharaoh](https://open.spotify.com/album/1ZhS36epmS72Yw5ZCukhbN) | 2:29 | 2022-09-23 |  |
+| [Phonky Night](https://open.spotify.com/track/4DR4zkdQB1RMJ0L2KReHng) | [Meedas](https://open.spotify.com/artist/1HoX8acPD64hFvKMq59uwb), [SVVIENTS](https://open.spotify.com/artist/4U4UZ3Yd0pd3rLW6WGYWl3) | [Phonky Night](https://open.spotify.com/album/57PoP5gveez1TanoLuTHt6) | 2:01 | 2022-12-29 |  |
 | [Pieces](https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Pieces](https://open.spotify.com/album/3UuTomNtncKiqwsZeakbPj) | 3:16 | 2022-09-23 |  |
 | [Plain Jane](https://open.spotify.com/track/6y0AJTZagYpjo0bqYmai2t) | [Ilkan Gunuc](https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Plain Jane](https://open.spotify.com/album/1PKpsiRCpk6YuTy8ssDb6y) | 3:28 | 2022-09-23 |  |
 | [Ploua](https://open.spotify.com/track/6D5WL5k84HzP4vf58j8AhL) | [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z) | [Ploua](https://open.spotify.com/album/0xdHYGFmbRQJxDh96JcN4c) | 4:31 | 2022-09-23 |  |
@@ -159,6 +163,7 @@
 | [Yokai 2](https://open.spotify.com/track/3SuJdvsccLAYXlzRdSXutG) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ) | [Yokai 2](https://open.spotify.com/album/43XgFPRDol7FxWU4DyH8tt) | 2:43 | 2022-10-27 |  |
 | [You and I Falling](https://open.spotify.com/track/7w53i4JJMMxhsisW7dZPIc) | [maginexM](https://open.spotify.com/artist/1nDal0AmXO9yAx6xoVeUiD) | [You and I Falling](https://open.spotify.com/album/22cb8HbxgIEp6BbqHwGhXb) | 2:41 | 2022-09-23 |  |
 | [Zero Two \- Darling Ohayo](https://open.spotify.com/track/0aBessClKPpJ0ttUno9lD5) | [Bemax](https://open.spotify.com/artist/16rbId8hE3Eg4mpy2I2rcv) | [Zero Two \(Darling Ohayo\)](https://open.spotify.com/album/2r1T1cbhOxQrymKqzldfl9) | 2:10 | 2022-09-23 |  |
+| [ZUBii](https://open.spotify.com/track/6U4cJRInCKtf7QIOoV1E5v) | [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf), [SXTXNX](https://open.spotify.com/artist/3Aefga18e23rZnWsd7uAj3) | [ZUBii](https://open.spotify.com/album/1kRtPEyrnfCOJ4o6shIQJg) | 3:01 | 2022-12-29 |  |
 | [Забей](https://open.spotify.com/track/3Qe0qzlUUxpKBn7jx6umQF) | [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z), [A'Lone](https://open.spotify.com/artist/0FdVEJ79HZwk9RlHyU2Tvc), [Zhanelya](https://open.spotify.com/artist/5nemrL2vL312LySJWx8b59) | [Забей](https://open.spotify.com/album/0ZF7L7VhhHXMwfUFuGQ2ww) | 2:38 | 2022-09-23 |  |
 
 \*This playlist was first scraped on 2022-10-12. Prior content cannot be recovered.

@@ -1,15 +1,15 @@
 {
   "description": "Dale play, y que la cumbia no pare.",
-  "num_followers": 220749,
+  "num_followers": 235054,
   "original_name": "Enganchados: Cumbianchas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMjQxNiwwMDAwMDAwMDhhOGE1MGE0MzBhY2M3YWNmZGZlZjFiZjQ3NmQ2NjRk",
+  "snapshot_id": "MTY3MDI1NDg4NSwwMDAwMDAwMGMyN2QyZTJlYTFlZTljMGNiNzAzOTYyZWJhMTMxZmVi",
   "tracks": [
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Si Me Tomo una Cerveza",
         "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Una Cerveza",
         "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
         "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
@@ -61,27 +61,23 @@
       "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+        "name": "25 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 266213,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
+      "duration_ms": 189152,
+      "name": "Jurabas Tu",
+      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "C\u00f3mo le Gusta",
         "url": "https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd"
@@ -97,7 +93,7 @@
       "url": "https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
@@ -117,23 +113,27 @@
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "25 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 189152,
-      "name": "Jurabas Tu",
-      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
+      "duration_ms": 266213,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Los M\u00e1s Queridos",
         "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
@@ -149,23 +149,23 @@
       "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+        "name": "Coraz\u00f3n de Papel",
+        "url": "https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
         }
       ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
+      "duration_ms": 198306,
+      "name": "Amores como el nuestro",
+      "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
@@ -189,87 +189,7 @@
       "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
-        "url": "https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 494464,
-      "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
-      "url": "https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Un Sentimiento",
-        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Coraz\u00f3n de Papel",
-        "url": "https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Amores como el nuestro",
-      "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "De Enero a Enero",
         "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
@@ -285,7 +205,87 @@
       "url": "https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Un Sentimiento",
+        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
@@ -301,103 +301,7 @@
       "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Lo mejor de R\u00e1faga",
-        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Una R\u00e1faga de Amor",
-      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Inimitable",
-        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Vienes y Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 267613,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Grupo Play (La poes\u00eda musical)",
-        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Llora me llama",
-      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Boquita de Caramelo",
         "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
@@ -413,7 +317,55 @@
       "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Inimitable",
+        "url": "https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Vienes y Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Grupo Play (La poes\u00eda musical)",
+        "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Llora me llama",
+      "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Grandes \u00c9xitos Regrabados",
         "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
@@ -429,23 +381,39 @@
       "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "Un Homenaje Al Cielo",
-        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
+        "name": "Lo mejor de R\u00e1faga",
+        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Tramposa Y Mentirosa",
-      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
+      "duration_ms": 183266,
+      "name": "Una R\u00e1faga de Amor",
+      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 267613,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI"
@@ -461,39 +429,23 @@
       "url": "https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
+        "name": "Un Homenaje Al Cielo",
+        "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
       "artists": [
         {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 202586,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
+      "duration_ms": 212400,
+      "name": "Tramposa Y Mentirosa",
+      "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Sa, Za...Sabor!!!",
         "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
@@ -509,23 +461,39 @@
       "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
         }
       ],
-      "duration_ms": 266760,
-      "name": "Con la Misma Moneda",
-      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Montevideo 418",
         "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
@@ -541,23 +509,7 @@
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "A\u00fan Sigue La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D"
@@ -573,23 +525,55 @@
       "url": "https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "Nominado",
-        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+      "duration_ms": 202586,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Con la Misma Moneda",
+      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Solo Para Entendidos",
         "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
@@ -605,87 +589,7 @@
       "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Sin Verg\u00fcenza",
-        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Corazon Mentiroso",
-      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Con La Cumbia En La Sangre",
-        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "No Me Vuelvo A Enamorar",
-      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Los M\u00e1s Grandes Exitos",
-        "url": "https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Se Me Ha Perdido Un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 263315,
-      "name": "Se Te Ve la Tanga",
-      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Yo No S\u00e9 Ma\u00f1ana",
         "url": "https://open.spotify.com/album/3vlIfLtvvxFaFsuZ9XimoN"
@@ -701,23 +605,55 @@
       "url": "https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
+        "name": "Con La Cumbia En La Sangre",
+        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Yo Que Te Am\u00e9",
-      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
+      "duration_ms": 171333,
+      "name": "No Me Vuelvo A Enamorar",
+      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Nominado",
+        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Sin Verg\u00fcenza",
+        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Corazon Mentiroso",
+      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
@@ -733,119 +669,39 @@
       "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "El polaco - Vuelve te lo pido",
-        "url": "https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS"
+        "name": "Los M\u00e1s Grandes Exitos",
+        "url": "https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 133866,
-      "name": "En este mundo",
-      "url": "https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9"
+      "duration_ms": 210586,
+      "name": "Se Me Ha Perdido Un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "M\u00e1s Negro Que la Noche",
-        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
       },
       "artists": [
         {
-          "name": "De La Calle",
-          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 155387,
-      "name": "Una Wacha Piola",
-      "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
+      "duration_ms": 263315,
+      "name": "Se Te Ve la Tanga",
+      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Los Maleantes",
-        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 164780,
-      "name": "Sentado en la Esquina",
-      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Como la Gente",
-        "url": "https://open.spotify.com/album/75t4wjj5y0Q820HCrh60Xb"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "No Me Lo Creo",
-      "url": "https://open.spotify.com/track/4D0sX1ScgNTnEW0VT6X9mZ"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 243957,
-      "name": "De Regreso Al Penal",
-      "url": "https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Un Homenaje Al Cielo",
         "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
@@ -861,23 +717,71 @@
       "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
       },
       "artists": [
         {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
         }
       ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "El polaco - Vuelve te lo pido",
+        "url": "https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "En este mundo",
+      "url": "https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
+      },
+      "artists": [
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 243957,
+      "name": "De Regreso Al Penal",
+      "url": "https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
@@ -893,7 +797,103 @@
       "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Yo Que Te Am\u00e9",
+      "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "M\u00e1s Negro Que la Noche",
+        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
+      },
+      "artists": [
+        {
+          "name": "De La Calle",
+          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
+        }
+      ],
+      "duration_ms": 155387,
+      "name": "Una Wacha Piola",
+      "url": "https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Como la Gente",
+        "url": "https://open.spotify.com/album/75t4wjj5y0Q820HCrh60Xb"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "No Me Lo Creo",
+      "url": "https://open.spotify.com/track/4D0sX1ScgNTnEW0VT6X9mZ"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Los Maleantes",
+        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 164780,
+      "name": "Sentado en la Esquina",
+      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "La 2da del Boxeador",
         "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
@@ -909,39 +909,7 @@
       "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "El Comboloco",
-        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
-      },
-      "artists": [
-        {
-          "name": "El Combo Loco",
-          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Ser\u00e1 Porque Te Amo",
-      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Supermerk2 & Meta Guacha: 2x1",
-        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
-      },
-      "artists": [
-        {
-          "name": "Meta Guacha",
-          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Para la Gilada",
-      "url": "https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
@@ -965,7 +933,103 @@
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Creciendo",
+        "url": "https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "Tan Solo Amantes",
+      "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Supermerk2 & Meta Guacha: 2x1",
+        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
+      },
+      "artists": [
+        {
+          "name": "Meta Guacha",
+          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Para la Gilada",
+      "url": "https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "El Comboloco",
+        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
+      },
+      "artists": [
+        {
+          "name": "El Combo Loco",
+          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Ser\u00e1 Porque Te Amo",
+      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Como Te Lo Digo",
+      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "La Pollera Amarilla",
+        "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
+      },
+      "artists": [
+        {
+          "name": "Gladys \"La bomba tucumana\"",
+          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "La Pollera Amarilla",
+      "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
@@ -989,87 +1053,7 @@
       "url": "https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "La Pollera Amarilla",
-        "url": "https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE"
-      },
-      "artists": [
-        {
-          "name": "Gladys \"La bomba tucumana\"",
-          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "La Pollera Amarilla",
-      "url": "https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Creciendo",
-        "url": "https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Tan Solo Amantes",
-      "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Como Te Lo Digo",
-      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 167053,
-      "name": "Amigos en la Distancia",
-      "url": "https://open.spotify.com/track/0mFnciDvQCEHGChYFAYsST"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/2m6gFPx1GNwcVNsjNSPQ6C"
@@ -1085,39 +1069,7 @@
       "url": "https://open.spotify.com/track/44ZRUhwJopErgSsvJ8iH7I"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/53hzmIPjhWhFaxewzpgG1O"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Le Hace Falta un Beso",
-        "url": "https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Le Hace Falta un Beso",
-      "url": "https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Te Sigo Queriendo",
         "url": "https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK"
@@ -1133,23 +1085,55 @@
       "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
       },
       "artists": [
         {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 191333,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+      "duration_ms": 267813,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/53hzmIPjhWhFaxewzpgG1O"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Le Hace Falta un Beso",
+        "url": "https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "El Amor Hecho Cancion",
+        "url": "https://open.spotify.com/album/0awCpysck1teL7SNptoctb"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/0rNGHPTBNL4D0koH7bYiVI"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Vete de Mi Lado",
         "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
@@ -1165,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Quiero Verte Bailar",
         "url": "https://open.spotify.com/album/4ceIQJuUkphs5HfrQh9O63"
@@ -1185,23 +1169,23 @@
       "url": "https://open.spotify.com/track/19SPpzI7l7Aovt7AnoHqTw"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "El Amor Hecho Cancion",
-        "url": "https://open.spotify.com/album/0awCpysck1teL7SNptoctb"
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
       "artists": [
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/0rNGHPTBNL4D0koH7bYiVI"
+      "duration_ms": 191333,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
@@ -1217,7 +1201,7 @@
       "url": "https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "No Llores",
         "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
@@ -1233,23 +1217,23 @@
       "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 276298,
-      "name": "Los Due\u00f1os del Pabellon",
-      "url": "https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K"
+      "duration_ms": 167053,
+      "name": "Amigos en la Distancia",
+      "url": "https://open.spotify.com/track/0mFnciDvQCEHGChYFAYsST"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/0kAkyYhZo4S3nJXxtkvall"
@@ -1265,23 +1249,23 @@
       "url": "https://open.spotify.com/track/0nPObGwq8ryJ0ZLEdY6Qg8"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
-        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
       },
       "artists": [
         {
-          "name": "Amar y yo",
-          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 201346,
-      "name": "La pata sucia",
-      "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
+      "duration_ms": 276298,
+      "name": "Los Due\u00f1os del Pabellon",
+      "url": "https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
@@ -1297,7 +1281,23 @@
       "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
+      "album": {
+        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
+        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 164680,
+      "name": "El Parrandero",
+      "url": "https://open.spotify.com/track/768hJxQr8vRAp87OicQP84"
+    },
+    {
+      "added_at": "2022-12-05 15:41:25",
       "album": {
         "name": "Alta Gira",
         "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
@@ -1313,20 +1313,20 @@
       "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
     },
     {
-      "added_at": "2022-07-22 15:06:56",
+      "added_at": "2022-12-05 15:41:25",
       "album": {
-        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
-        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
         }
       ],
-      "duration_ms": 164680,
-      "name": "El Parrandero",
-      "url": "https://open.spotify.com/track/768hJxQr8vRAp87OicQP84"
+      "duration_ms": 258666,
+      "name": "Otra Como T\u00fa",
+      "url": "https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf"
     }
   ],
   "unique_name": "Enganchados: Cumbianchas",

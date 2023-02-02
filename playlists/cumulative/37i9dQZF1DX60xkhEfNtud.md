@@ -4,7 +4,7 @@
 
 > Whale song from the deep underwater world of the oceans
 
-51 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/4AbiNCG8vNqMb6zdrvqyyy)
+51 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

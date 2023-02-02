@@ -4,7 +4,7 @@
 
 > Your ultimate easy\-listening soundtrack for the winter months.
 
-150 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/3HzY1Lkj3X6KFFJA2E16Or)
+151 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2022-09-16 | 2022-11-26 |
 | [Green & Gold](https://open.spotify.com/track/2rXRkotF8QGGYirZsuxCqP) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Trending Hits](https://open.spotify.com/album/7M9oyLQcs7cvdNidQmasJT) | 4:38 | 2022-09-16 | 2022-11-13 |
 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 | 2022-09-16 | 2022-11-26 |
-| [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 | 2022-11-25 |  |
+| [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 | 2022-11-25 |  |
+| [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 | 2022-11-25 | 2022-12-01 |
 | [Hallelujah](https://open.spotify.com/track/5IaR621NoOM6i5KTcuNRHM) | [Alexandra Burke](https://open.spotify.com/artist/6yZoNdsPrYLviaEOOzbZt8) | [Overcome](https://open.spotify.com/album/0Jo60TeFm2QkBR9d5anzRU) | 3:37 | 2022-11-25 |  |
 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 | 2020-06-22 | 2022-09-17 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-09-16 | 2022-11-26 |

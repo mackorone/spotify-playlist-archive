@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,259 likes - 23 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,272 likes - 23 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 | 19 | [Don't Care](https://open.spotify.com/track/2obzETB8ZNaHhTGhnbAqJF) | [Coely](https://open.spotify.com/artist/2DzbXUAn0DiYqcgu2wDfaf), [DVTCH NORRIS](https://open.spotify.com/artist/0j0HOVpdJ2XuGIkfWhEdtz) | [Different Waters](https://open.spotify.com/album/77WZ1J2FUsry4UiyasJ8c5) | 3:34 |
 | 20 | [Moved to LA](https://open.spotify.com/track/2kwL86tUFvBVHnJdETL760) | [Chris Scholar](https://open.spotify.com/artist/1mNkxKTW6JzD4tUsjLq4bl) | [Moved to LA](https://open.spotify.com/album/0V0tKL2GAD8MCsXBSENY1P) | 3:17 |
 | 21 | [Recess](https://open.spotify.com/track/1e4CsgIIzrGpEVcjY95gZw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:08 |
-| 22 | [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 |
+| 22 | [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 |
 | 23 | [You & I](https://open.spotify.com/track/02o0U7KH4t9oPUObu3e38c) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Bad Ass and Blind](https://open.spotify.com/album/0NtTUwDr61O8PFNUFSrmKz) | 3:42 |
 
 Snapshot ID: `MTQ5ODU1MDEwMCwwMDAwMDAwMDc5M2EyNWU4MjcyNzhlNjM5ZDRkNTcyMTVlNGI0Mjg3`

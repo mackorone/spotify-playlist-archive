@@ -4,7 +4,7 @@
 
 > Electronic duo <a href="spotify:artist:4Nl6PVYLwbCFfr3UqQlFtE">VOLAC</a> delivers a fun, high\-energy tech house mix!
 
-19 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/2TeE9RGex1nJjkgg9b3B5f)
+19 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

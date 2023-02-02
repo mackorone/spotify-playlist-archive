@@ -4,7 +4,7 @@
 
 > The official playlist for The Adam Project\. Watch on Netflix.
 
-34 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/6iIlr2pRScOHIG7PcjiM5d)
+34 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

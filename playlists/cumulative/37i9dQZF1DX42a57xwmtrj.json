@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez",
+  "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
   "name": "Rock Urbano",
-  "published_playlist_ids": [
-    "0lDwr3VyV0083RkCP1IAZV"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,7 +56,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 363161,
       "name": "Aburrida la Vida",
       "url": "https://open.spotify.com/track/4BDHirGB8v0tcVWlNpiVvg"
@@ -239,7 +236,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": "2023-02-01",
       "duration_ms": 217942,
       "name": "Balada Chilanga",
       "url": "https://open.spotify.com/track/0OuuoanG0AweEt3zEpmjWN"
@@ -891,7 +888,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 204546,
       "name": "Guaca Rock De La Malinche",
       "url": "https://open.spotify.com/track/6vsZUtdttpNsraa2BYj9uV"
@@ -909,7 +906,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 215986,
       "name": "Guacarock Del Santo",
       "url": "https://open.spotify.com/track/5tHOJYiBkvOKdIl7sFkCuV"
@@ -993,8 +990,8 @@
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
       "date_added": "2020-11-13",
@@ -1381,7 +1378,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 202266,
       "name": "Me Gusta Tu Chava",
       "url": "https://open.spotify.com/track/3w4AROEjy3xNq7hBvKXbN0"
@@ -1475,7 +1472,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 283488,
       "name": "Mun\u0303equita Sinte\u0301tica",
       "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
@@ -1695,7 +1692,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 162826,
       "name": "Oye Cantinero",
       "url": "https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129"
@@ -2081,7 +2078,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 277556,
       "name": "Tex Tex Boogie",
       "url": "https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m"
@@ -2103,6 +2100,28 @@
       "duration_ms": 287986,
       "name": "Tlatelolco 68",
       "url": "https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i"
+    },
+    {
+      "album": {
+        "name": "Tocada y Fuga",
+        "url": "https://open.spotify.com/album/07pqmLcUHgtnSdIi2aGDDS"
+      },
+      "artists": [
+        {
+          "name": "Sergio Arau",
+          "url": "https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220872,
+      "name": "Tocada y Fuga",
+      "url": "https://open.spotify.com/track/3ib6XT17WcsAJ2Qgp13wc0"
     },
     {
       "album": {
@@ -2421,8 +2440,8 @@
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/7po2fyq2m4THzNOW84MYLK"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
       "date_added": "2020-11-13",
@@ -2463,7 +2482,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 188638,
       "name": "Yo Quiero Que Sepas",
       "url": "https://open.spotify.com/track/1ByAq33DTLL2ecMBqUS3oQ"
@@ -2475,8 +2494,8 @@
       },
       "artists": [
         {
-          "name": "Liran Roll",
-          "url": "https://open.spotify.com/artist/4Ocr830zYmJwy18gGDYK6x"
+          "name": "Perro Callejero",
+          "url": "https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX"
         }
       ],
       "date_added": "2020-11-13",
@@ -2555,7 +2574,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278934,
       "name": "\u00c9l No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"

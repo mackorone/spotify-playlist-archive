@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-09-29",
   "description": "Curl up in your favorite spot with some sweet, mellow tunes...",
   "name": "Your Favorite Coffeehouse",
-  "published_playlist_ids": [
-    "2v08rtTK8fGzJTnf0viUcB"
-  ],
   "tracks": [
     {
       "album": {
@@ -81,6 +78,24 @@
     {
       "album": {
         "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+    },
+    {
+      "album": {
+        "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
       "artists": [
@@ -91,7 +106,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
@@ -595,6 +610,14 @@
         {
           "name": "Down Like Silver",
           "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
+        },
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        },
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
       "date_added": "2019-09-29",
@@ -2096,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
@@ -2168,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Laramee",
+        "url": "https://open.spotify.com/album/0bUuPxAp0NaBOF8PXwG0z7"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241860,
+      "name": "Laramee",
+      "url": "https://open.spotify.com/track/0Ho55XknDOdL8IK2ghGjB2"
+    },
+    {
+      "album": {
         "name": "Water Liars",
         "url": "https://open.spotify.com/album/78DjyBCwRxpBuZmlRXrt58"
       },
@@ -2237,6 +2296,24 @@
       "duration_ms": 219996,
       "name": "Lion's Den",
       "url": "https://open.spotify.com/track/4P1ldMqrKRYkMIJ0cSJBgY"
+    },
+    {
+      "album": {
+        "name": "Seventeen Going Under (Live Deluxe)",
+        "url": "https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "Little Bull Of Blithe",
+      "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
     },
     {
       "album": {
@@ -2493,6 +2570,24 @@
       "duration_ms": 223400,
       "name": "Michigan Cherry",
       "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
+    },
+    {
+      "album": {
+        "name": "What Remains",
+        "url": "https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234028,
+      "name": "Miles Are Wide",
+      "url": "https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK"
     },
     {
       "album": {
@@ -2964,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Fruit from the Trees",
+        "url": "https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296929,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
+    },
+    {
+      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
       },
@@ -3414,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254258,
+      "name": "Something in the Orange - Z&E's Version",
+      "url": "https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr"
+    },
+    {
+      "album": {
         "name": "Tell Me True",
         "url": "https://open.spotify.com/album/6Pmg1ztyTIRcH1Ufwl7CY4"
       },
@@ -3472,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285913,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq"
+    },
+    {
+      "album": {
         "name": "Parallels, Vol. II",
         "url": "https://open.spotify.com/album/2jA6chvv51t3YxdJWsgxzu"
       },
@@ -3505,6 +3654,24 @@
       "duration_ms": 178173,
       "name": "Sunscreen",
       "url": "https://open.spotify.com/track/4R68vBtWahKshI7Q3mWpoc"
+    },
+    {
+      "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
     },
     {
       "album": {
@@ -3989,6 +4156,24 @@
     {
       "album": {
         "name": "Twist",
+        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186157,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
+    },
+    {
+      "album": {
+        "name": "Twist",
         "url": "https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL"
       },
       "artists": [
@@ -3999,7 +4184,7 @@
       ],
       "date_added": "2019-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 186157,
       "name": "Twist",
       "url": "https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC"
@@ -4428,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "Without a Light",
+        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Without a Light",
+      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
+    },
+    {
+      "album": {
         "name": "Our Blood",
         "url": "https://open.spotify.com/album/3cD3DhLcRjllMz8otD9F2X"
       },
@@ -4461,6 +4664,28 @@
       "duration_ms": 224687,
       "name": "Woandering",
       "url": "https://open.spotify.com/track/5E9uahV1IHYZ4qyJMvgpkp"
+    },
+    {
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
     },
     {
       "album": {

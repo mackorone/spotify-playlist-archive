@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "masquerades, moonlit encounters, and locking eyes across the ballroom",
   "name": "royalcore",
-  "published_playlist_ids": [
-    "2v8yMWug6NT2lbtXU1fqbl"
-  ],
   "tracks": [
     {
       "album": {
@@ -247,7 +244,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183266,
-      "name": "Ancient Airs And Dances, Suite No.3, P. 172: 3. Siciliana",
+      "name": "Ancient Airs And Dances, Suite No. 3, P. 172: 3. Siciliana",
       "url": "https://open.spotify.com/track/1htHR9FmSnAu3N2JM1zm9J"
     },
     {
@@ -1160,32 +1157,6 @@
     },
     {
       "album": {
-        "name": "Greatest Hits: Schubert",
-        "url": "https://open.spotify.com/album/0pvAq528cqZUS3HJFY7LoI"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Eugene Ormandy",
-          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
-        },
-        {
-          "name": "Philadelphia Orchestra",
-          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
-        }
-      ],
-      "date_added": "2022-04-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 263493,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/6BdrHOEmokkSxTyxCojD6r"
-    },
-    {
-      "album": {
         "name": "Dvo\u0159\u00e1k: Serenade for Strings, Czech Suite",
         "url": "https://open.spotify.com/album/41RV3g6Fjyzfe31bEXtMNT"
       },
@@ -1209,6 +1180,32 @@
       "duration_ms": 432533,
       "name": "Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse",
       "url": "https://open.spotify.com/track/3sAYxq1986j3ydqLv6jwUJ"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits: Schubert",
+        "url": "https://open.spotify.com/album/0pvAq528cqZUS3HJFY7LoI"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Eugene Ormandy",
+          "url": "https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263493,
+      "name": "Serenade, D. 957, No. 4",
+      "url": "https://open.spotify.com/track/6BdrHOEmokkSxTyxCojD6r"
     },
     {
       "album": {
@@ -1257,6 +1254,32 @@
       "duration_ms": 315426,
       "name": "Sonata No. 14 \"Moonlight\" in C-Sharp Minor\", Op. 27 No. 2: I. Adagio sostenuto",
       "url": "https://open.spotify.com/track/3DNRdudZ2SstnDCVKFdXxG"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/3rTMebqXvtLsLcjDSrqyyY"
+      },
+      "artists": [
+        {
+          "name": "Rolf L\u00f8vland",
+          "url": "https://open.spotify.com/artist/0V0TbicIQ6nqAWy13mR4BH"
+        },
+        {
+          "name": "Niu Niu",
+          "url": "https://open.spotify.com/artist/59coobPsuoo30nDvDa0SOi"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237906,
+      "name": "Song from a Secret Garden (Arr. Niu Niu for Flute and Piano)",
+      "url": "https://open.spotify.com/track/0PKLw91MArY8GTDL6wuow2"
     },
     {
       "album": {
@@ -1597,7 +1620,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 197705,
       "name": "The Phantom of the Opera: Overture",
       "url": "https://open.spotify.com/track/7mZFYTDSIvDPBY8w0EJMUc"
@@ -1615,7 +1638,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 199124,
       "name": "The Phantom of the Opera: Overture",
       "url": "https://open.spotify.com/track/3vLa18ko8VtiSh32m6ceP5"
@@ -1675,6 +1698,36 @@
       "duration_ms": 222466,
       "name": "Traitor - arr. String Quartet (inspired by Bridgerton)",
       "url": "https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca"
+    },
+    {
+      "album": {
+        "name": "This Is (Not) Beethoven",
+        "url": "https://open.spotify.com/album/2GV1ljxc2JbgX4RCLu89mb"
+      },
+      "artists": [
+        {
+          "name": "Arash Safaian",
+          "url": "https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme"
+        },
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Sebastian Knauer",
+          "url": "https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh"
+        },
+        {
+          "name": "Z\u00fcrcher Kammerorchester",
+          "url": "https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218893,
+      "name": "Una fantasia - String Orchestra Version",
+      "url": "https://open.spotify.com/track/7e19iixIbdGGYuJmz5SyxX"
     },
     {
       "album": {

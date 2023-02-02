@@ -1,15 +1,15 @@
 {
   "description": "This is Fatherson. The essential tracks, all in one playlist.",
-  "num_followers": 541,
+  "num_followers": 572,
   "original_name": "This Is Fatherson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDBhMzIxNWRiZWE1NDE0YTU5ODk3YTdhYjVhYTZkN2Y0NA==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA3ZGI0OWVkNDk3NTczMzZmYjBiNTAyYzYzNDYwZjNjNg==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "Sum of All Your Parts",
         "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5J1RjqttTtHcMimE4C1RZn"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "Open Book",
         "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Normal People",
-      "url": "https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "I Am an Island",
         "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
@@ -73,39 +57,7 @@
       "url": "https://open.spotify.com/track/4fX5Tn7EGAuyYIk2VUaQER"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 212080,
-      "name": "Making Waves",
-      "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 242868,
-      "name": "Just Past the Point of Breaking",
-      "url": "https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "Normal Fears",
         "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
@@ -121,7 +73,39 @@
       "url": "https://open.spotify.com/track/4nqvfPLOhsKuKOWLlpWpHO"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 212080,
+      "name": "Making Waves",
+      "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 242868,
+      "name": "Just Past the Point of Breaking",
+      "url": "https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "I Am an Island",
         "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
@@ -137,7 +121,23 @@
       "url": "https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Normal People",
+      "url": "https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "Sum of All Your Parts",
         "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "Open Book",
         "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
@@ -169,87 +169,7 @@
       "url": "https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Love For Air",
-      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 210547,
-      "name": "Cat Stevens",
-      "url": "https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 253783,
-      "name": "Sleeping Over",
-      "url": "https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "I Am an Island",
         "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
@@ -265,7 +185,87 @@
       "url": "https://open.spotify.com/track/3Hw9NcN6S0zMt7B9IwY7z7"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Love For Air",
+      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 253783,
+      "name": "Sleeping Over",
+      "url": "https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 210547,
+      "name": "Cat Stevens",
+      "url": "https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "Sum of All Your Parts",
         "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "Open Book",
         "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
@@ -297,87 +297,7 @@
       "url": "https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 257213,
-      "name": "Better Friend",
-      "url": "https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 297828,
-      "name": "James",
-      "url": "https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 251068,
-      "name": "Wondrous Heart",
-      "url": "https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
-      "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 198413,
-      "name": "Honest To God",
-      "url": "https://open.spotify.com/track/5ZTCrAYPecQ2zjt7lmwNYw"
-    },
-    {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "I Am an Island",
         "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
@@ -393,7 +313,87 @@
       "url": "https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99"
     },
     {
-      "added_at": "2022-11-25 14:27:15",
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 257213,
+      "name": "Better Friend",
+      "url": "https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 251068,
+      "name": "Wondrous Heart",
+      "url": "https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 297828,
+      "name": "James",
+      "url": "https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 198413,
+      "name": "Honest To God",
+      "url": "https://open.spotify.com/track/5ZTCrAYPecQ2zjt7lmwNYw"
+    },
+    {
+      "added_at": "2023-02-01 17:51:32",
       "album": {
         "name": "First Born",
         "url": "https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66"

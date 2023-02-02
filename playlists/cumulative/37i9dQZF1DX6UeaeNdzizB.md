@@ -4,7 +4,7 @@
 
 > The <a href="spotify:artist:0n94vC3S9c3mb2HyNAOcjg">Seattle group</a>'s essential tracks, all in a single playlist.
 
-45 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/3BmTIjmISU1asJeXRp5Omw)
+45 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

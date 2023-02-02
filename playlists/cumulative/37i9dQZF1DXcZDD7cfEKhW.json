@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Sam Smith & Kim Petras",
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: David Guetta & Bebe Rexha",
   "name": "Pop Remix",
-  "published_playlist_ids": [
-    "19uNHWTaOVDySWkMTC6J3e"
-  ],
   "tracks": [
     {
       "album": {
@@ -737,6 +734,32 @@
       "duration_ms": 249280,
       "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
       "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
+    },
+    {
+      "album": {
+        "name": "Believe (feat. Goodboys) [Galantis Remix]",
+        "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174283,
+      "name": "Believe (feat. Goodboys) [Galantis Remix]",
+      "url": "https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm"
     },
     {
       "album": {
@@ -1909,7 +1932,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 166463,
       "name": "Deep Down (feat. Never Dull) - Nathan Dawe Remix",
       "url": "https://open.spotify.com/track/6Ku2dAf2mm5ne7tT7QUbdF"
@@ -2012,6 +2035,28 @@
     },
     {
       "album": {
+        "name": "Don't Cry For Me",
+        "url": "https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199515,
+      "name": "Don't Cry For Me",
+      "url": "https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7"
+    },
+    {
+      "album": {
         "name": "Diplo (Deluxe)",
         "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
@@ -2083,6 +2128,32 @@
       "duration_ms": 171265,
       "name": "Don't Go Yet - Major Lazer Remix",
       "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me Lonely (feat. Elley Duh\u00e9) [Felix Jaehn Happy Rave Mix]",
+        "url": "https://open.spotify.com/album/5M3YqVjk1HX7crUZMQwg9O"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Don't Leave Me Lonely (feat. Elley Duh\u00e9) [Felix Jaehn Happy Rave Mix]",
+      "url": "https://open.spotify.com/track/4tvEEOn0swSHPHOifOb8x4"
     },
     {
       "album": {
@@ -2209,7 +2280,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 236065,
       "name": "Don\u2019t Wake Me Up - Sevenn Remix",
       "url": "https://open.spotify.com/track/6k5vdsmeY5yFWLcKhMBIsN"
@@ -2313,7 +2384,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 151475,
       "name": "Drop A Bomb - R3HAB Remix",
       "url": "https://open.spotify.com/track/2eGOvaIoQBi2nEF908wqDm"
@@ -2383,7 +2454,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-16",
       "duration_ms": 182640,
       "name": "Easy - Ofenbach Remix",
       "url": "https://open.spotify.com/track/7CEwv044aumuJzN470mPXL"
@@ -2405,7 +2476,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 251581,
       "name": "Easy Lover - Four Tet Remix",
       "url": "https://open.spotify.com/track/08LkoUvYs9AtUTp9RZZvBI"
@@ -2917,7 +2988,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 166865,
       "name": "Follow Me - Sick Individuals Remix",
       "url": "https://open.spotify.com/track/6BtVqI4JYCYi6mPmkzr5Rv"
@@ -3381,7 +3452,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 149500,
       "name": "Grand - TroyBoi Remix",
       "url": "https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC"
@@ -3425,10 +3496,32 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 138000,
       "name": "Green Green Grass - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/5nS4GAbtHTLQzmLRf7kkg5"
+    },
+    {
+      "album": {
+        "name": "Green Green Grass",
+        "url": "https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Green Green Grass - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT"
     },
     {
       "album": {
@@ -4072,6 +4165,28 @@
     },
     {
       "album": {
+        "name": "How Do I Say Goodbye (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6XjTK78pOsk3RcetfMXNUe"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "How Do I Say Goodbye - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2gCyxh8Q7Sj1t7pU5IrE7A"
+    },
+    {
+      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
       },
@@ -4675,7 +4790,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
@@ -4793,7 +4908,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 213133,
       "name": "Jungle - Rico Nasty Remix",
       "url": "https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX"
@@ -4883,7 +4998,7 @@
           "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         },
         {
@@ -4893,7 +5008,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
@@ -5396,6 +5511,28 @@
     },
     {
       "album": {
+        "name": "Made You Look (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Made You Look - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe"
+    },
+    {
+      "album": {
         "name": "Manchild (TOKiMONSTA Remix)",
         "url": "https://open.spotify.com/album/52328WXPKDhZVhSeCsl91E"
       },
@@ -5607,6 +5744,28 @@
       "duration_ms": 187125,
       "name": "Million Dollar Baby - David Penn Remix",
       "url": "https://open.spotify.com/track/6ZZzcoEEfOgN7mFuVSDqjR"
+    },
+    {
+      "album": {
+        "name": "Million Dollar Baby (Nathan Dawe Remix)",
+        "url": "https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185864,
+      "name": "Million Dollar Baby - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX"
     },
     {
       "album": {
@@ -6002,6 +6161,28 @@
     },
     {
       "album": {
+        "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167419,
+      "name": "Never Gonna Not Dance Again - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
+    },
+    {
+      "album": {
         "name": "Never Look Back (feat. Syd Silvair) [Wh0 Remix]",
         "url": "https://open.spotify.com/album/73h7q5Qszvr1N4XqloRJmb"
       },
@@ -6099,7 +6280,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 323080,
       "name": "Nieve - Good Times Ahead Remix",
       "url": "https://open.spotify.com/track/0Z89MaST5Egh1JGuWtIohT"
@@ -6261,7 +6442,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 218209,
       "name": "On My Way (Marry Me) - TELYKast Remix",
       "url": "https://open.spotify.com/track/0ldyOpAYtavIapulYOwGfz"
@@ -6531,6 +6712,28 @@
       "duration_ms": 161280,
       "name": "Pick Me Up - VAVO Remix",
       "url": "https://open.spotify.com/track/6fQHEKGjrhi3RnFUh0j54O"
+    },
+    {
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117026,
+      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
     },
     {
       "album": {
@@ -7164,6 +7367,32 @@
     },
     {
       "album": {
+        "name": "Scandalous (feat. Tinashe) [Remixes]",
+        "url": "https://open.spotify.com/album/0AILrrwUAttkpst8ABOXNK"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232857,
+      "name": "Scandalous (feat. Tinashe) - Taiki Nulight Remix",
+      "url": "https://open.spotify.com/track/1DCIiRF0PZdrZFBwuVf8QH"
+    },
+    {
+      "album": {
         "name": "See-Line Woman (Riton Remix)",
         "url": "https://open.spotify.com/album/5TgdVipR636imv6aQaUnns"
       },
@@ -7551,6 +7780,28 @@
       "duration_ms": 165491,
       "name": "So Sick (feat. blackbear) [Martin Jensen Remix]",
       "url": "https://open.spotify.com/track/4j1fFJvUcQxMrLEMBHV9NQ"
+    },
+    {
+      "album": {
+        "name": "Somebody I F*cked Once (The Extras)",
+        "url": "https://open.spotify.com/album/5koenPf1RyTKDr13IT5nXO"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        },
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 145849,
+      "name": "Somebody I F*cked Once - Lady Bee Remix",
+      "url": "https://open.spotify.com/track/3PlpAfyyeuicW1HP0IebLM"
     },
     {
       "album": {
@@ -8315,7 +8566,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2022-12-14",
       "duration_ms": 260522,
       "name": "Teardrops (feat. Majid Jordan) - Belters Only Remix",
       "url": "https://open.spotify.com/track/2ttYzPb48PVJjt6O8HdrQa"

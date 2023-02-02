@@ -4,7 +4,7 @@
 
 > The American Music Awards is the world’s biggest fan\-voted award show\. This year, hosts Gigi Hadid and Jay Pharoah will share the stage with performers Bruno Mars, Twenty One Pilots, The Chainsmokers, and many more.
 
-35 songs - 2 hr 9 min - [published](https://open.spotify.com/playlist/4NebfyoiPcVIWyBzrOsmo9)
+35 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

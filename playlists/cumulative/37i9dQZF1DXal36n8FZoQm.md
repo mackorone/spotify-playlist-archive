@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-161 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/0ndLkmHW7tKwbEqiyvylLh)
+162 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2022-01-07 |  |
 | [Runnin' Wild](https://open.spotify.com/track/5XMnIXqKsjB4tWBYSqfUVm) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild](https://open.spotify.com/album/0kNkrkBOlSqbcILQvceoZw) | 3:42 | 2022-09-09 | 2022-11-13 |
 | [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 | 2022-09-09 |  |
-| [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 | 2022-01-06 |  |
+| [Sailing](https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Sailing / Poor Shirley \(Digital 45\)](https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0) | 4:15 | 2022-01-06 |  |
+| [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 | 2022-01-06 | 2023-01-07 |
 | [Samoan Balls](https://open.spotify.com/track/1eFHUPqadgI1metnPICFNN) | [Paul Hertzog](https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d) | [Bloodsport \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21vQJECQGK9DBbSJulKZIf) | 2:18 | 2022-01-06 |  |
 | [Saudagi](https://open.spotify.com/track/6gFr62xznGSZuzE2nQEOpF) | [DJ Rodriguez](https://open.spotify.com/artist/4bR1pY2AxqH9oRSVHz852L) | [The Magic Touch](https://open.spotify.com/album/72YUKu76KLFDaDdtP7s1Vx) | 5:25 | 2022-01-06 |  |
 | [Say You Don't Want Me](https://open.spotify.com/track/3ioH4Hroyj5mpYVskBZqhS) | [Le Bon](https://open.spotify.com/artist/1AQ75osB6lFJwRWxdjLzIK) | [Riding On A New Wave](https://open.spotify.com/album/2oeJB9YDHfVD98mT6tVoEx) | 3:43 | 2022-01-07 | 2022-07-29 |

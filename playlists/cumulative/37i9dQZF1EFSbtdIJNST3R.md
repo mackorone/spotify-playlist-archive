@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-32 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/2E8TvLmzFqM3KDRn4gYfOe)
+32 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

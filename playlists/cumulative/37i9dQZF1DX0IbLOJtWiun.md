@@ -4,7 +4,7 @@
 
 > In honor of the little teams who could
 
-30 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/21WlbNb5CFv2JRzSzbMrde)
+30 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

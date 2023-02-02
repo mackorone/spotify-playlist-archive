@@ -4,7 +4,7 @@
 
 > During the height of the 60s, no one knew how to convey the message of love and peace better than the Beatles.
 
-108 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/2vKL1SVVTfMXtcf4GVSZO0)
+108 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

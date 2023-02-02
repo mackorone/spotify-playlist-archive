@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Driving rhythms, intricate instrumentation, and full harmonies. Cover: Mumford & Sons",
   "name": "Stomp & Holler",
-  "published_playlist_ids": [
-    "2pddgQow7sguWtYurOyoiM"
-  ],
   "tracks": [
     {
       "album": {
@@ -747,6 +744,24 @@
     {
       "album": {
         "name": "Heart Murmurs",
+        "url": "https://open.spotify.com/album/17l9KWnEV8rjy3QoYAUGT7"
+      },
+      "artists": [
+        {
+          "name": "jeremy messersmith",
+          "url": "https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269824,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3bwymFXaLawekXh24ZOL9s"
+    },
+    {
+      "album": {
+        "name": "Heart Murmurs",
         "url": "https://open.spotify.com/album/4bCcwaKznhOyjvLysGVGVP"
       },
       "artists": [
@@ -757,7 +772,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 269824,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/7KqbJ9ct3YZjvB08NawcrF"
@@ -1567,10 +1582,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 270666,
       "name": "She Lit a Fire",
       "url": "https://open.spotify.com/track/0zCckv4tx3KzJ5GGTRbbLf"
+    },
+    {
+      "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270666,
+      "name": "She Lit a Fire",
+      "url": "https://open.spotify.com/track/6EwmdjdgIxoN1sRMhqWwmS"
     },
     {
       "album": {
@@ -1585,7 +1618,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-06",
       "duration_ms": 270666,
       "name": "She Lit a Fire",
       "url": "https://open.spotify.com/track/7jvRS4mNvjbSwgdiWDG2ZD"

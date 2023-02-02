@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI",
+  "description": "Scopri il documentario speciale dedicato a Rhove e la playlist con alcune delle top promesse della musica italiana! ",
   "name": "RADAR Italia",
-  "published_playlist_ids": [
-    "4DfmxbBDAJRVZ9vLByCzL3"
-  ],
   "tracks": [
     {
       "album": {
@@ -179,6 +176,24 @@
       "duration_ms": 194366,
       "name": "Avec moi",
       "url": "https://open.spotify.com/track/4b3d5gAAIUUhbzhRjQAZ97"
+    },
+    {
+      "album": {
+        "name": "Bambina",
+        "url": "https://open.spotify.com/album/4RVpMxTNK77CJp8ddQbJjL"
+      },
+      "artists": [
+        {
+          "name": "Caffellatte",
+          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "Bambina",
+      "url": "https://open.spotify.com/track/3ConKv3XVOlkcQp0SfaHA3"
     },
     {
       "album": {
@@ -744,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Merchants",
+        "url": "https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248901,
+      "name": "Merchants",
+      "url": "https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd"
+    },
+    {
+      "album": {
         "name": "Post Nostalgia",
         "url": "https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv"
       },
@@ -849,7 +882,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 130949,
       "name": "Montpellier",
       "url": "https://open.spotify.com/track/0B6URTmcGaWaXCnBtRiDGR"
@@ -933,7 +966,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 182105,
       "name": "Nonchalance",
       "url": "https://open.spotify.com/track/1fSUTj7qUeFW6R1PD2ofmn"
@@ -1489,6 +1522,24 @@
       "duration_ms": 168146,
       "name": "TIRA E MOLLA",
       "url": "https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx"
+    },
+    {
+      "album": {
+        "name": "Tolona",
+        "url": "https://open.spotify.com/album/6h8884jQL2kUResMNzgtTf"
+      },
+      "artists": [
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Tolona",
+      "url": "https://open.spotify.com/track/6f74ZrISrgps488L1QYSb0"
     },
     {
       "album": {

@@ -2,10 +2,25 @@
   "date_first_scraped": "2021-12-21",
   "description": "Zone in (or out) with ethereal, meditative instrumental indie folk and acoustic tracks.",
   "name": "Indie Folk for Focus",
-  "published_playlist_ids": [
-    "1Tx1MEjzWZkrD2HrMsUqGL"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Changeophelia EP",
+        "url": "https://open.spotify.com/album/1b7oSt5bigWP51jdelHlXu"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259467,
+      "name": "(in.)Fading Light",
+      "url": "https://open.spotify.com/track/4yCtW8ZPnGAyU4gABAZSFy"
+    },
     {
       "album": {
         "name": "Into The Wide",
@@ -329,10 +344,28 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 101586,
       "name": "Bewley In Grey",
       "url": "https://open.spotify.com/track/4UgfhLbk4GAPMK1bHAD4z1"
+    },
+    {
+      "album": {
+        "name": "Fi",
+        "url": "https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101586,
+      "name": "Bewley In Grey",
+      "url": "https://open.spotify.com/track/6pegizBkef5HtY5EMNn23k"
     },
     {
       "album": {

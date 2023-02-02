@@ -4,7 +4,7 @@
 
 > The Atlanta\-born <a href="spotify:artist:1RyvyyTE3xzB2ZywiAwp0i">rapper</a>'s dopest songs plus his latest bangers.
 
-68 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/27sOtYUQ1yZF2n6yJ4ByAM)
+68 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

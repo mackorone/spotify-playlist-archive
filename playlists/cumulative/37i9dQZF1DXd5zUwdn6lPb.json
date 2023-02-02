@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Enhance your focus with classical music.",
   "name": "Classical Focus",
-  "published_playlist_ids": [
-    "6BDzYfBiwlGx1TmWE2kQyn"
-  ],
   "tracks": [
     {
       "album": {
@@ -561,7 +558,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 292546,
       "name": "Berceuse in D Flat Major, Op. 57",
       "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
@@ -1130,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Dreamy",
+        "url": "https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Dreamy",
+      "url": "https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn"
+    },
+    {
+      "album": {
         "name": "Liszt: Sonata in B Minor - Piano Works",
         "url": "https://open.spotify.com/album/53P2iAYEMqdCmkrHW1BGgn"
       },
@@ -1175,6 +1190,24 @@
       "duration_ms": 168786,
       "name": "Etude Op. 76 nr 2",
       "url": "https://open.spotify.com/track/1h0j89VVIoDkhYZCtrC5Ug"
+    },
+    {
+      "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "album": {
@@ -1559,7 +1592,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 138239,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: IV. Andante",
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
       "url": "https://open.spotify.com/track/3LRFULohtv8BnMrqPEq3Sv"
     },
     {
@@ -3451,7 +3484,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 359000,
       "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": II. Andante",
       "url": "https://open.spotify.com/track/7jJCaVi6LljAVeTjYMFK2E"
@@ -4789,6 +4822,28 @@
       "duration_ms": 90893,
       "name": "Von fremden L\u00e4ndern und Menschen (From \"Kinderszenen\", Op. 15)",
       "url": "https://open.spotify.com/track/7zB0GhZrV4cRHriPbTR53w"
+    },
+    {
+      "album": {
+        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jo\u00e3o Carlos Victor",
+          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354560,
+      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
     },
     {
       "album": {

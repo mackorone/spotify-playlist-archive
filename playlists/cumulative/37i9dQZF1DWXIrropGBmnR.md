@@ -4,7 +4,7 @@
 
 > Calm and soothing strings to help you get a good night's rest.
 
-102 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
+103 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 | 2022-06-03 | 2022-08-11 |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:34 | 2022-08-05 |  |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 5:34 | 2022-08-05 | 2022-08-26 |
-| [nighteveryday](https://open.spotify.com/track/3D6hyGiGDkOidw2tWTZkAN) | [Ever So So Deep](https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw) | [nighteveryday](https://open.spotify.com/album/6PFpxGyzOsrkAcC88eUEHu) | 2:46 | 2022-08-05 |  |
+| [nighteveryday](https://open.spotify.com/track/18TxczgcjnRnmyBEDGXbXv) | [Ever So So Deep](https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw) | [nighteveryday](https://open.spotify.com/album/6joX6D4D5SLcmbakPYoqTr) | 2:46 | 2022-08-05 |  |
+| [nighteveryday](https://open.spotify.com/track/3D6hyGiGDkOidw2tWTZkAN) | [Ever So So Deep](https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw) | [nighteveryday](https://open.spotify.com/album/6PFpxGyzOsrkAcC88eUEHu) | 2:46 | 2022-08-05 | 2022-12-26 |
 | [Nine Times around the Heart](https://open.spotify.com/track/5KEhwMi5xD7HxfoXe0iPM7) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 2:57 | 2022-01-06 |  |
 | [Nueva Palmira](https://open.spotify.com/track/0tIAcKnDwJCR1Miow9mqPM) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 1:28 | 2022-01-06 |  |
 | [Oak Shade](https://open.spotify.com/track/2K17IbJaE2A5XsB642I5LZ) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Oak Shade](https://open.spotify.com/album/6IKJo0CNMr8boHjgHc89Gt) | 3:08 | 2022-08-05 |  |

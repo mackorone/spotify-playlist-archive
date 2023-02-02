@@ -4,12 +4,12 @@
 
 > The notes that will make you long for those days of yore.
 
-189 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/2mdoB8gHvTDYVCENDqa6NW)
+190 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Swingin' Safari](https://open.spotify.com/track/2V9ZGEAaTrNaQuck6WBxPG) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Mad Men: A Musical Companion \(1960\-1965\)](https://open.spotify.com/album/0bsu7M7VJN8AheepyXeGza) | 2:15 | 2020-12-08 | 2022-07-12 |
-| [A Swingin' Safari](https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [A Swingin' Safari](https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu) | 2:15 | 2020-12-08 |  |
+| [A Swingin' Safari](https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [A Swingin' Safari](https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu) | 2:15 | 2020-12-08 | 2022-12-28 |
 | [Adam's Hotel](https://open.spotify.com/track/0GrK0zmk5ZEANi9HOl07y4) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:32 | 2020-12-08 | 2022-07-29 |
 | [Adam's Hotel](https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [First Cuckoo](https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz) | 3:39 | 2020-12-08 |  |
 | [Africa \(L'été Indien\)](https://open.spotify.com/track/7qMoMK7EbYCoS8VgxWXvKA) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 Años Volumen 1](https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY) | 3:03 | 2020-12-08 |  |
@@ -85,7 +85,7 @@
 | [Imágenes](https://open.spotify.com/track/2qQN7AqqDvUYbpjR7zidQm) | [Johnny Days Orchestra](https://open.spotify.com/artist/6ddwnoAVajTGZa2ikrJqaY) | [Los Recuerdos Están Hechos de Esto Vol\. 1](https://open.spotify.com/album/5aQPUujM556YFCGjR4FPof) | 3:09 | 2020-12-08 |  |
 | [Java](https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Greatest Hits](https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB) | 1:56 | 2020-12-08 |  |
 | [Joy](https://open.spotify.com/track/09fMq1Nd85MfCVTvF4YOsx) | [Satellite Orchestra](https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw) | [Love Is All Around: Lite Pop of The '70s](https://open.spotify.com/album/5piCXoQpkvN5pM8QtVaSov) | 2:48 | 2020-12-08 |  |
-| [Kiss of Fire](https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:39 | 2020-12-08 |  |
+| [Kiss of Fire](https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:39 | 2020-12-08 | 2023-02-01 |
 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 | 2020-12-08 |  |
 | [La Paloma](https://open.spotify.com/track/6RkUeQHTyqeqnqIygrqnt7) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [La Paloma](https://open.spotify.com/album/3w3EoQYm9UT2sYwnu2Fbag) | 2:30 | 2020-12-08 | 2022-07-29 |
 | [La Paloma](https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [La Paloma](https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu) | 2:33 | 2020-12-08 |  |
@@ -108,7 +108,7 @@
 | [Lluvia De Primavera](https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 5:55 | 2020-12-08 | 2022-07-29 |
 | [Look For A Star](https://open.spotify.com/track/0e1rlLP4kTqs4f2JQqUAZ7) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:10 | 2020-12-08 | 2022-07-29 |
 | [Look For A Star](https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Look For A Star](https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj) | 2:12 | 2020-12-08 |  |
-| [Look for a Star](https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Look for a Star](https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0) | 2:15 | 2020-12-08 | 2022-11-13 |
+| [Look for a Star](https://open.spotify.com/track/3MDPMyycA17IoF6XaC4XIM) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Look for a Star](https://open.spotify.com/album/50Xmgxm7zIqyDuEbNCu6s0) | 2:15 | 2020-12-08 |  |
 | [Love In Every Room](https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:25 | 2020-12-08 |  |
 | [Love is Blue](https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Paul Mauriat\. Grandes Exitos](https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP) | 2:36 | 2020-12-08 |  |
 | [Love's Theme](https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [Rhapsody In White \(Reissue\)](https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc) | 4:06 | 2020-12-08 |  |
@@ -196,6 +196,7 @@
 | [Wheels](https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Orange Blossom Special And Wheels](https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0) | 2:08 | 2020-12-08 |  |
 | [Woodpecker Song](https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D) | [Tony Mottola y Su Orquesta](https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy) | [Tony Mottola y Su Orquesta](https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl) | 1:53 | 2020-12-08 |  |
 | [Yellow Bird](https://open.spotify.com/track/3KOC0porpfAeFFYuA4d73z) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/20MWtXQ8eH0hgOi8Sf7KyX) | 2:44 | 2020-12-08 | 2022-07-29 |
+| [Yellow Bird](https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP) | 2:44 | 2020-12-08 |  |
 | [Yellow Bird](https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [The Very Best of Arthur Lyman \(The Sensual Sounds of Exotica\)](https://open.spotify.com/album/67llfJEfIaI1LHh8thoTdo) | 2:45 | 2020-12-08 | 2022-11-18 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

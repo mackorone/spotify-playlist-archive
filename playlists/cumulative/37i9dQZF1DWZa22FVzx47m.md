@@ -4,7 +4,7 @@
 
 > Canciones te inspiran a ti y a todas las mamás.
 
-147 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/0w6qy4SJi5dmsrqM38MLcj)
+147 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Historia de Taxi](https://open.spotify.com/track/4qmXbnmZxZy9pavpf3YfP5) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 6:42 | 2021-12-07 |  |
 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 | 2021-12-07 |  |
 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 | 2021-12-07 | 2022-07-29 |
-| [Insoportablemente Bella](https://open.spotify.com/track/5OAGFH0ezPr3jXSfQbMUpJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5SLdkbTxNK4lMPtEhmU3Jw) | 3:38 | 2022-05-09 | 2022-11-14 |
+| [Insoportablemente Bella](https://open.spotify.com/track/5OAGFH0ezPr3jXSfQbMUpJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5SLdkbTxNK4lMPtEhmU3Jw) | 3:38 | 2022-05-09 |  |
 | [Inventame](https://open.spotify.com/track/5RJuWtHaZqnHRCVzk1z1uS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 3:29 | 2022-05-09 | 2022-07-29 |
 | [Invéntame](https://open.spotify.com/track/1nwdRwqxMlKl3c7Qh8KsrG) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:29 | 2022-05-09 |  |
 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 | 2021-12-07 |  |
@@ -85,7 +85,7 @@
 | [Mentiras](https://open.spotify.com/track/15Ua6Q1yeD6GHdf4J0Elws) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [30 Exitos Insuperables](https://open.spotify.com/album/33ZPVVNd1W4MaLloP1H2UC) | 3:56 | 2022-05-09 | 2022-08-09 |
 | [Mi error, mi fantasía](https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:48 | 2021-12-07 |  |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6fR2T8yJcoOygQddq4JbYB) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 3:43 | 2021-12-07 | 2022-07-29 |
-| [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 | 2022-05-09 |  |
+| [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 | 2022-05-09 | 2023-02-01 |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/72XS3NM7AzhMwwQR3ywppO) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso](https://open.spotify.com/album/0QgxtU7sWjE1EnkG7w6AAQ) | 5:10 | 2021-12-07 | 2022-07-29 |
 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \- 25th Anniversary Edition \(Remastered\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 | 2022-05-09 |  |
 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/5kTX2ULivqzptDKgIQlivY) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Canta con pasión](https://open.spotify.com/album/1dgcK9qmKNIRMybF573aWn) | 5:08 | 2022-05-09 | 2022-11-14 |

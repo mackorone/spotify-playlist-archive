@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Your favorite arias, performed by legendary opera divas.",
   "name": "Opera Divas",
-  "published_playlist_ids": [
-    "0JSjyO6pGv5itGZXaI5kGa"
-  ],
   "tracks": [
     {
       "album": {
@@ -115,7 +112,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 340200,
-      "name": "Bellini: Norma, Act 1: \"Casta diva\" (Norma, Chorus)",
+      "name": "Bellini: Norma, Act 1: \"Casta diva\" (Norma, Coro)",
       "url": "https://open.spotify.com/track/569mjluijFje19TIApu5Ws"
     },
     {
@@ -1465,8 +1462,8 @@
           "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
         },
         {
-          "name": "Dame Janet Baker",
-          "url": "https://open.spotify.com/artist/4ThA3BeHNucwqI7wKyKS8h"
+          "name": "Janet Baker",
+          "url": "https://open.spotify.com/artist/7rAA9SXeqCtCcf7jkcMcKQ"
         },
         {
           "name": "English Chamber Orchestra",

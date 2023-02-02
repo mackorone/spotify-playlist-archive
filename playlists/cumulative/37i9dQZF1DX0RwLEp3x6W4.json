@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems. Cover: Hazel Dickens & Alice Gerrard",
   "name": "Bluegrass Origins",
-  "published_playlist_ids": [
-    "07yp3lWFtNeOSgqePmPMKz"
-  ],
   "tracks": [
     {
       "album": {
@@ -500,6 +497,24 @@
     },
     {
       "album": {
+        "name": "The Stanley Brothers In Person",
+        "url": "https://open.spotify.com/album/0xMFn5gLOTDF70vZH9b2Kz"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Brothers",
+          "url": "https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD"
+        }
+      ],
+      "date_added": "2018-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124640,
+      "name": "How Mountain Girls Can Love",
+      "url": "https://open.spotify.com/track/6HoK2GX9eOU256CMrIUowb"
+    },
+    {
+      "album": {
         "name": "The Stanley Brothers And The Clinch Mountain Boys",
         "url": "https://open.spotify.com/album/4g3jAc1BMq3LCl0YuY6Asz"
       },
@@ -533,24 +548,6 @@
       "duration_ms": 128106,
       "name": "How Mountain Girls Can Love",
       "url": "https://open.spotify.com/track/5Q8WL1D8GwJThft1zogNQB"
-    },
-    {
-      "album": {
-        "name": "The Stanley Brothers In Person (Original Gusto Recordings)",
-        "url": "https://open.spotify.com/album/0xMFn5gLOTDF70vZH9b2Kz"
-      },
-      "artists": [
-        {
-          "name": "The Stanley Brothers",
-          "url": "https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD"
-        }
-      ],
-      "date_added": "2018-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 124640,
-      "name": "How Mountain Girls Can Love - Original Gusto Recordings",
-      "url": "https://open.spotify.com/track/6HoK2GX9eOU256CMrIUowb"
     },
     {
       "album": {
@@ -1528,7 +1525,7 @@
     },
     {
       "album": {
-        "name": "Sing Everybody's Country Favorites (Original Gusto Recordings)",
+        "name": "Sing Everybody's Country Favorites",
         "url": "https://open.spotify.com/album/7IjHhe8xyf2H4JLCqbOoLJ"
       },
       "artists": [
@@ -1541,7 +1538,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 143493,
-      "name": "Weepin' Willow - Original Gusto Recordings",
+      "name": "Weepin' Willow",
       "url": "https://open.spotify.com/track/6o8InB6SL9tpBW77B6JJcR"
     },
     {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is NOFX. The essential tracks, all in one playlist.",
   "name": "This Is NOFX",
-  "published_playlist_ids": [
-    "1vnCs1yYJOqwVP1hIqviIU"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 115426,
       "name": "13 Stitches",
       "url": "https://open.spotify.com/track/0Nc3hRP3VVWniBqHQtTjVY"
@@ -59,6 +56,24 @@
       "duration_ms": 216146,
       "name": "72 Hookers",
       "url": "https://open.spotify.com/track/7d70MVYrP46R4he4Zsvpzo"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147688,
+      "name": "Alcopollack",
+      "url": "https://open.spotify.com/track/26scu1sIFxV4g9O1Sg9fZn"
     },
     {
       "album": {
@@ -181,7 +196,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 125133,
       "name": "Cool and Unusual Punishment",
       "url": "https://open.spotify.com/track/3XIt5NVAgzUteXlfiUE6Yp"
@@ -217,10 +232,28 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 144878,
       "name": "Darby Crashing Your Party",
       "url": "https://open.spotify.com/track/2LpbBDD1Qrn8lGGi8B6BxW"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144878,
+      "name": "Darby Crashing Your Party",
+      "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
     },
     {
       "album": {
@@ -275,6 +308,24 @@
       "duration_ms": 153426,
       "name": "Don't Call Me White",
       "url": "https://open.spotify.com/track/0cntShbC3GmWXygfH98brk"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 259084,
+      "name": "Don't Count on Me",
+      "url": "https://open.spotify.com/track/319N7QUdPMVS1WemoPEZfF"
     },
     {
       "album": {
@@ -350,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142596,
+      "name": "Fuck Day Six",
+      "url": "https://open.spotify.com/track/12wDhK0tBvsvj3mvmJB6OR"
+    },
+    {
+      "album": {
         "name": "Single Album",
         "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
       },
@@ -415,7 +484,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 156746,
       "name": "I Am an Alcoholic",
       "url": "https://open.spotify.com/track/2IFrfL2yAlMpGodYe26e0M"
@@ -494,6 +563,42 @@
     },
     {
       "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34826,
+      "name": "Instant Crassic",
+      "url": "https://open.spotify.com/track/6VS4sE4kaGhZ9MMb52gwo2"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138575,
+      "name": "Is It Too Soon If Time is Relative?",
+      "url": "https://open.spotify.com/track/0q3BQGKPYPvZyJVhzE0gIh"
+    },
+    {
+      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -509,6 +614,24 @@
       "duration_ms": 80800,
       "name": "It's My Job To Keep Punk Rock Elite",
       "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78633,
+      "name": "Johanna Constant Teen",
+      "url": "https://open.spotify.com/track/2OhLCVl0dNAo3qhtnXofo1"
     },
     {
       "album": {
@@ -599,7 +722,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 199781,
       "name": "Linewleum (feat. Avenged Sevenfold)",
       "url": "https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi"
@@ -714,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154106,
+      "name": "My Favorite Enemy",
+      "url": "https://open.spotify.com/track/6pPQKiJ4UWzgNeTmJlo4dU"
+    },
+    {
+      "album": {
         "name": "First Ditch Effort",
         "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
       },
@@ -725,7 +866,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 236026,
       "name": "Oxy Moronic",
       "url": "https://open.spotify.com/track/05kF2zJNlMyHGt6E0Adkn9"
@@ -797,7 +938,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 202447,
       "name": "Punk Rock Clich\u00e9",
       "url": "https://open.spotify.com/track/4s0DdV6CwjzFaZuIVKuj9x"
@@ -941,7 +1082,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 145466,
       "name": "Take Two Placebos And Call Me Lame",
       "url": "https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh"
@@ -1049,7 +1190,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 152066,
       "name": "The Irrationality of Rationality",
       "url": "https://open.spotify.com/track/7c4YrSBb9GYKWn4XSPl6kj"
@@ -1146,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 148939,
+      "name": "Three Against Me",
+      "url": "https://open.spotify.com/track/7bjNdKxPeW9ykYmhSvUxJW"
+    },
+    {
+      "album": {
         "name": "Ribbed",
         "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
       },
@@ -1229,7 +1388,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 164226,
       "name": "We Threw Gasoline.......",
       "url": "https://open.spotify.com/track/5DLHSd1oWuutQW60XrPHAP"

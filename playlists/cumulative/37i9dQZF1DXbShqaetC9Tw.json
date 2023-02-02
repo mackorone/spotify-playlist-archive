@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
   "name": "4:00 AM GROOVE",
-  "published_playlist_ids": [
-    "7hAGoFxP75Hq4uhkZnOFeo"
-  ],
   "tracks": [
     {
       "album": {
@@ -117,7 +114,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 212627,
       "name": "Abandoned Dog",
       "url": "https://open.spotify.com/track/4SSRoJFSJ9zqM3uDDGkPEp"
@@ -367,10 +364,28 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 159386,
       "name": "Black & White Film (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+    },
+    {
+      "album": {
+        "name": "Mondegreen",
+        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
     },
     {
       "album": {
@@ -461,7 +476,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 233958,
       "name": "boy",
       "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
@@ -576,6 +591,28 @@
     },
     {
       "album": {
+        "name": "Bind",
+        "url": "https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 199160,
+      "name": "Chain (Feat. Claire Hau)",
+      "url": "https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7"
+    },
+    {
+      "album": {
         "name": "MaRz&B",
         "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
       },
@@ -587,7 +624,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 185169,
       "name": "Chrome Hearts",
       "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
@@ -740,6 +777,28 @@
     },
     {
       "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "Die For You (feat. Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2"
+    },
+    {
+      "album": {
         "name": "Do Not Want To Do It",
         "url": "https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95"
       },
@@ -787,7 +846,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 183296,
       "name": "Don't Be Blue",
       "url": "https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5"
@@ -867,7 +926,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 254198,
       "name": "DRUNK TALK (feat. sogumm)",
       "url": "https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9"
@@ -889,7 +948,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": "2023-02-01",
       "duration_ms": 165106,
       "name": "EASY (feat. ELO)",
       "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
@@ -1133,7 +1192,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 239960,
       "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
@@ -1637,7 +1696,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 202120,
       "name": "Love is alone",
       "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
@@ -1717,7 +1776,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 197550,
       "name": "m o v i e (Feat. Jade)",
       "url": "https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ"
@@ -1825,7 +1884,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 223141,
       "name": "Moon, 12:04am",
       "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
@@ -2472,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Sinking Islands",
+        "url": "https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED"
+      },
+      "artists": [
+        {
+          "name": "Sinso",
+          "url": "https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 200440,
+      "name": "Sinking Islands",
+      "url": "https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2"
+    },
+    {
+      "album": {
         "name": "02",
         "url": "https://open.spotify.com/album/6y0S37CZTxlpZbch0BQ9SY"
       },
@@ -2527,6 +2604,24 @@
       "duration_ms": 147607,
       "name": "Sorry That I Love You Still",
       "url": "https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL"
+    },
+    {
+      "album": {
+        "name": "Space science",
+        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233170,
+      "name": "Space science",
+      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
     },
     {
       "album": {
@@ -2690,6 +2785,28 @@
     },
     {
       "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
+    },
+    {
+      "album": {
         "name": "MOON AND BACK",
         "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
@@ -2809,7 +2926,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 226499,
       "name": "U",
       "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
@@ -2849,7 +2966,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-02",
       "duration_ms": 186114,
       "name": "Unreachable (Feat. Milena)",
       "url": "https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu"
@@ -3065,6 +3182,24 @@
       "duration_ms": 181653,
       "name": "When The Rain Stops",
       "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"
+    },
+    {
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "album": {

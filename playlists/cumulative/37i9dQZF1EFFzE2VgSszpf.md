@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Qo1l3s9YqHwoM1udvQbsr">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-41 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/1w0SMgXeEiZnBzt44KT9oN)
+42 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Dear Gina](https://open.spotify.com/track/3GoL5HaRpCMpVrJhP1akfh) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Dear Gina](https://open.spotify.com/album/5eCcHgXBq66ckMzetu0VfJ) | 3:12 | 2022-08-11 |  |
 | [Delphine](https://open.spotify.com/track/2ZCKfrVy8qg6Y48KyKkN94) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 5:54 | 2022-05-25 |  |
 | [Fairweather Friend](https://open.spotify.com/track/3AI7nypBvF77O5kksonneA) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 4:01 | 2022-05-25 |  |
-| [For You](https://open.spotify.com/track/1FF6Bb7hgRQWDEmn9iWQix) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You](https://open.spotify.com/album/0KcVrNao4EAsglSr9EZOLz) | 2:39 | 2022-05-25 |  |
+| [For You](https://open.spotify.com/track/1FF6Bb7hgRQWDEmn9iWQix) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You](https://open.spotify.com/album/0KcVrNao4EAsglSr9EZOLz) | 2:39 | 2022-05-25 | 2023-01-01 |
+| [For You \- Many Selves Version](https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You \(Many Selves Version\)](https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir) | 3:41 | 2022-12-31 |  |
 | [Gramma Honey](https://open.spotify.com/track/5exkK5oQ55glpwY7T6BMGg) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 4:24 | 2022-05-25 |  |
 | [Headlow \(feat\. Norelle\)](https://open.spotify.com/track/0L38hbPRV0C4x6CH7WZe1W) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Norelle](https://open.spotify.com/artist/5B08rGb3FZKEEhNdsyQV8T) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 4:10 | 2022-05-25 |  |
 | [Honeycomb](https://open.spotify.com/track/72Q94I0gbEuHDYwLxW1Tbg) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 3:47 | 2022-05-25 |  |

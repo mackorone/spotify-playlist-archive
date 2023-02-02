@@ -4,7 +4,7 @@
 
 > Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
 
-117 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3w6EKs1xpDEvjIzzOzbqdF)
+117 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

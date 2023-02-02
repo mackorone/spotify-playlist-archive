@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf?si=7GfavyvfTIKTXvIxKrVFyw">Kawahi Leonard</a>
 
-48 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/1Ww4CWRLxG0tggwmYmX0By)
+48 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

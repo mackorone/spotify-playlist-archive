@@ -4,7 +4,7 @@
 
 > Definitive career highlights from Britney Jean Spears.
 
-46 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/6HsOAtevUX5gifftKsp3YV)
+46 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

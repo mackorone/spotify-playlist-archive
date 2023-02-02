@@ -4,14 +4,16 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-97 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
+99 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [all the way over](https://open.spotify.com/track/4kFoTDLdg7VjMPjWLdmqaC) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [All the Way Over](https://open.spotify.com/album/50ZpYz9MN9r17I9mMhC1d6) | 2:32 | 2022-05-29 |  |
 | [almost](https://open.spotify.com/track/2TqAXfEi2xxvKAd2fCARUL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [almost](https://open.spotify.com/album/567ogrtJ5uGutnemapW5xO) | 2:51 | 2022-05-29 |  |
-| [Autopilot](https://open.spotify.com/track/0UvNdJWO4jRxAHi8pAv20Z) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Sim City](https://open.spotify.com/album/54wLYwAvsp61uxv4ciwYOZ) | 3:15 | 2022-08-28 |  |
+| [Autopilot](https://open.spotify.com/track/0UvNdJWO4jRxAHi8pAv20Z) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Sim City](https://open.spotify.com/album/54wLYwAvsp61uxv4ciwYOZ) | 3:15 | 2022-08-28 | 2023-01-13 |
+| [Autopilot](https://open.spotify.com/track/3KDqlDpIkoomdyTi64ESkt) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Sim City](https://open.spotify.com/album/1Cy4HnbLIBPwwpuC64erDU) | 3:15 | 2023-01-13 |  |
 | [Autopilot](https://open.spotify.com/track/4CF3Z1OmJLwSIqt3l8tdsR) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Autopilot](https://open.spotify.com/album/1Fj4667loGqnXZmuV8Ky5E) | 3:15 | 2022-05-29 | 2022-08-29 |
+| [Autopilot](https://open.spotify.com/track/4tRvyaqPI8pQcgYU2nME2j) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Autopilot](https://open.spotify.com/album/2x1jY9sBbkgEvKOZZN6K95) | 3:15 | 2023-01-12 | 2023-01-14 |
 | [Being Good Is Boring](https://open.spotify.com/track/6UXWq2vWpHeTZlMIFyEWIn) | [Jena Rose](https://open.spotify.com/artist/05cgS2xJt75RhmFWgpgfE7) | [Being Good Is Boring](https://open.spotify.com/album/6asqvl3ZX2moMrkpowonUr) | 2:40 | 2022-11-02 |  |
 | [Bipolar](https://open.spotify.com/track/1stlDAnoUlxaMaR1CIPn5f) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/13lsx3HiueZWyN5wSSNDEL) | 2:36 | 2022-05-29 | 2022-10-14 |
 | [Bipolar](https://open.spotify.com/track/7yzWKViihM9g9ISBmX7ypy) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/0d0EAuRcevYRKmeyNGQfig) | 2:36 | 2022-10-13 |  |

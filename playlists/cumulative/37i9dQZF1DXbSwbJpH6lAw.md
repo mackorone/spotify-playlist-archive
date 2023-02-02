@@ -4,7 +4,7 @@
 
 > The most exciting new Latin artists and tracks, handpicked by our curators featuring Chavi Leons.
 
-48 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/0A4PWVsKLtJ5kcTgNrliz4)
+48 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

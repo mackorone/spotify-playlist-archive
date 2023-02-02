@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A bailar con la mejor cumbia sudamericana. Foto: Sergio Dalma & La K'onga.",
+  "description": "A bailar con la mejor cumbia sudamericana. ",
   "name": "Esto es Cumbia",
-  "published_playlist_ids": [
-    "2BOWiJCT4dyOyema50dxx0"
-  ],
   "tracks": [
     {
       "album": {
@@ -103,6 +100,24 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "album": {
+        "name": "Desafi\u00e1ndolo Todo",
+        "url": "https://open.spotify.com/album/0QmzFxlI2t9WhPaOS9jRLK"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 184789,
+      "name": "Amor De Historia",
+      "url": "https://open.spotify.com/track/0kGBEJOC4g79SYaQ65WF2r"
     },
     {
       "album": {
@@ -392,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Costumbres (Vivo)",
+        "url": "https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133077,
+      "name": "Costumbres - Vivo",
+      "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
+    },
+    {
+      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -450,6 +487,46 @@
     },
     {
       "album": {
+        "name": "Cumbia Cumbia Cumbia",
+        "url": "https://open.spotify.com/album/6upbBKdqb1xtf5OhVZA8Bw"
+      },
+      "artists": [
+        {
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 165692,
+      "name": "Cumbia Cumbia Cumbia",
+      "url": "https://open.spotify.com/track/6TGMcOJ33TcHL3rAJuREMp"
+    },
+    {
+      "album": {
+        "name": "Cumbia Despechada",
+        "url": "https://open.spotify.com/album/6LW0dk5JXVmNLHOCIzoim2"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164590,
+      "name": "Cumbia Despechada (feat. Gino Mella)",
+      "url": "https://open.spotify.com/track/0i38plpKu7S0NCIh8PfcFM"
+    },
+    {
+      "album": {
         "name": "Cumbia Vieja",
         "url": "https://open.spotify.com/album/0M0ITbLB8ipsQOjw7Qkz3o"
       },
@@ -469,6 +546,24 @@
       "duration_ms": 165661,
       "name": "Cumbia Vieja",
       "url": "https://open.spotify.com/track/2rzFgjG5cRCTsQ83cKdmJK"
+    },
+    {
+      "album": {
+        "name": "CUMBIA, CUMBIA, CUMBIA",
+        "url": "https://open.spotify.com/album/6xfbKv5OeSyeGxh12mGkHb"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171526,
+      "name": "CUMBIA, CUMBIA, CUMBIA",
+      "url": "https://open.spotify.com/track/3suelWfLweuFrb1Fbgsg94"
     },
     {
       "album": {
@@ -505,10 +600,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 190138,
       "name": "C\u00f3mo le Gusta",
       "url": "https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr"
+    },
+    {
+      "album": {
+        "name": "En La Cima",
+        "url": "https://open.spotify.com/album/7grjj6Q3ZmcOEjeu0veFi9"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264900,
+      "name": "C\u00f3mo No Amarte",
+      "url": "https://open.spotify.com/track/3I7RZ8jbuzNTLTFal2kEbb"
     },
     {
       "album": {
@@ -549,7 +662,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 187393,
       "name": "De Amor Voy a Morirme",
       "url": "https://open.spotify.com/track/4E6Exumf6rVckB5Wz7dRgf"
@@ -589,7 +702,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 208040,
       "name": "Deber\u00eda Odiarte",
       "url": "https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N"
@@ -619,6 +732,24 @@
       "duration_ms": 186932,
       "name": "Duetos De Etiqueta #1 - Roto Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1yKxctyjh6CdDmJd9LaRNb"
+    },
+    {
+      "album": {
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202440,
+      "name": "D\u00edganle",
+      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
     },
     {
       "album": {
@@ -717,7 +848,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 193826,
       "name": "EL Gil De Tu Ex",
       "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
@@ -1156,7 +1287,7 @@
     },
     {
       "album": {
-        "name": "Fues Solo Piel",
+        "name": "Fue Solo Piel",
         "url": "https://open.spotify.com/album/4O8LVFTp9vwoQystHNX5Lr"
       },
       "artists": [
@@ -1177,7 +1308,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159034,
-      "name": "Fues Solo Piel",
+      "name": "Fue Solo Piel",
       "url": "https://open.spotify.com/track/1wGlvLMghlLuI0JS0CcpDF"
     },
     {
@@ -1313,7 +1444,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 177435,
       "name": "La Barca (feat. Kapanga)",
       "url": "https://open.spotify.com/track/5sXwOkjF8KDJLSJU2SbPf9"
@@ -1575,7 +1706,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 228125,
       "name": "Lagrimas de Amor",
       "url": "https://open.spotify.com/track/6E2LReyKXcrLp1TUBGv4ss"
@@ -1709,7 +1840,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 238024,
       "name": "Luna de Miel en la Mano",
       "url": "https://open.spotify.com/track/2rN1lAxfRGk4ZPzo1yIXc4"
@@ -1953,7 +2084,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 217300,
       "name": "Mi Medicina",
       "url": "https://open.spotify.com/track/7FBl6M4ILoDTR4A1dSv1eu"
@@ -1997,6 +2128,28 @@
       "duration_ms": 254200,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/6aiOkKVEe8Mo0O3ycrrn7z"
+    },
+    {
+      "album": {
+        "name": "Mi\u00e9ntele",
+        "url": "https://open.spotify.com/album/19bRhdXZxkPguLaPn1wNgH"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        },
+        {
+          "name": "Noche de Brujas",
+          "url": "https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201990,
+      "name": "Mi\u00e9ntele",
+      "url": "https://open.spotify.com/track/0qQpyfF18XUNMtgkTpVC6A"
     },
     {
       "album": {
@@ -2131,7 +2284,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 225906,
       "name": "No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/5nTMWn5tDrRJuWyObIS2nM"
@@ -2387,7 +2540,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 237925,
       "name": "Para Que",
       "url": "https://open.spotify.com/track/49DzDxHRQqbA7GpHjO6wIX"
@@ -2522,6 +2675,24 @@
     },
     {
       "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "album": {
         "name": "Que Nadie Sepa Mi Sufrir",
         "url": "https://open.spotify.com/album/1t9cf3yWQcLKtBZT1s1DvY"
       },
@@ -2588,6 +2759,28 @@
     },
     {
       "album": {
+        "name": "Que Tiene la Noche",
+        "url": "https://open.spotify.com/album/61z2zm2d248rCOaPppWrd5"
+      },
+      "artists": [
+        {
+          "name": "Chacho Ramos",
+          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
+        },
+        {
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 206118,
+      "name": "Que Tiene la Noche",
+      "url": "https://open.spotify.com/track/0ZY0V2lkqbxDxq3Ys0AU1U"
+    },
+    {
+      "album": {
         "name": "Quedate",
         "url": "https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91"
       },
@@ -2599,7 +2792,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 208000,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD"
@@ -2621,6 +2814,24 @@
       "duration_ms": 176509,
       "name": "Quieres Ser Mi Amante",
       "url": "https://open.spotify.com/track/6ZIHXMuIfggpBH9vhpTusl"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Iron\u00eda",
+        "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267445,
+      "name": "Qu\u00e9 Iron\u00eda",
+      "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
     },
     {
       "album": {
@@ -2888,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Siento",
+        "url": "https://open.spotify.com/album/26oBWM1k8dNJgcB89m5xnw"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/6P3P2GtNiCCIZrXEb9INcw"
+    },
+    {
+      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -3131,10 +3360,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 241461,
       "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
       "url": "https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft"
+    },
+    {
+      "album": {
+        "name": "Tu Marca",
+        "url": "https://open.spotify.com/album/7eAmdtMfLjpeRoam6fzHVc"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210236,
+      "name": "Tu Marca",
+      "url": "https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH"
     },
     {
       "album": {
@@ -3174,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
+    },
+    {
+      "album": {
         "name": "Mi Unico Amor",
         "url": "https://open.spotify.com/album/1PgEY4CHlURqdIO5lru0Fv"
       },
@@ -3203,7 +3472,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 214264,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8"
@@ -3286,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Ven, Ven",
+        "url": "https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Ven, Ven",
+      "url": "https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9"
+    },
+    {
+      "album": {
         "name": "Vengo de la Casa de Ella",
         "url": "https://open.spotify.com/album/5mXCFeMvjfsM7TyI8zvjIU"
       },
@@ -3323,6 +3610,24 @@
       "duration_ms": 211703,
       "name": "Vivir Asi Es Morir de Amor",
       "url": "https://open.spotify.com/track/0ywBGfsIHLkTxZcv6jCGha"
+    },
+    {
+      "album": {
+        "name": "Voy a Olvidarme de Mi / Y Tu Te Vas",
+        "url": "https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243606,
+      "name": "Voy a Olvidarme de Mi / Y Tu Te Vas",
+      "url": "https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd"
     },
     {
       "album": {

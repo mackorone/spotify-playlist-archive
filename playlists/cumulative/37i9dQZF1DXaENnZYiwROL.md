@@ -4,7 +4,7 @@
 
 > Enjoy the OSTs of Disney+'s   original drama "Rookie Cops" along with Spotify\-exclusive audio content\. \(디즈니+의 오리지널 드라마 "너와 나의 경찰수업"의 OST들을 스포티파이 독점 오디오 컨텐츠와 함께 감상해보세요.\)
 
-61 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/09A1n5VpLHLCDn2vYDc2Bg)
+61 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

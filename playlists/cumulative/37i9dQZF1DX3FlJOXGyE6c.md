@@ -4,7 +4,7 @@
 
 > The world of”TOUKEN RANBU”! PCブラウザ・スマホアプリゲーム「刀剣乱舞\-ONLINE\-」。<br/>Musical、Animation、Movieと広がる革命的な世界を彩る楽曲を一つのプレイリストで！ \(C\)2015 EXNOA LLC/Nitroplus
 
-141 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/6HaTnVGwkJHAEnP0EVN0C8)
+143 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,8 @@
 | [Secret Sign](https://open.spotify.com/track/5g4BjF3wWollvYgBbBqpjN) | [刀剣男士 team幕末](https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j), [巴形薙刀](https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9) | [Kessennotoki \(Type A\)](https://open.spotify.com/album/3DJ6Xymo5YX21KhgUUPCQz) | 3:47 | 2022-10-18 | 2022-11-14 |
 | [Secret Sign](https://open.spotify.com/track/0l9zbev6rrCKYtpkH9Mb6F) | [刀剣男士 team幕末](https://open.spotify.com/artist/4FttI7cug3Wy4PypxRlzAJ), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j), [巴形薙刀](https://open.spotify.com/artist/5N4aj24S99kbABau4WMBC9) | [ミュージカル『刀剣乱舞』 \~結びの響、始まりの音\~\(通常盤\)](https://open.spotify.com/album/4gcs0PuKztB2NOFwZi0Vs4) | 3:48 | 2022-07-27 |  |
 | [Seijyaku no toushi](https://open.spotify.com/track/5dCoFY7jxKLVAlIoQoZnuY) | [刀剣男士 髭切膝丸](https://open.spotify.com/artist/0UAh5oJzG94gxvfG2BqfAR), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Seijyaku no toushi \(Type A\)](https://open.spotify.com/album/0rQgGcNC5ms057zlU2PYzT) | 3:53 | 2022-07-27 |  |
+| [STARTING NOW song by kotegirigou・buzengou・kuwanagou・matsuigou・samidaregou・murakumogou](https://open.spotify.com/track/6pxEcZlAtLd1Zv66GRoaHO) | [刀剣男士 formation of 江 おん すていじ](https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [STARTING NOW song by kotegirigou・buzengou・kuwanagou・matsuigou・samidaregou・murakumogou](https://open.spotify.com/album/46qBqMPBjvzFQpjkYgtRdZ) | 4:08 | 2022-12-06 |  |
+| [STARTING NOW song by 篭手切江・豊前江・桑名江・松井江・五月雨江・村雲江](https://open.spotify.com/track/5kkOIi2OvVoAvJj8dC19N1) | [刀剣男士 formation of 江 おん すていじ](https://open.spotify.com/artist/1lq3w1r2KYlkNwkKZeKI80), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [STARTING NOW song by 篭手切江・豊前江・桑名江・松井江・五月雨江・村雲江](https://open.spotify.com/album/6cukVb2S7Xe9GSEPDYjEmx) | 4:08 | 2022-12-06 | 2022-12-08 |
 | [Stay with me](https://open.spotify.com/track/4QA5AWRV4vK0WL5Ogctmhb) | [刀剣男士 formation of 三百年](https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu:The Musical \-Mihotose no Komoriuta\- Tsuujouban](https://open.spotify.com/album/02uVYZOHTptpd6Xd6IpqyL) | 3:17 | 2022-07-27 |  |
 | [Stay with me](https://open.spotify.com/track/5R4AKXqfS1pRzAAtD9tLOb) | [刀剣男士 formation of 三百年](https://open.spotify.com/artist/6BIwdkBSqLqPjuFzMoTUmE), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [ミュージカル『刀剣乱舞』 \~三百年の子守唄2019\~ \(通常盤\)](https://open.spotify.com/album/6YFckZPiDHWcNWDoxYg6yS) | 3:17 | 2022-05-24 | 2022-07-29 |
 | [Supernova song by Matsuigou](https://open.spotify.com/track/0sOfc5BMWCWRx9FE0WW68l) | [刀剣男士 formation of パライソ](https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu:The Musical \-Shizuka no Umi no Paraíso\- \(Tsuujouban\)](https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X) | 4:08 | 2022-07-27 |  |

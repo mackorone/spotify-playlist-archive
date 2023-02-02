@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-155 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/5MXcZPGditWvob2cP9fj5u)
+156 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Yukei Yesterday](https://open.spotify.com/track/23fiEpw0tVpRdu7z5zyvoc) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Mekakucity M's 1 \~Mekakucity Actors Vocal & Sound Collection\~](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 4:17 | 2022-05-31 |  |
 | [“PROPAGANDA”](https://open.spotify.com/track/2hL9qcl5YTrPwfjfAUIUy0) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 3:21 | 2022-05-31 | 2022-07-29 |
 | [“PROPAGANDA”](https://open.spotify.com/track/5XAmuo3yRsBwd1EqkFkeTE) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/03dTdtI7lVRiD2D3D9R4Be) | 3:21 | 2022-05-31 |  |
+| [「LANDER」Music + Talk](https://open.spotify.com/episode/7oZJU1kgbLgBLyqS4pdFz8) | [LiSAのMusic + Talk](https://open.spotify.com/show/7gouDykZ9S35L1D6Q90cDa) | [LiSAのMusic + Talk](https://open.spotify.com/show/7gouDykZ9S35L1D6Q90cDa) | 12:19 | 2022-11-18 | 2023-01-18 |
 | [た、い、せ、つ Pile up](https://open.spotify.com/track/6w43lhKdOEFvom2GMFte9D) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:12 | 2022-05-31 |  |
 | [だってアタシのヒーロー。](https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [だってアタシのヒーロー。](https://open.spotify.com/album/6RIrlLnU6kxuBnYXQVg25m) | 3:54 | 2022-05-31 |  |
 | [だってアタシのヒーロー。](https://open.spotify.com/track/206lhvdpsMEDyi7B5YMM2g) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/7rI369xJLe8CrWiIDiHKhZ) | 3:54 | 2022-05-31 | 2022-07-29 |

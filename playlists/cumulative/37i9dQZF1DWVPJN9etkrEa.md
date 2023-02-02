@@ -4,7 +4,7 @@
 
 > Welcome to Paradise, Green Day fans!
 
-50 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/18dHfDIBkKxchgAqDhRKHN)
+50 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

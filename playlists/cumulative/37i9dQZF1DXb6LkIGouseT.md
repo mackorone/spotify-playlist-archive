@@ -4,7 +4,7 @@
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-90 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/2YuyGqS2qv274A4WR1Hchl)
+90 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

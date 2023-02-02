@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Check your vibe with Epic Records.",
   "name": "EPIC VIBES",
-  "published_playlist_ids": [
-    "6P9X9MwCBeNsFzdG2NDQp3"
-  ],
   "tracks": [
     {
       "album": {
@@ -194,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Baby Don't Cry (feat. Young Thug)",
+        "url": "https://open.spotify.com/album/4KeMatc07ZBH1Z2kGEDVZ1"
+      },
+      "artists": [
+        {
+          "name": "Philmon Lee",
+          "url": "https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184350,
+      "name": "Baby Don't Cry (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/08S37oejetoPevVixK6iXN"
+    },
+    {
+      "album": {
         "name": "Baccwood",
         "url": "https://open.spotify.com/album/6XC3qtcbgl4Lq25cCAtw94"
       },
@@ -356,6 +375,42 @@
     },
     {
       "album": {
+        "name": "Been Thinking",
+        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187275,
+      "name": "Been Thinking",
+      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
+    },
+    {
+      "album": {
+        "name": "Big Payment",
+        "url": "https://open.spotify.com/album/0HWRp4KD4U8k3C6p8E0edk"
+      },
+      "artists": [
+        {
+          "name": "AAP Deno",
+          "url": "https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141272,
+      "name": "Big Payment",
+      "url": "https://open.spotify.com/track/55ZFgWnBbvzPQNwlIczIx0"
+    },
+    {
+      "album": {
         "name": "Blessings (feat. Chronixx)",
         "url": "https://open.spotify.com/album/59eVgCnvJgjlEX4vLiOSHm"
       },
@@ -437,6 +492,24 @@
       "duration_ms": 185753,
       "name": "Came In the Scene",
       "url": "https://open.spotify.com/track/4SkIdCA9Vp7XXSAlYGtohn"
+    },
+    {
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
     },
     {
       "album": {
@@ -593,7 +666,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 217406,
       "name": "Damn (feat. G Herbo)",
       "url": "https://open.spotify.com/track/7Dy1LrsEmooLc39o5bSk7k"
@@ -961,7 +1034,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 195555,
       "name": "FAR AWAY",
       "url": "https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT"
@@ -1247,7 +1320,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 174794,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
@@ -1436,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "KEEP IT",
+        "url": "https://open.spotify.com/album/4EgIKM2NooqnRLP4W9p1Q1"
+      },
+      "artists": [
+        {
+          "name": "Kid Culture",
+          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140973,
+      "name": "KEEP IT",
+      "url": "https://open.spotify.com/track/2WUoFcxvDYAsjKKI3pKWa5"
+    },
+    {
+      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/4tIie3hbiCsMqXyQNZwpAj"
       },
@@ -1621,10 +1712,32 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "album": {
+        "name": "Made You Look (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/41NpvqeMM2xxTI7GQZskg7"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147497,
+      "name": "Made You Look (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3EdDaqA9IkOwD8rcRyK60b"
     },
     {
       "album": {
@@ -1789,7 +1902,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 235200,
       "name": "New York (feat. A Boogie Wit Da Hoodie & Jadakiss)",
       "url": "https://open.spotify.com/track/1HVVrtjLvEQx8oinUYI5Nv"
@@ -1957,6 +2070,24 @@
       "duration_ms": 164865,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0bPjOJdD1OV1x3ihKbJMBS"
+    },
+    {
+      "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117543,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4"
     },
     {
       "album": {
@@ -2286,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "COUNTRY TRAP (Deluxe)",
+        "url": "https://open.spotify.com/album/4D7i0c1SBoA57fyLmLhm8z"
+      },
+      "artists": [
+        {
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164623,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/622rPa30mcqorsXgird1ky"
+    },
+    {
+      "album": {
         "name": "In My Projects",
         "url": "https://open.spotify.com/album/3E5dBHBjnIdXovdZbcoGay"
       },
@@ -2541,10 +2690,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 166874,
       "name": "The Best Is Yet to Come",
       "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
+    },
+    {
+      "album": {
+        "name": "THE GOV'T GAVE US GUNS",
+        "url": "https://open.spotify.com/album/5o0qJK6COqONoWG7FtTeHW"
+      },
+      "artists": [
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116794,
+      "name": "THE GOV'T GAVE US GUNS",
+      "url": "https://open.spotify.com/track/3gfeujZDkVn104FOyT3FB3"
     },
     {
       "album": {
@@ -2613,7 +2780,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 176283,
       "name": "To Last",
       "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
@@ -2841,7 +3008,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 163187,
       "name": "Wishin (feat. B-Lovee)",
       "url": "https://open.spotify.com/track/4brjhS8jM6awvONNexpSG0"
@@ -2859,7 +3026,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 128951,
       "name": "Woo Nina",
       "url": "https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi"

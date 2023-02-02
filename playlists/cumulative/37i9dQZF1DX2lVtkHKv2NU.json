@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-01-13",
   "description": "me gustas mucho. <3 I've got a crush on you.",
   "name": "internet crush",
-  "published_playlist_ids": [
-    "7Dlnu3nNcANSk5rTKI5dUS"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
+    },
     {
       "album": {
         "name": "abcdefu",
@@ -544,6 +559,32 @@
     },
     {
       "album": {
+        "name": "Vente Cari\u00f1a",
+        "url": "https://open.spotify.com/album/3n4el3WQZsBA9mlzIdwWp3"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Remix",
+          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
+        },
+        {
+          "name": "Ni\u00f1a Dioz",
+          "url": "https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0"
+        },
+        {
+          "name": "El Licenciado",
+          "url": "https://open.spotify.com/artist/6OJ2DXPdpVl88gYuQkqzxY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133259,
+      "name": "Bellaka & Romantika",
+      "url": "https://open.spotify.com/track/3jY5L0b40kAQArQbTnay9c"
+    },
+    {
+      "album": {
         "name": "Bichota \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
@@ -563,6 +604,24 @@
       "duration_ms": 157666,
       "name": "Bichota - Spotify Singles",
       "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "album": {
@@ -649,7 +708,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 122772,
       "name": "Build a Bitch",
       "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
@@ -898,6 +957,24 @@
     },
     {
       "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "album": {
         "name": "Wiped Out!",
         "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
       },
@@ -909,7 +986,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
@@ -1046,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+    },
+    {
+      "album": {
         "name": "Devoto",
         "url": "https://open.spotify.com/album/417TYUiFFmZrHLGkTOTuJV"
       },
@@ -1079,7 +1174,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 173638,
       "name": "Doodoodoo",
       "url": "https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp"
@@ -1448,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -1729,7 +1842,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 187000,
       "name": "hey girl",
       "url": "https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw"
@@ -2292,6 +2405,28 @@
     },
     {
       "album": {
+        "name": "Marisol",
+        "url": "https://open.spotify.com/album/2EuAUwiVcfAFrVQaKmHFtJ"
+      },
+      "artists": [
+        {
+          "name": "Aquiles Moon",
+          "url": "https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4"
+        },
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 253500,
+      "name": "Marisol",
+      "url": "https://open.spotify.com/track/4iOe9PEYklFUXJMJAg7JDG"
+    },
+    {
+      "album": {
         "name": "Marlboro Nights",
         "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
       },
@@ -2586,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "album": {
         "name": "Oh, But Lover",
         "url": "https://open.spotify.com/album/6miGsq9L3Tnod0GAHzMXne"
       },
@@ -2651,6 +2804,10 @@
         {
           "name": "Paloma Faith",
           "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
         }
       ],
       "date_added": "2022-07-11",
@@ -2933,10 +3090,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
     },
     {
       "album": {
@@ -3157,7 +3332,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
@@ -3725,7 +3900,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 209721,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/7lgvGRC1gN0JGgY9VGXsQT"
@@ -3858,7 +4033,7 @@
     },
     {
       "album": {
-        "name": "WORTH NOTHING",
+        "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
       },
       "artists": [
@@ -3873,9 +4048,9 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 164629,
-      "name": "WORTH NOTHING",
+      "name": "WORTH NOTHING - Fast and Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {

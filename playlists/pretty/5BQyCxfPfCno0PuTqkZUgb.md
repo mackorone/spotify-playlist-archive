@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5BQyCxfPfCno0PuTqkZUgb.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,282 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,275 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/5BQyCxfPfCno0PuTqkZUgb.md) - [plain]
 | 16 | [Row, Row, Row Your Boat](https://open.spotify.com/track/3xh0W2HEfUNiYarHxyFcXi) | [Old Town School of Folk Music](https://open.spotify.com/artist/68xJjwAFcVSDmF9vTlnqi8) | [Songs for Wiggleworms](https://open.spotify.com/album/361VyP0uvGvbL8WdMnjAHt) | 1:18 |
 | 17 | [Ba Ba Black Sheep](https://open.spotify.com/track/6rqY8aewgPpg4ILN96vo3f) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Sing Along!](https://open.spotify.com/album/6tFVwNrOsPIeRYRfuvVfsy) | 2:07 |
 | 18 | [I've Been Working on the Railroad](https://open.spotify.com/track/7zLROKCX0LOiUQTqWqCurS) | [Susie Tallman](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) | [Children's Songs, A Collection of Childhood Favorites](https://open.spotify.com/album/2hpCXcI0vyikYLQpkpxEi8) | 2:49 |
-| 19 | [Part of Your World \- From "The Little Mermaid" / Soundtrack Version](https://open.spotify.com/track/5J4pDyvjRrYfcgHetKjKSj) | [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid](https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG) | 3:15 |
+| 19 | [Part of Your World \- From "The Little Mermaid" Soundtrack](https://open.spotify.com/track/5J4pDyvjRrYfcgHetKjKSj) | [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid](https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG) | 3:15 |
 | 20 | [Let It Go \- From "Frozen / Single Version](https://open.spotify.com/track/0bTnB8YDYijhQbSWwpQYDU) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:44 |
 | 21 | [The Hamster Dance Song](https://open.spotify.com/track/0t8vGVdJaU93uQYMNqViyf) | [Hampster Dance Masters](https://open.spotify.com/artist/3ZLMMHol7LDztLOrybTysw) | [The Hampster Dance........and Friends](https://open.spotify.com/album/3F2xfhgiMwtbLocLCSKOLB) | 3:29 |
 | 22 | [Hey, Diddle Diddle](https://open.spotify.com/track/6Lb0zfbzPXY7eu1uYSBObl) | [Baby Genius](https://open.spotify.com/artist/2HLk2BpKlxhSErbR7ywV5j) | [Favorite Nursery Rhymes](https://open.spotify.com/album/4C1cUt5ZPlob47Sqo1Byg0) | 1:55 |
 | 23 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/3BaEKTqmjehu2qMDcv4UGk) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego® Movie: Original Motion Picture Soundtrack](https://open.spotify.com/album/4dt9zkhCdk7AwpYDSlyVyW) | 2:43 |
-| 24 | [I Just Can't Wait to Be King \- From "The Lion King"/Soundtrack Version](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) | [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Rowan Atkinson](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE), [Laura Williams](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 2:50 |
+| 24 | [I Just Can't Wait to Be King \- From "The Lion King" Soundtrack](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) | [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Rowan Atkinson](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE), [Laura Williams](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 2:50 |
 | 25 | [When You Wish Upon A Star](https://open.spotify.com/track/2G6P7msbFcZL1jNSbWPv6k) | [Cliff Edwards](https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn) | [1940 Radio Hits](https://open.spotify.com/album/52i96f3mnLu92RgFaYnS9y) | 3:14 |
 
 Snapshot ID: `Niw3MWE3NDFkNmU3ZWMxMTJjMjUyYTQwNWVlMzM0MjBhZmM3OWMzYzg0`

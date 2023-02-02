@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-10",
   "description": "Tesoros musicales del ayer.",
   "name": "Viejitas pero Bonitas",
-  "published_playlist_ids": [
-    "1j70WbpeB1BVZqorFbKNd4"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 292101,
       "name": "Acariciame",
       "url": "https://open.spotify.com/track/2Cg1fj6jAMXc3F9sobVfaR"
@@ -793,7 +790,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-20",
       "duration_ms": 147000,
       "name": "El Despertar",
       "url": "https://open.spotify.com/track/1wxuVnIji16isok2ciclJb"
@@ -1175,7 +1172,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 213680,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
@@ -1636,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "La Gran Fiesta Formose\u00f1a",
+        "url": "https://open.spotify.com/album/0jKCSRoHto29EuooePa871"
+      },
+      "artists": [
+        {
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "Mi Coraz\u00f3n Llor\u00f3",
+      "url": "https://open.spotify.com/track/5FVBS2wgzQ66TTCeOSkmZq"
+    },
+    {
+      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -1817,7 +1832,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 178426,
       "name": "No",
       "url": "https://open.spotify.com/track/4b4YBpIEiGsSZ0Y7v8F8DG"
@@ -1853,7 +1868,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 158506,
       "name": "No Se Ha Dado Cuenta",
       "url": "https://open.spotify.com/track/3lzkOHkG5yH3xj40sY4nVI"
@@ -2037,7 +2052,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 156466,
       "name": "Payasito (Ponchinello) - Remasterizado",
       "url": "https://open.spotify.com/track/0V4iSCbu2ipf0eEj7S5lEV"
@@ -2055,7 +2070,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-02",
       "duration_ms": 196560,
       "name": "Penas",
       "url": "https://open.spotify.com/track/3xef9cUovCAdblrNkP1CRF"
@@ -2300,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "Qu\u00e9date Conmigo Esta Noche",
+      "url": "https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos Eternos",
         "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
       },
@@ -2401,7 +2434,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 227640,
       "name": "Rosas en el Mar",
       "url": "https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S"

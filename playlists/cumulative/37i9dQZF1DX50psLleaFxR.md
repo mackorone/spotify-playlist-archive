@@ -4,7 +4,7 @@
 
 > Brother/sister duo <a href="spotify:artist:4Siyzg8kWayQfPQsPSl6JI">Shermanology</a> bring their energy to a fun, house\-filled mix!
 
-12 songs - 56 min 40 sec - [published](https://open.spotify.com/playlist/7HGXYkAGQA8U8tBdXfywkE)
+12 songs - 56 min 40 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

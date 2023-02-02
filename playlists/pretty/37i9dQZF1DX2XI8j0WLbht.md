@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,219 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,473 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 29 | [La Pistola Y El Corazón](https://open.spotify.com/track/0y7nguDRPWfKZGIZPRCE5q) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Pistola Y El Corazon](https://open.spotify.com/album/30kfddnchGyZepcTfJuAyV) | 3:27 |
 | 30 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 |
 | 31 | [El Buscapiés](https://open.spotify.com/track/4OjiKHi02I3rc51cRHtCpu) | [Caña Dulce y Caña Brava](https://open.spotify.com/artist/1xWl5MF3h5pTSMhZoQGULm) | [Sones Jarochos](https://open.spotify.com/album/1xtnXTkQ11jvb7xIxDrvss) | 3:52 |
-| 32 | [En Tu Pelo](https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:03 |
+| 32 | [En Tu Pelo](https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:03 |
 | 33 | [Cucú](https://open.spotify.com/track/6Tzp2xOa46S6lXYjdLSi1w) | [Elo Vit](https://open.spotify.com/artist/71EoKKnv9Jt1lReEtV79Dy) | [Cucú](https://open.spotify.com/album/1EwOmA1xoNDX0SvCI5Tj2h) | 3:16 |
 | 34 | [La Morena](https://open.spotify.com/track/5JgPjwTuYjfh7LNXXzQY8I) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:37 |
 | 35 | [Zapata Se Queda](https://open.spotify.com/track/3JzRq89QAf4aLxpJWoDr8q) | [La Colmena](https://open.spotify.com/artist/16sUEYkZHZMNFXt7hUhh0x) | [Zapata Se Queda](https://open.spotify.com/album/4qH7TQH3z003P4yjM9P79I) | 4:09 |

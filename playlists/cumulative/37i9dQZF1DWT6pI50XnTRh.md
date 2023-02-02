@@ -4,7 +4,7 @@
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-85 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/4YKO46RxFLzyv2WBj8cBhs)
+85 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

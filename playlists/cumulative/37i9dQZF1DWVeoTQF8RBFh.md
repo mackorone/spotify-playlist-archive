@@ -4,7 +4,7 @@
 
 > Verne, Huxley, Wells..\. a classic collection of science fiction.
 
-197 songs - 1 day 22 hr 18 min - [published](https://open.spotify.com/playlist/5kqH2YqWQccsPT8UIREdqB)
+197 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

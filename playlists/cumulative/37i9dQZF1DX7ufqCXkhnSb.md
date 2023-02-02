@@ -4,7 +4,7 @@
 
 > Une collection des plus beaux poèmes de la langue française.
 
-46 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/7w5i7EnR4hCRSudXRiUPEJ)
+46 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

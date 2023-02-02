@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-12",
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
   "name": "This Is Tom Petty and the Heartbreakers",
-  "published_playlist_ids": [
-    "2OEGJje3L8zqnfk45R1OOV"
-  ],
   "tracks": [
     {
       "album": {
@@ -170,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Live at the Fillmore, 1997 (Deluxe)",
+        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 145562,
+      "name": "Around and Around - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/06gJghqapiJmslTudQoYQ7"
+    },
+    {
+      "album": {
         "name": "Angel Dream (Songs and Music From The Motion Picture \"She\u2019s The One\")",
         "url": "https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd"
       },
@@ -203,6 +218,24 @@
       "duration_ms": 163893,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
+    },
+    {
+      "album": {
+        "name": "Live at the Fillmore, 1997 (Deluxe)",
+        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172525,
+      "name": "Cabin Down Below - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/6y8vdzO1WoaMSYhpkWM9zU"
     },
     {
       "album": {
@@ -253,7 +286,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 215800,
       "name": "Casa Dega",
       "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
@@ -325,7 +358,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-11-28",
       "duration_ms": 220893,
       "name": "Dogs On The Run",
       "url": "https://open.spotify.com/track/4YbxoqB6YZlwOTRLC4ml7q"
@@ -451,7 +484,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 231946,
       "name": "For Real",
       "url": "https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx"
@@ -487,7 +520,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 341680,
       "name": "Friend of the Devil - Live",
       "url": "https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA"
@@ -523,10 +556,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 350733,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI"
+    },
+    {
+      "album": {
+        "name": "Live at the Fillmore, 1997 (Deluxe)",
+        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43891,
+      "name": "Good Evening - spoken interlude",
+      "url": "https://open.spotify.com/track/04iikZsVBLqYcmi9CUWGli"
     },
     {
       "album": {
@@ -610,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Concert For George (Live)",
+        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 180200,
+      "name": "I Need You - Live",
+      "url": "https://open.spotify.com/track/1GWJ40AkC8D4ifxoteXzZF"
+    },
+    {
+      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
@@ -639,10 +708,28 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 222436,
       "name": "I Won't Back Down - Live at the Fillmore, 1997",
       "url": "https://open.spotify.com/track/0IXin8XHw7ikscCycdCZwa"
+    },
+    {
+      "album": {
+        "name": "Live at the Fillmore, 1997 (Deluxe)",
+        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222436,
+      "name": "I Won't Back Down - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/6VI1XxF61Ny1Gb2m27XnaR"
     },
     {
       "album": {
@@ -740,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Live at the Fillmore, 1997 (Deluxe)",
+        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 261491,
+      "name": "Jammin' Me - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/5vHSRMboftjNdGoT19Ly59"
+    },
+    {
+      "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
@@ -812,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Live at the Fillmore, 1997 (Deluxe)",
+        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151441,
+      "name": "Lucille - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/0gYDOZuqFacAURzBIwjon3"
+    },
+    {
+      "album": {
         "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
         "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
@@ -881,7 +1004,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 237440,
       "name": "Nightwatchman",
       "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
@@ -1014,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "Live at the Fillmore, 1997 (Deluxe)",
+        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292683,
+      "name": "Runnin' Down a Dream - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/6ZIqc8hMV2PqK5qPqvcI6H"
+    },
+    {
+      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -1025,7 +1166,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 264453,
       "name": "Shadow Of A Doubt (A Complex Kid)",
       "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
@@ -1299,10 +1440,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 215802,
       "name": "Thirteen Days",
       "url": "https://open.spotify.com/track/5khakanIneOQaelzgiG7LK"
+    },
+    {
+      "album": {
+        "name": "Live at the Fillmore, 1997 (Deluxe)",
+        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 185918,
+      "name": "Time is on My Side - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/11CKXkaU9QyKosyiTv7AGV"
     },
     {
       "album": {
@@ -1339,6 +1498,24 @@
       "duration_ms": 251853,
       "name": "U Get Me High",
       "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
+    },
+    {
+      "album": {
+        "name": "Live at the Fillmore, 1997 (Deluxe)",
+        "url": "https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121124,
+      "name": "Waitin' In School - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/7upQdygrv3l2BzFymCpSkP"
     },
     {
       "album": {

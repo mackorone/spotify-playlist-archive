@@ -4,7 +4,7 @@
 
 > The essential Arcade Fire featuring their new album "Everything Now".
 
-30 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/21n8uDahUUGEsl85OK0ROQ)
+30 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

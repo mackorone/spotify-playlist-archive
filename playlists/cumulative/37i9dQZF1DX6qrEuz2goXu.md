@@ -4,7 +4,7 @@
 
 > Listen to family\-favorite tunes from the hit series.
 
-98 songs - 1 hr 53 min - [published](https://open.spotify.com/playlist/3rfLTOog4mxFplSiKbQolM)
+98 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

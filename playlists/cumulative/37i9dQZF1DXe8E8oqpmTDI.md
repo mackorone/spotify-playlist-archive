@@ -4,7 +4,7 @@
 
 > Get weird with the <a href="spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM">indie maestro</a>.
 
-30 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/5jGYSY7PXOfQgOmTZgCZB3)
+30 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 
 > Looking for a singer who dominated an era in the Korean music industry and then disappeared, aka 'SUGAR MAN'\. This is the official playlist of JTBC <Sugar Man>\. \(대한민국 가요계의 한 시대를 풍미했다가 사라진 가수, 일명 '슈가맨 \(SUGAR MAN\)'을 찾아갑니다\. JTBC 슈가맨의 오피셜 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 804 likes - 24 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 878 likes - 24 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Ambient music backed by the atmospheric sounds and elements of nature. ",
   "name": "Wild Ambience",
-  "published_playlist_ids": [
-    "7JtjL9J4rMiUbiR6UqNhl3"
-  ],
   "tracks": [
     {
       "album": {
@@ -131,6 +128,24 @@
       "duration_ms": 443080,
       "name": "Assured",
       "url": "https://open.spotify.com/track/2yUD0XuUPhhM3l3M6if6Jh"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY (Delightful Music Textures For Sleeping)",
+        "url": "https://open.spotify.com/album/6TmyNcxtcISn5tne5TDh2Q"
+      },
+      "artists": [
+        {
+          "name": "Medicine Music",
+          "url": "https://open.spotify.com/artist/5t7xC9DNiemIbOpo1GP10J"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85469,
+      "name": "Awake (Delightful Music Textures For Sleeping)",
+      "url": "https://open.spotify.com/track/5e62DsPlpwc649qy7yOvhd"
     },
     {
       "album": {
@@ -300,6 +315,42 @@
     },
     {
       "album": {
+        "name": "Shuswap Lake",
+        "url": "https://open.spotify.com/album/4H1nqluuMY1dOHLPDXh1OE"
+      },
+      "artists": [
+        {
+          "name": "Little Symphony",
+          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161205,
+      "name": "Celista",
+      "url": "https://open.spotify.com/track/56pZYZqvW1LxTO2Zy2OI3j"
+    },
+    {
+      "album": {
+        "name": "Clearing",
+        "url": "https://open.spotify.com/album/7twiHDo5Hf1DJPsWGHERTw"
+      },
+      "artists": [
+        {
+          "name": "dYb",
+          "url": "https://open.spotify.com/artist/5J2i1y9d9QrAVdBi92SX3r"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Clearing",
+      "url": "https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab"
+    },
+    {
+      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/2cV90JgRQmnI8eAm5mGwr0"
       },
@@ -463,10 +514,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 403000,
       "name": "Deep Slope",
       "url": "https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6"
+    },
+    {
+      "album": {
+        "name": "Deep Slope",
+        "url": "https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N"
+      },
+      "artists": [
+        {
+          "name": "Shinji Wakasa",
+          "url": "https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403000,
+      "name": "Deep Slope",
+      "url": "https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE"
     },
     {
       "album": {
@@ -668,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2xUyRkDGB0ViQVJtaVYVVO"
+      },
+      "artists": [
+        {
+          "name": "Retland",
+          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Forest Hymn",
+      "url": "https://open.spotify.com/track/4Q0W8BvXVmKjMM1kANzGbq"
+    },
+    {
+      "album": {
         "name": "Forest Trails",
         "url": "https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY"
       },
@@ -766,6 +853,28 @@
     },
     {
       "album": {
+        "name": "Ganymede",
+        "url": "https://open.spotify.com/album/3LeVCs4kXif1GeXCG5n2g9"
+      },
+      "artists": [
+        {
+          "name": "Science Of Sleeping",
+          "url": "https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn"
+        },
+        {
+          "name": "Spacecraft",
+          "url": "https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315857,
+      "name": "Ganymede",
+      "url": "https://open.spotify.com/track/2snq413hKWoZCGibTNYIEj"
+    },
+    {
+      "album": {
         "name": "The Best of the Golden Voyage",
         "url": "https://open.spotify.com/album/7Au1hECfa7KYdNQwbVQENf"
       },
@@ -807,6 +916,24 @@
       "duration_ms": 317666,
       "name": "Giant Kingfisher of Paradise - Ocean Moon Mix",
       "url": "https://open.spotify.com/track/32aMjeKuW4OG4I0njiw0GA"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/2p6sMCS5Z627insj7jRDcH"
+      },
+      "artists": [
+        {
+          "name": "Foli",
+          "url": "https://open.spotify.com/artist/2HdDpDCP2RQVHQhG5Kc09Q"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/4c2dCtOeRP65beV5AVvtNN"
     },
     {
       "album": {
@@ -1048,6 +1175,28 @@
     },
     {
       "album": {
+        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        },
+        {
+          "name": "takayama naoko",
+          "url": "https://open.spotify.com/artist/1RtPxS3LU1mjAvSZDgnEJL"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Kannon",
+      "url": "https://open.spotify.com/track/4vxVU7azXS6qfpR1iIG15I"
+    },
+    {
+      "album": {
         "name": "Kakashi",
         "url": "https://open.spotify.com/album/0ZVkkcvhUWQ4hIeoC8Y5Kb"
       },
@@ -1077,10 +1226,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 218009,
       "name": "kuu",
       "url": "https://open.spotify.com/track/1VO2yoOecJkqHJp3PjjSVY"
+    },
+    {
+      "album": {
+        "name": "kuuhaku",
+        "url": "https://open.spotify.com/album/0ZHJiCd9Bf425S6NmcLg8d"
+      },
+      "artists": [
+        {
+          "name": "morimoto naoki",
+          "url": "https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221296,
+      "name": "kuu",
+      "url": "https://open.spotify.com/track/06c0yjJ78cozS24dwcz36m"
     },
     {
       "album": {
@@ -1269,6 +1436,28 @@
       "duration_ms": 1087000,
       "name": "Morgen\u00e5nder",
       "url": "https://open.spotify.com/track/3OtCjXOx1v2GEEDtxmmXWA"
+    },
+    {
+      "album": {
+        "name": "Morning Energy",
+        "url": "https://open.spotify.com/album/5hX1qUBCqJ28wtQovxDRXH"
+      },
+      "artists": [
+        {
+          "name": "The Quiet Path",
+          "url": "https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD"
+        },
+        {
+          "name": "The Slumbering One",
+          "url": "https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Morning Energy",
+      "url": "https://open.spotify.com/track/7q3nvwGs9BTXP6syRF8JgL"
     },
     {
       "album": {
@@ -1546,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "On Art and Time",
+        "url": "https://open.spotify.com/album/79mHKfqBtubVqOG9yG5NZw"
+      },
+      "artists": [
+        {
+          "name": "Man from Mars",
+          "url": "https://open.spotify.com/artist/45NDwPF1HHwxFI4BGDYJFn"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283498,
+      "name": "On Art and Time",
+      "url": "https://open.spotify.com/track/0vrvN4KCUtKCZd6ml5Rdop"
+    },
+    {
+      "album": {
         "name": "In Other Lifetimes...",
         "url": "https://open.spotify.com/album/3Pf7OQkl5iIwiBX1VkfUIJ"
       },
@@ -1672,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Power Yoga",
+        "url": "https://open.spotify.com/album/4KlBJj6R6tApNOTD6lD0UX"
+      },
+      "artists": [
+        {
+          "name": "Unreaa",
+          "url": "https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90731,
+      "name": "Power Yoga",
+      "url": "https://open.spotify.com/track/2u6Vx9OrHQq7cOdbloQVZS"
+    },
+    {
+      "album": {
         "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
         "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
       },
@@ -1737,7 +1962,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 444000,
       "name": "Quiet Planigale",
       "url": "https://open.spotify.com/track/0tiTaaVv7xUVMR8W9NtwZl"
@@ -1835,6 +2060,24 @@
       "duration_ms": 249765,
       "name": "rainfall",
       "url": "https://open.spotify.com/track/39dhyocdtP2THBx7OG1pPn"
+    },
+    {
+      "album": {
+        "name": "Ratilj\u00f3st",
+        "url": "https://open.spotify.com/album/1I4DkvpyCwYH8769vtSSaP"
+      },
+      "artists": [
+        {
+          "name": "The Last Archiver",
+          "url": "https://open.spotify.com/artist/3VK6ZVyhIhVAl16oshWApm"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "Ratilj\u00f3st",
+      "url": "https://open.spotify.com/track/133rBUTl1xHOTRcNL0f8zP"
     },
     {
       "album": {
@@ -2034,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Shuswap Lake",
+        "url": "https://open.spotify.com/album/2ZhUnjUD0SS43j555ve3VO"
+      },
+      "artists": [
+        {
+          "name": "Little Symphony",
+          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173993,
+      "name": "Shuswap Lake",
+      "url": "https://open.spotify.com/track/65QjGjNoFbSEza40LZbgYW"
+    },
+    {
+      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/7C7WpnmXw6RufxybdZbZlS"
       },
@@ -2045,10 +2306,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 166020,
       "name": "Signals",
       "url": "https://open.spotify.com/track/3dmgdlknLnVte97AURFYyf"
+    },
+    {
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/7y9o7HbkbMlrxg0GnHMByP"
+      },
+      "artists": [
+        {
+          "name": "Marcus Woods",
+          "url": "https://open.spotify.com/artist/4qCRpU52vK7JBpObHgKkH4"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166020,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/5MsLvwiqNKBYeO4pmM4hDA"
     },
     {
       "album": {
@@ -2299,10 +2578,46 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
+    },
+    {
+      "album": {
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Space 1",
+      "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
+    },
+    {
+      "album": {
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/2hxfoyhB0m567fTylRTAw3"
+      },
+      "artists": [
+        {
+          "name": "Le Code",
+          "url": "https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Spending My Day Watching The Rain Fall",
+      "url": "https://open.spotify.com/track/3ExUgdpQD8F7cRD5aRJo4q"
     },
     {
       "album": {
@@ -2375,10 +2690,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 396000,
       "name": "Still Can't Believe It",
       "url": "https://open.spotify.com/track/2dwgDe9pLWHpvN9P5EfJck"
+    },
+    {
+      "album": {
+        "name": "Still Can't Believe It",
+        "url": "https://open.spotify.com/album/6aAsZCWURrnpmOdEgS6kqm"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396000,
+      "name": "Still Can't Believe It",
+      "url": "https://open.spotify.com/track/4w6rWET91A9I60yxIIj7JK"
     },
     {
       "album": {
@@ -2530,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "You Always Will Be",
+        "url": "https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "These Photos of My Children Make Me Want To Climb Into the Frame",
+      "url": "https://open.spotify.com/track/57iJqdezc9CsyfC81DNHRF"
+    },
+    {
+      "album": {
         "name": "Villanelle",
         "url": "https://open.spotify.com/album/6vV3tRQvr4q2UR3A8dz5Qc"
       },
@@ -2585,6 +2936,24 @@
       "duration_ms": 239211,
       "name": "To Start Again (36 After Dark Version)",
       "url": "https://open.spotify.com/track/0Hubg0iFKQwWqrUHRKESNo"
+    },
+    {
+      "album": {
+        "name": "You Always Will Be",
+        "url": "https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Today I Taught Them How To How To Skip Stones Across the Lake",
+      "url": "https://open.spotify.com/track/3BDlelR8QBYul0WbTn15aK"
     },
     {
       "album": {
@@ -2646,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "TWILIGHT (Delightful Music Textures For Sleeping)",
+        "url": "https://open.spotify.com/album/3PvNMCFPpwBhgCgKRk0IB2"
+      },
+      "artists": [
+        {
+          "name": "Medicine Music",
+          "url": "https://open.spotify.com/artist/5t7xC9DNiemIbOpo1GP10J"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71693,
+      "name": "Twilight (Delightful Music Textures For Sleeping)",
+      "url": "https://open.spotify.com/track/3n0zXFGAE9WY3fVdVX4gX0"
+    },
+    {
+      "album": {
         "name": "Logue",
         "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
       },
@@ -2693,10 +3080,46 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 131000,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/2CZm12Kpg0i9o5h07ZEgNb"
+    },
+    {
+      "album": {
+        "name": "Gradients",
+        "url": "https://open.spotify.com/album/4j1o6OTO5ff3UABzIqHnhx"
+      },
+      "artists": [
+        {
+          "name": "Rug Rivers",
+          "url": "https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/2lKNGpiuqPUnQTbhMYjJ9T"
+    },
+    {
+      "album": {
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/3r31xSQ3tlMN2CGbY9tMlq"
+      },
+      "artists": [
+        {
+          "name": "Rug Rivers",
+          "url": "https://open.spotify.com/artist/2IDRzaW4gYnIgqMM2hIdtd"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 131000,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/6PibtWZknVsZQ47haQGrQ7"
     },
     {
       "album": {
@@ -2711,10 +3134,50 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 306000,
       "name": "Watching",
       "url": "https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz"
+    },
+    {
+      "album": {
+        "name": "Watching",
+        "url": "https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5"
+      },
+      "artists": [
+        {
+          "name": "Korossasu",
+          "url": "https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Watching",
+      "url": "https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK"
+    },
+    {
+      "album": {
+        "name": "Water Ambience",
+        "url": "https://open.spotify.com/album/7F649VWGjzdAhj7KzXtopc"
+      },
+      "artists": [
+        {
+          "name": "The Quiet Path",
+          "url": "https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD"
+        },
+        {
+          "name": "The Slumbering One",
+          "url": "https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157690,
+      "name": "Water Ambience",
+      "url": "https://open.spotify.com/track/4zdG6S7zNU9NGZo46xbokP"
     },
     {
       "album": {
@@ -2733,6 +3196,28 @@
       "duration_ms": 106666,
       "name": "Welcome to the Four Seasons",
       "url": "https://open.spotify.com/track/6peg5yFyQ1sCwT8zZ9bQwg"
+    },
+    {
+      "album": {
+        "name": "Whales",
+        "url": "https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP"
+      },
+      "artists": [
+        {
+          "name": "Tsugi-Hagi",
+          "url": "https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf"
+        },
+        {
+          "name": "Republyric",
+          "url": "https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203389,
+      "name": "Whales",
+      "url": "https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0"
     },
     {
       "album": {

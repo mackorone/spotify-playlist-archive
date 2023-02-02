@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
   "name": "Run Wild",
-  "published_playlist_ids": [
-    "49CIAdzcRoXRsq6yO6T4a8"
-  ],
   "tracks": [
     {
       "album": {
@@ -404,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Chariot",
+        "url": "https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/1ZHboJHdP97xyCaQWuP9h6"
+    },
+    {
+      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq"
       },
@@ -617,7 +632,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 249586,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF"
@@ -689,7 +704,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 168080,
       "name": "Dream Within a Dream",
       "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
@@ -1025,7 +1040,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 252853,
       "name": "Green Eyes and a Heart of Gold",
       "url": "https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j"
@@ -1205,7 +1220,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 193897,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
@@ -1266,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194416,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0"
+    },
+    {
+      "album": {
         "name": "A Beautiful Life",
         "url": "https://open.spotify.com/album/0F2pKTWsWxkd0RfW59EV49"
       },
@@ -1277,7 +1310,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 244160,
       "name": "How Low",
       "url": "https://open.spotify.com/track/0WLJjIjP8YBCyLZIClsmKW"
@@ -1797,6 +1830,24 @@
     {
       "album": {
         "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300960,
+      "name": "My Love Took Me Down To the River To Silence Me",
+      "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
+    },
+    {
+      "album": {
+        "name": "Absolute Zero",
         "url": "https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf"
       },
       "artists": [
@@ -2027,6 +2078,28 @@
       "duration_ms": 200533,
       "name": "Philosophize In It! Chemicalize With It!",
       "url": "https://open.spotify.com/track/7gNxo9WO00wWYZkjsVES2O"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169186,
+      "name": "Radio [Feat. Sharon Van Etten]",
+      "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
     },
     {
       "album": {
@@ -2895,7 +2968,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 197972,
       "name": "Who Are You Now",
       "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
@@ -2913,7 +2986,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-15",
       "duration_ms": 199413,
       "name": "Who Do You Think You're Talking To?",
       "url": "https://open.spotify.com/track/3JRKgmK00uNLQzXGcLUaZ3"

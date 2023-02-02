@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-01",
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
   "name": "Jazz-Funk",
-  "published_playlist_ids": [
-    "5YdwjD0Yo4VfktuMzWIUHY"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-13",
       "duration_ms": 531533,
       "name": "A Message From The Inner City",
       "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
@@ -177,7 +174,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 230625,
       "name": "Andromeda Style Fuunk",
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
@@ -253,7 +250,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 123874,
       "name": "Ay Uh!",
       "url": "https://open.spotify.com/track/5yCsr35UpkI3zd9lss5GQh"
@@ -467,7 +464,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-21",
       "duration_ms": 244369,
       "name": "Bonita Applebum (Daylight)",
       "url": "https://open.spotify.com/track/7lJUAQCxvZVIUA6W0UgnYT"
@@ -590,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Tutto Passa",
+        "url": "https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y"
+      },
+      "artists": [
+        {
+          "name": "Gianni Brezzo",
+          "url": "https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "Capture This",
+      "url": "https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq"
+    },
+    {
+      "album": {
         "name": "THE FUNK WILL PREVAIL",
         "url": "https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd"
       },
@@ -685,7 +700,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 152195,
       "name": "Chardonnay Kisses",
       "url": "https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd"
@@ -1230,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/5BRGf4KjeBFPG7WpPAgxxH"
+      },
+      "artists": [
+        {
+          "name": "Riot Jazz Brass Band",
+          "url": "https://open.spotify.com/artist/1txSIgiNjE6LpvkxP7sYyP"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186745,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/6dT65xQ9mLooOD9or4oWvX"
+    },
+    {
+      "album": {
         "name": "Dumb People",
         "url": "https://open.spotify.com/album/1iEOCeBsOTXhzHALELmghm"
       },
@@ -1335,7 +1368,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 349440,
       "name": "Everything Is Changing",
       "url": "https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ"
@@ -1393,7 +1426,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 120025,
       "name": "Feel The Bern - Alt Take",
       "url": "https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr"
@@ -1589,7 +1622,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 192999,
       "name": "Glide",
       "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
@@ -2085,7 +2118,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199002,
       "name": "La Fachada",
       "url": "https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc"
@@ -2169,7 +2202,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 278200,
       "name": "Limu, Limu, Lima",
       "url": "https://open.spotify.com/track/634sK2tugl3o7vXXilBJr3"
@@ -2257,7 +2290,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 146010,
       "name": "London 1969",
       "url": "https://open.spotify.com/track/3nQvNXKbgLPcuZ3cLTZiJ7"
@@ -2329,7 +2362,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 221247,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
@@ -2373,7 +2406,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2023-01-28",
       "duration_ms": 276293,
       "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
       "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
@@ -2443,7 +2476,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 267213,
       "name": "May The Funk Be With You",
       "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
@@ -2540,6 +2573,72 @@
     },
     {
       "album": {
+        "name": "Miles Chases New Voodoo In The Church",
+        "url": "https://open.spotify.com/album/6mPJCWZ3pbHquYKno7gPB3"
+      },
+      "artists": [
+        {
+          "name": "London Brew",
+          "url": "https://open.spotify.com/artist/6rVN7vMGgDqCGif9EpNpVb"
+        },
+        {
+          "name": "Benji B",
+          "url": "https://open.spotify.com/artist/6NXQ4mx83AZ0y0TZtY6zR9"
+        },
+        {
+          "name": "Raven Bush",
+          "url": "https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs"
+        },
+        {
+          "name": "Theon Cross",
+          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Tom Herbert",
+          "url": "https://open.spotify.com/artist/08WSyxBEPJgDyOsH8SWpLo"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        },
+        {
+          "name": "Nikolaj Torp Larsen",
+          "url": "https://open.spotify.com/artist/7B5J73d7YoQmAtSchQKJEt"
+        },
+        {
+          "name": "Dave Okumu",
+          "url": "https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F"
+        },
+        {
+          "name": "Nick Ramm",
+          "url": "https://open.spotify.com/artist/2VqSheffB7Wp1IVCZdIuSL"
+        },
+        {
+          "name": "Dan See",
+          "url": "https://open.spotify.com/artist/3tIBbFxP6udjcNWTn1SMux"
+        },
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm"
+        },
+        {
+          "name": "Martin Terefe",
+          "url": "https://open.spotify.com/artist/68KMyINYSK8zqckysgy4OR"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194614,
+      "name": "Miles Chases New Voodoo In The Church - Single Edit",
+      "url": "https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb"
+    },
+    {
+      "album": {
         "name": "Bitches Brew",
         "url": "https://open.spotify.com/album/3Q0zkOZEOC855ErOOJ1AdO"
       },
@@ -2601,7 +2700,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": "2022-12-22",
       "duration_ms": 221790,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/4prllBcCDVY0CUDnbvnRZ3"
@@ -2753,7 +2852,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 157333,
       "name": "MXC.MMBL",
       "url": "https://open.spotify.com/track/6Sxnxm8dsA7SSNtT1TVtPK"
@@ -2811,6 +2910,24 @@
       "duration_ms": 413893,
       "name": "New York Times - Remastered 2002",
       "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
+    },
+    {
+      "album": {
+        "name": "Good Future (10th Anniversary Reissue)",
+        "url": "https://open.spotify.com/album/54BqNpKXlJw7sFl6pw0EFV"
+      },
+      "artists": [
+        {
+          "name": "EMEFE",
+          "url": "https://open.spotify.com/artist/7gsslWrdzzkV3jf7cAws95"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199261,
+      "name": "Newcastle Bounce",
+      "url": "https://open.spotify.com/track/6lEPZrvUyQQeSxT2GR2FYo"
     },
     {
       "album": {
@@ -2897,7 +3014,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 316493,
       "name": "One In Seven",
       "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
@@ -2953,7 +3070,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 280795,
       "name": "Oozing",
       "url": "https://open.spotify.com/track/6xKoMynnenKx4iYNYWohj9"
@@ -3372,6 +3489,32 @@
     },
     {
       "album": {
+        "name": "Rock and Clap (Instrumental)",
+        "url": "https://open.spotify.com/album/0Xvzr8Et5NfflTsYLGF7q8"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Darian Gray",
+          "url": "https://open.spotify.com/artist/3PPmXLzzOi8bqxo4Mqs4ec"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318660,
+      "name": "Rock and Clap - Instrumental",
+      "url": "https://open.spotify.com/track/3oEgsFby908LnVyx0rbvgc"
+    },
+    {
+      "album": {
         "name": "Happy Music: The Best Of The Blackbyrds",
         "url": "https://open.spotify.com/album/12RQWFvVDEZg36eisATjmK"
       },
@@ -3463,7 +3606,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 222044,
       "name": "Running In Fear From Imaginary Assailants",
       "url": "https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc"
@@ -3673,8 +3816,8 @@
           "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
         },
         {
-          "name": "Rogerio Boccato",
-          "url": "https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe"
+          "name": "Rog\u00e9rio Boccato",
+          "url": "https://open.spotify.com/artist/4yknTJEHIckjyEZPZLTKeJ"
         },
         {
           "name": "John Hart",
@@ -3687,6 +3830,28 @@
       "duration_ms": 459809,
       "name": "Slow Change",
       "url": "https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0"
+    },
+    {
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
+      },
+      "artists": [
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
     },
     {
       "album": {
@@ -3705,7 +3870,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
@@ -3753,7 +3918,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 212263,
       "name": "Souly",
       "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
@@ -3902,6 +4067,40 @@
     },
     {
       "album": {
+        "name": "Family Business, Pt. 2 (Instrumental)",
+        "url": "https://open.spotify.com/album/2PDaJ4IkLAauBi55Lx7CoI"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Daniel Casares",
+          "url": "https://open.spotify.com/artist/3LRzrB7J8bLTpTP7Ukf4DD"
+        },
+        {
+          "name": "Max Cowan",
+          "url": "https://open.spotify.com/artist/45QRLF7w0KJv3c8Bf4F90H"
+        },
+        {
+          "name": "Jamie Moore",
+          "url": "https://open.spotify.com/artist/2x97nEU3EZS9rDG7nsccQj"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198657,
+      "name": "Stone Cold Lovin' - Instrumental",
+      "url": "https://open.spotify.com/track/3jivAYYsjOYojktybnVC9R"
+    },
+    {
+      "album": {
         "name": "STOP and SAVE",
         "url": "https://open.spotify.com/album/6uRy8mSfVUejTRx7rHV23e"
       },
@@ -3943,6 +4142,28 @@
       "duration_ms": 233173,
       "name": "Straight Shooter",
       "url": "https://open.spotify.com/track/0SpHtxc7Uf0OwGhRMuziak"
+    },
+    {
+      "album": {
+        "name": "Strolling",
+        "url": "https://open.spotify.com/album/3DVR7jHKPpH5G5d36SI2gP"
+      },
+      "artists": [
+        {
+          "name": "BZSounds",
+          "url": "https://open.spotify.com/artist/5sfU8PTosAbplqqVFQGwVH"
+        },
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302342,
+      "name": "Strolling",
+      "url": "https://open.spotify.com/track/3NHxMMrLCY67QSFpcAHcuc"
     },
     {
       "album": {
@@ -3991,7 +4212,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 241400,
       "name": "Sure Shot",
       "url": "https://open.spotify.com/track/1IqZYnJiVCRnu4CC3TXnNb"
@@ -4131,6 +4352,44 @@
       "duration_ms": 266453,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/0mFTShnrAE9pSdSfWygBXf"
+    },
+    {
+      "album": {
+        "name": "The Chicago Experiment",
+        "url": "https://open.spotify.com/album/5Cd510D2p3u7ZKjIuZP8ZA"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Irvin Pierce",
+          "url": "https://open.spotify.com/artist/14NF1jyQ0dY6HLrb9r7hSi"
+        },
+        {
+          "name": "Darryl Jones",
+          "url": "https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8"
+        },
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266453,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/1Fs2kqyfm1wnFE83eIAqF7"
     },
     {
       "album": {
@@ -4323,7 +4582,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205829,
       "name": "The Necessary Change",
       "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
@@ -4551,7 +4810,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 300513,
       "name": "Third Wave Mischief",
       "url": "https://open.spotify.com/track/5VX9c8VyCxUsSHILhUQSe5"
@@ -4695,7 +4954,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 319497,
       "name": "Toots",
       "url": "https://open.spotify.com/track/35Pq0buGI8yDZJvUiL6dan"
@@ -4762,6 +5021,32 @@
     },
     {
       "album": {
+        "name": "Touchy (Tiny Room Sessions)",
+        "url": "https://open.spotify.com/album/4MZZzMJJNzsSm1Vmb1jRRS"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Ronald Bruner, Jr.",
+          "url": "https://open.spotify.com/artist/5uiYVTlSFQqK08L1MKuBnW"
+        },
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/71DLOjjNflV6J67OQrR54B"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250451,
+      "name": "Touchy - Tiny Room Sessions",
+      "url": "https://open.spotify.com/track/0oWTf5nX2O2n2GO53CtS5O"
+    },
+    {
+      "album": {
         "name": "Double Dippin'",
         "url": "https://open.spotify.com/album/2AXj42QL6m8ASp1kvY27ti"
       },
@@ -4795,7 +5080,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 263173,
       "name": "Turnip's Big Move",
       "url": "https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt"

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Lupita Infante en portada. ",
+  "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. El Bebeto en portada. ",
   "name": "Mariachi Joven",
-  "published_playlist_ids": [
-    "5wcPkKyyBQErURyxu67foA"
-  ],
   "tracks": [
     {
       "album": {
@@ -171,7 +168,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": "2023-01-17",
       "duration_ms": 185781,
       "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/543GxK1Fbq64kfhMB4j7Dq"
@@ -189,7 +186,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 213244,
       "name": "Bolero Para Ti Motherflower",
       "url": "https://open.spotify.com/track/2ajKOHTNPDPwERT1AByoJb"
@@ -261,7 +258,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 132986,
       "name": "Casi Algo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o"
@@ -301,6 +298,24 @@
       "duration_ms": 189200,
       "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
       "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
+    },
+    {
+      "album": {
+        "name": "Con Tu Recuerdo",
+        "url": "https://open.spotify.com/album/2HvSOHRTPK1HBUMgA5eUUc"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177053,
+      "name": "Con Tu Recuerdo",
+      "url": "https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc"
     },
     {
       "album": {
@@ -420,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160367,
+      "name": "Deb\u00ed Suponerlo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT"
+    },
+    {
+      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -511,6 +548,24 @@
       "duration_ms": 155066,
       "name": "Dime Que S\u00ed",
       "url": "https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez"
+    },
+    {
+      "album": {
+        "name": "Vali\u00f3 La Pena Con Mariachi",
+        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Duele Estar Vivo",
+      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
     },
     {
       "album": {
@@ -652,6 +707,28 @@
     },
     {
       "album": {
+        "name": "Fumo Y Bebo",
+        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Pablo Ocampo",
+          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148911,
+      "name": "Fumo Y Bebo",
+      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
+    },
+    {
+      "album": {
         "name": "Hoy Dame el Gusto",
         "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
       },
@@ -681,10 +758,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 192066,
       "name": "Imborrable",
       "url": "https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce"
+    },
+    {
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141756,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya"
     },
     {
       "album": {
@@ -735,7 +830,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 138818,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/57r6aaVaCxnOL9ntFEYySS"
@@ -815,7 +910,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 195786,
       "name": "Las Flores del Camposanto",
       "url": "https://open.spotify.com/track/6d96IsWXHitLBlHoWIgiML"
@@ -873,7 +968,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 174741,
       "name": "Lim\u00f3n Con Sal",
       "url": "https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD"
@@ -989,7 +1084,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 214071,
       "name": "Mi Reflejo",
       "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
@@ -1011,7 +1106,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 228675,
       "name": "Mor\u00ed",
       "url": "https://open.spotify.com/track/60ZnEd8EldyWJUJ9wuTqZN"
@@ -1072,6 +1167,28 @@
     },
     {
       "album": {
+        "name": "No Me Deja De Doler",
+        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157946,
+      "name": "No Me Deja De Doler",
+      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
+    },
+    {
+      "album": {
         "name": "No Me Hace Falta Nada",
         "url": "https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1"
       },
@@ -1083,7 +1200,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 193841,
       "name": "No Me Hace Falta Nada",
       "url": "https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE"
@@ -1101,7 +1218,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 202252,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/639NmACfrGWlwQ6mBZxtjp"
@@ -1238,6 +1355,28 @@
     },
     {
       "album": {
+        "name": "Paloma Blanca",
+        "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "Paloma Blanca",
+      "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
+    },
+    {
+      "album": {
         "name": "Para No Pensar en Ti",
         "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
       },
@@ -1329,7 +1468,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-01-11",
       "duration_ms": 194604,
       "name": "Por Ti Me Abrazar\u00e9",
       "url": "https://open.spotify.com/track/6bvHqGVqf320Sn3bkQcOyp"
@@ -1464,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Ser\u00e9",
+        "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163433,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2"
+    },
+    {
+      "album": {
         "name": "Hasta el Cielo",
         "url": "https://open.spotify.com/album/7fDSPyDbQQbHT47Spts4YV"
       },
@@ -1504,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185153,
+      "name": "Te Dejo",
+      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
+    },
+    {
+      "album": {
         "name": "Te He Prometido",
         "url": "https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR"
       },
@@ -1533,7 +1708,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-01-21",
       "duration_ms": 136246,
       "name": "Te Llegar\u00e1 Mi Olvido",
       "url": "https://open.spotify.com/track/2gVFqyEuY89biuosNL6Y43"
@@ -1823,10 +1998,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 178378,
       "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
       "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+    },
+    {
+      "album": {
+        "name": "Ya Es Suficiente",
+        "url": "https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182044,
+      "name": "Ya Es Suficiente",
+      "url": "https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5"
     },
     {
       "album": {
@@ -1863,7 +2056,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
@@ -1935,7 +2128,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-01-16",
       "duration_ms": 162916,
       "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
       "url": "https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua"

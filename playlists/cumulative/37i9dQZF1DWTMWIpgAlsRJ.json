@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-08",
   "description": "The 100 greatest FIFA tracks of all time",
   "name": "Ultimate FIFA Soundtrack",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -383,7 +382,7 @@
     {
       "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
       "artists": [
         {
@@ -394,6 +393,24 @@
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207506,
+      "name": "Conqueror",
+      "url": "https://open.spotify.com/track/1Wd08LgZT0LsmZ0KIJmUfL"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 207506,
       "name": "Conqueror",
       "url": "https://open.spotify.com/track/33vONnAGzbroR9nMCvpRvo"

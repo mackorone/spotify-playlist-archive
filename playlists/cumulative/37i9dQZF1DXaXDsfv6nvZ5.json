@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The soulful tunes to ease you into your day.",
   "name": "Soul Coffee",
-  "published_playlist_ids": [
-    "6PhsjniBhG4w601hh0mPNL"
-  ],
   "tracks": [
     {
       "album": {
@@ -97,7 +94,7 @@
           "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219146,
@@ -299,7 +296,7 @@
           "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250599,
@@ -327,7 +324,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 299366,
       "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
@@ -443,6 +440,24 @@
       "duration_ms": 192854,
       "name": "Breakfast - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4pXaDCpq459IkaUp84VM5m"
+    },
+    {
+      "album": {
+        "name": "Breaking Point",
+        "url": "https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293571,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6"
     },
     {
       "album": {
@@ -1013,7 +1028,7 @@
           "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240048,
@@ -1051,7 +1066,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 246680,
       "name": "Get it Got it",
       "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
@@ -1069,7 +1084,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 206396,
       "name": "Go",
       "url": "https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1"
@@ -1357,7 +1372,7 @@
           "url": "https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218244,
@@ -1609,7 +1624,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 173123,
       "name": "Love (feat. Jazmine Sullivan)",
       "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
@@ -1871,7 +1886,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 250506,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
@@ -1959,7 +1974,7 @@
           "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186695,
@@ -2422,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Sometimes, I'm Speechless",
+        "url": "https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE"
+      },
+      "artists": [
+        {
+          "name": "IYAMAH",
+          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174637,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt"
+    },
+    {
+      "album": {
         "name": "Shine [Feat. D Smoke + Tiffany Gouch\u00e9]",
         "url": "https://open.spotify.com/album/7tOJroeUUAj21SaBgC1DZe"
       },
@@ -2529,7 +2562,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 312341,
       "name": "Soul Caliber",
       "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
@@ -2554,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270031,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+    },
+    {
+      "album": {
         "name": "Stay Where You Are",
         "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
       },
@@ -2572,7 +2623,7 @@
     },
     {
       "album": {
-        "name": "Stereo Driver",
+        "name": "STEREO DRIVER",
         "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
       },
       "artists": [
@@ -2585,7 +2636,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231533,
-      "name": "Stereo Driver",
+      "name": "STEREO DRIVER",
       "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
@@ -2699,7 +2750,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 253527,
       "name": "Sweet Blue",
       "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
@@ -2867,7 +2918,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
@@ -3219,7 +3270,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 176065,
       "name": "without you",
       "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"

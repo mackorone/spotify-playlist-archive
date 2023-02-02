@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 
 > Let this upbeat playlist power you through your day
 
-[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,193 likes - 306 songs - 18 hr 4 min
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,210 likes - 306 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 | 84 | [Broken Drum \(feat\. Fitz of Fitz and the Tantrums\)](https://open.spotify.com/track/1ueQDgg9WsjXF8NwJeLvUE) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Broken Drum \(feat\. Fitz of Fitz and the Tantrums\)](https://open.spotify.com/album/7b09NcU5UqHUOFj2OwPk05) | 3:18 |
 | 85 | [Summer Nights](https://open.spotify.com/track/5f6RsonTFhC7T6nvXGQPeT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summer Nights](https://open.spotify.com/album/49qBXeHh2TkiNoxVyQmaFp) | 3:10 |
 | 86 | [Love Is Blind \(feat\. GLNNA\) \- Attom & Oracles Remix](https://open.spotify.com/track/2aiqBLmyYxvBF443FU8VwH) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG), [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o), [Oracles](https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb) | [Love Is Blind \(feat\. GLNNA\) \[Remixes\]](https://open.spotify.com/album/59hXL8XHJIiyGcOEQrDxCO) | 3:54 |
-| 87 | [Good Enough \(Michael Brun x The Ready Set\)](https://open.spotify.com/track/1JlNnlac0f4LWYaLVFB2ue) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC), [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Good Enough \(Michael Brun x The Ready Set\)](https://open.spotify.com/album/75eB1WEwTTUIyp8ICVL2VF) | 3:33 |
+| 87 | [Good Enough \(Michael Brun x The Ready Set\)](https://open.spotify.com/track/1JlNnlac0f4LWYaLVFB2ue) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Good Enough \(Michael Brun x The Ready Set\)](https://open.spotify.com/album/75eB1WEwTTUIyp8ICVL2VF) | 3:33 |
 | 88 | [So Much Love](https://open.spotify.com/track/13HEIb4DeOsMN8x8SxhzN8) | [Muzzaik](https://open.spotify.com/artist/24p18ZRiWWS3GmR4J1QrNp), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [So Much Love](https://open.spotify.com/album/3qX3WNljMSyKeT54YccSOh) | 3:05 |
 | 89 | [Flutter \(Feat\. Madi\)](https://open.spotify.com/track/7FiQUNyXClHIoKoy2ct96M) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [MADI](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [Flutter \(Feat\. Madi\)](https://open.spotify.com/album/762gMNCRrjyHEVuyUSQh4M) | 2:58 |
 | 90 | [How to Love \(feat\. Sofia Reyes\) \- Hellberg Remix](https://open.spotify.com/track/4aY5372weXNI9zRc1bQfqc) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5) | [How to Love \(feat\. Sofia Reyes\) \[Remixes\]](https://open.spotify.com/album/2UmyoeqqgaI7Ocsmy1hHfx) | 3:22 |

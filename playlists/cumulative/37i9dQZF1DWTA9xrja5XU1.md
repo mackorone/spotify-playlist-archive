@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:41rVuRHYAiH7ltBTHVR9We">Slushii</a> drops a colorful mix full of rumbling bass and head banging tunes.
 
-22 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/70o755MhINBdk1nym5tqfm)
+22 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

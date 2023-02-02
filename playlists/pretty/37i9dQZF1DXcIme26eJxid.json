@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 78512,
+  "num_followers": 81594,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMGFmNDIzYWEwNmU0ZDExYjE2NDY1MmMwOTlmMGFhZTE0",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDNjZTdlYTllMDM4ZDE3MDEzYmQ5ODdhZjY2N2EzMzdj",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -125,6 +125,26 @@
       "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
     },
     {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
+    },
+    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Third World Child",
@@ -145,22 +165,6 @@
       "url": "https://open.spotify.com/track/25u53mEJMoUkHcBWYavOVT"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Sibongile",
@@ -175,6 +179,22 @@
       "duration_ms": 351053,
       "name": "Ndihamba Nawe",
       "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -199,26 +219,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Nigeria 70 - Funky Lagos",
         "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 289493,
-      "name": "Agolo",
-      "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -265,20 +249,20 @@
       "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
+      "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Boom Shaka",
-        "url": "https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8"
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
       },
       "artists": [
         {
-          "name": "Boom Shaka",
-          "url": "https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL"
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 339000,
-      "name": "It's About Time",
-      "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
+      "duration_ms": 289493,
+      "name": "Agolo",
+      "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -331,6 +315,22 @@
     {
       "added_at": "2020-04-07 09:19:20",
       "album": {
+        "name": "Boom Shaka",
+        "url": "https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8"
+      },
+      "artists": [
+        {
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
         "name": "Kalawa Jazmee Classics: Bongo Maffin",
         "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
       },
@@ -343,38 +343,6 @@
       "duration_ms": 320240,
       "name": "Thathi Sgubu",
       "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
-    },
-    {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "So (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 638227,
-      "name": "In Your Eyes - Live",
-      "url": "https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -391,6 +359,22 @@
       "duration_ms": 339253,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -443,34 +427,18 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Afro Tropical Soundz, Vol. 1",
-        "url": "https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz"
+        "name": "So (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
       },
       "artists": [
         {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 365693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Rex Lawson's Greatest Hits",
-        "url": "https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0"
-      },
-      "artists": [
-        {
-          "name": "Cardinal Rex Jim Lawson",
-          "url": "https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Sawale",
-      "url": "https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0"
+      "duration_ms": 638227,
+      "name": "In Your Eyes - Live",
+      "url": "https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -511,18 +479,34 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "The Best Of The Black President 2",
-        "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
+        "name": "Afro Tropical Soundz, Vol. 1",
+        "url": "https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz"
       },
       "artists": [
         {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7"
         }
       ],
-      "duration_ms": 793200,
-      "name": "Expensive Shit",
-      "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
+      "duration_ms": 365693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Rex Lawson's Greatest Hits",
+        "url": "https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0"
+      },
+      "artists": [
+        {
+          "name": "Cardinal Rex Jim Lawson",
+          "url": "https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Sawale",
+      "url": "https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -543,6 +527,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "Ojah Awake",
+      "url": "https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "I Like Your Style",
         "url": "https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 185933,
       "name": "I Like Your Style",
       "url": "https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "The Best Of The Black President 2",
+        "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 793200,
+      "name": "Expensive Shit",
+      "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -579,18 +595,18 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Ojah Awake",
-        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
+        "name": "Ivory Music Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
       "artists": [
         {
-          "name": "Osibisa",
-          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+          "name": "Onyeka Onwenu",
+          "url": "https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7"
         }
       ],
-      "duration_ms": 292333,
-      "name": "Ojah Awake",
-      "url": "https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71"
+      "duration_ms": 364706,
+      "name": "Living Music",
+      "url": "https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -631,6 +647,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "Juju Music",
         "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
       },
@@ -643,38 +675,6 @@
       "duration_ms": 307866,
       "name": "Ma Jaiye Oni",
       "url": "https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Ivory Music Classics, Vol. 2",
-        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
-      },
-      "artists": [
-        {
-          "name": "Onyeka Onwenu",
-          "url": "https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7"
-        }
-      ],
-      "duration_ms": 364706,
-      "name": "Living Music",
-      "url": "https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Ivory Music Classics, Vol. 2",
-        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
-      },
-      "artists": [
-        {
-          "name": "Dizzy K Falola",
-          "url": "https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Baby Kilode",
-      "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
     }
   ],
   "unique_name": "Classic Afropop",

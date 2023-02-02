@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "2019 highlights from the home of indie music.",
   "name": "Best of Indie 2019",
-  "published_playlist_ids": [
-    "4pANmKCSBoyjeOGG047kTr"
-  ],
   "tracks": [
     {
       "album": {
@@ -759,7 +756,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 156293,
       "name": "Home",
       "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
@@ -1437,7 +1434,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 255397,
       "name": "Peach",
       "url": "https://open.spotify.com/track/6M8qU2rDpeRQLE88DF2xtq"
@@ -1844,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Song 32",
+        "url": "https://open.spotify.com/album/2ZZWU7AAqHV9tXzNjPZrYJ"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162496,
+      "name": "Song 32",
+      "url": "https://open.spotify.com/track/7Duz1lXRfECWROhjHQ5dWk"
+    },
+    {
+      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -1913,10 +1928,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 126464,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j"
+    },
+    {
+      "album": {
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126464,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3"
     },
     {
       "album": {
@@ -1931,7 +1964,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 212160,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/65eQZ65gCurZX0SXTfeBnc"
@@ -2083,7 +2116,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-09",
       "duration_ms": 188413,
       "name": "UFOF",
       "url": "https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB"

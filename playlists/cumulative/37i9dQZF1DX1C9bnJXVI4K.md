@@ -4,7 +4,7 @@
 
 > Playful poems and amusing rhymes for the young at heart.
 
-41 songs - 52 min 17 sec - [published](https://open.spotify.com/playlist/1QHYQGpMQDOHxZrqNTaXiB)
+41 songs - 52 min 17 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

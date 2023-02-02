@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov en portada.",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Sergio Arau en portada.",
   "name": "La + Chingona",
-  "published_playlist_ids": [
-    "2vu2JM6dXd3OuInlDXgZcJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -627,7 +624,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 177786,
       "name": "Florecita Rockera",
       "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
@@ -707,6 +704,24 @@
       "duration_ms": 250293,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm"
+    },
+    {
+      "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
     },
     {
       "album": {
@@ -993,7 +1008,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-01",
       "duration_ms": 201293,
       "name": "Lo Pasado, Pasado",
       "url": "https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl"
@@ -1059,7 +1074,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 291666,
       "name": "Maligno (feat. Le\u00f3n Larregui)",
       "url": "https://open.spotify.com/track/4JbaHnHxPaMXQG1NFT1Nem"
@@ -1267,7 +1282,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 210986,
       "name": "Oro",
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
@@ -1381,12 +1396,30 @@
           "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
         }
       ],
-      "date_added": "2022-11-26",
+      "date_added": "2022-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186389,
       "name": "Pendejo",
       "url": "https://open.spotify.com/track/3PG2vYXGQuBZhTTdvtwxdj"
+    },
+    {
+      "album": {
+        "name": "Pistolero",
+        "url": "https://open.spotify.com/album/06HY9sMdUsm2cWrzOZI0WN"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Peligroso",
+          "url": "https://open.spotify.com/artist/7lrWd6DfBEWnFSerEh4n2d"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 267122,
+      "name": "Pistolero",
+      "url": "https://open.spotify.com/track/1vF20zbofrrIChbnFM0DwT"
     },
     {
       "album": {
@@ -1459,7 +1492,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 157739,
       "name": "Quiten El Trap",
       "url": "https://open.spotify.com/track/47HKTaIC6f3I9wF10E1J2r"
@@ -1669,7 +1702,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": "2022-12-25",
       "duration_ms": 191000,
       "name": "Soun Tha Mi Primer Amor - Remastered",
       "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
@@ -1763,6 +1796,28 @@
       "duration_ms": 182786,
       "name": "Tijuana Sound Machine",
       "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
+    },
+    {
+      "album": {
+        "name": "Tocada y Fuga",
+        "url": "https://open.spotify.com/album/07pqmLcUHgtnSdIi2aGDDS"
+      },
+      "artists": [
+        {
+          "name": "Sergio Arau",
+          "url": "https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220872,
+      "name": "Tocada y Fuga",
+      "url": "https://open.spotify.com/track/3ib6XT17WcsAJ2Qgp13wc0"
     },
     {
       "album": {
@@ -1885,7 +1940,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 220493,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0"

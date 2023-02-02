@@ -4,7 +4,7 @@
 
 > This is TOOL\. The essential tracks, all in one playlist.
 
-36 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/4EgBZ29T2uvYm79OR3nxp1)
+37 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Cold And Ugly \- Live](https://open.spotify.com/track/7ajn3mKu2DP8CoqzpHEr1d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:09 | 2022-05-30 |  |
 | [Culling Voices](https://open.spotify.com/track/3gPxMQWDMSEyPXMtzbcDdQ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 10:05 | 2022-05-30 |  |
 | [Descending](https://open.spotify.com/track/0aTiUssEOy0Mt69bsavj6K) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 13:37 | 2022-05-30 |  |
+| [Eon Blue Apocalypse](https://open.spotify.com/track/5aVJ5rv7ghWSkQaqP726tE) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 1:04 | 2022-11-30 |  |
 | [Eulogy](https://open.spotify.com/track/0RVFjx2HwbHcl5SCSADpFP) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 8:25 | 2022-05-30 |  |
 | [Fear Inoculum](https://open.spotify.com/track/39zWYYZStDgWi32sOU9AX4) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 10:20 | 2022-05-30 |  |
 | [Forty Six & 2](https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 6:03 | 2022-05-30 |  |
@@ -39,7 +40,7 @@
 | [Swamp Song](https://open.spotify.com/track/5q4L6JyoEY3VN5pOSbgjS8) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 5:31 | 2022-05-30 |  |
 | [Sweat](https://open.spotify.com/track/3vjHuVFZGC0Bm2Ud0wNpgs) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 3:47 | 2022-05-30 |  |
 | [The Grudge](https://open.spotify.com/track/6ZsZxNP4Iwdyp3kd5oFFQN) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 8:35 | 2022-05-30 |  |
-| [The Patient](https://open.spotify.com/track/0Klbxk3g96Qae4DbCnUNcT) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 7:13 | 2022-05-30 |  |
+| [The Patient](https://open.spotify.com/track/0Klbxk3g96Qae4DbCnUNcT) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 7:13 | 2022-05-30 | 2022-12-01 |
 | [The Pot](https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 6:21 | 2022-05-30 |  |
 | [Undertow](https://open.spotify.com/track/4Wvnm0J3Zz9cmMdEMMghGA) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 5:22 | 2022-05-30 |  |
 | [Vicarious](https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 7:06 | 2022-05-30 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Svensk jazz n\u00e4r den \u00e4r som b\u00e4st.",
   "name": "Svensk jazz",
-  "published_playlist_ids": [
-    "6qZTArQLQuNPHxbD40Nm9v"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 246293,
       "name": "A Beautiful Smile",
       "url": "https://open.spotify.com/track/6vF4WczlVFGa8pO2dWy8gv"
+    },
+    {
+      "album": {
+        "name": "Accettura",
+        "url": "https://open.spotify.com/album/7BR5kNibJmbbSgeHfK1O2n"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218702,
+      "name": "Accettura",
+      "url": "https://open.spotify.com/track/6nJKK8an7PRBtGrymIKp8T"
     },
     {
       "album": {
@@ -517,10 +532,28 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 224813,
       "name": "Farliga Dr\u00f6mmar",
       "url": "https://open.spotify.com/track/23i74kwXZMUUsxIP3wvOmA"
+    },
+    {
+      "album": {
+        "name": "Figures and Movement",
+        "url": "https://open.spotify.com/album/4X7gbUVbwFh3C9hjayeY89"
+      },
+      "artists": [
+        {
+          "name": "Per Thornberg",
+          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243540,
+      "name": "Figures and Movement",
+      "url": "https://open.spotify.com/track/28nXpyO1xCeMmy3T06x7sS"
     },
     {
       "album": {
@@ -535,7 +568,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 243540,
       "name": "Figures and Movement",
       "url": "https://open.spotify.com/track/42VN1BbimFSSSVXx7s7hkH"
@@ -569,6 +602,24 @@
       "duration_ms": 212866,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/4MdP2ZOWlwWLk1W7JxuuBL"
+    },
+    {
+      "album": {
+        "name": "Basilicata Dreaming",
+        "url": "https://open.spotify.com/album/1Tr9H9tqWTfCWEB62i1B6v"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212859,
+      "name": "Fontanella di Maria",
+      "url": "https://open.spotify.com/track/1GiJtZmU6d0JPIv6xLtdYm"
     },
     {
       "album": {
@@ -793,7 +844,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 279974,
       "name": "Ha\u0308ndelse",
       "url": "https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5"
@@ -925,6 +976,58 @@
       "duration_ms": 171773,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/35vyrfyDjMA5Ru6p69tV3y"
+    },
+    {
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/5vcwRllDQfL0mehRfCqvxs"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00d6hrn",
+          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
+        },
+        {
+          "name": "Patrik Boman",
+          "url": "https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw"
+        },
+        {
+          "name": "The Blue Sounds",
+          "url": "https://open.spotify.com/artist/0BhOoT9vdEhNihifcTqPMi"
+        },
+        {
+          "name": "Carl Orrje",
+          "url": "https://open.spotify.com/artist/5dXBn9OSUXHhAJ1ChTq7T1"
+        },
+        {
+          "name": "Jesper Kviberg",
+          "url": "https://open.spotify.com/artist/6NMvOwbJ1v5QAvJHRW4xSb"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283040,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/1GhJvKil3tRxTEay1Wt9uz"
+    },
+    {
+      "album": {
+        "name": "Basilicata Dreaming",
+        "url": "https://open.spotify.com/album/1Tr9H9tqWTfCWEB62i1B6v"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177008,
+      "name": "Il Cauboi",
+      "url": "https://open.spotify.com/track/31uW2ynHWoji8SdhjxV8el"
     },
     {
       "album": {
@@ -1503,6 +1606,32 @@
       "duration_ms": 365881,
       "name": "Payday",
       "url": "https://open.spotify.com/track/7zhlzuqPO0xbDBk7j36TMZ"
+    },
+    {
+      "album": {
+        "name": "Vinterstj\u00e4rnor",
+        "url": "https://open.spotify.com/album/3LT8oXMx1ULFgOpTFPQjqS"
+      },
+      "artists": [
+        {
+          "name": "Emil Ingmar",
+          "url": "https://open.spotify.com/artist/7p0xXqI5wsH4tLwPIEuZ5E"
+        },
+        {
+          "name": "Calle Rasmusson",
+          "url": "https://open.spotify.com/artist/542yTnYI4To78OAWEblioM"
+        },
+        {
+          "name": "Fredrik Jonsson",
+          "url": "https://open.spotify.com/artist/3BF0nbpUutRMtsV6O3f8a4"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Pleiades",
+      "url": "https://open.spotify.com/track/6RoVR8SltId73blRSyMrPQ"
     },
     {
       "album": {
@@ -2445,7 +2574,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 187693,
       "name": "Wish You Were Gay",
       "url": "https://open.spotify.com/track/4S5d8XmM81odJDBC3laDJT"
@@ -2463,7 +2592,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187693,
       "name": "Wish You Were Gay",
       "url": "https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB"
@@ -2481,10 +2610,28 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 199854,
       "name": "Zeta",
       "url": "https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM"
+    },
+    {
+      "album": {
+        "name": "HOME.S.",
+        "url": "https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson",
+          "url": "https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199854,
+      "name": "Zeta",
+      "url": "https://open.spotify.com/track/6Anbl8kArzuijg4hDh3Wb9"
     },
     {
       "album": {

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Bollywood hits repackaged just for you. Cover- Ayushmann Khurrana, Vani kapoor, & Guru Randhawa",
+  "description": "Bollywood hits repackaged just for you. Cover - Selfiee",
   "name": "Bollywood 2.O",
-  "published_playlist_ids": [
-    "1RxcZY2SgLIUlL0fFKyBFg"
-  ],
   "tracks": [
     {
       "album": {
@@ -35,6 +32,32 @@
       "duration_ms": 212741,
       "name": "Aankh Marey (From \"Simmba\")",
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm"
+    },
+    {
+      "album": {
+        "name": "An Action Hero",
+        "url": "https://open.spotify.com/album/075Qjn7wO4dLd42tAjw1Er"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178002,
+      "name": "Aap Jaisa Koi",
+      "url": "https://open.spotify.com/track/5z8P3KHt2ZJUW8XXcaS0vN"
     },
     {
       "album": {
@@ -661,7 +684,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 215142,
       "name": "Ghar Aaya Mera Pardesi",
       "url": "https://open.spotify.com/track/5t61HZvxUXNKtFxey5pH3o"
@@ -713,7 +736,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 212237,
       "name": "Gulabi 2.0",
       "url": "https://open.spotify.com/track/1yGCVeGnN9HoZfPNfuD4Vq"
@@ -843,7 +866,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 146063,
       "name": "Hindustani (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/5NOA6Cl1w8cMvKvp9hg9hI"
@@ -1018,6 +1041,32 @@
     },
     {
       "album": {
+        "name": "Kudi Meri",
+        "url": "https://open.spotify.com/album/1MHDArVKe5L3L79QQYlp0K"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247578,
+      "name": "Kudi Meri",
+      "url": "https://open.spotify.com/track/5OklapYOB69owATMsuexTZ"
+    },
+    {
+      "album": {
         "name": "Shubh Mangal Zyada Saavdhan",
         "url": "https://open.spotify.com/album/1qvic7ic93zptwsWs2nvhU"
       },
@@ -1033,7 +1082,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 168645,
       "name": "Kya Karte The Saajna",
       "url": "https://open.spotify.com/track/0wpnPKFKnbiT609ch7nC1X"
@@ -1063,6 +1112,32 @@
       "duration_ms": 335272,
       "name": "Kya Yehi Pyaar Hai",
       "url": "https://open.spotify.com/track/76oTKi1zvsDawQWmzT5inJ"
+    },
+    {
+      "album": {
+        "name": "Kyaa Baat Haii 2.0 (From \"Govinda Naam Mera\")",
+        "url": "https://open.spotify.com/album/2WGf3hNRhDAbcI29cAFolO"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Kyaa Baat Haii 2.0",
+      "url": "https://open.spotify.com/track/3SxOgJihDKlbZ9C1OvLgNs"
     },
     {
       "album": {
@@ -1103,7 +1178,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 205974,
       "name": "Leja Re",
       "url": "https://open.spotify.com/track/68iBMrMRc1rg4eAxJbvxch"
@@ -1185,6 +1260,32 @@
       "duration_ms": 174264,
       "name": "Leke Pehla Pehla Pyaar (From \"Kya Meri Sonam Gupta Bewafa Hai?\")",
       "url": "https://open.spotify.com/track/57gcO6spcJ3QoXuW68QYsL"
+    },
+    {
+      "album": {
+        "name": "Main Khiladi (From \"Selfiee \")",
+        "url": "https://open.spotify.com/album/7MFOyviMDG0SSRDOUbFnki"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187099,
+      "name": "Main Khiladi - From \"Selfiee \"",
+      "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
     },
     {
       "album": {
@@ -1307,7 +1408,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 187953,
       "name": "Mere Angne Mein",
       "url": "https://open.spotify.com/track/4jnu5AGBIup4j0gm1v13f2"
@@ -1502,6 +1603,54 @@
     },
     {
       "album": {
+        "name": "O Yaara Dil Lagana (Reprise)",
+        "url": "https://open.spotify.com/album/67Ma8JJnU8LAYD25KL3WBU"
+      },
+      "artists": [
+        {
+          "name": "Aman Mishra Dz",
+          "url": "https://open.spotify.com/artist/6PJSrTcXArRvQPwM47KGOW"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "O Yaara Dil Lagana (Reprise)",
+      "url": "https://open.spotify.com/track/28CYxbE0ZFa5MGiXUQvpJ2"
+    },
+    {
+      "album": {
+        "name": "Phir Dhan Te Nan (From \"Kuttey\")",
+        "url": "https://open.spotify.com/album/6SfyHk2RY0vbU6UBgtKogg"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260148,
+      "name": "Phir Dhan Te Nan (From \"Kuttey\")",
+      "url": "https://open.spotify.com/track/201VNiUkMr44r6XbH6Ioz2"
+    },
+    {
+      "album": {
         "name": "Poster Lagwa Do (From \"Luka Chuppi\")",
         "url": "https://open.spotify.com/album/0NFYKQLV3mjmTvkhjcnLRn"
       },
@@ -1529,7 +1678,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 178847,
       "name": "Poster Lagwa Do (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/5G1H1Im43gBwssOH8XlnNU"
@@ -1942,7 +2091,7 @@
     },
     {
       "album": {
-        "name": "Student of the Year 2",
+        "name": "Student of the Year 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0j5fpNFJPSBUdkPROtmvFM"
       },
       "artists": [
@@ -2020,6 +2169,28 @@
     },
     {
       "album": {
+        "name": "Tu Mile Dil Khile - Single",
+        "url": "https://open.spotify.com/album/5ZdPS2Lm1DvnFwni3DX4pm"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197392,
+      "name": "Tu Mile Dil Khile",
+      "url": "https://open.spotify.com/track/6SnqFFm7Qp68efuVygvwtU"
+    },
+    {
+      "album": {
         "name": "Tum Mile (Refresh Version)",
         "url": "https://open.spotify.com/album/47SnVKc0ebixbGbzHBVLeH"
       },
@@ -2031,7 +2202,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 260338,
       "name": "Tum Mile - Refresh Version",
       "url": "https://open.spotify.com/track/1yawKQNxvbLwcsxnMweW6R"
@@ -2135,6 +2306,28 @@
       "duration_ms": 168960,
       "name": "Whistle Baja 2.0 (From \"Heropanti 2\")",
       "url": "https://open.spotify.com/track/2hVTU41stB2Ahk8bTRhnex"
+    },
+    {
+      "album": {
+        "name": "Yai Re",
+        "url": "https://open.spotify.com/album/3WJyprmm76vrt01oJtBphq"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Iulia Vantur",
+          "url": "https://open.spotify.com/artist/2zLJk6hSb9TMtU8XZ6Ne7t"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245032,
+      "name": "Yai Re",
+      "url": "https://open.spotify.com/track/7EH3l7c5HMIHiLm8t0g9ut"
     },
     {
       "album": {

@@ -2,10 +2,43 @@
   "date_first_scraped": "2022-05-14",
   "description": "Feels like falling in love in the 50s ",
   "name": "Black & White Film",
-  "published_playlist_ids": [
-    "71EBeOlWC7ZeNvRW4kIx3E"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Man Without Love",
+        "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
+      },
+      "artists": [
+        {
+          "name": "Engelbert Humperdinck",
+          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "A Man Without Love",
+      "url": "https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq"
+    },
+    {
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
     {
       "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
@@ -232,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171226,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
+    },
+    {
+      "album": {
         "name": "Everybody Loves Somebody",
         "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
       },
@@ -279,7 +330,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 167160,
       "name": "I Can't Believe That You're In Love With Me",
       "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
@@ -391,7 +442,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 198866,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1oAQJNKrMnIX5tLMan0UsY"
@@ -799,7 +850,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 158466,
       "name": "Old Cape Cod",
       "url": "https://open.spotify.com/track/2ZD42YPLXtzoGlRH51zViF"
@@ -950,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
+    },
+    {
+      "album": {
         "name": "Just You, Just Me\u2026",
         "url": "https://open.spotify.com/album/33TQZwhMEVj5ahoiFUOg0b"
       },
@@ -1015,7 +1088,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 140533,
       "name": "Tears on My Pillow",
       "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
@@ -1073,7 +1146,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 158853,
       "name": "Then He Kissed Me",
       "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
@@ -1171,7 +1244,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 176973,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
@@ -1196,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6"
       },
@@ -1211,6 +1306,24 @@
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3"
+    },
+    {
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
       "album": {
@@ -1297,7 +1410,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"

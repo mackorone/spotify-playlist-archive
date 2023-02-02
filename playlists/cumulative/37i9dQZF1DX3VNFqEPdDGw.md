@@ -4,7 +4,7 @@
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 
-81 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
+81 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

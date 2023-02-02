@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "The biggest songs of the 1960s.\n",
   "name": "All Out 60s",
-  "published_playlist_ids": [
-    "5DcefufghevVf1SGhXA5NO"
-  ],
   "tracks": [
     {
       "album": {
@@ -491,7 +488,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/1cmjxqobVTrgAiJ0btAleN"
@@ -831,7 +828,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 215293,
       "name": "America",
       "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
@@ -2359,7 +2356,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 166666,
       "name": "Come A Little Bit Closer",
       "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
@@ -2813,7 +2810,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 139093,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
@@ -3004,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144146,
+      "name": "Do Wah Diddy Diddy - 2007 Remaster",
+      "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "album": {
         "name": "Do you Believe In Magic",
         "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
       },
@@ -3159,7 +3174,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
@@ -4195,7 +4210,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 156800,
       "name": "Gloria (feat. Van Morrison) - Stereo Version",
       "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
@@ -5063,7 +5078,7 @@
       ],
       "date_added": "2019-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 143627,
       "name": "Hey! Baby - Remastered",
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
@@ -5823,7 +5838,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 161226,
       "name": "I Second That Emotion",
       "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
@@ -5985,7 +6000,7 @@
       ],
       "date_added": "2019-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 176333,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
@@ -6581,7 +6596,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 140000,
       "name": "It's My Party",
       "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
@@ -8029,7 +8044,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -8101,7 +8116,7 @@
       ],
       "date_added": "2019-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-28",
       "duration_ms": 162893,
       "name": "Moon River (From \"Breakfast at Tiffany's\")",
       "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
@@ -8717,7 +8732,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 158680,
       "name": "Nothing Can Change This Love",
       "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
@@ -10807,7 +10822,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
@@ -12079,7 +12094,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 157573,
       "name": "The End of the World",
       "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
@@ -12097,7 +12112,7 @@
       ],
       "date_added": "2019-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-15",
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
@@ -12563,7 +12578,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 174360,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
@@ -13301,7 +13316,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 201733,
       "name": "Try a Little Tenderness",
       "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
@@ -14237,7 +14252,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
@@ -14745,7 +14760,7 @@
       ],
       "date_added": "2020-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: SURAN(\uc218\ub780)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
+  "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: En Sokum(\uc740\uc18c\uae08)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
-  "published_playlist_ids": [
-    "60gChNBvUMmws1lEdYPtTq"
-  ],
   "tracks": [
     {
       "album": {
@@ -541,7 +538,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 299500,
       "name": "Aqua (feat. Muzie)",
       "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
@@ -1163,7 +1160,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 191498,
       "name": "Come With Me (feat. Aden & H!)",
       "url": "https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ"
@@ -1185,6 +1182,24 @@
       "duration_ms": 196112,
       "name": "Cream Dream",
       "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
+    },
+    {
+      "album": {
+        "name": "Cristal Love",
+        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
+      },
+      "artists": [
+        {
+          "name": "En Sokum",
+          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217058,
+      "name": "Cristal Love",
+      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
     },
     {
       "album": {
@@ -1535,9 +1550,9 @@
           "url": "https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55"
         }
       ],
-      "date_added": "2022-10-05",
+      "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 214736,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
@@ -1681,7 +1696,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 214560,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
@@ -1823,7 +1838,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 218902,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71"
@@ -3598,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "polaris",
+        "url": "https://open.spotify.com/album/0g8cwMezSGfEefVg0PKkFK"
+      },
+      "artists": [
+        {
+          "name": "BehindtheMoon",
+          "url": "https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 212559,
+      "name": "polaris",
+      "url": "https://open.spotify.com/track/71o4YEOUkycd6pwhH03sHL"
+    },
+    {
+      "album": {
         "name": "pporappippam",
         "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
       },
@@ -3681,7 +3714,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": "2022-12-22",
       "duration_ms": 208346,
       "name": "Reckless (with TTG)",
       "url": "https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB"
@@ -4377,6 +4410,24 @@
     {
       "album": {
         "name": "Onstage Digging Club Seoul THEME 04",
+        "url": "https://open.spotify.com/album/3WREPmFd4M6Rfunvv5p1mF"
+      },
+      "artists": [
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198050,
+      "name": "The girl in my memories (Digging club Seoul Ver.)",
+      "url": "https://open.spotify.com/track/72znGmipHo5wclQX7RKhpB"
+    },
+    {
+      "album": {
+        "name": "Onstage Digging Club Seoul THEME 04",
         "url": "https://open.spotify.com/album/11YIHoOGPN6zvskNI9aa1g"
       },
       "artists": [
@@ -4405,7 +4456,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 198050,
       "name": "The girl in my memories(Digging Club Seoul Ver.)",
       "url": "https://open.spotify.com/track/2PvbRFttjYprNiT8IBJPD9"

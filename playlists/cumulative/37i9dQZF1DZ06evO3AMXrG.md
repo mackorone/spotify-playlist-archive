@@ -4,7 +4,7 @@
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-59 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/2KpUyoaXLO08Vpz7QeRH6e)
+59 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Caracoles](https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 4:40 | 2022-05-25 |  |
 | [De Antes](https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 5:04 | 2022-05-25 |  |
 | [Despertador Solar](https://open.spotify.com/track/0hMNf3RxYbtQ3qd4qEN2KI) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 4:19 | 2022-05-25 |  |
-| [Despertar](https://open.spotify.com/track/0JgjwTH0UqqsEtJo6f3rl1) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 4:06 | 2022-05-25 |  |
+| [Despertar](https://open.spotify.com/track/0JgjwTH0UqqsEtJo6f3rl1) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 4:06 | 2022-05-25 | 2023-02-02 |
 | [Donde No Alcanza Mi Verso](https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:43 | 2022-05-25 |  |
 | [Días Intensos \- En Vivo](https://open.spotify.com/track/4j8z7WW1iFAZjSPt24XVlm) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 5:51 | 2022-05-25 |  |
 | [Efecto Dominó](https://open.spotify.com/track/2QQzm3FX7CVoF3x65YdbFL) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 3:17 | 2022-08-15 | 2022-10-07 |
@@ -45,7 +45,7 @@
 | [No Me Busques \- En Vivo](https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Cultura en Vivo](https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8) | 6:25 | 2022-05-25 |  |
 | [No Me Interesa](https://open.spotify.com/track/1lIBlgWFQCN9zLwUaUMJfL) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:44 | 2022-05-26 |  |
 | [Para Estar](https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 4:56 | 2022-05-25 |  |
-| [Pimper's Paradise \- Live](https://open.spotify.com/track/0hN3PFAINvpvhjV4v6CmTu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Tribute to the Legend Bob Marley \(Live\)](https://open.spotify.com/album/1a13hH48fVZwvpODjcnjoi) | 4:16 | 2022-05-26 | 2022-11-25 |
+| [Pimper's Paradise \- Live](https://open.spotify.com/track/0hN3PFAINvpvhjV4v6CmTu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Tribute to the Legend Bob Marley \(Live\)](https://open.spotify.com/album/1a13hH48fVZwvpODjcnjoi) | 4:16 | 2022-05-26 |  |
 | [Population Disorder / Tempestad Tranquila / Ideas Nuevas \- En Vivo](https://open.spotify.com/track/23jnxVzlzYjpX2YZtnrjdA) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 8:44 | 2022-05-25 |  |
 | [Quiero Hablar](https://open.spotify.com/track/0fEXNlcGfKRp33LNM7jToQ) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 3:44 | 2022-05-25 |  |
 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 | 2022-10-12 |  |
@@ -62,7 +62,7 @@
 | [Sólo Por Ti](https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [El Momento](https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU) | 3:55 | 2022-05-25 |  |
 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 | 2022-05-25 | 2022-07-04 |
 | [Te Creí](https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 4:02 | 2022-07-03 |  |
-| [Tempestad Tranquila](https://open.spotify.com/track/7yTgayrV0QMrB20nTzWdB8) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 3:37 | 2022-05-26 | 2022-11-23 |
+| [Tempestad Tranquila](https://open.spotify.com/track/7yTgayrV0QMrB20nTzWdB8) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 3:37 | 2022-05-26 | 2023-02-01 |
 | [Un Deseo](https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:22 | 2022-05-25 |  |
 | [Viértele Flor](https://open.spotify.com/track/03GdgDtxpDN12XyDq6GM2a) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:31 | 2022-05-25 | 2022-10-12 |
 | [¿Qué Será? / Ritmo Que Pesa / Suelta los Amarres / Revolución en Estéreo / Lo de Más \- En Vivo](https://open.spotify.com/track/09BZvRoyzf58jpjBStkEzg) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 13:54 | 2022-05-25 |  |

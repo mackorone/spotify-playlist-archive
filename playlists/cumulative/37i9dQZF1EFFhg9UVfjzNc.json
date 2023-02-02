@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2JRW3jis8XpwJlqecAV4Id\">Hananiel Eduardo</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Hananiel Eduardo",
-  "published_playlist_ids": [
-    "4WudXIoTmjglNeW2dnfr06"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,6 +92,24 @@
       "duration_ms": 365052,
       "name": "Batimentos - Ao Vivo",
       "url": "https://open.spotify.com/track/6hAaaz1VPSF6Gm3Q1RcoBi"
+    },
+    {
+      "album": {
+        "name": "Bom \u00c2nimo",
+        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176520,
+      "name": "Bom \u00c2nimo",
+      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
     },
     {
       "album": {

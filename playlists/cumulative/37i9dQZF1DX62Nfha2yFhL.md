@@ -4,7 +4,7 @@
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-95 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
+95 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [The Better Benediction \(pt.2\) \(feat\. Lisa Knowles\-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard\)](https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Lisa Knowles\-Smith](https://open.spotify.com/artist/000UmiuzgqlUjKHpvIWmAo), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Watch The Sun \(Deluxe\)](https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3) | 4:31 | 2022-10-14 |  |
 | [Think About You \- Notion Mix](https://open.spotify.com/track/698qfbrci5r8U0EKceXhml) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Think About You \(Notion Mix\)](https://open.spotify.com/album/3LDQk8fS6P9E2lJVO0vUY4) | 3:14 | 2021-10-22 |  |
 | [Time Alone With You \(feat\. Daniel Caesar\)](https://open.spotify.com/track/04jVEb76Kw5OrmGtlXlHxI) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Time Alone With You \(feat\. Daniel Caesar\)](https://open.spotify.com/album/1pwXpbHvWEMH4nCAlhlwf7) | 4:15 | 2021-10-22 |  |
-| [Today](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Today](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 | 2022-11-11 |  |
+| [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 | 2022-11-11 |  |
 | [try\. \(feat\. JoJo\)](https://open.spotify.com/track/7jVxoi0YzIfmaZ4X0o0Jp9) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 2:13 | 2022-11-18 |  |
 | [Vibrant](https://open.spotify.com/track/2xQAAd2pCT7q2HlWffAaMh) | [Stokley](https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Vibrant](https://open.spotify.com/album/5v0gnKHa0ZMf4EgxmZlZYU) | 4:08 | 2021-10-22 | 2022-09-10 |
 | [Wanna Love You](https://open.spotify.com/track/09xccZVuNwd9vP7abwZkyu) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Wanna Love You](https://open.spotify.com/album/2ROfHzFMBfzgvx6IsQIgZB) | 2:50 | 2022-02-18 |  |

@@ -2,9 +2,9 @@
 
 ### [Souvenirs](https://open.spotify.com/playlist/37i9dQZF1DX8XxBtyUnC7B)
 
-> Vive la France !
+> Vive la France ! 🇫🇷
 
-88 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/4Zi2nJkHRT6Icgb5fuEvc3)
+88 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

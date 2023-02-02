@@ -4,7 +4,7 @@
 
 > 80's Edition!  D\-Nice's essential jams for any party at home!
 
-74 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/50QR79j8k5LtNRr6rof7wE)
+74 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bang Zoom \(Let's Go\-Go\)](https://open.spotify.com/track/2AGmw3ewDomsRH8soSFpbS) | [The Real Roxanne](https://open.spotify.com/artist/0tWFCFuGxmuWwPL8PUHCU5) | [The Real Roxanne](https://open.spotify.com/album/1GaU037lWFDr9qu19zDuIk) | 5:57 | 2020-04-13 |  |
 | [Behind The Groove](https://open.spotify.com/track/6nXCHvql32RBADi95fvHo9) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Lady T \(Expanded Edition 15 Track Version\)](https://open.spotify.com/album/4U0XSBp2dWNCD0aFl7oLTz) | 6:05 | 2020-04-13 |  |
 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 | 2020-04-13 |  |
-| [Bounce, Rock, Skate, Roll](https://open.spotify.com/track/2zt545oVs5FxS39b5NB5we) | [Vaughan Mason and Crew](https://open.spotify.com/artist/5MBBgzM082fkQbg75YyKBO) | [Roll Bounce Soundtrack](https://open.spotify.com/album/3FTg8lRnHz4OqHk2Yj7dHl) | 5:29 | 2020-04-13 |  |
+| [Bounce, Rock, Skate, Roll](https://open.spotify.com/track/2zt545oVs5FxS39b5NB5we) | [Vaughan Mason and Crew](https://open.spotify.com/artist/5MBBgzM082fkQbg75YyKBO) | [Roll Bounce \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FTg8lRnHz4OqHk2Yj7dHl) | 5:29 | 2020-04-13 |  |
 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 | 2020-04-13 |  |
 | [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 | 2020-04-13 |  |
 | [Buffalo Stance](https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [Raw Like Sushi](https://open.spotify.com/album/2AyJzvREOnlnYhaBzF1Kxp) | 5:42 | 2020-04-13 |  |

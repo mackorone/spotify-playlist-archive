@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Ponniyin Selvan 1",
+  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Varisu",
   "name": "Hot Hits Tamil",
-  "published_playlist_ids": [
-    "08qCykpFzLPE8OJvwnUnl8"
-  ],
   "tracks": [
     {
       "album": {
@@ -328,6 +325,32 @@
     },
     {
       "album": {
+        "name": "Chilla Chilla (From \"Thunivu\")",
+        "url": "https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Chilla Chilla (From \"Thunivu\")",
+      "url": "https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB"
+    },
+    {
+      "album": {
         "name": "Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN"
       },
@@ -391,7 +414,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 273228,
       "name": "Devaralan Aattam",
       "url": "https://open.spotify.com/track/1O5AqyUHm8vH8XGr173ugY"
@@ -446,6 +469,28 @@
     },
     {
       "album": {
+        "name": "Love Today (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244669,
+      "name": "Ennai Vittu",
+      "url": "https://open.spotify.com/track/4FOCZFqxIS1Xc5JWla5VNj"
+    },
+    {
+      "album": {
         "name": "Mahaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1vMs40ZOP7MVOfpf4eu6Lh"
       },
@@ -461,6 +506,28 @@
       "duration_ms": 212857,
       "name": "Evanda Enakku Custody",
       "url": "https://open.spotify.com/track/64NPSUK9QT49jEDKl3FK1a"
+    },
+    {
+      "album": {
+        "name": "Thunivu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6yrTMquEeWzhMIdGqzXhgA"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Shabir Sulthan",
+          "url": "https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200938,
+      "name": "Gangstaa",
+      "url": "https://open.spotify.com/track/23xgRYhf7NbleK53LGwgAp"
     },
     {
       "album": {
@@ -569,6 +636,28 @@
       "duration_ms": 202607,
       "name": "Jalabulajangu (From \"Don\")",
       "url": "https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh"
+    },
+    {
+      "album": {
+        "name": "Varisu",
+        "url": "https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224095,
+      "name": "Jimikki Ponnu",
+      "url": "https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL"
     },
     {
       "album": {
@@ -683,6 +772,32 @@
       "duration_ms": 232513,
       "name": "Kannukkulle (From \"Sita Ramam (Tamil)\")",
       "url": "https://open.spotify.com/track/4WDya8Mau5wuqLnaNr2Ct0"
+    },
+    {
+      "album": {
+        "name": "Kasethan Kadavulada (From \"Thunivu\")",
+        "url": "https://open.spotify.com/album/4wbatnzqMwHfR7SOGzkJyi"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Manju Warrier",
+          "url": "https://open.spotify.com/artist/4IXYF3FJmeKQFqT7pAjf3h"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188052,
+      "name": "Kasethan Kadavulada (From \"Thunivu\")",
+      "url": "https://open.spotify.com/track/1DmCs9mXUP9wnaTQcsT5aH"
     },
     {
       "album": {
@@ -1144,6 +1259,28 @@
     },
     {
       "album": {
+        "name": "Love Today (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Mathichiyam Bala",
+          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Pacha Elai",
+      "url": "https://open.spotify.com/track/5jmW454u8igkIgEVgvfSOE"
+    },
+    {
+      "album": {
         "name": "Pathala Pathala (From \"Vikram\")",
         "url": "https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO"
       },
@@ -1319,7 +1456,7 @@
           "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
         },
         {
-          "name": "M. M. Manasi",
+          "name": "M.M.Manasi",
           "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
         },
         {
@@ -1482,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Varisu",
+        "url": "https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy"
+      },
+      "artists": [
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127135,
+      "name": "Soul Of Varisu",
+      "url": "https://open.spotify.com/track/3Xhy4piUxuXY1VRqeaHi0Z"
+    },
+    {
+      "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/5dGmwPrF05ihcsEgBHBDhw"
       },
@@ -1625,6 +1780,28 @@
       "duration_ms": 229386,
       "name": "Thala Kodhum",
       "url": "https://open.spotify.com/track/4QMBSOZ0PQWZGK70tNGOYh"
+    },
+    {
+      "album": {
+        "name": "Thee Thalapathy (From \"Varisu\")",
+        "url": "https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL"
+      },
+      "artists": [
+        {
+          "name": "Silambarasan TR",
+          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Thee Thalapathy (From \"Varisu\")",
+      "url": "https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h"
     },
     {
       "album": {
@@ -1809,6 +1986,62 @@
       "duration_ms": 176345,
       "name": "Two Two Two (From \"Kaathuvaakula Rendu Kaadhal\")",
       "url": "https://open.spotify.com/track/6C8JJFoGC4dkVtAHVK3iif"
+    },
+    {
+      "album": {
+        "name": "Varisu",
+        "url": "https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "Aravind Srinivas",
+          "url": "https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270048,
+      "name": "Vaa Thalaivaa",
+      "url": "https://open.spotify.com/track/4H2ILdDNn6jkE7REM5skJC"
+    },
+    {
+      "album": {
+        "name": "Vaathi",
+        "url": "https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225380,
+      "name": "Vaa Vaathi",
+      "url": "https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32"
     },
     {
       "album": {

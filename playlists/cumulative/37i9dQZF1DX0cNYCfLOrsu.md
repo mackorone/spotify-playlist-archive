@@ -4,7 +4,7 @@
 
 > Jada Kingdom selects the baddest in Dancehall for the gyaldem.
 
-158 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
+159 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Rushing](https://open.spotify.com/track/5Ttn93s4gqOG3SwXJuppfa) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Rushing](https://open.spotify.com/album/3MgOPLcWZFCtmCSQPtmMaa) | 2:34 | 2021-10-24 | 2022-07-29 |
 | [Scripture](https://open.spotify.com/track/5mxjjwz1QzSBZL92y9Gm7N) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Scripture](https://open.spotify.com/album/43DlU7NOku21Zu2nxEIlrP) | 3:13 | 2022-08-18 |  |
 | [Senseless](https://open.spotify.com/track/20GrAO16fXHWO241JeYKWP) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Senseless](https://open.spotify.com/album/2y6X069vn7n8YbnX8gDY4o) | 3:03 | 2021-10-24 | 2022-08-19 |
-| [Señorita](https://open.spotify.com/track/3LiT0O7d6Xj78anH3T0tLf) | [Maestro Don](https://open.spotify.com/artist/6sgu3qdyKJZuXyCdUxBRPV), [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci) | [Señorita](https://open.spotify.com/album/1LBqEhWeeeNOleFewq2zOY) | 2:55 | 2022-08-18 |  |
+| [Señorita](https://open.spotify.com/track/3LiT0O7d6Xj78anH3T0tLf) | [Maestro Don](https://open.spotify.com/artist/6sgu3qdyKJZuXyCdUxBRPV), [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci), [KevStar](https://open.spotify.com/artist/2rcsgAwBAbLfiuFcPNIZr7) | [Señorita](https://open.spotify.com/album/1LBqEhWeeeNOleFewq2zOY) | 2:55 | 2022-08-18 |  |
 | [Shen Yeng Anthem](https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem](https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT) | 2:21 | 2022-06-20 | 2022-08-19 |
 | [Shen Yeng Anthem](https://open.spotify.com/track/720ZYTSr4vSqcFYq2CTJKN) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem \- Single](https://open.spotify.com/album/3gzUHMvH0iMkfFqDMg2i7O) | 2:21 | 2021-10-24 | 2022-07-29 |
 | [Sin Sex](https://open.spotify.com/track/4vYQ5wrzzYIkc2tYUVH0jh) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Sin Sex \- Single](https://open.spotify.com/album/3fkujIfHucjGIDptseyQqC) | 3:37 | 2021-10-24 | 2022-07-29 |
@@ -130,7 +130,8 @@
 | [Slow Motion](https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Slow Motion](https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g) | 2:46 | 2021-10-24 | 2022-08-19 |
 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 | 2021-10-24 | 2022-08-19 |
 | [Sticks & Stones](https://open.spotify.com/track/0wMQptN6JvREl2YtONlENi) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Sticks & Stones](https://open.spotify.com/album/71hjGFjIhwh22nTzubHrKd) | 3:13 | 2021-10-24 | 2022-07-29 |
-| [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4iyNOD4gCFiKMc62BVm0IN) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:13 | 2021-10-24 |  |
+| [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:13 | 2022-08-18 |  |
+| [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4iyNOD4gCFiKMc62BVm0IN) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:13 | 2021-10-24 | 2023-01-02 |
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-20 | 2022-08-19 |
 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 | 2021-10-24 | 2022-08-19 |
 | [Tek It To Dem](https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Tek It To Dem](https://open.spotify.com/album/6MmmobXINMtOkz7yfSaknm) | 3:19 | 2021-10-24 | 2022-07-29 |

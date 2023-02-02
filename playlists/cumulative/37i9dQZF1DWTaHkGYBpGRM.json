@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Long distance is hard, but true love knows no boundaries.",
   "name": "Long Distance",
-  "published_playlist_ids": [
-    "4ITWUe9tguZr37ZcyB09uq"
-  ],
   "tracks": [
     {
       "album": {
@@ -591,7 +588,7 @@
     {
       "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
       "artists": [
         {
@@ -602,6 +599,24 @@
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Half the World Away",
+      "url": "https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 198133,
       "name": "Half the World Away",
       "url": "https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR"
@@ -698,6 +713,24 @@
     },
     {
       "album": {
+        "name": "The World From The Side Of The Moon",
+        "url": "https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
+    },
+    {
+      "album": {
         "name": "The World From The Side Of The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/773GsAWk3z8mGgMDeR7n1A"
       },
@@ -709,7 +742,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 210173,
       "name": "Home",
       "url": "https://open.spotify.com/track/4rsW3WCZBGwhHfJWuHRwyT"
@@ -1167,7 +1200,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 197546,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl"
@@ -1189,6 +1222,24 @@
       "duration_ms": 197546,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/6IQhhYtJ0U1Zhs76pSMHJO"
+    },
+    {
+      "album": {
+        "name": "Dear Happy",
+        "url": "https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197546,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/7bJ9LsbiWySCjsKltAP7x5"
     },
     {
       "album": {
@@ -1661,6 +1712,24 @@
     {
       "album": {
         "name": "Rather Be with You",
+        "url": "https://open.spotify.com/album/4gfAeJv9CKKraAUEqEQOqs"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199704,
+      "name": "Rather Be with You - Acoustic",
+      "url": "https://open.spotify.com/track/2rNIGwLuQauPp8qLFuQnzm"
+    },
+    {
+      "album": {
+        "name": "Rather Be with You",
         "url": "https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x"
       },
       "artists": [
@@ -1671,7 +1740,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 199704,
       "name": "Rather Be with You - Acoustic",
       "url": "https://open.spotify.com/track/7fS708BKUj1zNyejmuZxDb"

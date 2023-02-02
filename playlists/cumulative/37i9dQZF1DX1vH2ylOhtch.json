@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-22",
   "description": "uh-oh?",
   "name": "pov: te enamoras de tu bestie",
-  "published_playlist_ids": [
-    "1HpjezBT7Nxrel2PfnMJZv"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 218500,
       "name": "...What Are We?",
       "url": "https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi"
@@ -163,7 +160,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-17",
       "duration_ms": 100000,
       "name": "arcade",
       "url": "https://open.spotify.com/track/3YUrTgRbFtmaSHQRa8S4tj"
@@ -243,7 +240,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 185617,
       "name": "Belong to You (feat. 6LACK)",
       "url": "https://open.spotify.com/track/2I88NEWpKrAPZuapXNV5G6"
@@ -261,7 +258,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 251017,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/5pOBhos8Z2v3FGjUPMgUgI"
@@ -407,6 +404,10 @@
           "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
         },
         {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        },
+        {
           "name": "slater",
           "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
         }
@@ -431,7 +432,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-24",
       "duration_ms": 163200,
       "name": "Deep",
       "url": "https://open.spotify.com/track/1LzmZWMpiPqeEIvaYCzO3Z"
@@ -521,7 +522,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 236413,
       "name": "Don\u2019t Blame Me",
       "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
@@ -623,6 +624,24 @@
       "duration_ms": 199614,
       "name": "EL POETA",
       "url": "https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9"
+    },
+    {
+      "album": {
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
     },
     {
       "album": {
@@ -800,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Hasta Ese D\u00eda",
+        "url": "https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203693,
+      "name": "Hasta Ese D\u00eda",
+      "url": "https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -873,7 +910,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
@@ -927,7 +964,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 212787,
       "name": "I Want You Around",
       "url": "https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1"
@@ -1040,6 +1077,46 @@
     },
     {
       "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
+    },
+    {
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309615,
+      "name": "Las estrellas / Si tu me love me",
+      "url": "https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8"
+    },
+    {
+      "album": {
         "name": "Blood Harmony (Deluxe)",
         "url": "https://open.spotify.com/album/1O1Ulu4uuaceAzsNfN7ks0"
       },
@@ -1094,6 +1171,46 @@
     },
     {
       "album": {
+        "name": "Lo Que Quieras",
+        "url": "https://open.spotify.com/album/3dFWF6oT1yyze66ZP2NBmC"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 166000,
+      "name": "Lo Que Quieras",
+      "url": "https://open.spotify.com/track/2HdH6NjrNohunHNBpWpq6C"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213279,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
+    },
+    {
+      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -1141,7 +1258,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-24",
       "duration_ms": 155159,
       "name": "me gusta que me gustes",
       "url": "https://open.spotify.com/track/103F71tYE8WU3AtiIkmDC0"
@@ -1321,7 +1438,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
@@ -1357,7 +1474,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 252736,
       "name": "Planeando Madrid",
       "url": "https://open.spotify.com/track/1pJ9wvdICdBrCB9M1VGEnc"
@@ -1437,7 +1554,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": "2023-01-24",
       "duration_ms": 187386,
       "name": "r u ok",
       "url": "https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv"
@@ -1480,6 +1597,46 @@
     },
     {
       "album": {
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Segundos Platos",
+      "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
+    },
+    {
+      "album": {
+        "name": "Solo Me Gustas T\u00fa",
+        "url": "https://open.spotify.com/album/2Vc8V7UgW7r2LUdd2J8rHJ"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "Casky",
+          "url": "https://open.spotify.com/artist/6C9VbzkpOtldLCPCImRuQa"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "Solo Me Gustas T\u00fa",
+      "url": "https://open.spotify.com/track/5SRMV6nJtnSGXa3wgqoNwS"
+    },
+    {
+      "album": {
         "name": "Solo Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3R3w9aYqqhKCkLuifBxvw6"
       },
@@ -1495,7 +1652,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 144624,
       "name": "Solo Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/5UxLx0jK2aCcAD50Cu4dSw"
@@ -1517,6 +1674,24 @@
       "duration_ms": 183000,
       "name": "Solo Me Quieres Cuando Estas Triste",
       "url": "https://open.spotify.com/track/5jwrRpfqjrD4oSBbWWDh1t"
+    },
+    {
+      "album": {
+        "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+        "url": "https://open.spotify.com/album/6mLHr5VJvRSzQIHCCH0FIh"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 183000,
+      "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
+      "url": "https://open.spotify.com/track/2toa7OfO590nOAZxWMO3cB"
     },
     {
       "album": {
@@ -1575,7 +1750,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 174860,
       "name": "There's No Way",
       "url": "https://open.spotify.com/track/5ZpIsCmJtMAyTvz8Z3bGXX"
@@ -1626,6 +1801,28 @@
     },
     {
       "album": {
+        "name": "There's No Way (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 174860,
+      "name": "There's No Way (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
+    },
+    {
+      "album": {
         "name": "brent ii",
         "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
       },
@@ -1645,6 +1842,24 @@
       "duration_ms": 174586,
       "name": "this is how you fall in love",
       "url": "https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS"
+    },
+    {
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120308,
+      "name": "this is what falling in love feels like",
+      "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
     },
     {
       "album": {

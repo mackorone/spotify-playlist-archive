@@ -4,7 +4,7 @@
 
 > These songs will make you feel better\. Or maybe worse.
 
-54 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/20HKEsl2O1gRJfTHuZcMKw)
+54 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

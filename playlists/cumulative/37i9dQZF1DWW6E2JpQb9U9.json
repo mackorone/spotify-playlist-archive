@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Rata Blanca",
+  "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: La Beriso",
   "name": "Vivo de Rock",
-  "published_playlist_ids": [
-    "3HYsIAc7oXByJ2AOHakeY7"
-  ],
   "tracks": [
     {
       "album": {
@@ -785,7 +782,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-03",
       "duration_ms": 241346,
       "name": "Campanas en la Noche - En Vivo",
       "url": "https://open.spotify.com/track/2gcgBpVcO0CONdvzvTBmQM"
@@ -1475,7 +1472,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 346040,
       "name": "El Balc\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/7ywbpggu1JZHDKCK153aTf"
@@ -1619,7 +1616,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-08",
       "duration_ms": 178877,
       "name": "Ella Es Como un \u00c1ngel - En Vivo Cosqu\u00edn Rock",
       "url": "https://open.spotify.com/track/1ZwRW2fBF8MwLhopiNeYcJ"
@@ -1875,6 +1872,24 @@
       "duration_ms": 317594,
       "name": "Flores (En Vivo Estadio V\u00e9lez Sarsfield)",
       "url": "https://open.spotify.com/track/2YjfvG1TMvqZ5FSo7CYwXK"
+    },
+    {
+      "album": {
+        "name": "Flores (Sinf\u00f3nico en Vivo)",
+        "url": "https://open.spotify.com/album/31CoMLj31zPfI8ApJ2tneP"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452863,
+      "name": "Flores (Sinf\u00f3nico en Vivo)",
+      "url": "https://open.spotify.com/track/2V9J0oeYVz2G1DaJqFG75b"
     },
     {
       "album": {
@@ -2505,7 +2520,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 267836,
       "name": "Llega llega llega - Vivo en Obras",
       "url": "https://open.spotify.com/track/5iADCLb4Q9ZMaRAx0yHNO0"
@@ -2707,7 +2722,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 414120,
       "name": "Marad\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH"
@@ -3791,7 +3806,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 253320,
       "name": "Sacate la Mierda - En Vivo",
       "url": "https://open.spotify.com/track/63tUQEbpxDar0yjmtPB6jg"
@@ -4919,7 +4934,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 298263,
       "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"

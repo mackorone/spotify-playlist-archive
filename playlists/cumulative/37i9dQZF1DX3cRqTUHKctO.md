@@ -4,7 +4,7 @@
 
 > Queer Spaces curated by Unorthodox, the UK’s first Queer Drum and Bass movement.
 
-108 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/6ZAzi8vitDtPTVjfJIj8cw)
+108 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

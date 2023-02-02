@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
   "name": "Banda Rom\u00e1ntica",
-  "published_playlist_ids": [
-    "1XWAqekPJjhiLXD9NnEqyS"
-  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +32,7 @@
           "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188471,
@@ -79,7 +76,7 @@
           "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186400,
@@ -171,7 +168,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 173226,
       "name": "Amantes Escondidos",
       "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
@@ -232,6 +229,46 @@
     },
     {
       "album": {
+        "name": "Blanco y Negro Vol. 1",
+        "url": "https://open.spotify.com/album/6LK6fOmrYEovTCldkjLR6x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148155,
+      "name": "Asi Nomas",
+      "url": "https://open.spotify.com/track/7ILG0oQ5J4F1lAqbXbV0hG"
+    },
+    {
+      "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/2J8YtGnbB9QKl6zAeIOzsh"
       },
@@ -259,12 +296,30 @@
           "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Bonito y Bello",
+      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
     },
     {
       "album": {
@@ -351,7 +406,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 182066,
       "name": "Como Pez En El Agua",
       "url": "https://open.spotify.com/track/2CpfZ5y47gaY5iGFGdIi6a"
@@ -367,7 +422,7 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 122096,
@@ -484,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
+        "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196360,
+      "name": "De Ti Exclusivo",
+      "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
+    },
+    {
+      "album": {
         "name": "De Ti Me Enamor\u00e9",
         "url": "https://open.spotify.com/album/4gjohobBtyIYcfpagTWyIx"
       },
@@ -499,6 +572,24 @@
       "duration_ms": 172386,
       "name": "De Ti Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/5DxEC5FJcjpxnOt14mwM39"
+    },
+    {
+      "album": {
+        "name": "Situaciones",
+        "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233706,
+      "name": "De Uno y De Todos Los Modos - Version Bolero",
+      "url": "https://open.spotify.com/track/6DkNnb8nBR1uuqaSVWQgfm"
     },
     {
       "album": {
@@ -585,7 +676,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 208160,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
@@ -773,7 +864,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 180826,
       "name": "Encontrarte",
       "url": "https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV"
@@ -789,7 +880,7 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212915,
@@ -827,7 +918,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 192560,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6Syi9hj45fiEW2UtYIZbJ9"
@@ -845,7 +936,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 207226,
       "name": "Eres Mi Droga",
       "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
@@ -863,7 +954,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 210853,
       "name": "Eres Todo Todo - Bolero",
       "url": "https://open.spotify.com/track/5dY20YYRIPCUd3YUDNGQz8"
@@ -935,7 +1026,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 186866,
       "name": "Especial",
       "url": "https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK"
@@ -1152,6 +1243,42 @@
     },
     {
       "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167897,
+      "name": "Le Hace Falta Un Beso",
+      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
+    },
+    {
+      "album": {
+        "name": "Locamente Enamorado",
+        "url": "https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 217495,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux"
+    },
+    {
+      "album": {
         "name": "Loco Enamorado",
         "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
       },
@@ -1165,7 +1292,7 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226000,
@@ -1225,6 +1352,28 @@
       "duration_ms": 194538,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/67FjCsBqtUZLz6JICBZPTf"
+    },
+    {
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
     },
     {
       "album": {
@@ -1513,7 +1662,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 172018,
       "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
       "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
@@ -1535,6 +1684,28 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "album": {
+        "name": "Ojitos Caf\u00e9s",
+        "url": "https://open.spotify.com/album/6SRWhE60fWiqYa4BkYF4xT"
+      },
+      "artists": [
+        {
+          "name": "Omar Robles",
+          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190981,
+      "name": "Ojitos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/1nXSQbUEIutffxscuSE33T"
     },
     {
       "album": {
@@ -1565,9 +1736,9 @@
           "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "date_added": "2022-11-11",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 163866,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/24BFgkBI2qTSNlsKi5WnJp"
@@ -1603,7 +1774,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 149812,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
@@ -1762,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Se Vale Enamorarse",
+        "url": "https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 176400,
+      "name": "Se Vale Enamorarse",
+      "url": "https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z"
+    },
+    {
+      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -1834,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
+    },
+    {
+      "album": {
         "name": "Suerte He Tenido",
         "url": "https://open.spotify.com/album/13uRlfKliCNUGJ3i6JEzgG"
       },
@@ -1892,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
+    },
+    {
+      "album": {
         "name": "Vida Sinaloense",
         "url": "https://open.spotify.com/album/3o6zIEXbQe5TKlsdtOI39l"
       },
@@ -1907,6 +2136,28 @@
       "duration_ms": 237053,
       "name": "Te Amo Y Te Amo",
       "url": "https://open.spotify.com/track/2rAp8JQuhCUwl3O1HNxrss"
+    },
+    {
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 197107,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
     },
     {
       "album": {
@@ -1957,7 +2208,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 180400,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
@@ -2147,7 +2398,7 @@
           "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 263100,
@@ -2167,10 +2418,28 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 173080,
       "name": "Un Mill\u00f3n de Primaveras",
       "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
+    },
+    {
+      "album": {
+        "name": "Una Linda Mujer",
+        "url": "https://open.spotify.com/album/6IPrta7kcyyOWTQIJZWz5J"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182694,
+      "name": "Una Linda Mujer",
+      "url": "https://open.spotify.com/track/3h90gypXwmPw2EclCHdfcF"
     },
     {
       "album": {
@@ -2210,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Exitos De Mariano Barba",
+        "url": "https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR"
+      },
+      "artists": [
+        {
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "Una Noche M\u00e1s Contigo",
+      "url": "https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7"
+    },
+    {
+      "album": {
         "name": "Lo S\u00e9",
         "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
       },
@@ -2221,10 +2508,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 143081,
       "name": "Voy a Amarte",
       "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
+    },
+    {
+      "album": {
+        "name": "Voy a Conquistarte",
+        "url": "https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175051,
+      "name": "Voy a Conquistarte",
+      "url": "https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6"
     },
     {
       "album": {
@@ -2243,6 +2552,24 @@
       "duration_ms": 166200,
       "name": "Y As\u00ed Fue",
       "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda Musical",
+        "url": "https://open.spotify.com/album/176ksjtFEAIhMgTYpQDjGG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Y Que Quede Claro",
+      "url": "https://open.spotify.com/track/1jQKaVoVmhh7pqxrRh5Mev"
     },
     {
       "album": {

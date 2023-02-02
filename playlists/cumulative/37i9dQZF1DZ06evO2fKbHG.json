@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-18",
   "description": "This is The Clash. The essential tracks, all in one playlist.",
   "name": "This Is The Clash",
-  "published_playlist_ids": [
-    "53sjBaslS5oMykII3x7VVQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -235,7 +232,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 189693,
       "name": "Dirty Punk",
       "url": "https://open.spotify.com/track/1r30Iz6qrNAXJFiQzQh1vH"
@@ -271,7 +268,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 131613,
       "name": "First Night Back in London",
       "url": "https://open.spotify.com/track/51opuNsrUewNyBaz4wV5H1"
@@ -289,7 +286,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 354746,
       "name": "Futura 2000",
       "url": "https://open.spotify.com/track/0ZOd1fmpaBXLbtDQPeJz2k"
@@ -505,7 +502,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 212373,
       "name": "North and South",
       "url": "https://open.spotify.com/track/0ZlFRuGgIPfBW529zVtO0U"
@@ -653,6 +650,24 @@
       "duration_ms": 222426,
       "name": "Rock the Casbah - Remastered",
       "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+    },
+    {
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 208866,
+      "name": "Rudie Can't Fail - Remastered",
+      "url": "https://open.spotify.com/track/4W9zZsQKsqikYbKM9vcN5Q"
     },
     {
       "album": {

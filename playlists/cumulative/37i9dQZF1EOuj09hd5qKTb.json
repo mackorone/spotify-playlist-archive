@@ -1,9 +1,26 @@
 {
   "date_first_scraped": "2022-10-22",
   "description": "Dig deeper into some of your top artists of 2020 with a mix of talk and music.",
-  "name": "On Record (5)",
-  "published_playlist_ids": [],
+  "name": "On Record (8)",
   "tracks": [
+    {
+      "album": {
+        "name": "1001 Album Club",
+        "url": "https://open.spotify.com/show/7f5Rdm6RukUPsWFtxlEfOb"
+      },
+      "artists": [
+        {
+          "name": "1001 Album Club",
+          "url": "https://open.spotify.com/show/7f5Rdm6RukUPsWFtxlEfOb"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1800072,
+      "name": "256 Stevie Wonder - Talking Book",
+      "url": "https://open.spotify.com/episode/1PTwwmmrSiiCD3JnDCUNiU"
+    },
     {
       "album": {
         "name": "Can't Buy A Thrill",
@@ -21,6 +38,60 @@
       "duration_ms": 187400,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/0s1aSsYlLIEiy16LjFWbdp"
+    },
+    {
+      "album": {
+        "name": "Glass Houses - A Billy Joel Podcast",
+        "url": "https://open.spotify.com/show/2fTjIoL8mJNUBaXgp113HF"
+      },
+      "artists": [
+        {
+          "name": "Glass Houses - A Billy Joel Podcast",
+          "url": "https://open.spotify.com/show/2fTjIoL8mJNUBaXgp113HF"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3167687,
+      "name": "EP 008 - Album Retrospective: Billy Joel Greatest Hits Volume I & II",
+      "url": "https://open.spotify.com/episode/1QndtAzZulqn6BDdPhqI7d"
+    },
+    {
+      "album": {
+        "name": "Sodajerker On Songwriting",
+        "url": "https://open.spotify.com/show/4oTBzqC3DHbaKNFq2YXpQw"
+      },
+      "artists": [
+        {
+          "name": "Sodajerker On Songwriting",
+          "url": "https://open.spotify.com/show/4oTBzqC3DHbaKNFq2YXpQw"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2463314,
+      "name": "Episode 106 - Yusuf / Cat Stevens",
+      "url": "https://open.spotify.com/episode/13yvZVSo8a8MjJLioee9Rq"
+    },
+    {
+      "album": {
+        "name": "Record Roundtable",
+        "url": "https://open.spotify.com/show/5dZ188JF3P9SRDKUEX27I7"
+      },
+      "artists": [
+        {
+          "name": "Record Roundtable",
+          "url": "https://open.spotify.com/show/5dZ188JF3P9SRDKUEX27I7"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3041040,
+      "name": "Episode 67: Bill Withers",
+      "url": "https://open.spotify.com/episode/5tzfbL2YBpdawvvJctt15J"
     },
     {
       "album": {
@@ -60,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Song Exploder",
+        "url": "https://open.spotify.com/show/10lMwCjvzLCLwth2AW6cLG"
+      },
+      "artists": [
+        {
+          "name": "Song Exploder",
+          "url": "https://open.spotify.com/show/10lMwCjvzLCLwth2AW6cLG"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 920334,
+      "name": "Jack Johnson - You Can't Control It",
+      "url": "https://open.spotify.com/episode/1axKZ2xY2Ab7rSuAK9o3zm"
+    },
+    {
+      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -75,6 +164,24 @@
       "duration_ms": 258834,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "album": {
+        "name": "Rolling Stone Music Now",
+        "url": "https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx"
+      },
+      "artists": [
+        {
+          "name": "Rolling Stone Music Now",
+          "url": "https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2494772,
+      "name": "Remembering John Prine and Bill Withers",
+      "url": "https://open.spotify.com/episode/6wN2bOnRKEOC0hOEiJdGFX"
     },
     {
       "album": {
@@ -132,6 +239,42 @@
     },
     {
       "album": {
+        "name": "Rolling Stone Music Now",
+        "url": "https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx"
+      },
+      "artists": [
+        {
+          "name": "Rolling Stone Music Now",
+          "url": "https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2253244,
+      "name": "The Genius of Steely Dan's Walter Becker",
+      "url": "https://open.spotify.com/episode/25mCcPpX56WdPk9OyhBs6T"
+    },
+    {
+      "album": {
+        "name": "Rolling Stone Music Now",
+        "url": "https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx"
+      },
+      "artists": [
+        {
+          "name": "Rolling Stone Music Now",
+          "url": "https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2330279,
+      "name": "The Making of Van Morrison's Astral Weeks \u2013 and 1968's Secret History",
+      "url": "https://open.spotify.com/episode/3ydsjQANFgmff6vLOZuGOL"
+    },
+    {
+      "album": {
         "name": "The Heist (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0CoiTAUBiO70lic9p9Lboq"
       },
@@ -169,6 +312,24 @@
       "duration_ms": 214240,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+    },
+    {
+      "album": {
+        "name": "RJ Hates Rap",
+        "url": "https://open.spotify.com/show/4Vuqz2isy6Uk0DxjAA0fQ2"
+      },
+      "artists": [
+        {
+          "name": "RJ Hates Rap",
+          "url": "https://open.spotify.com/show/4Vuqz2isy6Uk0DxjAA0fQ2"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2117856,
+      "name": "Vol. 79: Thrift Shop (Macklemore & Ryan Lewis)",
+      "url": "https://open.spotify.com/episode/0VgSyxc1fFEeHwm7Kgi5XD"
     },
     {
       "album": {

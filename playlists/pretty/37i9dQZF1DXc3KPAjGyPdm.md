@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103,902 likes - 198 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,099,644 likes - 198 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 8 | [Play With Me](https://open.spotify.com/track/6hpPAOftKbe1YghyTtJuCq) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme](https://open.spotify.com/album/0iWVmKKPVhtOkaMFZcfaiw) | 3:31 |
 | 9 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 |
 | 10 | [I Was A Teenage Werewolf \- Remastered](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
-| 11 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 |
+| 11 | [Pass The Dutchie](https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [The Youth Of Today](https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs) | 3:24 |
 | 12 | [Wipe Out](https://open.spotify.com/track/1TLB7MJEEO7cwxiBmBUQbf) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 2:13 |
 | 13 | [Object of My Desire \(Edit\) \- Remix](https://open.spotify.com/track/2ckOfwlzzvY2rY7OrIdGHl) | [Starpoint](https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3) | [Object of My Desire](https://open.spotify.com/album/61WSKA1WUdkzMthO4GCT2T) | 3:57 |
 | 14 | [Rock Me Amadeus \- The Gold Mix](https://open.spotify.com/track/1oCjUrtxUKNITywo5iztdt) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus EP](https://open.spotify.com/album/6XpXzJTOP95a7GGgeOxY5m) | 3:47 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 72 | [Shiver Me Timbers](https://open.spotify.com/track/5kdKeBozyX8PRvhAUaUrWV) | [Paddy Kingsland](https://open.spotify.com/artist/16esHTYwUm6JWRj2Qijsq6) | [In Character](https://open.spotify.com/album/1bKQrqQnMFyO4ybU3i1t2U) | 0:59 |
 | 73 | [All Hands Forward](https://open.spotify.com/track/26372a3uGIJN6F8A5mupfs) | [Gerald Crossman](https://open.spotify.com/artist/1VPmRAzP5pQtV15VQ3BPHc) | [Well Known Tunes of England, Ireland, America & More](https://open.spotify.com/album/6QQu6K3MCLDPk8iqPO95ly) | 1:32 |
 | 74 | [Gunpoint Affection](https://open.spotify.com/track/5ZZGzKa8TTRiE6tyal0AjX) | [Black Market Baby](https://open.spotify.com/artist/1pI4G6rXOzQdOUWrNO2P6H) | [Coulda..\. Shoulda..\. Woulda \(The Black Market Baby Collection\)](https://open.spotify.com/album/4j1UB6mtgsCYdoz2jcxAqe) | 3:52 |
-| 75 | [Ballroom Foxtrot](https://open.spotify.com/track/1uWss2nb6rJJruwejEkDAz) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/7s9M6tb7yDJNEis3UbHAnl) | 2:50 |
+| 75 | [Ballroom Foxtrot](https://open.spotify.com/track/1ZwO6QQRl7ld1IBhqPZjT6) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/4yb8x5btcqVaKzymTgZqh0) | 2:50 |
 | 76 | [Too Late for Tears](https://open.spotify.com/track/7zD01Fccmnldl5plg5B164) | [Andrea Litkei](https://open.spotify.com/artist/67WiEEjHCFYaxyAbs7OXp8), [Ervin Litkei](https://open.spotify.com/artist/5UjzFfveBtER1Oivoaa9X8) | [Diner Jukebox](https://open.spotify.com/album/2Wb6hbl4BRoPC2iqfEq8je) | 2:05 |
 | 77 | [My Bologna](https://open.spotify.com/track/5aUTSJltF24eevgzM2j7gE) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 1:59 |
 | 78 | [Material Girl](https://open.spotify.com/track/2PMcv8wvhIrAGBCFSsiP4w) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 4:00 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 197 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 198 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `MTY1NjkzOTYwMCwwMDAwMDAwMDVlYzcxYTY2MzczMTBiMzk5MjY1ZDUzOWNjZDBkZTU1`
+Snapshot ID: `MTY1NjkzOTYwMCwwMDAwMDAwMDBhNDFjNzk5YWNkNzk0ZTJmM2I5ZjUwZTJhZjRiN2Jk`

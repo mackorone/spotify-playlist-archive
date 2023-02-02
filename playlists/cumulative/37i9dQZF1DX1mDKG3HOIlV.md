@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2005! Cover: Jovanotti
 
-162 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/75ABHhqNogBmtoj85XgNU0)
+162 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

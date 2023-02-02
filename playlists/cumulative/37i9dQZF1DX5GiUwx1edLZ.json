@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
   "name": "mint Acoustic",
-  "published_playlist_ids": [
-    "3taMKdfV2mPq94KYQPk84T"
-  ],
   "tracks": [
     {
       "album": {
@@ -205,6 +202,24 @@
       "duration_ms": 254529,
       "name": "Atlantis - Acoustic Version",
       "url": "https://open.spotify.com/track/6rUgmZtH7GMCDMMkYAOslN"
+    },
+    {
+      "album": {
+        "name": "Bloom EP",
+        "url": "https://open.spotify.com/album/7hPscs4y9QTLRIviW0Sr9S"
+      },
+      "artists": [
+        {
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154145,
+      "name": "Avenue Road",
+      "url": "https://open.spotify.com/track/0cBE7fP7Hu1c7jH8ptFIpk"
     },
     {
       "album": {
@@ -905,7 +920,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 151874,
       "name": "End Of The World - Acoustic Mix",
       "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
@@ -1275,7 +1290,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 364392,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/0csgmo2EUovO4VB21Jgc37"
@@ -1545,7 +1560,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 201468,
       "name": "How to Love (feat. Sofia Reyes) - Acoustic",
       "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
@@ -1855,7 +1870,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
@@ -2059,6 +2074,32 @@
       "duration_ms": 151974,
       "name": "Lighter (feat. KSI & Ella Henderson) - Acoustic",
       "url": "https://open.spotify.com/track/7AKVU7SsXyPlWvRJPSTWHV"
+    },
+    {
+      "album": {
+        "name": "Living Without You (Acoustic)",
+        "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Living Without You - Acoustic",
+      "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
     },
     {
       "album": {
@@ -2469,7 +2510,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 161146,
       "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
       "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
@@ -3087,6 +3128,24 @@
       "duration_ms": 117506,
       "name": "Quieter Is Louder",
       "url": "https://open.spotify.com/track/2K18p1NwK2ASdyBAPZdd3d"
+    },
+    {
+      "album": {
+        "name": "We Are All We Need",
+        "url": "https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117506,
+      "name": "Quieter Is Louder",
+      "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
     },
     {
       "album": {
@@ -4141,7 +4200,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 201762,
       "name": "They Don't Know Us - Piano Version",
       "url": "https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps"
@@ -4229,7 +4288,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 192724,
       "name": "This Is What It Feels Like - John Ewbank Classical Remix",
       "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"

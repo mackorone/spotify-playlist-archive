@@ -4,7 +4,7 @@
 
 > Podcasts para ampliar seus horizontes.
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/3D62PFxdQayfVhOI1yOcZt)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

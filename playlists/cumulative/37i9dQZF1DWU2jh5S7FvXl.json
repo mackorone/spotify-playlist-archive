@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-06",
   "description": "Just try not to move to this mix of recent hits. Cover: Kx5",
   "name": "Dance Favourites",
-  "published_playlist_ids": [
-    "0P4nm4mYYeYKFUkoWAIWgc"
-  ],
   "tracks": [
     {
       "album": {
@@ -206,6 +203,32 @@
     },
     {
       "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -339,6 +362,24 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "album": {
+        "name": "Baila Conmigo",
+        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146249,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
       "album": {
@@ -507,7 +548,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 174193,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
@@ -1288,8 +1329,68 @@
     },
     {
       "album": {
+        "name": "Escape (Remixes)",
+        "url": "https://open.spotify.com/album/696LM3H0xsPyx0PrFEPEUo"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 240445,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6t8oosZU0hFD847n53vinc"
+    },
+    {
+      "album": {
         "name": "Escape (feat. Hayla)",
         "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
+      "album": {
+        "name": "Escape (feat. Hayla)",
+        "url": "https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO"
       },
       "artists": [
         {
@@ -1314,7 +1415,7 @@
       "date_removed": null,
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
-      "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+      "url": "https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH"
     },
     {
       "album": {
@@ -1399,7 +1500,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
@@ -1725,7 +1826,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-08",
       "duration_ms": 277261,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
@@ -1867,7 +1968,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 219047,
       "name": "Human (feat. Echoes)",
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
@@ -2175,7 +2276,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-24",
       "duration_ms": 264045,
       "name": "I\u2019ll Find My Way To You",
       "url": "https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P"
@@ -2769,7 +2870,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 247896,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
@@ -2791,7 +2892,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240009,
       "name": "Matter of Time (feat. Alex Maher)",
       "url": "https://open.spotify.com/track/4BmPTpXnae3IwwXAcK0byT"
@@ -2839,6 +2940,28 @@
       "duration_ms": 162992,
       "name": "Memories (feat. Kid Cudi) - 2021 Remix",
       "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
+    },
+    {
+      "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
       "album": {
@@ -3391,7 +3514,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 164739,
       "name": "Off Of My Mind",
       "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
@@ -3703,7 +3826,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 193377,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl"
@@ -3955,7 +4078,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
@@ -4069,7 +4192,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
@@ -4547,6 +4670,24 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/3w6gpFZnwljc37HpVlr3WB"
+      },
+      "artists": [
+        {
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151989,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/0RD27NcbftTkhb1NlxQMGR"
     },
     {
       "album": {
@@ -5685,6 +5826,28 @@
       "duration_ms": 174193,
       "name": "Worlds On Fire (with R3HAB & Au/Ra)",
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
+    },
+    {
+      "album": {
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
       "album": {

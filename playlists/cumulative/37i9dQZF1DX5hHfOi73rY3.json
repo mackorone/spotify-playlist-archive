@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-18",
   "description": "Classic party anthems from the club to your ears!",
   "name": "Warehouse Party",
-  "published_playlist_ids": [
-    "7uqJ66jF1VtnDKSvWC7k8R"
-  ],
   "tracks": [
     {
       "album": {
@@ -245,7 +242,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 275806,
       "name": "Buggin' - Edit",
       "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
@@ -263,7 +260,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
@@ -623,10 +620,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 224800,
       "name": "Get Out My Head",
       "url": "https://open.spotify.com/track/1LC6p9xSpZBogQMqlWZ5SZ"
+    },
+    {
+      "album": {
+        "name": "New Year's Eve Party 2022",
+        "url": "https://open.spotify.com/album/4SKjR5h4bkN68UlkdSnF6j"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "Get Out My Head",
+      "url": "https://open.spotify.com/track/3EGbEEe2M6CNFpF8vf8dgW"
     },
     {
       "album": {
@@ -1269,6 +1284,32 @@
       "duration_ms": 205161,
       "name": "My Head Is A Jungle - MK Remix / Radio Edit",
       "url": "https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB"
+    },
+    {
+      "album": {
+        "name": "My Head Is A Jungle (Remix)",
+        "url": "https://open.spotify.com/album/6TtfObVSatzAH0o0IMzCik"
+      },
+      "artists": [
+        {
+          "name": "CursedSanity",
+          "url": "https://open.spotify.com/artist/3GTQ50msSR4uuj5rax5eEH"
+        },
+        {
+          "name": "Reaxys",
+          "url": "https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI"
+        },
+        {
+          "name": "twexih",
+          "url": "https://open.spotify.com/artist/3MEAyqQ8SL7qsbnNEcbFQz"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-30",
+      "duration_ms": 206053,
+      "name": "My Head Is A Jungle - Remix",
+      "url": "https://open.spotify.com/track/58cqk8lrssnTQGMWp6wgI3"
     },
     {
       "album": {
@@ -2033,7 +2074,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-05",
       "duration_ms": 443223,
       "name": "Veins",
       "url": "https://open.spotify.com/track/3KUoiySr90tw8XSW8Ezmx4"

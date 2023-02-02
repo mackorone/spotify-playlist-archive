@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-146 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+151 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All that glitters](https://open.spotify.com/track/3a23Wcf6iYqWZM55UJpemn) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Compose Yourself](https://open.spotify.com/album/53t4xsId26JE5HRAkUSVxo) | 3:17 | 2021-11-11 |  |
 | [All The Time](https://open.spotify.com/track/7areG6AVvNYVYevmKCfPui) | [Viceboi](https://open.spotify.com/artist/3pQXV6Tz29Jx2b1BDKLfis) | [All The Time](https://open.spotify.com/album/2OFQvKiPxpGGPn6xAOSCvv) | 3:14 | 2021-11-11 |  |
 | [Amalfi](https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W) | [Lagoa Verde](https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr) | [Amalfi](https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF) | 2:45 | 2021-11-11 |  |
+| [Ant](https://open.spotify.com/track/66jYKtkdtP2euHonaFFQh5) | [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie) | [Ant](https://open.spotify.com/album/7lyv0VgNVdfyTAjGbfPyVZ) | 4:11 | 2022-12-16 |  |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-11-11 | 2022-09-02 |
 | [Azucena](https://open.spotify.com/track/0BZofsSA03xAkBeEwNYzH3) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Azucena](https://open.spotify.com/album/2pdFKzzSIDrff7uo6Z20pi) | 3:05 | 2022-06-03 |  |
 | [Backyard Stories](https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Backyard Stories — Summer Forever](https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES) | 3:06 | 2021-11-11 |  |
@@ -52,6 +53,7 @@
 | [Fragmented Memories](https://open.spotify.com/track/0WK4DEtDECPLSiI93oyLbj) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 3:27 | 2022-05-10 | 2022-08-05 |
 | [free](https://open.spotify.com/track/4yiDLzimhW55rMSv0MeE8F) | [Crispy Candy](https://open.spotify.com/artist/0q6FzJH9tH7ysqdLy7kXKp) | [free](https://open.spotify.com/album/1Twl9jb2ob9s2tGaWnLixh) | 3:30 | 2022-10-07 |  |
 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-05-20 | 2022-07-22 |
+| [Galaxy](https://open.spotify.com/track/0WahWPO2YmfLbOquOi0CTq) | [Galian](https://open.spotify.com/artist/0qzcDWdZl5yN8OnV0Fcb8w) | [Galaxy](https://open.spotify.com/album/1UZwdr9IOgqgoOw1AV8jUR) | 2:01 | 2023-01-06 |  |
 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 | 2022-08-05 |  |
 | [Get In](https://open.spotify.com/track/4KL9cG7OFgyf8rQa4x8SVP) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get In](https://open.spotify.com/album/1vcvwWac3LX0MHgWipFKT5) | 2:45 | 2021-11-11 |  |
 | [Ghosts](https://open.spotify.com/track/7fITMSuDsZGqZ34Na7Xwkc) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Ghosts](https://open.spotify.com/album/57E40q7LcDqv4yKH0jbXuP) | 3:31 | 2021-11-11 |  |
@@ -107,6 +109,7 @@
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2022-05-10 |  |
 | [outbreak](https://open.spotify.com/track/6FHLM8mwBRGFzQluP0bWHq) | [Amaraldo](https://open.spotify.com/artist/6Q3A8LnHLfN97wg2VXC5bf) | [outbreak](https://open.spotify.com/album/3YMnlqCbuVVeEVUmRlylUI) | 2:43 | 2022-04-05 |  |
 | [Overtime](https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Overtime](https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN) | 2:55 | 2021-11-11 | 2022-04-15 |
+| [Party By The Pool](https://open.spotify.com/track/2OcKWD2WtqoQCRiutFaTYX) | [Jo Lange](https://open.spotify.com/artist/1IoUhC61gvcKQiYvbus1me) | [Party By The Pool](https://open.spotify.com/album/4PUusWkV41BTstVaot3t4k) | 2:56 | 2022-12-09 |  |
 | [Passion Dance](https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Passion Dance](https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw) | 3:38 | 2021-11-11 |  |
 | [Pink Skies](https://open.spotify.com/track/4MXVuIpQgFNBPABhYu2VFG) | [Dylan City](https://open.spotify.com/artist/1d07rq5p4ysXE3PaGJP8Bn) | [Pink Skies](https://open.spotify.com/album/4fZ80kzntY4IOkBtsNKR1t) | 2:19 | 2021-11-11 | 2022-05-20 |
 | [Play Day](https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw) | [Oskarr Starr](https://open.spotify.com/artist/0j6bCXv5JPvFkLqPlcwlZ9) | [Play Day](https://open.spotify.com/album/0UKqrWV652dKSlLiF641a9) | 4:02 | 2021-11-11 |  |
@@ -114,6 +117,7 @@
 | [Postcard Paradise](https://open.spotify.com/track/6OtM2h9IyexZg5nc5YBf5p) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Postcard Paradise](https://open.spotify.com/album/0JJmknG7C5fdWAKWxPPQPu) | 2:24 | 2021-11-11 |  |
 | [Pull Me Closer](https://open.spotify.com/track/7wuX42wC2VlCMtazUOJkX8) | [Pillow Kid](https://open.spotify.com/artist/3THB0bPkpqpRVoai1rmnVW) | [Pull Me Closer](https://open.spotify.com/album/52NRFkqvG68E13DZ6QSUfb) | 3:06 | 2021-11-11 |  |
 | [Pura Vida](https://open.spotify.com/track/4lMqdKJtrBGRLkif2MMjXe) | [TRE](https://open.spotify.com/artist/6v7EqgcUdy2NR48iflzHgK), [Julia Thomsen](https://open.spotify.com/artist/5r0183a5eBJthIj3EYtHnE) | [Pura Vida](https://open.spotify.com/album/2e6h8LOHJXlvZhYh5g0umK) | 3:10 | 2022-09-02 |  |
+| [Renaissance](https://open.spotify.com/track/0Ehgq0I49NC6FwpArofFdk) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Renaissance](https://open.spotify.com/album/2guusLpexyacviaKX9hMvv) | 4:00 | 2022-12-09 |  |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2021-11-11 |  |
 | [Rhodes Night](https://open.spotify.com/track/42UrWODXMY270D6mVLdGnT) | [Dimitri G](https://open.spotify.com/artist/0c5iXSRogLrwZrZeU4gF6k) | [Rhodes Night](https://open.spotify.com/album/4sMeFxBYKqgEKIfePb9Y0q) | 3:46 | 2021-11-11 |  |
 | [Rich In Mind](https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Rich In Mind](https://open.spotify.com/album/1gWYZW7bfXIEL1OY9cdTkH) | 2:55 | 2021-11-11 | 2022-05-11 |
@@ -124,6 +128,7 @@
 | [She Knows Best](https://open.spotify.com/track/71GZwwdFqYpEcN1mNIhII5) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [She Knows Best](https://open.spotify.com/album/6YQnN8oKnYxfqNJ6eMV8lw) | 2:32 | 2021-11-11 |  |
 | [Sidebar Sally](https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Sidebar Sally](https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu) | 2:55 | 2022-02-10 |  |
 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 | 2021-11-11 |  |
+| [Snapshot](https://open.spotify.com/track/5F3Js0D4Yj4eLQVeAKJcUV) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Snapshot](https://open.spotify.com/album/6RE5jCWoFWlVbnpRJiKSPi) | 2:56 | 2022-12-23 |  |
 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 | 2021-11-11 |  |
 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2021-11-11 |  |
 | [Solidarity](https://open.spotify.com/track/2ieJ272KbcfpIawpUkr65D) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Solidarity](https://open.spotify.com/album/68bol0r3htpiEXaZo3utkT) | 2:47 | 2021-11-11 |  |

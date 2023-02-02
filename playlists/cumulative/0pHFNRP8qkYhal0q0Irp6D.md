@@ -4,7 +4,7 @@
 
 > You should be dancing, yeah\. \(This ain't your typical disco either...\)
 
-53 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/4ruRaoLDGBTEWyKzpcWzHh)
+53 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

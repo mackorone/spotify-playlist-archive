@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Case Closed"! アニメ「名探偵コナン」の世界を彩る音楽をプレイリストで。©2020 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,959 likes - 110 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,644 likes - 110 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

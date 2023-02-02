@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/1kVU1jZDJHhCSe6mul87xq)
+70 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,8 @@
 | [Derecho De Amarla](https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 2:36 | 2022-06-01 |  |
 | [Desde Mañana](https://open.spotify.com/track/1qjjMQibRv39gb4WAn0oaP) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:56 | 2022-11-12 | 2022-11-26 |
 | [Déjenme Si Estoy Llorando](https://open.spotify.com/track/5XuM8DbECxEgXSt1V0Bkhb) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Lo Más Caliente...La Niña Fresa](https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ) | 2:51 | 2022-06-07 | 2022-06-09 |
+| [Déjenme Si Estoy Llorando](https://open.spotify.com/track/327zGhS8S9gjmdgqCfggiA) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 3:03 | 2022-11-27 | 2022-12-08 |
+| [Echando Los Perros](https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Presumidas, S.a.](https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD) | 2:18 | 2022-12-07 |  |
 | [El amor que soñaba](https://open.spotify.com/track/3PwEtxAKmWQHexgtwtVI4o) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 2:52 | 2022-07-07 | 2022-10-17 |
 | [El esdrújulo](https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Festival Grupero Vol\. I](https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc) | 2:25 | 2022-06-01 |  |
 | [El Fon](https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:14 | 2022-06-01 |  |
@@ -37,7 +39,7 @@
 | [El Sabio Conocedor](https://open.spotify.com/track/2hv5M006zsIx1ntGUVDYui) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:53 | 2022-06-01 |  |
 | [El señor de las canas](https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [16 de Septiembre: Gruperas \(USA\) \[Vol\. 2\]](https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn) | 2:48 | 2022-06-03 |  |
 | [El Taladro](https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:45 | 2022-06-01 |  |
-| [El Zorro y el Sabueso](https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:31 | 2022-06-01 |  |
+| [El Zorro y el Sabueso](https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:31 | 2022-06-01 | 2022-11-28 |
 | [En La Esquina](https://open.spotify.com/track/3keUCZz4ZHiFlPcmlJ6Vmj) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:49 | 2022-10-11 |  |
 | [En Que Fallé](https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:46 | 2022-06-01 | 2022-10-15 |
 | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/album/6azV2ELkuN4DafSlRJkTMN) | 2:48 | 2022-06-01 |  |
@@ -45,7 +47,8 @@
 | [Gracias por Ser Mi Mujer](https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 3:27 | 2022-10-17 | 2022-10-21 |
 | [Hasta El Fondo Del Abismo](https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:17 | 2022-06-01 |  |
 | [Hotel California](https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 4:17 | 2022-06-01 |  |
-| [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/track/2PEj6MY7FQQn3zrEcF1KsJ) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/album/3V2sbS5J5XYiH1tZoBFlMX) | 2:48 | 2022-06-01 |  |
+| [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/track/2EEkUBOe9TkdxaWVYiBfWU) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:48 | 2022-11-26 |  |
+| [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/track/2PEj6MY7FQQn3zrEcF1KsJ) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Hoy es Viernes y el Cuerpo lo Sabe](https://open.spotify.com/album/3V2sbS5J5XYiH1tZoBFlMX) | 2:48 | 2022-06-01 | 2022-11-27 |
 | [Jacarandosa](https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 3:10 | 2022-10-06 |  |
 | [La Buenota](https://open.spotify.com/track/0yaXCQ3HblOcM1swa7mN3s) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:01 | 2022-06-01 |  |
 | [La buenotota](https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [La Chispa](https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v) | 3:11 | 2022-06-01 |  |

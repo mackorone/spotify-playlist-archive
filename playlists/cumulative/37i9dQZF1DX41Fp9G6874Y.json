@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-03",
   "description": "Las m\u00e1s fresas de la era del rocanrol para bailar \"de cachetito\".",
   "name": "Romance Rocanrol",
-  "published_playlist_ids": [
-    "5q5FjuYfEZX024qwO1ZWse"
-  ],
   "tracks": [
     {
       "album": {
@@ -206,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Como Lo Bailaron Tus Padres, Vol. 1",
+        "url": "https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/0wNONSo9o0XALusso60qwC"
+        }
+      ],
+      "date_added": "2018-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137376,
+      "name": "Anoche Me Enamore",
+      "url": "https://open.spotify.com/track/25bJytfRuK37ria60Tbnio"
+    },
+    {
+      "album": {
         "name": "Fiesta Rocker",
         "url": "https://open.spotify.com/album/4rHgW22Eiyj2oLpYEkleyt"
       },
@@ -217,7 +232,7 @@
       ],
       "date_added": "2018-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 141920,
       "name": "Anoche me enamor\u00e9",
       "url": "https://open.spotify.com/track/2rHEyeBDE2w9jOMpTV1ICj"

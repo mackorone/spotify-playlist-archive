@@ -4,7 +4,7 @@
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-91 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/07HhJQQxCFAjy4pqibACp7)
+91 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

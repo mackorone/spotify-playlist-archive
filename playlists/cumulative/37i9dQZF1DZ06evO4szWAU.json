@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
   "name": "This Is Willie Col\u00f3n",
-  "published_playlist_ids": [
-    "4HyMgniBYXCXjMjwD9cKQ7"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,7 +42,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
@@ -92,6 +89,24 @@
     },
     {
       "album": {
+        "name": "Legal Alien - Top Secrets",
+        "url": "https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353280,
+      "name": "Asia",
+      "url": "https://open.spotify.com/track/55fQM5yPg6bv7mTUAok8FF"
+    },
+    {
+      "album": {
         "name": "Top Secrets",
         "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
       },
@@ -107,7 +122,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 353773,
       "name": "Asia",
       "url": "https://open.spotify.com/track/3CfIDPm4i05VYkF0SvEWdb"
@@ -220,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/7dY91yvJXIeBrzDhiMnYDW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241512,
+      "name": "Celo",
+      "url": "https://open.spotify.com/track/0JWnqFLENqVGs4yNss52gy"
+    },
+    {
+      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -315,7 +348,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 328786,
       "name": "El D\u00eda De Mi Suerte",
       "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
@@ -465,7 +498,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 308520,
       "name": "G\u00fcaracha",
       "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
@@ -677,7 +710,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 337680,
       "name": "No Me Llores M\u00e1s",
       "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
@@ -717,7 +750,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 294120,
       "name": "Ojos",
       "url": "https://open.spotify.com/track/5VjFc9kiG81CsUpViDXcdo"

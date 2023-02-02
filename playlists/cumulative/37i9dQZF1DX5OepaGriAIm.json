@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Trace the history of Jazz from timeless classics to boundary-breaking contemporary favorites from the women of Jazz. Cover: Diana Krall",
   "name": "EQUAL: Jazz",
-  "published_playlist_ids": [
-    "1MEL3p6LpkU53j4atRB7b3"
-  ],
   "tracks": [
     {
       "album": {
@@ -570,7 +567,7 @@
     },
     {
       "album": {
-        "name": "Can't Get Out of This Mood",
+        "name": "Can't Get Out Of This Mood",
         "url": "https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy"
       },
       "artists": [
@@ -583,7 +580,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222401,
-      "name": "Can't Get Out of This Mood",
+      "name": "Can't Get Out Of This Mood",
       "url": "https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K"
     },
     {
@@ -1045,6 +1042,36 @@
       "duration_ms": 368813,
       "name": "Eric's Tune",
       "url": "https://open.spotify.com/track/0vPFIr4hTQY1ZsqpYjcfyS"
+    },
+    {
+      "album": {
+        "name": "Everything Happens to Me",
+        "url": "https://open.spotify.com/album/52WQ5RrOAA9BgZ6MiXxSDZ"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379427,
+      "name": "Everything Happens to Me",
+      "url": "https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP"
     },
     {
       "album": {

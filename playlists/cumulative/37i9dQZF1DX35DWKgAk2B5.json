@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Welcome to Indie Rock Club. Cover: The White Stripes",
+  "description": "Welcome to Indie Rock Club. Cover: Arctic Monkeys",
   "name": "Indie Rock Club",
-  "published_playlist_ids": [
-    "57EEISkDBsPP628txQA6Po"
-  ],
   "tracks": [
     {
       "album": {
@@ -260,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Razorwhat? The Best Of Razorlight",
+        "url": "https://open.spotify.com/album/5ukcsAk1XLdl0dRIKE6D8L"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252950,
+      "name": "America",
+      "url": "https://open.spotify.com/track/2pyA5g5GLsJgetJGc1mwlF"
+    },
+    {
+      "album": {
         "name": "An End Has A Start",
         "url": "https://open.spotify.com/album/0dtwdN0EBt2pPJjgktxEC2"
       },
@@ -379,10 +394,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 200346,
       "name": "Apply Some Pressure",
       "url": "https://open.spotify.com/track/19503qDaxgCdPL2BhJngij"
+    },
+    {
+      "album": {
+        "name": "A Certain Trigger",
+        "url": "https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop"
+      },
+      "artists": [
+        {
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200346,
+      "name": "Apply Some Pressure",
+      "url": "https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip"
     },
     {
       "album": {
@@ -2348,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Men's Needs, Women's Needs, Whatever (Standard Version)",
+        "url": "https://open.spotify.com/album/0uf3G2hMRqZ0LOqv6QhZiL"
+      },
+      "artists": [
+        {
+          "name": "The Cribs",
+          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Men's Needs",
+      "url": "https://open.spotify.com/track/3qel23hQWhHT3qGewBQ0pE"
+    },
+    {
+      "album": {
         "name": "Elevator",
         "url": "https://open.spotify.com/album/5zkTfnruMTl1BTiLi4l2WE"
       },
@@ -2755,7 +2806,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 192311,
       "name": "Nobody Move, Nobody Get Hurt",
       "url": "https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx"
@@ -2960,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195733,
+      "name": "Oxford Comma",
+      "url": "https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H"
+    },
+    {
+      "album": {
         "name": "Dying to Say This to You (Premium Download Version)",
         "url": "https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG"
       },
@@ -3025,7 +3094,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 201726,
       "name": "R U Mine?",
       "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
@@ -3284,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Hats Off To The Buskers",
+        "url": "https://open.spotify.com/album/12yQO4oDX8b62BBayoyHRM"
+      },
+      "artists": [
+        {
+          "name": "The View",
+          "url": "https://open.spotify.com/artist/1fy3AQc7grjf5LnCd7snSg"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Same Jeans",
+      "url": "https://open.spotify.com/track/5aUwnYLjQD7OfLMJDWSnsT"
+    },
+    {
+      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/4teFaDSeFHYXZjZJaZGrAO"
       },
@@ -3367,7 +3454,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207373,
       "name": "Shoot the Runner",
       "url": "https://open.spotify.com/track/4baAwbpkroYCwSIlaqzNXy"
@@ -3385,7 +3472,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 207373,
       "name": "Shoot the Runner",
       "url": "https://open.spotify.com/track/6lhiYqlBsafMe1eGoTEbC4"
@@ -3609,6 +3696,24 @@
     {
       "album": {
         "name": "B.R.M.C.",
+        "url": "https://open.spotify.com/album/5kNEFtQmqLrPx0XA8Sq0N5"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Spread Your Love",
+      "url": "https://open.spotify.com/track/1gq5tbU9FTm90duAZtDZUv"
+    },
+    {
+      "album": {
+        "name": "B.R.M.C.",
         "url": "https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw"
       },
       "artists": [
@@ -3619,7 +3724,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 225333,
       "name": "Spread Your Love",
       "url": "https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6"
@@ -3727,10 +3832,28 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
+    },
+    {
+      "album": {
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
       "album": {
@@ -3825,7 +3948,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 189560,
       "name": "The Age Of The Understatement",
       "url": "https://open.spotify.com/track/39az7WzBipIvzCCTfpwtGa"
@@ -3851,7 +3974,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 189560,
       "name": "The Age Of The Understatement",
       "url": "https://open.spotify.com/track/4fsWlej0WwmeCIRYY5xIir"
@@ -3881,6 +4004,32 @@
       "duration_ms": 189560,
       "name": "The Age Of The Understatement",
       "url": "https://open.spotify.com/track/5HamPyIAqSny6UjXTN8DIe"
+    },
+    {
+      "album": {
+        "name": "The Age Of The Understatement",
+        "url": "https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99"
+      },
+      "artists": [
+        {
+          "name": "The Last Shadow Puppets",
+          "url": "https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf"
+        },
+        {
+          "name": "Alex Turner",
+          "url": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
+        },
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189560,
+      "name": "The Age Of The Understatement",
+      "url": "https://open.spotify.com/track/5WXMS6w7Gvb02b6bx4eBSF"
     },
     {
       "album": {

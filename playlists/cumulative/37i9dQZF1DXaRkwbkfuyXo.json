@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Seguimos arremangados, pariente. R\u00e9gulo Caro en portada.",
+  "description": "Seguimos arremangados, pariente. Voz de Mando en portada.",
   "name": "Corridos Alterados",
-  "published_playlist_ids": [
-    "6WRQ2rQiGlhp2WfZktq7QQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -153,6 +150,24 @@
       "duration_ms": 162560,
       "name": "Borracho Y Escandaloso",
       "url": "https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui"
+    },
+    {
+      "album": {
+        "name": "B\u00e9lico X Siempre (En Vivo)",
+        "url": "https://open.spotify.com/album/6PvM8qWEQNvh7hcyVMkxOV"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "B\u00e9lico X Siempre - En Vivo",
+      "url": "https://open.spotify.com/track/67V38GVtNuQcuq7lcevAjh"
     },
     {
       "album": {
@@ -309,10 +324,28 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 139493,
       "name": "Comandos Del M.P (500 Balazos)",
       "url": "https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu"
+    },
+    {
+      "album": {
+        "name": "Comandos del M.P (500 Balazos)",
+        "url": "https://open.spotify.com/album/4OCYNKnPrGzTdO66QQkKKp"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154814,
+      "name": "Comandos del M.P - 500 Balazos",
+      "url": "https://open.spotify.com/track/6GPqSFTCbiSwKTzzPkYWPy"
     },
     {
       "album": {
@@ -873,7 +906,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 144973,
       "name": "El Fp",
       "url": "https://open.spotify.com/track/6cVd6YSo03kPrxThzlPtj6"

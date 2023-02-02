@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Aerial post\-rock sounds to take you somewhere else.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,737 likes - 50 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,430 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 27 | [Above The Clouds Lies Eternal Sun](https://open.spotify.com/track/0WCvBujFldzGsAimcyjchH) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 3:53 |
 | 28 | [Logic of a Dream](https://open.spotify.com/track/1WQ96gvJgsd3CwxMPEUZYC) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Wilderness](https://open.spotify.com/album/1MUhDxkdqg5IyNYylLu7P8) | 6:37 |
 | 29 | [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 |
-| 30 | [Debutante](https://open.spotify.com/track/0jpggEnuQFHj3uJIthfCQS) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/1JorSz3YkTUuNMyLu18dUd) | 7:21 |
+| 30 | [Debutante](https://open.spotify.com/track/36qrbIHqtbfBYa3l7nUmnT) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [We Were Exploding Anyway](https://open.spotify.com/album/0QFxVcmghKylwoFT6xozzF) | 7:21 |
 | 31 | [Happiness](https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 9:20 |
 | 32 | [Frozen Twilight](https://open.spotify.com/track/6yMlHBgwnIhrF2Qvnt2Yyn) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [A Moment of Stillness \(2011 Remastered Edition\)](https://open.spotify.com/album/1eVrXeDRsZQFM4DtSbUzKr) | 6:17 |
 | 33 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 7:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 49 | [I'm Jim Morrison, I'm Dead](https://open.spotify.com/track/1fV2Bp9JpE1CavonususVW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Hawk Is Howling](https://open.spotify.com/album/6XfWE0VdiRbH9QWfyLibxW) | 6:44 |
 | 50 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 |
 
-Snapshot ID: `MTY2NDUyNzY3MSwwMDAwMDAwMGM0MTkwZjFhYzY4NjVkYTNlMDYxM2U3ZDUyNjVlMDBl`
+Snapshot ID: `MTY2NDUyNzY3MSwwMDAwMDAwMDIxNTgwODFmMTA0Y2RhODI5YjkxNzNkMDk3MjYzZmE3`

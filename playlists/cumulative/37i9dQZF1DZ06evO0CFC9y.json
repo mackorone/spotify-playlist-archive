@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-26",
   "description": "This is AFI. The essential tracks, all in one playlist.",
   "name": "This Is AFI",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -233,7 +232,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 192626,
       "name": "Fall Children",
       "url": "https://open.spotify.com/track/6KTXHrliiM0il8gq7AkQPC"
@@ -323,7 +322,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 238106,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5YzAjvec8mCjm2bGppn8Oz"
@@ -582,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118800,
+      "name": "Perfect Fit",
+      "url": "https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB"
+    },
+    {
+      "album": {
         "name": "Black Sails In The Sunset",
         "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
@@ -683,7 +700,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 169333,
       "name": "Still A Stranger",
       "url": "https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE"
@@ -773,7 +790,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-02-02",
       "duration_ms": 256800,
       "name": "The Interview",
       "url": "https://open.spotify.com/track/0uCy3G3G6zUxZS0z74Y3UB"
@@ -971,10 +988,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 241856,
       "name": "Twisted Tongues",
       "url": "https://open.spotify.com/track/5x1Shc6k7r3hBYyjNaaddy"
+    },
+    {
+      "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89666,
+      "name": "Two Of A Kind",
+      "url": "https://open.spotify.com/track/2dHVJ38uK5AmAyl06MSBx6"
     },
     {
       "album": {

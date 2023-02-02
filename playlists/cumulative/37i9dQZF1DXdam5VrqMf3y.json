@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-11",
   "description": "Your favorite holiday tunes, like you've never heard before. Cover: Meghan Trainor ",
   "name": "Spotify Singles: Holiday Collection",
-  "published_playlist_ids": [
-    "6ra7ildIw0y4orWkx6YTYg"
-  ],
   "tracks": [
     {
       "album": {
@@ -44,6 +41,48 @@
     },
     {
       "album": {
+        "name": "A Perfect Christmas",
+        "url": "https://open.spotify.com/album/72IHWQDmLazRyLnj3COTw6"
+      },
+      "artists": [
+        {
+          "name": "Tatak Pinoy All-Stars",
+          "url": "https://open.spotify.com/artist/7vwlQ7XElRyPMJQGUXBz4O"
+        },
+        {
+          "name": "Jose Mari Chan",
+          "url": "https://open.spotify.com/artist/1EHAbA1GMYOfkh9ds9eNfS"
+        },
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        },
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        },
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        },
+        {
+          "name": "Julie Anne San Jose",
+          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
+        },
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283620,
+      "name": "A Perfect Christmas",
+      "url": "https://open.spotify.com/track/40e90Ye17dSJhqcV2DrKOo"
+    },
+    {
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/1aifvRID8WVENI4KDyCx27"
       },
@@ -79,7 +118,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 283620,
       "name": "A Perfect Christmas - Recorded at OnQ Studios, Manila",
       "url": "https://open.spotify.com/track/7n7mTiptQT1iNa7rMhcZS8"
@@ -1002,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 140667,
+      "name": "Jingle Bells - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0AZkaiZwMl3fULKhhSQxlG"
+    },
+    {
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3"
       },
@@ -1221,6 +1278,28 @@
       "duration_ms": 197235,
       "name": "Make It Jingle - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/1IYH6s2qo2RHjtH3ILO5MB"
+    },
+    {
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 197235,
+      "name": "Make It Jingle - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6NKSTcg6riA9dNKHCdOPJJ"
     },
     {
       "album": {
@@ -1886,6 +1965,28 @@
     },
     {
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 218146,
+      "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/2UoZ1te2Pij755u2zNgxiR"
+    },
+    {
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/4tljBHLATQbwuphb5wLO94"
       },
@@ -1927,6 +2028,28 @@
       "duration_ms": 186098,
       "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
+    },
+    {
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0G7asxpHJoIytBw9dsHovR"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "Boyfriend",
+          "url": "https://open.spotify.com/artist/1d0nvifbTEmCbO8BlRKjod"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 188065,
+      "name": "You're a Mean One, Mr. Grinch - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/14hkv0DjhuzGMU9KNAXnUy"
     },
     {
       "album": {

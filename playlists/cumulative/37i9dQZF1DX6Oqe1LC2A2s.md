@@ -4,7 +4,7 @@
 
 > 50 best tracks of 20/21st century <a href="https://open.spotify.com/genre/classical">classical</a> music\. Cover: Arditti Quartet.
 
-50 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/4CCu6WasvZ9S3SNPhh798w)
+50 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

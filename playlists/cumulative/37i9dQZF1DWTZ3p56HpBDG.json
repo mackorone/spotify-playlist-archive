@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Best of South Asian diaspora. Cover: Riz Ahmed",
   "name": "No Borders",
-  "published_playlist_ids": [
-    "3JDO71q59WF0VHwxTBMofQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -509,10 +506,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 151752,
       "name": "Deal With It",
       "url": "https://open.spotify.com/track/3l9KybL4tK1jAP7u3UkWwe"
+    },
+    {
+      "album": {
+        "name": "The Long Goodbye",
+        "url": "https://open.spotify.com/album/4hBcCJ6y6uLtVPJ4l2xpL5"
+      },
+      "artists": [
+        {
+          "name": "Riz Ahmed",
+          "url": "https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152997,
+      "name": "Deal With It",
+      "url": "https://open.spotify.com/track/48iyEjHqc399GIvhbWCDaz"
     },
     {
       "album": {

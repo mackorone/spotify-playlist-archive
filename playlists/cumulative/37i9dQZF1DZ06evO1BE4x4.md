@@ -4,7 +4,7 @@
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/6UIyQ5VyY3HdaXY64zHqcW)
+33 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,12 +30,13 @@
 | [Neighbour Neighbour](https://open.spotify.com/track/25RDhyRdQzU2k7jsgn04h5) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Neighbour Neighbour](https://open.spotify.com/album/4skF6msX6Vw1U0BbiQYVuF) | 3:33 | 2022-09-16 |  |
 | [No Shade](https://open.spotify.com/track/0KveCmWIH6u2VQ5MpgeobH) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:13 | 2022-09-16 |  |
 | [OK Cathedral](https://open.spotify.com/track/45ERko0Qgz1a1xAHrrKLD9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:44 | 2022-09-16 |  |
-| [Outsider](https://open.spotify.com/track/2kwh1mJLQ2BBUEdx4NoIWb) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 | 2022-09-16 |  |
+| [Outsider](https://open.spotify.com/track/2kwh1mJLQ2BBUEdx4NoIWb) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 | 2022-09-16 | 2023-01-05 |
 | [Paper Plane](https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho \(Australia Version\)](https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2) | 3:01 | 2022-09-16 |  |
 | [Pick it Up Again](https://open.spotify.com/track/1viAAfAMoasBY2OrIiGlxC) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:10 | 2022-09-16 |  |
 | [Saramona Said](https://open.spotify.com/track/6n0UZBn3qWgsm13ihODEMS) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:00 | 2022-09-16 |  |
 | [Slow Down Sonic](https://open.spotify.com/track/5hWH1tL8kaEOIuUWPMt7ei) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:45 | 2022-09-16 |  |
 | [So Sentimental](https://open.spotify.com/track/6QVLOVHtYM3oCbiLkr8B8K) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 4:12 | 2022-09-16 |  |
+| [Son Of Sam](https://open.spotify.com/track/3JJm5nPQDNItljLtyIrtGv) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:00 | 2023-01-04 |  |
 | [Tinderbox](https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Tinderbox](https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89) | 3:54 | 2022-09-16 |  |
 | [Vacation Forever](https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT) | 4:28 | 2022-09-16 |  |
 | [Viceroy](https://open.spotify.com/track/1GDHLUJbmUrd0Jf88q2pZP) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 3:14 | 2022-09-16 |  |

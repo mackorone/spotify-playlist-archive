@@ -4,7 +4,7 @@
 
 > This is Limp Bizkit\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/2c2ghWIvRf9nCm4dcxzu3o)
+44 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

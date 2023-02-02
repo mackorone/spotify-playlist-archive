@@ -4,7 +4,7 @@
 
 > Big Freedia co\-curates a list of the very best songs from LGBTQQIA+ artists and allies The Big Easy has to offer!
 
-33 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/5jUUccHT07zu0YJOpTYLyW)
+33 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

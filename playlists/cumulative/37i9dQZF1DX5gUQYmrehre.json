@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Cutting edge LGBTQQIA+ artists from around the world. Cover: Nakhane",
+  "description": "Cutting edge LGBTQQIA+ artists from around the world. Cover: Leland.",
   "name": "Pride Beyond Borders",
-  "published_playlist_ids": [
-    "6tZ9oOtL1fmmsmHpgOrWJQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -107,6 +104,24 @@
       "duration_ms": 387160,
       "name": "Baby, We're Ascending",
       "url": "https://open.spotify.com/track/614NfZjf8rMY2bErgwhzR5"
+    },
+    {
+      "album": {
+        "name": "Bad At Letting Go",
+        "url": "https://open.spotify.com/album/25cBhyZGuY9xdg7QMCdc9K"
+      },
+      "artists": [
+        {
+          "name": "Leland",
+          "url": "https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200959,
+      "name": "Bad At Letting Go",
+      "url": "https://open.spotify.com/track/4uWDzzFjuB9AV1hMSTyEAJ"
     },
     {
       "album": {
@@ -963,7 +978,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 166231,
       "name": "I Will Be Better Than You At Letting Go",
       "url": "https://open.spotify.com/track/3HKyeSauyYdo1q8hAMz9dA"
@@ -1761,12 +1776,12 @@
       },
       "artists": [
         {
-          "name": "Janey Jack\u00e9",
-          "url": "https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v"
-        },
-        {
           "name": "Lady Bee",
           "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Janey Jack\u00e9",
+          "url": "https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v"
         }
       ],
       "date_added": "2022-05-31",
@@ -1833,7 +1848,7 @@
     {
       "album": {
         "name": "Vest & Boxers",
-        "url": "https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1"
+        "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
       },
       "artists": [
         {
@@ -1844,6 +1859,24 @@
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177064,
+      "name": "Vest & Boxers",
+      "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
+    },
+    {
+      "album": {
+        "name": "Vest & Boxers",
+        "url": "https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"
@@ -1897,7 +1930,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 164675,
       "name": "We Can Fall In Love",
       "url": "https://open.spotify.com/track/49B2jB0YLPjVxXVTVMyIMh"
@@ -2009,7 +2042,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 180984,
       "name": "\u05e4\u05e2\u05de\u05d5\u05df",
       "url": "https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB"

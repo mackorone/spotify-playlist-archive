@@ -4,15 +4,15 @@
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-175 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/7G6kgkeeKc0MSS1Yr6hAro)
+177 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["O" \- 正.反.合\. \(Rearranged\)](https://open.spotify.com/track/26XKyMqXPg4w2DhJRTZ3jP) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [TVXQ! THE 4th WORLD TOUR 'Catch Me' LIVE ALBUM](https://open.spotify.com/album/1cHc6F127DwbX1GkGDAK6d) | 5:34 | 2021-09-09 | 2022-07-29 |
 | [\(Bonus Track\) Voice Mail \(Korean Version\)](https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:06 | 2021-09-09 |  |
 | [\(′Cause\) I′m Your Girl](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [S.E.S\. \- The 1st Album](https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ) | 3:45 | 2021-09-09 |  |
-| [0%](https://open.spotify.com/track/643JzHUBRtTPVPmGatwe79) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 5 Letter](https://open.spotify.com/album/79UR927jWowsz8ro7dtKzS) | 3:48 | 2021-09-09 | 2022-09-18 |
-| [0%](https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 5](https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq) | 3:48 | 2021-09-09 |  |
+| [0%](https://open.spotify.com/track/643JzHUBRtTPVPmGatwe79) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 5 Letter](https://open.spotify.com/album/79UR927jWowsz8ro7dtKzS) | 3:48 | 2021-09-09 |  |
+| [0%](https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 5](https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq) | 3:48 | 2021-09-09 | 2023-02-02 |
 | [10 Minutes](https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [Stylish…](https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b) | 3:56 | 2021-09-09 |  |
 | [1Tym](https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [One Time For Your Mind](https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT) | 3:30 | 2021-09-09 |  |
 | [1TYM](https://open.spotify.com/track/5ohhBcVIwZtFakVodATNL7) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [YG 10th Anniversary](https://open.spotify.com/album/4SqXG1zGw3SFaQGvpjPWRd) | 3:31 | 2021-09-09 | 2022-07-29 |
@@ -56,8 +56,8 @@
 | [Every End of the Day](https://open.spotify.com/track/5m2tbM2w8mG76uwFgla2iF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 4:02 | 2021-09-09 |  |
 | [Fiction](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:54 | 2021-09-09 |  |
 | [Fogetten Love](https://open.spotify.com/track/4EpwZakcikSrgDCqcLXAok) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B 1st](https://open.spotify.com/album/1wD0a0lKZALago4fMCkoSA) | 4:01 | 2021-09-09 |  |
-| [Friday Night](https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK) | 3:33 | 2021-09-09 |  |
-| [Friday Night](https://open.spotify.com/track/6hl3GBSlDJbh5zBUhA3jVU) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 3:35 | 2021-09-09 | 2022-09-18 |
+| [Friday Night](https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK) | 3:33 | 2021-09-09 | 2023-02-02 |
+| [Friday Night](https://open.spotify.com/track/6hl3GBSlDJbh5zBUhA3jVU) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 3:35 | 2021-09-09 |  |
 | [Full of happiness](https://open.spotify.com/track/2ppv5E2a22qoXwYdL6GjvS) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:31 | 2021-09-09 |  |
 | [Gee](https://open.spotify.com/track/2BQIMF7CyLe2xAKzh74A4C) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Gee \- The First Mini Album](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 3:22 | 2021-09-09 |  |
 | [Genie](https://open.spotify.com/track/7m48u7EC4gnCfAhwoLfbCE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Genie \- The Second Mini Album](https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93) | 3:50 | 2021-09-09 |  |
@@ -140,13 +140,15 @@
 | [The Ghost of Wind](https://open.spotify.com/track/1aUP0tGSkpricoZtV5Goj7) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [Illusion](https://open.spotify.com/album/6p2lS1PUNUMMLRoce5Cg4V) | 3:31 | 2021-09-09 | 2022-11-14 |
 | [The Ghost of Wind](https://open.spotify.com/track/2xNxuMhDDuZEBAB4Oy6Ovd) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/4yEKFbp7OPPYnKR9ILoG2Z) | 3:31 | 2021-09-09 | 2022-08-31 |
 | [The Ghost of Wind](https://open.spotify.com/track/46BXtEtAA4ScdKxy026cIY) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/7xtsbErVzHdz8iZFCmtow8) | 3:31 | 2021-09-09 |  |
-| [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:40 | 2021-09-09 |  |
+| [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:40 | 2021-09-09 | 2023-01-05 |
+| [This Love](https://open.spotify.com/track/1tYpbWzCSZjWz6tZxVbyzC) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/4pZaGrn3Z8xiX6KQYkRRkU) | 3:40 | 2021-09-09 |  |
 | [To Be Continued](https://open.spotify.com/track/7L4fxoCYiWzFWepXU3yv9m) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B](https://open.spotify.com/album/7Jt6i57qFtmBUeXFLZrMFF) | 4:02 | 2021-09-09 |  |
 | [To My Boyfriend](https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 3:58 | 2021-09-09 |  |
 | [Twilight Zone](https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [LOVE \- The 3rd Album](https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR) | 3:46 | 2021-09-09 |  |
 | [U R Man](https://open.spotify.com/track/4EKS4BdlS8yL7iMbE8G35Z) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 스페셜 앨범](https://open.spotify.com/album/3XoemveVVhEFXWbWgyzKem) | 3:23 | 2021-09-09 |  |
 | [UGLY](https://open.spotify.com/track/2OxINyqTtAuKmLE6Ki219o) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 4:08 | 2021-09-09 |  |
-| [Venus](https://open.spotify.com/track/7FV7Ng7Oj3ToGGlxvIjPtF) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Return](https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu) | 3:37 | 2021-09-09 |  |
+| [Venus](https://open.spotify.com/track/4sKAJE5FVYmltDGtmrG1c6) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Return](https://open.spotify.com/album/0bhobOcdGqJ3GG20tM32l5) | 3:37 | 2021-09-09 |  |
+| [Venus](https://open.spotify.com/track/7FV7Ng7Oj3ToGGlxvIjPtF) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Return](https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu) | 3:37 | 2021-09-09 | 2023-01-06 |
 | [Vision](https://open.spotify.com/track/0ijms7rWvEqB7TIIE3kCbG) | [Steve Yoo](https://open.spotify.com/artist/64mQUXcqmQCyywZEc7BtS9) | [Yoo Seung Jun Best Collection 1](https://open.spotify.com/album/1YFUnihiEAKXOrI3Aazrww) | 4:11 | 2021-09-09 |  |
 | [We are the future](https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:40 | 2021-09-09 |  |
 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 | 2021-09-09 |  |

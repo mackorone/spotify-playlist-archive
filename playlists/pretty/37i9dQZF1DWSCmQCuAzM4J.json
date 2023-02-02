@@ -1,29 +1,13 @@
 {
   "description": "se acab\u00f3 todo \ud83d\udc94",
-  "num_followers": 33937,
+  "num_followers": 36980,
   "original_name": "pov: te rompi\u00f3 el coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ3MzI1NywwMDAwMDAwMGM4ZDIzZTVhZmYzYmM4YzQ2YzVmOTI4MGQwNGY0YTRi",
+  "snapshot_id": "MTY1OTQ3MzI1NywwMDAwMDAwMGNmMWQzNzMwNTk2NmVkZGE4N2ZjMDNjNGE3N2MzZTcx",
   "tracks": [
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 240133,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 243136,
-      "name": "The Way I Loved You (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -187,18 +171,34 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
+      "duration_ms": 243136,
+      "name": "The Way I Loved You (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 223080,
-      "name": "Say It Right",
-      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
         "name": "It Must Have Been Love",
         "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
       },
@@ -279,6 +295,22 @@
       "duration_ms": 258786,
       "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
       "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -299,18 +331,18 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 227333,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -347,38 +379,6 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "As I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 253813,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Too Good At Goodbyes",
-      "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -459,34 +443,18 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 226680,
-      "name": "In My Place",
-      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Cry Me a River",
-      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/3oL3XRtkP1WVbMxf7dtTdu"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -539,6 +507,22 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Cry Me a River",
+      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 277266,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "In My Place",
+      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 230093,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "(What's The Story) Morning Glory?",
-        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 258906,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr"
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
         "name": "Dreaming Out Loud",
         "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-08-02 20:47:37",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 258653,
       "name": "Goodbye My Lover",
       "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
-    },
-    {
-      "added_at": "2022-08-02 20:47:37",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 270333,
-      "name": "Un-Break My Heart",
-      "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
     },
     {
       "added_at": "2022-08-02 20:47:37",
@@ -811,6 +795,22 @@
       "duration_ms": 240706,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv"
+    },
+    {
+      "added_at": "2022-08-02 20:47:37",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 270333,
+      "name": "Un-Break My Heart",
+      "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
     }
   ],
   "unique_name": "pov: te rompi\u00f3 el coraz\u00f3n",

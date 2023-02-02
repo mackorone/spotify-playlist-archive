@@ -4,7 +4,7 @@
 
 > Horns up for this metal soundtrack for headbangers of all ages!
 
-70 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/7BzvBdnsnJeq6FxScyJvlo)
+70 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

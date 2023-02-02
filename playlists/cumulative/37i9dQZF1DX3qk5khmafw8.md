@@ -4,7 +4,7 @@
 
 > A collection of live, intimate, exclusive performances from the most exciting pop artists in the world.
 
-44 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/50ycKKXBiaxnqGP28LqDgJ)
+44 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

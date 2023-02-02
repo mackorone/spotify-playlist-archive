@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-10",
   "description": "you know the vibe \ud83e\udd65\ud83c\udf34\ud83d\udc59\ud83d\udc1a\ud83e\udd8b\ud83c\udf38",
   "name": "coconut girl vibes",
-  "published_playlist_ids": [
-    "3czw7wtauWs6hidH4XblX8"
-  ],
   "tracks": [
     {
       "album": {
@@ -621,7 +618,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231400,
       "name": "Drew Barrymore",
       "url": "https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG"
@@ -1169,7 +1166,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 242733,
       "name": "La Isla Bonita",
       "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
@@ -1357,7 +1354,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 210000,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
@@ -1613,7 +1610,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 178352,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l"
@@ -1775,7 +1772,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 193251,
       "name": "Something New",
       "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
@@ -1797,6 +1794,24 @@
       "duration_ms": 195080,
       "name": "Something New",
       "url": "https://open.spotify.com/track/3YPjmCK8hDLbpoavFyU9Fe"
+    },
+    {
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
     },
     {
       "album": {

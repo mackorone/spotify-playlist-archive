@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Country](https://open.spotify.com/playlist/37i9dQZF1DXdXh4ecan7Hh)
 
-> County's best like you've never heard before\. Cover: Breland.
+> County's best like you've never heard before\. Cover: Lainey Wilson
 
-81 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6cfFPGErcW6407wBcuU0nz)
+83 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Man in the Mirror](https://open.spotify.com/track/18qNiKxBiNzmrdjwqZh7tm) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Spotify Singles](https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx) | 4:19 | 2022-05-25 |  |
 | [Man in the Mirror \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4olvbCz8avPRUGi5l6hz7b) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Spotify Singles](https://open.spotify.com/album/0eEpAjX1A8PhmqDrDvWP4b) | 4:19 | 2021-09-21 | 2022-07-29 |
 | [Mercy \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 4:13 | 2021-09-21 |  |
+| [Middle Finger \- Spotify Singles](https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 2:36 | 2023-01-11 |  |
 | [Million Reasons \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 3:14 | 2021-09-21 |  |
 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 | 2021-09-21 |  |
 | [Much Too Young \(To Feel This Damn Old\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm) | 2:37 | 2022-05-25 |  |
@@ -72,6 +73,7 @@
 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 | 2022-06-21 | 2022-06-23 |
 | [Reasons \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/track/0p0zVDWG6vS77NKDy9EiWL) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB) | 3:05 | 2022-05-25 |  |
 | [Reasons \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/3ORTR7IKpwANt7TdbGwfwN) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh) | 3:05 | 2021-09-21 | 2022-07-29 |
+| [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 | 2023-01-11 |  |
 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 | 2021-09-21 |  |
 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 | 2022-06-21 |  |
 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 | 2021-09-21 |  |

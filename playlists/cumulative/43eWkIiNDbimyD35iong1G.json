@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Make your wedding ceremony the most memorable one. Perfect for vows, bride entrance, reception dinner, the first dance and the wedding party.",
-  "name": "Wedding Songs 2022",
-  "published_playlist_ids": [
-    "4J0AmxAoPjBsvkBleG9MtI"
-  ],
+  "description": "Celebrate your wedding with over 100 favorite love songs perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance\u2764\ufe0f",
+  "name": "Wedding Songs 2023",
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 163755,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 163755,
       "name": "(Sittin' On) The Dock of the Bay",
       "url": "https://open.spotify.com/track/46TZ4M361E7cGxqZZNqfUP"
@@ -1757,10 +1754,28 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 242040,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/00EsQu3vriau5a9df7mrS5"
+    },
+    {
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
     },
     {
       "album": {
@@ -2979,7 +2994,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 213386,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/1lmHqPyMWP9Dmw4zv6Cd71"
@@ -2997,7 +3012,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 213386,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"

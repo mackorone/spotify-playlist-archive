@@ -4,7 +4,7 @@
 
 > The quiet Beatle\. Listen to all his essential tracks.
 
-80 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/7dDRiy335B5YClsB9QvI3a)
+80 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

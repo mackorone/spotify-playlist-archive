@@ -4,7 +4,7 @@
 
 > Welcome the voice of Robert Frost and his daughter Lesley Frost into your reading room...
 
-64 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/5izGGAwVKDaoiyGlkdZ5VC)
+64 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

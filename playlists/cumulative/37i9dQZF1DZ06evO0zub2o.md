@@ -4,7 +4,7 @@
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-47 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/1zBfVtBdGvqKp0BxRxmuTP)
+47 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A New Level](https://open.spotify.com/track/5Tdx85q8KQIcIZJ9XoHblt) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 3:57 | 2022-05-30 |  |
 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 | 2022-05-30 |  |
 | [Becoming](https://open.spotify.com/track/3iV11AiIEDIOVjKy3kgjld) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:05 | 2022-05-30 |  |
-| [Cat Scratch Fever](https://open.spotify.com/track/0baZSyZzsKSigMmoDno6Uk) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 3:49 | 2022-05-31 | 2022-11-26 |
+| [Cat Scratch Fever](https://open.spotify.com/track/0baZSyZzsKSigMmoDno6Uk) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 3:49 | 2022-05-31 | 2023-02-02 |
 | [Cemetery Gates](https://open.spotify.com/track/4vJr55lngvhSM8WIh9CjQc) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 7:02 | 2022-05-30 |  |
 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2022-05-30 |  |
 | [Death Rattle](https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:17 | 2022-05-30 | 2022-10-13 |

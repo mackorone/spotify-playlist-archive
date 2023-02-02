@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-24",
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
   "name": "This Is Joan Baez",
-  "published_playlist_ids": [
-    "21YMSoB91Dw2dSDSwFhHhw"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": "2022-12-25",
       "duration_ms": 192493,
       "name": "Babe, I'm Gonna Leave You",
       "url": "https://open.spotify.com/track/0QeCux4ywDSHREzBQscoGI"
@@ -113,6 +110,28 @@
       "duration_ms": 204440,
       "name": "Battle Hymn Of The Republic",
       "url": "https://open.spotify.com/track/3CKmoKljSdJShwwgveWLTa"
+    },
+    {
+      "album": {
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "David Crosby",
+          "url": "https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/7KMwYTrekbo33VOKcXvx7y"
     },
     {
       "album": {
@@ -333,7 +352,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": "2023-01-28",
       "duration_ms": 192933,
       "name": "Donna Donna",
       "url": "https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI"
@@ -351,7 +370,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": "2023-02-02",
       "duration_ms": 223733,
       "name": "East Virginia",
       "url": "https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr"
@@ -495,7 +514,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-24",
       "duration_ms": 105973,
       "name": "Girl Of Constant Sorrow",
       "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
@@ -525,6 +544,24 @@
       "duration_ms": 163626,
       "name": "Give Me Cornbread When I'm Hungry",
       "url": "https://open.spotify.com/track/1Tx3MFbSzWddHQzgnOEr3W"
+    },
+    {
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/7vELrwL2rJjzn5SzaxnYQN"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133933,
+      "name": "Go 'Way From My Window",
+      "url": "https://open.spotify.com/track/2RSre4aOaeIK1Uf48olKfP"
     },
     {
       "album": {
@@ -669,10 +706,32 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-29",
       "duration_ms": 176360,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
+    },
+    {
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Mimi Fari\u00f1a",
+          "url": "https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 281000,
+      "name": "I Am A Poor Wayfaring Stranger",
+      "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
     },
     {
       "album": {
@@ -705,7 +764,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 181786,
       "name": "I Will Never Marry",
       "url": "https://open.spotify.com/track/37BVqKwNNBIE0HIaGUrgvC"
@@ -939,7 +998,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 164533,
       "name": "Love Minus Zero/No Limit",
       "url": "https://open.spotify.com/track/0qH1dPZj1eSnU6nCUZF9VD"
@@ -1011,7 +1070,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 230826,
       "name": "No Expectations",
       "url": "https://open.spotify.com/track/3bWxltjraNlnSdX4bpEkPm"
@@ -1029,7 +1088,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2022-11-30",
       "duration_ms": 221973,
       "name": "No Nos Moveran",
       "url": "https://open.spotify.com/track/2lAgIXk4uz8VRpUEevxDxO"
@@ -1065,7 +1124,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": "2022-12-27",
       "duration_ms": 173000,
       "name": "Pack Up Your Sorrows",
       "url": "https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt"
@@ -1083,7 +1142,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-23",
       "duration_ms": 190973,
       "name": "Plaisir D' Amour",
       "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
@@ -1159,7 +1218,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 344293,
       "name": "She Moved Through The Fair",
       "url": "https://open.spotify.com/track/3lroklVIelJiObRBewQXz7"
@@ -1177,7 +1236,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-02-01",
       "duration_ms": 152066,
       "name": "Silver Dagger",
       "url": "https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7"
@@ -1369,7 +1428,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-01-27",
       "duration_ms": 212226,
       "name": "We Shall Overcome - Live",
       "url": "https://open.spotify.com/track/3lM2es3TbqmWjOGAx35fyh"
@@ -1405,7 +1464,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": "2023-01-26",
       "duration_ms": 157160,
       "name": "Wildwood Flower",
       "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"

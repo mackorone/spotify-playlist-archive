@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "n3xt l3v3l beats.",
+  "description": "n3xt l3v3l gaming beats. ",
   "name": "Level Up Lofi",
-  "published_playlist_ids": [
-    "6RWlap37sAAYwzLtnEcUiW"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "For Real Tho",
+        "url": "https://open.spotify.com/album/0DXvVv0k7XqxIfmYyEUTrm"
+      },
+      "artists": [
+        {
+          "name": "Toby Tranter",
+          "url": "https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184541,
+      "name": "50 Rounds",
+      "url": "https://open.spotify.com/track/3hfGAbtOV4ans11A6c8wdi"
+    },
     {
       "album": {
         "name": "Above And Under",
@@ -37,10 +52,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 181463,
       "name": "60\u2019s Adventure",
       "url": "https://open.spotify.com/track/0oeHdQcJibTp99ulHe40un"
+    },
+    {
+      "album": {
+        "name": "u need a light?",
+        "url": "https://open.spotify.com/album/6LROFFR1pIhCt2DLcGzw8P"
+      },
+      "artists": [
+        {
+          "name": "Eluzai",
+          "url": "https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176094,
+      "name": "a higher power!",
+      "url": "https://open.spotify.com/track/6AIc2FJCa0HxADaRLrYOK9"
     },
     {
       "album": {
@@ -206,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/59gXyig25Qw52kJr4rtgQP"
+      },
+      "artists": [
+        {
+          "name": "Beation",
+          "url": "https://open.spotify.com/artist/6V0pdsJyn81xdeFmeHWQfa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/7ymPlo1nmsg5g5bGfrrqmh"
+    },
+    {
+      "album": {
         "name": "Beach & Berries",
         "url": "https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ"
       },
@@ -217,7 +268,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 124137,
       "name": "Beach & Berries",
       "url": "https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9"
@@ -350,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Cloud Haze",
+        "url": "https://open.spotify.com/album/25muxOkKX6xYqGGOTcP8jJ"
+      },
+      "artists": [
+        {
+          "name": "Picky Vines",
+          "url": "https://open.spotify.com/artist/05DroYv02C0y45iNlXCqXf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Cloud Haze",
+      "url": "https://open.spotify.com/track/6QX2D5v1qnYSqZFxNko2hk"
+    },
+    {
+      "album": {
         "name": "Coastal",
         "url": "https://open.spotify.com/album/7CeETykLYmpfU49DdCMxgc"
       },
@@ -415,7 +484,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 171000,
       "name": "Cruisin",
       "url": "https://open.spotify.com/track/10bEN2SCU2gelIp3UkaVOd"
@@ -437,6 +506,24 @@
       "duration_ms": 171000,
       "name": "Cruisin",
       "url": "https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB"
+    },
+    {
+      "album": {
+        "name": "Cruisin",
+        "url": "https://open.spotify.com/album/2y72j8cLcPUTBIdbX8lgiE"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Cruisin",
+      "url": "https://open.spotify.com/track/71HwYl1J3sYcMAIvoHczQ9"
     },
     {
       "album": {
@@ -491,6 +578,42 @@
       "duration_ms": 169600,
       "name": "Dream Sailling",
       "url": "https://open.spotify.com/track/1CLQSFom2hv8us4rXiJxGm"
+    },
+    {
+      "album": {
+        "name": "Dryer",
+        "url": "https://open.spotify.com/album/3dkqT9bcNiPXM0gzcAjfgV"
+      },
+      "artists": [
+        {
+          "name": "D-Platform",
+          "url": "https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153120,
+      "name": "Dryer",
+      "url": "https://open.spotify.com/track/3qHPIeckBEFVGEaYdKXbTJ"
+    },
+    {
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/3uoE4uG6XV5fXQLIMi0YGB"
+      },
+      "artists": [
+        {
+          "name": "Canola Dreams",
+          "url": "https://open.spotify.com/artist/5Bm1cVeLBJNcGXfyAwhMQt"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/7yf1m8NM5zIr5VXIAVvhEv"
     },
     {
       "album": {
@@ -657,6 +780,28 @@
       "duration_ms": 151860,
       "name": "Fromage Frais",
       "url": "https://open.spotify.com/track/6VhMdls0mTxYlMj62ZVGK8"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5Lki7frY0xFmTvsVoCn4qy"
+      },
+      "artists": [
+        {
+          "name": "sword",
+          "url": "https://open.spotify.com/artist/7aVAHmMUBvA8a8yKFv8NkC"
+        },
+        {
+          "name": "[bsd.u]",
+          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176510,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/15968lAfJgoIt0nYPBZTfc"
     },
     {
       "album": {
@@ -876,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Uno Dos Tres",
+        "url": "https://open.spotify.com/album/64bGvDTlBn0tnDpNdCUYvy"
+      },
+      "artists": [
+        {
+          "name": "Valhallz",
+          "url": "https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139377,
+      "name": "julep",
+      "url": "https://open.spotify.com/track/0ETX9i6qiLxEvuFV7QcjPS"
+    },
+    {
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/640L11zarEqJbXHV0gVLbG"
       },
@@ -923,10 +1086,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 105205,
       "name": "la donna e la chitarra",
       "url": "https://open.spotify.com/track/06F8Fnl3zIJ8Fy4IlKJSz3"
+    },
+    {
+      "album": {
+        "name": "la donna e la chitarra",
+        "url": "https://open.spotify.com/album/3stfQyN1Aq78m0W42lG2xS"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105205,
+      "name": "la donna e la chitarra",
+      "url": "https://open.spotify.com/track/2e94pHYImdJE6wgMLHaA9l"
     },
     {
       "album": {
@@ -1364,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "No New Friends",
+        "url": "https://open.spotify.com/album/5mzHrv24KXDI1ZYuOm5kNg"
+      },
+      "artists": [
+        {
+          "name": "Damma Beatz",
+          "url": "https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172109,
+      "name": "No New Friends",
+      "url": "https://open.spotify.com/track/7DZdYHRUXHDfabjkHKoLpf"
+    },
+    {
+      "album": {
         "name": "Office Hours",
         "url": "https://open.spotify.com/album/5sqwRtt3nAnfnlAKITRF1c"
       },
@@ -1544,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Peep",
+        "url": "https://open.spotify.com/album/1H1BSktT6OnfBx8Alr3CKR"
+      },
+      "artists": [
+        {
+          "name": "Slim Rex",
+          "url": "https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97033,
+      "name": "Peep",
+      "url": "https://open.spotify.com/track/79S0qKFlhMvRgV2gTgyrUi"
+    },
+    {
+      "album": {
         "name": "aloe vera chill",
         "url": "https://open.spotify.com/album/53roAMrIhrSM8A5mbTTcGw"
       },
@@ -1613,10 +1830,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 128780,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1DdN2w9ykZw1Pc6ig5DV8f"
+    },
+    {
+      "album": {
+        "name": "Akademgorodok",
+        "url": "https://open.spotify.com/album/2hWUgljsvAFmmPR5PNuApf"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        },
+        {
+          "name": "Nokimo",
+          "url": "https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1UdwBbAUIC0MEwtUKIo77f"
     },
     {
       "album": {
@@ -1765,6 +2004,24 @@
       "duration_ms": 135750,
       "name": "Sad Emoji",
       "url": "https://open.spotify.com/track/1biA4kEJ8M2tPrWfwy9uID"
+    },
+    {
+      "album": {
+        "name": "Cyclos Era",
+        "url": "https://open.spotify.com/album/23A8EOYmC9yiQbQFFMENNk"
+      },
+      "artists": [
+        {
+          "name": "A P O L L O",
+          "url": "https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184781,
+      "name": "Sauce Packets",
+      "url": "https://open.spotify.com/track/6Dfual7Y3pGjqcD8RE1h5V"
     },
     {
       "album": {
@@ -2157,7 +2414,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 109333,
       "name": "Trumpet On The Street",
       "url": "https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp"

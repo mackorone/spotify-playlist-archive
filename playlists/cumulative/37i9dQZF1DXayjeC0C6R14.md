@@ -4,7 +4,7 @@
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-70 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/1QlwOh03L4MBJMzQoV65dG)
+70 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

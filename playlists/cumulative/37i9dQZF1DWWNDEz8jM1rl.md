@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-58 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/6Y8UbtURyWBf2yUJAyO8WE)
+59 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Dios Nunca Falla](https://open.spotify.com/track/3mBlNX9LKkJU8BM9B3k23Y) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Values](https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H) | 3:10 | 2020-09-18 |  |
 | [El Barrio Lo Sabe](https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [Favor y Gracia](https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C) | 3:41 | 2020-09-18 |  |
 | [El Cristiano No Se Enoja](https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Historia](https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx) | 4:25 | 2020-09-18 |  |
-| [El Mismo De Ayer](https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC) | [Josue Escogido](https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK), [Yariel y Omy](https://open.spotify.com/artist/57rWlpin8dSDoSuO0bcr0f) | [Lo Que Dice El Alma](https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu) | 4:17 | 2020-09-18 |  |
+| [El Mismo De Ayer](https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC) | [Josue Escogido](https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK), [Yariel y Omy](https://open.spotify.com/artist/57rWlpin8dSDoSuO0bcr0f) | [Lo Que Dice El Alma](https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu) | 4:17 | 2020-09-18 | 2023-02-02 |
 | [El Que Reina](https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Suficiente](https://open.spotify.com/album/6xuPzzkawDA8P9vnRxWNSN) | 3:27 | 2020-09-18 |  |
 | [En Tu Presencia](https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW) | [Alex D' Castro](https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm) | [En Accion](https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0) | 4:42 | 2020-09-18 |  |
 | [Espiritu De Dios](https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV) | [Javier Maldonado](https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76) | [No Hay Nada Imposible](https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6) | 4:55 | 2020-09-18 |  |
@@ -45,6 +45,7 @@
 | [Le Llaman Jesus](https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:52 | 2020-09-18 |  |
 | [Mi Fe](https://open.spotify.com/track/4QtkVr6LwhkB91LhyB2O3e) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Mi Fe](https://open.spotify.com/album/2U7t67tqrgQHexFBMPiu62) | 3:55 | 2020-09-18 | 2022-10-19 |
 | [Mi Fe](https://open.spotify.com/track/3ByHOVprxjQwTrUGBnc1QT) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/2Tctk4AH3KtYpgHFpB6n0A) | 3:55 | 2020-09-18 | 2022-11-19 |
+| [Mi Fe](https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat) | 3:56 | 2020-09-18 |  |
 | [Mi Maestro](https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Acceso Total Tour Edition](https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP) | 4:09 | 2020-09-18 |  |
 | [No Fallará \(Remix\)](https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Fallará \(Remix\)](https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf) | 6:20 | 2020-09-18 |  |
 | [Party Love](https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm) | 3:16 | 2020-09-18 |  |

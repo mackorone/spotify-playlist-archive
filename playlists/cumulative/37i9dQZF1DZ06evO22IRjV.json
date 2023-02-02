@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "This is FLOW. The essential tracks, all in one playlist.",
   "name": "This Is FLOW",
-  "published_playlist_ids": [
-    "6sCvyWz4jarPf4I3ifPcXY"
-  ],
   "tracks": [
     {
       "album": {
@@ -117,7 +114,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 243226,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/4gSCA9MWYMEiSnmuB0r2DY"
@@ -572,6 +569,50 @@
     },
     {
       "album": {
+        "name": "Howling",
+        "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91906,
+      "name": "Howling -TV Size-",
+      "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Die in the Paradise",
+        "url": "https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "I Don't Wanna Die in the Paradise",
+      "url": "https://open.spotify.com/track/7v819dMrXP7Tge0CycW5GX"
+    },
+    {
+      "album": {
         "name": "INNOSENSE Special Edition",
         "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
       },
@@ -737,6 +778,24 @@
       "duration_ms": 250066,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3ydfozBnIvZq29SPCCryL6"
+    },
+    {
+      "album": {
+        "name": "TRIBALYTHM",
+        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252400,
+      "name": "ONENESS",
+      "url": "https://open.spotify.com/track/0S71als4AvtlAU7Pcb7OJJ"
     },
     {
       "album": {
@@ -966,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Winter Story",
+        "url": "https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219707,
+      "name": "Winter Story",
+      "url": "https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB"
+    },
+    {
+      "album": {
         "name": "#5",
         "url": "https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV"
       },
@@ -1169,7 +1246,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 271013,
       "name": "\u512a\u52dd",
       "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
@@ -1241,7 +1318,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 233507,
       "name": "\u65b0\u4e16\u754c",
       "url": "https://open.spotify.com/track/7bSJx8t6xQUlajgS0UecmL"
@@ -1367,7 +1444,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 278946,
       "name": "\u97f3\u8272",
       "url": "https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6"

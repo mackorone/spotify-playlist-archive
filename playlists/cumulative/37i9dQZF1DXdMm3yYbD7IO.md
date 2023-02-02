@@ -4,7 +4,7 @@
 
 > Move your body with your favorite 90s songs.
 
-120 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/5plle7IsBjCKk2BE4UbBwc)
+121 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [O.P.P](https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/6kl6a70fSIbl8amKSBzmhO) | 4:31 | 2021-12-22 |  |
 | [O.P.P](https://open.spotify.com/track/3voxsfqnGr9V74jkkzPhXC) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/7f2uv1aSmzTMlPXDFiZCra) | 4:31 | 2021-12-22 | 2022-07-29 |
 | [Please Don't Go \(Radio Cut\)](https://open.spotify.com/track/0w7XcNz84saf5p1nigc22t) | [K.W.S.](https://open.spotify.com/artist/188XxH8QLu4w8GW7cxSJe9) | [Please Don't Go](https://open.spotify.com/album/2iExuSxQaFAmuyRVrnLyAy) | 3:45 | 2021-12-22 | 2022-08-12 |
-| [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 | 2021-12-22 |  |
+| [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 | 2021-12-22 | 2022-12-29 |
+| [Poison](https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison \(Expanded Edition\)](https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi) | 4:21 | 2022-12-28 |  |
 | [Praise You \- Radio Edit](https://open.spotify.com/track/21RDsw7wzUJNl2FbWTgEfJ) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:47 | 2022-10-11 |  |
 | [Professional Widow \- Armand's Star Trunk Funk Mix](https://open.spotify.com/track/5CNs4YXFuXSgAHeRQb4B5T) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [A Tori Amos Collection: Tales of a Librarian](https://open.spotify.com/album/3SUbEVk9geQgPBI7ZTilcc) | 3:47 | 2021-12-22 | 2022-08-12 |
 | [Professional Widow \- Armand's Star Trunk Funk Mix](https://open.spotify.com/track/7pRDFBYPmUWBFnpwDhzqGm) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [A Tori Amos Collection: Tales of a Librarian](https://open.spotify.com/album/5vxM3v3hgNTQUmSu3LFxTa) | 3:47 | 2021-12-22 | 2022-07-29 |
@@ -93,8 +94,8 @@
 | [Show Me Love \- Radio Version](https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:49 | 2022-10-11 |  |
 | [Space Jam](https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk) | [Quad City DJ's](https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS) | [Space Jam \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI) | 5:04 | 2021-12-22 |  |
 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 | 2022-10-11 |  |
-| [Strike It Up](https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:58 | 2021-12-22 |  |
-| [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 | 2021-12-22 | 2022-11-13 |
+| [Strike It Up](https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:58 | 2021-12-22 | 2023-02-01 |
+| [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 | 2021-12-22 |  |
 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync](https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd) | 3:31 | 2021-12-22 |  |
 | [The Bomb \(These Sounds Fall Into My Mind\)](https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj) | 3:22 | 2021-12-22 | 2022-07-29 |
 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 | 2021-12-22 | 2022-11-13 |

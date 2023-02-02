@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is The O'Jays. The essential tracks, all in one playlist.",
   "name": "This Is The O'Jays",
-  "published_playlist_ids": [
-    "4AXkYbznAkUO1tVklEhRSv"
-  ],
   "tracks": [
     {
       "album": {
@@ -196,6 +193,24 @@
     },
     {
       "album": {
+        "name": "The O'Jays In Philly",
+        "url": "https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 159706,
+      "name": "Deeper (In Love with You)",
+      "url": "https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF"
+    },
+    {
+      "album": {
         "name": "Message In The Music",
         "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
       },
@@ -351,7 +366,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 250800,
       "name": "Give the People What They Want",
       "url": "https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm"
@@ -611,7 +626,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 252413,
       "name": "Let's Ride",
       "url": "https://open.spotify.com/track/3rFPcEMW7U4BiBw00s762Q"
@@ -971,7 +986,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": "2023-02-02",
       "duration_ms": 222026,
       "name": "Survival",
       "url": "https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X"
@@ -1045,7 +1060,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198173,
-      "name": "Use ta Be My Girl",
+      "name": "Use ta Be My Girl - Single Version",
       "url": "https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2"
     },
     {
@@ -1079,7 +1094,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": "2023-01-05",
       "duration_ms": 318066,
       "name": "When the World's at Peace",
       "url": "https://open.spotify.com/track/5Z52756ttqY4zJMFhK1clR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2UwTnYkh7zZjMY6NEQdP95.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 432 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/2UwTnYkh7zZjMY6NEQdP95.md) - [plain]
 | 24 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 |
 | 25 | [Summer In The City](https://open.spotify.com/track/157llmCqs15bAa3T4z3H1a) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4HIPVdLw3m6ZJX3LAHvXl9) | 4:04 |
 | 26 | [Passing Me By](https://open.spotify.com/track/6enXeBnLnyjfweN6VWcIoh) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II: The Pharcyde](https://open.spotify.com/album/5iLfT6G0VLP4WHUZTAYuEF) | 5:01 |
-| 27 | [Suddenly Last Summer \- Remastered](https://open.spotify.com/track/29nFgy1fZBjS8a7Fbtj4S4) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [Essential Collection](https://open.spotify.com/album/1wSCokfubvO5owYCbn1qCn) | 3:42 |
+| 27 | [Suddenly Last Summer \- Remastered 2002](https://open.spotify.com/track/29nFgy1fZBjS8a7Fbtj4S4) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [Essential Collection](https://open.spotify.com/album/1wSCokfubvO5owYCbn1qCn) | 3:42 |
 | 28 | [Saturday in the Park](https://open.spotify.com/track/4kUYITaDeGkmKzWQRd5h7R) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [The Collection](https://open.spotify.com/album/3LKijZ37n62pTNd650EuFp) | 3:52 |
 | 29 | [Summer](https://open.spotify.com/track/5qifWYBY62MNvk42U8UkDC) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Best Of](https://open.spotify.com/album/0Ly7HZvko6HkBrdG0a7eQs) | 6:39 |
 | 30 | [Hot Stuff](https://open.spotify.com/track/6RVevoPzbGygqvm6LxHAuf) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/2ldxRwrqpPb7M8tZsGoqMS) | 6:40 |

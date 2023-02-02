@@ -2,9 +2,169 @@
   "date_first_scraped": "2022-09-17",
   "description": "New Dutch podcasters on the horizon ",
   "name": "RADAR Podcasters NL",
-  "published_playlist_ids": [
-    "6DQgmfjFvupKoGtBKUSyi7"
+  "tracks": [
+    {
+      "album": {
+        "name": "Brokko met Korthom & Lotte",
+        "url": "https://open.spotify.com/show/1tXV3hVOnOb9JKq15Yut9c"
+      },
+      "artists": [
+        {
+          "name": "Brokko met Korthom & Lotte",
+          "url": "https://open.spotify.com/show/1tXV3hVOnOb9JKq15Yut9c"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2298504,
+      "name": "Boos Pakket Punt Smijt Pakket Op Lotte",
+      "url": "https://open.spotify.com/episode/3UEFl6wN1FltL8hMzMflqe"
+    },
+    {
+      "album": {
+        "name": "Kopzorgen",
+        "url": "https://open.spotify.com/show/4zHNoxs9at4XuSyO8lXBxj"
+      },
+      "artists": [
+        {
+          "name": "Kopzorgen",
+          "url": "https://open.spotify.com/show/4zHNoxs9at4XuSyO8lXBxj"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1610187,
+      "name": "Jurre Geluk over slechtste drugs ervaring, spacecake & dealers (2/2)",
+      "url": "https://open.spotify.com/episode/5rJbMN51ce9ZSsJiorloTO"
+    },
+    {
+      "album": {
+        "name": "Brokko met Korthom & Lotte",
+        "url": "https://open.spotify.com/show/1tXV3hVOnOb9JKq15Yut9c"
+      },
+      "artists": [
+        {
+          "name": "Brokko met Korthom & Lotte",
+          "url": "https://open.spotify.com/show/1tXV3hVOnOb9JKq15Yut9c"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1931600,
+      "name": "Lotte = Gedumpt Door Deze Podcast",
+      "url": "https://open.spotify.com/episode/6PcCgfZGWS15dZtn5IMlbf"
+    },
+    {
+      "album": {
+        "name": "Brokko met Korthom & Lotte",
+        "url": "https://open.spotify.com/show/1tXV3hVOnOb9JKq15Yut9c"
+      },
+      "artists": [
+        {
+          "name": "Brokko met Korthom & Lotte",
+          "url": "https://open.spotify.com/show/1tXV3hVOnOb9JKq15Yut9c"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1809520,
+      "name": "Lotte Stopt Een Straat Gevecht",
+      "url": "https://open.spotify.com/episode/4QPm6FdyRN019HocpMwCac"
+    },
+    {
+      "album": {
+        "name": "Life Dreamers ",
+        "url": "https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99"
+      },
+      "artists": [
+        {
+          "name": "Life Dreamers ",
+          "url": "https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3706536,
+      "name": "S1.E1 Timor Steffens x Life Dreamers",
+      "url": "https://open.spotify.com/episode/2zjXDH6Gv1l7ZCDJP4DS2L"
+    },
+    {
+      "album": {
+        "name": "Life Dreamers ",
+        "url": "https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99"
+      },
+      "artists": [
+        {
+          "name": "Life Dreamers ",
+          "url": "https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3223765,
+      "name": "S1.E7 Talisia Misiedjan x Life Dreamers",
+      "url": "https://open.spotify.com/episode/6OgIdb3LtUDCq0KP5JY0Yq"
+    },
+    {
+      "album": {
+        "name": "Life Dreamers ",
+        "url": "https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99"
+      },
+      "artists": [
+        {
+          "name": "Life Dreamers ",
+          "url": "https://open.spotify.com/show/77cvo3CV67sUwKHluaCG99"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 4753488,
+      "name": "S1.E8 Rou\u00e9 Verveer x Life Dreamers",
+      "url": "https://open.spotify.com/episode/2CErsYYlYcV4htiwNenJNd"
+    },
+    {
+      "album": {
+        "name": "Kopzorgen",
+        "url": "https://open.spotify.com/show/4zHNoxs9at4XuSyO8lXBxj"
+      },
+      "artists": [
+        {
+          "name": "Kopzorgen",
+          "url": "https://open.spotify.com/show/4zHNoxs9at4XuSyO8lXBxj"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1298442,
+      "name": "Tim Haars over acteren, New Kids & uit je comfortzone stappen (1/2)",
+      "url": "https://open.spotify.com/episode/7kfgvkO2wQAfBWNDmMziPr"
+    },
+    {
+      "album": {
+        "name": "Kopzorgen",
+        "url": "https://open.spotify.com/show/4zHNoxs9at4XuSyO8lXBxj"
+      },
+      "artists": [
+        {
+          "name": "Kopzorgen",
+          "url": "https://open.spotify.com/show/4zHNoxs9at4XuSyO8lXBxj"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1341178,
+      "name": "Tisjeboy Jay over jezelf zijn, vrijheid van meningsuiting & doodsbedreigingen (1/2)",
+      "url": "https://open.spotify.com/episode/1tYDa2SnX7X0tCyjiJ4NIo"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdLq8FgDUnAg"
 }

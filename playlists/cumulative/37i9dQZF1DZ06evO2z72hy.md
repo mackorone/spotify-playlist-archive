@@ -4,7 +4,7 @@
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/2Makl5HN0UTGk06qqIJvLk)
+73 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Reflejos de Luz](https://open.spotify.com/track/44iYQwUFs6s8rIk4H1TAi4) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 2:46 | 2022-05-25 | 2022-10-13 |
 | [Reggae Is Coming](https://open.spotify.com/track/1yYq0GX9AKLb6yiN5pmyEw) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:12 | 2022-05-25 |  |
 | [Regreso](https://open.spotify.com/track/4O5rHAUKMGT47CiZCN3wd2) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:16 | 2022-05-25 | 2022-10-27 |
+| [Sanándonos](https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj) | [Shamanes Crew](https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v) | [Tótem](https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys) | 4:05 | 2022-12-19 |  |
 | [Sentimiento Original](https://open.spotify.com/track/2dz5G8cubIlwFN6SJtj0rg) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:52 | 2022-05-25 |  |
 | [Si No Fuera](https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:38 | 2022-05-25 | 2022-10-05 |
 | [Si No Fuera](https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Si No Fuera \- Single](https://open.spotify.com/album/1HEw09m1UAKkfpD1RcAnuW) | 3:38 | 2022-10-04 |  |
@@ -68,7 +69,7 @@
 | [Sin Cadenas](https://open.spotify.com/track/42PvpvCg7eaXJy89at6u8s) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Tito Fuentes](https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 4:09 | 2022-05-25 |  |
 | [Smile Souling](https://open.spotify.com/track/3asfbDhnzUpEvMuhPxWaXI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:33 | 2022-05-25 |  |
 | [Suave Pero Intenso](https://open.spotify.com/track/2aIUhZGLfRpG1AYCy4oX9d) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:36 | 2022-05-25 |  |
-| [Susurro](https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:14 | 2022-05-25 |  |
+| [Susurro](https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:14 | 2022-05-25 | 2022-12-20 |
 | [Sólo Es Verdadero \(El Amor De Jah\)](https://open.spotify.com/track/5rbiiKLMsgT2m2pz57Hxaf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:58 | 2022-05-25 | 2022-10-13 |
 | [Te Recuerdo Amanda](https://open.spotify.com/track/337eg34bKb97zZce5PUXQs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 5:29 | 2022-06-04 |  |
 | [Traficantes De Fe](https://open.spotify.com/track/10vTdkkK4noQfgt0oexX06) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza Por La Fuerza De La Razón](https://open.spotify.com/album/7mzgCNDT0IVvixRnHKcGmj) | 3:41 | 2022-05-25 |  |

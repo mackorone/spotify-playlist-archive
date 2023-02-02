@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 
 > bangers
 
-[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,221 likes - 245 songs - 15 hr 15 min
+[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,140 likes - 245 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 53 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 |
 | 54 | [One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:20 |
 | 55 | [Walk of Life](https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 4:12 |
-| 56 | [Safety Dance](https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rock Of The 80's](https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph) | 2:45 |
+| 56 | [The Safety Dance](https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rock Of The 80's](https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph) | 2:45 |
 | 57 | [Tainted Love](https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 2:33 |
 | 58 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
 | 59 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 |
 | 60 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 | 61 | [Magic \- 2017 Remaster](https://open.spotify.com/track/0SAbkr0dS7WK3yJSjaZSZl) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:57 |
-| 62 | [I Ran \(So Far Away\)](https://open.spotify.com/track/2Rwux3fRY1xxl167muIo93) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Grand Theft Auto Vice City OST \(Greatest Hits\)](https://open.spotify.com/album/1A8LZSjPvRpcCJ3Jw4coZe) | 3:39 |
+| 62 | [I Ran \(So Far Away\) \- Single Edit](https://open.spotify.com/track/2Rwux3fRY1xxl167muIo93) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Grand Theft Auto Vice City OST \(Greatest Hits\)](https://open.spotify.com/album/1A8LZSjPvRpcCJ3Jw4coZe) | 3:39 |
 | 63 | [Stayin' Alive](https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Staying Alive \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ) | 1:32 |
 | 64 | [We Are Mirage](https://open.spotify.com/track/6mTnH6xSYwKohtsO9RFzcc) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Liberate \(Remixes\)](https://open.spotify.com/album/2TSM1k1XtJryf6eQGs4dgi) | 6:19 |
 | 65 | [Let My Love Open The Door](https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg) | [Pete Townshend](https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p) | [Empty Glass](https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h) | 2:44 |

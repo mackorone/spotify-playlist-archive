@@ -4,7 +4,7 @@
 
 > All the best of Elevation Worship, in one playlist.
 
-66 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/1pNqALsq6rsGHMS98mWpcX)
+66 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

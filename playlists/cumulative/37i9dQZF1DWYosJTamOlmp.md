@@ -4,12 +4,13 @@
 
 > A journey from dusk 'til dawn curated by Jungle artist Nia Archives!
 
-82 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/5AH7k1bIFGHs1b1OpAMK8V)
+83 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Brukshot \- Aries & Kelvin 373 Remix](https://open.spotify.com/track/0I7y1RprtTQejhtZS5lsHh) | [4K](https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP), [ALR](https://open.spotify.com/artist/2DKVguG69okXFd7OSINIs1), [Aries](https://open.spotify.com/artist/2DhDWuXRLdMpGJKZzTuxPo), [Kelvin 373](https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD) | [Brukshot \(Aries & Kelvin 373 Remix\)](https://open.spotify.com/album/6mk9rxIXzwbvcoRgFNwlrI) | 4:12 | 2021-10-19 |  |
-| [Catching Feelings \(Edit\)](https://open.spotify.com/track/0vxRPIBruQR3p61jvQa2wX) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:12 | 2021-10-19 |  |
+| [Catching Feelings \(Edit\)](https://open.spotify.com/track/0vxRPIBruQR3p61jvQa2wX) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:12 | 2021-10-19 | 2023-01-06 |
+| [Catching Feelings \- Edit](https://open.spotify.com/track/7ByNXZdoSFhgEQCZwyOP9X) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/5aqiSYD4CoXgKW7p7mUNex) | 6:12 | 2021-10-19 |  |
 | [Catching Feelings \- Edit](https://open.spotify.com/track/0RKx3ivZOpeAlr3jrw8m8O) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:12 | 2021-10-19 | 2022-07-29 |
 | [Charmer](https://open.spotify.com/track/0jsHe6mgHZqimZcBqgALhY) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P) | [Charmer](https://open.spotify.com/album/4hgHLc9kJyPtNaLK2Q4hTH) | 3:12 | 2021-10-19 |  |
 | [Code Red](https://open.spotify.com/track/7DktOuS8pPO4P6xWcGgDeM) | [Congo Natty](https://open.spotify.com/artist/1NngQUSMHaauD7UjKuaH2W), [Conquering Lion](https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM), [Reggie Stepper](https://open.spotify.com/artist/5jXyw1hN0YcQ7jHeQq1uEk) | [Code Red](https://open.spotify.com/album/3LkJ19UdnFV6PLvcNYPFRY) | 4:31 | 2021-10-19 |  |
@@ -66,7 +67,7 @@
 | [Salvation](https://open.spotify.com/track/3roe17JVTXideOMzD65ybQ) | [Total Science](https://open.spotify.com/artist/20X39VOcF5zEpkOx6WrXlY), [Digital](https://open.spotify.com/artist/1uFpWQ0YiqqDADmf0EUtdT), [Spirit](https://open.spotify.com/artist/2aMY2rqVr7B8k734I1km5m) | [C.I.A\. vs Phantom Audio](https://open.spotify.com/album/0oPYBv2wGlBmEjKflK4YOa) | 5:20 | 2021-10-19 | 2022-07-29 |
 | [Salvation](https://open.spotify.com/track/5mOrTkZX2OvkxVRTZ8J6zh) | [Total Science](https://open.spotify.com/artist/20X39VOcF5zEpkOx6WrXlY), [Digital](https://open.spotify.com/artist/44uXkGzSX98fieUV6b8pvv), [Spirit](https://open.spotify.com/artist/2aMY2rqVr7B8k734I1km5m) | [C.I.A\. vs Phantom Audio](https://open.spotify.com/album/08iFb3tImlvpABvlemQVvS) | 5:20 | 2021-10-19 |  |
 | [Sambassim \- DJ Patife Remix](https://open.spotify.com/track/0IP9U6sTH3BBbmczskyxvm) | [DJ Patife](https://open.spotify.com/artist/1IUEwhqDbKPL95uG68ccyt) | [Cool Steps Drum 'n' Bass Grooves](https://open.spotify.com/album/5soek6ip4VnvULdCFgQT4U) | 3:36 | 2021-10-19 |  |
-| [Searchin' For My Rizla](https://open.spotify.com/track/2Bh3GpDX493m8gb9xvOkLa) | [Ratpack](https://open.spotify.com/artist/1rika5Z28KRugfD9tgKqLe) | [The History](https://open.spotify.com/album/0GXP4UU5vDxRf0KmV4SJwv) | 5:18 | 2021-10-19 |  |
+| [Searchin' For My Rizla](https://open.spotify.com/track/2Bh3GpDX493m8gb9xvOkLa) | [RatPack](https://open.spotify.com/artist/1rika5Z28KRugfD9tgKqLe) | [The History](https://open.spotify.com/album/0GXP4UU5vDxRf0KmV4SJwv) | 5:18 | 2021-10-19 |  |
 | [Searchin' For My Rizla](https://open.spotify.com/track/5tnSb5pGs5YJX1EtOsagEJ) | [Ratpack](https://open.spotify.com/artist/1rika5Z28KRugfD9tgKqLe) | [The History](https://open.spotify.com/album/73GSR3FVpyqdDwP45fpHQx) | 5:18 | 2021-10-19 | 2022-07-29 |
 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 | 2021-10-19 |  |
 | [Sober Feels](https://open.spotify.com/track/33trRVG42wEdwNI5l1mS2D) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sober Feels](https://open.spotify.com/album/62YIhi4XCmxb59zrENXdWt) | 3:17 | 2021-10-19 |  |

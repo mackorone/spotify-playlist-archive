@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-101 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
+102 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Love Is](https://open.spotify.com/track/5F9vJi7cNW7FLpdQc50LKm) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Stompin' Ground](https://open.spotify.com/album/4PCrKaiJuhJronKWpqVlYC) | 4:40 | 2020-08-21 | 2022-07-29 |
 | [Love Sweet Love](https://open.spotify.com/track/1N47m6es1ruoERTpLByl8V) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Up 2 Zero](https://open.spotify.com/album/0PPpXI50qweR3lbhDL0Yb7) | 3:29 | 2020-08-21 |  |
 | [Love Sweet Love](https://open.spotify.com/track/34mId8TooqXQhb186K05aV) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Up 2 Zero](https://open.spotify.com/album/6T3ZsbUPtJ31i9vgyhhHcz) | 3:29 | 2020-08-21 | 2022-07-29 |
-| [Made Man](https://open.spotify.com/track/6BklMtRiRy8BjeK9Lf1krs) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Made Man](https://open.spotify.com/album/7ydPuN7qQGp1G9eYoFMGpK) | 3:29 | 2021-11-05 |  |
+| [Made Man](https://open.spotify.com/track/6BklMtRiRy8BjeK9Lf1krs) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Made Man](https://open.spotify.com/album/7ydPuN7qQGp1G9eYoFMGpK) | 3:29 | 2021-11-05 | 2022-12-03 |
+| [Made Man](https://open.spotify.com/track/6yc6bMZVPQHR06a8H1WOmG) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Wanted](https://open.spotify.com/album/7BoDAUUVu2xqWTyYVkDG9m) | 3:29 | 2021-11-05 |  |
 | [Make It Easy](https://open.spotify.com/track/60zfRewsKIpbmDQXImKW2C) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Salting Earth](https://open.spotify.com/album/0pVOdsazkMxlwse9tHlBlv) | 3:24 | 2020-08-21 |  |
 | [Mindcontrol](https://open.spotify.com/track/1kyIGyqSvT0pdcDdSwFAMV) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Mindcontrol](https://open.spotify.com/album/06RcGnBGNK1BOzGJ8im4D9) | 3:28 | 2020-08-21 |  |
 | [Mindcontrol](https://open.spotify.com/track/2PLg25HdGsV0gcSMVfSFTX) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Mindcontrol](https://open.spotify.com/album/55YrVbIQaV9W9tP8gnIYpT) | 3:28 | 2020-08-21 | 2022-07-29 |

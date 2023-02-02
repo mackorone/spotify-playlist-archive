@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2JRW3jis8XpwJlqecAV4Id">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/4WudXIoTmjglNeW2dnfr06)
+71 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 | 2022-06-04 |  |
 | [Avivamento](https://open.spotify.com/track/3lOrDpePtgosqI3CuDHmKs) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Avivamento](https://open.spotify.com/album/3fAEfPchJogYY4LappIgSa) | 5:58 | 2022-09-22 |  |
 | [Batimentos \- Ao Vivo](https://open.spotify.com/track/6hAaaz1VPSF6Gm3Q1RcoBi) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 6:05 | 2022-06-04 |  |
+| [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 | 2023-01-18 |  |
 | [Correrei \- Ao Vivo](https://open.spotify.com/track/6OPBxXdwzUpWx1z78LTMKJ) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL) | 5:31 | 2022-06-04 |  |
 | [Céu](https://open.spotify.com/track/4dOLTIZCnjRnQegoRhr3O3) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:02 | 2022-06-04 | 2022-09-23 |
 | [Céu na Terra](https://open.spotify.com/track/6xTGvPpkpNg7ANwhrwaWGS) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 5:07 | 2022-06-04 |  |

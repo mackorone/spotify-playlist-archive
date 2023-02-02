@@ -4,7 +4,7 @@
 
 > Sweden couldn&\#x27;t get enough of these tracks in 2014! See how the rest of the world listened at spotify.com&\#x2F;2014\. \*Includes artists currently available on Spotify.
 
-100 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/2hNHLc0MLBbisXiJZlC2uW)
+100 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

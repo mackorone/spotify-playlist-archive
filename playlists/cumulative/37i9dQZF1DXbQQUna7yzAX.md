@@ -4,7 +4,7 @@
 
 > Grunge is still alive and kicking!
 
-128 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/2p1xJCKddTPywAIt8eJDFC)
+128 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

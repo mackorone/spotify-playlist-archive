@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Feline-friendly tracks curated by musicologist <a href=\"spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B\">David Teie</a>, who pioneered scientifically researched music for cats.",
   "name": "Mellow Meowsic",
-  "published_playlist_ids": [
-    "3aC2CwoMZV4vaqzE3DlaQB"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,6 +42,50 @@
     {
       "album": {
         "name": "Bach: Well Tempered Clavier (Books I & II, Complete)",
+        "url": "https://open.spotify.com/album/2hYizcKgB3qoyTbxqkIB1A"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 118200,
+      "name": "Book I: Prelude and Fugue No. 1 in C Major BWV 846",
+      "url": "https://open.spotify.com/track/0BgHDpDnFg1Wfm9r7XsWeG"
+    },
+    {
+      "album": {
+        "name": "Bach: Well Tempered Clavier (Books I & II, Complete)",
+        "url": "https://open.spotify.com/album/2hYizcKgB3qoyTbxqkIB1A"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 155213,
+      "name": "Book I: Prelude and Fugue No. 1 in C Major BWV 846",
+      "url": "https://open.spotify.com/track/4DhsyDcXQvtbSwqrvNtk47"
+    },
+    {
+      "album": {
+        "name": "Bach: Well Tempered Clavier (Books I & II, Complete)",
         "url": "https://open.spotify.com/album/4OsweMAATSbKd9awYvOEEj"
       },
       "artists": [
@@ -59,7 +100,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 118200,
       "name": "Book I: Prelude and Fugue No. 1 in C Major BWV 846: I. Prelude",
       "url": "https://open.spotify.com/track/5zogxOXSQsQTyY5p49BG6D"
@@ -81,7 +122,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 155213,
       "name": "Book I: Prelude and Fugue No. 1 in C Major BWV 846: II. Fugue",
       "url": "https://open.spotify.com/track/7zHvJKdxDHeTfOnUGgwBJR"
@@ -437,7 +478,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 301253,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: 2. Adagio",
+      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
       "url": "https://open.spotify.com/track/5x2xMWorOHxbhRN50Ebwa0"
     },
     {
@@ -459,7 +500,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 420413,
-      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": 2. Andante",
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": II. Andante",
       "url": "https://open.spotify.com/track/6IKPX55mQL42ELcLIkK0Ci"
     },
     {
@@ -481,7 +522,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 377200,
-      "name": "Piano Sonata No. 5 in G, K.283: 2. Andante",
+      "name": "Piano Sonata No. 5 in G Major, K. 283: II. Andante",
       "url": "https://open.spotify.com/track/7LGkBu8hHP8CWweOO1ZccB"
     },
     {
@@ -631,6 +672,50 @@
       "duration_ms": 115146,
       "name": "Spook's Ditty",
       "url": "https://open.spotify.com/track/50UO61QfF5DuAkegNrFzOv"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: The Well-Tempered Clavier, Books 1 & 2, BWV 846-893",
+        "url": "https://open.spotify.com/album/3PWhuYij6e99npMTjTZm2C"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117913,
+      "name": "The Well-Tempered Clavier, Book 1, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
+      "url": "https://open.spotify.com/track/1Nr8mCDNAopFZB93SPHLVw"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: The Well-Tempered Clavier, Books 1 & 2, BWV 846-893",
+        "url": "https://open.spotify.com/album/3PWhuYij6e99npMTjTZm2C"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sviatoslav Richter",
+          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149206,
+      "name": "The Well-Tempered Clavier, Book 1, Prelude & Fugue No. 1 in C Major, BWV 846: II. Fugue",
+      "url": "https://open.spotify.com/track/2g2XmbDVVvz3Gq40bGkiWL"
     },
     {
       "album": {

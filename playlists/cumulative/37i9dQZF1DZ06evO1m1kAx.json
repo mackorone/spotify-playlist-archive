@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
   "name": "This Is 2Baba",
-  "published_playlist_ids": [
-    "7p0WalrT4dOYZ5O0obVXyp"
-  ],
   "tracks": [
     {
       "album": {
@@ -381,7 +378,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 262844,
       "name": "Feeling You",
       "url": "https://open.spotify.com/track/58m7KaE0iO9T8z2rChajKC"
@@ -465,7 +462,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": "2023-01-16",
       "duration_ms": 241737,
       "name": "Frenemies",
       "url": "https://open.spotify.com/track/7hWvMTMVuxJqKUG98gAACG"
@@ -553,7 +550,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 213969,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/4WLIbmoXbHuxc6CNI8dD1V"
@@ -811,7 +808,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-07",
       "duration_ms": 255738,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/310NSkclxmN4Npsc9Q2R3B"
@@ -1743,7 +1740,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-23",
+      "date_removed": null,
       "duration_ms": 163507,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
@@ -1772,6 +1769,28 @@
     },
     {
       "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 296693,
+      "name": "U No Holy Pass",
+      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
+    },
+    {
+      "album": {
         "name": "Face 2 Face 10.0",
         "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
       },
@@ -1783,7 +1802,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 267840,
       "name": "U No Holy Pass - Remastered Version",
       "url": "https://open.spotify.com/track/3v0FEcW2YJaJlVU5k7zolI"

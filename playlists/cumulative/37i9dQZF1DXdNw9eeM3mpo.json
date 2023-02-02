@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "100 % ska latinoamericano. Los Fabulosos Cadillacs en portada.",
+  "description": "100 % ska latinoamericano. Los Aut\u00e9nticos Decadentes y Andrea Echeverri en portada.",
   "name": "skad'ak\u00e1",
-  "published_playlist_ids": [
-    "7sowbFUvoZr7b5eIa5Z44L"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-28",
       "duration_ms": 220162,
       "name": "30 Monedas",
       "url": "https://open.spotify.com/track/3xdzopoC8RLPrY8lKs0MSa"
@@ -63,7 +60,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 189000,
       "name": "A Rianxeira",
       "url": "https://open.spotify.com/track/5bnz3fQJMiu8WsIAM5UZdf"
@@ -349,7 +346,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 217626,
       "name": "Aqu\u00ed No Hay Playa",
       "url": "https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY"
@@ -1259,7 +1256,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 190012,
       "name": "El Peor Momento",
       "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
@@ -1483,7 +1480,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 278343,
       "name": "Entre Vos y Yo",
       "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
@@ -2673,7 +2670,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
@@ -2785,7 +2782,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-22",
       "duration_ms": 181426,
       "name": "No Te Calles",
       "url": "https://open.spotify.com/track/1lDVKcpFlMASlz6ysYmINg"
@@ -3091,7 +3088,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 236930,
       "name": "Pachuco - En Vivo en el Foro Sol - 17.11.17",
       "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
@@ -3375,7 +3372,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179720,
       "name": "Que Corran",
       "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
@@ -3632,6 +3629,28 @@
     },
     {
       "album": {
+        "name": "Sal\u00fa",
+        "url": "https://open.spotify.com/album/1ykAyNxQOlw509Y3UZLmrK"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199096,
+      "name": "Sal\u00fa",
+      "url": "https://open.spotify.com/track/1CDM8ubMSiRrmBzOB44YT0"
+    },
+    {
+      "album": {
         "name": "Sanguchito",
         "url": "https://open.spotify.com/album/109r0LI2S9nrtN9rwY31x9"
       },
@@ -3701,6 +3720,28 @@
       "duration_ms": 181453,
       "name": "Se Acabo El Amor 2005",
       "url": "https://open.spotify.com/track/3coJHOVnYPPrDq0sDU7nUV"
+    },
+    {
+      "album": {
+        "name": "Se Me Ha Perdido un Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3sHqU9KQzlVj6Mm00Irtah"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201504,
+      "name": "Se Me Ha Perdido un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6OfrAyy51UhReRVKm4O4gO"
     },
     {
       "album": {
@@ -3989,7 +4030,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-02-02",
       "duration_ms": 217826,
       "name": "Skalari Rude Klub (SRK)",
       "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
@@ -4595,7 +4636,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 229400,
       "name": "Tu Alma M\u00eda & Adelita",
       "url": "https://open.spotify.com/track/1sxw4UT4h3qpd1ABFEPBe8"
@@ -4617,6 +4658,24 @@
       "duration_ms": 229426,
       "name": "Tu Alma M\u00eda & Adelita",
       "url": "https://open.spotify.com/track/3JuJ8K9qJshYxQGR1ijoaa"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233266,
+      "name": "Tu Alma M\u00eda / Adelita",
+      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
     },
     {
       "album": {
@@ -4775,7 +4834,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 166159,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/6g9hULFpG1pEyEH6HRMHaE"

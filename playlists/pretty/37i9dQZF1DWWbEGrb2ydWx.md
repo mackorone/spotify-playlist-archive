@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,775 likes - 35 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,341 likes - 35 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 16 | [Altiplano](https://open.spotify.com/track/6Rb4zQKBhAnsUbmewFNoH5) | [Jona](https://open.spotify.com/artist/5Ot15viWyy2y8y7eDaH6RY) | [Altiplano](https://open.spotify.com/album/17FIQTazK1JsqOtLSoNXbV) | 7:24 |
 | 17 | [Going Up \(Special Edit\) \- Mixed](https://open.spotify.com/track/54gdGwilCbDleaYz0O3lIe) | [Panooc](https://open.spotify.com/artist/0SoeuXQ9sFMWE7hb9IV023), [D.D\. Curry](https://open.spotify.com/artist/5NFtkoeKy6k79TdoOqsEb2) | [Mixmag Presents Logic1000](https://open.spotify.com/album/5RtXdNzE9CUqaAvzgDhi1X) | 4:00 |
 | 18 | [MEAN BOY](https://open.spotify.com/track/4qYjy3A5Jk7YIcWTHWYPeC) | [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj), [Prado Monroe](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq), [Slim Media Player](https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR) | [ELASTIC](https://open.spotify.com/album/6DCtTHrowhDjpEwC0HgZuI) | 5:14 |
-| 19 | [The Omega](https://open.spotify.com/track/3e7i4ux1lbOJIWEAJxzNwj) | [Maestro](https://open.spotify.com/artist/36qY2GiiA6O32e7iWGlrqF) | [This Is Housupa](https://open.spotify.com/album/1gtfsGXrX0TCK6O6wGNzTf) | 5:56 |
+| 19 | [The Omega](https://open.spotify.com/track/3e7i4ux1lbOJIWEAJxzNwj) | [Maestro UK](https://open.spotify.com/artist/3J95syHP0aZS2aHtKTauEi) | [This Is Housupa](https://open.spotify.com/album/1gtfsGXrX0TCK6O6wGNzTf) | 5:56 |
 | 20 | [Long Lasting](https://open.spotify.com/track/0kVwU9vTrpFLPzdmoRloFz) | [Native Soul](https://open.spotify.com/artist/1YhcreGr3lGJf6nOne2AIv) | [Teenage Dreams](https://open.spotify.com/album/6088Sj5rAfVFzUxPKDq6jm) | 8:20 |
 | 21 | [If I Was Your Girlfriend \- 2020 Remaster](https://open.spotify.com/track/2laui4O0tY1GDZcsB7iJtK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 5:03 |
 | 22 | [Footworkin on Air](https://open.spotify.com/track/6KmFqDL2TsfzoK4QJqTXjL) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind of Traxman](https://open.spotify.com/album/3NCTZXvanzWpQeafprDljK) | 4:01 |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Discover the classical side of your favourite Disney soundtracks.",
   "name": "Disney Classical",
-  "published_playlist_ids": [
-    "0vmRJRYwOgFfUhgFl1I2vw"
-  ],
   "tracks": [
     {
       "album": {
@@ -563,6 +560,42 @@
       "duration_ms": 143373,
       "name": "Define Dancing",
       "url": "https://open.spotify.com/track/5zeaIcBVA0Ta8JVp1S5zDM"
+    },
+    {
+      "album": {
+        "name": "Disenchanted (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5S0XYRNtdDHNas37W1AhNH"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463895,
+      "name": "Disenchanted Score Suite",
+      "url": "https://open.spotify.com/track/5EcXlMdTdzl9Cf2CzVtvG8"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Strings: Relax",
+        "url": "https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215093,
+      "name": "Do You Want to Build a Snowman?",
+      "url": "https://open.spotify.com/track/2OnoTCzLS2aHo6nX969wBW"
     },
     {
       "album": {
@@ -1836,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Disney Peaceful Strings: Relax",
+        "url": "https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200203,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/08ud84GRgyaXbfAW1WxuVD"
+    },
+    {
+      "album": {
         "name": "Walt Disney Records The Legacy Collection: Robin Hood",
         "url": "https://open.spotify.com/album/56ewU1ti6LTUjDQzsI9QZD"
       },
@@ -2089,7 +2140,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 341619,
       "name": "The Fourth Virtue - Extended",
       "url": "https://open.spotify.com/track/3y3B09QC2nOueLQkhn0gS2"
@@ -2625,6 +2676,24 @@
       "duration_ms": 234266,
       "name": "You Can Never Belong",
       "url": "https://open.spotify.com/track/3hxmdwLdmjSwV15ahceHY7"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Strings: Relax",
+        "url": "https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230329,
+      "name": "You'll Be in My Heart",
+      "url": "https://open.spotify.com/track/15DB0qZcbqxSkvjqGM9bds"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVJd52AtCSiR"

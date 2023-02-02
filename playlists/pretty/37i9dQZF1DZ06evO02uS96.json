@@ -1,47 +1,15 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 139795,
+  "num_followers": 145223,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDA2YmU4NTk5N2MxZjVjOTk4ZmRiM2JmZGRhYTEzYzMxNA==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA0MGRkNGY4YWMxMDllNTE1MTc1MjRlMmFhNWYyMDBjZg==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c",
-        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "\u6b8b\u97ff\u6563\u6b4c",
-      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "daydream",
-        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "\u30ab\u30bf\u30aa\u30e2\u30a4",
-      "url": "https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
         "url": "https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE"
@@ -65,7 +33,55 @@
       "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "\u30ab\u30bf\u30aa\u30e2\u30a4",
+      "url": "https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
@@ -81,10 +97,10 @@
       "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
-        "name": "DAWN",
-        "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
       },
       "artists": [
         {
@@ -92,60 +108,12 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 233493,
-      "name": "Brave Shine",
-      "url": "https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ"
+      "duration_ms": 227146,
+      "name": "Deep down",
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "\u30aa\u30a2\u30a4\u30b3",
-        "url": "https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 234541,
-      "name": "\u30aa\u30a2\u30a4\u30b3",
-      "url": "https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 289986,
-      "name": "Ref:rain",
-      "url": "https://open.spotify.com/track/6MNY72T605kPIOH3hnioxu"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "Ivy Ivy Ivy",
-        "url": "https://open.spotify.com/album/4zonvfa0E3bJJ52tSvsqLI"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 292640,
-      "name": "Ivy Ivy Ivy",
-      "url": "https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "\u5730\u7403\u5100",
         "url": "https://open.spotify.com/album/486yrlQRriPBlck0MpnNRA"
@@ -165,7 +133,39 @@
       "url": "https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Brave Shine",
+      "url": "https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 289986,
+      "name": "Ref:rain",
+      "url": "https://open.spotify.com/track/6MNY72T605kPIOH3hnioxu"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
@@ -181,7 +181,39 @@
       "url": "https://open.spotify.com/track/1CAhaSy2odeJoPIkFndCIB"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "Ivy Ivy Ivy",
+        "url": "https://open.spotify.com/album/4zonvfa0E3bJJ52tSvsqLI"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 292640,
+      "name": "Ivy Ivy Ivy",
+      "url": "https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "\u30aa\u30a2\u30a4\u30b3",
+        "url": "https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 234541,
+      "name": "\u30aa\u30a2\u30a4\u30b3",
+      "url": "https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
@@ -197,7 +229,7 @@
       "url": "https://open.spotify.com/track/3HxJaKzob7tdcr4qmqfR1d"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "SPARK-AGAIN",
         "url": "https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG"
@@ -213,7 +245,7 @@
       "url": "https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "DAWN",
         "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
@@ -229,7 +261,7 @@
       "url": "https://open.spotify.com/track/5SIvk89WNJKsl02ojARSYh"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "\u671d\u304c\u6765\u308b",
         "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
@@ -281,7 +313,7 @@
       "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Penny Rain",
         "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
@@ -297,23 +329,7 @@
       "url": "https://open.spotify.com/track/5kKSQULHCPFE7CKMPrkAtP"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "wavy flow",
-        "url": "https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 205451,
-      "name": "wavy flow",
-      "url": "https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
@@ -329,23 +345,7 @@
       "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
-        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
-      "url": "https://open.spotify.com/track/0TNCFV9nHsEz3E01HO3QrM"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR"
@@ -365,7 +365,23 @@
       "url": "https://open.spotify.com/track/7iH7uU8YCtkIgn8xyVNBEU"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "rubble pile",
+      "url": "https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Walpurgis",
         "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
@@ -381,23 +397,7 @@
       "url": "https://open.spotify.com/track/2rizK3oastlZwyoYwrcLgC"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "BEST SELECTION \"blanc\"",
-        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 329786,
-      "name": "\u831c\u3055\u3059",
-      "url": "https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/1Q3wFTqaH9rmVGdGj85Lsa"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
@@ -429,7 +429,23 @@
       "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "BEST SELECTION \"blanc\"",
+        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 329786,
+      "name": "\u831c\u3055\u3059",
+      "url": "https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
@@ -445,23 +461,7 @@
       "url": "https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 328493,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
@@ -472,12 +472,12 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Blind to you (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
-      "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
+      "duration_ms": 303106,
+      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
+      "url": "https://open.spotify.com/track/0TNCFV9nHsEz3E01HO3QrM"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/0m37tmxs9lX9LQjoNcvhKk"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Walpurgis",
         "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
@@ -509,10 +509,10 @@
       "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
       },
       "artists": [
         {
@@ -520,12 +520,12 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 343973,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1"
+      "duration_ms": 328493,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
@@ -552,12 +552,28 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 301200,
-      "name": "\u30b0\u30ec\u30fc\u30b9\u30ce\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/6Cbj35JwbPVyBXfqtX17Jm"
+      "duration_ms": 281560,
+      "name": "Blind to you (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
+      "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "wavy flow",
+        "url": "https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 205451,
+      "name": "wavy flow",
+      "url": "https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
         "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
@@ -573,23 +589,7 @@
       "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Black Bird",
-      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
@@ -605,23 +605,7 @@
       "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c / \u671d\u304c\u6765\u308b",
-        "url": "https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 91000,
-      "name": "\u6b8b\u97ff\u6563\u6b4c -TV ver.-",
-      "url": "https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "o1",
         "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
@@ -641,7 +625,7 @@
       "url": "https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Penny Rain",
         "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
@@ -652,76 +636,12 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 371426,
-      "name": "\u82b1\u306e\u5504",
-      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
+      "duration_ms": 227200,
+      "name": "Black Bird",
+      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "ninelie EP",
-        "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Through My Blood <AM>",
-      "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "ONE AND LAST",
-        "url": "https://open.spotify.com/album/5jc9kybeA4JeT6xucySNte"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 287453,
-      "name": "ONE AND LAST",
-      "url": "https://open.spotify.com/track/52hEoJr9DL19p4BKGuvnfv"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "ever after",
-      "url": "https://open.spotify.com/track/0mkctINFN0327pYxp1CRhQ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 335973,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/3mhLRc3Vn8CHlCropQ5yxu"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
@@ -732,15 +652,15 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 362693,
-      "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b -rit. ver.-",
-      "url": "https://open.spotify.com/track/6RD0mL1NtGlBAGKSl4IG5T"
+      "duration_ms": 301200,
+      "name": "\u30b0\u30ec\u30fc\u30b9\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6Cbj35JwbPVyBXfqtX17Jm"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
-        "name": "\u5b63\u8def",
-        "url": "https://open.spotify.com/album/6j0uUaKQdWOHV48kYA8fbA"
+        "name": "BEST SELECTION \"blanc\"",
+        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
       },
       "artists": [
         {
@@ -748,12 +668,12 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 352265,
-      "name": "\u5b63\u8def",
-      "url": "https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY"
+      "duration_ms": 337066,
+      "name": "everlasting snow",
+      "url": "https://open.spotify.com/track/1pS8rVJSUQUB5kZOMgXaA2"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
@@ -769,7 +689,103 @@
       "url": "https://open.spotify.com/track/3ei1nNNIVqST7wbZPUIjiK"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 343973,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "ever after",
+      "url": "https://open.spotify.com/track/0mkctINFN0327pYxp1CRhQ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c / \u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 91000,
+      "name": "\u6b8b\u97ff\u6563\u6b4c -TV ver.-",
+      "url": "https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "ONE AND LAST",
+        "url": "https://open.spotify.com/album/5jc9kybeA4JeT6xucySNte"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 287453,
+      "name": "ONE AND LAST",
+      "url": "https://open.spotify.com/track/52hEoJr9DL19p4BKGuvnfv"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 335973,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3mhLRc3Vn8CHlCropQ5yxu"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
+      "album": {
+        "name": "ninelie EP",
+        "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Through My Blood <AM>",
+      "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
+    },
+    {
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/0BYIoZmj58ibykXiHWRIwZ"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
@@ -796,15 +812,15 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 287186,
-      "name": "tone (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
-      "url": "https://open.spotify.com/track/3Ef3BUWsWIglIvZwkUio40"
+      "duration_ms": 362693,
+      "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b -rit. ver.-",
+      "url": "https://open.spotify.com/track/6RD0mL1NtGlBAGKSl4IG5T"
     },
     {
-      "added_at": "2022-11-25 14:27:20",
+      "added_at": "2023-02-01 17:51:36",
       "album": {
-        "name": "daydream",
-        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
       "artists": [
         {
@@ -812,25 +828,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 302266,
-      "name": "Stars in the rain",
-      "url": "https://open.spotify.com/track/7DimVUzanCg5lhqk9reDGd"
-    },
-    {
-      "added_at": "2022-11-25 14:27:20",
-      "album": {
-        "name": "broKen NIGHT / holLow wORlD",
-        "url": "https://open.spotify.com/album/5Xqd1QR5Qeg5COX7IqQ1Co"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 296306,
-      "name": "broKen NIGHT",
-      "url": "https://open.spotify.com/track/6CDkzGTESwc9huctjalPLU"
+      "duration_ms": 371426,
+      "name": "\u82b1\u306e\u5504",
+      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
     }
   ],
   "unique_name": "This Is Aimer",

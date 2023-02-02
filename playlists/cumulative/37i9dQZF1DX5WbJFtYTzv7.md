@@ -4,7 +4,7 @@
 
 > Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.
 
-93 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2BsWLVOJc324RnAzltg4Bg)
+93 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-173 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/6IpcksdUvSGLIcSPPeLhih)
+174 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Jump And Shake](https://open.spotify.com/track/6Ka0NSviEKTMc60zFR39eO) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:09 | 2022-09-08 |  |
 | [Jump In](https://open.spotify.com/track/1CnFkCmCEQWgixlEZ85EUN) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:10 | 2022-09-08 |  |
 | [Jump On It](https://open.spotify.com/track/66iI77cgWBEdGichkndWJe) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:26 | 2022-09-08 |  |
+| [Last Call](https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Last Call](https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD) | 2:54 | 2022-12-17 |  |
 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 | 2022-09-08 |  |
 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 | 2022-09-08 |  |
 | [Let It Be Me](https://open.spotify.com/track/1LjxmkW3xRQP2HzswhYyyc) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Let It Be Me](https://open.spotify.com/album/6nPJEALAjWKOE1jWPws7jj) | 3:44 | 2022-09-08 |  |
@@ -153,7 +154,7 @@
 | [Summer Nights](https://open.spotify.com/track/6Mq704d8DJi7r8zEsONOKI) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Town Called Paradise \(Japan Special Edition\)](https://open.spotify.com/album/473olrWTIYqylqGEVlS9t7) | 3:10 | 2022-09-08 |  |
 | [Teenage Boys](https://open.spotify.com/track/3t1b1SpzqIqOY60nXGHB90) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 5:17 | 2022-09-08 |  |
 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 | 2022-09-08 |  |
-| [Tied to Your Body](https://open.spotify.com/track/0myekv84cuSeVRSboWQqpo) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 2:09 | 2022-09-08 |  |
+| [Tied to Your Body](https://open.spotify.com/track/0myekv84cuSeVRSboWQqpo) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 2:09 | 2022-09-08 |  |
 | [Trash](https://open.spotify.com/track/3ETGCH7qwgDpfTLytMGVAR) | [Model Child](https://open.spotify.com/artist/3zZPv8aJhRywJjUqOLFe0O) | [Trash](https://open.spotify.com/album/45YZhqE6PEbrx0h2iOC3Vz) | 2:14 | 2022-09-08 |  |
 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 | 2022-09-08 |  |
 | [Under the Blue](https://open.spotify.com/track/36MIbsvqcvrIJcgrcIKvjv) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp) | 3:28 | 2022-10-13 |  |

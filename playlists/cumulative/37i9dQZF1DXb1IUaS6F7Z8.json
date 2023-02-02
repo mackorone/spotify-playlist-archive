@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-15",
   "description": "All of the best Celtic punk tracks. Cover: The Dreadnoughts",
   "name": "Celtic Punk",
-  "published_playlist_ids": [
-    "65HxUQh37oq5Eems1crT9A"
-  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 196933,
       "name": "Celtic Storm (2010)",
       "url": "https://open.spotify.com/track/3GnmZYcYGFOwLisSqHRjJQ"
@@ -563,7 +560,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 201653,
       "name": "Haul Away, Joe",
       "url": "https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC"
@@ -1247,7 +1244,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 211213,
       "name": "Skull Creek Logger",
       "url": "https://open.spotify.com/track/6ZGdCZ2kyGgEXx5PjCji2Y"
@@ -1337,7 +1334,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 151634,
       "name": "Sobriety",
       "url": "https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj"
@@ -1363,6 +1360,28 @@
       "duration_ms": 211573,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3icdIwRcG7VqMwwpbkqkSM"
+    },
+    {
+      "album": {
+        "name": "Toss the Coin",
+        "url": "https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        },
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/5YmZ8wmqrZulmgtOfLHAnx"
     },
     {
       "album": {
@@ -1777,6 +1796,24 @@
       "duration_ms": 176409,
       "name": "Wreck Head Wedding",
       "url": "https://open.spotify.com/track/59Yc6uN8UjlhF7XXWAxxoH"
+    },
+    {
+      "album": {
+        "name": "Green Blood",
+        "url": "https://open.spotify.com/album/4AAQCgvQvR3RRpJdxRvNCl"
+      },
+      "artists": [
+        {
+          "name": "The O'Reillys and the Paddyhats",
+          "url": "https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174746,
+      "name": "Yesterday's Rebel",
+      "url": "https://open.spotify.com/track/3rldsE7VbNG5jXv2LGNKF8"
     },
     {
       "album": {

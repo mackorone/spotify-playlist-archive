@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The most essential R&B songs from the 90s. Cover: Sade",
   "name": "I Love My '90s R&B",
-  "published_playlist_ids": [
-    "1VYI8Qigj4Sumv75JdWTOA"
-  ],
   "tracks": [
     {
       "album": {
@@ -229,7 +226,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 218186,
       "name": "Bring It All to Me (feat. *NSYNC)",
       "url": "https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf"
@@ -870,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228293,
+      "name": "I Couldn't Love You More",
+      "url": "https://open.spotify.com/track/104gvc1JDyW1PXCW9GCP17"
+    },
+    {
+      "album": {
         "name": "All-4-One",
         "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
@@ -1005,6 +1020,24 @@
       "duration_ms": 278333,
       "name": "I'm So Into You",
       "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
+    },
+    {
+      "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299426,
+      "name": "I'm Your Baby Tonight",
+      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
     },
     {
       "album": {
@@ -1175,7 +1208,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 350000,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
@@ -1439,7 +1472,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 242560,
       "name": "No More",
       "url": "https://open.spotify.com/track/2WfhlEjoUII31H6imnQdvF"
@@ -1854,6 +1887,50 @@
     },
     {
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
+    },
+    {
+      "album": {
+        "name": "A Day in the Life",
+        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
+      },
+      "artists": [
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        },
+        {
+          "name": "Kevin \"K.D.\" Davis",
+          "url": "https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 276013,
+      "name": "Spend My Life With You",
+      "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
+    },
+    {
+      "album": {
         "name": "No Doubt",
         "url": "https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO"
       },
@@ -1865,7 +1942,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2022-12-22",
       "duration_ms": 257959,
       "name": "Steelo",
       "url": "https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG"

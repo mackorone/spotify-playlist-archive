@@ -4,7 +4,7 @@
 
 > Former member of The Beatles.
 
-42 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/5ZAAJ6BOV12RJbWSyIDImx)
+42 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

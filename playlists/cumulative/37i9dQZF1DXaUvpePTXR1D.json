@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Sway your way through the evening.",
   "name": "Slow Dancing in the Living Room",
-  "published_playlist_ids": [
-    "1yEsj7P9XfDpVu6i8GE8Qq"
-  ],
   "tracks": [
     {
       "album": {
@@ -1277,6 +1274,24 @@
     {
       "album": {
         "name": "First Place",
+        "url": "https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235024,
+      "name": "Halfway Up",
+      "url": "https://open.spotify.com/track/3vDa3TYf1nnmmc9DiSviwX"
+    },
+    {
+      "album": {
+        "name": "First Place",
         "url": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
       },
       "artists": [
@@ -1287,7 +1302,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 235024,
       "name": "Halfway Up",
       "url": "https://open.spotify.com/track/5HsJGA8P5fPzR06i9FQKBr"
@@ -3069,10 +3084,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 202786,
       "name": "Solar Flare",
       "url": "https://open.spotify.com/track/0hcHi1RoWCayxRSbq2f3CI"
+    },
+    {
+      "album": {
+        "name": "Solar Flare",
+        "url": "https://open.spotify.com/album/4E1zqQHT3Qff7ulKGj6d6t"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202786,
+      "name": "Solar Flare",
+      "url": "https://open.spotify.com/track/7EkeF9ke5wVAerr9z1yVJD"
     },
     {
       "album": {
@@ -3095,6 +3128,24 @@
     {
       "album": {
         "name": "Stay",
+        "url": "https://open.spotify.com/album/2mkNZarVOH90LJSpG9whzL"
+      },
+      "artists": [
+        {
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229415,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Ghaex7YilwIGGCVzFeyYm"
+    },
+    {
+      "album": {
+        "name": "Stay",
         "url": "https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv"
       },
       "artists": [
@@ -3105,7 +3156,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 229415,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram"

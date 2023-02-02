@@ -4,7 +4,7 @@
 
 > Meet G\-Dragon, Taeyang, T.O.P, and Daesung—members of the acclaimed K\-Pop phenom with their V.I.Ps
 
-47 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/6mHh7wwlcJs8TcKPhp1sgK)
+47 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

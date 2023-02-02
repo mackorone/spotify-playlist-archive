@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 
 > Celebrating the women who shaped electronic music to its current incarnation\. Cover: Wendy Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,917 likes - 48 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,735 likes - 48 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 | 10 | [I Come Out Of Your Sleep](https://open.spotify.com/track/5sR6qE0cQovmDpkfesXnje) | [Annea Lockwood/Ruth Anderson](https://open.spotify.com/artist/4lhXBy3ve574sqBmBseEyH) | [Sinopah](https://open.spotify.com/album/4207UkGWpur6nYHRJ5Mykb) | 23:32 |
 | 11 | [Deep Hockets](https://open.spotify.com/track/673pN6FlbtibkwJYmmwZzm) | [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [David Gamper](https://open.spotify.com/artist/4EBz471jKSY4sToai5DvEt), [Deep Listening Band](https://open.spotify.com/artist/3PdYPN7CRANy7IXME7O4vk) | [Dempster / Gamper / Oliveros: Traffic Prayers / Deep Hockets / The Last Chances / Mairzy Doats / Cage, C.: 4' 33'' / Variations Ii](https://open.spotify.com/album/42QwpQrmfpjp2MRw8g0WP8) | 3:42 |
 | 12 | [Theme from Tron \- From "TRON"/Score](https://open.spotify.com/track/6h7kp0vSYQobYlsv30RpqH) | [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB) | [Tron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7wIvILO6pAlr0jl46GLXLf) | 1:37 |
-| 13 | [Schlum Rooli](https://open.spotify.com/track/1WQxnpFzE59xjsfwh3Kket) | [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [The Radiophonic Workshop](https://open.spotify.com/album/0akNc1a1mIGFiT9p7tnY1Y) | 1:57 |
-| 14 | [Interval Signal](https://open.spotify.com/track/2jiyFTD3TSxQhy3zHDEUpS) | [Maddalena Fagandini](https://open.spotify.com/artist/1UCiMYXvdATF8gxLpxxRi7) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu) | 1:39 |
+| 13 | [Schlum Rooli](https://open.spotify.com/track/61R4Io1rQNmjt8ADYgPy80) | [The BBC Radiophonic Workshop](https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa) | [The Radiophonic Workshop](https://open.spotify.com/album/5aFoHXeyer4v4XXGlOnTf6) | 1:57 |
+| 14 | [Interval Signal](https://open.spotify.com/track/7wm8PETEqxDysPx7Lm1XzF) | [Maddalena Fagandini](https://open.spotify.com/artist/1UCiMYXvdATF8gxLpxxRi7) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 1:39 |
 | 15 | [Rocky Mountains](https://open.spotify.com/track/46onaZFYtcf0JDnLggx7yT) | [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB), [Rachel Elkind](https://open.spotify.com/artist/26WQwAYoinO6Cda6Gwy7yR) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 2:53 |
 | 16 | [Music Of The Spheres](https://open.spotify.com/track/5lW1aLs1hpggoLJDdA94G1) | [Johanna M\. Beyer](https://open.spotify.com/artist/66BM967JJOmv1gne6F72DA) | [An Anthology Of Noise And Electronic Music Vol.2](https://open.spotify.com/album/2P8UMtdO8F1uHUgHaNu6Kb) | 6:00 |
 | 17 | [Three Sonic Spaces II](https://open.spotify.com/track/4RxXmmiphC17d9h0zCxIzR) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:22 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 | 47 | [Amphitryon 38](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 |
 | 48 | [The Transformation Of Ani](https://open.spotify.com/track/7phdkG6fxDpjY4h874I2j1) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Pioneers Of Electronic Music](https://open.spotify.com/album/63ee2BYCQVmebj0ZgxhxL0) | 9:04 |
 
-Snapshot ID: `MTYzMzAxMzQ1MSwwMDAwMDAwMDI1MzI1MDJlNGM3YjUwZWY2MWJiZmI0MzU5ODE3MDAy`
+Snapshot ID: `MTYzMzAxMzQ1MSwwMDAwMDAwMDZlMWVjNzIyOTM2Yjc2ZTQ0NjIwNDY3MTMyZGVkOTNh`

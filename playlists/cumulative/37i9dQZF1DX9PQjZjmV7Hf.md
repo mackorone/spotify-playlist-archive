@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jharden13/">James Harden</a>
 
-50 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/2mVNXuWSNnrUywzdQGz4ej)
+52 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,9 @@
 | [BLINDFOLD \(feat\. Lil Baby\)](https://open.spotify.com/track/02mYw61RoS1vXvkD9Q5dpN) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:34 | 2022-10-01 |  |
 | [Blue Laces 2](https://open.spotify.com/track/7yB6GF5kgPEoeGE4EAWiJU) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 4:10 | 2022-10-01 |  |
 | [Candy](https://open.spotify.com/track/6Ms3n5sUl0Bzg3bMCtUEAw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:56 | 2022-10-01 |  |
-| [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/5Bas7y9Uy1Ce7e3vqngqVF) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 2:51 | 2022-10-01 |  |
+| [CANDY](https://open.spotify.com/track/7HO5r0IDbTBM5r7MefDZIg) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Rap Blend](https://open.spotify.com/album/57xkWjtBtXaVfTEbI2FgX3) | 2:51 | 2022-10-01 | 2023-01-03 |
+| [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 | 2022-10-01 |  |
+| [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/5Bas7y9Uy1Ce7e3vqngqVF) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 2:51 | 2022-10-01 | 2023-01-01 |
 | [Close Friends \(Lil Baby & Gunna\)](https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:23 | 2022-10-01 |  |
 | [Dog Food](https://open.spotify.com/track/3AnCVSpT7j6l8T8GBDUl6n) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Young and Turnt](https://open.spotify.com/album/10QfjPmSXM0Lt82GKlajKL) | 2:33 | 2022-10-01 |  |
 | [Effortless](https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [No Pressure](https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud) | 3:05 | 2022-10-01 |  |

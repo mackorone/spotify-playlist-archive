@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 
 > Soothing songs for family yoga time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,649 likes - 202 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,714 likes - 202 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wxtFbAW1CE.md) - [plain]
 | 100 | [Aurore](https://open.spotify.com/track/0Qdj3Fw4Jn71PtIksAuEGD) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Aurore](https://open.spotify.com/album/7fNUSTFRhIyxtH7nyBlBv1) | 3:00 |
 | 101 | [Wee Hours](https://open.spotify.com/track/2iW2dXJw0s2wfNBFEJv4Yo) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Smouldering](https://open.spotify.com/album/5lF1AHJoWR1Fg8tN1mnJkC) | 3:55 |
 | 102 | [Gratitude](https://open.spotify.com/track/2ek6LLrUwT6p2zQCCvFmAW) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Gratitude](https://open.spotify.com/album/7ynmkvhDFRXIuwYmzRCzn6) | 2:39 |
-| 103 | [Little Rock Quiet](https://open.spotify.com/track/5G2qcVeufPAqg3tdCnjjTz) | [Lightning Free](https://open.spotify.com/artist/5gKstbAvksymwjaGWknRH9) | [Mood City](https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m) | 4:17 |
+| 103 | [Little Rock Quiet](https://open.spotify.com/track/5G2qcVeufPAqg3tdCnjjTz) | [Free Light](https://open.spotify.com/artist/14AcUrjjAhWOOo3EYBAwqp) | [Mood City](https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m) | 4:17 |
 | 104 | [Soft Soul](https://open.spotify.com/track/7Ic3ORg6yG4XbqdfdxyOCM) | [Ella Drake](https://open.spotify.com/artist/0O76d5oDfMqnPoxRN29bpx) | [Newborn](https://open.spotify.com/album/6hSiNwlyOFDSpS3Xl28zU8) | 2:56 |
 | 105 | [New Light](https://open.spotify.com/track/6zRiuQpm9fgQ7Sit5Sc0XH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 3:38 |
 | 106 | [Little Star](https://open.spotify.com/track/2vtzVWLFbrcK9geKkcExpN) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Cloud Puff](https://open.spotify.com/album/3s9XpZafAAY3DCCPaIsL8X) | 2:31 |

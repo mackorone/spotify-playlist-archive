@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
   "name": "This Is Big Mama Thornton",
-  "published_playlist_ids": [
-    "17Msi9pjBLbx4sHHhVbydP"
-  ],
   "tracks": [
     {
       "album": {
@@ -113,7 +110,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-24",
       "duration_ms": 248053,
       "name": "Big Mama's Blues (My Love)",
       "url": "https://open.spotify.com/track/3l1Pf2ItsE3bt36BG3GySo"
@@ -153,7 +150,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 218146,
       "name": "Big Mama's Shuffle",
       "url": "https://open.spotify.com/track/1MsBIf9kuuVsTujZlDxz6w"
@@ -247,7 +244,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-29",
       "duration_ms": 168594,
       "name": "Don't Talk Back",
       "url": "https://open.spotify.com/track/0BH8mz5msbTd1KRx9mOaja"
@@ -348,6 +345,24 @@
     },
     {
       "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265346,
+      "name": "Good Time in London",
+      "url": "https://open.spotify.com/track/6PQIAg09Oa1jMVhaDX0GlQ"
+    },
+    {
+      "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
       },
@@ -363,7 +378,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": "2023-01-25",
       "duration_ms": 263306,
       "name": "Guide Me Home",
       "url": "https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0"
@@ -399,7 +414,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-01",
       "duration_ms": 172266,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/6ET5yCqDaaPJP6w7rvy1uM"
@@ -511,7 +526,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-01",
       "duration_ms": 305040,
       "name": "I Feel the Way I Feel",
       "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
@@ -547,7 +562,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-02-02",
       "duration_ms": 105426,
       "name": "I Smell a Rat",
       "url": "https://open.spotify.com/track/6ZNk5OwHUQereZqnUZClqX"
@@ -565,7 +580,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 155120,
       "name": "I'm All Fed Up",
       "url": "https://open.spotify.com/track/3lz4NsL7dgpkZcHQbViZP1"
@@ -591,6 +606,24 @@
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
+    },
+    {
+      "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-29",
+      "duration_ms": 136760,
+      "name": "Instrumental, Pt.1 - Live",
+      "url": "https://open.spotify.com/track/6j2cPdiSCFNdGKkNVcEilF"
     },
     {
       "album": {
@@ -659,7 +692,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-02-01",
       "duration_ms": 169360,
       "name": "Just Like a Dog",
       "url": "https://open.spotify.com/track/1bfv08EFNzn09Ra7bLQfHB"
@@ -681,7 +714,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-09",
       "duration_ms": 166200,
       "name": "Let Your Tears Fall Baby",
       "url": "https://open.spotify.com/track/4jaIplVCcJyNzTzFi3DOj1"
@@ -721,7 +754,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 208213,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
@@ -761,10 +794,28 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 132746,
       "name": "Looking the World Over",
       "url": "https://open.spotify.com/track/3quA3vwMpCEFWdfFZg5yRu"
+    },
+    {
+      "album": {
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292973,
+      "name": "Lost City",
+      "url": "https://open.spotify.com/track/3WGHCI52pWHbcVPTouKbOK"
     },
     {
       "album": {
@@ -819,6 +870,24 @@
       "duration_ms": 465106,
       "name": "Mr. Cool",
       "url": "https://open.spotify.com/track/78qFFh8ovPynpVChRwz8I8"
+    },
+    {
+      "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
+      "duration_ms": 348081,
+      "name": "My Baby Left Me - Live",
+      "url": "https://open.spotify.com/track/5kCcsWPQ78fqUdAJqmRmJ6"
     },
     {
       "album": {
@@ -1039,7 +1108,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 229320,
       "name": "Sometimes I Have a Heartache",
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
@@ -1057,7 +1126,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 148773,
       "name": "Stop A-Hoppin' on Me",
       "url": "https://open.spotify.com/track/3OGe6jBpiBcS5wBlVKFz3l"
@@ -1133,6 +1202,24 @@
       "duration_ms": 357600,
       "name": "Sweet Little Angel / Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3oaKdEHNcaRYIr1W8Z1W48"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
+        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357600,
+      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
+      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
     },
     {
       "album": {
@@ -1291,7 +1378,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 124480,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/5Jh3NzWY3k48uUxuSUhSip"
@@ -1403,7 +1490,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 199093,
       "name": "Wrapped Tight",
       "url": "https://open.spotify.com/track/5dsIoP7IpHaFr8brlWN5Ux"
@@ -1421,7 +1508,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 172906,
       "name": "Yes, Baby",
       "url": "https://open.spotify.com/track/6pbty1OxEC31a2NdhiHhbq"
@@ -1439,7 +1526,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 163818,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/76Q5gNEm1yxP7NDzdo2aOp"

@@ -4,7 +4,7 @@
 
 > "When I need to turn down the noise, I listen to songs that remind me of really good times in my life\. This helps to regulate my mood and really bring me back to earth." Cover: Eli Rallo
 
-33 songs - 2 hr 10 min - not published yet
+36 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,13 +23,15 @@
 | [Horses](https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Horses](https://open.spotify.com/album/4eVDNftCpVDAzrh80ayq1D) | 5:05 | 2022-10-04 | 2022-10-27 |
 | [I Got So High That I Saw Jesus \(feat\. Miley Cyrus\) \- Live Recording](https://open.spotify.com/track/6lQCFhlbA7boPBesUokiDU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [I Got So High That I Saw Jesus \(feat\. Miley Cyrus\) \[Live Recording\]](https://open.spotify.com/album/272KsL2Rrkkpy5MxhVVWuR) | 3:33 | 2022-10-04 |  |
 | [If I Were a Boy](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:09 | 2022-10-04 |  |
-| [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-10-04 |  |
+| [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-10-04 | 2022-12-15 |
+| [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 | 2022-10-04 |  |
 | [Lead the Way](https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:53 | 2022-10-04 |  |
 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 | 2022-10-04 |  |
 | [Light On \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:31 | 2022-10-04 |  |
 | [Miss Simone](https://open.spotify.com/track/5NePPsk8jsSgEc4GDbzuxX) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 4:13 | 2022-10-04 |  |
 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 | 2022-10-04 |  |
-| [Nouel](https://open.spotify.com/track/5JKH89ILC4hJz8ve3UAK49) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Semper Femina](https://open.spotify.com/album/3Z4NNeh0gf4oGquXZEU1NT) | 4:53 | 2022-10-04 |  |
+| [Nouel](https://open.spotify.com/track/1TrtSG87IQtSMb3k2DHBMg) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Semper Femina \(Deluxe Edition\)](https://open.spotify.com/album/56Cr06KXyOmqHqtZU8lsHv) | 4:53 | 2022-10-04 |  |
+| [Nouel](https://open.spotify.com/track/5JKH89ILC4hJz8ve3UAK49) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Semper Femina](https://open.spotify.com/album/3Z4NNeh0gf4oGquXZEU1NT) | 4:53 | 2022-10-04 | 2022-12-01 |
 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 | 2022-10-04 |  |
 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 | 2022-10-04 |  |
 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 | 2022-10-04 |  |
@@ -39,7 +41,8 @@
 | [Thinking Of You](https://open.spotify.com/track/3c9LVPh3MpeFoaAL5DBDK5) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 4:06 | 2022-10-04 |  |
 | [What If](https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What If](https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q) | 3:35 | 2022-10-04 |  |
 | [willow \- 90's trend remix](https://open.spotify.com/track/77p4fRpoeiZMtUy3P9kN21) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(90's trend remix\)](https://open.spotify.com/album/5C41iVpK8HXCe3qlLL3I38) | 3:45 | 2022-10-04 |  |
-| [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 | 2022-10-04 |  |
+| [You \- Live](https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:01 | 2022-10-04 |  |
+| [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 | 2022-10-04 | 2023-01-06 |
 | [Yoü And I](https://open.spotify.com/track/4q0crFErlOEybi84JzBqTp) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Yoü And I](https://open.spotify.com/album/6DbFbFvDqeLdnV73HD0lWP) | 4:42 | 2022-10-04 |  |
 
 \*This playlist was first scraped on 2022-10-06. Prior content cannot be recovered.

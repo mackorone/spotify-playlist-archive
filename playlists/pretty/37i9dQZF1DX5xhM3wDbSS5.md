@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xhM3wDbSS5.md) - [plain]
 
 > Artists that have challenged norms and pushed culture forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 746 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 716 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xhM3wDbSS5.md) - [plain]
 | 28 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 |
 | 29 | [Controversy](https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 7:15 |
 | 30 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 |
-| 31 | [Quiero Bailar](https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 3:04 |
+| 31 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 |
 | 32 | [Gimme Some More](https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Extinction Level Event: The Final World Front](https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW) | 2:38 |
 | 33 | [Tha Crossroads](https://open.spotify.com/track/5KSJ9k1FYjFLnIRlJT2wF8) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 3:43 |
 | 34 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xhM3wDbSS5.md) - [plain]
 | 49 | [I Put A Spell On You](https://open.spotify.com/track/3sesq9P6ndjuqaq5om7sxT) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Nostalgia](https://open.spotify.com/album/1REqQsUK0WRYQVzsmdsj04) | 3:32 |
 | 50 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
 
-Snapshot ID: `MTY0ODY3NzU0MCwwMDAwMDAwMDMxNTVjMWE0ZmYzOTQyZWYzZWY3MmIwMDEzOWRmZGI5`
+Snapshot ID: `MTY0ODY3NzU0MCwwMDAwMDAwMDRkZDYwODIzOWRjNDFkNzliODYwNjk5MmE0ODQzYmFi`

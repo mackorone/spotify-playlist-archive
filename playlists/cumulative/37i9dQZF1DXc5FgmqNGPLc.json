@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "All live, all jazz. Cover: Erroll Garner",
   "name": "Jazz Live & Loud",
-  "published_playlist_ids": [
-    "3VbQK8yDqnUPiOBgrKfOqF"
-  ],
   "tracks": [
     {
       "album": {
@@ -585,6 +582,24 @@
       "duration_ms": 281797,
       "name": "Evidence - Live At Carnegie Hall, New York/1957",
       "url": "https://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r"
+    },
+    {
+      "album": {
+        "name": "In Concert",
+        "url": "https://open.spotify.com/album/07fBpu7zIOCeOwCFKoWnu3"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489226,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/062FRhtHo7W8ZvZUefVIb9"
     },
     {
       "album": {
@@ -2121,6 +2136,24 @@
       "duration_ms": 258333,
       "name": "Yesterdays (Live) - Live At Cafe Bohemia, NY, 1955 / Remastered 2001",
       "url": "https://open.spotify.com/track/3261Vks4j8VomrwDXph9zB"
+    },
+    {
+      "album": {
+        "name": "You Gotta Move (Live)",
+        "url": "https://open.spotify.com/album/590vu7oWUxgtmGGC9j24VI"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 841913,
+      "name": "You Gotta Move - Live",
+      "url": "https://open.spotify.com/track/68kNEyWdXZL5t1qJiDxv9l"
     },
     {
       "album": {

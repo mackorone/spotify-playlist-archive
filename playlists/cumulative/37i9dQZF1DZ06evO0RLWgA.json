@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
   "name": "This Is John Lee Hooker",
-  "published_playlist_ids": [
-    "7s9HwVpDUBbGSR1Ex05a3h"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 197067,
       "name": "29 Ways - Live 1969",
       "url": "https://open.spotify.com/track/2ya4PKaywBGAyIABt6LblA"
@@ -77,7 +74,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 319693,
       "name": "Annie Mae",
       "url": "https://open.spotify.com/track/2zpDRicyt7YqxFVJ2S3uc7"
@@ -99,7 +96,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 225906,
       "name": "Baby Lee",
       "url": "https://open.spotify.com/track/1WvDNX2WrUppAFBKO7aYA5"
@@ -153,7 +150,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-02",
       "duration_ms": 138546,
       "name": "Big Legs, Tight Skirt",
       "url": "https://open.spotify.com/track/7iVRdJkeJPDIDAqy7ExRYu"
@@ -171,7 +168,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
@@ -189,7 +186,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 189640,
       "name": "Boogie Chillen",
       "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
@@ -283,7 +280,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 181200,
       "name": "Crawlin' King Snake",
       "url": "https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv"
@@ -366,6 +363,24 @@
     },
     {
       "album": {
+        "name": "King Of The Boogie",
+        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 132293,
+      "name": "Dimples",
+      "url": "https://open.spotify.com/track/69sTZUnybfPzxEvdkOySX8"
+    },
+    {
+      "album": {
         "name": "John Lee Hooker - On Vee-Jay 1955-1958",
         "url": "https://open.spotify.com/album/4S0rQVJxEMLQHZ8JGl9tXx"
       },
@@ -377,7 +392,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-18",
       "duration_ms": 133618,
       "name": "Dimples",
       "url": "https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx"
@@ -424,6 +439,28 @@
     },
     {
       "album": {
+        "name": "Free Beer And Chicken",
+        "url": "https://open.spotify.com/album/1MIaKSLBaOAHsPliPEcnut"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 362600,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/7lZx7uEkjjPgiwitVGwKc5"
+    },
+    {
+      "album": {
         "name": "King Of The Boogie",
         "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
       },
@@ -435,7 +472,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 181946,
       "name": "Hobo Blues",
       "url": "https://open.spotify.com/track/6SVdBlIXlYwqcbYZSfjJjy"
@@ -529,7 +566,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 239830,
       "name": "I Do Believe - Live 1969",
       "url": "https://open.spotify.com/track/2HlaS8TVh4PvZVc4BksWi0"
@@ -609,7 +646,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 145026,
       "name": "I Need Some Money",
       "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
@@ -945,7 +982,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 143693,
       "name": "Money",
       "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
@@ -963,7 +1000,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-02-02",
       "duration_ms": 169600,
       "name": "Moon Is Rising",
       "url": "https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF"
@@ -985,7 +1022,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 281440,
       "name": "Mr. Lucky",
       "url": "https://open.spotify.com/track/3MvJHgY3n4VSb4GEKYUlLl"
@@ -1003,7 +1040,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": "2023-01-17",
       "duration_ms": 247400,
       "name": "My Dream",
       "url": "https://open.spotify.com/track/6OseBl5wferzmSCyvwVfzo"
@@ -1083,7 +1120,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 164933,
       "name": "No More Doggin'",
       "url": "https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc"
@@ -1101,7 +1138,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 147066,
       "name": "No Shoes",
       "url": "https://open.spotify.com/track/5Zcg5ltKPWOaxvwtRTBk4S"
@@ -1209,7 +1246,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 166225,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/3aosIY82Wisgi7AjqXEHQg"
@@ -1274,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Endless Boogie",
+        "url": "https://open.spotify.com/album/0MMLYQDdCJ3niwUmG1FJS5"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 338293,
+      "name": "Sittin' In My Dark Room",
+      "url": "https://open.spotify.com/track/7kPljMR1GHYhznQCwpJmGY"
+    },
+    {
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -1303,7 +1358,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-11",
       "duration_ms": 157360,
       "name": "Strike Blues",
       "url": "https://open.spotify.com/track/6MTy1uTvqjLqnYlKsDeKI5"
@@ -1329,6 +1384,32 @@
       "duration_ms": 264026,
       "name": "That's Alright",
       "url": "https://open.spotify.com/track/629O26FoFJ6uYOOK7mwyOI"
+    },
+    {
+      "album": {
+        "name": "Major Moves",
+        "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        },
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341600,
+      "name": "The Blues Medley",
+      "url": "https://open.spotify.com/track/4iX3VpT5WSW39gRmbaOqvt"
     },
     {
       "album": {
@@ -1491,7 +1572,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-22",
       "duration_ms": 211043,
       "name": "Thelma",
       "url": "https://open.spotify.com/track/29KYUQG2SAAs1QI7zrluNw"
@@ -1552,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "The Country Blues Of John Lee Hooker",
+        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203226,
+      "name": "Tupelo Blues",
+      "url": "https://open.spotify.com/track/3Qoo65OB1f4mgqSqQGyPbQ"
+    },
+    {
+      "album": {
         "name": "Saga Blues: From Detroit to Chicago 1954-1958",
         "url": "https://open.spotify.com/album/43tIzDymZjL8eFUfUAmQGj"
       },
@@ -1599,7 +1698,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
@@ -1628,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250373,
+      "name": "You Ain't No Big Thing Baby",
+      "url": "https://open.spotify.com/track/3vXtDlGEV0dtBFzDF58GoF"
+    },
+    {
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -1639,7 +1756,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": "2023-01-29",
       "duration_ms": 233266,
       "name": "You Know, I Know",
       "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"

@@ -4,7 +4,7 @@
 
 > <a href="https://www.vitalvoices.org/">Women changing the world</a> \| Cover: MILCK
 
-39 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/69H7M07MFvoBvjW4Ce7pgW)
+39 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-148 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/74P6RSDkuYCzrKQmY10acy)
+151 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 | 2022-06-15 |  |
 | [Always Been You](https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Always Been You](https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa) | 2:11 | 2022-04-19 | 2022-11-08 |
 | [April](https://open.spotify.com/track/3izibnOkKCvSjKWYXAS2BO) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [April](https://open.spotify.com/album/7Mbs5Pd9ytp5plVaYrCANS) | 2:34 | 2022-04-19 | 2022-09-13 |
-| [April](https://open.spotify.com/track/5c9NYoGdCrvQCa5EwjsBZv) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [April](https://open.spotify.com/album/5a6I3KFSH6MLRR1grwFqXY) | 3:16 | 2022-04-19 |  |
+| [April](https://open.spotify.com/track/5c9NYoGdCrvQCa5EwjsBZv) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [April](https://open.spotify.com/album/5a6I3KFSH6MLRR1grwFqXY) | 3:16 | 2022-04-19 | 2023-01-25 |
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-07-28 |  |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2022-04-19 |  |
 | [Better](https://open.spotify.com/track/4T3fNx3CgwDRRYgmFCbD4J) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Better](https://open.spotify.com/album/6Nd4PYvQ7aYid1Gn6sWgeG) | 3:49 | 2022-04-19 | 2022-04-29 |
@@ -23,10 +23,11 @@
 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 | 2022-09-12 |  |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-04-19 |  |
 | [Bloodline](https://open.spotify.com/track/6nmPxOhrkI0hXqOWHajpE9) | [Indyah](https://open.spotify.com/artist/5JOPsHUGjo5V5yPDUurZRy) | [Bloodline](https://open.spotify.com/album/0PZUuOvDyvcOAry5XCndao) | 3:01 | 2022-04-19 |  |
-| [Break With Me](https://open.spotify.com/track/28ISI9ACJ3Z3tQ7rQehHlZ) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Break With Me](https://open.spotify.com/album/47KET5CfuFBk1zjC3UTilg) | 2:35 | 2022-04-19 |  |
+| [Break With Me](https://open.spotify.com/track/28ISI9ACJ3Z3tQ7rQehHlZ) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Break With Me](https://open.spotify.com/album/47KET5CfuFBk1zjC3UTilg) | 2:35 | 2022-04-19 | 2023-01-27 |
 | [Butterflies](https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Butterflies](https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U) | 3:03 | 2022-04-19 |  |
 | [Cameras On](https://open.spotify.com/track/4bAdZEc533RFNAmaOXOI19) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Cameras On](https://open.spotify.com/album/288DrM3APHiNkts18tzMxI) | 2:53 | 2022-04-19 | 2022-07-29 |
 | [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 | 2022-11-07 |  |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-01-24 |  |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-04-19 | 2022-07-09 |
 | [clouds](https://open.spotify.com/track/2jLM1EZ02W1dfenyJUj7Sb) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [clouds](https://open.spotify.com/album/2tAgkFFnifV9TsSdicHDyg) | 3:46 | 2022-04-19 |  |
 | [Come Here and Leave Me Alone](https://open.spotify.com/track/0NDx2QYoEdgH9HTn5yfXeA) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/7r7JeEo8jY8QTZvSCLOwir) | 3:06 | 2022-04-19 | 2022-06-24 |
@@ -71,7 +72,7 @@
 | [Haunted](https://open.spotify.com/track/5W4ajZQRbMCZSaK7dQdymn) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Growing Pains](https://open.spotify.com/album/2Xq1V8fJL89IUm4eOBzMOu) | 3:33 | 2022-04-19 |  |
 | [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 | 2022-04-19 |  |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-11-16 |  |
-| [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2022-04-19 |  |
+| [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2022-04-19 | 2023-01-25 |
 | [Hold Me Like You Used To \- Spotify Singles](https://open.spotify.com/track/5HZtgJapw0QgPUZzy6ql12) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Spotify Singles](https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo) | 3:09 | 2022-04-19 | 2022-09-13 |
 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 | 2022-04-19 |  |
 | [How Could You](https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [How Could You](https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER) | 3:07 | 2022-11-07 |  |
@@ -88,6 +89,7 @@
 | [I Suck At Being Lonely](https://open.spotify.com/track/2w7Li4lbevrPrPSY7pGpxG) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [I Suck At Being Lonely](https://open.spotify.com/album/7bA0Jk8tXScy1ELn54aPZZ) | 2:58 | 2022-04-19 |  |
 | [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 | 2022-04-19 |  |
 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-19 |  |
+| [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2023-01-24 |  |
 | [if i were a friend](https://open.spotify.com/track/11gjN7Mh7DA6GzVJmhUvcn) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [if i were a friend](https://open.spotify.com/album/6n5YzvSeJh7THkuLUAAnRE) | 2:32 | 2022-04-19 | 2022-08-23 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-28 | 2022-09-13 |
 | [In Your Arms](https://open.spotify.com/track/7wvzAosZd42KdvkATrDxP0) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [In Your Arms](https://open.spotify.com/album/6hFFPU2n7j5ek1azxce9DC) | 3:30 | 2022-11-17 |  |
@@ -107,8 +109,9 @@
 | [Men On The Moon](https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Men On The Moon](https://open.spotify.com/album/1mK3MLTmhxsrOTx7ceJwyr) | 3:40 | 2022-11-16 |  |
 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 | 2022-08-11 |  |
 | [Moon](https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Moon](https://open.spotify.com/album/1igApJ0OiVBemqXhWKUE9w) | 3:40 | 2022-04-19 | 2022-05-25 |
+| [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-01-26 |  |
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2022-11-07 |  |
-| [Naïve Love](https://open.spotify.com/track/1FWluZedEH4D8F6TUZlGEB) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [4 Songs I Made In California](https://open.spotify.com/album/6Gowdvuc1TuxA2mD08UIwL) | 3:01 | 2022-05-24 |  |
+| [Naïve Love](https://open.spotify.com/track/1FWluZedEH4D8F6TUZlGEB) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [4 Songs I Made In California](https://open.spotify.com/album/6Gowdvuc1TuxA2mD08UIwL) | 3:01 | 2022-05-24 | 2023-01-25 |
 | [Never Had a Chance](https://open.spotify.com/track/3Ooa271p3s8VZ3hxNxXHDo) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:25 | 2022-11-07 | 2022-11-13 |
 | [Never Had a Chance](https://open.spotify.com/track/5ICjRLHOxUv6gcRbr2ux9Z) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5SU6TQaPF0wDCXpU9l585n) | 2:25 | 2022-09-12 |  |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-07-08 | 2022-10-08 |
@@ -144,7 +147,7 @@
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2022-04-19 |  |
 | [the internet](https://open.spotify.com/track/2oXwBL6QlB7sYBXbvahZke) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [the internet](https://open.spotify.com/album/1Cmb2nNZWbB84xwfESSVYf) | 3:27 | 2022-04-19 |  |
 | [Together We Go Down In The Dark](https://open.spotify.com/track/4NZwAKr8rYOa1lvFmvHacm) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Together We Go Down In The Dark](https://open.spotify.com/album/0WYi1XbWP4caFPfnqmm9Fy) | 2:49 | 2022-04-19 |  |
-| [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2022-04-19 |  |
+| [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2022-04-19 | 2023-01-25 |
 | [True Romance](https://open.spotify.com/track/50ll4YzQ4V2qgpTVRg9rO1) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [True Romance](https://open.spotify.com/album/3qUEAj7CCanABU2VoHhy9K) | 3:56 | 2022-05-19 |  |
 | [Unloving You](https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Unloving You](https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j) | 2:33 | 2022-04-19 |  |
 | [Vienna](https://open.spotify.com/track/0mGIL8cwDCf712oaI1Nosb) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Vienna](https://open.spotify.com/album/10t8s95xXT88VShcKfPDZ2) | 2:43 | 2022-07-28 | 2022-10-15 |

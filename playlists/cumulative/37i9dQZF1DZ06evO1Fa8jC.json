@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is Los Cafres. The essential tracks, all in one playlist.",
   "name": "This Is Los Cafres",
-  "published_playlist_ids": [
-    "2uF55wDJm5CvI71AIEYqh3"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 203583,
       "name": "A pesar",
       "url": "https://open.spotify.com/track/6NOXVnNgo1e90gncQ1T4RC"
@@ -53,6 +50,24 @@
       "duration_ms": 292000,
       "name": "Acho Pun\u0303eta - Reggae Remix",
       "url": "https://open.spotify.com/track/3wTF8x41fGiusgpQGBEBVW"
+    },
+    {
+      "album": {
+        "name": "Acto Salvaje",
+        "url": "https://open.spotify.com/album/4EKPGoTkb0oq3i1H3Al9NJ"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248074,
+      "name": "Acto Salvaje",
+      "url": "https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5"
     },
     {
       "album": {
@@ -175,7 +190,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 247066,
       "name": "Capit\u00e1n Pelusa",
       "url": "https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx"
@@ -787,7 +802,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-19",
       "duration_ms": 300135,
       "name": "Muia",
       "url": "https://open.spotify.com/track/5ZGZUjb5imCbUbm9a0Dkir"
@@ -1309,7 +1324,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 238291,
       "name": "Vos sab\u00e9s",
       "url": "https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl"

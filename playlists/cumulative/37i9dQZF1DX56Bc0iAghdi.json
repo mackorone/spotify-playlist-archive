@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
   "name": "Spirit",
-  "published_playlist_ids": [
-    "4UMLq2QTX0ZuozuX4vsRMk"
-  ],
   "tracks": [
     {
       "album": {
@@ -429,7 +426,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-16",
       "duration_ms": 180000,
       "name": "From the Roof (feat. YB)",
       "url": "https://open.spotify.com/track/01RdXpTlzMDLakg6lDaC8j"
@@ -545,7 +542,7 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-15",
       "duration_ms": 223783,
       "name": "Help You Heal",
       "url": "https://open.spotify.com/track/45BXjER0XEofYtOw4oB4lh"
@@ -719,10 +716,28 @@
       ],
       "date_added": "2019-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 144629,
       "name": "JOYBOY",
       "url": "https://open.spotify.com/track/0kioCLrwCsgwl7Fd8mrDnp"
+    },
+    {
+      "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "date_added": "2019-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144629,
+      "name": "Joyboy",
+      "url": "https://open.spotify.com/track/5fehE0eNK1ZrDgrTUJczNy"
     },
     {
       "album": {

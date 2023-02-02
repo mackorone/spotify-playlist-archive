@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: my bloody valentine",
+  "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: The Cure",
   "name": "Alternative 90s",
-  "published_playlist_ids": [
-    "3piEMU8FoPNQ3REnUsiVrc"
-  ],
   "tracks": [
     {
       "album": {
@@ -1053,6 +1050,24 @@
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
+    },
+    {
+      "album": {
+        "name": "Wish (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3oieEL76lQ4dPAiGaAh7jw"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Cut - 1990 Demo",
+      "url": "https://open.spotify.com/track/7yrZCBUokAMTJtOzXSHKYu"
     },
     {
       "album": {
@@ -2383,6 +2398,24 @@
     {
       "album": {
         "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
+    },
+    {
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
         "url": "https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604"
       },
       "artists": [
@@ -2393,7 +2426,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 134200,
       "name": "Lump",
       "url": "https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX"
@@ -2465,7 +2498,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 305706,
       "name": "Motorcycle Emptiness",
       "url": "https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY"
@@ -3045,7 +3078,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 248973,
       "name": "Regret - 2015 Remaster",
       "url": "https://open.spotify.com/track/1UVll7jjUlqSGxCZ6uXVaD"
@@ -3225,7 +3258,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-13",
       "duration_ms": 139000,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN"
@@ -3729,7 +3762,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 461946,
       "name": "Tender",
       "url": "https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6"

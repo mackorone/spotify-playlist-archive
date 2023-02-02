@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！© Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,647 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,606 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 2 | [Gimme×Gimme feat\. 初音ミク・鏡音リン](https://open.spotify.com/track/5XJh3VbvvnGYrkubcQwzys) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [GRAPHIX](https://open.spotify.com/album/6TIBa4yqhBXdrcbui3TGzt) | 3:40 |
 | 3 | [愛して 愛して 愛して](https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:12 |
 | 4 | [ミュージックミュージック \(feat\. 初音ミク\)](https://open.spotify.com/track/3riSzyosO5rqTIy6wGklwr) | [toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [MIKU/TOA](https://open.spotify.com/album/3JmsMqb8TqftbCTAQXAexJ) | 3:41 |
-| 5 | [Miku](https://open.spotify.com/track/2wxeIeofgy4AHaOhtePamJ) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) | 3:43 |
+| 5 | [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL) | 3:43 |
 | 6 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
 | 7 | [39 Music!](https://open.spotify.com/track/7DZrnvfd78FMJgPYa8FSEy) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [39 Music!](https://open.spotify.com/album/22mBVLZToKGQ2Qc4DN6pPP) | 4:25 |
 | 8 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 49 | [never ender](https://open.spotify.com/track/17yQnJRqu446o8iGJcVpGT) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hatsune Miku 10th Anniversary Songs \-ミラクルミライ\-](https://open.spotify.com/album/3OxdPFUtuzEvhqqaWSr6vD) | 4:30 |
 | 50 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 |
 
-Snapshot ID: `MTY1OTg5OTU0NSwwMDAwMDAwMGJjMzNhZjYwZmMyOWMxZDNkMTliZDZkMTUzMTdhZTA4`
+Snapshot ID: `MTY1OTg5OTU0NSwwMDAwMDAwMDkxMTIyYTE3MjgxM2Q1ZGI1M2Q5ODBlNmEzZmEzNGY5`

@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 00s Metal\. Maybe rediscover old favorites?
 
-150 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/2qqqacNQkdIoxW5OswERI2)
+150 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

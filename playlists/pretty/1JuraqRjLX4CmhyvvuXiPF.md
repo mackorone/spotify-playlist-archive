@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1JuraqRjLX4CmhyvvuXiPF.md) - [plain]
 
 > Take the back roads...
 
-[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

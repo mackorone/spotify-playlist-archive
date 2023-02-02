@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
   "name": "The Writer's Playlist",
-  "published_playlist_ids": [
-    "64uVzxAuR4KY2bjkr5Sgtk"
-  ],
   "tracks": [
     {
       "album": {
@@ -531,7 +528,7 @@
     {
       "album": {
         "name": "Max Jury",
-        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
       },
       "artists": [
         {
@@ -542,6 +539,24 @@
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
+    },
+    {
+      "album": {
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
       "duration_ms": 235936,
       "name": "Great American Novel",
       "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
@@ -563,6 +578,24 @@
       "duration_ms": 252026,
       "name": "Harold Bloom",
       "url": "https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0"
+    },
+    {
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 211626,
+      "name": "Harper Lee",
+      "url": "https://open.spotify.com/track/03F8N51pg6btI2LE5WE8Ld"
     },
     {
       "album": {
@@ -1193,7 +1226,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": "2023-01-17",
       "duration_ms": 392506,
       "name": "Pattern Recognition",
       "url": "https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP"
@@ -1823,7 +1856,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-18",
       "duration_ms": 448013,
       "name": "The Tea Song",
       "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"

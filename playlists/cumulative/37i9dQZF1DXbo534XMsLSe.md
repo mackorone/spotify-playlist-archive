@@ -4,7 +4,7 @@
 
 > In Country Music, if your heart hasn't been broken, you haven't been trying hard enough\.  Keep a tissue handy.
 
-116 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/33h7IhEQ8COVIot6RuyanD)
+116 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is Rev. Gary Davis. The essential tracks, all in one playlist.",
   "name": "This Is Rev. Gary Davis",
-  "published_playlist_ids": [
-    "4P6Wk9XgK4CnFpRzT3XfBU"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2023-01-22",
       "duration_ms": 265373,
       "name": "A Friend Like Lonely Jesus",
       "url": "https://open.spotify.com/track/4udQfSjph8yVpoy4fcC2In"
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 124016,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/5Dy1tUmCe8WKWRlnLKPhZE"
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": "2023-01-24",
       "duration_ms": 210510,
       "name": "Baby, What You Going to Do",
       "url": "https://open.spotify.com/track/7Gd0XqerYO8TqI7CuW2N50"
@@ -163,7 +160,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-01-20",
       "duration_ms": 276014,
       "name": "Bill Bailey",
       "url": "https://open.spotify.com/track/5d0EUzwVmcAt6x8m78sztI"
@@ -253,7 +250,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 160360,
       "name": "Buck Rag",
       "url": "https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q"
@@ -314,6 +311,24 @@
     },
     {
       "album": {
+        "name": "See What the Lord Has Done for Me",
+        "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 162506,
+      "name": "Chicken You Can't Roost Too High",
+      "url": "https://open.spotify.com/track/7CBpTEHO8XfqJ6UEODeh4W"
+    },
+    {
+      "album": {
         "name": "At Home and Church, 1962 - 1967",
         "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
       },
@@ -343,7 +358,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 281293,
       "name": "Cincinnati Flow Rag",
       "url": "https://open.spotify.com/track/2p8WdZPvblhbehUGrqnnVY"
@@ -404,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Rev. Gary Davis - The Best of (Live)",
+        "url": "https://open.spotify.com/album/5ZPJN0s0Fp8KR0ZQsaVqNT"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 299676,
+      "name": "Come Down And See Me Sometime - Live",
+      "url": "https://open.spotify.com/track/2POSDthiSCS9W9wmSGsyfW"
+    },
+    {
+      "album": {
         "name": "See What the Lord Has Done for Me",
         "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
       },
@@ -433,7 +466,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 182047,
       "name": "Cross And Evil Woman Blues",
       "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
@@ -451,7 +484,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 297573,
       "name": "Crucifixion",
       "url": "https://open.spotify.com/track/3KwiSUvkfoR9vzOZrWHtwq"
@@ -487,7 +520,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-02",
       "duration_ms": 283106,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
@@ -530,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 211369,
+      "name": "Don't Know Where to Go",
+      "url": "https://open.spotify.com/track/0V2TVZTSiTfYX8m8faORCp"
+    },
+    {
+      "album": {
         "name": "Rev. Blind Gary Davis",
         "url": "https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG"
       },
@@ -559,7 +610,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-20",
       "duration_ms": 140173,
       "name": "Down Home Rag",
       "url": "https://open.spotify.com/track/1Yta24YdGX52o9BJZhtQmR"
@@ -631,7 +682,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": "2023-01-09",
       "duration_ms": 167693,
       "name": "Georgia Camp Meeting",
       "url": "https://open.spotify.com/track/5VNrkWJKVW8je1IXYMa0BM"
@@ -667,7 +718,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-24",
       "duration_ms": 184573,
       "name": "Get Right Church",
       "url": "https://open.spotify.com/track/1jhyUeUcRMvprfydfuNsdX"
@@ -710,6 +761,24 @@
     },
     {
       "album": {
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 306520,
+      "name": "Goin' to Chattanooga",
+      "url": "https://open.spotify.com/track/1Yo8qxF2WwuCNlXbndYeDW"
+    },
+    {
+      "album": {
         "name": "Harlem Street Singer",
         "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
       },
@@ -721,7 +790,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 175760,
       "name": "Goin' To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
@@ -757,7 +826,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-26",
       "duration_ms": 243440,
       "name": "Great Change Since I Been Born",
       "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
@@ -782,6 +851,24 @@
     },
     {
       "album": {
+        "name": "You Got to Move",
+        "url": "https://open.spotify.com/album/7fvtVwYmy93YyZezzTsik7"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 366155,
+      "name": "Guitar Blues",
+      "url": "https://open.spotify.com/track/6wePpQIw8H8Ys8tpDK10pT"
+    },
+    {
+      "album": {
         "name": "See What the Lord Has Done for Me",
         "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
       },
@@ -793,7 +880,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-11-28",
       "duration_ms": 178573,
       "name": "Hard Walking Blues",
       "url": "https://open.spotify.com/track/6ASbQ2b9jprKki6VwyPsYW"
@@ -847,7 +934,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2023-01-11",
       "duration_ms": 110061,
       "name": "He's My King",
       "url": "https://open.spotify.com/track/5lyiTTO43ZkCVNi7aUdT7i"
@@ -919,7 +1006,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-04",
       "duration_ms": 273533,
       "name": "Hold To God's Unchanging Hand",
       "url": "https://open.spotify.com/track/2Eg3ZWCqBn5TfGxNsNGFhU"
@@ -941,6 +1028,24 @@
       "duration_ms": 208986,
       "name": "Home (When Shadows Fall",
       "url": "https://open.spotify.com/track/0cTmCtOiatK29QTtAXJ6AF"
+    },
+    {
+      "album": {
+        "name": "Live at Gerde's Folk City",
+        "url": "https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 369880,
+      "name": "I am a Pilgrim",
+      "url": "https://open.spotify.com/track/6Hm9igcDB2z8GzpwlUb8kQ"
     },
     {
       "album": {
@@ -973,7 +1078,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-23",
       "duration_ms": 215066,
       "name": "I Am The Light Of This World",
       "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
@@ -1027,10 +1132,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": null,
       "duration_ms": 174733,
       "name": "I Belong To The Band",
       "url": "https://open.spotify.com/track/3aGOyp9ty4PnRoQKDh0huq"
+    },
+    {
+      "album": {
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 194453,
+      "name": "I Belong To The Band-Hallelujah!",
+      "url": "https://open.spotify.com/track/3Psf4YGDBMu4GnxEkUBbQv"
     },
     {
       "album": {
@@ -1099,7 +1222,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 189106,
       "name": "I Didn't Want to Join the Band",
       "url": "https://open.spotify.com/track/73Mf4S7v0C9Ck7JZHPDcQz"
@@ -1225,7 +1348,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 289134,
       "name": "I Will Do My Last Singing In This Land Somewhere - Live",
       "url": "https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk"
@@ -1261,7 +1384,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2022-12-29",
       "duration_ms": 243240,
       "name": "I Wonder What's Become of Sally",
       "url": "https://open.spotify.com/track/0L1vFdrdor5z9ekkoVG9KQ"
@@ -1279,7 +1402,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "I'll Be All Right Some Day",
       "url": "https://open.spotify.com/track/6JGdOWfLkBMvGjv8ApMH72"
@@ -1315,10 +1438,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-17",
       "duration_ms": 180666,
       "name": "I'm Glad I'm In That Number",
       "url": "https://open.spotify.com/track/4NP3osK3ATVaosyWXVZxvN"
+    },
+    {
+      "album": {
+        "name": "Rev. Gary Davis - The Best of (Live)",
+        "url": "https://open.spotify.com/album/5ZPJN0s0Fp8KR0ZQsaVqNT"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 205732,
+      "name": "I'm Going Down To The Banks Of The River - Live",
+      "url": "https://open.spotify.com/track/35JxXNUXfVK0PUpuNOte1Y"
     },
     {
       "album": {
@@ -1337,6 +1478,24 @@
       "duration_ms": 221657,
       "name": "I'm Going To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/0RjpjcpgTSVl4PLVOYY56y"
+    },
+    {
+      "album": {
+        "name": "Rev. Blind Gary Davis 1935 - 1949",
+        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 159713,
+      "name": "I'm Gonna Meet You At The Station",
+      "url": "https://open.spotify.com/track/5cAFPKZ6KUXPTdtrzRfO66"
     },
     {
       "album": {
@@ -1387,7 +1546,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-01",
       "duration_ms": 169691,
       "name": "I'm Throwin' Up My Hands",
       "url": "https://open.spotify.com/track/7axxUk7tja37WN85wD9Y0b"
@@ -1459,7 +1618,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 327040,
       "name": "Instrumental - Live in Portland, OR",
       "url": "https://open.spotify.com/track/0ncVnjlFjxbcwexFCj3XM3"
@@ -1477,7 +1636,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": "2023-01-09",
       "duration_ms": 218920,
       "name": "Intro - Live in Seattle, WA",
       "url": "https://open.spotify.com/track/3qra42HibmYt47IvJ82B75"
@@ -1495,7 +1654,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 51973,
       "name": "Intro to Oh Glory, How Happy I Am",
       "url": "https://open.spotify.com/track/09PuW4CZdMAli1XaV1RIKj"
@@ -1513,7 +1672,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": "2022-12-19",
       "duration_ms": 215502,
       "name": "It's a Long Way to Tipperary",
       "url": "https://open.spotify.com/track/1At0KAsl1QI6TnryjxADWJ"
@@ -1549,7 +1708,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": "2023-02-01",
       "duration_ms": 208133,
       "name": "Jesus Is Everywhere",
       "url": "https://open.spotify.com/track/5s3G7vg9fn00WXquapA6OF"
@@ -1603,7 +1762,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-13",
       "duration_ms": 207960,
       "name": "Joy to Know",
       "url": "https://open.spotify.com/track/22NgYpSx3Q4nnClofbL2LL"
@@ -1639,7 +1798,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 189906,
       "name": "Let Us Get Together Right Down Here",
       "url": "https://open.spotify.com/track/5cicntULcN9AtVoCu1fT4n"
@@ -1765,7 +1924,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-26",
       "duration_ms": 258240,
       "name": "Lo, I Be With You Always",
       "url": "https://open.spotify.com/track/3ris8TaqMl6ZwmlClJ59VG"
@@ -1819,7 +1978,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-02-02",
       "duration_ms": 210466,
       "name": "Lord, I Feel Just Like Goin' On",
       "url": "https://open.spotify.com/track/3eaZpjNLBMyX8mcT0vpK3D"
@@ -1837,7 +1996,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": "2023-01-11",
       "duration_ms": 258266,
       "name": "Lord, I Looked Down The Road",
       "url": "https://open.spotify.com/track/3DwLIPryx8uGBcchKIrUCj"
@@ -1855,7 +2014,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": "2022-12-11",
       "duration_ms": 183902,
       "name": "Lord, I Wish I Could See",
       "url": "https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS"
@@ -1873,7 +2032,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 264032,
       "name": "Lord, On Your Word",
       "url": "https://open.spotify.com/track/02AsEgJMRZ6AI5yVxyf7Px"
@@ -1909,7 +2068,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 299640,
       "name": "Lost Boy In The Wilderness",
       "url": "https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6"
@@ -2035,7 +2194,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-15",
       "duration_ms": 253200,
       "name": "Mister Jim (Walkin' Dog Blues) - Instrumental",
       "url": "https://open.spotify.com/track/7y1rfJduBCRDaaeJ3El2pL"
@@ -2053,7 +2212,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-14",
       "duration_ms": 400053,
       "name": "Molly - Live in Portland, OR",
       "url": "https://open.spotify.com/track/3oYfZmVHVhnkngCu4weme1"
@@ -2071,7 +2230,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": "2022-12-19",
       "duration_ms": 286666,
       "name": "Moon Goes Down",
       "url": "https://open.spotify.com/track/1YztbRfyrwv1o07T4dnCwp"
@@ -2143,10 +2302,46 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2023-02-01",
       "duration_ms": 218933,
       "name": "No One Can Do Me Like Jesus",
       "url": "https://open.spotify.com/track/1xpURbfnpOACV0IT7Ydgqy"
+    },
+    {
+      "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147120,
+      "name": "Nobody Cares for Me",
+      "url": "https://open.spotify.com/track/3iLMsnqEzIlplBbtoBqEdu"
+    },
+    {
+      "album": {
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 195493,
+      "name": "Nobody Don't Care for Me",
+      "url": "https://open.spotify.com/track/14XPS4Q6mxvHfsMf8R2ucR"
     },
     {
       "album": {
@@ -2179,7 +2374,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2023-01-18",
       "duration_ms": 185293,
       "name": "O Lord, Search My Heart",
       "url": "https://open.spotify.com/track/32zidKZ81Jd6eK22Mkadqb"
@@ -2233,7 +2428,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": "2023-01-07",
       "duration_ms": 199253,
       "name": "Old Fashioned Love",
       "url": "https://open.spotify.com/track/1nl1gqwwnGUtRyeV338IqS"
@@ -2291,6 +2486,24 @@
       "duration_ms": 224080,
       "name": "Penitentiary Blues",
       "url": "https://open.spotify.com/track/4gcuHPIMriKkLPALmkxmso"
+    },
+    {
+      "album": {
+        "name": "Live at Gerde's Folk City",
+        "url": "https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234186,
+      "name": "People That Use to See, Can't See No More",
+      "url": "https://open.spotify.com/track/35lZLaX1j2W2emwnaf0V9f"
     },
     {
       "album": {
@@ -2359,7 +2572,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": "2022-12-31",
       "duration_ms": 217160,
       "name": "Pray for the Lights to Go Out",
       "url": "https://open.spotify.com/track/6CpgLrt9eH4bxExpBcuRsI"
@@ -2413,7 +2626,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
@@ -2449,10 +2662,28 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 177706,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/08GtrSkf0Z8YmjUoJXQNv9"
+    },
+    {
+      "album": {
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Saddle It Around",
+      "url": "https://open.spotify.com/track/0XQiWWZG1sbOWF2uwgQTpP"
     },
     {
       "album": {
@@ -2485,7 +2716,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-02-02",
       "duration_ms": 243600,
       "name": "Samson And Delilah",
       "url": "https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV"
@@ -2557,7 +2788,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2022-12-08",
       "duration_ms": 180906,
       "name": "Seven Sisters",
       "url": "https://open.spotify.com/track/6jGGhFZ74CYhQ0DVGBWYMj"
@@ -2611,7 +2842,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 687066,
       "name": "She's Funny That Way - Live in Portland, OR",
       "url": "https://open.spotify.com/track/4hTyxAwowbSsShhdRPXFuY"
@@ -2744,6 +2975,42 @@
     },
     {
       "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 346022,
+      "name": "Sportin' Life Blues",
+      "url": "https://open.spotify.com/track/1YSUA3prMTlhnEXYJSockP"
+    },
+    {
+      "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 32018,
+      "name": "Square Dance Verses",
+      "url": "https://open.spotify.com/track/3OTX1Q0tQUo1YusVVc3mHB"
+    },
+    {
+      "album": {
         "name": "See What the Lord Has Done for Me",
         "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
       },
@@ -2773,7 +3040,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 253866,
       "name": "Swingin' Blues",
       "url": "https://open.spotify.com/track/4ODW8sWXGEHR7YaGFXC8CH"
@@ -2809,7 +3076,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 189293,
       "name": "The Angel's Message To Me",
       "url": "https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J"
@@ -2845,7 +3112,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": "2023-01-17",
       "duration_ms": 210266,
       "name": "The Coon Hunt - Instrumental",
       "url": "https://open.spotify.com/track/699dNhyPOOfnmNVSBvDize"
@@ -3007,10 +3274,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": "2023-01-13",
       "duration_ms": 210733,
       "name": "There's A Table Sittin' In Heaven",
       "url": "https://open.spotify.com/track/2s5RAEIaTKtvkD1tSWyuoA"
+    },
+    {
+      "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 353522,
+      "name": "There's Destruction in That Land (Message from Heaven)",
+      "url": "https://open.spotify.com/track/3Zs7ZRcSudowk9NxeHwmRo"
     },
     {
       "album": {
@@ -3043,7 +3328,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 116226,
       "name": "Tie Me to Your Apron Strings Again",
       "url": "https://open.spotify.com/track/7ECZRpHGC2NRjrpx96bgnn"
@@ -3061,7 +3346,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-02",
       "duration_ms": 264373,
       "name": "Time Is Drawing Near",
       "url": "https://open.spotify.com/track/64QZaHgNuMUgM60qsIwc5g"
@@ -3097,7 +3382,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -3133,7 +3418,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Twelve Gates To The City",
       "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
@@ -3173,6 +3458,24 @@
       "duration_ms": 171293,
       "name": "Two Step Candyman",
       "url": "https://open.spotify.com/track/2TdngC43Kzf0Z2toVu3adP"
+    },
+    {
+      "album": {
+        "name": "The Sun of Our Life",
+        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 221760,
+      "name": "Two-Step",
+      "url": "https://open.spotify.com/track/56WKvciu3HfYsOAeV4QWfK"
     },
     {
       "album": {
@@ -3241,7 +3544,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 310426,
       "name": "Walkin' Dog Blues",
       "url": "https://open.spotify.com/track/7lbpKUAARDWewV06pN8mOb"
@@ -3259,7 +3562,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-24",
       "duration_ms": 236466,
       "name": "Wall Hollow Blues",
       "url": "https://open.spotify.com/track/0fkGnfmNL6Z6IL6wLu7TkL"
@@ -3277,7 +3580,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": "2023-01-27",
       "duration_ms": 206013,
       "name": "We Are the Heavenly Father's Children",
       "url": "https://open.spotify.com/track/51c4fGoPtzpwjtPOGeaAJ7"
@@ -3295,7 +3598,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 156266,
       "name": "West Coast Blues (Blind Blake)",
       "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
@@ -3349,10 +3652,28 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 246773,
       "name": "Whoopin' Blues",
       "url": "https://open.spotify.com/track/3VYANsrimdM8pzbGGt6K29"
+    },
+    {
+      "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 253351,
+      "name": "Won't You Hush",
+      "url": "https://open.spotify.com/track/58NQIKBSRvsacoE3bDgupf"
     },
     {
       "album": {
@@ -3385,7 +3706,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-02",
       "duration_ms": 187559,
       "name": "You Can Go Home",
       "url": "https://open.spotify.com/track/6AqBgPjQXZYolTRG6vmn4M"
@@ -3401,9 +3722,27 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "date_added": "2022-05-26",
+      "date_added": "2023-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188760,
+      "name": "You Can Go Home",
+      "url": "https://open.spotify.com/track/7rtZzKV3eWBqKC8KE6WEj2"
+    },
+    {
+      "album": {
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
       "duration_ms": 198186,
       "name": "You Got To Go Down",
       "url": "https://open.spotify.com/track/0nPMAv8LxG6CxO4bkP0qi8"
@@ -3439,10 +3778,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 119213,
       "name": "You Want a Good Man, Treat a Good Man Right",
       "url": "https://open.spotify.com/track/2vq3Rc83WaK0BwydoR4jYm"
+    },
+    {
+      "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 277337,
+      "name": "You're Going to Quit Me Baby",
+      "url": "https://open.spotify.com/track/6LZ586CxIm0iS5uokYDEPR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg"

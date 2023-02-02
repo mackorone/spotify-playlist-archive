@@ -4,7 +4,7 @@
 
 > This is Thomas Rhett\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/18WHrjOexfvudnvdVBvEno)
+76 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

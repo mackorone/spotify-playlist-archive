@@ -4,7 +4,7 @@
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation\.  Guest curation by <a href="https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP?si=nPq5VuyRTCuzlRDkRcl7kg/">Rhett Walker</a>
 
-54 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/3vGGjcaRiJfHsTAMuw2a1f)
+54 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

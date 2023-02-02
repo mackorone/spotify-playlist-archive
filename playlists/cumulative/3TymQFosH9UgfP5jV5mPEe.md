@@ -4,7 +4,7 @@
 
 > Smooth soulful tracks to ease your troubled mind...
 
-21 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/6HJZLdiCP3xZrXEnccc2cZ)
+21 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

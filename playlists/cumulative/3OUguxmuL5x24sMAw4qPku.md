@@ -4,7 +4,7 @@
 
 > Turn your commute into a perfect, peaceful drive...
 
-57 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/5HGsECFmUgn6C3KZsEJ28P)
+57 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

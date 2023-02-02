@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-117 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/6Mrcb5TgcGmbpW1GW9qeTX)
+117 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,8 @@
 | [Make it!](https://open.spotify.com/track/4NhJWyPv20hIvs5oDP0Jga) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Make it!](https://open.spotify.com/album/00qBnGSGC1qtAWPVys6cxB) | 4:12 | 2021-12-21 | 2022-11-13 |
 | [Make it!](https://open.spotify.com/track/5d1ElKPz3XIOJnU9h7zh6t) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [10th Anniversary Best Album 〜Best i☆Rist〜](https://open.spotify.com/album/0WfFLFywmHvtexaH2fwLFQ) | 4:12 | 2022-09-15 |  |
 | [Make it!](https://open.spotify.com/track/0JJZiPzGv2WnzMSmFqO0jl) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [We are i☆Ris!!!](https://open.spotify.com/album/3I490xGVtOveSoXdImJAnF) | 4:13 | 2021-12-21 | 2022-07-29 |
-| [POP TEAM EPIC](https://open.spotify.com/track/0SzGRRMqDBNccIvnGZXXxx) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [No Future Vacances](https://open.spotify.com/album/2eKeOy5KT2TazBeimpXwbm) | 5:23 | 2021-12-21 |  |
-| [POP TEAM EPIC](https://open.spotify.com/track/1wKNjt94Q6xdcHAuW5Wviz) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [POP TEAM EPIC](https://open.spotify.com/album/5sTss5hT7jCWFPoG6ue2Ho) | 5:23 | 2021-12-21 | 2022-07-29 |
+| [POP TEAM EPIC](https://open.spotify.com/track/0SzGRRMqDBNccIvnGZXXxx) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [No Future Vacances](https://open.spotify.com/album/2eKeOy5KT2TazBeimpXwbm) | 5:23 | 2021-12-21 | 2023-02-02 |
+| [POP TEAM EPIC](https://open.spotify.com/track/1wKNjt94Q6xdcHAuW5Wviz) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [POP TEAM EPIC](https://open.spotify.com/album/5sTss5hT7jCWFPoG6ue2Ho) | 5:23 | 2021-12-21 |  |
 | [Q&A リサイタル!](https://open.spotify.com/track/1COAlDjRh3XW8yAB8UN929) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj) | 4:49 | 2021-12-21 |  |
 | [Q&A リサイタル!](https://open.spotify.com/track/42JZfJvi86NWu1DmtMVHII) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Q&A リサイタル!](https://open.spotify.com/album/6JlcyYhNoypfXeE97971JJ) | 4:51 | 2021-12-21 | 2022-07-29 |
 | [Q&A リサイタル!](https://open.spotify.com/track/527y4BcUGW70G9ErnX3cai) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Q&A リサイタル!](https://open.spotify.com/album/0lKCnbet3hT6b8SqubNisP) | 4:51 | 2022-09-15 | 2022-11-13 |

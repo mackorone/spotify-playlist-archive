@@ -4,7 +4,7 @@
 
 > Advice on writing everything from college compositions to mystery novels and children's books.
 
-103 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/7blaG5L2CB9qu7uIP3D2g3)
+103 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The Bollywood singer’s biggest hits.
 
-33 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/0bnGyxqErkc0gMZEKt99SQ)
+33 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

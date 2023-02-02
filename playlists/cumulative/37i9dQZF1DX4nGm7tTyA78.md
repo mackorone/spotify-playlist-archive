@@ -4,7 +4,7 @@
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-73 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
+74 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Carta a Latinoamerica](https://open.spotify.com/track/3jQGQh4KYg6gJ3picbOapH) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Carta a Latinoamerica](https://open.spotify.com/album/6bYOF0QV1MpZiYYno4O25N) | 3:38 | 2020-08-28 | 2022-07-29 |
 | [Carta a Latinoamerica](https://open.spotify.com/track/1WylcqIzWqvZdQukEYkTOA) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [Carta a Latinoamerica](https://open.spotify.com/album/0qAEA2R7gGtVGXlrez1VmQ) | 3:45 | 2020-08-28 |  |
 | [Cash Money](https://open.spotify.com/track/265h7KFkm9T2Z95dxhOer6) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Cash Money](https://open.spotify.com/album/1KyczZrliOr8GcoUvZncM7) | 3:35 | 2020-08-28 |  |
-| [Como David](https://open.spotify.com/track/5p9GwiOKDTCxV63TXexVVr) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Espiritu Libre](https://open.spotify.com/album/6lh4r6awjd0rNeIvzdhJ2k) | 4:10 | 2020-08-28 |  |
+| [Como David](https://open.spotify.com/track/5p9GwiOKDTCxV63TXexVVr) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Espiritu Libre](https://open.spotify.com/album/6lh4r6awjd0rNeIvzdhJ2k) | 4:10 | 2020-08-28 | 2022-12-01 |
+| [Como David \(feat\. Natan El Profeta\)](https://open.spotify.com/track/3JBCTm1dV5e9sNIGSSKp4S) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Espiritu Libre](https://open.spotify.com/album/7CxwXgHtZJfbslvTh938cb) | 4:11 | 2020-08-28 |  |
 | [Con Dios Tengo To](https://open.spotify.com/track/6KqQTmbjlDx5AFOFdMxhwk) | [Super Samy](https://open.spotify.com/artist/5q4cA2u5bqGanXcqIINJZM), [JHOMPEL](https://open.spotify.com/artist/5NaqpO60xvV2mAZh0o2db2) | [Con Dios Tengo To](https://open.spotify.com/album/7sjj7HcpEHk4kiP7I8SVny) | 3:25 | 2020-08-28 |  |
 | [Con Dios Tengo To](https://open.spotify.com/track/0PAihoOUqj54uxpkkS7rTe) | [Super Samy](https://open.spotify.com/artist/5q4cA2u5bqGanXcqIINJZM), [Jhomper](https://open.spotify.com/artist/7jkvJ6g3XvTpIai7c7fCkz) | [Full de To'](https://open.spotify.com/album/0ir0j4IdnLt83OO0hNa6lg) | 3:22 | 2020-08-28 | 2022-07-29 |
 | [Conoce la Historia \(Remix\) \[feat\. Farruko & D.O Zi\]](https://open.spotify.com/track/1RI4W1lTecxsEvjlTss5z0) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [D.OZi](https://open.spotify.com/artist/7a9gFzWS5uEHtbNNgA6xyM) | [Linea de Fuego](https://open.spotify.com/album/6taVNEBUo86nbycmzQc20G) | 3:39 | 2020-08-28 |  |

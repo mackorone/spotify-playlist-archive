@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
   "name": "This Is Cultura Prof\u00e9tica",
-  "published_playlist_ids": [
-    "2KpUyoaXLO08Vpz7QeRH6e"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 246066,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/0JgjwTH0UqqsEtJo6f3rl1"
@@ -697,7 +694,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 256533,
       "name": "Pimper's Paradise - Live",
       "url": "https://open.spotify.com/track/0hN3PFAINvpvhjV4v6CmTu"
@@ -1023,7 +1020,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-02-01",
       "duration_ms": 217160,
       "name": "Tempestad Tranquila",
       "url": "https://open.spotify.com/track/7yTgayrV0QMrB20nTzWdB8"

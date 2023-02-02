@@ -4,7 +4,7 @@
 
 > Current country music and artists making noise on Spotify\. Featuring: Restless Road
 
-94 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/0Qd03gH23eCpgU0cnOwuFq)
+94 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

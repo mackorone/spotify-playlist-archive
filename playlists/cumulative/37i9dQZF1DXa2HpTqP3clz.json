@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Trampled by Turtles",
   "name": "Grass Roots",
-  "published_playlist_ids": [
-    "1ohgiwSh4jFwvfDQpd6QPG"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 174773,
       "name": "95 Years",
       "url": "https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8"
@@ -489,6 +486,24 @@
       "duration_ms": 217453,
       "name": "Arkansas Bound",
       "url": "https://open.spotify.com/track/2TP1wa1dXo3H1g8N9DTSBz"
+    },
+    {
+      "album": {
+        "name": "Arkansas Without You",
+        "url": "https://open.spotify.com/album/3wit6EU8aMklX1rELQfc6A"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Arkansas Without You",
+      "url": "https://open.spotify.com/track/3q6PzCFOMlKLHuWhssEkSK"
     },
     {
       "album": {
@@ -1366,6 +1381,36 @@
     },
     {
       "album": {
+        "name": "Commencement",
+        "url": "https://open.spotify.com/album/1jDsr7E1Nh5SqkLqbHgfV2"
+      },
+      "artists": [
+        {
+          "name": "Chandler Beavers",
+          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
+        },
+        {
+          "name": "Jeremy Garrett",
+          "url": "https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14"
+        },
+        {
+          "name": "Jake Eddy",
+          "url": "https://open.spotify.com/artist/7qxSMvd1FcjpR87E0vITu4"
+        },
+        {
+          "name": "Josh Underwood",
+          "url": "https://open.spotify.com/artist/4upiWSmYVqXrrwX31Lef3K"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291276,
+      "name": "Commencement",
+      "url": "https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq"
+    },
+    {
+      "album": {
         "name": "Conway",
         "url": "https://open.spotify.com/album/2gxQWRKUiTvcjGm2t9AWIH"
       },
@@ -1599,7 +1644,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 223625,
       "name": "Diane",
       "url": "https://open.spotify.com/track/6jjtloIxVfU2xSyi96V5UT"
@@ -1671,7 +1716,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 190789,
       "name": "Don't Make Me Get up and Go",
       "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
@@ -2028,6 +2073,28 @@
     },
     {
       "album": {
+        "name": "Far Away Again",
+        "url": "https://open.spotify.com/album/4b9zR844J9pihzB5Q63T8I"
+      },
+      "artists": [
+        {
+          "name": "Cory Walker",
+          "url": "https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ"
+        },
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Far Away Again",
+      "url": "https://open.spotify.com/track/4OnWVEvkYoFbEDWPwkvqLl"
+    },
+    {
+      "album": {
         "name": "Fast As I Can Crawl",
         "url": "https://open.spotify.com/album/2yepfHrcNYPGvidbI4Bqrw"
       },
@@ -2075,7 +2142,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": "2022-12-04",
       "duration_ms": 204106,
       "name": "Fire Song",
       "url": "https://open.spotify.com/track/6JW7S2jU3rnm9rQmbOzdIY"
@@ -2115,6 +2182,32 @@
       "duration_ms": 193173,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
+    },
+    {
+      "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Jeff White",
+          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306440,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
     },
     {
       "album": {
@@ -2173,6 +2266,32 @@
       "duration_ms": 220688,
       "name": "Fun Having Fun",
       "url": "https://open.spotify.com/track/5O7BGrnVo6ujHWWwsbL2qW"
+    },
+    {
+      "album": {
+        "name": "Gamblers & Gypsies",
+        "url": "https://open.spotify.com/album/5Yi77gsNaeSxodKrjVkCoS"
+      },
+      "artists": [
+        {
+          "name": "Andrew Crawford",
+          "url": "https://open.spotify.com/artist/3E6LMXGg2UtOW7LaC4OHgN"
+        },
+        {
+          "name": "Brandi Colt",
+          "url": "https://open.spotify.com/artist/1oLt02QuYf0O5BDxoMGzCp"
+        },
+        {
+          "name": "Alex Williams",
+          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216542,
+      "name": "Gamblers & Gypsies",
+      "url": "https://open.spotify.com/track/0PYBy1h8hVeiripF1Q3knS"
     },
     {
       "album": {
@@ -2703,7 +2822,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 281640,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1ySfSzGtiyRNgnMSe45mvk"
@@ -2775,7 +2894,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 268500,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5L8F0sOnXfydj7ok9JWf7Y"
@@ -3163,7 +3282,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 215946,
       "name": "In Dreams I Go Back",
       "url": "https://open.spotify.com/track/5XOTE4TkhlCE2FGfjJIKlo"
@@ -3413,7 +3532,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": "2023-01-17",
       "duration_ms": 180687,
       "name": "Keys",
       "url": "https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG"
@@ -4455,7 +4574,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 186120,
       "name": "No Witness in the Laurel but the Leaves",
       "url": "https://open.spotify.com/track/2QZrbqfIyf2JOZm3YJvPa5"
@@ -5259,7 +5378,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 369571,
       "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
       "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
@@ -5281,7 +5400,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-28",
       "duration_ms": 190634,
       "name": "Run To Heaven",
       "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
@@ -5735,7 +5854,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 133000,
       "name": "Start Walking Back",
       "url": "https://open.spotify.com/track/2k6mdp1lISrRmor4pFVyOP"
@@ -5876,6 +5995,24 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139893,
+      "name": "Super Moon",
+      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
+    },
+    {
+      "album": {
         "name": "Sweet Spot",
         "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
       },
@@ -5925,6 +6062,24 @@
       "duration_ms": 240799,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/2wQiFTpMP9fj0q6acvSlbS"
+    },
+    {
+      "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/38RGAkwRVaC7B4NY1RRfNA"
+      },
+      "artists": [
+        {
+          "name": "Mile Twelve",
+          "url": "https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234013,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/3Q7MbMK0z9Sn7konorvnsZ"
     },
     {
       "album": {

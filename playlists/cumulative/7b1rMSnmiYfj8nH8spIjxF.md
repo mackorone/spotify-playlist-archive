@@ -4,7 +4,7 @@
 
 > Första helgen i augusti går folk\- och världsmusikfestivalen Urkult av stapeln för 18:e året i rad\. 2 \- 4 augusti är datumen för sommarens upplaga\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-18 songs - 1 hr 12 min - [published](https://open.spotify.com/playlist/7HsngfErmC6abTVUnyZ4Kr)
+18 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

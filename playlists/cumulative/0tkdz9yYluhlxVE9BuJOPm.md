@@ -4,7 +4,7 @@
 
 > A collection of live, exclusive performances from the most exciting artists in the world.
 
-386 songs - 1 day 0 hr 56 min - [published](https://open.spotify.com/playlist/7idCWbRt29BywQ2w3ik1gB)
+386 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

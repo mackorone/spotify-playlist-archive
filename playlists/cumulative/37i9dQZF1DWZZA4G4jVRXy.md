@@ -4,7 +4,7 @@
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-98 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/786GA477r58R4y2xYEqL72)
+98 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

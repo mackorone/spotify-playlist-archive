@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is Ma Rainey. The essential tracks, all in one playlist.",
   "name": "This Is Ma Rainey",
-  "published_playlist_ids": [
-    "2O5nQ2lk25XoskgedTk4DG"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 179040,
       "name": "Army Camp Harmony Blues",
       "url": "https://open.spotify.com/track/6RsdMKNawozhGqlP2i1IZu"
@@ -80,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Moonshine Blues",
+        "url": "https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 170253,
+      "name": "Barrell House Blues",
+      "url": "https://open.spotify.com/track/6yhsjKV9lbtYS9e7aVgUbo"
+    },
+    {
+      "album": {
         "name": "Ma Rainey Vol. 4 (1926-1927)",
         "url": "https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q"
       },
@@ -91,7 +106,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": "2023-01-24",
       "duration_ms": 170501,
       "name": "Big Boy Blues",
       "url": "https://open.spotify.com/track/5JeFDCfyd6QvlKVFvws7oi"
@@ -145,7 +160,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-24",
       "duration_ms": 152947,
       "name": "Black Cat Hoot Owl Blues",
       "url": "https://open.spotify.com/track/3UGcwgbDYLuVGUTHXhkWuQ"
@@ -181,7 +196,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 198933,
       "name": "Black Eye Blues",
       "url": "https://open.spotify.com/track/0pyIUitbPJ0Yau1DSlMZYc"
@@ -210,6 +225,24 @@
     },
     {
       "album": {
+        "name": "First of the Great Blues Singers",
+        "url": "https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 193750,
+      "name": "Black Hearse Blues",
+      "url": "https://open.spotify.com/track/03NxmhRfUKGZKgqIxH2iX8"
+    },
+    {
+      "album": {
         "name": "Ma Rainey's Black Bottom",
         "url": "https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43"
       },
@@ -225,6 +258,42 @@
       "duration_ms": 174866,
       "name": "Blues Oh Blues",
       "url": "https://open.spotify.com/track/26CMF4Yl1hARVol5NQaSPb"
+    },
+    {
+      "album": {
+        "name": "Ma Rainey Vol. 4 (1926-1927)",
+        "url": "https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 186984,
+      "name": "Blues The World Forgot - Part 2",
+      "url": "https://open.spotify.com/track/6Jrmut4oucwIvd3caTsNCL"
+    },
+    {
+      "album": {
+        "name": "Mother Of The Blues, CD D",
+        "url": "https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 198280,
+      "name": "Blues The World Forgot: Part 2",
+      "url": "https://open.spotify.com/track/19eoK3mMcheeFyMrNWgz24"
     },
     {
       "album": {
@@ -257,10 +326,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 191608,
       "name": "Booze And Blues",
       "url": "https://open.spotify.com/track/1SF9hCpHJ6gZ6FVz1heNA1"
+    },
+    {
+      "album": {
+        "name": "Presenting Ma Rainey",
+        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 177120,
+      "name": "Broken Hearted Blues",
+      "url": "https://open.spotify.com/track/0tGoflWLyxvMhjLVjpvjVZ"
     },
     {
       "album": {
@@ -275,7 +362,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2022-12-22",
       "duration_ms": 175066,
       "name": "Broken Soul Blues",
       "url": "https://open.spotify.com/track/63meJUsXZFD79jI03Mub8k"
@@ -293,7 +380,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 177720,
       "name": "Broken Soul Blues",
       "url": "https://open.spotify.com/track/2ksp6mKo6FtHqdjmkA6a7T"
@@ -347,7 +434,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -372,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 200760,
+      "name": "Countin' The Blues",
+      "url": "https://open.spotify.com/track/7eoG78qWA5DG4ib7O57iZS"
+    },
+    {
+      "album": {
         "name": "First of the Great Blues Singers",
         "url": "https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ"
       },
@@ -383,7 +488,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 167784,
       "name": "Cravin' a Man Blues",
       "url": "https://open.spotify.com/track/1wECbMJSHWLoqAJPXbgemb"
@@ -419,7 +524,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 156413,
       "name": "Damper Down Blues",
       "url": "https://open.spotify.com/track/4clNWKuBAxttm9kKNtzu7o"
@@ -455,7 +560,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 163053,
       "name": "Deep Moanin Blues",
       "url": "https://open.spotify.com/track/7HFlwmFEzq3vXL6oJGd3xe"
@@ -527,7 +632,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-04",
       "duration_ms": 165720,
       "name": "Dream Blues",
       "url": "https://open.spotify.com/track/3E5UIXFsJUO8M73il3du5S"
@@ -581,10 +686,64 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-16",
       "duration_ms": 182602,
       "name": "Farewell Daddy Blues",
       "url": "https://open.spotify.com/track/4Z1u9GjegmxbnxMByl1BnC"
+    },
+    {
+      "album": {
+        "name": "The Classic Years, Vol. 2",
+        "url": "https://open.spotify.com/album/4chq32JGecF2YnjC6IP3Jf"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 192200,
+      "name": "Fore Day Hon'ry Scat",
+      "url": "https://open.spotify.com/track/7AeCfmsOkiHg5dNXBJ0e95"
+    },
+    {
+      "album": {
+        "name": "Mother Of The Blues, CD B",
+        "url": "https://open.spotify.com/album/4UVDYSDEVCx9WiPo820Ycz"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 174960,
+      "name": "Four Day Honorary Scat: 2",
+      "url": "https://open.spotify.com/track/7GPJS2ML5iURFTlNElxyhd"
+    },
+    {
+      "album": {
+        "name": "Presenting Ma Rainey",
+        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202680,
+      "name": "Four Day Honory Scat",
+      "url": "https://open.spotify.com/track/5WJ5G7h2urFvhF1apHxY9C"
     },
     {
       "album": {
@@ -653,7 +812,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-28",
       "duration_ms": 155373,
       "name": "Gone Daddy Blues",
       "url": "https://open.spotify.com/track/5nTmbti4tTyuySIH9TyAlS"
@@ -675,6 +834,42 @@
       "duration_ms": 204173,
       "name": "Goodbye Daddy Blues",
       "url": "https://open.spotify.com/track/7F7MhNEg2YRFt369eML7Uu"
+    },
+    {
+      "album": {
+        "name": "Presenting Ma Rainey",
+        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 178280,
+      "name": "Grievin' Hearted Blues",
+      "url": "https://open.spotify.com/track/3Wtm5dbIQHD2CMiLlvZ7gG"
+    },
+    {
+      "album": {
+        "name": "First of the Great Blues Singers",
+        "url": "https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 168546,
+      "name": "Hard Time Blues",
+      "url": "https://open.spotify.com/track/5ygAhmb7RMhpCO1Yufx5Ki"
     },
     {
       "album": {
@@ -768,6 +963,24 @@
     },
     {
       "album": {
+        "name": "First of the Great Blues Singers",
+        "url": "https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 174053,
+      "name": "Ice Bag Mama",
+      "url": "https://open.spotify.com/track/6sn1Hpn55exARQWN4zXxCE"
+    },
+    {
+      "album": {
         "name": "Presenting Ma Rainey",
         "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
       },
@@ -833,7 +1046,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-11-30",
       "duration_ms": 199400,
       "name": "Jelly Bean Blues",
       "url": "https://open.spotify.com/track/4VvNDjcJTSA4PxeCE7DIlf"
@@ -851,7 +1064,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Last Minute Blues",
       "url": "https://open.spotify.com/track/62g0YxDu47NwTjxLo9JUrC"
@@ -887,7 +1100,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 167091,
       "name": "Lawd Send Me A Man Blues",
       "url": "https://open.spotify.com/track/4i5NojmAntQ3jSCSjaFf8o"
@@ -941,7 +1154,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 168826,
       "name": "Levee Camp Moan",
       "url": "https://open.spotify.com/track/1UTphFJdgJ6xrKCUcRulDC"
@@ -1049,7 +1262,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": "2023-01-03",
       "duration_ms": 186333,
       "name": "Ma and Pa Poorhouse Blues",
       "url": "https://open.spotify.com/track/23lxqaTbyIEfm8kbi6nCw0"
@@ -1071,6 +1284,24 @@
       "duration_ms": 191493,
       "name": "ma Rainey's Black Bottom",
       "url": "https://open.spotify.com/track/3qC0oPtRL1kvn4KMAIOnyK"
+    },
+    {
+      "album": {
+        "name": "Nobody Rocks Me Like My Baby Do",
+        "url": "https://open.spotify.com/album/34LT44LtTqnRzzUJAsnH25"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 192724,
+      "name": "Ma Rainey's Black Bottom Blues",
+      "url": "https://open.spotify.com/track/2XgHnxzCnV9W6gE2etp5hk"
     },
     {
       "album": {
@@ -1103,7 +1334,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 168960,
       "name": "Memphis Bound Blues",
       "url": "https://open.spotify.com/track/7LioFKZmoZ4CvdHwgkaHBL"
@@ -1121,7 +1352,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 161593,
       "name": "Misery Blues",
       "url": "https://open.spotify.com/track/6tcfRhVILM8brsQr2dj3qK"
@@ -1139,10 +1370,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 174563,
       "name": "Moonshine Blues",
       "url": "https://open.spotify.com/track/04I0CwmlhKD7a6x3pFEDWx"
+    },
+    {
+      "album": {
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 156290,
+      "name": "Morning Hour",
+      "url": "https://open.spotify.com/track/6eZVULNUFoTnZRjoXYpo36"
     },
     {
       "album": {
@@ -1157,7 +1406,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": "2023-01-17",
       "duration_ms": 157733,
       "name": "Mountain Jack Blues",
       "url": "https://open.spotify.com/track/2TczffyjhN9ZKy1nZMvO6t"
@@ -1182,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "An Introduction To Ma Rainey",
+        "url": "https://open.spotify.com/album/6SPGzT2RHZ024I9us2fg0p"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 181106,
+      "name": "Night Time Blues",
+      "url": "https://open.spotify.com/track/1LAlTTH6AEK8zcL6WZAbCU"
+    },
+    {
+      "album": {
         "name": "Ma Rainey Vol. 2 (1924-1925)",
         "url": "https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66"
       },
@@ -1200,6 +1467,60 @@
     },
     {
       "album": {
+        "name": "Ma Rainey Vol. 2 (1924-1925)",
+        "url": "https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 178547,
+      "name": "Night Time Blues (Take 2)",
+      "url": "https://open.spotify.com/track/58mA1Tupock4gQYUaJZfLk"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/09gEpsSM9eagNKiTzkoXJq"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 198546,
+      "name": "No Easy Rider Blues",
+      "url": "https://open.spotify.com/track/33w1gr4HowmbA1rW3xQWcx"
+    },
+    {
+      "album": {
+        "name": "Presenting Ma Rainey",
+        "url": "https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 198413,
+      "name": "Oh My Babe Blues",
+      "url": "https://open.spotify.com/track/4v2nlY3F4XzBcz3bMg7ZvG"
+    },
+    {
+      "album": {
         "name": "Ma Rainey's Black Bottom",
         "url": "https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43"
       },
@@ -1215,6 +1536,24 @@
       "duration_ms": 172066,
       "name": "Oh Papa Blues",
       "url": "https://open.spotify.com/track/3BniBNNfETcFIBLP9G2uOu"
+    },
+    {
+      "album": {
+        "name": "First of the Great Blues Singers",
+        "url": "https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170199,
+      "name": "Peddlin' Man",
+      "url": "https://open.spotify.com/track/1Bjqeypa6LWnZFgJIPhXLO"
     },
     {
       "album": {
@@ -1247,7 +1586,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 174289,
       "name": "Rough And Tumble Blues",
       "url": "https://open.spotify.com/track/4y7Z2MwXJs65yXFXUjuLp9"
@@ -1283,7 +1622,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-19",
       "duration_ms": 184160,
       "name": "Screech Owl Blues",
       "url": "https://open.spotify.com/track/1MfLLVctNFOvVTiz0JO86m"
@@ -1301,7 +1640,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": "2023-01-29",
       "duration_ms": 195493,
       "name": "See See Rider Blues",
       "url": "https://open.spotify.com/track/0zUUGSlU5QbKwsS49EqGge"
@@ -1319,7 +1658,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 193358,
       "name": "See See Rider Blues (Take 1)",
       "url": "https://open.spotify.com/track/0YZnvHqwtoev2MwObrNmed"
@@ -1373,7 +1712,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 157960,
       "name": "Shaveem Dry Blues",
       "url": "https://open.spotify.com/track/7nkHURLVxHGIf65QNJKwTP"
@@ -1391,7 +1730,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": "2023-01-11",
       "duration_ms": 196101,
       "name": "Sissy Blues",
       "url": "https://open.spotify.com/track/7ERltL992AmkCSbAdQGvzc"
@@ -1463,7 +1802,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 193733,
       "name": "Sleep Talking Blues (Take 1)",
       "url": "https://open.spotify.com/track/7GNYi4PQU0MW6DFO28vTe2"
@@ -1535,7 +1874,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 174746,
       "name": "Southern Blues",
       "url": "https://open.spotify.com/track/2NTE4NBycWoz5j56O6nkFc"
@@ -1643,7 +1982,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 187853,
       "name": "Those All Night Blues",
       "url": "https://open.spotify.com/track/3NWcy10odYa4dR9k1bZt8D"
@@ -1679,7 +2018,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 185481,
       "name": "Those Dogs Of Mine",
       "url": "https://open.spotify.com/track/6rmOlRShKuuce0IiMYqXzC"
@@ -1697,7 +2036,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-03",
       "duration_ms": 166373,
       "name": "Titanic Man Blues",
       "url": "https://open.spotify.com/track/5RkXj5syefdW0qBjhWCqLP"
@@ -1733,7 +2072,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2023-01-26",
       "duration_ms": 185522,
       "name": "Toad Frog Blues",
       "url": "https://open.spotify.com/track/1NjKoqe99Gp4RZbuqeaPvU"
@@ -1805,7 +2144,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 152493,
       "name": "Victim Of The Blues",
       "url": "https://open.spotify.com/track/32NumLaEcf0Om30yt0P3JG"
@@ -1823,10 +2162,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-18",
       "duration_ms": 191843,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/5sQKy53SE8Vj1noM9tRa0g"
+    },
+    {
+      "album": {
+        "name": "Ma Rainey Vol. 4 (1926-1927)",
+        "url": "https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182596,
+      "name": "Weepin' Woman Blues",
+      "url": "https://open.spotify.com/track/3YhzMuULwNwAms6MTbkh0o"
     },
     {
       "album": {
@@ -1848,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "The Classic Years, Vol. 2",
+        "url": "https://open.spotify.com/album/4chq32JGecF2YnjC6IP3Jf"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "Ya Da Do Blues",
+      "url": "https://open.spotify.com/track/2zDFJd7Jw9fHmbZgCXVIaV"
+    },
+    {
+      "album": {
         "name": "Moonshine Blues",
         "url": "https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy"
       },
@@ -1866,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Ma Rainey Vol. 1 (1923-1924)",
+        "url": "https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 176425,
+      "name": "Ya-Da-Do (Take 3)",
+      "url": "https://open.spotify.com/track/0t3WIKoogflfUhTKZfMMPG"
+    },
+    {
+      "album": {
         "name": "Ma Rainey Vol. 3 (1925-1926)",
         "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
       },
@@ -1877,7 +2270,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-02-02",
       "duration_ms": 182465,
       "name": "Yonder Come The Blues",
       "url": "https://open.spotify.com/track/3yh8U9XVznJKRVGqqabHEf"

@@ -4,7 +4,7 @@
 
 > All Mighty Merle...All The Time!
 
-85 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/3of4aVahSHI0YSU2DldRaK)
+85 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

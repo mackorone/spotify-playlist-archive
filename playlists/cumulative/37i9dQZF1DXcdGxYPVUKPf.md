@@ -4,7 +4,7 @@
 
 > Mental strength begins here—Dwayne Johnson’s Iron Paradise Tour.
 
-28 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/0J6jUshvZQCI2YC26M46Hj)
+28 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

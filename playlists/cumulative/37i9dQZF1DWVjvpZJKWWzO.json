@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-22",
   "description": "Los grandes \u00e9xitos de Celia Cruz Y Tito Puente en un mismo lugar. Listen to both icons here!",
   "name": "Dos \u00cdconos: Celia Cruz x Tito Puente",
-  "published_playlist_ids": [
-    "42vZA0UNgFC5oXYwNCKqsh"
-  ],
   "tracks": [
     {
       "album": {
@@ -1596,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Tributo a Ismael Rivera",
+        "url": "https://open.spotify.com/album/2LMtV9cAn00R2ByyrxdLyY"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298706,
+      "name": "Yo No Quiero Piedras En Mi Camino",
+      "url": "https://open.spotify.com/track/0pJ6DjmHj6C34AGVtwRslQ"
+    },
+    {
+      "album": {
         "name": "Tributo A Ismael Rivera",
         "url": "https://open.spotify.com/album/3KPWwNdx8vwBe3AFAQixcc"
       },
@@ -1625,7 +1640,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 300706,
       "name": "Yo No Quiero Piedras En Mi Camino",
       "url": "https://open.spotify.com/track/6MPEQFBZERZBaZJw0f7LPY"

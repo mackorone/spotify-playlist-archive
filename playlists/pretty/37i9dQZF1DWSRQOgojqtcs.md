@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,745 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,564 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

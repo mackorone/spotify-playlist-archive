@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjvpZJKWWzO.md) - [plain]
 
 > Los grandes éxitos de Celia Cruz Y Tito Puente en un mismo lugar\. Listen to both icons here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,763 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,327 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjvpZJKWWzO.md) - [plain]
 | 47 | [Nadie Se Salva De La Rumba](https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tremendo Trio](https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq) | 5:47 |
 | 48 | [Vibe Mambo](https://open.spotify.com/track/2NC88JPy3RHHc75pW3oMRI) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Anthology](https://open.spotify.com/album/07Q5OLmlloYGl8dVf1bdQ7) | 2:59 |
 | 49 | [Yeah!](https://open.spotify.com/track/24cOWyNs4aTr4Ol1dtXhh8) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito's Idea](https://open.spotify.com/album/1kHWWswdYnqytKxTQS6rxE) | 7:26 |
-| 50 | [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/6MPEQFBZERZBaZJw0f7LPY) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [The Rough Guide to Salsa Divas](https://open.spotify.com/album/2PpNoXeZBMt1gdGIdg2PZJ) | 5:00 |
+| 50 | [Yo No Quiero Piedras En Mi Camino](https://open.spotify.com/track/0pJ6DjmHj6C34AGVtwRslQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tributo a Ismael Rivera](https://open.spotify.com/album/2LMtV9cAn00R2ByyrxdLyY) | 4:58 |
 
-Snapshot ID: `MTY1ODk0MDUzMCwwMDAwMDAwMDMwMTVlM2FiNzdmOWEwNjIzZjBmMmE4YTc2ZDM1N2U1`
+Snapshot ID: `MTY1ODk0MDUzMCwwMDAwMDAwMDRjZDU1YjYzYzQwOWFiMDJhNTVmMzY5YWUzNWE0ODRl`

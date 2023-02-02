@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Songs by Asian Americans calling for self-empowerment, self-determination, solidarity, and fighting erasure. Built in partnership with <a href=\"https://hateisavirus.org/\">Hate Is A Virus</a> & <a href=\"https://www.traktivist.com/\">TRAKTIVIST</a>.",
   "name": "We Rise",
-  "published_playlist_ids": [
-    "2FvEkfftaPKO88puFMO8ny"
-  ],
   "tracks": [
     {
       "album": {
@@ -173,7 +170,7 @@
     {
       "album": {
         "name": "But I Still Love You",
-        "url": "https://open.spotify.com/album/2VX4ENH4qGabCrAyPN0qTb"
+        "url": "https://open.spotify.com/album/6fmTuiRgJqhuNneJFQUJgO"
       },
       "artists": [
         {
@@ -184,6 +181,24 @@
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183200,
+      "name": "But I Still Love You",
+      "url": "https://open.spotify.com/track/1vxTbNLkQQV8UBgmNRPeaX"
+    },
+    {
+      "album": {
+        "name": "But I Still Love You",
+        "url": "https://open.spotify.com/album/2VX4ENH4qGabCrAyPN0qTb"
+      },
+      "artists": [
+        {
+          "name": "Bohan Phoenix",
+          "url": "https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
       "duration_ms": 183200,
       "name": "But I Still Love You",
       "url": "https://open.spotify.com/track/4F4znseeaLF0lYI7W8sxIt"
@@ -201,7 +216,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2023-02-02",
       "duration_ms": 183200,
       "name": "But I Still Love You",
       "url": "https://open.spotify.com/track/6QvetRaPY4MCsghMH2vsJq"
@@ -785,10 +800,36 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 147054,
       "name": "T5",
       "url": "https://open.spotify.com/track/5pgzFZFM60GvbnbBwvq98p"
+    },
+    {
+      "album": {
+        "name": "Cashmere",
+        "url": "https://open.spotify.com/album/7uMKTS3RC1KGDG74nwzrUS"
+      },
+      "artists": [
+        {
+          "name": "Swet Shop Boys",
+          "url": "https://open.spotify.com/artist/3ah2OYM4PbK5p1XIS5HfGD"
+        },
+        {
+          "name": "Riz Ahmed",
+          "url": "https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW"
+        },
+        {
+          "name": "Heems",
+          "url": "https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147054,
+      "name": "T5",
+      "url": "https://open.spotify.com/track/6nsWBjZWbV1gsyi0tAECSz"
     },
     {
       "album": {

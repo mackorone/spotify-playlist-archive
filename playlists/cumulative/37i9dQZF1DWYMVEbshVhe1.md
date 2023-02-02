@@ -4,7 +4,7 @@
 
 > Encanto tells the tale of the Madrigals, an extraordinary family who live in a wondrous place called an Encanto\. The film features all\-new songs by Lin\-Manuel Miranda and score by Germaine Franco\. Stream Disney's Encanto on Disney+.
 
-54 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/1wT4kJUqaI7dRLo32xVolx)
+54 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

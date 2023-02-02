@@ -4,7 +4,7 @@
 
 > 
 
-28 songs - 1 hr 40 min - [published](https://open.spotify.com/playlist/4X23MXUj04ZpvAlIYk7Fcd)
+28 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

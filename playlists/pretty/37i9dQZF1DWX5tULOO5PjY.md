@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 
 > 80s electronic boogie and post\-disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,988 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,852 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

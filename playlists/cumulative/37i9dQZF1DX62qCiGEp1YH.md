@@ -4,7 +4,7 @@
 
 > Embrace the mood of the season with harmonious, comforting songs.
 
-104 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/05oA9W37ZE91GRNnzetck9)
+104 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

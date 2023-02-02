@@ -4,7 +4,7 @@
 
 > Let a guitar put a smile on your face.
 
-140 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/14hNePdHXJqErpHWdFsc2h)
+140 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

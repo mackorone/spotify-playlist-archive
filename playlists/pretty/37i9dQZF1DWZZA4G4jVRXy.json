@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 112304,
+  "num_followers": 114794,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDdlODZmNDljMzMzZTRmMzUxNmQ4NzE5MjMyN2U4YTk5",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMGZmMjdjNWI1NzNkZDdmMzZjNjRmODViYzA5YmQxNDIy",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -41,70 +41,6 @@
       "url": "https://open.spotify.com/track/5EJ9MfO86fEG7ICjhciyd1"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Ultra-Lounge: Organs In Orbit",
-        "url": "https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU"
-      },
-      "artists": [
-        {
-          "name": "Sir Julian Gould",
-          "url": "https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "A Man And A Woman - Remastered",
-      "url": "https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 71266,
-      "name": "Hii Lawe",
-      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
-    },
-    {
-      "added_at": "2022-03-30 01:46:18",
-      "album": {
-        "name": "Inmortales de To\u00f1a la Negra",
-        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 140721,
-      "name": "Palmeras",
-      "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Tiny Bubbles",
-        "url": "https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y"
-      },
-      "artists": [
-        {
-          "name": "Don Ho",
-          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
-        }
-      ],
-      "duration_ms": 162786,
-      "name": "Tiny Bubbles",
-      "url": "https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Que Mango! Arranged and Conducted by Les Baxter (Remastered from the Original Master Tapes)",
@@ -127,34 +63,50 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "When It's Time to Go",
-        "url": "https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl"
+        "name": "Tiny Bubbles",
+        "url": "https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y"
       },
       "artists": [
         {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+          "name": "Don Ho",
+          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
         }
       ],
-      "duration_ms": 163626,
-      "name": "When It's Time to Go",
-      "url": "https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji"
+      "duration_ms": 162786,
+      "name": "Tiny Bubbles",
+      "url": "https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx"
+    },
+    {
+      "added_at": "2022-03-30 01:46:18",
+      "album": {
+        "name": "Inmortales de To\u00f1a la Negra",
+        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 140721,
+      "name": "Palmeras",
+      "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
     },
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Blow Up presents Exclusive Blend Volume 2",
-        "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
       },
       "artists": [
         {
-          "name": "Jack Trombey",
-          "url": "https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 242226,
-      "name": "Underlay No.3",
-      "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
+      "duration_ms": 71266,
+      "name": "Hii Lawe",
+      "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -171,6 +123,54 @@
       "duration_ms": 172533,
       "name": "Serenade to Nalani",
       "url": "https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Organs In Orbit",
+        "url": "https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU"
+      },
+      "artists": [
+        {
+          "name": "Sir Julian Gould",
+          "url": "https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "A Man And A Woman - Remastered",
+      "url": "https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Mareld 2021",
+        "url": "https://open.spotify.com/album/7dGU6JD2hxL29IZ1jlfoyi"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 182096,
+      "name": "Mareld 2021",
+      "url": "https://open.spotify.com/track/7vTne4h3Rxpk8lCRfcONXJ"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "When It's Time to Go",
+        "url": "https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl"
+      },
+      "artists": [
+        {
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "When It's Time to Go",
+      "url": "https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -191,18 +191,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Lolita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
+        "name": "Blow Up presents Exclusive Blend Volume 2",
+        "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Jack Trombey",
+          "url": "https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Lolita Ya Ya",
-      "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
+      "duration_ms": 242226,
+      "name": "Underlay No.3",
+      "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -237,36 +237,20 @@
       "url": "https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "MGANGA!",
-        "url": "https://open.spotify.com/album/15jEM8o3CyVez6n1I0dERU"
-      },
-      "artists": [
-        {
-          "name": "Tak Shindo",
-          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Mombasa Love Song",
-      "url": "https://open.spotify.com/track/5PggdfNnUPNg7nwGZSBNiw"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Mareld 2021",
-        "url": "https://open.spotify.com/album/7dGU6JD2hxL29IZ1jlfoyi"
+        "name": "Lolita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
       },
       "artists": [
         {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 182096,
-      "name": "Mareld 2021",
-      "url": "https://open.spotify.com/track/7vTne4h3Rxpk8lCRfcONXJ"
+      "duration_ms": 203933,
+      "name": "Lolita Ya Ya",
+      "url": "https://open.spotify.com/track/2cVr3kgag9vfl6aXnYfmav"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -287,18 +271,34 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Blossom",
-        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
+        "name": "The Home Recordings Vol. 1",
+        "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
       },
       "artists": [
         {
-          "name": "Raiatea Helm",
-          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
+          "name": "George de Fretes and his Royal Hawaiian Minstrels",
+          "url": "https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M"
         }
       ],
-      "duration_ms": 186360,
-      "name": "Ahulili",
-      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
+      "duration_ms": 211493,
+      "name": "Song Of Old Hawaii",
+      "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "MGANGA!",
+        "url": "https://open.spotify.com/album/15jEM8o3CyVez6n1I0dERU"
+      },
+      "artists": [
+        {
+          "name": "Tak Shindo",
+          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Mombasa Love Song",
+      "url": "https://open.spotify.com/track/5PggdfNnUPNg7nwGZSBNiw"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Home Recordings Vol. 1",
-        "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
-      },
-      "artists": [
-        {
-          "name": "George de Fretes and his Royal Hawaiian Minstrels",
-          "url": "https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Song Of Old Hawaii",
-      "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
@@ -355,34 +339,34 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+        "name": "Hawaiian Blossom",
+        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
       },
       "artists": [
         {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+          "name": "Raiatea Helm",
+          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
         }
       ],
-      "duration_ms": 276693,
-      "name": "Alika",
-      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
+      "duration_ms": 186360,
+      "name": "Ahulili",
+      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
     },
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Dear Mama",
-        "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
+        "name": "Primitiva",
+        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
       },
       "artists": [
         {
-          "name": "Benitez, Darren",
-          "url": "https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI"
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
         }
       ],
-      "duration_ms": 307213,
-      "name": "Nani Wale Ka Lau Oliva",
-      "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
+      "duration_ms": 134506,
+      "name": "Llama Serenade",
+      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -403,18 +387,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Golden Voice of Hawai'i, Vol. 1",
-        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
+        "name": "Dear Mama",
+        "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
       },
       "artists": [
         {
-          "name": "Dennis Pavao",
-          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
+          "name": "Benitez, Darren",
+          "url": "https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI"
         }
       ],
-      "duration_ms": 215680,
-      "name": "I Kona",
-      "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
+      "duration_ms": 307213,
+      "name": "Nani Wale Ka Lau Oliva",
+      "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -433,84 +417,20 @@
       "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Tiki for the Atomic Age",
-        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
-      },
-      "artists": [
-        {
-          "name": "Kava Kon",
-          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Palace of the Tiger Women",
-      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Primitiva",
-        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
       },
       "artists": [
         {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
         }
       ],
-      "duration_ms": 134506,
-      "name": "Llama Serenade",
-      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Latin-Esque",
-        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 186536,
-      "name": "Latin-Esque",
-      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "On A Magic Carpet",
-        "url": "https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ"
-      },
-      "artists": [
-        {
-          "name": "The Three Suns",
-          "url": "https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Terry's Theme (From \"Limelight)",
-      "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+      "duration_ms": 276693,
+      "name": "Alika",
+      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -527,6 +447,70 @@
       "duration_ms": 259519,
       "name": "Lotus Land",
       "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Golden Voice of Hawai'i, Vol. 1",
+        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
+      },
+      "artists": [
+        {
+          "name": "Dennis Pavao",
+          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "I Kona",
+      "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Tiki for the Atomic Age",
+        "url": "https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA"
+      },
+      "artists": [
+        {
+          "name": "Kava Kon",
+          "url": "https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Palace of the Tiger Women",
+      "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Latin-Esque",
+        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 186536,
+      "name": "Latin-Esque",
+      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -547,18 +531,50 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Maunalua",
-        "url": "https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I"
+        "name": "On A Magic Carpet",
+        "url": "https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ"
       },
       "artists": [
         {
-          "name": "Maunalua",
-          "url": "https://open.spotify.com/artist/2xWcXBvJeNWFIfy7HghTIS"
+          "name": "The Three Suns",
+          "url": "https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc"
         }
       ],
-      "duration_ms": 324920,
-      "name": "Uilani / Baby Kalae",
-      "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
+      "duration_ms": 198466,
+      "name": "Terry's Theme (From \"Limelight)",
+      "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
+        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
+      },
+      "artists": [
+        {
+          "name": "Jackie Davis",
+          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
+        }
+      ],
+      "duration_ms": 143666,
+      "name": "Glow Worm Cha Cha Cha - Remastered",
+      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -575,6 +591,22 @@
       "duration_ms": 110666,
       "name": "Ipo Hula",
       "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
+        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
+      },
+      "artists": [
+        {
+          "name": "Al Romero And His Orchestra",
+          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -621,54 +653,6 @@
       "url": "https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Vintage Jazz N\u00ba 32 - EPs Collectors \"Aquellos Ojos Verdes\"",
-        "url": "https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs"
-      },
-      "artists": [
-        {
-          "name": "Al Romero And His Orchestra",
-          "url": "https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0"
-        }
-      ],
-      "duration_ms": 162721,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Savage And The Sensuous Bongos",
-        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
-      },
-      "artists": [
-        {
-          "name": "Don Ralke",
-          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Head Hunter",
-      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
-        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
-      },
-      "artists": [
-        {
-          "name": "Jackie Davis",
-          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
-        }
-      ],
-      "duration_ms": 143666,
-      "name": "Glow Worm Cha Cha Cha - Remastered",
-      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Quiet Village",
@@ -683,6 +667,38 @@
       "duration_ms": 138133,
       "name": "Hawaiian War Chant",
       "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Maunalua",
+        "url": "https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I"
+      },
+      "artists": [
+        {
+          "name": "Maunalua",
+          "url": "https://open.spotify.com/artist/2xWcXBvJeNWFIfy7HghTIS"
+        }
+      ],
+      "duration_ms": 324920,
+      "name": "Uilani / Baby Kalae",
+      "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Call of the Islands",
+        "url": "https://open.spotify.com/album/1FMZlPkv7DhPclQJAAbcbS"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 184718,
+      "name": "Colors of Hawaiki",
+      "url": "https://open.spotify.com/track/0pOjjYfTME3pdOrFtV74wx"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -707,6 +723,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Makani Olu'olu",
+        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+      },
+      "artists": [
+        {
+          "name": "Na Palapalai",
+          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Lepe Ula'ula",
+      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Lo Mejor De Xavier Cugat Y Su Orquesta",
         "url": "https://open.spotify.com/album/5nNGjwNd47TTnMWUnEa5he"
       },
@@ -721,20 +753,20 @@
       "url": "https://open.spotify.com/track/3Zgl5jhVzcK9ZQdrj4WIUR"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Call of the Islands",
-        "url": "https://open.spotify.com/album/1FMZlPkv7DhPclQJAAbcbS"
+        "name": "The Savage And The Sensuous Bongos",
+        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
       },
       "artists": [
         {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+          "name": "Don Ralke",
+          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
         }
       ],
-      "duration_ms": 184718,
-      "name": "Colors of Hawaiki",
-      "url": "https://open.spotify.com/track/0pOjjYfTME3pdOrFtV74wx"
+      "duration_ms": 183573,
+      "name": "Head Hunter",
+      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -751,22 +783,6 @@
       "duration_ms": 341760,
       "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
       "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Makani Olu'olu",
-        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
-      },
-      "artists": [
-        {
-          "name": "Na Palapalai",
-          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "Lepe Ula'ula",
-      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -803,22 +819,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Esquivel! 1968",
-        "url": "https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Lamento Borincano",
-      "url": "https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Unforgettable Sounds of Esquivel",
         "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
       },
@@ -851,18 +851,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Don Ho Show! (Live)",
-        "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
+        "name": "Esquivel! 1968",
+        "url": "https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv"
       },
       "artists": [
         {
-          "name": "Don Ho",
-          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Shells - Live from Hawaii",
-      "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
+      "duration_ms": 217133,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/2j0cJ0WWmdbV9kaDYsUMLZ"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -899,18 +899,50 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+        "name": "The Don Ho Show! (Live)",
+        "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
       },
       "artists": [
         {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+          "name": "Don Ho",
+          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
         }
       ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+      "duration_ms": 244800,
+      "name": "Shells - Live from Hawaii",
+      "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
+        "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
+      },
+      "artists": [
+        {
+          "name": "Hawaii Calls Orchestra",
+          "url": "https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
+      "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Legend Of The Jivaro",
+        "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Jivaro",
+      "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -951,38 +983,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
-        "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
-      },
-      "artists": [
-        {
-          "name": "Hawaii Calls Orchestra",
-          "url": "https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
-      "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Legend Of The Jivaro",
-        "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
-      },
-      "artists": [
-        {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Jivaro",
-      "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Sacred Rites (Rites of the Pagan / Realm of the Incas)",
         "url": "https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 142106,
       "name": "My Three Sons - Remastered",
       "url": "https://open.spotify.com/track/67OLtDm3jaMdhywCIxZNgP"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Fly Me to the Moon and the Bossa Nova Pops (Original Album Plus Bonus Tracks 1962)",
-        "url": "https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm"
-      },
-      "artists": [
-        {
-          "name": "Joe Harnell His Piano And Orchestra",
-          "url": "https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Loads of Love",
-      "url": "https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -1059,6 +1043,22 @@
       "duration_ms": 158106,
       "name": "I Get a Kick Out Of You",
       "url": "https://open.spotify.com/track/5PRJwmauBwcghrrNinFmC6"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Fly Me to the Moon and the Bossa Nova Pops (Original Album Plus Bonus Tracks 1962)",
+        "url": "https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm"
+      },
+      "artists": [
+        {
+          "name": "Joe Harnell His Piano And Orchestra",
+          "url": "https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "Loads of Love",
+      "url": "https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz"
     },
     {
       "added_at": "2022-01-11 02:53:42",

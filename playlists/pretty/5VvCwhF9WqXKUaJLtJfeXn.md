@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VvCwhF9WqXKUaJLtJfeXn.md) - [plain]
 
 > Taylor Gang top picks chosen by Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 28 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 28 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

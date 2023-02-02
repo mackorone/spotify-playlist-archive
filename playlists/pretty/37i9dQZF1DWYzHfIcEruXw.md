@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,715 likes - 66 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,159 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 53 | [Hello,world!](https://open.spotify.com/track/1YqVJ2YSgwxWpfuENocF2t) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Butterflies](https://open.spotify.com/album/7xEb9qTZuR3LMPETeHR1A5) | 4:08 |
 | 54 | [世界はあなたの色になる](https://open.spotify.com/track/7ynpWZgax9H43b9dWPU9wt) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [声明 / Still Alive](https://open.spotify.com/album/7edMjpLvwAPeYL2SxwyfkS) | 5:00 |
 | 55 | [I Love](https://open.spotify.com/track/1dn81uNv9YaiSkcN4ed0Ib) | [Azusa](https://open.spotify.com/artist/35jlPjvRx3pLt2yQYbFFRL) | [Azusa](https://open.spotify.com/album/7wNwrmYurpkiLdwd3uxkQw) | 4:23 |
-| 56 | [POP TEAM EPIC](https://open.spotify.com/track/0SzGRRMqDBNccIvnGZXXxx) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [No Future Vacances](https://open.spotify.com/album/2eKeOy5KT2TazBeimpXwbm) | 5:23 |
+| 56 | [POP TEAM EPIC](https://open.spotify.com/track/1wKNjt94Q6xdcHAuW5Wviz) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [POP TEAM EPIC](https://open.spotify.com/album/5sTss5hT7jCWFPoG6ue2Ho) | 5:23 |
 | 57 | [今、話したい誰かがいる](https://open.spotify.com/track/5EBqfqnUU0aGtmPL7vGlrz) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [それぞれの椅子 \(Special Edition\)](https://open.spotify.com/album/11WqRoGaD4VOqMnHbU2qRd) | 4:24 |
 | 58 | [Yuriyurararara Yuruyuri Daijiken](https://open.spotify.com/track/2l478Hv4KNu8TmvUmMwoph) | [Nanamori\-Chu☆Goraku\-Bu](https://open.spotify.com/artist/7lHxn2a12AG79OCsoFIWuj) | [Yuruyuri♪♪ 1st\. Series Best Album Yuruyu Rhythm♪](https://open.spotify.com/album/2LSt0K6pb7B7QWsyL00HCT) | 3:49 |
 | 59 | [DREAM SOLISTER](https://open.spotify.com/track/59Swm876fBPn9qGsRByJNV) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Joy Heart](https://open.spotify.com/album/0EagKH2euPBYoiyJH8oYJa) | 5:00 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 65 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
 | 66 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDgwOGM2MzA1YWE1YWU1ZWM0ZTIwODI0ZGY5YjEwODNi`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMGZjNzIwNWYwMjIwNmUzM2E3NGRmYmUzNmRkOTdlODgz`

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-31",
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
   "name": "Ambient Tokyo",
-  "published_playlist_ids": [
-    "4yRMmJhsvszYGvpMChx2d3"
-  ],
   "tracks": [
     {
       "album": {
@@ -296,6 +293,28 @@
     },
     {
       "album": {
+        "name": "12 & 1 SONG (Remastered 2022)",
+        "url": "https://open.spotify.com/album/2DJ7kqNTU47JKFoflue4H7"
+      },
+      "artists": [
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        },
+        {
+          "name": "Janis Crunch",
+          "url": "https://open.spotify.com/artist/57E9fnySsCbg4lFkU8msYJ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238278,
+      "name": "A graca economica de Deus",
+      "url": "https://open.spotify.com/track/1CFsbOndaV2w76Ikg1xGun"
+    },
+    {
+      "album": {
         "name": "after after hours",
         "url": "https://open.spotify.com/album/6srXbTqiImAu5zPZqbMcy6"
       },
@@ -314,7 +333,7 @@
     },
     {
       "album": {
-        "name": "A Mother's Touch (\u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
+        "name": "A Mother's Touch (From \u201dA Mother's Touch\" Soundtrack)",
         "url": "https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK"
       },
       "artists": [
@@ -327,7 +346,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 345637,
-      "name": "A Mother's Touch - \u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
+      "name": "A Mother's Touch - From \u201dA Mother's Touch\" Soundtrack",
       "url": "https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq"
     },
     {
@@ -433,7 +452,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 127120,
       "name": "Ake",
       "url": "https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47"
@@ -639,6 +658,24 @@
       "duration_ms": 129933,
       "name": "Ayumi",
       "url": "https://open.spotify.com/track/2pTQSF8fuugBtEonD88W5B"
+    },
+    {
+      "album": {
+        "name": "Been",
+        "url": "https://open.spotify.com/album/2JdQuuqYePeZzZnPaPiPyI"
+      },
+      "artists": [
+        {
+          "name": "Masaki Matsubara",
+          "url": "https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 129933,
+      "name": "Ayumi",
+      "url": "https://open.spotify.com/track/7ns4h1iypgWbWs2yN2IEbx"
     },
     {
       "album": {
@@ -898,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Low Power",
+        "url": "https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl"
+      },
+      "artists": [
+        {
+          "name": "H.Takahashi",
+          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 239743,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR"
+    },
+    {
+      "album": {
         "name": "JPC ENSEMBLE COLLECTION Vol.9",
         "url": "https://open.spotify.com/album/2e6voibBUPStD2BdbkgyCM"
       },
@@ -1133,10 +1188,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 259200,
       "name": "Cat and Bird",
       "url": "https://open.spotify.com/track/4xdBmpPggvdUMgxhoDIwDU"
+    },
+    {
+      "album": {
+        "name": "A Painter's Diary",
+        "url": "https://open.spotify.com/album/3hYzB1zT93RAsGczZ9mfIL"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 259200,
+      "name": "Cat and Bird",
+      "url": "https://open.spotify.com/track/7gWYxwBMqbX00cDhvTYReK"
     },
     {
       "album": {
@@ -1504,6 +1577,28 @@
     },
     {
       "album": {
+        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        },
+        {
+          "name": "takayama naoko",
+          "url": "https://open.spotify.com/artist/1RtPxS3LU1mjAvSZDgnEJL"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295102,
+      "name": "Curtain Call",
+      "url": "https://open.spotify.com/track/3CRbyVLEgfJHQsqmOmdGnv"
+    },
+    {
+      "album": {
         "name": "Air Curtain",
         "url": "https://open.spotify.com/album/0yKwrP4coxJD8JI3mkJLSe"
       },
@@ -1829,7 +1924,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 292933,
       "name": "Drop",
       "url": "https://open.spotify.com/track/7KzAclQwJ8fcRL1Da0H1tR"
@@ -2164,6 +2259,24 @@
     },
     {
       "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136124,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M"
+    },
+    {
+      "album": {
         "name": "Subtropics",
         "url": "https://open.spotify.com/album/3I0XvrPCUYXiCdEuVcSRH9"
       },
@@ -2409,7 +2522,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 196402,
       "name": "Gazing",
       "url": "https://open.spotify.com/track/1hVPAMeg5kekdYulGfgQ8u"
@@ -3341,7 +3454,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 347862,
       "name": "Irie",
       "url": "https://open.spotify.com/track/2VokL9qQNd46ZETs2mZYq2"
@@ -3359,7 +3472,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 211942,
       "name": "Japanese Summer Lost",
       "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
@@ -3795,10 +3908,28 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 300773,
       "name": "lust",
       "url": "https://open.spotify.com/track/6l2XwFCDccPyfvrAvZ97hC"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/7z6v3dBVWjaxsayWo4kbG0"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 165000,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/0BpAPmGnXe5Mjmza0tENTB"
     },
     {
       "album": {
@@ -4368,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "memento -day3",
+        "url": "https://open.spotify.com/album/2XG3vM8CWIpKvY9ychR9ZA"
+      },
+      "artists": [
+        {
+          "name": "Akiyoshi Yasuda",
+          "url": "https://open.spotify.com/artist/3xQF7Pm26nA6eDFxgqKtRW"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217692,
+      "name": "Nobody knows",
+      "url": "https://open.spotify.com/track/79qXqVsJ0aaYXeZ6QoeGjx"
+    },
+    {
+      "album": {
         "name": "Whispering Jewels - \u3072\u3073\u5272\u308c\u306e\u9f13\u52d5",
         "url": "https://open.spotify.com/album/7ahgNbVn0iLISPEwXU2hJO"
       },
@@ -4379,7 +4528,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 536735,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/1SDCau14XiiaPB67yj9qZ9"
@@ -5275,7 +5424,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 317547,
       "name": "Sacred Play Secret Place",
       "url": "https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9"
@@ -6040,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "Spatial",
+        "url": "https://open.spotify.com/album/2s0jmqbAKEjzgnh6ayWfl3"
+      },
+      "artists": [
+        {
+          "name": "CROIX HEALING",
+          "url": "https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 235506,
+      "name": "Spatial",
+      "url": "https://open.spotify.com/track/57aA35Sk8bvernl1JBGfdr"
+    },
+    {
+      "album": {
         "name": "Late Spring",
         "url": "https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy"
       },
@@ -6253,7 +6420,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
@@ -6325,7 +6492,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 212523,
       "name": "su sa",
       "url": "https://open.spotify.com/track/3Bh4nEAEtlwPuY0qClRMx9"
@@ -7089,7 +7256,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 520039,
       "name": "twilight",
       "url": "https://open.spotify.com/track/6xoab7Sxd9L2N43Gu9fIBd"
@@ -7406,6 +7573,50 @@
     },
     {
       "album": {
+        "name": "A Tribute to Ryuichi Sakamoto - To the Moon and Back",
+        "url": "https://open.spotify.com/album/5HFcpgpiTigz6jfkQRr7g3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "LIM GIONG",
+          "url": "https://open.spotify.com/artist/3BNLZ91QZHEedDAZdYba6k"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 282941,
+      "name": "WALKER - LIM GIONG FOLLOW THE STEPS REMODEL",
+      "url": "https://open.spotify.com/track/1AnHE6gRyOL8OttmxK5OEv"
+    },
+    {
+      "album": {
+        "name": "A Tribute to Ryuichi Sakamoto - To the Moon and Back",
+        "url": "https://open.spotify.com/album/6ie5Ynop9ihgcskcSenK3q"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "LIM GIONG",
+          "url": "https://open.spotify.com/artist/3BNLZ91QZHEedDAZdYba6k"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282941,
+      "name": "Walker - Lim Giong Follow the Steps Remodel",
+      "url": "https://open.spotify.com/track/660PmVY7kgD6ZLnRqOKSYB"
+    },
+    {
+      "album": {
         "name": "Soothe & Sleep, Vol.3",
         "url": "https://open.spotify.com/album/0laYkHbtDIhxlVK5UxfQIh"
       },
@@ -7417,7 +7628,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2023-01-15",
       "duration_ms": 181132,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/2JO7H59mvPwDln69MRUR4A"
@@ -7507,7 +7718,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 220000,
       "name": "Weightless Moonlit Night",
       "url": "https://open.spotify.com/track/4MgDI6XeKfKuinjmKc0o8D"
@@ -7821,7 +8032,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": "2023-01-25",
       "duration_ms": 205533,
       "name": "\u30df\u30fc\u30c8\u30fb\u30df\u30fc\u30fb\u30a4\u30f3\u30fb\u30b6\u30fb\u30b7\u30fc\u30d7\u30fb\u30e1\u30c9\u30a6",
       "url": "https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5"

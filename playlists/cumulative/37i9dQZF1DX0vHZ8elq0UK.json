@@ -2,10 +2,29 @@
   "date_first_scraped": "2021-12-30",
   "description": "Need to get your energy level up?",
   "name": "Energy Booster: Pop",
-  "published_playlist_ids": [
-    "3dFpEZOph8mFn8DS5f5LPj"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
     {
       "album": {
         "name": "24K Magic",
@@ -259,6 +278,32 @@
       "duration_ms": 199320,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/466s1BacUmiRdR3ISvNjyx"
+    },
+    {
+      "album": {
+        "name": "Sweet Talker (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199386,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
     },
     {
       "album": {
@@ -830,6 +875,50 @@
     },
     {
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 234653,
+      "name": "California Gurls",
+      "url": "https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"
+    },
+    {
+      "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
       },
@@ -991,7 +1080,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 201053,
       "name": "Candy",
       "url": "https://open.spotify.com/track/5NlFXQ0si6U87gXs6hq81B"
@@ -1249,7 +1338,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-27",
       "duration_ms": 237266,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/4d2hD63oUGU3s7L66JD0BE"
@@ -1528,6 +1617,36 @@
     },
     {
       "album": {
+        "name": "Electricity (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
+      },
+      "artists": [
+        {
+          "name": "Silk City",
+          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "Electricity (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
       },
@@ -1557,7 +1676,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 224960,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
@@ -1593,7 +1712,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 177855,
       "name": "EveryTime I Cry",
       "url": "https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d"
@@ -1716,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq"
       },
@@ -1727,7 +1864,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 178156,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76"
@@ -2548,6 +2685,28 @@
     },
     {
       "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "album": {
         "name": "I'm In Love With a Monster",
         "url": "https://open.spotify.com/album/2dtuSIjyjRU6ynxCxayLbO"
       },
@@ -2737,7 +2896,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 236600,
       "name": "Just Like a Pill",
       "url": "https://open.spotify.com/track/1BpV8IGf4XsRRJf4Xuui9q"
@@ -3402,7 +3561,7 @@
     },
     {
       "album": {
-        "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
+        "name": "Never Love You Again",
         "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
       },
       "artists": [
@@ -3423,7 +3582,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191329,
-      "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
+      "name": "Never Love You Again",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
     },
     {
@@ -3545,7 +3704,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2023-01-03",
       "duration_ms": 189126,
       "name": "No Money",
       "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
@@ -3829,6 +3988,24 @@
       "duration_ms": 196613,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
+    },
+    {
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
     },
     {
       "album": {
@@ -5525,7 +5702,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 224400,
       "name": "Womanizer",
       "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"

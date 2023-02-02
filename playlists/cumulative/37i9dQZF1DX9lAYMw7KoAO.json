@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "Gospel music from across the African continent. Worship in your mother tongue here!",
   "name": "Redeemed",
-  "published_playlist_ids": [
-    "7olbfB26cR1n5qSLX8dDVo"
-  ],
   "tracks": [
     {
       "album": {
@@ -254,6 +251,28 @@
     },
     {
       "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Child Of Heaven",
+      "url": "https://open.spotify.com/track/22Vm4f49IiQwjWMeK6w2Vt"
+    },
+    {
+      "album": {
         "name": "Child of Heaven (Remake)",
         "url": "https://open.spotify.com/album/3LShjcDJqRzVTNWx1SSp03"
       },
@@ -291,7 +310,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 270000,
       "name": "Child Of Heaven - Remake",
       "url": "https://open.spotify.com/track/5bRLQ7hI4PWjsVEZsNhDyj"
@@ -399,10 +418,28 @@
       ],
       "date_added": "2020-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 265613,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/0q4SXFe7bOiKsxOKIoXLr4"
+    },
+    {
+      "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265639,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/07E586wUahkoqWmBHKoalA"
     },
     {
       "album": {
@@ -593,7 +630,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 230400,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/7ouTAQjTCipK9Ag5GAwqE0"
@@ -810,6 +847,24 @@
     },
     {
       "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/1R4VaMYmRT58HE9GYg1jKe"
       },
@@ -959,7 +1014,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 209437,
       "name": "Na Me Be This",
       "url": "https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO"
@@ -1259,6 +1314,24 @@
       "duration_ms": 234710,
       "name": "Product of Grace",
       "url": "https://open.spotify.com/track/32HuC8zZHlhPrSxuZs6fKT"
+    },
+    {
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
     },
     {
       "album": {

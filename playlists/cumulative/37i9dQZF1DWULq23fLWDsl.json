@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
   "name": "Best of Indie 2010",
-  "published_playlist_ids": [
-    "5zi8FP7qU8DGmEKQKz7LQ5"
-  ],
   "tracks": [
     {
       "album": {
@@ -1221,7 +1218,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 164280,
       "name": "Louder Than Ever",
       "url": "https://open.spotify.com/track/5j08C17ks3onk4i4g7XRJi"
@@ -1571,7 +1568,7 @@
     {
       "album": {
         "name": "Treats",
-        "url": "https://open.spotify.com/album/1IWkF6zpOq73txmrYpljIT"
+        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
       },
       "artists": [
         {
@@ -1582,6 +1579,24 @@
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229893,
+      "name": "Rill Rill",
+      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
+    },
+    {
+      "album": {
+        "name": "Treats",
+        "url": "https://open.spotify.com/album/1IWkF6zpOq73txmrYpljIT"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/3GbjOImkNo5nFT2GQxVr11"
@@ -1913,7 +1928,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 344999,
       "name": "Sun",
       "url": "https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es"
@@ -1931,7 +1946,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 290986,
       "name": "Sun Hands",
       "url": "https://open.spotify.com/track/117XTs9axKflCk5FDwf2kI"
@@ -2029,7 +2044,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 279760,
       "name": "Terrible Love",
       "url": "https://open.spotify.com/track/6pUAg3OgdO2kQ4lub9Tb5m"

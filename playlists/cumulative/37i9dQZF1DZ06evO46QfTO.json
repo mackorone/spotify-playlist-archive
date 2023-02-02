@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
   "name": "This Is Maren Morris",
-  "published_playlist_ids": [
-    "1oLyAxaZ1PMOEBoVbGaC2k"
-  ],
   "tracks": [
     {
       "album": {
@@ -103,6 +100,28 @@
       "duration_ms": 186986,
       "name": "Bigger Man (with Maren Morris)",
       "url": "https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8"
+    },
+    {
+      "album": {
+        "name": "Pelago",
+        "url": "https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 207666,
+      "name": "Chasing After You",
+      "url": "https://open.spotify.com/track/3MkXV52jXtsG4pvKp4cGE8"
     },
     {
       "album": {
@@ -491,7 +510,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 199346,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/5RtZ4ebQFkCa6TGQjQshdd"
@@ -1013,7 +1032,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 234493,
       "name": "The Furthest Thing",
       "url": "https://open.spotify.com/track/6onpcMnD3eVbTq1B5th05E"
@@ -1031,7 +1050,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 239639,
       "name": "The Furthest Thing - In Rare Form",
       "url": "https://open.spotify.com/track/0zMQp1Z5EjJGyVnGVFkOvO"
@@ -1101,6 +1120,24 @@
       "duration_ms": 194080,
       "name": "Way Too Pretty for Prison (with Maren Morris)",
       "url": "https://open.spotify.com/track/6ZShReTf4SiT7LYXnRCks0"
+    },
+    {
+      "album": {
+        "name": "Humble Quest: In Rare Form",
+        "url": "https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 250263,
+      "name": "What Would This World Do? - In Rare Form",
+      "url": "https://open.spotify.com/track/3vtejXqrtGxsQUDRVx5E1c"
     },
     {
       "album": {

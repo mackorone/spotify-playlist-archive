@@ -1,11 +1,98 @@
 {
   "date_first_scraped": "2022-08-10",
   "description": "Dig deeper into some of your top artists of 2020 with a mix of talk and music.",
-  "name": "On Record (7)",
-  "published_playlist_ids": [
-    "2pJTpIcjYzp6yKMNP36cmI"
-  ],
+  "name": "On Record (10)",
   "tracks": [
+    {
+      "album": {
+        "name": "1001 Album Club",
+        "url": "https://open.spotify.com/show/7f5Rdm6RukUPsWFtxlEfOb"
+      },
+      "artists": [
+        {
+          "name": "1001 Album Club",
+          "url": "https://open.spotify.com/show/7f5Rdm6RukUPsWFtxlEfOb"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 1740069,
+      "name": "240 David Bowie - Hunky Dory",
+      "url": "https://open.spotify.com/episode/5ZqVGrcson7mbtcFzFukoC"
+    },
+    {
+      "album": {
+        "name": "Who We Be TALKS_",
+        "url": "https://open.spotify.com/show/2YissX4xRk9cU2r10620ol"
+      },
+      "artists": [
+        {
+          "name": "Who We Be TALKS_",
+          "url": "https://open.spotify.com/show/2YissX4xRk9cU2r10620ol"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2181851,
+      "name": "44: Megan Thee Stallion",
+      "url": "https://open.spotify.com/episode/4obQtTR41UXcZv3hIm6OsF"
+    },
+    {
+      "album": {
+        "name": "Zach Sang Show",
+        "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+      },
+      "artists": [
+        {
+          "name": "Zach Sang Show",
+          "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 3804918,
+      "name": "Brockhampton Talks Sugar Video, Forming Brockhampton & Ginger",
+      "url": "https://open.spotify.com/episode/2kpl3PBNTNQA40tkQAicbc"
+    },
+    {
+      "album": {
+        "name": "MIC/LINE",
+        "url": "https://open.spotify.com/show/7ghjSnDrkv7QGQAOyDCvWA"
+      },
+      "artists": [
+        {
+          "name": "MIC/LINE",
+          "url": "https://open.spotify.com/show/7ghjSnDrkv7QGQAOyDCvWA"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 1456379,
+      "name": "Doja Cat Just Wants to Have Fun",
+      "url": "https://open.spotify.com/episode/5WT2qe1yBo7Y9rPNQaiRiQ"
+    },
+    {
+      "album": {
+        "name": "Switched on Pop",
+        "url": "https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J"
+      },
+      "artists": [
+        {
+          "name": "Switched on Pop",
+          "url": "https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2465149,
+      "name": "Drake vs Drake",
+      "url": "https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO"
+    },
     {
       "album": {
         "name": "FACE",
@@ -41,6 +128,24 @@
       "duration_ms": 342040,
       "name": "Good News",
       "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
+    },
+    {
+      "album": {
+        "name": "Big Boy's Fully Loaded Interviews",
+        "url": "https://open.spotify.com/show/5hNf8CKWMA8APrIXWj1jLw"
+      },
+      "artists": [
+        {
+          "name": "Big Boy's Fully Loaded Interviews",
+          "url": "https://open.spotify.com/show/5hNf8CKWMA8APrIXWj1jLw"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2800118,
+      "name": "KENDRICK LAMAR ON HOW \"DAMN\" ALMOST HAD A DIFFERENT NAME, HIS FAVORITE RECORD, AND MORE!",
+      "url": "https://open.spotify.com/episode/62SeZZd3huQwiNDU6zRXed"
     },
     {
       "album": {
@@ -92,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Popcast",
+        "url": "https://open.spotify.com/show/3ugDIELXIU7erW5Xp49tWp"
+      },
+      "artists": [
+        {
+          "name": "Popcast",
+          "url": "https://open.spotify.com/show/3ugDIELXIU7erW5Xp49tWp"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 3344849,
+      "name": "Nicki Minaj and Travis Scott, Rivals With Common Problems",
+      "url": "https://open.spotify.com/episode/4BFiS2o0l5O2OPiJ9nuMkZ"
+    },
+    {
+      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -115,6 +238,24 @@
       "duration_ms": 157712,
       "name": "OUT WEST (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
+    },
+    {
+      "album": {
+        "name": "Dissect",
+        "url": "https://open.spotify.com/show/2b025hq3gJ17tQdxS3aV43"
+      },
+      "artists": [
+        {
+          "name": "Dissect",
+          "url": "https://open.spotify.com/show/2b025hq3gJ17tQdxS3aV43"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2238720,
+      "name": "S4E3 - Where This Flower Blooms by Tyler, the Creator",
+      "url": "https://open.spotify.com/episode/7n9BYUDv0s0C5nZaw2Li47"
     },
     {
       "album": {
@@ -173,6 +314,24 @@
       "duration_ms": 252026,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W"
+    },
+    {
+      "album": {
+        "name": "Rolling Stone Music Now",
+        "url": "https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx"
+      },
+      "artists": [
+        {
+          "name": "Rolling Stone Music Now",
+          "url": "https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2499030,
+      "name": "The Life and Music of Mac Miller",
+      "url": "https://open.spotify.com/episode/1q944Rc52ChfPj4QCaWJWM"
     },
     {
       "album": {

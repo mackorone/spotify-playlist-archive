@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Famous Singers\-Battle Again'\. \(JTBC  '유명가수전\-배틀 어게인'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736 likes - 205 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811 likes - 205 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 25 | [Resignation \- Live](https://open.spotify.com/track/4VCRPT98YtPWAIx8K2Hsib) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Famous Singers \- Battle Again Pt.4](https://open.spotify.com/album/4YxrAYGzesavXEuhZ5mrzu) | 5:47 |
 | 26 | [Missing You \- Live](https://open.spotify.com/track/5JumuTdslDHcQ0MoMkEs22) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp), [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [Famous Singers \- Battle Again Pt.4](https://open.spotify.com/album/4YxrAYGzesavXEuhZ5mrzu) | 4:43 |
 | 27 | [Man \(Origianl : Woman\) \- Live](https://open.spotify.com/track/4X8MIWp3G29zqNLlzF6nQ3) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK) | [Famous Singers \- Battle Again Pt.4](https://open.spotify.com/album/4YxrAYGzesavXEuhZ5mrzu) | 4:28 |
-| 28 | [A Guy Like me \- Live](https://open.spotify.com/track/23fT7CfKjIeHA28sqbiYfJ) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK) | [Famous Singers \- Battle Again Pt.6](https://open.spotify.com/album/2rnnyam1jc6BGwji7aFYYe) | 4:25 |
-| 29 | [I Know \- Live](https://open.spotify.com/track/5dcrBRidhM1nDVeMh846bZ) | [Yun Seong](https://open.spotify.com/artist/3scLPJnii9AmTztP7cO5UM) | [Famous Singers \- Battle Again Pt.6](https://open.spotify.com/album/2rnnyam1jc6BGwji7aFYYe) | 4:56 |
-| 30 | [Dance with wolf \- Live](https://open.spotify.com/track/7iFxOTzZZPWneCLg4YZuIy) | [KIM SO YEON](https://open.spotify.com/artist/3CHwH4pyXNJMt5fzbFG9Tr) | [Famous Singers \- Battle Again Pt.6](https://open.spotify.com/album/2rnnyam1jc6BGwji7aFYYe) | 3:15 |
-| 31 | [Smile Again \- Live](https://open.spotify.com/track/6Jme7ZX96w4PtRvGnV98oi) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [Famous Singers \- Battle Again Pt.6](https://open.spotify.com/album/2rnnyam1jc6BGwji7aFYYe) | 4:15 |
+| 28 | [A Guy Like me \- Live](https://open.spotify.com/track/23fT7CfKjIeHA28sqbiYfJ) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK) | [Famous Singers \- Battle Again Pt.6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2rnnyam1jc6BGwji7aFYYe) | 4:25 |
+| 29 | [I Know \- Live](https://open.spotify.com/track/5dcrBRidhM1nDVeMh846bZ) | [Yun Seong](https://open.spotify.com/artist/3scLPJnii9AmTztP7cO5UM) | [Famous Singers \- Battle Again Pt.6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2rnnyam1jc6BGwji7aFYYe) | 4:56 |
+| 30 | [Dance with wolf \- Live](https://open.spotify.com/track/7iFxOTzZZPWneCLg4YZuIy) | [KIM SO YEON](https://open.spotify.com/artist/3CHwH4pyXNJMt5fzbFG9Tr) | [Famous Singers \- Battle Again Pt.6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2rnnyam1jc6BGwji7aFYYe) | 3:15 |
+| 31 | [Smile Again \- Live](https://open.spotify.com/track/6Jme7ZX96w4PtRvGnV98oi) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [Famous Singers \- Battle Again Pt.6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2rnnyam1jc6BGwji7aFYYe) | 4:15 |
 | 32 | [With you \- Live](https://open.spotify.com/track/4YlF6utNK3HNBaImdXdczd) | [The Blue](https://open.spotify.com/artist/7gjecRfd9wFScbYdg8AQZZ), [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK) | [Famous Singers \- Battle Again Pt.5](https://open.spotify.com/album/5rDHSQoO8Vj1Oeor41HztJ) | 4:09 |
 | 33 | [Beautiful pain \- Live](https://open.spotify.com/track/2BXyBYzKkdHfzI2tOb3pC8) | [KIM SO YEON](https://open.spotify.com/artist/3CHwH4pyXNJMt5fzbFG9Tr), [Seo Gi](https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI) | [Famous Singers \- Battle Again Pt.5](https://open.spotify.com/album/5rDHSQoO8Vj1Oeor41HztJ) | 4:59 |
 | 34 | [Again \- Live](https://open.spotify.com/track/6PohgeJSPeIfG7x5lrIBUe) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn), [NAAKYEUM](https://open.spotify.com/artist/0tcpyHoHq4ILwcxfGFvSMN) | [Famous Singers \- Battle Again Pt.5](https://open.spotify.com/album/5rDHSQoO8Vj1Oeor41HztJ) | 3:48 |

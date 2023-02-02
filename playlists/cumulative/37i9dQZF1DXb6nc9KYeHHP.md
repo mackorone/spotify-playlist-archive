@@ -4,7 +4,7 @@
 
 > The rising star <a href="spotify:artist:3oKnyRhYWzNsTiss5n4Z1J">LP Giobbi</a> brings us a shining DJ mix full of piano melodies, a signature of this talented producer.
 
-16 songs - 58 min 19 sec - [published](https://open.spotify.com/playlist/1OjoQxFv5hEpY9MmYc3iVX)
+16 songs - 58 min 19 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

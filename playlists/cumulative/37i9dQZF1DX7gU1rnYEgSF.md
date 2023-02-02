@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-113 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/5xr5WhoYuNNtSpHlvThomm)
+113 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [How Do Dinosaurs Say Goodnight](https://open.spotify.com/track/3AlNkt4yLvvhVwuIKdiu7P) | [Miss Nina](https://open.spotify.com/artist/5KEhjdWM9S9VlQ23cl0nvq) | [Sha Doo Be Doop](https://open.spotify.com/album/1djqfg4Ff7SQr11qDwlhda) | 3:29 | 2022-01-14 |  |
 | [I Am a Lonely T\-Rex](https://open.spotify.com/track/7zTOGqiWjXnqI5wGai2F29) | [Noodle Loaf](https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI) | [Echo Songs, Vol\. 2](https://open.spotify.com/album/4JmfQK0jCcD82wat4slTKU) | 2:25 | 2022-07-08 |  |
 | [I Am a Paleontologist](https://open.spotify.com/track/0MSqR4unoY5KReMoOP6E2D) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:32 | 2022-01-14 |  |
-| [I Love Dinosaurs](https://open.spotify.com/track/0IB73Mtp2oC8bL8e5dOPf4) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The Mik Maks](https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0) | 1:50 | 2022-08-16 |  |
+| [I Love Dinosaurs](https://open.spotify.com/track/0IB73Mtp2oC8bL8e5dOPf4) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The Mik Maks](https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0) | 1:50 | 2022-08-16 |  |
 | [I Love Dinosaurs](https://open.spotify.com/track/4VR721woI4keJB0FEexftt) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The MikMaks](https://open.spotify.com/album/2y3WycvsBQ8DWyjerX7NmI) | 1:52 | 2022-01-14 | 2022-08-27 |
 | [I Want to Be a Dinosaur](https://open.spotify.com/track/67jLpM4I2DwzgdkEkpYMqH) | [Monkey Rock Music](https://open.spotify.com/artist/1Nb0YH1uQpQOnLlYDYwEiM) | [Monkey Rock Music](https://open.spotify.com/album/5mNZjlGPSFy80rU9tqD6R0) | 2:53 | 2022-01-14 |  |
 | [I Went To A Party With Dinosaurs](https://open.spotify.com/track/0GWkRtps0sXcKt1yuAPdiA) | [Andy Z](https://open.spotify.com/artist/6ETYDr9Q1fOPzBeUctjWgm) | [Welcome To Andyland](https://open.spotify.com/album/63sTRhpkQgancEZw6XLRhU) | 2:14 | 2022-01-14 |  |

@@ -4,7 +4,7 @@
 
 > The essential songs from Paul McCartney's solo career and the Wings.
 
-71 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/4SEUnndjtTnkPppO3XjZpB)
+71 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

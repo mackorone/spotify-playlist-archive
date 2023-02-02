@@ -2,9 +2,9 @@
 
 ### [This Is NCT 127](https://open.spotify.com/playlist/37i9dQZF1DX78tHDcKCzXN)
 
-> To the world, this is NCT! This is NCT 127! The 4th album ‘2 Baddies’ is out!
+> To the world, this is NCT! This is NCT 127! Ay\-Yo! The 4th Album repackage is here!
 
-102 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/4sV5zpts2Ks9RxeBvmHERq)
+105 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1, 2, 7 \(Time Stops\)](https://open.spotify.com/track/3bPwNEZ0yLDT1j06XD4I9X) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:36 | 2022-09-16 |  |
 | [2 Baddies](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:50 | 2022-09-16 |  |
 | [Angel](https://open.spotify.com/track/4kpRzag7QtFfLRUUy9SB9W) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 4:09 | 2021-10-25 |  |
+| [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-01-30 |  |
 | [Baby Don’t Like It 나쁜 짓](https://open.spotify.com/track/7I2nbddpDYsAe6e4biIxEO) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 2:38 | 2021-10-25 |  |
 | [Back 2 U \(AM 01:27\)](https://open.spotify.com/track/37SqctQhMp3MjvGDXKhnJ3) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 3:55 | 2021-10-25 |  |
 | [Black Clouds](https://open.spotify.com/track/1n3XdyPzDSbbVoRUb9QSW7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:38 | 2022-09-16 |  |
@@ -28,6 +29,7 @@
 | [Day Dream](https://open.spotify.com/track/2pLZ2aJvRQssXcF6mdUoub) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:25 | 2021-10-25 | 2022-07-29 |
 | [Day Dream](https://open.spotify.com/track/4O5NmwwKzpQkuUUUz0V3TN) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:25 | 2021-10-25 |  |
 | [Designer](https://open.spotify.com/track/4axTxw4EXSVSGm6f6vxTdZ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:57 | 2022-09-16 |  |
+| [DJ](https://open.spotify.com/track/1JoWETByyP9pvWIS8xktfH) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:18 | 2023-01-30 |  |
 | [Dreamer](https://open.spotify.com/track/2dGQn6Dqb5PPLqtbmvfcFf) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:29 | 2021-10-25 |  |
 | [Elevator \(127F\)](https://open.spotify.com/track/2Go7eMyOdfKqKOC4x32RYt) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:29 | 2021-10-25 |  |
 | [Elevator \(127F\)](https://open.spotify.com/track/7LVsF9wJOMfDrf0eXe3cUo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:29 | 2021-10-25 | 2022-07-29 |
@@ -92,6 +94,7 @@
 | [Simon Says](https://open.spotify.com/track/1zedfw5iu7XzKJT8CupEIP) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regulate \- The 1st Album Repackage](https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S) | 3:19 | 2021-10-25 |  |
 | [Sit Down!](https://open.spotify.com/track/0SJQTuNZ52VkxfGHJJItBs) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:20 | 2021-10-25 | 2022-07-29 |
 | [Sit Down!](https://open.spotify.com/track/3G7867O6gqh3UmpQeeMLDW) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:20 | 2021-10-25 |  |
+| [Skyscraper](https://open.spotify.com/track/6LZWHcYQBumgCzdeLsuqDe) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:56 | 2023-01-30 |  |
 | [Sticker](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:47 | 2021-10-25 |  |
 | [Summer 127](https://open.spotify.com/track/7tQTOyhv9BAjKoMoegHncb) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:37 | 2021-10-25 |  |
 | [Sun&Moon](https://open.spotify.com/track/4jhUqSKsWZoVOc778NsFU1) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:07 | 2021-10-25 |  |

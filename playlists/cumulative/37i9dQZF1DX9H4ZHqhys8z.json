@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Greek women at full volume. Cover: Stefania",
-  "name": "EQUAL Greece",
-  "published_playlist_ids": [
-    "26nYZW9uO5SB3QxZrqoIKG"
-  ],
+  "description": "\u0386\u03ba\u03bf\u03c5 \u03c4\u03b9\u03c2 \u03b3\u03c5\u03bd\u03b1\u03af\u03ba\u03b5\u03c2 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b1\u03c0\u03b1\u03c3\u03ce\u03bd. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Anna Vissi",
+  "name": "EQUAL Greece ",
   "tracks": [
     {
       "album": {
@@ -37,10 +34,28 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 185232,
       "name": "About You",
       "url": "https://open.spotify.com/track/35Qrg2cn02RzA5pYtSklt7"
+    },
+    {
+      "album": {
+        "name": "Aformi",
+        "url": "https://open.spotify.com/album/5Z4CzuxBkr072DokZVaTTD"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152282,
+      "name": "Aformi",
+      "url": "https://open.spotify.com/track/1sCoE0cd8o6mrTsWOsRImL"
     },
     {
       "album": {
@@ -73,7 +88,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 283934,
       "name": "Afti I Nihta Menei - Original TV Series Soundtrack",
       "url": "https://open.spotify.com/track/2ed4TRUuz8Sk8i5qxZQGTJ"
@@ -95,6 +110,28 @@
       "duration_ms": 254318,
       "name": "Agapi Mou Epikindini - Diesi in Concert",
       "url": "https://open.spotify.com/track/6NzObcTe2MYwiluWqWxGdX"
+    },
+    {
+      "album": {
+        "name": "Agapi Ypervoliki (2023 Version)",
+        "url": "https://open.spotify.com/album/1cFK4HC3ffxOZosr1TrXtm"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        },
+        {
+          "name": "iLLEOo",
+          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203213,
+      "name": "Agapi Ypervoliki - 2023 Version",
+      "url": "https://open.spotify.com/track/06RkoxeiyiL0I1Hfpt4Zew"
     },
     {
       "album": {
@@ -131,7 +168,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 208695,
       "name": "Aima",
       "url": "https://open.spotify.com/track/7dbwdaU5belAQj5Qc0cFle"
@@ -153,6 +190,24 @@
       "duration_ms": 220838,
       "name": "Akrogiales Deilina",
       "url": "https://open.spotify.com/track/5yQpEwB79AEGsWimzkfyTi"
+    },
+    {
+      "album": {
+        "name": "Alli Mia Fora",
+        "url": "https://open.spotify.com/album/45xN0CzQRn6rqfWPD1SH14"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Koniak",
+          "url": "https://open.spotify.com/artist/7sjcFcVPtQ1Oi4j3g7VP30"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188529,
+      "name": "Alli Mia Fora",
+      "url": "https://open.spotify.com/track/4ql9MGCIzZwl8V2It8Mp6T"
     },
     {
       "album": {
@@ -189,7 +244,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 190962,
       "name": "AMAN",
       "url": "https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ"
@@ -232,6 +287,24 @@
     },
     {
       "album": {
+        "name": "An Eisai Ena Asteri",
+        "url": "https://open.spotify.com/album/1REyaiesyKcqzBVkDoKwop"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223611,
+      "name": "An Eisai Ena Asteri",
+      "url": "https://open.spotify.com/track/4mguG0fNWrnulC7N65KFVX"
+    },
+    {
+      "album": {
         "name": "An kapou kapou m' agapas",
         "url": "https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J"
       },
@@ -243,7 +316,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 192972,
       "name": "An kapou kapou m' agapas",
       "url": "https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1"
@@ -291,7 +364,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 192296,
       "name": "Anemones",
       "url": "https://open.spotify.com/track/6WOKAC8RGBHWi7WL6V4wkx"
@@ -309,10 +382,28 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 190232,
       "name": "Ap' To Fili Os To Fili",
       "url": "https://open.spotify.com/track/1KQNgKzb1Xp50PZgUfTLqc"
+    },
+    {
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/1HIiE9zyRCQJYoyM3H6jUj"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142146,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/0LYjFW29UnbEtisLDkFhBK"
     },
     {
       "album": {
@@ -327,10 +418,28 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 160000,
       "name": "Bom Bom",
       "url": "https://open.spotify.com/track/2iIrdDvcvwWuxzlKhMoKiE"
+    },
+    {
+      "album": {
+        "name": "Can't Help Falling In Love",
+        "url": "https://open.spotify.com/album/3HEQqKx57MZMc18QVK5VyD"
+      },
+      "artists": [
+        {
+          "name": "Mariza Rizou",
+          "url": "https://open.spotify.com/artist/0YOHWBsXDveoGIFVKHkZ4V"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252828,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/22Zc4VcrWf2MnA9uj57ikv"
     },
     {
       "album": {
@@ -349,7 +458,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 202447,
       "name": "Chameni Omorfia",
       "url": "https://open.spotify.com/track/4VEuBha11JwqAleHVwglg9"
@@ -378,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/58bUtwE37eSDDpYKqRmWZ8"
+      },
+      "artists": [
+        {
+          "name": "Kid Moxie",
+          "url": "https://open.spotify.com/artist/4AK5FOk3Q4pkQV83DvYHJa"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 223858,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/07fhRBiGb22T2enFsSs9p8"
+    },
+    {
+      "album": {
         "name": "Daddy",
         "url": "https://open.spotify.com/album/2Gtk7ccV2tgVM6e8At7NYZ"
       },
@@ -389,10 +516,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 187031,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/4KplXO3HmXJUV6wsbEqeef"
+    },
+    {
+      "album": {
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/3jZVm8yUGb2x3YwoYPYjcr"
+      },
+      "artists": [
+        {
+          "name": "Chrystelina",
+          "url": "https://open.spotify.com/artist/6QNaYdxuIulAq3M61FWAZ0"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137547,
+      "name": "Dance Moves",
+      "url": "https://open.spotify.com/track/1RgaiNKzEmGX8slBbh2v8u"
     },
     {
       "album": {
@@ -407,7 +552,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2023-02-01",
       "duration_ms": 214276,
       "name": "De Me Xeris",
       "url": "https://open.spotify.com/track/1mLSesJyIdLBWt3ZgEPEeh"
@@ -522,6 +667,32 @@
     },
     {
       "album": {
+        "name": "Tou Erota Kai Tis Ksenitias (Live at Megaron Athens Concert Hall, Athens September 2008)",
+        "url": "https://open.spotify.com/album/47lySn3qePKXW0w6pMIIWp"
+      },
+      "artists": [
+        {
+          "name": "Glykeria",
+          "url": "https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f"
+        },
+        {
+          "name": "Estoudiantina Neas Ionias",
+          "url": "https://open.spotify.com/artist/5bf6WOGNxBiLPVyGhPdagT"
+        },
+        {
+          "name": "Andreas Katsigiannis",
+          "url": "https://open.spotify.com/artist/3kXPkfBvEgfGOWK6OfaP12"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 185211,
+      "name": "Eche Geia Panagia - Live at Megaron Athens Concert Hall, Athens September 2008",
+      "url": "https://open.spotify.com/track/5MjzwlJkrureslAKCAIoQq"
+    },
+    {
+      "album": {
         "name": "Ecstasy",
         "url": "https://open.spotify.com/album/3fpEf38JnAE7nZOL6N6ERn"
       },
@@ -551,10 +722,36 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 210612,
       "name": "Efyges",
       "url": "https://open.spotify.com/track/5qfANAdUHQZ6FwVNF4VKjB"
+    },
+    {
+      "album": {
+        "name": "Ego Esena (Original TV Series \"Mavro Rodo\" Soundtrack)",
+        "url": "https://open.spotify.com/album/24nJugIlrHaBHncKi9L9QW"
+      },
+      "artists": [
+        {
+          "name": "Evridiki",
+          "url": "https://open.spotify.com/artist/0WxbpUPH6SN75TSFAj3MAa"
+        },
+        {
+          "name": "Miltos Pashalidis",
+          "url": "https://open.spotify.com/artist/6VzFvK9yRRZkT0L8kMmOXV"
+        },
+        {
+          "name": "George Theofanous",
+          "url": "https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256635,
+      "name": "Ego Esena - Original Tv Series \"Mavro Rodo\" Soundtrack",
+      "url": "https://open.spotify.com/track/5FBDgXklxcAKm3Gs3gjLvz"
     },
     {
       "album": {
@@ -573,7 +770,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 186885,
       "name": "Egw & Esy",
       "url": "https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ"
@@ -643,7 +840,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 170550,
       "name": "El Telephone",
       "url": "https://open.spotify.com/track/1zB8iM97STLlKaweWhtasO"
@@ -681,10 +878,28 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 264000,
       "name": "El Telephone - Remix",
       "url": "https://open.spotify.com/track/5uKsIyOxbFPop0sZ7LmI9J"
+    },
+    {
+      "album": {
+        "name": "Ela",
+        "url": "https://open.spotify.com/album/78osnynpxNHpfdParu3Hzi"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182484,
+      "name": "Ela",
+      "url": "https://open.spotify.com/track/70HQXHPuU7EyUroOYkOzdk"
     },
     {
       "album": {
@@ -699,10 +914,32 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 168000,
       "name": "Ela",
       "url": "https://open.spotify.com/track/2tq1vcOwuhgSuq1QEdLKjz"
+    },
+    {
+      "album": {
+        "name": "Ela Konta",
+        "url": "https://open.spotify.com/album/1xmUgZ1rmtSnuH2RDIeFca"
+      },
+      "artists": [
+        {
+          "name": "Dimitra Galani",
+          "url": "https://open.spotify.com/artist/3nV0kq59WJOJRLNWpFR1m6"
+        },
+        {
+          "name": "Serafeim Giannakopoulos",
+          "url": "https://open.spotify.com/artist/6foCmDM8pdtzPzoWhR6W5z"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248125,
+      "name": "Ela Konta",
+      "url": "https://open.spotify.com/track/69z9falAGP4S63820LOqpC"
     },
     {
       "album": {
@@ -721,7 +958,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": "2023-02-01",
       "duration_ms": 223195,
       "name": "Eleni Ek Syrou",
       "url": "https://open.spotify.com/track/5BWPeGFyKhT0h8k3VHK2U6"
@@ -779,7 +1016,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 133269,
       "name": "EPIC",
       "url": "https://open.spotify.com/track/3hOPbPgGzrMdR5ivmbqt63"
@@ -801,6 +1038,24 @@
       "duration_ms": 204787,
       "name": "Exapsi",
       "url": "https://open.spotify.com/track/6Gakwv04dz2n2zqBAdoDHI"
+    },
+    {
+      "album": {
+        "name": "Fevgo",
+        "url": "https://open.spotify.com/album/5th9nWxl9r4s8hFAXLN8qd"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175437,
+      "name": "Fevgo",
+      "url": "https://open.spotify.com/track/7B3SRuWATy7PK8KURvkw2l"
     },
     {
       "album": {
@@ -873,10 +1128,68 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": null,
       "duration_ms": 174972,
       "name": "Foti\u00e1 - Evangelia x Eleni Foureira",
       "url": "https://open.spotify.com/track/6s21oobR6fHbSNVViAzwBt"
+    },
+    {
+      "album": {
+        "name": "Foul",
+        "url": "https://open.spotify.com/album/24WEOsgTq9EQtt93NGMzfC"
+      },
+      "artists": [
+        {
+          "name": "Antonella",
+          "url": "https://open.spotify.com/artist/0YxYR1RIIJE7laQUtAYPMx"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177540,
+      "name": "Foul",
+      "url": "https://open.spotify.com/track/3qrUZUzacU2dNsPeqXmZKp"
+    },
+    {
+      "album": {
+        "name": "Freestyler",
+        "url": "https://open.spotify.com/album/0tnpHYoi8Z1ZQ44bTCRqWq"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        },
+        {
+          "name": "Kareem Kalokoh",
+          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207817,
+      "name": "Freestyler",
+      "url": "https://open.spotify.com/track/68MeOQYE45Phu5GGgyG6Zx"
+    },
+    {
+      "album": {
+        "name": "Gazoza",
+        "url": "https://open.spotify.com/album/52pJhLdz8Le17VGyDOzT5h"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Gazoza",
+      "url": "https://open.spotify.com/track/3wPvs8nWjtDhOApqPIdf0y"
     },
     {
       "album": {
@@ -1051,10 +1364,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 259497,
       "name": "Giati Glikia Mou Kles",
       "url": "https://open.spotify.com/track/6Uu6XrzRRXZpfoW0gz6L23"
+    },
+    {
+      "album": {
+        "name": "Haramata",
+        "url": "https://open.spotify.com/album/2dKt5Zwj1nNiOb0ncJSE6W"
+      },
+      "artists": [
+        {
+          "name": "Klavdia",
+          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Haramata",
+      "url": "https://open.spotify.com/track/2q2cxmczUo4AAZXmjeNzMk"
     },
     {
       "album": {
@@ -1091,7 +1422,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 174189,
       "name": "Honeymoon Song",
       "url": "https://open.spotify.com/track/3LkJRemnyJueuKj7LiXBS0"
@@ -1167,10 +1498,28 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 236637,
       "name": "I Syntagi",
       "url": "https://open.spotify.com/track/21okYnWFKfK243nKXYX71Q"
+    },
+    {
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/0Wf3Bejp9FmPQnlb7Mp20b"
+      },
+      "artists": [
+        {
+          "name": "Sarah P.",
+          "url": "https://open.spotify.com/artist/5et5yif2ZImEGYYgBxbQvr"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 247728,
+      "name": "ICNSG",
+      "url": "https://open.spotify.com/track/2RW0HHT3VfdgtyunaWeU6V"
     },
     {
       "album": {
@@ -1185,7 +1534,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 238564,
       "name": "Ilie Mou Kai Fotia",
       "url": "https://open.spotify.com/track/5eGt2VX7oHnrbKUhbDIXn8"
@@ -1279,6 +1628,24 @@
       "duration_ms": 168600,
       "name": "Johny",
       "url": "https://open.spotify.com/track/72VRTJejma0vLpj2zdpjI4"
+    },
+    {
+      "album": {
+        "name": "Kala Xristougenna",
+        "url": "https://open.spotify.com/album/0iZL1szq9FfZPTaNw6jkQR"
+      },
+      "artists": [
+        {
+          "name": "Daphne Lawrence",
+          "url": "https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186315,
+      "name": "Kala Xristougenna",
+      "url": "https://open.spotify.com/track/6wZWrxiurnSoMuZRVDowtA"
     },
     {
       "album": {
@@ -1398,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "kenouria nisia",
+        "url": "https://open.spotify.com/album/5UVlRYFklDkElO1iz1pVFI"
+      },
+      "artists": [
+        {
+          "name": "Nalyssa Green",
+          "url": "https://open.spotify.com/artist/68PM4Vpd3dwIQfEd2z1mZY"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 171550,
+      "name": "kenouria nisia",
+      "url": "https://open.spotify.com/track/2ji5Ff76AxmJyBG0Z6XgYl"
+    },
+    {
+      "album": {
         "name": "Ki As Ehis Figi",
         "url": "https://open.spotify.com/album/2Cltoh1PPKsrrMHWwqSIzN"
       },
@@ -1413,6 +1798,24 @@
       "duration_ms": 192824,
       "name": "Ki As Ehis Figi",
       "url": "https://open.spotify.com/track/3wv3UGKZuJ3IziGonyG2SK"
+    },
+    {
+      "album": {
+        "name": "Pillow Shifter",
+        "url": "https://open.spotify.com/album/0nPvChMRdZ7WmVaNi3e1hi"
+      },
+      "artists": [
+        {
+          "name": "Demetria",
+          "url": "https://open.spotify.com/artist/2Jo5uZWDLKn4Gse6eftZCZ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 153711,
+      "name": "Kids Are Chasing The Fox",
+      "url": "https://open.spotify.com/track/5Lalng2XfY5QB4ocplKB42"
     },
     {
       "album": {
@@ -1612,6 +2015,28 @@
     },
     {
       "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/1mMDVe0zMBCsFkU8yUFFoE"
+      },
+      "artists": [
+        {
+          "name": "Souled Out",
+          "url": "https://open.spotify.com/artist/5aqOq1ieNC0t7bbZ31iV8W"
+        },
+        {
+          "name": "Alexandra Sieti",
+          "url": "https://open.spotify.com/artist/5BEgerUS0n7NHBcoP7VUmX"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 303271,
+      "name": "Let Me In Your Heart",
+      "url": "https://open.spotify.com/track/69SP3yM5zbCCBhw4YFfxOC"
+    },
+    {
+      "album": {
         "name": "Ligo Akomi",
         "url": "https://open.spotify.com/album/3NiDpeO4FzF68IeKNJBdow"
       },
@@ -1623,7 +2048,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2023-02-01",
       "duration_ms": 190000,
       "name": "Ligo Akomi",
       "url": "https://open.spotify.com/track/6acFmxyi0YqHWZ3oKaCfwM"
@@ -1641,7 +2066,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 166000,
       "name": "Ligo Ligo",
       "url": "https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ"
@@ -1677,10 +2102,28 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 202948,
       "name": "MA TI NA",
       "url": "https://open.spotify.com/track/6GU6ntIPHooo6lOpNmJSrI"
+    },
+    {
+      "album": {
+        "name": "Maritsa i Smirnia",
+        "url": "https://open.spotify.com/album/0GQ2OzUlVXug5XY8onBxNO"
+      },
+      "artists": [
+        {
+          "name": "Areti Ketime",
+          "url": "https://open.spotify.com/artist/1K4gKlQvP8Ms5pka1EexI5"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282197,
+      "name": "Maritsa i Smirnia",
+      "url": "https://open.spotify.com/track/1fKZdEGTOqr3BAePNk36eV"
     },
     {
       "album": {
@@ -1707,7 +2150,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 321322,
       "name": "Matomeno Oniro (Secret Love) - DJ Ravin Remix New Edit",
       "url": "https://open.spotify.com/track/5m13zCWghbsWR902gyZO9y"
@@ -1747,10 +2190,32 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 269713,
       "name": "Mavro Rodo - Original TV Series \"Mavro Rodo\" Soundtrack",
       "url": "https://open.spotify.com/track/6UOmb5qYkKc99sQYOiuOYt"
+    },
+    {
+      "album": {
+        "name": "Me Ta Matia Kleista",
+        "url": "https://open.spotify.com/album/0O2ZLUDiCOhUdc13b7kIlQ"
+      },
+      "artists": [
+        {
+          "name": "Giota Negka",
+          "url": "https://open.spotify.com/artist/3no2tb4sxgM2xJPRa1ZVhQ"
+        },
+        {
+          "name": "V-Sag",
+          "url": "https://open.spotify.com/artist/0flc0uF9XBF3OTctmMRKSX"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314248,
+      "name": "Me Ta Matia Kleista",
+      "url": "https://open.spotify.com/track/0C9T51LdUf2sIDYrpWbSoZ"
     },
     {
       "album": {
@@ -1765,10 +2230,50 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 211615,
       "name": "Me Ta Matia Sou To Leo",
       "url": "https://open.spotify.com/track/7lyHQwF5hx9yHnmjhWFk9y"
+    },
+    {
+      "album": {
+        "name": "Melagholika",
+        "url": "https://open.spotify.com/album/7iBZlDmH59jG0mvapYqIGf"
+      },
+      "artists": [
+        {
+          "name": "Barbara Argyrou",
+          "url": "https://open.spotify.com/artist/4dKyyPIMmuepbWWTaOVRYK"
+        },
+        {
+          "name": "Thodoris Marantinis",
+          "url": "https://open.spotify.com/artist/574vVdmmtmMh8kLgAEedIK"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186260,
+      "name": "Melagholika",
+      "url": "https://open.spotify.com/track/3UHrVcONPl0igLtVoChWuo"
+    },
+    {
+      "album": {
+        "name": "Mesanichta",
+        "url": "https://open.spotify.com/album/0W2f1zuF3yq4oZT9rchTdw"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/4fTmQzW49oi5GGJOpPjuNy"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Mesanichta",
+      "url": "https://open.spotify.com/track/4gCwtzZynIyD3WkHRXDIam"
     },
     {
       "album": {
@@ -1823,7 +2328,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 181500,
       "name": "Mia Sou Kai Mia Mou",
       "url": "https://open.spotify.com/track/1mytfEnTdpbxAwXF8K38BF"
@@ -1863,7 +2368,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 211230,
       "name": "Mia Thalassa Mikri",
       "url": "https://open.spotify.com/track/1MofSsyiKjpjqWxEvgVra3"
@@ -1892,6 +2397,28 @@
     },
     {
       "album": {
+        "name": "Min Alakseis Gia Mena (Sarah P. Remix)",
+        "url": "https://open.spotify.com/album/7qBnLsTPMv6tXu7HDyNVqC"
+      },
+      "artists": [
+        {
+          "name": "Joanna Drigo",
+          "url": "https://open.spotify.com/artist/4Q8Px6oPMydDrQLYplbonh"
+        },
+        {
+          "name": "Sarah P.",
+          "url": "https://open.spotify.com/artist/5et5yif2ZImEGYYgBxbQvr"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235796,
+      "name": "Min Alakseis Gia Mena - Sarah P. Remix",
+      "url": "https://open.spotify.com/track/3vDyTwBUd99Qi6Gr4sF5Mx"
+    },
+    {
+      "album": {
         "name": "Mon Fr\u00e8re Le Soleil",
         "url": "https://open.spotify.com/album/6W9ypIv0ZCWgMbQA4cOl1Q"
       },
@@ -1907,7 +2434,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 182075,
       "name": "Mon Fr\u00e8re Le Soleil",
       "url": "https://open.spotify.com/track/638snIif5IvpnbFuShGSc5"
@@ -1983,7 +2510,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 167761,
       "name": "Mute",
       "url": "https://open.spotify.com/track/3SgNHe7ts7nDjG6ECZ9Oyg"
@@ -2008,6 +2535,60 @@
     },
     {
       "album": {
+        "name": "Mystika S' Agapao",
+        "url": "https://open.spotify.com/album/23giN22VVrCRSCIOloZ7UB"
+      },
+      "artists": [
+        {
+          "name": "Xryspa",
+          "url": "https://open.spotify.com/artist/6lJ3pYm8pC3rC7tfKE5PNU"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233959,
+      "name": "Mystika S' Agapao",
+      "url": "https://open.spotify.com/track/326wv766oYVX04VosaoIAH"
+    },
+    {
+      "album": {
+        "name": "Mystiko",
+        "url": "https://open.spotify.com/album/5ruMMEECIHyMLj2geMcKi3"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Mystiko",
+      "url": "https://open.spotify.com/track/7k2h3IHuFUQLclllRPRKTZ"
+    },
+    {
+      "album": {
+        "name": "Mythistorima",
+        "url": "https://open.spotify.com/album/3dqx8Sbu9PpcSn4diL9QPr"
+      },
+      "artists": [
+        {
+          "name": "Myrto Vasiliou",
+          "url": "https://open.spotify.com/artist/33cGsymGVdgZ5Qr5ppW8fg"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 192187,
+      "name": "Mythistorima",
+      "url": "https://open.spotify.com/track/5QU87cnpIJZy9MIrPpKR9z"
+    },
+    {
+      "album": {
         "name": "Taxidi Astriko",
         "url": "https://open.spotify.com/album/2hIcrz91mewNvDufxl5y6r"
       },
@@ -2023,6 +2604,28 @@
       "duration_ms": 197000,
       "name": "Ne Men Alla Den",
       "url": "https://open.spotify.com/track/5sUR273OqDdFuzaz1EoX6U"
+    },
+    {
+      "album": {
+        "name": "Live in Berlin - Milano - Athens",
+        "url": "https://open.spotify.com/album/4mzpg1s4X6LVmqJuugqOd6"
+      },
+      "artists": [
+        {
+          "name": "Melentini",
+          "url": "https://open.spotify.com/artist/390cJNBBUg8SxucFvbAXbj"
+        },
+        {
+          "name": "The Running Blue Orchestra",
+          "url": "https://open.spotify.com/artist/4Mvi9gsQJ2XHjxZhPTpUZv"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 268000,
+      "name": "Nightkisser",
+      "url": "https://open.spotify.com/track/45FSaNvSXMtsFk7bqeu53U"
     },
     {
       "album": {
@@ -2121,7 +2724,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 216063,
       "name": "O Filos",
       "url": "https://open.spotify.com/track/7vDv7I1Da21IR6OTHsqhb0"
@@ -2146,6 +2749,28 @@
     },
     {
       "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/5hqZJensJuD1lNAmrFYyD4"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        },
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159996,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/259d0kioJeWhOXnNBMyV0B"
+    },
+    {
+      "album": {
         "name": "Ola Sta Katalogizo",
         "url": "https://open.spotify.com/album/4St2Ptuwz2UeKa0ZRpOOKM"
       },
@@ -2161,7 +2786,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 189599,
       "name": "Ola Sta Katalogizo",
       "url": "https://open.spotify.com/track/27eXo0gym6ybdC54CEvJFv"
@@ -2237,7 +2862,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 248997,
       "name": "Opoios Zitise Signomi",
       "url": "https://open.spotify.com/track/2lAet68uRgYiFWuUmgnICk"
@@ -2295,6 +2920,24 @@
       "duration_ms": 236489,
       "name": "Otan Tragoudao",
       "url": "https://open.spotify.com/track/12bDSpE5SnocDZNTfH4Kn9"
+    },
+    {
+      "album": {
+        "name": "XITANA",
+        "url": "https://open.spotify.com/album/6FyMoFw3svHgWHucDofviI"
+      },
+      "artists": [
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 168510,
+      "name": "OXI",
+      "url": "https://open.spotify.com/track/4jXE8lDzGT3RqNJWpNiAJJ"
     },
     {
       "album": {
@@ -2385,7 +3028,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 177626,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/4hzwKDLnnJQVEDZCV7gwCt"
@@ -2421,7 +3064,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 156088,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1AnKPJBNBvgezzKso7NmWy"
@@ -2530,6 +3173,28 @@
     },
     {
       "album": {
+        "name": "Pes",
+        "url": "https://open.spotify.com/album/5IIG4SC1JM2g46NZXqHPkg"
+      },
+      "artists": [
+        {
+          "name": "Elena Tsagrinou",
+          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
+        },
+        {
+          "name": "Nore Pierre",
+          "url": "https://open.spotify.com/artist/5T1jkoAvwvd4ybx9f5VhVp"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Pes",
+      "url": "https://open.spotify.com/track/0KufUZyFjCKsHX0eW0hYQZ"
+    },
+    {
+      "album": {
         "name": "Petalouda",
         "url": "https://open.spotify.com/album/2lXBiIwcCUNwGHdIcXg2SW"
       },
@@ -2585,6 +3250,42 @@
       "duration_ms": 229938,
       "name": "Petra",
       "url": "https://open.spotify.com/track/1FrZIMZWk9IaSYikIcD9uT"
+    },
+    {
+      "album": {
+        "name": "Piano Fotia",
+        "url": "https://open.spotify.com/album/4EKtwtneaH8H8pI2bxA2eI"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Piano Fotia",
+      "url": "https://open.spotify.com/track/6aWwQT7vYPzrGvXYZnuqi2"
+    },
+    {
+      "album": {
+        "name": "Picante",
+        "url": "https://open.spotify.com/album/3Uj6yNci1ZdscuTJPLZN4f"
+      },
+      "artists": [
+        {
+          "name": "Asimina",
+          "url": "https://open.spotify.com/artist/0Wf7cvSHrt1IK893vwVL2x"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 158400,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/7x4ox3QAqHSyoR11SQYN5p"
     },
     {
       "album": {
@@ -2689,10 +3390,36 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2023-02-01",
       "duration_ms": 196330,
       "name": "Poso Thelo",
       "url": "https://open.spotify.com/track/2vM0ldVUQGEXYqfvnttnNE"
+    },
+    {
+      "album": {
+        "name": "Prepei Na Figei",
+        "url": "https://open.spotify.com/album/1RvvRAXTIgkQaM1t7rQInG"
+      },
+      "artists": [
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        },
+        {
+          "name": "Solmeister",
+          "url": "https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48"
+        },
+        {
+          "name": "dPans",
+          "url": "https://open.spotify.com/artist/3wz93gsh1Vj23McptGxzTm"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Prepei Na Figei",
+      "url": "https://open.spotify.com/track/6F9InZD2ObLFkO0nGOGddI"
     },
     {
       "album": {
@@ -2725,7 +3452,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 168000,
       "name": "Psychedelia",
       "url": "https://open.spotify.com/track/4x2Bfd3GMHcLhFSZ85hXgh"
@@ -2747,6 +3474,28 @@
       "duration_ms": 195718,
       "name": "Rikse Me",
       "url": "https://open.spotify.com/track/3ZrWzr32QXVkMfXwf1Ds8w"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5riob4vB5yHDiEzHZ6M1lu"
+      },
+      "artists": [
+        {
+          "name": "Expe",
+          "url": "https://open.spotify.com/artist/3kQYyGOJygTESAPFl95Us1"
+        },
+        {
+          "name": "Reddy A",
+          "url": "https://open.spotify.com/artist/3hBNAdzXf61vMSYZW3KLGh"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 204651,
+      "name": "Roz",
+      "url": "https://open.spotify.com/track/7oaEXtXFSqTr9iBaPFQexO"
     },
     {
       "album": {
@@ -2797,7 +3546,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2023-02-01",
       "duration_ms": 173653,
       "name": "Se Kano Kefi",
       "url": "https://open.spotify.com/track/2SxlaMj4Ro3pBKxVqEwyhi"
@@ -2869,7 +3618,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2023-01-04",
       "duration_ms": 208000,
       "name": "Sikose Kyma",
       "url": "https://open.spotify.com/track/3CqvFoB3EBIhadBzSyS1e1"
@@ -2948,6 +3697,32 @@
     },
     {
       "album": {
+        "name": "Stin Aiora Tou Hronou",
+        "url": "https://open.spotify.com/album/0ZkJL5Zn6s3C09QUuq1zYe"
+      },
+      "artists": [
+        {
+          "name": "Melina Kana",
+          "url": "https://open.spotify.com/artist/77Guu62HL3rXrjqYJKhyVT"
+        },
+        {
+          "name": "Stavros Siolas",
+          "url": "https://open.spotify.com/artist/4xhGnzy0l7emjfvzK867iN"
+        },
+        {
+          "name": "Ilias Mastoris",
+          "url": "https://open.spotify.com/artist/5djti6hHGtKRCA2vUJWsy8"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195447,
+      "name": "Stin Aiora Tou Hronou",
+      "url": "https://open.spotify.com/track/5LtDty5n0E7sHzn1CTEzy3"
+    },
+    {
+      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/71jEPw5AUEKRmU15vvDLNJ"
       },
@@ -2977,7 +3752,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 166124,
       "name": "Ta Dilina",
       "url": "https://open.spotify.com/track/40RDFMgrlPvAnkx2JnmvNG"
@@ -3021,6 +3796,28 @@
       "duration_ms": 187971,
       "name": "Ta Kalytera Paidia",
       "url": "https://open.spotify.com/track/1Pl0khFV0USrnZevOC0dDE"
+    },
+    {
+      "album": {
+        "name": "Ta Thavmata (Original Tv Series \"Sasmos\" Soundtrack)",
+        "url": "https://open.spotify.com/album/44Q2hICl0Iau19ySjy0rbt"
+      },
+      "artists": [
+        {
+          "name": "Melina Aslanidou",
+          "url": "https://open.spotify.com/artist/0q6umZk2e14mheMLEQLFCJ"
+        },
+        {
+          "name": "Nicos Terzis",
+          "url": "https://open.spotify.com/artist/2eHBk2XpfdzxdHytj6oK9j"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225993,
+      "name": "Ta Thavmata - Original Tv Series \"Sasmos\" Soundtrack",
+      "url": "https://open.spotify.com/track/7DO971Fj9KbJMsWbpaSvix"
     },
     {
       "album": {
@@ -3078,6 +3875,28 @@
     },
     {
       "album": {
+        "name": "Tha Ziso",
+        "url": "https://open.spotify.com/album/4NLUalEZXvs0ZopdNjrET6"
+      },
+      "artists": [
+        {
+          "name": "Katerina Korou",
+          "url": "https://open.spotify.com/artist/1Jx5R9z4ED8ewbJpmBQHe8"
+        },
+        {
+          "name": "George Dalaras",
+          "url": "https://open.spotify.com/artist/0eLU3EgFDZOFgd2Dwalfwo"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186458,
+      "name": "Tha Ziso",
+      "url": "https://open.spotify.com/track/0vFydJPhpl4IhfLxBTNFVf"
+    },
+    {
+      "album": {
         "name": "The Break",
         "url": "https://open.spotify.com/album/5FzGZk5IFH8u4ff4rxrt6h"
       },
@@ -3107,7 +3926,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 223221,
       "name": "Thee Mou Kane",
       "url": "https://open.spotify.com/track/3tJvrn9qPMkl6hyBzsxdIC"
@@ -3125,7 +3944,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 196592,
       "name": "Thelei O Erotas Aera",
       "url": "https://open.spotify.com/track/3E64Ogv7D9mZiqjr5kDlXd"
@@ -3179,10 +3998,54 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 191477,
       "name": "Tilefono",
       "url": "https://open.spotify.com/track/7bohfOpcSFE5cE4zBpt0ST"
+    },
+    {
+      "album": {
+        "name": "Tis Gis To Alati",
+        "url": "https://open.spotify.com/album/6TfQjrxmfctE3n3N0Cd7nN"
+      },
+      "artists": [
+        {
+          "name": "Xenia Gargali",
+          "url": "https://open.spotify.com/artist/1ei2KEiexDEehzyu4oEddP"
+        },
+        {
+          "name": "Periklis Biskinis",
+          "url": "https://open.spotify.com/artist/4ZmLaIa9DllCHlLdmfZpd3"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199844,
+      "name": "Tis Gis To Alati",
+      "url": "https://open.spotify.com/track/7Cm5SaH6PwQD0Sr2t1iAYp"
+    },
+    {
+      "album": {
+        "name": "To Diko Sou Fili",
+        "url": "https://open.spotify.com/album/0qasjAHspSx9ytAiLZZluA"
+      },
+      "artists": [
+        {
+          "name": "Valia Tsirgioti",
+          "url": "https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki"
+        },
+        {
+          "name": "Giorgos Stavrianos",
+          "url": "https://open.spotify.com/artist/4jz2sPqjc7xD0IXdOimTqp"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113560,
+      "name": "To Diko Sou Fili",
+      "url": "https://open.spotify.com/track/1Paojxsr9YwVJ1DpclnBxf"
     },
     {
       "album": {
@@ -3248,6 +4111,32 @@
     },
     {
       "album": {
+        "name": "To Noima Tis Zois",
+        "url": "https://open.spotify.com/album/5U7K1A2VSJavDgXE5EmKve"
+      },
+      "artists": [
+        {
+          "name": "Nina Mazani",
+          "url": "https://open.spotify.com/artist/2HYTcCm27ECQVbmyrBxg3f"
+        },
+        {
+          "name": "Christos Stylianou",
+          "url": "https://open.spotify.com/artist/1cEq675wyqjilDH9DR4N8t"
+        },
+        {
+          "name": "Eleni Zioga",
+          "url": "https://open.spotify.com/artist/7Fvk6d6Y4UNQ3f9ZyPkITY"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 210470,
+      "name": "To Noima Tis Zois",
+      "url": "https://open.spotify.com/track/1oVCyyFRKhl7QPjATulJps"
+    },
+    {
+      "album": {
         "name": "To Pas Kala",
         "url": "https://open.spotify.com/album/1QazQVHQVsKZCeMJ9gjrSS"
       },
@@ -3277,7 +4166,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 222373,
       "name": "To Proto Vima",
       "url": "https://open.spotify.com/track/1lVNELKgHoXO6wztvVQzNW"
@@ -3321,6 +4210,24 @@
       "duration_ms": 137624,
       "name": "To tragoudi tou Vageli",
       "url": "https://open.spotify.com/track/7gXHDD6FqwUVsybycAbyJB"
+    },
+    {
+      "album": {
+        "name": "To Horio",
+        "url": "https://open.spotify.com/album/1NPov4omnKKcMKRQVzgUPY"
+      },
+      "artists": [
+        {
+          "name": "Mariza Rizou",
+          "url": "https://open.spotify.com/artist/0YOHWBsXDveoGIFVKHkZ4V"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261045,
+      "name": "Tosa Filia",
+      "url": "https://open.spotify.com/track/77bTzCgvKbLSMj6hSfcjtj"
     },
     {
       "album": {
@@ -3469,7 +4376,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": "2023-02-01",
       "duration_ms": 191471,
       "name": "Up and Away",
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
@@ -3491,6 +4398,24 @@
       "duration_ms": 233069,
       "name": "Vodka Vissino",
       "url": "https://open.spotify.com/track/32pGx4BcNxv16Xtj2vHMsV"
+    },
+    {
+      "album": {
+        "name": "Vradi Hristougenna",
+        "url": "https://open.spotify.com/album/2lgU0cuRLlz83fbHyut1O4"
+      },
+      "artists": [
+        {
+          "name": "Joanne",
+          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147747,
+      "name": "Vradi Hristougenna",
+      "url": "https://open.spotify.com/track/0MtSUNiFWpW7xM5iOJJwmp"
     },
     {
       "album": {
@@ -3621,7 +4546,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 170709,
       "name": "Your Valeria",
       "url": "https://open.spotify.com/track/2gfjlDtmA6vYy7naYTfJ40"

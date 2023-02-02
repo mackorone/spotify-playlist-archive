@@ -1,12 +1,12 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 171147,
+  "num_followers": 191607,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk5NDM4OCwwMDAwMDAwMDgxZWU0MmZhOTFiZGFmZjY4NmUwMjI0NTk4YTkyN2Uz",
+  "snapshot_id": "MTY1OTk5NDM4OCwwMDAwMDAwMDc5Y2QwMTkzN2UzNjhhZGQxOTljNGQ0MzY5NzQwNWU4",
   "tracks": [
     {
       "added_at": "2022-06-20 21:50:22",
@@ -57,38 +57,6 @@
       "url": "https://open.spotify.com/track/6746mUlyXUbMeWzBqMTYEi"
     },
     {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
-    },
-    {
-      "added_at": "2022-06-20 21:50:22",
-      "album": {
-        "name": "Coraz\u00f3n M\u00e1gico",
-        "url": "https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "Coraz\u00f3n M\u00e1gico",
-      "url": "https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf"
-    },
-    {
       "added_at": "2022-01-19 06:00:00",
       "album": {
         "name": "Ojos Cerrados",
@@ -107,6 +75,38 @@
       "duration_ms": 180750,
       "name": "Ojos Cerrados",
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+    },
+    {
+      "added_at": "2022-06-20 21:50:22",
+      "album": {
+        "name": "Coraz\u00f3n M\u00e1gico",
+        "url": "https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Coraz\u00f3n M\u00e1gico",
+      "url": "https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2022-06-20 21:50:22",
@@ -161,22 +161,6 @@
       "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
     },
     {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
       "added_at": "2021-10-12 19:24:04",
       "album": {
         "name": "Sue\u00f1o Y Realidad",
@@ -209,6 +193,86 @@
       "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
+      "added_at": "2022-01-19 06:00:00",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2022-06-20 21:50:22",
+      "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Joan Sebastian Con Mariachi",
+        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 211255,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
+    },
+    {
       "added_at": "2021-10-12 19:24:04",
       "album": {
         "name": "Contigo",
@@ -223,6 +287,38 @@
       "duration_ms": 267333,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2022-01-19 06:00:00",
@@ -247,154 +343,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Joan Sebastian Con Mariachi",
-        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 211255,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
-    },
-    {
-      "added_at": "2022-06-20 21:50:22",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
-      },
-      "artists": [
-        {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -411,18 +359,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis"
         }
       ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -459,6 +407,22 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -471,102 +435,6 @@
       "duration_ms": 157760,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Internacionales Y Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Ven Porque Te Necesito",
-      "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "La Mejor De Todas",
-        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 238236,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -587,6 +455,90 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 238236,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Internacionales Y Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Ven Porque Te Necesito",
+      "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
+      },
+      "artists": [
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Atrevido Y Diferente",
         "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
@@ -603,34 +555,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
+        "name": "La Mejor De Todas",
+        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
       },
       "artists": [
         {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 250026,
-      "name": "Mi Vida Eres T\u00fa",
-      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 231410,
-      "name": "Aquel Lugar",
-      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
+      "duration_ms": 207000,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -651,6 +587,38 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 231410,
+      "name": "Aquel Lugar",
+      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Y Para Siempre ...",
         "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
@@ -667,18 +635,34 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Intimidades",
-        "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
         {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 226280,
-      "name": "Como Una Novela",
-      "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "Mi Vida Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -699,54 +683,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "Due\u00f1o de Ti",
-      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Por El Amor",
-        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Bodas De Enga\u00f1o",
-        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Viernes Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -759,86 +695,6 @@
       "duration_ms": 259240,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 220616,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Un Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -859,34 +715,50 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+        "name": "Intimidades",
+        "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
       },
       "artists": [
         {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+      "duration_ms": 226280,
+      "name": "Como Una Novela",
+      "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
     },
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Acarey Ya Lleg\u00f3",
-        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
       "artists": [
         {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 300773,
-      "name": "Eres Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+      "duration_ms": 220586,
+      "name": "Due\u00f1o de Ti",
+      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -907,18 +779,66 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Te Voy A Amar",
-        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
       },
       "artists": [
         {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 194626,
-      "name": "Enhorabuena",
-      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Bodas De Enga\u00f1o",
+        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Viernes Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Por El Amor",
+        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -935,6 +855,22 @@
       "duration_ms": 248560,
       "name": "Acepto Mi Derrota",
       "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -971,162 +907,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
-      },
-      "artists": [
-        {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Vanidosa",
-        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
-      },
-      "artists": [
-        {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "La Loca",
-      "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "No Me Llames Mas",
-        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 267415,
-      "name": "No Me Llames Mas",
-      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Linea De Oro Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "\u00c9l Soy Yo",
-      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 280120,
-      "name": "Ese Loco Soy Yo",
-      "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Algo De Mi",
-        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Algo De M\u00ed",
-      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+      "duration_ms": 220616,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1147,6 +939,118 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Acarey Ya Lleg\u00f3",
+        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "Eres Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Un Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Te Voy A Amar",
+        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
+      },
+      "artists": [
+        {
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Linea De Oro Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Puras Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
       },
@@ -1163,18 +1067,114 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+        "name": "Vanidosa",
+        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
+      "duration_ms": 254440,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "No Me Llames Mas",
+        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 267415,
+      "name": "No Me Llames Mas",
+      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Algo De Mi",
+        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Algo De M\u00ed",
+      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J"
+      },
+      "artists": [
+        {
+          "name": "Mandingo",
+          "url": "https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Te V\u00ed Con El",
+      "url": "https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 280120,
+      "name": "Ese Loco Soy Yo",
+      "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1211,98 +1211,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J"
-      },
-      "artists": [
-        {
-          "name": "Mandingo",
-          "url": "https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Te V\u00ed Con El",
-      "url": "https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Mi Vida En Vida",
-        "url": "https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "15 Grandes",
-        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
-      },
-      "artists": [
-        {
-          "name": "Diablos Locos",
-          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
-        }
-      ],
-      "duration_ms": 308837,
-      "name": "Si No La Tengo",
-      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Los Felinos",
-        "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
-      },
-      "artists": [
-        {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
-        }
-      ],
-      "duration_ms": 226417,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
+      "duration_ms": 354133,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1327,18 +1247,34 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1",
-        "url": "https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2"
+        "name": "De Mil Maneras",
+        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
       },
       "artists": [
         {
-          "name": "Grupo Abracadabra",
-          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
+          "name": "Sonora Siguaray",
+          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
         }
       ],
-      "duration_ms": 221640,
-      "name": "En Realidad",
-      "url": "https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS"
+      "duration_ms": 246733,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1359,18 +1295,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+        "name": "15 Grandes",
+        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
       },
       "artists": [
         {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+          "name": "Diablos Locos",
+          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
         }
       ],
-      "duration_ms": 207516,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+      "duration_ms": 308837,
+      "name": "Si No La Tengo",
+      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1391,6 +1327,38 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Mi Vida En Vida",
+        "url": "https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207516,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Verano De Amor",
         "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
       },
@@ -1407,18 +1375,66 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "De Mil Maneras",
-        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
+        "name": "Solo Baladas",
+        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
       },
       "artists": [
         {
-          "name": "Sonora Siguaray",
-          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 246733,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
+      "duration_ms": 206000,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Abracadabra",
+          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Los Felinos",
+        "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
+      },
+      "artists": [
+        {
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+        }
+      ],
+      "duration_ms": 226417,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1435,6 +1451,70 @@
       "duration_ms": 186373,
       "name": "Como La Flor - Remastered",
       "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "10 De Coleccion",
+        "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor",
+          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Amor Se Escribe Con Llanto",
+      "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
+      "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 175373,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1471,8 +1551,8 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Solo Baladas",
-        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
       "artists": [
         {
@@ -1480,57 +1560,9 @@
           "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
-      "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "10 De Coleccion",
-        "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
-      },
-      "artists": [
-        {
-          "name": "Guardianes Del Amor",
-          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Amor Se Escribe Con Llanto",
-      "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 175373,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
+      "duration_ms": 192440,
+      "name": "Un Dolor",
+      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1551,70 +1583,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
-    },
-    {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Los Yonic's",
-        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Un Dolor",
-      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Huele A Peligro",
-        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "Huele A Peligro",
-      "url": "https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Cumbia Pa' seguir Bailando",
         "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
       },
@@ -1627,122 +1595,6 @@
       "duration_ms": 289802,
       "name": "Las Amo a Las Dos",
       "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Par De Anillos",
-      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "En La Luna",
-        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
-      },
-      "artists": [
-        {
-          "name": "Los Carlos",
-          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "P\u00eddeme La Luna",
-      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "25 Exitos Vol. 1 (USA)",
-        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
-    },
-    {
-      "added_at": "2022-01-19 06:00:00",
-      "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Te Voy A Amar",
-        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Me Encantar\u00eda",
-      "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1763,8 +1615,24 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Par De Anillos",
+      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Huele A Peligro",
+        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
       },
       "artists": [
         {
@@ -1772,9 +1640,105 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 225826,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+      "duration_ms": 232480,
+      "name": "Huele A Peligro",
+      "url": "https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f"
+    },
+    {
+      "added_at": "2022-01-19 06:00:00",
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "En La Luna",
+        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
+      },
+      "artists": [
+        {
+          "name": "Los Carlos",
+          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "P\u00eddeme La Luna",
+      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 189013,
+      "name": "La Fuerza Del Destino",
+      "url": "https://open.spotify.com/track/3WjmQylxM3VhcCcajyYGAK"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Yo Vendo Unos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Prefiero Partir",
+      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1791,6 +1755,22 @@
       "duration_ms": 173133,
       "name": "Ultimas Noticias",
       "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Te Voy A Amar",
+        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Me Encantar\u00eda",
+      "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1827,82 +1807,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Mi Cuerpo No Esta Hecho de Metal",
-        "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
+        "name": "25 Exitos Vol. 1 (USA)",
+        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
       },
       "artists": [
         {
-          "name": "Los Titanes de la Salsa",
-          "url": "https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi"
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
         }
       ],
-      "duration_ms": 279591,
-      "name": "Mi Cuerpo No Esta Hecho de Metal",
-      "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 189013,
-      "name": "La Fuerza Del Destino",
-      "url": "https://open.spotify.com/track/3WjmQylxM3VhcCcajyYGAK"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Yo Vendo Unos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Prefiero Partir",
-      "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1919,6 +1835,38 @@
       "duration_ms": 208640,
       "name": "Voy a pintar un coraz\u00f3n",
       "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1955,18 +1903,54 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Mi Cuerpo No Esta Hecho de Metal",
+        "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes de la Salsa",
+          "url": "https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi"
+        }
+      ],
+      "duration_ms": 279591,
+      "name": "Mi Cuerpo No Esta Hecho de Metal",
+      "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
       "artists": [
         {
           "name": "A.B. Quintanilla III Y Los Kumbia Kings",
           "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        },
+        {
+          "name": "Ricardo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+      "duration_ms": 198213,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -2007,34 +1991,54 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "10 Exitos de Oro",
-        "url": "https://open.spotify.com/album/23phgbGY34TFIZ4HgyP1Z8"
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5"
       },
       "artists": [
         {
-          "name": "La Apuesta",
-          "url": "https://open.spotify.com/artist/4fO3o7bcYWTiLssCXfGIkQ"
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
         }
       ],
-      "duration_ms": 242800,
-      "name": "Abrazame y Perdoname",
-      "url": "https://open.spotify.com/track/0w8yx6IabNOKltsP6ABqcM"
+      "duration_ms": 157600,
+      "name": "D\u00e9jenme llorar - Con banda",
+      "url": "https://open.spotify.com/track/6MpWEoDk1S8oJJaEga4DiP"
     },
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
+        "name": "Locos De Amor",
+        "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
       },
       "artists": [
         {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+      "duration_ms": 206146,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
+    },
+    {
+      "added_at": "2022-01-19 06:00:00",
+      "album": {
+        "name": "Cumbia Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k"
     }
   ],
   "unique_name": "Ruleteando",

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Explore the surreal world of Satie, from serene Gymnop\u00e9dies, to gothic dances and poetic songs.",
   "name": "This Is Satie",
-  "published_playlist_ids": [
-    "0eqXU4sXR3D9thr5ggoCdN"
-  ],
   "tracks": [
     {
       "album": {
@@ -1349,7 +1346,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 146933,
       "name": "lll. \"Lent et grave\"",
       "url": "https://open.spotify.com/track/38UZCBQxOhYecdqeXyQbd8"
@@ -2057,6 +2054,28 @@
       "duration_ms": 334466,
       "name": "The dreamy fish",
       "url": "https://open.spotify.com/track/0r02zzxjeM5ThzbL9C4FEj"
+    },
+    {
+      "album": {
+        "name": "Satie: Piano Music",
+        "url": "https://open.spotify.com/album/3CmLsfOzUmgp4SlDFTDAA0"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Peter Dickinson",
+          "url": "https://open.spotify.com/artist/2rKifrEG0KeKOqiKzh4nG6"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145973,
+      "name": "Trois Gymnop\u00e9dies: lll. \"Lent et grave\"",
+      "url": "https://open.spotify.com/track/3VHGrf79W67AG7mN6lqC5W"
     },
     {
       "album": {

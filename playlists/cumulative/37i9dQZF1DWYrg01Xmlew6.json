@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il meglio da Napoli e dalla scena campana. Cover: MV Killa",
+  "description": "Napoli e il meglio della scena campana. Geolier in cover.",
   "name": "Int 'o Rione",
-  "published_playlist_ids": [
-    "24YJoDhwO3164C86soW14C"
-  ],
   "tracks": [
     {
       "album": {
@@ -147,7 +144,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 173790,
       "name": "Ammor Malat",
       "url": "https://open.spotify.com/track/10B0i3T2S9gyKWGgA80zd4"
@@ -195,6 +192,36 @@
       "duration_ms": 135116,
       "name": "BCN",
       "url": "https://open.spotify.com/track/4ZgHvRgiUoXyJAg6Zkb96b"
+    },
+    {
+      "album": {
+        "name": "DJUNGLE UNCHAINED",
+        "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169239,
+      "name": "BENJAMINS (feat. MV Killa, Yung Snapp, Lele Blade)",
+      "url": "https://open.spotify.com/track/5fevLKhPKHtyJOtaL9DF67"
     },
     {
       "album": {
@@ -431,7 +458,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 144839,
       "name": "CHI DIO",
       "url": "https://open.spotify.com/track/0wDA1UIKeUhelqefsrqYhe"
@@ -566,6 +593,24 @@
     },
     {
       "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+    },
+    {
+      "album": {
         "name": "Cuore",
         "url": "https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY"
       },
@@ -629,7 +674,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 183532,
       "name": "Dedication (con Geolier & anice)",
       "url": "https://open.spotify.com/track/24xrkSLeA7Y6Ypb4ZSXwJ2"
@@ -655,6 +700,24 @@
       "duration_ms": 192146,
       "name": "Desaparecidos (feat. Geolier)",
       "url": "https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI"
+    },
+    {
+      "album": {
+        "name": "HOLLYWOOD",
+        "url": "https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 147112,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/2ZXAls3e016vnrv8udcuar"
     },
     {
       "album": {
@@ -691,7 +754,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 171233,
       "name": "Doje Vote",
       "url": "https://open.spotify.com/track/6PupByuUnrfNgW1XowhNe7"
@@ -751,6 +814,24 @@
       "duration_ms": 219047,
       "name": "DREAM TEAM (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/0KoBFeJ2R330pyRn1DuXde"
+    },
+    {
+      "album": {
+        "name": "Duje Frat",
+        "url": "https://open.spotify.com/album/7w7SAe84aiF4Q5BvPW27ej"
+      },
+      "artists": [
+        {
+          "name": "Enzo Benz",
+          "url": "https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Duje Frat",
+      "url": "https://open.spotify.com/track/18FjOEa8gQ7B2zZSxmyDgf"
     },
     {
       "album": {
@@ -901,7 +982,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 136500,
       "name": "GESCAL",
       "url": "https://open.spotify.com/track/3i9FbuHPNwzERPtut6ZdgW"
@@ -1064,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "HOLLYWOOD",
+        "url": "https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154915,
+      "name": "Ind smman",
+      "url": "https://open.spotify.com/track/3mwYpTNy6uYkyIakEvMcDW"
+    },
+    {
+      "album": {
         "name": "AMBIZIONE",
         "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
       },
@@ -1083,6 +1182,24 @@
       "duration_ms": 163749,
       "name": "Jump (feat. Lazza)",
       "url": "https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP"
+    },
+    {
+      "album": {
+        "name": "JUMPIN'",
+        "url": "https://open.spotify.com/album/3yfmPXs58bqVE1dL90uxWe"
+      },
+      "artists": [
+        {
+          "name": "Kunta",
+          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 141127,
+      "name": "JUMPIN'",
+      "url": "https://open.spotify.com/track/4TWDmtrmkcCMxL4e8CGCoV"
     },
     {
       "album": {
@@ -1109,6 +1226,28 @@
       "duration_ms": 170090,
       "name": "L'immortale",
       "url": "https://open.spotify.com/track/1OnQfsNP3MzaxGsP52siB9"
+    },
+    {
+      "album": {
+        "name": "L'Ultima Notte",
+        "url": "https://open.spotify.com/album/2wttSCQpsWWeIMpYx7hpis"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 157152,
+      "name": "L'Ultima Notte - prod. by Poison Beatz",
+      "url": "https://open.spotify.com/track/1ivHKEnNul3xqXJWbUzZLW"
     },
     {
       "album": {
@@ -1220,6 +1359,32 @@
     },
     {
       "album": {
+        "name": "DJUNGLE UNCHAINED",
+        "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192580,
+      "name": "MACCHINE (feat. Nicola Siciliano, Bresh)",
+      "url": "https://open.spotify.com/track/1ibVG0eXe9WlEPPLiwDD2B"
+    },
+    {
+      "album": {
         "name": "WE THE SQUAD Vol. 1 (SUMMER EDITION)",
         "url": "https://open.spotify.com/album/0Nq6NPJOm3pNG20k5ZY3yk"
       },
@@ -1247,10 +1412,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 211200,
       "name": "MALA (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/0nJNtKjTDOr3uZeRH9ue8W"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162992,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB"
     },
     {
       "album": {
@@ -1295,7 +1478,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 141869,
       "name": "Mi Regalo Mas Bonito (con Peppe Soks & O'Tsunami) - Remix",
       "url": "https://open.spotify.com/track/1YbkSzTkIpQ743BrmdT1wH"
@@ -1362,6 +1545,32 @@
     },
     {
       "album": {
+        "name": "5G",
+        "url": "https://open.spotify.com/album/21r5Lf33P4f2tC6WdKbU9O"
+      },
+      "artists": [
+        {
+          "name": "Big Effe",
+          "url": "https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm"
+        },
+        {
+          "name": "L'Elfo",
+          "url": "https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ"
+        },
+        {
+          "name": "LDO",
+          "url": "https://open.spotify.com/artist/4HT7gWYrsavCY0rq0pyL3Z"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 187094,
+      "name": "MME CHIAMME (feat. L'Elfo)",
+      "url": "https://open.spotify.com/track/205YVtuavBF71s4vkBTiWm"
+    },
+    {
+      "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
       },
@@ -1391,7 +1600,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 172394,
       "name": "Montana",
       "url": "https://open.spotify.com/track/3TNxFSgZDfY5ZkVRDtYlw2"
@@ -1435,6 +1644,46 @@
       "duration_ms": 174000,
       "name": "NA CRIATURA",
       "url": "https://open.spotify.com/track/5T9tDWyGQCkhasjfGVZabC"
+    },
+    {
+      "album": {
+        "name": "LOVE SEASON",
+        "url": "https://open.spotify.com/album/4TAh5dyRd4oTnQDuRzrDPz"
+      },
+      "artists": [
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 150052,
+      "name": "NA STORIA",
+      "url": "https://open.spotify.com/track/4tMC0vUpZnlYLPPukjy9ud"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "NAPO****NO",
+      "url": "https://open.spotify.com/track/4y4wOYV6OJ2hlXeBFzazEO"
     },
     {
       "album": {
@@ -1639,7 +1888,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 185819,
       "name": "O' CIEL PARL",
       "url": "https://open.spotify.com/track/7I0YF083HMLrLVhEo3zp8B"
@@ -1723,7 +1972,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 210493,
       "name": "Over (feat. Geolier)",
       "url": "https://open.spotify.com/track/6OeLYmeWpUwT4n4s7cX201"
@@ -1793,6 +2042,28 @@
       "duration_ms": 229893,
       "name": "P Secondigliano - 2020 Remaster",
       "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
+    },
+    {
+      "album": {
+        "name": "Pane e miseria",
+        "url": "https://open.spotify.com/album/2QGUAAI0ygmYQ6nBjqlydS"
+      },
+      "artists": [
+        {
+          "name": "Luis Add",
+          "url": "https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0"
+        },
+        {
+          "name": "Pino Franzese",
+          "url": "https://open.spotify.com/artist/0l0FOScVlsDoqviZiYCJpo"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177843,
+      "name": "Pane e miseria",
+      "url": "https://open.spotify.com/track/73zmaeL2sXpoc9gsWQ38Fx"
     },
     {
       "album": {
@@ -1927,7 +2198,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 144000,
       "name": "Pelle D'Oca (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w"
@@ -2030,6 +2301,28 @@
     },
     {
       "album": {
+        "name": "RA SUL",
+        "url": "https://open.spotify.com/album/1ACfQpoG9EyNkg5yt8VyFD"
+      },
+      "artists": [
+        {
+          "name": "Vettosi",
+          "url": "https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg"
+        },
+        {
+          "name": "Ceru167",
+          "url": "https://open.spotify.com/artist/3XpabuerK4UATrLQKdE8S3"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 148940,
+      "name": "RA SUL",
+      "url": "https://open.spotify.com/track/0pwcRVxksO8iEAXjWsTd71"
+    },
+    {
+      "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
       },
@@ -2089,6 +2382,24 @@
       "duration_ms": 128274,
       "name": "RFTS 3: Transalp (Freestyle)",
       "url": "https://open.spotify.com/track/2ip5V8poyS2rkYlvfQ0mxw"
+    },
+    {
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "RICCHEZZA",
+      "url": "https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA"
     },
     {
       "album": {
@@ -2155,6 +2466,46 @@
       "duration_ms": 152000,
       "name": "Scale (con Luch\u00e8)",
       "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
+    },
+    {
+      "album": {
+        "name": "Se Campa Na Vota Sola",
+        "url": "https://open.spotify.com/album/7e5Cf2pMJyhODL80E07M2V"
+      },
+      "artists": [
+        {
+          "name": "Priore",
+          "url": "https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 162928,
+      "name": "Se Campa Na Vota Sola",
+      "url": "https://open.spotify.com/track/1PVoh8SoROGd1bOChojG7t"
+    },
+    {
+      "album": {
+        "name": "Shawty (feat. ANNA)",
+        "url": "https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184931,
+      "name": "Shawty (feat. ANNA)",
+      "url": "https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G"
     },
     {
       "album": {
@@ -2234,6 +2585,28 @@
     },
     {
       "album": {
+        "name": "SOLO DIO LO SA",
+        "url": "https://open.spotify.com/album/3fBB5HuMhSYWZxrAhv2IxE"
+      },
+      "artists": [
+        {
+          "name": "SPETRIX",
+          "url": "https://open.spotify.com/artist/5TfIVdYlqjs9RmC4vyAesM"
+        },
+        {
+          "name": "DENEMI",
+          "url": "https://open.spotify.com/artist/5wQUqEJMbi2INC969TwMXt"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 172381,
+      "name": "SOLO DIO LO SA",
+      "url": "https://open.spotify.com/track/1jFTMHOOwSOiudL8UstPsz"
+    },
+    {
+      "album": {
         "name": "SOMEBODY",
         "url": "https://open.spotify.com/album/08H4mUl6AWTV51W1bRkPmp"
       },
@@ -2252,7 +2625,7 @@
     },
     {
       "album": {
-        "name": "SUL IJ E TE",
+        "name": "SUL IJ E TE (con O'Tsunami)",
         "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
       },
       "artists": [
@@ -2269,7 +2642,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136721,
-      "name": "SUL IJ E TE",
+      "name": "SUL IJ E TE (con O'Tsunami)",
       "url": "https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA"
     },
     {
@@ -2493,7 +2866,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 132870,
       "name": "TOP BOY \u2a33 (con GEOLIER)",
       "url": "https://open.spotify.com/track/6sCcJIxOPP7GIKFGzDnYDu"
@@ -2615,7 +2988,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 152608,
       "name": "TU TE NE VAI",
       "url": "https://open.spotify.com/track/2JMQnaRl0Vr4XFbVYGmKZ5"
@@ -2727,7 +3100,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 141000,
       "name": "VIENI",
       "url": "https://open.spotify.com/track/6ga53DHuFADei7Y0onoWUd"
@@ -2807,6 +3180,28 @@
       "duration_ms": 77454,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/40WehEb4Lu7yItCp7AbNIj"
+    },
+    {
+      "album": {
+        "name": "Welcome To Favelas",
+        "url": "https://open.spotify.com/album/1VPtdhsrRbB0hjfmU7yYHa"
+      },
+      "artists": [
+        {
+          "name": "Speranza",
+          "url": "https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172491,
+      "name": "Welcome To Favelas",
+      "url": "https://open.spotify.com/track/0m0usigRxg1cvBo0ezr0ts"
     },
     {
       "album": {

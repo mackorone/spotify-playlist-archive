@@ -4,7 +4,7 @@
 
 > Add these kid\-friendly stories to your family's bedtime routine!
 
-22 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/3KNIbm1pruvOAr2PRYpsiZ)
+22 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

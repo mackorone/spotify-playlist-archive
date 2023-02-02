@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-29",
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
   "name": "This Is Flo Milli",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -391,7 +390,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-24",
       "duration_ms": 162666,
       "name": "Good",
       "url": "https://open.spotify.com/track/5wwF03ucQEDL2JO6aAUCSi"
@@ -691,6 +690,24 @@
       "duration_ms": 164095,
       "name": "Pay Day (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup"
+    },
+    {
+      "album": {
+        "name": "PBC",
+        "url": "https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154510,
+      "name": "PBC",
+      "url": "https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU"
     },
     {
       "album": {

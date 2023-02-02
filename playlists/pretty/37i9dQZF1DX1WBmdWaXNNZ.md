@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,303 likes - 57 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,904 likes - 57 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 56 | [Comedy \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/track/55ACw2lzo3PvmuzRmoYVVQ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Comedy \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/album/39Iq6BG49jqLDli2On1ttE) | 3:54 |
 | 57 | [Nomad](https://open.spotify.com/track/753sRMieYWBC6HGodwtkjI) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:24 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDRmNGJlMGI3OTNiNjI1NTVhNzk0MDAzZTczMjkxYTRi`
+Snapshot ID: `MTY3MTQ0MDQwMCwwMDAwMDAwMDMxMWUwNTgwYzgxYWYxOTY3YzM2NGEwZGQ2NThhMjEw`

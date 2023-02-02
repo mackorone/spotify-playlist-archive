@@ -4,7 +4,7 @@
 
 > Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.
 
-105 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/5pQkVwBe6Vse0qMqKyFUdg)
+105 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

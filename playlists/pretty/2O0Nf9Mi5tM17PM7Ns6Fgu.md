@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2O0Nf9Mi5tM17PM7Ns6Fgu.md) - [plain]
 
 > Orb's official Spotify Gaming playlist! Full of high BPM, kick\-ass melodies and euphoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,891 likes - 38 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

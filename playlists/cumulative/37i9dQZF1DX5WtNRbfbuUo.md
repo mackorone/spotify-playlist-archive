@@ -4,7 +4,7 @@
 
 > Deep Purple´s most essential tracks, all in one playlist.
 
-49 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2U9oTV4HirAKgAy2PA7qyC)
+49 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

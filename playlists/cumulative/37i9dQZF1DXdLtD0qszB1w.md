@@ -4,7 +4,7 @@
 
 > Come together to listen to their greatest hits.
 
-160 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/4lJQt0CCJgJph846bgScJ8)
+160 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

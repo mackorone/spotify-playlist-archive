@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Dimmu Borgir",
   "name": "Black & Dark Metal",
-  "published_playlist_ids": [
-    "64Dcl2uRhYdNKoQxcWR2Lx"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 428181,
       "name": "A Psylacybic Death",
       "url": "https://open.spotify.com/track/3gRVHf7tMrvbAZFMqZIWmD"
@@ -127,7 +124,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 497740,
       "name": "Am Rande der Dunkelheit",
       "url": "https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F"
@@ -257,6 +254,24 @@
       "duration_ms": 256553,
       "name": "Apostle",
       "url": "https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu"
+    },
+    {
+      "album": {
+        "name": "Acts Of God",
+        "url": "https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp"
+      },
+      "artists": [
+        {
+          "name": "Immolation",
+          "url": "https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256553,
+      "name": "Apostle",
+      "url": "https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX"
     },
     {
       "album": {
@@ -541,7 +556,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 380773,
       "name": "Black Flames March",
       "url": "https://open.spotify.com/track/67NmAcOBbppWwqory0sYir"
@@ -595,7 +610,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 170986,
       "name": "Black Moon Rising",
       "url": "https://open.spotify.com/track/07joZaONeftWMUyrXi7F7a"
@@ -966,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Contorted Monuments",
+        "url": "https://open.spotify.com/album/3T2mwxswFJP50QjDFF2jnH"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "Contorted Monuments",
+      "url": "https://open.spotify.com/track/67eZWGltRRLeC6CqGo8OI4"
+    },
+    {
+      "album": {
         "name": "The Tritonus Bell",
         "url": "https://open.spotify.com/album/0x4i70nD0RJfABpctTg7zn"
       },
@@ -1013,7 +1046,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 382293,
       "name": "Cosmic Keys To My Creations",
       "url": "https://open.spotify.com/track/2FtV4xF6bDTesZBgDLSYkH"
@@ -1690,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Faces From Beyond",
+        "url": "https://open.spotify.com/album/07tI8UIDXurBgET99kFZmk"
+      },
+      "artists": [
+        {
+          "name": "Atrocity",
+          "url": "https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 302318,
+      "name": "Faces From Beyond",
+      "url": "https://open.spotify.com/track/5pMGhbV6EDt9kxxzGZm086"
+    },
+    {
+      "album": {
         "name": "Fandens Trall",
         "url": "https://open.spotify.com/album/5qTYxrGgEKprOaz4js9b0m"
       },
@@ -2079,7 +2130,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 258690,
       "name": "God Is Wasted",
       "url": "https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh"
@@ -2555,7 +2606,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 419300,
       "name": "Hybrid Stigmata - The Apostasy - Remixed & Remastered",
       "url": "https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv"
@@ -2757,7 +2808,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 212183,
       "name": "Insides Out",
       "url": "https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP"
@@ -3027,7 +3078,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 351880,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9"
@@ -3103,6 +3154,24 @@
       "duration_ms": 274126,
       "name": "Leviathan",
       "url": "https://open.spotify.com/track/4hnpgtGXHlsfQGHBAfYj4x"
+    },
+    {
+      "album": {
+        "name": "Licht",
+        "url": "https://open.spotify.com/album/5nJZXWFBTmj6lIKSL02da5"
+      },
+      "artists": [
+        {
+          "name": "Fallbrawl",
+          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "Licht",
+      "url": "https://open.spotify.com/track/4ahueYbdIvChYPcSOk0uSr"
     },
     {
       "album": {
@@ -3561,7 +3630,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 285000,
       "name": "Night of the Blasphemy",
       "url": "https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi"
@@ -3633,7 +3702,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-19",
       "duration_ms": 281443,
       "name": "Nosferatu",
       "url": "https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r"
@@ -3687,7 +3756,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 390670,
       "name": "Of Beasts and Worms",
       "url": "https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN"
@@ -3885,7 +3954,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 261693,
       "name": "Pillars Of Mercy",
       "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
@@ -4371,7 +4440,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 278400,
       "name": "Serpent Sermon",
       "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
@@ -5577,7 +5646,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 262961,
       "name": "Wilde Kinder",
       "url": "https://open.spotify.com/track/0bMkybMw2NY63IbKx4TQ4D"

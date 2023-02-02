@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4C0S1zvtcMtk2notLxCL1J.md) - [plain]
 
 > Grand Hustle Gang top picks chosen by Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 41 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 41 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

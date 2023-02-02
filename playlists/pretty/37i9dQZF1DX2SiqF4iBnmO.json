@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 52586,
+  "num_followers": 64547,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMGViOWU3MjljMmU5NjQwNDk0ODQ2MzZkMjJhOTI1N2Ex",
+  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMGJhMTA2YjczN2I2NzUyNDE4ZjFlNDc0ZjczYmJlZTI2",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 211000,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -67,22 +83,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -123,26 +123,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Mr. Davis",
-        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 233087,
-      "name": "I Get the Bag (feat. Migos)",
-      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 323480,
       "name": "Drunk in Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Mr. Davis",
+        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 233087,
+      "name": "I Get the Bag (feat. Migos)",
+      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
+        "name": "The Good Times",
+        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
+      },
+      "artists": [
+        {
+          "name": "Afroman",
+          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Because I Got High",
+      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -215,18 +231,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "The Good Times",
-        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
+        "name": "...But Seriously (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
       },
       "artists": [
         {
-          "name": "Afroman",
-          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 197760,
-      "name": "Because I Got High",
-      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
+      "duration_ms": 275986,
+      "name": "Do You Remember? - 2016 Remaster",
+      "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -251,18 +267,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "...But Seriously (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
+        "name": "56 Nights",
+        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 275986,
-      "name": "Do You Remember? - 2016 Remaster",
-      "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
+      "duration_ms": 244511,
+      "name": "March Madness",
+      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -279,22 +295,6 @@
       "duration_ms": 213373,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "56 Nights",
-        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 244511,
-      "name": "March Madness",
-      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "At Worst...The Best Of Boy George And Culture Club",
-        "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
-      },
-      "artists": [
-        {
-          "name": "Boy George",
-          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "The Crying Game",
-      "url": "https://open.spotify.com/track/3txSqHwGING6J7waJXN8RJ"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Mista Don't Play: Everythangs Workin",
         "url": "https://open.spotify.com/album/71GZEl78TMbuZ1sBbjDGZw"
       },
@@ -459,22 +443,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "In Too Deep - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Upstairs At Eric's",
         "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
@@ -491,18 +459,34 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+        "name": "At Worst...The Best Of Boy George And Culture Club",
+        "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Boy George",
+          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
         }
       ],
-      "duration_ms": 204133,
-      "name": "Peter Piper",
-      "url": "https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA"
+      "duration_ms": 202840,
+      "name": "The Crying Game",
+      "url": "https://open.spotify.com/track/3txSqHwGING6J7waJXN8RJ"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "In Too Deep - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -519,6 +503,22 @@
       "duration_ms": 328515,
       "name": "Don't Stop the Rock",
       "url": "https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Peter Piper",
+      "url": "https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Walking With A Panther",
-        "url": "https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Going Back To Cali",
-      "url": "https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Tha Carter III (MTV Bonus Version)",
         "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
       },
@@ -639,34 +623,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+        "name": "Walking With A Panther",
+        "url": "https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
-      "duration_ms": 291018,
-      "name": "Gosh",
-      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "4 Seasons Of Loneliness",
-      "url": "https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L"
+      "duration_ms": 249266,
+      "name": "Going Back To Cali",
+      "url": "https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -691,6 +659,22 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "4 Seasons Of Loneliness",
+      "url": "https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
         "name": "When Disaster Strikes...",
         "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "On the Nile",
-        "url": "https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i"
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
       "artists": [
         {
-          "name": "The Egyptian Lover",
-          "url": "https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP"
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 319413,
-      "name": "Egypt Egypt",
-      "url": "https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY"
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -739,18 +723,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
+        "name": "On the Nile",
+        "url": "https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i"
       },
       "artists": [
         {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+          "name": "The Egyptian Lover",
+          "url": "https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP"
         }
       ],
-      "duration_ms": 294533,
-      "name": "Clear",
-      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
+      "duration_ms": 319413,
+      "name": "Egypt Egypt",
+      "url": "https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 253178,
       "name": "Spirit (feat. Wale)",
       "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Back in Black",
-        "url": "https://open.spotify.com/album/62Tr4gN8ueTfwcJPaMFWKB"
+        "name": "Chimes",
+        "url": "https://open.spotify.com/album/150JEfGSOGv1Wfk94JcVAn"
       },
       "artists": [
         {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
         }
       ],
-      "duration_ms": 333000,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS"
+      "duration_ms": 211332,
+      "name": "Chimes",
+      "url": "https://open.spotify.com/track/2x1Y1lWgQgTkLFEmcAyu2R"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Chimes",
-        "url": "https://open.spotify.com/album/150JEfGSOGv1Wfk94JcVAn"
+        "name": "Back in Black",
+        "url": "https://open.spotify.com/album/62Tr4gN8ueTfwcJPaMFWKB"
       },
       "artists": [
         {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
         }
       ],
-      "duration_ms": 211332,
-      "name": "Chimes",
-      "url": "https://open.spotify.com/track/2x1Y1lWgQgTkLFEmcAyu2R"
+      "duration_ms": 333000,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS"
     },
     {
       "added_at": "2021-10-20 15:00:00",

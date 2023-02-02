@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "The hottest Anime hits of the 90s. 1990\u5e74\u4ee3\u306e\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3092\u7279\u96c6\u3002Illustration by <a href=\"https://www.instagram.com/hideyasu_moto/\"> Hideyasu Moto</a>",
   "name": "Anime Rewind '90s",
-  "published_playlist_ids": [
-    "4IZcoENbRUH8fIMPWTB7x5"
-  ],
   "tracks": [
     {
       "album": {
@@ -816,6 +813,24 @@
     },
     {
       "album": {
+        "name": "\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093",
+        "url": "https://open.spotify.com/album/6wxH8XD524yDFAWQ8yS65R"
+      },
+      "artists": [
+        {
+          "name": "\u306e\u306f\u3089\u3057\u3093\u306e\u3059\u3051",
+          "url": "https://open.spotify.com/artist/6llUTHSSYBAyRZtZiwj0bm"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "\u30aa\u30e9\u306f\u306b\u3093\u304d\u3082\u306e",
+      "url": "https://open.spotify.com/track/4wXNNWkfD8JLN8AFSCYXvb"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea\u306e\u6b4c -\u5897\u88dc\u76e4-",
         "url": "https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5"
       },
@@ -857,8 +872,8 @@
       },
       "artists": [
         {
-          "name": "Ichirou Mizuki",
-          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
+          "name": "Ichiro Mizuki",
+          "url": "https://open.spotify.com/artist/4uW4SEyjVLBFqGsy9iaD9N"
         }
       ],
       "date_added": "2022-04-10",
@@ -1137,7 +1152,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245826,
       "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
       "url": "https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2"
@@ -1155,7 +1170,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 247746,
       "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
       "url": "https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q"
@@ -1371,7 +1386,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 300133,
       "name": "\u904b\u547d\u306e\u30eb\u30fc\u30ec\u30c3\u30c8\u5efb\u3057\u3066",
       "url": "https://open.spotify.com/track/36LFRJKinf0TWJjHg6SmHg"

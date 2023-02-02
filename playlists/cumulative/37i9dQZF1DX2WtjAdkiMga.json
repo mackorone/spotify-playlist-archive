@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Soft piano lullaby versions of Jazz classics to lull your baby to sleep.",
   "name": "Lullaby Jazz",
-  "published_playlist_ids": [
-    "3lfP3rLqd7IKI2XgczwAsS"
-  ],
   "tracks": [
     {
       "album": {
@@ -116,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Almost Being In Love",
+        "url": "https://open.spotify.com/album/5Ymu1jC3DZjHLdTCtQg8rn"
+      },
+      "artists": [
+        {
+          "name": "So\u00f1oliento",
+          "url": "https://open.spotify.com/artist/0wINvfAKLiF2PHqBYU422q"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113258,
+      "name": "Almost Being In Love",
+      "url": "https://open.spotify.com/track/7lFqg5DjHCJW7fLgY6kLt2"
+    },
+    {
+      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/1Gw01tnxxPW9AKMgHE5Xmw"
       },
@@ -199,7 +214,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 63506,
       "name": "Brahms Lullaby - Reprise",
       "url": "https://open.spotify.com/track/2WzSx8Ns1IoGiGy9WHDACI"
@@ -307,7 +322,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 250854,
       "name": "Dolphin Dance",
       "url": "https://open.spotify.com/track/1db8iPd7L5PMc7T2R1MOrR"
@@ -613,7 +628,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 168874,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/48hal9e9KiRKsqzO0DPDbr"
@@ -746,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Mary Had a Little Lamb",
+        "url": "https://open.spotify.com/album/6eD3IBFS08wBGKU0urZKdD"
+      },
+      "artists": [
+        {
+          "name": "Isa Hopkins",
+          "url": "https://open.spotify.com/artist/7qXmB3myPVahbop7iJTgoz"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132761,
+      "name": "Mary Had a Little Lamb",
+      "url": "https://open.spotify.com/track/3NpjpqDMXGWnELu2sCrkc2"
+    },
+    {
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx"
       },
@@ -847,7 +880,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 220684,
       "name": "Naima",
       "url": "https://open.spotify.com/track/4OxC4yBBsZ3BNmS9oFAzBx"
@@ -937,7 +970,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 180399,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/3jqbNKYAxTIYGO22RzhK4K"
@@ -980,6 +1013,60 @@
     },
     {
       "album": {
+        "name": "Rockabye Baby",
+        "url": "https://open.spotify.com/album/6PGMOvcJoMEuBokQmjfyWX"
+      },
+      "artists": [
+        {
+          "name": "Helene Holmes",
+          "url": "https://open.spotify.com/artist/5iT8AiKFjTAXZqiCRrtKgx"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148613,
+      "name": "Rockabye Baby",
+      "url": "https://open.spotify.com/track/47qIZmXcHg9kpdTzrrT0ix"
+    },
+    {
+      "album": {
+        "name": "Round Midnight",
+        "url": "https://open.spotify.com/album/2maqiRfX76TnvNtghpHHBg"
+      },
+      "artists": [
+        {
+          "name": "Danny Flair",
+          "url": "https://open.spotify.com/artist/7q6R455q0Gt49HwtNxvKJS"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191338,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/1MLEDr1iL0GcUyZJIt29rf"
+    },
+    {
+      "album": {
+        "name": "Row Row Row Your Boat",
+        "url": "https://open.spotify.com/album/4cy0SpuvUs2Hg1OMVfWO0N"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Hills",
+          "url": "https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142071,
+      "name": "Row Row Row Your Boat",
+      "url": "https://open.spotify.com/track/4fPF9NifzPVlYgxAmeEaHF"
+    },
+    {
+      "album": {
         "name": "Wax Figures",
         "url": "https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD"
       },
@@ -1013,6 +1100,24 @@
       "duration_ms": 177528,
       "name": "Sangfroid",
       "url": "https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z"
+    },
+    {
+      "album": {
+        "name": "Skating in Central Park",
+        "url": "https://open.spotify.com/album/0Xg1W14PbDaBMGZwdzqBvf"
+      },
+      "artists": [
+        {
+          "name": "Sasha Gardner",
+          "url": "https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156187,
+      "name": "Skating in Central Park",
+      "url": "https://open.spotify.com/track/2IEI5ZjAIWvxw3rSJYXFxC"
     },
     {
       "album": {
@@ -1229,6 +1334,24 @@
       "duration_ms": 314772,
       "name": "Stars Fell on Alabama",
       "url": "https://open.spotify.com/track/6mG6evp0jrLbDSpRz0i405"
+    },
+    {
+      "album": {
+        "name": "Stars Fell On Alabama",
+        "url": "https://open.spotify.com/album/7AtzEC8KJjk44m2F5GyRKp"
+      },
+      "artists": [
+        {
+          "name": "Lance Marlone",
+          "url": "https://open.spotify.com/artist/291NBS5jNCsTdGUB7bQB89"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242426,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/4QCeCWQEe2kwOm9iOmnVp2"
     },
     {
       "album": {
@@ -1459,7 +1582,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 169200,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/5QbNsaI7NnYa5OzOdkmpWm"

@@ -4,10 +4,11 @@
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-100 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0tIR1F4TAVMZPY4NE1Ks1b)
+103 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 | 2022-12-06 |  |
 | [Alphabet Song](https://open.spotify.com/track/1eiqW0DFMojEwi6jXmmePS) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [52 Sing\-A\-Long Silly Songs](https://open.spotify.com/album/5viWxItD1EIseQG6CYRKBX) | 1:46 | 2021-09-23 | 2022-07-29 |
 | [Alphabet Song](https://open.spotify.com/track/48J2LOgzd87JK4SUfdu38H) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [De regreso al colegio](https://open.spotify.com/album/5LTozJDLwFaF6eK46YIeVa) | 1:46 | 2022-07-08 | 2022-08-22 |
 | [Alphabet Song](https://open.spotify.com/track/4ESq7KLdbgVz4RTAF10UBu) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Happy Birthday Canzoni per bambini](https://open.spotify.com/album/6zDcHdfsjeWQep0hlu6MXi) | 1:46 | 2022-07-08 | 2022-11-13 |
@@ -35,6 +36,7 @@
 | [Eat Every Bean and Pea On Your Plate](https://open.spotify.com/track/35VWkcDXuptVfuMCP8B1xy) | [Daddy A Go Go](https://open.spotify.com/artist/2Is133tsib9BqI1564cX1H) | [Eat Every Bean and Pea On Your Plate](https://open.spotify.com/album/6TO9Na7oOfWU2oXkYawv7O) | 2:40 | 2021-09-23 |  |
 | [Everybody Wash](https://open.spotify.com/track/6awn1KS0M5mhC4AZEHBdYd) | [Bert & Ernie](https://open.spotify.com/artist/6Loe8q8jlgEarCXh0C4ceE) | [Healthy Habits Collection](https://open.spotify.com/album/4SCR1v8MjdIeCnVej0N2QD) | 1:49 | 2021-09-23 | 2022-07-29 |
 | [Everybody Wash](https://open.spotify.com/track/2wbXooFlbk0HyoPkGFPeq0) | [Bert & Ernie](https://open.spotify.com/artist/6Loe8q8jlgEarCXh0C4ceE), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Splish Splash \- Bath Time Fun](https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw) | 1:49 | 2022-07-08 |  |
+| [Feeling Thankful](https://open.spotify.com/track/1NbZ40TzTKFdGLhcVoRG8p) | [Lingokids](https://open.spotify.com/artist/4JQisAFPMKPhssPnbV8l3O) | [Feeling Thankful](https://open.spotify.com/album/2h7S8wRJ1JAOC8GOFKcDd3) | 2:10 | 2022-12-09 |  |
 | [Get Ready!](https://open.spotify.com/track/4SgACaaXujpvB2xwyWWmUx) | [Felicia Barton](https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Mickey Mornings](https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh) | 1:41 | 2021-09-23 |  |
 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 | 2021-09-23 |  |
 | [Golden Slumbers II](https://open.spotify.com/track/5jABwS9XsRXRWyXLiQHXfG) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Olivia](https://open.spotify.com/artist/4zah4rU5OUBevujURjnSwK) | [Sesame Street: Sleepytime Bird](https://open.spotify.com/album/3ui1XUEdB8yEsUsErwagLZ) | 2:53 | 2021-09-23 | 2022-07-29 |
@@ -102,6 +104,7 @@
 | [Try a New Food, It Might Taste Good!](https://open.spotify.com/track/2f6XgxjybNg1sz8haqiBaf) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Life's Little Lessons](https://open.spotify.com/album/4inXPDlLGoSV1DdxEIc4Vq) | 1:02 | 2021-09-23 |  |
 | [Use Your Words](https://open.spotify.com/track/1qcQTqDZLWEC6dB5shIiPw) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Big Feelings](https://open.spotify.com/album/3uhrWaD9eVHfzzI5jpr4y8) | 1:05 | 2022-07-08 |  |
 | [Use Your Words](https://open.spotify.com/track/6TmmVQ9qSm1ZrUNRKsZTPt) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Big Feelings](https://open.spotify.com/album/7DdJfGhgMSKGvKjtEdIuNN) | 1:05 | 2021-09-23 | 2022-07-29 |
+| [Wash My Hair \(Lather It Up\)](https://open.spotify.com/track/0hiqelocDwLc0hKFrT92M1) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Wash My Hair \(Lather It Up\)](https://open.spotify.com/album/3JfQybhmeJhumU42CQxUol) | 1:52 | 2023-01-20 |  |
 | [Wash Your Hands](https://open.spotify.com/track/7uOEZmRLh8RdTK4QqBI2dS) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:19 | 2021-09-23 |  |
 | [Wash Your Hands](https://open.spotify.com/track/78drmvufFnkaEa4t4il2wH) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1) | 1:42 | 2022-07-08 |  |
 | [Wash Your Hands](https://open.spotify.com/track/7hm9JdXORZV6oRtzuioEsi) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/0GDRDnnvLcMVLtHshEpDkV) | 1:42 | 2021-09-23 | 2022-07-29 |

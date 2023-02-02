@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "The melancholic and soft sound of Jazz.",
   "name": "Jazz Noir",
-  "published_playlist_ids": [
-    "0KmOAff9Qu5XjfAKEmMLdc"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 199440,
       "name": "A Handful Of Stars",
       "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
@@ -91,7 +88,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 169737,
       "name": "Ain't Misbehavin",
       "url": "https://open.spotify.com/track/4TndToxlz7Qdvpb2O9s9HM"
@@ -145,7 +142,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 409133,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM"
@@ -163,7 +160,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 219506,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
@@ -217,7 +214,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 328066,
       "name": "Autumn in Washington Square",
       "url": "https://open.spotify.com/track/5I3dI6HaVLW34JxNYxB7sn"
@@ -398,7 +395,7 @@
     },
     {
       "album": {
-        "name": "Blues In Time",
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
       "artists": [
@@ -413,7 +410,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 578960,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/1N3h6F9BjQRPzBn4YrGXRo"
@@ -467,7 +464,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 203000,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j"
@@ -615,7 +612,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 206066,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/5ZT1p3Elvxg6yu9qgWnH5r"
@@ -633,7 +630,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 228360,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY"
@@ -721,7 +718,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 428493,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/3iK5q2qCdlKEJOYpaNrDXZ"
@@ -739,7 +736,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 311533,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/3b85Jv4nFjRZNsorLlXA0p"
@@ -757,7 +754,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 256706,
       "name": "Ernie's Tune",
       "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
@@ -959,7 +956,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 413640,
       "name": "House Of Jade - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/5tIDZCixAvskZRL867Ewh5"
@@ -1159,7 +1156,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 183066,
       "name": "I Must Have That Man!",
       "url": "https://open.spotify.com/track/00V6rYQ0nyE5KOLDMAlloC"
@@ -1315,7 +1312,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 150720,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
@@ -1333,7 +1330,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 291520,
       "name": "I've Grown Accustomed To Your Face - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/2Ss7eZJNHWyyLaCGdp6tac"
@@ -1413,7 +1410,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 216080,
       "name": "Intermezzo",
       "url": "https://open.spotify.com/track/0TvvhxT76LgtvwtCDZ3Uw4"
@@ -1525,7 +1522,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 523266,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/4y3Rmu6XbLeUi95ym34PGq"
@@ -1586,7 +1583,7 @@
     },
     {
       "album": {
-        "name": "E.S.P.",
+        "name": "E.S.P. (2022 Remaster)",
         "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
       },
       "artists": [
@@ -1597,8 +1594,8 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 530040,
+      "date_removed": "2023-01-14",
+      "duration_ms": 529360,
       "name": "Mood",
       "url": "https://open.spotify.com/track/1LS7O7v95kU5BbZny7ooni"
     },
@@ -1615,7 +1612,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 285933,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4"
@@ -1705,7 +1702,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 408386,
       "name": "Night Flower - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/02rDg3xZg4crus7U6VjCOm"
@@ -1723,7 +1720,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 629733,
       "name": "Night Hawk",
       "url": "https://open.spotify.com/track/2kuPRtfya7jJ2fUIKCuqCG"
@@ -1793,7 +1790,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 473666,
       "name": "Polka Dots And Moonbeams",
       "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
@@ -1841,7 +1838,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 530000,
       "name": "Round Midnight",
       "url": "https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy"
@@ -2007,7 +2004,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 317906,
       "name": "Spring Can Really Hang You Up The Most",
       "url": "https://open.spotify.com/track/2xnCxYTSqq7qJZupXFO5Lq"
@@ -2145,7 +2142,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 362093,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/0rEXms7hJo8jh1VHeWl20h"
@@ -2221,7 +2218,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 227760,
       "name": "That's All",
       "url": "https://open.spotify.com/track/53VuyKap8WiDjkrtm5d4h3"
@@ -2239,7 +2236,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 480333,
       "name": "The Blues In My Flat",
       "url": "https://open.spotify.com/track/3wyvK7ySxD4pR285UTRIEG"
@@ -2311,7 +2308,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 458426,
       "name": "Thursday's Theme",
       "url": "https://open.spotify.com/track/40MudNBYbEhzxgN8tPe35i"
@@ -2329,7 +2326,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": "2023-01-14",
       "duration_ms": 234560,
       "name": "Two Shades Of Autumn",
       "url": "https://open.spotify.com/track/2yyDFSw09IJwVf1jAUWM9K"
@@ -2347,7 +2344,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 282666,
       "name": "Until The Real Thing Comes Along",
       "url": "https://open.spotify.com/track/4F0sSQCicLl5tme407ubvS"
@@ -2453,10 +2450,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 222360,
       "name": "What's The Rush",
       "url": "https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH"
+    },
+    {
+      "album": {
+        "name": "Keep Calm with Jazz",
+        "url": "https://open.spotify.com/album/6Id96zESyjAKNBGB427Tfo"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "What's The Rush",
+      "url": "https://open.spotify.com/track/7yRMYF0BqrqPjinbG9Ja3Z"
     },
     {
       "album": {
@@ -2483,7 +2502,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 343000,
       "name": "When Joanna Loved Me",
       "url": "https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY"
@@ -2643,7 +2662,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 245000,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/2TPRvPvUotVn4tGHAWWcog"

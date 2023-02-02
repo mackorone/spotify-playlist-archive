@@ -4,7 +4,7 @@
 
 > Listen to a collection of his greatest hits\. This Is: George Michael
 
-47 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/3EaNZYBUfBbdhVqOvLyIGf)
+47 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

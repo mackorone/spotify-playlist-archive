@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-18",
   "description": "This is At the Drive-In. The essential tracks, all in one playlist.",
   "name": "This Is At the Drive-In",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -215,10 +214,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 233438,
       "name": "Hostage Stamps",
       "url": "https://open.spotify.com/track/2brkhCo9HHjt3Z2ThG8eel"
+    },
+    {
+      "album": {
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/4oSyqbzyC7g8x0dAMFANLn"
     },
     {
       "album": {
@@ -384,6 +401,24 @@
     },
     {
       "album": {
+        "name": "in\u2022ter a\u2022li\u2022a",
+        "url": "https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221120,
+      "name": "Pendulum In A Peasant Dress",
+      "url": "https://open.spotify.com/track/33F5JlSEr4wHCM3Hn79W2e"
+    },
+    {
+      "album": {
         "name": "In / Casino / Out",
         "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
       },
@@ -395,7 +430,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 158360,
       "name": "Pickpocket",
       "url": "https://open.spotify.com/track/7tXHRWpHsYH8Yy8w7v4N7d"

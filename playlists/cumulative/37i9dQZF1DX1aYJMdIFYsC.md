@@ -4,7 +4,7 @@
 
 > Steam, steel, and cogs..\. the ultimate steampunk soundtrack.
 
-52 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/7AGhILVLHk7I2nemGyD0mI)
+52 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Where jazz meets classical, and classical meets jazz. ",
   "name": "Jazz Meets Classical",
-  "published_playlist_ids": [
-    "4YuG6HthB2L9AI2fFZW3dd"
-  ],
   "tracks": [
     {
       "album": {
@@ -972,6 +969,42 @@
     },
     {
       "album": {
+        "name": "Impressions On Chopin's Nocturnes",
+        "url": "https://open.spotify.com/album/6NMAG8fSNPjlWjcuwEJj46"
+      },
+      "artists": [
+        {
+          "name": "Jacques Loussier",
+          "url": "https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116400,
+      "name": "Nocturne No. 20 In C-Sharp Minor, Op. Posth.",
+      "url": "https://open.spotify.com/track/4LvG1nirz2wv1ln5weaCyE"
+    },
+    {
+      "album": {
+        "name": "Beyond Bach, Other Composers I Adore",
+        "url": "https://open.spotify.com/album/6wcn0aASsJ15iIE1a7KeC1"
+      },
+      "artists": [
+        {
+          "name": "Jacques Loussier",
+          "url": "https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 116743,
+      "name": "Nocturne No. 20 In C-Sharp Minor, Op. Posth.",
+      "url": "https://open.spotify.com/track/641dlUcV9G6s5I9BtfKAsE"
+    },
+    {
+      "album": {
         "name": "Beyond Bach, Other Composers I Adore",
         "url": "https://open.spotify.com/album/2YSxMJokGpKxh9kc4Zj6Ro"
       },
@@ -991,24 +1024,6 @@
       "duration_ms": 116743,
       "name": "Nocturne No. 20 in C-sharp minor, Op. posthume",
       "url": "https://open.spotify.com/track/7btkqjF0Jw2DopaH6wvgvD"
-    },
-    {
-      "album": {
-        "name": "Beyond Bach, Other Composers I Adore",
-        "url": "https://open.spotify.com/album/6wcn0aASsJ15iIE1a7KeC1"
-      },
-      "artists": [
-        {
-          "name": "Jacques Loussier",
-          "url": "https://open.spotify.com/artist/1VIbVO1ahhBhe1l8dEe245"
-        }
-      ],
-      "date_added": "2022-07-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 116743,
-      "name": "Nocturne No. 20 in C-sharp minor, Op. posthume (Arr. for Jazz Solo)",
-      "url": "https://open.spotify.com/track/641dlUcV9G6s5I9BtfKAsE"
     },
     {
       "album": {

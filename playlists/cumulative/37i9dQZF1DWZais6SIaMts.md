@@ -4,7 +4,7 @@
 
 > The pivotal tracks by the genre\-redefining <a href="spotify:artist:0cmWgDlu9CwTgxPhf403hb">producer</a>, composer, and DJ.
 
-51 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/3sHkOtBaIPlhpfOT6TRa1G)
+51 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

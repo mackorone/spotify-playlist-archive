@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-[Topsify](https://open.spotify.com/user/topsify) - 11,354 likes - 54 songs - 2 hr 51 min
+[Topsify](https://open.spotify.com/user/topsify) - 11,346 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 3 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 |
 | 4 | [Talk \(feat\. MAY\-A\)](https://open.spotify.com/track/2jY1ttXBDyw1NRZgkU3yQ8) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Talk \(feat\. MAY\-A\)](https://open.spotify.com/album/63XYvVcgT1ZcO0NtXBZfFI) | 3:27 |
 | 5 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 |
-| 6 | [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 |
+| 6 | [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 |
 | 7 | [Elevation](https://open.spotify.com/track/5uwE7RLzB2mbSE3z5GDEA9) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Elevation](https://open.spotify.com/album/5b0CljUZdKO42HODyZeWhE) | 3:57 |
 | 8 | [Counting Flowers](https://open.spotify.com/track/7f6tmZhAL2D9CTLfSyWDHC) | [EVER](https://open.spotify.com/artist/7f3i7KtcsMEyZO6jWYFPmI) | [Counting Flowers](https://open.spotify.com/album/4epLEyQe5d3AnmZmzESmdK) | 3:08 |
 | 9 | [wish you well](https://open.spotify.com/track/4IjQfvDhOA5AkEC4kEGVJQ) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/19Nw7Jat25JYGPSWwMA7Ce) | 3:02 |

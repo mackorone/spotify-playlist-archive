@@ -4,7 +4,7 @@
 
 > Sit back and relax to the smooth sound of blues piano.
 
-58 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/6pVEAMIhTh8lrPSIN67nvp)
+59 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Blues Blooded](https://open.spotify.com/track/0AZaGA8cjTHvF3UYvYi2RK) | [Teres](https://open.spotify.com/artist/1h9MPFKFUMiWJewgZEeScp) | [Blues Piano & Chill](https://open.spotify.com/album/6t5oDLfuvPGNSiHsFNJifI) | 2:14 | 2021-12-03 |  |
 | [Blues Cafe Farewell](https://open.spotify.com/track/6VYyVwNHlnb15nXL1UPmPF) | [Christian Rannenberg](https://open.spotify.com/artist/0FXwEMAkZkvmLPeIl57OtB) | [Blues](https://open.spotify.com/album/7neO63jZj32xSLnSSa25Z5) | 4:32 | 2021-12-03 |  |
 | [Blues for Anna](https://open.spotify.com/track/54uy5cIM0AGD2C5icmZtII) | [Blues Piano All Stars](https://open.spotify.com/artist/3v45sKwSn2bjvr9ETf4HrQ) | [Blues Piano \- Blues Songs and Music](https://open.spotify.com/album/7D3OoVu6zvaS5TLe8cRRj5) | 2:55 | 2021-12-03 |  |
+| [Blues for Bess](https://open.spotify.com/track/5bthPT5YTO4dwGN7ED7P4n) | [Simon Armitage](https://open.spotify.com/artist/25D5tU7Ij8L6xJZLKf8dL8) | [Blues for Bess](https://open.spotify.com/album/45yeznjSg2byHkZ5ibBP98) | 1:46 | 2023-01-27 |  |
 | [Blues for Stella](https://open.spotify.com/track/5vUNWP8gpNDYFDlbZhClwS) | [James Goodwin](https://open.spotify.com/artist/5sY7M6lEJILtXM7Jm2A0lG) | [Blue\-eyed Devil: Solo Blues Piano](https://open.spotify.com/album/6I0OPUCGyx4Y79a93CY5E9) | 4:37 | 2021-12-03 |  |
 | [Blues In Central Park](https://open.spotify.com/track/0UZjDQEfsravm7l8lW4G7n) | [Michael Silverman Blues Piano Trio](https://open.spotify.com/artist/48IpL2WhL9WJegvN2ADaUJ) | [Blues](https://open.spotify.com/album/0cX6CQ3MWCTysXi57T1we1) | 3:08 | 2021-12-03 |  |
 | [Blues Please](https://open.spotify.com/track/2jUJ9QJHAIPmttR92dB0K8) | [Relaxing Piano Crew](https://open.spotify.com/artist/09zTbBto6vE4LzVjQluIz2) | [Tea Time Jazz \- Afternoon Delight BGM](https://open.spotify.com/album/70sWWQ9WY232KHurqoRwMl) | 2:15 | 2021-12-03 |  |

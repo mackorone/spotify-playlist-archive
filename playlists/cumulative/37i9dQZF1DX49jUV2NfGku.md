@@ -2,9 +2,9 @@
 
 ### [Rock Solid](https://open.spotify.com/playlist/37i9dQZF1DX49jUV2NfGku)
 
-> New classics and essential cuts from all your favorite rock bands\. Cover: Rage Against The Machine
+> New rock classics and essential cuts celebratingGreen Day
 
-159 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/4pFaQUM5cFSlRBE1ox0Ws5)
+161 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Chop Suey!](https://open.spotify.com/track/5V3mdRI2yQxbSsJGDPc5lD) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/4DR0GWo7w2GJyQnFVa4jAB) | 3:30 | 2020-08-10 | 2022-07-29 |
 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 | 2022-11-11 |  |
 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 | 2022-03-09 |  |
-| [Darkness Settles In](https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:41 | 2022-04-01 |  |
+| [Darkness Settles In](https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:41 | 2022-04-01 | 2023-01-28 |
 | [Dead Inside](https://open.spotify.com/track/3nFrKCdaILOHeBs8c8culM) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [Dead Inside](https://open.spotify.com/album/72oUFiAsXttWcMqcg7hslo) | 4:00 | 2022-08-26 | 2022-11-12 |
 | [Dead Inside](https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1), [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Dead Inside \(feat\. David Draiman of Disturbed\)](https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w) | 4:00 | 2022-04-01 | 2022-11-05 |
 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 | 2022-04-01 | 2022-05-14 |
@@ -64,6 +64,7 @@
 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 | 2020-08-10 | 2022-11-12 |
 | [Hemorrhage \(In My Hands\)](https://open.spotify.com/track/1sjrDQXqAa9V07FjKIlAQ4) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Something Like Human](https://open.spotify.com/album/1OmZcrLO7y9cL7pq8Ge0LL) | 3:56 | 2020-08-10 | 2022-08-27 |
 | [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 | 2020-08-10 |  |
+| [Hitchin' a Ride](https://open.spotify.com/track/2H5nrbN3azmWWBehaFRIOt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod \(25th Anniversary Edition\)](https://open.spotify.com/album/4R802IhlcVX7z3m7xyp7zC) | 2:51 | 2023-01-27 |  |
 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 | 2022-05-13 |  |
 | [Howlin' For You](https://open.spotify.com/track/5jdvRj8zXHJ7XpKsBKT9CZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Edition\)](https://open.spotify.com/album/0gVxPZ2tcMgyzLxyw8k1z7) | 3:11 | 2020-08-10 | 2022-07-29 |
 | [Hysteria](https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:47 | 2020-08-10 | 2022-11-12 |
@@ -110,6 +111,7 @@
 | [papercuts \- album edit](https://open.spotify.com/track/1Fa7pBvVjFkMjNW3mAXkr3) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:01 | 2022-04-01 | 2022-05-27 |
 | [Patience](https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:13 | 2022-01-07 |  |
 | [Personal Jesus \- Original Single Version](https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Francois Kevorkian](https://open.spotify.com/artist/30ZqCPhfRzzWcgIbXrbHnU) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:44 | 2022-05-26 |  |
+| [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-01-13 |  |
 | [Sail](https://open.spotify.com/track/5N7d8uxMeuO4HdncbkuhSB) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/7I7yoD3GPwYuQcuKS8ZQuM) | 4:19 | 2020-08-10 | 2022-05-27 |
 | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:02 | 2020-08-10 |  |
 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2022-08-26 |  |
@@ -157,7 +159,7 @@
 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 | 2022-02-11 | 2022-04-02 |
 | [What’s The Frequency, Kenneth? \- Remastered](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 | 2022-11-11 |  |
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 | 2022-11-11 | 2022-11-14 |
-| [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 5:37 | 2022-11-11 |  |
+| [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 5:37 | 2022-11-11 | 2023-01-14 |
 | [Woman](https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 2:56 | 2020-08-10 | 2022-01-08 |
 | [Wonderwall](https://open.spotify.com/track/7dPd3dx4ipBe10xKuhj9eY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Wonderwall](https://open.spotify.com/album/3ezI4EtsobNEhV0WSEsCGn) | 4:18 | 2022-08-26 | 2022-11-14 |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ) | 4:18 | 2020-08-10 | 2022-07-29 |

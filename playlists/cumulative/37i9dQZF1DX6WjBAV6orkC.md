@@ -4,7 +4,7 @@
 
 > The legendary Indian musician's classics.
 
-58 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/5tofQ5ATaCIuSFqIIHAHcN)
+58 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

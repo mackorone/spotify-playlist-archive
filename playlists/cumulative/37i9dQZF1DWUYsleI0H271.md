@@ -4,7 +4,7 @@
 
 > The best of Incubus, all in one playlist.
 
-50 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/4ziZrFlfbtWUq3sYJ8nn9o)
+50 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

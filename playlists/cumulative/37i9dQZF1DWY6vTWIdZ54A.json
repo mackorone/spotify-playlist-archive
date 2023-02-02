@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Rock songs that get down and dirty. Cover: The Blue Stones",
   "name": "Dirty Rock",
-  "published_playlist_ids": [
-    "5E2fDbkCcBNFcuPTDKHwKt"
-  ],
   "tracks": [
     {
       "album": {
@@ -1331,7 +1328,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 201826,
       "name": "Facing My Fear",
       "url": "https://open.spotify.com/track/2UESNndQ5sS1Ucl44o2BrW"
@@ -1349,7 +1346,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201826,
       "name": "Facing My Fear",
       "url": "https://open.spotify.com/track/45AbDqJVqVU7nOxtW4SUTG"
@@ -2393,7 +2390,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 160550,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/2tyb5TSxnb2QjkuVEhd3Do"
@@ -2411,7 +2408,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160550,
       "name": "Loose Ends",
       "url": "https://open.spotify.com/track/4rZaSU1gqk7zkywTDqxGeX"
@@ -2765,8 +2762,8 @@
       },
       "artists": [
         {
-          "name": "Beware of Darkness",
-          "url": "https://open.spotify.com/artist/0xLOmGSbRgPodnaNKLHwWe"
+          "name": "Beware Of Darkness",
+          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
         }
       ],
       "date_added": "2022-10-07",
@@ -2927,8 +2924,8 @@
       },
       "artists": [
         {
-          "name": "Migrant Motel",
-          "url": "https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G"
+          "name": "MARGARET WHO",
+          "url": "https://open.spotify.com/artist/4MK9YwLEBXVuWpc4vwfwld"
         }
       ],
       "date_added": "2022-06-17",
@@ -3821,6 +3818,24 @@
     {
       "album": {
         "name": "B.R.M.C.",
+        "url": "https://open.spotify.com/album/5kNEFtQmqLrPx0XA8Sq0N5"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Spread Your Love",
+      "url": "https://open.spotify.com/track/1gq5tbU9FTm90duAZtDZUv"
+    },
+    {
+      "album": {
+        "name": "B.R.M.C.",
         "url": "https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw"
       },
       "artists": [
@@ -3831,7 +3846,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 225333,
       "name": "Spread Your Love",
       "url": "https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6"
@@ -4213,7 +4228,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
@@ -4249,7 +4264,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6"

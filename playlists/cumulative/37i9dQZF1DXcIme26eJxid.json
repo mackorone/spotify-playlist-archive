@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
   "name": "Classic Afropop",
-  "published_playlist_ids": [
-    "04ehEU04TjgiUQcneleBic"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,7 +96,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 265573,
       "name": "Baby Kilode",
       "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
@@ -951,7 +948,7 @@
       ],
       "date_added": "2019-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 224706,
       "name": "The Warrior",
       "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"

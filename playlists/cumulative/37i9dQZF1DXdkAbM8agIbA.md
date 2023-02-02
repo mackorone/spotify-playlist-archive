@@ -4,7 +4,7 @@
 
 > Take a journey through the heart of the blues \(with a couple of detours along the way\).
 
-55 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/1ouaB0PcfASr54EKPkT2S6)
+55 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

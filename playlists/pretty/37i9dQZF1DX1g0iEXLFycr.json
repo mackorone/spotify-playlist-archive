@@ -1,29 +1,13 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1057844,
+  "num_followers": 1061127,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDIzY2E0MGUyNmNlYzdmMDUyZmUxZTgxYzRhYjMxOWIw",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDExYzg0ZThkZjNhZGZkZjBhZTIwNGU2NjM2ZWEzMjE0",
   "tracks": [
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
@@ -59,6 +43,22 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -99,18 +99,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+      "duration_ms": 204160,
+      "name": "Timber (feat. Ke$ha)",
+      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -131,22 +135,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Global Warming: Meltdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Timber (feat. Ke$ha)",
-      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -187,18 +187,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -219,18 +219,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -251,42 +251,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
@@ -299,6 +263,38 @@
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "Grouplove",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -323,22 +319,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "Grouplove",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Battleground (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
       },
@@ -355,18 +335,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -387,18 +367,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -419,18 +399,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
         }
       ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -455,38 +435,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+        "name": "Version",
+        "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
         },
         {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 193920,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
+      "duration_ms": 219413,
+      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
+      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -511,6 +475,42 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Douha (Mali Mali)",
         "url": "https://open.spotify.com/album/7MnQlAenFwY2m2TAgni2py"
       },
@@ -531,42 +531,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Version",
-        "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 219413,
-      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
-      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -579,6 +543,38 @@
       "duration_ms": 205933,
       "name": "Come and Get Your Love - Single Version",
       "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -615,22 +611,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -643,6 +623,22 @@
       "duration_ms": 223078,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -663,18 +659,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -699,38 +695,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -747,18 +711,50 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "In Case You Didn't Know",
-        "url": "https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve"
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
       "artists": [
         {
-          "name": "Olly Murs",
-          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 202226,
-      "name": "Dance with Me Tonight",
-      "url": "https://open.spotify.com/track/1FSWSs9CL01RCYxXtm08Rf"
+      "duration_ms": 323346,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -787,22 +783,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -815,6 +795,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "In Case You Didn't Know",
+        "url": "https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve"
+      },
+      "artists": [
+        {
+          "name": "Olly Murs",
+          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Dance with Me Tonight",
+      "url": "https://open.spotify.com/track/1FSWSs9CL01RCYxXtm08Rf"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -835,22 +831,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 323346,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Music From Party of Five",
         "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
       },
@@ -867,66 +847,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
         {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 191502,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -947,6 +883,54 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 191502,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "These Streets",
         "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 203653,
       "name": "New Shoes",
       "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -979,22 +979,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "I Ain't Movin'",
-        "url": "https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU"
-      },
-      "artists": [
-        {
-          "name": "Des'ree",
-          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "You Gotta Be",
-      "url": "https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "A funk odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
@@ -1011,34 +995,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "I Will Never Let You Down",
-        "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
+        "name": "I Ain't Movin'",
+        "url": "https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
         }
       ],
-      "duration_ms": 203466,
-      "name": "I Will Never Let You Down",
-      "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Let's Hear It for the Boy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
+      "duration_ms": 245200,
+      "name": "You Gotta Be",
+      "url": "https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1059,22 +1027,34 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Lupe Fiasco's The Cool",
-        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+        "name": "Let's Hear It for the Boy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        },
-        {
-          "name": "Matthew Santos",
-          "url": "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
         }
       ],
-      "duration_ms": 289000,
-      "name": "Superstar (feat. Matthew Santos)",
-      "url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e"
+      "duration_ms": 262440,
+      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "I Will Never Let You Down",
+        "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "I Will Never Let You Down",
+      "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "Matthew Santos",
+          "url": "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Superstar (feat. Matthew Santos)",
+      "url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "The Guest (Expanded Edition)",
         "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
       },
@@ -1132,7 +1132,7 @@
       "added_at": "2020-08-27 16:10:25",
       "album": {
         "name": "Diamonds (Deluxe)",
-        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
       },
       "artists": [
         {
@@ -1142,7 +1142,7 @@
       ],
       "duration_ms": 212440,
       "name": "Are You Ready For Love? - Remastered",
-      "url": "https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd"
+      "url": "https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/0NP65tx92g74w3VMwcTodj"
-      },
-      "artists": [
-        {
-          "name": "Texas",
-          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Inner Smile",
-      "url": "https://open.spotify.com/track/7zTbBG1yo6VUHbcqT2pAke"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "The Soul Sessions",
         "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
       },
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "You Can't Stop The Bum Rush",
-        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
-      },
-      "artists": [
-        {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Steal My Sunshine",
-      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
         "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
       },
@@ -1271,6 +1239,22 @@
       "duration_ms": 181906,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1315,18 +1299,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "A Million Lights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2mduHypWQwgRXMQ9kEFssu"
+        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
       },
       "artists": [
         {
-          "name": "Cheryl",
-          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
         }
       ],
-      "duration_ms": 207975,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz"
+      "duration_ms": 170716,
+      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
+      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1343,6 +1331,22 @@
       "duration_ms": 239621,
       "name": "Like Sugar",
       "url": "https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "A Million Lights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2mduHypWQwgRXMQ9kEFssu"
+      },
+      "artists": [
+        {
+          "name": "Cheryl",
+          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+        }
+      ],
+      "duration_ms": 207975,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1383,22 +1387,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "So Good To Me (Remixes)",
-        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "So Good to Me - Radio Edit",
-      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Sing When You're Winning",
         "url": "https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m"
       },
@@ -1411,6 +1399,22 @@
       "duration_ms": 260560,
       "name": "Rock DJ",
       "url": "https://open.spotify.com/track/7oQSevUCbYs4QawXTHQVV1"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "So Good To Me (Remixes)",
+        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "So Good to Me - Radio Edit",
+      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1431,6 +1435,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Together - The Best Of",
+        "url": "https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq"
+      },
+      "artists": [
+        {
+          "name": "Reef",
+          "url": "https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Place Your Hands",
+      "url": "https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "I Wanna Feel",
         "url": "https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3"
       },
@@ -1443,22 +1463,6 @@
       "duration_ms": 186066,
       "name": "I Wanna Feel",
       "url": "https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Stereo Typical",
-        "url": "https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp"
-      },
-      "artists": [
-        {
-          "name": "Rizzle Kicks",
-          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "When I Was A Youngster",
-      "url": "https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1479,18 +1483,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Together - The Best Of",
-        "url": "https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq"
+        "name": "Stereo Typical",
+        "url": "https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp"
       },
       "artists": [
         {
-          "name": "Reef",
-          "url": "https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO"
+          "name": "Rizzle Kicks",
+          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
         }
       ],
-      "duration_ms": 217413,
-      "name": "Place Your Hands",
-      "url": "https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO"
+      "duration_ms": 175081,
+      "name": "When I Was A Youngster",
+      "url": "https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/2pcI0ixfcCz1eUUxbYO69n"
       },
       "artists": [
         {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
         }
       ],
-      "duration_ms": 170716,
-      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
-      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
+      "duration_ms": 230640,
+      "name": "Inner Smile",
+      "url": "https://open.spotify.com/track/0yvDNlMoafoHNR9M5LIOGJ"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK"
+      },
+      "artists": [
+        {
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+        }
+      ],
+      "duration_ms": 235850,
+      "name": "Sunchyme",
+      "url": "https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 191026,
       "name": "Pack Up",
       "url": "https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK"
-      },
-      "artists": [
-        {
-          "name": "Dario G",
-          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
-        }
-      ],
-      "duration_ms": 235850,
-      "name": "Sunchyme",
-      "url": "https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax"
     },
     {
       "added_at": "2020-08-27 16:10:25",

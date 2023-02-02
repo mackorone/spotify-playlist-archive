@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-20",
   "description": "Laissez-vous porter par la playlist lo-fi",
   "name": "Chill Beats",
-  "published_playlist_ids": [
-    "0gghZCgUDQvda6LW20JSdc"
-  ],
   "tracks": [
     {
       "album": {
@@ -1131,6 +1128,10 @@
         {
           "name": "Brief & Breezy",
           "url": "https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7"
+        },
+        {
+          "name": "Chill Def",
+          "url": "https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41"
         }
       ],
       "date_added": "2022-08-30",

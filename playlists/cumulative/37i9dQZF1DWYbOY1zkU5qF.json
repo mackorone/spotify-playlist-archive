@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
   "name": "Covers Ac\u00fasticos",
-  "published_playlist_ids": [
-    "51QoCsvUCPIdFTHJouvKC6"
-  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 148750,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
@@ -451,7 +448,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 221159,
       "name": "Cristina",
       "url": "https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s"
@@ -1371,7 +1368,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230730,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
@@ -1519,7 +1516,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 230684,
       "name": "Pobre De Ti",
       "url": "https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l"
@@ -1675,10 +1672,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 310000,
       "name": "Sali\u00f3 el Sol",
       "url": "https://open.spotify.com/track/79bcr7W4FFq44aQpusEx18"
+    },
+    {
+      "album": {
+        "name": "Classic Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6pF5OGf5kLZF41soHerSZ1"
+      },
+      "artists": [
+        {
+          "name": "Reggaeton Ac\u00fastico",
+          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Sali\u00f3 el Sol - Cover Acustico",
+      "url": "https://open.spotify.com/track/43jQJrermS5sgLiYdeJVOx"
     },
     {
       "album": {
@@ -1751,7 +1766,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 131500,
       "name": "Solamente una Vez",
       "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
@@ -1895,7 +1910,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 223977,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/4BekZivRWhe9RYa6gsxu8r"
@@ -1989,7 +2004,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-15",
       "duration_ms": 214425,
       "name": "Vete",
       "url": "https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM"

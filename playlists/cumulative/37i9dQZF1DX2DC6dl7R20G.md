@@ -4,7 +4,7 @@
 
 > 最新K\-POP楽曲で彩られたミュージックロマンスドラマ『サウンドトラック \#1』<a href="https://disneyplus.disney.co.jp/program/soundtrack\-1">Disney+で全話独占配信中</a>
 
-24 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/1cAusBjQHKvAJzA08o12mT)
+24 songs - 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

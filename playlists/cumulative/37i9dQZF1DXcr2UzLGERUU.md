@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-141 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/1b0fcaaDfDUE8YINvG3jb0)
+143 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Free](https://open.spotify.com/track/3M7xHMsoIeNKLkrJ2wY4i6) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Free](https://open.spotify.com/album/6wPLbn1Zht0zxBAmqmoOtv) | 3:11 | 2022-04-01 | 2022-07-29 |
 | [Full Moon](https://open.spotify.com/track/6hQ5AqKiyUjyM97tWzlo0v) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/7p0izCAkCrkKpkJlDE47FI) | 3:02 | 2022-04-01 |  |
 | [Get up and Try](https://open.spotify.com/track/6oGuW5SBGbQBDyb0cZ1fru) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [In My Garden](https://open.spotify.com/album/2D8ZsWo3AN7YzzmUYVbAA3) | 2:54 | 2022-04-01 |  |
+| [Goodbye Sun, Hello Moon](https://open.spotify.com/track/6btBus1HKjmT0JhXY0Qo3Y) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Goodbye Sun, Hello Moon](https://open.spotify.com/album/3aoYs8itExQbGs4y2vnizg) | 3:34 | 2023-01-20 |  |
 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 | 2022-04-01 |  |
 | [Heart of Mine](https://open.spotify.com/track/6QBMx8FuorZiRIDHhQaJ3R) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 1:59 | 2022-04-01 |  |
 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 | 2022-04-01 |  |
@@ -79,6 +80,7 @@
 | [Kids](https://open.spotify.com/track/7ihuPps0hPWLHiEZwd2qzw) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:23 | 2022-04-01 |  |
 | [Kindness Mantra](https://open.spotify.com/track/6BB7WGnYYH690VSE8EYxke) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 2:49 | 2022-04-01 |  |
 | [La La Lu](https://open.spotify.com/track/7Gc86khLjIENRGdMrrxd1B) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 1:55 | 2022-04-01 |  |
+| [Lean on Me](https://open.spotify.com/track/4pNzltItfMTK9Al8qvU9yV) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Lean on Me](https://open.spotify.com/album/0lL9FCNib5gyfOThxvlcdy) | 3:23 | 2023-01-20 |  |
 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 | 2022-04-01 |  |
 | [Light Beams](https://open.spotify.com/track/1EJatOpG8yeTfMekpwOEDz) | [The Lucky Band](https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz), [Emily Herndon](https://open.spotify.com/artist/4sOej3nhE2WpwztNrD8zKT) | [Paseo Lunar](https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs) | 3:40 | 2022-04-01 |  |
 | [Lines And Dots](https://open.spotify.com/track/0jpoR8vCN5gyFWkSKC0Z6P) | [The Lucky Band](https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz) | [Paseo Lunar](https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs) | 3:28 | 2022-04-01 |  |

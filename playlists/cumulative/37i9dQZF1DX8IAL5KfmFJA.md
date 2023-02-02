@@ -4,7 +4,7 @@
 
 > In loving memory of Marie Fredriksson.
 
-77 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/1fUcg2oddZ7NzQJEr3yXBo)
+77 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

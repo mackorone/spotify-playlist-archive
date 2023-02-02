@@ -4,7 +4,7 @@
 
 > Post\-hardcore\. Post\-punk\. Post\-rock\. Post\-everything\. Cover: Metz
 
-222 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/4rvHHqQBPAoXHMpZpmPH5y)
+222 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

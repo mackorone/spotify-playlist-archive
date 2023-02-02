@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
   "name": "OPM Favorites",
-  "published_playlist_ids": [
-    "2aC5BPUM0MsoTBT2ZjgARC"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 185142,
       "name": "AMAKABOGERA",
       "url": "https://open.spotify.com/track/0s3blMulBSWhJoA6Cezb6Z"
@@ -91,10 +88,32 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-19",
       "duration_ms": 450333,
       "name": "Ang Huling El Bimbo",
       "url": "https://open.spotify.com/track/21LMl54FIe7J5oOoZzgeiQ"
+    },
+    {
+      "album": {
+        "name": "Ang Wakas (feat. Trisha Macapagal)",
+        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        },
+        {
+          "name": "Trisha Macapagal",
+          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Ang Wakas (feat. Trisha Macapagal)",
+      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
     },
     {
       "album": {
@@ -135,6 +154,24 @@
     {
       "album": {
         "name": "Noon Time Show",
+        "url": "https://open.spotify.com/album/7jEJsX7LeqOxDF9oIcqE5H"
+      },
+      "artists": [
+        {
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364106,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/20gchtRYM7bFiOjYKQB8zZ"
+    },
+    {
+      "album": {
+        "name": "Noon Time Show",
         "url": "https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW"
       },
       "artists": [
@@ -145,7 +182,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 364106,
       "name": "Beer",
       "url": "https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD"
@@ -225,6 +262,24 @@
     {
       "album": {
         "name": "TJ Monterde",
+        "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239480,
+      "name": "Dating Tayo",
+      "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
+    },
+    {
+      "album": {
+        "name": "TJ Monterde",
         "url": "https://open.spotify.com/album/01f1BJjxsFyuX580Fk8Gjk"
       },
       "artists": [
@@ -235,7 +290,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 239480,
       "name": "Dating Tayo",
       "url": "https://open.spotify.com/track/267RumTt5KeLBGl2KWxBL0"
@@ -296,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Gusto Ko Nang Bumitaw (From \"The Broken Marriage Vow\")",
+        "url": "https://open.spotify.com/album/05RICu0AxsqrqoiSzzxeyG"
+      },
+      "artists": [
+        {
+          "name": "Morissette",
+          "url": "https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271846,
+      "name": "Gusto Ko Nang Bumitaw - From \"The Broken Marriage Vow\"",
+      "url": "https://open.spotify.com/track/1FxGqFnJkRgJ5LG2NBRTh3"
+    },
+    {
+      "album": {
         "name": "Gulong Itlog Gulong",
         "url": "https://open.spotify.com/album/58vdgBfvgzQFZ2VreSPGmU"
       },
@@ -325,10 +398,28 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 261866,
       "name": "Hanggang Kailan - Umuwi Ka Na Baby",
       "url": "https://open.spotify.com/track/5UhpceEr5XmbVwyoIUIRnh"
+    },
+    {
+      "album": {
+        "name": "Strike Whilst the Iron Is Hot",
+        "url": "https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl"
+      },
+      "artists": [
+        {
+          "name": "Orange & Lemons",
+          "url": "https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261866,
+      "name": "Hanggang Kailan - Umuwi Ka Na Baby",
+      "url": "https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp"
     },
     {
       "album": {
@@ -343,10 +434,28 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 182200,
       "name": "Harana",
       "url": "https://open.spotify.com/track/3gyEt1vswIEbpQqBs18Lha"
+    },
+    {
+      "album": {
+        "name": "Buruguduystunstugudunstuy",
+        "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Harana",
+      "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
     },
     {
       "album": {
@@ -455,7 +564,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 295413,
       "name": "Huling Sayaw",
       "url": "https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp"
@@ -557,6 +666,24 @@
     {
       "album": {
         "name": "Fuchsiang Pag-Ibig",
+        "url": "https://open.spotify.com/album/6MC4GloSqK2sSTLeYImDV3"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306466,
+      "name": "Ikaw Lamang",
+      "url": "https://open.spotify.com/track/0bhzB5PBUVqZSux5Y7t5ED"
+    },
+    {
+      "album": {
+        "name": "Fuchsiang Pag-Ibig",
         "url": "https://open.spotify.com/album/08SEZDvRXrrNs1C2y73MLi"
       },
       "artists": [
@@ -567,7 +694,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 306466,
       "name": "Ikaw Lamang",
       "url": "https://open.spotify.com/track/2v5VIWMjZxeiG52KckiXxS"
@@ -632,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Isa lang",
+        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269256,
+      "name": "Isa lang",
+      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
+    },
+    {
+      "album": {
         "name": "It Might Be You (Theme from Everyday I Love You)",
         "url": "https://open.spotify.com/album/0obyXODEHnssLgwFovpusL"
       },
@@ -643,10 +788,28 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 252969,
       "name": "It Might Be You - Theme from Everyday I Love You",
       "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"
+    },
+    {
+      "album": {
+        "name": "Kabado",
+        "url": "https://open.spotify.com/album/4QKhoKIlxDjVcMgDznCt7A"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246304,
+      "name": "Kabado",
+      "url": "https://open.spotify.com/track/7oLe1cVRqLpoH2NozJ78mh"
     },
     {
       "album": {
@@ -665,6 +828,24 @@
       "duration_ms": 243015,
       "name": "Kahit Ayaw Mo Na",
       "url": "https://open.spotify.com/track/3TxnGSedv9ZKBFtiC0li1z"
+    },
+    {
+      "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/472GgeFZaCdRLcL3cT0IAn"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 235952,
+      "name": "Kahit Pa",
+      "url": "https://open.spotify.com/track/2VNjWwKlOWU5qqKa5EquLW"
     },
     {
       "album": {
@@ -741,6 +922,24 @@
       "duration_ms": 256572,
       "name": "KLWKN",
       "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
+    },
+    {
+      "album": {
+        "name": "Kung Alam Mo Lang",
+        "url": "https://open.spotify.com/album/54hm1RYQZwy4tZokG4YhGf"
+      },
+      "artists": [
+        {
+          "name": "Bandang Lapis",
+          "url": "https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 256311,
+      "name": "Kung Alam Mo Lang",
+      "url": "https://open.spotify.com/track/2OwTNSBOspDlAWDcv37GIW"
     },
     {
       "album": {
@@ -942,6 +1141,32 @@
     },
     {
       "album": {
+        "name": "Miracle Nights",
+        "url": "https://open.spotify.com/album/0rfMYevzZnaPqqFWtnY9NO"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        },
+        {
+          "name": "L.A. GOON$",
+          "url": "https://open.spotify.com/artist/58DoiT68nhZoGfdiIZiiUw"
+        },
+        {
+          "name": "Peso Mercado",
+          "url": "https://open.spotify.com/artist/4mHU0bUvlVfiq0oarPYlAn"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 374117,
+      "name": "Miracle Nights",
+      "url": "https://open.spotify.com/track/4pUM81y5Rq7vAUeFhJRBXa"
+    },
+    {
+      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
       },
@@ -971,7 +1196,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 232960,
       "name": "Nadarang",
       "url": "https://open.spotify.com/track/6LJ1p1h5EcMK4VPeCLDSoF"
@@ -989,7 +1214,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 379804,
       "name": "Nang Dumating Ka",
       "url": "https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe"
@@ -1175,10 +1400,28 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 341573,
       "name": "Pauwi Nako",
       "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/41S3W52qwH0oEKOx9ByH5t"
+      },
+      "artists": [
+        {
+          "name": "Jericho Rosales",
+          "url": "https://open.spotify.com/artist/3RpJ6OyOnaXRFRXSirgQa6"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 246666,
+      "name": "Pusong Ligaw",
+      "url": "https://open.spotify.com/track/14pj36HKHd6c72njvGVPWU"
     },
     {
       "album": {
@@ -1334,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277098,
+      "name": "Sana - Single Version",
+      "url": "https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m"
+    },
+    {
+      "album": {
         "name": "G9",
         "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
       },
@@ -1363,7 +1624,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-17",
       "duration_ms": 275906,
       "name": "So Slow",
       "url": "https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph"
@@ -1399,7 +1660,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 214773,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT"
@@ -1435,7 +1696,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 243653,
       "name": "Sundo",
       "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
@@ -1475,6 +1736,24 @@
       "duration_ms": 222446,
       "name": "Tadhana",
       "url": "https://open.spotify.com/track/6NFKf8vBApSvtzkapYmnVR"
+    },
+    {
+      "album": {
+        "name": "Tahanan",
+        "url": "https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293727,
+      "name": "Tahanan",
+      "url": "https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu"
     },
     {
       "album": {
@@ -1533,6 +1812,24 @@
     {
       "album": {
         "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291320,
+      "name": "The Day You Said Goodnight",
+      "url": "https://open.spotify.com/track/08hFNg8Oz3lvaAms7qrIif"
+    },
+    {
+      "album": {
+        "name": "Hale",
         "url": "https://open.spotify.com/album/472GgeFZaCdRLcL3cT0IAn"
       },
       "artists": [
@@ -1543,7 +1840,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 291357,
       "name": "The Day You Said Goodnight",
       "url": "https://open.spotify.com/track/0HZ3OUVrGHxttD2EuHqRm3"
@@ -1561,7 +1858,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-17",
       "duration_ms": 207786,
       "name": "The Way You Look at Me",
       "url": "https://open.spotify.com/track/1C3wg8sCIPqpNQx0wAL4DC"
@@ -1729,6 +2026,24 @@
     {
       "album": {
         "name": "Bigotilyo",
+        "url": "https://open.spotify.com/album/6iUGtPyYDUQn9faXr81A3f"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168493,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/0D1ecMMsSIpJbjPoJMHGkV"
+    },
+    {
+      "album": {
+        "name": "Bigotilyo",
         "url": "https://open.spotify.com/album/0kV35wyXIJKk04VRG0DdF4"
       },
       "artists": [
@@ -1739,7 +2054,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 168493,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/3OpGUlDmRUXh0NkIYWoIlD"

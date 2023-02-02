@@ -4,7 +4,7 @@
 
 > Learn some essential Irish and listen along to poetry, prose, and songs in Irish.
 
-71 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/1aW1CMOMKU4vCkCtJQXIuh)
+71 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

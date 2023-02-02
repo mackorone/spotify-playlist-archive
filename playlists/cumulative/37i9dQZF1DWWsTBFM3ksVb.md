@@ -4,7 +4,7 @@
 
 > Comedians weigh in on all things sports, football, and \-of course\- the Super Bowl.
 
-34 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/7AKCbIjD9wb8IuVTkgsXAp)
+34 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

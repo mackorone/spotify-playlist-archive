@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
   "name": "Love Coffee, Love Jesus",
-  "published_playlist_ids": [
-    "0oJReVcQbzcC4wJyLv9HIi"
-  ],
   "tracks": [
     {
       "album": {
@@ -883,7 +880,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-01-16",
       "duration_ms": 277083,
       "name": "Heavenly Things",
       "url": "https://open.spotify.com/track/5JGZWUlNDO7ArFLmvK7MGD"
@@ -1091,7 +1088,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": "2022-12-18",
       "duration_ms": 387536,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
@@ -1637,6 +1634,28 @@
       "duration_ms": 437188,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/6EDa0a42UOJHgcy4WIqwMY"
+    },
+    {
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Samuel Lane",
+          "url": "https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 437188,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR"
     },
     {
       "album": {

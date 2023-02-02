@@ -4,7 +4,7 @@
 
 > Rolling Stone contributing editor Joe Levy presents Incoming, a new panel discussion show about what's next and best on Spotify.
 
-17 songs - 1 hr 1 min - [published](https://open.spotify.com/playlist/3rzVu3zSjxQO4e2UWgrUPE)
+17 songs - 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

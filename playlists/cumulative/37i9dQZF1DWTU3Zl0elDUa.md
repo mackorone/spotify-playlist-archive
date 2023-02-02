@@ -4,7 +4,7 @@
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-125 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/6Kv5FB2j0bACWv8Ol5GxDe)
+125 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:31 | 2021-09-17 | 2022-07-23 |
 | [Let The Freak](https://open.spotify.com/track/2KKmMowig9ZMrZLmaEw9A6) | [Epitome Of Hype](https://open.spotify.com/artist/60SjdVjFjUhR70M8nlqDV5) | [Ladies With An Attitude \(2016 Remaster\)](https://open.spotify.com/album/6CpoJjaKIIdnP5kLpImuxA) | 6:10 | 2021-09-17 | 2022-07-27 |
 | [Let's Get Brutal \- Brutal House](https://open.spotify.com/track/5mOn7oJdEBmG43elhWGfXo) | [Nitro Deluxe](https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR) | [Let's Get Brutal](https://open.spotify.com/album/0EvnsXix5UTUJH8lXHAgdI) | 7:11 | 2021-09-17 | 2022-11-13 |
-| [London Xpress](https://open.spotify.com/track/7qE89I8Xw5WPykWtzPvqoD) | [X\-Press 2](https://open.spotify.com/artist/1mlZXof4sEGLFspPzlQdFL) | [Raise Your Hands](https://open.spotify.com/album/4NS4zVtdf0k9jIsaOsonQV) | 6:46 | 2021-09-17 | 2022-11-22 |
+| [London Xpress](https://open.spotify.com/track/7qE89I8Xw5WPykWtzPvqoD) | [X\-Press 2](https://open.spotify.com/artist/1mlZXof4sEGLFspPzlQdFL) | [Raise Your Hands](https://open.spotify.com/album/4NS4zVtdf0k9jIsaOsonQV) | 6:46 | 2021-09-17 | 2023-01-23 |
 | [Love Come Down \- Club Vocal Mix](https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 8:36 | 2021-09-17 | 2022-07-21 |
 | [Love Commandments \- Vocal Edit](https://open.spotify.com/track/3KJ8vCkG1wmm3JudilTFOx) | [Gisele Jackson](https://open.spotify.com/artist/10UyQv5ojqx3NCPupzEDcd) | [90's House & Garage compiled by Joey Negro](https://open.spotify.com/album/0056ovkC4UuHKagNtk7ZAN) | 7:49 | 2021-09-17 | 2022-07-28 |
 | [Make the World Go Round \- Deep Dish Radio Edit](https://open.spotify.com/track/1EgSVewb2SmueY6ZYD4vzB) | [Sandy B](https://open.spotify.com/artist/4actG94YfJxMVdKBGWkAZL), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Make the World Go Round](https://open.spotify.com/album/1eBnONVrlATUXKSV7v9Wm3) | 3:50 | 2021-09-17 | 2022-07-29 |

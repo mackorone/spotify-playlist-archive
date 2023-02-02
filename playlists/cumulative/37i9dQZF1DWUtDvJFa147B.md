@@ -4,7 +4,7 @@
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-222 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/58WldI3Tf0pggEKgykjjQQ)
+222 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

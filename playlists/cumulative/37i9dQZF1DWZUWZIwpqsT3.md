@@ -4,7 +4,7 @@
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-144 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6MZWwqjG4Q8Yhj3nm7gAIo)
+145 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,5 +152,6 @@
 | [Wherever You Go \(feat\. John Martin\) \- Alle Farben Remix](https://open.spotify.com/track/7jRnSGpjJcnwiLY4QMChzp) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Wherever You Go \(feat\. John Martin\) \[Alle Farben Remix\]](https://open.spotify.com/album/65DHvkWSKfgSzw0xd8VF8h) | 3:24 | 2022-06-17 |  |
 | [Wherever You Go \(feat\. John Martin\) \[Alan Walker Remix\]](https://open.spotify.com/track/6McS3EupXFAjaPdhziFjk7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wherever You Go \(feat\. John Martin\) \[Alan Walker Remix\]](https://open.spotify.com/album/4rn3aNUPv1cggzCQqHdaCp) | 3:16 | 2022-01-07 | 2022-07-29 |
 | [Wherever You Go \(feat\. John Martin\) \[Alle Farben Remix\]](https://open.spotify.com/track/4r6ndOoKApeKBXx9BB4VVA) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Wherever You Go \(feat\. John Martin\) \[Alle Farben Remix\]](https://open.spotify.com/album/2FuG2kQ25n1AEbSTAH8cBq) | 3:24 | 2022-01-07 | 2022-07-29 |
+| [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 | 2023-01-13 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

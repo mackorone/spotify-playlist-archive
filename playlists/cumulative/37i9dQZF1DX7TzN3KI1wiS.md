@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-66 songs - 6 hr 20 min - not published yet
+69 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Awake](https://open.spotify.com/track/0VQcfWi6k4kLOXyOW7YcJO) | [Neither](https://open.spotify.com/artist/7HBVMS57dTJTvNbg6VZ0Nd) | [Exposure](https://open.spotify.com/album/7CdyCtnFb6zI5RIZDaF6yH) | 7:10 | 2022-10-14 |  |
 | [Bind](https://open.spotify.com/track/5SKQlsVC41xO7KLmAqqoij) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Colure](https://open.spotify.com/album/1Lca0I1wv9awAPe6DNHOal) | 4:12 | 2022-10-14 |  |
 | [Body Free \- Original Mix](https://open.spotify.com/track/2McZ6Ntes1gHxzmRA1sq9k) | [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA) | [Body Free EP](https://open.spotify.com/album/3xgHwrN3Kj7mBX8MBFSDbZ) | 7:28 | 2022-10-14 |  |
+| [Can You Feel](https://open.spotify.com/track/4YPs1fsVW9KKJoPxSdRe5V) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Can You Feel](https://open.spotify.com/album/1w5YChnFdQVK4bmKNQMFfh) | 3:40 | 2023-01-20 |  |
 | [Closer \- Radio Edit](https://open.spotify.com/track/6YKW4wcIDefjPzaB5XEpeS) | [As I Am](https://open.spotify.com/artist/6xq703R9S1pfnUYv8npQTU), [Jedd Roberts](https://open.spotify.com/artist/3Fb5rkZb1joETygPJsBF6V) | [Closer](https://open.spotify.com/album/0PdouvNAaoaniNawGgdsaC) | 3:17 | 2022-10-14 |  |
 | [Complex Arguments](https://open.spotify.com/track/3ZggU826FUTTtULnRK8Jxh) | [DesertF!sh](https://open.spotify.com/artist/29X0HFICNL1YoQJmrWZwOL) | [Complex Arguments](https://open.spotify.com/album/6AGVrf6jDZ7SNhNE6TNDSZ) | 7:44 | 2022-10-14 |  |
 | [Dance With Me \- Mixed](https://open.spotify.com/track/4R2CPwLVEWTpDrY4mEPktq) | [Zoo Brazil](https://open.spotify.com/artist/7KXpXc29g9x7kFBnM2HcrM) | [Anjunadeep 11](https://open.spotify.com/album/2uHQPZyOyrGjqaNR1V9FQE) | 3:19 | 2022-10-14 |  |
@@ -40,7 +41,8 @@
 | [I'm Waitin](https://open.spotify.com/track/6f3Y2l9NF0jLIhhfP0vMlD) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [I'm Waitin](https://open.spotify.com/album/3muljk0lmX8hPVH4INunXg) | 7:16 | 2022-10-14 |  |
 | [In Common \- Black Coffee Remix](https://open.spotify.com/track/45gbor15xy5IXj2P5oXQNf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [In Common \(The Remixes\)](https://open.spotify.com/album/7K0eeA5BaamKDiTZ8mm05D) | 4:58 | 2022-10-14 |  |
 | [Innerbloom](https://open.spotify.com/track/4sFv3KYuo4w0KZiCsStweo) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Innerbloom \(The Remixes\)](https://open.spotify.com/album/3F7BkIRC9c624hb5wMb2cI) | 9:38 | 2022-11-04 | 2022-11-13 |
-| [Innerbloom](https://open.spotify.com/track/5GXeNbxOEbd7sKrbsVLVVx) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 9:38 | 2022-10-14 |  |
+| [Innerbloom](https://open.spotify.com/track/5GXeNbxOEbd7sKrbsVLVVx) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 9:38 | 2022-10-14 | 2023-01-12 |
+| [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 | 2022-11-04 |  |
 | [Inside](https://open.spotify.com/track/5LkVo8eiepvRG5x4MDITAO) | [Alex Twitchy](https://open.spotify.com/artist/2o1AjDSjIf7ucd606oobsg), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Inside](https://open.spotify.com/album/1rh1LP6bXavzeo2QEsmVTk) | 4:25 | 2022-10-14 |  |
 | [Javid Khan](https://open.spotify.com/track/1QbDFXJvKeCFylANIY5KqE) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Javid Khan](https://open.spotify.com/album/2LyhoOvgIVefs17hCiIKQJ) | 6:13 | 2022-10-14 |  |
 | [Just Here \- Original Mix](https://open.spotify.com/track/1ntiroVm7Jx99nBTNqyh56) | [Soulight](https://open.spotify.com/artist/4r1UuSBWD05Nxxd0cGFM9T) | [City Talk EP](https://open.spotify.com/album/6Tcd7QW7d56EsvpE9ptScP) | 7:40 | 2022-10-14 |  |
@@ -58,8 +60,9 @@
 | [Problem Solving](https://open.spotify.com/track/4AqJ91ZeMRROimPlwy3M3r) | [DesertF!sh](https://open.spotify.com/artist/29X0HFICNL1YoQJmrWZwOL) | [Complex Arguments](https://open.spotify.com/album/6AGVrf6jDZ7SNhNE6TNDSZ) | 8:40 | 2022-10-14 |  |
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-11-04 |  |
 | [Rendezvous](https://open.spotify.com/track/2veLnenW3fky3BBOKWFfwH) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Rendezvous](https://open.spotify.com/album/5EvhOZgGd0Iz4aONhMj0fY) | 6:34 | 2022-10-14 |  |
-| [Set Me Free](https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Set Me Free](https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln) | 3:30 | 2022-11-04 |  |
+| [Set Me Free \- Extended Mix](https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Set Me Free \(Extended Mix\)](https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln) | 3:30 | 2022-11-04 |  |
 | [Shallow \- Ben Böhmer Remix](https://open.spotify.com/track/1drqut7btLgFmQROnZp6aw) | [Bongbeck](https://open.spotify.com/artist/53l0V3UXlpzeN4NYbilu9T), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Golem](https://open.spotify.com/album/04o0OA8XR3cC6bjhS9rSAg) | 7:50 | 2022-10-14 |  |
+| [Shoft Alhala \- Radio Edit](https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf) | [Vinyl Mode](https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Shoft Alhala](https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8) | 3:46 | 2023-01-20 |  |
 | [Skin & Bones feat\. Lydmoor & Bon Homme](https://open.spotify.com/track/2055wOcQgZovqaQkw5Ysnn) | [Terranova](https://open.spotify.com/artist/5ZrGK55yglfGEOvnB2japP), [Lydmoor](https://open.spotify.com/artist/0zQINzMtshHtPMnquYdY8d), [Bon Homme](https://open.spotify.com/artist/26medj5lDSbOxPHWBgDxL8) | [Restless](https://open.spotify.com/album/4yo6etaXX7ZEw8nvNkTxiL) | 7:01 | 2022-10-14 |  |
 | [Skinny Cat Feat\. Forrest \- Original Mix](https://open.spotify.com/track/2tkxOb7MHFbZjHs0mZI0VS) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Skinny Cat EP](https://open.spotify.com/album/4lLxXV5iDr2iUvjzK1bCHR) | 7:26 | 2022-10-14 |  |
 | [Soldier](https://open.spotify.com/track/2gmjeSpQI7dvGLLcsu6SQq) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Soldier](https://open.spotify.com/album/2zF9dHUmB0BgzdxP2uKt49) | 3:10 | 2022-10-14 |  |

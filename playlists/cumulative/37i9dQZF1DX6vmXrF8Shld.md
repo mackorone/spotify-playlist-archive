@@ -4,7 +4,7 @@
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-74 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/2Q52D217xAp1HkZ1f7Otra)
+78 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,18 +23,22 @@
 | [Doin' Our Thing](https://open.spotify.com/track/22t9iuxxXPGYuRZ0R0Mgej) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Testifyin'](https://open.spotify.com/album/7r20K314cjpVSBSWpAhM4N) | 2:28 | 2020-12-01 |  |
 | [Don't Knock It](https://open.spotify.com/track/4FgpSAmdj1G6QxyPaYFwOy) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:31 | 2020-12-01 |  |
 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 | 2020-12-01 |  |
-| [Everything I Do Goin' Be Funky](https://open.spotify.com/track/5EQRiL6hOtongNIxiTKIM4) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [The Platinum Collection](https://open.spotify.com/album/3iSaoLNyr2b1u0hfAzNsiM) | 3:17 | 2020-12-01 |  |
+| [Everything I Do Goin' Be Funky](https://open.spotify.com/track/2DeZEHRDH35GWfHMkAV6Ih) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [The Platinum Collection](https://open.spotify.com/album/7Lwx1Q6GHeKp6p8pnSgGu6) | 3:17 | 2020-12-01 |  |
+| [Everything I Do Goin' Be Funky](https://open.spotify.com/track/5EQRiL6hOtongNIxiTKIM4) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [The Platinum Collection](https://open.spotify.com/album/3iSaoLNyr2b1u0hfAzNsiM) | 3:17 | 2020-12-01 | 2022-12-01 |
 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 | 2020-12-01 |  |
 | [Funky Street](https://open.spotify.com/track/6uu9g2xpWSPda9SFPvrAmO) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Soul Directions](https://open.spotify.com/album/3PowoJrtqNFSY8HEJ3a1v4) | 2:23 | 2020-12-01 |  |
 | [Girls Can't Do What the Guys Do](https://open.spotify.com/track/2geMYfXFhqZFMdrF08XSLz) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [My First Time Around](https://open.spotify.com/album/60MgM22GTqUI7JI7KddEIA) | 2:07 | 2020-12-01 |  |
 | [Groove Me](https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [Choice Cuts](https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY) | 3:04 | 2020-12-01 |  |
+| [Here Comes The Judge](https://open.spotify.com/track/3sWVdMFlcUzA8p93yIjR2f) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [The Complete Motown Singles \- Vol\. 8: 1968](https://open.spotify.com/album/0XAoUrM42zDYCc0wGsjRFv) | 2:34 | 2020-12-01 | 2022-12-19 |
 | [Here Comes The Judge](https://open.spotify.com/track/61mry0B8GewcTy47HOpIhe) | [Shorty Long](https://open.spotify.com/artist/25ekfEqwias2rDScydpjYF) | [60s Summer Hits](https://open.spotify.com/album/6BzwVfcHtCUmknaAuSpmce) | 2:37 | 2020-12-01 | 2022-08-22 |
-| [Here Comes The Judge](https://open.spotify.com/track/6yNprdbGhzfEwSIaS1GvRV) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [Summer of Motown](https://open.spotify.com/album/1Jkc8r3Uj1ysSQdNjjsSbp) | 2:37 | 2020-12-01 |  |
+| [Here Comes The Judge](https://open.spotify.com/track/6yNprdbGhzfEwSIaS1GvRV) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [Summer of Motown](https://open.spotify.com/album/1Jkc8r3Uj1ysSQdNjjsSbp) | 2:37 | 2020-12-01 | 2022-12-02 |
+| [Here Comes The Judge](https://open.spotify.com/track/2FoOmATzzZmtaD6hKrpDRB) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [Here Comes The Judge \(Expanded Edition\)](https://open.spotify.com/album/06M17CoGEyKAEUGB4xOlea) | 2:38 | 2020-12-01 |  |
 | [Here Comes the Meter Man](https://open.spotify.com/track/1mvsBRtgjW7sxKRNguQtz4) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 2:55 | 2020-12-01 |  |
 | [I Can't Stand Myself \(When You Touch Me\)](https://open.spotify.com/track/2e8ydLYXuH7MEj9eGjqlaz) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [I Can't Stand Myself When You Touch Me](https://open.spotify.com/album/1degrSNPAklT7ypRV2Rc3D) | 3:22 | 2020-12-01 |  |
 | [I Can't Stop Dancing](https://open.spotify.com/track/3evKZi4dI9Nw7Hit26XFN9) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [I Can't Stop Dancing](https://open.spotify.com/album/6EOG2HlsfnM8YDoimOiCyS) | 2:21 | 2020-12-01 |  |
 | [I Want You Back](https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 2:56 | 2020-12-01 |  |
 | [I'm Shakin'](https://open.spotify.com/track/0NFLJaA6Pwha8Yd2lGPKzw) | [Little Willie John](https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ) | [Sleep \- The Singles As & Bs, 1955 \- 1961](https://open.spotify.com/album/66NkEqRkwTBmBAf6FlR0IZ) | 2:28 | 2020-12-01 |  |
+| [I'm Shakin'](https://open.spotify.com/track/23KiVFFZMMMMV3sAVmhrr6) | [Little Willie John](https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ) | [Walk Slow](https://open.spotify.com/album/05cBWZpaWFHYRFt4mmwAil) | 2:35 | 2020-12-01 | 2023-01-12 |
 | [In The Middle \(Parts 1 And 2\)](https://open.spotify.com/track/2JjIeCdqjAlvUqA4FUmjuB) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Popcorn](https://open.spotify.com/album/5LjyPklmoEuSftxKZKV4LZ) | 6:50 | 2020-12-01 |  |
 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 | 2020-12-01 |  |
 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 | 2020-12-01 |  |

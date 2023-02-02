@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-75 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/4dGxVFj5HCMkSll4e0gfQa)
+75 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "despacito que no llevamos prisa",
   "name": "tranquilito",
-  "published_playlist_ids": [
-    "01F4jrZZjsWlaAtllI2OQa"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
@@ -185,7 +182,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 265913,
       "name": "Ayer Ped\u00ed",
       "url": "https://open.spotify.com/track/3E665uWyS30wGSFfqNxNFH"
@@ -1281,7 +1278,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": "2023-01-23",
       "duration_ms": 147250,
       "name": "La Puerta Negra",
       "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
@@ -1473,7 +1470,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 156210,
       "name": "Me Vas A Extran\u0303ar",
       "url": "https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc"
@@ -1567,7 +1564,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 219178,
       "name": "Mi Piel No Te Olvida",
       "url": "https://open.spotify.com/track/1EUn3B0k9TCDAjxmeu4MYo"
@@ -1751,7 +1748,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 200573,
       "name": "Ni\u00f1a De Mi Coraz\u00f3n - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/49y91R9Macp3pdS04Dsu1k"
@@ -2421,7 +2418,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 289565,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
@@ -2439,7 +2436,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 231633,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh"
@@ -2465,6 +2462,24 @@
     {
       "album": {
         "name": "Covers A Mi Estilo",
+        "url": "https://open.spotify.com/album/0fJ40JHtpQP8mZE2qFwYZh"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/24ZUoUcNqEZ9enmLEFLxzd"
+    },
+    {
+      "album": {
+        "name": "Covers A Mi Estilo",
         "url": "https://open.spotify.com/album/5VCYfrOsF7WzUl0QIQCYBc"
       },
       "artists": [
@@ -2475,7 +2490,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 184666,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/3yJPDtrII0EVSQFdpSZIQR"
@@ -3201,7 +3216,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 238973,
       "name": "Usted",
       "url": "https://open.spotify.com/track/0dLmUxDPXQOJpf89eS6iIb"
@@ -3429,7 +3444,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 232727,
       "name": "Yo Ya No Vuelvo Contigo",
       "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"

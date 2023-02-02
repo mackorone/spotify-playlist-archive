@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-01",
   "description": "Jazz for breakfast to start your day right.",
   "name": "Good Morning Jazz",
-  "published_playlist_ids": [
-    "00KxmXWSXPzcN3QrlgmEa1"
-  ],
   "tracks": [
     {
       "album": {
@@ -855,16 +852,16 @@
       },
       "artists": [
         {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
           "name": "Jesper Bodilsen",
           "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
         },
         {
           "name": "Morten Lund",
           "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        },
-        {
-          "name": "Henrik Gunde",
-          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
         }
       ],
       "date_added": "2022-06-30",
@@ -1382,6 +1379,54 @@
     },
     {
       "album": {
+        "name": "Little Bird of Passage",
+        "url": "https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT"
+      },
+      "artists": [
+        {
+          "name": "Niclas Knudsen Trio",
+          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
+        },
+        {
+          "name": "Niclas Knudsen",
+          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321800,
+      "name": "Little Bird of Passage",
+      "url": "https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub"
+    },
+    {
+      "album": {
+        "name": "Lookin' Up",
+        "url": "https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182412,
+      "name": "Lookin' Up",
+      "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
+    },
+    {
+      "album": {
         "name": "In a Sentimental Mood",
         "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
       },
@@ -1659,7 +1704,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 422634,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/0yFNLTyXf0xln5RBR89LVt"
@@ -1885,7 +1930,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 260266,
       "name": "Queen Of The South",
       "url": "https://open.spotify.com/track/5zzuc4E1t63gH4NRITIUWa"
@@ -2651,10 +2696,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 375267,
       "name": "The Starter",
       "url": "https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY"
+    },
+    {
+      "album": {
+        "name": "The Starter",
+        "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
+      },
+      "artists": [
+        {
+          "name": "Per Thornberg",
+          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375267,
+      "name": "The Starter",
+      "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
     },
     {
       "album": {

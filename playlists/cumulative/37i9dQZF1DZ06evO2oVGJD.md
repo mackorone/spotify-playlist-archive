@@ -4,11 +4,11 @@
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/30uI2gYAvX6tKERzCH9fFc)
+61 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2020 Romántico Incurable/Un Loco Solitario](https://open.spotify.com/track/6om6exl9c2oIOIbyr8VgPp) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [2020 Romántico Incurable/Un Loco Solitario](https://open.spotify.com/album/28zbY61jrjElCJNQaOvk6U) | 3:20 | 2022-06-01 |  |
+| [2020 Romántico Incurable/Un Loco Solitario](https://open.spotify.com/track/6om6exl9c2oIOIbyr8VgPp) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [2020 Romántico Incurable/Un Loco Solitario](https://open.spotify.com/album/28zbY61jrjElCJNQaOvk6U) | 3:20 | 2022-06-01 | 2022-12-02 |
 | [Ahora que no estás aquí](https://open.spotify.com/track/6gexgfw9UpdELEd77ztIWu) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 3:15 | 2022-06-01 |  |
 | [Amor Compartido](https://open.spotify.com/track/0pyuUsxcuBPBEw6x8pAiXt) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [No Te Pediré Perdón](https://open.spotify.com/album/007n6PgM8fVRXBPbxw8dmh) | 3:13 | 2022-06-03 | 2022-06-07 |
 | [Amándome](https://open.spotify.com/track/126Y0xmvil0XsIGPhwXGoE) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:03 | 2022-06-01 |  |
@@ -22,7 +22,7 @@
 | [Demente](https://open.spotify.com/track/4evZIOmeHWmUfDcFcESr0u) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 2:20 | 2022-10-12 |  |
 | [Desnudos](https://open.spotify.com/track/0nZz6tnshGTSRWYh8In6Hj) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:17 | 2022-06-01 |  |
 | [Dolerá](https://open.spotify.com/track/18hHM8kKKL6AUFtWYogA4X) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Dolerá](https://open.spotify.com/album/3zBgO51TuNj2zbfeBqqAph) | 3:10 | 2022-06-08 | 2022-10-24 |
-| [El negrito](https://open.spotify.com/track/3ELx3O1UQAXAMzfobMRhyn) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:06 | 2022-09-18 | 2022-10-07 |
+| [El negrito](https://open.spotify.com/track/3ELx3O1UQAXAMzfobMRhyn) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:06 | 2022-09-18 | 2022-12-14 |
 | [El retrato de mamá](https://open.spotify.com/track/2L8uzQnGf2UUWeKHPbsv8F) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:45 | 2022-06-01 |  |
 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 | 2022-06-01 |  |
 | [Ganas De Ti \- Balada Version](https://open.spotify.com/track/4wJ6H2bngItDzDR7voKSqA) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:29 | 2022-06-01 |  |
@@ -50,7 +50,7 @@
 | [Nuevo Amor](https://open.spotify.com/track/3Omc1JskWu7w1bJqBcB5dq) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 3:20 | 2022-06-01 |  |
 | [Obra Maestra](https://open.spotify.com/track/1l1nG6NS9S89SBdpanadQF) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Una Poesía](https://open.spotify.com/album/5X4ge35zs3SC798wQzyb6x) | 3:31 | 2022-06-01 |  |
 | [Otro de Esos Cuentos](https://open.spotify.com/track/5Eqwo0fk0nLt09SialM8UZ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Una Poesía](https://open.spotify.com/album/5X4ge35zs3SC798wQzyb6x) | 3:15 | 2022-06-01 |  |
-| [Perdón](https://open.spotify.com/track/2JGAeqfGwHqmPgjoLEjXpy) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Aniversario](https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq) | 3:32 | 2022-06-01 | 2022-11-21 |
+| [Perdón](https://open.spotify.com/track/2JGAeqfGwHqmPgjoLEjXpy) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Aniversario](https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq) | 3:32 | 2022-06-01 |  |
 | [Piel A Piel](https://open.spotify.com/track/4AjaDTAr3qFQPq5z0xVbps) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 3:16 | 2022-06-07 |  |
 | [Por Mis Defectos](https://open.spotify.com/track/3NAbsREctrB4ApvtNIILlN) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Una Poesía](https://open.spotify.com/album/5X4ge35zs3SC798wQzyb6x) | 3:38 | 2022-06-01 |  |
 | [Quién](https://open.spotify.com/track/0RD4ucWis1jf1HmmvLSCv5) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 2:54 | 2022-06-01 |  |

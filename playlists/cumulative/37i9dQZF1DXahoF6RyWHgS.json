@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
   "name": "Cocina Tradicional",
-  "published_playlist_ids": [
-    "220Sx5aDDrrVs33TO5unGx"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 349973,
       "name": "A Love Supreme",
       "url": "https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn"
@@ -741,7 +738,7 @@
       ],
       "date_added": "2020-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 259746,
       "name": "Cumbia Pa Modernos",
       "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
@@ -1215,7 +1212,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-25",
       "duration_ms": 186107,
       "name": "Jacarandosa - Remastered",
       "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
@@ -1677,7 +1674,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 147789,
       "name": "Mar\u00eda Cristina - Remastered",
       "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
@@ -2603,7 +2600,7 @@
     {
       "album": {
         "name": "Viene de Mi",
-        "url": "https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ"
+        "url": "https://open.spotify.com/album/3QO8BwyrIdg5ZLWevzNCI7"
       },
       "artists": [
         {
@@ -2614,6 +2611,24 @@
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Viene de Mi",
+      "url": "https://open.spotify.com/track/5Hs9XxMWxUj973mlLHw6BV"
+    },
+    {
+      "album": {
+        "name": "Viene de Mi",
+        "url": "https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 230400,
       "name": "Viene de Mi",
       "url": "https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr"

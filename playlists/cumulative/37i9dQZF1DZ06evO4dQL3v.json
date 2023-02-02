@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
   "name": "This Is Banda Toro",
-  "published_playlist_ids": [
-    "0DW1y3ncKQFheSzEpPogld"
-  ],
   "tracks": [
     {
       "album": {
@@ -401,7 +398,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-25",
       "duration_ms": 198280,
       "name": "El Gavilan",
       "url": "https://open.spotify.com/track/3UYUgdnBCbK8jgTKExNy1E"
@@ -607,7 +604,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2022-11-30",
       "duration_ms": 147146,
       "name": "El Toro Zacatecano - Banda Sinaloense",
       "url": "https://open.spotify.com/track/5sV57YmR6NT8VvJm2vGvjg"
@@ -625,7 +622,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 200080,
       "name": "Esa Pared",
       "url": "https://open.spotify.com/track/20S29aqxj8pXq2pyeKM6KL"
@@ -885,10 +882,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 168053,
       "name": "Las Nieves de Enero",
       "url": "https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf"
+    },
+    {
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 177493,
+      "name": "Las Rejas No Matan - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/404UyA1jbIWYi9m6Z9b91X"
     },
     {
       "album": {

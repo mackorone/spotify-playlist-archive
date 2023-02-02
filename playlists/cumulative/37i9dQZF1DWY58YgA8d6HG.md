@@ -4,7 +4,7 @@
 
 > Celebrate music's biggest awards show with all the ultimate performances.
 
-40 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/5RXXgfTftmmcU7xwTY0nj9)
+40 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

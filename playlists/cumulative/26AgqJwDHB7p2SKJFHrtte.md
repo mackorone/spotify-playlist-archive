@@ -4,7 +4,7 @@
 
 > ..\. and don't take yourself too seriously.
 
-27 songs - 1 hr 48 min - [published](https://open.spotify.com/playlist/6bqhoc0TwcZ14ekzZF0Tnw)
+27 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

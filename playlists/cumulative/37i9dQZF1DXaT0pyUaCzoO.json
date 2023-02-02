@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Songs of pride and empowerment to enjoy with little listeners. Cover: That Girl Lay Lay.",
   "name": "Royalty",
-  "published_playlist_ids": [
-    "3JwO20WCBpROR5efKEjH1t"
-  ],
   "tracks": [
     {
       "album": {
@@ -541,10 +538,32 @@
       ],
       "date_added": "2020-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 197666,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
+    },
+    {
+      "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197840,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
     },
     {
       "album": {

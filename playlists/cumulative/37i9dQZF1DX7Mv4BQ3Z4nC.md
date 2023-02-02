@@ -4,7 +4,7 @@
 
 > Sometimes all you need is the sound of a cozy, crackling fireplace...
 
-32 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/7iREik6I9yRBKWdtnXfSp4)
+32 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-05",
   "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favourites from the 2010s.",
   "name": "Headliners",
-  "published_playlist_ids": [
-    "32yWo5rps1QJ3QtObrBl8L"
-  ],
   "tracks": [
     {
       "album": {
@@ -1607,14 +1604,14 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 199343,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0Js9hB2I66nJliPIJxzn2R"
     },
     {
       "album": {
-        "name": "How Deep is Your Love",
+        "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
       "artists": [
@@ -1631,7 +1628,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212640,
-      "name": "How Deep is Your Love",
+      "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     },
     {
@@ -1797,7 +1794,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 337700,
       "name": "Illmerica",
       "url": "https://open.spotify.com/track/3ERVrhNx8p2I3xY9RomH9t"
@@ -2163,7 +2160,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 200156,
       "name": "Like Home - Radio Edit",
       "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
@@ -3292,7 +3289,7 @@
     },
     {
       "album": {
-        "name": "Take Over Control (feat. Eva Simons)",
+        "name": "Take over Control (feat. Eva Simons)",
         "url": "https://open.spotify.com/album/68TnHmMjGBt4u4HpX4EmbS"
       },
       "artists": [
@@ -3309,7 +3306,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220520,
-      "name": "Take Over Control (feat. Eva Simons)",
+      "name": "Take over Control (feat. Eva Simons)",
       "url": "https://open.spotify.com/track/4iD3msRl5hJUBEtrQwnR4k"
     },
     {
@@ -3325,7 +3322,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 168920,
       "name": "Teenage Crime - Radio Edit",
       "url": "https://open.spotify.com/track/3WeOzaQI5ukIzBOiHv3TWh"

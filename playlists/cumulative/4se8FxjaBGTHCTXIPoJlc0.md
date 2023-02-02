@@ -4,7 +4,7 @@
 
 > Music from the podcast Music Happens Here\. This episode focuses on the most iconic songs of Los Angeles, CA.
 
-23 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/5dcMmZPPMG0sxpdyZjJdMH)
+23 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

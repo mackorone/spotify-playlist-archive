@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MM3uKNdJbvefUael12dl3">Rochelle Jordan</a>'s track IDs\. Updated regularly\. Curated by Rochelle Jordan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-62 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/4yHQ5aR7u9UqPIjg8sOxOn)
+64 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 | 2022-03-25 |  |
 | [Find a Way](https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Love Movement](https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2) | 3:23 | 2022-03-25 |  |
 | [Freaks](https://open.spotify.com/track/3pEcpkQkvAFhju89ugLoLN) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [CircoLoco Records & NEZ Present CLR 002](https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C) | 2:56 | 2022-03-25 |  |
-| [Frontline](https://open.spotify.com/track/6b3KUNSmJL1qIfi1hF1G6Y) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu) | 5:39 | 2022-03-25 |  |
+| [Frontline](https://open.spotify.com/track/51QgyO73gGeEIpG5SqoA6n) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 5:39 | 2022-03-25 |  |
+| [Frontline](https://open.spotify.com/track/6b3KUNSmJL1qIfi1hF1G6Y) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu) | 5:39 | 2022-03-25 | 2023-02-02 |
 | [Get Involved](https://open.spotify.com/track/0sTW8OzAchJDkwQOfAQgD3) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [The PJs](https://open.spotify.com/album/4XEJCVGsfK7HI9VgB1lisi) | 3:14 | 2022-03-25 |  |
 | [hearts on fire](https://open.spotify.com/track/5nwLNgUGgBsBE4en888WIV) | [Ceréna](https://open.spotify.com/artist/6jdYcGAF6rLHIf1uc21w37) | [hearts on fire](https://open.spotify.com/album/6KA4tzrQUIeOZVBhyK2s24) | 3:37 | 2022-03-25 |  |
 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 | 2022-03-25 |  |
@@ -49,7 +50,8 @@
 | [papi bones \(feat\. shygirl\)](https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:40 | 2022-03-25 |  |
 | [Praise to the Vibes \- Mr\. Fingers Alternate Version](https://open.spotify.com/track/51MvFPygVSJQHeleNBmo8o) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Praise to the Vibes / Crying Over You \(Remixes\)](https://open.spotify.com/album/2NMjyghBZ7YtDkifpw3mY7) | 5:01 | 2022-03-25 |  |
 | [Pressure \- Afriqua Remix](https://open.spotify.com/track/3TfSElNnYKdRUZfjJaAYEv) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [Pressure \(Afriqua Remix\)](https://open.spotify.com/album/5XFB1tf7m2WkxjeOF1A7SV) | 3:53 | 2022-03-25 |  |
-| [Rock With U](https://open.spotify.com/track/5dHdH9Zw6Z2TPbR1ggyj1B) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/7CkalyLeka8LiJvKBcmwkB) | 3:51 | 2022-03-25 |  |
+| [Rock With U](https://open.spotify.com/track/5dHdH9Zw6Z2TPbR1ggyj1B) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/7CkalyLeka8LiJvKBcmwkB) | 3:51 | 2022-03-25 | 2023-01-10 |
+| [Rock With U](https://open.spotify.com/track/5ZHwIIszkgLcVT3CicIylm) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:52 | 2022-03-25 |  |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-03-25 |  |
 | [SHY GUY](https://open.spotify.com/track/71PRtWCg3aW88Do0VLmjSy) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 1:06 | 2022-03-25 |  |
 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 | 2022-07-15 |  |

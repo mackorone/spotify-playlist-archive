@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Restorative piano and ambient music.",
   "name": "Detox",
-  "published_playlist_ids": [
-    "04iCS2Hqg3BL0NWy8kiZsb"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/1nPTaQHgrjKhSGb5ILEV47"
@@ -37,7 +34,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3guxwqIaamTCMA0rXL5uKj"
@@ -55,7 +52,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4t6PkD6UKAkvDhHw7uKjdC"
@@ -73,7 +70,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS"
@@ -134,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/11QoIoyTLRMCtRTdGmRqJY"
+      },
+      "artists": [
+        {
+          "name": "Sleeptone",
+          "url": "https://open.spotify.com/artist/62K5MlkTYIHSpF8pqbuf5m"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146076,
+      "name": "A Hundred Years",
+      "url": "https://open.spotify.com/track/4An6hT0FiW9RijAIej8NEp"
+    },
+    {
+      "album": {
         "name": "A l'aube",
         "url": "https://open.spotify.com/album/2PiAhpMBDjNqN85uHRf60G"
       },
@@ -145,7 +160,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 204500,
       "name": "A l'aube",
       "url": "https://open.spotify.com/track/4kyq9I3MUOK4UCt9KojulV"
@@ -188,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Across The Lake",
+        "url": "https://open.spotify.com/album/6FZ6SHjpiRxPCngtSqX1qL"
+      },
+      "artists": [
+        {
+          "name": "Annmarie Celine",
+          "url": "https://open.spotify.com/artist/0XdUzYIOLBT1s6YgLxcWi6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Across The Lake",
+      "url": "https://open.spotify.com/track/6AChlY3k4jnOJKVH2zXSDr"
+    },
+    {
+      "album": {
         "name": "Ad Infinitum",
         "url": "https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR"
       },
@@ -221,6 +254,24 @@
       "duration_ms": 239224,
       "name": "Allt finns kvar",
       "url": "https://open.spotify.com/track/6eTRQbYbCnrnm0ghn4eUNd"
+    },
+    {
+      "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/4Wv2qeeio7rqXy3jPZuHuf"
+      },
+      "artists": [
+        {
+          "name": "Yves Alija",
+          "url": "https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225011,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/5VpRhHsT7DhWRyzLq40dRw"
     },
     {
       "album": {
@@ -613,7 +664,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 162000,
       "name": "Chasing Cloud Nine",
       "url": "https://open.spotify.com/track/3syIiKL3nOWcphWLsVtMEA"
@@ -661,8 +712,8 @@
       },
       "artists": [
         {
-          "name": "Roni Adrian",
-          "url": "https://open.spotify.com/artist/20g8Ikt05FAocB1BRjfImY"
+          "name": "Pitouu",
+          "url": "https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG"
         }
       ],
       "date_added": "2022-09-13",
@@ -685,7 +736,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 159632,
       "name": "Cloudy Mountains",
       "url": "https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl"
@@ -926,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/3c8RWTE6C8Ok6yAxfeQkYZ"
+      },
+      "artists": [
+        {
+          "name": "Riseran",
+          "url": "https://open.spotify.com/artist/5Nxj0jnslmO6SYW2ikO1Ho"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155267,
+      "name": "Dream Winds",
+      "url": "https://open.spotify.com/track/3augHYWWU4yLtwpchGKyaW"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/75Zm6EmgaCMhiCmDfHpcxe"
       },
@@ -1117,7 +1186,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 257624,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/6y0lVyrMuMfpOLBBItogIT"
@@ -1531,7 +1600,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 191348,
       "name": "Hidden Principles",
       "url": "https://open.spotify.com/track/3DHSM5fxFWtCCS57USzgPU"
@@ -1585,7 +1654,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 174825,
       "name": "Humilis Cicer",
       "url": "https://open.spotify.com/track/1sYKMOqw4fgn8jlHrlodmU"
@@ -1639,7 +1708,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 124528,
       "name": "If.",
       "url": "https://open.spotify.com/track/29QCZzX5VWwuzF4fLKFYTj"
@@ -1736,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Kaikoura",
+        "url": "https://open.spotify.com/album/6GdrIIHxUkFJWYhOEYsKC5"
+      },
+      "artists": [
+        {
+          "name": "Jay Belshaw",
+          "url": "https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195874,
+      "name": "Kaikoura",
+      "url": "https://open.spotify.com/track/6VbbLSIgEMklrpKjdhwtpF"
+    },
+    {
+      "album": {
         "name": "L'ambience",
         "url": "https://open.spotify.com/album/0eyvpkaCP84vYfRUIY65XO"
       },
@@ -1805,6 +1892,24 @@
       "duration_ms": 221000,
       "name": "Lasai",
       "url": "https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH"
+    },
+    {
+      "album": {
+        "name": "Laten gaan",
+        "url": "https://open.spotify.com/album/54x0xtunfNKKWCpJHKEhE6"
+      },
+      "artists": [
+        {
+          "name": "Niel Hupkes",
+          "url": "https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208379,
+      "name": "Laten gaan",
+      "url": "https://open.spotify.com/track/1O9Y8T03JiS7yPGcj8IBk0"
     },
     {
       "album": {
@@ -2294,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Nadir",
+        "url": "https://open.spotify.com/album/507ydEo8wDHYdqRTrYKnoa"
+      },
+      "artists": [
+        {
+          "name": "Huma",
+          "url": "https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184638,
+      "name": "Nadir",
+      "url": "https://open.spotify.com/track/6K5p8d68b93xG1H95gfksi"
+    },
+    {
+      "album": {
         "name": "Nature of Life",
         "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
       },
@@ -2363,6 +2486,24 @@
       "duration_ms": 224277,
       "name": "Nibelia",
       "url": "https://open.spotify.com/track/4f5uEi9y4C2gI4IBalSRjd"
+    },
+    {
+      "album": {
+        "name": "Nidificatis",
+        "url": "https://open.spotify.com/album/6qn2pv0c1CI7wz4VQIRTG4"
+      },
+      "artists": [
+        {
+          "name": "Naara Constellation",
+          "url": "https://open.spotify.com/artist/2hBWR8hVlBRuM7Zuoe3vKM"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135957,
+      "name": "Nidificatis",
+      "url": "https://open.spotify.com/track/1pV8smgVNjsXkKafaR3Xzw"
     },
     {
       "album": {
@@ -2780,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Night Explorer",
+        "url": "https://open.spotify.com/album/4nVmSEXUsqxaGcpdvhsHLd"
+      },
+      "artists": [
+        {
+          "name": "Leo Mano",
+          "url": "https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150240,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/45is8QBgjhyLKWQEslJKQs"
+    },
+    {
+      "album": {
         "name": "Porcelain",
         "url": "https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx"
       },
@@ -2875,8 +3034,8 @@
       },
       "artists": [
         {
-          "name": "Mergen Aurel",
-          "url": "https://open.spotify.com/artist/3xcPKdQ9jaodfrdkUR725f"
+          "name": "Reiki Akoya",
+          "url": "https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5"
         }
       ],
       "date_added": "2022-11-11",
@@ -3194,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/4bQsNgAsXxKkCuWXGNqBbA"
+      },
+      "artists": [
+        {
+          "name": "Tilman Stoiber",
+          "url": "https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170606,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/5iiPukjaEZxWXC0EAzFujm"
+    },
+    {
+      "album": {
         "name": "Serene",
         "url": "https://open.spotify.com/album/3DHeJvTrp7SnoX5QsBxMFN"
       },
@@ -3241,7 +3418,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 134715,
       "name": "Shizuka",
       "url": "https://open.spotify.com/track/6HT1n99x9rmGRQd2lbszzI"
@@ -3277,7 +3454,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 207500,
       "name": "Sidereus",
       "url": "https://open.spotify.com/track/1jp80qB36x0WCV1zPHRq31"
@@ -3317,6 +3494,24 @@
       "duration_ms": 158000,
       "name": "Similarities",
       "url": "https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r"
+    },
+    {
+      "album": {
+        "name": "Simmsalla",
+        "url": "https://open.spotify.com/album/0vj7sVGfCoOr0MgJYI0q3h"
+      },
+      "artists": [
+        {
+          "name": "Har Rhei",
+          "url": "https://open.spotify.com/artist/0kggqvoFnK8Z2sFpqfNg2c"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Simmsalla",
+      "url": "https://open.spotify.com/track/1SmalBOO15AfMrxIhKn6Ks"
     },
     {
       "album": {
@@ -3367,7 +3562,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 201558,
       "name": "Slowly Relaxing",
       "url": "https://open.spotify.com/track/19iBXrL3jjNmm4oDaozXWA"
@@ -3439,7 +3634,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 187000,
       "name": "Somnium Meum",
       "url": "https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb"
@@ -3601,7 +3796,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 205384,
       "name": "Sunflower Sunset",
       "url": "https://open.spotify.com/track/3vPoUXeqlDaqHUx38pe7tb"
@@ -3691,7 +3886,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 156774,
       "name": "The Explorer",
       "url": "https://open.spotify.com/track/02CXPIbxZQD8utqIQBQ59A"
@@ -3703,8 +3898,8 @@
       },
       "artists": [
         {
-          "name": "Mo Fiera",
-          "url": "https://open.spotify.com/artist/3L536wLE8wGiLp3ttXomqz"
+          "name": "Gargantis",
+          "url": "https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz"
         }
       ],
       "date_added": "2022-11-11",
@@ -3811,8 +4006,8 @@
       },
       "artists": [
         {
-          "name": "Zona Mantra",
-          "url": "https://open.spotify.com/artist/0b2Q3tI1HhyAvShmOwCg2W"
+          "name": "Gargantis",
+          "url": "https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz"
         }
       ],
       "date_added": "2022-10-21",
@@ -4076,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Ur Intet",
+        "url": "https://open.spotify.com/album/10GmTICjKdSuH5BGgYK4Br"
+      },
+      "artists": [
+        {
+          "name": "Vera Mejer",
+          "url": "https://open.spotify.com/artist/2aMUpj4kSFl3XEdA3UCEIi"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187185,
+      "name": "Ur Intet",
+      "url": "https://open.spotify.com/track/3j9lwtdDw7ITWVY0eEuznt"
+    },
+    {
+      "album": {
         "name": "Vaggvisa",
         "url": "https://open.spotify.com/album/2q2I0k4FPubYO3EfyaN0zO"
       },
@@ -4145,6 +4358,24 @@
       "duration_ms": 138138,
       "name": "Veilless",
       "url": "https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT"
+    },
+    {
+      "album": {
+        "name": "Vinternatt",
+        "url": "https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U"
+      },
+      "artists": [
+        {
+          "name": "Iben Haugen",
+          "url": "https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158941,
+      "name": "Vinternatt",
+      "url": "https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov"
     },
     {
       "album": {

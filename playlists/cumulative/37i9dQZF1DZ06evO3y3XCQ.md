@@ -4,18 +4,19 @@
 
 > This is Thursday\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 56 min - not published yet
+48 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Darker Forest](https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 3:39 | 2022-10-27 |  |
 | [A Hole In The World](https://open.spotify.com/track/5fNCiYldS7oqIuOuTuKRGM) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:27 | 2022-10-31 |  |
-| [A Sketch For Time's Arrow](https://open.spotify.com/track/7f1BLzNWamtnJlF7YG52Am) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 1:38 | 2022-10-27 |  |
+| [A Sketch For Time's Arrow](https://open.spotify.com/track/7f1BLzNWamtnJlF7YG52Am) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 1:38 | 2022-10-27 | 2022-12-05 |
+| [As He Climbed The Dark Mountain](https://open.spotify.com/track/0CraZjvIB4XJ87tC7N5Zcn) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:01 | 2023-01-16 | 2023-02-02 |
 | [Asleep In The Chapel](https://open.spotify.com/track/4tKjOaJ6994Fj1DcJGKriC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:46 | 2022-10-27 |  |
 | [At This Velocity](https://open.spotify.com/track/3H9eREtPUuMFijG1ryHqQ6) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 2:56 | 2022-10-27 |  |
 | [Autobiography Of A Nation](https://open.spotify.com/track/0ALZo8QRVF93qCVyseIjNF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:55 | 2022-10-27 |  |
 | [Between Rupture And Rapture](https://open.spotify.com/track/49ie1J8zRI73U2ve8dPuPq) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:03 | 2022-10-27 |  |
-| [Beyond The Visible Spectrum](https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:59 | 2022-10-27 |  |
+| [Beyond The Visible Spectrum](https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:59 | 2022-10-27 | 2023-01-17 |
 | [Concealer](https://open.spotify.com/track/3EPVk0rM704NDj9hWDne63) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 2:19 | 2022-10-27 |  |
 | [Counting 5\-4\-3\-2\-1](https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 3:19 | 2022-10-27 |  |
 | [Cross Out The Eyes](https://open.spotify.com/track/1HiBAaHMxp8Adf2XEqobn5) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:08 | 2022-10-27 |  |
@@ -48,6 +49,8 @@
 | [The Lovesong Writer](https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 5:18 | 2022-10-27 |  |
 | [The Other Side Of The Crash/Over And Out \(Of Control\)](https://open.spotify.com/track/41fAJ4UTQemRnjRkJRstZk) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 4:41 | 2022-10-27 |  |
 | [This Side of Brightness](https://open.spotify.com/track/5gOlzxxl94eXariShwCikl) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 3:31 | 2022-10-27 |  |
+| [This Song Brought To You By A Falling Bomb](https://open.spotify.com/track/6VYMzpPyB6QVdPwXP0fTMw) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 2:16 | 2022-12-15 | 2023-02-02 |
+| [Time's Arrow](https://open.spotify.com/track/2EPYehgxIsqGvxUcxwgxkH) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:13 | 2023-01-19 |  |
 | [Turnpike Divides](https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 4:53 | 2022-10-27 |  |
 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 | 2022-10-27 |  |
 | [Voices On A String](https://open.spotify.com/track/1x4hsESxhGafiTFQDIAsCx) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 3:32 | 2022-10-27 |  |

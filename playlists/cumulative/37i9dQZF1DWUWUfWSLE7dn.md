@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-152 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+153 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Colin](https://open.spotify.com/track/1Bd5aIOYLMyxvI4FtG08x9) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Colin](https://open.spotify.com/album/2naNvERtXmruzo0nxV4pWR) | 2:43 | 2022-09-02 | 2022-11-09 |
 | [Coming Home](https://open.spotify.com/track/45jrXtFx8ERLW66AF4r53F) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [The Elder Scrolls Blades: Original Game Soundtrack](https://open.spotify.com/album/6zBhT9ZcGURdtZjA0q1JlG) | 3:14 | 2022-11-08 |  |
 | [Crossing Paths](https://open.spotify.com/track/6gN8d0TrjwkcVgrZpFyp3c) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Crossing Paths](https://open.spotify.com/album/6tDR44G5XlTW1n5YxhX29c) | 3:01 | 2022-03-09 | 2022-11-09 |
-| [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 | 2022-03-09 |  |
+| [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 | 2022-03-09 | 2023-01-22 |
+| [Crossroad at Dawn](https://open.spotify.com/track/5rQx4Rhe1gey7FJSO5F4aV) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Chaotic Chronicle \(Lineage2 Original Game Soundtrack\)](https://open.spotify.com/album/04wngi30Qap95fjcdn7SbC) | 2:00 | 2023-01-09 |  |
 | [Cyllene](https://open.spotify.com/track/2rdfoD2s2fZIKxAqcX2t9O) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Cyllene](https://open.spotify.com/album/5JbLwgqc6LYNVWFnH4IGVn) | 2:51 | 2022-09-02 | 2022-11-09 |
 | [Dance of the Druids \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/39IOkz6LpC1qc5Wnt0T07r) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 4:38 | 2022-11-08 |  |
 | [Dark Turns to Light](https://open.spotify.com/track/2PNeM2ARcSxLO1WzrI8f8p) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [It All Ends Now](https://open.spotify.com/album/0IaeaE66odi4fU98H3qK48) | 4:10 | 2022-03-09 | 2022-11-09 |

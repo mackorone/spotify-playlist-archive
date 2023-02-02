@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "This is Luke Combs. The essential tracks, all in one playlist.\n",
   "name": "This Is Luke Combs",
-  "published_playlist_ids": [
-    "3Kp3WiSdtQdoPYlxnSP7sR"
-  ],
   "tracks": [
     {
       "album": {
@@ -605,6 +602,24 @@
       "duration_ms": 177266,
       "name": "Going, Going, Gone",
       "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
+    },
+    {
+      "album": {
+        "name": "Growin' Up and Gettin' Old",
+        "url": "https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Growin' Up and Gettin' Old",
+      "url": "https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-04-26",
   "description": "Stay focused with electronic and trap beats.",
   "name": "All-Nighter",
-  "published_playlist_ids": [
-    "429tTbbut5PiLd9eaOOdPG"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 162000,
       "name": "Aftershock",
       "url": "https://open.spotify.com/track/6X2DG2wogUVDPyKWkK8jBC"
@@ -1248,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Last Breath",
+        "url": "https://open.spotify.com/album/7kgTiCRbJ9WHwvctE8yHZi"
+      },
+      "artists": [
+        {
+          "name": "Pixel Souls",
+          "url": "https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202109,
+      "name": "Don't Speak His Name",
+      "url": "https://open.spotify.com/track/046RxrrENoOmaP3fHy15Dq"
+    },
+    {
+      "album": {
         "name": "Donnie DarKo",
         "url": "https://open.spotify.com/album/44NTVo4xYykD6ni27p3yoG"
       },
@@ -2142,6 +2157,42 @@
     },
     {
       "album": {
+        "name": "Sugar And Spice",
+        "url": "https://open.spotify.com/album/0iFPKou8RDoxch8hlcPSAk"
+      },
+      "artists": [
+        {
+          "name": "Box \u2019o Choc",
+          "url": "https://open.spotify.com/artist/1l5fAasAZkPYUsrcEGyRcJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110225,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/2UdHjExuU2ATgnKe77LcDb"
+    },
+    {
+      "album": {
+        "name": "Godess",
+        "url": "https://open.spotify.com/album/6ze5yOAvCfm2UZCetGqOSh"
+      },
+      "artists": [
+        {
+          "name": "Charles Hewits",
+          "url": "https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168964,
+      "name": "Godess",
+      "url": "https://open.spotify.com/track/3Uwskc8fcou9aZWP2XfUDk"
+    },
+    {
+      "album": {
         "name": "Gogh",
         "url": "https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn"
       },
@@ -2650,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Uno Dos Tres",
+        "url": "https://open.spotify.com/album/64bGvDTlBn0tnDpNdCUYvy"
+      },
+      "artists": [
+        {
+          "name": "Valhallz",
+          "url": "https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139377,
+      "name": "julep",
+      "url": "https://open.spotify.com/track/0ETX9i6qiLxEvuFV7QcjPS"
+    },
+    {
+      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn"
       },
@@ -2935,7 +3004,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 140571,
       "name": "Life on Hold",
       "url": "https://open.spotify.com/track/5BLgn3YW4egzpgV1q5oPTP"
@@ -3011,6 +3080,24 @@
       "duration_ms": 230769,
       "name": "Lone Time",
       "url": "https://open.spotify.com/track/4VLNtvBPryNoSAa4EA1pHG"
+    },
+    {
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/7808T5V1eWDOc5vGKtqcB9"
+      },
+      "artists": [
+        {
+          "name": "Damian Thorpe",
+          "url": "https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157464,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/4MPS8kSzTiVFhgv9MDJncU"
     },
     {
       "album": {
@@ -3522,6 +3609,28 @@
     },
     {
       "album": {
+        "name": "Na Estrada",
+        "url": "https://open.spotify.com/album/0Im85kZFOeGSWDNQLZGbAG"
+      },
+      "artists": [
+        {
+          "name": "Condnash",
+          "url": "https://open.spotify.com/artist/6zKxYviwG1S3rpbIzcOc3P"
+        },
+        {
+          "name": "Beatmology",
+          "url": "https://open.spotify.com/artist/371X0EF8wqSvR4g8bZf0p9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77241,
+      "name": "Na Estrada",
+      "url": "https://open.spotify.com/track/4OV49soNqpXsTLWyON0wOd"
+    },
+    {
+      "album": {
         "name": "Needless to Say",
         "url": "https://open.spotify.com/album/7ooLEVtJYscAdXs1dZGHJz"
       },
@@ -3537,6 +3646,24 @@
       "duration_ms": 187105,
       "name": "Needless to Say",
       "url": "https://open.spotify.com/track/2L564Gg8T5QvE3I9qc4Okr"
+    },
+    {
+      "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/7vJWTQKgKWG333yoWVsG8Y"
+      },
+      "artists": [
+        {
+          "name": "Griefcake",
+          "url": "https://open.spotify.com/artist/7eIwiNtHsGoC9N9b0bvUU0"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156857,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/26vTevxFBa9h0i5013tTef"
     },
     {
       "album": {
@@ -3810,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "Peep",
+        "url": "https://open.spotify.com/album/1H1BSktT6OnfBx8Alr3CKR"
+      },
+      "artists": [
+        {
+          "name": "Slim Rex",
+          "url": "https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97033,
+      "name": "Peep",
+      "url": "https://open.spotify.com/track/79S0qKFlhMvRgV2gTgyrUi"
+    },
+    {
+      "album": {
         "name": "Peer Pressure",
         "url": "https://open.spotify.com/album/6FGjZ4GxmrGCr89TRLwk19"
       },
@@ -3825,6 +3970,24 @@
       "duration_ms": 204937,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/30PDbNjIAYsxmh5z0gdJUN"
+    },
+    {
+      "album": {
+        "name": "Perfect Dream",
+        "url": "https://open.spotify.com/album/1SIsocvfPaZSbfDFGmgoLe"
+      },
+      "artists": [
+        {
+          "name": "LILCHI",
+          "url": "https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "Perfect Dream",
+      "url": "https://open.spotify.com/track/3xwOHHCCN6fR3xDW8rJmnk"
     },
     {
       "album": {
@@ -4080,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "Redemption Art",
+        "url": "https://open.spotify.com/album/6G15IbO6nTl1Ay9GcBf9VM"
+      },
+      "artists": [
+        {
+          "name": "Fadez N Riser",
+          "url": "https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167166,
+      "name": "Redemption Art",
+      "url": "https://open.spotify.com/track/36029vUr50awRBW4ZkGc59"
+    },
+    {
+      "album": {
         "name": "Regardless",
         "url": "https://open.spotify.com/album/5msAk3rbAcG0NjJf8LDoBQ"
       },
@@ -4131,7 +4312,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 145945,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/1XKngi22KpRA2EEJvW9JTM"
@@ -4153,6 +4334,24 @@
       "duration_ms": 143606,
       "name": "Rivulet",
       "url": "https://open.spotify.com/track/1oR9gfWMz6KqwWRGnyEuyc"
+    },
+    {
+      "album": {
+        "name": "Rocio",
+        "url": "https://open.spotify.com/album/1aLbXKsbNs3ZIlN0ekPV92"
+      },
+      "artists": [
+        {
+          "name": "Polis Sitz",
+          "url": "https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186781,
+      "name": "Rocio",
+      "url": "https://open.spotify.com/track/4XSfKPQjnyDIysE98WfDEB"
     },
     {
       "album": {
@@ -4250,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "Cyclos Era",
+        "url": "https://open.spotify.com/album/23A8EOYmC9yiQbQFFMENNk"
+      },
+      "artists": [
+        {
+          "name": "A P O L L O",
+          "url": "https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184781,
+      "name": "Sauce Packets",
+      "url": "https://open.spotify.com/track/6Dfual7Y3pGjqcD8RE1h5V"
+    },
+    {
+      "album": {
         "name": "Dungeon Noise",
         "url": "https://open.spotify.com/album/79ogyayn4MJNI1p6QND3DB"
       },
@@ -4269,6 +4486,24 @@
       "duration_ms": 192052,
       "name": "Savages",
       "url": "https://open.spotify.com/track/2A9zsaUmd2lBr9P9TWVvKI"
+    },
+    {
+      "album": {
+        "name": "Match Point",
+        "url": "https://open.spotify.com/album/2u35klcXYCqEw3EduiZ3ha"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139512,
+      "name": "Second Serve",
+      "url": "https://open.spotify.com/track/5qpHFAokVgtjtQ4CawpQPR"
     },
     {
       "album": {
@@ -4465,6 +4700,24 @@
       "duration_ms": 267726,
       "name": "Sierra",
       "url": "https://open.spotify.com/track/1HXF2YmK51j1uEHgEwsxg3"
+    },
+    {
+      "album": {
+        "name": "Blood in the Night",
+        "url": "https://open.spotify.com/album/5F85byRYuprIUfpXnLDCD0"
+      },
+      "artists": [
+        {
+          "name": "Takek",
+          "url": "https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163482,
+      "name": "Silent Haters",
+      "url": "https://open.spotify.com/track/7JfxL8fwpZqFcOn7Y4FeJ2"
     },
     {
       "album": {
@@ -4747,8 +5000,8 @@
       },
       "artists": [
         {
-          "name": "Snake Pila",
-          "url": "https://open.spotify.com/artist/345Ge7p3aRxLcZ7q6lf7BT"
+          "name": "Spiral Groove",
+          "url": "https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0"
         }
       ],
       "date_added": "2022-11-25",
@@ -4847,6 +5100,24 @@
       "duration_ms": 146686,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/4EhPkSCSZ7p2wawSzJAjLh"
+    },
+    {
+      "album": {
+        "name": "The Midnight Rendezvous",
+        "url": "https://open.spotify.com/album/7ab2LHNv9xISb0Dh3QXjSN"
+      },
+      "artists": [
+        {
+          "name": "Stuzi Galactic",
+          "url": "https://open.spotify.com/artist/55sAiEzPJjN2stpeaZsE1A"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Sunny Daze",
+      "url": "https://open.spotify.com/track/5jO0yYSU9sRgnJgfRC9RBl"
     },
     {
       "album": {
@@ -5416,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/2OEPCvtFSVgaQzVDcqGX61"
+      },
+      "artists": [
+        {
+          "name": "Mooshy",
+          "url": "https://open.spotify.com/artist/25CodL66ToRkp4p6b86S5I"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Under Blue",
+      "url": "https://open.spotify.com/track/7CEycuhaJ8aR9fJlRIlt2u"
+    },
+    {
+      "album": {
         "name": "Unfaithful",
         "url": "https://open.spotify.com/album/4lAcr0NSO9OF06inxnKITz"
       },
@@ -5485,6 +5774,24 @@
       "duration_ms": 169185,
       "name": "Vermilion",
       "url": "https://open.spotify.com/track/2jTt400XuvBW6EhMASvVEY"
+    },
+    {
+      "album": {
+        "name": "very tired",
+        "url": "https://open.spotify.com/album/1qfvdxgGiJGPEFkK4QbRQw"
+      },
+      "artists": [
+        {
+          "name": "foxwedding",
+          "url": "https://open.spotify.com/artist/0DHLXYQowVvc8oQxp5Lrk3"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108521,
+      "name": "very tired",
+      "url": "https://open.spotify.com/track/3Bkird1s4oFtscCyYU2xCA"
     },
     {
       "album": {

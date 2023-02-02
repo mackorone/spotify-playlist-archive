@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-19",
   "description": "would you like to save before closing?",
   "name": "webcore",
-  "published_playlist_ids": [
-    "36YqD8F3x0V42aodGC6n57"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 218786,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO"
@@ -387,7 +384,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 151058,
       "name": "departure",
       "url": "https://open.spotify.com/track/3uexwXJFkOVHkmulr3IiLc"
@@ -657,7 +654,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 81000,
       "name": "I Really Wish I Was Playing Smash Bros Right Now",
       "url": "https://open.spotify.com/track/7hST4LHaypUoUeGayzsuPG"
@@ -1411,7 +1408,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": "2022-12-30",
       "duration_ms": 116363,
       "name": "RED ALERT",
       "url": "https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO"
@@ -1735,7 +1732,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 289749,
       "name": "Zero Day",
       "url": "https://open.spotify.com/track/084WJhjzcITo45JEgbA40S"

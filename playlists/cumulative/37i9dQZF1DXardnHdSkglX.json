@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Some of the world's biggest pop hits in bossa nova versions.",
   "name": "Bossa Nova Covers",
-  "published_playlist_ids": [
-    "23RXcXaPeEct85QVx5IyTE"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 352000,
       "name": "Africa",
       "url": "https://open.spotify.com/track/0S4zmSgNqpRepyCstQBH4F"
@@ -429,10 +426,32 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 353756,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4uTeVyCIvptw95iGjb6Jfz"
+    },
+    {
+      "album": {
+        "name": "Best of Bossa Lounge (International Version)",
+        "url": "https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow"
+      },
+      "artists": [
+        {
+          "name": "Costa Azul Quartet",
+          "url": "https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK"
+        },
+        {
+          "name": "Stephenie Coker",
+          "url": "https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353756,
+      "name": "Careless Whisper (feat. Stephenie Coker)",
+      "url": "https://open.spotify.com/track/78igxfQCKcsgQ1yeV0Vmpz"
     },
     {
       "album": {
@@ -844,6 +863,28 @@
     },
     {
       "album": {
+        "name": "Neon Genesis Evangelion (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        },
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Fly Me To the Moon - Yoko Takahashi Acid Bossa Version",
+      "url": "https://open.spotify.com/track/3ia8uKWZIDLp8hKm18zuNS"
+    },
+    {
+      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/5a29JELNdty5VN1G0aPZ8t"
       },
@@ -1087,7 +1128,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 207946,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/4lGneSloc1ac2MjEx7nBgt"
@@ -1543,10 +1584,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 227466,
       "name": "It's a Shame",
       "url": "https://open.spotify.com/track/2g3YrAu9dB8fRkSN61wdon"
+    },
+    {
+      "album": {
+        "name": "Bossa Nova Lounge",
+        "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
+      },
+      "artists": [
+        {
+          "name": "The Big Bossa",
+          "url": "https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "It's a Shame",
+      "url": "https://open.spotify.com/track/5jczKDtwEGoHxmoQkwKeoc"
     },
     {
       "album": {
@@ -1675,6 +1734,46 @@
       "duration_ms": 247309,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/5PYR8kczV8VG6H3V6hlu5N"
+    },
+    {
+      "album": {
+        "name": "Best of Bossa Lounge (International Version)",
+        "url": "https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow"
+      },
+      "artists": [
+        {
+          "name": "Nova Jazzers",
+          "url": "https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf"
+        },
+        {
+          "name": "Daniela Maia",
+          "url": "https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203152,
+      "name": "Let's Stay Together (feat. Daniela Maia)",
+      "url": "https://open.spotify.com/track/0j0fypZtR9WqBehhyRjDiu"
+    },
+    {
+      "album": {
+        "name": "Levitating",
+        "url": "https://open.spotify.com/album/1tVDdnR7JmqOOa38mJwOAF"
+      },
+      "artists": [
+        {
+          "name": "Bossanova Tribute",
+          "url": "https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208071,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/2c4WIQiQF3lWJH30MTm5EE"
     },
     {
       "album": {
@@ -1871,7 +1970,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 272347,
       "name": "Nothing Breaks Like A Heart",
       "url": "https://open.spotify.com/track/6H9YOcdqbggBgH3eOaCPE0"
@@ -1991,6 +2090,24 @@
       "duration_ms": 183225,
       "name": "Poker Face (Bossa Version)",
       "url": "https://open.spotify.com/track/3tCo6yIax5tmjwvxqlngxi"
+    },
+    {
+      "album": {
+        "name": "Positions (Bossa Version)",
+        "url": "https://open.spotify.com/album/218e30ooDSv9hrL6127O7b"
+      },
+      "artists": [
+        {
+          "name": "Franco Sattamini",
+          "url": "https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230341,
+      "name": "Positions - Bossa Version",
+      "url": "https://open.spotify.com/track/5JOhyEe6iqEdu8zH8ZCxjl"
     },
     {
       "album": {
@@ -2143,7 +2260,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 247292,
       "name": "Rude",
       "url": "https://open.spotify.com/track/2jz3QOQ5vZ37EeiGwFCiy6"
@@ -2638,6 +2755,28 @@
     },
     {
       "album": {
+        "name": "Stayin\u00b4 Alive",
+        "url": "https://open.spotify.com/album/0CRqHi78ffOhz9nTlDmTtU"
+      },
+      "artists": [
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        },
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206988,
+      "name": "Stayin\u00b4 Alive",
+      "url": "https://open.spotify.com/track/12f2rs4Jf56qbyx1tdKdp4"
+    },
+    {
+      "album": {
         "name": "Relaxing Bossa Nova Cover Hits",
         "url": "https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO"
       },
@@ -2701,6 +2840,24 @@
     {
       "album": {
         "name": "Best of Bossa Lounge (International Version)",
+        "url": "https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow"
+      },
+      "artists": [
+        {
+          "name": "Diana Martinez",
+          "url": "https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305511,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/2oRy6hcs9wQzQtYWDK5HzT"
+    },
+    {
+      "album": {
+        "name": "Best of Bossa Lounge (International Version)",
         "url": "https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px"
       },
       "artists": [
@@ -2711,10 +2868,50 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 305511,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/6k0LUyHvtjq9iVYln8FZun"
+    },
+    {
+      "album": {
+        "name": "More Than a Woman",
+        "url": "https://open.spotify.com/album/3kdEJ01bQu7Y3vfsJ4vaEY"
+      },
+      "artists": [
+        {
+          "name": "Ituana",
+          "url": "https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr"
+        },
+        {
+          "name": "Groove Da Praia",
+          "url": "https://open.spotify.com/artist/0wf8Rn6bjZgEkKp0eV9omw"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Talking in Your Sleep - Bossa Nova Mix",
+      "url": "https://open.spotify.com/track/29FhrrmDlHJbtLYRTvznEc"
+    },
+    {
+      "album": {
+        "name": "Tape Loop",
+        "url": "https://open.spotify.com/album/7CVI0KLsgyGXVxh6VHlZaa"
+      },
+      "artists": [
+        {
+          "name": "Ituana",
+          "url": "https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Tape Loop",
+      "url": "https://open.spotify.com/track/7MskN2v3epm2MCxGxfD10G"
     },
     {
       "album": {
@@ -2884,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Relaxing Bossa Lounge 5",
+        "url": "https://open.spotify.com/album/6NG51Gs0Pm6T2MrW0l5qUZ"
+      },
+      "artists": [
+        {
+          "name": "Rachelle Vanleeuwen",
+          "url": "https://open.spotify.com/artist/376UH2QKNnQcVieekEBFFT"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170318,
+      "name": "Venus (Bossa version)",
+      "url": "https://open.spotify.com/track/3yu4duizccIy2oiRMVdRUC"
+    },
+    {
+      "album": {
         "name": "Viva La Vida",
         "url": "https://open.spotify.com/album/5BWVKUG7LCkIiHGpa9zakC"
       },
@@ -2975,7 +3190,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 201800,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5"
@@ -3103,6 +3318,28 @@
     {
       "album": {
         "name": "Best of Bossa Lounge (International Version)",
+        "url": "https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow"
+      },
+      "artists": [
+        {
+          "name": "Bossanatics",
+          "url": "https://open.spotify.com/artist/2sSQ4L0LAvDQNR4Tpdfzaq"
+        },
+        {
+          "name": "Ana Costa",
+          "url": "https://open.spotify.com/artist/5A0kiRRISmsxT3nJtJpQx3"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260355,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/2YeJSReOgLqnx0tex1RhEw"
+    },
+    {
+      "album": {
+        "name": "Best of Bossa Lounge (International Version)",
         "url": "https://open.spotify.com/album/0Pve7p8kWfdx7hIH6dv8Px"
       },
       "artists": [
@@ -3117,10 +3354,32 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 260355,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/5prVNiMkpcCPPNXNcWPEeb"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2g2QcxEqthJXbm2HZ0n6v4"
+      },
+      "artists": [
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        },
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188385,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/1xIbBG0sbYTo1fwxGFgz5m"
     },
     {
       "album": {

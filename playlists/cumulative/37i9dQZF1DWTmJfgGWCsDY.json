@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-01",
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
   "name": "Singeli Sounds",
-  "published_playlist_ids": [
-    "0LIqSNHuW7rSqStgtXBh7j"
-  ],
   "tracks": [
     {
       "album": {
@@ -66,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
+      },
+      "artists": [
+        {
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
+    },
+    {
+      "album": {
         "name": "Chura Superstar",
         "url": "https://open.spotify.com/album/5M4vDpC8xehFml0hAOXrVi"
       },
@@ -77,7 +92,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 349880,
       "name": "Chura Superstar",
       "url": "https://open.spotify.com/track/14xLOCMIFzks6x7H1lTDqg"
@@ -175,7 +190,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 239972,
       "name": "Honey Wangu",
       "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
@@ -417,10 +432,28 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 275680,
       "name": "Kwanini",
       "url": "https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc"
+    },
+    {
+      "album": {
+        "name": "Kwetu",
+        "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209653,
+      "name": "Kwetu",
+      "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
     },
     {
       "album": {
@@ -483,6 +516,46 @@
       "duration_ms": 371880,
       "name": "Mamu Remix - Remix",
       "url": "https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O"
+    },
+    {
+      "album": {
+        "name": "Mbabaifu",
+        "url": "https://open.spotify.com/album/28Di56j1gayfBSqetkIag5"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        },
+        {
+          "name": "Shufayna kisauti",
+          "url": "https://open.spotify.com/artist/6jrRPmRVu0tp5M56vnaKG0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "Mbabaifu",
+      "url": "https://open.spotify.com/track/1GM6D0xdZxL7l42m44WLOi"
+    },
+    {
+      "album": {
+        "name": "Mchepuko",
+        "url": "https://open.spotify.com/album/3ZJ0RRiA56WsQb3G2M4N6F"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273866,
+      "name": "Mchepuko",
+      "url": "https://open.spotify.com/track/12zGv1X0dXwtz7gU2yL0j3"
     },
     {
       "album": {
@@ -647,7 +720,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 262426,
       "name": "Natamani",
       "url": "https://open.spotify.com/track/5PY0K1JkB3IbgldFpHiWuM"
@@ -880,6 +953,46 @@
     },
     {
       "album": {
+        "name": "Singeli Jungles",
+        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
+      },
+      "artists": [
+        {
+          "name": "MC Palakata",
+          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
+        },
+        {
+          "name": "Tom Blip",
+          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280393,
+      "name": "Singeli Jungles",
+      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
+    },
+    {
+      "album": {
+        "name": "Singeli Poli",
+        "url": "https://open.spotify.com/album/2mjjwhLh4ttpZRz2yKntwW"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118079,
+      "name": "Singeli Poli",
+      "url": "https://open.spotify.com/track/22MhRI74ng3SmfaEFYT9fG"
+    },
+    {
+      "album": {
         "name": "Singeli Twista",
         "url": "https://open.spotify.com/album/75V2a1qC8s55PEjXUp8XPb"
       },
@@ -1037,7 +1150,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 201967,
       "name": "Viburi",
       "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
@@ -1059,7 +1172,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 244767,
       "name": "Wanga",
       "url": "https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk"

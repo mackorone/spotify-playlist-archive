@@ -4,7 +4,7 @@
 
 > The essential Joan Baez, all in one place.
 
-60 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/0xSQ7IklzjvHEYKbAJChWP)
+60 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

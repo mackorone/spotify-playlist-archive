@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Light of your 4th with these family-friendly tunes.",
   "name": "4th of July Family Fun",
-  "published_playlist_ids": [
-    "11OpCHhH8MTANOGktvaIzu"
-  ],
   "tracks": [
     {
       "album": {
@@ -517,10 +514,28 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 180086,
       "name": "Fireworks!",
       "url": "https://open.spotify.com/track/6FvzTqHZHbW2Rr8DE81OE2"
+    },
+    {
+      "album": {
+        "name": "Year In The Day",
+        "url": "https://open.spotify.com/album/5XFROmgGL1GQrZ0ivAPaYe"
+      },
+      "artists": [
+        {
+          "name": "Gustafer Yellowgold",
+          "url": "https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180093,
+      "name": "Fireworks!",
+      "url": "https://open.spotify.com/track/5hYMDmMqBC9iUE1OudUfFB"
     },
     {
       "album": {

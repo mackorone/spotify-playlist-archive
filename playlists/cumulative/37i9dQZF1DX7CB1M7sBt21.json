@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
   "name": "Peppl\u00e5tar till tr\u00e4ningspasset",
-  "published_playlist_ids": [
-    "7LLOCYnFLNo5JBC7Qx4h3g"
-  ],
   "tracks": [
     {
       "album": {
@@ -539,7 +536,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Coffee (Give Me Something)",
       "url": "https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD"
@@ -616,6 +613,28 @@
     },
     {
       "album": {
+        "name": "Dance All Over Me",
+        "url": "https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Dance All Over Me - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW"
+    },
+    {
+      "album": {
         "name": "Dance All Over Me (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/1M1s6xXXTuPLs9JDuYe0VB"
       },
@@ -631,7 +650,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 165120,
       "name": "Dance All Over Me - Jax Jones Remix",
       "url": "https://open.spotify.com/track/47qIrI42ZraqGwDrs03wHM"
@@ -1331,7 +1350,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 185750,
       "name": "Hold Me Close (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6"
@@ -1707,7 +1726,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy"
@@ -1970,7 +1989,7 @@
     },
     {
       "album": {
-        "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
+        "name": "Never Love You Again",
         "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
       },
       "artists": [
@@ -1991,7 +2010,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191329,
-      "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
+      "name": "Never Love You Again",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
     },
     {
@@ -3129,7 +3148,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Tillf\u00e4lligheter",
       "url": "https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz"
@@ -3303,7 +3322,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-02-01",
       "duration_ms": 162983,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-20",
   "description": "Add dramatic flair to your strategy game.",
   "name": "Fantasy Board Gaming",
-  "published_playlist_ids": [
-    "7chXrYGnaDM6wXcboPhu0N"
-  ],
   "tracks": [
     {
       "album": {
@@ -315,10 +312,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 120826,
       "name": "Crossroad at Dawn",
       "url": "https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP"
+    },
+    {
+      "album": {
+        "name": "Chaotic Chronicle (Lineage2 Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/04wngi30Qap95fjcdn7SbC"
+      },
+      "artists": [
+        {
+          "name": "Bill Brown",
+          "url": "https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120826,
+      "name": "Crossroad at Dawn",
+      "url": "https://open.spotify.com/track/5rQx4Rhe1gey7FJSO5F4aV"
     },
     {
       "album": {

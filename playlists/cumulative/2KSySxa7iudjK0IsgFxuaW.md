@@ -4,7 +4,7 @@
 
 > It's Elmo's time to shine!
 
-15 songs - 30 min 23 sec - [published](https://open.spotify.com/playlist/4c5m06jiFi2ltPH1L1dZWY)
+15 songs - 30 min 23 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

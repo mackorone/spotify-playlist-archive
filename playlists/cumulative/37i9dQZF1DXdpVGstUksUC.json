@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
   "name": "Stoner Rock",
-  "published_playlist_ids": [
-    "4fA1HCPR2kNiiFJNe513No"
-  ],
   "tracks": [
     {
       "album": {
@@ -775,7 +772,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 161771,
       "name": "Cranberry Kiss",
       "url": "https://open.spotify.com/track/0kiSbJ3HyRnHLiHYLqpTaz"
@@ -1261,7 +1258,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 393040,
       "name": "El Monstro",
       "url": "https://open.spotify.com/track/4NWhOcJUUYesYsHNHrGDrS"
@@ -1466,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Myriad",
+        "url": "https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC"
+      },
+      "artists": [
+        {
+          "name": "GAUPA",
+          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274718,
+      "name": "Exoskeleton",
+      "url": "https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD"
+    },
+    {
+      "album": {
         "name": "Capricorn",
         "url": "https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw"
       },
@@ -1567,7 +1582,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 266124,
       "name": "Fifty Seven",
       "url": "https://open.spotify.com/track/6miHjSsOJ7fw2jft8Ldiir"
@@ -2305,7 +2320,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 149973,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
@@ -2323,7 +2338,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 346116,
       "name": "Left Us To Mold",
       "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
@@ -2683,7 +2698,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-26",
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
@@ -2827,7 +2842,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 238000,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/4buxOh1uX0TNEtbFL8muft"
@@ -2989,7 +3004,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 225786,
       "name": "Palomino",
       "url": "https://open.spotify.com/track/7r3zhNSPD15XEYiHyEp4po"
@@ -3403,10 +3418,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 477920,
       "name": "Seer",
       "url": "https://open.spotify.com/track/4tjrhez9Jz2euetdgNqS7W"
+    },
+    {
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/6WchxcxHQkc9DnwYc3WEC0"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/7cShikd4rLNwAlHrHo0AFt"
     },
     {
       "album": {
@@ -3691,7 +3724,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 232840,
       "name": "Strange Plan",
       "url": "https://open.spotify.com/track/1rbeJWLIn7yfo7bupq36RN"
@@ -3961,7 +3994,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 466382,
       "name": "The Ghosts of Charlie Barracuda",
       "url": "https://open.spotify.com/track/2CeY0S8kVprPlCO4r5ffzx"
@@ -4015,7 +4048,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 411816,
       "name": "The Left Hand Path",
       "url": "https://open.spotify.com/track/5aIn4HiXK6MSnxHuC10kNm"
@@ -4285,7 +4318,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-20",
       "duration_ms": 371983,
       "name": "Too Stoned",
       "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
@@ -4613,6 +4646,24 @@
       "duration_ms": 154306,
       "name": "Wise As a Serpent",
       "url": "https://open.spotify.com/track/4N35vPdS6hIfr1AjEHjYWp"
+    },
+    {
+      "album": {
+        "name": "Woodland Rites",
+        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
+      },
+      "artists": [
+        {
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274453,
+      "name": "Woodland Rites",
+      "url": "https://open.spotify.com/track/6NTGbJZOj8FxFT30uYCEjp"
     },
     {
       "album": {

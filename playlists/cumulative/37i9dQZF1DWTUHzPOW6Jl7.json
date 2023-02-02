@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Need to get your energy level up?",
   "name": "Energy Booster: R&B",
-  "published_playlist_ids": [
-    "38ow5EP0p7zXkIBNd5gW6R"
-  ],
   "tracks": [
     {
       "album": {
@@ -1347,10 +1344,36 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 187840,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr"
+    },
+    {
+      "album": {
+        "name": "Jenny From The Block - The Remixes",
+        "url": "https://open.spotify.com/album/7pJj6tOX5HCBaYfLPiHfDn"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189764,
+      "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
+      "url": "https://open.spotify.com/track/0jiBVBJkLrlGLgrIVmd3VK"
     },
     {
       "album": {
@@ -1521,7 +1544,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 264846,
       "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
       "url": "https://open.spotify.com/track/1qdbG7u3b7JdlW3mmUI1Xp"
@@ -1641,7 +1664,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
@@ -2259,6 +2282,24 @@
     {
       "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/7wuiHCscUN4WZV4jdLEFHt"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/1nepx6kDPFlkhUaSYaorbc"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2FXGUAESmG5l9YPrzWPvHI"
       },
       "artists": [
@@ -2269,10 +2310,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 202661,
       "name": "Not Nice",
       "url": "https://open.spotify.com/track/4STaHtfguDMkWbPEo6Fwcx"
+    },
+    {
+      "album": {
+        "name": "Love My 10's R&B",
+        "url": "https://open.spotify.com/album/40K3sTELcbfeib4OrPd2rw"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/4k45t4xh3k9JZ8qtqwGfyB"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
     },
     {
       "album": {

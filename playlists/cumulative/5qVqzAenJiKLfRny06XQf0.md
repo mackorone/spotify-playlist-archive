@@ -4,7 +4,7 @@
 
 > Help the band set\-up and get ready for the best live performances from your favorite artists.
 
-100 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/1hMBTleCydK5GxLeRe0tWK)
+100 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
   "name": "This Is EGOIST",
-  "published_playlist_ids": [
-    "1UlNZOsBRA68xckzhZFqmq"
-  ],
   "tracks": [
     {
       "album": {
@@ -585,6 +582,24 @@
     {
       "album": {
         "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96893,
+      "name": "The Everlasting Guilty Crown -TV Edit-",
+      "url": "https://open.spotify.com/track/1GMn1r0AorrLMgKjesIgYh"
+    },
+    {
+      "album": {
+        "name": "The Everlasting Guilty Crown",
         "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
       },
       "artists": [
@@ -595,7 +610,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 96893,
       "name": "The Everlasting Guilty Crown -TV Edit-",
       "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
@@ -685,7 +700,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-01-22",
       "duration_ms": 327040,
       "name": "The Everlasting Guilty Crown \u301cInstrumental\u301c",
       "url": "https://open.spotify.com/track/21cvTKR7KOzAB9AecCdNkF"
@@ -901,7 +916,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2023-01-03",
       "duration_ms": 132506,
       "name": "\u539f\u7f6a\u306e\u706f",
       "url": "https://open.spotify.com/track/7EGSABJsiGBgtJeXmQ44B0"

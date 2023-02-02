@@ -4,7 +4,7 @@
 
 > We've all been there\. This playlist can help\. Just don't let your boss catch you listening....
 
-38 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/1LZhguuuCLVWrj2DRG7zyI)
+38 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 | 2014-01-16 |  |
 | [Factory](https://open.spotify.com/track/7M8fNsiycGeQWtAu8NxgvW) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 2:18 | 2014-01-16 |  |
 | [Found a Job \- Live](https://open.spotify.com/track/7rWq4710VbhYigwobjNwni) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 3:15 | 2014-01-16 |  |
-| [Frankly Mr\. Shankly](https://open.spotify.com/track/1NsV9O4569hlzOnq2fQxp5) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Rarities](https://open.spotify.com/album/0i8k2wcwauq8JZfixJMrYL) | 2:21 | 2014-01-16 |  |
+| [Frankly Mr\. Shankly](https://open.spotify.com/track/1NsV9O4569hlzOnq2fQxp5) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22), [Owen](https://open.spotify.com/artist/3Ab3DZ46S1kS1WWM8llkYf) | [Rarities](https://open.spotify.com/album/0i8k2wcwauq8JZfixJMrYL) | 2:21 | 2014-01-16 |  |
 | [God Damn Job](https://open.spotify.com/track/2Iw5OK7g0S77ksI66Zc2d8) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [The Complete Studio Albums: 1981\-1990](https://open.spotify.com/album/5qP3JQsWGRA0l0kx5RDpUC) | 1:19 | 2014-01-16 |  |
 | [Heaven Knows I'm Miserable Now \- 2008 Remaster](https://open.spotify.com/track/1ZYUi9KmsftgZdWbNBcJcr) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Sound of the Smiths \(Deluxe; 2008 Remaster\)](https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55) | 3:36 | 2014-01-16 |  |
 | [I Can't Wait To Get Off Work \[And See My Baby On Montgomery Avenue\]](https://open.spotify.com/track/5OlJzReBfE3Ziv4npJbUMJ) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Small Change](https://open.spotify.com/album/6w4iHE8FlMASJVepo3bAJW) | 3:17 | 2014-01-16 |  |

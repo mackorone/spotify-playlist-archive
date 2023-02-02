@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Shakira Jasmine",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Mezzaluna",
   "name": "RADAR Indonesia",
-  "published_playlist_ids": [
-    "37dv0S75HQ2Wer6Z25cDjS"
-  ],
   "tracks": [
     {
       "album": {
@@ -772,6 +769,24 @@
     },
     {
       "album": {
+        "name": "In Situ (Remix Version)",
+        "url": "https://open.spotify.com/album/33Wa80qjHTh7UnaxyT0i7N"
+      },
+      "artists": [
+        {
+          "name": "Mezzaluna",
+          "url": "https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180050,
+      "name": "In Situ (Remix Version)",
+      "url": "https://open.spotify.com/track/2BzHGy5g8keLdzk18JWd1n"
+    },
+    {
+      "album": {
         "name": "Itu Kamu",
         "url": "https://open.spotify.com/album/6Xl8CANrPQXIALJB1W2aNG"
       },
@@ -823,6 +838,24 @@
       "duration_ms": 238000,
       "name": "Journey on September",
       "url": "https://open.spotify.com/track/22PhxtknUvYnNNidP1cuGJ"
+    },
+    {
+      "album": {
+        "name": "Just a Crush Thing",
+        "url": "https://open.spotify.com/album/3l2H3rjDgNCX4dizR3izOY"
+      },
+      "artists": [
+        {
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188130,
+      "name": "Just a Crush Thing",
+      "url": "https://open.spotify.com/track/2VirB9Zej4MbwC1x8WcfWx"
     },
     {
       "album": {
@@ -1617,6 +1650,28 @@
       "duration_ms": 261030,
       "name": "Sedang Sayang Sayangnya",
       "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
+    },
+    {
+      "album": {
+        "name": "Selamanya Kita",
+        "url": "https://open.spotify.com/album/5rKh1EYXDOswbhjK4diBZx"
+      },
+      "artists": [
+        {
+          "name": "Dewa Budjana",
+          "url": "https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB"
+        },
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Selamanya Kita",
+      "url": "https://open.spotify.com/track/1VQeq5W6s0gUgz9M81Vz5L"
     },
     {
       "album": {

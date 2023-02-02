@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Queens everywhere - givin' us life.\nCover: Bimini",
   "name": "Fierce",
-  "published_playlist_ids": [
-    "5qqRE5zC7pUBy84hiALZqW"
-  ],
   "tracks": [
     {
       "album": {
@@ -2077,7 +2074,7 @@
     {
       "album": {
         "name": "Tommy's Dream",
-        "url": "https://open.spotify.com/album/5bAvj4QAWaKMQQaTIMRK7c"
+        "url": "https://open.spotify.com/album/6aMOR9XeLq7DcyXUnYg9mO"
       },
       "artists": [
         {
@@ -2088,6 +2085,24 @@
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219360,
+      "name": "Tommy's Dream",
+      "url": "https://open.spotify.com/track/0RsKr0MBHoL1qxoeWyhNrh"
+    },
+    {
+      "album": {
+        "name": "Tommy's Dream",
+        "url": "https://open.spotify.com/album/5bAvj4QAWaKMQQaTIMRK7c"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
       "duration_ms": 219360,
       "name": "Tommy's Dream",
       "url": "https://open.spotify.com/track/48gwHIUd09s0g1JxEv9VzJ"
@@ -2121,12 +2136,12 @@
       },
       "artists": [
         {
-          "name": "Janey Jack\u00e9",
-          "url": "https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v"
-        },
-        {
           "name": "Lady Bee",
           "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Janey Jack\u00e9",
+          "url": "https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v"
         }
       ],
       "date_added": "2022-03-10",

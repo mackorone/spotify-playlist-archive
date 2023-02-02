@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-24",
   "description": "\u00a1A levantar polvadera!",
   "name": "Cumbias, Huapangos & Zapateados",
-  "published_playlist_ids": [
-    "7AVTLss0jdvM2YQNxTY8ci"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,6 +56,46 @@
       "duration_ms": 191173,
       "name": "A Ver Si Capea",
       "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
+    },
+    {
+      "album": {
+        "name": "Agachadita",
+        "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195024,
+      "name": "Agachadita",
+      "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
+    },
+    {
+      "album": {
+        "name": "El Predilecto",
+        "url": "https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy"
+      },
+      "artists": [
+        {
+          "name": "El Predilecto",
+          "url": "https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186780,
+      "name": "Agarra La Onda",
+      "url": "https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD"
     },
     {
       "album": {
@@ -228,6 +265,28 @@
     },
     {
       "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0TMcUlPu5tEb9a2c8EcX0a"
       },
@@ -311,7 +370,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 183093,
       "name": "Cajita De Cart\u00f3n",
       "url": "https://open.spotify.com/track/2PxkdGhTb8VLY9M2ImvGZD"
@@ -369,7 +428,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 226306,
       "name": "Chinelo Carnavalero",
       "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
@@ -463,6 +522,24 @@
       "duration_ms": 179212,
       "name": "Cuando Los Frijoles Bailan",
       "url": "https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF"
+    },
+    {
+      "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "album": {
@@ -837,7 +914,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-13",
       "duration_ms": 187805,
       "name": "El Huitzuque\u00f1o",
       "url": "https://open.spotify.com/track/5DGE6ZCHbQU3id35BsHBLI"
@@ -1017,7 +1094,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 233106,
       "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
       "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
@@ -1035,7 +1112,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 225410,
       "name": "El Pistolero Huapango",
       "url": "https://open.spotify.com/track/4XLp4L49gGB5RGlPYPj86s"
@@ -1312,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "En vivo desde El Potrero",
+        "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
+      },
+      "artists": [
+        {
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203066,
+      "name": "Eres un encanto - En vivo",
+      "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
+    },
+    {
+      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -1359,7 +1454,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 179712,
       "name": "Eva maria",
       "url": "https://open.spotify.com/track/7j8eYd7AoIWI5o9WI1zGBs"
@@ -1456,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204013,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
+    },
+    {
+      "album": {
         "name": "F\u00edjate Mi Hijita",
         "url": "https://open.spotify.com/album/4WGz60FJeYHbI0lpkKzk0w"
       },
@@ -1471,6 +1584,24 @@
       "duration_ms": 177600,
       "name": "F\u00edjate Mi Hijita",
       "url": "https://open.spotify.com/track/6YvARWYOBOEwUWITrfYPUB"
+    },
+    {
+      "album": {
+        "name": "Gotas de Agua Dulce",
+        "url": "https://open.spotify.com/album/0372SHDiyVvWYrx3rOv0tt"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175438,
+      "name": "Gotas de Agua Dulce",
+      "url": "https://open.spotify.com/track/1cbWi2Lgu18XkyAnMed4oY"
     },
     {
       "album": {
@@ -1503,10 +1634,28 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 199250,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
+    },
+    {
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199314,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "album": {
@@ -1539,7 +1688,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 172042,
       "name": "Huapango el Pluma Blanca",
       "url": "https://open.spotify.com/track/5Oxd5qRiNAUFhXHHVrf0ly"
@@ -1708,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde Monterrey",
+        "url": "https://open.spotify.com/album/2YqXC2fSYZflVMNs3OzI5F"
+      },
+      "artists": [
+        {
+          "name": "La Casetera",
+          "url": "https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365795,
+      "name": "Inmortales Medley: Celoso / Dulcemente Enamorada / Cosas del Amor / C\u00f3mo Est\u00e1s T\u00fa - En Vivo Desde Monterrey",
+      "url": "https://open.spotify.com/track/3B8XAAB1j59uwrCfXntXcO"
+    },
+    {
+      "album": {
         "name": "Arrasando Con Fuego",
         "url": "https://open.spotify.com/album/4gDcs5NsKydsBzvcskgs2g"
       },
@@ -1791,7 +1958,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 159000,
       "name": "La Abeja Miope - Cumbia",
       "url": "https://open.spotify.com/track/7m8AbH6XWcJv2jL4S3fXFT"
@@ -2029,7 +2196,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 230471,
       "name": "La Cuichi",
       "url": "https://open.spotify.com/track/2Rgxqta8JeqNeGWmX1bRWP"
@@ -2083,7 +2250,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 148706,
       "name": "La Cumbia Del Violincito",
       "url": "https://open.spotify.com/track/4b7AfeFx5lU4gfRtgNujCS"
@@ -2137,7 +2304,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 161946,
       "name": "La Feria de Cali",
       "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
@@ -2245,7 +2412,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 146080,
       "name": "La Mar\u00eda",
       "url": "https://open.spotify.com/track/5jPprrmhOMek0GlcMMHkda"
@@ -2613,10 +2780,46 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 172293,
       "name": "Le Quito Lo Fresa",
       "url": "https://open.spotify.com/track/5rk9nYwmJRrYZ5Agz98xmZ"
+    },
+    {
+      "album": {
+        "name": "Limonadas Verdes",
+        "url": "https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c"
+      },
+      "artists": [
+        {
+          "name": "Tropical Del Bravo",
+          "url": "https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Limonadas Verdes",
+      "url": "https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu"
+    },
+    {
+      "album": {
+        "name": "Locamente Enamorado",
+        "url": "https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217495,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux"
     },
     {
       "album": {
@@ -2923,7 +3126,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 217894,
       "name": "Mujer Alegre",
       "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
@@ -3039,7 +3242,7 @@
     {
       "album": {
         "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
       },
       "artists": [
         {
@@ -3050,6 +3253,24 @@
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
@@ -3402,6 +3623,28 @@
     },
     {
       "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169418,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -3431,7 +3674,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 198133,
       "name": "Qu\u00edtate El Zapato",
       "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"
@@ -3705,10 +3948,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 193053,
       "name": "Un Angel No Debe Llorar",
       "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
+    },
+    {
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Martin Ramos",
+          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165887,
+      "name": "Un Cari\u00f1o Como Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2"
     },
     {
       "album": {
@@ -3763,6 +4028,64 @@
       "duration_ms": 223880,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/7Io1uxWdBYeYasxiaxbdMQ"
+    },
+    {
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De",
+        "url": "https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Oro",
+          "url": "https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212140,
+      "name": "Vete a Buscar Aquel",
+      "url": "https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm"
+    },
+    {
+      "album": {
+        "name": "Ya Me Entere (En Vivo)",
+        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222680,
+      "name": "Ya Me Entere - En Vivo",
+      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
     },
     {
       "album": {

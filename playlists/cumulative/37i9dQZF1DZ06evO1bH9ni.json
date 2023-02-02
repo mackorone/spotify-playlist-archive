@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
   "name": "This Is Los Dos Carnales",
-  "published_playlist_ids": [
-    "2kkSEsHAzAQ1p3kVQ4SJCU"
-  ],
   "tracks": [
     {
       "album": {
@@ -77,7 +74,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 205818,
       "name": "Al Mill\u00f3n",
       "url": "https://open.spotify.com/track/6dJL9YwcrlXK7reyRfmM9V"
@@ -139,6 +136,24 @@
       "duration_ms": 141098,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4Baf5WbZIHnItDgprvfX6G"
+    },
+    {
+      "album": {
+        "name": "Cholos al Punto",
+        "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159056,
+      "name": "Cholos al Punto",
+      "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
     },
     {
       "album": {
@@ -399,6 +414,24 @@
       "duration_ms": 179000,
       "name": "El Gallo Pobre",
       "url": "https://open.spotify.com/track/78QearSoNEqJToO2XJH5Yo"
+    },
+    {
+      "album": {
+        "name": "El HT",
+        "url": "https://open.spotify.com/album/00DHlVPNN94MEirjHEX2lz"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150056,
+      "name": "El HT",
+      "url": "https://open.spotify.com/track/6gFE6Kp7uZE0ZQQCXlcLvK"
     },
     {
       "album": {
@@ -785,7 +818,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 194359,
       "name": "Los Dos Amigos - En Vivo",
       "url": "https://open.spotify.com/track/5pjpZf1TXXqpCNS7WTuAeB"
@@ -1009,7 +1042,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 196220,
       "name": "Por Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/1pavM6Yx6cQ4pRWE5KD6zb"
@@ -1035,6 +1068,24 @@
       "duration_ms": 243673,
       "name": "Resulta - En Vivo",
       "url": "https://open.spotify.com/track/3FRadPSJWTQtWykeVZwRPO"
+    },
+    {
+      "album": {
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "album": {

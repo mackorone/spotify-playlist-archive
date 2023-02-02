@@ -4,7 +4,7 @@
 
 > Metal tracks all the way from the birth of Metal to today\. Cover: Pantera
 
-100 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/2OhgYZKv07Y3c94a2ERvl9)
+100 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

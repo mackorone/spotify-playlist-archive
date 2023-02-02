@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-138 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/5Ymp5r0Wpvihvt8IezwUoh)
+138 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Humility](https://open.spotify.com/track/4AUifvBNJ67z88rrDsSxi2) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Hat Acts](https://open.spotify.com/album/3BR9urTaB3eQMoTAQdKfZx) | 3:31 | 2021-12-15 | 2022-05-03 |
 | [If I Had Wings](https://open.spotify.com/track/5G2h3SmlMFhSGCbHugDWAU) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [If I Had Wings](https://open.spotify.com/album/6JPBDsRgTZFhBKbeBBtlj1) | 4:33 | 2021-12-15 | 2022-07-29 |
 | [In Light Of Us](https://open.spotify.com/track/6ZTgl1SOuIaX7Azvy66Wiy) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [In Light Of Us](https://open.spotify.com/album/6taEkjTtYfIga3LdymDrV8) | 3:12 | 2021-12-15 | 2022-07-29 |
-| [Isn’t It](https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Isn’t It](https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC) | 2:04 | 2021-12-15 | 2022-11-13 |
+| [Isn’t It](https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Isn’t It](https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC) | 2:04 | 2021-12-15 |  |
 | [I’m Gonna Live Forever \(If It Kills Me\)](https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 5:25 | 2021-12-15 |  |
 | [I’m Gonna Live Forever \(If It Kills Me\)](https://open.spotify.com/track/5tGGEBNmFftTYATm1ZDETW) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/0AlKGJjZriUhapXB3hyW6h) | 5:25 | 2021-12-15 | 2022-07-29 |
 | [Jealous Guy](https://open.spotify.com/track/1H0UI5yQg9hlue3ZIjb7fs) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Jealous Guy](https://open.spotify.com/album/5OMFZV2INE430tcKKBaKbZ) | 3:50 | 2021-12-15 |  |
@@ -58,7 +58,7 @@
 | [Keeps Me Running](https://open.spotify.com/track/3MJM0c97VJbp061g2FoiJ3) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [Keeps Me Running](https://open.spotify.com/album/5rJSvgyPCRU2GXtjkRYhCY) | 3:57 | 2021-12-15 | 2022-07-29 |
 | [Keeps Me Running](https://open.spotify.com/track/5QAcy8RQZQl0qzn7V1KavG) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [How Many Times](https://open.spotify.com/album/2bYiApCo4Y1wJgngiKcwmy) | 3:57 | 2021-12-15 |  |
 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 | 2021-12-15 |  |
-| [Let it Roll](https://open.spotify.com/track/78CNAJZ7Cx1nUjyPoOPU03) | [Sam Doores](https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj) | [Sam Doores](https://open.spotify.com/album/1SrA1hRiA8P3eKcsE5daLt) | 3:58 | 2021-12-15 |  |
+| [Let it Roll](https://open.spotify.com/track/78CNAJZ7Cx1nUjyPoOPU03) | [Sam Doores](https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj) | [Sam Doores](https://open.spotify.com/album/1SrA1hRiA8P3eKcsE5daLt) | 3:58 | 2021-12-15 | 2023-01-09 |
 | [Letting Go](https://open.spotify.com/track/0hsN9kGuV9J9KLcaB2l6Es) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/1uxQAxembtxvtTk1AoS7KQ) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [Letting Go](https://open.spotify.com/track/2sYKMfMLXwmK6idbtpxYTD) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 3:24 | 2021-12-15 |  |
 | [Lonesome City](https://open.spotify.com/track/3GK8qlVjiLpdmcw6bvLYaF) | [The Black Canyon Gang](https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe) | [Wayfaring Strangers: Cosmic American Music](https://open.spotify.com/album/5uFF8Q8WlrvtK2WfK9VupC) | 3:34 | 2021-12-15 | 2022-07-29 |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-14",
   "description": "A selection of the greatest funk & soul records ever made.",
   "name": "Funk & Soul Classics",
-  "published_playlist_ids": [
-    "2AjOW6a9C9C9LSslZhQe3k"
-  ],
   "tracks": [
     {
       "album": {
@@ -359,7 +356,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-22",
       "duration_ms": 162293,
       "name": "Baby, Please Don't Go (feat. Van Morrison)",
       "url": "https://open.spotify.com/track/5WUgOOaTk00PnksDekcgcg"
@@ -597,7 +594,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 240800,
       "name": "Cigarettes and Coffee",
       "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
@@ -633,7 +630,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
@@ -741,7 +738,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 166066,
       "name": "Everybody Needs Somebody to Love",
       "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
@@ -993,7 +990,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 348066,
       "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
@@ -1339,7 +1336,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 178373,
       "name": "I Get The Sweetest Feeling",
       "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
@@ -1757,7 +1754,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 201213,
       "name": "Just Dropped In (To See What Condition My Condition Was In)",
       "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
@@ -2802,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -3091,7 +3106,7 @@
       ],
       "date_added": "2020-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 279200,
       "name": "Theme From Shaft - Remastered",
       "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"

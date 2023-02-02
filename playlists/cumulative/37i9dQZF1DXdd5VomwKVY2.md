@@ -4,7 +4,7 @@
 
 > Los éxitos en guitarra\. Cover: Gustavo Palafox
 
-210 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/1tI2F2Thdl1eOlECIP0VGH)
+210 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

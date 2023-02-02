@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-20",
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
   "name": "Jazz Piano Classics",
-  "published_playlist_ids": [
-    "23zEVepwBB32oB0jy81C3a"
-  ],
   "tracks": [
     {
       "album": {
@@ -936,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Jazz Volume: Oscar Peterson",
+        "url": "https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 162717,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/3pJVi6t0Afe4JGzgR7Q2xJ"
+    },
+    {
+      "album": {
         "name": "Oscar Peterson: Hits & Rarities",
         "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
       },
@@ -947,7 +962,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2023-02-01",
       "duration_ms": 162717,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP"
@@ -1199,7 +1214,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 276131,
       "name": "Falling in Love with Love",
       "url": "https://open.spotify.com/track/47wToAWMFORf7uL8V62a82"
@@ -1667,7 +1682,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 292333,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
@@ -1909,7 +1924,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 269666,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
@@ -1971,7 +1986,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2023-01-12",
       "duration_ms": 170306,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
@@ -2353,7 +2368,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 297560,
       "name": "My foolish heart",
       "url": "https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU"
@@ -2389,7 +2404,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 209560,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/4JswQ5RPx2SBuU3kxxeazr"
@@ -2723,7 +2738,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 254800,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9"
@@ -3027,7 +3042,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 375426,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My"
@@ -3063,7 +3078,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 248600,
       "name": "St. James Infirmary Blues",
       "url": "https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90"
@@ -3483,7 +3498,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 407306,
       "name": "They Didn't Believe Me",
       "url": "https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe"
@@ -3563,7 +3578,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 138306,
       "name": "Tiger Rag",
       "url": "https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9"

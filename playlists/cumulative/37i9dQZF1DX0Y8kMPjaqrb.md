@@ -4,7 +4,7 @@
 
 > Music from Studio Chizu's new movie "BELLE"!  ©︎STUDIO CHIZU/ 映画『竜とそばかすの姫』の音楽をプレイリストで。豪華ミュージシャン、作家陣が音楽の魅力を語る「Music+Talk」版は<a href="spotify:show:0GVl86Z7umr9JEu8EhN22m">こちら</a>
 
-117 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/5X9NxzLaOTgvJcYll8A6Dt)
+117 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Faces in the Rain](https://open.spotify.com/track/5ItDYhB6o8P20Ox8PBiNYA) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 2:22 | 2022-06-07 | 2022-07-29 |
 | [Faces in the Rain \(German Version\)](https://open.spotify.com/track/7j0bZryvqDndPjpv1jlGU8) | [Lara "Loft" Trautmann](https://open.spotify.com/artist/3GGISxYUCvzRH26CneVNkk) | ["BELLE" Original Motion Picture Soundtrack \[German Edition\]](https://open.spotify.com/album/3luns97HWSs2h45opepO3S) | 2:22 | 2022-09-22 | 2022-10-08 |
 | [Faces in the Rain \- Chinese Version](https://open.spotify.com/track/630wPxFfC16rjFxO8Ythky) | [Neeko](https://open.spotify.com/artist/4LDsKz6kqx005p22OU7FnJ) | [Belle \(Original Motion Picture Soundtrack\) \[Chinese Edition\]](https://open.spotify.com/album/5xbj1CwQ2qDjR2pLkeOYh9) | 2:22 | 2022-09-22 |  |
-| [Faces in the Rain \- Deutsche Version](https://open.spotify.com/track/0EGwTDYta2bSrBMzLblL9u) | [Laura "Loft" Trautmann](https://open.spotify.com/artist/1xXQ6Tg1gOPxGSfkcckN0E) | [Belle \(Original Motion Picture Soundtrack\) \[German Language Version\]](https://open.spotify.com/album/3dfZraNnGkFIPBzQPPh0TP) | 2:22 | 2022-09-22 |  |
+| [Faces in the Rain \- Deutsche Version](https://open.spotify.com/track/0EGwTDYta2bSrBMzLblL9u) | [Lara Loft](https://open.spotify.com/artist/5joMJdp3RaxAj8xFbSLdmJ) | [Belle \(Original Motion Picture Soundtrack\) \[German Language Version\]](https://open.spotify.com/album/3dfZraNnGkFIPBzQPPh0TP) | 2:22 | 2022-09-22 |  |
 | [Faces in the Rain \- English Version](https://open.spotify.com/track/1ccWW13VW1vaJTLNHIh7da) | [Kylie McNeill](https://open.spotify.com/artist/7kFUdDZGQF2aCT9v48z2qG) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 2:22 | 2022-06-07 |  |
 | [Faces in the Rain \- Norwegian Version](https://open.spotify.com/track/0QzQaX5cWwOnGJUSiXbMGf) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Belle \(Original Motion Picture Soundtrack\) \[Norwegian Edition\]](https://open.spotify.com/album/6PskIOVkxelnBmWxFuNUkL) | 2:22 | 2022-09-22 |  |
 | [Fama Destinata](https://open.spotify.com/track/0MlBRfVomH2yNYzeYVXWJY) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 2:18 | 2022-06-07 | 2022-07-29 |

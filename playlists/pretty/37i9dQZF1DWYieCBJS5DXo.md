@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYieCBJS5DXo.md) - [plain]
 
 > Serving up your favorite songs about snacks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158 likes - 35 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282 likes - 35 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYieCBJS5DXo.md) - [plain]
 | 11 | [Hot Chocolate](https://open.spotify.com/track/1xwCdxEDyelXOhV8FWEcNa) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Field Trip](https://open.spotify.com/album/0iyg2QKAQBeU4UaOQSVI6l) | 2:14 |
 | 12 | [Raise Your Snack](https://open.spotify.com/track/472BQV4zdV55S4ZU3d3N1f) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Raise Your Snack](https://open.spotify.com/album/4lwwIcacPugmBh6g8JOl3v) | 3:25 |
 | 13 | [What's in the Fridge?](https://open.spotify.com/track/5v98IgrNgXgIdg8P3BRdKh) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Juice Box Heroes](https://open.spotify.com/album/2AQwQmEdTsVDEzuOeQ4Pna) | 2:39 |
-| 14 | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 |
+| 14 | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 |
 | 15 | [Everybody Loves Oranges](https://open.spotify.com/track/5M1hBSNWSitIcEhcgqSVg1) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Color Songs](https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG) | 1:03 |
 | 16 | [Fruits & Vegetables](https://open.spotify.com/track/0Y9uYg6maHwjRp1IyW1xzp) | [The Juicebox Jukebox](https://open.spotify.com/artist/5E97AmvYFM4aGWCOtJkzYH) | [Now Hear This!](https://open.spotify.com/album/2cYNQhLqOi3bjGUqhfu34q) | 2:59 |
 | 17 | [The Popcorn Song](https://open.spotify.com/track/5ZSzzoznk60EPLeBmOqeNE) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Start Singing with Barney](https://open.spotify.com/album/3AxlaORIaUzvFupsxC06yh) | 1:20 |

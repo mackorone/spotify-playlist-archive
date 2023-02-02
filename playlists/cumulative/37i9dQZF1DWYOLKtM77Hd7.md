@@ -4,7 +4,7 @@
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-57 songs - 2 hr 58 min - not published yet
+57 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

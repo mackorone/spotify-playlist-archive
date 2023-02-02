@@ -4,7 +4,7 @@
 
 > Bold tracks packing some serious swagger.
 
-179 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/1mwIOAyn3PtAgQdJFJ2Psa)
+180 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Electric Bones](https://open.spotify.com/track/0d909fyTumkG4JgC7kxTCm) | [Findlay](https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn) | [Electric Bones](https://open.spotify.com/album/66k9l9BgsvP7KDKkjWU6xX) | 3:12 | 2021-11-19 |  |
 | [Everybody Walkin' This Land](https://open.spotify.com/track/54uKUgwc6BkXRIs3YWDAhb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Everybody Walkin' This Land](https://open.spotify.com/album/7LKWnW1twZg3M2HugzO4Qb) | 3:06 | 2021-11-19 | 2022-07-29 |
 | [Everybody Walkin' This Land](https://open.spotify.com/track/7LXLgoroFNCQQpMQt0tMA7) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Everybody Walkin' This Land](https://open.spotify.com/album/4JkTiX8mi8aEkAg8Pmal3c) | 3:06 | 2022-07-11 |  |
+| [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 | 2022-12-09 |  |
 | [Fall for That](https://open.spotify.com/track/2mvMmeybBKZHmxUAS2SrBO) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Yard Sale](https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A) | 4:00 | 2021-11-19 |  |
 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 | 2021-11-19 |  |
 | [Fire](https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:17 | 2022-07-11 |  |

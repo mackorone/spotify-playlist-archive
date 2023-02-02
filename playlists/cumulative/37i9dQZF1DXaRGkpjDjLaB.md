@@ -4,7 +4,7 @@
 
 > If you're going to be sad, at least let it be with Bad Bunny💔
 
-36 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/2iYOUxDATGg3IGgyFNnQZq)
+36 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

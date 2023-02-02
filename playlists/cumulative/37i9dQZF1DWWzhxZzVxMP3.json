@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-09",
   "description": "Well known songs in a soft Bossa landscape.",
   "name": "Summer Cocktails",
-  "published_playlist_ids": [
-    "25GUqW5JgOJRI76d5fMAD3"
-  ],
   "tracks": [
     {
       "album": {
@@ -67,6 +64,28 @@
       "duration_ms": 240600,
       "name": "A Kind of Magic",
       "url": "https://open.spotify.com/track/6pUYZwMKazpSVQEt0NO098"
+    },
+    {
+      "album": {
+        "name": "Bossa Queen",
+        "url": "https://open.spotify.com/album/1231vA6dVPBXvXu6TWavGb"
+      },
+      "artists": [
+        {
+          "name": "Karla Sabah",
+          "url": "https://open.spotify.com/artist/2ALEow1KZ94zdlSwFwOVoA"
+        },
+        {
+          "name": "Durval Ferreira",
+          "url": "https://open.spotify.com/artist/2U8TjQ1XTtSpUO7H3UH0LU"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-12",
+      "duration_ms": 239266,
+      "name": "A Kind of Magic",
+      "url": "https://open.spotify.com/track/0pUPD1KhrOdP1MJslIhrbt"
     },
     {
       "album": {
@@ -397,7 +416,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 110163,
       "name": "Castaways",
       "url": "https://open.spotify.com/track/04x0vyXqzanCAsbLlZnOPS"
@@ -423,6 +442,28 @@
       "duration_ms": 110163,
       "name": "Castaways",
       "url": "https://open.spotify.com/track/1qedHp4xNYTfzMOXEDiywd"
+    },
+    {
+      "album": {
+        "name": "Dream a Little Dream",
+        "url": "https://open.spotify.com/album/5rI1Za4mw6vDz0jbS23MwF"
+      },
+      "artists": [
+        {
+          "name": "Rhesa Siregar",
+          "url": "https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS"
+        },
+        {
+          "name": "Jasmine Siregar",
+          "url": "https://open.spotify.com/artist/7JkPqLbhxxrKHZQSEibjPp"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110163,
+      "name": "Castaways",
+      "url": "https://open.spotify.com/track/7eqmcFd2Rjztz9LSUwr4Eg"
     },
     {
       "album": {

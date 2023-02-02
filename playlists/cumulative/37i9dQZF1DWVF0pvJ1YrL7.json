@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-05-09",
   "description": "Welcome, you belong here.",
   "name": "Virtual Reality",
-  "published_playlist_ids": [
-    "187ScON8KrrWo7kYQuCuMH"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241846,
+      "name": "0\u00b0C",
+      "url": "https://open.spotify.com/track/1tnexZBkX24zkjm2s11E8Y"
+    },
     {
       "album": {
         "name": "Ah'na Hakkeka",
@@ -247,6 +262,10 @@
         {
           "name": "Muadeep",
           "url": "https://open.spotify.com/artist/4qHnmeK70n1w0eCt7xWzOw"
+        },
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
       "date_added": "2022-03-28",
@@ -381,6 +400,24 @@
       "duration_ms": 342352,
       "name": "Cartucho",
       "url": "https://open.spotify.com/track/7ukNVIJWNgtTdVRMzUYhWR"
+    },
+    {
+      "album": {
+        "name": "Bucle",
+        "url": "https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b"
+      },
+      "artists": [
+        {
+          "name": "OVSICORI",
+          "url": "https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420063,
+      "name": "Coris",
+      "url": "https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9"
     },
     {
       "album": {
@@ -663,7 +700,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 231272,
       "name": "Embrasure",
       "url": "https://open.spotify.com/track/57IXIbR9iktO97pCXfSGzu"
@@ -773,7 +810,7 @@
     {
       "album": {
         "name": "SIGN",
-        "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
+        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
       },
       "artists": [
         {
@@ -784,6 +821,24 @@
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 356813,
+      "name": "F7",
+      "url": "https://open.spotify.com/track/1djSx1nXAb7nekBdshLXjE"
+    },
+    {
+      "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 356813,
       "name": "F7",
       "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
@@ -931,9 +986,9 @@
           "url": "https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73"
         }
       ],
-      "date_added": "2022-10-27",
+      "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 276315,
       "name": "Ghost (Injury Reserve Remix)",
       "url": "https://open.spotify.com/track/70yuojSWr9kRf2Hzr2l8ay"
@@ -1085,6 +1140,24 @@
       "duration_ms": 177024,
       "name": "Interdimensional Chocobo",
       "url": "https://open.spotify.com/track/53gyk1hW2ecJWXoy2WpvsQ"
+    },
+    {
+      "album": {
+        "name": "Let's Turn It Into Sound",
+        "url": "https://open.spotify.com/album/6OejvHOkJc24k5Psvw2kS3"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387000,
+      "name": "Is it Me or is it You?",
+      "url": "https://open.spotify.com/track/5WAZlORqZtvvjNdpE6vegP"
     },
     {
       "album": {
@@ -1297,10 +1370,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 246129,
       "name": "Love In The Time Of Lexapro",
       "url": "https://open.spotify.com/track/16KyaozBg8WxDTmawnSuCm"
+    },
+    {
+      "album": {
+        "name": "Love In The Time Of Lexapro",
+        "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246129,
+      "name": "Love In The Time Of Lexapro",
+      "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
     },
     {
       "album": {
@@ -1751,7 +1842,7 @@
     {
       "album": {
         "name": "Oh Yeh",
-        "url": "https://open.spotify.com/album/7raytp06e3QexgdY9kFgFS"
+        "url": "https://open.spotify.com/album/3uTHgMuRlIN3pTamTuCR8m"
       },
       "artists": [
         {
@@ -1762,6 +1853,24 @@
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 156375,
+      "name": "Oh Yeh",
+      "url": "https://open.spotify.com/track/3rR9TMjrM61CJr1YScHSHT"
+    },
+    {
+      "album": {
+        "name": "Oh Yeh",
+        "url": "https://open.spotify.com/album/7raytp06e3QexgdY9kFgFS"
+      },
+      "artists": [
+        {
+          "name": "S-Type",
+          "url": "https://open.spotify.com/artist/0Akz4zScvHzgDHt5lDByTT"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 156375,
       "name": "Oh Yeh",
       "url": "https://open.spotify.com/track/6hnjUiYQYjqegejKd8nZdY"
@@ -2007,7 +2116,7 @@
     {
       "album": {
         "name": "utopia",
-        "url": "https://open.spotify.com/album/4y1I5CWHIVme0FCOllppJy"
+        "url": "https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP"
       },
       "artists": [
         {
@@ -2018,6 +2127,24 @@
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174959,
+      "name": "rightclick",
+      "url": "https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK"
+    },
+    {
+      "album": {
+        "name": "utopia",
+        "url": "https://open.spotify.com/album/4y1I5CWHIVme0FCOllppJy"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 174959,
       "name": "rightclick",
       "url": "https://open.spotify.com/track/54wkv0gYaFNbH97DTENlii"
@@ -2275,6 +2402,28 @@
       "duration_ms": 139204,
       "name": "Senzu Beans \u4ed9\u8c46",
       "url": "https://open.spotify.com/track/1USgq7cy0f4dzNJG9WHWmR"
+    },
+    {
+      "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233306,
+      "name": "Shim Sham",
+      "url": "https://open.spotify.com/track/54kXGAVEJJ1ua6yeb3dp1V"
     },
     {
       "album": {
@@ -2725,7 +2874,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 177964,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0UUtE4lVu3L0TWGlMSDwQd"
@@ -2783,7 +2932,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 190783,
       "name": "Untitled 2",
       "url": "https://open.spotify.com/track/186loHqzmLS5hdB0ocZ84S"

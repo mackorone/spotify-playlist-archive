@@ -4,7 +4,7 @@
 
 > it's a lifestyle / Cover: Jeris Johnson
 
-180 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/4NFhsSQp7eBmubCLYHTp9M)
+180 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

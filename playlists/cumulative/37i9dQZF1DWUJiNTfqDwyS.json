@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-31",
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
   "name": "Metal Covers",
-  "published_playlist_ids": [
-    "5j359EkdLizzDFpJebBsga"
-  ],
   "tracks": [
     {
       "album": {
@@ -241,7 +238,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 202099,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/5eDJaMNW8uSayxhKBXhmUW"
@@ -451,10 +448,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 314357,
       "name": "Devil Inside",
       "url": "https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy"
+      },
+      "artists": [
+        {
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
     },
     {
       "album": {
@@ -684,6 +699,28 @@
     },
     {
       "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
+      },
+      "artists": [
+        {
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Federica Lanna",
+          "url": "https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300560,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
+    },
+    {
+      "album": {
         "name": "Gimme Shelter",
         "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
       },
@@ -753,6 +790,24 @@
       "duration_ms": 240693,
       "name": "God of Thunder",
       "url": "https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE"
+      },
+      "artists": [
+        {
+          "name": "No Resolve",
+          "url": "https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156340,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR"
     },
     {
       "album": {
@@ -901,7 +956,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 250600,
       "name": "Holier Than Thou",
       "url": "https://open.spotify.com/track/62GHoCtJWhiGxawLgqzgpQ"
@@ -1049,7 +1104,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 251034,
       "name": "Judas",
       "url": "https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM"
@@ -1215,7 +1270,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 235986,
       "name": "Life On Mars?",
       "url": "https://open.spotify.com/track/7DWloTckw5BK6VRNepZIP5"
@@ -1471,7 +1526,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 218051,
       "name": "My Own Summer - Shove It",
       "url": "https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY"
@@ -2063,7 +2118,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 242813,
       "name": "Symphony of Destruction - cover version",
       "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
@@ -2179,7 +2234,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 235400,
       "name": "Thunder Kiss '65",
       "url": "https://open.spotify.com/track/3ogFfWrL3vmFC08Lz4mhwU"
@@ -2237,6 +2292,32 @@
       "duration_ms": 179295,
       "name": "Toss A Coin To Your Witcher",
       "url": "https://open.spotify.com/track/3Oz3R5UH9ynO4h1dcpEey1"
+    },
+    {
+      "album": {
+        "name": "Unholy",
+        "url": "https://open.spotify.com/album/6YorYFOVCI1kGESyKhXfHu"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Young",
+          "url": "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        },
+        {
+          "name": "Lee Albrecht",
+          "url": "https://open.spotify.com/artist/3bwSP80xbrpxXlfSAzysAJ"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161221,
+      "name": "Unholy",
+      "url": "https://open.spotify.com/track/67b6lPMr7PSvdcrzl4NjVS"
     },
     {
       "album": {

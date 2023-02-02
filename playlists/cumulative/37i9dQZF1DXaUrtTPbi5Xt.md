@@ -4,7 +4,7 @@
 
 > ¡Y así suena..\. Julión Álvarez Y Su Norteño Banda!
 
-73 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/4oSA5mxBShTlqn9EK0pLuB)
+73 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Afuera Está Lloviendo](https://open.spotify.com/track/3z6s6qPDYCpW44Zfpy4HWS) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:59 | 2022-06-20 |  |
 | [Amantes De Media Noche](https://open.spotify.com/track/6WzM7deH5S2v6E5pVgJl25) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:48 | 2022-06-20 |  |
 | [Aquí Algo Cambio](https://open.spotify.com/track/0AjShg0DVCG7NemkRNHHCi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/3HJiHhFjeqes3qEvEVYMR8) | 2:45 | 2022-11-11 | 2022-11-16 |
-| [Aquí Algo Cambio](https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:45 | 2022-11-11 |  |
+| [Aquí Algo Cambió](https://open.spotify.com/track/7wfzVpDwmkpIlQ35vTl6OG) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:45 | 2022-11-11 |  |
 | [Ay Dolor](https://open.spotify.com/track/5fa1s61zdFQjhDH0DBXbyk) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:27 | 2022-11-11 |  |
 | [Ay Dolor](https://open.spotify.com/track/5pBqm9O2O90CjSUWw2LGSc) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/3HJiHhFjeqes3qEvEVYMR8) | 2:27 | 2022-11-11 | 2022-11-16 |
 | [Besos Y Caricias](https://open.spotify.com/track/2V2caKcvSw2tBTBVTFKqy0) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:18 | 2022-06-20 |  |

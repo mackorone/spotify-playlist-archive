@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-101 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1wVKj7pX2ay3j4g9J5jTlV)
+101 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [El Aventurero \(Yo El Aventurero\)](https://open.spotify.com/track/4v0CTkZMtlTrFSjNaD4Y27) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [El Charro de México](https://open.spotify.com/album/4O87qGykYzHA5dk9PjLJnm) | 3:14 | 2022-01-25 |  |
 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 | 2022-01-25 |  |
 | [El Jinete](https://open.spotify.com/track/7rvTNx03Rl9R9uO4wMqB9G) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Miguel Aceves Mejía](https://open.spotify.com/album/1kT6rtJaVnbltJIRR8jbl6) | 2:59 | 2022-01-25 | 2022-07-29 |
-| [El Jinete \- Remastered](https://open.spotify.com/track/3enUz3EjVKgcrL7q8Q2HuW) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/3DhnqhKYzQ8tKtUUOLJcnX) | 2:59 | 2022-01-25 | 2022-09-02 |
+| [El Jinete \- Remastered](https://open.spotify.com/track/3enUz3EjVKgcrL7q8Q2HuW) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/3DhnqhKYzQ8tKtUUOLJcnX) | 2:59 | 2022-01-25 |  |
 | [El Pastor](https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:55 | 2022-01-25 |  |
 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 | 2022-01-25 |  |
 | [Ella](https://open.spotify.com/track/2STwUtOKrzqmNF23NSS0ey) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:49 | 2022-01-25 |  |
@@ -67,7 +67,7 @@
 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 | 2022-01-25 |  |
 | [La Puerta Negra](https://open.spotify.com/track/2yAbDJYqqZDxM399YpQy8U) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:15 | 2022-01-25 |  |
 | [La Que Se Fue](https://open.spotify.com/track/6J9WTHBcgGL7pjnGT6vvS6) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Coleccion Original](https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK) | 2:49 | 2022-01-25 | 2022-07-29 |
-| [La Que Se Fue](https://open.spotify.com/track/1alyNZG9KRgo9QEs7alv92) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Fiesta Mexicana](https://open.spotify.com/album/3YGaO3xZe4xrr1defiiv5q) | 2:49 | 2022-01-25 |  |
+| [La Que Se Fue](https://open.spotify.com/track/1alyNZG9KRgo9QEs7alv92) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Fiesta Mexicana](https://open.spotify.com/album/3YGaO3xZe4xrr1defiiv5q) | 2:49 | 2022-01-25 | 2023-01-15 |
 | [La Que Se Fue](https://open.spotify.com/track/74yLkIS7O070GJ9AMgQNoG) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Latinos de Oro](https://open.spotify.com/album/7vhSZgkHBPzOwur3ILGgJL) | 2:53 | 2022-01-25 | 2022-11-13 |
 | [Lamberto Quintero](https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:04 | 2022-01-25 |  |
 | [Las Rejas No Matan](https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 3:08 | 2022-01-25 |  |

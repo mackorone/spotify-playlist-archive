@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-22",
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
   "name": "\uc6b0\uc0b0 \uc544\ub798",
-  "published_playlist_ids": [
-    "05K73QU8xNffboBfRI8ruF"
-  ],
   "tracks": [
     {
       "album": {
@@ -377,7 +374,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 234000,
       "name": "Beside",
       "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
@@ -417,6 +414,24 @@
       "duration_ms": 208120,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3JqgRqxVfoZXfDWYosS9ef"
+    },
+    {
+      "album": {
+        "name": "Mondegreen",
+        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
     },
     {
       "album": {
@@ -605,7 +620,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 236493,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/05pbVnnOT6C2ZLgpYQQyoL"
@@ -735,7 +750,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 209240,
       "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
@@ -1198,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Hide into Night",
+        "url": "https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV"
+      },
+      "artists": [
+        {
+          "name": "Night Off",
+          "url": "https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 248600,
+      "name": "Hide into Night",
+      "url": "https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT"
+    },
+    {
+      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -1209,7 +1242,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227756,
       "name": "Hug me tight",
       "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
@@ -1231,7 +1264,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": "2022-12-27",
       "duration_ms": 216018,
       "name": "I Don\u2019t Lie (Feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/0Px7nsZhwF6qtebbZZHlyE"
@@ -1673,7 +1706,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 234066,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
@@ -1903,8 +1936,8 @@
       },
       "artists": [
         {
-          "name": "JungJaewon",
-          "url": "https://open.spotify.com/artist/2r4wloPYiv4WEg1uGaGRLc"
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
         }
       ],
       "date_added": "2022-07-22",
@@ -2007,7 +2040,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 287386,
       "name": "Oh, My Sun",
       "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
@@ -2539,10 +2572,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 228500,
       "name": "ride",
       "url": "https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG"
+    },
+    {
+      "album": {
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "ride",
+      "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
     },
     {
       "album": {
@@ -2783,6 +2834,24 @@
       "duration_ms": 221040,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0gfqwer7RoU8SUCCCoiLPQ"
+    },
+    {
+      "album": {
+        "name": "Space science",
+        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233170,
+      "name": "Space science",
+      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
     },
     {
       "album": {
@@ -3385,7 +3454,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 181653,
       "name": "When The Rain Stops",
       "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"
@@ -3407,6 +3476,24 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "album": {

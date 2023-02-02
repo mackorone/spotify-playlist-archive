@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,201 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,814 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 67 | [The Great Unknown](https://open.spotify.com/track/4nY7xJxAsbgalPsOiWBonK) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:59 |
 | 68 | [Flight](https://open.spotify.com/track/08AlY11E0HRmvm32pt0K9d) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId) | 2:16 |
 | 69 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
-| 70 | [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 |
+| 70 | [Crossroad at Dawn](https://open.spotify.com/track/5rQx4Rhe1gey7FJSO5F4aV) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Chaotic Chronicle \(Lineage2 Original Game Soundtrack\)](https://open.spotify.com/album/04wngi30Qap95fjcdn7SbC) | 2:00 |
 
-Snapshot ID: `MTY2MzMyMDU3NCwwMDAwMDAwMDE4ZDAzMzRiZjc0MGViYTE4M2M1NjBlMWFlMzMwYTgw`
+Snapshot ID: `MTY2MzMyMDU3NCwwMDAwMDAwMGZiMTkyZTRhMDc1NTJiNTYyNWMzMTQzOGQ2M2VmNWQ0`

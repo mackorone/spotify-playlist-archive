@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: (G)I-DLE((\uc5ec\uc790)\uc544\uc774\ub4e4)) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: GONEISBACK(\uace0\uc740\uc774)) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "EQUAL K-Pop",
-  "published_playlist_ids": [
-    "7aZE60N1scOgpUAHT7EoLb"
-  ],
   "tracks": [
     {
       "album": {
@@ -538,6 +535,24 @@
     },
     {
       "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
+    },
+    {
+      "album": {
         "name": "Blossom Flower",
         "url": "https://open.spotify.com/album/4CKtim3edPtjSJVbz5SQbF"
       },
@@ -643,6 +658,24 @@
       "duration_ms": 223373,
       "name": "Boys Like You",
       "url": "https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk"
+    },
+    {
+      "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega"
+      },
+      "artists": [
+        {
+          "name": "GONEISBACK",
+          "url": "https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN"
     },
     {
       "album": {
@@ -765,7 +798,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2022-11-30",
       "duration_ms": 195546,
       "name": "Celebrity",
       "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
@@ -823,6 +856,24 @@
       "duration_ms": 186328,
       "name": "CHIQUITA",
       "url": "https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3"
+    },
+    {
+      "album": {
+        "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
+        "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 180320,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
     },
     {
       "album": {
@@ -988,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo"
+    },
+    {
+      "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/74i7iW2GXbm50mQttVDHYy"
       },
@@ -1115,6 +1184,24 @@
       "duration_ms": 235956,
       "name": "Draw you",
       "url": "https://open.spotify.com/track/7bTucaBqXtbXqTMVmn2kqN"
+    },
+    {
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 147240,
+      "name": "DUMB DUMB",
+      "url": "https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x"
     },
     {
       "album": {
@@ -1345,7 +1432,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 207013,
       "name": "FIRE",
       "url": "https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L"
@@ -1403,7 +1490,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
@@ -1479,6 +1566,24 @@
       "duration_ms": 239100,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY"
+    },
+    {
+      "album": {
+        "name": "Forgive Me - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn"
     },
     {
       "album": {
@@ -1619,7 +1724,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 221813,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX"
@@ -1789,7 +1894,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 167626,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n"
@@ -2335,7 +2440,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 186000,
       "name": "Life is Wet",
       "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
@@ -2544,6 +2649,28 @@
     },
     {
       "album": {
+        "name": "Love War",
+        "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "Love War (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
+    },
+    {
+      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -2573,7 +2700,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 185733,
       "name": "MAISON",
       "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
@@ -2649,6 +2776,24 @@
       "duration_ms": 219623,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/6FHwkEfmpjhoEzS9s8ao7f"
+    },
+    {
+      "album": {
+        "name": "MOONLIGHT SUNRISE",
+        "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
     },
     {
       "album": {
@@ -2797,6 +2942,24 @@
       "duration_ms": 168462,
       "name": "Nabillera",
       "url": "https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
+      },
+      "artists": [
+        {
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
     },
     {
       "album": {
@@ -2980,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
+    },
+    {
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -3049,6 +3230,24 @@
       "duration_ms": 197739,
       "name": "Over the Sky",
       "url": "https://open.spotify.com/track/68K3uCXs4JeuZ2OZdOTQr7"
+    },
+    {
+      "album": {
+        "name": "PANDORA'S BOX",
+        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
+      },
+      "artists": [
+        {
+          "name": "MAVE:",
+          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196826,
+      "name": "PANDORA",
+      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
     },
     {
       "album": {
@@ -3655,7 +3854,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 197746,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl"
@@ -3677,6 +3876,24 @@
       "duration_ms": 232853,
       "name": "Roomie",
       "url": "https://open.spotify.com/track/1KH10P3M4x3ONABMhiv8B5"
+    },
+    {
+      "album": {
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
     },
     {
       "album": {
@@ -4084,6 +4301,24 @@
     },
     {
       "album": {
+        "name": "Stamp On It - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
+      },
+      "artists": [
+        {
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232813,
+      "name": "Stamp On It",
+      "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
+    },
+    {
+      "album": {
         "name": "Twenty-Five Twenty-One OST Part 6",
         "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
       },
@@ -4131,7 +4366,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 195653,
       "name": "Stay This Way",
       "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
@@ -4149,7 +4384,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 205333,
       "name": "strawberry moon",
       "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
@@ -4671,7 +4906,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 189173,
       "name": "VISION",
       "url": "https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP"
@@ -4867,6 +5102,24 @@
       "duration_ms": 167746,
       "name": "What Do I Call You",
       "url": "https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr"
+    },
+    {
+      "album": {
+        "name": "MOVE AGAIN",
+        "url": "https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "WHEN I MOVE",
+      "url": "https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC"
     },
     {
       "album": {
@@ -5083,7 +5336,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 207650,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
@@ -5101,7 +5354,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 237680,
       "name": "YES or YES",
       "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"

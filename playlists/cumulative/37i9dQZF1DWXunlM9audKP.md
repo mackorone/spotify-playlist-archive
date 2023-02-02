@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2017! Cover: Ed Sheeran
 
-154 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/6KvqfmhTGVb6TBj6Q2dPvG)
+154 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "For body and mind, blues straight from the soul. ",
+  "description": "For body and mind, blues straight from the soul.",
   "name": "Healin' Blues",
-  "published_playlist_ids": [
-    "6CKUzaQhH2pxAvizLCQank"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 515933,
       "name": "Ain't It A Shame",
       "url": "https://open.spotify.com/track/58dG6XIMGNhFdH8GKSPCmL"
@@ -246,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "album": {
         "name": "Brownie McGhee and Sonny Terry Sing",
         "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
       },
@@ -315,6 +330,28 @@
       "duration_ms": 531960,
       "name": "Celebrated Walkin' Blues",
       "url": "https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS"
+    },
+    {
+      "album": {
+        "name": "Porch Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        },
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170893,
+      "name": "Change is Inevitable (feat. AJ Fullerton)",
+      "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
     },
     {
       "album": {
@@ -390,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157266,
+      "name": "Drivin' Wheel - Single Version",
+      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
+    },
+    {
+      "album": {
         "name": "Little Junior Parker: Mr. Blues",
         "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
       },
@@ -401,7 +456,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-29",
       "duration_ms": 160773,
       "name": "Driving Wheel",
       "url": "https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa"
@@ -582,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "I Ain't Blue - 2008 Remaster",
+      "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
+    },
+    {
+      "album": {
         "name": "An Introduction To Otis Rush",
         "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
       },
@@ -633,7 +706,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 298800,
       "name": "I Got a Mind to Give up Living",
       "url": "https://open.spotify.com/track/0WpiGyQFNJbtfxlSvBiQl2"
@@ -667,6 +740,24 @@
       "duration_ms": 175133,
       "name": "I Got the Blues",
       "url": "https://open.spotify.com/track/67sHV5ccX8EreM66hq6cbv"
+    },
+    {
+      "album": {
+        "name": "South Side Of Soul Street: The SSS Sessions (Remastered 2022)",
+        "url": "https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 189000,
+      "name": "I Have No One - Remastered 2022",
+      "url": "https://open.spotify.com/track/308gSPfGJpzLK9rnYCZZtB"
     },
     {
       "album": {
@@ -721,6 +812,24 @@
       "duration_ms": 277733,
       "name": "I Need Some Air",
       "url": "https://open.spotify.com/track/4VJ7hK0xONIrpCk5m3Vm4a"
+    },
+    {
+      "album": {
+        "name": "The Biggest Thing Since Colossus",
+        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 280626,
+      "name": "I Need Some Air",
+      "url": "https://open.spotify.com/track/2AkVirM9aeaGbl3pLX32n4"
     },
     {
       "album": {
@@ -901,7 +1010,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 390666,
       "name": "It's Mighty Hard",
       "url": "https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN"
@@ -1049,6 +1158,24 @@
       "duration_ms": 199226,
       "name": "No Headstone on My Grave",
       "url": "https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD"
+    },
+    {
+      "album": {
+        "name": "Plenty Good Room",
+        "url": "https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA"
+      },
+      "artists": [
+        {
+          "name": "Lynda Randle",
+          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237680,
+      "name": "Plenty Good Room",
+      "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
     },
     {
       "album": {
@@ -1475,7 +1602,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265800,
       "name": "Today I Sing the Blues",
       "url": "https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5"
@@ -1533,6 +1660,24 @@
       "duration_ms": 270752,
       "name": "Violet Nights",
       "url": "https://open.spotify.com/track/5FGtaSrifRQMBFDo6TfQIj"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/20GfTZN5yYaNXTtsW16son"
+      },
+      "artists": [
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270752,
+      "name": "Violet Nights",
+      "url": "https://open.spotify.com/track/6vIqO60517ei9oVj2f1bWA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1STMhgdmNBY"

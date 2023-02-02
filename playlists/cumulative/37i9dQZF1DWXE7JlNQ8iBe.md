@@ -4,7 +4,7 @@
 
 > Carolina Ross le dedica un canto a La Catrina, para mantener nuestra tradición viva.
 
-49 songs - 3 hr 18 min - not published yet
+49 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
   "name": "Mundo Chamam\u00e9",
-  "published_playlist_ids": [
-    "2GjcMWtH64TAHAcgFS6gKj"
-  ],
   "tracks": [
     {
       "album": {
@@ -363,7 +360,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 142200,
       "name": "Barrio la Toma",
       "url": "https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE"
@@ -381,7 +378,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 474053,
       "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
       "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
@@ -435,7 +432,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 110706,
       "name": "Camino a las cuchillas",
       "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
@@ -1123,7 +1120,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": "2022-12-21",
       "duration_ms": 171973,
       "name": "Flor del Litoral",
       "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
@@ -1229,7 +1226,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 143466,
       "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
@@ -2085,7 +2082,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 154893,
       "name": "Nostalgias Camperas",
       "url": "https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI"
@@ -2121,7 +2118,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 138893,
       "name": "Pajaro Chog\u00fci",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
@@ -2197,7 +2194,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 145280,
       "name": "Pasion oculta",
       "url": "https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73"
@@ -2577,6 +2574,24 @@
       "duration_ms": 147986,
       "name": "Siete Higueras",
       "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
+    },
+    {
+      "album": {
+        "name": "Sobredosis De Chamam\u00e9",
+        "url": "https://open.spotify.com/album/3r8FJW4rx2yneJ2TPsH6Qi"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160040,
+      "name": "Sobredosis de Chamam\u00e9",
+      "url": "https://open.spotify.com/track/2zUywQYzbipRi3NjjtdIxd"
     },
     {
       "album": {

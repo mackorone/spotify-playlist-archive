@@ -4,7 +4,7 @@
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-86 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/1ikhJEax4Sukl3RPANaiD0)
+86 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [MAMA](https://open.spotify.com/track/6AFOYvjA9cJMzta9PZK0eK) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [MAMA](https://open.spotify.com/album/0xWnUiv6ey8AlX2Q4HgRfH) | 4:13 | 2022-05-06 |  |
 | [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 | 2022-05-06 |  |
 | [Mamma's Kitchen](https://open.spotify.com/track/17toD0xlCUdWdn4B47uvr5) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:05 | 2022-05-06 |  |
-| [Mamá](https://open.spotify.com/track/0llRpbgcHZ9Ig5F105manW) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG) | [Mamá](https://open.spotify.com/album/0DAa8NDAjQB8NsRHygPSqi) | 4:51 | 2022-05-06 | 2022-11-13 |
+| [Mamá](https://open.spotify.com/track/0llRpbgcHZ9Ig5F105manW) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG) | [Mamá](https://open.spotify.com/album/0DAa8NDAjQB8NsRHygPSqi) | 4:51 | 2022-05-06 | 2023-01-21 |
 | [Me](https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Blink](https://open.spotify.com/album/3r9SKtHFReLzHXaswU4S49) | 4:33 | 2022-05-06 |  |
 | [Momma Kinda Lovin](https://open.spotify.com/track/4k3N2Sh67ov5t0qJLudDp1) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Momma Kinda Lovin](https://open.spotify.com/album/5O8hVjPeB8q8yMAFWDwal2) | 3:40 | 2022-05-06 |  |
 | [More Beautiful You](https://open.spotify.com/track/0BD6kjnLp2CGYAY3Vb6bUY) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [More Beautiful You](https://open.spotify.com/album/27qh9LZsrPEPAdxKvbUPBp) | 3:51 | 2022-05-06 |  |

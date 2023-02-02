@@ -4,7 +4,7 @@
 
 > The very best Blues out of the heart of Northern Mississippi\. Cover: R.L\. Burnside
 
-60 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/12p7yPNty8Ri63ExFtFGMS)
+60 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

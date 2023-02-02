@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > The sound of crashing waves
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,686 likes - 203 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,337 likes - 203 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 154 | [Island Waves](https://open.spotify.com/track/1AKBor4M47I7axiOkCRiqk) | [Hawaiian Explosion](https://open.spotify.com/artist/6UY5lHIUz2dzWHwyGy2DMj) | [Island Waves](https://open.spotify.com/album/6jrW7MXGhQoWkfAajd2Fms) | 3:30 |
 | 155 | [Three Minutes Of Breathing Waves](https://open.spotify.com/track/31SevMkEKupBNpthM8Zkja) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 3:06 |
 | 156 | [Daytona Beach Waves](https://open.spotify.com/track/5bV68Ar7VlCSyDyTnAQsTD) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 1:23 |
-| 157 | [At The Shore](https://open.spotify.com/track/17GKEXuSlpESmBaUJaXeBF) | [Ocean Vacation](https://open.spotify.com/artist/5TgEJqhCrbEiOGTNMC5dh4) | [At The Shore](https://open.spotify.com/album/7feNID0SxJjODjF1fwEkhv) | 2:47 |
+| 157 | [At The Shore](https://open.spotify.com/track/17GKEXuSlpESmBaUJaXeBF) | [Ocean Vacation](https://open.spotify.com/artist/7hO7QJqzlEr6RaZlaalLLR) | [At The Shore](https://open.spotify.com/album/7feNID0SxJjODjF1fwEkhv) | 2:47 |
 | 158 | [Afternoon Tide](https://open.spotify.com/track/1nEQ117bf8yZaxQAJvlqq9) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Private Beach Wave Sounds](https://open.spotify.com/album/32DqIRyDehbR8cLyWFilgg) | 3:07 |
 | 159 | [Waves from the Outlook](https://open.spotify.com/track/3HneefmTTrhPH9VHsuY5KO) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Waves for Sleeping](https://open.spotify.com/album/12lCxJLO2VT5AKc91ua881) | 3:14 |
 | 160 | [Olas del mar](https://open.spotify.com/track/2JU0aRNuN3uc5dKDMeVmTq) | [Ayudantes para dormir](https://open.spotify.com/artist/3uiLZIt70oh7RelYoaozqD) | [Ayudantes para dormir](https://open.spotify.com/album/7r5Aj4mO7gl9VFowZjI1LS) | 4:11 |

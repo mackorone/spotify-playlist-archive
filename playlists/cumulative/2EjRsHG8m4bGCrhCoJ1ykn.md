@@ -4,7 +4,7 @@
 
 > Drive happy with these upbeat bluegrass tracks.
 
-19 songs - 1 hr 7 min - [published](https://open.spotify.com/playlist/0shcSSdfTpnJhhh0GJSQBw)
+19 songs - 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

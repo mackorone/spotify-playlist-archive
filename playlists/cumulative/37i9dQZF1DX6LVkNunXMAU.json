@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Valdes.",
   "name": "mandarina",
-  "published_playlist_ids": [
-    "4BUp4yjqSNj5hKWR44pt15"
-  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 134634,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/3Jz3zwnn36LsrMfHExiyi8"
@@ -217,10 +214,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 178000,
       "name": "Amor Con Filo",
       "url": "https://open.spotify.com/track/0c9mfOt1GwupTmognEOAPA"
+    },
+    {
+      "album": {
+        "name": "Dark Folk, Vol.1",
+        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX"
     },
     {
       "album": {
@@ -771,7 +786,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 202956,
       "name": "De Viaje",
       "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
@@ -793,7 +808,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-27",
       "duration_ms": 149364,
       "name": "Disfon\u00eda",
       "url": "https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7"
@@ -1181,16 +1196,16 @@
           "url": "https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw"
         },
         {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        },
-        {
           "name": "Mei demayo",
           "url": "https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV"
         },
         {
           "name": "Juan ortiz",
           "url": "https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
         }
       ],
       "date_added": "2022-11-11",
@@ -1395,10 +1410,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/4vgtji8ryyG6poEdMhSvE7"
+    },
+    {
+      "album": {
+        "name": "Mensajes en el Mar",
+        "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        },
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247614,
+      "name": "Mensajes en el Mar",
+      "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
     },
     {
       "album": {
@@ -1431,7 +1468,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-26",
       "duration_ms": 197391,
       "name": "Meteorito",
       "url": "https://open.spotify.com/track/6chRwUZxC2L09DokRfZVAZ"
@@ -1706,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Respirar de Nuevo",
+        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
+      },
+      "artists": [
+        {
+          "name": "Margarita Pla",
+          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273511,
+      "name": "No Te Acerques Tanto a M\u00ed",
+      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
+    },
+    {
+      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -1977,6 +2032,24 @@
     {
       "album": {
         "name": "Postre",
+        "url": "https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK"
+      },
+      "artists": [
+        {
+          "name": "Pastrana",
+          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Postre",
+      "url": "https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle"
+    },
+    {
+      "album": {
+        "name": "Postre",
         "url": "https://open.spotify.com/album/3ayGisd0er515a1Vq3zhqN"
       },
       "artists": [
@@ -1987,7 +2060,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 180000,
       "name": "Postre",
       "url": "https://open.spotify.com/track/1OBjbKYarukVRG2AYqIXsi"
@@ -2041,7 +2114,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 169922,
       "name": "Quiero Seguir Durmiendo",
       "url": "https://open.spotify.com/track/6vo21NT3rATjoi1ZWtc6sU"
@@ -2385,7 +2458,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 172500,
       "name": "trece",
       "url": "https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd"
@@ -2461,7 +2534,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 215690,
       "name": "Un Caf\u00e9",
       "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"

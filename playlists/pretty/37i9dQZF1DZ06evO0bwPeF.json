@@ -1,15 +1,15 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 5723,
+  "num_followers": 6017,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDA5YjZiYWM3ZmJmNmRiOGJjZDQxZjA3MWIxNTZkNjNkMQ==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA5NzgyZDEwNTYxMDZjM2NjMGRjZGNkZDVhMWU5ZDExNQ==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
@@ -41,71 +41,7 @@
       "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 156400,
-      "name": "Exactly What You Wanted",
-      "url": "https://open.spotify.com/track/1xl9a6GICzJisksmdrljt2"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Size Matters",
-        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 151120,
-      "name": "Crashing Foreign Cars",
-      "url": "https://open.spotify.com/track/5aAr5Y5wXiUMHVEtvaCXkt"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "Biscuits For Smut",
-      "url": "https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
@@ -121,7 +57,71 @@
       "url": "https://open.spotify.com/track/1UOkTycAtWGz5rgQxo1E9M"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 151120,
+      "name": "Crashing Foreign Cars",
+      "url": "https://open.spotify.com/track/5aAr5Y5wXiUMHVEtvaCXkt"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Biscuits For Smut",
+      "url": "https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 156400,
+      "name": "Exactly What You Wanted",
+      "url": "https://open.spotify.com/track/1xl9a6GICzJisksmdrljt2"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Unsung: The Best Of Helmet 1991-1997",
         "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Size Matters",
         "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/3TA6HhnAnQP5t6xBpxgpOX"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2GN8Femwt83EIwInIuQj33"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/0EV6881kagOULo42517dMX"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/2IbXarUn4rwPepcPIS9sfm"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/5YZc9o1Uk69v7fuO2R3cLG"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Size Matters",
         "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/5PU3cvFLDI7sJagPLiB4lq"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Strap It On",
         "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/1lfPYmFzLJzkrAo8J8bBtz"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Size Matters",
         "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
@@ -413,71 +413,7 @@
       "url": "https://open.spotify.com/track/0o1wHHECTAVzBojwmXBAmj"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 230080,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Strap It On",
-        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 133733,
-      "name": "Bad Mood",
-      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Seeing Eye Dog",
-        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "Miserable",
-      "url": "https://open.spotify.com/track/0Odz0mm44aEHbMGHu2uZdS"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Size Matters",
-        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 300626,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/7BFKbXUdIyz10tE7d3eR3e"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Born Annoying",
         "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
@@ -493,7 +429,7 @@
       "url": "https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Strap It On",
         "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
@@ -504,15 +440,15 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Repetition",
-      "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
+      "duration_ms": 133733,
+      "name": "Bad Mood",
+      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
-        "name": "Seeing Eye Dog",
-        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
       },
       "artists": [
         {
@@ -520,12 +456,12 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 261786,
-      "name": "Welcome to Algiers",
-      "url": "https://open.spotify.com/track/2lzqK8W07iKSUm69xKhsiN"
+      "duration_ms": 230080,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Size Matters",
         "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
@@ -541,7 +477,39 @@
       "url": "https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 204813,
+      "name": "Miserable",
+      "url": "https://open.spotify.com/track/0Odz0mm44aEHbMGHu2uZdS"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Repetition",
+      "url": "https://open.spotify.com/track/0SN6a4K3SSIDhAMVkN23El"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
@@ -557,10 +525,10 @@
       "url": "https://open.spotify.com/track/0XQa4DYXsjQZAkefB1zFL1"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
-        "name": "Strap It On",
-        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
       },
       "artists": [
         {
@@ -568,156 +536,12 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
+      "duration_ms": 300626,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/7BFKbXUdIyz10tE7d3eR3e"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Dead to the World",
-        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/3PUTw7Aol3xShBCwWZNtXp"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Unsung: The Best Of Helmet 1991-1997",
-        "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "Disagreeable",
-      "url": "https://open.spotify.com/track/3kfYNMUlAhfrpOv2BexhB5"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Seeing Eye Dog",
-        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/4VP7mWCin77GP9PVGzaSUX"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Strap It On",
-        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "FBLA",
-      "url": "https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 251080,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/3T2Fwwxr2Q7WlG45Jo7gK9"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Dead to the World",
-        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Red Scare",
-      "url": "https://open.spotify.com/track/5khIBhLlizgeyCrMtaaEFl"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Seeing Eye Dog",
-        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "Seeing Eye Dog",
-      "url": "https://open.spotify.com/track/6RvQs3xkobVzjsfKX3278z"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Strap It On",
-        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Make Room",
-      "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
-      "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "Swallowing Everything",
-      "url": "https://open.spotify.com/track/7fdCDdBypKbgiHatHUXmcM"
-    },
-    {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Seeing Eye Dog",
         "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
@@ -733,7 +557,183 @@
       "url": "https://open.spotify.com/track/1eeR14LMpSxl2KjrqHup3p"
     },
     {
-      "added_at": "2022-11-25 14:27:09",
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "FBLA",
+      "url": "https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Dead to the World",
+        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Red Scare",
+      "url": "https://open.spotify.com/track/5khIBhLlizgeyCrMtaaEFl"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Unsung: The Best Of Helmet 1991-1997",
+        "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "Disagreeable",
+      "url": "https://open.spotify.com/track/3kfYNMUlAhfrpOv2BexhB5"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 251080,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/3T2Fwwxr2Q7WlG45Jo7gK9"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 261786,
+      "name": "Welcome to Algiers",
+      "url": "https://open.spotify.com/track/2lzqK8W07iKSUm69xKhsiN"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Born Annoying",
+        "url": "https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 113400,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "Swallowing Everything",
+      "url": "https://open.spotify.com/track/7fdCDdBypKbgiHatHUXmcM"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Seeing Eye Dog",
+      "url": "https://open.spotify.com/track/6RvQs3xkobVzjsfKX3278z"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Dead to the World",
+        "url": "https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 156360,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/3PUTw7Aol3xShBCwWZNtXp"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
       "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx"
@@ -747,6 +747,38 @@
       "duration_ms": 271013,
       "name": "Bury Me",
       "url": "https://open.spotify.com/track/7JF5gAGflcwUyGwuejhBmk"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Live and Rare",
+        "url": "https://open.spotify.com/album/23LB0tzYvazXNVnYL1OZbo"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 99133,
+      "name": "Intro - Live at CBGB",
+      "url": "https://open.spotify.com/track/7G0GL6nuNPavq0qXmAASBF"
+    },
+    {
+      "added_at": "2023-02-01 17:51:19",
+      "album": {
+        "name": "Seeing Eye Dog",
+        "url": "https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/4VP7mWCin77GP9PVGzaSUX"
     }
   ],
   "unique_name": "This Is Helmet",

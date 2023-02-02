@@ -4,7 +4,7 @@
 
 > Your essential Jack Johnson, all in one playlist.
 
-69 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/3ojf5BR6vEXY49pmq4oml9)
+69 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

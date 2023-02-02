@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 
 > The soundtrack to your festive get\-together!
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,657 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,681 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 | 10 | [Merry Christmas Everyone](https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone](https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa) | 3:40 |
 | 11 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 |
 | 12 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
-| 13 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [A Brenda Lee Christmas](https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F) | 2:06 |
+| 13 | [Rockin' Around the Christmas Tree \- Rerecorded Version](https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [A Brenda Lee Christmas](https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F) | 2:06 |
 | 14 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 |
 | 15 | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/track/46w8k81V0eSBx64XuVHxT2) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Christmas Time \(Don't Let the Bells End\)](https://open.spotify.com/album/4XzNQosYnRNJ29QYsMV98V) | 3:39 |
 | 16 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 | 46 | [Christmas In Hollis](https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Tougher Than Leather \(Expanded Edition\)](https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv) | 2:58 |
 | 47 | [Last Christmas](https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX) | 3:32 |
 | 48 | [Ain't No Chimneys in the Projects](https://open.spotify.com/track/0z8XkugfsVI0HtXJDph8RA) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [It's a Holiday Soul Party](https://open.spotify.com/album/73nbM7q1KmaYMYbzD5KsHc) | 2:22 |
-| 49 | [Run Rudolph Run](https://open.spotify.com/track/2fpZlIhqXByz1IJke9B4zY) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:12 |
-| 50 | [12 Days of Christmas](https://open.spotify.com/track/6E4NFTOYOUPKnTCYXsLWWT) | [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [Tanglewood Festival Chorus](https://open.spotify.com/artist/4iVuajOueZR7rvn5PbkZM0), [Keith Lockhart](https://open.spotify.com/artist/3xXehPffJ4rtaaCbqDwVJ3) | [12 Days of Christmas](https://open.spotify.com/album/1RQHki0FSyJHcBCj22z0Hw) | 9:16 |
+| 49 | [Ring Out The Bells](https://open.spotify.com/track/2ykBpMiRAKvii89MMclhp9) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 3:59 |
+| 50 | [Run Rudolph Run](https://open.spotify.com/track/2fpZlIhqXByz1IJke9B4zY) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:12 |
 
-Snapshot ID: `MTY2Njk2NzE1MiwwMDAwMDAwMGM3MzFiMmE0NWRiNjhhYzRhYzIyMDQ3NjQ3NjFhMDll`
+Snapshot ID: `MTY3MDMxODc0OCwwMDAwMDAwMDk4ODkzNDVmY2E5YTMxYjQ3Y2M1ZTlhMzAxMTcyZDY0`

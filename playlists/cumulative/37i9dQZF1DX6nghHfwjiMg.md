@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-100 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5Pxi8eyAIqTOgi5TjZfI4h)
+101 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [FC](https://open.spotify.com/track/69FdDBCt7D7LFJrupeujMz) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [FC](https://open.spotify.com/album/2hea6PJnjJvM6QG3vjCscG) | 2:59 | 2022-08-04 |  |
 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 | 2021-11-11 |  |
 | [Frío Blues](https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Frío Blues](https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB) | 2:45 | 2022-08-04 |  |
-| [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 | 2022-09-01 |  |
+| [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 | 2022-09-01 | 2022-12-24 |
+| [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 | 2022-12-22 |  |
 | [Gira \(El Mundo Gira\)](https://open.spotify.com/track/4Z6CKsJqAKsRi8UFQYaXM7) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Gira \(El Mundo Gira\)](https://open.spotify.com/album/5pqwiGyCURr9bzYQyC6JfQ) | 2:39 | 2021-11-11 | 2022-08-27 |
 | [Gris](https://open.spotify.com/track/54TITTIjdmIbHH0eZM0uRi) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Charlie Guns](https://open.spotify.com/artist/1svCFZxt0Qei4VMSkelVBa) | [Gris](https://open.spotify.com/album/2JepnySF2k8h15YQ9wPA3h) | 3:26 | 2021-11-11 |  |
 | [GUARACHA](https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [GUARACHA](https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy) | 2:37 | 2022-06-01 |  |

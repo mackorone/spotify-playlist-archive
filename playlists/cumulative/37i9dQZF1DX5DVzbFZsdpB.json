@@ -2,9 +2,169 @@
   "date_first_scraped": "2022-09-17",
   "description": "Podcasts you need to have on your RADAR: GIRL CODE, Goes Alright and Out of  Character with Millie.",
   "name": "RADAR Podcasters AUSTRALIA",
-  "published_playlist_ids": [
-    "6mNg0REYk9RduezQB6ZMnF"
+  "tracks": [
+    {
+      "album": {
+        "name": "Out Of Character with Millie",
+        "url": "https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ"
+      },
+      "artists": [
+        {
+          "name": "Out Of Character with Millie",
+          "url": "https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2265648,
+      "name": " main character overload ft starr mcg",
+      "url": "https://open.spotify.com/episode/5jAgDgP5P3ErqCJzhiK6l4"
+    },
+    {
+      "album": {
+        "name": "Goes Alright",
+        "url": "https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD"
+      },
+      "artists": [
+        {
+          "name": "Goes Alright",
+          "url": "https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2520256,
+      "name": "01 | Dos on Debut ft. Tom Mitchell",
+      "url": "https://open.spotify.com/episode/0zV5E1TJh4R2TE5sTUqHdJ"
+    },
+    {
+      "album": {
+        "name": "Goes Alright",
+        "url": "https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD"
+      },
+      "artists": [
+        {
+          "name": "Goes Alright",
+          "url": "https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3030336,
+      "name": "05 | Fish On The Hook ft. Zac Fisher",
+      "url": "https://open.spotify.com/episode/3b4FNcuDa9fb3BlJd5XsOI"
+    },
+    {
+      "album": {
+        "name": "Goes Alright",
+        "url": "https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD"
+      },
+      "artists": [
+        {
+          "name": "Goes Alright",
+          "url": "https://open.spotify.com/show/1MtrNAs7qBUXqGv1LX5goD"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2776896,
+      "name": "14 | Fit and Firing ft. Connor Rogers",
+      "url": "https://open.spotify.com/episode/4wHd9b9TSvkvbrohLvlMbu"
+    },
+    {
+      "album": {
+        "name": "GIRL CODE",
+        "url": "https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX"
+      },
+      "artists": [
+        {
+          "name": "GIRL CODE",
+          "url": "https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1995800,
+      "name": "Alone But Not Lonely",
+      "url": "https://open.spotify.com/episode/1qfnRn70wfKwc3GoVR19ww"
+    },
+    {
+      "album": {
+        "name": "Out Of Character with Millie",
+        "url": "https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ"
+      },
+      "artists": [
+        {
+          "name": "Out Of Character with Millie",
+          "url": "https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2350103,
+      "name": "everyone's favourite english teacher",
+      "url": "https://open.spotify.com/episode/7Lhs4uGwpLF7hM9AdcB6V3"
+    },
+    {
+      "album": {
+        "name": "Out Of Character with Millie",
+        "url": "https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ"
+      },
+      "artists": [
+        {
+          "name": "Out Of Character with Millie",
+          "url": "https://open.spotify.com/show/67HY7vYh5q5ycuuL9WsdFJ"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2652576,
+      "name": "pov you get the ick\u2026",
+      "url": "https://open.spotify.com/episode/4GdU3VkPGnYgI5PVbCvp63"
+    },
+    {
+      "album": {
+        "name": "GIRL CODE",
+        "url": "https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX"
+      },
+      "artists": [
+        {
+          "name": "GIRL CODE",
+          "url": "https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2581314,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/episode/181XSHpJNnwIvOqesGZBKr"
+    },
+    {
+      "album": {
+        "name": "GIRL CODE",
+        "url": "https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX"
+      },
+      "artists": [
+        {
+          "name": "GIRL CODE",
+          "url": "https://open.spotify.com/show/0Az9bdwsVeYcOhm2FMhnlX"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2716454,
+      "name": "Time To Reset & Refocus",
+      "url": "https://open.spotify.com/episode/1xt6WyZwoYHaBEW0Zwq4oA"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5DVzbFZsdpB"
 }

@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-27",
   "description": "Los muertos al caj\u00f3n y los vivos al fiest\u00f3n.",
   "name": "Halloween Fiesta",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -1271,7 +1270,7 @@
     {
       "album": {
         "name": "Red Dead Redemption: Undead Nightmare Original Soundtrack",
-        "url": "https://open.spotify.com/album/2YGuFhmMtK5rD7v5K3AV4V"
+        "url": "https://open.spotify.com/album/2RVAztnGDcmO51LE7YBohk"
       },
       "artists": [
         {
@@ -1284,6 +1283,24 @@
       "date_removed": null,
       "duration_ms": 191226,
       "name": "Stinkin' Zombies",
+      "url": "https://open.spotify.com/track/1M2s8CvdojlVc1SeUFfnD4"
+    },
+    {
+      "album": {
+        "name": "Red Dead Redemption: Undead Nightmare Original Soundtrack",
+        "url": "https://open.spotify.com/album/2YGuFhmMtK5rD7v5K3AV4V"
+      },
+      "artists": [
+        {
+          "name": "Misterio",
+          "url": "https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 191226,
+      "name": "Stinkin' zombies",
       "url": "https://open.spotify.com/track/3IEhTMoRdwGj8ekSk4MqKH"
     },
     {

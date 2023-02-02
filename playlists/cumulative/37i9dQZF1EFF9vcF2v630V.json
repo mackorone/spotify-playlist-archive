@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123\">Chelcee Grimes</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Chelcee Grimes",
-  "published_playlist_ids": [
-    "2qdl1OzkEdMIjDdU6N0mTK"
-  ],
   "tracks": [
     {
       "album": {
@@ -206,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/1nojYUUt3enwz0qoR4pPJ9"
+      },
+      "artists": [
+        {
+          "name": "Saszan",
+          "url": "https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 216503,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/6RQzfmZSfGZ0jgvG2DJp0d"
+    },
+    {
+      "album": {
         "name": "Shadow Man (feat. Sasha Gracanin)",
         "url": "https://open.spotify.com/album/5debPYP5vc7Cl4gJE3hbpT"
       },
@@ -336,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/5Ot1evmXCckrToeHdqslPG"
+      },
+      "artists": [
+        {
+          "name": "Riza Raquel",
+          "url": "https://open.spotify.com/artist/4e9Vcf27riqB6oA9IgWSpb"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215222,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3hyhiK6GT3I5e2pJBOT2yc"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk"
       },
@@ -427,6 +460,24 @@
     {
       "album": {
         "name": "MASSIVE",
+        "url": "https://open.spotify.com/album/5aJ6EYd1rvIP0bp2zaO92H"
+      },
+      "artists": [
+        {
+          "name": "B.A.P",
+          "url": "https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204260,
+      "name": "HONEYMOON",
+      "url": "https://open.spotify.com/track/1JXoACZvZMnk5jsM3NJ9J5"
+    },
+    {
+      "album": {
+        "name": "MASSIVE",
         "url": "https://open.spotify.com/album/4uxJa8tBMhBLA49owkf4gK"
       },
       "artists": [
@@ -437,7 +488,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 204260,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/2bzv4zdBugbECUkWU3upM9"
@@ -813,10 +864,28 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 199576,
       "name": "Nie Pytaj Mnie",
       "url": "https://open.spotify.com/track/5fB1BAJ7w9bCpjqycKiW3R"
+    },
+    {
+      "album": {
+        "name": "Aquaria",
+        "url": "https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv"
+      },
+      "artists": [
+        {
+          "name": "Doda",
+          "url": "https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199576,
+      "name": "Nie Pytaj Mnie",
+      "url": "https://open.spotify.com/track/7eQQZnk2eYukRlWSN771gl"
     },
     {
       "album": {
@@ -915,6 +984,24 @@
     {
       "album": {
         "name": "Aquaria",
+        "url": "https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv"
+      },
+      "artists": [
+        {
+          "name": "Doda",
+          "url": "https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Riotka",
+      "url": "https://open.spotify.com/track/0qz3ec9XhWJgMNddMlgoD6"
+    },
+    {
+      "album": {
+        "name": "Aquaria",
         "url": "https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe"
       },
       "artists": [
@@ -925,7 +1012,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 185733,
       "name": "Riotka",
       "url": "https://open.spotify.com/track/6mxgoXjwUX3jRy9myivNle"

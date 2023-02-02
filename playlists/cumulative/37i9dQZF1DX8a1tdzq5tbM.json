@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "<a href=\"spotify:genre:edm_dance\">Dance radio</a> hits from the 90s and 00s!",
   "name": "Dance Classics",
-  "published_playlist_ids": [
-    "6IKSKLiJj6eKbX4pw7OX7K"
-  ],
   "tracks": [
     {
       "album": {
@@ -964,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390560,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
+    },
+    {
+      "album": {
         "name": "Deep Inside (2009 Mixes)",
         "url": "https://open.spotify.com/album/573BQbP4hPr12C32Np5XDW"
       },
@@ -979,24 +994,6 @@
       "duration_ms": 390560,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV"
-    },
-    {
-      "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "date_added": "2022-02-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 392668,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
     },
     {
       "album": {
@@ -1677,7 +1674,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227880,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu"
@@ -1695,7 +1692,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 229200,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/541lUjNUJ8NIQiduDf4Ue9"
@@ -2241,6 +2238,10 @@
         {
           "name": "DJ Sammy",
           "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
+        },
+        {
+          "name": "Yanou",
+          "url": "https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs"
         },
         {
           "name": "Do",
@@ -2917,10 +2918,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 205106,
       "name": "Lola's Theme - Radio Edit",
       "url": "https://open.spotify.com/track/2o7V26rsF1ukcRI005S0LL"
+    },
+    {
+      "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "album": {
@@ -3645,6 +3664,28 @@
     {
       "album": {
         "name": "Hypnotica",
+        "url": "https://open.spotify.com/album/6jXS5LAsZHlN8U9jMSMfFf"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 285413,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/213yG5o4EISfGoceayLo6u"
+    },
+    {
+      "album": {
+        "name": "Hypnotica",
         "url": "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
       },
       "artists": [
@@ -3663,28 +3704,6 @@
       "duration_ms": 285413,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/5JZnjM9ijpit0d5zjT8MM7"
-    },
-    {
-      "album": {
-        "name": "Hypnotica (Benny Benassi Presents The Biz)",
-        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
-      },
-      "artists": [
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "The Biz",
-          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
-        }
-      ],
-      "date_added": "2022-02-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 285570,
-      "name": "Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz",
-      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
     },
     {
       "album": {
@@ -3710,6 +3729,28 @@
     },
     {
       "album": {
+        "name": "Hypnotica (Benny Benassi Presents The Biz)",
+        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285570,
+      "name": "Satisfaction - Isak Original Extended",
+      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
+    },
+    {
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/095xxX1IyCyEwPA1DndWpY"
       },
@@ -3721,7 +3762,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-07",
       "duration_ms": 202053,
       "name": "Shadows - Inpetto Edit",
       "url": "https://open.spotify.com/track/3KqXPyaLysWraUSi4PuSnz"

@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2010! Cover: Bruno Mars
 
-158 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/2OlQTLAZO59Ibg2undO13l)
+158 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,978 likes - 62 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,878 likes - 62 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

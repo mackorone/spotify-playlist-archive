@@ -4,7 +4,7 @@
 
 > Get all the essential music by Nickelback.
 
-33 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/3GdmpJvnDFFw5KTt4vYn2m)
+33 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

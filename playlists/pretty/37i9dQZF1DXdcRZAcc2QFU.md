@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > ‘90s melodies that hit the right spot! Cover: Udit Narayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,198 likes - 50 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,982 likes - 50 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 | 5 | [Too Cheez Badi Hain](https://open.spotify.com/track/6wYKL1vzI0Vwkkz4fS7ana) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Mohra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PqGBYRvfSWEh3eoHPNEnA) | 6:25 |
 | 6 | [Jooma Chumma De De, Pt\. 3](https://open.spotify.com/track/3VcZmUNpoyzWcl6SbfrbDa) | [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Hum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l8A4AdQy1pjkRmW78IEMF) | 8:23 |
 | 7 | [Jaadu Teri Nazar](https://open.spotify.com/track/1mAO7s2X1VfYwNDWIcvdhS) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7xGWECEsvj4iI3CajtZ1GH) | 4:39 |
-| 8 | [Ek Ho Gaye Hum Aur Tum \- Bombay / Soundtrack Version](https://open.spotify.com/track/6oRFw7tkc38QToqfoF7jVR) | [Remo Fernandes](https://open.spotify.com/artist/6Bthsls57GgYPQFdrY3eyw) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:15 |
+| 8 | [Ek Ho Gaye Hum Aur Tum \- From "Bombay"](https://open.spotify.com/track/6oRFw7tkc38QToqfoF7jVR) | [Remo Fernandes](https://open.spotify.com/artist/6Bthsls57GgYPQFdrY3eyw) | [Bombay](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:15 |
 | 9 | [Sundara Sundara](https://open.spotify.com/track/0bWmjgT1xlNMcfq5nlc7cb) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Sapna Mukherjee](https://open.spotify.com/artist/2ME9akyjf2IaOM5DLTqHUS) | [Rakshak](https://open.spotify.com/album/1WR6LNez0oAfwd0oPowVcq) | 4:54 |
 | 10 | [Muqabala Muqabala](https://open.spotify.com/track/0iG83qZ0ftWr43VggRYkp3) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Hum Se Hai Muqabala \- Kadalan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IpHQbDLRRqd9sZQncIMD9) | 2:23 |
 | 11 | [Chaiyya Chaiyya](https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sapna Awasthi](https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 6:56 |

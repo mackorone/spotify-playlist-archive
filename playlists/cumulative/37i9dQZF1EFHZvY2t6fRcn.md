@@ -4,17 +4,19 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3HvY4N6ad1ASmFufm8XCPV">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-98 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/4o2Z71UegJJzZwBY5b0Ao7)
+102 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50ft.](https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [50ft.](https://open.spotify.com/album/029JHv262PSXojxqywHDwr) | 3:05 | 2021-12-27 |  |
 | [ALL OVER AGAIN](https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 2:07 | 2022-07-11 |  |
 | [All the Way](https://open.spotify.com/track/4HOee5nD88uaSCJ00eYsR4) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Mantra Songs](https://open.spotify.com/album/6Jyzb9eljiiOneflz9vl08) | 3:30 | 2021-12-27 |  |
+| [Always Love](https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Always Love](https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba) | 3:20 | 2022-11-26 |  |
 | [At Least We Tried](https://open.spotify.com/track/6vykq1FmiHr7e5CPyPyHX4) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:32 | 2022-08-12 |  |
 | [Atmosphere](https://open.spotify.com/track/45OALDywAY1JVLqI8eKF9y) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [All Your Fault: Pt\. 1](https://open.spotify.com/album/2rBHhp9tNShxTb529Hi5AS) | 3:11 | 2021-12-27 |  |
 | [BLACK SUMMER](https://open.spotify.com/track/74rkl9hRCe99KQxNL1hyMD) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 4:03 | 2021-12-27 |  |
 | [Blind To The Blonde](https://open.spotify.com/track/2OEcST3YKixTHWrUJl8Sab) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 2:38 | 2021-12-27 |  |
+| [Body](https://open.spotify.com/track/12d2tBTLyOniIiFzI65ki9) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:18 | 2022-11-27 | 2022-12-03 |
 | [Body](https://open.spotify.com/track/5VyjnK3NmjFjSUoG4qbqLy) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:18 | 2022-03-20 |  |
 | [Bones](https://open.spotify.com/track/39qWzdNJSioJzfemhwXtDw) | [Equinox](https://open.spotify.com/artist/6Q7UV9Oa87GypGTKiuOh6f) | [Bones](https://open.spotify.com/album/23R15MF9YuwmRBjIMk9Khk) | 2:59 | 2021-12-27 |  |
 | [BOYS](https://open.spotify.com/track/3eOIjdurn3lxeOMn90L8Fn) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [BOYS](https://open.spotify.com/album/3VtKNel48q9NVpK6vJ66qB) | 2:55 | 2022-11-11 |  |
@@ -51,6 +53,7 @@
 | [Fuck Me Up](https://open.spotify.com/track/1VcwifrNRxSIkHtqy13vax) | [Shae Jacobs](https://open.spotify.com/artist/6ImrY70oL7099KK1RSFq1J) | [Fuck Me Up](https://open.spotify.com/album/32NQLuqP0xjHSjjD9Peb4N) | 3:07 | 2022-10-13 |  |
 | [Fuck Me Up](https://open.spotify.com/track/2I6dXeG4yOmf4aztiXPjWE) | [Shae Jacobs](https://open.spotify.com/artist/6ImrY70oL7099KK1RSFq1J) | [Fuck Me Up](https://open.spotify.com/album/7n3YiMbN91Cwc9amrzmjgo) | 3:07 | 2021-12-27 | 2022-10-14 |
 | [FUCKING MURDER](https://open.spotify.com/track/5seDFLG0mfC2PT2x27xauZ) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 9:19 | 2021-12-27 |  |
+| [FWMM](https://open.spotify.com/track/32EYQDXyv12fdeOousjeAd) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 3:25 | 2023-01-13 |  |
 | [Godless](https://open.spotify.com/track/1eTL8yocTmire9gpOn2H2g) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:10 | 2021-12-27 |  |
 | [Good Things](https://open.spotify.com/track/2XabyO1YcTW7BZ8wfKLB1X) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things \(R3HAB Remix\)](https://open.spotify.com/album/38flhAaxVeSTNa4l0fKCZd) | 3:01 | 2021-12-27 |  |
 | [Grey Area](https://open.spotify.com/track/5b1DQvXpubrUx0xeOB4f6n) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Grey Area](https://open.spotify.com/album/7zwvGqcqwKaUaYXjAWTwN4) | 2:48 | 2021-12-27 |  |
@@ -78,6 +81,7 @@
 | [One and Lonely](https://open.spotify.com/track/0br1EHWkZNvoi0KFruBUVX) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [One and Lonely](https://open.spotify.com/album/0yZFcNibtzlDg4r4Molxyk) | 3:04 | 2022-10-13 |  |
 | [One and Lonely](https://open.spotify.com/track/3D5XJZSaJG3imPilzjhqyP) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [One and Lonely](https://open.spotify.com/album/6kTwjb4jYa8Wo4F3eIUdOP) | 3:04 | 2021-12-27 | 2022-10-14 |
 | [Ooh Laa](https://open.spotify.com/track/0ulSIUvy5rSdkTEgUbJzm2) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:59 | 2021-12-27 |  |
+| [Pace Yourself](https://open.spotify.com/track/0MvqfZ64k279BTGvIxuLm0) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 2:54 | 2023-01-29 |  |
 | [Pasado \(feat\. Cali Y El Dandee\)](https://open.spotify.com/track/0Csxl0xjWL376E9L78Up4j) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Pasado \(feat\. Cali Y El Dandee\)](https://open.spotify.com/album/4QvmvksCfpmZPo95QOS6tF) | 2:22 | 2021-12-27 |  |
 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 | 2022-08-12 |  |
 | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/track/6QOlPC9Mwf6SEjq5LHD9Y4) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/album/7uOvw6gOJyngV3LoPynY4p) | 3:36 | 2021-12-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4qq3MCSLrDgYx7RfJBDvij.md) - [plain]
 
 > From then to now, these songs will forever be classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 28 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 28 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

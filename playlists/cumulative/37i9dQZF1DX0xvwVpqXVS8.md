@@ -4,7 +4,7 @@
 
 > "Not Past It" host Simone Polanen shares her favorite serotonin\-boosting songs to dance to\. Cover: Simone Polanen
 
-20 songs - 1 hr 20 min - not published yet
+21 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [sweetener](https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:28 | 2022-10-04 |  |
 | [Take It Easy My Brother Charles](https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 | 2022-10-04 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2022-10-04 |  |
+| [The Paris Hilton Sex Tape](https://open.spotify.com/episode/32iPDgapksonc6GNuigeWY) | [Not Past It ](https://open.spotify.com/show/2IDH4p3mEBPgVHbq4HQVA2) | [Not Past It ](https://open.spotify.com/show/2IDH4p3mEBPgVHbq4HQVA2) | 21:56 | 2022-10-04 | 2023-01-18 |
 | [The Worst In Me](https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:46 | 2022-10-04 |  |
 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 | 2022-10-04 |  |
 | [Wasteland](https://open.spotify.com/track/3yhlH8lhTpS03d91kuwjpf) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Wasteland](https://open.spotify.com/album/4yzJgsOpjCGoH4jjcUvNTc) | 3:03 | 2022-10-04 |  |

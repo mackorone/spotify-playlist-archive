@@ -4,7 +4,7 @@
 
 > Tina Turner's most essential tracks, all in one playlist.
 
-38 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/6eHpaz9NJiEWl08pWy2XSM)
+38 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

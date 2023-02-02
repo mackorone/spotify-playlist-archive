@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Biosphere. The essential tracks, all in one playlist.",
   "name": "This Is Biosphere",
-  "published_playlist_ids": [
-    "0PYzRsbgIkQ9NNBTqc5aff"
-  ],
   "tracks": [
     {
       "album": {
@@ -669,10 +666,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-16",
       "duration_ms": 318949,
       "name": "From a Solid To a Liquid",
       "url": "https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo"
+    },
+    {
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295993,
+      "name": "Fujiko",
+      "url": "https://open.spotify.com/track/5EnYQeT9ECNci6ls05eQXe"
     },
     {
       "album": {
@@ -691,6 +706,24 @@
       "duration_ms": 296440,
       "name": "Fujiko",
       "url": "https://open.spotify.com/track/1dLZYbQ5yr9PETbjG1e24h"
+    },
+    {
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395294,
+      "name": "Genkai - 1",
+      "url": "https://open.spotify.com/track/71qKEYU8UkJFoui97QvhIY"
     },
     {
       "album": {
@@ -723,7 +756,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 336253,
       "name": "Grand Dome",
       "url": "https://open.spotify.com/track/5K58ZWWb2ecuEDwQhQ6Dt0"
@@ -741,7 +774,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": "2023-01-24",
       "duration_ms": 48111,
       "name": "Grandiflora",
       "url": "https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq"
@@ -795,7 +828,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 211052,
       "name": "Green Reflections",
       "url": "https://open.spotify.com/track/2IydONo9wzrZ7aQLQVzHf9"
@@ -892,6 +925,24 @@
     },
     {
       "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Ikata - 1",
+      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
+    },
+    {
+      "album": {
         "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
         "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
       },
@@ -903,7 +954,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 201321,
       "name": "Ikata-1 - Mixed",
       "url": "https://open.spotify.com/track/4aDoixY09JN4cZ6eO5xHMu"
@@ -993,7 +1044,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 383000,
       "name": "Interval Signal",
       "url": "https://open.spotify.com/track/1WZcAa7lyALMxQHnq4mcCB"
@@ -1041,6 +1092,24 @@
       "duration_ms": 331120,
       "name": "Joyo",
       "url": "https://open.spotify.com/track/75AKiSgU8tTI2z8J1Qf1IT"
+    },
+    {
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 335319,
+      "name": "Joyo",
+      "url": "https://open.spotify.com/track/4qdGddcDOmCpSU6QiQlBxh"
     },
     {
       "album": {
@@ -1117,7 +1186,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-23",
       "duration_ms": 148593,
       "name": "Kent Country Train",
       "url": "https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc"
@@ -1139,6 +1208,24 @@
       "duration_ms": 432600,
       "name": "Kobresia",
       "url": "https://open.spotify.com/track/5O6MFTh1rd9PeN8XEn1yCS"
+    },
+    {
+      "album": {
+        "name": "L'incoronazione Di Poppea",
+        "url": "https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64178,
+      "name": "La Sconsolata",
+      "url": "https://open.spotify.com/track/0e3vabGuru2Y3MUv9m29Wy"
     },
     {
       "album": {
@@ -1193,7 +1280,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": "2023-02-01",
       "duration_ms": 312493,
       "name": "Microgravity",
       "url": "https://open.spotify.com/track/4SxmbfErnDroZYcn3q1x6p"
@@ -1269,10 +1356,28 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 145320,
       "name": "Moistened and Dried",
       "url": "https://open.spotify.com/track/4nNsftfbVUOj8Q9b2pUl1F"
+    },
+    {
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Monju - 1",
+      "url": "https://open.spotify.com/track/3Uum7nj3BuWhmkvcA50OBw"
     },
     {
       "album": {
@@ -1359,10 +1464,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 387308,
       "name": "Novelty Waves",
       "url": "https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ"
+    },
+    {
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Oi - 1",
+      "url": "https://open.spotify.com/track/3spr2O3HhYohFOEVxqp2OJ"
     },
     {
       "album": {
@@ -1449,7 +1572,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 251066,
       "name": "Poa Alpina",
       "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
@@ -1528,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 146564,
+      "name": "Shade",
+      "url": "https://open.spotify.com/track/7rQ5bwHCl6O30978mwcQpm"
+    },
+    {
+      "album": {
         "name": "Shenzhou [Reissue]",
         "url": "https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH"
       },
@@ -1561,6 +1702,24 @@
       "duration_ms": 355358,
       "name": "Sherbrooke",
       "url": "https://open.spotify.com/track/2PRacJRgmydBflNzulhnBj"
+    },
+    {
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471780,
+      "name": "Shika - 1",
+      "url": "https://open.spotify.com/track/1RXUj8OYl4b2M8f17NWZwC"
     },
     {
       "album": {
@@ -1611,7 +1770,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-02-01",
       "duration_ms": 466944,
       "name": "Shortwave Memories",
       "url": "https://open.spotify.com/track/5XkqDsaZLGBQPQcegRTRsc"
@@ -1723,7 +1882,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 277183,
       "name": "Spindrift",
       "url": "https://open.spotify.com/track/5n0zWKEVxHx5rRSy6wJC1E"
@@ -1795,7 +1954,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 205432,
       "name": "Talking to Some Imaginary Person",
       "url": "https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY"
@@ -1921,7 +2080,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 388160,
       "name": "The Things I Tell You",
       "url": "https://open.spotify.com/track/36BGk42n6upPWiMCWpBQKL"
@@ -2015,7 +2174,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 218072,
       "name": "Turned to Stone",
       "url": "https://open.spotify.com/track/4CbTLWfGY3bxBaEylVfxLJ"
@@ -2077,7 +2236,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-19",
       "duration_ms": 190403,
       "name": "Two Ocean Plateau",
       "url": "https://open.spotify.com/track/2PJAh9IeZhEDWMa08xZVIf"
@@ -2095,7 +2254,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": "2023-01-29",
       "duration_ms": 181413,
       "name": "Uva-Ursi",
       "url": "https://open.spotify.com/track/40QwZW5GcnjtwuPRJEM9bx"
@@ -2113,7 +2272,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 127161,
       "name": "Uva-Ursi - Alternative Version",
       "url": "https://open.spotify.com/track/6IquI7T08Gp6ylSpOtCMyp"
@@ -2211,7 +2370,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 282697,
       "name": "With Precious Benefits To Both",
       "url": "https://open.spotify.com/track/7oFtmhVs4jk16rFvikGmHq"

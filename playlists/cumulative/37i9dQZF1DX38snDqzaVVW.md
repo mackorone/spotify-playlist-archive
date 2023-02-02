@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
 
-139 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/7MSqaDSzxaFqFJKHv6785m)
+139 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

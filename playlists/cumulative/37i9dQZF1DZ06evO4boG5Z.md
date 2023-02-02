@@ -4,7 +4,7 @@
 
 > This is Millencolin\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/0Wi6KNF08o8kEqjKpl9C6o)
+59 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Machine 15](https://open.spotify.com/track/0A0iJ8S2YskwUruZTHEAWu) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Machine 15](https://open.spotify.com/album/37R1jMircABSFxsoWulxTa) | 2:29 | 2022-09-24 | 2022-10-12 |
 | [Man Or Mouse](https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Home From Home](https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn) | 3:04 | 2022-09-16 |  |
 | [Material Boy](https://open.spotify.com/track/4IRDVWypOZIcxUOeVhLVCC) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:23 | 2022-09-16 |  |
-| [Monkey Boogie](https://open.spotify.com/track/0LzAsmWBfDkmL3ujeG7Y0x) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:26 | 2022-09-16 |  |
+| [Monkey Boogie](https://open.spotify.com/track/0LzAsmWBfDkmL3ujeG7Y0x) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:26 | 2022-09-16 | 2023-02-02 |
 | [Mooseman's Jukebox](https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 2:12 | 2022-09-16 |  |
 | [Move Your Car](https://open.spotify.com/track/3LDqGUQfSMrJs4gQQID2ZZ) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Life On A Plate](https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY) | 2:06 | 2022-09-16 |  |
 | [Mr\. Clean](https://open.spotify.com/track/0lFRuSSXio2yWeSBbw2Gis) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 2:41 | 2022-09-16 |  |
@@ -64,7 +64,7 @@
 | [The Story Of My Life](https://open.spotify.com/track/1Vt1I7Y29T6ObxjE55VDf4) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Life On A Plate](https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY) | 2:33 | 2022-09-16 |  |
 | [Trendy Winds](https://open.spotify.com/track/6kwi6M2MlASB67LlmIcPrP) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:45 | 2022-09-18 |  |
 | [True Brew](https://open.spotify.com/track/2Yj1mVu6ONbiz4zaxDq4PH) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [True Brew](https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno) | 3:22 | 2022-09-16 |  |
-| [Twenty Two](https://open.spotify.com/track/2xvDTagYO7g68Ap5dD77E1) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:55 | 2022-09-19 | 2022-11-25 |
+| [Twenty Two](https://open.spotify.com/track/2xvDTagYO7g68Ap5dD77E1) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:55 | 2022-09-19 |  |
 | [Vixen](https://open.spotify.com/track/5EBKNotjiE8N7pkOCvPjrk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [The Melancholy Collection](https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V) | 1:49 | 2022-09-16 |  |
 | [Yanny & Laurel](https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 2:48 | 2022-10-12 |  |
 

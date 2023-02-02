@@ -4,7 +4,7 @@
 
 > The best indie rock/pop/punk/dance/hip hop/r&b of 2019\. Cover: Clairo
 
-86 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/5hz8Xvsg73JZ8spEinKWb8)
+87 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Back To Life](https://open.spotify.com/track/7Cgqdh9mds9zdbwitjanVY) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 3:42 | 2019-12-09 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2019-12-09 |  |
 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 | 2019-12-09 |  |
-| [Best Life](https://open.spotify.com/track/068XDWvE8tDnQsKo8J3x1Z) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [uknowhatimsayin¿](https://open.spotify.com/album/4G3BRVsGEpWzUdplFJ1VBl) | 2:33 | 2019-12-09 |  |
+| [Best Life](https://open.spotify.com/track/068XDWvE8tDnQsKo8J3x1Z) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [uknowhatimsayin¿](https://open.spotify.com/album/4G3BRVsGEpWzUdplFJ1VBl) | 2:33 | 2019-12-09 | 2023-02-02 |
+| [Best Life](https://open.spotify.com/track/54YyC7XnYzbyY9HnqtNnfH) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [uknowhatimsayin¿](https://open.spotify.com/album/5RCXsrdnNwXGDgKVYpWKHW) | 2:33 | 2019-12-09 |  |
 | [Borderline](https://open.spotify.com/track/2qLbaQG4z638MxSxHgBUEb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Poolside Lounge 2022](https://open.spotify.com/album/7MQnaDgQyIJz3oeOuHdTqM) | 3:57 | 2019-12-09 | 2022-11-13 |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2019-12-09 |  |
 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 | 2019-12-09 | 2022-07-29 |

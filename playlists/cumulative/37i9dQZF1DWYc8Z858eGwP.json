@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=Y5cs7Ga0Tza8ZbozPyrZdw\">DBN Gogo</a>",
+  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KVi1KePsS-SeAeLkN8980A\">Black Sherif</a>",
   "name": "RADAR Africa",
-  "published_playlist_ids": [
-    "1XAJ71W9OWLJNt1VAjOZn2"
-  ],
   "tracks": [
     {
       "album": {
@@ -132,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
+    },
+    {
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
       },
@@ -143,7 +158,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 170000,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
@@ -420,7 +435,7 @@
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         }
       ],
       "date_added": "2022-09-15",
@@ -438,12 +453,12 @@
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         }
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": "2023-01-19",
       "duration_ms": 175357,
       "name": "BLICKY",
       "url": "https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB"
@@ -1480,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+    },
+    {
+      "album": {
         "name": "kolomental",
         "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
       },
@@ -1491,7 +1524,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 197000,
       "name": "kolomental",
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
@@ -1584,7 +1617,7 @@
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         },
         {
           "name": "Big yasa",
@@ -1610,7 +1643,7 @@
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         },
         {
           "name": "Big yasa",
@@ -1623,7 +1656,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": "2023-01-19",
       "duration_ms": 150836,
       "name": "LAST AIR BENDER",
       "url": "https://open.spotify.com/track/3Tkrl8e0p4WvXCq31ITeXw"
@@ -1671,7 +1704,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 175200,
       "name": "LOVA",
       "url": "https://open.spotify.com/track/1ZZhWm9pxFnpwZtPyOnKg9"
@@ -1715,7 +1748,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 205601,
       "name": "Love Me or Leave Me",
       "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
@@ -1926,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Bad Boy Etiquette 101",
+        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155005,
+      "name": "No Peace (Violence)",
+      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
+    },
+    {
+      "album": {
         "name": "Original Vibe Machine",
         "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
       },
@@ -2053,7 +2104,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
@@ -2497,6 +2548,28 @@
     {
       "album": {
         "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Soweto",
+      "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
+    },
+    {
+      "album": {
+        "name": "Outlaw",
         "url": "https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE"
       },
       "artists": [
@@ -2511,7 +2584,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 148000,
       "name": "Soweto",
       "url": "https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8"
@@ -2541,10 +2614,40 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 251286,
       "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
       "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
+    },
+    {
+      "album": {
+        "name": "Sugarcane (Remix)",
+        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251147,
+      "name": "Sugarcane - Remix",
+      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
     },
     {
       "album": {
@@ -2684,6 +2787,42 @@
     },
     {
       "album": {
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/3Bcj3vvXd5w0eEEiIw5nJO"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134964,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/17uovpjxgRlZOAriKRsgfE"
+    },
+    {
+      "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "album": {
         "name": "Twenties",
         "url": "https://open.spotify.com/album/1ofj7jvoMEFCMts0v4ZjqI"
       },
@@ -2731,7 +2870,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 271017,
       "name": "umoya",
       "url": "https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC"
@@ -2879,6 +3018,24 @@
       "duration_ms": 150000,
       "name": "Xtra Cool",
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
+      "album": {
+        "name": "Yao",
+        "url": "https://open.spotify.com/album/1iIMteZmsQjzajs83RFmgQ"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209143,
+      "name": "Yao",
+      "url": "https://open.spotify.com/track/2BesSwK9iYOTFMQytlf79Q"
     },
     {
       "album": {

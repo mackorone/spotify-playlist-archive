@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Electronic Trap House with Arab spices. Cover: DJ KABOO.",
   "name": "Arabic Trap",
-  "published_playlist_ids": [
-    "47hjr70tGR1mvbCMqz6RSX"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 188722,
       "name": "ALMAZAT",
       "url": "https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W"
@@ -337,7 +334,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 212307,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV"
@@ -489,7 +486,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 151158,
       "name": "GHADAB",
       "url": "https://open.spotify.com/track/5xY9zklrXn7jmdJYJIXQDU"
@@ -775,7 +772,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 185600,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE"
@@ -1075,7 +1072,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 180004,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/3BUFuwaRaRDc2GIKNVkwmI"
@@ -1279,7 +1276,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 184800,
       "name": "Sargon",
       "url": "https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5"

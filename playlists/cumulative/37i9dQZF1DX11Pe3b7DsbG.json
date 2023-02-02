@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Um bom sambinha para acompanhar cada gole de caipirinha.",
+  "description": "Um bom sambinha para acompanhar cada gole.",
   "name": "Caipirinha",
-  "published_playlist_ids": [
-    "6OG3wwBWDB8FQ3P5Kl8QcH"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 267545,
       "name": "Alma Bo\u00eamia - Ao Vivo",
       "url": "https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt"
@@ -265,96 +262,6 @@
     {
       "album": {
         "name": "Sambabook Jo\u00e3o Nogueira, 2",
-        "url": "https://open.spotify.com/album/72PzoPL30DnS51nE6UMzfH"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        },
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        },
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        },
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        },
-        {
-          "name": "Dudu Nobre",
-          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
-        },
-        {
-          "name": "Grupo Fundo De Quintal",
-          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
-        },
-        {
-          "name": "Gisa Nogueira",
-          "url": "https://open.spotify.com/artist/5jJWOdj0Sn9Spis0JYZYRp"
-        },
-        {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
-        },
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        },
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        },
-        {
-          "name": "Leny Andrade",
-          "url": "https://open.spotify.com/artist/0cWAA0nMjRXh8o61j3hUgm"
-        },
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
-        },
-        {
-          "name": "Mariene De Castro",
-          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
-        },
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Teresa Cristina",
-          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
-        }
-      ],
-      "date_added": "2022-03-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 278853,
-      "name": "Clube do Samba",
-      "url": "https://open.spotify.com/track/6NV8IxFmG9cPtnZqQwulAy"
-    },
-    {
-      "album": {
-        "name": "Sambabook Jo\u00e3o Nogueira, 2",
         "url": "https://open.spotify.com/album/6FOkfUj1Mv1ySctRjW3GY0"
       },
       "artists": [
@@ -444,6 +351,100 @@
     },
     {
       "album": {
+        "name": "Sambabook Jo\u00e3o Nogueira, 2",
+        "url": "https://open.spotify.com/album/72PzoPL30DnS51nE6UMzfH"
+      },
+      "artists": [
+        {
+          "name": "Sambabook",
+          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
+        },
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        },
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        },
+        {
+          "name": "Dudu Nobre",
+          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
+        },
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        },
+        {
+          "name": "Gisa Nogueira",
+          "url": "https://open.spotify.com/artist/5jJWOdj0Sn9Spis0JYZYRp"
+        },
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        },
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Leny Andrade",
+          "url": "https://open.spotify.com/artist/0cWAA0nMjRXh8o61j3hUgm"
+        },
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        },
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278853,
+      "name": "Clube do Samba",
+      "url": "https://open.spotify.com/track/6NV8IxFmG9cPtnZqQwulAy"
+    },
+    {
+      "album": {
         "name": "Mundu\u00ea",
         "url": "https://open.spotify.com/album/6kJ0JRouLgeP9Pg45kev9v"
       },
@@ -495,7 +496,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 156280,
       "name": "Cora\u00e7\u00e3o Imprudente",
       "url": "https://open.spotify.com/track/52bhuRTX975WLB5tpGguvL"
@@ -549,7 +550,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 172733,
       "name": "Cora\u00e7\u00e3o Leviano",
       "url": "https://open.spotify.com/track/3Pz0EPURuJlpuUCRzgb7hQ"
@@ -769,7 +770,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 121466,
       "name": "Festa Da Vinda",
       "url": "https://open.spotify.com/track/0bOGxsTpvqleMEuLQUGDUP"
@@ -823,7 +824,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 195786,
       "name": "Gostoso Veneno",
       "url": "https://open.spotify.com/track/6sNHpCbiVu3kosd4sDsZ36"
@@ -845,7 +846,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 151900,
       "name": "Heran\u00e7a de Partideiro",
       "url": "https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F"
@@ -1037,7 +1038,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 188058,
       "name": "Na veia (Participa\u00e7\u00e3o especial de Marcelo D2)",
       "url": "https://open.spotify.com/track/4Z6APQkEZQ7m1vpwisOua8"
@@ -1091,7 +1092,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 185706,
       "name": "No Pagode Do Vav\u00e1",
       "url": "https://open.spotify.com/track/76gxg0ZNq873zRgVHEAIR9"
@@ -1109,7 +1110,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 243413,
       "name": "Nosso Bem Maior",
       "url": "https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD"
@@ -1127,7 +1128,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 187749,
       "name": "N\u00e3o Sou Mais Disso",
       "url": "https://open.spotify.com/track/7e6kk7ScZkINdw3yCALoln"
@@ -1301,7 +1302,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 240640,
       "name": "Perdoa",
       "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
@@ -1319,7 +1320,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 264466,
       "name": "Pintou uma Lua L\u00e1",
       "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
@@ -1427,7 +1428,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 298788,
       "name": "Samba Pras Mo\u00e7as - Remastered 2020",
       "url": "https://open.spotify.com/track/6yzCe61NytUn7FXQAneiLr"
@@ -1835,7 +1836,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 211626,
       "name": "Tra\u00e7o De Uni\u00e3o",
       "url": "https://open.spotify.com/track/26bA7oKwbeJs5GvNRRBBqd"
@@ -1915,7 +1916,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 180933,
       "name": "\u00ca Baiana",
       "url": "https://open.spotify.com/track/0i3M4dh0eIigfk4fsYPNlm"

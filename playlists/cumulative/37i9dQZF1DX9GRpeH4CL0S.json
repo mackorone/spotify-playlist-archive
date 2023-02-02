@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "The greatest Alternative Rock songs through the decades. Cover: The Killers",
   "name": "Essential Alternative",
-  "published_playlist_ids": [
-    "2B4rpcPWiyrM64IWAHu8yo"
-  ],
   "tracks": [
     {
       "album": {
@@ -1916,6 +1913,28 @@
     },
     {
       "album": {
+        "name": "Souvenir : The Singles 2004 - 2012",
+        "url": "https://open.spotify.com/album/029kszrrDaDAqI9T6L7BIK"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        },
+        {
+          "name": "Mark 'Spike' Stent",
+          "url": "https://open.spotify.com/artist/27lxMew0VdF2G8vaCjaQXn"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218560,
+      "name": "Everyday I Love You Less And Less",
+      "url": "https://open.spotify.com/track/3gwoBbif2CNBUfTB75Zs57"
+    },
+    {
+      "album": {
         "name": "Commit This To Memory",
         "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
       },
@@ -2053,7 +2072,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251946,
       "name": "Fire",
       "url": "https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP"
@@ -2071,7 +2090,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 252279,
       "name": "Fire",
       "url": "https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf"
@@ -2726,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "Souvenir : The Singles 2004 - 2012",
+        "url": "https://open.spotify.com/album/029kszrrDaDAqI9T6L7BIK"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232413,
+      "name": "I Predict A Riot",
+      "url": "https://open.spotify.com/track/3EnyKqEJFylT6vU1KF0YyE"
+    },
+    {
+      "album": {
         "name": "Employment",
         "url": "https://open.spotify.com/album/04sr0EUQWLrByyOKYZNS2K"
       },
@@ -2755,7 +2792,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 234773,
       "name": "I Predict a Riot",
       "url": "https://open.spotify.com/track/1GMDNgkkcMO9EGCN8qmny1"
@@ -3277,7 +3314,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-27",
       "duration_ms": 347666,
       "name": "Kings And Queens",
       "url": "https://open.spotify.com/track/4z21jCYxdhnEfvgqGSKByQ"
@@ -4663,7 +4700,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207373,
       "name": "Shoot the Runner",
       "url": "https://open.spotify.com/track/4baAwbpkroYCwSIlaqzNXy"
@@ -6143,7 +6180,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 226693,
       "name": "Trainwreck 1979 - Moulder Mix with in/out fades",
       "url": "https://open.spotify.com/track/06vOVdH94mIEjIgIhHdhdO"
@@ -6161,7 +6198,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"

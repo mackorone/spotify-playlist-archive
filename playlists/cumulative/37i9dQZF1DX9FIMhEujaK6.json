@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
   "name": "Ibiza Sunset",
-  "published_playlist_ids": [
-    "467x8DmD9jX6toG0U5jCPJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -983,7 +980,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 308000,
       "name": "It's up to Me",
       "url": "https://open.spotify.com/track/0DKoGYBIfxb7PYz9FKu4fx"
@@ -1141,7 +1138,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222333,
-      "name": "Les Nuits (Radio Edit)",
+      "name": "Les Nuits - Radio Edit",
       "url": "https://open.spotify.com/track/1y1xQf7kcYtk96q3iyl7jJ"
     },
     {
@@ -1417,7 +1414,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 267400,
       "name": "Mustt Mustt - Massive Attack Remix",
       "url": "https://open.spotify.com/track/0w6kuQOr4jP1w9Kon0Yv4j"
@@ -1513,7 +1510,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 280266,
       "name": "Nights Introlude",
       "url": "https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk"
@@ -1629,6 +1626,24 @@
       "duration_ms": 229090,
       "name": "Notforyou (Jacana People Remix)",
       "url": "https://open.spotify.com/track/76vBiX6QGPQxB58FcC6OxW"
+    },
+    {
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231039,
+      "name": "Obvs",
+      "url": "https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o"
     },
     {
       "album": {
@@ -1813,7 +1828,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 228493,
       "name": "Run",
       "url": "https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb"
@@ -1867,7 +1882,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-19",
       "duration_ms": 305641,
       "name": "Satori",
       "url": "https://open.spotify.com/track/66nJxPYKMrje2xs7vHnvKK"
@@ -2131,7 +2146,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 274640,
       "name": "The Child",
       "url": "https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K"

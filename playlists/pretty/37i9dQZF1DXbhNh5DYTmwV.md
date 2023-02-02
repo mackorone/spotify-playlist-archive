@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhNh5DYTmwV.md) - [plain]
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,396 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,094 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhNh5DYTmwV.md) - [plain]
 | 53 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 |
 | 54 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
 | 55 | [Destino](https://open.spotify.com/track/041Kcvnw8nOdq8xiRibPTG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:00 |
-| 56 | [Una Fan Enamorada](https://open.spotify.com/track/07EGbR4e9MznCDPuWGcD93) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [La Historia](https://open.spotify.com/album/4VOSk2bhh4ubQcbCbL1uqZ) | 4:51 |
+| 56 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0ZrR1RTJj1glZWtYvBfU7M) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/6WazOboL5RdFSLktiSsZO5) | 4:51 |
 | 57 | [Conquista](https://open.spotify.com/track/5ggqIFvnoswPWPEOsbuEi7) | [Jerau](https://open.spotify.com/artist/39YL6FS5gUvd8DCTV9FfSP), [Sandro Saga](https://open.spotify.com/artist/750HPQc7msH8oQTEtBXV03) | [De Fiesta y Enamorado](https://open.spotify.com/album/3xpurWwnP0ufKMR9osTwxK) | 3:40 |
 | 58 | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC) | 3:29 |
 | 59 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:40 |
 | 60 | [Te Mentiría](https://open.spotify.com/track/3LSRGvBWTdnUBJC32oBFnZ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [A Tiempo](https://open.spotify.com/album/6sjzlisCVw3NUAUV5q9tCd) | 3:47 |
 
-Snapshot ID: `MTY2MjUwMjUzOCwwMDAwMDAwMDc0ZTUwZmI0MDM2OGFhYzZiYzhkMzY3OGZhNTcxZWVj`
+Snapshot ID: `MTY2MjUwMjUzOCwwMDAwMDAwMDVkMzRlZDZmNzQ3ZjZhNWI2MzNjZGUxNjRjN2YwZDBk`

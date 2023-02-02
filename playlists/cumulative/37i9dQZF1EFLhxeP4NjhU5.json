@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX\">Gaby Music</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Gaby Music",
-  "published_playlist_ids": [
-    "5hLQtJC5BnWg5s4UcxlKNP"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,7 +96,7 @@
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
@@ -463,10 +460,28 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 204773,
       "name": "Beb\u00e9",
       "url": "https://open.spotify.com/track/4JwN1v4cLawt6tI4Y8Chi2"
+    },
+    {
+      "album": {
+        "name": "Beb\u00e9",
+        "url": "https://open.spotify.com/album/3KhrboGQvQMSmaoYZlw1d2"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204831,
+      "name": "Beb\u00e9",
+      "url": "https://open.spotify.com/track/2bzMxg3vh2y91q0BlToci2"
     },
     {
       "album": {
@@ -499,7 +514,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 196649,
       "name": "Besame",
       "url": "https://open.spotify.com/track/2kRfyXThQp05KsE9otkQCq"
@@ -573,6 +588,32 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/4e3sDmUtcERCPW565nBhwt"
+      },
+      "artists": [
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212840,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/3SDvcxPcU7BlV1dAne4dWM"
     },
     {
       "album": {
@@ -882,6 +923,36 @@
     },
     {
       "album": {
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/6uE584km2jae91nY5N9yE4"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Jenny \"La Sexy Voz\"",
+          "url": "https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218320,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf"
+    },
+    {
+      "album": {
         "name": "D\u00e9jame Saber",
         "url": "https://open.spotify.com/album/4cjJ5l83fvenum0M9GttmN"
       },
@@ -937,6 +1008,42 @@
       "duration_ms": 130715,
       "name": "EL NI\u00d1O",
       "url": "https://open.spotify.com/track/6inSd4dgpqoeXdPzP3B6ac"
+    },
+    {
+      "album": {
+        "name": "EL PONY",
+        "url": "https://open.spotify.com/album/1jmrlewRjpnjEcABjZiUpD"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212416,
+      "name": "EL PONY",
+      "url": "https://open.spotify.com/track/3ymdUMzgylwrSfpxdlCUWV"
+    },
+    {
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208453,
+      "name": "El Problema",
+      "url": "https://open.spotify.com/track/6cyH3OGfKQBevSYxJFIUCx"
     },
     {
       "album": {
@@ -1235,7 +1342,7 @@
       },
       "artists": [
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1465,10 +1572,40 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 224316,
       "name": "La Llevo Al Cielo",
       "url": "https://open.spotify.com/track/2tzrgCbD9yRrWlfWddf2ku"
+    },
+    {
+      "album": {
+        "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
+        "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254920,
+      "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
     },
     {
       "album": {
@@ -1517,6 +1654,28 @@
       "duration_ms": 255506,
       "name": "La Modelo",
       "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
+    },
+    {
+      "album": {
+        "name": "Los Bionikos",
+        "url": "https://open.spotify.com/album/7bz9PHpE8K3cjoBPTmGBTA"
+      },
+      "artists": [
+        {
+          "name": "Wibal Y Alex",
+          "url": "https://open.spotify.com/artist/4EG9Lq1bQBzJLH3pPwSTQ5"
+        },
+        {
+          "name": "Alex The Greatest",
+          "url": "https://open.spotify.com/artist/3X7LCYAxdqPo6N9naC1QbB"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "La Nena del Caserio",
+      "url": "https://open.spotify.com/track/5mtYDcXw5rxG5aEw6OEIrM"
     },
     {
       "album": {
@@ -1901,10 +2060,40 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 215133,
       "name": "Mi Error",
       "url": "https://open.spotify.com/track/4o4HQPKJQEsPq36BJqWWUr"
+    },
+    {
+      "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315862,
+      "name": "Mi Error - Remix",
+      "url": "https://open.spotify.com/track/5IjOqh4XLyjHINuOGolmAt"
     },
     {
       "album": {
@@ -3006,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/32ACWJVaBtcYbPG4DFQuFy"
+    },
+    {
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
       },
@@ -3237,7 +3444,7 @@
       },
       "artists": [
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
@@ -3417,7 +3624,7 @@
           "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],

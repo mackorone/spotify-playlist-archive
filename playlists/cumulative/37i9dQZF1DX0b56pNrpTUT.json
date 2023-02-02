@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
   "name": "Eve Fairley-Chickwe's Taste ",
-  "published_playlist_ids": [
-    "5v6HJgBAe39wmbvpUxa1an"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "10 More Rounds",
+        "url": "https://open.spotify.com/album/7HsWYAJO1fR52QYUD4FRFS"
+      },
+      "artists": [
+        {
+          "name": "FLOHIO",
+          "url": "https://open.spotify.com/artist/05RPf2nrkYOXtyU1gYkQfm"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197829,
+      "name": "10 More Rounds",
+      "url": "https://open.spotify.com/track/46QbtehpRVwhGQNFlL7d1U"
+    },
     {
       "album": {
         "name": "10 More Rounds",
@@ -19,7 +34,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 197829,
       "name": "10 More Rounds",
       "url": "https://open.spotify.com/track/5aJEkUKSjbqU2ekKpdHxGL"

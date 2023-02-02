@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: Larkin Poe\n",
   "name": "Rockin' Vibes",
-  "published_playlist_ids": [
-    "0rsiUCSpnpRaY4LTurJ99p"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 202146,
       "name": "Ain\u2019t Lookin\u2019",
       "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
@@ -487,7 +484,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 189886,
       "name": "Blows",
       "url": "https://open.spotify.com/track/25AByE7r0IzMqEHqZY1gZ8"
@@ -617,7 +614,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2022-12-02",
       "duration_ms": 210499,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr"
@@ -1392,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "A Real Good Person In A Real Bad Place",
+        "url": "https://open.spotify.com/album/5mDuvmrgSQYH5m54GoM5GC"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198946,
+      "name": "Hanging by a Thread",
+      "url": "https://open.spotify.com/track/1WF8P42fDZKPdsbG6eb6cl"
+    },
+    {
+      "album": {
         "name": "Hanging by a Thread",
         "url": "https://open.spotify.com/album/4f6QVZ06rVj6oeOnmkTmwg"
       },
@@ -1553,8 +1568,8 @@
       },
       "artists": [
         {
-          "name": "Indio Ink",
-          "url": "https://open.spotify.com/artist/3MVjv7zc6tJHPV057Oid1T"
+          "name": "Indio Downey",
+          "url": "https://open.spotify.com/artist/1KTM0UKpVn91mU6LlVa7Tm"
         }
       ],
       "date_added": "2022-07-01",
@@ -2773,6 +2788,32 @@
     {
       "album": {
         "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        },
+        {
+          "name": "Jake Clemons",
+          "url": "https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Nowhere To Go",
+      "url": "https://open.spotify.com/track/0jvNCLA1OcJzhBzNyFzyhr"
+    },
+    {
+      "album": {
+        "name": "Blink Twice",
         "url": "https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF"
       },
       "artists": [
@@ -2791,7 +2832,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 221538,
       "name": "Nowhere To Go",
       "url": "https://open.spotify.com/track/1luO7FPnPq0tlpxPoZtaKR"
@@ -3073,6 +3114,24 @@
       "duration_ms": 223783,
       "name": "Red Run Cold",
       "url": "https://open.spotify.com/track/2YTgdBr27ThjNOqdcJAu8z"
+    },
+    {
+      "album": {
+        "name": "Restive",
+        "url": "https://open.spotify.com/album/0XWKS67204DceSV6pQaUz4"
+      },
+      "artists": [
+        {
+          "name": "Mo Lowda & the Humble",
+          "url": "https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208252,
+      "name": "Restive",
+      "url": "https://open.spotify.com/track/6FisNYBVI8wlCcTSjcF2xs"
     },
     {
       "album": {
@@ -3458,6 +3517,42 @@
     },
     {
       "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238360,
+      "name": "Speeding 72",
+      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
+    },
+    {
+      "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 238360,
+      "name": "Speeding 72",
+      "url": "https://open.spotify.com/track/2Yxa0oCeD9icx1JTTaJ7bp"
+    },
+    {
+      "album": {
         "name": "Speeding 72",
         "url": "https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn"
       },
@@ -3469,7 +3564,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 238360,
       "name": "Speeding 72",
       "url": "https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095"

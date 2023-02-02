@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Fast-paced tunes for Tamil party time!\nCover : KRK",
   "name": "Tamil Party Time",
-  "published_playlist_ids": [
-    "3XL9bNtiKeCLaXQYapaYe1"
-  ],
   "tracks": [
     {
       "album": {
@@ -47,8 +44,8 @@
           "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
         },
         {
-          "name": "Deepak",
-          "url": "https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3"
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
         },
         {
           "name": "Pooja AV",
@@ -339,7 +336,7 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Ramya Behra",
+          "name": "Ramya Behara",
           "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
         },
         {
@@ -389,7 +386,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 169193,
       "name": "Breakup Song",
       "url": "https://open.spotify.com/track/1hnG8nDABfdb8qeQ7g4aKh"
@@ -525,6 +522,32 @@
       "duration_ms": 239989,
       "name": "Chill Bro (From \"Pattas\")",
       "url": "https://open.spotify.com/track/1EKvufWHnlZbGZGMDg3NYR"
+    },
+    {
+      "album": {
+        "name": "Chilla Chilla (From \"Thunivu\")",
+        "url": "https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Chilla Chilla (From \"Thunivu\")",
+      "url": "https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB"
     },
     {
       "album": {
@@ -1013,6 +1036,32 @@
       "duration_ms": 208463,
       "name": "Karuthavanlaam Galeejaam",
       "url": "https://open.spotify.com/track/22cCckQ9DR4E94QhtUzSW3"
+    },
+    {
+      "album": {
+        "name": "Kasethan Kadavulada (From \"Thunivu\")",
+        "url": "https://open.spotify.com/album/4wbatnzqMwHfR7SOGzkJyi"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Manju Warrier",
+          "url": "https://open.spotify.com/artist/4IXYF3FJmeKQFqT7pAjf3h"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188052,
+      "name": "Kasethan Kadavulada (From \"Thunivu\")",
+      "url": "https://open.spotify.com/track/1DmCs9mXUP9wnaTQcsT5aH"
     },
     {
       "album": {
@@ -1563,6 +1612,10 @@
       },
       "artists": [
         {
+          "name": "Rajesh Murugesan",
+          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
+        },
+        {
           "name": "Shabareesh Varma",
           "url": "https://open.spotify.com/artist/7hSF5IJpSsH6PVSrqJfqki"
         }
@@ -1939,7 +1992,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 199894,
       "name": "Thappa Dhaan Theriyum - Maari's Karuthu",
       "url": "https://open.spotify.com/track/4RXjmJrLbH9DNROHHaMbNc"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
   "name": "\u7235\u58eb\u60c5\u6b4c",
-  "published_playlist_ids": [
-    "2x9tGSQNrSGMnGerdaROm3"
-  ],
   "tracks": [
     {
       "album": {
@@ -232,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7e5zGP0I9BPxJ3XzltgfbN"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-08",
+      "duration_ms": 205413,
+      "name": "Angels' Lullaby",
+      "url": "https://open.spotify.com/track/2QpkZZY4Tx0pzYImvMoaUk"
+    },
+    {
+      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/2Jr81lF1N4Lq9rGzroCQQR"
       },
@@ -261,7 +276,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 229365,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
@@ -279,7 +294,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-24",
       "duration_ms": 257253,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2"
@@ -390,6 +405,24 @@
     },
     {
       "album": {
+        "name": "A Vida Tem Sempre Raz\u00e3o",
+        "url": "https://open.spotify.com/album/02DSANESTK0oRC4Ys8AfiL"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 234746,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/5Hn8fkS53OA0gTZFgmUdkR"
+    },
+    {
+      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -401,7 +434,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 403429,
       "name": "Confession / The Other Woman",
       "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
@@ -459,6 +492,24 @@
       "duration_ms": 245666,
       "name": "Deep in a Dream",
       "url": "https://open.spotify.com/track/0QR4BgqJvmtqQH7OoTQWIJ"
+    },
+    {
+      "album": {
+        "name": "My Funny Valentine: The Chet Baker Songbook",
+        "url": "https://open.spotify.com/album/2CtTsLssbJvp8iORyGOkwB"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/16gccT3MmOuVrTPdBGJCBv"
     },
     {
       "album": {
@@ -571,7 +622,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 234333,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/7hkel5OCjfRuN1j7DW2wxm"
@@ -589,7 +640,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 202226,
       "name": "First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/7hoWdQmgjEFAj1x0iNLpMd"
@@ -701,7 +752,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 233120,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
@@ -809,7 +860,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 285400,
       "name": "In the Air Tonight",
       "url": "https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ"
@@ -827,7 +878,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 193386,
       "name": "It Must Be Love",
       "url": "https://open.spotify.com/track/735WbySbM7FJGrdFHeGKXl"
@@ -1043,7 +1094,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-19",
       "duration_ms": 292056,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/5ZMoyCcee60Omi3bNklKvQ"
@@ -1149,7 +1200,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 305426,
       "name": "Mommy's Shawl",
       "url": "https://open.spotify.com/track/7u38kj1yGDoExUnP6gxxor"
@@ -1525,7 +1576,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 361253,
       "name": "The Very Thought of You",
       "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
@@ -1691,7 +1742,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-17",
       "duration_ms": 258546,
       "name": "We're All Alone",
       "url": "https://open.spotify.com/track/60Fw8sB54GPrr2y1WNTiEL"
@@ -1783,7 +1834,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-27",
       "duration_ms": 183226,
       "name": "When I'm 64",
       "url": "https://open.spotify.com/track/3J5HOK2P66j1S7pjMV99w8"
@@ -1831,16 +1882,42 @@
       },
       "artists": [
         {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 212493,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
+    },
+    {
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     },
     {
       "album": {

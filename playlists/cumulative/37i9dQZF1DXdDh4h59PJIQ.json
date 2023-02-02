@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "\u00a1Estos son los hits de la electr\u00f3nica en el 2022!",
   "name": "Electr\u00f3nica & Dance Music",
-  "published_playlist_ids": [
-    "5bWzq23TdSxzFHtcGB1qiD"
-  ],
   "tracks": [
     {
       "album": {
@@ -1127,7 +1124,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
@@ -1149,7 +1146,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
@@ -3073,7 +3070,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158095,
-      "name": "Love Tonight - David Guetta Remix Edit",
+      "name": "Love Tonight (David Guetta Remix Edit)",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
     },
     {
@@ -4308,7 +4305,7 @@
     },
     {
       "album": {
-        "name": "Strange Fruits Music",
+        "name": "Dance Fruits Music",
         "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
       },
       "artists": [
@@ -4361,6 +4358,24 @@
     {
       "album": {
         "name": "Shake It",
+        "url": "https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
+    },
+    {
+      "album": {
+        "name": "Shake It",
         "url": "https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa"
       },
       "artists": [
@@ -4371,7 +4386,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 167619,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD"

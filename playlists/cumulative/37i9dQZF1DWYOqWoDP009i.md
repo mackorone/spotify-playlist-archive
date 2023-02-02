@@ -4,7 +4,7 @@
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-109 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/43vCWCUSR0OchxOLKb5RA4)
+110 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 | 2020-12-01 |  |
 | [The Jam](https://open.spotify.com/track/1xXNrpcZ7UyKVWiI6GEc75) | [Graham Central Station](https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F) | [Ain't No 'Bout\-A\-Doubt It](https://open.spotify.com/album/5UcoqwPZQ0HBi4WgmDgEHs) | 8:12 | 2020-12-01 |  |
 | [The Old One, Two](https://open.spotify.com/track/4cNxF2MBn9pYLBzcBDXQXl) | [RAMP](https://open.spotify.com/artist/3KAulMlhjlTfIZD8yhMJPb) | [Ramp: The Old One, Two](https://open.spotify.com/album/74bV8EHp51Lr9e3LkD9QsT) | 3:17 | 2020-12-01 |  |
-| [Theme From "Shaft"](https://open.spotify.com/track/3UgWZwO5KqlfujQn53UW3I) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:36 | 2020-12-01 |  |
+| [Theme From "Shaft"](https://open.spotify.com/track/3UgWZwO5KqlfujQn53UW3I) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Top 50 Funk Hits](https://open.spotify.com/album/5OHvSXMjGR0uLscJgDiEuJ) | 4:36 | 2020-12-01 | 2023-01-15 |
+| [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 | 2020-12-01 |  |
 | [Think \(About It\)](https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Think \(About It\)](https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE) | 3:24 | 2020-12-01 |  |
 | [Under My Skin](https://open.spotify.com/track/3AzLj111UDWrZjt5NEe8sl) | [The Brothers](https://open.spotify.com/artist/1ZrLOktYbNd29LjbTYOU0U) | [Don't Stop Now](https://open.spotify.com/album/1DMEKx0RDeibJ77mQ4HmKi) | 6:11 | 2020-12-01 |  |
 | [Under the Influence of a Groove](https://open.spotify.com/track/2pedYJdZaM9gyyHEPr1UIH) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [This Boot Is Made For Fonk\-N](https://open.spotify.com/album/5rNtC4AU5oXXY8N2CneWCW) | 8:39 | 2020-12-01 |  |
@@ -111,7 +112,7 @@
 | [Walt's First Trip](https://open.spotify.com/track/0VISJhuwperT3curfNm6A0) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Pleasure](https://open.spotify.com/album/1mQs5honpZt4AmJ7NArlg8) | 3:10 | 2020-12-01 |  |
 | [Wanted, Dead or Alive](https://open.spotify.com/track/0xGqjGe6XghqiCqeAObpqx) | [Voices Of East Harlem](https://open.spotify.com/artist/1LppeaUlwXl7FvRZ9dmSLi) | [The Voices of East Harlem](https://open.spotify.com/album/2bteCqW7AhT0vaTbD6kokm) | 3:27 | 2020-12-01 |  |
 | [We Had Enough](https://open.spotify.com/track/4w7w2DDr2lyEvIVzM3htRe) | [Arnie Love & The Lovelettes](https://open.spotify.com/artist/4ubOhiRBHOA2UDsdGY5Eg6) | [Invisible Wind](https://open.spotify.com/album/6ccFGTUo2fBGJiRo7usQvJ) | 5:36 | 2020-12-01 |  |
-| [We Need Peace And Love](https://open.spotify.com/track/2Ci4Nr1IydpEq9j3u7gOB3) | [The L.A\. Carnival](https://open.spotify.com/artist/2x7xrFl3TkJL3OBaz5ULT0) | [Would Like To Pose A Question](https://open.spotify.com/album/7ufsMArJeoaEYtfyBNB0cL) | 4:03 | 2020-12-01 |  |
+| [We Need Peace And Love](https://open.spotify.com/track/2Ci4Nr1IydpEq9j3u7gOB3) | [L.A\. Carnival](https://open.spotify.com/artist/1dz6wxFknhBzp8fZNP6Wlb) | [Would Like To Pose A Question](https://open.spotify.com/album/7ufsMArJeoaEYtfyBNB0cL) | 4:03 | 2020-12-01 |  |
 | [We've Had Enough](https://open.spotify.com/track/6hdjjY74iDskTAZFHrEONt) | [Arnie Love & the Lovettes](https://open.spotify.com/artist/0ZKdwL9rZMe52AdjRSf3oX) | [Recording Tap](https://open.spotify.com/album/2duYlLfIuBwXv9d7MxzpH6) | 5:36 | 2020-12-01 | 2022-11-13 |
 | [Welcome to Our World \(Of Merry Music\)](https://open.spotify.com/track/0sQ4OcMgLkLahjZ3D1D4OU) | [Mass Production](https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE) | [Welcome To Our World](https://open.spotify.com/album/5EL05yBpF4CG7URBxCYb0w) | 7:32 | 2020-12-01 |  |
 | [What About Love \- Mark Grusane Edit](https://open.spotify.com/track/1k6tMlJREcGSfijxtNj7sC) | [Brief Encounter](https://open.spotify.com/artist/4OEbC7T2MsiXplZhj7ljRj), [Mark Grusane](https://open.spotify.com/artist/4CbCjbCnAhZKQfLi21RNSM) | [The Real Sound of Mark Grusane](https://open.spotify.com/album/4yys6WC1buG4jdGy10Brxy) | 5:05 | 2020-12-01 |  |

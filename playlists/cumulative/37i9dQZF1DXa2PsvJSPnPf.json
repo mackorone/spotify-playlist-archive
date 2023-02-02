@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Sit back, stay awhile, and savor the soft, sweet sounds of this collection. ",
   "name": "Front Porch",
-  "published_playlist_ids": [
-    "1J46WbZ3oHtv4aJLZ1hDCX"
-  ],
   "tracks": [
     {
       "album": {
@@ -1865,7 +1862,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 210613,
       "name": "Paducah",
       "url": "https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG"
@@ -1887,6 +1884,24 @@
       "duration_ms": 210613,
       "name": "Paducah",
       "url": "https://open.spotify.com/track/4VmDr13LpbbL1l1rOru8qA"
+    },
+    {
+      "album": {
+        "name": "Different Shade of Blue",
+        "url": "https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo"
+      },
+      "artists": [
+        {
+          "name": "Nate Fredrick",
+          "url": "https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210613,
+      "name": "Paducah",
+      "url": "https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Get the party started with some upbeat party Jazz.
 
-140 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/0URm84MB7MMlfi2eP9YKgm)
+140 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A swinging Jazz soundtrack for your drive time.
 
-204 songs - 20 hr 40 min - [published](https://open.spotify.com/playlist/0C5uVtE1kP1r63LtVzXgsK)
+204 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [One For Daddy\-O \- Remastered](https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 8:25 | 2021-12-16 | 2022-09-09 |
 | [One For Newk \- 2006 Digital Remaster](https://open.spotify.com/track/3f3wxyntMNxbDB6ij3tJLz) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Why Am I Treated So Bad!](https://open.spotify.com/album/4CPAyHrIV0POXPCdWICY7o) | 5:15 | 2021-12-16 |  |
 | [Out Of The Night \- Rudy Van Gelder Edition / 1999 Digital Remaster / 24\-Bit Mastering](https://open.spotify.com/track/1tboD29pvEqSOHz6fLGauk) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 7:24 | 2021-12-16 |  |
-| [Ow!](https://open.spotify.com/track/1Ju0Tsue7GTzlcx0y2kN2C) | [Tricky Lofton](https://open.spotify.com/artist/59fsz4clSI6ScQHdzY12ev), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Brass Bag](https://open.spotify.com/album/6rn3FShZAjVH7HHMV49Tmk) | 6:51 | 2022-10-01 |  |
+| [Ow!](https://open.spotify.com/track/1Ju0Tsue7GTzlcx0y2kN2C) | [Tricky Lofton](https://open.spotify.com/artist/59fsz4clSI6ScQHdzY12ev), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Brass Bag](https://open.spotify.com/album/6rn3FShZAjVH7HHMV49Tmk) | 6:51 | 2022-10-01 | 2022-12-08 |
 | [Pent Up House](https://open.spotify.com/track/4MUgsyfXJov8dPEpiDqBIS) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Live In Milan](https://open.spotify.com/album/4ZdAmHiOPchepAab6jksEo) | 5:03 | 2022-09-01 | 2022-11-18 |
 | [Pentecostal Feelin' \- Rudy Van Gelder Edition/2003 Remaster](https://open.spotify.com/track/49DPLHCTEYgJrMcq88N138) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Free Form \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4) | 6:43 | 2021-12-16 |  |
 | [Petty Larceny](https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Freedom Rider](https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp) | 6:16 | 2021-12-16 |  |
@@ -188,7 +188,7 @@
 | [The Turnaround \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/1TOx29jMSHZAJcqdHQRMXk) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 8:15 | 2021-12-16 | 2022-01-10 |
 | [The Way You Look Tonight \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/6js3N3Q5TEFIxhzSxgPt8K) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 6:19 | 2022-05-20 |  |
 | [The Windup](https://open.spotify.com/track/03CX928cwzWG8lBqqH16h4) | [Rudresh Mahanthappa](https://open.spotify.com/artist/3OaIGXcN9CnCX6etIGVf8G) | [Hero Trio](https://open.spotify.com/album/47lb4pK75obr1cVuOW3rnG) | 4:42 | 2021-12-16 | 2022-07-29 |
-| [The Windup](https://open.spotify.com/track/4OCZosYvqSIZ0iU55mxhV1) | [Rudresh Mahanthappa](https://open.spotify.com/artist/3OaIGXcN9CnCX6etIGVf8G) | [Hero Trio](https://open.spotify.com/album/3FF9NPwv2gznqYaLbilwaX) | 4:42 | 2022-06-23 | 2022-11-26 |
+| [The Windup](https://open.spotify.com/track/4OCZosYvqSIZ0iU55mxhV1) | [Rudresh Mahanthappa](https://open.spotify.com/artist/3OaIGXcN9CnCX6etIGVf8G) | [Hero Trio](https://open.spotify.com/album/3FF9NPwv2gznqYaLbilwaX) | 4:42 | 2022-06-23 |  |
 | [The Wobbler](https://open.spotify.com/track/7aiZS7kjkHTtpSZudOHYQe) | [Joel Haynes Trio](https://open.spotify.com/artist/2YSrZHJO665gQOnKC5i8kn) | [Transitions](https://open.spotify.com/album/0xti4pZ6HsySROG4797YYW) | 6:59 | 2021-12-16 |  |
 | [Theme From Mr\. Broadway](https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 5:43 | 2022-10-01 |  |
 | [This Here](https://open.spotify.com/track/77tXih9Z5Jid24z21GOJE5) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 3:32 | 2022-08-30 |  |

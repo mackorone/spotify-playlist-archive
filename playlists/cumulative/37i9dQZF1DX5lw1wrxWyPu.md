@@ -4,7 +4,7 @@
 
 > For never were there stories of more woe...\. than those found in these masterful performances, adaptations, and readings of Shakespeare's Tragedies.
 
-215 songs - 23 hr 47 min - [published](https://open.spotify.com/playlist/6SPj10iIlcwfVEExIrGwPK)
+215 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

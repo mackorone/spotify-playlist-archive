@@ -4,7 +4,7 @@
 
 > Enjoy the official release of 'Drop the Beat', a competition between rappers to win 'Bitcoin'\. \(우승상금 '비트코인'을 쟁취하기 위한 래퍼들의 경쟁 '드랍 더 비트'의 공식 발매곡을 즐겨보세요.\)
 
-18 songs - 1 hr 6 min - [published](https://open.spotify.com/playlist/6ZJo6Fo6Nr6gMHDpbgM42M)
+18 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

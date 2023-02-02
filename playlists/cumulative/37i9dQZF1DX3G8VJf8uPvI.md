@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 2010s Metal\. Cover: Powerwolf.
 
-274 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/14DLeRI23LPzEF6Xa5VDMq)
+274 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

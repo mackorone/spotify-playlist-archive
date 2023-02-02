@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
   "name": "This Is zebrahead",
-  "published_playlist_ids": [
-    "41oB5KsqgY6Yx8AIjf7Kcl"
-  ],
   "tracks": [
     {
       "album": {
@@ -253,10 +250,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 216746,
       "name": "Down Without a Fight",
       "url": "https://open.spotify.com/track/0oXKsquvboVD6qFut5U9YU"
+    },
+    {
+      "album": {
+        "name": "Evil Anonymous",
+        "url": "https://open.spotify.com/album/6XrDxDfccAIF248JyKIMvS"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176405,
+      "name": "Evil Anonymous",
+      "url": "https://open.spotify.com/track/6fB3DvO3syABrIW527ISKA"
     },
     {
       "album": {
@@ -289,7 +304,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 224226,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/2GtvF6M8PbpuWRvfdq5BK3"
@@ -433,7 +448,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 137507,
       "name": "Is It Hot in Here?",
       "url": "https://open.spotify.com/track/2JoMYA6pq2ZWhRLDZqA5aP"
@@ -530,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Middle Seat Blues",
+        "url": "https://open.spotify.com/album/1CyQE3ghzFgt9RBF1Ga6R4"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190075,
+      "name": "Middle Seat Blues",
+      "url": "https://open.spotify.com/track/4HJJyFnQKbGwPYpWCuhGqv"
+    },
+    {
+      "album": {
         "name": "Call Your Friends",
         "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },
@@ -541,7 +574,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 218349,
       "name": "Murder on the Airwaves",
       "url": "https://open.spotify.com/track/1koGwmY1E4vEXlDpi7Uv82"

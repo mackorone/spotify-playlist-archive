@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,423 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,981 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 31 | [Cake a Blow](https://open.spotify.com/track/266O0ONX1Fl6Hx1DpND3sb) | [Nikes](https://open.spotify.com/artist/6QHax4rcnBPAAfj1n26YNQ), [MoonDoctoR](https://open.spotify.com/artist/5bVR7EKHmtLsjjE7MtCIm7), [FreshtillDef](https://open.spotify.com/artist/503Cv0ES3BtLIqnp95So1N) | [Cake a Blow](https://open.spotify.com/album/1zkQgRC0p1zhenbI2vt6UL) | 3:36 |
 | 32 | [Decline Him](https://open.spotify.com/track/3Wa96y3cQWjIX9gN2dTb5t) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Transphobic](https://open.spotify.com/album/2vkSCPeqGqr2iCDZEbtieZ) | 3:33 |
 | 33 | [Badman](https://open.spotify.com/track/5NkbtBoUOsID3oD8EfqUZR) | [Instinct \(UK\)](https://open.spotify.com/artist/2sl9ekjwH9yLHO9JLA7BVH) | [Still Life](https://open.spotify.com/album/1VJqseeHvHzPZInUpzxYoY) | 5:31 |
-| 34 | [Ancestors](https://open.spotify.com/track/025iViTyEpPYeaF4eWm20O) | [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [Warp Records Sampler 2010](https://open.spotify.com/album/3g3Z2HbOvMoGlG9r3KxyBy) | 2:37 |
+| 34 | [Ancestors](https://open.spotify.com/track/1eYsvMckAi04KcmRBvbtV2) | [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [A Sufi And A Killer \(Bonus Track Version\)](https://open.spotify.com/album/01L5H2Xyj7K43SeJSY2s4y) | 2:37 |
 | 35 | [Footsteps](https://open.spotify.com/track/6qhpOfM659UzUWQhpiCU3z) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:51 |
 | 36 | [Road Song](https://open.spotify.com/track/2xKrjhPVU1d5hYzfNY6Ltb) | [Ikebe Shakedown](https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb) | [The Beast / Road Song](https://open.spotify.com/album/7AxCqU22eUwMH5fg21R7TR) | 3:00 |
 | 37 | [Is There Any Love?](https://open.spotify.com/track/4x2TqiNpMCmg9iqvfuskPv) | [Trevor Dandy](https://open.spotify.com/artist/5c2Ex16nxDvgZqUPgOGCWA) | [Is There Any Love?](https://open.spotify.com/album/40P6jP0JGVBkDiZpgyD0UD) | 4:30 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 39 | [Can’t Stand It](https://open.spotify.com/track/0YgkRyRI9TN0rKqwuWsrHK) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Blast Off Through the Wicker](https://open.spotify.com/album/5nkVWnfrsHKXJSfqP9IGjI) | 5:41 |
 | 40 | [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 |
 
-Snapshot ID: `MTY1OTEwNzE0NywwMDAwMDAwMGIzYzZjNjFmZDk2NDEzMjBmYWUxODZjNzJlYjUyZjYw`
+Snapshot ID: `MTY1OTEwNzE0NywwMDAwMDAwMDVhNTFlYzQwNWM3ZDRiMmRkNTk3OTEzYmY1ZmMwYjcx`

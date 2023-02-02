@@ -4,7 +4,7 @@
 
 > Honoring the life and music of the <a href="spotify:artist:5xLSa7l4IV1gsQfhAMvl0U">blues giant</a>, 1925–2015.
 
-39 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/4hs8YNDpUeBYmSOihp2h0N)
+39 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

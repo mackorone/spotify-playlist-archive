@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "2015 highlights from the home of indie music.",
   "name": "Best of Indie 2015",
-  "published_playlist_ids": [
-    "6ixuogA2Qc1PzDwdJ5KbsA"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,7 +92,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 188106,
       "name": "All This Could Be Yours",
       "url": "https://open.spotify.com/track/1bbcAQuGuAxKS1HM96B8uh"
@@ -365,7 +362,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 172988,
       "name": "Cut Your Bangs",
       "url": "https://open.spotify.com/track/75T4FO7bShVDfUN1ZDA9yP"
@@ -751,7 +748,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 227506,
       "name": "Gone",
       "url": "https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR"
@@ -823,7 +820,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 329169,
       "name": "Huarache Lights",
       "url": "https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn"
@@ -913,7 +910,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-03",
       "duration_ms": 211340,
       "name": "ILYSB",
       "url": "https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq"
@@ -971,6 +968,24 @@
       "duration_ms": 187720,
       "name": "Lampshades on Fire",
       "url": "https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2"
+    },
+    {
+      "album": {
+        "name": "Every Open Eye",
+        "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237480,
+      "name": "Leave a Trace",
+      "url": "https://open.spotify.com/track/5HTBPhN9b2GMp5YXAGV6lT"
     },
     {
       "album": {
@@ -1367,7 +1382,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 230560,
       "name": "Pedestrian at Best",
       "url": "https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri"
@@ -1619,7 +1634,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 260426,
       "name": "Something Soon",
       "url": "https://open.spotify.com/track/1L2U62lhBK991jQJ1uecD5"
@@ -1673,7 +1688,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 321133,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/5ORY1GDl3lpEDyU1CzSq26"
@@ -1781,10 +1796,28 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
+    },
+    {
+      "album": {
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
       "album": {

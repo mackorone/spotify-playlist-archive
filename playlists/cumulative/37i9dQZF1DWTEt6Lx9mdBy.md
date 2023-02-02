@@ -4,7 +4,7 @@
 
 > "Music to chill me out and raise my spirit." Cover: Zion Clark
 
-30 songs - 1 hr 39 min - not published yet
+30 songs - 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

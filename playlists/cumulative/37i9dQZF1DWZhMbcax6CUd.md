@@ -4,7 +4,7 @@
 
 > Explore the great works of Maurice Ravel.
 
-110 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/27dwUYJJkPiM7seh6OERBz)
+110 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

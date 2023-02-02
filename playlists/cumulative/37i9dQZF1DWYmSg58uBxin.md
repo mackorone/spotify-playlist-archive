@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-177 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
+177 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

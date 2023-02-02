@@ -4,7 +4,7 @@
 
 > Relaxing piano works by Chopin.
 
-63 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/76Jly7Nt7BMApdWX5GLIfX)
+63 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Mazurka No\. 43 en sol mineur, Op\. Posth\. 67 No\. 2, WN 64](https://open.spotify.com/track/6zvD6nMGrX5OrPrSnFgUXg) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janina Fialkowska](https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32) | [Chopin: Complete Mazurkas](https://open.spotify.com/album/7eS9QiFiXd4DwLt0ZdrLEt) | 2:09 | 2019-08-15 |  |
 | [Mazurka No\. 43 in G Minor, Op\. 67 No\. 2](https://open.spotify.com/track/2kdzG37VTbJRtCSfgqtrLB) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janina Fialkowska](https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32) | [Chopin: Complete Mazurkas](https://open.spotify.com/album/687yf7THjQUVpIKMJhVGsb) | 2:09 | 2019-08-15 | 2022-07-29 |
 | [Nocturne for Piano No\. 8 in D\-Flat Major, Op\. 9](https://open.spotify.com/track/3qtmteHNFbo5hp2XdsaXIy) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vitalij Margulis](https://open.spotify.com/artist/3PIxxguXMIqAu6mSQkUTog) | [Chopin: Etudes, Op\. 10 \- Grande Polonaise \- Nocturne](https://open.spotify.com/album/4ydJBYXuNFXOyT3fBCHOyK) | 6:34 | 2019-08-15 |  |
-| [Nocturne in B\-Flat Minor, Op\. 9, No\. 1](https://open.spotify.com/track/11mr6MSfxepLWMRqASkdVA) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Feltsman](https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM) | [Chopin: Complete Noctures, Barcarolle, Berceuse](https://open.spotify.com/album/5hWRkuxBnUvjSIQex2SLKn) | 5:34 | 2019-08-15 |  |
+| [Nocturne in B\-Flat Minor, Op\. 9, No\. 1](https://open.spotify.com/track/11mr6MSfxepLWMRqASkdVA) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Feltsman](https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM) | [Chopin: Complete Nocturnes, Barcarolle, Berceuse](https://open.spotify.com/album/5hWRkuxBnUvjSIQex2SLKn) | 5:34 | 2019-08-15 |  |
 | [Nocturne in C\-sharp minor, B\. 49](https://open.spotify.com/track/0bcGY7mfG10QfeaDbz97hC) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Brigitte Engerer](https://open.spotify.com/artist/0WBFyyZxQ5CeA31cKSmhU2) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/2EJIGjaVFq9PKinjyA9yOn) | 3:59 | 2019-08-15 |  |
 | [Nocturne in E minor, Op\. 72, No\. 1](https://open.spotify.com/track/7znKXBOyLR50MmA99KgHO8) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janusz Olejniczak](https://open.spotify.com/artist/0MeUJOSv5a75mNQzh266Ay) | [The Pianist \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GFVUnvZBGjE29iZzwbhZT) | 4:22 | 2019-08-15 |  |
 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/07BYxoTub5POnsajOsoTXb) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin: Etudes \- Lang Lang](https://open.spotify.com/album/70CWcZa5F1uq0xmkMBOtah) | 6:06 | 2019-08-15 |  |

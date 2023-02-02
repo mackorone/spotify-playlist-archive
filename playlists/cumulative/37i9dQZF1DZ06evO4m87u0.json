@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-12",
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
   "name": "This Is The Black Keys",
-  "published_playlist_ids": [
-    "2UwBYpgJZ0E7dCO3ToQZjJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 177493,
       "name": "Burn the Damn Thing Down",
       "url": "https://open.spotify.com/track/6UpqYTSz30LQREVtYeVQLR"
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 241960,
       "name": "Didn't I Love You",
       "url": "https://open.spotify.com/track/3ODV8hlwa7eLVuPMskWnQi"
@@ -363,6 +360,24 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195520,
+      "name": "Hard Row",
+      "url": "https://open.spotify.com/track/6D6xygnjsY8hxZ01QH2ovP"
+    },
+    {
+      "album": {
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -455,7 +470,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
@@ -473,7 +488,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 191956,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck"
@@ -833,7 +848,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2023-01-28",
       "duration_ms": 207040,
       "name": "Nova Baby",
       "url": "https://open.spotify.com/track/5S7kFUo496CoItemffWQb9"
@@ -851,7 +866,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 205600,
       "name": "Oceans & Streams",
       "url": "https://open.spotify.com/track/0RRS27vZj5U0N2eIBctL4K"
@@ -1121,7 +1136,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 181306,
       "name": "The Breaks",
       "url": "https://open.spotify.com/track/2W1OhZFB3uGJ3FpU19BpvZ"
@@ -1209,6 +1224,24 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 211336,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/3C542UknrX76XSRXTyQ1Qg"
+    },
+    {
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1247,7 +1280,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 217120,
       "name": "Waiting on Words",
       "url": "https://open.spotify.com/track/7ctca1Hz43SyMcI4qUrpY7"

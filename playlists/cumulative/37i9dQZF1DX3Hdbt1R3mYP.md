@@ -4,7 +4,7 @@
 
 > One of the most important British folk artists of the 21st century\. This is Laura Marling
 
-46 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/4honca3SdsgeM321B47k3Z)
+46 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

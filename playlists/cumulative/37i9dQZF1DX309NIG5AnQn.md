@@ -4,7 +4,7 @@
 
 > Hay otro sonido y lo encontrás acá\. <br/>Foto: Buenos Vampiros.
 
-87 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/5FP3dwk8hADhOl8RSWpO0T)
+88 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Claromecó](https://open.spotify.com/track/1Sv6fjRxFq9Vx93D0FxPD5) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Vapor Americano](https://open.spotify.com/album/0hSAgVRDqV2lz0njQgUjOj) | 2:19 | 2022-03-25 |  |
 | [Close Talker](https://open.spotify.com/track/6Xz6yDLA9s5U0odqQJyr1w) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Close Talker](https://open.spotify.com/album/7KNPZWmHzgoPK0dEs9Hpoy) | 3:17 | 2022-03-25 |  |
 | [Colonias Espaciales \(Demo\)](https://open.spotify.com/track/3LSlNG8DgmrzAngl6BbxRp) | [Iguana Lovers](https://open.spotify.com/artist/4CLxHHRKTIttYtj0V9c4Aj) | [Colonias Espaciales \(Demo\)](https://open.spotify.com/album/1iyVOMmAHDRlNv9BvjZuNz) | 3:36 | 2022-03-25 |  |
-| [Color](https://open.spotify.com/track/6yPdKUk3kSelyKc15Ix0sV) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV) | 3:49 | 2022-03-25 |  |
+| [Color](https://open.spotify.com/track/6yPdKUk3kSelyKc15Ix0sV) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV) | 3:49 | 2022-03-25 | 2023-01-10 |
+| [Color](https://open.spotify.com/track/76MMaNzI01OojAm2MJExHv) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7) | 3:49 | 2022-03-25 |  |
 | [Como una Loba](https://open.spotify.com/track/29tQfkBARLAFauXxjlogvv) | [Pequeño Bambi](https://open.spotify.com/artist/3n1OdWz1pWxa0GjpjFtLmH) | [Como una Loba](https://open.spotify.com/album/07hW7tEa9LNg3mI2b1lHbX) | 3:17 | 2022-03-25 |  |
 | [CONTANDO OVEJAS](https://open.spotify.com/track/47DL8jY6HJD2mlCcTuOWKX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:23 | 2022-03-25 |  |
 | [Coral](https://open.spotify.com/track/2jBERGaLNByP9ffSBq6rq1) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Policroma](https://open.spotify.com/album/2oqOPA6FCLVF9QgAmLnrHG) | 4:30 | 2022-03-25 |  |

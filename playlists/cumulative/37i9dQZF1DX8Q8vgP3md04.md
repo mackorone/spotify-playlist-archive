@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-71 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/5h1kkeVebhBTJyRzBDxWOy)
+76 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,11 +19,14 @@
 | [Aynama](https://open.spotify.com/track/6gf5wTdci9QTxjJfc8UDlf) | [Sol Romeyo](https://open.spotify.com/artist/4QK1PhAwLD8knsSXnXI9Cg), [Flashkiiddo](https://open.spotify.com/artist/63tu1CZybzgoXM2tPG7UE5) | [Aynama](https://open.spotify.com/album/2UG2pd1aBEDIFetK9Gm9na) | 4:00 | 2022-11-17 |  |
 | [Bado](https://open.spotify.com/track/6DJRq42LKg4I0z0BWFPQZA) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:13 | 2018-10-04 |  |
 | [Balgeru, Vol\. 3](https://open.spotify.com/track/35RzQeM58TA744ln3HaRDA) | [Ephrem Tamiru](https://open.spotify.com/artist/2R863D7ulLA8AJRllmiW60), [Gosayie Tesfaye](https://open.spotify.com/artist/5nUICzCLIY5eYGqvpttE9J) | [Nahom's Favorite, Vol\. 16](https://open.spotify.com/album/3ef6vyNLF0MGhFSZvLcXcL) | 6:37 | 2018-10-04 |  |
-| [Betam New Emewodish](https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X) | [Dawit Tsige](https://open.spotify.com/artist/1RGs3nQP5xobRjF7Kl00kJ) | [Betam New Emiwodish](https://open.spotify.com/album/1q9LnwtvnZa3dEMPYxmpkQ) | 5:38 | 2018-10-04 |  |
+| [Bayish](https://open.spotify.com/track/576KoTxxx3Ap5jOMU9AO0T) | [Dagi D](https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp) | [Bayish](https://open.spotify.com/album/1O5cvXeKsXahndfs5KDAnA) | 4:05 | 2022-12-12 |  |
+| [Betam New Emewodish](https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X) | [Dawit Tsige](https://open.spotify.com/artist/1RGs3nQP5xobRjF7Kl00kJ) | [Betam New Emiwodish](https://open.spotify.com/album/1q9LnwtvnZa3dEMPYxmpkQ) | 5:38 | 2018-10-04 | 2022-12-13 |
 | [Birabiroye](https://open.spotify.com/track/63CHnczvavEof74GIzfmp5) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:49 | 2020-07-21 |  |
 | [Bob Marly](https://open.spotify.com/track/0zGOvZFRuKSe3SasV1TFue) | [Natti Haile](https://open.spotify.com/artist/7wqwO7cnVqGdHenEADW9k2) | [Nahom Favorite, Vol\. 14 \(Best Collections\)](https://open.spotify.com/album/3M5gXrIX9VhqPfsvfOHI51) | 4:55 | 2018-10-04 |  |
 | [Chall Zendero](https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 3:52 | 2020-06-05 |  |
 | [Checheho](https://open.spotify.com/track/3B3YUcoMB8CmXOuKT3z1WD) | [Aster Aweke](https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L) | [Checheho](https://open.spotify.com/album/3hbNRs65PT6F0HoTIF1Ziv) | 6:09 | 2018-10-04 |  |
+| [Darm Yelat](https://open.spotify.com/track/6SVoDXBSU1eZKRdokV2yaT) | [Nahom Mekuria](https://open.spotify.com/artist/3zFxJvpOzvb6aD0Lvk96he) | [Darm Yelat](https://open.spotify.com/album/5WbVCGdmMmWVjCbR64FghT) | 3:17 | 2022-12-12 |  |
+| [Debdabew](https://open.spotify.com/track/3SZkTKou5arG4fI4O2krPE) | [Jacky Gosee](https://open.spotify.com/artist/1ZS1gBpPCK7yHhFjwTwxGh) | [Debdabew](https://open.spotify.com/album/6EnCinWmYu4RLO4hHfK593) | 3:59 | 2022-12-12 |  |
 | [Debzezesh](https://open.spotify.com/track/5nUbqoz7j9btdIZkkuJL5a) | [Eyob Mekonen](https://open.spotify.com/artist/5hn5axBeYPCxuGA07FE731) | [Ende Kal](https://open.spotify.com/album/1b6gLk9kr3bObvC0u7R9Vo) | 6:26 | 2018-10-04 |  |
 | [Disc 1: Sitalekish Des Alishign \(A\. Agonafir\)](https://open.spotify.com/track/6Hux3tjwWhozjKoOajz9nb) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- 6\-cd Box Set](https://open.spotify.com/album/1tIZbl4nLZZlj9nhb4PCc4) | 5:04 | 2018-10-04 | 2022-07-29 |
 | [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 | 2018-10-04 | 2022-10-15 |
@@ -39,17 +42,19 @@
 | [Get to Work](https://open.spotify.com/track/2bvCPqlkiQGOUntCvgy1JR) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 3:49 | 2018-10-04 |  |
 | [Godanaw](https://open.spotify.com/track/7bTnPv7Wi0rLvgWvC6uxvo) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Kal Bekal](https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l) | 5:19 | 2018-10-04 |  |
 | [Gudaye Nesh](https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs) | [Wondimu Jira](https://open.spotify.com/artist/0xksnjOFGOdADTRV5cKcV4) | [Ethiopian Slow Romantic Collection \- Vol.2](https://open.spotify.com/album/2PPPjvJCXafChPiOItKfip) | 4:30 | 2018-10-04 |  |
-| [Gude](https://open.spotify.com/track/4h3xIy5sNOJ2sPGcyVIRsd) | [Kako Getachew](https://open.spotify.com/artist/5SI6CCJiUtG5IUYdR45iBu) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:53 | 2018-10-04 |  |
+| [Gude](https://open.spotify.com/track/4h3xIy5sNOJ2sPGcyVIRsd) | [Kako Getachew](https://open.spotify.com/artist/5SI6CCJiUtG5IUYdR45iBu) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:53 | 2018-10-04 | 2022-12-13 |
 | [Hager Alegn](https://open.spotify.com/track/2p3jtfV6Zq0aegDj1Mpbm8) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:59 | 2018-10-04 |  |
+| [Jegna](https://open.spotify.com/track/6iQkqugtqS7wC5FWOTlQ98) | [Mastewal Eyayu](https://open.spotify.com/artist/2ycWMnbSfkoPNAjXvo1BvP) | [Jegna](https://open.spotify.com/album/0t3z1KzzscbB49f6U3btUQ) | 6:02 | 2022-12-12 |  |
 | [Kanchiga New](https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj) | [Samon Zemas](https://open.spotify.com/artist/2CXGI3F0AkpmppGSgdtcfA), [Aman N](https://open.spotify.com/artist/289FKaEJct7I2C3hVLMIBo) | [Kanchiga New](https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA) | 2:58 | 2022-11-17 |  |
 | [Kenat Wediya](https://open.spotify.com/track/4iKrEZyjF2JcC5AukB2rBF) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:54 | 2018-10-04 |  |
 | [Keteraraw Mado](https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 6:22 | 2020-07-21 |  |
 | [Konjo Bager](https://open.spotify.com/track/0YMIDzzUtGmPVGMhBXDkzB) | [Dawit Mellesse](https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V) | [Andiken](https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf) | 6:13 | 2018-10-04 |  |
-| [Lageba New](https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW) | 3:41 | 2020-06-05 |  |
+| [Lageba New](https://open.spotify.com/track/3dUwM1SPDO9WtawRzN1otb) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1cLOZ7hjPx1d5qWUK1ImXY) | 3:37 | 2020-06-05 |  |
+| [Lageba New](https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW) | 3:41 | 2020-06-05 | 2022-12-26 |
 | [Lijay](https://open.spotify.com/track/1H8X1BVWxWlGopjmqEhle5) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Lijay](https://open.spotify.com/album/6Q5i8LyFcC7rxILCKqXZ3N) | 5:24 | 2020-05-15 | 2022-11-13 |
 | [Lijay](https://open.spotify.com/track/38F1nH0CSPLuWYJXa2GWzl) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX) | 5:24 | 2020-05-15 |  |
 | [Lijay](https://open.spotify.com/track/57BxU4uqdbl6TITWtnQDMw) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Lijay](https://open.spotify.com/album/2z3hyHFNHnQ3h9R36uUvzO) | 5:24 | 2020-05-15 | 2022-07-29 |
-| [Lingerish](https://open.spotify.com/track/3bGYH5jipEhhVSQtCek73t) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 4:19 | 2018-10-04 |  |
+| [Lingerish](https://open.spotify.com/track/3bGYH5jipEhhVSQtCek73t) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 4:19 | 2018-10-04 | 2022-12-13 |
 | [Maalan Jira](https://open.spotify.com/track/3X7RnmGwyfOy2Qr5nn1u1i) | [Hachalu Hundessa](https://open.spotify.com/artist/1mIFOiMXZXNcpi2E651Rwx) | [Maalan Jira](https://open.spotify.com/album/3QNhcBBhUy4FqN1wHnfRE5) | 5:30 | 2020-06-05 |  |
 | [Maalan Jiraa](https://open.spotify.com/track/145cR7hHK6yfZFWgKdKqEn) | [Helen Berhe](https://open.spotify.com/artist/7DVyaUx8Tu6oGmbDTSXPBO) | [Siiyaadee](https://open.spotify.com/album/0NESdLGWsLfnD8ZJm9Hurc) | 5:30 | 2020-06-05 | 2022-07-29 |
 | [Mar Eske Tuwaf \(Fiqir Eske Meqabir\)](https://open.spotify.com/track/7aRNqr3q0Cg064SNLUpX37) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 7:25 | 2018-10-04 |  |
@@ -78,6 +83,6 @@
 | [Yebleniloo](https://open.spotify.com/track/5Jl2tQyJUmFJRcdAtLrbfo) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Yebleniloo](https://open.spotify.com/album/7xF9to8GK2yUYND3JRZBMa) | 4:51 | 2020-06-05 |  |
 | [Yemegemeriyaye](https://open.spotify.com/track/71DGTsCqCWt63Rb6KZ4mUL) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 5:04 | 2020-07-21 |  |
 | [Ykomal Woy](https://open.spotify.com/track/3cREJgXBNWJUh86DXq8T1M) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 4:20 | 2018-10-04 |  |
-| [Zemenay Mariye](https://open.spotify.com/track/5pCITb1hiPJhRAGlh42hIC) | [Lij Michael](https://open.spotify.com/artist/0HLyF2eZjPgqtyMp3pwxce) | [Zaray Yehun Nege](https://open.spotify.com/album/18uNT4E2ZaHcx5tLOoX1EH) | 3:40 | 2018-10-04 |  |
+| [Zemenay Mariye](https://open.spotify.com/track/5pCITb1hiPJhRAGlh42hIC) | [Lij Michael](https://open.spotify.com/artist/0HLyF2eZjPgqtyMp3pwxce) | [Zaray Yehun Nege](https://open.spotify.com/album/18uNT4E2ZaHcx5tLOoX1EH) | 3:40 | 2018-10-04 | 2022-12-13 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 
 > Songs for your villain era, curated by Jenn Robinson, Camila Mendes & Maya Hawke\. Watch Do Revenge on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,956 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,113 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 | 43 | [Baby](https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:39 |
 | 44 | [Piece of My Heart](https://open.spotify.com/track/3V3MQOlQqq8SZ7BcoN4QCn) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Flash Back Internacional](https://open.spotify.com/album/0xHBgcc8mjG1FILI9NPrg9) | 4:26 |
 | 45 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
-| 46 | [The Devil](https://open.spotify.com/track/0RVmQhPYqnyCGzIPo6K5cs) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/0YM67c7AYsZkvCSpPoYrFJ) | 2:47 |
+| 46 | [The Devil](https://open.spotify.com/track/2V42gWdGouZxx742zdv8Pa) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 2:47 |
 | 47 | [Daddy AF](https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Daddy AF](https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV) | 2:31 |
 | 48 | [High For This](https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:07 |
 | 49 | [Case Of The Ex \(Whatcha Gonna Do\)](https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Fear Of Flying](https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7) | 3:56 |
 | 50 | [Where My Girls At](https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [702](https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR) | 2:46 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDY0NDk1ZDJiYjU1MGM0ZmQyN2Q4YzgzNTIyNjU2YTMy`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGU4NDlkNzkxY2JmOTJkZjM0YzNiYTY2ZDg5ZjBlNDJj`

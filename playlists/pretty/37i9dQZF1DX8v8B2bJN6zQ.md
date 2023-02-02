@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,234 likes - 65 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,331 likes - 65 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 26 | [Body Rock](https://open.spotify.com/track/42yPoKRxgi2A3lS8Qjtu0Y) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [Hakes](https://open.spotify.com/artist/3SJZZCuC5AmKFTDg5BKg8A) | [Body Rock](https://open.spotify.com/album/6BeQaQlMjyhmxWIs4BVd08) | 2:56 |
 | 27 | [I'm A Mess](https://open.spotify.com/track/0Rzz75C3MDHszEW2co7BCC) | [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d), [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW), [EXPLICIT!](https://open.spotify.com/artist/5A13OuT27Bf5NZtXmzYtSL) | [I'm A Mess](https://open.spotify.com/album/7l77bhDnMweoM8hb0OZNPZ) | 3:01 |
 | 28 | [bad vibes "/](https://open.spotify.com/track/4o4m3uL98OFGAVCY4WhsYa) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [RAIID](https://open.spotify.com/artist/7qmOmf8AbbmdNCJ9K4ti1X) | [bad vibes "/](https://open.spotify.com/album/3CJqCFKrjBo4CkKtiIgBl5) | 3:00 |
-| 29 | [Guud Gurls](https://open.spotify.com/track/7dQdjn4JNuQKQBH167lbpL) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Guud Gurls](https://open.spotify.com/album/3N4VL4BAZZqz9S7sr3AoBu) | 3:10 |
+| 29 | [Guud Gurls](https://open.spotify.com/track/7dQdjn4JNuQKQBH167lbpL) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [Guud Gurls](https://open.spotify.com/album/3N4VL4BAZZqz9S7sr3AoBu) | 3:10 |
 | 30 | [Mind Control](https://open.spotify.com/track/2omGDi7r9x4nMMYMdDTu5j) | [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Mind Control](https://open.spotify.com/album/1RVUXJWDqtxbGwXlhPiOrU) | 4:00 |
 | 31 | [If You Drink](https://open.spotify.com/track/4N5nNgniSmesLahOLNYH3f) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX) | [If You Drink](https://open.spotify.com/album/3Pjf8FsAe7r6Yhq6gWXt3Q) | 3:26 |
 | 32 | [TYB](https://open.spotify.com/track/4JgivUzqL8t8tdHDFQiQMG) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [Hot Bullet](https://open.spotify.com/artist/4vDtyZl3NELBWbdvHQ28M5) | [Red Universe Vol\. 1](https://open.spotify.com/album/7qiF45veMNvi6PwN6oAbDk) | 2:52 |

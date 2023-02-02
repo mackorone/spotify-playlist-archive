@@ -4,7 +4,7 @@
 
 > Feel\-good tunes for your Cinco de Mayo\. ¡Salud!
 
-63 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/5MpfuYK4Taev1DBYtxOh5w)
+64 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [El Rey](https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH) | 2:34 | 2021-04-29 |  |
 | [El Shot](https://open.spotify.com/track/050LR97VqIBFqQ57IJUyHY) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [El Shot](https://open.spotify.com/album/52dvQjFBqkmznqKe9m8lVV) | 2:40 | 2021-04-29 | 2022-07-29 |
 | [El Shot](https://open.spotify.com/track/3WOvlY4vz3Phs99E4LldrB) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Entre Amigos y Enemigos](https://open.spotify.com/album/6LNAdiKJ1fg6Ql0hbIswxO) | 2:40 | 2022-05-02 | 2022-08-01 |
+| [El Shot](https://open.spotify.com/track/7Ay1aNyumjdw2fRWmy0xBx) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Entre Amigos y Enemigos](https://open.spotify.com/album/1hQIcRYED9BUiPqxtFGoeO) | 2:40 | 2023-01-09 |  |
 | [El Sonidito \- Urban Version](https://open.spotify.com/track/5FUDRZZrHzK2EA7nokdJWY) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx), [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Santana](https://open.spotify.com/artist/37tu48Y5bFE1LRuF5zDSfo) | [Super 1's Mega Hits](https://open.spotify.com/album/6V2aVcZUAtZ9k87BUFCvhP) | 3:20 | 2021-04-29 | 2022-07-28 |
 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 | 2022-05-02 |  |
 | [El Tucanazo](https://open.spotify.com/track/4oeXYGzdIY2ouB7nAaFRTh) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro\-Secuestro De Amor...Y Siguen Los Tucanes](https://open.spotify.com/album/54OgS974bLCe7kAArY5Ngr) | 2:54 | 2021-04-29 | 2022-07-29 |
@@ -60,7 +61,7 @@
 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 | 2021-04-29 |  |
 | [Soy El Diablo \- Remix](https://open.spotify.com/track/7pNAvsuTCFaXzSSUmfBPxz) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy El Diablo \(Remix\)](https://open.spotify.com/album/37zRKUEX9zhmGThutsr2Fo) | 3:13 | 2021-04-29 |  |
 | [Tequila \(Original\)](https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Tequila](https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C) | 2:10 | 2021-04-29 |  |
-| [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 | 2021-04-29 |  |
+| [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 | 2021-04-29 | 2023-01-25 |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 | 2021-04-29 | 2022-07-29 |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 3:58 | 2022-05-02 |  |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/7gYv9ktXSUTnDbinqxKrac) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Party 5 de Mayo](https://open.spotify.com/album/5annZVJtACVC5bugyiYOP5) | 3:58 | 2022-05-02 | 2022-11-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,979 likes - 55 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,235 likes - 55 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 32 | [Washing Machine](https://open.spotify.com/track/0W6qOqaBOeDrSjcCwzfyKh) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Godfathers of House](https://open.spotify.com/album/1aYVZSnAZdaUSkjlJpkEdO) | 4:24 |
 | 33 | [Bring Down the Walls \- Club 12" Mix](https://open.spotify.com/track/5B877qrirzwdOZUzNZ8GJj) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Sources \- The Trax Records Anthology Compiled by Bill Brewster](https://open.spotify.com/album/1k8Bqa4KCK7ihCuyljIoBC) | 5:37 |
 | 34 | [You Rock Me \- Long Version](https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz), [Mr White](https://open.spotify.com/artist/5aUUNSMJtijlIrD5RaBAOp) | [E.P.](https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm) | 6:12 |
-| 35 | [Deep Inside](https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/573BQbP4hPr12C32Np5XDW) | 6:32 |
+| 35 | [Deep Inside](https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/573BQbP4hPr12C32Np5XDW) | 6:30 |
 | 36 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
 | 37 | [Can't Get Enough \- Club](https://open.spotify.com/track/1Y1j6O3M0UFs508PiScqFA) | [Liz Torres](https://open.spotify.com/artist/7LI1GL4hWpWNZZqF0YOrBG) | [Original Acid House Tracks](https://open.spotify.com/album/2OAtpG4qmck9JB40ztJJpy) | 5:21 |
 | 38 | [On & On \- Original Mega](https://open.spotify.com/track/7jGhlI2LQVDSmgMpOxFfAH) | [Jesse Saunders](https://open.spotify.com/artist/6ZYa9hYoOGVzvQa2vmiVhi) | [20th Anniversary Of House Music Vol\. 1: On And On](https://open.spotify.com/album/71L0fEgCxlCw33XaWvpjYV) | 6:22 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 54 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
 | 55 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 |
 
-Snapshot ID: `MTYyMjUzMjY3MiwwMDAwMDAwMGM5MThhZmUwNjAzNGI4M2IzMTNmYmVjYmQwY2M3ZWIw`
+Snapshot ID: `MTY3NDU3NTk2NiwwMDAwMDAwMDhkZjhiMTI3YzY0MjliOGZjM2NhZWM3NTJmODI1MjIx`

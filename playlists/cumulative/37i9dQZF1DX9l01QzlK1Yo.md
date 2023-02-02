@@ -4,7 +4,7 @@
 
 > 50 highlights from 50 symphonic masterpieces, including favourites selected by the <a href="spotify:artist:5yxyJsFanEAuwSM5kOuZKc">orchestra</a> themselves, from collaborations with principal and guest conductors across <a href="http://lso.co.uk/">LSO</a>'s century\-long history, captured in state\-of\-the\-art recording technology.
 
-50 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/6esZAumoYI59fThCoBEPQe)
+50 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

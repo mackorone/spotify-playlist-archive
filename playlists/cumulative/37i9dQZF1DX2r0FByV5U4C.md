@@ -4,7 +4,7 @@
 
 > Saluting the songs and artists that have filled us with pride.
 
-32 songs - 1 hr 37 min - [published](https://open.spotify.com/playlist/7oBtRO88pL251qtAnj0xY5)
+32 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

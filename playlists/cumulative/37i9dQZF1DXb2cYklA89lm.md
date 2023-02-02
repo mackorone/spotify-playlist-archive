@@ -4,7 +4,7 @@
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-98 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/6c1YOrZpM9l4oCxY3cV0I7)
+98 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

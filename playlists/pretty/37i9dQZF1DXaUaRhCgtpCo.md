@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place\. Cover: Star Wars: Andor
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,176 likes - 115 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,523 likes - 115 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 71 | [Padmé](https://open.spotify.com/track/4ud5wmcUNNO4f9FkPw3FxA) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \(Seasons One Through Six/Original Soundtrack\)](https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC) | 1:39 |
 | 72 | [Anakin's Betrayal](https://open.spotify.com/track/4sLtmtKMmA5iCIa90tWhSe) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 4:05 |
 | 73 | [Peace and Purpose](https://open.spotify.com/track/5bhVXcAkmihE4YvKdGimxL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:06 |
-| 74 | [Cantina Song aka Mad About Mad About Me](https://open.spotify.com/track/03BiEbsMRrMkTNkgK5Bout) | [R3X](https://open.spotify.com/artist/2NMTE0NjCxiFqSWWnoizOe), [Figrin D'an and the Modal Nodes](https://open.spotify.com/artist/2zDOQCpjvoYQ1Igsm4ckbq) | [Star Wars: Galaxy's Edge Oga's Cantina: R3X's Playlist \#1](https://open.spotify.com/album/2UaqneQVFLgZ65ymj8h3Aj) | 2:54 |
+| 74 | [Cantina Song aka Mad About Mad About Me](https://open.spotify.com/track/03BiEbsMRrMkTNkgK5Bout) | [R3X](https://open.spotify.com/artist/3VIzopkfBcSr8aZWElLH4P), [Figrin D'an and the Modal Nodes](https://open.spotify.com/artist/2zDOQCpjvoYQ1Igsm4ckbq) | [Star Wars: Galaxy's Edge Oga's Cantina: R3X's Playlist \#1](https://open.spotify.com/album/2UaqneQVFLgZ65ymj8h3Aj) | 2:54 |
 | 75 | [Flying with Chewie](https://open.spotify.com/track/0qRkmCnPdsIWnXWHhSxGEe) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Solo: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm) | 3:30 |
 | 76 | [The Last Jedi](https://open.spotify.com/track/69qAhQ1p5kGzRpcVctqlgK) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:03 |
 | 77 | [Anakin's Dark Deeds](https://open.spotify.com/track/7E7lRhO18SHKnX3wzgp5kN) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 4:04 |

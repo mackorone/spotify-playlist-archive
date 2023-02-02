@@ -4,7 +4,7 @@
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-62 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/07IB4uo6shwfxg692bIhLi)
+62 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

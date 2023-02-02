@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/2jDVG4jC8ZtuQapoLqA6dk)
+56 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > What breaking up in the 2000s sounded like\. Cover: The Fray
 
-139 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/0RXg6mV3lO8rDLT1okHytk)
+139 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,9 +49,9 @@
 | [Everywhere](https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:34 | 2021-12-31 |  |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2021-12-31 |  |
 | [Far Away](https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 3:58 | 2021-12-31 |  |
-| [Feels Like Home](https://open.spotify.com/track/06qK8tWn0OQKMVPCDsmHtn) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [What If It All Means Something](https://open.spotify.com/album/7pMVUZBPHy7a8BwdlZwBNO) | 4:39 | 2021-12-31 |  |
+| [Feels Like Home](https://open.spotify.com/track/06qK8tWn0OQKMVPCDsmHtn) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [What If It All Means Something](https://open.spotify.com/album/7pMVUZBPHy7a8BwdlZwBNO) | 4:39 | 2021-12-31 | 2022-11-27 |
 | [Feels Like Home](https://open.spotify.com/track/54Vis12C7LsOy3LNus29u8) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Since We Met: The Best of 1996\-2006](https://open.spotify.com/album/67QWVDS41ddKIKYhlsJjJt) | 4:39 | 2021-12-31 | 2022-11-13 |
-| [Feels Like Home](https://open.spotify.com/track/7p8vwbbf9sMQbrdQrsmTlI) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [What If It All Means Something](https://open.spotify.com/album/7pgz5zZ0umsGd4vKNhR2lV) | 4:39 | 2021-12-31 | 2022-07-29 |
+| [Feels Like Home](https://open.spotify.com/track/7p8vwbbf9sMQbrdQrsmTlI) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [What If It All Means Something](https://open.spotify.com/album/7pgz5zZ0umsGd4vKNhR2lV) | 4:39 | 2021-12-31 |  |
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2021-12-31 |  |
 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 | 2021-12-31 |  |
 | [Hear You Me](https://open.spotify.com/track/0fQlm2MUzqGDBPkuqq4U1Y) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/1VbyDS3tGhe4iHfIJ7AMtr) | 4:44 | 2021-12-31 | 2022-07-29 |

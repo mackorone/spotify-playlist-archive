@@ -4,7 +4,7 @@
 
 > A classic playlist full of favorites of the 80s!
 
-69 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/3bzZIvwpqlDHx5QrRZ6uGM)
+69 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

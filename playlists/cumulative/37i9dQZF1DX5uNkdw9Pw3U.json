@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-25",
   "description": "Tough crowd.",
   "name": "Laid Back Beats",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -21,6 +20,24 @@
       "duration_ms": 195572,
       "name": "21",
       "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
+    },
+    {
+      "album": {
+        "name": "Aint Nobody",
+        "url": "https://open.spotify.com/album/3XZZMtIe6rGbp1SzK1NEBH"
+      },
+      "artists": [
+        {
+          "name": "EHI",
+          "url": "https://open.spotify.com/artist/7MlrqHRXsNIKRC17Dv5a0v"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179552,
+      "name": "Aint Nobody",
+      "url": "https://open.spotify.com/track/6pgdA6IkrWeDL5A4RsgbZJ"
     },
     {
       "album": {
@@ -61,6 +78,24 @@
       "duration_ms": 265373,
       "name": "Appletree",
       "url": "https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/6BB4Xczb32vmkRSPiLrUin"
+      },
+      "artists": [
+        {
+          "name": "DARKOWA",
+          "url": "https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 151750,
+      "name": "Aquarius",
+      "url": "https://open.spotify.com/track/3ESZfPBmzPc6nbjhy45dAD"
     },
     {
       "album": {
@@ -235,6 +270,28 @@
       "duration_ms": 266812,
       "name": "Come Home (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF"
+    },
+    {
+      "album": {
+        "name": "Sweet Insomnia",
+        "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185371,
+      "name": "Compromise (feat. Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn"
     },
     {
       "album": {
@@ -555,6 +612,28 @@
       "duration_ms": 222213,
       "name": "How You Want It?",
       "url": "https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g"
+    },
+    {
+      "album": {
+        "name": "TyrTape (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Natnael",
+          "url": "https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200168,
+      "name": "I Blodet (feat. Natnael)",
+      "url": "https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R"
     },
     {
       "album": {
@@ -905,7 +984,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 189092,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
@@ -1106,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "SECONDS 2 SUNRISE",
+        "url": "https://open.spotify.com/album/4T7BbFDYDSFMx8TKdsO8Lq"
+      },
+      "artists": [
+        {
+          "name": "Nadja Kasanesh",
+          "url": "https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa"
+        },
+        {
+          "name": "SALTI",
+          "url": "https://open.spotify.com/artist/7Ky7z39i1sO85ZQCRBz16e"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 173657,
+      "name": "SECONDS 2 SUNRISE",
+      "url": "https://open.spotify.com/track/3EZ2wPfs5QpjQejdd6KXVX"
+    },
+    {
+      "album": {
         "name": "Shirt",
         "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
       },
@@ -1153,7 +1254,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 216837,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u"
@@ -1357,10 +1458,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 248571,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4EYvuvqzUepdNaUlUZKVve"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6byhl93VRhXoV5kfnBrBPm"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5Gs53eDWyqSZmG8JN7dPeD"
     },
     {
       "album": {
@@ -1415,10 +1534,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 186268,
       "name": "Swim Home - From 13 Reasons Why - Season 3 Soundtrack",
       "url": "https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj"
+    },
+    {
+      "album": {
+        "name": "Sympati For Djevelen",
+        "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
+      },
+      "artists": [
+        {
+          "name": "L.U:N.A",
+          "url": "https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183692,
+      "name": "Sympati For Djevelen",
+      "url": "https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W"
     },
     {
       "album": {
@@ -1583,7 +1720,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 171489,
       "name": "Treat Me so Bad",
       "url": "https://open.spotify.com/track/4dbDErIOj0ltVciVcuQUle"

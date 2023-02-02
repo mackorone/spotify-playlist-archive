@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Groove to music from your Netflix Kids favorites! Cover: Spirit Rangers. ",
+  "description": "Groove to music from your Netflix Kids favorites! ",
   "name": "Netflix Kids Official Playlist",
-  "published_playlist_ids": [
-    "4OwNQpd4CKtVZ6h2qFxFa1"
-  ],
   "tracks": [
     {
       "album": {
@@ -630,7 +627,7 @@
         },
         {
           "name": "Zoe Saldana",
-          "url": "https://open.spotify.com/artist/0DrYjsSE82Jm1zbmoUUosu"
+          "url": "https://open.spotify.com/artist/6p59yGapoBAiuGKKu7Plw1"
         },
         {
           "name": "Gloria Estefan",
@@ -1274,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "My Dad The Bounty Hunter (from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5qpCeaWlKOBTxsD0AUf9W2"
+      },
+      "artists": [
+        {
+          "name": "EL3VATORS",
+          "url": "https://open.spotify.com/artist/2JSeIU13YALGPp9ctmKj5K"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114963,
+      "name": "My Dad The Bounty Hunter (from the Netflix Series)",
+      "url": "https://open.spotify.com/track/7Kb3hPsWavaBMRnOQhHCS0"
+    },
+    {
+      "album": {
         "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
         "url": "https://open.spotify.com/album/5GTREiFNEuWKCs9PM2GFLz"
       },
@@ -1498,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Princess Power Theme Song (from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1HZXJsFLRSufKj7HExLmG8"
+      },
+      "artists": [
+        {
+          "name": "Princess Power",
+          "url": "https://open.spotify.com/artist/48rvn0SQ8YkKH1wcjggkVr"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91480,
+      "name": "Princess Power Theme Song (from the Netflix Series)",
+      "url": "https://open.spotify.com/track/3FRY7aHuPSHpmwIbmTYUr0"
+    },
+    {
+      "album": {
         "name": "Karma\u2019s World",
         "url": "https://open.spotify.com/album/2WtR8Ymlpgvx3DXnZIrcAA"
       },
@@ -1588,6 +1625,28 @@
     },
     {
       "album": {
+        "name": "The Cuphead Show! (Songs from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2JsgSQKGfM6Ea0uQ4Pn9DS"
+      },
+      "artists": [
+        {
+          "name": "Ego Plum",
+          "url": "https://open.spotify.com/artist/3aDfKWabc9t1ahXCREyKEt"
+        },
+        {
+          "name": "Wayne Brady",
+          "url": "https://open.spotify.com/artist/1wLJTOL6Mz0AOni5EcH4v3"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141057,
+      "name": "Roll The Dice",
+      "url": "https://open.spotify.com/track/51VMGYFYpUnO9Aizfksbil"
+    },
+    {
+      "album": {
         "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0"
       },
@@ -1666,7 +1725,7 @@
         },
         {
           "name": "Zoe Saldana",
-          "url": "https://open.spotify.com/artist/0DrYjsSE82Jm1zbmoUUosu"
+          "url": "https://open.spotify.com/artist/6p59yGapoBAiuGKKu7Plw1"
         },
         {
           "name": "Leslie David Baker",

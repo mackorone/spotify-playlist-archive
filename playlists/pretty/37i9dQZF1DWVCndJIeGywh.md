@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCndJIeGywh.md) - [plain]
 
 > Relax and enjoy the best of British classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,328 likes - 40 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,534 likes - 40 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

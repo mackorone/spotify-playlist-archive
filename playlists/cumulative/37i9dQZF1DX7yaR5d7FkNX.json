@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-22",
   "description": "Disfrutemos del amor en los tiempos del rock.",
   "name": "Rocanlovers",
-  "published_playlist_ids": [
-    "5d9UavNO8FyfxzAd916POx"
-  ],
   "tracks": [
     {
       "album": {
@@ -988,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174586,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3"
+    },
+    {
+      "album": {
         "name": "Todo Es Temporal",
         "url": "https://open.spotify.com/album/5jvy9tGQi1NE0l8XAGZhC9"
       },
@@ -1303,10 +1318,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 199996,
       "name": "Ignis",
       "url": "https://open.spotify.com/track/5GHDwauerHo0VhYuHIEoGl"
+    },
+    {
+      "album": {
+        "name": "Ciclo Vol. I",
+        "url": "https://open.spotify.com/album/3yFhGVb5lE3KHRg4jHUoIh"
+      },
+      "artists": [
+        {
+          "name": "URSS Bajo el \u00c1rbol",
+          "url": "https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199996,
+      "name": "Ignis",
+      "url": "https://open.spotify.com/track/7cdjVBrIyoRxjbKbCLFWDx"
     },
     {
       "album": {
@@ -1487,10 +1520,28 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 204856,
       "name": "Lloro",
       "url": "https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
       "album": {
@@ -1635,6 +1686,24 @@
       "duration_ms": 237760,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
+    },
+    {
+      "album": {
+        "name": "Astronom\u00eda Interior",
+        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203880,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
     },
     {
       "album": {
@@ -2137,6 +2206,24 @@
       "duration_ms": 266615,
       "name": "Qu\u00edmicos",
       "url": "https://open.spotify.com/track/0suglut4Tkjn10qBssZluj"
+    },
+    {
+      "album": {
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249126,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
     },
     {
       "album": {

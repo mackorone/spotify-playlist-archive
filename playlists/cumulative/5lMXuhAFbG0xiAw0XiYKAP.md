@@ -4,7 +4,7 @@
 
 > 
 
-10 songs - 46 min 31 sec - [published](https://open.spotify.com/playlist/3M0BTzJldB9zOJswJibYsV)
+10 songs - 46 min 31 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

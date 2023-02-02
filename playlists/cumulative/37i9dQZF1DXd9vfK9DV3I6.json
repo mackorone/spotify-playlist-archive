@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-18",
   "description": "Electronic music with Mediterranean and Eastern influences.",
   "name": "mosaic",
-  "published_playlist_ids": [
-    "0PbRB1Ywucxq2SMOhx6qAp"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,6 +24,28 @@
       "duration_ms": 219508,
       "name": "3 to 1",
       "url": "https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu"
+    },
+    {
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "album": {
@@ -253,7 +272,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 187779,
       "name": "Anatolian Vibe",
       "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
@@ -391,10 +410,28 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 312125,
       "name": "Arabian Soul",
       "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
+    },
+    {
+      "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "album": {
@@ -829,7 +866,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 159864,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3unxpgWFIPcYAgr9Jmhz9p"
@@ -953,7 +990,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 405538,
       "name": "Delichones",
       "url": "https://open.spotify.com/track/6qiwOC5TeKXK4pDonIZxgR"
@@ -975,6 +1012,28 @@
       "duration_ms": 344464,
       "name": "Delina",
       "url": "https://open.spotify.com/track/7eJCU0qd9dvFVneR46G1os"
+    },
+    {
+      "album": {
+        "name": "Descalzo",
+        "url": "https://open.spotify.com/album/0i1fEBRGPphcPQTCzD3EHb"
+      },
+      "artists": [
+        {
+          "name": "Derun",
+          "url": "https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo"
+        },
+        {
+          "name": "ARKADYAN",
+          "url": "https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447680,
+      "name": "Descalzo",
+      "url": "https://open.spotify.com/track/2jcW2YUOaih8Gywf4hgL4b"
     },
     {
       "album": {
@@ -1190,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
+    },
+    {
+      "album": {
         "name": "Enta Omry Remix 2022",
         "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
       },
@@ -1230,6 +1307,32 @@
     },
     {
       "album": {
+        "name": "Estrela Do Mar (Turu Anasi Remix)",
+        "url": "https://open.spotify.com/album/6L2JZKq0BcB8yLjADtq4Ms"
+      },
+      "artists": [
+        {
+          "name": "Perspectiv",
+          "url": "https://open.spotify.com/artist/6moLRtxxKjxIV7s71NSxt7"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Turu Anasi",
+          "url": "https://open.spotify.com/artist/1HKyZXQv90cYQtoZQDya0d"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467008,
+      "name": "Estrela Do Mar - Turu Anasi Remix",
+      "url": "https://open.spotify.com/track/6pnEKbDzenW63MH86ckAsP"
+    },
+    {
+      "album": {
         "name": "Eternal Roots",
         "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
       },
@@ -1245,6 +1348,24 @@
       "duration_ms": 305005,
       "name": "Eternal Roots",
       "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "album": {
+        "name": "Ethnique",
+        "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
+      },
+      "artists": [
+        {
+          "name": "Yusuf Ek\u015fio\u011flu",
+          "url": "https://open.spotify.com/artist/4vmQIVTg6D7bAQw0BR5SMv"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167375,
+      "name": "Ethnique",
+      "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
     },
     {
       "album": {
@@ -1420,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "Fur",
+        "url": "https://open.spotify.com/album/2VntJqtkExVpftATLphtwV"
+      },
+      "artists": [
+        {
+          "name": "Ali Kuru",
+          "url": "https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV"
+        },
+        {
+          "name": "BuVu",
+          "url": "https://open.spotify.com/artist/7iNFWO5iE6bWNQefPQPdPy"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379840,
+      "name": "Fur",
+      "url": "https://open.spotify.com/track/4u6ljcfLSWPIeqCa94jRFu"
+    },
+    {
+      "album": {
         "name": "Give a Little",
         "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
       },
@@ -1581,7 +1724,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 171428,
       "name": "Hold On To Me",
       "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
@@ -1624,24 +1767,6 @@
     },
     {
       "album": {
-        "name": "Il Mattino",
-        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
-      },
-      "artists": [
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        }
-      ],
-      "date_added": "2022-06-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 331206,
-      "name": "Il Mattino",
-      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
-    },
-    {
-      "album": {
         "name": "Il mattino",
         "url": "https://open.spotify.com/album/0neoRDp75zHq73Q6TWKzPq"
       },
@@ -1660,6 +1785,28 @@
     },
     {
       "album": {
+        "name": "Il Mattino",
+        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
+      },
+      "artists": [
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331206,
+      "name": "Il Mattino",
+      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
+    },
+    {
+      "album": {
         "name": "Ilios",
         "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
       },
@@ -1671,6 +1818,10 @@
         {
           "name": "RisK (Gr)",
           "url": "https://open.spotify.com/artist/0ZfmG4J0veKfdBCeUyIA9H"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         },
         {
           "name": "Ghenwa Nemnom",
@@ -1967,7 +2118,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 681500,
       "name": "Khayyam",
       "url": "https://open.spotify.com/track/5XOYEJ3qSGxbZvRQEQVOYn"
@@ -2215,6 +2366,36 @@
       "duration_ms": 192262,
       "name": "Larg",
       "url": "https://open.spotify.com/track/66GUwtlP1t61yBOMwhBaAb"
+    },
+    {
+      "album": {
+        "name": "The Universe of Buddha Bar",
+        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Salah Hammadi",
+          "url": "https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355886,
+      "name": "Lbechra",
+      "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
     },
     {
       "album": {
@@ -2667,7 +2848,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 436000,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/1bgG555iCThxRR7lPeWkbz"
@@ -2909,6 +3090,24 @@
       "duration_ms": 172695,
       "name": "Nentori (feat. Arilena Ara)",
       "url": "https://open.spotify.com/track/6IluCTRwb67xmoxSKu5MyK"
+    },
+    {
+      "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "album": {
@@ -3213,7 +3412,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 198000,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0qibsqCSPmacinQXUT8swR"
@@ -3625,7 +3824,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 331562,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/0Rxy7OTbF4qa7zaVrk2b8l"
@@ -3869,6 +4068,10 @@
         {
           "name": "Mozkai",
           "url": "https://open.spotify.com/artist/7rWNHtHH7p8ymnKcXL35r1"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         }
       ],
       "date_added": "2022-06-27",
@@ -3949,7 +4152,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 182222,
       "name": "Stair at the light",
       "url": "https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj"
@@ -4117,7 +4320,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-06",
       "duration_ms": 274889,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o"
@@ -4239,24 +4442,6 @@
     {
       "album": {
         "name": "Riviera",
-        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
-      },
-      "artists": [
-        {
-          "name": "IV-IN",
-          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
-        }
-      ],
-      "date_added": "2022-06-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262641,
-      "name": "Vestido Preto",
-      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
-    },
-    {
-      "album": {
-        "name": "Riviera",
         "url": "https://open.spotify.com/album/1jl0dMITPG9dJx4KBsMbD9"
       },
       "artists": [
@@ -4271,6 +4456,28 @@
       "duration_ms": 262641,
       "name": "Vestido Preto",
       "url": "https://open.spotify.com/track/6xbeN3grl6kAKBSvgIOxOT"
+    },
+    {
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY"
+      },
+      "artists": [
+        {
+          "name": "IV-IN",
+          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262641,
+      "name": "Vestido Preto",
+      "url": "https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl"
     },
     {
       "album": {
@@ -4333,6 +4540,28 @@
       "duration_ms": 182505,
       "name": "Whenever You Go (La La La)",
       "url": "https://open.spotify.com/track/3YVnOK6dOqXFXbbPKOmmBB"
+    },
+    {
+      "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "album": {
@@ -4473,7 +4702,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 268351,
       "name": "Yorgunum Kaptan",
       "url": "https://open.spotify.com/track/4jSLy6yaQLomhIpcpxCryu"
@@ -4542,6 +4771,32 @@
     },
     {
       "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+    },
+    {
+      "album": {
         "name": "Zagora",
         "url": "https://open.spotify.com/album/2m3l8T67d9WqovM8yLfaeJ"
       },
@@ -4579,7 +4834,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 325165,
       "name": "Zagora",
       "url": "https://open.spotify.com/track/4ePH0udOkmmaS6CEASnj7N"
@@ -4627,6 +4882,24 @@
       "duration_ms": 470624,
       "name": "Zid Lmel",
       "url": "https://open.spotify.com/track/3sqQqUMYB5HqyzIE9XRcyp"
+    },
+    {
+      "album": {
+        "name": "The Universe of Buddha Bar",
+        "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
+      },
+      "artists": [
+        {
+          "name": "OSENS",
+          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291576,
+      "name": "ZMAN",
+      "url": "https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz"
     },
     {
       "album": {

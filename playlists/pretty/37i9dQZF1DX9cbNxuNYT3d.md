@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,415 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,244 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 4 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
 | 5 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 |
 | 6 | [If I Ever Feel Better](https://open.spotify.com/track/1Rcv4ZShoftlDh5dZ3JUVf) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [If I Ever Feel Better](https://open.spotify.com/album/0LCOGmBBXonkoUQyoH7w0j) | 3:42 |
-| 7 | [You Are My High](https://open.spotify.com/track/4HUMMFH06dIfzUG2ht1BJN) | [Demon](https://open.spotify.com/artist/4LiDDSfUo671okhAa6OSHY) | [Midnight Funk](https://open.spotify.com/album/3QiAIhmPhyyTWhFoqXexat) | 3:49 |
-| 8 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/0LjTqBwFKfblqnuuDCH2Sw) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 3:57 |
-| 9 | [Lucky Star \(feat\. Ron Carroll\)](https://open.spotify.com/track/3JhAETPmy2RZSLTZ6FmcHp) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Hold Up](https://open.spotify.com/album/7ECP8AzznFSErmzzik305h) | 4:55 |
-| 10 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 |
+| 7 | [Flat Beat \- Radio Edit](https://open.spotify.com/track/0LjTqBwFKfblqnuuDCH2Sw) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 3:57 |
+| 8 | [Lucky Star](https://open.spotify.com/track/3JhAETPmy2RZSLTZ6FmcHp) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Hold Up](https://open.spotify.com/album/7ECP8AzznFSErmzzik305h) | 4:55 |
+| 9 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 |
+| 10 | [You Are My High](https://open.spotify.com/track/4HUMMFH06dIfzUG2ht1BJN) | [Demon](https://open.spotify.com/artist/4LiDDSfUo671okhAa6OSHY) | [Midnight Funk](https://open.spotify.com/album/3QiAIhmPhyyTWhFoqXexat) | 3:49 |
 | 11 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
 | 12 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 13 | [Intro](https://open.spotify.com/track/60hb5H9yL4P4SPz7lrTvUw) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running](https://open.spotify.com/album/2OazLMNTr5Vf2YmetCJshL) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 49 | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/track/3ovilBTxhYtCNeH92D0uu8) | [Bel Amour](https://open.spotify.com/artist/7eFsGtN5h45mGFpi75IjKo) | [Bel Amour \(Classic Vocal Mix\)](https://open.spotify.com/album/6TnjDo2gzEmY0KCMsyJWrA) | 5:24 |
 | 50 | [Cut Dick](https://open.spotify.com/track/4sqZAKBTC4a2x1Ivil7h36) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 |
 
-Snapshot ID: `MTY2MjExMjgwMCwwMDAwMDAwMGZhYzg1N2E5ODc3ZTQxNGQ3OWEyZmU1MGVlNTEyMDQ3`
+Snapshot ID: `MTY3MTE2NDc4MCwwMDAwMDAwMGUyZTI4YzBhMDFjODVkYzM5YTI5ODM1NzRhMWU3ZTZj`

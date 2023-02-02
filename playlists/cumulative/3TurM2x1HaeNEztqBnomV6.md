@@ -4,7 +4,7 @@
 
 > Get through your workday with 8 hours of singer\-songwriter tunes.
 
-123 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/3zhtjDFWRvY6CI0Miu4Cpf)
+123 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

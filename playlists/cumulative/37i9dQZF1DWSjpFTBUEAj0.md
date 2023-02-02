@@ -4,7 +4,7 @@
 
 > A total apocalypse of the heart.
 
-129 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/1CtDWZwUz2r2X3MQ27jzF2)
+129 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

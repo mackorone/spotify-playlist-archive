@@ -4,7 +4,7 @@
 
 > Kick back to the soothing sounds of the Ukulele...
 
-66 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/5kx3r9YtSZYk38uX4TbE3b)
+66 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Yesterday](https://open.spotify.com/track/3SdPIwKA7dmxrYJIs63KCj) | [Winton Pearl](https://open.spotify.com/artist/5eM9121fISPjCeJjixEnqZ) | [You Are The Sunshine Of My Life](https://open.spotify.com/album/5gCYcWDJ34dH9oV2zWeaKi) | 2:35 | 2021-11-12 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/5WPzdUWZbMgJIOJ07Jgv7O) | [Honolulu Jack](https://open.spotify.com/artist/26YYA34VUK9sdsFLw1Hn1Y) | [Honolulu Jack](https://open.spotify.com/album/0HuD2eiPtxujR7wwQNQn29) | 3:01 | 2021-11-12 |  |
 | [You Are The Sunshine](https://open.spotify.com/track/1x0McHFiqkUOo7sqzMADmc) | [Ailani Akoni](https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k) | [Ipanema](https://open.spotify.com/album/6aDeFSTaYOrxoNKtjKtihO) | 3:08 | 2021-11-12 |  |
-| [イン・マイ・ライフ](https://open.spotify.com/track/2Im6Jdx18HFgxDz8zegDgB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:30 | 2022-04-15 |  |
-| [オーバー・ザ・レインボー](https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:13 | 2022-04-15 |  |
+| [イン・マイ・ライフ](https://open.spotify.com/track/2Im6Jdx18HFgxDz8zegDgB) | [ジェイク・シマブクロ](https://open.spotify.com/artist/4SpnYDbksWPYtKE31zCE1v) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:30 | 2022-04-15 |  |
+| [オーバー・ザ・レインボー](https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P) | [ジェイク・シマブクロ](https://open.spotify.com/artist/4SpnYDbksWPYtKE31zCE1v) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 4:13 | 2022-04-15 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

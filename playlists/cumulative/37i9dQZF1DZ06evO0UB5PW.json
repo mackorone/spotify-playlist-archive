@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-31",
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
   "name": "This Is Mastodon",
-  "published_playlist_ids": [
-    "6BSA9slljRH4cdN4bRj9CH"
-  ],
   "tracks": [
     {
       "album": {
@@ -152,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Once More 'Round the Sun",
+        "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 332040,
+      "name": "Chimes at Midnight",
+      "url": "https://open.spotify.com/track/4KYy8DKz2E9DSnlgN0YJOs"
+    },
+    {
+      "album": {
         "name": "Cold Dark Place",
         "url": "https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv"
       },
@@ -163,7 +178,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 359400,
       "name": "Cold Dark Place",
       "url": "https://open.spotify.com/track/23CIAx7uGrtUH5CwRf3BC5"
@@ -487,7 +502,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 476426,
       "name": "Jaguar God",
       "url": "https://open.spotify.com/track/7lGOFEVWK0jzpLMFuR4ANh"
@@ -757,7 +772,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 327480,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79"
@@ -1009,7 +1024,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 780626,
       "name": "The Last Baron",
       "url": "https://open.spotify.com/track/6MUc3qu8WOqO7hAY6gdhJY"
@@ -1139,6 +1154,24 @@
       "duration_ms": 260338,
       "name": "White Walker",
       "url": "https://open.spotify.com/track/3jGDbNotjMR5CNaeIg0f1O"
+    },
+    {
+      "album": {
+        "name": "Emperor of Sand",
+        "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240280,
+      "name": "Word to the Wise",
+      "url": "https://open.spotify.com/track/2aYtAI8xvZLUTZPYZMC6ad"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UB5PW"

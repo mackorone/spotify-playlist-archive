@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
   "name": "60s Latino",
-  "published_playlist_ids": [
-    "45Y4ADhIS41wJfzyX9AM1P"
-  ],
   "tracks": [
     {
       "album": {
@@ -1334,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126333,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH"
+    },
+    {
+      "album": {
         "name": "Perez Prado - Mambo",
         "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
       },
@@ -1345,7 +1360,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 127360,
       "name": "Patricia",
       "url": "https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D"

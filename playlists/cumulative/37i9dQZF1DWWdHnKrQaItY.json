@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Run, dance, jump, and play with this kid-approved workout playlist!",
   "name": "Kids Workout",
-  "published_playlist_ids": [
-    "1jY7LJwYF6jzt4YuqIk0Gc"
-  ],
   "tracks": [
     {
       "album": {
@@ -189,6 +186,24 @@
       "duration_ms": 206493,
       "name": "Boy With Luv",
       "url": "https://open.spotify.com/track/5qYFV3xGkdKrIWr45QCxoQ"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214796,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/3E7YGBqvTKt4eVDXXEWfyM"
     },
     {
       "album": {
@@ -809,10 +824,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 83291,
       "name": "Head, Shoulders, Knees and Toes",
       "url": "https://open.spotify.com/track/4izXmYE9U6clkv5uAyVEN7"
+    },
+    {
+      "album": {
+        "name": "Songs for Kids: Classic Children's Music",
+        "url": "https://open.spotify.com/album/6oqSFrJ6Et7ZOkV7VVjthq"
+      },
+      "artists": [
+        {
+          "name": "Toddler Tunes",
+          "url": "https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83291,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/5FrKs0gJEathso1k99PiO5"
     },
     {
       "album": {
@@ -1753,7 +1786,7 @@
       },
       "artists": [
         {
-          "name": "The MikMaks",
+          "name": "The Mik Maks",
           "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
         }
       ],

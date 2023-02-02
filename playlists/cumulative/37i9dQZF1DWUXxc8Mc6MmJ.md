@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-203 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/65XrvyNxHjIi48t0HlAgZq)
+203 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,11 +57,11 @@
 | [Falling Flower \(Dajung Ver.\)](https://open.spotify.com/track/4VqXGpj0uRNhN1xu4T4ZJu) | [seo hyun jin](https://open.spotify.com/artist/56kr7ithHAvEeInwvWJoRs) | [You Are My Spring OST Part 9](https://open.spotify.com/album/2hxR84Q3tHUdh5eelpgBMP) | 3:47 | 2022-05-11 | 2022-07-09 |
 | [Falling In Love](https://open.spotify.com/track/1RkWrJvmavMNPEXIGXskQS) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The Beauty In?](https://open.spotify.com/album/27D2iMQytWqdB6tQoGTtgU) | 3:46 | 2022-05-11 | 2022-07-29 |
 | [Flower](https://open.spotify.com/track/0GVKkD74xcixRYYG3zv1NL) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/23CJ3PKYKeljAzr1glLmAh) | 4:12 | 2022-05-11 | 2022-07-28 |
-| [Flower](https://open.spotify.com/track/2m5Ex34NOwIWOwHthEqLco) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4) | 4:12 | 2022-06-24 | 2022-11-13 |
+| [Flower](https://open.spotify.com/track/2m5Ex34NOwIWOwHthEqLco) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3RJg3rTiDi2r9HJTkARqy4) | 4:12 | 2022-06-24 |  |
 | [For You](https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R) | 3:16 | 2022-05-11 |  |
 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2022-06-09 |  |
 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 | 2022-05-11 | 2022-11-13 |
-| [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-06-24 |  |
+| [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-06-24 | 2022-12-30 |
 | [Good night](https://open.spotify.com/track/6j83pV2teTPtRHRWwNvEPt) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Touch your heart OST Part.5](https://open.spotify.com/album/536UpkeZXMdaTfCZftgWjw) | 3:57 | 2022-05-11 | 2022-07-29 |
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-06-09 |  |
 | [Goodbye](https://open.spotify.com/track/1Pm3fwUfQWp8nBvcT6ByWz) | [Soyou](https://open.spotify.com/artist/7Eu1Td5FeUk2mNfcpCOfch) | [Oh My Baby \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0cWcD7Sm8y6lLxJgMTDieG) | 3:56 | 2022-06-24 | 2022-07-17 |

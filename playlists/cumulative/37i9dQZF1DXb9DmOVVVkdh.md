@@ -4,7 +4,7 @@
 
 > This story collection is sure to please even the biggest animal lover!
 
-42 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/2ZFdEYa8MNowGAcBV5T27q)
+42 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

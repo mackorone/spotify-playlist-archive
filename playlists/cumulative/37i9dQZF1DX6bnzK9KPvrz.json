@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The essential tracks from The Weeknd.",
   "name": "This Is The Weeknd",
-  "published_playlist_ids": [
-    "6uoeuT1V3h46eQ4ThAisl4"
-  ],
   "tracks": [
     {
       "album": {
@@ -225,6 +222,32 @@
       "duration_ms": 213520,
       "name": "Can't Feel My Face",
       "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
       "album": {
@@ -1154,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267504,
+      "name": "Nothing Is Lost (You Give Me Strength)",
+      "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
+    },
+    {
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -1165,7 +1206,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 198653,
       "name": "Nothing Without You",
       "url": "https://open.spotify.com/track/57qiTKh8bVX0VtfUNTQqhw"
@@ -1541,7 +1582,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 232880,
       "name": "Rockin\u2019",
       "url": "https://open.spotify.com/track/36YCdzT57us0LhDmCYtrNE"

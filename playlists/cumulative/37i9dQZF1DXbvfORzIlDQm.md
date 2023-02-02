@@ -4,7 +4,7 @@
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-72 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/1wp9q6mgZAPtFlSyAaNYpg)
+72 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

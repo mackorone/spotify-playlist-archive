@@ -1,13 +1,33 @@
 {
   "description": "Epic playlist full of amazing cyperpunk-themed Synthwave &#x2F; Retrowave. Updated regularly.",
-  "num_followers": 9557,
+  "num_followers": 9510,
   "original_name": "Cyberpunk Synthwave",
   "owner": {
     "name": "Squares",
     "url": "https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht"
   },
-  "snapshot_id": "Nzc5LDk2ZDdhNDMzNjhiZmNhNDM0Mzc0ZTVkNjY1M2U1NTAzYjZlOTZhMDk=",
+  "snapshot_id": "NzgxLGZhMWE1NTk4NTUxODc4ZjZjNTY1ODMxODY2NDYyZjBlY2E4MzRjNTA=",
   "tracks": [
+    {
+      "added_at": "2022-12-09 07:22:22",
+      "album": {
+        "name": "Nexus",
+        "url": "https://open.spotify.com/album/1v8Rd25usJ3DblzOzBtoyV"
+      },
+      "artists": [
+        {
+          "name": "Miles Matrix",
+          "url": "https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ"
+        },
+        {
+          "name": "divmod",
+          "url": "https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Nexus",
+      "url": "https://open.spotify.com/track/67H6EbmguJyi0zbVzuTxBn"
+    },
     {
       "added_at": "2020-12-14 15:05:17",
       "album": {

@@ -4,7 +4,7 @@
 
 > Enjoy the soundtrack of My Liberation Notes! \(드라마 나의 해방일지의 사운드트랙을 즐겨보세요!\)
 
-54 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/62cw700OKlGcg6miqLSOk7)
+54 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

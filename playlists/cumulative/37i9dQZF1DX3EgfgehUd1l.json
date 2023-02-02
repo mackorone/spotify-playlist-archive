@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Vintage easy listening from the fifties...",
   "name": "Easy 50s",
-  "published_playlist_ids": [
-    "2jXYw271QWNTNjZdsrC7FY"
-  ],
   "tracks": [
     {
       "album": {
@@ -145,7 +142,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 156400,
       "name": "A Tear Fell",
       "url": "https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2"
@@ -243,7 +240,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-29",
       "duration_ms": 140360,
       "name": "A Woman in Love (with Percy Faith & His Orchestra)",
       "url": "https://open.spotify.com/track/428F8FMidC2u1ZHXNaeMuK"
@@ -405,7 +402,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-24",
       "duration_ms": 160346,
       "name": "Auf Wiederseh'n Sweetheart - 2017 Version",
       "url": "https://open.spotify.com/track/3rIhZKroSQQjNcgGQsdaJF"
@@ -517,7 +514,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 143266,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK"
@@ -1137,7 +1134,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 137813,
       "name": "Fabulous",
       "url": "https://open.spotify.com/track/651vnKG8ShxwfKhpJULfhW"
@@ -1645,7 +1642,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 147706,
       "name": "I'm Sorry I Made You Cry",
       "url": "https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr"
@@ -3657,7 +3654,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 179373,
       "name": "The Black Hills of Dakota",
       "url": "https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7"
@@ -4079,6 +4076,24 @@
       "duration_ms": 181626,
       "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
       "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140306,
+      "name": "Walkin' My Baby Back Home",
+      "url": "https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt"
     },
     {
       "album": {

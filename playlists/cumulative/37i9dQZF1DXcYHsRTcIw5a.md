@@ -4,7 +4,7 @@
 
 > Get ready, to do, do rocksteady
 
-93 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/5E2s1kfen5rRaZahEjSJBP)
+93 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

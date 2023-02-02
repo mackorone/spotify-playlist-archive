@@ -4,7 +4,7 @@
 
 > Pre\-game music to get you pumped up before heading out for the night.
 
-38 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/6E9Wbmh47ePP5eDeyJoemD)
+38 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

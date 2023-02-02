@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaw68inx4UiN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaw68inx4UiN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaw68inx4UiN)
 
-### [Sounds of the Rain Forest](https://open.spotify.com/playlist/37i9dQZF1DXaw68inx4UiN)
+### [Rain Forest Sounds](https://open.spotify.com/playlist/37i9dQZF1DXaw68inx4UiN)
 
 > Recordings from the tropical rainforest
 
-83 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/2IGFxvMJkgpydS1w8Mozy7)
+83 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

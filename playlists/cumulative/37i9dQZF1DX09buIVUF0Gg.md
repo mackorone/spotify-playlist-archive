@@ -4,7 +4,7 @@
 
 > For time with family + friends.
 
-40 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/1i17XwBqCrC6tVU9jaq6Dt)
+40 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

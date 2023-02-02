@@ -4,7 +4,7 @@
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-110 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/7b1BQYuQIj2i5nZNS1UeKq)
+110 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

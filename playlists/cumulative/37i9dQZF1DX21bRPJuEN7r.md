@@ -4,7 +4,7 @@
 
 > Updated every week @Composer Weekly\. An introduction to composer Michael Nyman, one of the most influential and popular classical composers of our time.
 
-30 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/2EoGy9bZC4FEaD9hCR4x0I)
+30 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

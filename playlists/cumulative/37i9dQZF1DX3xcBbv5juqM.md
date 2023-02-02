@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2001! Cover: Destiny's Child
 
-136 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/2GHm1y4c22CAUSNVFazqSt)
+136 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

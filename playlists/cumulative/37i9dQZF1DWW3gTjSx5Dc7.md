@@ -4,7 +4,7 @@
 
 > This is the essential Axwell Λ Ingrosso.
 
-29 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/1qlQS0dicA7ZrDFellq1LG)
+29 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

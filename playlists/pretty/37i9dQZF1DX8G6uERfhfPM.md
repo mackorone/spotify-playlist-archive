@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G6uERfhfPM.md) - [plain]
 
 > Best of the Jazz music scene in India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,755 likes - 71 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,216 likes - 71 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I'll Be With You](https://open.spotify.com/track/1cPRsjayiASoq23P6Qn9sn) | [Apartment Upstairs](https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk), [Doc Awes](https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes), [Abhay Sharma](https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3), [Fakeer](https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf) | [I'll Be With You](https://open.spotify.com/album/5MSJrMjqWAWs1H64tXzuqR) | 3:42 |
+| 1 | [I'll Be With You](https://open.spotify.com/track/7a0i3hGEInHBswOYD5KaH4) | [Apartment Upstairs](https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk), [Doc Awes](https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes), [Abhay Sharma](https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3), [Fakeer](https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf) | [I'll Be With You](https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q) | 3:42 |
 | 2 | [Ang](https://open.spotify.com/track/3ZW5G72Y1lM3NyjUUd3vvD) | [Pakshee](https://open.spotify.com/artist/6UP5gZf6GHQRegEkCDQMvh), [Brian Plautz](https://open.spotify.com/artist/74yUHy6niUeXyndHvuQoNY) | [Pakshee](https://open.spotify.com/album/3si2hUnaDjTT9MslMfZEjB) | 5:24 |
 | 3 | [Evelyn](https://open.spotify.com/track/2YxlHwU6LoOZ3cNIC45nYF) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn) | [Evelyn](https://open.spotify.com/album/12ZbwLWokVcsskgVKiOucD) | 5:21 |
 | 4 | [What a Dream](https://open.spotify.com/track/5hVk0XD7cEn2au9eYUD3fD) | [Doctor Gosso & the Samplers](https://open.spotify.com/artist/1evlSNsQeX4LimNdMSrNRu), [Gemini Trio](https://open.spotify.com/artist/2L4MWYldAOhv401lelQSBo) | [What a Dream](https://open.spotify.com/album/1pujaXCMpZQtBT8wMq1C6g) | 4:36 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G6uERfhfPM.md) - [plain]
 | 70 | [Odyssey](https://open.spotify.com/track/1D8rQekX3Fv0IslJZdcSAC) | [MND FLO](https://open.spotify.com/artist/3frRoSAiJMO7j7ybeVXiVD) | [From Time](https://open.spotify.com/album/0DvwMXi3zRiWKotEUC7xrS) | 6:09 |
 | 71 | [India](https://open.spotify.com/track/4NZXQBEbbuf6gnK44B1ZXv) | [Shakti](https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [A HANDFUL OF BEAUTY \(with John McLaughlin\)](https://open.spotify.com/album/1mfJkWGwzdCc5Vo6lZBFwu) | 12:38 |
 
-Snapshot ID: `MTY2ODc3Njg5MCwwMDAwMDAwMDVlZTYyYjEwYmU3MGEyMjMyNzlkMTEzNTY2NjlmOWQ2`
+Snapshot ID: `MTY3MTAyOTU4MSwwMDAwMDAwMGZmMGVlYjg2OTM3MTg4MTYyOTI3YzhiOWNjYjE0MmNm`

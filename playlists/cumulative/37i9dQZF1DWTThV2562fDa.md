@@ -4,7 +4,7 @@
 
 > Enjoy the soundtracks of the Netflix original Korean drama Squid Game\. \(전세계를 강타한 넷플릭스 오리지널 한국 드라마 오징어게임의 사운드 트랙들을 즐겨보세요!\)
 
-26 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/2FG2Z77mzlSjeorsiIuPMm)
+26 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

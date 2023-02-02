@@ -4,7 +4,7 @@
 
 > Discover the 2022 Best Original Score nominations alongside Oscar\-winning soundtracks from the past 80 years.
 
-79 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/3KijMwC9mkEPSY5VXnu8uA)
+80 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Don't Look Up \- Main Title Suite \- Bonus Track](https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:08 | 2022-02-17 |  |
 | [E.T.: Flying Theme](https://open.spotify.com/track/0kPJiaHI6ag6WwAHZByM98) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams: Movie Time](https://open.spotify.com/album/7hGLXhjkGaIANo5TXOxQcG) | 3:45 | 2022-02-17 | 2022-11-20 |
 | [E.T.: Flying Theme](https://open.spotify.com/track/1eWQqFvLLxFJZju4IAQYSl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams Study](https://open.spotify.com/album/11PoAFYXpxVtkH09PQlHnm) | 3:45 | 2022-02-17 | 2022-11-13 |
-| [E.T.: Flying Theme](https://open.spotify.com/track/3kc4Em0sUhRf4uqnKA6i6L) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Work From Home With John Williams](https://open.spotify.com/album/174Z59HgCVdLmyU43Trig8) | 3:45 | 2022-02-17 | 2022-11-22 |
-| [E.T.: Flying Theme](https://open.spotify.com/track/6YGpaCVhgL7NEAZdeEzXDa) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams: Movie Classics](https://open.spotify.com/album/22DoqSiBPmPoOutaCwO5Io) | 3:45 | 2022-02-17 |  |
+| [E.T.: Flying Theme](https://open.spotify.com/track/1v0o6MudYexULBrg3D7Sor) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Boston Pops Orchestra: John Williams](https://open.spotify.com/album/7iRFgaSYl02xfqnv6VReZJ) | 3:45 | 2022-02-17 | 2023-01-09 |
+| [E.T.: Flying Theme](https://open.spotify.com/track/3kc4Em0sUhRf4uqnKA6i6L) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Work From Home With John Williams](https://open.spotify.com/album/174Z59HgCVdLmyU43Trig8) | 3:45 | 2022-02-17 |  |
+| [E.T.: Flying Theme](https://open.spotify.com/track/6YGpaCVhgL7NEAZdeEzXDa) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams: Movie Classics](https://open.spotify.com/album/22DoqSiBPmPoOutaCwO5Io) | 3:45 | 2022-02-17 | 2022-12-10 |
 | [E.T.: Flying Theme](https://open.spotify.com/track/6ZVDVgsTJmjJQKqH2nwgZL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams: Innovations](https://open.spotify.com/album/4xaxOfgG41pLLsljxUlq3l) | 3:45 | 2022-02-17 | 2022-11-11 |
 | [E.T.: Flying Theme](https://open.spotify.com/track/6e6cR3LYjk1HcwWwpGHRJy) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams: Movie Soundtracks](https://open.spotify.com/album/0hrFuFzbvw67pvTBzobhjn) | 3:45 | 2022-02-17 | 2022-09-11 |
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2022-02-17 |  |

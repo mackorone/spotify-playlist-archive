@@ -4,7 +4,7 @@
 
 > Silly\-walk your way through the entire Monty Python catalogue.
 
-436 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/4ejvCZTWCzBUGQkOvQzubQ)
+436 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

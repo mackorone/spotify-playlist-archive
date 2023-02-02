@@ -4,7 +4,7 @@
 
 > Relax to the sounds of the kora.
 
-133 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/5YL0tdMxwypZE5ZeRT09hJ)
+133 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

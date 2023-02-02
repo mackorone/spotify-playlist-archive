@@ -4,7 +4,7 @@
 
 > The legendary Bollywood singer's classics.
 
-77 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/1i2b8bRXO6EmhftfoOqoZx)
+77 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

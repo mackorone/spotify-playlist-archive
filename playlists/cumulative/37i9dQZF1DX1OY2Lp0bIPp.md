@@ -4,7 +4,7 @@
 
 > Giving motivation to your Monday\. You got this!
 
-240 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/0X6TOoiYfTcPrHrYMRW2LE)
+240 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk) | 3:06 | 2020-08-27 | 2022-07-29 |
 | [Faith \- Remastered](https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 3:13 | 2020-08-27 | 2022-07-29 |
 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 | 2020-08-27 |  |
-| [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 | 2020-08-27 | 2022-11-26 |
+| [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 | 2020-08-27 | 2022-12-04 |
 | [Firework](https://open.spotify.com/track/4TVuirwgzxe9fWRBoWtPpq) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/6xfXgolXzcKzk77P3b3MeZ) | 3:47 | 2020-08-27 | 2022-07-29 |
 | [Firework](https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2020-08-27 |  |
 | [Flowers \(feat\. Jaykae and MALIKA\)](https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Malika](https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb) | [Flowers \(feat\. Jaykae and MALIKA\)](https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio) | 3:17 | 2020-08-27 | 2022-07-29 |
@@ -197,7 +197,7 @@
 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 | 2020-08-27 |  |
 | [Something's Got To Give](https://open.spotify.com/track/56khZQKfmdTikYbbZLgxAY) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Something's Got To Give](https://open.spotify.com/album/2m1jbkWuYYobsYQikrM0Bp) | 3:49 | 2020-08-27 | 2022-07-29 |
 | [Sometimes](https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL) | 3:16 | 2020-08-27 | 2022-10-13 |
-| [Sometimes](https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh) | 3:16 | 2020-08-27 | 2022-11-13 |
+| [Sometimes](https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [Erratic Cinematic](https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh) | 3:16 | 2020-08-27 | 2023-01-20 |
 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 | 2020-08-27 |  |
 | [Song 4 Mutya \(Out Of Control\)](https://open.spotify.com/track/08oDoZiAYgEqh7Tzr5wRVV) | [Mutya Buena](https://open.spotify.com/artist/1g5PorBgjWrL60NdotRE6Q), [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Real Girl](https://open.spotify.com/album/18EjOWuILmihCbwNbx6w44) | 3:30 | 2020-08-27 | 2022-07-29 |
 | [Star Girl](https://open.spotify.com/track/4XJgkeu052kEf1AIfXDlHQ) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Motion In The Ocean](https://open.spotify.com/album/52NqsDEcVsZafm5zE7Pigt) | 3:27 | 2020-08-27 | 2022-07-29 |

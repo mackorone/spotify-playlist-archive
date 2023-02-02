@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Need to get your energy level up?",
   "name": "Energy Booster: Dance",
-  "published_playlist_ids": [
-    "2vm7Zsmtx3aOQOSoSAckj2"
-  ],
   "tracks": [
     {
       "album": {
@@ -443,7 +440,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
@@ -696,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
+    {
+      "album": {
         "name": "Better When You're Gone",
         "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
       },
@@ -715,7 +730,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 192402,
       "name": "Better When You're Gone",
       "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
@@ -1082,7 +1097,7 @@
     },
     {
       "album": {
-        "name": "Strange Fruits Music",
+        "name": "Dance Fruits Music",
         "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
       },
       "artists": [
@@ -1153,7 +1168,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 140631,
       "name": "Call Me Papi (feat. Dawty Music)",
       "url": "https://open.spotify.com/track/0FXEr1tdiBcLsnLSG8ol2l"
@@ -1263,7 +1278,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Castles - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
@@ -1565,7 +1580,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-28",
       "duration_ms": 179047,
       "name": "Cutting Shapes",
       "url": "https://open.spotify.com/track/3hENlPbIlUZXQ3MiosF87Q"
@@ -2998,7 +3013,7 @@
     },
     {
       "album": {
-        "name": "How Deep is Your Love",
+        "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
       "artists": [
@@ -3015,7 +3030,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212640,
-      "name": "How Deep is Your Love",
+      "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     },
     {
@@ -4011,6 +4026,28 @@
     {
       "album": {
         "name": "The Wave",
+        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
+    },
+    {
+      "album": {
+        "name": "The Wave",
         "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
       },
       "artists": [
@@ -4025,7 +4062,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 160183,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
@@ -4914,6 +4951,28 @@
     },
     {
       "album": {
+        "name": "Feel Again, Pt. 2",
+        "url": "https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148095,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1UktZnwuS1reRmRtli8QS9"
+    },
+    {
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
       },
@@ -5767,7 +5826,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 190312,
       "name": "Sao Paulo",
       "url": "https://open.spotify.com/track/6XubRj327VPMQCUgJJpCub"
@@ -5959,7 +6018,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 152903,
       "name": "Shooting Darts (with R3HAB & Prezioso)",
       "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
@@ -7647,7 +7706,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 156562,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/1ID6jmTBTWs6zs6mean2yW"
@@ -7813,7 +7872,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 197647,
       "name": "Would I Lie to You - Radio Edit",
       "url": "https://open.spotify.com/track/4PdJSsESm34djLfBde9Pr2"

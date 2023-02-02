@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,074 likes - 31 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,627 likes - 31 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

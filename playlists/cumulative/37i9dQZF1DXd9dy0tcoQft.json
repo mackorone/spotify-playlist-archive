@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
   "name": "Soul Food",
-  "published_playlist_ids": [
-    "6eMPj9jP35FWVLCgA9Yvop"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,6 +56,32 @@
       "duration_ms": 271054,
       "name": "9",
       "url": "https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6"
+    },
+    {
+      "album": {
+        "name": "WE ARE (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Hot 8 Brass Band",
+          "url": "https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223815,
+      "name": "ADULTHOOD",
+      "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
     },
     {
       "album": {
@@ -1612,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf"
+    },
+    {
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/2ncuFWULnAaGrdwHpDnt9E"
       },
@@ -1702,6 +1743,42 @@
     },
     {
       "album": {
+        "name": "Sky has open doors",
+        "url": "https://open.spotify.com/album/3V7X498o84HlP4NK9vhoeY"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 219501,
+      "name": "Sky has open doors",
+      "url": "https://open.spotify.com/track/5EqtcGaNE7rE6mjVZYarjB"
+    },
+    {
+      "album": {
+        "name": "Sky has open doors",
+        "url": "https://open.spotify.com/album/0l4lzZ83jqOdYjVxSXLglU"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219501,
+      "name": "Sky has open doors",
+      "url": "https://open.spotify.com/track/73KIzrxQOsJAgMj6dBDQ5d"
+    },
+    {
+      "album": {
         "name": "Nona",
         "url": "https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB"
       },
@@ -1749,7 +1826,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 228831,
       "name": "Something I Know",
       "url": "https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD"
@@ -1803,7 +1880,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 219354,
       "name": "Start over Again",
       "url": "https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef"
@@ -1971,7 +2048,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 264760,
       "name": "Suitcase (Add The Weight)",
       "url": "https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH"

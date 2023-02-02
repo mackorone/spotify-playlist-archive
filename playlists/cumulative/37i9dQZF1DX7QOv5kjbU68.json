@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Hear all of Drake's biggest and best hits in one playlist. Thank us later.",
   "name": "This Is Drake",
-  "published_playlist_ids": [
-    "5AnQ0z6STXfEkrwXRImh3q"
-  ],
   "tracks": [
     {
       "album": {
@@ -1471,10 +1468,32 @@
       ],
       "date_added": "2020-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 181263,
       "name": "Look Alive (feat. Drake)",
       "url": "https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL"
+    },
+    {
+      "album": {
+        "name": "Simi",
+        "url": "https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181414,
+      "name": "Look Alive (feat. Drake)",
+      "url": "https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf"
     },
     {
       "album": {
@@ -1500,6 +1519,50 @@
     },
     {
       "album": {
+        "name": "Rap Champions",
+        "url": "https://open.spotify.com/album/46NIT12md7kqLANzbIla2G"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 197973,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/3DyMFKj8ejtfG3uKk0lgdS"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "LOYAL (feat. Drake)",
+      "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
+    },
+    {
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/4QTfWxMZjLRhQ9zxomi4t4"
       },
@@ -1515,7 +1578,7 @@
       ],
       "date_added": "2020-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 197973,
       "name": "LOYAL (feat. Drake)",
       "url": "https://open.spotify.com/track/3LnJM1B5Mjgx5LfT9plXUU"
@@ -1646,6 +1709,28 @@
     },
     {
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210367,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
+    },
+    {
+      "album": {
         "name": "MIA (feat. Drake)",
         "url": "https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO"
       },
@@ -1661,7 +1746,7 @@
       ],
       "date_added": "2020-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 210367,
       "name": "MIA (feat. Drake)",
       "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
@@ -2022,6 +2107,50 @@
     },
     {
       "album": {
+        "name": "808 Bangers",
+        "url": "https://open.spotify.com/album/7MASRGI1ZS1AiuwGAWslHs"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 153406,
+      "name": "Over the Top",
+      "url": "https://open.spotify.com/track/6dnfxKKuZoPzV2SFjbMS5S"
+    },
+    {
+      "album": {
+        "name": "Buy or Bye 2",
+        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
+    },
+    {
+      "album": {
         "name": "Over The Top (feat. Drake)",
         "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
       },
@@ -2037,7 +2166,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 153406,
       "name": "Over The Top (feat. Drake)",
       "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
@@ -2318,8 +2447,52 @@
     },
     {
       "album": {
+        "name": "Attention - R&B Favourites",
+        "url": "https://open.spotify.com/album/4HendAoi1Gnkm8O4Q0rQ8P"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 260519,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/6isRn13M76FHcFFefJwSUj"
+    },
+    {
+      "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 260519,
+      "name": "Stars Align (with Drake)",
+      "url": "https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B"
+    },
+    {
+      "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
       },
       "artists": [
         {
@@ -2336,7 +2509,7 @@
       "date_removed": null,
       "duration_ms": 260519,
       "name": "Stars Align (with Drake)",
-      "url": "https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B"
+      "url": "https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk"
     },
     {
       "album": {
@@ -2803,10 +2976,36 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6"
+    },
+    {
+      "album": {
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259651,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
     },
     {
       "album": {
@@ -2954,6 +3153,28 @@
     },
     {
       "album": {
+        "name": "We Caa Done (feat. Drake)",
+        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "We Caa Done (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
+    },
+    {
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -3086,6 +3307,28 @@
     },
     {
       "album": {
+        "name": "Moon Boy",
+        "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226220,
+      "name": "You're Mines Still (feat. Drake)",
+      "url": "https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r"
+    },
+    {
+      "album": {
         "name": "You\u2019re Mines Still (feat. Drake)",
         "url": "https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry"
       },
@@ -3101,7 +3344,7 @@
       ],
       "date_added": "2020-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 226220,
       "name": "You\u2019re Mines Still (feat. Drake)",
       "url": "https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg\">Emily Falvey</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Emily Falvey",
-  "published_playlist_ids": [
-    "0gxAW1q4I1g7VVKmDKFea6"
-  ],
   "tracks": [
     {
       "album": {
@@ -659,7 +656,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 182936,
       "name": "Keep in Touch",
       "url": "https://open.spotify.com/track/4G3U1mkd1x0qYYzVAcV4rY"
@@ -825,6 +822,24 @@
       "duration_ms": 167503,
       "name": "More Than I Want To",
       "url": "https://open.spotify.com/track/7g1JBB5oEkSFAPMBi1Qlc4"
+    },
+    {
+      "album": {
+        "name": "nervous",
+        "url": "https://open.spotify.com/album/5vBpXxwiH2nZS3K4mB3Wm5"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178926,
+      "name": "nervous",
+      "url": "https://open.spotify.com/track/7gacDtNNBGmV4D1ZzjSsHJ"
     },
     {
       "album": {
@@ -1325,6 +1340,28 @@
     {
       "album": {
         "name": "Unbreakup",
+        "url": "https://open.spotify.com/album/2dI9QoBHep9dPf00ubgsjN"
+      },
+      "artists": [
+        {
+          "name": "Cadence",
+          "url": "https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224030,
+      "name": "Unbreakup",
+      "url": "https://open.spotify.com/track/2md4QjCglKIHsB95VM8pWi"
+    },
+    {
+      "album": {
+        "name": "Unbreakup",
         "url": "https://open.spotify.com/album/0Bk4pwzuIDK25RQhxf3qMZ"
       },
       "artists": [
@@ -1339,7 +1376,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 224030,
       "name": "Unbreakup",
       "url": "https://open.spotify.com/track/6NODj3b3U76GKaBRE07Mee"
@@ -1495,10 +1532,32 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 195653,
       "name": "Wish You Wouldn\u2019t",
       "url": "https://open.spotify.com/track/1C3Mqv16nA4U4NPKzFlXFa"
+    },
+    {
+      "album": {
+        "name": "Real To Me: The Way I Feel (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5dMuhkxPLZSmG1uGMuPEf1"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Wish You Wouldn\u2019t",
+      "url": "https://open.spotify.com/track/6n4oQej0fopZK1Vijr6CFo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFJilMkRJCY5M"

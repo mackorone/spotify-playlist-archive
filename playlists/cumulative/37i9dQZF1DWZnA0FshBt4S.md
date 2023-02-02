@@ -4,14 +4,16 @@
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-83 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/6Mwq2JV69hbC2CLKfkPcBX)
+88 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 | 2021-05-11 |  |
 | [All Over Me](https://open.spotify.com/track/48UADGUoDwrBOkTVxWjzaP) | [The Benjamin Gate](https://open.spotify.com/artist/5xNrsi292mrWxvM4g5bqOG) | [Untitled](https://open.spotify.com/album/1fPm3avdEiN8fm9V3N1iGk) | 4:10 | 2021-05-11 |  |
+| [Audience of One](https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [One and Only](https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN) | 5:26 | 2023-02-01 |  |
 | [Awesome God](https://open.spotify.com/track/4WeJ3uVTTkI2jg9JDmY1IV) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps) | [Songs](https://open.spotify.com/album/5ETGa7hc1jtpp2OGIv1wdq) | 3:03 | 2021-05-11 |  |
 | [Basic Instructions](https://open.spotify.com/track/1P2U3LMx2Rj3pVmnmT4LSd) | [Burlap To Cashmere](https://open.spotify.com/artist/4onLiJTk4yL72Yu7tc5ifw) | [Anybody Out There?](https://open.spotify.com/album/6conxG5LDeq8o4Jge5KSJe) | 3:59 | 2021-05-11 |  |
+| [Better Is One Day](https://open.spotify.com/track/1BWbw8Sl2Xq8zKAWTEpHiN) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Friendship And The Fear](https://open.spotify.com/album/3v02URjr4ljfiNISxf508B) | 6:23 | 2023-02-01 |  |
 | [Big House](https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Don't Censor Me](https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C) | 3:31 | 2021-05-11 |  |
 | [Breakfast](https://open.spotify.com/track/2vLxjS0U2CuaqxEossXLDS) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Take Me To Your Leader](https://open.spotify.com/album/72Sx2clAuxuyeOyHbqZBur) | 3:40 | 2021-05-11 |  |
 | [Breathe](https://open.spotify.com/track/0TbBIyH8RXlKV07wM8HAVh) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Worship God](https://open.spotify.com/album/70zjKqpAO7faWjYVbxLHdX) | 3:57 | 2021-05-11 |  |
@@ -36,9 +38,11 @@
 | [Gravity](https://open.spotify.com/track/1jMdYE6b4sUolT8UnEOs8F) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/1Ag1b3t64FzUp3pdaIcgVH) | 3:19 | 2021-05-11 | 2022-07-29 |
 | [Gravity](https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn) | 3:20 | 2021-05-11 |  |
 | [Here With Me](https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [The Best Of Plumb](https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8) | 4:06 | 2021-05-11 |  |
+| [I Can Only Imagine](https://open.spotify.com/track/1G5S1rEr4L57ftizRHcYDP) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/3ibPey02HcezZGvLpFTLXh) | 4:08 | 2023-02-01 |  |
 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 | 2021-05-11 |  |
 | [I Want to Know You](https://open.spotify.com/track/3Vw3NlrSsQmE8W5Aqvf0vz) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [Sonicflood](https://open.spotify.com/album/6vULYuxP5cDOFdPADeBuUj) | 4:33 | 2021-05-11 |  |
 | [I Want to Know You](https://open.spotify.com/track/5eZzdOGs6t1eVeRD6jbCDh) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicFlood](https://open.spotify.com/album/3XRRl4djOAvjc4CXvOXcJl) | 4:33 | 2021-05-11 | 2022-07-29 |
+| [If This World](https://open.spotify.com/track/0SnLtuPd8qX0nCy94ogGSW) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Heavenly Place](https://open.spotify.com/album/1O1nyYm5SUm1CCdmE5gyKN) | 4:05 | 2023-02-01 |  |
 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 | 2021-05-11 |  |
 | [Into You](https://open.spotify.com/track/1pTxEo8B3eHM0befpib0Yc) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [The Collection](https://open.spotify.com/album/6O9oaYFECfRRBV5z2g0fbV) | 3:04 | 2021-05-11 | 2022-11-13 |
 | [Into You](https://open.spotify.com/track/3kuvxRA8GLCg0q2MPBQlsd) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/1iCXn3d2XYNAZ8eE6eiCoD) | 3:04 | 2021-05-11 | 2022-07-29 |
@@ -89,6 +93,7 @@
 | [Waiting Room](https://open.spotify.com/track/61NbXozQGixs8eC5ACTqc2) | [LaRue](https://open.spotify.com/artist/5MGUVsXrxgF9p3i3uko4MF) | [Larue](https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly) | 3:20 | 2021-05-11 |  |
 | [Walk By Faith](https://open.spotify.com/track/6NXaZTK2rnbA91jOEc3t1h) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Stay](https://open.spotify.com/album/5gbs9nxCzkbMdQRYXj955d) | 3:59 | 2021-05-11 |  |
 | [Welcome Home](https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Hi Fi Revival](https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR) | 2:43 | 2021-05-11 |  |
+| [Who Am I](https://open.spotify.com/track/5VUQsLff8A3ruAyCdTxqzg) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 5:35 | 2023-02-01 |  |
 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 | 2021-05-11 |  |
 | [You Found Me](https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G) | [FFH](https://open.spotify.com/artist/4xvNx8d6ZMhOZXUGUBmJby) | [Ready To Fly](https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs) | 3:35 | 2021-05-11 |  |
 

@@ -4,7 +4,7 @@
 
 > Another great metal year is coming to a close\. Explore this year's highlights in metal with this playlist!
 
-116 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/3zZXDWl1fis5kik5yx6NG5)
+116 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

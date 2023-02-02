@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Spektro y las mejores batallas. Assista los clips y descubre m\u00fasica original de los participantes, solo aqu\u00ed.",
+  "description": "Aczino con el hat-trick: campe\u00f3n internacional 2022. Mira los clips y descubre las mejores batallas, solo aqu\u00ed.",
   "name": "Red Bull Batalla",
-  "published_playlist_ids": [
-    "0czRm1bZ5YA9YxDSXYTnLg"
-  ],
   "tracks": [
     {
       "album": {
@@ -71,6 +68,58 @@
       "duration_ms": 327746,
       "name": "Aczino vs Skone - Final - Live",
       "url": "https://open.spotify.com/track/0lXSKnXAHolaQh6MyOa0Cr"
+    },
+    {
+      "album": {
+        "name": "Final Internacional Mexico 2022 (Live)",
+        "url": "https://open.spotify.com/album/4kucer3cO1FDF6qUhfDB3x"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Gazir",
+          "url": "https://open.spotify.com/artist/7fX5oHeHreCZsxiHpQ3xiw"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 672889,
+      "name": "Aczino vs. Gazir - Final - Live",
+      "url": "https://open.spotify.com/track/3gjfLIHhUp5NdEXge4ZEIu"
+    },
+    {
+      "album": {
+        "name": "Final Internacional Mexico 2022 (Live)",
+        "url": "https://open.spotify.com/album/4kucer3cO1FDF6qUhfDB3x"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Mecha",
+          "url": "https://open.spotify.com/artist/4QbJy84uljWISpxN41X5jG"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164676,
+      "name": "Aczino vs. Mecha - Semifinal - Live",
+      "url": "https://open.spotify.com/track/3EHP0o6bSTPDFa7trGCuem"
     },
     {
       "album": {
@@ -153,7 +202,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 316895,
       "name": "Adulterio vs, Cemoke - 3er Lugar - Live",
       "url": "https://open.spotify.com/track/5QSevmWNpCQJdufAZis6qp"
@@ -1624,6 +1673,32 @@
     },
     {
       "album": {
+        "name": "Final Internacional Mexico 2022 (Live)",
+        "url": "https://open.spotify.com/album/4kucer3cO1FDF6qUhfDB3x"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Gazir",
+          "url": "https://open.spotify.com/artist/7fX5oHeHreCZsxiHpQ3xiw"
+        },
+        {
+          "name": "Rapder",
+          "url": "https://open.spotify.com/artist/4trcako8l5gOpLIsfBmQyf"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378514,
+      "name": "Gazir vs. Rapder - Semifinal - Live",
+      "url": "https://open.spotify.com/track/34J5KWWR2s7aDtqK0gp6oW"
+    },
+    {
+      "album": {
         "name": "Ghostwriter",
         "url": "https://open.spotify.com/album/3PY7X6PCfoZemzsnlvxU1I"
       },
@@ -2451,7 +2526,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 334819,
       "name": "Mc Betho vs. Cuban - 3er Lugar - Live",
       "url": "https://open.spotify.com/track/2wE5R2wV38zS1ODUl0VfjR"
@@ -2503,7 +2578,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 332292,
       "name": "Mega vs. Chang - 3er Lugar - Live",
       "url": "https://open.spotify.com/track/0GGEaAdaZnYdMnwi3oHFZL"
@@ -2703,7 +2778,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 324860,
       "name": "Oner vs. Mc Betho - Semifinal - Live",
       "url": "https://open.spotify.com/track/1HP6DLxJC0rAQEgBP85krq"
@@ -2921,6 +2996,32 @@
       "duration_ms": 335753,
       "name": "Rapder vs Gazir - 3er Lugar - Live",
       "url": "https://open.spotify.com/track/4DdJSGbmoWKwK7eOt2FWMt"
+    },
+    {
+      "album": {
+        "name": "Final Internacional Mexico 2022 (Live)",
+        "url": "https://open.spotify.com/album/4kucer3cO1FDF6qUhfDB3x"
+      },
+      "artists": [
+        {
+          "name": "Red Bull Batalla",
+          "url": "https://open.spotify.com/artist/3QTFKq177NKtQZoAmlR0VT"
+        },
+        {
+          "name": "Rapder",
+          "url": "https://open.spotify.com/artist/4trcako8l5gOpLIsfBmQyf"
+        },
+        {
+          "name": "Mecha",
+          "url": "https://open.spotify.com/artist/4QbJy84uljWISpxN41X5jG"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390808,
+      "name": "Rapder vs. Mecha - 3er Lugar - Live",
+      "url": "https://open.spotify.com/track/0zGGGEjELoNpyLrBqiNbzW"
     },
     {
       "album": {

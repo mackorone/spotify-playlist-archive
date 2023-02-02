@@ -4,7 +4,7 @@
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 51 min - not published yet
+51 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Nuestros nombres](https://open.spotify.com/track/3SXQxt1VDRzcftYXbodXlf) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 5:57 | 2022-10-26 |  |
 | [Olvidado](https://open.spotify.com/track/7zk3hfoyY091DiGRET3vfN) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:30 | 2022-10-26 |  |
 | [Opio](https://open.spotify.com/track/6OJY8Mc0d3pFCBUaTRnRry) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 6:18 | 2022-10-26 |  |
-| [Oración](https://open.spotify.com/track/62qJJckOcu92deFFHknyMK) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 4:08 | 2022-10-26 |  |
+| [Oración](https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 4:08 | 2023-01-18 |  |
+| [Oración](https://open.spotify.com/track/62qJJckOcu92deFFHknyMK) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 4:08 | 2022-10-26 | 2023-01-19 |
 | [Sangre hirviendo \- 2012 Remastered Version](https://open.spotify.com/track/0Y01aV2CFzCawjqFIArGmB) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 5:18 | 2022-10-26 |  |
 | [Senda](https://open.spotify.com/track/1sgk7dkImoLiq4XZU8JZE2) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 3:53 | 2022-10-26 |  |
 | [Sirena varada \- Live Version 1995](https://open.spotify.com/track/3f7xVDw5lev27OLWToRdbS) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Ruído Y La Furia](https://open.spotify.com/album/0G9guzH3d645sjUiyKjloZ) | 4:40 | 2022-10-26 |  |

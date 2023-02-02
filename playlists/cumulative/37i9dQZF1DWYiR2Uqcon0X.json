@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
   "name": "Country Coffeehouse",
-  "published_playlist_ids": [
-    "1g8j7JOt4fueiGiEb02ZhY"
-  ],
   "tracks": [
     {
       "album": {
@@ -797,7 +794,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 234333,
       "name": "Giving It All (To You)",
       "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
@@ -1361,6 +1358,24 @@
     {
       "album": {
         "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
+    },
+    {
+      "album": {
+        "name": "Roadtripsong",
         "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
       },
       "artists": [
@@ -1371,7 +1386,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 221142,
       "name": "Roadtripsong",
       "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
@@ -1753,7 +1768,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-06",
       "duration_ms": 188541,
       "name": "Time Is Cold (Coffee House Version)",
       "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"

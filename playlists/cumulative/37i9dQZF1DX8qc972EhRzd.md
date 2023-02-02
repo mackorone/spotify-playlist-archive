@@ -4,7 +4,7 @@
 
 > Lo que pudo ser, pero te lo perdiste bebé
 
-60 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/34ipu88tkn6QTjz7QjcOsL)
+60 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

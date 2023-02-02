@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-110 songs - 5 hr 53 min - not published yet
+110 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Horizon](https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Nujabes PRAY Reflections](https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM) | 4:35 | 2022-10-11 |  |
 | [How You Been](https://open.spotify.com/track/3XyG9UY8Z5VEtqWucgWgsZ) | [Elijah Lee](https://open.spotify.com/artist/1wDDPEIVpcwXhPbCOkgPoi), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [How You Been](https://open.spotify.com/album/4x3QznGNIUqZrLphdbHFFP) | 2:37 | 2022-10-11 |  |
 | [Human Related Accident](https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Chroma Velocity](https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo) | 2:38 | 2022-10-11 |  |
-| [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katuchat](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 | 2022-10-11 |  |
+| [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katu](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 | 2022-10-11 |  |
 | [I'll Come Find You](https://open.spotify.com/track/6i0uNcIhVZRMKahUtkBqQH) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF) | [Dissociated EP](https://open.spotify.com/album/1wmHZvsUm09GfGvIIRQ3SZ) | 3:34 | 2022-10-11 |  |
 | [idk2](https://open.spotify.com/track/3xcUlIlxuFJg9ULn2xppI3) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK) | [seasons](https://open.spotify.com/album/4NrdkPiWR2viihNRry16pZ) | 2:06 | 2022-10-11 |  |
 | [in your arms](https://open.spotify.com/track/14yTQbKnhRnr4EcXGqszvB) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Escape Everything](https://open.spotify.com/album/32fmXtwTmYZMpKhDD8JYQK) | 4:37 | 2022-10-11 | 2022-11-13 |
@@ -55,8 +55,8 @@
 | [It Hurts to Love You \(it meant a lot\)](https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [It Hurts to Love You \(it meant a lot\)](https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T) | 1:57 | 2022-10-11 |  |
 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 | 2022-10-11 |  |
 | [Let You Know](https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [The Color and the Light](https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8) | 4:55 | 2022-10-11 |  |
-| [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly](https://open.spotify.com/artist/12E1nswgTW7QPMYWs0oXrE) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 | 2022-11-15 |  |
 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 | 2022-10-11 | 2022-11-20 |
+| [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 | 2022-11-15 |  |
 | [Like I Do](https://open.spotify.com/track/6aUqMFKWVu66RPcSFozJRo) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [Up](https://open.spotify.com/album/6BqJwMta8igGVnteOli3AW) | 2:20 | 2022-10-11 |  |
 | [Little by little](https://open.spotify.com/track/48HO4B8qWGEIYS8Sn3T6ZX) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/0mGwHQwFoFrlhK4dymMlmh) | 1:32 | 2022-10-11 |  |
 | [Love](https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5) | [Kastorbeats](https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC) | [Love](https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe) | 2:18 | 2022-10-11 |  |

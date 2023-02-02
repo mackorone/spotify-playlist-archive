@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JXV7ioEqB9ZA1b1RjSLVg.md) - [plain]
 
 > Wake up to Songbirds, a mix of melody\-driven indie, folk, and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 25 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158 likes - 25 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

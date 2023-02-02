@@ -4,7 +4,7 @@
 
 > La mejor energía con los éxitos de Los Pericos.
 
-67 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/5e3F0pC6AEk532eUmbXbz8)
+67 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

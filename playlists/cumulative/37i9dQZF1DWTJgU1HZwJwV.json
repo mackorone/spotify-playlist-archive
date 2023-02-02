@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-20",
   "description": "Elegant classical guitar to accompany your favourite Italian coffee.",
   "name": "Coffee House Classical Guitar",
-  "published_playlist_ids": [
-    "7jgB2m9mBTWEbhTLrW7Tf4"
-  ],
   "tracks": [
     {
       "album": {
@@ -755,7 +752,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 148000,
       "name": "Dari Kejauhan",
       "url": "https://open.spotify.com/track/4K78IXVq7EvW98OrJ54sy1"
@@ -795,7 +792,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 133370,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/6yHEpp2Npgz3DGeUGjexgO"
@@ -867,7 +864,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 154523,
       "name": "Descansando",
       "url": "https://open.spotify.com/track/77WrxZPDUBedSnspuu0b6n"
@@ -1221,7 +1218,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 124868,
       "name": "Fading",
       "url": "https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw"
@@ -1383,7 +1380,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 150600,
       "name": "Given",
       "url": "https://open.spotify.com/track/5iM1qRfdkKgzs0HaShhno5"
@@ -1423,6 +1420,24 @@
       "duration_ms": 149750,
       "name": "Glide",
       "url": "https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa"
+    },
+    {
+      "album": {
+        "name": "Gone to seed",
+        "url": "https://open.spotify.com/album/7MvoXy4KLNxXMCBI6F3I8K"
+      },
+      "artists": [
+        {
+          "name": "Freda Barton",
+          "url": "https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144054,
+      "name": "Gone to seed",
+      "url": "https://open.spotify.com/track/0b4pX3JMLnJi1QY3W42zjN"
     },
     {
       "album": {
@@ -1624,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Il Tramonto",
+        "url": "https://open.spotify.com/album/2Qx4P5RKFaxEnakbDE531a"
+      },
+      "artists": [
+        {
+          "name": "Enzo La Mattina",
+          "url": "https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148154,
+      "name": "Il Tramonto",
+      "url": "https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd"
+    },
+    {
+      "album": {
         "name": "Regenfarben",
         "url": "https://open.spotify.com/album/6BASRJtcxapIEPQvjbEZFQ"
       },
@@ -1725,7 +1758,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 122000,
       "name": "Into the Quiet",
       "url": "https://open.spotify.com/track/6oAi4cX60wuvkZnCwIiQo2"
@@ -1765,6 +1798,24 @@
       "duration_ms": 128000,
       "name": "L' attesa",
       "url": "https://open.spotify.com/track/35Zsmm47CQlcRec9wbuYUk"
+    },
+    {
+      "album": {
+        "name": "l' \u00c9tourneau",
+        "url": "https://open.spotify.com/album/39OOI2bfToxavuTyJRXz0i"
+      },
+      "artists": [
+        {
+          "name": "Dominique Marais",
+          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "l' \u00c9tourneau",
+      "url": "https://open.spotify.com/track/1MPq0sJ5RK1uiSjX98atNy"
     },
     {
       "album": {
@@ -1855,6 +1906,24 @@
       "duration_ms": 94054,
       "name": "La Sete D'Amore",
       "url": "https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq"
+    },
+    {
+      "album": {
+        "name": "Late Lullaby",
+        "url": "https://open.spotify.com/album/6nlaNhLk5WlJfW3lPCQcKG"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lowe",
+          "url": "https://open.spotify.com/artist/2SOP55SS8fB8moOlHWLROC"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106563,
+      "name": "Late Lullaby",
+      "url": "https://open.spotify.com/track/0QT6t8v1xhNpTS365TTefJ"
     },
     {
       "album": {
@@ -2197,7 +2266,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 134712,
       "name": "Miniatura No.22 - Luci\u00e9rnagas",
       "url": "https://open.spotify.com/track/3bep5fkZPBmpmznIf4O5zQ"
@@ -2251,7 +2320,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 183436,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/767vDO0LnaX7lzkK7i0qOG"
@@ -2273,6 +2342,24 @@
       "duration_ms": 123399,
       "name": "Mises",
       "url": "https://open.spotify.com/track/0xLmO0851Cwyr9aQEjie6v"
+    },
+    {
+      "album": {
+        "name": "Moment Of Fire",
+        "url": "https://open.spotify.com/album/6K4zOmK82dnt3b4dos3Uuh"
+      },
+      "artists": [
+        {
+          "name": "Serilda Bell",
+          "url": "https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138478,
+      "name": "Moment Of Fire",
+      "url": "https://open.spotify.com/track/2RGOruedyWCXpsUGlyDKtf"
     },
     {
       "album": {
@@ -2672,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Ouarzazate",
+        "url": "https://open.spotify.com/album/1RJxkHUhvj6k3a7WGoIaX3"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137486,
+      "name": "Ouarzazate",
+      "url": "https://open.spotify.com/track/4KLHM8BsHxjA74q1H1wvnx"
+    },
+    {
+      "album": {
         "name": "Pescadores",
         "url": "https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj"
       },
@@ -2759,7 +2864,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 156444,
       "name": "Path",
       "url": "https://open.spotify.com/track/1Wz9by58bwMopMC2QPN8Z8"
@@ -2781,6 +2886,24 @@
       "duration_ms": 171162,
       "name": "Pellegrino",
       "url": "https://open.spotify.com/track/0mNMNk8NPcay74AHyFwzfX"
+    },
+    {
+      "album": {
+        "name": "Pillow Hymn",
+        "url": "https://open.spotify.com/album/740VMPcRZ0LCxILPwzsPXy"
+      },
+      "artists": [
+        {
+          "name": "Laurent Ruaud",
+          "url": "https://open.spotify.com/artist/0vCWZOklQJPdWDIMiYwP6z"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89314,
+      "name": "Pillow Hymn",
+      "url": "https://open.spotify.com/track/2Etxnz6V6sZTsgaa8W6w7g"
     },
     {
       "album": {
@@ -2820,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "Por Cierto",
+        "url": "https://open.spotify.com/album/1l2eYMCekxAnbam8PHtbwA"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gonsales",
+          "url": "https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148510,
+      "name": "Por Cierto",
+      "url": "https://open.spotify.com/track/6GxkZ3N4wZ8vasrQ32WeGx"
+    },
+    {
+      "album": {
         "name": "Port Blair",
         "url": "https://open.spotify.com/album/1URrRnZNIpkpRRVGcOJszd"
       },
@@ -2835,6 +2976,24 @@
       "duration_ms": 154911,
       "name": "Port Blair",
       "url": "https://open.spotify.com/track/1jMovOA0kIWC73Xio4pdXT"
+    },
+    {
+      "album": {
+        "name": "Porte moi",
+        "url": "https://open.spotify.com/album/24kciXvVVsVoNmEm1qRv8z"
+      },
+      "artists": [
+        {
+          "name": "Adriana Roman",
+          "url": "https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130750,
+      "name": "Porte moi",
+      "url": "https://open.spotify.com/track/4A6k2vAHalGrOKobg3yxna"
     },
     {
       "album": {
@@ -2868,7 +3027,7 @@
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 163945,
+      "duration_ms": 136678,
       "name": "Prelude No. 22",
       "url": "https://open.spotify.com/track/5GQMvgcBHqQmiz3ZsU2apw"
     },
@@ -2911,6 +3070,24 @@
       "duration_ms": 180500,
       "name": "Puebla",
       "url": "https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL"
+    },
+    {
+      "album": {
+        "name": "Open Waters",
+        "url": "https://open.spotify.com/album/2EpNqhccApxUDtlgGcg9AT"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139461,
+      "name": "Puigmal",
+      "url": "https://open.spotify.com/track/4SG34NU780HN7JrcLeEEEi"
     },
     {
       "album": {
@@ -2997,7 +3174,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 234030,
       "name": "Regentr\u00e4ume",
       "url": "https://open.spotify.com/track/14HPSet0Rj41cyZmh5AoZY"
@@ -3033,10 +3210,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 166000,
       "name": "Rio Panama",
       "url": "https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK"
+    },
+    {
+      "album": {
+        "name": "Romanza",
+        "url": "https://open.spotify.com/album/6gTQuC6ZcqHuVmGTWtF3tR"
+      },
+      "artists": [
+        {
+          "name": "Michael Marc",
+          "url": "https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140086,
+      "name": "Romanza",
+      "url": "https://open.spotify.com/track/13Clq7TlG1gB7zfz3WomQp"
     },
     {
       "album": {
@@ -3087,10 +3282,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 193564,
       "name": "Roots",
       "url": "https://open.spotify.com/track/315o2fMorxv0Ds6zE8KJoo"
+    },
+    {
+      "album": {
+        "name": "Rosales",
+        "url": "https://open.spotify.com/album/1b3lqDesHJ4gKr3WawAHrm"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Rosales",
+      "url": "https://open.spotify.com/track/2LLDiGysmlUcfzuvjruvOM"
     },
     {
       "album": {
@@ -3105,10 +3318,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 145750,
       "name": "Rosarium",
       "url": "https://open.spotify.com/track/3EGgZKSXFfD9YdbZ2Zvzf9"
+    },
+    {
+      "album": {
+        "name": "Rubato",
+        "url": "https://open.spotify.com/album/1MTGlmAkxdb0hueMtV3TLA"
+      },
+      "artists": [
+        {
+          "name": "Fei Kura",
+          "url": "https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104455,
+      "name": "Rubato",
+      "url": "https://open.spotify.com/track/1rlL61WUGjlWdhB5cjbWg8"
     },
     {
       "album": {
@@ -3483,7 +3714,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 165746,
       "name": "Sweet Freedom",
       "url": "https://open.spotify.com/track/5qYDw7w2kta0cIAHWLk9Qm"
@@ -3667,7 +3898,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 123120,
       "name": "The Day After",
       "url": "https://open.spotify.com/track/0SEbc1pZvxe1TxlSKYkaVa"
@@ -3779,6 +4010,24 @@
       "duration_ms": 154751,
       "name": "Toque Suave",
       "url": "https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p"
+    },
+    {
+      "album": {
+        "name": "Tot Morgen",
+        "url": "https://open.spotify.com/album/5HhOtrIeijnW3WQxdHS13A"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Willemsen",
+          "url": "https://open.spotify.com/artist/0zfMuidAGSx94M7j1kxmlY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113691,
+      "name": "Tot Morgen",
+      "url": "https://open.spotify.com/track/2W0sCLz5wGHBYLBKkN3kp2"
     },
     {
       "album": {

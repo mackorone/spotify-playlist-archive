@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
   "name": "GOOD GAME",
-  "published_playlist_ids": [
-    "6l5P3G82wIIpWN7HLTuLQk"
-  ],
   "tracks": [
     {
       "album": {
@@ -49,7 +46,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 174727,
       "name": "10 RAGAZZE (con ERNIA)",
       "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
@@ -215,7 +212,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 220235,
       "name": "AIRFORCE (feat. Madame)",
       "url": "https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB"
@@ -450,6 +447,32 @@
     },
     {
       "album": {
+        "name": "Bandito",
+        "url": "https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Nardi",
+          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "Bandito",
+      "url": "https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI"
+    },
+    {
+      "album": {
         "name": "Blauer",
         "url": "https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK"
       },
@@ -593,7 +616,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 189867,
       "name": "Bottiglie Priv\u00e8",
       "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
@@ -2354,6 +2377,28 @@
     },
     {
       "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122373,
+      "name": "No wallet (feat. Marracash)",
+      "url": "https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv"
+    },
+    {
+      "album": {
         "name": "PLAZA",
         "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
       },
@@ -2405,7 +2450,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 164657,
       "name": "Non \u00e8 Easy",
       "url": "https://open.spotify.com/track/2SdYuBGvuX0L7KbWiFhLzg"
@@ -2599,7 +2644,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 156083,
       "name": "Paraocchi",
       "url": "https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp"

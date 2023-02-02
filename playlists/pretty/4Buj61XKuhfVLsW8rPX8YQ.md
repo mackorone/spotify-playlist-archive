@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4Buj61XKuhfVLsW8rPX8YQ.md) - [plain]
 
 > 100+ of the happiest songs of all time\. Come on, Get Happy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 682 likes - 105 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 685 likes - 105 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

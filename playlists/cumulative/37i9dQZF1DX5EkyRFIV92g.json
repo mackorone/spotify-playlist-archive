@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "This is Kendrick Lamar. Essential tracks all in one playlist. ",
   "name": "This Is Kendrick Lamar",
-  "published_playlist_ids": [
-    "2gURM4VFY4GNBKA4eJjlmx"
-  ],
   "tracks": [
     {
       "album": {
@@ -1093,7 +1090,7 @@
     {
       "album": {
         "name": "You're Dead!",
-        "url": "https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj"
+        "url": "https://open.spotify.com/album/7DFT5wc0jn6U7DqooS8y6l"
       },
       "artists": [
         {
@@ -1108,6 +1105,28 @@
       "date_added": "2018-02-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234486,
+      "name": "Never Catch Me",
+      "url": "https://open.spotify.com/track/1KOqY0QTSadQFRgbNw1sLh"
+    },
+    {
+      "album": {
+        "name": "You're Dead!",
+        "url": "https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 234486,
       "name": "Never Catch Me",
       "url": "https://open.spotify.com/track/6CTG85NJI1Wm60pxTSRNwL"

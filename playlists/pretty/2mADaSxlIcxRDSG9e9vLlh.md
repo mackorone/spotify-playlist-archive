@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2mADaSxlIcxRDSG9e9vLlh.md) - [plain]
 
 > Songs for you and your best friend\. Endless love in any weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,370 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/2mADaSxlIcxRDSG9e9vLlh.md) - [plain]
 | 23 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/3ehrxAhYms24KLPG8FZe0W) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/album/7dXu1oLf9VPkCsBvXxz4Oe) | 4:10 |
 | 24 | [Like My Dog](https://open.spotify.com/track/4RvN1i2qMIqgg4yWTqtvvR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Enjoy Yourself](https://open.spotify.com/album/731bZzgCiyc5rCtDQ3PiZA) | 2:46 |
 | 25 | [Happy Home](https://open.spotify.com/track/4Jem4FLgv1l6x7fXyLSyJN) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Happy Home](https://open.spotify.com/album/0B7fqlrGFN6IyC219tUQyw) | 3:36 |
-| 26 | [Is This Love \- Montmartre Remix](https://open.spotify.com/track/14CsUVcoKztExH6aSgfrfb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Is This Love \(Montmartre Remix\)](https://open.spotify.com/album/2vivonRnTYYyd9LdsrYKoA) | 4:29 |
+| 26 | [Is This Love \- Montmartre Remix](https://open.spotify.com/track/14CsUVcoKztExH6aSgfrfb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Is This Love \(Montmartre Remix\)](https://open.spotify.com/album/2vivonRnTYYyd9LdsrYKoA) | 4:29 |
 | 27 | [Walkin' The Dawg](https://open.spotify.com/track/6xHzY67lLIJNdxbR5LxZ5S) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Rollin' & Tumblin'](https://open.spotify.com/album/4GMf9XTF6WJSh6Eh8cm6Up) | 3:44 |
 | 28 | [Steal My Sunshine \- Remastered Anniversary Edition](https://open.spotify.com/track/3KnZzkimhm2HQuh8i5JW1F) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine \(Remastered Anniversary Edition\)](https://open.spotify.com/album/2lHaaznfTnc7SSyBXjCb6h) | 3:31 |
 | 29 | [The One Thing](https://open.spotify.com/track/1gbioEy2KANAFYWuh0qK8w) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira\. \(Deluxe Version\)](https://open.spotify.com/album/3pIrfgAYjBpTBBKgtrwKgZ) | 3:12 |

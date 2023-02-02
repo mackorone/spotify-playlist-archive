@@ -1,29 +1,13 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53187,
+  "num_followers": 53053,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDg5ZDQ0ZTQyZmQ5ZTEzZjRhNTI3NDM4MGYwOTdjZmRj",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDYzMTE0YmZkOTBkNTFjMjFkMGNlNWIzMWY4MDQxMTk4",
   "tracks": [
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
-    },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 230866,
       "name": "New Slang - 2021 Remaster",
       "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -139,22 +139,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Sawdust",
-        "url": "https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 327866,
-      "name": "Romeo And Juliet",
-      "url": "https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
       },
@@ -187,18 +171,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
+        "name": "Sawdust",
+        "url": "https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz"
       },
       "artists": [
         {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 193573,
-      "name": "Ulysses",
-      "url": "https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl"
+      "duration_ms": 327866,
+      "name": "Romeo And Juliet",
+      "url": "https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -215,6 +199,22 @@
       "duration_ms": 220040,
       "name": "Lolita",
       "url": "https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Ulysses",
+      "url": "https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -251,22 +251,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "A Boot and a Shoe",
-        "url": "https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS"
-      },
-      "artists": [
-        {
-          "name": "Sam Phillips",
-          "url": "https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "If I Could Write",
-      "url": "https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Just Enough Education To Perform",
         "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
@@ -299,8 +283,40 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Gimme Back My Bullets",
+        "url": "https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "All I Can Do Is Write About It",
+      "url": "https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "A Boot and a Shoe",
+        "url": "https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS"
+      },
+      "artists": [
+        {
+          "name": "Sam Phillips",
+          "url": "https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "If I Could Write",
+      "url": "https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "Max Jury",
-        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
       },
       "artists": [
         {
@@ -310,7 +326,7 @@
       ],
       "duration_ms": 235936,
       "name": "Great American Novel",
-      "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
+      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -331,22 +347,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Gimme Back My Bullets",
-        "url": "https://open.spotify.com/album/7nl7cH6KtKcKU7I2Hj2gAM"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "All I Can Do Is Write About It",
-      "url": "https://open.spotify.com/track/1xGkvw8sTnDujVFcMN6zvc"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Knives Don't Have Your Back",
         "url": "https://open.spotify.com/album/3ugZjO9GDXiiq4LRDDzcv8"
       },
@@ -359,86 +359,6 @@
       "duration_ms": 168960,
       "name": "Reading In Bed",
       "url": "https://open.spotify.com/track/4H73CNDBQpE9gp3YTFfC7y"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Dear Catastrophe Waitress",
-        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Wrapped Up In Books",
-      "url": "https://open.spotify.com/track/14TIka80BMTELhMHk1sIdH"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "The Book I Read - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Richard Cory",
-      "url": "https://open.spotify.com/track/669jVNlVxPmrb2kN8YFq1u"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA"
-      },
-      "artists": [
-        {
-          "name": "Poe",
-          "url": "https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD"
-        }
-      ],
-      "duration_ms": 320240,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Stars and Satellites",
-        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "Walt Whitman",
-      "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -459,34 +379,34 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Hard Believer",
-        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
       "artists": [
         {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 378239,
-      "name": "Shakespeare",
-      "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
+      "duration_ms": 250053,
+      "name": "The Book I Read - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1WKEDO98nmcF1uYmMttw7B"
     },
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Kerplunk!",
-        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
+        "name": "Stars and Satellites",
+        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 162666,
-      "name": "Who Wrote Holden Caulfield?",
-      "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"
+      "duration_ms": 158680,
+      "name": "Walt Whitman",
+      "url": "https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -507,6 +427,70 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Kerplunk!",
+        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Who Wrote Holden Caulfield?",
+      "url": "https://open.spotify.com/track/6471zt9nuKXLwEOItOgDld"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Dear Catastrophe Waitress",
+        "url": "https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Wrapped Up In Books",
+      "url": "https://open.spotify.com/track/14TIka80BMTELhMHk1sIdH"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/3Qn2GfbzCa3b0NZoaJotEA"
+      },
+      "artists": [
+        {
+          "name": "Poe",
+          "url": "https://open.spotify.com/artist/2Kl8iFAUJmtmyP1Sab1paD"
+        }
+      ],
+      "duration_ms": 320240,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/2rjNVjIfyGCDoNIjXFsPdS"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Richard Cory",
+      "url": "https://open.spotify.com/track/669jVNlVxPmrb2kN8YFq1u"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "Fashion Nugget",
         "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 224933,
       "name": "Open Book",
       "url": "https://open.spotify.com/track/3vmgOwQdZTbdT1W54eeEy0"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Hard Believer",
+        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 378239,
+      "name": "Shakespeare",
+      "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -555,18 +555,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Is This Desire?",
-        "url": "https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD"
+        "name": "No Line On The Horizon",
+        "url": "https://open.spotify.com/album/2cVfcuckyfRP6KVAHsRPHC"
       },
       "artists": [
         {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 292933,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/1k3tnHRcKo5DUNdQYuYFnw"
+      "duration_ms": 300306,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -587,6 +587,22 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Is This Desire?",
+        "url": "https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 292933,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/1k3tnHRcKo5DUNdQYuYFnw"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "The Libertines",
         "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
       },
@@ -603,50 +619,18 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Billy Breathes",
-        "url": "https://open.spotify.com/album/4Gesl7yxQQF2taqnoEy3NN"
+        "name": "Com Lag: 2+2=5",
+        "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
       },
       "artists": [
         {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 319293,
-      "name": "Prince Caspian",
-      "url": "https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "No Line On The Horizon",
-        "url": "https://open.spotify.com/album/2cVfcuckyfRP6KVAHsRPHC"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 300306,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Underachievers Please Try Harder",
-        "url": "https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh"
-      },
-      "artists": [
-        {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
-        }
-      ],
-      "duration_ms": 313666,
-      "name": "Books Written For Girls",
-      "url": "https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx"
+      "duration_ms": 238280,
+      "name": "Paperbag Writer",
+      "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -699,38 +683,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Literature Lovers",
-        "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
-      },
-      "artists": [
-        {
-          "name": "Jose Vanders",
-          "url": "https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "Literature Lovers",
-      "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Com Lag: 2+2=5",
-        "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 238280,
-      "name": "Paperbag Writer",
-      "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Winter Wheat",
         "url": "https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia"
       },
@@ -743,6 +695,22 @@
       "duration_ms": 203091,
       "name": "Postdoc Blues",
       "url": "https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Billy Breathes",
+        "url": "https://open.spotify.com/album/4Gesl7yxQQF2taqnoEy3NN"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 319293,
+      "name": "Prince Caspian",
+      "url": "https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -763,6 +731,22 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Underachievers Please Try Harder",
+        "url": "https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 313666,
+      "name": "Books Written For Girls",
+      "url": "https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "The Best Of The First 10 Years",
         "url": "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
       },
@@ -779,22 +763,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "And Don't The Kids Just Love It",
-        "url": "https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT"
-      },
-      "artists": [
-        {
-          "name": "Television Personalities",
-          "url": "https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh"
-        }
-      ],
-      "duration_ms": 131720,
-      "name": "A Picture Of Dorian Gray",
-      "url": "https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Milton At Midnight",
         "url": "https://open.spotify.com/album/7kZbS20RlWvmUvOqvo0l0x"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 346386,
       "name": "Milton At Midnight",
       "url": "https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Literature Lovers",
+        "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
+      },
+      "artists": [
+        {
+          "name": "Jose Vanders",
+          "url": "https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7"
+        }
+      ],
+      "duration_ms": 280933,
+      "name": "Literature Lovers",
+      "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "And Don't The Kids Just Love It",
+        "url": "https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT"
+      },
+      "artists": [
+        {
+          "name": "Television Personalities",
+          "url": "https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh"
+        }
+      ],
+      "duration_ms": 131720,
+      "name": "A Picture Of Dorian Gray",
+      "url": "https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB"
     }
   ],
   "unique_name": "The Writer's Playlist",

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
-  "published_playlist_ids": [
-    "3o4Z9XwrdzrNGWVZanB7aT"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 219733,
       "name": "Atras De La Raya - (En Vivo)",
       "url": "https://open.spotify.com/track/7AZLFXk4B3eA2Rp5nNcr8w"
@@ -217,10 +214,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 207751,
       "name": "Corrido de Chito Cano",
       "url": "https://open.spotify.com/track/4jKUq8Q2ME0g3cukpQJE7X"
+    },
+    {
+      "album": {
+        "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
+        "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210946,
+      "name": "Corrido De Chito Cano",
+      "url": "https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq"
     },
     {
       "album": {
@@ -343,10 +358,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 203562,
       "name": "Dos Monedas",
       "url": "https://open.spotify.com/track/7eVY9hPDlrY6M23hiR239q"
+    },
+    {
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "Dos Monedas",
+      "url": "https://open.spotify.com/track/4epespdttWqUpIk35qEoMY"
     },
     {
       "album": {
@@ -746,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Gaviota",
+        "url": "https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "Me Puso El Dedo",
+      "url": "https://open.spotify.com/track/1iCVU73Xs9tj0tZI0j4Tun"
+    },
+    {
+      "album": {
         "name": "En Las Alas De Un Angel",
         "url": "https://open.spotify.com/album/5GkrB7ooBMxKFvOM4LCQep"
       },
@@ -782,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+        "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171413,
+      "name": "Mi Golondrina",
+      "url": "https://open.spotify.com/track/28cEjHqqh494m594SwLyvt"
+    },
+    {
+      "album": {
         "name": "En Vivo...El Hombre Y Su Musica",
         "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
       },
@@ -793,7 +862,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 178600,
       "name": "Mi Golondrina - En Vivo",
       "url": "https://open.spotify.com/track/1oXTiFmljKee2o6tmOO8sR"

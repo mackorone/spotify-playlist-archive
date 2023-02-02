@@ -4,7 +4,7 @@
 
 > The sound and soul that keeps Mauritius jamming
 
-51 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/2bosEmGjPOX7X6MeBxKp6P)
+51 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

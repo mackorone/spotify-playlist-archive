@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-13",
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
   "name": "B\u00e9same Mucho",
-  "published_playlist_ids": [
-    "4SS0zxKg1zqnt4ItXfPUcF"
-  ],
   "tracks": [
     {
       "album": {
@@ -225,6 +222,24 @@
       "duration_ms": 178493,
       "name": "Aunque Me Cueste la Vida",
       "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
+    },
+    {
+      "album": {
+        "name": "La flor de la canela",
+        "url": "https://open.spotify.com/album/40feN08wkMH0KNZZoCpT36"
+      },
+      "artists": [
+        {
+          "name": "Bola De Nieve",
+          "url": "https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 145635,
+      "name": "Ay amor",
+      "url": "https://open.spotify.com/track/0XE6HJcztC7uVQ6jnBSY3X"
     },
     {
       "album": {
@@ -628,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Esta Noche...Billo",
+        "url": "https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA"
+      },
+      "artists": [
+        {
+          "name": "Billo's",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147017,
+      "name": "Cuando Estemos Viejo",
+      "url": "https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg"
+    },
+    {
+      "album": {
         "name": "Cl\u00e1sicos de Oro de la Billo Caracas Boy's",
         "url": "https://open.spotify.com/album/5YgiH1ubwBvNWXM9xhSAsB"
       },
@@ -639,7 +672,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 147906,
       "name": "Cuando Estemos Viejos",
       "url": "https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS"

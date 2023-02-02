@@ -4,7 +4,7 @@
 
 > Enjoy over 50 years of musical genius.
 
-50 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/02mxLWJfr2BrwBqgDWvM1z)
+50 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

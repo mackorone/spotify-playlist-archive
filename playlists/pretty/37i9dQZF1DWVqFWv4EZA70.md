@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,716 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,028 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 30 | [Shoulder Kiss](https://open.spotify.com/track/3ZB4h7rWKKIMC06EzFiuE9) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF) | [Study Guide](https://open.spotify.com/album/46LudqPGBEIX9l8FlVqe9x) | 2:36 |
 | 31 | [Runnin' \- Extended](https://open.spotify.com/track/6x0fMgsxvhpiOspnhykuF2) | [Visioneers](https://open.spotify.com/artist/1PjrwJuTm8jNItVJ1GDrrD) | [Marc Mac presents Visioneers \- Dirty Old Hip Hop](https://open.spotify.com/album/7ytasfSaRrQtKyjkiiYibW) | 4:06 |
 | 32 | [The World \(Is Going Up in Flames\) \- Instrumental](https://open.spotify.com/track/7dBvMFSY8mABXn4Cmq4y5g) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/52Ad1j9o1wFWUj8DRul2sL) | 3:23 |
-| 33 | [You Wish](https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 3:30 |
+| 33 | [You Wish](https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg) | 3:29 |
 | 34 | [The Anthem \(Instrumental\)](https://open.spotify.com/track/39WiivO5yDqfhHFXsREqCE) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Coffee Shop Selection](https://open.spotify.com/album/2Du6CyEJh7uk7nfiGATB1r) | 3:00 |
 | 35 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 |
 | 36 | [Barfly \- Slo\-Fi Mix](https://open.spotify.com/track/6Cq5rm1CEQcXV1bWXmL8Vq) | [Alex Cortiz](https://open.spotify.com/artist/484XUhtQMjzHZhvU0FrjCX) | [Barfly \(Remixes\)](https://open.spotify.com/album/5quziiwWuBP5sIPMqthYgm) | 5:30 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 40 | [It's All Over But the Crying \(Instrumental\)](https://open.spotify.com/track/1WrQreMyy7L97MUSdS01xu) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Faithful Man \(Instrumentals\)](https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG) | 4:09 |
 | 41 | [You fly me](https://open.spotify.com/track/5R4q6bsvAChmt1icAE1EWh) | [Fingathing](https://open.spotify.com/artist/7l9MYefk0544OMaA9wIPDW) | [Hôtel Costes 6](https://open.spotify.com/album/1VxdV8gGNW9JAdZ7yak3c0) | 2:52 |
 | 42 | [Someone Like You \(Instrumental\)](https://open.spotify.com/track/64GFQFCscymlV0uCbo4qlu) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 4:09 |
-| 43 | [Da Feelin](https://open.spotify.com/track/4JCmpKszRvku5euErqBIPO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Thought So…](https://open.spotify.com/album/0nLCUby65vPnn29qRPFq4I) | 4:41 |
+| 43 | [Da Feelin](https://open.spotify.com/track/2eV5tSdlAqNQIHRzHUMsXe) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Thought So…](https://open.spotify.com/album/6eRbwkfRJkEWTdNQ7NL3rT) | 4:41 |
 | 44 | [Headspace](https://open.spotify.com/track/6CkTv37VYslWD9igy0pVDG) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Headspace](https://open.spotify.com/album/1hEyaZG3Y4JqrJhWtZMEtz) | 2:13 |
 | 45 | [Love Is Real](https://open.spotify.com/track/2jc8OuPiEPg8T5DhsiRmfk) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Sincere](https://open.spotify.com/album/0ZQYqKHB95vUfquyaFgJUW) | 3:22 |
 | 46 | [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 |
 | 47 | [Can't Hold It Back \- Instrumental](https://open.spotify.com/track/0TK3fh9LH2OGfex6ns2gP2) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Highlighter](https://open.spotify.com/album/4ZZOgZ1MOnTrN3X6bIOEIW) | 3:39 |
-| 48 | [Oh My God \(feat\. Lily Allen\) \- Instrumental](https://open.spotify.com/track/5KNqTr64pJLzSrDC6P4NH6) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/album/2NPq3xrMiBkXt6dz8LPPTN) | 3:40 |
+| 48 | [Oh My God \(feat\. Lily Allen\) \- Instrumental](https://open.spotify.com/track/3WQIsoZw1ozbE7KW0C7gfW) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/album/4J086EMlr6bwo4E4o93vvP) | 3:39 |
 | 49 | [Farewell Spaceman](https://open.spotify.com/track/2LH8eZOTAp4spvNCuLvZ8V) | [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [The Music Scene](https://open.spotify.com/album/4i0QEXwMps7KIuVq5PBckJ) | 6:35 |
 | 50 | [Del Ray](https://open.spotify.com/track/6wk7xDBvxOB9mC58mAiHtI) | [Sola Rosa](https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52) | [Get It Together \(Deluxe Edition\)](https://open.spotify.com/album/4cUzBfvfHSs6fTR7zYiHja) | 4:31 |
 | 51 | [You Make Me Smile \(Instrumental\)](https://open.spotify.com/track/71On3WSmjDOUD9Jct2bzYc) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [You Make Me Smile](https://open.spotify.com/album/24UTCXhd9ITgPpSuIkrrxM) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 59 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 |
 | 60 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
 
-Snapshot ID: `MTY2NTQyNTg1OCwwMDAwMDAwMDI0NjNmNjYwMjQ1OWFmYjE0OTQ5Njk1MTFmMGU2NGQz`
+Snapshot ID: `MTY2NTQyNTg1OCwwMDAwMDAwMDEyYmM1NTJkZmYwODZjMGUzMDY2ZTJhZTQ1MzAyZWUw`

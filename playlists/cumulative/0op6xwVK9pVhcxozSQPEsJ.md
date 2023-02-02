@@ -4,7 +4,7 @@
 
 > Take some time out of your day to recharge your mind.
 
-93 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5KDYphaKZ3wQd4nx3UbBU0)
+93 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

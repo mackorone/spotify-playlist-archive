@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind
 
-50 songs - 2 hr 53 min - not published yet
+51 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Purple](https://open.spotify.com/track/2smULwfhqWK1ovV6SmzwVa) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI) | [Different Definitions of Love: Part 1](https://open.spotify.com/album/3xBNNkmdc2ioXJk8mfyZSS) | 3:23 | 2022-11-11 |  |
 | [R\-, Pt\. 2 \- Acoustic Version](https://open.spotify.com/track/2X8UWEViu7QZn7uRXAWKmV) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-, Pt\. 2 \(Acoustic Version\)](https://open.spotify.com/album/4pjezrOHcAXQkBoe0rw0Zz) | 2:11 | 2022-11-11 |  |
 | [Reset Rewind](https://open.spotify.com/track/4B9Rhu9Xdq3Vo1hfLJQh9p) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Aaron Rimbui](https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H) | [Bald Men Love Better](https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ) | 4:29 | 2022-11-11 |  |
-| [Sasa Hivi \- Stripped Down](https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi](https://open.spotify.com/album/21QfGfMQr8s4EAmZqdcXVg) | 4:22 | 2022-11-11 |  |
+| [Sasa Hivi \- Stripped Down](https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi](https://open.spotify.com/album/21QfGfMQr8s4EAmZqdcXVg) | 4:22 | 2022-11-11 | 2023-01-05 |
+| [Sasa Hivi \[Stripped Down\]](https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi \[Stripped Down\]](https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig) | 4:22 | 2022-11-11 |  |
 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 | 2022-11-11 |  |
 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 | 2022-11-11 |  |
 | [See Me](https://open.spotify.com/track/7eaKAVoEqeo98PBEIsgLM0) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Fallin' Apart](https://open.spotify.com/album/7sTMUZfjsk7CjmCybDP1nX) | 4:20 | 2022-11-11 |  |

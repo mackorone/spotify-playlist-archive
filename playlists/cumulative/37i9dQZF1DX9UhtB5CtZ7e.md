@@ -4,7 +4,7 @@
 
 > Cozy and sweet songs guaranteed to shield you from the blues.
 
-147 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/3npCGQrlAXuSoCDKULIPAK)
+147 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

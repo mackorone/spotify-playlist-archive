@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Drift away with enthralling instrumentals.",
   "name": "DayDreamer",
-  "published_playlist_ids": [
-    "0yLqmxmaa7qrm1xUP9mC5t"
-  ],
   "tracks": [
     {
       "album": {
@@ -257,7 +254,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202666,
       "name": "Ascending Journy",
       "url": "https://open.spotify.com/track/0Dudid2JOAtq9Nt0Dg0OfT"
@@ -351,6 +348,24 @@
       "duration_ms": 165333,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
+    },
+    {
+      "album": {
+        "name": "Tao of Flow",
+        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121538,
+      "name": "Bodh Gaya",
+      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
     },
     {
       "album": {
@@ -473,7 +488,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 219090,
       "name": "Darashinai Beach",
       "url": "https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW"
@@ -545,7 +560,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": "2022-12-28",
       "duration_ms": 240000,
       "name": "Divine Light - Studio Edit",
       "url": "https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh"
@@ -675,10 +690,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 271893,
       "name": "Eventide",
       "url": "https://open.spotify.com/track/5zCFuB2hlS85wzZGpdbM8H"
+    },
+    {
+      "album": {
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
+      },
+      "artists": [
+        {
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271893,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
     },
     {
       "album": {
@@ -729,7 +762,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-12",
       "duration_ms": 148000,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/3fgK7TjDhlM6OAFuW42qcc"
@@ -819,7 +852,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 136326,
       "name": "Friends for Life",
       "url": "https://open.spotify.com/track/46RRn8dttFN6FKMmwPpb9E"
@@ -981,7 +1014,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 204870,
       "name": "Hope And Glory",
       "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"
@@ -1136,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Intrinsic Silence",
+        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
+      },
+      "artists": [
+        {
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164017,
+      "name": "Intrinsic Silence",
+      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
+    },
+    {
+      "album": {
         "name": "Jeevan",
         "url": "https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ"
       },
@@ -1183,7 +1234,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 165755,
       "name": "Kalapas",
       "url": "https://open.spotify.com/track/24DMnKgG21XIzf4XVTM119"
@@ -1205,6 +1256,24 @@
       "duration_ms": 120172,
       "name": "Lagrima",
       "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
+    },
+    {
+      "album": {
+        "name": "Evanescenza",
+        "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Calmaz",
+          "url": "https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186601,
+      "name": "Libero",
+      "url": "https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx"
     },
     {
       "album": {
@@ -1262,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Longevity",
+        "url": "https://open.spotify.com/album/5q1GXNsqZB1GbekDWzZThJ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Sandberg",
+          "url": "https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 214951,
+      "name": "Longevity",
+      "url": "https://open.spotify.com/track/1YBpN1eAb3hJ0tEtbZsmSt"
+    },
+    {
+      "album": {
         "name": "Lost For Words",
         "url": "https://open.spotify.com/album/3gnQ2B3ZdU8gQdMgA4xc9z"
       },
@@ -1273,7 +1360,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-24",
       "duration_ms": 192000,
       "name": "Lost For Words",
       "url": "https://open.spotify.com/track/6BFmIFysuR7WZBXd28jQlG"
@@ -1507,7 +1594,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 225110,
       "name": "Notes On Leave Taking",
       "url": "https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i"
@@ -1543,7 +1630,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 212028,
       "name": "Open Eyes",
       "url": "https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm"
@@ -1635,7 +1722,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 105626,
-      "name": "Piano Ele\u0301ctrico",
+      "name": "Piano El\u00e9ctrico",
       "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
     },
     {
@@ -1669,7 +1756,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 178466,
       "name": "Porte Ma Croix",
       "url": "https://open.spotify.com/track/7LwsgrwaA4eOAEGMGJGmFw"
@@ -1807,6 +1894,24 @@
       "duration_ms": 202000,
       "name": "Renewing",
       "url": "https://open.spotify.com/track/7qRlRHuoa9Rh1lgm5exmkZ"
+    },
+    {
+      "album": {
+        "name": "Rugare",
+        "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
+      },
+      "artists": [
+        {
+          "name": "Tendai Marwan",
+          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188691,
+      "name": "Rugare",
+      "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
     },
     {
       "album": {
@@ -1965,7 +2070,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-09",
       "duration_ms": 251428,
       "name": "Spaces in Serenity",
       "url": "https://open.spotify.com/track/6ivdFVK29qRdsKezUln44y"
@@ -2404,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
+      },
+      "artists": [
+        {
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+    },
+    {
+      "album": {
         "name": "Upwards",
         "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
       },
@@ -2527,6 +2650,24 @@
       "duration_ms": 188940,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr"
+    },
+    {
+      "album": {
+        "name": "Winter Night Mist",
+        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193095,
+      "name": "Winter Night Mist",
+      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
     },
     {
       "album": {

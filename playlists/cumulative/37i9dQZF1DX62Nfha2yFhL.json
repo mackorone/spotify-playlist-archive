@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.",
   "name": "Soul Lounge",
-  "published_playlist_ids": [
-    "7okhrNisMIylwZHgFGUJed"
-  ],
   "tracks": [
     {
       "album": {
@@ -1862,7 +1859,7 @@
     },
     {
       "album": {
-        "name": "Today",
+        "name": "TODAY",
         "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
       },
       "artists": [
@@ -1875,7 +1872,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241666,
-      "name": "Today",
+      "name": "TODAY",
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
     },
     {

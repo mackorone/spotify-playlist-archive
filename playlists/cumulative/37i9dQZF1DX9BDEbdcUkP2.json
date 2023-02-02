@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "The songs of the 1960s that will make you dance all summer long!",
   "name": "Summer Hits of the 60s",
-  "published_playlist_ids": [
-    "4GhcyI9e0l5sIU72HEhwgi"
-  ],
   "tracks": [
     {
       "album": {
@@ -239,7 +236,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 170786,
       "name": "Chapel Of Love",
       "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
@@ -257,7 +254,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 140120,
       "name": "Da Doo Ron Ron (When He Walked Me Home)",
       "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
@@ -477,7 +474,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-24",
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
@@ -873,7 +870,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 113200,
       "name": "Love Potion No. 9 - Remastered / Single Version",
       "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
@@ -1593,7 +1590,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 177706,
       "name": "You've Really Got A Hold On Me",
       "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"

@@ -4,7 +4,7 @@
 
 > The rise of the world's most influential punk band.
 
-27 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/2UiAyfKzlBQGJk08L73iZR)
+27 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5ahhg3aywppGeJs8tXvZOo.md) - [plain]
 
 > Fresh takes on all of your favorite standards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

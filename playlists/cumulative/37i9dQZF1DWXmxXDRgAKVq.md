@@ -4,7 +4,7 @@
 
 > Curated by A$AP Mob in honor of A$AP Yams.
 
-62 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/0c7Y7egNGDVU2Jrz0lG5Ob)
+62 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

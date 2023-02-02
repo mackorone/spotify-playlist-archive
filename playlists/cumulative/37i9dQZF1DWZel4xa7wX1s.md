@@ -4,7 +4,7 @@
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-108 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/3T7FuaCHpe9xluTwkrgztG)
+109 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Backbone](https://open.spotify.com/track/0OAUI6ZmjtbqENMKIry77J) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Backbone](https://open.spotify.com/album/1DSHyLarlaQ2H4jvOMUplL) | 3:03 | 2019-11-29 | 2022-07-29 |
 | [Ball and Chain](https://open.spotify.com/track/22UgD3bRXzveuNnhZP72a4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Ball and Chain](https://open.spotify.com/album/3vTzDpCjM9VXnr80VO9b4R) | 4:29 | 2019-11-29 | 2022-07-28 |
 | [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 | 2019-11-29 |  |
-| [Blind Leading the Blind](https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading the Blind](https://open.spotify.com/album/07axYwrFUra9cfBF0pNZ8X) | 3:44 | 2019-11-29 |  |
+| [Blind Leading the Blind](https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading the Blind](https://open.spotify.com/album/07axYwrFUra9cfBF0pNZ8X) | 3:44 | 2019-11-29 | 2022-12-01 |
 | [Blind Leading The Blind](https://open.spotify.com/track/2WbrVeftLDcSAfQBHxA9P4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading The Blind](https://open.spotify.com/album/1sWcGlojlFQctnfRWlmUjI) | 3:44 | 2019-11-29 | 2022-07-29 |
+| [Blind Leading the Blind](https://open.spotify.com/track/77nG5iTzpTcgWL1QFstTIS) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading the Blind](https://open.spotify.com/album/3v8OqfgSCnS5NDTUsg7X1P) | 3:44 | 2019-11-29 |  |
 | [Champion Of The World](https://open.spotify.com/track/6R7Y33u24Z82KCa4ZzI8gp) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Champion of The World / Daddy](https://open.spotify.com/album/1qAJNklFUgIft4H4mzxg4j) | 4:17 | 2019-11-29 | 2022-07-29 |
 | [Champion Of The World](https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:17 | 2019-11-29 |  |
 | [Chelsea](https://open.spotify.com/track/6QsaoM6upioGbe4WZhLCmc) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Chelsea](https://open.spotify.com/album/2Fr2BpLSBpck5R21kysYox) | 4:49 | 2019-11-29 | 2022-11-14 |
@@ -36,7 +37,7 @@
 | [Done](https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 3:40 | 2019-11-29 |  |
 | [Dreaming Time Again](https://open.spotify.com/track/3A01HmcLsjL5dcGRGnuHzd) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Dreaming Time Again \- EP](https://open.spotify.com/album/6vtOgyM8mqBML5vTVxTrrN) | 4:54 | 2019-11-29 | 2022-07-29 |
 | [Drink](https://open.spotify.com/track/47AkyDjYQnsbKvpAYuDjVD) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Drink](https://open.spotify.com/album/6YFDqKEFYJuQLnzPGqeVqa) | 3:49 | 2019-11-29 | 2022-11-13 |
-| [Every One of Us](https://open.spotify.com/track/5b6zAh5CNRv6dN5JrMNtmk) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Every One of Us](https://open.spotify.com/album/4hlmMOWqxno6iFYi54UKYN) | 3:06 | 2019-11-29 |  |
+| [Every One of Us](https://open.spotify.com/track/5b6zAh5CNRv6dN5JrMNtmk) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Every One of Us](https://open.spotify.com/album/4hlmMOWqxno6iFYi54UKYN) | 3:06 | 2019-11-29 | 2022-11-29 |
 | [Everybody's Someone \(with Olivia Newton\-John\)](https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Rise Up](https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o) | 3:45 | 2019-11-29 |  |
 | [Everyday Life](https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:18 | 2019-11-29 |  |
 | [Everyday Life](https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB) | 4:18 | 2019-11-29 | 2022-07-29 |
@@ -51,7 +52,7 @@
 | [Friends](https://open.spotify.com/track/3dprzFQ0wYBeI1LHPVz549) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Friends](https://open.spotify.com/album/2r2CMBNfSpGiJFXIGwWQV3) | 3:23 | 2019-11-29 | 2022-07-29 |
 | [Fuck The Rain](https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ) | 3:33 | 2019-11-29 |  |
 | [Fuck The Rain](https://open.spotify.com/track/7lIi6IWC8IQFdkGilk6nCi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Fuck The Rain](https://open.spotify.com/album/0uGnnD8nD6TiiCrrqNYedF) | 3:33 | 2019-11-29 | 2022-07-29 |
-| [Fuh You](https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Fuh You](https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U) | 3:23 | 2019-11-29 | 2022-11-14 |
+| [Fuh You](https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Fuh You](https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U) | 3:23 | 2019-11-29 |  |
 | [Get Enough](https://open.spotify.com/track/1oDDLqtGfH8cDD0Fe0Y5Rr) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Get Enough](https://open.spotify.com/album/4SQ8YZhzWW5rgCKYG7DQbS) | 2:57 | 2019-11-29 | 2022-07-27 |
 | [Gimme Gimme Shock Treatment](https://open.spotify.com/track/5BEvPgV3PSk9ebQaf0o3DD) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK) | [I Wanna Be Your Boyfriend \- Tribute To The Ramones](https://open.spotify.com/album/6KaipZ2v1ne7FR2CAKWId5) | 2:11 | 2019-11-29 | 2022-07-29 |
 | [Good Thing Gone](https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Good Thing Gone](https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV) | 4:52 | 2019-11-29 |  |
@@ -70,7 +71,7 @@
 | [Let Me Know](https://open.spotify.com/track/3Yeey7zLzWwpyw83Ypwnlm) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Let Me Know](https://open.spotify.com/album/4yM1WvRo2WYOeSYKYJdknF) | 2:55 | 2019-11-29 | 2022-07-28 |
 | [Let Me Know](https://open.spotify.com/track/0HT2pC2Wcl2GGyDTcCWpLU) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [CLOSURE](https://open.spotify.com/album/6ujQJTTGKCCPdFjeTI4bIh) | 2:56 | 2019-11-29 |  |
 | [Light On](https://open.spotify.com/track/7oDksGjePXQW8RlGXnfv8Q) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Light On](https://open.spotify.com/album/6yO3xjbNgtCnJEhoqW438h) | 4:48 | 2019-11-29 | 2022-11-13 |
-| [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 | 2019-11-29 | 2022-11-13 |
+| [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 | 2019-11-29 | 2023-02-01 |
 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 | 2019-11-29 | 2022-07-29 |
 | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/track/2Eowpnfjs5iXP8OLToAOYA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [More Than Friends \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5E6dG2q42szysfESYn40FL) | 3:01 | 2019-11-29 |  |
 | [My Love Goes On \(feat\. Joss Stone\)](https://open.spotify.com/track/0irDfV3ctQGVN69ograYiK) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [My Love Goes On \(feat\. Joss Stone\)](https://open.spotify.com/album/3Cq3SXwDWPgfurTBArted5) | 3:36 | 2019-11-29 |  |

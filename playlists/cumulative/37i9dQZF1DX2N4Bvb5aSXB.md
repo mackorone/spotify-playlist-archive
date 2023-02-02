@@ -4,7 +4,7 @@
 
 > Brought to you by <a href="spotify:artist:2cADQgiLMjNhbsfeN52Bf3">Swizz Beatz</a> and <a href="spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ">Timbaland</a>.
 
-43 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/6pmXUIcSEyX5s3Z3qVD0DW)
+43 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

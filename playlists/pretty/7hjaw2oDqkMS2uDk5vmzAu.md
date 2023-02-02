@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7hjaw2oDqkMS2uDk5vmzAu.md) - [plain]
 
 > Escape the world with the best, most relaxing Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 88 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

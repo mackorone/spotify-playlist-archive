@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,992 likes - 88 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,974 likes - 88 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 17 | [Sin](https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Sin](https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1) | 2:11 |
 | 18 | [Purgatory](https://open.spotify.com/track/5B5QxhlyrJ7UrI4CrkyS28) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Purgatory](https://open.spotify.com/album/4zQNp38H2n2RpWZ4Nlyi6f) | 2:49 |
 | 19 | [Dead To Me \- Original Mix](https://open.spotify.com/track/6yaihZ7YizWwJ61Cu6Kktl) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Fraxo](https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73) | [Dead To Me Slow + Reverb](https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835) | 3:50 |
-| 20 | [Hell on Earth](https://open.spotify.com/track/5rFtboDQj9ECmz4pAjDsta) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [Hell on Earth](https://open.spotify.com/album/7dnhkoLh6CayRg3B1HVEXe) | 3:05 |
+| 20 | [Hell on Earth](https://open.spotify.com/track/4NhfgWzbXBtGPCbyIOGk3q) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [Hell on Earth](https://open.spotify.com/album/2BRkDmh59BD4RJuoHopbuE) | 3:05 |
 | 21 | [SLASH](https://open.spotify.com/track/6fYk1h3xgXatisxwR5G77O) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH](https://open.spotify.com/album/5ml9nZdFPLJdUdWT8nf0Dx) | 4:11 |
 | 22 | [Hush](https://open.spotify.com/track/4F3v50jS42NKOuGppjwUHj) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Draicoh](https://open.spotify.com/artist/2lVVjks4oeVRm0yomWFpUC) | [Hush](https://open.spotify.com/album/5UMbBOHJG388cokgCTLlPV) | 2:51 |
 | 23 | [After Life \(feat\. Stacy Barthe\)](https://open.spotify.com/track/3dhPpCQvw3kn7so6mkTbJ3) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [After Life \(feat\. Stacy Barthe\)](https://open.spotify.com/album/7uZZFBdOR9qqmmV5WLUDNP) | 4:53 |
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 72 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 |
 | 73 | [Wicked Witch \- Original Mix](https://open.spotify.com/track/3rolMdFNBd85KXMawmAazE) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [String Theory EP](https://open.spotify.com/album/0LN2Wji8Ln7g2daCcHkeaI) | 3:12 |
 | 74 | [Beautiful Monster](https://open.spotify.com/track/3BkTXfYbVgsvsnoPO73KNN) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Beautiful Monster](https://open.spotify.com/album/7zTGK8FGxxGfbqzSyYZ9iy) | 2:41 |
-| 75 | [Dance with Death](https://open.spotify.com/track/2icGHFD0MuDrfyok0hZC0A) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ), [Luz](https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD) | [Dance with Death](https://open.spotify.com/album/6fE8CiM9Pmn3XPwx39LhWJ) | 5:52 |
+| 75 | [Dance with Death](https://open.spotify.com/track/3WHzdoudaQvAOcGDYFRpWn) | [Ghost Dance](https://open.spotify.com/artist/72xnwCGF31iOuRh3l5JIwZ), [Luz](https://open.spotify.com/artist/1eI0LIircIlC2KbRjJAswD) | [Dance with Death](https://open.spotify.com/album/2RtmP1Gin5BBNgxlu44qeH) | 5:52 |
 | 76 | [Keep Raving](https://open.spotify.com/track/0IJQeY73GsMXqwA5EBzYuP) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Keep Raving](https://open.spotify.com/album/1gsAfjoIcdd8M6XZ9wKpDS) | 2:52 |
 | 77 | [The Evil Folk](https://open.spotify.com/track/2Hdz3K7Nj21JyKdgtOvGIY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [The Evil Folk](https://open.spotify.com/album/1RpZGs7XhczTcZJzduxD0k) | 2:37 |
 | 78 | [The Killer](https://open.spotify.com/track/2Nq9cw839Rz6zLxGYP1YaR) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Bret James](https://open.spotify.com/artist/04NseFrg9L1BHlCQa8tiBl), [RNSOM](https://open.spotify.com/artist/0PDXIBsT4ZOJyqrF1MYnxh) | [The Killer](https://open.spotify.com/album/0L017iQBu2DM0eFfVZchtK) | 3:01 |
 | 79 | [ON FIRE](https://open.spotify.com/track/2vHOCV5YErCA8ypUwHozcA) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:23 |
 | 80 | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/track/1axYKkAUrZbB1axBahVM2J) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/album/2X04eOH1El0sUzp5Ivvp2a) | 4:28 |
 | 81 | [Night Whispers](https://open.spotify.com/track/0yDFdJpx8eP0GN7dAF4uK2) | [RQntz](https://open.spotify.com/artist/6NGuHxpWnoUiTabTNo6JjO), [Loudtech](https://open.spotify.com/artist/2oGd93cmIbD559RjQHpLhr) | [Night Whispers](https://open.spotify.com/album/77zU91YOZiWp4q3hM9VlY1) | 3:20 |
-| 82 | [Till The Day I Die](https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX) | [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7) | 2:30 |
+| 82 | [Till The Day I Die](https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7) | 2:30 |
 | 83 | [Facetime](https://open.spotify.com/track/2tEIpLMEMAYXfBSXrqs89p) | [LAXX](https://open.spotify.com/artist/2kDv96OSt2CHxn9zx3pBwx) | [Facetime](https://open.spotify.com/album/4Dxbt4m9TKVhUx5YouFxNj) | 3:39 |
 | 84 | [Thundergun \- Bassex Remix](https://open.spotify.com/track/5nxBoj8KabR4L8c1ycTBAz) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7), [Bassex](https://open.spotify.com/artist/0MtoWwNFjGtsgJemnvGUFN) | [Thundergun](https://open.spotify.com/album/42OE0SKYQLBjG39nIx1rJO) | 5:34 |
 | 85 | [SPOOKY](https://open.spotify.com/track/6ZQDRNzZxLKT3U37jLH9YM) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SPOOKY](https://open.spotify.com/album/1TqPTsC6hbjM5mj0NaotXi) | 3:49 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 87 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 |
 | 88 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDk1ZGI1YTJmMTI0NjRhNWJjMGE2MzEwMjZlNTAzZTBh`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDc1MzYwOTM2ZWJlMWZhODU1Nzg4MmY5YzgwZWZkZjE2`

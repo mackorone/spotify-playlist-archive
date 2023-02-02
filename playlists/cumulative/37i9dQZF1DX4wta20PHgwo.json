@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-05-02",
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
   "name": "Late Night Jazz",
-  "published_playlist_ids": [
-    "7jLGWJVis6kZYA0OgqQsb5"
-  ],
   "tracks": [
     {
       "album": {
@@ -319,7 +316,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 392746,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/1j2D6VkPq7j7zitnxm2gt1"
@@ -669,7 +666,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 365693,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/4GjFlTH2UmREIYxcux8Ovh"
@@ -699,6 +696,32 @@
       "duration_ms": 264141,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/5BqRh0lU4ZD6L62fMmgtRP"
+    },
+    {
+      "album": {
+        "name": "Monday",
+        "url": "https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt"
+      },
+      "artists": [
+        {
+          "name": "Portraits in Jazz",
+          "url": "https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Nikolaj Hess",
+          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264141,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/6zMFMAx1yW8IAnT5pMqoD9"
     },
     {
       "album": {
@@ -783,7 +806,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 226693,
       "name": "Bird On The Wire",
       "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
@@ -820,6 +843,32 @@
     },
     {
       "album": {
+        "name": "Moods",
+        "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
+      },
+      "artists": [
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486314,
+      "name": "Blame It on My Youth",
+      "url": "https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS"
+    },
+    {
+      "album": {
         "name": "Blame It on My Youth",
         "url": "https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl"
       },
@@ -843,32 +892,6 @@
       "duration_ms": 486314,
       "name": "Blame It on My Youth",
       "url": "https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z"
-    },
-    {
-      "album": {
-        "name": "Moods",
-        "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
-      },
-      "artists": [
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        },
-        {
-          "name": "Henrik Gunde",
-          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
-        }
-      ],
-      "date_added": "2022-07-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 486314,
-      "name": "Blame It on My Youth",
-      "url": "https://open.spotify.com/track/6KkkW4UD9wTTU0S1kfcmmS"
     },
     {
       "album": {
@@ -955,7 +978,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 369466,
       "name": "Blue and Sentimental",
       "url": "https://open.spotify.com/track/3ekVMZX5rGIrr8NJzPGnUN"
@@ -999,7 +1022,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 516133,
       "name": "Blues After Dark",
       "url": "https://open.spotify.com/track/6kVGcuAOP7WnMnhWTL2p0W"
@@ -1780,6 +1803,32 @@
     },
     {
       "album": {
+        "name": "Monday",
+        "url": "https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt"
+      },
+      "artists": [
+        {
+          "name": "Portraits in Jazz",
+          "url": "https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Nikolaj Hess",
+          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 273200,
+      "name": "End Music",
+      "url": "https://open.spotify.com/track/3hEBiMFNK3zMUTaIk0qYyU"
+    },
+    {
+      "album": {
         "name": "The Jewel In The Lotus",
         "url": "https://open.spotify.com/album/1Na5QsavsjOUqtj4f4Bxn1"
       },
@@ -1927,7 +1976,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 712826,
       "name": "For Heaven's Sake",
       "url": "https://open.spotify.com/track/6u4xBwvs0pkkgVyMXrFC9N"
@@ -1975,6 +2024,24 @@
       "duration_ms": 341345,
       "name": "For My Ladies",
       "url": "https://open.spotify.com/track/7jPNoWAyDdfnzU3mUBI0HI"
+    },
+    {
+      "album": {
+        "name": "Silent World",
+        "url": "https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Haffner",
+          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272280,
+      "name": "Forever and Ever",
+      "url": "https://open.spotify.com/track/0AaTNHKAophhP8sZuGqg1I"
     },
     {
       "album": {
@@ -2440,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Reminiscing at Rudy's",
+        "url": "https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4"
+      },
+      "artists": [
+        {
+          "name": "Houston Person",
+          "url": "https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462120,
+      "name": "I'll Let You Know",
+      "url": "https://open.spotify.com/track/07uHVemK3iJmGnHKigX3rS"
+    },
+    {
+      "album": {
         "name": "I'll Never Stop Loving You",
         "url": "https://open.spotify.com/album/2CfvJoDEni8SoCkzdXsV8i"
       },
@@ -2651,7 +2736,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 386440,
       "name": "In a Sentimental Mood",
       "url": "https://open.spotify.com/track/2VEB1PohDkoy7NBDeKhepa"
@@ -2928,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "Outside Introspections",
+        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
+      },
+      "artists": [
+        {
+          "name": "Federica Lorusso",
+          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 309960,
+      "name": "Just Go Ahead",
+      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
+    },
+    {
+      "album": {
         "name": "Animalia",
         "url": "https://open.spotify.com/album/4y83vqVrHDM6ZVK9oyOjhG"
       },
@@ -3049,7 +3152,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-25",
       "duration_ms": 338400,
       "name": "Let Us Not Forget To Be Kind",
       "url": "https://open.spotify.com/track/6dxX3lE5atGmus7Cax42fL"
@@ -3067,7 +3170,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-12",
+      "date_removed": "2022-12-30",
       "duration_ms": 558493,
       "name": "Life And Death",
       "url": "https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P"
@@ -3121,7 +3224,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 501179,
       "name": "Longing",
       "url": "https://open.spotify.com/track/67sVPIVxFU882Z6HpdBjXZ"
@@ -3147,7 +3250,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 533500,
       "name": "Mankind to Earth",
       "url": "https://open.spotify.com/track/5W4WLKjKt4rVmyQV8CsCZ2"
@@ -3216,6 +3319,36 @@
     },
     {
       "album": {
+        "name": "Meant for You",
+        "url": "https://open.spotify.com/album/1yXeNcpnN9mmI0fIW67gRe"
+      },
+      "artists": [
+        {
+          "name": "Gerlo Hesselink Quartet",
+          "url": "https://open.spotify.com/artist/3fs1ksFXnS7wRHYyjKlIqs"
+        },
+        {
+          "name": "Dirk Balthaus",
+          "url": "https://open.spotify.com/artist/6KsO7tLiLB6hZUUjweTd2y"
+        },
+        {
+          "name": "Johan Plomp",
+          "url": "https://open.spotify.com/artist/5ow0muDsII8PgFGHNTVCaH"
+        },
+        {
+          "name": "Joost Kesselaar",
+          "url": "https://open.spotify.com/artist/0PR22c9uM6brHzSwyWmAtX"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248142,
+      "name": "Meant for You",
+      "url": "https://open.spotify.com/track/3EnmCWvp0VeuYY4Gi6GiL2"
+    },
+    {
+      "album": {
         "name": "Nearness Of You: The Ballad Book",
         "url": "https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY"
       },
@@ -3231,6 +3364,24 @@
       "duration_ms": 383626,
       "name": "Midnight Mood",
       "url": "https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB"
+    },
+    {
+      "album": {
+        "name": "Summit",
+        "url": "https://open.spotify.com/album/5P1I1tIgkLh6682ZiOtP92"
+      },
+      "artists": [
+        {
+          "name": "Mu Quintet",
+          "url": "https://open.spotify.com/artist/26hCtsfsn4q3v24kGBmlr0"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291548,
+      "name": "Miss B.",
+      "url": "https://open.spotify.com/track/1BmYFsBIxIB2mDsIXGlCv7"
     },
     {
       "album": {
@@ -3289,6 +3440,24 @@
       "duration_ms": 218973,
       "name": "Mo' Better Blues (feat. Terence Blanchard)",
       "url": "https://open.spotify.com/track/78P3mF3w6APwFpnd6UFH4J"
+    },
+    {
+      "album": {
+        "name": "Remembering",
+        "url": "https://open.spotify.com/album/2elaIEGm1mApCONikdISZD"
+      },
+      "artists": [
+        {
+          "name": "Hyeontae Kim",
+          "url": "https://open.spotify.com/artist/24639nJgAV06UJF47g1ygq"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299026,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/225tB4D1tSQe09i4LfeaCQ"
     },
     {
       "album": {
@@ -3778,6 +3947,28 @@
     },
     {
       "album": {
+        "name": "Community Standards",
+        "url": "https://open.spotify.com/album/6QFLSr6PlbvNpmTddSdTND"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Trio",
+          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
+        },
+        {
+          "name": "Rick Margitza",
+          "url": "https://open.spotify.com/artist/0xk1NHjp5e7n0xYB2pSu9Q"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 386053,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/02REZiJgy4dVwbNwuDtDLI"
+    },
+    {
+      "album": {
         "name": "Old Folks",
         "url": "https://open.spotify.com/album/28K2Qov2FA3U7s9CxFl1Rg"
       },
@@ -3797,6 +3988,28 @@
       "duration_ms": 386053,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/7M0O4QL0O4QCZIBtnpkBAS"
+    },
+    {
+      "album": {
+        "name": "On Late Nights",
+        "url": "https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269702,
+      "name": "On Late Nights",
+      "url": "https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D"
     },
     {
       "album": {
@@ -3889,7 +4102,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 341797,
       "name": "Opaque",
       "url": "https://open.spotify.com/track/4u5mFoRNJAOP1h2MedgInP"
@@ -4115,7 +4328,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 160999,
       "name": "Quiet Corner",
       "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
@@ -4245,7 +4458,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 335866,
       "name": "Reflections in D",
       "url": "https://open.spotify.com/track/5pyFDbYIDiRBsFK3F59iju"
@@ -4478,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "Ruth",
+        "url": "https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly"
+      },
+      "artists": [
+        {
+          "name": "Joe Chambers",
+          "url": "https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251277,
+      "name": "Ruth",
+      "url": "https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD"
+    },
+    {
+      "album": {
         "name": "Three Day Moon",
         "url": "https://open.spotify.com/album/7oun4UdnI3S05ELHv829TY"
       },
@@ -4638,6 +4869,28 @@
     },
     {
       "album": {
+        "name": "Silver Light",
+        "url": "https://open.spotify.com/album/37zSkjz6slUovSDYQlqFCX"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Rochford",
+          "url": "https://open.spotify.com/artist/2HK0XyXwfJg8qxJzHIg02p"
+        },
+        {
+          "name": "Kit Downes",
+          "url": "https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295546,
+      "name": "Silver Light",
+      "url": "https://open.spotify.com/track/0scC8HqVaRe04wA0EeAZLp"
+    },
+    {
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -4773,7 +5026,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 239272,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/1Ukp5g1LebPFr7iKFJExUI"
@@ -4943,7 +5196,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 402554,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/4iwNcUIjJQGJSKH2qoez4o"
@@ -5085,7 +5338,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 378520,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT"
@@ -5298,6 +5551,28 @@
     },
     {
       "album": {
+        "name": "The Peace Inside",
+        "url": "https://open.spotify.com/album/1002l2t97C7pBbUD6sTVhM"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Haffner",
+          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
+        },
+        {
+          "name": "Till Br\u00f6nner",
+          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294413,
+      "name": "The Peace Inside",
+      "url": "https://open.spotify.com/track/2IMyhSjfuklmagV5VCDsoq"
+    },
+    {
+      "album": {
         "name": "The Peacocks",
         "url": "https://open.spotify.com/album/22WyPgbJNJCoWQLfnPAEgd"
       },
@@ -5416,6 +5691,32 @@
     },
     {
       "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/2lTLo4fPtvKX8RVUTSrcou"
+      },
+      "artists": [
+        {
+          "name": "\u0141ukasz Borowicki",
+          "url": "https://open.spotify.com/artist/6CQ2Tz7zmnD0aibHMs3TFl"
+        },
+        {
+          "name": "Mariusz Pra\u015bniewski",
+          "url": "https://open.spotify.com/artist/3TAGTar9h3XhX7H2xhOurj"
+        },
+        {
+          "name": "Karol Doma\u0144ski",
+          "url": "https://open.spotify.com/artist/2y3FvjLfLQFfnagWWj0F31"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282013,
+      "name": "The World We Knew",
+      "url": "https://open.spotify.com/track/5qyLYGMHTACVqf7qjGvhUx"
+    },
+    {
+      "album": {
         "name": "Theme for Ernie",
         "url": "https://open.spotify.com/album/5nIGkpHjEIoZwoZkWbOOAh"
       },
@@ -5469,7 +5770,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 307370,
       "name": "Theme for Ernie",
       "url": "https://open.spotify.com/track/5hUMi6pb2Gy6QQAruGgedc"
@@ -5617,7 +5918,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 209333,
       "name": "They Didn't Believe Me",
       "url": "https://open.spotify.com/track/34oMi39G5RYgaCPwRNJ7OU"
@@ -5657,6 +5958,40 @@
       "duration_ms": 230000,
       "name": "This Is Not About You",
       "url": "https://open.spotify.com/track/50Y1OxU4NlKYjR2v9RxBpK"
+    },
+    {
+      "album": {
+        "name": "This Is Our Year",
+        "url": "https://open.spotify.com/album/0vly6DrBxbf2tIUB33vOh0"
+      },
+      "artists": [
+        {
+          "name": "Thomas Sejthen Trio",
+          "url": "https://open.spotify.com/artist/66wuq7K0KsFPamcuZJI3LM"
+        },
+        {
+          "name": "Thomas Sejthen",
+          "url": "https://open.spotify.com/artist/785HPw9fdKz7GmwfItsc2K"
+        },
+        {
+          "name": "Mads Ole Erhardsen",
+          "url": "https://open.spotify.com/artist/6q6FdyAk4gR1slw690LP4o"
+        },
+        {
+          "name": "Jesper Bo Knudsen",
+          "url": "https://open.spotify.com/artist/767zb5lIt0ZuBdDbiBbSUO"
+        },
+        {
+          "name": "S\u00f8ren Bigum",
+          "url": "https://open.spotify.com/artist/0XKjUjSwm1Am2d3M25U2rl"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371894,
+      "name": "This Is Our Year",
+      "url": "https://open.spotify.com/track/24USzMZvsczfg3WsjUruPc"
     },
     {
       "album": {
@@ -5889,7 +6224,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 183106,
       "name": "V\u00e6r sterk, min sjel",
       "url": "https://open.spotify.com/track/13lBg6iGg4yqLccgLNriTy"
@@ -5911,6 +6246,28 @@
       "duration_ms": 369060,
       "name": "What Are You Doing for the Rest of Your Life",
       "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
+    },
+    {
+      "album": {
+        "name": "Live At Bird's Eye",
+        "url": "https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH"
+      },
+      "artists": [
+        {
+          "name": "Harry Allen",
+          "url": "https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR"
+        },
+        {
+          "name": "Martin Sasse",
+          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319468,
+      "name": "When October Goes - Live",
+      "url": "https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ"
     },
     {
       "album": {

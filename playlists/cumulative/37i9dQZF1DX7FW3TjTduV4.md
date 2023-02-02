@@ -4,7 +4,7 @@
 
 > This is the best of Dirty Projectors...
 
-23 songs - 1 hr 27 min - [published](https://open.spotify.com/playlist/0VhfMNPR5KphRb5KqyHiyL)
+23 songs - 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

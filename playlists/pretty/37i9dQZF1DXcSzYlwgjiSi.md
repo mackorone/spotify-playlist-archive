@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,323 likes - 132 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,120 likes - 132 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 131 | [NO SAD SONGS](https://open.spotify.com/track/7bL7jrv7ZOlSotkWa7UNuR) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 2:52 |
 | 132 | [Vacation](https://open.spotify.com/track/4DdF1l0DzBQy8YL2UVhPrU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:43 |
 
-Snapshot ID: `MTY2MzkwNjcwNiwwMDAwMDAwMDg3ZTc0OTc3NWNhMzcyZmJmNWU3NmNhNjM1N2I2NmI4`
+Snapshot ID: `MTY3MzU3NzAwOCwwMDAwMDAwMDdhN2I0Y2MxNjBhYTZhMDViYmNmYzRhMjg5ODdmZWY4`

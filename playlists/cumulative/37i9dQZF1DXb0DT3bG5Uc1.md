@@ -4,7 +4,7 @@
 
 > Classic science fiction performed for the airwaves.
 
-42 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/3I6CrqcIIccMCgh9RjuvcU)
+42 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

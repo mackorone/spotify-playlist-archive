@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-78 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4IZcoENbRUH8fIMPWTB7x5)
+79 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,9 +52,10 @@
 | [アンパンマンのマーチ](https://open.spotify.com/track/1PKfIbqY6tFFPcvmbHP1RS) | [ドリーミング](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ!アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:50 | 2022-04-10 |  |
 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 | 2022-05-27 |  |
 | [ウルトラ リラックス](https://open.spotify.com/track/59TfIBHvlkefLsrMUy2wvz) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/3e54EqkG6yNxDS4D9tfL0X) | 4:35 | 2022-04-10 | 2022-07-29 |
+| [オラはにんきもの](https://open.spotify.com/track/4wXNNWkfD8JLN8AFSCYXvb) | [のはらしんのすけ](https://open.spotify.com/artist/6llUTHSSYBAyRZtZiwj0bm) | [クレヨンしんちゃん](https://open.spotify.com/album/6wxH8XD524yDFAWQ8yS65R) | 3:32 | 2022-12-24 |  |
 | [カントリー・ロード\(耳をすませば\)](https://open.spotify.com/track/05ZK15TznnzSCm9zeF0Y8j) | [本名陽子](https://open.spotify.com/artist/6Sjyx1ilVnUtyFWOPTPKFc) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:26 | 2022-04-10 | 2022-07-29 |
 | [ギリギリchop](https://open.spotify.com/track/6UUmbqYhL4p8W70bCzfOpx) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ギリギリchop](https://open.spotify.com/album/2xvUnnVWLk2tEPlbtOBpOd) | 3:57 | 2022-04-10 |  |
-| [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 | 2022-04-10 |  |
+| [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichiro Mizuki](https://open.spotify.com/artist/4uW4SEyjVLBFqGsy9iaD9N) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 | 2022-04-10 |  |
 | [コジコジ銀座](https://open.spotify.com/track/01zzfKPpN3CnJy4jNtsPQm) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [JAILHOUSE HITS](https://open.spotify.com/album/3SuGZOwkctOdagWobz29SA) | 4:56 | 2022-04-10 | 2022-07-29 |
 | [ブルーウォーター](https://open.spotify.com/track/1F04e0KDJw0MjCotiTsrNJ) | [森川美穂](https://open.spotify.com/artist/0cJFRLKH4rhk9pDOukq0gn) | [森川美穂ベストコレクション Be Free](https://open.spotify.com/album/2GsqsWkdHJWNvz3kkM4CRC) | 4:30 | 2022-05-27 |  |
 | [ブルーウォーター](https://open.spotify.com/track/6V9J5JmJC5kki2m7e2X9HG) | [森川美穂](https://open.spotify.com/artist/0cJFRLKH4rhk9pDOukq0gn) | [森川美穂ベストコレクション Be Free](https://open.spotify.com/album/32v1HLUwrJvtWeHqXa3PhZ) | 4:30 | 2022-04-10 | 2022-07-29 |
@@ -69,8 +70,8 @@
 | [微笑みの爆弾](https://open.spotify.com/track/5umjq620i9NI0l5wZvmjPr) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [決定盤「幽☆遊☆白書」アニメ主題歌&キャラソン大全集](https://open.spotify.com/album/7JMovRguegwVoP29vemjTE) | 4:12 | 2022-04-10 | 2022-07-29 |
 | [恋しさと せつなさと 心強さと](https://open.spotify.com/track/4t6gCnZijXxfFkrZG2RDHg) | [Ryoko Shinohara](https://open.spotify.com/artist/2Ff8zALDdJVexxrBF9an2M) | [恋しさと せつなさと 心強さと](https://open.spotify.com/album/5zOHKJBwcLlZ1Oby7ktwpI) | 4:22 | 2022-04-10 | 2022-07-29 |
 | [恋しさと せつなさと 心強さと](https://open.spotify.com/track/7rxWdyCnDCzXuYwV28VTwd) | [Ryoko Shinohara](https://open.spotify.com/artist/2Ff8zALDdJVexxrBF9an2M), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [20 BEATS 20 TALES](https://open.spotify.com/album/1EftEeFHZho0h7Ow7Uy9KN) | 4:12 | 2022-05-27 |  |
-| [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 | 2022-04-10 | 2022-07-29 |
-| [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 | 2022-05-27 |  |
+| [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 | 2022-04-10 |  |
+| [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 | 2022-05-27 | 2023-02-02 |
 | [笑顔が好きだから](https://open.spotify.com/track/1YaK1kIu6DANfG2CdxV4Y1) | [沢田聖子](https://open.spotify.com/artist/6vT1iz1bV6fPXBrOYwG83c) | [Folk Songs](https://open.spotify.com/album/5HSNYmUtncyz9BEQV35Lro) | 4:47 | 2022-04-10 | 2022-08-31 |
 | [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 | 2022-04-10 |  |
 | [葛飾ラプソディー](https://open.spotify.com/track/0Db5hjUbBwh3EdcuVRbMMj) | [Kôhei Dojima](https://open.spotify.com/artist/4xIGdXa6w9eWUoVnEsZNJ9) | [葛飾ラプソディー](https://open.spotify.com/album/2tJpQBIrw5JKRli1wBONs7) | 2:48 | 2022-04-10 |  |
@@ -82,7 +83,7 @@
 | [通学路](https://open.spotify.com/track/3bWtmS6HYTudK8w9BSDsfw) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/4gYecLNP2SMcZ8ObXyryeS) | 4:05 | 2022-05-27 |  |
 | [通学路](https://open.spotify.com/track/4aPWrSvOPs0TEfQviAvjAb) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/5N2CPtTbsPdd706lfTJiUj) | 4:05 | 2022-04-10 | 2022-07-29 |
 | [通学路](https://open.spotify.com/track/1vnFKuR3rBOhX7l5lcrMDa) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [GOLDEN☆BEST Whiteberry](https://open.spotify.com/album/7BMm2AkVbA3F7ULQoJ5ivY) | 4:05 | 2022-08-30 | 2022-11-14 |
-| [運命のルーレット廻して](https://open.spotify.com/track/36LFRJKinf0TWJjHg6SmHg) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [運命のルーレット廻して](https://open.spotify.com/album/0am0AmvgNvxLx0swxwyQVx) | 5:00 | 2022-04-10 |  |
+| [運命のルーレット廻して](https://open.spotify.com/track/36LFRJKinf0TWJjHg6SmHg) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [運命のルーレット廻して](https://open.spotify.com/album/0am0AmvgNvxLx0swxwyQVx) | 5:00 | 2022-04-10 | 2022-12-25 |
 | [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 | 2022-05-27 |  |
 | [魂のルフラン](https://open.spotify.com/track/1NrzI6zJMDJLXTfxRFzGwX) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 5:14 | 2022-08-30 | 2022-11-14 |
 | [魂のルフラン](https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン](https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15) | 5:14 | 2022-04-10 | 2022-07-29 |

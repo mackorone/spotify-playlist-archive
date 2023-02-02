@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Women who experiment with electronic loops, strings, voice and other cosmic delights. Cover: Loraine James",
   "name": "Women of Experimental",
-  "published_playlist_ids": [
-    "34ALKhfWb0HiyjEM3uR89z"
-  ],
   "tracks": [
     {
       "album": {
@@ -1009,10 +1006,28 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 271951,
       "name": "Love Birds (acoustic) - WXAXRXP Session",
       "url": "https://open.spotify.com/track/2mpxwkwJKrTCTpWLxetAJn"
+    },
+    {
+      "album": {
+        "name": "WXAXRXP Session",
+        "url": "https://open.spotify.com/album/3t9hFz7sq6MnhtTVceRB8R"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271951,
+      "name": "Love Birds (acoustic) - WXAXRXP Session",
+      "url": "https://open.spotify.com/track/5HHUcRqLOs9OkTf4qNX6lF"
     },
     {
       "album": {
@@ -1027,10 +1042,28 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 266965,
       "name": "Love Birds, Night Birds, Devil-Birds",
       "url": "https://open.spotify.com/track/2eK9fQF84eSw3DqJ7LbPOQ"
+    },
+    {
+      "album": {
+        "name": "Love Birds, Night Birds, Devil-Birds",
+        "url": "https://open.spotify.com/album/2wm5AfDrhMn9IlDfhJWQP5"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266965,
+      "name": "Love Birds, Night Birds, Devil-Birds",
+      "url": "https://open.spotify.com/track/4qYshoEFhmPtEHBYX3n9xp"
     },
     {
       "album": {

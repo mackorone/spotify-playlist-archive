@@ -4,7 +4,7 @@
 
 > Amigo, ven te invito una copa...
 
-102 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
+102 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

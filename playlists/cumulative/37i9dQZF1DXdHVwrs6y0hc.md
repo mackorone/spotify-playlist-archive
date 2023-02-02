@@ -4,7 +4,7 @@
 
 > Come for the stew stay for the craic.
 
-65 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/2UoQjYf7sXAZD5KCr6tZQp)
+65 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [The Man for Galway / The Rambling Pitchfork \(Song & Jig\) \(feat\. Fergus Feely\)](https://open.spotify.com/track/7HtoQYDtTS4QlJpas6NPII) | [Seán Tyrrell, Ronan Browne & Kevin Glackin](https://open.spotify.com/artist/0uTrtjSKL3BAkHSb7hA0Ut) | [And So the Story Goes](https://open.spotify.com/album/67xSY1GD1hdg4cipNuh5sJ) | 3:57 | 2021-04-26 | 2022-11-13 |
 | [The Mickey Dam](https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 2:48 | 2021-04-26 |  |
 | [The Month of January](https://open.spotify.com/track/5NLhEltFqmzlXx6erUdGyj) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:42 | 2021-04-26 |  |
-| [The Reason I Left Mullingar](https://open.spotify.com/track/69BIUIZZ8xIYJhQ0t1eY1J) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Song for Ireland](https://open.spotify.com/album/1cWuC6mhnhmtZOOICbZEAA) | 4:08 | 2021-04-26 | 2022-11-14 |
+| [The Reason I Left Mullingar](https://open.spotify.com/track/69BIUIZZ8xIYJhQ0t1eY1J) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Song for Ireland](https://open.spotify.com/album/1cWuC6mhnhmtZOOICbZEAA) | 4:08 | 2021-04-26 | 2023-01-15 |
 | [The Tailor by Trade](https://open.spotify.com/track/4NqeYs9eIrK4qPMlg9gk99) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Irish Festival](https://open.spotify.com/album/7mfyOcjeuUcCI1rwpqPhC0) | 3:25 | 2021-04-26 |  |
 | [The Whole Chicken in the Soup \- The Crooked Road](https://open.spotify.com/track/4edsi4eGy8AyZ6ODg3ZnuR) | [Philip Masure](https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F), [Patrick Michiels](https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N), [Kieran Fahy](https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF) | [Kieran Fahy: Irish Fiddle \- Man From the West](https://open.spotify.com/album/3qiNV2ylg4Kif4DCML9FCo) | 2:45 | 2021-04-26 |  |
 | [The Wild Rover](https://open.spotify.com/track/47Aj72P6zTD6UqkIN44IiM) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:04 | 2021-04-26 |  |

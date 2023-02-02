@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 72055,
+  "num_followers": 72944,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDQyMTY3NjcyYjBmZGZjMzE1ZGJlZTVhNjU3OTA5OTRm",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDQyMjI1YTM4YTQxNWYwMTAxZjFjMmE5YmQwNWUwNjhi",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -143,6 +143,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 340344,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/5IhsQZLczOpo7YBZUnJUud"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Decade",
         "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
       },
@@ -175,38 +191,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Make Room",
-        "url": "https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 340344,
-      "name": "Make Room",
-      "url": "https://open.spotify.com/track/5IhsQZLczOpo7YBZUnJUud"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 384093,
-      "name": "In Jesus Name",
-      "url": "https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
@@ -227,34 +211,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "This Is A Move (Live)",
-        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
         }
       ],
-      "duration_ms": 445586,
-      "name": "This Is A Move - Live",
-      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB"
-      },
-      "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        }
-      ],
-      "duration_ms": 366319,
-      "name": "Change Me",
-      "url": "https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB"
+      "duration_ms": 384093,
+      "name": "In Jesus Name",
+      "url": "https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -279,18 +247,34 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB"
       },
       "artists": [
         {
-          "name": "Jessica Reedy",
-          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
         }
       ],
-      "duration_ms": 246106,
-      "name": "Put It On The Altar",
-      "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
+      "duration_ms": 366319,
+      "name": "Change Me",
+      "url": "https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -367,22 +351,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 434546,
-      "name": "You Are God Alone",
-      "url": "https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Make Room",
         "url": "https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS"
       },
@@ -395,6 +363,22 @@
       "duration_ms": 408814,
       "name": "Not Lucky, I'm Loved",
       "url": "https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 434546,
+      "name": "You Are God Alone",
+      "url": "https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -419,6 +403,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
+      },
+      "artists": [
+        {
+          "name": "Jessica Reedy",
+          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Put It On The Altar",
+      "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "V2...",
         "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
       },
@@ -431,54 +431,6 @@
       "duration_ms": 223666,
       "name": "Praise on the Inside",
       "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Close (Radio Edit)",
-        "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Close (Radio Edit)",
-      "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Forever Yours",
-        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "I Need A Word",
-      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "I See Miracles",
-        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "I See Miracles",
-      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -499,18 +451,50 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "More Than Anything (Radio Edit)",
-        "url": "https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc"
+        "name": "Close (Radio Edit)",
+        "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
       },
       "artists": [
         {
-          "name": "Anita Wilson",
-          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
         }
       ],
-      "duration_ms": 260120,
-      "name": "More Than Anything (Radio Edit)",
-      "url": "https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5"
+      "duration_ms": 265173,
+      "name": "Close (Radio Edit)",
+      "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "I See Miracles",
+        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 260431,
+      "name": "I See Miracles",
+      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "I Need A Word",
+      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -531,34 +515,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+        "name": "More Than Anything (Radio Edit)",
+        "url": "https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc"
       },
       "artists": [
         {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+          "name": "Anita Wilson",
+          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
         }
       ],
-      "duration_ms": 175813,
-      "name": "2nd Win",
-      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "You Shall Live",
-        "url": "https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 318186,
-      "name": "Live",
-      "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
+      "duration_ms": 260120,
+      "name": "More Than Anything (Radio Edit)",
+      "url": "https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -579,6 +547,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "2nd Win",
+      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Dear Future Me",
         "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
       },
@@ -591,54 +575,6 @@
       "duration_ms": 276423,
       "name": "I Forgive Me",
       "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 292789,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "The Dolly Express",
-        "url": "https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Dolly",
-          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
-        }
-      ],
-      "duration_ms": 345625,
-      "name": "You",
-      "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Deitrick Haddon & Hill City Worship Camp",
-        "url": "https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 458498,
-      "name": "A Billion People",
-      "url": "https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -659,6 +595,38 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "You Shall Live",
+        "url": "https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 318186,
+      "name": "Live",
+      "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 292789,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Life Music: Stage Two",
         "url": "https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4"
       },
@@ -675,6 +643,38 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Deitrick Haddon & Hill City Worship Camp",
+        "url": "https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 458498,
+      "name": "A Billion People",
+      "url": "https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "The Dolly Express",
+        "url": "https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+        }
+      ],
+      "duration_ms": 345625,
+      "name": "You",
+      "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Work It Out (Live)",
         "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 320955,
       "name": "Work It Out - Live",
       "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
-        }
-      ],
-      "duration_ms": 295213,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -751,6 +735,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        }
+      ],
+      "duration_ms": 295213,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 380493,
       "name": "Close",
       "url": "https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "WOW Gospel 2016",
+        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "Already Getting Better",
+      "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -799,22 +815,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "WOW Gospel 2016",
-        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
-      },
-      "artists": [
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "Already Getting Better",
-      "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
         "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 485026,
       "name": "Anything Can Happen",
       "url": "https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "I'm Good",
-        "url": "https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -911,6 +895,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Think About These Things",
         "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 153853,
       "name": "Winning",
       "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "I Got Out",
-        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
-      },
-      "artists": [
-        {
-          "name": "Bryan Popin",
-          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
-        }
-      ],
-      "duration_ms": 297653,
-      "name": "I Got Out",
-      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -959,6 +943,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "I Got Out",
+        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
+      },
+      "artists": [
+        {
+          "name": "Bryan Popin",
+          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
+        }
+      ],
+      "duration_ms": 297653,
+      "name": "I Got Out",
+      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Open Door (See You Later)",
         "url": "https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M"
       },
@@ -975,6 +975,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Place Called Victory - EP",
+        "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
+      },
+      "artists": [
+        {
+          "name": "Deon Kipping",
+          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
+        }
+      ],
+      "duration_ms": 383552,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Bigger Than Me",
         "url": "https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4"
       },
@@ -987,26 +1003,6 @@
       "duration_ms": 259853,
       "name": "Bigger Than Me",
       "url": "https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Declarations",
-        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        },
-        {
-          "name": "Gene Hoskins",
-          "url": "https://open.spotify.com/artist/3InuhUOZdqcWYa96xDDaG0"
-        }
-      ],
-      "duration_ms": 476252,
-      "name": "I Agree (feat. Gene Hoskins)",
-      "url": "https://open.spotify.com/track/59Di2wFNVIZZLXQjMxVjgr"
     }
   ],
   "unique_name": "Sundays Best",

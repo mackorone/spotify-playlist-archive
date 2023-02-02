@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "Classici Ya Habibi! This is why Tata always says, \"fish ba'ed ayam zamaan.\"",
+  "description": "Timeless & classic Arabic songs",
   "name": "Arabic Classics",
-  "published_playlist_ids": [
-    "3fuIq8WUILdNuM1mhTgx6c"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,6 +56,24 @@
       "duration_ms": 3312720,
       "name": "Akdeb Alek Live Record",
       "url": "https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF"
+    },
+    {
+      "album": {
+        "name": "Agrab Al Nass",
+        "url": "https://open.spotify.com/album/1na7acy4CXPMPaZjoU5qbJ"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Abdu",
+          "url": "https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 715013,
+      "name": "Al Amakin",
+      "url": "https://open.spotify.com/track/7qXb6Xw1V0H9N7jHurMwa5"
     },
     {
       "album": {
@@ -422,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Batwanes Beek",
+        "url": "https://open.spotify.com/album/3w6wliAjhJS16hZyimZpT7"
+      },
+      "artists": [
+        {
+          "name": "Warda",
+          "url": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 804402,
+      "name": "Batwanes Beek",
+      "url": "https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF"
+    },
+    {
+      "album": {
         "name": "Aghany Film Hekayet Hob",
         "url": "https://open.spotify.com/album/1dAYSuj4f2djYrKHSlLpSS"
       },
@@ -433,7 +466,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 509114,
       "name": "Betlomoni Leh",
       "url": "https://open.spotify.com/track/2VwqTz304YseLtNW8RjoyG"

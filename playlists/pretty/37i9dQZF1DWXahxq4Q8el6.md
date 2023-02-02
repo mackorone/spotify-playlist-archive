@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,984 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,386 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 47 | [Elisa's Theme](https://open.spotify.com/track/0Cr1H8kCXN5qBAQCHYtVGu) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Shape Of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/058fiqH1NYYmur8cicws4l) | 2:36 |
 | 48 | [A Golden Childhood](https://open.spotify.com/track/06c5mZyiTC81gCaQ05sCIG) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:56 |
 | 49 | [Score Suite](https://open.spotify.com/track/4jVaVybiUiKHPd0SxfU3ZK) | [Nate Heller](https://open.spotify.com/artist/1upi0p1RPmbUDRvbDjxNKn) | [A Beautiful Day in the Neighborhood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ivFRy56HgNNiwYeeTdIIa) | 4:46 |
-| 50 | [Leaping Penguins](https://open.spotify.com/track/2aNbmkcEn5i29PSbWjjxB0) | [George Fenton](https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [Frozen Planet \(Soundtrack from the TV series\)](https://open.spotify.com/album/02bMvrs1MgBGhtAc311yzW) | 1:28 |
+| 50 | [Leaping Penguins](https://open.spotify.com/track/6wsoNBrdpgQ0EY0MektJYq) | [George Fenton](https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [Frozen Planet \(Soundtrack from the TV Series\)](https://open.spotify.com/album/1wri0zC2tZRJeEPN7sXhO6) | 1:28 |
 | 51 | [The Burning Bush](https://open.spotify.com/track/5tgyHc2LLF0BI2udBTMFJz) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 7:16 |
 | 52 | [End Titles](https://open.spotify.com/track/1CxT3WZkSuEAxPOKAPzDDl) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [The Duchess \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6nOhQTzY8IZPRcYpkfZOsl) | 2:08 |
 | 53 | [Adventures of a London Gentleman](https://open.spotify.com/track/16iqQIS5kz8tj2EeoDvq7i) | [Christopher Willis](https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P) | [The Personal History of David Copperfield \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW) | 3:49 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 55 | [Nuovo Cinema Paradiso](https://open.spotify.com/track/4xx3UI7cLCk1awQPAPLeHj) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Nuovo Cinema Paradiso \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/0O1LCjDQ6gFjaLG05xj0xH) | 2:58 |
 | 56 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGE4NmVmMGNhNmE4NzA5ZGFmMGFmZGJjM2ViYmU1ZmI3`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDMzNWFiN2FkYmEzMDU4NjdmOTllYTRmZTFlOGI2YWM4`

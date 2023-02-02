@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
   "name": "This Is Grupo Niche",
-  "published_playlist_ids": [
-    "0sKOKr4jcSA1YWjPvUiC1U"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,10 +70,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 309963,
       "name": "Buenaventura y Caney",
       "url": "https://open.spotify.com/track/0LJKDAqnM2Evn6HclhDWaG"
+    },
+    {
+      "album": {
+        "name": "Querer Es Poder",
+        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309963,
+      "name": "Buenaventura y Caney",
+      "url": "https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm"
     },
     {
       "album": {
@@ -127,7 +142,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2023-01-19",
       "duration_ms": 276826,
       "name": "Cali Aj\u00ed",
       "url": "https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb"
@@ -325,7 +340,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 291893,
       "name": "El Amor Vendr\u00e1",
       "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
@@ -692,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 305506,
+      "name": "Mi Valle del Cauca",
+      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
+    },
+    {
+      "album": {
         "name": "Una Aventura...La Historia",
         "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
       },
@@ -757,7 +790,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-13",
       "duration_ms": 323026,
       "name": "No Tuve A Quien Decirle Amor",
       "url": "https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa"
@@ -836,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Un Alto en el Camino",
+        "url": "https://open.spotify.com/album/6zjMkgvzUOUiID1lJcFIgN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 299703,
+      "name": "Sin Palabras",
+      "url": "https://open.spotify.com/track/4BhR5u19BAULu1ybhcKQkV"
+    },
+    {
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -905,6 +956,50 @@
       "duration_ms": 260431,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas, Vol. 1",
+        "url": "https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-29",
+      "duration_ms": 344293,
+      "name": "Te Amo, Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/67BqqOrOgEGitc1HmuQeNl"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344293,
+      "name": "Te Amo, Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/6Td1PkXKrmmKRgcMG0GuC1"
     },
     {
       "album": {

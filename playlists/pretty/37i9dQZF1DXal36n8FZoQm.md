@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,145 likes - 143 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,494 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 35 | [SDO](https://open.spotify.com/track/32H1zxJTZpa0jD0p7NayiP) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 3:26 |
 | 36 | [Like a Fighter](https://open.spotify.com/track/1NLOotIFSAROiIyEz2jWWa) | [Alexander Rudd](https://open.spotify.com/artist/02byKbTE2ZyrjUjT6uiTc0), [Zach Lemmon](https://open.spotify.com/artist/1DqlgYeGygYV43IWmrISKA) | [70s Sounds](https://open.spotify.com/album/4UbnvDEcUaEhyDTgDYOeVl) | 3:10 |
 | 37 | [Cinderelly](https://open.spotify.com/track/1tj53uXJoc0uvWSF74KSx7) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Cinderelly](https://open.spotify.com/album/39zIVvbgkZLTQMqBiUChgW) | 2:08 |
-| 38 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 |
+| 38 | [Sailing](https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Sailing / Poor Shirley \(Digital 45\)](https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0) | 4:15 |
 | 39 | [Feel Good](https://open.spotify.com/track/5zx4puSZ2s1SxzsxFUOTDB) | [Mark Alberts](https://open.spotify.com/artist/0kxHUxbIeHPD2UwAsUWW63) | [Rock Up](https://open.spotify.com/album/1dlvVo4PLSxqreUS9iCS4j) | 2:28 |
 | 40 | [Samoan Balls](https://open.spotify.com/track/1eFHUPqadgI1metnPICFNN) | [Paul Hertzog](https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d) | [Bloodsport \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21vQJECQGK9DBbSJulKZIf) | 2:18 |
 | 41 | [Five Over Four](https://open.spotify.com/track/0c946BQlEOYlcVq8n6pAKt) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4) | 4:47 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
 | 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MTY2MzYxNDIxNiwwMDAwMDAwMGFjYzA1ZTE4YTkyOTBhMzMwZWYxZWMyNTFlNDBlY2Y5`
+Snapshot ID: `MTY2MzYxNDIxNiwwMDAwMDAwMDAxOGEzN2VhZDQyMzBlMzc2MmE2YTExMzkwNjAxYTVl`

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Catch all the essential tracks by the multitalented Rihanna.",
   "name": "This Is Rihanna",
-  "published_playlist_ids": [
-    "1FhaMr2Pgn8AjxAXXkmuVC"
-  ],
   "tracks": [
     {
       "album": {
@@ -44,6 +41,28 @@
     },
     {
       "album": {
+        "name": "At My Worst - Chilled Pop",
+        "url": "https://open.spotify.com/album/5LeKEWV2BkMFRjnIjSXHdJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/118aglbgrsb8w0cRsynoMq"
+    },
+    {
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7"
       },
@@ -59,10 +78,32 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 183219,
       "name": "BELIEVE IT",
       "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
     },
     {
       "album": {
@@ -1573,7 +1614,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240706,
-      "name": "Stay - Album Version (Edited)",
+      "name": "Stay",
       "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
     },
     {

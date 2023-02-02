@@ -4,7 +4,7 @@
 
 > Sting, the essential tracks, all in one playlist.
 
-55 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/1Ue1aqDGZy0MxmmzbsyqMT)
+55 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

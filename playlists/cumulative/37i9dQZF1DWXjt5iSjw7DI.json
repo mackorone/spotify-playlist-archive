@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Country Music legends recorded live. Just like being there. Cover: Willie Nelson",
   "name": "Legendary Country Live",
-  "published_playlist_ids": [
-    "2hpXWqqsWv0BL9jLIqph0K"
-  ],
   "tracks": [
     {
       "album": {
@@ -511,7 +508,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": "2023-01-13",
       "duration_ms": 195133,
       "name": "Calling My Children Home - Live",
       "url": "https://open.spotify.com/track/1y4AtH1GrdHkIIaj6VX9bY"
@@ -753,6 +750,24 @@
       "duration_ms": 280600,
       "name": "Desperados Waiting for a Train - Live",
       "url": "https://open.spotify.com/track/461XJ9V47T6STECfJf1aI8"
+    },
+    {
+      "album": {
+        "name": "At The Ryman (Live)",
+        "url": "https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 725453,
+      "name": "Dixieland Delight - Live",
+      "url": "https://open.spotify.com/track/3PHaozz42k50ctvbLEawdu"
     },
     {
       "album": {
@@ -1077,7 +1092,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 767346,
       "name": "Free Bird - 1976/Live At Bill Graham's Winterland",
       "url": "https://open.spotify.com/track/3p1IcfYdwYjMqeY9ipRTMi"
@@ -1135,6 +1150,28 @@
       "duration_ms": 224493,
       "name": "Gentle On My Mind - Live At Garden State Arts Center, 1969",
       "url": "https://open.spotify.com/track/63UPEFQtDNhs5QDBfAPquR"
+    },
+    {
+      "album": {
+        "name": "Georgia on a Fast Train (Live at the Texas Music Cafe)",
+        "url": "https://open.spotify.com/album/0q0TclnPK1HyWRmCJOG7z2"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        },
+        {
+          "name": "Eddy Shaver",
+          "url": "https://open.spotify.com/artist/0wpd5zvhLzWHrpY6RWBBim"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244778,
+      "name": "Georgia on a Fast Train - Live at the Texas Music Cafe",
+      "url": "https://open.spotify.com/track/6zudOk9Nsjx0ulYSYJ2aXC"
     },
     {
       "album": {
@@ -1970,6 +2007,28 @@
     },
     {
       "album": {
+        "name": "At The Ryman (Live)",
+        "url": "https://open.spotify.com/album/7qopi3W4ZrA0P7SXz9a7yd"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216853,
+      "name": "I'm In A Hurry (And Don't Know Why) - Live",
+      "url": "https://open.spotify.com/track/7ztXOgnhclVmv4mUoaCKPr"
+    },
+    {
+      "album": {
         "name": "Alabama And Friends Live At The Ryman",
         "url": "https://open.spotify.com/album/6dXWnVNs7a5BmmOg0yQOuT"
       },
@@ -2093,7 +2152,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 180973,
       "name": "If Your Heart Ain't Busy - Live",
       "url": "https://open.spotify.com/track/50Y2DDtQgOKLgtI3ApcLZw"
@@ -2267,7 +2326,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 308426,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/484oP58WwZ4wpMEUJKwnFR"
@@ -3107,7 +3166,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-24",
       "duration_ms": 179413,
       "name": "No One Needs To Know - Live",
       "url": "https://open.spotify.com/track/7tRV8dlPPPsAMZcLld4ugt"
@@ -4357,7 +4416,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2022-12-04",
       "duration_ms": 159266,
       "name": "Walking Shoes",
       "url": "https://open.spotify.com/track/5h6dIlsk8CBz0GHBp6EE0y"
@@ -4563,7 +4622,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-04",
       "duration_ms": 213533,
       "name": "Who's Gonna Fill Their Shoes - Live",
       "url": "https://open.spotify.com/track/0gG7pOPsFcArbJr9jG5Umf"
@@ -4581,7 +4640,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 307040,
       "name": "Whole Lotta Shakin' Goin' On - Live At The Municipal Auditorium, Birmingham, Alabama/1964",
       "url": "https://open.spotify.com/track/2L8QMbzt6ivEdQ3aQIJ8cK"

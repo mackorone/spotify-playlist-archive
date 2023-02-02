@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
   "name": "Electric Blues Classics",
-  "published_playlist_ids": [
-    "1sBiL9e1FXqfbDn47RYumn"
-  ],
   "tracks": [
     {
       "album": {
@@ -434,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 164746,
+      "name": "Glamour Girl - Remastered 2022",
+      "url": "https://open.spotify.com/track/26NeJqqTN4obwlAHAep7jJ"
+    },
+    {
+      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
       },
@@ -539,7 +554,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 214053,
       "name": "I'm gonna let you go",
       "url": "https://open.spotify.com/track/21W05izeUBHiH5GCcxNCwt"
@@ -953,7 +968,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 246773,
       "name": "Smoking Gun",
       "url": "https://open.spotify.com/track/5tRu8kA4d17uwGVT7I3YIR"

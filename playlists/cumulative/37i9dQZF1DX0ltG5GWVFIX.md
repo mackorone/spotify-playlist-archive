@@ -4,7 +4,7 @@
 
 > The best of Palomino Festival artists \- see it all live on July 9 in California.
 
-93 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/5GMPbwKXcCFy7mpCKHyQMV)
+93 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

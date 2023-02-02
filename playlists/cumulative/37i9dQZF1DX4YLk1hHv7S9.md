@@ -4,7 +4,7 @@
 
 > Sweet acoustic love songs for the perfect day.
 
-110 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/6rCYrydpnHq8rysUj3aHJ6)
+110 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

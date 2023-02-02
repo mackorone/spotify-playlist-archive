@@ -4,7 +4,7 @@
 
 > Enjoy the soundtrack of Broker! \(영화 브로커의 사운드트랙을 즐겨보세요!\)
 
-25 songs - 43 min 14 sec - [published](https://open.spotify.com/playlist/0tCdb8QOHzTkNWbmF5OCME)
+25 songs - 43 min 14 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

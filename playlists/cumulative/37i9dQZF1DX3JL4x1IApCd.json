@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Editor's pick: The best of Gengetone songs of 2021. Cover: Mbuzi Gang",
-  "name": "Gengeton Fire Presents... Best Gengetone Songs Of 2021",
-  "published_playlist_ids": [
-    "3E6GHAfjqTrPwpK3Gzst6H"
-  ],
+  "description": "Editor's pick: The best of Gengetone songs of 2022. Cover: Exray Taniua",
+  "name": "Gengetone Fire Presents... Best Gengetone Songs Of 2022",
   "tracks": [
     {
       "album": {
@@ -27,7 +24,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 199002,
       "name": "Abdala",
       "url": "https://open.spotify.com/track/4JF7plBGWQsDOhGCQGf0e3"
@@ -63,7 +60,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 197198,
       "name": "Acha Iende",
       "url": "https://open.spotify.com/track/4oAO52z8MA5BnsPcJw1CaE"
@@ -85,7 +82,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 207397,
       "name": "Achuu",
       "url": "https://open.spotify.com/track/2S0IKNNfcMIUDNtEMo19iI"
@@ -171,7 +168,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 190821,
       "name": "Alaa!",
       "url": "https://open.spotify.com/track/7oPchN2L3FOmbsbDqjyXh7"
@@ -197,10 +194,36 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 187245,
       "name": "Ama Vipi",
       "url": "https://open.spotify.com/track/7xl9msYrnTHNe5lP69x2xs"
+    },
+    {
+      "album": {
+        "name": "Ameiva",
+        "url": "https://open.spotify.com/album/6AiDXh61ZG0UuQpLg5NgI9"
+      },
+      "artists": [
+        {
+          "name": "Mavo On The Beat",
+          "url": "https://open.spotify.com/artist/18FRsej0uytxeNbIbAMkGc"
+        },
+        {
+          "name": "Wyre",
+          "url": "https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH"
+        },
+        {
+          "name": "Zzero Sufuri",
+          "url": "https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Ameiva - Wav",
+      "url": "https://open.spotify.com/track/4w4GO37JHlmHlxfSIZuxUd"
     },
     {
       "album": {
@@ -215,10 +238,44 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 279379,
       "name": "Bad Manners",
       "url": "https://open.spotify.com/track/4yLLLdUwGvmK5XipEGu3Tw"
+    },
+    {
+      "album": {
+        "name": "Balance the Ball",
+        "url": "https://open.spotify.com/album/5be5hv6hWXosW0MC25JGNZ"
+      },
+      "artists": [
+        {
+          "name": "Vdj Jones",
+          "url": "https://open.spotify.com/artist/4q66q8I9GZAdNtes3j2yuK"
+        },
+        {
+          "name": "Bussa J",
+          "url": "https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd"
+        },
+        {
+          "name": "Padi Wubonn",
+          "url": "https://open.spotify.com/artist/0c3XOPFa4wC0A4FRnKfsEs"
+        },
+        {
+          "name": "Jeshi Jinga",
+          "url": "https://open.spotify.com/artist/3cXYwY0BrJskvfEvjXneap"
+        },
+        {
+          "name": "Moon",
+          "url": "https://open.spotify.com/artist/5eNAqcqWgkh62z2kbPAvYP"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227683,
+      "name": "Balance the Ball",
+      "url": "https://open.spotify.com/track/6zFxozO5rO7cvSKipJLWTO"
     },
     {
       "album": {
@@ -237,10 +294,44 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 201600,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/4pxCRKnnn6rlbn2zlFPIkD"
+    },
+    {
+      "album": {
+        "name": "Bandana Ya E-Sir",
+        "url": "https://open.spotify.com/album/1sEHueRD4NrkFNaSIc9CDR"
+      },
+      "artists": [
+        {
+          "name": "Nameless",
+          "url": "https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf"
+        },
+        {
+          "name": "Dmore",
+          "url": "https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Habib",
+          "url": "https://open.spotify.com/artist/66mZ0Y33cceUlfpvyqDQ6s"
+        },
+        {
+          "name": "Nelly The Goon",
+          "url": "https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293617,
+      "name": "Bandana Ya E-Sir",
+      "url": "https://open.spotify.com/track/6gPgR7ezAhBDlxQ3Co0Cuv"
     },
     {
       "album": {
@@ -255,7 +346,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 170721,
       "name": "Bazenga",
       "url": "https://open.spotify.com/track/5LeSLsMzbTVzN9nMh0DXgX"
@@ -296,6 +387,24 @@
     },
     {
       "album": {
+        "name": "BIZZ NI BIZZ",
+        "url": "https://open.spotify.com/album/6pBjx6fARnklsLoPDBErLF"
+      },
+      "artists": [
+        {
+          "name": "Ethic",
+          "url": "https://open.spotify.com/artist/1WQ1lasaBi46OgC1kSMvqz"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "BIZZ NI BIZZ",
+      "url": "https://open.spotify.com/track/2aHwfcPILQmSLOTHHfQqiY"
+    },
+    {
+      "album": {
         "name": "Blanda",
         "url": "https://open.spotify.com/album/11RfKTl8SPiL9FbXJBozUk"
       },
@@ -307,7 +416,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 188969,
       "name": "Blanda",
       "url": "https://open.spotify.com/track/2MHjWA1bG1REki0VeQheWX"
@@ -333,10 +442,62 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 169000,
       "name": "Bonga Bonga",
       "url": "https://open.spotify.com/track/4JFZcYDRa4u42MXZCyf0Fp"
+    },
+    {
+      "album": {
+        "name": "Btw",
+        "url": "https://open.spotify.com/album/1q84EwpxHLZf3dWlUsw0No"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Exray",
+          "url": "https://open.spotify.com/artist/4LuC7VnBIHO29vdcrMtk8l"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244558,
+      "name": "Btw",
+      "url": "https://open.spotify.com/track/1JbIMllQHyjAdq3S1yHeep"
+    },
+    {
+      "album": {
+        "name": "BTW",
+        "url": "https://open.spotify.com/album/2QgR8PSktbLl9lghCmVGf0"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "ExRay",
+          "url": "https://open.spotify.com/artist/4rFnZaLsIvYHRfyEg0SaLL"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 244558,
+      "name": "BTW",
+      "url": "https://open.spotify.com/track/2EV48VVgvkW1zQuGQTsdED"
     },
     {
       "album": {
@@ -363,7 +524,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 200412,
       "name": "By Far",
       "url": "https://open.spotify.com/track/2hUTf7f2etnB6EjfsN3OII"
@@ -385,7 +546,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 166295,
       "name": "Careless",
       "url": "https://open.spotify.com/track/4q3lPWzPUVsQJRDxAd4kVn"
@@ -403,7 +564,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 168576,
       "name": "Chain Chain",
       "url": "https://open.spotify.com/track/4hh3BWHOPwDUayU4S9oksY"
@@ -440,6 +601,40 @@
     },
     {
       "album": {
+        "name": "Chingri",
+        "url": "https://open.spotify.com/album/1AiSsGlNTqmeUuSMAiMXCD"
+      },
+      "artists": [
+        {
+          "name": "Ongwen",
+          "url": "https://open.spotify.com/artist/684Qot9eoFeYpHUolypT6E"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        },
+        {
+          "name": "Harry Craze",
+          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
+        },
+        {
+          "name": "Zzero Sufuri",
+          "url": "https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240837,
+      "name": "Chingri",
+      "url": "https://open.spotify.com/track/695iTP0Wk2V9gBHRKiplZb"
+    },
+    {
+      "album": {
         "name": "Chini Chini",
         "url": "https://open.spotify.com/album/0TviJ0z7yu3MBWx6mJbluv"
       },
@@ -455,7 +650,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 210428,
       "name": "Chini Chini",
       "url": "https://open.spotify.com/track/08oolBPhPXZ5Whwd2Ynwta"
@@ -477,7 +672,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 211200,
       "name": "Chunduka",
       "url": "https://open.spotify.com/track/0UXO7Xe0HZdncbATDZZEx0"
@@ -513,10 +708,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 192104,
       "name": "Chupa Ku Chupa",
       "url": "https://open.spotify.com/track/64U4QtaBO3s0sZG1QX1ADY"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK"
+      },
+      "artists": [
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154388,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu"
     },
     {
       "album": {
@@ -531,10 +748,58 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 188823,
       "name": "Daktari",
       "url": "https://open.spotify.com/track/1laXrxT3dSBAbdNZIpFeZB"
+    },
+    {
+      "album": {
+        "name": "DANCEHALLING",
+        "url": "https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc"
+      },
+      "artists": [
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "DANCEHALLING",
+      "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
+    },
+    {
+      "album": {
+        "name": "Danshie",
+        "url": "https://open.spotify.com/album/7AxKRbpMpnRaJ1Dtt1XcKc"
+      },
+      "artists": [
+        {
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+        },
+        {
+          "name": "Kappy",
+          "url": "https://open.spotify.com/artist/4nk9M2FJUaSSyw33Ob1YEk"
+        },
+        {
+          "name": "Mazi Mzii",
+          "url": "https://open.spotify.com/artist/3OOlhIXNjmTzWRR5fAe9Ae"
+        },
+        {
+          "name": "Seska",
+          "url": "https://open.spotify.com/artist/6Aaa7yDYK3riykCOqG0WrA"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197537,
+      "name": "Danshie",
+      "url": "https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8"
     },
     {
       "album": {
@@ -583,7 +848,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 219024,
       "name": "Dawa",
       "url": "https://open.spotify.com/track/6bjUMSfFYy0KRicneqhZ4S"
@@ -601,7 +866,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 196949,
       "name": "Dhidhi",
       "url": "https://open.spotify.com/track/1e0jvEvvJWEFXTjUy7bpxe"
@@ -645,7 +910,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 262217,
       "name": "Diliti",
       "url": "https://open.spotify.com/track/4fr5VPRrqHhNdBl7bQGVgS"
@@ -679,7 +944,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 266329,
       "name": "Disco Matanga",
       "url": "https://open.spotify.com/track/5gIKR81t8qDdjuQYEru4Dh"
@@ -705,7 +970,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 207046,
       "name": "Diva Wa Insta",
       "url": "https://open.spotify.com/track/5JBYHeczf8mQTRomSqkBv6"
@@ -749,7 +1014,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 171572,
       "name": "Do Re Mi",
       "url": "https://open.spotify.com/track/189TiuM9ERrm1PlSSQwyu1"
@@ -783,7 +1048,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 251170,
       "name": "Drinx Na Mayenx",
       "url": "https://open.spotify.com/track/7IM5YkOqyRxEuW9yQE4IRB"
@@ -819,10 +1084,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 224769,
       "name": "DUDU",
       "url": "https://open.spotify.com/track/70ZLrxDYLIf5fq2Wwo9Ieg"
+    },
+    {
+      "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/68hZRVtPpaP21V23PidWKQ"
+      },
+      "artists": [
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196075,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/4IaAncOtb1tpdS5xfML60h"
     },
     {
       "album": {
@@ -837,7 +1124,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 166956,
       "name": "Fanya",
       "url": "https://open.spotify.com/track/1EE5AsTfD1y5wv96CsDptx"
@@ -889,7 +1176,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 232489,
       "name": "Fatuma",
       "url": "https://open.spotify.com/track/68uYhVVJysbT2AQTvh9KJw"
@@ -911,7 +1198,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 186131,
       "name": "Foto Moto",
       "url": "https://open.spotify.com/track/2IiGcYQ1bRUn8UcAK7WbUm"
@@ -991,7 +1278,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 199505,
       "name": "Full Degree",
       "url": "https://open.spotify.com/track/3yuGWSUQkWJCgzUqSLAltI"
@@ -1009,10 +1296,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 221910,
       "name": "Gengetone Love",
       "url": "https://open.spotify.com/track/6s5xOQTBBuWr5XkPT8FRly"
+    },
+    {
+      "album": {
+        "name": "Gin Ama Whiskey",
+        "url": "https://open.spotify.com/album/0IU5Kq4BLwGZRbDq1rIy93"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246883,
+      "name": "Gin Ama Whiskey",
+      "url": "https://open.spotify.com/track/6zhNp08Kd10UrhfvOCLu0d"
     },
     {
       "album": {
@@ -1027,7 +1336,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 228143,
       "name": "Giz Giz",
       "url": "https://open.spotify.com/track/3T46Yvkzajuul8Ph5pBKWR"
@@ -1056,6 +1365,32 @@
     },
     {
       "album": {
+        "name": "Black Ama Regular",
+        "url": "https://open.spotify.com/album/4DV838ExgpG87hVZu4sLTq"
+      },
+      "artists": [
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        },
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Hatukuelewi",
+      "url": "https://open.spotify.com/track/5ZRoeBBRUbGe6zrtcbRnfC"
+    },
+    {
+      "album": {
         "name": "Hayaa",
         "url": "https://open.spotify.com/album/0DKYRLe6E7tjSoGz3TIAUf"
       },
@@ -1075,7 +1410,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 199200,
       "name": "Hayaa",
       "url": "https://open.spotify.com/track/1MIj6zLZKQRXol1hkxiAue"
@@ -1093,10 +1428,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 187559,
       "name": "HIVI NA HIVO",
       "url": "https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT"
+    },
+    {
+      "album": {
+        "name": "Frisky",
+        "url": "https://open.spotify.com/album/6QZ8KKgYXkrz5z8MHd0Kle"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187559,
+      "name": "Hivi Na Hivo",
+      "url": "https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6"
     },
     {
       "album": {
@@ -1115,10 +1468,54 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 222653,
       "name": "Izi Ndio Isaa",
       "url": "https://open.spotify.com/track/2rkXSg0O8H4OwKMeEQzb2M"
+    },
+    {
+      "album": {
+        "name": "Ka Unaweza",
+        "url": "https://open.spotify.com/album/7rsoVA4Gx2zR8RfELk6tBe"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 194526,
+      "name": "Ka Unaweza",
+      "url": "https://open.spotify.com/track/7awoDNq8TDADZwXoqiafsK"
+    },
+    {
+      "album": {
+        "name": "Ka Unaweza",
+        "url": "https://open.spotify.com/album/5DoBdO4BJ2QfGJ7DqjwdqO"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Ka Unaweza",
+      "url": "https://open.spotify.com/track/7lk6GK9hQSXbeornMmYll5"
     },
     {
       "album": {
@@ -1133,7 +1530,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 213486,
       "name": "Kaa Na Mamayako",
       "url": "https://open.spotify.com/track/22qQOlmyburIUGr7ohs2WX"
@@ -1185,10 +1582,46 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 230204,
       "name": "Kalale",
       "url": "https://open.spotify.com/track/4x1dXhe2guntPZFNckJ7fz"
+    },
+    {
+      "album": {
+        "name": "Kamkora",
+        "url": "https://open.spotify.com/album/2upMZcAVnGiPWhm346S1a0"
+      },
+      "artists": [
+        {
+          "name": "Cartoon comedian",
+          "url": "https://open.spotify.com/artist/24ZvE7ot2sZ04DUplTKLGl"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152999,
+      "name": "Kamkora",
+      "url": "https://open.spotify.com/track/3Dvxpka8fCFTidzANF4Xpm"
+    },
+    {
+      "album": {
+        "name": "Kanairo Dating",
+        "url": "https://open.spotify.com/album/0OH5okIVBbVDxhUfxdjt5J"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221332,
+      "name": "Kanairo Dating",
+      "url": "https://open.spotify.com/track/61yhVznYvsruXvl71ld3ig"
     },
     {
       "album": {
@@ -1207,7 +1640,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 242468,
       "name": "Katembe",
       "url": "https://open.spotify.com/track/2CEdwD7xAZqlT3wKqeyQTt"
@@ -1233,7 +1666,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 232037,
       "name": "Kawazim",
       "url": "https://open.spotify.com/track/0Wbv4vLYYAfEIQkJoluxnN"
@@ -1255,7 +1688,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 148288,
       "name": "Kazoze",
       "url": "https://open.spotify.com/track/1OIJqrmq1zwsrImcEWCO1Q"
@@ -1307,10 +1740,62 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 198200,
       "name": "Kibanda",
       "url": "https://open.spotify.com/track/7dYQBNTgk3JL8GDShv1vfj"
+    },
+    {
+      "album": {
+        "name": "Kichwa Mbaya",
+        "url": "https://open.spotify.com/album/0pQfxuRsGUFQR1GiPZcF6R"
+      },
+      "artists": [
+        {
+          "name": "Spice Entertainment",
+          "url": "https://open.spotify.com/artist/7eNGiqYytcIcklJCUt5AaS"
+        },
+        {
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+        },
+        {
+          "name": "Odi Wa Murang'a",
+          "url": "https://open.spotify.com/artist/4LmwDeDzv98ZgzZ4Kbz3UH"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220728,
+      "name": "Kichwa Mbaya",
+      "url": "https://open.spotify.com/track/1Eytt6oPQrAovjGDS1iIdr"
+    },
+    {
+      "album": {
+        "name": "Kichwa Tu",
+        "url": "https://open.spotify.com/album/1rPCZOiQhea0Stg1h0MClO"
+      },
+      "artists": [
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Timmy Tdat",
+          "url": "https://open.spotify.com/artist/0koEwZCEZrRUvVYb5ggPCZ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Kichwa Tu",
+      "url": "https://open.spotify.com/track/74Z0rYj90V4QDhxygsKhuB"
     },
     {
       "album": {
@@ -1325,7 +1810,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 165790,
       "name": "Kidungi",
       "url": "https://open.spotify.com/track/3MGSY0tDSaX4VKZ6ExSkdj"
@@ -1368,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "KISHASH",
+        "url": "https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159940,
+      "name": "KISHASH",
+      "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
+    },
+    {
+      "album": {
         "name": "Kufa Juu",
         "url": "https://open.spotify.com/album/6vq60LBckK6NAJwdJiOxOc"
       },
@@ -1387,7 +1890,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 224000,
       "name": "Kufa Juu",
       "url": "https://open.spotify.com/track/74g8xrR0G03XHUyAUoJ2NR"
@@ -1421,10 +1924,44 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 223346,
       "name": "Kuna Kichwa",
       "url": "https://open.spotify.com/track/4CxIs3plY39mHG8P8Vzro2"
+    },
+    {
+      "album": {
+        "name": "Kuna Kuna",
+        "url": "https://open.spotify.com/album/6SfLFCTyZ9Os3uYxhZg8iT"
+      },
+      "artists": [
+        {
+          "name": "Vic West",
+          "url": "https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        },
+        {
+          "name": "Brandy Maina",
+          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
+        },
+        {
+          "name": "Thee Exit Band",
+          "url": "https://open.spotify.com/artist/5tCS32hMdQWpx8gJJsR673"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212897,
+      "name": "Kuna Kuna",
+      "url": "https://open.spotify.com/track/53vfuY2r8Eg1jRMkjY62QZ"
     },
     {
       "album": {
@@ -1455,7 +1992,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 253988,
       "name": "Kutu",
       "url": "https://open.spotify.com/track/4YPBFJLxizy9Ekh8gnTSMD"
@@ -1485,7 +2022,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 249469,
       "name": "Lewa",
       "url": "https://open.spotify.com/track/2pat0RTkN9lQEDlaToECKN"
@@ -1552,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "Madem Wa Nai",
+        "url": "https://open.spotify.com/album/5HtIiLcsMzvYKnF2UpcsbV"
+      },
+      "artists": [
+        {
+          "name": "Team Psycho",
+          "url": "https://open.spotify.com/artist/24v7cO9PN9dqIykt0Nz5SU"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190985,
+      "name": "Madem Wa Nai",
+      "url": "https://open.spotify.com/track/7f3J5D674s54ZaMPkSAHbs"
+    },
+    {
+      "album": {
         "name": "MaGallis",
         "url": "https://open.spotify.com/album/3M6dkHVfqw2QaO9pkabQx6"
       },
@@ -1567,7 +2122,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 152424,
       "name": "MaGallis",
       "url": "https://open.spotify.com/track/74g3jYAi8tHVmNqhbuPczU"
@@ -1585,7 +2140,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 166056,
       "name": "Maji Maji",
       "url": "https://open.spotify.com/track/42MBWqBNHbWiIHTlNGt9N3"
@@ -1621,7 +2176,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 159157,
       "name": "Manyuria",
       "url": "https://open.spotify.com/track/2eHB3OxZwYISuvYuYb9an5"
@@ -1643,7 +2198,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 197210,
       "name": "Mare Mare",
       "url": "https://open.spotify.com/track/4Z6VSJZDhmMhS9V7E4etFV"
@@ -1669,7 +2224,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 226690,
       "name": "Mathogothanio",
       "url": "https://open.spotify.com/track/2iSuiqsGdhsQguHnSxWcQc"
@@ -1698,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Mbona Depression",
+        "url": "https://open.spotify.com/album/50hFbfMuT5LRADKv6acJG3"
+      },
+      "artists": [
+        {
+          "name": "Gwaash",
+          "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252264,
+      "name": "Mbona Depression",
+      "url": "https://open.spotify.com/track/30dkiusOfYnXcuw0r7rJYS"
+    },
+    {
+      "album": {
         "name": "Medi",
         "url": "https://open.spotify.com/album/4EuPk1ZtpHPSOFX6S8bOM1"
       },
@@ -1713,10 +2286,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 223448,
       "name": "Medi",
       "url": "https://open.spotify.com/track/2SOId2fuSMGRb2EZjAJ6qw"
+    },
+    {
+      "album": {
+        "name": "Sababisha",
+        "url": "https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q"
+      },
+      "artists": [
+        {
+          "name": "Rico Gang",
+          "url": "https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx"
+        },
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184427,
+      "name": "Miondoko",
+      "url": "https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar"
     },
     {
       "album": {
@@ -1749,10 +2344,70 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 188630,
       "name": "Missed Call",
       "url": "https://open.spotify.com/track/2TTVAKVh7FGp5oRfHORHtH"
+    },
+    {
+      "album": {
+        "name": "Mzimbiting",
+        "url": "https://open.spotify.com/album/2DUDOGsH1uGyo0asT4Jjzt"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Guzman",
+          "url": "https://open.spotify.com/artist/4Hk4PlFIhLwmCITL73SKTN"
+        },
+        {
+          "name": "Micharazo",
+          "url": "https://open.spotify.com/artist/4Cky4RSgVV5QtGfC6XQ9sO"
+        },
+        {
+          "name": "mbogi genje",
+          "url": "https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224554,
+      "name": "Mzimbiting",
+      "url": "https://open.spotify.com/track/0uDiCG0PNkRNc32AjTDDQj"
+    },
+    {
+      "album": {
+        "name": "Nakulombotov (Remix)",
+        "url": "https://open.spotify.com/album/0QX4GFsz89u0UfTf54vm5B"
+      },
+      "artists": [
+        {
+          "name": "Nyakundi",
+          "url": "https://open.spotify.com/artist/2KKoGESY14ttjIcHlupapE"
+        },
+        {
+          "name": "Vdj Jones",
+          "url": "https://open.spotify.com/artist/4q66q8I9GZAdNtes3j2yuK"
+        },
+        {
+          "name": "Jeshi Jinga",
+          "url": "https://open.spotify.com/artist/3cXYwY0BrJskvfEvjXneap"
+        },
+        {
+          "name": "Dmore",
+          "url": "https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202657,
+      "name": "Nakulombotov - Remix",
+      "url": "https://open.spotify.com/track/4bZZENtwTQvFzxi9GqllTR"
     },
     {
       "album": {
@@ -1775,7 +2430,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 235682,
       "name": "Namba Za Mapedi",
       "url": "https://open.spotify.com/track/3WEaZxEElW4PRS46Snl1MR"
@@ -1839,10 +2494,58 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 239973,
       "name": "Nare Nare",
       "url": "https://open.spotify.com/track/7iHn6WBzMcGcvsgvKiPpF6"
+    },
+    {
+      "album": {
+        "name": "Nasikia Wah",
+        "url": "https://open.spotify.com/album/3UWUoIRvsWuCBGEU03xNoh"
+      },
+      "artists": [
+        {
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+        },
+        {
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219782,
+      "name": "Nasikia Wah",
+      "url": "https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm"
+    },
+    {
+      "album": {
+        "name": "Nawacha Pombe Remix (Feat Ssaru & Benzema)",
+        "url": "https://open.spotify.com/album/1kNN171CDs85dUraRxampa"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Benzema",
+          "url": "https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213288,
+      "name": "Nawacha Pombe Remix (Feat Ssaru & Benzema)",
+      "url": "https://open.spotify.com/track/4mmCwOqDjsHc60WUSA5hDB"
     },
     {
       "album": {
@@ -1865,7 +2568,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 227865,
       "name": "NDOVU NI KUU",
       "url": "https://open.spotify.com/track/2Yr2JGQxWoyCwnnW12NMeV"
@@ -1887,10 +2590,40 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 192052,
       "name": "New Position",
       "url": "https://open.spotify.com/track/0Yn1nUXPhSDTrt5itbmwEc"
+    },
+    {
+      "album": {
+        "name": "Black Ama Regular",
+        "url": "https://open.spotify.com/album/4DV838ExgpG87hVZu4sLTq"
+      },
+      "artists": [
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        },
+        {
+          "name": "Boondocks Gang",
+          "url": "https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "King Kora",
+          "url": "https://open.spotify.com/artist/5PMzvp0Mxb31zRaHMImrgK"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259032,
+      "name": "Nitakusema",
+      "url": "https://open.spotify.com/track/0vTKDdxIJ9gWz91HFhZA1W"
     },
     {
       "album": {
@@ -1909,7 +2642,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 249600,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5GJE3C1vh2sHxZaqqS0jZH"
@@ -1935,7 +2668,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 211182,
       "name": "Nyandus",
       "url": "https://open.spotify.com/track/2S3LQrfx7YC1QTzv5kiOxg"
@@ -1965,7 +2698,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 209699,
       "name": "NYONYA",
       "url": "https://open.spotify.com/track/5GmCSXGT2eUEIv1IyyvGXo"
@@ -2031,10 +2764,36 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 169644,
       "name": "Pandemik",
       "url": "https://open.spotify.com/track/5SivHfqrdnPLa98KrgnQfj"
+    },
+    {
+      "album": {
+        "name": "Pattern",
+        "url": "https://open.spotify.com/album/1gPmKxxnPHfYSos1OsnEg0"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270341,
+      "name": "Pattern",
+      "url": "https://open.spotify.com/track/0WzSvVL1JKWzRgp2lfl8QM"
     },
     {
       "album": {
@@ -2049,7 +2808,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 203102,
       "name": "Peng Wa Mafilter",
       "url": "https://open.spotify.com/track/6BNI2fhdrzNRCQ2d6m8KaG"
@@ -2093,10 +2852,70 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 187317,
       "name": "Pepeta",
       "url": "https://open.spotify.com/track/5IJnneYnN5bFbHJMtNlXE9"
+    },
+    {
+      "album": {
+        "name": "PEREMENDE",
+        "url": "https://open.spotify.com/album/6tlry4nwS7yM47qvdWGLva"
+      },
+      "artists": [
+        {
+          "name": "SPARKID",
+          "url": "https://open.spotify.com/artist/0pD4PVapv9iXWOriPiHDec"
+        },
+        {
+          "name": "MaLoon",
+          "url": "https://open.spotify.com/artist/1UrBAEmt3A6YGN7ftrTlqx"
+        },
+        {
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+        },
+        {
+          "name": "Seska",
+          "url": "https://open.spotify.com/artist/0I1qRE43DtaywX3NxLk8WZ"
+        },
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119823,
+      "name": "PEREMENDE",
+      "url": "https://open.spotify.com/track/0hb9Zyb9M1RduwcNLB3Y2a"
+    },
+    {
+      "album": {
+        "name": "Unaware",
+        "url": "https://open.spotify.com/album/00B8H64IOd5NUMeeOLIMZw"
+      },
+      "artists": [
+        {
+          "name": "Matata",
+          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+        },
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201862,
+      "name": "Pombe Na Kizungu Mingi",
+      "url": "https://open.spotify.com/track/5GGS1P0wgAlCma5d0J5gez"
     },
     {
       "album": {
@@ -2111,7 +2930,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 171734,
       "name": "Pussyprenuer",
       "url": "https://open.spotify.com/track/50ht3tppjMYKt3OxfpJ0LA"
@@ -2147,7 +2966,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 145259,
       "name": "Rivas",
       "url": "https://open.spotify.com/track/1DIXojor14BaRen2pak0br"
@@ -2181,7 +3000,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 205080,
       "name": "Sambusa",
       "url": "https://open.spotify.com/track/4ME1bOfFbGncJfkHQJEDwf"
@@ -2203,10 +3022,56 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 201723,
       "name": "Shamra Shamra",
       "url": "https://open.spotify.com/track/0zBeSzwKqoZ96EVfltBxp6"
+    },
+    {
+      "album": {
+        "name": "Three Wise Goats",
+        "url": "https://open.spotify.com/album/3txLNkrdXGL8nvqiOItiRR"
+      },
+      "artists": [
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        },
+        {
+          "name": "Gabu",
+          "url": "https://open.spotify.com/artist/1Lon3hB1ZcGAeJSHNBAL4Y"
+        },
+        {
+          "name": "Naiboi",
+          "url": "https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6"
+        },
+        {
+          "name": "Kristoff",
+          "url": "https://open.spotify.com/artist/2io3BTkaSQLmkQ1Ayy0vXn"
+        },
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        },
+        {
+          "name": "Frasha",
+          "url": "https://open.spotify.com/artist/3MObo2QpsSE0Hhetox5yR0"
+        },
+        {
+          "name": "Wyre",
+          "url": "https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH"
+        },
+        {
+          "name": "Felista Di Superstar",
+          "url": "https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288333,
+      "name": "Shamra Shamra - Remix",
+      "url": "https://open.spotify.com/track/4KTtFRBpLBZdxt0jU5wGgZ"
     },
     {
       "album": {
@@ -2225,7 +3090,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 212041,
       "name": "Sherehe Sheria",
       "url": "https://open.spotify.com/track/2BHSa7iNe7rHPZ2lLuvzoi"
@@ -2277,7 +3142,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 200899,
       "name": "Shikishaa",
       "url": "https://open.spotify.com/track/60wtVRGXUvu9PANY8bDD7c"
@@ -2299,7 +3164,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 154331,
       "name": "Shikwekwe",
       "url": "https://open.spotify.com/track/4jXJZls2ENQfPOfGYdtojG"
@@ -2317,7 +3182,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 118831,
       "name": "Shiro",
       "url": "https://open.spotify.com/track/005xKCnsCDZ8QcUTXb6HyZ"
@@ -2365,7 +3230,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 212000,
       "name": "Si Huchanga",
       "url": "https://open.spotify.com/track/0NrxnFsQ5AWizCAKy9eCDd"
@@ -2395,10 +3260,36 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 327680,
       "name": "Sijazoea Ivo",
       "url": "https://open.spotify.com/track/2HUa7OI5mUB9ZfGiU8aFqS"
+    },
+    {
+      "album": {
+        "name": "Sikusoma",
+        "url": "https://open.spotify.com/album/1a3FoCe2PhDksA9NLkaTov"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Simba",
+          "url": "https://open.spotify.com/artist/05YkplHc6Ub6YhaM90FgyS"
+        },
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        },
+        {
+          "name": "Kemboste",
+          "url": "https://open.spotify.com/artist/1z9mH17UE163MWdaejVtJI"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186566,
+      "name": "Sikusoma",
+      "url": "https://open.spotify.com/track/71GCW6cSkWo32gnlARwNbH"
     },
     {
       "album": {
@@ -2447,10 +3338,36 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 224000,
       "name": "Sirudi Home - Refix",
       "url": "https://open.spotify.com/track/2At9zUR7cfWVrndDmvmAOv"
+    },
+    {
+      "album": {
+        "name": "Sirudi Home (Remix)",
+        "url": "https://open.spotify.com/album/6P77L5zVgL0Gz3YnSjTSIa"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218514,
+      "name": "Sirudi Home - Remix",
+      "url": "https://open.spotify.com/track/5hs1gahEFK0BFiiU3IEv59"
     },
     {
       "album": {
@@ -2472,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "SO fine",
+        "url": "https://open.spotify.com/album/7Jb5CcjTGybMKUJLTx3SWw"
+      },
+      "artists": [
+        {
+          "name": "Rekles",
+          "url": "https://open.spotify.com/artist/4HJqolqPOEFhm9AmEKeQ83"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166582,
+      "name": "SO fine",
+      "url": "https://open.spotify.com/track/2ciLZrKfJWnMSCLNynhDYc"
+    },
+    {
+      "album": {
         "name": "Sota",
         "url": "https://open.spotify.com/album/5C5TJ4XXloqr6oXDG8taJO"
       },
@@ -2487,10 +3422,36 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 184842,
       "name": "Sota",
       "url": "https://open.spotify.com/track/1ADd4vcBoKDqRoiKgP6WZ9"
+    },
+    {
+      "album": {
+        "name": "Sugua",
+        "url": "https://open.spotify.com/album/0aZ0rdhnmCTklsxy3tEbXn"
+      },
+      "artists": [
+        {
+          "name": "Africa Unit",
+          "url": "https://open.spotify.com/artist/0ddwr7ZwUHzB4zaY5YrO7w"
+        },
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        },
+        {
+          "name": "Ethic Entertainment",
+          "url": "https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183614,
+      "name": "Sugua",
+      "url": "https://open.spotify.com/track/7wCSgDBaSRcFsnKnPTN0ll"
     },
     {
       "album": {
@@ -2527,7 +3488,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 187275,
       "name": "Tena Na Tena",
       "url": "https://open.spotify.com/track/2xTUetd1o7sU7kHURdnbkl"
@@ -2549,7 +3510,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 206400,
       "name": "Thao",
       "url": "https://open.spotify.com/track/4Rgajil2UKIbWkl0Kb4Dlc"
@@ -2567,7 +3528,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240065,
       "name": "Tik Tok",
       "url": "https://open.spotify.com/track/7y2ftJrew00yQfnJkAqEbi"
@@ -2627,7 +3588,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 237669,
       "name": "Tuko Locked",
       "url": "https://open.spotify.com/track/5jZEOmRvWC7T7erlNfJK1k"
@@ -2679,7 +3640,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 145542,
       "name": "Tuma tu Fare",
       "url": "https://open.spotify.com/track/6oFAyLdc7CwvtjC25dru4F"
@@ -2701,7 +3662,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 212821,
       "name": "Ukam",
       "url": "https://open.spotify.com/track/1Eo4O5bqHLH6iz3WtAfl7N"
@@ -2723,7 +3684,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 175203,
       "name": "Ulimi Yangu",
       "url": "https://open.spotify.com/track/1q1gUECAGekO5jrrOCfIzW"
@@ -2756,6 +3717,42 @@
     },
     {
       "album": {
+        "name": "Usiniharibie Mood",
+        "url": "https://open.spotify.com/album/3mq6fqMK9F02QEU8u1vPHZ"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160151,
+      "name": "Usiniharibie Mood",
+      "url": "https://open.spotify.com/track/5OflrN0O5MUtruSRH3KILR"
+    },
+    {
+      "album": {
+        "name": "WABABA",
+        "url": "https://open.spotify.com/album/58KeBkiULnEefJysSDnr98"
+      },
+      "artists": [
+        {
+          "name": "Matata",
+          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199909,
+      "name": "WABABA",
+      "url": "https://open.spotify.com/track/2yK919ZuJ54CQscoSVCPAQ"
+    },
+    {
+      "album": {
         "name": "Wabebe",
         "url": "https://open.spotify.com/album/65UWE63TScbHwxDygWD3zO"
       },
@@ -2775,7 +3772,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 239973,
       "name": "Wabebe",
       "url": "https://open.spotify.com/track/504wO3dsq7ZEuRQzgTFSh6"
@@ -2809,7 +3806,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 218049,
       "name": "Wagithomo",
       "url": "https://open.spotify.com/track/3CPbSW4pwf4G482qAeIW0l"
@@ -2839,7 +3836,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 196858,
       "name": "Wale Mang'aa",
       "url": "https://open.spotify.com/track/1EyRfp2eRP4Fn0CctdwvVo"
@@ -2857,7 +3854,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 281068,
       "name": "Wamlambez",
       "url": "https://open.spotify.com/track/7JWte6va66ffezySWEhS4S"
@@ -2883,10 +3880,46 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 231263,
       "name": "Wamocho",
       "url": "https://open.spotify.com/track/0JIsJZcucPJcYhOyhlktiX"
+    },
+    {
+      "album": {
+        "name": "UNCO",
+        "url": "https://open.spotify.com/album/79jKaEoMWzvohBMW5Dpu3p"
+      },
+      "artists": [
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175751,
+      "name": "Wanjapi",
+      "url": "https://open.spotify.com/track/3Axax40ktlCBaoIIEpzsx8"
+    },
+    {
+      "album": {
+        "name": "WANJAPI 2",
+        "url": "https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40"
+      },
+      "artists": [
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "WANJAPI 2",
+      "url": "https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ"
     },
     {
       "album": {
@@ -2919,7 +3952,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 200071,
       "name": "Wanjiku",
       "url": "https://open.spotify.com/track/5yB36B5ADfzsVHc3ceQsc7"
@@ -2959,7 +3992,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 251898,
       "name": "Zimenishika",
       "url": "https://open.spotify.com/track/37StvAfsgiNIcLNfatolBA"
@@ -2977,7 +4010,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 185208,
       "name": "Zitoke",
       "url": "https://open.spotify.com/track/2VFfgm4oLnI3CNm4k5BhPg"
@@ -2995,7 +4028,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 197720,
       "name": "Zungushiwa",
       "url": "https://open.spotify.com/track/3Ck2uBtusYNyIlg37taAi7"

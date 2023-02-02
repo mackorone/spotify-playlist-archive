@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-25",
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
   "name": "Music for Plants",
-  "published_playlist_ids": [
-    "6XhGj2DggqIecedL7YMJsq"
-  ],
   "tracks": [
     {
       "album": {
@@ -286,6 +283,32 @@
     },
     {
       "album": {
+        "name": "Alaskan Dream",
+        "url": "https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Ulibarri",
+          "url": "https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd"
+        },
+        {
+          "name": "Amalinalli Pichardo",
+          "url": "https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp"
+        },
+        {
+          "name": "Space Between Clouds",
+          "url": "https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320965,
+      "name": "Alaskan Dream",
+      "url": "https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA"
+    },
+    {
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/2xHpyX2kcipvxZTE8Xto6s"
       },
@@ -323,6 +346,24 @@
       "duration_ms": 118500,
       "name": "among the trees",
       "url": "https://open.spotify.com/track/6bX6vCqqx7vf2rWh6hcD5b"
+    },
+    {
+      "album": {
+        "name": "Antidotes 2",
+        "url": "https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200724,
+      "name": "An Avalanche",
+      "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
     },
     {
       "album": {
@@ -765,7 +806,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 188000,
       "name": "Blue Surround",
       "url": "https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH"
@@ -863,6 +904,24 @@
       "duration_ms": 288866,
       "name": "Brockley",
       "url": "https://open.spotify.com/track/0uMD0CaCxiTwgVZhN5paQf"
+    },
+    {
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288866,
+      "name": "Brockley",
+      "url": "https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k"
     },
     {
       "album": {
@@ -1195,7 +1254,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 145226,
       "name": "Cuckoo",
       "url": "https://open.spotify.com/track/21nmBBjOkUxLbeU8lmxmxA"
@@ -1543,7 +1602,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 251823,
       "name": "Espiral - \u51a5\u4e01 Remix",
       "url": "https://open.spotify.com/track/15sBxSySsqOVSSknoW2lGX"
@@ -1561,7 +1620,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-30",
       "duration_ms": 280013,
       "name": "Estela",
       "url": "https://open.spotify.com/track/484BYcMwHgvH0RQ4s1m95F"
@@ -1633,7 +1692,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 241447,
       "name": "Fervedouro Dois",
       "url": "https://open.spotify.com/track/3flrz7U4OayXKXPUfMneC4"
@@ -1691,7 +1750,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 195136,
       "name": "First Defeat",
       "url": "https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt"
@@ -1745,7 +1804,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Flutters",
       "url": "https://open.spotify.com/track/1i7U0mv1bCD6uzXHfOjAQx"
@@ -2045,7 +2104,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 188697,
       "name": "Gradual of Image",
       "url": "https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf"
@@ -2114,6 +2173,42 @@
     },
     {
       "album": {
+        "name": "Growing Cannabis - Vegetation Cycle Node Explosion",
+        "url": "https://open.spotify.com/album/0x02WeUPoy95DiiODcFkfl"
+      },
+      "artists": [
+        {
+          "name": "Music For Plants",
+          "url": "https://open.spotify.com/artist/2746YvEYNDpropECfjdoQs"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150668,
+      "name": "Growing Cannabis Vegetation Cycle",
+      "url": "https://open.spotify.com/track/6QEPm379BapyBAyJMWS0ER"
+    },
+    {
+      "album": {
+        "name": "Storytelling",
+        "url": "https://open.spotify.com/album/4FYYpIBxJnSbW08oyU4xAP"
+      },
+      "artists": [
+        {
+          "name": "Olovson",
+          "url": "https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Gyroscope",
+      "url": "https://open.spotify.com/track/2dziNfL0S9awABp30vNN08"
+    },
+    {
+      "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/3Xh7QzI0UPQx2GZJgSding"
       },
@@ -2125,7 +2220,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 187058,
       "name": "Gyroscope",
       "url": "https://open.spotify.com/track/2pYTzXfDybwjnRu76Tin9N"
@@ -2223,7 +2318,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 137000,
       "name": "Hypnos",
       "url": "https://open.spotify.com/track/6AcwRvuVN9FjROlyLIws2o"
@@ -2469,7 +2564,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 191413,
       "name": "Kalimba Heart",
       "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
@@ -2523,7 +2618,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Klass - MISSUXO Film Edit",
       "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
@@ -2649,7 +2744,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 245418,
       "name": "Le ch\u00e2teau de corail",
       "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
@@ -2791,6 +2886,24 @@
       "duration_ms": 110000,
       "name": "Light",
       "url": "https://open.spotify.com/track/3is4aHMSpsFnrDx0btsuEW"
+    },
+    {
+      "album": {
+        "name": "No Thoughts I",
+        "url": "https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem"
+      },
+      "artists": [
+        {
+          "name": "Ajmw",
+          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i"
     },
     {
       "album": {
@@ -2976,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Maracuy\u00e1",
+        "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
+      },
+      "artists": [
+        {
+          "name": "Hermanito",
+          "url": "https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Maracuy\u00e1",
+      "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
+    },
+    {
+      "album": {
         "name": "The Plant Whisperer",
         "url": "https://open.spotify.com/album/6Y0GISNmyOkKYfUNQBcQfi"
       },
@@ -3009,6 +3140,24 @@
       "duration_ms": 316497,
       "name": "Margin",
       "url": "https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX"
+    },
+    {
+      "album": {
+        "name": "Marginalia #119",
+        "url": "https://open.spotify.com/album/31TDrtEsbcHHJNnZ9IWOB9"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369917,
+      "name": "Marginalia #119",
+      "url": "https://open.spotify.com/track/3gOEYrmxejidBqgxgeTpJ0"
     },
     {
       "album": {
@@ -3113,7 +3262,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 219820,
       "name": "Melodica",
       "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
@@ -3251,7 +3400,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 592013,
       "name": "Morning Dancing",
       "url": "https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ"
@@ -3287,7 +3436,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 368703,
       "name": "Music For Growing Flowers - Edit",
       "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"
@@ -3323,7 +3472,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 143549,
       "name": "My All",
       "url": "https://open.spotify.com/track/55tBt9jUhfxLAzArswwyKV"
@@ -3385,6 +3534,24 @@
       "duration_ms": 259933,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/3TGUXBzeUqekCLeAxOfzfr"
+    },
+    {
+      "album": {
+        "name": "Slopped + Chewed, Volume 1",
+        "url": "https://open.spotify.com/album/3FpvHj85rnjPlX9HW7BfOd"
+      },
+      "artists": [
+        {
+          "name": "TUAWKI",
+          "url": "https://open.spotify.com/artist/5qcbpph3M3q5LKCD7TH6RZ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 259933,
+      "name": "Nevada",
+      "url": "https://open.spotify.com/track/6pDDqmqthh9gZ52TfhasVl"
     },
     {
       "album": {
@@ -3895,7 +4062,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 182874,
       "name": "Perspex",
       "url": "https://open.spotify.com/track/4iW4p3RWQglOIk7xyR3JPx"
@@ -3913,7 +4080,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 678013,
       "name": "PHANTOM BRICKWORKS IV",
       "url": "https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u"
@@ -4169,7 +4336,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": "2023-02-02",
       "duration_ms": 132000,
       "name": "Rainforest Revival Shampoo Bar",
       "url": "https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp"
@@ -4285,6 +4452,24 @@
     {
       "album": {
         "name": "plantboy",
+        "url": "https://open.spotify.com/album/00wqWw2stnu3GT99Hzujzy"
+      },
+      "artists": [
+        {
+          "name": "DRWN.",
+          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89500,
+      "name": "roots",
+      "url": "https://open.spotify.com/track/1kWPFMJFJiaL0CqUIV3LPs"
+    },
+    {
+      "album": {
+        "name": "plantboy",
         "url": "https://open.spotify.com/album/1ij4vTHOkvxI4j4lN0WaCb"
       },
       "artists": [
@@ -4331,7 +4516,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 577500,
       "name": "Roses Are Blue",
       "url": "https://open.spotify.com/track/3wUxE9yh357hRzB56zFGbD"
@@ -4533,7 +4718,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 138773,
       "name": "Seals",
       "url": "https://open.spotify.com/track/6AlFSBiCpW73fOQUWDJ3q5"
@@ -4641,7 +4826,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-22",
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
@@ -4832,6 +5017,28 @@
     },
     {
       "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+    },
+    {
+      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/0qIMW1UNQKG34F9eXtr2uD"
       },
@@ -4969,7 +5176,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
@@ -5485,7 +5692,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 259075,
       "name": "Tomato Day",
       "url": "https://open.spotify.com/track/7zXTb9cnYZruPZzLM7MrA8"

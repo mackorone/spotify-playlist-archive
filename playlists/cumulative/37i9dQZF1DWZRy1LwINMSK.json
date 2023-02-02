@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-24",
   "description": "La casa del trap chileno. Foto: Marcianeke",
   "name": "Trapperz Chile",
-  "published_playlist_ids": [
-    "4O7bBJoeZnEU8BCS1d4SPn"
-  ],
   "tracks": [
     {
       "album": {
@@ -507,10 +504,32 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 135762,
       "name": "CHAINZ",
       "url": "https://open.spotify.com/track/4CW58twcKqVT7nvtKoloHv"
+    },
+    {
+      "album": {
+        "name": "G LOVE 2",
+        "url": "https://open.spotify.com/album/7euUENdmFe3U1pw8p6q38g"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Jaegen",
+          "url": "https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136159,
+      "name": "CHAINZ",
+      "url": "https://open.spotify.com/track/5IZPp18xCMZBoIi0Ws2K1E"
     },
     {
       "album": {
@@ -2080,6 +2099,32 @@
     },
     {
       "album": {
+        "name": "Seguimo Joseando",
+        "url": "https://open.spotify.com/album/6HHzPGjMBG81HSMb3g1u8L"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "Benjita Montana",
+          "url": "https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Seguimo Joseando",
+      "url": "https://open.spotify.com/track/6YSh5DU0imcpCUrQzCINiq"
+    },
+    {
+      "album": {
         "name": "SHISHI Mixtape",
         "url": "https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY"
       },
@@ -2179,10 +2224,32 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 157674,
       "name": "Sismo",
       "url": "https://open.spotify.com/track/12k3cUC5NGSljgZKZTyv8R"
+    },
+    {
+      "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157674,
+      "name": "Sismo",
+      "url": "https://open.spotify.com/track/43Ck3mpcuSWeTQZPRDF4KU"
     },
     {
       "album": {

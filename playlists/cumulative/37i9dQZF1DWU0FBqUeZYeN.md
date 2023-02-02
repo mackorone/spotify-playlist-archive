@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-246 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/2RmAlQJbxH7kxDRlcWNF45)
+246 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

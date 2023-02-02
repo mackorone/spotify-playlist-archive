@@ -4,7 +4,7 @@
 
 > Enjoy your dinner with some great acoustic tracks.
 
-25 songs - 1 hr 46 min - [published](https://open.spotify.com/playlist/5ROz24xAQMKdkQs801KApZ)
+25 songs - 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

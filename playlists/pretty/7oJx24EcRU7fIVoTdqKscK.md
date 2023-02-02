@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7oJx24EcRU7fIVoTdqKscK.md) - [plain]
 
 > <a href="http://nyp.org/cpr/"> All of these songs are 100 BPM – the right beat to perform CPR\. Pick one to remember in case you ever need to save a life.</a>
 
-[nyphospital](https://open.spotify.com/user/nyphospital) - 138,473 likes - 57 songs - 3 hr 32 min
+[nyphospital](https://open.spotify.com/user/nyphospital) - 138,522 likes - 57 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

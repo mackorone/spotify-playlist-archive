@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-28",
   "description": "The best indie rock/pop/hip hop/dance/r&b of the 2010s. Cover: Tame Impala",
   "name": "Best Indie Songs of the 2010s",
-  "published_playlist_ids": [
-    "3auSmhLzNB0gly5FRzRqez"
-  ],
   "tracks": [
     {
       "album": {
@@ -1991,7 +1988,7 @@
     {
       "album": {
         "name": "You're Dead!",
-        "url": "https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj"
+        "url": "https://open.spotify.com/album/7DFT5wc0jn6U7DqooS8y6l"
       },
       "artists": [
         {
@@ -2006,6 +2003,28 @@
       "date_added": "2019-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234486,
+      "name": "Never Catch Me",
+      "url": "https://open.spotify.com/track/1KOqY0QTSadQFRgbNw1sLh"
+    },
+    {
+      "album": {
+        "name": "You're Dead!",
+        "url": "https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2019-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 234486,
       "name": "Never Catch Me",
       "url": "https://open.spotify.com/track/6CTG85NJI1Wm60pxTSRNwL"
@@ -2607,7 +2626,7 @@
     {
       "album": {
         "name": "Treats",
-        "url": "https://open.spotify.com/album/1IWkF6zpOq73txmrYpljIT"
+        "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
       },
       "artists": [
         {
@@ -2618,6 +2637,24 @@
       "date_added": "2019-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229893,
+      "name": "Rill Rill",
+      "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
+    },
+    {
+      "album": {
+        "name": "Treats",
+        "url": "https://open.spotify.com/album/1IWkF6zpOq73txmrYpljIT"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "date_added": "2019-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/3GbjOImkNo5nFT2GQxVr11"
@@ -2965,7 +3002,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 276373,
-      "name": "Territory",
+      "name": "TERRITORY",
       "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim"
     },
     {

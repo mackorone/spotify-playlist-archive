@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 37644,
+  "num_followers": 39059,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTM4MCwwMDAwMDAwMDE0YmFjMWJiZTk4MGU0NTI0NjhmY2Q4NWQ4MmNmMzEx",
+  "snapshot_id": "MTY0NjMxNTM4MCwwMDAwMDAwMDQzMWJhZDM5ZDliMzM5MjExZGRmMmI0M2JjZTk2N2U4",
   "tracks": [
     {
       "added_at": "2022-03-03 13:49:40",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
       },
@@ -55,6 +39,26 @@
       "duration_ms": 224413,
       "name": "Beach in Hawaii",
       "url": "https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -123,8 +127,8 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+        "name": "Legend (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo"
       },
       "artists": [
         {
@@ -132,25 +136,9 @@
           "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
         }
       ],
-      "duration_ms": 279720,
+      "duration_ms": 280600,
       "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 253986,
-      "name": "Burnin' And Lootin'",
-      "url": "https://open.spotify.com/track/34Jqj42hsT3O3N8yihE3B6"
+      "url": "https://open.spotify.com/track/71zvW0WZ0bap9gphp7Jhgp"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -183,6 +171,22 @@
       "duration_ms": 225480,
       "name": "Rastaman Chant",
       "url": "https://open.spotify.com/track/1WujDB3odQoKJYJNvhgEGL"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1MlY1vmHeHaKzLd0I1dNuZ"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Burnin' And Lootin'",
+      "url": "https://open.spotify.com/track/3fgLnDbABMr41BpEPTeQCU"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -251,6 +255,22 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Roots, Rock, Reggae",
+      "url": "https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
@@ -260,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 298506,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ"
+      "duration_ms": 271000,
+      "name": "Satisfy My Soul",
+      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -292,25 +312,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Satisfy My Soul",
-      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Roots, Rock, Reggae",
-      "url": "https://open.spotify.com/track/1ATZfYmZOcm24vl5oQtPdC"
+      "duration_ms": 298506,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -347,38 +351,6 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Stir It Up - Jamaican Version",
-      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/3PQLYVskjUeRmRIfECsL0X"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
@@ -411,6 +383,22 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/3PQLYVskjUeRmRIfECsL0X"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
@@ -423,6 +411,22 @@
       "duration_ms": 460226,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/3UuqC9dKWG0bLu6TrPIe4F"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Stir It Up - Jamaican Version",
+      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
     },
     {
       "added_at": "2022-03-03 13:49:40",

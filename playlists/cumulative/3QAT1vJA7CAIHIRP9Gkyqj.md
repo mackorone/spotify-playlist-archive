@@ -4,7 +4,7 @@
 
 > An inside look into the new Amy Winehouse biopic, featuring exclusive interview clips and top picks from director Asif Kapadia.
 
-53 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/6y7kbLJDHi1PHbIs6WA2mW)
+53 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Papos, piadas, risadas e convidados certeiros: aqueles podcasts que são sucesso!
 
-0 song - 0 sec - [published](https://open.spotify.com/playlist/4gC028V9S4T35s9XtUEPWl)
+0 song - 0 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

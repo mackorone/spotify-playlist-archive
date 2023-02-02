@@ -4,7 +4,7 @@
 
 > The perfect tunes to accompany your lazy day in the garden.
 
-156 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/5xQHrzCAIy1Zh6EFNIANJ1)
+158 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 | 2020-05-18 |  |
 | [Appletree](https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 4:25 | 2020-05-18 |  |
 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 | 2020-05-18 |  |
-| [Be Mine](https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 4:14 | 2020-05-18 |  |
+| [Be Mine](https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 4:14 | 2020-05-18 | 2022-12-12 |
 | [Be Mine](https://open.spotify.com/track/6BRl9s7ffQLZjLKOXEl70j) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/0YcQyzstsSbcnLCk4h7AUh) | 4:14 | 2020-05-18 | 2022-07-29 |
+| [Be Mine](https://open.spotify.com/track/6OXj4cEa6vAAs0jsJVFHxS) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 4:14 | 2020-05-18 |  |
 | [Big Bird \- Mono](https://open.spotify.com/track/1jJr041pf1dPeNhvI8rbF5) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Rare Stamps](https://open.spotify.com/album/3ncw7q2sxaOqdeTa1CAeMB) | 2:59 | 2020-05-18 |  |
 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 | 2020-05-18 |  |
 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 | 2020-05-18 |  |
@@ -46,7 +47,7 @@
 | [Crimson and Clover \- Single Version](https://open.spotify.com/track/523jqbnMzb79V2isPqctui) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [60s Pop Essentials](https://open.spotify.com/album/24Kkq3iVZ0UbedAvM7zSur) | 3:28 | 2020-05-18 | 2022-11-13 |
 | [Cruisin to the Park](https://open.spotify.com/track/0sNYfZwh3F8hs7dcax1xZC) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:32 | 2020-05-18 | 2022-11-14 |
 | [Cruisin to the Park](https://open.spotify.com/track/1bfTXGpAL4638bmw5Krpb3) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Cruisin to the Park](https://open.spotify.com/album/5qgjDKdzAt2fTNdOgx0qmK) | 3:32 | 2020-05-18 | 2022-07-29 |
-| [Cruisin to the Park](https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Cruisin to the Park](https://open.spotify.com/album/1X0ZHwPLIpROo8arjBErDY) | 3:32 | 2020-05-18 |  |
+| [Cruisin to the Park](https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Cruisin to the Park](https://open.spotify.com/album/1X0ZHwPLIpROo8arjBErDY) | 3:32 | 2020-05-18 |  |
 | [Dancing In the Moonlight](https://open.spotify.com/track/7ufDF5ePKsnxYgP0DAZoZE) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/5OzsCyv6MpJzmHVXIkeN9y) | 3:01 | 2020-05-18 |  |
 | [Daydream](https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Daydream](https://open.spotify.com/album/678WzpMIeszIatLVnczSnS) | 2:19 | 2020-05-18 |  |
 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 | 2020-05-18 |  |
@@ -138,9 +139,10 @@
 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 | 2020-05-18 |  |
 | [Sweet Thing](https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Very Best Of](https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK) | 3:20 | 2020-05-18 | 2022-07-29 |
 | [Teardrops](https://open.spotify.com/track/22O5r3qSo7vWlQsCUZukCK) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Plant Tunes](https://open.spotify.com/album/5ZPO0HmzwxYlvr7feIZx1z) | 3:50 | 2020-05-18 | 2022-11-14 |
-| [Teardrops](https://open.spotify.com/track/2ssl3oeVptDKx5PY59Sbm2) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Best of 80s](https://open.spotify.com/album/0zkMNW1yQlHMIXQDOM6LT8) | 3:50 | 2020-05-18 |  |
+| [Teardrops](https://open.spotify.com/track/2ssl3oeVptDKx5PY59Sbm2) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Best of 80s](https://open.spotify.com/album/0zkMNW1yQlHMIXQDOM6LT8) | 3:50 | 2020-05-18 | 2023-01-14 |
 | [Teardrops](https://open.spotify.com/track/59uRxvQjMJOjW5GrHLnVgb) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [80s Summer Hits](https://open.spotify.com/album/3FkmAdgCpCzxHgo3lfhnGi) | 3:50 | 2020-05-18 | 2022-08-22 |
 | [Teardrops \- 7" Edit](https://open.spotify.com/track/4TNAdITaQoKPbNqQdxvwy4) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Soul](https://open.spotify.com/album/1sztvsPftemYQDMJsaCAdj) | 3:50 | 2020-05-18 | 2022-07-29 |
+| [Teardrops \- Single Version](https://open.spotify.com/track/6wSYpKrgUJSIrH033Y5WlB) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Happy Classics](https://open.spotify.com/album/2cnDTz7eNou1DKvA5bEY35) | 3:50 | 2020-05-18 |  |
 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 | 2020-05-18 |  |
 | [The Payback](https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Payback](https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl) | 7:39 | 2020-05-18 |  |
 | [Thinking of You \- 1995 Remaster](https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 4:26 | 2020-05-18 |  |

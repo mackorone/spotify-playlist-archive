@@ -4,7 +4,7 @@
 
 > Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.
 
-191 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/64TrHSSpN6MFtOko77c2wK)
+193 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Ethel](https://open.spotify.com/track/3F4T8gO9jvZP8p2kfQKWJ6) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [Port Royal Bacchanal](https://open.spotify.com/album/4sBTiQI0RpfWKnYeNNjmik) | 5:48 | 2020-09-16 | 2022-07-29 |
 | [Ethel](https://open.spotify.com/track/6fJEiKdVxkVezXI97thsWG) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 5:48 | 2022-02-24 | 2022-08-19 |
 | [Faluma](https://open.spotify.com/track/0jIiX4Vb30zGHX9aLOHhIR) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:55 | 2022-08-18 |  |
-| [Famalay](https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6) | 3:19 | 2020-09-16 |  |
+| [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 | 2022-08-18 |  |
+| [Famalay](https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6) | 3:19 | 2020-09-16 | 2022-12-19 |
 | [Far from Finished](https://open.spotify.com/track/7b2eOI6RKPPcqqdMnCOcQR) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Get Soca 2017](https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG) | 3:51 | 2020-09-16 | 2022-08-19 |
 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 | 2020-09-16 |  |
 | [Flag Party](https://open.spotify.com/track/1s2oCfCPvu8UlZ2D05FUA3) | [Byron Lee & The Dragonaires](https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy) | [Soca Butterfly](https://open.spotify.com/album/65ymLAcFTmoanmId8pIzL4) | 3:45 | 2020-09-16 | 2022-07-29 |
@@ -185,7 +186,8 @@
 | [Turn It Around](https://open.spotify.com/track/3mkF8EEPaVyh3MvwTz521G) | [Square One \(feat\. Andy Armstrong\)](https://open.spotify.com/artist/74sB0UYuVtpR49LeepNH5D) | [The Ultimate Soca Gold Collection](https://open.spotify.com/album/38EBSpTihyFuQn2ymv1wpt) | 3:23 | 2022-08-18 |  |
 | [Wave Wid Me](https://open.spotify.com/track/30BrXdAkOF4rXyNbzV762F) | [Alison Hinds Feat\. Peter Ram](https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:39 | 2022-02-24 |  |
 | [Wave Wid Me](https://open.spotify.com/track/3IOvWPwF1PXTD4OQ5no45s) | [Alison Hinds Feat\. Peter Ram](https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 3:39 | 2020-09-16 | 2022-07-29 |
-| [West Indian](https://open.spotify.com/track/5ojDwaC18QlyMu43T6UArw) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [West Indian](https://open.spotify.com/album/3xvPs1mCwpvTPQlNtHsVyS) | 3:07 | 2022-08-18 |  |
+| [West Indian](https://open.spotify.com/track/4PLywM0ijCk1gsEnTl1R7v) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [West Indian](https://open.spotify.com/album/3RYApYuUFt8eDOvmVmsig5) | 3:07 | 2022-08-18 |  |
+| [West Indian](https://open.spotify.com/track/5ojDwaC18QlyMu43T6UArw) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [West Indian](https://open.spotify.com/album/3xvPs1mCwpvTPQlNtHsVyS) | 3:07 | 2022-08-18 | 2022-12-19 |
 | [Whoa Donkey](https://open.spotify.com/track/38Q3FJpLQpl4KkQARSEZ5Y) | [United Sisters](https://open.spotify.com/artist/7aFZDOPtJdwiUVlQMurip7) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 3:47 | 2022-02-24 |  |
 | [Whoa Donkey](https://open.spotify.com/track/60ZVpMA4EkjHmCBlseQTvM) | [United Sisters](https://open.spotify.com/artist/7aFZDOPtJdwiUVlQMurip7) | [Soca 101 Vol.1](https://open.spotify.com/album/111Eu8ZNJ4IaHd9HJppqZG) | 3:47 | 2020-09-16 | 2022-07-29 |
 | [Wine On A Bumsee](https://open.spotify.com/track/26ckSFjnh3OX3IJleVocyC) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:03 | 2020-09-16 | 2022-07-27 |

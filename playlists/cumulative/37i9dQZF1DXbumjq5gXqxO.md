@@ -4,7 +4,7 @@
 
 > Check out the Official Hustle Playlist\. Watch now on Netflix.
 
-29 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/65dLCw1mMs6FlCK4Cx2lXJ)
+29 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

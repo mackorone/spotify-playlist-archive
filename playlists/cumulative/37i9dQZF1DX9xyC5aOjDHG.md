@@ -4,10 +4,15 @@
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-129 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0PzANGEQ6UOUzOy4YIBJAY)
+136 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#01 【ソードアート・オンライン】戸松遥「アスナと歩んだ9年間！戸松遥さんの声優道」](https://open.spotify.com/episode/2XMSgHy0msvlmHEtIo0Zbl) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 23:22 | 2022-12-27 | 2023-01-20 |
+| [\#02 【ソードアート・オンライン】戸松遥×大澤信博 プロデューサーのお仕事とアニメ『ソードアート・オンライン』立ち上げ当時の思い出](https://open.spotify.com/episode/10CPIvN8YOg3w5UODPTkpR) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 33:01 | 2022-12-27 | 2023-01-20 |
+| [\#03 【ソードアート・オンライン】戸松遥×河野亜矢子監督「『劇場版 ソードアート・オンライン』制作エピソードと監督のお仕事」](https://open.spotify.com/episode/1VrQc2i1CsL97sUoS3DVCn) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 34:46 | 2022-12-27 | 2023-01-20 |
+| [\#04 【ソードアート・オンライン】戸松遥×水瀬いのり（コメント出演）「戸松遥×水瀬いのりがお互いの気になる！疑問に答える」](https://open.spotify.com/episode/0jQ4pdczjLAnsBrgABNrTq) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 25:54 | 2022-12-27 | 2023-01-20 |
+| [\#05 【ソードアート・オンライン】戸松遥×豪華Ｗコメントゲスト～水瀬いのり＆LiSA](https://open.spotify.com/episode/6BCkGbMs3LzVK0Yp1OIELc) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 37:40 | 2022-12-27 | 2023-01-20 |
 | [a tender feeling](https://open.spotify.com/track/4qGRptIf2ok9nHdDH6VwzW) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:07 | 2022-04-01 |  |
 | [ADAMAS](https://open.spotify.com/track/2C4vIYxnhiZ2Gi0z0fzK0W) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [赤い罠\(who loves it?\) / ADAMAS](https://open.spotify.com/album/50elnoiGrA2BmbEZkoMlde) | 3:45 | 2022-04-01 | 2022-07-29 |
 | [ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [赤い罠\(who loves it?\) / ADAMAS](https://open.spotify.com/album/0FzOLNWpmK69dCGZ5AVjKo) | 3:45 | 2022-04-01 |  |
@@ -15,6 +20,7 @@
 | [ALONE](https://open.spotify.com/track/08EaMQ9Ro0NavqaBpdfJDk) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 5:01 | 2022-04-01 |  |
 | [ANIMA](https://open.spotify.com/track/6uT4In9l5gE4cSiMtxFtrC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ANIMA \(Special Edition\)](https://open.spotify.com/album/0UUW762dgvMubwt07PwmaF) | 4:27 | 2022-04-01 | 2022-07-29 |
 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 | 2022-04-01 |  |
+| [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 | 2022-12-27 |  |
 | [BLAZING BULLET](https://open.spotify.com/track/1skaofZEKSq01YUmdBj5sI) | [キリト \(CV:松岡禎丞\)](https://open.spotify.com/artist/6JhcN5WCAWU88kw4RfPwEv), [シノン \(CV:沢城みゆき\)](https://open.spotify.com/artist/5MK1DksbVa4ME5L6NENRt0) | [ソードアート・オンライン キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 4:08 | 2022-04-01 |  |
 | [Break Beat Bark!](https://open.spotify.com/track/18Cjb5zI8lmbgVcaagZGoV) | [ユナ \(CV:神田沙也加\)](https://open.spotify.com/artist/1sxYGoRSZlWDvqHWTH1k4A) | [劇場版 ソードアート・オンライン \-オーディナル・スケール\- Original Soundtrack](https://open.spotify.com/album/1VRxzUSCzUYdrNQsaOJXUF) | 4:08 | 2022-04-01 |  |
 | [Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:42 | 2022-04-01 |  |
@@ -36,7 +42,8 @@
 | [good bye, again and again](https://open.spotify.com/track/3QUEUxPhOQcqRO4weYu2k6) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [ソードアート・オンライン ミュージックコレクション](https://open.spotify.com/album/7t3It6EP6isk5ZpBKgupYZ) | 2:09 | 2022-04-01 |  |
 | [Heart Sweet Heart](https://open.spotify.com/track/42lossxkK17RPqKWte0sTP) | [ユイ \(CV:伊藤かな恵\)](https://open.spotify.com/artist/60YNSUP6Foe0zPBdIo6yhb) | [ソードアート・オンライン キャラクターソングコレクションII](https://open.spotify.com/album/6JYPrZIfzZVS3VaR7TthEq) | 4:17 | 2022-04-01 |  |
 | [I know "ai"](https://open.spotify.com/track/28KRGP3ZbAPSn6qBfxyPgP) | [ユイ \(CV:伊藤かな恵\)](https://open.spotify.com/artist/60YNSUP6Foe0zPBdIo6yhb) | [ソードアート・オンライン キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 4:19 | 2022-04-01 |  |
-| [I will...](https://open.spotify.com/track/2BTIKSOhf3X8OA3LWbFW2U) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [I will...](https://open.spotify.com/album/1hSdqP7Dh0PN1hyU91nXFb) | 4:34 | 2022-04-01 |  |
+| [I will...](https://open.spotify.com/track/2BTIKSOhf3X8OA3LWbFW2U) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [I will...](https://open.spotify.com/album/1hSdqP7Dh0PN1hyU91nXFb) | 4:34 | 2022-04-01 | 2023-01-14 |
+| [I will...](https://open.spotify.com/track/3vQ4D2tTozS2EsJowFwMso) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 4:34 | 2022-12-27 |  |
 | [I will...](https://open.spotify.com/track/4DGJQEY7NUtuKRL6IX20U6) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [I will...](https://open.spotify.com/album/5NiJNFnTIXAY1vbDLOaohA) | 4:34 | 2022-04-01 | 2022-07-29 |
 | [IGNITE](https://open.spotify.com/track/0EZjVlgsRKTfVKkwU3fCw5) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/0Wo0KlDxNcCY4jLEaIbbda) | 4:04 | 2022-04-01 | 2022-07-29 |
 | [IGNITE](https://open.spotify.com/track/5ivhfpfnoHhD8rUI2t3aJG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:04 | 2022-04-01 |  |

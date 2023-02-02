@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
   "name": "This Is Delia Derbyshire",
-  "published_playlist_ids": [
-    "3wZZWTR0R8LBMRmKLWarQ2"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,10 +16,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 41293,
       "name": "A New View of Politics",
       "url": "https://open.spotify.com/track/2tLBAVvLREIyKdHClrtXkK"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41293,
+      "name": "A New View of Politics",
+      "url": "https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6"
     },
     {
       "album": {
@@ -181,7 +196,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 80053,
       "name": "Doctor Who (Closing Theme)",
       "url": "https://open.spotify.com/track/12eaGTQ57QR7E1XhAevAXo"
@@ -225,7 +240,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 53560,
       "name": "Doctor Who (New Opening Theme, 1967)",
       "url": "https://open.spotify.com/track/5edEe378gFi6xxhveG7jAk"
@@ -247,7 +262,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 39240,
       "name": "Doctor Who (Opening Theme)",
       "url": "https://open.spotify.com/track/0Rr3Qaf5yF2bRtcfBHkLFg"
@@ -298,6 +313,50 @@
     },
     {
       "album": {
+        "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4NLQXqPZVsmji1N72QViic"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80053,
+      "name": "Doctor Who - Closing Theme",
+      "url": "https://open.spotify.com/track/0E6vubyhXDzrjFkYu1wNP3"
+    },
+    {
+      "album": {
+        "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4NLQXqPZVsmji1N72QViic"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39240,
+      "name": "Doctor Who - Opening Theme",
+      "url": "https://open.spotify.com/track/1fh0GIHW5ClsCe1D1zYVk3"
+    },
+    {
+      "album": {
         "name": "Doctor Who - the Sun Makers (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CI2PWZGvmov9hh1PFh4j3"
       },
@@ -309,10 +368,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 55546,
       "name": "Doctor Who Closing Title Theme - 53\" Version",
       "url": "https://open.spotify.com/track/0423txeQ20yYT91cnKYzLI"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55546,
+      "name": "Doctor Who Closing Title Theme - 53\" Version",
+      "url": "https://open.spotify.com/track/2HEsZRIwaCvCamxJMi8yaJ"
     },
     {
       "album": {
@@ -375,6 +452,24 @@
     {
       "album": {
         "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46466,
+      "name": "Doctor Who Opening Title Theme",
+      "url": "https://open.spotify.com/track/59grLIYk7JDrF6APXELcMP"
+    },
+    {
+      "album": {
+        "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3veythdmOIq5kZLK5HAG1b"
       },
       "artists": [
@@ -385,7 +480,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 46466,
       "name": "Doctor Who Opening Title Theme",
       "url": "https://open.spotify.com/track/6YB4kP8ZMACLbOU1edQFan"
@@ -425,10 +520,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 91480,
       "name": "Dr. Who",
       "url": "https://open.spotify.com/track/7bhcpGwtx7XToXJUcVIdLD"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91480,
+      "name": "Dr. Who",
+      "url": "https://open.spotify.com/track/7j4Bw7om5owxBdZE54XGOq"
     },
     {
       "album": {
@@ -459,6 +572,24 @@
     {
       "album": {
         "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31760,
+      "name": "Environmental Studies",
+      "url": "https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
       },
       "artists": [
@@ -469,7 +600,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 31760,
       "name": "Environmental Studies",
       "url": "https://open.spotify.com/track/6SH4xRo7J9eGtzZTvUIM2w"
@@ -557,10 +688,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 37186,
       "name": "Great Zoos of the World",
       "url": "https://open.spotify.com/track/39fgw4eQFh7AFDXNkchxrJ"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37186,
+      "name": "Great Zoos of the World",
+      "url": "https://open.spotify.com/track/4HnfjfedOmmZkxjaAeEkcY"
     },
     {
       "album": {
@@ -711,7 +860,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 89813,
       "name": "Hannett and Delia synth exchanges track 18",
       "url": "https://open.spotify.com/track/6eE4C3OBhLH6racpXnzM32"
@@ -737,6 +886,28 @@
       "duration_ms": 66080,
       "name": "Hannett and Delia synth exchanges track 20",
       "url": "https://open.spotify.com/track/2pd6AauSghzEWC3YYicPCK"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 175773,
+      "name": "Hannett and Delia synth exchanges track 21",
+      "url": "https://open.spotify.com/track/4uLGsgGz29gBwFwgfBcNvt"
     },
     {
       "album": {
@@ -821,7 +992,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 126213,
       "name": "Hannett and Delia synth exchanges track 6",
       "url": "https://open.spotify.com/track/6fzWYlEBCGq0OXVLcw5yTV"
@@ -843,7 +1014,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": "2023-01-11",
       "duration_ms": 79946,
       "name": "Hannett and Delia synth exchanges track 7",
       "url": "https://open.spotify.com/track/5lCMhaHwhtTgR7OOf5PjYA"
@@ -865,7 +1036,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": "2023-01-25",
       "duration_ms": 47506,
       "name": "Hannett and Delia synth exchanges track 8",
       "url": "https://open.spotify.com/track/4OLauE6EekCaaCMWicP3C1"
@@ -917,6 +1088,24 @@
     {
       "album": {
         "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59240,
+      "name": "Know Your Car (Get out and Get Under)",
+      "url": "https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
       },
       "artists": [
@@ -927,7 +1116,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 59240,
       "name": "Know Your Car (Get out and Get Under)",
       "url": "https://open.spotify.com/track/5mFAUxtxUKV8HbNjhyqoGd"
@@ -1105,6 +1294,24 @@
     {
       "album": {
         "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 57253,
+      "name": "Science and Health",
+      "url": "https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
       },
       "artists": [
@@ -1115,7 +1322,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": "2022-12-24",
       "duration_ms": 57253,
       "name": "Science and Health",
       "url": "https://open.spotify.com/track/4lWoCNmwIINJd79g59LZIC"
@@ -1145,6 +1352,24 @@
       "duration_ms": 34400,
       "name": "Shock Chords",
       "url": "https://open.spotify.com/track/5WcHBV1Wzac0UCRy3ZseBc"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 26480,
+      "name": "Talk Out",
+      "url": "https://open.spotify.com/track/0cbb7iObJeNuooNhJbvHmX"
     },
     {
       "album": {
@@ -1201,6 +1426,24 @@
     {
       "album": {
         "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73293,
+      "name": "Time on Our Hands",
+      "url": "https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
       },
       "artists": [
@@ -1211,7 +1454,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 73293,
       "name": "Time on Our Hands",
       "url": "https://open.spotify.com/track/2oeQFA1RwZbR9E5Pf50XRQ"

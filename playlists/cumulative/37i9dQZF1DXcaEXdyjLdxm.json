@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "LGBTQQIA+ artists like you've never heard before. Cover: Ethel Cain. ",
+  "description": "LGBTQIA+ artists like you've never heard before. Cover: G FLIP. ",
   "name": "Spotify Singles: Pride",
-  "published_playlist_ids": [
-    "5hCASO58LS3FyWd4FiMjbC"
-  ],
   "tracks": [
     {
       "album": {
@@ -445,6 +442,28 @@
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        },
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284943,
+      "name": "GAY 4 ME - Spotify Singles (feat. Lauren Sanderson)",
+      "url": "https://open.spotify.com/track/4E1QNVcaLYlqyfjklxvwOK"
     },
     {
       "album": {

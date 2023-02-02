@@ -4,7 +4,7 @@
 
 > Tight Roll your jeans, break out the CK1, and set the mood...
 
-122 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/18ahK2am7p6K88HhVZXnvH)
+122 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [I Need You](https://open.spotify.com/track/046MBhhgQJJghnbgZCkaAR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:49 | 2022-01-25 | 2022-11-13 |
 | [I Swear](https://open.spotify.com/track/3V0PeMg2mhbYRtk9bioAwF) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [Rhino Hi\-Five: All\-4\-One](https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ) | 4:19 | 2020-09-30 | 2022-01-26 |
 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 | 2022-01-25 |  |
-| [I Turn to You](https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 4:33 | 2022-01-25 | 2022-11-13 |
+| [I Turn to You](https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 4:33 | 2022-01-25 | 2023-01-01 |
 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 | 2022-01-25 |  |
 | [I Wanna Know](https://open.spotify.com/track/6ctr1K7KzKErxbfGAynL8A) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Greatest Hits](https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq) | 4:56 | 2020-09-30 | 2022-01-25 |
 | [I Wanna Love You Forever](https://open.spotify.com/track/5gZEhPrN1VLqTG1nIAXeNK) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [Sweet Kisses](https://open.spotify.com/album/2z4kcQqO0W8des2nWq5ECY) | 4:23 | 2020-09-30 | 2022-07-29 |

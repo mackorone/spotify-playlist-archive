@@ -4,7 +4,7 @@
 
 > Listen to the soundtrack of the SBS Mon\-Tue drama CHEER UP and the songs recommended by the cast! \(SBS 월, 화 드라마 치얼업의 사운드 트랙과 배우진이 추천하는 노래를 들어보세요!\)
 
-31 songs - 1 hr 49 min - not published yet
+33 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,12 @@
 | [Confession](https://open.spotify.com/track/59OQ9zPGXtzMMIz2q8INhg) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Cheer Up \(Original Soundtrack Part.2\)](https://open.spotify.com/album/7quVqU9K0eqi8P7214gFIy) | 4:39 | 2022-10-11 |  |
 | [Consolation](https://open.spotify.com/track/6uYBDTTolezL3ne2HsXDm0) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0EfkBr9UoX191Mv24RuesI) | 3:16 | 2022-10-04 |  |
 | [Covet](https://open.spotify.com/track/24oO33bOjYhSGgpMDgodGo) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Covet](https://open.spotify.com/album/69cA7TzM56Q87ph6AZ9AL4) | 2:58 | 2022-10-04 |  |
+| [Deneb](https://open.spotify.com/track/7apKcB7zICUb87xSryhrQh) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Cheer Up \(Original Soundtrack Part.8\)](https://open.spotify.com/album/6gnHVF0GgZVXg14At7CPYW) | 5:03 | 2022-11-29 |  |
 | [Enjoy This Moment](https://open.spotify.com/track/4KypfbPEKRtgZz7omZgcwT) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Cheer Up \(Original Soundtrack Part.4\)](https://open.spotify.com/album/158L4bgweqW5INvRXD9BpH) | 3:04 | 2022-10-28 |  |
 | [Eurachacha](https://open.spotify.com/track/5WeDiuGjTVQ38Vf2eHUpX3) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Have A Nice Dream](https://open.spotify.com/album/1gGFPcgK3adJebbw4XnT47) | 4:16 | 2022-10-04 |  |
 | [Every Second](https://open.spotify.com/track/6dquCx5KAW5jCgGgoTlghL) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Every Second](https://open.spotify.com/album/4VLxnKcNSnVyxw4ByPzQVs) | 3:02 | 2022-10-04 |  |
 | [Good Luck to You](https://open.spotify.com/track/03JARaiVyO6xN2UNDi7NYZ) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Beginner's Luck](https://open.spotify.com/album/0rwMYpbxg4Iaw2RbCG07xv) | 4:20 | 2022-10-04 |  |
-| [High](https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6) | [THEIA](https://open.spotify.com/artist/0WT5o9HgcJJoyKUhiHaCMP) | [Cheer Up \(Original Soundtrack Part.6\)](https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE) | 3:28 | 2022-11-09 |  |
+| [High](https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6) | [THEIA](https://open.spotify.com/artist/1SF9zCNjbChZTiIkxjgJXa) | [Cheer Up \(Original Soundtrack Part.6\)](https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE) | 3:28 | 2022-11-09 |  |
 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2022-10-04 |  |
 | [I Am Blue](https://open.spotify.com/track/3UPbbImoatLnoAGphBjYmv) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [I Am Blue](https://open.spotify.com/album/01fIbeVhEe4arnqVHzlpps) | 3:07 | 2022-10-04 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-10-04 |  |
@@ -31,6 +32,7 @@
 | [RINGING](https://open.spotify.com/track/1ShTCj5B8ICnrkXyfhSWKn) | [Mi Joo Lee](https://open.spotify.com/artist/0aATviqzHMSQHDengVEH74) | [Cheer Up \(Original Soundtrack Part.3\)](https://open.spotify.com/album/5ycHYSK1rnY4YDCPGczxYH) | 3:31 | 2022-10-18 |  |
 | [Runaway Baby](https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 2:28 | 2022-10-04 |  |
 | [Shine](https://open.spotify.com/track/0Rbu97T9gnZiPDJEECkRdK) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Cheer Up \(Original Soundtrack Part.1\)](https://open.spotify.com/album/5g2wV4temcDlhLi9lx0tSm) | 2:17 | 2022-10-04 |  |
+| [STEP](https://open.spotify.com/track/20kZESl2411eCyQ7Sf5Sgi) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Cheer Up \(Original Soundtrack Part.9\)](https://open.spotify.com/album/3tY2H0EStVSnrB9lK8xk1b) | 3:35 | 2022-12-06 |  |
 | [Summer In Love](https://open.spotify.com/track/2GWN9DZzufK8Yo1ahtqZIm) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Summer In Love](https://open.spotify.com/album/6TcySjFEFk3pilszcwNwBA) | 3:55 | 2022-10-04 |  |
 | [Today is the day \(Good Day\)](https://open.spotify.com/track/2Iio7YzWcoCLLWConHTfIc) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Cheer Up \(Original Soundtrack Part.5\)](https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7) | 3:51 | 2022-10-28 |  |
 | [Way to Go](https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Gee \- The First Mini Album](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 3:03 | 2022-10-04 |  |

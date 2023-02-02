@@ -4,7 +4,7 @@
 
 > This is Johnny Cash\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/2XI4CF9kikx9qe9CnIsreX)
+75 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

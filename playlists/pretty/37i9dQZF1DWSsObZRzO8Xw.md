@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: toe
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,425 likes - 90 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,471 likes - 90 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 22 | [Habanero](https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 4:05 |
 | 23 | [Cartus](https://open.spotify.com/track/2Hv4izofAjPpHD4CtdemPP) | [Kjjjjjjjjj](https://open.spotify.com/artist/41H3nsLvw0N1Z8FBov2Jgd) | [Centro De Dispersión](https://open.spotify.com/album/2cBhV03l2xuxYP072bNNde) | 3:04 |
 | 24 | [potage](https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [potage](https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu) | 4:06 |
-| 25 | [Fifzteen](https://open.spotify.com/track/0rhPij0wU67nYjY94HJiJa) | [You Slut!](https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o) | [Medium Bastard](https://open.spotify.com/album/6HppO1aQwoT69S9StRzBns) | 3:02 |
+| 25 | [Fiftzeen](https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn) | [You Slut!](https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o) | [Medium Bastard](https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY) | 3:02 |
 | 26 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
 | 27 | [Echolocation](https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Installation](https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO) | 3:54 |
 | 28 | [Friends Suck](https://open.spotify.com/track/42pO1zZememxps3eSEXfnp) | [Land Wars](https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O) | [Land Wars](https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb) | 3:54 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 89 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
 | 90 | [Your Hand In Mine](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:16 |
 
-Snapshot ID: `MTY1MzAyODU3MCwwMDAwMDAwMDVjMmI2MWYyMzk4MWIzMTg1YzM3NzdhZDY5Y2I0ODBj`
+Snapshot ID: `MTY1MzAyODU3MCwwMDAwMDAwMGZjYjU4MmIwMGYzZTRhNGUzZDIxNmViNjk3NTFlNjI2`

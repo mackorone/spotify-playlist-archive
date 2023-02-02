@@ -4,7 +4,7 @@
 
 > Aksamit's favorite tracks\. Updated regularly\. Curated by Aksamit\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-53 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/0SSq6GUNB7ZgoPsyq9A9fx)
+53 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

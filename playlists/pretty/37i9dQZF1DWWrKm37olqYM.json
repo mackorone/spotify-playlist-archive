@@ -1,13 +1,49 @@
 {
-  "description": "The raw, bass-trembling energy of Baltimore Club. A selection of classic and new tracks. Cover: Rican Da Menace",
-  "num_followers": 12770,
+  "description": "The raw, bass-trembling energy of Baltimore Club. A selection of classic and new tracks. Cover: Don3ydon",
+  "num_followers": 13970,
   "original_name": "Baltimore Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDA2NGU3ZDJlMTAxY2NjYjk0NzY4Y2M3MWQwOWVhYjA0",
+  "snapshot_id": "MTY3MjQyODcyOSwwMDAwMDAwMGIyYzc5N2E5Y2YyOWNmYmZkMmYwODA2NjE2NDBlOTAy",
   "tracks": [
+    {
+      "added_at": "2022-12-30 13:50:07",
+      "album": {
+        "name": "Microdosing (Mixed)",
+        "url": "https://open.spotify.com/album/3v8HcN24urZPBDqLrCkPMg"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Microdosing - Mixed",
+      "url": "https://open.spotify.com/track/2uXHNaXg2U6Xxj4TSvMTtb"
+    },
+    {
+      "added_at": "2022-12-30 13:50:07",
+      "album": {
+        "name": "Ah Bah, Pt. 2",
+        "url": "https://open.spotify.com/album/2hY16oXVooiBh1D646rlao"
+      },
+      "artists": [
+        {
+          "name": "Donn3ydon",
+          "url": "https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv"
+        },
+        {
+          "name": "D STURDY",
+          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
+        }
+      ],
+      "duration_ms": 99500,
+      "name": "Ah Bah, Pt. 2",
+      "url": "https://open.spotify.com/track/3ucRUYoKZe1KuObvcE9RwF"
+    },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
@@ -31,22 +67,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "AH BAH",
-        "url": "https://open.spotify.com/album/5uCZUkhtQ8r0s3L6ZeNP0c"
-      },
-      "artists": [
-        {
-          "name": "Donn3ydon",
-          "url": "https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv"
-        }
-      ],
-      "duration_ms": 62437,
-      "name": "AH BAH",
-      "url": "https://open.spotify.com/track/3xaBmikNA88h9pR9JpOe3D"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "For The Night [Baltimore Club Mix]",
         "url": "https://open.spotify.com/album/7xzo3XciHyJa9EPgIrSPMw"
       },
@@ -59,6 +79,38 @@
       "duration_ms": 124708,
       "name": "For The Night [Baltimore Club Mix]",
       "url": "https://open.spotify.com/track/7JKxy5aQ7Qi2YpmQbM6Nqe"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Ain't Going Back",
+        "url": "https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP"
+      },
+      "artists": [
+        {
+          "name": "Rican Da Menace",
+          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
+        }
+      ],
+      "duration_ms": 149231,
+      "name": "Ain't Going Back",
+      "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "AH BAH",
+        "url": "https://open.spotify.com/album/5uCZUkhtQ8r0s3L6ZeNP0c"
+      },
+      "artists": [
+        {
+          "name": "Donn3ydon",
+          "url": "https://open.spotify.com/artist/1PIz4WJcWggjCTDMPmaozv"
+        }
+      ],
+      "duration_ms": 62437,
+      "name": "AH BAH",
+      "url": "https://open.spotify.com/track/3xaBmikNA88h9pR9JpOe3D"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -107,22 +159,6 @@
       "duration_ms": 205714,
       "name": "Be Exact",
       "url": "https://open.spotify.com/track/4C6Pd59pLlQRwLsuhGvPkJ"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Ain't Going Back",
-        "url": "https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP"
-      },
-      "artists": [
-        {
-          "name": "Rican Da Menace",
-          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
-        }
-      ],
-      "duration_ms": 149231,
-      "name": "Ain't Going Back",
-      "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
     },
     {
       "added_at": "2022-11-11 05:00:00",

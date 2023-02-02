@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
   "name": "This Is Harold Budd",
-  "published_playlist_ids": [
-    "0RQcLbMZBJ3e3ABE9eAJE6"
-  ],
   "tracks": [
     {
       "album": {
@@ -89,7 +86,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 321226,
       "name": "A Minute, a Day, No More",
       "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
@@ -457,10 +454,32 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 207746,
       "name": "Avenue of Shapes",
       "url": "https://open.spotify.com/track/6x9zUu9p3rHOl5eEgfHjsA"
+    },
+    {
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76066,
+      "name": "Avenue of Trees",
+      "url": "https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI"
     },
     {
       "album": {
@@ -1408,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "The Serpent (In Quicksilver)",
+        "url": "https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 122933,
+      "name": "Rub With Ashes",
+      "url": "https://open.spotify.com/track/6mGXWiXH310DHfcdyDNbC6"
+    },
+    {
+      "album": {
         "name": "Avalon Sutra",
         "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
@@ -1624,6 +1661,28 @@
     },
     {
       "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 380453,
+      "name": "Spoken Roses",
+      "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
+    },
+    {
+      "album": {
         "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
         "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
       },
@@ -1731,7 +1790,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 195186,
       "name": "Sunlit Silhouette",
       "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
@@ -1933,6 +1992,24 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63506,
+      "name": "The Room Obscured",
+      "url": "https://open.spotify.com/track/08sTYrrvMSaYohKpb6Gwzc"
+    },
+    {
+      "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
       "date_removed": "2022-09-13",
@@ -1993,7 +2070,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-02-01",
       "duration_ms": 284426,
       "name": "The White Arcades",
       "url": "https://open.spotify.com/track/1RHWCbssogWYynyA7l0XsZ"
@@ -2073,7 +2150,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 118826,
       "name": "Widows Charm",
       "url": "https://open.spotify.com/track/0fnwhKgvtZOaG4LosBTdko"
@@ -2099,7 +2176,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 285973,
       "name": "Winter Garden",
       "url": "https://open.spotify.com/track/3L7bmTuqQVTGi9jR9NM6s9"

@@ -4,7 +4,7 @@
 
 > The official playlist for Inventing Anna\. Watch on Netflix.
 
-23 songs - 1 hr 1 min - [published](https://open.spotify.com/playlist/782XsS9gKEgW2gg5uj85et)
+23 songs - 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

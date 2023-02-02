@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Big riffs and pounding drums to help you strut the streets.",
   "name": "Walk Like A Badass",
-  "published_playlist_ids": [
-    "7gqp6Qihy76TgbYOyECoLT"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 247545,
       "name": "Apartment Complex on the Eastside",
       "url": "https://open.spotify.com/track/1cRk9clJhi67mcfTxNfnjU"
@@ -145,10 +142,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 169287,
       "name": "Black Roller Coming",
       "url": "https://open.spotify.com/track/5OLFlnmmC8gQHiFisYvrAh"
+    },
+    {
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173279,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
     },
     {
       "album": {
@@ -178,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183211,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
+    },
+    {
+      "album": {
         "name": "Boilermaker",
         "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
       },
@@ -193,6 +226,24 @@
       "duration_ms": 209480,
       "name": "Boilermaker",
       "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
+    },
+    {
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253946,
+      "name": "Brick by Boring Brick",
+      "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
       "album": {
@@ -247,6 +298,24 @@
       "duration_ms": 179240,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9"
+    },
+    {
+      "album": {
+        "name": "Country Life",
+        "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147535,
+      "name": "Country Life",
+      "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
     },
     {
       "album": {
@@ -355,6 +424,24 @@
       "duration_ms": 273424,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/7xmwLmkoWpghkq8jyEhtbx"
+    },
+    {
+      "album": {
+        "name": "Don't You Feel Amazing?",
+        "url": "https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225841,
+      "name": "Don't You Feel Amazing?",
+      "url": "https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja"
     },
     {
       "album": {
@@ -528,6 +615,24 @@
     },
     {
       "album": {
+        "name": "GIMME",
+        "url": "https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100467,
+      "name": "GIMME",
+      "url": "https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S"
+    },
+    {
+      "album": {
         "name": "God Complex (Mojo)",
         "url": "https://open.spotify.com/album/6muDFrXDsitHPkwyZXS6Xu"
       },
@@ -615,6 +720,24 @@
       "duration_ms": 181680,
       "name": "Hayloft",
       "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
+    },
+    {
+      "album": {
+        "name": "Hell of Mine",
+        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
+      },
+      "artists": [
+        {
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 125484,
+      "name": "Hell of Mine",
+      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
     },
     {
       "album": {
@@ -888,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+    },
+    {
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
       },
@@ -903,6 +1044,24 @@
       "duration_ms": 280130,
       "name": "King",
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
+    },
+    {
+      "album": {
+        "name": "Leader of the Pack",
+        "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Leader of the Pack",
+      "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
     },
     {
       "album": {
@@ -979,7 +1138,7 @@
     {
       "album": {
         "name": "SUCKAPUNCH",
-        "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
+        "url": "https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t"
       },
       "artists": [
         {
@@ -992,7 +1151,43 @@
       "date_removed": null,
       "duration_ms": 128613,
       "name": "MAKEMEFEELALIVE",
+      "url": "https://open.spotify.com/track/7AMllrhJtXgcTtJUbbF3PR"
+    },
+    {
+      "album": {
+        "name": "SUCKAPUNCH",
+        "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 128613,
+      "name": "MAKEMEFEELALIVE",
       "url": "https://open.spotify.com/track/7tfGLLDpuOI7QhQdhEiqgN"
+    },
+    {
+      "album": {
+        "name": "punkadonk",
+        "url": "https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 165831,
+      "name": "Moto",
+      "url": "https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn"
     },
     {
       "album": {
@@ -1047,6 +1242,24 @@
       "duration_ms": 291812,
       "name": "Parasite Eve",
       "url": "https://open.spotify.com/track/5OxclJsdFESni44YlpNpkR"
+    },
+    {
+      "album": {
+        "name": "Pass The Nirvana",
+        "url": "https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197374,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
     },
     {
       "album": {
@@ -1248,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192715,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D"
       },
@@ -1320,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+    },
+    {
+      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -1335,6 +1584,28 @@
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "album": {
+        "name": "The Delicate Nature",
+        "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        },
+        {
+          "name": "Laurie Vincent",
+          "url": "https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182407,
+      "name": "The Delicate Nature",
+      "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
     },
     {
       "album": {
@@ -1421,7 +1692,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
@@ -1457,7 +1728,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6"

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
+  "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
   "name": "Fusion Fest",
-  "published_playlist_ids": [
-    "6VNcN9Rm3QVGsJM7Qz2ea6"
-  ],
   "tracks": [
     {
       "album": {
@@ -485,11 +482,23 @@
         {
           "name": "Umziky",
           "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
+        },
+        {
+          "name": "Markus Eermann",
+          "url": "https://open.spotify.com/artist/4s79kfWJq1CaZu9e7rvbwu"
+        },
+        {
+          "name": "Jesse Vilhomaa",
+          "url": "https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb"
+        },
+        {
+          "name": "Vid \u0160keta",
+          "url": "https://open.spotify.com/artist/3xvZ4lDs78x6krq04pfItd"
         }
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 238178,
       "name": "Catch me if you can!",
       "url": "https://open.spotify.com/track/2sdQsMO4eC2Onw3WOOPp6n"
@@ -729,7 +738,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 384356,
       "name": "Eastern Kaleidoscope",
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
@@ -911,7 +920,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
@@ -923,7 +932,7 @@
       },
       "artists": [
         {
-          "name": "Nino Josele",
+          "name": "Ni\u00f1o Josele",
           "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
         },
         {
@@ -1045,6 +1054,24 @@
       "duration_ms": 260866,
       "name": "Growing Up!",
       "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
+    },
+    {
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 653190,
+      "name": "Guinnevere",
+      "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
     },
     {
       "album": {
@@ -1197,7 +1224,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 422882,
       "name": "Hunting Heads",
       "url": "https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH"
@@ -1302,6 +1329,32 @@
     },
     {
       "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/61HTeENwsrXkQywUJBoE97"
+      },
+      "artists": [
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Hadrien Feraud",
+          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
+        },
+        {
+          "name": "Morgan \u00c5gren",
+          "url": "https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164622,
+      "name": "Layers",
+      "url": "https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL"
+    },
+    {
+      "album": {
         "name": "A Present For The Future",
         "url": "https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5"
       },
@@ -1349,7 +1402,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 182040,
       "name": "Level One",
       "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
@@ -1459,7 +1512,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": "2023-01-25",
       "duration_ms": 401652,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
@@ -2681,6 +2734,32 @@
       "duration_ms": 242000,
       "name": "Up and Down",
       "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
+    },
+    {
+      "album": {
+        "name": "VHS Fireplace Love (Live)",
+        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "SmokeFace",
+          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
+        },
+        {
+          "name": "Gabe Jones",
+          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "VHS Fireplace Love - Live",
+      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
     },
     {
       "album": {

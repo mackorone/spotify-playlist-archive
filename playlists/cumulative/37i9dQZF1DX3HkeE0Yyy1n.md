@@ -4,7 +4,7 @@
 
 > Looking back at the greatest metal released in 2016.
 
-186 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/54thkZ5GCjZUXqi3m9Nh7k)
+186 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 
 > This is the essential Justin Bieber.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,786,440 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,836,865 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2aPBXGmXrt.md) - [plain]
 | 35 | [Angels Speak](https://open.spotify.com/track/5G99lkpldkHJx6o1Z37ts7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/5v2lj0w9VJIbjcUUKYLvlo) | 3:51 |
 | 36 | [Friends \(with BloodPop®\)](https://open.spotify.com/track/7iNIg7XDEaYECfWD5dJ9Va) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [Friends \(with BloodPop®\)](https://open.spotify.com/album/7huML9zDbY4thKH0xSuZTP) | 3:09 |
 | 37 | [Confident](https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 4:08 |
-| 38 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
+| 38 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
 | 39 | [Somebody To Love](https://open.spotify.com/track/3rLIv187BhjyweFe89SgLn) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World 2.0](https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9) | 3:40 |
 | 40 | [One Time](https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:35 |
 | 41 | [All That Matters](https://open.spotify.com/track/70XP39KE8vTgxtRXcwfxJA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 3:11 |

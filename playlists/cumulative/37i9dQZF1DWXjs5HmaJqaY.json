@@ -2,10 +2,29 @@
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:6caPJFLv1wesmM7gwK1ACy\">Boris Brejcha</a>'s favorite tracks. Updated regularly. Curated by Boris Brejcha. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Boris Brejcha's track IDs",
-  "published_playlist_ids": [
-    "4zXlNISwGhCKz7Rl5RQDhn"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "3 DAYS AWAKE",
+        "url": "https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        },
+        {
+          "name": "Stella Bossi",
+          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143892,
+      "name": "3 DAYS AWAKE",
+      "url": "https://open.spotify.com/track/42PM6bBmZrcQWcW7UwXSgK"
+    },
     {
       "album": {
         "name": "6 A.M. / Maurader",
@@ -59,7 +78,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 475766,
       "name": "Andromeda Mission",
       "url": "https://open.spotify.com/track/7EKpyfbmopbXMaMLW9QEd3"
@@ -147,7 +166,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 467627,
       "name": "Bending The End",
       "url": "https://open.spotify.com/track/78Bj94zrq8DgvjcZffBNS7"
@@ -169,7 +188,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 503040,
       "name": "Black Ice - Boris Brejcha Remix",
       "url": "https://open.spotify.com/track/4oKpdNCActjFU2kDbY3iLi"
@@ -209,6 +228,24 @@
       "duration_ms": 470400,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab"
+    },
+    {
+      "album": {
+        "name": "Captain Nemo",
+        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "Captain Nemo - Edit",
+      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
     },
     {
       "album": {
@@ -328,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
+    },
+    {
+      "album": {
         "name": "Dualism",
         "url": "https://open.spotify.com/album/0pQ00YF0S5Xj68eJlWxwAN"
       },
@@ -339,7 +394,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 236893,
       "name": "Dualism",
       "url": "https://open.spotify.com/track/5BOR3weDfPrKSU01sHiaY9"
@@ -357,10 +412,32 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 440624,
       "name": "Echodeltaalfaxray",
       "url": "https://open.spotify.com/track/4dDCPZhr8fCiCIMKEXZYnk"
+    },
+    {
+      "album": {
+        "name": "Echodeltaalfaxray",
+        "url": "https://open.spotify.com/album/2U2sD0FAmRORmxhmJBDSJB"
+      },
+      "artists": [
+        {
+          "name": "Der Dritte Raum",
+          "url": "https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO"
+        },
+        {
+          "name": "AKA AKA",
+          "url": "https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334715,
+      "name": "Echodeltaalfaxray - AKA AKA Remix",
+      "url": "https://open.spotify.com/track/5OmDWhyNKMjew4AXxs9QwD"
     },
     {
       "album": {
@@ -379,6 +456,24 @@
       "duration_ms": 402259,
       "name": "Ego Rave B",
       "url": "https://open.spotify.com/track/1PhMiQKoYQr0jX0XZbh3sb"
+    },
+    {
+      "album": {
+        "name": "Electro Chemical Mind",
+        "url": "https://open.spotify.com/album/7rBzbXM2aD8veaxD0yXf1p"
+      },
+      "artists": [
+        {
+          "name": "Breitenstein",
+          "url": "https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304218,
+      "name": "Electro Chemical Mind",
+      "url": "https://open.spotify.com/track/01W3qXxnLN6kTH5YcCST1i"
     },
     {
       "album": {
@@ -436,6 +531,42 @@
     },
     {
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/1qik9Gr4EhhOMb2jDUpyTA"
+      },
+      "artists": [
+        {
+          "name": "Nick Schwenderling",
+          "url": "https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 228571,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3gp5lbLAuDgcwFu7CxQffZ"
+    },
+    {
+      "album": {
+        "name": "Follow The Lead",
+        "url": "https://open.spotify.com/album/1dKEbgV1x6CkS4ozGCa5Tz"
+      },
+      "artists": [
+        {
+          "name": "Patrick Podage",
+          "url": "https://open.spotify.com/artist/7iuZjXDugV2YunAMWauN0F"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447096,
+      "name": "Follow The Lead",
+      "url": "https://open.spotify.com/track/2KvWrnqhS7UfHlhYXrlqcV"
+    },
+    {
+      "album": {
         "name": "Freedom Remixes",
         "url": "https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv"
       },
@@ -455,6 +586,24 @@
       "duration_ms": 422849,
       "name": "Freedom - Breitenstein Remix",
       "url": "https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7"
+    },
+    {
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/1iNcmx49l7GEhzXcjOvlJN"
+      },
+      "artists": [
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/2wm1t5GH1Hanv7WaJRd2IK"
     },
     {
       "album": {
@@ -575,7 +724,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 487680,
       "name": "In The Shadows",
       "url": "https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P"
@@ -706,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Club Vibes Part 04",
+        "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432000,
+      "name": "Knocking Birds",
+      "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
+    },
+    {
+      "album": {
         "name": "Known",
         "url": "https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk"
       },
@@ -721,6 +888,24 @@
       "duration_ms": 266666,
       "name": "Known",
       "url": "https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg"
+    },
+    {
+      "album": {
+        "name": "Kolm",
+        "url": "https://open.spotify.com/album/1Ll05kLvstpcJT7iBKykdd"
+      },
+      "artists": [
+        {
+          "name": "concious",
+          "url": "https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383535,
+      "name": "Kolm",
+      "url": "https://open.spotify.com/track/2dakWeynruxsUyeSFvFaaP"
     },
     {
       "album": {
@@ -753,10 +938,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 319266,
       "name": "LFO",
       "url": "https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5"
+    },
+    {
+      "album": {
+        "name": "Frequencies",
+        "url": "https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8"
+      },
+      "artists": [
+        {
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319000,
+      "name": "LFO - Leeds Warehouse Mix",
+      "url": "https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi"
     },
     {
       "album": {
@@ -789,7 +992,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 290806,
       "name": "Love And Forgive",
       "url": "https://open.spotify.com/track/6Qy9lpJM7rvPJ6edx9gYbI"
@@ -825,7 +1028,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 382942,
       "name": "Mad Hatter",
       "url": "https://open.spotify.com/track/1nDoesWvttKVaXzQqOEemh"
@@ -887,7 +1090,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 200000,
       "name": "Mesopotamia",
       "url": "https://open.spotify.com/track/24wkID8UHARIJLeKAkcjq6"
@@ -916,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "Moulin Rouge",
+        "url": "https://open.spotify.com/album/2so5MifEWb91gnz2YtQysq"
+      },
+      "artists": [
+        {
+          "name": "Ira Ange",
+          "url": "https://open.spotify.com/artist/647KkEJP83yUnc4oft2pPg"
+        },
+        {
+          "name": "Sunbios",
+          "url": "https://open.spotify.com/artist/469Qwvynp9B15LJAEwouDk"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383698,
+      "name": "Moulin Rouge",
+      "url": "https://open.spotify.com/track/3HVuI6V6SO1kycXAPF4Ti6"
+    },
+    {
+      "album": {
         "name": "Nahar",
         "url": "https://open.spotify.com/album/49UofVTgrdjTpAW931oCix"
       },
@@ -927,10 +1152,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 208873,
       "name": "Nahar",
       "url": "https://open.spotify.com/track/6Mr9RKIgliPnqBUDGeLUOg"
+    },
+    {
+      "album": {
+        "name": "Never Stop",
+        "url": "https://open.spotify.com/album/7q7ywDcSsx8TtcUJ56Irw5"
+      },
+      "artists": [
+        {
+          "name": "Rose Ringed",
+          "url": "https://open.spotify.com/artist/1KML3dPprByep3tRnYSJDj"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443241,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/7tM5oIOzdcgxCS7mY4wqBh"
     },
     {
       "album": {
@@ -963,7 +1206,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 346080,
       "name": "OK",
       "url": "https://open.spotify.com/track/6FaOYioHDoL3Tt1c1Zn9EZ"
@@ -1082,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Unveiled",
+        "url": "https://open.spotify.com/album/3E7fVBNAObpFVkUAzrHkkR"
+      },
+      "artists": [
+        {
+          "name": "Jadele",
+          "url": "https://open.spotify.com/artist/2UkGmTJ7RVPmoyKNtU7oi7"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262291,
+      "name": "Philophobia",
+      "url": "https://open.spotify.com/track/0kEUW8rGtl1WQ2x86T8wVG"
+    },
+    {
+      "album": {
         "name": "Pictureoftheday - Breitenstein Remix",
         "url": "https://open.spotify.com/album/6du7BevPmXnj3oHFwiwD6f"
       },
@@ -1097,7 +1358,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 499354,
       "name": "Pictureoftheday - Breitenstein Remix",
       "url": "https://open.spotify.com/track/7FwnbicTkdRzrzwWc8hkHp"
@@ -1119,7 +1380,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 434516,
       "name": "Pictureoftheday - Marco Faraone Remix",
       "url": "https://open.spotify.com/track/4VxbQKewmC9zm1qYDVx64W"
@@ -1449,7 +1710,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 380307,
       "name": "The 8th Fire",
       "url": "https://open.spotify.com/track/6sNki8IYe6xTErgHgYLI3K"
@@ -1475,6 +1736,24 @@
       "duration_ms": 404400,
       "name": "The Blame - Helsloot Remix",
       "url": "https://open.spotify.com/track/4HiowIhpREOxQ3reSVLQ8n"
+    },
+    {
+      "album": {
+        "name": "The Girl In Black",
+        "url": "https://open.spotify.com/album/1OMSTG2Wn7ZEEA6ljPT5u1"
+      },
+      "artists": [
+        {
+          "name": "Axel N.",
+          "url": "https://open.spotify.com/artist/6ojATIeQIuYkrS2YCiT8sG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430866,
+      "name": "The Girl In Black",
+      "url": "https://open.spotify.com/track/07duf4WF7Djz1OF1zFZlXM"
     },
     {
       "album": {
@@ -1627,7 +1906,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 432000,
       "name": "Up Down Jumper",
       "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
@@ -1674,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Wetterleuchten",
+        "url": "https://open.spotify.com/album/5MhknX4cQ1JJa449x4s3JE"
+      },
+      "artists": [
+        {
+          "name": "Thomas Helmich",
+          "url": "https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190682,
+      "name": "Wetterleuchten - Edit",
+      "url": "https://open.spotify.com/track/4J17SL5qZhXMbbTJYLmwVD"
+    },
+    {
+      "album": {
         "name": "WooW",
         "url": "https://open.spotify.com/album/4a7p2hB9yRUQHpyinOhVeV"
       },
@@ -1689,6 +1986,28 @@
       "duration_ms": 349090,
       "name": "Woow One",
       "url": "https://open.spotify.com/track/2zQJxkF4ikrCpUIVAMDgsu"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6vuHAobWZhR04B3NDRdOPC"
+      },
+      "artists": [
+        {
+          "name": "Fabique",
+          "url": "https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8"
+        },
+        {
+          "name": "Wankelmut",
+          "url": "https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439069,
+      "name": "You - Wankelmut Remix",
+      "url": "https://open.spotify.com/track/1UbJMShJ8K22WX3vW9FVas"
     },
     {
       "album": {
@@ -1721,7 +2040,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 155978,
       "name": "Zeitgeist - Edit",
       "url": "https://open.spotify.com/track/7DAaK0FTmMhFHPdaxaNxew"

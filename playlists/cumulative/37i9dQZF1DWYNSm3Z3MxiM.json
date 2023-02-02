@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-28",
   "description": "Anthems only. For an extra rep, an extra set or an extra mile.",
   "name": "Classic Rock Workout",
-  "published_playlist_ids": [
-    "6DYzN0cP7OPnZuZS99dem5"
-  ],
   "tracks": [
     {
       "album": {
@@ -361,7 +358,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 228666,
       "name": "Brown Sugar - 2009 Remaster",
       "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
@@ -739,7 +736,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 267173,
       "name": "Gimme Three Steps",
       "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
@@ -1755,7 +1752,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -1766,6 +1763,24 @@
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
@@ -1862,7 +1877,7 @@
     },
     {
       "album": {
-        "name": "Don't Say No",
+        "name": "Don't Say No (Remastered 2010)",
         "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
       },
       "artists": [
@@ -1875,7 +1890,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217613,
-      "name": "The Stroke - Remastered",
+      "name": "The Stroke - Remastered 2010",
       "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
     },
     {

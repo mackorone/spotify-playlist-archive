@@ -1,12 +1,12 @@
 {
   "description": "\u53ea\u6709\u6563\u6b65\uff0c\u6211\u5011\u624d\u662f\u771f\u6b63\u804a\u5929\u3002\u908a\u9996\u5ee3\u6771\u6b4c\uff0c\u4ee4\u4f60\u8ad7\u8d77\u540c\u4f60\u6563\u6b65\u5605\u4f62\uff1f",
-  "num_followers": 25382,
+  "num_followers": 25634,
   "original_name": "\u9999\u6e2f\u6563\u6b65",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MzgxMiwwMDAwMDAwMGI2M2ZkZTRjY2I0Mjc5ZjdhOGQ0MDdmYTI3NTc2MmIz",
+  "snapshot_id": "MTY2NzQ5MzgxMiwwMDAwMDAwMGIzZjc2ODM2YjQ4MzdjZjJhNmRkNzFhZDY5ZWJkZWJl",
   "tracks": [
     {
       "added_at": "2022-11-03 16:43:32",
@@ -332,16 +332,20 @@
       "added_at": "2022-11-03 16:43:32",
       "album": {
         "name": "\u67f4\u7063\u89d2\u8857",
-        "url": "https://open.spotify.com/album/666epeXOJkJ4M6hx7DBj9O"
+        "url": "https://open.spotify.com/album/3nGBZjacwEPNPF8Pi3JRBN"
       },
       "artists": [
         {
-          "name": "TomFatKi Billy Choi",
-          "url": "https://open.spotify.com/artist/2QSxO12sc6RrTQSwiDKfrV"
-        },
-        {
           "name": "AKIKO",
           "url": "https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ"
+        },
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        },
+        {
+          "name": "TomFatKi",
+          "url": "https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6"
         },
         {
           "name": "East City",
@@ -350,7 +354,7 @@
       ],
       "duration_ms": 253076,
       "name": "\u67f4\u7063\u89d2\u8857",
-      "url": "https://open.spotify.com/track/7l7wDs93UypiYGOd4tdfs0"
+      "url": "https://open.spotify.com/track/7wbjVdLlfWdEp37cWHFlRw"
     },
     {
       "added_at": "2022-11-03 16:43:32",

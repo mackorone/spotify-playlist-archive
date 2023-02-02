@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
   "name": "Escuta as Minas",
-  "published_playlist_ids": [
-    "58e2gUTzby8sgN6dRSHs42"
-  ],
   "tracks": [
     {
       "album": {
@@ -165,7 +162,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 179987,
       "name": "Acabou",
       "url": "https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir"
@@ -531,7 +528,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-14",
       "duration_ms": 234927,
       "name": "Azul Moderno",
       "url": "https://open.spotify.com/track/01JLpmg9UguUoJS7AmlzqA"
@@ -2607,7 +2604,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 239669,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2OuCkfX39Geg49wLwjsQ9z"
@@ -2896,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Pra Te Lembrar [Trilha da Novela Sete Vidas]",
+        "url": "https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb"
+      },
+      "artists": [
+        {
+          "name": "Luiza Possi",
+          "url": "https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 218706,
+      "name": "Pra Te Lembrar [Trilha da Novela Sete Vidas]",
+      "url": "https://open.spotify.com/track/3OE8rx6lNYxRnjCZ6wMlPs"
+    },
+    {
+      "album": {
         "name": "Pr\u00f3spera",
         "url": "https://open.spotify.com/album/0XWnY5AJPktemtQExVhoTJ"
       },
@@ -3069,7 +3084,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 183933,
       "name": "Quem Vai Quem Vem",
       "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
@@ -3341,6 +3356,24 @@
       "duration_ms": 212401,
       "name": "Sem Mentir",
       "url": "https://open.spotify.com/track/29o3BuxMMGbAxDJ9xsFOoF"
+    },
+    {
+      "album": {
+        "name": "Solo Seduzente",
+        "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
+      },
+      "artists": [
+        {
+          "name": "Dani Russo",
+          "url": "https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125990,
+      "name": "Solo Seduzente",
+      "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
     },
     {
       "album": {

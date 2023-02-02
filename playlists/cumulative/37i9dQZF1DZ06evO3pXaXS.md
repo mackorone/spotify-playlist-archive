@@ -4,7 +4,7 @@
 
 > This is The Police\. The essential tracks, all in one playlist.
 
-47 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/5USS6A89W2jE5wSORwWq7w)
+49 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,10 @@
 | [Landlord](https://open.spotify.com/track/359ZqVnNGDhkQgMPmQ9dvn) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:07 | 2022-09-17 |  |
 | [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:50 | 2022-09-17 |  |
 | [Message In A Bottle \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/4rMfdcnfsWNPlIZCfEQive) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 5:00 | 2022-09-17 |  |
-| [Murder By Numbers](https://open.spotify.com/track/2CFafx1QnpbK4CQVOhzxkT) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:36 | 2022-11-13 | 2022-11-15 |
+| [Murder By Numbers](https://open.spotify.com/track/2CFafx1QnpbK4CQVOhzxkT) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:36 | 2022-11-13 | 2023-01-06 |
 | [Next To You](https://open.spotify.com/track/7HjipY3Vy2HAN11D2juKHT) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 2:51 | 2022-10-06 |  |
 | [On Any Other Day](https://open.spotify.com/track/6rN4PWNTD8AY1mfLslqrQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 2:56 | 2022-09-17 | 2022-11-03 |
+| [Peanuts](https://open.spotify.com/track/7Jsli31ZTv3TI28qcXzEkE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:54 | 2022-12-01 | 2023-01-27 |
 | [Reggatta De Blanc](https://open.spotify.com/track/2EEp2vTGSRDSLHWUF80EZZ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 3:05 | 2022-09-19 |  |
 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 | 2022-09-17 |  |
 | [Secret Journey](https://open.spotify.com/track/1klFQ3R5AN86f0moMUdSYS) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 3:33 | 2022-09-17 |  |
@@ -53,6 +54,7 @@
 | [Voices Inside My Head](https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 3:53 | 2022-10-12 |  |
 | [Voices Inside My Head / When The World Is Running Down You Make the Best Of What's Still Around \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/2UtXxz9XGRn7qvZ275H7aJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 7:04 | 2022-09-17 |  |
 | [Walking On The Moon](https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 5:00 | 2022-09-17 |  |
+| [We Are the Police](https://open.spotify.com/track/1cNHW91XkcPxisLZuDbc0h) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH), [Adam Driver](https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M), [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Annette \(Unlimited Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf) | 1:22 | 2022-12-03 |  |
 | [When The World Is Running Down, You Make The Best Of What's Still Around](https://open.spotify.com/track/2e2P8zydI5GtcaVhTkOYa9) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 3:36 | 2022-09-17 |  |
 | [Wrapped Around Your Finger](https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:13 | 2022-09-17 |  |
 

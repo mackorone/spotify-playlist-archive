@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Esta selecci\u00f3n musical se te har\u00e1 agua la boca.",
   "name": "Manguito Enchilado",
-  "published_playlist_ids": [
-    "4GFgtQ6muqwEA78cKiRjck"
-  ],
   "tracks": [
     {
       "album": {
@@ -517,7 +514,7 @@
       },
       "artists": [
         {
-          "name": "Isaac & Nora",
+          "name": "Isaac et Nora",
           "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
         },
         {
@@ -529,7 +526,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240298,
-      "name": "Hasta la Rai\u0301z",
+      "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     },
     {
@@ -857,10 +854,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 213810,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
     },
     {
       "album": {
@@ -1331,7 +1346,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 222493,
       "name": "Tango",
       "url": "https://open.spotify.com/track/1aGnagYPzdnaSHMLPSPsp9"
@@ -1353,6 +1368,24 @@
       "duration_ms": 222493,
       "name": "Tango",
       "url": "https://open.spotify.com/track/1cTPxRjuv4LE7N3unxy589"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/2AajW3BeWlJeouC1N80zUU"
     },
     {
       "album": {

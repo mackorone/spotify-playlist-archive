@@ -4,7 +4,7 @@
 
 > This is Daddy Lumba\. The essential tracks, all in one playlist.
 
-53 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/4ZgERGnq6QOKTxmLecboD4)
+54 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Nyame Nhyira Mmaa](https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:30 | 2021-12-28 |  |
 | [Obi Ate Meso Buo \- Remix](https://open.spotify.com/track/3uU0P0jAUXXYJnooi4lItE) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Okyeame Kwame](https://open.spotify.com/artist/03PFnT5fu6TcuZMu1ZBvz4), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 9:54 | 2021-12-28 |  |
 | [Odo Nti](https://open.spotify.com/track/0lvAnvn5yMeFS5k8LyhY3A) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Sika Asem](https://open.spotify.com/album/1vmud1QfmKGiCaMooqZps8) | 5:13 | 2021-12-29 |  |
+| [Ofon Na Ɛdi Asɛm Fo](https://open.spotify.com/track/2V82ttwikT8kbMLURYQyvx) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ofon Na Ɛdi Asɛm Fo](https://open.spotify.com/album/6PJLm0zfTufZAUfqMWNHPU) | 5:36 | 2022-12-27 |  |
 | [Ohia Asem](https://open.spotify.com/track/7mChIAlmvRxpLwyAkymGT3) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 6:23 | 2021-12-28 |  |
 | [Onyame Were Mfri Ne Mma](https://open.spotify.com/track/1ATrl7ETZ1BYo6EeOHfTRh) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Poison](https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC) | 4:33 | 2021-12-28 |  |
 | [Osoo Me So Bone](https://open.spotify.com/track/32Ypl201EsHzkEcsxWFzhx) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 5:18 | 2021-12-28 |  |

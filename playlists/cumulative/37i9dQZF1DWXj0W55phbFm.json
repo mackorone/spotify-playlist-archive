@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-20",
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
   "name": "Jazz Trumpet",
-  "published_playlist_ids": [
-    "51VUBPDUeBVmMBu3JyYpOE"
-  ],
   "tracks": [
     {
       "album": {
@@ -405,7 +402,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 179800,
       "name": "Children's Waltz",
       "url": "https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce"
@@ -423,7 +420,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 268506,
       "name": "Comin' Down",
       "url": "https://open.spotify.com/track/60EjvhLsxvgFbkQR6s4Jsx"
@@ -799,7 +796,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2023-01-21",
       "duration_ms": 586680,
       "name": "Have Blues, Will Play'em",
       "url": "https://open.spotify.com/track/3QUjF8gUCYlmzChLcQsDbT"

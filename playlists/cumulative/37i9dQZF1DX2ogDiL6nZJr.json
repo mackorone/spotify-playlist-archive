@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Home is where you park it.",
   "name": "Van Life",
-  "published_playlist_ids": [
-    "1n8FqySwgwOGGatHnOOUda"
-  ],
   "tracks": [
     {
       "album": {
@@ -293,7 +290,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-17",
       "duration_ms": 247226,
       "name": "Arms Of Who",
       "url": "https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG"
@@ -647,7 +644,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 156333,
       "name": "Blue",
       "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
@@ -773,7 +770,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2"
@@ -1411,7 +1408,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/3NLm801woJocONz1NmPJZR"
@@ -1747,7 +1744,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 205245,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh"
@@ -2167,7 +2164,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 200828,
       "name": "I Don't Wanna Lose",
       "url": "https://open.spotify.com/track/2gec0tIWMvB4vhhV09SwQY"
@@ -3243,7 +3240,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 177285,
       "name": "PDLIF",
       "url": "https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h"
@@ -3315,7 +3312,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 152333,
       "name": "Petals",
       "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
@@ -3381,6 +3378,24 @@
     {
       "album": {
         "name": "by design",
+        "url": "https://open.spotify.com/album/2iKnUX26YQtb43UgO0yLBr"
+      },
+      "artists": [
+        {
+          "name": "doppelfinger",
+          "url": "https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 315294,
+      "name": "quite alright",
+      "url": "https://open.spotify.com/track/1LEGkagVxaB3oEjfbhz2a1"
+    },
+    {
+      "album": {
+        "name": "by design",
         "url": "https://open.spotify.com/album/1IluF9fFD0yPzey3C306zL"
       },
       "artists": [
@@ -3435,6 +3450,24 @@
     {
       "album": {
         "name": "ready now",
+        "url": "https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176567,
+      "name": "ready now",
+      "url": "https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd"
+    },
+    {
+      "album": {
+        "name": "ready now",
         "url": "https://open.spotify.com/album/0ZegvEThUFYoa8ZnD12Dn4"
       },
       "artists": [
@@ -3445,7 +3478,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 176567,
       "name": "ready now",
       "url": "https://open.spotify.com/track/6FBe4eVw7wV48G3iijUbmj"
@@ -3650,6 +3683,24 @@
     },
     {
       "album": {
+        "name": "Same Kind of People",
+        "url": "https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz"
+      },
+      "artists": [
+        {
+          "name": "Bukahara",
+          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242546,
+      "name": "Same Kind of People",
+      "url": "https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B"
+    },
+    {
+      "album": {
         "name": "Same Light",
         "url": "https://open.spotify.com/album/6yMKeDhZFq76X3NpxSnLqm"
       },
@@ -3733,7 +3784,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 178999,
       "name": "Serious",
       "url": "https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G"
@@ -4304,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "Tenderfoot",
+        "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
+      },
+      "artists": [
+        {
+          "name": "The Day",
+          "url": "https://open.spotify.com/artist/7tE9qfIbkI2LNvwykjyiDN"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128703,
+      "name": "Tenderfoot",
+      "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
+    },
+    {
+      "album": {
         "name": "The Barrel",
         "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
       },
@@ -4466,6 +4535,24 @@
     },
     {
       "album": {
+        "name": "Bliss Release",
+        "url": "https://open.spotify.com/album/0qly5POWuw9cGEi2gJtu3O"
+      },
+      "artists": [
+        {
+          "name": "Cloud Control",
+          "url": "https://open.spotify.com/artist/5DCtsJfyBEzvZ9qN7jSA6j"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239813,
+      "name": "There's Nothing In The Water We Can't Fight",
+      "url": "https://open.spotify.com/track/3A0rcWDZX9YCYwQmIvhwDl"
+    },
+    {
+      "album": {
         "name": "This Here Island",
         "url": "https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ"
       },
@@ -4553,6 +4640,36 @@
       "duration_ms": 251520,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/2ap5bIL2vtaM1kgq1NO5f1"
+    },
+    {
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296333,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/2NS5hylxl4QNQcD6Vjmtpj"
     },
     {
       "album": {

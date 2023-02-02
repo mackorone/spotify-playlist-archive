@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
   "name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
-  "published_playlist_ids": [
-    "6gtl26s3KlictDYYFa2Et6"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 220733,
       "name": "2080",
       "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
@@ -429,7 +426,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 196250,
       "name": "CANTSAY",
       "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
@@ -480,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Bind",
+        "url": "https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "Claire Hau",
+          "url": "https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 199160,
+      "name": "Chain (Feat. Claire Hau)",
+      "url": "https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7"
+    },
+    {
+      "album": {
         "name": "Dry Flower",
         "url": "https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII"
       },
@@ -521,6 +540,24 @@
       "duration_ms": 276186,
       "name": "Change (feat. sogumm)",
       "url": "https://open.spotify.com/track/5SVyk4OuhHUPg7uCAOB37f"
+    },
+    {
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "album": {
@@ -579,7 +616,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 185169,
       "name": "Chrome Hearts",
       "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
@@ -659,6 +696,28 @@
       "duration_ms": 182120,
       "name": "Come In",
       "url": "https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF"
+    },
+    {
+      "album": {
+        "name": "COMFY",
+        "url": "https://open.spotify.com/album/0F0KPsp7ru8WRgLIgaJO3S"
+      },
+      "artists": [
+        {
+          "name": "SEOA",
+          "url": "https://open.spotify.com/artist/3jsk2LMEav6KI7pFwiU7tF"
+        },
+        {
+          "name": "SZN",
+          "url": "https://open.spotify.com/artist/1MCqb5Gwah45385YUspsn5"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "COMFY",
+      "url": "https://open.spotify.com/track/0PQzmvpqxnDlH82yj7wTh3"
     },
     {
       "album": {
@@ -923,7 +982,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 213282,
       "name": "Down (Feat. DUT2)",
       "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
@@ -1381,7 +1440,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 193882,
       "name": "Get That Money",
       "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
@@ -1507,7 +1566,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 224000,
       "name": "Harujongil",
       "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
@@ -1563,9 +1622,9 @@
           "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
         }
       ],
-      "date_added": "2022-11-23",
+      "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 209433,
       "name": "Hated you",
       "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
@@ -1749,7 +1808,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 210344,
       "name": "I Don\u2019t Disappoint",
       "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
@@ -2497,7 +2556,7 @@
           "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "date_added": "2022-11-23",
+      "date_added": "2022-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153686,
@@ -2841,7 +2900,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 186755,
       "name": "Remained scent",
       "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
@@ -2877,7 +2936,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 163531,
       "name": "Replay",
       "url": "https://open.spotify.com/track/08PZbZWEUQJXjF6n5jyRT0"
@@ -3001,7 +3060,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "Runners",
       "url": "https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn"
@@ -3151,6 +3210,24 @@
       "duration_ms": 185040,
       "name": "Show me up (Prod. TII)",
       "url": "https://open.spotify.com/track/6ldGBHz01zDpodf7f310Rb"
+    },
+    {
+      "album": {
+        "name": "Sinking Islands",
+        "url": "https://open.spotify.com/album/27GBa1Y2Q2KjhBp6CGmQED"
+      },
+      "artists": [
+        {
+          "name": "Sinso",
+          "url": "https://open.spotify.com/artist/5LZPAkFkQB6zDRUlngWDNr"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 200440,
+      "name": "Sinking Islands",
+      "url": "https://open.spotify.com/track/57tIf5v4224Kdzw913Hbk2"
     },
     {
       "album": {
@@ -3339,7 +3416,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2022-12-13",
       "duration_ms": 198000,
       "name": "Sunrise (Feat. EunBii)",
       "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
@@ -3459,6 +3536,28 @@
       "duration_ms": 194645,
       "name": "Te Quiero(feat.BIBI)",
       "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
+    },
+    {
+      "album": {
+        "name": "That's Why I Can't Talk About Love",
+        "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "That's Why I Can't Talk About Love (Feat. Woo)",
+      "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
     },
     {
       "album": {
@@ -3587,6 +3686,28 @@
       "duration_ms": 243492,
       "name": "Turn Off Your Phone (Feat. ELO) - Remix",
       "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+    },
+    {
+      "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206399,
+      "name": "Turn On (Feat. Jiselle)",
+      "url": "https://open.spotify.com/track/0lunvnQTUsz1DzLAaAhmXF"
     },
     {
       "album": {
@@ -3857,6 +3978,28 @@
       "duration_ms": 204000,
       "name": "White Lie (feat. GI$T)",
       "url": "https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70"
+    },
+    {
+      "album": {
+        "name": "White Snow",
+        "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "prettyhappy",
+          "url": "https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184133,
+      "name": "White Snow (feat. prettyhappy)",
+      "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
     },
     {
       "album": {

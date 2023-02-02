@@ -4,7 +4,7 @@
 
 > A roundup of essential tracks from the English <a href="spotify:artist:0gadJ2b9A4SKsB1RFkBb66">singer\-songwriter</a>.
 
-75 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/7B4EFIIVhMuBu3xcjUB9bk)
+75 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

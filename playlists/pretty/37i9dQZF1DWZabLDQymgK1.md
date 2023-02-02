@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 ### [PRIDE: Homoelectric](https://open.spotify.com/playlist/37i9dQZF1DWZabLDQymgK1)
 
-> <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
+> Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,872 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,620 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [White Horse](https://open.spotify.com/track/3FeQweSLSbVkLcPDZuTiGX) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 3:57 |
+| 1 | [White Horse \- 2008 Remaster](https://open.spotify.com/track/6mrxHiqJhSR67wAT71ZYI5) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Keep Smiling \[Remastered\] \(Remastered Version\)](https://open.spotify.com/album/04bsO604edaafFrGyDcaFy) | 3:56 |
 | 2 | [Do You Wanna Funk? \- Remix](https://open.spotify.com/track/1ZFh6AzZETVrTfpRursnmY) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO), [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Greatest Hits](https://open.spotify.com/album/3XKjuTf91qMUQ6f9AhtKK9) | 6:51 |
 | 3 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
 | 4 | [Plaything](https://open.spotify.com/track/3CRuaG93yRRpSkPjTwsjF9) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Plaything / Like](https://open.spotify.com/album/2PYTm1KTUE0pwZcUoW8jm1) | 6:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 49 | [Like a Prayer \(Churchapella\)](https://open.spotify.com/track/4UX7TUsMu6QVPoBdpBEEqB) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like A Prayer](https://open.spotify.com/album/2qmMKmWqpPbsd6dKrZXgSV) | 6:08 |
 | 50 | [Say Hello, Wave Goodbye \- 7" Single Version](https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 5:23 |
 
-Snapshot ID: `MTYyMjY3MDk3NSwwMDAwMDAwMGQ3MjU1YmJjY2ZhNmI0YzRiZjNiMzkwNDYxOWExNzRh`
+Snapshot ID: `MTY3NTIxNTU4NywwMDAwMDAwMDVhMzY5YzM0MzY5OWI2NWMzOWZiNGZhMDE4OGU4ZGVi`

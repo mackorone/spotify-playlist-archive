@@ -4,7 +4,7 @@
 
 > 50 splendid recordings of historically informed performance, which uses both period instruments and performance practice, in order to present music works faithfully, in the style of the era when the piece was originally conceived.
 
-50 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/6tfVhgC9p2aVglkkieyAgB)
+50 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

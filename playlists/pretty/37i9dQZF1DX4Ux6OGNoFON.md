@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,445 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,892 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Arbol Sin Hojas](https://open.spotify.com/track/1B4XhExXA4NswSQPetDuEg) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Vivi En Do](https://open.spotify.com/album/1nqhr6N5KbIaUbsTXq5WCa) | 3:19 |
 | 2 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
-| 3 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
+| 3 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillzbeatz](https://open.spotify.com/artist/09cwFodlXUIGfh0h0O2dH7) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 |
 | 4 | [Tierra de Jaguares](https://open.spotify.com/track/3MRTSZkWkTG4SJi7QNXPmF) | [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Tierra de Jaguares](https://open.spotify.com/album/1f3bD7mMnjIXgNcKbCk9KF) | 3:47 |
 | 5 | [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 |
 | 6 | [El Corazón y La Razón](https://open.spotify.com/track/7ABBtIReI8d993JDVA8cC8) | [Providencia](https://open.spotify.com/artist/5Jfv3Fh8E4Gb8AYLwl4OCv) | [El Corazón y La Razón](https://open.spotify.com/album/2JHGaMEzHHE6f8P6fYUpQn) | 3:08 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 38 | [Sol](https://open.spotify.com/track/5puRHAfjknvAqfgHCpIdo1) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Sol](https://open.spotify.com/album/51EJaWaQVRJXo9ZeQW0G69) | 3:11 |
 | 39 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:41 |
 | 40 | [Estos Días](https://open.spotify.com/track/1sU1f9ivTcNvxSDyygim3G) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Estos Días](https://open.spotify.com/album/56HAfUfBAVGaPSwfaH0QJX) | 3:31 |
-| 41 | [El Tambor](https://open.spotify.com/track/244xfUeyheD5Ibupwjwmd3) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Impulso](https://open.spotify.com/album/3WnFaJJHV6tPbaeDiAZ6dP) | 4:40 |
+| 41 | [El Tambor](https://open.spotify.com/track/2DzEvKYEkhNOymxnvIeXDf) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Impulso Eterno](https://open.spotify.com/album/745taLBsTAJAtYAHGQfaTP) | 4:40 |
 | 42 | [Ready](https://open.spotify.com/track/105s2PTUiEcGtKsL1rl0Fl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ready](https://open.spotify.com/album/6eSOrBQDFoAT27MUPHW5d4) | 2:30 |
 | 43 | [Walk Away](https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Walk Away](https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f) | 3:34 |
 | 44 | [Tranquiliboy](https://open.spotify.com/track/3IyiIBDEQmWP9Y17ueWWMB) | [La Merfi](https://open.spotify.com/artist/5TXJa9XiARe5SWqn8m5J9R) | [Tranquiliboy](https://open.spotify.com/album/6rHuYjxs5Oyu8Dqs0Jtbr7) | 2:46 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 49 | [Suavemente](https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/7qRi1ylJhlb2Kr5Fb6XF4Q) | 4:30 |
 | 50 | [Qué es Vivir \(What is Life\)](https://open.spotify.com/track/0iOv981COUDmcUin4dTmaU) | [Los Guardianes de Gregory](https://open.spotify.com/artist/7yysL6dfPj3b9XHyZWkUWL), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Sonidos de Libertad](https://open.spotify.com/album/7JpJFHhcMt2EjqNXkeMyE4) | 5:56 |
 | 51 | [Despertar](https://open.spotify.com/track/7wf3C5qwgiBiXY3YCaKDgV) | [Luis Alcivar](https://open.spotify.com/artist/69SJJJMUR2h236UcoC6fyF), [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Despertar](https://open.spotify.com/album/6TUe35D9POeGY30j0gv6Uo) | 4:10 |
-| 52 | [Homestudio Session \#6](https://open.spotify.com/track/1TIylLDBqvqiQn2x5CuOSy) | [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR) | [Homestudio Session \#6](https://open.spotify.com/album/1qmW48LkyezRoLuY0BLJF7) | 4:54 |
+| 52 | [Homestudio Session \#6](https://open.spotify.com/track/1FPCxlXeRijGMa6vuu04eK) | [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR) | [Homestudio Session \#6](https://open.spotify.com/album/5M3IROBJ77b2DnQ0vWgokk) | 4:54 |
 | 53 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
 | 54 | [Sube el Humo](https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 4:41 |
 | 55 | [Recuerdos](https://open.spotify.com/track/5NXpReJZXtxr6CuxbhXzmB) | [Mentes Comunes](https://open.spotify.com/artist/2s8ywGGHH5OB5TfhVLwN48) | [Inhala](https://open.spotify.com/album/1PzqYNcfhWRwx4Q7XKIzi1) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 59 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
 | 60 | [Llena Mi Vida](https://open.spotify.com/track/1rSDWwJkMrxCChahQDnkfu) | [Bamboo](https://open.spotify.com/artist/4Mp4FOTjHHQlFJki4p1lpZ), [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Llena Mi Vida](https://open.spotify.com/album/7xlXTMCcCDO7aapw0CRd7G) | 4:25 |
 
-Snapshot ID: `MTY1NjY1MTYwMCwwMDAwMDAwMDA1NDVmNGUwZTFmZDI5ZTY2YWEwOTRhNzU5NzdiNzE5`
+Snapshot ID: `MTY1NjY1MTYwMCwwMDAwMDAwMDUwNzgyNmM5OTE4MzJkYTMzMGMyZDYzYzBjZmMzZjMz`

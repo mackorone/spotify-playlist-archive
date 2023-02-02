@@ -4,7 +4,7 @@
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-100 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/1jY7LJwYF6jzt4YuqIk0Gc)
+102 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Boy With Luv](https://open.spotify.com/track/7GZmO8tmQ1MAskqokLzsFN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:26 | 2022-03-24 |  |
 | [Boy With Luv](https://open.spotify.com/track/3l3j8aCAqBBOhTlxmRH6Pw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Toddler and Children Singalong Vol\. 5](https://open.spotify.com/album/5fAi7hYLR44BJ2MEJutE28) | 3:26 | 2022-03-24 | 2022-11-14 |
 | [Boy With Luv](https://open.spotify.com/track/5qYFV3xGkdKrIWr45QCxoQ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Party Playlist!](https://open.spotify.com/album/1o4U9tfc2fN94WJ4kRrUE9) | 3:26 | 2022-03-24 | 2022-07-29 |
+| [BREAK MY SOUL](https://open.spotify.com/track/3E7YGBqvTKt4eVDXXEWfyM) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 3:34 | 2023-01-20 |  |
 | [Bunny Hop](https://open.spotify.com/track/4ALGayAi9P281f71KCxo7T) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Shake It Up](https://open.spotify.com/album/7kM5MY7QlkOWuwNmG00Pnw) | 2:30 | 2022-03-24 | 2022-07-29 |
 | [Bunny Hop](https://open.spotify.com/track/7K44meuixBWcunotVpdwJf) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Shake It Up](https://open.spotify.com/album/4ebzMDMuPUQx53NkRxzT6J) | 2:30 | 2022-03-24 |  |
 | [Clap Your Hands](https://open.spotify.com/track/663LGTeJco27vlEHFZsy3v) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [150 Preschool Songs](https://open.spotify.com/album/6vh3S6NVQ0pNEt70fj7oAf) | 1:43 | 2022-03-24 |  |
@@ -51,7 +52,8 @@
 | [Happy Tappin' with Elmo](https://open.spotify.com/track/1vabQAO370qU6hTvzDGkQZ) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 1:30 | 2022-03-24 | 2022-07-29 |
 | [Happy Tappin' with Elmo](https://open.spotify.com/track/0wHYxmDb2AVwnDToBP5K6m) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [All\-Time Favorites 2](https://open.spotify.com/album/66yS3ddviSwXuh7oN1w5kN) | 1:29 | 2022-03-24 | 2022-11-13 |
 | [Happy Tappin' with Elmo](https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Elmo's Dance Party](https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1) | 1:30 | 2022-03-24 |  |
-| [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/4izXmYE9U6clkv5uAyVEN7) | [Toddler Tunes](https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW) | [Songs for Kids: Classic Children's Music](https://open.spotify.com/album/1UQoOLZVLfq3Gbkz5Gca7I) | 1:23 | 2022-03-24 |  |
+| [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/4izXmYE9U6clkv5uAyVEN7) | [Toddler Tunes](https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW) | [Songs for Kids: Classic Children's Music](https://open.spotify.com/album/1UQoOLZVLfq3Gbkz5Gca7I) | 1:23 | 2022-03-24 | 2023-01-21 |
+| [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/5FrKs0gJEathso1k99PiO5) | [Toddler Tunes](https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW) | [Songs for Kids: Classic Children's Music](https://open.spotify.com/album/6oqSFrJ6Et7ZOkV7VVjthq) | 1:23 | 2023-01-20 |  |
 | [Hide and Seek](https://open.spotify.com/track/0x8qnlBomm4AaM4U0CYMsK) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Hide and Seek](https://open.spotify.com/album/186DtJ2hwhU7n0zCkc7URN) | 2:40 | 2022-03-24 |  |
 | [I Just Want to Dance](https://open.spotify.com/track/7uGObyP7bodsd9DrJ6LtwK) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Why?](https://open.spotify.com/album/3ZHZfgfkKiLElooB0lhvtY) | 1:08 | 2022-03-24 | 2022-07-29 |
 | [I Just Want to Dance](https://open.spotify.com/track/6pWIvwHHAW8uOclWErysdw) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Why?](https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK) | 1:08 | 2022-03-24 |  |
@@ -102,7 +104,7 @@
 | [The Dino Dance!](https://open.spotify.com/track/3UmbpHb6wSstg3JjcUQwhP) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [The BeatBuds, Vol\. 3](https://open.spotify.com/album/2hHYn4OtrO7CWesvPQJhRf) | 3:34 | 2022-03-24 |  |
 | [The Floor is Lava Song for Kids](https://open.spotify.com/track/5EYSpobhxemmxtmYpDEg33) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Floor is Lava Song for Kids](https://open.spotify.com/album/3kbwCxMvfrfMzmdELRWVTE) | 3:30 | 2022-03-24 |  |
 | [Thingamajig](https://open.spotify.com/track/5sXoGN56c1q4P4fGpk5iY0) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Lishy Lou and Lucky Too!](https://open.spotify.com/album/5eyeNOy5N5QvMa1ppNPdCY) | 3:25 | 2022-03-24 |  |
-| [Trampoline](https://open.spotify.com/track/0Xi9PFaPBwuYsvDfxsqtHO) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Trampoline](https://open.spotify.com/album/6DhhTFBWu2dmkhVFRMrFuW) | 1:22 | 2022-03-24 |  |
+| [Trampoline](https://open.spotify.com/track/0Xi9PFaPBwuYsvDfxsqtHO) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Trampoline](https://open.spotify.com/album/6DhhTFBWu2dmkhVFRMrFuW) | 1:22 | 2022-03-24 |  |
 | [Uptown Funk](https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB) | 3:44 | 2022-03-24 |  |
 | [Uptown Funk](https://open.spotify.com/track/1K7KUJu2LsjfWTxnJVJati) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Party Playlist!](https://open.spotify.com/album/1o4U9tfc2fN94WJ4kRrUE9) | 3:45 | 2022-03-24 | 2022-07-29 |
 | [Uptown Funk](https://open.spotify.com/track/5FywMibvFZieLXVjA254Fl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kids Pizza Party](https://open.spotify.com/album/1JURFzgvvufe07o8XiJOW1) | 3:45 | 2022-03-24 | 2022-11-13 |

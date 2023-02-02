@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-07-29",
   "description": "Instant classics from over the years loaded into one sweet mix.",
   "name": "Acoustic Hits: Oldies but Goodies",
-  "published_playlist_ids": [
-    "2w5UUsH9Gpe9iugGfQgWid"
-  ],
   "tracks": [
     {
       "album": {
@@ -401,7 +398,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-08",
       "duration_ms": 249120,
       "name": "Collide",
       "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
@@ -419,7 +416,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
@@ -531,10 +528,28 @@
       ],
       "date_added": "2020-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-04",
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
+    },
+    {
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "album": {
@@ -575,7 +590,7 @@
       ],
       "date_added": "2020-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
@@ -633,6 +648,24 @@
       "duration_ms": 189880,
       "name": "Harder To Breathe - Acoustic",
       "url": "https://open.spotify.com/track/5Ay81Q9Ms1TxEpW4K2sEdF"
+    },
+    {
+      "album": {
+        "name": "All That We Needed",
+        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
     },
     {
       "album": {
@@ -723,6 +756,24 @@
       "duration_ms": 244333,
       "name": "I Don't Want to Be - Stripped Version",
       "url": "https://open.spotify.com/track/4bgCdwNpbU3sCJ3mupBW8S"
+    },
+    {
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
     },
     {
       "album": {
@@ -831,6 +882,24 @@
       "duration_ms": 249146,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/2jppsxdHlNHz9eK0QyYlTq"
+    },
+    {
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "album": {
@@ -1623,7 +1692,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg"

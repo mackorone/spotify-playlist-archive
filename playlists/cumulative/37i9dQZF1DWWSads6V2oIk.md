@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-71 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/5qGOCPTUCmrfcxabhbrBSK)
+71 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

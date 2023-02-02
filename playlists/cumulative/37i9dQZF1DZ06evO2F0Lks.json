@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
   "name": "This Is Carrie Underwood",
-  "published_playlist_ids": [
-    "0MjXUWD5QKjl4rUAJNZ9Zw"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 212173,
       "name": "All-American Girl",
       "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2022-11-29",
       "duration_ms": 287506,
       "name": "Because He Lives",
       "url": "https://open.spotify.com/track/0IssjoPK88JuZug9zYkwcC"
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-27",
       "duration_ms": 190413,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6vYx683y1hTyS8vCujGANA"
@@ -271,7 +268,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 240266,
       "name": "Don't Forget to Remember Me",
       "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
@@ -462,6 +459,28 @@
     },
     {
       "album": {
+        "name": "Greatest Hits: Decade #1",
+        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 285866,
+      "name": "How Great Thou Art (with Vince Gill) - Live from ACM Presents: Girls' Night Out",
+      "url": "https://open.spotify.com/track/3j7vuSGbBECw6fUNfwmEfQ"
+    },
+    {
+      "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
@@ -491,7 +510,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 257893,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
@@ -591,7 +610,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 66093,
       "name": "Jesus Loves Me - instrumental",
       "url": "https://open.spotify.com/track/2HFuzPcb8cCYE2qEuT2dHu"
@@ -1141,7 +1160,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-02-01",
       "duration_ms": 210040,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/436rdO5fgKVH3HhjA0VyFQ"

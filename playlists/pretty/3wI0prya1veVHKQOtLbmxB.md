@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 > Get ready for Valentine's Day 2023! Love Songs for 2022! Celebrate LOVE with this playlist of classic love songs and discover some new favorites!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 148,503 likes - 80 songs - 5 hr 15 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 148,202 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

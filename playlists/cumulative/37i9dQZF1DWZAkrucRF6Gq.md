@@ -4,7 +4,7 @@
 
 > Celebrated masters of 'French touch', This Is Daft Punk.
 
-55 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/5Q4XqFyVaPJn3LnUD0iAiG)
+55 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

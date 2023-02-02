@@ -4,7 +4,7 @@
 
 > Para encontrar el amor en la pista de baile.
 
-228 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/0WNxaTQR4T5gRWkDMZTQqC)
+228 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

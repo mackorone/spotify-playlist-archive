@@ -4,7 +4,7 @@
 
 > Un viaje musical por nuestras raíces prehispánicas.
 
-31 songs - 1 hr 38 min - [published](https://open.spotify.com/playlist/4QOnv5baycvRj0tvTJSHgZ)
+31 songs - 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

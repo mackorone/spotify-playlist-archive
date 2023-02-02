@@ -2,9 +2,9 @@
 
 ### [Prog Rock Monsters](https://open.spotify.com/playlist/37i9dQZF1DX0uqkwkR49kK)
 
-> A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
+> A collection of insane progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-166 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
+166 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,8 +145,8 @@
 | [The Cinema Show](https://open.spotify.com/track/6ZrMg5HC55GPJxh7YXZ9yf) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound](https://open.spotify.com/album/7xaM3ah9ZO4BjrcFj5vOZe) | 11:06 | 2021-05-05 |  |
 | [The Court Of The Crimson King](https://open.spotify.com/track/1OFjv0Cq2JeK3FPvPG98rJ) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/5wec5BciMpDMzlEFpYeHse) | 10:02 | 2019-07-01 | 2022-07-29 |
 | [The Court Of The Crimson King \- Including "The Return of the Fire Witch" and "The Dance of the Puppets"](https://open.spotify.com/track/05xYoVj6QuFk0U7PVl5Tf2) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 10:02 | 2019-07-01 |  |
-| [The Drapery Falls](https://open.spotify.com/track/1kLXoAje5Z4mlZOAFgZZj3) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Blackwater Park](https://open.spotify.com/album/3CCkWrqhWcKU7qXK3ooEEo) | 10:52 | 2018-09-28 |  |
-| [The Drapery Falls](https://open.spotify.com/track/3OhcMJk4hCebfDH1h4Z8mX) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Blackwater Park](https://open.spotify.com/album/7cMJfxkJwUAcxHCHQMNYYs) | 10:53 | 2018-09-28 | 2022-07-29 |
+| [The Drapery Falls](https://open.spotify.com/track/1kLXoAje5Z4mlZOAFgZZj3) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Blackwater Park](https://open.spotify.com/album/3CCkWrqhWcKU7qXK3ooEEo) | 10:52 | 2018-09-28 | 2022-11-28 |
+| [The Drapery Falls](https://open.spotify.com/track/3OhcMJk4hCebfDH1h4Z8mX) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Blackwater Park](https://open.spotify.com/album/7cMJfxkJwUAcxHCHQMNYYs) | 10:53 | 2018-09-28 |  |
 | [The Drapery Falls](https://open.spotify.com/track/65fBEgmBrB2R8E8OKLdgr8) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Blackwater Park \(20th Anniversary Edition\)](https://open.spotify.com/album/2SJwxSJ0WCaeEiNSDSFXaN) | 10:53 | 2018-09-28 | 2022-11-13 |
 | [The Gates of Delirium \- 2003 Remaster](https://open.spotify.com/track/4Yw37wsXSsz5V61IBS8cYh) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Relayer \(Deluxe Edition\)](https://open.spotify.com/album/6MK9yp7hFeOLeR7F1hsBp6) | 21:49 | 2021-05-05 |  |
 | [The Magician's Birthday](https://open.spotify.com/track/2gNRML8g4tD1Nxh4fgg0BI) | [Uriah Heep](https://open.spotify.com/artist/45O9BwPMyywM755SYUK0sP) | [The Magician's Birthday \(Deluxe Version\)](https://open.spotify.com/album/41ykGsaFwJoVnPhM4S3IJ7) | 10:19 | 2018-09-28 | 2022-07-29 |

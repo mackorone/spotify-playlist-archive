@@ -4,7 +4,7 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-181 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/7s5Dgpk9E3N59KDagZAZrc)
+182 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bandera de los Libres](https://open.spotify.com/track/5IP2mkpT2DxsVV8g6dOb6G) | [Retrovértigo](https://open.spotify.com/artist/3MMhjoyHQi1B8Z7xu27kwF) | [Dias Negros](https://open.spotify.com/album/4XkMn7c1sDvjel4cxvbVdS) | 3:32 | 2020-10-24 | 2022-07-08 |
 | [Blackout](https://open.spotify.com/track/6qZcq9975jZjdKCAfqLkKW) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Fearless](https://open.spotify.com/album/2w8nokxtxKijyLK7V3egt7) | 4:08 | 2020-10-24 | 2022-07-29 |
 | [Blackout](https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Fearless](https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm) | 4:08 | 2020-10-24 |  |
-| [Brutal Existencia](https://open.spotify.com/track/2evFymF2OK3gW1enigpUqD) | [Acutor](https://open.spotify.com/artist/4tHrTzSpJDv756VU0oVnn0) | [Dios Ha Muerto](https://open.spotify.com/album/2FlG7v1XqcqUwXLpXZiwFi) | 4:08 | 2020-10-24 | 2022-09-03 |
+| [Brutal Existencia](https://open.spotify.com/track/2evFymF2OK3gW1enigpUqD) | [Acutor](https://open.spotify.com/artist/4tHrTzSpJDv756VU0oVnn0) | [Dios Ha Muerto](https://open.spotify.com/album/2FlG7v1XqcqUwXLpXZiwFi) | 4:08 | 2020-10-24 | 2022-12-26 |
 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 | 2020-10-24 |  |
 | [Cantina Del Infierno](https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [No Money No Fiesta](https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq) | 2:49 | 2020-10-24 | 2022-07-25 |
 | [Carne Molida](https://open.spotify.com/track/387993G17HB8qj9j5a5cvu) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Fear Itself](https://open.spotify.com/album/19TKYe5VaqGIE8McaUDm44) | 3:40 | 2020-10-24 | 2022-07-29 |
@@ -107,7 +107,7 @@
 | [Inverted Gloaming](https://open.spotify.com/track/1k5ioIagKFk4cRsN7kt8fF) | [Target](https://open.spotify.com/artist/6QJtShEe3N2TDh8PyTfFgo) | [Deep Water Flames](https://open.spotify.com/album/7jumzjqc553LWLSsRwHBwo) | 6:11 | 2020-10-24 | 2022-07-05 |
 | [Jumpdafuckup](https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Primitive \(Special Edition\)](https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l) | 5:11 | 2020-10-24 |  |
 | [Katrala](https://open.spotify.com/track/2fyngtK3VonbbWSkiVp05Y) | [Audiopsicótica](https://open.spotify.com/artist/5GSD7djKSj2fy5Ko7EiWGi) | [Illuminati](https://open.spotify.com/album/02eX7duAVpGFFR6LSzIzwm) | 2:49 | 2020-10-24 | 2022-07-28 |
-| [La Caperuputa y el Lobo Culión](https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y) | [Cuentos de los Hermanos Grind](https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC) | [Los Cantipuercos](https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw) | 3:00 | 2020-10-24 | 2022-07-29 |
+| [La Caperuputa y el Lobo Culión](https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y) | [Cuentos de los Hermanos Grind](https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC) | [Los Cantipuercos](https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw) | 3:00 | 2020-10-24 | 2023-02-02 |
 | [La Cosecha del Miedo](https://open.spotify.com/track/4FzbFXQp5NX51g3mfgc2uD) | [Sol de Sangre](https://open.spotify.com/artist/210X3PzWuivvNasJE9QpR7) | [Sol de Sangre](https://open.spotify.com/album/5frrrCq1naPDUp2iI5wxQm) | 5:49 | 2020-10-24 | 2022-07-13 |
 | [La Culpa Al Viento](https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr) | [Los Antiguos](https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91) | [Madera Prohibida](https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb) | 5:11 | 2020-10-24 |  |
 | [La Densidad](https://open.spotify.com/track/15HeXTM4Jgg2gzZGaZpYId) | [Avernal](https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2) | [La Densidad](https://open.spotify.com/album/3jlRmaVXwV7fB8j58sS0tm) | 5:56 | 2020-10-24 | 2022-07-27 |
@@ -115,8 +115,8 @@
 | [Las Venas Abiertas...](https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy) | [Perpetual Warfare](https://open.spotify.com/artist/3nDZ96c0eP5xULoXG5VKwG) | [Earthliens](https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l) | 4:10 | 2020-10-24 | 2022-07-23 |
 | [Legions of Bastards](https://open.spotify.com/track/5djs09h5VV3M60FkNRR9tK) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [Legions of Bastards](https://open.spotify.com/album/6P1zPmqnsXDg45iEBwysBk) | 3:55 | 2020-10-24 | 2022-07-29 |
 | [Los Rockeros Van al Infierno](https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX) | [Barón Rojo](https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF) | [Grandes Exitos](https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN) | 4:19 | 2020-10-24 |  |
-| [Lowborn Bastard](https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd) | [Eshtadur](https://open.spotify.com/artist/0IdWx63RAlOm5W5iOKPesn), [Richie Brown](https://open.spotify.com/artist/3MzRiq8AdUqLiw2Fa17B7X) | [From the Abyss](https://open.spotify.com/album/1up9xpJ5f7Ke9lx0l3h5IE) | 5:28 | 2020-10-24 |  |
-| [Macho Alfa](https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv) | [Bandera de Niebla](https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L) | [Panel Optico](https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT) | 1:27 | 2020-10-24 |  |
+| [Lowborn Bastard](https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd) | [Eshtadur](https://open.spotify.com/artist/0IdWx63RAlOm5W5iOKPesn), [Richie Brown](https://open.spotify.com/artist/3MzRiq8AdUqLiw2Fa17B7X) | [From the Abyss](https://open.spotify.com/album/1up9xpJ5f7Ke9lx0l3h5IE) | 5:28 | 2020-10-24 | 2022-12-19 |
+| [Macho Alfa](https://open.spotify.com/track/25dYbynikHEdEZBqlfGZpv) | [Bandera de Niebla](https://open.spotify.com/artist/1LBfCW0dn2CH3zMuv6QN7L) | [Panel Optico](https://open.spotify.com/album/2KP2oD1mCpxXhG1dr0KlRT) | 1:27 | 2020-10-24 | 2022-12-04 |
 | [Maldita Historia](https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw) | [De La Tierra](https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1) | [De La Tierra](https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k) | 4:26 | 2020-10-24 |  |
 | [Maldito sea tu nombre](https://open.spotify.com/track/7vEYpLe2jDmZTYg0zdPNoz) | [Ángeles Del Infierno](https://open.spotify.com/artist/2qzYtiwABDEql4L7JpZ59Y) | [Pacto con el diablo](https://open.spotify.com/album/24u0EDg9yMY6AYVPDn9o25) | 3:45 | 2020-10-24 |  |
 | [Mas Abajo del Infierno](https://open.spotify.com/track/0ZuH2VKIftMnzukP08gktc) | [Sol de Sangre](https://open.spotify.com/artist/210X3PzWuivvNasJE9QpR7) | [Sol de Sangre](https://open.spotify.com/album/5frrrCq1naPDUp2iI5wxQm) | 4:37 | 2020-10-24 | 2022-07-27 |
@@ -142,7 +142,7 @@
 | [Perdí Mi Ojo de Venado](https://open.spotify.com/track/16rUuHp2nGkSAG4gMlXshS) | [Rusty Eye](https://open.spotify.com/artist/7K0XgSCkObkxipvNYoBzfT) | [Saca el Cobre](https://open.spotify.com/album/6RG3MdjAsNxsZGlzYv3Ddy) | 4:46 | 2020-10-24 | 2022-07-29 |
 | [Pesadilla](https://open.spotify.com/track/3wwbOhG8PY3L60O7tRNqkS) | [From the Grave](https://open.spotify.com/artist/0GUf6qasLha2FBsPzA4tc9) | [Escotomafobia](https://open.spotify.com/album/7xGttGXsvSn6gNI0jIDeYm) | 5:14 | 2020-10-24 | 2022-06-29 |
 | [Policia](https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Blood\-Rooted](https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG) | 1:47 | 2020-10-24 |  |
-| [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 | 2020-10-24 | 2022-08-14 |
+| [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 | 2020-10-24 |  |
 | [Privación Ilegítima de la Libertad](https://open.spotify.com/track/1KpwCqOkdPfI3iXtqOHtHE) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Privación Ilegítima de la Libertad](https://open.spotify.com/album/3T1bucft30F8GeAa9mlECc) | 4:48 | 2020-10-24 | 2022-07-21 |
 | [Pueblo Motoquero](https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4) | [Tren Loco](https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab) | [Venas De Acero](https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl) | 4:46 | 2020-10-24 |  |
 | [Pueblos erguidos](https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:18 | 2020-10-24 | 2022-10-22 |
@@ -151,7 +151,7 @@
 | [Redentor](https://open.spotify.com/track/1ltowpJ5a3oIuieuCEOgbS) | [En Mi Lugar](https://open.spotify.com/artist/4YKIYGOb8bZDSZhl9WN3jt) | [En Mi Lugar](https://open.spotify.com/album/6cdzwEx6lmbgzwWSrLx3Nu) | 3:07 | 2020-10-24 | 2022-06-16 |
 | [Refuse / Resist](https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 3:19 | 2020-10-24 |  |
 | [Regresión](https://open.spotify.com/track/4tmIaTtJDLBkreZhO3w4o7) | [Introtyl](https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A) | [Creation of Insanity](https://open.spotify.com/album/1zW6qmkDk1DkzkMnYRHn98) | 2:41 | 2020-10-24 | 2022-07-24 |
-| [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 | 2020-10-24 | 2022-11-24 |
+| [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 | 2020-10-24 | 2023-01-11 |
 | [Relación Canina 2.0](https://open.spotify.com/track/6a3u4DQ3I26ICkcEN25EcX) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 2:45 | 2020-10-24 | 2022-07-10 |
 | [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 | 2020-10-24 |  |
 | [Resilent](https://open.spotify.com/track/1ks4oI8rHS6kWwUf4rOmcn) | [Ziran](https://open.spotify.com/artist/4P9XsTV3PLROxMoLp4c0b4) | [Nature of I](https://open.spotify.com/album/1p8YhSYsMpV3C1TDV9p7ro) | 3:40 | 2020-10-24 | 2022-07-21 |
@@ -189,5 +189,6 @@
 | [Victimized](https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH) | [Criminal](https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh) | [Dead Soul](https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS) | 3:00 | 2020-10-24 |  |
 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 | 2020-10-24 |  |
 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 | 2020-10-24 | 2022-07-20 |
+| [Éxodo](https://open.spotify.com/track/2nv6Rz0mTEAL96uyRM114Q) | [Masacre](https://open.spotify.com/artist/6ybTIsR4n37yT6UspaRR7m) | [Muerte Verdadera Muerte](https://open.spotify.com/album/1MFmNLxH0oGUXDx8EwE9nE) | 4:09 | 2020-10-24 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

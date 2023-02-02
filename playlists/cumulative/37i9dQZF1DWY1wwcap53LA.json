@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music making waves. Cover: Shaboozey",
+  "description": "Country music making waves. Cover: Blanco Brown",
   "name": "Country Frequency",
-  "published_playlist_ids": [
-    "2oo6Fd5OoiJz8X71tS41jA"
-  ],
   "tracks": [
     {
       "album": {
@@ -77,6 +74,24 @@
       "duration_ms": 174040,
       "name": "America Is My Hometown",
       "url": "https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK"
+    },
+    {
+      "album": {
+        "name": "Another Round",
+        "url": "https://open.spotify.com/album/1cziB9zkAdtab5TMnmJ8sH"
+      },
+      "artists": [
+        {
+          "name": "Michael Warren",
+          "url": "https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193972,
+      "name": "Another Round",
+      "url": "https://open.spotify.com/track/11VDLa4XbXDIPC6rxbpAy1"
     },
     {
       "album": {
@@ -772,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193271,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
+    },
+    {
+      "album": {
         "name": "Too Much Of A Good Thing",
         "url": "https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll"
       },
@@ -931,6 +964,24 @@
       "duration_ms": 171656,
       "name": "I Like You Better",
       "url": "https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg"
+    },
+    {
+      "album": {
+        "name": "I'll Never",
+        "url": "https://open.spotify.com/album/18EtwJgfmxArCatnS6w49T"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "I'll Never",
+      "url": "https://open.spotify.com/track/2c9WCG3eAxbCUiEbvAVj2z"
     },
     {
       "album": {
@@ -1395,6 +1446,24 @@
       "duration_ms": 160289,
       "name": "Praise The Lord (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U"
+    },
+    {
+      "album": {
+        "name": "Pretty Little Devils",
+        "url": "https://open.spotify.com/album/6laMfCUBqD0g3uVQRUYNBO"
+      },
+      "artists": [
+        {
+          "name": "Reyna Roberts",
+          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179617,
+      "name": "Pretty Little Devils",
+      "url": "https://open.spotify.com/track/6rcQA9q2ZdJeUzZKZU6pUg"
     },
     {
       "album": {

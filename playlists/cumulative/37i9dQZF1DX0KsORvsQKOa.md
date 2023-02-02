@@ -4,7 +4,7 @@
 
 > Claim your space this Pride in Glasgow\. Cover: Joesef
 
-30 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/2mCKlGG8eMCYFDBaSnGdTH)
+30 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

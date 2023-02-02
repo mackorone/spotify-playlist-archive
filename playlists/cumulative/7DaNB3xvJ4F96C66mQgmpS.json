@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The best workout playlist is here. Listen to rap, rock, and electronic bangers from a variety of artists, and discover new favorite tracks to power you through.",
+  "description": "Workout songs to get your blood pumping and confidence activated. Listen here to rap and electronic bangers to power your workout and achieve the best you. ",
   "name": "Workout Bangers",
-  "published_playlist_ids": [
-    "7g7wPnfrY0sMCexNWzHf2K"
-  ],
   "tracks": [
     {
       "album": {
@@ -359,6 +356,24 @@
       "duration_ms": 266840,
       "name": "Don't Tell 'Em",
       "url": "https://open.spotify.com/track/0Dc7J9VPV4eOInoxUiZrsL"
+    },
+    {
+      "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "album": {

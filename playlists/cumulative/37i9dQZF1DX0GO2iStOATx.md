@@ -4,7 +4,7 @@
 
 > Punjabi superstar’s biggest hits.
 
-75 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/1YYq19yeL3exqlU80VrRlo)
+75 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

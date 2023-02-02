@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Americana's artists and hits of tomorrow. Cover: <b>Margo Cilker</b>",
+  "description": "Americana's artists and hits of tomorrow. Cover: Bella White",
   "name": "Emerging Americana",
-  "published_playlist_ids": [
-    "3WdmenyKB3dQaj0flMEbZm"
-  ],
   "tracks": [
     {
       "album": {
@@ -174,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Bad Luck Baby",
+        "url": "https://open.spotify.com/album/07STKss2pug4h3bHaBAESp"
+      },
+      "artists": [
+        {
+          "name": "Boys Club For Girls",
+          "url": "https://open.spotify.com/artist/2kj3opKVY5zkZwEu4u7CXe"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203414,
+      "name": "Bad Luck Baby",
+      "url": "https://open.spotify.com/track/7yUYp0DzDeH2Glemh1iMX5"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -185,10 +200,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/7fiiv8ckvymj3wBDCuFwUf"
+      },
+      "artists": [
+        {
+          "name": "Abby Hamilton",
+          "url": "https://open.spotify.com/artist/4tw4XGFI9wF5zn4zs6WPv2"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159760,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/5ibzXO4BdeWbbXBz71YNbl"
     },
     {
       "album": {
@@ -203,10 +236,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 201193,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
+    },
+    {
+      "album": {
+        "name": "CAZIMI",
+        "url": "https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Rose",
+          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Black Obsidian",
+      "url": "https://open.spotify.com/track/2JilhorMUGw4jgivLFcVHU"
     },
     {
       "album": {
@@ -275,7 +326,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 195043,
       "name": "Chewing on Fire",
       "url": "https://open.spotify.com/track/7rm6fiURucekbrUD8FAv0C"
@@ -351,6 +402,24 @@
       "duration_ms": 235773,
       "name": "Dance Floor",
       "url": "https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8"
+    },
+    {
+      "album": {
+        "name": "Early Morning Rising",
+        "url": "https://open.spotify.com/album/37jSSdk11uBf4rRVcJ6IIt"
+      },
+      "artists": [
+        {
+          "name": "Kassi Valazza",
+          "url": "https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289333,
+      "name": "Early Morning Rising",
+      "url": "https://open.spotify.com/track/5RAumrYJ1PTAbrHVemrgWv"
     },
     {
       "album": {
@@ -632,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Georgia Dreamin'",
+        "url": "https://open.spotify.com/album/1BA9KEdF7nurksYJY1Lc3N"
+      },
+      "artists": [
+        {
+          "name": "Ben Chapman & Co.",
+          "url": "https://open.spotify.com/artist/6caurkAUTAiE68wavYKUN8"
+        },
+        {
+          "name": "Ben Chapman",
+          "url": "https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Georgia Dreamin'",
+      "url": "https://open.spotify.com/track/2N3C3SQ1T7VNoYKOUWKWsT"
+    },
+    {
+      "album": {
         "name": "Get It Right",
         "url": "https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ"
       },
@@ -661,7 +752,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 214747,
       "name": "Get It \u2018Fore It\u2019s Gone",
       "url": "https://open.spotify.com/track/0yEK6lJ4hZw1mx2nIQ5i66"
@@ -823,7 +914,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 197305,
       "name": "Hardlytown",
       "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
@@ -1039,7 +1130,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
@@ -1263,7 +1354,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 224776,
       "name": "Look What You've Done",
       "url": "https://open.spotify.com/track/7K8WgamLyMxpbYInObj2Ps"
@@ -1479,7 +1570,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 240360,
       "name": "Ocean Bed",
       "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
@@ -1617,7 +1708,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 210613,
       "name": "Paducah",
       "url": "https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG"
@@ -1639,6 +1730,24 @@
       "duration_ms": 210613,
       "name": "Paducah",
       "url": "https://open.spotify.com/track/4VmDr13LpbbL1l1rOru8qA"
+    },
+    {
+      "album": {
+        "name": "Different Shade of Blue",
+        "url": "https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo"
+      },
+      "artists": [
+        {
+          "name": "Nate Fredrick",
+          "url": "https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 210613,
+      "name": "Paducah",
+      "url": "https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn"
     },
     {
       "album": {
@@ -1801,6 +1910,24 @@
       "duration_ms": 249560,
       "name": "Shenandoah Shakedown",
       "url": "https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR"
+    },
+    {
+      "album": {
+        "name": "Shortcut To Waco",
+        "url": "https://open.spotify.com/album/6epdq42NeRtfPormW8twzR"
+      },
+      "artists": [
+        {
+          "name": "Nate Fredrick",
+          "url": "https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Shortcut to Waco",
+      "url": "https://open.spotify.com/track/5AwOZ4pd4OZmI5zrszXs7G"
     },
     {
       "album": {
@@ -2017,7 +2144,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 225579,
       "name": "Tanglin",
       "url": "https://open.spotify.com/track/1qqlDHmFTlh9ePezTHYROy"
@@ -2053,7 +2180,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 205546,
       "name": "Texas Moon",
       "url": "https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO"
@@ -2078,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "The Fair and Dark Haired Lad",
+        "url": "https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH"
+      },
+      "artists": [
+        {
+          "name": "Jaimee Harris",
+          "url": "https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226509,
+      "name": "The Fair and Dark Haired Lad",
+      "url": "https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja"
+    },
+    {
+      "album": {
         "name": "Ten Thousand Roses",
         "url": "https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45"
       },
@@ -2093,6 +2238,24 @@
       "duration_ms": 187293,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx"
+    },
+    {
+      "album": {
+        "name": "Rhododendron",
+        "url": "https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250694,
+      "name": "The Way I Oughta Go",
+      "url": "https://open.spotify.com/track/05Cag2o2f2h3R3WGyArxUV"
     },
     {
       "album": {
@@ -2223,6 +2386,24 @@
       "duration_ms": 217786,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/3gKAMlneLCgY1UJN4L8OcO"
+    },
+    {
+      "album": {
+        "name": "Tried & True",
+        "url": "https://open.spotify.com/album/5JyIDBaqTLT1PEc8LeE5iG"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "Tried & True",
+      "url": "https://open.spotify.com/track/2dXnwoP5yJvpVbn6u8UymM"
     },
     {
       "album": {

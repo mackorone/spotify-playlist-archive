@@ -4,7 +4,7 @@
 
 > ملتقي أصوات النساء العربيات! الغلاف: سميرة سعيد
 
-192 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/4sPCQKTRNsZk6fb72kPu7x)
+192 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

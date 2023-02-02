@@ -2,10 +2,61 @@
   "date_first_scraped": "2022-06-10",
   "description": "Enjoy music & episodes from \"The Quintessential Quintuplets\"! / \u304b\u308f\u3044\u3055500%\u306e\u4e94\u3064\u5b50\u30e9\u30d6\u30b3\u30e1\uff01\u30a2\u30cb\u30e1\u300e\u4e94\u7b49\u5206\u306e\u82b1\u5ac1\u300f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9N,K/Q\u3000\u00a9N,K/Q2\u3000\u00a9N,K/GM",
   "name": "The Quintessential Quintuplets -\u4e94\u7b49\u5206\u306e\u82b1\u5ac1-",
-  "published_playlist_ids": [
-    "62tGCSpgpxlmk3AbALLneu"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1855555,
+      "name": "#1 \u6620\u753b\u3010\u4e94\u7b49\u5206\u306e\u82b1\u5ac1\u3011\u4f0a\u85e4\u7f8e\u6765\u00d7\u4f50\u5009\u7dbe\u97f3\u300c\u30bc\u30df\u4e2d\u306b\u6c7a\u307e\u308a\u307e\u3057\u305f\uff01\uff06\u4e09\u7396\u304c\u826f\u304b\u3063\u305f\uff5e\uff01\u300d",
+      "url": "https://open.spotify.com/episode/1QfvyFbq5faE2XjYhFG0pS"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2191647,
+      "name": "#2 \u6620\u753b\u3010\u4e94\u7b49\u5206\u306e\u82b1\u5ac1\u3011\u4f0a\u85e4\u7f8e\u6765\u00d7\u4f50\u5009\u7dbe\u97f3\u00d7\u6c34\u702c\u3044\u306e\u308a\u300c\u98a8\u592a\u90ce\u306e\u3053\u3068\u3069\u3046\u601d\u3046\uff1f\u300d",
+      "url": "https://open.spotify.com/episode/4sHJHzVquyDqL48I92TKxi"
+    },
+    {
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1998706,
+      "name": "#3 \u6620\u753b\u3010\u4e94\u7b49\u5206\u306e\u82b1\u5ac1\u3011\u677e\u5ca1\u798e\u4e1e\u00d7\u7af9\u9054\u5f69\u5948\u300c\u30cb\u4e43\u306e\u30b0\u30a4\u30b0\u30a4\u611f\u306f\u771f\u4f3c\u3067\u304d\u306a\u3044\uff01\u300d",
+      "url": "https://open.spotify.com/episode/4kMtuvHWDpKCEZU5im9Jeh"
+    },
     {
       "album": {
         "name": "\"Gotoubun no Hanayome\" Character Song Mini Album",

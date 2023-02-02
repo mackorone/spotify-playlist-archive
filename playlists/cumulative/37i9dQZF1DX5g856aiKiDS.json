@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
   "name": "Dalkom Cafe",
-  "published_playlist_ids": [
-    "3lwK9QgbybtcQdnp8W1GCQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -132,6 +129,36 @@
     },
     {
       "album": {
+        "name": "After Love",
+        "url": "https://open.spotify.com/album/4vAmITEtZcLh6BoB4THvcz"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        },
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "After Love (feat. Han Yo Han)",
+      "url": "https://open.spotify.com/track/6Abz3v8mRTS9NJlyzLQIID"
+    },
+    {
+      "album": {
         "name": "AFTER THE LIGHT",
         "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
       },
@@ -147,6 +174,28 @@
       "duration_ms": 194453,
       "name": "AFTER THE LIGHT",
       "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+    },
+    {
+      "album": {
+        "name": "Again & Again",
+        "url": "https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf"
+        },
+        {
+          "name": "KOYO",
+          "url": "https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 172500,
+      "name": "Again & Again (Feat. KOYO)",
+      "url": "https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5"
     },
     {
       "album": {
@@ -365,7 +414,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 218813,
       "name": "Being left (Feat. Dvwn)",
       "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
@@ -453,6 +502,24 @@
       "duration_ms": 147080,
       "name": "Butterfly Effect (Feat. nobody likes you pat, Emily Brophy)",
       "url": "https://open.spotify.com/track/5pYfDCKYjiWHJcIZIiCcDP"
+    },
+    {
+      "album": {
+        "name": "Honey jar No.01",
+        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
+      },
+      "artists": [
+        {
+          "name": "HolyBear",
+          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219205,
+      "name": "Butterfly on my mind",
+      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
     },
     {
       "album": {
@@ -856,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Dear My Winter",
+        "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 200933,
+      "name": "Dear My Winter",
+      "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
+    },
+    {
+      "album": {
         "name": "Dear. My Side",
         "url": "https://open.spotify.com/album/5298Ty693jV61VMRPalvsZ"
       },
@@ -980,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/7cFVNdjx9pLLD2s6FfQCc5"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/4qXqEpcMnp74cCHrVW9rRJ"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195206,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0ezXTASjQ1CZlqOKeH75r9"
+    },
+    {
+      "album": {
         "name": "ENFP",
         "url": "https://open.spotify.com/album/6TsRbPXJiI1yvAqPXBP1Me"
       },
@@ -1013,7 +1120,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 133354,
       "name": "Entropy (Prod. SOQI)",
       "url": "https://open.spotify.com/track/04TEXthr8fFeoCIfYTHxWd"
@@ -1096,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "Film (Feat. Woshi)",
+        "url": "https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU"
+      },
+      "artists": [
+        {
+          "name": "JOPH",
+          "url": "https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D"
+        },
+        {
+          "name": "Woshi",
+          "url": "https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Film (Feat. Woshi)",
+      "url": "https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY"
+    },
+    {
+      "album": {
         "name": "FINE",
         "url": "https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks"
       },
@@ -1129,6 +1258,24 @@
       "duration_ms": 212713,
       "name": "First Time",
       "url": "https://open.spotify.com/track/6cE3BMT0MTw9M1GCm5gBxX"
+    },
+    {
+      "album": {
+        "name": "Fling",
+        "url": "https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ"
+      },
+      "artists": [
+        {
+          "name": "DIVE",
+          "url": "https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 174841,
+      "name": "Fling",
+      "url": "https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO"
     },
     {
       "album": {
@@ -1326,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "good1ife",
+        "url": "https://open.spotify.com/album/5ApJByz6OpJdSKw8mSMlyi"
+      },
+      "artists": [
+        {
+          "name": "J'Kyun",
+          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
+        },
+        {
+          "name": "Marco",
+          "url": "https://open.spotify.com/artist/2ICc0GizInje0MEB4tSJCh"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "good1ife",
+      "url": "https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F"
+    },
+    {
+      "album": {
         "name": "LUV SIGN",
         "url": "https://open.spotify.com/album/70i48Nmz9CvSHcBLZDuEj6"
       },
@@ -1485,7 +1654,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-11",
       "duration_ms": 324280,
       "name": "Hi spring Bye",
       "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
@@ -2091,7 +2260,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": "2023-02-01",
       "duration_ms": 172013,
       "name": "Lights",
       "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
@@ -2125,6 +2294,24 @@
       "duration_ms": 192293,
       "name": "Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)",
       "url": "https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq"
+    },
+    {
+      "album": {
+        "name": "Like a fool",
+        "url": "https://open.spotify.com/album/3bTpSiBLxdKPOVL2nLzxTB"
+      },
+      "artists": [
+        {
+          "name": "DIVE",
+          "url": "https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 135490,
+      "name": "Like a fool",
+      "url": "https://open.spotify.com/track/7scIHHQy2jHsPgZpOkJ0iz"
     },
     {
       "album": {
@@ -2311,6 +2498,28 @@
       "duration_ms": 220040,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+    },
+    {
+      "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/1GwDKLnH82W2m2BBWf3gbS"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 194000,
+      "name": "Love Yourself (feat. Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/5B0Ki3CZf0mzoN0lLWPcnF"
     },
     {
       "album": {
@@ -2608,6 +2817,46 @@
     },
     {
       "album": {
+        "name": "Need to talk",
+        "url": "https://open.spotify.com/album/64ZlQqiSye3Y7DhOhkk8h7"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 195400,
+      "name": "Need to talk",
+      "url": "https://open.spotify.com/track/112eRBGEwDCtNA4KiDAbkW"
+    },
+    {
+      "album": {
+        "name": "NOI MAS",
+        "url": "https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 216601,
+      "name": "Never Leave Me (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI"
+    },
+    {
+      "album": {
         "name": "sunset blvd.",
         "url": "https://open.spotify.com/album/0n21696TLr3afBcKu4YMmZ"
       },
@@ -2707,7 +2956,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 253040,
       "name": "Not Beautiful (feat. Kenessi)",
       "url": "https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5"
@@ -2872,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Origin of Love",
+        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
+      },
+      "artists": [
+        {
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 232226,
+      "name": "Origin of Love",
+      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
+    },
+    {
+      "album": {
         "name": "Our Blue (Back to You X CHEEZE)",
         "url": "https://open.spotify.com/album/4hwJcvG7UGtS9QyLrRnlo9"
       },
@@ -2923,7 +3190,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2023-01-24",
       "duration_ms": 188196,
       "name": "Paint",
       "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
@@ -3046,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Pieces (2022)",
+        "url": "https://open.spotify.com/album/2EzLW1HfD6pXwngmIcE34P"
+      },
+      "artists": [
+        {
+          "name": "EB",
+          "url": "https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 170400,
+      "name": "Pieces (2022)",
+      "url": "https://open.spotify.com/track/7FBb9OkuS4JrQN4Hnf3i2z"
+    },
+    {
+      "album": {
         "name": "Do monsters love too?",
         "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
       },
@@ -3122,6 +3407,28 @@
     },
     {
       "album": {
+        "name": "puppy",
+        "url": "https://open.spotify.com/album/1ta0RWlla7D6bdOB1gzuaW"
+      },
+      "artists": [
+        {
+          "name": "YELLA",
+          "url": "https://open.spotify.com/artist/3mY5lOpRpnHu90zikCYuCw"
+        },
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "puppy (Feat. Kim Mi Jeong)",
+      "url": "https://open.spotify.com/track/2wUyNcMWvetpaoEP72tbwq"
+    },
+    {
+      "album": {
         "name": "Paint Laurent",
         "url": "https://open.spotify.com/album/5gZU4yZSFvgWQgDVjHn0DR"
       },
@@ -3173,7 +3480,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 243785,
       "name": "Rain Song (Feat. Colde)",
       "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
@@ -3195,6 +3502,32 @@
       "duration_ms": 213146,
       "name": "Red Muhly",
       "url": "https://open.spotify.com/track/6eW9BHXYB5hgosR6zQ4WxB"
+    },
+    {
+      "album": {
+        "name": "Refresh (feat. Gist & Kid Wine)",
+        "url": "https://open.spotify.com/album/0Nt3sn3MrZhQb3hfR3xEvL"
+      },
+      "artists": [
+        {
+          "name": "LOTI",
+          "url": "https://open.spotify.com/artist/5HlwsKjYi0iygvWg19itif"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 209346,
+      "name": "Refresh (feat. Gist & Kid Wine)",
+      "url": "https://open.spotify.com/track/30SwX34WgPlXKkqnJHrhlG"
     },
     {
       "album": {
@@ -3311,7 +3644,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 257453,
       "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
@@ -3697,7 +4030,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 204120,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
@@ -3891,7 +4224,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
@@ -4067,6 +4400,24 @@
       "duration_ms": 173973,
       "name": "To",
       "url": "https://open.spotify.com/track/1U4iZNR4mFlT4J7rfV85kq"
+    },
+    {
+      "album": {
+        "name": "To be honest",
+        "url": "https://open.spotify.com/album/5pFXN6DU3OjKKo7Jt1sb74"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190967,
+      "name": "To be honest",
+      "url": "https://open.spotify.com/track/0lxBdQxyYdd0uSDbo5RaXw"
     },
     {
       "album": {
@@ -4456,6 +4807,24 @@
     },
     {
       "album": {
+        "name": "wintersleep",
+        "url": "https://open.spotify.com/album/4C5gO2JIA6lAPuutccSApg"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 180061,
+      "name": "white",
+      "url": "https://open.spotify.com/track/0wxpTeDCewMoDP7dOajNOZ"
+    },
+    {
+      "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/360d8HtgYF6H5zB7RHmQH7"
       },
@@ -4511,10 +4880,28 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 217510,
       "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
       "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
+    },
+    {
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "With me",
+      "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
     },
     {
       "album": {
@@ -4745,6 +5132,28 @@
       "duration_ms": 184559,
       "name": "\ubcc4\ube5b \uc544\ub798",
       "url": "https://open.spotify.com/track/0YFpJGYO95aDyKhHCm45Ya"
+    },
+    {
+      "album": {
+        "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
+        "url": "https://open.spotify.com/album/7KaZMfVhEdgjlzPU1QAA2o"
+      },
+      "artists": [
+        {
+          "name": "ASEL",
+          "url": "https://open.spotify.com/artist/35mgVM69GpN4vwEE7IRJgy"
+        },
+        {
+          "name": "\uc5d0\uc774\ubbfc",
+          "url": "https://open.spotify.com/artist/55hcIGRJnU3BQkPNM6IPGD"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 195749,
+      "name": "\uc18c\uc911\ud55c \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/1jcnHo7FYiDhIVU8zXOI4Z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1960s.
 
-209 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/5ZoqYR2lavGnY9ro4aXkn7)
+209 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

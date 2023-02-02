@@ -4,7 +4,7 @@
 
 > Watch your screen as you listen to see lyrics, fun facts, and artist stories from Genius! \(on mobile only\)
 
-50 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/4BTJFx0jcFzWS0MANGhmoD)
+50 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 
 
-171 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/4hCSnoct0qgbc2W4GKc86U)
+172 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Pure Sunlight](https://open.spotify.com/track/2Us6KRlU0rKOErrK8eP1Iy) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq), [AgNO3](https://open.spotify.com/artist/53gxSdNXsdY242TiIurZdK), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Monstercat 018 \- Frontier](https://open.spotify.com/album/1JBeMsgFZDO33RMv3GI7kH) | 5:37 | 2016-09-07 |  |
 | [push pull](https://open.spotify.com/track/223pTIXzqcuxzQyAtz5kyo) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [push pull](https://open.spotify.com/album/4towtAU3ilQhDVA5Ink2KN) | 3:27 | 2016-04-24 |  |
 | [Rain](https://open.spotify.com/track/0s1fGoO2oqucxCV41gpvox) | [Blackmill](https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY) | [Fortune Soul](https://open.spotify.com/album/1bM4fvw3uuhycyKcjEDmKF) | 5:58 | 2016-01-15 |  |
+| [Randomize](https://open.spotify.com/track/7cwpTKx0NeTPacBVrpNumb) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Randomize](https://open.spotify.com/album/4MJNd4qc5u7iIQzCJdhosQ) | 4:29 | 2022-12-06 |  |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2020-09-03 |  |
 | [Rift \(feat\. Jenn Lucas\) \- Original Mix](https://open.spotify.com/track/1ymXHDLvymVquErXfKfl2B) | [Singularity](https://open.spotify.com/artist/3CHdEhu3z3OYck1hZNusWz), [Jenn Lucas](https://open.spotify.com/artist/2aXb0kXmNfKMTgLcIrgxHw) | [Rift EP](https://open.spotify.com/album/0oUaF0znpsJQQzJiUZfwcw) | 5:42 | 2016-10-01 |  |
 | [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Roses](https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC) | 3:46 | 2016-03-10 |  |

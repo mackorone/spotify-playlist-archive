@@ -4,7 +4,7 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-109 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/6WULSQ3fhigV44qwMbRlO1)
+110 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,27 +95,28 @@
 | [Remembranzas](https://open.spotify.com/track/6h4mOqdnuu7mnAaHFlWrNR) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 | 2022-02-04 | 2022-08-30 |
 | [Río Mantaro](https://open.spotify.com/track/3IOnWo0h8Vl0VrQKhOQmLj) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:57 | 2022-02-04 |  |
 | [Serenata Condemayta](https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:53 | 2022-02-04 |  |
-| [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 | 2022-02-04 | 2022-11-13 |
+| [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 | 2022-02-04 |  |
 | [Sirwana](https://open.spotify.com/track/4DAavl2OUBU180DLfSeY5r) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0CK8pR74Lrzmh0NIOTy5Dh) | 3:59 | 2022-02-04 | 2022-07-29 |
-| [Sirwana](https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 3:59 | 2022-02-04 | 2022-11-13 |
+| [Sirwana](https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 3:59 | 2022-02-04 | 2023-01-03 |
 | [Siwarquinticha](https://open.spotify.com/track/6rqSrUpqSCth4jrz7FJ3zr) | [Porfirio Ayvar](https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx) | [Mensajes Andinos](https://open.spotify.com/album/3JgzRlcbxu5l5I9VtcwzNH) | 3:40 | 2022-02-04 | 2022-07-29 |
 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 | 2022-02-04 |  |
 | [Soy Provinciano](https://open.spotify.com/track/48gJ019YstMfy2k6tp9Sja) | [Pumita Cazador](https://open.spotify.com/artist/4HBWFmmZe0Ll2tTkvsn1Mb) | [El Nuevo Líder del Requinto](https://open.spotify.com/album/48PIu89fj0h9ME5JtGmCoB) | 6:22 | 2022-02-04 | 2022-07-27 |
 | [Terco corazón](https://open.spotify.com/track/65VRWF91A0eL7HX1VaYUwM) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 3:41 | 2022-02-04 |  |
 | [Tomando Cerveza](https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 3:00 | 2022-02-04 |  |
-| [Triste Enamorado](https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK) | [El Comunero de Los Andes](https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:39 | 2022-02-04 |  |
+| [Triste Enamorado](https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK) | [El Comunero de Los Andes](https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:39 | 2022-02-04 | 2022-12-20 |
 | [Tu Me Pides Que Te Olvide](https://open.spotify.com/track/2H19r12AYTfmJ4TBlXXWRE) | [Max Castro](https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr) | [Max Castro y la Gran Banda](https://open.spotify.com/album/3AKPMqREYYrNpkqXC5t8Tv) | 5:30 | 2022-02-04 |  |
-| [Tu Recuerdo](https://open.spotify.com/track/0zyojpH4GWVShFTsOMMLJt) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/1xHFN4KS4cJVXRsLKxICgM) | 4:24 | 2022-02-04 | 2022-11-14 |
+| [Tu Recuerdo](https://open.spotify.com/track/0zyojpH4GWVShFTsOMMLJt) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/1xHFN4KS4cJVXRsLKxICgM) | 4:24 | 2022-02-04 |  |
 | [Tu recuerdo](https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N) | 4:24 | 2022-02-04 | 2022-07-29 |
-| [Tu Recuerdo](https://open.spotify.com/track/1xF8kpo2MmbMT7cEBWGUMB) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Ocobambamantapacha](https://open.spotify.com/album/1nKYkopIMUO1ElmDHY7eaK) | 4:26 | 2022-02-04 |  |
+| [Tu Recuerdo](https://open.spotify.com/track/1xF8kpo2MmbMT7cEBWGUMB) | [Los Hermanos Curi](https://open.spotify.com/artist/6IevV2x2hafFJUf9xU6y78) | [Ocobambamantapacha](https://open.spotify.com/album/1nKYkopIMUO1ElmDHY7eaK) | 4:26 | 2022-02-04 | 2023-01-28 |
 | [Un Pasajero en Tú Camino](https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8) | [La Nueva Expresión del Folklore de Bolivia](https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU) | 4:00 | 2022-02-04 | 2022-07-25 |
 | [Urpay Linda Cuculí](https://open.spotify.com/track/5RF8MoKhDHsNyRIyg1cmlo) | [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX) | [el Cofre del Recuerdo](https://open.spotify.com/album/6z0ILslVFO1nSjLijU2xhQ) | 2:45 | 2022-02-04 | 2022-07-09 |
 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 | 2022-02-04 |  |
 | [Vas a Llorar](https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W) | [Flor Sinqueña](https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 | 2022-02-04 |  |
 | [Vaso de Cristal](https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf) | [Amanda Portales](https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51) | [Amanda Portales la Novia del Perú](https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn) | 3:37 | 2022-02-04 |  |
 | [Vida Ya No es Vida](https://open.spotify.com/track/4CpOzN60AZOKsufiLpNfhY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Vida Ya No es Vida](https://open.spotify.com/album/3bYxZ5jLjyWrPcThIpCOZg) | 4:43 | 2022-02-04 |  |
-| [Vienes y Te Vas](https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1FNmNqN8zEi4TOuhQ4pxkK) | 4:47 | 2022-02-04 |  |
+| [Vienes y Te Vas](https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1FNmNqN8zEi4TOuhQ4pxkK) | 4:47 | 2022-02-04 | 2022-12-31 |
 | [Vienes y Te Vas](https://open.spotify.com/track/65UbyGpH5tP9AkmZAXV8aB) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1Neoq9Qlrcv0pHVWZTmDky) | 4:47 | 2022-02-04 | 2022-07-29 |
+| [Vienes y Te Vas](https://open.spotify.com/track/6tp6NTptAjAdiayBTJnRbR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/0y0l5FMyFAuMDhhhnnXxW7) | 4:47 | 2022-02-04 |  |
 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 | 2022-02-04 |  |
 
 \*This playlist was first scraped on 2022-06-08. Prior content cannot be recovered.

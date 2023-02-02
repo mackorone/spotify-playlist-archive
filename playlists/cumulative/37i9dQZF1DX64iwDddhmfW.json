@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-04",
   "description": "Doorbells and sleigh bells and schnitzel with noodles",
   "name": "snow globe",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -213,6 +212,24 @@
       "duration_ms": 293026,
       "name": "Back To December",
       "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
+    },
+    {
+      "album": {
+        "name": "Boyfriends",
+        "url": "https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh"
+      },
+      "artists": [
+        {
+          "name": "Wilson Phillips",
+          "url": "https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-11",
+      "duration_ms": 174915,
+      "name": "Boyfriends",
+      "url": "https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS"
     },
     {
       "album": {
@@ -944,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140560,
+      "name": "Pennies From Heaven - Remastered",
+      "url": "https://open.spotify.com/track/4YFczV2yFMNhIuRFiGVdtZ"
+    },
+    {
+      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -1027,10 +1062,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
     },
     {
       "album": {

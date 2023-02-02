@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Con mucho coraz\u00f3n \ud83d\udc98",
   "name": "tqm",
-  "published_playlist_ids": [
-    "0aaLX15Eigcd4crhSdFB90"
-  ],
   "tracks": [
     {
       "album": {
@@ -524,6 +521,24 @@
     },
     {
       "album": {
+        "name": "ENERO",
+        "url": "https://open.spotify.com/album/65VDilXxBlKu1DZE94rYsx"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189200,
+      "name": "ENERO",
+      "url": "https://open.spotify.com/track/6bhGPHYdiNKUTSl7ASxJ67"
+    },
+    {
+      "album": {
         "name": "Espina De Rosa - Spotify Singles",
         "url": "https://open.spotify.com/album/7Hr9xc5g0bm0POgzqC1YHc"
       },
@@ -535,7 +550,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 124687,
       "name": "Espina De Rosa - Spotify Singles",
       "url": "https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat"
@@ -597,7 +612,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 202478,
       "name": "Garabatos (with Jay Wheeler)",
       "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
@@ -864,6 +879,24 @@
     },
     {
       "album": {
+        "name": "No S\u00e9 Querer",
+        "url": "https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205082,
+      "name": "No S\u00e9 Querer",
+      "url": "https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2"
+    },
+    {
+      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
@@ -981,6 +1014,28 @@
       "duration_ms": 173098,
       "name": "Poco - Versi\u00f3n Pop",
       "url": "https://open.spotify.com/track/4DAWpeE7iV2vJ6dL4SVPCo"
+    },
+    {
+      "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "album": {
@@ -1281,7 +1336,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 173310,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4"

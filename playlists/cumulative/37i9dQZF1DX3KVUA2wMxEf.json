@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "Vibras rastafari para poner en sinton\u00eda el coraz\u00f3n.",
   "name": "Reggae Luv",
-  "published_playlist_ids": [
-    "20tmJ1BJdJTTUlBOfl3Mrz"
-  ],
   "tracks": [
     {
       "album": {
@@ -331,6 +328,24 @@
       "duration_ms": 304973,
       "name": "De Antes",
       "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
+    },
+    {
+      "album": {
+        "name": "Los Due\u00f1os De La Playa",
+        "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169832,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu"
     },
     {
       "album": {
@@ -1257,7 +1272,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 270525,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/0GkL8obM6sRO530f7Ky6Dc"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-09",
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
   "name": "Island Anthems",
-  "published_playlist_ids": [
-    "2XKOagCBnk79SrhGVVglPo"
-  ],
   "tracks": [
     {
       "album": {
@@ -415,7 +412,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 206261,
       "name": "Bad (feat. Aitch)",
       "url": "https://open.spotify.com/track/4HTKztrMHpvn2sAl4HcK3J"
@@ -873,7 +870,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 182612,
       "name": "Crystallise",
       "url": "https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS"
@@ -1132,6 +1129,36 @@
     },
     {
       "album": {
+        "name": "Escape (Remixes)",
+        "url": "https://open.spotify.com/album/696LM3H0xsPyx0PrFEPEUo"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 240445,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6t8oosZU0hFD847n53vinc"
+    },
+    {
+      "album": {
         "name": "Escape (feat. Hayla)",
         "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
       },
@@ -1155,10 +1182,40 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
+      "album": {
+        "name": "Escape (feat. Hayla)",
+        "url": "https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH"
     },
     {
       "album": {
@@ -1273,7 +1330,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 216480,
       "name": "Feel About You - Edit",
       "url": "https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul"
@@ -1291,7 +1348,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 147987,
       "name": "Feels",
       "url": "https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64"
@@ -1841,7 +1898,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 203751,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0"
@@ -2827,7 +2884,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158095,
-      "name": "Love Tonight - David Guetta Remix Edit",
+      "name": "Love Tonight (David Guetta Remix Edit)",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
     },
     {
@@ -2843,7 +2900,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 184226,
       "name": "Love With You",
       "url": "https://open.spotify.com/track/6j5KqspWky4FruOBCowDRe"
@@ -2985,7 +3042,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 142677,
       "name": "Monday Kind of Tuesday",
       "url": "https://open.spotify.com/track/6V8UEh7aSmuh1qxe1HnNnE"
@@ -3189,7 +3246,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 164661,
       "name": "My Purple iPod Nano (2nd Gen)",
       "url": "https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp"
@@ -3273,7 +3330,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 212812,
       "name": "Never The Same",
       "url": "https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB"
@@ -3419,7 +3476,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-25",
       "duration_ms": 186964,
       "name": "Out The Door",
       "url": "https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK"
@@ -4659,7 +4716,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 187814,
       "name": "Want You To Want Me",
       "url": "https://open.spotify.com/track/5cBHDVijSYGOpgnSx7rBuw"

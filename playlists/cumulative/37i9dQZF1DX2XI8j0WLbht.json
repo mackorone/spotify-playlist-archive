@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "Color, humor y narrativas contempor\u00e1neas que recorren toda Latinoam\u00e9rica. Silvana Estrada en portada.",
   "name": "Folclor N\u00f3mada",
-  "published_playlist_ids": [
-    "2QwlzrEjUwHNpvdCZVIDMX"
-  ],
   "tracks": [
     {
       "album": {
@@ -906,24 +903,6 @@
     },
     {
       "album": {
-        "name": "Latin & Love Studies",
-        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
-      },
-      "artists": [
-        {
-          "name": "Isaac & Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        }
-      ],
-      "date_added": "2022-03-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 183168,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p"
-    },
-    {
-      "album": {
         "name": "En Tu Pelo",
         "url": "https://open.spotify.com/album/7DUAPU2UlcTZTB73Kj1Kld"
       },
@@ -957,6 +936,24 @@
       "duration_ms": 184912,
       "name": "En tu pelo",
       "url": "https://open.spotify.com/track/7pfyOy1Tbz68brlpi2JrZU"
+    },
+    {
+      "album": {
+        "name": "Latin & Love Studies",
+        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183168,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.",
   "name": "Deep Dive: 80s Rock",
-  "published_playlist_ids": [
-    "5Hsskn5n9BE0Rj9yfUKAoG"
-  ],
   "tracks": [
     {
       "album": {
@@ -1197,6 +1194,24 @@
     {
       "album": {
         "name": "Mother Love Bone",
+        "url": "https://open.spotify.com/album/5ohJawP6UajQ6ZIjWxnvM6"
+      },
+      "artists": [
+        {
+          "name": "Mother Love Bone",
+          "url": "https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 502040,
+      "name": "Chloe Dancer/Crown Of Thorns",
+      "url": "https://open.spotify.com/track/7rBMZvgeWnOTHWUh3Pvw51"
+    },
+    {
+      "album": {
+        "name": "Mother Love Bone",
         "url": "https://open.spotify.com/album/24UTTxVO1B0956xXWmtpab"
       },
       "artists": [
@@ -1297,7 +1312,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 214146,
       "name": "Cool World - Digitally Remastered",
       "url": "https://open.spotify.com/track/3Q8mS8JTzNkUuaOAtcaNyG"
@@ -2651,7 +2666,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 205160,
       "name": "Hand To Hold On To",
       "url": "https://open.spotify.com/track/7fPXqb7yuGbSl0ZM3EddHx"
@@ -3519,7 +3534,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-03",
       "duration_ms": 220415,
       "name": "If Looks Could Kill",
       "url": "https://open.spotify.com/track/1mr9ZUNWfCUClBDhYbCErx"
@@ -3580,7 +3595,7 @@
     },
     {
       "album": {
-        "name": "Don't Say No",
+        "name": "Don't Say No (Remastered 2010)",
         "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
       },
       "artists": [
@@ -3593,7 +3608,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250066,
-      "name": "In The Dark - Remastered",
+      "name": "In The Dark - Remastered 2010",
       "url": "https://open.spotify.com/track/2dgjjOdz8qnGXLos9xbNNV"
     },
     {
@@ -4387,7 +4402,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 190933,
       "name": "Look What The Cat Dragged In",
       "url": "https://open.spotify.com/track/5DmRCfszmaz7osOPCmAHVI"
@@ -5323,7 +5338,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 196200,
       "name": "Only The Lonely - Remastered 1999",
       "url": "https://open.spotify.com/track/7v3dSsVMPy7jd4hcx6sKb0"
@@ -5899,7 +5914,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 240266,
       "name": "Reason To Live",
       "url": "https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb"
@@ -6405,7 +6420,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 290667,
-      "name": "Senses Working Overtime - Remastered",
+      "name": "Senses Working Overtime - Remastered 2001",
       "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
     },
     {
@@ -6965,7 +6980,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 215573,
       "name": "Stop Me If You Think You've Heard This One Before - 2011 Remaster",
       "url": "https://open.spotify.com/track/2JN57QFclho4vExKPq6OYg"
@@ -7001,7 +7016,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-18",
       "duration_ms": 182426,
       "name": "Stories For Boys - Remastered 2008",
       "url": "https://open.spotify.com/track/37r50D42oXhzxtH3VyBzJX"
@@ -7073,7 +7088,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 335533,
       "name": "Such a Shame - 1997 Remaster",
       "url": "https://open.spotify.com/track/35JhxrwW2bBAiMcnrmuLEN"
@@ -7091,7 +7106,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 207133,
       "name": "Summertime Girls - Studio Version",
       "url": "https://open.spotify.com/track/3obciWcyGwsVNZ76PYge6C"
@@ -7253,7 +7268,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Synchronicity I",
       "url": "https://open.spotify.com/track/0eZvCQAK6hsPSlcfqzREvB"
@@ -7757,7 +7772,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 387146,
       "name": "The Queen Is Dead - 2011 Remaster",
       "url": "https://open.spotify.com/track/03ZwNF6FTvazNuOXNQf8k8"
@@ -8255,7 +8270,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": "2023-01-25",
       "duration_ms": 243040,
       "name": "Two Hearts Beat As One - Remastered 2008",
       "url": "https://open.spotify.com/track/5JHmTzesNSJwMuMpBm46oa"
@@ -8363,7 +8378,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-30",
       "duration_ms": 289586,
       "name": "Veteran of the Psychic Wars",
       "url": "https://open.spotify.com/track/1bPUK3zBMK73QXmCLzqffn"
@@ -8687,7 +8702,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 214000,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/04EnF5C2HvYZfGu64Bng7I"
@@ -8889,7 +8904,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 246400,
       "name": "Who Will You Run To",
       "url": "https://open.spotify.com/track/2G7ttyDosjWmunOYsNRm0C"

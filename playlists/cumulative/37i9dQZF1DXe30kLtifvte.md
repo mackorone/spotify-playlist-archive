@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1z1V8o4cq5VNtAU05T2q4W">AmyElle</a> celebrates her new studio with her House\-infused DJ mix.
 
-19 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/2YpLkMqMTK5ttZ7trv06DZ)
+19 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

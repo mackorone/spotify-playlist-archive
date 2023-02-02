@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-22",
   "description": "Your everyday pick-me-up playlist.",
   "name": "Feel Good Look Good",
-  "published_playlist_ids": [
-    "5Pm0B7sqCCxC5d2UrRo9Dc"
-  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +32,7 @@
           "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
         },
         {
-          "name": "Montmartre",
+          "name": "MONTMARTRE",
           "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
         }
       ],
@@ -99,10 +96,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "album": {
+        "name": "Best Night of My Life",
+        "url": "https://open.spotify.com/album/4XxDkLqQfNsGHHsiWOTGpB"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154855,
+      "name": "Best Night of My Life",
+      "url": "https://open.spotify.com/track/3oSGH1ibFHx3aCHS4Fk3vV"
     },
     {
       "album": {
@@ -165,7 +180,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-23",
       "duration_ms": 211073,
       "name": "Bosana",
       "url": "https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h"
@@ -281,6 +296,28 @@
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146900,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf"
     },
     {
       "album": {
@@ -427,7 +464,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 203093,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
@@ -525,7 +562,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
@@ -715,6 +752,28 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "album": {
+        "name": "It's a Beautiful Day (Reprise)",
+        "url": "https://open.spotify.com/album/5qfhVKlZEaGiHFCZ86oKts"
+      },
+      "artists": [
+        {
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7CykGdhsntt8g3KAg0UTv8"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162985,
+      "name": "It's a Beautiful Day (Reprise)",
+      "url": "https://open.spotify.com/track/2lujnKdLiRVjcueFs648AW"
     },
     {
       "album": {
@@ -959,7 +1018,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 145084,
       "name": "OMOGE WA JO",
       "url": "https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC"
@@ -1025,7 +1084,7 @@
       ],
       "date_added": "2018-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-02-01",
       "duration_ms": 352493,
       "name": "Pluto - Live",
       "url": "https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz"
@@ -1077,7 +1136,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 221006,
       "name": "Power (Remember Who You Are) - Nasty C Remix",
       "url": "https://open.spotify.com/track/3d43VQ7ibf6NjEznS7IiYI"

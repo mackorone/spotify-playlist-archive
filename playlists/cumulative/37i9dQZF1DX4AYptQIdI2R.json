@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Ahgases! 7 or nothing.",
   "name": "This Is GOT7",
-  "published_playlist_ids": [
-    "0st0ceeC45OmEBrj3S6PIY"
-  ],
   "tracks": [
     {
       "album": {
@@ -283,6 +280,24 @@
       "duration_ms": 145720,
       "name": "BULLET TO THE HEART",
       "url": "https://open.spotify.com/track/1HMMRRcLsRARU4fzuycnRo"
+    },
+    {
+      "album": {
+        "name": "Chapter 0: WITH",
+        "url": "https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz"
     },
     {
       "album": {
@@ -749,6 +764,24 @@
       "duration_ms": 213884,
       "name": "Girls Girls Girls",
       "url": "https://open.spotify.com/track/5ThLhHMjeLLPFzhlXRm6xt"
+    },
+    {
+      "album": {
+        "name": "Be Yourself",
+        "url": "https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "go UP",
+      "url": "https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C"
     },
     {
       "album": {
@@ -2064,6 +2097,28 @@
     },
     {
       "album": {
+        "name": "Ponytail",
+        "url": "https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205284,
+      "name": "Ponytail (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa"
+    },
+    {
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
       },
@@ -3024,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "Why Why Why",
+        "url": "https://open.spotify.com/album/5MkkiVN4hu8eQ4vTTuma2q"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159936,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/7KJFzhA8d0IpIZLNt367Po"
+    },
+    {
+      "album": {
         "name": "&ME Edition",
         "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
       },
@@ -3325,7 +3398,7 @@
           "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
         },
         {
-          "name": "Hyolyn",
+          "name": "HYOLYN",
           "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         }
       ],

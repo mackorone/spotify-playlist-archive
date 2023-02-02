@@ -4,7 +4,7 @@
 
 > Missa inte Alicia Keys på Flamingo\-scenen på LÖRDAG / 22.20
 
-10 songs - 39 min 39 sec - [published](https://open.spotify.com/playlist/100OXXqx3GTlQcpDaWy9ip)
+10 songs - 39 min 39 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

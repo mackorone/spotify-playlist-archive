@@ -4,7 +4,7 @@
 
 > Celebrate R&amp;B crooner Maxwell's career with this essential collection of songs.
 
-23 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/2nis0cD7S2fnkZeb3SRwMP)
+23 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

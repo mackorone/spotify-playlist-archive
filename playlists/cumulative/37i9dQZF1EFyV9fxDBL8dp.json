@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0u9RuqKKPbET4zVEgRTXiZ\">Luiz de Assis</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Luiz de Assis",
-  "published_playlist_ids": [
-    "2DVhTkWkXZQK6MOiM4pHaq"
-  ],
   "tracks": [
     {
       "album": {
@@ -279,10 +276,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 296100,
       "name": "Derradeiro",
       "url": "https://open.spotify.com/track/5FuWbOttJw3aOy6UyKZPls"
+    },
+    {
+      "album": {
+        "name": "Persevere (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ROU8qAXu5AZhVPz4wxJXT"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306195,
+      "name": "Derradeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/6CqdyThSAqxb4ZY8NnapEO"
     },
     {
       "album": {
@@ -387,10 +402,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 265009,
       "name": "Eu Me Precipitei",
       "url": "https://open.spotify.com/track/13bnBIfbcjmUFOPwNn7QTq"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Eu Me Precipitei",
+      "url": "https://open.spotify.com/track/6QcnrB9K9mLlbZQ8c6wpkT"
     },
     {
       "album": {
@@ -409,6 +442,24 @@
       "duration_ms": 267226,
       "name": "Eu Vi",
       "url": "https://open.spotify.com/track/5CMSSsWrLvHwurRcdNBbqw"
+    },
+    {
+      "album": {
+        "name": "Edi\u00e7\u00e3o Comemorativa 15 Anos",
+        "url": "https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305933,
+      "name": "Ex\u00e9rcito de Jah",
+      "url": "https://open.spotify.com/track/5T8jiM1mrYeu7mlcBaIFgy"
     },
     {
       "album": {
@@ -1101,10 +1152,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 364669,
       "name": "Sincronia (Recado a Eu)",
       "url": "https://open.spotify.com/track/7oqoZHlO1UqWitB6WTUZxU"
+    },
+    {
+      "album": {
+        "name": "Persevere (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ROU8qAXu5AZhVPz4wxJXT"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335237,
+      "name": "Sincronia - Ao Vivo",
+      "url": "https://open.spotify.com/track/2InaWa7S0YdwnIn0Ls7H0c"
     },
     {
       "album": {

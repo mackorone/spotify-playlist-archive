@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89380,
+  "num_followers": 89327,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMGM5OGVhY2JhNGQ4MDFmMzFkZWYwODI2MjQwZWI2YzU0",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDk2YzdjYjA2Njc1MjE4NTE1MjFmZGY2Y2Q4MjUzNzc3",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -43,22 +43,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Everyday Life",
-      "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "A Million Dreams",
         "url": "https://open.spotify.com/album/6MtlLy42YdFaJNOgDA0NZW"
       },
@@ -91,38 +75,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "A Star Is Born Soundtrack (Without Dialogue)",
-        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 217212,
-      "name": "Shallow - Radio Edit",
-      "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Real Friends",
-        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 220120,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo"
+      "duration_ms": 258533,
+      "name": "Everyday Life",
+      "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -143,6 +107,22 @@
       "duration_ms": 187226,
       "name": "Us",
       "url": "https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Real Friends",
+        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 220120,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -183,18 +163,38 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
+      "duration_ms": 217212,
+      "name": "Shallow - Radio Edit",
+      "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 257546,
+      "name": "Champion Of The World",
+      "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -215,18 +215,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 257546,
-      "name": "Champion Of The World",
-      "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -275,6 +275,22 @@
       "duration_ms": 167586,
       "name": "Need To Know",
       "url": "https://open.spotify.com/track/6EkQmHBoux7iqK4vjfHq4V"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 214850,
+      "name": "Hell or High Water - From Days Gone",
+      "url": "https://open.spotify.com/track/3AyUH2Oer2D4aFMcfIdWuJ"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -331,38 +347,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 214850,
-      "name": "Hell or High Water - From Days Gone",
-      "url": "https://open.spotify.com/track/3AyUH2Oer2D4aFMcfIdWuJ"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278813,
-      "name": "Western Stars",
-      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "The Big Unknown (From \"Widows\")",
         "url": "https://open.spotify.com/album/19221iQ9OgS1T1SxaccBhl"
       },
@@ -375,6 +359,38 @@
       "duration_ms": 261466,
       "name": "The Big Unknown (From \"Widows\")",
       "url": "https://open.spotify.com/track/3vvTGcClIV5mocdasOIDsb"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 228234,
+      "name": "Wintertime",
+      "url": "https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "1975",
+        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 197839,
+      "name": "Until The Hurting Is Gone",
+      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -411,6 +427,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278813,
+      "name": "Western Stars",
+      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Run Away from It All (Acoustic)",
         "url": "https://open.spotify.com/album/67YBhDZbe4OOZNwMdXGT4e"
       },
@@ -423,22 +455,6 @@
       "duration_ms": 267284,
       "name": "Run Away from It All - Acoustic",
       "url": "https://open.spotify.com/track/7MOTCiY8t7HHBwaBb2CafC"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 228234,
-      "name": "Wintertime",
-      "url": "https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -460,7 +476,7 @@
       "added_at": "2019-11-29 09:37:55",
       "album": {
         "name": "Blind Leading the Blind",
-        "url": "https://open.spotify.com/album/07axYwrFUra9cfBF0pNZ8X"
+        "url": "https://open.spotify.com/album/3v8OqfgSCnS5NDTUsg7X1P"
       },
       "artists": [
         {
@@ -470,7 +486,7 @@
       ],
       "duration_ms": 224703,
       "name": "Blind Leading the Blind",
-      "url": "https://open.spotify.com/track/0rxQm3nLcecMGkpqDTH77K"
+      "url": "https://open.spotify.com/track/77nG5iTzpTcgWL1QFstTIS"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -491,6 +507,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Let's Go Sunshine",
+        "url": "https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 203081,
+      "name": "Four Leaf Clover",
+      "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Still on My Mind",
         "url": "https://open.spotify.com/album/5AR3jURU3vmoJiGzpjY4Xn"
       },
@@ -503,38 +535,6 @@
       "duration_ms": 203933,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2yJBTToYK5LtQoFGzozCgM"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "1975",
-        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 197839,
-      "name": "Until The Hurting Is Gone",
-      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 243306,
-      "name": "There Goes My Miracle",
-      "url": "https://open.spotify.com/track/2NVDqyBmkPLANgy3S5He6d"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -559,6 +559,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "Shake The Spirit",
+        "url": "https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "The Story We Used To Tell",
         "url": "https://open.spotify.com/album/3vaR9t74RttIcLaf8OrI6s"
       },
@@ -575,18 +591,34 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Let's Go Sunshine",
-        "url": "https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe"
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
       },
       "artists": [
         {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 203081,
-      "name": "Four Leaf Clover",
-      "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
+      "duration_ms": 243306,
+      "name": "There Goes My Miracle",
+      "url": "https://open.spotify.com/track/2NVDqyBmkPLANgy3S5He6d"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Pretty Bitchin'",
+      "url": "https://open.spotify.com/track/5IhAJUu8ZEKOezGFaMeEmO"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -623,50 +655,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Shake The Spirit",
-        "url": "https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o"
+        "name": "My Love Goes On (feat. Joss Stone)",
+        "url": "https://open.spotify.com/album/3Cq3SXwDWPgfurTBArted5"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 159267,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Western Stars",
-        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
-      },
-      "artists": [
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        },
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Tucson Train",
-      "url": "https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Pretty Bitchin'",
-      "url": "https://open.spotify.com/track/5IhAJUu8ZEKOezGFaMeEmO"
+      "duration_ms": 216800,
+      "name": "My Love Goes On (feat. Joss Stone)",
+      "url": "https://open.spotify.com/track/0irDfV3ctQGVN69ograYiK"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -695,22 +699,34 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "My Love Goes On (feat. Joss Stone)",
-        "url": "https://open.spotify.com/album/3Cq3SXwDWPgfurTBArted5"
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
       },
       "artists": [
         {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        },
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 216800,
-      "name": "My Love Goes On (feat. Joss Stone)",
-      "url": "https://open.spotify.com/track/0irDfV3ctQGVN69ograYiK"
+      "duration_ms": 209280,
+      "name": "Tucson Train",
+      "url": "https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Good Thing Gone",
+        "url": "https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 292594,
+      "name": "Good Thing Gone",
+      "url": "https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -747,78 +763,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Blood Red Roses (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        },
-        {
-          "name": "Bridget Cady",
-          "url": "https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Everybody's Someone (with Olivia Newton-John)",
-      "url": "https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Gilbert O'Sullivan",
-        "url": "https://open.spotify.com/album/147bBWdV1tgPQ5pabOzQF4"
-      },
-      "artists": [
-        {
-          "name": "Gilbert O'Sullivan",
-          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "At the End of the Day",
-      "url": "https://open.spotify.com/track/4my3EKKyF3ASnJ7OPHTBUl"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Good Thing Gone",
-        "url": "https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 292594,
-      "name": "Good Thing Gone",
-      "url": "https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
         "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
@@ -847,6 +791,26 @@
       "duration_ms": 176690,
       "name": "I've Gotta Be Me",
       "url": "https://open.spotify.com/track/19I5aPSNdfo86gMAekHWxT"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Blood Red Roses (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "name": "Bridget Cady",
+          "url": "https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -887,18 +851,38 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Big Colors",
-        "url": "https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ"
+        "name": "Gilbert O'Sullivan",
+        "url": "https://open.spotify.com/album/147bBWdV1tgPQ5pabOzQF4"
       },
       "artists": [
         {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+          "name": "Gilbert O'Sullivan",
+          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
         }
       ],
-      "duration_ms": 213946,
-      "name": "Fuck The Rain",
-      "url": "https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG"
+      "duration_ms": 191360,
+      "name": "At the End of the Day",
+      "url": "https://open.spotify.com/track/4my3EKKyF3ASnJ7OPHTBUl"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Everybody's Someone (with Olivia Newton-John)",
+      "url": "https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -935,34 +919,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "In the Blue Light",
-        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
+        "name": "Big Colors",
+        "url": "https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 240693,
-      "name": "One Man's Ceiling Is Another Man's Floor",
-      "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/0JahrDBriRtoaO473f00rk"
+      "duration_ms": 213946,
+      "name": "Fuck The Rain",
+      "url": "https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -983,30 +951,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
+        "name": "In the Blue Light",
+        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Chuck D",
-          "url": "https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L"
-        },
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 382853,
-      "name": "Story Of Everything",
-      "url": "https://open.spotify.com/track/6exGzQG7704sf82TorgroD"
+      "duration_ms": 240693,
+      "name": "One Man's Ceiling Is Another Man's Floor",
+      "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -1043,18 +999,62 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Every One of Us",
-        "url": "https://open.spotify.com/album/4hlmMOWqxno6iFYi54UKYN"
+        "name": "Fuh You",
+        "url": "https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U"
       },
       "artists": [
         {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Every One of Us",
-      "url": "https://open.spotify.com/track/5b6zAh5CNRv6dN5JrMNtmk"
+      "duration_ms": 203719,
+      "name": "Fuh You",
+      "url": "https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/0JahrDBriRtoaO473f00rk"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Chuck D",
+          "url": "https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L"
+        },
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 382853,
+      "name": "Story Of Everything",
+      "url": "https://open.spotify.com/track/6exGzQG7704sf82TorgroD"
     }
   ],
   "unique_name": "The New Waltz",

@@ -1,12 +1,12 @@
 {
   "description": "consider this an RSVP to littest wedding parties ",
-  "num_followers": 920,
+  "num_followers": 1253,
   "original_name": "Small Chops ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDgwMCwwMDAwMDAwMDc2YzFiZGFiODMxODAzNmNlZGZjM2RmMTcwYzExNWM1",
+  "snapshot_id": "MTY3NDk4NDQwNCwwMDAwMDAwMDU4OWRmMDVhY2RkZThjNjc4NmFhMGFhY2QwYWE3NDM2",
   "tracks": [
     {
       "added_at": "2022-02-11 09:43:54",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/69vmMU3DyducrazXbFmOqH"
     },
     {
+      "added_at": "2023-01-29 09:26:44",
+      "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+    },
+    {
       "added_at": "2022-02-11 09:43:54",
       "album": {
         "name": "Nobody",
@@ -81,6 +97,38 @@
       "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
     },
     {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "My Only Baby",
+        "url": "https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 158069,
+      "name": "My Only Baby",
+      "url": "https://open.spotify.com/track/6ZF8NhfpndsCZeCW20i3AH"
+    },
+    {
+      "added_at": "2023-01-29 09:26:44",
+      "album": {
+        "name": "Folake",
+        "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 168979,
+      "name": "Folake",
+      "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
+    },
+    {
       "added_at": "2022-02-11 09:43:54",
       "album": {
         "name": "Running (To You)",
@@ -99,6 +147,22 @@
       "duration_ms": 191245,
       "name": "Running (To You)",
       "url": "https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X"
+    },
+    {
+      "added_at": "2023-01-29 09:26:44",
+      "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 175792,
+      "name": "Stand By You",
+      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -143,6 +207,46 @@
       "duration_ms": 176842,
       "name": "The Love Song (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE"
+    },
+    {
+      "added_at": "2023-01-29 09:26:44",
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/5kKcj1ekmHXMhqKlXIToml"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "duration_ms": 199126,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1EOCegpfqI77GcoJMo0NdH"
+    },
+    {
+      "added_at": "2022-12-05 04:38:51",
+      "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 130477,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
     },
     {
       "added_at": "2022-08-08 04:30:36",
@@ -195,26 +299,6 @@
       "duration_ms": 235171,
       "name": "Aye",
       "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
-    },
-    {
-      "added_at": "2022-11-24 23:00:00",
-      "album": {
-        "name": "A Piece Of Me",
-        "url": "https://open.spotify.com/album/0enq2ODADHlUOmFWjxatEj"
-      },
-      "artists": [
-        {
-          "name": "Ugoccie",
-          "url": "https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN"
-        },
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        }
-      ],
-      "duration_ms": 156700,
-      "name": "Whenever",
-      "url": "https://open.spotify.com/track/0yOviZhkPwCUtOfWRRP6nd"
     },
     {
       "added_at": "2022-06-13 07:07:56",
@@ -375,22 +459,6 @@
       "duration_ms": 220320,
       "name": "Come and See My Moda (feat. Yemi Alade)",
       "url": "https://open.spotify.com/track/5W4iLxBJknbKAjNAUSH2L5"
-    },
-    {
-      "added_at": "2022-07-22 04:42:53",
-      "album": {
-        "name": "Jaiye (Ihe Geme)",
-        "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 207409,
-      "name": "Find Somebody",
-      "url": "https://open.spotify.com/track/5Pj1Fogn76Q2FE5JUMh50Q"
     },
     {
       "added_at": "2022-02-11 09:43:54",

@@ -4,7 +4,7 @@
 
 > Historias y versos que tocan la piel.
 
-140 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/6l3dGa8zCDeH4FpHS3TJ2w)
+141 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Cantares \- En Directo](https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat En Directo](https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G) | 3:16 | 2021-07-29 |  |
 | [Coincidir](https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P) | [Alberto Escobar](https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM) | [Coincidir](https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf) | 4:06 | 2021-07-29 |  |
 | [Coincidir](https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8) | [Mexicanto](https://open.spotify.com/artist/2vJZznn0lsxmK4ydVwroSc) | [Coincidir](https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH) | 2:43 | 2021-07-29 |  |
-| [Como la Nube Se Impone al Sol](https://open.spotify.com/track/6yyjTmxBDhKvQre39r8QxT) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Como la Nube Se Impone al Sol](https://open.spotify.com/album/1MbZFgTvTCb7TjAaeKAybY) | 3:09 | 2021-07-29 |  |
+| [Como la Nube Se Impone al Sol](https://open.spotify.com/track/6yyjTmxBDhKvQre39r8QxT) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Como la Nube Se Impone al Sol](https://open.spotify.com/album/1MbZFgTvTCb7TjAaeKAybY) | 3:09 | 2021-07-29 | 2022-12-25 |
+| [Como la Nube Se Impone al Sol \(feat\. Pablo Milanés\)](https://open.spotify.com/track/75vEpGK92zNmo0wTsYgODZ) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Vamos a Bailar un Son \(Special Edition\)](https://open.spotify.com/album/0fJHl8bN8rprMMTLQkppdo) | 3:09 | 2021-07-29 |  |
 | [Cuéntame](https://open.spotify.com/track/4W7WkBcU2lucZ3idMydUS3) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/3TWcdcy2vPnaIXmDYfCpj0) | 3:53 | 2021-07-29 | 2022-07-29 |
 | [Cuéntame](https://open.spotify.com/track/6jOoHhton9c8rzgfyUht7A) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Escarlata](https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F) | 3:53 | 2021-07-29 |  |
 | [De Alguna Manera](https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 3:32 | 2021-07-29 |  |

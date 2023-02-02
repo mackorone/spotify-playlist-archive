@@ -1,13 +1,65 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7823,
+  "num_followers": 7834,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjAwMCxkN2QzZjU4ZmRkNDkxZTg0MzIyOGRiMTRlODQzOTcyNWY0YTc0MDE2",
+  "snapshot_id": "MjAyNixkMzZkMTJkMzUxYjg0NTYxOGQ4ZmRlNTI5NTdhYzkwNzQyMWJkZjMy",
   "tracks": [
+    {
+      "added_at": "2023-01-27 16:30:38",
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
+    },
+    {
+      "added_at": "2023-01-27 16:30:28",
+      "album": {
+        "name": "Been Thinking",
+        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187275,
+      "name": "Been Thinking",
+      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
+    },
+    {
+      "added_at": "2023-01-27 16:30:19",
+      "album": {
+        "name": "Made You Look (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/41NpvqeMM2xxTI7GQZskg7"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 147497,
+      "name": "Made You Look (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3EdDaqA9IkOwD8rcRyK60b"
+    },
     {
       "added_at": "2022-10-28 14:48:36",
       "album": {
@@ -133,22 +185,6 @@
       "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
     },
     {
-      "added_at": "2022-10-21 14:44:10",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
       "added_at": "2022-06-24 13:42:09",
       "album": {
         "name": "Give Or Take",
@@ -179,22 +215,6 @@
       "duration_ms": 163733,
       "name": "247",
       "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
-    },
-    {
-      "added_at": "2022-11-04 14:19:38",
-      "album": {
-        "name": "To Last",
-        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "To Last",
-      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
     },
     {
       "added_at": "2022-11-11 14:35:31",
@@ -293,6 +313,22 @@
       "url": "https://open.spotify.com/track/109zbOmrUeunCHnZ76B0Kx"
     },
     {
+      "added_at": "2023-01-20 15:16:44",
+      "album": {
+        "name": "KEEP IT",
+        "url": "https://open.spotify.com/album/4EgIKM2NooqnRLP4W9p1Q1"
+      },
+      "artists": [
+        {
+          "name": "Kid Culture",
+          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "KEEP IT",
+      "url": "https://open.spotify.com/track/2WUoFcxvDYAsjKKI3pKWa5"
+    },
+    {
       "added_at": "2022-10-21 14:47:09",
       "album": {
         "name": "Sex Symbol",
@@ -307,6 +343,22 @@
       "duration_ms": 130813,
       "name": "Sex Symbol",
       "url": "https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7"
+    },
+    {
+      "added_at": "2023-01-06 15:31:28",
+      "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/72SRRaSf8OEru4ewgAK0UM"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "duration_ms": 117543,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4"
     },
     {
       "added_at": "2022-10-14 12:53:51",
@@ -397,6 +449,22 @@
       "url": "https://open.spotify.com/track/6J4VcQgLGDRV8kbgTMhwly"
     },
     {
+      "added_at": "2022-12-09 14:55:18",
+      "album": {
+        "name": "THE GOV'T GAVE US GUNS",
+        "url": "https://open.spotify.com/album/5o0qJK6COqONoWG7FtTeHW"
+      },
+      "artists": [
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "duration_ms": 116794,
+      "name": "THE GOV'T GAVE US GUNS",
+      "url": "https://open.spotify.com/track/3gfeujZDkVn104FOyT3FB3"
+    },
+    {
       "added_at": "2022-09-23 14:26:21",
       "album": {
         "name": "Mr Universe (feat. General Levy)",
@@ -431,26 +499,6 @@
       "duration_ms": 158661,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
-    },
-    {
-      "added_at": "2022-11-18 15:26:04",
-      "album": {
-        "name": "Damn (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/6qlLwfmIfkvJjCiEiLiUgI"
-      },
-      "artists": [
-        {
-          "name": "21 Lil Harold",
-          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 217406,
-      "name": "Damn (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/7Dy1LrsEmooLc39o5bSk7k"
     },
     {
       "added_at": "2022-07-22 14:11:12",
@@ -533,6 +581,22 @@
       "url": "https://open.spotify.com/track/47YxktAwOYF7RXfDbBuzI6"
     },
     {
+      "added_at": "2022-12-02 14:44:06",
+      "album": {
+        "name": "Big Payment",
+        "url": "https://open.spotify.com/album/0HWRp4KD4U8k3C6p8E0edk"
+      },
+      "artists": [
+        {
+          "name": "AAP Deno",
+          "url": "https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G"
+        }
+      ],
+      "duration_ms": 141272,
+      "name": "Big Payment",
+      "url": "https://open.spotify.com/track/55ZFgWnBbvzPQNwlIczIx0"
+    },
+    {
       "added_at": "2022-08-05 04:47:48",
       "album": {
         "name": "AMUSED",
@@ -553,6 +617,26 @@
       "url": "https://open.spotify.com/track/3FgahD27EJCxMHGcJJtAmM"
     },
     {
+      "added_at": "2023-01-20 15:16:32",
+      "album": {
+        "name": "Baby Don't Cry (feat. Young Thug)",
+        "url": "https://open.spotify.com/album/4KeMatc07ZBH1Z2kGEDVZ1"
+      },
+      "artists": [
+        {
+          "name": "Philmon Lee",
+          "url": "https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 184350,
+      "name": "Baby Don't Cry (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/08S37oejetoPevVixK6iXN"
+    },
+    {
       "added_at": "2022-11-18 15:25:48",
       "album": {
         "name": "Toro (feat. DDG)",
@@ -571,30 +655,6 @@
       "duration_ms": 235662,
       "name": "Toro (feat. DDG)",
       "url": "https://open.spotify.com/track/6qaRAEwQ7rQ6Qd1kwBEqWK"
-    },
-    {
-      "added_at": "2022-07-15 14:35:52",
-      "album": {
-        "name": "Rebel vs. Rowdy",
-        "url": "https://open.spotify.com/album/0zxvDMvFNW7h9JQb4oq2eS"
-      },
-      "artists": [
-        {
-          "name": "Rowdy Rebel",
-          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "New York (feat. A Boogie Wit Da Hoodie & Jadakiss)",
-      "url": "https://open.spotify.com/track/1HVVrtjLvEQx8oinUYI5Nv"
     },
     {
       "added_at": "2022-06-10 13:36:10",
@@ -687,22 +747,6 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
-    },
-    {
-      "added_at": "2022-06-03 13:20:02",
-      "album": {
-        "name": "Woo Nina",
-        "url": "https://open.spotify.com/album/0MnDNgWKsjqXWMzBEYJrC7"
-      },
-      "artists": [
-        {
-          "name": "Rowdy Rebel",
-          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
-        }
-      ],
-      "duration_ms": 128951,
-      "name": "Woo Nina",
-      "url": "https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi"
     },
     {
       "added_at": "2022-02-18 15:11:28",
@@ -901,26 +945,6 @@
       "url": "https://open.spotify.com/track/3DTqMxUmB5LHOanIdadf1j"
     },
     {
-      "added_at": "2022-02-18 15:12:03",
-      "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
-    },
-    {
       "added_at": "2022-07-22 14:12:27",
       "album": {
         "name": "BEFORE WE GO (DEEPER)",
@@ -1005,38 +1029,6 @@
       "url": "https://open.spotify.com/track/0B1kYE1ZJHVEtiYhmNPEda"
     },
     {
-      "added_at": "2022-07-22 14:11:35",
-      "album": {
-        "name": "MY DIARY - EP",
-        "url": "https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "FAR AWAY",
-      "url": "https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT"
-    },
-    {
-      "added_at": "2022-10-14 12:52:16",
-      "album": {
-        "name": "The Best Is Yet to Come",
-        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "The Best Is Yet to Come",
-      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
-    },
-    {
       "added_at": "2022-05-06 14:06:15",
       "album": {
         "name": "Final Notice",
@@ -1067,26 +1059,6 @@
       "duration_ms": 96000,
       "name": "Full Throttle",
       "url": "https://open.spotify.com/track/5jKlavWDPp4oEjvBx0VBMa"
-    },
-    {
-      "added_at": "2022-07-08 14:17:25",
-      "album": {
-        "name": "Wishin (feat. B-Lovee)",
-        "url": "https://open.spotify.com/album/2o1fNtQx2GK6ezyeTZXaRc"
-      },
-      "artists": [
-        {
-          "name": "AAP Deno",
-          "url": "https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G"
-        },
-        {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
-        }
-      ],
-      "duration_ms": 163187,
-      "name": "Wishin (feat. B-Lovee)",
-      "url": "https://open.spotify.com/track/4brjhS8jM6awvONNexpSG0"
     },
     {
       "added_at": "2022-04-22 13:12:13",
@@ -1123,6 +1095,22 @@
       "duration_ms": 139615,
       "name": "Drag Me Out",
       "url": "https://open.spotify.com/track/55b6Z85Gr14LgKeBlnJuiz"
+    },
+    {
+      "added_at": "2023-01-27 16:34:54",
+      "album": {
+        "name": "COUNTRY TRAP (Deluxe)",
+        "url": "https://open.spotify.com/album/4D7i0c1SBoA57fyLmLhm8z"
+      },
+      "artists": [
+        {
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+        }
+      ],
+      "duration_ms": 164623,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/622rPa30mcqorsXgird1ky"
     }
   ],
   "unique_name": "EPIC VIBES",

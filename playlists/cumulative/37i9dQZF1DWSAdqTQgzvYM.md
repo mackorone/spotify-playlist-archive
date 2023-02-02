@@ -4,7 +4,7 @@
 
 > Because everyone else is already taken!
 
-110 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/0PyhI3XzWvfnHbV7n9lgra)
+111 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Dare to Be Me](https://open.spotify.com/track/2YzDcXvqiREtH6lHlguUAO) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9), [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Dare to Be Me](https://open.spotify.com/album/7FqMUPXFtcQN01EdnnaSA1) | 2:25 | 2022-04-15 |  |
 | [Dark Skin Boy](https://open.spotify.com/track/6Xp1m82UqUsaIpSl3YUXhJ) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Dark Skin Boy](https://open.spotify.com/album/06pPkVzfy4O3t153okMQs7) | 1:48 | 2022-04-15 |  |
 | [Different is Beautiful \(Yeah, Yeah, Yeah\)](https://open.spotify.com/track/3YOYMflnybTtAkGncjcpqq) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Under the Big Umbrella](https://open.spotify.com/album/3EGoaqW3tguVFNOT985vpl) | 3:01 | 2022-04-15 |  |
-| [Do My Thing](https://open.spotify.com/track/3nbi8TqJu1eLHYWJefcJp4) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [All of Me](https://open.spotify.com/album/2t8fe6B3SkJQlPgc5MvfFw) | 3:28 | 2022-04-15 |  |
+| [Do My Thing](https://open.spotify.com/track/3HEq5ai5pLApbxDgcZMYm9) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [All of Me \(Deluxe Version\)](https://open.spotify.com/album/1JN9fB6NOgVhAHtoPKGpeE) | 3:28 | 2022-04-15 |  |
+| [Do My Thing](https://open.spotify.com/track/3nbi8TqJu1eLHYWJefcJp4) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [All of Me](https://open.spotify.com/album/2t8fe6B3SkJQlPgc5MvfFw) | 3:28 | 2022-04-15 | 2022-12-01 |
 | [Don't Change](https://open.spotify.com/track/5GGEJhZ5xjbU7UhSlipuoq) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don't Change](https://open.spotify.com/album/5rlKJhkECAntycMYdPqe5v) | 2:56 | 2022-04-15 |  |
 | [Don't Ever Change](https://open.spotify.com/track/1pWrCxUkGm0MTB4QbnYUAj) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Don't Ever Change](https://open.spotify.com/album/6fBcX7cxMsHD53yvcRrCaY) | 2:33 | 2022-04-15 |  |
 | [Don't Gotta Be Cool](https://open.spotify.com/track/0nTVpGtsIdcINOKC2gLkph) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Don't Gotta Be Cool](https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy) | 3:10 | 2022-04-15 |  |

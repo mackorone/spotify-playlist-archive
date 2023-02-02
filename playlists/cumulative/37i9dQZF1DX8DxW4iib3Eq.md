@@ -4,7 +4,7 @@
 
 > Check out this collection of amazing John Legend tracks.
 
-40 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/5v9luFIV71TQPUbTskaLYa)
+40 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

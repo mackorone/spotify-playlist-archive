@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77VeL9VIz4M.md) - [plain]
 
 > Découvrez le mix exclusif d’Andy4000 avec des titres de Gazo, Laylow, Lala &ce et bien d’autres!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284 likes - 27 songs - 57 min 7 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,617 likes - 27 songs - 57 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

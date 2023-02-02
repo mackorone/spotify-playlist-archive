@@ -1,0 +1,510 @@
+{
+  "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
+  "num_followers": 2270,
+  "original_name": "This Is Rodrigo Gonzalez",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA3NzRhMGJlNDgzYTdkNmQxN2M2YTMwN2EwNzFjYTZhZA==",
+  "tracks": [
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Distante Instante",
+      "url": "https://open.spotify.com/track/6q5ITxhCRAK98hh03pbgK4"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "Los Intelectuales",
+      "url": "https://open.spotify.com/track/7zPsqNF4oTx9XQMRoNZt5y"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Tiempo De Hibridos",
+      "url": "https://open.spotify.com/track/4Hf8kMwW4SEAm256nL6gbL"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 130146,
+      "name": "No Estoy Loco",
+      "url": "https://open.spotify.com/track/6qMMS6BRlyKrVU7uApmK3I"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 271560,
+      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+      "url": "https://open.spotify.com/track/1vD2RhbLWWdGZRUvUkWjAQ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "La Maquina Del Tiempo",
+      "url": "https://open.spotify.com/track/5kS9UDQMhmoDXLdm2zFYQb"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "Asalto Chido",
+      "url": "https://open.spotify.com/track/0HX6AibpN8ejlt4JYGfkGw"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Cancion De Amor (De Jack El Destripador)",
+      "url": "https://open.spotify.com/track/6CT5XpnHcgwICjWRRfH9Qk"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "Estacion Del Metro Balderas",
+      "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Las Aventuras En El Defe",
+      "url": "https://open.spotify.com/track/5xI8SnxPGQA4kSt1InLWud"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "Algo De Suerte",
+      "url": "https://open.spotify.com/track/0ZGgIES5fy3c5W135lykST"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "\u00bfQue Hacer?",
+      "url": "https://open.spotify.com/track/7MfBvuWaFMjjPPT8ytfyin"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 256306,
+      "name": "Balada Del Asalariado",
+      "url": "https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 137573,
+      "name": "Diva Francesa",
+      "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 270333,
+      "name": "Ama De Casa Un Poco Triste",
+      "url": "https://open.spotify.com/track/1UkPZxEEM5ck5gWTI2iNu3"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "\u00bfPor Que?",
+      "url": "https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 132466,
+      "name": "Oh, Yo No Se",
+      "url": "https://open.spotify.com/track/3fsyB1v2nRTk0Gkvq2Ju5g"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "Dicen Que La Muerte",
+      "url": "https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Solares Baldios",
+      "url": "https://open.spotify.com/track/6D8LxaWbw8V8gPG5RFusMc"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Amor De Telefono Esquinero",
+      "url": "https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 188173,
+      "name": "Vieja Ciudad De Hierro",
+      "url": "https://open.spotify.com/track/7pQiufMiF96UFnhmqB43Lo"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 351173,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 250880,
+      "name": "Huapanguero",
+      "url": "https://open.spotify.com/track/6j8hjB5DiTxtq7W4MHFDeM"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Puedes",
+      "url": "https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "El Viaje (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1qkhgSzOSCwZ809JLv4fJS"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        },
+        {
+          "name": "Wiracocha",
+          "url": "https://open.spotify.com/artist/3Bed96BaBI1MxnoggMiACW"
+        },
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 199306,
+      "name": "La Partida",
+      "url": "https://open.spotify.com/track/6mes0R2e1oe1RZMPHymcHt"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "\u041b\u0443\u0447\u0448\u0438\u0435 \u0438\u0437 \u043b\u0443\u0447\u0448\u0438\u0445",
+        "url": "https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u"
+      },
+      "artists": [
+        {
+          "name": "Tarakany!",
+          "url": "https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9"
+        },
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 216686,
+      "name": "\u041f\u043b\u043e\u0445\u0438\u0435 \u0442\u0430\u043d\u0446\u043e\u0440\u044b",
+      "url": "https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 323301,
+      "name": "Samambaila - Original Mix",
+      "url": "https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Decibels Loudness And Perception",
+        "url": "https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 559369,
+      "name": "Close The Door - Original Mix",
+      "url": "https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/31sPRBlkwIXf4wGo3HnA6T"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Make Me Feel - Original Mix",
+      "url": "https://open.spotify.com/track/77LQaMRRaciUEzl0NgQN2v"
+    },
+    {
+      "added_at": "2023-02-01 17:51:09",
+      "album": {
+        "name": "Get In",
+        "url": "https://open.spotify.com/album/6yhTxkPv6HT28HS4k1hXef"
+      },
+      "artists": [
+        {
+          "name": "Mekane",
+          "url": "https://open.spotify.com/artist/5D9jBfim9QHqi1yijIEDLx"
+        },
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 390236,
+      "name": "Get In - Bass In A Box Remix",
+      "url": "https://open.spotify.com/track/4K2nNErTVNliBxHld6yBJM"
+    }
+  ],
+  "unique_name": "This Is Rodrigo Gonzalez",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WFUvk"
+}

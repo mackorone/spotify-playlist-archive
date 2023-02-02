@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
   "name": "Powerwalk!",
-  "published_playlist_ids": [
-    "1x8QJGVpkb79sPVbfvkiMc"
-  ],
   "tracks": [
     {
       "album": {
@@ -201,7 +198,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
@@ -975,7 +972,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-02",
       "duration_ms": 168118,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
@@ -1261,6 +1258,32 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv"
     },
     {
       "album": {
@@ -1961,7 +1984,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 211452,
       "name": "Looking For Me",
       "url": "https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt"
@@ -2151,6 +2174,28 @@
       "duration_ms": 148966,
       "name": "Mine [Le Boeuf Remix]",
       "url": "https://open.spotify.com/track/4QLmoDYp0RQ3lTHbAVAuyZ"
+    },
+    {
+      "album": {
+        "name": "More Than I Can Say",
+        "url": "https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153197,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz"
     },
     {
       "album": {
@@ -2467,6 +2512,24 @@
       "duration_ms": 153696,
       "name": "Not So Bad (feat. Emie)",
       "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
+    },
+    {
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 179831,
+      "name": "OMG What's Happening",
+      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
     },
     {
       "album": {
@@ -3696,6 +3759,36 @@
     },
     {
       "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Death Stranding: Timefall",
+          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 171986,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/0Z26mbSHJ1dkUu7g9DDgif"
+    },
+    {
+      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
       },
@@ -3865,7 +3958,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-11",
       "duration_ms": 163636,
       "name": "Whenever (feat. Conor Maynard)",
       "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"

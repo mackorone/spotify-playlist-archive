@@ -4,7 +4,7 @@
 
 > Dos de los más grandes, frente a frente.
 
-139 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/5IWlOBv7ISWXyRAfoFCSOM)
+139 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

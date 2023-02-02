@@ -1,15 +1,39 @@
 {
   "description": "Tra storytelling e barre affilate, il meglio del rap game italiano. Cover: MadMan",
-  "num_followers": 62608,
+  "num_followers": 64129,
   "original_name": "Liricisti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMDYyNGMxM2Y5ZmIxZThhY2Y0YjNkY2VkMDFiYzNmN2Q2",
+  "snapshot_id": "MTY3NDc3NDA2MCwwMDAwMDAwMGYzMzc4MGI3YTRkMTAxZTJhZDM2MDdjNGQzYjBlOTMx",
   "tracks": [
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Scialla Semper",
+        "url": "https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        },
+        {
+          "name": "Nic Sarno",
+          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Amici",
+      "url": "https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
@@ -29,7 +53,83 @@
       "url": "https://open.spotify.com/track/5hjMhdi5EBlwpcthmhUgOD"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 212316,
+      "name": "QUALCOSA IN CUI CREDERE - Lo scheletro",
+      "url": "https://open.spotify.com/track/5mZhdcP4Cexz1kWqGobJF6"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Lo-fi For U",
+        "url": "https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 203489,
+      "name": "Lo-fi For U",
+      "url": "https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "BV3",
+        "url": "https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW"
+      },
+      "artists": [
+        {
+          "name": "BLOODY VINYL",
+          "url": "https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU"
+        },
+        {
+          "name": "Slait",
+          "url": "https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w"
+        },
+        {
+          "name": "5019",
+          "url": "https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "WEEKEND (feat. Lazza, Madame & Massimo Pericolo)",
+      "url": "https://open.spotify.com/track/6xOC20CkoRKAwGWh32nPHL"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Caos",
         "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
@@ -45,23 +145,71 @@
       "url": "https://open.spotify.com/track/7luFLdyoCkAyNZm3BEGAAT"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "IO NON HO PAURA",
-        "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 220299,
-      "name": "BUONANOTTE",
-      "url": "https://open.spotify.com/track/6QgnT0tFcEWqzAO6GrYvff"
+      "duration_ms": 195662,
+      "name": "Prefissi",
+      "url": "https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "L'amore e la violenza (feat. Paky & 8blevrai)",
+        "url": "https://open.spotify.com/album/0w8qPojpLzeQNbxgMq8aKf"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "L'amore e la violenza (feat. Paky & 8blevrai)",
+      "url": "https://open.spotify.com/track/1FZU4LJgp5zKSR9QYfgSBK"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/5xIlm5Scz7D2UFo6RyMMQE"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Re Mida",
         "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
@@ -77,7 +225,27 @@
       "url": "https://open.spotify.com/track/7fnHSgIITveyrYBAA1sxKR"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "TOPBOY (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/0FvfjiQZ5vEO4XLGX5Uubk"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "MM Vol. 4",
         "url": "https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce"
@@ -97,7 +265,7 @@
       "url": "https://open.spotify.com/track/0UKgEDJm4M54t50cbGGiUC"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
@@ -149,10 +317,10 @@
       "url": "https://open.spotify.com/track/1pHJWDHje5vfV4sTvRNtuT"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "IO NON HO PAURA",
-        "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
+        "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
       },
       "artists": [
         {
@@ -162,78 +330,66 @@
       ],
       "duration_ms": 205659,
       "name": "BU!",
-      "url": "https://open.spotify.com/track/2rhTJhBMz2l7iDKQzl2KCd"
+      "url": "https://open.spotify.com/track/52Q2Ocg7mAG5B9LZ1szKoQ"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "Caos",
-        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
+        "name": "OUV3RTURE",
+        "url": "https://open.spotify.com/album/67H0MkQF8hYsPkh69BcdkM"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
-      "duration_ms": 185666,
-      "name": "Cocaine",
-      "url": "https://open.spotify.com/track/5xIlm5Scz7D2UFo6RyMMQE"
+      "duration_ms": 172862,
+      "name": "OUV3RTURE",
+      "url": "https://open.spotify.com/track/6Zm34v95snSUecBXqHeu8t"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+        "name": "The Illest, Vol 3.",
+        "url": "https://open.spotify.com/album/6dQtxmHiNvZPh5te1zjW3P"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Mostro",
+          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
         }
       ],
-      "duration_ms": 212316,
-      "name": "QUALCOSA IN CUI CREDERE - Lo scheletro (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/1t6xoDooMgAqlYDOLTrsxj"
+      "duration_ms": 187133,
+      "name": "Rappresento (feat. Jake La Furia)",
+      "url": "https://open.spotify.com/track/2nxiM1iVhNIITV0N2zlGE5"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "Scialla Semper",
-        "url": "https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX"
+        "name": "Eclissi",
+        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
       },
       "artists": [
         {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         },
         {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        },
-        {
-          "name": "Nic Sarno",
-          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         }
       ],
-      "duration_ms": 180950,
-      "name": "Amici",
-      "url": "https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3"
+      "duration_ms": 181430,
+      "name": "Pochette (feat. Noyz Narcos)",
+      "url": "https://open.spotify.com/track/7px3nxEoSvAHCvAZq3r38W"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Gemelli (ascendente Milano)",
         "url": "https://open.spotify.com/album/5bIm3XT2nJAdPvTLsBlk8g"
@@ -249,27 +405,231 @@
       "url": "https://open.spotify.com/track/37hdLoozh7mKLbDeO5GAt8"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+        "name": "Keta Music, Vol. 3",
+        "url": "https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "duration_ms": 190568,
+      "name": "Nel male e nel bene (feat. Massimo Pericolo)",
+      "url": "https://open.spotify.com/track/0gpmaIaAS74HHiCoO462xj"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "duration_ms": 220813,
+      "name": "Lontano Dai Guai (feat. Mahmood)",
+      "url": "https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 272003,
+      "name": "NOI",
+      "url": "https://open.spotify.com/track/6g4ZDGB7jj7T1X8sWB5GFQ"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "CATTIVE INTENZIONI (feat. Salmo)",
+      "url": "https://open.spotify.com/track/0OmnpUgUBVcCnKdS7o9P03"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Free (feat. Marracash & Rkomi)",
+      "url": "https://open.spotify.com/track/2bTt0QXf4b1gmIhD4zyXxP"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "OBE",
+        "url": "https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "BUONANOTTE \u2748 (con NOYZ NARCOS, FRANCO126 & SIDE BABY)",
+      "url": "https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Fastlife 4",
+        "url": "https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Dj Harsh",
+          "url": "https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq"
+        }
+      ],
+      "duration_ms": 129625,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/20XT7TO32dN1s9xtowLPuR"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 159095,
+      "name": "DOPE BOY",
+      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "LAVA FREESTYLE",
+        "url": "https://open.spotify.com/album/2iNH5aUtHwY85OiVCwBKfx"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "duration_ms": 119111,
+      "name": "LAVA FREESTYLE",
+      "url": "https://open.spotify.com/track/7etw1KbS95CG0kn8VFGema"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "FLOP",
+        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         },
         {
           "name": "Noyz Narcos",
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         }
       ],
-      "duration_ms": 206493,
-      "name": "TOPBOY (feat. Noyz Narcos)",
-      "url": "https://open.spotify.com/track/0FvfjiQZ5vEO4XLGX5Uubk"
+      "duration_ms": 186733,
+      "name": "GHIGLIOTTINA - feat. Noyz Narcos",
+      "url": "https://open.spotify.com/track/01BCvCKQNDmFQQQSjrzPnm"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 192905,
+      "name": "Cicatrici (feat. Tedua)",
+      "url": "https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
@@ -301,283 +661,7 @@
       "url": "https://open.spotify.com/track/3E0PSVpSR5zk1X75gGh99o"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Keta Music, Vol. 3",
-        "url": "https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        }
-      ],
-      "duration_ms": 190568,
-      "name": "Nel male e nel bene (feat. Massimo Pericolo)",
-      "url": "https://open.spotify.com/track/0gpmaIaAS74HHiCoO462xj"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Eclissi",
-        "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 181430,
-      "name": "Pochette (feat. Noyz Narcos)",
-      "url": "https://open.spotify.com/track/7px3nxEoSvAHCvAZq3r38W"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 272003,
-      "name": "NOI",
-      "url": "https://open.spotify.com/track/6g4ZDGB7jj7T1X8sWB5GFQ"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "OBE",
-        "url": "https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj"
-      },
-      "artists": [
-        {
-          "name": "MACE",
-          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Side Baby",
-          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "BUONANOTTE \u2748 (con NOYZ NARCOS, FRANCO126 & SIDE BABY)",
-      "url": "https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "IO NON HO PAURA",
-        "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "CATTIVE INTENZIONI (feat. Salmo)",
-      "url": "https://open.spotify.com/track/1qeKaa5Cyw1Xi6PzoNpen5"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Fastlife 4",
-        "url": "https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Dj Harsh",
-          "url": "https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq"
-        }
-      ],
-      "duration_ms": 129625,
-      "name": "Lifestyle",
-      "url": "https://open.spotify.com/track/20XT7TO32dN1s9xtowLPuR"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 193845,
-      "name": "Cicatrici (feat. Tedua)",
-      "url": "https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "L'amore e la violenza (feat. Paky & 8blevrai)",
-        "url": "https://open.spotify.com/album/0w8qPojpLzeQNbxgMq8aKf"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "8blevrai",
-          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "L'amore e la violenza (feat. Paky & 8blevrai)",
-      "url": "https://open.spotify.com/track/1FZU4LJgp5zKSR9QYfgSBK"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "VIRUS",
-        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        }
-      ],
-      "duration_ms": 159095,
-      "name": "DOPE BOY",
-      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "LAVA FREESTYLE",
-        "url": "https://open.spotify.com/album/2iNH5aUtHwY85OiVCwBKfx"
-      },
-      "artists": [
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 119111,
-      "name": "LAVA FREESTYLE",
-      "url": "https://open.spotify.com/track/7etw1KbS95CG0kn8VFGema"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "FLOP",
-        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "GHIGLIOTTINA - feat. Noyz Narcos",
-      "url": "https://open.spotify.com/track/01BCvCKQNDmFQQQSjrzPnm"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "OUV3RTURE",
-        "url": "https://open.spotify.com/album/67H0MkQF8hYsPkh69BcdkM"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 172862,
-      "name": "OUV3RTURE",
-      "url": "https://open.spotify.com/track/6Zm34v95snSUecBXqHeu8t"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Eclissi (feat. Neffa)",
-        "url": "https://open.spotify.com/album/2T9HGGzn2cmF27zrUTHHN0"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 160457,
-      "name": "Eclissi (feat. Neffa)",
-      "url": "https://open.spotify.com/track/1lV5bvVyZdeWuetLyX9BLH"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Tutto bene",
-        "url": "https://open.spotify.com/album/2bzUMRxsqJ3cceZWFA71zB"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tutto bene",
-      "url": "https://open.spotify.com/track/48bU70Alq9O3HHIBwiaFX3"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
@@ -593,7 +677,7 @@
       "url": "https://open.spotify.com/track/7xMMN5LyDOjGry2NfTfUEA"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Eclissi",
         "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
@@ -613,31 +697,7 @@
       "url": "https://open.spotify.com/track/2aH4Ec7vu87IeXFrtjtR17"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Dove Volano Le Aquile",
-        "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 216059,
-      "name": "Addio (feat. Gu\u00e8 & Noyz Narcos)",
-      "url": "https://open.spotify.com/track/1AQLd5sLH95XEJbskcfROp"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Red Bull 64 Bars, The Album",
         "url": "https://open.spotify.com/album/1UAkQ5bV8GvKrSMA4Vd1MV"
@@ -657,7 +717,7 @@
       "url": "https://open.spotify.com/track/4A7tYODnFfrS0mymGZOEMJ"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
@@ -677,7 +737,7 @@
       "url": "https://open.spotify.com/track/0HdrGJfHWYG5A0cNhiMDG4"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Red Bull 64 Bars, The Album",
         "url": "https://open.spotify.com/album/1UAkQ5bV8GvKrSMA4Vd1MV"
@@ -697,7 +757,7 @@
       "url": "https://open.spotify.com/track/6JPEGmxZ9pTBNDCyf4PMbf"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Fenice",
         "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
@@ -713,10 +773,10 @@
       "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
       },
       "artists": [
         {
@@ -726,10 +786,10 @@
       ],
       "duration_ms": 156714,
       "name": "BODY PARTS - I denti",
-      "url": "https://open.spotify.com/track/4hArX7vFWANuw0gCA1KG5k"
+      "url": "https://open.spotify.com/track/20Jv9Gx73P618C5rYt2Tmx"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Midnite (Deluxe Version)",
         "url": "https://open.spotify.com/album/1gjwWKqjQMhi5OvWG38ZEW"
@@ -745,7 +805,7 @@
       "url": "https://open.spotify.com/track/2YZkw3wc0uDMSOnJaIXykX"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
@@ -765,7 +825,7 @@
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
@@ -781,7 +841,7 @@
       "url": "https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
@@ -797,7 +857,7 @@
       "url": "https://open.spotify.com/track/2v4kWcQ7LWML8TEQmLDAEO"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Caos",
         "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
@@ -817,7 +877,7 @@
       "url": "https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Salvatore",
         "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
@@ -833,7 +893,7 @@
       "url": "https://open.spotify.com/track/4ThoVGWZoI3w0eKvKlWkej"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "MM Vol. 4",
         "url": "https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce"
@@ -853,7 +913,7 @@
       "url": "https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "QVC9 - QUELLO CHE VI CONSIGLIO VOL. 9",
         "url": "https://open.spotify.com/album/5lfSlorm20o9qN9YoDmwFe"
@@ -869,55 +929,7 @@
       "url": "https://open.spotify.com/track/3rR90ytwXhFCGXjbDzN7HI"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "FANTASMI (feat. Geolier & Marracash)",
-        "url": "https://open.spotify.com/album/4SyvX5syFVUmPvC8yS9KPw"
-      },
-      "artists": [
-        {
-          "name": "TY1",
-          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "FANTASMI (feat. Geolier & Marracash)",
-      "url": "https://open.spotify.com/track/3uNEz1wYbu8s34jKDVVhMs"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Fastlife 4",
-        "url": "https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Dj Harsh",
-          "url": "https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq"
-        },
-        {
-          "name": "Rasty Kilo",
-          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
-        }
-      ],
-      "duration_ms": 163214,
-      "name": "Italian Hustler (feat. Rasty Kilo)",
-      "url": "https://open.spotify.com/track/7us2M1m8cXkpHMBbEgFAiH"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
@@ -945,7 +957,7 @@
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Keta Music, Vol. 3",
         "url": "https://open.spotify.com/album/5XmLyPktaR9fYxYqtQukqa"
@@ -965,7 +977,7 @@
       "url": "https://open.spotify.com/track/4hqi818jHZUJIbJ6OJllGI"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Fastlife 4",
         "url": "https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6"
@@ -989,43 +1001,7 @@
       "url": "https://open.spotify.com/track/596fQREtpVHWRl3xCmVhEM"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "BV3",
-        "url": "https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW"
-      },
-      "artists": [
-        {
-          "name": "BLOODY VINYL",
-          "url": "https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU"
-        },
-        {
-          "name": "Slait",
-          "url": "https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w"
-        },
-        {
-          "name": "5019",
-          "url": "https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        },
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "WEEKEND (feat. Lazza, Madame & Massimo Pericolo)",
-      "url": "https://open.spotify.com/track/6xOC20CkoRKAwGWh32nPHL"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "VIRUS",
         "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
@@ -1047,6 +1023,30 @@
       "duration_ms": 203544,
       "name": "WELCOME BACK (feat. Raekwon)",
       "url": "https://open.spotify.com/track/5E0PcREYdAn70xQPylf76v"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "FANTASMI (feat. Geolier & Marracash)",
+        "url": "https://open.spotify.com/album/4SyvX5syFVUmPvC8yS9KPw"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "FANTASMI (feat. Geolier & Marracash)",
+      "url": "https://open.spotify.com/track/3uNEz1wYbu8s34jKDVVhMs"
     }
   ],
   "unique_name": "Liricisti",

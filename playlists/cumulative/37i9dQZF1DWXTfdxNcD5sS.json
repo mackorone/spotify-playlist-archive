@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-13",
   "description": "We found dancing. Listen to a selection from <a href=\"https://www.thewarehouseproject.com/ticketlist\">The Warehouse Project</a> to celebrate their return to Manchester this month!",
   "name": "Return to the Rave",
-  "published_playlist_ids": [
-    "35TmqE1z8EnbA23NNKAylV"
-  ],
   "tracks": [
     {
       "album": {
@@ -729,7 +726,7 @@
     {
       "album": {
         "name": "Cold Spring Fault Less Youth",
-        "url": "https://open.spotify.com/album/6ETAoJJ5NhxsGyD53cHApT"
+        "url": "https://open.spotify.com/album/4jaLRarRRCScr5v6Y6vUQu"
       },
       "artists": [
         {
@@ -740,6 +737,24 @@
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 286760,
+      "name": "Made To Stray",
+      "url": "https://open.spotify.com/track/0BVdNCqYq6offkjRGKVRDB"
+    },
+    {
+      "album": {
+        "name": "Cold Spring Fault Less Youth",
+        "url": "https://open.spotify.com/album/6ETAoJJ5NhxsGyD53cHApT"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 286760,
       "name": "Made To Stray",
       "url": "https://open.spotify.com/track/7M0GDtHcuJrTMWtnSs48I3"

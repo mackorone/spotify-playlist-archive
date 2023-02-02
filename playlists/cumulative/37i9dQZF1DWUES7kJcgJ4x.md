@@ -4,12 +4,13 @@
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-73 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/3OPMOOpls4yZsAtS22bOXv)
+75 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ahora Te Puedes Marchar \- Remastered](https://open.spotify.com/track/4xfF88HtFcohZYbuNUl2Ag) | [Lita Torelló](https://open.spotify.com/artist/220JuDukvxjcVJeEC1o3mx) | [Grandes Éxitos \(Remastered\)](https://open.spotify.com/album/6M4RDtWU6nyWwo2EG7aSkv) | 2:40 | 2021-01-18 |  |
-| [Boogaloo Smith](https://open.spotify.com/track/1CYfqpy4TmfTBSZSll6Vhq) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Blow Up presents Exclusive Blend Volume 1](https://open.spotify.com/album/4cZe6XeALxQjhc2Mh778Sg) | 1:36 | 2021-01-18 |  |
+| [Boogaloo Smith](https://open.spotify.com/track/1CYfqpy4TmfTBSZSll6Vhq) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Blow Up presents Exclusive Blend Volume 1](https://open.spotify.com/album/4cZe6XeALxQjhc2Mh778Sg) | 1:36 | 2021-01-18 | 2022-12-01 |
+| [Boogaloo Smith](https://open.spotify.com/track/69d3Gm32wJVEIjzR554yvM) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Kpm 1000 Series: Progressive Pop](https://open.spotify.com/album/7GVgvor1nx7BAu9XA1mvie) | 1:38 | 2021-01-18 |  |
 | [Bule Bule](https://open.spotify.com/track/7qTjlRierxmSVcdKDVAgya) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 2:33 | 2021-01-18 |  |
 | [Bule, bule](https://open.spotify.com/track/1e5fCFpVSLlpDvUBv8U9zd) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX) | 2:33 | 2021-01-18 | 2022-07-29 |
 | [Cerca de ti \- 2015 Remastered Version](https://open.spotify.com/track/3E03E8hqTwUBmkNcWqnC19) | [Las Chic](https://open.spotify.com/artist/17V3HR9eBXClxwY2oS0Foj) | [Bailando el chic \(Remasterizado 2015\)](https://open.spotify.com/album/3PoBHm7Eh5S0MAY42odJ3T) | 2:30 | 2021-01-18 |  |
@@ -47,8 +48,9 @@
 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/7d3cKDG22Ig9kZOS1qsq3S) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/1y0oTN8oxJPyY06ypQBDFv) | 3:00 | 2021-01-18 | 2022-07-29 |
 | [Ponte Bajo El Sol](https://open.spotify.com/track/0kgPPgFb0CVixXeBfpT2TG) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [Elia Y Elizabeth](https://open.spotify.com/album/45nLucXUnWdmEMbACW2FH0) | 2:05 | 2021-01-18 |  |
 | [Ponte Bajo el Sol](https://open.spotify.com/track/5wXoMLwfBQiUrz5lRLFv6X) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [Elia y Elizabeth](https://open.spotify.com/album/2KhUgSOmxMXBwzh0qBEEBq) | 2:05 | 2021-01-18 | 2022-07-29 |
-| [Pourquoi Pas Moi](https://open.spotify.com/track/0RFsDi50UvBCQ3wXfVSX3e) | [Stella](https://open.spotify.com/artist/7Lk2r9LREc8YClqXo3jLHE) | [Swinging Mademoiselles](https://open.spotify.com/album/72ZmILGzTCFoPZCGcRvmze) | 2:53 | 2021-01-18 |  |
+| [Pourquoi Pas Moi](https://open.spotify.com/track/0RFsDi50UvBCQ3wXfVSX3e) | [Stella](https://open.spotify.com/artist/7Lk2r9LREc8YClqXo3jLHE) | [Swinging Mademoiselles](https://open.spotify.com/album/72ZmILGzTCFoPZCGcRvmze) | 2:53 | 2021-01-18 | 2022-12-04 |
 | [Pourquoi Pas Moi](https://open.spotify.com/track/40PaVbkEZY0sz6m4P4NdfH) | [Stella](https://open.spotify.com/artist/0ZPDnYMSbQCDhIZ3KTkhTA) | [Swinging Mademoiselles](https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb) | 2:53 | 2021-01-18 | 2022-07-29 |
+| [Pourquoi Pas Moi](https://open.spotify.com/track/4k1Ijlm5OZ3lQ46QsZg0DQ) | [Stella](https://open.spotify.com/artist/002oyMRzxTzEsBRLzACi8d) | [Swinging Mademoiselles \- Groovy French Sounds from the 60s](https://open.spotify.com/album/02JILwWQUcZ0MILSOIy6BO) | 2:53 | 2021-01-18 |  |
 | [Profesor](https://open.spotify.com/track/5JZSW0sHsLPoEPye1jQc4A) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 1:51 | 2021-01-18 |  |
 | [Quiero Quedarme Aquí \- Remastered](https://open.spotify.com/track/1NV2n81StzrL8svv01aZaA) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [My Best \(Remastered\)](https://open.spotify.com/album/4NmjPjTRWoQa33BLUyYPv5) | 2:18 | 2021-01-18 |  |
 | [Roller Girl](https://open.spotify.com/track/7fxZpBlviGbIQ3MdWr2Nch) | [Anna Karina](https://open.spotify.com/artist/5Hdnj4ih6VtuvwwNFUAMEC) | [BOF Anna](https://open.spotify.com/album/7lamDMJGneBZtJBtfwas9v) | 2:23 | 2021-01-18 |  |

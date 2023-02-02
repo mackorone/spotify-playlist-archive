@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6\">Stephen Wrabel</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Stephen Wrabel",
-  "published_playlist_ids": [
-    "5LKBTI9ficKXN3RtoxJvCN"
-  ],
   "tracks": [
     {
       "album": {
@@ -656,6 +653,28 @@
     },
     {
       "album": {
+        "name": "Everything I Didn\u2019t Say And More",
+        "url": "https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Roger Sanchez",
+          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182276,
+      "name": "Dream On Me",
+      "url": "https://open.spotify.com/track/1dCpERd2GVVFbKuOpJjgPm"
+    },
+    {
+      "album": {
         "name": "Dream On Me",
         "url": "https://open.spotify.com/album/6YR3EVz9Cd981Vss9jl3AN"
       },
@@ -671,7 +690,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 182276,
       "name": "Dream On Me",
       "url": "https://open.spotify.com/track/6vHE5zEPYdb0HUKRaIQ6tI"

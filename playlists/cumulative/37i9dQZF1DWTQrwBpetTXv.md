@@ -4,7 +4,7 @@
 
 > The powerful women of country\. Cover: Dolly Parton \#SpotifyTBT
 
-70 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/2OjM6MeO4UXdviWrmJqIJb)
+70 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

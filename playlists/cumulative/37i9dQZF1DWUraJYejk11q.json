@@ -2,10 +2,25 @@
   "date_first_scraped": "2021-12-21",
   "description": "Instrumental bliss beyond genre classification.",
   "name": "Genre Glitch",
-  "published_playlist_ids": [
-    "0oD5iC51KNsAwsn7m40tDg"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "17\u00b0C",
+        "url": "https://open.spotify.com/album/1HuXrTydaxznPxtVZMnnRc"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242142,
+      "name": "17\u00b0C",
+      "url": "https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI"
+    },
     {
       "album": {
         "name": "Sons Of",
@@ -215,7 +230,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 113073,
       "name": "ANTIGRAVITY",
       "url": "https://open.spotify.com/track/1lSG3Ge7N03xw9HPaYOjSR"
@@ -241,6 +256,24 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "album": {
+        "name": "Arcadian Daze",
+        "url": "https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196222,
+      "name": "Arcadian Daze",
+      "url": "https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc"
     },
     {
       "album": {
@@ -317,7 +350,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 291400,
       "name": "bda creature",
       "url": "https://open.spotify.com/track/6dnZv0EmSwCoBq91rFK0IH"
@@ -499,10 +532,28 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 186624,
       "name": "C.A.",
       "url": "https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803"
+    },
+    {
+      "album": {
+        "name": "Feorm Falorx",
+        "url": "https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186624,
+      "name": "C.A.",
+      "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
     },
     {
       "album": {
@@ -987,7 +1038,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 179067,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/49eccJME4fYJnOwCmJMXfV"
@@ -1322,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "Capricorn Sun",
+        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Mafro",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203751,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/07mOlP1DQv1ZsQTyCMNzaW"
+    },
+    {
+      "album": {
         "name": "Go (Otik Remix)",
         "url": "https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI"
       },
@@ -1373,7 +1446,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 461538,
       "name": "Grammar",
       "url": "https://open.spotify.com/track/6GwRMUJIwhTQArxvhoW4wc"
@@ -1470,6 +1543,50 @@
     },
     {
       "album": {
+        "name": "Hondo (Remix)",
+        "url": "https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Techno Para Dos",
+          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
+        },
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321210,
+      "name": "Hondo (Remix)",
+      "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
+    },
+    {
+      "album": {
+        "name": "Hoss It",
+        "url": "https://open.spotify.com/album/43doBm5V6NmyB2jB7kA0d8"
+      },
+      "artists": [
+        {
+          "name": "96 Back",
+          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357131,
+      "name": "Hoss It",
+      "url": "https://open.spotify.com/track/2KvwQPtFlShXLTEWJreQqx"
+    },
+    {
+      "album": {
         "name": "Pax Americana",
         "url": "https://open.spotify.com/album/4W9uEaPGOsTcTRCUX6rYcs"
       },
@@ -1503,6 +1620,32 @@
       "duration_ms": 168538,
       "name": "In Her Wilderness Is My Shelter",
       "url": "https://open.spotify.com/track/4cn8oie7fH8IP8QU39vlp4"
+    },
+    {
+      "album": {
+        "name": "Dreamy Hamilton (Remixes)",
+        "url": "https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        },
+        {
+          "name": "Subxet",
+          "url": "https://open.spotify.com/artist/5dxUiR8ZvHWBoMS1iRdDey"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287582,
+      "name": "In Your Head - Subxet Remix",
+      "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
     },
     {
       "album": {
@@ -1578,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "ITSAME",
+        "url": "https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461613,
+      "name": "ITSAME [group hugg]",
+      "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
+    },
+    {
+      "album": {
         "name": "Jord\u00e3o",
         "url": "https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi"
       },
@@ -1614,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
+    },
+    {
+      "album": {
         "name": "Junkyard",
         "url": "https://open.spotify.com/album/1kcSDURv7MX0D939GVGbNE"
       },
@@ -1629,6 +1808,24 @@
       "duration_ms": 213818,
       "name": "Junkyard",
       "url": "https://open.spotify.com/track/0e6DNQUhI8lQKxmpY3sgA3"
+    },
+    {
+      "album": {
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213437,
+      "name": "Just To Hear You Say",
+      "url": "https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs"
     },
     {
       "album": {
@@ -2024,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Nannou (Mixed)",
+        "url": "https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Nannou - Mixed",
+      "url": "https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz"
+    },
+    {
+      "album": {
         "name": "Nervelevers",
         "url": "https://open.spotify.com/album/0jYSsZrP7JZhn6XmYL8gVb"
       },
@@ -2093,7 +2308,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 181366,
       "name": "Oneness",
       "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"
@@ -2223,7 +2438,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 506839,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/0TPY4iasJqaFv74wa1FOZG"
@@ -2266,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
+    },
+    {
+      "album": {
         "name": "Planta Dance",
         "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
       },
@@ -2295,7 +2528,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 277239,
       "name": "Problems",
       "url": "https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx"
@@ -2367,7 +2600,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 216000,
       "name": "Puppy - Feel The Beat Mix",
       "url": "https://open.spotify.com/track/5TLfNLsPBWYZ3PkSkkb5To"
@@ -2497,7 +2730,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 480253,
       "name": "Scythe Master",
       "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
@@ -2831,7 +3064,7 @@
     {
       "album": {
         "name": "The Vaulting Sky",
-        "url": "https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje"
+        "url": "https://open.spotify.com/album/7cIG9K4xeMOyVvERgvXp7p"
       },
       "artists": [
         {
@@ -2846,6 +3079,28 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 333279,
+      "name": "Static Doesn't Exist - Kode9 Remix",
+      "url": "https://open.spotify.com/track/3IdJryu6er21ItpGwZtl3R"
+    },
+    {
+      "album": {
+        "name": "The Vaulting Sky",
+        "url": "https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje"
+      },
+      "artists": [
+        {
+          "name": "Eli Keszler",
+          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
+        },
+        {
+          "name": "Kode9",
+          "url": "https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 333279,
       "name": "Static Doesn't Exist - Kode9 Remix",
       "url": "https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I"
@@ -2961,7 +3216,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 382487,
       "name": "Sweat Sonic",
       "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
@@ -3033,7 +3288,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 222620,
       "name": "Tapestry - Edit",
       "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
@@ -3307,6 +3562,24 @@
       "duration_ms": 273375,
       "name": "Understanding the Possibility",
       "url": "https://open.spotify.com/track/6IjuLWPRLmCYsfZIajtALJ"
+    },
+    {
+      "album": {
+        "name": "Forest Theory",
+        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Bamboo",
+          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231648,
+      "name": "Universal Sound",
+      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
     },
     {
       "album": {
@@ -3613,7 +3886,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 221632,
       "name": "Xid",
       "url": "https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2"

@@ -4,7 +4,7 @@
 
 > Some incredible music to celebrate our culture this month and every month!
 
-41 songs - 2 hr 22 min - [published](https://open.spotify.com/playlist/6yiiI1yZ72uG8pgql6Tj5D)
+41 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

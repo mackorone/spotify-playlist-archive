@@ -4,7 +4,7 @@
 
 > Lou Reed, the essential tracks, all in one playlist.
 
-50 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/6MORC1pKx3p9a0MIGkpurW)
+50 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

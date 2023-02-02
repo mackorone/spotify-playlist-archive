@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Hit the road to the soundtrack of these seventies classics.",
   "name": "70s Road Trip",
-  "published_playlist_ids": [
-    "1G4piBuXasSgedzOMD6dKo"
-  ],
   "tracks": [
     {
       "album": {
@@ -783,7 +780,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 367000,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
@@ -1006,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357041,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
+    },
+    {
+      "album": {
         "name": "Jackson Browne (Saturate Before Using)",
         "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
       },
@@ -1161,7 +1176,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 237466,
       "name": "Drift Away - Single Version",
       "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
@@ -1503,7 +1518,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 255133,
       "name": "Got To Give It Up - Pt. 1",
       "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
@@ -1521,7 +1536,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
@@ -1719,7 +1734,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-27",
       "duration_ms": 180280,
       "name": "I Saw the Light - 2015 Remaster",
       "url": "https://open.spotify.com/track/5uRkew0DtfAQmv0oEYNwFF"
@@ -2339,7 +2354,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-24",
       "duration_ms": 221613,
       "name": "Lido Shuffle",
       "url": "https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F"
@@ -2793,7 +2808,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-15",
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
@@ -3448,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277467,
+      "name": "Reelin' In The Years",
+      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
+    },
+    {
+      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -3484,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "Sleeper Catcher (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257868,
+      "name": "Reminiscing - Remastered 2022",
+      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "album": {
         "name": "The Essential Daryl Hall & John Oates",
         "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
@@ -3513,7 +3564,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
@@ -3693,7 +3744,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 243266,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/6BD1X1PeV5UzYUdiVaD2yL"
@@ -4079,7 +4130,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -4090,6 +4141,24 @@
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
@@ -4143,7 +4212,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 289893,
       "name": "Takin' Care Of Business",
       "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"

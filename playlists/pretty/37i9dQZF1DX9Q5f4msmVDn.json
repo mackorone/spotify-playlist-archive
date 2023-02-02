@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 2310,
+  "num_followers": 5158,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDk4ZjFhMTQyYWVjMWYxZTcyZDU4NzMzN2QyNTE5ZWM2",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDdlN2ZhNGM4YWMxNDlkNDg0OWQzNzlhYzU5OTM1ODRk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -23,26 +23,6 @@
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 351946,
-      "name": "Devil In A New Dress",
-      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -67,6 +47,26 @@
       "duration_ms": 218801,
       "name": "m y . l i f e (with 21 Savage & Morray)",
       "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 351946,
+      "name": "Devil In A New Dress",
+      "url": "https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 180930,
-      "name": "Wockesha",
-      "url": "https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -175,18 +159,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 262680,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2"
+      "duration_ms": 180930,
+      "name": "Wockesha",
+      "url": "https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -211,18 +195,42 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
+      "duration_ms": 262680,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "duration_ms": 361280,
+      "name": "Double Up (feat. Belly and Dom Kennedy)",
+      "url": "https://open.spotify.com/track/4iVD0fTHGxV9JWloujsL3s"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -263,26 +271,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
       },
       "artists": [
         {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "Belly",
-          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
-        },
-        {
-          "name": "Dom Kennedy",
-          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 361280,
-      "name": "Double Up (feat. Belly and Dom Kennedy)",
-      "url": "https://open.spotify.com/track/4iVD0fTHGxV9JWloujsL3s"
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 93799,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 203588,
       "name": "RISE! (feat. DAISY WORLD)",
       "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 93799,
-      "name": "Lick Back",
-      "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "No Love Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Dom Kennedy",
-          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "Got It All",
-      "url": "https://open.spotify.com/track/5sHVIQEzTg8qcEstqlIig1"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Just For Me (Space Jam: A New Legacy)",
         "url": "https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 217394,
       "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
       "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "No Love Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "Got It All",
+      "url": "https://open.spotify.com/track/5sHVIQEzTg8qcEstqlIig1"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
+        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Judas and the Black Messiah",
+          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
+        }
+      ],
+      "duration_ms": 270710,
+      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
+      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Evolution Of Gospel",
         "url": "https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp"
       },
@@ -635,58 +655,6 @@
       "duration_ms": 202331,
       "name": "Lay Wit Ya (feat. Duke Deuce)",
       "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
-        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Judas and the Black Messiah",
-          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
-        }
-      ],
-      "duration_ms": 270710,
-      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
-      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "TwoFr 2",
-        "url": "https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Scoring",
-      "url": "https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Shhh",
-        "url": "https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 139029,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -727,22 +695,34 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "We Win (Space Jam: A New Legacy)",
-        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
         }
       ],
-      "duration_ms": 194999,
-      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
-      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
+      "duration_ms": 139029,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "TwoFr 2",
+        "url": "https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Scoring",
+      "url": "https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -763,38 +743,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Greatest Slow Jams",
-        "url": "https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG"
+        "name": "We Win (Space Jam: A New Legacy)",
+        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
       },
       "artists": [
         {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 431133,
-      "name": "Happy Feelin's",
-      "url": "https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 135862,
-      "name": "Pump Up The Jam",
-      "url": "https://open.spotify.com/track/2aUQpQBZF5KjfGHffx2oFo"
+      "duration_ms": 194999,
+      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -819,6 +783,58 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 135862,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/2aUQpQBZF5KjfGHffx2oFo"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Greatest Slow Jams",
+        "url": "https://open.spotify.com/album/5bnLsmE5xb2EzTbq7JMoeG"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 431133,
+      "name": "Happy Feelin's",
+      "url": "https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 261373,
+      "name": "I Don't Stress",
+      "url": "https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "DAMN. COLLECTORS EDITION.",
         "url": "https://open.spotify.com/album/4alcGHjstaALJHHiljfy3H"
       },
@@ -831,6 +847,26 @@
       "duration_ms": 460573,
       "name": "FEAR.",
       "url": "https://open.spotify.com/track/28J8MZFrSMvd5gWxAGRBq1"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "gold fronts (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 235978,
+      "name": "gold fronts (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -867,66 +903,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
       "artists": [
         {
-          "name": "Dame D.O.L.L.A",
-          "url": "https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "OG DAYV",
-          "url": "https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 191067,
-      "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
-      "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 261373,
-      "name": "I Don't Stress",
-      "url": "https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "gold fronts (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 235978,
-      "name": "gold fronts (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
+      "duration_ms": 398906,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/6eGRWLRQtT7pX6iXPpFiYk"
     },
     {
       "added_at": "2022-10-01 16:00:00",

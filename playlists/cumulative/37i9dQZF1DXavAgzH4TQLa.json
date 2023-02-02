@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Dale play, y que la cumbia no pare.",
   "name": "Enganchados: Cumbianchas",
-  "published_playlist_ids": [
-    "2y545i6tNIFno1inE4nhPc"
-  ],
   "tracks": [
     {
       "album": {
@@ -801,7 +798,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 201346,
       "name": "La pata sucia",
       "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
@@ -1325,7 +1322,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 258666,
       "name": "Otra Como T\u00fa",
       "url": "https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf"
@@ -1437,6 +1434,24 @@
       "duration_ms": 233613,
       "name": "Porque te Amo",
       "url": "https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR"
+    },
+    {
+      "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
     },
     {
       "album": {
@@ -1689,7 +1704,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 494464,
       "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
       "url": "https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl"

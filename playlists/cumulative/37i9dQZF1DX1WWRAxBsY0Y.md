@@ -4,7 +4,7 @@
 
 > Sometimes people assume that stoner music is just reggae, hip hop, or psychedelic rock\. Experience the rest of it with these stoner tracks for everybody.
 
-50 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/3q7EUtb1ZT1kFaQTPjOnd9)
+50 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
   "name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
-  "published_playlist_ids": [
-    "1BjnPhemiZQgRsPsVy0WZP"
-  ],
   "tracks": [
     {
       "album": {
@@ -549,7 +546,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Dimly",
       "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
@@ -575,6 +572,24 @@
       "duration_ms": 191191,
       "name": "Distance (Feat. I.M of MONSTA X)",
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
+    },
+    {
+      "album": {
+        "name": "Again,Star #01",
+        "url": "https://open.spotify.com/album/22kTojFqWSb9RMyiFLL5YQ"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 178053,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/4WgAxRROt1CI5sh3qqh2mP"
     },
     {
       "album": {
@@ -719,7 +734,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2023-01-13",
       "duration_ms": 252144,
       "name": "Empty words",
       "url": "https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg"
@@ -943,7 +958,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 210581,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR"
@@ -1257,7 +1272,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 224280,
       "name": "How Can I Live Without You",
       "url": "https://open.spotify.com/track/2WU6qcQohr7YTygqaE1A0J"
@@ -2055,7 +2070,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 230733,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/1axSh8e8I2eSYLBt4nrgYn"
@@ -2217,7 +2232,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 282118,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
@@ -2629,6 +2644,24 @@
       "duration_ms": 151900,
       "name": "Photo album",
       "url": "https://open.spotify.com/track/66ah8lyaZrf7Yol7iuf5D0"
+    },
+    {
+      "album": {
+        "name": "No movie series : A bar with emotions OST",
+        "url": "https://open.spotify.com/album/1H8366LTpwjsZxJoxZY25J"
+      },
+      "artists": [
+        {
+          "name": "Ryu Su Jeong",
+          "url": "https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183986,
+      "name": "Recognize you",
+      "url": "https://open.spotify.com/track/029L3sB2fP83DrLHiebVnq"
     },
     {
       "album": {
@@ -3186,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "The last stop of our pain",
+        "url": "https://open.spotify.com/album/1738g3cEdlEp8BantdCSOC"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "The last stop of our pain",
+      "url": "https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS"
+    },
+    {
+      "album": {
         "name": "Youth Library EP.7",
         "url": "https://open.spotify.com/album/0TfiyUqKOxNm3ysgBEzc2r"
       },
@@ -3277,7 +3328,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-07",
       "duration_ms": 193280,
       "name": "The Walking Dead (Feat. Kim Feel)",
       "url": "https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ"
@@ -3447,6 +3498,24 @@
       "duration_ms": 226586,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/1DIcwjXEd7kmzVpxqWBK5J"
+    },
+    {
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "album": {
@@ -3735,7 +3804,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 258872,
       "name": "\uc81c\ubc1c",
       "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
@@ -3807,7 +3876,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 200974,
       "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
       "url": "https://open.spotify.com/track/04N4Wfxd7nB3dLV2amKdc0"

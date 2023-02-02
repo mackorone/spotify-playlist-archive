@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Escape with these melodic liquid drum & bass beats. (photo from Hubble Space Project)",
   "name": "Chilled Drum & Bass",
-  "published_playlist_ids": [
-    "6BSFLLUjSk6q46lz8mcc2D"
-  ],
   "tracks": [
     {
       "album": {
@@ -209,10 +206,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": "2023-01-26",
       "duration_ms": 353013,
       "name": "Aurora Boreale",
       "url": "https://open.spotify.com/track/4VBf5R5BJ59b83Wn5vEMry"
+    },
+    {
+      "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/1lmWypxn13NRgFaoaHR9sx"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278117,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/0DtH5GJhj04tLmZXgBbZmP"
     },
     {
       "album": {
@@ -347,7 +362,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 287121,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6G8sFs8Nw2yQ6zHLmSSb7r"
@@ -409,7 +424,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 299166,
       "name": "Blank Pages",
       "url": "https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE"
@@ -672,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/6Y2buQxwS8cV1vg0w77AHU"
       },
@@ -781,7 +814,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 291890,
       "name": "Farore",
       "url": "https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR"
@@ -1047,7 +1080,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-01-16",
       "duration_ms": 262400,
       "name": "Home",
       "url": "https://open.spotify.com/track/7tWBeveDtYJ1UcPlHqwHTi"
@@ -1394,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Love Me, Haunt Me",
+        "url": "https://open.spotify.com/album/4ns9URhZwLURgevUkZhxye"
+      },
+      "artists": [
+        {
+          "name": "Mitekiss",
+          "url": "https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249975,
+      "name": "Love Me, Haunt Me",
+      "url": "https://open.spotify.com/track/0y1nYb8VBwGNy8WfDZs2iQ"
+    },
+    {
+      "album": {
         "name": "Midnight Caller",
         "url": "https://open.spotify.com/album/0Da4n9pDU78E3mU3f9tp6H"
       },
@@ -1449,7 +1500,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 236609,
       "name": "Nautic",
       "url": "https://open.spotify.com/track/3Pevs0j3N02qNVFSqyyz0L"
@@ -1529,7 +1580,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 274761,
       "name": "Only You",
       "url": "https://open.spotify.com/track/14wbsRn4dzYtLE4QVhI0qB"
@@ -1759,7 +1810,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-26",
       "duration_ms": 241835,
       "name": "Save Me From You",
       "url": "https://open.spotify.com/track/0JaNMkK1xIuC10SEOqwLT0"
@@ -1851,7 +1902,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 277188,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/11jALbqbvABzPKe44hM5KS"
@@ -1873,6 +1924,24 @@
       "duration_ms": 462246,
       "name": "Slowburn Storms",
       "url": "https://open.spotify.com/track/4pSefaBriZ70qtMlIFMtHH"
+    },
+    {
+      "album": {
+        "name": "Love Me, Haunt Me / Smashed Lies",
+        "url": "https://open.spotify.com/album/58TNPOAoE9KZ5XJPISGKPq"
+      },
+      "artists": [
+        {
+          "name": "Mitekiss",
+          "url": "https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248064,
+      "name": "Smashed Lies",
+      "url": "https://open.spotify.com/track/6S5XgvlxcMQtZj1xFQVdc8"
     },
     {
       "album": {

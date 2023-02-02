@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-22",
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
   "name": "Rock en tu Idioma",
-  "published_playlist_ids": [
-    "7sQIHN2Vqyt3FA4Krnqe3i"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 337840,
       "name": "A Cara o Cruz",
       "url": "https://open.spotify.com/track/6gyagQouotKjEoGQVi1e7d"
@@ -541,7 +538,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 156946,
       "name": "El Microbito",
       "url": "https://open.spotify.com/track/0wTrY23ot5A0aog0JNzXLS"
@@ -613,7 +610,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 305093,
       "name": "Encuentro en el R\u00edo",
       "url": "https://open.spotify.com/track/3282skqQXz0H4vWm3SYWGB"
@@ -1182,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Rock en Espa\u00f1ol 80's & 90's",
+        "url": "https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po"
+    },
+    {
+      "album": {
         "name": "Puro Rock (CD1)",
         "url": "https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs"
       },
@@ -1607,10 +1622,46 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 237626,
       "name": "Vistete",
       "url": "https://open.spotify.com/track/5ZrtHP3Kzdgw8tzELrmKqA"
+    },
+    {
+      "album": {
+        "name": "Viviendo de Noche",
+        "url": "https://open.spotify.com/album/2Oo8AfNU3dyQPi8tNHbSoU"
+      },
+      "artists": [
+        {
+          "name": "Veni Vidi Vici",
+          "url": "https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246060,
+      "name": "Viviendo de Noche",
+      "url": "https://open.spotify.com/track/5TmobGkcbz4oYhtvPcmTDF"
+    },
+    {
+      "album": {
+        "name": "Alea jacta Est",
+        "url": "https://open.spotify.com/album/7MzeSXRqeCKbIoK6z7tlPU"
+      },
+      "artists": [
+        {
+          "name": "Veni Vidi Vici",
+          "url": "https://open.spotify.com/artist/2qdrohstXuwGZQa5seQbUe"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 246760,
+      "name": "Viviendo de Noche",
+      "url": "https://open.spotify.com/track/2l1T12GhInqob4OLpTe25F"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Explore the evolution of eternal folk songs through some of their essential adaptations – from field recordings to recent releases\. Follow for new additions and song cycles!
 
-58 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/7aj8Vu1TwbNHnPURQxFezP)
+58 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 28306,
+  "num_followers": 30495,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMDgyZTdjZjg2YmNiNjE0MGNjZjJmZmY1MThmMWQyYzQ2",
+  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMGU4ZjUzMDdjZDE0ZDMxYTkyMWE2Y2Y4NTVmNjlkZWI5",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
-        "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
-      },
-      "artists": [
-        {
-          "name": "Mighty Panther",
-          "url": "https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Barbados Carnival",
-      "url": "https://open.spotify.com/track/6VImP09GCjqLbOLY3S9S0z"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Man Smart, Woman Smarter (Remastered)",
         "url": "https://open.spotify.com/album/7ueOZmQbgjo5U1wRn4gUAs"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 154386,
       "name": "Man Smart, Woman Smarter",
       "url": "https://open.spotify.com/track/5bjWqqJdM85zPvVHnXlEui"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
+        "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
+      },
+      "artists": [
+        {
+          "name": "Mighty Panther",
+          "url": "https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Barbados Carnival",
+      "url": "https://open.spotify.com/track/6VImP09GCjqLbOLY3S9S0z"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -127,6 +127,22 @@
       "duration_ms": 179026,
       "name": "The Weed (Man Pyabba)",
       "url": "https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
+        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
+      },
+      "artists": [
+        {
+          "name": "Calypso Mama",
+          "url": "https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy"
+        }
+      ],
+      "duration_ms": 134562,
+      "name": "Don't Touch Me Tomato",
+      "url": "https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -167,38 +183,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
-        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
-      },
-      "artists": [
-        {
-          "name": "Calypso Mama",
-          "url": "https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy"
-        }
-      ],
-      "duration_ms": 134562,
-      "name": "Don't Touch Me Tomato",
-      "url": "https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l"
-      },
-      "artists": [
-        {
-          "name": "Lord Invader",
-          "url": "https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Brown Skin Girl",
-      "url": "https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Forever Vol.1",
         "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
       },
@@ -215,22 +199,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Calypso Way",
-        "url": "https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR"
-      },
-      "artists": [
-        {
-          "name": "Wilmoth Houdini",
-          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Poor but Ambitious",
-      "url": "https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso Awakening from the Emory Cook Collection",
         "url": "https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj"
       },
@@ -243,22 +211,6 @@
       "duration_ms": 208653,
       "name": "Taxi Driver",
       "url": "https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Lord Melody Sings Calypso",
-        "url": "https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e"
-      },
-      "artists": [
-        {
-          "name": "Lord Melody",
-          "url": "https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Carnival Proclamation",
-      "url": "https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -295,6 +247,70 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l"
+      },
+      "artists": [
+        {
+          "name": "Lord Invader",
+          "url": "https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Brown Skin Girl",
+      "url": "https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Lord Melody Sings Calypso",
+        "url": "https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e"
+      },
+      "artists": [
+        {
+          "name": "Lord Melody",
+          "url": "https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Carnival Proclamation",
+      "url": "https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "The Calypso Way",
+        "url": "https://open.spotify.com/album/3qLnHdkHnsJlg3YRA9xeWR"
+      },
+      "artists": [
+        {
+          "name": "Wilmoth Houdini",
+          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Poor but Ambitious",
+      "url": "https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Best Music of Trinidad - Calypso and Parang Classics",
+        "url": "https://open.spotify.com/album/3u1bMFaNp9WynOabZhGHRz"
+      },
+      "artists": [
+        {
+          "name": "King Radio",
+          "url": "https://open.spotify.com/artist/68qRklewuFhi50agtf76un"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Mathilda",
+      "url": "https://open.spotify.com/track/2KjKS6eGlwLqY9R2qPcDo6"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Best Music of Trinidad - Calypso and Parang Classics",
-        "url": "https://open.spotify.com/album/3u1bMFaNp9WynOabZhGHRz"
-      },
-      "artists": [
-        {
-          "name": "King Radio",
-          "url": "https://open.spotify.com/artist/68qRklewuFhi50agtf76un"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Mathilda",
-      "url": "https://open.spotify.com/track/2KjKS6eGlwLqY9R2qPcDo6"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
         "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
       },
@@ -355,38 +355,6 @@
       "duration_ms": 174325,
       "name": "Bamboo Dance",
       "url": "https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
-        "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
-      },
-      "artists": [
-        {
-          "name": "Mighty Panther",
-          "url": "https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG"
-        }
-      ],
-      "duration_ms": 149093,
-      "name": "Mister Give Me de Rent",
-      "url": "https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
-        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
-      },
-      "artists": [
-        {
-          "name": "John L. Nichols",
-          "url": "https://open.spotify.com/artist/4v5ivzSlS5RaolIHZlKnXc"
-        }
-      ],
-      "duration_ms": 205144,
-      "name": "Meshuggener",
-      "url": "https://open.spotify.com/track/48oVuKnl8R6gH5CEjB5qVN"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -407,6 +375,54 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
+        "name": "Man Smart, Woman Smarter",
+        "url": "https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa"
+      },
+      "artists": [
+        {
+          "name": "King Radio",
+          "url": "https://open.spotify.com/artist/68qRklewuFhi50agtf76un"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "Man Smart, Woman Smarter",
+      "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
+        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
+      },
+      "artists": [
+        {
+          "name": "John L. Nichols",
+          "url": "https://open.spotify.com/artist/4v5ivzSlS5RaolIHZlKnXc"
+        }
+      ],
+      "duration_ms": 205144,
+      "name": "Meshuggener",
+      "url": "https://open.spotify.com/track/48oVuKnl8R6gH5CEjB5qVN"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypso Legends - Mighty Panther / Macbeth the Great (1953 - 1956)",
+        "url": "https://open.spotify.com/album/5NzKDh50xiq0chFaaekcUC"
+      },
+      "artists": [
+        {
+          "name": "Mighty Panther",
+          "url": "https://open.spotify.com/artist/5DORYfZoyjtG1gyqk2oCgG"
+        }
+      ],
+      "duration_ms": 149093,
+      "name": "Mister Give Me de Rent",
+      "url": "https://open.spotify.com/track/0TYdFe0dwxgZUOeBkeddxD"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
         "name": "The Man Who Never Ever Worried",
         "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 403800,
       "name": "Move Yuh Foot",
       "url": "https://open.spotify.com/track/5q2F1S4m2b85HpJOOl2KDQ"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Doctor Kitch",
-        "url": "https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa"
-      },
-      "artists": [
-        {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "No Melda",
-      "url": "https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -455,18 +455,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Man Smart, Woman Smarter",
-        "url": "https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa"
+        "name": "Doctor Kitch",
+        "url": "https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa"
       },
       "artists": [
         {
-          "name": "King Radio",
-          "url": "https://open.spotify.com/artist/68qRklewuFhi50agtf76un"
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
         }
       ],
-      "duration_ms": 183480,
-      "name": "Man Smart, Woman Smarter",
-      "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
+      "duration_ms": 155400,
+      "name": "No Melda",
+      "url": "https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Treasury Scandal",
-        "url": "https://open.spotify.com/album/1XG5O3FvLIRwSS91hF4SBN"
-      },
-      "artists": [
-        {
-          "name": "Attila the Hun",
-          "url": "https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Treasury Scandal",
-      "url": "https://open.spotify.com/track/7sgAXJK49YOj3LjsSs5I4L"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso Carnival (1914 - 1940)",
         "url": "https://open.spotify.com/album/1JVKJeE0ejC7lz0pnAnijm"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Power To The People - Protest Songs",
-        "url": "https://open.spotify.com/album/00hTfZK8Ul7xuSA87iB4Lw"
+        "name": "Treasury Scandal",
+        "url": "https://open.spotify.com/album/1XG5O3FvLIRwSS91hF4SBN"
       },
       "artists": [
         {
-          "name": "Sir Lancelot",
-          "url": "https://open.spotify.com/artist/35r4QU4IraKEsU0U0df0G6"
+          "name": "Attila the Hun",
+          "url": "https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG"
         }
       ],
-      "duration_ms": 164546,
-      "name": "Atomic Energy",
-      "url": "https://open.spotify.com/track/7oyKc3RgnMaSRgwNTLCDgE"
+      "duration_ms": 193733,
+      "name": "Treasury Scandal",
+      "url": "https://open.spotify.com/track/7sgAXJK49YOj3LjsSs5I4L"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -567,6 +551,22 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
+        "name": "The Roots of Trinidad Calypso / Recordings 1927 - 1931",
+        "url": "https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84"
+      },
+      "artists": [
+        {
+          "name": "The Growler",
+          "url": "https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "An Excursion to Grenada",
+      "url": "https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
         "name": "The Man Who Never Ever Worried",
         "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
       },
@@ -583,18 +583,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Roots of Trinidad Calypso / Recordings 1927 - 1931",
-        "url": "https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84"
+        "name": "Power To The People - Protest Songs",
+        "url": "https://open.spotify.com/album/00hTfZK8Ul7xuSA87iB4Lw"
       },
       "artists": [
         {
-          "name": "The Growler",
-          "url": "https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn"
+          "name": "Sir Lancelot",
+          "url": "https://open.spotify.com/artist/35r4QU4IraKEsU0U0df0G6"
         }
       ],
-      "duration_ms": 187880,
-      "name": "An Excursion to Grenada",
-      "url": "https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL"
+      "duration_ms": 164546,
+      "name": "Atomic Energy",
+      "url": "https://open.spotify.com/track/7oyKc3RgnMaSRgwNTLCDgE"
     },
     {
       "added_at": "2021-04-23 15:05:50",

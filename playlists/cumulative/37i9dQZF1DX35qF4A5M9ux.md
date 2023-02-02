@@ -4,7 +4,7 @@
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-238 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/6Q7TpOrWNfwV0Hlu2l7meq)
+239 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Calculadora](https://open.spotify.com/track/2P4onY7I6vpae0hw15SkAe) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [El Diablo de la Salsa](https://open.spotify.com/album/4lFzQHuobt31jHlY1JqAu4) | 5:21 | 2022-03-08 | 2022-11-13 |
 | [Cali Pachanguero](https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV) | 5:09 | 2022-03-08 | 2022-07-29 |
 | [Cali Pachanguero](https://open.spotify.com/track/1Z6fpTTJelPqdI4CwvnpK4) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:10 | 2022-03-08 | 2022-10-23 |
+| [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 | 2022-08-04 |  |
 | [Cara de Niño](https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 4:55 | 2021-12-20 |  |
 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 | 2021-12-20 |  |
 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 | 2021-12-20 |  |
@@ -66,7 +67,7 @@
 | [Detalles](https://open.spotify.com/track/4ZWksPVZdma0A5GiSCStIK) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 4:38 | 2021-12-20 | 2022-02-08 |
 | [Detalles](https://open.spotify.com/track/7aX3Fd6JbZml7Ico84IZoT) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [ICONIC \- Salsa](https://open.spotify.com/album/2OvvRjVN7gA7mSFcKJqqSz) | 4:38 | 2022-08-04 | 2022-11-13 |
 | [Devorame Otra Vez](https://open.spotify.com/track/5f18XsUS3ZsuiilRWzkPla) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Hits, Vol.1](https://open.spotify.com/album/2bbA92QOyasbJRtchOndvP) | 4:57 | 2021-12-20 | 2022-01-17 |
-| [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 | 2022-03-08 | 2022-11-14 |
+| [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 | 2022-03-08 |  |
 | [Dime Que Pasó](https://open.spotify.com/track/7LREr0CgIjRAqdxIE7aDwY) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:32 | 2022-08-04 | 2022-11-13 |
 | [Dime Qué Paso](https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:32 | 2021-12-20 | 2022-07-29 |
 | [Dímelo](https://open.spotify.com/track/0QqXnxupeSJDamWFXcFu2s) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Perseverancia](https://open.spotify.com/album/62msN0HBrJyODHUavOMyla) | 4:03 | 2021-12-20 | 2022-02-22 |
@@ -150,7 +151,7 @@
 | [Mía](https://open.spotify.com/track/6RCHqUodOWBkMBPiKYzJhP) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Pura Salsa](https://open.spotify.com/album/4SujA5rkKMrIX6VNNuHCPT) | 4:43 | 2021-12-20 | 2022-07-29 |
 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 | 2022-03-08 |  |
 | [No Podras Escapar De Mi](https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:31 | 2021-12-20 |  |
-| [No Quedó Ni el Gato](https://open.spotify.com/track/65DzY5Z3IE6BYprjXGu3Fu) | [Zaperoko](https://open.spotify.com/artist/2YYb9XAYl7ePSPIvQ3hOL4) | [Subway Salsa: The Montuno Records Story](https://open.spotify.com/album/1IsFd5MMFx1nWaRuEm54YL) | 6:08 | 2022-03-08 |  |
+| [No Quedó Ni el Gato](https://open.spotify.com/track/65DzY5Z3IE6BYprjXGu3Fu) | [Zaperoko](https://open.spotify.com/artist/2YYb9XAYl7ePSPIvQ3hOL4) | [Subway Salsa: The Montuno Records Story](https://open.spotify.com/album/1IsFd5MMFx1nWaRuEm54YL) | 6:08 | 2022-03-08 | 2022-12-26 |
 | [Nuestro Sueño](https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:59 | 2021-12-20 |  |
 | [Nunca Te Dire Adios](https://open.spotify.com/track/21SjYLkS8MMFEIbqQmXPsm) | [Max Torres](https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF) | [Max Torres](https://open.spotify.com/album/2Iqiw5f2GVmsq3fM1oR93E) | 4:24 | 2021-12-20 | 2022-07-29 |
 | [Nunca Te Diré Adiós](https://open.spotify.com/track/4tU8YSzSnz57md7qlbcYhO) | [Max Torres](https://open.spotify.com/artist/4iVn2h04jEDnVvx2UV2ukF) | [Nunca Te Diré Adiós](https://open.spotify.com/album/5r7p2gSk26Jh4KnKMsQwr7) | 4:24 | 2022-03-08 |  |
@@ -204,7 +205,7 @@
 | [Sin Escencia](https://open.spotify.com/track/0melfsWB5kH1Rp18yJZErZ) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Sin Escencia](https://open.spotify.com/album/4R0NvUV66W5XL4ckvvfzSk) | 3:15 | 2022-03-08 |  |
 | [Sin Esencia](https://open.spotify.com/track/4UI57hmBDGt4mnTzMRsTZr) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [7 Exitos](https://open.spotify.com/album/03uXL5xUnM58mYxtq077r9) | 3:14 | 2021-12-20 | 2022-07-29 |
 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 | 2021-12-20 | 2022-03-06 |
-| [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 | 2021-12-20 |  |
+| [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 | 2021-12-20 | 2022-12-06 |
 | [Sobredosis](https://open.spotify.com/track/3EpEMEdNdgCBDLOtSLFAyh) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Hits \- los Titanes](https://open.spotify.com/album/58DwVt091gM8kOtVpjOnuQ) | 4:09 | 2021-12-20 | 2022-07-29 |
 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 | 2022-03-08 |  |
 | [Sobredosis](https://open.spotify.com/track/1pECsNoVl4CLtx3rxhRZk4) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Greatest Salsa Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/29k81bFSFRcvmCuiKo8UyI) | 4:12 | 2022-08-04 | 2022-11-12 |

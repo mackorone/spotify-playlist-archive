@@ -4,11 +4,12 @@
 
 > Upbeat songs that will get the whole family feelin' good!
 
-87 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/7ArTQhm1NXOmGwTxTe92qv)
+88 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-01-28 |  |
+| [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/44JSreJxvgl3CxLo5MoQL0) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:07 | 2022-01-28 |  |
+| [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-01-28 | 2022-12-12 |
 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 | 2022-01-28 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 | 2022-01-28 |  |
 | [Best Thing Ever](https://open.spotify.com/track/28NUh4A55zjrDyW744dj4E) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 4:04 | 2022-01-28 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Energetic drum & bass to keep your rhythm pumping.",
   "name": "Lactic Acid Run",
-  "published_playlist_ids": [
-    "5GsikiWgqsQsiiBpViWT2y"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,7 +42,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 266874,
       "name": "Air Castles - Original Mix",
       "url": "https://open.spotify.com/track/7EU15pPIughfkoZIv6lkcH"
@@ -587,6 +584,28 @@
     {
       "album": {
         "name": "Freak",
+        "url": "https://open.spotify.com/album/6arnhhGtFAB6jQqWf5eO27"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Josh Barry",
+          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247655,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/2WCU5Lt6pKZwbkK4ElwWpw"
+    },
+    {
+      "album": {
+        "name": "Freak",
         "url": "https://open.spotify.com/album/0cQa1ez8EZ6uY4y3LAa7zt"
       },
       "artists": [
@@ -623,7 +642,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 247655,
       "name": "Freak",
       "url": "https://open.spotify.com/track/63eEJv5lfrGVHYA80DOPji"
@@ -1295,7 +1314,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 290742,
       "name": "Renegade Style",
       "url": "https://open.spotify.com/track/3GXdJbnrlYdYHk2KJW0mqk"

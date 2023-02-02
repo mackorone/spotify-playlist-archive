@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "All live, all blues. Cover: Jackie Venson",
   "name": "Blues Live & Loud",
-  "published_playlist_ids": [
-    "6wMyac4Tq7WkhRXiQeoF05"
-  ],
   "tracks": [
     {
       "album": {
@@ -145,9 +142,9 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 303168,
-      "name": "Born Under A Bad Sign - Live",
+      "name": "Born Under A Bad Sign (Live)",
       "url": "https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj"
     },
     {
@@ -253,7 +250,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 320618,
       "name": "Can't Walk Away From It Now - Live",
       "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
@@ -383,7 +380,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 281666,
       "name": "Crying For My Baby",
       "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
@@ -527,7 +524,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 192638,
       "name": "Dyin' To Know (Live)",
       "url": "https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8"
@@ -547,7 +544,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 469445,
-      "name": "Empty Promises (Live)",
+      "name": "Empty Promises - Live",
       "url": "https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7"
     },
     {
@@ -599,7 +596,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 230306,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
@@ -639,6 +636,24 @@
       "duration_ms": 349253,
       "name": "Gravity - Live at the House of Blues, Chicago, Illinois, September 22, 2005",
       "url": "https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH"
+    },
+    {
+      "album": {
+        "name": "Bo Knows Diddley Live",
+        "url": "https://open.spotify.com/album/2z1TNVOGgtg69QcZskgSdj"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267893,
+      "name": "Gunslinger - Live",
+      "url": "https://open.spotify.com/track/3pU28LbuY6LpaAwHGehN8d"
     },
     {
       "album": {
@@ -1015,7 +1030,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 421219,
       "name": "Mainline Florida - Live",
       "url": "https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6"
@@ -1033,10 +1048,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 300929,
       "name": "Mississippi Nights - Live",
       "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
+    },
+    {
+      "album": {
+        "name": "Morning Glory (Live)",
+        "url": "https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1"
+      },
+      "artists": [
+        {
+          "name": "Talibah Safiya",
+          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259584,
+      "name": "Morning Glory - Live",
+      "url": "https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL"
     },
     {
       "album": {
@@ -1077,7 +1110,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 298777,
       "name": "Night Train - Live",
       "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
@@ -1317,7 +1350,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 615573,
       "name": "Red Light - Live",
       "url": "https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c"
@@ -1335,7 +1368,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 501010,
       "name": "Ride On Josephine - Live In Boston, Massachusetts / 1982",
       "url": "https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X"
@@ -1389,7 +1422,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-02-01",
       "duration_ms": 446206,
       "name": "Rocket 88 - Live",
       "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
@@ -1822,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "Thunder in the Sky (Live at the Marshall Studio)",
+        "url": "https://open.spotify.com/album/1eSGbs2e2grK3xqQmPjjc4"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552275,
+      "name": "Thunder in the Sky (Live at the Marshall Studio)",
+      "url": "https://open.spotify.com/track/3dGArQ1Z4jUSOc8fJ8n6kj"
+    },
+    {
+      "album": {
         "name": "Backstage Pass (Live)",
         "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
       },
@@ -1887,7 +1938,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 354880,
       "name": "True Lies - Live",
       "url": "https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ"

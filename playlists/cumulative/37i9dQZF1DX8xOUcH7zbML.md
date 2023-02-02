@@ -4,7 +4,7 @@
 
 > L7 e o melhor do Hip Hop nacional em 2021.
 
-50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/5OSpZawUXQq9YM9uVyjAGk)
+50 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

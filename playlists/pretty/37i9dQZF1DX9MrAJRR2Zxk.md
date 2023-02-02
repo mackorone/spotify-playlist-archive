@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 
 > Koffee takes us on a trip to the Caribbean with Xport
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,340 likes - 29 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,562 likes - 29 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 12 | [That Day Will Come](https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Reign Of Fire](https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21) | 4:06 |
 | 13 | [London Emerald](https://open.spotify.com/track/2BdUD9LJKDC0susAH9cEMf) | [Delawness](https://open.spotify.com/artist/6HigFpuvgIN2joUsDlmQy8), [Nvtzz](https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf) | [London Emerald](https://open.spotify.com/album/5bH1YzJmr1CfbfxQ1LbLdp) | 2:45 |
 | 14 | [Lioness On The Rise](https://open.spotify.com/track/3X1IhmA0Zc8E6ipARYegYi) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9) | [Road To Mobay](https://open.spotify.com/album/5RzYA7UBQxs3KK87fMbCjR) | 4:06 |
-| 15 | [Give Me A Try](https://open.spotify.com/track/4pwGFtnF5ZWvvZee3Qmw1n) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Rise To The Occasion](https://open.spotify.com/album/7JtRuLlFw6g3axRUHcG9cP) | 3:39 |
+| 15 | [Give Me A Try](https://open.spotify.com/track/1PBYTQCR01OnAn41fqsvU6) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [The Journey \- The Very Best Of Sizzla Kalonji](https://open.spotify.com/album/07AQybXuRFflDzipExouL4) | 3:40 |
 | 16 | [Love So Nice](https://open.spotify.com/track/3J4Chu7wi4onjN2OO8aaow) | [Junior Kelly](https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9) | [Love So Nice](https://open.spotify.com/album/5QG9CrByyxYglSnIhYjzP8) | 3:49 |
 | 17 | [SWITCH IT UP](https://open.spotify.com/track/5vdNrrSfw7GXPx98Yx4qBh) | [GENRUS](https://open.spotify.com/artist/2iMVLWjybxgOyzheJ1sb2w) | [SWITCH IT UP](https://open.spotify.com/album/2IExlTDu7GfigdreWnAEQd) | 4:10 |
 | 18 | [WADING, WADING](https://open.spotify.com/track/6tCjckTT6m16UI4nWiXJGG) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ) | [IN:SIDE](https://open.spotify.com/album/4QLELkMzJl3mX9YN8DHzYg) | 3:14 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 28 | [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Uptown Top Ranking](https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP) | 3:49 |
 | 29 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
 
-Snapshot ID: `MTY2MDg2NDI5NiwwMDAwMDAwMDFlNTI5YmVjZWU4NTY0MDhhYjlhZWExYjdmMWIyNjll`
+Snapshot ID: `MTY2MDg2NDI5NiwwMDAwMDAwMGI0OGQyYzFjN2E1OTcwZDI0N2Q5Y2JhNThjNTBhMzRm`

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
   "name": "This Is CeCe Winans",
-  "published_playlist_ids": [
-    "4GNN9EtwRM1Eshpu0xwF9x"
-  ],
   "tracks": [
     {
       "album": {
@@ -77,10 +74,32 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 338218,
       "name": "Believe For It",
       "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
+    },
+    {
+      "album": {
+        "name": "Believe For It (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338194,
+      "name": "Believe For It (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
     },
     {
       "album": {
@@ -189,7 +208,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 279706,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/1v7IsaTlOwnPfHf8DVIr5u"
@@ -453,6 +472,32 @@
       "duration_ms": 259293,
       "name": "I Am",
       "url": "https://open.spotify.com/track/1EjiSDVT1YgLKO4W71NAmA"
+    },
+    {
+      "album": {
+        "name": "A Billy Graham Music Homecoming (Vol. 2 / Live)",
+        "url": "https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65426,
+      "name": "I Don't Know Why - Live",
+      "url": "https://open.spotify.com/track/2l8cNakFazSIBJC49ztGpR"
     },
     {
       "album": {

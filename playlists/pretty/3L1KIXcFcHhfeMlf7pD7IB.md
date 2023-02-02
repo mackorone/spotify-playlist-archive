@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3L1KIXcFcHhfeMlf7pD7IB.md) - [plain]
 
 > An epic event in the making\. You can not enjoy a Foam party without the perfect songs to get everyone jumping\. Turn it up and let the foam start flowing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 67 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 67 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/3L1KIXcFcHhfeMlf7pD7IB.md) - [plain]
 | 28 | [Hungry Hearts \- Radio Edit](https://open.spotify.com/track/6Ez85LhMq3sfhVGFuvuaJj) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Hungry Hearts](https://open.spotify.com/album/03DqSio3bxl0YsgAbVelMy) | 3:45 |
 | 29 | [So Bright \(feat\. Eligh\)](https://open.spotify.com/track/0ttNbS1CL6oP6pdC39FHmP) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [A Color Map of the Sun \(Deluxe Version\)](https://open.spotify.com/album/4LcmZzFiH4gmNk8meb66iO) | 5:51 |
 | 30 | [Eyes Wide Open \(feat\. Kate Elsworth\)](https://open.spotify.com/track/373wC60kaS4EfRUfMPUQrX) | [Dirty South & Thomas Gold](https://open.spotify.com/artist/5zF5WftJkZwKGcFaiTQNkG) | [Eyes Wide Open \(feat\. Kate Elsworth\) \- Single](https://open.spotify.com/album/3CWn9LLJ4d0M8JA94cYrnw) | 5:22 |
-| 31 | [The Island \- Steve Angello, AN21, Max Vangeli Remix](https://open.spotify.com/track/2RS9TJTiHvg0guy8hSmiAF) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Max Vangeli](https://open.spotify.com/artist/6Tu9KiWKN5ENQ2VjGCVN18), [Steve Angelo](https://open.spotify.com/artist/4Kwvd0nhOTKoAtvA230pwC) | [The Island \(Steve Angello, AN21 & Max Vangeli Remix\)](https://open.spotify.com/album/76TlPoqPLiYJJ2sjgHb9vE) | 6:40 |
+| 31 | [The Island \- Steve Angello, AN21, Max Vangeli Remix](https://open.spotify.com/track/2RS9TJTiHvg0guy8hSmiAF) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Max Vangeli](https://open.spotify.com/artist/6Tu9KiWKN5ENQ2VjGCVN18), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [The Island \(Steve Angello, AN21 & Max Vangeli Remix\)](https://open.spotify.com/album/76TlPoqPLiYJJ2sjgHb9vE) | 6:40 |
 | 32 | [Clap](https://open.spotify.com/track/4ibR19g6wj1znwU9Uu8FnK) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Hook Shot](https://open.spotify.com/album/4a72GNQK2KkMb85APtBRpa) | 8:02 |
 | 33 | [Que Que](https://open.spotify.com/track/6VjsXnfojORIdQgoK4iJqY) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Maluca](https://open.spotify.com/artist/3WpKPMVsMAMnTkYUmymXlI) | [Blow Your Head Vol.2: Dave Nada Presents Moombahton](https://open.spotify.com/album/0AYg19KCcytcCkmxiruJOv) | 4:31 |
 | 34 | [Call My Name \- Spencer & Hill Remix](https://open.spotify.com/track/76FdA3c1tf39puFvlQD3vz) | [Sultan](https://open.spotify.com/artist/7mNUTRMb4tuzhEW0jakWvu), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Sensation Innerspace](https://open.spotify.com/album/3LC2p0CDTmEYQdAY6yA1AD) | 6:30 |

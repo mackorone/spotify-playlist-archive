@@ -4,7 +4,7 @@
 
 > Claim your space this Pride in Dublin\. Cover: Pillow Queens
 
-30 songs - 1 hr 44 min - [published](https://open.spotify.com/playlist/5SwYsnrcDr5wQrvhlutCZR)
+30 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

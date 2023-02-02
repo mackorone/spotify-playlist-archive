@@ -4,7 +4,7 @@
 
 > Take a look back on some of the year's top tracks in roots music\. We'll be adding more of your favorites throughout December\. \#SpotifyFolk2016
 
-94 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/2tiky73cMbGaqQ9N68uuh9)
+94 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

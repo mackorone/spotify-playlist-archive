@@ -4,7 +4,7 @@
 
 > ...and everything nice\. Enjoy your dinner to the sounds of classic jazz vocals.
 
-24 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/5pPmSILnCXKI9cdjTFfM8q)
+24 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

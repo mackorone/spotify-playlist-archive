@@ -4,7 +4,7 @@
 
 > Give in to the season, with the ultimate collection of classic snow songs.
 
-50 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/3MI9Q2lZumNQfu6eaMUaMo)
+50 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

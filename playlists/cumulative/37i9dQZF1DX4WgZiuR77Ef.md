@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-179 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+180 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Yes We Can Can](https://open.spotify.com/track/2qlfzP4cXFnd718WGNDCT4) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:42 | 2020-10-30 |  |
 | [Yes We Can Can](https://open.spotify.com/track/7GO7XfiDsUysp4MMkdCiXo) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/1nI2mxpnTcJsPjFh4ORf5E) | 5:42 | 2020-10-30 | 2022-07-29 |
 | [You Can Make It](https://open.spotify.com/track/04fsxHTjiYVX0B7Ybk1N2e) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj), [Dobet Gnahoré](https://open.spotify.com/artist/0eHY5jLP9TgzxYhT19Sqyq) | [You Can Make It](https://open.spotify.com/album/0BfA48bRpjxdeqpTAH1x9l) | 3:41 | 2022-04-08 |  |
+| [You Got It](https://open.spotify.com/track/7l1rhOa9zn0Ivip8lB9m6z) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Jamie Allensworth](https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn) | [You Got It](https://open.spotify.com/album/1eiLDvpJGJzZTNBMQgVeh1) | 2:46 | 2023-01-27 |  |
 | [You'll Be Sorry](https://open.spotify.com/track/35kDqdxX71QMxGN9TfN8Ze) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Kate McQuaide](https://open.spotify.com/artist/4LWeARGZqgnbwcLbOe2NUX) | [You'll Be Sorry](https://open.spotify.com/album/5TOVbHHY3iU7oukVDTAgD2) | 3:30 | 2020-10-30 |  |
 | [You've Got To Change](https://open.spotify.com/track/5eZlZq3LDJTaHPVb5j3tdC) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Berlin Sessions](https://open.spotify.com/album/0IDJHvzYJdJ95VtHUOKhqg) | 3:58 | 2020-10-30 |  |
 | [Your Touch](https://open.spotify.com/track/7irxgIZPujseydOU1F9DGr) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4pW7lEAcGKdR77rKW6cYPJ) | [Your Touch](https://open.spotify.com/album/0stnWhCCa90eJjTPGqVhXf) | 2:48 | 2020-10-30 | 2022-04-09 |

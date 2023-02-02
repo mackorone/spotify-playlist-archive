@@ -2,9 +2,169 @@
   "date_first_scraped": "2022-09-17",
   "description": "Les podcasts que vous devriez avoir sur votre RADAR : Central Podcast, Inspiration Cr\u00e9ative et  et Mamie dans les orties.",
   "name": "RADAR Podcasters France",
-  "published_playlist_ids": [
-    "3yJs8edPgW09J1Dxz1iXuC"
+  "tracks": [
+    {
+      "album": {
+        "name": "Inspiration Cr\u00e9ative",
+        "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
+      },
+      "artists": [
+        {
+          "name": "Inspiration Cr\u00e9ative",
+          "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 4212938,
+      "name": "#09 \u2013 Audrey Pirault : Comment trouver sa voie ?",
+      "url": "https://open.spotify.com/episode/4AfnheDxOqz2oodnq0sFqO"
+    },
+    {
+      "album": {
+        "name": "Inspiration Cr\u00e9ative",
+        "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
+      },
+      "artists": [
+        {
+          "name": "Inspiration Cr\u00e9ative",
+          "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 4168272,
+      "name": "#19 - Marion S\u00e9clin : Comment enfin passer \u00e0 l'action sur ses projets ?",
+      "url": "https://open.spotify.com/episode/36Q6YrTGNdhHIG56IczAb7"
+    },
+    {
+      "album": {
+        "name": "Mamie dans les orties",
+        "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
+      },
+      "artists": [
+        {
+          "name": "Mamie dans les orties",
+          "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2977418,
+      "name": "#35 Ziz - Du champ \u00e0 la ville",
+      "url": "https://open.spotify.com/episode/7yV0NzHAUqyLtOWRVMJSde"
+    },
+    {
+      "album": {
+        "name": "Inspiration Cr\u00e9ative",
+        "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
+      },
+      "artists": [
+        {
+          "name": "Inspiration Cr\u00e9ative",
+          "url": "https://open.spotify.com/show/7KMLK2h4Y1yxrLlCi6bdZi"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 3780888,
+      "name": "#36 - Natacha Birds : Ne jamais attendre pour r\u00e9inventer sa vie",
+      "url": "https://open.spotify.com/episode/5N0kl3NsTGgfeEnJjfdlgI"
+    },
+    {
+      "album": {
+        "name": "Mamie dans les orties",
+        "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
+      },
+      "artists": [
+        {
+          "name": "Mamie dans les orties",
+          "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2904137,
+      "name": "#5 Jacqueline - La force tranquille",
+      "url": "https://open.spotify.com/episode/4tkzJSRCWzrXY81IY6GeUR"
+    },
+    {
+      "album": {
+        "name": "Mamie dans les orties",
+        "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
+      },
+      "artists": [
+        {
+          "name": "Mamie dans les orties",
+          "url": "https://open.spotify.com/show/2Mu1ySuRo9VTX88cPY2yUl"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 1897880,
+      "name": "#6 Dora - Ode \u00e0 la joie, partie 1 ",
+      "url": "https://open.spotify.com/episode/7K46fKzNYzZh5tD3vWbTwn"
+    },
+    {
+      "album": {
+        "name": "Central Podcast",
+        "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
+      },
+      "artists": [
+        {
+          "name": "Central Podcast",
+          "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2324297,
+      "name": "Friends S02E02 \u2022 Celui qui d\u00e9testait le lait maternel",
+      "url": "https://open.spotify.com/episode/6LijhCTtON34NbWZOZxc8y"
+    },
+    {
+      "album": {
+        "name": "Central Podcast",
+        "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
+      },
+      "artists": [
+        {
+          "name": "Central Podcast",
+          "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2198335,
+      "name": "Friends S10E02 \u2022 Celui qui allait tr\u00e8s bien (avec Leslie Pl\u00e9e)",
+      "url": "https://open.spotify.com/episode/4nbpEFfms7goRxZ5UmPiFc"
+    },
+    {
+      "album": {
+        "name": "Central Podcast",
+        "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
+      },
+      "artists": [
+        {
+          "name": "Central Podcast",
+          "url": "https://open.spotify.com/show/2dvR65nY3cbYoInX9GboTV"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 3208489,
+      "name": "Friends \u2022 Focus perso \ud83d\udd0e RACHEL (avec Tristan Lopin)",
+      "url": "https://open.spotify.com/episode/40HpqikyXCKzrz2bfldzkp"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSvFcCTKoddA"
 }

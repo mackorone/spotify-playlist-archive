@@ -4,7 +4,7 @@
 
 > Get deep into The Flaming Lips with this career\-spanning playlist.
 
-49 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/0uLD91wq5dz9FhLSt7bVSc)
+49 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

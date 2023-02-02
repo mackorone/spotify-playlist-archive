@@ -4,7 +4,7 @@
 
 > Explore the music of Franz Liszt.
 
-117 songs - 16 hr 47 min - [published](https://open.spotify.com/playlist/4ld6KBRsJTUukEy8BzbdXO)
+117 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

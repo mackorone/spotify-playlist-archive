@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZIQpJDqCc10.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZIQpJDqCc10) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZIQpJDqCc10)
 
-### [Alternative Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWZIQpJDqCc10)
+### [Indie Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWZIQpJDqCc10)
 
-> A selection of the greatest alternative love songs of all time.
+> A selection of the greatest indie love songs of all time.
 
-196 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/6YQCZe8hO85v0lGe1i13Jq)
+196 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,10 +29,10 @@
 | [Breezeblocks](https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 3:47 | 2022-02-10 | 2022-07-29 |
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2022-02-10 |  |
 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 | 2021-01-28 |  |
-| [California Daze](https://open.spotify.com/track/0GsLaBFChyC0vMh7qsFunp) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [In Love \(US\)](https://open.spotify.com/album/1h5rAU1bcpAJezFuMBBbum) | 3:58 | 2022-02-10 |  |
-| [California Daze](https://open.spotify.com/track/3Oa4HmaT53IzzyZDbqmT2b) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [In Love](https://open.spotify.com/album/2WF9WYqw0z4xs4hJi5eSmU) | 3:58 | 2022-02-10 | 2022-07-29 |
+| [California Daze](https://open.spotify.com/track/0GsLaBFChyC0vMh7qsFunp) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [In Love \(US\)](https://open.spotify.com/album/1h5rAU1bcpAJezFuMBBbum) | 3:58 | 2022-02-10 | 2022-12-02 |
+| [California Daze](https://open.spotify.com/track/3Oa4HmaT53IzzyZDbqmT2b) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [In Love](https://open.spotify.com/album/2WF9WYqw0z4xs4hJi5eSmU) | 3:58 | 2022-02-10 | 2023-01-26 |
 | [Can't Do Without You](https://open.spotify.com/track/2f14cB0pXqhgQDeNmQDkXf) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/3JRPfW15UIAdRYuBvNxLkR) | 3:56 | 2021-01-28 | 2022-02-11 |
-| [Candles](https://open.spotify.com/track/0c6z0CQLmIAEOCfhNvh3n3) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j) | 4:53 | 2022-02-10 | 2022-11-14 |
+| [Candles](https://open.spotify.com/track/0c6z0CQLmIAEOCfhNvh3n3) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j) | 4:53 | 2022-02-10 | 2023-01-28 |
 | [Candles](https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:53 | 2021-01-28 | 2022-07-29 |
 | [Change Your Mind](https://open.spotify.com/track/083cgOBzPBFBrqYFJDWPis) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:10 | 2022-02-10 | 2022-07-29 |
 | [Change Your Mind](https://open.spotify.com/track/2N7TN76tLuTcdn9UlS8ADT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:12 | 2022-02-10 |  |
@@ -97,7 +97,7 @@
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2022-02-10 |  |
 | [Linger](https://open.spotify.com/track/1aLNpg2kKvUncflV8xE5AA) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(The Complete Sessions 1991\-1993\)](https://open.spotify.com/album/6AR5l9eEiU5gMPv2wT1L9A) | 4:34 | 2021-01-28 | 2022-07-29 |
 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 | 2021-01-28 |  |
-| [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 | 2021-01-28 | 2022-11-14 |
+| [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 | 2021-01-28 |  |
 | [Love Song](https://open.spotify.com/track/4AzqVdOWSfVr1YQMLdpFMn) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/6ozSLuLzK71i6l4o2OiN1A) | 3:45 | 2022-02-10 | 2022-11-13 |
 | [Love Song](https://open.spotify.com/track/5X3XgU9OCFXxJo3C8if53F) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Life Is Strange](https://open.spotify.com/album/20mePxbWih3MnyZiT0eozP) | 3:45 | 2022-02-10 | 2022-07-29 |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 | 2021-01-28 | 2022-02-11 |

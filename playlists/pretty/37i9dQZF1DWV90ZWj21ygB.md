@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 
 > Relax to the roaring sound of crashing waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,391 likes - 213 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,478 likes - 213 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 | 113 | [Stormy Sea](https://open.spotify.com/track/056HAdAfs0Xh7HDEpP41UB) | [Rainframe](https://open.spotify.com/artist/75LnSU5XRGI4oD4g9LXoRL) | [Ocean Hd](https://open.spotify.com/album/5L8JRoz2nPLViWAJL9zwDf) | 2:47 |
 | 114 | [Upstream River Sounds](https://open.spotify.com/track/3HtzQDc13GIkar1d3suvKl) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:49 |
 | 115 | [Distan Winds And Wave Sounds](https://open.spotify.com/track/2gGxWhcOJ40DncuogOXdmh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Across The Ocean](https://open.spotify.com/album/1qLrKZJ5wFbTOrkNrANeHa) | 2:43 |
-| 116 | [Big Waves](https://open.spotify.com/track/4LMB7JZy59tKfOkqAmnd8W) | [Beach Wave Explosion](https://open.spotify.com/artist/7gdvKecJEHlqXxVcmGCn0a) | [Windy Beach](https://open.spotify.com/album/5aENLHyxg8CXD3WHtUjIrL) | 3:10 |
+| 116 | [Big Waves](https://open.spotify.com/track/4LMB7JZy59tKfOkqAmnd8W) | [Beach Wave Explosion](https://open.spotify.com/artist/1DNNwqmuY6iopjc3F9uLLN) | [Windy Beach](https://open.spotify.com/album/5aENLHyxg8CXD3WHtUjIrL) | 3:10 |
 | 117 | [Lush Waves](https://open.spotify.com/track/75hBeoFUIqCtkEnO2c1VKs) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Lush Waves](https://open.spotify.com/album/3HsfMxvNvueXhO9PDqA7Oq) | 2:56 |
 | 118 | [Andaman Ocean Sounds](https://open.spotify.com/track/1frIGFGHFJkJW70E5dMBWq) | [Moon Samples](https://open.spotify.com/artist/63ziOZ0VIIvzFR5G3RTaRw) | [Andaman](https://open.spotify.com/album/2AAemFxPrKRqlTWYdzsEKN) | 2:01 |
 | 119 | [Brain Waves Ocean Sounds](https://open.spotify.com/track/46pmGWrth04JCva2F0yMDR) | [Brain Timbre](https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1) | [Brain Waves Ocean Sounds](https://open.spotify.com/album/51mmFPq33EjPSn9SIGhWKU) | 3:04 |

@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-151 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/2XTO4uOrecqb0PhhJuqG9u)
+152 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Before We Met](https://open.spotify.com/track/1XmZlnlpZnsnNOZIVoVVry) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Before We Met](https://open.spotify.com/album/6bP6mC9lB42UR2SWc1DLLD) | 2:27 | 2022-02-17 |  |
 | [Big Bounce](https://open.spotify.com/track/46J9LlrB4irAkEMPfEKPeY) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Move Ya Body](https://open.spotify.com/album/61L9RCKpU8NJkrqidv3Fj9) | 2:46 | 2022-02-17 |  |
 | [Blackstar](https://open.spotify.com/track/6djXsgxuBxkhZ304F6f9m6) | [Zoot Lix](https://open.spotify.com/artist/1hLSwZoc1fc7nbd87G36La) | [Blackstar](https://open.spotify.com/album/77nkWEQ9KlbYGdsAx0TGng) | 3:17 | 2022-02-17 |  |
-| [Bootes](https://open.spotify.com/track/2TJyvCtn156DBQdRzFnJQ8) | [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [Ophiuchus](https://open.spotify.com/album/6DPf7zkNcApNZjcJVz2o7H) | 3:05 | 2022-02-17 |  |
+| [Bootes](https://open.spotify.com/track/2TJyvCtn156DBQdRzFnJQ8) | [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [Ophiuchus](https://open.spotify.com/album/6DPf7zkNcApNZjcJVz2o7H) | 3:05 | 2022-02-17 | 2023-01-20 |
 | [Bottomless](https://open.spotify.com/track/2z1BzTxjbkZONWcC31dB7o) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Bottomless](https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY) | 2:12 | 2022-02-17 |  |
 | [Brand New Eyes](https://open.spotify.com/track/3yx4s6obPco65jEydJYerj) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [Brand New Eyes](https://open.spotify.com/album/6o05bYAYVgbHoGQk5paRVg) | 2:42 | 2022-02-17 | 2022-09-17 |
 | [Bring on the Blessings](https://open.spotify.com/track/1n31FkTycUv7n7o6kIejeP) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Rooster Visions](https://open.spotify.com/album/3YXmddyswirnkpXfOdtAYG) | 3:08 | 2022-02-17 |  |
@@ -59,7 +59,7 @@
 | [Fly by Night](https://open.spotify.com/track/5u3vpXS3p1NEPGpK87MfTO) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Fly By Night](https://open.spotify.com/album/3XDxXhJUcii0AcwIiqkIsm) | 2:09 | 2022-02-17 |  |
 | [Frosty Dream](https://open.spotify.com/track/5D8QxnbmmXyPnniROQJU83) | [Axavex](https://open.spotify.com/artist/5WvBaMDSgK2VYklEpiASej) | [Frosty Dream](https://open.spotify.com/album/1SU8RKCQpX6uYlws5IwRJz) | 3:09 | 2022-06-24 | 2022-09-17 |
 | [Frosty Dream](https://open.spotify.com/track/5SWVDDmeXJQcyf2zofak5H) | [Axavex](https://open.spotify.com/artist/5WvBaMDSgK2VYklEpiASej) | [Frosty Dream](https://open.spotify.com/album/5JsosZwYnxktNKaW6oaTtS) | 3:09 | 2022-02-17 | 2022-07-29 |
-| [Games](https://open.spotify.com/track/0ushiWGxHH5atvLnODuINq) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [Games](https://open.spotify.com/album/2F495sG8fO4YTW8Fh2czBY) | 1:41 | 2022-02-17 |  |
+| [Games](https://open.spotify.com/track/0ushiWGxHH5atvLnODuINq) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [Games](https://open.spotify.com/album/2F495sG8fO4YTW8Fh2czBY) | 1:41 | 2022-02-17 | 2023-01-20 |
 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 | 2022-02-17 |  |
 | [Güd Week](https://open.spotify.com/track/7Er4jiPgStH73X2nVutAHr) | [Hi Rodee](https://open.spotify.com/artist/51UCiViOBxBnEOyvHH4TpL) | [Güd Week](https://open.spotify.com/album/0ILe5XAKhhduIgaySBn25s) | 3:35 | 2022-02-17 |  |
 | [Hear Me](https://open.spotify.com/track/7dAzaQXqBqSTPfzC1rINqB) | [Sonliks](https://open.spotify.com/artist/2Y4KIlGIRi4REFRLuJ3uiq) | [Hear Me](https://open.spotify.com/album/4w1IUNKohLCeMuBoS3Svw1) | 2:48 | 2022-02-17 |  |
@@ -87,7 +87,7 @@
 | [Morning Vibes](https://open.spotify.com/track/0Dwo6odrEUVCNcm8IJFd5g) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/7qVtOLDgRzWmoI1bMW9SXl) | 2:35 | 2022-10-14 |  |
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2022-02-17 | 2022-11-20 |
 | [Mountains](https://open.spotify.com/track/00CAvtdfEEtWRkEN6Km2AW) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [Testify](https://open.spotify.com/album/3opdynBKdWUJfRZa8CaiKD) | 2:00 | 2022-02-17 |  |
-| [My Story](https://open.spotify.com/track/0OS5J4N4pYDqXlJjzSOamS) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [My Story](https://open.spotify.com/album/3rEAU7AXZ2QtQE0wcoc8yy) | 4:20 | 2022-02-17 |  |
+| [My Story](https://open.spotify.com/track/0OS5J4N4pYDqXlJjzSOamS) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [My Story](https://open.spotify.com/album/3rEAU7AXZ2QtQE0wcoc8yy) | 4:20 | 2022-02-17 | 2023-01-20 |
 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 | 2022-02-17 |  |
 | [New Shoes](https://open.spotify.com/track/5juHblWOCxsaAlOrOdaTRW) | [Holden](https://open.spotify.com/artist/4QzKwFmHaOYtYXs8oSPGkx) | [New Shoes](https://open.spotify.com/album/6WYHhMNiP9uosSqoM3EFgs) | 2:14 | 2022-02-17 |  |
 | [New Start](https://open.spotify.com/track/5t54ULTioRiGc5xuXv36bH) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [New Start](https://open.spotify.com/album/2bHbPzTTSlc6R1A1J1dj81) | 2:35 | 2022-06-10 |  |
@@ -140,6 +140,7 @@
 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 | 2022-02-17 |  |
 | [Three Eleven](https://open.spotify.com/track/6mpdxk6NcSbyKN3YPfVLDt) | [Hologram Life](https://open.spotify.com/artist/556OIgOCzim3VGfOZHWAqx) | [Three Eleven](https://open.spotify.com/album/0hdNNKYeIK7WpnzRqP6ElD) | 4:39 | 2022-02-17 |  |
 | [Time to Face Your Fears](https://open.spotify.com/track/5GdLtWqbQVXKIAwUpXuJcq) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [I'll Leave the Light on for You](https://open.spotify.com/album/1uEqiWIlQBYypx6pZFZ6xL) | 3:07 | 2022-02-17 |  |
+| [Tokyo](https://open.spotify.com/track/6DS8PbO3BzzdZ00dwiMPB3) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Tokyo](https://open.spotify.com/album/1Zw4R7LNCAzWVMQ2MLOQOx) | 2:59 | 2023-01-20 |  |
 | [Took It Too Far](https://open.spotify.com/track/1B9mJ0e6rKVfUUi5nCvvim) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [To The Factory](https://open.spotify.com/album/4nvHLzp2CInKEzvz8QTquQ) | 2:56 | 2022-02-17 |  |
 | [Track Smack](https://open.spotify.com/track/2ExGfjMMr5PDTicSk65xQd) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [VIBES](https://open.spotify.com/album/1SYa5Vd1APzOiSiOQREnkW) | 3:12 | 2022-02-17 | 2022-09-10 |
 | [Track Smack](https://open.spotify.com/track/3eD2mfu97RybLSHMBzkVQN) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [VIBES](https://open.spotify.com/album/3OACGrVtxvKdMLki5HDRyZ) | 3:12 | 2022-06-24 |  |

@@ -2,9 +2,9 @@
 
 ### [Early Alternative](https://open.spotify.com/playlist/37i9dQZF1DXdTCdwCKzXwo)
 
-> Celebrate 50 years of Transformer with these early pioneers Cover: Lou Reed.
+> These early pioneers brought the underground to the foreground\. Cover: Lou Reed.
 
-171 songs - 11 hr 49 min - [published](https://open.spotify.com/playlist/1biJVwGgudNJMTh4YCWUBg)
+172 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 | 2018-12-14 | 2022-05-26 |
 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 | 2022-05-26 |  |
 | [Gold Soundz](https://open.spotify.com/track/13YxuRQZdU7snOfDI3nft2) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/3F8CTobvWDa46GhS0WkXYh) | 2:39 | 2018-12-14 | 2022-05-27 |
+| [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-02 |  |
 | [Here's Where The Story Ends](https://open.spotify.com/track/4SPi5Pl7aAtauFsH9Lk5LB) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Reading, Writing & Arithmetic](https://open.spotify.com/album/4bofszhtDfGY6smHBGeyTT) | 3:54 | 2018-12-14 |  |
 | [Heroin](https://open.spotify.com/track/5wWvavjmqH3LpYKSgw9E92) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Gold](https://open.spotify.com/album/3KoIFNd54AAr1RiS9GOzE4) | 7:12 | 2018-12-14 | 2022-07-29 |
 | [Heroin](https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 7:13 | 2022-05-26 |  |
@@ -99,7 +100,7 @@
 | [Los Angeles](https://open.spotify.com/track/3hgBGx3ShG9uCiJ3kvh8wm) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Los Angeles \(2019 Remaster\)](https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn) | 2:24 | 2022-05-26 | 2022-07-23 |
 | [Loser](https://open.spotify.com/track/4b8GTae6rqb9oPiRzVa3Gy) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/7MKi8PuCX5QJtaG9wLbOI2) | 3:54 | 2018-12-14 | 2022-05-27 |
 | [Love Is The Drug](https://open.spotify.com/track/34Rt8Ti2OAsA8s39rLgyML) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Roxy Music Collection](https://open.spotify.com/album/6VQZ6NNyt8E6Nj93mkoi0y) | 4:08 | 2018-12-14 | 2022-07-29 |
-| [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 | 2022-05-26 |  |
+| [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 | 2022-05-26 | 2022-12-03 |
 | [Love Will Tear Us Apart \- 2010 Remaster](https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ) | 3:24 | 2018-12-14 |  |
 | [Lullaby](https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 9:49 | 2022-11-10 |  |
 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 | 2018-12-14 |  |

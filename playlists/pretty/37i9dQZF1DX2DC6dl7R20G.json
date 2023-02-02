@@ -1,12 +1,12 @@
 {
   "description": "\u6700\u65b0K-POP\u697d\u66f2\u3067\u5f69\u3089\u308c\u305f\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30ed\u30de\u30f3\u30b9\u30c9\u30e9\u30de\u300e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af #1\u300f<a href=\"https://disneyplus.disney.co.jp/program/soundtrack-1\">Disney+\u3067\u5168\u8a71\u72ec\u5360\u914d\u4fe1\u4e2d</a>",
-  "num_followers": 5704,
+  "num_followers": 6821,
   "original_name": "soundtrack#1 (\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af#1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTgzNTczOSwwMDAwMDAwMDE0NDA4MjQyYzk4NWE5NTBkNWRjZmNmYjhmYzJjZjVm",
+  "snapshot_id": "MTY0OTgzNTczOSwwMDAwMDAwMDc0OTI3NDM5OWU5NmNmYzBhN2YwM2Q3Njg5YTE4YTgx",
   "tracks": [
     {
       "added_at": "2022-04-13 07:42:19",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-04-13 07:42:19",
       "album": {
+        "name": "miss you more, I'm sorry (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Yejoon",
+          "url": "https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "miss you more, I'm sorry",
+      "url": "https://open.spotify.com/track/6cOpgvr2opxH5Asrnluxri"
+    },
+    {
+      "added_at": "2022-04-13 07:42:19",
+      "album": {
         "name": "Talk to me (From \"soundtrack#1\" [Original Soundtrack])",
         "url": "https://open.spotify.com/album/1Z1HFrzzOTeoeYma55otPC"
       },
@@ -103,38 +119,6 @@
       "duration_ms": 220413,
       "name": "Your tender heart hurts me",
       "url": "https://open.spotify.com/track/6ShXmyHOzhNANXSquXe5UQ"
-    },
-    {
-      "added_at": "2022-04-13 07:42:19",
-      "album": {
-        "name": "miss you more, I'm sorry (From \"soundtrack#1\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Yejoon",
-          "url": "https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "miss you more, I'm sorry",
-      "url": "https://open.spotify.com/track/6cOpgvr2opxH5Asrnluxri"
-    },
-    {
-      "added_at": "2022-04-13 07:42:19",
-      "album": {
-        "name": "Prettiest One (From \"soundtrack#1\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 188040,
-      "name": "Prettiest One",
-      "url": "https://open.spotify.com/track/5jxBIft0pEtB3rJKs06dwv"
     },
     {
       "added_at": "2022-04-13 07:42:19",
@@ -171,18 +155,18 @@
     {
       "added_at": "2022-04-13 07:42:19",
       "album": {
-        "name": "Wanna be your lover (From \"soundtrack#1\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/3Ea87oNrypIds4feLNpugp"
+        "name": "Prettiest One (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm"
       },
       "artists": [
         {
-          "name": "Monday Kiz",
-          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 266400,
-      "name": "Wanna be your lover",
-      "url": "https://open.spotify.com/track/3pv8OsZEBHM3UMIyvYhpGu"
+      "duration_ms": 188040,
+      "name": "Prettiest One",
+      "url": "https://open.spotify.com/track/5jxBIft0pEtB3rJKs06dwv"
     },
     {
       "added_at": "2022-04-13 07:42:19",
@@ -199,6 +183,22 @@
       "duration_ms": 233306,
       "name": "Love beyond words",
       "url": "https://open.spotify.com/track/1pPwl2q0bFgGh8l8ssRVEW"
+    },
+    {
+      "added_at": "2022-04-13 07:42:19",
+      "album": {
+        "name": "Wanna be your lover (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/3Ea87oNrypIds4feLNpugp"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Wanna be your lover",
+      "url": "https://open.spotify.com/track/3pv8OsZEBHM3UMIyvYhpGu"
     },
     {
       "added_at": "2022-04-13 07:42:19",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-04-13 07:42:19",
       "album": {
-        "name": "My Love (From \"soundtrack#1\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO"
-      },
-      "artists": [
-        {
-          "name": "Kim Jong Kook",
-          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "My Love - Instrumental",
-      "url": "https://open.spotify.com/track/08rkSTgPYGaAGbjVDSS483"
-    },
-    {
-      "added_at": "2022-04-13 07:42:19",
-      "album": {
         "name": "Love beyond words (From \"soundtrack#1\" [Original Soundtrack])",
         "url": "https://open.spotify.com/album/7e1IQJXFhJ8WgMt2t22oJ9"
       },
@@ -267,18 +251,18 @@
     {
       "added_at": "2022-04-13 07:42:19",
       "album": {
-        "name": "Talk to me (From \"soundtrack#1\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/1Z1HFrzzOTeoeYma55otPC"
+        "name": "Your tender heart hurts me (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5"
       },
       "artists": [
         {
-          "name": "KIM JAE HWAN",
-          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 257825,
-      "name": "Talk to me - Instrumental",
-      "url": "https://open.spotify.com/track/3dE2DqQOl8eOgu1MfjFxnV"
+      "duration_ms": 220400,
+      "name": "Your tender heart hurts me - Instrumental",
+      "url": "https://open.spotify.com/track/6Dbk8sNFxJDAVdvNBAvYkZ"
     },
     {
       "added_at": "2022-04-13 07:42:19",
@@ -299,18 +283,50 @@
     {
       "added_at": "2022-04-13 07:42:19",
       "album": {
-        "name": "Your tender heart hurts me (From \"soundtrack#1\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5"
+        "name": "My Love (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO"
       },
       "artists": [
         {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Your tender heart hurts me - Instrumental",
-      "url": "https://open.spotify.com/track/6Dbk8sNFxJDAVdvNBAvYkZ"
+      "duration_ms": 208413,
+      "name": "My Love - Instrumental",
+      "url": "https://open.spotify.com/track/08rkSTgPYGaAGbjVDSS483"
+    },
+    {
+      "added_at": "2022-04-13 07:42:19",
+      "album": {
+        "name": "Talk to me (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/1Z1HFrzzOTeoeYma55otPC"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "duration_ms": 257825,
+      "name": "Talk to me - Instrumental",
+      "url": "https://open.spotify.com/track/3dE2DqQOl8eOgu1MfjFxnV"
+    },
+    {
+      "added_at": "2022-04-13 07:42:19",
+      "album": {
+        "name": "miss you more, I'm sorry (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Yejoon",
+          "url": "https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "miss you more, I'm sorry - Instrumental",
+      "url": "https://open.spotify.com/track/0GWGxi8mr6tNXKvwCQVq22"
     },
     {
       "added_at": "2022-04-13 07:42:19",
@@ -343,22 +359,6 @@
       "duration_ms": 213707,
       "name": "Want to be happy - Instrumental",
       "url": "https://open.spotify.com/track/47hVZY42dyrjuvcZxwZak2"
-    },
-    {
-      "added_at": "2022-04-13 07:42:19",
-      "album": {
-        "name": "miss you more, I'm sorry (From \"soundtrack#1\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Yejoon",
-          "url": "https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "miss you more, I'm sorry - Instrumental",
-      "url": "https://open.spotify.com/track/0GWGxi8mr6tNXKvwCQVq22"
     },
     {
       "added_at": "2022-04-13 07:42:19",

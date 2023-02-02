@@ -4,7 +4,7 @@
 
 > Experience both volumes and exclusive content, all in one playlist.
 
-24 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/0PKUJIgnJF5FrySv0OqyDF)
+24 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

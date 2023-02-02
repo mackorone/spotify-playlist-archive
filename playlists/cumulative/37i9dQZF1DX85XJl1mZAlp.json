@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-06",
   "description": "The best new releases from swinging bop to free jazz. Cover: Ethan Iverson",
   "name": "Jazz X-Press",
-  "published_playlist_ids": [
-    "2myKIx6nL00hIJ3LYvxpsO"
-  ],
   "tracks": [
     {
       "album": {
@@ -2682,6 +2679,32 @@
     },
     {
       "album": {
+        "name": "Perpetual Pendulum",
+        "url": "https://open.spotify.com/album/6t3zbrEc2zc8cSAs9YF9Vf"
+      },
+      "artists": [
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335866,
+      "name": "Reflections in D",
+      "url": "https://open.spotify.com/track/40r2OiHd5URFzTZUFBxYDq"
+    },
+    {
+      "album": {
         "name": "Reflections in D",
         "url": "https://open.spotify.com/album/1PulHx45zSWvOGnbMJ4gND"
       },
@@ -2701,7 +2724,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 335866,
       "name": "Reflections in D",
       "url": "https://open.spotify.com/track/5pyFDbYIDiRBsFK3F59iju"

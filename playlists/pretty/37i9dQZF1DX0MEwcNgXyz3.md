@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,760 likes - 58 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,171 likes - 58 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

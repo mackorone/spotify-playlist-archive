@@ -4,7 +4,7 @@
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-72 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/0KDUll3BlUZ8Z5ArCYrr7l)
+72 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

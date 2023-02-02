@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6NjugpbMNtXAtbv3NIbb3j.md) - [plain]
 
 > The Spotify House 2015 Thursday lineup.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460 likes - 20 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 456 likes - 20 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

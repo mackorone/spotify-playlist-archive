@@ -2,9 +2,9 @@
 
 ### [Metalcore Classics](https://open.spotify.com/playlist/37i9dQZF1DX6P51sFpSo2r)
 
-> The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
+> The perfect mix between old\-school and modern Metalcore\. Cover: A7X
 
-76 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
+78 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Hey Baby, Here's That Song You Wanted](https://open.spotify.com/track/6RbeLGGRcELEeKjMAplpap) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Witness](https://open.spotify.com/album/2bSOI1YTq852i0kxRe0xqd) | 3:14 | 2022-01-17 |  |
 | [Hope](https://open.spotify.com/track/4JFUKD0b2V6IiW1up71GqU) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Tracing Back Roots](https://open.spotify.com/album/2MZGpYwcf89X3v358zPYb9) | 4:08 | 2022-01-17 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/0IjqvPyctsYf3ASQPHWBvB) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Understanding What We've Grown to Be \(Deluxe Edition\)](https://open.spotify.com/album/6QmepOn4v046xEUpYEcq1t) | 4:10 | 2022-01-17 |  |
-| [I Let Go](https://open.spotify.com/track/3SBERYG6n7kYL7KvnImp5k) | [Eighteen Visions](https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb) | [Obsession](https://open.spotify.com/album/1d4qOPcYpX3g2ta8JSyf6s) | 3:22 | 2022-01-17 |  |
+| [I Let Go](https://open.spotify.com/track/3SBERYG6n7kYL7KvnImp5k) | [Eighteen Visions](https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb) | [Obsession](https://open.spotify.com/album/1d4qOPcYpX3g2ta8JSyf6s) | 3:22 | 2022-01-17 | 2023-01-07 |
 | [In Between](https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disgusting](https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV) | 3:33 | 2022-01-17 |  |
 | [It Never Ends](https://open.spotify.com/track/0ZxZsjMMyLgjRV1XLWlIaS) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [There Is A Hell Believe Me I've Seen It\. There Is A Heaven Let's Keep It A Secret](https://open.spotify.com/album/2BxDLAnw4QPcs8U4r1StrI) | 4:34 | 2022-10-25 |  |
 | [Karma](https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:49 | 2022-10-25 |  |
@@ -77,11 +77,13 @@
 | [The End of Heartache](https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [The End of Heartache \(Special Edition\)](https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V) | 4:58 | 2022-01-17 |  |
 | [The Sinner](https://open.spotify.com/track/4SAeLRKTvdvEKUvpYIoBzT) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3) | 4:02 | 2022-01-17 |  |
 | [The Worst Is yet to Come](https://open.spotify.com/track/3T8WTbGrVFWI2eWrDqylTI) | [Still Remains](https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp) | [Of Love And Lunacy](https://open.spotify.com/album/6QiKYJ1Fa3n5wE8viOyRea) | 3:50 | 2022-01-17 |  |
-| [These Colours Don't Run](https://open.spotify.com/track/1DaQfWfIHy7XWLTS8g6ptc) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker](https://open.spotify.com/album/088xyqoXNKBTNIuIgpai6q) | 4:01 | 2022-01-17 |  |
+| [These Colours Don't Run](https://open.spotify.com/track/1DaQfWfIHy7XWLTS8g6ptc) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker](https://open.spotify.com/album/088xyqoXNKBTNIuIgpai6q) | 4:01 | 2022-01-17 | 2022-12-31 |
+| [These Colours Don't Run](https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:01 | 2022-11-22 |  |
 | [Tower of Snakes](https://open.spotify.com/track/2PGuGQrxGVMl1tFAgqCvfC) | [Eighteen Visions](https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb) | [Obsession](https://open.spotify.com/album/1d4qOPcYpX3g2ta8JSyf6s) | 3:38 | 2022-10-25 |  |
 | [Two Weeks](https://open.spotify.com/track/0XT70Wk9pP8JZkmJhfntuL) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Overcome](https://open.spotify.com/album/5Idfe5SehEAZ9uyv9fSKu1) | 4:17 | 2022-01-17 |  |
 | [Unholy Confessions](https://open.spotify.com/track/20g7z9R1wjE7EtVnB7XEjS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/4A6vIZBEKEAGoBsaWAZ0ck) | 4:43 | 2022-01-17 | 2022-07-29 |
 | [Unholy Confessions](https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 4:43 | 2022-01-17 |  |
+| [Waking the Demon](https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/04VE36yBM6GyJpDtD61e0p) | 4:07 | 2023-01-06 |  |
 | [White Washed](https://open.spotify.com/track/0jCUZSnjn6hxp7zgX3h2rF) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 3:46 | 2022-11-22 |  |
 | [Writing On The Walls](https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:02 | 2022-01-17 |  |
 

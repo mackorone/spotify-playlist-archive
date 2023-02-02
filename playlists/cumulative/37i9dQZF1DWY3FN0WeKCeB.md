@@ -4,7 +4,7 @@
 
 > A chronology of Sir Arthur Conan Doyle's best Sherlock Holmes' adventures, followed by rare and vintage radio and audio adaptations.
 
-163 songs - 2 day 20 hr 7 min - [published](https://open.spotify.com/playlist/3OlTOH26asuwWoePJugB46)
+163 songs - 2 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

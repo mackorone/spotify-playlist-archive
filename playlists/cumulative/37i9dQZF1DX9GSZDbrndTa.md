@@ -4,7 +4,7 @@
 
 > The bluesy side of jazz
 
-58 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/5d4L5WZMIwXxHiSkUOaRA8)
+58 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

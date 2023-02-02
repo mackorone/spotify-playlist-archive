@@ -4,7 +4,7 @@
 
 > A collection of classic tales by beloved Danish author Hans Christian Andersen.
 
-17 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5YGDglJQbT3Lg92jtvD6xH)
+17 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

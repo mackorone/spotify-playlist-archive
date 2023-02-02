@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
   "name": "This Is Los Plebes del Rancho de Ariel Camacho",
-  "published_playlist_ids": [
-    "0kWQhRaxTfkDYQmd5SDHHK"
-  ],
   "tracks": [
     {
       "album": {
@@ -89,7 +86,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 183228,
       "name": "5 A\u00f1os despu\u00e9s",
       "url": "https://open.spotify.com/track/1wNolvsI03cMY9Wv6uCMz6"
@@ -129,10 +126,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 191637,
       "name": "Ah\u00ed Est\u00e1 El Detalle",
       "url": "https://open.spotify.com/track/0PKgVcjUuEtZ2g6FRxC4Q7"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191637,
+      "name": "Ah\u00ed Est\u00e1 El Detalle",
+      "url": "https://open.spotify.com/track/1EHCom65D7A8cGBiuMNqhw"
     },
     {
       "album": {
@@ -213,6 +228,28 @@
       "duration_ms": 210681,
       "name": "Amor Pasajero",
       "url": "https://open.spotify.com/track/5NqpxYYauBYU1XfAeakJwu"
+    },
+    {
+      "album": {
+        "name": "Bien Guerrero (En Vivo)",
+        "url": "https://open.spotify.com/album/4HpzGThC6vKZyF6oa8b9JF"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216746,
+      "name": "Bien Guerrero - En Vivo",
+      "url": "https://open.spotify.com/track/7aziBsfabYtlNX5XPadsmc"
     },
     {
       "album": {
@@ -449,6 +486,24 @@
     {
       "album": {
         "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219999,
+      "name": "El G\u00fcero Colorado",
+      "url": "https://open.spotify.com/track/0QBOB9Cf0XZ9mzvq2ZdDJa"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
         "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
       },
       "artists": [
@@ -459,7 +514,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 219999,
       "name": "El G\u00fcero Colorado",
       "url": "https://open.spotify.com/track/3qXNBRZfzJbSLJRHmg6Tt6"
@@ -477,10 +532,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 187138,
       "name": "El Hombre Tranquilo",
       "url": "https://open.spotify.com/track/3Jb1F5CRVKqNBpzrjDTBHA"
+    },
+    {
+      "album": {
+        "name": "5 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210134,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS"
     },
     {
       "album": {
@@ -499,7 +572,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 210134,
       "name": "El Karma",
       "url": "https://open.spotify.com/track/5fjNbyD1WPSvsV14nlON4O"
@@ -583,6 +656,24 @@
     {
       "album": {
         "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201174,
+      "name": "En Un D\u00eda Como Hoy",
+      "url": "https://open.spotify.com/track/3G6PfDCnFqx6eM2Qzr8Plm"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
         "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
       },
       "artists": [
@@ -593,7 +684,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 201174,
       "name": "En Un D\u00eda Como Hoy",
       "url": "https://open.spotify.com/track/3asoKjxnqlTvskhHLq1Ozd"
@@ -695,7 +786,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 259074,
       "name": "Kikil Caro",
       "url": "https://open.spotify.com/track/4oPAGo9fk32qbhAP3qwNTk"
@@ -774,6 +865,32 @@
     },
     {
       "album": {
+        "name": "Los Versos De Muel",
+        "url": "https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a"
+      },
+      "artists": [
+        {
+          "name": "Darey de la Sierra",
+          "url": "https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205209,
+      "name": "Los Versos De Muel",
+      "url": "https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2"
+    },
+    {
+      "album": {
         "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
         "url": "https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3"
       },
@@ -811,6 +928,24 @@
     {
       "album": {
         "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140308,
+      "name": "Naci\u00f3 Pa'Leyenda",
+      "url": "https://open.spotify.com/track/7kgJhdRt91bD8HLFpO8LTA"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
         "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
       },
       "artists": [
@@ -821,7 +956,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 140308,
       "name": "Naci\u00f3 Pa'Leyenda",
       "url": "https://open.spotify.com/track/7yjXLXGXtwMGDqsEbOXB46"
@@ -1016,6 +1151,28 @@
     },
     {
       "album": {
+        "name": "Relatos De Juan Jose",
+        "url": "https://open.spotify.com/album/27UGGl99sIIvbjE5WqXMLZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251626,
+      "name": "Relatos De Juan Jose",
+      "url": "https://open.spotify.com/track/38WX8necoSYB0ZZ00F4TBC"
+    },
+    {
+      "album": {
         "name": "Naci\u00f3 Pa' Leyenda",
         "url": "https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK"
       },
@@ -1027,10 +1184,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 195125,
       "name": "Seg\u00fan Tus Labios",
       "url": "https://open.spotify.com/track/4v4t1jlvDSNqXZ7RE8BdBN"
+    },
+    {
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195125,
+      "name": "Seg\u00fan Tus Labios",
+      "url": "https://open.spotify.com/track/5LMCPoGrzsNudgLId7LCum"
     },
     {
       "album": {
@@ -1106,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Tres Botellas",
+      "url": "https://open.spotify.com/track/01UgSQkOsZH7fnBhgqjOaN"
+    },
+    {
+      "album": {
         "name": "Tres Botellas",
         "url": "https://open.spotify.com/album/0uKSIQwW9ibkNeQTlwft5B"
       },
@@ -1135,7 +1328,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 199773,
       "name": "Tres Botellas",
       "url": "https://open.spotify.com/track/4CfCbSyDAel1xRwme7Q0Yv"

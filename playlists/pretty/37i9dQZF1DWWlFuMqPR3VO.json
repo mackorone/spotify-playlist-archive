@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 9795,
+  "num_followers": 10445,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAwMDJlMDAyZTljNTdmY2EyN2QxNjFkNzI2N2FlNWI0NjY1",
+  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAwMGY4OTlhZGQxNzUwODdmODBkZmU3NTBkZjk1MWJkNTAx",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "Saint James Infirmary",
+      "url": "https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/1heK7tmUTRLA2jwrRG4LiB"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 347453,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/3OvV9R4RIoXwUi7UcuXwkU"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Shake Your Hips - Single Version",
-      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/3QYOWNnvJBThutwlzjBhry"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "Saint James Infirmary",
-      "url": "https://open.spotify.com/track/4ccdgqrPG8n28V0FWnWWL9"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Blues From The Gutter",
         "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 261092,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Shake Your Hips - Single Version",
+      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -251,34 +251,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "I Hear You Knockin'!",
-        "url": "https://open.spotify.com/album/5Ch6Uc0OTpBUI9LvPrQDsk"
+        "name": "Presumed Innocent",
+        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
       },
       "artists": [
         {
-          "name": "Lazy Lester",
-          "url": "https://open.spotify.com/artist/72D581Szg2z107f9qlLvjV"
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
         }
       ],
-      "duration_ms": 165760,
-      "name": "I'm A Lover Not A Fighter",
-      "url": "https://open.spotify.com/track/1vSRhDHRI1jVa6BQURJtRO"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues",
-        "url": "https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF"
-      },
-      "artists": [
-        {
-          "name": "Clifton Chenier",
-          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "I'm Coming Home (To See My Mother)",
-      "url": "https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU"
+      "duration_ms": 267466,
+      "name": "Louella",
+      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -315,6 +299,38 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "I Hear You Knockin'!",
+        "url": "https://open.spotify.com/album/5Ch6Uc0OTpBUI9LvPrQDsk"
+      },
+      "artists": [
+        {
+          "name": "Lazy Lester",
+          "url": "https://open.spotify.com/artist/72D581Szg2z107f9qlLvjV"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "I'm A Lover Not A Fighter",
+      "url": "https://open.spotify.com/track/1vSRhDHRI1jVa6BQURJtRO"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues",
+        "url": "https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF"
+      },
+      "artists": [
+        {
+          "name": "Clifton Chenier",
+          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "I'm Coming Home (To See My Mother)",
+      "url": "https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "New Orleans Blues",
         "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 163293,
       "name": "Mother's Love",
       "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Presumed Innocent",
-        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
-      },
-      "artists": [
-        {
-          "name": "Marcia Ball",
-          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "Louella",
-      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -379,54 +379,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Alligator",
-        "url": "https://open.spotify.com/album/7bWzWGdmK5QepRg00IoKDV"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Hey Now Baby",
-      "url": "https://open.spotify.com/track/66fgQCgrVrzuGwgOygTh5w"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Been Gone Too Long",
-        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Sundown",
-          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Zodico Blues & Boogie",
-        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
-      },
-      "artists": [
-        {
-          "name": "Clifton Chenier",
-          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Boppin' The Rock",
-      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Heart and Soul",
         "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
       },
@@ -439,6 +391,22 @@
       "duration_ms": 235431,
       "name": "Reconsider Me",
       "url": "https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Alligator",
+        "url": "https://open.spotify.com/album/7bWzWGdmK5QepRg00IoKDV"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Hey Now Baby",
+      "url": "https://open.spotify.com/track/66fgQCgrVrzuGwgOygTh5w"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -459,6 +427,38 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Zodico Blues & Boogie",
+        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
+      },
+      "artists": [
+        {
+          "name": "Clifton Chenier",
+          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Boppin' The Rock",
+      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Good Neighbor",
+        "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
+      },
+      "artists": [
+        {
+          "name": "John Boutt\u00e9",
+          "url": "https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo"
+        }
+      ],
+      "duration_ms": 144800,
+      "name": "Accentuate The Positive",
+      "url": "https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Classified (Remixed & Expanded Edition)",
         "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 154400,
       "name": "One For The Highway",
       "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -511,22 +527,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Good Neighbor",
-        "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
-      },
-      "artists": [
-        {
-          "name": "John Boutt\u00e9",
-          "url": "https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo"
-        }
-      ],
-      "duration_ms": 144800,
-      "name": "Accentuate The Positive",
-      "url": "https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "New Orleans Street Singer",
         "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
@@ -539,70 +539,6 @@
       "duration_ms": 227960,
       "name": "Brown Skin Woman",
       "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Hooked On Your Love",
-        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
-      },
-      "artists": [
-        {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
-        }
-      ],
-      "duration_ms": 277933,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Louis Armstrong Plays W. C. Handy",
-        "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "Yellow Dog Blues",
-      "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Let's Talk It Over",
-        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
-        }
-      ],
-      "duration_ms": 356773,
-      "name": "Greasy Man",
-      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "I'm A Mojo Man: The Best Of The Excello Singles",
-        "url": "https://open.spotify.com/album/6ubAM1dJPDqNTDjgIssTha"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Sundown",
-          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Gonna Stick To You Baby",
-      "url": "https://open.spotify.com/track/5rTs9t774oyGMOlEgAOgz6"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -623,6 +559,54 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Louis Armstrong Plays W. C. Handy",
+        "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "Yellow Dog Blues",
+      "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Hooked On Your Love",
+        "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
+      },
+      "artists": [
+        {
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+        }
+      ],
+      "duration_ms": 277933,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Let's Talk It Over",
+        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "duration_ms": 356773,
+      "name": "Greasy Man",
+      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Roadside Attractions",
         "url": "https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj"
       },
@@ -639,18 +623,46 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Walking On Fire",
-        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
+        "name": "I'm A Mojo Man: The Best Of The Excello Singles",
+        "url": "https://open.spotify.com/album/6ubAM1dJPDqNTDjgIssTha"
       },
       "artists": [
         {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Blues Stew",
-      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
+      "duration_ms": 126266,
+      "name": "Gonna Stick To You Baby",
+      "url": "https://open.spotify.com/track/5rTs9t774oyGMOlEgAOgz6"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Vol. 1: Blues Won't Let Me Take My Rest",
+        "url": "https://open.spotify.com/album/6G2BuAE28vxLRAGJPgPBOb"
+      },
+      "artists": [
+        {
+          "name": "Henry Gray",
+          "url": "https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY"
+        },
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Bob Stroger",
+          "url": "https://open.spotify.com/artist/1JjFeW5yiXLb18bozbG1pe"
+        },
+        {
+          "name": "Willie \"Big Eyes\" Smith",
+          "url": "https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng"
+        }
+      ],
+      "duration_ms": 232413,
+      "name": "Let's Get High",
+      "url": "https://open.spotify.com/track/2uYbT9w61amgpdsxN9Ozx3"
     }
   ],
   "unique_name": "Louisiana Blues",

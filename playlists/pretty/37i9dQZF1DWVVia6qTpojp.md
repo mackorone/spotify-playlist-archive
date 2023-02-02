@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,776 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,609 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 54 | [I Believe](https://open.spotify.com/track/6PFR1iE0uUicY7YcuwDq2Z) | [Sam & Becki Cox](https://open.spotify.com/artist/5i3eObstS3iB7zwjmg1ct9) | [I Believe](https://open.spotify.com/album/5H4LLOOwlcptxzEJHX3RoL) | 5:20 |
 | 55 | [On & on](https://open.spotify.com/track/3FJBwU3olBn37hiu3UIR8p) | [Christ Church Manchester Music](https://open.spotify.com/artist/4Mnkb9kPN7X3jWy0oA6gx4), [Jake Woodward](https://open.spotify.com/artist/5nQgPJe124X8kMRA5U1vGb) | [Acoustic Worship, Pt\. 2](https://open.spotify.com/album/6FUIT7F8EIqzKRoS6EZfvI) | 5:23 |
 | 56 | [No Longer Afraid](https://open.spotify.com/track/4gtAh8M8QawJswS08bJ0Ri) | [Anastasia Fomenko](https://open.spotify.com/artist/3Rk3xPBC95uadfv2PwpO2P) | [No Longer Afraid](https://open.spotify.com/album/7HmGYngAcFgjxPy3ifbF1a) | 5:22 |
-| 57 | [Jesus I Love You \- Live](https://open.spotify.com/track/3VmSMZSYeFvZEQjk8DiaWm) | [Soul Survivor](https://open.spotify.com/artist/3jTzI8EpjES1TRYhWs34nm), [Tom Smith](https://open.spotify.com/artist/22ZjvaisJlv6JVpHbeHunG) | [The Promise \(Live\)](https://open.spotify.com/album/0i6oG7YRl57CGwW2bJRTd2) | 7:06 |
+| 57 | [Jesus I Love You \- Live](https://open.spotify.com/track/3VmSMZSYeFvZEQjk8DiaWm) | [Soul Survivor](https://open.spotify.com/artist/3jTzI8EpjES1TRYhWs34nm), [Tom Smith](https://open.spotify.com/artist/4y7Cnogmk0fX6UXhGznDQk) | [The Promise \(Live\)](https://open.spotify.com/album/0i6oG7YRl57CGwW2bJRTd2) | 7:06 |
 | 58 | [Stir a Passion \- Live](https://open.spotify.com/track/5Yd2LrQZg3ouzzvgC1QKvJ) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Stir a Passion](https://open.spotify.com/album/5pjsLhandWZP3rUF7NQuZ9) | 8:19 |
 | 59 | [Fix MY Eyes On You](https://open.spotify.com/track/5Gvsgw6zvvcK73L8mrN9NY) | [InSalvation](https://open.spotify.com/artist/254N4bAbejA5vO4sJGAUdX) | [NEON](https://open.spotify.com/album/1OahG76uAlkwkaKR4OmxK4) | 5:57 |
 | 60 | [Simple Pursuit](https://open.spotify.com/track/7mrbfKEIvwf8rWXBxEtp89) | [Ben Cantelon](https://open.spotify.com/artist/0hG95VUGURuOHoxgts6Br3) | [The Ascent, Vol\. 1](https://open.spotify.com/album/2GvamlBYznzImkPF1ue7E2) | 5:18 |

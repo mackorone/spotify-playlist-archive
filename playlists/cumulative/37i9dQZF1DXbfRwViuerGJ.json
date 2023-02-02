@@ -1,11 +1,62 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Celebrate all of the biggest Spotify Kids' hits in 2021 with your family!",
-  "name": "Top Tracks for Kids and Families 2021",
-  "published_playlist_ids": [
-    "54602UAXito5umhVmcq7kw"
-  ],
+  "description": "Celebrate all of the biggest Spotify Kids' hits in 2022 with your family!",
+  "name": "Top Tracks for Kids and Families 2022",
   "tracks": [
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206437,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/2VeLdiYiILcCOEV0izfzEW"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Super POP!",
+        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167714,
+      "name": "abc",
+      "url": "https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja"
+    },
+    {
+      "album": {
+        "name": "About That Time",
+        "url": "https://open.spotify.com/album/54mp8gJ7IMJ60Ix7RXpI23"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192312,
+      "name": "About That Time",
+      "url": "https://open.spotify.com/track/3JKMRspZjPJWhxwbewnvQU"
+    },
     {
       "album": {
         "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
@@ -23,10 +74,64 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 159665,
       "name": "Agua (with J Balvin)",
       "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
+    },
+    {
+      "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/2VoXBbk9eHUed7TMU0xEme"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118636,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/0wlSZttPBRHvdYXHZfFsLE"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Super POP!",
+        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162257,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134148,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
     },
     {
       "album": {
@@ -59,7 +164,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -81,6 +186,42 @@
       "duration_ms": 231041,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Super POP!",
+        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195438,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/1kqu1lWNTNmwrRt8amTRSW"
+    },
+    {
+      "album": {
+        "name": "Bang Bang (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/1wPUjmvjbAMXf8vc5kkWrG"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138806,
+      "name": "Bang Bang - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/4mJ7DPXsKLuQ7o71Vfe4O5"
     },
     {
       "album": {
@@ -113,7 +254,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 170858,
       "name": "Bang!",
       "url": "https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY"
@@ -153,10 +294,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "album": {
@@ -171,7 +330,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 176266,
       "name": "Better When I'm Dancin'",
       "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
@@ -189,10 +348,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 211786,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
+    },
+    {
+      "album": {
+        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249595,
+      "name": "Black Magic Woman - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/1tOaLXw4uhsuW2IesqDzSV"
     },
     {
       "album": {
@@ -207,10 +384,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "Born To Be Alive (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/04Qwy7yFfUd6o9prhAFCU3"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192425,
+      "name": "Born To Be Alive - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/3xfa9a3Qir4ybQRbvHBVLH"
     },
     {
       "album": {
@@ -243,10 +438,76 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "album": {
+        "name": "The Sea Beast (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx"
+      },
+      "artists": [
+        {
+          "name": "Nell Benjamin",
+          "url": "https://open.spotify.com/artist/2zd6EMs4amJNjdq41ArIrJ"
+        },
+        {
+          "name": "Laurence O'Keefe",
+          "url": "https://open.spotify.com/artist/1DX6JkrHY2mbpWK4gntYhO"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97546,
+      "name": "Captain Crow - from \"The Sea Beast\" Soundtrack",
+      "url": "https://open.spotify.com/track/7FPa79wpVMBvcw0p7SoB2V"
+    },
+    {
+      "album": {
+        "name": "Cecilia (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/6dU01tufEQ3jaRbfdkY1MZ"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134057,
+      "name": "Cecilia - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/4I4RiYWFY4z0XenFVcqXag"
+    },
+    {
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
       "album": {
@@ -261,10 +522,64 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 175280,
       "name": "Colombia, Mi Encanto",
       "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
+    },
+    {
+      "album": {
+        "name": "Purple Hearts (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176859,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
+    },
+    {
+      "album": {
+        "name": "Monster High the Movie (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/46Q8wy7InTumh7vdV7VBqJ"
+      },
+      "artists": [
+        {
+          "name": "Monster High",
+          "url": "https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173851,
+      "name": "Coming Out of the Dark",
+      "url": "https://open.spotify.com/track/6y4WWNM5SpVw9kTDTQ0zks"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/16nCYYc1lCxCyvaR1lgo0i"
     },
     {
       "album": {
@@ -283,7 +598,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
@@ -301,7 +616,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
@@ -319,10 +634,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "Dos Oruguitas",
+      "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
     },
     {
       "album": {
@@ -337,7 +670,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/4ml4WlnHDEpOK8HRVYTCWf"
@@ -373,7 +706,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -395,6 +728,46 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/72wqLtMtkrB0qUw6jSqM0Z"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Super POP!",
+        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148009,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/0fEB4S6ZyFlRKNvFWRKO03"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack/Season 3)",
+        "url": "https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197972,
+      "name": "Finally Free",
+      "url": "https://open.spotify.com/track/4b3ywxznCNJS9NAsADihQe"
     },
     {
       "album": {
@@ -441,10 +814,64 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 213983,
       "name": "Flesh & Bone",
       "url": "https://open.spotify.com/track/72SvoAUIQnaPJIzEspcgW6"
+    },
+    {
+      "album": {
+        "name": "Fraggle Rock: Back to the Rock (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2tslldkcDqRu8nsCwu9Ly1"
+      },
+      "artists": [
+        {
+          "name": "Fraggle Rock",
+          "url": "https://open.spotify.com/artist/3Nxg9jbBUXycegdZFGuoEr"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63386,
+      "name": "Fraggle Rock Theme",
+      "url": "https://open.spotify.com/track/5QIkpHVThnrfsK4wOOxRIP"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP Super POP!",
+        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154042,
+      "name": "Ghost - 2022",
+      "url": "https://open.spotify.com/track/72gLi1HwUs8T21bQRWQQ1m"
+    },
+    {
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs"
     },
     {
       "album": {
@@ -463,10 +890,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 191094,
       "name": "Glowin' Up - from the Netflix film My Little Pony: A New Generation",
       "url": "https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166413,
+      "name": "Good 4 U",
+      "url": "https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf"
     },
     {
       "album": {
@@ -481,7 +926,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 210643,
       "name": "Good Mood - Original Song From Paw Patrol: The Movie",
       "url": "https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1"
@@ -523,7 +968,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 189868,
       "name": "Good to Be Bad",
       "url": "https://open.spotify.com/track/1RIYF8NDIIWBvJe4vhQr6y"
@@ -545,10 +990,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 214289,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298899,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
     },
     {
       "album": {
@@ -567,10 +1030,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "album": {
+        "name": "Lyle, Lyle, Crocodile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2kchX1pzbXOv6VRpd7vu5G"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140548,
+      "name": "Heartbeat - \u201c From the \u201cLyle, Lyle, Crocodile\u201d Original Motion Picture Soundtrack \u201d",
+      "url": "https://open.spotify.com/track/72L3pu1SBWyF1jFX7EQFL9"
     },
     {
       "album": {
@@ -593,7 +1074,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
@@ -611,7 +1092,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
@@ -633,7 +1114,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 156346,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac"
@@ -655,10 +1136,68 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219760,
+      "name": "I Knew You Were Trouble (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6AtZLIzUINvExIUy4QhdjP"
+    },
+    {
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        },
+        {
+          "name": "Bono",
+          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181356,
+      "name": "I Still Haven\u2019t Found What I\u2019m Looking For (with Bono)",
+      "url": "https://open.spotify.com/track/2dsADtLSSLcfsSDn7sCdak"
     },
     {
       "album": {
@@ -705,7 +1244,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 252218,
       "name": "It's Goin' Down",
       "url": "https://open.spotify.com/track/537mRuCCiKQNFlN1vdSl1k"
@@ -775,7 +1314,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240600,
       "name": "Just Sing (Trolls World Tour)",
       "url": "https://open.spotify.com/track/139tsLjqIp7RJo22lAaTPs"
@@ -793,7 +1332,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
@@ -811,7 +1350,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
@@ -829,10 +1368,82 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 203807,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184956,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE"
+    },
+    {
+      "album": {
+        "name": "Disenchanted (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5S0XYRNtdDHNas37W1AhNH"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255525,
+      "name": "Love Power",
+      "url": "https://open.spotify.com/track/4WhXQ00yRvQor4YVcK9HRI"
+    },
+    {
+      "album": {
+        "name": "Lightyear (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3SNjDkFpokQWo9gm88dWVx"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "Mission Perpetual",
+      "url": "https://open.spotify.com/track/20hnuSaVJue04MOqAGODKP"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119788,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St"
     },
     {
       "album": {
@@ -851,10 +1462,70 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 177134,
       "name": "My Own Drum (Remix) [with Missy Elliott]",
       "url": "https://open.spotify.com/track/23S9UFWrkq2FcDAU2zUzey"
+    },
+    {
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "album": {
+        "name": "Turning Red (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160946,
+      "name": "Nobody Like U",
+      "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
     },
     {
       "album": {
@@ -869,7 +1540,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 185173,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/2Gzuc9dFCAXSzdHl3UcCNz"
@@ -891,7 +1562,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
@@ -913,7 +1584,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 181823,
       "name": "One Thing Right",
       "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
@@ -935,7 +1606,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
@@ -953,7 +1624,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 92693,
       "name": "Raining Tacos",
       "url": "https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7"
@@ -971,7 +1642,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 217996,
       "name": "Reflection (2020)",
       "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
@@ -989,10 +1660,46 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
+    },
+    {
+      "album": {
+        "name": "Ivy + Bean (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158167,
+      "name": "Rules R Made 2 B Broken",
+      "url": "https://open.spotify.com/track/0mtEUhkt4MwxtNtYOitnCp"
+    },
+    {
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
       "album": {
@@ -1011,7 +1718,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 171374,
       "name": "Savage Love (Laxed - Siren Beat)",
       "url": "https://open.spotify.com/track/5T490vvoFNU6psep0NPmxs"
@@ -1029,10 +1736,98 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207120,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday In Harmony",
+        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
+    },
+    {
+      "album": {
+        "name": "Smells Like Me",
+        "url": "https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204079,
+      "name": "Smells Like Me",
+      "url": "https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b"
     },
     {
       "album": {
@@ -1063,7 +1858,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 209964,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK"
@@ -1085,10 +1880,50 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202226,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
     },
     {
       "album": {
@@ -1103,10 +1938,36 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 187436,
       "name": "Sweet but Psycho",
       "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Olga Merediz",
+          "url": "https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257213,
+      "name": "The Family Madrigal",
+      "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
     },
     {
       "album": {
@@ -1137,7 +1998,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 302146,
       "name": "The Greatest Show",
       "url": "https://open.spotify.com/track/4ylWMuGbMXNDgDd8lErEle"
@@ -1159,7 +2020,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 174380,
       "name": "The Rose Song",
       "url": "https://open.spotify.com/track/4qCySCQyiyLT2mVUOM2zdS"
@@ -1177,7 +2038,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 173539,
       "name": "Therefore I Am",
       "url": "https://open.spotify.com/track/20R4HfKloPKgXDqU7UKk3x"
@@ -1219,10 +2080,48 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 205306,
       "name": "Trolls Wanna Have Good Times (feat. Icona Pop)",
       "url": "https://open.spotify.com/track/1mo8r5EwAfNElDFOQNgcQ8"
+    },
+    {
+      "album": {
+        "name": "Turning Red (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3"
+      },
+      "artists": [
+        {
+          "name": "4*TOWN (From Disney and Pixar\u2019s Turning Red)",
+          "url": "https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Finneas O'Connell",
+          "url": "https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96"
+        },
+        {
+          "name": "Topher Ngo",
+          "url": "https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l"
+        },
+        {
+          "name": "Grayson Villanueva",
+          "url": "https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ"
+        },
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "U Know What's Up",
+      "url": "https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE"
     },
     {
       "album": {
@@ -1241,10 +2140,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "Waiting On A Miracle",
+      "url": "https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt"
     },
     {
       "album": {
@@ -1259,10 +2176,52 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        },
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        },
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        },
+        {
+          "name": "Rhenzy Feliz",
+          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
+        },
+        {
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
       "album": {
@@ -1277,10 +2236,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 155333,
       "name": "Wellerman - Sea Shanty",
       "url": "https://open.spotify.com/track/54OBgO0Xwu20Jak9TMXbR7"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "What Else Can I Do?",
+      "url": "https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG"
     },
     {
       "album": {
@@ -1299,10 +2280,32 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 222306,
       "name": "What's Up Danger (with Black Caviar)",
       "url": "https://open.spotify.com/track/5zsHmE2gO3RefVsPyw2e3T"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack/Season 3)",
+        "url": "https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196619,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/5tbxYUeSzEn1qMmnF2zQsK"
     },
     {
       "album": {
@@ -1317,7 +2320,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 163893,
       "name": "You're Welcome",
       "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
@@ -1335,7 +2338,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 210280,
       "name": "Your Song Saved My Life - From Sing 2",
       "url": "https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob"

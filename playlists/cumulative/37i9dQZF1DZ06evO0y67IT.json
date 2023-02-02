@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-26",
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
   "name": "This Is Hawthorne Heights",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -17,7 +16,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 188166,
       "name": "8",
       "url": "https://open.spotify.com/track/45iu2YJlNayNlBaJjZWJ2z"
@@ -374,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216520,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
+    },
+    {
+      "album": {
         "name": "Dead Formats, Vol. 1",
         "url": "https://open.spotify.com/album/6a5P9JdN8QpJr1TuK3JPSn"
       },
@@ -500,7 +517,7 @@
     },
     {
       "album": {
-        "name": "Ohio is for Lovers (Lo-Fi)",
+        "name": "Ohio is for Lovers (Lofi)",
         "url": "https://open.spotify.com/album/0KRDlxHUmKfQRWqSiV0SAw"
       },
       "artists": [
@@ -517,7 +534,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174915,
-      "name": "Ohio Is For Lovers - Lo-Fi",
+      "name": "Ohio Is For Lovers - Lofi",
       "url": "https://open.spotify.com/track/68kuwYK3mdn415abKKiISa"
     },
     {
@@ -703,6 +720,24 @@
       "duration_ms": 198066,
       "name": "Spray Paint It Black",
       "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
+    },
+    {
+      "album": {
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 198000,
+      "name": "Starlighter (Echo, Utah)",
+      "url": "https://open.spotify.com/track/6nGB0sJyx9bMPMmuVQBSPc"
     },
     {
       "album": {

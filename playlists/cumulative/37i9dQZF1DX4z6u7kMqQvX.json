@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
   "name": "Amor Indie",
-  "published_playlist_ids": [
-    "05X6LIr2loTOLIj7GqiZl1"
-  ],
   "tracks": [
     {
       "album": {
@@ -63,7 +60,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 184736,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
@@ -373,7 +370,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2023-01-01",
       "duration_ms": 210960,
       "name": "Ah\u00ed Ah\u00ed",
       "url": "https://open.spotify.com/track/6m02i6JyJz15hw8jOqu3Cz"
@@ -565,7 +562,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 255750,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88"
@@ -623,6 +620,24 @@
       "duration_ms": 151040,
       "name": "Amor de Verano",
       "url": "https://open.spotify.com/track/60hPM9MOu0wjKInZzYwYH8"
+    },
+    {
+      "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 228437,
+      "name": "Amor de Verano",
+      "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
     },
     {
       "album": {
@@ -793,7 +808,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-04",
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
@@ -1253,7 +1268,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-13",
       "duration_ms": 208329,
       "name": "Cara de Cera",
       "url": "https://open.spotify.com/track/4x6U7KCXOANAVWOgpsR5kc"
@@ -1616,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        },
+        {
+          "name": "Juanito El Cantor",
+          "url": "https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 197506,
+      "name": "Cuando Estamos los Dos",
+      "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
+    },
+    {
+      "album": {
         "name": "Cuando Estamos los Dos",
         "url": "https://open.spotify.com/album/6fcX02OAL5PYZWgzusNEwB"
       },
@@ -1769,6 +1806,28 @@
       "duration_ms": 213859,
       "name": "DA2",
       "url": "https://open.spotify.com/track/7dRm6XxlK8c9ug3kt4AJjL"
+    },
+    {
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ"
     },
     {
       "album": {
@@ -2193,7 +2252,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 134316,
       "name": "duele",
       "url": "https://open.spotify.com/track/0PraCrWXNKfoLpVnqZsfCj"
@@ -2947,10 +3006,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 278712,
       "name": "Fuji",
       "url": "https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU"
+    },
+    {
+      "album": {
+        "name": "Frontera / Fuji",
+        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278964,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
     },
     {
       "album": {
@@ -3099,6 +3176,24 @@
       "duration_ms": 205569,
       "name": "Hablar de Ti",
       "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
+    },
+    {
+      "album": {
+        "name": "Hacedora",
+        "url": "https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127153,
+      "name": "Hacedora",
+      "url": "https://open.spotify.com/track/3CaqjyISMBli311fJtv44h"
     },
     {
       "album": {
@@ -4551,7 +4646,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 189695,
       "name": "Mira",
       "url": "https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd"
@@ -5125,6 +5220,24 @@
       "duration_ms": 201533,
       "name": "Para Sonre\u00edr",
       "url": "https://open.spotify.com/track/0XP7Th9tsuEi0wuX9UXznm"
+    },
+    {
+      "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA",
+          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     },
     {
       "album": {
@@ -6379,7 +6492,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 212386,
       "name": "SOMOS TAN INTENSOS",
       "url": "https://open.spotify.com/track/6LTS9XjUZXVDr0DY0b8AQA"
@@ -6433,10 +6546,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 177368,
       "name": "Sue\u00f1o Tsunami",
       "url": "https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl"
+    },
+    {
+      "album": {
+        "name": "Crucero Cristal",
+        "url": "https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177368,
+      "name": "Sue\u00f1o Tsunami",
+      "url": "https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI"
     },
     {
       "album": {
@@ -6455,6 +6586,24 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "album": {
@@ -7101,6 +7250,24 @@
       "duration_ms": 142308,
       "name": "Un Poco de M\u00ed",
       "url": "https://open.spotify.com/track/3CvCvbpUsHVAWc1HV3NJ8H"
+    },
+    {
+      "album": {
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179943,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
     },
     {
       "album": {

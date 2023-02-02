@@ -1,15 +1,67 @@
 {
-  "description": "Sped up songs from TikTok and around the web! Discover the latest sped up songs and sped up versions of songs, and discover new favorites!",
-  "num_followers": 24381,
+  "description": "Sped up songs from TikTok and around the internet.",
+  "num_followers": 25281,
   "original_name": "sped up songs",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "NzM5LDc3MjBkZWQ1ZWM1MTMwZjBiYTk4NWMyNGM0NmJiNTViOTc0ZjU5ZGY=",
+  "snapshot_id": "NzYyLDIzZWRkMWEzYjBjOWM5ODlmMjJjOTlkMzUzOTQ1MjIzODRlYzZiN2Y=",
   "tracks": [
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
+      "album": {
+        "name": "Champion (Sped Up)",
+        "url": "https://open.spotify.com/album/5IL1QYzuMwfQp2wGCjpofc"
+      },
+      "artists": [
+        {
+          "name": "Graham Lake",
+          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        }
+      ],
+      "duration_ms": 181516,
+      "name": "Champion - Sped Up",
+      "url": "https://open.spotify.com/track/50Ch9jYuXVyliewrDLDUsM"
+    },
+    {
+      "added_at": "2023-01-30 06:26:24",
+      "album": {
+        "name": "Unholy (feat. Kim Petras) [Sped Up]",
+        "url": "https://open.spotify.com/album/1AShHlfeyq4glxHQUupwDF"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        }
+      ],
+      "duration_ms": 136780,
+      "name": "Unholy (feat. Kim Petras) - Sped Up",
+      "url": "https://open.spotify.com/track/7jGIvlfRHMZFGCyitjbOK4"
+    },
+    {
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Remember (Versions)",
         "url": "https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC"
@@ -33,63 +85,7 @@
       "url": "https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
-      "album": {
-        "name": "Fall In Love Alone (Stripped Version)",
-        "url": "https://open.spotify.com/album/3PMJ80miJjWOXtEWoirIiK"
-      },
-      "artists": [
-        {
-          "name": "Stacey Ryan",
-          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
-        }
-      ],
-      "duration_ms": 158880,
-      "name": "Fall In Love Alone - Sped Up Version",
-      "url": "https://open.spotify.com/track/6ButBCeYcNMlllAOI4BIZb"
-    },
-    {
-      "added_at": "2022-11-21 05:31:30",
-      "album": {
-        "name": "the rainbow cassette (bonus)",
-        "url": "https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 102663,
-      "name": "dumb dumb - sped up",
-      "url": "https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A"
-    },
-    {
-      "added_at": "2022-11-21 05:31:30",
-      "album": {
-        "name": "I\u2019m Not The Only One (Sped Up)",
-        "url": "https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Speed Radio",
-          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
-        },
-        {
-          "name": "xxtristanxo",
-          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
-        }
-      ],
-      "duration_ms": 207339,
-      "name": "I'm Not The Only One - Sped Up",
-      "url": "https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n"
-    },
-    {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "All The Things She Said (Sped Up)",
         "url": "https://open.spotify.com/album/1JS0COqrR1cURcgPEiePjc"
@@ -113,7 +109,7 @@
       "url": "https://open.spotify.com/track/2m1JNhcHrWOsexYdbqu9Ku"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Everybody Wants To Rule The World (Sped Up Version)",
         "url": "https://open.spotify.com/album/1OCUxmIIq0Q1Mj3AFATzsI"
@@ -133,7 +129,7 @@
       "url": "https://open.spotify.com/track/6MRD4fDXBbqa0xodmaFk8Q"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Love Me Back (Fayahh Beat) [Sped Up]",
         "url": "https://open.spotify.com/album/3SRRHvOqivEDKuwOdFGOdq"
@@ -161,7 +157,7 @@
       "url": "https://open.spotify.com/track/2cchY5dEYErRDF56JlMb7Q"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Lights (Sped Up Version)",
         "url": "https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR"
@@ -181,7 +177,31 @@
       "url": "https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
+      "album": {
+        "name": "I\u2019m Not The Only One (Sped Up)",
+        "url": "https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "I'm Not The Only One - Sped Up",
+      "url": "https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n"
+    },
+    {
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Pass The Dutchie (Sped Up Version)",
         "url": "https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Black Out Days (Sped Up)",
         "url": "https://open.spotify.com/album/6Ac5Ik66ewaCqABSkrKJal"
@@ -225,7 +245,47 @@
       "url": "https://open.spotify.com/track/2pXZpxidEYMMNUlPOBADGa"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
+      "album": {
+        "name": "Cool for the Summer [Sped Up (Nightcore)]",
+        "url": "https://open.spotify.com/album/410MZofhiv240ybaWhUxpc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        }
+      ],
+      "duration_ms": 191912,
+      "name": "Cool for the Summer - Sped Up (Nightcore)",
+      "url": "https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67"
+    },
+    {
+      "added_at": "2023-01-30 06:26:24",
+      "album": {
+        "name": "Say It Right (Sped Up Remix)",
+        "url": "https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Say It Right - Sped Up Remix",
+      "url": "https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy"
+    },
+    {
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Girlfriend (Remixes)",
         "url": "https://open.spotify.com/album/6MnJpSyydeF9cgmKqgTxtk"
@@ -249,7 +309,71 @@
       "url": "https://open.spotify.com/track/7MFHGhW859DncitLMUN09f"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
+      "album": {
+        "name": "GOATED. (Sped Up)",
+        "url": "https://open.spotify.com/album/5dzKGx4HaMl59j1RxUf7Nm"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 142229,
+      "name": "GOATED. - Sped Up",
+      "url": "https://open.spotify.com/track/6WRVHlO5WduhRIKfLiuEwz"
+    },
+    {
+      "added_at": "2023-01-30 06:26:24",
+      "album": {
+        "name": "Changes (Sped Up)",
+        "url": "https://open.spotify.com/album/6UlD8f21Tm3qP8Q4l1x37s"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 132030,
+      "name": "Changes - Sped Up",
+      "url": "https://open.spotify.com/track/1VObZqOx2tlK5WgItrL10x"
+    },
+    {
+      "added_at": "2023-01-30 06:26:24",
+      "album": {
+        "name": "Fall In Love Alone (Stripped Version)",
+        "url": "https://open.spotify.com/album/3PMJ80miJjWOXtEWoirIiK"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "duration_ms": 158880,
+      "name": "Fall In Love Alone - Sped Up Version",
+      "url": "https://open.spotify.com/track/6ButBCeYcNMlllAOI4BIZb"
+    },
+    {
+      "added_at": "2023-01-30 06:26:24",
+      "album": {
+        "name": "the rainbow cassette (bonus)",
+        "url": "https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 102663,
+      "name": "dumb dumb - sped up",
+      "url": "https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A"
+    },
+    {
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Shallowside Baby (Fast)",
         "url": "https://open.spotify.com/album/13nN8U7DMTiLEMh23FHAXM"
@@ -273,47 +397,27 @@
       "url": "https://open.spotify.com/track/5uWJEu0CHVscXs3U6HXXLq"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
-        "name": "Cool for the Summer [Sped Up (Nightcore)]",
-        "url": "https://open.spotify.com/album/410MZofhiv240ybaWhUxpc"
+        "name": "Pink (Freak)",
+        "url": "https://open.spotify.com/album/2jLyQ6Re3QbmuvoPhUzlzR"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Elliot Lee",
+          "url": "https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5"
         },
         {
-          "name": "Speed Radio",
-          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+          "name": "Eel Smiles",
+          "url": "https://open.spotify.com/artist/77FCuQcl7IdDlaRtFIJ3Sy"
         }
       ],
-      "duration_ms": 191912,
-      "name": "Cool for the Summer - Sped Up (Nightcore)",
-      "url": "https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67"
+      "duration_ms": 209281,
+      "name": "Pink (Freak) - sped up",
+      "url": "https://open.spotify.com/track/6Z0jVWnJLzPd0zHerbOuQ1"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
-      "album": {
-        "name": "Say It Right (Sped Up Remix)",
-        "url": "https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Speed Radio",
-          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Say It Right - Sped Up Remix",
-      "url": "https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy"
-    },
-    {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Happier (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ"
@@ -333,7 +437,7 @@
       "url": "https://open.spotify.com/track/3g7nyIGI5KepLGdonmWjh7"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Cha Cha Slide",
         "url": "https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL"
@@ -353,7 +457,7 @@
       "url": "https://open.spotify.com/track/65Jk2MdNyUuCjOvp5QOD1c"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "My Love (Higher & Faster)",
         "url": "https://open.spotify.com/album/7pddsm8GypEIeIP6k9bUjK"
@@ -369,7 +473,7 @@
       "url": "https://open.spotify.com/track/6yquPPoRTlNEIVAINQMP9D"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Karma (Sped Up)",
         "url": "https://open.spotify.com/album/3VZ4jpMK4wcOXv00lV48Qn"
@@ -385,7 +489,7 @@
       "url": "https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "soft spot",
         "url": "https://open.spotify.com/album/5A3dh1CIsZwBTppyUsiBtV"
@@ -409,7 +513,7 @@
       "url": "https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Hotel (Sped Up)",
         "url": "https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu"
@@ -425,7 +529,7 @@
       "url": "https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "DIVE IN! (SPED UP! / SLOWED REVERB!)",
         "url": "https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP"
@@ -441,7 +545,7 @@
       "url": "https://open.spotify.com/track/1I3DclkIlscxB8FjPpocCI"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
@@ -457,7 +561,7 @@
       "url": "https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Teenage Dirtbag (Sped Up)",
         "url": "https://open.spotify.com/album/3MJwPSoCnSfeuoZKHu4PCO"
@@ -477,23 +581,7 @@
       "url": "https://open.spotify.com/track/4fWaKRsV1WgIPVICeYgrp3"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
-      "album": {
-        "name": "Left and Right (Charlie Puth) [feat. Jung Kook of BTS] [Sped Up Version]",
-        "url": "https://open.spotify.com/album/55rl4IbGHVR8AaT2j0FL5r"
-      },
-      "artists": [
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        }
-      ],
-      "duration_ms": 135977,
-      "name": "Left and Right (Charlie Puth) [feat. Jung Kook of BTS] - Sped Up Version",
-      "url": "https://open.spotify.com/track/4qY6XV17tyJdpAgo9JoCLA"
-    },
-    {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Tek It (I Watch the Moon)",
         "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
@@ -509,7 +597,7 @@
       "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
@@ -525,7 +613,7 @@
       "url": "https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
@@ -549,7 +637,7 @@
       "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Desert Rose (The Remixes)",
         "url": "https://open.spotify.com/album/5gBGLLbmbIMNfuiWSWB6He"
@@ -565,7 +653,7 @@
       "url": "https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Over (Sped Up)",
         "url": "https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy"
@@ -581,7 +669,7 @@
       "url": "https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Collide (Remix Pack)",
         "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
@@ -601,31 +689,7 @@
       "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
-      "album": {
-        "name": "Drowning (Sped Up Version)",
-        "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
-      },
-      "artists": [
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 174517,
-      "name": "Drowning - Sped Up Version",
-      "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
-    },
-    {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Shootout (Sped Up)",
         "url": "https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr"
@@ -645,7 +709,7 @@
       "url": "https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "prolly my spookiest beat (sped up)",
         "url": "https://open.spotify.com/album/5EJjM6oFkw0bdnCchn5BRV"
@@ -661,7 +725,7 @@
       "url": "https://open.spotify.com/track/3TK0rB4H4oKHjf1l3Dteop"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
         "url": "https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c"
@@ -677,7 +741,7 @@
       "url": "https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
@@ -697,7 +761,7 @@
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "BABYDOLL (Speed)",
         "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
@@ -713,7 +777,7 @@
       "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
@@ -729,7 +793,7 @@
       "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "moment",
         "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
@@ -745,7 +809,7 @@
       "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
@@ -761,7 +825,7 @@
       "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "all I want is you",
         "url": "https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V"
@@ -781,7 +845,7 @@
       "url": "https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Jenny (Hearteye Speed Mix)",
         "url": "https://open.spotify.com/album/6qLuZEfEiDrVoyfTQXYs8t"
@@ -797,7 +861,7 @@
       "url": "https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Sun Down, I'm Up (Sped Up & Pitched)",
         "url": "https://open.spotify.com/album/2aChr24y3gtWYwFk1Uou7Q"
@@ -813,7 +877,7 @@
       "url": "https://open.spotify.com/track/3WFivFp3uRp79WlwPrLvd1"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "SNAP (High and Fast)",
         "url": "https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP"
@@ -829,7 +893,7 @@
       "url": "https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "SWAMP SKONSTER",
         "url": "https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU"
@@ -845,7 +909,7 @@
       "url": "https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
@@ -861,7 +925,7 @@
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-01-30 06:26:24",
       "album": {
         "name": "Sway (Sped Up Version)",
         "url": "https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud"
@@ -877,10 +941,10 @@
       "url": "https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT"
     },
     {
-      "added_at": "2022-11-21 05:31:30",
+      "added_at": "2023-02-01 10:12:28",
       "album": {
-        "name": "A.O Ultra",
-        "url": "https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L"
+        "name": "Faster (Sped Up)",
+        "url": "https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce"
       },
       "artists": [
         {
@@ -892,57 +956,9 @@
           "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
         }
       ],
-      "duration_ms": 146729,
-      "name": "Faster - Sped Up",
-      "url": "https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy"
-    },
-    {
-      "added_at": "2022-11-21 05:31:30",
-      "album": {
-        "name": "#BrooklynBloodPop!",
-        "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
-      },
-      "artists": [
-        {
-          "name": "SyKo",
-          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
-        }
-      ],
-      "duration_ms": 145610,
-      "name": "#BrooklynBloodPop!",
-      "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
-    },
-    {
-      "added_at": "2022-11-21 05:31:30",
-      "album": {
-        "name": "SugarCrash!",
-        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
-      },
-      "artists": [
-        {
-          "name": "ElyOtto",
-          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
-        }
-      ],
-      "duration_ms": 80080,
-      "name": "SugarCrash!",
-      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
-    },
-    {
-      "added_at": "2022-11-21 05:31:30",
-      "album": {
-        "name": "KERAUNOS KILLER (Speed Up)",
-        "url": "https://open.spotify.com/album/2Fo4LNB3FGC6D0efPS5P0R"
-      },
-      "artists": [
-        {
-          "name": "4WHEEL",
-          "url": "https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6"
-        }
-      ],
-      "duration_ms": 80604,
-      "name": "KERAUNOS KILLER - Speed Up",
-      "url": "https://open.spotify.com/track/5eWhCWydXXHguwz33H7SA1"
+      "duration_ms": 146735,
+      "name": "Faster (Sped Up)",
+      "url": "https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3"
     }
   ],
   "unique_name": "sped up songs (2)",

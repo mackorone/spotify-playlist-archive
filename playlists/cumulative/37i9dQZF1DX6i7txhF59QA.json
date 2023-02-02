@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Let's party with cheerful Korean trot medley. Cover: \bYOUNGTAK(\uc601\ud0c1) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Let's party with cheerful Korean trot medley. Cover: Jung Dong Won(\uc815\ub3d9\uc6d0) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K-Trot Stars",
-  "published_playlist_ids": [
-    "4095CD5XCukMZYOcr7Aaxg"
-  ],
   "tracks": [
     {
       "album": {
@@ -388,6 +385,24 @@
     },
     {
       "album": {
+        "name": "MAN",
+        "url": "https://open.spotify.com/album/68jEx6JgTi7la2zvPCUenu"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "A Real Man",
+      "url": "https://open.spotify.com/track/7E2zRN1q4C0hN3ldjiDaEj"
+    },
+    {
+      "album": {
         "name": "Love call center PART26",
         "url": "https://open.spotify.com/album/5O3IqGbIkx9JZAbfAXVPnW"
       },
@@ -529,7 +544,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 184893,
       "name": "A trip to myself",
       "url": "https://open.spotify.com/track/3K5YbYz0oiSku3AJPm1Cz1"
@@ -645,6 +660,24 @@
       "duration_ms": 226466,
       "name": "Accompany",
       "url": "https://open.spotify.com/track/3QsDCeLt59HHAsWLv2aNkY"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6wMoSJl4K6nRdBZextMlVP"
+      },
+      "artists": [
+        {
+          "name": "\uae38\uac74",
+          "url": "https://open.spotify.com/artist/22QCJ7zR43Fn4xEJRhREhG"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "Ace",
+      "url": "https://open.spotify.com/track/0TEKLqzs45Pevjnrsl4ruz"
     },
     {
       "album": {
@@ -1162,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "MAN",
+        "url": "https://open.spotify.com/album/68jEx6JgTi7la2zvPCUenu"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205413,
+      "name": "Baennori",
+      "url": "https://open.spotify.com/track/00zrncR3597TI1yMpTl1fV"
+    },
+    {
+      "album": {
         "name": "Bongsungah school PART1",
         "url": "https://open.spotify.com/album/2u4uuAYzwv4AsETUiQcssS"
       },
@@ -1590,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/5VZzzQBGBtjpyXEN8vTY5H"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uad70",
+          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249411,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/1fAr5z76bNzGqzs1gKRJo9"
+    },
+    {
+      "album": {
         "name": "breaking news",
         "url": "https://open.spotify.com/album/1wej2j0hqqwXUAeQsQjJNS"
       },
@@ -1789,7 +1858,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 193133,
       "name": "Camellia lady",
       "url": "https://open.spotify.com/track/4EouVirDNRZXKNSjQu1OSq"
@@ -2215,7 +2284,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-05",
       "duration_ms": 169389,
       "name": "Convenience store",
       "url": "https://open.spotify.com/track/6isqtJN5IckTIABWdyOgc4"
@@ -2327,7 +2396,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-29",
       "duration_ms": 133520,
       "name": "Daejeon blues",
       "url": "https://open.spotify.com/track/5CLI1nNLHKe8DzkvYyMx23"
@@ -2469,7 +2538,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 241653,
       "name": "Dancing queen",
       "url": "https://open.spotify.com/track/3kOLMqLWYXUPd9fKMOYbN3"
@@ -3061,7 +3130,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 200887,
       "name": "Drink Makgeolli",
       "url": "https://open.spotify.com/track/1RwZWVU3f6L0votFsPZ6Sc"
@@ -3567,7 +3636,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 145946,
       "name": "Father and daughter",
       "url": "https://open.spotify.com/track/6jJoTiNLZbNPc4nqCQsDza"
@@ -4157,6 +4226,24 @@
       "duration_ms": 229426,
       "name": "Glue stick",
       "url": "https://open.spotify.com/track/5Uj7VESpHsOCs5BPNARWbt"
+    },
+    {
+      "album": {
+        "name": "Taepung's Bride (Original Soundtrack), Pt.20",
+        "url": "https://open.spotify.com/album/7AzzizLooEwnORg1VctocL"
+      },
+      "artists": [
+        {
+          "name": "Ryu Ji Kwang",
+          "url": "https://open.spotify.com/artist/7GjsbJgT9M7DpYIKEV9E1W"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Go to tomorrow",
+      "url": "https://open.spotify.com/track/24tHNTYko3kd6FBcGtLdup"
     },
     {
       "album": {
@@ -5153,7 +5240,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 190160,
       "name": "I happened to see her",
       "url": "https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q"
@@ -5791,6 +5878,24 @@
       "duration_ms": 251133,
       "name": "In full bloom (Prod. Shin Ji Hoo)",
       "url": "https://open.spotify.com/track/5qx9HlOWS0rpr78joROqEI"
+    },
+    {
+      "album": {
+        "name": "HI-RYANG",
+        "url": "https://open.spotify.com/album/27vjFQz43CXWW38kAALA4e"
+      },
+      "artists": [
+        {
+          "name": "\ud558\uc774\ub7c9",
+          "url": "https://open.spotify.com/artist/7Jal3agTZgU8c1nKEtNdZc"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240133,
+      "name": "In Lover Arms",
+      "url": "https://open.spotify.com/track/5FOEgHlotrnrRuTsRERe3N"
     },
     {
       "album": {
@@ -6569,7 +6674,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 185399,
       "name": "Live Alone",
       "url": "https://open.spotify.com/track/4XfuUHxAQEvfD8rfIurDO0"
@@ -6749,7 +6854,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 212973,
       "name": "Love Cowboy",
       "url": "https://open.spotify.com/track/7yBH4eMEkQaWP5fXppUGyx"
@@ -7299,7 +7404,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 108333,
       "name": "Man of harbor",
       "url": "https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW"
@@ -7335,7 +7440,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 188693,
       "name": "Maria",
       "url": "https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL"
@@ -7525,7 +7630,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 177626,
       "name": "MMM",
       "url": "https://open.spotify.com/track/6hLDLjfNsCOs5Z7rCBnmqL"
@@ -7800,12 +7905,12 @@
       "artists": [
         {
           "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/0CShDS3nUANZCrvx6BoGKe"
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
         }
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 233093,
       "name": "My Favorite",
       "url": "https://open.spotify.com/track/232we5jmBvvqHDoCEiJEsK"
@@ -7949,7 +8054,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-24",
       "duration_ms": 230813,
       "name": "My Starry Love",
       "url": "https://open.spotify.com/track/0NPR33dSDeDdlWS4aaN3dc"
@@ -8595,7 +8700,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": "2023-01-29",
       "duration_ms": 191973,
       "name": "Okay",
       "url": "https://open.spotify.com/track/3eP9dO2w8vktDVVIVXxNnI"
@@ -8794,6 +8899,24 @@
     },
     {
       "album": {
+        "name": "MAN",
+        "url": "https://open.spotify.com/album/68jEx6JgTi7la2zvPCUenu"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199173,
+      "name": "OPPA",
+      "url": "https://open.spotify.com/track/0BiDHFoq9c9mmeoQxBQutn"
+    },
+    {
+      "album": {
         "name": "MISS TROT2 PRELIMINARY BEST PART1",
         "url": "https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU"
       },
@@ -8849,7 +8972,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 197493,
       "name": "Partner",
       "url": "https://open.spotify.com/track/1JdfrvQ9Thd92cfTon49b8"
@@ -8933,7 +9056,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 206506,
       "name": "Period of spring poverty",
       "url": "https://open.spotify.com/track/1LggILZOGP60h73FgLPGpX"
@@ -9269,7 +9392,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-02",
       "duration_ms": 231408,
       "name": "Rain of Tears",
       "url": "https://open.spotify.com/track/0WhAtc9mYzrQUPyF3gnOpw"
@@ -9599,7 +9722,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-02-02",
       "duration_ms": 196640,
       "name": "Reverse life:Poor man",
       "url": "https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0"
@@ -9635,7 +9758,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 197195,
       "name": "Ring Ring",
       "url": "https://open.spotify.com/track/47SjnA9lQy5kPdAejHr9Cw"
@@ -10831,7 +10954,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 194400,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/4qTcyoKVwB4fJGdKxm0X2Q"
@@ -10973,7 +11096,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-15",
       "duration_ms": 221826,
       "name": "The Forgotten Season",
       "url": "https://open.spotify.com/track/4Z5NS9w7D3iRDJ64pKpMbm"
@@ -11525,7 +11648,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243800,
       "name": "To your side",
       "url": "https://open.spotify.com/track/0ta3WpGiovwG1131y52khK"
@@ -11601,7 +11724,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-24",
       "duration_ms": 378040,
       "name": "Tralalala",
       "url": "https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz"
@@ -12519,7 +12642,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 272840,
       "name": "White space",
       "url": "https://open.spotify.com/track/2bquds3iXdFCEdb1BOJp1D"
@@ -12555,7 +12678,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 176254,
       "name": "Why are you crying",
       "url": "https://open.spotify.com/track/3GgkHnqjgPC9oQCbcYRJx5"
@@ -13001,7 +13124,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-23",
       "duration_ms": 158466,
       "name": "Yongdusan elegy",
       "url": "https://open.spotify.com/track/7zolvTdlXmsoq52CYvDdAj"
@@ -13081,7 +13204,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 219480,
       "name": "You + A secret love",
       "url": "https://open.spotify.com/track/7r0hg8zWNi2MoHjmxT4t0x"
@@ -13157,7 +13280,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 140453,
       "name": "You are",
       "url": "https://open.spotify.com/track/1aoJu3dxezGb6D7AZIKHXL"
@@ -13836,6 +13959,28 @@
     },
     {
       "album": {
+        "name": "\ub123\uc5b4\ub46c",
+        "url": "https://open.spotify.com/album/2plrGXKgJMWFNhr6ksYl9o"
+      },
+      "artists": [
+        {
+          "name": "\uc2e0\uc7a5\ubbf8",
+          "url": "https://open.spotify.com/artist/57nltA13yKTbaEunhnPGiK"
+        },
+        {
+          "name": "EuReKa",
+          "url": "https://open.spotify.com/artist/1xgTEq2LdIRhSXUUdEKUQm"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192659,
+      "name": "\ub123\uc5b4\ub46c",
+      "url": "https://open.spotify.com/track/0woJxJNpmmQxfDSwlqH6tz"
+    },
+    {
+      "album": {
         "name": "\ub204\ub098\uac00 \ub531\uc774\uc57c",
         "url": "https://open.spotify.com/album/39jXHBQl6DK470FmIeq3Nj"
       },
@@ -13877,15 +14022,15 @@
       },
       "artists": [
         {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+          "name": "\uc815\ub3d9\uc6d0",
+          "url": "https://open.spotify.com/artist/6yKzCbxix54Q8uBj4n4Zlr"
         }
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 229097,
-      "name": "\ub208\ubb3c\ube44 \uc815\ub3d9\uc6d0 Version",
+      "name": "\ub208\ubb3c\ube44 - \uc815\ub3d9\uc6d0 Version",
       "url": "https://open.spotify.com/track/6zscc0O56DKRzNVYcSvqdn"
     },
     {
@@ -13959,7 +14104,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 255573,
       "name": "\ub2f9\ub2f9\ud558\uac8c",
       "url": "https://open.spotify.com/track/4onP3z2jbIicpPXZtX2Nai"
@@ -14060,6 +14205,24 @@
     },
     {
       "album": {
+        "name": "\uc6b0\ub9ac\u5bb6",
+        "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Joong",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251133,
+      "name": "\ub9cc\uac1c (prod. \uc2e0\uc9c0\ud6c4)",
+      "url": "https://open.spotify.com/track/2hXsVNMyojuFYcTiF8nhGa"
+    },
+    {
+      "album": {
         "name": "\ub9cc\uc57d \ud639\uc2dc\ub098 \ub9cc\uc57d\uc5d0",
         "url": "https://open.spotify.com/album/1DJtekGwGeFiEWUkaYslNZ"
       },
@@ -14089,7 +14252,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 156356,
       "name": "\ubaa9\uacc4\ub098\ub8e8",
       "url": "https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3"
@@ -14197,7 +14360,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 228172,
       "name": "\ubc14\ubcf4 \uac19\uc740 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/1YGw2tcb8dsBtcIrZYlj5s"
@@ -14461,7 +14624,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 225693,
       "name": "\uc2f1\uae00 2 \ubc99\uae00",
       "url": "https://open.spotify.com/track/5yRSYLoDaJ3OnyYK9VXTJd"
@@ -14623,7 +14786,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 175687,
       "name": "\uc624\ub77c\ubc84\ub2c8",
       "url": "https://open.spotify.com/track/3bEbIXHlznuoRjjH9PIV1t"
@@ -14689,6 +14852,24 @@
       "duration_ms": 254172,
       "name": "\uc6b0\ub9ac \uc815\ub9d0 \ub098\uc058\ub2e4",
       "url": "https://open.spotify.com/track/1850Ev8SJo3mtNFVEkFf2e"
+    },
+    {
+      "album": {
+        "name": "\uc6b0\ub9ac\u5bb6",
+        "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Joong",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "\uc6b0\uc0b0\uc774 \uc5c6\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/4q5pT0SRWuu8EbXNjhwu94"
     },
     {
       "album": {
@@ -15161,7 +15342,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 194487,
       "name": "\ud558\ud2b8\ubfc5\ubfc5",
       "url": "https://open.spotify.com/track/3xV3HFBSTVhqgI0UmXYJ4e"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Folk tan dulce como la miel. ",
   "name": "madera y miel",
-  "published_playlist_ids": [
-    "51PGtygMYuoHpiALaPK8vx"
-  ],
   "tracks": [
     {
       "album": {
@@ -157,10 +154,28 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 178000,
       "name": "Amor Con Filo",
       "url": "https://open.spotify.com/track/0c9mfOt1GwupTmognEOAPA"
+    },
+    {
+      "album": {
+        "name": "Dark Folk, Vol.1",
+        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX"
     },
     {
       "album": {
@@ -1561,10 +1576,28 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 148353,
       "name": "Te Rendiste En Mi",
       "url": "https://open.spotify.com/track/5juW0lOYaezB3KuUu92cxT"
+    },
+    {
+      "album": {
+        "name": "Dark Folk, Vol.1",
+        "url": "https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148353,
+      "name": "Te Rendiste En MI",
+      "url": "https://open.spotify.com/track/7oyN3Xdz3o0xCNFwWc1lm1"
     },
     {
       "album": {

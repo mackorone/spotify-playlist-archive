@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-75 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/4LUAUdOKbwrwzojI0QmfBY)
+76 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Heartbreaker](https://open.spotify.com/track/6aUakYB97afCEmAqlyE5Wx) | [Deadboy](https://open.spotify.com/artist/2YbV1TIoIl1Un54MmSvZ3V) | [U Cheated](https://open.spotify.com/album/21DasTK7T1uQXiOhCmnsW3) | 5:20 | 2022-07-29 |  |
 | [I Want You](https://open.spotify.com/track/7tObHzA6FGINzdK7AQwa8m) | [Bobmo](https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq) | [New Dawn](https://open.spotify.com/album/1gpGOmOLCsI779O0yoSnHe) | 5:14 | 2022-07-29 |  |
 | [In Europe, Kinda Sad](https://open.spotify.com/track/7AS495TUkmqZtlEiL8Pcp0) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [In Europe, Kinda Sad](https://open.spotify.com/album/0eG7JPvydVsEuMQKmi7w0J) | 5:40 | 2022-07-29 |  |
-| [Interaxial](https://open.spotify.com/track/2NIq1oc9Vhv4OggKMPi9fs) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Eventide in Orbit](https://open.spotify.com/album/0ZEzDscqxvp1Kp02aEtK8p) | 5:34 | 2022-07-29 |  |
+| [Interaxial](https://open.spotify.com/track/24xZyfDFeYG8BUPGYA3AG7) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Eventide in Orbit](https://open.spotify.com/album/3H964Moy8xa1byJHwfAbXl) | 5:34 | 2022-07-29 |  |
+| [Interaxial](https://open.spotify.com/track/2NIq1oc9Vhv4OggKMPi9fs) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Eventide in Orbit](https://open.spotify.com/album/0ZEzDscqxvp1Kp02aEtK8p) | 5:34 | 2022-07-29 | 2023-01-14 |
 | [Intimate \- Club Mix](https://open.spotify.com/track/1GYYbzYsWYn3epskOuuZCb) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [El Trick](https://open.spotify.com/artist/46W67d6DQ9MkC3M0rtrHI0), [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 3:38 | 2022-07-29 | 2022-10-13 |
 | [Intimate \- Club Mix](https://open.spotify.com/track/4RkaGrpMqLkMd7nK5mEE4D) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [El Trick](https://open.spotify.com/artist/46W67d6DQ9MkC3M0rtrHI0), [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:38 | 2022-07-29 |  |
 | [Jeanette](https://open.spotify.com/track/66KnxPOG7pEbzqyKhLaIE0) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 6:14 | 2022-07-29 |  |

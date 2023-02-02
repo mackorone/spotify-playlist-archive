@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "pretending to be Lana Del Rey in pigtail buns, chokers, knee socks, and chunky platforms\n",
   "name": "reblog",
-  "published_playlist_ids": [
-    "6YzgCy6zUZxMJC9ypV01At"
-  ],
   "tracks": [
     {
       "album": {
@@ -441,7 +438,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 248720,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/0SG3beN2W0xyWqtyrDJiNB"
@@ -733,7 +730,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 231853,
       "name": "Dollhouse",
       "url": "https://open.spotify.com/track/6wNeKPXF0RDKyvfKfri5hf"
@@ -787,7 +784,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 215648,
       "name": "Don\u2019t Wait",
       "url": "https://open.spotify.com/track/11yN6oWrPPJXafJCUkSz2e"
@@ -1097,7 +1094,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 199593,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT"
@@ -1533,7 +1530,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 127920,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
@@ -2258,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254509,
+      "name": "Robbers",
+      "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
+    },
+    {
+      "album": {
         "name": "The 1975",
         "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
       },
@@ -2399,7 +2414,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 202496,
       "name": "She Looks So Perfect",
       "url": "https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM"
@@ -2975,7 +2990,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251480,
       "name": "Ultraviolence",
       "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"

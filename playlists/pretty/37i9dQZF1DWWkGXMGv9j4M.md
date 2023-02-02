@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,596 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,430 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 9 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
 | 10 | [First Aid](https://open.spotify.com/track/0hrM7JpE7n6mz5vMB7on2f) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X) | 4:28 |
 | 11 | [Delete Forever](https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 3:57 |
-| 12 | [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 |
+| 12 | [Kerosene!](https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 5:05 |
 | 13 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 14 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 |
 | 15 | [Woo!](https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 3:16 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 51 | [Your Hero Is Not Dead](https://open.spotify.com/track/3fxs1Jh98EQTJwvOJMAp09) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 3:35 |
 | 52 | [Video Game](https://open.spotify.com/track/3Q8B1nnUBlJz0VTajyk1IS) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Ascension](https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd) | 4:15 |
 | 53 | [Worth It](https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 |
-| 54 | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10) | 1:09 |
+| 54 | [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 |
 | 55 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 |
 | 56 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 |
 | 57 | [I'm Amazing](https://open.spotify.com/track/5w4LtwuC1WuaObpLafjGZU) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:23 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 61 | [Someone](https://open.spotify.com/track/15M7rUKWxfg4YZwczUhlkb) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita](https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH) | 3:41 |
 | 62 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 |
 | 63 | [cz](https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [cz](https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf) | 3:48 |
-| 64 | [Long Road Home](https://open.spotify.com/track/31Ocb5xOyTkjIyv7FdBF05) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z) | 3:32 |
+| 64 | [Long Road Home](https://open.spotify.com/track/2XEVYZ8To1zZcfnSfqecLH) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/5o7JAhPyjgxKUsJH0PpwwZ) | 3:32 |
 | 65 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 |
 | 66 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 |
 | 67 | [35.31](https://open.spotify.com/track/4vS4FB3HXgOSmICeqEY0Gh) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkGXMGv9j4M.md) - [plain]
 | 99 | [Loner](https://open.spotify.com/track/40Pa7wCFSPRD5sOeExd5uo) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Loner](https://open.spotify.com/album/4SL4EVh9koAvjdDWx6eXiq) | 3:12 |
 | 100 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 |
 
-Snapshot ID: `MTYwNjkyMTY0MywwMDAwMDAwMDMwZmFjZjk5N2VmNTBlYTU3ZmYyZDgxM2MyZmU1MTIw`
+Snapshot ID: `MTYwNjkyMTY0MywwMDAwMDAwMDc1ZTQxNmMxMjJkYTZmNTdmZDJlMzI4ZmE2ZWExYzIx`

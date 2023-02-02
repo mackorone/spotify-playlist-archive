@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-29",
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
   "name": "This Is Baby Tate",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -17,7 +16,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 140431,
       "name": "4Lifers",
       "url": "https://open.spotify.com/track/2UeLzlhYSfNUdHDqJTNoYV"
@@ -57,7 +56,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": "2023-01-20",
       "duration_ms": 193907,
       "name": "B.O.M.B.S.",
       "url": "https://open.spotify.com/track/4D8KWoUe3oTaQSQq928X7B"
@@ -181,7 +180,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2022-12-03",
       "duration_ms": 203553,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/03hWQjCTwyOSv2D7E4gK95"
@@ -221,10 +220,36 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2022-12-29",
       "duration_ms": 213917,
       "name": "Cold",
       "url": "https://open.spotify.com/track/3UM5kukTTWElmZS4kMmp8u"
+    },
+    {
+      "album": {
+        "name": "While You Wait",
+        "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208149,
+      "name": "Come First",
+      "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
     },
     {
       "album": {
@@ -247,10 +272,50 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 208149,
       "name": "Come First",
       "url": "https://open.spotify.com/track/0j6q1acgHc1gNkTiepU5LV"
+    },
+    {
+      "album": {
+        "name": "GIRLS Deluxe",
+        "url": "https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187828,
+      "name": "Cozy Girl",
+      "url": "https://open.spotify.com/track/5UQTIbzWoACFGsMnvBZVMS"
+    },
+    {
+      "album": {
+        "name": "2000AND4EVA",
+        "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172993,
+      "name": "DAMN DANIEL (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY"
     },
     {
       "album": {
@@ -265,10 +330,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 189887,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV"
+    },
+    {
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
     },
     {
       "album": {
@@ -514,6 +597,28 @@
     },
     {
       "album": {
+        "name": "He Wanna (feat. B.K. Habermehl)",
+        "url": "https://open.spotify.com/album/43MrfvRegBtm396DTzpmtl"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "B.K. Habermehl",
+          "url": "https://open.spotify.com/artist/64QWRxLk9KP6yTX9NK7COY"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-11",
+      "duration_ms": 151428,
+      "name": "He Wanna (feat. B.K. Habermehl)",
+      "url": "https://open.spotify.com/track/3BXvUg7mxywHWb7PjElvOV"
+    },
+    {
+      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir"
       },
@@ -537,6 +642,42 @@
       "duration_ms": 168094,
       "name": "Hey Ladies",
       "url": "https://open.spotify.com/track/5CxEjGBDDT1Bf2ifds33Op"
+    },
+    {
+      "album": {
+        "name": "Hey, Mickey!",
+        "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115555,
+      "name": "Hey, Mickey!",
+      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
+    },
+    {
+      "album": {
+        "name": "Hey, Mickey!",
+        "url": "https://open.spotify.com/album/58vYzfzlVh9ptoQoCpNfMw"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 115617,
+      "name": "Hey, Mickey!",
+      "url": "https://open.spotify.com/track/4KVJ9cSgpo6IANqaQ9lWjN"
     },
     {
       "album": {
@@ -589,6 +730,28 @@
     {
       "album": {
         "name": "Hourglass (with Baby Tate)",
+        "url": "https://open.spotify.com/album/6FzAj18O3nbSrHrt2gu9Ve"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174092,
+      "name": "Hourglass (with Baby Tate)",
+      "url": "https://open.spotify.com/track/3CDiG5vHYkffRzHlgszkvU"
+    },
+    {
+      "album": {
+        "name": "Hourglass (with Baby Tate)",
         "url": "https://open.spotify.com/album/3NEUcyZnBlfzt2kS4ib7wO"
       },
       "artists": [
@@ -603,7 +766,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 174092,
       "name": "Hourglass (with Baby Tate)",
       "url": "https://open.spotify.com/track/58LdWh8ptJ4JBJ3SwBINjn"
@@ -647,7 +810,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 242990,
       "name": "I Do (feat. Slimwav)",
       "url": "https://open.spotify.com/track/7fP5XHTX3hbR3g7TY8WtcW"
@@ -665,7 +828,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 139495,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1H4XdPDGFxwCdhNrWwdLpT"
@@ -852,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125312,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
+    },
+    {
+      "album": {
         "name": "Pedi",
         "url": "https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU"
       },
@@ -863,7 +1044,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 125312,
       "name": "Pedi",
       "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
@@ -944,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/0cO634E61hUhjEkrVm9VOf"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 153233,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/3oFlyenXjgsCoLCO90sAdY"
+    },
+    {
+      "album": {
         "name": "After The Rain: Deluxe",
         "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
@@ -1013,10 +1212,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 172248,
       "name": "Sl*t Him Out",
       "url": "https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76"
+    },
+    {
+      "album": {
+        "name": "The Best - Rap 2022",
+        "url": "https://open.spotify.com/album/0XHaPL8kDFhVTI03LEmWNt"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172248,
+      "name": "Sl*t Him Out",
+      "url": "https://open.spotify.com/track/3cWrdzHB2AIijCA1AfR5C6"
     },
     {
       "album": {
@@ -1035,10 +1252,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 233150,
       "name": "Sl*t Him Out Again (feat. Kali)",
       "url": "https://open.spotify.com/track/1ZaZ2oU9mJXsLcyJCB1APa"
+    },
+    {
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233150,
+      "name": "Sl*t Him Out Again (feat. Kali)",
+      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
     },
     {
       "album": {
@@ -1064,6 +1303,32 @@
     },
     {
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "album": {
         "name": "The Forever Story",
         "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
       },
@@ -1083,7 +1348,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/46b23Nj2UftnN8jSWz4VR5"

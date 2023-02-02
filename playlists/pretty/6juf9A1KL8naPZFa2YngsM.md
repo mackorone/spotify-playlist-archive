@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6juf9A1KL8naPZFa2YngsM.md) - [plain]
 
 > Score your cocktail hour with eclectic jazz covers \- from Drake to Radiohead.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260 likes - 25 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 259 likes - 25 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

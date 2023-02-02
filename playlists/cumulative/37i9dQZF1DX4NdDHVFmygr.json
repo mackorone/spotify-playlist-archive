@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The sweet sounds of Morocco.",
-  "name": "Morocco Sounds",
-  "published_playlist_ids": [
-    "3rERU7jhrUFm3TLTfgFuLD"
-  ],
+  "description": "\u00c9coutez en boucle les hits 100% marocains du moment.",
+  "name": "Maroc Hits",
   "tracks": [
     {
       "album": {
@@ -41,6 +38,28 @@
       "duration_ms": 218709,
       "name": "1000 Fois",
       "url": "https://open.spotify.com/track/0b8ePOUVHahjftHqZXEa5I"
+    },
+    {
+      "album": {
+        "name": "01.01",
+        "url": "https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Africano",
+          "url": "https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX"
+        },
+        {
+          "name": "Madara",
+          "url": "https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 199200,
+      "name": "3adi",
+      "url": "https://open.spotify.com/track/7jy0frWv77uVBwLPdoEGl5"
     },
     {
       "album": {
@@ -276,6 +295,42 @@
     },
     {
       "album": {
+        "name": "AUBE",
+        "url": "https://open.spotify.com/album/6AVj98SypznZT2Lwe2r6HC"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158081,
+      "name": "Amora",
+      "url": "https://open.spotify.com/track/3dDltvmsiTzFO6K5Pq4HFL"
+    },
+    {
+      "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 190654,
+      "name": "Ana",
+      "url": "https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm"
+    },
+    {
+      "album": {
         "name": "Ana Wiyak",
         "url": "https://open.spotify.com/album/62xt9zSogidX80GRNfLZZ6"
       },
@@ -316,6 +371,42 @@
     },
     {
       "album": {
+        "name": "01.01",
+        "url": "https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Africano",
+          "url": "https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 198925,
+      "name": "Appel moi",
+      "url": "https://open.spotify.com/track/4gY9GulQ2nQ5Em1jG2Et70"
+    },
+    {
+      "album": {
+        "name": "\u0664in",
+        "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "Arahmini",
+      "url": "https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K"
+    },
+    {
+      "album": {
         "name": "\u0664in (Act 1)",
         "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
       },
@@ -327,7 +418,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 228520,
       "name": "Arahmini",
       "url": "https://open.spotify.com/track/3BbVF781ENNpsLyVlJdoAA"
@@ -498,6 +589,24 @@
     },
     {
       "album": {
+        "name": "01.01",
+        "url": "https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Africano",
+          "url": "https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 173342,
+      "name": "Bohdi li fiha",
+      "url": "https://open.spotify.com/track/0bmWRMSelJl8IOGxrd8q3P"
+    },
+    {
+      "album": {
         "name": "ElMarocchino",
         "url": "https://open.spotify.com/album/252TA0tbVv9K773Z33o8W2"
       },
@@ -539,6 +648,54 @@
       "duration_ms": 182000,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/43WGG3jUSVGStwAByFIKkC"
+    },
+    {
+      "album": {
+        "name": "Casaway",
+        "url": "https://open.spotify.com/album/6BuJoTvXekiP5Ixr6drom6"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        },
+        {
+          "name": "Raymonde",
+          "url": "https://open.spotify.com/artist/63nHhkPCFLt50hfm4L9J0l"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 184000,
+      "name": "Casaway",
+      "url": "https://open.spotify.com/track/1M5E9egSgeNZGI45zdTM0l"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/3TC4AzLjp92AoJj56TXvkZ"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Leil",
+          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 224516,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/2ZsK7PdynTF7ilvUEgKTvT"
     },
     {
       "album": {
@@ -745,7 +902,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 154451,
       "name": "De9at l9elb",
       "url": "https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n"
@@ -785,6 +942,42 @@
       "duration_ms": 181176,
       "name": "Dime Porque",
       "url": "https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1"
+    },
+    {
+      "album": {
+        "name": "Dirou Niyya (Official Moroccan Fan Chant)",
+        "url": "https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb"
+      },
+      "artists": [
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177725,
+      "name": "Dirou Niyya - Official Moroccan Fan Chant",
+      "url": "https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW"
+    },
+    {
+      "album": {
+        "name": "DJ",
+        "url": "https://open.spotify.com/album/0MQHeMqNgSqfmMGIb9NFTO"
+      },
+      "artists": [
+        {
+          "name": "Jaylann",
+          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247392,
+      "name": "Dj",
+      "url": "https://open.spotify.com/track/0agokZZS8l1k5HBwwFsUz6"
     },
     {
       "album": {
@@ -839,7 +1032,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 215000,
       "name": "Dounya",
       "url": "https://open.spotify.com/track/76MO9sT4OIQkEeRndLHveG"
@@ -1042,6 +1235,28 @@
     },
     {
       "album": {
+        "name": "Ghazali (feat. Bryan Mg)",
+        "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184661,
+      "name": "Ghazali (feat. Bryan Mg)",
+      "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
+    },
+    {
+      "album": {
         "name": "Ghir Ntiya",
         "url": "https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm"
       },
@@ -1205,7 +1420,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 185142,
       "name": "Hickey",
       "url": "https://open.spotify.com/track/3B67oAJr4acToGpR1S33g5"
@@ -1315,6 +1530,24 @@
     {
       "album": {
         "name": "Houwa",
+        "url": "https://open.spotify.com/album/7BpNyAXToxtSKfkO8sRshM"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211891,
+      "name": "Houwa",
+      "url": "https://open.spotify.com/track/0yRZBgfcq7lAMl34Kn9WlY"
+    },
+    {
+      "album": {
+        "name": "Houwa",
         "url": "https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0"
       },
       "artists": [
@@ -1325,7 +1558,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 211891,
       "name": "Houwa",
       "url": "https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk"
@@ -1365,6 +1598,24 @@
       "duration_ms": 186843,
       "name": "INARA",
       "url": "https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv"
+    },
+    {
+      "album": {
+        "name": "INE INE",
+        "url": "https://open.spotify.com/album/3pm2vCjNT2qFFU18cLkYkj"
+      },
+      "artists": [
+        {
+          "name": "Holako",
+          "url": "https://open.spotify.com/artist/2UKayx5zeeZ8oQh3ETChjE"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 186120,
+      "name": "INE INE",
+      "url": "https://open.spotify.com/track/03O73RwxB4Ja3hBYRU6T0c"
     },
     {
       "album": {
@@ -1646,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176698,
+      "name": "Kima Bakri",
+      "url": "https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA"
+    },
+    {
+      "album": {
         "name": "Kouni Liya",
         "url": "https://open.spotify.com/album/5dtPSOpA9sTUGxOvhXneLb"
       },
@@ -1726,6 +1995,58 @@
     },
     {
       "album": {
+        "name": "\u0664in",
+        "url": "https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Sa\u00efd Senhaji",
+          "url": "https://open.spotify.com/artist/0B5LEqRZp3vG38J25CYPca"
+        },
+        {
+          "name": "Abdelaziz Stati",
+          "url": "https://open.spotify.com/artist/43TeJ7uEQzDLp3hXmzY2X1"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 365529,
+      "name": "L7essada",
+      "url": "https://open.spotify.com/track/03tv91H6kh9yQyINi9EfJc"
+    },
+    {
+      "album": {
+        "name": "\u0664in (Act 4)",
+        "url": "https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Sa\u00efd Senhaji",
+          "url": "https://open.spotify.com/artist/0B5LEqRZp3vG38J25CYPca"
+        },
+        {
+          "name": "Abdelaziz Stati",
+          "url": "https://open.spotify.com/artist/43TeJ7uEQzDLp3hXmzY2X1"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 365529,
+      "name": "L7essada",
+      "url": "https://open.spotify.com/track/6BbRk218FsK51B2KVc4GrA"
+    },
+    {
+      "album": {
         "name": "La vie",
         "url": "https://open.spotify.com/album/3Jip0bL2i2bNwT7CKq2HZE"
       },
@@ -1759,7 +2080,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 159272,
       "name": "La Vie",
       "url": "https://open.spotify.com/track/13UrWaFgpqfFBSodEvWC0X"
@@ -1835,7 +2156,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 212000,
       "name": "Lalla Laaroussa",
       "url": "https://open.spotify.com/track/2K1ua085l6TZjOlHidTadV"
@@ -1913,7 +2234,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
@@ -1967,7 +2288,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 135931,
       "name": "Lina",
       "url": "https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv"
@@ -1985,7 +2306,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 192941,
       "name": "Liyam",
       "url": "https://open.spotify.com/track/1n73DuRMeUFn05jNoj5eFZ"
@@ -2003,10 +2324,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 180509,
       "name": "Liyem",
       "url": "https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB"
+    },
+    {
+      "album": {
+        "name": "AFROBOY",
+        "url": "https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191827,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
     },
     {
       "album": {
@@ -2047,7 +2386,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 177214,
       "name": "Ma B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/6hiAddGVuk3bRTiMUbNxcd"
@@ -2069,7 +2408,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 215826,
       "name": "Ma ch\u00e9rie",
       "url": "https://open.spotify.com/track/4eHeFewqpAJWg9Cc6W8jFj"
@@ -2109,7 +2448,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 144576,
       "name": "Ma Jolie",
       "url": "https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON"
@@ -2338,6 +2677,28 @@
     },
     {
       "album": {
+        "name": "01.01",
+        "url": "https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Africano",
+          "url": "https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX"
+        },
+        {
+          "name": "Abdeelgha4",
+          "url": "https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 202886,
+      "name": "Mal a laise",
+      "url": "https://open.spotify.com/track/1EaP59fArk92xvfb3sq7qb"
+    },
+    {
+      "album": {
         "name": "M\u00e9diterran\u00e9e",
         "url": "https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt"
       },
@@ -2418,6 +2779,28 @@
     },
     {
       "album": {
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        },
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193893,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/2ieat98TO6yujpLeTsb9U4"
+    },
+    {
+      "album": {
         "name": "MILANO",
         "url": "https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ"
       },
@@ -2429,7 +2812,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 249707,
       "name": "MILANO",
       "url": "https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM"
@@ -2487,6 +2870,24 @@
       "duration_ms": 183000,
       "name": "Moulat Taj - Delali",
       "url": "https://open.spotify.com/track/6MGvR6zRaMnBi4sejIANew"
+    },
+    {
+      "album": {
+        "name": "Mujer Cobra",
+        "url": "https://open.spotify.com/album/0EZKWJVmkVgp2xQgqBoaGg"
+      },
+      "artists": [
+        {
+          "name": "Rita L'Oujdia",
+          "url": "https://open.spotify.com/artist/0bSpJFvBMj4Qo5ziwNVs7w"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 186000,
+      "name": "Mujer Cobra",
+      "url": "https://open.spotify.com/track/7ksDUL9YnwbZB1gEE5eEMO"
     },
     {
       "album": {
@@ -2588,6 +2989,46 @@
     },
     {
       "album": {
+        "name": "NOUR EL AIN (feat. Nej)",
+        "url": "https://open.spotify.com/album/5y8GoB5nJ0LHWyKSANR2DY"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 146726,
+      "name": "NOUR EL AIN (feat. Nej)",
+      "url": "https://open.spotify.com/track/3bQlbwBTqukkRto2zDfJuQ"
+    },
+    {
+      "album": {
+        "name": "Nsiti",
+        "url": "https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG"
+      },
+      "artists": [
+        {
+          "name": "Oussama",
+          "url": "https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172022,
+      "name": "Nsiti",
+      "url": "https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE"
+    },
+    {
+      "album": {
         "name": "Nsiti",
         "url": "https://open.spotify.com/album/0uTXQyHxnSUibdyT05WCCu"
       },
@@ -2599,7 +3040,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 172022,
       "name": "Nsiti",
       "url": "https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa"
@@ -2704,6 +3145,42 @@
     },
     {
       "album": {
+        "name": "Omerta",
+        "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142182,
+      "name": "Overdoze",
+      "url": "https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ"
+    },
+    {
+      "album": {
+        "name": "Papa",
+        "url": "https://open.spotify.com/album/4xhwAhfQE2613qIp7kEhN0"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 161118,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/4nl8f2KRGtXZvpRe2aQbgw"
+    },
+    {
+      "album": {
         "name": "Porfavor",
         "url": "https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs"
       },
@@ -2719,6 +3196,24 @@
       "duration_ms": 165600,
       "name": "Porfavor",
       "url": "https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5"
+    },
+    {
+      "album": {
+        "name": "Premier amour",
+        "url": "https://open.spotify.com/album/7ntEx5oT99JfhXqsIfjZXv"
+      },
+      "artists": [
+        {
+          "name": "Nour",
+          "url": "https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 188408,
+      "name": "Premier amour",
+      "url": "https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P"
     },
     {
       "album": {
@@ -2827,7 +3322,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 167730,
       "name": "Salade Coco",
       "url": "https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh"
@@ -2870,6 +3365,42 @@
     },
     {
       "album": {
+        "name": "SBABO NTI",
+        "url": "https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253783,
+      "name": "SBABO NTI",
+      "url": "https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi"
+    },
+    {
+      "album": {
+        "name": "Seddit Lbibane",
+        "url": "https://open.spotify.com/album/60T0APAz9FUAKMJcpfpxjt"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188041,
+      "name": "Seddit Lbibane",
+      "url": "https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ"
+    },
+    {
+      "album": {
         "name": "Ser Lekdim",
         "url": "https://open.spotify.com/album/0kJ96yCGwxBvE4AG4OA371"
       },
@@ -2899,7 +3430,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 231733,
       "name": "Serrek",
       "url": "https://open.spotify.com/track/2P6663NWulwljND7qHu910"
@@ -2925,6 +3456,28 @@
       "duration_ms": 143742,
       "name": "Shoufokan",
       "url": "https://open.spotify.com/track/1u3sCJM9n7u1IozPcB4GnQ"
+    },
+    {
+      "album": {
+        "name": "Sid Lghram",
+        "url": "https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        },
+        {
+          "name": "Asma Lmnawar",
+          "url": "https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236578,
+      "name": "Sid Lghram",
+      "url": "https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G"
     },
     {
       "album": {
@@ -2982,6 +3535,42 @@
     },
     {
       "album": {
+        "name": "SOY MAROCCINO",
+        "url": "https://open.spotify.com/album/31V8d6Fw3eRsDUU6BpSCLI"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 138039,
+      "name": "SOY MAROCCINO",
+      "url": "https://open.spotify.com/track/51MSCZdV26sXAM2t5BG4iy"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/5GGZpeMyi3XHTUyH961K8b"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 176673,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5Xx23tgYcHoLEhsP8FfkeD"
+    },
+    {
+      "album": {
         "name": "Stylo warqa",
         "url": "https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc"
       },
@@ -2993,7 +3582,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 177857,
       "name": "Stylo warqa",
       "url": "https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj"
@@ -3101,7 +3690,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 210572,
       "name": "Walo Maliya \u0648\u0627\u0644\u0648 \u0645\u0627\u0644\u064a\u0627",
       "url": "https://open.spotify.com/track/6nS8NbxXScf2dBpX7QD70F"
@@ -3155,7 +3744,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 259506,
       "name": "Wayli",
       "url": "https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc"
@@ -3173,7 +3762,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 261084,
       "name": "Ya Ayouni",
       "url": "https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf"
@@ -3261,7 +3850,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 209309,
       "name": "Ya Hmed",
       "url": "https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf"

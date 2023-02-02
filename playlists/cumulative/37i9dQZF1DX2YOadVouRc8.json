@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "Slow jams from West Africa that unwind and relax",
   "name": "Chill Bops",
-  "published_playlist_ids": [
-    "1py77qQXoVwE0Vmpffvuvp"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,7 +20,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 173493,
       "name": "Adua (Remix)",
       "url": "https://open.spotify.com/track/7oZDRbZggx7wHJpQJqUGFp"
@@ -102,6 +99,24 @@
     },
     {
       "album": {
+        "name": "BAD 4 ME",
+        "url": "https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140204,
+      "name": "BAD 4 ME",
+      "url": "https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn"
+    },
+    {
+      "album": {
         "name": "Bad Influence",
         "url": "https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy"
       },
@@ -153,6 +168,28 @@
       "duration_ms": 181840,
       "name": "Balance",
       "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
+    },
+    {
+      "album": {
+        "name": "Be On It",
+        "url": "https://open.spotify.com/album/0hEih748IMyx6TO21NEdGw"
+      },
+      "artists": [
+        {
+          "name": "TSCRPT",
+          "url": "https://open.spotify.com/artist/4Z02hpbBY4eH7yN7ceInzV"
+        },
+        {
+          "name": "Rebecca Winter",
+          "url": "https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Be On It",
+      "url": "https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT"
     },
     {
       "album": {
@@ -288,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Prezz Play",
+        "url": "https://open.spotify.com/album/18u8kTxT4UzQQ97waiW23l"
+      },
+      "artists": [
+        {
+          "name": "Pawzz",
+          "url": "https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/1ieYfbaettY1CCT4uu28Sx"
+    },
+    {
+      "album": {
         "name": "Bordeaux",
         "url": "https://open.spotify.com/album/0SSXQj05tsfbHFY29CTeOq"
       },
@@ -337,7 +392,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 181395,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1FlFVZwt4RHls7kc73AM0Z"
@@ -373,7 +428,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 181333,
       "name": "Brunch",
       "url": "https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6"
@@ -755,7 +810,7 @@
     {
       "album": {
         "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
       "artists": [
         {
@@ -768,7 +823,43 @@
       "date_removed": null,
       "duration_ms": 166642,
       "name": "emiliana",
+      "url": "https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv"
+    },
+    {
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 166642,
+      "name": "emiliana",
       "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
+    },
+    {
+      "album": {
+        "name": "Escapade",
+        "url": "https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke"
+      },
+      "artists": [
+        {
+          "name": "Novemba",
+          "url": "https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N"
     },
     {
       "album": {
@@ -801,7 +892,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 143248,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/3ewBGRjaqmMCkTmyzk3yVw"
@@ -853,12 +944,12 @@
       },
       "artists": [
         {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
           "name": "Naomi Achu",
           "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
         }
       ],
       "date_added": "2022-09-30",
@@ -867,6 +958,28 @@
       "duration_ms": 208896,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+    },
+    {
+      "album": {
+        "name": "Fine Wine (ft. Amaarae)",
+        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
+      },
+      "artists": [
+        {
+          "name": "Kelechief",
+          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Fine Wine (ft. Amaarae)",
+      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
     },
     {
       "album": {
@@ -929,6 +1042,28 @@
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        },
+        {
+          "name": "Chemutai Sage",
+          "url": "https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179977,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp"
     },
     {
       "album": {
@@ -999,7 +1134,7 @@
           "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
         }
       ],
-      "date_added": "2022-11-26",
+      "date_added": "2022-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 133392,
@@ -1077,7 +1212,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 193593,
       "name": "Jo",
       "url": "https://open.spotify.com/track/3vQDViTCjRem00CGS7Rr6J"
@@ -1099,7 +1234,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 218571,
       "name": "JUDAH LION",
       "url": "https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh"
@@ -1650,6 +1785,42 @@
     },
     {
       "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/3ZTeNM3gG8l7HmshN53KXy"
+      },
+      "artists": [
+        {
+          "name": "Txby",
+          "url": "https://open.spotify.com/artist/0gHlO5VwVKWZ1jG3QMSiRc"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176039,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/7MtCDjLbhZH0gHGN9N5nDb"
+    },
+    {
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "album": {
         "name": "OTR Vol.2",
         "url": "https://open.spotify.com/album/6YbuBOhChrDQBd8jeIvhjj"
       },
@@ -1705,7 +1876,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 176058,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
@@ -1767,6 +1938,28 @@
       "duration_ms": 194318,
       "name": "san siro",
       "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
+    },
+    {
+      "album": {
+        "name": "International Arrivals Vol. 3",
+        "url": "https://open.spotify.com/album/5lRKLzYUNjUk1pq6NL4HJp"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "D3an",
+          "url": "https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458750,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/6FnU39PS4w9J2rZdDfq2dd"
     },
     {
       "album": {
@@ -1923,7 +2116,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 259673,
       "name": "Somali Rose",
       "url": "https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0"
@@ -1985,7 +2178,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 166517,
       "name": "Streets",
       "url": "https://open.spotify.com/track/17EfS2HABo1TrvP0IeXWZ4"
@@ -2025,7 +2218,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 136270,
       "name": "Summertime With You",
       "url": "https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE"
@@ -2242,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+    },
+    {
+      "album": {
         "name": "What To Expect When Expecting",
         "url": "https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf"
       },
@@ -2336,6 +2547,32 @@
     },
     {
       "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Afro Nation",
+          "url": "https://open.spotify.com/artist/54okxCS1Qi7TsWHymlwdYy"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Your Love (Mogbe)",
+      "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"
+    },
+    {
+      "album": {
         "name": "Your Love (Mogbe)",
         "url": "https://open.spotify.com/album/0bliq9zvsEHViZ3TOBjFQV"
       },
@@ -2355,7 +2592,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 160000,
       "name": "Your Love - Mogbe",
       "url": "https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM"

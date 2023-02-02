@@ -4,7 +4,7 @@
 
 > The ultimate playlist to get you ready for a fun night out with your girlfriends.
 
-47 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/7DIePvVwp48Hwsf2Ti9F1q)
+47 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

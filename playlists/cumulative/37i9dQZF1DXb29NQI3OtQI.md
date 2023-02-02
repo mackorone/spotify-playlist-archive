@@ -4,12 +4,12 @@
 
 > The best soft rock from the 2000s\. Cover: Lifehouse.
 
-113 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/2IAx04uVUSLu0nI0az8rLp)
+113 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Suns](https://open.spotify.com/track/1diSFxNvwkKMOI2vcadxy5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 1:58 | 2021-03-23 |  |
-| [A Modern Myth](https://open.spotify.com/track/7hZRh76Rl1Tc99jZseanbZ) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 2:58 | 2021-03-23 | 2022-11-13 |
+| [A Modern Myth](https://open.spotify.com/track/7hZRh76Rl1Tc99jZseanbZ) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 2:58 | 2021-03-23 | 2023-01-03 |
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2022-03-28 |  |
 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 | 2021-03-23 |  |
 | [All In All](https://open.spotify.com/track/2EU0r8nNJQ4VllOx2ES5sK) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 2:56 | 2021-03-23 |  |
@@ -79,7 +79,7 @@
 | [Roadside](https://open.spotify.com/track/2Lw8a712bXz7xa0DyxHkIP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:21 | 2021-03-23 |  |
 | [Roadside](https://open.spotify.com/track/2YJvYVpOF8Z9Yf8QHpOMsz) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:21 | 2021-03-23 | 2022-07-29 |
 | [Sailing To Philadelphia](https://open.spotify.com/track/5N6GzBkdnHcaH96R6aJQHm) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing To Philadelphia](https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg) | 5:28 | 2021-03-23 | 2022-07-29 |
-| [Sailing to Philadelphia](https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 5:29 | 2021-03-23 | 2022-11-22 |
+| [Sailing to Philadelphia](https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 5:29 | 2021-03-23 | 2023-01-24 |
 | [Sailing to Philadelphia \- 2021 Remaster](https://open.spotify.com/track/4k85ZMVHuYewkKYouQ7p4H) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia \(2021 Remaster\)](https://open.spotify.com/album/4q20rBlH9ORyMzBhsdcK4Z) | 5:29 | 2021-03-23 | 2022-11-13 |
 | [Same](https://open.spotify.com/track/1i5c5PXgKEBQbMTgaIQwqn) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Final Straw](https://open.spotify.com/album/6rnHGj9PUHcEQCp4xdjbeJ) | 3:55 | 2021-03-23 | 2022-11-13 |
 | [Seaside](https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 1:39 | 2021-03-23 |  |

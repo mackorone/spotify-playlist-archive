@@ -1,12 +1,12 @@
 {
   "description": "Chill to the familiar classical pieces featured in award-winning films.",
-  "num_followers": 335775,
+  "num_followers": 344770,
   "original_name": "Classical Moments in Movies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc0ODk1OCwwMDAwMDAwMDA1Njk4MThlNmEyNmI4MTJjYTQ5ZjlmYWZhYWI4OWZj",
+  "snapshot_id": "MTY2Mzc0ODk1OCwwMDAwMDAwMDkwYzhiNTU3ZDNjNDllYTRkYzBkNjgyZjNiNjZmZDBk",
   "tracks": [
     {
       "added_at": "2022-07-13 13:09:24",
@@ -63,7 +63,7 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Samuel Barber - Adagio (100th anniversary)",
+        "name": "Samuel Barber - Adagio",
         "url": "https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu"
       },
       "artists": [
@@ -81,7 +81,7 @@
         }
       ],
       "duration_ms": 537426,
-      "name": "Barber: Adagio for Strings, Op. 11",
+      "name": "Barber: Adagio for Strings",
       "url": "https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau"
     },
     {
@@ -339,8 +339,8 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Beethoven - Classics for Commuting",
-        "url": "https://open.spotify.com/album/7Fh9ZUG9ysg5kFs0SB2KgL"
+        "name": "Beethoven - Winter Vibes",
+        "url": "https://open.spotify.com/album/6cxeJ3bFGJjKDvzcFaHBk1"
       },
       "artists": [
         {
@@ -358,7 +358,7 @@
       ],
       "duration_ms": 302986,
       "name": "Speaking Unto Nations (Beethoven Symphony no 7 - II )",
-      "url": "https://open.spotify.com/track/08azG1JwwVnkwCMd5focAU"
+      "url": "https://open.spotify.com/track/0PiKaKQ6gtovR4DtVg8aNn"
     },
     {
       "added_at": "2022-07-13 13:09:24",
@@ -1255,13 +1255,21 @@
     {
       "added_at": "2022-07-13 13:09:24",
       "album": {
-        "name": "Mozart: Le nozze di Figaro",
-        "url": "https://open.spotify.com/album/3SGy6bH6yAXXXdEqTqI1s8"
+        "name": "The Shawshank Redemption",
+        "url": "https://open.spotify.com/album/5ucvCY0hFIAL95DVKohEiB"
       },
       "artists": [
         {
           "name": "Wolfgang Amadeus Mozart",
           "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Deutsche Oper, Berlin",
+          "url": "https://open.spotify.com/artist/2HvrBSbyQEdpD6pzbh0azy"
+        },
+        {
+          "name": "Karl B\u00f6hm",
+          "url": "https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A"
         },
         {
           "name": "Edith Mathis",
@@ -1270,19 +1278,11 @@
         {
           "name": "Gundula Janowitz",
           "url": "https://open.spotify.com/artist/2VMPE6OWfNkGhnPe4KFLgX"
-        },
-        {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
-        },
-        {
-          "name": "Karl B\u00f6hm",
-          "url": "https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A"
         }
       ],
-      "duration_ms": 210533,
-      "name": "Le nozze di Figaro, K. 492 / Act 3: \"Sull\u2019aria ... Che soave zeffiretto\"",
-      "url": "https://open.spotify.com/track/7oMlqOqSLszoitbRQTKAen"
+      "duration_ms": 212426,
+      "name": "The Marriage of Figaro / \"Duettino\" Sull 'Aria",
+      "url": "https://open.spotify.com/track/4CZWCG1KOEZPGdQqDL85VF"
     },
     {
       "added_at": "2022-07-13 13:09:24",

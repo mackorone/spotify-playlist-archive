@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-52 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/777qMpOBhzMIfgYhrUbT0x)
+54 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,9 @@
 | [The Birds Pt\. 2](https://open.spotify.com/track/51LmI5GE3tHKISLNZMjDPC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:50 | 2022-10-01 |  |
 | [The Blacker The Berry](https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:28 | 2022-10-01 |  |
 | [The Messiah](https://open.spotify.com/track/5wnTy8q2pU3nEVe4PwILXe) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Jordan Mcclure](https://open.spotify.com/artist/7KoVMFdL4ElB1nMlBug2Pa), [David Hayle](https://open.spotify.com/artist/5Pv0COZlHqBONbLmnsPFRB) | [Producers Choice, Vol\. 6 \(Feat\. Jordan McClure & David Hayle\)](https://open.spotify.com/album/5eFqZdhjxUhwslHnFez95D) | 2:57 | 2022-10-01 | 2022-11-13 |
-| [THE NEWS](https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [THE NEWS](https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN) | 4:27 | 2022-10-01 |  |
+| [THE NEWS](https://open.spotify.com/track/3H0hSrvbisAfcxvNIttvMX) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Fresh and Dope](https://open.spotify.com/album/2TJZhD4jjFxEeZwYrX9FKf) | 4:27 | 2022-10-01 | 2023-01-03 |
+| [THE NEWS](https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 4:27 | 2022-10-01 |  |
+| [THE NEWS](https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [THE NEWS](https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN) | 4:27 | 2022-10-01 | 2023-01-01 |
 | [The Recipe](https://open.spotify.com/track/33fgHbTXA4hVRriK2W1khx) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 2:58 | 2022-10-01 |  |
 | [The Ride](https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:51 | 2022-10-01 |  |
 | [The Vibes Is Right](https://open.spotify.com/track/6LWP6mzo3kJSZAQ3iUJij1) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Here I Come](https://open.spotify.com/album/4ZPHD6NhBlLyqhYcqf9OhK) | 4:16 | 2022-10-01 |  |

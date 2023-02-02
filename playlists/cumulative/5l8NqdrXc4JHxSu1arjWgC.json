@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-12",
   "description": "",
   "name": "Red Vox Recent Favorites",
-  "published_playlist_ids": [
-    "0xvGamaTTFg12gsauZPmmX"
-  ],
   "tracks": [
     {
       "album": {
@@ -1621,7 +1618,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 313554,
-      "name": "Chest Fever - Remastered",
+      "name": "Chest Fever - Remastered 2000",
       "url": "https://open.spotify.com/track/2uMbDaPM5knVhHlDXqCc2c"
     },
     {
@@ -4063,10 +4060,6 @@
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "Jerry Harrison",
-          "url": "https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy"
         }
       ],
       "date_added": "2019-12-31",
@@ -4958,6 +4951,32 @@
     },
     {
       "album": {
+        "name": "Superstate (feat. Graham Coxon)",
+        "url": "https://open.spotify.com/album/265K7BOpojsq3RvCVbjz1z"
+      },
+      "artists": [
+        {
+          "name": "Superstate",
+          "url": "https://open.spotify.com/artist/0TLcN68jey7bYM2HQEdRgi"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+        },
+        {
+          "name": "Rahel Debebe-Dessalegne",
+          "url": "https://open.spotify.com/artist/2SDNXRQ8uX3TJxu4t6EEO3"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "It's All In Your Mind (feat. Graham Coxon & Rahel Debebe-Dessalegne)",
+      "url": "https://open.spotify.com/track/0GybSKd5oGeLMtCLbXhBoQ"
+    },
+    {
+      "album": {
         "name": "Document (R.E.M. No. 5)",
         "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
       },
@@ -5117,6 +5136,24 @@
       "duration_ms": 219026,
       "name": "Keep It Hid",
       "url": "https://open.spotify.com/track/2ckCEdqefxdVVw3T7tPHoo"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3sjAsmZhY1zywVwQcGQ8o7"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266560,
+      "name": "Keep On Dreamin'",
+      "url": "https://open.spotify.com/track/39ANGjy2wj0FpdL9jn670l"
     },
     {
       "album": {
@@ -5729,6 +5766,24 @@
       "duration_ms": 254640,
       "name": "Made of Stone - Remastered",
       "url": "https://open.spotify.com/track/0bZelokqNQicLQfLU1Ayw8"
+    },
+    {
+      "album": {
+        "name": "Omnium Gatherum",
+        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364599,
+      "name": "Magenta Mountain",
+      "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
     },
     {
       "album": {
@@ -8124,6 +8179,24 @@
     },
     {
       "album": {
+        "name": "English Settlement",
+        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274533,
+      "name": "Runaways - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6Z4O4Ugbk9jpDrXyrpFG8g"
+    },
+    {
+      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx"
       },
@@ -8643,6 +8716,24 @@
       "duration_ms": 265466,
       "name": "Skin Game",
       "url": "https://open.spotify.com/track/4qgNoDm7QIpbtt3qB96RzY"
+    },
+    {
+      "album": {
+        "name": "Skinny Ape",
+        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
     },
     {
       "album": {
@@ -10152,6 +10243,24 @@
     },
     {
       "album": {
+        "name": "Chips From The Chocolate Fireball",
+        "url": "https://open.spotify.com/album/46ZRujqytRXcbgloCKA9Q7"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Stratosphear",
+          "url": "https://open.spotify.com/artist/1ilhXoWIlGxz3fM4B24mNo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358773,
+      "name": "The Mole From The Ministry - 2001 Mix",
+      "url": "https://open.spotify.com/track/2RHt1SrW1M4yBG3cUBjBz2"
+    },
+    {
+      "album": {
         "name": "1. Outside (The Nathan Adler Diaries: A Hyper Cycle) [Expanded Edition]",
         "url": "https://open.spotify.com/album/0pUursvGUAgcDiEqYlnZ0q"
       },
@@ -10470,6 +10579,24 @@
     },
     {
       "album": {
+        "name": "Guitar Legend: The Very Best Of Dick Dale",
+        "url": "https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol"
+      },
+      "artists": [
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394213,
+      "name": "Third Stone From The Sun",
+      "url": "https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1"
+    },
+    {
+      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -10611,6 +10738,24 @@
       "duration_ms": 232106,
       "name": "Time Is My Everything",
       "url": "https://open.spotify.com/track/1uj3ffG2RPX5geRdkLgISM"
+    },
+    {
+      "album": {
+        "name": "To the Moon",
+        "url": "https://open.spotify.com/album/5T9fiTYrP7eZ6d47VR86Y8"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170021,
+      "name": "To the Moon",
+      "url": "https://open.spotify.com/track/02WFT9dNg31Skl02dPT1ei"
     },
     {
       "album": {

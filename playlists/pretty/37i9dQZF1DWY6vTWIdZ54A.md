@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,692 likes - 145 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,048 likes - 145 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 18 | [Prisoner](https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Who You Selling For](https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA) | 3:00 |
 | 19 | [Graveyard](https://open.spotify.com/track/5WwPOiBVI4Y2nrMubCneOy) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Graveyard](https://open.spotify.com/album/53hoTqaWfuRUwTDtZI72Rx) | 3:05 |
 | 20 | ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 |
-| 21 | [Spread Your Love](https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw) | 3:45 |
+| 21 | [Spread Your Love](https://open.spotify.com/track/1gq5tbU9FTm90duAZtDZUv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [B.R.M.C.](https://open.spotify.com/album/5kNEFtQmqLrPx0XA8Sq0N5) | 3:45 |
 | 22 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 |
 | 23 | [.CoDA.](https://open.spotify.com/track/5Key8WcA9y3rW9BC9ZrGME) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.getawayfortheweekend.](https://open.spotify.com/album/46mMja473feJC3459xFEUi) | 3:44 |
 | 24 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 28 | [Run On](https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz) | [Jamie Bower](https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1), [King Sugar](https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP) | [Run On](https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk) | 3:32 |
 | 29 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 |
 | 30 | [That Dress \- Demo](https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress \(Demo\)](https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3) | 3:08 |
-| 31 | [This is Our Life](https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/7GIxrgLPIKexc7d5FwNtuX) | 3:44 |
+| 31 | [This is Our Life](https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs) | 3:44 |
 | 32 | [Alter Ego](https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:08 |
 | 33 | [Down To The Devil](https://open.spotify.com/track/2hOB1WsQRTLgVxeXaz7F73) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/0fEy0iCdOq34h6Ci3zvZVv) | 3:26 |
 | 34 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 74 | [Wolf Like Me](https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi) | 4:39 |
 | 75 | [Black Angel](https://open.spotify.com/track/0xVAczAoamCuTdRSPysrj1) | [Alffa](https://open.spotify.com/artist/7iY7ckZelLh9emhog8UrXD) | [Rhyddid o'r Cysgodion Gwenwynig / Freedom from the Poisonous Shadows](https://open.spotify.com/album/4DD1QFjqpfvvjm1ZFxKW42) | 3:10 |
 | 76 | [It's Too Late](https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 2:56 |
-| 77 | [Loose Ends](https://open.spotify.com/track/2tyb5TSxnb2QjkuVEhd3Do) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Loose Ends](https://open.spotify.com/album/1N5dnmGRZ54m8LeQ4kCajv) | 2:40 |
+| 77 | [Loose Ends](https://open.spotify.com/track/4rZaSU1gqk7zkywTDqxGeX) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Loose Ends](https://open.spotify.com/album/47kuTI9HG6YuOBMhyIe3qQ) | 2:40 |
 | 78 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 |
 | 79 | [Bring It On](https://open.spotify.com/track/5jagZTtWOjehhhr9whpn0Z) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Bring It On](https://open.spotify.com/album/5mRIy2iRsza9AfvwJDGU1C) | 2:59 |
 | 80 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 82 | [Trouble](https://open.spotify.com/track/5nCWfBPzdbgXstg99AUTEb) | [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [Before The Sun Goes Down](https://open.spotify.com/album/0LW7Gi4WOcZ1KaEWY0fY7M) | 3:23 |
 | 83 | [Shadow of Your Love](https://open.spotify.com/track/6SgKK2Lj3kMcX2tqLqJxkP) | [Cut Glass Kings](https://open.spotify.com/artist/6duFEnexUva5UMe40WbV4v) | [Cut Glass Kings](https://open.spotify.com/album/6MH4k3SBJoW4NfaAV03DRD) | 2:35 |
 | 84 | [Unholy](https://open.spotify.com/track/2qeIFUwxU7f44PUgeahCPo) | [Bobby Saint](https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit) | [Unholy \- EP](https://open.spotify.com/album/78oXbiZPzFFn6K5cMREm7f) | 3:29 |
-| 85 | [Facing My Fear](https://open.spotify.com/track/2UESNndQ5sS1Ucl44o2BrW) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Cortes](https://open.spotify.com/album/0KWkmmiYl2lOWlR6FtJt61) | 3:21 |
+| 85 | [Facing My Fear](https://open.spotify.com/track/45AbDqJVqVU7nOxtW4SUTG) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Facing My Fear](https://open.spotify.com/album/2SZbusvetbsKZUlv1ZzBIZ) | 3:21 |
 | 86 | [Outta My Mind](https://open.spotify.com/track/7BVo8X0ckrgdSwOwvKEcjh) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8), [The Cobra](https://open.spotify.com/artist/6ljXzPvTDhxrhXTDuz3YEr) | [Martyr Parade](https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc) | 2:45 |
 | 87 | [Over & Over](https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 3:29 |
 | 88 | [Mountain](https://open.spotify.com/track/696wtDyZUK2UJgu0fsVGIT) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Rise Over Run](https://open.spotify.com/album/3MZLNriYh8pH7kMYkbUxhk) | 3:11 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 93 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
 | 94 | [Night People](https://open.spotify.com/track/3MHQIhSrgQsFYLo6JLioDX) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/5eBbhy3VsZGEO4objsrmZg) | 3:03 |
 | 95 | [Take Me Away](https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Take Me Away](https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg) | 4:06 |
-| 96 | [New Religion](https://open.spotify.com/track/0qbZvLGXmGCgnjPmCzApBb) | [Migrant Motel](https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G) | [Volume One](https://open.spotify.com/album/4eh59alwAr94nFWOa3mhJN) | 3:04 |
+| 96 | [New Religion](https://open.spotify.com/track/0qbZvLGXmGCgnjPmCzApBb) | [MARGARET WHO](https://open.spotify.com/artist/4MK9YwLEBXVuWpc4vwfwld) | [Volume One](https://open.spotify.com/album/4eh59alwAr94nFWOa3mhJN) | 3:04 |
 | 97 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
 | 98 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 |
 | 99 | [Currency](https://open.spotify.com/track/1kdKw9kOzfBglaRbF0NUsV) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Currency](https://open.spotify.com/album/1AZNe8cmbx8iXEN2pxJJGC) | 5:16 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 106 | [Atta Blues](https://open.spotify.com/track/1szDKbUMeO9mGFG4YEGCJ4) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha) | [Atta Blues](https://open.spotify.com/album/4MrwLAfWx5UderzcPA7ExA) | 3:28 |
 | 107 | [Head Bent](https://open.spotify.com/track/5w3GzMoxcXp5azirKIxJza) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/4VXrAdqkFnz2qNJGO0wmKL) | 2:34 |
 | 108 | [Dark Nights](https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 3:09 |
-| 109 | [Muthafucka](https://open.spotify.com/track/3V3JJZVln8sC8V6raJNmKk) | [Beware of Darkness](https://open.spotify.com/artist/0xLOmGSbRgPodnaNKLHwWe) | [Are You Real?](https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR) | 3:32 |
+| 109 | [Muthafucka](https://open.spotify.com/track/3V3JJZVln8sC8V6raJNmKk) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Are You Real?](https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR) | 3:32 |
 | 110 | [My Name Is Human](https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:18 |
 | 111 | [Highway](https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Erase You](https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH) | 3:21 |
 | 112 | [You Rascal You](https://open.spotify.com/track/0BnzymJQLY5a3YHODuaYbO) | [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Will the Guns Come Out](https://open.spotify.com/album/43wnYuDO5oQxKYDYCwySgS) | 2:21 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 144 | [Haunted Heart](https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 2:45 |
 | 145 | [Wannabe In L.A](https://open.spotify.com/track/68HGqHHc41qmJHUWlLUKCd) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/2WxHlLQsHHJ8lb4xQrb65A) | 2:15 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDU0YWNjOWY4N2YzMjk1NzAxNzhjNDM3ZjVkMGVjOGVm`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDU4OWRjM2UwYWQ3MDIwZTgwMjFjZmJjMDUxNWRhMDIz`

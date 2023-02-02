@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-31",
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
   "name": "This Is Rob Zombie",
-  "published_playlist_ids": [
-    "59fEKO5RtRPFv2gC06atPt"
-  ],
   "tracks": [
     {
       "album": {
@@ -261,7 +258,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 54226,
       "name": "Expanding the Head of Zed",
       "url": "https://open.spotify.com/track/625Ju6qdFZFspYHeoM0BVe"
@@ -644,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Astro-Creep: 2000 Live - Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head (Live At Riot Fest)",
+        "url": "https://open.spotify.com/album/0gUwZR11HJJYAHo47RGvsY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 272920,
+      "name": "Real Solution #9 - Live At Riot Fest / 2016",
+      "url": "https://open.spotify.com/track/6tbM7PdCTV8QBNzGyykUSM"
+    },
+    {
+      "album": {
         "name": "The Matrix Reloaded: The Album",
         "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
       },
@@ -994,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "The Scorpion Sleeps",
+      "url": "https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ"
+    },
+    {
+      "album": {
         "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
         "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
@@ -1023,7 +1056,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 247040,
       "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
       "url": "https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv"
@@ -1041,7 +1074,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 247040,
       "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
       "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"

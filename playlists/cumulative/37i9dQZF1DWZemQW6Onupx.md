@@ -4,7 +4,7 @@
 
 > Enjoy music from "Panty & Stocking with Garterbelt"! 「パンティ＆ストッキングwithガーターベルト」公式プレイリスト！\(C\)2010 GAINAX/GEEKS
 
-43 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/7loCSrVpFpikfGo3D10VRp)
+43 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-81 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
+81 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

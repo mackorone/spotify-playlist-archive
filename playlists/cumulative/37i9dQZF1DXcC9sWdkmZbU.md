@@ -4,7 +4,7 @@
 
 > Worship songs for the whole family.
 
-61 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/2uH4DsnGfE4NtZg4sRySa3)
+62 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq) | [Kids Worship Performers](https://open.spotify.com/artist/5FjG20GrL65IRBtxWMua2I) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 4:06 | 2022-04-12 |  |
 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 | 2022-04-12 |  |
 | [If You're Saved and You Know It](https://open.spotify.com/track/4fBymO23KqavJifkRrMQDE) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Toddler 1 Minute Bible Songs](https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5) | 1:04 | 2022-04-12 |  |
+| [Jesus \- Kids Version](https://open.spotify.com/track/7Hd90b1Oh8HIRk7gyIZ8BW) | [Influence Music Kids](https://open.spotify.com/artist/542wlUL6sF17e4UguG9y7z), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [10,000 Armies](https://open.spotify.com/album/68gsIXz2fHm4eY2jCODwnZ) | 3:54 | 2023-01-27 |  |
 | [Jesus Loves Me](https://open.spotify.com/track/18vX3PoNMD7zeSIzjON4FL) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Hillsong Kids Ultimate](https://open.spotify.com/album/29Z8Y1u3DROF2SkWgosrMu) | 3:50 | 2022-04-12 | 2022-07-29 |
 | [Jesus Loves Me \- Live](https://open.spotify.com/track/4KFRVbD0sRACaDbkqTY9kB) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Supernatural \(Live\)](https://open.spotify.com/album/7BnWLTNaXiigS3PYhybwM5) | 3:49 | 2022-04-12 |  |
 | [Jesus Loves Me \- Live In Australia/2006/Ultimate Collection Album Version](https://open.spotify.com/track/5F7kCwzDSeSKb1yhNwVrJL) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Ultimate Collection \(Live\)](https://open.spotify.com/album/4wTllZ2D5cOHKBkSjFVZL7) | 3:52 | 2022-04-12 | 2022-11-13 |

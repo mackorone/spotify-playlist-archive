@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-01",
   "description": "Songs to make your Zumba workout extra fun.",
   "name": "Bollywood Zumba",
-  "published_playlist_ids": [
-    "2C6B2vVS9AIjUempbtKvKk"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/19MlyFzRuoKgjf7ASuOLlm"
@@ -127,7 +124,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 288902,
       "name": "Balam Pichkari",
       "url": "https://open.spotify.com/track/18e3XXYCv4Tx8uUl1mP3CN"
@@ -312,6 +309,40 @@
     },
     {
       "album": {
+        "name": "Current Laga Re (From \"Cirkus\")",
+        "url": "https://open.spotify.com/album/0X5sp8spPdwnE9hrLUGIHo"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        },
+        {
+          "name": "Vivek Hariharan",
+          "url": "https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Current Laga Re (From \"Cirkus\")",
+      "url": "https://open.spotify.com/track/0z8wIFS6LUp2iz6kajcID7"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },
@@ -333,7 +364,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231562,
-      "name": "Cutiepie",
+      "name": "Cutiepie (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/7hXnhouVPnOnFwCGrQMHvB"
     },
     {
@@ -465,7 +496,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 184432,
       "name": "Dilbar (From \"Satyameva Jayate\")",
       "url": "https://open.spotify.com/track/6cARnc9YVlBNigjNSX63pp"
@@ -655,7 +686,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 179099,
       "name": "High Rated Gabru",
       "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
@@ -749,6 +780,10 @@
         {
           "name": "Prem & Hardeep",
           "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2021-11-18",
@@ -809,7 +844,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 235102,
       "name": "Kamli",
       "url": "https://open.spotify.com/track/2QY6SJXVnBFaqxOZhC1Fuu"
@@ -929,6 +964,24 @@
       "duration_ms": 366853,
       "name": "Maahi Ve",
       "url": "https://open.spotify.com/track/7Czm0vv2sYL5z4P51KY66e"
+    },
+    {
+      "album": {
+        "name": "Bajirao Mastani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4IDvzBMT5s2yJIMg6kqkhD"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244047,
+      "name": "Malhari",
+      "url": "https://open.spotify.com/track/2K9uOczZgzGzvxb7ZgRJNK"
     },
     {
       "album": {
@@ -1126,6 +1179,28 @@
     },
     {
       "album": {
+        "name": "Shaitan Ka Saala (From \"Housefull 4\")",
+        "url": "https://open.spotify.com/album/7sxgA4JjytTlBrtI9VXPAf"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147395,
+      "name": "Shaitan Ka Saala (From \"Housefull 4\")",
+      "url": "https://open.spotify.com/track/7IAJzec1UxGYmNvbPTHbxx"
+    },
+    {
+      "album": {
         "name": "Sheher Ki Ladki (From \"Khandaani Shafakhana\")",
         "url": "https://open.spotify.com/album/4aroXseEbgMQBVvF0SfAHz"
       },
@@ -1241,7 +1316,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252631,
-      "name": "The Breakup Song",
+      "name": "The Breakup Song (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/5FihcmME7NlwW8KbYOaHVH"
     },
     {
@@ -1373,28 +1448,6 @@
     {
       "album": {
         "name": "Cocktail",
-        "url": "https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui"
-      },
-      "artists": [
-        {
-          "name": "Neeraj Shridhar",
-          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
-        },
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        }
-      ],
-      "date_added": "2021-11-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 282012,
-      "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
-      "url": "https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47"
-    },
-    {
-      "album": {
-        "name": "Cocktail",
         "url": "https://open.spotify.com/album/6Wu6m82JvVQvsa3kRhRebR"
       },
       "artists": [
@@ -1413,6 +1466,32 @@
       "duration_ms": 282012,
       "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
       "url": "https://open.spotify.com/track/4pE05HNzmVFGpCOfNKE3w6"
+    },
+    {
+      "album": {
+        "name": "Cocktail",
+        "url": "https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui"
+      },
+      "artists": [
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282012,
+      "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
+      "url": "https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47"
     },
     {
       "album": {
@@ -1461,6 +1540,28 @@
       "duration_ms": 231326,
       "name": "Ude Dil Befikre",
       "url": "https://open.spotify.com/track/0hgTkEDY9oIG5DPKN39KHP"
+    },
+    {
+      "album": {
+        "name": "Yai Re",
+        "url": "https://open.spotify.com/album/3WJyprmm76vrt01oJtBphq"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Iulia Vantur",
+          "url": "https://open.spotify.com/artist/2zLJk6hSb9TMtU8XZ6Ne7t"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245032,
+      "name": "Yai Re",
+      "url": "https://open.spotify.com/track/7EH3l7c5HMIHiLm8t0g9ut"
     },
     {
       "album": {

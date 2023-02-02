@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-56 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/0ZArVYnALiXKBCImTtYEH2)
+56 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

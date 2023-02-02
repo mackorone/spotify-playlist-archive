@@ -4,7 +4,7 @@
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-188 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/7vxQPQv3jiLP7qT6UOaWj3)
+188 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

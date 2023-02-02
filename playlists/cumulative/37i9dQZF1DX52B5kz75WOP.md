@@ -4,7 +4,7 @@
 
 > Curated by <a href="spotify:artist:6ZLTlhejhndI4Rh53vYhrY>Ozzy Osbourne</a> for his beloved Pomeranian, Rocky.
 
-19 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/6k8WGlZYaWDLte18htjfgp)
+20 songs - 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Scratch My Back](https://open.spotify.com/track/1UeckZ4DJwZjuCfvUzNcHm) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Nobody's Fools \(Expanded\)](https://open.spotify.com/album/40Qcy8sJ0scKcqy1NCX2pj) | 3:06 | 2020-01-14 |  |
 | [The Dogs of War](https://open.spotify.com/track/4ggDbvTME5EAso1xfGX2M0) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 6:03 | 2020-01-14 |  |
 | [The Hellion](https://open.spotify.com/track/7LLQxMvAYOpoC2PKe3VQn5) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 0:39 | 2020-01-14 |  |
-| [Walkin' The Dog](https://open.spotify.com/track/3TtNZafFdL1ccxVNERnh4w) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 3:12 | 2020-01-14 |  |
+| [Walkin' The Dog](https://open.spotify.com/track/3TtNZafFdL1ccxVNERnh4w) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 3:12 | 2020-01-14 | 2023-01-12 |
+| [Walkin' The Dog](https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 3:13 | 2020-01-14 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

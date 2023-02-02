@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 
 > The best new releases from swinging bop to free jazz\. Cover: Ethan Iverson
 
-[Spotify](https://open.spotify.com/user/spotify) - 914 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 978 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 | 4 | [Love Tastes Like Strawberries](https://open.spotify.com/track/61jFe9N3u046ORguFBVAQa) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Tastes Like Strawberries](https://open.spotify.com/album/3oOqTn2s7bE9Ye7GTmKO6m) | 3:38 |
 | 5 | [12 Stars](https://open.spotify.com/track/2FjOGQaDBoR2rcEkSDA5jL) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [12 Stars](https://open.spotify.com/album/4XhG0Qxth2pJsb3efESk9S) | 2:59 |
 | 6 | [Inquietude](https://open.spotify.com/track/63mAHNs3C1JNqwQ7m1UcF6) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Inquietude](https://open.spotify.com/album/6CgRJaGfWerZSaVVf0jCZI) | 8:35 |
-| 7 | [Reflections in D](https://open.spotify.com/track/5pyFDbYIDiRBsFK3F59iju) | [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Reflections in D](https://open.spotify.com/album/1PulHx45zSWvOGnbMJ4gND) | 5:35 |
+| 7 | [Reflections in D](https://open.spotify.com/track/40r2OiHd5URFzTZUFBxYDq) | [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Perpetual Pendulum](https://open.spotify.com/album/6t3zbrEc2zc8cSAs9YF9Vf) | 5:35 |
 | 8 | [The End Is The Beginning](https://open.spotify.com/track/2hlKDpl5viEv8jBGXj1fAh) | [Pulse Trio](https://open.spotify.com/artist/06QPGxs7a4EpvnWPEnVtVK) | [The End Is The Beginning](https://open.spotify.com/album/1MODSuHRuGhtdeDMEvv7B5) | 5:16 |
 | 9 | [Montsouris](https://open.spotify.com/track/2B3maaxBgIUZVGscNP3Mlq) | [Wajdi Riahi](https://open.spotify.com/artist/4KNhFrO2B7kgoeS1taeGVS), [Basile Rahola](https://open.spotify.com/artist/4OQVQ2Pa4AvFwGKvRzMIND), [Pierre Hurty](https://open.spotify.com/artist/2ag6TetFMxAK2kBxKUkfTQ) | [Montsouris](https://open.spotify.com/album/48120Oy65ceVY3KMJsuRzW) | 9:17 |
 | 10 | [La Jungla](https://open.spotify.com/track/1kp1XFIPUGUBBDtfN7L1NO) | [Julieta Eugenio](https://open.spotify.com/artist/3H7h1KgR3buzLFKHRSQN45), [Matt Dwonszyk](https://open.spotify.com/artist/1wJhh9c7iZqRd9SwVoCtAh), [Jonathan Barber](https://open.spotify.com/artist/3a6ffRV0HgmJGBshUJFCmr) | [La Jungla](https://open.spotify.com/album/6ILv7tQIYKuicDal4wnw8X) | 6:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 | 49 | [Third Wave](https://open.spotify.com/track/0xfFpztUzllbPuws63pB9Q) | [Fabio de Angelis](https://open.spotify.com/artist/0cbpT8SMALuvnuIHoCyklE), [Ares Tavolazzi](https://open.spotify.com/artist/4ewtGlwl7LgSeFmzMJd69C), [Luca De Toni](https://open.spotify.com/artist/52Zf3Wf3OoXH8vpCejt2XM), [Robert Bonisolo](https://open.spotify.com/artist/2orC1tCXt3offq1sc29PHJ) | [Third Wave](https://open.spotify.com/album/6w5LzNNVNvMfkT2H2sytlr) | 4:30 |
 | 50 | [Vintermørke](https://open.spotify.com/track/2i8mf4M58VG6bRaSp48lzK) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Vintermørke](https://open.spotify.com/album/7wpWC9p8PjOIdtVCbZO5fF) | 7:18 |
 
-Snapshot ID: `MTY0NTE2NzExMSwwMDAwMDAwMDBiYzMzNzA4OWVmOGIxOGRkZjAyYWE3MTZmNjQ0MWY3`
+Snapshot ID: `MTY0NTE2NzExMSwwMDAwMDAwMDc1YTQwOWJkMWZhOGM3MGMxNjY1ZDRiOGM3MDcwOTUz`

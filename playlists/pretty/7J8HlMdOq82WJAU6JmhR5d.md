@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7J8HlMdOq82WJAU6JmhR5d.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,297 likes - 71 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 86 likes - 71 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/7J8HlMdOq82WJAU6JmhR5d.md) - [plain]
 | 70 | [God Rest Ye Merry Gentlemen \(Piano Version\)](https://open.spotify.com/track/6vB4uPVjC4sadwygZ2m7pj) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [Christmas Favourites](https://open.spotify.com/album/6k9vWtHRx68135B2YIpAN1) | 2:17 |
 | 71 | [We Wish You a Merry Christmas](https://open.spotify.com/track/7djE736GUrIxw7HtHo0ZI8) | [Chemayne](https://open.spotify.com/artist/3Wl6XL61V0pRkj13dgItId) | [Christmas Piano](https://open.spotify.com/album/70IMAyBu1KzdLsY5bwanHs) | 1:58 |
 
-Snapshot ID: `MTAsOGNlODhlZjcxMzNjN2MxZmYyMjQ2ZDFiYjBkYzhkYWIwNzI3MWFhMw==`
+Snapshot ID: `MTEsMzI3YzRmNmYzMDU1NjA3YzA0NmIwYmU2YWE2NjhlMGExMmI1MjEzZA==`

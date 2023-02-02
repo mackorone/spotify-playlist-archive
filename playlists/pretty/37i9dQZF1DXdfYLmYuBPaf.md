@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfYLmYuBPaf.md) - [plain]
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,061 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,934 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

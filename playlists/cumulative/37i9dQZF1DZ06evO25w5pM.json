@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Deuter. The essential tracks, all in one playlist.",
   "name": "This Is Deuter",
-  "published_playlist_ids": [
-    "6WpgJsRrnIclDGauq0sCwS"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,24 @@
       "duration_ms": 420160,
       "name": "Black Velvet Flirt",
       "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+    },
+    {
+      "album": {
+        "name": "Buddha Nature",
+        "url": "https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384066,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/4Tr55kF33JNtISHKGCkYb4"
     },
     {
       "album": {
@@ -607,7 +622,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 204320,
       "name": "Marfa Lights 2",
       "url": "https://open.spotify.com/track/5L31LhF5GL6VZCewuQz9AI"
@@ -625,7 +640,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 587746,
       "name": "Matamua",
       "url": "https://open.spotify.com/track/472kQ99QrEpFLaLBUglVF3"
@@ -827,7 +842,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 625760,
       "name": "Seashell",
       "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
@@ -845,7 +860,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 657026,
       "name": "Shamanic Healing",
       "url": "https://open.spotify.com/track/2mqLxY8Q3jH4VZxvKnscvc"
@@ -917,7 +932,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 414106,
       "name": "Spirales",
       "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"

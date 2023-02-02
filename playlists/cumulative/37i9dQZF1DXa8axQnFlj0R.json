@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "let me hold both your hands in the holes of my sweater",
   "name": "Sweater Weather",
-  "published_playlist_ids": [
-    "4z56XoIfvsTeY0YpsD2N6g"
-  ],
   "tracks": [
     {
       "album": {
@@ -336,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/2Jpprueg5c7TKfD6h0Mb0m"
       },
@@ -531,7 +546,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 275320,
       "name": "coney island (feat. The National)",
       "url": "https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR"
@@ -567,7 +582,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 180692,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/3waZuM6xOriyiAu5tXDOLS"
@@ -1177,10 +1192,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 123374,
       "name": "I Can See New Zealand From Here",
       "url": "https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU"
+    },
+    {
+      "album": {
+        "name": "Our Day",
+        "url": "https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp"
+      },
+      "artists": [
+        {
+          "name": "Cooza",
+          "url": "https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 123374,
+      "name": "I Can See New Zealand From Here",
+      "url": "https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh"
     },
     {
       "album": {
@@ -1489,6 +1522,24 @@
     {
       "album": {
         "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402654,
+      "name": "Middle Of Nowhere",
+      "url": "https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q"
+    },
+    {
+      "album": {
+        "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb"
       },
       "artists": [
@@ -1499,7 +1550,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 402654,
       "name": "Middle Of Nowhere",
       "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"
@@ -1553,7 +1604,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 208973,
       "name": "mirrorball",
       "url": "https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX"
@@ -1845,7 +1896,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 234000,
       "name": "peace",
       "url": "https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke"
@@ -1863,7 +1914,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 236800,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR"
@@ -1881,7 +1932,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-03",
       "duration_ms": 177533,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2cEBG31c2Y7mfRlLY8g1ah"
@@ -2217,6 +2268,28 @@
       "duration_ms": 238520,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/7fXyuQqEBwpKtCa8PomO7B"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
     },
     {
       "album": {

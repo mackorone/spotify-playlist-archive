@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-14",
   "description": "Songs so beautiful, made for the night",
   "name": "The Most Beautiful Songs of the Night",
-  "published_playlist_ids": [
-    "3swmZtZYYuQKpL3J4b3mlh"
-  ],
   "tracks": [
     {
       "album": {
@@ -53,6 +50,24 @@
     {
       "album": {
         "name": "2005 NYE",
+        "url": "https://open.spotify.com/album/1Epdx4Nl1hobUOEnIXGHVl"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287307,
+      "name": "2005 NYE",
+      "url": "https://open.spotify.com/track/1rzH1WxcHyLEyBuErJQVO0"
+    },
+    {
+      "album": {
+        "name": "2005 NYE",
         "url": "https://open.spotify.com/album/4PPA1thVaDI5MUuRqmNTR9"
       },
       "artists": [
@@ -63,7 +78,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 287307,
       "name": "2005 NYE",
       "url": "https://open.spotify.com/track/6ezV370O6dVoAf9DtRK4X9"

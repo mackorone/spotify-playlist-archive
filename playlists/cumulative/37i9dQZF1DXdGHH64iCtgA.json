@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-13",
   "description": "Strut to electronic tracks that grace the runways everywhere.",
   "name": "Runway",
-  "published_playlist_ids": [
-    "5wAPYscM8lPvRRX5e0inx7"
-  ],
   "tracks": [
     {
       "album": {
@@ -285,7 +282,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 417547,
       "name": "Birdie",
       "url": "https://open.spotify.com/track/3VIBhgSoVZq31ypQK1x4VL"
@@ -571,6 +568,28 @@
     {
       "album": {
         "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/2p6ejJvLSJjvpxPFvlmNYs"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Abra",
+          "url": "https://open.spotify.com/artist/0V3eUguJhWQgYyDHLpR1Ia"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271620,
+      "name": "Colourblind",
+      "url": "https://open.spotify.com/track/6lTMBQGYjLYWqPZjGCQnTh"
+    },
+    {
+      "album": {
+        "name": "Gold Rush",
         "url": "https://open.spotify.com/album/5SJk7kSbK1ExlrA06MxMC5"
       },
       "artists": [
@@ -603,7 +622,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 149051,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
@@ -675,7 +694,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 452853,
       "name": "Dance Tonight Revolution Tomorrow",
       "url": "https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs"
@@ -693,7 +712,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 300000,
       "name": "Dancers",
       "url": "https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B"
@@ -715,7 +734,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 198626,
       "name": "Delicate Limbs (feat. serpentwithfeet)",
       "url": "https://open.spotify.com/track/781pCS1OuWtdIYyNVPV86K"
@@ -1103,7 +1122,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 276960,
       "name": "Helix - Gesaffelstein Vision Remix",
       "url": "https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe"
@@ -1633,7 +1652,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 218906,
       "name": "Like A Good Old Friend",
       "url": "https://open.spotify.com/track/3pYKObrBdzSqIt1PtWfJAh"
@@ -2030,6 +2049,28 @@
     },
     {
       "album": {
+        "name": "NYWTF",
+        "url": "https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Mikhail Beltran",
+          "url": "https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "NYWTF feat. Mikhail Beltran - Edit",
+      "url": "https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
       },
@@ -2059,7 +2100,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 246182,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq"
@@ -2490,7 +2531,7 @@
     },
     {
       "album": {
-        "name": "Set Me Free",
+        "name": "Set Me Free (Extended Mix)",
         "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
       },
       "artists": [
@@ -2503,7 +2544,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210000,
-      "name": "Set Me Free",
+      "name": "Set Me Free - Extended Mix",
       "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
     },
     {
@@ -2905,7 +2946,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 397106,
       "name": "The Volume",
       "url": "https://open.spotify.com/track/43HkvsxJqRq02C7SAVVOSp"
@@ -3119,7 +3160,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2023-01-29",
       "duration_ms": 213781,
       "name": "WANT IT",
       "url": "https://open.spotify.com/track/60qV9FIYSzMB5af9CURSOJ"
@@ -3215,7 +3256,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 491652,
       "name": "White Lights",
       "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"

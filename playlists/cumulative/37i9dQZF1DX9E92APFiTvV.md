@@ -4,7 +4,7 @@
 
 > A lifetime of legendary tunes courtesy of the holy triumvirate\. Rest in peace, Neil Peart.
 
-50 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/1mIuP4WMOLBHYCCJkxjo7E)
+50 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Check out all of these artists and more performing live in Nashville at the CMA Music Festival 2022! Cover: Carrie Underwood
 
-154 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/3icCyajNalVqsD6028NsI7)
+155 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Low Class Lovers](https://open.spotify.com/track/4KQhT0KX8Qs7juORe5Io6e) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Low Class Lovers](https://open.spotify.com/album/4bVa6xxpPiYh8XMECzQDBU) | 4:39 | 2022-06-01 |  |
 | [Man Made](https://open.spotify.com/track/78W8I06nYAyZtjrlZcPptU) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Man Made](https://open.spotify.com/album/6DIfNNLkwspcD82lM2yaU8) | 3:05 | 2022-06-01 |  |
 | [Man of Constant Sorrow](https://open.spotify.com/track/2cCbLVs1UlYPmvRjj666Uu) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Timeless](https://open.spotify.com/album/1obOKQDdr6cbiHTcLAxVyy) | 3:41 | 2022-06-01 |  |
-| [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-06-01 |  |
+| [Marry That Girl](https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:10 | 2022-06-01 |  |
+| [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-06-01 | 2023-01-29 |
 | [Minimum Wage](https://open.spotify.com/track/0Lavu1rppGgXfiK27cAMyU) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Body Language](https://open.spotify.com/album/0s1A44tg1Y21SLHDylmugR) | 3:48 | 2021-08-23 | 2022-06-01 |
 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 | 2022-06-01 |  |
 | [My Bar](https://open.spotify.com/track/4puniyhnAcQbyTcIOQVJhE) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 3:13 | 2022-06-01 |  |

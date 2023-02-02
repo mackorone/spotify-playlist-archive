@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
   "name": "Rainy Day",
-  "published_playlist_ids": [
-    "155vUGZmORDuQImfG0A8fc"
-  ],
   "tracks": [
     {
       "album": {
@@ -413,6 +410,28 @@
     {
       "album": {
         "name": "Dreaming (Mahogany Sessions)",
+        "url": "https://open.spotify.com/album/3r9bDmZ0W3CROXfLusAymH"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271580,
+      "name": "Dreaming (Mahogany Sessions)",
+      "url": "https://open.spotify.com/track/6hhk528iV6EGtIh9DRlJdM"
+    },
+    {
+      "album": {
+        "name": "Dreaming (Mahogany Sessions)",
         "url": "https://open.spotify.com/album/0DvXICZwcJszRJpYglIVOy"
       },
       "artists": [
@@ -445,7 +464,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 271580,
       "name": "Dreaming - Mahogany Sessions",
       "url": "https://open.spotify.com/track/5myjsv8hybpNWNIWtLaW4T"
@@ -1413,7 +1432,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 231773,
       "name": "Nothing Clever",
       "url": "https://open.spotify.com/track/2sFIDchqcVhlNnpSH1mAGN"
@@ -2159,7 +2178,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 247791,
       "name": "Throwing Good After Bad",
       "url": "https://open.spotify.com/track/2FYOven3y63Jxubz8E7jl6"

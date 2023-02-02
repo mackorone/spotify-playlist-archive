@@ -4,7 +4,7 @@
 
 > Cher's most essential tracks, all in one playlist.
 
-37 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/2GTbD89asjyo9F25PyVrQ4)
+37 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

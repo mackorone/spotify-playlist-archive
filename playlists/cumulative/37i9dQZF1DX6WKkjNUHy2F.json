@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The inspiration to be who you truly are\u2014that\u2019s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.",
   "name": "Adam Lambert: Pride",
-  "published_playlist_ids": [
-    "2D6Av3yzPkip4DMqjTyV9j"
-  ],
   "tracks": [
     {
       "album": {
@@ -353,10 +350,28 @@
       ],
       "date_added": "2017-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 273287,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/1DkE9q0AAby1arBO7rIqZ1"
+    },
+    {
+      "album": {
+        "name": "This Is What I Do",
+        "url": "https://open.spotify.com/album/7fGB7p5gO9DeSLaJTvSrWH"
+      },
+      "artists": [
+        {
+          "name": "Boy George",
+          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273287,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/5xxXrfRW2n8eqllPtEDbEU"
     },
     {
       "album": {

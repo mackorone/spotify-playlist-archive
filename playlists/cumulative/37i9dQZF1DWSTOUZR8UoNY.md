@@ -4,7 +4,7 @@
 
 > Listen to poet Dylan Thomas read great works – both his own and those of others.
 
-102 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/6K9tQLRTc5ikK7V6hGFET7)
+102 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

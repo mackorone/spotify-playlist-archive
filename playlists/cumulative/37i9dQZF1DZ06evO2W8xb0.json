@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Chief Commander Ebenezer Obey. The essential tracks, all in one playlist.",
   "name": "This Is Chief Commander Ebenezer Obey",
-  "published_playlist_ids": [
-    "3WhNOVBn98jdzbJUMW15Op"
-  ],
   "tracks": [
     {
       "album": {
@@ -62,6 +59,24 @@
     },
     {
       "album": {
+        "name": "51 Lex Presents: Osika Gbagbe Ola",
+        "url": "https://open.spotify.com/album/1FCXNNPwm8sdoodtHhDeH3"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "Ajo Ni Mowa",
+      "url": "https://open.spotify.com/track/2qXfBppgA4buq508Kdo7ZG"
+    },
+    {
+      "album": {
         "name": "Evergreen Songs Origina 15",
         "url": "https://open.spotify.com/album/1dSXP0OB4XJywalCs07tHx"
       },
@@ -113,7 +128,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 1052560,
       "name": "Austerity Measure",
       "url": "https://open.spotify.com/track/4xHAk3d35NjPe5zb9WJ9CD"
@@ -707,7 +722,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 1023373,
       "name": "Moti Pinu Laye Mi Medley, Part. 1",
       "url": "https://open.spotify.com/track/38UJmmcG2Z0owGXz5TArtF"
@@ -999,7 +1014,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 305333,
       "name": "Ore Mi Maje Aja",
       "url": "https://open.spotify.com/track/7e42KWNUCxJkdFR7dBbfOd"

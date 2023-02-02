@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.",
   "name": "Christmas Coffeehouse",
-  "published_playlist_ids": [
-    "12w8cCmx1q2Iov56A3YAS8"
-  ],
   "tracks": [
     {
       "album": {
@@ -77,6 +74,24 @@
       "duration_ms": 192263,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/4AeRtxiXa5Z6hakq6vTdrk"
+    },
+    {
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241374,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
     },
     {
       "album": {
@@ -289,7 +304,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 207704,
       "name": "Christmas Day",
       "url": "https://open.spotify.com/track/4q7IpOO72CzCOanJWdslVu"
@@ -617,6 +632,24 @@
       "duration_ms": 117657,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/4ODWSl1UJ6ok9t1RQOrD4p"
+    },
+    {
+      "album": {
+        "name": "Frosty",
+        "url": "https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196470,
+      "name": "Frosty",
+      "url": "https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP"
     },
     {
       "album": {
@@ -2245,6 +2278,24 @@
       "duration_ms": 110329,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/2QopSlvNVohyDbU1n185Rn"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203679,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk"
     },
     {
       "album": {

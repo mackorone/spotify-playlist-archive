@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-131 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/1ClXmwh1TCTMLqrrjuRVQf)
+132 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-07-26 |  |
 | [HOLLOW HUNGER](https://open.spotify.com/track/3RNSTLShlhmMXtixgofPlX) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [TVアニメ「オーバーロードIV」オープニングテーマ「HOLLOW HUNGER」](https://open.spotify.com/album/5mUZKHJHNfGZmAx901Dqff) | 3:43 | 2022-07-26 | 2022-07-29 |
 | [Hollow Hunger](https://open.spotify.com/track/49fWwmxDQg6b8itrzcCy9Z) | [Rem](https://open.spotify.com/artist/3X70Znu4TytvUxJANvWDS7), [revain1337](https://open.spotify.com/artist/69eeA1RbxMvqyfzuGGmneH) | [Hollow Hunger](https://open.spotify.com/album/2LCPSxuiBiDrg27Dfdkz8S) | 3:36 | 2022-08-16 | 2022-10-30 |
+| [HOLLOW HUNGER](https://open.spotify.com/track/7uNsCBO9bzMEVnfWEjSQ50) | [Wiara](https://open.spotify.com/artist/04CkHYISvS6wvA1B5h3EWK), [Batusyex](https://open.spotify.com/artist/6lG7ZvNf1ZOqZOVZLSEvKE), [mârshall](https://open.spotify.com/artist/4wQG17mDQkWTiqumHDitMo) | [HOLLOW HUNGER](https://open.spotify.com/album/51qgmpr7vw54IAZGeneM1W) | 3:43 | 2022-08-16 | 2023-02-02 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/4OJVRrXhEdvtUCL3jtpdla) | [Wxchi](https://open.spotify.com/artist/0QfAfi0YfXU5M6aWRAJcYy) | [HOLLOW HUNGER](https://open.spotify.com/album/0cCWAbgxj9xluHmdCx2lv7) | 3:43 | 2022-08-16 | 2022-10-09 |
 | [Imperfect](https://open.spotify.com/track/15If8Hrsgq8jro2a4LSi9A) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:45 | 2022-07-26 |  |
 | [Imperfect](https://open.spotify.com/track/2xaWvDPHhS5buartu52e9Q) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Imperfect](https://open.spotify.com/album/5w8YFmXK3uDI9RqgRWn9pi) | 3:47 | 2022-08-16 | 2022-11-13 |

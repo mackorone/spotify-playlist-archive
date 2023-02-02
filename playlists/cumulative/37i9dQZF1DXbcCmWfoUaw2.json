@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-23",
   "description": "Energetic tracks from the 2000s to boost your running session.",
   "name": "00s Pop Run",
-  "published_playlist_ids": [
-    "5Hvqr14xQJgQOv15YvOQEM"
-  ],
   "tracks": [
     {
       "album": {
@@ -63,7 +60,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-06",
       "duration_ms": 228906,
       "name": "Ain't No Other Man",
       "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
@@ -81,7 +78,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 329933,
       "name": "All For You",
       "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
@@ -103,10 +100,32 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
     },
     {
       "album": {
@@ -710,6 +729,28 @@
     },
     {
       "album": {
+        "name": "Infinity 2008",
+        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
+      },
+      "artists": [
+        {
+          "name": "Guru Josh Project",
+          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
+        },
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192294,
+      "name": "Infinity 2008 - Klaas Vocal Edit",
+      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
+    },
+    {
+      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -747,6 +788,24 @@
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
+    },
+    {
+      "album": {
+        "name": "Modjo (Remastered)",
+        "url": "https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307153,
+      "name": "Lady - Hear Me Tonight",
+      "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
     },
     {
       "album": {
@@ -1369,7 +1428,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 200400,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"

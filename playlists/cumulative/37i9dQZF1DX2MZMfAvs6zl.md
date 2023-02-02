@@ -4,7 +4,7 @@
 
 > South African rising star <a href="spotify:artist:0fs9otT9TtwXUOcFXZomZY">Caiiro</a> perfectly blends together the rhythmic beats from his home country with emotional melodies in his latest mix.
 
-9 songs - 54 min 50 sec - not published yet
+9 songs - 54 min 50 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,12 +4,12 @@
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/599My5faYT8agbHqdiqdXn)
+63 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Al Rescate](https://open.spotify.com/track/6RYkjZLxo7xZSR9LNr57K9) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:33 | 2022-06-01 |  |
-| [Amores Fingidos](https://open.spotify.com/track/4J3miVgH4SeSdYf1SN8lB1) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Si No Existieras...Pero Existimos](https://open.spotify.com/album/19TgMyTRUaYXQ4dSj84cgn) | 2:35 | 2022-06-01 |  |
+| [Amores Fingidos](https://open.spotify.com/track/4J3miVgH4SeSdYf1SN8lB1) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Si No Existieras...Pero Existimos](https://open.spotify.com/album/19TgMyTRUaYXQ4dSj84cgn) | 2:35 | 2022-06-01 | 2023-01-29 |
 | [Ando Bien Pedo](https://open.spotify.com/track/58rgceeiYu1wFneDP2j5LJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 2:24 | 2022-06-01 |  |
 | [Bendita Cerveza](https://open.spotify.com/track/57ShDrVkFm2df6AnpPI8cJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:19 | 2022-06-01 | 2022-11-23 |
 | [Celoso Enamorado](https://open.spotify.com/track/04oNsFiq4kF3VYsyeTwp2r) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Siento A Todo Dar](https://open.spotify.com/album/54uGnanbGdJIINnc3U3Clx) | 2:51 | 2022-06-05 | 2022-06-07 |
@@ -42,6 +42,7 @@
 | [Me Tocó Perder](https://open.spotify.com/track/2bKxgwhHmjvqan4LQ4GXHZ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 3:03 | 2022-06-01 |  |
 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 | 2022-06-01 |  |
 | [Mi Último Deseo](https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:43 | 2022-06-01 |  |
+| [Mi Útimo Deseo](https://open.spotify.com/track/5DbHwG8J096GjmUPDXCIo1) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Mi Último Deseo](https://open.spotify.com/album/6I8efdU2wPu46QxwGcsPqD) | 2:43 | 2023-01-28 |  |
 | [Mientras Tú Jugabas](https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [El Free](https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs) | 2:10 | 2022-06-01 |  |
 | [Morras De Acción](https://open.spotify.com/track/6Kbf0AabdaT73J54MwKswQ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:27 | 2022-09-19 |  |
 | [No Le Hago Falta](https://open.spotify.com/track/2bpmteM9wnfynV1MNkI898) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:46 | 2022-06-01 |  |

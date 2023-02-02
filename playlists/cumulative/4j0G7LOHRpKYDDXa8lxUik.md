@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/3QIe5yQ2lAHTA3aypNQxJ0)
+50 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

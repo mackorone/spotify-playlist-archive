@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 366 likes - 199 songs - 12 hr 1 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 361 likes - 202 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,10 +141,10 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 131 | [Transmission & Fusion](https://open.spotify.com/track/6Mrj8IlZ0B3zGRObNWw98q) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX), [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Transmission & Fusion](https://open.spotify.com/album/0nxQYnm8gXTADfedmWBgye) | 4:24 |
 | 132 | [Hieru](https://open.spotify.com/track/36L69LskVtqUZbJNQifBgG) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Hieru](https://open.spotify.com/album/6iJ70GJouelEg2KyS0GBoC) | 3:45 |
 | 133 | [Kyoto Nights](https://open.spotify.com/track/3HPPccmXhAPwA29y4CwI85) | [Ennja](https://open.spotify.com/artist/5VfsJtcTOUghb9eRPpif27) | [Kyoto Nights](https://open.spotify.com/album/1WxrAauUpnYNpY4QeAbXbq) | 3:31 |
-| 134 | [Synergy](https://open.spotify.com/track/6BWjy4BEMpbEzgwJm1637h) | [Lowly](https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg), [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:21 |
+| 134 | [Synergy](https://open.spotify.com/track/6BWjy4BEMpbEzgwJm1637h) | [Lowly, Juche](https://open.spotify.com/artist/2oEQmXB8z2M6cenJyyrKDB) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:21 |
 | 135 | [Let Off](https://open.spotify.com/track/600uPEYmDBWCzFf6fKz63H) | [Vacant](https://open.spotify.com/artist/30DoC8Ezpk2qU8yRMUzr1x) | [Let Off](https://open.spotify.com/album/6tDFLRJraBhBHwcUDRPD6N) | 3:20 |
 | 136 | [Fall Apart](https://open.spotify.com/track/4UKvtOuCVzFOSLuaRv2JIk) | [Tearz](https://open.spotify.com/artist/0uNg4OGi0R7A0tZDRzzJ8m) | [Fall Apart](https://open.spotify.com/album/5WXU9h3WguZGHGXj9ge2i2) | 3:07 |
-| 137 | [Undercover](https://open.spotify.com/track/1r3dIlrJgbGYmRh3mrzwNe) | [Lowly](https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg), [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0), [Affectwave](https://open.spotify.com/artist/0AsGw9kdwdLXi5wBJkPoQ4) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:21 |
+| 137 | [Undercover](https://open.spotify.com/track/1r3dIlrJgbGYmRh3mrzwNe) | [Lowly, Kim, Affectwave](https://open.spotify.com/artist/4W3IG9DQCjtsOzT6fiWcZV) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:21 |
 | 138 | [Dust](https://open.spotify.com/track/00hIKBvhBvuGbY4C6ygmVT) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Dust](https://open.spotify.com/album/46zim0jQl9l4aolmVacKAn) | 4:31 |
 | 139 | [Aero](https://open.spotify.com/track/31uvu1q6bNkMddXY60opor) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Aero](https://open.spotify.com/album/6jMLWh3MqsqGgMrJpRQVFP) | 2:59 |
 | 140 | [We Are](https://open.spotify.com/track/4UgZnOeNEfXPKOzw2z4SU6) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [We Are](https://open.spotify.com/album/3Kv5hCNQNi2Whw50s1wRQ9) | 3:00 |
@@ -169,10 +169,10 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 159 | [Numb](https://open.spotify.com/track/51MCL2RrlFhRXOZInd93ah) | [shxde](https://open.spotify.com/artist/6rCnAlUYZj7i19NEeRlwCr) | [Numb](https://open.spotify.com/album/0yobVUiBFc2XIq9OVI7272) | 3:42 |
 | 160 | [u.](https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS) | 2:54 |
 | 161 | [halon](https://open.spotify.com/track/2LnPKdEU56FEQ1Aj2zI0BK) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW), [Halon](https://open.spotify.com/artist/6FsTyMvWygqPWyx4d1MvoT) | [halon](https://open.spotify.com/album/3TGEcdOhiA0jhfbThAyPif) | 3:23 |
-| 162 | [Wake Me Up](https://open.spotify.com/track/7xQGuSAJBWLYziIeUTsjUW) | [Lowly](https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg), [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0), [Affectwave](https://open.spotify.com/artist/0AsGw9kdwdLXi5wBJkPoQ4) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:18 |
-| 163 | [Reflection](https://open.spotify.com/track/1R3qWOKVtePIpfFYSuPwem) | [Lowly](https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg), [smokefishe](https://open.spotify.com/artist/3RKiOa5z73KXSeIbOeBPvc) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:27 |
+| 162 | [Wake Me Up](https://open.spotify.com/track/7xQGuSAJBWLYziIeUTsjUW) | [Lowly, Kim, Affectwave](https://open.spotify.com/artist/4W3IG9DQCjtsOzT6fiWcZV) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:18 |
+| 163 | [Reflection](https://open.spotify.com/track/1R3qWOKVtePIpfFYSuPwem) | [Lowly, Smokefishe](https://open.spotify.com/artist/74ZfaGpPxrbKS9zBNb6OHQ) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:27 |
 | 164 | [Close Eyes](https://open.spotify.com/track/4cboAOd9H48uPTWknVyLBq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/5A4ufdNeSzNjZePkkZrhcO) | 2:12 |
-| 165 | [Omsaya](https://open.spotify.com/track/1fD9CUbyVKQdfBYtEJ3m2h) | [Lowly](https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg), [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:06 |
+| 165 | [Omsaya](https://open.spotify.com/track/1fD9CUbyVKQdfBYtEJ3m2h) | [Lowly, KTrek](https://open.spotify.com/artist/5L8lcckQe9wpSWHhPDUKNK) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:06 |
 | 166 | [Ocean Blues \- Juche Remix](https://open.spotify.com/track/43JltL1Sno0XJu97qmnUDi) | [Saint Mars](https://open.spotify.com/artist/2OCanyIjsP839xw7ItEZPZ), [Tryzdin](https://open.spotify.com/artist/4tkNmdEWoqNIHc0DqFu82c), [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Ocean Blues \(Juche Remix\)](https://open.spotify.com/album/1Q8OXSWNovmKx7j1SvV5p8) | 3:34 |
 | 167 | [Odaiba Sunset Gathering](https://open.spotify.com/track/2loALtdikDhzODjxE4Tgw1) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Odaiba Sunset Gathering](https://open.spotify.com/album/4kktgL6pPr1z7XH0rp4l6N) | 3:51 |
 | 168 | [Mental Loop](https://open.spotify.com/track/7EovzLbZJ3mHcJ3239ytln) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 3:47 |
@@ -189,7 +189,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 179 | [ARTEMIDA](https://open.spotify.com/track/4cTLdLpKav5cApdOJp47MR) | [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw) | [ARTEMIDA](https://open.spotify.com/album/5tqqA37aDXE1F0W9QKKraO) | 3:42 |
 | 180 | [Obsidian Born](https://open.spotify.com/track/51WTX77VsF5QP21DWzuigh) | [Five Suns](https://open.spotify.com/artist/58bIS29PlIe7RhCSoHJnnq) | [Obsidian Born](https://open.spotify.com/album/7nUrVIYKOh4wC2ra4T0OwF) | 4:59 |
 | 181 | [To Die Without Scars](https://open.spotify.com/track/1kdqadSjIKkachVo51JJHt) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [To Die Without Scars](https://open.spotify.com/album/5l6SuZ2A6BTGMjuE5sn1th) | 4:14 |
-| 182 | [Don't Like \(Enjoii Remix\)](https://open.spotify.com/track/2emYCTqE60lI5D7atS8fgc) | [Lowly](https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg), [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW), [enjoii](https://open.spotify.com/artist/5aUdEtXbJeOjAuNXLn9lkX) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:34 |
+| 182 | [Don't Like \(Enjoii Remix\)](https://open.spotify.com/track/2emYCTqE60lI5D7atS8fgc) | [Lowly, Niteboi](https://open.spotify.com/artist/1qFAA6qiSYWA1iRYwDgrYr), [enjoii](https://open.spotify.com/artist/5aUdEtXbJeOjAuNXLn9lkX) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:34 |
 | 183 | [Limit](https://open.spotify.com/track/5Fx4GDrdXHmfwmUdWVP839) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB), [Ytho](https://open.spotify.com/artist/5x0yHFCXMkXydFudgs6o3y) | [Limit](https://open.spotify.com/album/57C6FlZwT2L0p3pqemGmi5) | 3:25 |
 | 184 | [DEEP FUSION](https://open.spotify.com/track/0UBOdhh5DDT2CnR26dibrI) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [DEEP FUSION](https://open.spotify.com/album/11YCQnuxdJNl1lMJQWAc7w) | 3:26 |
 | 185 | [night drive](https://open.spotify.com/track/0jurmsj9pRiPw7NP2Xyzlq) | [førget.](https://open.spotify.com/artist/5wHfi1y1q2QxxRGa4XBUwi) | [night drive](https://open.spotify.com/album/092UJhaI7AuxP3grT3RDcv) | 4:10 |
@@ -207,5 +207,8 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 197 | [Radiant](https://open.spotify.com/track/5h3H7uXc5Uss7pNXK7C2WW) | [STS\-51L](https://open.spotify.com/artist/26sQOH3CNqd81507zMHofP), [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Andromeda](https://open.spotify.com/album/0XQR3Ky1jdpw2RtpISEE93) | 3:13 |
 | 198 | [Rosacea](https://open.spotify.com/track/3CHXpZdk5W8y5wLlJape0Y) | [Grid](https://open.spotify.com/artist/2mr8Sn2YZJZiKuvbRmABbm) | [Rosacea](https://open.spotify.com/album/3eOytFp2PJ6061ZjOm9LRh) | 3:11 |
 | 199 | [OBLIVION](https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [OBLIVION](https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj) | 3:12 |
+| 200 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 |
+| 201 | [For You](https://open.spotify.com/track/2wRlRa04whOwI5cZ4QXsmj) | [DXXDLY](https://open.spotify.com/artist/6GKLaeqLSNmXOedBQQY9R7), [JÖST](https://open.spotify.com/artist/3ERTkqBGVuP0lA4r3pNvGu) | [For You](https://open.spotify.com/album/4Cd2EftimaltmI0irA1dCX) | 2:28 |
+| 202 | [Ryza](https://open.spotify.com/track/6pOwVBLGJIHQhdxdOHENOh) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Ryza](https://open.spotify.com/album/0cv1F06ZUvZKet0IZUfs4J) | 3:12 |
 
-Snapshot ID: `MjE1LDg0NjBhMTk3N2VkY2FjNTc4N2JkNDU1MDEyNWI0NDkyYTk1ZTE4Njk=`
+Snapshot ID: `MjE4LDE5NmRmNzBhZTlmMzI3NDY5Yzg4MTVhZGY3ZDdkZGRlYWVkYmNiZDk=`

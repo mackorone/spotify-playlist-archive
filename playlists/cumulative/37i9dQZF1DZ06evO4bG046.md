@@ -4,18 +4,19 @@
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-60 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/40T1DL5yMeorxfQGdK6QOW)
+61 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aconcagua](https://open.spotify.com/track/1J3YwZoLyuT0pPOtMbenOE) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:40 | 2022-09-16 |  |
+| [Aguamarina](https://open.spotify.com/track/38oA0SevVbUsoZCBDEWcvb) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 4:02 | 2023-01-14 | 2023-01-16 |
 | [Amor Americano](https://open.spotify.com/track/2devOvQdt2r3lLOWu92O4x) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 5:28 | 2022-09-16 |  |
 | [Antigua América](https://open.spotify.com/track/08d3JzTtDDivrdsOGuiv35) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 5:39 | 2022-09-16 |  |
 | [Arauco Tiene una Pena](https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 11:07 | 2022-09-16 |  |
 | [Arrebol](https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 6:48 | 2022-09-16 |  |
 | [Ayer Cache \(Remasterizado 2020\)](https://open.spotify.com/track/5oGKw1Zl8WLYbcX1OBWhzV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4) | 4:21 | 2022-09-16 |  |
 | [Bosques Virginales](https://open.spotify.com/track/3B9Ld3SEdRplZ15L5nCoOo) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 9:47 | 2022-10-04 | 2022-10-06 |
-| [Cancion De Los Pajaros](https://open.spotify.com/track/5Ho0q4gNqUU9XHHzgfm76O) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:14 | 2022-09-21 | 2022-10-25 |
+| [Cancion De Los Pajaros](https://open.spotify.com/track/5Ho0q4gNqUU9XHHzgfm76O) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:14 | 2022-09-21 |  |
 | [Canción del Sur](https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 7:41 | 2022-09-16 |  |
 | [Canción para los Pájaros](https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:25 | 2022-09-30 |  |
 | [Cerro de la Virgen](https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 6:55 | 2022-09-16 |  |
@@ -45,7 +46,7 @@
 | [Los Momentos \(Versión 1997\)](https://open.spotify.com/track/2ywsanmt12Ivz8jI111ItL) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Eduardo Gatti](https://open.spotify.com/artist/4XeXlVlcBAqU4tYCP3SdoY) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 3:35 | 2022-09-16 |  |
 | [Mamalluca](https://open.spotify.com/track/5cZqYxULKUnsi9cHKp78pS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 15:44 | 2022-09-16 |  |
 | [Mambo de Machaguay](https://open.spotify.com/track/7eDAcrYSFM2vNWrCefc9Sm) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 4:56 | 2022-09-16 |  |
-| [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 4:40 | 2022-09-16 |  |
+| [Mañana Me Voy Pa'l Norte](https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD) | 4:40 | 2022-09-16 | 2023-01-23 |
 | [Mira Niñita \(Versión 1996\)](https://open.spotify.com/track/6GYbTb3eLDVdEoRSu6L3iU) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 6:27 | 2022-09-16 |  |
 | [Niña Serrana \(En Vivo\)](https://open.spotify.com/track/1kqutTDOwYGSDilE2jfFdI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Jaivas En Vivo: Gira Chile '88](https://open.spotify.com/album/2zqHuam4s6Fwf2iU7d6Ntp) | 4:15 | 2022-09-16 |  |
 | [Pregon Para Iluminarse](https://open.spotify.com/track/3AMth1gnz9PbQnEfUVZbp2) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 5:17 | 2022-09-16 |  |

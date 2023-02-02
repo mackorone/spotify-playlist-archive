@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-15",
   "description": "Soothing rolling thunder sounds, all through the night...",
   "name": "Thunderstorms",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -96,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Deep Storm",
+        "url": "https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7"
+      },
+      "artists": [
+        {
+          "name": "Illustrike",
+          "url": "https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 168669,
+      "name": "Deep Storm",
+      "url": "https://open.spotify.com/track/5T9OJA2LwDfIy2N6tEoJSD"
+    },
+    {
+      "album": {
         "name": "Storm Through The Night",
         "url": "https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5"
       },
@@ -107,7 +124,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 156007,
       "name": "Distant Storm",
       "url": "https://open.spotify.com/track/6sZVHMKQ7lf57eTlgby2WL"
@@ -377,7 +394,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 208000,
       "name": "Lit up Sky",
       "url": "https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3"
@@ -413,10 +430,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 195095,
       "name": "Medium rain, Thunder Threatening",
       "url": "https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a"
+    },
+    {
+      "album": {
+        "name": "Rain And Thunder (Vol. 3)",
+        "url": "https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Thunders",
+          "url": "https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175901,
+      "name": "Mountain Thunderstorm",
+      "url": "https://open.spotify.com/track/29XSvNdu4rTuvWgxeiMDM7"
     },
     {
       "album": {
@@ -557,7 +592,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 222124,
       "name": "Raining Rolling Thunder",
       "url": "https://open.spotify.com/track/7e3Hn9AFgrZrYgAZMJsvDb"
@@ -579,6 +614,24 @@
       "duration_ms": 208000,
       "name": "Schl\u00e4friger Donner",
       "url": "https://open.spotify.com/track/28KswoQztifTUjKJxujGWV"
+    },
+    {
+      "album": {
+        "name": "Deep Storm",
+        "url": "https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7"
+      },
+      "artists": [
+        {
+          "name": "Illustrike",
+          "url": "https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217710,
+      "name": "Shelter Rain",
+      "url": "https://open.spotify.com/track/2LlSkv5N137jn1rvqs39vA"
     },
     {
       "album": {
@@ -611,7 +664,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 198000,
       "name": "Sky Full Of Thunder",
       "url": "https://open.spotify.com/track/0ovxaBAfSGc6ZFR2tZPNFG"
@@ -665,7 +718,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 136757,
       "name": "Soft Rain Carrying Strong Lightnings",
       "url": "https://open.spotify.com/track/0qTxu9veqYjT7qCJJtaMQr"
@@ -791,7 +844,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-29",
       "duration_ms": 170070,
       "name": "Stormy Harbor In The Evening",
       "url": "https://open.spotify.com/track/7jaUDokJnbVN5tFIUMKRqU"
@@ -813,6 +866,24 @@
       "duration_ms": 208000,
       "name": "Stormy Nights",
       "url": "https://open.spotify.com/track/0m2TR5Z8tZxhBT00aNE3iU"
+    },
+    {
+      "album": {
+        "name": "Sturm am Abend",
+        "url": "https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl"
+      },
+      "artists": [
+        {
+          "name": "Stormy Zeus",
+          "url": "https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141920,
+      "name": "Sturm am Abend",
+      "url": "https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA"
     },
     {
       "album": {
@@ -845,7 +916,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Subtle Thunderstorm",
       "url": "https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C"
@@ -881,7 +952,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 499640,
       "name": "Thunder and Rain Sounds for Sleep",
       "url": "https://open.spotify.com/track/1IPWimN1vmECIFzZbhzuSk"
@@ -921,6 +992,24 @@
       "duration_ms": 153065,
       "name": "Thunder In Spring",
       "url": "https://open.spotify.com/track/6Gs3SkXflNh1QrTcFVxjtz"
+    },
+    {
+      "album": {
+        "name": "Thunder In The Forest",
+        "url": "https://open.spotify.com/album/7iLrSoNoZPV83W7i2Hx2Gm"
+      },
+      "artists": [
+        {
+          "name": "Drizzly Bear",
+          "url": "https://open.spotify.com/artist/4kFH5XN6V0zQVZ2G6sp0ZE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Thunder In The Forest",
+      "url": "https://open.spotify.com/track/0GHYPILlyRq1NTVNEmhNZR"
     },
     {
       "album": {
@@ -1032,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Thunderstorms (Vol. 3)",
+        "url": "https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU"
+      },
+      "artists": [
+        {
+          "name": "Baltic Thunderstorms",
+          "url": "https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97577,
+      "name": "Thunderstorm at Night",
+      "url": "https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01"
+    },
+    {
+      "album": {
         "name": "Thunderstorm Lullaby",
         "url": "https://open.spotify.com/album/6zQCoBm1SdOdM2tEBAx07e"
       },
@@ -1047,6 +1154,24 @@
       "duration_ms": 174000,
       "name": "Thunderstorm Lullaby",
       "url": "https://open.spotify.com/track/2Bk7dbzRy1TDNsL4mdH6dg"
+    },
+    {
+      "album": {
+        "name": "Thunderstorms In Italy",
+        "url": "https://open.spotify.com/album/59SfFs0fby6KmMp9A6hnPu"
+      },
+      "artists": [
+        {
+          "name": "Pluvious",
+          "url": "https://open.spotify.com/artist/5m8Ny76aXScYfB1HkcjzB6"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Thunderstorms In Italy - Seamless",
+      "url": "https://open.spotify.com/track/4usbGXSHEFUs8W9lXvGRw5"
     },
     {
       "album": {

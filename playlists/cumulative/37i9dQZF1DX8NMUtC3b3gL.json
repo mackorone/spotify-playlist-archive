@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "beautiful beats for beautiful moments. ",
   "name": "lofi summer haze",
-  "published_playlist_ids": [
-    "2nsz5w7fkkZs2YsroV1TdR"
-  ],
   "tracks": [
     {
       "album": {
@@ -290,6 +287,28 @@
     },
     {
       "album": {
+        "name": "Digestif",
+        "url": "https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
+      "duration_ms": 152000,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/18of42QoHnosXzZETOEaqf"
+    },
+    {
+      "album": {
         "name": "Another",
         "url": "https://open.spotify.com/album/7iH8qptr0RgdF8at4M9WzC"
       },
@@ -305,10 +324,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 152000,
       "name": "Another",
       "url": "https://open.spotify.com/track/1KnTl30Tw99mB01rlm5VpN"
+    },
+    {
+      "album": {
+        "name": "Digestif",
+        "url": "https://open.spotify.com/album/5PLEEcxdBS03aJq52w7MlM"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/3jOoFaPVncF4E0g050jGU9"
     },
     {
       "album": {
@@ -620,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Chasing Sunsets",
+        "url": "https://open.spotify.com/album/1MzclGSbvMjLt1Nt4qIYAA"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120203,
+      "name": "Chasing Sunsets",
+      "url": "https://open.spotify.com/track/60aVSWvHQyVRhXYCUHj3DK"
+    },
+    {
+      "album": {
         "name": "Longings",
         "url": "https://open.spotify.com/album/304bggytiHFgGxQr93ftkm"
       },
@@ -656,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Chen",
+        "url": "https://open.spotify.com/album/5l2P8YxW3MQ4s1n95V5voL"
+      },
+      "artists": [
+        {
+          "name": "JimmieLuv",
+          "url": "https://open.spotify.com/artist/2E3vr1mH5nTjLRPDRdUcO2"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "Chen",
+      "url": "https://open.spotify.com/track/0Y7igTuXHLFO41mnaShhLw"
+    },
+    {
+      "album": {
         "name": "Chill Balcony",
         "url": "https://open.spotify.com/album/1d2AZ7N81CHVJRx5haZ9Cd"
       },
@@ -675,6 +752,24 @@
       "duration_ms": 144115,
       "name": "Chill Balcony",
       "url": "https://open.spotify.com/track/03PhAyp5FFUPMb68QCrAst"
+    },
+    {
+      "album": {
+        "name": "chrome",
+        "url": "https://open.spotify.com/album/1A2lg20TBi2x4eVUVIBIoi"
+      },
+      "artists": [
+        {
+          "name": "love_eight",
+          "url": "https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142555,
+      "name": "chrome",
+      "url": "https://open.spotify.com/track/409mSIlqx7ZKfWhPzFzRhL"
     },
     {
       "album": {
@@ -1026,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Dear Friends",
+        "url": "https://open.spotify.com/album/5dT9sOgkg4vuBzcDwnWvM0"
+      },
+      "artists": [
+        {
+          "name": "d-Tergent",
+          "url": "https://open.spotify.com/artist/6ye4fgFvJaIMRV9Hsry5Ta"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Dear Friends",
+      "url": "https://open.spotify.com/track/1ZaTA2e51aBZoAL8CuaePU"
+    },
+    {
+      "album": {
         "name": "Digital lounge",
         "url": "https://open.spotify.com/album/1Lbp8hXI1Q1LSCfpwGZfVt"
       },
@@ -1174,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Easy Cheese",
+        "url": "https://open.spotify.com/album/2XLsbqEwMJUGfr2Xgi9PWg"
+      },
+      "artists": [
+        {
+          "name": "Daniel Fridell",
+          "url": "https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335327,
+      "name": "Easy Cheese",
+      "url": "https://open.spotify.com/track/4rnf2QpPSzkxLlbFxxXgK0"
+    },
+    {
+      "album": {
         "name": "Electro Lofi",
         "url": "https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG"
       },
@@ -1189,6 +1320,28 @@
       "duration_ms": 115200,
       "name": "Electro Lofi",
       "url": "https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB"
+    },
+    {
+      "album": {
+        "name": "Elegua",
+        "url": "https://open.spotify.com/album/6OxA3z3EOvhbEfPMQbM9Ka"
+      },
+      "artists": [
+        {
+          "name": "Oaty.",
+          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
+        },
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122681,
+      "name": "Elegua",
+      "url": "https://open.spotify.com/track/3JKfpG7unjgUxjOVAVdxa3"
     },
     {
       "album": {
@@ -1469,8 +1622,8 @@
       },
       "artists": [
         {
-          "name": "Hale Ztrike",
-          "url": "https://open.spotify.com/artist/4D0c2cETxMrps8sKgzKQVH"
+          "name": "Sugar Coast",
+          "url": "https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m"
         }
       ],
       "date_added": "2022-10-07",
@@ -1479,6 +1632,32 @@
       "duration_ms": 131001,
       "name": "First Impressions",
       "url": "https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB"
+    },
+    {
+      "album": {
+        "name": "Flor De Ver\u00e3o",
+        "url": "https://open.spotify.com/album/2zadQicG07qREhNK7BlLEM"
+      },
+      "artists": [
+        {
+          "name": "So.Lo",
+          "url": "https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj"
+        },
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Flor De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/52cxCWNiYdhGMGSgszz5Ow"
     },
     {
       "album": {
@@ -2236,6 +2415,42 @@
     },
     {
       "album": {
+        "name": "leave the lights on",
+        "url": "https://open.spotify.com/album/7sh2RAqZITfrhnAOhoTKmi"
+      },
+      "artists": [
+        {
+          "name": "Cyan_95",
+          "url": "https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132517,
+      "name": "leave the lights on",
+      "url": "https://open.spotify.com/track/7d5KOapwEiUVGxa9fGOD8a"
+    },
+    {
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/2wiPdIreJ1C3tInhudu60R"
+      },
+      "artists": [
+        {
+          "name": "Harry Hawaii",
+          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132936,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/3zyz4vMxFmUEBuSyA19zVa"
+    },
+    {
+      "album": {
         "name": "Let's Downgrade!",
         "url": "https://open.spotify.com/album/1L1VolV9sQvMotcKQ9JJC3"
       },
@@ -2291,10 +2506,54 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 145500,
       "name": "Limitless Romance",
       "url": "https://open.spotify.com/track/2mcHRbi6QDzFMyU3MqpysB"
+    },
+    {
+      "album": {
+        "name": "Limitless Romance",
+        "url": "https://open.spotify.com/album/51DG6QyIympPsj5KUQQTqh"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        },
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Limitless Romance",
+      "url": "https://open.spotify.com/track/7H6q2iavCpGfPM7anKkmLl"
+    },
+    {
+      "album": {
+        "name": "lindo",
+        "url": "https://open.spotify.com/album/58glJDDiyNwRMHyaXFMwU8"
+      },
+      "artists": [
+        {
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
+        },
+        {
+          "name": "Tau",
+          "url": "https://open.spotify.com/artist/2tV1Ys5GAXL47UahBxq8hB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "lindo",
+      "url": "https://open.spotify.com/track/66NcL7vEfkRz5iTd78h24f"
     },
     {
       "album": {
@@ -2944,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0Fl6lilEEvNOIa9sBvfDZv"
+      },
+      "artists": [
+        {
+          "name": "AMV",
+          "url": "https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160610,
+      "name": "One",
+      "url": "https://open.spotify.com/track/6fUoCQqNPqbHo8ZTpQUqbM"
+    },
+    {
+      "album": {
         "name": "Other Way Around",
         "url": "https://open.spotify.com/album/4aK8t4rKtHjdsMaV4hg34t"
       },
@@ -3124,7 +3401,7 @@
       "artists": [
         {
           "name": "zxry.",
-          "url": "https://open.spotify.com/artist/2KDok9fxr255I38HflZAzC"
+          "url": "https://open.spotify.com/artist/2EBMa1emZmsUTYcb1xJwIJ"
         }
       ],
       "date_added": "2022-05-27",

@@ -2,9 +2,9 @@
 
 ### [Radar España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> Descubre hoy a los artistas de mañana\. Foto: Camin
+> Descubre hoy a los artistas de mañana\. Foto: Judeline
 
-148 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+151 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [CAMALEÓN](https://open.spotify.com/track/5H1LLTRLRw59GZh6Xd5lGe) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Camaleón](https://open.spotify.com/album/0jCM9KSax5G30ZScKCTvAG) | 2:55 | 2021-12-31 | 2022-01-07 |
 | [canción de amor](https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV) | 2:57 | 2022-07-28 | 2022-09-20 |
 | [canción de amor](https://open.spotify.com/track/6YB52qsOLvjW0Q25NN9ngp) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/7h6aG4Z7zNpbbMKJhKn6Nh) | 2:57 | 2022-03-31 | 2022-07-29 |
-| [canción de amor](https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:57 | 2022-09-16 |  |
+| [canción de amor](https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:57 | 2022-09-16 | 2022-12-22 |
 | [Chamaquita](https://open.spotify.com/track/667CH2wRxXnQOfPD1NrlLJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0) | [Chamaquita](https://open.spotify.com/album/1WuBqKxkSxFeAgnYaQd8We) | 2:50 | 2022-04-13 | 2022-09-17 |
 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 | 2022-09-08 |  |
 | [Ciencia Ficción](https://open.spotify.com/track/3In29m8LwiMqdbjtOcsmt8) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Ciencia Ficción](https://open.spotify.com/album/6gwnAgOqe7R194PnajM8Hi) | 3:16 | 2021-12-31 | 2022-04-01 |
@@ -37,13 +37,14 @@
 | [Conciencia Universal](https://open.spotify.com/track/7sL5ZqHuvdxvPwLrFcPBIk) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [AUTOERÓTICA](https://open.spotify.com/album/10gpZUC8ob0G5jbU3lKxtA) | 2:24 | 2021-12-31 | 2022-01-28 |
 | [Conversación Pendiente](https://open.spotify.com/track/7uhEQd7dXA437dyZK3zHB6) | [L'Beel](https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4) | [Conversación Pendiente](https://open.spotify.com/album/3lLOkgKy54G0URS4i8Gr6V) | 2:49 | 2021-12-31 | 2022-01-28 |
 | [Cosas Que Dijimos De Hacer](https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [Cosas Que Dijimos De Hacer](https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH) | 2:55 | 2022-07-14 |  |
-| [cuando anochece](https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH) | 3:05 | 2022-03-17 |  |
+| [cuando anochece](https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH) | 3:05 | 2022-03-17 | 2022-12-22 |
 | [Cómo Me Voy A Olvidar](https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Que No Te Cuentan](https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz) | 2:21 | 2022-06-06 |  |
 | [DAME LO MIO](https://open.spotify.com/track/6O1fqHndsqDfVYP4VEEuiY) | [C de Cama](https://open.spotify.com/artist/5sK9Bieh35VgebRY9dm7jg) | [DAME LO MIO](https://open.spotify.com/album/4JzRFMvSKawgIOWEWfnwX7) | 2:23 | 2021-12-31 | 2022-03-01 |
 | [De Cero](https://open.spotify.com/track/5r8IK44DM54gjzDxEuz9M2) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [De Cero](https://open.spotify.com/album/2wWpHMRFRLT2pYTqL8wcoJ) | 3:21 | 2022-02-24 | 2022-09-23 |
 | [de qué sirve?](https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:47 | 2022-09-16 |  |
 | [Debajo de la Mesa](https://open.spotify.com/track/4lMOCvgbxyJiEwWryzxwhi) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Debajo de la Mesa](https://open.spotify.com/album/6Mhk7qoHBYuPF4czJlvFNt) | 2:22 | 2021-12-31 | 2022-02-25 |
 | [demañananosé](https://open.spotify.com/track/0pEJny202NK5HL4fwYYJ5d) | [LAJALADA](https://open.spotify.com/artist/2rHMHtQUtOhaQJaUMQwVDg) | [DMÑNNS](https://open.spotify.com/album/4hGBswxVw4ZyyA0PdPEkK0) | 5:52 | 2021-12-31 | 2022-02-05 |
+| [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 | 2022-12-21 |  |
 | [DESPREVENÍA](https://open.spotify.com/track/117jw2atHZ6kEseFXT627b) | [Dudi](https://open.spotify.com/artist/2T3D6kBjXg7ofm7GXBaDQU), [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [DESPREVENÍA](https://open.spotify.com/album/7f9kgKkBa5RnRtUWLts4EL) | 2:51 | 2022-02-24 | 2022-09-17 |
 | [Dime](https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Dime](https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ) | 2:48 | 2022-02-17 | 2022-07-15 |
 | [Dime Que Me Calle](https://open.spotify.com/track/3ttTIArzkg0a5ZjE3nbz65) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Dime Que Me Calle](https://open.spotify.com/album/2vZAm4JUPbTlQIsRD4Qhp8) | 2:54 | 2021-12-31 | 2022-02-05 |
@@ -93,7 +94,7 @@
 | [me pide arder](https://open.spotify.com/track/5fC0z5cbGnSy1YYOvrwX4q) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh) | [me pide arder](https://open.spotify.com/album/59hmNLcpIFBXEq9fArKAJW) | 3:22 | 2021-12-31 | 2022-02-18 |
 | [Mi Manera de Vivir](https://open.spotify.com/track/1kLfjR7DKezovtAhOTqdbF) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Mi Manera de Vivir](https://open.spotify.com/album/4MOWH9XXjmmQcflfPb7nie) | 2:14 | 2022-03-31 |  |
 | [Mismas Jordan](https://open.spotify.com/track/6BnHksggg8CKWAwmtBknSF) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Mismas Jordan](https://open.spotify.com/album/1E2rrv4RKl3IgZOeplEL49) | 2:45 | 2021-12-31 | 2022-02-18 |
-| [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 | 2022-03-17 |  |
+| [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 | 2022-03-17 | 2022-12-22 |
 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 | 2022-02-03 | 2022-07-15 |
 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 | 2022-06-06 |  |
 | [Nana](https://open.spotify.com/track/7JxuBqdhe3YgPb0tD7YriS) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Nana](https://open.spotify.com/album/0kUkzTNt3mUlXY321DJBlQ) | 2:02 | 2021-12-31 | 2022-04-01 |
@@ -114,6 +115,7 @@
 | [Por Encima Del Dinero](https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Por Encima Del Dinero](https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf) | 2:14 | 2022-03-31 |  |
 | [por qué vuelvo a quererte?](https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [por qué vuelvo a quererte?](https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL) | 2:46 | 2022-10-27 |  |
 | [preso](https://open.spotify.com/track/5YlleV02cughuFTuqgJwCE) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [preso](https://open.spotify.com/album/1SOgm84pUSGHrHHA6yWVcP) | 2:29 | 2021-12-31 | 2022-01-28 |
+| [PROGRESO](https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [PROGRESO](https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe) | 3:22 | 2022-12-21 |  |
 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 | 2022-09-08 |  |
 | [Pétalos de Margarita](https://open.spotify.com/track/3SsYoRhQR9HS4bGelWcmjx) | [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw) | [Pétalos de Margarita](https://open.spotify.com/album/4BfyVRfqU1Eq64QcP3P0tU) | 2:40 | 2021-12-31 | 2022-03-18 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-07-14 | 2022-09-17 |
@@ -156,5 +158,6 @@
 | [Vértices](https://open.spotify.com/track/4b7IBgXC4SVKTXMEqhcuXb) | [keezyporta](https://open.spotify.com/artist/59a1bsEPllg9vAM5ZdZtBS) | [Vértices](https://open.spotify.com/album/2d4Ib8uv3ZbCWwwiQmzI0N) | 3:55 | 2021-12-31 | 2022-02-18 |
 | [VÉRTIGO](https://open.spotify.com/track/7dGRzO5cmnG64s7TtqqsVR) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [SUPERPOP](https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8) | 2:42 | 2022-01-27 | 2022-06-07 |
 | [Ya No Hace Falta](https://open.spotify.com/track/68ig9yZZ1tMU0xtY7QOASt) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Ya No Hace Falta](https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV) | 3:21 | 2022-03-17 | 2022-10-28 |
+| [ZAHARA](https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [TÁNGER Y ZAHARA](https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys) | 2:40 | 2022-12-21 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

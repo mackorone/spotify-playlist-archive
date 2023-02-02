@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 3385,
+  "num_followers": 4085,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGQwOGY1NWYxMWJiZWVhZjRjMDhiYTJkOWEyYzcxM2Vm",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGQ2Nzg4YWZhNWUyZmM5Njg3OTZjYWJmMmY1MmJhNjVm",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -247,22 +247,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Jesus Freak (Remastered)",
-        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
-      },
-      "artists": [
-        {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
-        }
-      ],
-      "duration_ms": 305480,
-      "name": "In The Light - Remastered 2013",
-      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -279,6 +263,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Jesus Freak (Remastered)",
+        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 305480,
+      "name": "In The Light - Remastered 2013",
+      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "As Family We Go",
         "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
       },
@@ -291,6 +291,22 @@
       "duration_ms": 226373,
       "name": "Joy Of The Lord",
       "url": "https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 276773,
+      "name": "Above All",
+      "url": "https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -323,38 +339,6 @@
       "duration_ms": 185573,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Worship",
-        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 276773,
-      "name": "Above All",
-      "url": "https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Don't Censor Me",
-        "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
-      },
-      "artists": [
-        {
-          "name": "Audio Adrenaline",
-          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Big House",
-      "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -399,18 +383,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
+        "name": "Don't Censor Me",
+        "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
       },
       "artists": [
         {
-          "name": "Darrell Evans",
-          "url": "https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO"
+          "name": "Audio Adrenaline",
+          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
         }
       ],
-      "duration_ms": 361173,
-      "name": "Trading My Sorrows (Yes Lord)",
-      "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
+      "duration_ms": 211666,
+      "name": "Big House",
+      "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -431,6 +415,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5YEwF7ET8aobfKYu0AUwgA"
+      },
+      "artists": [
+        {
+          "name": "Darrell Evans",
+          "url": "https://open.spotify.com/artist/049i3NJRKyn0tQPNTwrKYO"
+        }
+      ],
+      "duration_ms": 361173,
+      "name": "Trading My Sorrows (Yes Lord)",
+      "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
       },
@@ -443,42 +443,6 @@
       "duration_ms": 221360,
       "name": "Shine",
       "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Top 25 Praise Songs: 2005",
-        "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
-      },
-      "artists": [
-        {
-          "name": "Maranatha! Praise Band",
-          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "Shine, Jesus Shine",
-      "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "The Worship Initiative, Vol. 2",
-        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 229487,
-      "name": "You Are My All In All",
-      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -519,6 +483,42 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Top 25 Praise Songs: 2005",
+        "url": "https://open.spotify.com/album/3qlXW3egxplVOjgLmzVqqS"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Praise Band",
+          "url": "https://open.spotify.com/artist/6CDJjCW8qVphiyxVukKdOa"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Shine, Jesus Shine",
+      "url": "https://open.spotify.com/track/3dbMLnjppsv9pVW7eq9sAK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "The Worship Initiative, Vol. 2",
+        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 229487,
+      "name": "You Are My All In All",
+      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
         "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
       },
@@ -531,42 +531,6 @@
       "duration_ms": 252725,
       "name": "Open the Eyes of My Heart Lord",
       "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "More Than Good Enough",
-      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Great Big God",
-        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
-      },
-      "artists": [
-        {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        },
-        {
-          "name": "Vineyard Kids",
-          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Great Big God",
-      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -591,6 +555,26 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Great Big God",
+        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Vineyard Kids",
+          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Great Big God",
+      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "The Art of Translation",
         "url": "https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 199440,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/5E0d1I8UAe7sleydsGgp4Q"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -656,8 +656,8 @@
       },
       "artists": [
         {
-          "name": "Youngheart",
-          "url": "https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75"
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
         }
       ],
       "duration_ms": 180600,
@@ -719,26 +719,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
-      },
-      "artists": [
-        {
-          "name": "Amber Sky Records",
-          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
-        },
-        {
-          "name": "Emily Hearn",
-          "url": "https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "My Strength (feat. Emily Hearn)",
-      "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "How Could I Be Silent",
         "url": "https://open.spotify.com/album/5MQxNJ9Fg8AyhHmHf4VUdY"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 182000,
       "name": "Louder",
       "url": "https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5ONjVBfYyUJpmXnz5DoU0k"
+      },
+      "artists": [
+        {
+          "name": "Amber Sky Records",
+          "url": "https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb"
+        },
+        {
+          "name": "Emily Hearn",
+          "url": "https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "My Strength (feat. Emily Hearn)",
+      "url": "https://open.spotify.com/track/02GQZBMcL90iqQA2CDtgHm"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -823,6 +823,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Ultimate Kids Worship",
+        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Nothing Is Impossible",
+      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Ultimate Kids Worship",
-        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
+        "name": "Living in Freedom",
+        "url": "https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG"
       },
       "artists": [
         {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+          "name": "Stephen Witt",
+          "url": "https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg"
         }
       ],
-      "duration_ms": 232489,
-      "name": "Nothing Is Impossible",
-      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
+      "duration_ms": 266253,
+      "name": "Living in Freedom",
+      "url": "https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -891,22 +907,6 @@
       "duration_ms": 228679,
       "name": "Belong",
       "url": "https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Living in Freedom",
-        "url": "https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG"
-      },
-      "artists": [
-        {
-          "name": "Stephen Witt",
-          "url": "https://open.spotify.com/artist/3G14FwuoYRc81zwkSFQqkg"
-        }
-      ],
-      "duration_ms": 266253,
-      "name": "Living in Freedom",
-      "url": "https://open.spotify.com/track/0exZQ7G2AuvDaUnpNMpQDK"
     },
     {
       "added_at": "2021-06-29 13:36:02",

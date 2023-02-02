@@ -4,7 +4,7 @@
 
 > When the sun has set and you need to relax.
 
-376 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/4eHVLgf6H8Os6JnzpI7nEx)
+376 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

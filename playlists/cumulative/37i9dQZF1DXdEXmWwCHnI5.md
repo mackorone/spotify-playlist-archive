@@ -4,7 +4,7 @@
 
 > Job talk, work\-life rants, office espionage, and more\. \[Warning: Explicit Content\]
 
-27 songs - 1 hr 32 min - [published](https://open.spotify.com/playlist/6iDkWBXYKr1yAg6H1PUuiF)
+27 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

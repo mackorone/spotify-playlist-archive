@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-68 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/1X3yVGrCiHqjCnSxESTAcM)
+68 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Cada Vez Que Digo Adiós](https://open.spotify.com/track/2WKWskcwqz0KKFRDkQleda) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 3:52 | 2022-01-01 |  |
 | [Can You Feel the Beat](https://open.spotify.com/track/5WwZeusFlxOKmTW25ImmgM) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [Lisa Lisa And Cult Jam With Full Force](https://open.spotify.com/album/4b3TPA5xUbwsTiUX3Qqxw3) | 6:50 | 2022-01-01 | 2022-07-26 |
 | [Claridad](https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 4:10 | 2022-01-01 |  |
-| [Come Into My Arms](https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX) | [Judy Torres](https://open.spotify.com/artist/4xuVMH8UgmZ557rJfWQ08n) | [Judy Torres \- The Greatest Hits](https://open.spotify.com/album/7aOCg1PtLFTnyPjMBRHyc4) | 4:24 | 2022-01-01 |  |
+| [Come Into My Arms](https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX) | [Judy Torres](https://open.spotify.com/artist/4xuVMH8UgmZ557rJfWQ08n) | [Judy Torres \- The Greatest Hits](https://open.spotify.com/album/7aOCg1PtLFTnyPjMBRHyc4) | 4:24 | 2022-01-01 | 2023-01-18 |
 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 4:29 | 2022-01-01 |  |
 | [Con Todos Menos Conmigo](https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:04 | 2022-01-01 |  |
 | [Conga](https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:15 | 2022-01-01 |  |
@@ -55,7 +55,7 @@
 | [Maquillaje](https://open.spotify.com/track/01Nvn73bt8eTZeV6NdHSo3) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Ana, José, Nacho](https://open.spotify.com/album/4l3E8sfadY7Ye5F6jlp6i6) | 2:33 | 2022-08-31 | 2022-11-13 |
 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 | 2022-01-01 |  |
 | [Mentirosa](https://open.spotify.com/track/3P6fS71hWhZvOnnxQojJ0Z) | [Mellow Man Ace](https://open.spotify.com/artist/37YcGi7z4aXgzWu4jGRe4H) | [Escape From Havana](https://open.spotify.com/album/3jZUAzlDcrJMaL9EXK51aP) | 4:18 | 2022-01-01 |  |
-| [Nada Personal](https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:52 | 2022-01-01 | 2022-11-13 |
+| [Nada Personal](https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:52 | 2022-01-01 | 2023-01-24 |
 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 | 2022-01-01 |  |
 | [No Controles](https://open.spotify.com/track/7EsZoIkcHFXlNEI7Rj2RrS) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [La Más Completa Colección \(CD1\)](https://open.spotify.com/album/5Gr5TkUXcobRVhJPlvOYt5) | 3:21 | 2022-01-01 | 2022-07-29 |
 | [No Controles](https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:28 | 2022-01-01 |  |
@@ -70,7 +70,7 @@
 | [Soy Un Desastre](https://open.spotify.com/track/0AGS302RHJblyvmVHsVpGY) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [e5](https://open.spotify.com/album/1jUH6kLNFJBgGxu4lPybQv) | 2:47 | 2022-01-01 | 2022-11-12 |
 | [Súbete a Mi Moto](https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 3:30 | 2022-01-01 |  |
 | [Toda la Vida](https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Mis Favoritas](https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d) | 4:47 | 2022-01-01 |  |
-| [Toda la Vida](https://open.spotify.com/track/7M8sGCxjrx4tKV1m0g9JDA) | [Franco](https://open.spotify.com/artist/6wPdYdJaogSs1RYe6yx81C) | [Una Historia de Verdad](https://open.spotify.com/album/6wt6YQCPtGJBttgY5CFZCi) | 5:00 | 2022-01-01 | 2022-11-25 |
+| [Toda la Vida](https://open.spotify.com/track/7M8sGCxjrx4tKV1m0g9JDA) | [Franco](https://open.spotify.com/artist/6wPdYdJaogSs1RYe6yx81C) | [Una Historia de Verdad](https://open.spotify.com/album/6wt6YQCPtGJBttgY5CFZCi) | 5:00 | 2022-01-01 |  |
 | [Tu Pirata Soy Yo](https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 2:53 | 2022-01-01 |  |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 | 2022-01-01 |  |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/40NEkTUBoVZFFhCRBuZY3V) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Old School Salsa Classics Vol\. 2](https://open.spotify.com/album/7kWlbJGJbo2tXSLlqlVQwY) | 5:13 | 2022-01-01 | 2022-07-29 |

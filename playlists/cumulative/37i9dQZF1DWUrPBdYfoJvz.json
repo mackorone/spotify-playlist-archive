@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "All the greatest Ambient tracks in one place. Cover: Brian Eno",
   "name": "Ambient Essentials",
-  "published_playlist_ids": [
-    "4tCCo6NoGYqZ9eXOzwjcnm"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,10 +124,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 363883,
       "name": "?",
       "url": "https://open.spotify.com/track/15RDpqONY9BUkRzpRtFZf5"
+    },
+    {
+      "album": {
+        "name": "Under The Sun",
+        "url": "https://open.spotify.com/album/5VtrkG2Vs7GE1ufQpqqUug"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363883,
+      "name": "?",
+      "url": "https://open.spotify.com/track/79uKn56T98vvCyID5wXQqA"
     },
     {
       "album": {
@@ -941,10 +956,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 1793760,
       "name": "Essence",
       "url": "https://open.spotify.com/track/4hBHEKTKdpGtP1AzsjNR8l"
+    },
+    {
+      "album": {
+        "name": "Essence/Universe",
+        "url": "https://open.spotify.com/album/11k11dduZzABi44AFiKD7b"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1793760,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/7LIMgDNSZ14IJ63NmbtuOH"
     },
     {
       "album": {
@@ -1299,10 +1332,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 657000,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/2dUStnVW2074l0kDgyaOXi"
+    },
+    {
+      "album": {
+        "name": "Bring On The Sun",
+        "url": "https://open.spotify.com/album/4KtvgXRK3ZbeX0ZADuc2cE"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 657000,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/3gBpYsMtPOZnBBej7lkBhW"
     },
     {
       "album": {
@@ -1317,10 +1368,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 155411,
       "name": "Introspection (Edit)",
       "url": "https://open.spotify.com/track/5JVtVJFun3pgNdDlUQlkOm"
+    },
+    {
+      "album": {
+        "name": "Introspection (Edit)",
+        "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
+      },
+      "artists": [
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155411,
+      "name": "Introspection - Edit",
+      "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
     },
     {
       "album": {
@@ -1469,6 +1538,42 @@
       "duration_ms": 274306,
       "name": "Lizard Point - Remastered 2004",
       "url": "https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c"
+    },
+    {
+      "album": {
+        "name": "Crossloads",
+        "url": "https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9"
+      },
+      "artists": [
+        {
+          "name": "Weatherson",
+          "url": "https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Look At My Snowman",
+      "url": "https://open.spotify.com/track/4vHHYqYkDDuf8SZnraMjXV"
+    },
+    {
+      "album": {
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "LUX 1.1",
+      "url": "https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK"
     },
     {
       "album": {
@@ -1671,10 +1776,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 91706,
       "name": "Olson",
       "url": "https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ"
+    },
+    {
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91706,
+      "name": "Olson",
+      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
     },
     {
       "album": {
@@ -1996,6 +2119,50 @@
     },
     {
       "album": {
+        "name": "Seis (Daigo Hanada Rework)",
+        "url": "https://open.spotify.com/album/2XZm1qudmuRBlupOM82pvo"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        },
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Seis - Daigo Hanada Rework",
+      "url": "https://open.spotify.com/track/6mqZsDccxymJpBFX5OAuR8"
+    },
+    {
+      "album": {
+        "name": "At Day's End/Small Hours",
+        "url": "https://open.spotify.com/album/1lfOwDCvWL6rorNWNbtfoY"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207173,
+      "name": "Small Hours",
+      "url": "https://open.spotify.com/track/79T8Mwqagb44Amwk7xgNW4"
+    },
+    {
+      "album": {
         "name": "Space 1.8",
         "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
       },
@@ -2007,10 +2174,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
+    },
+    {
+      "album": {
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Space 1",
+      "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
     },
     {
       "album": {

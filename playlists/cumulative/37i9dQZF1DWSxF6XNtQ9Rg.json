@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo hit rap da riascoltare in loop. Cover: Marracash",
+  "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
   "name": "Hit Rap Italiane",
-  "published_playlist_ids": [
-    "6hONOx8JhMvxTKwVXd1ds8"
-  ],
   "tracks": [
     {
       "album": {
@@ -173,7 +170,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 211626,
       "name": "Apnea",
       "url": "https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of"
@@ -289,7 +286,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 237250,
       "name": "Bene",
       "url": "https://open.spotify.com/track/3Jfi1WRHzREEGBDsaCrIXD"
@@ -659,7 +656,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 185573,
       "name": "CABRIOLET (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7wC76LWyNxaP3hjGzbWOcN"
@@ -783,10 +780,32 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 197247,
       "name": "CASA",
       "url": "https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ"
+    },
+    {
+      "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "CASA",
+      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
     },
     {
       "album": {
@@ -849,7 +868,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 184304,
       "name": "Centro (feat. Coez)",
       "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
@@ -1067,7 +1086,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 209571,
       "name": "Dende",
       "url": "https://open.spotify.com/track/0GaWvzS26hjyY3HGwjJ9YW"
@@ -1111,7 +1130,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 159989,
       "name": "Drippin' in Milano",
       "url": "https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4"
@@ -1165,7 +1184,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 182232,
       "name": "Eravamo Re",
       "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
@@ -1235,7 +1254,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-18",
       "duration_ms": 188145,
       "name": "Fiori Del Male (feat.Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6L9c3eo0Mcfmom3QqsGN0j"
@@ -1257,7 +1276,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 153693,
       "name": "FREE SOLO (feat. Marracash)",
       "url": "https://open.spotify.com/track/0CuOlrm9gmvMUlRxBLHp0o"
@@ -1712,6 +1731,50 @@
     },
     {
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Ben\u00e9",
+          "url": "https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212284,
+      "name": "Lei (feat. Ben\u00e9)",
+      "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
+    },
+    {
+      "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "LEI (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
+    },
+    {
+      "album": {
         "name": "Orange County California",
         "url": "https://open.spotify.com/album/7GWVPJPcu8o1LCw94e5Rew"
       },
@@ -1972,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217103,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+    },
+    {
+      "album": {
         "name": "Io In Terra",
         "url": "https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc"
       },
@@ -2118,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Niente da perdere",
+        "url": "https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166214,
+      "name": "Niente da perdere",
+      "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
+    },
+    {
+      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
       },
@@ -2231,7 +2330,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 232412,
       "name": "Nulla Accade",
       "url": "https://open.spotify.com/track/6uqeN1m6DXG0yOQ4WMNndB"
@@ -2497,6 +2596,24 @@
       "duration_ms": 176245,
       "name": "Pensando a lei",
       "url": "https://open.spotify.com/track/48xCJ298GWpAtejk8uzBOr"
+    },
+    {
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134413,
+      "name": "PERDONAMI",
+      "url": "https://open.spotify.com/track/4Yr7z1MFiI2D3QnldF107i"
     },
     {
       "album": {
@@ -3009,8 +3126,8 @@
       },
       "artists": [
         {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+          "name": "Rondo da sosa",
+          "url": "https://open.spotify.com/artist/0xhZ37mFAqsczYh3vpoRzd"
         },
         {
           "name": "Capo Plaza",
@@ -3103,7 +3220,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 159840,
       "name": "Soldi Puliti",
       "url": "https://open.spotify.com/track/02OFJLIZuX5l0IKApndnkh"
@@ -3365,7 +3482,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 223045,
       "name": "SUPREME - L'ego (feat. thasup & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/5EpBEqf5bnKeJ3p4zA1Sod"
@@ -3574,6 +3691,32 @@
     },
     {
       "album": {
+        "name": "T\u00caTE (feat. Medy & VillaBanks)",
+        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
+      },
+      "artists": [
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180904,
+      "name": "T\u00caTE (feat. Medy & VillaBanks)",
+      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+    },
+    {
+      "album": {
         "name": "Ragazzi madre",
         "url": "https://open.spotify.com/album/25Tn09Gbzx9ZPSBZ7cDdvx"
       },
@@ -3673,7 +3816,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 173960,
       "name": "Veleno 7",
       "url": "https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh"

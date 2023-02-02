@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
   "name": "Mujeres del Tango",
-  "published_playlist_ids": [
-    "6KIn1gRUVLIycdI4YQ0CKQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -411,7 +408,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 204889,
       "name": "Coraz\u00f3n Maldito",
       "url": "https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio"
@@ -655,7 +652,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 132540,
       "name": "India de Tango",
       "url": "https://open.spotify.com/track/6Gw79GdafladbPqbXPW2A9"
@@ -673,7 +670,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 224720,
       "name": "Juguete Rabioso",
       "url": "https://open.spotify.com/track/5z5c1TQrW8Cwm4m2VnGztj"
@@ -959,7 +956,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-06",
       "duration_ms": 213476,
       "name": "Mano a Mano",
       "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
@@ -1247,7 +1244,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2022-12-08",
       "duration_ms": 218033,
       "name": "Nunca Tuvo Novio",
       "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
@@ -1269,6 +1266,24 @@
       "duration_ms": 249481,
       "name": "O Mundo",
       "url": "https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb"
+    },
+    {
+      "album": {
+        "name": "Tiempo Mariposa",
+        "url": "https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P"
+      },
+      "artists": [
+        {
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249481,
+      "name": "O Mundo",
+      "url": "https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX"
     },
     {
       "album": {

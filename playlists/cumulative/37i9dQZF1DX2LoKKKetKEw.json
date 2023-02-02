@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
+  "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Marizu",
   "name": "AfroGospel",
-  "published_playlist_ids": [
-    "3Byz18nq85Iwxm1gDdCput"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188455,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75"
+    },
     {
       "album": {
         "name": "Akorede",
@@ -31,6 +46,24 @@
       "duration_ms": 240039,
       "name": "Akorede",
       "url": "https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp"
+    },
+    {
+      "album": {
+        "name": "ATTNTN",
+        "url": "https://open.spotify.com/album/6OE9lvvKzTkXjWQafV4rjU"
+      },
+      "artists": [
+        {
+          "name": "Izee Smith",
+          "url": "https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196048,
+      "name": "ATTNTN",
+      "url": "https://open.spotify.com/track/18EBejyRsQZGCdUGcXKqYj"
     },
     {
       "album": {
@@ -71,7 +104,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": "2023-01-25",
       "duration_ms": 187500,
       "name": "Belongs to You - EDM Remix",
       "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
@@ -93,7 +126,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 161333,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
@@ -119,6 +152,32 @@
       "duration_ms": 184111,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW"
+    },
+    {
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162569,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO"
     },
     {
       "album": {
@@ -177,7 +236,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 132310,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM"
@@ -221,6 +280,24 @@
       "duration_ms": 204521,
       "name": "Desire",
       "url": "https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2"
+    },
+    {
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 321428,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG"
     },
     {
       "album": {
@@ -276,6 +353,72 @@
     },
     {
       "album": {
+        "name": "Favor",
+        "url": "https://open.spotify.com/album/6X2gMqX3ExUhv24Z9v8X7D"
+      },
+      "artists": [
+        {
+          "name": "Soltune",
+          "url": "https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 194220,
+      "name": "Favor",
+      "url": "https://open.spotify.com/track/62SfxrGZChnlj7JMgUj7X8"
+    },
+    {
+      "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/6sYCJnsF6Io91R5GOVlvFs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Greg Cox",
+          "url": "https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206181,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/1hjfRY5lZd5XYAVRgCg1g8"
+    },
+    {
+      "album": {
+        "name": "Give Him Praise",
+        "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Give Him Praise",
+      "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
+    },
+    {
+      "album": {
         "name": "GOD'S LOVE",
         "url": "https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP"
       },
@@ -295,6 +438,28 @@
       "duration_ms": 137064,
       "name": "GOD'S LOVE",
       "url": "https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174146,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
     },
     {
       "album": {
@@ -392,6 +557,28 @@
     },
     {
       "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "GAV",
+          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155326,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD"
+    },
+    {
+      "album": {
         "name": "I Will Sing (Refreshed)",
         "url": "https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD"
       },
@@ -476,6 +663,64 @@
     },
     {
       "album": {
+        "name": "Jah!",
+        "url": "https://open.spotify.com/album/6IN6VQD4zWgfcpJhQetAOu"
+      },
+      "artists": [
+        {
+          "name": "Gil Joe",
+          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Jah!",
+      "url": "https://open.spotify.com/track/4tgsrzbZKMqSfwpbm3Auz3"
+    },
+    {
+      "album": {
+        "name": "Purple Purpose",
+        "url": "https://open.spotify.com/album/5KruixumnQm6iqZ7sPorV2"
+      },
+      "artists": [
+        {
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213781,
+      "name": "Jehovah Jireh",
+      "url": "https://open.spotify.com/track/0Slwb2sCRpsFBaMwIf2Qrq"
+    },
+    {
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/5dQ34jIzy2scaQXayGZNuL"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138710,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1u8KsB5A1YXpfoyqgsO6Ek"
+    },
+    {
+      "album": {
         "name": "Jireh",
         "url": "https://open.spotify.com/album/5Ksm72DfwaFQD9iTEY1vk8"
       },
@@ -543,7 +788,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2023-01-04",
       "duration_ms": 150857,
       "name": "Jo",
       "url": "https://open.spotify.com/track/0uJbjemXz5f4n9dxu3Nn8H"
@@ -569,6 +814,24 @@
       "duration_ms": 171333,
       "name": "Keep You",
       "url": "https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1mlJct71ayzMOAS7oTiaqW"
+      },
+      "artists": [
+        {
+          "name": "Martin Toe",
+          "url": "https://open.spotify.com/artist/3qQlOGleEEh9SPVX0Jx5JK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3taZaAT7ZjTKqmZv4ahX5B"
     },
     {
       "album": {
@@ -652,6 +915,64 @@
     },
     {
       "album": {
+        "name": "Marvelous God",
+        "url": "https://open.spotify.com/album/6w5uP78BBEzyvG4ymgm6Ut"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233404,
+      "name": "Marvelous God",
+      "url": "https://open.spotify.com/track/6VJ3yM31EykkdgBl6eAq1g"
+    },
+    {
+      "album": {
+        "name": "Mercy (Sho Mo)",
+        "url": "https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165642,
+      "name": "Mercy (Sho Mo)",
+      "url": "https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY"
+    },
+    {
+      "album": {
+        "name": "My Back",
+        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203860,
+      "name": "My Back",
+      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
+    },
+    {
+      "album": {
         "name": "My Worship (Amapiano)",
         "url": "https://open.spotify.com/album/5aCjlzI5itsPLwN1qCCpiG"
       },
@@ -697,6 +1018,24 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
+    },
+    {
+      "album": {
+        "name": "Never Leave Me (Amapiano Remix)",
+        "url": "https://open.spotify.com/album/77S0G5BQrMjwa9tUi7KosI"
+      },
+      "artists": [
+        {
+          "name": "Sarah T\u00e9ibo",
+          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211184,
+      "name": "Never Leave Me - Amapiano Remix",
+      "url": "https://open.spotify.com/track/0eh2R4p0kOY1UEvBSZYPsE"
     },
     {
       "album": {
@@ -810,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "Nobody Like You",
+        "url": "https://open.spotify.com/album/1dU5VJTafuXBaXWFZKZ69C"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185959,
+      "name": "Nobody Like You (feat. CalledOut Music) - Radio Edit",
+      "url": "https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ"
+    },
+    {
+      "album": {
         "name": "Nobody Like You EP",
         "url": "https://open.spotify.com/album/2PFlmqHVo3ywJl9GqxOxaL"
       },
@@ -825,7 +1186,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 185959,
       "name": "Nobody Like You - Radio Edit",
       "url": "https://open.spotify.com/track/7pbKyiwB7gL0VRzLPWqXmA"
@@ -916,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/2PmXOqX60yjlQ52f1ZUuQw"
+      },
+      "artists": [
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159085,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/16uaRgsUFQhtUBXf1OTwcf"
+    },
+    {
+      "album": {
         "name": "Pepper Dem",
         "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
       },
@@ -957,6 +1340,32 @@
       "duration_ms": 197522,
       "name": "Power",
       "url": "https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt"
+    },
+    {
+      "album": {
+        "name": "Sonus, Vol. 1",
+        "url": "https://open.spotify.com/album/5TWtXmo19lmFSvZKo57qo3"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Foolie Vision",
+          "url": "https://open.spotify.com/artist/2nDlD7zB6lFms9wIabvCfd"
+        },
+        {
+          "name": "Render Music",
+          "url": "https://open.spotify.com/artist/3gDRMHBnLhEmUiID3acmy2"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150606,
+      "name": "Pray 4 Me",
+      "url": "https://open.spotify.com/track/7xOQE6kpgBewPA0E2gwaO3"
     },
     {
       "album": {
@@ -1162,6 +1571,50 @@
     },
     {
       "album": {
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
+      },
+      "artists": [
+        {
+          "name": "Phontera",
+          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132662,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
+    },
+    {
+      "album": {
+        "name": "Show Dem",
+        "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
+      },
+      "artists": [
+        {
+          "name": "Paul Chisom",
+          "url": "https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV"
+        },
+        {
+          "name": "Banky W.",
+          "url": "https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206897,
+      "name": "Show Dem",
+      "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
+    },
+    {
+      "album": {
         "name": "Siyahamba",
         "url": "https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6"
       },
@@ -1214,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/4O8ywGSfxrLmIctXsdBaA4"
+      },
+      "artists": [
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Standing",
+      "url": "https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG"
+    },
+    {
+      "album": {
         "name": "Still Blessed",
         "url": "https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt"
       },
@@ -1233,6 +1704,24 @@
       "duration_ms": 175200,
       "name": "Still Blessed",
       "url": "https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/6vSih1BvJIucern09KQfs1"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/2tNFcj500dviGARgafUT6d"
     },
     {
       "album": {
@@ -1425,6 +1914,124 @@
       "duration_ms": 162000,
       "name": "Yellow Soul",
       "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "album": {
+        "name": "WE GOT LOVE",
+        "url": "https://open.spotify.com/album/6LAveITCLWKB6ewa9yGe1x"
+      },
+      "artists": [
+        {
+          "name": "WE GOT LOVE PROJECT",
+          "url": "https://open.spotify.com/artist/1Y1t2u6opQXonxsxLQ7XMR"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164022,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1xaeMB6qDw01j79mhMgYPy"
+    },
+    {
+      "album": {
+        "name": "You Are Good",
+        "url": "https://open.spotify.com/album/5acZLqaRoq33m06wPIFDDf"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/7GUIH3PAQ12qAIBl9jGBGn"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        },
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 176788,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/57rYhictfJHUWzCvjgHv7r"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152730,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/2dfwFomnY0iNLgVYnVX9fE"
+    },
+    {
+      "album": {
+        "name": "YOUR MIND",
+        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "YOUR MIND",
+      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2LoKKKetKEw"

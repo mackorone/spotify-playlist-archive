@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
   "name": "No\u00ebl, No\u00ebl, No\u00ebl",
-  "published_playlist_ids": [
-    "0SxZxNJ9FKXL8tKafplut8"
-  ],
   "tracks": [
     {
       "album": {
@@ -607,7 +604,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 212240,
       "name": "Brahms' Lullaby",
       "url": "https://open.spotify.com/track/45WmAAkZYLAwXtwwHVoaWv"
@@ -997,6 +994,24 @@
       "duration_ms": 207720,
       "name": "Christmas Kisses",
       "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
+    },
+    {
+      "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/1aMr2tXEiiY6VfR0JhLoxP"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207720,
+      "name": "Christmas Kisses",
+      "url": "https://open.spotify.com/track/5LG0ZOxFnRrkib5uVzbBEi"
     },
     {
       "album": {
@@ -1413,7 +1428,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 152426,
       "name": "For me\u2026 formidable",
       "url": "https://open.spotify.com/track/045m0tDBDBlCbUlGeMgaBc"
@@ -1447,6 +1462,36 @@
       "duration_ms": 152426,
       "name": "For Me\u2026 formidable",
       "url": "https://open.spotify.com/track/7j0LYhzwJ5E5g2vBs9hWUh"
+    },
+    {
+      "album": {
+        "name": "La Voix 2019",
+        "url": "https://open.spotify.com/album/0R9SDt52a9zP9PQ1f1uN6z"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        },
+        {
+          "name": "Marc Dupr\u00e9",
+          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
+        },
+        {
+          "name": "\u00c9ric Lapointe",
+          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
+        },
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152426,
+      "name": "For Me\u2026 formidable - Bonus Track",
+      "url": "https://open.spotify.com/track/4QH4nwn9TpYV7Dua81Am9E"
     },
     {
       "album": {
@@ -1897,7 +1942,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-13",
       "duration_ms": 196295,
       "name": "Je t'offre mon c\u0153ur",
       "url": "https://open.spotify.com/track/5e9Rr0cC3a6zs04w7a4RFs"
@@ -2081,10 +2126,28 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 174866,
       "name": "L'enfant au tambour",
       "url": "https://open.spotify.com/track/1xN0wrHJula3KfpgAs7eVc"
+    },
+    {
+      "album": {
+        "name": "Sainte Nuit",
+        "url": "https://open.spotify.com/album/3DCGt7eg6TFrAa5tVf9zja"
+      },
+      "artists": [
+        {
+          "name": "Johanne Blouin",
+          "url": "https://open.spotify.com/artist/1f8PCpHKhzkLb2y7wnijjd"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "L'enfant au tambour",
+      "url": "https://open.spotify.com/track/4jtna43xiyQKSghOBwh0l8"
     },
     {
       "album": {
@@ -2375,6 +2438,24 @@
     {
       "album": {
         "name": "No\u00ebl en famille avec Fernand Gignac",
+        "url": "https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ"
+      },
+      "artists": [
+        {
+          "name": "Fernand Gignac",
+          "url": "https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125133,
+      "name": "Le bonhomme de neige",
+      "url": "https://open.spotify.com/track/45IFGd75CJNQmkA5KZqhvf"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl en famille avec Fernand Gignac",
         "url": "https://open.spotify.com/album/4UgtynxBA05Q9pJQkvdp3o"
       },
       "artists": [
@@ -2549,7 +2630,7 @@
       },
       "artists": [
         {
-          "name": "Ren\u00e9e martel",
+          "name": "Ren\u00e9e Martel",
           "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
         }
       ],
@@ -2663,7 +2744,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 162160,
       "name": "Le sentier de neige",
       "url": "https://open.spotify.com/track/2CJJUz69TEqLrAyK2h02wp"
@@ -3014,6 +3095,28 @@
     },
     {
       "album": {
+        "name": "= (Christmas Edition)",
+        "url": "https://open.spotify.com/album/5W2wJUsVxy9l9jONK5LvGB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/1c8okwl6G1OUhgU2BJekIx"
+    },
+    {
+      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/0HadKSH32oHv4BJjNZ30FG"
       },
@@ -3109,7 +3212,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171960,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/2blIgt4vJfPXuWp4axbSd1"
@@ -3235,7 +3338,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 199066,
       "name": "Mon premier sapin blanc",
       "url": "https://open.spotify.com/track/7zY3kCgNwh9Kf5BhtzZMWE"
@@ -3257,6 +3360,24 @@
       "duration_ms": 199080,
       "name": "Mon premier sapin blanc",
       "url": "https://open.spotify.com/track/7MDmccuIs9nHn6CDG6ujXt"
+    },
+    {
+      "album": {
+        "name": "L'album de No\u00ebl (\u00c9dition anniversaire)",
+        "url": "https://open.spotify.com/album/3QIAgDDcFJM1Yleb149KnA"
+      },
+      "artists": [
+        {
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199080,
+      "name": "Mon premier sapin blanc",
+      "url": "https://open.spotify.com/track/7lLFdYWyb3s9OHmnMhH03s"
     },
     {
       "album": {
@@ -3821,6 +3942,36 @@
     {
       "album": {
         "name": "No\u00ebl des enfants / Happy Xmas (War Is Over)",
+        "url": "https://open.spotify.com/album/76J7Opnr6Ma0NQjdHscwZ6"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        },
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        },
+        {
+          "name": "Marc Dupr\u00e9",
+          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240938,
+      "name": "No\u00ebl des enfants / Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/6m47mc93sFSQJ7ld7ggwUt"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl des enfants / Happy Xmas (War Is Over)",
         "url": "https://open.spotify.com/album/2aIzVmUqsvT1oS3Y9lpxw7"
       },
       "artists": [
@@ -3873,7 +4024,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 240946,
       "name": "No\u00ebl des enfants / Happy Xmas (War Is Over)",
       "url": "https://open.spotify.com/track/13RMuZfKnEypuaQCWhHSZx"
@@ -4023,6 +4174,24 @@
       "duration_ms": 213130,
       "name": "No\u00ebl monochrome",
       "url": "https://open.spotify.com/track/2mG9XCqZbWFdNSYheJrnaJ"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl ne veut rien dire sans toi",
+        "url": "https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx"
+      },
+      "artists": [
+        {
+          "name": "Guylaine Tanguay",
+          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203692,
+      "name": "No\u00ebl ne veut rien dire sans toi",
+      "url": "https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI"
     },
     {
       "album": {
@@ -4259,7 +4428,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-15",
       "duration_ms": 233066,
       "name": "No\u00ebl \u00e0 J\u00e9rusalem",
       "url": "https://open.spotify.com/track/1Plw3Q3u83XBDH6Z2uSt79"
@@ -4627,7 +4796,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 244466,
       "name": "Petit Papa No\u00ebl",
       "url": "https://open.spotify.com/track/0w2OW2wHawQ08AYBaHlxgL"
@@ -5135,7 +5304,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 117226,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/1hpfpXbvIpMYAdL7vyGSsa"
@@ -5283,7 +5452,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 264960,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/2BNV1D5X4ioefyOE0uDFOL"
@@ -5609,7 +5778,7 @@
       },
       "artists": [
         {
-          "name": "Ren\u00e9e martel",
+          "name": "Ren\u00e9e Martel",
           "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
         }
       ],
@@ -5619,6 +5788,24 @@
       "duration_ms": 140266,
       "name": "Voici le p\u00e8re No\u00ebl",
       "url": "https://open.spotify.com/track/7xndwWf5CYFfC3cN4KMhlV"
+    },
+    {
+      "album": {
+        "name": "Voil\u00e0 le P\u00e8re No\u00ebl Boogie",
+        "url": "https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S"
+      },
+      "artists": [
+        {
+          "name": "Gregory Charles",
+          "url": "https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Voil\u00e0 le P\u00e8re No\u00ebl Boogie",
+      "url": "https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5"
     },
     {
       "album": {

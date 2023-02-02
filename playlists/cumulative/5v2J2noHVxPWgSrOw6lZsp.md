@@ -4,7 +4,7 @@
 
 > Salt in the air..\. Sand in my hair..\. Rooftop sunsets..\. Celebrate a perfect summer day with hours of coastal acoustic, live versions, and chill hits\. \| Image: <a href="spotify:artist:24Bq9F6DJfzTaqgmoxT5vm">Corey Harper</a>
 
-157 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/4gO5fWfp62QonXbobVyoxh)
+157 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Beautiful and evocative lieder, performed by legendary vocalists.
 
-41 songs - 2 hr 0 min - [published](https://open.spotify.com/playlist/4R45ZpHx9f940s2RZn0bMg)
+41 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

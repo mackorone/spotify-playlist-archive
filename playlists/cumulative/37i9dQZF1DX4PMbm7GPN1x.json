@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Relive the 80s disco era with these hits. Cover- Bappi Lahiri",
   "name": "Disco Deewane",
-  "published_playlist_ids": [
-    "6SfeW0XptP9Kbsct3VXOcx"
-  ],
   "tracks": [
     {
       "album": {
@@ -532,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Zamaane Ko Dikhana Hai",
+        "url": "https://open.spotify.com/album/0ewP49TaCcfkO6mupldqPP"
+      },
+      "artists": [
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480826,
+      "name": "Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah (Zamaane Ko Dikhana Hai) - From \"Zamaane Ko Dikhana Hai\"",
+      "url": "https://open.spotify.com/track/34kyAlWl29abvjFCLgdq4M"
+    },
+    {
+      "album": {
         "name": "Zamaane Ko Dikhana Hai (OST)",
         "url": "https://open.spotify.com/album/3YZnhGgYdoLoELL5sEchOD"
       },
@@ -547,24 +562,6 @@
       "duration_ms": 479000,
       "name": "Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah (Zamaane Ko Dikhana Hai) - Zamaane Ko Dikhana Hai / Soundtrack Version",
       "url": "https://open.spotify.com/track/0eUIFoZp2GtOLkd2MRZaBH"
-    },
-    {
-      "album": {
-        "name": "Zamaane Ko Dikhana Hai",
-        "url": "https://open.spotify.com/album/0ewP49TaCcfkO6mupldqPP"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "date_added": "2022-06-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 480826,
-      "name": "Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah (Zamaane Ko Dikhana Hai) - Zamaane Ko Dikhana Hai / Soundtrack Version",
-      "url": "https://open.spotify.com/track/34kyAlWl29abvjFCLgdq4M"
     },
     {
       "album": {

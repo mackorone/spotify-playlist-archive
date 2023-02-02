@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Lay back. Chill out.",
+  "description": "lay back. chill out. ",
   "name": "floating",
-  "published_playlist_ids": [
-    "2P37iN5jM6fBGSmKRtbrBn"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Spark Of Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
+      },
+      "artists": [
+        {
+          "name": "Lenny Williams",
+          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429120,
+      "name": "'Cause I Love You",
+      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
+    },
     {
       "album": {
         "name": "ALICIA",
@@ -67,6 +82,24 @@
       "duration_ms": 277666,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv"
+    },
+    {
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "album": {
@@ -265,7 +298,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 207303,
       "name": "Can't Wait",
       "url": "https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38"
@@ -359,7 +392,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 216360,
       "name": "Communication",
       "url": "https://open.spotify.com/track/4qZvLsmG7skj2mk7YRH5WG"
@@ -561,7 +594,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 249573,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
@@ -691,7 +724,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 406733,
       "name": "Getting Late",
       "url": "https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c"
@@ -709,7 +742,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 270000,
       "name": "GIFTED",
       "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
@@ -995,7 +1028,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 211597,
       "name": "Lay",
       "url": "https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb"
@@ -1107,7 +1140,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 151133,
       "name": "Lullaby (feat. Syd)",
       "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
@@ -1195,6 +1228,64 @@
       "duration_ms": 249106,
       "name": "Movies",
       "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
+    },
+    {
+      "album": {
+        "name": "Lyfe 268-192",
+        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
+      },
+      "artists": [
+        {
+          "name": "Lyfe Jennings",
+          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233440,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
+    },
+    {
+      "album": {
+        "name": "My Thoughts",
+        "url": "https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf"
+      },
+      "artists": [
+        {
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
+        },
+        {
+          "name": "KeKe Wyatt",
+          "url": "https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268515,
+      "name": "My First Love",
+      "url": "https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q"
+    },
+    {
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386626,
+      "name": "Next Lifetime",
+      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
     },
     {
       "album": {
@@ -1413,7 +1504,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
@@ -1550,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "1st Born Second",
+        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318666,
+      "name": "Soul Sista",
+      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
+    },
+    {
+      "album": {
         "name": "Int\u00e9rimes",
         "url": "https://open.spotify.com/album/4Mbg7s2CRkw2AZa6V0gYXt"
       },
@@ -1561,7 +1670,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 209281,
       "name": "Stay Up",
       "url": "https://open.spotify.com/track/2gPkEjYP9glmmjYOTw6dzN"
@@ -1774,6 +1883,28 @@
     },
     {
       "album": {
+        "name": "Rufus Featuring Chaka Khan",
+        "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200146,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
+    },
+    {
+      "album": {
         "name": "Groove Theory",
         "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
       },
@@ -1875,7 +2006,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 240306,
       "name": "This Woman's Work - Remastered 2021",
       "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
@@ -1897,6 +2028,24 @@
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
+    },
+    {
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291906,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng"
     },
     {
       "album": {

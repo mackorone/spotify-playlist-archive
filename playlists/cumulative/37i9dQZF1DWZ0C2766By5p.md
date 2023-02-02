@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 90s Metal\. Cover: TOOL
 
-196 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/61SktaeLTM10qVl3iaIwo8)
+196 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

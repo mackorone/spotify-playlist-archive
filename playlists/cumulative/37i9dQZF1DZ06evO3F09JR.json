@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Alessandro Cortini. The essential tracks, all in one playlist.",
   "name": "This Is Alessandro Cortini",
-  "published_playlist_ids": [
-    "7HqF9ziewtXXk9SfOV5veg"
-  ],
   "tracks": [
     {
       "album": {
@@ -213,7 +210,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": "2022-12-19",
       "duration_ms": 189333,
       "name": "Black Hawks Down",
       "url": "https://open.spotify.com/track/5SighFSFYzN69U4L7JhDLT"
@@ -271,7 +268,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-26",
       "duration_ms": 476689,
       "name": "CHIAROSCURO",
       "url": "https://open.spotify.com/track/3u640e6SGAEN0jkSIrPUcT"
@@ -318,6 +315,32 @@
     },
     {
       "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 173320,
+      "name": "Darkened Skies",
+      "url": "https://open.spotify.com/track/1MUsuNmzi1f8KvtvkB5AI6"
+    },
+    {
+      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -333,7 +356,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 328666,
       "name": "Enter Exit",
       "url": "https://open.spotify.com/track/7wuuqyvG8y72HPxoFIa2oc"
@@ -359,7 +382,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": "2022-12-31",
       "duration_ms": 113066,
       "name": "Finding Erewhon",
       "url": "https://open.spotify.com/track/3dtVq79rjgIg5YF2VxJfSE"
@@ -533,10 +556,36 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time (Teodor Wolgers Rework)",
+        "url": "https://open.spotify.com/album/0yF4JzJ0a96qaWLLhE9zcp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215946,
+      "name": "Illusion Of Time - Teodor Wolgers Rework",
+      "url": "https://open.spotify.com/track/6uZ7HlryD5c0IU65ANbaj2"
     },
     {
       "album": {
@@ -683,7 +732,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-01-18",
       "duration_ms": 369546,
       "name": "Inside The Ruins",
       "url": "https://open.spotify.com/track/35ZNF2MIZ0QsYK1tGcONKJ"
@@ -921,7 +970,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 136080,
       "name": "Operation Citadel",
       "url": "https://open.spotify.com/track/1dqLUaHIVw3VTCSu5mDw6W"
@@ -1152,6 +1201,32 @@
     },
     {
       "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 118546,
+      "name": "Standing Vigilant",
+      "url": "https://open.spotify.com/track/0JbyJNFiUr6HHhJHYzYoga"
+    },
+    {
+      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -1271,7 +1346,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 55000,
       "name": "To Live Another Day",
       "url": "https://open.spotify.com/track/0uDw3vdZfUWIejxagpJEnC"
@@ -1399,10 +1474,36 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": "2022-12-21",
       "duration_ms": 73960,
       "name": "Winds in the Misty Ridge",
       "url": "https://open.spotify.com/track/3RmhZyWCQHnHBM2itlcMF4"
+    },
+    {
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 195573,
+      "name": "Wonders of Auroa",
+      "url": "https://open.spotify.com/track/2FHmXp9zuzIjypetX5M124"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F09JR"

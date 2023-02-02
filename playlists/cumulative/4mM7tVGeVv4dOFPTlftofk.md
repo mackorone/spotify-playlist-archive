@@ -4,7 +4,7 @@
 
 > Getaway Rock Festival är efter två år etablerad som en av Sveriges bästa och viktigaste rockfestivaler\. Sommarens upplaga arrangeras 5 \- 7 juli i Gävle\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-71 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/5b8xktnPcYlD3T8klRtzd5)
+71 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

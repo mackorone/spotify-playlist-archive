@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-15",
   "description": "A celebration of Norway's dance scene!",
   "name": "Space Disco",
-  "published_playlist_ids": [
-    "0oYpih27l6uvR8J5p8UEIk"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-04",
       "duration_ms": 477630,
       "name": "Apex - Live",
       "url": "https://open.spotify.com/track/5stm0hFXNYDoXKbcKamH95"
@@ -275,7 +272,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-02",
       "duration_ms": 426575,
       "name": "Bommelom",
       "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
@@ -319,6 +316,32 @@
       "duration_ms": 294334,
       "name": "Borrowed Emotions",
       "url": "https://open.spotify.com/track/1HMG1SRBtyiZ9KN2fTG170"
+    },
+    {
+      "album": {
+        "name": "Breathe (Qrion Remix)",
+        "url": "https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271686,
+      "name": "Breathe - Qrion Remix",
+      "url": "https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve"
     },
     {
       "album": {
@@ -829,7 +852,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-20",
       "duration_ms": 387760,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm"
@@ -945,7 +968,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 252981,
       "name": "Just Wanted To Know",
       "url": "https://open.spotify.com/track/7kYgRZwVlq9a3lvHGHunrb"
@@ -1235,7 +1258,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 388272,
       "name": "Motown",
       "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
@@ -1453,7 +1476,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 173164,
       "name": "Sadsongwtf",
       "url": "https://open.spotify.com/track/2zA7dBlE6tarkCzK2Rsi3o"
@@ -1859,7 +1882,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 569159,
       "name": "This Time - Lindstr\u00f8m Remix",
       "url": "https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni"
@@ -1903,7 +1926,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": "2023-01-20",
       "duration_ms": 424462,
       "name": "Tidl\u00f8s - Kohib Remix",
       "url": "https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k"
@@ -1965,6 +1988,24 @@
       "duration_ms": 398415,
       "name": "Tripping Beauty",
       "url": "https://open.spotify.com/track/0YvC2wMznW20VAwcRwDpKj"
+    },
+    {
+      "album": {
+        "name": "twilight sparkle",
+        "url": "https://open.spotify.com/album/2pRRGrzD7blOYqIlhB1rNr"
+      },
+      "artists": [
+        {
+          "name": "dragongirl",
+          "url": "https://open.spotify.com/artist/3WkDNb8ocbf9rd7Vr6m2DM"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165130,
+      "name": "twilight sparkle",
+      "url": "https://open.spotify.com/track/20kF9KW9Wh4iOv6FycpBKq"
     },
     {
       "album": {

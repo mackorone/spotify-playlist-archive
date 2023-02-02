@@ -4,7 +4,7 @@
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-71 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/6Oa8CkO2ISfYH7FRf5Faa7)
+71 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

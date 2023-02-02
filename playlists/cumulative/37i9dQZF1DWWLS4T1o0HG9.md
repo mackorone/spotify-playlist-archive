@@ -4,7 +4,7 @@
 
 > The essential pop rock songs from the 80s\. Cover: The Go\-Go's
 
-143 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/53wivXq8nVtFTeex23RQEz)
+143 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

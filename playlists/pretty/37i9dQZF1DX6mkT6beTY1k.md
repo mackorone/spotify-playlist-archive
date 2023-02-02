@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mkT6beTY1k.md) - [plain]
 
 > time to confess your crush
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,717 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,188 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mkT6beTY1k.md) - [plain]
 | 49 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 50 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 |
 
-Snapshot ID: `MTY1MjEwODIyOSwwMDAwMDAwMGE4M2JlNWFkMzViNDZjNTBhMjg2NzI4YTA5MDk2OGNl`
+Snapshot ID: `MTY3MjI5MDQwOSwwMDAwMDAwMDNkMzQxZjc5MTE0MGZhMTUwYmJkZTU1ZjEzM2UyMzU2`

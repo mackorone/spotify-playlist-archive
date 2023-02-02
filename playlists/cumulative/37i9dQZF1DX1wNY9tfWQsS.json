@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Mary J. Blige",
+  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Whitney Houston",
   "name": "Women of R&B",
-  "published_playlist_ids": [
-    "4Hyc8FBwGAkz0KJlOJzNHJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -211,7 +208,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 182400,
       "name": "Crazy Tings",
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
@@ -380,6 +377,24 @@
     },
     {
       "album": {
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201621,
+      "name": "Feature Me",
+      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
+    },
+    {
+      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -485,7 +500,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 224880,
       "name": "Girl Like Me (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu"
@@ -727,7 +742,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 150400,
       "name": "I Can't Stand the Rain",
       "url": "https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6"
@@ -811,7 +826,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
@@ -912,6 +927,24 @@
     },
     {
       "album": {
+        "name": "What I Didn't Tell You",
+        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
+    },
+    {
+      "album": {
         "name": "Beautiful Ballads",
         "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
       },
@@ -970,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
+        "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292108,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/0Rkq46Qo069QwWDdrVur8f"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/13AioFwH1nNynbyO8AZW6L"
       },
@@ -981,7 +1032,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-01-23",
       "duration_ms": 176075,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3qmm9AdG0TnShv0drgXNIQ"
@@ -1303,7 +1354,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-03",
       "duration_ms": 229413,
       "name": "Pick Up Your Feelings",
       "url": "https://open.spotify.com/track/2I7CJZLo2nDqGuzZJA1XlZ"
@@ -1339,7 +1390,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 148040,
       "name": "Please Mr. Postman - Single Version / Mono",
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
@@ -1419,7 +1470,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 171026,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
@@ -1517,6 +1568,42 @@
       "duration_ms": 201609,
       "name": "Shot Clock",
       "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "album": {
+        "name": "The Hurtbook",
+        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189546,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
     },
     {
       "album": {
@@ -1901,7 +1988,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 173866,
       "name": "You're All I Need To Get By",
       "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"

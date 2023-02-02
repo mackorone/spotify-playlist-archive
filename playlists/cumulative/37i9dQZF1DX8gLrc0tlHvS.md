@@ -4,7 +4,7 @@
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-127 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
+129 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [First Time](https://open.spotify.com/track/6OFKVE2HZdK3n2tbTDMhn3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:44 | 2021-02-12 |  |
 | [From the Wreckage Build a Home](https://open.spotify.com/track/4nfJaz7eFYR82rWumtPutG) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [From The Wreckage](https://open.spotify.com/album/3IsnebH7a085bEoQKee9UX) | 3:33 | 2021-02-12 |  |
 | [Ghost](https://open.spotify.com/track/34hnNivtjbAzrpoy4L75uk) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/6SuIleYbiL8pUzX4W7yPXG) | 4:29 | 2021-02-12 | 2022-07-29 |
-| [Ghost](https://open.spotify.com/track/7KqbJ9ct3YZjvB08NawcrF) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/4bCcwaKznhOyjvLysGVGVP) | 4:29 | 2021-02-12 |  |
+| [Ghost](https://open.spotify.com/track/3bwymFXaLawekXh24ZOL9s) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/17l9KWnEV8rjy3QoYAUGT7) | 4:29 | 2022-09-21 |  |
+| [Ghost](https://open.spotify.com/track/7KqbJ9ct3YZjvB08NawcrF) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/4bCcwaKznhOyjvLysGVGVP) | 4:29 | 2021-02-12 | 2022-12-01 |
 | [Gold Rush](https://open.spotify.com/track/0jQNFJUCFPaTo3obowrbqG) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/3D7fUdOMnkiLuuXDtfxFA4) | 3:33 | 2021-02-12 | 2022-07-29 |
 | [Gold Rush](https://open.spotify.com/track/41HBl0MY8sTTe4ZcpMsm5r) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH) | 3:33 | 2021-02-12 |  |
 | [Gold Rush](https://open.spotify.com/track/71WTX4gL815zPt0l3wGBTl) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart of My Own](https://open.spotify.com/album/2litDL7wIKCHWALJSrdOV8) | 3:33 | 2021-02-12 | 2022-08-10 |
@@ -94,8 +95,9 @@
 | [Shake](https://open.spotify.com/track/33faLM9uNVtibuZIb37MOV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Shake](https://open.spotify.com/album/0oGxKW2JMIZe9HnfJgzxxm) | 4:01 | 2021-02-12 | 2022-07-29 |
 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 | 2021-02-12 |  |
 | [She Lit A Fire](https://open.spotify.com/track/0RC0i4p56KeaES8iyPfC79) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/6zmmMSHLKk3CacdH3SwEGQ) | 4:30 | 2021-02-12 | 2022-07-29 |
-| [She Lit a Fire](https://open.spotify.com/track/0zCckv4tx3KzJ5GGTRbbLf) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:30 | 2021-02-12 |  |
-| [She Lit a Fire](https://open.spotify.com/track/7jvRS4mNvjbSwgdiWDG2ZD) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/69kRqmPTFu7xBqsrM47Ko4) | 4:30 | 2022-09-21 | 2022-11-13 |
+| [She Lit a Fire](https://open.spotify.com/track/0zCckv4tx3KzJ5GGTRbbLf) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:30 | 2021-02-12 | 2023-01-05 |
+| [She Lit a Fire](https://open.spotify.com/track/6EwmdjdgIxoN1sRMhqWwmS) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:30 | 2022-09-21 |  |
+| [She Lit a Fire](https://open.spotify.com/track/7jvRS4mNvjbSwgdiWDG2ZD) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/69kRqmPTFu7xBqsrM47Ko4) | 4:30 | 2022-09-21 | 2023-01-06 |
 | [Sing To The Mountain](https://open.spotify.com/track/2UvYU118sXvon2S2K5lX7x) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [Elephant Revival](https://open.spotify.com/album/2AS01I0bGvaa6UPtbB95j2) | 3:42 | 2021-02-12 | 2022-07-29 |
 | [Sing to the Mountain](https://open.spotify.com/track/5kgMPM2m2sGGuVL4KpHwiO) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [Elephant Revival](https://open.spotify.com/album/1Qyc6kxZYssUHELLcImDnX) | 3:42 | 2021-02-12 |  |
 | [Six Weeks](https://open.spotify.com/track/060WwU9cva7KOpMhZAJjT6) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 5:34 | 2021-02-12 |  |

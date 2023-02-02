@@ -4,7 +4,7 @@
 
 > All your favorite hits from the decade you love most!
 
-75 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/32r3TiInDjvjP4YTbgnXe3)
+75 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

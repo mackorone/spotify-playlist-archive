@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Relax to some gentle percussion from all corners of the globe.",
   "name": "Peaceful Rhythms",
-  "published_playlist_ids": [
-    "6xU7IIhg8fqq5qz8ymx5AK"
-  ],
   "tracks": [
     {
       "album": {
@@ -197,6 +194,28 @@
       "duration_ms": 289253,
       "name": "Cappuccino Lovely: No. 2. Milk",
       "url": "https://open.spotify.com/track/0c0JQue8R16oT72mDIPmFk"
+    },
+    {
+      "album": {
+        "name": "Marimbaroque",
+        "url": "https://open.spotify.com/album/1tHs1UP2hDUneaoUBCDNSF"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Chin Cheng Lin",
+          "url": "https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131813,
+      "name": "Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande (Arr. for Marimba)",
+      "url": "https://open.spotify.com/track/6SnjTjTU1BJYh1GZcYam0G"
     },
     {
       "album": {
@@ -857,6 +876,24 @@
       "duration_ms": 193720,
       "name": "News From New Zealand",
       "url": "https://open.spotify.com/track/4p7AfmyhefTJPsddROdcaj"
+    },
+    {
+      "album": {
+        "name": "On a Different River",
+        "url": "https://open.spotify.com/album/1iquYW5s00pGdRbOrOz0OK"
+      },
+      "artists": [
+        {
+          "name": "Pranayama Squad",
+          "url": "https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231272,
+      "name": "On a Different River",
+      "url": "https://open.spotify.com/track/77Kr0KenZf9DCE1kbqQeEt"
     },
     {
       "album": {

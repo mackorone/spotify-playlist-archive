@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "90s rock to fuel your ride. Cover: The Smashing Pumpkins",
   "name": "90s Rock Drive",
-  "published_playlist_ids": [
-    "6Xdv835R3SfJNaxAchmcum"
-  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +178,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 267960,
       "name": "Clumsy",
       "url": "https://open.spotify.com/track/5IOUNrN8E37eLGdLNRr9aC"
@@ -433,7 +430,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 344906,
       "name": "I'm Above",
       "url": "https://open.spotify.com/track/6NQZtrzKlUkY81Bw00avaI"
@@ -494,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Happiness...Is Not a Fish That You Can Catch",
+        "url": "https://open.spotify.com/album/6zlcEv6OCgGoVlF5Fm4cSd"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-08",
+      "duration_ms": 218000,
+      "name": "Is Anybody Home?",
+      "url": "https://open.spotify.com/track/2QQ0lfEAu3ncUHM3C6Rkg3"
+    },
+    {
+      "album": {
         "name": "It's A Shame About Ray (Expanded Edition)",
         "url": "https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji"
       },
@@ -545,6 +560,24 @@
       "duration_ms": 276131,
       "name": "Low",
       "url": "https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX"
+    },
+    {
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
     },
     {
       "album": {
@@ -671,6 +704,24 @@
       "duration_ms": 164266,
       "name": "Never There",
       "url": "https://open.spotify.com/track/7aKWgpecgLEqisWcXPElDl"
+    },
+    {
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171693,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1"
     },
     {
       "album": {

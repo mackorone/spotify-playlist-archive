@@ -4,7 +4,7 @@
 
 > Sweden Rock är Sveriges största hårdrocksfestival\. Sommarens upplaga äger rum 6 \- 9 juni i Sölvesborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-75 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/3O99m6CCrcVjZq2EssXLXB)
+75 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

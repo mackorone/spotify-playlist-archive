@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-03",
   "description": "R&B sensual para una apasionada noche en excelente compa\u00f1\u00eda.",
   "name": "Texteo de Medianoche",
-  "published_playlist_ids": [
-    "1i4e9zZGg6WcrvjDTSglUO"
-  ],
   "tracks": [
     {
       "album": {
@@ -138,8 +135,52 @@
     },
     {
       "album": {
+        "name": "At My Worst - Chilled Pop",
+        "url": "https://open.spotify.com/album/5LeKEWV2BkMFRjnIjSXHdJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/118aglbgrsb8w0cRsynoMq"
+    },
+    {
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
       "artists": [
         {
@@ -156,7 +197,7 @@
       "date_removed": null,
       "duration_ms": 183219,
       "name": "BELIEVE IT",
-      "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
+      "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
     },
     {
       "album": {
@@ -197,10 +238,32 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 183750,
       "name": "Between Us (feat. Snoh Aalegra)",
       "url": "https://open.spotify.com/track/2ynqtdm2zE73wuNKjGItwp"
+    },
+    {
+      "album": {
+        "name": "A Muse In Her Feelings",
+        "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Between Us (feat. Snoh Aalegra)",
+      "url": "https://open.spotify.com/track/759KqKQyDmTWJape4odo21"
     },
     {
       "album": {
@@ -626,6 +689,24 @@
     },
     {
       "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -755,6 +836,46 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
+    },
+    {
+      "album": {
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+    },
+    {
+      "album": {
+        "name": "Lick (Remix)",
+        "url": "https://open.spotify.com/album/4es9EtTbWRJEyKwJLNGu8N"
+      },
+      "artists": [
+        {
+          "name": "Akasha",
+          "url": "https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo"
+        },
+        {
+          "name": "Phul King Fu",
+          "url": "https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139927,
+      "name": "Lick (Remix)",
+      "url": "https://open.spotify.com/track/54kYF5NYsTBs1XDTh0czQ4"
     },
     {
       "album": {
@@ -1041,10 +1162,28 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 376061,
       "name": "SAVAGE ANTHEM",
       "url": "https://open.spotify.com/track/2BwTTHpaBZ9DuARYrIccyh"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376061,
+      "name": "SAVAGE ANTHEM",
+      "url": "https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76"
     },
     {
       "album": {

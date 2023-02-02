@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Adonis.
 
-96 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
+98 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,6 @@
 | [Setta Sabahan](https://open.spotify.com/track/0zSPZ1QQFL6jvsCSqBiIJz) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:34 | 2021-12-23 | 2022-02-18 |
 | [Shem Wroud](https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Shem Wroud](https://open.spotify.com/album/4lTQSJLGiwsJuNI7mvyFG6) | 3:16 | 2021-12-23 | 2022-07-19 |
 | [Shofy 7aly](https://open.spotify.com/track/6sl5f589BUW7wz9EWpJG9Q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Shofy 7aly](https://open.spotify.com/album/7jGcinboojeSI12RzVeMW5) | 3:29 | 2021-12-23 |  |
-| [Sieli](https://open.spotify.com/track/34zQrwOc1XfE7UUvGZruuA) | [Maujoud](https://open.spotify.com/artist/30Hwqlea9IBZ9CDaFsUU6I) | [Sieli](https://open.spotify.com/album/1lfY8HkF1LuHU19pdKSXOs) | 5:45 | 2022-04-18 |  |
 | [Sint El Ew](https://open.spotify.com/track/06VK1fRdYQHE3Bf6crxfav) | [Blu Fiefer](https://open.spotify.com/artist/2JLEPctdP7utmaEBfRhK6H) | [Sint El Ew](https://open.spotify.com/album/6bjdPYlUv6grgJWy5Jbiid) | 3:12 | 2021-12-23 | 2022-01-14 |
 | [Soot El Reeh](https://open.spotify.com/track/1vEwEQwqaxtpsvAnMsb7CB) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Soot El Reeh](https://open.spotify.com/album/04DBf8INFlWxsutrowWkxm) | 4:41 | 2021-12-23 | 2022-07-19 |
 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 | 2022-03-24 |  |
@@ -94,15 +93,18 @@
 | [Ya Msafer Wahdak](https://open.spotify.com/track/1zPfv9d1zoorqjH3rVQq04) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Ya Msafer Wahdak](https://open.spotify.com/album/6C9tz8uAtt3WVIIH4P3Gjo) | 2:26 | 2022-01-06 |  |
 | [Yay](https://open.spotify.com/track/5E7b7E6SQDuCHqs35YsZGi) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Yay](https://open.spotify.com/album/3L7dNXLdUIYLjpEKCsfDnj) | 2:51 | 2021-12-23 | 2022-02-18 |
 | [أغلاط](https://open.spotify.com/track/0nDgOVERfNUrwcLisM2S80) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [أغلاط](https://open.spotify.com/album/1FdXhZQfxKyqn1mldknNgT) | 3:02 | 2022-04-07 |  |
+| [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2022-12-17 |  |
 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-23 |  |
 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 | 2021-12-23 | 2022-02-16 |
 | [زي زمان](https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [زي زمان](https://open.spotify.com/album/4VvlIUieIPAhvIO3tBRwMY) | 3:54 | 2022-02-17 |  |
+| [سيلي](https://open.spotify.com/track/34zQrwOc1XfE7UUvGZruuA) | [Maujoud](https://open.spotify.com/artist/30Hwqlea9IBZ9CDaFsUU6I), [بحر غازي](https://open.spotify.com/artist/46FaNQ24WNfMzWOVobepxY) | [سيلي](https://open.spotify.com/album/1lfY8HkF1LuHU19pdKSXOs) | 5:45 | 2022-04-18 |  |
 | [عشانك](https://open.spotify.com/track/0cJ6V9clK0gZCwPHxgKB5D) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/7IeH8T12RVRbIlppvS83x3) | 3:07 | 2022-07-23 |  |
 | [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 | 2022-01-01 | 2022-07-29 |
 | [غايب](https://open.spotify.com/track/3KntmeYoXY9wFr0vMslHnM) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [غايب](https://open.spotify.com/album/7jmeyI1M0wAXHXC4TQJERP) | 3:58 | 2022-09-20 |  |
 | [غايب](https://open.spotify.com/track/6murO5dlAsmNoxv8JjlRYJ) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [غايب](https://open.spotify.com/album/4aoHITm8BSyqKTXobNQ6mR) | 3:58 | 2022-09-08 | 2022-11-02 |
 | [في السماء \(Fe Samaa\)](https://open.spotify.com/track/1dIf1Gc7gIoXSuRzlnOTWC) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV), [ڭليثر Glitter٥٥](https://open.spotify.com/artist/2KWnDPIjSGjvYrwexIdYyI) | [في السماء \(Fe Samaa\)](https://open.spotify.com/album/03rlICPw5ab843v5pXMo4H) | 3:53 | 2021-12-23 | 2022-04-19 |
 | [لحالها](https://open.spotify.com/track/64NJb1lr4J9IXDUNl63nxo) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [لحالها](https://open.spotify.com/album/2War9jZBTVTUv12nB0YkUz) | 2:53 | 2021-12-23 | 2022-04-16 |
+| [لو](https://open.spotify.com/track/3zmnkk8mrFEr7gUcPDd5t7) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [لو](https://open.spotify.com/album/5DKgNNMIerP7WFn4H10RMw) | 3:36 | 2023-01-19 |  |
 | [وين اليوم](https://open.spotify.com/track/3D4FAxWer4j9RD2ASrdfv2) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [وين اليوم](https://open.spotify.com/album/4Bw1p9br1qbIaA8tZz42td) | 3:45 | 2022-01-13 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

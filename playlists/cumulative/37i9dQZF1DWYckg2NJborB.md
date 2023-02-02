@@ -4,7 +4,7 @@
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-122 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
+124 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,10 @@
 | [Everyday I Write The Book](https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:54 | 2018-12-10 |  |
 | [Goodbye Sky Harbor](https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 16:13 | 2018-12-10 |  |
 | [Great American Novel](https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Great American Novel](https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu) | 3:54 | 2018-12-10 | 2022-07-29 |
-| [Great American Novel](https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb) | 3:55 | 2018-12-10 |  |
+| [Great American Novel](https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ) | 3:55 | 2018-12-10 |  |
+| [Great American Novel](https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb) | 3:55 | 2018-12-10 | 2022-12-26 |
 | [Harold Bloom](https://open.spotify.com/track/0qQ2EKimGM7DHgrPEMCjK0) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/01x41UlgUnQ3QX5OLcIKFo) | 4:12 | 2018-12-10 | 2022-07-26 |
+| [Harper Lee](https://open.spotify.com/track/03F8N51pg6btI2LE5WE8Ld) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 3:31 | 2018-12-10 | 2023-01-15 |
 | [Harper Lee](https://open.spotify.com/track/4MfmlkRKhlREunOHnasUhm) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0mDWJb8omHOpMdayXdLiBG) | 3:31 | 2018-12-10 | 2022-07-29 |
 | [Harper Lee](https://open.spotify.com/track/5KWesyeHlejVprGxufFxtq) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf) | 3:31 | 2018-12-10 | 2022-10-13 |
 | [Hate the Villanelle](https://open.spotify.com/track/3fPSVnmmq2nOWM4VOmiKww) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Hate the Villanelle](https://open.spotify.com/album/4HzeliPMG1yywJ4Jw4kJRx) | 1:52 | 2018-12-10 | 2022-07-29 |
@@ -73,7 +75,7 @@
 | [Paperback Writer \- Live At Citi Field, NYC, 2009](https://open.spotify.com/track/66JNz0BxRKrno33Jha7i7R) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Good Evening New York City](https://open.spotify.com/album/6k1uheGE4dRXkcRcpbfRg2) | 3:28 | 2018-12-10 | 2022-07-28 |
 | [Paperbag Writer](https://open.spotify.com/track/0l8kx5UM3p8DxaEYZ2YzN9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail to the Thief \(Collector's Edition\)](https://open.spotify.com/album/5GcgkRjhWDxrOTDk0TJQK8) | 3:58 | 2018-12-10 | 2022-06-16 |
 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 | 2018-12-10 |  |
-| [Pattern Recognition](https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS) | 6:32 | 2018-12-10 | 2022-11-08 |
+| [Pattern Recognition](https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS) | 6:32 | 2018-12-10 | 2023-01-17 |
 | [Pattern Recognition](https://open.spotify.com/track/5UaqCqloqMJN0tmHlnMpMy) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/360WG1hup7svzIcIqWQ4CE) | 6:32 | 2018-12-10 | 2022-07-28 |
 | [Postdoc Blues](https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Winter Wheat](https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia) | 3:23 | 2018-12-10 |  |
 | [Postdoc Blues](https://open.spotify.com/track/7EwsFukgOtMzcXjL6BZVJD) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Postdoc Blues](https://open.spotify.com/album/6gohVbR0EIu7cQ4joT4ELg) | 3:23 | 2018-12-10 | 2022-07-25 |
@@ -108,7 +110,7 @@
 | [The River](https://open.spotify.com/track/1k3tnHRcKo5DUNdQYuYFnw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:52 | 2018-12-10 |  |
 | [The Sensual World](https://open.spotify.com/track/6xOyeiTQ0tWaYo2wG1XtZc) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World](https://open.spotify.com/album/4ZeZ9B0IZHk0zXB9lxZaGR) | 3:56 | 2018-12-10 | 2022-07-29 |
 | [The Sensual World \- 2018 Remaster](https://open.spotify.com/track/6eVxdX2tQkNmHg7PP1sRbw) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO) | 3:57 | 2018-12-10 |  |
-| [The Tea Song](https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [First Songs](https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ) | 7:28 | 2018-12-10 | 2022-11-19 |
+| [The Tea Song](https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [First Songs](https://open.spotify.com/album/1cIR842PuvHfSSQf1QuYRZ) | 7:28 | 2018-12-10 | 2022-12-18 |
 | [The Underwood Typewriter](https://open.spotify.com/track/2pzlZI4C3f1MSMg047bPI6) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End of History](https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b) | 3:01 | 2018-12-10 | 2022-10-21 |
 | [The Underwood Typewriter](https://open.spotify.com/track/4ccugwlZ3EWVmPgfsYjCSk) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The End Of History](https://open.spotify.com/album/3AiBzMGzdk5QQWLWRhXUTz) | 3:01 | 2018-12-10 | 2022-07-29 |
 | [The Wild Boys](https://open.spotify.com/track/5qeLeyIWCPe1FpdJLQTUDW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 4:17 | 2018-12-10 |  |

@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-178 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+180 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Cat Girls Are Ruining My Life!](https://open.spotify.com/track/4SPBwOTXgku4QvmRtMEGfW) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Cat Girls Are Ruining My Life!](https://open.spotify.com/album/13vJf0S7wWfz9NC9nBhWqW) | 1:37 | 2020-12-07 |  |
 | [Catching Eyes](https://open.spotify.com/track/2aUYt0CwHeJLrlgi0akUGp) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3vyUE4IyiLM471hbKVQ9i2) | 4:09 | 2020-12-07 |  |
 | [Catching Eyes](https://open.spotify.com/track/3LJ7dXJzZ2umb3Ccsuq5fT) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/66SXZvXGSD2NEtFSos2HtB) | 4:09 | 2020-12-07 | 2022-07-29 |
-| [Colors We Made](https://open.spotify.com/track/1EWK3hODDw0DaiS5ffsPO7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Permanent Beta](https://open.spotify.com/album/4s22gKBrVyGtFSXez21EWV) | 2:50 | 2020-12-07 |  |
+| [Colors We Made](https://open.spotify.com/track/1EWK3hODDw0DaiS5ffsPO7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Permanent Beta](https://open.spotify.com/album/4s22gKBrVyGtFSXez21EWV) | 2:50 | 2020-12-07 | 2022-12-15 |
+| [Colors We Made](https://open.spotify.com/track/2wnt2dMobi8aEqsvYK8N0k) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Colors We Made](https://open.spotify.com/album/6efiQ3j3RIFy6oYHbeziIu) | 2:50 | 2020-12-07 |  |
 | [Come Over](https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 1](https://open.spotify.com/album/1AQvLVWkgAxzSa8zJbYkdW) | 2:15 | 2020-12-07 |  |
 | [commitment issues](https://open.spotify.com/track/36GBhsSpQjDbKTJLbABa8D) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [commitment issues](https://open.spotify.com/album/2AL3lyYodRuYfBU5M9MdAL) | 2:50 | 2020-12-07 |  |
 | [Crunch](https://open.spotify.com/track/5YEt6KT2JuTI62ehTcgWTS) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Crunch](https://open.spotify.com/album/2jqxS9oJnNlgfXIhUeLdyi) | 3:21 | 2020-12-07 |  |
@@ -162,7 +163,8 @@
 | [The 1](https://open.spotify.com/track/311lnc9FJHqg5XWV6VE4XI) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA) | 2:56 | 2020-12-07 | 2022-11-13 |
 | [The 1](https://open.spotify.com/track/4RZyqmqauYuQlvB4NfElJc) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 | 2020-12-07 |  |
 | [The 1](https://open.spotify.com/track/39Pcga1E2r2MnpKGWZGZZE) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [The 1](https://open.spotify.com/album/6HSi6IWRhT5GhZLb4G2Pnx) | 2:56 | 2020-12-07 | 2022-07-29 |
-| [The City](https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [The City](https://open.spotify.com/album/7aOqSME6hWSephSVHYIsxt) | 4:11 | 2020-12-07 |  |
+| [The City](https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [The City](https://open.spotify.com/album/7aOqSME6hWSephSVHYIsxt) | 4:11 | 2020-12-07 | 2023-01-19 |
+| [The City](https://open.spotify.com/track/6MBMMCYbAM9QWEgUCaG9pD) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [THIS IS NOT WHAT IT LOOKS LIKE!](https://open.spotify.com/album/2jGyX0p346kDwHvVqanE8W) | 4:11 | 2020-12-07 |  |
 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 | 2020-12-07 |  |
 | [TIME + ENERGY](https://open.spotify.com/track/4SbosulGVDqJDmKd8BIsMJ) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BABY BLUE](https://open.spotify.com/album/50ushkrGR4nNTCRNzxs8kb) | 2:58 | 2020-12-07 |  |
 | [trix](https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [white ceilings](https://open.spotify.com/album/1qjit4AnftNlPkptTe1ne9) | 2:27 | 2020-12-07 |  |

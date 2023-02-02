@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xvwVpqXVS8.md) - [plain]
 
 > "Not Past It" host Simone Polanen shares her favorite serotonin\-boosting songs to dance to\. Cover: Simone Polanen
 
-[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 20 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 20 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sylvester, Klaus Nomi, Judy Garland, and a slew of his own songs—peek into the singer\-songwriter’s timeless world, in celebration of Pride.
 
-30 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/2tvTurw8Rft6Fsg4k2KmWF)
+30 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

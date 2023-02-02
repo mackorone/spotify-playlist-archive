@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,969 likes - 63 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,151 likes - 63 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 7 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 | 8 | [Take Another Little Piece of My Heart](https://open.spotify.com/track/43gYYzuAUfrsXxurrxVyE9) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In London](https://open.spotify.com/album/5g3vH5YFr5Om6x7P2xhML3) | 2:38 |
 | 9 | [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 |
-| 10 | [Why So Serious](https://open.spotify.com/track/6v48qTk0yzWneiNCS4T8co) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/18KUlnsMtCS3W67CLyk0Fp) | 3:43 |
+| 10 | [Why So Serious](https://open.spotify.com/track/5X9pmlOsnQBAz90IL7IJYC) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi) | 3:47 |
 | 11 | [Arrieros Somos](https://open.spotify.com/track/5tL00ynK5ogVNz66Np8yal) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [México, Vol\. II](https://open.spotify.com/album/1daoIj3pRxt6n5g9T4kCUU) | 3:19 |
 | 12 | [Get Up I Feel Like Being Like A Sex Machine, Pts\. 1 & 2](https://open.spotify.com/track/6hpmTwgNCz81H2bFEREx29) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The Original J.B.s](https://open.spotify.com/artist/4GwjLszGqU37HqCgpBNPoU) | [70's Funk Classics](https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc) | 5:18 |
 | 13 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 41 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
 | 42 | [Rocks](https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Give Out But Don't Give Up](https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8) | 3:37 |
 | 43 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
-| 44 | [Broken Coastline](https://open.spotify.com/track/1DNMD4CEyX2XrFkOR4lvP1) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps) | [Broken Coastline](https://open.spotify.com/album/1HjpXCId9AyLZXYXzlW2Wn) | 3:29 |
+| 44 | [Broken Coastline](https://open.spotify.com/track/1DNMD4CEyX2XrFkOR4lvP1) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps), [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V), [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Broken Coastline](https://open.spotify.com/album/1HjpXCId9AyLZXYXzlW2Wn) | 3:29 |
 | 45 | [Di doo dah](https://open.spotify.com/track/0RnE0UwG2gZqyr7crZjkpq) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Mes Images Privées De Serge](https://open.spotify.com/album/1m6bdcoDLu1OELQuPOkoRf) | 3:34 |
 | 46 | [I Want You](https://open.spotify.com/track/2tbEVt14awDrNoI8Llckaf) | [Australian Blonde](https://open.spotify.com/artist/5jbvTNkLBE4W1wQlDzHgxU) | [Pizza Pop](https://open.spotify.com/album/3GScIDM0j0GnnNdISSd1Df) | 3:03 |
 | 47 | [La poupée](https://open.spotify.com/track/1glzpd9mGcAtbaRdQQCwgc) | [Les Très Bien Ensemble](https://open.spotify.com/artist/5VcYEhHwtZTgZIFW5JcQwh) | [Doux\-amer](https://open.spotify.com/album/6rieFXTklVah8JAwKS2BRl) | 3:20 |
 | 48 | [La Deriva](https://open.spotify.com/track/3yAVc9zsc742nCxO8mDB8T) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [La Deriva](https://open.spotify.com/album/4xqm8AbqzESFwCZlEPdYjr) | 3:39 |
-| 49 | [Ti Amo](https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Ti amo](https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29) | 4:05 |
+| 49 | [Ti Amo](https://open.spotify.com/track/5Mtx78lRs3S62t6JaGqWPR) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [GLORIA FOREVER Il Tour](https://open.spotify.com/album/6zYWcL99HKx07mzlNzS87E) | 4:05 |
 | 50 | [Te Estoy Amando Locamente](https://open.spotify.com/track/5QfmCmdL4qnzqMz5Z0gvzV) | [Las Grecas](https://open.spotify.com/artist/5sWCGfIxmNiMAl6n8kdbkb) | [Te Estoy Amando Locamente](https://open.spotify.com/album/2NpRaaZ6Hi7Y5GqWeLwGqH) | 3:11 |
 | 51 | [Maskenfreiheit](https://open.spotify.com/track/0EeTWwqWaHQbtENvvlYP60) | [Belako](https://open.spotify.com/artist/7znL32O79uRRRhojT25gug) | [Render Me Numb, Trivial Violence](https://open.spotify.com/album/7yWIwU3osgvIKa3dJcgrmE) | 3:00 |
 | 52 | [Days Like This](https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Days Like This](https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL) | 3:17 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 62 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 63 | [Bella ciao](https://open.spotify.com/track/0Hssk7StCZSPBwTaghTJsR) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Bella ciao](https://open.spotify.com/album/5ddDj8XH2GBfgDjEZpVD0p) | 2:09 |
 
-Snapshot ID: `MTY1Mjc5OTE2OCwwMDAwMDAwMDM2Mzc4NjY3MDU5NmZkNGI2M2U4NDIxMTFkZmE2NDJk`
+Snapshot ID: `MTY1Mjc5OTE2OCwwMDAwMDAwMDBkZjg2MzY2ZTYzZWNlMDU1ZmJjNDIwYTYxYTI3MTkx`

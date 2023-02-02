@@ -4,7 +4,7 @@
 
 > Emotional fervor and man's mystic relationship with nature are just a few of the prototypical themes featured in this playlist of Romantic poetry.
 
-100 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/45xlnEhQkfaMtmvX22ZSSP)
+100 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-08",
-  "description": "Hora de bailar con esta fiesta tropical. Dance the night away with your favorite tropical tunes.",
-  "name": "Fiesta con Sabor",
-  "published_playlist_ids": [
-    "5QMdEzMY3IyIgD8gxoZv86"
-  ],
+  "description": "Tira los pasos prohibidos. Dance the night away with your favorite tropical tunes.",
+  "name": "SABOR",
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 295280,
       "name": "A Pedir Su Mano",
       "url": "https://open.spotify.com/track/0Y6RXhbU85T0P0HeiT1Tnb"
@@ -299,6 +296,24 @@
     {
       "album": {
         "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
+    },
+    {
+      "album": {
+        "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
       },
       "artists": [
@@ -309,7 +324,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 257079,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/5DAcQYhc2MurNpTHtX8kZ3"
@@ -752,6 +767,24 @@
     },
     {
       "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
+    },
+    {
+      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -853,7 +886,7 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "date_added": "2022-11-22",
+      "date_added": "2022-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157017,
@@ -917,6 +950,24 @@
       "duration_ms": 289506,
       "name": "El Baile del Beeper (Version Mexico)",
       "url": "https://open.spotify.com/track/2qBNmCtprsZoCfpE0dR8xR"
+    },
+    {
+      "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 289506,
+      "name": "El Baile del Beeper - Version Mexico",
+      "url": "https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN"
     },
     {
       "album": {
@@ -1039,7 +1090,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-04",
       "duration_ms": 250106,
       "name": "El Costo de la Vida",
       "url": "https://open.spotify.com/track/6GLTEoqfb7gLu9pPmD5gLu"
@@ -1133,7 +1184,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-26",
       "duration_ms": 275252,
       "name": "El Mono",
       "url": "https://open.spotify.com/track/5L8xWjak06ON5UdfSDYLBj"
@@ -1187,7 +1238,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-09",
       "duration_ms": 295000,
       "name": "El Venao",
       "url": "https://open.spotify.com/track/17p0oO1Rn7r6s7lrX6bE4y"
@@ -1311,7 +1362,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 284266,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/7f698P4uIhoNM4E3XkgvL3"
@@ -1519,7 +1570,7 @@
           "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "date_added": "2022-11-22",
+      "date_added": "2022-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162637,
@@ -1543,7 +1594,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-13",
       "duration_ms": 194453,
       "name": "La Bendici\u00f3n",
       "url": "https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6"
@@ -1561,7 +1612,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm"
@@ -1586,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
+    },
+    {
+      "album": {
         "name": "La Clave",
         "url": "https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S"
       },
@@ -1595,9 +1664,9 @@
           "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "date_added": "2022-11-22",
+      "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 137472,
       "name": "La Clave",
       "url": "https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t"
@@ -1822,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267733,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
+    },
+    {
+      "album": {
         "name": "Top 40",
         "url": "https://open.spotify.com/album/3u2WqbjsNUEiPLPLST0lU2"
       },
@@ -1923,7 +2010,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-29",
       "duration_ms": 329440,
       "name": "Latinos",
       "url": "https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9"
@@ -2179,7 +2266,7 @@
           "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "date_added": "2022-11-22",
+      "date_added": "2022-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158804,
@@ -2351,7 +2438,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
       "url": "https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm"
@@ -2712,6 +2799,28 @@
     },
     {
       "album": {
+        "name": "Pa' Otro La 'O",
+        "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        },
+        {
+          "name": "Jandy Feliz",
+          "url": "https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271031,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
+    },
+    {
+      "album": {
         "name": "Pintame",
         "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
       },
@@ -2935,9 +3044,9 @@
           "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
         }
       ],
-      "date_added": "2022-11-22",
+      "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 210446,
       "name": "Se Le Nota",
       "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
@@ -2975,7 +3084,7 @@
           "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "date_added": "2022-11-22",
+      "date_added": "2022-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212914,
@@ -3451,7 +3560,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-06",
       "duration_ms": 208013,
       "name": "Visa Para un Sue\u00f1o",
       "url": "https://open.spotify.com/track/6mmcsCrrASekHEUfjuNFOO"

@@ -4,7 +4,7 @@
 
 > Ten hours of ultimate jams —all long, all live.
 
-43 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/0FczPsVU64a77eAhBPtUpP)
+43 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

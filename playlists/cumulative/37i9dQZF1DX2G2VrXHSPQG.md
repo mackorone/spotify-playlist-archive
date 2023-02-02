@@ -4,7 +4,7 @@
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-140 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/0ORcVEhvSZghh7zSPbWGd2)
+140 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

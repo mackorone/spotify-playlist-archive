@@ -4,7 +4,7 @@
 
 > A collection of Blake's 7 radio dramas, featuring the Audio Adventures and Early Years series.
 
-106 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/5d1ZtrH6O5JbQdan0pRnhB)
+106 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

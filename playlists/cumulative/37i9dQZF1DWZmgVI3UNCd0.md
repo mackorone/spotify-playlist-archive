@@ -4,7 +4,7 @@
 
 > Dastaangoi dedicates this playlist to tender moments South Asian parents shared growing up\. Songs that are deeply embedded in their memories celebrating moments of life, love and friendship\. Cover: Musarrat Nazir
 
-35 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/7GNXT6ViMPpNtIm4eThkfZ)
+35 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: Percy Sledge",
-  "num_followers": 316984,
+  "num_followers": 320962,
   "original_name": "Timeless Soul Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY2NDc0NiwwMDAwMDAwMDJjMDIwMjViMDFhZjM3YmQ2ZmIxNDFjMWRkOGJkYTgz",
+  "snapshot_id": "MTY0NjY2NDc0NiwwMDAwMDAwMGFjZTZjYzMxMWJjZTIxNTNlZjg2MzU4Y2VkM2VkZjdh",
   "tracks": [
     {
       "added_at": "2022-03-04 21:48:30",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "These Arms of Mine",
-      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "Flamingo Serenade",
         "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
       },
@@ -119,22 +103,6 @@
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "It's A Man's Man's Man's World",
-        "url": "https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1"
-      },
-      "artists": [
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "It's A Man's, Man's, Man's World",
-      "url": "https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -155,18 +123,34 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+        "name": "It's A Man's Man's Man's World",
+        "url": "https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
         }
       ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+      "duration_ms": 167373,
+      "name": "It's A Man's, Man's, Man's World",
+      "url": "https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "These Arms of Mine",
+      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -187,6 +171,22 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 164160,
       "name": "Ooo Baby Baby",
       "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Who's Lovin' You",
-      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -235,18 +219,18 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 181666,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
+      "duration_ms": 235640,
+      "name": "Who's Lovin' You",
+      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -271,50 +255,18 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
       "artists": [
         {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 179426,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "Misty Blue",
-        "url": "https://open.spotify.com/album/3Zduho0YRag4bzsjSVGF0t"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Moore",
-          "url": "https://open.spotify.com/artist/3KQOgtRIeQVHdYFcNHKavs"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Misty Blue",
-      "url": "https://open.spotify.com/track/20JcxdRw8gvqTY1EEpYxHb"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "The Very Best Of Aaron Neville",
-        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
+      "duration_ms": 181666,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -351,18 +303,50 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "All The Great Love Songs",
-        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
+        "name": "The Very Best Of Aaron Neville",
+        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
         }
       ],
-      "duration_ms": 217426,
-      "name": "Three Times A Lady",
-      "url": "https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM"
+      "duration_ms": 164560,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "Misty Blue",
+        "url": "https://open.spotify.com/album/3Zduho0YRag4bzsjSVGF0t"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Moore",
+          "url": "https://open.spotify.com/artist/3KQOgtRIeQVHdYFcNHKavs"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Misty Blue",
+      "url": "https://open.spotify.com/track/20JcxdRw8gvqTY1EEpYxHb"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -379,6 +363,22 @@
       "duration_ms": 171773,
       "name": "I Never Loved a Man (The Way I Love You)",
       "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "All The Great Love Songs",
+        "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Three Times A Lady",
+      "url": "https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
+        "name": "He's So Fine",
+        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 154173,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
         "name": "Blue Magic",
         "url": "https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 251520,
       "name": "Sideshow",
       "url": "https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
-        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
-        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -463,18 +463,34 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "He's So Fine",
-        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
+        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
+        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 154173,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
+      "duration_ms": 158613,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
+    },
+    {
+      "added_at": "2022-03-04 21:48:30",
+      "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 354626,
+      "name": "Turn off the Lights",
+      "url": "https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM"
     },
     {
       "added_at": "2022-03-04 21:48:30",
@@ -495,22 +511,6 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "Up on the Roof: The Best of the Drifters",
-        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/7pOWWGpUc3T05IXfymgIP3"
-    },
-    {
-      "added_at": "2022-03-04 21:48:30",
-      "album": {
         "name": "Woman to Woman [Stax Remasters]",
         "url": "https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I"
       },
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-03-04 21:48:30",
       "album": {
-        "name": "Teddy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+        "name": "Up on the Roof: The Best of the Drifters",
+        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
         }
       ],
-      "duration_ms": 354626,
-      "name": "Turn off the Lights",
-      "url": "https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM"
+      "duration_ms": 146813,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/7pOWWGpUc3T05IXfymgIP3"
     }
   ],
   "unique_name": "Timeless Soul Ballads",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,030 likes - 122 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,769 likes - 122 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 10 | [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 |
 | 11 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 |
 | 12 | [How Lucky Am I](https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [How Lucky Am I](https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER) | 3:57 |
-| 13 | [Ain't a Train](https://open.spotify.com/track/2iMcoxNfwUwTrKVNX1ZQya) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H) | 3:05 |
+| 13 | [Ain't a Train](https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a) | 3:05 |
 | 14 | [Texas Rain](https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Texas Rain](https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa) | 3:38 |
 | 15 | [First Dirt Road](https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [First Dirt Road](https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3) | 3:23 |
 | 16 | [This Damn Song](https://open.spotify.com/track/2M6VNGj5BrClV62olW5OcR) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers](https://open.spotify.com/album/0K2mpuVrs4BpjxiX6TYKw7) | 4:06 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 66 | [Why](https://open.spotify.com/track/40oF62UXziCZaX3S3UtGuZ) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:17 |
 | 67 | [Sticks and Stones](https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Makin' It By \(Side A\)](https://open.spotify.com/album/19luaHWSUvdGpgyTNOqt7D) | 3:30 |
 | 68 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 |
-| 69 | [Fast Lane](https://open.spotify.com/track/1T5IbNS5mqd0hx1TGZoacY) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/5nVtIAQNEJItZS7eJhJiKD) | 4:06 |
+| 69 | [Fast Lane](https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg) | 4:06 |
 | 70 | [I Will](https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [I Will](https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn) | 3:28 |
 | 71 | [Restless Spirits](https://open.spotify.com/track/2j20WdSsdwdajj5ikGGKX5) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Restless Spirits](https://open.spotify.com/album/30Jp6NWXNluqn6LlwgzmvT) | 3:32 |
 | 72 | [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 121 | [Paycheck to Paycheck](https://open.spotify.com/track/2rK7rEmSllMs6iIJzle9oM) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Paycheck to Paycheck](https://open.spotify.com/album/3snVS5Ve1YUMpLyYELK00B) | 2:36 |
 | 122 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
 
-Snapshot ID: `MTY1MzYyNDAwMCwwMDAwMDAwMDIzNzMxOGIyMDYyNWI1MWE0NWZmYmM1ZjdkNTYyNGU1`
+Snapshot ID: `MTY1MzYyNDAwMCwwMDAwMDAwMDI5OGI5MzkxNmY0Nzc0NWY1MDg4YTRmYTVmYzU0OGM0`

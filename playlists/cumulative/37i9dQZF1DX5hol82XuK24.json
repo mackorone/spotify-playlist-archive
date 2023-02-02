@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Are you afraid of the dark?",
   "name": "Spooky",
-  "published_playlist_ids": [
-    "0SUJWBdRSbTiE40kDxwve2"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,10 +52,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 139259,
       "name": "Alivve",
       "url": "https://open.spotify.com/track/1R6bmo9w0hxLv0VlCrH0S2"
+    },
+    {
+      "album": {
+        "name": "Pink Songs",
+        "url": "https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139259,
+      "name": "Alivve",
+      "url": "https://open.spotify.com/track/712J1MIoG92zG8IDmNHayC"
     },
     {
       "album": {
@@ -541,7 +556,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 158733,
       "name": "Cage Girl",
       "url": "https://open.spotify.com/track/1INxSAGo3BIvfxGBIp7XeM"
@@ -595,7 +610,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 382674,
       "name": "Dancing and Blood",
       "url": "https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY"
@@ -1085,6 +1100,24 @@
       "duration_ms": 295093,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
+    },
+    {
+      "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
       "album": {
@@ -3334,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "Ants From Up There",
+        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433360,
+      "name": "The Place Where He Inserted the Blade",
+      "url": "https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT"
+    },
+    {
+      "album": {
         "name": "The Wetlands",
         "url": "https://open.spotify.com/album/2jWDh6LjGtIVyzCqqzGkVU"
       },
@@ -3659,6 +3710,24 @@
       "duration_ms": 335360,
       "name": "You Never Came",
       "url": "https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc"
+    },
+    {
+      "album": {
+        "name": "Treat Her Strangely",
+        "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
+      },
+      "artists": [
+        {
+          "name": "doubleVee",
+          "url": "https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205786,
+      "name": "Your Love Is It Real?",
+      "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-59 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/32ANKGPpQYwIXwf7rAOEGQ)
+59 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

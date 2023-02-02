@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "New styles, deep sounds. Cover: Drugdealer",
   "name": "Modern Eclectic",
-  "published_playlist_ids": [
-    "3T5AaAW956YONHSWrxMmGK"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 362493,
       "name": "A Dream Of Home",
       "url": "https://open.spotify.com/track/1gus1NMkhoa9HqHflUh4f0"
@@ -77,6 +74,24 @@
       "duration_ms": 231066,
       "name": "A Light On In The Dark",
       "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
+    },
+    {
+      "album": {
+        "name": "Tip of the Sphere",
+        "url": "https://open.spotify.com/album/7A9lD57JDmqxshUGkvTdiG"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168736,
+      "name": "Absentee",
+      "url": "https://open.spotify.com/track/23fEZLdzHoZlNZZu4E1pSp"
     },
     {
       "album": {
@@ -333,7 +348,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 254721,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/1j8hpxvE9IfjR2Vk9ihjrK"
@@ -1177,7 +1192,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 200355,
       "name": "Causing Trouble",
       "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
@@ -1257,6 +1272,24 @@
       "duration_ms": 116040,
       "name": "Cigarette - 7 Layers Session",
       "url": "https://open.spotify.com/track/08Pul3vjCGeOzn0w0Z39yX"
+    },
+    {
+      "album": {
+        "name": "Marika Hackman (7 Layers Session)",
+        "url": "https://open.spotify.com/album/2k2FmxjLCxOp5bTZoPRVlm"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116040,
+      "name": "Cigarette - 7 Layers Session",
+      "url": "https://open.spotify.com/track/6bOq0IV8aehkfePJOnqUK2"
     },
     {
       "album": {
@@ -1419,7 +1452,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 206013,
       "name": "Cool Jam",
       "url": "https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B"
@@ -1509,7 +1542,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/3NLm801woJocONz1NmPJZR"
@@ -1771,7 +1804,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 212376,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0"
@@ -2031,7 +2064,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-17",
       "duration_ms": 247826,
       "name": "Failure",
       "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
@@ -2335,7 +2368,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-24",
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
@@ -2587,7 +2620,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-13",
       "duration_ms": 171359,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0"
@@ -2843,7 +2876,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 316360,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
@@ -2919,7 +2952,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-17",
       "duration_ms": 200813,
       "name": "I Feel an Urge Coming On",
       "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
@@ -3319,7 +3352,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 226287,
       "name": "Keeps Me Light",
       "url": "https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV"
@@ -5346,6 +5379,24 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/6OzPiCJQmxVRKgYlD5XMMJ"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 236483,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2hxxoC0rF7UkUuaY9Lagjx"
+    },
+    {
+      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
       },
@@ -5487,7 +5538,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
@@ -5599,7 +5650,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 235413,
       "name": "Speaking With Trees",
       "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
@@ -5625,6 +5676,28 @@
       "duration_ms": 236217,
       "name": "Spin It Faster",
       "url": "https://open.spotify.com/track/1Pxmiq4HDoTUHiM7AkC6I8"
+    },
+    {
+      "album": {
+        "name": "Spin It Faster",
+        "url": "https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236217,
+      "name": "Spin It Faster",
+      "url": "https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO"
     },
     {
       "album": {
@@ -6497,7 +6570,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 224666,
       "name": "Turn Away",
       "url": "https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp"
@@ -6761,7 +6834,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 206933,
       "name": "When You're Away",
       "url": "https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH"
@@ -6837,6 +6910,28 @@
       "duration_ms": 229666,
       "name": "Woman",
       "url": "https://open.spotify.com/track/5HheAgHugjc04e0YOt4OIE"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/31FXylZSxeyXau0uevwdeu"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        },
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225908,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/43JOg7EAhMKqlkPr2mZUIP"
     },
     {
       "album": {

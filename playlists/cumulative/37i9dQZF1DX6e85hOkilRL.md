@@ -4,7 +4,7 @@
 
 > A playlist featuring instrumental lullaby versions of your favorite country tunes.
 
-73 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/2m4pXywMAaN7pHVpz8FeBY)
+73 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

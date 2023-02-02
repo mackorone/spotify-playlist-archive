@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly South African classics. Cover: <a href=\"https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3-HGc030gg\">Johnny Clegg</a>",
+  "description": "Mzansi's musical wealth and heritage in one playlist.",
   "name": "SA Gold",
-  "published_playlist_ids": [
-    "1IFZS22vComuhJSAqtDaVS"
-  ],
   "tracks": [
     {
       "album": {
@@ -237,7 +234,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 233200,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
@@ -403,7 +400,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-24",
       "duration_ms": 228360,
       "name": "Congratulate",
       "url": "https://open.spotify.com/track/2LgLbExDtMKJhEf4nWqCYS"
@@ -572,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Vintage Sounds of Johannesburg",
+        "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
+      },
+      "artists": [
+        {
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 292034,
+      "name": "Fester",
+      "url": "https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR"
+    },
+    {
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
       },
@@ -659,6 +674,24 @@
       "duration_ms": 387500,
       "name": "Heavenly Sent",
       "url": "https://open.spotify.com/track/1NXVk9diMIkX1ixmAR5itp"
+    },
+    {
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        }
+      ],
+      "date_added": "2019-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387500,
+      "name": "Heavenly Sent",
+      "url": "https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2"
     },
     {
       "album": {
@@ -1262,6 +1295,42 @@
     },
     {
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/2CwwI5ByOhauusaFinUl3R"
+      },
+      "artists": [
+        {
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 328666,
+      "name": "Mari Ye Phepha",
+      "url": "https://open.spotify.com/track/4ihVB27BAjQ43jxgYW2tNg"
+    },
+    {
+      "album": {
+        "name": "Styling Gel",
+        "url": "https://open.spotify.com/album/3vIQmHwydhOlrgLTbhePMF"
+      },
+      "artists": [
+        {
+          "name": "Pitch Black Afro",
+          "url": "https://open.spotify.com/artist/40hpSUVJeh3CRFkG0ANx5G"
+        }
+      ],
+      "date_added": "2019-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 289626,
+      "name": "Matofotofo",
+      "url": "https://open.spotify.com/track/2kgKTkzs9daHOfw0iywogr"
+    },
+    {
+      "album": {
         "name": "Tsotsi",
         "url": "https://open.spotify.com/album/3sxJlbcLIDvXZLbGSNnyq9"
       },
@@ -1309,7 +1378,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-24",
       "duration_ms": 225666,
       "name": "Mhlobo Wami",
       "url": "https://open.spotify.com/track/41iaiTayLoUcyUD6DGr4dm"
@@ -1327,7 +1396,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 287560,
       "name": "Ndawo Yami",
       "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
@@ -1425,6 +1494,24 @@
       "duration_ms": 271186,
       "name": "Ngud' (feat. Cassper Nyovest)",
       "url": "https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v"
+    },
+    {
+      "album": {
+        "name": "Zabalaza",
+        "url": "https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404360,
+      "name": "Nizalwa Ngobani?",
+      "url": "https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC"
     },
     {
       "album": {
@@ -1735,10 +1822,28 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-24",
       "duration_ms": 339133,
       "name": "Roba Letheka",
       "url": "https://open.spotify.com/track/5Y3V1EP3PhEuriQnsloibv"
+    },
+    {
+      "album": {
+        "name": "Khokhovula",
+        "url": "https://open.spotify.com/album/6YXDLVdeZESEiQnJhVyTkr"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 317760,
+      "name": "Sana Luma (Thats The Way Love Is)",
+      "url": "https://open.spotify.com/track/3YqlnQEyawncmoFW4YTMJS"
     },
     {
       "album": {
@@ -1869,7 +1974,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 261946,
       "name": "Sister Bethina",
       "url": "https://open.spotify.com/track/3fl49HroL5DvBAB9ezbj8w"
@@ -1927,6 +2032,28 @@
       "duration_ms": 231706,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/4os1fxyaKBOWDQ2SeooYos"
+    },
+    {
+      "album": {
+        "name": "Sondela",
+        "url": "https://open.spotify.com/album/7GeMrR8cQSwri1oBuAahiD"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        },
+        {
+          "name": "Sipho Mbele",
+          "url": "https://open.spotify.com/artist/5zzBzuDDkT4uz1UWubvWh5"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330605,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/749pe97jomnW5rw0mEjCkR"
     },
     {
       "album": {
@@ -2219,7 +2346,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 296680,
       "name": "Tot Die Son Uitkom",
       "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
@@ -2277,6 +2404,24 @@
       "duration_ms": 275360,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/3T0qk4IW6gwiQVG0JRYuwl"
+    },
+    {
+      "album": {
+        "name": "Mkhukhu Funkshen",
+        "url": "https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T"
+      },
+      "artists": [
+        {
+          "name": "Skwatta Kamp",
+          "url": "https://open.spotify.com/artist/5Y0pKQ51nrT0IBnd6zDRqk"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 275360,
+      "name": "Umoya",
+      "url": "https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF"
     },
     {
       "album": {
@@ -2519,6 +2664,24 @@
       "duration_ms": 263293,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/0ezeCh4MkDN8DRhiKwz5Pj"
+    },
+    {
+      "album": {
+        "name": "Dark Days Exit",
+        "url": "https://open.spotify.com/album/6QJmhprG4QVLv2nrqmRKYq"
+      },
+      "artists": [
+        {
+          "name": "Felix Laband",
+          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
+        }
+      ],
+      "date_added": "2019-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471973,
+      "name": "Whistling in Tongues",
+      "url": "https://open.spotify.com/track/3yGPPz2VJbscAtwWpyHaqj"
     },
     {
       "album": {

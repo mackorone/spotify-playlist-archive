@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0P2bZXPyjHYRW4guHVAFl1">ARMNHMR</a> Duo brings us a mix full of energy and heart\-pounding drops that will get you moving!
 
-30 songs - 59 min 6 sec - [published](https://open.spotify.com/playlist/0TR8uOaxr0tH9rvL826tQ2)
+30 songs - 59 min 6 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

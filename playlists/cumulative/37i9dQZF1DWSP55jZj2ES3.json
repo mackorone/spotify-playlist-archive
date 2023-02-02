@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Indie Dance and Alt Hip-Hop for cooling under the sunny sun sun. ",
+  "description": "Indie dance and alternative hip-hop for a mellow time. ",
   "name": "Park Hangs",
-  "published_playlist_ids": [
-    "0uKWr1Uzb37C6D49uTzEk7"
-  ],
   "tracks": [
     {
       "album": {
@@ -204,6 +201,24 @@
     },
     {
       "album": {
+        "name": "All Over This Party",
+        "url": "https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212830,
+      "name": "All Over This Party",
+      "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
+    },
+    {
+      "album": {
         "name": "New Me, Same Us",
         "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
       },
@@ -223,6 +238,28 @@
       "duration_ms": 158015,
       "name": "Are You Feeling Sad?",
       "url": "https://open.spotify.com/track/60v8m0VhlTqw7GgIQDxNbq"
+    },
+    {
+      "album": {
+        "name": "Thrill of the Arts",
+        "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181259,
+      "name": "Back Pocket",
+      "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
     },
     {
       "album": {
@@ -353,10 +390,28 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+    },
+    {
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
     },
     {
       "album": {
@@ -527,6 +582,28 @@
       "duration_ms": 162222,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM"
     },
     {
       "album": {
@@ -897,7 +974,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 169479,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/2RtNAFhj8eeu8ng4IJBlM5"
@@ -967,6 +1044,24 @@
     {
       "album": {
         "name": "Electric U",
+        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171696,
+      "name": "Electric U",
+      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
+    },
+    {
+      "album": {
+        "name": "Electric U",
         "url": "https://open.spotify.com/album/6VR3JKdOuR1tuMFQl7NgRv"
       },
       "artists": [
@@ -995,7 +1090,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 171696,
       "name": "Electric U",
       "url": "https://open.spotify.com/track/4yEw9bcmDHgIgqe8BCyDWy"
@@ -1169,7 +1264,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 164963,
       "name": "FYO",
       "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
@@ -2279,6 +2374,24 @@
     {
       "album": {
         "name": "Napkins",
+        "url": "https://open.spotify.com/album/1JyG3QDEsxszuDQYsqrivA"
+      },
+      "artists": [
+        {
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Napkins",
+      "url": "https://open.spotify.com/track/0YvzawIC5nFFYj5YAvv5HP"
+    },
+    {
+      "album": {
+        "name": "Napkins",
         "url": "https://open.spotify.com/album/01uQnrOaLJC13xdImR2Dtc"
       },
       "artists": [
@@ -2289,7 +2402,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 215625,
       "name": "Napkins",
       "url": "https://open.spotify.com/track/3PqnBkr83kaVQNKP0qYjQF"
@@ -2344,6 +2457,42 @@
     },
     {
       "album": {
+        "name": "TM",
+        "url": "https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "NEW SHOES",
+      "url": "https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H"
+    },
+    {
+      "album": {
+        "name": "Luv 4 Rent",
+        "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175018,
+      "name": "No L's",
+      "url": "https://open.spotify.com/track/12CNybio0Bxean3F3uYugU"
+    },
+    {
+      "album": {
         "name": "Nont For Sale",
         "url": "https://open.spotify.com/album/5W0wZsGfR0VeEGxXpLHgHY"
       },
@@ -2355,7 +2504,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 219690,
       "name": "Nont For Sale",
       "url": "https://open.spotify.com/track/1dSUiYNjblQ2Vd142K8kjn"
@@ -2489,7 +2638,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 205200,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
@@ -2511,6 +2660,24 @@
       "duration_ms": 132915,
       "name": "peppermint",
       "url": "https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx"
+    },
+    {
+      "album": {
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "album": {
@@ -2569,6 +2736,24 @@
       "duration_ms": 269411,
       "name": "Pool House",
       "url": "https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq"
+    },
+    {
+      "album": {
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "Put a Light On",
+      "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
     },
     {
       "album": {
@@ -2739,7 +2924,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 217386,
       "name": "Rockets (feat. Moe Moks)",
       "url": "https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy"
@@ -2761,6 +2946,28 @@
       "duration_ms": 252987,
       "name": "Roddy",
       "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
+    },
+    {
+      "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
     },
     {
       "album": {
@@ -2815,10 +3022,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 130714,
       "name": "Sea Sick",
       "url": "https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh"
+    },
+    {
+      "album": {
+        "name": "Sea Sick",
+        "url": "https://open.spotify.com/album/1XQYd61d9bQA3ba5xUrhKB"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130714,
+      "name": "Sea Sick",
+      "url": "https://open.spotify.com/track/3qiX7QXv6w6y4wsr5KP6U1"
     },
     {
       "album": {
@@ -2965,7 +3190,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 255520,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/0EudqIdrpZjHZ1pnSuBKgA"
@@ -3077,7 +3302,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 189506,
       "name": "soulboy",
       "url": "https://open.spotify.com/track/4Gkr7ol2xye6fPlBPRJo4R"
@@ -3366,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "sunset blvd",
+        "url": "https://open.spotify.com/album/3zpFpt8YfngeKLcsmdScrL"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106097,
+      "name": "sunset blvd",
+      "url": "https://open.spotify.com/track/6GwnFEbZstFLKZq7HCVH8T"
+    },
+    {
+      "album": {
         "name": "Dr. Buzzard's Original Savannah Band",
         "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
       },
@@ -3381,6 +3624,32 @@
       "duration_ms": 245573,
       "name": "Sunshower",
       "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
+    },
+    {
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
       "album": {
@@ -3403,7 +3672,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/46b23Nj2UftnN8jSWz4VR5"
@@ -3545,7 +3814,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 186195,
       "name": "THE TASTE feat. BJ The Chicago Kid & Papi Beatz",
       "url": "https://open.spotify.com/track/58aAwDsUeZsl5DjBkqMuBG"
@@ -3791,7 +4060,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 223601,
       "name": "Wake up Jacob",
       "url": "https://open.spotify.com/track/1in7Cdov9YrybYaboFzhzh"
@@ -3983,7 +4252,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-28",
       "duration_ms": 122298,
       "name": "Young",
       "url": "https://open.spotify.com/track/2t9K0Ufe2FttNut9DPCoAW"

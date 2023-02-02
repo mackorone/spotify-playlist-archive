@@ -4,7 +4,7 @@
 
 > Nadie puede quedarse callado cuando estos clásicos suenan en la tribuna.
 
-102 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/7JLQMvMjmUT8OSs9Wjf0X9)
+103 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Chelsea Dagger](https://open.spotify.com/track/67lUnONbmKswslSTtP9Jzu) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [00s Mixtape Vol\. 1](https://open.spotify.com/album/5QXHEmrzHWEMuEv4pfdVCV) | 3:35 | 2022-04-19 |  |
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2022-04-19 |  |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2022-10-28 |  |
-| [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2022-10-28 |  |
+| [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2022-10-28 | 2023-01-12 |
+| [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 | 2022-10-28 |  |
 | [Enter Sandman](https://open.spotify.com/track/5BIMPccDwShpXq784RJlJp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH) | 5:31 | 2022-04-19 | 2022-07-29 |
 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 | 2022-07-05 |  |
 | [Galvanize \- Edit](https://open.spotify.com/track/6wW4ES7Gx0zEKdbgcTL1hO) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Brotherhood](https://open.spotify.com/album/0koZYtM93uGBsPaD2uqa8A) | 4:28 | 2022-04-19 | 2022-10-29 |

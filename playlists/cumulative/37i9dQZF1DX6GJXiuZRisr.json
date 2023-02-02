@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
   "name": "Night Rider",
-  "published_playlist_ids": [
-    "76zaifZx3jEadyZfNlsyIR"
-  ],
   "tracks": [
     {
       "album": {
@@ -71,7 +68,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 188251,
       "name": "A Drug From God (Reb\u016bke Remix)",
       "url": "https://open.spotify.com/track/2O0ESQqVFf95Hcm6NMeEON"
@@ -387,6 +384,32 @@
       "duration_ms": 224978,
       "name": "All I Want (feat. Goatchy)",
       "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/67wKBjmJ98YFQAwBHpw38W"
+      },
+      "artists": [
+        {
+          "name": "Ampris",
+          "url": "https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2"
+        },
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        },
+        {
+          "name": "MICAH",
+          "url": "https://open.spotify.com/artist/2YrneHqbMOEKtGG6SxP8FL"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148973,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/2Pwcpc8IEcnH3Vv46vToTO"
     },
     {
       "album": {
@@ -719,7 +742,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 395449,
       "name": "Belfast - Yotto Remix",
       "url": "https://open.spotify.com/track/03cAFCWyzUOFus6Os8EoQG"
@@ -1459,7 +1482,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": "2023-01-22",
       "duration_ms": 182400,
       "name": "Discopolis 2.0 - MEDUZA Remix",
       "url": "https://open.spotify.com/track/1zu8sQCLjW5jtzf7JVpGop"
@@ -1707,7 +1730,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 440106,
       "name": "Everyday - Jennifer Cardini Remix",
       "url": "https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf"
@@ -2053,7 +2076,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 244982,
       "name": "Follow You Anywhere",
       "url": "https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO"
@@ -2204,7 +2227,7 @@
         },
         {
           "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2YL8UqzkqxspHtnBkDWyVA"
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
         }
       ],
       "date_added": "2021-05-07",
@@ -2437,7 +2460,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 193563,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
@@ -3252,6 +3275,32 @@
     },
     {
       "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2NjwadjbSBDELXLElNoBaV"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "S\u00d8NIN",
+          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
+        },
+        {
+          "name": "AunA",
+          "url": "https://open.spotify.com/artist/3WKwSfbeWEtLBUENdbdJ2A"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286387,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/3KD6IJoaBg3i7efqistOnh"
+    },
+    {
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/4VbQUD0I1oHtwVbmcIx6rr"
       },
@@ -3743,7 +3792,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 267488,
       "name": "My Stripes",
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
@@ -4127,6 +4176,36 @@
       "duration_ms": 261780,
       "name": "One Blood",
       "url": "https://open.spotify.com/track/6GsiVoZNXLGo4WecVIak0r"
+    },
+    {
+      "album": {
+        "name": "Only For The Night",
+        "url": "https://open.spotify.com/album/1Tb49CVypOagsQZqGsQHxz"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        },
+        {
+          "name": "Higher Lane",
+          "url": "https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184843,
+      "name": "Only For The Night",
+      "url": "https://open.spotify.com/track/1UaBt4vluuMX0prcp6et4E"
     },
     {
       "album": {
@@ -4839,7 +4918,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 291840,
       "name": "Rush - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
@@ -4861,7 +4940,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 250587,
       "name": "Say",
       "url": "https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9"
@@ -5649,7 +5728,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 213571,
       "name": "Temper Temper (feat. ONR)",
       "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
@@ -5999,7 +6078,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 234098,
       "name": "Time and Time Again - Single Edit",
       "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
@@ -6068,6 +6147,32 @@
     },
     {
       "album": {
+        "name": "To the Sea",
+        "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452000,
+      "name": "To the Sea - Einmusik Remix",
+      "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+    },
+    {
+      "album": {
         "name": "Too Little Too Late (Little Late Edit)",
         "url": "https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy"
       },
@@ -6083,7 +6188,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 258984,
       "name": "Too Little Too Late - Little Late Edit",
       "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
@@ -6189,7 +6294,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 244543,
       "name": "Turning Away",
       "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
@@ -6356,6 +6461,28 @@
     },
     {
       "album": {
+        "name": "Unlovable",
+        "url": "https://open.spotify.com/album/6uXqIAEVfndXVq4KPNMiHo"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 242053,
+      "name": "Unlovable",
+      "url": "https://open.spotify.com/track/0mPDsawVHviPjbUw67yEbb"
+    },
+    {
+      "album": {
         "name": "Vallut Bass",
         "url": "https://open.spotify.com/album/2u0mZypCSZa9vMm32FYyEN"
       },
@@ -6395,7 +6522,7 @@
           "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
         }
       ],
-      "date_added": "2022-11-26",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189102,
@@ -6469,7 +6596,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-24",
       "duration_ms": 232379,
       "name": "Vommuli",
       "url": "https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU"

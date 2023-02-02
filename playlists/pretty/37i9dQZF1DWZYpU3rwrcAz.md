@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,367 likes - 42 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,142 likes - 42 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nocturne No\. 2 in E\-Flat Major, Op\. 9 No\. 2](https://open.spotify.com/track/1VNvsvEsUpuUCbHpVop1vo) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Chopin: Nocturnes](https://open.spotify.com/album/3zHkuOkUqIgRwCcVnbX9qf) | 4:33 |
 | 2 | [Nocturne in E minor, Op\. 72, No\. 1](https://open.spotify.com/track/7znKXBOyLR50MmA99KgHO8) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janusz Olejniczak](https://open.spotify.com/artist/0MeUJOSv5a75mNQzh266Ay) | [The Pianist \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GFVUnvZBGjE29iZzwbhZT) | 4:22 |
 | 3 | [Nocturne, Op\. 15: No\. 3](https://open.spotify.com/track/3D6cnlBHXkFAa0CSFAXeaK) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Peter Schmalfuss](https://open.spotify.com/artist/7mOe6jfxX9EILXET9l5L6H) | [Chopin: Etudes, Op\. 10 \- Fantasy, Op\. 49 \- Impromptu No\. 4 \- Nocturnes](https://open.spotify.com/album/6D2SdGTG1ettEhCMyUoCGr) | 4:53 |
-| 4 | [Nocturne in B\-Flat Minor, Op\. 9, No\. 1](https://open.spotify.com/track/11mr6MSfxepLWMRqASkdVA) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Feltsman](https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM) | [Chopin: Complete Noctures, Barcarolle, Berceuse](https://open.spotify.com/album/5hWRkuxBnUvjSIQex2SLKn) | 5:34 |
+| 4 | [Nocturne in B\-Flat Minor, Op\. 9, No\. 1](https://open.spotify.com/track/11mr6MSfxepLWMRqASkdVA) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Feltsman](https://open.spotify.com/artist/2YU2DA6yZZ0pmcR4utb3TM) | [Chopin: Complete Nocturnes, Barcarolle, Berceuse](https://open.spotify.com/album/5hWRkuxBnUvjSIQex2SLKn) | 5:34 |
 | 5 | [Nocturne for Piano No\. 8 in D\-Flat Major, Op\. 9](https://open.spotify.com/track/3qtmteHNFbo5hp2XdsaXIy) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vitalij Margulis](https://open.spotify.com/artist/3PIxxguXMIqAu6mSQkUTog) | [Chopin: Etudes, Op\. 10 \- Grande Polonaise \- Nocturne](https://open.spotify.com/album/4ydJBYXuNFXOyT3fBCHOyK) | 6:34 |
 | 6 | [Waltz No\. 19 in A minor, Op\. posth.](https://open.spotify.com/track/71MpmxCJ1TW05c7Fvv1SfI) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Peter Jablonski](https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E) | [Chopin: Waltzes, etc.](https://open.spotify.com/album/41S7roh2KH78FqcrAvlv2U) | 2:12 |
 | 7 | [Prélude in E minor, Op\. 28, No\. 4](https://open.spotify.com/track/1aMUmQmSBpmMVpyY804ksh) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janusz Olejniczak](https://open.spotify.com/artist/0MeUJOSv5a75mNQzh266Ay) | [The Pianist \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GFVUnvZBGjE29iZzwbhZT) | 2:26 |

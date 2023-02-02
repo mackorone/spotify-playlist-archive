@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "The official playlist for Heartstopper. Watch now on Netflix!",
   "name": "Heartstopper: Official Mixtape",
-  "published_playlist_ids": [
-    "0G1uVTUNlFPG93qLUAtTWg"
-  ],
   "tracks": [
     {
       "album": {
@@ -31,7 +28,7 @@
     {
       "album": {
         "name": "Angel",
-        "url": "https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU"
+        "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
       },
       "artists": [
         {
@@ -46,6 +43,28 @@
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236486,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S"

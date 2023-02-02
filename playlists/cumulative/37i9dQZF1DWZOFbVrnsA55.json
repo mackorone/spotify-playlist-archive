@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Slow down and embrace the immensity of time. This is just an ambient blip in the long now.",
   "name": "A Long Now",
-  "published_playlist_ids": [
-    "4SP4Cy0AvsFCUHp75jyueu"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,6 +92,24 @@
       "duration_ms": 5498000,
       "name": "20,880 Breaths",
       "url": "https://open.spotify.com/track/6EmOhzudC2WiEGFj0o5mru"
+    },
+    {
+      "album": {
+        "name": "Paradoxically, forgetting",
+        "url": "https://open.spotify.com/album/4Pwr8F2x5SWLapkvscTJVN"
+      },
+      "artists": [
+        {
+          "name": "Weatherson",
+          "url": "https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 835000,
+      "name": "2679 miles away",
+      "url": "https://open.spotify.com/track/4B4jWWkkgJ13lSbph0T3GQ"
     },
     {
       "album": {
@@ -403,6 +418,24 @@
       "duration_ms": 1514986,
       "name": "Altar of Stillness",
       "url": "https://open.spotify.com/track/1dWSpooolcmbVTN0327EOu"
+    },
+    {
+      "album": {
+        "name": "Ambient 23",
+        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546586,
+      "name": "amb23 - 2",
+      "url": "https://open.spotify.com/track/3CTqW27qR4vdZXxykgfiWW"
     },
     {
       "album": {
@@ -717,10 +750,32 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 4779226,
       "name": "Blues Alif Lam Mim in the Mode of Rag Infinity/Rag Cosmosis",
       "url": "https://open.spotify.com/track/2EcsloTKawzUCighnu0QkY"
+    },
+    {
+      "album": {
+        "name": "Blues Alif Lam Mim",
+        "url": "https://open.spotify.com/album/3fAkkYuTTs3B073gRZZcjj"
+      },
+      "artists": [
+        {
+          "name": "Catherine Christer Hennix",
+          "url": "https://open.spotify.com/artist/0LeiNM0WQcKYUOIhTNzuCa"
+        },
+        {
+          "name": "Chora(s)san Time-Court Mirage",
+          "url": "https://open.spotify.com/artist/3ROXxTWrLEKJz5qVvqUele"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4779226,
+      "name": "Blues Alif Lam Mim in the Mode of Rag Infinity/Rag Cosmosis",
+      "url": "https://open.spotify.com/track/2Zqa8Gff5YFuOgtkjL0cOR"
     },
     {
       "album": {
@@ -963,7 +1018,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 1290160,
       "name": "Charm (Over \"Burundi Cloud\")",
       "url": "https://open.spotify.com/track/5V5NS2wWOiu9uOPDVOgwOT"
@@ -1211,6 +1266,24 @@
     {
       "album": {
         "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 702146,
+      "name": "Darbari Bridge",
+      "url": "https://open.spotify.com/track/0EiW7uVV0szH089yAUf5xX"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
         "url": "https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D"
       },
       "artists": [
@@ -1221,7 +1294,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 702146,
       "name": "Darbari Bridge",
       "url": "https://open.spotify.com/track/3IG17OU64mtHaPXz6ziFqN"
@@ -1533,6 +1606,24 @@
       "duration_ms": 1536972,
       "name": "Electronic Extension I",
       "url": "https://open.spotify.com/track/1uIkWbgmIcQdM0FZUeQmuK"
+    },
+    {
+      "album": {
+        "name": "Low-Life (Definitive)",
+        "url": "https://open.spotify.com/album/1zw2R2jhDJf7BFJMR0aOSq"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1050920,
+      "name": "Elegia - Full Length Version; 2022 Digital Master",
+      "url": "https://open.spotify.com/track/4kIEH2w2Hg3kU90V0P2yt6"
     },
     {
       "album": {
@@ -1993,10 +2084,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 851026,
       "name": "Garbagemx",
       "url": "https://open.spotify.com/track/2RV3SKkEt4HDfVNwvz2MeN"
+    },
+    {
+      "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 851533,
+      "name": "Garbagemx",
+      "url": "https://open.spotify.com/track/0rELU1927cX3fBCNdMbWXY"
     },
     {
       "album": {
@@ -4769,10 +4878,50 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 1052000,
       "name": "Space 8",
       "url": "https://open.spotify.com/track/1vDr33ErpWkmSc29e7eXIL"
+    },
+    {
+      "album": {
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1052000,
+      "name": "Space 8",
+      "url": "https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt"
+    },
+    {
+      "album": {
+        "name": "St / Fr / Sp",
+        "url": "https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        },
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 737040,
+      "name": "Spangle - Autechre Remix",
+      "url": "https://open.spotify.com/track/0BuArFcrzfYe3TnKcpYsoD"
     },
     {
       "album": {
@@ -4791,7 +4940,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 737040,
       "name": "Spangle - Autechre Remix",
       "url": "https://open.spotify.com/track/0rHnnaxK2XcY4HSkSnQmOF"
@@ -5207,10 +5356,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 1158173,
       "name": "The Harbinger of Spring",
       "url": "https://open.spotify.com/track/15dIlwTJFRujbZmCy9hJwK"
+    },
+    {
+      "album": {
+        "name": "Children Of Alice",
+        "url": "https://open.spotify.com/album/7AnAtLrO3TuRT3R0OflU37"
+      },
+      "artists": [
+        {
+          "name": "Children Of Alice",
+          "url": "https://open.spotify.com/artist/2OOXmKexjZQCmqLYJk4FMa"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1158173,
+      "name": "The Harbinger of Spring",
+      "url": "https://open.spotify.com/track/2OjMEmzynpNuNAMG79N1Ts"
     },
     {
       "album": {
@@ -5849,10 +6016,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 1314912,
       "name": "Vernal Equinox",
       "url": "https://open.spotify.com/track/3EIv3TZlRfeTpmXS7uoRFq"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1314912,
+      "name": "Vernal Equinox",
+      "url": "https://open.spotify.com/track/5GIGWcHy4Z9MZcXfPwRd7z"
     },
     {
       "album": {

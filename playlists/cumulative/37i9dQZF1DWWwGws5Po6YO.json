@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-09",
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
   "name": "EQUAL Ambient",
-  "published_playlist_ids": [
-    "3Cfws2NIwPEctch5DfP3Jy"
-  ],
   "tracks": [
     {
       "album": {
@@ -257,7 +254,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 281202,
       "name": "Blue Shit",
       "url": "https://open.spotify.com/track/5MQPW3rjoZ2VuIFePdWE5d"
@@ -377,7 +374,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
@@ -399,7 +396,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
@@ -841,7 +838,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 321693,
       "name": "In Her Hair",
       "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
@@ -1745,7 +1742,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
@@ -2182,6 +2179,28 @@
     },
     {
       "album": {
+        "name": "LAYERS",
+        "url": "https://open.spotify.com/album/52V08L7diSUAIP9Mt4eXjV"
+      },
+      "artists": [
+        {
+          "name": "Mara Simpson",
+          "url": "https://open.spotify.com/artist/1qn02YVZeKMegZimHpELHH"
+        },
+        {
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 249306,
+      "name": "Traquair (LAYERS ambient)",
+      "url": "https://open.spotify.com/track/1cUOojLPXn3SSGXvnil5qC"
+    },
+    {
+      "album": {
         "name": "Holotropica",
         "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
       },
@@ -2193,7 +2212,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "Ubiquitous",
       "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"

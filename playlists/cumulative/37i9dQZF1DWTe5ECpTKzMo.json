@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-24",
   "description": "Solo \u00e9xitos locales pasados, chapados en oro. Aleman en portada.",
   "name": "Hip-Hop MX 24k",
-  "published_playlist_ids": [
-    "6rR9impfdl0qRPEpFRtBnL"
-  ],
   "tracks": [
     {
       "album": {
@@ -173,7 +170,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 165801,
       "name": "Borracho Gacho",
       "url": "https://open.spotify.com/track/4OzmPHAqniJC1yMuDh9lmC"
@@ -199,6 +196,28 @@
       "duration_ms": 166800,
       "name": "Borracho Gacho",
       "url": "https://open.spotify.com/track/3fy4CajqticmYK5wXYF9lE"
+    },
+    {
+      "album": {
+        "name": "El Vicio y la Fama",
+        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165801,
+      "name": "Borracho Gacho (feat. Dharius)",
+      "url": "https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN"
     },
     {
       "album": {
@@ -429,10 +448,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 229610,
       "name": "El Catr\u00edn",
       "url": "https://open.spotify.com/track/5ZEtlzWIMKPyLcZUbTbn5w"
+    },
+    {
+      "album": {
+        "name": "El Vicio y la Fama",
+        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229610,
+      "name": "El Catr\u00edn (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
     },
     {
       "album": {
@@ -1365,6 +1406,28 @@
     {
       "album": {
         "name": "Se Me Olvid\u00f3",
+        "url": "https://open.spotify.com/album/6sbeex4HisXrm68OJuUR2g"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220300,
+      "name": "Se Me Olvid\u00f3",
+      "url": "https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk"
+    },
+    {
+      "album": {
+        "name": "Se Me Olvid\u00f3",
         "url": "https://open.spotify.com/album/395Nz8wkDHb8ebR6mMagdf"
       },
       "artists": [
@@ -1379,7 +1442,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 220300,
       "name": "Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg"

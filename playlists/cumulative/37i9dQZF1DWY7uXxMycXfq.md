@@ -4,7 +4,7 @@
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-108 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/34ALKhfWb0HiyjEM3uR89z)
+110 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,10 @@
 | [Lila Fi Tounes](https://open.spotify.com/track/3iu9CP00CI0RkU6r2O4MZ6) | [Deena Abdelwahed](https://open.spotify.com/artist/20fUkJZtm2I6zdIuj2XpgV) | [Lila Fi Tounes](https://open.spotify.com/album/6sWThyKtIXhYvRbd9Fdlch) | 5:28 | 2021-06-30 |  |
 | [Linguistics Of Atoms](https://open.spotify.com/track/23WxUKkZ2UtaM02LkpFdUE) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 5:58 | 2021-06-30 |  |
 | [Listen and See as They Take](https://open.spotify.com/track/5aaJjmQ4lUVZGkdDt4A2Em) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Lifetime](https://open.spotify.com/album/6vZszIMZ7Spzca3C7QSgaY) | 5:02 | 2021-06-30 |  |
-| [Love Birds \(acoustic\) \- WXAXRXP Session](https://open.spotify.com/track/2mpxwkwJKrTCTpWLxetAJn) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [WXAXRXP Session](https://open.spotify.com/album/33aX0rd6cQXvAggwL52puW) | 4:31 | 2021-06-30 |  |
-| [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/track/2eK9fQF84eSw3DqJ7LbPOQ) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/album/3JEIiy4nCsXBudx1QZevuC) | 4:26 | 2021-06-30 |  |
+| [Love Birds \(acoustic\) \- WXAXRXP Session](https://open.spotify.com/track/2mpxwkwJKrTCTpWLxetAJn) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [WXAXRXP Session](https://open.spotify.com/album/33aX0rd6cQXvAggwL52puW) | 4:31 | 2021-06-30 | 2023-02-02 |
+| [Love Birds \(acoustic\) \- WXAXRXP Session](https://open.spotify.com/track/5HHUcRqLOs9OkTf4qNX6lF) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [WXAXRXP Session](https://open.spotify.com/album/3t9hFz7sq6MnhtTVceRB8R) | 4:31 | 2021-06-30 |  |
+| [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/track/2eK9fQF84eSw3DqJ7LbPOQ) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/album/3JEIiy4nCsXBudx1QZevuC) | 4:26 | 2021-06-30 | 2023-02-02 |
+| [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/track/4qYshoEFhmPtEHBYX3n9xp) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/album/2wm5AfDrhMn9IlDfhJWQP5) | 4:26 | 2021-06-30 |  |
 | [L’Enfant Et Le Poulpe](https://open.spotify.com/track/54H7J3fGubgBzSoSCcn4CL) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 5:58 | 2021-06-30 |  |
 | [Magic Square](https://open.spotify.com/track/1w5qL6CSESiVhCAAIBHce5) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Maquishti](https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc) | 6:53 | 2021-06-30 |  |
 | [Magic Square](https://open.spotify.com/track/62vCBgw9yZcl7aMkovioOG) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Improvisation VI](https://open.spotify.com/album/44u2fyHj47YkM0MhDpFOW2) | 6:53 | 2021-06-30 | 2022-07-29 |

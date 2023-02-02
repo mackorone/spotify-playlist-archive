@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-13",
   "description": "Country tracks to pump up your gaming.",
   "name": "Country Gaming",
-  "published_playlist_ids": [
-    "61BrKcCm67FF5LnuWRLfG5"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 210506,
       "name": "7 Summers",
       "url": "https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ"
@@ -277,7 +274,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 202018,
       "name": "Can't Stop Us Now",
       "url": "https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX"
@@ -454,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/532HZrT6uAekC4urDonoXa"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232058,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg"
+    },
+    {
+      "album": {
         "name": "Flower Shops (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
       },
@@ -541,7 +556,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 189442,
       "name": "Greener Pasture",
       "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
@@ -563,6 +578,24 @@
       "duration_ms": 191693,
       "name": "Gunpowder & Lead",
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
+    },
+    {
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183573,
+      "name": "Hate My Heart",
+      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
     },
     {
       "album": {
@@ -599,7 +632,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 300680,
       "name": "Hippies and Cowboys",
       "url": "https://open.spotify.com/track/1YWSAC0JPLKpf0PVCie4T7"
@@ -660,6 +693,28 @@
     },
     {
       "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168117,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
+    },
+    {
+      "album": {
         "name": "If I Was a Cowboy",
         "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
       },
@@ -714,6 +769,24 @@
     },
     {
       "album": {
+        "name": "JACK",
+        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
+    },
+    {
+      "album": {
         "name": "Kill The Lights (Deluxe)",
         "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
       },
@@ -725,7 +798,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-10",
       "duration_ms": 190586,
       "name": "Kick The Dust Up",
       "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
@@ -773,6 +846,24 @@
     {
       "album": {
         "name": "Adobe Sessions",
+        "url": "https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230012,
+      "name": "Loud and Heavy",
+      "url": "https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE"
+    },
+    {
+      "album": {
+        "name": "Adobe Sessions",
         "url": "https://open.spotify.com/album/5wSwd9cxD1Ii8yvgxUnyr3"
       },
       "artists": [
@@ -783,7 +874,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 230012,
       "name": "Loud and Heavy",
       "url": "https://open.spotify.com/track/7JnCZ9w4HwDdCbJsIwS4SA"
@@ -801,7 +892,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 234493,
       "name": "Man! I Feel Like A Woman!",
       "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
@@ -964,6 +1055,28 @@
     },
     {
       "album": {
+        "name": "One Night Left",
+        "url": "https://open.spotify.com/album/75GJeU8rvUnX8TmK5Jm1D4"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 207017,
+      "name": "One Night Left",
+      "url": "https://open.spotify.com/track/00vXdYgi7qL8qk0DOWRmfQ"
+    },
+    {
+      "album": {
         "name": "One Of Them Girls",
         "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
       },
@@ -979,6 +1092,24 @@
       "duration_ms": 188893,
       "name": "One Of Them Girls",
       "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time (Sampler)",
+        "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206864,
+      "name": "One Thing At A Time",
+      "url": "https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE"
     },
     {
       "album": {
@@ -1033,6 +1164,24 @@
       "duration_ms": 205426,
       "name": "Ridin\u2019 Roads",
       "url": "https://open.spotify.com/track/2VPmBOuy7ZAOFSzKwW2IEt"
+    },
+    {
+      "album": {
+        "name": "Rock and A Hard Place",
+        "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
     },
     {
       "album": {
@@ -1281,7 +1430,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 193093,
       "name": "Thank God I'm a Country Boy",
       "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
@@ -1353,7 +1502,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 208280,
       "name": "The Way I Talk",
       "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
@@ -1371,7 +1520,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 194426,
       "name": "There Was This Girl",
       "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
@@ -1498,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "TRUCK BED",
+        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
+    },
+    {
+      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
@@ -1531,10 +1698,36 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 298373,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
+    },
+    {
+      "album": {
+        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155495,
+      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
     },
     {
       "album": {
@@ -1603,7 +1796,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 201840,
       "name": "Where I Come From",
       "url": "https://open.spotify.com/track/1YR1ChVR8n5EtLRIIDhRTF"
@@ -1643,6 +1836,24 @@
       "duration_ms": 183789,
       "name": "Whiskey On You",
       "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
+    },
+    {
+      "album": {
+        "name": "Wild as Her",
+        "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199733,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
     },
     {
       "album": {

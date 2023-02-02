@@ -4,7 +4,7 @@
 
 > Joining the formal campaign to get the Lizzie McGuire reboot back in production.
 
-119 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6zZEew2FmrtE0tFqgmTPFu)
+119 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

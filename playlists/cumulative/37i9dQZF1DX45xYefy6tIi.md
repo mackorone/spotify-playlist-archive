@@ -4,7 +4,7 @@
 
 > The journey to Los Angeles to crown "the emperor" of college football starts now\. Check out some amazing anthems and inspiring tracks to underscore the 2022 College football season.
 
-291 songs - 19 hr 19 min - [published](https://open.spotify.com/playlist/797Bj2eG1Mp1bVWYfkxMMo)
+291 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

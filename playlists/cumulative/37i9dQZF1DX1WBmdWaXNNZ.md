@@ -4,7 +4,7 @@
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-119 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/22qlKi8WPucrn2tBUEeuG7)
+122 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,9 @@
 | [Friend Ship](https://open.spotify.com/track/6BQkSdgPMRdXTfW3ZT0WHY) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [YELLOW DANCER](https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax) | 4:42 | 2022-04-07 | 2022-07-29 |
 | [FUSHIGI](https://open.spotify.com/track/3dPpQeLTWjCjEbSevDMQfW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [FUSHIGI](https://open.spotify.com/album/0DgaDZNp5WTWVpCS8jYI5M) | 4:50 | 2022-07-17 |  |
 | [Gag](https://open.spotify.com/track/1qr5ewvJ25GNZ84K5R94z8) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Gag](https://open.spotify.com/album/6A3T1oQsAklCecRLwiKPps) | 4:42 | 2022-07-17 |  |
+| [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/episode/2g2kFHrb2bFWdWe2I59IIM) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/show/0BLVSv3WdigtRGaZwaWnM9) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/show/0BLVSv3WdigtRGaZwaWnM9) | 5:15 | 2022-12-19 | 2023-01-18 |
+| [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/episode/4Egod6HWtLiHMbepJg4B6Q) | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/show/1Sqer3M4kCCnAnl8AeQ1No) | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/show/1Sqer3M4kCCnAnl8AeQ1No) | 4:04 | 2022-12-19 | 2023-01-18 |
+| [Gen Hoshino \- 異世界混合大舞踏会 \(I Wanna Be Your Ghost\) \- Go Stream Live ver.](https://open.spotify.com/episode/1zQZIMixATUl1sHH5ZN9nf) | [Gen Hoshino \- 異世界混合大舞踏会 \(I Wanna Be Your Ghost\) \- Go Stream Live ver.](https://open.spotify.com/show/7nW6YMuNBl9gG5IMlYNrur) | [Gen Hoshino \- 異世界混合大舞踏会 \(I Wanna Be Your Ghost\) \- Go Stream Live ver.](https://open.spotify.com/show/7nW6YMuNBl9gG5IMlYNrur) | 4:10 | 2022-12-19 | 2023-01-18 |
 | [Get a Feel](https://open.spotify.com/track/0EDr2psGs1hBVSKHOS5lOY) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 3:07 | 2022-07-17 |  |
 | [Get a Feel](https://open.spotify.com/track/7cwzoU55oSCNP7m8dWDShQ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86) | 3:07 | 2022-04-07 | 2022-07-29 |
 | [Hada](https://open.spotify.com/track/1FbnblJUrxTv7uGSilSu54) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 3:59 | 2022-07-17 |  |

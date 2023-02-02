@@ -4,7 +4,7 @@
 
 > All his biggest hits, in one place.
 
-77 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/1ubXN8ZL3te8j1JSTcPftP)
+77 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 | 2021-12-03 |  |
 | [Hearts Don't Break Around Here](https://open.spotify.com/track/2dfHh7ECGxfNqZTQno09Vk) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:08 | 2021-12-03 |  |
 | [How Would You Feel \(Paean\)](https://open.spotify.com/track/6PJ8FF6UR8FZXfEvpHkIVN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:40 | 2021-12-03 |  |
-| [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 | 2021-12-03 |  |
+| [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 | 2021-12-03 |  |
 | [I See Fire](https://open.spotify.com/track/5pY3ovFxbvAg7reGZjJQSp) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:59 | 2021-12-03 | 2022-07-29 |
 | [I See Fire](https://open.spotify.com/track/1fu5IQSRgPxJL2OTP7FVLW) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The Hobbit: The Desolation of Smaug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6KX0qrnnPlmBrI2BEXJV9Q) | 5:00 | 2022-04-22 |  |
 | [I See Fire](https://open.spotify.com/track/3Ycd1dFYbICkBHEtfpw5JB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The Hobbit: The Desolation of Smaug \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/3MCUHjDo3wSm2QuLh1Fyrf) | 5:00 | 2022-08-12 | 2022-11-13 |

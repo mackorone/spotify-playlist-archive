@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Classical compositions from Ravi Shankar and more.",
   "name": "Indian Classical",
-  "published_playlist_ids": [
-    "0OzLeNCd06oXDuQuswKVyQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -31,7 +28,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 890040,
       "name": "Adamodi Galade - Charukesi - Adi",
       "url": "https://open.spotify.com/track/0dXVxyxhEX97atc7fbWJFy"
@@ -78,6 +75,28 @@
     },
     {
       "album": {
+        "name": "Swar Venu",
+        "url": "https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5"
+      },
+      "artists": [
+        {
+          "name": "Milind Date",
+          "url": "https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx"
+        },
+        {
+          "name": "Charudatta Phadke",
+          "url": "https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 735466,
+      "name": "Bheempalas-Ek Taal (feat. Charudatta Phadke)",
+      "url": "https://open.spotify.com/track/6oSEq00mzuxI7FpRNc84qc"
+    },
+    {
+      "album": {
         "name": "Strings Of Harmony - Violin On 3 Octaves",
         "url": "https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob"
       },
@@ -111,6 +130,50 @@
       "duration_ms": 1224466,
       "name": "Chandrakaush Alap",
       "url": "https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY"
+    },
+    {
+      "album": {
+        "name": "Raag Darbari Kannada",
+        "url": "https://open.spotify.com/album/6xFMAWesokFJbF1iwmASBb"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Tamaghna Chakraborty",
+          "url": "https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431800,
+      "name": "Darbari Kanara Jod and Jhalla",
+      "url": "https://open.spotify.com/track/7kXIHzGUKI7pwOUadVeNvt"
+    },
+    {
+      "album": {
+        "name": "Raag Darbari Kannada",
+        "url": "https://open.spotify.com/album/6xFMAWesokFJbF1iwmASBb"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Tamaghna Chakraborty",
+          "url": "https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 617851,
+      "name": "Darbari Kanara Teen Taal",
+      "url": "https://open.spotify.com/track/4vbdaxGG6dbM6XuahtO4aI"
     },
     {
       "album": {
@@ -155,10 +218,54 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 1070438,
       "name": "Dhun Pahari",
       "url": "https://open.spotify.com/track/6MrK3tQ2yLbRtQYfPQ22uS"
+    },
+    {
+      "album": {
+        "name": "Swar Venu",
+        "url": "https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5"
+      },
+      "artists": [
+        {
+          "name": "Milind Date",
+          "url": "https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx"
+        },
+        {
+          "name": "Charudatta Phadke",
+          "url": "https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498696,
+      "name": "Durga-Drut Teen Taal (feat. Charudatta Phadke)",
+      "url": "https://open.spotify.com/track/1ODne1DAqhVLRBxgJaPCqv"
+    },
+    {
+      "album": {
+        "name": "Swar Venu",
+        "url": "https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5"
+      },
+      "artists": [
+        {
+          "name": "Milind Date",
+          "url": "https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx"
+        },
+        {
+          "name": "Charudatta Phadke",
+          "url": "https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490398,
+      "name": "Durga-Teen Taal (feat. Charudatta Phadke)",
+      "url": "https://open.spotify.com/track/46HkypvxRVq9sINstyurMa"
     },
     {
       "album": {
@@ -217,7 +324,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 446587,
       "name": "Jagadodharana (Kadri Gopalnath-Sax)",
       "url": "https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp"
@@ -253,10 +360,28 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 284666,
       "name": "Kaliyugavaradana",
       "url": "https://open.spotify.com/track/7JiPoVDTmteJ0USnow2C1p"
+    },
+    {
+      "album": {
+        "name": "Prabhat Sagar",
+        "url": "https://open.spotify.com/album/42DZZlRvrsRP2MkzHoabLy"
+      },
+      "artists": [
+        {
+          "name": "Milind Date",
+          "url": "https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592127,
+      "name": "Mangal Bhairav-Jod",
+      "url": "https://open.spotify.com/track/2pPM04AXTJX2PPkYiOrKXc"
     },
     {
       "album": {
@@ -275,6 +400,32 @@
       "duration_ms": 204186,
       "name": "Meevalla",
       "url": "https://open.spotify.com/track/0qgq1JUHLMv2K6YJdt959l"
+    },
+    {
+      "album": {
+        "name": "Mohanam",
+        "url": "https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359960,
+      "name": "Mohanam",
+      "url": "https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs"
     },
     {
       "album": {
@@ -337,6 +488,72 @@
       "duration_ms": 434770,
       "name": "Palna Jhule Nandlal",
       "url": "https://open.spotify.com/track/68bndjlqZTrbOa5qhts7ev"
+    },
+    {
+      "album": {
+        "name": "Raag Hansdhwani",
+        "url": "https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Shubhabrata Saha",
+          "url": "https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267698,
+      "name": "Raag Hansdhwani Alap",
+      "url": "https://open.spotify.com/track/7BJmfkCvVytUurjcApEbHg"
+    },
+    {
+      "album": {
+        "name": "Raag Hansdhwani",
+        "url": "https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Shubhabrata Saha",
+          "url": "https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569438,
+      "name": "Raag Hansdhwani Gat in Matta Taal",
+      "url": "https://open.spotify.com/track/1hrJRx256v2UR6maarb8gT"
+    },
+    {
+      "album": {
+        "name": "Raag Hansdhwani",
+        "url": "https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Shubhabrata Saha",
+          "url": "https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336329,
+      "name": "Raag Hansdhwani Jod and Jhalla",
+      "url": "https://open.spotify.com/track/7Ms7N8GxU46EsS57GECJu0"
     },
     {
       "album": {
@@ -487,10 +704,36 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 2294000,
       "name": "Rag Miya Ki Todi",
       "url": "https://open.spotify.com/track/1swbYA2tiIOZTRpqCfsQLv"
+    },
+    {
+      "album": {
+        "name": "Namma Classical Vol 3",
+        "url": "https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "Madhusoodan Bhat",
+          "url": "https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP"
+        },
+        {
+          "name": "Kaushik Bhat",
+          "url": "https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2311680,
+      "name": "Raga Bageshri (Feat. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat)",
+      "url": "https://open.spotify.com/track/76VdHPvjGgWEj3xEMdTsWn"
     },
     {
       "album": {
@@ -697,7 +940,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 232906,
       "name": "Raga Madhmad Sarang",
       "url": "https://open.spotify.com/track/1cGxMjMc9GMR1RkB31Ogok"
@@ -723,6 +966,32 @@
       "duration_ms": 232906,
       "name": "Raga Madhmad Sarang (Khyal in madhya lay teental)",
       "url": "https://open.spotify.com/track/5SotfPyX4aQ9ofdbG5HwCK"
+    },
+    {
+      "album": {
+        "name": "Namma Classical Vol 3",
+        "url": "https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "Madhusoodan Bhat",
+          "url": "https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP"
+        },
+        {
+          "name": "Kaushik Bhat",
+          "url": "https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 855055,
+      "name": "Raga Maru Bihag (Feat. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat)",
+      "url": "https://open.spotify.com/track/61U7jgeV7GNT2E0VNmikEt"
     },
     {
       "album": {
@@ -762,6 +1031,32 @@
     },
     {
       "album": {
+        "name": "Namma Classical Vol 3",
+        "url": "https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "Madhusoodan Bhat",
+          "url": "https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP"
+        },
+        {
+          "name": "Kaushik Bhat",
+          "url": "https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1560235,
+      "name": "Raga Shyam Kalyan (Feat. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat)",
+      "url": "https://open.spotify.com/track/3XrktIs9yT571rKQYs7DJg"
+    },
+    {
+      "album": {
         "name": "Parjanya",
         "url": "https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM"
       },
@@ -773,7 +1068,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 1222413,
       "name": "Ragam Tanam Pallavi",
       "url": "https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53"
@@ -821,6 +1116,28 @@
       "duration_ms": 331280,
       "name": "Rang",
       "url": "https://open.spotify.com/track/6xJi7Qel6TsACujetOJd5N"
+    },
+    {
+      "album": {
+        "name": "Raske Bhare",
+        "url": "https://open.spotify.com/album/5Vyru5YcUnyFVX9wyopz1m"
+      },
+      "artists": [
+        {
+          "name": "Ivy Banerjee",
+          "url": "https://open.spotify.com/artist/5s0Lihq2sOZmt9A39boaqC"
+        },
+        {
+          "name": "Anindita Ganguli",
+          "url": "https://open.spotify.com/artist/71dORDZecKOG3BAexq2mgt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275191,
+      "name": "Raske Bhare",
+      "url": "https://open.spotify.com/track/6X0Hd6LY1qRcQB6zLlOnS4"
     },
     {
       "album": {
@@ -895,7 +1212,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 266493,
       "name": "Saravana Bhava - Devakriya - Roopakam, Pt. 6",
       "url": "https://open.spotify.com/track/2RlFwDtsyY72YvtMs2XlJA"
@@ -936,6 +1253,28 @@
     },
     {
       "album": {
+        "name": "Prabhat Sagar",
+        "url": "https://open.spotify.com/album/42DZZlRvrsRP2MkzHoabLy"
+      },
+      "artists": [
+        {
+          "name": "Milind Date",
+          "url": "https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx"
+        },
+        {
+          "name": "Charudatta Phadke",
+          "url": "https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377367,
+      "name": "Shivranjani",
+      "url": "https://open.spotify.com/track/278G2dKW87IiD2I6jl58KK"
+    },
+    {
+      "album": {
         "name": "Bow to the Violins (South Indian Classical Music)",
         "url": "https://open.spotify.com/album/7vFlyfZ7fnwdCNz513GFpR"
       },
@@ -947,7 +1286,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 578480,
       "name": "Siddhivinayakama",
       "url": "https://open.spotify.com/track/3A21ImpkBRJONWIjYTk6zV"
@@ -991,7 +1330,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 1045691,
       "name": "Subramanya Namaste",
       "url": "https://open.spotify.com/track/2o0PweGjjNA2WBuwJTtz76"
@@ -1035,7 +1374,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 379626,
       "name": "Tabla Solo In Ektal - Live",
       "url": "https://open.spotify.com/track/4FsUTO3VyjORPxOtcuuDRQ"
@@ -1083,7 +1422,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 1045427,
       "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
       "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
@@ -1119,7 +1458,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 466706,
       "name": "Vatapi Ganapathim (Raga: Hamsadwani; Tala: Adi)",
       "url": "https://open.spotify.com/track/312UHYgXzJ6NzA2rFeyYSe"
@@ -1137,7 +1476,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 679292,
       "name": "Vatapiganapatim",
       "url": "https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee"

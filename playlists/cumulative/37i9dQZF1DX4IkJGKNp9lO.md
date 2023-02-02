@@ -4,7 +4,7 @@
 
 > Svensk punk från förr och nu.
 
-225 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/3Pn9tRKK1cG7DF1Ujbt84s)
+225 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Lägga Puzzel Med En Hammare](https://open.spotify.com/track/3hmlOXOplj48M0hTyZj6j7) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Lägga Puzzel Med En Hammare](https://open.spotify.com/album/2Urh64pMy3gF3ahcVKidJP) | 2:53 | 2021-12-14 | 2022-07-28 |
 | [Mamma pappa barn](https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:57 | 2021-12-14 |  |
 | [Martin I Skitlandet](https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Pengar Har Inga Ögon](https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY) | 2:16 | 2021-12-14 | 2022-11-13 |
-| [Masspsykos](https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW) | 2:36 | 2021-12-14 | 2022-11-14 |
+| [Masspsykos](https://open.spotify.com/track/5ae5eUFZPTUhtIhXAnXtSu) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/5tKwHsShJjIiGBvnipyFeW) | 2:36 | 2021-12-14 | 2023-01-23 |
 | [Masspsykos](https://open.spotify.com/track/6se6MaeLqy45xsfYXXzm7Q) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/3jK2Jwr3V6pn1Gc23fpNA7) | 2:36 | 2021-12-14 | 2022-07-11 |
 | [Med munnen full av hat](https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h) | [Vet Hut](https://open.spotify.com/artist/1hYSAZUsXHo5io3lCKRIXs) | [Med munnen full av hat](https://open.spotify.com/album/5cC3X7yrOQOTmdqqZYRSb3) | 2:51 | 2021-12-14 | 2022-07-23 |
 | [Mellanstadiedisco](https://open.spotify.com/track/5OISH9zyF9DvBGbXneQoMG) | [Kapten Kermit](https://open.spotify.com/artist/1L835FxGKZLivabIOdzpwS) | [På Äventyr i Historien III](https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L) | 1:54 | 2021-12-14 | 2022-07-10 |
@@ -141,7 +141,7 @@
 | [Mina fåglar](https://open.spotify.com/track/6CHiFgpue84paf8mdhHHgP) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Tomat](https://open.spotify.com/album/7lMGMC2nQXYecUMqQy0bHf) | 3:17 | 2021-12-14 | 2022-07-25 |
 | [Mina polare](https://open.spotify.com/track/4duuMoNTupPnonWGY8B7q0) | [Dom Oönskade](https://open.spotify.com/artist/5EnbeKzG1eN7zwamYTXcwL) | [Mina Polare](https://open.spotify.com/album/6PcMYFEyLjOXSKE4YMEKp8) | 2:49 | 2021-12-14 | 2022-07-26 |
 | [MITT SISTA ANDETAG](https://open.spotify.com/track/0PKB26Q6ebljq3ru3MwVch) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2YJjLxn9lI8Y9ShRvVzoWu) | 2:47 | 2021-12-14 | 2022-07-26 |
-| [Mitt Sista Andetag](https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B) | 2:47 | 2021-12-14 | 2022-11-12 |
+| [Mitt Sista Andetag](https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B) | 2:47 | 2021-12-14 | 2023-01-15 |
 | [Modets Klappträn](https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ) | [Total Apati](https://open.spotify.com/artist/3gzEJGALMIHxyjYm0Q5Eg4) | [Att Ni Inte Ser...](https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1) | 2:51 | 2021-12-14 | 2022-07-29 |
 | [Morgonrock](https://open.spotify.com/track/1oCOrqMo9jQykW9kXeeUdg) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Morgonrock](https://open.spotify.com/album/49ik5mw9UpRZ8mq3w4HziG) | 1:42 | 2021-12-14 | 2022-07-24 |
 | [Motström](https://open.spotify.com/track/55r75mRCCSue44qYZRQGrB) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Motström](https://open.spotify.com/album/2OsxqLjzimMYUCRlud0uPl) | 2:59 | 2021-12-14 | 2022-07-28 |
@@ -155,7 +155,7 @@
 | [OS\-Guld i höjdhopp](https://open.spotify.com/track/6jdMz8tqMfOfk3kv0MRZ5U) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [OS\-Guld i höjdhopp](https://open.spotify.com/album/7yDRXR1hWI7e7Gait9gbyF) | 1:23 | 2021-12-14 | 2022-07-28 |
 | [Pang du är död](https://open.spotify.com/track/5snjFt767FRhSy2bs8pUpy) | [Vacum](https://open.spotify.com/artist/7toGHd2HbxVXuywksD4zwO) | [Pang du är död](https://open.spotify.com/album/1QL4xEdm7uU9MlbtcO6pOX) | 2:40 | 2021-12-14 | 2022-07-17 |
 | [Pappa betalar](https://open.spotify.com/track/4ImGyVmcLOZli8H7mkOpyI) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/3hyMLQZD8Obgjo5KTalhyb) | 2:31 | 2021-12-14 | 2022-07-28 |
-| [Pappa Betalar](https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:31 | 2021-12-14 |  |
+| [Pappa Betalar](https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:31 | 2021-12-14 | 2023-01-29 |
 | [Patriarkatet](https://open.spotify.com/track/1l55KW7G3lKMgDWaeBDE8n) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/5usEd1n4iAj3AdSAHlu7os) | 3:10 | 2021-12-14 |  |
 | [Patriarkatet](https://open.spotify.com/track/5qhAF20De3Qh3EOUORPPYE) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 3:10 | 2021-12-14 | 2022-07-28 |
 | [Patriarkatets sista fäste](https://open.spotify.com/track/0Rddyq01rWTekFWfcfEA32) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 5:03 | 2021-12-14 | 2022-07-10 |
@@ -216,7 +216,7 @@
 | [Var en man](https://open.spotify.com/track/5Hfi7rpsoiK51gSqRUvfYN) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [Andrahandssorteringen](https://open.spotify.com/album/4d7oAZlPz2hhqb7tDszFhO) | 2:53 | 2021-12-14 | 2022-07-28 |
 | [Varje ensam natt](https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Varje ensam natt](https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y) | 3:24 | 2021-12-14 |  |
 | [Varje ensam natt](https://open.spotify.com/track/0R5rlEIIGLsvBzDZSqlKOr) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Varje ensam natt](https://open.spotify.com/album/5r6qxnbzGq9k8TlPanAN6p) | 3:24 | 2021-12-14 | 2022-07-27 |
-| [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 | 2021-12-14 | 2022-11-26 |
+| [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 | 2021-12-14 |  |
 | [Vem sätter märket](https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Vem sätter märket](https://open.spotify.com/album/0wK3Dh1UY6XVZOfhUvR6GF) | 3:10 | 2021-12-14 | 2022-11-13 |
 | [Vem Vågar Tro](https://open.spotify.com/track/5VAz683ouGZsuROud0rl44) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [Demons From The Past](https://open.spotify.com/album/6L76NkyJbhwhLLzFTQ36JU) | 3:03 | 2021-12-14 | 2022-07-17 |
 | [Vill inte va med](https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 2:49 | 2021-12-14 | 2022-07-29 |

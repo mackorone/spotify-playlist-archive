@@ -4,7 +4,7 @@
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-62 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/0WpRCwnHLqwwOEdSsL7BjN)
+62 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

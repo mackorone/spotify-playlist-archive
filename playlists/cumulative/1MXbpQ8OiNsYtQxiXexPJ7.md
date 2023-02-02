@@ -4,7 +4,7 @@
 
 > The sun is setting and the night takes over\. Enjoy these while letting the evening play on.
 
-44 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/4kxssIC9ke65LePz38IFed)
+44 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

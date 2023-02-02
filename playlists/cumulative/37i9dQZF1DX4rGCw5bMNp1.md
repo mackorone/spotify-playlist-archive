@@ -4,7 +4,7 @@
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-86 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/28L2R5utJ9qGYen8AAdvJB)
+86 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,631 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,920 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 54 | [Nude](https://open.spotify.com/track/3xPfXIuRKZwhiS61HGN6Rr) | [Furns](https://open.spotify.com/artist/0I0pGHj36QgKwEck9Ijbiy) | [Ocean Highway](https://open.spotify.com/album/4lt2GflHtr9T823EkbC5fA) | 4:16 |
 | 55 | [Nights in Ikebukuro](https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Eshajori](https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI) | 4:34 |
 | 56 | [Blue](https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Nightfall](https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP) | 2:49 |
-| 57 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly](https://open.spotify.com/artist/12E1nswgTW7QPMYWs0oXrE) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
+| 57 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
 | 58 | [Greens](https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Greens](https://open.spotify.com/album/13irODzikOapHKbxYIj42v) | 4:10 |
 | 59 | [Walk \(Interlude\)](https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:47 |
 | 60 | [Confused](https://open.spotify.com/track/6dB3INrWpUQJhywKwiWnJ2) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/2Ta6VUCHyg1UqAMYdzlWeH) | 3:06 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 80 | [Reminisce](https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia) | [Reminisce](https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso) | 2:52 |
 | 81 | [Go](https://open.spotify.com/track/6pkcCKeavDKCtv147qcImc) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Go](https://open.spotify.com/album/4Lem57oFsCssMZFFrneeSo) | 3:15 |
 | 82 | [Make You Mine](https://open.spotify.com/track/0h3UTKzYwj9tzWvwkAcjcM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Make You Mine](https://open.spotify.com/album/7ujA7khAkrOrhr7eNSUjDK) | 2:34 |
-| 83 | [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katuchat](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 |
+| 83 | [I Miss You](https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69) | [Katu](https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR) | [I Miss You](https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf) | 2:34 |
 | 84 | [End Credits](https://open.spotify.com/track/7JKNxNTc9GZMFLIT5fIWvg) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uu7KIkpPuQlmLrQQyzvNy) | 1:51 |
 | 85 | [Daybreak](https://open.spotify.com/track/5PMMr9QcrnOWf6ZHxYwMrt) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/3KoIxalt9ie7Kmfy2aFK0K) | 3:28 |
 | 86 | [Introvert](https://open.spotify.com/track/2UQQ3ADE4bdEEB1hfl4QRZ) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Harvey](https://open.spotify.com/artist/4p5OJUjMqi3l98prXVbGC9) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [A Deeper Understanding](https://open.spotify.com/track/3mkvXHxUGTiuEwQvHZ3vW0) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Miniature Existence](https://open.spotify.com/album/0pLL3CDKtVR7Tb0wX6d9ZT) | 2:41 |
 | 100 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 |
 
-Snapshot ID: `MTY2OTEzMjIzNSwwMDAwMDAwMGI5MTgxNDVhMDBhMjQ5OTUzYjMzZDZkYTI4NTU2YWEw`
+Snapshot ID: `MTY3NTE3NzIwMCwwMDAwMDAwMDM2OTNiODFiNjAwYTk2NzMwMDdiNzFiODIxZjFjZGVl`

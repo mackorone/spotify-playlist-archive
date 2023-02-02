@@ -4,7 +4,7 @@
 
 > Samla dina vänner och ladda inför de Olypiska Spelen\. Nu kör vi!
 
-51 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/7dOGHDSnYW41LENV1324vm)
+51 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

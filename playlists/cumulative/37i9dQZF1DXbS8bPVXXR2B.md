@@ -4,7 +4,7 @@
 
 > We just wanna rock you all night long.
 
-180 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/2z5WQJnawaIEybSj0518t2)
+180 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Crushed Ice](https://open.spotify.com/track/4KA6HKfdRbq5CwSshbQhY3) | [MAM](https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi) | [Modern Heat](https://open.spotify.com/album/6Nkw7I7WaFL3am2rLlelFT) | 4:40 | 2022-02-10 | 2022-07-29 |
 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 | 2022-02-10 |  |
 | [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 | 2022-02-10 | 2022-11-14 |
-| [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2) | 3:49 | 2022-09-05 | 2022-11-12 |
+| [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2) | 3:49 | 2022-09-05 |  |
 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29) | 3:49 | 2022-02-10 | 2022-11-09 |
 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 | 2022-02-10 | 2022-07-29 |
 | [Disco Dancer](https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 6:56 | 2022-02-10 |  |
@@ -95,7 +95,7 @@
 | [Is It All Over My Face? \- Female Version](https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Is It All Over My Face?](https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N) | 7:07 | 2022-02-10 |  |
 | [Is It All Over My Face? \- Female Vocal](https://open.spotify.com/track/7iOSi3GZFApxC00XL9OPAl) | [Loose Joints](https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173) | [Larry Levans Classic West End Records Remixes Made Famous At The Legendary Paradise Garage](https://open.spotify.com/album/1Z4ucqR9byZPqqlRUoayIu) | 6:57 | 2022-02-10 | 2022-07-29 |
 | [It Looks Like Love](https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY) | [Goody Goody](https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3) | [Goody Goody](https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC) | 6:23 | 2022-02-10 |  |
-| [It's Like That](https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two \(Expanded Edition\)](https://open.spotify.com/album/4BFwQ2eRqnHJmVo3l0oCeC) | 4:16 | 2022-02-10 |  |
+| [It's Like That](https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two \(Expanded Edition\)](https://open.spotify.com/album/4BFwQ2eRqnHJmVo3l0oCeC) | 4:16 | 2022-02-10 | 2022-11-27 |
 | [It's Like That](https://open.spotify.com/track/1uIberD0UjjZOMxOMQtgXy) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two](https://open.spotify.com/album/1DCp2Xs3vuxv8MZJYIHiOf) | 4:17 | 2022-02-10 | 2022-07-29 |
 | [Just a Touch of Love](https://open.spotify.com/track/1abbmCW62dP7ag10VjQBz4) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Just A Touch Of Love](https://open.spotify.com/album/1KGJvJwBNbDpMW29QdW7qg) | 6:32 | 2022-02-10 |  |
 | [Just an Illusion](https://open.spotify.com/track/3o26dzDS061QiDD3bThGtE) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7H8XYReZxtR3OtgaVDWZUo) | 6:25 | 2022-02-10 | 2022-07-29 |

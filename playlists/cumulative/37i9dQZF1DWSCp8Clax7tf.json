@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "The Women who put Country Music on the map. Cover: Loretta Lynn",
   "name": "Legendary Women of Country",
-  "published_playlist_ids": [
-    "1Tu1mArc6Ym1uHBqG7xX3z"
-  ],
   "tracks": [
     {
       "album": {
@@ -420,7 +417,7 @@
     },
     {
       "album": {
-        "name": "Janie Fricke",
+        "name": "17 Greatest Hits",
         "url": "https://open.spotify.com/album/1ZAqjmQz7KghNFTeThuQJ7"
       },
       "artists": [
@@ -431,7 +428,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 169533,
       "name": "Do Me with Love",
       "url": "https://open.spotify.com/track/4BOLIOeDnuQqrd1O4j1okS"
@@ -467,7 +464,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 172760,
       "name": "Do Me with Love",
       "url": "https://open.spotify.com/track/3AbkUW6Ce5hqmd18Dm1fzZ"

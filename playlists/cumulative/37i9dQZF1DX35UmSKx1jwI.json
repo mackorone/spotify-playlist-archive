@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-22",
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
   "name": "Gym Beats",
-  "published_playlist_ids": [
-    "52tmP6AlCqUQeP3yBN8sra"
-  ],
   "tracks": [
     {
       "album": {
@@ -569,7 +566,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 216441,
       "name": "House Arrest",
       "url": "https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx"
@@ -827,7 +824,7 @@
     {
       "album": {
         "name": "The Wave",
-        "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
+        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
       },
       "artists": [
         {
@@ -842,6 +839,28 @@
       "date_added": "2018-09-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "date_added": "2018-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
       "duration_ms": 160183,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
@@ -1097,7 +1116,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 205530,
       "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
@@ -1141,7 +1160,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 145792,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/5Rse8If81NbzXL1ARjHOTB"
@@ -1159,10 +1178,28 @@
       ],
       "date_added": "2020-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 178369,
       "name": "Purple Hat",
       "url": "https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z"
+    },
+    {
+      "album": {
+        "name": "DANCING ON THE PEOPLE",
+        "url": "https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178369,
+      "name": "Purple Hat",
+      "url": "https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl"
     },
     {
       "album": {
@@ -1247,7 +1284,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 174720,
       "name": "SAD - Imanbek xxx Remix",
       "url": "https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E"

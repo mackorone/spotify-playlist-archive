@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "You feel the sun on your face. ",
   "name": "Vintage Vibes: Sunny Reggae",
-  "published_playlist_ids": [
-    "1c2X5gtsaUdjfhq6okPYv2"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 182773,
       "name": "Bad Treatment",
       "url": "https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV"
@@ -127,7 +124,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "Beat Down Babylon",
       "url": "https://open.spotify.com/track/4295DKi5lhEJWzljy6Lbnx"
@@ -325,7 +322,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 219893,
       "name": "Cousin Joe Pt 1",
       "url": "https://open.spotify.com/track/3hJPEhPVe5r122YyR938Sb"
@@ -464,7 +461,7 @@
       "artists": [
         {
           "name": "The Soul Brothers",
-          "url": "https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn"
+          "url": "https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq"
         }
       ],
       "date_added": "2021-04-23",
@@ -487,10 +484,32 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 197666,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx"
+    },
+    {
+      "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197840,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1"
     },
     {
       "album": {
@@ -757,7 +776,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Jericho Skank",
       "url": "https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu"
@@ -991,7 +1010,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 215946,
       "name": "Namibia",
       "url": "https://open.spotify.com/track/0tzz52F0Y1bPeRT31cIdCr"
@@ -1243,7 +1262,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 154546,
       "name": "Reggae Feet",
       "url": "https://open.spotify.com/track/7bfqVYoG4SEjyp0LgUf6KG"
@@ -1279,7 +1298,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188333,
       "name": "Ringo Rock",
       "url": "https://open.spotify.com/track/0d98jmXYAEuh2cLAdLp8Q9"
@@ -1549,7 +1568,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146253,
       "name": "Surfin",
       "url": "https://open.spotify.com/track/79HIvcu6xOekJTWPIFSe9P"
@@ -1621,7 +1640,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 117866,
       "name": "There's a Fire",
       "url": "https://open.spotify.com/track/7EhKVBUrL5dd7VNZDXGpiD"
@@ -1783,7 +1802,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 176706,
       "name": "You'll Get Your Pay",
       "url": "https://open.spotify.com/track/0QS4vNmAoV6Y0FMz0FTYhe"

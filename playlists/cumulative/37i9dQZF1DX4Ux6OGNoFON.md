@@ -4,7 +4,7 @@
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Dread Mar I
 
-83 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/3JQCn0U5J7gjZIqJmCR5xX)
+85 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 | 2022-05-13 |  |
 | [Caminando](https://open.spotify.com/track/65LwjsaIljMxRSB3frQZMH) | [Ganja](https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt) | [Caminando](https://open.spotify.com/album/7edabrxvUHcMQMzO0NCIGg) | 4:18 | 2022-05-13 | 2022-07-29 |
 | [Caminando](https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc) | [Ganja](https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt) | [Reggae Mexicano](https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4) | 4:21 | 2022-07-01 |  |
-| [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 | 2022-07-01 |  |
+| [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Skillzbeatz](https://open.spotify.com/artist/09cwFodlXUIGfh0h0O2dH7) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 | 2022-07-01 |  |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/6ioupaJ387IxHQC9RSHMar) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Ziko](https://open.spotify.com/artist/5kjMVFyYkyNXhGccnycCka) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6sgKeauEUQCd6fJLCHcgs7) | 3:14 | 2022-05-13 | 2022-07-29 |
 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 | 2022-05-13 |  |
 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 | 2022-05-13 |  |
@@ -31,7 +31,8 @@
 | [Divina Ciencia](https://open.spotify.com/track/5SV2Eqg43uPMX9x9g1XoAL) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Dahani](https://open.spotify.com/artist/69CmKC6wHFltmcQHp7pPY9) | [Cosas Que Contarte](https://open.spotify.com/album/4HfCnFSRmhDZKUUY12wTHQ) | 3:33 | 2022-05-13 |  |
 | [El Corazón y La Razón](https://open.spotify.com/track/7ABBtIReI8d993JDVA8cC8) | [Providencia](https://open.spotify.com/artist/5Jfv3Fh8E4Gb8AYLwl4OCv) | [El Corazón y La Razón](https://open.spotify.com/album/2JHGaMEzHHE6f8P6fYUpQn) | 3:08 | 2022-07-01 |  |
 | [El Tambor](https://open.spotify.com/track/06oqtIcytEioJSVDKdWU1T) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Impulso](https://open.spotify.com/album/34HdlbBIJfvrkvwKAHaERc) | 4:40 | 2022-05-13 | 2022-09-15 |
-| [El Tambor](https://open.spotify.com/track/244xfUeyheD5Ibupwjwmd3) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Impulso](https://open.spotify.com/album/3WnFaJJHV6tPbaeDiAZ6dP) | 4:40 | 2022-07-01 |  |
+| [El Tambor](https://open.spotify.com/track/244xfUeyheD5Ibupwjwmd3) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Impulso](https://open.spotify.com/album/3WnFaJJHV6tPbaeDiAZ6dP) | 4:40 | 2022-07-01 | 2022-12-20 |
+| [El Tambor](https://open.spotify.com/track/2DzEvKYEkhNOymxnvIeXDf) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Impulso Eterno](https://open.spotify.com/album/745taLBsTAJAtYAHGQfaTP) | 4:40 | 2022-07-01 |  |
 | [Estos Días](https://open.spotify.com/track/1sU1f9ivTcNvxSDyygim3G) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [Estos Días](https://open.spotify.com/album/56HAfUfBAVGaPSwfaH0QJX) | 3:31 | 2022-05-13 |  |
 | [Fuiste Cruel](https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo) | 4:57 | 2022-05-13 |  |
 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 | 2022-05-13 |  |
@@ -39,7 +40,8 @@
 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 | 2022-05-13 |  |
 | [High](https://open.spotify.com/track/2vg16RThWkdrrohdk4wq25) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Trippy Caribbean](https://open.spotify.com/album/3JwNymycAQq39DHeiqHUFm) | 4:46 | 2022-05-13 | 2022-07-29 |
 | [High \(feat\. Apache\)](https://open.spotify.com/track/5KQVSvivJ89ZFAPdsLLtyq) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:48 | 2022-07-01 |  |
-| [Homestudio Session \#6](https://open.spotify.com/track/1TIylLDBqvqiQn2x5CuOSy) | [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR) | [Homestudio Session \#6](https://open.spotify.com/album/1qmW48LkyezRoLuY0BLJF7) | 4:54 | 2022-05-13 |  |
+| [Homestudio Session \#6](https://open.spotify.com/track/1FPCxlXeRijGMa6vuu04eK) | [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR) | [Homestudio Session \#6](https://open.spotify.com/album/5M3IROBJ77b2DnQ0vWgokk) | 4:54 | 2022-07-01 |  |
+| [Homestudio Session \#6](https://open.spotify.com/track/1TIylLDBqvqiQn2x5CuOSy) | [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Rastachai](https://open.spotify.com/artist/050LEfCTHMWKFC2AI0DEBR) | [Homestudio Session \#6](https://open.spotify.com/album/1qmW48LkyezRoLuY0BLJF7) | 4:54 | 2022-05-13 | 2023-01-28 |
 | [Ilegal](https://open.spotify.com/track/2K2YkSn2utzsRntEClbyB8) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/59SjgIQv3ASnijrzYyR44Z) | 5:05 | 2022-05-13 | 2022-07-29 |
 | [Ilegal](https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 5:06 | 2022-07-01 |  |
 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 | 2022-05-13 | 2022-07-02 |

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Presentamos a La Santa Grifa, nuestro artista Radar!",
+  "description": "\u00a1Presentamos a nuestros artista Radar M\u00e9xico 2022!",
   "name": "RADAR M\u00e9xico",
-  "published_playlist_ids": [
-    "0fKCWW6MspqU4I86JKzsYE"
-  ],
   "tracks": [
     {
       "album": {
@@ -473,7 +470,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 176238,
       "name": "Caf\u00e9 Conmigo",
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
@@ -932,6 +929,28 @@
     },
     {
       "album": {
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
+    },
+    {
+      "album": {
         "name": "El Fantasma",
         "url": "https://open.spotify.com/album/1Rt6hd1BURNy6esbmpAI1I"
       },
@@ -1301,12 +1320,30 @@
           "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         }
       ],
-      "date_added": "2022-11-25",
+      "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 152004,
       "name": "Gatita",
       "url": "https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL"
+    },
+    {
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "album": {
@@ -1379,6 +1416,32 @@
       "duration_ms": 297516,
       "name": "Hondo",
       "url": "https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl"
+    },
+    {
+      "album": {
+        "name": "Hondo (Techno Para Dos, issuesonissues Remix)",
+        "url": "https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Techno Para Dos",
+          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
+        },
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 321210,
+      "name": "Hondo (Techno Para Dos, issuesonissues Remix)",
+      "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
       "album": {
@@ -1739,7 +1802,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 139489,
       "name": "Los d\u00edas grises",
       "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
@@ -2055,7 +2118,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 187447,
       "name": "Mientras Duermes",
       "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
@@ -2129,7 +2192,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
@@ -2231,7 +2294,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-02-01",
       "duration_ms": 206000,
       "name": "M\u00e1s Tarde (Remix)",
       "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
@@ -2369,7 +2432,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 218932,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/6L2vmngcyjUFuwRBCJCNqA"
@@ -2952,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
+        "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222066,
+      "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
+      "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
+    },
+    {
+      "album": {
         "name": "Si Nos Volvemos A Encontrar",
         "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
       },
@@ -3521,7 +3602,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-01-24",
       "duration_ms": 180000,
       "name": "Tumbando Avi\u00f3n",
       "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"
@@ -3669,7 +3750,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": "2023-01-01",
       "duration_ms": 192150,
       "name": "un sue\u00f1o raro",
       "url": "https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR"
@@ -3687,7 +3768,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 209346,
       "name": "Uno Que Tropieza Y Cae Al Mar",
       "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"

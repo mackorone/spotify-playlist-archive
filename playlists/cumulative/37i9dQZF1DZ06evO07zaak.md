@@ -4,7 +4,7 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-47 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/4eRmgKnMASFMx3PjMPtGRQ)
+47 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 | 2022-09-17 |  |
 | [Coming Back to Life](https://open.spotify.com/track/1bQ4zbP8Fo0qAePTSOfYji) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 6:19 | 2022-09-17 |  |
 | [Dogs](https://open.spotify.com/track/2jvuMDqBK04WvCYYz5qjvG) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 17:05 | 2022-09-17 |  |
-| [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:32 | 2022-09-17 |  |
+| [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:32 | 2022-09-17 | 2022-12-24 |
 | [Fearless](https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 6:07 | 2022-09-17 |  |
 | [Have a Cigar](https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:07 | 2022-09-17 |  |
 | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/track/05d0sXGApO7BPFY9tMwCXm) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9), [Andriy Khlyvnyuk](https://open.spotify.com/artist/2VfXr8g4E0qImkefKT3Nby) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/3lBCDflEyxa7JucrV4Npwj) | 3:26 | 2022-09-17 |  |
@@ -42,7 +42,7 @@
 | [See Emily Play](https://open.spotify.com/track/1YZuigG1YcdgbfD7XJoCU5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Relics](https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw) | 2:53 | 2022-09-17 | 2022-10-02 |
 | [Sheep](https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 10:19 | 2022-09-17 |  |
 | [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:31 | 2022-09-17 |  |
-| [Side 2, Pt\. 3: Unsung](https://open.spotify.com/track/6St7hjIG2njuG5Zck8vK4Q) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Endless River](https://open.spotify.com/album/0fXAlQ9wTG2glNJvZEkBZc) | 1:06 | 2022-10-14 |  |
+| [Side 2, Pt\. 3: Unsung](https://open.spotify.com/track/6St7hjIG2njuG5Zck8vK4Q) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Endless River](https://open.spotify.com/album/0fXAlQ9wTG2glNJvZEkBZc) | 1:06 | 2022-10-14 | 2023-02-02 |
 | [Sorrow](https://open.spotify.com/track/0u90NnJ2p3Q2MIP9IaAsg5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 8:44 | 2022-09-17 | 2022-10-13 |
 | [Summer '68](https://open.spotify.com/track/5MZALWjwQRX0RsZt31HlNP) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Atom Heart Mother](https://open.spotify.com/album/2cUpAOlQjV5uSjkWj5bEQY) | 5:28 | 2022-09-17 | 2022-10-13 |
 | [Take It Back](https://open.spotify.com/track/325toqbCzE1g1pYIED7U4C) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 6:12 | 2022-10-04 |  |

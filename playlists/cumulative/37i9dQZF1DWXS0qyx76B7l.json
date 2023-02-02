@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
   "name": "I Love NYC",
-  "published_playlist_ids": [
-    "304x1Ce1d77xP3lFWeIUYd"
-  ],
   "tracks": [
     {
       "album": {
@@ -1053,7 +1050,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 201883,
       "name": "New York",
       "url": "https://open.spotify.com/track/0EP3yjbjHdbUL1miyNlgys"
@@ -1963,7 +1960,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 309600,
       "name": "Welcome To New York City",
       "url": "https://open.spotify.com/track/6GJe7xXJVxmPZpMBVb7kOc"

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country music to accompany you on the open road. Cover: Chris Stapleton",
+  "description": "Country music to accompany you on the open road. Cover: Maren Morris",
   "name": "Country Drive",
-  "published_playlist_ids": [
-    "47rjNHtXp2evdcvfOcsmhH"
-  ],
   "tracks": [
     {
       "album": {
@@ -301,7 +298,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-29",
       "duration_ms": 186373,
       "name": "At the End of a Bar",
       "url": "https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9"
@@ -785,7 +782,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 183087,
       "name": "Can't Have Mine (Find You A Girl)",
       "url": "https://open.spotify.com/track/4q9NEq8kUmSZwtNsxL2KJN"
@@ -803,7 +800,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 196440,
       "name": "Catch",
       "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
@@ -2191,7 +2188,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-18",
       "duration_ms": 210720,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
@@ -2357,7 +2354,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 243666,
       "name": "I Go Back",
       "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
@@ -3297,7 +3294,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 193053,
       "name": "My Bar",
       "url": "https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN"
@@ -3355,7 +3352,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-17",
       "duration_ms": 176146,
       "name": "Never Say Never (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT"
@@ -4327,7 +4324,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 202386,
       "name": "Songs About You",
       "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
@@ -4435,7 +4432,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 335480,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
@@ -4543,7 +4540,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 216093,
       "name": "Sunrise, Sunburn, Sunset",
       "url": "https://open.spotify.com/track/53yTYusPQJ1AApL1hi0Dnc"
@@ -4651,10 +4648,28 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
+    },
+    {
+      "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
     },
     {
       "album": {
@@ -4923,6 +4938,24 @@
       "duration_ms": 205826,
       "name": "This is Us",
       "url": "https://open.spotify.com/track/7DnNU5rQLgy4KEYvFMrGgW"
+    },
+    {
+      "album": {
+        "name": "Thought You Should Know",
+        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
     },
     {
       "album": {
@@ -5211,7 +5244,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 206597,
       "name": "What If I Never Get Over You",
       "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"

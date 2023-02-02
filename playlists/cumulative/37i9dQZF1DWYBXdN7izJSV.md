@@ -4,7 +4,7 @@
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-102 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
+102 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

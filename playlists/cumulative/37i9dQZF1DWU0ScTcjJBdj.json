@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "Let your worries and cares slip away.",
   "name": "Relax & Unwind",
-  "published_playlist_ids": [
-    "48nHSzZWFJZqa0aL14cfvw"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,6 +42,24 @@
     {
       "album": {
         "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+    },
+    {
+      "album": {
+        "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
       "artists": [
@@ -55,7 +70,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
@@ -2881,10 +2896,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 152333,
       "name": "Petals",
       "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
+    },
+    {
+      "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
     },
     {
       "album": {
@@ -3605,10 +3638,32 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 233346,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/1STWuVv5dKJABRJROltWFr"
+    },
+    {
+      "album": {
+        "name": "Stay Alive (COVERS)",
+        "url": "https://open.spotify.com/album/3I1ZWDd8jAs6aztutLGVDm"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233346,
+      "name": "Stay Alive - Cover",
+      "url": "https://open.spotify.com/track/0cm34ja39LyPxK2oddv90s"
     },
     {
       "album": {

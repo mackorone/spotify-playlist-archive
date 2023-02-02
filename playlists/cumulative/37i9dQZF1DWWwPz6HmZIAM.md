@@ -4,7 +4,7 @@
 
 > スリーピースバンドの枠から自らを意識的に解き放ち、激しくも繊細な音世界を表現し続けるTK from 凛として時雨の軌跡がここに。Immerse yourself in the kaleidoscope world of TK from Ling tosite sigure.
 
-76 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/6rxM2yercaF5daIevJxo0C)
+78 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,8 @@
 | [Fantastic Magic](https://open.spotify.com/track/2jSifGHhg15GjVeiTNpmn8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 4:08 | 2022-03-15 |  |
 | [Fantastic Magic](https://open.spotify.com/track/3BXk27URU7QRnDzIPoLcZq) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 4:08 | 2022-03-15 | 2022-07-29 |
 | [film A moment \( film edition \)](https://open.spotify.com/track/14uxMa3hXTDAVFxLZ1LyD8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 7:46 | 2022-03-15 |  |
+| [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-11-29 |  |
+| [first death \(Slushii Remix\)](https://open.spotify.com/track/1MP6V6J9u0vC9lCWRz7Sjz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [first death \(Slushii Remix\)](https://open.spotify.com/album/1u0liJXMHykVQ73cwjyuwP) | 3:13 | 2022-12-20 |  |
 | [flower](https://open.spotify.com/track/0bPP8TKUIto1T9CAIoHONw) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 4:39 | 2022-03-15 |  |
 | [flower](https://open.spotify.com/track/6nMHoCucEuY6fLY8UxHVWr) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/1sHH1LxQbi4QjsKzIyN5ox) | 4:39 | 2022-03-15 | 2022-07-29 |
 | [fourth](https://open.spotify.com/track/1pnQ4KFFScTV4HalmIleIv) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [flowering](https://open.spotify.com/album/7wULYqTLG1Za5axSuhBefT) | 4:28 | 2022-03-15 |  |
@@ -45,7 +47,7 @@
 | [kalei de scope](https://open.spotify.com/track/5hmImw1GzjX2HRSQC5mh7G) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 3:17 | 2022-03-15 | 2022-07-29 |
 | [kanazawan](https://open.spotify.com/track/480ru9B0fcB3a8QH9ZiOsm) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 2:49 | 2022-03-15 |  |
 | [katharsis](https://open.spotify.com/track/7MtpXnAhLKdkXjoFaK95TB) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [katharsis](https://open.spotify.com/album/3Tpt5tvJSeZt48A3YGCCWG) | 4:26 | 2022-03-15 |  |
-| [melt](https://open.spotify.com/track/2Lt6j2oHZXazSAOQBbRj4A) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [suis](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [melt](https://open.spotify.com/album/3diNH0cBMoJgdYF6YLt8Xj) | 4:38 | 2022-03-15 |  |
+| [melt](https://open.spotify.com/track/2Lt6j2oHZXazSAOQBbRj4A) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [melt](https://open.spotify.com/album/3diNH0cBMoJgdYF6YLt8Xj) | 4:38 | 2022-03-15 |  |
 | [memento](https://open.spotify.com/track/29rJJAMbK5cBor6pHDrKnm) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [katharsis](https://open.spotify.com/album/3Tpt5tvJSeZt48A3YGCCWG) | 6:32 | 2022-03-15 |  |
 | [moving on](https://open.spotify.com/track/2qYy9JYOaryZNL5aBVyAjo) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [P.S\. RED I](https://open.spotify.com/album/5fTN07KH4ZC8kaWpyXHG0d) | 4:38 | 2022-03-15 |  |
 | [P.S\. RED I](https://open.spotify.com/track/17m0aNKFbtqTghZyzeJf12) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [P.S\. RED I](https://open.spotify.com/album/5fTN07KH4ZC8kaWpyXHG0d) | 4:19 | 2022-03-15 |  |

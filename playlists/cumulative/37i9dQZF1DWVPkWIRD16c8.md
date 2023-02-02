@@ -4,7 +4,7 @@
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-133 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/6aSZoXGwLphcY7PG68tmt2)
+133 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Fight Another Day](https://open.spotify.com/track/04Pn1kDpgh37ddSB9QZQgY) | [Addison Road](https://open.spotify.com/artist/1Xjo0MmVXZVCNpUSLPCogR) | [Stories](https://open.spotify.com/album/076jmFTZTSt5jGMImO5ge0) | 3:17 | 2019-11-20 | 2022-07-23 |
 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 | 2019-11-20 |  |
 | [Free Fallin'](https://open.spotify.com/track/396oLs4Mt8k45Lv5aD6EF3) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [Punk Goes Classic Rock](https://open.spotify.com/album/64RLAKcWXgTpahzJbgEqZz) | 4:31 | 2019-11-20 | 2022-11-13 |
-| [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 | 2019-11-20 |  |
+| [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 | 2019-11-20 | 2022-12-18 |
 | [Future](https://open.spotify.com/track/2ifo08ftWXW39Alpkb4dKI) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/5uTiWe3JzeCiCblbBnQwOx) | 3:54 | 2019-11-20 | 2022-07-29 |
 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 | 2019-11-20 |  |
 | [God Is](https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:23 | 2019-11-20 |  |
@@ -114,14 +114,14 @@
 | [The Man Comes Around](https://open.spotify.com/track/3Jq9rsqmRtqcVKtzP9dnxZ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 4:26 | 2019-11-20 |  |
 | [The Only Name \(Yours Will Be\)](https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:21 | 2019-11-20 |  |
 | [The Only Name \[Yours Will Be\]](https://open.spotify.com/track/3jSYHMLEH3MHhSRYy9ywRV) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/1ahOaFacvdWoZl1YSNMdPV) | 4:21 | 2019-11-20 | 2022-07-23 |
-| [The Same Jesus](https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Same Jesus](https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c) | 3:45 | 2019-11-20 | 2022-11-13 |
+| [The Same Jesus](https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Same Jesus](https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c) | 3:45 | 2019-11-20 |  |
 | [There Was Jesus](https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:43 | 2019-11-20 |  |
 | [This Is The Day](https://open.spotify.com/track/51NZfUU4YNCc2MZ7tVdjyc) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/7AIiz8dPXi3lVK15h94Ujo) | 3:26 | 2019-11-20 | 2022-07-25 |
 | [This Is the Stuff](https://open.spotify.com/track/3SkhhzEOzs8XR1Ta8jVNsO) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Hundred More Years](https://open.spotify.com/album/1s6NqofRkHJN1eThDu948E) | 3:03 | 2019-11-20 | 2022-11-14 |
 | [This Is The Stuff](https://open.spotify.com/track/747mWSVOmyTQ2siMjLn0v9) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Hundred More Years](https://open.spotify.com/album/45mo5a0mMuvGJee4I6S6z1) | 3:03 | 2019-11-20 | 2022-07-28 |
 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 | 2019-11-20 |  |
 | [Time \- Edit](https://open.spotify.com/track/68Vm2W4oURsPV3121vUZgB) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Time](https://open.spotify.com/album/1QcPl6AFNTiczxCuSpOoEM) | 3:50 | 2019-11-20 |  |
-| [Today Is The Day](https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Today Is the Day](https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc) | 4:36 | 2019-11-20 | 2022-11-13 |
+| [Today Is The Day](https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Today Is the Day](https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc) | 4:36 | 2019-11-20 | 2023-01-11 |
 | [Today Is the Day](https://open.spotify.com/track/3lMabAXl4LmSpDfD9ptBGl) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Today Is The Day](https://open.spotify.com/album/43sdVVJmMh1CkYMw4d3Taw) | 4:36 | 2019-11-20 | 2022-07-29 |
 | [Trust In You](https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 3:31 | 2019-11-20 | 2022-07-29 |
 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 | 2019-11-20 |  |

@@ -1,11 +1,34 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Songs of deep relationships to inspire your journey with each other.",
-  "name": "Going Together",
-  "published_playlist_ids": [
-    "7x1MYtipwfxns13j9VJIYR"
-  ],
+  "description": "Songs of faith, hope, and the greatest of these, love.",
+  "name": "Higher Love",
   "tracks": [
+    {
+      "album": {
+        "name": "Adam & Eve'n",
+        "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
+      },
+      "artists": [
+        {
+          "name": "Sir & Saint",
+          "url": "https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL"
+        },
+        {
+          "name": "Sir the Baptist",
+          "url": "https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg"
+        },
+        {
+          "name": "Saint Ashleey",
+          "url": "https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125284,
+      "name": "Adam & Eve'n",
+      "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
+    },
     {
       "album": {
         "name": "Every Falling Tear",
@@ -26,6 +49,32 @@
     },
     {
       "album": {
+        "name": "Dosis",
+        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250754,
+      "name": "Amor De Telenovela",
+      "url": "https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47"
+    },
+    {
+      "album": {
         "name": "Come To The Well",
         "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
       },
@@ -41,6 +90,86 @@
       "duration_ms": 224013,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
+    },
+    {
+      "album": {
+        "name": "Enough Already",
+        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191794,
+      "name": "Another Song About Love",
+      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
+    },
+    {
+      "album": {
+        "name": "Baby Will You Love Me",
+        "url": "https://open.spotify.com/album/2w38sOFtpwryYpMROouND9"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213338,
+      "name": "Baby Will You Love Me",
+      "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
+    },
+    {
+      "album": {
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226155,
+      "name": "Beautiful (feat. India.Arie)",
+      "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
     },
     {
       "album": {
@@ -77,6 +206,28 @@
       "duration_ms": 216612,
       "name": "Beautiful Soul",
       "url": "https://open.spotify.com/track/4gxT7DX1NVig7cnQBhSmiM"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4MU9KSElQSxRfRcNAL83An"
+      },
+      "artists": [
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        },
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173861,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1WvgGT8Q4uIdrY7KQgVNnz"
     },
     {
       "album": {
@@ -178,6 +329,28 @@
     },
     {
       "album": {
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
+    },
+    {
+      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -218,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "album": {
         "name": "This Moment (Cinderella Edition)",
         "url": "https://open.spotify.com/album/7HAomGpaAjuPCEbuMevOlP"
       },
@@ -251,6 +442,32 @@
       "duration_ms": 216991,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi"
+    },
+    {
+      "album": {
+        "name": "Kingdom Business: Season 1",
+        "url": "https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1"
+      },
+      "artists": [
+        {
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+        },
+        {
+          "name": "Ahjah Walls",
+          "url": "https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248926,
+      "name": "Crazy Kinda Love",
+      "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
     },
     {
       "album": {
@@ -305,6 +522,24 @@
       "duration_ms": 210372,
       "name": "Dancing In The Minefields",
       "url": "https://open.spotify.com/track/4SyGjosRg6d4tvE1EMtqFf"
+    },
+    {
+      "album": {
+        "name": "Dear Future Wife (Acoustic)",
+        "url": "https://open.spotify.com/album/3yHmNaCf9I1nXTYSdd5WoT"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168069,
+      "name": "Dear Future Wife - Acoustic",
+      "url": "https://open.spotify.com/track/0RQok78Z58rek1FfvvWmYp"
     },
     {
       "album": {
@@ -431,6 +666,24 @@
       "duration_ms": 241800,
       "name": "Faith Hope Love Repeat",
       "url": "https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
     },
     {
       "album": {
@@ -668,6 +921,28 @@
     },
     {
       "album": {
+        "name": "Church Clothes 4",
+        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187258,
+      "name": "Good Lord",
+      "url": "https://open.spotify.com/track/0BgFkhIfpKaL2pCwCYUmhv"
+    },
+    {
+      "album": {
         "name": "Heaven (All Around You)",
         "url": "https://open.spotify.com/album/0YCOvAOrhWTEuySsZzIoLl"
       },
@@ -722,6 +997,42 @@
     },
     {
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+    },
+    {
+      "album": {
         "name": "Floodplain",
         "url": "https://open.spotify.com/album/4xa65s9NcXYzUN72tYJnLP"
       },
@@ -751,7 +1062,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 261306,
       "name": "I Feel the Love Between Us",
       "url": "https://open.spotify.com/track/78UHDGBTtSRTVU9v8XYYlv"
@@ -773,6 +1084,32 @@
       "duration_ms": 340200,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ"
+    },
+    {
+      "album": {
+        "name": "I Love You (Remix)",
+        "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        },
+        {
+          "name": "Tryhard Society",
+          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "I Love You (Remix)",
+      "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
     },
     {
       "album": {
@@ -899,6 +1236,24 @@
       "duration_ms": 221979,
       "name": "It's Our Time",
       "url": "https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T"
+    },
+    {
+      "album": {
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
     },
     {
       "album": {
@@ -1082,6 +1437,46 @@
     },
     {
       "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201526,
+      "name": "Look At Love",
+      "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
+    },
+    {
+      "album": {
+        "name": "Love in the West",
+        "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
+      },
+      "artists": [
+        {
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138556,
+      "name": "Love in the West",
+      "url": "https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l"
+    },
+    {
+      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd"
       },
@@ -1097,6 +1492,24 @@
       "duration_ms": 179670,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc"
+    },
+    {
+      "album": {
+        "name": "Love Me Like I Am",
+        "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184103,
+      "name": "Love Me Like I Am",
+      "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
     },
     {
       "album": {
@@ -1137,6 +1550,42 @@
       "duration_ms": 214693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U"
+    },
+    {
+      "album": {
+        "name": "Love&Adoration",
+        "url": "https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Love&Adoration",
+      "url": "https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV"
+    },
+    {
+      "album": {
+        "name": "What Makes It Through",
+        "url": "https://open.spotify.com/album/4YFHM5vLJLbBFCS0nhC0mi"
+      },
+      "artists": [
+        {
+          "name": "Sara Groves",
+          "url": "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237401,
+      "name": "Loving A Person - Reimagined",
+      "url": "https://open.spotify.com/track/1NYmaX6ByXEUdhojO01jMu"
     },
     {
       "album": {
@@ -1230,6 +1679,42 @@
     },
     {
       "album": {
+        "name": "More Than Me",
+        "url": "https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "More Than Me",
+      "url": "https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6"
+    },
+    {
+      "album": {
+        "name": "Oh How I Love You",
+        "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233050,
+      "name": "Oh How I Love You (R&B Version)",
+      "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
+    },
+    {
+      "album": {
         "name": "NF",
         "url": "https://open.spotify.com/album/2cMXPk9NsWWnawWxa3SSUf"
       },
@@ -1245,6 +1730,28 @@
       "duration_ms": 214600,
       "name": "Only One",
       "url": "https://open.spotify.com/track/1iAqQMUVtp5E1EYJkqZw2g"
+    },
+    {
+      "album": {
+        "name": "Perfectly Loved",
+        "url": "https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203683,
+      "name": "Perfectly Loved",
+      "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
     },
     {
       "album": {
@@ -1452,6 +1959,46 @@
     },
     {
       "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+    },
+    {
+      "album": {
         "name": "Let It Fly",
         "url": "https://open.spotify.com/album/4ZiHyjHojgTgqlFgLABYzg"
       },
@@ -1524,6 +2071,82 @@
     },
     {
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "album": {
+        "name": "This Kind Of Love",
+        "url": "https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184640,
+      "name": "This Kind Of Love",
+      "url": "https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS"
+    },
+    {
+      "album": {
+        "name": "This Loving",
+        "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "This Loving",
+      "url": "https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa"
+    },
+    {
+      "album": {
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
+      },
+      "artists": [
+        {
+          "name": "Becca Bradley",
+          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206999,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
+    },
+    {
+      "album": {
         "name": "Till I Found You",
         "url": "https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo"
       },
@@ -1578,6 +2201,46 @@
     },
     {
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
+    },
+    {
+      "album": {
+        "name": "Lions and Liars",
+        "url": "https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX"
+      },
+      "artists": [
+        {
+          "name": "Sho Baraka",
+          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+        },
+        {
+          "name": "J.R.",
+          "url": "https://open.spotify.com/artist/1gkN5N1Npacwm1QsSsVonK"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "We Can Be More",
+      "url": "https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji"
+    },
+    {
+      "album": {
         "name": "All About Love",
         "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
       },
@@ -1611,6 +2274,32 @@
       "duration_ms": 177658,
       "name": "What A Mystery",
       "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+    },
+    {
+      "album": {
+        "name": "CC",
+        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
+      },
+      "artists": [
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        },
+        {
+          "name": "Lightmuzik",
+          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118503,
+      "name": "When It Hurts",
+      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
     },
     {
       "album": {
@@ -1661,10 +2350,32 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 249389,
       "name": "With You",
       "url": "https://open.spotify.com/track/2OEnuXApFl7zqqbUY69RdH"
+    },
+    {
+      "album": {
+        "name": "Without Your Love",
+        "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
+      },
+      "artists": [
+        {
+          "name": "Colorvault",
+          "url": "https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er"
+        },
+        {
+          "name": "A.Bishai",
+          "url": "https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179271,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l"
     },
     {
       "album": {
@@ -1740,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158023,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D"
+    },
+    {
+      "album": {
         "name": "The One You Need",
         "url": "https://open.spotify.com/album/6QemBl6QEG7Lt9W2ALuctj"
       },
@@ -1751,7 +2480,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 270866,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/4gOKl65mwqty8RGiokhv3h"

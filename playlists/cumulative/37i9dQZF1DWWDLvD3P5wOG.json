@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "Throwbacks you can catch a wine to.",
   "name": "Dancehall Throwback",
-  "published_playlist_ids": [
-    "3PPxIsGiR2XzxbMKPVmBN3"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 233093,
       "name": "Bad From Mi Born",
       "url": "https://open.spotify.com/track/5G2KNJJWiG9YELRwDrGbJ5"
@@ -74,7 +71,7 @@
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 195693,
+      "duration_ms": 195453,
       "name": "Bad Man Forward",
       "url": "https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a"
     },
@@ -725,6 +722,24 @@
     {
       "album": {
         "name": "Dye Dye - Single",
+        "url": "https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz"
+      },
+      "artists": [
+        {
+          "name": "Macka Diamond",
+          "url": "https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186265,
+      "name": "Dye Dye (Raw)",
+      "url": "https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa"
+    },
+    {
+      "album": {
+        "name": "Dye Dye - Single",
         "url": "https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR"
       },
       "artists": [
@@ -1005,10 +1020,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 211666,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak"
     },
     {
       "album": {
@@ -1059,10 +1092,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 228000,
       "name": "Gimme the Light",
       "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Gimme the Light",
+      "url": "https://open.spotify.com/track/5WavgurgGX48eZv1q1E3on"
     },
     {
       "album": {
@@ -1182,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Alkaline Mix Tape",
+        "url": "https://open.spotify.com/album/0sAxwy1H3OqOaecsdrocy7"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 161041,
+      "name": "Gyal Bruk Out",
+      "url": "https://open.spotify.com/track/7fakznny7CmyqZwppA4iTh"
+    },
+    {
+      "album": {
         "name": "Raw as Eva",
         "url": "https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha"
       },
@@ -1193,7 +1262,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 162377,
       "name": "Gyal Bruk Out",
       "url": "https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck"
@@ -1341,7 +1410,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 167560,
       "name": "Hot Fuk / Hot Wuk",
       "url": "https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G"
@@ -1429,10 +1498,40 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 273360,
       "name": "I'm Still in Love with You (feat. Sasha)",
       "url": "https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
+        },
+        {
+          "name": "Jeremy Harding",
+          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
+        },
+        {
+          "name": "Murray Elias",
+          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "I'm Still in Love with You (feat. Sasha)",
+      "url": "https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN"
     },
     {
       "album": {
@@ -1513,7 +1612,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-19",
       "duration_ms": 183293,
       "name": "Jeans & Fitted",
       "url": "https://open.spotify.com/track/7uYEwBpZDtVSpdKkUZsGZT"
@@ -1658,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/56m8Wv3qRBfwLuO08GtfHs"
+    },
+    {
+      "album": {
         "name": "Dutty Rock",
         "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
       },
@@ -1669,7 +1786,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 232506,
       "name": "Like Glue",
       "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
@@ -2033,7 +2150,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 174551,
       "name": "One Drop",
       "url": "https://open.spotify.com/track/54GRkvaa7ZUA6OtrPl3VUc"
@@ -2439,7 +2556,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 231400,
       "name": "Punanny Medley",
       "url": "https://open.spotify.com/track/5GEid99RgStd0cQIhAlGHQ"
@@ -2515,7 +2632,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 212597,
       "name": "Romping Shop (Clean)",
       "url": "https://open.spotify.com/track/1kKFMi0q6O4xurPGDVYJKl"
@@ -2847,6 +2964,24 @@
     {
       "album": {
         "name": "Alkaline Mix Tape Extended",
+        "url": "https://open.spotify.com/album/1llXY7x5d0C8Fwhu7nPdr1"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 206582,
+      "name": "Things Mi Love",
+      "url": "https://open.spotify.com/track/3clEPu4HneBXn2NvEBctEU"
+    },
+    {
+      "album": {
+        "name": "Alkaline Mix Tape Extended",
         "url": "https://open.spotify.com/album/5iTKUdJaihXEaBj3k4Kr6K"
       },
       "artists": [
@@ -2879,7 +3014,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 207047,
       "name": "Things Mi Love",
       "url": "https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9"

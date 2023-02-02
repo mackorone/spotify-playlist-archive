@@ -4,7 +4,7 @@
 
 > Be not afeard..\. this playlist is full of sounds and sweet airs that give delight\. These are Shakespeare's comedies.
 
-50 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/5VUG8brbA0AMa0Rp9dF3jL)
+50 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

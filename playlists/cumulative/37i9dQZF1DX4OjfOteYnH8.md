@@ -4,7 +4,7 @@
 
 > Los éxitos urbanos del mañana\. Rising Latin artists just for you\. Cover: Hozwal
 
-117 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/32kFCfM5TRdCpbu16LS7N2)
+117 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

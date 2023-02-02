@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Usted Señalemelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,588 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,979 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 |
 | 2 | [Lobo Solitario](https://open.spotify.com/track/3yQAbOhQDLFi0VdQriNU19) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Quique Rangel](https://open.spotify.com/artist/58ifdyw0QkM58ZOADGxOhH), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Hongo](https://open.spotify.com/album/4W4xTLzE3AStttaMRXGjVY) | 3:21 |
-| 3 | [Punto Final](https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Castillos de Arena](https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB) | 3:16 |
+| 3 | [Portales](https://open.spotify.com/track/7vfAJciqCRz31okZI9flNg) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Portales](https://open.spotify.com/album/2jzGlHolRkjRbO54FP7TLR) | 3:57 |
 | 4 | [Piel](https://open.spotify.com/track/3YWqRb6gE2zo57kRlGQfQx) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Revelaciones](https://open.spotify.com/album/0I8Yvr2l4M4j71xuLuf23Q) | 4:22 |
-| 5 | [Portales](https://open.spotify.com/track/7vfAJciqCRz31okZI9flNg) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Portales](https://open.spotify.com/album/2jzGlHolRkjRbO54FP7TLR) | 3:57 |
+| 5 | [Punto Final](https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Castillos de Arena](https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB) | 3:16 |
 | 6 | [Korea](https://open.spotify.com/track/4xP6pfadCFsCE1OA22BgZG) | [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Korea](https://open.spotify.com/album/2yvW470Y2oPtTKUA4iWWQy) | 5:09 |
 | 7 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 |
 | 8 | [Anhedonia](https://open.spotify.com/track/3l7XgSNNdnLEZ7Ipcj4Z1X) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Anhedonia](https://open.spotify.com/album/4mFzkhis1q3DVpQ86GhJv9) | 3:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 69 | [Perfecto Error](https://open.spotify.com/track/5diqHYqIz4JfsbDztdeuJI) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Perfecto Error](https://open.spotify.com/album/0PM4dmS8vkPgSQbIN2WJrT) | 3:55 |
 | 70 | [Corazón](https://open.spotify.com/track/5ubEpPWx9IDf75pmbOfHP8) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP) | [Respirar una Vez Mas](https://open.spotify.com/album/32qXAp0uwu8UOysuzdqlmD) | 4:34 |
 
-Snapshot ID: `MTY2NzUxMjgwNiwwMDAwMDAwMDA1MjU0OTYyZTM5NWFjYjE0NDBlMjkwODkwZTI5OGYz`
+Snapshot ID: `MTY3NDY3OTk2NiwwMDAwMDAwMDk1N2Q2YTFlYzY1MjAxZmI2NDRmMjk3YmM5MjY5MWM0`

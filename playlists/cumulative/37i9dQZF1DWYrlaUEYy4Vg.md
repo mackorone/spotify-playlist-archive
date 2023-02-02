@@ -4,7 +4,7 @@
 
 > John Mayer's new album Sob Rock and his greatest songs all in one playlist.
 
-65 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/4uI9CZOpzfYSGgAWYGyd75)
+65 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

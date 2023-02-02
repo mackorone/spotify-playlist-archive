@@ -4,7 +4,7 @@
 
 > Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio\. Watch now on Netflix.
 
-45 songs - 2 hr 43 min - not published yet
+45 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

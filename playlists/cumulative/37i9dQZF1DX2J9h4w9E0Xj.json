@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "The best new rock on the rise. Cover: The Linda Lindas",
   "name": "Rock Rising",
-  "published_playlist_ids": [
-    "4X0DXh9DPJiV5KJFDMzecp"
-  ],
   "tracks": [
     {
       "album": {
@@ -615,10 +612,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 270225,
       "name": "I Just Want That Movie Ending",
       "url": "https://open.spotify.com/track/1DvWXKEOUVx6Uueskk1dYw"
+    },
+    {
+      "album": {
+        "name": "Praise Armageddonism",
+        "url": "https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270225,
+      "name": "I Just Want That Movie Ending",
+      "url": "https://open.spotify.com/track/1szsGgLWJNiNpJNueHHKxI"
     },
     {
       "album": {
@@ -723,10 +738,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 241859,
       "name": "Lava Lamp Pisco",
       "url": "https://open.spotify.com/track/2SPQ2AjGncFJ9fEP0TOwn1"
+    },
+    {
+      "album": {
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241859,
+      "name": "Lava Lamp Pisco",
+      "url": "https://open.spotify.com/track/2eXXH2jx97BkAeMIM6Se3S"
     },
     {
       "album": {

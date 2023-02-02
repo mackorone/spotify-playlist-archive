@@ -1,12 +1,12 @@
 {
   "description": "Revive la \u00e9poca de los pantalones acampanados en compa\u00f1\u00eda de mam\u00e1.",
-  "num_followers": 29318,
+  "num_followers": 30976,
   "original_name": "Mam\u00e1 70era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTU4NjE3NSwwMDAwMDAwMGI2YWQ5NWQxZjQxNzdiMzEwYzRmNjZhODM5ODNjZDU4",
+  "snapshot_id": "MTYxOTU4NjE3NSwwMDAwMDAwMGQ0NzdmZGQ2ZjhmY2JjMjgzMjhkNTcyYThhMzIyNjlj",
   "tracks": [
     {
       "added_at": "2021-04-28 05:02:55",
@@ -251,6 +251,22 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
         "name": "Chicago X",
         "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
@@ -263,38 +279,6 @@
       "duration_ms": 235373,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Get The Knack",
-        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
-      },
-      "artists": [
-        {
-          "name": "The Knack",
-          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "My Sharona",
-      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -315,66 +299,18 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
         }
       ],
-      "duration_ms": 261933,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 365466,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Born to Be Alive (The Original)",
-        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
-      },
-      "artists": [
-        {
-          "name": "Patrick Hernandez",
-          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Born to Be Alive - The Original",
-      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -395,18 +331,66 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 256146,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
+      "duration_ms": 365466,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Born to Be Alive (The Original)",
+        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hernandez",
+          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Born to Be Alive - The Original",
+      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -443,18 +427,18 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 234773,
-      "name": "El Amar y el Querer",
-      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -471,6 +455,22 @@
       "duration_ms": 249666,
       "name": "\u00bfQuieres Ser Mi Amante?",
       "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
+        "name": "Nightflight to Venus",
+        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Rivers of Babylon",
+      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
         "name": "Diego En Los 70",
         "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
       },
@@ -519,70 +535,6 @@
       "duration_ms": 242253,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "Do That To Me One More Time",
-      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 314760,
-      "name": "Hot Stuff",
-      "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -603,18 +555,34 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Nightflight to Venus",
-        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
       },
       "artists": [
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 261266,
-      "name": "Rivers of Babylon",
-      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+      "duration_ms": 314760,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "Do That To Me One More Time",
+      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -631,6 +599,42 @@
       "duration_ms": 249600,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -747,6 +751,22 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
+        "name": "Simple Dreams",
+        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 239399,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN"
       },
@@ -779,22 +799,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Love Will Keep Us Together",
-        "url": "https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Love Will Keep Us Together",
-      "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "52nd Street",
         "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
       },
@@ -811,34 +815,50 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Closeup",
-        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
       "artists": [
         {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 212013,
-      "name": "My Eyes Adored You",
-      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
+      "duration_ms": 195506,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
     },
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Simple Dreams",
-        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
         }
       ],
-      "duration_ms": 239399,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
+      "duration_ms": 202053,
+      "name": "Muri\u00f3 La Flor",
+      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Love Will Keep Us Together",
+        "url": "https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Love Will Keep Us Together",
+      "url": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -859,6 +879,22 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
       },
@@ -871,22 +907,6 @@
       "duration_ms": 285360,
       "name": "Volc\u00e1n",
       "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Muri\u00f3 La Flor",
-      "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -923,18 +943,18 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "2 (Remasterizado 2017)",
-        "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
       },
       "artists": [
         {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
         }
       ],
-      "duration_ms": 245560,
-      "name": "Hoy tengo ganas de ti",
-      "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -955,18 +975,34 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+        "name": "2 (Remasterizado 2017)",
+        "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
       },
       "artists": [
         {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
         }
       ],
-      "duration_ms": 348066,
-      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
-      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
+      "duration_ms": 245560,
+      "name": "Hoy tengo ganas de ti",
+      "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Alma, Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
+      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -987,38 +1023,34 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "The B-52's",
-        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
       "artists": [
         {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
         }
       ],
-      "duration_ms": 409400,
-      "name": "Rock Lobster",
-      "url": "https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT"
+      "duration_ms": 348066,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+        "name": "Sailing / Poor Shirley (Digital 45)",
+        "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
       },
       "artists": [
         {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 214366,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
+      "duration_ms": 255453,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -1035,6 +1067,22 @@
       "duration_ms": 216840,
       "name": "Alone Again (Naturally)",
       "url": "https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "The B-52's",
+        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 409400,
+      "name": "Rock Lobster",
+      "url": "https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -1059,18 +1107,18 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+        "name": "Eres M\u00eda (Remasterizado)",
+        "url": "https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj"
       },
       "artists": [
         {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+          "name": "Chiquetete",
+          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
         }
       ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+      "duration_ms": 219280,
+      "name": "Esta Cobard\u00eda - Remasterizado",
+      "url": "https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -1123,54 +1171,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Alma, Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
-      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
-        "name": "Eres M\u00eda (Remasterizado)",
-        "url": "https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj"
-      },
-      "artists": [
-        {
-          "name": "Chiquetete",
-          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "Esta Cobard\u00eda - Remasterizado",
-      "url": "https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "A Flor De Piel",
         "url": "https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K"
       },
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "15 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4wqRBtvdUx8rWZebL0982U"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
         }
       ],
-      "duration_ms": 256200,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
+      "duration_ms": 198000,
+      "name": "Coraz\u00f3n m\u00e1gico",
+      "url": "https://open.spotify.com/track/1bpOD9jv1ge8RiyKccjLHW"
     }
   ],
   "unique_name": "Mam\u00e1 70era",

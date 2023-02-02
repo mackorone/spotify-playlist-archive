@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:3gC2pjwYVTQdMuHUucgODF">NEL</a>
 
-52 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/6lcwd00Z9XsuiE37v1H8W0)
+52 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

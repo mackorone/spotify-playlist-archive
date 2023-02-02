@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Demi Bagby.
 
-39 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/1CfVo623JNzPTPDIRxZ1qv)
+39 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

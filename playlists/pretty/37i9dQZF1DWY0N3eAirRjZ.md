@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: Keauhou
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,795 likes - 54 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,348 likes - 54 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

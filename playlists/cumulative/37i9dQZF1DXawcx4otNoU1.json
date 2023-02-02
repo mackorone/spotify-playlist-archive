@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "For those cozy moments.",
   "name": "Spooning",
-  "published_playlist_ids": [
-    "18y1K7szva4ApQnZGnbzQT"
-  ],
   "tracks": [
     {
       "album": {
@@ -105,7 +102,7 @@
           "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 249444,
@@ -559,6 +556,24 @@
       "duration_ms": 261279,
       "name": "Bridge Back to Your Heart",
       "url": "https://open.spotify.com/track/6jxSnB1k1naHtdJNCdzZqk"
+    },
+    {
+      "album": {
+        "name": "Can You Take It",
+        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181783,
+      "name": "Can You Take It",
+      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
     },
     {
       "album": {
@@ -1543,6 +1558,24 @@
     {
       "album": {
         "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235936,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR"
+    },
+    {
+      "album": {
+        "name": "Max Jury",
         "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
       },
       "artists": [
@@ -1553,7 +1586,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 235936,
       "name": "Great American Novel",
       "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
@@ -2120,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "album": {
         "name": "Love & Hate",
         "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
       },
@@ -2401,7 +2452,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 247000,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/5YapFTzK50sdZcM6rWuL9M"
@@ -2758,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+    },
+    {
+      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/1wykiv2riNxF4i3gfrz3qI"
       },
@@ -2989,7 +3058,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-13",
       "duration_ms": 220116,
       "name": "Meteor Showers",
       "url": "https://open.spotify.com/track/1YJtGzArwMvryrDMN0sNRB"
@@ -4093,7 +4162,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 190500,
       "name": "Risking It All",
       "url": "https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN"
@@ -4219,7 +4288,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 155744,
       "name": "Sex + Hennessy",
       "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
@@ -4566,6 +4635,28 @@
     },
     {
       "album": {
+        "name": "Super",
+        "url": "https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181812,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
+    },
+    {
+      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb"
       },
@@ -4891,7 +4982,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 230947,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM"
@@ -5021,6 +5112,24 @@
       "duration_ms": 236680,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
+    },
+    {
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
     },
     {
       "album": {
@@ -5353,7 +5462,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 217186,
       "name": "\u00deerney (One Thing)",
       "url": "https://open.spotify.com/track/4hq3eYHlkHhcD70jwgZQhE"

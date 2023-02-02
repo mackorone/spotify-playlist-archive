@@ -4,7 +4,7 @@
 
 > Summer fun for the whole family.
 
-88 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/7BcUzLlBJ2xTZ7YTR5pSJz)
+90 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,9 +31,11 @@
 | [Follow the Sun](https://open.spotify.com/track/0fGe6WYDEaC9TQLJt2AqRn) | [Danny Jacob](https://open.spotify.com/artist/3J6ns49mHsAFXgp5EoDJjS), [Laura Dickinson](https://open.spotify.com/artist/24atAUm9yln5x8Os9PEIwv) | [Phineas and Ferb Summer Belongs to You](https://open.spotify.com/album/77jAlhvBI46I7MiMmfsEbF) | 1:22 | 2021-08-30 |  |
 | [Get Outside](https://open.spotify.com/track/0Mx4DMMD8NccivXrUg0DWU) | [Wendy and DB](https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM) | [Hey Big World](https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR) | 3:06 | 2021-08-30 |  |
 | [Getting a Sunburn](https://open.spotify.com/track/6H7tY1fZgPTAPwl9zhVW16) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Desert Island Disc](https://open.spotify.com/album/15bBuB1A3MOOhfbqv45PbS) | 2:32 | 2021-08-30 |  |
-| [Getting in a Treetop](https://open.spotify.com/track/6ee0hMZYDgVjRdFA0xyi57) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Gustafer Yellowgold's Mellow Fever](https://open.spotify.com/album/3YOlWxSCB1Dt2NdwciOBfX) | 2:44 | 2021-08-30 |  |
+| [Getting In A Tree Top](https://open.spotify.com/track/34neqxm9ArTLTS7l8452Kh) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Mellow Fever](https://open.spotify.com/album/0qw5psAH3gSgnisO8mNJz0) | 2:44 | 2021-08-30 |  |
+| [Getting in a Treetop](https://open.spotify.com/track/6ee0hMZYDgVjRdFA0xyi57) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Gustafer Yellowgold's Mellow Fever](https://open.spotify.com/album/3YOlWxSCB1Dt2NdwciOBfX) | 2:44 | 2021-08-30 | 2022-12-08 |
 | [Go Play Outside](https://open.spotify.com/track/5oGi3t0P5LJ4Opu87mlLUg) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:27 | 2021-08-30 |  |
-| [Hot Nights \(feat\. Pat Sansone\)](https://open.spotify.com/track/4lysmuayuw7MrjxNECdhQs) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Brighter Side](https://open.spotify.com/album/5t7evB9uKy03DvgWKnIOOZ) | 2:55 | 2021-08-30 |  |
+| [Hot Nights](https://open.spotify.com/track/00lrwYqxiXM1p5Df2QMsFS) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK), [Pat Sansone](https://open.spotify.com/artist/5d2UMbxIe7UqoG329QjrEM) | [Brighter Side](https://open.spotify.com/album/1S95VJgPQTSDT6DFMXv8df) | 2:55 | 2021-08-30 |  |
+| [Hot Nights \(feat\. Pat Sansone\)](https://open.spotify.com/track/4lysmuayuw7MrjxNECdhQs) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Brighter Side](https://open.spotify.com/album/5t7evB9uKy03DvgWKnIOOZ) | 2:55 | 2021-08-30 | 2022-12-08 |
 | [I Love Summertime](https://open.spotify.com/track/4XVeURpGmtHc65tPkPACvL) | [The Singing Walrus](https://open.spotify.com/artist/3L5oCwlVHuB94ltjdUbQMi) | [The Singing Walrus Song Collection \#2](https://open.spotify.com/album/4gNEDodrFskxtJvxZx9m81) | 3:49 | 2021-08-30 |  |
 | [Ice Cold Lemonade](https://open.spotify.com/track/6hQBlpN06NkcUUJS1iKKfm) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb), [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Ice Cold Lemonade](https://open.spotify.com/album/5sOKX7TjwqvRW6MnTHALn0) | 2:59 | 2021-08-30 |  |
 | [Ice Cream](https://open.spotify.com/track/5zhOFutkl4I01RjI9NDEsP) | [Asheba](https://open.spotify.com/artist/6VkqEReE8tIwa8wap4TACw) | [In the Kid Zone](https://open.spotify.com/album/4xRmUIxkuX9fIiYmXWqiEC) | 3:54 | 2021-08-30 |  |

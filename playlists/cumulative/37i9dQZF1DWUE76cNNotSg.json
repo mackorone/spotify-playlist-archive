@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Warm indie dance vibes, the music you need at golden hour.",
   "name": "golden hour",
-  "published_playlist_ids": [
-    "4ugtMYCOMKGk6u5JwB5V7b"
-  ],
   "tracks": [
     {
       "album": {
@@ -1275,7 +1272,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 222439,
       "name": "Drift",
       "url": "https://open.spotify.com/track/7nF0GGmgvZ0ViSocnGr2zZ"
@@ -1456,6 +1453,28 @@
     },
     {
       "album": {
+        "name": "On the Quiet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259146,
+      "name": "Far Away Place",
+      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
+    },
+    {
+      "album": {
         "name": "Feel Better Now",
         "url": "https://open.spotify.com/album/33d0GIhGtH6VL2cLx05yIk"
       },
@@ -1489,7 +1508,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C"
@@ -2001,7 +2020,7 @@
     {
       "album": {
         "name": "Hesitate",
-        "url": "https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj"
+        "url": "https://open.spotify.com/album/5yCaCrHtiOhgbdBAupRJJM"
       },
       "artists": [
         {
@@ -2016,6 +2035,28 @@
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 251279,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz"
+    },
+    {
+      "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj"
+      },
+      "artists": [
+        {
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        },
+        {
+          "name": "Emerson Leif",
+          "url": "https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 251279,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c"
@@ -2051,7 +2092,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 156293,
       "name": "Home",
       "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
@@ -2091,7 +2132,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 238999,
       "name": "How Many Times?",
       "url": "https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL"
@@ -2641,7 +2682,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 237560,
       "name": "Kinda Lovely",
       "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
@@ -2815,7 +2856,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 218579,
       "name": "Living The Life",
       "url": "https://open.spotify.com/track/0U4BsTlcGsdLldHE7wnniA"
@@ -3115,6 +3156,28 @@
     {
       "album": {
         "name": "Matter of Time (feat. Alex Maher)",
+        "url": "https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240009,
+      "name": "Matter of Time (feat. Alex Maher)",
+      "url": "https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf"
+    },
+    {
+      "album": {
+        "name": "Matter of Time (feat. Alex Maher)",
         "url": "https://open.spotify.com/album/5f1PM9xUhWpVNmNdN3xj6S"
       },
       "artists": [
@@ -3129,7 +3192,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240009,
       "name": "Matter of Time (feat. Alex Maher)",
       "url": "https://open.spotify.com/track/4BmPTpXnae3IwwXAcK0byT"
@@ -3420,6 +3483,24 @@
     },
     {
       "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "album": {
         "name": "Move You",
         "url": "https://open.spotify.com/album/6eLtqlfzQJwz5o0bOYrtNg"
       },
@@ -3565,7 +3646,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 305480,
       "name": "Never Come Back",
       "url": "https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU"
@@ -4508,6 +4589,28 @@
     },
     {
       "album": {
+        "name": "Shine a Light",
+        "url": "https://open.spotify.com/album/1JiEqgVUMWk0F6P31nvwLG"
+      },
+      "artists": [
+        {
+          "name": "The C90s",
+          "url": "https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349962,
+      "name": "Shine a Light - Flight Facilities Remix",
+      "url": "https://open.spotify.com/track/2nNSYajMD4ScHbhthVPqrh"
+    },
+    {
+      "album": {
         "name": "Shine A Light",
         "url": "https://open.spotify.com/album/1r0jL1OzptvUXSe7YrF9j9"
       },
@@ -5057,7 +5160,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 265800,
       "name": "S\u00e9quences - Parcels Remix",
       "url": "https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6"

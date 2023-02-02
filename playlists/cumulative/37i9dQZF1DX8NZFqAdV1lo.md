@@ -4,7 +4,7 @@
 
 > Some advice is best taken with a pillar of salt\. \[Warning: Explicit Content\]
 
-26 songs - 1 hr 33 min - [published](https://open.spotify.com/playlist/1ttHJX8Doe1lpYercSCEHI)
+26 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

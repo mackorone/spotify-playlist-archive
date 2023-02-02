@@ -4,7 +4,7 @@
 
 > Celebrate Dad with these songs for the whole family.
 
-41 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/6tl6Ybu4TpCwX9cllSPtj0)
+42 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Daddy Song \- Thank You](https://open.spotify.com/track/6CExjOhY0hn4vsFFh2wmhe) | [Morphle](https://open.spotify.com/artist/0klGLXMn3FdjcUlNqQJosO) | [Daddy Song \- Thank You](https://open.spotify.com/album/2F3UwWSOHBnyEr6aorFUVf) | 2:05 | 2022-04-08 | 2022-07-29 |
 | [Daddy Song \- Thank You For All That You Do](https://open.spotify.com/track/5cNZz55WzWwomcIY8yzWY6) | [Morphle](https://open.spotify.com/artist/0klGLXMn3FdjcUlNqQJosO) | [Daddy Song \- Thank You](https://open.spotify.com/album/5Xcd1QuA3o8Kw6uUYOAZyM) | 2:05 | 2022-04-08 |  |
 | [Daddy Takes Good Care of Me \- 2015 Version](https://open.spotify.com/track/1hQDkxjJotKkwh1ISYsfuO) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Mother's Day and Father's Day Songs for Kids](https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8) | 2:02 | 2022-04-08 |  |
-| [Daddy's Whiskers](https://open.spotify.com/track/5B7vbfnVqNX1zkcy0uqasM) | [Sharon, Lois & Bram](https://open.spotify.com/artist/0SPvCvZvk7XDx8tGtGQhiE) | [Skinnamarink TV](https://open.spotify.com/album/2Mwc6S6uZkjBCFhACiADZL) | 2:04 | 2022-04-08 |  |
+| [Daddy's Whiskers](https://open.spotify.com/track/3vGsiPyWnx4SvnRtMY2qUR) | [Sharon, Lois & Bram](https://open.spotify.com/artist/0SPvCvZvk7XDx8tGtGQhiE) | [Skinnamarink TV](https://open.spotify.com/album/1OXxSbuew9543P2pnKaexV) | 2:04 | 2022-04-08 |  |
+| [Daddy's Whiskers](https://open.spotify.com/track/5B7vbfnVqNX1zkcy0uqasM) | [Sharon, Lois & Bram](https://open.spotify.com/artist/0SPvCvZvk7XDx8tGtGQhiE) | [Skinnamarink TV](https://open.spotify.com/album/2Mwc6S6uZkjBCFhACiADZL) | 2:04 | 2022-04-08 | 2023-01-07 |
 | [Daddy\-o](https://open.spotify.com/track/6ti6642d8YTQ7YNy7I9OD0) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 2:03 | 2022-04-08 |  |
 | [Dance to Your Daddy](https://open.spotify.com/track/6hSE9c2XBJvSaZsBj4oF4x) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/1z2g7LzBZArYxElKvT47kl) | 1:18 | 2022-04-08 | 2022-07-29 |
 | [Dance to Your Daddy](https://open.spotify.com/track/3Q5Qi7wr74JGzcG7JRGpb4) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 1:18 | 2022-04-08 |  |

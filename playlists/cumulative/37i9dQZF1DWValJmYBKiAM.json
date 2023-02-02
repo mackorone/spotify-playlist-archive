@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-13",
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2000s.",
   "name": "Latin Chillout 00s",
-  "published_playlist_ids": [
-    "0ytVWKZ6AVAwJHeApB1I5t"
-  ],
   "tracks": [
     {
       "album": {
@@ -163,7 +160,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2022-12-31",
       "duration_ms": 257440,
       "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
       "url": "https://open.spotify.com/track/25NjrLbcrjU4TiI5BZQirh"
@@ -265,7 +262,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 236160,
       "name": "Asignatura Pendiente",
       "url": "https://open.spotify.com/track/4nYE8K5ozd9HNfB2RC8o2c"
@@ -388,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232026,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+    },
+    {
+      "album": {
         "name": "El Alma Al Aire: 20 Aniversario",
         "url": "https://open.spotify.com/album/7ncmnoKZ2UhqaIvoJWQlmu"
       },
@@ -437,7 +452,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235906,
-      "name": "Desde cuando - (iTunes exclusive)",
+      "name": "Desde cuando",
       "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
     },
     {
@@ -1149,7 +1164,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 239826,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/5ToI5oXnUmX5Nsmg8enL1N"
@@ -1355,7 +1370,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 245266,
       "name": "Para Qu\u00e9 La Vida",
       "url": "https://open.spotify.com/track/4ZwU8VMYnkigKVJgSgTBtK"
@@ -1563,7 +1578,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187626,
-      "name": "Samba De Verao",
+      "name": "Samba De Ver\u00e3o",
       "url": "https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC"
     },
     {
@@ -1831,6 +1846,24 @@
       "duration_ms": 182520,
       "name": "S\u00f3lo para Ti",
       "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+    },
+    {
+      "album": {
+        "name": "Bacilos (Re-Issue)",
+        "url": "https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312400,
+      "name": "Tabaco Y Chanel",
+      "url": "https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1"
     },
     {
       "album": {
@@ -2109,6 +2142,24 @@
       "duration_ms": 199482,
       "name": "Un Idiota",
       "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
+    },
+    {
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "Underneath Your Clothes",
+      "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
     },
     {
       "album": {

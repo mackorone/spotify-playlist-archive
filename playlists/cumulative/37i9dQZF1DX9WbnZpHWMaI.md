@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-103 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/2qMeWuSU5XkH0w2mb2bXO8)
+106 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [About Work The Dancefloor \- The Blessed Madonna Remix \(Edit\)](https://open.spotify.com/track/58uvwTRUJLYy7dCe4L052M) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [About Work The Dancefloor \(The Blessed Madonna Remix\)](https://open.spotify.com/album/1gb9PQawrh5AldGrdrlzxP) | 3:29 | 2021-03-01 |  |
 | [All my friends know \- Anz Remix](https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 5:11 | 2022-03-08 |  |
 | [Are U Down](https://open.spotify.com/track/5UwR04Cke847W9Whoxx57s) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:17 | 2021-03-01 |  |
-| [Attack](https://open.spotify.com/track/1Due9XdQ9PAJ4wzBNtWoq2) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Project Ghost](https://open.spotify.com/album/0rJWzZcmEdFrPokYIYPtLm) | 3:40 | 2021-03-01 |  |
+| [Attack](https://open.spotify.com/track/1Due9XdQ9PAJ4wzBNtWoq2) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Project Ghost](https://open.spotify.com/album/0rJWzZcmEdFrPokYIYPtLm) | 3:40 | 2021-03-01 | 2023-01-07 |
+| [Attack](https://open.spotify.com/track/7wnxYjwm2gl9FjKAJQZEyg) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [PROJECT GHOST](https://open.spotify.com/album/7yxrXJ2KTLEniIiz5bZ4yM) | 3:40 | 2022-03-08 |  |
 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 | 2021-03-01 |  |
 | [BOYZ](https://open.spotify.com/track/5UnNCMFboucIF78lnp1jkR) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE) | 4:00 | 2022-03-08 |  |
 | [BOYZ](https://open.spotify.com/track/79ixYcSOhGVaG69GHfVOXJ) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/42RXpd1cxEckm91miDtiAs) | 4:00 | 2022-03-08 | 2022-07-29 |
@@ -23,7 +24,7 @@
 | [Capacidades](https://open.spotify.com/track/1ykjMdqbt95Bu2BuPbAlUy) | [Nídia](https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G) | [Não Fales Nela Que A Mentes](https://open.spotify.com/album/37k7KzGQIMEnoxD15qq4uL) | 2:27 | 2021-03-01 |  |
 | [Change](https://open.spotify.com/track/6dMZduF6Qs2WiSzQs7gqk5) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Change](https://open.spotify.com/album/6h4CKrhhFHdF6ElBeF3hgE) | 3:09 | 2021-03-01 |  |
 | [Cosmology](https://open.spotify.com/track/1M2R7cAdnwWO08JinxumOU) | [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs) | [Stylish Tantrum](https://open.spotify.com/album/5zHzMujcNpkEWGmO2IYcrA) | 6:21 | 2021-03-01 |  |
-| [Disappear \- Edit](https://open.spotify.com/track/421uIC95bEniTdzIwVU7sE) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Disappear \(Edit\)](https://open.spotify.com/album/0BVNybxffjnOY0wfGltRnr) | 4:32 | 2021-03-01 |  |
+| [Disappear \(Edit\)](https://open.spotify.com/track/421uIC95bEniTdzIwVU7sE) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Disappear \(Edit\)](https://open.spotify.com/album/0BVNybxffjnOY0wfGltRnr) | 4:32 | 2021-03-01 |  |
 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 | 2021-03-01 |  |
 | [entertnmnt](https://open.spotify.com/track/03QOVCgeoLk34Yb70fDTTz) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [entertnmnt](https://open.spotify.com/album/3YYBX5IjwUGlzb7kXD0Hzg) | 3:14 | 2021-03-01 | 2022-07-29 |
 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 | 2022-03-08 |  |
@@ -70,10 +71,12 @@
 | [Milan](https://open.spotify.com/track/4mahGo3dO07PB93ukfc62D) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [SOS MUSIC VOL\. 1](https://open.spotify.com/album/5ffE081DdeFbqJFZ6F6MOY) | 3:30 | 2021-03-01 | 2022-07-29 |
 | [Milan](https://open.spotify.com/track/366wMj4PcQ3Ihye2Ljsf2C) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U), [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Milan](https://open.spotify.com/album/6wVcEf60sMZqB5FRzfbwJV) | 3:30 | 2022-03-08 |  |
 | [Milan](https://open.spotify.com/track/4BWhmMQ52fqNoL3kabIM3L) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U), [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [SOS MUSIC VOLUME 1](https://open.spotify.com/album/2sW21vXlX1MNW0VyJLo4LM) | 3:30 | 2022-03-08 | 2022-11-14 |
-| [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-03-01 |  |
+| [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 | 2022-03-08 |  |
+| [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-03-01 | 2023-02-02 |
 | [Nighthawks 01](https://open.spotify.com/track/2Oz3Tj8RbLBZFW5Adsyzyj) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Musicolours](https://open.spotify.com/album/7soM3OZShMyXvzjncV6ea5) | 6:24 | 2021-03-01 |  |
+| [No Good For Me](https://open.spotify.com/track/0L0n5Yx0nVMeUjLmgvhyWi) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:35 | 2022-03-08 |  |
 | [No Good For Me](https://open.spotify.com/track/1egyWKeo2iMvB0y4GaUjnt) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [No Good For Me](https://open.spotify.com/album/4w9gaeny1Z2qHihswgXISA) | 3:35 | 2022-03-08 | 2022-11-13 |
-| [No Good For Me](https://open.spotify.com/track/58Nk6FBeZFEHgHIUw201Z4) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/5och8NdNkmWVGj0QrN4Lq9) | 3:35 | 2022-03-08 |  |
+| [No Good For Me](https://open.spotify.com/track/58Nk6FBeZFEHgHIUw201Z4) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/5och8NdNkmWVGj0QrN4Lq9) | 3:35 | 2022-03-08 | 2023-02-02 |
 | [No Good For Me](https://open.spotify.com/track/7CAwk333MKotsz8nm6Og7j) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [No Good For Me](https://open.spotify.com/album/41lP4JFAtyIfAMLMBX1Hhw) | 3:35 | 2021-03-01 | 2022-07-29 |
 | [Obsesión Romántica](https://open.spotify.com/track/7uFODqub2N87Sq5yUz5ksA) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [Obsesión Romántica](https://open.spotify.com/album/1da1Ef2gpAXI0Xet1ZrZAa) | 7:11 | 2022-03-08 |  |
 | [Obsesión Romántica](https://open.spotify.com/track/3kBUPfyyjXV7SYFUQnwWzv) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [SOS MUSIC VOL\. 1](https://open.spotify.com/album/5ffE081DdeFbqJFZ6F6MOY) | 7:11 | 2021-03-01 | 2022-07-29 |

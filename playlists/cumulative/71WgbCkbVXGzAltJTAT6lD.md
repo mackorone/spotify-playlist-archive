@@ -4,7 +4,7 @@
 
 > Slip into the world of Brian Eno...
 
-23 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/0KivzAlqg1AfGekXJuYoZu)
+23 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "The K-Pop idols who started it all from 90's - 10's. (90\ub144\ub300\ubd80\ud130 2010\ub144\ub300\uae4c\uc9c0 \ucf00\uc774\ud31d \uc544\uc774\ub3cc \ud544\uc218\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K-Pop Generations",
-  "published_playlist_ids": [
-    "7G6kgkeeKc0MSS1Yr6hAro"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 228866,
       "name": "0%",
       "url": "https://open.spotify.com/track/643JzHUBRtTPVPmGatwe79"
@@ -91,7 +88,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 228937,
       "name": "0%",
       "url": "https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7"
@@ -883,7 +880,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 213838,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM"
@@ -901,7 +898,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6hl3GBSlDJbh5zBUhA3jVU"
@@ -2407,10 +2404,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 220346,
       "name": "This Love",
       "url": "https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs"
+    },
+    {
+      "album": {
+        "name": "The Classic",
+        "url": "https://open.spotify.com/album/4pZaGrn3Z8xiX6KQYkRRkU"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220346,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/1tYpbWzCSZjWz6tZxVbyzC"
     },
     {
       "album": {
@@ -2505,7 +2520,7 @@
     {
       "album": {
         "name": "The Return",
-        "url": "https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu"
+        "url": "https://open.spotify.com/album/0bhobOcdGqJ3GG20tM32l5"
       },
       "artists": [
         {
@@ -2516,6 +2531,24 @@
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217171,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4sKAJE5FVYmltDGtmrG1c6"
+    },
+    {
+      "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
       "duration_ms": 217171,
       "name": "Venus",
       "url": "https://open.spotify.com/track/7FV7Ng7Oj3ToGGlxvIjPtF"

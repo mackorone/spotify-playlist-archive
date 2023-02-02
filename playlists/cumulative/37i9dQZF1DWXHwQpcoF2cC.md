@@ -4,7 +4,7 @@
 
 > The best recent metal tracks\. Cover: Falling In Reverse
 
-74 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/60nXJ45agAFWh0gM8e58vr)
+74 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

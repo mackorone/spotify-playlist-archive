@@ -4,7 +4,7 @@
 
 > 'Tis the season to be melancholy.
 
-44 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/5KQxeb1Y3JrD6SL4w2L40j)
+44 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

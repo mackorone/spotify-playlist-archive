@@ -4,7 +4,7 @@
 
 > Todo el drama, pero con final feliz.
 
-162 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/03QQBDDqaY6eMKb3K8wvRK)
+162 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

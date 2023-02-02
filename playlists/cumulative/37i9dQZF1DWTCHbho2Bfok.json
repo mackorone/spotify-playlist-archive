@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "All the festive faves to soundtrack your very merry Christmas!",
   "name": "Christmas Favourites",
-  "published_playlist_ids": [
-    "6kMROUmrhkoCB9OtoHeyZI"
-  ],
   "tracks": [
     {
       "album": {
@@ -167,10 +164,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 129173,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
+    },
+    {
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/3nDzeeosWy1TWYwVMRhRJJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Barnes",
+          "url": "https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130266,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/7C5MKu83YKO3QnCj2suvfz"
     },
     {
       "album": {
@@ -1244,24 +1259,6 @@
     },
     {
       "album": {
-        "name": "A Brenda Lee Christmas",
-        "url": "https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "date_added": "2021-12-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 126146,
-      "name": "Rockin' Around the Christmas Tree",
-      "url": "https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA"
-    },
-    {
-      "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
@@ -1295,6 +1292,24 @@
       "duration_ms": 126146,
       "name": "Rockin' Around the Christmas Tree - Re-Recorded Version",
       "url": "https://open.spotify.com/track/0MSZvONijKwL4NWF8n6pE6"
+    },
+    {
+      "album": {
+        "name": "A Brenda Lee Christmas",
+        "url": "https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126146,
+      "name": "Rockin' Around the Christmas Tree - Rerecorded Version",
+      "url": "https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA"
     },
     {
       "album": {

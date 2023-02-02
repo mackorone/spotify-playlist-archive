@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
   "name": "Bachat\u00e9ame",
-  "published_playlist_ids": [
-    "033UsUOq5jX4rotaC52w8z"
-  ],
   "tracks": [
     {
       "album": {
@@ -1549,10 +1546,28 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 234031,
       "name": "Maestra",
       "url": "https://open.spotify.com/track/4uQf92w1IjsdnKZevVANAt"
+    },
+    {
+      "album": {
+        "name": "Tres Palabras",
+        "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez El Camar\u00f3n",
+          "url": "https://open.spotify.com/artist/0lk9ZWji6LAxpqlfcXMspP"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231191,
+      "name": "Maestra",
+      "url": "https://open.spotify.com/track/6NOgTDhJDbsxGzyseTXe0c"
     },
     {
       "album": {

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance antig\u00fcito en voz de tus artistas pop con Mel Mu\u00f1iz en portada.",
+  "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
   "name": "Boleros Pop",
-  "published_playlist_ids": [
-    "4BSRRbWHbtCycrKZ946Plx"
-  ],
   "tracks": [
     {
       "album": {
@@ -367,7 +364,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
@@ -691,7 +688,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 171973,
       "name": "Como Las Olas",
       "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
@@ -877,7 +874,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 143000,
       "name": "Cuando Los Malandros Lloran",
       "url": "https://open.spotify.com/track/2Hz67xjPicg9Xdq7K8FfDG"
@@ -953,7 +950,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 155480,
       "name": "DELIRIO DE GRANDEZA",
       "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
@@ -1101,10 +1098,28 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 241693,
       "name": "El D\u00eda Que Me Quieras",
       "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
+    },
+    {
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231053,
+      "name": "El lugar correcto",
+      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
     },
     {
       "album": {
@@ -1163,7 +1178,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 181853,
       "name": "El Reloj",
       "url": "https://open.spotify.com/track/2JiRKaA4JAHMPCqU7D74w6"
@@ -1235,7 +1250,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 239412,
       "name": "En las Noches",
       "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
@@ -1253,7 +1268,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX"
@@ -1431,7 +1446,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-19",
       "duration_ms": 272226,
       "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
       "url": "https://open.spotify.com/track/0zWa5MVujd2PUiqRnXxTmU"
@@ -1849,7 +1864,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 197965,
       "name": "La Mentira (Se Te Olvida)",
       "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
@@ -2012,6 +2027,28 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173288,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
       },
@@ -2111,7 +2148,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-26",
       "duration_ms": 232373,
       "name": "Mar\u00eda Bonita",
       "url": "https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP"
@@ -3072,6 +3109,28 @@
     },
     {
       "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
       },
@@ -3569,7 +3628,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 189978,
       "name": "Si las Paredes Hablaran",
       "url": "https://open.spotify.com/track/0MIE9dOJA39gXHwodePCAd"
@@ -3753,7 +3812,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 234128,
       "name": "Somos Algo",
       "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
@@ -4091,7 +4150,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 206710,
       "name": "Tu Amor No Vale un Bolero",
       "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
@@ -4255,7 +4314,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 171272,
       "name": "Una Ma\u00f1ana",
       "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
@@ -4365,7 +4424,7 @@
       },
       "artists": [
         {
-          "name": "Isaac & Nora",
+          "name": "Isaac et Nora",
           "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
         }
       ],
@@ -4465,7 +4524,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 275280,
       "name": "Ya S\u00e9",
       "url": "https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv"

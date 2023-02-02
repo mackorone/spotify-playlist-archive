@@ -4,7 +4,7 @@
 
 > Hip\-Hop's next generation takes over SXSW! Cover: <a href="spotify:artist:3Gm5F95VdRxW3mqCn8RPBJ">Aminè</a>.
 
-33 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/72UNrENEEBF6ughBYsTycT)
+33 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Fire Force”!  歴代OP/ED、サントラ曲で辿るアニメ「炎炎ノ消防隊」の世界！©大久保篤・講談社／特殊消防隊動画広報課
 
-61 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/5xDY9qsr1oU1nonMmrFfj3)
+61 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

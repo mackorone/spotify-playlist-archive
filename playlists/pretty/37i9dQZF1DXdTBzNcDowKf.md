@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 
 > Listen to all of the music from the Minions and Despicable Me movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,907 likes - 38 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,411 likes - 38 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover new artists on the horizon.",
+  "description": "The top tracks from RADAR Philippines in 2022. Cover: Adie",
   "name": "RADAR Philippines",
-  "published_playlist_ids": [
-    "3x47cvEOoy8EUAZDcwGWs4"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,7 +20,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 212999,
       "name": "3:33",
       "url": "https://open.spotify.com/track/55rICajyesqUiny8nmtioj"
@@ -45,7 +42,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 165000,
       "name": "3rd Eye",
       "url": "https://open.spotify.com/track/1Rmg6e9FO4C0RLtXpFtA4G"
@@ -99,7 +96,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 268000,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4rCpSyxdUIXPvPsK77p7wE"
@@ -121,7 +118,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 194300,
       "name": "Ayoko Pa",
       "url": "https://open.spotify.com/track/6WauTGPc48jOCF4HfQU9DU"
@@ -193,7 +190,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 215624,
       "name": "Best Time",
       "url": "https://open.spotify.com/track/0EUhMQB6Ct1AT0mBBOZsTp"
@@ -259,7 +256,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 207072,
       "name": "Blah Blah",
       "url": "https://open.spotify.com/track/3keEpyhWEE4FCAEHXZDcPb"
@@ -277,10 +274,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 173888,
       "name": "Born To Win",
       "url": "https://open.spotify.com/track/0zTmcNKTKyxMohxIvjpIAV"
+    },
+    {
+      "album": {
+        "name": "Born To Win",
+        "url": "https://open.spotify.com/album/3xpmqNo62myMulZ1MtnTox"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "Born To Win",
+      "url": "https://open.spotify.com/track/6gM4xq1CXli6FC5Qm7pLHl"
     },
     {
       "album": {
@@ -331,7 +346,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 233142,
       "name": "Dalawa",
       "url": "https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq"
@@ -371,7 +386,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 178666,
       "name": "Demons",
       "url": "https://open.spotify.com/track/7w0GhApB7RA7DrJACVwvaN"
@@ -389,7 +404,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 259569,
       "name": "Di Inakala",
       "url": "https://open.spotify.com/track/3o7dXlwWMntfxjkaqSRIkZ"
@@ -685,7 +700,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 209819,
       "name": "Hara",
       "url": "https://open.spotify.com/track/7w92fQPnMISlyjKdkgnBjs"
@@ -829,7 +844,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 264490,
       "name": "Huli",
       "url": "https://open.spotify.com/track/3fWRjcmyiuRIodbyHH2c7A"
@@ -869,7 +884,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 191009,
       "name": "Ikaw Pa Rin",
       "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
@@ -923,7 +938,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 209500,
       "name": "Kalimutan",
       "url": "https://open.spotify.com/track/1degd7Nhtw4z6zt8y6KwDZ"
@@ -1049,7 +1064,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 256410,
       "name": "Lagi",
       "url": "https://open.spotify.com/track/6nyr7jWOZb86Kzjj34buF8"
@@ -1071,7 +1086,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240000,
       "name": "Leron (feat. Trisha Macapagal)",
       "url": "https://open.spotify.com/track/0S9E3lwPotusU4QRVVg2wC"
@@ -1107,7 +1122,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 120226,
       "name": "Made For All",
       "url": "https://open.spotify.com/track/6Qc9WXhHeRV5RlSdR72DNo"
@@ -1125,7 +1140,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 215000,
       "name": "Magnet",
       "url": "https://open.spotify.com/track/1geSghgZOCPrcjN2GvGJHS"
@@ -1147,7 +1162,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"
@@ -1183,7 +1198,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 275420,
       "name": "MAPA",
       "url": "https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ"
@@ -1313,7 +1328,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 196428,
       "name": "Pagbilang Ng Tatlo",
       "url": "https://open.spotify.com/track/6qLfX65ENPhm38xQruqoVP"
@@ -1338,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Paraluman",
+        "url": "https://open.spotify.com/album/2eKPpTGmSRX3bfBZm9QxiN"
+      },
+      "artists": [
+        {
+          "name": "raven",
+          "url": "https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224578,
+      "name": "Paraluman",
+      "url": "https://open.spotify.com/track/7I9RoRcJ0N9rvN4p4KWPsH"
+    },
+    {
+      "album": {
         "name": "Lika Na",
         "url": "https://open.spotify.com/album/32gHhEVce6B4IM3Du9xh89"
       },
@@ -1349,7 +1382,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 224578,
       "name": "Paraluman",
       "url": "https://open.spotify.com/track/7IWeNrIjl2QvobVaI9Wyk4"
@@ -1385,7 +1418,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 255810,
       "name": "Pasahili (para sa hindi pinili)",
       "url": "https://open.spotify.com/track/2VHGzij5109MdX6PJDsMuO"
@@ -1403,7 +1436,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 217411,
       "name": "Patuloy Lang Ang Lipad (Theme of \"Darna\")",
       "url": "https://open.spotify.com/track/6SCLUJuq19QSacE4oXqoqG"
@@ -1421,7 +1454,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 220000,
       "name": "Pit A Pat",
       "url": "https://open.spotify.com/track/79KjJGfIVfbkwHBxHqohTT"
@@ -1523,7 +1556,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 225250,
       "name": "Risk It",
       "url": "https://open.spotify.com/track/5JsHoy0q0mZutMW27kFq5n"
@@ -1607,7 +1640,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 268800,
       "name": "Sinag (feat. Sam Benwick)",
       "url": "https://open.spotify.com/track/5DARNIgi6aaJxGD5SKAUal"
@@ -1625,7 +1658,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 200975,
       "name": "Strings",
       "url": "https://open.spotify.com/track/1yja0zSvvgJtbV34B02kLG"
@@ -1697,7 +1730,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 175200,
       "name": "Tayo Parin Talaga",
       "url": "https://open.spotify.com/track/5Vpb78jHDtObL7BSvcuiUn"
@@ -1777,7 +1810,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 258040,
       "name": "Tinatangi (feat. Chrstn)",
       "url": "https://open.spotify.com/track/5Pgssd39LAfVsR9gvUVwU7"
@@ -1813,7 +1846,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 247670,
       "name": "Tumitigil Ang Mundo",
       "url": "https://open.spotify.com/track/5fuBcv4rZP0mtjNSj3UPsk"
@@ -1865,7 +1898,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 218720,
       "name": "Twin Flames",
       "url": "https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb"
@@ -1905,7 +1938,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 232973,
       "name": "Up!",
       "url": "https://open.spotify.com/track/7aii4AQA1uyyzGcfqtApy1"

@@ -4,7 +4,7 @@
 
 > Transport yourself to the "Mother Church of Country Music" with these live cuts from the Ryman.
 
-26 songs - 1 hr 37 min - [published](https://open.spotify.com/playlist/5506hqpZp1f58pMjStt2mc)
+26 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Katy Perry all day\. All the hits and more.
 
-55 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/0fJM9HZgyJyEuNH6gsPqEx)
+55 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

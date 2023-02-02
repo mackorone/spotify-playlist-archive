@@ -4,7 +4,7 @@
 
 > Push play on a slowly building mix of indie folk faves as you roll out of bed and get your coffee on...
 
-51 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/7HPKfanzQw5y7VbIawMknu)
+51 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

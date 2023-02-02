@@ -4,7 +4,7 @@
 
 > Dance all night to the best songs ever!
 
-60 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/2vGLhHOFBYYay19mvIbyec)
+60 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

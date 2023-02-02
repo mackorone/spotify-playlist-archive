@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Russia.
 
-762 songs - 1 day 11 hr 38 min - [published](https://open.spotify.com/playlist/4A0GX2m9jv4o0xd8EdZCL8)
+762 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

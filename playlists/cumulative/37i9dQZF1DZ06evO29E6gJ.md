@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/3L1RmjKFTceey2iLuEWcFK)
+59 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aun Se Acuerda De Mi](https://open.spotify.com/track/1xHzz42RHgu6cj7kbZr5G3) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:56 | 2022-06-01 |  |
 | [Cajita de Oro](https://open.spotify.com/track/0QIVhpxIP5WSIHRcNmXWU6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Cañonazos Norteños](https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL) | 2:32 | 2022-06-01 |  |
 | [carta jugada](https://open.spotify.com/track/50rr7toY0hwRzLCHEmt1BB) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [ANORANZA NORTENA](https://open.spotify.com/album/6626gtmDfSGPNkce5p8kfF) | 2:45 | 2022-06-01 |  |
-| [Corrido De Felipe Angeles](https://open.spotify.com/track/04WwCNKM6hbBAc9IJ5d01f) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Villistas Con Los Alegres De Terán](https://open.spotify.com/album/3dehFGTHz2s4e17HNEgiK3) | 4:30 | 2022-06-01 |  |
+| [Corrido De Felipe Angeles](https://open.spotify.com/track/04WwCNKM6hbBAc9IJ5d01f) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Villistas Con Los Alegres De Terán](https://open.spotify.com/album/3dehFGTHz2s4e17HNEgiK3) | 4:30 | 2022-06-01 | 2022-11-30 |
 | [Corrido De Pedro Infante](https://open.spotify.com/track/0iHQIzCXXBuQG23sX1Wl1q) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Ojos De Pancha](https://open.spotify.com/album/3wFMgp4RVQF5AoCmgjseWX) | 2:48 | 2022-06-01 | 2022-07-31 |
 | [Cuando Salgo A Los Campos](https://open.spotify.com/track/0u0N27nvxh5ClF4sMgYMpV) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Frente a Frente Los Alegres de Terán vs Los Invasores de Nuevo León](https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf) | 2:31 | 2022-06-01 |  |
 | [Cuatro Milpas](https://open.spotify.com/track/2GapsLaCJN57fkVBmQiJ3P) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Nostalgia Norteña](https://open.spotify.com/album/30ONqsYPJeKz3lMs1PjeLu) | 3:04 | 2022-06-01 |  |
@@ -31,7 +31,8 @@
 | [Hablando Claro](https://open.spotify.com/track/7cXUofSYEealMPBcymmKGp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [La Gran Coleccion de Oro, Vol\. 1](https://open.spotify.com/album/7FgTvoZPZEOarrn1kKHWa0) | 2:46 | 2022-06-01 |  |
 | [Hay Mujeres Ingratas en la Vida \[Ranchera\]](https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [FOGATA NORTENA](https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy) | 2:49 | 2022-06-01 |  |
 | [Hermosísimo Lucero](https://open.spotify.com/track/19mrbn7SgoqJlTTyoCt5HP) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:48 | 2022-06-01 |  |
-| [Ingrato Amor](https://open.spotify.com/track/5t65uwfgs6ZYzdP3gGuIj7) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [El Disco de Oro](https://open.spotify.com/album/2pzAQ1soE41kyiDbtEZCck) | 2:44 | 2022-06-01 |  |
+| [Ingrato Amor](https://open.spotify.com/track/1eaux4zfvoNc0LuXIVRgzB) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serenata Bajo Las Estrellas 15 Exitos Inmortales](https://open.spotify.com/album/0j2N0ZJPQjEQgcMN3OPNJk) | 2:42 | 2023-01-07 |  |
+| [Ingrato Amor](https://open.spotify.com/track/5t65uwfgs6ZYzdP3gGuIj7) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [El Disco de Oro](https://open.spotify.com/album/2pzAQ1soE41kyiDbtEZCck) | 2:44 | 2022-06-01 | 2023-01-07 |
 | [Ingratos Ojos Mios](https://open.spotify.com/track/0Kn2S21O1cMfiDx2T6VZba) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [24 Kilates Norteños](https://open.spotify.com/album/0vHDc1Dn4QCowqtjpipaGK) | 2:20 | 2022-06-01 |  |
 | [Jacinto Treviño](https://open.spotify.com/track/25DxDNf0o4Uw1HhEAEFJ8p) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:06 | 2022-06-01 |  |
 | [Juarencita](https://open.spotify.com/track/0Te82ukimFrHFfoTWXglzE) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Alegres de Teran, Vol\. 2](https://open.spotify.com/album/30rZXAD47Ls3seDAKPxDfp) | 2:53 | 2022-06-27 | 2022-08-11 |

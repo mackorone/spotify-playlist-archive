@@ -4,7 +4,7 @@
 
 > This Is Roddy Ricch\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 34 min - not published yet
+50 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

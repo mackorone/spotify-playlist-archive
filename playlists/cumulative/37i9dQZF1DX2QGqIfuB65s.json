@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-01",
   "description": "Get ready for a great week of golf with song picks from Justin Thomas, Jon Rahm, Bubba Watson, Collin Morikawa, & Max Homa.",
   "name": "Augusta On My Mind",
-  "published_playlist_ids": [
-    "0i6NfbCP8WjpmAwlJWJYTK"
-  ],
   "tracks": [
     {
       "album": {
@@ -965,7 +962,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -976,6 +973,24 @@
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-24",
   "description": "The emotional interludes we wish were longer.",
   "name": "Mood Swing",
-  "published_playlist_ids": [
-    "1WgjuGPGPoZVKEll7oH1Vz"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,6 +96,24 @@
     {
       "album": {
         "name": "Take Me Apart",
+        "url": "https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72043,
+      "name": "Bluff",
+      "url": "https://open.spotify.com/track/3hHOTDFrciIXTZ9SttBHNy"
+    },
+    {
+      "album": {
+        "name": "Take Me Apart",
         "url": "https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu"
       },
       "artists": [
@@ -109,7 +124,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 72043,
       "name": "Bluff",
       "url": "https://open.spotify.com/track/3j7zwRLw8QEbYoOhSE0AOd"
@@ -203,10 +218,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 145813,
       "name": "Daniel's Interlude",
       "url": "https://open.spotify.com/track/1EGvhh9BxIsSZ52Y7fQ1il"
+    },
+    {
+      "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "Daniel's Interlude",
+      "url": "https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX"
     },
     {
       "album": {
@@ -297,6 +330,24 @@
       "duration_ms": 134600,
       "name": "End",
       "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh"
+    },
+    {
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34133,
+      "name": "Endlessly Interlude",
+      "url": "https://open.spotify.com/track/2QoDA4PQiLA5gZME35my0n"
     },
     {
       "album": {
@@ -881,7 +932,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 120933,
       "name": "Never Felt This Way",
       "url": "https://open.spotify.com/track/0uUwnByckydEF8r0ifZ5ke"
@@ -899,7 +950,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 120933,
       "name": "Never Felt This Way",
       "url": "https://open.spotify.com/track/6FyPqOyyNJt5t7FICy1cdm"
@@ -1087,7 +1138,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 108729,
       "name": "So Much Love - Interlude",
       "url": "https://open.spotify.com/track/1e7BgRrZ1uNwSzEuGRosuP"

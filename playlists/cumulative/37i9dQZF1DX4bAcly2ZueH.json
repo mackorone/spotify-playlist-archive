@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-24",
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
   "name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -767,7 +766,7 @@
       },
       "artists": [
         {
-          "name": "Katuchat",
+          "name": "Katu",
           "url": "https://open.spotify.com/artist/6vOl41W4SQQDJaN381qzrR"
         }
       ],
@@ -937,24 +936,6 @@
     {
       "album": {
         "name": "Over Skies",
-        "url": "https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ"
-      },
-      "artists": [
-        {
-          "name": "quickly",
-          "url": "https://open.spotify.com/artist/12E1nswgTW7QPMYWs0oXrE"
-        }
-      ],
-      "date_added": "2022-11-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247320,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb"
-    },
-    {
-      "album": {
-        "name": "Over Skies",
         "url": "https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP"
       },
       "artists": [
@@ -969,6 +950,24 @@
       "duration_ms": 247320,
       "name": "Lie",
       "url": "https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4"
+    },
+    {
+      "album": {
+        "name": "Over Skies",
+        "url": "https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247320,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb"
     },
     {
       "album": {

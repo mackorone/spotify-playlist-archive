@@ -1,15 +1,243 @@
 {
-  "description": "Nominees from the 94th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 87259,
+  "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
+  "num_followers": 271396,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODUxMTczNSwwMDAwMDAwMDYyZjQ3MjE4ZjljNTE1MmJhYjJlYTlkZGE1YzNhYWI2",
+  "snapshot_id": "MTY3NTE5NDA3NiwwMDAwMDAwMDU1ZDNlOGI0ZjkzNTk5NTFlODJmZTk1YjMxZjRhMGM5",
   "tracks": [
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 225300,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "This Is A Life (From the Original Motion Picture \"Everything Everywhere All at Once\")",
+        "url": "https://open.spotify.com/album/7smqQ6jqhvC0hOmlNyKwhR"
+      },
+      "artists": [
+        {
+          "name": "Son Lux",
+          "url": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        },
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        }
+      ],
+      "duration_ms": 161022,
+      "name": "This Is A Life",
+      "url": "https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Naatu Naatu (From \"Rrr\")",
+        "url": "https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "M. M. Keeravani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        }
+      ],
+      "duration_ms": 214399,
+      "name": "Naatu Naatu (From \"Rrr\")",
+      "url": "https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Applause (From \"Tell It Like a Woman\")",
+        "url": "https://open.spotify.com/album/7tfweNIzqYmP7abrg3SR31"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "duration_ms": 182016,
+      "name": "Applause - From \"Tell It Like a Woman\"",
+      "url": "https://open.spotify.com/track/4ZlWlBH5FEoFDKgthWtHRl"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "Everything Everywhere All at Once (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu"
+      },
+      "artists": [
+        {
+          "name": "Son Lux",
+          "url": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
+        }
+      ],
+      "duration_ms": 160288,
+      "name": "This Is How I Fight",
+      "url": "https://open.spotify.com/track/3M0Q7Zf7WIWA3DErPigGg8"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "The Fabelmans (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 104320,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "Babylon (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0Hn9iSg0dwEfw7a7o8JjUZ"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "All Quiet On The Western Front (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 102608,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/3Ws54uOiepC4hx6NeWUU8K"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "The Banshees of Inisherin (Original Score)",
+        "url": "https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n"
+      },
+      "artists": [
+        {
+          "name": "Carter Burwell",
+          "url": "https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV"
+        }
+      ],
+      "duration_ms": 77960,
+      "name": "Walking Home Alone",
+      "url": "https://open.spotify.com/track/1WhfX0T3ItwIHMqoGaLArQ"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 286480,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 326466,
+      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
       "album": {
         "name": "No Time To Die",
         "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
@@ -25,7 +253,259 @@
       "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 195080,
+      "name": "Streets of Philadelphia - Single Edit",
+      "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 272893,
+      "name": "When You Believe - from The Prince of Egypt",
+      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Writing's On The Wall",
+        "url": "https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 278987,
+      "name": "Writing's On The Wall - From \"Spectre\" Soundtrack",
+      "url": "https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Aladdin Special Edition",
+        "url": "https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Brad Kane",
+          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "duration_ms": 149706,
+      "name": "City Of Stars - From \"La La Land\" Soundtrack",
+      "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Married Life",
+      "url": "https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Tarzan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "You'll Be In My Heart",
+      "url": "https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Bratt",
+          "url": "https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8"
+        }
+      ],
+      "duration_ms": 109280,
+      "name": "Remember Me (Ernesto de la Cruz)",
+      "url": "https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        },
+        {
+          "name": "Edward Ross",
+          "url": "https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG"
+        }
+      ],
+      "duration_ms": 440800,
+      "name": "The Breaking of the Fellowship (feat. \"In Dreams\")",
+      "url": "https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Can You Feel The Love Tonight",
+      "url": "https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Monsters, Inc. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz"
+      },
+      "artists": [
+        {
+          "name": "Billy Crystal",
+          "url": "https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh"
+        },
+        {
+          "name": "John Goodman",
+          "url": "https://open.spotify.com/artist/7dHoDG0MERt9fs7DHyWRJJ"
+        }
+      ],
+      "duration_ms": 217786,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/7xf3S6Bv8hDqOtevZou602"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
       "album": {
         "name": "Dune (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ"
@@ -41,388 +521,496 @@
       "url": "https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-01-30 20:13:23",
       "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+        "name": "The Muppets (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
       },
       "artists": [
         {
-          "name": "Carolina Gait\u00e1n - La Gaita",
-          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+          "name": "Jason Segel",
+          "url": "https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6"
         },
         {
-          "name": "Mauro Castillo",
-          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
-        },
-        {
-          "name": "Adassa",
-          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
-        },
-        {
-          "name": "Rhenzy Feliz",
-          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
-        },
-        {
-          "name": "Diane Guerrero",
-          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
-        },
-        {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        },
-        {
-          "name": "Encanto - Cast",
-          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+          "name": "Walter",
+          "url": "https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D"
         }
       ],
-      "duration_ms": 216120,
-      "name": "We Don't Talk About Bruno",
-      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+      "duration_ms": 177533,
+      "name": "Man Or Muppet",
+      "url": "https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-01-30 20:13:23",
       "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+        "name": "Songs and Story: Pocahontas",
+        "url": "https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Judy Kuhn",
+          "url": "https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Dos Oruguitas",
-      "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+      "duration_ms": 212933,
+      "name": "Colors of the Wind - From \"Pocahontas\"",
+      "url": "https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-02-02 01:21:01",
       "album": {
-        "name": "Be Alive (Original Song from the Motion Picture \"King Richard\")",
-        "url": "https://open.spotify.com/album/5a73HUmrKIebjmafM1QuFS"
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
         }
       ],
-      "duration_ms": 220253,
-      "name": "Be Alive (Original Song from the Motion Picture \"King Richard\")",
-      "url": "https://open.spotify.com/track/1RI4YQVFh7onQD07QuL8ND"
+      "duration_ms": 228000,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-01-30 20:13:23",
       "album": {
-        "name": "West Side Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16oKZSg3msLgn69IK1puzi"
+        "name": "The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa"
       },
       "artists": [
         {
-          "name": "Ariana DeBose",
-          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
-        },
-        {
-          "name": "David Alvarez",
-          "url": "https://open.spotify.com/artist/6KNv7ixwIMXusuDFW5i6Dh"
-        },
-        {
-          "name": "Ana Isabelle",
-          "url": "https://open.spotify.com/artist/69vrWFbPlmkfQjMKojkeqG"
-        },
-        {
-          "name": "Jennifer Florentino",
-          "url": "https://open.spotify.com/artist/5qJW0D5Pg9Cd44QU5YG6SV"
-        },
-        {
-          "name": "Natalie Toro",
-          "url": "https://open.spotify.com/artist/1P1mkwnNyTEm3JHevDmN7m"
-        },
-        {
-          "name": "Arianna Rosario",
-          "url": "https://open.spotify.com/artist/058mMDr64MAXkiHp57wMV9"
-        },
-        {
-          "name": "Ilda Mason",
-          "url": "https://open.spotify.com/artist/5pMwOwYxEJ0a6a0rkJN8I3"
-        },
-        {
-          "name": "Jeanette Delgado",
-          "url": "https://open.spotify.com/artist/2nOrQmKy74weT674T5QAGo"
-        },
-        {
-          "name": "Annelise Cepero",
-          "url": "https://open.spotify.com/artist/2vpypdDuUUmE2W2nhDaSJP"
-        },
-        {
-          "name": "Tanairi Sade Vazquez",
-          "url": "https://open.spotify.com/artist/2tckSfVALWLdSXX53k44kL"
-        },
-        {
-          "name": "Jamila Velazquez",
-          "url": "https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN"
-        },
-        {
-          "name": "Edriz E. Rosa P\u00e9rez",
-          "url": "https://open.spotify.com/artist/0h67vkNb2qjAiK3ErXfGIE"
-        },
-        {
-          "name": "Melody Mart\u00ed",
-          "url": "https://open.spotify.com/artist/0PgY16LsID0tFKPUx8QO2e"
-        },
-        {
-          "name": "Gaby Diaz",
-          "url": "https://open.spotify.com/artist/1f7lYV0A3eTgP2tpoaYh9J"
-        },
-        {
-          "name": "Juliette Feliciano",
-          "url": "https://open.spotify.com/artist/73J9U36z57pyksXTfPE8a3"
-        },
-        {
-          "name": "Isabella Ward",
-          "url": "https://open.spotify.com/artist/5D3uPc1SyZidI1QNAuYyjL"
-        },
-        {
-          "name": "Maria Alexis Rodriguez",
-          "url": "https://open.spotify.com/artist/3dkHZoNvQyLMI2n0zQWkeT"
-        },
-        {
-          "name": "Yesenia Ayala",
-          "url": "https://open.spotify.com/artist/3L8seoWYh8UHSRBAHbxCes"
-        },
-        {
-          "name": "Gabriela M. Soto",
-          "url": "https://open.spotify.com/artist/5Wz58hooEMatVPyStifnoo"
-        },
-        {
-          "name": "Sebastian Serra",
-          "url": "https://open.spotify.com/artist/5ZhwHSB7deXOFu24gvZMEs"
-        },
-        {
-          "name": "Julius Anthony Rubio",
-          "url": "https://open.spotify.com/artist/1DvcW16vgVTh8P3Cc8MZyc"
-        },
-        {
-          "name": "Ricardo A. Zayas",
-          "url": "https://open.spotify.com/artist/6ZGEWeBlsOm9EXBRLPuqBN"
-        },
-        {
-          "name": "Yurel Echezarreta",
-          "url": "https://open.spotify.com/artist/2CAIIaK5znNFtAJy98JHvI"
-        },
-        {
-          "name": "Kelvin Delgado",
-          "url": "https://open.spotify.com/artist/02Rg1Nwvv43RjIwxn2E6zo"
-        },
-        {
-          "name": "Ricky Ubeda",
-          "url": "https://open.spotify.com/artist/3OfonsIl45b2V9ZsCxqlck"
-        },
-        {
-          "name": "Carlos S\u00e1nchez Fal\u00fa",
-          "url": "https://open.spotify.com/artist/6BfLN3S9xbEFk8GIkbhD3T"
-        },
-        {
-          "name": "Adriel Flete",
-          "url": "https://open.spotify.com/artist/0oEtk8mLHbuXUaGVcu0dz7"
-        },
-        {
-          "name": "Jacob Guzman",
-          "url": "https://open.spotify.com/artist/5wzPBSoFS8SYqSXb87kx05"
-        },
-        {
-          "name": "Carlos E. Gonzalez",
-          "url": "https://open.spotify.com/artist/7qL4Gwv6C2MTiR8wohhqul"
-        },
-        {
-          "name": "David Avil\u00e9s Morales",
-          "url": "https://open.spotify.com/artist/0ixYF7DyAbjCK8dK6ZSNv6"
-        },
-        {
-          "name": "Andrei Chagas",
-          "url": "https://open.spotify.com/artist/68iTowVxIrj46o09cc32f3"
-        },
-        {
-          "name": "David Guzman",
-          "url": "https://open.spotify.com/artist/5fwVjpwbUNb4HHWZIEw7Cq"
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
         }
       ],
-      "duration_ms": 297666,
-      "name": "America",
-      "url": "https://open.spotify.com/track/7guz8LWGuiHSvp19OUxmbQ"
+      "duration_ms": 347600,
+      "name": "Into the West",
+      "url": "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-01-30 20:13:23",
       "album": {
-        "name": "West Side Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16oKZSg3msLgn69IK1puzi"
+        "name": "Rocketman (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
       },
       "artists": [
         {
-          "name": "Rachel Zegler",
-          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Ana Isabelle",
-          "url": "https://open.spotify.com/artist/69vrWFbPlmkfQjMKojkeqG"
-        },
-        {
-          "name": "Ilda Mason",
-          "url": "https://open.spotify.com/artist/5pMwOwYxEJ0a6a0rkJN8I3"
-        },
-        {
-          "name": "Annelise Cepero",
-          "url": "https://open.spotify.com/artist/2vpypdDuUUmE2W2nhDaSJP"
-        },
-        {
-          "name": "Jamila Velazquez",
-          "url": "https://open.spotify.com/artist/0DNer7EBpWOFyAGuxmF9GN"
-        },
-        {
-          "name": "Andr\u00e9a Burns",
-          "url": "https://open.spotify.com/artist/67ZtLX0nstdb8ml4Gc7Tq9"
-        },
-        {
-          "name": "Tanairi Sade Vazquez",
-          "url": "https://open.spotify.com/artist/2tckSfVALWLdSXX53k44kL"
-        },
-        {
-          "name": "Yassmin Alers",
-          "url": "https://open.spotify.com/artist/40a5UmJqkp9ZBiwdrNdoxP"
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
         }
       ],
-      "duration_ms": 178280,
-      "name": "I Feel Pretty",
-      "url": "https://open.spotify.com/track/6Jtl7l4GS0OxkDFACQjA5q"
+      "duration_ms": 250773,
+      "name": "(I'm Gonna) Love Me Again",
+      "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-02-02 01:21:01",
       "album": {
-        "name": "Somehow You Do (From The Motion Picture Four Good Days)",
-        "url": "https://open.spotify.com/album/4dgSC9bkrHoskWA594mORP"
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 237292,
-      "name": "Somehow You Do - From The Motion Picture Four Good Days",
-      "url": "https://open.spotify.com/track/4GsGJNWcvaQYQQEqOdRKW7"
+      "duration_ms": 128280,
+      "name": "Bathroom Dance",
+      "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-02-02 01:21:01",
       "album": {
-        "name": "Dune (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ"
+        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
+        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "The Portrait",
+      "url": "https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Glory (From the Motion Picture Selma)",
+        "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 272727,
+      "name": "Glory (From the Motion Picture Selma)",
+      "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
       },
       "artists": [
         {
           "name": "Hans Zimmer",
           "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
         }
       ],
-      "duration_ms": 58933,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/6WaMnIomt4iOthNrVaqoIR"
+      "duration_ms": 225266,
+      "name": "Under the Stars - From \"The Lion King\"/Score",
+      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-02-02 01:21:01",
       "album": {
-        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
       },
       "artists": [
         {
-          "name": "Nicholas Britell",
-          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
         }
       ],
-      "duration_ms": 51601,
-      "name": "Don't Look Up - Main Title Theme",
-      "url": "https://open.spotify.com/track/46Ykbossnav7MND8qCJcGR"
+      "duration_ms": 140125,
+      "name": "Wakanda",
+      "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-01-30 20:13:23",
       "album": {
-        "name": "The Power Of The Dog (Soundtrack From The Netflix Film)",
-        "url": "https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah"
+        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
+        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
       },
       "artists": [
         {
-          "name": "Jonny Greenwood",
-          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Judas and the Black Messiah",
+          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
         }
       ],
-      "duration_ms": 137266,
-      "name": "25 Years",
-      "url": "https://open.spotify.com/track/3sc30oDHL0cYWBpt1FHVT7"
+      "duration_ms": 270710,
+      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
+      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-01-30 20:13:23",
       "album": {
-        "name": "Parallel Mothers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/14cX3anYlkHmVLzhn9qutj"
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
       },
       "artists": [
         {
-          "name": "Alberto Iglesias",
-          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 71503,
-      "name": "Sesi\u00f3n de fotos",
-      "url": "https://open.spotify.com/track/6FA3YNEZmIGEcgecdOKAd6"
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-01-30 20:13:23",
       "album": {
-        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
+        "name": "Most Known Unknown (New Package-Explicit)",
+        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
       },
       "artists": [
         {
-          "name": "Nicholas Britell",
-          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "Paula Campbell",
+          "url": "https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA"
         }
       ],
-      "duration_ms": 154394,
-      "name": "It's A Strange Glorious World",
-      "url": "https://open.spotify.com/track/1SshbVdE2eoozhRWnVDIuL"
+      "duration_ms": 169186,
+      "name": "Hard Out Here for a Pimp (feat. Paula Campbell)",
+      "url": "https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-02-02 01:21:01",
       "album": {
-        "name": "The Power Of The Dog (Soundtrack From The Netflix Film)",
-        "url": "https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah"
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
       "artists": [
         {
-          "name": "Jonny Greenwood",
-          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 152853,
-      "name": "West",
-      "url": "https://open.spotify.com/track/061sIdDzLDqmgXmOTaTKgd"
+      "duration_ms": 275320,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se"
     },
     {
-      "added_at": "2022-03-28 23:55:35",
+      "added_at": "2023-01-30 20:13:23",
       "album": {
-        "name": "Parallel Mothers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/14cX3anYlkHmVLzhn9qutj"
+        "name": "Once: A New Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6BBjG9s1OPJXQh0dAiLwKN"
       },
       "artists": [
         {
-          "name": "Alberto Iglesias",
-          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+          "name": "Steve Kazee",
+          "url": "https://open.spotify.com/artist/2E0WuV49YeVlDWrmLf4jKK"
+        },
+        {
+          "name": "Cristin Milioti",
+          "url": "https://open.spotify.com/artist/0KV9UzwJbLgC8QdOAxKlTU"
+        },
+        {
+          "name": "Once Ensemble",
+          "url": "https://open.spotify.com/artist/28Tjtr1MQlXJwcNVgcwOTG"
         }
       ],
-      "duration_ms": 134875,
-      "name": "El visillo volante",
-      "url": "https://open.spotify.com/track/6pwJntFxsD92d61GiUd8DX"
+      "duration_ms": 266053,
+      "name": "Falling Slowly",
+      "url": "https://open.spotify.com/track/2rqU6isUjWk7s2y0ZEkmhb"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Side Tracks",
+        "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 307800,
+      "name": "Things Have Changed - Single Version",
+      "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "The Shape Of Water (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/058fiqH1NYYmur8cicws4l"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "duration_ms": 222573,
+      "name": "The Shape Of Water",
+      "url": "https://open.spotify.com/track/2VzJH2QeNO1PiZwXZMvx7g"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Slumdog Millionaire - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/2oJI1pZ52LD11fgIaxEdRx"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Tanvi Shah",
+          "url": "https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        }
+      ],
+      "duration_ms": 319346,
+      "name": "Jai Ho",
+      "url": "https://open.spotify.com/track/4i3MgUew8ynhf49Qwr4IP4"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "The Essential Henry Mancini",
+        "url": "https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 160693,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "You Must Love Me",
+      "url": "https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "Work From Home With John Williams",
+        "url": "https://open.spotify.com/album/174Z59HgCVdLmyU43Trig8"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "duration_ms": 225066,
+      "name": "E.T.: Flying Theme",
+      "url": "https://open.spotify.com/track/3kc4Em0sUhRf4uqnKA6i6L"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "West Side Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "West Side Story Orchestra",
+          "url": "https://open.spotify.com/artist/2y0ch4gqc0z7SMWsjHWL5F"
+        },
+        {
+          "name": "Johnny Green",
+          "url": "https://open.spotify.com/artist/0mzeuEu2tXNjhVNc1sKVWI"
+        }
+      ],
+      "duration_ms": 396933,
+      "name": "West Side Story: Act I: Prologue",
+      "url": "https://open.spotify.com/track/68CJ6EJXhbmUOwkOk74w6N"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Crazy Heart: Original Motion Picture Soundtrack (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "The Weary Kind (Theme from Crazy Heart)",
+      "url": "https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Toy Story Favorites",
+        "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "We Belong Together - From \"Toy Story 3\"/Soundtrack",
+      "url": "https://open.spotify.com/track/5MOXaHAnv8Rj4xaghFRnqr"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "I'm Breathless",
+        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Sooner or Later",
+      "url": "https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2"
+    },
+    {
+      "added_at": "2023-02-02 01:21:01",
+      "album": {
+        "name": "Little Women (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Father Comes Home",
+      "url": "https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl"
+    },
+    {
+      "added_at": "2023-01-30 20:13:23",
+      "album": {
+        "name": "Greatest Hits: The Road Less Traveled",
+        "url": "https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P"
+      },
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "I Need To Wake Up",
+      "url": "https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T"
     }
   ],
   "unique_name": "Hollywood's Big Night",

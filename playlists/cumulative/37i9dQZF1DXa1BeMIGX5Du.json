@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-14",
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
   "name": "Coffee + Chill",
-  "published_playlist_ids": [
-    "6mRS7vK5o4DCt7Kc7WlJdj"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,10 +16,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 223445,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/5Em45mUmCF0n4Q6faQxxhK"
+    },
+    {
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
+      },
+      "artists": [
+        {
+          "name": "Miller Roberts",
+          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223445,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
     },
     {
       "album": {
@@ -416,6 +431,28 @@
     },
     {
       "album": {
+        "name": "Dawns (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290892,
+      "name": "Dawns (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
+    },
+    {
+      "album": {
         "name": "Delusional",
         "url": "https://open.spotify.com/album/2WhyFL6JiegvEYGUasRomx"
       },
@@ -539,6 +576,24 @@
       "duration_ms": 184984,
       "name": "Down",
       "url": "https://open.spotify.com/track/6wpdCYRRzFtBT7HzdEqgK9"
+    },
+    {
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Drunk On A Flight",
+      "url": "https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd"
     },
     {
       "album": {
@@ -1531,7 +1586,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 184480,
       "name": "oh, mexico",
       "url": "https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F"
@@ -2375,7 +2430,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 232800,
       "name": "when i look at you.",
       "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"

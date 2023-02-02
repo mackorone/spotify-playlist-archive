@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,854 likes - 53 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,711 likes - 53 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

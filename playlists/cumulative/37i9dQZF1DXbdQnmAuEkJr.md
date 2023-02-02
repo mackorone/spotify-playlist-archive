@@ -4,7 +4,7 @@
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-96 songs - 5 hr 29 min - [published](https://open.spotify.com/playlist/4sVhpXSOjw8xtSawtZABe0)
+96 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,8 +62,8 @@
 | [Les mêmes chansons](https://open.spotify.com/track/53rwAYjIvXnwRC5Pw1uYdQ) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les mêmes chansons](https://open.spotify.com/album/6KUWVfxPMU1HNWQjHK37Mh) | 3:12 | 2021-10-13 |  |
 | [Les mêmes chansons](https://open.spotify.com/track/6Ny49GdUfwfM6NI9gciyiw) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les mêmes chansons](https://open.spotify.com/album/6bjluzLb2j4g8D4JCiX8TZ) | 3:12 | 2021-10-13 | 2022-07-29 |
 | [Les Secrets Chuchotés](https://open.spotify.com/track/3DnoHIA9BPsMBNVnMYbYIL) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [D’Une Tonne A Un Tout Petit Poids](https://open.spotify.com/album/3IZYKZL2tUqYKUL9EAbPpt) | 4:13 | 2021-10-13 |  |
-| [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 | 2021-10-13 |  |
-| [Les yeux ouverts](https://open.spotify.com/track/700r0pgeOxHwgyOCGpZRet) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [3 CD Original Classics](https://open.spotify.com/album/1hxAgsAUo2PeDf5JCZwP8F) | 3:28 | 2021-10-13 | 2022-07-29 |
+| [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 | 2021-10-13 | 2022-11-27 |
+| [Les yeux ouverts](https://open.spotify.com/track/700r0pgeOxHwgyOCGpZRet) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [3 CD Original Classics](https://open.spotify.com/album/1hxAgsAUo2PeDf5JCZwP8F) | 3:28 | 2021-10-13 |  |
 | [Liberté](https://open.spotify.com/track/78wiDEHp621vWNSehUxGT2) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Anthem](https://open.spotify.com/album/3a6ln2VwpNL5Nve4QDyzRo) | 4:29 | 2021-10-13 |  |
 | [Maladie d'amour](https://open.spotify.com/track/2PYiUmFOp3Zx0GHHTXUW8F) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Maladie d'amour](https://open.spotify.com/album/5fEydxgjsCkuIXZcV2gIDV) | 3:24 | 2021-10-13 |  |
 | [Milord](https://open.spotify.com/track/0qAtbrY5DNGHtAl1L0CQzS) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 4:30 | 2021-10-13 |  |

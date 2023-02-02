@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3bSz5dBEak.md) - [plain]
 
 > Beethoven's famous works for piano, from wistful sonatas to ghostly trios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,868 likes - 35 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,917 likes - 35 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bagatelle No\. 25 in A Minor, "Für Elise", WoO 59](https://open.spotify.com/track/0H2VhGUC3P3hvwz8rdGIpC) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Beethoven: Bagatelle No\. 25 in A Minor, WoO 59 "Für Elise"](https://open.spotify.com/album/74YXY7P1wuM4JR9hGDzPBx) | 3:23 |
+| 1 | [Bagatelle No\. 25 in A Minor, WoO 59 "Für Elise"](https://open.spotify.com/track/0H2VhGUC3P3hvwz8rdGIpC) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Beethoven: Bagatelle No\. 25 in A Minor, WoO 59 "Für Elise"](https://open.spotify.com/album/74YXY7P1wuM4JR9hGDzPBx) | 3:23 |
 | 2 | [Sonata No\. 8 in C Minor, Op\. 13 "Pathétique": II\. Adagio cantabile \- Remastered](https://open.spotify.com/track/3XIGtjlniVGZgYuvZ1A9CF) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Beethoven: Piano Sonatas Nos\. 8\-10 \(Gould Remastered\)](https://open.spotify.com/album/0isMuQNesHMv674ps90zDj) | 4:45 |
 | 3 | [Beethoven: Piano Sonata No\. 11 in B\-Flat Major, Op\. 22: II\. Adagio con molto espressione](https://open.spotify.com/track/1mlcwL59plBEfB7Db4uig9) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Stephen Kovacevich](https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw) | [Beethoven: Piano Sonatas Nos\. 8 "Pathétique", 9, 10 & 11](https://open.spotify.com/album/2qY7hqQJJQAlfYVLpLBROZ) | 7:13 |
 | 4 | [Piano Concerto No\. 5 in E\-Flat Major, Op\. 73 "Emperor": II\. Adagio un poco mosso \- Live](https://open.spotify.com/track/6Gf9yJrOUxvYVGZZS2u95B) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Krystian Zimerman](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [Beethoven: Piano Concerto No.5](https://open.spotify.com/album/071ZoYVL38NR1WnPP6jAHz) | 9:07 |

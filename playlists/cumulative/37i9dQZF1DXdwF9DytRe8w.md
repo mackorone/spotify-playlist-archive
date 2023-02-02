@@ -4,7 +4,7 @@
 
 > Start your day with The Beatles!
 
-84 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/7dBoXfijzN7oxrrRwWsP5s)
+84 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

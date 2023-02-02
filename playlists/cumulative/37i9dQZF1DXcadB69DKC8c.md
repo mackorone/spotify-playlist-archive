@@ -4,7 +4,7 @@
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-64 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/2swQv4ikd7ynpg9c5SZWLm)
+64 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

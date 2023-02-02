@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-111 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/0QCs1HUhlbrSzyN8H1j10w)
+111 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

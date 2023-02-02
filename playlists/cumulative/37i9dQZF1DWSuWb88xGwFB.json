@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-13",
   "description": "Releases from the legendary label.",
   "name": "Crate Diggin' Strictly Rhythm",
-  "published_playlist_ids": [
-    "7CpzziVbgEL0BZqAASnsUi"
-  ],
   "tracks": [
     {
       "album": {
@@ -354,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390560,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
+    },
+    {
+      "album": {
         "name": "Deep Inside (2009 Mixes)",
         "url": "https://open.spotify.com/album/573BQbP4hPr12C32Np5XDW"
       },
@@ -387,24 +402,6 @@
       "duration_ms": 390560,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/5u27DT78hXMPlIfprPHGH9"
-    },
-    {
-      "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "date_added": "2022-03-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 392668,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1EYYoG6P9cQdYXG6Nv5mXu"
     },
     {
       "album": {
@@ -725,7 +722,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 427132,
       "name": "Hey! - The Rhythm Hype Mix",
       "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
@@ -1355,7 +1352,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 228238,
       "name": "Move Your Body (feat. LaVette) - Radio Mix",
       "url": "https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD"
@@ -1427,7 +1424,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 342621,
       "name": "My People - My People Mix",
       "url": "https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L"
@@ -2143,7 +2140,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 334220,
       "name": "We Can Make It - The 'I Believe' Dub",
       "url": "https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg"

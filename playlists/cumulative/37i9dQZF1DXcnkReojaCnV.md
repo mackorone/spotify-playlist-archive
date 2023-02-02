@@ -4,7 +4,7 @@
 
 > Joanne Shaw Taylor is taking over to share tracks of her new album, alongside current blues favorites.
 
-101 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/5KzrfztgY9KjiKSClb4ymn)
+101 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

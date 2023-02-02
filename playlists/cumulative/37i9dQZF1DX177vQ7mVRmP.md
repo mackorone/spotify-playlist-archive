@@ -4,7 +4,7 @@
 
 > Silk Sonic plus all the essential Bruno Mars hits!
 
-64 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/75BSs6UNb2Mh7UPrpHP3o8)
+64 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

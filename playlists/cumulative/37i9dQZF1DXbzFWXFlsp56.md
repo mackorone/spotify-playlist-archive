@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: ICON.
 
-80 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
+80 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

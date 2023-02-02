@@ -2,9 +2,187 @@
   "date_first_scraped": "2022-05-01",
   "description": "Joe laughs out loud with his fellow comedians.",
   "name": "JRE Talks Comedy",
-  "published_playlist_ids": [
-    "5looEy5M6h6LYSQfaHSKhR"
+  "tracks": [
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 7485532,
+      "name": "#1278 - Kevin Hart",
+      "url": "https://open.spotify.com/episode/4VS7V8BOKfRgnQcd75tC2c"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10991931,
+      "name": "#1398 - Lil Duval",
+      "url": "https://open.spotify.com/episode/1mIcV9hRNxftBReioVI7aY"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 7077256,
+      "name": "#1413 - Bill Maher",
+      "url": "https://open.spotify.com/episode/14K1V9u7GfJ48WabqeCMs5"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10870526,
+      "name": "#1444 - Duncan Trussell",
+      "url": "https://open.spotify.com/episode/5e3835EgjWPQqw14l6WKNM"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 12285588,
+      "name": "#1463 - Tom Green",
+      "url": "https://open.spotify.com/episode/4XKcPK1twAopuT3vmFnial"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 11249982,
+      "name": "#1468 - Alonzo Bodden",
+      "url": "https://open.spotify.com/episode/3az3AOvlCiHh07G6h3WcJ6"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 11840233,
+      "name": "#1475 - Bridget Phetasy",
+      "url": "https://open.spotify.com/episode/0ToPccuUB4fBZ2cAbn74O7"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 10929491,
+      "name": "#1491 - Bill Burr",
+      "url": "https://open.spotify.com/episode/3pV1PEGGZHMM8LXLBZT2pL"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 5029054,
+      "name": "#1498 - Jon Stewart",
+      "url": "https://open.spotify.com/episode/6oliztzBe7AEO3y6az1FMY"
+    },
+    {
+      "album": {
+        "name": "The Joe Rogan Experience",
+        "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+      },
+      "artists": [
+        {
+          "name": "The Joe Rogan Experience",
+          "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
+        }
+      ],
+      "date_added": "2020-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 5145054,
+      "name": "#692 - Jay Leno",
+      "url": "https://open.spotify.com/episode/1IUog2Ao0k7pcyu8DQc9nK"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0FpedkNl6M0"
 }

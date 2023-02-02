@@ -2,9 +2,9 @@
 
 ### [This Is Adele](https://open.spotify.com/playlist/37i9dQZF1DWZUozJiHy44Y)
 
-> 30 has landed, alongside all her biggest hits!
+> The essential tracks, all in one playlist.
 
-71 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/25iPwofyuEhxNXtcvJMrYl)
+71 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

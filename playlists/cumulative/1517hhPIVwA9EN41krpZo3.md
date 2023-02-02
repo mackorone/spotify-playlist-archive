@@ -4,7 +4,7 @@
 
 > Check out the top streamed indie tracks of 2016!
 
-50 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/6SV5UFRoikcNXXUuJPkMD6)
+50 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

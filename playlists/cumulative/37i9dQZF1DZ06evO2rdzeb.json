@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
   "name": "This Is Adrianne Lenker",
-  "published_playlist_ids": [
-    "1ulqcDC3O7qdPCMIeHzm0c"
-  ],
   "tracks": [
     {
       "album": {
@@ -211,7 +208,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 231880,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/4T0d6S1Moe4x25pxBUcqeP"
@@ -301,7 +298,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": "2023-02-02",
       "duration_ms": 128700,
       "name": "half return",
       "url": "https://open.spotify.com/track/1i8dJGpKO0xQiKGCVslJqB"
@@ -629,6 +626,24 @@
       "duration_ms": 111266,
       "name": "Row",
       "url": "https://open.spotify.com/track/4Op5aSB6JSVzp7Jhi5hQKp"
+    },
+    {
+      "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
     },
     {
       "album": {

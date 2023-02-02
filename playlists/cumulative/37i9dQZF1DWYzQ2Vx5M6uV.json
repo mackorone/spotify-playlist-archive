@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
+  "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Oxlade, Camila Cabello\n",
   "name": "Afro Ritmo",
-  "published_playlist_ids": [
-    "6kK6tTD8lFWXvgmb9EWxhw"
-  ],
   "tracks": [
     {
       "album": {
@@ -476,7 +473,7 @@
     },
     {
       "album": {
-        "name": "Enoc",
+        "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
@@ -981,7 +978,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 155368,
       "name": "iluminada",
       "url": "https://open.spotify.com/track/6C6tPNyzg9yEFKl2z2bEpx"
@@ -1051,6 +1048,28 @@
       "duration_ms": 218981,
       "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
       "url": "https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY"
+    },
+    {
+      "album": {
+        "name": "KU LO SA (with Camila Cabello)",
+        "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "KU LO SA (with Camila Cabello)",
+      "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
     },
     {
       "album": {
@@ -1195,7 +1214,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-18",
       "duration_ms": 166730,
       "name": "LoLo (Remix) [feat. Farina]",
       "url": "https://open.spotify.com/track/05s2GU3X9VET94jDtQi4bg"
@@ -1331,7 +1350,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-28",
       "duration_ms": 197210,
       "name": "Mare Mare",
       "url": "https://open.spotify.com/track/4Z6VSJZDhmMhS9V7E4etFV"
@@ -1397,7 +1416,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 170078,
       "name": "Me Gustas Natural",
       "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
@@ -1632,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+    },
+    {
+      "album": {
         "name": "Popor\u00f3",
         "url": "https://open.spotify.com/album/3dKFrunU6BT9Q8WPloRmBn"
       },
@@ -1669,7 +1706,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 169396,
       "name": "Popor\u00f3",
       "url": "https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz"
@@ -1797,7 +1834,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 181978,
       "name": "Rosalia",
       "url": "https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn"
@@ -2081,10 +2118,40 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 191320,
       "name": "Spanglish (with Myke Towers)",
       "url": "https://open.spotify.com/track/6GlNseuKrVgGyieWH5jUIn"
+    },
+    {
+      "album": {
+        "name": "Sugarcane (Latin Remix)",
+        "url": "https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Green Cookie",
+          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258048,
+      "name": "Sugarcane - Latin Remix",
+      "url": "https://open.spotify.com/track/5ArzZq6UEHyTBOraJVdL1N"
     },
     {
       "album": {
@@ -2111,10 +2178,32 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 258048,
       "name": "Sugarcane - Latin Remix",
       "url": "https://open.spotify.com/track/6e70q5Yht4GCZeB6VtXxO2"
+    },
+    {
+      "album": {
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215284,
+      "name": "T'as peur",
+      "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
     },
     {
       "album": {

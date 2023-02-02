@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Relax to the sound of classical guitar. ",
   "name": "Relaxing Classical Guitar",
-  "published_playlist_ids": [
-    "5ezvMeFI6T1tZLvi0cjCPx"
-  ],
   "tracks": [
     {
       "album": {
@@ -769,6 +766,28 @@
       "duration_ms": 130266,
       "name": "The Frog Galliard",
       "url": "https://open.spotify.com/track/3vAlgcCLgVr6VpYzIdwffA"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: The Well-Tempered Clavier / Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude (Transcr. for Guitar)",
+        "url": "https://open.spotify.com/album/5NZeobdPF0gjjynPpSLf3d"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rapha\u00ebl Feuill\u00e2tre",
+          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115946,
+      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude (Transcr. for Guitar)",
+      "url": "https://open.spotify.com/track/79TcGoLB19MBED0O2YZLtn"
     },
     {
       "album": {

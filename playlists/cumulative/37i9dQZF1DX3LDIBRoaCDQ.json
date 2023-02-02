@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Classic songs that built the foundations of punk.",
   "name": "Classic Punk",
-  "published_playlist_ids": [
-    "7AUlVPNk24dFfEcomcApCH"
-  ],
   "tracks": [
     {
       "album": {
@@ -145,7 +142,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 114133,
       "name": "Anarchy Burger (Hold the Government)",
       "url": "https://open.spotify.com/track/6rbCaKnfikjHo6RxEDAre9"
@@ -851,6 +848,24 @@
       "duration_ms": 174506,
       "name": "Going Underground",
       "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
+    },
+    {
+      "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
       "album": {

@@ -1,11 +1,48 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the best new songs from the pop punk scene. Cover: blink-182",
+  "description": "All the best new songs from the pop punk scene. Cover: All Time Low",
   "name": "Pop Punk's Not Dead",
-  "published_playlist_ids": [
-    "1ZPuIvGxHPsGj5FOHcdzdv"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "(NOT A) LOVE SONG",
+        "url": "https://open.spotify.com/album/5ALQdJdsSKZikDNs6Br7VN"
+      },
+      "artists": [
+        {
+          "name": "The Tyne",
+          "url": "https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V"
+        },
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "(NOT A) LOVE SONG",
+      "url": "https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79"
+    },
+    {
+      "album": {
+        "name": "1-800-IDONTKNOWYOUANYMORE",
+        "url": "https://open.spotify.com/album/7GxJ6NCOZSEARqjVpMSEeA"
+      },
+      "artists": [
+        {
+          "name": "Chad Tepper",
+          "url": "https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 171112,
+      "name": "1-800-IDONTKNOWYOUANYMORE",
+      "url": "https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0"
+    },
     {
       "album": {
         "name": "2009",
@@ -41,6 +78,24 @@
       "duration_ms": 195782,
       "name": "2AM (And I Did It Again)",
       "url": "https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm"
+    },
+    {
+      "album": {
+        "name": "3 Days Sober",
+        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177209,
+      "name": "3 Days Sober",
+      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
     },
     {
       "album": {
@@ -179,7 +234,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 161697,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
@@ -255,7 +310,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 148753,
       "name": "Best Kept Secret",
       "url": "https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV"
@@ -273,7 +328,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 185371,
       "name": "Birthright",
       "url": "https://open.spotify.com/track/5cWcCvwwONGBqzTSaFqUri"
@@ -522,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185294,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
+    },
+    {
+      "album": {
         "name": "Catching Fire (feat. nothing,nowhere.)",
         "url": "https://open.spotify.com/album/5ezmrxI0U874BTigubbQWb"
       },
@@ -555,10 +628,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 175306,
       "name": "Cavalier",
       "url": "https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn"
+    },
+    {
+      "album": {
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
       "album": {
@@ -638,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Cool Blue",
+        "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189072,
+      "name": "Cool Blue",
+      "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
+    },
+    {
+      "album": {
         "name": "Crybaby (On the Phone)",
         "url": "https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn"
       },
@@ -671,10 +780,32 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 175172,
       "name": "Cursive",
       "url": "https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH"
+    },
+    {
+      "album": {
+        "name": "Happy Never After",
+        "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175172,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
     },
     {
       "album": {
@@ -707,7 +838,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 157714,
       "name": "DEAD ASTRONAUT",
       "url": "https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot"
@@ -961,7 +1092,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 174657,
       "name": "DOUBTS (feat. Ryan Oakes)",
       "url": "https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7"
@@ -1416,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
+      },
+      "artists": [
+        {
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
+    },
+    {
+      "album": {
         "name": "Figure Eights In My Head",
         "url": "https://open.spotify.com/album/2U1bSRxngaxbxzc1vNhNaB"
       },
@@ -1521,10 +1670,32 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 172375,
       "name": "FUCK ABOUT IT (feat. blackbear)",
       "url": "https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn"
+    },
+    {
+      "album": {
+        "name": "REAL SUPER DARK",
+        "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172375,
+      "name": "FUCK ABOUT IT (feat. blackbear)",
+      "url": "https://open.spotify.com/track/7dNMMq9Y14fCKCNIKK95SB"
     },
     {
       "album": {
@@ -1762,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Feels So Good",
+        "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217537,
+      "name": "Heartbreak Feels So Good",
+      "url": "https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r"
+    },
+    {
+      "album": {
         "name": "HEAVYWEIGHT",
         "url": "https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9"
       },
@@ -1897,10 +2086,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 201612,
       "name": "I Fell in Love With Someone I Shouldn't Have",
       "url": "https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq"
+    },
+    {
+      "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201612,
+      "name": "I Fell in Love With Someone I Shouldn't Have",
+      "url": "https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq"
     },
     {
       "album": {
@@ -2035,7 +2242,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 156492,
       "name": "I'm Close Behind",
       "url": "https://open.spotify.com/track/5Q3gEtiKbGA5ZxQMVcnE6O"
@@ -2317,7 +2524,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-13",
       "duration_ms": 200200,
       "name": "Levity",
       "url": "https://open.spotify.com/track/50VmAefTGokvpBLNTBhN9Y"
@@ -2851,6 +3058,28 @@
     {
       "album": {
         "name": "Promise",
+        "url": "https://open.spotify.com/album/2GhbRogqOKDZ2LCUBZ0K05"
+      },
+      "artists": [
+        {
+          "name": "Crooked Teeth",
+          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
+        },
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4hyMz2XnHVcms6Tb6hKmOo"
+    },
+    {
+      "album": {
+        "name": "Promise",
         "url": "https://open.spotify.com/album/1qlyME4iamdDU2hdzyadTz"
       },
       "artists": [
@@ -2865,7 +3094,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 193960,
       "name": "Promise",
       "url": "https://open.spotify.com/track/5cN9kHZXyqYHJNOn6LVrcG"
@@ -2923,6 +3152,42 @@
       "duration_ms": 164621,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
+    },
+    {
+      "album": {
+        "name": "REAL SUPER DARK",
+        "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149194,
+      "name": "REAL SUPER DARK",
+      "url": "https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj"
+    },
+    {
+      "album": {
+        "name": "REAL SUPER DARK",
+        "url": "https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-30",
+      "duration_ms": 149194,
+      "name": "REAL SUPER DARK",
+      "url": "https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3"
     },
     {
       "album": {
@@ -3235,7 +3500,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 183537,
       "name": "serotonin",
       "url": "https://open.spotify.com/track/3uSIJGEiXmRYaSURiDbp2P"
@@ -3253,7 +3518,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2023-01-20",
       "duration_ms": 146000,
       "name": "Shaking Your Mind",
       "url": "https://open.spotify.com/track/7kTg2JxsgHLWjavcl1dPEf"
@@ -3337,7 +3602,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 133124,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg"
@@ -3573,7 +3838,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 227507,
       "name": "Sunsign",
       "url": "https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ"
@@ -3710,6 +3975,24 @@
     },
     {
       "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179175,
+      "name": "Teenage Runaways",
+      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
+    },
+    {
+      "album": {
         "name": "Teenage Runaways",
         "url": "https://open.spotify.com/album/58FSurGGBFmANZssX5QhEw"
       },
@@ -3721,10 +4004,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 179175,
       "name": "Teenage Runaways",
       "url": "https://open.spotify.com/track/2XnXc7VrwyQzy5ddfKe5Qo"
+    },
+    {
+      "album": {
+        "name": "Tell Me I\u2019m Alive",
+        "url": "https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155562,
+      "name": "Tell Me I\u2019m Alive",
+      "url": "https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt"
     },
     {
       "album": {
@@ -3847,7 +4148,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-26",
       "duration_ms": 176475,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b"
@@ -3869,6 +4170,28 @@
       "duration_ms": 194751,
       "name": "together",
       "url": "https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD"
+    },
+    {
+      "album": {
+        "name": "Tom in 03",
+        "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
+      },
+      "artists": [
+        {
+          "name": "Misplaced",
+          "url": "https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu"
+        },
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141671,
+      "name": "Tom in 03",
+      "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
     },
     {
       "album": {
@@ -3919,10 +4242,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 148897,
       "name": "u look stupid",
       "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
+    },
+    {
+      "album": {
+        "name": "Ugly Crier",
+        "url": "https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152053,
+      "name": "Ugly Crier",
+      "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
     },
     {
       "album": {

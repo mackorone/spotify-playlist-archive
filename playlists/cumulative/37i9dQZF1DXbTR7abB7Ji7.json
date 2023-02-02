@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "The perfect classical accompaniment to your wedding day; elegant background music for seating guests, walking down the aisle or cocktail hour. ",
+  "description": "The perfect instrumental accompaniment to your wedding day or engagement party; elegant background music for seating guests, walking down the aisle or cocktail hour. ",
   "name": "Classical Wedding",
-  "published_playlist_ids": [
-    "5Y8mV1kkK7RVGOGyZCwVZy"
-  ],
   "tracks": [
     {
       "album": {
@@ -31,10 +28,32 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 237000,
       "name": "5 Romances: Romance No. 3 'Elegy'",
       "url": "https://open.spotify.com/track/19BHTChi0YhdZfyS4nNSG6"
+    },
+    {
+      "album": {
+        "name": "Sibelius",
+        "url": "https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369026,
+      "name": "6 Impromptus, Op. 5: Impromptu VI",
+      "url": "https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX"
     },
     {
       "album": {
@@ -161,6 +180,50 @@
       "duration_ms": 217906,
       "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Grand Piano",
       "url": "https://open.spotify.com/track/11MJZb67EZgtwAeXLbHyft"
+    },
+    {
+      "album": {
+        "name": "Ave verum corpus, K.618 (arr. for piano by Franz Liszt)",
+        "url": "https://open.spotify.com/album/6hJpChw1IpyvRw8UVDzO09"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Ave verum corpus, K.618 (arr. for piano by Franz Liszt)",
+      "url": "https://open.spotify.com/track/65P5vqHd18YLG8AsaVGFjw"
+    },
+    {
+      "album": {
+        "name": "Bach: Arioso (Arr. Cortot After Harpsichord Concerto No. 5 in F Minor, BWV 1056)",
+        "url": "https://open.spotify.com/album/4HgNY10OgAjf7mKvcLPRDA"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Dong Hyek Lim",
+          "url": "https://open.spotify.com/artist/3Iu4Pq63V1WcBWrNNthgPP"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174383,
+      "name": "Bach: Arioso (Arr. Cortot After Harpsichord Concerto No. 5 in F Minor, BWV 1056)",
+      "url": "https://open.spotify.com/track/5xfujtIVvNc4ieq441J8NJ"
     },
     {
       "album": {
@@ -403,7 +466,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 309466,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/386YmSk1BVzZXcTpAH3nUz"
@@ -463,7 +526,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 309466,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/5GnRdw3oNKF8Mz6gdEcQLK"
@@ -522,6 +585,32 @@
     },
     {
       "album": {
+        "name": "Schubert: Die Nacht (Arr. for Cello and Guitar by Anja Lechner and Pablo M\u00e1rquez)",
+        "url": "https://open.spotify.com/album/4Gi7J0yFWPlVxJ6qp2MI1e"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Anja Lechner",
+          "url": "https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN"
+        },
+        {
+          "name": "Pablo Marquez",
+          "url": "https://open.spotify.com/artist/0lwJbmjABuZ51dYqLrARNE"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143266,
+      "name": "Die Nacht (Arr. for Cello and Guitar by Anja Lechner and Pablo M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/5s8B58Hj2GlkAoo5V658bU"
+    },
+    {
+      "album": {
         "name": "Faur\u00e9: Dolly Suite; Nocturnes; Barcarolles; Impromptus",
         "url": "https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi"
       },
@@ -545,6 +634,32 @@
       "duration_ms": 176518,
       "name": "Dolly, Op. 56: 1. Berceuse",
       "url": "https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P"
+    },
+    {
+      "album": {
+        "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
+        "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Khatia Buniatishvili",
+          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197847,
+      "name": "Dvo\u0159\u00e1k: 4 Romantic Pieces, Op. 75, B. 150: No. 1, Allegro moderato",
+      "url": "https://open.spotify.com/track/1A6YUwRiZoVY5lDGZ6JvK4"
     },
     {
       "album": {
@@ -574,6 +689,32 @@
     },
     {
       "album": {
+        "name": "Classical Clips Vol. 2",
+        "url": "https://open.spotify.com/album/2p8lqilvsLn9SaoecIglJA"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75947,
+      "name": "Flower Duet",
+      "url": "https://open.spotify.com/track/582kxTHjj7jzMzsOxgrWfH"
+    },
+    {
+      "album": {
         "name": "Flower Duet (Goldmund Rework)",
         "url": "https://open.spotify.com/album/38RHDC1MzoEZa5xaDMggAY"
       },
@@ -593,7 +734,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 167432,
       "name": "Flower Duet - Goldmund Rework",
       "url": "https://open.spotify.com/track/3x5EerSpxWhkSvLKQ87U2S"
@@ -788,6 +929,32 @@
     },
     {
       "album": {
+        "name": "II. Adagio",
+        "url": "https://open.spotify.com/album/68VoCUnYwGfSk5U60Jf7cF"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Martin Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF"
+        },
+        {
+          "name": "Swedish Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411026,
+      "name": "II. Adagio",
+      "url": "https://open.spotify.com/track/5AjGHyx54NLmriCjj71qiR"
+    },
+    {
+      "album": {
         "name": "Vissi d'Arte - Opera for Orchestra",
         "url": "https://open.spotify.com/album/2vjEH5WILR6M71LdCI3Umv"
       },
@@ -957,8 +1124,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 245000,
-      "name": "Nocturne",
+      "name": "Nocturne (Arr. Cullen for Cello and Orchestra)",
       "url": "https://open.spotify.com/track/4Ihs5QBKqaVzRlfot22aKt"
+    },
+    {
+      "album": {
+        "name": "Invocaci\u00f3n",
+        "url": "https://open.spotify.com/album/4e1OIusJfC64x8jPvIzeNM"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Mattias Schulstad",
+          "url": "https://open.spotify.com/artist/2jvqNlkR1lMdHy8ipcFzY5"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251573,
+      "name": "Nocturne Op.9 No.2 - Arranged by Francisco T\u00e1rrega/Mattias Schulstad",
+      "url": "https://open.spotify.com/track/2gPbAlaGCuRAyWp0bJtJ9g"
     },
     {
       "album": {
@@ -1080,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "Mozart: Piano Sonatas K.309, K.332 & K.570",
+        "url": "https://open.spotify.com/album/44c4dUwLlRWjAvMgg4ihIG"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
+      "url": "https://open.spotify.com/track/0ftAOThcYwpSDapJhDOy7o"
+    },
+    {
+      "album": {
         "name": "Brunch with Vivaldi",
         "url": "https://open.spotify.com/album/7vjUkzgBtOhL42fXMscbUW"
       },
@@ -1180,6 +1391,32 @@
     },
     {
       "album": {
+        "name": "Schumann & Schubert - Transcriptions for Clarinet & Harp",
+        "url": "https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Anneleen Lenaerts",
+          "url": "https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I"
+        },
+        {
+          "name": "Dionysis Grammenos",
+          "url": "https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129919,
+      "name": "Schumann: 12 Gedichte aus Liebesfr\u00fchling, Op. 37: No. 11: Warum willst du andre fragen",
+      "url": "https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ"
+    },
+    {
+      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/3DfJIkZx34132XJ7j1L43O"
       },
@@ -1225,6 +1462,32 @@
       "duration_ms": 191493,
       "name": "Solomon HWV 67 / Act 3: The Arrival Of The Queen Of Sheba",
       "url": "https://open.spotify.com/track/1bTXAKwE2Hztv13xTAhMQB"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Cello Sonatas Op.69 & 102; Variations",
+        "url": "https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179133,
+      "name": "Sonata for Cello and Piano No. 4 in C Major, Op. 102 No. 1: I. Andante",
+      "url": "https://open.spotify.com/track/0EKPj41uhOc0r0UjkKbjsm"
     },
     {
       "album": {

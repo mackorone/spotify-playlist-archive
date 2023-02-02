@@ -4,7 +4,7 @@
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-108 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/6kMROUmrhkoCB9OtoHeyZI)
+109 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-23 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/7nQrUXVzVeYb0hAuabfmaP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Christmas Hits](https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6) | 4:01 | 2021-12-23 | 2022-07-29 |
 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2021-12-23 |  |
-| [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 | 2021-12-23 |  |
+| [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 | 2021-12-23 | 2022-12-07 |
+| [Blue Christmas](https://open.spotify.com/track/7C5MKu83YKO3QnCj2suvfz) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Blue Christmas](https://open.spotify.com/album/3nDzeeosWy1TWYwVMRhRJJ) | 2:10 | 2022-12-06 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/2wIOEh6QNccqsHYEPZTrRP) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [I Believe In Father Christmas EP](https://open.spotify.com/album/6RvE3NTJQI7P732gb8o4zD) | 2:19 | 2021-12-23 | 2022-08-03 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6CT7ZQKVafBZjCOCafy5Ad) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas](https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4) | 2:19 | 2021-12-23 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 2:19 | 2021-12-23 | 2022-07-29 |
@@ -74,9 +75,9 @@
 | [One Wish \(For Christmas\)](https://open.spotify.com/track/6pPLhUHaxNy37eIUNYu5JL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:12 | 2021-12-23 |  |
 | [One Wish \(For Christmas\)](https://open.spotify.com/track/5jkE7wePxbdWCN4egUn9yo) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [R&B Weihnachtssongs](https://open.spotify.com/album/7gRQGb4oPPk1FN7R6TZjv5) | 4:12 | 2021-12-23 | 2022-11-13 |
 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/60e4x4V1ElCjukbAteZdZn) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 2:57 | 2021-12-23 |  |
-| [Rockin' Around the Christmas Tree](https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [A Brenda Lee Christmas](https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F) | 2:06 | 2021-12-23 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-23 |  |
 | [Rockin' Around the Christmas Tree \- Re\-Recorded Version](https://open.spotify.com/track/0MSZvONijKwL4NWF8n6pE6) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/0TfqrsPnjt2xgFT7nrGy5I) | 2:06 | 2021-12-23 | 2022-11-13 |
+| [Rockin' Around the Christmas Tree \- Rerecorded Version](https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [A Brenda Lee Christmas](https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F) | 2:06 | 2021-12-23 |  |
 | [Rockin' Around The Christmas Tree \- Single Version](https://open.spotify.com/track/1XBc4r6ltXjkFJBrsttwIF) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Anthology 1956\-1980 \(Volume 1 & 2\)](https://open.spotify.com/album/0u0RtnUnKXRsc0wiD6q6Ck) | 2:05 | 2021-12-23 | 2022-07-29 |
 | [Run Rudolph Run](https://open.spotify.com/track/3CQa7Xu95cwlQVPd3UoiHB) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Noël 2020](https://open.spotify.com/album/0gbWx46O7msHBOfp6fYSkk) | 2:42 | 2021-12-23 | 2022-11-13 |
 | [Run Rudolph Run](https://open.spotify.com/track/2YRAHBcCATVlCgVQg8Mitd) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Johnny B\. Goode/His Complete \`50s Chess Recordings](https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE) | 2:43 | 2021-12-23 | 2022-07-29 |

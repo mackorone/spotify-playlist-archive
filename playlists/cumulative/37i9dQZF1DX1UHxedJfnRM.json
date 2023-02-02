@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Los temas m\u00e1s sabrosos del momento suenan aqu\u00ed. Foto: Gilberto Santa Rosa, Carlos Vives",
+  "description": "Los temas m\u00e1s sabrosos del momento suenan aqu\u00ed. Foto: Mike Bah\u00eda",
   "name": "Pura Salsa",
-  "published_playlist_ids": [
-    "2tB1ux7wGPv1Xl4KlF6iA7"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,7 +96,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 268009,
       "name": "Amarte Duele As\u00ed",
       "url": "https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn"
@@ -121,6 +118,24 @@
       "duration_ms": 268009,
       "name": "Amarte Duele As\u00ed",
       "url": "https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n"
+    },
+    {
+      "album": {
+        "name": "Amarte Duele As\u00ed",
+        "url": "https://open.spotify.com/album/5SoaSY0mexom8MbC4sbzSP"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268009,
+      "name": "Amarte Duele As\u00ed",
+      "url": "https://open.spotify.com/track/5TE1mAaQJZS8VQPBN0eADT"
     },
     {
       "album": {
@@ -366,6 +381,24 @@
     },
     {
       "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
+    },
+    {
+      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -417,10 +450,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 283226,
       "name": "Dese\u00e1ndote",
       "url": "https://open.spotify.com/track/1THrLq1IPWwpisMdF9Ivya"
+    },
+    {
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283560,
+      "name": "Dese\u00e1ndote",
+      "url": "https://open.spotify.com/track/2i8otid5VKKnEaseBVO1vq"
     },
     {
       "album": {
@@ -439,7 +490,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 251116,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/3e6CZDsRIGAD85VUSe79Dj"
@@ -894,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Hey Mor / Feliz Cumplea\u00f1os / Normal",
+        "url": "https://open.spotify.com/album/16F7daU2uFtURzYdQh0j6h"
+      },
+      "artists": [
+        {
+          "name": "Combinacion De La Habana",
+          "url": "https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288951,
+      "name": "Hey Mor / Feliz Cumplea\u00f1os / Normal",
+      "url": "https://open.spotify.com/track/5eTUJJLZanOVNcaQp9uMy1"
+    },
+    {
+      "album": {
         "name": "Homenaje a Selena",
         "url": "https://open.spotify.com/album/4bY2UikF58FUZ5BHe6NqLX"
       },
@@ -1113,7 +1182,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 267541,
       "name": "Logr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo"
@@ -1953,7 +2022,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 328257,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/5GOgQXy7zr7eawDcg42BQM"
@@ -1975,6 +2044,24 @@
       "duration_ms": 328257,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/5npRVbAfQveZ57Od4e1j66"
+    },
+    {
+      "album": {
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/6zqCAOy9YS9W4J2v4kaZOY"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328257,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/7L4NlPfnt1MNc3hsgDQPqX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-91 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/2T2MzTXR324SjegvlL7Rlo)
+91 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [On the Coast](https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [DIGGIN’ VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO](https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ) | 3:33 | 2021-08-21 |  |
 | [ON THE MOVE](https://open.spotify.com/track/4n4x9tHhgUT4BoVhBWMqav) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 5:51 | 2021-08-21 |  |
 | [ON THE SEASHORE](https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 6:11 | 2021-08-21 |  |
-| [Rainbow Sealine](https://open.spotify.com/track/3NQ3e5j7qcscVxKsUQlfOs) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Super Market](https://open.spotify.com/album/3z7LiLRgCg1W4E6Me7IJVV) | 3:53 | 2021-08-21 | 2022-11-14 |
+| [Rainbow Sealine](https://open.spotify.com/track/3NQ3e5j7qcscVxKsUQlfOs) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Super Market](https://open.spotify.com/album/3z7LiLRgCg1W4E6Me7IJVV) | 3:53 | 2021-08-21 |  |
 | [September](https://open.spotify.com/track/7BuxfPbJjtI8juuM3h18yA) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/2idSqgKijGXG5aisjk7Zn1) | 4:32 | 2021-08-21 |  |
 | [SHININ' YOU,SHININ' DAY](https://open.spotify.com/track/41GTw7r5nCPUSTf0F0O8xy) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char\[Remaster\]](https://open.spotify.com/album/0Z97HIdLQP7O5gecJXy9i2) | 5:55 | 2021-08-21 | 2022-07-29 |
 | [Shinin’ You, Shinin’ Day](https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char](https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp) | 5:55 | 2021-08-21 |  |
@@ -61,13 +61,13 @@
 | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/track/1UOeZZUegiI3Lf0OOa5Unv) | [Hiroshi Kamayatsu](https://open.spotify.com/artist/6Dzf0hRDXsjgxvmeh0dXO7) | [あゝ、わが良き友よ](https://open.spotify.com/album/0Cm3cc9blGGjNw1P4QDA4X) | 4:20 | 2021-08-21 |  |
 | [サブタレニアン二人ぼっち \- 2017 リマスター](https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Funny Walkin' \(2017 リマスター\)](https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV) | 3:14 | 2021-08-21 |  |
 | [サマープレイスサマーラヴ](https://open.spotify.com/track/09tmSzM2ugauLzrtJV2ueP) | [Yuko Kanai](https://open.spotify.com/artist/6VdzbVLd8ck1HPPpBBMvo0) | [invitation](https://open.spotify.com/album/2Vfm8k2ciRjGKpR8Q5T0Bb) | 4:37 | 2021-08-21 | 2022-07-29 |
-| [シンプル・ラブ](https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42) | [Junko Ohashi & Minoya Central Station](https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM) | [RAINBOW](https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE) | 3:47 | 2021-08-21 | 2022-11-15 |
+| [シンプル・ラブ](https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42) | [Junko Ohashi & Minoya Central Station](https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM) | [RAINBOW](https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE) | 3:47 | 2021-08-21 | 2022-12-16 |
 | [ソバカスのある少女](https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 3:29 | 2021-08-21 |  |
 | [タバコロード 20](https://open.spotify.com/track/4RElLCLpSglu5Q3GmoSEMY) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz) | 4:16 | 2021-08-21 |  |
 | [タバコロード 20](https://open.spotify.com/track/4nUSSxLYymxQo9a6xiYq5M) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/0Ph3tt5m0Kvna94MT2BMji) | 4:18 | 2021-08-21 | 2022-07-29 |
 | [バイバイ・ジュエル](https://open.spotify.com/track/7w9ahsa22ruqFptUAjf2GA) | [Hatsumi Shibata](https://open.spotify.com/artist/2NmZjnTUfF6MFpkHcopO96) | [Light Mellow しばたはつみ](https://open.spotify.com/album/0WZrx8o4lR6j3EfB53Rgnv) | 3:02 | 2021-08-21 | 2022-07-29 |
 | [ピンク・シャドウ](https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [SUMMER KNOWS](https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c) | 4:41 | 2021-08-21 |  |
-| [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 | 2021-08-21 |  |
+| [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 | 2021-08-21 | 2023-01-18 |
 | [ボンボヤージ波止場](https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [モーニング](https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ) | 4:02 | 2021-08-21 |  |
 | [マイ・ピュア・レディ](https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Amii \- versary \(東芝EMI編\)](https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg) | 3:17 | 2021-08-21 |  |
 | [ミスティー・レディー](https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [Memorial Rain](https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW) | 4:24 | 2021-08-21 | 2022-07-28 |

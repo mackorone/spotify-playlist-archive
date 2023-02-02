@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zbZrYRGVam.md) - [plain]
 
 > The biggest songs of summer 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,028 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,404 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

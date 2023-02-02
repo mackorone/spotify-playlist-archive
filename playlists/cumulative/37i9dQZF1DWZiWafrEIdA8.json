@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
   "name": "\ud790\ub9c1 \ud799\ud569",
-  "published_playlist_ids": [
-    "5gfcJLej6wVdRfUIqN4gfB"
-  ],
   "tracks": [
     {
       "album": {
@@ -47,7 +44,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212200,
-      "name": "23",
+      "name": "23 (Feat. SAM KIM)",
       "url": "https://open.spotify.com/track/4g98uQ39ekHcOAu6gWQnpK"
     },
     {
@@ -169,6 +166,50 @@
       "duration_ms": 222898,
       "name": "Bar Code (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/0el9gNyGpY6xGwOkPwKsPR"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217920,
+      "name": "Bathtub (Feat. Whee In, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/6410lt5ieSLvkczCmltXnc"
+    },
+    {
+      "album": {
+        "name": "Be Okay",
+        "url": "https://open.spotify.com/album/0gAGS0dqr59rtw8x3aHSTX"
+      },
+      "artists": [
+        {
+          "name": "TAKEWON",
+          "url": "https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 213659,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/5PTE5rGhklqRQPuVlZvWAu"
     },
     {
       "album": {
@@ -724,6 +765,32 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234839,
+      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+    },
+    {
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -925,6 +992,24 @@
       "duration_ms": 124263,
       "name": "Future Boy",
       "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
+    },
+    {
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/7tgqhnlcveT91qRcoPnjpG"
+      },
+      "artists": [
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177109,
+      "name": "GOD DID (Feat. Thug Min) [Prod. TOIL]",
+      "url": "https://open.spotify.com/track/5LjLkUUh0curHF39ZdoQwz"
     },
     {
       "album": {
@@ -1205,7 +1290,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 229467,
       "name": "HERE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
@@ -1285,6 +1370,32 @@
       "duration_ms": 195714,
       "name": "Homebody",
       "url": "https://open.spotify.com/track/608tsLkHT3wD4VOjvby5ru"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236524,
+      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
     },
     {
       "album": {
@@ -2114,6 +2225,50 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192437,
+      "name": "ORIGINAL (Feat. Sion) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r"
+    },
+    {
+      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -2277,7 +2432,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 235311,
       "name": "poison",
       "url": "https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T"
@@ -2560,6 +2715,28 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "See you ! (Feat. SOLE) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/0XVzQQ8m7CHmc58TDMJuRj"
+    },
+    {
+      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -2695,7 +2872,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 219394,
       "name": "Sky",
       "url": "https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl"
@@ -2911,7 +3088,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 276612,
       "name": "Still (feat.Crush)",
       "url": "https://open.spotify.com/track/6z7gU9SBoBdqEaMi4jPKc2"
@@ -3035,7 +3212,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 164035,
       "name": "The Little Prince (Prod. Godic)",
       "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
@@ -3459,7 +3636,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
@@ -3503,7 +3680,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 215054,
       "name": "Yoo Jae Suk",
       "url": "https://open.spotify.com/track/3QglCjbhnoT7NPUOqU5zDK"

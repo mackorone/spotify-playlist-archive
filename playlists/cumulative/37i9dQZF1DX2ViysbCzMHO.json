@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
   "name": "Nashville Stripped",
-  "published_playlist_ids": [
-    "4Z4CwXpklCxiou1hH4tneE"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 221382,
       "name": "7500 OBO - Acoustic",
       "url": "https://open.spotify.com/track/6cPVJA45gmpl0Jgvzac67e"
@@ -185,6 +182,24 @@
       "duration_ms": 211662,
       "name": "All On Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "album": {
+        "name": "MDM Recordings 2022 Wrap Up - Rarities, Remixes And The Hits",
+        "url": "https://open.spotify.com/album/2IrlPDhlLnzh81xWyF1Rcj"
+      },
+      "artists": [
+        {
+          "name": "David James",
+          "url": "https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 185812,
+      "name": "All The Time - Stripped",
+      "url": "https://open.spotify.com/track/5szCtOKnYxYxDYadu18QmN"
     },
     {
       "album": {
@@ -441,7 +456,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 180657,
       "name": "Better With A Broken Heart - Acoustic Live In Studio",
       "url": "https://open.spotify.com/track/5T1HjQ6lefBwhauvA9TozO"
@@ -459,7 +474,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 169017,
       "name": "Between You & Me",
       "url": "https://open.spotify.com/track/4FEGLKYIfTEatQtfGLGxlu"
@@ -690,6 +705,24 @@
     },
     {
       "album": {
+        "name": "The Nashville Sessions",
+        "url": "https://open.spotify.com/album/5xkwEARs8kunLXWeEWglae"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157143,
+      "name": "Dirt Road - Nashville Session",
+      "url": "https://open.spotify.com/track/7HbRlzxSl4zjaY75QNJ169"
+    },
+    {
+      "album": {
         "name": "Don't Come Lookin' (Live Acoustic)",
         "url": "https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6"
       },
@@ -835,7 +868,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 221525,
       "name": "Every Other Memory - Acoustic",
       "url": "https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39"
@@ -1044,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Girl On Fire (Acoustic)",
+        "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188709,
+      "name": "Girl On Fire - Acoustic",
+      "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
+    },
+    {
+      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/0KZUFOf422XJiRUXfl7b78"
       },
@@ -1077,6 +1128,24 @@
       "duration_ms": 232039,
       "name": "Giving You Up - Acoustic",
       "url": "https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV"
+    },
+    {
+      "album": {
+        "name": "Going, Going, Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166101,
+      "name": "Going, Going, Gone - Acoustic",
+      "url": "https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE"
     },
     {
       "album": {
@@ -1149,6 +1218,28 @@
       "duration_ms": 151828,
       "name": "Growing Up (Are You Happy) - Acoustic",
       "url": "https://open.spotify.com/track/0Lt8VWHBGhXj0DlqjDwvVC"
+    },
+    {
+      "album": {
+        "name": "Half Of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175639,
+      "name": "Half Of Me - Acoustic",
+      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
     },
     {
       "album": {
@@ -1395,7 +1486,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 208240,
       "name": "Hood of That Car - Piano Version",
       "url": "https://open.spotify.com/track/7LMR7luX7Mf9YPsOX8hLvK"
@@ -1699,7 +1790,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 181524,
       "name": "It Don't Work Like That",
       "url": "https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb"
@@ -1825,7 +1916,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 191973,
       "name": "Lessons (Acoustic)",
       "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
@@ -1901,6 +1992,24 @@
       "duration_ms": 242530,
       "name": "Long Haul - Stripped",
       "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+    },
+    {
+      "album": {
+        "name": "Long Live Cowgirls (Me and a Fiddle)",
+        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180997,
+      "name": "Long Live Cowgirls - Me and a Fiddle",
+      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
     },
     {
       "album": {
@@ -2236,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "No Horse To Ride (demo version)",
+        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133906,
+      "name": "No Horse To Ride - demo version",
+      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
+    },
+    {
+      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ"
       },
@@ -2251,6 +2378,24 @@
       "duration_ms": 217533,
       "name": "No Now",
       "url": "https://open.spotify.com/track/6QqXvIQk3T9jLQq6aSynAU"
+    },
+    {
+      "album": {
+        "name": "Born in July (The Album)",
+        "url": "https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164234,
+      "name": "Not Supposed To Know Each Other (Sad Version)",
+      "url": "https://open.spotify.com/track/2ZVec8GTFATsJBkYdKhagf"
     },
     {
       "album": {
@@ -3018,6 +3163,28 @@
     },
     {
       "album": {
+        "name": "Honestly (Deluxe)",
+        "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        },
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 212932,
+      "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
+      "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+    },
+    {
+      "album": {
         "name": "Therapy (Rainy Days Version)",
         "url": "https://open.spotify.com/album/4JEz7TLU7JCfMXKUrWLoLe"
       },
@@ -3083,7 +3250,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 207452,
       "name": "Think About Me (Acoustic)",
       "url": "https://open.spotify.com/track/194XKrvynblYSIsPg9o3Nf"
@@ -3189,7 +3356,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 146711,
       "name": "Turning Stones",
       "url": "https://open.spotify.com/track/7zjWrzJRAkH9u4a8mwF1iH"
@@ -3495,7 +3662,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 219385,
       "name": "While You're Gone - Acoustic",
       "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
@@ -3632,6 +3799,24 @@
     },
     {
       "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198722,
+      "name": "Wild Palomino",
+      "url": "https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ"
+    },
+    {
+      "album": {
         "name": "Wild Palomino",
         "url": "https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv"
       },
@@ -3647,7 +3832,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 198514,
       "name": "Wild Palomino",
       "url": "https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0"
@@ -3683,7 +3868,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 173790,
       "name": "Wildfire - Acoustic",
       "url": "https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI"

@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for a peaceful sleep.
 
-79 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/6flIKf9qMxalUgZCL9SyWW)
+79 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

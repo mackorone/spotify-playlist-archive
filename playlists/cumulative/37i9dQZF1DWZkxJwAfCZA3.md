@@ -4,13 +4,14 @@
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-96 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
+97 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1.3 \- Original Mix](https://open.spotify.com/track/76CwcDRccDzNjrBJLkuDsY) | [Vågh](https://open.spotify.com/artist/4CCDoIlomaVNquOackuAtd) | [Deception EP](https://open.spotify.com/album/5odEuc1NfixSZpdlC5Wt7w) | 5:55 | 2021-09-16 | 2022-07-30 |
 | [11.44 \(AM Version\)](https://open.spotify.com/track/1CVPBzdKl1bJ9zDZbkCNpw) | [Lyric](https://open.spotify.com/artist/4YOr4jXlrBof5DTU1KDafk) | [Woman\-Hood Chapter 1 EP](https://open.spotify.com/album/1ZdVzluYo79Nd2mE7W4z1s) | 3:32 | 2022-07-29 |  |
-| [Ancestors](https://open.spotify.com/track/025iViTyEpPYeaF4eWm20O) | [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [Warp Records Sampler 2010](https://open.spotify.com/album/3g3Z2HbOvMoGlG9r3KxyBy) | 2:37 | 2022-07-29 |  |
+| [Ancestors](https://open.spotify.com/track/025iViTyEpPYeaF4eWm20O) | [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [Warp Records Sampler 2010](https://open.spotify.com/album/3g3Z2HbOvMoGlG9r3KxyBy) | 2:37 | 2022-07-29 | 2023-01-21 |
+| [Ancestors](https://open.spotify.com/track/1eYsvMckAi04KcmRBvbtV2) | [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [A Sufi And A Killer \(Bonus Track Version\)](https://open.spotify.com/album/01L5H2Xyj7K43SeJSY2s4y) | 2:37 | 2022-07-29 |  |
 | [Annihilate The World & Start All Over](https://open.spotify.com/track/6B1Wi5Cu0V8dSlsu1o4i3T) | [Paranoid London](https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb) | [Annihilate The World & Start All Over](https://open.spotify.com/album/1IvuaFYrXMgYehTdCuJUkj) | 8:14 | 2021-09-16 | 2022-07-30 |
 | [Atonia](https://open.spotify.com/track/4r8QRUSkgtoBQYRjhRX2Me) | [Arkan](https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH) | [Traumatismo 12](https://open.spotify.com/album/3TeCrp9S0gE3MB19c8MT7D) | 5:35 | 2021-09-16 | 2022-07-30 |
 | [Axe Nord\-Sud](https://open.spotify.com/track/1HsMIxRWkaae0ju7JIEGxh) | [Ténèbre](https://open.spotify.com/artist/6vzW5RpSfm0rFhNouR5J3E) | [Territory III](https://open.spotify.com/album/1VE2bwwZHlkMUdTOScdIMg) | 5:35 | 2021-09-16 | 2022-07-30 |

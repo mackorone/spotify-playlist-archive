@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-09",
   "description": "Lovely, pop-filled, fun.",
   "name": "Wholesome",
-  "published_playlist_ids": [
-    "2g79cma7f2NHaiuEcBbTN0"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,7 +56,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 191838,
       "name": "1982",
       "url": "https://open.spotify.com/track/2l48q7fReW5pz6aaF6Daas"
@@ -81,24 +78,6 @@
       "duration_ms": 194147,
       "name": "5 In The Morning",
       "url": "https://open.spotify.com/track/0hOlbRZFsasbJzcciXRolS"
-    },
-    {
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2022-01-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -236,6 +215,24 @@
     },
     {
       "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
+    },
+    {
+      "album": {
         "name": "Back to Life",
         "url": "https://open.spotify.com/album/6GEqhQtcSHnnPZDKTbZcb3"
       },
@@ -251,6 +248,24 @@
       "duration_ms": 194682,
       "name": "Back to Life",
       "url": "https://open.spotify.com/track/5raHB5HD8ISjhhw8D6yHFz"
+    },
+    {
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn"
+      },
+      "artists": [
+        {
+          "name": "Lucy Spraggan",
+          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214517,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu"
     },
     {
       "album": {
@@ -305,6 +320,24 @@
       "duration_ms": 195493,
       "name": "Bed",
       "url": "https://open.spotify.com/track/1W1qyvqYpF3Bf1fCTX1GM6"
+    },
+    {
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0aISwc1s6N6XuBh1BxzDHx"
     },
     {
       "album": {
@@ -409,10 +442,46 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+    },
+    {
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214768,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
     },
     {
       "album": {
@@ -489,6 +558,24 @@
       "duration_ms": 201178,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "album": {
@@ -647,7 +734,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 175508,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
@@ -701,10 +788,28 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 229133,
       "name": "Don't Break the Heart",
       "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
+    },
+    {
+      "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226035,
+      "name": "East End Coast",
+      "url": "https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr"
     },
     {
       "album": {
@@ -719,7 +824,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 226035,
       "name": "East End Coast",
       "url": "https://open.spotify.com/track/5xIFAPaCtFQhE5VXmmfUP2"
@@ -983,7 +1088,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 163866,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee"
@@ -1160,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "album": {
         "name": "Girls Like Us",
         "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
       },
@@ -1171,7 +1294,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 189000,
       "name": "Girls Like Us",
       "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
@@ -1214,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Phosphorescent",
+        "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188792,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z"
+    },
+    {
+      "album": {
         "name": "good thing",
         "url": "https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ"
       },
@@ -1225,7 +1366,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 142480,
       "name": "good thing",
       "url": "https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP"
@@ -1485,7 +1626,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 193733,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl"
@@ -1586,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "I Just Came To Dance",
+        "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144950,
+      "name": "I Just Came To Dance",
+      "url": "https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg"
+    },
+    {
+      "album": {
         "name": "I Just Wanna (feat. Bow Anderson)",
         "url": "https://open.spotify.com/album/1IyHQhcn2u53scCz3w8HsS"
       },
@@ -1677,7 +1836,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 164202,
       "name": "imagine",
       "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
@@ -1717,6 +1876,42 @@
       "duration_ms": 216493,
       "name": "John Hughes Movie",
       "url": "https://open.spotify.com/track/4NzoEowcMzDs9ELjzlOvW5"
+    },
+    {
+      "album": {
+        "name": "Kiss You",
+        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152506,
+      "name": "Kiss You",
+      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
     },
     {
       "album": {
@@ -1843,6 +2038,24 @@
       "duration_ms": 203546,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/4fDBdFnp6yOMRCb5AH8tCn"
+    },
+    {
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
     },
     {
       "album": {
@@ -2113,10 +2326,28 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 200626,
       "name": "Never Get It Right",
       "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "album": {
@@ -2225,7 +2456,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 246750,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
@@ -2279,7 +2510,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-19",
       "duration_ms": 208563,
       "name": "One of Those Days",
       "url": "https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu"
@@ -2369,7 +2600,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 183070,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs"
@@ -2542,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "There\u2019s Nothing But Space, Man!",
+        "url": "https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185986,
+      "name": "Put A Light On Me",
+      "url": "https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/6IQCulw5pQ0uEq2KqGS9fk"
       },
@@ -2571,7 +2820,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 214277,
       "name": "roots",
       "url": "https://open.spotify.com/track/5AllnsqFHeN3a08icQsKIb"
@@ -2715,7 +2964,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 172232,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR"
@@ -2871,7 +3120,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 219865,
       "name": "Sister Ray",
       "url": "https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO"
@@ -2997,7 +3246,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 186963,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz"
@@ -3095,7 +3344,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 213924,
       "name": "Stormy Skies (Diamonds)",
       "url": "https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1"
@@ -3359,6 +3608,24 @@
       "duration_ms": 201951,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/4HMGAw9e1Re6ci4fChdEvj"
+    },
+    {
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/138lSNAApov9p0YikNh5gh"
+      },
+      "artists": [
+        {
+          "name": "RVBY",
+          "url": "https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5qOlWfTdKPafaINlhpVY5V"
     },
     {
       "album": {
@@ -3773,7 +4040,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 206435,
       "name": "You Got",
       "url": "https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK"

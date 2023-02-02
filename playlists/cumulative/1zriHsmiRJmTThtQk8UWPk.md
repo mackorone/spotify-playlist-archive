@@ -4,7 +4,7 @@
 
 > Listen to a collection of inspiring women in music as they share the stories of their music icons, from Lera Lynn and Kelly Clarkson to Zendaya and Terri Nunn.
 
-142 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/64Oo0XtwWC7qy89rV0DUDd)
+142 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

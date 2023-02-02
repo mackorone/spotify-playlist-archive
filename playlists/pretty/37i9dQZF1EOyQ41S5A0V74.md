@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOyQ41S5A0V74.md) - [plain](/playlists/plain/37i9dQZF1EOyQ41S5A0V74) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EOyQ41S5A0V74)
 
-### [On Record \(8\)](https://open.spotify.com/playlist/37i9dQZF1EOyQ41S5A0V74)
+### [On Record \(11\)](https://open.spotify.com/playlist/37i9dQZF1EOyQ41S5A0V74)
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 

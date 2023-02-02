@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Listen to the finest Jazz made in Belgium. Cover: Stellar Legions\n",
   "name": "Belgo-Jazz",
-  "published_playlist_ids": [
-    "0BGpoGk8zyTnHesLTcROQ8"
-  ],
   "tracks": [
     {
       "album": {
@@ -438,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/3KQlNjPSPVSl9QlwMlDpAs"
+      },
+      "artists": [
+        {
+          "name": "L\u0169p\u1e01GangGang",
+          "url": "https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240480,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6gSikmgY3B2Pp0CvQXBjEC"
+    },
+    {
+      "album": {
         "name": "The Return",
         "url": "https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd"
       },
@@ -658,6 +673,60 @@
     },
     {
       "album": {
+        "name": "Dag Na Naamdag",
+        "url": "https://open.spotify.com/album/7fsFzSqZ6awZxuoWgS8Byw"
+      },
+      "artists": [
+        {
+          "name": "Bandler Ching",
+          "url": "https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 285722,
+      "name": "Dag Na Naamdag",
+      "url": "https://open.spotify.com/track/5HGH0McByz0hX2JCnY70iu"
+    },
+    {
+      "album": {
+        "name": "Smooch",
+        "url": "https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL"
+      },
+      "artists": [
+        {
+          "name": "Bandler Ching",
+          "url": "https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 285722,
+      "name": "Dag Na Naamdag",
+      "url": "https://open.spotify.com/track/5exLlipto9rztxYRRZxdJS"
+    },
+    {
+      "album": {
+        "name": "Coaxial",
+        "url": "https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6"
+      },
+      "artists": [
+        {
+          "name": "Bandler Ching",
+          "url": "https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285722,
+      "name": "Dag Na Naamdag",
+      "url": "https://open.spotify.com/track/6sF5HnGQraBYRwZLsTJQG7"
+    },
+    {
+      "album": {
         "name": "Dance Around Bullets",
         "url": "https://open.spotify.com/album/3ygEejH0fJ962lx8mVtpOy"
       },
@@ -871,7 +940,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 226253,
       "name": "galet",
       "url": "https://open.spotify.com/track/61iJHseE92EV2mXzFHWZ1n"
@@ -978,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "WITVROUW",
+        "url": "https://open.spotify.com/album/6oupqzhjk5i8ZZR7ISlgvd"
+      },
+      "artists": [
+        {
+          "name": "WITVROUW",
+          "url": "https://open.spotify.com/artist/2VkgYHdG7g57sHOZpEAy8x"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450320,
+      "name": "How We'll Meet Tonight ?",
+      "url": "https://open.spotify.com/track/3ao50dH6fEGQXKgZBlpQL1"
+    },
+    {
+      "album": {
         "name": "Hubert",
         "url": "https://open.spotify.com/album/54DTXl96X0LpnR7uqtemIG"
       },
@@ -1007,7 +1094,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 153066,
       "name": "Jazzclub",
       "url": "https://open.spotify.com/track/0KdVwhhbLhvnxjfjjNbqR7"
@@ -1061,7 +1148,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 418586,
       "name": "Kervan",
       "url": "https://open.spotify.com/track/4Fwoj8XDiS2itAJ8DMzVLC"
@@ -1381,7 +1468,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 261213,
       "name": "Mumpsimus",
       "url": "https://open.spotify.com/track/1jv1v75OhCe82Xtulem3h3"
@@ -1635,7 +1722,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 264146,
       "name": "Opening 1.1.1",
       "url": "https://open.spotify.com/track/18nEqw47WXcG05rKgWnXzy"
@@ -1669,6 +1756,42 @@
       "duration_ms": 401333,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/7i09pfaygJs6QkxWYfHc2q"
+    },
+    {
+      "album": {
+        "name": "Out The Light",
+        "url": "https://open.spotify.com/album/4bpokh1FHd4HtG6sHYQM7w"
+      },
+      "artists": [
+        {
+          "name": "L\u0169p\u1e01GangGang",
+          "url": "https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 232053,
+      "name": "Out The Light",
+      "url": "https://open.spotify.com/track/0RLbMwI4Yxl9HPe42lxRd7"
+    },
+    {
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/3KQlNjPSPVSl9QlwMlDpAs"
+      },
+      "artists": [
+        {
+          "name": "L\u0169p\u1e01GangGang",
+          "url": "https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232053,
+      "name": "Out The Light",
+      "url": "https://open.spotify.com/track/2nDj8UEv9AIzVU2YjirnyV"
     },
     {
       "album": {
@@ -1723,6 +1846,28 @@
       "duration_ms": 213253,
       "name": "Photonic",
       "url": "https://open.spotify.com/track/5R0GSuk5hmDMm7Nqqq6eoP"
+    },
+    {
+      "album": {
+        "name": "PAPARA",
+        "url": "https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6"
+      },
+      "artists": [
+        {
+          "name": "M.CHUZI",
+          "url": "https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d"
+        },
+        {
+          "name": "Mixmaster Menno",
+          "url": "https://open.spotify.com/artist/11sBV4HVBIdqHEV8oMOQIS"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303333,
+      "name": "Pickles",
+      "url": "https://open.spotify.com/track/4Lu7Igq9s2nQ0af1RGqNfo"
     },
     {
       "album": {
@@ -1994,6 +2139,60 @@
     },
     {
       "album": {
+        "name": "Coaxial",
+        "url": "https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6"
+      },
+      "artists": [
+        {
+          "name": "Bandler Ching",
+          "url": "https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310464,
+      "name": "Smooch",
+      "url": "https://open.spotify.com/track/0mxkPFP9OWqJNdqq5TlmzQ"
+    },
+    {
+      "album": {
+        "name": "Smooch",
+        "url": "https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL"
+      },
+      "artists": [
+        {
+          "name": "Bandler Ching",
+          "url": "https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 310464,
+      "name": "Smooch",
+      "url": "https://open.spotify.com/track/5E4NPgrMaD2T8TAJIAR6A9"
+    },
+    {
+      "album": {
+        "name": "Solace In Solitude",
+        "url": "https://open.spotify.com/album/6ciVgd0syuPG2hOzA3wu6P"
+      },
+      "artists": [
+        {
+          "name": "Profound Observer",
+          "url": "https://open.spotify.com/artist/0dvxvZTqgUjgROTCBoF4NR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348906,
+      "name": "Solace In Solitude",
+      "url": "https://open.spotify.com/track/1lc91yToT1IMkmcJ6TzFXd"
+    },
+    {
+      "album": {
         "name": "Suspended (Live at Flagey)",
         "url": "https://open.spotify.com/album/6INjembZVZPvSmGubjofPo"
       },
@@ -2179,7 +2378,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 266300,
       "name": "TinniT - Edit",
       "url": "https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q"
@@ -2201,6 +2400,24 @@
       "duration_ms": 110989,
       "name": "Tsht",
       "url": "https://open.spotify.com/track/4qSPzGBpuGu5Vao4HOIztL"
+    },
+    {
+      "album": {
+        "name": "Tunguska",
+        "url": "https://open.spotify.com/album/4PUzNg12c0DFpuCo95HR7l"
+      },
+      "artists": [
+        {
+          "name": "Ansatz Der Maschine",
+          "url": "https://open.spotify.com/artist/2imYMaCI7CxN9tVnNyBuiB"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233573,
+      "name": "Tunguska (Part 2)",
+      "url": "https://open.spotify.com/track/2XSBC6tYF7eRA9Coy4Ms4s"
     },
     {
       "album": {
@@ -2345,7 +2562,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 93466,
       "name": "Verloren Buffels",
       "url": "https://open.spotify.com/track/4FMb1GtQ3uR8tIkyKCu25M"

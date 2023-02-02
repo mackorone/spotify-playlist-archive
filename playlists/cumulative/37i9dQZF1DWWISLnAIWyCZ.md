@@ -4,7 +4,7 @@
 
 > 60 best recorded and engineered classical recordings to <a href="spotify:user:spotify:playlist:37i9dQZF1DWZtZ8vUCzche">test your headphones</a> or speakers with\.  Enjoy your best seat in legendary concert halls and recording studios around the world.
 
-60 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/6c2CTccpifSE5uwgnmoeui)
+60 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

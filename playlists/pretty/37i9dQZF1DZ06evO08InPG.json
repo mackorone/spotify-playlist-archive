@@ -1,15 +1,15 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 47391,
+  "num_followers": 48533,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDAzZTQ5YmFmZDAwYzJhOWRmZWZjOTJhOWQwOWE1NTdlYQ==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDAwNmZjY2Y0ZmNhMWEwOTk2YWExYmQwNjkyZGE1NzA3NQ==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Circle The Drain",
         "url": "https://open.spotify.com/album/0KnBuxBF1ynAS69UlDuJHE"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/61nq0jg2PYWxUUiarofGBI"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 396736,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
@@ -89,7 +73,71 @@
       "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 396736,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 456320,
+      "name": "Locust",
+      "url": "https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 389947,
+      "name": "UNHALL\u00d8WED",
+      "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "From This Day",
+      "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Cancer Culture",
         "url": "https://open.spotify.com/album/1h4pyfLZgGi11i560BmZp0"
@@ -109,55 +157,7 @@
       "url": "https://open.spotify.com/track/2I0caLwd3Rc84Hr147WH6S"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 389947,
-      "name": "UNHALL\u00d8WED",
-      "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "From This Day",
-      "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "Unto the Locust (Special Edition)",
-        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 456320,
-      "name": "Locust",
-      "url": "https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/2kHl3Ngt6kJsCuwq23KMIE"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
@@ -205,23 +205,7 @@
       "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "The Blackening",
-        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 447373,
-      "name": "Hallowed Be Thy Name",
-      "url": "https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Supercharger",
         "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
@@ -237,7 +221,23 @@
       "url": "https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 447373,
+      "name": "Hallowed Be Thy Name",
+      "url": "https://open.spotify.com/track/6PIT9IUAnHFlQ78tj8rrSy"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Civil Unrest",
         "url": "https://open.spotify.com/album/42eklVVP8Eosdti7osH01B"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/0yK3bCcDM5cDDykBlQ5S2w"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/1elRpcyrV2KPI973Cevrms"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
@@ -321,23 +321,7 @@
       "url": "https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "Unto the Locust (Special Edition)",
-        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 387840,
-      "name": "Darkness Within",
-      "url": "https://open.spotify.com/track/0bHYX16vAFaFhtEqKhCeqg"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "The More Things Change...",
         "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
@@ -353,10 +337,10 @@
       "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+        "name": "Unto The Locust",
+        "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
       },
       "artists": [
         {
@@ -364,28 +348,12 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 430540,
-      "name": "Now We Die",
-      "url": "https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0"
+      "duration_ms": 387842,
+      "name": "Darkness Within",
+      "url": "https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 299925,
-      "name": "BEC\u00d8ME THE FIREST\u00d8RM",
-      "url": "https://open.spotify.com/track/7GvQCTBtBQ5izny7E7AB9v"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
@@ -401,10 +369,10 @@
       "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
-        "name": "The Blackening",
-        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
       "artists": [
         {
@@ -412,15 +380,15 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 542586,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
+      "duration_ms": 299925,
+      "name": "BEC\u00d8ME THE FIREST\u00d8RM",
+      "url": "https://open.spotify.com/track/7GvQCTBtBQ5izny7E7AB9v"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
-        "name": "Through the Ashes of Empires",
-        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
       "artists": [
         {
@@ -428,12 +396,12 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 401693,
-      "name": "Imperium",
-      "url": "https://open.spotify.com/track/2WK78upCkuvhkJcrHlEEyI"
+      "duration_ms": 430540,
+      "name": "Now We Die",
+      "url": "https://open.spotify.com/track/6IORbcZIZM3JiAE5eKH8v0"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "The More Things Change...",
         "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
@@ -449,10 +417,10 @@
       "url": "https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
       },
       "artists": [
         {
@@ -460,12 +428,28 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 370746,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
+      "duration_ms": 542586,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "Through the Ashes of Empires",
+        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 401693,
+      "name": "Imperium",
+      "url": "https://open.spotify.com/track/2WK78upCkuvhkJcrHlEEyI"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Civil Unrest",
         "url": "https://open.spotify.com/album/42eklVVP8Eosdti7osH01B"
@@ -481,7 +465,7 @@
       "url": "https://open.spotify.com/track/3niNvr5rU58SPKdtGeMSJD"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
@@ -497,23 +481,7 @@
       "url": "https://open.spotify.com/track/2TAwcdw79s3T9LSp8UDQtQ"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 366467,
-      "name": "Ghosts Will Haunt My Bones",
-      "url": "https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
@@ -524,12 +492,12 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 247305,
-      "name": "Behind A Mask",
-      "url": "https://open.spotify.com/track/7bcjXWbCi5FpRf48oca8JJ"
+      "duration_ms": 370746,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "The Blackening",
         "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
@@ -545,7 +513,23 @@
       "url": "https://open.spotify.com/track/5Cs6AftcanvD6Ib7YJ1otT"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 366467,
+      "name": "Ghosts Will Haunt My Bones",
+      "url": "https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
@@ -561,87 +545,7 @@
       "url": "https://open.spotify.com/track/2VH5baF4DFeG4Lk7E7L6pB"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 509817,
-      "name": "Sail Into The Black",
-      "url": "https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 243597,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/2fNqGK13Fde9WpJ1naARev"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "The Blackening",
-        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 390293,
-      "name": "Aesthetics of Hate",
-      "url": "https://open.spotify.com/track/2dy8eXtNCrLcpT006adx5g"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 286706,
-      "name": "The Rage to Overcome",
-      "url": "https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 272058,
-      "name": "Killers & Kings",
-      "url": "https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
@@ -657,7 +561,7 @@
       "url": "https://open.spotify.com/track/6y6ht2b9DLT5Ih6oF2hzOX"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
@@ -673,7 +577,23 @@
       "url": "https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 509817,
+      "name": "Sail Into The Black",
+      "url": "https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
@@ -684,12 +604,28 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 220666,
-      "name": "Blood for Blood",
-      "url": "https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH"
+      "duration_ms": 286706,
+      "name": "The Rage to Overcome",
+      "url": "https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 247305,
+      "name": "Behind A Mask",
+      "url": "https://open.spotify.com/track/7bcjXWbCi5FpRf48oca8JJ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "The Blackening",
         "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
@@ -700,28 +636,12 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 304666,
-      "name": "Battery",
-      "url": "https://open.spotify.com/track/41qtH15yLXrhzzP2Dx9Vcm"
+      "duration_ms": 390293,
+      "name": "Aesthetics of Hate",
+      "url": "https://open.spotify.com/track/2dy8eXtNCrLcpT006adx5g"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
-      "album": {
-        "name": "Die Young (Acoustic)",
-        "url": "https://open.spotify.com/album/5J3UnugyExvTgDHmqQTPCu"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 297399,
-      "name": "Die Young (Acoustic)",
-      "url": "https://open.spotify.com/track/1YmDXTV2VyDo72p7iJeKfb"
-    },
-    {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
@@ -737,7 +657,71 @@
       "url": "https://open.spotify.com/track/1kIkgIEMPwhZMe0klLtmVP"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Blood for Blood",
+      "url": "https://open.spotify.com/track/3v4qL2RefiQZnMCQNrZYyH"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 243597,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/2fNqGK13Fde9WpJ1naARev"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "Battery",
+      "url": "https://open.spotify.com/track/41qtH15yLXrhzzP2Dx9Vcm"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 272058,
+      "name": "Killers & Kings",
+      "url": "https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Through the Ashes of Empires",
         "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
@@ -753,7 +737,23 @@
       "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
+      "album": {
+        "name": "Die Young (Acoustic)",
+        "url": "https://open.spotify.com/album/5J3UnugyExvTgDHmqQTPCu"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 297399,
+      "name": "Die Young (Acoustic)",
+      "url": "https://open.spotify.com/track/1YmDXTV2VyDo72p7iJeKfb"
+    },
+    {
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "The Blackening",
         "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
@@ -769,10 +769,10 @@
       "url": "https://open.spotify.com/track/65GqoNsz3q6GMW9AXjv8mz"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN - Bonus Tracks",
-        "url": "https://open.spotify.com/album/3wA47rONRTYNzjveZRHNvK"
+        "name": "Supercharger",
+        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
       },
       "artists": [
         {
@@ -780,12 +780,12 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 285850,
-      "name": "EXTER\u00d8CEPTI\u00d8N",
-      "url": "https://open.spotify.com/track/3ACe9ZJx9pOUCt8zbAN3Qc"
+      "duration_ms": 193893,
+      "name": "Crashing Around You",
+      "url": "https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
         "name": "Unto The Locust",
         "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
@@ -801,10 +801,10 @@
       "url": "https://open.spotify.com/track/1W7tmSRMAnpCIyRGVAu62h"
     },
     {
-      "added_at": "2022-11-25 14:27:16",
+      "added_at": "2023-02-01 17:51:25",
       "album": {
-        "name": "Unto the Locust (Special Edition)",
-        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN - Bonus Tracks",
+        "url": "https://open.spotify.com/album/3wA47rONRTYNzjveZRHNvK"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 507520,
-      "name": "I Am Hell (Sonata in C#)",
-      "url": "https://open.spotify.com/track/5WSIVWdeIkCWmvTPUmNq0K"
+      "duration_ms": 285850,
+      "name": "EXTER\u00d8CEPTI\u00d8N",
+      "url": "https://open.spotify.com/track/3ACe9ZJx9pOUCt8zbAN3Qc"
     }
   ],
   "unique_name": "This Is Machine Head",

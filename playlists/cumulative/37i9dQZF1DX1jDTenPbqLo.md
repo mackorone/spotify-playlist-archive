@@ -4,7 +4,7 @@
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-48 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/3YDLXlCH3NK8v6RUtILE2s)
+48 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

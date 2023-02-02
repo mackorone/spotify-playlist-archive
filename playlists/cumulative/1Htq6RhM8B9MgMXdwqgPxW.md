@@ -4,7 +4,7 @@
 
 > Break out of your routine with trios of tracks from some of the brightest new stars in Jazz.
 
-45 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/2yRNLhjQHtiyKb5VI6IUyD)
+45 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

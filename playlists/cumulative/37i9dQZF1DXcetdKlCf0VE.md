@@ -4,7 +4,7 @@
 
 > Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music\. Discover his famous works in this essential playlist.
 
-73 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/2JuPB8BejlzfxUp9rotMf4)
+73 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > 做嘢做到攰，開電視煲吓劇嘆返吓先！聽埋電影同劇集歌，陪你抖返晚。cover: 周興哲
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,249 likes - 49 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,281 likes - 49 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 |
 | 2 | [想知道你在想什麼 \- 《我吃了那男孩一整年的早餐》電影主題曲](https://open.spotify.com/track/6whxKQ0Ocn1FmzpDc7lTHq) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想知道你在想什麼 \(《我吃了那男孩一整年的早餐》電影主題曲\)](https://open.spotify.com/album/0bk4Iwkx4kZ66ldOfJGQFn) | 4:54 |
 | 3 | [我們都是這樣長大的 \(電視劇「家族榮耀」片尾曲\)](https://open.spotify.com/track/1OCOS5USr2fnhaDEPavn2g) | [陳維諾](https://open.spotify.com/artist/4f7pXdVCNBexUaKKjxv6wg) | [我們都是這樣長大的 \(電視劇「家族榮耀」片尾曲\)](https://open.spotify.com/album/1Lh1iARr3esh5CtUa0Ab8E) | 4:23 |
-| 4 | [Who am I \- เพลงประกอบซีรีส์ F4 Thailand : หัวใจรักสี่ดวงดาว BOYS OVER FLOWERS](https://open.spotify.com/track/1pRgexHeHDqFF0G3dttWR9) | [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [วิน เมธวิน](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW), [ดิว จิรวรรตน์](https://open.spotify.com/artist/0MNyVf0lO8x0GeSPPjvoP8), [นานิ หิรัญกฤษฎิ์](https://open.spotify.com/artist/6WxCCin0xiIGz6Rd4ZsQoA) | [เพลงประกอบซีรีส์ F4 Thailand : หัวใจรักสี่ดวงดาว BOYS OVER FLOWERS](https://open.spotify.com/album/0qdRdE2KdlRthi9e4vCrRS) | 3:48 |
+| 4 | [Who am I \- เพลงประกอบซีรีส์ F4 Thailand : หัวใจรักสี่ดวงดาว BOYS OVER FLOWERS](https://open.spotify.com/track/1pRgexHeHDqFF0G3dttWR9) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW), [ดิว จิรวรรตน์](https://open.spotify.com/artist/0MNyVf0lO8x0GeSPPjvoP8), [นานิ หิรัญกฤษฎิ์](https://open.spotify.com/artist/6WxCCin0xiIGz6Rd4ZsQoA) | [เพลงประกอบซีรีส์ F4 Thailand : หัวใจรักสี่ดวงดาว BOYS OVER FLOWERS](https://open.spotify.com/album/0qdRdE2KdlRthi9e4vCrRS) | 3:48 |
 | 5 | [好不容易 \(《華燈初上》片尾曲\)](https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [好不容易](https://open.spotify.com/album/5mahTh3xdvMSH7N01fAEFg) | 4:55 |
 | 6 | [兩個你](https://open.spotify.com/track/1vpxFxx27sDpx9oaeBPzyF) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [兩個你](https://open.spotify.com/album/04vZzjRIBZPqPqZiB9GwFX) | 3:16 |
 | 7 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 43 | [盡力呼吸 \(ViuTV 身後事務所主題曲\)](https://open.spotify.com/track/1KoK7b4MeItuE19jbNpsaT) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [盡力呼吸 \(ViuTV 身後事務所主題曲\)](https://open.spotify.com/album/4OwQFCRUeZROVQ2XjRILfg) | 3:56 |
 | 44 | [Your voice](https://open.spotify.com/track/7kj58uQ74KECs0R80VuMFz) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [Voice4 \(Original Drama Sound Track, Pt\. 2\)](https://open.spotify.com/album/4gHX61RLuaLZnritQzl72P) | 3:44 |
 | 45 | [Good Bye](https://open.spotify.com/track/4zcInwwZ1CeaMYxXNvpUKa) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Penthouse3 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0fUXrcrlOrGxVQGWuI4pUi) | 3:41 |
-| 46 | [คั่นกู \- เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/track/2ZGgIXaoierTsnkrDzuBzY) | [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/album/2KhI6iPy0XxzzRvXQnmwsb) | 4:03 |
+| 46 | [คั่นกู \- เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/track/2ZGgIXaoierTsnkrDzuBzY) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/album/2KhI6iPy0XxzzRvXQnmwsb) | 4:03 |
 | 47 | [尋找消失的過去 \(ViuTV《瑪嘉烈與大衛系列綠豆》片尾曲\)](https://open.spotify.com/track/0Q3KCpiyisGcVyEh4I5LBT) | [黃劍文](https://open.spotify.com/artist/7ttdhAuwRlmHaRDUU4WRk2) | [尋找消失的過去 \(ViuTV《瑪嘉烈與大衛系列綠豆》片尾曲\)](https://open.spotify.com/album/2GQFBMygsXGKDE6ZVyhLNb) | 4:07 |
 | 48 | [Such a Day](https://open.spotify.com/track/1DbJOwTIMlllzjNBv2Sp5X) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Monthly magazine home, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/1FH1quQUVZy4rH3vX9kMWW) | 4:26 |
 | 49 | [兜轉 \- 《HIStory4\-近距離愛上你》LINE TV片頭曲](https://open.spotify.com/track/3H6nBaQ2UJsUrK78NbYrD9) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [兜轉 \(《HIStory4\-近距離愛上你》LINE TV片頭曲\)](https://open.spotify.com/album/5M2ahDoiH4lD742rCmC1pL) | 4:00 |

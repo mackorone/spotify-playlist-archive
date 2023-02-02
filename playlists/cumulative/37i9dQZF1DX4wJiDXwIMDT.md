@@ -4,7 +4,7 @@
 
 > Please don’t storm Area 51\. But if you do, listen to this\. 👽
 
-34 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/3mLF9PDN3bsrbfZsEL08cs)
+34 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-56 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/5nvpEmZ7xtA24TRw5qVog0)
+56 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

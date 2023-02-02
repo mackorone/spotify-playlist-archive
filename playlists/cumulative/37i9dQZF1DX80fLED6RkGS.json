@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=nNMrzwyiTe2P_3y00xhTkQ\">Maandy </a> and <a href=\"https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u?si=P_ibN3lPRXKA12JffrSK0g\">Mejja </a>",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=6FaHJ3sJRZ-8aikGhceCow\">Boutross </a> ",
   "name": "Gengetone Fire",
-  "published_playlist_ids": [
-    "7MvfVmuw7tyjVzEqBd5mPq"
-  ],
   "tracks": [
     {
       "album": {
@@ -253,8 +250,8 @@
           "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
         },
         {
-          "name": "Juicee Man",
-          "url": "https://open.spotify.com/artist/5aPQde9UW5ec9Rl3kQ94lh"
+          "name": "Juicee Mann",
+          "url": "https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ"
         }
       ],
       "date_added": "2022-11-24",
@@ -636,6 +633,32 @@
     },
     {
       "album": {
+        "name": "Btw",
+        "url": "https://open.spotify.com/album/1q84EwpxHLZf3dWlUsw0No"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Exray",
+          "url": "https://open.spotify.com/artist/4LuC7VnBIHO29vdcrMtk8l"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244558,
+      "name": "Btw",
+      "url": "https://open.spotify.com/track/1JbIMllQHyjAdq3S1yHeep"
+    },
+    {
+      "album": {
         "name": "BTW",
         "url": "https://open.spotify.com/album/2QgR8PSktbLl9lghCmVGf0"
       },
@@ -655,7 +678,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 244558,
       "name": "BTW",
       "url": "https://open.spotify.com/track/2EV48VVgvkW1zQuGQTsdED"
@@ -1380,6 +1403,28 @@
     },
     {
       "album": {
+        "name": "Fukuru",
+        "url": "https://open.spotify.com/album/0SmMmti8sJiW99U9OE4iEp"
+      },
+      "artists": [
+        {
+          "name": "mbogi genje",
+          "url": "https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi"
+        },
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231955,
+      "name": "Fukuru",
+      "url": "https://open.spotify.com/track/0g0EXBEerMRPEGIyRkZihw"
+    },
+    {
+      "album": {
         "name": "Gari Kubwa",
         "url": "https://open.spotify.com/album/4RUhXpGcQOHMRjxtVL7Ueg"
       },
@@ -1557,10 +1602,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 187559,
       "name": "HIVI NA HIVO",
       "url": "https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT"
+    },
+    {
+      "album": {
+        "name": "Frisky",
+        "url": "https://open.spotify.com/album/6QZ8KKgYXkrz5z8MHd0Kle"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187559,
+      "name": "Hivi Na Hivo",
+      "url": "https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6"
     },
     {
       "album": {
@@ -1653,10 +1716,32 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 194526,
       "name": "Ka Unaweza",
       "url": "https://open.spotify.com/track/7awoDNq8TDADZwXoqiafsK"
+    },
+    {
+      "album": {
+        "name": "Ka Unaweza",
+        "url": "https://open.spotify.com/album/5DoBdO4BJ2QfGJ7DqjwdqO"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Ka Unaweza",
+      "url": "https://open.spotify.com/track/7lk6GK9hQSXbeornMmYll5"
     },
     {
       "album": {
@@ -2471,8 +2556,8 @@
           "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
         },
         {
-          "name": "Fabio",
-          "url": "https://open.spotify.com/artist/1whozOVVllaopi95PnKqPv"
+          "name": "Omollo",
+          "url": "https://open.spotify.com/artist/7HPHXUb4hjkkVdGe1YzxGf"
         },
         {
           "name": "Odi Wa Muranga",
@@ -3103,7 +3188,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 127659,
       "name": "Natural Gal",
       "url": "https://open.spotify.com/track/4LRVwdiMHAcqkE3QjSkH8S"
@@ -3538,6 +3623,40 @@
     },
     {
       "album": {
+        "name": "PESA ONGE",
+        "url": "https://open.spotify.com/album/1nhQU721aD1FiCGhlTq9JF"
+      },
+      "artists": [
+        {
+          "name": "Vinc On The Beat",
+          "url": "https://open.spotify.com/artist/1zAkmlAKP4fCnJnAymX4r9"
+        },
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Katapilla",
+          "url": "https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281890,
+      "name": "Pesa Onge",
+      "url": "https://open.spotify.com/track/3xL6tVIv6YYYjpVD9l2dEI"
+    },
+    {
+      "album": {
         "name": "Pesa Pombe Wanawake",
         "url": "https://open.spotify.com/album/0iz0oLyJKEDN07rJ08a4bv"
       },
@@ -3805,7 +3924,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 187200,
       "name": "Raha Jipe Mwenyewe",
       "url": "https://open.spotify.com/track/3kPlsLexoRwR3UtTTBt9sk"
@@ -4341,10 +4460,36 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 224000,
       "name": "Sirudi Home - Refix",
       "url": "https://open.spotify.com/track/2At9zUR7cfWVrndDmvmAOv"
+    },
+    {
+      "album": {
+        "name": "Sirudi Home (Remix)",
+        "url": "https://open.spotify.com/album/6P77L5zVgL0Gz3YnSjTSIa"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218514,
+      "name": "Sirudi Home - Remix",
+      "url": "https://open.spotify.com/track/5hs1gahEFK0BFiiU3IEv59"
     },
     {
       "album": {

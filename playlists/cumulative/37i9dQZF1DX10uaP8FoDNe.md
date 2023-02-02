@@ -4,7 +4,7 @@
 
 > Including genre\-defining classics \(Steve Reich, Philip Glass\), postminimalism \(Paul Dresher, Louis Andriessen\), holy minimalism \(Henryk Górecki, Arvo Pärt\) and more.
 
-59 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/7bVQ5Pmga4psujj1DdvaNM)
+59 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

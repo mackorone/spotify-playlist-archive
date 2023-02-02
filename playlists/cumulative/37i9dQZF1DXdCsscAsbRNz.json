@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-20",
   "description": "Peaceful instrumentals to help you keep calm.",
   "name": "Peace",
-  "published_playlist_ids": [
-    "3q5fzefL9WiW4VycS5FPmf"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 152480,
       "name": "100 Different Ways",
       "url": "https://open.spotify.com/track/0qQYLDf5A6ezcYaYYAnhDI"
@@ -858,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/4Mc2ZJzVs7svcAa6K16PzR"
+      },
+      "artists": [
+        {
+          "name": "Theo Adagio",
+          "url": "https://open.spotify.com/artist/0hXbvfASKCsYIP7qG9iN4K"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153906,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/2iz8mLXZg0y2ObLkWBvJVE"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/52SA4H2aQcljM4NOqE5aSr"
       },
@@ -905,7 +920,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 269500,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/7mgX4lCdmvSN2lacmXAlSK"
@@ -1085,7 +1100,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 211162,
       "name": "Cosmonova",
       "url": "https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId"
@@ -1367,8 +1382,8 @@
       },
       "artists": [
         {
-          "name": "Moiki",
-          "url": "https://open.spotify.com/artist/0SbXVLqHl9UCKZ0YxDKWAq"
+          "name": "Pitouu",
+          "url": "https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG"
         }
       ],
       "date_added": "2022-09-30",
@@ -1609,8 +1624,8 @@
       },
       "artists": [
         {
-          "name": "Sama Reicart",
-          "url": "https://open.spotify.com/artist/37ciUEYtMGcDUn53mDSCtb"
+          "name": "Reiki Akoya",
+          "url": "https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5"
         }
       ],
       "date_added": "2022-10-15",
@@ -1619,6 +1634,24 @@
       "duration_ms": 195750,
       "name": "Essence Of Life",
       "url": "https://open.spotify.com/track/1AEY6qqRFUTssOXfRZOh9p"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8"
+      },
+      "artists": [
+        {
+          "name": "Midnight Diver",
+          "url": "https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142518,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf"
     },
     {
       "album": {
@@ -1723,7 +1756,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 189795,
       "name": "Far Fetched Sleep",
       "url": "https://open.spotify.com/track/2nvpLuJz7dfrmV2J0jGxdv"
@@ -2033,6 +2066,24 @@
       "duration_ms": 152000,
       "name": "Ganymede",
       "url": "https://open.spotify.com/track/6gW7wl7Dbzvv4Az3RbolkD"
+    },
+    {
+      "album": {
+        "name": "Gateless Gate",
+        "url": "https://open.spotify.com/album/6XjfJ3qI6NtDmtyZr4Mdew"
+      },
+      "artists": [
+        {
+          "name": "Magnetic Sky",
+          "url": "https://open.spotify.com/artist/2YiNWdSsFnrHWK9uMKbRoY"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126019,
+      "name": "Gateless Gate",
+      "url": "https://open.spotify.com/track/5VVmyWBrrmqkXGAc3VptjN"
     },
     {
       "album": {
@@ -2857,7 +2908,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 101000,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1UfLZIqSN1TGpe8UdPZ6Cg"
@@ -3319,8 +3370,8 @@
       },
       "artists": [
         {
-          "name": "Idamal",
-          "url": "https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu"
+          "name": "Haldur",
+          "url": "https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx"
         }
       ],
       "date_added": "2022-11-11",
@@ -3379,7 +3430,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 224543,
       "name": "North Haven",
       "url": "https://open.spotify.com/track/4UTzl5xz40YYzut1y3EBYi"
@@ -3463,8 +3514,8 @@
       },
       "artists": [
         {
-          "name": "Elian Costa",
-          "url": "https://open.spotify.com/artist/0l7ul5uSQGndF0gOTCRL0Z"
+          "name": "Suraj Ives",
+          "url": "https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn"
         }
       ],
       "date_added": "2022-10-15",
@@ -3739,7 +3790,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 91161,
       "name": "Philpot Lane",
       "url": "https://open.spotify.com/track/5yMw8o7NMvsH53vLq6c4J4"
@@ -4441,7 +4492,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 182172,
       "name": "Slumbering",
       "url": "https://open.spotify.com/track/7G93PdOrq65MM44MULk4LF"
@@ -4499,6 +4550,24 @@
       "duration_ms": 171673,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ"
+    },
+    {
+      "album": {
+        "name": "Soft Remembrance",
+        "url": "https://open.spotify.com/album/77ysdKUcg8byKdeOykNDEb"
+      },
+      "artists": [
+        {
+          "name": "The Eternalists",
+          "url": "https://open.spotify.com/artist/5QtPdyrH3QEW55lpWcupc5"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164668,
+      "name": "Soft Remembrance",
+      "url": "https://open.spotify.com/track/2Dn6n9kmDoHbP51xVeNM6s"
     },
     {
       "album": {
@@ -5154,6 +5223,24 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4VhkKxDXLDSmk9XxzJYWKo"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jacoby",
+          "url": "https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174900,
+      "name": "The Space Between Us",
+      "url": "https://open.spotify.com/track/6sjD1SSw6kbkSDi5qIUxQO"
+    },
+    {
+      "album": {
         "name": "These Steady Hands",
         "url": "https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP"
       },
@@ -5781,6 +5868,24 @@
       "duration_ms": 122624,
       "name": "Winding Trails",
       "url": "https://open.spotify.com/track/5X3hvz25Pyqgtj1jF3HX4V"
+    },
+    {
+      "album": {
+        "name": "Winter Hideaway",
+        "url": "https://open.spotify.com/album/0KygdGPgmuaOMhBRX5BAdE"
+      },
+      "artists": [
+        {
+          "name": "Thomas Erwin",
+          "url": "https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130104,
+      "name": "Winter Hideaway",
+      "url": "https://open.spotify.com/track/7xP42oGDgsbySKzKH2750d"
     },
     {
       "album": {

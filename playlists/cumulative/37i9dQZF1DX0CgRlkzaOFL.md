@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-72 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/1wR9DeurDAT9iRMvHlECcH)
+72 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Piano Sonata No\. 16 in A Minor, D\. 845: I\. Moderato](https://open.spotify.com/track/69wjQMavWgK3aCEeVU5BwL) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Schubert](https://open.spotify.com/album/1krbiT1gkPdIzn1pSscOye) | 12:38 | 2022-04-19 |  |
 | [piece by ten](https://open.spotify.com/track/50R5pS4Ptd7tioFFaqo9F6) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「攻殻機動隊 STAND ALONE COMPLEX be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 2:45 | 2022-03-25 |  |
 | [Ravel: Daphnis et Chloé, M\. 57, Pt\. 3: Lever du jour](https://open.spotify.com/track/0bHetlK2xHzhOEGPEdp1SI) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Philippe Jordan](https://open.spotify.com/artist/7oRn2Jv3j0f23EjcSSCR9W), [Choeur du Théatre National de l'Opéra de Paris](https://open.spotify.com/artist/2YZN9zFVhkAQFOggweug3X), [Orchestre de l'Opéra National de Paris](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) | [Ravel : Daphnis & Chloé, La Valse](https://open.spotify.com/album/2HU1cvBMOFZNqofsWY9bQC) | 5:01 | 2022-03-25 |  |
-| [Rei\-Opus V](https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:59 | 2022-04-19 |  |
+| [Rei\-Opus V](https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:59 | 2022-04-19 |  |
 | [Rei\-Opus Ⅴ \(EMA01\)](https://open.spotify.com/track/69bGff6rYUHT6Fzodw6wpV) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "EVANGELION 1.0" YOU ARE\(NOT\)ALONE.](https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k) | 2:59 | 2022-03-25 | 2022-07-29 |
 | [Shadow of Doubt](https://open.spotify.com/track/7po0feMdknjJCFuHkUGeSf) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 2\)](https://open.spotify.com/album/58nXdeGgTmfIfVjMdkwbGo) | 4:45 | 2022-03-25 |  |
 | [Shingeki Pf \- Medley 20130629 Kyojin](https://open.spotify.com/track/0ge9PBLpkfEiYv9qCE4TVY) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)](https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb) | 5:06 | 2022-11-25 |  |

@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo mejor de la Banda\. Portada: Luis Coronel
 
-257 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/7i8hMdiBnfjBhrdUrvjdn0)
+257 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

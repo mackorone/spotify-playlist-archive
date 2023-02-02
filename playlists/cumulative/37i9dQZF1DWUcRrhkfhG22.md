@@ -2,9 +2,9 @@
 
 ### [Robo\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWUcRrhkfhG22)
 
-> Funky vocoders and talk boxes.
+> Funk\-bots assemble!
 
-87 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
+88 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [PULL UP \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5OcpvgdYknA4VEGTwXNecJ) | [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [PULL UP \(feat\. Nile Rodgers\)](https://open.spotify.com/album/6R8BPbLgBzcdoA9S3uhi9Z) | 3:08 | 2021-09-10 |  |
 | [Race Babbling](https://open.spotify.com/track/7GFNufAK34Llw3U6YKuAI6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Journey Through The Secret Life Of Plants](https://open.spotify.com/album/3LSgLZrSXELqWt5eqb6XMY) | 8:52 | 2020-09-18 |  |
 | [Ray Phunk Show](https://open.spotify.com/track/2jO8nQnIz4GfdNpv64cCgX) | [Ivan Makvel](https://open.spotify.com/artist/2NnG0MYrJ9KcBClx1Ja2Q4) | [Ray Phunk Show](https://open.spotify.com/album/43ptuA861r3UXQU1YeiFZ8) | 3:32 | 2022-02-11 |  |
+| [Robot Man \- Vinyl Edit Version](https://open.spotify.com/track/6myAJZFY7NYLCF8fJIIciU) | [Marcelinho Backspin](https://open.spotify.com/artist/75lcNc72emAl0sY7NR5xG4), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Robot Man \(Vinyl Edit Version\)](https://open.spotify.com/album/3cVvm1DlqO4UVsoQzjjbRw) | 3:43 | 2023-01-06 |  |
 | [Scorpio](https://open.spotify.com/track/3oWXABQqIZ8ETgM7hxxxO5) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 4:55 | 2020-09-18 |  |
 | [Shake It \(Extended\)](https://open.spotify.com/track/318AONjmfz3gTrcKXCjMIi) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/5h3omMgMw42o9lNiNPpXIw) | 7:03 | 2020-09-18 |  |
 | [Shake It \(Extended\)](https://open.spotify.com/track/7qJ4aBgsLOVtLppmCDjf9w) | [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Shake It](https://open.spotify.com/album/2zJajyObpMy1kyKQCC8XC6) | 7:03 | 2020-09-18 | 2022-11-21 |

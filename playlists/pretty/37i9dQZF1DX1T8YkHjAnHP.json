@@ -1,15 +1,91 @@
 {
   "description": "<a href=\"spotify:artist:5bKdC6382t97Qnpvs81Rqx\">Bedouin</a>'s favorite tracks. Updated regularly. Curated by Bedouin. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 4887,
+  "num_followers": 7971,
   "original_name": "Bedouin's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcxODAwOCwwMDAwMDAwMDIwYzVkN2RjODAwNjM2MmYwYzAzYjdjNzhlNzM2OTdi",
+  "snapshot_id": "MTY3MDgyNzEyMCwwMDAwMDAwMDUwMGE4NWM5NDVmNTU4YjZhNTYxNTE0NDZmYjQzZTM3",
   "tracks": [
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "Up In Flames",
+        "url": "https://open.spotify.com/album/5JobfXSHIn01Fhgpif0Lw2"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 414203,
+      "name": "Up In Flames",
+      "url": "https://open.spotify.com/track/1YzVzEDuXM3G7C6EmwJs8O"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "Like A Drug",
+        "url": "https://open.spotify.com/album/71T3GnfLF1xO1zAMDPVCgO"
+      },
+      "artists": [
+        {
+          "name": "Ian Ludvig",
+          "url": "https://open.spotify.com/artist/7niJIv5jViZQtDaCEYd1K4"
+        }
+      ],
+      "duration_ms": 367273,
+      "name": "Like A Drug",
+      "url": "https://open.spotify.com/track/3TdbskPWR3ZtAny7ZKZJjj"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "Still Can't Find You",
+        "url": "https://open.spotify.com/album/0mjCuJDVMXlOjdzwrMgnym"
+      },
+      "artists": [
+        {
+          "name": "Santiago Garcia",
+          "url": "https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "Nanana",
+      "url": "https://open.spotify.com/track/1UvM3VzlwYts5IldSnJ8RT"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "One Love (Nandu Remix)",
+        "url": "https://open.spotify.com/album/2jWHwh8o0ekuZWXLmm3ZcG"
+      },
+      "artists": [
+        {
+          "name": "Margee",
+          "url": "https://open.spotify.com/artist/3pCd0ReO3RKcf4zvrbT02S"
+        },
+        {
+          "name": "Joy Tyson",
+          "url": "https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es"
+        },
+        {
+          "name": "ARKADYAN",
+          "url": "https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI"
+        },
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        }
+      ],
+      "duration_ms": 281400,
+      "name": "One Love - Nandu Remix",
+      "url": "https://open.spotify.com/track/3jlbvbUItBBAWAjnnnc8sW"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Wish You Were Here (Bedouin Remix)",
         "url": "https://open.spotify.com/album/2ahy9B5LOckFdgQlrVg5TZ"
@@ -33,23 +109,27 @@
       "url": "https://open.spotify.com/track/2sWqYVNYIsyazFA0nDVtkn"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
-        "name": "Whistleman EP",
-        "url": "https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO"
       },
       "artists": [
         {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Mario Reyes",
+          "url": "https://open.spotify.com/artist/0MNovidyopz59Kcu16ot3v"
         }
       ],
-      "duration_ms": 479920,
-      "name": "Whistleman",
-      "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
+      "duration_ms": 469596,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
@@ -65,7 +145,55 @@
       "url": "https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "After Why",
+        "url": "https://open.spotify.com/album/3zKtkCESpCAhfX26MNg5CW"
+      },
+      "artists": [
+        {
+          "name": "Filippos",
+          "url": "https://open.spotify.com/artist/1p93D1YEV3oqMBq2W9bIqT"
+        }
+      ],
+      "duration_ms": 363870,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/4w3sX65B1jkXSsmsmwN9zB"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "Llum EP",
+        "url": "https://open.spotify.com/album/1cpuIMlvXH2x1aoHXHNMIj"
+      },
+      "artists": [
+        {
+          "name": "Upercent",
+          "url": "https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq"
+        }
+      ],
+      "duration_ms": 423602,
+      "name": "Mentres Tant",
+      "url": "https://open.spotify.com/track/0PFM3yjjDId6onZUrgJyjP"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "Shibuya",
+        "url": "https://open.spotify.com/album/5EqW4b6QJvRuVrxjrW6JND"
+      },
+      "artists": [
+        {
+          "name": "Tim Baresko",
+          "url": "https://open.spotify.com/artist/6Uc1kxbiSTggT6cmqjrLdp"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Shibuya - Extended Mix",
+      "url": "https://open.spotify.com/track/5RKCwZlR2iYUliH0Kqppl6"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Under The Moon With Me EP",
         "url": "https://open.spotify.com/album/0jXEwzfz220T8qOfQciwLz"
@@ -81,7 +209,7 @@
       "url": "https://open.spotify.com/track/400nDiTUkLJnGJOgqqsHJq"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "La candela viva",
         "url": "https://open.spotify.com/album/7vxhUdJugQ2iMlF9DEzygr"
@@ -105,43 +233,7 @@
       "url": "https://open.spotify.com/track/6EJuJAg1Ydjkoj9SCwMUyN"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "Shibuya",
-        "url": "https://open.spotify.com/album/5EqW4b6QJvRuVrxjrW6JND"
-      },
-      "artists": [
-        {
-          "name": "Tim Baresko",
-          "url": "https://open.spotify.com/artist/6Uc1kxbiSTggT6cmqjrLdp"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Shibuya - Extended Mix",
-      "url": "https://open.spotify.com/track/5RKCwZlR2iYUliH0Kqppl6"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "The Bedouin Reworks of DakhaBrakha",
-        "url": "https://open.spotify.com/album/5fbYGyiRWLkzbbE69ikqZH"
-      },
-      "artists": [
-        {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
-        },
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 449000,
-      "name": "A Doshchyk Nakrapaye - Bedouin Rework",
-      "url": "https://open.spotify.com/track/0RN1tsVNhDyxLhGtLwBVEA"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk"
@@ -161,7 +253,7 @@
       "url": "https://open.spotify.com/track/3nvbuSK7WPDwpyXNAv5sYO"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Los Hermanos Del Alma EP",
         "url": "https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB"
@@ -177,7 +269,7 @@
       "url": "https://open.spotify.com/track/1mOICLQ9wAw069fKRhnvQ6"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
@@ -197,7 +289,7 @@
       "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Broke with Expensive Taste",
         "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
@@ -217,23 +309,23 @@
       "url": "https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
-        "name": "Mi Mem",
-        "url": "https://open.spotify.com/album/4N8s7QlUXAs0KzohCXECur"
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
       },
       "artists": [
         {
-          "name": "Capoon",
-          "url": "https://open.spotify.com/artist/6aO0WPJPV318xBCEVSJ5td"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 550707,
-      "name": "Mano Y Mano",
-      "url": "https://open.spotify.com/track/0XAQzix0BJCuz3Ar1Bcsns"
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Born In The Echoes",
         "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
@@ -249,7 +341,7 @@
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "April EP",
         "url": "https://open.spotify.com/album/0cP1JVdGzZQTVV4WbbWt4P"
@@ -269,23 +361,7 @@
       "url": "https://open.spotify.com/track/2CfAxVNSrruS7BcbqDWOuL"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "Nowhere To Follow EP",
-        "url": "https://open.spotify.com/album/5LEhxjKlOs6nCQ9XaCfEN0"
-      },
-      "artists": [
-        {
-          "name": "Coll\u00e9",
-          "url": "https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI"
-        }
-      ],
-      "duration_ms": 411136,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/2fF6py88S5MOZjW1kSeZL8"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/6YSDRNYbo6xFBGO4Rqdbar"
@@ -301,7 +377,7 @@
       "url": "https://open.spotify.com/track/5NwrVx348F5SvNgi4ZW3XG"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Obakodomo",
         "url": "https://open.spotify.com/album/4dkJYRkFKH9kAuOEqHyK3n"
@@ -317,7 +393,7 @@
       "url": "https://open.spotify.com/track/2YTDXsMKKWmGZ3IKr3QF8I"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Together EP",
         "url": "https://open.spotify.com/album/2Ye44uHgBcbGZT0Jb7HFlO"
@@ -337,23 +413,7 @@
       "url": "https://open.spotify.com/track/4dhs4FM9kE1nAKPHQIjaMD"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "Bring The Night",
-        "url": "https://open.spotify.com/album/71lm6YSJL1UevPxS6lND8a"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        }
-      ],
-      "duration_ms": 317493,
-      "name": "I Found U - Classic Mix",
-      "url": "https://open.spotify.com/track/4ZnrkvpMAKNvT4ynKrxKKa"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Sight",
         "url": "https://open.spotify.com/album/6RVgir3ThbD5IHoXfLIoHc"
@@ -373,27 +433,7 @@
       "url": "https://open.spotify.com/track/24MXVlAbvjmnwXlM5n8xvH"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "Together EP",
-        "url": "https://open.spotify.com/album/2Ye44uHgBcbGZT0Jb7HFlO"
-      },
-      "artists": [
-        {
-          "name": "Hyenah",
-          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
-        },
-        {
-          "name": "Deep Aztec",
-          "url": "https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw"
-        }
-      ],
-      "duration_ms": 440946,
-      "name": "Zabuya",
-      "url": "https://open.spotify.com/track/3OgFus669etr81kmRou7DD"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Hella EP",
         "url": "https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT"
@@ -409,7 +449,39 @@
       "url": "https://open.spotify.com/track/7kTxtJ5AkQns3MjQZgCQoc"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "Los Hermanos Del Alma EP",
+        "url": "https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB"
+      },
+      "artists": [
+        {
+          "name": "The Soul Brothers",
+          "url": "https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn"
+        }
+      ],
+      "duration_ms": 352000,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/6oso9qoKGgH8PmuLJ0jaV8"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "Safe Ibiza 2022 (Selected By The Deepshakerz)",
+        "url": "https://open.spotify.com/album/4UlYwmMHi1cF7K51lrAsTm"
+      },
+      "artists": [
+        {
+          "name": "The Deepshakerz",
+          "url": "https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY"
+        }
+      ],
+      "duration_ms": 340440,
+      "name": "Kalimba",
+      "url": "https://open.spotify.com/track/5KsE8PudCoHMqMUDUzLGdV"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Telling Me Something EP",
         "url": "https://open.spotify.com/album/6G1JfqlVxSeUgAmF6tdjPk"
@@ -425,7 +497,7 @@
       "url": "https://open.spotify.com/track/2BT03uRNeofELzCkSfROay"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Conga Rock",
         "url": "https://open.spotify.com/album/3rnrgH0bOWn4nQDF8EuKu5"
@@ -449,7 +521,7 @@
       "url": "https://open.spotify.com/track/28nynuyo2jMTzMyT146Bvu"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Petra",
         "url": "https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp"
@@ -465,7 +537,7 @@
       "url": "https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Clove",
         "url": "https://open.spotify.com/album/7jroTF9QMpaHxNw2Z1w7eR"
@@ -485,7 +557,7 @@
       "url": "https://open.spotify.com/track/1cKI4oT9mG6YIFXihUz4EV"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Telling Me Something EP",
         "url": "https://open.spotify.com/album/6G1JfqlVxSeUgAmF6tdjPk"
@@ -505,7 +577,7 @@
       "url": "https://open.spotify.com/track/6lbOkdXQZmHZyxoqJRDG3L"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Cora\u00e7ao",
         "url": "https://open.spotify.com/album/4Y26xNJT2cW8ArJtLD7ZHO"
@@ -537,7 +609,7 @@
       "url": "https://open.spotify.com/track/5rjiNuuOCBe0rT2xgApqpo"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Bay of Skaill",
         "url": "https://open.spotify.com/album/0Oe2ux87EzjoZqWPmmbnkw"
@@ -557,39 +629,7 @@
       "url": "https://open.spotify.com/track/5rnmSvymU2bHBZbirspp9r"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "Nothing Has Changed",
-        "url": "https://open.spotify.com/album/0roji6MdeRmfP2s3uaDxd5"
-      },
-      "artists": [
-        {
-          "name": "Nandu",
-          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
-        }
-      ],
-      "duration_ms": 409445,
-      "name": "Time Technician",
-      "url": "https://open.spotify.com/track/4qLEXI83idYNz7rrdlh631"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "Exorce EP",
-        "url": "https://open.spotify.com/album/6NutlhlAx9Cu5Aci3D1qdE"
-      },
-      "artists": [
-        {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 412561,
-      "name": "Exorce",
-      "url": "https://open.spotify.com/track/4lM4b1cEY4YviftTR5DUCO"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Que Lo Que",
         "url": "https://open.spotify.com/album/7LjzvsJT0ImNudTh8SDaQE"
@@ -605,7 +645,35 @@
       "url": "https://open.spotify.com/track/3tsULujkCT6HRxLqyhv9Uz"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "Yauna",
+        "url": "https://open.spotify.com/album/30clU1EXTshIDWwQjThY2u"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        }
+      ],
+      "duration_ms": 548146,
+      "name": "Yauna",
+      "url": "https://open.spotify.com/track/0c61iOnlEq1LPWfHdRQqqU"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Rendez-Vu (Remixes)",
         "url": "https://open.spotify.com/album/2FgroWn0lOTtBOnBls3CgQ"
@@ -625,7 +693,7 @@
       "url": "https://open.spotify.com/track/2fUkcyLhxm8AVT4v7vsjlI"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Came To Reality EP",
         "url": "https://open.spotify.com/album/6kHffsbCuRXWw5Kpt0ytYx"
@@ -641,7 +709,7 @@
       "url": "https://open.spotify.com/track/73ILlfnRXoW383IblJ91NF"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "We Will Forgive Ourselves (Remixes)",
         "url": "https://open.spotify.com/album/5HUKGlJKoTqnvgM5Uy9CmV"
@@ -661,23 +729,7 @@
       "url": "https://open.spotify.com/track/1iZtXObHD0IQjLF8iIto11"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "Came To Reality EP",
-        "url": "https://open.spotify.com/album/6kHffsbCuRXWw5Kpt0ytYx"
-      },
-      "artists": [
-        {
-          "name": "Santiago Garcia",
-          "url": "https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS"
-        }
-      ],
-      "duration_ms": 488067,
-      "name": "Comes Alone",
-      "url": "https://open.spotify.com/track/5yCxTFdMhcqUB89NlwBtbn"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Telling Me Something EP",
         "url": "https://open.spotify.com/album/6G1JfqlVxSeUgAmF6tdjPk"
@@ -693,7 +745,7 @@
       "url": "https://open.spotify.com/track/3n6dEbEs5vfc1iIvkWUClV"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Kunuaka Remixes, Pt. 2",
         "url": "https://open.spotify.com/album/5wigGtgutfTnUYX4djSE4f"
@@ -717,7 +769,7 @@
       "url": "https://open.spotify.com/track/1Da7GyN2bbpg2mRWEGnNVV"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
@@ -745,7 +797,31 @@
       "url": "https://open.spotify.com/track/6B49z0I4MU5X5himZfEEli"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "Delicate Limbs (feat. serpentwithfeet) [Bedouin Remix]",
+        "url": "https://open.spotify.com/album/2A39aDg66n0js9dtSOTLuq"
+      },
+      "artists": [
+        {
+          "name": "Virgil Abloh",
+          "url": "https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        },
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 240282,
+      "name": "Delicate Limbs (feat. serpentwithfeet) - Bedouin Remix",
+      "url": "https://open.spotify.com/track/69wkH0lQdtpH9E6XBCOHfS"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Los Hermanos Del Alma EP",
         "url": "https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB"
@@ -761,7 +837,23 @@
       "url": "https://open.spotify.com/track/2gwuSWS7Yh7At0MsT2w3Fj"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "Inconformisme EP",
+        "url": "https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy"
+      },
+      "artists": [
+        {
+          "name": "Upercent",
+          "url": "https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq"
+        }
+      ],
+      "duration_ms": 408661,
+      "name": "Fluir",
+      "url": "https://open.spotify.com/track/1Mqy114Ipmbj4HkS1FsnyN"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Soltornet EP",
         "url": "https://open.spotify.com/album/3liCba1IFwIRcXv2Qrxa79"
@@ -777,43 +869,7 @@
       "url": "https://open.spotify.com/track/3iAVA8zThSPcZpsMlyefEj"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "Nowhere To Follow EP",
-        "url": "https://open.spotify.com/album/5LEhxjKlOs6nCQ9XaCfEN0"
-      },
-      "artists": [
-        {
-          "name": "Coll\u00e9",
-          "url": "https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI"
-        },
-        {
-          "name": "Jessica Zese",
-          "url": "https://open.spotify.com/artist/4EBS1e0GJh8eHvHjM5FEJq"
-        }
-      ],
-      "duration_ms": 384500,
-      "name": "Jessica's Dream",
-      "url": "https://open.spotify.com/track/1DRnCGHn0naWncAujmd0S3"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "Soltornet EP",
-        "url": "https://open.spotify.com/album/3liCba1IFwIRcXv2Qrxa79"
-      },
-      "artists": [
-        {
-          "name": "Umami",
-          "url": "https://open.spotify.com/artist/67qmoqrkr162LFix4Czmlv"
-        }
-      ],
-      "duration_ms": 540525,
-      "name": "Elep",
-      "url": "https://open.spotify.com/track/5wdypoJDIbXV7v0cbxc7U1"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Inconformisme EP",
         "url": "https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy"
@@ -829,7 +885,23 @@
       "url": "https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
+      "album": {
+        "name": "April EP",
+        "url": "https://open.spotify.com/album/0cP1JVdGzZQTVV4WbbWt4P"
+      },
+      "artists": [
+        {
+          "name": "Capoon",
+          "url": "https://open.spotify.com/artist/6aO0WPJPV318xBCEVSJ5td"
+        }
+      ],
+      "duration_ms": 379645,
+      "name": "Henna",
+      "url": "https://open.spotify.com/track/1ObGyzfxrBrVSPNChYHRv1"
+    },
+    {
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Hella EP",
         "url": "https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT"
@@ -849,7 +921,7 @@
       "url": "https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "10 Years of NuLu, Vol. 02",
         "url": "https://open.spotify.com/album/6jnPVYBxxfLfXyLNr3nZ8L"
@@ -865,7 +937,7 @@
       "url": "https://open.spotify.com/track/02IURSdiWMzg6D4GsFR9BM"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Anamorphosis",
         "url": "https://open.spotify.com/album/5VTu7BIwJ1wbxROoIG3Iyz"
@@ -881,7 +953,7 @@
       "url": "https://open.spotify.com/track/0gmVwUFxKn2Q94rOi3ebJJ"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/2tP0kTgAwmBAt4zkWbFQ8g"
@@ -901,7 +973,7 @@
       "url": "https://open.spotify.com/track/56I4OIGTDhBmX8ZSJJDf1k"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Pliva",
         "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
@@ -921,7 +993,7 @@
       "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "Exorce EP",
         "url": "https://open.spotify.com/album/6NutlhlAx9Cu5Aci3D1qdE"
@@ -937,7 +1009,7 @@
       "url": "https://open.spotify.com/track/6EeGyKzn07BfXwT9B9gknz"
     },
     {
-      "added_at": "2022-09-09 10:06:48",
+      "added_at": "2022-12-12 06:38:39",
       "album": {
         "name": "La Musica",
         "url": "https://open.spotify.com/album/61MaARKxJws4CLklvZYZ7A"
@@ -951,22 +1023,6 @@
       "duration_ms": 391233,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/2RRb2pc95BX51ufCdYtHBZ"
-    },
-    {
-      "added_at": "2022-09-09 10:06:48",
-      "album": {
-        "name": "Inconformisme EP",
-        "url": "https://open.spotify.com/album/2g3Xn9WFQDO161ap711YFy"
-      },
-      "artists": [
-        {
-          "name": "Upercent",
-          "url": "https://open.spotify.com/artist/7p4uoSR3Hf9jbuDvdJZPZq"
-        }
-      ],
-      "duration_ms": 408661,
-      "name": "Fluir",
-      "url": "https://open.spotify.com/track/1Mqy114Ipmbj4HkS1FsnyN"
     }
   ],
   "unique_name": "Bedouin's track IDs",

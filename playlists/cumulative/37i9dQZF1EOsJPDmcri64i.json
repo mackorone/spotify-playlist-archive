@@ -1,8 +1,7 @@
 {
   "date_first_scraped": "2022-11-15",
   "description": "Dig deeper into some of your top artists of 2020 with a mix of talk and music.",
-  "name": "On Record (4)",
-  "published_playlist_ids": [],
+  "name": "On Record (6)",
   "tracks": [
     {
       "album": {
@@ -112,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Rolling Stone Music Now",
+        "url": "https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx"
+      },
+      "artists": [
+        {
+          "name": "Rolling Stone Music Now",
+          "url": "https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2955860,
+      "name": "Halsey Explains It All: Inside Her New Album and Much More",
+      "url": "https://open.spotify.com/episode/6X1gAVoQastrlSDWndPfQs"
+    },
+    {
+      "album": {
         "name": "Mixtape",
         "url": "https://open.spotify.com/album/2vkaB3rUSU7S59iqy2pbj4"
       },
@@ -127,6 +144,60 @@
       "duration_ms": 240000,
       "name": "Hellevator",
       "url": "https://open.spotify.com/track/67LJNZyfDA1uaPCtlpyuKN"
+    },
+    {
+      "album": {
+        "name": "Pop Shop Podcast",
+        "url": "https://open.spotify.com/show/6Up21LReNRTrMTa6O3mkKJ"
+      },
+      "artists": [
+        {
+          "name": "Pop Shop Podcast",
+          "url": "https://open.spotify.com/show/6Up21LReNRTrMTa6O3mkKJ"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1512934,
+      "name": "Justin Bieber's 'Changes' Proves the Enduring Allure of Child-Turned-Adult Pop Stars",
+      "url": "https://open.spotify.com/episode/0hS3hJyORLwDXBygWFFb5U"
+    },
+    {
+      "album": {
+        "name": "The Come Up Show",
+        "url": "https://open.spotify.com/show/2GawG4tWysGNLSyzlMmfNF"
+      },
+      "artists": [
+        {
+          "name": "The Come Up Show",
+          "url": "https://open.spotify.com/show/2GawG4tWysGNLSyzlMmfNF"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1202521,
+      "name": "Khalid: A lot of relationships we surround ourselves with are temporary",
+      "url": "https://open.spotify.com/episode/4rNWK6dbVJLI7NtsvIolcw"
+    },
+    {
+      "album": {
+        "name": "Kyle Meredith With...",
+        "url": "https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI"
+      },
+      "artists": [
+        {
+          "name": "Kyle Meredith With...",
+          "url": "https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1410847,
+      "name": "Kyle Meredith With... Kodaline",
+      "url": "https://open.spotify.com/episode/50Vt8rDvVe07EbqEDR3Q0F"
     },
     {
       "album": {
@@ -171,6 +242,96 @@
       "duration_ms": 177960,
       "name": "See The Way",
       "url": "https://open.spotify.com/track/6VWz99969QmNc2gWo21ktl"
+    },
+    {
+      "album": {
+        "name": "ON With Mario Interviews",
+        "url": "https://open.spotify.com/show/0yU4kEIGRodx3sgK99xnJz"
+      },
+      "artists": [
+        {
+          "name": "ON With Mario Interviews",
+          "url": "https://open.spotify.com/show/0yU4kEIGRodx3sgK99xnJz"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1697645,
+      "name": "Steve Aoki",
+      "url": "https://open.spotify.com/episode/69hN4xvtqXH7NmoQR02yvc"
+    },
+    {
+      "album": {
+        "name": "Zach Sang Show",
+        "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+      },
+      "artists": [
+        {
+          "name": "Zach Sang Show",
+          "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1939566,
+      "name": "Stray Kids Double Knot (English Version), District 9 Tour, Being a Stray Kid",
+      "url": "https://open.spotify.com/episode/67XZuhEtKkTS8j5Y9tqs9p"
+    },
+    {
+      "album": {
+        "name": "Zach Sang Show",
+        "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+      },
+      "artists": [
+        {
+          "name": "Zach Sang Show",
+          "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2721828,
+      "name": "The Chainsmokers I Full Interview",
+      "url": "https://open.spotify.com/episode/47GmZm7FQP7Ej7p3i7a0NB"
+    },
+    {
+      "album": {
+        "name": "Elvis Duran and the Morning Show ON DEMAND",
+        "url": "https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi"
+      },
+      "artists": [
+        {
+          "name": "Elvis Duran and the Morning Show ON DEMAND",
+          "url": "https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 6946821,
+      "name": "The Day Charlie Puth Helped Us Celebrate",
+      "url": "https://open.spotify.com/episode/5dqbWWmmvtGLnT8De7Bdya"
+    },
+    {
+      "album": {
+        "name": "BTS AF",
+        "url": "https://open.spotify.com/show/5qvChm9pa8rv5ne8Zh9Ewp"
+      },
+      "artists": [
+        {
+          "name": "BTS AF",
+          "url": "https://open.spotify.com/show/5qvChm9pa8rv5ne8Zh9Ewp"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 839393,
+      "name": "The New BTS Album is Finally Here! Map Of The Soul: Persona Outsold",
+      "url": "https://open.spotify.com/episode/6l68X8Yh89rardUmtodbCl"
     },
     {
       "album": {

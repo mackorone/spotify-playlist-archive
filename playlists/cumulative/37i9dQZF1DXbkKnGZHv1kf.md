@@ -4,7 +4,7 @@
 
 > Early blues standards and classics
 
-76 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/1s3RaW5fhxW7VeqvAIPMfc)
+76 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

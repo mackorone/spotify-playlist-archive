@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
   "name": "This Is Valerie June",
-  "published_playlist_ids": [
-    "52exBamxt7BX0krY7QWXcE"
-  ],
   "tracks": [
     {
       "album": {
@@ -26,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Call Me A Fool [Feat. Carla Thomas]",
+        "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223880,
+      "name": "Call Me A Fool [Feat. Carla Thomas]",
+      "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
+    },
+    {
+      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -41,7 +60,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 223880,
       "name": "Call Me A Fool [Feat. Carla Thomas]",
       "url": "https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l"
@@ -189,6 +208,28 @@
       "duration_ms": 111853,
       "name": "Happy Or Lonesome",
       "url": "https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9"
+    },
+    {
+      "album": {
+        "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
+        "url": "https://open.spotify.com/album/7zAu6xxacBn0nzZbwSZHEK"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139043,
+      "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
+      "url": "https://open.spotify.com/track/2e8hzjW6K0TFPZkwIa38o0"
     },
     {
       "album": {
@@ -660,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Pushin' against a Stone",
+        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229668,
+      "name": "The Hour",
+      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
+    },
+    {
+      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -671,7 +730,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 229746,
       "name": "The Hour",
       "url": "https://open.spotify.com/track/5m2kIH8AkRcWafNJejjUDn"
@@ -779,7 +838,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 251333,
       "name": "Two Roads",
       "url": "https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7"

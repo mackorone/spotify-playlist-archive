@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical. Legit. This Pride vision of Folk, Americana, and Singer-Songwriter music features LGBTQQIA+ acts and allies. Cover: Angel Olsen",
+  "description": "Lyrical. Legit. Folk, Americana, and Singer-Songwriter music features LGBTQIA+ acts and allies. Cover: Adeem the Artist",
   "name": "Queer As Folk",
-  "published_playlist_ids": [
-    "1nsDgfpPkRNK6I7NchiJ6w"
-  ],
   "tracks": [
     {
       "album": {
@@ -372,6 +369,24 @@
     },
     {
       "album": {
+        "name": "White Trash Revelry",
+        "url": "https://open.spotify.com/album/2GlHvIfPIhJCgpqimu1mTP"
+      },
+      "artists": [
+        {
+          "name": "Adeem the Artist",
+          "url": "https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204453,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/5Q7BgJ0EhqFWdqlMtgDUgM"
+    },
+    {
+      "album": {
         "name": "The Theory of Absolutely Nothing",
         "url": "https://open.spotify.com/album/2BbNHSDWsTMWIYPCA15Ria"
       },
@@ -585,6 +600,24 @@
       "duration_ms": 240019,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/51vtQDs3PPnWwB7hDOwpHs"
+    },
+    {
+      "album": {
+        "name": "Crop Circles",
+        "url": "https://open.spotify.com/album/6o8QongKZ7ZPCgy6EYghhC"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226490,
+      "name": "Crop Circles",
+      "url": "https://open.spotify.com/track/2VOrYcyK0rqa9gZ0gUL0fI"
     },
     {
       "album": {
@@ -2059,6 +2092,36 @@
     {
       "album": {
         "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "album": {
+        "name": "boygenius",
         "url": "https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH"
       },
       "artists": [
@@ -2081,32 +2144,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1"
-    },
-    {
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "date_added": "2022-06-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "album": {
@@ -2211,10 +2248,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 170421,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/0WsSXk2OfaCewniK3v5fcN"
+    },
+    {
+      "album": {
+        "name": "With People",
+        "url": "https://open.spotify.com/album/75FTQkt4wpNKujeOb3L8ID"
+      },
+      "artists": [
+        {
+          "name": "Diane Coffee",
+          "url": "https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170421,
+      "name": "The Great Escape",
+      "url": "https://open.spotify.com/track/3AUBLZk7wQX0GzG5BsZNYk"
     },
     {
       "album": {
@@ -2427,10 +2482,28 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
+    },
+    {
+      "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246213,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
     },
     {
       "album": {

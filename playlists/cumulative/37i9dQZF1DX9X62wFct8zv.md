@@ -4,7 +4,7 @@
 
 > The best of Fleetwood Mac, together and apart.
 
-72 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/5SLHRdEqeh28HG5ocLtxLJ)
+72 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

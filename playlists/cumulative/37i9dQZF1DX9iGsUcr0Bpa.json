@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Classics from trailblazing women in hip-hop. Cover: Lil' Kim",
+  "description": "Classics from trailblazing women in hip-hop. Cover: Gangsta Boo",
   "name": "Door Knockers",
-  "published_playlist_ids": [
-    "3BbShuFX55bv82Dwzl8fxS"
-  ],
   "tracks": [
     {
       "album": {
@@ -299,7 +296,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 195293,
       "name": "Da Baddest Bitch",
       "url": "https://open.spotify.com/track/1rBittbf1aWwzeW28dI7Lv"
@@ -800,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Both Worlds, *69",
+        "url": "https://open.spotify.com/album/6QH3lzZB4MIpYGhuCISHKt"
+      },
+      "artists": [
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250093,
+      "name": "Mask 2 My Face",
+      "url": "https://open.spotify.com/track/3j4yKzIaTnsruQDmfaw2kK"
+    },
+    {
+      "album": {
         "name": "Pink Friday",
         "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },
@@ -903,7 +918,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-01",
       "duration_ms": 252520,
       "name": "Not Tonight (feat. Da Brat, Left Eye, Missy \"Misdemeanor\" Elliott and Angie Martinez) - Remix",
       "url": "https://open.spotify.com/track/42OhQBFNIbMyxRGxyPOvQA"
@@ -1033,7 +1048,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 197266,
       "name": "Queen Bitch",
       "url": "https://open.spotify.com/track/1LFqcpp3k7r9nHBH7Lsos4"
@@ -1479,7 +1494,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 304666,
       "name": "You Can't Play with My Yo-Yo (feat. Ice Cube)",
       "url": "https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t"

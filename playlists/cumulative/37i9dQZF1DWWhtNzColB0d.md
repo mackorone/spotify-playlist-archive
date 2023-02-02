@@ -4,7 +4,7 @@
 
 > Flaubert, Hugo, Balzac, Dumas, Stendhal, Maupassant..\. audio versions of classic French novels and short stories.
 
-40 songs - 1 day 3 hr 51 min - [published](https://open.spotify.com/playlist/67UqipP6gxXp3CPZt0TT7Q)
+40 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

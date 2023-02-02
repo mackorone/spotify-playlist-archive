@@ -4,7 +4,7 @@
 
 > Make like it's 2009 \#SpotifyTBT
 
-70 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/4FcT5R3jukWGTpwlxw1INW)
+70 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

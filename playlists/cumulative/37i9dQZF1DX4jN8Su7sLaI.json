@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-10-03",
   "description": "Music from \"Yowamushi Pedal\", a series of cycle road race manga. /\u81ea\u8ee2\u8eca\u30ed\u30fc\u30c9\u30ec\u30fc\u30b9\u30a2\u30cb\u30e1\u306e\u91d1\u5b57\u5854\u3001<a href=\"http://yowapeda.com/\">\u300e\u5f31\u866b\u30da\u30c0\u30eb\u300f</a>\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9\u6e21\u8fba\u822a\uff08\u9031\u520a\u5c11\u5e74\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\uff09\uff0f\u5f31\u866b\u30da\u30c0\u30eb04\u88fd\u4f5c\u59d4\u54e1\u4f1a",
   "name": "\u5f31\u866b\u30da\u30c0\u30eb -Yowamushi Pedal-",
-  "published_playlist_ids": [
-    "2ClVyCrdlSlyiFCMCh0S7S"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb"
+      },
+      "artists": [
+        {
+          "name": "Daiki Yamashita",
+          "url": "https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty"
+    },
     {
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",

@@ -4,7 +4,7 @@
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-54 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/47O4zDuqjFZN0CXSm97TZY)
+55 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [It's All Over Now](https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Gasoline Alley](https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf) | 6:26 | 2020-12-01 |  |
 | [James Dean \- 2013 Remaster](https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 3:38 | 2020-12-01 |  |
 | [Jerkin' Crocus](https://open.spotify.com/track/1xKF80cHD0H6VydMJqK4st) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [All The Young Dudes \(Expanded Edition\)](https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa) | 4:00 | 2020-12-01 |  |
-| [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 | 2020-12-01 | 2022-10-11 |
+| [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 | 2020-12-01 | 2023-01-28 |
 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 | 2020-12-01 |  |
 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 | 2021-10-15 |  |
 | [Let's Make It](https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:06 | 2020-12-01 |  |
@@ -41,7 +41,8 @@
 | [Let's Work Together](https://open.spotify.com/track/7vJaNv4ItDyYXXCVRJreh6) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Future Blues \(Expanded Edition\)](https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh) | 3:13 | 2020-12-01 |  |
 | [Lower On Your List Of Priorities](https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Raisin' A Ruckus](https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo) | 3:20 | 2021-04-13 |  |
 | [Maggie's Farm \- Remastered](https://open.spotify.com/track/2TsY408zarh6FNtc7YsMGf) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [The Blues Band \- Ready \(Remastered\)](https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs) | 3:17 | 2020-12-01 |  |
-| [Mama Kin](https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:27 | 2020-12-01 |  |
+| [Mama Kin](https://open.spotify.com/track/7Id8Qi0oQMV8J78fdtuZxo) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:27 | 2020-12-01 | 2023-01-12 |
+| [Mama Kin](https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:29 | 2020-12-01 |  |
 | [Mama Nature Said](https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 4:54 | 2020-12-01 |  |
 | [Midnight To Six Man](https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Get The Picture?](https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E) | 2:19 | 2020-12-01 |  |
 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 | 2020-12-01 |  |
@@ -61,6 +62,6 @@
 | [True Blue](https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Never A Dull Moment](https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ) | 3:31 | 2020-12-01 |  |
 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 | 2020-12-01 |  |
 | [Whatever You Want](https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Quotable Quo](https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj) | 4:02 | 2020-12-01 |  |
-| [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 | 2020-12-01 | 2022-11-22 |
+| [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 | 2020-12-01 | 2023-02-02 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

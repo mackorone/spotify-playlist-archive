@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The country way of testifying. Cover: Darius Rucker",
+  "description": "The country way of testifying. Cover: Luke Bryan",
   "name": "Country by the Grace of God",
-  "published_playlist_ids": [
-    "6cE3SvtvS08f7zxJyG9uyM"
-  ],
   "tracks": [
     {
       "album": {
@@ -321,6 +318,46 @@
       "duration_ms": 233213,
       "name": "Bloodlines",
       "url": "https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw"
+    },
+    {
+      "album": {
+        "name": "Build a Boat (feat. Gabby Barrett)",
+        "url": "https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        },
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170549,
+      "name": "Build a Boat (feat. Gabby Barrett)",
+      "url": "https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v"
+    },
+    {
+      "album": {
+        "name": "Can I See My Dog?",
+        "url": "https://open.spotify.com/album/4j47u9VWxM9MhAKZG2FqeM"
+      },
+      "artists": [
+        {
+          "name": "Roman Alexander",
+          "url": "https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195050,
+      "name": "Can I See My Dog?",
+      "url": "https://open.spotify.com/track/0ZZBTSD2RGt4O86ZQpPW4x"
     },
     {
       "album": {
@@ -1964,6 +2001,28 @@
     },
     {
       "album": {
+        "name": "Place for Me",
+        "url": "https://open.spotify.com/album/23KSpAVjELjsop1LUXsldT"
+      },
+      "artists": [
+        {
+          "name": "Kasey Tyndall",
+          "url": "https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2"
+        },
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Place for Me",
+      "url": "https://open.spotify.com/track/6lhnuGmvxgRiozlK4J2cer"
+    },
+    {
+      "album": {
         "name": "Praise The Lord (feat. Thomas Rhett)",
         "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
       },
@@ -2041,7 +2100,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 229316,
       "name": "Prayin' For You",
       "url": "https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1"

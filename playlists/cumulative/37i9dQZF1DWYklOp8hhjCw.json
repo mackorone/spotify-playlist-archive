@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Top Latin hits for the world\u2019s most popular reptile pets.",
   "name": "\u00a1Viva Iguana!",
-  "published_playlist_ids": [
-    "1tI3AK78WjY1J2fVHK2elI"
-  ],
   "tracks": [
     {
       "album": {
@@ -411,10 +408,32 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
+    },
+    {
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173021,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
     },
     {
       "album": {
@@ -507,7 +526,7 @@
       },
       "artists": [
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {

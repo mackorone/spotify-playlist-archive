@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "iykyk",
   "name": "Internet Famous",
-  "published_playlist_ids": [
-    "3awV2Nz601Vuas3y1IcXci"
-  ],
   "tracks": [
     {
       "album": {
@@ -180,6 +177,24 @@
     },
     {
       "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
+    },
+    {
+      "album": {
         "name": "Always (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
       },
@@ -246,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Asiwaju",
+        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
+    },
+    {
+      "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
@@ -275,7 +308,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
@@ -373,28 +406,10 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 185000,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
-    },
-    {
-      "album": {
-        "name": "Big Thug Boys",
-        "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
-      },
-      "artists": [
-        {
-          "name": "AV",
-          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
-        }
-      ],
-      "date_added": "2021-10-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171998,
-      "name": "Big Thug Boys",
-      "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
     },
     {
       "album": {
@@ -413,6 +428,42 @@
       "duration_ms": 172690,
       "name": "Big Thug Boys",
       "url": "https://open.spotify.com/track/5dFSwQk7dEGgccEpyzqskS"
+    },
+    {
+      "album": {
+        "name": "Big Thug Boys",
+        "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171998,
+      "name": "Big Thug Boys",
+      "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
+    },
+    {
+      "album": {
+        "name": "The Stanley Okorie Nollywood Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/7jKSdo4L6SVTCLBHjjEzb4"
+      },
+      "artists": [
+        {
+          "name": "Stanley Okorie",
+          "url": "https://open.spotify.com/artist/3adwF6GGLSkKdm2KDqMdMy"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146232,
+      "name": "Billionaire (From \"Return of the Billionaires\")",
+      "url": "https://open.spotify.com/track/1FDndMnzk7e75IA62fru60"
     },
     {
       "album": {
@@ -549,8 +600,8 @@
       },
       "artists": [
         {
-          "name": "AV",
-          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
       "date_added": "2022-02-23",
@@ -617,7 +668,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
@@ -690,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Golgotha 800% Zoblazo",
+        "url": "https://open.spotify.com/album/5lbcA0gIjFIGQxHgU3ZFEY"
+      },
+      "artists": [
+        {
+          "name": "Meiway",
+          "url": "https://open.spotify.com/artist/1Vgb3eqBF3DLP6FwY7MuB4"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338493,
+      "name": "DJ Tassouman",
+      "url": "https://open.spotify.com/track/0dXj0ElzCffNqVzYn9I7qF"
+    },
+    {
+      "album": {
         "name": "DKT",
         "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
       },
@@ -701,7 +770,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 138181,
       "name": "DKT",
       "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
@@ -807,7 +876,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 207826,
       "name": "Don't Rush (feat. Headie One)",
       "url": "https://open.spotify.com/track/7LRmDx4pMTQuOBBwRT1MCT"
@@ -850,6 +919,28 @@
     },
     {
       "album": {
+        "name": "Escapism. (Slowed Down)",
+        "url": "https://open.spotify.com/album/3JHBuPAYgG72bLORrTFSTU"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287135,
+      "name": "Escapism. - Slowed Down",
+      "url": "https://open.spotify.com/track/4D8h7lEUY0tVRGuX17tz3f"
+    },
+    {
+      "album": {
         "name": "A Side Of Me",
         "url": "https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em"
       },
@@ -883,6 +974,32 @@
       "duration_ms": 134546,
       "name": "EX BOYFRIEND",
       "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
+    },
+    {
+      "album": {
+        "name": "Fake ID (Coke & Rum Remix)",
+        "url": "https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126720,
+      "name": "Fake ID (Coke & Rum Remix)",
+      "url": "https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c"
     },
     {
       "album": {
@@ -1007,7 +1124,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 225729,
       "name": "Gentility",
       "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
@@ -1043,7 +1160,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
@@ -1079,7 +1196,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -1275,7 +1392,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 171764,
       "name": "Infinity (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
@@ -1986,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Old School",
+        "url": "https://open.spotify.com/album/0coNvcEHlUSsBXhw8vzVkh"
+      },
+      "artists": [
+        {
+          "name": "Lucky Mensah",
+          "url": "https://open.spotify.com/artist/2ptKayc66fCfwhEm3ZPS0h"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304039,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/2fgVh2OWfXsbb9sbdzztiL"
+    },
+    {
+      "album": {
         "name": "Omo Baba",
         "url": "https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2"
       },
@@ -2071,6 +2206,24 @@
       "duration_ms": 153808,
       "name": "Own Brand Freestyle",
       "url": "https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x"
+    },
+    {
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "album": {
@@ -2351,7 +2504,7 @@
     {
       "album": {
         "name": "Outlaw",
-        "url": "https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE"
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
@@ -2366,6 +2519,28 @@
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Soweto",
+      "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
+    },
+    {
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
       "duration_ms": 148000,
       "name": "Soweto",
       "url": "https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8"
@@ -2453,10 +2628,40 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 251286,
       "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
       "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
+    },
+    {
+      "album": {
+        "name": "Sugarcane (Remix)",
+        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251147,
+      "name": "Sugarcane - Remix",
+      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
     },
     {
       "album": {
@@ -2497,6 +2702,24 @@
       "duration_ms": 210000,
       "name": "Sungba (feat. Burna Boy) - Remix",
       "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+    },
+    {
+      "album": {
+        "name": "Bayanni",
+        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159425,
+      "name": "Ta Ta Ta",
+      "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
     },
     {
       "album": {
@@ -2599,7 +2822,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
@@ -2795,10 +3018,50 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
+    },
+    {
+      "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+    },
+    {
+      "album": {
+        "name": "Mushin 2 Mo' Hits",
+        "url": "https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "K-Switch",
+          "url": "https://open.spotify.com/artist/2vSURQ99i5aTnMdPPUcU6F"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Who Born The Maga (feat. K-Switch)",
+      "url": "https://open.spotify.com/track/1WHqsaX60KovsdnRFpv3dk"
     },
     {
       "album": {
@@ -2857,6 +3120,74 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "album": {
+        "name": "Won Da Mo",
+        "url": "https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC"
+      },
+      "artists": [
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247680,
+      "name": "Won Da Mo",
+      "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
+    },
+    {
+      "album": {
+        "name": "Okofaji Carnival Fuji Fusion",
+        "url": "https://open.spotify.com/album/2u5NP7X4AIj978FmAoGrQx"
+      },
+      "artists": [
+        {
+          "name": "King Wasiu Ayinde Marshal 1",
+          "url": "https://open.spotify.com/artist/3cPc41gUsIIVlzalqS9eqM"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 280466,
+      "name": "Won Tun-Nna",
+      "url": "https://open.spotify.com/track/7igrnMDBdUfjzj0sVyHvNl"
     },
     {
       "album": {
@@ -2927,7 +3258,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 214545,
       "name": "ZaZoo Zehh",
       "url": "https://open.spotify.com/track/0TQUn21NBUhoer2B0N0G5v"

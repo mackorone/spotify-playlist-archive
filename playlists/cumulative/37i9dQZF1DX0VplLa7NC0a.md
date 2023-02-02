@@ -4,7 +4,7 @@
 
 > The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.
 
-90 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/0sMUjxM5FJr9WJX1JLwtLB)
+90 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

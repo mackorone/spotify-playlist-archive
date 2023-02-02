@@ -1,13 +1,33 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 2177,
+  "num_followers": 4792,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDgwOCwwMDAwMDAwMGIwNzY4YjAzZjEwMjFlODgzMzUyMzNkMjUzMmNiNTMy",
+  "snapshot_id": "MTY2NDY0MDgwOCwwMDAwMDAwMGE3NWIyYjgzZDU5NTc1MDgwNjBmY2U2NTQyNjI4ZTVk",
   "tracks": [
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Promiscuous",
+      "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+    },
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
@@ -31,22 +51,18 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 242293,
-      "name": "Promiscuous",
-      "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -71,42 +87,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 284733,
-      "name": "American Boy",
-      "url": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -127,18 +107,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 257690,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -163,6 +147,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 257690,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "Regulate\u2026 G Funk Era",
         "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
       },
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 186634,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
       },
@@ -199,18 +215,18 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 186634,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
+      "duration_ms": 266893,
+      "name": "U Remind Me",
+      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -231,18 +247,18 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 266893,
-      "name": "U Remind Me",
-      "url": "https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL"
+      "duration_ms": 210506,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -267,22 +283,6 @@
       "duration_ms": 316053,
       "name": "Slow Jamz",
       "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Chasing Pavements",
-      "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -371,6 +371,50 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "The Neptunes Present... Clones",
+        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Frontin' (feat. Jay-Z) - Club Mix",
+      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        },
+        {
+          "name": "Kidd Kidd",
+          "url": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
+        }
+      ],
+      "duration_ms": 286906,
+      "name": "Mrs. Officer",
+      "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -407,6 +451,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "Keith Sweat",
+        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
       },
@@ -431,66 +491,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Bobby V.",
-          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
-        },
-        {
-          "name": "Kidd Kidd",
-          "url": "https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF"
-        }
-      ],
-      "duration_ms": 286906,
-      "name": "Mrs. Officer",
-      "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "The Neptunes Present... Clones",
-        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Frontin' (feat. Jay-Z) - Club Mix",
-      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "Keith Sweat",
-        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
-      },
-      "artists": [
-        {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Juve The Great",
         "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
       },
@@ -511,26 +511,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "What's Luv? (feat. Ashanti)",
-        "url": "https://open.spotify.com/album/5gpXJRhfDU4rl7MIL1MyC0"
-      },
-      "artists": [
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "What's Luv? (feat. Ashanti)",
-      "url": "https://open.spotify.com/track/2eSJflipjhSKLExuSwuFrO"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "The Evolution of Robin Thicke",
         "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
       },
@@ -543,22 +523,6 @@
       "duration_ms": 254146,
       "name": "Lost Without U",
       "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "I Wanna Go There",
-        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "How You Gonna Act Like That",
-      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -583,18 +547,38 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "COOL RELAX",
-        "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
+        "name": "What's Luv? (feat. Ashanti)",
+        "url": "https://open.spotify.com/album/5gpXJRhfDU4rl7MIL1MyC0"
       },
       "artists": [
         {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 274666,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
+      "duration_ms": 230400,
+      "name": "What's Luv? (feat. Ashanti)",
+      "url": "https://open.spotify.com/track/2eSJflipjhSKLExuSwuFrO"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "I Wanna Go There",
+        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "How You Gonna Act Like That",
+      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -611,6 +595,22 @@
       "duration_ms": 245253,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "COOL RELAX",
+        "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "Detroit Deli (A Taste Of Detroit)",
         "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 225400,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
-      },
-      "artists": [
-        {
-          "name": "Sunshine Anderson",
-          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Be",
-        "url": "https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "GO!",
-      "url": "https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Miss Thang",
         "url": "https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 292800,
       "name": "Before You Walk Out of My Life",
       "url": "https://open.spotify.com/track/6xrvubhznLOcEO3AM6XBN2"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Be",
+        "url": "https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 315506,
-      "name": "Just The Two Of Us",
-      "url": "https://open.spotify.com/track/01F8B0dhzGdWvmcSO6vUdi"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Afrodisiac",
         "url": "https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Sol-Angel and the Hadley St. Dreams (Deluxe)",
-        "url": "https://open.spotify.com/album/6MsVbAqh2A9i7jYvPOsGNx"
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
       "artists": [
         {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 232942,
-      "name": "T.O.N.Y.",
-      "url": "https://open.spotify.com/track/6GI2PcrptZqGDOVrqjsec0"
+      "duration_ms": 315506,
+      "name": "Just The Two Of Us",
+      "url": "https://open.spotify.com/track/01F8B0dhzGdWvmcSO6vUdi"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -883,6 +867,22 @@
       "duration_ms": 240813,
       "name": "U Know What's Up",
       "url": "https://open.spotify.com/track/3seflYvRN3gmh50Iih5yMd"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Sol-Angel and the Hadley St. Dreams (Deluxe)",
+        "url": "https://open.spotify.com/album/6MsVbAqh2A9i7jYvPOsGNx"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 232942,
+      "name": "T.O.N.Y.",
+      "url": "https://open.spotify.com/track/6GI2PcrptZqGDOVrqjsec0"
     },
     {
       "added_at": "2022-10-01 16:13:28",

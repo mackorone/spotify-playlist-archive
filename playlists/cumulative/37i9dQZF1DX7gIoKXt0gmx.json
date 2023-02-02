@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "All the vibes. All the feels. \ud83e\udee0",
   "name": "All The Feels",
-  "published_playlist_ids": [
-    "4xt4qCzuE9mxZU2JZ6d8qW"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 231428,
       "name": "235 (2:35 I Want You)",
       "url": "https://open.spotify.com/track/5yGAyupR8TXCUq3MPb7xiK"
@@ -621,7 +618,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 235477,
       "name": "Come and See Me (feat. Drake)",
       "url": "https://open.spotify.com/track/5KdhJG3BXUmLoO4JdycCPw"
@@ -1345,7 +1342,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
@@ -1595,6 +1592,24 @@
     {
       "album": {
         "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300728,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1"
+    },
+    {
+      "album": {
+        "name": "A Place Like This",
         "url": "https://open.spotify.com/album/0LncwHODjl9isM9pzVmuOS"
       },
       "artists": [
@@ -1605,7 +1620,7 @@
       ],
       "date_added": "2020-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 300728,
       "name": "Her",
       "url": "https://open.spotify.com/track/6GatnDEhYQLOdRzdVbJaky"
@@ -1721,7 +1736,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-05",
       "duration_ms": 214054,
       "name": "How Could I Forget You",
       "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
@@ -2068,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -2101,6 +2134,24 @@
       "duration_ms": 153658,
       "name": "LANSDOWNE",
       "url": "https://open.spotify.com/track/2xs3TjKYZ3H3zaqWfmxdFF"
+    },
+    {
+      "album": {
+        "name": "LANSDOWNE",
+        "url": "https://open.spotify.com/album/2phfndUK6vGdlNO7I3GxrH"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 153658,
+      "name": "LANSDOWNE",
+      "url": "https://open.spotify.com/track/6Dv76051LlfL1LvMpcPLKw"
     },
     {
       "album": {
@@ -2191,7 +2242,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 134279,
       "name": "Letter To Ur N(ex)t",
       "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
@@ -2622,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172131,
+      "name": "Make Me Stay",
+      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+    },
+    {
+      "album": {
         "name": "Marvins Room",
         "url": "https://open.spotify.com/album/3mGqeHmVPQvBEJJlyWXI4u"
       },
@@ -2855,7 +2924,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 222284,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC"
@@ -3003,10 +3072,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 153226,
       "name": "Pain",
       "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+    },
+    {
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
       "album": {
@@ -3021,10 +3108,46 @@
       ],
       "date_added": "2020-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 174306,
       "name": "PERSIAN RUGS",
       "url": "https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
+    },
+    {
+      "album": {
+        "name": "R&B + Dancehall",
+        "url": "https://open.spotify.com/album/5IBUMFPljtxCXK0cwCAne7"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/7e6GS3IZB1RNf75EjrfUeA"
     },
     {
       "album": {
@@ -3087,6 +3210,24 @@
       "duration_ms": 212992,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
+    },
+    {
+      "album": {
+        "name": "Pray It Away",
+        "url": "https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156073,
+      "name": "Pray It Away",
+      "url": "https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2"
     },
     {
       "album": {
@@ -3452,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83826,
+      "name": "Smoking on my Ex Pack",
+      "url": "https://open.spotify.com/track/4jTs7ny5eSRnKTzxdrFv5I"
+    },
+    {
+      "album": {
         "name": "Kauai",
         "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
       },
@@ -3788,6 +3947,32 @@
     },
     {
       "album": {
+        "name": "Sincerely For You",
+        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281013,
+      "name": "Tell Me It's Over (feat. Summer Walker & 6LACK)",
+      "url": "https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5"
+    },
+    {
+      "album": {
         "name": "The Falls",
         "url": "https://open.spotify.com/album/6M7LJCq0Cuvyelq1uTwFaB"
       },
@@ -3846,6 +4031,42 @@
     },
     {
       "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+    },
+    {
+      "album": {
+        "name": "Morning After",
+        "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246240,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
+    },
+    {
+      "album": {
         "name": "Morning After",
         "url": "https://open.spotify.com/album/6rXy4b147LkM3muZKuALSX"
       },
@@ -3857,7 +4078,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 246240,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/4LkLfPYc3yjOta7Gk8FDRB"
@@ -4331,7 +4552,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 189473,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/6NFfdk3mverX1Uxwu9AMVJ"

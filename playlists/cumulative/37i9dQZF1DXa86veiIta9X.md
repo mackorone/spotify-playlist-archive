@@ -4,7 +4,7 @@
 
 > take over the aux cord and scream sing down Broadway
 
-140 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/7EiBtGZmlpvFcE8sLPd28j)
+140 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

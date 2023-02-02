@@ -4,7 +4,7 @@
 
 > A collection of Psalms set to relaxing classical music.
 
-77 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/74tYdsllqAUr7TOrqbalfQ)
+77 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

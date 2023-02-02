@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-22",
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
   "name": "Oscuros 80",
-  "published_playlist_ids": [
-    "7MNQpJF8R2XZQsiwsBTSQ1"
-  ],
   "tracks": [
     {
       "album": {
@@ -728,6 +725,24 @@
     },
     {
       "album": {
+        "name": "In the Flat Field",
+        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 231560,
+      "name": "Dark Entries",
+      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
+    },
+    {
+      "album": {
         "name": "Hyaena (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
       },
@@ -1027,7 +1042,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 239280,
       "name": "Eighties - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
@@ -1443,7 +1458,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219933,
-      "name": "I Ran (So Far Away)",
+      "name": "I Ran (So Far Away) - Single Edit",
       "url": "https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ"
     },
     {
@@ -2051,7 +2066,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 295250,
       "name": "Lucretia My Reflection - Vinyl Version",
       "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
@@ -2199,6 +2214,24 @@
       "duration_ms": 242720,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW"
+    },
+    {
+      "album": {
+        "name": "Music for the Masses (2006 Remaster)",
+        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290493,
+      "name": "Never Let Me Down Again - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u"
     },
     {
       "album": {

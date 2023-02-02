@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-01",
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover Chin Bees",
   "name": "Bongo Bars",
-  "published_playlist_ids": [
-    "1btdo8kMBVWjpbQP3UO41v"
-  ],
   "tracks": [
     {
       "album": {
@@ -107,7 +104,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 191294,
       "name": "Atakuoa Nani",
       "url": "https://open.spotify.com/track/3QvqMNOkzolUbbhFx8aFro"
@@ -195,6 +192,24 @@
       "duration_ms": 172042,
       "name": "BLESS",
       "url": "https://open.spotify.com/track/2VuA20x246Ayzil4Ng1NZ9"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/6bVAm6VNpL3EsTjagnHNdR"
+      },
+      "artists": [
+        {
+          "name": "Ronald Mkiza",
+          "url": "https://open.spotify.com/artist/1mMBeutte2NZsxeqoNXaL1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228260,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/21Jy2EJECcC8FQSKiiWmAJ"
     },
     {
       "album": {
@@ -409,7 +424,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 234136,
       "name": "Hobbies",
       "url": "https://open.spotify.com/track/0UwT5g5Y9i0CSS70QLAZaU"
@@ -538,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/3usAd7tI0dYP7KUH9s6wsL"
+      },
+      "artists": [
+        {
+          "name": "DJ Gibbzy",
+          "url": "https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/77e741vkrVhgXSbfZvQx3L"
+    },
+    {
+      "album": {
         "name": "Loverboy Chronicles (I.D.I.S)",
         "url": "https://open.spotify.com/album/59LDvaec15rQlKO8ku30Uc"
       },
@@ -553,7 +586,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 289593,
       "name": "Loverboy Chronicles (I.D.I.S)",
       "url": "https://open.spotify.com/track/5fksMgr5uKN7brQRvUJDcP"
@@ -583,8 +616,8 @@
       },
       "artists": [
         {
-          "name": "Motra The Future",
-          "url": "https://open.spotify.com/artist/56S51xHITyFmmguARxv6Au"
+          "name": "Motra the Future",
+          "url": "https://open.spotify.com/artist/7kwDEyETjNtgnnqTS2aV6w"
         },
         {
           "name": "Damian Soul",
@@ -788,6 +821,60 @@
     },
     {
       "album": {
+        "name": "O 2 the G Cypher",
+        "url": "https://open.spotify.com/album/5UWkAkFSjlEDvMay2tBwUH"
+      },
+      "artists": [
+        {
+          "name": "Sela Ninja",
+          "url": "https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS"
+        },
+        {
+          "name": "JawnRaw",
+          "url": "https://open.spotify.com/artist/4bNirV1zXi9h0JP1wew94Q"
+        },
+        {
+          "name": "Defi Ant",
+          "url": "https://open.spotify.com/artist/3G2mWYGQY79nhOkiQH9oFf"
+        },
+        {
+          "name": "Subtex",
+          "url": "https://open.spotify.com/artist/4DtFulxlK1vJEwMLtz1pp3"
+        },
+        {
+          "name": "Jonathon Karabekian",
+          "url": "https://open.spotify.com/artist/5B6XbfiXyPPbXmV8Foy7Zn"
+        },
+        {
+          "name": "nem r",
+          "url": "https://open.spotify.com/artist/4ctcls1emJuy0L5TGDJrM0"
+        },
+        {
+          "name": "P-Tah",
+          "url": "https://open.spotify.com/artist/7yk0XpTOwg0Dhxequ5EtlM"
+        },
+        {
+          "name": "Plate Mdaijasho",
+          "url": "https://open.spotify.com/artist/6asRW7Z2SVFaj6SZw65xuW"
+        },
+        {
+          "name": "Cody Nash",
+          "url": "https://open.spotify.com/artist/3CvzptNJ6jW1r2kZaGGIWl"
+        },
+        {
+          "name": "Shazzy B",
+          "url": "https://open.spotify.com/artist/4hoMkkezRc78CVqSy8ESJX"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471118,
+      "name": "O 2 the G Cypher",
+      "url": "https://open.spotify.com/track/1ib32aj9wikMcH5paMNp9E"
+    },
+    {
+      "album": {
         "name": "OWN BO$$",
         "url": "https://open.spotify.com/album/6szXz3RCn2BkNhL9C02Fme"
       },
@@ -799,7 +886,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 122136,
       "name": "OWN BO$$",
       "url": "https://open.spotify.com/track/67oXagPoTbm4XivSJ17MIx"
@@ -915,7 +1002,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 176413,
       "name": "Say",
       "url": "https://open.spotify.com/track/7x90WpEMiHUD1T5RseSVeN"
@@ -1012,6 +1099,28 @@
     },
     {
       "album": {
+        "name": "Sio Kwa Ubaya",
+        "url": "https://open.spotify.com/album/1iZQP1UhukZKFSHI0Mo2LY"
+      },
+      "artists": [
+        {
+          "name": "MwanaFA",
+          "url": "https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "Sio Kwa Ubaya",
+      "url": "https://open.spotify.com/track/3iu6HFPMKLWJpJqmhLzzih"
+    },
+    {
+      "album": {
         "name": "Sponsa",
         "url": "https://open.spotify.com/album/0jxDFi4yennWvYM9q6DDqR"
       },
@@ -1085,7 +1194,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 224615,
       "name": "Step",
       "url": "https://open.spotify.com/track/4znb2uP2JB0Ws5cIM4ryC9"
@@ -1102,7 +1211,7 @@
         },
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         }
       ],
       "date_added": "2022-10-28",
@@ -1219,6 +1328,28 @@
       "duration_ms": 200388,
       "name": "Threesome",
       "url": "https://open.spotify.com/track/7mzo7b3xVY0nWdQKOEIHNz"
+    },
+    {
+      "album": {
+        "name": "Tu Come",
+        "url": "https://open.spotify.com/album/1QAR3X1YbOlc4G6gtYtywJ"
+      },
+      "artists": [
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        },
+        {
+          "name": "FEMI ONE",
+          "url": "https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Tu Come",
+      "url": "https://open.spotify.com/track/0jOTg1Ic8NwzqMim1tEl7R"
     },
     {
       "album": {

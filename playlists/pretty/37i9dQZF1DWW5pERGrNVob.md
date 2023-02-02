@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,549 likes - 102 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,406 likes - 102 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

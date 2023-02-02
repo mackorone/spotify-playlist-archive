@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
   "name": "This Is Aphex Twin",
-  "published_playlist_ids": [
-    "5j6zeQgUYH1nqWVzzE7VBW"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 480506,
       "name": "#14",
       "url": "https://open.spotify.com/track/2KhubLGvTQRSmsXLy10JU1"
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 125106,
       "name": "#17",
       "url": "https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI"
@@ -507,7 +504,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 262533,
-      "name": "Come To Daddy (Pappy Mix)",
+      "name": "Come To Daddy - Pappy Mix",
       "url": "https://open.spotify.com/track/53T0V3jTJDs3kIqwvlgspI"
     },
     {
@@ -581,6 +578,24 @@
       "duration_ms": 146033,
       "name": "diskhat1",
       "url": "https://open.spotify.com/track/1s6ux0lNiTziSrd7iUAADH"
+    },
+    {
+      "album": {
+        "name": "Computer Controlled Acoustic Instruments pt2 EP",
+        "url": "https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38388,
+      "name": "diskhat2",
+      "url": "https://open.spotify.com/track/5ZSouyaLUY9IKcr6SPK4OL"
     },
     {
       "album": {
@@ -721,7 +736,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": "2022-12-29",
       "duration_ms": 58586,
       "name": "fz pseudotimestretch+e+3 [138.85]",
       "url": "https://open.spotify.com/track/6GJQR1HX6pcGfkXIn3vrRf"
@@ -973,7 +988,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 255773,
       "name": "Nannou",
       "url": "https://open.spotify.com/track/3sUVNEHBQJSb4qRyQ4ahwK"

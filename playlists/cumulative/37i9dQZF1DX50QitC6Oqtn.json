@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-07-29",
   "description": "Because we all deserve great pop love songs in one playlist.",
   "name": "Love Pop",
-  "published_playlist_ids": [
-    "5Gy0dP1pgPGbnWiiwYHssX"
-  ],
   "tracks": [
     {
       "album": {
@@ -669,7 +666,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197866,
       "name": "Beautiful People (feat. Khalid)",
       "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
@@ -1207,7 +1204,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
@@ -2441,8 +2438,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -4655,7 +4652,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 197480,
       "name": "nobody else",
       "url": "https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw"
@@ -5119,6 +5116,24 @@
       "duration_ms": 182759,
       "name": "Poetic",
       "url": "https://open.spotify.com/track/3qrGBP34Bs417sDwlRojz9"
+    },
+    {
+      "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
     },
     {
       "album": {

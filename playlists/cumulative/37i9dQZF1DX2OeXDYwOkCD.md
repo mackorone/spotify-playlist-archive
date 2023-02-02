@@ -4,7 +4,7 @@
 
 > Si te gustan por separado, ¿cómo no te van a gustar juntos?
 
-104 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/5xE0Z6rCVdMCq72w3t0VYv)
+106 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [No Te Pegas \(feat\. A.CHAL\)](https://open.spotify.com/track/0xEHRiHRnzED9ohgRwv7Wr) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [No Te Pegas \(feat\. A.CHAL\)](https://open.spotify.com/album/6VYYVINV9bedL411ht9I2u) | 3:24 | 2022-03-29 |  |
 | [Nominao](https://open.spotify.com/track/5SkiVFWCP3NPEgNk3PaL2I) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:56 | 2022-03-29 |  |
 | [Nos Quedamos Solitos](https://open.spotify.com/track/1QzfazYi9a86Bf0h71xbH1) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 5:15 | 2022-03-29 |  |
-| [Nothing’s Special](https://open.spotify.com/track/2EsL4kfdrEZJTKRFhuMDbY) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Nothing's Special](https://open.spotify.com/album/2xBvgd6MJXlo98bWrxQRKk) | 3:33 | 2022-03-29 |  |
+| [Nothing’s Special](https://open.spotify.com/track/42XBr4TCOHEz2SP4vUsBGp) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Magic Oneohtrix Point Never \(Blu\-ray Edition\)](https://open.spotify.com/album/7D6nstAHvEYc7RuA9ufMxy) | 3:32 | 2022-09-02 |  |
+| [Nothing’s Special](https://open.spotify.com/track/2EsL4kfdrEZJTKRFhuMDbY) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Nothing's Special](https://open.spotify.com/album/2xBvgd6MJXlo98bWrxQRKk) | 3:33 | 2022-03-29 | 2023-02-02 |
 | [Nunca Estoy](https://open.spotify.com/track/6N4ioa3XSbvjmwdVEERl8F) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:42 | 2022-03-29 |  |
 | [Ontas?](https://open.spotify.com/track/3Dj6xObwtNu6EvDKKsmuiE) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Ontas?](https://open.spotify.com/album/4WzMQmA3NrcxtGAlalrugu) | 3:17 | 2022-03-29 |  |
 | [Pa' Llamar Tu Atención \(feat\. MC Bin Laden\)](https://open.spotify.com/track/2vEY3cNwXYxIG4fPAoN14q) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Pa' Llamar Tu Atención \(feat\. MC Bin Laden\)](https://open.spotify.com/album/4cuwg5OdGMhnbvTdlNWkd9) | 2:57 | 2022-03-29 |  |
@@ -111,6 +112,7 @@
 | [Yate](https://open.spotify.com/track/0q7psxaixBQ8FkqyVpbfky) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yate](https://open.spotify.com/album/65BZfDQ8PCkHXtRYuaCbuI) | 3:25 | 2022-03-29 |  |
 | [Yelo](https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Yelo](https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi) | 3:09 | 2022-03-29 |  |
 | [Yo x Ti, Tu x Mi](https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Yo x Ti, Tu x Mi](https://open.spotify.com/album/3844bY26oeSkqd06th4EYp) | 3:21 | 2022-03-29 |  |
-| [¿Cuánto E$?](https://open.spotify.com/track/77eLBhhdkYwEOptOKfkXlh) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 3:07 | 2022-03-29 |  |
+| [¿Cuánto E$?](https://open.spotify.com/track/0t5v9u01TBg8gEQk69orZ0) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 3:07 | 2022-09-02 |  |
+| [¿Cuánto E$?](https://open.spotify.com/track/77eLBhhdkYwEOptOKfkXlh) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 3:07 | 2022-03-29 | 2022-12-09 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

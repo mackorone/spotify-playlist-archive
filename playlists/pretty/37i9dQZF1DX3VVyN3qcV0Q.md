@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VVyN3qcV0Q.md) - [plain]
 
 > <a href="spotify:artist:30FDJPN3RtwJZ20g5YGCRX">Yung Bae</a> blesses us with a funky fun mix to keep the party going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,937 likes - 25 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,474 likes - 25 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

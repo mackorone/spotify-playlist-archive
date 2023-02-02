@@ -4,7 +4,7 @@
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-93 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/4Kjp35jrALLwqpzQypFyiK)
+93 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

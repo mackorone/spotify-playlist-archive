@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Spain without the S ",
   "name": "teen angst",
-  "published_playlist_ids": [
-    "2j48AznvoAj8pe3ap5mbUd"
-  ],
   "tracks": [
     {
       "album": {
@@ -275,6 +272,24 @@
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 160119,
+      "name": "ANGELS & DEMONS",
+      "url": "https://open.spotify.com/track/3mkz6eI4Sram8UhO3teU76"
     },
     {
       "album": {
@@ -577,7 +592,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
@@ -1171,7 +1186,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 167794,
       "name": "F.U.",
       "url": "https://open.spotify.com/track/2pp1JDxpXuqRINtpxl0e4h"
@@ -1539,10 +1554,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 181680,
       "name": "Hayloft",
       "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
+    },
+    {
+      "album": {
+        "name": "Inside (Deluxe)",
+        "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Hayloft II",
+      "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
     },
     {
       "album": {
@@ -2258,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Love Sux (Deluxe)",
+        "url": "https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 168803,
+      "name": "Love Sux",
+      "url": "https://open.spotify.com/track/0NPvbk8zgsK9Cot0yDECb7"
+    },
+    {
+      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/4ab7jYzCRPCIz0k2CNKPGm"
       },
@@ -2529,7 +2580,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 238880,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
@@ -3077,7 +3128,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 198080,
       "name": "Sarcasm",
       "url": "https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"
@@ -3203,7 +3254,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 215160,
       "name": "So What",
       "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
@@ -3283,6 +3334,24 @@
       "duration_ms": 196275,
       "name": "Someone Else's Dream",
       "url": "https://open.spotify.com/track/25ji0D3bOxIQ1GRKACLJWW"
+    },
+    {
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
     },
     {
       "album": {
@@ -3481,7 +3550,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 209093,
       "name": "The Downfall Of Us All",
       "url": "https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED"
@@ -3845,6 +3914,24 @@
       "duration_ms": 206580,
       "name": "Viva Las Vengeance",
       "url": "https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191414,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT"
     },
     {
       "album": {

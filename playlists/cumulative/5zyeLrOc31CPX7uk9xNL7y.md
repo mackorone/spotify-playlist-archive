@@ -4,7 +4,7 @@
 
 > Ring in the new year to the sweet sound of jazz and blues.
 
-20 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/0Uj0CBNdsgQ9ypxOZGHNYD)
+20 songs - 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

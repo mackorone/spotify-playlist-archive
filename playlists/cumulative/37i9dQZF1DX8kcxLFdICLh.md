@@ -4,7 +4,7 @@
 
 > A gathering of essentials by the <a href="spotify:artist:5s6TJEuHTr9GR894wc6VfP">Americana icon</a>.
 
-71 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/3vc3AGCfVfbs8eaniYtBJG)
+71 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

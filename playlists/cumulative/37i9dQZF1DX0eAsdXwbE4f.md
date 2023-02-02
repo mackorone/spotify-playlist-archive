@@ -4,7 +4,7 @@
 
 > Relax to the sound of birds singing in the rain.
 
-111 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/0bPXBk5PNX5kyNMRXtU8ae)
+111 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Pájaros cantando, cascada, lluvia](https://open.spotify.com/track/1ZKyd4nwxTmfTjjrNguDQV) | [Bosque Tropical](https://open.spotify.com/artist/16UkmZvNY9VN80604Imhlx) | [Pájaros cantando, cascada, lluvia](https://open.spotify.com/album/4QAM4YJ4TIWY27JyiZHfI9) | 2:44 | 2021-11-11 |  |
 | [Pájaros Del Arco Iris](https://open.spotify.com/track/6xsB2zJ8LLedaUJPPiwAXj) | [Hola Pájaros](https://open.spotify.com/artist/50vXpS8CxYIfp65eisEQWU) | [Pájaros Del Arco Iris](https://open.spotify.com/album/1gb3roeMZc4aBfYAJ5YnZb) | 2:14 | 2021-11-11 |  |
 | [Rain & Birds](https://open.spotify.com/track/5dWXEeQTiyFdC8xAG1TZVh) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Meditative Rain](https://open.spotify.com/album/6aOKFZw9ZBxQAaezNz5QcX) | 3:49 | 2021-11-11 |  |
-| [Rain Birds](https://open.spotify.com/track/4QKciU3RCtjTBWWieh66Uv) | [Meditation](https://open.spotify.com/artist/09GmCpZ59IcRJ6ctUDoonQ), [Meditation & Stress Relief Therapy](https://open.spotify.com/artist/2G1FMOQcRPiMIXMDXfQqrH), [Meditation Awareness](https://open.spotify.com/artist/6U2e6YkrN3hbyXS4lCgAHU), [Animal and Bird Songs](https://open.spotify.com/artist/4owYobHUxEAkennAzpxvaX), [Rain Sounds](https://open.spotify.com/artist/5nSGBmlgUdqWNExnOX8VtV) | [Gentle Waves and Angry Thunderstorms \(click Shuffle, Repeat, Cross Fade, and Gapless for continuous unique soundscape\)](https://open.spotify.com/album/73sI8wLN4oAeVjZ9sPauyy) | 1:30 | 2021-11-11 |  |
+| [Rain Birds](https://open.spotify.com/track/4QKciU3RCtjTBWWieh66Uv) | [Thunder Rain](https://open.spotify.com/artist/21wnyvt8GusdCSj6u2Wezn), [Rainfall](https://open.spotify.com/artist/7627ANNGANFPPvxcqRvGJT), [Rain for Deeper Sleep](https://open.spotify.com/artist/3qEcUF4WNYqmPfprig6niQ), [Rain Sounds Nature Collection](https://open.spotify.com/artist/5cL7VO0XEyVE16PDCrkZ5V), [Sounds of Rains & Thunder Storms](https://open.spotify.com/artist/1LwTI7ZGfV6pRTQwyVYRLu), [Sounds Of Nature : Thunderstorm, Rain](https://open.spotify.com/artist/68KvrDM8KF36LHUvTgEIS9), [Life Sounds Nature](https://open.spotify.com/artist/0SGJ24mW8PvCH3O8GeXSFg) | [Gentle Waves and Angry Thunderstorms \(click Shuffle, Repeat, Cross Fade, and Gapless for continuous unique soundscape\)](https://open.spotify.com/album/73sI8wLN4oAeVjZ9sPauyy) | 1:30 | 2021-11-11 |  |
 | [Rain Dance](https://open.spotify.com/track/0L2lrXj20Lr0CCZcJ2vAmp) | [Imber Levis](https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T) | [Rain Dance](https://open.spotify.com/album/41YviWYb4Ec5iEiHD0UKQ8) | 3:28 | 2021-11-11 |  |
 | [Rain Droplet Tweets](https://open.spotify.com/track/5dyQXJrApYZOzCP6QN4qtG) | [Bird Sounds](https://open.spotify.com/artist/4LWTtG9wPNprYmfLnKJwv4) | [! ! ! ! Sweet Bird Sounds ! ! ! !](https://open.spotify.com/album/021ts3oxrLqe5Wu3P6iqif) | 2:02 | 2021-11-11 |  |
 | [Rain Forest Birds](https://open.spotify.com/track/2IYxIeTZCkcjWrXOAZ7QFc) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Autumn Rain](https://open.spotify.com/album/7tjr0VEI6SgRVK8VB1UmhI) | 3:12 | 2021-11-11 |  |

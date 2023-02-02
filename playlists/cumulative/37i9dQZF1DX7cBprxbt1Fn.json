@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Gentle, relaxing <a href=\"spotify:genre:classical\">classical</a> music.",
   "name": "Gentle Classical",
-  "published_playlist_ids": [
-    "2YCAAeGEXEavVyg50BOz5y"
-  ],
   "tracks": [
     {
       "album": {
@@ -182,7 +179,7 @@
     },
     {
       "album": {
-        "name": "Samuel Barber - Adagio (100th anniversary)",
+        "name": "Samuel Barber - Adagio",
         "url": "https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu"
       },
       "artists": [
@@ -203,7 +200,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 537426,
-      "name": "Barber: Adagio for Strings, Op. 11",
+      "name": "Barber: Adagio for Strings",
       "url": "https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau"
     },
     {
@@ -938,8 +935,30 @@
     },
     {
       "album": {
-        "name": "Schumann: Davidsbu\u0308ndlert\u00e4nze & Kinderszenen",
+        "name": "Schumann: Davidsb\u00fcndlert\u00e4nze & Kinderszenen",
         "url": "https://open.spotify.com/album/0wMP49F2hVcF7rnOzIOVon"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Zhu Xiao-Mei",
+          "url": "https://open.spotify.com/artist/7FYbeZiCZ6pRTx2fAbBW0H"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 147866,
+      "name": "Kinderszenen opus 15: VII. Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/6niy47JlyU2BbXRyvahTNm"
+    },
+    {
+      "album": {
+        "name": "R. Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6 & Kinderszenen, Op. 15",
+        "url": "https://open.spotify.com/album/6g6wxBGqm4GgJqYLZfZA24"
       },
       "artists": [
         {
@@ -955,8 +974,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 147866,
-      "name": "Kinderszenen opus 15: Kinderszenen opus 15: VII. Tr\u00e4umerei",
-      "url": "https://open.spotify.com/track/6niy47JlyU2BbXRyvahTNm"
+      "name": "Kinderszenen, Op. 15: No. 7, Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/2KdY6MVuZMwlqtW2JUdD4O"
     },
     {
       "album": {

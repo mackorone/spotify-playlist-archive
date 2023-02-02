@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > The return of Kratos and Atreus has arrived! Listen to their playlist while playing God of War Ragnarök \(rated "M" for "mature".\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,153 likes - 72 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,714 likes - 72 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 23 | [Under Pressure](https://open.spotify.com/track/4okLKeB83VLZFGGtrMQxpd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Best of Bowie](https://open.spotify.com/album/1jdQFC3s8PZUc5i7vovZTv) | 3:57 |
 | 24 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 | 25 | [Hero](https://open.spotify.com/track/5uS4Gy2ECwIzqfDVBEWlBs) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Hero](https://open.spotify.com/album/7F2S7LvZiS9TO9pQa4PYp7) | 2:55 |
-| 26 | [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 |
+| 26 | [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 |
 | 27 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 |
 | 28 | [Best of You](https://open.spotify.com/track/1sn6iOK93jnp0Hn5BnNOXy) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:14 |
 | 29 | [Sun Comes Up \(feat\. James Arthur\)](https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sun Comes Up \(feat\. James Arthur\)](https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8) | 3:52 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 71 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
 | 72 | [Rubycon](https://open.spotify.com/track/6oZO8pH4lTDQxjSsfosuDo) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [The Virgin Years: 1974\-1978](https://open.spotify.com/album/2vqzKJO8HeMffaSHxg74ln) | 3:08 |
 
-Snapshot ID: `MTY2ODQ2MjcwMCwwMDAwMDAwMGU0ZWVjNjkyNGUxMTUxOGIxN2E0M2MyZWVjYjMxZmI1`
+Snapshot ID: `MTY2ODQ2MjcwMCwwMDAwMDAwMDIzMmNkMDgzMGE3N2ZmN2M3YThhZjYyZDg5ZDFmMzU2`

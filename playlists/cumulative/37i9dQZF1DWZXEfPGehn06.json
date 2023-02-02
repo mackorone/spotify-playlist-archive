@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-20",
   "description": "Sit back, relax, and let some legendary pianists take a turn at the keyboard. These are the most iconic piano pieces by Mozart.",
   "name": "Mozart Piano",
-  "published_playlist_ids": [
-    "5RX0haKiE4rsBnFORL6A6B"
-  ],
   "tracks": [
     {
       "album": {
@@ -949,7 +946,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 918413,
-      "name": "Piano Concerto No. 20 in D Minor, K. 466: 1. Allegro - Live",
+      "name": "Piano Concerto No. 20 in D Minor, K. 466: I. Allegro - Live",
       "url": "https://open.spotify.com/track/26Sy5Q3KlhTap2zVcAAVFc"
     },
     {
@@ -975,7 +972,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 575760,
-      "name": "Piano Concerto No. 20 in D Minor, K. 466: 2. Romance - Live",
+      "name": "Piano Concerto No. 20 in D Minor, K. 466: II. Romance - Live",
       "url": "https://open.spotify.com/track/5iNbFdlGQ7d1y2HfIfvdNP"
     },
     {
@@ -1001,7 +998,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 511413,
-      "name": "Piano Concerto No. 20 in D Minor, K. 466: 3. Rondo. Allegro assai - Live",
+      "name": "Piano Concerto No. 20 in D Minor, K. 466: III. Rondo. Allegro assai - Live",
       "url": "https://open.spotify.com/track/1OPjqkbD2W7sBNcZU5skdc"
     },
     {
@@ -2066,28 +2063,6 @@
     },
     {
       "album": {
-        "name": "Mozart: The Piano Sonatas, Vol.1 (Complete Mozart Edition)",
-        "url": "https://open.spotify.com/album/1M06kPPqpWjLSIeziv5WkN"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Mitsuko Uchida",
-          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
-        }
-      ],
-      "date_added": "2022-08-18",
-      "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
-      "duration_ms": 224800,
-      "name": "Piano Sonata No. 5 in G, K.283: 1. Allegro",
-      "url": "https://open.spotify.com/track/2673c0q9A7G3efp0zzADaI"
-    },
-    {
-      "album": {
         "name": "Mozart: The Piano Sonatas",
         "url": "https://open.spotify.com/album/39E5TLqxXs6QttsbEDPvzZ"
       },
@@ -2105,7 +2080,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 232306,
-      "name": "Piano Sonata No. 5 in G, K.283: 1. Allegro",
+      "name": "Piano Sonata No. 5 in G Major, K. 283: I. Allegro",
       "url": "https://open.spotify.com/track/4Z08eYEBW8UGVEKHlVXCqR"
     },
     {
@@ -2127,8 +2102,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 377200,
-      "name": "Piano Sonata No. 5 in G, K.283: 2. Andante",
+      "name": "Piano Sonata No. 5 in G Major, K. 283: II. Andante",
       "url": "https://open.spotify.com/track/7LGkBu8hHP8CWweOO1ZccB"
+    },
+    {
+      "album": {
+        "name": "Mozart: The Piano Sonatas, Vol.1 (Complete Mozart Edition)",
+        "url": "https://open.spotify.com/album/1M06kPPqpWjLSIeziv5WkN"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 224800,
+      "name": "Piano Sonata No. 5 in G, K.283: 1. Allegro",
+      "url": "https://open.spotify.com/track/2673c0q9A7G3efp0zzADaI"
     },
     {
       "album": {

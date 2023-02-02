@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0RTz1jFo5BXGPfI8eVf8sj.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 58 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/0RTz1jFo5BXGPfI8eVf8sj.md) - [plain]
 | 29 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 |
 | 30 | [1985](https://open.spotify.com/track/4UuHWIkAWnN176A2rx7YFB) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/7JST4gPYSXFegyuk9nKFb0) | 3:13 |
 | 31 | [One Time](https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:35 |
-| 32 | [Sunday Candy](https://open.spotify.com/track/6fTdcGsjxlAD9PSkoPaLMX) | [Donnie Trumpet & The Social Experiment](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 3:46 |
+| 32 | [Sunday Candy](https://open.spotify.com/track/6fTdcGsjxlAD9PSkoPaLMX) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 3:46 |
 | 33 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
 | 34 | [Señorita](https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:54 |
 | 35 | [Beautiful Girls](https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Beautiful Girls](https://open.spotify.com/album/71clfVkkopYLrgweVj2cow) | 3:45 |

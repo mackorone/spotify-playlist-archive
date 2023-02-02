@@ -1,12 +1,12 @@
 {
   "description": "All of the best Celtic punk tracks. Cover: The Dreadnoughts",
-  "num_followers": 333055,
+  "num_followers": 345872,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYxNTU3MSwwMDAwMDAwMDg3MWRmMTQxNmRjNzYyMTRmNDJlOTE3YTU0ZmEwNDQ0",
+  "snapshot_id": "MTY0NzYxNTU3MSwwMDAwMDAwMGI2YTBhZTI2NTJkZWU3NDdiYjE4YjBhZTc0MWVmY2Ux",
   "tracks": [
     {
       "added_at": "2022-03-18 14:59:31",
@@ -75,6 +75,38 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
+        "name": "Rum Sodomy & The Lash (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Sally MacLennane",
+      "url": "https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
         "name": "Modem Operandi",
         "url": "https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg"
       },
@@ -91,18 +123,34 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Rum Sodomy & The Lash (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO"
+        "name": "Swagger",
+        "url": "https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN"
       },
       "artists": [
         {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
         }
       ],
-      "duration_ms": 165493,
-      "name": "Sally MacLennane",
-      "url": "https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH"
+      "duration_ms": 239653,
+      "name": "Devil's Dance Floor",
+      "url": "https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Polka's Not Dead",
+        "url": "https://open.spotify.com/album/5V7rg6LPNl4TgqiGzA4kZH"
+      },
+      "artists": [
+        {
+          "name": "The Dreadnoughts",
+          "url": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "Sleep Is for the Weak",
+      "url": "https://open.spotify.com/track/3tkXg3freIdvTxN58YUPaG"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -139,114 +187,18 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Swagger",
-        "url": "https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN"
+        "name": "Green Blood",
+        "url": "https://open.spotify.com/album/4AAQCgvQvR3RRpJdxRvNCl"
       },
       "artists": [
         {
-          "name": "Flogging Molly",
-          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+          "name": "The O'Reillys and the Paddyhats",
+          "url": "https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ"
         }
       ],
-      "duration_ms": 239653,
-      "name": "Devil's Dance Floor",
-      "url": "https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Rose Tattoo",
-      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Polka's Not Dead",
-        "url": "https://open.spotify.com/album/5V7rg6LPNl4TgqiGzA4kZH"
-      },
-      "artists": [
-        {
-          "name": "The Dreadnoughts",
-          "url": "https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "Sleep Is for the Weak",
-      "url": "https://open.spotify.com/track/3tkXg3freIdvTxN58YUPaG"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "With All Due Respect: The Irish Sessions",
-        "url": "https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B"
-      },
-      "artists": [
-        {
-          "name": "Young Dubliners",
-          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "The Foggy Dew",
-      "url": "https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
-      },
-      "artists": [
-        {
-          "name": "Blaggards",
-          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
-        }
-      ],
-      "duration_ms": 158213,
-      "name": "Drunken Sailor",
-      "url": "https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Sleepin' Rough",
-        "url": "https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW"
-      },
-      "artists": [
-        {
-          "name": "The Rumjacks",
-          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
-        }
-      ],
-      "duration_ms": 287186,
-      "name": "A Fistful O' Roses",
-      "url": "https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Westwinds",
-        "url": "https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO"
-      },
-      "artists": [
-        {
-          "name": "The Real McKenzies",
-          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "The Tempest",
-      "url": "https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx"
+      "duration_ms": 174746,
+      "name": "Yesterday's Rebel",
+      "url": "https://open.spotify.com/track/3rldsE7VbNG5jXv2LGNKF8"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -267,18 +219,50 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Into the Night",
-        "url": "https://open.spotify.com/album/2CdQhqlGScDcSE4cBLgj1b"
+        "name": "With All Due Respect: The Irish Sessions",
+        "url": "https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B"
       },
       "artists": [
         {
-          "name": "Firkin",
-          "url": "https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF"
+          "name": "Young Dubliners",
+          "url": "https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj"
         }
       ],
-      "duration_ms": 155041,
-      "name": "Into the Night",
-      "url": "https://open.spotify.com/track/2n1gX9ahXB2bXJi1cUtwo9"
+      "duration_ms": 191906,
+      "name": "The Foggy Dew",
+      "url": "https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Sleepin' Rough",
+        "url": "https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "duration_ms": 287186,
+      "name": "A Fistful O' Roses",
+      "url": "https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
+      },
+      "artists": [
+        {
+          "name": "Blaggards",
+          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
+        }
+      ],
+      "duration_ms": 158213,
+      "name": "Drunken Sailor",
+      "url": "https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -299,18 +283,34 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "25 Blarney Roses",
-        "url": "https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5"
+        "name": "Into the Night",
+        "url": "https://open.spotify.com/album/2CdQhqlGScDcSE4cBLgj1b"
       },
       "artists": [
         {
-          "name": "Fiddler's Green",
-          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+          "name": "Firkin",
+          "url": "https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF"
         }
       ],
-      "duration_ms": 207040,
-      "name": "Victor and His Demons",
-      "url": "https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv"
+      "duration_ms": 155041,
+      "name": "Into the Night",
+      "url": "https://open.spotify.com/track/2n1gX9ahXB2bXJi1cUtwo9"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Westwinds",
+        "url": "https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "duration_ms": 248733,
+      "name": "The Tempest",
+      "url": "https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
+        "name": "25 Blarney Roses",
+        "url": "https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5"
+      },
+      "artists": [
+        {
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Victor and His Demons",
+      "url": "https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
         "name": "The Bollox",
         "url": "https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 224732,
       "name": "Tura Lu",
       "url": "https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "On A Fine Spring Evening",
-        "url": "https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW"
-      },
-      "artists": [
-        {
-          "name": "The Tossers",
-          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "The Rocky Road To Dublin",
-      "url": "https://open.spotify.com/track/59sa6RabsXP6xXIPA2UAb6"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
+        "name": "On A Fine Spring Evening",
+        "url": "https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW"
+      },
+      "artists": [
+        {
+          "name": "The Tossers",
+          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "The Rocky Road To Dublin",
+      "url": "https://open.spotify.com/track/59sa6RabsXP6xXIPA2UAb6"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
         "name": "Riot City Outlaws",
         "url": "https://open.spotify.com/album/6sJs55Ph5KQrQ8maznQSBw"
       },
@@ -395,18 +411,34 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Heyday (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL"
+        "name": "Saints Preserve Us",
+        "url": "https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc"
       },
       "artists": [
         {
-          "name": "Fiddler's Green",
-          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
         }
       ],
-      "duration_ms": 215613,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN"
+      "duration_ms": 271186,
+      "name": "The Foreman O'rourke",
+      "url": "https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 229101,
+      "name": "Smash Shit Up",
+      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -427,18 +459,18 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Saints Preserve Us",
-        "url": "https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc"
+        "name": "Heyday (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL"
       },
       "artists": [
         {
-          "name": "The Rumjacks",
-          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
         }
       ],
-      "duration_ms": 271186,
-      "name": "The Foreman O'rourke",
-      "url": "https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn"
+      "duration_ms": 215613,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -475,66 +507,18 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Sixth and Porter",
-        "url": "https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8"
+        "name": "Hestia",
+        "url": "https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o"
       },
       "artists": [
         {
-          "name": "The Kreellers",
-          "url": "https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn"
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
         }
       ],
-      "duration_ms": 173200,
-      "name": "Orange and the Green",
-      "url": "https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Raise 'em All",
-        "url": "https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I"
-      },
-      "artists": [
-        {
-          "name": "Irish Moutarde",
-          "url": "https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P"
-        }
-      ],
-      "duration_ms": 157875,
-      "name": "The Cabin",
-      "url": "https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "The Underdogs",
-        "url": "https://open.spotify.com/album/4037g1dZC3to82wXOwQYAg"
-      },
-      "artists": [
-        {
-          "name": "Sir Reg",
-          "url": "https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63"
-        }
-      ],
-      "duration_ms": 218867,
-      "name": "Fool (Fight of Our Lives)",
-      "url": "https://open.spotify.com/track/0FaTgXZvAq3vqRGWir79ew"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "This Is Our Day",
-        "url": "https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ"
-      },
-      "artists": [
-        {
-          "name": "The Roughneck Riot",
-          "url": "https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "This Is Our Day",
-      "url": "https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr"
+      "duration_ms": 215975,
+      "name": "Sainted Millions",
+      "url": "https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -555,18 +539,34 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Hestia",
-        "url": "https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o"
+        "name": "The Underdogs",
+        "url": "https://open.spotify.com/album/4037g1dZC3to82wXOwQYAg"
       },
       "artists": [
         {
-          "name": "The Rumjacks",
-          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+          "name": "Sir Reg",
+          "url": "https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63"
         }
       ],
-      "duration_ms": 215975,
-      "name": "Sainted Millions",
-      "url": "https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC"
+      "duration_ms": 218867,
+      "name": "Fool (Fight of Our Lives)",
+      "url": "https://open.spotify.com/track/0FaTgXZvAq3vqRGWir79ew"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Sixth and Porter",
+        "url": "https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8"
+      },
+      "artists": [
+        {
+          "name": "The Kreellers",
+          "url": "https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Orange and the Green",
+      "url": "https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -596,9 +596,57 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 229101,
-      "name": "Smash Shit Up",
-      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Raise 'em All",
+        "url": "https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I"
+      },
+      "artists": [
+        {
+          "name": "Irish Moutarde",
+          "url": "https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P"
+        }
+      ],
+      "duration_ms": 157875,
+      "name": "The Cabin",
+      "url": "https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Hestia",
+        "url": "https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "duration_ms": 159538,
+      "name": "Bullhead",
+      "url": "https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "This Is Our Day",
+        "url": "https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ"
+      },
+      "artists": [
+        {
+          "name": "The Roughneck Riot",
+          "url": "https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "This Is Our Day",
+      "url": "https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -651,22 +699,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "The Loyal Men",
-        "url": "https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788"
-      },
-      "artists": [
-        {
-          "name": "Black Tartan Clan",
-          "url": "https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt"
-        }
-      ],
-      "duration_ms": 195578,
-      "name": "Banks of the Roses",
-      "url": "https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "With All Due Respect: The Irish Sessions",
         "url": "https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B"
       },
@@ -699,6 +731,42 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
+        "name": "The Loyal Men",
+        "url": "https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788"
+      },
+      "artists": [
+        {
+          "name": "Black Tartan Clan",
+          "url": "https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt"
+        }
+      ],
+      "duration_ms": 195578,
+      "name": "Banks of the Roses",
+      "url": "https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Toss the Coin",
+        "url": "https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0"
+      },
+      "artists": [
+        {
+          "name": "The Rumpled",
+          "url": "https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6"
+        },
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/5YmZ8wmqrZulmgtOfLHAnx"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
         "name": "When the Shite Hits the Fans",
         "url": "https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK"
       },
@@ -711,54 +779,6 @@
       "duration_ms": 160146,
       "name": "Arsehole",
       "url": "https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Hestia",
-        "url": "https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o"
-      },
-      "artists": [
-        {
-          "name": "The Rumjacks",
-          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
-        }
-      ],
-      "duration_ms": 159538,
-      "name": "Bullhead",
-      "url": "https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/7wuhI5WnPheOTenvXEGxy9"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Regis",
-          "url": "https://open.spotify.com/artist/7ocwcmrX2Fhj5TW4q1BjWp"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Celtic Storm (2010)",
-      "url": "https://open.spotify.com/track/3GnmZYcYGFOwLisSqHRjJQ"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 155642,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -779,34 +799,18 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Sobriety",
-        "url": "https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs"
+        "name": "3 Cheers for 30 Years",
+        "url": "https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh"
       },
       "artists": [
         {
-          "name": "Jolly Jackers",
-          "url": "https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy"
+          "name": "Fiddler's Green",
+          "url": "https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe"
         }
       ],
-      "duration_ms": 151634,
-      "name": "Sobriety",
-      "url": "https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
-        "name": "Gringo Mariachi",
-        "url": "https://open.spotify.com/album/4IK6O0D4AV6PT6FxWSsZ2S"
-      },
-      "artists": [
-        {
-          "name": "The Wages of Sin",
-          "url": "https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "Skull Creek Logger",
-      "url": "https://open.spotify.com/track/6ZGdCZ2kyGgEXx5PjCji2Y"
+      "duration_ms": 201653,
+      "name": "Haul Away, Joe",
+      "url": "https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC"
     }
   ],
   "unique_name": "Celtic Punk",

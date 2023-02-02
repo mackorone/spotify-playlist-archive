@@ -4,7 +4,7 @@
 
 > Sunny chill songs and that beach vibe.
 
-69 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/7i1mJBg1w2RzqaCw3sjEqF)
+69 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

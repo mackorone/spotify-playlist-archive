@@ -4,12 +4,12 @@
 
 > The official playlist for The Pentaverate\. Watch now on Netflix.
 
-20 songs - 1 hr 37 min - [published](https://open.spotify.com/playlist/2ejXzKudn1N4saUgHzbyKX)
+20 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Cheers" Theme \(Full Length Record\)](https://open.spotify.com/track/0KiwlUzEr8AFl3EofUxZpj) | [Gary Portnoy](https://open.spotify.com/artist/53U1IJqr6Hhmn53UcbgF7D) | ["Cheers" Theme: Official Original Versions](https://open.spotify.com/album/6iI4oVgY6FuLucIUm1Jztw) | 2:31 | 2022-05-05 |  |
-| [America \- From "The Jazz Singer" Soundtrack](https://open.spotify.com/track/6OG7D7kfDJcB9bDmTPO0NS) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 4:18 | 2022-05-05 |  |
+| [America](https://open.spotify.com/track/6OG7D7kfDJcB9bDmTPO0NS) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 4:18 | 2022-05-05 |  |
 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2022-05-05 |  |
 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 | 2022-05-05 |  |
 | [Darkest Light](https://open.spotify.com/track/15zHPYdhz0iAC04e1mOtBV) | [Lafayette Afro Rock Band](https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s) | [Wanted Blaxploitation: From Diggers To Music Lovers](https://open.spotify.com/album/0ofqrJcRDIhNf1Ls8LjXXi) | 6:23 | 2022-05-05 | 2022-11-14 |

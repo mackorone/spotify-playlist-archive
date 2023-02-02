@@ -4,7 +4,7 @@
 
 > This is Cage The Elephant\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 15 min - not published yet
+37 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

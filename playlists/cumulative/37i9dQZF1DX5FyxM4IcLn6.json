@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The official playlist for the 64th GRAMMY Awards.",
   "name": "The GRAMMYs Official Playlist",
-  "published_playlist_ids": [
-    "4M8EQTBLyNauX4M36rMoZJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -1313,7 +1310,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222401,
-      "name": "Can't Get Out of This Mood",
+      "name": "Can't Get Out Of This Mood",
       "url": "https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye"
     },
     {
@@ -6989,7 +6986,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 237239,
       "name": "Silver Moon",
       "url": "https://open.spotify.com/track/5h166TVT3jk77HgfqCCIFi"
@@ -8009,6 +8006,28 @@
       "duration_ms": 239441,
       "name": "The Death Of Us",
       "url": "https://open.spotify.com/track/5zTg8hLkN1xOxWYp6g0Zkc"
+    },
+    {
+      "album": {
+        "name": "Lucifer On The Moon",
+        "url": "https://open.spotify.com/album/7ltJTN6vVRjhza6JR2sEnx"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        },
+        {
+          "name": "Adrian Sherwood",
+          "url": "https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 238212,
+      "name": "The Devil & Mister Jones - Adrian Sherwood Reconstruction",
+      "url": "https://open.spotify.com/track/4QytAumgv7KICnT6yZPWgb"
     },
     {
       "album": {
@@ -9213,6 +9232,24 @@
       "duration_ms": 189173,
       "name": "Who You Thought I Was",
       "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
+    },
+    {
+      "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193277,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
     },
     {
       "album": {

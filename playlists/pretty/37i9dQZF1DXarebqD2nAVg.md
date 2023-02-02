@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,893 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,892 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly](https://open.spotify.com/artist/12E1nswgTW7QPMYWs0oXrE) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
+| 1 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 |
 | 2 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 |
 | 3 | [Home Soon](https://open.spotify.com/track/0plIIWDys4UBGmura01RpY) | [yuzu blur](https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R) | [Home Soon](https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k) | 2:24 |
 | 4 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
 | 5 | [unwanted](https://open.spotify.com/track/43VHPo6joBAvIMZ1KJTukf) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Mixed Emotions](https://open.spotify.com/album/3igfYDpmMHHpErLb8vD3pg) | 2:11 |
 | 6 | [disappear](https://open.spotify.com/track/3x1edFtdUWSV6bFmAdHO3u) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [disappear](https://open.spotify.com/album/3innYFypOVQEwccHtItsh6) | 1:49 |
 | 7 | [Memories Fade](https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:27 |
-| 8 | [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 |
+| 8 | [i'm closing my eyes](https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w) | 1:58 |
 | 9 | [Sick of This](https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu) | 3:53 |
 | 10 | [No More](https://open.spotify.com/track/7cp4RhTjLWv4XEyeJLcbrp) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [No More](https://open.spotify.com/album/6cRPoaVpeyxtkM6IvZqwut) | 3:10 |
 | 11 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 25 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 |
 | 26 | [Waiting for You](https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T), [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [D97](https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3) | 3:50 |
 | 27 | [Anything Like Her \(feat\. Tiffi\)](https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [Snow Rose](https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9) | 3:11 |
-| 28 | [harbor](https://open.spotify.com/track/6pn1Irt9QHN3F0MSODlItV) | [shogonodo](https://open.spotify.com/artist/0AvxQyO8YtsZQn0OYqbNxx) | [harbor](https://open.spotify.com/album/1TUQ3R4sHrb8dDRA75QRYn) | 2:13 |
+| 28 | [harbor](https://open.spotify.com/track/6rdaAm9JfVbwQUy6PVqNzv) | [shogonodo](https://open.spotify.com/artist/0AvxQyO8YtsZQn0OYqbNxx) | [harbor](https://open.spotify.com/album/7lUFGPgW9uDcFtVtji6ePc) | 2:12 |
 | 29 | [Timeless](https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX) | [Floreyyyy](https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv) | [Timeless](https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm) | 2:28 |
 | 30 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 |
 | 31 | [Now, I See](https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 49 | [mangos](https://open.spotify.com/track/2d2ZOEYuXYnvdW7ZA3ZyRS) | [mindbody&beats](https://open.spotify.com/artist/09ziI4OFiSlExXt4CE3NLB) | [sundays.](https://open.spotify.com/album/5RqAijRRjT6vk53rvV3jTh) | 2:00 |
 | 50 | [Blue](https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i) | 2:03 |
 
-Snapshot ID: `MTU1MzcyOTU2MCwwMDAwMDAwMDQ5NWU2NWJmMWU4OTA2ZjdlMWI4OWFhY2E1OTEyNTU2`
+Snapshot ID: `MTU1MzcyOTU2MCwwMDAwMDAwMDZhYmExZWE5NjVhY2RiODY0ZTNiMTRmNWY4ZTZiZDk0`

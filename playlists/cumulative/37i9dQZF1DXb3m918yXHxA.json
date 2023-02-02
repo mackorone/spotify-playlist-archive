@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
   "name": "Yacht Rock",
-  "published_playlist_ids": [
-    "5vWhtnXr3d9iOKCLTHbHXQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -113,7 +110,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 253653,
       "name": "All Right",
       "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
@@ -587,7 +584,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 322333,
       "name": "Heart to Heart",
       "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
@@ -731,7 +728,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 235333,
       "name": "I Gotta Try",
       "url": "https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY"
@@ -962,6 +959,24 @@
     },
     {
       "album": {
+        "name": "A Special Part of Me",
+        "url": "https://open.spotify.com/album/0fsaqMo4DhrOmjOiPl6bBp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 259560,
+      "name": "Love Never Felt So Good",
+      "url": "https://open.spotify.com/track/0UkVtmw0ZzEd9vzAa7Ocnu"
+    },
+    {
+      "album": {
         "name": "Worlds Away",
         "url": "https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK"
       },
@@ -1081,7 +1096,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-12",
       "duration_ms": 271666,
       "name": "Magic",
       "url": "https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs"
@@ -1377,6 +1392,24 @@
     {
       "album": {
         "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
+    },
+    {
+      "album": {
+        "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
       "artists": [
@@ -1387,7 +1420,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
@@ -1430,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Sailing / Poor Shirley (Digital 45)",
+        "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255453,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -1441,7 +1492,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 256146,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
@@ -1907,7 +1958,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 226066,
       "name": "We're in This Love Together",
       "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"

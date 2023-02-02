@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best alternative songs of the decade so far. Cover: Grimes",
+  "description": "The best alternative songs of the decade. Cover: The 1975",
   "name": "Alternative 10s",
-  "published_playlist_ids": [
-    "2Ui9272wdN8QbSdg7t8gMR"
-  ],
   "tracks": [
     {
       "album": {
@@ -974,6 +971,24 @@
     },
     {
       "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 224640,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
+    },
+    {
+      "album": {
         "name": "Just Enough Hip To Be Woman",
         "url": "https://open.spotify.com/album/1bM7YCtDmITctjVq1BSyAo"
       },
@@ -1093,7 +1108,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
@@ -1295,7 +1310,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 239508,
       "name": "Death with Dignity",
       "url": "https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY"
@@ -2221,7 +2236,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 245240,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
@@ -2409,6 +2424,28 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
+    },
+    {
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "album": {
@@ -3717,7 +3754,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 298920,
       "name": "Red Eyes",
       "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
@@ -3861,10 +3898,28 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
     },
     {
       "album": {
@@ -4755,7 +4810,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 141040,
       "name": "The Moon Song",
       "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"

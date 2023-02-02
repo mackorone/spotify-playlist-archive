@@ -4,7 +4,7 @@
 
 > Enjoy your morning to great breakfast dub beats.
 
-24 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/6RupOzfZxDj3kAwi2WBIS4)
+24 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

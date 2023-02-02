@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MZMfAvs6zl.md) - [plain]
 
 > South African rising star <a href="spotify:artist:0fs9otT9TtwXUOcFXZomZY">Caiiro</a> perfectly blends together the rhythmic beats from his home country with emotional melodies in his latest mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 9 songs - 54 min 50 sec
+[Spotify](https://open.spotify.com/user/spotify) - 824 likes - 9 songs - 54 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

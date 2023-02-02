@@ -4,10 +4,13 @@
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©N,K/Q　©N,K/Q2　©N,K/GM
 
-77 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/62tGCSpgpxlmk3AbALLneu)
+80 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#1 映画【五等分の花嫁】伊藤美来×佐倉綾音「ゼミ中に決まりました！＆三玖が良かった～！」](https://open.spotify.com/episode/1QfvyFbq5faE2XjYhFG0pS) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 30:55 | 2022-05-24 | 2023-01-20 |
+| [\#2 映画【五等分の花嫁】伊藤美来×佐倉綾音×水瀬いのり「風太郎のことどう思う？」](https://open.spotify.com/episode/4sHJHzVquyDqL48I92TKxi) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 36:31 | 2022-05-24 | 2023-01-20 |
+| [\#3 映画【五等分の花嫁】松岡禎丞×竹達彩奈「ニ乃のグイグイ感は真似できない！」](https://open.spotify.com/episode/4kMtuvHWDpKCEZU5im9Jeh) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 33:18 | 2022-05-24 | 2023-01-20 |
 | [Aitsu to Kimi \~ Nidoto Nai Unmei \~](https://open.spotify.com/track/6g4qsEA3NvR2OD9wYAa8Jr) | [Nakano Nino \(CV: Ayana Taketatsu\)](https://open.spotify.com/artist/3FukSXssXTJRXtrK0TC87I) | ["Gotoubun no Hanayome" Character Song Mini Album](https://open.spotify.com/album/6B70H9uBz4zg3QGEyTAlQP) | 3:42 | 2022-05-24 |  |
 | [Aitsu to Kimi \~Nidotonai Unmei\~ \- Colate Round & Beat Edit](https://open.spotify.com/track/4839EwKiGDRSQ3iiNhltY2) | [Nakano Nino \(CV: Ayana Taketatsu\)](https://open.spotify.com/artist/3FukSXssXTJRXtrK0TC87I) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/3ad7KbHVdttTlU8d6zhQu3) | 3:33 | 2022-05-24 |  |
 | [Gobun no Ichi](https://open.spotify.com/track/10qqd7XJ1rVvF8slz7QASv) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kimochi](https://open.spotify.com/album/7yxlH8ETeuBgY4TBJ75ynI) | 4:50 | 2022-05-24 |  |

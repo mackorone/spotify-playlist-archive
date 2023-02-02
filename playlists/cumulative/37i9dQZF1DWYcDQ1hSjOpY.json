@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Soothing, minimalist ambient for deep sleep.",
   "name": "Deep Sleep",
-  "published_playlist_ids": [
-    "407tH31qlKbYTcYf0IA7yj"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,6 +56,24 @@
       "duration_ms": 169352,
       "name": "A Neutral Place",
       "url": "https://open.spotify.com/track/6Db6Cz42MGCRkM28KHivIy"
+    },
+    {
+      "album": {
+        "name": "A Night Full Of Stars",
+        "url": "https://open.spotify.com/album/46MohKiyZoPYkMhnQKcbfV"
+      },
+      "artists": [
+        {
+          "name": "Soft Voyage",
+          "url": "https://open.spotify.com/artist/4FDnFOfVVVFWDNecPIbaYo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "A Night Full Of Stars",
+      "url": "https://open.spotify.com/track/550zqNehla4IUSDFgMNDYB"
     },
     {
       "album": {
@@ -149,6 +164,24 @@
       "duration_ms": 171622,
       "name": "Alma",
       "url": "https://open.spotify.com/track/2j9r4JRWjLsFn7VEibICxz"
+    },
+    {
+      "album": {
+        "name": "Alpha Dreams",
+        "url": "https://open.spotify.com/album/6U8fBuy5ltxivJRegBo86P"
+      },
+      "artists": [
+        {
+          "name": "Eline Moss",
+          "url": "https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174844,
+      "name": "Alpha Dreams",
+      "url": "https://open.spotify.com/track/3MDDGJM0bnteDQY4vQjxQ5"
     },
     {
       "album": {
@@ -253,7 +286,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 253047,
       "name": "Amoralis",
       "url": "https://open.spotify.com/track/6hVsOvinmJAGJJpXxpPhDy"
@@ -517,8 +550,8 @@
       },
       "artists": [
         {
-          "name": "Yepon",
-          "url": "https://open.spotify.com/artist/1E2Fc4yuG4UokQJs4NfgjA"
+          "name": "Haldur",
+          "url": "https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx"
         }
       ],
       "date_added": "2022-11-11",
@@ -959,6 +992,24 @@
       "duration_ms": 204784,
       "name": "Calm Patient",
       "url": "https://open.spotify.com/track/78ZMJYYePMsMltUFFV3X8S"
+    },
+    {
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/3UKA0KYjJIv0LlfgpXuhrD"
+      },
+      "artists": [
+        {
+          "name": "Jademaia",
+          "url": "https://open.spotify.com/artist/3uwKWfXJqlKUArdZKjx0uo"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153173,
+      "name": "Caminando",
+      "url": "https://open.spotify.com/track/6dnW0O6xZKlPvMe7TzU1yH"
     },
     {
       "album": {
@@ -2096,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "Anya",
+        "url": "https://open.spotify.com/album/2kfA1EeuBVBTpXdQrOFdZC"
+      },
+      "artists": [
+        {
+          "name": "Vinyardo",
+          "url": "https://open.spotify.com/artist/2wQMVtkA9XenZkYUbyoE1Y"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Elude",
+      "url": "https://open.spotify.com/track/3IIX3ZJHdlQ7jJc13FOKH9"
+    },
+    {
+      "album": {
         "name": "Emerald Isles",
         "url": "https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd"
       },
@@ -2168,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Equality",
+        "url": "https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ"
+      },
+      "artists": [
+        {
+          "name": "Adumbration",
+          "url": "https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214278,
+      "name": "Equality",
+      "url": "https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga"
+    },
+    {
+      "album": {
         "name": "Erlaxatu",
         "url": "https://open.spotify.com/album/7CfQJT2XMbcy52URkSYap1"
       },
@@ -2222,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Eternal Spaces",
+        "url": "https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8"
+      },
+      "artists": [
+        {
+          "name": "Mystisse",
+          "url": "https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168874,
+      "name": "Eternal Spaces",
+      "url": "https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq"
+    },
+    {
+      "album": {
         "name": "Ethereal",
         "url": "https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI"
       },
@@ -2259,6 +2364,24 @@
       "duration_ms": 193374,
       "name": "Europa",
       "url": "https://open.spotify.com/track/5A3kw1qZP3UQwzfALXmVFd"
+    },
+    {
+      "album": {
+        "name": "Evanescenza",
+        "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Calmaz",
+          "url": "https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235716,
+      "name": "Evanescenza",
+      "url": "https://open.spotify.com/track/28WP5mwpfzMw4oVSBXkWgu"
     },
     {
       "album": {
@@ -2663,8 +2786,8 @@
       },
       "artists": [
         {
-          "name": "Juli\u00fas Reis",
-          "url": "https://open.spotify.com/artist/4gGuCmlhgQXVqu56mIYGes"
+          "name": "Forsintha",
+          "url": "https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML"
         }
       ],
       "date_added": "2022-11-11",
@@ -2748,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "Hiemal",
+        "url": "https://open.spotify.com/album/7oKLhCmpADNtLE1j2v8f3i"
+      },
+      "artists": [
+        {
+          "name": "Klaangen",
+          "url": "https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167886,
+      "name": "Hiemal",
+      "url": "https://open.spotify.com/track/7EZKkc9CWvBoB52E2g2rFP"
+    },
+    {
+      "album": {
         "name": "Between Camerae",
         "url": "https://open.spotify.com/album/64c0jCqYkzq1jhxFTve3Bq"
       },
@@ -2784,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/6Wk54eiOWaHHWGQ8n5oGKh"
+      },
+      "artists": [
+        {
+          "name": "Thalia Mathis",
+          "url": "https://open.spotify.com/artist/3qwAV5INzjLjEyls7XyA9F"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154503,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/5UTGQ7EW9lD4sCJs1QjL9l"
+    },
+    {
+      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/7BddZNhcTyWCJnnglynrT3"
       },
@@ -2799,6 +2958,24 @@
       "duration_ms": 145241,
       "name": "Hybrid",
       "url": "https://open.spotify.com/track/1VRFoW2WUOY4FxQNvdTcja"
+    },
+    {
+      "album": {
+        "name": "If Ever Two Were One",
+        "url": "https://open.spotify.com/album/6ircWe4J1ug26qcNNQTuuT"
+      },
+      "artists": [
+        {
+          "name": "Troy Fuentes",
+          "url": "https://open.spotify.com/artist/7FsKe2FZdoq66vdqJjIMCM"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166986,
+      "name": "If Ever Two Were One",
+      "url": "https://open.spotify.com/track/725z4lty7B7pcrBzg4udLU"
     },
     {
       "album": {
@@ -4026,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/4KXF0ecJzcJnMzoSFwBLxF"
+      },
+      "artists": [
+        {
+          "name": "Hausste",
+          "url": "https://open.spotify.com/artist/5Oz6ivFBe8vVFznXeggj30"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159199,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/1LQlKIWA4eQqJg7KFdlyou"
+    },
+    {
+      "album": {
         "name": "Nox",
         "url": "https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc"
       },
@@ -4149,6 +4344,24 @@
       "duration_ms": 201746,
       "name": "Omnisleep",
       "url": "https://open.spotify.com/track/5FdpUpxs471V28sEhF0VC7"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/2CER0mLv1rppcaM40XpAqe"
+      },
+      "artists": [
+        {
+          "name": "Ann Windsor",
+          "url": "https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213772,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/30RuRqJ2qdSNgNy5lM4w6D"
     },
     {
       "album": {
@@ -4674,6 +4887,24 @@
     },
     {
       "album": {
+        "name": "Ayudarme",
+        "url": "https://open.spotify.com/album/1auxggMk9ZEffExwWJvMcz"
+      },
+      "artists": [
+        {
+          "name": "Lia Ventie",
+          "url": "https://open.spotify.com/artist/3pYx1bZWCGHLXHeiicrQDK"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120267,
+      "name": "Regalo",
+      "url": "https://open.spotify.com/track/5qcmNLdFifX58Gv1GurM3D"
+    },
+    {
+      "album": {
         "name": "Relaksohuni",
         "url": "https://open.spotify.com/album/0067doxs6tNJaqwtweBdrQ"
       },
@@ -4743,6 +4974,24 @@
       "duration_ms": 176441,
       "name": "Resolvation",
       "url": "https://open.spotify.com/track/6QsiRBMCsArD9PdKHGy2xJ"
+    },
+    {
+      "album": {
+        "name": "Resting Mode",
+        "url": "https://open.spotify.com/album/37aLyVyJDi2iUHZhTRq0Cg"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Crew",
+          "url": "https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144109,
+      "name": "Resting Mode",
+      "url": "https://open.spotify.com/track/4M4pPhb3nKessOfO2luI7M"
     },
     {
       "album": {
@@ -4859,8 +5108,8 @@
       },
       "artists": [
         {
-          "name": "Idamal",
-          "url": "https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu"
+          "name": "Haldur",
+          "url": "https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx"
         }
       ],
       "date_added": "2022-08-23",
@@ -4877,8 +5126,8 @@
       },
       "artists": [
         {
-          "name": "Kai Carney",
-          "url": "https://open.spotify.com/artist/3auOPI2xcAVuyR6ULTIlqM"
+          "name": "Mellow Dreamer",
+          "url": "https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj"
         }
       ],
       "date_added": "2022-06-16",
@@ -4985,8 +5234,8 @@
       },
       "artists": [
         {
-          "name": "Joek Hama",
-          "url": "https://open.spotify.com/artist/7wkpPtXuouEF1JzsvwyO0w"
+          "name": "Mina Rojas",
+          "url": "https://open.spotify.com/artist/492hHpujOt6WZGWFSy2712"
         }
       ],
       "date_added": "2022-11-11",
@@ -5214,6 +5463,24 @@
     },
     {
       "album": {
+        "name": "Sleep Loop",
+        "url": "https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM"
+      },
+      "artists": [
+        {
+          "name": "Eckhart Lange",
+          "url": "https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Sleep Loop",
+      "url": "https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ"
+    },
+    {
+      "album": {
         "name": "Sleepwaves",
         "url": "https://open.spotify.com/album/0B0KkOA8LKhE16HTnPq1aX"
       },
@@ -5427,6 +5694,24 @@
       "duration_ms": 196491,
       "name": "Soul Connect",
       "url": "https://open.spotify.com/track/1EVG8oKkYocWnjot9oPZHB"
+    },
+    {
+      "album": {
+        "name": "Soundness",
+        "url": "https://open.spotify.com/album/4uSscDI9dHSSI62hpoaHCp"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Sine",
+          "url": "https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185430,
+      "name": "Soundness",
+      "url": "https://open.spotify.com/track/45rdJZmlX5VNVcBEqEO89p"
     },
     {
       "album": {
@@ -5661,6 +5946,24 @@
       "duration_ms": 159714,
       "name": "Sue\u00f1o",
       "url": "https://open.spotify.com/track/4PmZSLWRuKyMgAJuAgZ1T6"
+    },
+    {
+      "album": {
+        "name": "Sunsets",
+        "url": "https://open.spotify.com/album/0Mj9eUyWpxwOcCE387OpRl"
+      },
+      "artists": [
+        {
+          "name": "Siona Swin",
+          "url": "https://open.spotify.com/artist/5zULMyrVBmeq8ommEfkb5U"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Sunsets",
+      "url": "https://open.spotify.com/track/0gGV5b1xukai7PntTpPFBR"
     },
     {
       "album": {
@@ -5988,6 +6291,24 @@
     },
     {
       "album": {
+        "name": "Tillbakalutande",
+        "url": "https://open.spotify.com/album/6tJFLs7M0pE7ZTuCllaBDk"
+      },
+      "artists": [
+        {
+          "name": "Eleonora Feldt",
+          "url": "https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163408,
+      "name": "Tillbakalutande",
+      "url": "https://open.spotify.com/track/4oAVmszDgIihib6QBxqjEh"
+    },
+    {
+      "album": {
         "name": "On the Davenport",
         "url": "https://open.spotify.com/album/5jnoMpc62TVfL6v8ljsdwf"
       },
@@ -6075,6 +6396,24 @@
       "duration_ms": 179789,
       "name": "Uitblinken",
       "url": "https://open.spotify.com/track/5b0EbWEsagMNqlSPRk8FXb"
+    },
+    {
+      "album": {
+        "name": "Ultraviolet Dream",
+        "url": "https://open.spotify.com/album/3KXRBPQAbUeBveuZ4yEWTo"
+      },
+      "artists": [
+        {
+          "name": "Pax Magnolia",
+          "url": "https://open.spotify.com/artist/1rTNvNMPdbMrZwTzvu1e7U"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165393,
+      "name": "Ultraviolet Dream",
+      "url": "https://open.spotify.com/track/2RvWqqueP3Qfwqn0s3dWCI"
     },
     {
       "album": {

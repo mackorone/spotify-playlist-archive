@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,424 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,224 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Night Scented Stock \- 2018 Remaster](https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 0:52 |
 | 2 | [Everybody Walkin' This Land](https://open.spotify.com/track/7LXLgoroFNCQQpMQt0tMA7) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Everybody Walkin' This Land](https://open.spotify.com/album/4JkTiX8mi8aEkAg8Pmal3c) | 3:06 |
-| 3 | [Little Red Riding Hood \- Slowed](https://open.spotify.com/track/7obA90qRdvJJ8ndwFwGmo8) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Little Red Riding Hood](https://open.spotify.com/album/0oGc7NjZ0GaBdzgT8Zjswn) | 3:13 |
+| 3 | [Little Red Riding Hood \- Slowed](https://open.spotify.com/track/1woIsytjwWa4RQZujuVD8X) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Little Red Riding Hood](https://open.spotify.com/album/0RXFnO2m2z4QQfHMfFTzNv) | 3:13 |
 | 4 | [The Gift of the Rose \(from the Netflix Series "Devil In Ohio"\)](https://open.spotify.com/track/5QS2WK90AEed7xEu0sDNSl) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj), [Elise McQueen](https://open.spotify.com/artist/5EMZRBtkW7gdgNubSlJVXI) | [Devil in Ohio \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Gol9mxUCltXsbjADNh4U1) | 2:38 |
 | 5 | [Ain't No Grave](https://open.spotify.com/track/4H4B97UMURWsNybgJWhQBo) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:21 |
 | 6 | [Built on Bones](https://open.spotify.com/track/1lpUCvji6ZrKCYCqWhwxdK) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM), [Alisa Amador](https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t), [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Built on Bones](https://open.spotify.com/album/4DVKihWDy1EqFxUVXTu7EP) | 4:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 69 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 70 | [Bad Magic](https://open.spotify.com/track/7bxuX0YTV3lhUFi2qdEnbN) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The Innocents](https://open.spotify.com/album/4iyQ6mS7JUElDGGq2Ix09P) | 5:54 |
 
-Snapshot ID: `MTY2Njg4NzkwNSwwMDAwMDAwMGVmNmViYmFhODVkYWJjN2JhYjY4NjMyZjE1YzNmNTZh`
+Snapshot ID: `MTY2Njg4NzkwNSwwMDAwMDAwMGIyN2UxZjQ2ZWI2MTg1ZDdlMzdhYTIwYTNlMGFiZWVl`

@@ -4,7 +4,7 @@
 
 > Celebrate one year of Spotify and PlayStation with the biggest tracks.
 
-100 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/7li6SFgQvIdjHK3QoD4iGk)
+100 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Here](https://open.spotify.com/track/1wYZZtamWTQAoj8B812uKQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/3rDbA12I5duZnlwakqDdZa) | 3:19 | 2016-04-19 |  |
 | [Hey Mama \(feat\. Nicki Minaj, Bebe Rexha & Afrojack\)](https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:12 | 2016-04-19 |  |
 | [Hotline Bling](https://open.spotify.com/track/1UfBAJfmofTffrae5ls6DA) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Hotline Bling](https://open.spotify.com/album/2rTxwqA6v4lccbPKD31CQI) | 4:27 | 2016-04-19 |  |
-| [How Deep is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 | 2016-04-19 |  |
+| [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 | 2016-04-19 |  |
 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 | 2016-04-19 |  |
 | [I Don't Like It, I Love It \(feat\. Robin Thicke & Verdine White\)](https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:44 | 2016-04-19 |  |
 | [I Really Like You](https://open.spotify.com/track/0PGLRTN0X6DrXh645WJCIY) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion](https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV) | 3:24 | 2016-04-19 |  |

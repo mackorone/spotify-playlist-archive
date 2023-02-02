@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Keep calm and enjoy this musical cafecito.",
   "name": "Caf\u00e9 con Leche",
-  "published_playlist_ids": [
-    "1pJKLpr1AvZE73wFaOC9eU"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,6 +56,24 @@
       "duration_ms": 157617,
       "name": "A M\u00ed y a Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
+    },
+    {
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209461,
+      "name": "a tu ladito",
+      "url": "https://open.spotify.com/track/69XX44yQelAW0mM1NUFk2H"
     },
     {
       "album": {
@@ -239,7 +254,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 217031,
       "name": "Amiga Cruel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
@@ -503,7 +518,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2022-12-31",
       "duration_ms": 234750,
       "name": "Ausente",
       "url": "https://open.spotify.com/track/5Y7TAGEM42zS5MOxkBr1nD"
@@ -942,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Mujer El\u00e9ctrica",
+        "url": "https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113639,
+      "name": "Caf\u00e9 Con Leche",
+      "url": "https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY"
+    },
+    {
+      "album": {
         "name": "Calle Cima",
         "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
       },
@@ -1109,6 +1142,24 @@
       "duration_ms": 191474,
       "name": "Cenizas y Miel",
       "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
+    },
+    {
+      "album": {
+        "name": "Chachach\u00e1 (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/79immCdVvW18wwjtgnfiHK"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208271,
+      "name": "Chachach\u00e1 - ac\u00fastico",
+      "url": "https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3"
     },
     {
       "album": {
@@ -1376,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "costas de coral",
+        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188841,
+      "name": "costas de coral",
+      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
+    },
+    {
+      "album": {
         "name": "I Love You Madly EP",
         "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
       },
@@ -1625,7 +1694,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 230400,
       "name": "D\u00e9jame Pasar",
       "url": "https://open.spotify.com/track/5wZvk9ItEFxpTQpEXljqSm"
@@ -1683,7 +1752,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 175786,
       "name": "El Solitario Amor",
       "url": "https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo"
@@ -1791,7 +1860,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX"
@@ -1853,6 +1922,24 @@
       "duration_ms": 227013,
       "name": "Entre Luca Y Juan Mej\u00eda",
       "url": "https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q"
+    },
+    {
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "album": {
@@ -2040,6 +2127,28 @@
     },
     {
       "album": {
+        "name": "Un D\u00eda A La Vez",
+        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165133,
+      "name": "Facendo L'Amore",
+      "url": "https://open.spotify.com/track/2Q9yKgwemkOyR3bAeCfPcx"
+    },
+    {
+      "album": {
         "name": "Fica Tudo Bem",
         "url": "https://open.spotify.com/album/5FX7kbaIQ8wTCKLyQaH5Lb"
       },
@@ -2109,10 +2218,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 278712,
       "name": "Fuji",
       "url": "https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU"
+    },
+    {
+      "album": {
+        "name": "Frontera / Fuji",
+        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278964,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
     },
     {
       "album": {
@@ -2261,7 +2388,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 252413,
       "name": "Hace Tiempo",
       "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
@@ -2291,7 +2418,7 @@
       },
       "artists": [
         {
-          "name": "Isaac & Nora",
+          "name": "Isaac et Nora",
           "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
         },
         {
@@ -2303,7 +2430,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240298,
-      "name": "Hasta la Rai\u0301z",
+      "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     },
     {
@@ -2341,6 +2468,24 @@
       "duration_ms": 150000,
       "name": "Hermanos",
       "url": "https://open.spotify.com/track/7MUzu20kwvA0aY82nYVKtl"
+    },
+    {
+      "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Hermosa Drive",
+      "url": "https://open.spotify.com/track/3ZYlHhwB1YnzenzkURxprc"
     },
     {
       "album": {
@@ -2648,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Carita Feliz",
+        "url": "https://open.spotify.com/album/6UJu3BPFmTGvzclsV8k4bI"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180562,
+      "name": "La Peninsula",
+      "url": "https://open.spotify.com/track/5OtvhDI7MTXUNJD4bd4RhZ"
+    },
+    {
+      "album": {
         "name": "La Sanadora",
         "url": "https://open.spotify.com/album/4OvtUIqRsuqKFKRWABUTCy"
       },
@@ -2925,6 +3088,24 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215332,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
     },
     {
       "album": {
@@ -3495,7 +3676,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2022-12-31",
       "duration_ms": 256720,
       "name": "No Te Culpo",
       "url": "https://open.spotify.com/track/4VRTsI1hON7hSTSzDN3lAO"
@@ -3571,6 +3752,24 @@
       "duration_ms": 291426,
       "name": "November Rain - B&H Version",
       "url": "https://open.spotify.com/track/2sO2B8YGt8Bi9p3tgmSdlC"
+    },
+    {
+      "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236001,
+      "name": "Nuestro Amanecer",
+      "url": "https://open.spotify.com/track/36KOwkfm9glzKJ62jo7hNr"
     },
     {
       "album": {
@@ -3745,6 +3944,32 @@
       "duration_ms": 208098,
       "name": "Overprotected",
       "url": "https://open.spotify.com/track/1mBCDcIDfrQRVwk4Dh34F3"
+    },
+    {
+      "album": {
+        "name": "pa' que sue\u00f1es",
+        "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170795,
+      "name": "pa' que sue\u00f1es",
+      "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
     },
     {
       "album": {
@@ -4115,7 +4340,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 201522,
       "name": "Pegaditos",
       "url": "https://open.spotify.com/track/64vB9IDAqDz4n03nvTENdM"
@@ -4221,7 +4446,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 162192,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1vJg0bCR0zESD3fgUcKnwb"
@@ -4697,7 +4922,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 190367,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1AsDi1YPkSy9ZuVBN4XHje"
@@ -4861,6 +5086,28 @@
       "duration_ms": 232218,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/1NAkjq9yvkryYOXK4HtsA0"
+    },
+    {
+      "album": {
+        "name": "tbb",
+        "url": "https://open.spotify.com/album/2hthjfFHdByKsE59P68CXI"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        },
+        {
+          "name": "Sergi",
+          "url": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "tbb",
+      "url": "https://open.spotify.com/track/1pTpdcsCrVf1gFKpDFJMzh"
     },
     {
       "album": {
@@ -5331,7 +5578,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 198917,
       "name": "Un Beso M\u00e1s (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG"
@@ -5537,7 +5784,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 175445,
       "name": "Vernos Crecer",
       "url": "https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7"
@@ -5743,7 +5990,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 220826,
       "name": "\u00bfA D\u00f3nde Vas?",
       "url": "https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m"
@@ -5761,7 +6008,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 187560,
       "name": "\u00bfDe qu\u00e9 se trata la vida, mi vida?",
       "url": "https://open.spotify.com/track/3oPMRUwM0yKbtYw1kreHkN"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-09",
   "description": "The soundtrack of the Summer 2022.",
   "name": "Summer Hits (2)",
-  "published_playlist_ids": [
-    "3XVXu4Zxe1HRKq3lLQGhGA"
-  ],
   "tracks": [
     {
       "album": {
@@ -819,10 +816,28 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT"
+    },
+    {
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "album": {
@@ -2609,7 +2624,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230945,
-      "name": "Won't Forget You - Edit",
+      "name": "Won't Forget You (Edit)",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,181 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,788 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 56 | [Triple Gold Sox](https://open.spotify.com/track/3tLy7XCsTxCsn0O94DLYRs) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Triple Gold Sox](https://open.spotify.com/album/6TL62q0id5NHiugOwFH0LD) | 1:56 |
 | 57 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
 | 58 | [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 |
-| 59 | [Cool](https://open.spotify.com/track/7pqb3FO1D5bucT7mPrcEhE) | [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [Cool](https://open.spotify.com/album/1L4FJnhFhJiroTz0b8wbb1) | 5:40 |
+| 59 | [Cool](https://open.spotify.com/track/7GsKO7ufjgkIybjpQAKg1N) | [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [Cool](https://open.spotify.com/album/76rnaiB7jwjigFyYKg9JsD) | 5:40 |
 | 60 | [Blunts and Bundles](https://open.spotify.com/track/35wrsvqzK2ea5mRBPUyQ70) | [Kandie](https://open.spotify.com/artist/1zdpVkIbw7FFefBvQgqcKc) | [Blunts & Bundles](https://open.spotify.com/album/1ss0DIZBCcUuvlDA7E9lpg) | 2:59 |
 | 61 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 |
 | 62 | [Must Have Been Good](https://open.spotify.com/track/1tSp478eOOnV76JpnaETag) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 3:30 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 80 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 |
 | 81 | [The Richest Garden in your Memory](https://open.spotify.com/track/5Snt7YJiJj5kGd1mSOiQtg) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 2:57 |
 
-Snapshot ID: `MTY1NDgwMjU2MSwwMDAwMDAwMGEyMjg2ZWRlZTNhZTdhZmIxZWMwZDU3ZmQxNmM5MTli`
+Snapshot ID: `MTY1NDgwMjU2MSwwMDAwMDAwMDc4Mjg3ZjY0MGVhNDYyYjI1MzAwMDRhYjc3YmEzNGZk`

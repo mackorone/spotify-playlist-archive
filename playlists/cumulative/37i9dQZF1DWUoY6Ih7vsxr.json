@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "Millennium K-Pop",
-  "published_playlist_ids": [
-    "0rClSBTsn8sf5B9eX9AaIM"
-  ],
   "tracks": [
     {
       "album": {
@@ -2033,7 +2030,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 209228,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/6ZiUqGTo40Xl0DqePb3eZd"
@@ -2127,7 +2124,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 212306,
       "name": "Phone Number",
       "url": "https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp"
@@ -2289,10 +2286,28 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 282066,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
+    },
+    {
+      "album": {
+        "name": "KARA 1st",
+        "url": "https://open.spotify.com/album/0JbzuxsVq0fLuuHy841PMZ"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "Rock U",
+      "url": "https://open.spotify.com/track/3Ul9cvsm5KTGNvO5SAYH97"
     },
     {
       "album": {

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Pop country hits of today and tomorrow. Cover: Jessie James Decker",
-  "name": "PopCo",
-  "published_playlist_ids": [
-    "1eoy2aa7pjLg69wzMB5JYu"
-  ],
+  "description": "Pop country hits of today and tomorrow. Cover: Sam Hunt",
+  "name": "Pop Country",
   "tracks": [
     {
       "album": {
@@ -251,10 +248,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 228507,
       "name": "Bed on Fire (with Ingrid Andress)",
       "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
+    },
+    {
+      "album": {
+        "name": "Bets On Us",
+        "url": "https://open.spotify.com/album/3n6nbKCoNMsSDBpzvEg1Q5"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180959,
+      "name": "Bets On Us",
+      "url": "https://open.spotify.com/track/1AZEKyJQKVucfisCqKO1Nk"
     },
     {
       "album": {
@@ -287,7 +306,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 198034,
       "name": "Better Than You\u2019re Used To",
       "url": "https://open.spotify.com/track/7stizS5H8h8ABU390mkhZC"
@@ -751,7 +770,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 165520,
       "name": "Dates In Pickup Trucks",
       "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
@@ -845,7 +864,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-17",
       "duration_ms": 214270,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2zqHx2d8a0NfhoE7wVJqqK"
@@ -1059,6 +1078,24 @@
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+    },
+    {
+      "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "album": {
@@ -1297,7 +1334,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 230775,
       "name": "High",
       "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
@@ -1348,6 +1385,28 @@
     },
     {
       "album": {
+        "name": "Home Movies",
+        "url": "https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Home Movies",
+      "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
+    },
+    {
+      "album": {
         "name": "Home Sweet",
         "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
       },
@@ -1377,7 +1436,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 204240,
       "name": "Humble Quest",
       "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
@@ -1399,7 +1458,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 210146,
       "name": "I Can't (feat. Old Dominion)",
       "url": "https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV"
@@ -1453,7 +1512,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 241420,
       "name": "I GUESS THEY CALL IT FALLIN'",
       "url": "https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB"
@@ -1667,7 +1726,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-16",
       "duration_ms": 196312,
       "name": "If It Weren't For You",
       "url": "https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb"
@@ -2336,6 +2395,28 @@
     },
     {
       "album": {
+        "name": "No Bad Days (featuring Jimmie Allen)",
+        "url": "https://open.spotify.com/album/2s8PwYZk8iDjHhhZXCrnzr"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145499,
+      "name": "No Bad Days (featuring Jimmie Allen)",
+      "url": "https://open.spotify.com/track/2ZX3qn7oFWV8vZbBTsz48W"
+    },
+    {
+      "album": {
         "name": "Nothing To Do Town",
         "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
       },
@@ -2383,7 +2464,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 174146,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/5csddpxbUz4tsxnC8GB9ZH"
@@ -2735,7 +2816,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 206737,
       "name": "Seeing Someone Else",
       "url": "https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi"
@@ -2919,7 +3000,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 138818,
       "name": "Stop Coming Over",
       "url": "https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi"
@@ -3390,6 +3471,32 @@
     },
     {
       "album": {
+        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155495,
+      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+    },
+    {
+      "album": {
         "name": "Dangerous: The Double Album",
         "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
       },
@@ -3560,6 +3667,28 @@
     },
     {
       "album": {
+        "name": "When You Know",
+        "url": "https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178994,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA"
+    },
+    {
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -3629,7 +3758,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 170752,
       "name": "Why Should We",
       "url": "https://open.spotify.com/track/6S0EUBIYewbisWgQKMvuzR"
@@ -3745,7 +3874,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 192053,
       "name": "Y'all Life (feat. Ciara)",
       "url": "https://open.spotify.com/track/19Zc2DohB8aihlDOrONMUQ"

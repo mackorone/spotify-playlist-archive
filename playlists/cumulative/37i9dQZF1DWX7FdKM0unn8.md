@@ -4,7 +4,7 @@
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-110 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/7vtCT9EARyoqRQSxtdctBN)
+110 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,8 @@
 | [돌아와요 부산항에](https://open.spotify.com/track/4pr8oJG9Zq2DW1WNRflJxS) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/0f1NbeSXquER4WndPwiCQB) | 2:40 | 2021-08-12 | 2022-07-29 |
 | [돌아와요 부산항에](https://open.spotify.com/track/53seeZtu3v5FJoB15KiRPn) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/2TmEaBdiKg26EcCiAvAYao) | 2:40 | 2021-08-12 | 2022-11-13 |
 | [돌아와요 부산항에](https://open.spotify.com/track/3Tiadxop66peME6AQ1BaLW) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [돌아와요 부산항에 / 정](https://open.spotify.com/album/2ev1pKiYfeeFVpVVkcjeDE) | 2:44 | 2021-08-12 |  |
+| [떠나버린 사람](https://open.spotify.com/track/7MMVGHfGFZsWy3PFY4YPqE) | [Apart and Together](https://open.spotify.com/artist/1eIPxKC8UNMvpad5o6Qbg2) | [따로 또 같이 Vol.3](https://open.spotify.com/album/0258DtBYRRSCUNR62yM5BB) | 4:38 | 2021-08-12 |  |
 | [떠나버린 사람](https://open.spotify.com/track/2kiqna7MqAupWwZV8vb3mZ) | [따로 또 같이](https://open.spotify.com/artist/5xwMG3oq16KjZGGWHLeMNH) | [따로 또 같이 Vol.3](https://open.spotify.com/album/6fy6yeYkv7M3qVCz5HIHir) | 4:38 | 2021-08-12 | 2022-07-29 |
-| [떠나버린 사람](https://open.spotify.com/track/7MMVGHfGFZsWy3PFY4YPqE) | [따로 또 같이](https://open.spotify.com/artist/5xwMG3oq16KjZGGWHLeMNH) | [따로 또 같이 Vol.3](https://open.spotify.com/album/0258DtBYRRSCUNR62yM5BB) | 4:38 | 2021-08-12 |  |
 | [매일 그대와](https://open.spotify.com/track/29WHJi4NkO3pRw5x3Ptfnl) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 1집 행진/사랑일 뿐야](https://open.spotify.com/album/1xiw5yg4K5TAaGEt56pR2K) | 3:30 | 2021-08-12 | 2022-07-29 |
 | [매일 그대와](https://open.spotify.com/track/2T05Ub3H6NvMSO8Ohsam9I) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 1집 행진/사랑일 뿐야](https://open.spotify.com/album/5rfo4HOW4Pe01ipqjHL19K) | 3:30 | 2021-08-12 |  |
 | [매일 그대와](https://open.spotify.com/track/3uFyCAMYRbk77GdiORir77) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 베스트](https://open.spotify.com/album/59vZdctbNBDh09XL2ZMIWQ) | 3:30 | 2021-08-12 | 2022-11-13 |
@@ -112,7 +112,7 @@
 | [지금 그대로의 모습으로](https://open.spotify.com/track/3jrpzS3xpGAuohZSNjh4lR) | [Yoo Yeol](https://open.spotify.com/artist/1gyFAghLz2y5KIFA32vtwl) | [대학가요제 Golden Best](https://open.spotify.com/album/2ivChL943d97iLJ5Vk5va0) | 4:49 | 2021-08-12 |  |
 | [째즈 카페](https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [신해철](https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX) | 4:58 | 2021-08-12 |  |
 | [추억속의그대](https://open.spotify.com/track/5xtATcLzRFvpEAWlKcKivO) | [황치훈](https://open.spotify.com/artist/1KlbpZyhUiiO4EsvJiguwE) | [황치훈1집](https://open.spotify.com/album/2sTNUF4zLROU2gCyaTQ524) | 3:27 | 2021-08-12 |  |
-| [카츄사의 노래](https://open.spotify.com/track/1X9Rw7AQdwJoR8q2dPn7ZC) | [은방울자매](https://open.spotify.com/artist/7bSbVUfkQBYgjK0G2Q6cMP) | [히트가요 컬렉션 VOL.2](https://open.spotify.com/album/79iJo6K8XWEF7HNgquDmD7) | 3:11 | 2021-08-12 |  |
+| [카츄사의 노래](https://open.spotify.com/track/1X9Rw7AQdwJoR8q2dPn7ZC) | [Eunbangul Sisters](https://open.spotify.com/artist/0kBrnh1Onqubyc9XpWYYDE) | [히트가요 컬렉션 VOL.2](https://open.spotify.com/album/79iJo6K8XWEF7HNgquDmD7) | 3:11 | 2021-08-12 |  |
 | [카츄사의 노래](https://open.spotify.com/track/7smEXqdnD6oDjbG9zECVDd) | [은방울자매](https://open.spotify.com/artist/7bSbVUfkQBYgjK0G2Q6cMP) | [히트가요 컬렉션 VOL.2](https://open.spotify.com/album/5o6ByXsWmlu1l0FQeFIQPd) | 3:11 | 2021-08-12 | 2022-07-29 |
 | [텅 빈 마음 Empty Heart](https://open.spotify.com/track/4KiYPYpm4ultIp247ftPlI) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY) | [B.C 603](https://open.spotify.com/album/5NySygZgi6F7cBkjuFTBTa) | 4:09 | 2021-08-12 |  |
 | [흐린 가을 하늘에 편지를 써](https://open.spotify.com/track/2dp6Ebn1FrsTFWD8VlUaGl) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 '나의 노래' BOX SET](https://open.spotify.com/album/3EzFLoUS1nKMqqS5FYhpsD) | 4:44 | 2021-08-12 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Fairy tales and children's classics sure to satisfy your inner child...
 
-56 songs - 1 day 0 hr 4 min - [published](https://open.spotify.com/playlist/6IQ43nApsfne6fVyWGBYOn)
+56 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

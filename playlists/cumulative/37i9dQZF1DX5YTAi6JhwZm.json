@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Uplifting and upbeat Jazz to get you in a good mood.",
   "name": "Happy Jazz!",
-  "published_playlist_ids": [
-    "4R45R96b2S3hona44q5p1v"
-  ],
   "tracks": [
     {
       "album": {
@@ -2327,7 +2324,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 206440,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/4QWh5rzYlmp30SUZrw7Czk"

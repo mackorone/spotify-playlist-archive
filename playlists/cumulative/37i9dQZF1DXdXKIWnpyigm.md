@@ -4,7 +4,7 @@
 
 > The essential Ryan Adams, all in one place.
 
-57 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/6G3IVtL832kVyhi6m098Ip)
+57 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

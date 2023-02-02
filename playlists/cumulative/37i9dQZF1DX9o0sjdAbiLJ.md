@@ -4,7 +4,7 @@
 
 > Immerse yourself in the world of NIOH, an intense action RPG experience in Sengoku Era in Japan\. <br/>ダーク戦国アクションRPG, 「仁王」の世界へ！
 
-100 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/1fImBH7C1fYwQ1Vk6EZZa3)
+100 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

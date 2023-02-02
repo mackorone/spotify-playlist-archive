@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A collection of the biggest soul tracks from the 1970s.",
   "name": "70s Soul Classics",
-  "published_playlist_ids": [
-    "1U8oAm40hMuZ5aAKe6Zzaz"
-  ],
   "tracks": [
     {
       "album": {
@@ -1702,6 +1699,28 @@
     },
     {
       "album": {
+        "name": "Super 20 - Discoparty",
+        "url": "https://open.spotify.com/album/2pGLHCFQ88rB92jw0pWlz7"
+      },
+      "artists": [
+        {
+          "name": "Linda Fields",
+          "url": "https://open.spotify.com/artist/3PKRTSpBoqD2cYZUVLoHHM"
+        },
+        {
+          "name": "Funky Boys",
+          "url": "https://open.spotify.com/artist/028zxw8cFIPpjGg6BEn86e"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237973,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/1omsOCgn46ZJ2UfK84qheK"
+    },
+    {
+      "album": {
         "name": "70s Gems",
         "url": "https://open.spotify.com/album/2qlmtkBLyoBDkGRVcKh00D"
       },
@@ -1717,7 +1736,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 238973,
       "name": "Shame, Shame, Shame",
       "url": "https://open.spotify.com/track/1cdRKJlpHp273rwdqMRLOr"
@@ -2209,7 +2228,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198173,
-      "name": "Use ta Be My Girl",
+      "name": "Use ta Be My Girl - Single Version",
       "url": "https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2"
     },
     {

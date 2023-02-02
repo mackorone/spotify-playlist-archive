@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-16",
   "description": "New York salsa...it's home.",
   "name": "New York Salsa",
-  "published_playlist_ids": [
-    "7Az1DHHabnSiAJM8PmKhAj"
-  ],
   "tracks": [
     {
       "album": {
@@ -235,7 +232,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 259578,
       "name": "Ay Amor, Cuando Hablan las Miradas",
       "url": "https://open.spotify.com/track/0EBkntTPUGN0hjg7Nzo5f3"
@@ -253,7 +250,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 259578,
       "name": "Ay Amor, Cuando Hablan las Miradas",
       "url": "https://open.spotify.com/track/2ocrrzqQCZc2cSnXDRw57E"
@@ -373,10 +370,32 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 271072,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/2rbiq6pvtMMxPyy8JvXdBg"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271072,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/3SXRNFtlBYZKgJeBstl8b3"
     },
     {
       "album": {
@@ -2058,7 +2077,7 @@
       "artists": [
         {
           "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p"
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
         }
       ],
       "date_added": "2022-08-17",

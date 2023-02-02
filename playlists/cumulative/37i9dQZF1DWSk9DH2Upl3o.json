@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-28",
-  "description": "The jam scene is alive and well. Cover: Papadosio",
+  "description": "The jam scene is alive and well. Cover: ALO",
   "name": "Modern Jam Band",
-  "published_playlist_ids": [
-    "1MZeQVXDEN8ttDWSeIbiNY"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,24 @@
       "duration_ms": 401213,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
+    },
+    {
+      "album": {
+        "name": "Another Plan of Attack",
+        "url": "https://open.spotify.com/album/0tZ3JwkfXwfOwForAs510k"
+      },
+      "artists": [
+        {
+          "name": "The Disco Biscuits",
+          "url": "https://open.spotify.com/artist/1sahk8ZhHF9FB59DMyDi8D"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394596,
+      "name": "Another Plan of Attack",
+      "url": "https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2"
     },
     {
       "album": {
@@ -157,7 +172,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 207150,
       "name": "Cottonmouth",
       "url": "https://open.spotify.com/track/05ai1Lup5CO5qLFuytjHVX"
@@ -204,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Dare You",
+        "url": "https://open.spotify.com/album/4K4q44abgnpCnxRAx3Zl4C"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417004,
+      "name": "Dare You",
+      "url": "https://open.spotify.com/track/70FAStvmG7cqGfgnmZe0c0"
+    },
+    {
+      "album": {
         "name": "Giant Something",
         "url": "https://open.spotify.com/album/4s8yfx0H0V18KwAgJj20Ob"
       },
@@ -233,7 +266,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-01-14",
       "duration_ms": 354127,
       "name": "Don't Say Goodnight Just Yet",
       "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"
@@ -359,10 +392,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 275609,
       "name": "Find a Better Way",
       "url": "https://open.spotify.com/track/5QLYkHW64i9wdhLwplMmhb"
+    },
+    {
+      "album": {
+        "name": "Fuzzy Ride",
+        "url": "https://open.spotify.com/album/4JJYkBEnl3bt2unZyICxHe"
+      },
+      "artists": [
+        {
+          "name": "David Henriksson & Daze Delight",
+          "url": "https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288648,
+      "name": "Fuzzy Ride",
+      "url": "https://open.spotify.com/track/1IdkicizxTzNbZsMsriuPd"
     },
     {
       "album": {
@@ -413,7 +464,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 379640,
       "name": "Ghost In The Machine",
       "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
@@ -453,6 +504,24 @@
       "duration_ms": 186763,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
+    },
+    {
+      "album": {
+        "name": "Hot Damn",
+        "url": "https://open.spotify.com/album/2DeHT9aqcZ7KSWvx6sEDVN"
+      },
+      "artists": [
+        {
+          "name": "ALO",
+          "url": "https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257733,
+      "name": "Hot Damn",
+      "url": "https://open.spotify.com/track/4yFararsjQ0deuaZVH8CGb"
     },
     {
       "album": {
@@ -744,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Madman's Eyes",
+        "url": "https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288711,
+      "name": "Madman's Eyes",
+      "url": "https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1"
+    },
+    {
+      "album": {
         "name": "Jazz Cabbage Soiree",
         "url": "https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO"
       },
@@ -989,7 +1076,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-21",
       "duration_ms": 485880,
       "name": "Random Company",
       "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"
@@ -1300,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Sweet Oblivious Antidote (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1IUhgiuzNK67WSrNqt1QCt"
+      },
+      "artists": [
+        {
+          "name": "Perpetual Groove",
+          "url": "https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567173,
+      "name": "Three Weeks",
+      "url": "https://open.spotify.com/track/7wEAZ6TrgpRhPdhCI1xNCj"
+    },
+    {
+      "album": {
         "name": "Time Dilates",
         "url": "https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29"
       },
@@ -1311,7 +1416,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 321688,
       "name": "Time Dilates",
       "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
@@ -1329,7 +1434,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 408773,
       "name": "Trouble Overnight",
       "url": "https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4"
@@ -1453,7 +1558,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 247206,
       "name": "When Ya Hustle",
       "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
@@ -1489,7 +1594,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 290150,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/5ju62GuABsAvpTtoAkM9Zy"
@@ -1511,6 +1616,24 @@
       "duration_ms": 283299,
       "name": "Yes We Can Can",
       "url": "https://open.spotify.com/track/0KOYauWfZId5BWZDBGOkOA"
+    },
+    {
+      "album": {
+        "name": "You're a Catman",
+        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342994,
+      "name": "You\u2019re a Catman",
+      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
     },
     {
       "album": {

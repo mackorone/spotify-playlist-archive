@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-22",
   "description": "150%",
   "name": "sped up songs",
-  "published_playlist_ids": [
-    "2G3OqMZbrNC2ergi0aOh3M"
-  ],
   "tracks": [
     {
       "album": {
@@ -66,6 +63,24 @@
     },
     {
       "album": {
+        "name": "After Last Night (Silk Sonic) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/6WznmiC77DHK63Zi63PrEf"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192002,
+      "name": "After Last Night (Silk Sonic) - Sped Up Version",
+      "url": "https://open.spotify.com/track/47LwbzhyGJLVAetU2yZ2FZ"
+    },
+    {
+      "album": {
         "name": "Sped up",
         "url": "https://open.spotify.com/album/15nKoT8899TsRJfPWaTkXW"
       },
@@ -89,10 +104,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 175733,
       "name": "All Falls Down (feat. Juliander) - Sped up Remix",
       "url": "https://open.spotify.com/track/2LFqAEqtqHPYDFVlOvseUR"
+    },
+    {
+      "album": {
+        "name": "ALL GIRLS ARE THE SAME",
+        "url": "https://open.spotify.com/album/1lUXgnWEF8dE7nIgNOVdil"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8NIN",
+          "url": "https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79845,
+      "name": "ALL GIRLS ARE THE SAME - SPED UP",
+      "url": "https://open.spotify.com/track/6s5b97rn4nIWkprNYStA0o"
     },
     {
       "album": {
@@ -111,7 +144,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 151415,
       "name": "all I want is you",
       "url": "https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq"
@@ -143,6 +176,10 @@
         {
           "name": "Seafret",
           "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
         }
       ],
       "date_added": "2022-08-12",
@@ -151,6 +188,24 @@
       "duration_ms": 190758,
       "name": "Atlantis - Extra Sped Up Version",
       "url": "https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ"
+    },
+    {
+      "album": {
+        "name": "AVA (Sped Up)",
+        "url": "https://open.spotify.com/album/0jTLi50ltr0l8mIBS5XM9e"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 137594,
+      "name": "AVA (Sped Up)",
+      "url": "https://open.spotify.com/track/3Jb00jDoYOA7xHq4L2mWpZ"
     },
     {
       "album": {
@@ -238,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Back That Up To The Beat",
+        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192282,
+      "name": "Back That Up To The Beat - sped up version",
+      "url": "https://open.spotify.com/track/1ZvGlbx6sESozg3imglt83"
+    },
+    {
+      "album": {
         "name": "Bad Habit (Sped Up)",
         "url": "https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T"
       },
@@ -300,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Cali4nia (alt versions)",
+        "url": "https://open.spotify.com/album/4roCZCqx5Ua1T8xHm6bhJ7"
+      },
+      "artists": [
+        {
+          "name": "KANADA THE LOOP",
+          "url": "https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 157048,
+      "name": "Cali4nia (sped up)",
+      "url": "https://open.spotify.com/track/3xswzs1u96atRKqj1ciOpU"
+    },
+    {
+      "album": {
         "name": "Fuzzybrain (sped-up)",
         "url": "https://open.spotify.com/album/3DDSJ8PNqvNpRF0aFo7rxl"
       },
@@ -354,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Captain Save A Hoe (I Wanna Be Saved)",
+        "url": "https://open.spotify.com/album/2Q9Os7bIlPHwm2PUgX3d9T"
+      },
+      "artists": [
+        {
+          "name": "Speedy Radio",
+          "url": "https://open.spotify.com/artist/0RLP0q4jk6itImKEc5fo75"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 242207,
+      "name": "Captain Save A Hoe (I Wanna Be Saved)",
+      "url": "https://open.spotify.com/track/7dmgV1zXxEboJbtLOxlcFM"
+    },
+    {
+      "album": {
         "name": "Collide (Remix Pack)",
         "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
       },
@@ -398,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Deep End (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4Zd9SR8tNBvaOT2t2Rg0Xg"
+      },
+      "artists": [
+        {
+          "name": "Kyllow",
+          "url": "https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 155750,
+      "name": "Deep End - Sped Up Version",
+      "url": "https://open.spotify.com/track/5mKkwBL6lDoaBSehvKeZjf"
+    },
+    {
+      "album": {
         "name": "Desert Rose (The Remixes)",
         "url": "https://open.spotify.com/album/5gBGLLbmbIMNfuiWSWB6He"
       },
@@ -409,7 +540,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 205498,
       "name": "Desert Rose - Sped Up (high highs)",
       "url": "https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8"
@@ -427,10 +558,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 144875,
       "name": "die first - sped up version",
       "url": "https://open.spotify.com/track/209DMKJgqiJwjvFCCEW3N6"
+    },
+    {
+      "album": {
+        "name": "die first (love forever)",
+        "url": "https://open.spotify.com/album/3Pqcill829HN55wmRCDFRw"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        },
+        {
+          "name": "Sped Up Songs + Nightcore",
+          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144875,
+      "name": "die first - sped up version",
+      "url": "https://open.spotify.com/track/3lEqXRwPi98ZvKm5bsZTGi"
     },
     {
       "album": {
@@ -445,7 +598,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 81269,
       "name": "Doja - Sped Up Version",
       "url": "https://open.spotify.com/track/4UflFk4hLqXOfp2X38X6sI"
@@ -485,7 +638,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 150472,
       "name": "don't wanna be your friend - sped up",
       "url": "https://open.spotify.com/track/5ttbjSyoPvv9saJkeZt8o3"
@@ -536,6 +689,28 @@
     },
     {
       "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239888,
+      "name": "Escapism. - Sped Up",
+      "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
+    },
+    {
+      "album": {
         "name": "Evergreen (You Didn\u2019t Deserve Me At All) [Sped Up Version]",
         "url": "https://open.spotify.com/album/58KKKV44FFFTgg1fT8De7m"
       },
@@ -573,6 +748,28 @@
       "duration_ms": 158880,
       "name": "Fall In Love Alone - Sped Up Version",
       "url": "https://open.spotify.com/track/24iWUKHLXE4ZDkAj0GK4kt"
+    },
+    {
+      "album": {
+        "name": "Falling Over (Sped Up Version)",
+        "url": "https://open.spotify.com/album/2B3XXPbDVd1JjAMzIprE6j"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259047,
+      "name": "Falling Over - Sped Up Version",
+      "url": "https://open.spotify.com/track/30Rgny4iqvfxJKixVKQld2"
     },
     {
       "album": {
@@ -617,6 +814,24 @@
       "duration_ms": 146729,
       "name": "Faster - Sped Up",
       "url": "https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy"
+    },
+    {
+      "album": {
+        "name": "Figured Out Imma Liar (Sped Up Version)",
+        "url": "https://open.spotify.com/album/7yOL8iWPVouANjlitUuoln"
+      },
+      "artists": [
+        {
+          "name": "Kieran Ivy",
+          "url": "https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 134177,
+      "name": "Figured Out - Sped Up Version",
+      "url": "https://open.spotify.com/track/3Cs1Ms5CIbPckzaRujcch2"
     },
     {
       "album": {
@@ -679,6 +894,24 @@
     {
       "album": {
         "name": "Offering",
+        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Gilded Lily - Sped Up",
+      "url": "https://open.spotify.com/track/0M6urYKXizSJgtuipqmctu"
+    },
+    {
+      "album": {
+        "name": "Offering",
         "url": "https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt"
       },
       "artists": [
@@ -689,10 +922,46 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 192727,
       "name": "Gilded Lily - Sped Up",
       "url": "https://open.spotify.com/track/5fqusHbZRDZrLikLiFwWTq"
+    },
+    {
+      "album": {
+        "name": "girls like me don't cry (sped up)",
+        "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 164718,
+      "name": "girls like me don't cry (sped up)",
+      "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
+    },
+    {
+      "album": {
+        "name": "Give It To Me (Timbaland, Nelly Furtado) - Sped Up Version",
+        "url": "https://open.spotify.com/album/5RDftn20SS29X7kuwJdDQw"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181243,
+      "name": "Give It To Me (Timbaland, Nelly Furtado) - Sped Up Version",
+      "url": "https://open.spotify.com/track/08PPtKSS6tiU13kVD0mFjS"
     },
     {
       "album": {
@@ -725,10 +994,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 171439,
       "name": "go - Higher & Faster",
       "url": "https://open.spotify.com/track/4wOcRUtnpp75EEYUPkRPeY"
+    },
+    {
+      "album": {
+        "name": "Her Way (Sped Up)",
+        "url": "https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182164,
+      "name": "Her Way - Sped Up",
+      "url": "https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU"
     },
     {
       "album": {
@@ -808,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3zSsXVUo30ceghixa71luU"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 134999,
+      "name": "How Do I Say Goodbye - Sped Up",
+      "url": "https://open.spotify.com/track/0b49gQS3t3DNqX4TWBZyhX"
+    },
+    {
+      "album": {
         "name": "Fallen Angel (Speed)",
         "url": "https://open.spotify.com/album/6dTmErMYMBPJsC6GUUqOxq"
       },
@@ -819,10 +1124,100 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 155914,
       "name": "HUSH (Speed)",
       "url": "https://open.spotify.com/track/49JmcVegBY2IN3W8GbC2kH"
+    },
+    {
+      "album": {
+        "name": "I Can't",
+        "url": "https://open.spotify.com/album/4UDnadI0O48uey6S8dunV3"
+      },
+      "artists": [
+        {
+          "name": "Montana99",
+          "url": "https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 121269,
+      "name": "I Can't - Sped Up",
+      "url": "https://open.spotify.com/track/1V0RXIXbvghnccC1eiKG4w"
+    },
+    {
+      "album": {
+        "name": "I Can't - Sped Up",
+        "url": "https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG"
+      },
+      "artists": [
+        {
+          "name": "Montana99",
+          "url": "https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121269,
+      "name": "I Can't - Sped Up",
+      "url": "https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq"
+    },
+    {
+      "album": {
+        "name": "I WANNA BE SAVED",
+        "url": "https://open.spotify.com/album/605ztgNljQNUeUeG835IQS"
+      },
+      "artists": [
+        {
+          "name": "Nightocore Songs",
+          "url": "https://open.spotify.com/artist/2nz194eBkvIzwRfdps1VPe"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 242155,
+      "name": "I WANNA BE SAVED",
+      "url": "https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf"
+    },
+    {
+      "album": {
+        "name": "I WANNA BE SAVED",
+        "url": "https://open.spotify.com/album/0TI01an4MBa4111Mc70ag6"
+      },
+      "artists": [
+        {
+          "name": "Tkasi",
+          "url": "https://open.spotify.com/artist/0vFylVX8JZ2m5BQULazlzY"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 242163,
+      "name": "I WANNA BE SAVED",
+      "url": "https://open.spotify.com/track/5kCo9LVZrux26h9rGPSumc"
+    },
+    {
+      "album": {
+        "name": "I WANNA BE SAVED (Remix)",
+        "url": "https://open.spotify.com/album/4F0pMgh6o6y3LrHxmAHMfu"
+      },
+      "artists": [
+        {
+          "name": "DJ Fronteo",
+          "url": "https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242163,
+      "name": "I WANNA BE SAVED - Remix",
+      "url": "https://open.spotify.com/track/4Csr6QhRfKAHAm54mt2ZWY"
     },
     {
       "album": {
@@ -899,7 +1294,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 110133,
       "name": "I'm so crazy for youuu </3",
       "url": "https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg"
@@ -935,7 +1330,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 102013,
       "name": "IN THE AIR (SPED UP)",
       "url": "https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6"
@@ -975,7 +1370,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 102362,
       "name": "IRIS",
       "url": "https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ"
@@ -1018,6 +1413,46 @@
     },
     {
       "album": {
+        "name": "Jerk (Sped Up Version)",
+        "url": "https://open.spotify.com/album/0ncELoW6dHgDUCc5C8ZuL8"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113198,
+      "name": "Jerk - Sped Up Version",
+      "url": "https://open.spotify.com/track/6Vq3tnOG1MlYklLVRpX1D8"
+    },
+    {
+      "album": {
+        "name": "Judas (Lady Gaga) - Sped Up Version",
+        "url": "https://open.spotify.com/album/2MH1Q3GTGl9mLUT6oCY0ve"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206550,
+      "name": "Judas (Lady Gaga) - Sped Up Version",
+      "url": "https://open.spotify.com/track/0SfGYfOD0ipz1zg0ZCyqae"
+    },
+    {
+      "album": {
         "name": "just wanna rock (Lil Uzi Vert) [Sped Up Version]",
         "url": "https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji"
       },
@@ -1025,6 +1460,10 @@
         {
           "name": "sped up nightcore",
           "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
       "date_added": "2022-10-13",
@@ -1033,6 +1472,24 @@
       "duration_ms": 100383,
       "name": "just wanna rock (Lil Uzi Vert) - Sped Up Version",
       "url": "https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh"
+    },
+    {
+      "album": {
+        "name": "Last Day Of Summer (Sped Up)",
+        "url": "https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161540,
+      "name": "Karma - Sped Up",
+      "url": "https://open.spotify.com/track/0MwFC8WoPCjq2H3UES2aos"
     },
     {
       "album": {
@@ -1047,7 +1504,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 161540,
       "name": "Karma - Sped Up",
       "url": "https://open.spotify.com/track/2xneniL4mcJebMJnkle3vY"
@@ -1072,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Kill Bill",
+        "url": "https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137528,
+      "name": "Kill Bill - Sped Up Version",
+      "url": "https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x"
+    },
+    {
+      "album": {
         "name": "Left and Right (Charlie Puth) [feat. Jung Kook of BTS] [Sped Up Version]",
         "url": "https://open.spotify.com/album/55rl4IbGHVR8AaT2j0FL5r"
       },
@@ -1083,7 +1558,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 135977,
       "name": "Left and Right (Charlie Puth) [feat. Jung Kook of BTS] - Sped Up Version",
       "url": "https://open.spotify.com/track/4qY6XV17tyJdpAgo9JoCLA"
@@ -1109,6 +1584,46 @@
       "duration_ms": 190053,
       "name": "Lights - Sped Up Version",
       "url": "https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa"
+    },
+    {
+      "album": {
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Sped Up Songs + Nightcore",
+          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 203225,
+      "name": "Line Without a Hook - sped up",
+      "url": "https://open.spotify.com/track/6IbdSpBOeQn8vRBsq1eGUQ"
+    },
+    {
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) (Sped up)",
+        "url": "https://open.spotify.com/album/5Dr5spXA9DBuXeCPZtQkfI"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134782,
+      "name": "Love Grows (Where My Rosemary Goes) [Sped Up]",
+      "url": "https://open.spotify.com/track/2KXnyrYPOqyWWMkE9zUDwT"
     },
     {
       "album": {
@@ -1160,6 +1675,60 @@
     },
     {
       "album": {
+        "name": "Memories (Conan Gray) - Sped Up Version",
+        "url": "https://open.spotify.com/album/2JaXzx2OEmDUjapGuuwL5S"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215980,
+      "name": "Memories (Conan Gray) - Sped Up Version",
+      "url": "https://open.spotify.com/track/2aroCVYHlgz2RZk1cArLac"
+    },
+    {
+      "album": {
+        "name": "METAMORPHOSIS (Sped Up)",
+        "url": "https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110936,
+      "name": "METAMORPHOSIS - Sped Up",
+      "url": "https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU"
+    },
+    {
+      "album": {
+        "name": "Miracles (alt)",
+        "url": "https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 210871,
+      "name": "Miracles3",
+      "url": "https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF"
+    },
+    {
+      "album": {
         "name": "Miss You (Sped Up Version)",
         "url": "https://open.spotify.com/album/50Q0WzPK77LazR3QcwCvdJ"
       },
@@ -1171,7 +1740,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 170983,
       "name": "Miss You - Sped Up Version",
       "url": "https://open.spotify.com/track/2KLhpSs8XAHyKLTw5tHBmH"
@@ -1233,10 +1802,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 114460,
       "name": "money machine",
       "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
+    },
+    {
+      "album": {
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Sped Up Songs + Nightcore",
+          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175261,
+      "name": "Mr Loverman - sped up",
+      "url": "https://open.spotify.com/track/0f4AETH76pGM7F8XxZUfTx"
     },
     {
       "album": {
@@ -1269,7 +1860,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 75929,
       "name": "nina (sped up)",
       "url": "https://open.spotify.com/track/0OvIG0LWT4Wu21PR5plYL8"
@@ -1287,10 +1878,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 88547,
       "name": "No Sl33p",
       "url": "https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb"
+    },
+    {
+      "album": {
+        "name": "No Wind Resistance SPED UP!",
+        "url": "https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1"
+      },
+      "artists": [
+        {
+          "name": "Kinneret",
+          "url": "https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "No Wind Resistance SPED UP!",
+      "url": "https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq"
     },
     {
       "album": {
@@ -1312,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "Not OK - Alt versions",
+        "url": "https://open.spotify.com/album/0pJ4FQw91Jqceokv6lHtZw"
+      },
+      "artists": [
+        {
+          "name": "Robert Grace",
+          "url": "https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117937,
+      "name": "Not OK - Sped Up",
+      "url": "https://open.spotify.com/track/1UBErDGHs9OSGYiMXxhXgl"
+    },
+    {
+      "album": {
         "name": "numb (feat. blackbear) [slow + reverb / nitecore]",
         "url": "https://open.spotify.com/album/4opM4mMCaGNxJiztRetx5I"
       },
@@ -1327,10 +1954,28 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 159000,
       "name": "numb (feat. blackbear) [nitecore]",
       "url": "https://open.spotify.com/track/2Y0rbe2vWWHlu9luTET1dg"
+    },
+    {
+      "album": {
+        "name": "One Kiss (Dua Lipa) - Sped Up Version",
+        "url": "https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163317,
+      "name": "One Kiss (Dua Lipa) - Sped Up Version",
+      "url": "https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN"
     },
     {
       "album": {
@@ -1341,6 +1986,10 @@
         {
           "name": "Paloma Faith",
           "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
         }
       ],
       "date_added": "2022-08-05",
@@ -1349,6 +1998,24 @@
       "duration_ms": 165686,
       "name": "Only Love Can Hurt Like This - Sped Up Version",
       "url": "https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV"
+    },
+    {
+      "album": {
+        "name": "Out th\u00eb way (sped up version)",
+        "url": "https://open.spotify.com/album/1SS5Pz4SRRSiPCOrqjEKSn"
+      },
+      "artists": [
+        {
+          "name": "Yeat sped up",
+          "url": "https://open.spotify.com/artist/1Bb7MWbSKAtxBl436nDnlS"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125006,
+      "name": "Out th\u00eb way - sped up version",
+      "url": "https://open.spotify.com/track/6B5pdKWob9kjr0WpjJkVVD"
     },
     {
       "album": {
@@ -1410,6 +2077,28 @@
     },
     {
       "album": {
+        "name": "Pink (Freak)",
+        "url": "https://open.spotify.com/album/2jLyQ6Re3QbmuvoPhUzlzR"
+      },
+      "artists": [
+        {
+          "name": "Elliot Lee",
+          "url": "https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5"
+        },
+        {
+          "name": "Eel Smiles",
+          "url": "https://open.spotify.com/artist/77FCuQcl7IdDlaRtFIJ3Sy"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 209281,
+      "name": "Pink (Freak) - sped up",
+      "url": "https://open.spotify.com/track/6Z0jVWnJLzPd0zHerbOuQ1"
+    },
+    {
+      "album": {
         "name": "prolly my spookiest beat (sped up)",
         "url": "https://open.spotify.com/album/5EJjM6oFkw0bdnCchn5BRV"
       },
@@ -1428,7 +2117,7 @@
     },
     {
       "album": {
-        "name": "psilocybin",
+        "name": "psilocybin (sped up)",
         "url": "https://open.spotify.com/album/2WGURTSIVqDOm6r0Srrxti"
       },
       "artists": [
@@ -1441,7 +2130,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 112941,
-      "name": "psilocybin - sped up",
+      "name": "psilocybin (sped up)",
       "url": "https://open.spotify.com/track/1CwFuRSP9dB2HvbmXBSEDS"
     },
     {
@@ -1531,6 +2220,42 @@
       "duration_ms": 102489,
       "name": "Secrets - Sped Up Version",
       "url": "https://open.spotify.com/track/4lAgubu7u2I8YqBs2Lefhi"
+    },
+    {
+      "album": {
+        "name": "Self Esteem (Sped Up)",
+        "url": "https://open.spotify.com/album/2yoQL96WpiEWb8ZQSfDlqj"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112022,
+      "name": "Self Esteem (Sped Up)",
+      "url": "https://open.spotify.com/track/6ftGfCbzzfjgrHtig6lIWS"
+    },
+    {
+      "album": {
+        "name": "Sex, Drugs, Etc. (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4NyrvOITu55ZfyN2MzQ2mb"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176974,
+      "name": "Sex, Drugs, Etc. - Sped Up Version",
+      "url": "https://open.spotify.com/track/6SWVr6T3yQS6gZ9gQHrr2b"
     },
     {
       "album": {
@@ -1683,7 +2408,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 219529,
       "name": "soft spot",
       "url": "https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI"
@@ -1802,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Sure Thing (Sped Up)",
+        "url": "https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150053,
+      "name": "Sure Thing - Sped Up",
+      "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
+    },
+    {
+      "album": {
         "name": "SWAMP SKONSTER",
         "url": "https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU"
       },
@@ -1813,7 +2556,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 74357,
       "name": "SWAMP SKONSTER",
       "url": "https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z"
@@ -1831,10 +2574,68 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 147135,
       "name": "Sway - Sped Up Version",
       "url": "https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT"
+    },
+    {
+      "album": {
+        "name": "Sway (Sped Up Version)",
+        "url": "https://open.spotify.com/album/3qQb4brcSYgXOPVALspjL3"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Sped Up Songs + Nightcore",
+          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147135,
+      "name": "Sway - Sped Up Version",
+      "url": "https://open.spotify.com/track/2BLXNZq2tVNFzVI7yRk6Hc"
+    },
+    {
+      "album": {
+        "name": "Tantrum (Pace Yourself)",
+        "url": "https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123795,
+      "name": "Tantrum (Pace Yourself)",
+      "url": "https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed"
+    },
+    {
+      "album": {
+        "name": "Tap Tap (Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/1x17i1sDTb7VfH42TIU7eI"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113265,
+      "name": "Tap Tap (Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/4zl9o7s6CUZ80IrEJx6Pqs"
     },
     {
       "album": {
@@ -1849,7 +2650,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 149032,
       "name": "Taste (Speed)",
       "url": "https://open.spotify.com/track/2O0v7fVGXrAsmx5NokutyI"
@@ -1914,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Those Eyes (Alternate Versions)",
+        "url": "https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167658,
+      "name": "Those Eyes - Sped Up",
+      "url": "https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ"
+    },
+    {
+      "album": {
         "name": "Those Eyes Alternate Versions",
         "url": "https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB"
       },
@@ -1925,7 +2744,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 167658,
       "name": "Those Eyes - Sped Up",
       "url": "https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq"
@@ -1947,6 +2766,24 @@
       "duration_ms": 123814,
       "name": "Under the Influence (Sped Up) - Your Body Language Speaks to Me",
       "url": "https://open.spotify.com/track/3qG3S4Ptt7EFCtKi5ZroG2"
+    },
+    {
+      "album": {
+        "name": "Until I Found You (Sped Up) - Heaven When I Held You Again How Could We Ever Just Be Friends",
+        "url": "https://open.spotify.com/album/13JS9rH3cjTaWAjhrAxrpx"
+      },
+      "artists": [
+        {
+          "name": "Hiko",
+          "url": "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Until I Found You (Sped Up) - Heaven When I Held You Again How Could We Ever Just Be Friends",
+      "url": "https://open.spotify.com/track/2w5aTimRJjWefNoXaoCpd4"
     },
     {
       "album": {
@@ -2008,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "WASTE",
+        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100500,
+      "name": "WASTE - Sped Up Version",
+      "url": "https://open.spotify.com/track/72XhVH8vlREICt6NmT623Q"
+    },
+    {
+      "album": {
         "name": "Wasted (Nightcore)",
         "url": "https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4"
       },
@@ -2027,6 +2882,42 @@
       "duration_ms": 194062,
       "name": "Wasted (Nightcore)",
       "url": "https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI"
+    },
+    {
+      "album": {
+        "name": "What You Need (Sped Up Version)",
+        "url": "https://open.spotify.com/album/2YZq8ncPiwOKNYKZBwMgvd"
+      },
+      "artists": [
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178610,
+      "name": "What You Need (Sped Up Version)",
+      "url": "https://open.spotify.com/track/6AZvzU8fPSIefNDDl02e0C"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go From Here? (sped up)",
+        "url": "https://open.spotify.com/album/3QWolpriPFWyqWCEzFAVnJ"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214734,
+      "name": "Where Do We Go From Here? - sped up",
+      "url": "https://open.spotify.com/track/5Ytgzxvn0waqOa4h3Ztpb8"
     },
     {
       "album": {
@@ -2084,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Woo (Rihanna) - Sped Up Version",
+        "url": "https://open.spotify.com/album/3p8GIjiIs0aRd2OeAXuNap"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/1PG0sL9bLtTgn5bOxCtU55"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183484,
+      "name": "Woo (Rihanna) - Sped Up Version",
+      "url": "https://open.spotify.com/track/4j5HkSWLaSlFxTPChb1D5l"
+    },
+    {
+      "album": {
         "name": "World's Smallest Violin (Sped Up)",
         "url": "https://open.spotify.com/album/6DNtrF8Ga0IhBjAZDzfnkx"
       },
@@ -2095,7 +3004,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 136811,
       "name": "World's Smallest Violin - Sped Up",
       "url": "https://open.spotify.com/track/2vyyvsyMcJkcvxMKch8Q1e"
@@ -2117,7 +3026,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 136218,
       "name": "zombie (hyper)",
       "url": "https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd"

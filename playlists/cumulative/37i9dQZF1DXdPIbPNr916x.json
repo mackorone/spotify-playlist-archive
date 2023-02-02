@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Your ultimate easy-listening soundtrack for the winter months.",
   "name": "Easy Winter",
-  "published_playlist_ids": [
-    "3HzY1Lkj3X6KFFJA2E16Or"
-  ],
   "tracks": [
     {
       "album": {
@@ -809,7 +806,7 @@
     {
       "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
       "artists": [
         {
@@ -820,6 +817,24 @@
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Half the World Away",
+      "url": "https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 198133,
       "name": "Half the World Away",
       "url": "https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR"

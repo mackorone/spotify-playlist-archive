@@ -4,7 +4,7 @@
 
 > The best of AC/DC, all in one place.
 
-50 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/1Oiyz9z4CtnzYkKYSR7hfD)
+50 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

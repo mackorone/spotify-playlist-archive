@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Music to reduce insomnia and help you relax.",
   "name": "Sleep Tight",
-  "published_playlist_ids": [
-    "1lBmyE41azvWjLpkavRKq1"
-  ],
   "tracks": [
     {
       "album": {
@@ -131,6 +128,24 @@
       "duration_ms": 173500,
       "name": "A Solid State",
       "url": "https://open.spotify.com/track/0j7itsX7DkAsHJQQGL4XJe"
+    },
+    {
+      "album": {
+        "name": "A World Above",
+        "url": "https://open.spotify.com/album/6Tsuaro1rdAFo4QuNjzOX0"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Green",
+          "url": "https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126799,
+      "name": "A World Above",
+      "url": "https://open.spotify.com/track/7x9bH00ovSbLyTMvsyvWNd"
     },
     {
       "album": {
@@ -415,7 +430,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 209858,
       "name": "Astralica Catharsis",
       "url": "https://open.spotify.com/track/05H8IxZJxZIpXlYcuaWlmI"
@@ -944,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Center of Attention",
+        "url": "https://open.spotify.com/album/4zzxld3PGyxOkpB09VpW7u"
+      },
+      "artists": [
+        {
+          "name": "Angelo Garnier",
+          "url": "https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Center of Attention",
+      "url": "https://open.spotify.com/track/3P0y5vYWxPRRekolc4eCHp"
+    },
+    {
+      "album": {
         "name": "Centered",
         "url": "https://open.spotify.com/album/6EUZkB98CMFqyKQ1KsdJ8s"
       },
@@ -1099,7 +1132,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 187970,
       "name": "Cloudology",
       "url": "https://open.spotify.com/track/6NGbBlz6b95e6zDDSDvf8J"
@@ -1445,6 +1478,24 @@
       "duration_ms": 181750,
       "name": "delta state",
       "url": "https://open.spotify.com/track/6D2fyFDu59UbQJO2rgcO9N"
+    },
+    {
+      "album": {
+        "name": "Depth",
+        "url": "https://open.spotify.com/album/0BsO1Kfgqwjr1XZcVKJymI"
+      },
+      "artists": [
+        {
+          "name": "Conde Arona",
+          "url": "https://open.spotify.com/artist/6hmmRGYolxHWDk3H2GeBUU"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176389,
+      "name": "Depth",
+      "url": "https://open.spotify.com/track/01HoaDNqU6ZrXYj0GIDQjv"
     },
     {
       "album": {
@@ -2143,7 +2194,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 191052,
       "name": "For You Always",
       "url": "https://open.spotify.com/track/2DsYcmzLobaT4BLM6qoeds"
@@ -2575,7 +2626,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 107977,
       "name": "If Only I Could Fly",
       "url": "https://open.spotify.com/track/5YqXPRA1ErLjJ9UZCJxJyG"
@@ -3547,7 +3598,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 181500,
       "name": "Noctiphany",
       "url": "https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi"
@@ -3717,7 +3768,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 133646,
       "name": "Onyx",
       "url": "https://open.spotify.com/track/3gXsGCfJpLS8WDUP6jfOCH"
@@ -4120,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/6bXV4rq5bUsnjnFwi0Xm7c"
+      },
+      "artists": [
+        {
+          "name": "Diya Wiler",
+          "url": "https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184212,
+      "name": "Relations",
+      "url": "https://open.spotify.com/track/66uQkXu45zDJSxvbUR4jPk"
+    },
+    {
+      "album": {
         "name": "Release U",
         "url": "https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq"
       },
@@ -4135,6 +4204,24 @@
       "duration_ms": 194611,
       "name": "Release U",
       "url": "https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y"
+    },
+    {
+      "album": {
+        "name": "Relieve",
+        "url": "https://open.spotify.com/album/3tVeSv36k61jehxXt3xuPn"
+      },
+      "artists": [
+        {
+          "name": "Juliana Stipe",
+          "url": "https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193138,
+      "name": "Relieve",
+      "url": "https://open.spotify.com/track/5KzZLb3KFjGrQZW6WH8Cyc"
     },
     {
       "album": {
@@ -4185,7 +4272,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 209188,
       "name": "Resting Peace",
       "url": "https://open.spotify.com/track/0BWqXtl5RSRWEDfoL2HdV9"
@@ -4329,7 +4416,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 218500,
       "name": "Schwebend",
       "url": "https://open.spotify.com/track/775dmuIRQojrplsns8VKen"
@@ -4405,6 +4492,24 @@
       "duration_ms": 130789,
       "name": "Silent Mind",
       "url": "https://open.spotify.com/track/7m4uTQoUTU68STmL3Y3bX9"
+    },
+    {
+      "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/2Im4LTWyWpEmEky5hpn1jz"
+      },
+      "artists": [
+        {
+          "name": "Niebla Valley",
+          "url": "https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188184,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/5oTCj47iqYLxzE0fOxYbLL"
     },
     {
       "album": {
@@ -4491,7 +4596,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 183966,
       "name": "Sleeping Beauty",
       "url": "https://open.spotify.com/track/0e8cWeGGK506BTR56KOopd"
@@ -4725,7 +4830,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 196000,
       "name": "South of Lapland",
       "url": "https://open.spotify.com/track/4iyc69HBbLOpfOgwBjn1LS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,608 likes - 33 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,612 likes - 33 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,6 +40,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 | 30 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/1ygacgsmdK4Y1WQcJuZQHb) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Body By Jake: Sweating Disco Dance Party \(BPM 108\-128\)](https://open.spotify.com/album/4HUQKX2KZzR18h4sG5FUrG) | 3:35 |
 | 31 | [Can't Take My Eyes Off of You \- Black Box Mix](https://open.spotify.com/track/1ip1ULxxvAzaqH3VqKObdu) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Gloria Gaynor '90 \(All New Versions\)](https://open.spotify.com/album/3mn5uMVqqN1WPA2Jwd8lfk) | 5:16 |
 | 32 | [Upside Down](https://open.spotify.com/track/76as3dkOkHGMAvwmaKXPMD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [20th Century Masters: The Millennium Collection: Best of Diana Ross](https://open.spotify.com/album/54fyYXrRRfl7sMJYF8FXcX) | 4:06 |
-| 33 | [Flashdance..\. What A Feeling \- '95 Version](https://open.spotify.com/track/5CGziaEatzKez145qf7Xj2) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Nyårsmusik](https://open.spotify.com/album/0mfc6FsNgv3RHhrKncT0vZ) | 3:49 |
+| 33 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 
-Snapshot ID: `MTU1MTIwNDM3OSwwMDAwMDAwMDUwYzY1ZDBjNmRlYTc2ZWY5MjNlYjIzMzQ1Nzg5MzI2`
+Snapshot ID: `MTU1MTIwNDM3OSwwMDAwMDAwMDU2NGIxZjljMjkwZTUwZWI4ODQ0YjRlYzgxZTc3MjZm`

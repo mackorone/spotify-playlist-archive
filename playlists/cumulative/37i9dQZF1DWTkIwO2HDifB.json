@@ -1,11 +1,38 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O Poder Dessa Garota e os funks mais \ud83d\udd11 do Brasil. Foto: MC Gabzin",
+  "description": "Tutu e Faf\u00e1 e os funks mais \ud83d\udd11 do Brasil. Foto: MC Ryan SP, MC Daniel",
   "name": "Funk Hits",
-  "published_playlist_ids": [
-    "2m2xgH6abY0Jl6lg6L64lU"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Agudo M\u00e1gico 3",
+        "url": "https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD"
+      },
+      "artists": [
+        {
+          "name": "MC K.K",
+          "url": "https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod"
+        },
+        {
+          "name": "Dj TG Beats",
+          "url": "https://open.spotify.com/artist/6Eni0bpQP6Z3G2CIN7VJRh"
+        },
+        {
+          "name": "Dj Aur\u00e9lio",
+          "url": "https://open.spotify.com/artist/2aBp5B1hhPlvVWbocbfA6x"
+        },
+        {
+          "name": "MC Lipivox",
+          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "Agudo M\u00e1gico 3",
+      "url": "https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt"
+    },
     {
       "album": {
         "name": "Ai Preto",
@@ -330,6 +357,36 @@
     },
     {
       "album": {
+        "name": "Bandido N\u00e3o Dan\u00e7a",
+        "url": "https://open.spotify.com/album/6pGEl2UutstK1XclQQgFz0"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "Dj Aladin GDB",
+          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126461,
+      "name": "Bandido N\u00e3o Dan\u00e7a",
+      "url": "https://open.spotify.com/track/5WGTBzRLbjj0Sm3Br8X1rI"
+    },
+    {
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
       },
@@ -506,6 +563,32 @@
     },
     {
       "album": {
+        "name": "Camisa de Time (Desce S\u00f3 de Label)",
+        "url": "https://open.spotify.com/album/3jhqCIMpu2YIu6hq4dzhPw"
+      },
+      "artists": [
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159111,
+      "name": "Camisa de Time (Desce S\u00f3 de Label)",
+      "url": "https://open.spotify.com/track/5oF3fkS6ZVqmb3W5UJc0s8"
+    },
+    {
+      "album": {
         "name": "Canto da Sereia",
         "url": "https://open.spotify.com/album/6oeLs83jPMK8JodH2bpSyO"
       },
@@ -517,7 +600,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 151384,
       "name": "Canto da Sereia",
       "url": "https://open.spotify.com/track/5onALPPboSh4z6cO24tOvW"
@@ -961,7 +1044,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 144056,
       "name": "Escolhe o Bandido",
       "url": "https://open.spotify.com/track/3QxKHcpNt6CWNUYCLLBHeZ"
@@ -1241,6 +1324,10 @@
         {
           "name": "Mc Paiva ZS",
           "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "DJ Yuri Martins",
+          "url": "https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9"
         }
       ],
       "date_added": "2022-11-25",
@@ -1632,6 +1719,28 @@
     },
     {
       "album": {
+        "name": "Luz do Luar",
+        "url": "https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4"
+      },
+      "artists": [
+        {
+          "name": "Mc Tato",
+          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
+        },
+        {
+          "name": "DJ Ak beats",
+          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Luz do Luar",
+      "url": "https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j"
+    },
+    {
+      "album": {
         "name": "Mal Caminho",
         "url": "https://open.spotify.com/album/4vMeyOudpM3C6aE0A2uZt8"
       },
@@ -1842,6 +1951,32 @@
     },
     {
       "album": {
+        "name": "Namora A\u00ed",
+        "url": "https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "Namora A\u00ed",
+      "url": "https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E"
+    },
+    {
+      "album": {
         "name": "No Pique BBB, Tu J\u00e1 Sabe o Macete (feat. Mc Rodrigo do CN)",
         "url": "https://open.spotify.com/album/6E5cEnHmrqsvR46J11wIYn"
       },
@@ -1883,7 +2018,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 107076,
       "name": "Novinha Malada do Insta",
       "url": "https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9"
@@ -2111,7 +2246,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 647040,
       "name": "OQIGAP?",
       "url": "https://open.spotify.com/track/0GsvMQftDrIOszte4jP5XK"
@@ -2245,7 +2380,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 149032,
       "name": "Pras Novinha (feat. DJ Pedrin)",
       "url": "https://open.spotify.com/track/3qHN7TSBfVQPF9ojUVT9ZT"
@@ -2361,10 +2496,40 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 146307,
       "name": "Profiss\u00e3o F0Da",
       "url": "https://open.spotify.com/track/2OEz3Dxs9yOEblN5Kk52Sv"
+    },
+    {
+      "album": {
+        "name": "Som das Regi\u00f5es",
+        "url": "https://open.spotify.com/album/6DD55XfooWMQ3T2wT43dKF"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Mc Pel\u00e9",
+          "url": "https://open.spotify.com/artist/5kfgervAs5bJUOC0vbYB12"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Puta Mexicana",
+      "url": "https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT"
     },
     {
       "album": {
@@ -2484,7 +2649,7 @@
         },
         {
           "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4"
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
         },
         {
           "name": "Mc Davi",
@@ -2557,7 +2722,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 133384,
       "name": "Sei Que Tu Gosta Muito",
       "url": "https://open.spotify.com/track/0OJ8KWhqLMHkfI59yh398v"
@@ -2665,7 +2830,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 125245,
       "name": "sentaDONA (Remix) s2",
       "url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h"
@@ -2891,7 +3056,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 564705,
       "name": "SET MK 2",
       "url": "https://open.spotify.com/track/2s8kT1fuBVjxept8bH68Sw"
@@ -3020,6 +3185,32 @@
     },
     {
       "album": {
+        "name": "Sorrisin De Puto",
+        "url": "https://open.spotify.com/album/2JCWmfqubxXm3zuH4BQQXM"
+      },
+      "artists": [
+        {
+          "name": "DJ Cayoo",
+          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
+        },
+        {
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106153,
+      "name": "Sorrisin De Puto",
+      "url": "https://open.spotify.com/track/2X5o4nRiocnoaaQ2wMwaeC"
+    },
+    {
+      "album": {
         "name": "Sua amiga deu",
         "url": "https://open.spotify.com/album/2PnAF3M9NIbF2LlozAKIGk"
       },
@@ -3087,6 +3278,24 @@
       "duration_ms": 159110,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/2qPIIfZV6d1FgvCCNoLiVL"
+    },
+    {
+      "album": {
+        "name": "Toma Tapa",
+        "url": "https://open.spotify.com/album/3BugC52pXA7PFqUqMjJmXV"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122994,
+      "name": "Toma Tapa",
+      "url": "https://open.spotify.com/track/2Vl7x4BkNhhJkEmQQMcV0V"
     },
     {
       "album": {
@@ -3367,6 +3576,28 @@
       "duration_ms": 300000,
       "name": "Vou de Lala",
       "url": "https://open.spotify.com/track/6MQrN9fclpvR4nf0uJrG1x"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Piru nas Meninas - Medley das Antigas",
+        "url": "https://open.spotify.com/album/1P3dEPUXXt25WxJF55T3DD"
+      },
+      "artists": [
+        {
+          "name": "Mc Pikachu",
+          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
+        },
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "\u00c9 Piru nas Meninas - Medley das Antigas",
+      "url": "https://open.spotify.com/track/0TdK5nwfcmX9smiLXJEeFp"
     },
     {
       "album": {

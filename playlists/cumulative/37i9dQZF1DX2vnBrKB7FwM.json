@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: La Etnnia",
   "name": "RAP\u00fablica de Colombia",
-  "published_playlist_ids": [
-    "3zmU4gkPj0G6pq0uLvvBh3"
-  ],
   "tracks": [
     {
       "album": {
@@ -129,7 +126,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 193169,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/7677F33TDOahKknQbw4446"
@@ -173,7 +170,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 209210,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/0puJO7cB2H8uPn1n4kXzdA"
@@ -422,6 +419,32 @@
     },
     {
       "album": {
+        "name": "Drama & Dinero",
+        "url": "https://open.spotify.com/album/0DTbeQubOGZ6grfy3jgFLZ"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Drama & Dinero",
+      "url": "https://open.spotify.com/track/57YsOfDLCiMUsW7RZWrSce"
+    },
+    {
+      "album": {
         "name": "Verg\u00fcenza Propia",
         "url": "https://open.spotify.com/album/6G7bf3U6XL6Fo0E2yh8MXD"
       },
@@ -491,10 +514,32 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 203615,
       "name": "El Mismo de Siempre",
       "url": "https://open.spotify.com/track/10AjYRkbsAdhnLXrGjGoAg"
+    },
+    {
+      "album": {
+        "name": "El Remate",
+        "url": "https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244137,
+      "name": "El Remate",
+      "url": "https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j"
     },
     {
       "album": {
@@ -553,6 +598,24 @@
       "duration_ms": 230967,
       "name": "Esperar\u00e9 por Ti",
       "url": "https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk"
+    },
+    {
+      "album": {
+        "name": "Felicidad",
+        "url": "https://open.spotify.com/album/4986un74KXepy88FQq1VdD"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235246,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/0vWJNqdavYDYF21IQBlBFS"
     },
     {
       "album": {
@@ -662,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Hasta Luego",
+        "url": "https://open.spotify.com/album/6EfqxfjvB5RbNfHCiOc5jh"
+      },
+      "artists": [
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147626,
+      "name": "Hasta Luego",
+      "url": "https://open.spotify.com/track/0sO1CZLWa4hvNSlOaXReao"
+    },
+    {
+      "album": {
         "name": "Hienas",
         "url": "https://open.spotify.com/album/6PBGi7sW0jYuDgVlkAkjA2"
       },
@@ -703,6 +784,32 @@
       "duration_ms": 232190,
       "name": "Horas Extras",
       "url": "https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT"
+    },
+    {
+      "album": {
+        "name": "Arketipo Temporada 1",
+        "url": "https://open.spotify.com/album/331P2y5c9x9dxiqPIqxsbr"
+      },
+      "artists": [
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+        },
+        {
+          "name": "L'Xuasma",
+          "url": "https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO"
+        },
+        {
+          "name": "Gambeta",
+          "url": "https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "Hoy Es Tu D\u00eda",
+      "url": "https://open.spotify.com/track/6qov81hrflhxkon2fMjZyh"
     },
     {
       "album": {
@@ -805,6 +912,24 @@
       "duration_ms": 221590,
       "name": "La Caza de Nari\u00f1o",
       "url": "https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm"
+    },
+    {
+      "album": {
+        "name": "La Junta",
+        "url": "https://open.spotify.com/album/4tmlpeh4UeaZPxyEblnAzV"
+      },
+      "artists": [
+        {
+          "name": "Tres Coronas",
+          "url": "https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234027,
+      "name": "La Junta",
+      "url": "https://open.spotify.com/track/33XO9zynI5v4lS2bxYbpc7"
     },
     {
       "album": {
@@ -913,6 +1038,24 @@
       "duration_ms": 184493,
       "name": "La Vida Es Solo Una",
       "url": "https://open.spotify.com/track/5CwIPEZLQWwYB8tKruccJm"
+    },
+    {
+      "album": {
+        "name": "L\u00edo",
+        "url": "https://open.spotify.com/album/5uKw3P9gFKtpiZx1WgKIxo"
+      },
+      "artists": [
+        {
+          "name": "Nicolai Fella",
+          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284270,
+      "name": "L\u00edo",
+      "url": "https://open.spotify.com/track/2ZoHRsTZ5olVYztp1ti9ta"
     },
     {
       "album": {
@@ -1657,6 +1800,24 @@
       "duration_ms": 199213,
       "name": "Tararea",
       "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
+    },
+    {
+      "album": {
+        "name": "Tickete$",
+        "url": "https://open.spotify.com/album/3ajTkwZ9wCc9hcbxxwD713"
+      },
+      "artists": [
+        {
+          "name": "Nicolai Fella",
+          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195443,
+      "name": "Tickete$",
+      "url": "https://open.spotify.com/track/458EoGLFOBxgHH8NqPRoN0"
     },
     {
       "album": {

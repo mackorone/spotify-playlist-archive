@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,874 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,317 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 18 | [Corneria](https://open.spotify.com/track/25SPCKaeYHknIpXn6yflRe) | [Lucky Charmz](https://open.spotify.com/artist/2PIUHVPbVwoZ09wNBrOYMd) | [Follow Me To Flottbek Falls](https://open.spotify.com/album/4jx6zIJDb6lziCd6IOLPja) | 7:01 |
 | 19 | [Baby, We're Ascending](https://open.spotify.com/track/614NfZjf8rMY2bErgwhzR5) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:27 |
 | 20 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 |
-| 21 | [Interaxial](https://open.spotify.com/track/2NIq1oc9Vhv4OggKMPi9fs) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Eventide in Orbit](https://open.spotify.com/album/0ZEzDscqxvp1Kp02aEtK8p) | 5:34 |
+| 21 | [Interaxial](https://open.spotify.com/track/24xZyfDFeYG8BUPGYA3AG7) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Eventide in Orbit](https://open.spotify.com/album/3H964Moy8xa1byJHwfAbXl) | 5:34 |
 | 22 | [Se Rompen](https://open.spotify.com/track/7e8l7wpK6qow08gSoNxtcK) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Se Rompen](https://open.spotify.com/album/2xwO3JeOSSCSwFWwNkmP4O) | 5:22 |
 | 23 | [Did you Ever \- Original Mix](https://open.spotify.com/track/7KG1tbxAcDMOgnaVJibY6w) | [Daniela La Luz](https://open.spotify.com/artist/1RDvzOp1L5KFMxWsHHzcPN) | [Did You Ever \- Album PreSampler](https://open.spotify.com/album/7mbpXZRuW6T0bniMcMqFOO) | 6:30 |
 | 24 | [In Europe, Kinda Sad](https://open.spotify.com/track/7AS495TUkmqZtlEiL8Pcp0) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [In Europe, Kinda Sad](https://open.spotify.com/album/0eG7JPvydVsEuMQKmi7w0J) | 5:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 69 | [Rayna \- Shanti Celeste Remix](https://open.spotify.com/track/4hmKziZXTpDbqBqW7hZW7V) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Rayna \(Shanti Celeste Remix\)](https://open.spotify.com/album/5aC4FfAUuHAIqtYmuu1Ki4) | 6:52 |
 | 70 | [Gasoline, Pt\. 2](https://open.spotify.com/track/76rWWUIdZ3QonRhUOzLjvS) | [Darcy Baylis](https://open.spotify.com/artist/3blRQedtHHIGK76BFF1n1P) | [Days After Breaking](https://open.spotify.com/album/30UnTsr4oe3T2QzpKYt7OB) | 6:30 |
 
-Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMDU4NzFjMTM3YmQzODA5MDg2ZGM4ODg2MWIwNDJhNDQw`
+Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMGE1NGZmMmE5YWUyNDEyNWQ2MzYxNWQwNzRlNTI3ZTYz`

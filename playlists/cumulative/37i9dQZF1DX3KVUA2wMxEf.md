@@ -4,7 +4,7 @@
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-81 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/20tmJ1BJdJTTUlBOfl3Mrz)
+82 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cuando Pienso en Ti](https://open.spotify.com/track/6bk08yC2wyEF8P4o1fcYkw) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/7KGUoRC4gZdPm5L6elVviz) | 5:19 | 2021-12-14 | 2022-07-29 |
 | [Cuando Pienso en Ti](https://open.spotify.com/track/6d49mKNcJT2426oYiC09gJ) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/4mbl2aKs7pes6EKvInIsLL) | 5:19 | 2022-02-22 |  |
 | [De Antes](https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 5:04 | 2021-12-14 |  |
+| [Dicen](https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños De La Playa](https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp) | 2:49 | 2023-01-27 |  |
 | [Distancia y Ficción](https://open.spotify.com/track/6YZFu1qIZA9o8ryEeoCVpl) | [Tarará](https://open.spotify.com/artist/3pOCFYJe0tWqFlX7XqF4cn) | [Distancia y Ficción](https://open.spotify.com/album/3dpycFGnz2H4v4CGOHs1kO) | 2:15 | 2021-12-14 |  |
 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 | 2021-12-14 |  |
 | [El Árbol](https://open.spotify.com/track/1q2GWueMnvjzYGksW2SBPJ) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [El Árbol](https://open.spotify.com/album/5K0vKNaWvRSNKf0EbgUhSu) | 3:31 | 2021-12-14 |  |
@@ -73,7 +74,7 @@
 | [Sin Ti](https://open.spotify.com/track/47HsXFJ6I8tSwq24J5X5CQ) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Sin Ti](https://open.spotify.com/album/79LCISKDQIUmcjTNg0JTFl) | 4:47 | 2021-12-14 | 2022-07-29 |
 | [Sin Ti \(feat\. La Vida Bohème\)](https://open.spotify.com/track/6vLZeNQlHhvJyiUBEzlUQB) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Sin Ti \(feat\. La Vida Bohème\)](https://open.spotify.com/album/1rp1fcFSrhvtUwUdwf5z7p) | 4:47 | 2022-02-22 |  |
 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 | 2021-12-14 |  |
-| [Te Encontré](https://open.spotify.com/track/0GkL8obM6sRO530f7Ky6Dc) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Knock Out](https://open.spotify.com/album/7vrc1JA1BHjMESqdhJup2z) | 4:30 | 2021-12-14 |  |
+| [Te Encontré](https://open.spotify.com/track/0GkL8obM6sRO530f7Ky6Dc) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Knock Out](https://open.spotify.com/album/7vrc1JA1BHjMESqdhJup2z) | 4:30 | 2021-12-14 | 2023-01-28 |
 | [Te Regalo una Promesa](https://open.spotify.com/track/0OEWFr9nOhfuHaeLcuQaHe) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:24 | 2021-12-14 |  |
 | [Te Robaste Mi Corazón](https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:03 | 2021-12-14 |  |
 | [Tengo Tu Love](https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:51 | 2021-12-14 |  |

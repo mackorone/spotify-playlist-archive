@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Enjoy your favourite K-drama's OST instrumentals. (Cover: Forecasting Love and Weather(\uae30\uc0c1\uccad \uc0ac\ub78c\ub4e4) (\ud55c\uad6d OST \ubc18\uc8fc\uace1\uacfc \ud568\uaed8 \uc5ec\uc720\ub85c\uc6b4 \uc2dc\uac04\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "Korean OST Instrumentals",
-  "published_playlist_ids": [
-    "0Dry2UAG41jFfF5O4KGZxO"
-  ],
   "tracks": [
     {
       "album": {
@@ -665,7 +662,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 229101,
       "name": "Did - Thirty-nine Instrumental Version",
       "url": "https://open.spotify.com/track/2PKuQxcVQZiyizrDfuqmtS"
@@ -1155,7 +1152,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 279779,
       "name": "Home Instrumental",
       "url": "https://open.spotify.com/track/5HHEhGBLhP6NAHNqXCkJeA"
@@ -2971,7 +2968,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": "2023-01-06",
       "duration_ms": 234093,
       "name": "You're Cold - Instrumental",
       "url": "https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4"
@@ -3065,7 +3062,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 224021,
       "name": "\ub098\ub294 \ubcfc \uc218 \uc5c6\ub358 \uc774\uc57c\uae30 (Inst.) (Instrumental)",
       "url": "https://open.spotify.com/track/2gWhI5qs1hx9VrCzmFyqbb"
@@ -3090,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193950,
+      "name": "\ub108\ub97c \uc0ac\ub791\ud558\uace0 \uc788\uc5b4 - Instrumental",
+      "url": "https://open.spotify.com/track/22ufiu7gDBCAUgytTidmS5"
+    },
+    {
+      "album": {
         "name": "\ud0dc\uc591\uc758 \ud6c4\uc608 (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/26r2DqK7nPfiE097XOjD7z"
       },
@@ -3105,6 +3120,24 @@
       "duration_ms": 226574,
       "name": "\uc774 \uc0ac\ub791 (Instrumental)",
       "url": "https://open.spotify.com/track/2tQUuH4PcJRnqZk2LTKlTK"
+    },
+    {
+      "album": {
+        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/4iouMUcFgTOvYb7uOzYPsc"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 254363,
+      "name": "\uc9c0\uae08 \ub9cc\ub098\ub7ec \uac08\uac8c - Instrumental",
+      "url": "https://open.spotify.com/track/0LzzN4vnTVHZUNZuAe8EYt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbbMUWc2KuOB"

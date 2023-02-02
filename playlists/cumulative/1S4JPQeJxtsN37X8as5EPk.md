@@ -4,7 +4,7 @@
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 
-48 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/4Jo19HBA4ixNDiU0S9aYdZ)
+48 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

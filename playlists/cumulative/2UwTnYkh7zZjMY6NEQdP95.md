@@ -4,7 +4,7 @@
 
 > 
 
-40 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/7f23olFojXNqT2XCHIpANY)
+40 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [One Of Those Summer Days](https://open.spotify.com/track/5jbp640O8Q2XQvhV8aCr2F) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/3kSUJ193A42dfs82PmOUP0) | 4:32 | 2013-05-20 |  |
 | [Passing Me By](https://open.spotify.com/track/6enXeBnLnyjfweN6VWcIoh) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II: The Pharcyde](https://open.spotify.com/album/5iLfT6G0VLP4WHUZTAYuEF) | 5:01 | 2013-05-20 |  |
 | [Saturday in the Park](https://open.spotify.com/track/4kUYITaDeGkmKzWQRd5h7R) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [The Collection](https://open.spotify.com/album/3LKijZ37n62pTNd650EuFp) | 3:52 | 2013-05-20 |  |
-| [Suddenly Last Summer \- Remastered](https://open.spotify.com/track/29nFgy1fZBjS8a7Fbtj4S4) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [Essential Collection](https://open.spotify.com/album/1wSCokfubvO5owYCbn1qCn) | 3:42 | 2013-05-20 |  |
+| [Suddenly Last Summer \- Remastered 2002](https://open.spotify.com/track/29nFgy1fZBjS8a7Fbtj4S4) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [Essential Collection](https://open.spotify.com/album/1wSCokfubvO5owYCbn1qCn) | 3:42 | 2013-05-20 |  |
 | [Summer](https://open.spotify.com/track/5qifWYBY62MNvk42U8UkDC) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Best Of](https://open.spotify.com/album/0Ly7HZvko6HkBrdG0a7eQs) | 6:39 | 2013-05-20 |  |
 | [Summer Breeze](https://open.spotify.com/track/5vleqIhq57W9kUinB2XWuY) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Summer Breeze \- The Best Of](https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe) | 6:11 | 2013-05-20 |  |
 | [Summer In The City](https://open.spotify.com/track/157llmCqs15bAa3T4z3H1a) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4HIPVdLw3m6ZJX3LAHvXl9) | 4:04 | 2013-05-20 |  |

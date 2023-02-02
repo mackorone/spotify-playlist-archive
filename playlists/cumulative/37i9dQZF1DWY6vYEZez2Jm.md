@@ -4,7 +4,7 @@
 
 > Essential music from the singular artist.
 
-38 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/6JFLMNzsTMJ9apmQMNppUm)
+38 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

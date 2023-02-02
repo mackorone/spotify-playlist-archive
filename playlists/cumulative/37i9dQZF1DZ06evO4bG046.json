@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
   "name": "This Is Los Jaivas",
-  "published_playlist_ids": [
-    "40T1DL5yMeorxfQGdK6QOW"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 220373,
       "name": "Aconcagua",
       "url": "https://open.spotify.com/track/1J3YwZoLyuT0pPOtMbenOE"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 242200,
+      "name": "Aguamarina",
+      "url": "https://open.spotify.com/track/38oA0SevVbUsoZCBDEWcvb"
     },
     {
       "album": {
@@ -145,7 +160,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 194080,
       "name": "Cancion De Los Pajaros",
       "url": "https://open.spotify.com/track/5Ho0q4gNqUU9XHHzgfm76O"
@@ -697,7 +712,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 280000,
       "name": "Ma\u00f1ana Me Voy Pa'l Norte",
       "url": "https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4"

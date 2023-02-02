@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
   "name": "Folklore de Siempre",
-  "published_playlist_ids": [
-    "4wtAcRqaRr1DxciaVaIabv"
-  ],
   "tracks": [
     {
       "album": {
@@ -365,7 +362,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 254397,
       "name": "Angelitos Negros",
       "url": "https://open.spotify.com/track/1Qat6Mf8sXwGwtu40wdzrt"
@@ -499,7 +496,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 255680,
       "name": "Balderrama",
       "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
@@ -801,7 +798,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202053,
       "name": "Canto Nochero",
       "url": "https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm"
@@ -1237,7 +1234,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 214893,
       "name": "De Alberdi - Zamba",
       "url": "https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U"
@@ -1295,7 +1292,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-04",
       "duration_ms": 364226,
       "name": "Dios a la Una",
       "url": "https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE"
@@ -1385,7 +1382,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 231813,
       "name": "El Alazan",
       "url": "https://open.spotify.com/track/28AbmVT1sueLjRRYV984WI"
@@ -1623,6 +1620,24 @@
       "duration_ms": 163004,
       "name": "El Que Toca Nunca Baila",
       "url": "https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap"
+    },
+    {
+      "album": {
+        "name": "El Nombrador",
+        "url": "https://open.spotify.com/album/3QTLPn3zMOv7Kic7mRifym"
+      },
+      "artists": [
+        {
+          "name": "Daniel Toro",
+          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207826,
+      "name": "El Seclante\u00f1o",
+      "url": "https://open.spotify.com/track/1A0DWfpjBNBGNFj74DdwsN"
     },
     {
       "album": {
@@ -2055,7 +2070,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 170160,
       "name": "La Descre\u00edda",
       "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
@@ -2365,7 +2380,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 203053,
       "name": "La Refranera",
       "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
@@ -3741,7 +3756,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 220133,
       "name": "Y Va Pasando la Vida",
       "url": "https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0"

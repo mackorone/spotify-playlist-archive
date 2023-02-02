@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Classical tunes to make you feel good. ",
   "name": "Feel Good Classical",
-  "published_playlist_ids": [
-    "6G3IZBkRRq0i7YKsVltwJR"
-  ],
   "tracks": [
     {
       "album": {
@@ -475,7 +472,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 96666,
-      "name": "Concerto a 5 in B flat, Op.7, no.10 for Strings and Continuo: 3. Allegro",
+      "name": "Concerto a 5 in B flat, Op. 7, no.10 for Strings and Continuo: 3. Allegro",
       "url": "https://open.spotify.com/track/4d0wc9bHOiCQXnuvrM8O7u"
     },
     {
@@ -1171,7 +1168,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 214840,
       "name": "Serenade for Strings in C, Op. 48: 2. Walzer: Moderato (Tempo di valse)",
       "url": "https://open.spotify.com/track/2PQkeWe8uoDlgYQcroKhWF"
@@ -1249,7 +1246,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 214840,
       "name": "Serenade for Strings in C, Op. 48: 2. Walzer: Moderato (Tempo di valse)",
       "url": "https://open.spotify.com/track/7lECPgu2JPOieuBAPDMjT2"

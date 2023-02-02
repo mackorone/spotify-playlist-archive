@@ -4,7 +4,7 @@
 
 > Listen to all of the music from the Sing movies!
 
-68 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/7iMaUD1AZumeYFpKkv2Tcx)
+68 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

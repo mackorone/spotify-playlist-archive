@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,873 likes - 102 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,627 likes - 102 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

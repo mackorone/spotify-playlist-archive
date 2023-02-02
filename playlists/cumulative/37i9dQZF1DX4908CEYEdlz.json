@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: blink-182",
+  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
   "name": "Volume M\u00e1ximo",
-  "published_playlist_ids": [
-    "7obgySRmTZymfPOzhJ5T39"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "APOPHYSITIS",
+        "url": "https://open.spotify.com/album/4n1Y8Djpo0xnuhuPWcKYbR"
+      },
+      "artists": [
+        {
+          "name": "Fight The Fade",
+          "url": "https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "(Not) Enough",
+      "url": "https://open.spotify.com/track/65jOD2RMAErYoB1rGUOoLz"
+    },
     {
       "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
@@ -23,7 +38,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 209598,
       "name": "1x1 (feat. Nova Twins)",
       "url": "https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk"
@@ -515,10 +530,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 173931,
       "name": "City Of The Dead",
       "url": "https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb"
+    },
+    {
+      "album": {
+        "name": "Hotel Kalifornia",
+        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173931,
+      "name": "City Of The Dead",
+      "url": "https://open.spotify.com/track/4CPlagY81Aa98saLVpwj2O"
     },
     {
       "album": {
@@ -559,6 +592,24 @@
       "duration_ms": 313373,
       "name": "Cold",
       "url": "https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70"
+    },
+    {
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233752,
+      "name": "Comments",
+      "url": "https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8"
     },
     {
       "album": {
@@ -706,6 +757,28 @@
     },
     {
       "album": {
+        "name": "Dark Eyes",
+        "url": "https://open.spotify.com/album/1Z9bQxRRURNy46GPe3sS2S"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        },
+        {
+          "name": "Scotty Overdose",
+          "url": "https://open.spotify.com/artist/1oqCZv7Ggltj1xEC5gYjFS"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 240000,
+      "name": "Dark Eyes",
+      "url": "https://open.spotify.com/track/2k3Jx1qG1EU0gVNYn0Ku7V"
+    },
+    {
+      "album": {
         "name": "Dominion",
         "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
       },
@@ -757,6 +830,24 @@
       "duration_ms": 209942,
       "name": "Dregs of the Wine",
       "url": "https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165557,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
     },
     {
       "album": {
@@ -913,7 +1004,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 151533,
       "name": "EDGING",
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
@@ -931,7 +1022,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 240000,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
@@ -1490,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Feels So Good",
+        "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217537,
+      "name": "Heartbreak Feels So Good",
+      "url": "https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r"
+    },
+    {
+      "album": {
         "name": "Heavy Is The Crown",
         "url": "https://open.spotify.com/album/3PZhCt0gqzjDJLC8yKUohe"
       },
@@ -1934,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Love From The Other Side",
+        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247320,
+      "name": "Love From The Other Side - Edit",
+      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
+    },
+    {
+      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -1960,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Lux \u00c6terna",
+        "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
+    },
+    {
+      "album": {
         "name": "Maquiagem",
         "url": "https://open.spotify.com/album/0xvs1QlQNbxBryIYOKCrs1"
       },
@@ -1975,7 +2120,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 184941,
       "name": "Maquiagem",
       "url": "https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde"
@@ -2029,7 +2174,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
@@ -2171,7 +2316,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 214724,
       "name": "New Devil (feat. Maria Brink of In This Moment)",
       "url": "https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP"
@@ -2387,7 +2532,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 256440,
       "name": "Peach",
       "url": "https://open.spotify.com/track/1OWNwD4n5bGm8CcH3uuQ3C"
@@ -2558,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/0JPpXj9R4dOgYbSERMAnRM"
+      },
+      "artists": [
+        {
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264973,
+      "name": "ROCKOPHOBIA",
+      "url": "https://open.spotify.com/track/09RlKT4zUZHNJ6WJPGHJdp"
+    },
+    {
+      "album": {
         "name": "Roses For You",
         "url": "https://open.spotify.com/album/7qkjcLooZU0VyhhnbrxFUa"
       },
@@ -2609,6 +2772,24 @@
       "duration_ms": 211457,
       "name": "San Quentin",
       "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
+    },
+    {
+      "album": {
+        "name": "Screaming Suicide",
+        "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
     },
     {
       "album": {
@@ -3172,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 219043,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT"
+    },
+    {
+      "album": {
         "name": "Torch",
         "url": "https://open.spotify.com/album/5IDOB0Ms2VjRPc5qGudrmM"
       },
@@ -3295,6 +3494,24 @@
       "duration_ms": 213389,
       "name": "Um Grito de Paz",
       "url": "https://open.spotify.com/track/6yGHySxpWPTPsq0dndxHdo"
+    },
+    {
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/1EDn1YJji6cO0jaxqeI89Y"
+      },
+      "artists": [
+        {
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 221333,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/3RLQmZog1TaS6r1j186j7k"
     },
     {
       "album": {
@@ -3491,7 +3708,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244089,
-      "name": "Worst Is On It's Way - Requiem Mass",
+      "name": "Worst Is On It's Way - Requiem Mass / Live at Hollywood United Methodist Church / 2022",
       "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
     },
     {

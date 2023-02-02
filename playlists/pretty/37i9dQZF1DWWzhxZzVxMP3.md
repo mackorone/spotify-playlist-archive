@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,881 likes - 103 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,908 likes - 103 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 5 | [Stay](https://open.spotify.com/track/0WYE5MQtaUkcmSlT1QiLAj) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm), [Siri Klinth](https://open.spotify.com/artist/2MLl4fOfncxNI3R8oBZc0d) | [Stay](https://open.spotify.com/album/58jnBLSB88oRJDKMt2ijKc) | 2:54 |
 | 6 | [Cruel Summer](https://open.spotify.com/track/2lJVlO1UwZdTYRSHQoSpGj) | [Esqapades](https://open.spotify.com/artist/2C2tv6F19vAPlgpvih613k) | [Cruel Summer](https://open.spotify.com/album/17yiKBHLT2LBbHGMaCxfsY) | 3:23 |
 | 7 | [Thank You Next \- Bossa Nova](https://open.spotify.com/track/0oDaCDJSz9K878vbIOmQsT) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Thank You Next \- Bossa Nova](https://open.spotify.com/album/4cpGMTeSx4MyAbDgfW51ih) | 3:47 |
-| 8 | [Castaways](https://open.spotify.com/track/04x0vyXqzanCAsbLlZnOPS) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS), [Jasmine Siregar](https://open.spotify.com/artist/7JkPqLbhxxrKHZQSEibjPp) | [Dream a Little Dream](https://open.spotify.com/album/72q59EoIbz2oqXBAmM8eB7) | 1:50 |
+| 8 | [Castaways](https://open.spotify.com/track/7eqmcFd2Rjztz9LSUwr4Eg) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS), [Jasmine Siregar](https://open.spotify.com/artist/7JkPqLbhxxrKHZQSEibjPp) | [Dream a Little Dream](https://open.spotify.com/album/5rI1Za4mw6vDz0jbS23MwF) | 1:50 |
 | 9 | [Wicked Game \- Bossa Nova Version](https://open.spotify.com/track/3kYKtUPRQd4ZO9A3UhmxAX) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Wicked Game \(Bossa Nova Version\)](https://open.spotify.com/album/6YbT952JxSplB2O1e7keyG) | 2:49 |
 | 10 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 |
 | 11 | [Harder](https://open.spotify.com/track/6QOrNa2LhVU4xHnTZRk95C) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Harder](https://open.spotify.com/album/5OvyYvjzIAxu7thqQziUT4) | 2:52 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 102 | [Forever Young](https://open.spotify.com/track/1YoOexv2qAxVZo5xnLlt5h) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Forever Young](https://open.spotify.com/album/5ETornmpL2uUmYDdtF0Oy4) | 3:39 |
 | 103 | [The Hardest Part](https://open.spotify.com/track/7rUOWbFE4GJ4od2W7at9uC) | [Paulina Rodriguez](https://open.spotify.com/artist/365WhazRqqOCcrIMEcBtpn) | [The Hardest Part](https://open.spotify.com/album/1dM2zZhgkmRgKbWPpTjqQ2) | 4:20 |
 
-Snapshot ID: `MTY2NDU1MDU5OCwwMDAwMDAwMGQyYzgyYTA1MDQyMGRlYTNjZjM2YmM3NzYwMDQyZmNh`
+Snapshot ID: `MTY2NDU1MDU5OCwwMDAwMDAwMGMwYTZmZGU3MWY3YzZkYzAxNDdlMGU4MDUxYWZhYTJm`

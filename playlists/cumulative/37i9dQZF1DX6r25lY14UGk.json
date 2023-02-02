@@ -2,10 +2,29 @@
   "date_first_scraped": "2022-04-19",
   "description": "Essential kids songs to add to your family's collection.",
   "name": "toybox",
-  "published_playlist_ids": [
-    "3HIzMT3q1KCJeS8LLq1zbk"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Kids Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126688,
+      "name": "Affirmation Song",
+      "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk"
+    },
     {
       "album": {
         "name": "Plants Rock",
@@ -395,6 +414,58 @@
       "duration_ms": 214613,
       "name": "Dos Oruguitas",
       "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+    },
+    {
+      "album": {
+        "name": "Schvitz",
+        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144588,
+      "name": "Earworm",
+      "url": "https://open.spotify.com/track/3cc1BbtqEBbmBvXcmqdwBa"
+    },
+    {
+      "album": {
+        "name": "Earworm",
+        "url": "https://open.spotify.com/album/0GBVpcsUU2nzeOLHQ0sirl"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 144588,
+      "name": "Earworm",
+      "url": "https://open.spotify.com/track/6rp0Q5ptNjERiSPe4yATSl"
     },
     {
       "album": {
@@ -1233,7 +1304,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 100547,
       "name": "Like Nobody Else",
       "url": "https://open.spotify.com/track/0lxAaW5ajqmnvEZacxGPqX"
@@ -1259,6 +1330,28 @@
       "duration_ms": 100547,
       "name": "Like Nobody Else",
       "url": "https://open.spotify.com/track/4ab5Xa3DF4gm6heuhTvqr9"
+    },
+    {
+      "album": {
+        "name": "Big Heart Beats",
+        "url": "https://open.spotify.com/album/4FUUzbX1zQIRSYE4rcetEV"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        },
+        {
+          "name": "Tha Vill",
+          "url": "https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100547,
+      "name": "Like Nobody Else",
+      "url": "https://open.spotify.com/track/4poaymEq8m70lsLIHBY0Ja"
     },
     {
       "album": {
@@ -1615,6 +1708,36 @@
       "duration_ms": 252495,
       "name": "Rainbow Connection",
       "url": "https://open.spotify.com/track/2cOfeOWB5kAN2xHeD6jFHe"
+    },
+    {
+      "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hodson-Prior",
+          "url": "https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF"
+        },
+        {
+          "name": "Meesha Garbett",
+          "url": "https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4"
+        },
+        {
+          "name": "Liberty Greig",
+          "url": "https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4"
+        },
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174746,
+      "name": "Revolting Children",
+      "url": "https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt"
     },
     {
       "album": {

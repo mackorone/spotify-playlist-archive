@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-15",
   "description": "\u00a1Pop-punk por siempre!",
   "name": "Escena Pop Punk",
-  "published_playlist_ids": [
-    "3WhbNn8qSzUKSvI6nJ4Hu0"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 199924,
       "name": "Antes",
       "url": "https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa"
@@ -167,6 +164,24 @@
       "duration_ms": 234358,
       "name": "Aunque a Veces Tenga Miedo",
       "url": "https://open.spotify.com/track/3NtymRSp0GJUBeiNUk3ZRL"
+    },
+    {
+      "album": {
+        "name": "Bacard\u00ed",
+        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
+      },
+      "artists": [
+        {
+          "name": "Pet Friendly",
+          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151572,
+      "name": "Bacard\u00ed",
+      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
     },
     {
       "album": {
@@ -390,6 +405,28 @@
     },
     {
       "album": {
+        "name": "Autodestrucci\u00f3n",
+        "url": "https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR"
+      },
+      "artists": [
+        {
+          "name": "Buen Viaje",
+          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
+        },
+        {
+          "name": "Fear Allison",
+          "url": "https://open.spotify.com/artist/75t1ar10ekAij353mysCMK"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234437,
+      "name": "Conversaciones Con Mi Almohada",
+      "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
+    },
+    {
+      "album": {
         "name": "Conversaciones Con Mi Almohada",
         "url": "https://open.spotify.com/album/1gv3HDa8Q2S9hFntHQRbCX"
       },
@@ -603,7 +640,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 184354,
       "name": "Doble Vida",
       "url": "https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF"
@@ -975,7 +1012,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 203003,
       "name": "La Naturaleza Incoherente del Ser",
       "url": "https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG"
@@ -993,7 +1030,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-22",
       "duration_ms": 294325,
       "name": "La Ultima Excusa",
       "url": "https://open.spotify.com/track/00ru0jOJXVP8Qf5fdBTaqX"
@@ -1382,6 +1419,28 @@
     },
     {
       "album": {
+        "name": "Nunca Me Voy a Ir",
+        "url": "https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS"
+      },
+      "artists": [
+        {
+          "name": "MIKI",
+          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
+        },
+        {
+          "name": "Niza Buenrostro",
+          "url": "https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151829,
+      "name": "Nunca Me Voy a Ir",
+      "url": "https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG"
+    },
+    {
+      "album": {
         "name": "Masappan",
         "url": "https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e"
       },
@@ -1455,7 +1514,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 212939,
       "name": "Primer Lugar",
       "url": "https://open.spotify.com/track/0meCAzWjALDb070H6L9DsS"
@@ -1614,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+    },
+    {
+      "album": {
         "name": "Te Voy a Tener",
         "url": "https://open.spotify.com/album/4qus8nd695aj9k2XJXTPme"
       },
@@ -1687,6 +1764,24 @@
     {
       "album": {
         "name": "Un A\u00f1o",
+        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
+      },
+      "artists": [
+        {
+          "name": "Abril 88",
+          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166540,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
+    },
+    {
+      "album": {
+        "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/68enzjVhVN7GNbtkGl5hl2"
       },
       "artists": [
@@ -1715,7 +1810,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 166540,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/3cxNffyduQfuB5W9w9bbv9"

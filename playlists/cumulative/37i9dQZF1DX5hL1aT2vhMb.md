@@ -4,7 +4,7 @@
 
 > Celebrate the great women composers who continue to transform the classical world\. Cover: Olivia Belli
 
-75 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/0WktRk73nv0k8V6CAxvsRm)
+75 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

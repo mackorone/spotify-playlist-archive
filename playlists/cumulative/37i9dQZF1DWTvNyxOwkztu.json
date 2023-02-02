@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Just lean back and enjoy relaxed beats.",
   "name": "Chillout Lounge",
-  "published_playlist_ids": [
-    "1B3KGcDzKz7tniplCeg7Gc"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 122076,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
@@ -109,7 +106,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 179461,
       "name": "Adventurous",
       "url": "https://open.spotify.com/track/1Fqwyw77YAzrBVSaJp9kFm"
@@ -340,6 +337,24 @@
     },
     {
       "album": {
+        "name": "As Long As You Love Me",
+        "url": "https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m"
+      },
+      "artists": [
+        {
+          "name": "Lilly Bay",
+          "url": "https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158368,
+      "name": "As Long As You Love Me",
+      "url": "https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs"
+    },
+    {
+      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf"
       },
@@ -485,6 +500,24 @@
       "duration_ms": 151111,
       "name": "Be Your Home",
       "url": "https://open.spotify.com/track/4CwnUUiKf86h7nu11EFTat"
+    },
+    {
+      "album": {
+        "name": "Beautiful Days",
+        "url": "https://open.spotify.com/album/7L61BSNJHk6KbiXS4SyYO3"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Beautiful Days",
+      "url": "https://open.spotify.com/track/3VkSrMcKCi4CSXoNiSqnZd"
     },
     {
       "album": {
@@ -839,7 +872,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 153027,
       "name": "Curvature",
       "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
@@ -1037,7 +1070,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 144354,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk"
@@ -1091,7 +1124,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 161739,
       "name": "dustland",
       "url": "https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy"
@@ -1225,7 +1258,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": "2023-02-02",
       "duration_ms": 176052,
       "name": "flux de vibrations",
       "url": "https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu"
@@ -1398,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Glassy Haze",
+        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
+      },
+      "artists": [
+        {
+          "name": "Kubicova",
+          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "Glassy Haze",
+      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
+    },
+    {
+      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g"
       },
@@ -1409,7 +1460,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 130434,
       "name": "Go Insane",
       "url": "https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY"
@@ -1865,7 +1916,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 244285,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
@@ -2049,6 +2100,28 @@
       "duration_ms": 187946,
       "name": "Lost Sea",
       "url": "https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D"
+    },
+    {
+      "album": {
+        "name": "Love Like We're Dying",
+        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
+      },
+      "artists": [
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183876,
+      "name": "Love Like We're Dying",
+      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
     },
     {
       "album": {
@@ -2287,7 +2360,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 161192,
       "name": "Mount Fuji",
       "url": "https://open.spotify.com/track/3xV6mTlSsIinmU8Xi77qUo"
@@ -2348,6 +2421,28 @@
     },
     {
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/0xk1iMxznjxOjZY4IyJ2CC"
+      },
+      "artists": [
+        {
+          "name": "sunsets & sandals",
+          "url": "https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA"
+        },
+        {
+          "name": "Jako Diaz",
+          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225714,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/2rxjPYh8ZfQDBqOMz6TOXZ"
+    },
+    {
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/1OjaAJlrCNgIiSGIRyy7st"
       },
@@ -2395,7 +2490,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 132857,
       "name": "NiteGlow",
       "url": "https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ"
@@ -2673,7 +2768,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 213600,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH"
@@ -2749,6 +2844,24 @@
       "duration_ms": 282526,
       "name": "Rissa",
       "url": "https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O"
+    },
+    {
+      "album": {
+        "name": "Rohan",
+        "url": "https://open.spotify.com/album/5PuEISOccj2QmqLv7wyplF"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Rohan",
+      "url": "https://open.spotify.com/track/27qGyy5X3rkrIQ6XXx8r5V"
     },
     {
       "album": {
@@ -2839,10 +2952,46 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 191420,
       "name": "Run",
       "url": "https://open.spotify.com/track/0VLaaS481wSlMnf6UEQnJM"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191420,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv"
+    },
+    {
+      "album": {
+        "name": "Running Faster",
+        "url": "https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140263,
+      "name": "Running Faster",
+      "url": "https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv"
     },
     {
       "album": {
@@ -3005,7 +3154,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 193577,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws"
@@ -3233,6 +3382,24 @@
       "duration_ms": 167239,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV"
+    },
+    {
+      "album": {
+        "name": "Still Need People",
+        "url": "https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182267,
+      "name": "Still Need People",
+      "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
     },
     {
       "album": {
@@ -3651,7 +3818,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 156923,
       "name": "Title Theme",
       "url": "https://open.spotify.com/track/4g2rGutKnnY43ubOC121U7"
@@ -3777,7 +3944,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 356000,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
@@ -4069,7 +4236,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 274208,
       "name": "Wingspan",
       "url": "https://open.spotify.com/track/3MIMhAWM5nEAzMtGn81ZYm"

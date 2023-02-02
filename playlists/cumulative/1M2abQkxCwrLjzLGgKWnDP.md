@@ -4,7 +4,7 @@
 
 > Lend some gravitas to the moment with the complete works of Vincenzo Bellini, featuring acclaimed recordings of his entire operatic oeuvre and large scale sacred choral pieces.
 
-500 songs - 1 day 8 hr 36 min - [published](https://open.spotify.com/playlist/45Wezyao0MCbk5EkmFK6ii)
+500 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

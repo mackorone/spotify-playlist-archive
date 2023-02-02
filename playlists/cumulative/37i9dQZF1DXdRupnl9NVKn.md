@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-83 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/3p3yRo4Iq3n6IVfjNDgnL1)
+83 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

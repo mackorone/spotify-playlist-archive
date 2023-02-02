@@ -4,7 +4,7 @@
 
 > NCTzens' go\-to place for all things NCT.
 
-155 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/6hDx4vvNpXjfh4hvd24tkm)
+155 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

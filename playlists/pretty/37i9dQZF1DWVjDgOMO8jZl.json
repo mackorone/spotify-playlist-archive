@@ -1,54 +1,18 @@
 {
-  "description": "Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI",
-  "num_followers": 18351,
+  "description": "Scopri il documentario speciale dedicato a Rhove e la playlist con alcune delle top promesse della musica italiana! ",
+  "num_followers": 18801,
   "original_name": "RADAR Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMzMDg2MCwwMDAwMDAwMGE0YmY3OGY3MmEwZTc4ODJjNWQyYjRiNTk0ZTM2M2Mw",
+  "snapshot_id": "MTY3NDYwMTI2MCwwMDAwMDAwMDUyY2M2ZGFmYWIzOGJhZDdiYjM2Nzk2YTA0YTMzYmY1",
   "tracks": [
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
-        "name": "Male",
-        "url": "https://open.spotify.com/album/0SR5JsqwgUC0QxrR1dzBVO"
-      },
-      "artists": [
-        {
-          "name": "TOMMY DALI",
-          "url": "https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5"
-        }
-      ],
-      "duration_ms": 153808,
-      "name": "Male",
-      "url": "https://open.spotify.com/track/0BrwoWkbdxvvFnJohaw2pp"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Mama (feat. Davinhor)",
-        "url": "https://open.spotify.com/album/5DaFcleIdZFZDsvx4C4ftg"
-      },
-      "artists": [
-        {
-          "name": "Epoque",
-          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
-        },
-        {
-          "name": "DAVINHOR",
-          "url": "https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT"
-        }
-      ],
-      "duration_ms": 146776,
-      "name": "Mama (feat. Davinhor)",
-      "url": "https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "All Over This Party",
-        "url": "https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz"
+        "name": "Merchants",
+        "url": "https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN"
       },
       "artists": [
         {
@@ -56,12 +20,44 @@
           "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
         }
       ],
-      "duration_ms": 212830,
-      "name": "All Over This Party",
-      "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
+      "duration_ms": 248901,
+      "name": "Merchants",
+      "url": "https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "Tolona",
+        "url": "https://open.spotify.com/album/6h8884jQL2kUResMNzgtTf"
+      },
+      "artists": [
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Tolona",
+      "url": "https://open.spotify.com/track/6f74ZrISrgps488L1QYSb0"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Traumi",
         "url": "https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF"
@@ -81,7 +77,75 @@
       "url": "https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "Mama (feat. Davinhor)",
+        "url": "https://open.spotify.com/album/5DaFcleIdZFZDsvx4C4ftg"
+      },
+      "artists": [
+        {
+          "name": "Epoque",
+          "url": "https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k"
+        },
+        {
+          "name": "DAVINHOR",
+          "url": "https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT"
+        }
+      ],
+      "duration_ms": 146776,
+      "name": "Mama (feat. Davinhor)",
+      "url": "https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 169937,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/5S7fTiSn3bpJF9UMCp9j97"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "On Time For Her",
+        "url": "https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 218704,
+      "name": "On Time For Her",
+      "url": "https://open.spotify.com/track/4Y5ew6TxDKSirbM8wHYbms"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "Bambina",
+        "url": "https://open.spotify.com/album/4RVpMxTNK77CJp8ddQbJjL"
+      },
+      "artists": [
+        {
+          "name": "Caffellatte",
+          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Bambina",
+      "url": "https://open.spotify.com/track/3ConKv3XVOlkcQp0SfaHA3"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Tout va bien",
         "url": "https://open.spotify.com/album/1Mixzi6JgQWY5499xR8ohL"
@@ -97,23 +161,23 @@
       "url": "https://open.spotify.com/track/4iuWGd3OWbHzzA8dCWoXTn"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
-        "name": "Nonchalance",
-        "url": "https://open.spotify.com/album/0y3WjIF2bIH5BrbFRsKzZG"
+        "name": "Post Nostalgia",
+        "url": "https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv"
       },
       "artists": [
         {
-          "name": "Caffellatte",
-          "url": "https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay"
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
         }
       ],
-      "duration_ms": 182105,
-      "name": "Nonchalance",
-      "url": "https://open.spotify.com/track/1fSUTj7qUeFW6R1PD2ofmn"
+      "duration_ms": 185501,
+      "name": "Metaverso",
+      "url": "https://open.spotify.com/track/4dCMB4V9Zyncd8oFAzWRSZ"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
@@ -137,23 +201,39 @@
       "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
-        "name": "Post Nostalgia",
-        "url": "https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv"
+        "name": "Male",
+        "url": "https://open.spotify.com/album/0SR5JsqwgUC0QxrR1dzBVO"
       },
       "artists": [
         {
-          "name": "chiamamifaro",
-          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+          "name": "TOMMY DALI",
+          "url": "https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5"
         }
       ],
-      "duration_ms": 185501,
-      "name": "Metaverso",
-      "url": "https://open.spotify.com/track/4dCMB4V9Zyncd8oFAzWRSZ"
+      "duration_ms": 153808,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/0BrwoWkbdxvvFnJohaw2pp"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "All Over This Party",
+        "url": "https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 212830,
+      "name": "All Over This Party",
+      "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "sotto casa tua",
         "url": "https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu"
@@ -173,7 +253,7 @@
       "url": "https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Rose Senza Spine",
         "url": "https://open.spotify.com/album/4LCVI9qr0bxmKQUfX7OaIH"
@@ -189,75 +269,7 @@
       "url": "https://open.spotify.com/track/2XJc9OFlT2gWcieSgxlfHP"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "On Time For Her",
-        "url": "https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap"
-      },
-      "artists": [
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
-        }
-      ],
-      "duration_ms": 218704,
-      "name": "On Time For Her",
-      "url": "https://open.spotify.com/track/4Y5ew6TxDKSirbM8wHYbms"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "FARSI MALE A NOI VA BENE 2.0",
-        "url": "https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo"
-      },
-      "artists": [
-        {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
-        }
-      ],
-      "duration_ms": 158470,
-      "name": "QUELLE PAROLE",
-      "url": "https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "sottacqua",
-        "url": "https://open.spotify.com/album/0zj4qpoGerASVYBsq8uy2z"
-      },
-      "artists": [
-        {
-          "name": "chiamamifaro",
-          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
-        },
-        {
-          "name": "rovere",
-          "url": "https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux"
-        }
-      ],
-      "duration_ms": 201189,
-      "name": "sottacqua",
-      "url": "https://open.spotify.com/track/2Pdr33YqelbFwPepOAwBQy"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "PROVINCIALE",
-        "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 169937,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/5S7fTiSn3bpJF9UMCp9j97"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Paradiso & Inferno",
         "url": "https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9"
@@ -277,7 +289,43 @@
       "url": "https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "FARSI MALE A NOI VA BENE",
+        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "TIRA E MOLLA",
+      "url": "https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "sottacqua",
+        "url": "https://open.spotify.com/album/0zj4qpoGerASVYBsq8uy2z"
+      },
+      "artists": [
+        {
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+        },
+        {
+          "name": "rovere",
+          "url": "https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux"
+        }
+      ],
+      "duration_ms": 201189,
+      "name": "sottacqua",
+      "url": "https://open.spotify.com/track/2Pdr33YqelbFwPepOAwBQy"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Anime Gemelle",
         "url": "https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB"
@@ -297,7 +345,7 @@
       "url": "https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Non mi fa dormire (feat. Caffellatte)",
         "url": "https://open.spotify.com/album/535CWlyiMJgJOgRvbyDF4R"
@@ -317,7 +365,7 @@
       "url": "https://open.spotify.com/track/3V2nxW0jTVF60OKbNepxUn"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Next Big Thing",
         "url": "https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA"
@@ -337,7 +385,7 @@
       "url": "https://open.spotify.com/track/6wHgwzvhFNFT01ecGXNGrI"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Quanto Ti Amo",
         "url": "https://open.spotify.com/album/5Z8aea17ANp1pI8q89O7fL"
@@ -357,7 +405,7 @@
       "url": "https://open.spotify.com/track/1NhWxGIXtR2rEfxSvc5hXb"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Aposto",
         "url": "https://open.spotify.com/album/1hHnzj2rQ4boFeXBLROIXO"
@@ -373,7 +421,7 @@
       "url": "https://open.spotify.com/track/3KA9IQQuAumlMXg0GxWdKg"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
@@ -389,7 +437,7 @@
       "url": "https://open.spotify.com/track/7BW4fxpnJjIU1ETT6pdSJW"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Cose stupide",
         "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
@@ -405,7 +453,7 @@
       "url": "https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Fratelli & Sogni",
         "url": "https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "SO CHI SEI",
         "url": "https://open.spotify.com/album/7H4olKm9KSm2stKpSkih6N"
@@ -441,27 +489,7 @@
       "url": "https://open.spotify.com/track/3uNwqefXvTVJROzoGzOMCj"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Numeri primi",
-        "url": "https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH"
-      },
-      "artists": [
-        {
-          "name": "Hu",
-          "url": "https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6"
-        },
-        {
-          "name": "Francesca Michielin",
-          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
-        }
-      ],
-      "duration_ms": 150450,
-      "name": "Guai (feat. Francesca Michielin)",
-      "url": "https://open.spotify.com/track/34hOXJuqGnxRVg0B5eDrpG"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Pioggia di CBD",
         "url": "https://open.spotify.com/album/4UcG471p9uZwNJUGLRG4Ib"
@@ -477,7 +505,7 @@
       "url": "https://open.spotify.com/track/5eL7azGDSAndUemSxGm79B"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Cancelo",
         "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
@@ -493,7 +521,23 @@
       "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "FARSI MALE A NOI VA BENE 2.0",
+        "url": "https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "duration_ms": 158470,
+      "name": "QUELLE PAROLE",
+      "url": "https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Particelle (feat. Laila Al Habash)",
         "url": "https://open.spotify.com/album/1vlzf9KjSJ3Bm8T6MoGbas"
@@ -513,7 +557,7 @@
       "url": "https://open.spotify.com/track/2w75dcKrvv4GRShZ4JEsFx"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Next Big Thing",
         "url": "https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA"
@@ -537,7 +581,7 @@
       "url": "https://open.spotify.com/track/3kkvWnuim3d3n9qXCBg9mT"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Il giorno in cui ho smesso di pensare",
         "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
@@ -557,7 +601,7 @@
       "url": "https://open.spotify.com/track/3WEIhQXeExw6gRwxvOa1Ny"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Abbi cura di te",
         "url": "https://open.spotify.com/album/6XSxwHFDbUJ45wNnn6JklQ"
@@ -577,7 +621,27 @@
       "url": "https://open.spotify.com/track/0GNs56eb5LSYISdi3akjeR"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "Numeri primi",
+        "url": "https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH"
+      },
+      "artists": [
+        {
+          "name": "Hu",
+          "url": "https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6"
+        },
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        }
+      ],
+      "duration_ms": 150450,
+      "name": "Guai (feat. Francesca Michielin)",
+      "url": "https://open.spotify.com/track/34hOXJuqGnxRVg0B5eDrpG"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Capelli blu (feat. ARIETE)",
         "url": "https://open.spotify.com/album/1uAagTn6V0Uy7auhsgOCR5"
@@ -597,23 +661,7 @@
       "url": "https://open.spotify.com/track/5sXsXtwDBgINAVwhoX6Ys2"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Cuore Spezzato",
         "url": "https://open.spotify.com/album/6XhfFeVmH0ZjtKfhGRDRTq"
@@ -629,7 +677,7 @@
       "url": "https://open.spotify.com/track/7zKKDIJ2O9hU60D0QAMovz"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Numeri primi",
         "url": "https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH"
@@ -645,7 +693,7 @@
       "url": "https://open.spotify.com/track/4b3d5gAAIUUhbzhRjQAZ97"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "FARSI MALE A NOI VA BENE",
         "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
@@ -661,7 +709,7 @@
       "url": "https://open.spotify.com/track/6Q5BuRgXZOWItqzvZfjKxw"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Mystic Motel",
         "url": "https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4"
@@ -681,7 +729,7 @@
       "url": "https://open.spotify.com/track/13O6v6qGF3GI60fKpFkJIU"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/2VRyPaFCaZiIaIDC3ZS6fO"
@@ -697,7 +745,7 @@
       "url": "https://open.spotify.com/track/4n73tZIQt1h4Fp4YU68eDP"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Come i Grandi",
         "url": "https://open.spotify.com/album/61zWMNozdieRSJKQw1nzyR"
@@ -717,7 +765,7 @@
       "url": "https://open.spotify.com/track/1DOajHZ9LD7MlNVHz8NMup"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Addio sul serio",
         "url": "https://open.spotify.com/album/0UEOp8rylvCtOqtJ98FpfP"
@@ -733,7 +781,7 @@
       "url": "https://open.spotify.com/track/0hPJkAuxZXnVCIEJPsAOaD"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Seignosse",
         "url": "https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg"
@@ -753,7 +801,7 @@
       "url": "https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Don Dada (Freestyle)",
         "url": "https://open.spotify.com/album/5GxifqmiUiBmR2T4kZFuWX"
@@ -769,7 +817,7 @@
       "url": "https://open.spotify.com/track/6jo48Qtrytwsr8kQeWxxAO"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Cos\u00ec Leggera",
         "url": "https://open.spotify.com/album/0Rjhyjo9x4aI0siMTVlOlj"
@@ -793,7 +841,7 @@
       "url": "https://open.spotify.com/track/27gcKMZcvsiwyVdo0XFZLB"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Millemila",
         "url": "https://open.spotify.com/album/5TdbB1CB4H90cDWSHlBFNC"
@@ -809,7 +857,7 @@
       "url": "https://open.spotify.com/track/21Z6MRumkQbvgyfXPrrMrW"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "TSO",
         "url": "https://open.spotify.com/album/2DPY9Y2HcDleJW1LuAlkan"
@@ -825,7 +873,7 @@
       "url": "https://open.spotify.com/track/361XEjtQol1QjvRNNKZisL"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Domani",
         "url": "https://open.spotify.com/album/07z28nrfMwEHEZCJM4Mecu"
@@ -841,7 +889,7 @@
       "url": "https://open.spotify.com/track/3yMk7pMnagDE4UX7H70RFp"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Foot Forward",
         "url": "https://open.spotify.com/album/6e3Yr0Yj7NM3ejYig0CyMK"
@@ -857,7 +905,7 @@
       "url": "https://open.spotify.com/track/3Dm9mSyalSfqHdUPX5TLyR"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/6bYA5jFVkSwtq3cFpGCvOz"
@@ -873,23 +921,7 @@
       "url": "https://open.spotify.com/track/7feAP0q0KS4DW0blbHK7Pn"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "FARSI MALE A NOI VA BENE",
-        "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
-      },
-      "artists": [
-        {
-          "name": "bnkr44",
-          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "TIRA E MOLLA",
-      "url": "https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Tasche Piene",
         "url": "https://open.spotify.com/album/1rqwu4TY5aQVaipvV6TED7"
@@ -909,7 +941,7 @@
       "url": "https://open.spotify.com/track/6FDnLloftKFqfavEIxGJy2"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
@@ -929,7 +961,7 @@
       "url": "https://open.spotify.com/track/6v03mGE1388jzs9Ufvivia"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Mystic Motel",
         "url": "https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4"
@@ -945,7 +977,7 @@
       "url": "https://open.spotify.com/track/7Fo4H8E05oL7czxsEaHLo1"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Mon Fr\u00e8re",
         "url": "https://open.spotify.com/album/4oNPumU0MDQmVBp22tZLil"
@@ -961,7 +993,7 @@
       "url": "https://open.spotify.com/track/0ECjuTZzoNxv8hRSYS05AX"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Due anni fa",
         "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
@@ -977,7 +1009,7 @@
       "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "On Time For Her",
         "url": "https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap"
@@ -993,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2wo5YYmTIeGhE6tbf0c0NN"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Oblig\u00e9 (feat. Axell)",
         "url": "https://open.spotify.com/album/6SYrKjw00rrplLbusba2Cn"
@@ -1013,7 +1045,7 @@
       "url": "https://open.spotify.com/track/3ylACUPfBSPxP7KE1QRvxP"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Bistrot",
         "url": "https://open.spotify.com/album/67PCJjaYPG1cUjD9KXpQVm"
@@ -1029,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6BVYZ55BxhxYxOH4Tfid77"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Occhi Niagara",
         "url": "https://open.spotify.com/album/5e4Ja9BU1I6flN0insmf1y"
@@ -1045,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6FAt6ZLFlPpjg26N5vZcIJ"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Oracolo",
         "url": "https://open.spotify.com/album/1aHsVu3iBZ3EWqm3U0R4Oy"
@@ -1061,7 +1093,7 @@
       "url": "https://open.spotify.com/track/33SLkWv2MYlUhtUiIyy6hH"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "TooMuch",
         "url": "https://open.spotify.com/album/5W1SrEyT5psrYtuyqkOyCi"
@@ -1081,7 +1113,7 @@
       "url": "https://open.spotify.com/track/4xNJDgvIlMjFIVTr7Fz72j"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Vento",
         "url": "https://open.spotify.com/album/0tEm7FepTMZ4JgfloAAQrJ"
@@ -1101,7 +1133,7 @@
       "url": "https://open.spotify.com/track/5t5qgKLqicCX7qrbYR3GHM"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Boss (io & te)",
         "url": "https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy"
@@ -1117,7 +1149,7 @@
       "url": "https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Ponza",
         "url": "https://open.spotify.com/album/3eeyeSBJ0KSAmhgf91dWhO"
@@ -1133,23 +1165,7 @@
       "url": "https://open.spotify.com/track/5HfObWIsEfQ2PW5Kn57IId"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Montpellier",
-        "url": "https://open.spotify.com/album/1oM9EITMQKknIPJ1pxNTza"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 130949,
-      "name": "Montpellier",
-      "url": "https://open.spotify.com/track/0B6URTmcGaWaXCnBtRiDGR"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/5AwOXRsX7ZO4Q9n4g0C9N0"
@@ -1169,7 +1185,7 @@
       "url": "https://open.spotify.com/track/6BfywUJ9tXjFNVvLZU1wNW"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "FARSI MALE A NOI VA BENE",
         "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
@@ -1185,7 +1201,7 @@
       "url": "https://open.spotify.com/track/5Qo4lrFwepxf9bofOradCv"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Neon",
         "url": "https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp"
@@ -1201,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Personale",
         "url": "https://open.spotify.com/album/7h6T5PwDffabt7N6xBQh3Q"
@@ -1221,7 +1237,7 @@
       "url": "https://open.spotify.com/track/69wEOSLds5SSKy4lUVbaS2"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "SERPENTI",
         "url": "https://open.spotify.com/album/5XUlQst8QXgZPheieGtDG8"
@@ -1237,7 +1253,7 @@
       "url": "https://open.spotify.com/track/0M23VPfGeVvHpBM1rYhULk"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "FARSI MALE A NOI VA BENE",
         "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
@@ -1253,7 +1269,7 @@
       "url": "https://open.spotify.com/track/5A6Rrz4XBXPMRAlVN1tLOR"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Moquette",
         "url": "https://open.spotify.com/album/0oST0heRwy4pEVmiMTTqz7"
@@ -1269,7 +1285,7 @@
       "url": "https://open.spotify.com/track/3yHmVCjg1ed4BrPJIwj2DL"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Petite",
         "url": "https://open.spotify.com/album/7lXvqyfPkgQpx6jXTOQBni"
@@ -1285,7 +1301,7 @@
       "url": "https://open.spotify.com/track/2Yuqyd3Ah8n2pcumd7xB6v"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Mezzanotte",
         "url": "https://open.spotify.com/album/1pNTOh7L7lDbZGelqCpEKo"
@@ -1301,23 +1317,7 @@
       "url": "https://open.spotify.com/track/652Qiud4KveJC4uUDFDXNw"
     },
     {
-      "added_at": "2022-11-24 23:01:00",
-      "album": {
-        "name": "Macchie",
-        "url": "https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh"
-      },
-      "artists": [
-        {
-          "name": "chiamamifaro",
-          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
-        }
-      ],
-      "duration_ms": 208301,
-      "name": "Pasta Rossa",
-      "url": "https://open.spotify.com/track/4ZM0faoYcQViZmQYKUdpyc"
-    },
-    {
-      "added_at": "2022-11-24 23:01:00",
+      "added_at": "2023-01-24 23:01:00",
       "album": {
         "name": "Carta Stagnola",
         "url": "https://open.spotify.com/album/5w1x81v8JwYQ3dxsDwyaFT"
@@ -1331,6 +1331,22 @@
       "duration_ms": 175442,
       "name": "Carta Stagnola",
       "url": "https://open.spotify.com/track/4AtrGRtFW1EBlarvKAHC7v"
+    },
+    {
+      "added_at": "2023-01-24 23:01:00",
+      "album": {
+        "name": "Macchie",
+        "url": "https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh"
+      },
+      "artists": [
+        {
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+        }
+      ],
+      "duration_ms": 208301,
+      "name": "Pasta Rossa",
+      "url": "https://open.spotify.com/track/4ZM0faoYcQViZmQYKUdpyc"
     }
   ],
   "unique_name": "RADAR Italia",

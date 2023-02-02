@@ -4,7 +4,7 @@
 
 > canto de tristeza porque lo nuestro terminó
 
-68 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3xdcDS5gsL7XdCrYKiv3Fv)
+68 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

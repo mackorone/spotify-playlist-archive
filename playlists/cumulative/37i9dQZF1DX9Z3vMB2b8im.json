@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Songs so beautiful, they'll stop you in your tracks",
   "name": "The Most Beautiful Songs in the World",
-  "published_playlist_ids": [
-    "6rk0W0ToMFunC493qbnQno"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 169439,
       "name": "A Beautiful Day",
       "url": "https://open.spotify.com/track/7msjDpInWvps7sgWBlMb4R"
@@ -98,6 +95,24 @@
     },
     {
       "album": {
+        "name": "all in good Time,",
+        "url": "https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh"
+      },
+      "artists": [
+        {
+          "name": "Torri Weidinger",
+          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301278,
+      "name": "all in good Time,",
+      "url": "https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ"
+    },
+    {
+      "album": {
         "name": "Extended folk boy playlist",
         "url": "https://open.spotify.com/album/5pt1eTU99gdZlFNpdixGlt"
       },
@@ -109,7 +124,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 400213,
       "name": "An Honour",
       "url": "https://open.spotify.com/track/1cDTDR4cb73iGQZLK7JZ0B"
@@ -181,10 +196,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 214838,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/5B5Zjcrl4IOb2RwnUx0Qt2"
+    },
+    {
+      "album": {
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/0hKim7XEJ4yPC65smJjVkM"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/0G7TIPBaYi0pgCsfRE5gFf"
     },
     {
       "album": {
@@ -279,6 +312,24 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "Chemical Vernacular",
+        "url": "https://open.spotify.com/album/23habkRVeCpzhW4EMqISYM"
+      },
+      "artists": [
+        {
+          "name": "Tomo",
+          "url": "https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174878,
+      "name": "Chemical Vernacular",
+      "url": "https://open.spotify.com/track/1WeOkh5So3kQdVpT177onf"
     },
     {
       "album": {
@@ -784,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Contours of a Cliff",
+        "url": "https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0"
+      },
+      "artists": [
+        {
+          "name": "Cooza",
+          "url": "https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185906,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/1fn6p2B9xyAMcNDWb1Z5X2"
+    },
+    {
+      "album": {
         "name": "Grey",
         "url": "https://open.spotify.com/album/0VUfyApXn4pk0hkxiM7nan"
       },
@@ -795,7 +864,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 185906,
       "name": "Grey",
       "url": "https://open.spotify.com/track/5uiBxGoDN7ys5iR7jQiiI6"
@@ -1081,10 +1150,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 123374,
       "name": "I Can See New Zealand From Here",
       "url": "https://open.spotify.com/track/27V4KpRC7Y5oYWdXssEUMU"
+    },
+    {
+      "album": {
+        "name": "Our Day",
+        "url": "https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp"
+      },
+      "artists": [
+        {
+          "name": "Cooza",
+          "url": "https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123374,
+      "name": "I Can See New Zealand From Here",
+      "url": "https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh"
     },
     {
       "album": {
@@ -1464,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe"
+      },
+      "artists": [
+        {
+          "name": "Lily Lyons",
+          "url": "https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160280,
+      "name": "Like I Used To",
+      "url": "https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP"
+    },
+    {
+      "album": {
         "name": "LEMONS",
         "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
       },
@@ -1529,7 +1634,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 178126,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd"
@@ -1601,7 +1706,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 201194,
       "name": "Medication (demo)",
       "url": "https://open.spotify.com/track/6JQXhEiM8CuOUghiDmFRm3"
@@ -2041,7 +2146,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 195597,
       "name": "Postcard Lover",
       "url": "https://open.spotify.com/track/7jxBsuQNmVUC12MUj7mIIw"
@@ -2344,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "What Circus Is This?",
+        "url": "https://open.spotify.com/album/7v5ysOTgTm5Oe7VmIFxwNM"
+      },
+      "artists": [
+        {
+          "name": "R.D. Thomas",
+          "url": "https://open.spotify.com/artist/1Gm0PlcJyn8iJmip82nnwq"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179706,
+      "name": "Stray Dog",
+      "url": "https://open.spotify.com/track/53wF0QyUtZZPr0ICH2YbDE"
+    },
+    {
+      "album": {
         "name": "Undergrowth Vol. 2 - EP",
         "url": "https://open.spotify.com/album/26cKtEqxlTxvKEsCl2mYpU"
       },
@@ -2359,6 +2482,24 @@
       "duration_ms": 314814,
       "name": "Suckers",
       "url": "https://open.spotify.com/track/2kzTSLMhU3lF6C0Hhmixmf"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/4hplF2EEAb1hxkAItGT4af"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180448,
+      "name": "Talking With Your Ghost",
+      "url": "https://open.spotify.com/track/6PvvoauxBamBF1FKrdltw3"
     },
     {
       "album": {
@@ -2571,10 +2712,28 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/0MIiqne6YsbsDz4z9MGA2K"
+    },
+    {
+      "album": {
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "album": {
@@ -2629,7 +2788,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 218810,
       "name": "Wavepool",
       "url": "https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ"
@@ -2705,6 +2864,24 @@
       "duration_ms": 199800,
       "name": "Whole Heart",
       "url": "https://open.spotify.com/track/2sf9ZR3NgbcMG7izW5db8p"
+    },
+    {
+      "album": {
+        "name": "wholeness",
+        "url": "https://open.spotify.com/album/0YAcw5LtpuU5ukwC5eMsP1"
+      },
+      "artists": [
+        {
+          "name": "bathhat",
+          "url": "https://open.spotify.com/artist/2xNyA9koSMPLamMdcYvzfh"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "wholeness",
+      "url": "https://open.spotify.com/track/2sZGejZUMzGuZMUgx27iQE"
     },
     {
       "album": {

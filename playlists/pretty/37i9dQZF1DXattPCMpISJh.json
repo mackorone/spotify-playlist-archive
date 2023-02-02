@@ -1,13 +1,33 @@
 {
   "description": "A new take on a classic sound. Cover: The Jack Moves",
-  "num_followers": 65894,
+  "num_followers": 74522,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGI3NWY4NzQwMGMxOTM4ZDZjYWUxNjVkZTc3YWRlYzli",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDM3NWE1ZTM0N2ViZjAxNDlkZmQwOTkzZDcyMWE0NzY2",
   "tracks": [
+    {
+      "added_at": "2023-01-20 04:00:00",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/5QW6KOV70T8IuJGzRwP7GA"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Tom",
+          "url": "https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr"
+        },
+        {
+          "name": "Ngaiire",
+          "url": "https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY"
+        }
+      ],
+      "duration_ms": 182314,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0"
+    },
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
@@ -41,6 +61,78 @@
       "url": "https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO"
     },
     {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4InKmaH0ORYbiXCaHo8hSg"
+      },
+      "artists": [
+        {
+          "name": "Ken@Work",
+          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
+        }
+      ],
+      "duration_ms": 356983,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/7DRoyQiz59HSM0egAeQnvC"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT"
+      },
+      "artists": [
+        {
+          "name": "Archie Versace",
+          "url": "https://open.spotify.com/artist/6S3CbwXLm1waxap3VZW24x"
+        },
+        {
+          "name": "Supermini",
+          "url": "https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/1LV5fBgsYBmb85DyqCtNNx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        }
+      ],
+      "duration_ms": 202844,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0uo8mXAMX1OGngebGLmAeH"
+    },
+    {
+      "added_at": "2023-01-20 04:00:00",
+      "album": {
+        "name": "You're Not Normal (The Brothers Nylon Remix)",
+        "url": "https://open.spotify.com/album/194XuwiTU6XnaNRRkXdWhQ"
+      },
+      "artists": [
+        {
+          "name": "Glamour Hammer",
+          "url": "https://open.spotify.com/artist/7s4dnXFDZnMa8UfOKX5I4S"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "duration_ms": 269224,
+      "name": "You're Not Normal (The Brothers Nylon Remix)",
+      "url": "https://open.spotify.com/track/2pbCnVeEzLRjeJvxIDPMxJ"
+    },
+    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "It's Gonna Be Alright (Ricky Birickyno Remix)",
@@ -69,6 +161,42 @@
       "url": "https://open.spotify.com/track/4zr3R8lzGvORufPJqQW3Di"
     },
     {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/2WZr3RJUsuWLYC27t05Qj9"
+      },
+      "artists": [
+        {
+          "name": "Foreignlocal.",
+          "url": "https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs"
+        },
+        {
+          "name": "Sunsets",
+          "url": "https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA"
+        }
+      ],
+      "duration_ms": 181967,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "I Believe It",
+        "url": "https://open.spotify.com/album/7IqVMiFRYTIOkQP0TC5dW8"
+      },
+      "artists": [
+        {
+          "name": "Venice Club",
+          "url": "https://open.spotify.com/artist/5nn6vlKul0h0t1ESe524Vx"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "I Believe It",
+      "url": "https://open.spotify.com/track/5yuscwN84KrGaj06WiUUKy"
+    },
+    {
       "added_at": "2022-11-11 05:01:00",
       "album": {
         "name": "Let Loose",
@@ -87,6 +215,46 @@
       "duration_ms": 277438,
       "name": "The One That Got Away (feat. Obi Franky)",
       "url": "https://open.spotify.com/track/2zL0FVFVuoOBKhnNgKqGws"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Crying At The Discoteque",
+        "url": "https://open.spotify.com/album/7CYAxFYo7zOWstKYpQOhoq"
+      },
+      "artists": [
+        {
+          "name": "Discotron",
+          "url": "https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf"
+        },
+        {
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
+        }
+      ],
+      "duration_ms": 238571,
+      "name": "Crying At The Discoteque",
+      "url": "https://open.spotify.com/track/0nmp7lSwHJmjqWYtQQn1BC"
+    },
+    {
+      "added_at": "2023-01-20 04:00:00",
+      "album": {
+        "name": "Do You Wanna (BoogieKnights ReThink)",
+        "url": "https://open.spotify.com/album/3P2FzPaQy1NAU1ggwMevY5"
+      },
+      "artists": [
+        {
+          "name": "Rokwell",
+          "url": "https://open.spotify.com/artist/1NOc6Hatk5Jo0dxGxYpj3X"
+        },
+        {
+          "name": "BoogieKnights",
+          "url": "https://open.spotify.com/artist/3wJU7ygNJY0wWWhwZVYnI0"
+        }
+      ],
+      "duration_ms": 258196,
+      "name": "Do You Wanna (BoogieKnights ReThink)",
+      "url": "https://open.spotify.com/track/6LSXQaauJxBhFv0NGJkOyh"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -214,6 +382,10 @@
         {
           "name": "dazeychain",
           "url": "https://open.spotify.com/artist/6nRyak5Bpqz95OwA9JUBVE"
+        },
+        {
+          "name": "The Wildcardz",
+          "url": "https://open.spotify.com/artist/5pcPCj25V5zH3ly8v6JF8L"
         }
       ],
       "duration_ms": 149039,
@@ -1623,26 +1795,6 @@
     {
       "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Nowhere To Run",
-        "url": "https://open.spotify.com/album/3xUlxGYaVSszKGre0kj1Il"
-      },
-      "artists": [
-        {
-          "name": "Amira Jazeera",
-          "url": "https://open.spotify.com/artist/336Q7pyfl5Ht2eaqhfQ6T6"
-        },
-        {
-          "name": "Papi Beatz",
-          "url": "https://open.spotify.com/artist/1gigbUTiibYWCQybsJB5V1"
-        }
-      ],
-      "duration_ms": 177538,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/7a64PMQuzeuPOlhdIKsCgM"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
         "name": "All Eyes On You (Edit)",
         "url": "https://open.spotify.com/album/1iFA2vTlQEj9yCmp0z035C"
       },
@@ -1677,22 +1829,6 @@
       "url": "https://open.spotify.com/track/4yOVPMnul0AFigIUX0yZ22"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Renewal",
-        "url": "https://open.spotify.com/album/2PeS6FuRkGmIwMY1AnMSMy"
-      },
-      "artists": [
-        {
-          "name": "Charles Fauna",
-          "url": "https://open.spotify.com/artist/0arvBUGvO9CCgtWyQshByp"
-        }
-      ],
-      "duration_ms": 208552,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/0X5LTG4ImUFlfNgOFXqzuN"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Free",
@@ -1713,58 +1849,6 @@
       "url": "https://open.spotify.com/track/7uz2uui0tboZulmc5TdjTV"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "Feel So Good",
-        "url": "https://open.spotify.com/album/4Y0TmKELuNPjdLFNAEC4An"
-      },
-      "artists": [
-        {
-          "name": "Discotron",
-          "url": "https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf"
-        }
-      ],
-      "duration_ms": 207096,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/75bgX4B8rcP8FseJ7YVoho"
-      },
-      "artists": [
-        {
-          "name": "Rodney Hunter",
-          "url": "https://open.spotify.com/artist/3TD8t9L7Mpi6S72O9MOxm3"
-        },
-        {
-          "name": "IVAR",
-          "url": "https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk"
-        }
-      ],
-      "duration_ms": 270676,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/161KhiTvj9JwoO7uzorjGo"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "JUST US TWO",
-        "url": "https://open.spotify.com/album/6NMaqBL0rfysZBo4mcyWTY"
-      },
-      "artists": [
-        {
-          "name": "Scotty Sire",
-          "url": "https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy"
-        }
-      ],
-      "duration_ms": 130253,
-      "name": "JUST US TWO",
-      "url": "https://open.spotify.com/track/3ipRosZucAVvarAmxKWH1A"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Pretty Please (Supertaste Disco Mix)",
@@ -1783,42 +1867,6 @@
       "duration_ms": 221314,
       "name": "Pretty Please (Supertaste Disco Mix)",
       "url": "https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I"
-      },
-      "artists": [
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
-        },
-        {
-          "name": "Irfane",
-          "url": "https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX"
-        }
-      ],
-      "duration_ms": 268520,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "It's You",
-        "url": "https://open.spotify.com/album/1dKA9jVXe7CfeZQJXt77FJ"
-      },
-      "artists": [
-        {
-          "name": "Feenixpawl",
-          "url": "https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct"
-        }
-      ],
-      "duration_ms": 151704,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/1Ky3doQEPgrKmZzLXEp04b"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -1851,38 +1899,6 @@
       "duration_ms": 221744,
       "name": "Children",
       "url": "https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Something Bout The Night",
-        "url": "https://open.spotify.com/album/1v1M8ZcUdJTQTW5jld2Cjk"
-      },
-      "artists": [
-        {
-          "name": "Jay Diggs",
-          "url": "https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1"
-        }
-      ],
-      "duration_ms": 193420,
-      "name": "Something Bout The Night",
-      "url": "https://open.spotify.com/track/0O2Nc2MkQt84yGHXfzdjZ0"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1aaOLWZRf1OUcXYlVauuxV"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        }
-      ],
-      "duration_ms": 188398,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/4475NmYiujibxkv2O7sWED"
     }
   ],
   "unique_name": "Nu-Disco",

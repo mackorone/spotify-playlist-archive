@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qrEuz2goXu.md) - [plain]
 
 > Listen to family\-favorite tunes from the hit series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 994 likes - 90 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493 likes - 90 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

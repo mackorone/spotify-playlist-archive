@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-05",
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
   "name": "This Is Def Leppard",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -111,6 +110,24 @@
       "duration_ms": 254501,
       "name": "Comin' Under Fire",
       "url": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP"
+    },
+    {
+      "album": {
+        "name": "Def Leppard",
+        "url": "https://open.spotify.com/album/68zsPqS53fVtv9jUU2GZPz"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206680,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic"
     },
     {
       "album": {
@@ -251,7 +268,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 354636,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
@@ -381,7 +398,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 259825,
       "name": "Lifeless",
       "url": "https://open.spotify.com/track/40E21pnus9UzAjO5EED4vg"
@@ -511,7 +528,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 212093,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/2haIaCgfAIpfAoqRZsCRZw"
@@ -691,7 +708,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 279300,
       "name": "Run Riot",
       "url": "https://open.spotify.com/track/27psq6wsPV4Yyo4eg6HZ8z"
@@ -713,6 +730,32 @@
       "duration_ms": 205466,
       "name": "SOS Emergency",
       "url": "https://open.spotify.com/track/5SFe86BPtPFu7sSF7nuV5f"
+    },
+    {
+      "album": {
+        "name": "Spillways [Feat. Joe Elliott]",
+        "url": "https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        },
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Joe Elliott",
+          "url": "https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199809,
+      "name": "Spillways [Feat. Joe Elliott]",
+      "url": "https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p"
     },
     {
       "album": {

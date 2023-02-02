@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,827 likes - 71 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,613 likes - 71 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 32 | [HAPPINESS](https://open.spotify.com/track/7aag0fFgE9K1Gj8lJwQaGI) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [H A R D L O V E](https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH) | 3:25 |
 | 33 | [Big Parade](https://open.spotify.com/track/15Q6UkZSwelcujItCEaidK) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 5:27 |
 | 34 | [Little Lion Man](https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:07 |
-| 35 | [Ghost](https://open.spotify.com/track/7KqbJ9ct3YZjvB08NawcrF) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/4bCcwaKznhOyjvLysGVGVP) | 4:29 |
+| 35 | [Ghost](https://open.spotify.com/track/3bwymFXaLawekXh24ZOL9s) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Heart Murmurs](https://open.spotify.com/album/17l9KWnEV8rjy3QoYAUGT7) | 4:29 |
 | 36 | [Don't Let It Get You Down](https://open.spotify.com/track/4jjvUXBBqQDFRGX4SR5OhS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heart Beats](https://open.spotify.com/album/3tt2SVYuamD48tewEdDqza) | 3:20 |
 | 37 | [Terrified](https://open.spotify.com/track/3IH1boWM7c0z4MHx1Be9E5) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Mended With Gold](https://open.spotify.com/album/6OKVDZncOybsXFM12FHwzm) | 3:03 |
 | 38 | [My Love Took Me Down To the River To Silence Me](https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 5:00 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 54 | [Trouble with Home](https://open.spotify.com/track/3cRT4Q78S5AnlzqA9YO3nj) | [Friendly Savages](https://open.spotify.com/artist/3Ig26ddcKT3uUPpvLjzMAw) | [O, Joshua!](https://open.spotify.com/album/4tjNIbJuVc8GxqBXAqGZAD) | 3:19 |
 | 55 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
 | 56 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
-| 57 | [She Lit a Fire](https://open.spotify.com/track/0zCckv4tx3KzJ5GGTRbbLf) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:30 |
+| 57 | [She Lit a Fire](https://open.spotify.com/track/6EwmdjdgIxoN1sRMhqWwmS) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:30 |
 | 58 | [Lie with Me \- EP Version](https://open.spotify.com/track/34bGkKfN3W2z2EdA4PjLFH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/3qddrnnY93q5krHvd3z5BY) | 3:09 |
 | 59 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 |
 | 60 | [Everything You Need](https://open.spotify.com/track/1X4okn3iYFuvrqziSqTXpW) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [The Sun as It Comes](https://open.spotify.com/album/6QhBP3TaVPhzhHbEUUV1nS) | 4:35 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 70 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 71 | [Hopeless Wanderer](https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:07 |
 
-Snapshot ID: `MTY2MzczOTY0NiwwMDAwMDAwMGE0NDgxYjkwN2RiZWU2NmE2MmM4ZWFmNmE2YTA5Yzdi`
+Snapshot ID: `MTY2MzczOTY0NiwwMDAwMDAwMDAxMGJjYWI1YTU2MmM5ZjkwYWVkNjAzNTA1MjhhZDM5`

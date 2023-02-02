@@ -4,7 +4,7 @@
 
 > All 60s, all ballads\. Cover: Etta James
 
-60 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/5UEabkHNuw8HG2emrOuZrJ)
+60 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

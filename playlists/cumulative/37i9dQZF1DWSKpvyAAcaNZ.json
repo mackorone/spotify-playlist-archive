@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues. Cover: Ben Harper",
   "name": "Blues & Roots Rock",
-  "published_playlist_ids": [
-    "0VkXfjoWKQcjAxrDWon3jk"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,7 +24,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 302436,
       "name": "13th Century Metal",
       "url": "https://open.spotify.com/track/7xbCwXU4pVledUQUJogaGX"
@@ -53,7 +50,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 300662,
       "name": "13th Century Metal (Michael Kiwanuka Version)",
       "url": "https://open.spotify.com/track/4MQPNbyA94AfNLGg0uUUrO"
@@ -1157,6 +1154,42 @@
       "duration_ms": 197186,
       "name": "Early Morning Shakes",
       "url": "https://open.spotify.com/track/4lXBIshfa0juWxi6odtLHt"
+    },
+    {
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286360,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj"
+    },
+    {
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2e1cQINViMkPrLdKL0U9bQ"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 287843,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/6R7Lxgc6rZoN5dslqxSZGj"
     },
     {
       "album": {
@@ -2812,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "Factories, Farms & Amphetamines",
+        "url": "https://open.spotify.com/album/3ZUO4WvP0zVHg0vdchYGTr"
+      },
+      "artists": [
+        {
+          "name": "Myron Elkins",
+          "url": "https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "Nashville Money",
+      "url": "https://open.spotify.com/track/36XYWC37Rai5NjYNP8OHfD"
+    },
+    {
+      "album": {
         "name": "Native Sons",
         "url": "https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM"
       },
@@ -3181,6 +3232,28 @@
       "duration_ms": 271678,
       "name": "Rattlesnake Shakin\u2019 Woman",
       "url": "https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM"
+    },
+    {
+      "album": {
+        "name": "Reconcile",
+        "url": "https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        },
+        {
+          "name": "Charles Morgan",
+          "url": "https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "Reconcile",
+      "url": "https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L"
     },
     {
       "album": {
@@ -3952,6 +4025,28 @@
     },
     {
       "album": {
+        "name": "Push The Blues Away",
+        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221213,
+      "name": "Thinking 'Bout Myself",
+      "url": "https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q"
+    },
+    {
+      "album": {
         "name": "Thinking 'Bout Myself",
         "url": "https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX"
       },
@@ -3967,7 +4062,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 221213,
       "name": "Thinking 'Bout Myself",
       "url": "https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1"

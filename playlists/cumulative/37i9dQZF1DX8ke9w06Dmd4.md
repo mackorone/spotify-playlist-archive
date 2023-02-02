@@ -4,7 +4,7 @@
 
 > JTBC's Crossover Men's Quartet Project <Phantom Singer> Official Playlist\. \(JTBC의 크로스오버 남성 4중창 프로젝트 '팬텀싱어'의 공식 플레이리스트입니다.\)
 
-97 songs - 8 hr 37 min - not published yet
+97 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

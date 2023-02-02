@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "The perfect soundtrack recipe for a backyard barbecue! ",
   "name": "Country Cookout",
-  "published_playlist_ids": [
-    "0jQ54mEPRoiJAcBR4wlz5Q"
-  ],
   "tracks": [
     {
       "album": {
@@ -1723,7 +1720,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 199040,
       "name": "I'm Alright",
       "url": "https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ"
@@ -1863,7 +1860,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230133,
-      "name": "It's Five O'Clock Somewhere",
+      "name": "It's Five O'Clock Somewhere (with Jimmy Buffett)",
       "url": "https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb"
     },
     {
@@ -2085,7 +2082,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 153253,
       "name": "Long Live",
       "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
@@ -2407,7 +2404,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 193426,
       "name": "One Margarita",
       "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
@@ -2757,7 +2754,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 187683,
       "name": "Single Saturday Night",
       "url": "https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU"
@@ -2995,7 +2992,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 262280,
       "name": "Talladega",
       "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
@@ -3031,7 +3028,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 207161,
       "name": "Tequila Little Time",
       "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"

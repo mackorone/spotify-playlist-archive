@@ -4,7 +4,7 @@
 
 > Instrumental only\. For the maniacs out there\. Cover: pg.lost
 
-150 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/3F6qdWSwZxrusUKESQeAKK)
+150 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

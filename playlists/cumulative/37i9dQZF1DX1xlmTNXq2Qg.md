@@ -4,7 +4,7 @@
 
 > Time for dancing in the kitchen!
 
-76 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/1UD1v4gMRoi8wlQD3xgZBb)
+76 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

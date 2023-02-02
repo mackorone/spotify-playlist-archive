@@ -4,7 +4,7 @@
 
 > The best indie songs from all decades for your Halloween party
 
-86 songs - 5 hr 18 min - not published yet
+87 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Final Girl](https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO) | 4:29 | 2022-10-26 |  |
 | [Found Love in a Graveyard](https://open.spotify.com/track/7vD8m9ZzsvnnPYd1VpzgUO) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g) | 3:59 | 2022-10-26 |  |
 | [Ghost Town](https://open.spotify.com/track/347OA86TbdeTydHhy90blH) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Come Of Age](https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4) | 2:20 | 2022-10-26 |  |
+| [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-11-29 |  |
 | [Gravedweller](https://open.spotify.com/track/3C5ifDGyh2zsX3Z69S2wBR) | [The Wytches](https://open.spotify.com/artist/46cDW79OcUXlCbYPj7Ds5L) | [Annabel Dream Reader](https://open.spotify.com/album/2F9zOHHom6ADDZEeGyDPga) | 2:48 | 2022-10-26 | 2022-11-03 |
 | [Halloween](https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Plastic Surgery Disasters/In God We Trust, Inc.](https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug) | 3:35 | 2022-10-26 |  |
 | [Halloween](https://open.spotify.com/track/3FdejSKJNVZaLIr0VcYrTK) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Feel Better](https://open.spotify.com/album/2vtPjaPz2trtyDsz7ZBpYc) | 2:34 | 2022-10-26 | 2022-11-17 |
@@ -53,7 +54,7 @@
 | [MORBID FASCINATION](https://open.spotify.com/track/6vq3WZt52G9yqT6JwDEJWY) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/4vfBqush7QWFgPMr1MpJav) | 3:46 | 2022-10-26 |  |
 | [MURDER ME](https://open.spotify.com/track/5KBYP8gCs14r0PIzAU0Kak) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [GHOSTS ON TAPE](https://open.spotify.com/album/4vfBqush7QWFgPMr1MpJav) | 3:34 | 2022-10-26 | 2022-11-03 |
 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 | 2022-10-26 |  |
-| [Omen](https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake, Shook, Shaken](https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag) | 2:53 | 2022-10-26 |  |
+| [Omen](https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake, Shook, Shaken](https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag) | 2:53 | 2022-10-26 | 2022-11-30 |
 | [Perhaps Vampires Is A Bit Strong But…](https://open.spotify.com/track/2vVHf43MQ8V3gDbo8HRlnJ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 4:28 | 2022-10-26 |  |
 | [Pet Sematary](https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d) | 3:30 | 2022-10-26 |  |
 | [Pet Sematary \(Single Version\)](https://open.spotify.com/track/4R0hIlQuvdDGoXBb8uo1nb) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Hardhitting Halloween Hits](https://open.spotify.com/album/2CHgEwkjnMNavROAqTA77Y) | 3:30 | 2022-11-02 | 2022-11-13 |

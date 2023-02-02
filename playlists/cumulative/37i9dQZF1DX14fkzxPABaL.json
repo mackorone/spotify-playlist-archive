@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Pablo Albor\u00e1n & Maria Becerra",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Tiago PZK",
   "name": "Enamor\u00e1ndose",
-  "published_playlist_ids": [
-    "1AAjF0AYqsSQNvAOQluejC"
-  ],
   "tracks": [
     {
       "album": {
@@ -426,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
+    },
+    {
+      "album": {
         "name": "Bomb\u00f3n",
         "url": "https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g"
       },
@@ -579,6 +594,24 @@
       "duration_ms": 177062,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
+    },
+    {
+      "album": {
+        "name": "Como Yo Te Veo",
+        "url": "https://open.spotify.com/album/3v3EhtXPlrA7fb3Vtgo167"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190222,
+      "name": "Como Yo Te Veo",
+      "url": "https://open.spotify.com/track/5N5YIsTtlXI3CyInlykZwa"
     },
     {
       "album": {
@@ -876,6 +909,24 @@
     },
     {
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181832,
+      "name": "DOBLE VIDA",
+      "url": "https://open.spotify.com/track/0Dhks7VwA1F7baYPVEeo4S"
+    },
+    {
+      "album": {
         "name": "Ley De Gravedad",
         "url": "https://open.spotify.com/album/21wimzvehpbiBmJS0upDr6"
       },
@@ -887,7 +938,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 173013,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/37qPzPVOfxSDI7QOF2oZFB"
@@ -1075,7 +1126,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 197107,
       "name": "Entre las Nubes",
       "url": "https://open.spotify.com/track/7JxObO68A9tKaxwKOQZByz"
@@ -1366,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Humano",
+        "url": "https://open.spotify.com/album/4aK99yUBq4s4rSDlOBQy7c"
+      },
+      "artists": [
+        {
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187384,
+      "name": "Humano",
+      "url": "https://open.spotify.com/track/2jt6psRd4oIjVxs76GDZa6"
+    },
+    {
+      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/2XbvwFhkiW4Jjusjl6n9ki"
       },
@@ -1403,7 +1472,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 159664,
       "name": "Jodidamente - Unplugged",
       "url": "https://open.spotify.com/track/0GRvMgKBqGZ4hOknpcPd1W"
@@ -1509,7 +1578,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
@@ -2260,6 +2329,28 @@
     },
     {
       "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/5DeSD9bKMtDQCN1ErYy7jj"
       },
@@ -2413,7 +2504,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 193825,
       "name": "Ramo De Flores",
       "url": "https://open.spotify.com/track/3C4HM8kntx7fwUEYdAMKPP"
@@ -2621,6 +2712,28 @@
       "duration_ms": 181316,
       "name": "Simplemente Pasan",
       "url": "https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM"
+    },
+    {
+      "album": {
+        "name": "Sin Haber Dormido",
+        "url": "https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187593,
+      "name": "Sin Haber Dormido",
+      "url": "https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0"
     },
     {
       "album": {
@@ -3203,7 +3316,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 214933,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"

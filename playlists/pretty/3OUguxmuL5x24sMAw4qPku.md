@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3OUguxmuL5x24sMAw4qPku.md) - [plain]
 
 > Turn your commute into a perfect, peaceful drive...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,713 likes - 57 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,712 likes - 57 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

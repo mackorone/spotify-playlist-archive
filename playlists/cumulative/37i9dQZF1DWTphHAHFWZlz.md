@@ -4,7 +4,7 @@
 
 > La nueva ola del rock argentino\. Foto: Riel
 
-180 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
+181 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Cara\-Cola](https://open.spotify.com/track/7vWuIocPwLv0UYTREZwIFo) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [¿Qué Hacemos Con Todo Este Dinero?](https://open.spotify.com/album/4WOB6QazFzRe1bDopMFfjX) | 3:01 | 2022-10-14 |  |
 | [Carrusel](https://open.spotify.com/track/6MkDBrI4UHVzF06xiTV5KY) | [Roma](https://open.spotify.com/artist/6pCsEBDlqd9GDJ1SNDlM7f) | [Carrusel](https://open.spotify.com/album/1EU9Qzbxg0eP01976h4slk) | 3:21 | 2022-06-29 | 2022-08-27 |
 | [Chica Rutera](https://open.spotify.com/track/7mULoTsK56Nfyf7o50LKk3) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Poseidotica](https://open.spotify.com/artist/35c7I7m05XIsgtiCq1o99U) | [Chica Rutera](https://open.spotify.com/album/677rkyQAwxStGoAqiRiLiy) | 5:08 | 2022-06-29 | 2022-08-27 |
-| [Ciudatella Nacional](https://open.spotify.com/track/7LuLZp0bGul3psMpbQ49i2) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Poesía para Edificios](https://open.spotify.com/album/6GyP4VIgIVm4UHcgAtnVdz) | 3:46 | 2022-07-19 |  |
+| [Ciudatella Nacional](https://open.spotify.com/track/7LuLZp0bGul3psMpbQ49i2) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Poesía para Edificios](https://open.spotify.com/album/6GyP4VIgIVm4UHcgAtnVdz) | 3:46 | 2022-07-19 | 2023-02-01 |
+| [Ciudatella Nacional](https://open.spotify.com/track/7ebej13rUkAdXExXt63Pxf) | [Tobogán Andaluz](https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC) | [Poesía para Edificios](https://open.spotify.com/album/2RVmejO0GjeCp4rRiXUb5w) | 3:46 | 2022-10-28 |  |
 | [Coleccionando cicatrices](https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:56 | 2022-07-22 |  |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/0nFNXj5EVrMR4q2Qm74CtP) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/732rZ7r8CfbcxZt7kiXpug) | 3:58 | 2022-10-28 | 2022-11-14 |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 | 2022-06-29 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Get into the inspired sounds of <a href="spotify:artist:2kGBy2WHvF0VdZyqiVCkDT">Father John Misty</a>.
 
-36 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/1CPYrW11OOvEDhlZzOPNbU)
+36 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Nurse your emotional wounds with these heartbreak tracks.",
   "name": "Broken Heart",
-  "published_playlist_ids": [
-    "2LOkDAASIpkTAKTeolFeA8"
-  ],
   "tracks": [
     {
       "album": {
@@ -145,7 +142,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 213746,
       "name": "All I Ever Need",
       "url": "https://open.spotify.com/track/0YEsfwQpG7ofdIiHWA0dHi"
@@ -415,7 +412,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-16",
       "duration_ms": 157555,
       "name": "Are you happy?",
       "url": "https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO"
@@ -751,7 +748,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 261426,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
@@ -943,6 +940,24 @@
       "duration_ms": 258359,
       "name": "Can't Be Happy All The Time",
       "url": "https://open.spotify.com/track/3Cwx1w1QYOuMOlx7xDmLcQ"
+    },
+    {
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "album": {
@@ -2335,7 +2350,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 230266,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf"
@@ -2519,6 +2534,24 @@
       "duration_ms": 202204,
       "name": "How Do You Sleep?",
       "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
+    },
+    {
+      "album": {
+        "name": "Halcyon Nights",
+        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154440,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
     },
     {
       "album": {
@@ -2949,7 +2982,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 150583,
       "name": "I Would've",
       "url": "https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ"
@@ -3115,7 +3148,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 204989,
       "name": "It's Ok If You Forget Me",
       "url": "https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9"
@@ -4249,7 +4282,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 178973,
       "name": "Nerve",
       "url": "https://open.spotify.com/track/3jsYKVxT5ljGkexU531DpF"
@@ -4321,7 +4354,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 261079,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC"
@@ -6535,7 +6568,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 229720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-05",
   "description": "Relax and take it slow today",
   "name": "Take it Slow",
-  "published_playlist_ids": [
-    "3p1V85d927eyG2kPYAHK5f"
-  ],
   "tracks": [
     {
       "album": {
@@ -134,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Anyone For You (Tiger Lily)",
+        "url": "https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203869,
+      "name": "Anyone For You (Tiger Lily) - Acoustic",
+      "url": "https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa"
+    },
+    {
+      "album": {
         "name": "Anyone For You (Acoustic)",
         "url": "https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4"
       },
@@ -145,7 +160,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 203869,
       "name": "Anyone For You (Tiger Lily) - Acoustic",
       "url": "https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU"
@@ -633,10 +648,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 173723,
       "name": "Hey Violet",
       "url": "https://open.spotify.com/track/3wtJr6QAJaMjH2IqBzQ4XY"
+    },
+    {
+      "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173723,
+      "name": "Hey Violet",
+      "url": "https://open.spotify.com/track/6R2Rg2mTzmJ6PNwgh0GG4B"
     },
     {
       "album": {

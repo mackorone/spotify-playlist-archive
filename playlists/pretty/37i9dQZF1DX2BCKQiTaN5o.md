@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 
 > Celebrate \#SelfCareSunday with Michelle Obama's workout mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,630 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,563 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 | 5 | [Tints \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6JAJxkQA5Q3TYN4dP8b46e) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxnard](https://open.spotify.com/album/470YoR7n18n3xyQTsUxdlV) | 4:28 |
 | 6 | [Clique \- Album Version \(Edited\)](https://open.spotify.com/track/6vqQUjmJiz12gLkvh9bqzF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Kanye West Presents Good Music Cruel Summer](https://open.spotify.com/album/6ijvs54NaN3QNdXFVFtVOM) | 4:53 |
 | 7 | [Come Down](https://open.spotify.com/track/7qsF31mlCOvFDDZpEiS0Sk) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/73uicPCTt24cmTc9bVaOIp) | 2:49 |
-| 8 | [Drogba \(Joanna\)](https://open.spotify.com/track/4E0teOQQQwagLVvQ7VfYm1) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Afrowave 2](https://open.spotify.com/album/1R3refsYPuUJ4yl7sNqir1) | 3:19 |
+| 8 | [Drogba \(Joanna\)](https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Afrowave 2](https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c) | 3:19 |
 | 9 | [Feelin' So Good \(feat\. Big Pun & Fat Joe\)](https://open.spotify.com/track/1AlvKwk3NBZ8lAt7GC6SiT) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 5:26 |
 | 10 | [Press](https://open.spotify.com/track/61qVApvKjw3uZMofatndGo) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Press](https://open.spotify.com/album/1sotjX4JIHAEyQwRYqO7uh) | 2:23 |
 | 11 | [APES\*\*T](https://open.spotify.com/track/0B08s1tLWCXoFmGP0vIubM) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE \(Clean\)](https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2) | 4:24 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCKQiTaN5o.md) - [plain]
 | 34 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 |
 | 35 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Collide \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A) | 3:25 |
 
-Snapshot ID: `MTU3OTQ1MjAzOSwwMDAwMDAwMDM3NTAyZWYzZWMwMTA2NmEzZmM1ZTdkZDlmMTdlNGY1`
+Snapshot ID: `MTU3OTQ1MjAzOSwwMDAwMDAwMDJhOGRkYWVlZjMwMDA1ZTRiYTY2NWY0ZGQ0MDMyYTQ1`

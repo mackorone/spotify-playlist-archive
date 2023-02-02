@@ -4,11 +4,11 @@
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-96 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/2WCAFMoi6tvwzKLrQPlf9a)
+96 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 | 2021-03-01 | 2022-07-29 |
+| [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 | 2021-03-01 |  |
 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 | 2022-03-08 |  |
 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 | 2021-03-01 |  |
 | [Bad Woman Blues](https://open.spotify.com/track/0JSotxr4YFcp5e8c5yaMKv) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Bad Woman Blues](https://open.spotify.com/album/7GuWk4lYaF0r6i1cjepZlp) | 3:35 | 2021-03-01 | 2022-07-29 |
@@ -41,7 +41,7 @@
 | [Heavy Hearts Hard Fists](https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml) | 3:17 | 2022-03-08 |  |
 | [Heavy Hearts Hard Fists](https://open.spotify.com/track/4VNNhbYDAt5SjXN5RERGiC) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/3MyVNL91Apamtu9fUEQ9nO) | 3:17 | 2021-03-01 | 2022-07-28 |
 | [I'm A Woman](https://open.spotify.com/track/0HPazJXESVCimRyMggplg5) | [Deborah Coleman](https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny) | [Soft Place To Fall](https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN) | 4:51 | 2021-03-01 |  |
-| [If Trouble Was Money](https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv) | [Sena Ehrhardt](https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg) | [Live My Life](https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp) | 5:49 | 2021-03-01 | 2022-11-06 |
+| [If Trouble Was Money](https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv) | [Sena Ehrhardt](https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg) | [Live My Life](https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp) | 5:49 | 2021-03-01 | 2023-01-26 |
 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 | 2021-03-01 |  |
 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 | 2022-03-08 |  |
 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 | 2021-03-01 |  |
@@ -90,18 +90,18 @@
 | [The Best Thing](https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 4:52 | 2021-03-01 |  |
 | [The Ice Queen](https://open.spotify.com/track/0NyrDrdwyeRbbS85RdrPFL) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [The Ice Queen](https://open.spotify.com/album/1F9qbN6uJpal8fRBFfOwKh) | 6:23 | 2021-03-01 | 2022-07-29 |
 | [The Ice Queen](https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [The Ice Queen](https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe) | 6:23 | 2022-03-08 |  |
-| [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 | 2022-03-08 | 2022-09-19 |
+| [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 | 2022-03-08 | 2023-01-13 |
 | [They Never Pay Me](https://open.spotify.com/track/4I7exgZnKPQeLgzRAsx77r) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/2rc0kuRCruGFP5osvkZp2S) | 3:33 | 2021-03-01 | 2022-07-27 |
 | [Things Have Changed](https://open.spotify.com/track/08aZMbV00fxoxzosGLr3cq) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/5WptPw9D94BfcayWYtk76T) | 6:56 | 2021-03-01 | 2022-07-29 |
 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 | 2022-03-08 |  |
-| [This Is My Will](https://open.spotify.com/track/6LOo0imVNkr9CFr6Cg6dkD) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 5:11 | 2021-03-01 | 2022-10-31 |
+| [This Is My Will](https://open.spotify.com/track/6LOo0imVNkr9CFr6Cg6dkD) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 5:11 | 2021-03-01 | 2023-02-01 |
 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 | 2021-03-01 |  |
 | [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 | 2021-03-01 | 2022-07-29 |
 | [Unintended Consequence Of Love](https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:49 | 2021-03-01 |  |
 | [What's the Matter with You](https://open.spotify.com/track/3LBFMoyuO7hMgBOCTOGQBc) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a) | 3:52 | 2021-03-01 | 2022-10-16 |
 | [What's the Matter with You](https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:52 | 2022-03-08 |  |
 | [Woman Like Me](https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Woman Like Me](https://open.spotify.com/album/2P2PYpBvfCJZO63d24m4Fa) | 4:04 | 2021-03-01 |  |
-| [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 | 2021-03-01 |  |
+| [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 | 2021-03-01 | 2023-01-22 |
 | [You Hurt Me](https://open.spotify.com/track/4a1J0H20gJsVq1BFOTuoaD) | [Lindsay Beaver](https://open.spotify.com/artist/0335mjeyPINgxiLdjrkpqJ) | [Tough As Love](https://open.spotify.com/album/0a00SdLsbIRcPV2FdVCd0Z) | 3:43 | 2021-03-01 | 2022-07-09 |
 | [You Need Love](https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs) | [Candye Kane](https://open.spotify.com/artist/70svT4F0xhbyQ5lQx6UE4b), [Stephen Hodges](https://open.spotify.com/artist/1dEhcM1DuKdrIb3iudblIp) | [Superhero](https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C) | 4:06 | 2021-03-01 | 2022-07-29 |
 

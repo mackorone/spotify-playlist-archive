@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Descendents. The essential tracks, all in one playlist.",
   "name": "This Is Descendents",
-  "published_playlist_ids": [
-    "71DPVD0UJs9jy7z6tEeoxz"
-  ],
   "tracks": [
     {
       "album": {
@@ -62,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 183826,
+      "name": "Cameage",
+      "url": "https://open.spotify.com/track/2HADzzKMyCh4FfXSSfSXNA"
+    },
+    {
+      "album": {
         "name": "All",
         "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
       },
@@ -73,10 +88,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 185066,
       "name": "Cameage",
       "url": "https://open.spotify.com/track/12CAbupLzhGDIfUUxObG3x"
+    },
+    {
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104333,
+      "name": "Can't Go Back",
+      "url": "https://open.spotify.com/track/6LFuNuo5tixQyi414xrinC"
     },
     {
       "album": {
@@ -109,7 +142,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 183906,
       "name": "Cheer",
       "url": "https://open.spotify.com/track/2vuY4aYI49AY6pXB12ivBu"
@@ -217,7 +250,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 104400,
       "name": "Descendents",
       "url": "https://open.spotify.com/track/6REkhlp3lPDXlhyaPWRUby"
@@ -296,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "Get The Time",
+      "url": "https://open.spotify.com/track/1R6D0Njkrf530VBgCKY9Lj"
+    },
+    {
+      "album": {
         "name": "Enjoy!",
         "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
       },
@@ -307,7 +358,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 196426,
       "name": "Get The Time",
       "url": "https://open.spotify.com/track/2H7W4q8W86r9GzRuTiiuTs"
@@ -329,6 +380,24 @@
       "duration_ms": 97925,
       "name": "Glad All Over",
       "url": "https://open.spotify.com/track/0lRhHskS0D5s2T3JV3Mlw3"
+    },
+    {
+      "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 140866,
+      "name": "Good Good Things",
+      "url": "https://open.spotify.com/track/0Mgo6qSfd40CBbGdoKbwN2"
     },
     {
       "album": {
@@ -854,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142933,
+      "name": "Silly Girl",
+      "url": "https://open.spotify.com/track/4ZuZrAUYIDTY2wjluNjidz"
+    },
+    {
+      "album": {
         "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0"
       },
@@ -865,7 +952,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 145026,
       "name": "Silly Girl",
       "url": "https://open.spotify.com/track/1o0cObpbURSTFEoXSgmL6a"
@@ -890,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Somery",
+        "url": "https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229240,
+      "name": "Sour Grapes",
+      "url": "https://open.spotify.com/track/2aiuhCouDKhPW8Oj6JYbq6"
+    },
+    {
+      "album": {
         "name": "Enjoy!",
         "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
       },
@@ -901,7 +1006,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 231266,
       "name": "Sour Grapes",
       "url": "https://open.spotify.com/track/1zX9ziH6fCwdtH3exHEIq8"
@@ -991,7 +1096,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 42724,
       "name": "That's The Breaks",
       "url": "https://open.spotify.com/track/6ITRdfrMgETFrRGlMj4KTs"

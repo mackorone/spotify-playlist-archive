@@ -4,7 +4,7 @@
 
 > Taylor Gang top picks chosen by Spotify.
 
-28 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/0ScmUTh7P5iT5dHDCke4w5)
+28 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

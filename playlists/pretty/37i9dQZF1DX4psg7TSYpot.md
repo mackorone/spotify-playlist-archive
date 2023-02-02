@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Acoustic pop songs for chill summer days or nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,586 likes - 93 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,310 likes - 93 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 7 | [Baby](https://open.spotify.com/track/2OYFqslHF3y0JgNGrb9Prw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Baby](https://open.spotify.com/album/6D68MZE4nzfnCWthRH8cHz) | 3:01 |
 | 8 | [Wicked Game \- Bossa Nova Version](https://open.spotify.com/track/3kYKtUPRQd4ZO9A3UhmxAX) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Wicked Game \(Bossa Nova Version\)](https://open.spotify.com/album/6YbT952JxSplB2O1e7keyG) | 2:49 |
 | 9 | [here comes the sun](https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [here comes the sun](https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7) | 2:47 |
-| 10 | [Paradise \- Acoustic](https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ) | 2:33 |
+| 10 | [Paradise \- Acoustic](https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/1Ad968gPukAt86YXpyEWIy) | 2:33 |
 | 11 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 |
 | 12 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 |
 | 13 | [Stay with Me](https://open.spotify.com/track/3JQ71NtViPEp9utyY349ut) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Stay with Me](https://open.spotify.com/album/4tpkRxlOxQaNMPlxczThF1) | 3:10 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 65 | [when the party's over](https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g) | 4:38 |
 | 66 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 |
 | 67 | [The Middle \- Acoustic](https://open.spotify.com/track/3ndoPpeiNjwEtIltH9oxyX) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [The Middle \(Acoustic\)](https://open.spotify.com/album/4VoP3Vq8EEiu5wmWFULmaM) | 3:43 |
-| 68 | [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic](https://open.spotify.com/album/0WExxQj254CORDRL682MBN) | 2:46 |
+| 68 | [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/2y4KKdn0UQPCIh0wbBYfgR) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic EP](https://open.spotify.com/album/2hqtH9rg9G0BsaymBNA8Bp) | 2:46 |
 | 69 | [Let Her Go](https://open.spotify.com/track/5D0vkvek3pOkxk0udva7Yw) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Let Her Go](https://open.spotify.com/album/60gcs78L51eAsxVEAulxJc) | 2:55 |
 | 70 | [Is This Love](https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU) | 4:04 |
 | 71 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jAzQGA8cl7MtPzgNQ5Ehx) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/3GINcZdettso6ktU4bTlmy) | 3:47 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 92 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 |
 | 93 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/6y0G798fs8GW7hgAZ9Jqbx) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/3jge9qVwcy42Za1AZz0390) | 4:06 |
 
-Snapshot ID: `MTY2NDU1MDIwMywwMDAwMDAwMDkxOTU1NDQ5ZDMxMWMwNTI0MDcxZGE1ZGE4ZmU0ZTg1`
+Snapshot ID: `MTY2NDU1MDIwMywwMDAwMDAwMGEzZGViMGJjMjU0N2RjMTcwZjcxMDY3OTlhODYzYTBj`

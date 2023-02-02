@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-01",
   "description": "All new, all jazz. Cover: The JuJu Exchange",
   "name": "All New Jazz",
-  "published_playlist_ids": [
-    "0siys22nGZQAi8UglzoSEO"
-  ],
   "tracks": [
     {
       "album": {
@@ -12683,24 +12680,20 @@
           "url": "https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB"
         },
         {
-          "name": "Mirko Signorile",
-          "url": "https://open.spotify.com/artist/2hbBpDiXjmYjUzcq9Lh4Vq"
-        },
-        {
-          "name": "Dead Prez",
-          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
-        },
-        {
-          "name": "ALESSANDRO MONTEDURO",
-          "url": "https://open.spotify.com/artist/10KotdBBPwNBbdAyQNGe8c"
-        },
-        {
           "name": "M1",
           "url": "https://open.spotify.com/artist/1KqjO5UJvhSyBu2D91BBOQ"
         },
         {
           "name": "Bonnot",
           "url": "https://open.spotify.com/artist/1o9wwykqREid81XQEElOJ1"
+        },
+        {
+          "name": "Mirko Signorile",
+          "url": "https://open.spotify.com/artist/2hbBpDiXjmYjUzcq9Lh4Vq"
+        },
+        {
+          "name": "ALESSANDRO MONTEDURO",
+          "url": "https://open.spotify.com/artist/10KotdBBPwNBbdAyQNGe8c"
         },
         {
           "name": "Marco D'Orlando",
@@ -32803,8 +32796,8 @@
           "url": "https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq"
         },
         {
-          "name": "Rogerio Boccato",
-          "url": "https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe"
+          "name": "Rog\u00e9rio Boccato",
+          "url": "https://open.spotify.com/artist/4yknTJEHIckjyEZPZLTKeJ"
         },
         {
           "name": "John Hart",
@@ -38165,10 +38158,46 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 458015,
       "name": "The Sensitive Ear",
       "url": "https://open.spotify.com/track/1FC1GiHKFKFTBfKK4Yl9I3"
+    },
+    {
+      "album": {
+        "name": "Sweetspot Revisited",
+        "url": "https://open.spotify.com/album/1envEit2UIdyrgVEmUTDAL"
+      },
+      "artists": [
+        {
+          "name": "Per Thornberg",
+          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458015,
+      "name": "The Sensitive Ear",
+      "url": "https://open.spotify.com/track/66QIz7z02Sjuh6jx8QmBVn"
+    },
+    {
+      "album": {
+        "name": "The Sensitive Ear",
+        "url": "https://open.spotify.com/album/6b9uFZis5tNlLgd30RxZAJ"
+      },
+      "artists": [
+        {
+          "name": "Per Thornberg",
+          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 458015,
+      "name": "The Sensitive Ear",
+      "url": "https://open.spotify.com/track/6aW1AEpeLpjkLKpsiLV6rn"
     },
     {
       "album": {

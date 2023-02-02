@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-01",
   "description": "Soundtrack your cozy dinner with bossa nova jazz.",
   "name": "Bossa Nova Dinner",
-  "published_playlist_ids": [
-    "00GgJo3w4SYrEnE4bIAXpT"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 195200,
       "name": "Aos P\u00e9s da Cruz",
       "url": "https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin"
@@ -462,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Brisa do Mar",
+        "url": "https://open.spotify.com/album/0WzNCdLD9mCtx1lO6NQ8g5"
+      },
+      "artists": [
+        {
+          "name": "Sara Santos",
+          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206159,
+      "name": "Brisa do Mar",
+      "url": "https://open.spotify.com/track/7DlsAi4CP4GfDfvGRS6V5e"
+    },
+    {
+      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/0XpWh98WxM7rtw67TfHh38"
       },
@@ -671,7 +686,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 120810,
       "name": "Cora\u00e7\u00e3o Madura",
       "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
@@ -797,7 +812,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 167764,
       "name": "Doralice",
       "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
@@ -941,7 +956,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 272000,
       "name": "Estate",
       "url": "https://open.spotify.com/track/4gzyWqG3sEWGOpe8DhIdS1"
@@ -1053,6 +1068,24 @@
       "duration_ms": 230624,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7"
+    },
+    {
+      "album": {
+        "name": "Foz Do Igua\u00e7u",
+        "url": "https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206822,
+      "name": "Foz Do Igua\u00e7u",
+      "url": "https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w"
     },
     {
       "album": {
@@ -1236,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "I Left My Heart in San Francisco",
+        "url": "https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223755,
+      "name": "I Left My Heart in San Francisco",
+      "url": "https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi"
+    },
+    {
+      "album": {
         "name": "Grand Songs",
         "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
       },
@@ -1254,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205502,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
+    },
+    {
+      "album": {
         "name": "Haven't We Met?",
         "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
@@ -1269,6 +1338,24 @@
       "duration_ms": 301543,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
+    },
+    {
+      "album": {
+        "name": "I've Never Been in Love Before",
+        "url": "https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236677,
+      "name": "I've Never Been in Love Before",
+      "url": "https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz"
     },
     {
       "album": {
@@ -1362,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Liljeholmsviken",
+        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262408,
+      "name": "Liljeholmsviken",
+      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
+    },
+    {
+      "album": {
         "name": "Soul Eyes",
         "url": "https://open.spotify.com/album/6Y1sADHp2yDRkT6iCPKYTG"
       },
@@ -1380,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Mestre Sala",
+        "url": "https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Olivieira",
+          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305006,
+      "name": "Maua",
+      "url": "https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1"
+    },
+    {
+      "album": {
         "name": "Medita\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr"
       },
@@ -1395,6 +1518,24 @@
       "duration_ms": 378700,
       "name": "Medita\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP"
+    },
+    {
+      "album": {
+        "name": "Mestre Sala",
+        "url": "https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Olivieira",
+          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272965,
+      "name": "Mestre Sala",
+      "url": "https://open.spotify.com/track/5R9gaRq8mNeuStZxXu1Sr9"
     },
     {
       "album": {
@@ -1683,6 +1824,24 @@
       "duration_ms": 137424,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
+    },
+    {
+      "album": {
+        "name": "Over the Rainbow",
+        "url": "https://open.spotify.com/album/4QHX19CSzvmLopSHU6XIiE"
+      },
+      "artists": [
+        {
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 186050,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/4oVtVfH5Byf8mRThHC8ZSb"
     },
     {
       "album": {
@@ -2299,6 +2458,24 @@
       "duration_ms": 224187,
       "name": "Woodblock Print",
       "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
+    },
+    {
+      "album": {
+        "name": "You Fascinate Me So",
+        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239636,
+      "name": "You Fascinate Me So",
+      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVleyMkaelTd"

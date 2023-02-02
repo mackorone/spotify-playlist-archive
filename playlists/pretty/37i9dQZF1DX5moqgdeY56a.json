@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 27510,
+  "num_followers": 28541,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDljOWNkNjA4MDc5MmJmNTgxYjQ0MWFhMjJiOWRlNzc4",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMGI2YzA2ZTMyOThmMTI4MmNlOWVmYWIwMjRjNjE4OTMw",
   "tracks": [
     {
       "added_at": "2022-09-22 18:15:34",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 490753,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
         "name": "A la Medida",
         "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
       },
@@ -263,18 +263,22 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Antonio Aguilar Con Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 188395,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
+      "duration_ms": 238022,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -315,8 +319,8 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Amor Ilegal",
-        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
+        "name": "No Voy A Llorar",
+        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
       },
       "artists": [
         {
@@ -324,9 +328,61 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 170253,
-      "name": "Amor Ilegal",
-      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
+      "duration_ms": 197253,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188395,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "MORVN",
+          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -359,42 +415,18 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. II",
-        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
       },
       "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 222453,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "Amiga M\u00eda",
-        "url": "https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "MORVN",
-          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Amiga M\u00eda",
-      "url": "https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV"
+      "duration_ms": 151051,
+      "name": "A la Medida",
+      "url": "https://open.spotify.com/track/4ZeC3j8u2e4i5hn4k5bFSw"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -423,34 +455,38 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+        "name": "Un Canto por M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
       "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 151051,
-      "name": "A la Medida",
-      "url": "https://open.spotify.com/track/4ZeC3j8u2e4i5hn4k5bFSw"
+      "duration_ms": 222453,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
     },
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+        "name": "Amor Ilegal",
+        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+      "duration_ms": 170253,
+      "name": "Amor Ilegal",
+      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -475,24 +511,8 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
       "artists": [
         {
@@ -500,45 +520,13 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         },
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 238022,
-      "name": "Tu Sangre en Mi Cuerpo",
-      "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "No Voy A Llorar",
-        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "Tu M\u00e9ndigo Recuerdo",
-        "url": "https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 213923,
-      "name": "Tu M\u00e9ndigo Recuerdo",
-      "url": "https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP"
+      "duration_ms": 228989,
+      "name": "Ella Que\u0301 Te Dio",
+      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -559,8 +547,24 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+        "name": "Tu M\u00e9ndigo Recuerdo",
+        "url": "https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 213923,
+      "name": "Tu M\u00e9ndigo Recuerdo",
+      "url": "https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
@@ -568,25 +572,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 244642,
-      "name": "Ahi\u0301 Donde Me Ven",
-      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 184064,
-      "name": "Lamberto Quintero",
-      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
+      "duration_ms": 490753,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -607,18 +595,18 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Una y Mil Razones",
-        "url": "https://open.spotify.com/album/6D2xGN02Ea4nv97JtzlMFz"
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
       "artists": [
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 183547,
-      "name": "Una y Mil Razones",
-      "url": "https://open.spotify.com/track/4GYEw1rccnn36siGuvhxEn"
+      "duration_ms": 184064,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -639,8 +627,24 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/5ygmzSeurGyRn57a5XAJNp"
+        "name": "Una y Mil Razones",
+        "url": "https://open.spotify.com/album/6D2xGN02Ea4nv97JtzlMFz"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 183547,
+      "name": "Una y Mil Razones",
+      "url": "https://open.spotify.com/track/4GYEw1rccnn36siGuvhxEn"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
       },
       "artists": [
         {
@@ -648,9 +652,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 187280,
-      "name": "As\u00ed Es La Vida",
-      "url": "https://open.spotify.com/track/3c8lIXaRUGniycNN1Mz2i7"
+      "duration_ms": 168866,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -667,22 +671,6 @@
       "duration_ms": 200480,
       "name": "Directo Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
-        "name": "Negociar\u00e9 Con la Pena",
-        "url": "https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Ni Contigo, Ni Sin Ti",
-      "url": "https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -710,15 +698,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 228989,
-      "name": "Ella Que\u0301 Te Dio",
-      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
+      "duration_ms": 244642,
+      "name": "Ahi\u0301 Donde Me Ven",
+      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -807,22 +791,6 @@
     {
       "added_at": "2022-09-22 18:15:34",
       "album": {
-        "name": "Por El Amor De Siempre",
-        "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Me Estoy Acostumbrando A Ti",
-      "url": "https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl"
-    },
-    {
-      "added_at": "2022-09-22 18:15:34",
-      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
       },
@@ -835,6 +803,22 @@
       "duration_ms": 177388,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Por El Amor De Siempre",
+        "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Me Estoy Acostumbrando A Ti",
+      "url": "https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl"
     },
     {
       "added_at": "2022-09-22 18:15:34",
@@ -899,6 +883,22 @@
       "duration_ms": 181835,
       "name": "Qu\u00e9 Falta Me Hace Mi Padre",
       "url": "https://open.spotify.com/track/6jkq3KyVOBcep5HKRHTvOB"
+    },
+    {
+      "added_at": "2022-09-22 18:15:34",
+      "album": {
+        "name": "Tambora, Vol. 3",
+        "url": "https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 147513,
+      "name": "Anillo Grabado",
+      "url": "https://open.spotify.com/track/4M3A1xOY409r0cGLEKSDmf"
     }
   ],
   "unique_name": "La Dinast\u00eda de... Los Aguilar",

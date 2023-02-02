@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Have a quiet morning with this mix of something familiar and something new.",
   "name": "Mellow Morning",
-  "published_playlist_ids": [
-    "28RD6nYufPNLui4c84uOdv"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 175413,
       "name": "(Wish I Didn't Have to) Lie [feat. JORDY]",
       "url": "https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO"
@@ -135,7 +132,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 193047,
       "name": "about time",
       "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
@@ -983,6 +980,10 @@
         {
           "name": "Durand Jones & The Indications",
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
       "date_added": "2020-10-17",
@@ -1009,6 +1010,28 @@
       "duration_ms": 185133,
       "name": "Dear...",
       "url": "https://open.spotify.com/track/2xoEhOh8J9tIPA0uFutXkB"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
+        "url": "https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135493,
+      "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
+      "url": "https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4"
     },
     {
       "album": {
@@ -1121,6 +1144,24 @@
       "duration_ms": 181266,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/7JRvk5bk0yJIrqVwLtZDst"
+    },
+    {
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Drunk On A Flight",
+      "url": "https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd"
     },
     {
       "album": {
@@ -1355,7 +1396,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 240026,
       "name": "For Me, It's You",
       "url": "https://open.spotify.com/track/2odYUJ9LhwDVVPxXL3NxuB"
@@ -1573,7 +1614,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 134742,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/7AoCNArsiCSt4vr2dqAjJx"
@@ -2421,7 +2462,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 252135,
       "name": "If You Only Knew",
       "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
@@ -3413,7 +3454,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
@@ -3709,7 +3750,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 245175,
       "name": "once in a moon",
       "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
@@ -3731,6 +3772,24 @@
       "duration_ms": 505880,
       "name": "One Day",
       "url": "https://open.spotify.com/track/60npAyGdzYq1MzCoSkNfXo"
+    },
+    {
+      "album": {
+        "name": "One More Try",
+        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356000,
+      "name": "One More Try",
+      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
     },
     {
       "album": {
@@ -4049,10 +4108,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 200000,
       "name": "Pills",
       "url": "https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z"
+    },
+    {
+      "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
     },
     {
       "album": {
@@ -4285,6 +4362,24 @@
       "duration_ms": 190077,
       "name": "San Junipero (Personal Heaven)",
       "url": "https://open.spotify.com/track/0SddM2ln87iYmyQfLR8AQO"
+    },
+    {
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX"
     },
     {
       "album": {
@@ -5365,10 +5460,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 175696,
       "name": "What A Difference She Made",
       "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
+    },
+    {
+      "album": {
+        "name": "the blue album",
+        "url": "https://open.spotify.com/album/5GcYZxshVMWixtXvjsYi3T"
+      },
+      "artists": [
+        {
+          "name": "Gabriel",
+          "url": "https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 175200,
+      "name": "what should i do about me?",
+      "url": "https://open.spotify.com/track/5x4ybZew53LDl0SFDDALMn"
     },
     {
       "album": {
@@ -5467,7 +5580,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-03",
       "duration_ms": 240266,
       "name": "Won't Turn Back",
       "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"

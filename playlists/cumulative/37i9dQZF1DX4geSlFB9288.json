@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-10-23",
   "description": "Indie music to keep your gaming session properly soundtracked. ",
   "name": "Indie Gaming",
-  "published_playlist_ids": [
-    "6eT1nwSC8c4kaxWfBxqE4a"
-  ],
   "tracks": [
     {
       "album": {
@@ -229,7 +226,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 175493,
       "name": "Ain't No Rest for the Wicked",
       "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
@@ -265,7 +262,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173438,
       "name": "Alchemist",
       "url": "https://open.spotify.com/track/158OK6TQSb8xo1MIJSdxb1"
@@ -923,7 +920,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 187931,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
@@ -1374,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
+        "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
+      "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
+    },
+    {
+      "album": {
         "name": "Wiped Out!",
         "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
       },
@@ -1598,6 +1613,50 @@
     },
     {
       "album": {
+        "name": "off the grid",
+        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "down bad",
+      "url": "https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl"
+    },
+    {
+      "album": {
+        "name": "down bad",
+        "url": "https://open.spotify.com/album/6UnHzeGa6yQaPuoDRGslkQ"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        },
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        },
+        {
+          "name": "Preloved",
+          "url": "https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "down bad - fanclubwallet & Preloved Remix",
+      "url": "https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy"
+    },
+    {
+      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/52L8AnUkPWl7FGDlZjNAnJ"
       },
@@ -1816,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "TEAM BABY",
+        "url": "https://open.spotify.com/album/4apvOjR5ybt6G5IlHBBGmA"
+      },
+      "artists": [
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "EVERYTHING",
+      "url": "https://open.spotify.com/track/3QjI2bkcaQalyd1k0qvmYj"
+    },
+    {
+      "album": {
         "name": "Eyes Blue Like The Atlantic (feat. Subvrbs)",
         "url": "https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI"
       },
@@ -1831,7 +1908,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 154599,
       "name": "Eyes Blue Like The Atlantic (feat. Subvrbs)",
       "url": "https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1"
@@ -2067,7 +2144,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 173493,
       "name": "Fluorescent Adolescent",
       "url": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM"
@@ -2406,6 +2483,28 @@
     },
     {
       "album": {
+        "name": "help herself",
+        "url": "https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "help herself",
+      "url": "https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce"
+    },
+    {
+      "album": {
         "name": "The Family Jewels",
         "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
       },
@@ -2439,7 +2538,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 233374,
       "name": "Hey Kids",
       "url": "https://open.spotify.com/track/5poS8LyxohSACjuIZ61EyS"
@@ -2627,6 +2726,24 @@
       "duration_ms": 185176,
       "name": "I Hear a Symphony",
       "url": "https://open.spotify.com/track/3iJya7m7trpGv570Ske30n"
+    },
+    {
+      "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
     },
     {
       "album": {
@@ -2923,7 +3040,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 140665,
       "name": "IDGAF (with blackbear)",
       "url": "https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR"
@@ -3273,7 +3390,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
@@ -3519,7 +3636,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
@@ -3591,7 +3708,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -3721,7 +3838,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 258972,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/1ujiHGg5p9SVrNIV4jumQK"
@@ -4461,7 +4578,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 218586,
       "name": "OPEN A WINDOW (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/1TDeDFUYHjZKLsO6bzoVg1"
@@ -4671,7 +4788,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 154000,
       "name": "Please Never Fall in Love Again",
       "url": "https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M"
@@ -4987,7 +5104,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-04",
       "duration_ms": 195097,
       "name": "Sabbia",
       "url": "https://open.spotify.com/track/5IIO6RDDEdmSFbik9c6XZM"
@@ -5031,7 +5148,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 192789,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
@@ -5107,7 +5224,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-04",
       "duration_ms": 213053,
       "name": "Set it on Fire",
       "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
@@ -5125,7 +5242,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": "2023-01-21",
       "duration_ms": 178590,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/0LACZ5yc1B7U7CIrVcJ6Fe"
@@ -5305,10 +5422,32 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 135529,
       "name": "Shut up My Moms Calling - (Sped Up)",
       "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
+    },
+    {
+      "album": {
+        "name": "Sick of U",
+        "url": "https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168676,
+      "name": "Sick of U (with Oliver Tree)",
+      "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
     },
     {
       "album": {
@@ -5457,7 +5596,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 151494,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/1tC7Kn0zul08kNgOnSm2GT"
@@ -5587,6 +5726,24 @@
       "duration_ms": 255986,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
+    },
+    {
+      "album": {
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "album": {
@@ -5801,6 +5958,24 @@
       "duration_ms": 168398,
       "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
       "url": "https://open.spotify.com/track/5JKnYZOhSP7rOK0jPYcCjV"
+    },
+    {
+      "album": {
+        "name": "Young Chasers",
+        "url": "https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
     },
     {
       "album": {
@@ -6190,6 +6365,24 @@
     },
     {
       "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
+      "album": {
         "name": "Spring EP",
         "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
       },
@@ -6339,6 +6532,28 @@
       "duration_ms": 361760,
       "name": "Tommy's Party",
       "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
+    },
+    {
+      "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Ezra Koenig",
+          "url": "https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246706,
+      "name": "Tonight (feat. Ezra Koenig)",
+      "url": "https://open.spotify.com/track/2Xl9SgLTp16bHEVdmUuJPi"
     },
     {
       "album": {
@@ -7129,7 +7344,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 141394,
       "name": "\u0421\u0443\u0434\u043d\u043e (\u0411\u043e\u0440\u0438\u0441 \u0420\u0438\u0436\u0438\u0439)",
       "url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO"

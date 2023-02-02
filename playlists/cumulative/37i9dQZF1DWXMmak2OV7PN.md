@@ -4,7 +4,7 @@
 
 > The best of alt\-J, so far.
 
-29 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/4IElSnTFlKAw4kJ0Q2LPoL)
+29 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

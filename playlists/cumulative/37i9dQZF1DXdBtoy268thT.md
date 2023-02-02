@@ -4,7 +4,7 @@
 
 > Tap your foot and laugh your head off with this hilarious Musical Comedy.
 
-49 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/26sjLZeW1ti7smgBw1EK0u)
+49 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Formas musicales de decir "Te quiero".
 
-130 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/2qSWw5wyRKPb7U8mTPwrYA)
+130 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Total Eclipse of the Heart](https://open.spotify.com/track/7B8xku9v4BCvzZSlngmjmW) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Faster Than the Speed of Night](https://open.spotify.com/album/4xII45pLolGqLJ92wkPgYS) | 6:58 | 2021-02-12 | 2022-07-29 |
 | [Tu Foto Del DNI](https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tu Foto Del DNI](https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8) | 2:59 | 2021-02-12 | 2022-11-13 |
 | [Tutu](https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:59 | 2021-02-12 |  |
-| [Una Foto en Blanco y Negro](https://open.spotify.com/track/1LuW4h5s9ZumBbMh7qhDDj) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Estados de Animo](https://open.spotify.com/album/6Fs4ZLz6N8IZtXR20zjwjy) | 3:29 | 2021-02-12 | 2022-11-14 |
+| [Una Foto en Blanco y Negro](https://open.spotify.com/track/1LuW4h5s9ZumBbMh7qhDDj) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Estados de Animo](https://open.spotify.com/album/6Fs4ZLz6N8IZtXR20zjwjy) | 3:29 | 2021-02-12 | 2023-01-03 |
 | [Unchained Melody](https://open.spotify.com/track/2ACjOtICHXrAlP3ijVMSvb) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Rock N' Roll Legends](https://open.spotify.com/album/1KYp0pKKHAX2AwViMzdL4A) | 3:35 | 2021-02-12 | 2022-07-29 |
 | [Unchained Melody](https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:38 | 2021-02-12 |  |
 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 | 2021-02-12 |  |

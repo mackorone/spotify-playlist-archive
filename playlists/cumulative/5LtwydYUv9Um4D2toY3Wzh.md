@@ -4,7 +4,7 @@
 
 > ...dancing in the mirror.
 
-40 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/6gvsWJQyuDO6OYcX5jjRTo)
+40 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

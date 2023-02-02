@@ -4,7 +4,7 @@
 
 > Here is a playlist of all our songs released so far\. Our new album 'Today We’re The Greatest' is out now!
 
-40 songs - 2 hr 14 min - [published](https://open.spotify.com/playlist/5YqPIU9G4RKykzibp2xOPg)
+40 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

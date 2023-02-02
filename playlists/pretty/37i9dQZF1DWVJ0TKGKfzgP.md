@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,813 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,283 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 2 | [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 |
 | 3 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 |
 | 4 | [Just Be Good To Me](https://open.spotify.com/track/1482bMc9Tn0uQxsJqV7eSP) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [On The Rise](https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb) | 9:09 |
-| 5 | [Give It Up Or Turnit A Loose \- Remix](https://open.spotify.com/track/5hyinpdAW0ov09P4Q2cert) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [In The Jungle Groove](https://open.spotify.com/album/4IxN6AdKM6psncLNIwLWUs) | 6:10 |
-| 6 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
+| 5 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
+| 6 | [Give It Up Or Turnit A Loose \- Remix](https://open.spotify.com/track/5hyinpdAW0ov09P4Q2cert) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [In The Jungle Groove](https://open.spotify.com/album/4IxN6AdKM6psncLNIwLWUs) | 6:10 |
 | 7 | [Controversy](https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 7:15 |
 | 8 | [Jungle Love](https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1) | [The Time](https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv) | [Ice Cream Castle](https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4) | 5:33 |
 | 9 | [Don't Stop The Music](https://open.spotify.com/track/7C7TiKlyYsVGNdvNJR1QeS) | [Yarbrough & Peoples](https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV) | [D.J\. Masters: Slammin' Jams](https://open.spotify.com/album/3Hz9OiLdXkoltROdoKWbct) | 4:10 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 16 | [I Can Make You Feel Good \- 12" Version](https://open.spotify.com/track/34B0tsQ4yAj7YTbsTfZpMB) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends / Go For It](https://open.spotify.com/album/39jaUqZfh7YUgQnemcgnXF) | 4:21 |
 | 17 | [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 |
 | 18 | [Shine\-O\-Mite \(Rag Poping\)](https://open.spotify.com/track/2C95qrzuEsW7o9ERQIArXS) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Glory B, Da Funk's On Me! The Bootsy Collins Anthology](https://open.spotify.com/album/1iMTvYmTL0GYXao1hMSz5b) | 4:33 |
-| 19 | [Freaks Come Out at Night](https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:42 |
+| 19 | [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 |
 | 20 | [What Have You Done For Me Lately](https://open.spotify.com/track/2SFq0UIiBWkBgky0fkrHP0) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:59 |
 | 21 | [Turn It On](https://open.spotify.com/track/7cr6MHjxCKQwqiiCyZrbpo) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [The Early Tapes / Level 42](https://open.spotify.com/album/3jNbBEmjeHSUyrqKpDgiw8) | 4:40 |
 | 22 | [Destination](https://open.spotify.com/track/4scgGmqQvlsJsnOOL2tFOL) | [The Warriors](https://open.spotify.com/artist/3SQ9SxVUxmWPEmJcuVvGc1) | [Behind the Mask](https://open.spotify.com/album/5dZJvN5TUDuaXJYaz9bDEH) | 6:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 99 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 |
 | 100 | [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 |
 
-Snapshot ID: `MTY2NDI4NDg0MCwwMDAwMDAwMDMxZjM1ZmM4NmU5ZmE5MTYwNzQ4Mjk3MzcxNGVkOWM2`
+Snapshot ID: `MTY3MDgzMzg0NiwwMDAwMDAwMGM5ZWIxNTdjNDEwN2EwYmFjZDk2N2VlNDBlZDhiNDky`

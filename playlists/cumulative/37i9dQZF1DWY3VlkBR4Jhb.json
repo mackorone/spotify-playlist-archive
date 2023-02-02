@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The essential works of Franz Schubert.",
   "name": "This Is Schubert",
-  "published_playlist_ids": [
-    "7v2UnqFJJ6VNimJuITu1oj"
-  ],
   "tracks": [
     {
       "album": {
@@ -1982,6 +1979,28 @@
     },
     {
       "album": {
+        "name": "Schubert: Piano Sonatas D. 784 & 959",
+        "url": "https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Eric Lu",
+          "url": "https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376453,
+      "name": "Schubert: Allegretto in C Minor, D. 915",
+      "url": "https://open.spotify.com/track/1RExWN6ZhUKNEp86lIF6r4"
+    },
+    {
+      "album": {
         "name": "Schubert: Ave Maria, Die Forelle, Heidenr\u00f6slein & Other Lieder",
         "url": "https://open.spotify.com/album/7xCjhI1Pjslxmec4FiZwhC"
       },
@@ -2045,10 +2064,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 569466,
       "name": "Schubert: Piano Sonata No. 20 in A Major, D. 959: II. Andantino",
       "url": "https://open.spotify.com/track/0WuNhZkCPvfq1J9xtL4Yrz"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Sonatas D. 784 & 959",
+        "url": "https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Eric Lu",
+          "url": "https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569466,
+      "name": "Schubert: Piano Sonata No. 20 in A Major, D. 959: II. Andantino",
+      "url": "https://open.spotify.com/track/26oID5JTkv963fmMQcsBef"
     },
     {
       "album": {

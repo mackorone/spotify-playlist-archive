@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-08",
   "description": "Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.",
   "name": "Easy On Saturday",
-  "published_playlist_ids": [
-    "4jnmTTG5ZTX6s4oUdUnTY2"
-  ],
   "tracks": [
     {
       "album": {
@@ -1988,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "novembre",
+        "url": "https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S"
+      },
+      "artists": [
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "novembre",
+      "url": "https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2"
+    },
+    {
+      "album": {
         "name": "October, Halfway July",
         "url": "https://open.spotify.com/album/2zQmazQRssxqwdUe198gqn"
       },
@@ -2132,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "Hopeless Romance",
+        "url": "https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236165,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T"
+    },
+    {
+      "album": {
         "name": "Princess",
         "url": "https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J"
       },
@@ -2161,7 +2194,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 236165,
       "name": "Princess",
       "url": "https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2"

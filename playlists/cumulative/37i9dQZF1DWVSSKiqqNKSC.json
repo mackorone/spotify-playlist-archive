@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1Lo mejor de la Salsa Cubana! Cover: Celia Cruz",
+  "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
   "name": "Salsa Cubana",
-  "published_playlist_ids": [
-    "2HGElLQ4Q40P5HXdU6etvf"
-  ],
   "tracks": [
     {
       "album": {
@@ -295,7 +292,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 226000,
       "name": "Arreba\u0301tate",
       "url": "https://open.spotify.com/track/4EtFaIAE21AfCd4dLDxcCi"
@@ -637,7 +634,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 176733,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
@@ -998,6 +995,24 @@
     },
     {
       "album": {
+        "name": "De La Habana a Per\u00fa",
+        "url": "https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0"
+      },
+      "artists": [
+        {
+          "name": "Barbaro Fines Fortes",
+          "url": "https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302746,
+      "name": "El Cuchi Cuchi",
+      "url": "https://open.spotify.com/track/6mXA7FAAsnSCHfk4gQx3U4"
+    },
+    {
+      "album": {
         "name": "Que No Me Controlen",
         "url": "https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN"
       },
@@ -1013,7 +1028,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 279173,
       "name": "El Dueno del Party",
       "url": "https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk"
@@ -2145,7 +2160,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 342400,
       "name": "Marcando la Distancia",
       "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"
@@ -2197,6 +2212,42 @@
     {
       "album": {
         "name": "Me Quedo Contigo",
+        "url": "https://open.spotify.com/album/2R24fOX8OXzoY89stUCl7i"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201231,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/1IbNTo4gpxfFt3lM0Is4sF"
+    },
+    {
+      "album": {
+        "name": "Me Quedo Contigo",
+        "url": "https://open.spotify.com/album/0wOpfPbmZOoG7Zzfy3k5e6"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 201231,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/2xyxQrfc7ep4n01aYjiOQN"
+    },
+    {
+      "album": {
+        "name": "Me Quedo Contigo",
         "url": "https://open.spotify.com/album/16QGmbXuGq7E8lSXkriGdS"
       },
       "artists": [
@@ -2225,7 +2276,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 203226,
       "name": "Me Quedo Contigo",
       "url": "https://open.spotify.com/track/7vxc1a4aks0RqIbNhBYjlg"
@@ -2547,7 +2598,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-15",
       "duration_ms": 233947,
       "name": "Pero Me Acuerdo De Ti",
       "url": "https://open.spotify.com/track/7HumocNn7PasLHHfodVUU4"
@@ -2662,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Con ganas",
+        "url": "https://open.spotify.com/album/1mDDRmhPedob95tNBsfVVq"
+      },
+      "artists": [
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 378578,
+      "name": "Que te pasa loco",
+      "url": "https://open.spotify.com/track/73lAijiZS9B4Ai8rIJWCbG"
+    },
+    {
+      "album": {
         "name": "Que Tiene Que Te Mueve",
         "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
@@ -2753,7 +2822,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 378013,
       "name": "Qu\u00e9 Pasa Loco",
       "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
@@ -2873,7 +2942,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 226873,
       "name": "Represent",
       "url": "https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ"
@@ -3306,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "De La Habana a Per\u00fa",
+        "url": "https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0"
+      },
+      "artists": [
+        {
+          "name": "Barbaro Fines Fortes",
+          "url": "https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330533,
+      "name": "Tren Bala",
+      "url": "https://open.spotify.com/track/6RQ6XY9KxNov9Wl4m6KvNa"
+    },
+    {
+      "album": {
         "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
         "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
       },
@@ -3357,6 +3444,24 @@
       "duration_ms": 264846,
       "name": "Tu Silueta",
       "url": "https://open.spotify.com/track/0C7lZ9CYEJ524uD0xJQmex"
+    },
+    {
+      "album": {
+        "name": "Un beso",
+        "url": "https://open.spotify.com/album/5YLIFTDokuqZWwAxuIqXRq"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242974,
+      "name": "Un beso",
+      "url": "https://open.spotify.com/track/2gX34gCWPnUSvEhYLYEMH4"
     },
     {
       "album": {
@@ -3811,7 +3916,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"

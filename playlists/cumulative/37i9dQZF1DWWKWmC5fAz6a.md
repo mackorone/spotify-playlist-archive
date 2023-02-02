@@ -4,7 +4,7 @@
 
 > Elle and Tao's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-43 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/7nLx1ZfBO8wpD4fuVZKNMF)
+44 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Say It](https://open.spotify.com/track/6PyZGb1rB7oLKCICWTmGYa) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:40 | 2022-05-26 |  |
 | [She Likes Me](https://open.spotify.com/track/0Hz2naBG1RX3ihb69nQFwX) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [DOWNDOWNDOWN!](https://open.spotify.com/album/02RCWbHS4y3GBRqDv4OHZd) | 2:38 | 2022-05-26 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-05-26 |  |
-| [ur so pretty](https://open.spotify.com/track/0MIiqne6YsbsDz4z9MGA2K) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/2MLGMYV56ySz3AZShc92L1) | 2:12 | 2022-05-26 |  |
+| [ur so pretty](https://open.spotify.com/track/0MIiqne6YsbsDz4z9MGA2K) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/2MLGMYV56ySz3AZShc92L1) | 2:12 | 2022-05-26 | 2023-02-01 |
+| [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2022-05-31 |  |
 | [UrbanAngel1999](https://open.spotify.com/track/0sDsJ3HMMzrelKD11WARqc) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [UrbanAngel1999](https://open.spotify.com/album/5axdYpfOE0FnDMPlhxyqXQ) | 3:10 | 2022-05-31 |  |
 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 | 2022-05-26 |  |
 

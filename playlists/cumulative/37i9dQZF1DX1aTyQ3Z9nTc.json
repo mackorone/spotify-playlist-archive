@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-10",
   "description": "That bouncy, groovy, dancey sound.",
   "name": "Choice Edit",
-  "published_playlist_ids": [
-    "7J6V8CtH6cauGweEfdRx6B"
-  ],
   "tracks": [
     {
       "album": {
@@ -552,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Been Thinking",
+        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187275,
+      "name": "Been Thinking",
+      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
+    },
+    {
+      "album": {
         "name": "midsummer",
         "url": "https://open.spotify.com/album/5aFCqQv9tYrUjst01NiSFq"
       },
@@ -681,7 +696,7 @@
     {
       "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
       },
       "artists": [
         {
@@ -696,6 +711,28 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196965,
+      "name": "Bleu (better with time)",
+      "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
+    },
+    {
+      "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
       "duration_ms": 196965,
       "name": "Bleu (better with time)",
       "url": "https://open.spotify.com/track/7mRD0qvI5y0SZ4DPhpejdd"
@@ -827,6 +864,28 @@
     {
       "album": {
         "name": "Boundaries (DRAMA Remix)",
+        "url": "https://open.spotify.com/album/0KFOUugVRJwr9pnevuIrtl"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 220411,
+      "name": "Boundaries - DRAMA Remix",
+      "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
+    },
+    {
+      "album": {
+        "name": "Boundaries (DRAMA Remix)",
         "url": "https://open.spotify.com/album/0WylqMxFFxeBnZDB911kon"
       },
       "artists": [
@@ -841,7 +900,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 220901,
       "name": "Boundaries - DRAMA Remix",
       "url": "https://open.spotify.com/track/4i54Gt9n07p4W0zmeavZr3"
@@ -863,6 +922,32 @@
       "duration_ms": 96133,
       "name": "Break it off - Bonus",
       "url": "https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1"
+    },
+    {
+      "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
     },
     {
       "album": {
@@ -1085,6 +1170,24 @@
       "duration_ms": 206681,
       "name": "Coming Closer",
       "url": "https://open.spotify.com/track/238p3EKRYESqsZdgE5DCDR"
+    },
+    {
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240725,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm"
     },
     {
       "album": {
@@ -1416,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Ease Up",
+        "url": "https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
+    },
+    {
+      "album": {
         "name": "Fall In",
         "url": "https://open.spotify.com/album/14WXlgU3jPNSbkttpoWQsx"
       },
@@ -1427,7 +1548,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 159310,
       "name": "Fall In",
       "url": "https://open.spotify.com/track/76oTS246cR6Qnk9UznLk0K"
@@ -1530,6 +1651,32 @@
     },
     {
       "album": {
+        "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+        "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310340,
+      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+      "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
+    },
+    {
+      "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
@@ -1585,7 +1732,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 151239,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/11TSZcCco9oHmpTv3TRS9M"
@@ -1953,7 +2100,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 248817,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
@@ -2257,7 +2404,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 181009,
       "name": "I'm Pressed",
       "url": "https://open.spotify.com/track/4I2v5ENMvhNL51rmFx4t6o"
@@ -2644,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "LET IT RAIN",
+        "url": "https://open.spotify.com/album/3JYRLABN6Vnnq7aEb39mZ4"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 221423,
+      "name": "LET IT RAIN",
+      "url": "https://open.spotify.com/track/0zPiT8nesNRCXKWvK7ryHh"
+    },
+    {
+      "album": {
         "name": "LEVITATING",
         "url": "https://open.spotify.com/album/2zZoFGnYYwphZictbgyYhg"
       },
@@ -2774,6 +2939,36 @@
     },
     {
       "album": {
+        "name": "Ejoya Class of '22",
+        "url": "https://open.spotify.com/album/74VogAYkcqXfg2SnkgFW9H"
+      },
+      "artists": [
+        {
+          "name": "Ejoya",
+          "url": "https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Tchella",
+          "url": "https://open.spotify.com/artist/6XUDmNo0UycZOMBWE3JU1S"
+        },
+        {
+          "name": "Jesse Alordiah",
+          "url": "https://open.spotify.com/artist/1SirH3jX4VbETzustXAkal"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "Losing Me",
+      "url": "https://open.spotify.com/track/3cCycSfiDl5FuXjSHV8ELu"
+    },
+    {
+      "album": {
         "name": "Love No Limit",
         "url": "https://open.spotify.com/album/6HGTGdhNpGMfgMX2sjUXsK"
       },
@@ -2869,7 +3064,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 198839,
       "name": "Midnight Hour with Boys Noize & Ty Dolla $ign",
       "url": "https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85"
@@ -2891,6 +3086,32 @@
       "duration_ms": 220650,
       "name": "Miss The Days",
       "url": "https://open.spotify.com/track/4TdBkfjotcNZWAGI2xgxh9"
+    },
+    {
+      "album": {
+        "name": "Soulection Takeover: 2K23 Edition",
+        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Soulection",
+          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Mountain Dew",
+      "url": "https://open.spotify.com/track/4z0ON0ZGVktEhRAvZscuEo"
     },
     {
       "album": {
@@ -3169,7 +3390,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 233974,
       "name": "Nothing More To Say (with 6LACK & Donae\u2019o)",
       "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
@@ -3658,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "POP!",
+        "url": "https://open.spotify.com/album/2hDGxRzjtmYbq977e9CCPa"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196063,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/2M9AnJN0YIrkWtKXaUj56Q"
+    },
+    {
+      "album": {
         "name": "Remember Your North Star",
         "url": "https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO"
       },
@@ -3713,7 +3952,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 156737,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo"
@@ -3925,7 +4164,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 178218,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
@@ -4185,6 +4424,24 @@
       "duration_ms": 187938,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
+    },
+    {
+      "album": {
+        "name": "So Badly",
+        "url": "https://open.spotify.com/album/3v3waqFybLYp6P4iKAmzg9"
+      },
+      "artists": [
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230002,
+      "name": "So Badly",
+      "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
     },
     {
       "album": {
@@ -4943,7 +5200,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 215397,
       "name": "Too Much (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
@@ -5045,7 +5302,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-21",
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
@@ -5685,7 +5942,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 217485,
       "name": "You",
       "url": "https://open.spotify.com/track/1RXm1hOSW6ITZOejiqiNEK"

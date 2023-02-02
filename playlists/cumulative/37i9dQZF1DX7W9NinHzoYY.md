@@ -4,7 +4,7 @@
 
 > Hear Xavier Omär's breakout track &quot;Blind Man&quot; and other essential jams.
 
-27 songs - 1 hr 39 min - [published](https://open.spotify.com/playlist/4zIgelLzsO7I4h9rLwwuBy)
+27 songs - 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

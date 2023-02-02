@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
   "name": "PAUSE: Anxiety",
-  "published_playlist_ids": [
-    "0vKjwC12x9Psx4QBF8Kziu"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 145115,
       "name": "Ainda Ontem",
       "url": "https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu"
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 166800,
       "name": "Alteration For Life",
       "url": "https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd"
@@ -261,7 +258,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 144000,
       "name": "Desiderium",
       "url": "https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg"
@@ -423,7 +420,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 152727,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q"
@@ -837,7 +834,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 183659,
       "name": "Patience",
       "url": "https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8"
@@ -911,7 +908,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 105626,
-      "name": "Piano Ele\u0301ctrico",
+      "name": "Piano El\u00e9ctrico",
       "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
     },
     {
@@ -1291,6 +1288,24 @@
       "duration_ms": 128084,
       "name": "To Me",
       "url": "https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/4pihDS6JH0lIBv4er7yBpm"
+      },
+      "artists": [
+        {
+          "name": "Pim Miles",
+          "url": "https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208222,
+      "name": "Unwritten Thoughts",
+      "url": "https://open.spotify.com/track/0qXXvOL6Ujkboy0u6QHCam"
     },
     {
       "album": {

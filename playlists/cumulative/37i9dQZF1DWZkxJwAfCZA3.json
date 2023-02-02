@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "<a href=\"spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2\"> Maya Jane Coles</a>' favorite tracks. Updated regularly. Curated by Maya Jane Coles Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Maya Jane Coles' track IDs",
-  "published_playlist_ids": [
-    "0LmubJwhwYXatOoMu2UsGp"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,10 +52,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 157466,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/025iViTyEpPYeaF4eWm20O"
+    },
+    {
+      "album": {
+        "name": "A Sufi And A Killer (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/01L5H2Xyj7K43SeJSY2s4y"
+      },
+      "artists": [
+        {
+          "name": "Gonjasufi",
+          "url": "https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157466,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/1eYsvMckAi04KcmRBvbtV2"
     },
     {
       "album": {

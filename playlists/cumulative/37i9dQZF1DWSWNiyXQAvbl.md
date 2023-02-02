@@ -4,7 +4,7 @@
 
 > Ease back in time with the help of these seventies classics...
 
-139 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/1j6y24QJbO6bcvnAQKeXAM)
+139 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

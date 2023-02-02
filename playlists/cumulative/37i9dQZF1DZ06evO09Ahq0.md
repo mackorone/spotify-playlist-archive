@@ -4,7 +4,7 @@
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-49 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/5hWIvCHya76yr7uVouaBly)
+50 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 | 2022-05-30 |  |
 | [I Won't See You Tonight Part 1](https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 8:58 | 2022-05-30 |  |
 | [Linewleum \(feat\. Avenged Sevenfold\)](https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ), [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 3:19 | 2022-10-12 |  |
+| [Lost](https://open.spotify.com/track/0EtXiKDaHJcVFFvhWpSfiN) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:01 | 2022-11-26 | 2023-02-02 |
 | [M.I.A.](https://open.spotify.com/track/3PrvYgv97s5U752pIpDMNf) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 8:46 | 2022-05-30 |  |
 | [Mad Hatter](https://open.spotify.com/track/06ccOZxagoqk4oc0cGaJw7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Mad Hatter](https://open.spotify.com/album/4cYx05jNL7Pz1AW0kcwoXi) | 5:03 | 2022-05-30 |  |
 | [Malagueña Salerosa](https://open.spotify.com/track/2oZSBEtzUtq70iQwpNjrnk) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 4:14 | 2022-10-12 |  |

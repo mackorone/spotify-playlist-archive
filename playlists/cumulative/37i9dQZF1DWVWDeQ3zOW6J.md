@@ -4,7 +4,7 @@
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-110 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/30A05OArJAIX8E56LydTBw)
+110 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [La Murga](https://open.spotify.com/track/19H2WWw0j6t0gEuWPLbdq9) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Mix Latinos](https://open.spotify.com/album/1CN9y1QYYbvDBcJyTh2hXy) | 5:33 | 2020-06-16 | 2022-11-13 |
 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 | 2020-06-16 |  |
 | [La negra Tomasa](https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Las Flores De La Vida](https://open.spotify.com/album/449c2Wce3Ldrr8lzI02hlD) | 3:58 | 2020-06-16 |  |
-| [La Receta](https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [L.A\. Amistad](https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3) | 5:03 | 2020-06-16 | 2022-11-14 |
+| [La Receta](https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [L.A\. Amistad](https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3) | 5:03 | 2020-06-16 | 2022-12-13 |
 | [Las Tumbas](https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Soy Feliz](https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi) | 4:04 | 2020-06-16 |  |
 | [Las Tumbas](https://open.spotify.com/track/6GjepFkAPxlD6HmOrAyIsU) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Latin Salsa](https://open.spotify.com/album/2bWOqlThmgtq19WdOsYcs2) | 4:04 | 2020-06-16 | 2022-11-13 |
 | [Las Tumbas](https://open.spotify.com/track/3bnNDCQbLHvo7xPItA7jeG) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Ismael Rivera \- Greatest Hits](https://open.spotify.com/album/5YbhaAh0G06ElvNWvLvRor) | 4:06 | 2020-06-16 | 2022-07-29 |

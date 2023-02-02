@@ -4,11 +4,12 @@
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-58 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/5v6HJgBAe39wmbvpUxa1an)
+59 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 More Rounds](https://open.spotify.com/track/5aJEkUKSjbqU2ekKpdHxGL) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [10 More Rounds](https://open.spotify.com/album/20Sov9TnugCg2OnD2ETo0m) | 3:17 | 2022-10-01 |  |
+| [10 More Rounds](https://open.spotify.com/track/46QbtehpRVwhGQNFlL7d1U) | [FLOHIO](https://open.spotify.com/artist/05RPf2nrkYOXtyU1gYkQfm) | [10 More Rounds](https://open.spotify.com/album/7HsWYAJO1fR52QYUD4FRFS) | 3:17 | 2022-10-01 |  |
+| [10 More Rounds](https://open.spotify.com/track/5aJEkUKSjbqU2ekKpdHxGL) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [10 More Rounds](https://open.spotify.com/album/20Sov9TnugCg2OnD2ETo0m) | 3:17 | 2022-10-01 | 2022-12-01 |
 | [Anger](https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:18 | 2022-10-01 |  |
 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 | 2022-10-01 |  |
 | [Buss A 9](https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:20 | 2022-10-01 |  |

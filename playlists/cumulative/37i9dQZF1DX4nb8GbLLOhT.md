@@ -4,7 +4,7 @@
 
 > Classic songs like you've never heard before\. Cover: Zara Larsson.
 
-164 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/6htxeTktsAlJEOJdgEWnsz)
+164 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

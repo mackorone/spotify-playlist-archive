@@ -4,7 +4,7 @@
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-95 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/1jn4TAV3vYiCjmyQ8GKNI8)
+95 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

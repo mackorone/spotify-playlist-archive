@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/zackbia/">Zack Bia</a>
 
-51 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/1KoOLyNtVgdilQ8fpKH68Q)
+53 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Brand New Guy \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6haTrice1PU59Kd7esp3w1) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 4:48 | 2022-10-01 |  |
 | [Burn One \(Interlude\)](https://open.spotify.com/track/6WgkOAIOPoumdilSCdYFPB) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Sonder Son](https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w) | 1:48 | 2022-10-01 |  |
 | [Butterfly Doors](https://open.spotify.com/track/4QbB0QbO9BtwgIGn7k9ZMI) | [Onlybino!](https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF) | [Butterfly Doors](https://open.spotify.com/album/2xnbz07xbVryLEPAfKvv5j) | 1:52 | 2022-10-01 |  |
-| [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/67gsMz7IUC9sun9DuUqVDE) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 3:30 | 2022-10-01 |  |
+| [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:30 | 2022-10-01 |  |
+| [BUZZIN' \(feat\. Lil Yachty & Murda Beatz\)](https://open.spotify.com/track/67gsMz7IUC9sun9DuUqVDE) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [PARTYPACK](https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t) | 3:30 | 2022-10-01 | 2023-01-02 |
 | [Caddy](https://open.spotify.com/track/0kTQcDTWmeSKp2EOHLK7AY) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Caddy](https://open.spotify.com/album/3Z17WkBq7D8FDqXW4NYlmy) | 1:56 | 2022-10-01 |  |
 | [Candy Rain](https://open.spotify.com/track/4j1Bk0BEIGCF9hR7cSwl9d) | [Soul For Real](https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK) | [Candy Rain](https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp) | 4:36 | 2022-10-01 |  |
 | [Cartoon](https://open.spotify.com/track/31Yebmn7gDvxc0yjRV8M5t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mo Thugs Records Presents: West Coast Bangers, Vol\. 2](https://open.spotify.com/album/7I4OrohyqzbTrkMCoyhBEV) | 6:38 | 2022-10-01 |  |
@@ -42,7 +43,8 @@
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2022-10-01 |  |
 | [Nouveau western](https://open.spotify.com/track/2cK1DW6Od3BylERFN6QHqx) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Nouveau western](https://open.spotify.com/album/3MPv6sSyVnoEnsbN1By0b5) | 4:34 | 2022-10-01 |  |
 | [Paperwork Party \- Remix](https://open.spotify.com/track/5WOGp3E41juuRbaw4LlQZT) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 3:22 | 2022-10-01 |  |
-| [PGT](https://open.spotify.com/track/2o2bLG5JqlwSCZNsx9BvOs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:13 | 2022-10-01 |  |
+| [PGT](https://open.spotify.com/track/0oXy3jfrkWlhw3Kklndyhn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:13 | 2022-10-01 |  |
+| [PGT](https://open.spotify.com/track/2o2bLG5JqlwSCZNsx9BvOs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:13 | 2022-10-01 | 2023-01-02 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2022-10-01 |  |
 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 | 2022-10-01 |  |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-10-01 |  |

@@ -4,7 +4,7 @@
 
 > There's no greater feeling than love, which means that it requires great music\. Here is a collection of some of the most breathtaking ballads about love.
 
-41 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/6tPgivtVHnIPgj7uDM9orY)
+41 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

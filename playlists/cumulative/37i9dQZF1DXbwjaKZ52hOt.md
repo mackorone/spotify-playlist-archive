@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-296 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/1cI5PTnsfQOn37ZEyt5QpI)
+298 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Hickory Dickory Dock](https://open.spotify.com/track/7BDAPOsAOTpD7lRYTGTcMu) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 1 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/7gweScaIC8gRPbkPvM61jH) | 1:15 | 2022-02-25 | 2022-07-29 |
 | [Hickory Dickory Dock \- \(Sheep\)](https://open.spotify.com/track/24g8whAHKPcifxXAmFZSGU) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 2 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/4TTk8j1G3pcHwtw6YXTjRs) | 1:15 | 2022-02-25 |  |
 | [Hickory Dickory Dock Baby Nursery Rhyme](https://open.spotify.com/track/3qBWoH4ESJomspW1PSJsFI) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1fYidXnWQLgapVmgxE9Bc9) | 2:16 | 2022-02-25 |  |
+| [Home on the Range](https://open.spotify.com/track/75FVOS7yQ1jx0Pp208pVtp) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Fun with Family and Friends](https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N) | 2:56 | 2023-01-27 |  |
 | [Hot Cross Buns](https://open.spotify.com/track/60qf2b4x5wZp0bX1btrrfe) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Classic Nursery Rhymes, Vol.2](https://open.spotify.com/album/7sjRnLcl8jIPMbiCZgFtnC) | 1:07 | 2022-02-25 |  |
 | [Hot Cross Buns](https://open.spotify.com/track/6fhEwACPABW4wZmbFGoFwf) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Hot Cross Buns](https://open.spotify.com/album/3ffnQ8kouXR6SuwPHPE3Xq) | 1:07 | 2022-02-25 | 2022-11-13 |
 | [Hot Cross Buns](https://open.spotify.com/track/72IQmlbJEzq5qCZ3bUgeiN) | [Nursery Rhymes 123](https://open.spotify.com/artist/47tuSUJMhsa3twW6wgKdIW) | [Hot Cross Buns](https://open.spotify.com/album/1yJvj1Fk1FJlEj0zHpOdrh) | 1:07 | 2022-02-25 | 2022-07-29 |
@@ -275,6 +276,7 @@
 | [This Is the Way](https://open.spotify.com/track/3xoT1664uUPCU3dg4NeM4Q) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Kids Greatest Hits](https://open.spotify.com/album/5kKwfM44v9L2Qwd9tT5GLp) | 2:15 | 2022-02-25 | 2022-11-14 |
 | [This Is the Way](https://open.spotify.com/track/7cflwTZGGtZdzVU4eDIajw) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 3](https://open.spotify.com/album/7q0kx3gPtPS7sFmUjAFq4z) | 2:15 | 2022-02-25 |  |
 | [This Is the Way We Brush Our Teeth Nursery Rhyme](https://open.spotify.com/track/2dE71HKOcZK2fnSJHrtRt9) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1fYidXnWQLgapVmgxE9Bc9) | 2:51 | 2022-02-25 |  |
+| [This Little Light of Mine](https://open.spotify.com/track/3awnhwdpf4clxETaYZZCjN) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Fun with Family and Friends](https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N) | 3:11 | 2023-01-27 |  |
 | [This Little Light of Mine](https://open.spotify.com/track/6xxTQAUaagsauU8cCshtyY) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 4: Row, Row, Row Your Rhyme](https://open.spotify.com/album/1j268hisybBFDdSwuYbD30) | 2:22 | 2022-02-25 |  |
 | [This Little Pig Went to Market](https://open.spotify.com/track/4kQSQibvlnU5nKGXYxmTfI) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Best Kids Songs](https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU) | 1:33 | 2022-02-25 |  |
 | [This Little Piggy](https://open.spotify.com/track/4I8OaIHetNmvWmcvaKPAsS) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:37 | 2022-02-25 |  |

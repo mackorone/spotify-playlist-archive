@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-06",
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
   "name": "All A Cappella",
-  "published_playlist_ids": [
-    "0mWtPSkQPViGQEWUUHWJxq"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,10 +16,46 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 141341,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga"
+    },
+    {
+      "album": {
+        "name": "House Rules",
+        "url": "https://open.spotify.com/album/526Wtq145uzbHhzGQKN57v"
+      },
+      "artists": [
+        {
+          "name": "The Clef Hangers",
+          "url": "https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246306,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ"
+    },
+    {
+      "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "All About That Bass (No Tenors)",
+      "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
     },
     {
       "album": {
@@ -71,7 +104,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-13",
       "duration_ms": 171520,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI"
@@ -204,6 +237,28 @@
     },
     {
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        },
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214604,
+      "name": "Best Days (feat. Pentatonix)",
+      "url": "https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB"
+    },
+    {
+      "album": {
         "name": "The Sing-Off: Season 3: Episode 10 - Mastermix Medleys & Judge's Choice",
         "url": "https://open.spotify.com/album/47F3CutxucbxCBDMcy2QAW"
       },
@@ -222,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Over the Bridge",
+        "url": "https://open.spotify.com/album/4dt8SuN0OuJzBITTMhrU78"
+      },
+      "artists": [
+        {
+          "name": "Hyannis Sound",
+          "url": "https://open.spotify.com/artist/4lEFWJCOBV28nMF30Kqr9p"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240666,
+      "name": "Call Me Maybe / What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/2qeGhGYTC0quepUOceljDH"
+    },
+    {
+      "album": {
         "name": "PTX, Vol. 2",
         "url": "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ"
       },
@@ -233,7 +306,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Can't Hold Us",
       "url": "https://open.spotify.com/track/00FaBIFXUfzaaVcsQmTTJY"
@@ -377,7 +450,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 100026,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/7zcLCtqtovzOjUIr0GMAPh"
@@ -438,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Tongue Tied",
+        "url": "https://open.spotify.com/album/36qmdetWLEU1ZLFMMrZtEP"
+      },
+      "artists": [
+        {
+          "name": "Washington University Stereotypes",
+          "url": "https://open.spotify.com/artist/05uISKzHUkn0ZlhFL24uEt"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232698,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/5rbOLgXDaMbQnPS5TgBsYv"
+    },
+    {
+      "album": {
         "name": "PTX Presents: Top Pop, Vol. I",
         "url": "https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW"
       },
@@ -467,7 +558,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 148160,
       "name": "Disney's Broadway Is Back Medley",
       "url": "https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD"
@@ -575,7 +666,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 72906,
       "name": "F**k You",
       "url": "https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH"
@@ -600,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Best of BOCA: The First 20 Years",
+        "url": "https://open.spotify.com/album/0fYmQbtamuztIVeY5c7Svs"
+      },
+      "artists": [
+        {
+          "name": "University of Rochester Midnight Ramblers",
+          "url": "https://open.spotify.com/artist/2Tv49uvEsNJXUpuFL7HuKu"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218613,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/7LRWKRtImL5kcLHOZXOntp"
+    },
+    {
+      "album": {
         "name": "With a Twist (Deluxe)",
         "url": "https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt"
       },
@@ -611,7 +720,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 246706,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL"
@@ -689,7 +798,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 216087,
       "name": "Give Your Heart a Break",
       "url": "https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn"
@@ -707,7 +816,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 198600,
       "name": "Grace Kelly - Studio Version",
       "url": "https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu"
@@ -725,7 +834,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 278200,
       "name": "Halo",
       "url": "https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf"
@@ -761,7 +870,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 110106,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/1elnKQDjuN3au2uTjye8nK"
@@ -797,7 +906,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 206880,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
@@ -1082,6 +1191,40 @@
     },
     {
       "album": {
+        "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) [A Cappella]",
+        "url": "https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        },
+        {
+          "name": "Elyse Myers",
+          "url": "https://open.spotify.com/artist/19we83RL2vr4HF6zU6KBAT"
+        },
+        {
+          "name": "Sri",
+          "url": "https://open.spotify.com/artist/04mSgmkYxSJMrZeqBoGOvc"
+        },
+        {
+          "name": "Chris Olsen",
+          "url": "https://open.spotify.com/artist/1BS8EXDNdqtlSaW3ZBsNT7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132727,
+      "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
+      "url": "https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ"
+    },
+    {
+      "album": {
         "name": "The Sing-Off: Season 3: Episode 7 - Superstar Medleys",
         "url": "https://open.spotify.com/album/1cb5FqA1gFh91KwvSSujcc"
       },
@@ -1093,7 +1236,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-08",
       "duration_ms": 204160,
       "name": "Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love",
       "url": "https://open.spotify.com/track/191HHrs8Bwa8VZ4IJ2iG67"
@@ -1172,6 +1315,28 @@
     },
     {
       "album": {
+        "name": "Ordinary People",
+        "url": "https://open.spotify.com/album/7eUyybbl4WNllfbMIng1Sk"
+      },
+      "artists": [
+        {
+          "name": "VoicePlay",
+          "url": "https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3"
+        },
+        {
+          "name": "J.None",
+          "url": "https://open.spotify.com/artist/3WbIAfBAZZolnww7HPuWqe"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 74059,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/76gxuHuto98nHGREuQmYMn"
+    },
+    {
+      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -1237,7 +1402,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-10",
       "duration_ms": 233266,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT"
@@ -1285,6 +1450,24 @@
       "duration_ms": 228000,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/6vGVf8K3ri7VfkCj6PtZRy"
+    },
+    {
+      "album": {
+        "name": "The GP",
+        "url": "https://open.spotify.com/album/7EyFTJ9y1YcXA5S3WFwWeO"
+      },
+      "artists": [
+        {
+          "name": "The Michigan G-Men",
+          "url": "https://open.spotify.com/artist/0p4IV6lgprujWIzDZ7mkW7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184906,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/6BD0x5rIhqscFOg4u3Y2I9"
     },
     {
       "album": {
@@ -1576,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Sing for Myself",
+        "url": "https://open.spotify.com/album/3A9VjcAIbropthKKmQT40d"
+      },
+      "artists": [
+        {
+          "name": "Voices in Your Head",
+          "url": "https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127349,
+      "name": "Sing for Myself",
+      "url": "https://open.spotify.com/track/6iqsJo7oYOIuIFmXi4crwT"
+    },
+    {
+      "album": {
         "name": "PTX, Vol. 1",
         "url": "https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ"
       },
@@ -1779,7 +1980,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 75360,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr"
@@ -2013,7 +2214,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 115706,
       "name": "Wavin' Flag",
       "url": "https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE"
@@ -2061,6 +2262,42 @@
       "duration_ms": 214746,
       "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/4ONGO8V1owsu27dK3mvSfK"
+    },
+    {
+      "album": {
+        "name": "The Singles: In My Mind",
+        "url": "https://open.spotify.com/album/2mRy0qh8B7XE7ZfBCXGKhY"
+      },
+      "artists": [
+        {
+          "name": "Voices in Your Head",
+          "url": "https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225916,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/71V0rTB5iFgHkjkTG20iAg"
+    },
+    {
+      "album": {
+        "name": "When Will I Be Loved",
+        "url": "https://open.spotify.com/album/4Tj6RmodeVYw5V41lfkWEY"
+      },
+      "artists": [
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159844,
+      "name": "When Will I Be Loved",
+      "url": "https://open.spotify.com/track/6V1Guqqm0Y7hqwt98mQQ5X"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3HYlktiFpE6"

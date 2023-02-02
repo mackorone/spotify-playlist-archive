@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "It\u2019s a swing thing.",
   "name": "Swing Revival",
-  "published_playlist_ids": [
-    "1pXDxBqf1ztgvsKdIRffGC"
-  ],
   "tracks": [
     {
       "album": {
@@ -391,8 +388,8 @@
       },
       "artists": [
         {
-          "name": "The New Morty Show",
-          "url": "https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r"
+          "name": "Morty Okin",
+          "url": "https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6"
         },
         {
           "name": "Vise Grip",
@@ -491,7 +488,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 199640,
       "name": "Ladies Man",
       "url": "https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a"
@@ -725,7 +722,7 @@
       ],
       "date_added": "2020-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 285173,
       "name": "prozac",
       "url": "https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6"
@@ -797,7 +794,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 148320,
       "name": "Sausage Rock",
       "url": "https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I"
@@ -869,7 +866,7 @@
       ],
       "date_added": "2020-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 238306,
       "name": "Sugar High",
       "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"

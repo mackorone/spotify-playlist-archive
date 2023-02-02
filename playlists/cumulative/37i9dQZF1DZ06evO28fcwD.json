@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
   "name": "This Is Ladysmith Black Mambazo",
-  "published_playlist_ids": [
-    "24imJLVW9FZTNmf0BSg9VS"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,6 +56,28 @@
       "duration_ms": 218173,
       "name": "Abezizwe (D'influence Mix)",
       "url": "https://open.spotify.com/track/51YAvpbw7cQ0ayrhWjInzl"
+    },
+    {
+      "album": {
+        "name": "Friends in Concert",
+        "url": "https://open.spotify.com/album/4nnjoSBbBSMIonKTtmoKss"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Lucky Dube",
+          "url": "https://open.spotify.com/artist/308gQ5eCBIiSAHmi9tqlJ6"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400666,
+      "name": "Abezizwe Ngeke Bayiqede (Live)",
+      "url": "https://open.spotify.com/track/03Z9PQNhDJHvPg74JCuNXu"
     },
     {
       "album": {
@@ -219,7 +238,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 209706,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/0bA7InqHdTe6uwta4HNwOM"
@@ -317,7 +336,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2022-12-13",
       "duration_ms": 282749,
       "name": "Because I Love You (Wangithanda)",
       "url": "https://open.spotify.com/track/2chiUXbH3MdDuX8zJXhLf7"
@@ -947,7 +966,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 160146,
       "name": "Kanye Nawe Nkosi Yami",
       "url": "https://open.spotify.com/track/5uTUUH8Xn7SCc4Bk7J0v6j"
@@ -1041,7 +1060,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2022-12-13",
       "duration_ms": 315998,
       "name": "Long Walk to Freedom",
       "url": "https://open.spotify.com/track/02EXGQPmGLzg6FDzZUPRzH"
@@ -1211,7 +1230,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-01-14",
       "duration_ms": 317426,
       "name": "Mining Song",
       "url": "https://open.spotify.com/track/3daDQZZ0pbqL2UBhirffJs"
@@ -1460,6 +1479,28 @@
     },
     {
       "album": {
+        "name": "Zenzile: The Reimagination of Miriam Makeba",
+        "url": "https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140284,
+      "name": "Nonqonqo",
+      "url": "https://open.spotify.com/track/3Wm6LF8NrVDdh2xiAGqCj4"
+    },
+    {
+      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/4RAgpLIfNKUoRBnsYFjpfw"
       },
@@ -1471,7 +1512,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 342880,
       "name": "Oh Happy Day",
       "url": "https://open.spotify.com/track/0lLA7dsfDEuokYI0N6J4lw"
@@ -1573,7 +1614,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-02-01",
       "duration_ms": 225886,
       "name": "Paulina",
       "url": "https://open.spotify.com/track/6htw75SIT1q1SSp681lA2V"
@@ -1995,6 +2036,28 @@
       "duration_ms": 226426,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/2be3NsmKfEWSbXYZ2S6A98"
+    },
+    {
+      "album": {
+        "name": "Waters of Hope",
+        "url": "https://open.spotify.com/album/12Xj2qEPH1xPfqavhfsdzz"
+      },
+      "artists": [
+        {
+          "name": "Sainte Barbe",
+          "url": "https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297049,
+      "name": "Waters of Hope",
+      "url": "https://open.spotify.com/track/0xetNl5ZG7sHernd60me0Q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5ji4GZJpll6twskFvKxiHx.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/5ji4GZJpll6twskFvKxiHx.md) - [plain]
 | 34 | [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 |
 | 35 | [Lush Life](https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lush Life](https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG) | 3:21 |
 | 36 | [Stitches](https://open.spotify.com/track/1WP1r7fuvRqZRnUaTi2I1Q) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5wKylB0Zwnxz046O7po25D) | 3:26 |
-| 37 | [Sunday Candy](https://open.spotify.com/track/6fTdcGsjxlAD9PSkoPaLMX) | [Donnie Trumpet & The Social Experiment](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 3:46 |
+| 37 | [Sunday Candy](https://open.spotify.com/track/6fTdcGsjxlAD9PSkoPaLMX) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 3:46 |
 | 38 | [Wild Things](https://open.spotify.com/track/2ZyuwVvV6Z3XJaXIFbspeE) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/3rDbA12I5duZnlwakqDdZa) | 3:08 |
 | 39 | [Love Myself](https://open.spotify.com/track/0xCmwofyCiXdhoBsMSNj2w) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Love Myself](https://open.spotify.com/album/7IOGGleQTdhE3TVCb9vMzt) | 3:38 |
 | 40 | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/track/5afHIkEcVhCF1Z1CTqMUXB) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/album/3beitV4REkUMQn4BXZlD8F) | 3:06 |

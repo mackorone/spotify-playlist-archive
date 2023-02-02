@@ -4,7 +4,7 @@
 
 > An introduction to American composer Philip Glass \(b\. 1937\), whose hypnotic and powerful music has become part of our cultural soundtrack.
 
-49 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/3tgtXQCykx52DdHGPw97Cm)
+49 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

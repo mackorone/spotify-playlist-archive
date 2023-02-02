@@ -4,7 +4,7 @@
 
 > Power through your to do list with an affogato and a refreshing mix of chilled classical.
 
-59 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/5kaaKDD3TfLSgkaHfy1tT1)
+59 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

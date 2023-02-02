@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-29",
   "description": "This is City Girls. The essential tracks, all in one playlist.",
   "name": "This Is City Girls",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -83,7 +82,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": "2023-02-02",
       "duration_ms": 128530,
       "name": "Broke Boy",
       "url": "https://open.spotify.com/track/3E7jehnxsH4xZAuxDQg4zC"
@@ -227,7 +226,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 152544,
       "name": "Drip",
       "url": "https://open.spotify.com/track/6RApNG1hgOvOQvrVvkvWNh"
@@ -349,6 +348,28 @@
       "duration_ms": 174251,
       "name": "Fuck It Up (feat. City Girls & Tyga)",
       "url": "https://open.spotify.com/track/1ri9bBxmv1CmAuA55g8Xvh"
+    },
+    {
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158798,
+      "name": "Give It A Try (feat. Jacquees)",
+      "url": "https://open.spotify.com/track/3xLyP5emNmRuzrddcWAa5z"
     },
     {
       "album": {
@@ -537,6 +558,40 @@
       "duration_ms": 171646,
       "name": "Leave Em Alone (Layton Greene, Lil Baby feat. City Girls, PnB Rock)",
       "url": "https://open.spotify.com/track/6Vdyu21iT8qScU1haSjWUU"
+    },
+    {
+      "album": {
+        "name": "Melanin (feat. Lupita Nyong'o, Ester Dean, City Girls, & LA LA)",
+        "url": "https://open.spotify.com/album/0PNfF05nd0te0wodwtcvcn"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Lupita Nyong'o",
+          "url": "https://open.spotify.com/artist/1tAwjP3FOwCCzqLwz44GsW"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "La La",
+          "url": "https://open.spotify.com/artist/1RDWIpR1C3uzTp0ZRtYNKk"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 269416,
+      "name": "Melanin (feat. Lupita Nyong'o, Ester Dean, City Girls, & LA LA)",
+      "url": "https://open.spotify.com/track/5UtN4XWCmeZWsbu5mRpPSQ"
     },
     {
       "album": {
@@ -775,7 +830,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 159326,
       "name": "Scared - from the \"Bruised\" Soundtrack",
       "url": "https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG"
@@ -848,6 +903,32 @@
     },
     {
       "album": {
+        "name": "All Monsters Are Human",
+        "url": "https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        },
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212230,
+      "name": "Supahood",
+      "url": "https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi"
+    },
+    {
+      "album": {
         "name": "Cyncerely, C3",
         "url": "https://open.spotify.com/album/6uNuXilVlRxt9ryawO1nCS"
       },
@@ -889,7 +970,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": "2022-12-28",
       "duration_ms": 143120,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/5z3gOVUk7km3eNJM8M57tv"
@@ -1145,10 +1226,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 162201,
       "name": "Wiggle It (feat. City Girls)",
       "url": "https://open.spotify.com/track/3aFJuEqwuvZRjWULDr0rEx"
+    },
+    {
+      "album": {
+        "name": "Wiggle It (feat. City Girls)",
+        "url": "https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172048,
+      "name": "Wiggle It (feat. City Girls)",
+      "url": "https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E"
     },
     {
       "album": {

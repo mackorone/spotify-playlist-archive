@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Left of center indie/alternative LGBTQQIA+ artists. Cover: serpentwithfeet",
+  "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Arlo Parks. ",
   "name": "Alternative Pride",
-  "published_playlist_ids": [
-    "1o8ms1O56QTOUykDBE7miG"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,10 +16,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 245800,
       "name": "Ain't That Peculiar",
       "url": "https://open.spotify.com/track/4RAS6QT974bl5blsapzVGq"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236486,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
     },
     {
       "album": {
@@ -41,7 +60,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S"
@@ -63,6 +82,24 @@
       "duration_ms": 192715,
       "name": "Apricots",
       "url": "https://open.spotify.com/track/3tWR8p2FEEHbBsmDmTce9l"
+    },
+    {
+      "album": {
+        "name": "are you?",
+        "url": "https://open.spotify.com/album/3EswyAfo6ryjlpeZ48lVvb"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197773,
+      "name": "are you?",
+      "url": "https://open.spotify.com/track/22sTjPna1Haei3cRLgAUh0"
     },
     {
       "album": {
@@ -237,6 +274,24 @@
       "duration_ms": 201160,
       "name": "BUZZCUT (feat. Danny Brown)",
       "url": "https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "album": {
@@ -500,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+    },
+    {
+      "album": {
         "name": "Rub",
         "url": "https://open.spotify.com/album/3cFBqKdxDfZUDCOtOytHeB"
       },
@@ -601,7 +674,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 261941,
       "name": "Don't Go Puttin Wishes in My Head",
       "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
@@ -864,6 +937,24 @@
     },
     {
       "album": {
+        "name": "Got Weird",
+        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
+    },
+    {
+      "album": {
         "name": "Gucci Knife (feat. MASN)",
         "url": "https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7"
       },
@@ -951,7 +1042,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 209160,
       "name": "I Wanna Be Your Girlfriend",
       "url": "https://open.spotify.com/track/1sDMeyyj2QbUQ2yBPlOtBE"
@@ -1210,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268105,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
+    },
+    {
+      "album": {
         "name": "Parked Car Convos",
         "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
       },
@@ -1225,6 +1334,24 @@
       "duration_ms": 148640,
       "name": "Love Songs - Bonus",
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
+    },
+    {
+      "album": {
+        "name": "evil twin",
+        "url": "https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "love, or the lack thereof",
+      "url": "https://open.spotify.com/track/2E1eJCNpEniIB1NsDqyGzR"
     },
     {
       "album": {
@@ -1657,7 +1784,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 213071,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3v87pWnjTC90f3yj9OKqYP"
@@ -1855,7 +1982,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 277908,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea"
@@ -2419,7 +2546,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
@@ -2509,7 +2636,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 215426,
       "name": "Suburbia",
       "url": "https://open.spotify.com/track/5my2GN5y6i1KhOYfOByJEn"
@@ -2531,6 +2658,24 @@
       "duration_ms": 241097,
       "name": "Tenderness",
       "url": "https://open.spotify.com/track/2HsKkeVWys5Ts20z3e5lT0"
+    },
+    {
+      "album": {
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241097,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
     },
     {
       "album": {
@@ -2689,7 +2834,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-06",
       "duration_ms": 155762,
       "name": "umbrellar",
       "url": "https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J"
@@ -2912,6 +3057,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229341,
+      "name": "You're The One - Spotify Singles",
+      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
+    },
+    {
+      "album": {
         "name": "Your Body Changes Everything (Boy Harsher Remix)",
         "url": "https://open.spotify.com/album/2IsfgSVzOFF2e7qRj1ASEg"
       },
@@ -2927,7 +3090,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 306245,
       "name": "Your Body Changes Everything - Boy Harsher Remix",
       "url": "https://open.spotify.com/track/5cAHpfjLmP36gTYdkBvhA7"

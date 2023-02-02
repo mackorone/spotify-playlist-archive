@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-16",
   "description": "Listen to all her biggest hits, in one place.",
   "name": "This Is Lady Gaga",
-  "published_playlist_ids": [
-    "0DfYncW9mxd1xxPkajZXJE"
-  ],
   "tracks": [
     {
       "album": {
@@ -431,6 +428,24 @@
       "duration_ms": 172413,
       "name": "Beautiful, Dirty, Rich",
       "url": "https://open.spotify.com/track/3qrQtMmkuV79LMGfsGDHRf"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "album": {

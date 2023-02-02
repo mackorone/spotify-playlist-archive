@@ -4,7 +4,7 @@
 
 > The soundtrack of the Summer 2022.
 
-126 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/3XVXu4Zxe1HRKq3lLQGhGA)
+127 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Get Together](https://open.spotify.com/track/46W9QGI2bVjitikXmpHFgv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Get Together](https://open.spotify.com/album/2ofQzyhu2LGNLPfIPM0209) | 2:42 | 2021-08-26 | 2022-04-22 |
 | [Getting Better](https://open.spotify.com/track/0LfyrFWFTEvKuW4EOAT3fj) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:46 | 2022-06-16 | 2022-11-13 |
 | [Girls Like Us \- Felix Jaehn Remix](https://open.spotify.com/track/4SRHglh7CBow2Q6FZlTu7Z) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Girls Like Us \(Felix Jaehn Remix\)](https://open.spotify.com/album/2omjqEKlUjd7T5FCT4Bzah) | 3:24 | 2021-08-26 | 2022-04-22 |
-| [Green Green Grass](https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass](https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC) | 2:47 | 2022-04-21 |  |
+| [Green Green Grass](https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass](https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC) | 2:47 | 2022-04-21 | 2022-12-12 |
+| [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 | 2022-06-30 |  |
 | [Hair Toss, Arms Crossed](https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Hair Toss, Arms Crossed](https://open.spotify.com/album/62v8uC7bm0dN0FXvkSen7z) | 2:37 | 2022-04-21 |  |
 | [Hallucination](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Hallucination](https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh) | 2:54 | 2022-04-21 |  |
 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 | 2021-08-26 | 2022-04-22 |
@@ -130,7 +131,7 @@
 | [Where The Lights Are Low](https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJMkIS) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Where The Lights Are Low](https://open.spotify.com/album/5ymCqifRmYTEyN4dlZf7Vq) | 2:16 | 2021-08-26 | 2022-04-22 |
 | [White Flag](https://open.spotify.com/track/649uvcXpUZG504aZF19ilf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [White Flag](https://open.spotify.com/album/4zxa9Gu0z5rIIfbsGb3wfs) | 3:18 | 2021-08-26 | 2022-04-21 |
 | [Without You](https://open.spotify.com/track/1HPJpgceRg6KPO11nMhWlt) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Without You](https://open.spotify.com/album/5S6h6XDEW1U2kC1fjOhdrB) | 2:31 | 2021-08-26 | 2022-04-22 |
-| [Won't Forget You \- Edit](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-04-21 |  |
+| [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-04-21 |  |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-04-21 |  |
 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 | 2021-08-26 | 2022-04-22 |
 | [You're Free](https://open.spotify.com/track/0KF938333oCvIXDxe72K44) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [You're Free](https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM) | 2:47 | 2022-06-16 |  |

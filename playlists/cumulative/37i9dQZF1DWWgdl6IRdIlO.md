@@ -4,7 +4,7 @@
 
 > Слушай российских исполнительниц на полной громкости\. На обложке: МЭЙБИ БЭЙБИ
 
-200 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/50nl5KDrRQLr7BtXSz0PVM)
+200 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

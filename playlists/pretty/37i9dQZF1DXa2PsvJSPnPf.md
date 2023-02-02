@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,463 likes - 121 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,878 likes - 121 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 35 | [Bluebird](https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Bluebird](https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF) | 3:04 |
 | 36 | [Wishing I Was Wrong](https://open.spotify.com/track/2ovmeD1VIEPJu9Z8qibUks) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Wishing I Was Wrong](https://open.spotify.com/album/3Pz8RqCxcBLkjKLHVgFIvY) | 3:08 |
 | 37 | [Joke’s On Me](https://open.spotify.com/track/5yczYndIpml2ip1H3q2D3U) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Joke's On Me](https://open.spotify.com/album/2bUopTPyNJIcpvvMJwxgk3) | 2:46 |
-| 38 | [Paducah](https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/5V1in7tAJUHIuZ5qVkPx5K) | 3:30 |
+| 38 | [Paducah](https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo) | 3:30 |
 | 39 | [Six Years Come September](https://open.spotify.com/track/1oSS7iqgjZgyh2jxRv9Zb8) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Six Years Come September](https://open.spotify.com/album/7mmY7flG0gSxo50WhaDta4) | 3:51 |
 | 40 | [Stay](https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:01 |
 | 41 | [A Little More Love](https://open.spotify.com/track/1BvuS6gwnoBDh7AgMie0ys) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O), [Von Grey](https://open.spotify.com/artist/5xR9ASaTQjZvn8Uv38G2vL) | [A Little More Love](https://open.spotify.com/album/1TVnibZsoy5zg0HbsotDn5) | 4:48 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 120 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 |
 | 121 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDg3MmNlOWUwMWRkNzQ3ZmY1MDFkMzQ5NDdhZDY5ZmFm`
+Snapshot ID: `MTY3Mjc2MjY0NSwwMDAwMDAwMDMzMWRiMjg3NTQ1NGU2MmVmNDkyYjQwNDk4OTFjNTBk`

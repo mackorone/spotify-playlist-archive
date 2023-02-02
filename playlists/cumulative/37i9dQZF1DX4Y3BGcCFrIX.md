@@ -4,7 +4,7 @@
 
 > The essential tracks featuring the mother of Bollywood music.
 
-147 songs - 12 hr 2 min - [published](https://open.spotify.com/playlist/2uotLG3Gj7wAa9ntuXAzJt)
+147 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

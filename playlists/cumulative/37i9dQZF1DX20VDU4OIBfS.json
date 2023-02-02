@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-05",
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
   "name": "Canciones del Recuerdo",
-  "published_playlist_ids": [
-    "1QOdLztBWNrsSWvFlIeQGt"
-  ],
   "tracks": [
     {
       "album": {
@@ -235,7 +232,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 194906,
       "name": "Amante a la Antigua",
       "url": "https://open.spotify.com/track/5C7wTCd20Ftl6bbW70qOA4"
@@ -379,7 +376,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-12",
       "duration_ms": 164120,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To"
@@ -729,7 +726,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 271000,
       "name": "Canci\u00f3n de oto\u00f1o",
       "url": "https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm"
@@ -801,7 +798,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 161026,
       "name": "Celos",
       "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
@@ -1212,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Como Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
+    },
+    {
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -1227,7 +1242,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 195800,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor (En Vivo) (feat. Rub\u00e9n Albarr\u00e1n)",
       "url": "https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC"
@@ -3266,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "La Gran Fiesta Formose\u00f1a",
+        "url": "https://open.spotify.com/album/0jKCSRoHto29EuooePa871"
+      },
+      "artists": [
+        {
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198226,
+      "name": "Los Hombres No Deben Llorar",
+      "url": "https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu"
+    },
+    {
+      "album": {
         "name": "12 Grandes exitos Vol. 2",
         "url": "https://open.spotify.com/album/7ya06WGSGQUGdtBjAKxpgg"
       },
@@ -3796,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "La Gran Fiesta Formose\u00f1a",
+        "url": "https://open.spotify.com/album/0jKCSRoHto29EuooePa871"
+      },
+      "artists": [
+        {
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "Mi Coraz\u00f3n Llor\u00f3",
+      "url": "https://open.spotify.com/track/5FVBS2wgzQ66TTCeOSkmZq"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos Deluxe",
         "url": "https://open.spotify.com/album/6k2yDycqSIahMwLm8nq1dO"
       },
@@ -4218,6 +4269,24 @@
     },
     {
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+    },
+    {
+      "album": {
         "name": "Grandes \u00c9xitos: Alberto Cortez",
         "url": "https://open.spotify.com/album/0LPp7seggo5WmDiznnN8dG"
       },
@@ -4373,7 +4442,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 190413,
       "name": "Orgullosa Nena",
       "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
@@ -4427,7 +4496,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-20",
       "duration_ms": 208253,
       "name": "Para Amarnos M\u00e1s",
       "url": "https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9"
@@ -4467,6 +4536,28 @@
       "duration_ms": 232360,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i"
+    },
+    {
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
     },
     {
       "album": {
@@ -5007,7 +5098,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 153026,
       "name": "Rosa... Rosa",
       "url": "https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF"
@@ -5531,6 +5622,24 @@
       "duration_ms": 227200,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3"
+    },
+    {
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249120,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
     },
     {
       "album": {

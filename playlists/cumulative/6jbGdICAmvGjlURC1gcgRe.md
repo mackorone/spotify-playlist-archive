@@ -4,7 +4,7 @@
 
 > Jazzy soul and rnb ballads to wake you up and lift your mood...
 
-30 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/4XPvPN9ipbVFw3u4kVUCCb)
+30 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

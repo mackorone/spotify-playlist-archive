@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > Celebrating Latin Heritage Month con un poquito De TODO! Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,438 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,897 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,14 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 47 | [Vienes](https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Luis Figueroa](https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE) | 3:09 |
 | 48 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 |
 | 49 | [Vogue](https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Vogue](https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy) | 3:02 |
-| 50 | [Cuando Me Dé la Gana](https://open.spotify.com/track/1zvtSTLTx66rmGP6yNu1cJ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:26 |
+| 50 | [Cuando Me Dé la Gana](https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:26 |
 | 51 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 |
 | 52 | [Commitment](https://open.spotify.com/track/66wc0nPLPztqdyjEdWzPRP) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Carousel](https://open.spotify.com/album/6VgqpgAkaud6KjgkXiKPMY) | 4:07 |
 | 53 | [control](https://open.spotify.com/track/7bYhDqKeVnyjQFiXHElXJy) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:31 |
 | 54 | [viña](https://open.spotify.com/track/0yWLv7ZZD5b1INXAWRjGIW) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [viña](https://open.spotify.com/album/42jiwzGjvPMRVX39ixAXLK) | 2:40 |
 | 55 | [Si Te Preguntan...](https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Si Te Preguntan...](https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9) | 3:43 |
 | 56 | [Ahora Bailas Con Él](https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Ahora Bailas Con Él](https://open.spotify.com/album/0vZ4LGuN4iAvFp8LzRlTrb) | 4:20 |
-| 57 | [solo](https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG) | 3:48 |
+| 57 | [solo](https://open.spotify.com/track/46CDWM2aCya6puIqIGaVaZ) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7r0ywAV1jtYvJGiFYqrQeZ) | 3:48 |
 | 58 | [QUE SE JODA](https://open.spotify.com/track/5CdmlxPbX9OFHhNvby0ah6) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [QUE SE JODA](https://open.spotify.com/album/4lJe9DmLyk7oejxrGCnJZU) | 2:52 |
 | 59 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 |
 | 60 | [Villana](https://open.spotify.com/track/5axifdp2gauTPuqyEsmSBV) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Villana](https://open.spotify.com/album/70fWf5r76nO4WZrtnlm5Op) | 3:46 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 73 | [AGONIA](https://open.spotify.com/track/4uuyY7ENKhsKlO83KT4BFF) | [Kayfex](https://open.spotify.com/artist/1q5Pr05duW9ClrbnBlu4Jb), [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [AGONIA](https://open.spotify.com/album/3yai1RNgc2aaBrGwa0D09T) | 3:44 |
 | 74 | [best damn thing](https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [best damn thing](https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5) | 2:40 |
 
-Snapshot ID: `MTY2OTIyMzU4NywwMDAwMDAwMDg3MmRlMGNiMDRkYTAyODVhZDI3YjEyNzUwZGM1OGNj`
+Snapshot ID: `MTY2OTIyMzU4NywwMDAwMDAwMGVkMjlmYmQzOGYwMTVhNDg5MWFlZWMyY2E5YTFjMmY3`

@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-73 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/0qvevBr9lNKoCGGwYBd5uj)
+75 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Me Provocas](https://open.spotify.com/track/5l87fY6KL8809t1t9vWBWP) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Cien Años Después](https://open.spotify.com/album/0jaM0Dp6sNGkVodQrfcwnY) | 3:53 | 2020-12-01 |  |
 | [Me provocas](https://open.spotify.com/track/6SrmWqfmQ228VyRf75pFQa) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Cien años después](https://open.spotify.com/album/6GZAhK5VjNoohxpo2fFOlC) | 3:53 | 2020-12-01 | 2022-07-29 |
 | [Mugre](https://open.spotify.com/track/4Mk77IqLicfMJdTFW8CBPi) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Días de Blues: Sancocho Stereo, Capítulo 4](https://open.spotify.com/album/3ZXAdzavg6qaTWsjF4xC4D) | 4:12 | 2021-08-20 | 2022-07-29 |
-| [Mugre](https://open.spotify.com/track/4JiQitejySZpFVqtXDGsW9) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Sancocho Stereo](https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB) | 4:13 | 2021-08-20 |  |
+| [Mugre](https://open.spotify.com/track/35PSnAtNhWDrsHaik2Re8y) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:13 | 2021-08-20 |  |
+| [Mugre](https://open.spotify.com/track/4JiQitejySZpFVqtXDGsW9) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Sancocho Stereo](https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB) | 4:13 | 2021-08-20 | 2023-01-23 |
 | [Nunca Antes](https://open.spotify.com/track/3MQb8IGVwWrtPk3D4yX7wC) | [David Tanganelli](https://open.spotify.com/artist/6vYA1nveYtnaxieU1WE3K3), [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Up](https://open.spotify.com/album/7ax8UzSvJb3T2toKKAue6g) | 3:48 | 2020-12-01 |  |
 | [Nunca antes](https://open.spotify.com/track/0eXeArP9RpkSyA0nOvsXSF) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j), [\- David Tanganelli Armónica y Voz](https://open.spotify.com/artist/0aFgtAZt9YFN0tqOBvw5Wn) | [Tributo al Blues Vol.1](https://open.spotify.com/album/1rqoFxfb6ErWQ8xYtnKqTg) | 3:48 | 2020-12-01 | 2022-07-29 |
 | [Nunca Antes](https://open.spotify.com/track/48crkUV9uPpCy8xzHDGExr) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j), [David Tanganelli](https://open.spotify.com/artist/6vYA1nveYtnaxieU1WE3K3) | [Tributo al Blues, Vol\. 1](https://open.spotify.com/album/3xFO6qK7NxlU6XDHU9mRiX) | 3:48 | 2020-12-01 | 2022-11-13 |
@@ -65,7 +66,8 @@
 | [Preocupado y Aburrido](https://open.spotify.com/track/4u34ORMzURyViyUF2OIks4) | [Alambre Gonzalez](https://open.spotify.com/artist/3oLANiNTf5qyrciZmnPyYU) | [Alambre González & Amigos](https://open.spotify.com/album/6Uyq3DIYiEi3eRVX1m2CHO) | 3:57 | 2020-12-01 |  |
 | [Putreblues](https://open.spotify.com/track/1E9kMrrh3q58raTfz3L0kC) | [Blues Motel](https://open.spotify.com/artist/2VD4qhDrH6pU7dbaK9nuni) | [Abrazo Insomnio](https://open.spotify.com/album/7aw5ksKElZajzM9OPC0MTf) | 4:29 | 2020-12-01 |  |
 | [Que Curioso](https://open.spotify.com/track/2CyvqsB03KpExsynQbXme9) | [Nasta Super](https://open.spotify.com/artist/2BHl0Z177jpqHlFR5f4G9D), [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Sólo por Mí](https://open.spotify.com/album/0B1UcrgwdRhCvHKhECshAZ) | 5:14 | 2020-12-01 |  |
-| [Que Pena](https://open.spotify.com/track/1GBga6jrKsaw3QKZx82IGB) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Que Pena](https://open.spotify.com/album/26W9CnAEctnOkYV0MEVAtv) | 2:52 | 2022-10-14 |  |
+| [Que Pena](https://open.spotify.com/track/1GBga6jrKsaw3QKZx82IGB) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Que Pena](https://open.spotify.com/album/26W9CnAEctnOkYV0MEVAtv) | 2:52 | 2022-10-14 | 2023-01-13 |
+| [Que Pena](https://open.spotify.com/track/4xOLS2Fa48jL47HszrEewo) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Ahora Es Cuando](https://open.spotify.com/album/0swiunze7QIGHOYQwROnOq) | 2:52 | 2022-10-14 |  |
 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 | 2020-12-01 |  |
 | [Ruta 66](https://open.spotify.com/track/3nl6qTl9qmaWYgNkvxt9v7) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/5HLhnpzahXgWFXpaXUMAGM) | 3:06 | 2020-12-01 | 2022-07-29 |
 | [The King of The Latin Blues \(feat\. Steve Hunter & Bobby Alexander\)](https://open.spotify.com/track/29ovCP4ChViCwSYWYO9TuD) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Steve Hunter](https://open.spotify.com/artist/3wueKF9YNupBFRjQfWoyAc), [Bobby Alexander](https://open.spotify.com/artist/4ZmSudkqArrYnDIrQmWi4l) | [King of Latin Blues](https://open.spotify.com/album/5KHZUTEVbbXX4TJtlROycP) | 4:31 | 2020-12-01 |  |

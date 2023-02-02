@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Soft and warm Christmas songs from recent years. Cover: Gwen Stefani.",
   "name": "Cozy Christmas Pop",
-  "published_playlist_ids": [
-    "4qlASBhliKQ4TWTc8zqP2C"
-  ],
   "tracks": [
     {
       "album": {
@@ -62,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Ain't Christmas (with Laufey)",
+        "url": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189088,
+      "name": "Ain't Christmas (with Laufey)",
+      "url": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
+    },
+    {
+      "album": {
         "name": "All I Want (For Christmas)",
         "url": "https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM"
       },
@@ -77,6 +96,28 @@
       "duration_ms": 181144,
       "name": "All I Want (For Christmas)",
       "url": "https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF"
+    },
+    {
+      "album": {
+        "name": "All I Want for Christmas Is You",
+        "url": "https://open.spotify.com/album/7M8mmTP5ev3BSi6w1WwKYG"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        },
+        {
+          "name": "Brigetta",
+          "url": "https://open.spotify.com/artist/6dAOkHEQVpVD8mFj7OQv8M"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221006,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/12nlKk8JT0ppyGVY9bYKv8"
     },
     {
       "album": {
@@ -424,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Not So Silent Night",
+        "url": "https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148613,
+      "name": "Blame It On The Mistletoe",
+      "url": "https://open.spotify.com/track/5Ca8fgOIaUW9Hl11AGc2v3"
+    },
+    {
+      "album": {
         "name": "A Legendary Christmas",
         "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
       },
@@ -536,6 +595,24 @@
     },
     {
       "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+    },
+    {
+      "album": {
         "name": "You Make It Feel Like Christmas",
         "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
       },
@@ -583,7 +660,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 129610,
       "name": "Christmas Got Colder",
       "url": "https://open.spotify.com/track/5OOavrga0WgJlOei52P9h1"
@@ -663,6 +740,24 @@
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+    },
+    {
+      "album": {
+        "name": "Christmas List",
+        "url": "https://open.spotify.com/album/1bm1rDiR9fPUVuLfovUeHn"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201251,
+      "name": "Christmas List",
+      "url": "https://open.spotify.com/track/3tIFJcxOORa8WkTZBrpxSn"
     },
     {
       "album": {
@@ -811,10 +906,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 195373,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/7LcA08RfpEFEV0vJUsyDkA"
+    },
+    {
+      "album": {
+        "name": "Winter Mood - \u51ac\u306e\u6c17\u5206\u306b\u6d78\u308c\u308b\u6d0b\u697d -",
+        "url": "https://open.spotify.com/album/4ltmz7KA90ycNAH0rwhmvm"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197146,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/1cEIJUSzxEQPKozm0vW0rV"
     },
     {
       "album": {
@@ -981,6 +1094,24 @@
       "duration_ms": 207792,
       "name": "Coming Home (For Christmas)",
       "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
+    },
+    {
+      "album": {
+        "name": "Cozy Christmas / December Baby",
+        "url": "https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237953,
+      "name": "Cozy Christmas",
+      "url": "https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR"
     },
     {
       "album": {
@@ -1867,7 +1998,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 188042,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/0mKbWzFb9EsTJgDwzbYtRc"
@@ -2264,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "Naughty With You (This Christmas)",
+        "url": "https://open.spotify.com/album/0qcrSaxBWO8A5zjgn5WFXx"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176907,
+      "name": "Naughty With You (This Christmas)",
+      "url": "https://open.spotify.com/track/2iefNdjhqC50RdhjyyNAy3"
+    },
+    {
+      "album": {
         "name": "Night Before Christmas",
         "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
       },
@@ -2347,7 +2496,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 138893,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5"
@@ -2617,10 +2766,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 225818,
       "name": "Snow",
       "url": "https://open.spotify.com/track/1UkFYMVhWAT1N7IIhJJMtE"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1YcOJ4stnsTYYzFmjy0QYE"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225818,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/7aDE5prcsZuHtui9YDgShF"
     },
     {
       "album": {
@@ -2885,6 +3052,24 @@
     {
       "album": {
         "name": "This Christmas",
+        "url": "https://open.spotify.com/album/6KPh7fauXVnB5U7gh6y0C4"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182900,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/1V5219VxOPokxVEWREyZ4f"
+    },
+    {
+      "album": {
+        "name": "This Christmas",
         "url": "https://open.spotify.com/album/0NKE4nxZSQXMht4VFczyox"
       },
       "artists": [
@@ -2895,7 +3080,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 182900,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/4zyC8lE8yoC1Y31l5nkQCD"
@@ -3046,6 +3231,28 @@
     },
     {
       "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        },
+        {
+          "name": "Kendra Jae",
+          "url": "https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171056,
+      "name": "Under the Mistletoe (with Kendra Jae)",
+      "url": "https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH"
+    },
+    {
+      "album": {
         "name": "Warm December",
         "url": "https://open.spotify.com/album/1IudCFPdNr3NcTkfXLLcVx"
       },
@@ -3075,7 +3282,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 186040,
       "name": "When You Wish Upon A Star",
       "url": "https://open.spotify.com/track/5wSLnF8eeGq9LxtukSF6G2"

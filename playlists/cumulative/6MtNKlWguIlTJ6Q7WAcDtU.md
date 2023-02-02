@@ -4,7 +4,7 @@
 
 > Get through your workday with 8 hours of country music.
 
-181 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/66xtfJXaU3L7pvTtJJLhFg)
+181 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

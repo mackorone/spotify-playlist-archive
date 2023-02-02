@@ -4,7 +4,7 @@
 
 > Take that last call karaoke to go.
 
-126 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/1lgSGc5x5JbvFhEynbC3gX)
+126 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

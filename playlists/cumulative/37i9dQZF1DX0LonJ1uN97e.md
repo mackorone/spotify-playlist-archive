@@ -4,7 +4,7 @@
 
 > Chuck Berry, the essential tracks, all in one playlist.
 
-57 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/7mzxOSqCgGPyNqDXWE5FL7)
+57 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

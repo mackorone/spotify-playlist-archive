@@ -4,7 +4,7 @@
 
 > The top Christian songs worldwide!  Cover: Lauren Daigle
 
-88 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/2ACVboGzl5aIfqANnTZwXY)
+89 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Banks](https://open.spotify.com/track/4zQVafVtpPQMVfe96ES3CS) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Banks](https://open.spotify.com/album/506L9syhCW4JNuMHjwtZ5D) | 4:00 | 2020-08-14 | 2022-07-29 |
 | [Banks](https://open.spotify.com/track/6LFM1lnBcCIMDkU8oPYgmh) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:00 | 2020-08-14 |  |
 | [Be The Moon \(feat\. Brett Young & Cassadee Pope\)](https://open.spotify.com/track/79r0T2eehj5l0baOIlqP2o) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:34 | 2020-08-14 |  |
-| [Build My Life](https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR) | 8:11 | 2020-08-14 |  |
+| [Build My Life](https://open.spotify.com/track/0QatL1szZzMTAfZoJKWo0s) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/4HCgEprGQ9xJdc80TF4fov) | 8:11 | 2020-08-14 |  |
+| [Build My Life](https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR) | 8:11 | 2020-08-14 | 2022-12-02 |
 | [Burn The Ships](https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 4:36 | 2020-08-14 |  |
 | [Coming In Hot](https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Coming In Hot](https://open.spotify.com/album/2osaP8edSKG8bVFKBoWIcV) | 3:20 | 2020-08-14 |  |
 | [Deep End](https://open.spotify.com/track/0sMr52Vbn6WMkYLupCmO2h) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Deep End](https://open.spotify.com/album/0r4OA7mOtPjXsL48uVrgp8) | 2:39 | 2020-08-14 |  |

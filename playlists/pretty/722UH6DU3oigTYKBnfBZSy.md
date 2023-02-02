@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/722UH6DU3oigTYKBnfBZSy.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 420 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/722UH6DU3oigTYKBnfBZSy.md) - [plain]
 | 18 | [Waiting for a Girl like You \- 2008 Remaster](https://open.spotify.com/track/1UrZVcINJBqjKw2rF8V0nm) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [No End in Sight: The Very Best of Foreigner](https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO) | 4:48 |
 | 19 | [Don't Talk to Strangers](https://open.spotify.com/track/0774xlCZ2HBLSSdO5sCZKI) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Greatest Hits](https://open.spotify.com/album/1Cpqvpn2sMeWcwr7QImDR6) | 2:58 |
 | 20 | [The Sweetest Thing \(I've Ever Known\)](https://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:08 |
-| 21 | [Always on My Mind](https://open.spotify.com/track/3mmn1eswXMsJec8POXQb7p) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [One Hell Of A Ride](https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv) | 3:32 |
+| 21 | [Always On My Mind](https://open.spotify.com/track/3mmn1eswXMsJec8POXQb7p) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [One Hell Of A Ride](https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv) | 3:32 |
 | 22 | [Shake It Up](https://open.spotify.com/track/5OWokvF4QOqMDQ8ByQsm6V) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Shake It Up](https://open.spotify.com/album/4lDlCfyIhAXwP3hO2GVUaw) | 3:35 |
 | 23 | [Let It Whip](https://open.spotify.com/track/3bzwN2zFR5eF9tdNKSnbd4) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [80s Mania](https://open.spotify.com/album/5hgzC9IxDx8wcos3LTGrCh) | 4:42 |
 | 24 | [We Got The Beat](https://open.spotify.com/track/3BI2g3xaStu8g05HwlnvaZ) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Countdown To The New Year](https://open.spotify.com/album/5FXKTAsu4P2YjPKyuHr9Sl) | 2:30 |

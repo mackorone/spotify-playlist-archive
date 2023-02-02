@@ -4,7 +4,7 @@
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/7bvO2wI468kcZn4rhLALZN)
+75 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

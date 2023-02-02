@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "The top Christian songs worldwide!  Cover: Lauren Daigle",
   "name": "Most Favored",
-  "published_playlist_ids": [
-    "2ACVboGzl5aIfqANnTZwXY"
-  ],
   "tracks": [
     {
       "album": {
@@ -173,7 +170,7 @@
     {
       "album": {
         "name": "Housefires III",
-        "url": "https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR"
+        "url": "https://open.spotify.com/album/4HCgEprGQ9xJdc80TF4fov"
       },
       "artists": [
         {
@@ -184,6 +181,24 @@
       "date_added": "2020-08-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 491690,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/0QatL1szZzMTAfZoJKWo0s"
+    },
+    {
+      "album": {
+        "name": "Housefires III",
+        "url": "https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
       "duration_ms": 491690,
       "name": "Build My Life",
       "url": "https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp"

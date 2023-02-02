@@ -4,7 +4,7 @@
 
 > These tracks were produced, written, and/or performed by the artists featured on Spotify's R&B Matters podcast.
 
-39 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/4WsWm8Av1mc89IOh54htA5)
+39 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

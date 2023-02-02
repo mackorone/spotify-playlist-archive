@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2019-06-16",
-  "description": "unwind with these alternative favorites.",
+  "description": "unwind with these alternative favorites and new discoveries.",
   "name": "License To Chill",
-  "published_playlist_ids": [
-    "6Sz9PXGuNaiQlCoxe28vAO"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 196040,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV"
@@ -718,6 +715,28 @@
     },
     {
       "album": {
+        "name": "Box in a Heart (with renforshort)",
+        "url": "https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Box in a Heart (with renforshort)",
+      "url": "https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3"
+    },
+    {
+      "album": {
         "name": "Breathe It All In",
         "url": "https://open.spotify.com/album/03WR5FjUa2vUkaSK0SFpln"
       },
@@ -1125,7 +1144,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 253076,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
@@ -1741,10 +1760,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 180213,
       "name": "Free Animal",
       "url": "https://open.spotify.com/track/5nQvUs9YQeg3vshSzydlRw"
+    },
+    {
+      "album": {
+        "name": "For the Light",
+        "url": "https://open.spotify.com/album/3pYZji3loLGN0JJ6lIolJq"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180213,
+      "name": "Free Animal",
+      "url": "https://open.spotify.com/track/6pnD89Q888HUHhcwQUTky8"
     },
     {
       "album": {
@@ -1785,6 +1822,24 @@
       "duration_ms": 245040,
       "name": "Friends",
       "url": "https://open.spotify.com/track/7A6lmFpkYkHTYQqkKzo71z"
+    },
+    {
+      "album": {
+        "name": "Where the Redwoods Meet the Sea",
+        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179946,
+      "name": "Friends I Barely Know",
+      "url": "https://open.spotify.com/track/1LrgCvDcHuPnThKRKkeoqL"
     },
     {
       "album": {
@@ -1835,7 +1890,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-14",
       "duration_ms": 225277,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/6Y7xUTnb3aI79DpqBioAcr"
@@ -2022,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "Growing/Dying",
+        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Growing/Dying",
+      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
+    },
+    {
+      "album": {
         "name": "Guitar Beat",
         "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
       },
@@ -2123,10 +2196,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 362693,
       "name": "Happy Family",
       "url": "https://open.spotify.com/track/41JKvaaTrlNggstXrYagZ4"
+    },
+    {
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/7K59JMBaDefg9AjOWhkSem"
+      },
+      "artists": [
+        {
+          "name": "Now More Than Ever",
+          "url": "https://open.spotify.com/artist/4rs2uBw6Y9uBQ1eJ0gFRwl"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169646,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/0ReAOLM3cKp3OQktV32ruJ"
     },
     {
       "album": {
@@ -2399,7 +2490,7 @@
       "date_added_asterisk": true,
       "date_removed": null,
       "duration_ms": 237560,
-      "name": "Honest",
+      "name": "Honest - From The Amazing Spider-Man 2 Soundtrack",
       "url": "https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf"
     },
     {
@@ -2487,7 +2578,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 274226,
       "name": "I Found",
       "url": "https://open.spotify.com/track/4lRuRtvftdSSUA7hLP7zAr"
@@ -2509,6 +2600,28 @@
       "duration_ms": 229741,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/06sJNNMQV77SYLJQUcmGJ2"
+    },
+    {
+      "album": {
+        "name": "I Live In Patterns (feat. Alix Page)",
+        "url": "https://open.spotify.com/album/1F97dMZ1k8BwYp9H9bNswN"
+      },
+      "artists": [
+        {
+          "name": "Taylor Janzen",
+          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+        },
+        {
+          "name": "Alix Page",
+          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222546,
+      "name": "I Live In Patterns (feat. Alix Page)",
+      "url": "https://open.spotify.com/track/7LDHQfiTWtQ4VMJA1Cm7Vv"
     },
     {
       "album": {
@@ -2877,7 +2990,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 198789,
       "name": "Killer Queen (What I Need)",
       "url": "https://open.spotify.com/track/02RJ5dskUzptI7vFRMKw3J"
@@ -2949,7 +3062,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 263691,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/6giBkfHez7G866LZqjyIhx"
@@ -3321,6 +3434,24 @@
       "duration_ms": 244293,
       "name": "Mountain at My Gates",
       "url": "https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E"
+    },
+    {
+      "album": {
+        "name": "Mr. 29",
+        "url": "https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR"
+      },
+      "artists": [
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198755,
+      "name": "Mr. 29",
+      "url": "https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl"
     },
     {
       "album": {
@@ -3792,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
+    },
+    {
+      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA"
       },
@@ -3991,7 +4140,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 201666,
       "name": "Sleepwalking, Pt. I (Acoustic)",
       "url": "https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ"
@@ -4333,7 +4482,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 226896,
       "name": "Take A Walk",
       "url": "https://open.spotify.com/track/0dVVLxuAvUnkwNGgW9aoZs"
@@ -4657,10 +4806,28 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-19",
+      "date_removed": "2023-01-26",
       "duration_ms": 210943,
       "name": "The Youth",
       "url": "https://open.spotify.com/track/34VxehtpB6VaZ7s0rHOOXb"
+    },
+    {
+      "album": {
+        "name": "This is the End",
+        "url": "https://open.spotify.com/album/1fJStrEMC3WHoDmcStWh0h"
+      },
+      "artists": [
+        {
+          "name": "Baby Fisher",
+          "url": "https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190327,
+      "name": "This is the End",
+      "url": "https://open.spotify.com/track/3j6dcEE1CiLize5IKgtAY4"
     },
     {
       "album": {
@@ -4729,10 +4896,28 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 274148,
       "name": "Too Young to Fall in Love",
       "url": "https://open.spotify.com/track/3wmtNax868lLyQPbBy36BP"
+    },
+    {
+      "album": {
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
   "name": "This Is New Found Glory",
-  "published_playlist_ids": [
-    "3GvDkZVbOg5dcye1Ezt3S2"
-  ],
   "tracks": [
     {
       "album": {
@@ -152,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Make The Most Of It",
+        "url": "https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214177,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2uOhz8xUdSnGWHbEnhKV3T"
+    },
+    {
+      "album": {
         "name": "From The Screen To Your Stereo, Pt. II",
         "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
       },
@@ -289,7 +304,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 231253,
       "name": "Failure's Not Flattering",
       "url": "https://open.spotify.com/track/1U57cDOAvIRFeDQCIbW6VI"
@@ -311,6 +326,24 @@
       "duration_ms": 189866,
       "name": "Forget My Name",
       "url": "https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N"
+    },
+    {
+      "album": {
+        "name": "Get Me Home",
+        "url": "https://open.spotify.com/album/3IG4fRS5ULUtDo3zguUIXS"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Get Me Home",
+      "url": "https://open.spotify.com/track/7dGXVpFugwNnH0GO5W7Fqd"
     },
     {
       "album": {
@@ -415,7 +448,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 210093,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/0EosY41ozajeAz7mCMwo1K"
@@ -512,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Make The Most Of It",
+        "url": "https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307590,
+      "name": "Kiss the Floor",
+      "url": "https://open.spotify.com/track/3N8HGLcEMi0MK3FBramVy8"
+    },
+    {
+      "album": {
         "name": "From The Screen To Your Stereo 3",
         "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
@@ -584,6 +635,42 @@
     },
     {
       "album": {
+        "name": "Make The Most Of It",
+        "url": "https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222075,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/6ZH9FOxVmrA0Cmmrszh0jx"
+    },
+    {
+      "album": {
+        "name": "Make The Most Of It",
+        "url": "https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252909,
+      "name": "Mouth to Mouth",
+      "url": "https://open.spotify.com/track/65aqwAYrWYPVftgfV1xEz1"
+    },
+    {
+      "album": {
         "name": "Sticks And Stones",
         "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
@@ -613,7 +700,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 183293,
       "name": "My Heart Will Go On",
       "url": "https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma"
@@ -631,7 +718,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 137040,
       "name": "Never Ending Story Theme Song",
       "url": "https://open.spotify.com/track/6mW2DU0mYICqZ26p53QKsT"
@@ -725,7 +812,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 202725,
       "name": "Ready and Willing",
       "url": "https://open.spotify.com/track/7gTzs8ZOry1BSr2aDoMdv4"
@@ -869,7 +956,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 154280,
       "name": "The Devil Has Many Faces",
       "url": "https://open.spotify.com/track/4irOx6zV6BDYO1Rv7yZi7T"
@@ -927,6 +1014,24 @@
       "duration_ms": 220413,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/6HxrsPy2Ch9RV17KVld9pa"
+    },
+    {
+      "album": {
+        "name": "Make The Most Of It",
+        "url": "https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236549,
+      "name": "The Story so Far (Live)",
+      "url": "https://open.spotify.com/track/2hn1iHXcfZuYZSzG7SnVHe"
     },
     {
       "album": {
@@ -1038,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Make The Most Of It",
+        "url": "https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273400,
+      "name": "Watch the Lilies Grow",
+      "url": "https://open.spotify.com/track/4xEpc9SmK9cAlw0407Cxz9"
+    },
+    {
+      "album": {
         "name": "Makes Me Sick",
         "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
       },
@@ -1049,7 +1172,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 188379,
       "name": "Your Jokes Aren't Funny",
       "url": "https://open.spotify.com/track/3KKGoTkLjHsXXAEjxX5kdT"

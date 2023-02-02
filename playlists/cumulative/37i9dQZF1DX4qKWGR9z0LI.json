@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-10",
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
   "name": "Salsa Nation",
-  "published_playlist_ids": [
-    "4IbPQ76hDBnvYgVTXtYV8M"
-  ],
   "tracks": [
     {
       "album": {
@@ -880,6 +877,24 @@
     },
     {
       "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
+    },
+    {
+      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -1003,7 +1018,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 360666,
       "name": "Doble Vida",
       "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
@@ -1475,7 +1490,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 236611,
       "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
@@ -1907,7 +1922,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 244053,
       "name": "Lo Que Yo Quiero",
       "url": "https://open.spotify.com/track/7zoa1nv5hDuoj7fWh7X4IV"
@@ -2287,7 +2302,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-25",
       "duration_ms": 245163,
       "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
       "url": "https://open.spotify.com/track/6UvWIRLjwI9b0fEmrxh9vR"
@@ -2358,7 +2373,7 @@
       "artists": [
         {
           "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p"
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
         },
         {
           "name": "Ray Sepulveda",
@@ -2367,7 +2382,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
@@ -2429,7 +2444,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 243250,
       "name": "Pa Que Caliente",
       "url": "https://open.spotify.com/track/2hYMUJfIeNLMFOaZHX3m6a"
@@ -2583,6 +2598,24 @@
       "duration_ms": 200760,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5"
+    },
+    {
+      "album": {
+        "name": "Peligro de Amor",
+        "url": "https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256045,
+      "name": "Peligro de Amor",
+      "url": "https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ"
     },
     {
       "album": {
@@ -2977,6 +3010,28 @@
       "duration_ms": 349600,
       "name": "Se\u00f1ora De Madrugada",
       "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
+    },
+    {
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "album": {

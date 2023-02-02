@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/3BP8AJXn7JtSS0hniQgsgr)
+129 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Blame \- Tisoki Remix](https://open.spotify.com/track/7cVaF9J51UOzVIKzIdLqNn) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Blame \(Remixes\)](https://open.spotify.com/album/7kFXvC0W4AYlU0nWAKBCvM) | 3:12 | 2021-12-27 |  |
 | [Bleach](https://open.spotify.com/track/6Z0OvGP9U9pSTSJNkNybmf) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:01 | 2022-09-25 |  |
 | [Bluffin'](https://open.spotify.com/track/42w7pX3r1TpLR0i55Ek5ND) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:19 | 2021-12-27 |  |
-| [Breaking News \(with RAYE\)](https://open.spotify.com/track/4kL66iksPrNaqzKYlzDgoa) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Kids At Play\- EP](https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG) | 3:33 | 2021-12-27 |  |
+| [Breaking News \("Rattn Tattn"\)](https://open.spotify.com/track/3SpSPySCZRobjGpUsZdQq9) | [Expulze](https://open.spotify.com/artist/0hiID7lYjHkCqeTRQFhU5D), [Narfos](https://open.spotify.com/artist/7CqGN5affrTPInov9PqsCr) | [2 Loutr \- 1 Soul](https://open.spotify.com/album/1AoWfy7iH5J5Y7Exn07s2q) | 2:51 | 2022-12-23 |  |
+| [Breaking News \(with RAYE\)](https://open.spotify.com/track/4kL66iksPrNaqzKYlzDgoa) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Kids At Play\- EP](https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG) | 3:33 | 2021-12-27 | 2022-12-24 |
 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 | 2021-12-27 |  |
 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 | 2021-12-27 |  |
 | [Common \(feat\. Brandi Carlile\)](https://open.spotify.com/track/4w23TYG2uP8R7pBpBexj9c) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:05 | 2021-12-27 |  |

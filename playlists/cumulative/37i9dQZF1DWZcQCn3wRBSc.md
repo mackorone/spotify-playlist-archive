@@ -4,7 +4,7 @@
 
 > everyone has left and it's just you and your love dancing in the living room
 
-124 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/08aK71TJp2LJgwdm9FvJgw)
+124 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

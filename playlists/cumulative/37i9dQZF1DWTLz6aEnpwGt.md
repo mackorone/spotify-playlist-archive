@@ -4,7 +4,7 @@
 
 > Bach's most popular piano pieces, performed by the greatest pianists of the last century.
 
-50 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/3g37yQfypLg7Cr12NUa535)
+50 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Preambulum In C Major, BWV 924](https://open.spotify.com/track/0BELP51MLTMyd3ip7Nbo6K) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Wolfgang Rübsam](https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj) | [Bach, J.s.: From The W.f\. Bach Notebook / 5 Little Preludes](https://open.spotify.com/album/7xSObzYExuN0kkixkfSXTo) | 1:07 | 2022-08-19 |  |
 | [Prelude & Fugue in D Major \(Well\-Tempered Clavier, Book I, No\. 5\), BWV 850: II\. Fugue](https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Johann Sebastian Bach](https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR) | 1:45 | 2022-08-19 |  |
 | [Prelude and Fugue in G \(WTK, Book I, No\. 15\), BWV 860](https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [András Schiff](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd) | [Bach, J.S.: Das Wohltemperierte Klavier I](https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2) | 3:53 | 2022-08-19 |  |
+| [The Well\-Tempered Clavier, Book 1, BWV 846\-869 / Prelude & Fugue in C Major, BWV 846: I\. Prelude](https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 2:19 | 2022-08-19 |  |
 | [The Well\-Tempered Clavier, Vol\. 1: Prelude No\. 11 in F Major, BWV 856](https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dina Ugorskaja](https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm) | [Bach: The Well\-Tempered Clavier, Vol\. I](https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV) | 1:25 | 2022-08-19 |  |
-| [The Well\-Tempered Clavier: Book 1, BWV 846\-869: I\. Prelude in C Major, BWV 846](https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 2:19 | 2022-08-19 |  |
 
 \*This playlist was first scraped on 2022-09-12. Prior content cannot be recovered.

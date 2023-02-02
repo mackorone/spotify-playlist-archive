@@ -4,7 +4,7 @@
 
 > Celebrate some of the biggest names in country music with the soundtrack from the ACM Honors! Cover: Kelsea Ballerini
 
-168 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/2O2A0u2oMemfyiWYSMET6A)
+168 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

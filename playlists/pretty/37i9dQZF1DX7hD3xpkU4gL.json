@@ -1,15 +1,47 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 67387,
+  "num_followers": 79814,
   "original_name": "Las 100 mejores baladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODM3NjAwMCwwMDAwMDAwMDhiOWNjNWIyY2RmNzA4NjIxMTdhN2U3ZWFkMjdlNTNl",
+  "snapshot_id": "MTY3MzYyMTQ0OSwwMDAwMDAwMGFjNWY0NzdhZmIwZDJmZjNkMWIyNTdmMWQ3OTM0MTVl",
   "tracks": [
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
@@ -25,39 +57,7 @@
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "How Can You Mend A Broken Heart",
         "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Rocanrol Bumerang",
         "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Sergio Dalma En Concierto",
         "url": "https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Andy & Lucas",
         "url": "https://open.spotify.com/album/0vFQRxUcgfeih4nnbwCH8V"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/4AHuNAVU20awkEOLze8v2J"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Sleeping With The Past (Remastered with bonus tracks)",
         "url": "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Algo M\u00e1s de Amor",
         "url": "https://open.spotify.com/album/1feL2gUjTTf7zJUpMH42xV"
@@ -169,23 +169,23 @@
       "url": "https://open.spotify.com/track/0AzP1kDLhmQGBQXTEt25Cw"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Besame",
-        "url": "https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg"
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
         }
       ],
-      "duration_ms": 236080,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
+      "duration_ms": 237026,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Vicentico 5",
         "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
@@ -217,7 +217,55 @@
       "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 180055,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Blue Hawaii",
         "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
@@ -233,23 +281,7 @@
       "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
@@ -281,23 +313,23 @@
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
         }
       ],
-      "duration_ms": 295515,
-      "name": "With Or Without You - Remastered",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+      "duration_ms": 216266,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
@@ -313,7 +345,39 @@
       "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You - Remastered",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Agent Provocateur",
         "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
@@ -329,7 +393,7 @@
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Heart Shaped World",
         "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
@@ -345,39 +409,7 @@
       "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
@@ -393,23 +425,39 @@
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "It Must Have Been Love",
-        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 258786,
-      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
-      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
@@ -425,267 +473,23 @@
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
         }
       ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 177791,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Left Of The Middle",
-        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334106,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 316693,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/74irxdVWstNlEQjsvArITq"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
-      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
@@ -725,7 +529,251 @@
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 258786,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 334106,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 177791,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 316693,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/74irxdVWstNlEQjsvArITq"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Abr\u00e1zame Muy Fuerte",
         "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
@@ -741,71 +789,7 @@
       "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Comeblack",
-        "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 403453,
-      "name": "Still Loving You",
-      "url": "https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
@@ -821,27 +805,7 @@
       "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
-        "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 259550,
-      "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
-      "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
@@ -861,55 +825,91 @@
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 174946,
-      "name": "Me cuesta tanto olvidarte",
-      "url": "https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8"
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+        "name": "Comeblack",
+        "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Something - Remastered 2009",
-      "url": "https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj"
+      "duration_ms": 403453,
+      "name": "Still Loving You",
+      "url": "https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
+        "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 259550,
+      "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
+      "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Amor Supremo (Desnudo)",
         "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
@@ -925,7 +925,23 @@
       "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Me cuesta tanto olvidarte",
+      "url": "https://open.spotify.com/track/1w2Nnj1HEUgoOglVRWfZj8"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "A New Flame (Expanded Version)",
         "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
@@ -941,79 +957,23 @@
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
+        "name": "Last of the Independents",
+        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
         }
       ],
-      "duration_ms": 208600,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
+      "duration_ms": 240760,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u00bfY c\u00f3mo es \u00e9l?",
-      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Pablo Alboran (Deluxe)",
-        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Solamente t\u00fa",
-      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "The Colour Of My Love",
         "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
@@ -1029,7 +989,39 @@
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u00bfY c\u00f3mo es \u00e9l?",
+      "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Pablo Alboran (Deluxe)",
+        "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Solamente t\u00fa",
+      "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
@@ -1049,7 +1041,59 @@
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Vas A Quedarte",
+      "url": "https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
@@ -1069,151 +1113,7 @@
       "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "A las Cinco en el Astoria",
-        "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Jueves",
-      "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Vas A Quedarte",
-      "url": "https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Fantas\u00eda o realidad",
-        "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Aunque no te pueda ver",
-      "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Bendita Tu Luz",
-      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Alejandro Sanz 3",
-        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "La fuerza del coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Eternelle",
         "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
@@ -1229,10 +1129,90 @@
       "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Camilo",
+        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Bendita Tu Luz",
+      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "A las Cinco en el Astoria",
+        "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
       },
       "artists": [
         {
@@ -1240,44 +1220,144 @@
           "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+      "duration_ms": 239240,
+      "name": "Jueves",
+      "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
+        "name": "Fantas\u00eda o realidad",
+        "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
         }
       ],
-      "duration_ms": 230646,
-      "name": "Lo siento",
-      "url": "https://open.spotify.com/track/5o2M4yHxo9kyNLdgihFeV1"
+      "duration_ms": 266666,
+      "name": "Aunque no te pueda ver",
+      "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
       "artists": [
         {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
         }
       ],
-      "duration_ms": 264213,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "The Essential Bangles",
+        "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 238026,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Days Of Future Passed (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "duration_ms": 269106,
+      "name": "Nights In White Satin - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Alejandro Sanz 3",
+        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "La fuerza del coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
@@ -1293,7 +1373,7 @@
       "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn"
@@ -1309,7 +1389,39 @@
       "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 230646,
+      "name": "Lo siento",
+      "url": "https://open.spotify.com/track/5o2M4yHxo9kyNLdgihFeV1"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "No Hay Imposibles",
         "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
@@ -1325,7 +1437,7 @@
       "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Hasta Ahora",
         "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
@@ -1341,7 +1453,7 @@
       "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
@@ -1357,7 +1469,7 @@
       "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "\"Miguel\"",
         "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
@@ -1373,10 +1485,10 @@
       "url": "https://open.spotify.com/track/3PFyeq4aBtLfShPJ9oiK4p"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
+        "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
+        "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
       },
       "artists": [
         {
@@ -1384,32 +1496,44 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 285000,
+      "duration_ms": 284903,
       "name": "One Moment in Time",
-      "url": "https://open.spotify.com/track/5IDUGTWbntYwO9SNmhuSWf"
+      "url": "https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
-        "name": "Mi Persona Favorita",
-        "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
+        "name": "Revoluci\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 239972,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+      "duration_ms": 327600,
+      "name": "Eres Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Contigo Siempre",
         "url": "https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa"
@@ -1429,7 +1553,27 @@
       "url": "https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
+      "album": {
+        "name": "Mi Persona Favorita",
+        "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 239972,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
@@ -1445,7 +1589,7 @@
       "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "2 (Remasterizado 2017)",
         "url": "https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr"
@@ -1461,39 +1605,7 @@
       "url": "https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Revoluci\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "Eres Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "The Essential Cyndi Lauper",
         "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
@@ -1509,23 +1621,7 @@
       "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "El alma al aire",
-        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 308560,
-      "name": "Cuando nadie me ve",
-      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Sentimientos",
         "url": "https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3"
@@ -1541,39 +1637,7 @@
       "url": "https://open.spotify.com/track/2D2GISPz94aFg526x54sfH"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Te echo de menos",
-      "url": "https://open.spotify.com/track/1YgPkZ6GOwajDveEsuy3uH"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Luz V",
-        "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
-      },
-      "artists": [
-        {
-          "name": "Luz Casal",
-          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "No me importa nada",
-      "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
@@ -1593,39 +1657,7 @@
       "url": "https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk"
     },
     {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "A Un Mil\u00edmetro De Ti Y Cada Vez M\u00e1s Cerca (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/1oSumrff62Iuju1SChmSzx"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 229198,
-      "name": "A Un Mil\u00edmetro De Ti",
-      "url": "https://open.spotify.com/track/5v9oKnuJ4e7XDRybgktKVq"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
+      "added_at": "2023-01-13 14:50:49",
       "album": {
         "name": "Una Peque\u00f1a Parte Del Mundo",
         "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
@@ -1639,38 +1671,6 @@
       "duration_ms": 241266,
       "name": "C\u00f3mo hablar",
       "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Me Enamor\u00e9 De Ti",
-        "url": "https://open.spotify.com/album/01akT8TopYGRiYtyeN0qTU"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 206173,
-      "name": "Me Enamor\u00e9 De Ti",
-      "url": "https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Mentiras sinceras",
-        "url": "https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Estar contigo",
-      "url": "https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ"
     }
   ],
   "unique_name": "Las 100 mejores baladas",

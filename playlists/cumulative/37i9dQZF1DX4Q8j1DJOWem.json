@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jeff Satur, YourMOOD, Blackbeans, The White Hair Cut, THEMOONWILLALWAYSBEWITHME, BELL WARISARA, HYBS, Saran, SPRITE, Only Monday ",
+  "description": "\u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Anatomy Rabbit",
   "name": "RADAR Thailand",
-  "published_playlist_ids": [
-    "6rep2f24udDRiCARWl3dYC"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "BTS",
+        "url": "https://open.spotify.com/album/7bmozsYfL8Yh0UNun8onhO"
+      },
+      "artists": [
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 163928,
+      "name": "BTS",
+      "url": "https://open.spotify.com/track/5ny2fV7iSKCRWzLRhUO0CJ"
+    },
     {
       "album": {
         "name": "Dancing with my phone",
@@ -203,10 +218,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 178085,
       "name": "Tutor",
       "url": "https://open.spotify.com/track/7GHMIJwlFDaThr47NYwnQ9"
+    },
+    {
+      "album": {
+        "name": "While We\u2019re Young",
+        "url": "https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc"
+      },
+      "artists": [
+        {
+          "name": "LUSS",
+          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "While We\u2019re Young",
+      "url": "https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4"
     },
     {
       "album": {
@@ -459,7 +492,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 213189,
       "name": "\u0e14\u0e27\u0e07\u0e15\u0e32 (Eyes)",
       "url": "https://open.spotify.com/track/2cgk7fHnqkY7lhDP0F1KZb"
@@ -520,6 +553,24 @@
     },
     {
       "album": {
+        "name": "\u0e19\u0e2d\u0e19\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e44\u0e2b\u0e21 ?",
+        "url": "https://open.spotify.com/album/3Xiahop7bLCvr2CEHvaXX2"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233250,
+      "name": "\u0e19\u0e2d\u0e19\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e44\u0e2b\u0e21 ?",
+      "url": "https://open.spotify.com/track/1n7SJLokzGV1IoLUEmeOuZ"
+    },
+    {
+      "album": {
         "name": "\u0e19\u0e31\u0e49\u0e19",
         "url": "https://open.spotify.com/album/6xKKC6DregDGOqrUgkSZhA"
       },
@@ -531,10 +582,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 200000,
       "name": "\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/5CiAE9nLZkkNkFnMAjUgeD"
+    },
+    {
+      "album": {
+        "name": "\u0e1a\u0e31\u0e07\u0e2d\u0e23",
+        "url": "https://open.spotify.com/album/6nTx2pg2TIjXZOGfKC2dtm"
+      },
+      "artists": [
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187218,
+      "name": "\u0e1a\u0e31\u0e07\u0e2d\u0e23",
+      "url": "https://open.spotify.com/track/1JUxXaTW7ihP7lnlaJbhb1"
     },
     {
       "album": {
@@ -549,7 +618,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 233000,
       "name": "\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
       "url": "https://open.spotify.com/track/4Fer8UPWzhbdyVnccMzPcr"
@@ -733,10 +802,32 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 266581,
       "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e04\u0e37\u0e2d\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e02\u0e2d\u0e07\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19 (Loop)",
       "url": "https://open.spotify.com/track/0sy9KKtn79mAumL6ImSjoI"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08 (The Reason Why I Live)",
+        "url": "https://open.spotify.com/album/4ETXZZ3z3Q4OBTy2Jmnq3Q"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        },
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279047,
+      "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08 (The Reason Why I Live)",
+      "url": "https://open.spotify.com/track/63QIlrzh79BhQYrd9FuR5A"
     },
     {
       "album": {
@@ -971,7 +1062,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 264500,
       "name": "\u0e43\u0e04\u0e23\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e01\u0e48\u0e2d\u0e19\u0e04\u0e19\u0e19\u0e31\u0e49\u0e19\u0e41\u0e1e\u0e49",
       "url": "https://open.spotify.com/track/3fgZmdk4bvYyMuIanDoFKf"

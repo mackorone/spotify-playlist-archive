@@ -4,7 +4,7 @@
 
 > your guide for a peaceful night.
 
-137 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/0yF840QYUl7VX4uOhnIVSI)
+140 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Awake for the Sunrise](https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:58 | 2022-01-12 |  |
 | [Baby Where You Are](https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 2:49 | 2022-01-12 |  |
 | [Baker's Dozen](https://open.spotify.com/track/4bG2bFzJGX3P4igPWaVonz) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Baker's Dozen](https://open.spotify.com/album/5lPk6MPBbKW43uH9RFPecD) | 3:48 | 2022-11-11 |  |
-| [Bed Head \- Acoustic](https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bed Head \(Acoustic\)](https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M) | 4:03 | 2022-01-12 |  |
+| [Bed Head \- Acoustic](https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bed Head \(Acoustic\)](https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M) | 4:03 | 2022-01-12 | 2023-01-18 |
 | [Belly of the Beast](https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:11 | 2022-01-12 |  |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2022-01-12 |  |
 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 | 2022-01-12 |  |
@@ -32,7 +32,7 @@
 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 | 2022-01-12 |  |
 | [Chemicals](https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 3:19 | 2022-01-12 |  |
 | [Christine](https://open.spotify.com/track/0eYSzApMKixJLlYPnk3gBW) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 2:33 | 2022-01-12 |  |
-| [Close My Eyes](https://open.spotify.com/track/3bU8rIEuatTa7XjHl4Sw8f) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Love Is Overtaking Me](https://open.spotify.com/album/02WH3YQOSzeEwwZK1jQWjX) | 2:33 | 2022-01-12 |  |
+| [Close My Eyes](https://open.spotify.com/track/3bU8rIEuatTa7XjHl4Sw8f) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Love Is Overtaking Me](https://open.spotify.com/album/02WH3YQOSzeEwwZK1jQWjX) | 2:33 | 2022-01-12 | 2023-02-01 |
 | [Collar of Fur](https://open.spotify.com/track/4W5gTdnD0ONxtRaKunsGlI) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Collar of Fur](https://open.spotify.com/album/3n8wG86Cf6OfYFQVN8MESD) | 2:28 | 2022-01-12 | 2022-07-28 |
 | [Colourblind](https://open.spotify.com/track/1lzvsof3WhWbUvGNkUcEAg) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:54 | 2022-01-12 | 2022-07-29 |
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2022-01-12 |  |
@@ -40,6 +40,7 @@
 | [David](https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [David](https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f) | 3:05 | 2022-01-12 | 2022-11-13 |
 | [Different Kinds of Light](https://open.spotify.com/track/3q7T7yQ0oj0hWEoPciBTKj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:05 | 2022-01-12 |  |
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2022-01-12 | 2022-09-15 |
+| [Dresser Hill](https://open.spotify.com/track/1v0Abaw4uYLe8PR9pfIuaD) | [Mary Elizabeth Remington](https://open.spotify.com/artist/1OpHneno1p46i9jXB1Vk6T), [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Dresser Hill](https://open.spotify.com/album/55ybZpAvRN29cch9L4JKEb) | 3:29 | 2023-01-27 |  |
 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2022-01-12 |  |
 | [El Invento](https://open.spotify.com/track/15MrK18b57Reu75doUBMxb) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/73UwOPqykgw5pYAVLfu8Zo) | 2:33 | 2022-01-12 | 2022-07-29 |
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2022-01-12 |  |
@@ -68,6 +69,7 @@
 | [If Christopher Calls](https://open.spotify.com/track/1rgn2v9Xv3UzqkpMVaap2Y) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life \(In Progress…\)](https://open.spotify.com/album/3NBdlknkdrCPl0H3QOTf74) | 4:00 | 2022-01-12 | 2022-07-29 |
 | [If You Call](https://open.spotify.com/track/7pzTko8DSWv5UfoxXQ7p93) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf), [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [If You Call](https://open.spotify.com/album/0OY4ylUoapLz9T0UAy2t8K) | 5:47 | 2022-01-12 | 2022-11-13 |
 | [In Your Eyes](https://open.spotify.com/track/4RyCx8Z2lBO3w3FzcVq9Ok) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Giver Taker](https://open.spotify.com/album/19eBS7pEsntVjYu1Sj7g9Z) | 3:07 | 2022-01-12 | 2022-07-29 |
+| [In Your Eyes](https://open.spotify.com/track/69xRPqfFK8kh5qRW5HoXAP) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Giver Taker](https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc) | 3:07 | 2022-01-12 |  |
 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 | 2022-01-12 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-12 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2022-01-12 |  |
@@ -103,7 +105,7 @@
 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 | 2022-01-12 |  |
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2022-01-12 | 2022-07-29 |
 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 | 2022-01-12 |  |
-| [Rumours](https://open.spotify.com/track/0Brzu8MFxLwh3R57bImH2r) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 4:10 | 2022-01-12 |  |
+| [Rumours](https://open.spotify.com/track/0Brzu8MFxLwh3R57bImH2r) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 4:10 | 2022-01-12 | 2023-01-28 |
 | [Santa Barbara](https://open.spotify.com/track/0v6lbGn9fC1YEa7WQZjFNX) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/3uyniBJKkgZfYsM25bBa8T) | 3:14 | 2022-01-12 | 2022-07-29 |
 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 | 2022-01-12 |  |
 | [Seeing Things](https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Count The Stairs](https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM) | 3:34 | 2022-01-12 | 2022-11-17 |
@@ -131,6 +133,7 @@
 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 | 2022-01-12 |  |
 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 | 2022-01-12 |  |
 | [Tupperware](https://open.spotify.com/track/4pJ1wQw71Yk6opBdISkRgf) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Tupperware](https://open.spotify.com/album/05pEuiJeN31Fw3Vw11j3De) | 3:06 | 2022-01-12 | 2022-07-29 |
+| [Vast](https://open.spotify.com/track/3zeMHlSsmxidNhLr11wcUN) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Vast](https://open.spotify.com/album/5xcpUoCn6DdkgD2mVxrixQ) | 3:02 | 2023-01-27 |  |
 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 | 2022-01-12 |  |
 | [Walk With Me](https://open.spotify.com/track/6JNGxaRDMwObY98n8MJb46) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/1GvCetmOWQbkkmG6fpXWgu) | 4:33 | 2022-01-12 | 2022-07-06 |
 | [Warped Window](https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ) | 4:55 | 2022-01-12 | 2022-07-29 |

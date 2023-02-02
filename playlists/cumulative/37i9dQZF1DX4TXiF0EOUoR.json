@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "\u00a1Los reyes del jaripeo!",
   "name": "Jaripeo",
-  "published_playlist_ids": [
-    "3SaRVa8JMQfFO8EPZXZX8F"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 183186,
       "name": "Arreando La Mula",
       "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
@@ -91,7 +88,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 145968,
       "name": "Arriba la Joyita",
       "url": "https://open.spotify.com/track/7zSqPFUKufdczYnboF7fJu"
@@ -163,7 +160,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 213368,
       "name": "Carnaval Putleco",
       "url": "https://open.spotify.com/track/5ApbRWd5f7L5leQqtBdbgA"
@@ -257,7 +254,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 168045,
       "name": "El Agua Clara",
       "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
@@ -315,6 +312,24 @@
       "duration_ms": 166876,
       "name": "El Chavo del Ocho (The Elephant Never Forgets)",
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
+    },
+    {
+      "album": {
+        "name": "Sones Ra\u00edces",
+        "url": "https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127333,
+      "name": "El Colirio",
+      "url": "https://open.spotify.com/track/5mP19u1ndgdqtegwiTXpoU"
     },
     {
       "album": {
@@ -419,10 +434,46 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 274038,
       "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
       "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
+    },
+    {
+      "album": {
+        "name": "Escuela De Rancho",
+        "url": "https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139186,
+      "name": "El Mech\u00f3n",
+      "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
+    },
+    {
+      "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1MWHfmhCI3Y5iX0f0GwV5J"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198347,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/00UCfwswH8Tw9XMDxxvB5Y"
     },
     {
       "album": {
@@ -437,7 +488,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 177930,
       "name": "El Novillo Despuntado",
       "url": "https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR"
@@ -455,7 +506,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 277796,
       "name": "El Novillo Despuntado / Toro Pinto",
       "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
@@ -477,6 +528,24 @@
       "duration_ms": 123141,
       "name": "El Olotito",
       "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
+    },
+    {
+      "album": {
+        "name": "Puras De Viento Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/26dmrrDSwkLnpEGxhgewDt"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167787,
+      "name": "El Olotito - En Vivo",
+      "url": "https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ"
     },
     {
       "album": {
@@ -527,10 +596,32 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 168613,
       "name": "El Polvorete",
       "url": "https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT"
+    },
+    {
+      "album": {
+        "name": "El Rezado (En Vivo)",
+        "url": "https://open.spotify.com/album/2InTHqP7dbNYWVy6RaGXES"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261897,
+      "name": "El Rezado - En Vivo",
+      "url": "https://open.spotify.com/track/4oMcfG82bPjArsCUu7gLfW"
     },
     {
       "album": {
@@ -563,7 +654,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 264942,
       "name": "El Sinaloense",
       "url": "https://open.spotify.com/track/2Oz3xXgX6mUWO2DfL8Iosp"
@@ -725,7 +816,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 261712,
       "name": "El Sonao",
       "url": "https://open.spotify.com/track/6dSReOEVUQqBgXGYQyWSZw"
@@ -833,7 +924,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 160725,
       "name": "El Toro De Once",
       "url": "https://open.spotify.com/track/3MAhgwZtPsbCmBphO49ZxF"
@@ -869,7 +960,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 119807,
       "name": "El Toro De Once (En Vivo)",
       "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
@@ -1020,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Los \u00danicos del Huapango Michoacano",
+        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
+      },
+      "artists": [
+        {
+          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
+          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 279614,
+      "name": "Fiesta Michoacana",
+      "url": "https://open.spotify.com/track/7Aajm0whBb20RxY1zNaBv7"
+    },
+    {
+      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
       },
@@ -1067,7 +1176,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 288072,
       "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
       "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
@@ -1085,7 +1194,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 199250,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
@@ -1157,7 +1266,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 210910,
       "name": "Jinetes en el Cielo",
       "url": "https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa"
@@ -1193,7 +1302,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 173106,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2Vq8dMWAxw1NFLhFSa83ss"
@@ -1211,7 +1320,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 180197,
       "name": "La Amachona - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
@@ -1247,7 +1356,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 210280,
       "name": "La Bola (Pelotero a la Bola)",
       "url": "https://open.spotify.com/track/2pdaGbHeRy6i5DJuWbLg3t"
@@ -1427,7 +1536,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 208771,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/7CjNZMpa03xdHh6YKq1bkf"
@@ -1445,7 +1554,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
@@ -1499,7 +1608,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 260728,
       "name": "La Picare",
       "url": "https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn"
@@ -1521,6 +1630,24 @@
       "duration_ms": 193880,
       "name": "La Rabia",
       "url": "https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N"
+    },
+    {
+      "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164863,
+      "name": "La Reginita",
+      "url": "https://open.spotify.com/track/7GlZJkyIm9r7TTPmERzLNC"
     },
     {
       "album": {
@@ -1571,10 +1698,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 152894,
       "name": "La Vaquilla Colorada",
       "url": "https://open.spotify.com/track/4HmFMFun84yRMfTgr8sAM6"
+    },
+    {
+      "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300657,
+      "name": "La Vaquilla, El P\u00e1jaro Chog\u00fci",
+      "url": "https://open.spotify.com/track/5hiixMpxeytn72OjwV0eFt"
     },
     {
       "album": {
@@ -1593,6 +1738,24 @@
       "duration_ms": 461333,
       "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
       "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
+    },
+    {
+      "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162117,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh"
     },
     {
       "album": {
@@ -1744,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228502,
+      "name": "Los Viejitos",
+      "url": "https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq"
+    },
+    {
+      "album": {
         "name": "Los \u00danicos del Huapango Michoacano",
         "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
       },
@@ -1755,10 +1936,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 148375,
       "name": "Lucesita",
       "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
+    },
+    {
+      "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168618,
+      "name": "Male Chuchita",
+      "url": "https://open.spotify.com/track/2QfZqEprY6qkKWHNsaMLYe"
     },
     {
       "album": {
@@ -1773,7 +1972,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 141523,
       "name": "Mam\u00e1 Chilindra - La Herencia del Rey",
       "url": "https://open.spotify.com/track/0yEbVM4LpZGMufnT10t6mL"
@@ -1887,7 +2086,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 1187749,
       "name": "Mi Ranchito / La Feria De Las Flores / Los Pajaros / La Vaquilla /Mi Gusto Es / Arboles De La Barranca - En Vivo",
       "url": "https://open.spotify.com/track/3UvpQZxXWN0HVCsOgMegQW"
@@ -1989,6 +2188,24 @@
     {
       "album": {
         "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "album": {
+        "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
       },
       "artists": [
@@ -1999,7 +2216,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
@@ -2089,10 +2306,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 199307,
       "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
       "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
+    },
+    {
+      "album": {
+        "name": "Homenaje a un B\u00e1rbaro",
+        "url": "https://open.spotify.com/album/12AzmFxxsz7ZDqWq6ofjeH"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288500,
+      "name": "Popurri de Sones: Son Coste\u00f1o / Toro Pinto / Los Viejitos / Cara de Pingo",
+      "url": "https://open.spotify.com/track/5MroqL18HhTsDRpC4IXqEm"
     },
     {
       "album": {
@@ -2147,6 +2382,24 @@
       "duration_ms": 260666,
       "name": "Popurri Sones: Maria Chuchena / Ya Llegu\u00e9 ya Estoy Aqu\u00ed / Era de Madrugada / Juan Colorado",
       "url": "https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH"
+    },
+    {
+      "album": {
+        "name": "Popurr\u00ed Arriba Guerrero Cochos (En Vivo)",
+        "url": "https://open.spotify.com/album/5Epygmn55lufHU1OW5jEJ7"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 283610,
+      "name": "Popurr\u00ed Arriba Guerrero Cochos (En Vivo)",
+      "url": "https://open.spotify.com/track/6pyIvSQXU7Sp8AFU8soz1H"
     },
     {
       "album": {
@@ -2219,7 +2472,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 228075,
       "name": "Popurr\u00ed: Uno M\u00e1s de Sones",
       "url": "https://open.spotify.com/track/2B0PDjm9wCcWK0o08AzVRJ"
@@ -2313,7 +2566,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 183177,
       "name": "Recuerdos a Hern\u00e1n",
       "url": "https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ"
@@ -2385,7 +2638,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 182559,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
@@ -2425,6 +2678,24 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida",
       "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e9",
+        "url": "https://open.spotify.com/album/0wfZvpbKHbH6ChRnZKQs0x"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147017,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/6EcODHnvkLbnm8sXPqq8qT"
     },
     {
       "album": {

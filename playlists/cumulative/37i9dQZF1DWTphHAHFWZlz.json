@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-30",
   "description": "La nueva ola del rock argentino. Foto: Riel",
   "name": "Rockola",
-  "published_playlist_ids": [
-    "0MtUXUcZ7oflfCxYvMhlyV"
-  ],
   "tracks": [
     {
       "album": {
@@ -485,10 +482,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 226050,
       "name": "Ciudatella Nacional",
       "url": "https://open.spotify.com/track/7LuLZp0bGul3psMpbQ49i2"
+    },
+    {
+      "album": {
+        "name": "Poes\u00eda para Edificios",
+        "url": "https://open.spotify.com/album/2RVmejO0GjeCp4rRiXUb5w"
+      },
+      "artists": [
+        {
+          "name": "Tobog\u00e1n Andaluz",
+          "url": "https://open.spotify.com/artist/5CQkSfQ3zzYAojW7qa35RC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226050,
+      "name": "Ciudatella Nacional",
+      "url": "https://open.spotify.com/track/7ebej13rUkAdXExXt63Pxf"
     },
     {
       "album": {

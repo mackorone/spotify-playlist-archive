@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Are you trapped in some kind of haunted Hell? What is your favorite nightmare?",
   "name": "This Is Dreamcatcher",
-  "published_playlist_ids": [
-    "2Vtiq3m1kt7V8ae1tjCvfR"
-  ],
   "tracks": [
     {
       "album": {
@@ -1355,6 +1352,24 @@
       "duration_ms": 240282,
       "name": "R.o.S.E BLUE (Prod. ESTi)",
       "url": "https://open.spotify.com/track/7sOXsL2oJpa8dGXUKoTM0G"
+    },
+    {
+      "album": {
+        "name": "[REASON]",
+        "url": "https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197346,
+      "name": "REASON",
+      "url": "https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U"
     },
     {
       "album": {

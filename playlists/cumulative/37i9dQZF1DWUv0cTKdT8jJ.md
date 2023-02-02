@@ -4,7 +4,7 @@
 
 > Crank it up to full volume and enjoy the best rock music \- all day, everyday.
 
-181 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/1pa0sHEQDAKYr86mUmiLj5)
+181 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

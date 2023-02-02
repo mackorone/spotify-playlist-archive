@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,198 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,505 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 23 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
 | 24 | [The Story](https://open.spotify.com/track/5GVPVxgdgTKJFxSxLVIw1A) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 4:05 |
 | 25 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 |
-| 26 | [Home](https://open.spotify.com/track/4rsW3WCZBGwhHfJWuHRwyT) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [The World From The Side Of The Moon \(Deluxe\)](https://open.spotify.com/album/773GsAWk3z8mGgMDeR7n1A) | 3:30 |
+| 26 | [Home](https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [The World From The Side Of The Moon](https://open.spotify.com/album/0zIb6xazDd72sVT8OtPX3E) | 3:30 |
 | 27 | [Until I Found You \- Piano Version](https://open.spotify.com/track/06vNG6CiV4k8oNA0wUUAO7) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You \(Piano Version\)](https://open.spotify.com/album/6126tYz1txFtCrM0pDbEhc) | 3:04 |
 | 28 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 |
 | 29 | [If You Need Me](https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If You Need Me](https://open.spotify.com/album/4eeHl4rHfVSo0IDTSZ2ECq) | 3:36 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 31 | [All I Do Is Dream of You](https://open.spotify.com/track/1Cxx2ec6iADMThJFeKSOzl) | [Faultline](https://open.spotify.com/artist/2MDj3VdPVUo2w1A6bRwvAh), [dodie](https://open.spotify.com/artist/3gxp1JkAXtD40LleVZgqOE) | [All I Do Is Dream of You](https://open.spotify.com/album/6qDAXqSFZE5WxqhhG2QPFZ) | 2:42 |
 | 32 | [Falling Slowly](https://open.spotify.com/track/2rqU6isUjWk7s2y0ZEkmhb) | [Steve Kazee](https://open.spotify.com/artist/2E0WuV49YeVlDWrmLf4jKK), [Cristin Milioti](https://open.spotify.com/artist/0KV9UzwJbLgC8QdOAxKlTU), [Once Ensemble](https://open.spotify.com/artist/28Tjtr1MQlXJwcNVgcwOTG) | [Once: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6BBjG9s1OPJXQh0dAiLwKN) | 4:26 |
 | 33 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
-| 34 | [Half the World Away](https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9) | 3:18 |
+| 34 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
 | 35 | [I Hate Phone Calls \(Long Distance Sucks\)](https://open.spotify.com/track/1gVTPQFznRUAgn29hv4MhG) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Chapter 1: Things We're Not Saying](https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn) | 3:11 |
 | 36 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 |
 | 37 | [Please Stay](https://open.spotify.com/track/0dSTuo3SoZqR8bG4xBOHVv) | [Francois Klark](https://open.spotify.com/artist/6pWdTbfpN654qlN83k3O0P) | [Love](https://open.spotify.com/album/12SFWJtCHuTAW1WX7gpkCU) | 3:44 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 45 | [See You Again](https://open.spotify.com/track/7gEIEG5i3oKLKRKBuvengF) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:26 |
 | 46 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 |
 | 47 | [Hearts Without Chains](https://open.spotify.com/track/1MLMgjYMNq4uWcMvwSLDEy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 3:45 |
-| 48 | [Rather Be with You \- Acoustic](https://open.spotify.com/track/7fS708BKUj1zNyejmuZxDb) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x) | 3:19 |
+| 48 | [Rather Be with You \- Acoustic](https://open.spotify.com/track/2rNIGwLuQauPp8qLFuQnzm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Rather Be with You](https://open.spotify.com/album/4gfAeJv9CKKraAUEqEQOqs) | 3:19 |
 | 49 | [Stay](https://open.spotify.com/track/24xqELXbmKDFLKkR3271jb) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Once Upon Another Time](https://open.spotify.com/album/1PrqYZJRzGNf8AsSOraxnZ) | 4:22 |
 | 50 | [Long Drive](https://open.spotify.com/track/6keUc6LHhh1HkJfE87bnG9) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [YES! \(Commentary\)](https://open.spotify.com/album/2pkE09f0DykOk472XemaTs) | 3:50 |
 | 51 | [The Girl](https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 6:00 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 56 | [Rivers and Roads](https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:44 |
 | 57 | [To Whom It May Concern](https://open.spotify.com/track/3gpbB4hh2KjY3q8di87TpN) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:31 |
 | 58 | [Set The Fire To The Third Bar](https://open.spotify.com/track/5g0afUZsh5hiXBOT3eXuwd) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 3:23 |
-| 59 | [Miss You](https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO) | 3:17 |
+| 59 | [Miss You](https://open.spotify.com/track/7bJ9LsbiWySCjsKltAP7x5) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt) | 3:17 |
 | 60 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
 | 61 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
 | 62 | [Surround You](https://open.spotify.com/track/1D5ZvPtj09MckFOp2NcadQ) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Endless Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cn6DXanZWGYjUcslSIwWD) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 | 74 | [Stay With Me](https://open.spotify.com/track/3fxc2GDtIjDprOyMFABWDs) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mission Bell](https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS) | 3:13 |
 | 75 | [And Counting…](https://open.spotify.com/track/2BzzOaMznrmLxrfAfXjgBJ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Siberia](https://open.spotify.com/album/0JsiuNPYQLyK6luX5jLuRE) | 4:42 |
 
-Snapshot ID: `MTY2NTIwNTI1MywwMDAwMDAwMGMxYzFiMzczZjY1NWE5OWM1NmQxMTJhMGYzY2MyOGFh`
+Snapshot ID: `MTY3MjI4OTIyMSwwMDAwMDAwMDgwMDMxNGFiNmIwOGFlZDM2MGM5ZDY1ZjQwYjYwZmIy`

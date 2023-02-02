@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M3XSYkKZCl.md) - [plain]
 
 > An introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,930 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,967 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

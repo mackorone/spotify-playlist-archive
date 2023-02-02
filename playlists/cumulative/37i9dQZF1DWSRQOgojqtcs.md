@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-135 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
+135 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

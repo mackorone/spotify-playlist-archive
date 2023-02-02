@@ -1,13 +1,65 @@
 {
-  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=Y5cs7Ga0Tza8ZbozPyrZdw\">DBN Gogo</a>",
-  "num_followers": 65220,
+  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=KVi1KePsS-SeAeLkN8980A\">Black Sherif</a>",
+  "num_followers": 70704,
   "original_name": "RADAR Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM2MDk0MSwwMDAwMDAwMGJiMGE3YmVhOWYxYjhlNzNiNzY2NmNiNjYyNzE4YzNk",
+  "snapshot_id": "MTY3MTAyNzM3OSwwMDAwMDAwMGZkODNhNzM0NjZiOWEwZTA0NjU2OGY1ODFlODdjYTE1",
   "tracks": [
+    {
+      "added_at": "2022-11-25 07:22:21",
+      "album": {
+        "name": "Soja",
+        "url": "https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 181557,
+      "name": "Soja",
+      "url": "https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk"
+    },
+    {
+      "added_at": "2022-11-25 07:22:21",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Soweto",
+      "url": "https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5"
+    },
+    {
+      "added_at": "2022-11-25 07:22:21",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
     {
       "added_at": "2022-11-25 07:22:21",
       "album": {
@@ -37,62 +89,10 @@
       "url": "https://open.spotify.com/track/0YWnzJDkaCAuNgE74ktZD1"
     },
     {
-      "added_at": "2022-11-25 07:22:21",
+      "added_at": "2022-11-28 06:29:05",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Soweto",
-      "url": "https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8"
-    },
-    {
-      "added_at": "2022-11-25 07:22:21",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
-    },
-    {
-      "added_at": "2022-11-25 07:22:21",
-      "album": {
-        "name": "Soja",
-        "url": "https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 181557,
-      "name": "Soja",
-      "url": "https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk"
-    },
-    {
-      "added_at": "2022-11-25 07:22:21",
-      "album": {
-        "name": "In My Mind - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
       },
       "artists": [
         {
@@ -100,25 +100,25 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 136800,
-      "name": "In My Mind - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": "2022-11-25 07:22:21",
       "album": {
-        "name": "East Mpaka London",
-        "url": "https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu"
+        "name": "Kwaku the Traveller",
+        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
       },
       "artists": [
         {
-          "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 175072,
-      "name": "Blicky",
-      "url": "https://open.spotify.com/track/5vhSfPxnK4ldS5ZMmrfZnc"
+      "duration_ms": 185364,
+      "name": "Kwaku the Traveller",
+      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
     },
     {
       "added_at": "2022-11-25 07:22:21",
@@ -135,6 +135,22 @@
       "duration_ms": 150000,
       "name": "Xtra Cool",
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
+      "added_at": "2022-11-25 07:22:21",
+      "album": {
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
     },
     {
       "added_at": "2022-11-25 07:22:21",
@@ -167,6 +183,22 @@
     {
       "added_at": "2022-11-25 07:22:21",
       "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "45",
+      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
+    },
+    {
+      "added_at": "2022-11-25 07:22:21",
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -195,6 +227,42 @@
       "duration_ms": 186000,
       "name": "Ijo (Laba Laba)",
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Thug Love",
+        "url": "https://open.spotify.com/album/3Bcj3vvXd5w0eEEiIw5nJO"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 134964,
+      "name": "Thug Love",
+      "url": "https://open.spotify.com/track/17uovpjxgRlZOAriKRsgfE"
+    },
+    {
+      "added_at": "2022-11-25 07:22:21",
+      "album": {
+        "name": "Second Sermon (Remix)",
+        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 194863,
+      "name": "Second Sermon - Remix",
+      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
     },
     {
       "added_at": "2022-11-25 07:22:21",
@@ -239,6 +307,22 @@
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "added_at": "2022-11-25 07:22:21",
+      "album": {
+        "name": "East Mpaka London",
+        "url": "https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/5vhSfPxnK4ldS5ZMmrfZnc"
     },
     {
       "added_at": "2022-11-25 07:22:21",
@@ -363,26 +447,6 @@
     {
       "added_at": "2022-11-25 07:22:21",
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 205601,
-      "name": "Love Me or Leave Me",
-      "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
-    },
-    {
-      "added_at": "2022-11-25 07:22:21",
-      "album": {
         "name": "On Yah (Intro)",
         "url": "https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk"
       },
@@ -415,6 +479,38 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Bad Boy Etiquette 101",
+        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 155005,
+      "name": "No Peace (Violence)",
+      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
+    },
+    {
+      "added_at": "2022-12-02 00:00:00",
+      "album": {
+        "name": "Yao",
+        "url": "https://open.spotify.com/album/1iIMteZmsQjzajs83RFmgQ"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "duration_ms": 209143,
+      "name": "Yao",
+      "url": "https://open.spotify.com/track/2BesSwK9iYOTFMQytlf79Q"
     },
     {
       "added_at": "2022-11-25 07:22:21",
@@ -455,22 +551,6 @@
     {
       "added_at": "2022-11-25 07:22:21",
       "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "45",
-      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
-    },
-    {
-      "added_at": "2022-11-25 07:22:21",
-      "album": {
         "name": "The Second Wave Deluxe",
         "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
       },
@@ -487,8 +567,8 @@
     {
       "added_at": "2022-11-25 07:22:21",
       "album": {
-        "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
-        "url": "https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD"
+        "name": "Sugarcane (Remix)",
+        "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
       },
       "artists": [
         {
@@ -508,41 +588,9 @@
           "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 251286,
-      "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
-      "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
-    },
-    {
-      "added_at": "2022-11-25 07:22:21",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2022-11-25 07:22:21",
-      "album": {
-        "name": "Kwaku the Traveller",
-        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Kwaku the Traveller",
-      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+      "duration_ms": 251147,
+      "name": "Sugarcane - Remix",
+      "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
     },
     {
       "added_at": "2022-11-25 07:22:21",
@@ -559,26 +607,6 @@
       "duration_ms": 200833,
       "name": "Silent Mode",
       "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
-    },
-    {
-      "added_at": "2022-11-25 07:22:21",
-      "album": {
-        "name": "Merchant Of Melodies",
-        "url": "https://open.spotify.com/album/7pbyEdE5mpVy02yxKLpEUl"
-      },
-      "artists": [
-        {
-          "name": "Lad\u00e9",
-          "url": "https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "LOVA",
-      "url": "https://open.spotify.com/track/1ZZhWm9pxFnpwZtPyOnKg9"
     },
     {
       "added_at": "2022-11-25 07:22:21",
@@ -647,8 +675,8 @@
     {
       "added_at": "2022-11-25 07:22:21",
       "album": {
-        "name": "kolomental",
-        "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
@@ -657,8 +685,8 @@
         }
       ],
       "duration_ms": 197000,
-      "name": "kolomental",
-      "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
+      "name": "Kolomental",
+      "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
     },
     {
       "added_at": "2022-11-25 07:22:21",
@@ -731,8 +759,8 @@
     {
       "added_at": "2022-11-25 07:22:21",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
@@ -742,7 +770,7 @@
       ],
       "duration_ms": 170000,
       "name": "Apollo",
-      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
     },
     {
       "added_at": "2022-11-25 07:22:21",
@@ -767,33 +795,13 @@
     {
       "added_at": "2022-11-25 07:22:21",
       "album": {
-        "name": "Second Sermon (Remix)",
-        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 194863,
-      "name": "Second Sermon - Remix",
-      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
-    },
-    {
-      "added_at": "2022-11-25 07:22:21",
-      "album": {
         "name": "East Mpaka London",
         "url": "https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu"
       },
       "artists": [
         {
           "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+          "url": "https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX"
         },
         {
           "name": "Big yasa",
@@ -899,22 +907,6 @@
       "duration_ms": 220525,
       "name": "Dior",
       "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
-    },
-    {
-      "added_at": "2022-11-25 07:22:21",
-      "album": {
-        "name": "4LUV",
-        "url": "https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 271017,
-      "name": "umoya",
-      "url": "https://open.spotify.com/track/5Mg5kfEzI7stnjNoXHyaUC"
     },
     {
       "added_at": "2022-11-25 07:22:21",

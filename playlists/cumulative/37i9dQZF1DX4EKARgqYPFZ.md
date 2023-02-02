@@ -4,7 +4,7 @@
 
 > The essential blink\-182, all in one place.
 
-50 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/2oLDRlwMxu7k6ngOmPICiA)
+50 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

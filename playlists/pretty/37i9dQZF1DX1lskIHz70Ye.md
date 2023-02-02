@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,464 likes - 102 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,072 likes - 102 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 63 | [Resignation](https://open.spotify.com/track/2tpGrTd5ecgGHoK95fdA0C) | [Joe Pisto](https://open.spotify.com/artist/02EHqe9onqarB5sxNiLdOf) | [Resignation](https://open.spotify.com/album/28oamvo15O6DTsIx49l8y3) | 1:55 |
 | 64 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |
 | 65 | [The Wholehearted \(No\. 19, Op\. 60, Fernando Sor\)](https://open.spotify.com/track/3ACIugQLGsqEEFP3cTMDCj) | [Ricardo Alves Pereira](https://open.spotify.com/artist/7D7x8UG2oPE8pG5t9FDJrF) | [The Wholehearted \(No\. 19, Op\. 60, Fernando Sor\)](https://open.spotify.com/album/4JlJJv2vgidqPJbCZ0qXCw) | 2:11 |
-| 66 | [Carcassi Etudes, Op.60: No.11](https://open.spotify.com/track/6TE3MimgVYLoDiEyAGZcd3) | [Matteo Carcassi](https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU), [Paco Hallak](https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm) | [Matteo Carcassi: 25 Melodic & Progressive Studies, Op\. 60, Vol\. 2](https://open.spotify.com/album/38hySzyQwwDMHSKT3TnFmT) | 0:52 |
+| 66 | [25 Etudes, Op.60: No.11](https://open.spotify.com/track/3rtSgMczBxCjgo3soQPLat) | [Matteo Carcassi](https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU), [Paco Hallak](https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm) | [Matteo Carcassi: 25 Melodic & Progressive Studies, Op\. 60](https://open.spotify.com/album/11ak49S3NDKpFkITvHtXsK) | 0:52 |
 | 67 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 |
 | 68 | [Barracas Bird](https://open.spotify.com/track/79Ny2c8UogZ0We79hPRnMk) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Barracas Bird](https://open.spotify.com/album/6CItD5vZzN9KcMCitNZXX8) | 2:43 |
 | 69 | [Drei Intermezzi, Op\. 117: I\. Andante moderato](https://open.spotify.com/track/59DQVi45MItdwdyBP4A7dg) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Luis Orlandini](https://open.spotify.com/artist/5fTpeqnj9uWvbqwQiUo3PW), [Raimundo Luco](https://open.spotify.com/artist/5tF1ThzwEZEjowMN64pfbY) | [Drei Intermezzi, Op\. 117: I\. Andante moderato](https://open.spotify.com/album/31M8OK3WgX3VrNCmijGZMk) | 4:39 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 101 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 |
 | 102 | [Karleken \(arr\. for guitar and double bass\): Kärleken](https://open.spotify.com/track/7076W3oIAwyydfx4WMU5sJ) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Monica Dominique](https://open.spotify.com/artist/4fXHTCH1eArZTamCjimXeT), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy) | [Sånger utan ord](https://open.spotify.com/album/69YsaSWpIzKGe85DuTtKw2) | 4:16 |
 
-Snapshot ID: `MTY2ODcyOTY2MCwwMDAwMDAwMDJiNDJmZGYzNzA3ODkzZWVlNTQ5M2Q1ZjNkMDQ1OWY4`
+Snapshot ID: `MTY2ODcyOTY2MCwwMDAwMDAwMDNhYWNjMzU2MTg4OGRkZTZjNmU0NjkyNDc5YTZkMjY5`

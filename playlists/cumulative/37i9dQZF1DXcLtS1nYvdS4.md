@@ -4,7 +4,7 @@
 
 > This energy\-filled mix by <a href="spotify:artist:1V3VTM7VspiQjcmRhC010n">Quintino</a><br/>is stacked with big room tracks and euphoric melodies.
 
-16 songs - 49 min 14 sec - [published](https://open.spotify.com/playlist/4DHYJeluZHnrszEK5bl1SU)
+16 songs - 49 min 14 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Unforgettable love songs from the 1960s.
 
-110 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3OBMQlltdDI6ehst0mhfxA)
+111 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,9 +35,10 @@
 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 | 2021-12-14 |  |
 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 | 2021-12-14 |  |
 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 | 2021-12-14 |  |
+| [Hey Paula](https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Hey Paula](https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh) | 2:26 | 2022-05-30 |  |
 | [Hey Paula](https://open.spotify.com/track/50tTePJn69dlpGxVfWWHWM) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Lo Mejor de los Años 60, Vol\. 3 Pop](https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK) | 2:32 | 2021-12-14 | 2022-07-29 |
 | [Hey Paula \(Re\-Recording\)](https://open.spotify.com/track/7HwPyAmN3aLyr7TuSPfxJv) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [The Ultimate Sixties Collection](https://open.spotify.com/album/2CqYJbZzK4gOM33MtBoI6D) | 2:26 | 2022-05-30 | 2022-11-13 |
-| [Hey Paula \- Single Version](https://open.spotify.com/track/6MpCxTJNdkHIpvQRuID8zU) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [\#1 Radio Hits of the 60's](https://open.spotify.com/album/4o3sNKvKE9yfyhMVm6oSg3) | 2:31 | 2022-05-30 |  |
+| [Hey Paula \- Single Version](https://open.spotify.com/track/6MpCxTJNdkHIpvQRuID8zU) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [\#1 Radio Hits of the 60's](https://open.spotify.com/album/4o3sNKvKE9yfyhMVm6oSg3) | 2:31 | 2022-05-30 | 2022-12-03 |
 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw) | 2:57 | 2022-05-30 |  |
 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM) | 2:57 | 2021-12-14 | 2022-07-29 |
 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/53nelcI9xeloc4gmeBLEQd) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Happy Songs For Kids](https://open.spotify.com/album/05qHJq7EHOMFnoW5zvHjnh) | 3:01 | 2022-05-30 | 2022-11-13 |

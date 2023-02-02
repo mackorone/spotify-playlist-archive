@@ -4,7 +4,7 @@
 
 > Enjoy the soundtrack of Our Blues! \(드라마 '우리들의 블루스'의 사운드트랙을 즐겨보세요!\)
 
-50 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/21mWTckqvn5Q3GB2IwU82R)
+50 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

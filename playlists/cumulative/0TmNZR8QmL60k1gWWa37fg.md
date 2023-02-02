@@ -4,7 +4,7 @@
 
 > Catch up on all the performers at the 2013 Macy's Thanksgiving Day Parade.
 
-28 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/5kv79IEcSNZJwbokg8gezQ)
+28 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

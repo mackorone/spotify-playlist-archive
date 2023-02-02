@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
   "name": "This Is Valent\u00edn Elizalde",
-  "published_playlist_ids": [
-    "6BOH8BsKezQ5TxHeOKr4t0"
-  ],
   "tracks": [
     {
       "album": {
@@ -116,6 +113,50 @@
     },
     {
       "album": {
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "As\u00ed Que Te Vas",
+      "url": "https://open.spotify.com/track/50ipI7duYwyQYw79guJRP8"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Que Te Vas",
+        "url": "https://open.spotify.com/album/2oGmmDoPposslbmIBYljwH"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 183226,
+      "name": "As\u00ed Que Te Vas",
+      "url": "https://open.spotify.com/track/60t2rZ1IpgzX2UQ8MLHWTX"
+    },
+    {
+      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
       },
@@ -145,7 +186,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 210946,
       "name": "Catarino Y Los Rurales",
       "url": "https://open.spotify.com/track/1YLIdBkPxQwklrVk9RlzJP"
@@ -224,6 +265,36 @@
     },
     {
       "album": {
+        "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187062,
+      "name": "El Hijo Del Pueblo",
+      "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
+    },
+    {
+      "album": {
         "name": "Exitos De Valent\u00edn Elizalde",
         "url": "https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB"
       },
@@ -239,6 +310,28 @@
       "duration_ms": 235466,
       "name": "El Huizache",
       "url": "https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz"
+    },
+    {
+      "album": {
+        "name": "El M Grande",
+        "url": "https://open.spotify.com/album/3mtVCsqcqQ9N56rIeLbO5y"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "El M Grande",
+      "url": "https://open.spotify.com/track/4DMuDJisndgBlDGsvx5yG8"
     },
     {
       "album": {
@@ -325,7 +418,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 163626,
       "name": "En Busca Del Amor",
       "url": "https://open.spotify.com/track/71j7pKCwVoXQX2U2addBn8"
@@ -379,7 +472,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 207933,
       "name": "Hola Y Adios",
       "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
@@ -509,10 +602,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 156573,
       "name": "La Tambora Va A Sonar",
       "url": "https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u"
+    },
+    {
+      "album": {
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159866,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/1cp26SwLH6r7mPFvT4KmDP"
     },
     {
       "album": {
@@ -689,10 +804,32 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 192893,
       "name": "Pa' Que Son Pasiones",
       "url": "https://open.spotify.com/track/3efT4wg1RQG0nkKrN2zegl"
+    },
+    {
+      "album": {
+        "name": "Pa' Qu\u00e9 Son Pasiones",
+        "url": "https://open.spotify.com/album/3ghUPKQkDQ0ZjNTePotJDj"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Pa' Qu\u00e9 Son Pasiones",
+      "url": "https://open.spotify.com/track/1g8OBHnpZeQI1yoyJrjWQ2"
     },
     {
       "album": {
@@ -945,6 +1082,28 @@
       "duration_ms": 186960,
       "name": "Vete Con \u00c9l",
       "url": "https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL"
+    },
+    {
+      "album": {
+        "name": "Banda Carnaval & Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 158826,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/0nTf8OiF3lUTkDxJaMJB0N"
     },
     {
       "album": {

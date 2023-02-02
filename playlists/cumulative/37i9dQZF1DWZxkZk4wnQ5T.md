@@ -4,7 +4,7 @@
 
 > From brooding skepticism and ardent romance to utter whimsy and nonsense, explore the Victorian sensibility, as displayed in some of the era's best poetry.
 
-289 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/4nqaz7IfKoGcOwevTDGQHp)
+289 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

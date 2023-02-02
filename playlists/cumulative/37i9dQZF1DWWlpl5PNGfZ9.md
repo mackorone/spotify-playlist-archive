@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español en la década de los 90.
 
-153 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/5kcvwFe2uLfT9hwJKnS5Wu)
+153 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 | 2021-10-28 |  |
 | [Desesperada](https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5) | [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [Mujer](https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l) | 3:47 | 2021-10-28 | 2022-07-26 |
 | [Dime Que Me Quieres \(Bring A Little Lovin\)](https://open.spotify.com/track/4pupiOjh6MWxPUTIroVaJy) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg) | 3:15 | 2022-03-29 | 2022-04-20 |
-| [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 | 2021-10-28 | 2022-11-13 |
+| [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 | 2021-10-28 | 2023-02-01 |
 | [Donde Estas Corazon](https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:51 | 2021-10-28 | 2022-07-29 |
 | [Dr\. Psiquiatra](https://open.spotify.com/track/3jF0zm2dfCPUpnDpLcx2F0) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aqui](https://open.spotify.com/album/2BRDFUTn1bWZP793gSFLJA) | 3:40 | 2021-10-28 | 2022-07-27 |
 | [Duro de Pelar \- "Oh No" Especial Edition](https://open.spotify.com/track/2OmPGGWyDYNIDDI9bWZivU) | [Rebeca](https://open.spotify.com/artist/6H53iHaFe93Luwi5j4JI20) | [Duro de Pelar 2013 \("Oh No" Especial Edition\)](https://open.spotify.com/album/2X9deUvO53lYIMcqVGDt2p) | 3:09 | 2022-03-29 | 2022-04-21 |
@@ -138,7 +138,7 @@
 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 | 2021-10-28 | 2022-07-29 |
 | [Será Que No Me Amas \(Blame It on the Boogie\)](https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:09 | 2022-03-29 | 2022-04-16 |
 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 5:04 | 2021-10-28 | 2022-07-26 |
-| [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 | 2022-03-29 | 2022-09-21 |
+| [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 | 2022-03-29 |  |
 | [Si Tú Te Vas](https://open.spotify.com/track/2L9jPTSCT5K0gkgpXONyMK) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/2NwF2C2Z9sSgePRArAA5cl) | 4:01 | 2021-10-28 | 2022-07-28 |
 | [Si Tú Te Vas](https://open.spotify.com/track/7iTTl99G5SdYmzgcf4g6oz) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/7DS5eAaSqaPRercZMkxVeL) | 4:04 | 2021-10-28 | 2022-07-01 |
 | [Solo Se Vive una Vez](https://open.spotify.com/track/0ATzislS5SvAp69hjHczej) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Esclava De Tu Piel](https://open.spotify.com/album/4cllWOyTixZqsWOLj5BvPB) | 3:31 | 2022-03-29 | 2022-04-16 |
@@ -147,7 +147,7 @@
 | [Sudor](https://open.spotify.com/track/4N3N41TBYInzPX9FZ2L8iO) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Imprescindibles](https://open.spotify.com/album/0WjpoO1Q2c9yAr5IqTB3kd) | 3:03 | 2022-03-29 | 2022-04-18 |
 | [Tan enamorados](https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:49 | 2021-10-28 |  |
 | [Te Amo](https://open.spotify.com/track/2rdwDtrmhjgXgS2cSzXhe2) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte del Sur](https://open.spotify.com/album/3VARJQOdbDt0dOlLAPMkjv) | 3:46 | 2021-10-28 | 2022-07-29 |
-| [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 | 2021-10-28 |  |
+| [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 | 2021-10-28 | 2023-01-13 |
 | [Te Pertenezco](https://open.spotify.com/track/7lJOwLYMg9bsmuYRb0TAPm) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 3:52 | 2022-03-29 | 2022-04-20 |
 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 | 2021-10-28 |  |
 | [Te recuerdo](https://open.spotify.com/track/7Bbx7AMWd2eG8CmXPzRrQX) | [CAE](https://open.spotify.com/artist/1GC9IVqOiXNuWi7UYgPLgC) | [Bravo 3.0](https://open.spotify.com/album/1YWA0ioDFD3vSNxKIFiecj) | 4:26 | 2022-03-29 | 2022-04-08 |

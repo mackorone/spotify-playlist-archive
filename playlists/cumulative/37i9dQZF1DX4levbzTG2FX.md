@@ -4,7 +4,7 @@
 
 > In partnership with CCLI, here are the top songs in church in the USA\. Updated monthly.
 
-60 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/3RGM2UbQTofUFdk6Q5QrCH)
+60 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

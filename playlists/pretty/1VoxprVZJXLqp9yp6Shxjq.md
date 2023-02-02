@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1VoxprVZJXLqp9yp6Shxjq.md) - [plain]
 
 ### [Totally 80's Summer Hits](https://open.spotify.com/playlist/1VoxprVZJXLqp9yp6Shxjq)
 
-> Grab your neon socks &amp; Members Only jackets &amp; strap with the biggest hits from the decade of excess!
+> Best of 80s pop, rock, and new wave top hits from iconic bands and artists like Madonna, Phil Collins, and Tina Turner\. All the biggest throwback songs for your 80s dance party!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 55,076 likes - 81 songs - 5 hr 55 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 55,100 likes - 81 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/1VoxprVZJXLqp9yp6Shxjq.md) - [plain]
 | 80 | [Cars](https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt) | 3:58 |
 | 81 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 
-Snapshot ID: `MTE4MyxhMzc4MmJhZDgyYjc5YTFjYzQ0MDhmMzc4Y2E2YjU1Zjg4OGQyZjg3`
+Snapshot ID: `MTIwMiwzNzg3MjAwMjVhNzAzMjRmMWRiZjEyZTI5YzVhNTU1YzI1ODRiYWE3`

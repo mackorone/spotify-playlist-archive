@@ -4,7 +4,7 @@
 
 > Disfruta esta selección musical, de la mano de Turf.
 
-50 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/2FDkCozqL7WBQe26F9Q6Qz)
+50 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

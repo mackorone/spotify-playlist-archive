@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-13",
   "description": "A happy place.",
   "name": "DISCOLAND",
-  "published_playlist_ids": [
-    "2xSdTSz706asFMv9nAL1iO"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,7 +20,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 200000,
       "name": "24",
       "url": "https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo"
@@ -67,10 +64,36 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 205645,
       "name": "All 4 Love (feat. Tasty Lopez)",
       "url": "https://open.spotify.com/track/0ib3Pdvgp2ZDk6nO1DC3sJ"
+    },
+    {
+      "album": {
+        "name": "Untold Business",
+        "url": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Rene Amesz",
+          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
+        },
+        {
+          "name": "Tasty Lopez",
+          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205645,
+      "name": "All 4 Love (feat. Tasty Lopez)",
+      "url": "https://open.spotify.com/track/2DJjMZfgND6WARNaxVCkI3"
     },
     {
       "album": {
@@ -107,7 +130,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 219848,
       "name": "All I Need (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2"
@@ -367,7 +390,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 220708,
       "name": "Better On My Own",
       "url": "https://open.spotify.com/track/4TIXxw9SWztF4eKgPN9Law"
@@ -527,7 +550,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 159072,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4"
@@ -884,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Do you Feel Like I do?",
+        "url": "https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb"
+      },
+      "artists": [
+        {
+          "name": "Another Chemical Love Story",
+          "url": "https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv"
+        },
+        {
+          "name": "Elliot Adamson",
+          "url": "https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398095,
+      "name": "Do you Feel Like I do?",
+      "url": "https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF"
+    },
+    {
+      "album": {
         "name": "Don't Feed The Tiger",
         "url": "https://open.spotify.com/album/03fHImPEUer93Z6lGgAaJE"
       },
@@ -1091,6 +1136,24 @@
     {
       "album": {
         "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+    },
+    {
+      "album": {
+        "name": "Emotion EP",
         "url": "https://open.spotify.com/album/3OWpB3ypCxvkWIHqyKMkTg"
       },
       "artists": [
@@ -1149,7 +1212,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 213387,
       "name": "Everything's Gonna Be Alright (feat. London Community Gospel Choir)",
       "url": "https://open.spotify.com/track/6e9zuRnA4Vsg3PO6I1CMte"
@@ -1171,6 +1234,32 @@
       "duration_ms": 255506,
       "name": "everything's gunna be alright, niina said so",
       "url": "https://open.spotify.com/track/2rgN4YlCsfujwfmcL2UA12"
+    },
+    {
+      "album": {
+        "name": "Untold Business",
+        "url": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        },
+        {
+          "name": "London Community Gospel Choir",
+          "url": "https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213387,
+      "name": "Everything\u2019s Gonna Be Alright",
+      "url": "https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw"
     },
     {
       "album": {
@@ -1653,7 +1742,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 378236,
       "name": "Hip Shakin Mama - Gerd Janson Piano Dub Mix",
       "url": "https://open.spotify.com/track/3CU1uuYUjBsbA2JwH21lZv"
@@ -1789,7 +1878,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": "2023-01-27",
       "duration_ms": 211088,
       "name": "I Take What's Mine",
       "url": "https://open.spotify.com/track/5m7frLaca4N7yAJ1VZ8Wnz"
@@ -1869,7 +1958,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 403000,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1pfhurHQnm3xRFYjiNUIWK"
@@ -2213,7 +2302,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 422153,
       "name": "Learning To Love",
       "url": "https://open.spotify.com/track/4IiakISa3gtCEJsBnQ6cep"
@@ -2231,7 +2320,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 189506,
       "name": "Let Me Love U",
       "url": "https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb"
@@ -2987,7 +3076,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 178125,
       "name": "My Life (feat. Joe Killington)",
       "url": "https://open.spotify.com/track/5IhCWukOzeazDOHKCKARki"
@@ -3221,6 +3310,36 @@
       "duration_ms": 175173,
       "name": "NO WAY! - Diamond Pistols Remix",
       "url": "https://open.spotify.com/track/7aWgGrMx5WOsrYZ1lS1tbR"
+    },
+    {
+      "album": {
+        "name": "Nobody (Remixes)",
+        "url": "https://open.spotify.com/album/4tetKtk4DcJ3C4t8P6IQnz"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        },
+        {
+          "name": "Erobique",
+          "url": "https://open.spotify.com/artist/21dHn8Rlrb1dJYuwHuxKvg"
+        },
+        {
+          "name": "The Reflex",
+          "url": "https://open.spotify.com/artist/6E7SbenCPEit9gDFnMlDUA"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243934,
+      "name": "Nobody - The Reflex Revision",
+      "url": "https://open.spotify.com/track/7MPiDa4hxtSRWSRs4ZATyz"
     },
     {
       "album": {
@@ -3680,6 +3799,28 @@
     },
     {
       "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+    },
+    {
+      "album": {
         "name": "Run Run (feat. Mattie Safer)",
         "url": "https://open.spotify.com/album/07otPEPJyuM6nIdEE9g8jy"
       },
@@ -3743,6 +3884,24 @@
       "duration_ms": 335383,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5xXGRExlDrPuYzhAj0BHxm"
+    },
+    {
+      "album": {
+        "name": "saudade - Edit",
+        "url": "https://open.spotify.com/album/71QyRx58NvssqPyzBQq9B3"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272291,
+      "name": "saudade - Edit",
+      "url": "https://open.spotify.com/track/3ecmX9cdy5NKeoE4GwLoV3"
     },
     {
       "album": {
@@ -3815,7 +3974,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
@@ -4051,7 +4210,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 339835,
       "name": "Sometimes The Going Gets A Little Tough - Mella Dee Going Got A Bit Tougher Mix",
       "url": "https://open.spotify.com/track/0sseNUohdOMxlKtLHGxNH1"
@@ -4095,7 +4254,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 195507,
       "name": "Soul Full (feat. Joe Killington)",
       "url": "https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ"
@@ -4179,7 +4338,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 382857,
       "name": "Summer Of Love - Jansons Remix",
       "url": "https://open.spotify.com/track/3JBRm4s1Bw7Yz2u3d2Ithh"
@@ -4329,7 +4488,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 186774,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
@@ -4519,7 +4678,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
@@ -4643,7 +4802,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 273230,
       "name": "What's Your World (feat. Gloria Ann Taylor)",
       "url": "https://open.spotify.com/track/7ir78RK7dikfhptUV0S6kC"
@@ -4705,7 +4864,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 285547,
       "name": "Your Good Times Are Here",
       "url": "https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2"

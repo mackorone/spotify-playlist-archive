@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Timaya. The essential tracks, all in one playlist.",
   "name": "This Is Timaya",
-  "published_playlist_ids": [
-    "2qtfJ5HohbRgIzIvDR5e2o"
-  ],
   "tracks": [
     {
       "album": {
@@ -297,7 +294,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 218466,
       "name": "Bom Bom",
       "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
@@ -351,7 +348,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": "2023-01-03",
       "duration_ms": 204680,
       "name": "Bow Down",
       "url": "https://open.spotify.com/track/4qa7gYSpbGV4UKYuq20qB3"
@@ -467,7 +464,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 249312,
       "name": "Dem Mama",
       "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
@@ -661,6 +658,28 @@
       "duration_ms": 177088,
       "name": "Get My Money Right",
       "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
+    },
+    {
+      "album": {
+        "name": "CITIZEN OF THE WORLD",
+        "url": "https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Get the Money",
+      "url": "https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI"
     },
     {
       "album": {
@@ -1044,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "Man on Duty",
+        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215640,
+      "name": "Man on Duty",
+      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
+    },
+    {
+      "album": {
         "name": "Mind over Matter (feat. D'banj)",
         "url": "https://open.spotify.com/album/460k6hSGCoT3Ml8dopaCVk"
       },
@@ -1303,7 +1344,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-07",
       "duration_ms": 216920,
       "name": "Sexy Ladies",
       "url": "https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g"
@@ -1343,7 +1384,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 171186,
       "name": "Sili-Kon",
       "url": "https://open.spotify.com/track/4U9RIKgLeaANDbEFOZLcqT"
@@ -1535,7 +1576,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 190560,
       "name": "Ukwu (Bonus)",
       "url": "https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo"

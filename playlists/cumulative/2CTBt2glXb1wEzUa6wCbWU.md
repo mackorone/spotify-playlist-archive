@@ -4,7 +4,7 @@
 
 > Missa inte Håkan Hellström på Flamingo\-scenen på FREDAG / 19.40
 
-10 songs - 40 min 3 sec - [published](https://open.spotify.com/playlist/7fbkFGE9ZdTWnXTVKebD6c)
+10 songs - 40 min 3 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

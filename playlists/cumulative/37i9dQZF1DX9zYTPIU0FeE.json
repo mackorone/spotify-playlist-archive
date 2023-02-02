@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ\">Xhanthi Nokwali</a> ",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d?si=Ol_jgjcuTPqfrN4HQDcDdQ\">Robin Fassie</a> ",
   "name": "Jazz NXT",
-  "published_playlist_ids": [
-    "0ANwIIMXAUMCahITjRSDWI"
-  ],
   "tracks": [
     {
       "album": {
@@ -994,6 +991,28 @@
     },
     {
       "album": {
+        "name": "Klops Jol",
+        "url": "https://open.spotify.com/album/4N9ZtSXfJ6aL786oNnbMwG"
+      },
+      "artists": [
+        {
+          "name": "Robin Fassie",
+          "url": "https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d"
+        },
+        {
+          "name": "Changui Jaca",
+          "url": "https://open.spotify.com/artist/2viYlUVzbeOfWdBsGFguUn"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560000,
+      "name": "Klops Jol",
+      "url": "https://open.spotify.com/track/7E0Rle0rkoHmTRuAUT39lA"
+    },
+    {
+      "album": {
         "name": "The Alchemy of Living",
         "url": "https://open.spotify.com/album/6rC96afb0mApTsgQeA7GZb"
       },
@@ -1545,10 +1564,32 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 349275,
       "name": "Sometimes I Feel Like a Motherless Child",
       "url": "https://open.spotify.com/track/5tRccXu5fL0PVqkNu1rkEN"
+    },
+    {
+      "album": {
+        "name": "Group Theory: Black Music",
+        "url": "https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1"
+      },
+      "artists": [
+        {
+          "name": "Tumi Mogorosi",
+          "url": "https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6"
+        },
+        {
+          "name": "Gabi Motuba",
+          "url": "https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349275,
+      "name": "Sometimes I Feel Like a Motherless Child",
+      "url": "https://open.spotify.com/track/7wq5H9Ax3WTvQU6uWTthLe"
     },
     {
       "album": {
@@ -1621,10 +1662,28 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 295025,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/24XED46T5MAEe52fccVbU6"
+    },
+    {
+      "album": {
+        "name": "Group Theory: Black Music",
+        "url": "https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1"
+      },
+      "artists": [
+        {
+          "name": "Tumi Mogorosi",
+          "url": "https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295025,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/4rjThEz7ckmhTMcxNzkavN"
     },
     {
       "album": {
@@ -1825,10 +1884,28 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 285026,
       "name": "Wadada",
       "url": "https://open.spotify.com/track/021dKUW3T1zcnCzuTcQ2MF"
+    },
+    {
+      "album": {
+        "name": "Group Theory: Black Music",
+        "url": "https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1"
+      },
+      "artists": [
+        {
+          "name": "Tumi Mogorosi",
+          "url": "https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285026,
+      "name": "Wadada",
+      "url": "https://open.spotify.com/track/5GvAP2rW6vPSqAdNsUI4Oq"
     },
     {
       "album": {

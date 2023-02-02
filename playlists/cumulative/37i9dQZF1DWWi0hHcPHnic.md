@@ -4,7 +4,7 @@
 
 > Your favorite KIDZ BOP hits, all in one place!
 
-230 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/4swCf59ZleNeASHQUD8NaP)
+230 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

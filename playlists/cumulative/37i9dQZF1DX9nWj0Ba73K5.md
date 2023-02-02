@@ -2,9 +2,9 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley Gorley
+> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Ashley McBryde
 
-216 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+218 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dreamin's Free](https://open.spotify.com/track/6sg8Y3ZwBdVWF03V7jzHgS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Dreamin's Free](https://open.spotify.com/album/2FjepQmwZU2S6NWykgszPD) | 3:38 | 2022-04-01 |  |
 | [Drinkin Problem](https://open.spotify.com/track/2wwGUeBTAwy9IEy3MIvSoS) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:41 | 2022-01-01 |  |
 | [Drowns the Whiskey](https://open.spotify.com/track/79268NV31JJE8d4VzGEKLb) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:22 | 2022-01-01 |  |
+| [Drunk Plans](https://open.spotify.com/track/7aquXzKa4ABAOshANU0qio) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [Drunk Plans](https://open.spotify.com/album/1XyWXqkjfSA9gnFAsSNCY3) | 3:01 | 2023-01-13 |  |
 | [Either](https://open.spotify.com/track/2OWHy2piQ5aamjenrRKkQi) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:00 | 2022-01-01 |  |
 | [Electricity](https://open.spotify.com/track/1416kZiwSgVmlAAj7mVfoa) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Somewhere There's A Light On](https://open.spotify.com/album/3rjcBeGtdpZRAPuytz0kok) | 2:24 | 2022-01-01 | 2022-04-16 |
 | [Even If It Breaks Your Heart](https://open.spotify.com/track/37tuqFINoyPMpxbOZNOk17) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Even If It Breaks Your Barefoot Friday Night](https://open.spotify.com/album/0iwZYxBjSdx9Ve18IMkyAd) | 3:44 | 2022-04-15 |  |
@@ -149,6 +150,7 @@
 | [Sangria](https://open.spotify.com/track/0kCKUX3wgd6c6da5I4vJIR) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:25 | 2022-01-01 |  |
 | [Say You Do](https://open.spotify.com/track/5Ru3FrpXdk3pJcdfvDzs5d) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Matthew Ramsey](https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:19 | 2022-01-01 | 2022-06-07 |
 | [Say You Do \(feat\. Matthew Ramsey\)](https://open.spotify.com/track/7hFrXzKRJkRNXa6575wCJZ) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C), [Matthew Ramsey](https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:27 | 2022-01-01 |  |
+| [Second Guessing](https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [Second Guessing](https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD) | 3:09 | 2023-01-13 |  |
 | [See You Again](https://open.spotify.com/track/28nO80586CILwu5kNXj3NI) | [Jessi Alexander](https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS) | [Keeping It Original for Alive: A Celebration of Songwriters Benefiting Alive Hospice, Vol\. 1](https://open.spotify.com/album/1kwMPmio6OJkwHRYWK6q8p) | 3:24 | 2022-01-01 |  |
 | [self care.](https://open.spotify.com/track/6RgUCaT2kLxy6o1XCOWQjQ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [self care.](https://open.spotify.com/album/7eG9QRz0CNpz8Y1fzKJYzB) | 2:19 | 2022-07-08 |  |
 | [Setting the World on Fire \(feat\. Josh Osborne\)](https://open.spotify.com/track/0no4JGUGADpduYExUgiizp) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Osborne](https://open.spotify.com/artist/1QoLSRhja9IcOQKelE594L) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 3:17 | 2022-01-01 |  |

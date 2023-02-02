@@ -4,7 +4,7 @@
 
 > The band's essential tracks, all in a single playlist.
 
-46 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/2lSLzBOr380FObisC0ABbx)
+46 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

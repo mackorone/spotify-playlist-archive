@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wOwTzGsYKA.md) - [plain]
 
 > "This is a 'FEEL IT ALL' playlist\. When I got pregnant & sober, I was so afraid that actually feeling all of the feelings I’d been numbing for so long would kill me\. I needed to practice feeling in manageable bits\. Each night, I’d lay in bed, play a song, listen, and feel." Cover: Glennon Doyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 20 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 523 likes - 20 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

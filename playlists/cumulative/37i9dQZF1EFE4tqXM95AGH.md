@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-162 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/5rPfC5CqDzXlAgFaSQs6O5)
+165 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Oh God \(feat\. Konshens\)](https://open.spotify.com/track/7cs2ujAGExV7scDYTPLsMX) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Oh God \(feat\. Konshens\)](https://open.spotify.com/album/2puY2Kn8P7AAPV8GuH6f6Q) | 3:17 | 2021-12-27 |  |
 | [Old Habits Die Hard](https://open.spotify.com/track/2PEQV5k8so5FAOWGcyskgo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/12ty08Y0h6TtP469jEtJ9S) | 3:42 | 2021-12-27 |  |
 | [Open Book](https://open.spotify.com/track/0u9EMAFCKDIwiSS2wGLk0K) | [Jacob Whitesides](https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4) | [Why?](https://open.spotify.com/album/48I2gzctst5EmUaVNUsnwL) | 4:48 | 2021-12-27 |  |
+| [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 | 2023-01-12 |  |
 | [Paper Love](https://open.spotify.com/track/59HRIFXMIkjsYF0Ji2MlKA) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/12ty08Y0h6TtP469jEtJ9S) | 3:16 | 2021-12-27 |  |
 | [Paris](https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:38 | 2021-12-27 |  |
 | [Plum](https://open.spotify.com/track/0EftP1nY8Mklt77hAMMMug) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:05 | 2021-12-27 |  |
@@ -124,7 +125,8 @@
 | [Roommates](https://open.spotify.com/track/6Yqthq1zzVpynLPBb457I7) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Roommates](https://open.spotify.com/album/5dxJzhnP1EHXf9VCLElcOM) | 3:23 | 2021-12-27 |  |
 | [Run Into You](https://open.spotify.com/track/0LM43mK6NmlaO5MIKy5oBr) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Run Into You](https://open.spotify.com/album/2JWPHdT4xQktzBfOuW6t0R) | 2:55 | 2021-12-27 |  |
 | [SANCTUARY](https://open.spotify.com/track/6DP8nbZpPLgWboZf1ABRzj) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [COLLXTION I](https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN) | 4:39 | 2021-12-27 |  |
-| [Science](https://open.spotify.com/track/6OteeaJa1FSjBA6o1Ixwfq) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK) | 3:55 | 2021-12-27 |  |
+| [Science](https://open.spotify.com/track/4E5BoPxABSbi6Tkhaz2uzi) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:55 | 2022-12-01 |  |
+| [Science](https://open.spotify.com/track/6OteeaJa1FSjBA6o1Ixwfq) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/52266yLMFfzAry9Xp0r9IK) | 3:55 | 2021-12-27 | 2022-12-02 |
 | [Seventeen](https://open.spotify.com/track/7iyKbBjb2fmTnTfCjCh7ER) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:38 | 2021-12-27 |  |
 | [She Said](https://open.spotify.com/track/1UNWD6R5EOFklUHKZZvww2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:47 | 2021-12-27 |  |
 | [She Said \- From "Love, Victor: Season 2"/Soundtrack Version](https://open.spotify.com/track/68eFRuiqiDCPysJMqGTa4s) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Best Dance](https://open.spotify.com/album/5Jqchtib5lsULCBVhZmPPK) | 2:47 | 2022-09-24 | 2022-09-26 |
@@ -167,6 +169,7 @@
 | [Windows](https://open.spotify.com/track/2sDjAcLzPYZYUYOtfk5R4x) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:16 | 2021-12-27 |  |
 | [Wingman](https://open.spotify.com/track/6VitRC30kO0TKoDcEeQHCU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Wingman](https://open.spotify.com/album/1be3Mn77VbYlBtltlAOIDO) | 3:27 | 2021-12-27 |  |
 | [Workin On It](https://open.spotify.com/track/5gcQ9obFGkSPciwUjHCgRs) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/0lq7zwC6uQiu8pwW5FK3Fb) | 3:34 | 2021-12-27 |  |
+| [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2022-12-14 |  |
 | [You Will Find Me](https://open.spotify.com/track/1tQksxQbg0wzhxpTY4ppzB) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [As Seen On TV](https://open.spotify.com/album/7a1BvnRHo7rdeyaHtmxPPB) | 3:26 | 2021-12-27 |  |
 | [Young Love](https://open.spotify.com/track/7L4Q4JyCnJcYHCKaNrap4U) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [George Sear](https://open.spotify.com/artist/6rex7yqrxf37zM07mzMKYf) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:06 | 2021-12-27 |  |
 | [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 | 2021-12-27 |  |

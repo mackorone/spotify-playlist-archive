@@ -4,7 +4,7 @@
 
 > Pouring rain and occasional rolling thunder.
 
-399 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/24mLuWgScUP4helHcwLm2m)
+399 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Relax to these chilled instrumental Christmas tunes. ",
   "name": "Relaxing Christmas",
-  "published_playlist_ids": [
-    "2eUZZpj5a46keLF8ml7reF"
-  ],
   "tracks": [
     {
       "album": {
@@ -177,8 +174,8 @@
       },
       "artists": [
         {
-          "name": "Elliott Jacqu\u00e9s",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/3umCEdMTP9fjBnfclPxi1Z"
         }
       ],
       "date_added": "2022-11-04",
@@ -455,6 +452,24 @@
       "duration_ms": 193053,
       "name": "Huron Carol",
       "url": "https://open.spotify.com/track/7dkXnwn1iKD6DZ28gA5OY5"
+    },
+    {
+      "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/7zV7gDophcjhvTynWSI9ju"
+      },
+      "artists": [
+        {
+          "name": "Michael Janzen",
+          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148002,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/4DHmQW2gtRc4Gx991GZrsS"
     },
     {
       "album": {
@@ -745,7 +760,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 152727,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/6lNQuXMNa4qdkny0gzgbeV"
@@ -833,6 +848,24 @@
       "duration_ms": 231933,
       "name": "O Tannenbaum, du tr\u00e4gst ein\u2019 gr\u00fcnen Zweig (Arr. Hoffmann & Grabe for Harp)",
       "url": "https://open.spotify.com/track/74u9Z0LqZHsjIjLn8whyjx"
+    },
+    {
+      "album": {
+        "name": "Oh Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k"
+      },
+      "artists": [
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Oh Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R"
     },
     {
       "album": {
@@ -936,6 +969,24 @@
     },
     {
       "album": {
+        "name": "John Rutter: The Colours of Christmas",
+        "url": "https://open.spotify.com/album/5EQU41n7Lj7OAn0wuRMwGt"
+      },
+      "artists": [
+        {
+          "name": "John Lenehan",
+          "url": "https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177017,
+      "name": "Rutter: The Colours of Christmas - Arr. for Piano by John Lenehan",
+      "url": "https://open.spotify.com/track/5hxJyjM1uI60T8xJB5U4yg"
+    },
+    {
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/0OB5qNV3Nk6lbZpWNQI8jA"
       },
@@ -1021,8 +1072,8 @@
       },
       "artists": [
         {
-          "name": "Elliott Jacqu\u00e9s",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/3umCEdMTP9fjBnfclPxi1Z"
         }
       ],
       "date_added": "2022-10-07",

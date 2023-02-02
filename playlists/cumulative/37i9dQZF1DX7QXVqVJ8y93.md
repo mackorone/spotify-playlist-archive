@@ -4,7 +4,7 @@
 
 > You might want to leave a light on when listening to these chilling performances of H\. P\. Lovecraft's horror fiction....
 
-63 songs - 23 hr 59 min - [published](https://open.spotify.com/playlist/5Y48399fEY2c02Sph2fu1z)
+63 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

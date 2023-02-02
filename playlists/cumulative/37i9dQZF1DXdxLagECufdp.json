@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Fanfarrias y ritmos clown para gozar las tragicomedias de la vida",
-  "name": "Circo Gitano",
-  "published_playlist_ids": [
-    "1ClIe19M3uxxR397slRi95"
-  ],
+  "description": "Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.",
+  "name": "Balkanista Circus",
   "tracks": [
     {
       "album": {
@@ -70,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Radio Cortex 2",
+        "url": "https://open.spotify.com/album/43okl0zDTPNLy226YoY58X"
+      },
+      "artists": [
+        {
+          "name": "R.Wan",
+          "url": "https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "A pic",
+      "url": "https://open.spotify.com/track/229qb30DJB2xQM4Mgt3muY"
+    },
+    {
+      "album": {
         "name": "Sing-Along Songs for the Damned and Delirious",
         "url": "https://open.spotify.com/album/36j0yWKLk5a6rLgJEhUghU"
       },
@@ -81,10 +96,32 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 312333,
       "name": "A Tapdancer's Dilema",
       "url": "https://open.spotify.com/track/3RJtaxRtxOvvIj6DESm4gh"
+    },
+    {
+      "album": {
+        "name": "Balkan Beat Box",
+        "url": "https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2"
+      },
+      "artists": [
+        {
+          "name": "Balkan Beat Box",
+          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
+        },
+        {
+          "name": "Victoria Hanna",
+          "url": "https://open.spotify.com/artist/5nVeL2VpRWBOmH5oN8nuqv"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319866,
+      "name": "Adir Adirim (feat. Victoria Hanna)",
+      "url": "https://open.spotify.com/track/6VxSZtJSur7288x4F6Ky2S"
     },
     {
       "album": {
@@ -99,7 +136,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 202946,
       "name": "Annyit ittam / Drunk of Sorrow",
       "url": "https://open.spotify.com/track/007XTE3Ua8JVzxW8bGwPwb"
@@ -241,7 +278,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 217572,
       "name": "Bella Ciao (Goodbye Beautiful)",
       "url": "https://open.spotify.com/track/1Lf4Dp7RTPwNI1pw9uOLrK"
@@ -263,6 +300,42 @@
       "duration_ms": 225800,
       "name": "Bella ciao - Live, Rome / 2016",
       "url": "https://open.spotify.com/track/64ATEI3hHvVfzTES9d4sgt"
+    },
+    {
+      "album": {
+        "name": "Muzika Iz Filma \"Crna Macka Beli Macor\"",
+        "url": "https://open.spotify.com/album/5IbXHF05fEGWn70rtON4ZZ"
+      },
+      "artists": [
+        {
+          "name": "Dr Nele Karajlic",
+          "url": "https://open.spotify.com/artist/6S93eD0WtHS03m2IdOdlsx"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235032,
+      "name": "Bubamara (Main Version)",
+      "url": "https://open.spotify.com/track/6lFMUE3wCWMxw63N0GKeUJ"
+    },
+    {
+      "album": {
+        "name": "Shantology // The Bucovina Club Years",
+        "url": "https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b"
+      },
+      "artists": [
+        {
+          "name": "Shantel",
+          "url": "https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "Bucovina",
+      "url": "https://open.spotify.com/track/5cBHEbHIhZ6o4xkVqnxygC"
     },
     {
       "album": {
@@ -321,7 +394,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 169040,
       "name": "Cantina Band",
       "url": "https://open.spotify.com/track/0SMP8lyL82dgrmahST61tc"
@@ -375,7 +448,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 209746,
       "name": "Clandestina - Spotify Singles",
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
@@ -429,7 +502,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 189199,
       "name": "Constelaci\u00f3n",
       "url": "https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a"
@@ -501,7 +574,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 169786,
       "name": "Cumbia Klezmer",
       "url": "https://open.spotify.com/track/2bsNIf7cT3PYRriUSNcnck"
@@ -737,7 +810,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 209402,
       "name": "Estos Celos",
       "url": "https://open.spotify.com/track/4d51QRhki1EM2qaNYYjfvK"
@@ -759,6 +832,24 @@
       "duration_ms": 195832,
       "name": "Fight Back Sisters",
       "url": "https://open.spotify.com/track/3QbYl04MfAbhQCNOBqeiqh"
+    },
+    {
+      "album": {
+        "name": "Fin de Fiesta",
+        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101818,
+      "name": "Fin de Fiesta",
+      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
     },
     {
       "album": {
@@ -809,10 +900,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-07",
       "duration_ms": 184453,
       "name": "Gas Gas",
       "url": "https://open.spotify.com/track/19Ah7Hh26xdpgaXVv0sEJo"
+    },
+    {
+      "album": {
+        "name": "BalkanBeats Soundlab",
+        "url": "https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y"
+      },
+      "artists": [
+        {
+          "name": "Deladap",
+          "url": "https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221973,
+      "name": "Georgian Lessons 1-6",
+      "url": "https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht"
     },
     {
       "album": {
@@ -845,7 +954,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 239306,
       "name": "Gopher",
       "url": "https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD"
@@ -946,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "More Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6ZaAmEOGxNs0L0xeduBc3S"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 338426,
+      "name": "International Jet Set - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7MrViz9E9dqO44F0PIbRI1"
+    },
+    {
+      "album": {
         "name": "Orquesta 24 Cuadros",
         "url": "https://open.spotify.com/album/1WuZDwTJJHCPc4CABJD8Ku"
       },
@@ -975,7 +1102,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 176778,
       "name": "Just the Two of Us - Borat Version",
       "url": "https://open.spotify.com/track/3vlX8DYLjmo7tzGeNBSVoG"
@@ -1023,6 +1150,42 @@
       "duration_ms": 262926,
       "name": "Karnaval",
       "url": "https://open.spotify.com/track/0QoKi5HQm7srBiovlTpTws"
+    },
+    {
+      "album": {
+        "name": "R\u00e1v\u00e1gok A Zongor\u00e1ra/Hit The Piano",
+        "url": "https://open.spotify.com/album/1b9GWIbKBQLRCAXFhLOHgA"
+      },
+      "artists": [
+        {
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207240,
+      "name": "Khade sukar / How Beautiful",
+      "url": "https://open.spotify.com/track/7eKAyiTCUGL9e4JpF63iep"
+    },
+    {
+      "album": {
+        "name": "Devla",
+        "url": "https://open.spotify.com/album/1w1BcVgQEOkWma7R7NhkFx"
+      },
+      "artists": [
+        {
+          "name": "Boban i Marko Markovic Orkestar",
+          "url": "https://open.spotify.com/artist/45NfIph232CCNfn07NoSbs"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225066,
+      "name": "Khelipe Cheasa",
+      "url": "https://open.spotify.com/track/0ejUrxuNZlxET3wuoepkXa"
     },
     {
       "album": {
@@ -1326,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "L\u00ebk\u00efx\u00ef \u00cbjts",
+        "url": "https://open.spotify.com/album/36Rcp540rFEhN1QkTdmQv1"
+      },
+      "artists": [
+        {
+          "name": "LOS PREAM",
+          "url": "https://open.spotify.com/artist/2YSwwTeuf7ytDyxsSEpylH"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272960,
+      "name": "L\u00ebk\u00efx\u00ef \u00cbjts",
+      "url": "https://open.spotify.com/track/5BQQ6iaZ16xhI46IvlBUVQ"
+    },
+    {
+      "album": {
         "name": "Shantology // The Bucovina Club Years",
         "url": "https://open.spotify.com/album/3pHFRveyl26dcZd4F3sX6b"
       },
@@ -1413,7 +1594,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 225813,
       "name": "Marrakumbiah",
       "url": "https://open.spotify.com/track/45X61WpnNpZopCO92ZwKdw"
@@ -1739,7 +1920,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 211616,
       "name": "Oh My Girl - French Version",
       "url": "https://open.spotify.com/track/6d2AYwXli3hQpnLyg1cfvl"
@@ -1815,7 +1996,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 217346,
       "name": "Pa' Bailar (Siempre Quiero Mas)",
       "url": "https://open.spotify.com/track/33bj2sNF5xk3oeFnyMfc0s"
@@ -1881,6 +2062,24 @@
       "duration_ms": 256810,
       "name": "Palinka",
       "url": "https://open.spotify.com/track/5A4bNWDzBFd6cfGrREE2Fo"
+    },
+    {
+      "album": {
+        "name": "Katla",
+        "url": "https://open.spotify.com/album/5B59wDL9L6PQxsWWnYtrk9"
+      },
+      "artists": [
+        {
+          "name": "Amsterdam Klezmer Band",
+          "url": "https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189732,
+      "name": "Papa Chajes",
+      "url": "https://open.spotify.com/track/0xW2mOUr00euj1d3hxW0lM"
     },
     {
       "album": {
@@ -1957,7 +2156,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-31",
       "duration_ms": 285208,
       "name": "Pastelito De Pi\u00f1a",
       "url": "https://open.spotify.com/track/5vniH12f4XPDvlVJLtcOl7"
@@ -1997,6 +2196,24 @@
       "duration_ms": 207093,
       "name": "Pharoah's Dreams",
       "url": "https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY"
+    },
+    {
+      "album": {
+        "name": "Mambo Ska",
+        "url": "https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne"
     },
     {
       "album": {
@@ -2261,10 +2478,36 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 299767,
       "name": "The Revenge - Juan Vel\u00e1zquez Dub Mix",
       "url": "https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc"
+    },
+    {
+      "album": {
+        "name": "Morgenlandfahrt",
+        "url": "https://open.spotify.com/album/5yOdpBaqNL30wYZNaAa9bI"
+      },
+      "artists": [
+        {
+          "name": "[dunkelbunt]",
+          "url": "https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3"
+        },
+        {
+          "name": "Harry Stojka",
+          "url": "https://open.spotify.com/artist/3UoFXEOzD4kf5aPTplFX5c"
+        },
+        {
+          "name": "The Cat Empire",
+          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339493,
+      "name": "The Stojka Empire",
+      "url": "https://open.spotify.com/track/1jijW2TdA9x8XDrsQIPv7N"
     },
     {
       "album": {
@@ -2304,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "Pel\u00edcula Muda, Pt. 1",
+        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Vamos a Morir",
+      "url": "https://open.spotify.com/track/2IFFqBY6Khw7vgVezoXXkY"
+    },
+    {
+      "album": {
         "name": "Venta de Garage",
         "url": "https://open.spotify.com/album/26AV7JeU31YDonbgWLd81j"
       },
@@ -2323,6 +2588,24 @@
       "duration_ms": 162325,
       "name": "Venta de Garage",
       "url": "https://open.spotify.com/track/7Me7yGFf1KinwnV6tcBUf0"
+    },
+    {
+      "album": {
+        "name": "Life Is A Miracle",
+        "url": "https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje"
+      },
+      "artists": [
+        {
+          "name": "Emir Kusturica & The No Smoking Orchestra",
+          "url": "https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252386,
+      "name": "When Life Was A Miracle - 'Life Is A Miracle' Original Soundtrack",
+      "url": "https://open.spotify.com/track/5J9r1cpWmKZOdysqJ5fKUn"
     },
     {
       "album": {

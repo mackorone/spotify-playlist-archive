@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
   "name": "This Is Banda Los Recoditos",
-  "published_playlist_ids": [
-    "599My5faYT8agbHqdiqdXn"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 155573,
       "name": "Amores Fingidos",
       "url": "https://open.spotify.com/track/4J3miVgH4SeSdYf1SN8lB1"
@@ -625,6 +622,28 @@
       "duration_ms": 163560,
       "name": "Mi \u00daltimo Deseo",
       "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+    },
+    {
+      "album": {
+        "name": "Mi \u00daltimo Deseo",
+        "url": "https://open.spotify.com/album/6I8efdU2wPu46QxwGcsPqD"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "Mi \u00datimo Deseo",
+      "url": "https://open.spotify.com/track/5DbHwG8J096GjmUPDXCIo1"
     },
     {
       "album": {

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Neighborhood Storytellers. Cover: Lil Tjay",
+  "description": "Neighborhood Storytellers. Cover: NoCap",
   "name": "Street Soul",
-  "published_playlist_ids": [
-    "5n5KtY8h4kAoEatkpfvbQd"
-  ],
   "tracks": [
     {
       "album": {
@@ -321,7 +318,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 171996,
       "name": "Borderline (feat. EST Gee)",
       "url": "https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd"
@@ -455,7 +452,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 192000,
       "name": "Can't Lose (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2oX9VjMLgO8hYMZ3Mh4J8o"
@@ -509,7 +506,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 159053,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/1TgtXovH4948JNA4IpEp2d"
@@ -632,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Da Rant",
+        "url": "https://open.spotify.com/album/53jD3cyaN4StX9Vo0EV4dw"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "Da Rant",
+      "url": "https://open.spotify.com/track/6N8OxmReKE2Qg0SY2x6gDD"
+    },
+    {
+      "album": {
         "name": "Bigger Than Life Or Death (Deluxe)",
         "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
@@ -683,7 +698,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 242790,
       "name": "DNA",
       "url": "https://open.spotify.com/track/0f4Q3Akc01C02qHpqzAA2Q"
@@ -1088,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Green Hearts",
+        "url": "https://open.spotify.com/album/01r6VRmGUlX3zr4WFnzSNP"
+      },
+      "artists": [
+        {
+          "name": "Lil 50",
+          "url": "https://open.spotify.com/artist/0sHcYErCqRMKuFgW3ITQ7w"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157204,
+      "name": "Green Hearts",
+      "url": "https://open.spotify.com/track/51UCBlvZizsxw98H5QkNeh"
+    },
+    {
+      "album": {
         "name": "From The Bayou",
         "url": "https://open.spotify.com/album/2oyN9nzl627l8ZeovPo46F"
       },
@@ -1121,7 +1154,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 390861,
       "name": "Heaven For Thugs (Letter to Wap)",
       "url": "https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv"
@@ -1223,6 +1256,24 @@
       "duration_ms": 153117,
       "name": "How It Feels (feat. YNW BSlime)",
       "url": "https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG"
+    },
+    {
+      "album": {
+        "name": "IF I STOP NOW",
+        "url": "https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177011,
+      "name": "IF I STOP NOW",
+      "url": "https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH"
     },
     {
       "album": {
@@ -1455,7 +1506,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 142226,
       "name": "livin wild",
       "url": "https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU"
@@ -1477,6 +1528,24 @@
       "duration_ms": 142226,
       "name": "livin wild",
       "url": "https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25"
+    },
+    {
+      "album": {
+        "name": "Public Housing, Pt. 2",
+        "url": "https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166791,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/1DenbmzkT4hvnq1ltyBZBM"
     },
     {
       "album": {
@@ -1648,6 +1717,50 @@
     },
     {
       "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
+    },
+    {
+      "album": {
+        "name": "Miss U Already",
+        "url": "https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309363,
+      "name": "Miss U Already (feat. NoCap)",
+      "url": "https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC"
+    },
+    {
+      "album": {
         "name": "Missing Something",
         "url": "https://open.spotify.com/album/0joh96R5NbQ8U4Seyw6F6b"
       },
@@ -1728,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Results Take Time",
+        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239073,
+      "name": "Never Change (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/028z6THhAbIyaAhfDVDRIQ"
+    },
+    {
+      "album": {
         "name": "Never Change (feat. Roddy Ricch)",
         "url": "https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ"
       },
@@ -1743,7 +1878,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 239073,
       "name": "Never Change (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6"
@@ -1849,7 +1984,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 197446,
       "name": "Nobody (ft. Vory)",
       "url": "https://open.spotify.com/track/4XJwoV192ks89Tdd6VCpCu"
@@ -1967,6 +2102,28 @@
     {
       "album": {
         "name": "State of Emergency",
+        "url": "https://open.spotify.com/album/5ieJkFRIUKmwu4ltjL5fC5"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166830,
+      "name": "Patience (feat. NoCap)",
+      "url": "https://open.spotify.com/track/2KUoS9OMlDLszLly6JcJGi"
+    },
+    {
+      "album": {
+        "name": "State of Emergency",
         "url": "https://open.spotify.com/album/5tOj5H8wMh9GbkUBsthsgl"
       },
       "artists": [
@@ -2011,6 +2168,54 @@
       "duration_ms": 237262,
       "name": "Peepin Out The Window (with Future & Bslime)",
       "url": "https://open.spotify.com/track/03kozlqpm5twrblZia0m9j"
+    },
+    {
+      "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Esparo",
+          "url": "https://open.spotify.com/artist/5ZPKRdlxEfhf3p48Fmk8tS"
+        },
+        {
+          "name": "Booka600",
+          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157135,
+      "name": "Please Breathe",
+      "url": "https://open.spotify.com/track/62ImrXs50nRmDyg1lAsE8W"
+    },
+    {
+      "album": {
+        "name": "Portland 2",
+        "url": "https://open.spotify.com/album/48V6VMvomnJ47t1V0DnHvO"
+      },
+      "artists": [
+        {
+          "name": "ITS HAB",
+          "url": "https://open.spotify.com/artist/0yTmOWyk27vjls6vsyEVIV"
+        },
+        {
+          "name": "FCG Heem",
+          "url": "https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "Portland 2",
+      "url": "https://open.spotify.com/track/61I7Ajq0MfzwTtqMv2o7sI"
     },
     {
       "album": {
@@ -2174,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "The Main Bird",
+        "url": "https://open.spotify.com/album/4HWgWGP0wqldO7kuOGVkEo"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192078,
+      "name": "Rich And Dangerous",
+      "url": "https://open.spotify.com/track/1kgPrqOpwzDDdvufXCksaq"
+    },
+    {
+      "album": {
         "name": "Rich How I'm Dyin",
         "url": "https://open.spotify.com/album/5L7WF303YbVt8FUDudC5xF"
       },
@@ -2215,6 +2438,24 @@
       "duration_ms": 235014,
       "name": "Rich Off Pain (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
+    },
+    {
+      "album": {
+        "name": "Kevo Muney x Lil Muney",
+        "url": "https://open.spotify.com/album/05hifYLh6LdKxKcUjobidF"
+      },
+      "artists": [
+        {
+          "name": "Kevo Muney",
+          "url": "https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160993,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/0LC77EC3n9274WTLFDtw1v"
     },
     {
       "album": {
@@ -2335,7 +2576,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 156000,
       "name": "Save The Day (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp"
@@ -2459,6 +2700,24 @@
       "duration_ms": 147400,
       "name": "Silent (feat. Blac Youngsta)",
       "url": "https://open.spotify.com/track/5A8KtfonuRHv6EHr5Ofekq"
+    },
+    {
+      "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Hypno Carlito",
+          "url": "https://open.spotify.com/artist/0ZVsDtaeXZtLz3qyVFViX4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188670,
+      "name": "Silly Rabbit",
+      "url": "https://open.spotify.com/track/5tJcWfPRu4K4jTFc4CTvSI"
     },
     {
       "album": {
@@ -2615,7 +2874,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 175750,
       "name": "Static Rain (feat. Birdy)",
       "url": "https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ"
@@ -2791,7 +3050,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 230526,
       "name": "Tez & Tone 1",
       "url": "https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl"
@@ -3133,7 +3392,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"

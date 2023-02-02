@@ -4,7 +4,7 @@
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/0v7ewmQNytq2VYWVURbSi0)
+49 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

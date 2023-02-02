@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 125922,
+  "num_followers": 138121,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDgzMTIwMmMxZTA5ZTU5YTlmZDE5NjFkYjE5YWQ0ZDM0",
+  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMGM2Nzg4MTA2ZGZkY2JhZjJkYTA2Yjc2MDljZDk0ZGFk",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Papas & The Mamas",
-        "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Dream A Little Dream Of Me",
-      "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 155306,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Papas & The Mamas",
+        "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "Bee Gees' 1st",
+        "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -183,38 +199,6 @@
       "duration_ms": 160906,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Bee Gees' 1st",
-        "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -251,18 +235,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
         }
       ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -283,6 +267,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "The Very Best Of \"The Archies\"",
         "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 167186,
       "name": "Sugar, Sugar",
       "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 160864,
+      "name": "Will You Love Me Tomorrow",
+      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -347,22 +363,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 160864,
-      "name": "Will You Love Me Tomorrow",
-      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -395,6 +395,38 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "Mr. Soul",
+        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "Nothing Can Change This Love",
+      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "It Might As Well Be Swing",
         "url": "https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH"
       },
@@ -415,18 +447,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Kim Weston",
+          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
         }
       ],
-      "duration_ms": 163680,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
+      "duration_ms": 177666,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -463,58 +499,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kim Weston",
-          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Deliver",
         "url": "https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp"
       },
@@ -527,38 +511,6 @@
       "duration_ms": 178733,
       "name": "Dedicated To The One I Love",
       "url": "https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Horizontal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Mr. Soul",
-        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "Nothing Can Change This Love",
-      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -579,18 +531,34 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+        "name": "Horizontal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
       },
       "artists": [
         {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 200906,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+      "duration_ms": 198453,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -615,6 +583,38 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "I Get The Sweetest Feeling",
         "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
@@ -627,6 +627,58 @@
       "duration_ms": 178373,
       "name": "I Get The Sweetest Feeling",
       "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Sentimentally Yours",
+        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -647,18 +699,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+        "name": "How Sweet It Is To Be Loved By You",
+        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
       },
       "artists": [
         {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 170786,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
+      "duration_ms": 177773,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -711,22 +763,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Latin Ala Lee",
         "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
       },
@@ -739,58 +775,6 @@
       "duration_ms": 151973,
       "name": "Till There Was You - Remastered",
       "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "How Sweet It Is To Be Loved By You",
-        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Sentimentally Yours",
-        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "My Cherie",
-        "url": "https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0"
-      },
-      "artists": [
-        {
-          "name": "Al Martino",
-          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Spanish Eyes",
-      "url": "https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -811,6 +795,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "My Cherie",
+        "url": "https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Spanish Eyes",
+      "url": "https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 168093,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "All-Time Greatest Hits & More 1959-1965",
-        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -911,6 +895,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "All-Time Greatest Hits & More 1959-1965",
+        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "The Sound Of Love: The Very Best Of Darlene Love",
         "url": "https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "I Love How You Love Me",
-        "url": "https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z"
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
       "artists": [
         {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 150066,
-      "name": "I Love How You Love Me",
-      "url": "https://open.spotify.com/track/6wceQSqQDvdcw0cMNKdp7s"
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+        "name": "I Love How You Love Me",
+        "url": "https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+      "duration_ms": 150066,
+      "name": "I Love How You Love Me",
+      "url": "https://open.spotify.com/track/6wceQSqQDvdcw0cMNKdp7s"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "#1 Radio Hits of the 60's",
-        "url": "https://open.spotify.com/album/4o3sNKvKE9yfyhMVm6oSg3"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
       },
       "artists": [
         {
-          "name": "Paul & Paula",
-          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
         }
       ],
-      "duration_ms": 151066,
-      "name": "Hey Paula - Single Version",
-      "url": "https://open.spotify.com/track/6MpCxTJNdkHIpvQRuID8zU"
+      "duration_ms": 165173,
+      "name": "Lady Willpower",
+      "url": "https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -1075,38 +1075,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
-      },
-      "artists": [
-        {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "Lady Willpower",
-      "url": "https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Young Ones",
         "url": "https://open.spotify.com/album/07UPkUx165h6EttjbOjguo"
       },
@@ -1119,6 +1087,22 @@
       "duration_ms": 143693,
       "name": "When the Girl in Your Arms Is the Girl in Your Heart - 2005 Remaster",
       "url": "https://open.spotify.com/track/1jJVls8580ru1Glnumcyig"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Best of Sam & Dave",
-        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
       },
       "artists": [
         {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 194106,
-      "name": "When Something Is Wrong with My Baby",
-      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
+      "duration_ms": 155733,
+      "name": "Come Closer to Me",
+      "url": "https://open.spotify.com/track/4vH7AAArSCrfS9HwM7t6yb"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -1171,18 +1155,34 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Spanish Harlem",
-        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
+        "name": "Hey Paula",
+        "url": "https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh"
       },
       "artists": [
         {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+          "name": "Paul & Paula",
+          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
         }
       ],
-      "duration_ms": 155733,
-      "name": "Come Closer to Me",
-      "url": "https://open.spotify.com/track/4vH7AAArSCrfS9HwM7t6yb"
+      "duration_ms": 146944,
+      "name": "Hey Paula",
+      "url": "https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Best of Sam & Dave",
+        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "When Something Is Wrong with My Baby",
+      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
     },
     {
       "added_at": "2022-05-30 13:02:24",

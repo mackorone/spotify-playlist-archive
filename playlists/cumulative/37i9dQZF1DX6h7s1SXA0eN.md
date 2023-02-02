@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-99 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/35BxVuk2IVvbzeuyIpcjEy)
+99 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

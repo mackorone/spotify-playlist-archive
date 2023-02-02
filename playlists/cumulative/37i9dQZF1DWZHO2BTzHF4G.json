@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Rock that was on repeat during the summers of the 2000s.",
   "name": "00s Summer Rock",
-  "published_playlist_ids": [
-    "6dFdmMiL6Go999QqBaJzZR"
-  ],
   "tracks": [
     {
       "album": {
@@ -541,7 +538,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252213,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5mVjSxIfzdQrH5K0w5NPAf"
@@ -559,7 +556,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 252279,
       "name": "Fire",
       "url": "https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf"
@@ -1121,7 +1118,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 221946,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY"
@@ -1143,6 +1140,42 @@
       "duration_ms": 222453,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/64IcdRqfcN5rwqSqJpQDDe"
+    },
+    {
+      "album": {
+        "name": "Razorwhat? The Best Of Razorlight",
+        "url": "https://open.spotify.com/album/5ukcsAk1XLdl0dRIKE6D8L"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223091,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/2VfqriSJNnNAWTsRwFPVtV"
+    },
+    {
+      "album": {
+        "name": "Razorwhat? The Best Of Razorlight",
+        "url": "https://open.spotify.com/album/1VcnPXc0VNSTCsz5FwvdQj"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 223091,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/7dpQuMhLvm1CxlSnyXYdzG"
     },
     {
       "album": {

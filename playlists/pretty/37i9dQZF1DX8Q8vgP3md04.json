@@ -1,13 +1,29 @@
 {
   "description": "Hit music from Ethiopia's finest.",
-  "num_followers": 13438,
+  "num_followers": 14368,
   "original_name": "Ethio-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyOTU0MCwwMDAwMDAwMDNlZTQ1YzhhNjYwYTAyMmE3YzExNTEyODllMjQzOTVh",
+  "snapshot_id": "MTY3MDg1MDQ5OSwwMDAwMDAwMGFjNGQ5OWNjOWQxMTBlODQ5ZGJlZTcxMjRiY2ZiNGM4",
   "tracks": [
+    {
+      "added_at": "2022-12-12 13:08:19",
+      "album": {
+        "name": "Bayish",
+        "url": "https://open.spotify.com/album/1O5cvXeKsXahndfs5KDAnA"
+      },
+      "artists": [
+        {
+          "name": "Dagi D",
+          "url": "https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp"
+        }
+      ],
+      "duration_ms": 245934,
+      "name": "Bayish",
+      "url": "https://open.spotify.com/track/576KoTxxx3Ap5jOMU9AO0T"
+    },
     {
       "added_at": "2022-11-17 23:59:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 206298,
       "name": "Tewedaj",
       "url": "https://open.spotify.com/track/4FHNogeGpRbEFRlLCqw1GH"
+    },
+    {
+      "added_at": "2022-12-12 13:08:19",
+      "album": {
+        "name": "Darm Yelat",
+        "url": "https://open.spotify.com/album/5WbVCGdmMmWVjCbR64FghT"
+      },
+      "artists": [
+        {
+          "name": "Nahom Mekuria",
+          "url": "https://open.spotify.com/artist/3zFxJvpOzvb6aD0Lvk96he"
+        }
+      ],
+      "duration_ms": 197473,
+      "name": "Darm Yelat",
+      "url": "https://open.spotify.com/track/6SVoDXBSU1eZKRdokV2yaT"
     },
     {
       "added_at": "2018-10-04 10:38:09",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K"
     },
     {
+      "added_at": "2022-12-12 13:08:19",
+      "album": {
+        "name": "Debdabew",
+        "url": "https://open.spotify.com/album/6EnCinWmYu4RLO4hHfK593"
+      },
+      "artists": [
+        {
+          "name": "Jacky Gosee",
+          "url": "https://open.spotify.com/artist/1ZS1gBpPCK7yHhFjwTwxGh"
+        }
+      ],
+      "duration_ms": 239536,
+      "name": "Debdabew",
+      "url": "https://open.spotify.com/track/3SZkTKou5arG4fI4O2krPE"
+    },
+    {
       "added_at": "2022-11-17 23:59:00",
       "album": {
         "name": "Aynama",
@@ -123,22 +171,6 @@
       "duration_ms": 330489,
       "name": "Maalan Jira",
       "url": "https://open.spotify.com/track/3X7RnmGwyfOy2Qr5nn1u1i"
-    },
-    {
-      "added_at": "2018-10-04 10:38:09",
-      "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE"
-      },
-      "artists": [
-        {
-          "name": "Rophnan",
-          "url": "https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w"
-        }
-      ],
-      "duration_ms": 259130,
-      "name": "Lingerish",
-      "url": "https://open.spotify.com/track/3bGYH5jipEhhVSQtCek73t"
     },
     {
       "added_at": "2018-10-04 10:38:09",
@@ -223,6 +255,22 @@
       "duration_ms": 207333,
       "name": "Shemuna",
       "url": "https://open.spotify.com/track/4PrrAmcyo4P6NBivJ8OlZF"
+    },
+    {
+      "added_at": "2022-12-12 13:08:19",
+      "album": {
+        "name": "Jegna",
+        "url": "https://open.spotify.com/album/0t3z1KzzscbB49f6U3btUQ"
+      },
+      "artists": [
+        {
+          "name": "Mastewal Eyayu",
+          "url": "https://open.spotify.com/artist/2ycWMnbSfkoPNAjXvo1BvP"
+        }
+      ],
+      "duration_ms": 362163,
+      "name": "Jegna",
+      "url": "https://open.spotify.com/track/6iQkqugtqS7wC5FWOTlQ98"
     },
     {
       "added_at": "2018-10-04 10:38:09",
@@ -319,22 +367,6 @@
       "duration_ms": 380419,
       "name": "Mulatu",
       "url": "https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt"
-    },
-    {
-      "added_at": "2018-10-04 10:38:09",
-      "album": {
-        "name": "Betam New Emiwodish",
-        "url": "https://open.spotify.com/album/1q9LnwtvnZa3dEMPYxmpkQ"
-      },
-      "artists": [
-        {
-          "name": "Dawit Tsige",
-          "url": "https://open.spotify.com/artist/1RGs3nQP5xobRjF7Kl00kJ"
-        }
-      ],
-      "duration_ms": 338364,
-      "name": "Betam New Emewodish",
-      "url": "https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X"
     },
     {
       "added_at": "2018-10-04 10:38:09",
@@ -465,22 +497,6 @@
       "url": "https://open.spotify.com/track/0RpIZYbiYCUhct3IID6Ty2"
     },
     {
-      "added_at": "2018-10-04 10:38:09",
-      "album": {
-        "name": "Zaray Yehun Nege",
-        "url": "https://open.spotify.com/album/18uNT4E2ZaHcx5tLOoX1EH"
-      },
-      "artists": [
-        {
-          "name": "Lij Michael",
-          "url": "https://open.spotify.com/artist/0HLyF2eZjPgqtyMp3pwxce"
-        }
-      ],
-      "duration_ms": 220746,
-      "name": "Zemenay Mariye",
-      "url": "https://open.spotify.com/track/5pCITb1hiPJhRAGlh42hIC"
-    },
-    {
       "added_at": "2019-11-25 12:46:00",
       "album": {
         "name": "Rega",
@@ -583,22 +599,6 @@
       "duration_ms": 373640,
       "name": "Konjo Bager",
       "url": "https://open.spotify.com/track/0YMIDzzUtGmPVGMhBXDkzB"
-    },
-    {
-      "added_at": "2018-10-04 10:38:09",
-      "album": {
-        "name": "Mengedegna",
-        "url": "https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3"
-      },
-      "artists": [
-        {
-          "name": "Kako Getachew",
-          "url": "https://open.spotify.com/artist/5SI6CCJiUtG5IUYdR45iBu"
-        }
-      ],
-      "duration_ms": 293384,
-      "name": "Gude",
-      "url": "https://open.spotify.com/track/4h3xIy5sNOJ2sPGcyVIRsd"
     },
     {
       "added_at": "2018-10-04 10:38:09",
@@ -848,7 +848,7 @@
       "added_at": "2020-06-05 12:00:08",
       "album": {
         "name": "Lageba New",
-        "url": "https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW"
+        "url": "https://open.spotify.com/album/1cLOZ7hjPx1d5qWUK1ImXY"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS"
         }
       ],
-      "duration_ms": 221681,
+      "duration_ms": 217000,
       "name": "Lageba New",
-      "url": "https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV"
+      "url": "https://open.spotify.com/track/3dUwM1SPDO9WtawRzN1otb"
     },
     {
       "added_at": "2020-06-05 12:00:08",

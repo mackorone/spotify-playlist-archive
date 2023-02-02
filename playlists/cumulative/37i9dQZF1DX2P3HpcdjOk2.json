@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "The best of 70s Glam Rock. Cover: David Bowie.",
   "name": "Glam Rock",
-  "published_playlist_ids": [
-    "4FfOxrkgxYIrMVTmN0HiSb"
-  ],
   "tracks": [
     {
       "album": {
@@ -289,7 +286,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 176680,
       "name": "Dyna-Mite",
       "url": "https://open.spotify.com/track/25ONd5KLodHeHOvALtWG1T"
@@ -513,6 +510,24 @@
       "duration_ms": 225000,
       "name": "Mama Weer All Crazee Now",
       "url": "https://open.spotify.com/track/2Gp23sr178DBntGtqKnJez"
+    },
+    {
+      "album": {
+        "name": "The Slider",
+        "url": "https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 149706,
+      "name": "Metal Guru",
+      "url": "https://open.spotify.com/track/4KcE3At063Xyleg2xGzVYz"
     },
     {
       "album": {
@@ -923,7 +938,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 171826,
       "name": "The Wild One - Single Version",
       "url": "https://open.spotify.com/track/7ukFfm4TZOSwrnz2wxp4mG"

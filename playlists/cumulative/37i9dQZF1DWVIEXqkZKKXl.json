@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Background scores to help you sail through the day",
   "name": "Bollywood Themes",
-  "published_playlist_ids": [
-    "5ffbZDKT29D992GCzH9rQa"
-  ],
   "tracks": [
     {
       "album": {
@@ -157,7 +154,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-02-01",
       "duration_ms": 417706,
       "name": "Cherrapunji Instrumental - Bheeg Gaya Mera Mann",
       "url": "https://open.spotify.com/track/1YuyMJ3BfzJnAgm5uZiUiA"
@@ -197,7 +194,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 311916,
       "name": "Crush The Rebels",
       "url": "https://open.spotify.com/track/5JES4hDzGsLOzfPQFpB9Uj"
@@ -375,7 +372,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 183366,
       "name": "Hanuman Theme",
       "url": "https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ"
@@ -472,6 +469,36 @@
     },
     {
       "album": {
+        "name": "Pathaan",
+        "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
+      },
+      "artists": [
+        {
+          "name": "Sanchit Balhara",
+          "url": "https://open.spotify.com/artist/0LOdQDBSB8NYPykI3REezj"
+        },
+        {
+          "name": "Ankit Balhara",
+          "url": "https://open.spotify.com/artist/2FtpR8FWlo2HsessGvWxRg"
+        },
+        {
+          "name": "Maanya Narang",
+          "url": "https://open.spotify.com/artist/4w2jz1YbgRMZp6B4USUftt"
+        },
+        {
+          "name": "Riya Duggal",
+          "url": "https://open.spotify.com/artist/5goNlHuuRk93uDY86KcLET"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71873,
+      "name": "Jim\u2019s Theme",
+      "url": "https://open.spotify.com/track/067vgMqZQ7GdBeRc98bwev"
+    },
+    {
+      "album": {
         "name": "Ghajini",
         "url": "https://open.spotify.com/album/1bakFVqPdxrSCSZI2HUGhJ"
       },
@@ -483,7 +510,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 241557,
       "name": "Kaise Mujhe (Instrumental)",
       "url": "https://open.spotify.com/track/02nOZG5WrxCHEYbjjxeZQf"
@@ -765,6 +792,36 @@
       "duration_ms": 56905,
       "name": "Om Shanti Om (Instrumental)",
       "url": "https://open.spotify.com/track/4kqUlN3craCx3ZIBIfhp2X"
+    },
+    {
+      "album": {
+        "name": "Pathaan",
+        "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
+      },
+      "artists": [
+        {
+          "name": "Sanchit Balhara",
+          "url": "https://open.spotify.com/artist/0LOdQDBSB8NYPykI3REezj"
+        },
+        {
+          "name": "Ankit Balhara",
+          "url": "https://open.spotify.com/artist/2FtpR8FWlo2HsessGvWxRg"
+        },
+        {
+          "name": "Magdalena Supel",
+          "url": "https://open.spotify.com/artist/5n0sgDuAJmQiacddjwwG5d"
+        },
+        {
+          "name": "Kit Bee",
+          "url": "https://open.spotify.com/artist/0V3THFCdrDqATp2dnLAQF7"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157141,
+      "name": "Pathaan\u2019s Theme",
+      "url": "https://open.spotify.com/track/7l00c4RIiRh9MngY4Mt6jG"
     },
     {
       "album": {
@@ -1329,7 +1386,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 320320,
       "name": "Yeh Haseen Vadiyan Yeh Khula Aasman - Instrumental",
       "url": "https://open.spotify.com/track/68DE17nfr7aDHWzI4flDAh"

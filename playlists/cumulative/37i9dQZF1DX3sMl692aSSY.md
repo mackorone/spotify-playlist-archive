@@ -4,7 +4,7 @@
 
 > A fresh and varied selection of nonfiction — updated weekly.
 
-59 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/1KkFaAMKqFAqBi2khqaIC3)
+59 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

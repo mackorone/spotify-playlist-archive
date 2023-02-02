@@ -4,7 +4,7 @@
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-81 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/40EtmmoKx3q5lEn5K21rgp)
+81 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 | 2022-05-13 |  |
 | [Hard Times \(No One Knows Better Than I\)](https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Sings the Blues](https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a) | 2:55 | 2022-05-13 |  |
 | [Hastings St.](https://open.spotify.com/track/1XKAKEHIyELpnsZpFhxVhG) | [Charlie Spand](https://open.spotify.com/artist/0lPwDM5AWseYSBCpie9yVP) | [Dreaming The Blues: The Best Of Charlie Spand](https://open.spotify.com/album/7hBy7gNE6ilG7drOEx2g4q) | 3:15 | 2022-05-13 | 2022-07-29 |
-| [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 | 2022-05-13 |  |
+| [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/0lVQFNxu7zGoKxHCY3NnvP) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 | 2022-05-13 |  |
 | [Hastings Street](https://open.spotify.com/track/3XHOgVSMfP2WsS08dFcC9O) | [Charlie Spand](https://open.spotify.com/artist/0lPwDM5AWseYSBCpie9yVP), [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Got to Have My Sweetbread](https://open.spotify.com/album/5HSlwJlB6O7X22CgNdzo4q) | 3:15 | 2022-05-13 | 2022-11-13 |
 | [Hey Now Baby](https://open.spotify.com/track/3BDE7sDGBihu8EAIE21rto) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [The Bach of Rock](https://open.spotify.com/album/3XQzUwB49DzREHCMuFZz8s) | 5:44 | 2022-05-13 |  |
 | [Hey, Bartender](https://open.spotify.com/track/0eIvaD41ZuT8Eg5uDvfSKs) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ) | 3:25 | 2022-05-13 |  |

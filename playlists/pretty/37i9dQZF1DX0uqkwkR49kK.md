@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 ### [Prog Rock Monsters](https://open.spotify.com/playlist/37i9dQZF1DX0uqkwkR49kK)
 
-> A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
+> A collection of insane progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,999 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,380 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 43 | [The Trans\-Love Express](https://open.spotify.com/track/32pL34UN2nagbiO7ylp5C9) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Enigmatic Ocean](https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB) | 3:59 |
 | 44 | [Cat’s Eye / Yellow Fever \(Running\) \- Remastered 2021](https://open.spotify.com/track/4Q7lb11ZSnrM2HcEyFjp4S) | [Van Der Graaf Generator](https://open.spotify.com/artist/02frazNrWgZCxUEf4UTfHt) | [The Quiet Zone / The Pleasure Dome \(Deluxe\)](https://open.spotify.com/album/0ZWdAjzJtTrRoVFq4lh5fh) | 5:20 |
 | 45 | [You'd Better Believe It \- Live at Edmonton Sundown; 1996 Remaster](https://open.spotify.com/track/7JK2pAQZdftr92d6sBYaMg) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [Hall of the Mountain Grill](https://open.spotify.com/album/0CIh8QCK9o0mKyzzNWzjUZ) | 7:12 |
-| 46 | [The Drapery Falls](https://open.spotify.com/track/1kLXoAje5Z4mlZOAFgZZj3) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Blackwater Park](https://open.spotify.com/album/3CCkWrqhWcKU7qXK3ooEEo) | 10:52 |
+| 46 | [The Drapery Falls](https://open.spotify.com/track/3OhcMJk4hCebfDH1h4Z8mX) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Blackwater Park](https://open.spotify.com/album/7cMJfxkJwUAcxHCHQMNYYs) | 10:53 |
 | 47 | [A Sprinkling Of Clouds \- Remastered 2018](https://open.spotify.com/track/44mzt1ihrrKCoiCagN6R0G) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [You \(Deluxe Edition\)](https://open.spotify.com/album/6lj2wSd3gWooFc19K5xr4W) | 8:57 |
 | 48 | [Back into the Future](https://open.spotify.com/track/5SPHdEt1CjjBhVwIw6hocV) | [Man](https://open.spotify.com/artist/6XNNAZyTxhw3IRa0xyRBeo) | [Back Into The Future \(Expanded Edition\)](https://open.spotify.com/album/2olJXtqVKNEVNIyRA07hBA) | 4:06 |
 | 49 | [Take a Pebble \- 2012 Remaster](https://open.spotify.com/track/4iiXX8uEDA5UlVUKIDAZV2) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Emerson, Lake & Palmer](https://open.spotify.com/album/4A1vePlqDJtLjSqyWl2lLB) | 12:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 99 | [Tubular Bells \- Pt\. I](https://open.spotify.com/track/7ERSQrRptZVM7q3VOdM7OL) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 26:01 |
 | 100 | [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 |
 
-Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMDRjZjkzMmM2Yzg2MGFhMjg3NzVjYmE2NGUyNDE2MDM5`
+Snapshot ID: `MTY3MzQ1MzU3NCwwMDAwMDAwMGI5M2YwYzg1ZDhlZjQ2OTM5YjI1ZmM1ZTNkZTVmZWJi`

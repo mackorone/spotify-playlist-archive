@@ -4,7 +4,7 @@
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-98 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
+99 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Think It Over](https://open.spotify.com/track/09HKieZL31JLWTb2s5tm6I) | [Cissy Houston](https://open.spotify.com/artist/4QYDxx5VDqINxMtUapyF9q) | [Think It Over](https://open.spotify.com/album/477ByKrt9WjP3DOmVi9oTQ) | 5:54 | 2021-06-01 | 2022-06-01 |
 | [Victim Of Love \- Remastered](https://open.spotify.com/track/151LVGGcVL0RZJPBh1SIxn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:22 | 2021-06-01 | 2022-06-01 |
 | [Xanadu](https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45) | 3:28 | 2021-06-01 | 2022-07-29 |
-| [Xanadu](https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 3:28 | 2022-05-31 |  |
+| [Xanadu](https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 3:28 | 2022-05-31 | 2023-01-09 |
+| [Xanadu \- Remastered 2022](https://open.spotify.com/track/3PWRW1qah9497Zv68Tgxpl) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Olivia's Greatest Hits \(Vol\. 2 / Deluxe Edition / Remastered\)](https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby) | 3:26 | 2022-05-31 |  |
 | [Y.M.C.A.](https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Cruisin'](https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG) | 4:46 | 2022-05-31 |  |
 | [Y.M.C.A\. \- Single Version](https://open.spotify.com/track/7uhsX7VLjUqBUW32Nt9QRs) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [LOUD & PROUD: Club Classics](https://open.spotify.com/album/2Djoftst9PsHDHS4W3JqHU) | 4:48 | 2022-05-31 | 2022-11-13 |
 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 4:32 | 2022-05-31 |  |

@@ -4,7 +4,7 @@
 
 > The evening is here in Austin\. Time for some music to get it started all over again!
 
-41 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/4CSL7IO6OqriYliUZEe5j0)
+41 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "Focus with deep techno and tech house.",
   "name": "Beats to think to",
-  "published_playlist_ids": [
-    "2NF8nAjl3TnPE9TJlqKk6S"
-  ],
   "tracks": [
     {
       "album": {
@@ -139,6 +136,24 @@
       "duration_ms": 432500,
       "name": "Again Again",
       "url": "https://open.spotify.com/track/2iJww1ziO2P9wlKr45sEaf"
+    },
+    {
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "album": {
@@ -555,7 +570,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 394775,
       "name": "Barturator",
       "url": "https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3"
@@ -841,6 +856,24 @@
       "duration_ms": 521097,
       "name": "Breaking The Clouds",
       "url": "https://open.spotify.com/track/5dLkoocLN0wZPeV9NDMwlC"
+    },
+    {
+      "album": {
+        "name": "Breaking the Clouds",
+        "url": "https://open.spotify.com/album/0mmx0qlErLtzpePjmV8hgD"
+      },
+      "artists": [
+        {
+          "name": "Dapayk solo",
+          "url": "https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 521097,
+      "name": "Breaking the Clouds",
+      "url": "https://open.spotify.com/track/7ixzPzW6eNFwY3NK4b3tFV"
     },
     {
       "album": {
@@ -1459,7 +1492,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 192476,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
@@ -1886,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Fader",
+        "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
+      },
+      "artists": [
+        {
+          "name": "Casper Cole",
+          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373875,
+      "name": "Fader",
+      "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/5KsK6bcTOtDlGqFUT2DBsH"
       },
@@ -1959,6 +2010,24 @@
       "duration_ms": 413670,
       "name": "Film",
       "url": "https://open.spotify.com/track/19MErkArt6aqY5jz2mNjeU"
+    },
+    {
+      "album": {
+        "name": "Infinity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329032,
+      "name": "Find You Again",
+      "url": "https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB"
     },
     {
       "album": {
@@ -2045,7 +2114,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 406000,
       "name": "Flight Into the Void",
       "url": "https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz"
@@ -2615,7 +2684,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 409269,
       "name": "Infinitude",
       "url": "https://open.spotify.com/track/5qpSDeWOqd8Q2QcMbXEBi7"
@@ -3447,7 +3516,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-08",
       "duration_ms": 422079,
       "name": "Mistral",
       "url": "https://open.spotify.com/track/6AMaCNAI13urEVAfCpVPtm"
@@ -3737,7 +3806,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 253920,
       "name": "Night",
       "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
@@ -4129,6 +4198,28 @@
       "duration_ms": 390213,
       "name": "Perfect Fit",
       "url": "https://open.spotify.com/track/7f0OpNd7yIQ4XaUEGJKlF3"
+    },
+    {
+      "album": {
+        "name": "Petroleum (Fabio Vanore Remix)",
+        "url": "https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq"
+      },
+      "artists": [
+        {
+          "name": "Kris Davis",
+          "url": "https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY"
+        },
+        {
+          "name": "Fabio Vanore",
+          "url": "https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544957,
+      "name": "Petroleum - Fabio Vanore Remix",
+      "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
     },
     {
       "album": {
@@ -4587,6 +4678,24 @@
       "duration_ms": 479075,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+    },
+    {
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570543,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
     },
     {
       "album": {
@@ -5079,6 +5188,24 @@
       "duration_ms": 414053,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU"
+    },
+    {
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/65rnuhXDFFky9hBX3ZhkFX"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414053,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/6LuRwvdXDHoXfUyJICpR3z"
     },
     {
       "album": {
@@ -5665,7 +5792,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 232258,
       "name": "The Elder",
       "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
@@ -5799,7 +5926,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 210731,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
@@ -5985,6 +6112,24 @@
       "duration_ms": 295680,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
+    },
+    {
+      "album": {
+        "name": "Unfold Voices EP",
+        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391577,
+      "name": "Unfold Me",
+      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
     },
     {
       "album": {

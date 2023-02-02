@@ -4,7 +4,7 @@
 
 > Esta selección musical se te hará agua la boca.
 
-83 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/4GFgtQ6muqwEA78cKiRjck)
+85 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Febril Remanso](https://open.spotify.com/track/1HEYwf5sBT77R4Gys0GCxV) | [Daniel Drexler](https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk) | [Febril Remanso](https://open.spotify.com/album/7iI3cwNpOIQwgPeNac5hKP) | 3:43 | 2022-04-20 |  |
 | [Flotando](https://open.spotify.com/track/3xKDkBzjqWoHuuHLuiUJjY) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z), [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Flotando](https://open.spotify.com/album/4CyIt0V7u0MOWKRcZTOfAg) | 3:12 | 2022-04-20 |  |
 | [Flowers](https://open.spotify.com/track/6gCH48ApMfuvrbtedc1ID3) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Flowers](https://open.spotify.com/album/2N0sEHS8gQ0Lkc0BEhW4nO) | 2:54 | 2022-04-20 |  |
-| [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 | 2022-04-20 |  |
+| [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 | 2022-04-20 |  |
 | [Hola](https://open.spotify.com/track/44AObNRHjsG6s9MeGVjJrM) | [Velo Vela](https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K) | [Hola](https://open.spotify.com/album/0m6Zw2QEW2T1urAiv6yUeR) | 3:34 | 2022-04-20 |  |
 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 | 2022-04-20 |  |
 | [Juro Feat\. Los Rumberos \(Cap\. 3\)](https://open.spotify.com/track/3VDRMczhOxenDb7GPYKy7i) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 4:08 | 2022-04-20 |  |
@@ -51,7 +51,8 @@
 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 | 2022-04-20 |  |
 | [Los Fugaces](https://open.spotify.com/track/1pmz5PiqPyhAWbRN5sSwpg) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Los Fugaces](https://open.spotify.com/album/25rWkoEU6iw4EBuvH7BrBr) | 3:28 | 2022-04-20 | 2022-07-29 |
 | [Los Fugaces](https://open.spotify.com/track/1xA9Z23LI0asrMZ7JwoyTK) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Pequeña TANDA](https://open.spotify.com/album/09LCtK37hO7jgJKZujJnx6) | 3:28 | 2022-04-20 |  |
-| [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2022-04-20 |  |
+| [Maré](https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:33 | 2022-04-20 | 2022-12-01 |
+| [Maré](https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:33 | 2022-04-20 |  |
 | [Maré](https://open.spotify.com/track/6rTLG03qWqHm8GUU51eskF) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Maré](https://open.spotify.com/album/5TbichAfZ6dX1l8RsKV033) | 3:33 | 2022-04-20 | 2022-11-26 |
 | [Me Gusta](https://open.spotify.com/track/6qE2cqoOJd1AoSH4gk8qJd) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [Me Gusta](https://open.spotify.com/album/4i0W5FYGaFYQXgtT5Yl3zF) | 4:16 | 2022-04-20 |  |
 | [Mis Amigos](https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Mis Amigos](https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg) | 3:00 | 2022-04-20 |  |
@@ -76,8 +77,9 @@
 | [Siento](https://open.spotify.com/track/0WFqLLU1eofNctXNVjzuIX) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Siento](https://open.spotify.com/album/08dn0Fi95hgdzUJmFgzRat) | 3:30 | 2022-04-20 | 2022-07-29 |
 | [Sin Compromiso](https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Sin Compromiso](https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy) | 3:02 | 2022-04-20 |  |
 | [T\. E\. M\. E\. R.](https://open.spotify.com/track/0BA4hhGj03BzVLMv3DYzhU) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [T\. E\. M\. E\. R.](https://open.spotify.com/album/1n7EcQLu90H92Uxg94fx78) | 3:53 | 2022-04-20 |  |
-| [Tango](https://open.spotify.com/track/1aGnagYPzdnaSHMLPSPsp9) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:42 | 2022-04-20 |  |
+| [Tango](https://open.spotify.com/track/1aGnagYPzdnaSHMLPSPsp9) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5) | 3:42 | 2022-04-20 | 2022-12-01 |
 | [Tango](https://open.spotify.com/track/1cTPxRjuv4LE7N3unxy589) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Tango](https://open.spotify.com/album/3v85vwElHbbbgPIg9M56Cj) | 3:42 | 2022-04-20 | 2022-11-26 |
+| [Tango](https://open.spotify.com/track/2AajW3BeWlJeouC1N80zUU) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:42 | 2022-04-20 |  |
 | [Te Quiero Olvidar](https://open.spotify.com/track/0ICBEeLdqSaTgZ4AvvWwbe) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Te Quiero Olvidar](https://open.spotify.com/album/4D0QCzQOyz43DJrItdlexR) | 3:35 | 2022-04-20 |  |
 | [Tranquilo Amor](https://open.spotify.com/track/4KaDlUDobi3VDWM3AGOvxa) | [Pablo Bailón](https://open.spotify.com/artist/0P0PTFI2AkaBoVbo7Q90LB), [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [Tranquilo Amor](https://open.spotify.com/album/53aaRXMbxAdcMLK92oFIq8) | 3:24 | 2022-04-20 |  |
 | [Tu Camino](https://open.spotify.com/track/6cnZfFmjgUWwkr6zY1JrYC) | [Benjamín Garibay](https://open.spotify.com/artist/0I4IOWXF1ypNMHonQE34dw) | [Tu Camino](https://open.spotify.com/album/4lKFgBY40MaGHiQzyWS1YM) | 3:24 | 2022-04-20 |  |

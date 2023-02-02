@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Curated by <a href=\"spotify:artist:6ZLTlhejhndI4Rh53vYhrY>Ozzy Osbourne</a> for his beloved Pomeranian, Rocky.",
   "name": "Rocky's Pet Playlist",
-  "published_playlist_ids": [
-    "6k8WGlZYaWDLte18htjfgp"
-  ],
   "tracks": [
     {
       "album": {
@@ -343,10 +340,28 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 192306,
       "name": "Walkin' The Dog",
       "url": "https://open.spotify.com/track/3TtNZafFdL1ccxVNERnh4w"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193514,
+      "name": "Walkin' The Dog",
+      "url": "https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX52B5kz75WOP"

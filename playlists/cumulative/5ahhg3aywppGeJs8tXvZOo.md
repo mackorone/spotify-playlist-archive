@@ -4,7 +4,7 @@
 
 > Fresh takes on all of your favorite standards.
 
-25 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/3EZGyGUFiYpKXpSkoEbvC2)
+25 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

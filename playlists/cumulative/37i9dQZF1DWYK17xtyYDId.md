@@ -4,7 +4,7 @@
 
 > SuperM is the Super One!
 
-22 songs - 1 hr 15 min - [published](https://open.spotify.com/playlist/5aQ55EYBUGwE55ZUZeChzQ)
+22 songs - 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

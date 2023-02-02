@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "Relax and unwind with chill, ambient music.",
   "name": "Ambient Relaxation",
-  "published_playlist_ids": [
-    "4jfP2jJUFCxoSc7UvsCsbj"
-  ],
   "tracks": [
     {
       "album": {
@@ -775,7 +772,7 @@
       ],
       "date_added": "2020-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 99500,
       "name": "Apple",
       "url": "https://open.spotify.com/track/1TFOmWCZQoDB8HNa0f6guN"
@@ -980,13 +977,31 @@
     },
     {
       "album": {
+        "name": "At Dawn",
+        "url": "https://open.spotify.com/album/2cFSXGvptNABPXffNEm7yY"
+      },
+      "artists": [
+        {
+          "name": "Emelie Kindh",
+          "url": "https://open.spotify.com/artist/0ETSxbDRiOKTTDyzlFMzmp"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114745,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/3sXpdvzLk3dsop4otSaeJV"
+    },
+    {
+      "album": {
         "name": "At Night I Fly",
         "url": "https://open.spotify.com/album/6U0puq2gcRqfDper0juJzK"
       },
       "artists": [
         {
-          "name": "Heur",
-          "url": "https://open.spotify.com/artist/73UAkSvLz6yCEeKwPlCmDv"
+          "name": "Yeur",
+          "url": "https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK"
         }
       ],
       "date_added": "2022-11-11",
@@ -1175,6 +1190,24 @@
       "duration_ms": 254117,
       "name": "Autonomous Prospect",
       "url": "https://open.spotify.com/track/3Y2OkyO2dpNCAPb9z8lFhm"
+    },
+    {
+      "album": {
+        "name": "Avori",
+        "url": "https://open.spotify.com/album/4pWrxItDLygNwhM6pHIgeO"
+      },
+      "artists": [
+        {
+          "name": "Mirova",
+          "url": "https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171419,
+      "name": "Avori",
+      "url": "https://open.spotify.com/track/2Fq3ZwxleE9ahYEAvcZSji"
     },
     {
       "album": {
@@ -2420,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Coincide",
+        "url": "https://open.spotify.com/album/1BkkNmbNMhHUoZBwugCKMp"
+      },
+      "artists": [
+        {
+          "name": "Edwin Maled",
+          "url": "https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134680,
+      "name": "Coincide",
+      "url": "https://open.spotify.com/track/1ASkdoA6zf0tqfKfnXoZWO"
+    },
+    {
+      "album": {
         "name": "Comet",
         "url": "https://open.spotify.com/album/15WFWxqFzdkKZooPUvfSOo"
       },
@@ -2443,8 +2494,8 @@
       },
       "artists": [
         {
-          "name": "Hiun",
-          "url": "https://open.spotify.com/artist/52Ae1wJP3XjuoZWugBC6Az"
+          "name": "Ami Sanou",
+          "url": "https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY"
         }
       ],
       "date_added": "2022-11-11",
@@ -3025,7 +3076,7 @@
       ],
       "date_added": "2019-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 144000,
       "name": "Desiderium",
       "url": "https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg"
@@ -3133,7 +3184,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 131316,
       "name": "Distant Glow",
       "url": "https://open.spotify.com/track/2aBYVl2d2RFAPbYlZ7rIUf"
@@ -3295,7 +3346,7 @@
       ],
       "date_added": "2020-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 185905,
       "name": "Dreaming - Ethereal Piano",
       "url": "https://open.spotify.com/track/0MvigYTSmsu7AZxiLqNOCH"
@@ -3313,7 +3364,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 223259,
       "name": "Dreaming Deeper",
       "url": "https://open.spotify.com/track/4KPRqt53xnT2Hs2rDGKiRu"
@@ -3367,7 +3418,7 @@
       ],
       "date_added": "2019-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 253000,
       "name": "Dr\u00f8mme",
       "url": "https://open.spotify.com/track/3ScyefUwfkGi0g6CaCemRc"
@@ -3583,7 +3634,7 @@
       ],
       "date_added": "2020-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 213712,
       "name": "Elevated Pastures",
       "url": "https://open.spotify.com/track/7zWjcC7jNhFtqckFMkiNux"
@@ -3871,7 +3922,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 265177,
       "name": "Eternal Self",
       "url": "https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk"
@@ -3943,7 +3994,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 226833,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg"
@@ -4253,6 +4304,42 @@
       "duration_ms": 160000,
       "name": "First Breath",
       "url": "https://open.spotify.com/track/1JOwulZA39X5su0EiBb6J6"
+    },
+    {
+      "album": {
+        "name": "Fjord",
+        "url": "https://open.spotify.com/album/7tl5IYMXNFAxoNuyFgBMsm"
+      },
+      "artists": [
+        {
+          "name": "unwaxed lemons",
+          "url": "https://open.spotify.com/artist/7qlTuB8r2bqN5mjBUeDSCG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160384,
+      "name": "Fjord",
+      "url": "https://open.spotify.com/track/5ALoEjfgwvqgJfyK1mP3xR"
+    },
+    {
+      "album": {
+        "name": "Illusive",
+        "url": "https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71"
+      },
+      "artists": [
+        {
+          "name": "Maximilian Zapdo",
+          "url": "https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181181,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886"
     },
     {
       "album": {
@@ -4573,10 +4660,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 175520,
       "name": "Frigate birds",
       "url": "https://open.spotify.com/track/1Uq63ko6Dwm2Ycp4iKGKgj"
+    },
+    {
+      "album": {
+        "name": "Gal\u00e1pagos (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0TnVlRcyGLlnxPfhk9ov1A"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175520,
+      "name": "Frigate birds",
+      "url": "https://open.spotify.com/track/1hFFE4s8HJ2EOufXaM8RFe"
     },
     {
       "album": {
@@ -4627,7 +4732,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 193726,
       "name": "Frontiers Are Where You Find Them",
       "url": "https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf"
@@ -5679,7 +5784,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 126049,
       "name": "In my quiet hour",
       "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
@@ -5755,6 +5860,24 @@
       "duration_ms": 176796,
       "name": "In the Clouds",
       "url": "https://open.spotify.com/track/2AvDzQfRf5Bx8PX0qRWLRc"
+    },
+    {
+      "album": {
+        "name": "In The Distance",
+        "url": "https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk"
+      },
+      "artists": [
+        {
+          "name": "Mindful Changes",
+          "url": "https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151530,
+      "name": "In The Distance",
+      "url": "https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp"
     },
     {
       "album": {
@@ -5971,6 +6094,24 @@
       "duration_ms": 175018,
       "name": "Intervention",
       "url": "https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj"
+    },
+    {
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2xshTZEMF4Wi3DQ7wmMDTE"
+      },
+      "artists": [
+        {
+          "name": "Taeda Trees",
+          "url": "https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168752,
+      "name": "Into The Infinite",
+      "url": "https://open.spotify.com/track/5eiWXtGTtACH4JGkGB8gFb"
     },
     {
       "album": {
@@ -6705,7 +6846,7 @@
       ],
       "date_added": "2019-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 153500,
       "name": "Lyrebird",
       "url": "https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ"
@@ -6993,7 +7134,7 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 158607,
       "name": "Mindset",
       "url": "https://open.spotify.com/track/208gbnbg0h5ga5c6IvtWM5"
@@ -7731,7 +7872,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 194084,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3wSBG6keI8IMWvaqlEbugZ"
@@ -8188,6 +8329,24 @@
     },
     {
       "album": {
+        "name": "solfeggio frequencies: clearing the mind",
+        "url": "https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx"
+      },
+      "artists": [
+        {
+          "name": "nite sky",
+          "url": "https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "peace to be well 432 Hz",
+      "url": "https://open.spotify.com/track/2O9c1JQvmr6iFEfF84MvQj"
+    },
+    {
+      "album": {
         "name": "Inner Spirit",
         "url": "https://open.spotify.com/album/0mV5nvQuTZt7HpQO6q9CXA"
       },
@@ -8541,10 +8700,28 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 228461,
       "name": "Prarie Whisper",
       "url": "https://open.spotify.com/track/0qwKXExu6ZFmCVmuXS77Bd"
+    },
+    {
+      "album": {
+        "name": "Precious Time",
+        "url": "https://open.spotify.com/album/2gvgYNTWQ0lMaaGt09aXcZ"
+      },
+      "artists": [
+        {
+          "name": "Evah Linnet",
+          "url": "https://open.spotify.com/artist/2BOqxhLZK8i0dICth5U9VH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Precious Time",
+      "url": "https://open.spotify.com/track/2xcKXBb8yAyRX37RkvaozM"
     },
     {
       "album": {
@@ -8739,7 +8916,7 @@
       ],
       "date_added": "2020-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 224512,
       "name": "Rachael Or Pris",
       "url": "https://open.spotify.com/track/52tvffLe50EKvIznL67HnT"
@@ -8887,6 +9064,24 @@
       "duration_ms": 104262,
       "name": "Relief",
       "url": "https://open.spotify.com/track/0tCTXGCsD8wgeLtYQ1b5H1"
+    },
+    {
+      "album": {
+        "name": "Ambient Peace",
+        "url": "https://open.spotify.com/album/4Ywp2WnMfHMiODsoTUtY9P"
+      },
+      "artists": [
+        {
+          "name": "draw close",
+          "url": "https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "renew - Instrumental",
+      "url": "https://open.spotify.com/track/0zj9voOg55wXK4Yyx5Sgnu"
     },
     {
       "album": {
@@ -10341,7 +10536,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 146125,
       "name": "Stratos",
       "url": "https://open.spotify.com/track/3170f6inQVGads2gRz24bD"
@@ -10993,7 +11188,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 161442,
       "name": "The Healing Process",
       "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
@@ -11047,7 +11242,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 281000,
       "name": "The Mist",
       "url": "https://open.spotify.com/track/1VLSQX83qEPHSGXRw1J1Tu"
@@ -11137,7 +11332,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 168377,
       "name": "The Return Home",
       "url": "https://open.spotify.com/track/2oBeDHORDq9ZeQnuygW7jZ"
@@ -11317,7 +11512,7 @@
       ],
       "date_added": "2019-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 135187,
       "name": "Tomb",
       "url": "https://open.spotify.com/track/6WTGLr26egcppsIEHeBuL3"
@@ -11371,7 +11566,7 @@
       ],
       "date_added": "2019-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 231116,
       "name": "Touch of My Soul",
       "url": "https://open.spotify.com/track/7mBZGPbX8nmWRZfhityZda"
@@ -11461,7 +11656,7 @@
       ],
       "date_added": "2020-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 163483,
       "name": "Tremoland",
       "url": "https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe"
@@ -12423,7 +12618,7 @@
       ],
       "date_added": "2020-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 179649,
       "name": "White Clouds",
       "url": "https://open.spotify.com/track/0oc8j70828V2wJgp7PIWEk"

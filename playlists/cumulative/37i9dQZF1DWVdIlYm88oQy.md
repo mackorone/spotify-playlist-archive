@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-97 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/7fjhFJJqBlizYU8Pub0RnC)
+97 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

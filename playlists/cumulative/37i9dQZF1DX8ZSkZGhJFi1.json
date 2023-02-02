@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-02",
   "description": "Beats instrumentais para te ajudar a focar mantendo o \u00e2nimo.",
   "name": "Foco com Energia",
-  "published_playlist_ids": [
-    "2XTO4uOrecqb0PhhJuqG9u"
-  ],
   "tracks": [
     {
       "album": {
@@ -271,7 +268,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 185816,
       "name": "Bootes",
       "url": "https://open.spotify.com/track/2TJyvCtn156DBQdRzFnJQ8"
@@ -949,7 +946,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 101796,
       "name": "Games",
       "url": "https://open.spotify.com/track/0ushiWGxHH5atvLnODuINq"
@@ -1457,7 +1454,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 260560,
       "name": "My Story",
       "url": "https://open.spotify.com/track/0OS5J4N4pYDqXlJjzSOamS"
@@ -2397,6 +2394,24 @@
       "duration_ms": 187931,
       "name": "Time to Face Your Fears",
       "url": "https://open.spotify.com/track/5GdLtWqbQVXKIAwUpXuJcq"
+    },
+    {
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/1Zw4R7LNCAzWVMQ2MLOQOx"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Leblanc",
+          "url": "https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/6DS8PbO3BzzdZ00dwiMPB3"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-03",
   "description": "el amor es pico tres <3 ",
   "name": "amor = <3 ",
-  "published_playlist_ids": [
-    "7mH8k47mbNXRQVJ4PEHEwr"
-  ],
   "tracks": [
     {
       "album": {
@@ -259,7 +256,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 278073,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
@@ -907,7 +904,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 208326,
       "name": "La Mejor de Todas",
       "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
@@ -1117,6 +1114,32 @@
     {
       "album": {
         "name": "444 Paradise \"Encerrado, No Enterrado\"",
+        "url": "https://open.spotify.com/album/0SJjqErbyJDc46YKzV4ein"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Maldito Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/00Lz6oOMNjlCthAaiQLsfr"
+    },
+    {
+      "album": {
+        "name": "444 Paradise \"Encerrado, No Enterrado\"",
         "url": "https://open.spotify.com/album/1mdbJt88iwqkl0zEMGA8XH"
       },
       "artists": [
@@ -1135,7 +1158,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 274000,
       "name": "Maldito Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/05xcn7HwKbSOVSCtO8i3Vl"
@@ -1325,7 +1348,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 198558,
       "name": "Mismo Amor",
       "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
@@ -1413,6 +1436,24 @@
     {
       "album": {
         "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "album": {
+        "name": "No Se Va (En Vivo)",
         "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
       },
       "artists": [
@@ -1423,7 +1464,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
@@ -1971,7 +2012,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": "2022-12-25",
       "duration_ms": 231007,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/5jeWGw9WMX68R8hNqdriOv"
@@ -2331,7 +2372,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 182890,
       "name": "\u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
       "url": "https://open.spotify.com/track/2Tc0Hpl8AhRoPvlrLISI2F"

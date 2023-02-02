@@ -4,7 +4,7 @@
 
 > Mujeres de Centroamérica y el Caribe a todo volumen\. Foto: YEИDRY
 
-62 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/4obl6liHOgVlJw1mIpZjUr)
+62 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

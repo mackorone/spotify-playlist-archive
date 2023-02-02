@@ -4,7 +4,7 @@
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/3wKpHAyNmJZPvxXmE49h0m)
+60 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

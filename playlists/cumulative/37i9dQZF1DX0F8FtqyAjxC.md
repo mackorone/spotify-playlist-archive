@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-81 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/21XUWtQGgMmaUxzB8ize8d)
+81 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "Go deep into spontaneous praise and worship here. On and on.",
   "name": "Signs & Wonders",
-  "published_playlist_ids": [
-    "7AOoPmZVWI11xU5B6czWtb"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 208864,
       "name": "A Million Saints (Live)",
       "url": "https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt"
@@ -422,7 +419,7 @@
         },
         {
           "name": "Joel Houston",
-          "url": "https://open.spotify.com/artist/5r7TYE2HhPqC5emV9WXW9c"
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
         }
       ],
       "date_added": "2020-09-04",
@@ -449,6 +446,24 @@
       "duration_ms": 119266,
       "name": "Brave New World (Instrumental)",
       "url": "https://open.spotify.com/track/2Ca3o4dhghbtJgrtgOzyw3"
+    },
+    {
+      "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 119266,
+      "name": "Brave New World - Instrumental",
+      "url": "https://open.spotify.com/track/2bg7epYk9RK63b710n9sUA"
     },
     {
       "album": {
@@ -1065,6 +1080,24 @@
       "duration_ms": 265573,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/6OQoxhkTf1PlfkaJ0slMQW"
+    },
+    {
+      "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 135026,
+      "name": "Flagship - Instrumental",
+      "url": "https://open.spotify.com/track/7GALtcUgLSmssmh9YVUNyx"
     },
     {
       "album": {
@@ -2687,7 +2720,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 445293,
       "name": "Not Afraid - Live",
       "url": "https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq"
@@ -2945,7 +2978,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-28",
       "duration_ms": 340426,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0NWIUe3LhNeILtOv5fWmpA"
@@ -3393,7 +3426,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 569320,
       "name": "Sanctuary - Live",
       "url": "https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI"
@@ -3785,7 +3818,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-21",
       "duration_ms": 580280,
       "name": "Take a Moment (Live) [feat. Will Reagan]",
       "url": "https://open.spotify.com/track/3J7vBrecAaQpAf5CpbXpj4"
@@ -3865,7 +3898,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 297320,
       "name": "The Cause Of Christ",
       "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
@@ -3937,10 +3970,28 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 425184,
       "name": "The Way (New Horizon)",
       "url": "https://open.spotify.com/track/0x9e3L5wMrST4Xi20XUJPw"
+    },
+    {
+      "album": {
+        "name": "We Say Yes",
+        "url": "https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425184,
+      "name": "The Way (New Horizon)",
+      "url": "https://open.spotify.com/track/5KrewqDNRC9lNe3Aj9ameN"
     },
     {
       "album": {
@@ -4137,7 +4188,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-03",
       "duration_ms": 240946,
       "name": "Upper Room",
       "url": "https://open.spotify.com/track/5Trqe9O0VQEBe4aANs2qqS"
@@ -4327,7 +4378,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 238478,
       "name": "When My Heart Became Aware",
       "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
@@ -4407,7 +4458,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": "2023-01-06",
       "duration_ms": 391640,
       "name": "Wonder (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ"
@@ -4523,7 +4574,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 599141,
       "name": "You And You Alone - Live",
       "url": "https://open.spotify.com/track/7p3rTldMTSffWhFG3vk1C4"
@@ -4621,7 +4672,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 296400,
       "name": "You Satisfy (feat. Elyssa Smith)",
       "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"

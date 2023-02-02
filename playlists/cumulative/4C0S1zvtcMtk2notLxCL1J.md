@@ -4,7 +4,7 @@
 
 > Grand Hustle Gang top picks chosen by Spotify.
 
-41 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/2MXXpOt5KV8sj3SVzLM9ju)
+41 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

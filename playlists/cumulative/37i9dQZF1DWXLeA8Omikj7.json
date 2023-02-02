@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-05-26",
   "description": "<a href=\"spotify:genre:space:electronica_chill\">Hypnotic electronic</a> for studies and a relax.",
   "name": "Brain Food",
-  "published_playlist_ids": [
-    "0rhu3j6f2MxHd8IeLxajNI"
-  ],
   "tracks": [
     {
       "album": {
@@ -269,7 +266,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 427200,
       "name": "[Time] Place",
       "url": "https://open.spotify.com/track/7y5KNFzUITQC3ObeFkf9cj"
@@ -413,7 +410,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 179349,
       "name": "ACE OF CUPS",
       "url": "https://open.spotify.com/track/1upAhgDBWCV0AvUxgAU6SR"
@@ -677,7 +674,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 232775,
       "name": "And The Lake Was...",
       "url": "https://open.spotify.com/track/1gr1pLxrhTjzpmq2WPDhRW"
@@ -725,6 +722,24 @@
       "duration_ms": 652571,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1sasHok8uYDG2dYoE1ir6y"
+    },
+    {
+      "album": {
+        "name": "Othona",
+        "url": "https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5"
+      },
+      "artists": [
+        {
+          "name": "Dark Sky",
+          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256532,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT"
     },
     {
       "album": {
@@ -1593,7 +1608,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 212840,
       "name": "Blueberry",
       "url": "https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8"
@@ -2226,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411818,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/3X669cI3mLFk0RVmqVcp4d"
+    },
+    {
+      "album": {
         "name": "Cloudy",
         "url": "https://open.spotify.com/album/5WvztQo4j7Faf25GIGxSNW"
       },
@@ -2409,7 +2442,7 @@
       },
       "artists": [
         {
-          "name": "afternoon bike ride",
+          "name": "Afternoon Bike Ride",
           "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
         }
       ],
@@ -3601,7 +3634,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 233333,
       "name": "Eden",
       "url": "https://open.spotify.com/track/4RQKsEW72d4Oipy55ivJ26"
@@ -5307,7 +5340,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 224426,
       "name": "Glacial Lake",
       "url": "https://open.spotify.com/track/1y2lZj6Lrq0pOYTPmX5LXe"
@@ -5469,7 +5502,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 192000,
       "name": "Gone Fishing",
       "url": "https://open.spotify.com/track/43ZYhWQmtLdtgISK8QmBGE"
@@ -5897,6 +5930,28 @@
       "duration_ms": 98133,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/2DcJgbkcus5G7TrJZZwsuh"
+    },
+    {
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/34hcfZrsKEC8Xvn0Qddig3"
+      },
+      "artists": [
+        {
+          "name": "Hotel Rubio",
+          "url": "https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7"
+        },
+        {
+          "name": "Izzy",
+          "url": "https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234289,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/0sb4TomAMz09w1ofDC8nUr"
     },
     {
       "album": {
@@ -6845,7 +6900,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 235346,
       "name": "Karst - Vegyn Remix",
       "url": "https://open.spotify.com/track/3NgBhFxrBA3eW4iED0BxFe"
@@ -7599,7 +7654,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 711026,
       "name": "Luminous Beings",
       "url": "https://open.spotify.com/track/3Ha9TeaqCdcS6cqKmFGCO3"
@@ -8309,7 +8364,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-18",
+      "date_removed": "2023-01-20",
       "duration_ms": 324399,
       "name": "Muddy Funster",
       "url": "https://open.spotify.com/track/6RYnTnUSj8uTZhIJUoOuC8"
@@ -9019,6 +9074,24 @@
       "duration_ms": 199226,
       "name": "One Step Forward",
       "url": "https://open.spotify.com/track/0rIzxXL4cQzPBFtF2NsOSI"
+    },
+    {
+      "album": {
+        "name": "Trust In Me",
+        "url": "https://open.spotify.com/album/1PXbhHNw3nz8hhYXyICbpA"
+      },
+      "artists": [
+        {
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 199226,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/5Xo1kp4UljShBuvV5PZfLj"
     },
     {
       "album": {
@@ -11270,6 +11343,24 @@
     },
     {
       "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/15r5QOkft2W7XyYCCN099A"
+      },
+      "artists": [
+        {
+          "name": "Gelka",
+          "url": "https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sleep Swimming",
+      "url": "https://open.spotify.com/track/4WgTDWlUMOJuAtlgT78joj"
+    },
+    {
+      "album": {
         "name": "Sleep Swimming",
         "url": "https://open.spotify.com/album/11tHvsaYYk7uHR7yDAsJoX"
       },
@@ -11577,7 +11668,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
@@ -11631,7 +11722,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 381413,
       "name": "Squarepusher Theme",
       "url": "https://open.spotify.com/track/058ko08nDcxWAEXJXkDNYC"
@@ -11790,6 +11881,24 @@
     },
     {
       "album": {
+        "name": "Time to Recover",
+        "url": "https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP"
+      },
+      "artists": [
+        {
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136383,
+      "name": "Stranger to One",
+      "url": "https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj"
+    },
+    {
+      "album": {
         "name": "Honest Labour",
         "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
       },
@@ -11841,10 +11950,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 311489,
       "name": "Subtract",
       "url": "https://open.spotify.com/track/3kd10OwEIMhDnuA35lt4Ug"
+    },
+    {
+      "album": {
+        "name": "Signal Flow",
+        "url": "https://open.spotify.com/album/5O6MptoWUQJlHFCUGfl7w9"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311489,
+      "name": "Subtract",
+      "url": "https://open.spotify.com/track/5fjSqOiXqXHg7FYZazffD5"
     },
     {
       "album": {
@@ -12375,6 +12502,28 @@
     {
       "album": {
         "name": "Tangerine Sour",
+        "url": "https://open.spotify.com/album/4t6kv8UpcqymrTsvCHWOFZ"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        },
+        {
+          "name": "9 Theory",
+          "url": "https://open.spotify.com/artist/06tYi7DxoKe8PfYCeHGGFK"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253044,
+      "name": "Tangerine Sour",
+      "url": "https://open.spotify.com/track/18DYI0RQbJKF1kNpkHAY9v"
+    },
+    {
+      "album": {
+        "name": "Tangerine Sour",
         "url": "https://open.spotify.com/album/570VFTtA06pYm2mx42RKPb"
       },
       "artists": [
@@ -12411,7 +12560,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 253044,
       "name": "Tangerine Sour",
       "url": "https://open.spotify.com/track/7BCiBYWbnclXSMRHRFrLYK"
@@ -12689,7 +12838,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 333520,
       "name": "The Ladder",
       "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
@@ -12869,7 +13018,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 192899,
       "name": "The Path",
       "url": "https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4"
@@ -14001,7 +14150,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 216000,
       "name": "Warming Up",
       "url": "https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K"
@@ -14113,7 +14262,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 226036,
       "name": "We Are (\uc6b0\ub9ac\ub294)",
       "url": "https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu"
@@ -14333,7 +14482,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": "2022-12-18",
       "duration_ms": 304390,
       "name": "Why She Is Hiding in the Other Man's Eyes",
       "url": "https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G"

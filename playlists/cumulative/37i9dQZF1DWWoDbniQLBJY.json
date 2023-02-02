@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
   "name": "Mediod\u00eda Ac\u00fastico",
-  "published_playlist_ids": [
-    "4u1h06ki2j7GNHTZCGcFb9"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 142436,
       "name": "#ElMundoFuera (Improvisaci\u00f3n)",
       "url": "https://open.spotify.com/track/7HqU2puNgziwgTZ7NcVKlY"
@@ -529,7 +526,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 231458,
       "name": "Cuando Ya No Me Recuerdes",
       "url": "https://open.spotify.com/track/3JAYhusD43HVOilH1VarKS"
@@ -1520,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215332,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
+    },
+    {
+      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -1835,7 +1850,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 184336,
       "name": "NTN",
       "url": "https://open.spotify.com/track/1O8wZHsmHtrjVehbTTC5yM"
@@ -2405,7 +2420,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 179904,
       "name": "Ser Guitarra",
       "url": "https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q"
@@ -3067,7 +3082,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 262050,
       "name": "Voy Cantando",
       "url": "https://open.spotify.com/track/0iROP0Xo315A0ImonYR499"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
   "name": "00s Pop Rock",
-  "published_playlist_ids": [
-    "5K5umzcf3NGv3wuRSs39y0"
-  ],
   "tracks": [
     {
       "album": {
@@ -243,7 +240,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261426,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI"
@@ -261,7 +258,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 261426,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
@@ -315,7 +312,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 239173,
       "name": "Chariot",
       "url": "https://open.spotify.com/track/08kTO4EW0jb07zNsCNM83w"
@@ -787,7 +784,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Her Diamonds",
       "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"
@@ -2329,7 +2326,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
@@ -2347,7 +2344,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
@@ -2437,7 +2434,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-30",
       "duration_ms": 278493,
       "name": "The World We Live In",
       "url": "https://open.spotify.com/track/6QFjg371WnvjbBVCK1QBJ1"

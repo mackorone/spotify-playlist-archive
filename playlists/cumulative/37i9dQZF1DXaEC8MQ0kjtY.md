@@ -4,7 +4,7 @@
 
 > Take a look at Australia's future king of Pop.
 
-45 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/3ivnynU1UfJBhUY1xHyMSc)
+45 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

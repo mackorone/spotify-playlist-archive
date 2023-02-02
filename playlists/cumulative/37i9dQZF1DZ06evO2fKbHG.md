@@ -4,7 +4,7 @@
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/53sjBaslS5oMykII3x7VVQ)
+56 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,10 @@
 | [City of the Dead \(Live\) \[Remastered\]](https://open.spotify.com/track/744eHv8kvVhIYc4le3NEvt) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [From Here to Eternity \(Live\) \[Remastered\]](https://open.spotify.com/album/70NjH8NkxcbYNvWAHnyv1e) | 2:47 | 2022-09-17 |  |
 | [Clash City Rockers](https://open.spotify.com/track/7KMOrq5bPFiEQPmxsYvJ2C) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:56 | 2022-09-17 |  |
 | [Complete Control](https://open.spotify.com/track/0mlwPYU0ApElSjZN4yA4L9) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:12 | 2022-09-17 |  |
-| [Dirty Punk](https://open.spotify.com/track/1r30Iz6qrNAXJFiQzQh1vH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:09 | 2022-09-17 |  |
+| [Dirty Punk](https://open.spotify.com/track/1r30Iz6qrNAXJFiQzQh1vH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:09 | 2022-09-17 | 2022-12-26 |
 | [English Civil War \- Remastered](https://open.spotify.com/track/6h54MGmPGmerDMBgHTgIA4) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 2:35 | 2022-09-17 |  |
-| [First Night Back in London](https://open.spotify.com/track/51opuNsrUewNyBaz4wV5H1) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:11 | 2022-09-17 |  |
-| [Futura 2000](https://open.spotify.com/track/0ZOd1fmpaBXLbtDQPeJz2k) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 5:54 | 2022-09-17 |  |
+| [First Night Back in London](https://open.spotify.com/track/51opuNsrUewNyBaz4wV5H1) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:11 | 2022-09-17 | 2023-01-26 |
+| [Futura 2000](https://open.spotify.com/track/0ZOd1fmpaBXLbtDQPeJz2k) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 5:54 | 2022-09-17 | 2022-12-24 |
 | [He Who Dares or Is Tired](https://open.spotify.com/track/5qDs46EokLqDHpQ7sqcHWE) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:53 | 2022-09-17 |  |
 | [Hitsville U.K\. \- Remastered](https://open.spotify.com/track/3F8ddXLIHVLdunzh6fLvKs) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 4:21 | 2022-09-17 |  |
 | [I Fought the Law](https://open.spotify.com/track/5dAxeuDkIkpa6wZpMOuG9i) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Cost of Living \- EP](https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u) | 2:43 | 2022-09-17 |  |
@@ -35,7 +35,7 @@
 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 | 2022-09-17 |  |
 | [London's Burning \- Remastered](https://open.spotify.com/track/0y8zZOu4u6NmoW7u1jEQzo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:11 | 2022-09-17 |  |
 | [Lost in the Supermarket \- Remastered](https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:46 | 2022-09-17 |  |
-| [North and South](https://open.spotify.com/track/0ZlFRuGgIPfBW529zVtO0U) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:32 | 2022-09-17 |  |
+| [North and South](https://open.spotify.com/track/0ZlFRuGgIPfBW529zVtO0U) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:32 | 2022-09-17 | 2023-01-03 |
 | [Outside Bonds](https://open.spotify.com/track/19s6cpOO5ycGy8HY2O5U0I) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 4:21 | 2022-09-17 | 2022-10-13 |
 | [Overpowered by Funk \- Remastered](https://open.spotify.com/track/2KbnkNVzg8ubqK5wAXSxf1) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 4:52 | 2022-09-17 | 2022-09-23 |
 | [Police & Thieves \- Remastered](https://open.spotify.com/track/6IMlcKjsIM3l3yXWykTa3y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 6:03 | 2022-09-17 |  |
@@ -44,6 +44,7 @@
 | [Red Angel Dragnet \- Remastered](https://open.spotify.com/track/3AySFupxPGQWjauQfFXcr0) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:44 | 2022-09-19 | 2022-10-13 |
 | [Remote Control \- Remastered](https://open.spotify.com/track/3xicEV8TwGCGtVnqaDhGLj) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 3:03 | 2022-10-01 | 2022-10-05 |
 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 | 2022-09-17 |  |
+| [Rudie Can't Fail \- Remastered](https://open.spotify.com/track/4W9zZsQKsqikYbKM9vcN5Q) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:28 | 2023-01-19 | 2023-01-27 |
 | [Safe European Home \- Remastered](https://open.spotify.com/track/7iiofeVKhJz7ZbcI2jFcPm) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:50 | 2022-09-17 |  |
 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 | 2022-09-17 |  |
 | [Somebody Got Murdered \- Remastered](https://open.spotify.com/track/6izEYubQaf7odJ46scKEzr) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 3:34 | 2022-09-17 |  |

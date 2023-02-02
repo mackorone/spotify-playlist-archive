@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-01",
-  "description": "The sounds of LGBTQ+ punk. Cover: Big Joanie",
+  "description": "The sounds of LGBTQ+ punk. Cover: Witch Fever",
   "name": "Queercore",
-  "published_playlist_ids": [
-    "6Y9w0H6oDcjBBpPRKrQxKq"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 181960,
       "name": "All The Sweet Stuff",
       "url": "https://open.spotify.com/track/0TYzOSQD8m7XJT0zv9XbXg"
@@ -62,6 +59,42 @@
     },
     {
       "album": {
+        "name": "Congregation",
+        "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160185,
+      "name": "At The Core",
+      "url": "https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
+      },
+      "artists": [
+        {
+          "name": "Petrol Girls",
+          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192281,
+      "name": "Baby, I Had an Abortion",
+      "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
+    },
+    {
+      "album": {
         "name": "Baby, I Had an Abortion",
         "url": "https://open.spotify.com/album/0MmQCI3aQdUXVAfN2q67V7"
       },
@@ -73,7 +106,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 192446,
       "name": "Baby, I Had an Abortion",
       "url": "https://open.spotify.com/track/5ilQi9gYgFQohJ5olmtigL"
@@ -170,6 +203,42 @@
     },
     {
       "album": {
+        "name": "All at Once",
+        "url": "https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL"
+      },
+      "artists": [
+        {
+          "name": "Screaming Females",
+          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291600,
+      "name": "Bird in Space",
+      "url": "https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa"
+    },
+    {
+      "album": {
+        "name": "Bitchboy",
+        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107162,
+      "name": "Bitchboy",
+      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
+    },
+    {
+      "album": {
         "name": "Bitchboy",
         "url": "https://open.spotify.com/album/1dLzdrQ9uVcUqv6PMHNQ9z"
       },
@@ -181,7 +250,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 107162,
       "name": "Bitchboy",
       "url": "https://open.spotify.com/track/4c2S2MELHhh3nspK1Rmef7"
@@ -260,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202624,
+      "name": "BURN THE WITCH",
+      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
+    },
+    {
+      "album": {
         "name": "Fuck Danny Denial",
         "url": "https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR"
       },
@@ -307,7 +394,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-17",
       "duration_ms": 229389,
       "name": "Colors",
       "url": "https://open.spotify.com/track/1CIVKxQTjN9Ed0woZbzx2z"
@@ -351,6 +438,24 @@
     {
       "album": {
         "name": "Divine Violence",
+        "url": "https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4"
+      },
+      "artists": [
+        {
+          "name": "itoldyouiwouldeatyou",
+          "url": "https://open.spotify.com/artist/7625dNOd552CCLYVObfTxe"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202231,
+      "name": "Divine Violence",
+      "url": "https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl"
+    },
+    {
+      "album": {
+        "name": "Divine Violence",
         "url": "https://open.spotify.com/album/21perF5XCWHbK7CDvuU1s4"
       },
       "artists": [
@@ -361,7 +466,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 202231,
       "name": "Divine Violence",
       "url": "https://open.spotify.com/track/6WwLkjY0RqDkgPmo1URNxK"
@@ -451,7 +556,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 86842,
       "name": "Eden on Acid",
       "url": "https://open.spotify.com/track/1RNfuLU3uGrhUDitaQ0AW8"
@@ -487,7 +592,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 143568,
       "name": "Fake Great Britain",
       "url": "https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ"
@@ -577,7 +682,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-25",
       "duration_ms": 344553,
       "name": "For Matt",
       "url": "https://open.spotify.com/track/4Lrwl77lIBqBFtVIUQPI3D"
@@ -617,6 +722,24 @@
       "duration_ms": 172432,
       "name": "Fuck the Cistem",
       "url": "https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg"
+    },
+    {
+      "album": {
+        "name": "The Royal They",
+        "url": "https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH"
+      },
+      "artists": [
+        {
+          "name": "The Royal They",
+          "url": "https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183994,
+      "name": "Full Metal Black",
+      "url": "https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0"
     },
     {
       "album": {
@@ -782,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Get Awkward",
+        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
+      },
+      "artists": [
+        {
+          "name": "be your own PET",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131226,
+      "name": "Heart Throb - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
+    },
+    {
+      "album": {
         "name": "Always Already",
         "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
       },
@@ -815,6 +956,24 @@
       "duration_ms": 291715,
       "name": "I / Me / Myself",
       "url": "https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr"
+    },
+    {
+      "album": {
+        "name": "Juno Goes to the Big House",
+        "url": "https://open.spotify.com/album/0bPiaza1NaQbzdg8s1CJOn"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152363,
+      "name": "I Fucked Yr Mom",
+      "url": "https://open.spotify.com/track/70WFvp0yF9m1asIb60gKcj"
     },
     {
       "album": {
@@ -1045,7 +1204,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-04",
       "duration_ms": 133520,
       "name": "Macaulay Sulkin'",
       "url": "https://open.spotify.com/track/6Q5W6qTZc9JV6surKRhoXY"
@@ -1063,7 +1222,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 224440,
       "name": "Mackerel's Funky Mission",
       "url": "https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb"
@@ -1225,10 +1384,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 128880,
       "name": "Queer For You",
       "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
+    },
+    {
+      "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/0yMlzaVdHvftptlZ3E8Mor"
+      },
+      "artists": [
+        {
+          "name": "Weakened Friends",
+          "url": "https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182477,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/2zGcxwWJNdCSb3fd9RLOLg"
     },
     {
       "album": {
@@ -1315,7 +1492,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 224560,
       "name": "Severed Ties",
       "url": "https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK"
@@ -1405,7 +1582,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 75583,
       "name": "Snowball",
       "url": "https://open.spotify.com/track/30MPTi1NdJlN4WeEiXWmPC"
@@ -1513,10 +1690,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-25",
       "duration_ms": 263546,
       "name": "Stupid Rich Boy",
       "url": "https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5"
+    },
+    {
+      "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/4Q8RNU12a8ZZl49RNS2NPh"
+      },
+      "artists": [
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124533,
+      "name": "SuperNatural Possession",
+      "url": "https://open.spotify.com/track/2argENW2MZGxj0TwGtH2RZ"
     },
     {
       "album": {
@@ -1549,7 +1744,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 124533,
       "name": "SuperNatural Possession",
       "url": "https://open.spotify.com/track/7rW0sRWMxWCMEF0Cd9kbu0"
@@ -1571,6 +1766,24 @@
       "duration_ms": 180572,
       "name": "Take Another",
       "url": "https://open.spotify.com/track/3S7KVKmwbxYbN41tltqZdT"
+    },
+    {
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196942,
+      "name": "the kids aren't alright",
+      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
     },
     {
       "album": {
@@ -1603,7 +1816,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 130598,
       "name": "The Thing I Do Best",
       "url": "https://open.spotify.com/track/5Ae7KzPFdnb8PgrMBjI1oo"
@@ -1801,7 +2014,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 394000,
       "name": "Unclear",
       "url": "https://open.spotify.com/track/4CfTJJC1Aku6YOmKmMc4gf"
@@ -1859,6 +2072,24 @@
       "duration_ms": 153813,
       "name": "Woodchuck",
       "url": "https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH"
+    },
+    {
+      "album": {
+        "name": "Sorry, Mom",
+        "url": "https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369213,
+      "name": "Word Salad",
+      "url": "https://open.spotify.com/track/6woLlMQzFg2LcPWqlCh7tq"
     },
     {
       "album": {

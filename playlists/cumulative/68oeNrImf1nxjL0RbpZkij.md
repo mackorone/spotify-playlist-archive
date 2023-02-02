@@ -4,7 +4,7 @@
 
 > Chill songs for lazy mornings\. You'll roll out of bed and get the coffee on, eventually ...
 
-27 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/6pvRtUVF21SDRLbs1EpWSd)
+27 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > To the best mother in the world.
 
-29 songs - 2 hr 2 min - [published](https://open.spotify.com/playlist/68SZZ4l89EUjec0NoUDDoA)
+29 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

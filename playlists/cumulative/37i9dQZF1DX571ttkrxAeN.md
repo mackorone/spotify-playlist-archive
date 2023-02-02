@@ -4,7 +4,7 @@
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-124 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
+124 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

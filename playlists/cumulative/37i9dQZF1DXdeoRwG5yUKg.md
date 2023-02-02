@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-136 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+137 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Beautiful Stranger](https://open.spotify.com/track/3G5zOkX5R6i6QDuyY7xNRH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:07 | 2020-11-05 |  |
 | [Been My Last](https://open.spotify.com/track/4r7ZdD5korTwjnbe1mezoK) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/6yxTsj35RwLCNGm60hlf7h) | 3:44 | 2020-11-05 | 2022-07-29 |
 | [Been My Last](https://open.spotify.com/track/55LQy7ZJejUaTTiSN8TK9D) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 3:44 | 2020-11-05 |  |
+| [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 | 2023-01-20 |  |
 | [Better This Way](https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Jigsaw Heart](https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI) | 4:10 | 2020-11-05 |  |
 | [Blame it On Me](https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:47 | 2022-04-22 |  |
 | [Broke Down Dream](https://open.spotify.com/track/5e6Il1kDEI0FfFjB6oWDKo) | [Garrett Lebeau](https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 6:00 | 2020-11-05 |  |

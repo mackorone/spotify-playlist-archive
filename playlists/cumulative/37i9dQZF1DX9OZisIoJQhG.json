@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Uplifting classical melodies to help you rise and shine.",
   "name": "Morning Classical",
-  "published_playlist_ids": [
-    "0QgKCcn9LhdDwr9yfJHm5c"
-  ],
   "tracks": [
     {
       "album": {
@@ -413,7 +410,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 364600,
       "name": "Concerto Magna Carta: II. Tenderly, with expression",
       "url": "https://open.spotify.com/track/61hIaUSosuQ6K6q72n3U3z"
@@ -977,7 +974,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240000,
-      "name": "R\u00eaverie, L. 68",
+      "name": "R\u00eaverie, CD 76 (Arr. Cullen for Cello and Orchestra)",
       "url": "https://open.spotify.com/track/0wgqbmYhQyoL2TXGzQEg4k"
     },
     {
@@ -1120,6 +1117,32 @@
     },
     {
       "album": {
+        "name": "Poulenc: La voix humaine",
+        "url": "https://open.spotify.com/album/1ncMb3XT16iUBExxwNuNiY"
+      },
+      "artists": [
+        {
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
+        },
+        {
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
+        },
+        {
+          "name": "Alexandre Bloch",
+          "url": "https://open.spotify.com/artist/62bapfSobIHcr52G8fAjlG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406240,
+      "name": "Sinfonietta, FP 141: III. Andante cantabile",
+      "url": "https://open.spotify.com/track/4vii1l0Y3VZB2IrVkbRSs1"
+    },
+    {
+      "album": {
         "name": "Debussy: Suite bergamasque, L. 75: III. Clair de lune",
         "url": "https://open.spotify.com/album/0y0G5l8ObushJUnTvlgj1O"
       },
@@ -1205,7 +1228,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 182108,
       "name": "The Girl with the Flaxen Hair",
       "url": "https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux"

@@ -4,7 +4,7 @@
 
 > Timeless easy listening from the sixties...
 
-148 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/5Vq2hKKlZjdhN1O2QfNrQm)
+148 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

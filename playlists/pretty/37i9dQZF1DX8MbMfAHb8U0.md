@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,425 likes - 99 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,361 likes - 99 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 17 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
 | 18 | [Brown Sugar](https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:22 |
 | 19 | [The Next Movement](https://open.spotify.com/track/0NSYVDo4ryxNWln7TfEyex) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Jazzyfatnastees](https://open.spotify.com/artist/4o6gZFD9CkUCVzYqrDR3wV) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 4:10 |
-| 20 | [Brown Skin](https://open.spotify.com/track/4IUSCokY39aICKizwxj0Ey) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [00s Soul](https://open.spotify.com/album/3VkbWApaBik1JL9IV98mAB) | 4:56 |
+| 20 | [Brown Skin](https://open.spotify.com/track/4cADiYkm8GM9Cvub2nh1sa) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Dinner Music](https://open.spotify.com/album/6rtET2pD0xPZBl3EqTbBk5) | 4:56 |
 | 21 | [Appletree](https://open.spotify.com/track/2jAn0rAOyLW6hIEuIDNcoT) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 4:25 |
 | 22 | [Floetic](https://open.spotify.com/track/21z6OpNQIS9qD7xyty7OeR) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:06 |
 | 23 | [Mama Knew Love](https://open.spotify.com/track/01M4Wng6jF5uoNEHLl2OIn) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 3:28 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 98 | [Love Jones](https://open.spotify.com/track/0eYwyhS1SsHswOZG23V0Qr) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Long Time No See](https://open.spotify.com/album/0AHbQKIEj4X5ghszLRhnLL) | 4:43 |
 | 99 | [No Us, No Them](https://open.spotify.com/track/1JP1HHD3E0ovkSkh4UmQGV) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Islander](https://open.spotify.com/album/6HEzdx1DBhs4ACcWde55vG) | 5:41 |
 
-Snapshot ID: `MTY1NTQwNzkxNSwwMDAwMDAwMGVlZGE4M2M0M2YxYTM2ZjYxNDQ0N2M3YTE4YzEwMWI5`
+Snapshot ID: `MTY1NTQwNzkxNSwwMDAwMDAwMGE0NTI0MjRiMjA1MzgyNTU4NDgyZDhhMTFkYjIxNzlk`

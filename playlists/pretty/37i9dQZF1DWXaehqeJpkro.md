@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,837 likes - 150 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,086 likes - 150 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 14 | [까만 안경](https://open.spotify.com/track/0IPZBKJ5PfYR2y7nmCMDIb) | [Eru](https://open.spotify.com/artist/3mifQJuBZSvh5KRwRptZO0) | [SBS Archive K \- K\-POP](https://open.spotify.com/album/0wQi0RmbvIZIEkLDjjE5x5) | 3:52 |
 | 15 | [I will be your shining star](https://open.spotify.com/track/7hSxOrxogaR7YGpg4l8wmd) | [Song I Han](https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm) | [I will be your shining star](https://open.spotify.com/album/2NjUvZ0qdGQakCdzVRbXup) | 3:41 |
 | 16 | [Timeless](https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [SG Wanna Be+](https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs) | 3:57 |
-| 17 | [오래된 노래](https://open.spotify.com/track/5gllIJSLyRouz1bGO5ues4) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Shine](https://open.spotify.com/album/2aDdQBInFcVq7XHrPPkxfe) | 4:32 |
+| 17 | [old song](https://open.spotify.com/track/5IFuZw0mqTVZn1xWzfYqbb) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [SHINE](https://open.spotify.com/album/1IsW5pVRvmq1sz30YOPFxT) | 4:32 |
 | 18 | [Foolish Love](https://open.spotify.com/track/7I7TTfKcDDAeSf6HPgbdPT) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 3:32 |
 | 19 | [Dial Your Number](https://open.spotify.com/track/2WRag4aQzatDf8SZV7ohbb) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Dial Your Number](https://open.spotify.com/album/6CpymtDyQXAKL3GNYZlCtj) | 4:09 |
 | 20 | [Counting Stars \(Feat\. Beenzino\)](https://open.spotify.com/track/2tXHQVu865MgrCeWeiu52h) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Counting Stars](https://open.spotify.com/album/4w06U9VBPfvTVz4plF7wO5) | 2:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 149 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 |
 | 150 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
 
-Snapshot ID: `MTY0NTYxOTExMiwwMDAwMDAwMGNmOTk1YjRjNmM3NmYwNmNlYzMyYzJiNDdkZTAxMmNk`
+Snapshot ID: `MTY0NTYxOTExMiwwMDAwMDAwMDY3NjgzNmIzNTA3MTFhNjcxYjNjYTg5MWE1ZDYzOTE5`

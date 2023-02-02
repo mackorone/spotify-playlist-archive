@@ -4,7 +4,7 @@
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-56 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/0WLGgGEvXglWBwuFupEmwy)
+56 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,6 @@
 | [The Thrill Is Gone](https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 5:24 | 2020-10-21 |  |
 | [Tired Of Your Jive \- Live At The International Club, Chicago/1966](https://open.spotify.com/track/5IGQhVuiVCPUtr7gatwbfM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Is King \(Live At The International Club, Chicago/1966\)](https://open.spotify.com/album/1iYvqgZGYpBkkkTt37g0ti) | 3:31 | 2020-10-21 |  |
 | [Ventilator Blues](https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 6:13 | 2020-10-21 |  |
-| [Wild About You, Baby](https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:39 | 2020-10-21 |  |
+| [Wild About You, Baby](https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:39 | 2020-10-21 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

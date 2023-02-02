@@ -4,7 +4,7 @@
 
 > Relive your favourite artist moments from the Brilliant Minds conference during <a href="http://symposium.co/">Symposium Stockholm</a>.
 
-18 songs - 1 hr 2 min - [published](https://open.spotify.com/playlist/57t0UcPe9oUlwBVgJZD7Zz)
+18 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

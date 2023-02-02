@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,211 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,644 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 41 | [Take Me To The Mardi Gras](https://open.spotify.com/track/6i5U5NyCknF93w4BilFity) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Two](https://open.spotify.com/album/3UnkPDjAuMNSQbWbr3liax) | 5:49 |
 | 42 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 |
 | 43 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
-| 44 | [The Only Living Boy in New York \- 2013 Remaster](https://open.spotify.com/track/4wof51y8scLARPRCWlvAs4) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Worldwide \(Deluxe Edition\)](https://open.spotify.com/album/2nFNWf97kAuw1hgSitgcMk) | 4:13 |
+| 44 | [The Only Living Boy in New York \- 2013 Remaster](https://open.spotify.com/track/3DcjGbMEvvmmb8pandaCHq) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [The Only Living Boy In New York E.P.](https://open.spotify.com/album/7tZBR3ASd8ksCxu1BeBSJW) | 4:13 |
 | 45 | [Scarborough Fair \- Remastered/2003](https://open.spotify.com/track/0s0s823rpcq4YDFwatzdC0) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 3:50 |
 | 46 | [Cecilia](https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:11 |
 | 47 | [I Am a Rock \- Bonus Track](https://open.spotify.com/track/4XjRpLu18H8aEISzsBzedg) | [Shelter](https://open.spotify.com/artist/4vTTRvwORrfvMOUb3OOUTy) | [When 20 Summers Pass \(20th Anniversary Edition\)](https://open.spotify.com/album/4ABa0D8WnB44fEKCG6BAQM) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 49 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
 | 50 | [Diamonds On The Soles Of Her Shoes \- The Voice Performance](https://open.spotify.com/track/0vlV9EHERw2dRYiuhQNPJB) | [Joshua Davis](https://open.spotify.com/artist/6Z3gpcNJMzjr9Lv7UbxQhZ), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [The Complete Season 8 Collection \(The Voice Performance\)](https://open.spotify.com/album/6MppBBhapzHLawPrAnVVxx) | 3:04 |
 
-Snapshot ID: `MTY0Mjc4NDEyMCwwMDAwMDAwMDI4NTY2YjAwM2VjNGFkNjk4MDYxYWM2NjVjNzUyNTQ4`
+Snapshot ID: `MTY0Mjc4NDEyMCwwMDAwMDAwMGI1YzI0NWRiNDg5NThjZjQ5ZTdjZWRjNTc2Y2VkNTNm`

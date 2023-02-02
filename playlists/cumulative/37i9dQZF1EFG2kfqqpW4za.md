@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/30ynYqxh9XyqxQgvUHjYBG">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-59 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/7MWHzcohDZje49scMSTfF2)
+60 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Calor](https://open.spotify.com/track/5rSSiDtohFEu6Oe5fI54dt) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 4:21 | 2022-06-04 |  |
 | [Conscientização](https://open.spotify.com/track/2P0WN9HJPPCB2xH7t9g0m8) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Conscientização](https://open.spotify.com/album/3X1yGrd9u18zMCIBPoKUyI) | 2:52 | 2022-06-04 |  |
 | [Contei Até Três](https://open.spotify.com/track/1yE6CxOk6rVVed64AtrStV) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Contei Até Três](https://open.spotify.com/album/5BRxDc9TIZAfJHARu6UmHB) | 3:26 | 2022-06-04 |  |
-| [De Volta para o Passado](https://open.spotify.com/track/26eDBtsQiZvv80G2a2F0rY) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Isso não é um disco de Rap](https://open.spotify.com/album/0knkjMsHoNjftzATefGlWs) | 4:59 | 2022-06-04 |  |
+| [De Volta para o Passado](https://open.spotify.com/track/26eDBtsQiZvv80G2a2F0rY) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Isso não é um disco de Rap](https://open.spotify.com/album/0knkjMsHoNjftzATefGlWs) | 4:59 | 2022-06-04 | 2022-12-08 |
 | [Deixa Ficar](https://open.spotify.com/track/3faTNKg8XnSFYWEc2nYPJJ) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Deixa Ficar](https://open.spotify.com/album/7nmLqG8f9B4KjLSPrrfMEz) | 3:23 | 2022-06-04 |  |
 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 | 2022-06-04 |  |
 | [Direitos Iguais \- Ao Vivo](https://open.spotify.com/track/576lgcDFg2t2cjcR0JCiSP) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Ao Vivo No República do Reggae](https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ) | 2:40 | 2022-06-04 |  |
@@ -36,6 +36,7 @@
 | [Jah Jah Me Leve](https://open.spotify.com/track/4ypqT6MRc3FmLWJXQ7XGNZ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 4:13 | 2022-06-04 |  |
 | [Liberdade](https://open.spotify.com/track/1M7yF8dbLikWqvNMdMcLfR) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Infinito Interno](https://open.spotify.com/album/7gibqU8NtLuvNfAflMqZj3) | 3:31 | 2022-06-04 |  |
 | [MALUNGOFORTE.](https://open.spotify.com/track/2v3z1JTUBw1UpsLRa3H6Cm) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 2:08 | 2022-06-04 |  |
+| [Martim de Sá](https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Martim de Sá](https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1) | 3:57 | 2022-12-02 |  |
 | [Minha Sina](https://open.spotify.com/track/4iImTv3CFPEL2KKg0UzB2k) | [Mateus Pinguim](https://open.spotify.com/artist/6bpV6yiMTGBOLbhpIfC8z1), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sound System Cultura de Rua](https://open.spotify.com/album/3huAgoLPQ3WCoWiSTXomSO) | 3:24 | 2022-06-04 |  |
 | [Minha Trilha](https://open.spotify.com/track/4mHxl3TuQz1MuHzKD06Ddx) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Quimera](https://open.spotify.com/album/2s6Xis30Leau0FHqOgpWl4) | 4:27 | 2022-06-04 |  |
 | [Movimento Africano \(Africa Ii\) \- Ao Vivo](https://open.spotify.com/track/17eUPdplHPmzoMJsdyfc68) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 7:35 | 2022-06-04 |  |

@@ -4,7 +4,7 @@
 
 > Our editor picks for the year's best hits! Cover: Maria Becerra
 
-50 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/3xuc7VrHaKGLUBTnbh5RlW)
+50 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

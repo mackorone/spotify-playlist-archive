@@ -4,7 +4,7 @@
 
 > "I use my art to gain perspective and find peace\. The journey is in the destination\. Take in the view, you deserve it." Cover: Hayley Kiyoko
 
-37 songs - 2 hr 20 min - not published yet
+37 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

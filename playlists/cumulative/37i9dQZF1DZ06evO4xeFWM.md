@@ -4,7 +4,7 @@
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 58 min - not published yet
+54 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bad Decisions](https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:09 | 2022-10-26 |  |
 | [Basket Case \- From ‘The Tick’ TV Series](https://open.spotify.com/track/3cfhXgklWpx5fCSYZOp9Wb) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Basket Case \(From ‘The Tick’ TV Series\)](https://open.spotify.com/album/1Eza0hy1Gsfqq3i9AG6yuw) | 2:33 | 2022-10-26 |  |
 | [Blame](https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 2:55 | 2022-10-26 |  |
-| [Can’t Fight This Feeling](https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Can’t Fight This Feeling](https://open.spotify.com/album/4GA0xqV2mfFmup90U0aOlu) | 3:18 | 2022-11-23 | 2022-11-25 |
+| [Can’t Fight This Feeling](https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Can’t Fight This Feeling](https://open.spotify.com/album/4GA0xqV2mfFmup90U0aOlu) | 3:18 | 2022-11-23 | 2023-01-27 |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2022-10-26 |  |
 | [Doom Days](https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 2:18 | 2022-10-26 |  |
 | [Eight Hours](https://open.spotify.com/track/5rO5unCSIjPlKdwNxroqcx) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Tyde](https://open.spotify.com/artist/0chEYcnxOGTcwHRfmoEOYH) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:28 | 2022-10-26 |  |
@@ -53,7 +53,8 @@
 | [Stay Awake?](https://open.spotify.com/track/5RBOGco5lrq7mCF4PiiPZI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:07 | 2022-10-26 |  |
 | [survivin'](https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [survivin'](https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC) | 2:53 | 2022-10-26 |  |
 | [The Anchor](https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 | 2022-10-26 |  |
-| [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 | 2022-10-26 |  |
+| [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 | 2022-10-26 | 2022-11-27 |
+| [The Waves](https://open.spotify.com/track/38eQsWZeCAyYFB6d2lO94G) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:00 | 2023-01-26 |  |
 | [Thelma + Louise](https://open.spotify.com/track/4UxATpWvXewD5EZUW01EeQ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Thelma + Louise](https://open.spotify.com/album/4C5H43XMaCWlOqqHP7qXd7) | 2:17 | 2022-10-26 |  |
 | [Things We Lost In The Fire](https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 4:00 | 2022-10-26 |  |
 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 | 2022-10-26 |  |

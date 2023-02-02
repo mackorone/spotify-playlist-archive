@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "That fuzzy, noisy punk-blues hybrid",
   "name": "Punk Blues",
-  "published_playlist_ids": [
-    "1p2RiftJCMyvTVNCgyg4PN"
-  ],
   "tracks": [
     {
       "album": {
@@ -793,10 +790,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 151733,
       "name": "Release The Bats",
       "url": "https://open.spotify.com/track/1gvhqMMbek9ezNtmu4txNJ"
+    },
+    {
+      "album": {
+        "name": "Junkyard",
+        "url": "https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV"
+      },
+      "artists": [
+        {
+          "name": "The Birthday Party",
+          "url": "https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151733,
+      "name": "Release The Bats",
+      "url": "https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI"
     },
     {
       "album": {

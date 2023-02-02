@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year. Cover: <a href=\"spotify:artist:4TsHKU8l8Wq7n7OPVikirn\">Jidenna</a>.",
   "name": "The Rhythm",
-  "published_playlist_ids": [
-    "5rW6Jls37bSKk3xmMYdx8M"
-  ],
   "tracks": [
     {
       "album": {
@@ -593,6 +590,10 @@
         {
           "name": "Durand Jones & The Indications",
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
       "date_added": "2022-07-29",

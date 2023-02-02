@@ -4,7 +4,7 @@
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-78 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/0JfAREWmsf4OMLVBZTUBmc)
+78 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,8 @@
 | [Bumbum Granada](https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16) | 3:07 | 2020-05-22 | 2022-07-29 |
 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 | 2020-05-22 |  |
 | [Cara Bacana](https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU) | 3:52 | 2020-05-22 | 2022-07-29 |
-| [Cheia de Marra](https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4) | 4:27 | 2020-05-22 |  |
 | [Cheia de Marra](https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP) | 4:27 | 2020-05-22 | 2022-07-29 |
+| [Cheia de Marra](https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Cheia de Marra](https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4) | 4:27 | 2020-05-22 |  |
 | [Deu Onda](https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl) | 2:23 | 2020-05-22 |  |
 | [Deu Onda](https://open.spotify.com/track/0EPxmvsG1BY5td4aTOkWBF) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/4kL6UmXZ0QGt4crDk2n1op) | 2:24 | 2020-05-22 | 2022-07-29 |
 | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Doguinha](https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL), [MC Pupio](https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw) | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK) | 3:04 | 2020-05-22 |  |
@@ -33,7 +33,7 @@
 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 | 2020-05-22 |  |
 | [Faz Gostoso \(feat\. Anitta\)](https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:05 | 2020-05-22 |  |
 | [Fazer Falta](https://open.spotify.com/track/6pSYjx66rlqRmGGTHhnjCo) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Fazer Falta](https://open.spotify.com/album/12SX4VJ6rdQQpMGHVBl1oe) | 3:30 | 2020-05-22 | 2022-07-29 |
-| [Fazer Falta](https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Fazer Falta](https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0) | 3:30 | 2020-05-22 |  |
+| [Fazer Falta](https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Fazer Falta](https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0) | 3:30 | 2020-05-22 |  |
 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 | 2020-05-22 |  |
 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 | 2020-05-22 |  |
 | [Glamourosa \(Rap Glamurosa\)](https://open.spotify.com/track/3C9d0i0lsdlwLkNUt5pD2g) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Funk Brasil Relíquias \(Vol\. 1\)](https://open.spotify.com/album/3HrDEZklVEj1rChbh40pHA) | 3:27 | 2020-05-22 | 2022-07-29 |

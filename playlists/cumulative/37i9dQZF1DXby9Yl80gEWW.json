@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-09",
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
   "name": "Instrumental Bluegrass",
-  "published_playlist_ids": [
-    "4YsfLsdnQQm3Z91YQleLNc"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 140970,
       "name": "30 Turkeys",
       "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
@@ -95,6 +92,24 @@
       "duration_ms": 257640,
       "name": "Airish",
       "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
+    },
+    {
+      "album": {
+        "name": "Things Are Simple",
+        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288026,
+      "name": "Along Came Sonny",
+      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
     },
     {
       "album": {
@@ -179,7 +194,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 236280,
       "name": "Ashland Breakdown",
       "url": "https://open.spotify.com/track/416qnXql5nHfTuj7le2jzC"
@@ -367,7 +382,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 257939,
       "name": "Battersea Skillet Liquor",
       "url": "https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F"
@@ -601,7 +616,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
@@ -767,6 +782,24 @@
       "duration_ms": 180493,
       "name": "Bon Aqua Blues",
       "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
+    },
+    {
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3"
+      },
+      "artists": [
+        {
+          "name": "Nick Dumas",
+          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254906,
+      "name": "Bozeman",
+      "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
     },
     {
       "album": {
@@ -955,7 +988,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 210399,
       "name": "Cheyenne",
       "url": "https://open.spotify.com/track/36Qy9UrlwIGQyltqHcTYYB"
@@ -1140,6 +1173,36 @@
     },
     {
       "album": {
+        "name": "Commencement",
+        "url": "https://open.spotify.com/album/1jDsr7E1Nh5SqkLqbHgfV2"
+      },
+      "artists": [
+        {
+          "name": "Chandler Beavers",
+          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
+        },
+        {
+          "name": "Jeremy Garrett",
+          "url": "https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14"
+        },
+        {
+          "name": "Jake Eddy",
+          "url": "https://open.spotify.com/artist/7qxSMvd1FcjpR87E0vITu4"
+        },
+        {
+          "name": "Josh Underwood",
+          "url": "https://open.spotify.com/artist/4upiWSmYVqXrrwX31Lef3K"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291276,
+      "name": "Commencement",
+      "url": "https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq"
+    },
+    {
+      "album": {
         "name": "Conway",
         "url": "https://open.spotify.com/album/2gxQWRKUiTvcjGm2t9AWIH"
       },
@@ -1181,6 +1244,24 @@
       "duration_ms": 292614,
       "name": "Creatures of Havoc",
       "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
+    },
+    {
+      "album": {
+        "name": "Just Around the Bend: Survival and Revival in Southern Banjo Sounds - Mike Seeger's Last Documentary",
+        "url": "https://open.spotify.com/album/7yBEb8FGqXKtzLzsCf93gg"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86800,
+      "name": "Cripple Creek",
+      "url": "https://open.spotify.com/track/7fqY4vS7K3kxbQLNmmyt8Y"
     },
     {
       "album": {
@@ -1312,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Shaken By A Low Sound (Deluxe)",
+        "url": "https://open.spotify.com/album/45cjYhMQZBlltDVr6sLXrG"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221016,
+      "name": "Ecstasy (Instrumental Edit)",
+      "url": "https://open.spotify.com/track/4Eh0EzmssbxXKjPBKXd0EB"
+    },
+    {
+      "album": {
         "name": "Ecstasy (Instrumental Edit)",
         "url": "https://open.spotify.com/album/5zjiiRo1V6OQiiFaPjkzQj"
       },
@@ -1365,7 +1464,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-16",
       "duration_ms": 229480,
       "name": "EMD",
       "url": "https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb"
@@ -1657,7 +1756,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 217866,
       "name": "Good to Go",
       "url": "https://open.spotify.com/track/0UMa1yjIaKjDUqGpNWER9Q"
@@ -1711,7 +1810,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 203906,
       "name": "Hamilton Special",
       "url": "https://open.spotify.com/track/5jM4lC2HkkhwT9euOCnUfW"
@@ -1855,7 +1954,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 244706,
       "name": "If I Knew - Instrumental",
       "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
@@ -2268,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Leave Some Things Behind",
+        "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
+      },
+      "artists": [
+        {
+          "name": "The Steel Wheels",
+          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121133,
+      "name": "Mountains Quake",
+      "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
+    },
+    {
+      "album": {
         "name": "Looking Glass",
         "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
       },
@@ -2297,7 +2414,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 189061,
       "name": "Nancy Blevins",
       "url": "https://open.spotify.com/track/7DyDMa2OCEWpCNWf6Qt9E5"
@@ -2359,7 +2476,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 288480,
       "name": "No Resolution",
       "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
@@ -2407,6 +2524,28 @@
       "duration_ms": 173925,
       "name": "North Missouri Wagoner",
       "url": "https://open.spotify.com/track/0HIWU30PMWj7RdH24YvjWW"
+    },
+    {
+      "album": {
+        "name": "The Gasoline Brothers",
+        "url": "https://open.spotify.com/album/19w0zikbLZgW8v7BKjyeTX"
+      },
+      "artists": [
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        },
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196032,
+      "name": "Old Joe Clark",
+      "url": "https://open.spotify.com/track/6p54JGVQTiP2oT8UBnOW8L"
     },
     {
       "album": {
@@ -2469,6 +2608,24 @@
       "duration_ms": 306059,
       "name": "Overton Waltz",
       "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
+    },
+    {
+      "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "album": {
@@ -2617,7 +2774,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 213626,
       "name": "Rainbow Bridge",
       "url": "https://open.spotify.com/track/7iGwt0pkSxGRo5u5yHE5fn"
@@ -2769,7 +2926,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 177493,
       "name": "Santa Ana",
       "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
@@ -3229,7 +3386,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 265960,
       "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
       "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
@@ -3352,6 +3509,24 @@
     },
     {
       "album": {
+        "name": "Highball Bruiser",
+        "url": "https://open.spotify.com/album/3LjIY7tkiQmIXpoUOyZpnH"
+      },
+      "artists": [
+        {
+          "name": "Connor Jay Liess",
+          "url": "https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 486167,
+      "name": "The Train",
+      "url": "https://open.spotify.com/track/72PHXtULIZTLdHtO5w5PPi"
+    },
+    {
+      "album": {
         "name": "Town's End",
         "url": "https://open.spotify.com/album/3YS90lzcD6JYYdT3wlB8nz"
       },
@@ -3367,7 +3542,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 206106,
       "name": "Town's End",
       "url": "https://open.spotify.com/track/6fpL9QnornxpYhhWw6aWyM"
@@ -3403,10 +3578,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 251026,
       "name": "Tree King Creek",
       "url": "https://open.spotify.com/track/2eX598AcoEbR1KxPqVAKTP"
+    },
+    {
+      "album": {
+        "name": "Updraft",
+        "url": "https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356561,
+      "name": "Updraft",
+      "url": "https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz"
     },
     {
       "album": {
@@ -3473,7 +3666,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 212173,
       "name": "Waitin' on Gravey",
       "url": "https://open.spotify.com/track/71vPc3R0Eb2NU0McqkfP33"
@@ -3495,7 +3688,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 246357,
       "name": "Waiting for Erin",
       "url": "https://open.spotify.com/track/0ISzfI7FecislLcHOZlOuh"
@@ -3611,7 +3804,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 203621,
       "name": "Wellington",
       "url": "https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF"
@@ -3655,7 +3848,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 226306,
       "name": "Whiskerhead Goes to Leningrad",
       "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"

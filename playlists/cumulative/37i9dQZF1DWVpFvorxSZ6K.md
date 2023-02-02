@@ -4,7 +4,7 @@
 
 > All of your favorite songs from the legendary singer\-songwriter.
 
-50 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/7eCzCVE5qCaVfM0MMOMuRX)
+50 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

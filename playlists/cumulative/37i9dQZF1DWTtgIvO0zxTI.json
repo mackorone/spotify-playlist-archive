@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-22",
   "description": "Aqu\u00ed est\u00e1 el sonido urbano de Venezuela. Cover: Big Soto\n",
   "name": "Flow Venezuela",
-  "published_playlist_ids": [
-    "2efGXAVzCEGB6nG3nfhwEs"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,10 +38,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 252146,
       "name": "360 Grados",
       "url": "https://open.spotify.com/track/2y3TPKvfzg3vBR9VGqtt8S"
+    },
+    {
+      "album": {
+        "name": "4 Favores",
+        "url": "https://open.spotify.com/album/5slWzJL029pVeEL5qDTkMB"
+      },
+      "artists": [
+        {
+          "name": "MARI",
+          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110117,
+      "name": "4 Favores",
+      "url": "https://open.spotify.com/track/03SoqbCZhhiomtLUcF3xs6"
     },
     {
       "album": {
@@ -115,7 +130,7 @@
           "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
@@ -187,7 +202,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 208440,
       "name": "Antivirus",
       "url": "https://open.spotify.com/track/5YxHt7H46QWZLLCyhXG35Q"
@@ -309,6 +324,28 @@
       "duration_ms": 217093,
       "name": "B\u00e1ilame - Remix",
       "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
+    },
+    {
+      "album": {
+        "name": "\u00d1APA",
+        "url": "https://open.spotify.com/album/2nfZng23IldMQd09PvJLe9"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "DJ Skizz",
+          "url": "https://open.spotify.com/artist/1uD648fAShu4AT1hO43EFf"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "CATALINA",
+      "url": "https://open.spotify.com/track/5XUm8jUqkO6QoFwYYnkUIY"
     },
     {
       "album": {
@@ -438,6 +475,32 @@
     },
     {
       "album": {
+        "name": "Como Blanco",
+        "url": "https://open.spotify.com/album/5pK69aIxLhn00uv4P8BVbR"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Taiguerz",
+          "url": "https://open.spotify.com/artist/2Yi5LaK2meRKaZ7oUUFHPu"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Como Blanco",
+      "url": "https://open.spotify.com/track/1lx21kVcyramNferk00CUl"
+    },
+    {
+      "album": {
         "name": "Como Si Nada",
         "url": "https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi"
       },
@@ -537,6 +600,28 @@
       "duration_ms": 132586,
       "name": "DCDT",
       "url": "https://open.spotify.com/track/1apSC9rsvoo2vJfeFCrHvp"
+    },
+    {
+      "album": {
+        "name": "Desenvidiao",
+        "url": "https://open.spotify.com/album/1PpdRv8gDEKSbjVDab80fd"
+      },
+      "artists": [
+        {
+          "name": "Vera Delacruz",
+          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Desenvidiao",
+      "url": "https://open.spotify.com/track/3446RIZOsYjRw5Hj3W3Uul"
     },
     {
       "album": {
@@ -1015,7 +1100,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 128416,
       "name": "MARGARITA",
       "url": "https://open.spotify.com/track/308riuOIFK07a1PV34B0rt"
@@ -1295,7 +1380,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 209647,
       "name": "Orilla",
       "url": "https://open.spotify.com/track/59b7OCoDnL1r6JhUCcNrr7"
@@ -1335,7 +1420,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 195893,
       "name": "Pal Cara",
       "url": "https://open.spotify.com/track/3sF3aJWl0tVITCSuuL9Uun"
@@ -1475,7 +1560,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 235840,
       "name": "Relaci\u00f3n",
       "url": "https://open.spotify.com/track/28U2VaH8PflE2peJ0f9wZp"
@@ -1576,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "t kiero",
+        "url": "https://open.spotify.com/album/5TsreoljdE5hPAFPBGwc5W"
+      },
+      "artists": [
+        {
+          "name": "astrid",
+          "url": "https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148153,
+      "name": "t kiero",
+      "url": "https://open.spotify.com/track/5qVDPQyDtQSHBmFriKfT7S"
+    },
+    {
+      "album": {
         "name": "Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/3T1vAfySBdF7YX0NBA9Kkd"
       },
@@ -1613,6 +1716,28 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/0Xa8TqM7ZKcFSbwJzK2xCr"
+      },
+      "artists": [
+        {
+          "name": "Kid Fresco",
+          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
+        },
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173227,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/4lNqp5wlde1EtSO5q89vub"
     },
     {
       "album": {

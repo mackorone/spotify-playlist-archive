@@ -1,0 +1,26 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7BBCSz2YSg7.md) - [plain](/playlists/plain/37i9dQZF1DX7BBCSz2YSg7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7BBCSz2YSg7)
+
+### [Carlita's 2023 Fresh Start DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX7BBCSz2YSg7)
+
+> The rising Turkish DJ and Producer <a href="spotify:artist:1GVbOnrND8b3eh2JZ4opw8">Carlita</a> explores different styles of electronic music in this dynamic mix for Spotify.
+
+[Spotify](https://open.spotify.com/user/spotify) - 1,965 likes - 14 songs - 59 min 21 sec
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Topdown \- Mixed](https://open.spotify.com/track/4A6PJwVz599HeWpeLTBJjF) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Topdown \(Mixed\)](https://open.spotify.com/album/1jmeDV1tWUM1KZxVd11HmQ) | 3:40 |
+| 2 | [Brasilian Sound \- Mixed](https://open.spotify.com/track/4K9R9l1bVsS74qunxQdiy6) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Brasilian Sound \(Mixed\)](https://open.spotify.com/album/4imUeyfRiwhh1Y8NQls5dI) | 4:46 |
+| 3 | [Feelin' Feelin' \- Mixed](https://open.spotify.com/track/1FkSlcGmpXuQlgZU7AW0Et) | [Inaya Day](https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h) | [Feelin' Feelin' \(Mixed\)](https://open.spotify.com/album/4lYGbPWYXSm01movo8ElNy) | 5:38 |
+| 4 | [You're in My System \- Dennis Quin Vocal Mix \- Mixed](https://open.spotify.com/track/2zYO7kqD3ARgylUeiJ4fCT) | [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [You're in My System \- Dennis Quin Vocal Mix \(Mixed\)](https://open.spotify.com/album/46MAhEUdk8kuZz499WsHNy) | 4:52 |
+| 5 | [Gypsy Woman \- Kaytronik Remix \- Mixed](https://open.spotify.com/track/1Hsa2EdVRTTeQCF7YXGqzc) | [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb), [Nicholas Ryan Gant](https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS), [Kaytronik](https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se) | [Gypsy Woman \- Kaytronik Remix \(Mixed\)](https://open.spotify.com/album/3wyKybqVDFMOd7AhAnt7qy) | 5:28 |
+| 6 | [On My Own Now \- Extended \- Mixed](https://open.spotify.com/track/2dXJpvaYOIGnZTxGxjLd7N) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [On My Own Now \- Extended \(Mixed\)](https://open.spotify.com/album/104BOQNPXZGRaXi59y8CBV) | 3:56 |
+| 7 | [Nostalgic Oblivion \- John Tejada Remix \- Mixed](https://open.spotify.com/track/6XuG5H5un2ac0qAIh6DKmj) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm), [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq) | [Nostalgic Oblivion \- John Tejada Remix \(Mixed\)](https://open.spotify.com/album/0WzmYy4YkqkjEIOhf8iLlZ) | 5:22 |
+| 8 | [Bon Trip \- Radio Edit \- Mixed](https://open.spotify.com/track/0lnD2Sfp9hrqpZaP1nhoOj) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Bon Trip \- Radio Edit \(Mixed\)](https://open.spotify.com/album/0ljoZAQXl7C0YWhroMhmyf) | 4:58 |
+| 9 | [TASTY \- Boys Noize Remix \- Mixed](https://open.spotify.com/track/2UjobrmPOnJesTyNuxzGzI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [TASTY \- Boys Noize Remix \(Mixed\)](https://open.spotify.com/album/6EbIIfUDq0Wl9BmiA3bhKn) | 3:01 |
+| 10 | [Save the Children \- Mixed](https://open.spotify.com/track/7mF8voKNglQdVC7PO7ws5l) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Save the Children \(Mixed\)](https://open.spotify.com/album/5T1qv3BeiH1eUM4kRXtQtA) | 4:20 |
+| 11 | [Tumbale Tumbalo \- Extended Mix \- Mixed](https://open.spotify.com/track/4Lpp2HdxwwnRo8t9t8IQPC) | [Dany Cohiba](https://open.spotify.com/artist/7FI284PGKQmF6a9I0KTNI1) | [Tumbale Tumbalo \- Extended Mix \(Mixed\)](https://open.spotify.com/album/7Eb4EZUEvgAxHOT9QlXK2g) | 3:41 |
+| 12 | [This Is Not Your Job \- Yass Remix \- Mixed](https://open.spotify.com/track/2b0d69MfIrABlvLBI8rJyk) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN), [Yass](https://open.spotify.com/artist/1IfDLRzm8snCcXePrYzEI8), [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm) | [This Is Not Your Job \- Yass Remix \(Mixed\)](https://open.spotify.com/album/2Puu4ofPMOZVeanbCn6y6x) | 5:03 |
+| 13 | [Joha \- Mixed](https://open.spotify.com/track/42h1kGcO1YtEjrPi5pThxp) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Joha \(Mixed\)](https://open.spotify.com/album/6uC049VzF1xCefiSzOlBVm) | 2:16 |
+| 14 | [Poly \- Mixed](https://open.spotify.com/track/4Owsfop8DweRJfdpPfbRKN) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Poly \(Mixed\)](https://open.spotify.com/album/5b3IJeIvPlgPm9am1sgPBN) | 2:20 |
+
+Snapshot ID: `MTY3MjkzODAwMCwwMDAwMDAwMGI3MmI5ZmE3ZmZlNmRhZTQ5ZGIyOWE2MzA2MGIwMjI1`

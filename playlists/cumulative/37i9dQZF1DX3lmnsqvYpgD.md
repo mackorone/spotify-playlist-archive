@@ -4,7 +4,7 @@
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-96 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/40APne10sJapUUxupUCyA9)
+97 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [最佳位置](https://open.spotify.com/track/6nyZs944tlz4TtYeJ2OEMr) | [Bondy Chiu](https://open.spotify.com/artist/0JI4jLIt8LAfUID400KRl7) | [鑑聽天碟](https://open.spotify.com/album/6RjVCJ4qHoeeIj8I94HEDY) | 3:52 | 2022-04-11 |  |
 | [最難唱的情歌](https://open.spotify.com/track/6LMRfMFk97tM79lWJYTdAW) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Threesome](https://open.spotify.com/album/4Bn7uXDjOqkHZ1atMprNF0) | 3:24 | 2022-04-11 |  |
 | [未來](https://open.spotify.com/track/4vZQRFmvaVuZ5yXiN5inrd) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 3:39 | 2022-04-11 |  |
-| [柴灣角街](https://open.spotify.com/track/7l7wDs93UypiYGOd4tdfs0) | [TomFatKi Billy Choi](https://open.spotify.com/artist/2QSxO12sc6RrTQSwiDKfrV), [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ), [East City](https://open.spotify.com/artist/4h6dvXIVMq6JdWWfcHT1kw) | [柴灣角街](https://open.spotify.com/album/666epeXOJkJ4M6hx7DBj9O) | 4:13 | 2022-09-20 |  |
+| [柴灣角街](https://open.spotify.com/track/7wbjVdLlfWdEp37cWHFlRw) | [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6), [East City](https://open.spotify.com/artist/4h6dvXIVMq6JdWWfcHT1kw) | [柴灣角街](https://open.spotify.com/album/3nGBZjacwEPNPF8Pi3JRBN) | 4:13 | 2022-11-03 |  |
+| [柴灣角街](https://open.spotify.com/track/7l7wDs93UypiYGOd4tdfs0) | [TomFatKi Billy Choi](https://open.spotify.com/artist/2QSxO12sc6RrTQSwiDKfrV), [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ), [East City](https://open.spotify.com/artist/4h6dvXIVMq6JdWWfcHT1kw) | [柴灣角街](https://open.spotify.com/album/666epeXOJkJ4M6hx7DBj9O) | 4:13 | 2022-09-20 | 2022-12-01 |
 | [森林](https://open.spotify.com/track/6Zl8uPNEcnHpHC0sVZhScU) | [Mr.](https://open.spotify.com/artist/5yocZHV4puj9QHb4xAXAtL) | [We R Mr\. \(Vol\. 1\)](https://open.spotify.com/album/3FOHPQNGCZDQnrDdZdCPB7) | 5:08 | 2022-04-11 |  |
 | [每次你走的時分](https://open.spotify.com/track/6i8z0tElGO6Ye3Bk7nW496) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:03 | 2022-04-11 |  |
 | [海邊的呀豪](https://open.spotify.com/track/3nKF5Wp0RTdD3tJEia0pgq) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [海邊的呀豪](https://open.spotify.com/album/23Isl77qYMyntBEPCkyAz2) | 3:21 | 2022-11-03 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Prendete con tu lista favorita de Dembow. Foto: El Alfa",
   "name": "Rep\u00fablica Dembow",
-  "published_playlist_ids": [
-    "0M7kUlhLiJGAPIrDjqZTS6"
-  ],
   "tracks": [
     {
       "album": {
@@ -117,7 +114,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 206936,
       "name": "Acelera",
       "url": "https://open.spotify.com/track/1G1Jk034FuLw7JsaymjIWU"
@@ -1647,7 +1644,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": "2022-12-27",
       "duration_ms": 232216,
       "name": "El Gagayor",
       "url": "https://open.spotify.com/track/0yc93K8GZlCCL77cVMV3GF"
@@ -1866,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "El Rockanyor (Tres Pasito)",
+        "url": "https://open.spotify.com/album/3XEqQJT2AzTJncYtdUMbc2"
+      },
+      "artists": [
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191459,
+      "name": "El Rockanyor (Tres Pasito)",
+      "url": "https://open.spotify.com/track/1wsYUJMv8TXexAmCZsXrwd"
+    },
+    {
+      "album": {
         "name": "El Singon",
         "url": "https://open.spotify.com/album/4lNzX8T26wYmDYVvWweXo4"
       },
@@ -1960,6 +1979,32 @@
     },
     {
       "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/31TLZhqZdOT2HVrh5b9rrH"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159860,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6lyoUlB3Ppo4MHrG2Sp47o"
+    },
+    {
+      "album": {
         "name": "Ella Eh!",
         "url": "https://open.spotify.com/album/1CnioHRF94vQ0xTSS0AW1c"
       },
@@ -1983,8 +2028,8 @@
       },
       "artists": [
         {
-          "name": "L-R",
-          "url": "https://open.spotify.com/artist/1SHvPZpMlhUBjJysc0ZtV8"
+          "name": "LR",
+          "url": "https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l"
         },
         {
           "name": "La Nueva Escuela",
@@ -2380,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "Hay Santo",
+        "url": "https://open.spotify.com/album/2jlvqgwdqIpqpuYGv1JdJ2"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Jonatan Burlon",
+          "url": "https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207631,
+      "name": "Hay Santo",
+      "url": "https://open.spotify.com/track/1MUJMUO1dywCGUsYYOUFnH"
+    },
+    {
+      "album": {
         "name": "Hoy Amanecemos",
         "url": "https://open.spotify.com/album/5rPuiSwNfnvnpo17RamHcI"
       },
@@ -2395,7 +2462,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-30",
       "duration_ms": 163727,
       "name": "Hoy Amanecemos",
       "url": "https://open.spotify.com/track/5puUDk4F0Kn0pAK9Y00X3j"
@@ -3591,7 +3658,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-07",
+      "date_removed": "2022-12-16",
       "duration_ms": 209470,
       "name": "Matadora",
       "url": "https://open.spotify.com/track/0invq6hmeodEYK3pJbi1au"
@@ -3661,12 +3728,12 @@
           "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
         },
         {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        },
-        {
           "name": "La Melma Music",
           "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
         }
       ],
       "date_added": "2022-11-25",
@@ -3825,6 +3892,32 @@
       "duration_ms": 200088,
       "name": "Mente de Pecao - Remix",
       "url": "https://open.spotify.com/track/7uyM5A5BWpLB6n0z1maIon"
+    },
+    {
+      "album": {
+        "name": "Mente De Pecao (Remix)",
+        "url": "https://open.spotify.com/album/5ZANgJBteL8p3FJAYu6It8"
+      },
+      "artists": [
+        {
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 200058,
+      "name": "Mente De Pecao - Remix",
+      "url": "https://open.spotify.com/track/1IOOAeDyZwGYqnLQCsEKrC"
     },
     {
       "album": {
@@ -4245,7 +4338,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 224482,
       "name": "Paketum",
       "url": "https://open.spotify.com/track/1Tam1wR5Hm7CudXEcX6dU9"
@@ -4853,7 +4946,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 124238,
       "name": "Que Me Guaye",
       "url": "https://open.spotify.com/track/7eEsEBv9uRIUov0MMfmbgi"
@@ -5088,7 +5181,7 @@
     },
     {
       "album": {
-        "name": "Romo y Pepas",
+        "name": "Romo y Pepas (with Angel Dior)",
         "url": "https://open.spotify.com/album/79XrynY1blrNcoxHu1UIj3"
       },
       "artists": [
@@ -5105,7 +5198,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161000,
-      "name": "Romo y Pepas",
+      "name": "Romo y Pepas (with Angel Dior)",
       "url": "https://open.spotify.com/track/3LGavT7oNZiI5WjdmjPiOo"
     },
     {
@@ -5301,7 +5394,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 211515,
       "name": "Suave",
       "url": "https://open.spotify.com/track/46P3sjn38awa9mlokdDlBU"
@@ -6269,7 +6362,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 184826,
       "name": "Tu Maldita Madre (Tiradera a El L\u00e1piz Conciente)",
       "url": "https://open.spotify.com/track/7214sQpmw7nAgTfE4D3vQt"

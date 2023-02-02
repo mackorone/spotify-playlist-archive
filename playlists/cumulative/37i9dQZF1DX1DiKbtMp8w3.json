@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-13",
   "description": "Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest-running rock festival in Korea! (\ud55c\uad6d \ucd5c\uc7a5\uc218 \uad6d\uc81c \ub85d \ud398\uc2a4\ud2f0\ubc8c\uc778 \ubd80\uc0b0 \ub85d \ud398\uc2a4\ud2f0\ubc8c\uc758 \ub77c\uc778\uc5c5\uacfc \ud604\uc7a5 \uacbd\ud5d8\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "BUSAN International Rock Festival 2022",
-  "published_playlist_ids": [
-    "7jC47AMsHxfgse5RBvTx03"
-  ],
   "tracks": [
     {
       "album": {
@@ -541,7 +538,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 246736,
       "name": "Burger",
       "url": "https://open.spotify.com/track/4XvXox1Qjw5iadBBJkVRMv"
@@ -3895,6 +3892,24 @@
       "duration_ms": 408999,
       "name": "\ub2e4\uc8fd\uc790",
       "url": "https://open.spotify.com/track/5zElW3dIf8kuVjd9ak82MQ"
+    },
+    {
+      "album": {
+        "name": "Frankly I\u2026",
+        "url": "https://open.spotify.com/album/1ZnN6DgqZVnxRHd6OxGsBh"
+      },
+      "artists": [
+        {
+          "name": "FRankly",
+          "url": "https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246736,
+      "name": "\ubc84\uac70 Burger",
+      "url": "https://open.spotify.com/track/51f4A9WcjkND9aGHpuAh8Q"
     },
     {
       "album": {

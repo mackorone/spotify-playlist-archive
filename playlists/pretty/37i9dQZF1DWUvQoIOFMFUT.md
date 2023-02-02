@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,060 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,970 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 19 | [Black Cloud](https://open.spotify.com/track/7MkBQ0FuRr4R0mlKEdBW0W) | [Playwrite](https://open.spotify.com/artist/0EiT4C5JLoSGXyEpHAZpEN) | [Cathedrals](https://open.spotify.com/album/3OvoMUfySPeoCMn6CBDmRD) | 3:35 |
 | 20 | [Redeye](https://open.spotify.com/track/0dOhHUYXDhNzKWtsvaNv3R) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Redeye](https://open.spotify.com/album/3bMCftnYUVKzKd1QuJUV4m) | 3:51 |
 | 21 | [i don't know where i'm going but that's okay](https://open.spotify.com/track/5EXoQjNAotUspxZhPHiGE7) | [sarya](https://open.spotify.com/artist/1jIluixQm1CH6lBpeq46f5) | [take care of yourself](https://open.spotify.com/album/5PnmGxnNA1sR9MZVrFpvlA) | 4:42 |
-| 22 | [Ember](https://open.spotify.com/track/6dYcB7modGAixjXyjkk8Hn) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3pH3ulLQ0XIYNTEyrjV63f) | 2:40 |
+| 22 | [Ember](https://open.spotify.com/track/1xUsZV6sIKDfOBJIxSrAcU) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3kHGKSPT55zIpALNPpI6TM) | 2:40 |
 | 23 | [Music Again](https://open.spotify.com/track/4BVVSKWz1ABYE2mfPTD38b) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [I've Been Trying To Tell You](https://open.spotify.com/album/4lAlJDRobl1616M78q4lBj) | 5:45 |
 | 24 | [No One's Lost Tribe](https://open.spotify.com/track/5wXmeSda4d0joFuQ8TrG3c) | [Matt Deighton](https://open.spotify.com/artist/3FEe8aolYovgLWOStVywwH) | [Doubtless Dauntless](https://open.spotify.com/album/28USXeDSrtZwJM2rEzFJWk) | 4:10 |
 | 25 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 47 | [All I Want](https://open.spotify.com/track/3ZYF8cV01HigmljsPaGFgn) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:22 |
 | 48 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 49 | [The Bottom Line \(feat\. Josin\)](https://open.spotify.com/track/6SWcMCO8k07ptNCxf3Vmij) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 4:02 |
-| 50 | [Middle Of Nowhere](https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb) | 6:42 |
+| 50 | [Middle Of Nowhere](https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg) | [Middle Of Nowhere](https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG) | 6:42 |
 | 51 | [I Won't](https://open.spotify.com/track/4dZOYn2YKHlRFDdYMabhNi) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [I Won't](https://open.spotify.com/album/1s9nYOISY7t8qS8hhLrYjk) | 3:35 |
 | 52 | [Reculver](https://open.spotify.com/track/6rkBNzraDcu5xuOMPGM041) | [lotusbliss](https://open.spotify.com/artist/7KasCF2ZfqwGRglWxqPFne) | [Bittersweet](https://open.spotify.com/album/3vbgdxeQbajiKQGphj6nkR) | 4:28 |
 | 53 | [RC\-20](https://open.spotify.com/track/4D1lbXrMY3iNnTqmRlcN5t) | [ChiruP](https://open.spotify.com/artist/5vaqhKQFXVxNaLP5qXYjrs) | [RC\-20](https://open.spotify.com/album/6lcAWTaPj9p67z1uBPX2aS) | 3:24 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 65 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 |
 | 66 | [Chewing Cotton Wool](https://open.spotify.com/track/3XxI16XYIjNhbvMFSN6Mlg) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 3:29 |
 | 67 | [Let You Down](https://open.spotify.com/track/2fPLTshHikksne597oM4q5) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [See Inside](https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db) | 3:26 |
-| 68 | [Wonder](https://open.spotify.com/track/7wq53xU6AozEaJV4CgNMQq) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 6:32 |
+| 68 | [Wonder](https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme, Shabaka Hutchings](https://open.spotify.com/artist/6rGWpRg4lDCG08g5kCXPP8) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 6:32 |
 | 69 | [Just Asking](https://open.spotify.com/track/6D1dL8RshXW9TkhqFRynx5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just Asking](https://open.spotify.com/album/7pddbmgA9wlMn6HomsAe2d) | 2:29 |
 | 70 | [Don't Forget About Me](https://open.spotify.com/track/5qUujOsbcVq8oo3ndNET6e) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:06 |
 | 71 | [Alright](https://open.spotify.com/track/1MrUQX327aKDnOawrNnRUJ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 | 100 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
 
-Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMGUyOWQ3ZTEzODEzZTNhZWU0NWI4NGEzNmQ4MzFjOWRm`
+Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMGIyYTRjMDQwNzhhOTQ2NWFkYjIzNDJmZGEwMWMwY2Iw`

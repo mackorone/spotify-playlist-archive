@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Lo que suena en la noche.",
   "name": "Andando De Noche",
-  "published_playlist_ids": [
-    "21GnVzY5sfP4CmWY4cHSf6"
-  ],
   "tracks": [
     {
       "album": {
@@ -161,36 +158,6 @@
     {
       "album": {
         "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "date_added": "2022-06-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 270493,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
-    },
-    {
-      "album": {
-        "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb"
       },
       "artists": [
@@ -220,6 +187,36 @@
     },
     {
       "album": {
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/4aaDxJmUbZuIsBHSRclIre"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270493,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/5lhcHMDQpNwhM62lSOrvLf"
+    },
+    {
+      "album": {
         "name": "Nibiru",
         "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
       },
@@ -231,7 +228,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-29",
       "duration_ms": 178160,
       "name": "Amor Genuino",
       "url": "https://open.spotify.com/track/3xEozpt8pAptvpH69iJhOw"
@@ -411,7 +408,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 203392,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye"
@@ -467,7 +464,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 240306,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs"
@@ -649,6 +646,24 @@
       "duration_ms": 168247,
       "name": "Connection",
       "url": "https://open.spotify.com/track/0G6T1SgiQSTqxXnrDChHfu"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/1Tet5B9nNy0B5pfVPRRfNQ"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151373,
+      "name": "Coraz\u00f3n Roto",
+      "url": "https://open.spotify.com/track/4x2cAn3IIBBMpXsU8UHS9k"
     },
     {
       "album": {
@@ -1041,7 +1056,7 @@
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1365,7 +1380,7 @@
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -1684,6 +1699,28 @@
     },
     {
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165646,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/1wNThvd9AUiHcKrEvnDd6o"
+    },
+    {
+      "album": {
         "name": "Fresa",
         "url": "https://open.spotify.com/album/2v2CUuzRvsBNb4c5Rj8nqi"
       },
@@ -1699,7 +1736,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 165646,
       "name": "Fresa",
       "url": "https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM"
@@ -2105,7 +2142,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 192096,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/2l2BkSac9dFKsg2gYALbRg"
@@ -2129,7 +2166,7 @@
           "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -2359,7 +2396,7 @@
           "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -2655,7 +2692,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-01-13",
       "duration_ms": 317440,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/36dhj3CSJ2gsED35rBswno"
@@ -2775,6 +2812,32 @@
     {
       "album": {
         "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
+    },
+    {
+      "album": {
+        "name": "Famouz",
         "url": "https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo"
       },
       "artists": [
@@ -2793,7 +2856,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 309120,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P"
@@ -2969,6 +3032,32 @@
     {
       "album": {
         "name": "Nunca Me Amo",
+        "url": "https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/6jCF6MQ050engg73RJnN87"
+    },
+    {
+      "album": {
+        "name": "Nunca Me Amo",
         "url": "https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4"
       },
       "artists": [
@@ -2987,7 +3076,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 199641,
       "name": "Nunca Me Amo",
       "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
@@ -3451,7 +3540,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 168979,
       "name": "Se Pik\u00f3 El After",
       "url": "https://open.spotify.com/track/4XMnk5JteXlqjvc52OkoTJ"
@@ -3541,7 +3630,7 @@
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -3601,7 +3690,7 @@
       },
       "artists": [
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -3747,7 +3836,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 201813,
       "name": "S\u00edgueme - Remix",
       "url": "https://open.spotify.com/track/7IpRYJ71dk98P0SmgnNLYh"
@@ -3763,7 +3852,7 @@
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -4061,7 +4150,7 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],

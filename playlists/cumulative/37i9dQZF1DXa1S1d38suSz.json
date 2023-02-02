@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "T\u00fa, nosotros y esta lista de canciones. Foto: Chayanne",
   "name": "Para Enamorados",
-  "published_playlist_ids": [
-    "3WqtowYoqJPslwPTVPQQJV"
-  ],
   "tracks": [
     {
       "album": {
@@ -1045,6 +1042,24 @@
       "duration_ms": 245106,
       "name": "No Podr\u00e1s",
       "url": "https://open.spotify.com/track/6gZOW0BdA7G1Nkg0uK0YDI"
+    },
+    {
+      "album": {
+        "name": "No S\u00e9 Querer",
+        "url": "https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205082,
+      "name": "No S\u00e9 Querer",
+      "url": "https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2"
     },
     {
       "album": {

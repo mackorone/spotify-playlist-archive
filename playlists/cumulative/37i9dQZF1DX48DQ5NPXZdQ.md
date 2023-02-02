@@ -4,7 +4,7 @@
 
 > Su música, como ellos, es eterna\. En portada: Juan Gabriel
 
-61 songs - 3 hr 52 min - not published yet
+61 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

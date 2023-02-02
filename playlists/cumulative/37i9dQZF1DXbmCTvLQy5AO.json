@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Empowered rhymes and vibes. Cover: Lil Nas X",
   "name": "Work It, Own It",
-  "published_playlist_ids": [
-    "7wi1BWlfT5Ro0JXOEqc0TU"
-  ],
   "tracks": [
     {
       "album": {
@@ -883,6 +880,40 @@
     {
       "album": {
         "name": "TAKE ME A_PART, THE REMIXES",
+        "url": "https://open.spotify.com/album/5S5ZRw92uGjaWUlIDPIlPY"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "Ms. Boogie",
+          "url": "https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq"
+        },
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        },
+        {
+          "name": "Junglepussy",
+          "url": "https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B"
+        },
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320833,
+      "name": "LMK_WHAT\u2019S REALLY GOOD REMIX_ FEAT_PRINCESS NOKIA_JUNGLEPUSSY_CUPCAKKE_MS. BOOGIE_100 BPM",
+      "url": "https://open.spotify.com/track/1JblDE7lQlw09HD3vm2YyZ"
+    },
+    {
+      "album": {
+        "name": "TAKE ME A_PART, THE REMIXES",
         "url": "https://open.spotify.com/album/00bR0PfkGVAizXpN05DYrs"
       },
       "artists": [
@@ -909,7 +940,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 320833,
       "name": "LMK_WHAT\u2019S REALLY GOOD REMIX_ FEAT_PRINCESS NOKIA_JUNGLEPUSSY_CUPCAKKE_MS. BOOGIE_100 BPM",
       "url": "https://open.spotify.com/track/1q5h9UkGVYVoec4ydU9P0d"
@@ -1608,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154749,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X"
+    },
+    {
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv"
       },
@@ -1619,7 +1668,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 154749,
       "name": "Venom",
       "url": "https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C"

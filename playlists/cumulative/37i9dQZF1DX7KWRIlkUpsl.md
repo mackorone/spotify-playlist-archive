@@ -4,7 +4,7 @@
 
 > From Songs About Jane to JORDI, find their latest releases here!
 
-85 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/6Ofp0EBE9ws2oDUdakS608)
+85 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

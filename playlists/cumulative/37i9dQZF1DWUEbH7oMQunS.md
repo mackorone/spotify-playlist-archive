@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-81 songs - 5 hr 44 min - [published](https://open.spotify.com/playlist/2fhEncLY2hSNlKhmKogG0k)
+81 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

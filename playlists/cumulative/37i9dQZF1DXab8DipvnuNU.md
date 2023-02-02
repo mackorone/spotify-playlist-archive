@@ -4,7 +4,7 @@
 
 > Essential tunes for time with the family.
 
-80 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0dYNpHRtzFloB9ZnDfgiL9)
+80 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

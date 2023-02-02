@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
   "name": "Soultronic",
-  "published_playlist_ids": [
-    "5u0IGmC2ej39pmSJy1wKWQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -843,10 +840,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 262643,
       "name": "Brooklyn Ballers",
       "url": "https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr"
+    },
+    {
+      "album": {
+        "name": "Third",
+        "url": "https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264581,
+      "name": "Brooklyn Ballers",
+      "url": "https://open.spotify.com/track/32yHBkF9L1WEHskN9gDePp"
     },
     {
       "album": {
@@ -2193,7 +2208,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-08",
       "duration_ms": 264552,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
@@ -2853,7 +2868,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-12",
       "duration_ms": 201991,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/2DqKoRU4LkUq9RA7Dr3U5R"
@@ -3019,10 +3034,6 @@
         {
           "name": "George Riley",
           "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        },
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
         }
       ],
       "date_added": "2022-05-06",
@@ -3329,7 +3340,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 248134,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa"
@@ -3685,7 +3696,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 191895,
       "name": "ME!",
       "url": "https://open.spotify.com/track/5bOj8Ld0sxtbUsIAkGOhgu"
@@ -3939,7 +3950,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
@@ -6051,7 +6062,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 177560,
       "name": "Without You",
       "url": "https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 
 > Classic pop, rock and folk for a pleasant drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,681 likes - 69 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,696 likes - 69 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 | 48 | [Jealous Guy \- Remastered 2010](https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 4:17 |
 | 49 | [Make It with You](https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [On the Waters](https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7) | 3:12 |
 | 50 | [Take It to the Limit \- 2013 Remaster](https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:47 |
-| 51 | [It Might Be You](https://open.spotify.com/track/2wBblZ0wyRVjSVKQrNwSFx) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [20th Century Masters: The Millennium Collection: Best Of Stephen Bishop](https://open.spotify.com/album/5xQPBKkD2vZQag95dVpyOs) | 4:13 |
+| 51 | [It Might Be You](https://open.spotify.com/track/2Qmx8W62PEz88T7cGjHDug) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Best of Bish](https://open.spotify.com/album/3jONwbdCWOJf9uqUBHXvhj) | 4:18 |
 | 52 | [The Weight \- Remastered 2000](https://open.spotify.com/track/68QVDfkzKCNiWNyZo3rUKz) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Greatest Hits](https://open.spotify.com/album/5qSfqoD1O3P45CYysXlpOo) | 4:35 |
 | 53 | [We May Never Pass This Way \(Again\)](https://open.spotify.com/track/7H25ehG6xvB8K2ltLhbRJP) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Seals & Crofts' Greatest Hits](https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj) | 4:14 |
 | 54 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMBt9UEs0qm.md) - [plain]
 | 68 | [Somewhere U.S.A.](https://open.spotify.com/track/3ayP2t2qMgIqj8Yy1xHtaa) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 2:53 |
 | 69 | [One of Us Must Know \(Sooner or Later\)](https://open.spotify.com/track/40GFPBolcy0yucApV9uxq2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:52 |
 
-Snapshot ID: `MTY0MzM5MTE3OSwwMDAwMDAwMDBkOThkZmM5NzMyMDI2ZTRlYmQ2YTQ0NjljMDk5M2E5`
+Snapshot ID: `MTY0MzM5MTE3OSwwMDAwMDAwMDdkOGIzMzJjN2Y2MWI5NTc2ZmI0OThkN2JjY2Y2ZDY4`

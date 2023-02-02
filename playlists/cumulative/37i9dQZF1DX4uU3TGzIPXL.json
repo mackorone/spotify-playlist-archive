@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "The songs of the 1990s that will make you dance all summer long!",
   "name": "Summer Hits of the 90s",
-  "published_playlist_ids": [
-    "41ScF5UDsiCJupESfjOcX6"
-  ],
   "tracks": [
     {
       "album": {
@@ -113,6 +110,24 @@
       "duration_ms": 193880,
       "name": "9Pm (Till I Come)",
       "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
+    },
+    {
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
     },
     {
       "album": {
@@ -315,7 +330,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 236933,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"

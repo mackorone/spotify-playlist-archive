@@ -4,7 +4,7 @@
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-128 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/13RbIJFt6BWK5QypeKN401)
+128 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [I Want Candy](https://open.spotify.com/track/6o0CzOoSmMmzJ5Ycvhp52S) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [What's Cooking in the Kitchen \(Songs about Food\)](https://open.spotify.com/album/5FB7uAtTyrZL7PsA557Si0) | 2:42 | 2022-04-05 |  |
 | [I'd Eat It Anyway](https://open.spotify.com/track/0qGjCWPtmI8epcV6aeLALB) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1Uz91yvWTiomeFibfqP761) | 2:24 | 2022-04-05 | 2022-10-27 |
 | [I'd Eat It Anyway](https://open.spotify.com/track/4pNSUTNUmVicSriWSCoGDY) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Good Ideas](https://open.spotify.com/album/1i8TZqSzAGr0IfHRhvkP1b) | 2:25 | 2022-04-05 |  |
-| [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 | 2022-04-05 |  |
+| [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 | 2022-04-05 |  |
 | [Jelly Beans](https://open.spotify.com/track/3UsXljh1OzBOjRie7kHRVV) | [The Hipwaders](https://open.spotify.com/artist/1bl9sV1dYYUeY1XRYn1LQs) | [The Hipwaders](https://open.spotify.com/album/09F5V1USMyqra4XFaWF5Ep) | 1:46 | 2022-04-05 |  |
 | [Jelly On A Plate](https://open.spotify.com/track/76urTUQpOsUmi9nM8fqI5y) | [Pre\-Teens](https://open.spotify.com/artist/53y0JudctNqoyg3uMVPTka) | [Song Time](https://open.spotify.com/album/1r8aZcuQ83GGK2FlFpu6JE) | 2:06 | 2022-04-05 |  |
 | [Jelly On A Plate](https://open.spotify.com/track/343RCyqoTAPfdqRDjY1sVw) | [The Birthday Bunch](https://open.spotify.com/artist/0DLUrbFqDNVA1G5c3Dq3Ot) | [Happy Birthday Travis](https://open.spotify.com/album/40EzyLoHEobRZgEBFmJxzg) | 2:06 | 2022-04-05 | 2022-11-13 |

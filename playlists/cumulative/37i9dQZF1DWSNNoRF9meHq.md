@@ -4,7 +4,7 @@
 
 > A collection of hauntingly beautiful slow movements from 50 symphonies, that are known for their sweeping melodic themes, and <a href="spotify:user:spotify:playlist:37i9dQZF1DX4s3V2rTswzO">passionate</a> melancholy.
 
-50 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/2luMs2QbCD2g3hkBzNlM4g)
+50 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

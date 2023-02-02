@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,007 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,180 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

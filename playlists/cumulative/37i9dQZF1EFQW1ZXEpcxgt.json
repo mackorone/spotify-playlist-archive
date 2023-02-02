@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/6S5xTXudxisQUeWkyU4H74\">Alex Eskeerdo Izquierdo</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Alex Eskeerdo Izquierdo",
-  "published_playlist_ids": [
-    "20FGvaxINrxgnRyxmNTUGJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -648,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Stars Dance (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251480,
+      "name": "Forget Forever",
+      "url": "https://open.spotify.com/track/7D39d96OheT62fgxoGaElz"
+    },
+    {
+      "album": {
         "name": "For You EP",
         "url": "https://open.spotify.com/album/1Um6gMP04VQ0rGegUyXthT"
       },
@@ -659,7 +674,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 226453,
       "name": "Forget Forever - ST\u00a3FAN Remix",
       "url": "https://open.spotify.com/track/7EO3dPoidji4aCBvfcftYF"

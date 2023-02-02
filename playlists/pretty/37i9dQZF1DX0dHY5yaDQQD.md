@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,881 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,724 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 9 | [SEQUENCE](https://open.spotify.com/track/3352NJ15FsCKvBfKKpUEyz) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [22122](https://open.spotify.com/album/0mEMOUGU3MA2epy6Xk38Ai) | 2:39 |
 | 10 | [Ballast](https://open.spotify.com/track/26UfYyC9eZyavP1oJ4Dpsg) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#5](https://open.spotify.com/album/7g6AaylaH6MMPVYfX8QWqj) | 4:57 |
 | 11 | [in my closet](https://open.spotify.com/track/2Tyz2yalMYgk9evio4Pc8W) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [TRUST](https://open.spotify.com/album/558F6R7m4TZSKYb4xnANuF) | 3:32 |
-| 12 | [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 |
+| 12 | [Hard Tarantella](https://open.spotify.com/track/0XStJCyj4Q8eNtuyFcoifu) | [NZIRIAA](https://open.spotify.com/artist/708GD7wt7fEo1CrRTCfdld) | [XXYBRID](https://open.spotify.com/album/2uKd4O9RA1lWwetOeQZ31J) | 5:05 |
 | 13 | [Subroutines](https://open.spotify.com/track/63mxkfFKoOlZclXgs7IbMs) | [Ctrls](https://open.spotify.com/artist/5PM5HE3CFA2qdDnVucPMRc) | [Your Data](https://open.spotify.com/album/6zZxNXfiYxofTYciOsGbYD) | 5:03 |
 | 14 | [Kekuasaan \(Prontaxan Remix\)](https://open.spotify.com/track/5ZCUAO9sJoRi6t9g8k91Mg) | [Senyawa](https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ) | [Alkisah Dikisahkan](https://open.spotify.com/album/2vWMINv5ZtiZsfiG2chFKI) | 6:34 |
 | 15 | [Gazelles](https://open.spotify.com/track/5NXtSlE0fIxHedvt8bMlQd) | [Safa](https://open.spotify.com/artist/24Szdb46cXuW37aog0aosQ) | [Ibtihalat](https://open.spotify.com/album/3UYnjb0u2MQPEwkanjQzdr) | 3:35 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 39 | [Rancor](https://open.spotify.com/track/4ZvtoneuGescYoD6fIMREr) | [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67), [X\-Tension](https://open.spotify.com/artist/19QuWp2q7u0osyIjh9qQkD) | [Rancor EP](https://open.spotify.com/album/3XsZFScRqSPpkGz2YwSUxa) | 6:45 |
 | 40 | [Jumpin'](https://open.spotify.com/track/3CjqPzG6sUMTzVAcA2bdKS) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Jumpin'](https://open.spotify.com/album/2KGsOHUVxwWMfJ8g3WtTER) | 5:25 |
 | 41 | [Watch Yo Step \(Feeling Myself\)](https://open.spotify.com/track/0toc37MmCG1dIhDIMrqkpv) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Watch Yo Step \(Feeling Myself\)](https://open.spotify.com/album/5LFHnroRCCp9oSzpm4dciv) | 3:24 |
-| 42 | [The Devil \- Tygapaw Remix](https://open.spotify.com/track/5ytwG3scRPVYVQLLFEntMv) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Dedicated 2 Disrespect: The Remixes](https://open.spotify.com/album/6uDLaQgGNwhEezAaj5HVC9) | 3:46 |
-| 43 | [Inner Space](https://open.spotify.com/track/0C7TKUi4Tjfept2pkesS1e) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Inner Space](https://open.spotify.com/album/4i70IT51TDRRPl47id6hqC) | 4:54 |
+| 42 | [The Devil \- Tygapaw Remix](https://open.spotify.com/track/5ytwG3scRPVYVQLLFEntMv) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Dedicated 2 Disrespect: The Remixes](https://open.spotify.com/album/6uDLaQgGNwhEezAaj5HVC9) | 3:46 |
+| 43 | [Inner Space](https://open.spotify.com/track/0Dw4p3CSXiUVSN7fmudVzN) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Inner Space](https://open.spotify.com/album/06SKjebqZpbxztfjbSW9K4) | 4:54 |
 | 44 | [Cyclone](https://open.spotify.com/track/4aPJXGbQzN8dSCamIHZmqS) | [Jaëss](https://open.spotify.com/artist/1ol36pNsmqP1XEfBruiIAQ) | [Cyclone](https://open.spotify.com/album/6RE1A5PWdZ6Klm706aaaFT) | 5:51 |
 | 45 | [Mon Rs Te Baise Ta Mère](https://open.spotify.com/track/3yLJTuyqnf49Dh5uGQjI5d) | [Evil Grimace](https://open.spotify.com/artist/441WboQSNXQCGoWp7rsHWv) | [Meilleurs Voeux II](https://open.spotify.com/album/4eqTukktZFXijWQZ3kUfwA) | 3:28 |
 | 46 | [POXA DJ \- Remix](https://open.spotify.com/track/6ihcHKye7vMhKxx9uYXhWd) | [FKOFF1963](https://open.spotify.com/artist/3EyGhcFA4SvnSkgDACAYot), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [POXA DJ \(Remix\)](https://open.spotify.com/album/2PHuhaM6YZsqBHgVlLXJzu) | 2:32 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 51 | [Flow 2000 3d1t](https://open.spotify.com/track/030ANS2a0fz7ZHOYgJ4QqX) | [DJ これからの緊急災害](https://open.spotify.com/artist/21JvpQxHFjIw2kTpjO6fJt) | [Lik3 a Sw1tchbl4d3](https://open.spotify.com/album/1XmynSr6kh5h0gOhyHW8bC) | 3:10 |
 | 52 | [Black Ops 2 \(umru Remix\)](https://open.spotify.com/track/0o9BiuhZ8FSr3G1M3AgRup) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Unlimited Ammo: Infinity \(Remix\)](https://open.spotify.com/album/0hRCrpv98LWp86pYFGg1G9) | 3:01 |
 | 53 | [Penicillin Duck](https://open.spotify.com/track/1g2x6EJ0mgmwgrfU0ockwr) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [All Caps](https://open.spotify.com/album/1sXHoAxzB4MG62AaSDPToo) | 4:13 |
-| 54 | [55 Year Old Daughter](https://open.spotify.com/track/0uaot4aji2ZwZWO6tH77Vw) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Giant Swan](https://open.spotify.com/album/3sQ4kRPmlOz4DehzdZkdvz) | 2:57 |
+| 54 | [55 Year Old Daughter](https://open.spotify.com/track/2tjxBGXtnZIn5b97sqiGS7) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Giant Swan](https://open.spotify.com/album/7mqcy9ytfBE7ZV8gU3jLjo) | 2:57 |
 | 55 | [44th Cloud Lavender](https://open.spotify.com/track/6ad2tz4WOhula9kBxNB1jP) | [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [Neptune](https://open.spotify.com/album/7FcOUT8CZy3r7nc4IDm1is) | 4:33 |
 | 56 | [Reina \- Paul Seul Remix](https://open.spotify.com/track/1hfGsN6LAKYmjiKcD6jVZ6) | [Endgame](https://open.spotify.com/artist/16M4eU9RDj8zsuVOHXjXhm), [RULEZ](https://open.spotify.com/artist/2LiLtKONjtY908Ls3DuAHf), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Consumed \(RMX\)](https://open.spotify.com/album/2vPHN6PKnqlPak9XmzLgwU) | 3:43 |
 | 57 | [Istana \(IDM RMX\)](https://open.spotify.com/track/6foMpRRFNAYDF7Urp1U0S0) | [Senyawa](https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ), [Ichu](https://open.spotify.com/artist/4Nrx4iYjUxWY5oDUjYsSCP) | [Istana \(IDM RMX\)](https://open.spotify.com/album/0eWA0KAahNuDD0pozptZDO) | 2:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 59 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 |
 | 60 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDE4ZDJiYzkxYTc4NmE2ZDRlMzkyZjZjZDFlY2VlNjA2`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDlkYjc5NTczOWFhYjJjMWFmYWE1NGY5NDkwMzMwMDFl`

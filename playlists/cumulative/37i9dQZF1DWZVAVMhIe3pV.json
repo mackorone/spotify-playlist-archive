@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Need to get your energy level up? This will help!",
   "name": "Energy Booster: Rock",
-  "published_playlist_ids": [
-    "5DPhdoiLzKE8BAw1Oewpji"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,6 +56,24 @@
       "duration_ms": 263080,
       "name": "A Warrior's Call",
       "url": "https://open.spotify.com/track/5mNbJIYaKkphf5WqwhXhva"
+    },
+    {
+      "album": {
+        "name": "abcdefu (angrier)",
+        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159836,
+      "name": "abcdefu (angrier)",
+      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
     },
     {
       "album": {
@@ -1355,7 +1370,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 234226,
       "name": "Du hast",
       "url": "https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh"
@@ -4049,7 +4064,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 207213,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
@@ -4219,7 +4234,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 374333,
       "name": "Rooster (2022 Remaster)",
       "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
@@ -5335,7 +5350,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "The Red",
       "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
@@ -5389,7 +5404,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 212040,
       "name": "This Ain't A Scene, It's An Arms Race",
       "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"

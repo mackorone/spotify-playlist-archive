@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 
 > 
 
-[John Delf](https://open.spotify.com/user/12157842341) - 7,831 likes - 99 songs - 6 hr 17 min
+[John Delf](https://open.spotify.com/user/12157842341) - 7,635 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 | 97 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 |
 | 98 | [Champagne Supernova \- Remastered](https://open.spotify.com/track/2A7GGXmTlXuH9LOvBXgOX4) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 7:31 |
 | 99 | [Baby \- Remastered](https://open.spotify.com/track/3XLiFwo3E7GeX4ONxhGIgm) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Tropicália Ou Panis Et Circensis](https://open.spotify.com/album/0samM57T0WsA9JhEmWkKEM) | 3:37 |
+| 100 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 |
 
-Snapshot ID: `Mzc4LDQ4NzZkOGFjNGU2OTIwMDljM2JjZWZjMjQ4NGQzNDAzMTgxMmU5OTA=`
+Snapshot ID: `Mzc5LDA4YzUwNTg3MjE3YTEwMzY0YTgyMTY5ZDlhOWU3YmYyMGIyMTVlNzk=`

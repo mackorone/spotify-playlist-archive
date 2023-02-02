@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos. Kany Garc\u00eda & Christian Nodal en portada.",
+  "description": "La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos. Morat & Camila Fern\u00e1ndez en portada.",
   "name": "Mariachi Pop",
-  "published_playlist_ids": [
-    "05bV0yx12rW3D31bBqo9ap"
-  ],
   "tracks": [
     {
       "album": {
@@ -113,7 +110,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 132986,
       "name": "Casi Algo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/5zwhq3lsGiks3Uffseze9o"
@@ -255,6 +252,28 @@
       "duration_ms": 213329,
       "name": "De Vez En Cuando",
       "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
+    },
+    {
+      "album": {
+        "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160367,
+      "name": "Deb\u00ed Suponerlo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT"
     },
     {
       "album": {
@@ -407,7 +426,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 181466,
       "name": "En Tu Sonrisa",
       "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
@@ -912,6 +931,28 @@
     },
     {
       "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -949,6 +990,28 @@
       "duration_ms": 213863,
       "name": "Qui\u00e9n De Los Dos Ser\u00e1",
       "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
       "album": {
@@ -1221,7 +1284,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 197640,
       "name": "Yo Quiero Ser",
       "url": "https://open.spotify.com/track/7zXyVTdASO4dzlKkvA26uj"

@@ -4,7 +4,7 @@
 
 > Your queens are here Pink Panda!
 
-222 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/1onWEIUsTX0j63OpOE7Wos)
+222 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

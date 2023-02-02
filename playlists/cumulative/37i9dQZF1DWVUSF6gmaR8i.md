@@ -4,7 +4,7 @@
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-70 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/1d2QPJuB6Fd77XqXT9UYGL)
+70 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,14 +34,14 @@
 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 | 2021-10-01 |  |
 | [It's Too Late](https://open.spotify.com/track/66KgSwQE4UmJttgfYiaR5I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 3:53 | 2021-10-01 | 2022-07-29 |
 | [Let It Be](https://open.spotify.com/track/4rnkECscLCpjPM4pYyBNMJ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Back In The World](https://open.spotify.com/album/2rrxATdBTvNt2i9lJo68qU) | 3:57 | 2021-10-01 | 2022-07-29 |
-| [Let It Be \- Live](https://open.spotify.com/track/5Rr5QQ1wRzmnqC9MyfTqmk) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Back In The World \(Live\)](https://open.spotify.com/album/0Cq6VQQvxlCkKdu4tvHCCO) | 3:57 | 2021-10-01 | 2022-11-26 |
+| [Let It Be \- Live](https://open.spotify.com/track/5Rr5QQ1wRzmnqC9MyfTqmk) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Back In The World \(Live\)](https://open.spotify.com/album/0Cq6VQQvxlCkKdu4tvHCCO) | 3:57 | 2021-10-01 |  |
 | [Letter To The Past](https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:40 | 2021-10-01 |  |
 | [Life On Mars? \- 1999 Remastered Version](https://open.spotify.com/track/1C9NuEa1wOF15EOBuWaaxS) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Ken Scott](https://open.spotify.com/artist/6itMJ1OJ3xL3LsxWb7xm28) | [Hunky Dory](https://open.spotify.com/album/0vypdDHTQsoVmVu8OgXEly) | 3:43 | 2021-10-01 | 2022-07-29 |
 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 | 2021-10-01 |  |
 | [Light Years](https://open.spotify.com/track/1QWDJMmEcR2cYrFENBZkLS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:33 | 2021-10-01 | 2022-07-29 |
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2021-10-01 |  |
 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 | 2021-10-01 |  |
-| [Moondance \- 2013 Remaster](https://open.spotify.com/track/6KHNMPZTSif1zFbFKErpNU) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 4:34 | 2021-10-01 |  |
+| [Moondance \- 2013 Remaster](https://open.spotify.com/track/6KHNMPZTSif1zFbFKErpNU) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 4:34 | 2021-10-01 | 2023-01-07 |
 | [Nightswimming](https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:18 | 2021-10-01 |  |
 | [Nightswimming](https://open.spotify.com/track/2xLSFrm2oBeMtBMjlAoZSC) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(U.S\. Version\)](https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf) | 4:18 | 2021-10-01 | 2022-07-28 |
 | [One Fine Day \- Remastered](https://open.spotify.com/track/2CA4geWmbThuxj1BDaeBfy) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Retrospective 1990\-2005 \[Ltd\. Deluxe Version\]](https://open.spotify.com/album/7HmJbm1e1f0BkwyjBwGiGJ) | 2:47 | 2021-10-01 |  |

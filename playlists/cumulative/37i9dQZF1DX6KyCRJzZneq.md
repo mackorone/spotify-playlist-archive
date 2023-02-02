@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-65 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/4bWPWLczBZLcY1lnRQKTuI)
+65 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

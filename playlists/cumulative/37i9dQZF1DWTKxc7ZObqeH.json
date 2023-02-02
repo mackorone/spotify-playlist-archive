@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-09",
   "description": "Relaxing Jazz on a warm summer day.",
   "name": "Summer Jazz",
-  "published_playlist_ids": [
-    "66JAt3sdiNPtvzJv9rg7XC"
-  ],
   "tracks": [
     {
       "album": {
@@ -777,6 +774,24 @@
       "duration_ms": 233653,
       "name": "Girl From Ipanema",
       "url": "https://open.spotify.com/track/07N8tsetcGqFiwyzBxyya3"
+    },
+    {
+      "album": {
+        "name": "A Catalogue of Jazz: Oscar Peterson",
+        "url": "https://open.spotify.com/album/43yR0j2Rn6NcMZKpkolI76"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233653,
+      "name": "Girl From Ipanema",
+      "url": "https://open.spotify.com/track/0hPwFbwX5BeGkywZriGacx"
     },
     {
       "album": {
@@ -2268,6 +2283,28 @@
     },
     {
       "album": {
+        "name": "Summer Music Fest",
+        "url": "https://open.spotify.com/album/6CcGXTRjHgRj0DAqvgZg2K"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424653,
+      "name": "Shady Side",
+      "url": "https://open.spotify.com/track/5itvtJeCeqI7nh7257Eo8j"
+    },
+    {
+      "album": {
         "name": "Gerry Mulligan Meets Johnny Hodges",
         "url": "https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z"
       },
@@ -2283,7 +2320,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 424653,
       "name": "Shady Side",
       "url": "https://open.spotify.com/track/5j85Y5lPqHqvww4Q2H3pY1"
@@ -2853,10 +2890,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 231826,
       "name": "The Girl From Ipanema (Garota De Ipanema)",
       "url": "https://open.spotify.com/track/08qZey59W5RWMp8vPTgE7U"
+    },
+    {
+      "album": {
+        "name": "A Catalogue of Jazz: Oscar Peterson",
+        "url": "https://open.spotify.com/album/43yR0j2Rn6NcMZKpkolI76"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 231826,
+      "name": "The Girl From Ipanema (Garota De Ipanema)",
+      "url": "https://open.spotify.com/track/2II4yguqIcnWdjot4l3C6c"
     },
     {
       "album": {
@@ -2889,7 +2944,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-01-30",
       "duration_ms": 231826,
       "name": "The Girl From Ipanema (Garota De Ipanema)",
       "url": "https://open.spotify.com/track/6YOo90JX9Yr0iSdgwkTgYL"

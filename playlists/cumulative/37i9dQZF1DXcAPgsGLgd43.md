@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-65 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/3iDvdtUjwxJUVvcl6mQY6F)
+65 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

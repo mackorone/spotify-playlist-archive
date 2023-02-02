@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Kindie tunes for the whole family. ",
   "name": "Kindie",
-  "published_playlist_ids": [
-    "2fSDwPEhE0n4j5X4Sjm87h"
-  ],
   "tracks": [
     {
       "album": {
@@ -359,6 +356,24 @@
       "duration_ms": 162026,
       "name": "Brand New Day",
       "url": "https://open.spotify.com/track/4cBPErdOZb1skrZDRX2HIS"
+    },
+    {
+      "album": {
+        "name": "Sing for the Earth - Little Wild Animals",
+        "url": "https://open.spotify.com/album/6L8hxqN9Qs3vfnUgB7q2Dp"
+      },
+      "artists": [
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166209,
+      "name": "Brave Like a Lion",
+      "url": "https://open.spotify.com/track/0sBepHNDp8pjGWHlb12gCM"
     },
     {
       "album": {
@@ -1226,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "Imaginary Dinosaur",
+        "url": "https://open.spotify.com/album/2JVLVEhf8zq7fXHfhthO1Y"
+      },
+      "artists": [
+        {
+          "name": "Bee Parks and the Hornets",
+          "url": "https://open.spotify.com/artist/5Hf2069PYDJgRE6ag9MsiP"
+        },
+        {
+          "name": "M\u00e9lissa Smith",
+          "url": "https://open.spotify.com/artist/57Hpqe0sVSUJs0Wq9AbQiv"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183291,
+      "name": "Imaginary Dinosaur",
+      "url": "https://open.spotify.com/track/5D6aRG57qibWTzMRZZKU90"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/0i49Gsui4XTbcIar3hjUsz"
       },
@@ -1838,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "All The Feels",
+        "url": "https://open.spotify.com/album/2d5veNMk0bW0m82HftXxKc"
+      },
+      "artists": [
+        {
+          "name": "Hot Toast Music Company",
+          "url": "https://open.spotify.com/artist/4RD7ZKkKA4xqv87XSUvkXX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230870,
+      "name": "Made For Feelings",
+      "url": "https://open.spotify.com/track/6d4xmldjjcZrvd9juUVMwK"
+    },
+    {
+      "album": {
         "name": "Magnolia Tree",
         "url": "https://open.spotify.com/album/05L03Xp2wSBc4jRbbYj0gc"
       },
@@ -2401,10 +2456,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 135172,
       "name": "Row, Row, Row Your Boat",
       "url": "https://open.spotify.com/track/0EQExac8KePwocPf07mXeb"
+    },
+    {
+      "album": {
+        "name": "Presents",
+        "url": "https://open.spotify.com/album/0RrOAMN38yYifcLCYVT1gG"
+      },
+      "artists": [
+        {
+          "name": "Tanlines",
+          "url": "https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "Row, Row, Row Your Boat",
+      "url": "https://open.spotify.com/track/2doLzXwvOnsuQv2KLu8auC"
     },
     {
       "album": {
@@ -2671,10 +2744,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 195311,
       "name": "The Brightest Beef",
       "url": "https://open.spotify.com/track/4ZjPju4lSM8cU9CQdMESoU"
+    },
+    {
+      "album": {
+        "name": "Dark Pie Concerns",
+        "url": "https://open.spotify.com/album/4O17SOY62suR3SoovBSK3p"
+      },
+      "artists": [
+        {
+          "name": "Gustafer Yellowgold",
+          "url": "https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "The Brightest Beef",
+      "url": "https://open.spotify.com/track/0RtOYgM3PhGatulSpaLo7V"
     },
     {
       "album": {
@@ -2805,6 +2896,46 @@
       "duration_ms": 228573,
       "name": "The Kazoo Song",
       "url": "https://open.spotify.com/track/2uNIzuuNDm3oxPskZpMruK"
+    },
+    {
+      "album": {
+        "name": "The Knowing (From the Ani DiFranco Children's Book: The Knowing)",
+        "url": "https://open.spotify.com/album/5PVaE6TIUj8YbRns0b4m7T"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311240,
+      "name": "The Knowing - From the Ani DiFranco Children's Book: The Knowing",
+      "url": "https://open.spotify.com/track/72BkZqFQXtHrd1Ixd2J5kV"
+    },
+    {
+      "album": {
+        "name": "The Leader in You",
+        "url": "https://open.spotify.com/album/6CURB2I8LQ5XaBGsmUiPPn"
+      },
+      "artists": [
+        {
+          "name": "Esther Crow",
+          "url": "https://open.spotify.com/artist/1ToMAIY060vU2Fi0MCq9ph"
+        },
+        {
+          "name": "Father Goose Music",
+          "url": "https://open.spotify.com/artist/4QiBm9o4KgZFBypg4K6zDZ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199864,
+      "name": "The Leader in You",
+      "url": "https://open.spotify.com/track/3B97oNjqSAiuI8jz3WFIzC"
     },
     {
       "album": {
@@ -3168,7 +3299,7 @@
         },
         {
           "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+          "url": "https://open.spotify.com/artist/3TIIls1NDLaBkWYO7ty2Qp"
         }
       ],
       "date_added": "2022-04-15",

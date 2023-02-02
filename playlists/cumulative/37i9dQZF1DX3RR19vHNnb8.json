@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "Hip hop tracks to kick your workout up a notch",
   "name": "Pump it Up ",
-  "published_playlist_ids": [
-    "0NmCUpF97NtmMySiEDhh8m"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 130909,
       "name": "500 DEGREES",
       "url": "https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM"
@@ -92,6 +89,24 @@
     },
     {
       "album": {
+        "name": "Anadwo",
+        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170295,
+      "name": "Anadwo",
+      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
+    },
+    {
+      "album": {
         "name": "Assignment",
         "url": "https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D"
       },
@@ -111,7 +126,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 137472,
       "name": "Assignment",
       "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
@@ -129,7 +144,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 92347,
       "name": "BAD GUY",
       "url": "https://open.spotify.com/track/6wuIh8EH2MYLI5su3FZ935"
@@ -202,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/7hjZI0A6hrUjbZFZsnVGlT"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 144594,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/6DswwzQlABrNoqjNydtvuX"
+    },
+    {
+      "album": {
         "name": "Blue Notes 2 (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/3QvNSOIhsgI8od9CMLbMye"
       },
@@ -235,7 +268,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 190557,
       "name": "BUTTERFLY EFFECT",
       "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
@@ -297,7 +330,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 192340,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
@@ -517,7 +550,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Go German",
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
@@ -659,7 +692,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 170197,
       "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
       "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
@@ -721,7 +754,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 201168,
       "name": "Khabib",
       "url": "https://open.spotify.com/track/194U52vElkbmFe8QTefrgw"
@@ -779,7 +812,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": "2023-02-01",
       "duration_ms": 195590,
       "name": "Last One Left (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/6hUoVMWls2K9oYSNBFlYU6"
@@ -889,10 +922,32 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 258950,
       "name": "Loyal (feat. NSG)",
       "url": "https://open.spotify.com/track/5XDJOlzaw1FCsz75I6Vjuh"
+    },
+    {
+      "album": {
+        "name": "MOTOWN (feat. BabyTron)",
+        "url": "https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164861,
+      "name": "MOTOWN",
+      "url": "https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ"
     },
     {
       "album": {
@@ -988,6 +1043,32 @@
     },
     {
       "album": {
+        "name": "Picanto",
+        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
+      },
+      "artists": [
+        {
+          "name": "Odumodublvck",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ECko Miles",
+          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184077,
+      "name": "Picanto",
+      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+    },
+    {
+      "album": {
         "name": "Poke It Out (feat. J. Cole)",
         "url": "https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8"
       },
@@ -1029,7 +1110,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 121558,
       "name": "Problem No Dey Finish - Remix",
       "url": "https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF"
@@ -1073,6 +1154,28 @@
       "duration_ms": 185855,
       "name": "Rumors (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
+    },
+    {
+      "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 152283,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
     },
     {
       "album": {
@@ -1197,7 +1300,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 211935,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
@@ -1227,6 +1330,58 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-07",
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5"
     },
     {
       "album": {
@@ -1267,6 +1422,58 @@
       "duration_ms": 197538,
       "name": "The Guy",
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
+    },
+    {
+      "album": {
+        "name": "031 To The World 2.0",
+        "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "The Views",
+      "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
+    },
+    {
+      "album": {
+        "name": "This Is What I Mean",
+        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325333,
+      "name": "This Is What I Mean",
+      "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
     },
     {
       "album": {
@@ -1421,7 +1628,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 231500,
       "name": "Yenda",
       "url": "https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo"

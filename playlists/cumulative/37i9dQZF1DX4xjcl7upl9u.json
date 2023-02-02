@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-07",
   "description": "The Swedish duo <a href=\u201cspotify:artist:00sAT5YX8W3xNd1EuqyHw9\u201d>Dada Life</a> drop a hot mix just in time for festival season! \n",
   "name": "Dada Life's DJ Mix",
-  "published_playlist_ids": [
-    "1vyhkdlYLRxotAreRP9s28"
-  ],
   "tracks": [
     {
       "album": {
@@ -26,8 +23,34 @@
     },
     {
       "album": {
-        "name": "Dive In (Mixed)",
+        "name": "Dive In - Mixed",
         "url": "https://open.spotify.com/album/7v1hvmisD1DWMzcfKnDzVX"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV"
+        },
+        {
+          "name": "Roy Orion",
+          "url": "https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk"
+        },
+        {
+          "name": "Xtina Louise",
+          "url": "https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 189000,
+      "name": "Dive In - Mixed",
+      "url": "https://open.spotify.com/track/116qEsgjgoGzXfSh5UvHXj"
+    },
+    {
+      "album": {
+        "name": "Dive In (Mixed)",
+        "url": "https://open.spotify.com/album/1HPpV8b0S6AnuboOZKCELh"
       },
       "artists": [
         {
@@ -43,17 +66,17 @@
           "url": "https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV"
         }
       ],
-      "date_added": "2022-07-06",
+      "date_added": "2022-12-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189000,
       "name": "Dive In - Mixed",
-      "url": "https://open.spotify.com/track/116qEsgjgoGzXfSh5UvHXj"
+      "url": "https://open.spotify.com/track/1JVLAfomEMOedmwsvzljJ6"
     },
     {
       "album": {
         "name": "Edge Of Tonight (Mixed)",
-        "url": "https://open.spotify.com/album/3wRhfATQvzACEps4fVSkVa"
+        "url": "https://open.spotify.com/album/0cWP1iDd9PgjyMS2sCw8fT"
       },
       "artists": [
         {
@@ -65,9 +88,31 @@
           "url": "https://open.spotify.com/artist/0KPaZqSst478dYqODQG37L"
         }
       ],
-      "date_added": "2022-07-06",
+      "date_added": "2022-12-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Edge Of Tonight - Mixed",
+      "url": "https://open.spotify.com/track/3YTawBahcgCScHfNdwa5bN"
+    },
+    {
+      "album": {
+        "name": "Edge Of Tonight - Mixed",
+        "url": "https://open.spotify.com/album/3wRhfATQvzACEps4fVSkVa"
+      },
+      "artists": [
+        {
+          "name": "Yohann Warren",
+          "url": "https://open.spotify.com/artist/0KPaZqSst478dYqODQG37L"
+        },
+        {
+          "name": "Brunetti",
+          "url": "https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
       "duration_ms": 182000,
       "name": "Edge Of Tonight - Mixed",
       "url": "https://open.spotify.com/track/5r9TaNygIKK548xLeaC7mi"
@@ -75,6 +120,24 @@
     {
       "album": {
         "name": "Freak Of The Night (Mixed)",
+        "url": "https://open.spotify.com/album/7DrCD6KvU3zhSgEiiF3vmu"
+      },
+      "artists": [
+        {
+          "name": "Daijo",
+          "url": "https://open.spotify.com/artist/4esLZ8cHaY0jchCxXDVVSQ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Freak Of The Night - Mixed",
+      "url": "https://open.spotify.com/track/5bftxZ7b4quMMtxNqWag5f"
+    },
+    {
+      "album": {
+        "name": "Freak Of The Night - Mixed",
         "url": "https://open.spotify.com/album/6A2Z3QPh9IZ4hCgVCyyUt2"
       },
       "artists": [
@@ -85,7 +148,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 147000,
       "name": "Freak Of The Night - Mixed",
       "url": "https://open.spotify.com/track/7ubPwn91i0JKJwjSYYd0oO"
@@ -114,7 +177,7 @@
     },
     {
       "album": {
-        "name": "Happy Revolution (Mixed)",
+        "name": "Happy Revolution - Mixed",
         "url": "https://open.spotify.com/album/7vjhCa754toHiDzwc8Ysdr"
       },
       "artists": [
@@ -125,10 +188,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 191000,
       "name": "Happy Revolution - Mixed",
       "url": "https://open.spotify.com/track/38jWFjARAMgyEm0CekNNDd"
+    },
+    {
+      "album": {
+        "name": "Happy Revolution (Mixed)",
+        "url": "https://open.spotify.com/album/6HVxXtnvYzIt6DCn9C8KpK"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Happy Revolution - Mixed",
+      "url": "https://open.spotify.com/track/3Zv3W7bqJUOFDLUo6Tx4Ze"
     },
     {
       "album": {
@@ -168,7 +249,7 @@
     },
     {
       "album": {
-        "name": "INTO THE UNKNOWN (Mixed)",
+        "name": "INTO THE UNKNOWN - Mixed",
         "url": "https://open.spotify.com/album/1ZWzbALgak37NGEbWH2fGP"
       },
       "artists": [
@@ -179,14 +260,50 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 225000,
       "name": "INTO THE UNKNOWN - Mixed",
       "url": "https://open.spotify.com/track/4wUdukfI9Vlnn63hJvmXob"
     },
     {
       "album": {
+        "name": "INTO THE UNKNOWN (Mixed)",
+        "url": "https://open.spotify.com/album/3YjbnRh0YUylhFAdIgvY5F"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "INTO THE UNKNOWN - Mixed",
+      "url": "https://open.spotify.com/track/7AwfaWSveFDSlexZGUZWag"
+    },
+    {
+      "album": {
         "name": "Love Got You (Mixed)",
+        "url": "https://open.spotify.com/album/4lFLmG52ImGv6UjjHimBKu"
+      },
+      "artists": [
+        {
+          "name": "Heyem & Groozin",
+          "url": "https://open.spotify.com/artist/0l33b3YK4gmAt0mzqcRkVx"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Love Got You - Mixed",
+      "url": "https://open.spotify.com/track/1WRlDSCWSryJAwlxCFzlz9"
+    },
+    {
+      "album": {
+        "name": "Love Got You - Mixed",
         "url": "https://open.spotify.com/album/62Nja7aHFyzlW8rimockJM"
       },
       "artists": [
@@ -197,7 +314,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 179000,
       "name": "Love Got You - Mixed",
       "url": "https://open.spotify.com/track/2pqkgCCA7GRWqkWoe7GSmR"
@@ -258,7 +375,7 @@
     },
     {
       "album": {
-        "name": "Pure Action (Mixed)",
+        "name": "Pure Action - Mixed",
         "url": "https://open.spotify.com/album/5NW6Rh3AXJhzYn91rjk5k4"
       },
       "artists": [
@@ -269,14 +386,32 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 187000,
       "name": "Pure Action - Mixed",
       "url": "https://open.spotify.com/track/1zdrSdBSPqCxq9ojxRK8B3"
     },
     {
       "album": {
-        "name": "Readymade Sweat (Mixed)",
+        "name": "Pure Action (Mixed)",
+        "url": "https://open.spotify.com/album/4FEDK1Rw2KHypS7OMnYVk5"
+      },
+      "artists": [
+        {
+          "name": "Semblance Smile",
+          "url": "https://open.spotify.com/artist/13nmMVXihf9LHBGMm6NI6f"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Pure Action - Mixed",
+      "url": "https://open.spotify.com/track/3H06vXdPETHqToXXsJxU7Q"
+    },
+    {
+      "album": {
+        "name": "Readymade Sweat - Mixed",
         "url": "https://open.spotify.com/album/00HR6TCJeoBiu691ggJXwh"
       },
       "artists": [
@@ -287,10 +422,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 219000,
       "name": "Readymade Sweat - Mixed",
       "url": "https://open.spotify.com/track/0qKQ4AJHxcAq7yGX6SaWwM"
+    },
+    {
+      "album": {
+        "name": "Readymade Sweat (Mixed)",
+        "url": "https://open.spotify.com/album/0V0Y0j2yl54ekGW7axg3ah"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Readymade Sweat - Mixed",
+      "url": "https://open.spotify.com/track/2u0yIZNVTmQobnNA2t7saA"
     },
     {
       "album": {
@@ -316,7 +469,7 @@
     },
     {
       "album": {
-        "name": "So Good (Mixed)",
+        "name": "So Good - Mixed",
         "url": "https://open.spotify.com/album/5hTou7QMas2tYHQI28U2W4"
       },
       "artists": [
@@ -327,10 +480,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 212000,
       "name": "So Good - Mixed",
       "url": "https://open.spotify.com/track/0XEcTMAYz47bBmW6VQm1Hf"
+    },
+    {
+      "album": {
+        "name": "So Good (Mixed)",
+        "url": "https://open.spotify.com/album/5DHui51DPnYPYLj4Pa6Kx5"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "So Good - Mixed",
+      "url": "https://open.spotify.com/track/0XZgkyv8LxUmXZMa81Y4er"
     },
     {
       "album": {
@@ -375,6 +546,24 @@
     {
       "album": {
         "name": "This Time (Never Be Alone Again) [Mixed]",
+        "url": "https://open.spotify.com/album/3PqmiAkywvOqaXiUC6YojB"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "This Time (Never Be Alone Again) - Mixed",
+      "url": "https://open.spotify.com/track/18azjp2b0cdwW5DV80SBN4"
+    },
+    {
+      "album": {
+        "name": "This Time (Never Be Alone Again) - Mixed",
         "url": "https://open.spotify.com/album/2kZvidCf0XVqEp7T1ZGfNz"
       },
       "artists": [
@@ -385,7 +574,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 152000,
       "name": "This Time (Never Be Alone Again) - Mixed",
       "url": "https://open.spotify.com/track/4qa4y68D9X4I9mE0gRq2Zy"

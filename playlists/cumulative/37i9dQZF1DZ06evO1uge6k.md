@@ -4,7 +4,7 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/41prJYhrgPNDi8w3ldhpb3)
+62 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Thunderbird \- 2005 Remaster](https://open.spotify.com/track/3BMhtHTzh510RHekQ5YT3B) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 4:10 | 2022-09-17 | 2022-10-18 |
 | [Tube Snake Boogie](https://open.spotify.com/track/7fuEQbsUxgUpnvwuHl2S0Q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [RAW \('That Little Ol' Band From Texas' Original Soundtrack\)](https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh) | 3:06 | 2022-09-17 |  |
 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 | 2022-09-17 |  |
-| [TV Dinners \- 2008 Remaster](https://open.spotify.com/track/4c0IaYoW94OEFhJE40zcQb) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 3:50 | 2022-09-17 | 2022-11-16 |
+| [TV Dinners \- 2008 Remaster](https://open.spotify.com/track/4c0IaYoW94OEFhJE40zcQb) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 3:50 | 2022-09-17 | 2023-01-02 |
 | [Viva Las Vegas](https://open.spotify.com/track/5JFywJVhSvuJI6KB9ikgjA) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:46 | 2022-09-17 |  |
 | [Waitin' for the Bus \- 2006 Remaster](https://open.spotify.com/track/2s0XwRidJ0uVeXThGbeCCk) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 2:53 | 2022-09-17 |  |
 | [What's Up With That](https://open.spotify.com/track/1vZ3oSRyLRC4JOZ0S8j7G3) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 5:21 | 2022-09-17 |  |

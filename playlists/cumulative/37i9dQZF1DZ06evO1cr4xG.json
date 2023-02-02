@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-31",
   "description": "This is Trivium. The essential tracks, all in one playlist.",
   "name": "This Is Trivium",
-  "published_playlist_ids": [
-    "6uNfSUeWUwsUmVTiqREnOi"
-  ],
   "tracks": [
     {
       "album": {
@@ -289,7 +286,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 90613,
       "name": "Capsizing the Sea",
       "url": "https://open.spotify.com/track/0NM1S9231y3Pgz6oI3on2f"
@@ -602,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Implore The Darken Sky",
+        "url": "https://open.spotify.com/album/3Z8V22s9cCh4bzeRo63knn"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282650,
+      "name": "Implore The Darken Sky",
+      "url": "https://open.spotify.com/track/6EjW31ubcZfxYnuiiPAGLm"
+    },
+    {
+      "album": {
         "name": "In The Court Of The Dragon",
         "url": "https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs"
       },
@@ -649,7 +664,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 228040,
       "name": "Inception of the End",
       "url": "https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G"
@@ -671,6 +686,24 @@
       "duration_ms": 352013,
       "name": "Into the Mouth of Hell We March",
       "url": "https://open.spotify.com/track/3sa04MWD0FcOorbzuGfaTZ"
+    },
+    {
+      "album": {
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118674,
+      "name": "IX",
+      "url": "https://open.spotify.com/track/2StA16dVfTXf7eNNu7a9mD"
     },
     {
       "album": {
@@ -865,7 +898,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 303372,
       "name": "Pillars of Serpents - 2019 Version",
       "url": "https://open.spotify.com/track/4mTV3JOltmiOgDAtTCkZMz"
@@ -937,7 +970,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 204570,
       "name": "Scattering The Ashes",
       "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"

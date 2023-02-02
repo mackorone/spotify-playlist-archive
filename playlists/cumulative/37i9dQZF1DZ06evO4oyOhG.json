@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
   "name": "This Is CHiCO with HoneyWorks",
-  "published_playlist_ids": [
-    "2SpHtSX2j1FtmOf5J7jAfu"
-  ],
   "tracks": [
     {
       "album": {
@@ -527,10 +524,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 207626,
       "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
       "url": "https://open.spotify.com/track/11DHLEGv0kjv4KmqhrXK5w"
+    },
+    {
+      "album": {
+        "name": "i\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
+      "url": "https://open.spotify.com/track/2BzZV7zxQKHrfVebawH2NX"
     },
     {
       "album": {
@@ -787,10 +802,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 197440,
       "name": "\u30ea\u30d9\u30f3\u30b8\u30b2\u30fc\u30e0",
       "url": "https://open.spotify.com/track/2zx260L01kpMk01XFjnfwd"
+    },
+    {
+      "album": {
+        "name": "i\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197440,
+      "name": "\u30ea\u30d9\u30f3\u30b8\u30b2\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/3Ja6w6E7PvMzvJajdu3tM5"
     },
     {
       "album": {

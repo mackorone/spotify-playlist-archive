@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-102 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/7vzhDddiv6oXbXOyLANGbq)
+102 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Follow Me](https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O) | [Angelique Marketon](https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA) | [Follow Me](https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ) | 5:12 | 2020-12-18 |  |
 | [For Your Glory](https://open.spotify.com/track/4etWtEzUFn7AEiiSGwZT6X) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Comes and Goes](https://open.spotify.com/album/2GZKfuX5AfXtneH04BBPKP) | 3:37 | 2020-12-18 |  |
 | [Found](https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu) | [Cory Emery](https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so) | [A New Heart](https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG) | 3:17 | 2020-12-18 |  |
-| [Found You](https://open.spotify.com/track/0oD3hbtGptcY1R0JeRHAa3) | [Silicone Boone](https://open.spotify.com/artist/35sTROQ10vkOfLtMf1epnr) | [Found You](https://open.spotify.com/album/602LizcSBxLxMxZNjl4V3r) | 4:03 | 2020-12-18 |  |
+| [Found You](https://open.spotify.com/track/0oD3hbtGptcY1R0JeRHAa3) | [Silicone Boone](https://open.spotify.com/artist/35sTROQ10vkOfLtMf1epnr) | [Found You](https://open.spotify.com/album/602LizcSBxLxMxZNjl4V3r) | 4:03 | 2020-12-18 | 2023-01-17 |
 | [Fullness Of God](https://open.spotify.com/track/5ZWiFwZRtPpfLMmtQi4gTa) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Fullness Of God](https://open.spotify.com/album/37VB0ayKCxqmAZxuTAATBc) | 7:51 | 2020-12-18 |  |
 | [Garden](https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Garden](https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1) | 3:16 | 2020-12-18 |  |
 | [Garment](https://open.spotify.com/track/7dVzebREEslE4UTztbvosL) | [Mirours](https://open.spotify.com/artist/75LCOigw8mFKzvhjpHv2jT) | [Garment](https://open.spotify.com/album/5D6QTb7tfabsIrVBZ8DuhC) | 4:44 | 2020-12-18 | 2022-07-27 |
@@ -64,7 +64,7 @@
 | [L E P E R S](https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5), [Atmos One](https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu) | [L E P E R S](https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg) | 4:10 | 2020-12-18 |  |
 | [Lead Me \(Among the Ruins\)](https://open.spotify.com/track/7ICNCOdTKpSzjSm4QrQBn1) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Lead Me \(Among the Ruins\)](https://open.spotify.com/album/2H80kM6umUt3ZMVuuqqleo) | 5:11 | 2020-12-18 | 2022-07-26 |
 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 | 2020-12-18 |  |
-| [Lion's Den](https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY) | [Holly Ann](https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK) | [Light & Bloom](https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s) | 4:03 | 2020-12-18 | 2022-07-25 |
+| [Lion's Den](https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY) | [Holly Ann](https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK) | [Light & Bloom](https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s) | 4:03 | 2020-12-18 |  |
 | [Loved by You](https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Loved by You](https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm) | 4:54 | 2020-12-18 |  |
 | [Magic in the Moment](https://open.spotify.com/track/7uQ2MT9hkwys1psdwVuFL3) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Magic in the Moment](https://open.spotify.com/album/7EIeW01jBbDJDgfMEVIhi2) | 3:13 | 2020-12-18 |  |
 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 | 2020-12-18 | 2022-11-15 |
@@ -74,7 +74,7 @@
 | [Person In Christ](https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Person In Christ](https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu) | 4:10 | 2020-12-18 |  |
 | [Pilgrim](https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:57 | 2020-12-18 |  |
 | [Proceed](https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r) | [Deuel](https://open.spotify.com/artist/0IrOqD4oueXc7E7Wu7NzWv) | [Proceed](https://open.spotify.com/album/0NKNIOpBUg5mZT1k7jGlsM) | 4:26 | 2020-12-18 | 2022-07-29 |
-| [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 | 2020-12-18 | 2022-07-13 |
+| [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 | 2020-12-18 |  |
 | [Refuge](https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp) | [Grant Leslie](https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6) | [Refuge](https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH) | 4:37 | 2020-12-18 |  |
 | [Remember This](https://open.spotify.com/track/02O2UvHTQuPdhGqhVgaucv) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Remember This](https://open.spotify.com/album/0JhbHC4SI9YSrpecbTYndw) | 4:47 | 2020-12-18 | 2022-07-29 |
 | [Revenant](https://open.spotify.com/track/0wDvDQVV7qEaVKd4T80YnN) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/2pgAmtx7LUbcAVy4KjykbG) | 5:07 | 2020-12-18 | 2022-07-18 |
@@ -97,7 +97,7 @@
 | [This Is Love](https://open.spotify.com/track/6dt39KMTAzJS87Hfp0n1Mc) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [Love Secrets](https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM) | 3:33 | 2020-12-18 |  |
 | [Tides](https://open.spotify.com/track/0hlbkCqqxAXOkoN4340d91) | [RELIC](https://open.spotify.com/artist/2i1soaUZ6BZhbrxOpKy6we) | [High Hopes](https://open.spotify.com/album/5ke4ep5wCyDS6zsBbRTCxL) | 3:17 | 2020-12-18 |  |
 | [Trust](https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91) | [Strahan](https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP) | [Trust](https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64) | 5:17 | 2020-12-18 |  |
-| [Trust](https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD) | [The Bookouts](https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF) | [Trust](https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN) | 5:20 | 2020-12-18 |  |
+| [Trust](https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD) | [The Bookouts](https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF) | [Trust](https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN) | 5:20 | 2020-12-18 | 2023-01-23 |
 | [Wash Me Clean](https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Peace to All Who Enter Here](https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk) | 3:42 | 2020-12-18 |  |
 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 | 2020-12-18 |  |
 | [We Sing Hallelujah](https://open.spotify.com/track/022DnzvMN4AP1hIHQodnXB) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [We Sing Hallelujah](https://open.spotify.com/album/2UVWoXfWRjoRleC6P89b4B) | 4:41 | 2020-12-18 | 2022-07-17 |

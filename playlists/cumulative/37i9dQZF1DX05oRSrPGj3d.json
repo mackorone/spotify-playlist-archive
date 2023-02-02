@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Celebrating the release of Live Forever: A Tribute to Billy Joe Shaver. Cover: Billy Joe Shaver",
   "name": "Heart Of Texas",
-  "published_playlist_ids": [
-    "4xIGgN9sUn8w5WjNECj4E7"
-  ],
   "tracks": [
     {
       "album": {
@@ -435,10 +432,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 246803,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/1T5IbNS5mqd0hx1TGZoacY"
+    },
+    {
+      "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246803,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5"
     },
     {
       "album": {
@@ -701,6 +716,24 @@
     {
       "album": {
         "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257773,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/3QtCKENdSI3l8xlSULRrK0"
+    },
+    {
+      "album": {
+        "name": "Probably Wrong",
         "url": "https://open.spotify.com/album/6C9MVfh8Zhx1Q8xtR6ZVV2"
       },
       "artists": [
@@ -711,7 +744,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 257773,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/5ntYN4BQDroMzxfsjadAox"

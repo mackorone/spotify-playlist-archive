@@ -4,7 +4,7 @@
 
 > Recorré un viaje por el oscuro éxtasis de WOS!
 
-35 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/4aF3Dus1xj6jb6dCaHPiDb)
+35 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

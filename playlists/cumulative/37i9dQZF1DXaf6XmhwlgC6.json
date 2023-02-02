@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Music from the ether to focus to.",
   "name": "Atmospheric Focus",
-  "published_playlist_ids": [
-    "4H4DMjqQpBwmgjBZppzOqM"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 178566,
       "name": "A Journey Within",
       "url": "https://open.spotify.com/track/4mEZtX5K7cSCS3f3GKj5m2"
@@ -103,8 +100,8 @@
       },
       "artists": [
         {
-          "name": "Red Deer",
-          "url": "https://open.spotify.com/artist/5zFlIwFPxOQ9sbuVZ1HyEg"
+          "name": "Stillheten",
+          "url": "https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W"
         }
       ],
       "date_added": "2022-05-25",
@@ -344,6 +341,42 @@
     },
     {
       "album": {
+        "name": "city limits",
+        "url": "https://open.spotify.com/album/7H4edaVn1YUAZHyuhvAjP7"
+      },
+      "artists": [
+        {
+          "name": "Josef Briem",
+          "url": "https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "city limits",
+      "url": "https://open.spotify.com/track/65VQ9IRzhXz2siw9H2okBF"
+    },
+    {
+      "album": {
+        "name": "Color",
+        "url": "https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e"
+      },
+      "artists": [
+        {
+          "name": "Echoparks",
+          "url": "https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170079,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ"
+    },
+    {
+      "album": {
         "name": "Dakota",
         "url": "https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL"
       },
@@ -359,6 +392,24 @@
       "duration_ms": 130024,
       "name": "Dakota",
       "url": "https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p"
+    },
+    {
+      "album": {
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/0oO89cVZdGhilcsQVpMt5x"
+      },
+      "artists": [
+        {
+          "name": "Doug Saint",
+          "url": "https://open.spotify.com/artist/1apeSNQqrw18v2Z9U6hxmh"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281608,
+      "name": "Diaphanous",
+      "url": "https://open.spotify.com/track/7b343d6fzVQEfyWDZATJ0M"
     },
     {
       "album": {
@@ -398,6 +449,60 @@
     },
     {
       "album": {
+        "name": "dusk without you EP",
+        "url": "https://open.spotify.com/album/18NMn5a6IeQcBOFgzE3nWu"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Lizard",
+          "url": "https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202187,
+      "name": "dusk without you",
+      "url": "https://open.spotify.com/track/6q4r9Eqv8G5Nz5Mi1jU8Yk"
+    },
+    {
+      "album": {
+        "name": "Echosphere",
+        "url": "https://open.spotify.com/album/62iPtloH7ukCRgKhsPDpYX"
+      },
+      "artists": [
+        {
+          "name": "Woven Hearts",
+          "url": "https://open.spotify.com/artist/0cCcXCxq76zprh8wHeCWD0"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161568,
+      "name": "Echosphere",
+      "url": "https://open.spotify.com/track/44Wfvp7nBgp3Epgx79wZ0F"
+    },
+    {
+      "album": {
+        "name": "Effortless",
+        "url": "https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9"
+      },
+      "artists": [
+        {
+          "name": "Tony Iver",
+          "url": "https://open.spotify.com/artist/33Y6lgwXmYok6gkTjnaYZ5"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149268,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx"
+    },
+    {
+      "album": {
         "name": "Entering Orbit",
         "url": "https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ"
       },
@@ -431,6 +536,24 @@
       "duration_ms": 190635,
       "name": "Estuarium",
       "url": "https://open.spotify.com/track/2ukibgP8lmxgYTHEqcdikz"
+    },
+    {
+      "album": {
+        "name": "ethereal nightshade",
+        "url": "https://open.spotify.com/album/0cUidGib6mOXgnT0YrLLGg"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Lizard",
+          "url": "https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "ethereal nightshade",
+      "url": "https://open.spotify.com/track/1zuGJlN7qtUUkqDwbvtaRi"
     },
     {
       "album": {
@@ -767,8 +890,8 @@
       },
       "artists": [
         {
-          "name": "Hyalite Glow",
-          "url": "https://open.spotify.com/artist/3DT9YiO0OHVX5mEsehDD89"
+          "name": "Under The Zodiac",
+          "url": "https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG"
         }
       ],
       "date_added": "2022-09-02",
@@ -777,6 +900,24 @@
       "duration_ms": 201030,
       "name": "In Deep Colors",
       "url": "https://open.spotify.com/track/4UZ2mG3RkVtXBBCwHNdN3J"
+    },
+    {
+      "album": {
+        "name": "january",
+        "url": "https://open.spotify.com/album/45CIHuXt5fZk19GQB9Iz8x"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305390,
+      "name": "january",
+      "url": "https://open.spotify.com/track/3gVpzDOglGzYT889bHF4Bs"
     },
     {
       "album": {
@@ -924,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "lost in motions EP",
+        "url": "https://open.spotify.com/album/6U4W3dHjwfEzX7XeSgnHLT"
+      },
+      "artists": [
+        {
+          "name": "Astronaut In The Desert",
+          "url": "https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "lost in motions",
+      "url": "https://open.spotify.com/track/5L1hTJQSQJcrMTtJpt2fvP"
+    },
+    {
+      "album": {
         "name": "Make We Here Our Camp of Winter",
         "url": "https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR"
       },
@@ -993,6 +1152,24 @@
       "duration_ms": 303760,
       "name": "Mending a Secret",
       "url": "https://open.spotify.com/track/5b5isnIY653i8qEmopWVej"
+    },
+    {
+      "album": {
+        "name": "Time Defined",
+        "url": "https://open.spotify.com/album/32QUK26XzeT5WoaMGU5ZkF"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Ellinia",
+          "url": "https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Milky Way",
+      "url": "https://open.spotify.com/track/6NcweAlijfIK0HL0um4vGb"
     },
     {
       "album": {
@@ -1119,6 +1296,42 @@
       "duration_ms": 176686,
       "name": "neckless",
       "url": "https://open.spotify.com/track/5vU0ILQHzg8W293FZGwYcV"
+    },
+    {
+      "album": {
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/5QGAvgrP7rUXPTzJDhzbTB"
+      },
+      "artists": [
+        {
+          "name": "K.Ellis",
+          "url": "https://open.spotify.com/artist/07Eaiwran5MzMrmkxaVZaj"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163659,
+      "name": "Night Light",
+      "url": "https://open.spotify.com/track/0gmQupI4nISCPJ55UGmYyL"
+    },
+    {
+      "album": {
+        "name": "meadows",
+        "url": "https://open.spotify.com/album/2Iwq8ywHPSK7Y04kV1IozT"
+      },
+      "artists": [
+        {
+          "name": "Golden Horses",
+          "url": "https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178648,
+      "name": "numb burn",
+      "url": "https://open.spotify.com/track/2iWlzsg7MoN9nKIwxlJWPc"
     },
     {
       "album": {
@@ -1288,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Reconnection",
+        "url": "https://open.spotify.com/album/6fqlzVb31jQJUJgdoLXsvc"
+      },
+      "artists": [
+        {
+          "name": "Enchanted Feel",
+          "url": "https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114512,
+      "name": "Reconnection",
+      "url": "https://open.spotify.com/track/2pAZtBeTf2wd97g709xOXx"
+    },
+    {
+      "album": {
         "name": "Rectifier",
         "url": "https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP"
       },
@@ -1437,6 +1668,28 @@
       "duration_ms": 201110,
       "name": "Sam the Record Man",
       "url": "https://open.spotify.com/track/2VhwPhvVI2KWqPA8bpfiiQ"
+    },
+    {
+      "album": {
+        "name": "Craters",
+        "url": "https://open.spotify.com/album/4OaftzM6C7I9OjBtu6xD5J"
+      },
+      "artists": [
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Light of Woods",
+          "url": "https://open.spotify.com/artist/50GdmfflR0mWUQpStEKuPZ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Sands",
+      "url": "https://open.spotify.com/track/57sMTer5cdcMyQuEZgNvlT"
     },
     {
       "album": {
@@ -1592,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "space cadet academy",
+        "url": "https://open.spotify.com/album/1hwRNXUB5OHzcEskR156hQ"
+      },
+      "artists": [
+        {
+          "name": "Astronaut In The Desert",
+          "url": "https://open.spotify.com/artist/2BUKygVaHZcOw8UI2wEPJ2"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "space cadet academy",
+      "url": "https://open.spotify.com/track/28h4PBovsvNHn5GBEpXXRT"
+    },
+    {
+      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/0gHxoEdJVI683mr9khLjS3"
       },
@@ -1664,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "There, Nearly",
+        "url": "https://open.spotify.com/album/45A6tOKDWTOjmbfZzPEkCf"
+      },
+      "artists": [
+        {
+          "name": "Anders Schill Paulsen",
+          "url": "https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154887,
+      "name": "Tattersail",
+      "url": "https://open.spotify.com/track/0IHbvuQpvJlWyaGmrTgFjB"
+    },
+    {
+      "album": {
         "name": "Taurus",
         "url": "https://open.spotify.com/album/7geRmxkwEeS7IvDLfebFOq"
       },
@@ -1705,8 +1994,8 @@
       },
       "artists": [
         {
-          "name": "The Peaceful Silence",
-          "url": "https://open.spotify.com/artist/1MPPhE6Gj5OT5QSIW7yik6"
+          "name": "Stillheten",
+          "url": "https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W"
         }
       ],
       "date_added": "2022-11-11",
@@ -1747,10 +2036,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 383365,
       "name": "The C In Certain",
       "url": "https://open.spotify.com/track/1rNqvHHH5PTpX2E7guUwbj"
+    },
+    {
+      "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/3QuRI71gWqj1HxTmQdBMhF"
+      },
+      "artists": [
+        {
+          "name": "Spaced Out Dreams",
+          "url": "https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130078,
+      "name": "The Gathering",
+      "url": "https://open.spotify.com/track/6Wgkn09AhQjIzFK1qx4xvY"
     },
     {
       "album": {
@@ -1795,8 +2102,8 @@
       },
       "artists": [
         {
-          "name": "Beyond The Andromeda",
-          "url": "https://open.spotify.com/artist/5l47OTM4q2Be8PCn5JuARN"
+          "name": "Under The Zodiac",
+          "url": "https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG"
         }
       ],
       "date_added": "2022-09-14",
@@ -1837,10 +2144,28 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 249601,
       "name": "Thinking About Thinking",
       "url": "https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC"
+    },
+    {
+      "album": {
+        "name": "The Object at Hand",
+        "url": "https://open.spotify.com/album/7ia9ZV8dzAXkjI2KQjY9Wh"
+      },
+      "artists": [
+        {
+          "name": "Joy Parade",
+          "url": "https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185899,
+      "name": "time capsule",
+      "url": "https://open.spotify.com/track/6GudNU6xYNwIGgDO7igfUY"
     },
     {
       "album": {
@@ -1970,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/7Czy2wcmG4EkNPdwSv9sIo"
+      },
+      "artists": [
+        {
+          "name": "Ravndala",
+          "url": "https://open.spotify.com/artist/40OmNBDYoyRn43AjGjJzlH"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173138,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/1ftWJuQAovl1BZH4Ijuqmg"
+    },
+    {
+      "album": {
         "name": "Undiscovered",
         "url": "https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT"
       },
@@ -1994,7 +2337,7 @@
       "artists": [
         {
           "name": "D\u00f6ssell",
-          "url": "https://open.spotify.com/artist/5g1pVJ6zhthjuUDFTEJbgc"
+          "url": "https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It"
         }
       ],
       "date_added": "2022-09-14",
@@ -2003,6 +2346,24 @@
       "duration_ms": 158174,
       "name": "Undo and Redo",
       "url": "https://open.spotify.com/track/4YLWN1S48u5m8xpxWlk3tY"
+    },
+    {
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/3b67T3JG33Y2fiOv1uHLf4"
+      },
+      "artists": [
+        {
+          "name": "Polar Limit",
+          "url": "https://open.spotify.com/artist/1dFspa71geptAfzlSL73eK"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/2RpAmVKOwP601ultZ5PxEQ"
     },
     {
       "album": {
@@ -2096,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "voyaging in",
+        "url": "https://open.spotify.com/album/4BySq5g4LaHIPB5IbyCnKk"
+      },
+      "artists": [
+        {
+          "name": "Aguto Rising",
+          "url": "https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204114,
+      "name": "voyaging in",
+      "url": "https://open.spotify.com/track/4pHFitNAPMhPA1udwLnL0A"
+    },
+    {
+      "album": {
         "name": "Water Colors",
         "url": "https://open.spotify.com/album/272XJrGegiXcXC5rA3yzek"
       },
@@ -2186,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "center of mass",
+        "url": "https://open.spotify.com/album/3rGLQVlXpRq8IFjMaszvW5"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187729,
+      "name": "windbreaker",
+      "url": "https://open.spotify.com/track/4bhaGEz0et5HJX57VfAmVs"
+    },
+    {
+      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/2MZzFLMncLZle4ZXlzqPTZ"
       },
@@ -2237,6 +2634,28 @@
       "duration_ms": 125250,
       "name": "worth the wait",
       "url": "https://open.spotify.com/track/72sEMr3VwkECakurLsgF2f"
+    },
+    {
+      "album": {
+        "name": "you're just visiting",
+        "url": "https://open.spotify.com/album/4GCvPLx8vEKWmwOAvvovHt"
+      },
+      "artists": [
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106290,
+      "name": "you're just visiting",
+      "url": "https://open.spotify.com/track/7rsRqxM1uneTiTKVjcxfPv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaf6XmhwlgC6"

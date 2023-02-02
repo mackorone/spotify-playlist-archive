@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 
 > The Women who put Country Music on the map\. Cover: Loretta Lynn
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,255 likes - 97 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,221 likes - 97 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 | 79 | [Walkin' After Midnight](https://open.spotify.com/track/7E8nKMtXMqIQbvl1Ta9Ucw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:34 |
 | 80 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
 | 81 | [A Little Past Little Rock](https://open.spotify.com/track/3Xl5apC8UhqZ1FZ7u3HHfO) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet), [Jason Sellers](https://open.spotify.com/artist/5TRj3DqC4pcZaTIGFq99Bg) | [Greatest Hits](https://open.spotify.com/album/3Tdb9TrHS3ne1SjFqBYA5V) | 4:16 |
-| 82 | [Do Me with Love](https://open.spotify.com/track/4BOLIOeDnuQqrd1O4j1okS) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Janie Fricke](https://open.spotify.com/album/1ZAqjmQz7KghNFTeThuQJ7) | 2:49 |
+| 82 | [Do Me with Love](https://open.spotify.com/track/3AbkUW6Ce5hqmd18Dm1fzZ) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Sleeping with Your Memory](https://open.spotify.com/album/78AJ3GJhuovCzEOZDzOGDK) | 2:52 |
 | 83 | [What's Your Mama's Name Child](https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 3:02 |
 | 84 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
 | 85 | [Shut Up And Drive](https://open.spotify.com/track/59aKpxi49wtCe9a1CscDTc) | [Chely Wright](https://open.spotify.com/artist/1aSIXmBKKrEVIbGLwhedIe) | [Let Me In](https://open.spotify.com/album/07eW2eBZwtpfDkSWOAB3jv) | 3:49 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 | 96 | [I Don't Wanna Play House](https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tammy's Greatest Hits](https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI) | 2:34 |
 | 97 | [Paper Roses](https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1) | [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond](https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM) | 2:38 |
 
-Snapshot ID: `MTY0NzU2OTk4NywwMDAwMDAwMDQwMTA2ZjA5Mzc3MjhlOWNjZWM1ODQ4ZWY5Yjk2NTcw`
+Snapshot ID: `MTY0NzU2OTk4NywwMDAwMDAwMDA4NDQwNWM0NzYyOGM4NTI1NmMyNmM1ZmYzNjFhNThi`

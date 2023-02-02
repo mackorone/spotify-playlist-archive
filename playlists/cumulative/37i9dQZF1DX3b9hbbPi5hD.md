@@ -4,7 +4,7 @@
 
 > Tarantino not only produces great movies, he produces great soundtracks
 
-83 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/4ngwbltwZ10J2jqjWazBLN)
+83 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

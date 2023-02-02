@@ -4,19 +4,20 @@
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-76 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/2uF55wDJm5CvI71AIEYqh3)
+77 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A pesar](https://open.spotify.com/track/6NOXVnNgo1e90gncQ1T4RC) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Luna Park](https://open.spotify.com/album/6YnNbmDNBe4H47DUKka4Hp) | 3:23 | 2022-05-25 |  |
+| [A pesar](https://open.spotify.com/track/6NOXVnNgo1e90gncQ1T4RC) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Luna Park](https://open.spotify.com/album/6YnNbmDNBe4H47DUKka4Hp) | 3:23 | 2022-05-25 | 2023-01-27 |
 | [Acho Puñeta \- Reggae Remix](https://open.spotify.com/track/3wTF8x41fGiusgpQGBEBVW) | [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acho Puñeta \(feat\. Los Cafres\) \(Reggae Remix\)](https://open.spotify.com/album/7bstRDc2A1L8ugU4OpxtrT) | 4:52 | 2022-06-02 |  |
+| [Acto Salvaje](https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acto Salvaje](https://open.spotify.com/album/4EKPGoTkb0oq3i1H3Al9NJ) | 4:08 | 2023-01-31 |  |
 | [Aire](https://open.spotify.com/track/2hkJ7fYPM5V27pjxiPG2gg) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 4:17 | 2022-05-25 |  |
 | [Al Menos Hoy](https://open.spotify.com/track/6PknRxiThPZZxfuyP3Upvy) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:35 | 2022-05-25 |  |
 | [Alas Canciones](https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:09 | 2022-05-25 |  |
 | [Arco Iris](https://open.spotify.com/track/1oTHZaQXBcga9tgpFX2qV7) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 3:53 | 2022-05-30 | 2022-06-01 |
 | [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 | 2022-05-25 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/4E2RRctYO1FJwBK3u36xQr) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 2:48 | 2022-05-26 |  |
-| [Capitán Pelusa](https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:07 | 2022-06-02 | 2022-06-04 |
+| [Capitán Pelusa](https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:07 | 2022-06-02 |  |
 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 | 2022-05-25 |  |
 | [Corazoncito](https://open.spotify.com/track/5kfTTsve31mQ8zGwcoZIVc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hombre Simple](https://open.spotify.com/album/0cBsE8gL9lYm0LjjmFw9R9) | 3:52 | 2022-05-25 |  |
 | [Cómo Imaginar](https://open.spotify.com/track/7w8h1IvnQHhe4oduF1EQJW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:18 | 2022-05-25 | 2022-10-16 |
@@ -50,7 +51,7 @@
 | [Misterio](https://open.spotify.com/track/3xKXKFjtT24Z6RDNXPF4au) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 6:16 | 2022-10-10 |  |
 | [Momento](https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:49 | 2022-05-25 |  |
 | [Mostrame Como Sos \- Versión 25 Años](https://open.spotify.com/track/3XV0BKVTN6XXlANGdMcq0t) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:24 | 2022-05-25 |  |
-| [Muia](https://open.spotify.com/track/5ZGZUjb5imCbUbm9a0Dkir) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 5:00 | 2022-11-16 | 2022-11-25 |
+| [Muia](https://open.spotify.com/track/5ZGZUjb5imCbUbm9a0Dkir) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 5:00 | 2022-11-16 | 2022-12-19 |
 | [No puedo esperar](https://open.spotify.com/track/7LOyPKmbXWbkrmmCVbIyIH) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Frecuencia Cafre](https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK) | 4:20 | 2022-08-11 | 2022-08-13 |
 | [Objeto Sexual](https://open.spotify.com/track/3slMnI3iN08GhusgtK8O93) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 4:29 | 2022-05-25 |  |
 | [Perdón](https://open.spotify.com/track/5noZB6CRuCQuvfwVVCphDR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 4:54 | 2022-05-27 |  |
@@ -79,7 +80,7 @@
 | [Una Perla en Mi Vida \- Versión 25 Años](https://open.spotify.com/track/3yoT4Lsk5dwmM95lAWTiWL) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:40 | 2022-05-31 |  |
 | [Velas y Sahumerios](https://open.spotify.com/track/3ANlhNoOuwdQBgh9p8GW3Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:26 | 2022-05-25 |  |
 | [Verte Bien](https://open.spotify.com/track/3UE4HKwbSFNjk3LdhJ4qhG) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 3:30 | 2022-05-25 |  |
-| [Vos sabés](https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vos Sabés](https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo) | 3:58 | 2022-05-25 |  |
+| [Vos sabés](https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vos Sabés](https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo) | 3:58 | 2022-05-25 | 2023-02-01 |
 | [Waitin en Vano](https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Quique Neira](https://open.spotify.com/artist/21R24s5D1g9dIOpYj6TacH) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 5:14 | 2022-05-25 |  |
 | [Waiting en Vano](https://open.spotify.com/track/5sAK5JZrlRF0QMY6AL0Ygl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vivo a Lo Cafre](https://open.spotify.com/album/1TvNdTWV1EhWnlOfze5taj) | 4:58 | 2022-05-25 |  |
 | [Woman](https://open.spotify.com/track/5fpFzu6nqLodx3UZbmpIFX) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:36 | 2022-10-15 |  |

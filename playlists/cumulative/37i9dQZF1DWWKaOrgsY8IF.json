@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
   "name": "Lo Mejor de Pop Latino 2020",
-  "published_playlist_ids": [
-    "6oNWuGyfGKegYHcwL7cuh4"
-  ],
   "tracks": [
     {
       "album": {
@@ -398,6 +395,28 @@
     },
     {
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161060,
+      "name": "Ella Dice",
+      "url": "https://open.spotify.com/track/4foIsT0s9Ime0OPxTpl6N6"
+    },
+    {
+      "album": {
         "name": "Ella Dice",
         "url": "https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS"
       },
@@ -413,7 +432,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 161060,
       "name": "Ella Dice",
       "url": "https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J"
@@ -482,6 +501,28 @@
     },
     {
       "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165646,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/1wNThvd9AUiHcKrEvnDd6o"
+    },
+    {
+      "album": {
         "name": "Fresa",
         "url": "https://open.spotify.com/album/2v2CUuzRvsBNb4c5Rj8nqi"
       },
@@ -497,7 +538,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 165646,
       "name": "Fresa",
       "url": "https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM"
@@ -943,10 +984,32 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 200960,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/3DjInVTE03icrWsq2UZV9n"
+    },
+    {
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
     },
     {
       "album": {

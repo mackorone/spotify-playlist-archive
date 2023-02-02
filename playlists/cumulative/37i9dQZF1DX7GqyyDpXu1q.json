@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Rock swagger served neat. Cover: Nickelback",
   "name": "Southern Comfort",
-  "published_playlist_ids": [
-    "79XVKo7l9XHjcwvW9O8E46"
-  ],
   "tracks": [
     {
       "album": {
@@ -217,7 +214,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 181218,
       "name": "Any Way The Wind Blows",
       "url": "https://open.spotify.com/track/06v3DtMzR1u8XwNkEy8OEp"
@@ -433,7 +430,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 185960,
       "name": "Black Holes (Solid Ground)",
       "url": "https://open.spotify.com/track/6JsiDFQRx7GHcuf2UroSYB"
@@ -567,7 +564,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 219914,
       "name": "Born Rockin'",
       "url": "https://open.spotify.com/track/45fmYIoK6q9tHVmh7aPfXk"
@@ -603,7 +600,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 349266,
       "name": "Brace for Impact (Live a Little)",
       "url": "https://open.spotify.com/track/1cRc03E5Ps0fwe4l8fz2J0"
@@ -773,7 +770,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 169279,
       "name": "Caught Me at a Good Time",
       "url": "https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI"
@@ -1025,7 +1022,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 226853,
       "name": "Everything You're Breathing For",
       "url": "https://open.spotify.com/track/5LzHQ5aVYK828HIWcnralK"
@@ -1819,7 +1816,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 220790,
       "name": "Keep It Close",
       "url": "https://open.spotify.com/track/2E4awT2B9kuIPkiVezOqsh"
@@ -1949,7 +1946,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 201320,
       "name": "Lend A Hand",
       "url": "https://open.spotify.com/track/2so5K4rMu3PthPMB9uNGQG"
@@ -2003,7 +2000,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 183546,
       "name": "Liar",
       "url": "https://open.spotify.com/track/5mry8XEOIVru9Mla0bc8dY"
@@ -2295,6 +2292,24 @@
       "duration_ms": 243000,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj"
+    },
+    {
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/5v4qfdyDiRBYC4ZmFfvDTX"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252213,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/7uKxBnDDb58v88PQ0yylii"
     },
     {
       "album": {
@@ -2613,7 +2628,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 233200,
       "name": "Shaking Off The Evil",
       "url": "https://open.spotify.com/track/4WtE2YBjbAXq252VSmAu1R"
@@ -3251,7 +3266,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 220538,
       "name": "Young Lady, You're Scaring Me",
       "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"

@@ -1,15 +1,31 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 5221,
+  "num_followers": 6253,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTEwNzUzNSwwMDAwMDAwMDg3N2ExMjk5YjMyMWYwYTZiMDkyYzQwYTQ3MWVlNDg3",
+  "snapshot_id": "MTY3MzU4MjQ0MSwwMDAwMDAwMDZmZmM3MzNmNDBkZWU1MGIzZjczYjk2NDYxZTVjOGM0",
   "tracks": [
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/27zrFrtUtWl2urlvjOn5xc"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "The Dream Chapter: ETERNITY",
         "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Your BGM Vol.1",
         "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Some",
         "url": "https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6"
@@ -101,7 +117,7 @@
       "url": "https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
         "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
@@ -133,23 +149,27 @@
       "url": "https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "Brand New - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+        "name": "The Hyena on the Keyboard, Pt. 4",
+        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
       },
       "artists": [
         {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 184493,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
+      "duration_ms": 231654,
+      "name": "Don\u2019t",
+      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
@@ -173,23 +193,7 @@
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
@@ -205,91 +209,23 @@
       "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "The Hyena on the Keyboard, Pt. 4",
-        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 231654,
-      "name": "Don\u2019t",
-      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Dear my X",
-        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Dear my X",
-      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Sequence : 7272",
-        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
-      },
-      "artists": [
-        {
-          "name": "CSR",
-          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Pop? Pop!",
-      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
-    },
-    {
-      "added_at": "2022-11-26 00:57:28",
-      "album": {
-        "name": "Dearest",
-        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
         "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
@@ -305,7 +241,87 @@
       "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Sequence : 7272",
+        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
+      },
+      "artists": [
+        {
+          "name": "CSR",
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Pop? Pop!",
+      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Dear my X",
+        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Dear my X",
+      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Sweet (A Business Proposal OST Part.1)",
+        "url": "https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
@@ -325,39 +341,23 @@
       "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "Sweet (A Business Proposal OST Part.1)",
-        "url": "https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ"
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
       },
       "artists": [
         {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
         }
       ],
-      "duration_ms": 216520,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5"
+      "duration_ms": 206093,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Can you stay (From Semantic Error)",
         "url": "https://open.spotify.com/album/2RBkeoL7bQvL2Ty0p0Uvhq"
@@ -373,23 +373,23 @@
       "url": "https://open.spotify.com/track/3tSvYzpDRQI9uYPrB8W6tj"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "CYAN",
-        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 195253,
-      "name": "2U",
-      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "bimil:ier vol.1 \"so this is love\"",
         "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
@@ -405,7 +405,55 @@
       "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "CYAN",
+        "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 195253,
+      "name": "2U",
+      "url": "https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Feel Like Falling In Love",
+      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "You, Who?",
         "url": "https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
@@ -441,119 +489,7 @@
       "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Feel Like Falling In Love",
-      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Why isn't love always easy? (Romance 101 X JOY)",
-        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Why isn't love always easy? (Romance 101 X JOY)",
-      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
-        "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
-      },
-      "artists": [
-        {
-          "name": "KIHYUN",
-          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "IS THIS LOVE",
-      "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 224726,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "3rd Digital Single 'Not In Public'",
         "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
@@ -569,59 +505,91 @@
       "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
-        "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
+        "name": "Why isn't love always easy? (Romance 101 X JOY)",
+        "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
       "artists": [
         {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "Why isn't love always easy? (Romance 101 X JOY)",
+      "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 224726,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
+      },
+      "artists": [
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "IS THIS LOVE",
+      "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Again & Again",
+        "url": "https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf"
         },
         {
-          "name": "Raina",
-          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
+          "name": "KOYO",
+          "url": "https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz"
         }
       ],
-      "duration_ms": 233456,
-      "name": "A midsummer night's sweetness",
-      "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+      "duration_ms": 172500,
+      "name": "Again & Again (Feat. KOYO)",
+      "url": "https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "DA DA!",
-        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
       },
       "artists": [
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
         }
       ],
-      "duration_ms": 225125,
-      "name": "busy guy",
-      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
+      "duration_ms": 194786,
+      "name": "My Destiny",
+      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
-        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Dive into you",
-      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
@@ -641,74 +609,26 @@
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "Pong Dang",
-        "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
         }
       ],
-      "duration_ms": 233026,
-      "name": "Pong Dang",
-      "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "Losing Sleep Over You",
-        "url": "https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi"
-      },
-      "artists": [
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Losing Sleep Over You",
-      "url": "https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Once Upon a Small Town (Original Television Soundtrack), Pt.4",
-        "url": "https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa"
-      },
-      "artists": [
-        {
-          "name": "Song Youjin",
-          "url": "https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Minamdang (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF"
-      },
-      "artists": [
-        {
-          "name": "Seo In Guk",
-          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I like you",
-      "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "NDGGA",
-        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
       },
       "artists": [
         {
@@ -716,32 +636,12 @@
           "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 175412,
-      "name": "NDGGA",
-      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
+      "duration_ms": 225125,
+      "name": "busy guy",
+      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
-        "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
-      },
-      "artists": [
-        {
-          "name": "Yang Yoseob",
-          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
-        },
-        {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
@@ -761,7 +661,75 @@
       "url": "https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
+        "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Raina",
+          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "A midsummer night's sweetness",
+      "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Pong Dang",
+        "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Pong Dang",
+      "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "The One and Only, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB"
@@ -777,7 +745,75 @@
       "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
+        "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
+      },
+      "artists": [
+        {
+          "name": "Yang Yoseob",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+        },
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "NDGGA",
+        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "NDGGA",
+      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Confession (Ditto X Chuu (LOONA))",
+        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
+      },
+      "artists": [
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Confession (Ditto X Chuu (LOONA))",
+      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
+        "name": "Losing Sleep Over You",
+        "url": "https://open.spotify.com/album/5cWr6GGTuK2eWAjN8EkUxi"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Losing Sleep Over You",
+      "url": "https://open.spotify.com/track/1T9QufIPBQTW36Z1oNxrks"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "I Study You",
         "url": "https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT"
@@ -793,39 +829,7 @@
       "url": "https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "The King's Affection OST Part.6",
-        "url": "https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U"
-      },
-      "artists": [
-        {
-          "name": "HAE YOON (Cherry Bullet)",
-          "url": "https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Full of You",
-      "url": "https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "Adult Trainee, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB"
-      },
-      "artists": [
-        {
-          "name": "MIYEON",
-          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
-        }
-      ],
-      "duration_ms": 191126,
-      "name": "Imagine Love",
-      "url": "https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
         "name": "My First June",
         "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
@@ -845,20 +849,20 @@
       "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
     },
     {
-      "added_at": "2022-11-03 09:23:01",
+      "added_at": "2023-01-13 04:00:41",
       "album": {
-        "name": "Confession (Ditto X Chuu (LOONA))",
-        "url": "https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp"
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
       },
       "artists": [
         {
-          "name": "Chuu (LOONA)",
-          "url": "https://open.spotify.com/artist/5cFdpa8OCO9JGIOB7O8ygU"
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
         }
       ],
-      "duration_ms": 243706,
-      "name": "Confession (Ditto X Chuu (LOONA))",
-      "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
+      "duration_ms": 219813,
+      "name": "Should Not Love You",
+      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
     }
   ],
   "unique_name": "\uc378",

@@ -4,7 +4,7 @@
 
 > Music from "Resident Evil: Infinite Darkness"! /音楽で辿る「BIOHAZARD：Infinite Darkness」の世界。©CAPCOM CO.,LTD\. ALL RIGHTS RESERVED.
 
-29 songs - 1 hr 15 min - [published](https://open.spotify.com/playlist/25o3aWKviq0GKxnP9jF5KB)
+29 songs - 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

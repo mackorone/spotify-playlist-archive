@@ -4,7 +4,7 @@
 
 > These songs about science will get your kids thinking \(and dancing!\).
 
-34 songs - 1 hr 18 min - [published](https://open.spotify.com/playlist/0OEmdXbeek3c9Yj97TT28T)
+34 songs - 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

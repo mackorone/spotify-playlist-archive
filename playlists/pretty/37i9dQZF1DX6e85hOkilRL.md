@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e85hOkilRL.md) - [plain]
 
 > A playlist featuring instrumental lullaby versions of your favorite country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,437 likes - 73 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,676 likes - 73 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,538 likes - 26 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,602 likes - 26 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 | 21 | [Queen](https://open.spotify.com/track/1DfRCC2qpjjzc6l5DmTjkG) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright](https://open.spotify.com/album/571wQuGuOOLTbbyYoujGra) | 3:50 |
 | 22 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 |
 | 23 | [Another Lonely Night](https://open.spotify.com/track/7kOJsVkJXvLQPQ9osGWeKd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:45 |
-| 24 | [Live Your Life](https://open.spotify.com/track/1DkE9q0AAby1arBO7rIqZ1) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [This Is What I Do](https://open.spotify.com/album/3cU7WKJxiHrZDaDCk1HSkm) | 4:33 |
+| 24 | [Live Your Life](https://open.spotify.com/track/5xxXrfRW2n8eqllPtEDbEU) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [This Is What I Do](https://open.spotify.com/album/7fGB7p5gO9DeSLaJTvSrWH) | 4:33 |
 | 25 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
 | 26 | [Adam Lambert Quoting Dr\. Seuss](https://open.spotify.com/track/5lDq9taZLBt193gxJSoBIr) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Adam Lambert \- Spotify Pride](https://open.spotify.com/album/2e0gDFnkpouqkRAovJ1hKD) | 0:20 |
 
-Snapshot ID: `MTQ5NjQxMDgzMiwwMDAwMDAwMGNiMGZjNWM0NWJkYTA5NjhjNzBlYjk2MDIzYTc4MGQw`
+Snapshot ID: `MTQ5NjQxMDgzMiwwMDAwMDAwMDQwNGM3NzZlZWJjMDczMTNmZWIzOTUxZGYwMjJjNmI3`

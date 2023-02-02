@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSh772jdJpgb.md) - [plain]
 
 > Podcasts you need to have on your RADAR: Stories with Sapphire, Affirmations for Black Girls, and Girlish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 513 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

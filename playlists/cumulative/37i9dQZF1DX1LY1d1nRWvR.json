@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
   "name": "lush",
-  "published_playlist_ids": [
-    "5YvJc7GDleqyxDCjBu39II"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 224500,
       "name": "A Place With A View - Edit",
       "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
@@ -220,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
+    },
+    {
+      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn"
       },
@@ -345,6 +360,24 @@
       "duration_ms": 67943,
       "name": "Jazz 104",
       "url": "https://open.spotify.com/track/32rOcuTIZZTNWdsrUWGCJ6"
+    },
+    {
+      "album": {
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+      },
+      "artists": [
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
     },
     {
       "album": {
@@ -501,7 +534,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 267520,
       "name": "Mind",
       "url": "https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk"
@@ -573,7 +606,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 213540,
       "name": "Movementt",
       "url": "https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC"
@@ -770,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229499,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/3RdOr8819TT72WFuMMPmn1"
+    },
+    {
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/6zNvF2C8ReCyPWec5u4Gxg"
       },
@@ -781,7 +832,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 229499,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6uF67kzG2wKwjt2LCAAy87"
@@ -855,7 +906,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 217080,
       "name": "Side Street",
       "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
@@ -1143,7 +1194,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 450950,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
@@ -1197,7 +1248,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 269866,
       "name": "You My Love",
       "url": "https://open.spotify.com/track/0ZB7ZDRtuwXavI73Xf8KMD"

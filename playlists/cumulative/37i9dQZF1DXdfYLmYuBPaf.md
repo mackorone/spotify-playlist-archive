@@ -4,7 +4,7 @@
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 
-71 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/0GoQG8PRV51P9Lf8L1GQ1U)
+71 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

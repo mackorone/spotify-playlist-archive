@@ -4,7 +4,7 @@
 
 > The top hits from your friends on <a href="spotify:artist:50bY8HGxT0SuDgJX3AilTT">Sesame Street</a>.
 
-40 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/4aCvJBGAw8Zgv0FVAdxxrX)
+40 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

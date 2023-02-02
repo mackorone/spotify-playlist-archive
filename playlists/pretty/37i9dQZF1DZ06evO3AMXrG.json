@@ -1,15 +1,15 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 201251,
+  "num_followers": 205211,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDAyNzk2MmUyOTNkYjZiYzIxMjNiMGM5ZjM3ZGU2NDVlYQ==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA4Mzc4MThkY2RiZmY1ODcxODJiYjFlM2QxMTYwNGQ0ZA==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/55nSQ0bhYhnN9Gr6yKAF86"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 322866,
+      "name": "Un Deseo",
+      "url": "https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
@@ -65,23 +81,7 @@
       "url": "https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 322866,
-      "name": "Un Deseo",
-      "url": "https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Saca, Prende Y Sorprende",
         "url": "https://open.spotify.com/album/3fxbfhM7Cm7dKdSVvJAv8u"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/67v6edtYPUYnzaElq4U37Q"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Diario",
         "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "El Momento",
         "url": "https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
@@ -160,12 +160,12 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 187481,
-      "name": "Rimas Pa' Seducir",
-      "url": "https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG"
+      "duration_ms": 266026,
+      "name": "Baja la Tensio\u0301n",
+      "url": "https://open.spotify.com/track/1aptwqzmy2RxB3ODy7g8sY"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Ll\u00e9vame (Cultura Remix)",
         "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Fuiste Cruel",
         "url": "https://open.spotify.com/album/3gFaZRToVe63cRTJJh94Yo"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/4ElWiTXz0iz5vKO8X2L0hN"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "M. O. T. A.",
         "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
@@ -228,12 +228,12 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 266026,
-      "name": "Baja la Tensio\u0301n",
-      "url": "https://open.spotify.com/track/1aptwqzmy2RxB3ODy7g8sY"
+      "duration_ms": 187481,
+      "name": "Rimas Pa' Seducir",
+      "url": "https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/1ZPtlRm6Judlzx1bw0mIhI"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "M. O. T. A.",
         "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
@@ -321,71 +321,7 @@
       "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "Donde No Alcanza Mi Verso",
-      "url": "https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Nadie Se Atreve",
-      "url": "https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 265877,
-      "name": "La Espera",
-      "url": "https://open.spotify.com/track/0vl8naLAWvkm7EiE4DQdl5"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 267764,
-      "name": "Sobrevolando",
-      "url": "https://open.spotify.com/track/3DGeQ66WnH65T5f4SpnzAY"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Le da Igual",
         "url": "https://open.spotify.com/album/2HDu1meEZDzEvSq8BZtRYs"
@@ -401,7 +337,7 @@
       "url": "https://open.spotify.com/track/30aOv2QHVEqm4PmDdJ6uvl"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "M. O. T. A.",
         "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
@@ -412,15 +348,15 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 248533,
-      "name": "La Noche Vibra",
-      "url": "https://open.spotify.com/track/04LV5ZhMdkFJqvGtITa62B"
+      "duration_ms": 332533,
+      "name": "Nadie Se Atreve",
+      "url": "https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
       "artists": [
         {
@@ -428,12 +364,12 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 287160,
-      "name": "Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
+      "duration_ms": 265877,
+      "name": "La Espera",
+      "url": "https://open.spotify.com/track/0vl8naLAWvkm7EiE4DQdl5"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
@@ -449,7 +385,39 @@
       "url": "https://open.spotify.com/track/0xrZ27yKrvpPeCeQwVlGNO"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 283466,
+      "name": "Donde No Alcanza Mi Verso",
+      "url": "https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "La Noche Vibra",
+      "url": "https://open.spotify.com/track/04LV5ZhMdkFJqvGtITa62B"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Ideas Nuevas",
         "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
@@ -465,39 +433,7 @@
       "url": "https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "M\u00fasica Sin Tiempo",
-        "url": "https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 284020,
-      "name": "M\u00fasica Sin Tiempo",
-      "url": "https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "\u00c1rboles",
-      "url": "https://open.spotify.com/track/109IRvp8IFTgPDllZdyWJV"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
@@ -513,7 +449,39 @@
       "url": "https://open.spotify.com/track/0hMNf3RxYbtQ3qd4qEN2KI"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 287160,
+      "name": "Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "M\u00fasica Sin Tiempo",
+        "url": "https://open.spotify.com/album/1glGF4NuNqwLeLeEh1VFA9"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 284020,
+      "name": "M\u00fasica Sin Tiempo",
+      "url": "https://open.spotify.com/track/6bZtdmZVoBKSr5IEgfPklT"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "M. O. T. A.",
         "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
@@ -529,39 +497,7 @@
       "url": "https://open.spotify.com/track/1lIBlgWFQCN9zLwUaUMJfL"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 307856,
-      "name": "Hasta la Noche (Ilegal)",
-      "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Borik\u00e9n",
-      "url": "https://open.spotify.com/track/0i9k4cD2p8nqOLt0HMlIwh"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
@@ -577,7 +513,39 @@
       "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "\u00c1rboles",
+      "url": "https://open.spotify.com/track/109IRvp8IFTgPDllZdyWJV"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 307856,
+      "name": "Hasta la Noche (Ilegal)",
+      "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Ideas Nuevas",
         "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
@@ -593,10 +561,10 @@
       "url": "https://open.spotify.com/track/76G33BEy8ztidGLSPWlU1b"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
       "artists": [
         {
@@ -604,28 +572,12 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Fruto de la Tierra",
-      "url": "https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez"
+      "duration_ms": 267764,
+      "name": "Sobrevolando",
+      "url": "https://open.spotify.com/track/3DGeQ66WnH65T5f4SpnzAY"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "15 Aniversario en el Luna Park",
-        "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 351280,
-      "name": "D\u00edas Intensos - En Vivo",
-      "url": "https://open.spotify.com/track/4j8z7WW1iFAZjSPt24XVlm"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Diario",
         "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
@@ -636,28 +588,12 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 224573,
-      "name": "Quiero Hablar",
-      "url": "https://open.spotify.com/track/0fEXNlcGfKRp33LNM7jToQ"
+      "duration_ms": 255800,
+      "name": "Borik\u00e9n",
+      "url": "https://open.spotify.com/track/0i9k4cD2p8nqOLt0HMlIwh"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Reggea R\u00fastico",
-      "url": "https://open.spotify.com/track/34fBKRTK9eXXWF6DoUsgp4"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Codigos Del Alma",
         "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
@@ -677,7 +613,71 @@
       "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "15 Aniversario en el Luna Park",
+        "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 351280,
+      "name": "D\u00edas Intensos - En Vivo",
+      "url": "https://open.spotify.com/track/4j8z7WW1iFAZjSPt24XVlm"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Fruto de la Tierra",
+      "url": "https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Reggea R\u00fastico",
+      "url": "https://open.spotify.com/track/34fBKRTK9eXXWF6DoUsgp4"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Quiero Hablar",
+      "url": "https://open.spotify.com/track/0fEXNlcGfKRp33LNM7jToQ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "15 Aniversario en el Luna Park",
         "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
@@ -693,39 +693,7 @@
       "url": "https://open.spotify.com/track/7sJka3hr6kdXGrxWHIEWUm"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/0JgjwTH0UqqsEtJo6f3rl1"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
-      "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "La Otra Galaxia",
-      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
-    },
-    {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Cultura en Vivo",
         "url": "https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8"
@@ -741,7 +709,39 @@
       "url": "https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "La Otra Galaxia",
+      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
+      "album": {
+        "name": "Tribute to the Legend Bob Marley (Live)",
+        "url": "https://open.spotify.com/album/1a13hH48fVZwvpODjcnjoi"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Pimper's Paradise - Live",
+      "url": "https://open.spotify.com/track/0hN3PFAINvpvhjV4v6CmTu"
+    },
+    {
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "15 Aniversario en el Luna Park",
         "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/23jnxVzlzYjpX2YZtnrjdA"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Ideas Nuevas",
         "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "15 Aniversario en el Luna Park",
         "url": "https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/09BZvRoyzf58jpjBStkEzg"
     },
     {
-      "added_at": "2022-11-25 14:27:25",
+      "added_at": "2023-02-01 17:51:40",
       "album": {
         "name": "Ideas Nuevas",
         "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"

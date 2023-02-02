@@ -4,7 +4,7 @@
 
 > Fancy Hagood co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!
 
-47 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/5JA3OzXsYtkJcZ1drSuF8x)
+47 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

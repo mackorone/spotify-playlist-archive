@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 
 > Workout music for hamsters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,682 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,865 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 | 5 | [Swervin \(feat\. 6ix9ine\)](https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:09 |
 | 6 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp) | 3:20 |
 | 7 | [Sunflower \(Remix\) \[with Swae Lee, Nicky Jam, and Prince Royce\]](https://open.spotify.com/track/0wt9RjddODlWDetpuaXfRK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [G.O Kings Bred](https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE) | [Spider\-Man: Into the Spider\-Verse \(Deluxe Edition / Soundtrack From & Inspired By The Motion Picture\)](https://open.spotify.com/album/3pOj4mmxL5MUwR1IR8LPzL) | 3:30 |
-| 8 | [Lullaby](https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5) | 2:40 |
+| 8 | [Lullaby](https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a) | 2:40 |
 | 9 | [I'm Not Alright \- Zack Martino Remix](https://open.spotify.com/track/6TWjDrdEoFy4YWf2oAsy9s) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu) | [I'm Not Alright \(Remixes\)](https://open.spotify.com/album/4Jk8y26Xr0CDgDgctz0cq1) | 3:05 |
 | 10 | [Take What You Want \(feat\. Ozzy Osbourne & Travis Scott\)](https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:49 |
 | 11 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 | 18 | [Project Dreams](https://open.spotify.com/track/6GSkLS2y4ZnnZsuRAj975K) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Project Dreams](https://open.spotify.com/album/4mKWtSdQVrmWzY0d3fLBTR) | 2:47 |
 | 19 | [Nothing To Do](https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84) | [Bancali](https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h) | [Nothing To Do](https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG) | 2:33 |
 | 20 | [Istanbul](https://open.spotify.com/track/2wC9IS3UDMfIUGd9JvxUVA) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Istanbul](https://open.spotify.com/album/6N5xZRg1WFFFSLQ76kn0Kp) | 2:25 |
-| 21 | [Behind Barz \- Bonus](https://open.spotify.com/track/5r7WvQtyPfy1xch5zMgGRp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Top Boy \(A Selection of Music Inspired by the Series\)](https://open.spotify.com/album/334X6XoNKUzpAQbm5FPsMh) | 2:43 |
+| 21 | [Behind Barz \- Bonus](https://open.spotify.com/track/621hMmYrgWG3caSFtbZg2p) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Behind Barz \(Bonus\)](https://open.spotify.com/album/3zKS1jwGRc0qWJBrSQcBLm) | 2:43 |
 | 22 | [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/6w8mGg73sQl4QJEhpDUvpI) | 4:08 |
 | 23 | [Go Loko \(feat\. Tyga, Jon Z\)](https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [4REAL 4REAL](https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm) | 4:59 |
 | 24 | [When In Rome](https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [When In Rome](https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f) | 3:14 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 | 39 | [Started](https://open.spotify.com/track/5t0VcwyjDPOWIdylULdfxk) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Started](https://open.spotify.com/album/04MknhNSl3DH9qDbBr61bS) | 3:06 |
 | 40 | [Death Rail](https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8) | 2:31 |
 
-Snapshot ID: `MTU3ODYzMjQ2MCwwMDAwMDAwMGM1MDA4NDdlN2I3YzkxYWM0MzE5YzA5YmQ3YjFjNDk3`
+Snapshot ID: `MTU3ODYzMjQ2MCwwMDAwMDAwMGU1YzU0ODQ0NjkxMjBiNzViYTBiYzg5M2MzNzAwOGQy`

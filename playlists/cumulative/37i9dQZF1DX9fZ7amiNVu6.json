@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "Kick back and enjoy these classic summer songs.",
   "name": "Feel Good Summer",
-  "published_playlist_ids": [
-    "3C8UVUXmpYsaTxtPSutW5E"
-  ],
   "tracks": [
     {
       "album": {
@@ -225,7 +222,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-21",
       "duration_ms": 289293,
       "name": "Aquarius/Let The Sunshine In (The Flesh Failures) - From the Musical \"Hair\"",
       "url": "https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV"
@@ -1197,7 +1194,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-15",
       "duration_ms": 153506,
       "name": "I'm Into Something Good",
       "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
@@ -1690,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Sailing / Poor Shirley (Digital 45)",
+        "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255453,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -1701,7 +1716,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 256146,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
@@ -1741,6 +1756,24 @@
       "duration_ms": 235666,
       "name": "Saturday in the Park - 2002 Remaster",
       "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
+    },
+    {
+      "album": {
+        "name": "Come Find Yourself",
+        "url": "https://open.spotify.com/album/2kLxemkoUhfXKvJ78MabBN"
+      },
+      "artists": [
+        {
+          "name": "Fun Lovin' Criminals",
+          "url": "https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 184000,
+      "name": "Scooby Snacks",
+      "url": "https://open.spotify.com/track/7I8KtOFPNmC2ZsiNPCwoS8"
     },
     {
       "album": {

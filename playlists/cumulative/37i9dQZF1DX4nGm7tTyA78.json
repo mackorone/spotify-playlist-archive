@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "Trap latino que alimenta tu esp\u00edritu. Cover: Redimi2",
   "name": "Trapstorno",
-  "published_playlist_ids": [
-    "4QTolJARsiGXtNoXJeFdWi"
-  ],
   "tracks": [
     {
       "album": {
@@ -237,10 +234,32 @@
       ],
       "date_added": "2020-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 250055,
       "name": "Como David",
       "url": "https://open.spotify.com/track/5p9GwiOKDTCxV63TXexVVr"
+    },
+    {
+      "album": {
+        "name": "Espiritu Libre",
+        "url": "https://open.spotify.com/album/7CxwXgHtZJfbslvTh938cb"
+      },
+      "artists": [
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        },
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "date_added": "2020-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Como David (feat. Natan El Profeta)",
+      "url": "https://open.spotify.com/track/3JBCTm1dV5e9sNIGSSKp4S"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-93 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/517xtQyQp7IaJ3lX9tcsdm)
+93 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 | 2020-06-03 |  |
 | [Blessings on Blessings](https://open.spotify.com/track/3VBq4uuOxikF23PWXPCuGu) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Blessings on Blessings](https://open.spotify.com/album/5v2XFpXgYPT7lC9mZf1x9R) | 4:55 | 2020-06-03 | 2022-11-14 |
 | [Brighter Day](https://open.spotify.com/track/5TlSqF8DhwDLaUMFmV3APE) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth of Kirk Franklin](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:40 | 2020-06-03 |  |
-| [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 | 2020-06-03 | 2022-11-13 |
+| [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 | 2020-06-03 |  |
 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 | 2020-06-03 |  |
 | [Close](https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close](https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H) | 6:20 | 2020-06-03 |  |
 | [Close \(Radio Edit\)](https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Close \(Radio Edit\)](https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo) | 4:25 | 2020-06-03 |  |
@@ -32,7 +32,7 @@
 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/67UQCLTcle3v4kpJ82xT0b) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [God My God \(Live\)](https://open.spotify.com/album/45Svl1RYl6mR7CwObb77H7) | 4:43 | 2020-06-03 | 2022-07-25 |
 | [Gotta Have You](https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Life Music: Stage Two](https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4) | 2:56 | 2020-06-03 |  |
 | [Gotta Have You](https://open.spotify.com/track/6sIO0e3xxVRhCZn6YcU4CG) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Gotta Have You \- Single](https://open.spotify.com/album/2fTjnLLiT0TA9MCBM5hoK5) | 2:56 | 2020-06-03 | 2022-07-26 |
-| [I Agree \(feat\. Gene Hoskins\)](https://open.spotify.com/track/59Di2wFNVIZZLXQjMxVjgr) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Gene Hoskins](https://open.spotify.com/artist/3InuhUOZdqcWYa96xDDaG0) | [Declarations](https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT) | 7:56 | 2020-06-03 |  |
+| [I Agree \(feat\. Gene Hoskins\)](https://open.spotify.com/track/59Di2wFNVIZZLXQjMxVjgr) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Gene Hoskins](https://open.spotify.com/artist/3InuhUOZdqcWYa96xDDaG0) | [Declarations](https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT) | 7:56 | 2020-06-03 | 2023-01-29 |
 | [I Agree \(feat\. Gene Hoskins\)](https://open.spotify.com/track/6hP8jMfmNdksnXSQjVZO7Y) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Gene Hoskins](https://open.spotify.com/artist/3InuhUOZdqcWYa96xDDaG0) | [Declarations](https://open.spotify.com/album/1kBO34QmChEjSRFxUmHJL9) | 7:56 | 2020-06-03 | 2022-07-29 |
 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 | 2020-06-03 |  |
 | [I Forgive Me](https://open.spotify.com/track/17MqdngAFPDWcaSt9wkPQi) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Dear Future Me](https://open.spotify.com/album/24gwZpFPcNhXmz4p9h4HcH) | 4:35 | 2020-06-03 | 2022-07-29 |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
   "name": "Acid Jazz",
-  "published_playlist_ids": [
-    "0s2Ueduw9O11cFJZqPQWID"
-  ],
   "tracks": [
     {
       "album": {
@@ -299,7 +296,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-01",
       "duration_ms": 253173,
       "name": "Be Thankful (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
@@ -473,7 +470,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 320737,
       "name": "C'\u00e9tait un rendez-vous",
       "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
@@ -689,7 +686,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-04",
       "duration_ms": 209509,
       "name": "Crazy That You Love",
       "url": "https://open.spotify.com/track/4Z4lh6KduIfW4REI6XGnDw"
@@ -1357,10 +1354,40 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 222000,
       "name": "I'll Be With You",
       "url": "https://open.spotify.com/track/1cPRsjayiASoq23P6Qn9sn"
+    },
+    {
+      "album": {
+        "name": "I'll Be With You",
+        "url": "https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q"
+      },
+      "artists": [
+        {
+          "name": "Apartment Upstairs",
+          "url": "https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk"
+        },
+        {
+          "name": "Doc Awes",
+          "url": "https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes"
+        },
+        {
+          "name": "Abhay Sharma",
+          "url": "https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3"
+        },
+        {
+          "name": "Fakeer",
+          "url": "https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "I'll Be With You",
+      "url": "https://open.spotify.com/track/7a0i3hGEInHBswOYD5KaH4"
     },
     {
       "album": {
@@ -1909,7 +1936,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 298722,
       "name": "Niassam",
       "url": "https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU"
@@ -1945,7 +1972,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 300186,
       "name": "No Use - Funkhaus Sessions",
       "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
@@ -1963,7 +1990,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 286600,
       "name": "Nothing Has Changed",
       "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
@@ -2275,6 +2302,24 @@
       "duration_ms": 303040,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/6i4Gu9ogL4kClgBzj3NZ6g"
+    },
+    {
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/0c9Ixyl94wsxMiW1k4Obh9"
+      },
+      "artists": [
+        {
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5RnLNOSL1nkBzil8mVM10o"
     },
     {
       "album": {
@@ -2615,7 +2660,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 165560,
       "name": "Theme from Riot on 103rd Street",
       "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter",
   "name": "Country Club",
-  "published_playlist_ids": [
-    "2qjkli2L9nRlyk9PRGesSw"
-  ],
   "tracks": [
     {
       "album": {
@@ -1100,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
+    },
+    {
+      "album": {
         "name": "Good as You",
         "url": "https://open.spotify.com/album/1shrUJ5iUnfkSW8LzEX8Ps"
       },
@@ -1261,10 +1276,6 @@
         {
           "name": "Walker Hayes",
           "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
-        },
-        {
-          "name": "Aukoustics",
-          "url": "https://open.spotify.com/artist/3o8z3AHOZOxmmb2IKqRxiT"
         },
         {
           "name": "secs on the beach",
@@ -2160,6 +2171,28 @@
     },
     {
       "album": {
+        "name": "One Night in Nashville",
+        "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173069,
+      "name": "Something\u2019s Coming",
+      "url": "https://open.spotify.com/track/4F17nB9GKTSPfocx9D7jHx"
+    },
+    {
+      "album": {
         "name": "Soul (R3HAB Remix)",
         "url": "https://open.spotify.com/album/2BiotTS8ZOBFKLQAnJ0JVN"
       },
@@ -2677,6 +2710,28 @@
       "duration_ms": 191202,
       "name": "What Ifs (Remix) (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7dDq3MWjdEyTh0d0L3C4FX"
+    },
+    {
+      "album": {
+        "name": "Whiskey On You (MOTi Remix)",
+        "url": "https://open.spotify.com/album/6cfd4vhDiISxkUnPIjWztR"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Whiskey On You - MOTi Remix",
+      "url": "https://open.spotify.com/track/71lK60jidcsiwpbajRFVYX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The official playlist for Russian Doll on Netflix.
 
-28 songs - 2 hr 12 min - [published](https://open.spotify.com/playlist/35lOdbLMgRYYb2RBHdekcr)
+28 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

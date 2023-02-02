@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-31",
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
   "name": "This Is Five Finger Death Punch",
-  "published_playlist_ids": [
-    "66qrbgFxBQIYZjL76PLDsW"
-  ],
   "tracks": [
     {
       "album": {
@@ -575,6 +572,24 @@
       "duration_ms": 226348,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/163Kb2pSLLduhfbO6Zn0sL"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 267290,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/0rqRkmrlWyuhSUqJKvf8SK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Enjoy the company of friends alongside some folksy acoustics perfect for an autumn dinner party.
 
-35 songs - 2 hr 9 min - [published](https://open.spotify.com/playlist/325VRIkXqF4YyBuhLCpI8N)
+35 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

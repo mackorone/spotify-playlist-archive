@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "Las grandes canciones escritas por El Buki.",
   "name": "Cancionero Marco Antonio Solis",
-  "published_playlist_ids": [
-    "6iD0P63slLNSdHNwqJH0X0"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 248560,
       "name": "Acepto Mi Derrota",
       "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
@@ -385,6 +382,28 @@
       "duration_ms": 271640,
       "name": "Cuando Te Acuerdes De Mi",
       "url": "https://open.spotify.com/track/45eKmLp6uFaMQAY2oHihIt"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
     },
     {
       "album": {
@@ -1381,7 +1400,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 223666,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
@@ -1453,7 +1472,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 245786,
       "name": "Mi Mayor Necesidad",
       "url": "https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq"
@@ -2331,7 +2350,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 299626,
       "name": "Ser\u00e1 Mejor Que Te Vayas",
       "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
@@ -2569,7 +2588,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 263800,
       "name": "Si Te Pudiera Mentir - Live Version",
       "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
@@ -3013,7 +3032,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 234813,
       "name": "Vete Con Ella",
       "url": "https://open.spotify.com/track/0qyvsjsNuMWQVAm2JK8n2W"

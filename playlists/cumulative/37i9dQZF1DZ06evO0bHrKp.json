@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
   "name": "This Is Sum 41",
-  "published_playlist_ids": [
-    "5cv0G8vVTMMvOBsmmmni7A"
-  ],
   "tracks": [
     {
       "album": {
@@ -235,7 +232,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2023-02-02",
       "duration_ms": 102066,
       "name": "Exit Song",
       "url": "https://open.spotify.com/track/5UA1qQiYqtfjhX1FHVlbhj"
@@ -379,7 +376,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 227373,
       "name": "Holy Image Of Lies",
       "url": "https://open.spotify.com/track/3tFuViD1r1YcjDegM7fiCU"
@@ -715,6 +712,24 @@
       "duration_ms": 138086,
       "name": "Shooting Star (feat. Sum 41)",
       "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
+    },
+    {
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204586,
+      "name": "Skumf*k",
+      "url": "https://open.spotify.com/track/0SQWxG33k9aRva3V3V9b66"
     },
     {
       "album": {

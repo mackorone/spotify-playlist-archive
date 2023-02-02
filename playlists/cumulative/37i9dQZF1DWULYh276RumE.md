@@ -4,7 +4,7 @@
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/7lHZN8enynMFl1NITvEJx7)
+62 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

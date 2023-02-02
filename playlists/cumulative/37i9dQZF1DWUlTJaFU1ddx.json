@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The sweet sounds of Jordan.",
   "name": "Jordan Sounds",
-  "published_playlist_ids": [
-    "3RjKkBGdUUaqqoXkZCGwyG"
-  ],
   "tracks": [
     {
       "album": {
@@ -171,6 +168,24 @@
       "duration_ms": 293106,
       "name": "Asheek (\u0639 \u0627\u0644\u0634\u064a\u0643)",
       "url": "https://open.spotify.com/track/2BBiS0tSDesfiuhv1PEodP"
+    },
+    {
+      "album": {
+        "name": "Bafaker Kteer",
+        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
+      },
+      "artists": [
+        {
+          "name": "Reina Khoury",
+          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200337,
+      "name": "Bafaker Kteer",
+      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
     },
     {
       "album": {

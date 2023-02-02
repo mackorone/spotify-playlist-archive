@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Soothe your mind with gentle instrumentals.",
   "name": "Musical Therapy",
-  "published_playlist_ids": [
-    "5E3sU5b9bqkflT96CV3QHp"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 221739,
       "name": "After the storm",
       "url": "https://open.spotify.com/track/3WuOYQvrHVAANn735uiw1k"
@@ -988,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/2Im4LTWyWpEmEky5hpn1jz"
+      },
+      "artists": [
+        {
+          "name": "Niebla Valley",
+          "url": "https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163516,
+      "name": "Entering Light",
+      "url": "https://open.spotify.com/track/66sprH72V1xH9LhBW5Pvar"
+    },
+    {
+      "album": {
         "name": "Essential Sleep",
         "url": "https://open.spotify.com/album/7aoGBZ6Tb1YoUXZQNqOLhh"
       },
@@ -1039,6 +1054,24 @@
       "duration_ms": 198221,
       "name": "Evening Song",
       "url": "https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI"
+    },
+    {
+      "album": {
+        "name": "Eventide",
+        "url": "https://open.spotify.com/album/7zagnV048RSvZVQcVLo0np"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5nvarv",
+          "url": "https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/3TZEzSgedGeH2EKGjH501J"
     },
     {
       "album": {
@@ -1568,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR"
+      },
+      "artists": [
+        {
+          "name": "Eoforwine",
+          "url": "https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146680,
+      "name": "Inside The Wave",
+      "url": "https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd"
+    },
+    {
+      "album": {
         "name": "Into the light",
         "url": "https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id"
       },
@@ -1579,7 +1630,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 146364,
       "name": "Into the light",
       "url": "https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS"
@@ -1655,6 +1706,24 @@
       "duration_ms": 178402,
       "name": "Jupiter Sunrise",
       "url": "https://open.spotify.com/track/1tQKUYjY3h950XByYm0ZAf"
+    },
+    {
+      "album": {
+        "name": "Juste un peu de temps",
+        "url": "https://open.spotify.com/album/5ayE5YMhM1ptPPL5iuirTi"
+      },
+      "artists": [
+        {
+          "name": "Delit Quirion",
+          "url": "https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185875,
+      "name": "Juste un peu de temps",
+      "url": "https://open.spotify.com/track/46kX9joHbnA0xNSlQbGjIN"
     },
     {
       "album": {
@@ -2209,7 +2278,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 108770,
       "name": "October",
       "url": "https://open.spotify.com/track/7x8ILiGyZAFW3F0rPUPYxm"
@@ -2221,8 +2290,8 @@
       },
       "artists": [
         {
-          "name": "Elian Costa",
-          "url": "https://open.spotify.com/artist/0l7ul5uSQGndF0gOTCRL0Z"
+          "name": "Suraj Ives",
+          "url": "https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn"
         }
       ],
       "date_added": "2022-10-15",
@@ -2571,7 +2640,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 105626,
-      "name": "Piano Ele\u0301ctrico",
+      "name": "Piano El\u00e9ctrico",
       "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
     },
     {
@@ -3397,7 +3466,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 179221,
       "name": "Starlight Song",
       "url": "https://open.spotify.com/track/6D1DLNT4FshLPwdiQ45rXu"
@@ -3419,6 +3488,24 @@
       "duration_ms": 248253,
       "name": "State of Tranquility",
       "url": "https://open.spotify.com/track/1JFb0Na5vJFckCPOmrxPXR"
+    },
+    {
+      "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/5cAyA5mlUDMuQ89JHasPkg"
+      },
+      "artists": [
+        {
+          "name": "Ilumina",
+          "url": "https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G"
     },
     {
       "album": {
@@ -3469,7 +3556,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 211368,
       "name": "Sugar Dreams",
       "url": "https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB"
@@ -3919,7 +4006,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 164617,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/4tWrqO0LQozZ8fmBN642Z3"
@@ -4207,7 +4294,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 144780,
       "name": "Yellow Sky - Remix",
       "url": "https://open.spotify.com/track/3TLlEb1wke6lJTwCZutq52"

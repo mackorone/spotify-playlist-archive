@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-25",
   "description": "Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href=\"https://www.peacocktv.com/stream-tv/love-island?cid=2205orglvisldexterndeml5360&utm_campaign=2205orglvisld&utm_source=sptfy_sptfy_na&utm_medium=ernd_eml_awa_eml&utm_term=prtnrcust_spotifysubs&utm_content=loveisland\">Peacock</a>.",
   "name": "Love Island USA Official Playlist",
-  "published_playlist_ids": [
-    "1eOyuiVdoM5GbYWB3qlTpE"
-  ],
   "tracks": [
     {
       "album": {
@@ -635,6 +632,28 @@
     {
       "album": {
         "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/0Fj3i3nj3SabKrmnSIUsrA"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Bri Bryant",
+          "url": "https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172986,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK"
+    },
+    {
+      "album": {
+        "name": "Boom Boom",
         "url": "https://open.spotify.com/album/1u48epo8DIoUdTxL5EfE3B"
       },
       "artists": [
@@ -657,32 +676,6 @@
       "duration_ms": 172986,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/1tRztGP1nj2Vdn3wGaRtkq"
-    },
-    {
-      "album": {
-        "name": "Boom Boom",
-        "url": "https://open.spotify.com/album/0Fj3i3nj3SabKrmnSIUsrA"
-      },
-      "artists": [
-        {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
-        },
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/0U4YQE1rVs1bFFdRTv5s6u"
-        },
-        {
-          "name": "Lady Bri",
-          "url": "https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO"
-        }
-      ],
-      "date_added": "2022-07-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172986,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK"
     },
     {
       "album": {
@@ -1049,10 +1042,36 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 277653,
       "name": "Dangerous (feat. Joywave) - Oliver Remix",
       "url": "https://open.spotify.com/track/3PVukkbEGmJGoyJG2lfBPP"
+    },
+    {
+      "album": {
+        "name": "1.6",
+        "url": "https://open.spotify.com/album/6hO9Rx1gtqgPPWMQdkjaZV"
+      },
+      "artists": [
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "Oliver",
+          "url": "https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277653,
+      "name": "Dangerous - Oliver Remix",
+      "url": "https://open.spotify.com/track/2BWtYgxamGttE2d0xRVAIC"
     },
     {
       "album": {
@@ -2004,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "Heaven Is a Place On Earth",
+        "url": "https://open.spotify.com/album/69T2rA7zCe9zML6CdHgA90"
+      },
+      "artists": [
+        {
+          "name": "Benedict Cork",
+          "url": "https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167963,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/45vAYz12Qwo6VwjNfdmCKh"
+    },
+    {
+      "album": {
         "name": "Heaven Is a Place on Earth",
         "url": "https://open.spotify.com/album/599mFdlRQcn08rsnkGVe7N"
       },
@@ -2019,7 +2060,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 167963,
       "name": "Heaven Is a Place on Earth",
       "url": "https://open.spotify.com/track/779rIEdmsgjQ22sYccCU2E"
@@ -2048,6 +2089,28 @@
     },
     {
       "album": {
+        "name": "Hit the Road Jack",
+        "url": "https://open.spotify.com/album/2JiWOGcnPYwlkQSdUn2ZGx"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Bri Bryant",
+          "url": "https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/5PIpdcCquAoTWTUUjK1tbY"
+    },
+    {
+      "album": {
         "name": "Hit The Road Jack",
         "url": "https://open.spotify.com/album/43QLie5HQcXQ90k46XHiqR"
       },
@@ -2071,32 +2134,6 @@
       "duration_ms": 211200,
       "name": "Hit The Road Jack",
       "url": "https://open.spotify.com/track/13WrQpPeut2MTy6jbRwc2Y"
-    },
-    {
-      "album": {
-        "name": "Hit The Road Jack",
-        "url": "https://open.spotify.com/album/2JiWOGcnPYwlkQSdUn2ZGx"
-      },
-      "artists": [
-        {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
-        },
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/0U4YQE1rVs1bFFdRTv5s6u"
-        },
-        {
-          "name": "Lady Bri",
-          "url": "https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO"
-        }
-      ],
-      "date_added": "2022-07-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211200,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/5PIpdcCquAoTWTUUjK1tbY"
     },
     {
       "album": {
@@ -2227,10 +2264,32 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 232000,
       "name": "Hurts Like Hell",
       "url": "https://open.spotify.com/track/2kMAKtrAu16HVWxBnOwuhd"
+    },
+    {
+      "album": {
+        "name": "Cinematic Songs (Vol. 1)",
+        "url": "https://open.spotify.com/album/6uRzweLeJ13G56tHv7zvWK"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232593,
+      "name": "Hurts Like Hell",
+      "url": "https://open.spotify.com/track/7lPrG609DAZF6mCf5EjfCa"
     },
     {
       "album": {
@@ -3161,24 +3220,6 @@
     {
       "album": {
         "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/078kjH79SQ5BlhirDxdHOE"
-      },
-      "artists": [
-        {
-          "name": "John Gibbons",
-          "url": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
-        }
-      ],
-      "date_added": "2022-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186788,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/7wv7QHjICh5DoqJupFVYR0"
-    },
-    {
-      "album": {
-        "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/247DAQfRMhRrWYIqscvwbA"
       },
       "artists": [
@@ -3197,6 +3238,28 @@
       "duration_ms": 186788,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5kgeY10kFAXvA3l6xuOEhE"
+    },
+    {
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/078kjH79SQ5BlhirDxdHOE"
+      },
+      "artists": [
+        {
+          "name": "John Gibbons",
+          "url": "https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo"
+        },
+        {
+          "name": "Franklin",
+          "url": "https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186788,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/7wv7QHjICh5DoqJupFVYR0"
     },
     {
       "album": {
@@ -3507,10 +3570,32 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 225256,
       "name": "Love Can Be So Lonely, Sometimes (feat. Gabrielle Aplin)",
       "url": "https://open.spotify.com/track/6AynlgSKxWXPaTQUawcUrP"
+    },
+    {
+      "album": {
+        "name": "Love Can Be so Lonely, Sometimes (feat. Gabrielle Aplin)",
+        "url": "https://open.spotify.com/album/4PHHnHJKFWsYthQFGGjBkC"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        },
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225256,
+      "name": "Love Can Be so Lonely, Sometimes (feat. Gabrielle Aplin)",
+      "url": "https://open.spotify.com/track/6QGzSUOiuImJb1zZeLwRiS"
     },
     {
       "album": {
@@ -3549,7 +3634,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158095,
-      "name": "Love Tonight - David Guetta Remix Edit",
+      "name": "Love Tonight (David Guetta Remix Edit)",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
     },
     {
@@ -5626,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161384,
+      "name": "WITHOUT YOU",
+      "url": "https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE (SAVAGE)",
         "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
       },
@@ -5637,7 +5740,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 161384,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA"

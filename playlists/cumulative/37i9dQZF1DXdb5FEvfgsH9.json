@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
   "name": "Crisp",
-  "published_playlist_ids": [
-    "2Sf77s0V1avylGCj2mU7cJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -81,6 +78,32 @@
       "duration_ms": 166000,
       "name": "10 Years",
       "url": "https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL"
+    },
+    {
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/1L2RchCutvV55ZIaBuAvBJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Ford",
+          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
+        },
+        {
+          "name": "Liselotte \u00d6stblom",
+          "url": "https://open.spotify.com/artist/6zLYvupkEsUlhsXj9sFSQd"
+        },
+        {
+          "name": "Adam Flowers",
+          "url": "https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270804,
+      "name": "1988",
+      "url": "https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu"
     },
     {
       "album": {
@@ -302,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Sting",
+        "url": "https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186317,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/1gRWoklE6IT3eVP7mSlFwd"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1aaOLWZRf1OUcXYlVauuxV"
       },
@@ -331,10 +372,28 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 319932,
       "name": "Come on with the Good Thing",
       "url": "https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB"
+    },
+    {
+      "album": {
+        "name": "Come on with the Good Thing",
+        "url": "https://open.spotify.com/album/0bL75fPbxNsM0gBQpYxM2F"
+      },
+      "artists": [
+        {
+          "name": "MF Robots",
+          "url": "https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319932,
+      "name": "Come on with the Good Thing",
+      "url": "https://open.spotify.com/track/7z4eAMrP1KnLXdulAjER41"
     },
     {
       "album": {
@@ -1090,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/0O2kvlAWECmb0FuiiX28WL"
+      },
+      "artists": [
+        {
+          "name": "Le Flex",
+          "url": "https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264444,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/4vJWPcqXGWihza1mp2uOEO"
+    },
+    {
+      "album": {
         "name": "It's Your Night",
         "url": "https://open.spotify.com/album/5BH4wKbGRKAZpLvKdUHsLf"
       },
@@ -1730,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "The Night is Calling",
+        "url": "https://open.spotify.com/album/7qDTP6pmqRSZJ03Qd8McKM"
+      },
+      "artists": [
+        {
+          "name": "MF Robots",
+          "url": "https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259512,
+      "name": "The Night is Calling",
+      "url": "https://open.spotify.com/track/2NDQYOxU5QDH9DQLEPFSY4"
+    },
+    {
+      "album": {
         "name": "Music for Robots",
         "url": "https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc"
       },
@@ -1741,7 +1836,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 259512,
       "name": "The Night is Calling",
       "url": "https://open.spotify.com/track/6YxowJOWcfl1dnjPlxVKZq"
@@ -1895,6 +1990,28 @@
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE"
+    },
+    {
+      "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/16l9UyWdSuNBbbaca9nPA9"
+      },
+      "artists": [
+        {
+          "name": "Mofak",
+          "url": "https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV"
+        },
+        {
+          "name": "Sally Green",
+          "url": "https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220344,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/3AeYrDBrSlVJtDyxhiZMpg"
     },
     {
       "album": {

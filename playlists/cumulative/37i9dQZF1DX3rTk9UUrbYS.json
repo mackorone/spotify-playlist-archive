@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Avant-garde, experimental and free jazz.",
   "name": "Avant-Jazz",
-  "published_playlist_ids": [
-    "0VDNYH3pzGkgUvS5GusBo1"
-  ],
   "tracks": [
     {
       "album": {
@@ -349,7 +346,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 763674,
       "name": "Boltzmann Brain",
       "url": "https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5"
@@ -375,7 +372,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 359466,
       "name": "Box Step",
       "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
@@ -833,7 +830,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 468600,
       "name": "Explain It To Me",
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
@@ -1063,7 +1060,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-27",
       "duration_ms": 335256,
       "name": "Haie d'eau II",
       "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
@@ -1583,7 +1580,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 191080,
       "name": "Piece 4",
       "url": "https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX"
@@ -1794,6 +1791,32 @@
     },
     {
       "album": {
+        "name": "BASFE",
+        "url": "https://open.spotify.com/album/36SN4HstYPQ6XVzU2Sl4Uo"
+      },
+      "artists": [
+        {
+          "name": "Bartolo",
+          "url": "https://open.spotify.com/artist/76ZLFHVxlUUlXEyuCe1HjO"
+        },
+        {
+          "name": "Sousa",
+          "url": "https://open.spotify.com/artist/2sokDb3FMSeky2ZtFEaEPc"
+        },
+        {
+          "name": "Ferrandini",
+          "url": "https://open.spotify.com/artist/2QyqKpqczaxVgAaI31iOmk"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322930,
+      "name": "Sample calculation",
+      "url": "https://open.spotify.com/track/6SaubWpIqZ0guw9PUqUgc1"
+    },
+    {
+      "album": {
         "name": "In Cahoots",
         "url": "https://open.spotify.com/album/0STbF1O34unFR85y3dX67B"
       },
@@ -1923,7 +1946,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 284333,
       "name": "Symphony in Green",
       "url": "https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC"
@@ -2015,7 +2038,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 1224332,
       "name": "The Eyes Moving. Slowly.",
       "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
@@ -2131,7 +2154,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 563400,
       "name": "Twombly at New Church",
       "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
@@ -2201,7 +2224,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": "2023-01-17",
       "duration_ms": 347092,
       "name": "Way Beyond Cave",
       "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
@@ -2237,7 +2260,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 105358,
       "name": "WW5",
       "url": "https://open.spotify.com/track/20eRgezPfayeiPh1smIufM"
@@ -2299,7 +2322,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 519041,
       "name": "Zero Tolerance",
       "url": "https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu"

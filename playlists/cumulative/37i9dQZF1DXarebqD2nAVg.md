@@ -4,7 +4,7 @@
 
 > Raw, sentimental feels.
 
-81 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/4EXf5AMaeP3Fe932ZLNuWq)
+83 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,17 +33,19 @@
 | [emerald](https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [in.the.forest.we.are.wizards](https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS) | 2:34 | 2019-03-27 |  |
 | [Frostthrone](https://open.spotify.com/track/50wKmfNUZppZJsAunClnYF) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7) | [Frostthrone](https://open.spotify.com/album/3WvdfonSJ1Rjz7hxHUcxcl) | 3:48 | 2019-03-27 |  |
 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 | 2019-03-27 |  |
-| [harbor](https://open.spotify.com/track/6rdaAm9JfVbwQUy6PVqNzv) | [shogonodo](https://open.spotify.com/artist/0AvxQyO8YtsZQn0OYqbNxx) | [harbor](https://open.spotify.com/album/7lUFGPgW9uDcFtVtji6ePc) | 2:12 | 2019-03-27 | 2022-07-29 |
-| [harbor](https://open.spotify.com/track/6pn1Irt9QHN3F0MSODlItV) | [shogonodo](https://open.spotify.com/artist/0AvxQyO8YtsZQn0OYqbNxx) | [harbor](https://open.spotify.com/album/1TUQ3R4sHrb8dDRA75QRYn) | 2:13 | 2019-03-27 |  |
+| [harbor](https://open.spotify.com/track/6rdaAm9JfVbwQUy6PVqNzv) | [shogonodo](https://open.spotify.com/artist/0AvxQyO8YtsZQn0OYqbNxx) | [harbor](https://open.spotify.com/album/7lUFGPgW9uDcFtVtji6ePc) | 2:12 | 2019-03-27 |  |
+| [harbor](https://open.spotify.com/track/6pn1Irt9QHN3F0MSODlItV) | [shogonodo](https://open.spotify.com/artist/0AvxQyO8YtsZQn0OYqbNxx) | [harbor](https://open.spotify.com/album/1TUQ3R4sHrb8dDRA75QRYn) | 2:13 | 2019-03-27 | 2023-01-18 |
 | [Hold on, Pt\. 2](https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0) | [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Lonely](https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3) | 1:24 | 2019-03-27 |  |
 | [Home Soon](https://open.spotify.com/track/0plIIWDys4UBGmura01RpY) | [yuzu blur](https://open.spotify.com/artist/2NnBvycZmkfFgGyiWZEX3R) | [Home Soon](https://open.spotify.com/album/4CL7sl8FwxJ0HjYCf6Al0k) | 2:24 | 2019-03-27 |  |
 | [I Have Love for Everyone Besides Myself.](https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:41 | 2019-03-27 |  |
-| [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 | 2019-03-27 |  |
-| [im closing my eyes \(feat\. shiloh\)](https://open.spotify.com/track/3RO8tQsiLI0cJFcWGTUZKk) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [im closing my eyes \(feat\. shiloh\)](https://open.spotify.com/album/4rtNy3gLzPnkxkd5jxVMg4) | 1:58 | 2019-03-27 | 2022-07-29 |
+| [I Want You](https://open.spotify.com/track/4oRtFezcZWGXjzO7VQXNuU) | [ixxy](https://open.spotify.com/artist/6UkBTmDCB8Z472HbktpJS1) | [I Want You](https://open.spotify.com/album/0rBXcXoqmNB230XbjwbxG3) | 1:58 | 2019-03-27 | 2023-01-24 |
+| [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 | 2019-03-27 | 2022-12-16 |
+| [i'm closing my eyes](https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w) | 1:58 | 2019-03-27 |  |
+| [im closing my eyes \(feat\. shiloh\)](https://open.spotify.com/track/3RO8tQsiLI0cJFcWGTUZKk) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [im closing my eyes \(feat\. shiloh\)](https://open.spotify.com/album/4rtNy3gLzPnkxkd5jxVMg4) | 1:58 | 2019-03-27 | 2023-01-20 |
 | [Keep On Going](https://open.spotify.com/track/0W8GsPozYoonDEjOdLHnsC) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Keep On Going](https://open.spotify.com/album/51SCRafgNIjbYob0VCyhBn) | 2:40 | 2019-03-27 | 2022-07-29 |
 | [Keep On Going](https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Keep On Going](https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD) | 2:40 | 2019-03-27 |  |
-| [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly](https://open.spotify.com/artist/12E1nswgTW7QPMYWs0oXrE) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 | 2019-03-27 |  |
 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 | 2019-03-27 | 2022-11-20 |
+| [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 | 2019-03-27 |  |
 | [Louie's Lullaby](https://open.spotify.com/track/5Y69oMuGeIxfP4tIcCv6EO) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/64EqJeopKgcy7Ae1ZdPLnz) | 2:51 | 2019-03-27 | 2022-07-29 |
 | [Louie's Lullaby](https://open.spotify.com/track/7F8Xws8eSnpObHqUfbei71) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP) | 2:51 | 2019-03-27 |  |
 | [Love Myself](https://open.spotify.com/track/6untVwGzuAI3zH6YzrISRX) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Pins & Needles](https://open.spotify.com/album/0WV8HZAXe40X8lqsccHOgF) | 1:32 | 2019-03-27 |  |

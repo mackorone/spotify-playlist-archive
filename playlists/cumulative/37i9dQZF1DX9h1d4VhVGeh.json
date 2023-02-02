@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-01",
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
   "name": "Arabic Coffee",
-  "published_playlist_ids": [
-    "3gEBX1MSMTVMs4piEbVTl2"
-  ],
   "tracks": [
     {
       "album": {
@@ -587,7 +584,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 294402,
       "name": "Bshi Yom",
       "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
@@ -663,7 +660,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 208845,
       "name": "Dessine-moi Un Pays",
       "url": "https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw"
@@ -1005,7 +1002,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-09",
       "duration_ms": 219533,
       "name": "Hawel Tensany",
       "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
@@ -2187,7 +2184,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-29",
       "duration_ms": 192818,
       "name": "Waynak",
       "url": "https://open.spotify.com/track/7KxeaZEQT4veFHVh6SnnSZ"
@@ -2321,6 +2318,24 @@
       "duration_ms": 185164,
       "name": "Wein Rayheen",
       "url": "https://open.spotify.com/track/7mHpjI49tleTX9YezPPqS6"
+    },
+    {
+      "album": {
+        "name": "Weino",
+        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145871,
+      "name": "Weino",
+      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
     },
     {
       "album": {
@@ -2577,7 +2592,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 394057,
       "name": "\u062d\u0628 \u0639\u0627\u0644\u062d\u0627\u062c\u0632",
       "url": "https://open.spotify.com/track/17WC8AQg7BuZvSEZcZxPu2"

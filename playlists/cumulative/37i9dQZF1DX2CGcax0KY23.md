@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:58zz0VTpGNHn7MGTlW2cxQ">Shingo Nakamura</a> presents his Tokyo Glow DJ mix.
 
-12 songs - 59 min 40 sec - [published](https://open.spotify.com/playlist/5XaIb4A6KwDntfptuOfmOL)
+12 songs - 59 min 40 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

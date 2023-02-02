@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-09",
   "description": "<a href=\"https://www.hardlystrictlybluegrass.com/\">Tune in</a> Oct. 1-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.",
   "name": "Hardly Strictly Bluegrass",
-  "published_playlist_ids": [
-    "2MbvFGK8Q4PKjddwW7wsN9"
-  ],
   "tracks": [
     {
       "album": {
@@ -755,10 +752,36 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 173142,
       "name": "I See It Now",
       "url": "https://open.spotify.com/track/23I2duciX9JdJANkYyrGm6"
+    },
+    {
+      "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/5Gc1jfwEfaGaOq3QllW9rb"
+      },
+      "artists": [
+        {
+          "name": "Bachelor",
+          "url": "https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E"
+        },
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        },
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/4NhO8oJUelTgNmj3G6JZKr"
     },
     {
       "album": {

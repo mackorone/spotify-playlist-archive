@@ -4,7 +4,7 @@
 
 > Spellistan att ta fram när det är dags för dans runt midsommarstången.
 
-29 songs - 44 min 32 sec - [published](https://open.spotify.com/playlist/0lIXv1qFSfUJEx5MIkPUsH)
+29 songs - 44 min 32 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

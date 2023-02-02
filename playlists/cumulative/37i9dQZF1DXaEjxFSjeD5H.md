@@ -4,7 +4,7 @@
 
 > Nada que un buen danzón no pueda curar.
 
-112 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/1cCH7LjVsQpF2TSbyJcVCG)
+112 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

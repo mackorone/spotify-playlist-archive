@@ -4,7 +4,7 @@
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: La Mambanegra
 
-164 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/31e0N9ZhkPd7GKHDb9NQgd)
+164 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

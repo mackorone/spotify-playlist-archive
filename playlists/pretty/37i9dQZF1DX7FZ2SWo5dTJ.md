@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Jeanette Jenkins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837 likes - 32 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 873 likes - 32 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Is This Love \- Montmartre Remix](https://open.spotify.com/track/3DE2xnbdTDuatFubUV0soe) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Is This Love \(Montmartre Remix\)](https://open.spotify.com/album/7Lr6wCyrlqkjgfrUhJpNBI) | 4:29 |
+| 1 | [Is This Love \- Montmartre Remix](https://open.spotify.com/track/3DE2xnbdTDuatFubUV0soe) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Is This Love \(Montmartre Remix\)](https://open.spotify.com/album/7Lr6wCyrlqkjgfrUhJpNBI) | 4:29 |
 | 2 | [Feeling Good](https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:54 |
 | 3 | [Love and Happiness](https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 5:07 |
 | 4 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |

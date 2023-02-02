@@ -1,13 +1,141 @@
 {
   "description": "The best of today's funk. Cover: Louis Cole",
-  "num_followers": 280683,
+  "num_followers": 288500,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM1MjQwMCwwMDAwMDAwMGVmOWYwOTg3ZWQyNzYzZDM2ZTAwNmEzZWI3NmYzNTA3",
+  "snapshot_id": "MTY3NTI2MDE2NiwwMDAwMDAwMGM1NDdhM2YwNTQ0ZmNkNmViZWRiNjQ1M2IxZDc1MGM3",
   "tracks": [
+    {
+      "added_at": "2023-02-01 14:02:46",
+      "album": {
+        "name": "Quilted!",
+        "url": "https://open.spotify.com/album/2fPB0iONZKpcNRRvjgwvVj"
+      },
+      "artists": [
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "duration_ms": 133075,
+      "name": "Quilted!",
+      "url": "https://open.spotify.com/track/0x3v4Tsf7SqJSu9yRK69ZQ"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Running For Cover",
+        "url": "https://open.spotify.com/album/5zIAjLfyBTRf68LnNVVAHX"
+      },
+      "artists": [
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Prince Street Bodega",
+          "url": "https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS"
+        }
+      ],
+      "duration_ms": 159818,
+      "name": "Running For Cover",
+      "url": "https://open.spotify.com/track/1YmJBGtzz7BsvyvekfkRzz"
+    },
+    {
+      "added_at": "2023-01-23 19:16:43",
+      "album": {
+        "name": "CAN'T GO HOME",
+        "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
+      },
+      "artists": [
+        {
+          "name": "Tayrell",
+          "url": "https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "CAN'T GO HOME",
+      "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Unshakable",
+        "url": "https://open.spotify.com/album/6B0tuDpdjRkvd6s98Hy5gK"
+      },
+      "artists": [
+        {
+          "name": "Tom McGuire & the Brassholes",
+          "url": "https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp"
+        }
+      ],
+      "duration_ms": 331093,
+      "name": "Unshakable",
+      "url": "https://open.spotify.com/track/3BIGoqltdL4NJOyAZvGQHu"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Favorite Prize",
+        "url": "https://open.spotify.com/album/5HaGsMhpq3xrbazWp0LBtH"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hawley",
+          "url": "https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB"
+        }
+      ],
+      "duration_ms": 289522,
+      "name": "Favorite Prize",
+      "url": "https://open.spotify.com/track/2To1ZbSfpUMzqdmKhGFcuS"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Schvitz",
+        "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "New Guru",
+      "url": "https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA"
+    },
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
@@ -33,6 +161,22 @@
       "url": "https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd"
     },
     {
+      "added_at": "2023-01-23 19:16:43",
+      "album": {
+        "name": "How Happy",
+        "url": "https://open.spotify.com/album/4Dzbfu5IH9G5I0CpqZVutY"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        }
+      ],
+      "duration_ms": 240547,
+      "name": "How Happy",
+      "url": "https://open.spotify.com/track/5e6B2DLbg9ISk7aXbabnpG"
+    },
+    {
       "added_at": "2022-10-17 14:55:07",
       "album": {
         "name": "Quality Over Opinion",
@@ -47,6 +191,82 @@
       "duration_ms": 216040,
       "name": "Park Your Car on My Face",
       "url": "https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Shake It Out",
+        "url": "https://open.spotify.com/album/2TfFms1xPm0PB8JoQu9Ciq"
+      },
+      "artists": [
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Prince Street Bodega",
+          "url": "https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Shake It Out",
+      "url": "https://open.spotify.com/track/740sWbfkm2whfeD2tuuIoV"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Ready for Me",
+        "url": "https://open.spotify.com/album/5rauKXDJu5w56SFFoW2Fm7"
+      },
+      "artists": [
+        {
+          "name": "Galactic",
+          "url": "https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ"
+        },
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "Anjelika 'Jelly' Joseph",
+          "url": "https://open.spotify.com/artist/1FBIeYid13t8hqTdpiQ8tX"
+        }
+      ],
+      "duration_ms": 185962,
+      "name": "Ready for Me",
+      "url": "https://open.spotify.com/track/5iM1P5J6esvy7ogV54PNf2"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Boogie Down",
+        "url": "https://open.spotify.com/album/4Vakb3vIt914RvFrIiWS9h"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "duration_ms": 196541,
+      "name": "Boogie Down",
+      "url": "https://open.spotify.com/track/3APtmyeA8mmubGvyCoW2Ga"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -103,6 +323,34 @@
       "duration_ms": 243808,
       "name": "AA Side Single",
       "url": "https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "Ice & Fire",
+        "url": "https://open.spotify.com/album/1xauUnaLc4Baj0MmUbEggs"
+      },
+      "artists": [
+        {
+          "name": "King Canyon",
+          "url": "https://open.spotify.com/artist/78mhiIF6AMT9bmfDp1P9NV"
+        },
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        },
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 244835,
+      "name": "Ice & Fire",
+      "url": "https://open.spotify.com/track/440ldYsqevrNXmwwj9DD2B"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -297,7 +545,7 @@
       "artists": [
         {
           "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/7rUh2bSgYyKH4HZGANSJTs"
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
         }
       ],
       "duration_ms": 207856,
@@ -940,7 +1188,7 @@
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Lost Without You",
-        "url": "https://open.spotify.com/album/3m5pYFGe7wrujfqMJMeyHF"
+        "url": "https://open.spotify.com/album/4gNsuthQHyqYvSQJMNG7iM"
       },
       "artists": [
         {
@@ -948,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj"
         }
       ],
-      "duration_ms": 191234,
+      "duration_ms": 191219,
       "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/1gLlfABq3yvwEq0WoNery0"
+      "url": "https://open.spotify.com/track/0bJRy8fhup9rKOnk7SMwL2"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1505,22 +1753,6 @@
       "url": "https://open.spotify.com/track/28pkJWdrY2xsYfHRHzsOI5"
     },
     {
-      "added_at": "2022-03-11 16:11:57",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6BQIlSZuzrWsQC150m62fR"
-      },
-      "artists": [
-        {
-          "name": "Andrea",
-          "url": "https://open.spotify.com/artist/616WpPUg9RHskfwi4iGscv"
-        }
-      ],
-      "duration_ms": 182181,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/5W5qOh7MA0eXjvhj103smA"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "New Best Friend",
@@ -1577,22 +1809,6 @@
       "url": "https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "No ID",
-        "url": "https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 191088,
-      "name": "No ID",
-      "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "WE SURVIVED THE STORM, VOL. 1",
@@ -1645,22 +1861,6 @@
       "url": "https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr"
     },
     {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "Little House",
-        "url": "https://open.spotify.com/album/1j3MxHfoULsrj2vRZ0KZxE"
-      },
-      "artists": [
-        {
-          "name": "Brandon Rogers",
-          "url": "https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "D.T.Y.O.B.",
-      "url": "https://open.spotify.com/track/41iBqPWpC2imF7c7AV3ssN"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "henny & patron",
@@ -1691,154 +1891,6 @@
       "duration_ms": 202061,
       "name": "Just One Of Those Days",
       "url": "https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "Lost Myself",
-        "url": "https://open.spotify.com/album/3sklQMiJt3Nzjparx4K4N9"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 208702,
-      "name": "Lost Myself",
-      "url": "https://open.spotify.com/track/5YZYw60dD9M1NZDjHSByqs"
-    },
-    {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
-    },
-    {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Welcome Back Era",
-        "url": "https://open.spotify.com/album/41zEHhnIYYgnQdW9Si2YVf"
-      },
-      "artists": [
-        {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
-        },
-        {
-          "name": "FATHERDUDE",
-          "url": "https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z"
-        }
-      ],
-      "duration_ms": 214769,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/4Gf0lz0QLodvGRqTDLnWQ6"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Bad Weather",
-        "url": "https://open.spotify.com/album/1bwgOsclXAxyvkAoHx8DFk"
-      },
-      "artists": [
-        {
-          "name": "Anushka",
-          "url": "https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody"
-        },
-        {
-          "name": "STR4TA",
-          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Bad Weather - STR4TA Remix (Radio Edit)",
-      "url": "https://open.spotify.com/track/2jLZjkEclqKAbFefuLfenW"
-    },
-    {
-      "added_at": "2021-09-17 04:02:00",
-      "album": {
-        "name": "A PawPaw Rod EP",
-        "url": "https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH"
-      },
-      "artists": [
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "Lemonhaze",
-      "url": "https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L"
-    },
-    {
-      "added_at": "2021-08-06 04:01:00",
-      "album": {
-        "name": "Weekend Love",
-        "url": "https://open.spotify.com/album/3fLnW74xbTAu3SnWlDHOsN"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        },
-        {
-          "name": "Mike Nasa",
-          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
-        }
-      ],
-      "duration_ms": 113853,
-      "name": "Skate with Me",
-      "url": "https://open.spotify.com/track/1mVrIfEExkhtGUSkiHjDdl"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "JAMS",
-        "url": "https://open.spotify.com/album/5udDn4SejsAHOTc74x7oFY"
-      },
-      "artists": [
-        {
-          "name": "Jay Diggs",
-          "url": "https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1"
-        }
-      ],
-      "duration_ms": 164980,
-      "name": "Where's My Money?",
-      "url": "https://open.spotify.com/track/4nqSPBGUtCuJkhJU5coTyW"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Your Sweet Power",
-        "url": "https://open.spotify.com/album/0jaJ9e6vSp9noMKJ0xlOaD"
-      },
-      "artists": [
-        {
-          "name": "JB Stark",
-          "url": "https://open.spotify.com/artist/0wDQ0wyB5XgsYkLaXsyNqm"
-        },
-        {
-          "name": "Kestra",
-          "url": "https://open.spotify.com/artist/7udzSgwVGJxs3AyFnBD41K"
-        }
-      ],
-      "duration_ms": 170957,
-      "name": "Your Sweet Power",
-      "url": "https://open.spotify.com/track/4TdfrvxJ2OD1IMMgq4ip0t"
     }
   ],
   "unique_name": "Nu-Funk",

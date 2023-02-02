@@ -4,7 +4,7 @@
 
 > Since 1962, <a href="https://www.casitadelcampo.net/">Casita Del Campo</a> has been a refuge to Los Angeles' LGTBQQIA+ community\. Like their environment, the songs picked are original, energetic, and diverse just like their patrons!
 
-56 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/3lB6k3JKLDvfBdY6WvvJD6)
+56 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

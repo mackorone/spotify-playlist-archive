@@ -4,7 +4,7 @@
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
-132 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/3ly5UldOYTAYtVr6z4nRPR)
+132 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

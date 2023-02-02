@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2dWfCGZguakRQagX7wM6Mi.md) - [plain]
 
 > Stay tuned for a fresh mix of flashback hits! This week, party like it's 1999!
 
-[Spotify](https://open.spotify.com/user/spotify) - 320 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

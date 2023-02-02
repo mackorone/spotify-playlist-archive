@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
   "name": "\u50ac\u7720\u7235\u58eb",
-  "published_playlist_ids": [
-    "415nMvkWwgs6uKU2U7VJG3"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,36 @@
       "duration_ms": 193840,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP"
+    },
+    {
+      "album": {
+        "name": "Straight Road",
+        "url": "https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285969,
+      "name": "A Flower Is a Lovesome Thing",
+      "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
     },
     {
       "album": {
@@ -113,7 +140,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 389773,
       "name": "Alone And I - Remastered 2007",
       "url": "https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o"
@@ -175,7 +202,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
@@ -211,7 +238,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 317946,
       "name": "Before It's Time to Say Goodbye",
       "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
@@ -251,7 +278,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 394920,
       "name": "Blue Ballad",
       "url": "https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n"
@@ -324,6 +351,36 @@
     },
     {
       "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
+      },
+      "artists": [
+        {
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Seby Burgio",
+          "url": "https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf"
+        },
+        {
+          "name": "Alessandro Presti",
+          "url": "https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH"
+        },
+        {
+          "name": "Peppe Tringali",
+          "url": "https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313040,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
+    },
+    {
+      "album": {
         "name": "The Body & The Soul",
         "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
       },
@@ -371,7 +428,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 224053,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
@@ -407,7 +464,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 325562,
       "name": "Everytime around",
       "url": "https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw"
@@ -491,7 +548,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 118400,
       "name": "Forenet",
       "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
@@ -599,7 +656,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/4gC95tJcg0TWAz3LJ2dZpN"
@@ -769,7 +826,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 277893,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/5DjEG7UyHlZbP3ZaAmm6wt"
@@ -899,7 +956,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 373880,
       "name": "Isadora",
       "url": "https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y"
@@ -1077,7 +1134,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 245013,
       "name": "Lil Darlin'",
       "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
@@ -1149,7 +1206,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 220666,
       "name": "Maybe September",
       "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
@@ -1327,7 +1384,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 482186,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/4UhBGmqcApvAZFTq53ukh7"
@@ -1853,7 +1910,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 241200,
       "name": "Uphill",
       "url": "https://open.spotify.com/track/6g6U5Ip7Tvm1xsctpflOuk"

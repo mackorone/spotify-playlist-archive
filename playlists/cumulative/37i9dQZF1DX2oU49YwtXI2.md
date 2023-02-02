@@ -4,7 +4,7 @@
 
 > Queen Bey's most essential tracks, all in one playlist.
 
-85 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/1Oa7el09xiU3HicuHeoipZ)
+85 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

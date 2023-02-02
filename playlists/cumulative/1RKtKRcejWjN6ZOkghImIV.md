@@ -4,7 +4,7 @@
 
 > Slipknot, Mudvayne, Hatebreed\. Turn the volume all the way up.
 
-20 songs - 1 hr 14 min - [published](https://open.spotify.com/playlist/2aShkNeoqVVPCyAd72j6p2)
+20 songs - 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

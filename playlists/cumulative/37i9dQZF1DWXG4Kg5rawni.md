@@ -4,7 +4,7 @@
 
 > Adoradores cantando sobre o amor\. Foto: Paulo Cesar Baruk
 
-68 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/07hjwL9BJ8F4GsasnO25K1)
+68 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

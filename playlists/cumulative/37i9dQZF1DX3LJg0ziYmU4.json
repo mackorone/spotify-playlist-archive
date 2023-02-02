@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-23",
   "description": "Recorriendo las carreteras con puras canciones de arranque \ud83d\ude9b",
   "name": "Una de Traileros",
-  "published_playlist_ids": [
-    "6K7ps8Ld7bO5Ar0JPM2m6A"
-  ],
   "tracks": [
     {
       "album": {
@@ -845,8 +842,8 @@
       },
       "artists": [
         {
-          "name": "Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/3KIcUmSQNxotV0Bt7lDdBg"
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
         }
       ],
       "date_added": "2022-01-19",
@@ -2215,7 +2212,7 @@
     {
       "album": {
         "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
       },
       "artists": [
         {
@@ -2226,6 +2223,24 @@
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"

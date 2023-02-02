@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-53 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/2pqytRMSyM7wvLaDeCih1G)
+53 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

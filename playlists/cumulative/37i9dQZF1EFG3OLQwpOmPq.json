@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA\">sad alex</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By sad alex",
-  "published_playlist_ids": [
-    "2t8ugsWZMHNaJAkYvjfVuP"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,10 +52,28 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 195882,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/0UvNdJWO4jRxAHi8pAv20Z"
+    },
+    {
+      "album": {
+        "name": "Sim City",
+        "url": "https://open.spotify.com/album/1Cy4HnbLIBPwwpuC64erDU"
+      },
+      "artists": [
+        {
+          "name": "Halo Boy",
+          "url": "https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/3KDqlDpIkoomdyTi64ESkt"
     },
     {
       "album": {
@@ -77,6 +92,24 @@
       "duration_ms": 195882,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/4CF3Z1OmJLwSIqt3l8tdsR"
+    },
+    {
+      "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/2x1jY9sBbkgEvKOZZN6K95"
+      },
+      "artists": [
+        {
+          "name": "Halo Boy",
+          "url": "https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 195882,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/4tRvyaqPI8pQcgYU2nME2j"
     },
     {
       "album": {

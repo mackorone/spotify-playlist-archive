@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-18",
   "description": "This is The Who. The essential tracks, all in one playlist.",
   "name": "This Is The Who",
-  "published_playlist_ids": [
-    "6id0MckDOs2InxKfXzEbED"
-  ],
   "tracks": [
     {
       "album": {
@@ -26,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299600,
+      "name": "5:15",
+      "url": "https://open.spotify.com/track/73awNm2nHlTkUilOkrk7MR"
+    },
+    {
+      "album": {
         "name": "Quadrophenia (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
       },
@@ -37,7 +52,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 300386,
       "name": "5:15",
       "url": "https://open.spotify.com/track/5E7AQh3drqwYcIQkcdUs5Y"
@@ -224,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 295466,
+      "name": "Bell Boy",
+      "url": "https://open.spotify.com/track/0DkCOLwvtxVPs3ri0XbDLK"
+    },
+    {
+      "album": {
         "name": "The Who By Numbers",
         "url": "https://open.spotify.com/album/6IxRCbXtyK6MlHlofsnhlm"
       },
@@ -242,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Meaty, Beaty, Big And Bouncy",
+        "url": "https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147373,
+      "name": "Boris The Spider",
+      "url": "https://open.spotify.com/track/4u2dUchYraxM1SFBHuE32o"
+    },
+    {
+      "album": {
         "name": "A Quick One (Expanded Edition)",
         "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
       },
@@ -253,7 +304,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 149533,
       "name": "Boris The Spider - Mono Version",
       "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
@@ -311,6 +362,24 @@
       "duration_ms": 226200,
       "name": "Detour",
       "url": "https://open.spotify.com/track/0UA9nE47FbV0W5vhTjSy4N"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 326746,
+      "name": "Drowned",
+      "url": "https://open.spotify.com/track/4ZT2Xki1u0HjBmMS6xbLsA"
     },
     {
       "album": {
@@ -433,7 +502,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 153546,
       "name": "Helpless Dancer",
       "url": "https://open.spotify.com/track/775kHBFQ3xnxGeRe0rOz7b"
@@ -577,7 +646,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 157853,
       "name": "I'm One",
       "url": "https://open.spotify.com/track/4yLKrbpfDou64pknD62S2U"
@@ -595,10 +664,28 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 157853,
       "name": "I'm One",
       "url": "https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 223453,
+      "name": "Is It In My Head?",
+      "url": "https://open.spotify.com/track/5XSKoePK44z8EbM736fY57"
     },
     {
       "album": {
@@ -631,7 +718,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-14",
       "duration_ms": 150055,
       "name": "It's Not True - Stereo Version",
       "url": "https://open.spotify.com/track/48DsNbafkIC8waIL7dT2iy"
@@ -854,6 +941,42 @@
     },
     {
       "album": {
+        "name": "The Who- The Greatest Hits & More [International Version (Edited)]",
+        "url": "https://open.spotify.com/album/3DJhm4cXLwOuuV7YopBIrO"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 343346,
+      "name": "Real Good Looking Boy",
+      "url": "https://open.spotify.com/track/1CibGSnmmfeaob2a2hFT1i"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301213,
+      "name": "Sea And Sand",
+      "url": "https://open.spotify.com/track/1mcxcbwbOhBAk3XUSf1KVE"
+    },
+    {
+      "album": {
         "name": "The Who Hits 50 (Deluxe)",
         "url": "https://open.spotify.com/album/0FVnJBGOQD3Kx2x87Er2Az"
       },
@@ -869,6 +992,24 @@
       "duration_ms": 216596,
       "name": "See Me, Feel Me - Single Version",
       "url": "https://open.spotify.com/track/7HVLE4CWBQjQi3Vyiz0fbe"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262040,
+      "name": "Sister Disco",
+      "url": "https://open.spotify.com/track/7xo7YHCPkXlh8ibJmSHBFN"
     },
     {
       "album": {
@@ -991,7 +1132,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 268933,
       "name": "The Dirty Jobs",
       "url": "https://open.spotify.com/track/2JqIRmo5zyrneYYVG9XX5D"
@@ -1052,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "The Real Me",
+      "url": "https://open.spotify.com/track/0bNdtECaLZcHA4B9QPjeUk"
+    },
+    {
+      "album": {
         "name": "Quadrophenia (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
       },
@@ -1063,7 +1222,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 200706,
       "name": "The Real Me",
       "url": "https://open.spotify.com/track/4rVvheUQ2wQpn5uXX5l0gS"

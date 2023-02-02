@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-16",
   "description": "Chill, take a long walk and clear your mind",
   "name": "Barefoot and Free",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -653,10 +652,32 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 262184,
       "name": "Sasa Hivi - Stripped Down",
       "url": "https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR"
+    },
+    {
+      "album": {
+        "name": "Sasa Hivi [Stripped Down]",
+        "url": "https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig"
+      },
+      "artists": [
+        {
+          "name": "V-Be",
+          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
+        },
+        {
+          "name": "Ashley Music",
+          "url": "https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262184,
+      "name": "Sasa Hivi [Stripped Down]",
+      "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
     },
     {
       "album": {

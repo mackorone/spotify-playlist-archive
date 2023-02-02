@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-20",
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
   "name": "Not Quite Classical",
-  "published_playlist_ids": [
-    "1ETtqPKkXByhWILIPwHSkw"
-  ],
   "tracks": [
     {
       "album": {
@@ -331,7 +328,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 127865,
       "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
       "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
@@ -767,7 +764,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 247600,
       "name": "Ave",
       "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
@@ -821,7 +818,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 192000,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09"
@@ -911,7 +908,7 @@
       ],
       "date_added": "2021-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 127147,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
@@ -993,7 +990,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 343893,
       "name": "Bird's Tail - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
@@ -1484,6 +1481,32 @@
     },
     {
       "album": {
+        "name": "Circle 29",
+        "url": "https://open.spotify.com/album/2x1GcdwOkZFQQ1mAo7lidl"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178951,
+      "name": "Circle 29",
+      "url": "https://open.spotify.com/track/2UKUuA0JShtW9xmnUSqtJx"
+    },
+    {
+      "album": {
         "name": "Clear Language",
         "url": "https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T"
       },
@@ -1607,7 +1630,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
@@ -2685,7 +2708,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 309600,
       "name": "For Mark",
       "url": "https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS"
@@ -2729,7 +2752,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 201181,
       "name": "For You",
       "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
@@ -2821,6 +2844,24 @@
       "duration_ms": 182255,
       "name": "From All Who Came Before",
       "url": "https://open.spotify.com/track/7MUnl04sMab0ATOMzuUuIP"
+    },
+    {
+      "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/4e7oJ12PgNYRY0tjPditKL"
+      },
+      "artists": [
+        {
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183653,
+      "name": "From All Who Came Before",
+      "url": "https://open.spotify.com/track/0iO5O7uyrySeuvOS4O5Azg"
     },
     {
       "album": {
@@ -3548,6 +3589,28 @@
     },
     {
       "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        },
+        {
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
+    },
+    {
+      "album": {
         "name": "Into the Fire (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1J4q69vEusnKYtTOrmTpZ6"
       },
@@ -3923,7 +3986,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 263608,
       "name": "Leading Somewhere",
       "url": "https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM"
@@ -4003,6 +4066,28 @@
       "duration_ms": 175090,
       "name": "Little Orc",
       "url": "https://open.spotify.com/track/2U7TnzD7vRwTIaNOZhE9Ns"
+    },
+    {
+      "album": {
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175090,
+      "name": "Little Orc",
+      "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
     },
     {
       "album": {
@@ -4555,7 +4640,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 225400,
       "name": "New World",
       "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
@@ -4573,7 +4658,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
@@ -4595,7 +4680,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 217412,
       "name": "Niemand bringt Marten um - Lambert Rework",
       "url": "https://open.spotify.com/track/4Rqn3zPlPqbpKmK1naWcQ2"
@@ -4837,7 +4922,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 177186,
       "name": "October",
       "url": "https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh"
@@ -5127,7 +5212,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 236394,
       "name": "Partisans",
       "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
@@ -5591,7 +5676,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 159594,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
@@ -5819,7 +5904,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 332607,
       "name": "Solanales",
       "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
@@ -6153,7 +6238,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 376956,
       "name": "Starwood Choker",
       "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
@@ -6263,7 +6348,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 374662,
       "name": "Still Blue",
       "url": "https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD"
@@ -7583,7 +7668,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": "2023-01-11",
       "duration_ms": 128048,
       "name": "What Gently Flutters",
       "url": "https://open.spotify.com/track/7z8IVlpwHziC0bFq4gZMxT"

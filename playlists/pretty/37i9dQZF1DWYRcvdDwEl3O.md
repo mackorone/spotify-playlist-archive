@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,234 likes - 47 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,909 likes - 47 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 | 33 | [Okno](https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Okno](https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX) | 3:07 |
 | 34 | [Hypnagogia](https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Introspection](https://open.spotify.com/album/2UH5UicEuryM5DPbXrzMdh) | 4:02 |
 | 35 | [Can't Hold Us](https://open.spotify.com/track/1qzg5u4jEocTHH7rs5mIYr) | [Madron](https://open.spotify.com/artist/1nom1nhxcPFKLCcj7ccQGe) | [Let It Be So](https://open.spotify.com/album/1ZN3pFFjvYnMr8yDL0cTBD) | 2:00 |
-| 36 | [Eschaton \- Chris Coleman Rework](https://open.spotify.com/track/7m3hDASgGaBKF5w8y48dDd) | [Chris Coleman](https://open.spotify.com/artist/2mXB4WRGKaH89fJFSyK4M8) | [Eschaton](https://open.spotify.com/album/0WSv5Yge0NVy7VjMHQnGTP) | 2:36 |
+| 36 | [Eschaton \- Christopher Dennis Coleman Rework](https://open.spotify.com/track/7m3hDASgGaBKF5w8y48dDd) | [Christopher Dennis Coleman](https://open.spotify.com/artist/1mM9perSjGuMbNejzFhi1U) | [Eschaton](https://open.spotify.com/album/0WSv5Yge0NVy7VjMHQnGTP) | 2:36 |
 | 37 | [Under](https://open.spotify.com/track/3kCzddqKxidFHMrhKNSVDD) | [Jeroen Dirrix](https://open.spotify.com/artist/02Ay0xb3u177rlIOA1YmGs) | [Under](https://open.spotify.com/album/5M7NwfVh112enG9mdtt9nI) | 2:49 |
 | 38 | [Pattern of Water](https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt) | [Steven Gutheinz](https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW) | [Round](https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB) | 2:43 |
 | 39 | [Néfos](https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV) | [Ạoris](https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys) | [Néfos](https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B) | 3:12 |

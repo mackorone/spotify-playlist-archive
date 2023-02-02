@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0sDO43KAaJUWIYassTKWYf.md) - [plain]
 
 > Songs with some serious violin and cello action.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 447 likes - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/0sDO43KAaJUWIYassTKWYf.md) - [plain]
 | 22 | [The Recluse](https://open.spotify.com/track/0rFSiqXLHBQMq9UO5sy2o1) | [Plan B](https://open.spotify.com/artist/7qlh1IM1XMeQXA9ukp59au) | [The Defamation of Strickland Banks](https://open.spotify.com/album/4xRoKFEpFMkz4s7c7CcEiV) | 3:20 |
 | 23 | [Blackout](https://open.spotify.com/track/2nTgdpxwpXTk5x1c9yaO3W) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 4:22 |
 | 24 | [Breathe Me](https://open.spotify.com/track/6hrgeEo1WQOHVeF8QMv68S) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/6uVUKJgirfLpW20hCk9cwb) | 4:34 |
-| 25 | [Live With Me](https://open.spotify.com/track/6xK8IduLzbk1IQ9ROQ96Sn) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Collected](https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh) | 4:51 |
+| 25 | [Live With Me \- Remastered 2006](https://open.spotify.com/track/6xK8IduLzbk1IQ9ROQ96Sn) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Collected](https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh) | 4:51 |
 | 26 | [Roads](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:03 |
 | 27 | [Cloudbusting](https://open.spotify.com/track/5atQ2haKP5LT65WM0KUts3) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 5:10 |
 | 28 | [Islands](https://open.spotify.com/track/7JtxP4YfEwrnParaSgTC3M) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:05 |

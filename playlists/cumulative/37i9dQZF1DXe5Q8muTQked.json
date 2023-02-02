@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Kick back with the perfect mix of covers.",
   "name": "Ultimate Covers",
-  "published_playlist_ids": [
-    "4ZekyI25JTzcwoswovlyqc"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-16",
       "duration_ms": 185160,
       "name": "(I Can't Get No) Satisfaction",
       "url": "https://open.spotify.com/track/6dv99Xm7fEjm7K1ATHj1UG"
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 238329,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/2VgaZrBVBJqh4lMYeqN0pQ"
@@ -1920,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/2nnVKqFPutI1hZpBPf20X6"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224583,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/6FfE10CNarokEyIGxWhz2g"
+    },
+    {
+      "album": {
         "name": "Aerosmith's Greatest Hits",
         "url": "https://open.spotify.com/album/6IXRrteQyjBXc40XlIhnD3"
       },
@@ -1931,7 +1946,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 224600,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/5OkZtvqYLkgy5ri5Ms6WBz"
@@ -2349,7 +2364,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 143966,
       "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
@@ -2801,7 +2816,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-21",
       "duration_ms": 268826,
       "name": "Down On The Bottom",
       "url": "https://open.spotify.com/track/2zMXaBISwWgCM7zvYmk2h4"
@@ -3115,6 +3130,24 @@
       "duration_ms": 155586,
       "name": "Everybody Wants To Rule The World - From \u201cThe Hunger Games: Catching Fire\u201d Soundtrack",
       "url": "https://open.spotify.com/track/3S1tTwSKIZgf4QGltFyCxM"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "album": {
@@ -3713,7 +3746,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 219672,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o"
@@ -3963,7 +3996,7 @@
     {
       "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
       "artists": [
         {
@@ -3974,6 +4007,24 @@
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Half the World Away",
+      "url": "https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
       "duration_ms": 198133,
       "name": "Half the World Away",
       "url": "https://open.spotify.com/track/4TWshc0BwiunzoppGOqiYR"
@@ -4103,7 +4154,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 278611,
       "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
@@ -4269,7 +4320,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 184693,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
@@ -4483,7 +4534,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 211748,
       "name": "Hide Away (Acoustic Version) [feat. Kaya May]",
       "url": "https://open.spotify.com/track/2iDPknofcV8fhDd3YzpIM8"
@@ -5335,7 +5386,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 197666,
       "name": "I'll Keep It With Mine",
       "url": "https://open.spotify.com/track/5yeK60qK7eN7UuCvfu8hvi"
@@ -7025,7 +7076,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 149173,
       "name": "Maps - Single Version",
       "url": "https://open.spotify.com/track/2qStTBpso4X9ATqSpdMjq9"
@@ -9389,7 +9440,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-26",
       "duration_ms": 332133,
       "name": "The a Team - Live at the Tabernacle",
       "url": "https://open.spotify.com/track/0qSSbcZ2bvjJuB3Wy5lzK5"
@@ -10039,7 +10090,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 140480,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ"
@@ -10827,7 +10878,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-27",
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
@@ -11561,7 +11612,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-22",
       "duration_ms": 192013,
       "name": "You're The One That I Want",
       "url": "https://open.spotify.com/track/2GcCFSXhiEkIya9tcAdk2M"
@@ -11687,7 +11738,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 160588,
       "name": "Youth",
       "url": "https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN"

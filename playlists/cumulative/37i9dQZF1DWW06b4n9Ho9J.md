@@ -4,7 +4,7 @@
 
 > Editors' picks of the best indie tracks this year\. Cover: Japanese Breakfast
 
-137 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/7hmQjrJKZLlKLYfLYWKOXt)
+138 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 | 2021-12-01 |  |
 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2021-12-01 | 2022-10-14 |
 | [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 | 2021-12-01 |  |
-| [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 | 2021-12-01 |  |
+| [Crushed Velvet](https://open.spotify.com/track/0OZu6gbkQRc6fNgtvpAB7q) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/6eWOqykBzznyzi3NrMWy7y) | 3:17 | 2021-12-01 |  |
+| [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 | 2021-12-01 | 2023-02-02 |
 | [Crutch](https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Crutch](https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi) | 3:43 | 2021-12-01 |  |
 | [Dog Has Its Day](https://open.spotify.com/track/0EXdNsNOxZH1TLzBYUgY55) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Dog Has Its Day](https://open.spotify.com/album/3LWTWoR1YaLeyN42RvEsd3) | 3:10 | 2021-12-01 | 2022-07-29 |
 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2021-12-01 |  |

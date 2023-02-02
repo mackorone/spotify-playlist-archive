@@ -4,7 +4,7 @@
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-75 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/6xtCgOcwTGsbApYVo7bgUn)
+75 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [El Extraño del Pelo Largo](https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt) | [La Joven Guardia](https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy) | [La Joven Guardia Cronología \- El Extraño del Pelo Largo \(1969\)](https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD) | 2:46 | 2020-02-26 |  |
 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 | 2020-02-26 |  |
 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 | 2020-02-26 |  |
-| [En El Hospicio](https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [Oro](https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq) | 3:37 | 2020-02-26 |  |
+| [En El Hospicio](https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [Oro](https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq) | 3:37 | 2020-02-26 | 2023-01-17 |
 | [En El Hospicio](https://open.spotify.com/track/21ywJkUEm6UqevAYE8gTXB) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [El Album](https://open.spotify.com/album/5kt3IW5sMQZSqknVBh1UOC) | 3:40 | 2020-02-26 | 2022-07-29 |
 | [En el país de la libertad](https://open.spotify.com/track/0lfov5kPf3ejdXkhJA7aBB) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco \(LP\)](https://open.spotify.com/album/3NCJaYCdXcXJTm042Yxxrs) | 3:09 | 2020-02-26 | 2022-07-29 |
 | [En el país de la libertad](https://open.spotify.com/track/1oiMVZp0WcRmsxdfHdoRwb) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd) | 3:13 | 2020-02-26 |  |
@@ -59,7 +59,7 @@
 | [Mañana por la Noche](https://open.spotify.com/track/6gWplVwr7ta6vpp2DSCo96) | [Color Humano](https://open.spotify.com/artist/6AETRCQep85mUtIlX7BaFV) | [Color Humano](https://open.spotify.com/album/0iEUyTKuM2Nhi3ehAbwYmH) | 2:52 | 2020-02-26 |  |
 | [Mi Cuarto](https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:35 | 2020-02-26 |  |
 | [Muchacha \(Ojos de Papel\)](https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:07 | 2020-02-26 |  |
-| [Más Fuerte Que El Hombre](https://open.spotify.com/track/0kCvymt8ka2hQqecsJDC4h) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 3:09 | 2020-02-26 | 2022-11-22 |
+| [Más Fuerte Que El Hombre](https://open.spotify.com/track/0kCvymt8ka2hQqecsJDC4h) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 3:09 | 2020-02-26 | 2023-02-01 |
 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 | 2020-02-26 |  |
 | [No Pibe](https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 3:50 | 2020-02-26 |  |
 | [Oye Dios Que Me Has Dado](https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:49 | 2020-02-26 |  |
@@ -67,7 +67,7 @@
 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 | 2020-02-26 |  |
 | [Profecias](https://open.spotify.com/track/7IM3PA1ooxzdOeLafEQ9Tx) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/6r5MB5kYbQcFLMMI2udQi5) | 7:36 | 2020-02-26 | 2022-11-13 |
 | [Rasguña las Piedras](https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 3:11 | 2020-02-26 |  |
-| [Se Ama O No Se Ama](https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp) | [La Cofradia De La Flor Solar](https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL) | [La Cofradía De La Flor Solar](https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR) | 4:26 | 2020-02-26 | 2022-08-16 |
+| [Se Ama O No Se Ama](https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp) | [La Cofradia De La Flor Solar](https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL) | [La Cofradía De La Flor Solar](https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR) | 4:26 | 2020-02-26 |  |
 | [Seminare](https://open.spotify.com/track/5bXhx2vO2N4ZwUi0QFn4HU) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán](https://open.spotify.com/album/576AZwSw776mNOkg1UZtpc) | 3:23 | 2020-02-26 | 2022-07-29 |
 | [Seminare \(Remasterizado 2021\)](https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(Remasterizado 2021\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 3:22 | 2020-02-26 |  |
 | [Sucio y Desprolijo](https://open.spotify.com/track/11SyFXAlto6hoUX39CEuCQ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/3TIorpubpykzUFdUNBLOdp) | 4:33 | 2020-02-26 |  |

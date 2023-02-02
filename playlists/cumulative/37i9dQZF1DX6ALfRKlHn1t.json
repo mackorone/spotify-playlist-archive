@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "good vibes only.",
   "name": "Soak Up the Sun",
-  "published_playlist_ids": [
-    "5GFfeaEHqQUbUlBlog2PDd"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,24 +56,6 @@
       "duration_ms": 214339,
       "name": "801",
       "url": "https://open.spotify.com/track/18uxxfbEuef5zO7KBaKfjV"
-    },
-    {
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2021-06-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -261,6 +240,24 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2021-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -1271,7 +1268,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 164138,
       "name": "FUNERAL GREY",
       "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
@@ -1885,7 +1882,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 153680,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/4ARoMobdw8Pv6idjmbQUjJ"
@@ -2217,7 +2214,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-04",
       "duration_ms": 213797,
       "name": "No Type",
       "url": "https://open.spotify.com/track/4fxtYgcIOqjCq9Ix1pvrzn"
@@ -3492,6 +3489,24 @@
     },
     {
       "album": {
+        "name": "off the grid",
+        "url": "https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239195,
+      "name": "u dont kno me",
+      "url": "https://open.spotify.com/track/22yfTobyBNSSJXWIlNjPgt"
+    },
+    {
+      "album": {
         "name": "U&ME",
         "url": "https://open.spotify.com/album/2LzUx0oJhUsjk4rBX8JAFK"
       },
@@ -3525,7 +3540,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 161068,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2"

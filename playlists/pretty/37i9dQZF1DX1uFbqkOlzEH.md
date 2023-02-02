@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,509 likes - 102 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,154 likes - 102 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

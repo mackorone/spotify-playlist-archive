@@ -4,7 +4,7 @@
 
 > Listen to these variations for <a href="spotify:user:spotify:playlist:37i9dQZF1DXah8e1pvF5oE">piano</a> in their entirety, and see endless forms most beautiful and most wonderful evolved from simple themes, in the hands of great composers.
 
-268 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/325WH08fugIAX1VRQmGmvv)
+268 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

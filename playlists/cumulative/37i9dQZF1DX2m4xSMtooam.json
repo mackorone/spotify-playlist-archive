@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
   "name": "Bossa Chill",
-  "published_playlist_ids": [
-    "3aH3sMKMrDaZCgEOtCiFCf"
-  ],
   "tracks": [
     {
       "album": {
@@ -367,7 +364,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 482440,
       "name": "Blue Bossa - Remastered",
       "url": "https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw"
@@ -473,10 +470,46 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 144160,
       "name": "Bossa Nova U.S.A.",
       "url": "https://open.spotify.com/track/4uDOJaEKr2MoeuIjgXM5kf"
+    },
+    {
+      "album": {
+        "name": "Amalgama",
+        "url": "https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN"
+      },
+      "artists": [
+        {
+          "name": "Red Room Rio Band",
+          "url": "https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384320,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd"
+    },
+    {
+      "album": {
+        "name": "Brisa do Mar",
+        "url": "https://open.spotify.com/album/0WzNCdLD9mCtx1lO6NQ8g5"
+      },
+      "artists": [
+        {
+          "name": "Sara Santos",
+          "url": "https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206159,
+      "name": "Brisa do Mar",
+      "url": "https://open.spotify.com/track/7DlsAi4CP4GfDfvGRS6V5e"
     },
     {
       "album": {
@@ -557,6 +590,24 @@
       "duration_ms": 298280,
       "name": "Caminhos Cruzados",
       "url": "https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61"
+    },
+    {
+      "album": {
+        "name": "Can't Help Falling in Love",
+        "url": "https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255251,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb"
     },
     {
       "album": {
@@ -750,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Cosme Velho",
+        "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173943,
+      "name": "Cosme Velho",
+      "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
+    },
+    {
+      "album": {
         "name": "day by day",
         "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
       },
@@ -808,6 +877,42 @@
     },
     {
       "album": {
+        "name": "Dindi",
+        "url": "https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161270,
+      "name": "Dindi",
+      "url": "https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n"
+    },
+    {
+      "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/1eOWhe6KSCG5aV9mrhjySq"
+      },
+      "artists": [
+        {
+          "name": "Naira Fonseca",
+          "url": "https://open.spotify.com/artist/7CsiZmusVRzvSxLFk3qrgC"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7v70FdNcR0GkePhz3aQV3n"
+    },
+    {
+      "album": {
         "name": "The Beat Goes On",
         "url": "https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh"
       },
@@ -855,7 +960,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 216320,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
@@ -909,7 +1014,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 181173,
       "name": "Essa \u00e9 Pro Jo\u00e3o",
       "url": "https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch"
@@ -985,6 +1090,24 @@
       "duration_ms": 167653,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/4u2b3QdJ6FkyaaTK0TrRQR"
+    },
+    {
+      "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271584,
+      "name": "Everything I Love",
+      "url": "https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn"
     },
     {
       "album": {
@@ -1071,7 +1194,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 284133,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
@@ -1111,6 +1234,24 @@
       "duration_ms": 230624,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7"
+    },
+    {
+      "album": {
+        "name": "Foz Do Igua\u00e7u",
+        "url": "https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206822,
+      "name": "Foz Do Igua\u00e7u",
+      "url": "https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w"
     },
     {
       "album": {
@@ -1393,10 +1534,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 226658,
       "name": "I Fall In Love Too Easily",
       "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
+    },
+    {
+      "album": {
+        "name": "I Left My Heart in San Francisco",
+        "url": "https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223755,
+      "name": "I Left My Heart in San Francisco",
+      "url": "https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi"
     },
     {
       "album": {
@@ -1411,10 +1570,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 206000,
       "name": "I Should Have Known Better",
       "url": "https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW"
+    },
+    {
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205502,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
     },
     {
       "album": {
@@ -1455,6 +1632,24 @@
       "duration_ms": 301543,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
+    },
+    {
+      "album": {
+        "name": "I've Never Been in Love Before",
+        "url": "https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236677,
+      "name": "I've Never Been in Love Before",
+      "url": "https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz"
     },
     {
       "album": {
@@ -1585,7 +1780,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 218106,
       "name": "Just My Type",
       "url": "https://open.spotify.com/track/6JMPmjsg9tWVKZ1KkEhwjo"
@@ -1621,7 +1816,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 331840,
       "name": "La Belle Dame Sans Regrets",
       "url": "https://open.spotify.com/track/1kTZPhmN8PW3KrXahh8rs8"
@@ -1717,6 +1912,24 @@
       "duration_ms": 189306,
       "name": "Manha de Carnaval",
       "url": "https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht"
+    },
+    {
+      "album": {
+        "name": "Mestre Sala",
+        "url": "https://open.spotify.com/album/64XduSoe5Uw39MbiGOhs1p"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Olivieira",
+          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305006,
+      "name": "Maua",
+      "url": "https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1"
     },
     {
       "album": {
@@ -1821,7 +2034,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 214859,
       "name": "O Amor \u00e9 Complicado",
       "url": "https://open.spotify.com/track/6m2TueLyXowKFDMuuuy5Qp"
@@ -2163,7 +2376,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 113545,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/31qmV57ho2T38s9fB1xiuJ"
@@ -2185,6 +2398,24 @@
       "duration_ms": 115266,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
+    },
+    {
+      "album": {
+        "name": "Over the Rainbow",
+        "url": "https://open.spotify.com/album/4QHX19CSzvmLopSHU6XIiE"
+      },
+      "artists": [
+        {
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 186050,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/4oVtVfH5Byf8mRThHC8ZSb"
     },
     {
       "album": {
@@ -2221,6 +2452,24 @@
       "duration_ms": 233000,
       "name": "Palpite Infeliz",
       "url": "https://open.spotify.com/track/2a9YiSkmV0bxbNgy18xnsE"
+    },
+    {
+      "album": {
+        "name": "Jo\u00e3o Gilberto: A Night of Music",
+        "url": "https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 233000,
+      "name": "Palpite Infeliz",
+      "url": "https://open.spotify.com/track/486J4oQ3rAPbvzlZ5ceSZQ"
     },
     {
       "album": {
@@ -2286,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "Praia \u00e0 noite",
+        "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
+      },
+      "artists": [
+        {
+          "name": "C. Moreira",
+          "url": "https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180610,
+      "name": "Praia \u00e0 noite",
+      "url": "https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt"
+    },
+    {
+      "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
@@ -2301,6 +2568,24 @@
       "duration_ms": 256533,
       "name": "Prelude In E Minor",
       "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
+    },
+    {
+      "album": {
+        "name": "P\u00e3o de A\u00e7\u00facar",
+        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222402,
+      "name": "P\u00e3o de A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
     },
     {
       "album": {
@@ -2337,7 +2622,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-23",
       "duration_ms": 184560,
       "name": "Quiet Nights Of Quiet Stars (Corcovado)",
       "url": "https://open.spotify.com/track/71fwujxrj8ThvYTArAscuH"
@@ -2380,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199875,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
+    },
+    {
+      "album": {
         "name": "River of Dreams",
         "url": "https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA"
       },
@@ -2413,7 +2716,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 223889,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ"
@@ -2758,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "Jo\u00e3o Gilberto: A Night of Music",
+        "url": "https://open.spotify.com/album/0p1JYHX01uvOBF02nfYpy6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Sorriu Para Mim",
+      "url": "https://open.spotify.com/track/2ZLrEr1rXFmDb9see85T08"
+    },
+    {
+      "album": {
         "name": "Jo\u00e3o Gilberto: Hits & Rarities",
         "url": "https://open.spotify.com/album/2oOfYdGzP20W6CslQLIo69"
       },
@@ -2929,7 +3250,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 174573,
       "name": "Take Five - Studio Rio Version",
       "url": "https://open.spotify.com/track/1C7Gw28QPWVc7ssGlfUpsO"
@@ -2947,7 +3268,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 218346,
       "name": "Teleco-Teco",
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
@@ -3017,10 +3338,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 282000,
       "name": "The Look Of Love",
       "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
+    },
+    {
+      "album": {
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Trio",
+          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232261,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
     },
     {
       "album": {
@@ -3071,7 +3410,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 218000,
       "name": "Time Passing Slowly",
       "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
@@ -3225,7 +3564,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 63506,
       "name": "Voc\u00ea e Eu (You and Me)",
       "url": "https://open.spotify.com/track/4v5PKC5rvQwb33NWX82UH8"
@@ -3243,7 +3582,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 220000,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
@@ -3340,6 +3679,24 @@
     },
     {
       "album": {
+        "name": "Green Grapes",
+        "url": "https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224187,
+      "name": "Woodblock Print",
+      "url": "https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN"
+    },
+    {
+      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -3402,24 +3759,6 @@
     },
     {
       "album": {
-        "name": "Compact Jazz: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "date_added": "2022-06-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212493,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
-    },
-    {
-      "album": {
         "name": "Tom Jobim E Amigos",
         "url": "https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M"
       },
@@ -3439,6 +3778,50 @@
       "duration_ms": 212400,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ"
+    },
+    {
+      "album": {
+        "name": "Compact Jazz: Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 212493,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
+    },
+    {
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     },
     {
       "album": {

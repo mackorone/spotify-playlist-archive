@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-68 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/5sz6J1Qj1bKu7DrXaMZeuY)
+69 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Chains](https://open.spotify.com/track/6krEKtL2aCEXIHTJY8QrKj) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Return](https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3) | 3:41 | 2020-12-01 | 2022-09-15 |
 | [Code Name Loppsi \- My Lowd demo](https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [The Well](https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ) | 4:13 | 2020-12-01 |  |
 | [Cold Wind Blows](https://open.spotify.com/track/5O61SnNgvNtA7NIJFQaDIi) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Dark Days In Paradise](https://open.spotify.com/album/5rWM4lXXxij6N9jmZsUolC) | 5:29 | 2020-12-01 | 2022-07-29 |
-| [Come on Jump Right In](https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Come on Jump Right In](https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy) | 3:30 | 2020-12-01 | 2022-11-26 |
+| [Come on Jump Right In](https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Come on Jump Right In](https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy) | 3:30 | 2020-12-01 | 2022-12-08 |
 | [Crossroads](https://open.spotify.com/track/1b8s2ikwLa1ZmJYAdOZAjR) | [Mason Murphy](https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug) | [Crossroads](https://open.spotify.com/album/2pEc6me1RhA8XQgy5nFg8x) | 2:21 | 2020-12-01 | 2022-07-29 |
 | [Crossroads](https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z) | [Mason Murphy](https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug) | [Crossroads](https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w) | 2:21 | 2020-12-01 |  |
 | [Daddy Was a Wolfman](https://open.spotify.com/track/7i10VbOnkG09EuZuOkz3gO) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Music for Cop Shows](https://open.spotify.com/album/5BXskRJFE9uS1C0K1hZtqE) | 2:34 | 2020-12-01 |  |
@@ -42,11 +42,12 @@
 | [John the Revelator](https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Steve Fitzmaurice](https://open.spotify.com/artist/5jeYVkZ5F8orMysIIFNtOY) | [Playing the Angel](https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz) | 3:41 | 2020-12-01 |  |
 | [John The Revelator](https://open.spotify.com/track/343lHi9sB146HH6sGmjsL1) | [Mortal Prophets](https://open.spotify.com/artist/3Y2UzZ6Uelgt7zmIuWlZ6R), [Gary Lucas](https://open.spotify.com/artist/7pfGmIs49lIUBtoqAtyUEH) | [John The Revelator](https://open.spotify.com/album/1RiftRxnvWj7gPhOW6gzb3) | 2:32 | 2022-07-08 | 2022-07-29 |
 | [Joshua Tree](https://open.spotify.com/track/3I0CQt2MQx6jKygLKTdmde) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Joshua Tree](https://open.spotify.com/album/1YnzjJJCICcYqynOL6GiCJ) | 3:57 | 2022-09-30 |  |
-| [K.I.S.S\. \- Remix](https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Citizens of Boomtown \(Deluxe\)](https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm) | 6:01 | 2022-04-29 |  |
+| [K.I.S.S\. \- Remix](https://open.spotify.com/track/4l5bwvNLoDgCVrlD4nMzsZ) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Citizens of Boomtown \(Deluxe\)](https://open.spotify.com/album/5twg48xOlAZwZsoPUxbyGm) | 6:01 | 2022-04-29 | 2023-01-19 |
 | [Keisha Complexion](https://open.spotify.com/track/0gm0OruZdJlu8jamJe5OCh) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Keisha Complexion](https://open.spotify.com/album/2F8Fdmv6gXkewLOgTWD57R) | 3:18 | 2020-12-01 | 2022-07-21 |
 | [Left Behind](https://open.spotify.com/track/5gSHmVV30dqKESS4nYGpXg) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:36 | 2020-12-01 |  |
+| [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 | 2023-01-20 |  |
 | [Love Me \- KR3TURE Remix](https://open.spotify.com/track/4eBIob5CXTTQ2PvmeENC0S) | [DJ Taz Rashid](https://open.spotify.com/artist/2XvQyfssNbXYWcOkKaWYlx), [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu) | [High Vibe Remixes, Vol\. 1](https://open.spotify.com/album/3NlmTWejiSpfgnxD7CiVzt) | 3:49 | 2021-08-13 |  |
-| [Midnight Dream](https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY) | 4:03 | 2020-12-01 |  |
+| [Midnight Dream](https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Hard Grind](https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY) | 4:03 | 2020-12-01 | 2023-02-02 |
 | [Mr\. E's Beautiful Blues \- Remix](https://open.spotify.com/track/1cXPXMbHhNZHQYan1C8fzD) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/1Umb8lHSJUIXnF0bx9DlH2) | 3:54 | 2020-12-01 | 2022-07-28 |
 | [Multiball](https://open.spotify.com/track/22MiGH2lQBET7dtLo5Iua8) | [Vidar Busk](https://open.spotify.com/artist/7bbkRaebsI7fzfa9l5LWG3) | [Starfish](https://open.spotify.com/album/4vhocdV6eNQnR7Rq4CB3Vi) | 3:17 | 2020-12-01 | 2022-07-29 |
 | [Paper Trails](https://open.spotify.com/track/1DK2JuYarBeNwcLNPw1Qyo) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt) | 4:49 | 2020-12-01 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Fill your mind with music for dreaming, thinking and longing. ",
   "name": "Ambient Dreamscapes",
-  "published_playlist_ids": [
-    "3J3LPO0Z4tLv0nyKiEt64G"
-  ],
   "tracks": [
     {
       "album": {
@@ -772,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Forthright",
+        "url": "https://open.spotify.com/album/312Ry4bijlP4l28jrs9NoL"
+      },
+      "artists": [
+        {
+          "name": "Banton Tune",
+          "url": "https://open.spotify.com/artist/0e9MtdXANPdLVqVVkHzaZN"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Forthright",
+      "url": "https://open.spotify.com/track/0hPbrW1AnRabxn1JNtk1ys"
+    },
+    {
+      "album": {
         "name": "Frozen Sunlight",
         "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
       },
@@ -934,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Dream Vibes",
+        "url": "https://open.spotify.com/album/3UIy1t5U2AUDF22IvmKuPD"
+      },
+      "artists": [
+        {
+          "name": "RELAX WORLD",
+          "url": "https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Hypnos",
+      "url": "https://open.spotify.com/track/4ZQAfZLXmoAgzFWoM4anUS"
+    },
+    {
+      "album": {
         "name": "illusions",
         "url": "https://open.spotify.com/album/0Y7P4AdRAfhZXGDJOD6Gl5"
       },
@@ -949,6 +982,24 @@
       "duration_ms": 223582,
       "name": "illusions",
       "url": "https://open.spotify.com/track/698R7hMTRpd8ZfxJN6PkyM"
+    },
+    {
+      "album": {
+        "name": "Immersed In Dreams",
+        "url": "https://open.spotify.com/album/3PrhDThftipDfJZO203rmH"
+      },
+      "artists": [
+        {
+          "name": "Heart 2 Heart Relaxing Music",
+          "url": "https://open.spotify.com/artist/5z0DWZhG5UimahCQNsszXe"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145350,
+      "name": "Immersed In Dreams",
+      "url": "https://open.spotify.com/track/1zv82sM9K7nEGh2aJ71r7b"
     },
     {
       "album": {
@@ -1154,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "Miles and Miles Away",
+        "url": "https://open.spotify.com/album/57tX0svPI2w5kmEGEHPcHC"
+      },
+      "artists": [
+        {
+          "name": "Soundscapes in Blue",
+          "url": "https://open.spotify.com/artist/7Cvz7DJgZTwBAk8q6Jjy5e"
+        },
+        {
+          "name": "The Little Oak Project",
+          "url": "https://open.spotify.com/artist/7cHzdlHgaXI9IDP73gkd1r"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185816,
+      "name": "Mixed Waves",
+      "url": "https://open.spotify.com/track/5FuFjrRUGV0ZEXTEtk3luB"
+    },
+    {
+      "album": {
         "name": "moon balloon",
         "url": "https://open.spotify.com/album/2yPY5BOOer5vs4J2FxWYbB"
       },
@@ -1298,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Objecting",
+        "url": "https://open.spotify.com/album/4f07SHjOfxLqGwaq3YyCBM"
+      },
+      "artists": [
+        {
+          "name": "Alexander Mark",
+          "url": "https://open.spotify.com/artist/6gah0trDTqv3p6OgjC5F0T"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Objecting",
+      "url": "https://open.spotify.com/track/2VZWcp3QYWVMxj3Bn8r6dX"
+    },
+    {
+      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
@@ -1439,10 +1530,46 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 260834,
       "name": "Reflection (Excerpt)",
       "url": "https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36"
+    },
+    {
+      "album": {
+        "name": "Reflection (Excerpt)",
+        "url": "https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260834,
+      "name": "Reflection - Excerpt",
+      "url": "https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT"
+    },
+    {
+      "album": {
+        "name": "Reflective",
+        "url": "https://open.spotify.com/album/2mYM2fsupjohB2ewFw6tca"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226690,
+      "name": "Reflective",
+      "url": "https://open.spotify.com/track/4GPJa1iMFV79V9qK7p39v8"
     },
     {
       "album": {
@@ -1504,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Restoration",
+        "url": "https://open.spotify.com/album/5E77PrieLbxEL6tGBN053y"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198007,
+      "name": "Restoration",
+      "url": "https://open.spotify.com/track/1KGD4VIjVMFOoSeKj056CM"
+    },
+    {
+      "album": {
         "name": "retreat",
         "url": "https://open.spotify.com/album/5RzMEYZDsUGeyqCw6azdAg"
       },
@@ -1537,6 +1682,24 @@
       "duration_ms": 399230,
       "name": "Reversing Existence",
       "url": "https://open.spotify.com/track/6BZjUJmyn7wu3NeYvDZrBI"
+    },
+    {
+      "album": {
+        "name": "Wellness Sleep Zone",
+        "url": "https://open.spotify.com/album/2g9HZkED3UdVnk9ysnDZeo"
+      },
+      "artists": [
+        {
+          "name": "Back 2 Sleep",
+          "url": "https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Serenity Dream",
+      "url": "https://open.spotify.com/track/7KFrmgDHafUUei1CEuhnA2"
     },
     {
       "album": {
@@ -1854,6 +2017,42 @@
     },
     {
       "album": {
+        "name": "Visionary Dream",
+        "url": "https://open.spotify.com/album/0jEBTemH7rAFee2ruX4WMY"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208578,
+      "name": "Visionary Dream",
+      "url": "https://open.spotify.com/track/6UTc4IzOaeCIFFTjc49Mni"
+    },
+    {
+      "album": {
+        "name": "W(e) ave",
+        "url": "https://open.spotify.com/album/6KmOntC15CAQj0cmWyuAZJ"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224166,
+      "name": "W(e) ave",
+      "url": "https://open.spotify.com/track/2c7iYzP1tXuWYZinkscVXn"
+    },
+    {
+      "album": {
         "name": "watching the stars (Remixes)",
         "url": "https://open.spotify.com/album/7tVjWJao2UMh0kluQBHVPy"
       },
@@ -1887,6 +2086,24 @@
       "duration_ms": 298000,
       "name": "We Don't Like You",
       "url": "https://open.spotify.com/track/08cdH83ZfXtkGphVBTmDEa"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6uruLBCnRc6Kd33Q1wJtbV"
+      },
+      "artists": [
+        {
+          "name": "Beyond Time",
+          "url": "https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/0U86hztiLpoyVjJiRVZxJF"
     },
     {
       "album": {

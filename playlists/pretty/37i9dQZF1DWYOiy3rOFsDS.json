@@ -1,18 +1,18 @@
 {
-  "description": "Romance antig\u00fcito en voz de tus artistas pop con Mel Mu\u00f1iz en portada.",
-  "num_followers": 503468,
+  "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
+  "num_followers": 512705,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MTYwMCwwMDAwMDAwMDU4ZDgxZjU5OWZjMDY0NmM5ZTBlZmZmZjExMWYxMDM1",
+  "snapshot_id": "MTY3NTExMzAzMSwwMDAwMDAwMDJkMjlmN2Y1MWE5ODk5ZDhmOWZmMDljYjc1Y2UzMWUz",
   "tracks": [
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
       },
       "artists": [
         {
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Ni una Gota de Amor",
-        "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 151953,
-      "name": "Ni una Gota de Amor",
-      "url": "https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3"
+      "duration_ms": 181853,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/2JiRKaA4JAHMPCqU7D74w6"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -77,22 +61,6 @@
       "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
-      "added_at": "2022-11-04 06:00:00",
-      "album": {
-        "name": "Solo Boleros",
-        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 178925,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
-    },
-    {
       "added_at": "2021-10-16 00:58:48",
       "album": {
         "name": "Asondeguerra",
@@ -109,92 +77,20 @@
       "url": "https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z"
     },
     {
-      "added_at": "2022-09-16 04:52:02",
+      "added_at": "2022-12-20 21:39:13",
       "album": {
-        "name": "traguito",
-        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 236200,
-      "name": "traguito",
-      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Envidiosa",
-        "url": "https://open.spotify.com/album/5gFjM6qA3xyUcyr1FiRbkx"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 184191,
-      "name": "Envidiosa",
-      "url": "https://open.spotify.com/track/52koGwFt8dVGhhQv0csIVQ"
-    },
-    {
-      "added_at": "2022-10-28 20:24:59",
-      "album": {
-        "name": "La Copa Rota",
-        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
-      },
-      "artists": [
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        },
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
-      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+      "duration_ms": 231053,
+      "name": "El lugar correcto",
+      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
     },
     {
       "added_at": "2022-04-08 19:04:10",
@@ -217,20 +113,96 @@
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2023-01-27 06:00:00",
       "album": {
-        "name": "Bolero Triste",
-        "url": "https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0"
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 240326,
-      "name": "Bolero Triste",
-      "url": "https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3"
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        },
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
+      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Envidiosa",
+        "url": "https://open.spotify.com/album/5gFjM6qA3xyUcyr1FiRbkx"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 184191,
+      "name": "Envidiosa",
+      "url": "https://open.spotify.com/track/52koGwFt8dVGhhQv0csIVQ"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "added_at": "2023-01-30 21:10:31",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 173288,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -247,6 +219,42 @@
       "duration_ms": 281640,
       "name": "A Medio Vivir",
       "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Un besito m\u00e1s (feat. Juan Luis Guerra)",
+      "url": "https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -275,42 +283,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Un besito m\u00e1s (feat. Juan Luis Guerra)",
-      "url": "https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Deje de Amar",
         "url": "https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou"
       },
@@ -327,22 +299,6 @@
       "duration_ms": 192013,
       "name": "Deje de Amar",
       "url": "https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo"
-    },
-    {
-      "added_at": "2022-04-04 18:07:11",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "DELIRIO DE GRANDEZA",
-      "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -371,18 +327,18 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+      "duration_ms": 223200,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -403,22 +359,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 268306,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -435,54 +375,18 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 211440,
-      "name": "No Me Platiques M\u00e1s",
-      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
-    },
-    {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "El Madrile\u00f1o (La Sobremesa)",
-        "url": "https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Te Venero",
-      "url": "https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Amar",
-        "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 179071,
-      "name": "Amar",
-      "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
+      "duration_ms": 268306,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -499,42 +403,6 @@
       "duration_ms": 196614,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 195748,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/4QPjGYaXenaoyE6cfHyWLh"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -559,6 +427,22 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "Amar",
+        "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 179071,
+      "name": "Amar",
+      "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -579,18 +463,38 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
       },
       "artists": [
         {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 268096,
-      "name": "Adoracion",
-      "url": "https://open.spotify.com/track/6W9Q073oJTne3KQedw1f73"
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 195748,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/4QPjGYaXenaoyE6cfHyWLh"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -609,24 +513,24 @@
       "url": "https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce"
     },
     {
-      "added_at": "2021-10-16 00:58:48",
+      "added_at": "2022-02-18 05:01:00",
       "album": {
-        "name": "COMO LA PIEL",
-        "url": "https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp"
+        "name": "El Madrile\u00f1o (La Sobremesa)",
+        "url": "https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz"
       },
       "artists": [
         {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         },
         {
-          "name": "Elisabeth Roma",
-          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 244631,
-      "name": "Nunca vas a comprender",
-      "url": "https://open.spotify.com/track/4dnlbvqglDqyuGYjg8rBfc"
+      "duration_ms": 187693,
+      "name": "Te Venero",
+      "url": "https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -651,6 +555,26 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "COMO LA PIEL",
+        "url": "https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+        }
+      ],
+      "duration_ms": 244631,
+      "name": "Nunca vas a comprender",
+      "url": "https://open.spotify.com/track/4dnlbvqglDqyuGYjg8rBfc"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "La Danza de las Lib\u00e9lulas",
         "url": "https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f"
       },
@@ -671,22 +595,18 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
         }
       ],
-      "duration_ms": 261815,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
+      "duration_ms": 268096,
+      "name": "Adoracion",
+      "url": "https://open.spotify.com/track/6W9Q073oJTne3KQedw1f73"
     },
     {
       "added_at": "2022-02-22 02:27:01",
@@ -707,6 +627,26 @@
       "duration_ms": 252534,
       "name": "Torpe",
       "url": "https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+        }
+      ],
+      "duration_ms": 261815,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -751,22 +691,38 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "A Que No Me Dejas",
-        "url": "https://open.spotify.com/album/1RBxYmkmyQrYUZ84ifjotd"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 321323,
-      "name": "A Que No Me Dejas",
-      "url": "https://open.spotify.com/track/4s5D7IM9z6xDVwOg9r8Hqp"
+      "duration_ms": 211440,
+      "name": "No Me Platiques M\u00e1s",
+      "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
+    },
+    {
+      "added_at": "2022-09-16 04:52:02",
+      "album": {
+        "name": "traguito",
+        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "traguito",
+      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -787,6 +743,42 @@
       "duration_ms": 183026,
       "name": "Amor de Cabaret (with R\u00edo Roma)",
       "url": "https://open.spotify.com/track/5JeyXbf7CrVQ8DqwFikN0P"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "A Que No Me Dejas",
+        "url": "https://open.spotify.com/album/1RBxYmkmyQrYUZ84ifjotd"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 321323,
+      "name": "A Que No Me Dejas",
+      "url": "https://open.spotify.com/track/4s5D7IM9z6xDVwOg9r8Hqp"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Es Verdad",
+        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -855,38 +847,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
-        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 189663,
-      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
-      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Es Verdad",
-        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Mun Compilado (Vol. 2)",
         "url": "https://open.spotify.com/album/3kbsMZpw5hkNpcZNNXwlsA"
       },
@@ -899,22 +859,6 @@
       "duration_ms": 237173,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/7CaUGvVqPENV2Lgp7ym86D"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Ome",
-        "url": "https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh"
-      },
-      "artists": [
-        {
-          "name": "Jenny And The Mexicats",
-          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
-        }
-      ],
-      "duration_ms": 177248,
-      "name": "No Dejes de Quererme",
-      "url": "https://open.spotify.com/track/7mAOonpkjMsDwUAuXmm4pj"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -939,18 +883,66 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "Grandes \u00c9xitos del Boleroglam Vol. 1",
+        "url": "https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Ya S\u00e9",
+      "url": "https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "Latin & Love Studies",
         "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
       },
       "artists": [
         {
-          "name": "Isaac & Nora",
+          "name": "Isaac et Nora",
           "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
         }
       ],
       "duration_ms": 212949,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
+        "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 189663,
+      "name": "Be True to Me - Sabor a Mi - Versi\u00f3n Biling\u00fce",
+      "url": "https://open.spotify.com/track/50S3pGGtFET6HRgGwE6ZUK"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Ome",
+        "url": "https://open.spotify.com/album/69ecmGWs76wJyI23HLNfjh"
+      },
+      "artists": [
+        {
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
+        }
+      ],
+      "duration_ms": 177248,
+      "name": "No Dejes de Quererme",
+      "url": "https://open.spotify.com/track/7mAOonpkjMsDwUAuXmm4pj"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -967,6 +959,22 @@
       "duration_ms": 189900,
       "name": "Lo Mismo Que Usted",
       "url": "https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU"
+    },
+    {
+      "added_at": "2022-10-28 20:24:59",
+      "album": {
+        "name": "La Copa Rota",
+        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -987,6 +995,74 @@
       "duration_ms": 208733,
       "name": "Somos novios (feat. Lolita)",
       "url": "https://open.spotify.com/track/5oG4GkFukkeFvxTlu4MoMp"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 207817,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Que Sepan Todos",
+        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Que Sepan Todos",
+      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
+        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Contigo en la Distancia (with Carlos Cuevas)",
+      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Ac\u00fastico En Vivo",
+        "url": "https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 259013,
+      "name": "Tu Y Yo - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
+      "url": "https://open.spotify.com/track/1sdyprv238gh4rfULMyqGA"
     },
     {
       "added_at": "2022-04-22 18:07:58",
@@ -1015,50 +1091,54 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Somos Algo",
-        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
         }
       ],
-      "duration_ms": 234128,
-      "name": "Somos Algo",
-      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+    },
+    {
+      "added_at": "2022-03-30 02:01:46",
+      "album": {
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Que Sepan Todos",
-        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
+        "name": "Ojos de Serpiente",
+        "url": "https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt"
       },
       "artists": [
         {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+          "name": "DORA",
+          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Que Sepan Todos",
-      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 207817,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
+      "duration_ms": 171145,
+      "name": "Ojos de Serpiente",
+      "url": "https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1089,6 +1169,22 @@
       "url": "https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE"
     },
     {
+      "added_at": "2022-11-04 06:00:00",
+      "album": {
+        "name": "Solo Boleros",
+        "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
+      },
+      "artists": [
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 178925,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
+    },
+    {
       "added_at": "2021-10-16 00:58:48",
       "album": {
         "name": "Tal Vez, Quiz\u00e1",
@@ -1107,26 +1203,6 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
-        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Contigo en la Distancia (with Carlos Cuevas)",
-      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. 1",
         "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
@@ -1141,52 +1217,28 @@
       "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
     },
     {
-      "added_at": "2021-10-16 00:58:48",
+      "added_at": "2022-01-14 04:39:21",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+        "name": "Un D\u00eda a la Vez",
+        "url": "https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA"
       },
       "artists": [
         {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Ac\u00fastico En Vivo",
-        "url": "https://open.spotify.com/album/21W89hohyAUqNiLMKGYiZn"
-      },
-      "artists": [
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 259013,
-      "name": "Tu Y Yo - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
-      "url": "https://open.spotify.com/track/1sdyprv238gh4rfULMyqGA"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Por El Amor De Siempre",
-        "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
-      },
-      "artists": [
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
         }
       ],
-      "duration_ms": 262431,
-      "name": "El Amar El Querer",
-      "url": "https://open.spotify.com/track/0VB7AFyREofDc5F1EbFEaN"
+      "duration_ms": 246000,
+      "name": "Un D\u00eda a la Vez",
+      "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1229,24 +1281,36 @@
       "url": "https://open.spotify.com/track/23KAto4gDqUxFqTtpqtH9m"
     },
     {
-      "added_at": "2022-03-30 02:01:46",
+      "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
+        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
       },
       "artists": [
         {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 228693,
-      "name": "Mentiras Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+      "duration_ms": 170518,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Ni una Gota de Amor",
+        "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 151953,
+      "name": "Ni una Gota de Amor",
+      "url": "https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1265,60 +1329,20 @@
       "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
     },
     {
-      "added_at": "2022-01-14 04:39:21",
-      "album": {
-        "name": "Un D\u00eda a la Vez",
-        "url": "https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Un D\u00eda a la Vez",
-      "url": "https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9"
-    },
-    {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Ojos de Serpiente",
-        "url": "https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt"
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
       },
       "artists": [
         {
-          "name": "DORA",
-          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 171145,
-      "name": "Ojos de Serpiente",
-      "url": "https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
-      },
-      "artists": [
-        {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Secreto de Amor",
-      "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1343,50 +1367,38 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Drume Negrita (En Vivo Desde Fonobox)",
-        "url": "https://open.spotify.com/album/6rM2ZPTfVovvLmx21KLllK"
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
       "artists": [
         {
-          "name": "Priscila F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI"
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
         }
       ],
-      "duration_ms": 164813,
-      "name": "Drume Negrita",
-      "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
+      "duration_ms": 233000,
+      "name": "Secreto de Amor",
+      "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
     },
     {
-      "added_at": "2021-10-16 00:58:48",
+      "added_at": "2022-01-11 03:03:48",
       "album": {
-        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
-        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
+        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 170518,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
+      "duration_ms": 188626,
+      "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/7CqoWdCRMBSUGgQg55A6C2"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1411,42 +1423,18 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
+        "name": "Drume Negrita (En Vivo Desde Fonobox)",
+        "url": "https://open.spotify.com/album/6rM2ZPTfVovvLmx21KLllK"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Priscila F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Farolito (with Gilberto Gil)",
-      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
-    },
-    {
-      "added_at": "2022-01-11 03:03:48",
-      "album": {
-        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
-        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "Perfume de Gardenia (with Alejandro Fern\u00e1ndez)",
-      "url": "https://open.spotify.com/track/7CqoWdCRMBSUGgQg55A6C2"
+      "duration_ms": 164813,
+      "name": "Drume Negrita",
+      "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1485,20 +1473,24 @@
       "url": "https://open.spotify.com/track/7HGyyoWiUdLYddj985Aj1C"
     },
     {
-      "added_at": "2022-01-11 03:03:48",
+      "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
       "artists": [
         {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+      "duration_ms": 161000,
+      "name": "Farolito (with Gilberto Gil)",
+      "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1519,18 +1511,74 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "En Las Olas",
-        "url": "https://open.spotify.com/album/2wfE4uDiMSti5YCwfaZssj"
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         }
       ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX"
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "En la Orilla del Mar",
+      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
+    },
+    {
+      "added_at": "2022-01-11 03:03:48",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
       "added_at": "2022-03-04 04:44:16",
@@ -1569,116 +1617,20 @@
       "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
     },
     {
-      "added_at": "2021-10-16 00:58:48",
+      "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
+        "name": "Bolero Triste",
+        "url": "https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0"
       },
       "artists": [
         {
-          "name": "Najwa",
-          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "duration_ms": 181090,
-      "name": "Mu\u00f1equita Linda",
-      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
-    },
-    {
-      "added_at": "2022-09-03 02:50:22",
-      "album": {
-        "name": "Si las Paredes Hablaran",
-        "url": "https://open.spotify.com/album/5n3i7jgQL0c58GPn3oLdWL"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 189978,
-      "name": "Si las Paredes Hablaran",
-      "url": "https://open.spotify.com/track/0MIE9dOJA39gXHwodePCAd"
-    },
-    {
-      "added_at": "2022-09-28 22:58:27",
-      "album": {
-        "name": "Una Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX"
-      },
-      "artists": [
-        {
-          "name": "Denise Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "Una Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Los Boleros de Oro de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "En la Orilla del Mar",
-      "url": "https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
-    },
-    {
-      "added_at": "2022-04-29 05:00:00",
-      "album": {
-        "name": "Caf\u00e9 Conmigo",
-        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 176238,
-      "name": "Caf\u00e9 Conmigo",
-      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+      "duration_ms": 240326,
+      "name": "Bolero Triste",
+      "url": "https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1703,34 +1655,70 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Cristian Castro en Primera Fila - D\u00eda 2",
-        "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
+        "name": "Por El Amor De Siempre",
+        "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 257173,
-      "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
+      "duration_ms": 262431,
+      "name": "El Amar El Querer",
+      "url": "https://open.spotify.com/track/0VB7AFyREofDc5F1EbFEaN"
+    },
+    {
+      "added_at": "2022-04-29 05:00:00",
+      "album": {
+        "name": "Caf\u00e9 Conmigo",
+        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 176238,
+      "name": "Caf\u00e9 Conmigo",
+      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
     },
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
-        "name": "Or\u00edgenes: El Bolero Vol.3",
-        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
+        "name": "Tu Amor No Vale un Bolero",
+        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        },
+        {
+          "name": "Lorena Jimenez",
+          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
         }
       ],
-      "duration_ms": 210848,
-      "name": "Te matan los celos",
-      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
+      "duration_ms": 206710,
+      "name": "Tu Amor No Vale un Bolero",
+      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+    },
+    {
+      "added_at": "2021-11-24 00:25:10",
+      "album": {
+        "name": "Cuando Los Malandros Lloran",
+        "url": "https://open.spotify.com/album/1BOErcw8iZR9VkUyeF7flO"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Cuando Los Malandros Lloran",
+      "url": "https://open.spotify.com/track/2Hz67xjPicg9Xdq7K8FfDG"
     },
     {
       "added_at": "2021-10-16 00:58:48",
@@ -1755,6 +1743,70 @@
     {
       "added_at": "2021-10-16 00:58:48",
       "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
+      },
+      "artists": [
+        {
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Mu\u00f1equita Linda",
+      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Or\u00edgenes: El Bolero Vol.3",
+        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Te matan los celos",
+      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Cristian Castro en Primera Fila - D\u00eda 2",
+        "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
+    },
+    {
+      "added_at": "2021-10-16 00:58:48",
+      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -1771,38 +1823,6 @@
       "duration_ms": 219818,
       "name": "El primer amor (feat. Francisco Cespedes)",
       "url": "https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "En las Noches",
-        "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 239412,
-      "name": "En las Noches",
-      "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
-    },
-    {
-      "added_at": "2021-10-16 00:58:48",
-      "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     }
   ],
   "unique_name": "Boleros Pop",

@@ -4,7 +4,7 @@
 
 > 
 
-20 songs - 1 hr 4 min - [published](https://open.spotify.com/playlist/44XJQkzIwjZrMA7OaZDl5u)
+20 songs - 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Cheetah Love](https://open.spotify.com/track/7rUvQpIKZluigUx7hvQue5) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY) | [One World](https://open.spotify.com/album/6WxSyVYrnhBnbIOfPYd0Vx) | 3:14 | 2013-06-28 |  |
 | [Contagious Love](https://open.spotify.com/track/2Lzk2TJX2UGGNqQAkB3Y9M) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:15 | 2013-06-28 |  |
 | [Gangnam Style](https://open.spotify.com/track/5xCZsIAtkbGH45j2mCGBM0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 23](https://open.spotify.com/album/69CV9txxQsxROKUjfWFeYw) | 3:13 | 2013-06-28 |  |
-| [Hakuna Matata \- From "The Lion King"/Soundtrack](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) | [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:33 | 2013-06-28 |  |
+| [Hakuna Matata \- From "The Lion King" Soundtrack](https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN) | [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:33 | 2013-06-28 |  |
 | [I Like To Move It](https://open.spotify.com/track/1VQ2FdkDQ6CnoxxIIomVWK) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \- Music From The Motion Picture](https://open.spotify.com/album/6xzALceHwgpeBIy1zSEx9d) | 3:41 | 2013-06-28 |  |
 | [Life's A Happy Song](https://open.spotify.com/track/46qCwNLFxqSbMGcxGsh4zt) | [Mickey Rooney](https://open.spotify.com/artist/3xL6MN3ARaJ5WI1Ltt4Tkz), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj), [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX), [Jason Segel](https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6), [Walter](https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D) | [The Muppets OST](https://open.spotify.com/album/7EDOsSXAnGFrPL2EJDFAUl) | 4:29 | 2013-06-28 |  |
 | [Make It Shine \(Victorious Theme\) \(feat\. Victoria Justice\)](https://open.spotify.com/track/3EQ3xbQizgROebPrp8mDf3) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Make It Shine \(Victorious Theme\) \(feat\. Victoria Justice\)](https://open.spotify.com/album/7nC5cTgzVYA1DEdb0uxvwg) | 3:07 | 2013-06-28 |  |

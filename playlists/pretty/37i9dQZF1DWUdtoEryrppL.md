@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdtoEryrppL.md) - [plain]
 
 > My favourite tracks to harness your focus and push you to the limit in your next workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,315 likes - 41 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,757 likes - 41 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdtoEryrppL.md) - [plain]
 | 13 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
 | 14 | [Seek & Destroy \(Remastered\)](https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 6:54 |
 | 15 | [Morning Glory \- Remastered](https://open.spotify.com/track/1H0K1GVwLteCZrPquy7qkM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 5:03 |
-| 16 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 |
+| 16 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 6:39 |
 | 17 | [Robot Rock \- Edit \[Edit\]](https://open.spotify.com/track/2gvSbIHvBKebtleZClEC9L) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Robot Rock \(Edit\)](https://open.spotify.com/album/6nwye4zd7OY5FmMKZRMiDl) | 3:07 |
 | 18 | [Planisphere](https://open.spotify.com/track/18IARgL5t0TkfCvARd8Ndn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Audio, Video, Disco.](https://open.spotify.com/album/0dLnnm4PjeyqM4CoHqo6DI) | 17:39 |
 | 19 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdtoEryrppL.md) - [plain]
 | 28 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 |
 | 29 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
 | 30 | [Breathe](https://open.spotify.com/track/4ZtqsOdBbS6GoedzzRGSo9) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:36 |
-| 31 | [Higher Ground \- Remastered](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 |
+| 31 | [Higher Ground \- Remastered 2003](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 |
 | 32 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 |
 | 33 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 | 34 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdtoEryrppL.md) - [plain]
 | 40 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 |
 | 41 | [Bent Light](https://open.spotify.com/track/4cZRwZrq64bA6Kefaup5v3) | [Praxis](https://open.spotify.com/artist/7HUToZAiTbs402RFlGb6nF) | [Tennessee 2004](https://open.spotify.com/album/4Gra5ONFja6kNJqvOArntO) | 5:36 |
 
-Snapshot ID: `MTYxODk3NzYwMCwwMDAwMDAwMGM1M2ExMTAwMDY2NzIyMzYwOTQzN2E2ZTkwMTRmOWZk`
+Snapshot ID: `MTYxODk3NzYwMCwwMDAwMDAwMDkzZmU0OTVlNDM2YjJkMmExYzMxODU1M2QyYzJlY2Zk`

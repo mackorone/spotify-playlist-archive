@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Sonido contempor\u00e1neo y algunos cl\u00e1sicos. \nFoto: The Strokes.",
+  "description": "Sonido contempor\u00e1neo y algunos cl\u00e1sicos. \nFoto: Gorillaz",
   "name": "Rock Me",
-  "published_playlist_ids": [
-    "4EagXK2UFeb8VRjckjIwUL"
-  ],
   "tracks": [
     {
       "album": {
@@ -261,6 +258,42 @@
       "duration_ms": 229173,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
+    },
+    {
+      "album": {
+        "name": "Baby Queen",
+        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
+    },
+    {
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164682,
+      "name": "BABY SAID",
+      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
     },
     {
       "album": {
@@ -910,6 +943,24 @@
     },
     {
       "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181557,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/2OdRGWLkvSccWOrYFlbIFF"
+    },
+    {
+      "album": {
         "name": "Wiped Out!",
         "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
       },
@@ -1054,6 +1105,42 @@
     },
     {
       "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 266960,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267596,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty"
       },
@@ -1072,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Return of the Dream Canteen",
+        "url": "https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341986,
+      "name": "Eddie",
+      "url": "https://open.spotify.com/track/0G1BEi8ByngMCJqcPnDACw"
+    },
+    {
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu"
       },
@@ -1083,7 +1188,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 341986,
       "name": "Eddie",
       "url": "https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8"
@@ -1689,7 +1794,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 261545,
       "name": "Love Dies Young",
       "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
@@ -1750,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "Lux \u00c6terna",
+        "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
+    },
+    {
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -1787,6 +1910,24 @@
       "duration_ms": 217136,
       "name": "Morning Blue",
       "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+    },
+    {
+      "album": {
+        "name": "Natural Born Killer/Pink Lullabye",
+        "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
     },
     {
       "album": {
@@ -2184,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot"
+    },
+    {
+      "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
@@ -2433,10 +2592,28 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 211053,
       "name": "Stuck on the puzzle",
       "url": "https://open.spotify.com/track/7w6QlKAOcNEnqRgrnJvQtr"
+    },
+    {
+      "album": {
+        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1Q9j9J64lNWMJPuKP3Wd14"
     },
     {
       "album": {
@@ -2692,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "The News",
+        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
+    },
+    {
+      "album": {
         "name": "The Rumbling",
         "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
       },
@@ -2837,7 +3032,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
@@ -3089,7 +3284,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 189226,
       "name": "You Only Live Once",
       "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"

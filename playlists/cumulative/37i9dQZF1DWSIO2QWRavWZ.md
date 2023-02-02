@@ -4,7 +4,7 @@
 
 > For all the beautiful queens! Guest curated by Mary J\. Blige
 
-62 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/1tinTdr9pJiClutwPgTlAD)
+62 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

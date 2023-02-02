@@ -4,7 +4,7 @@
 
 > The skies are filled with blues for a joyful ride.
 
-30 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/2eQWYfaAytRK3djiE8TNjg)
+30 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

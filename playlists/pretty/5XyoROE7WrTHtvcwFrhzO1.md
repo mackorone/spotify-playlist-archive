@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5XyoROE7WrTHtvcwFrhzO1.md) - [plain]
 
 > The best in folk and singer songwriter from the UK and Ireland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482 likes - 15 songs - 59 min 54 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,481 likes - 15 songs - 59 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

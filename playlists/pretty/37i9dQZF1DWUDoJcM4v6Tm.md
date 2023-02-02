@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,227 likes - 131 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,640 likes - 131 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 11 | [not looking out the window anymore](https://open.spotify.com/track/6iIzfogQHT6604TkCNBqn6) | [wilter](https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R) | [not looking out the window anymore](https://open.spotify.com/album/2lvuU4bZAutcQqr78jLX9K) | 4:36 |
 | 12 | [I Kiss The Night](https://open.spotify.com/track/32OZgcb5fo2ncH9h65Sne5) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [I Kiss The Night](https://open.spotify.com/album/64lcUC0bDpim33zvkeg0VD) | 3:23 |
 | 13 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 |
-| 14 | [Twist](https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL) | 3:06 |
+| 14 | [Twist](https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL) | 3:06 |
 | 15 | [Call My Name \- Acoustic](https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Call My Name](https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a) | 3:17 |
 | 16 | [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 |
 | 17 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 130 | [Gutter Heart \- Acoustic Version](https://open.spotify.com/track/3QQD8AnSMwDYf8NQ585CqR) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Temple \(Unplugged\)](https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW) | 3:39 |
 | 131 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 |
 
-Snapshot ID: `MTY2ODcwNzY0MiwwMDAwMDAwMDgwMDdiNzlkMzIzNjM2NWFmNDFhMjAwMjhiMzJlNjdm`
+Snapshot ID: `MTY2ODcwNzY0MiwwMDAwMDAwMDE5MmMxOWUzZTFlZWJmZDU0OGNhNGNiOTZiMzk3Nzdi`

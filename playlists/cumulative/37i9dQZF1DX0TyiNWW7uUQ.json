@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Finest collection of Tamil Music from the past 10 years\nCover : Varisu",
   "name": "Kollywood Cream",
-  "published_playlist_ids": [
-    "69GF5UsinX4QRifDXRVvJk"
-  ],
   "tracks": [
     {
       "album": {
@@ -350,6 +347,32 @@
     },
     {
       "album": {
+        "name": "Chilla Chilla (From \"Thunivu\")",
+        "url": "https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Chilla Chilla (From \"Thunivu\")",
+      "url": "https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB"
+    },
+    {
+      "album": {
         "name": "Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN"
       },
@@ -391,7 +414,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 273228,
       "name": "Devaralan Aattam",
       "url": "https://open.spotify.com/track/1O5AqyUHm8vH8XGr173ugY"
@@ -523,6 +546,28 @@
       "duration_ms": 251000,
       "name": "Ennadi Maayavi Nee",
       "url": "https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03"
+    },
+    {
+      "album": {
+        "name": "Love Today (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244669,
+      "name": "Ennai Vittu",
+      "url": "https://open.spotify.com/track/4FOCZFqxIS1Xc5JWla5VNj"
     },
     {
       "album": {
@@ -799,7 +844,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 294000,
       "name": "Kaalathukkum Nee Venum",
       "url": "https://open.spotify.com/track/0aQLKZl2mXdJHpxDteJdNo"
@@ -986,6 +1031,32 @@
     },
     {
       "album": {
+        "name": "Kasethan Kadavulada (From \"Thunivu\")",
+        "url": "https://open.spotify.com/album/4wbatnzqMwHfR7SOGzkJyi"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Manju Warrier",
+          "url": "https://open.spotify.com/artist/4IXYF3FJmeKQFqT7pAjf3h"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188052,
+      "name": "Kasethan Kadavulada (From \"Thunivu\")",
+      "url": "https://open.spotify.com/track/1DmCs9mXUP9wnaTQcsT5aH"
+    },
+    {
+      "album": {
         "name": "Sita Ramam (Tamil) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9"
       },
@@ -1107,7 +1178,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 258319,
       "name": "Marakkuma Nenjam - From \"Vendhu Thanindhathu Kaadu\"",
       "url": "https://open.spotify.com/track/4Jr0O3zgoKEk71sIlABkLp"
@@ -1510,6 +1581,28 @@
     },
     {
       "album": {
+        "name": "Love Today (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Mathichiyam Bala",
+          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Pacha Elai",
+      "url": "https://open.spotify.com/track/5jmW454u8igkIgEVgvfSOE"
+    },
+    {
+      "album": {
         "name": "Pathala Pathala (From \"Vikram\")",
         "url": "https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO"
       },
@@ -1669,7 +1762,7 @@
           "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
         },
         {
-          "name": "M. M. Manasi",
+          "name": "M.M.Manasi",
           "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
         },
         {
@@ -1705,7 +1798,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 289942,
       "name": "Ratchasa Maamaney",
       "url": "https://open.spotify.com/track/26aOnndLckt8uAsk6odL5n"
@@ -2083,6 +2176,28 @@
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r"
+    },
+    {
+      "album": {
+        "name": "Thee Thalapathy (From \"Varisu\")",
+        "url": "https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL"
+      },
+      "artists": [
+        {
+          "name": "Silambarasan TR",
+          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Thee Thalapathy (From \"Varisu\")",
+      "url": "https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h"
     },
     {
       "album": {

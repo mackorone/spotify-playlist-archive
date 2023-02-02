@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5jNrphFqELVsvxDR3ZwSAx.md) - [plain]
 
 > A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 61,185 likes - 92 songs - 6 hr 28 min
+[Digster](https://open.spotify.com/user/digster.fm) - 61,114 likes - 92 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

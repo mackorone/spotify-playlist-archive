@@ -1,13 +1,321 @@
 {
-  "description": "Check out the official playlist from The Witcher. Watch Season 2 now on Netflix.",
-  "num_followers": 1856,
+  "description": "Check out the official playlist from The Witcher. Watch The Witcher: Blood Origin, now streaming on Netflix.",
+  "num_followers": 3809,
   "original_name": "The Witcher Official Playlist ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA3NjM3MiwwMDAwMDAwMDgxZWMyMjdmZjU0MGIxNWIyOWM5NTg3YTM1NjRhZTBh",
+  "snapshot_id": "MTY3MTk1NTIwMCwwMDAwMDAwMGYxM2Y4YmU0NTRhOTM1MDgxNjYyZDQ4MmNjZDkwNGY0",
   "tracks": [
+    {
+      "added_at": "2022-12-25 08:00:00",
+      "album": {
+        "name": "Song of the Seven (From the Netflix Series \"The Witcher: Blood Origin\")",
+        "url": "https://open.spotify.com/album/13TT6VTNXuprXHRP6JpUXD"
+      },
+      "artists": [
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        },
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 227162,
+      "name": "Song of the Seven (From the Netflix Series \"The Witcher: Blood Origin\")",
+      "url": "https://open.spotify.com/track/6h1nuPZk9fQjjgKEuiRJOf"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 221240,
+      "name": "The Story of the First Witcher",
+      "url": "https://open.spotify.com/track/27IauLSoyh3hseoltgWrRP"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "The Black Rose",
+      "url": "https://open.spotify.com/track/65bVC6KYo6AEzSBIuah9BE"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Meldof and Gwen",
+      "url": "https://open.spotify.com/track/0zdtVmjnTk39XQNPuXP65x"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 293506,
+      "name": "Eile & Fjall",
+      "url": "https://open.spotify.com/track/68V4LJ9rL8DwaWN0ajJMKt"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Misleading the Enemy",
+      "url": "https://open.spotify.com/track/1wTjuEUY5Tsrg9lJjiu3jh"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Tormented Lovers",
+      "url": "https://open.spotify.com/track/4iTQ4eY8gKg7heomMnxAdj"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Minee Mais",
+          "url": "https://open.spotify.com/artist/2JSNsbvJyV5DEmDNto0Jyo"
+        }
+      ],
+      "duration_ms": 94346,
+      "name": "Away You Hunters",
+      "url": "https://open.spotify.com/track/7L7rvdECkfKdGbonVM413x"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Merwyn of Xintrea",
+      "url": "https://open.spotify.com/track/5seMmBWzwLEkcxKbezXan8"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "Scian's Camp",
+      "url": "https://open.spotify.com/track/3h9TScshQ3TMl6nLGvVUet"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "Balor",
+      "url": "https://open.spotify.com/track/3Peup5jnbgm7GfezqhM160"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Zacar\u00e9 the Healer",
+      "url": "https://open.spotify.com/track/1HSOCjveEHM9s20S1mAYcC"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Into the Misty Marsh",
+      "url": "https://open.spotify.com/track/75OtG83NvLHRE6LYMy9Hyx"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/0USbo0aX8XOERkcM3NXyuI"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 152373,
+      "name": "The Hydra",
+      "url": "https://open.spotify.com/track/46WHvyPyirym87KKN6jGAe"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 258519,
+      "name": "To a New Beginning",
+      "url": "https://open.spotify.com/track/6c01DgxazfTvZJzJCsA5UG"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "The Echo and the River",
+      "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
+    },
+    {
+      "added_at": "2022-12-16 08:00:00",
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "duration_ms": 170289,
+      "name": "Two Standing Stones",
+      "url": "https://open.spotify.com/track/1jSH1At6aK8iHruk2t4uGo"
+    },
     {
       "added_at": "2022-05-20 18:41:13",
       "album": {

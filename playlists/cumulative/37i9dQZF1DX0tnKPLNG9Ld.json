@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
   "name": "Sunny Day Jazz",
-  "published_playlist_ids": [
-    "17UmPpGpDE0CvSJx06ZMsA"
-  ],
   "tracks": [
     {
       "album": {
@@ -131,7 +128,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
@@ -611,7 +608,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 199093,
       "name": "Come Fly With Me - Remastered 1998",
       "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
@@ -723,7 +720,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 283293,
       "name": "Didn't You",
       "url": "https://open.spotify.com/track/1ST1NsO69sL7rUZKdrLeQz"
@@ -810,6 +807,28 @@
     },
     {
       "album": {
+        "name": "Alle Jahre wieder!",
+        "url": "https://open.spotify.com/album/0APEVo3cyFiKDynvV822jh"
+      },
+      "artists": [
+        {
+          "name": "Jazzrausch Bigband",
+          "url": "https://open.spotify.com/artist/2pYHY1BQbcGFSW18EoXdkw"
+        },
+        {
+          "name": "Julian Hesse",
+          "url": "https://open.spotify.com/artist/50s70RZ1etLUykkYClPs9U"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Es wird scho glei dumpa",
+      "url": "https://open.spotify.com/track/2mv1XxJC01PpzrzVCTEO5P"
+    },
+    {
+      "album": {
         "name": "Es wird scho glei dumpa",
         "url": "https://open.spotify.com/album/67Uq3OnYDYvQBRVoenXv7Z"
       },
@@ -825,7 +844,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 193000,
       "name": "Es wird scho glei dumpa",
       "url": "https://open.spotify.com/track/7N37Qn9wKn2f6EoRiKqTNe"
@@ -1109,7 +1128,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 151920,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ"
@@ -1329,7 +1348,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2023-01-28",
       "duration_ms": 154906,
       "name": "I'm Beginning To See The Light",
       "url": "https://open.spotify.com/track/3OwJRoZZuU1fCFIRwc9XPF"
@@ -1405,6 +1424,24 @@
       "duration_ms": 174600,
       "name": "If I Were a Bell - 2004 Remaster",
       "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
+    },
+    {
+      "album": {
+        "name": "Is a Good Man Real?",
+        "url": "https://open.spotify.com/album/05I8drdmcQu1PNVkINs8V9"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253056,
+      "name": "Is a Good Man Real?",
+      "url": "https://open.spotify.com/track/0vmB1QXTJjDLABXelWgAm1"
     },
     {
       "album": {
@@ -1817,6 +1854,24 @@
       "duration_ms": 171666,
       "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
       "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
+    },
+    {
+      "album": {
+        "name": "The Velvet Fog: The Very Best of Mel Torme",
+        "url": "https://open.spotify.com/album/549hYDbssg8k0sGhLraZZh"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/6e76kKD4R4HbbTGl3SD0kr"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 187040,
+      "name": "Lulu's Back In Town",
+      "url": "https://open.spotify.com/track/5lGjIW8egrayi9G3CpnUZK"
     },
     {
       "album": {
@@ -2263,7 +2318,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 144466,
       "name": "Taking A Chance On Love",
       "url": "https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A"
@@ -2307,7 +2362,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 167893,
       "name": "Thanks For The Memory",
       "url": "https://open.spotify.com/track/5dLnsFaeWzj5vh9CA1Ysem"
@@ -2531,7 +2586,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 174960,
       "name": "Till the Clouds Roll By - 2015 Remastered Version",
       "url": "https://open.spotify.com/track/14HvYxFV80IzpbKXc1EaDG"

@@ -4,7 +4,7 @@
 
 > Carole King's most essential tracks, all in one playlist.
 
-46 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/3hmUyAitmKTNUie5X02LZE)
+46 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

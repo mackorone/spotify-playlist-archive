@@ -4,7 +4,7 @@
 
 > All killer, no filler.
 
-50 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/3sk9shYdl4K5fSuGYbxpVL)
+50 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

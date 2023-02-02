@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
   "name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
-  "published_playlist_ids": [
-    "4I910OciKq3ClAvBAI2YCq"
-  ],
   "tracks": [
     {
       "album": {
@@ -885,7 +882,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 183787,
       "name": "Boogie Up",
       "url": "https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB"
@@ -2133,7 +2130,7 @@
       },
       "artists": [
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
@@ -2641,7 +2638,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 196866,
       "name": "Love & hate (Feat. BIBI)",
       "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
@@ -3001,6 +2998,24 @@
       "duration_ms": 177692,
       "name": "mksm mood (Feat. Holynn, AVOKID)",
       "url": "https://open.spotify.com/track/33bCWKK0fZPy1Setw3CrJ4"
+    },
+    {
+      "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch"
+      },
+      "artists": [
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161826,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
     },
     {
       "album": {
@@ -3787,7 +3802,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 240960,
       "name": "Pool Party(Rollin\u2019 right now)",
       "url": "https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp"
@@ -3975,7 +3990,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 221760,
       "name": "Reference",
       "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
@@ -4257,7 +4272,7 @@
       },
       "artists": [
         {
-          "name": "Hyolyn",
+          "name": "HYOLYN",
           "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         }
       ],
@@ -4499,7 +4514,7 @@
           "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
         }
       ],
-      "date_added": "2022-11-11",
+      "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206586,
@@ -4585,7 +4600,7 @@
       },
       "artists": [
         {
-          "name": "Hyolyn",
+          "name": "HYOLYN",
           "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         },
         {
@@ -4925,7 +4940,7 @@
       },
       "artists": [
         {
-          "name": "Hyolyn",
+          "name": "HYOLYN",
           "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         },
         {

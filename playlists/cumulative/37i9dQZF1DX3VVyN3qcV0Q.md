@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:30FDJPN3RtwJZ20g5YGCRX">Yung Bae</a> blesses us with a funky fun mix to keep the party going!
 
-25 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/6bmULwlBHZns78X4uzO6Jh)
+25 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

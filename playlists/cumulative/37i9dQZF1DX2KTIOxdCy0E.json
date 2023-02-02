@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "I'll do yours if you do mine...The official playlist for Do Revenge, out now on Netflix.",
   "name": "Do Revenge: Official Playlist",
-  "published_playlist_ids": [
-    "410OJQpYXzSANO7yWQawfF"
-  ],
   "tracks": [
     {
       "album": {
@@ -257,10 +254,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 157685,
       "name": "for the girls",
       "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157685,
+      "name": "for the girls",
+      "url": "https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0"
     },
     {
       "album": {

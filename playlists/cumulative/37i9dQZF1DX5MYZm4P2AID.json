@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "The official playlist for Outer Banks now. Watch now only on Netflix.",
   "name": "Outer Banks Official Playlist ",
-  "published_playlist_ids": [
-    "42hRPo9Ei0Ev8ulb9zaxKV"
-  ],
   "tracks": [
     {
       "album": {
@@ -823,10 +820,28 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 156811,
       "name": "Johny Says Stay Cool",
       "url": "https://open.spotify.com/track/2EOIrxpEkRXfwnvxk54Up0"
+    },
+    {
+      "album": {
+        "name": "The Babe Rainbow",
+        "url": "https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156811,
+      "name": "Johny Says Stay Cool",
+      "url": "https://open.spotify.com/track/6wPXCLMgpEZIt7TNTURGKe"
     },
     {
       "album": {
@@ -1065,7 +1080,7 @@
     {
       "album": {
         "name": "Today",
-        "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
+        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
       },
       "artists": [
         {
@@ -1076,6 +1091,24 @@
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204467,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/01WQr2XhNnZMu4bjkgLN5s"
+    },
+    {
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 204467,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/02BHrZuoTz32hlaXRbbvge"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-10",
   "description": "Let us take care of your workday soundtrack.",
   "name": "Your Office Stereo",
-  "published_playlist_ids": [
-    "4mBxM3JJWtFgFyQKETemG7"
-  ],
   "tracks": [
     {
       "album": {
@@ -117,7 +114,7 @@
     {
       "album": {
         "name": "Angel",
-        "url": "https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU"
+        "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
       },
       "artists": [
         {
@@ -132,6 +129,28 @@
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236486,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S"
@@ -301,7 +320,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-21",
       "duration_ms": 138516,
       "name": "Beautiful Disaster",
       "url": "https://open.spotify.com/track/5TFS4aXfVOXxodj19Wq5AG"
@@ -986,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Wake UP!",
+        "url": "https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173211,
+      "name": "Five and Dime",
+      "url": "https://open.spotify.com/track/3HgwWsgkhXJ2LsEFWywrHj"
+    },
+    {
+      "album": {
         "name": "Five and Dime",
         "url": "https://open.spotify.com/album/2Qz2fR3LuxbbmT12U9ehys"
       },
@@ -1015,7 +1052,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 173211,
       "name": "Five and Dime",
       "url": "https://open.spotify.com/track/5ypn0mWrFJ8m2BeYBKwXec"
@@ -1629,7 +1666,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 260065,
       "name": "JOY (Warm Bullet)",
       "url": "https://open.spotify.com/track/651ISDzJhS2cIYtXlHiMXl"
@@ -1869,7 +1906,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 187492,
       "name": "Lonely Dancer",
       "url": "https://open.spotify.com/track/5EDiJyIO6wvTms3qK2E4mk"
@@ -2213,7 +2250,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 296500,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/2rFPYcUV0lUORTDvGymr5n"
@@ -2501,10 +2538,28 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
     },
     {
       "album": {
@@ -2783,10 +2838,28 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 202003,
       "name": "Southwark",
       "url": "https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR"
+    },
+    {
+      "album": {
+        "name": "Truth or Consequences",
+        "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202003,
+      "name": "Southwark",
+      "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
     },
     {
       "album": {
@@ -2855,10 +2928,28 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 181293,
       "name": "Still Got Time",
       "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
+    },
+    {
+      "album": {
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181293,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf"
     },
     {
       "album": {
@@ -3209,7 +3300,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-28",
       "duration_ms": 261012,
       "name": "Treat You Right",
       "url": "https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw"

@@ -4,7 +4,7 @@
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/6u2iDNee0h9mQQPZozV8gU)
+67 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Horizons](https://open.spotify.com/track/2i5lnmaZ9tB8pom8Br4KS5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 5:39 | 2022-05-30 |  |
 | [Idols and Anchors](https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:48 | 2022-05-30 |  |
 | [If a God Can Bleed](https://open.spotify.com/track/2b7yigvDL1fkswGnQv4hqc) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 2:40 | 2022-09-11 | 2022-10-05 |
-| [Imperial Heretic](https://open.spotify.com/track/52Ee1NSe8oaum15FN1CyH7) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:50 | 2022-09-10 | 2022-10-01 |
+| [Imperial Heretic](https://open.spotify.com/track/52Ee1NSe8oaum15FN1CyH7) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:50 | 2022-09-10 | 2022-12-18 |
 | [Into the Dark](https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:30 | 2022-06-03 |  |
 | [It's So Hard To Speak Without A Tongue](https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 4:16 | 2022-05-30 |  |
 | [Karma](https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:49 | 2022-05-30 |  |

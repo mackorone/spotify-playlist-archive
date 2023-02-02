@@ -4,7 +4,7 @@
 
 > This playlist is perfect for when you've got a fever..\. and the only prescription is more banjo!
 
-37 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/7rUIVYAViY0wltRYMwNU1O)
+37 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

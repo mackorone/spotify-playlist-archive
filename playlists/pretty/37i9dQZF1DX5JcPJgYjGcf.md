@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065,392 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,864 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

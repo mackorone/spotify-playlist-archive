@@ -4,7 +4,7 @@
 
 > ¿Cuándo te veré otra vez, mi vida, cuándo?
 
-70 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/0XSAjxkrdo0AUBMhkZnDmQ)
+70 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "quiet hallways, dusty sunlight, cosy sweaters, and hot tea",
   "name": "Dark Academia Classical",
-  "published_playlist_ids": [
-    "6P7FK7KxB0YRgwehaVREy9"
-  ],
   "tracks": [
     {
       "album": {
@@ -78,6 +75,28 @@
     },
     {
       "album": {
+        "name": "Schumann: 3 Romanzen, Op. 28: No. 2 in F-Sharp Major (Einfach)",
+        "url": "https://open.spotify.com/album/6htHyNPaA17MvKl3khcPyA"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230180,
+      "name": "3 Romanzen, Op. 28: No. 2 in F-Sharp Major (Einfach)",
+      "url": "https://open.spotify.com/track/7msmTNDbP3QWWuevPxcm48"
+    },
+    {
+      "album": {
         "name": "Blancafort, M.: Piano Music, Vol. 1 - Peces De Joventut / Cancons De Muntanya / Notes D'Antany",
         "url": "https://open.spotify.com/album/4v7qP5FKvpH4Ro1NwZwYtU"
       },
@@ -115,6 +134,32 @@
       "duration_ms": 172444,
       "name": "A Model of the Universe",
       "url": "https://open.spotify.com/track/5ay0cvjtVAbMLOe8gTadFh"
+    },
+    {
+      "album": {
+        "name": "This Is (Not) Beethoven",
+        "url": "https://open.spotify.com/album/2GV1ljxc2JbgX4RCLu89mb"
+      },
+      "artists": [
+        {
+          "name": "Arash Safaian",
+          "url": "https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme"
+        },
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Sebastian Knauer",
+          "url": "https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Adagietto",
+      "url": "https://open.spotify.com/track/3EO1jW8meUV5olvl3UTD6W"
     },
     {
       "album": {
@@ -240,7 +285,7 @@
     },
     {
       "album": {
-        "name": "Samuel Barber - Adagio (100th anniversary)",
+        "name": "Samuel Barber - Adagio",
         "url": "https://open.spotify.com/album/4zW79KZjDenZMLXSGU0Mqu"
       },
       "artists": [
@@ -261,7 +306,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 537426,
-      "name": "Barber: Adagio for Strings, Op. 11",
+      "name": "Barber: Adagio for Strings",
       "url": "https://open.spotify.com/track/1CSaCKPIp2yCIDL3t7Fyau"
     },
     {
@@ -340,6 +385,28 @@
     },
     {
       "album": {
+        "name": "Debussy, Ravel: Piano Music",
+        "url": "https://open.spotify.com/album/0RnAJzvGCJPn7igIlHGBsQ"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272133,
+      "name": "Deux Arabesques, L66: No. 1: Andantino con moto",
+      "url": "https://open.spotify.com/track/6VnSkysUFuLEayG0LIQlVF"
+    },
+    {
+      "album": {
         "name": "Kathryn Stott: The Complete Solo Recordings",
         "url": "https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP"
       },
@@ -355,7 +422,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 272133,
       "name": "Deux Arabesques, L66: No. 1: Andantino con moto",
       "url": "https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n"
@@ -381,6 +448,36 @@
       "duration_ms": 272133,
       "name": "Deux Arabesques: No. 1",
       "url": "https://open.spotify.com/track/3iGGRjfZXYoYqYxNEYYbBX"
+    },
+    {
+      "album": {
+        "name": "Dido and Aeneas, Z. 626: When I am Laid in Earth (Dido's Lament, Arr. for Cello & Orchestra by Julian Riem)",
+        "url": "https://open.spotify.com/album/0GhWpetiWHj4v024yNGOk4"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Lucerne Festival Strings",
+          "url": "https://open.spotify.com/artist/0sABleOLUMLgjJa6mpIaVc"
+        },
+        {
+          "name": "Daniel Dodds",
+          "url": "https://open.spotify.com/artist/6o63U8OvSH1UfxT7xEbnEY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "Dido and Aeneas, Z. 626: When I am Laid in Earth (Dido's Lament, Arr. for Cello & Orchestra by Julian Riem)",
+      "url": "https://open.spotify.com/track/1oIzHzXg7aurssuOVQ4Mlv"
     },
     {
       "album": {

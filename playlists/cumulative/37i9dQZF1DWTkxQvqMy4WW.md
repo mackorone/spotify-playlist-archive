@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-340 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/2tqcUzcMdvjapZUweh0oOM)
+340 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 | 2019-06-24 |  |
 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 | 2021-06-13 | 2022-07-29 |
 | [Put A Label On It](https://open.spotify.com/track/7oQ09pJGn75oy9MIvkINWi) | [Ryan Follese](https://open.spotify.com/artist/6KdRXEnkaZ5m5a6XcvWGP7) | [Ryan Follese](https://open.spotify.com/album/2XMnHhm9i5oLz59O7Pkuip) | 3:24 | 2019-06-21 | 2020-02-06 |
-| [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 | 2021-07-24 |  |
+| [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 | 2021-07-24 | 2022-12-08 |
 | [Rescue](https://open.spotify.com/track/3Ishl2jSDXSmdGwrBsMjfq) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Rescue](https://open.spotify.com/album/6poDTCrEwcyrdZ70Nb7gaF) | 3:36 | 2019-06-22 | 2022-04-18 |
 | [Ride \(feat\. Macy Maloy\)](https://open.spotify.com/track/1CoOHJAHtKEDnUBrp3nKAB) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Macy Maloy](https://open.spotify.com/artist/5JhkYX4FCP6FRmxrGEQoda) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/2d3Oldg5aHbR601FdNk6b0) | 4:01 | 2019-06-23 | 2020-02-06 |
 | [Right Girl Wrong Time](https://open.spotify.com/track/1ZzUE9vPvsVMCNu2e7OepO) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Right Girl Wrong Time](https://open.spotify.com/album/7rimqdFFxMEBQYjyiTAXHW) | 3:42 | 2019-06-25 | 2021-10-11 |
@@ -333,7 +333,7 @@
 | [Why Don't We Just Dance](https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Haywire](https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8) | 3:12 | 2019-08-09 |  |
 | [Wilder Days](https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/4DGpT3ZtTOumlxhbmw69DD) | 4:11 | 2022-05-13 | 2022-07-29 |
 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 | 2022-05-13 |  |
-| [With You I Am](https://open.spotify.com/track/34SQ0QfLSR316d8KL2zkuZ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Gotta Be Me](https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD) | 3:40 | 2019-06-21 | 2022-11-14 |
+| [With You I Am](https://open.spotify.com/track/34SQ0QfLSR316d8KL2zkuZ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Gotta Be Me](https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD) | 3:40 | 2019-06-21 |  |
 | [Woke Up in Nashville](https://open.spotify.com/track/6zdO7yfGMdFzEaSYDaZgNf) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [Mabelle \- EP](https://open.spotify.com/album/5Oit2yRIGTqTegzWYjPl5j) | 2:52 | 2019-06-23 | 2022-04-18 |
 | [Woman, Amen](https://open.spotify.com/track/3nBXOlFTADNvG9nkqy2O2W) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 2:59 | 2019-05-25\* | 2021-06-12 |
 | [Workin' on](https://open.spotify.com/track/5kSPD3rOo2hGYVwheIxpv8) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:44 | 2019-06-21 | 2019-06-27 |

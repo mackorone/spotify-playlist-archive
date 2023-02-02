@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
   "name": "Funk Rock",
-  "published_playlist_ids": [
-    "1KTxmWuvQtnOhdeEbvCNuK"
-  ],
   "tracks": [
     {
       "album": {
@@ -631,7 +628,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-28",
       "duration_ms": 217746,
       "name": "Gettin' Tighter",
       "url": "https://open.spotify.com/track/3R21LktdU3UAKYWGiD5Jr0"
@@ -1239,7 +1236,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-24",
       "duration_ms": 319066,
       "name": "Rain Will Fall",
       "url": "https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj"
@@ -1261,6 +1258,44 @@
       "duration_ms": 274160,
       "name": "Renegades Of Funk",
       "url": "https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA"
+    },
+    {
+      "album": {
+        "name": "Set It Free (Elemental Redux)",
+        "url": "https://open.spotify.com/album/5zGfsqhSPDMkS4OobZBDP2"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Trance Thompson",
+          "url": "https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Tym Brown",
+          "url": "https://open.spotify.com/artist/71IHpS532ibi6yHUWXSQjO"
+        },
+        {
+          "name": "Nataly Michelle Wright",
+          "url": "https://open.spotify.com/artist/4mUEBynRJ4zK9hQrH1cLWP"
+        },
+        {
+          "name": "Felicia Walker",
+          "url": "https://open.spotify.com/artist/3arGmiOACj527kRl3XiKUX"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277328,
+      "name": "Set It Free (Elemental Redux)",
+      "url": "https://open.spotify.com/track/52n8k5BoSwpUjDgONNiP2g"
     },
     {
       "album": {
@@ -1525,7 +1560,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 217133,
       "name": "Suck My Kiss",
       "url": "https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh"
@@ -1637,7 +1672,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 202888,
       "name": "The Drummer",
       "url": "https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG"
@@ -1883,7 +1918,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 264933,
       "name": "Vinnie",
       "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"

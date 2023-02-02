@@ -4,7 +4,7 @@
 
 > The best of Within Temptation, all in one playlist.
 
-65 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/4E0Qj5wQSFNjxWiSGuJSQN)
+65 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

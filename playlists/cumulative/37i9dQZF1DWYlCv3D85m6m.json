@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "One in a million! TWICE!",
+  "description": "One in a million! TWICE! MOONLIGHT SUNRISE is here!",
   "name": "This Is TWICE",
-  "published_playlist_ids": [
-    "5QvtyB5RVrIoS1lUVpkCdO"
-  ],
   "tracks": [
     {
       "album": {
@@ -293,6 +290,32 @@
       "duration_ms": 223666,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/1Wrn6btrungVsBjyViLnuY"
+    },
+    {
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd"
+      },
+      "artists": [
+        {
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/201LkKsQx7d0xFVRWOV4gQ"
+        },
+        {
+          "name": "SANA",
+          "url": "https://open.spotify.com/artist/4a4zvpQq5Phxr12Pu8Akmm"
+        },
+        {
+          "name": "MINA",
+          "url": "https://open.spotify.com/artist/2zymPkWVcSMIDZbecBNwqB"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264389,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ"
     },
     {
       "album": {
@@ -1841,6 +1864,24 @@
       "duration_ms": 219386,
       "name": "MOONLIGHT",
       "url": "https://open.spotify.com/track/1KlMpUN2kGjUHzotQ5KMiu"
+    },
+    {
+      "album": {
+        "name": "MOONLIGHT SUNRISE",
+        "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
     },
     {
       "album": {

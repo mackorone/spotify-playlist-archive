@@ -4,7 +4,7 @@
 
 > Get nostalgic with the golden age of pop punk.
 
-104 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/4iIg2MRFTgqXXHr5Sw52If)
+104 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [At Your Funeral](https://open.spotify.com/track/340FrzH0Ji2keVAlX2FJZ5) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Stay What You Are](https://open.spotify.com/album/39gFAYxTjxzx9FK57VpsRK) | 3:09 | 2022-03-22 | 2022-04-21 |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2019-11-02 |  |
 | [Be My Escape](https://open.spotify.com/track/5GhYfK0jevTEtXOaqCKCxw) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/2C94K2j4f1FKWwxogAcNuX) | 4:00 | 2019-11-02 | 2022-07-29 |
-| [Be My Escape](https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:00 | 2019-11-02 | 2022-11-14 |
+| [Be My Escape](https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:00 | 2019-11-02 | 2023-01-25 |
 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 | 2022-03-22 |  |
 | [Boxcar](https://open.spotify.com/track/43Jwg6NHpaYYJmGlPEdHol) | [Jawbreaker](https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV) | [24 Hour Revenge Therapy \(Remastered\)](https://open.spotify.com/album/3n1jTsW0E5gEsiftAFx3N6) | 1:55 | 2022-03-22 | 2022-04-21 |
 | [Check Yes, Juliet](https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB) | 3:40 | 2019-11-02 |  |

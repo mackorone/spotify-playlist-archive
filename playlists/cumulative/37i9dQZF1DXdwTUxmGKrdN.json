@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-01",
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
   "name": "Smooth Jazz",
-  "published_playlist_ids": [
-    "1s0nnW1GT4rUSPV8jIty04"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "11:58",
       "url": "https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii"
@@ -95,7 +92,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 247653,
       "name": "Adriatic Flow",
       "url": "https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW"
@@ -265,7 +262,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 247360,
       "name": "Be Without You",
       "url": "https://open.spotify.com/track/5JQbLxZhpnc1YvLTMKACzy"
@@ -449,7 +446,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 223473,
       "name": "Blues for Jeff",
       "url": "https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW"
@@ -507,6 +504,24 @@
       "duration_ms": 282546,
       "name": "Brazz Street",
       "url": "https://open.spotify.com/track/6ldCioYjj4oYp0hrvD3zFh"
+    },
+    {
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5"
+      },
+      "artists": [
+        {
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216129,
+      "name": "Business As Usual",
+      "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
       "album": {
@@ -711,6 +726,24 @@
     {
       "album": {
         "name": "Soul City",
+        "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236723,
+      "name": "Consequences",
+      "url": "https://open.spotify.com/track/2Iw7eGTRmSALk6toRy9tw6"
+    },
+    {
+      "album": {
+        "name": "Soul City",
         "url": "https://open.spotify.com/album/4wjBRmKPL5VVnLwEBZ0GtR"
       },
       "artists": [
@@ -779,7 +812,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 266717,
       "name": "Deep Blue C",
       "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
@@ -819,6 +852,24 @@
       "duration_ms": 228426,
       "name": "Driftin'",
       "url": "https://open.spotify.com/track/1HvNKIGfKzR5I26EuLXDwv"
+    },
+    {
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/0PSCIKNXpjCmTqUr76NdHx"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "Driftin'",
+      "url": "https://open.spotify.com/track/55lgoqbpgD5cdCfms3MEC2"
     },
     {
       "album": {
@@ -960,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/1TZQDK0Rq7yhnYRxcoguC6"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311359,
+      "name": "Everyone but You",
+      "url": "https://open.spotify.com/track/2Z1wkZW9po0fOwmWn92Z6N"
+    },
+    {
+      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
       },
@@ -1007,7 +1076,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 272342,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
@@ -1195,7 +1264,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 265875,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
@@ -1311,7 +1380,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 266145,
       "name": "Groovin' J",
       "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
@@ -1329,7 +1398,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": "2023-01-04",
       "duration_ms": 222747,
       "name": "Gypsy Soul",
       "url": "https://open.spotify.com/track/660TXK5WaAa1YZD2MIY64j"
@@ -1365,7 +1434,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 201866,
       "name": "Heading Wes",
       "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
@@ -1455,7 +1524,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 285500,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
@@ -1531,7 +1600,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-24",
       "duration_ms": 309981,
       "name": "Imagine (Living as One)",
       "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
@@ -1752,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299480,
+      "name": "I\u2019m All Ears",
+      "url": "https://open.spotify.com/track/6P41vUr7mSHjAxkmY844g6"
+    },
+    {
+      "album": {
         "name": "JJ's Strut (Radio Single)",
         "url": "https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN"
       },
@@ -1821,6 +1908,28 @@
       "duration_ms": 289200,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/53Z6wHAS1oohnCSgLGmaLc"
+    },
+    {
+      "album": {
+        "name": "Double Vision",
+        "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
+      },
+      "artists": [
+        {
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263493,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/7tCdAL3ojItRoN9Puv7ruc"
     },
     {
       "album": {
@@ -2001,10 +2110,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 246546,
       "name": "Let\u2019s Get Serious",
       "url": "https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm"
+    },
+    {
+      "album": {
+        "name": "Mike Phillips",
+        "url": "https://open.spotify.com/album/4FomqjIojtkML36UO4rW7W"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 122520,
+      "name": "Lift Every Voice And Sing",
+      "url": "https://open.spotify.com/track/2HvU1gv4A2GZ5v0m9MVkjS"
     },
     {
       "album": {
@@ -2223,7 +2350,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269106,
       "name": "Mr Kool",
       "url": "https://open.spotify.com/track/5svERXp8eoh8MydumgnC0J"
@@ -2259,7 +2386,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239949,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
@@ -2397,7 +2524,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 212613,
       "name": "Open Skies",
       "url": "https://open.spotify.com/track/0uuGRLt4ZeRI4JLIDw4oEo"
@@ -2647,7 +2774,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 289356,
       "name": "Romance The Rain",
       "url": "https://open.spotify.com/track/31w9FMhkYosHrqoHWB5BmW"
@@ -2683,7 +2810,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 215200,
       "name": "Round And Round",
       "url": "https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP"
@@ -2719,7 +2846,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": "2023-01-16",
       "duration_ms": 257933,
       "name": "Say What's on Your Mind",
       "url": "https://open.spotify.com/track/0JKzJAkRRdqrfT7qjkp9Bx"
@@ -2777,6 +2904,24 @@
       "duration_ms": 310280,
       "name": "Seventh Heaven (feat. Jeff Golub)",
       "url": "https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7"
+    },
+    {
+      "album": {
+        "name": "Shanghai Nights",
+        "url": "https://open.spotify.com/album/3rr05tslEzlSQsguPzgHTu"
+      },
+      "artists": [
+        {
+          "name": "Yen-J",
+          "url": "https://open.spotify.com/artist/2GzmpDXimCEph6SAw4YdNi"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 261419,
+      "name": "Shanghai Nights",
+      "url": "https://open.spotify.com/track/3z7mgnFZSAZ7njMmbrxQsX"
     },
     {
       "album": {
@@ -2889,6 +3034,24 @@
       "duration_ms": 313422,
       "name": "Sliver Moon",
       "url": "https://open.spotify.com/track/4IXhfpRsjaIocu1YOXSVpF"
+    },
+    {
+      "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247440,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
     },
     {
       "album": {
@@ -3019,7 +3182,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Soulfully",
       "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
@@ -3037,7 +3200,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 365000,
       "name": "Southern Style",
       "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
@@ -3073,7 +3236,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": "2022-12-24",
       "duration_ms": 289580,
       "name": "Static in the Attic",
       "url": "https://open.spotify.com/track/69cpqIccenZsg4tO3lYgrK"
@@ -3127,7 +3290,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 253053,
       "name": "Still Lovin' You",
       "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
@@ -3163,7 +3326,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 295156,
       "name": "Stockholm Summer",
       "url": "https://open.spotify.com/track/7nDChpaHBKx9ZCJmEcTdtX"
@@ -3199,7 +3362,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 223196,
       "name": "Stronger Now",
       "url": "https://open.spotify.com/track/1ldNcaMyLRYnRgYORskmlX"
@@ -3217,7 +3380,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "Stylin'",
       "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
@@ -3307,7 +3470,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 294500,
       "name": "Sweet Kisses",
       "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
@@ -3325,7 +3488,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-24",
       "duration_ms": 407640,
       "name": "Sweetest Somebody I Know",
       "url": "https://open.spotify.com/track/5eB67ISqWfSnL5JJ9nd9kK"
@@ -3347,7 +3510,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Swing City",
       "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
@@ -3517,7 +3680,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 226221,
       "name": "Tried and True",
       "url": "https://open.spotify.com/track/2vqG2hLwzZQhTQ3sNs8QY5"
@@ -3677,6 +3840,24 @@
       "duration_ms": 247333,
       "name": "Window of the Soul",
       "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
+    },
+    {
+      "album": {
+        "name": "Workin'",
+        "url": "https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np"
+      },
+      "artists": [
+        {
+          "name": "Jazz Holdouts",
+          "url": "https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246024,
+      "name": "Workin'",
+      "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
     },
     {
       "album": {

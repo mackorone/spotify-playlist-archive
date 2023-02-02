@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
   "name": "Guitarra Mexicana",
-  "published_playlist_ids": [
-    "7puZyd9Qd5VJbpPXwEk9KN"
-  ],
   "tracks": [
     {
       "album": {
@@ -511,7 +508,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": "2022-12-13",
       "duration_ms": 233000,
       "name": "Concierto de Mariachi - Morena de Mi Corazon",
       "url": "https://open.spotify.com/track/3QtDxwOY5Xyc26mXQfLViu"
@@ -854,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Hoy Como Ayer",
+        "url": "https://open.spotify.com/album/28NDhMP2u9FUfp7grF1LhM"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2021-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273666,
+      "name": "El Sol Avenue",
+      "url": "https://open.spotify.com/track/4b2nHQaYdBp61I4stPq1s4"
+    },
+    {
+      "album": {
         "name": "Antonio Bribiesca y Su Guitarra Mexicana",
         "url": "https://open.spotify.com/album/0PrKgLLkGWAgYCumkduODV"
       },
@@ -941,7 +956,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 328773,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4"
@@ -1125,7 +1140,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-02-01",
       "duration_ms": 151786,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/1w3PYey5h6WBp4Y8W3e3vM"
@@ -1217,9 +1232,9 @@
           "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
         }
       ],
-      "date_added": "2022-01-12",
+      "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": "2023-02-01",
       "duration_ms": 164680,
       "name": "Janitzio",
       "url": "https://open.spotify.com/track/1CUdNGeXI2ghgepbG9lMAX"
@@ -2057,7 +2072,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-03",
       "duration_ms": 251186,
       "name": "Mi Ciudad (Remasterizado)",
       "url": "https://open.spotify.com/track/69CRO9ofTkrgFUg2CKX8oR"
@@ -2169,7 +2184,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 193693,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/4ZQ1Y56dqtHDiank1MPOac"
@@ -2641,7 +2656,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": "2022-12-16",
       "duration_ms": 285066,
       "name": "Popurri de la Revolucion: Cielito Lindo / La Valentina / La Adelita / La Rielera",
       "url": "https://open.spotify.com/track/4nT54TLQMAjnpBwg1uDwfF"
@@ -2735,7 +2750,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 190000,
       "name": "Que Bonita Es Mi Tierra",
       "url": "https://open.spotify.com/track/1duK1uz8Fpk3GG6gdXiXt2"
@@ -2819,7 +2834,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-24",
       "duration_ms": 185440,
       "name": "Rayando el Sol",
       "url": "https://open.spotify.com/track/0hJj2ViFEzsH0Sh1x2WAUv"
@@ -3315,7 +3330,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-02",
       "duration_ms": 154333,
       "name": "Vereda Tropical",
       "url": "https://open.spotify.com/track/6zgD5Rkg3ysiGcmVYYHfGt"

@@ -4,7 +4,7 @@
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-122 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/7w8GJPrdmj1YWELU4DdBN4)
+122 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Solar](https://open.spotify.com/track/0AduWgUPoSsKHMzhHKzqkn) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Question and Answer](https://open.spotify.com/album/1kM7n3aiIKwS4FZqWLLdLv) | 8:25 | 2022-05-24 | 2022-08-20 |
 | [Sookie Sookie \- Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000](https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Ray Blair](https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1) | [Alive! \(Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000\)](https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6) | 10:58 | 2022-05-24 |  |
 | [Soul Lament \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 2:43 | 2022-08-17 |  |
-| [Spiritual](https://open.spotify.com/track/44BzwIxfRRzOJOe97DLnvx) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missouri Sky](https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY) | 8:22 | 2022-08-19 | 2022-11-25 |
+| [Spiritual](https://open.spotify.com/track/44BzwIxfRRzOJOe97DLnvx) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missouri Sky](https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY) | 8:22 | 2022-08-19 | 2023-01-26 |
 | [Stairway To The Stars](https://open.spotify.com/track/4qW1WqsyYBi0mPjhzP2XpN) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:41 | 2022-08-19 |  |
 | [Stella By Starlight](https://open.spotify.com/track/2JOrpYKz1F2h6l2KpbUGUF) | [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Joachim Schoenecker](https://open.spotify.com/artist/6PQjUcMKCXXV4oQpeZLFTa) | [Dialogues](https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG) | 6:11 | 2022-05-24 |  |
 | [Straight No Chaser](https://open.spotify.com/track/0v9zEA8dCjkNja4l75w6NE) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Standards \[And Other Songs\]](https://open.spotify.com/album/1DNCkNNowfEz9towiU2PDo) | 5:24 | 2022-05-24 | 2022-07-29 |

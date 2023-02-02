@@ -4,7 +4,7 @@
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-85 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/1ISc2kghgLSBOppDcYOI8f)
+87 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bovad Aya](https://open.spotify.com/track/2nTy5M1GKRX5zTpfCnRFGp) | [Golnoosh Salehi](https://open.spotify.com/artist/69mQGJ4oQ4Ik6KBYpUhZmb) | [First of July](https://open.spotify.com/album/0AtmTIJmTgi5d8SEtT6rVg) | 5:27 | 2021-02-15 | 2022-07-29 |
 | [Bovad Aya](https://open.spotify.com/track/3ejtsUvCZzSNAusYt476lM) | [Golnoosh salehi](https://open.spotify.com/artist/7gi9wcNqidI9zivuE4IEXF), [Soheil Mokhberi](https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm), [Sattar Khatabi](https://open.spotify.com/artist/34wwisNKAfgq1WV7viNxwF), [Harutyun Chkolyan](https://open.spotify.com/artist/2dH83EIglzV1rQ20DrbEEq) | [First Of July](https://open.spotify.com/album/1Qf7zshPNYsgJmTOcJzT7v) | 5:28 | 2021-02-15 |  |
 | [Breeze \- Live at the Heydar Aliyev Center](https://open.spotify.com/track/6nwo9EXJ2mz67Ktl5tQTZh) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Breeze \(Live at the Heydar Aliyev Center\)](https://open.spotify.com/album/52OnlMGe9oqZ8i7RvuwzRr) | 4:55 | 2021-02-15 |  |
-| [Can You Think a Solution?](https://open.spotify.com/track/7kVuOdiC2BH8IxzHaWf1Ea) | [Rasool Poursangari](https://open.spotify.com/artist/0NWX3Qjs9lAXo3dpuB2mlz) | [The Landscapes That Escape the Frame](https://open.spotify.com/album/7HRySZGFrRZzm6g0IXnus9) | 3:14 | 2021-02-15 |  |
+| [Can You Think a Solution?](https://open.spotify.com/track/7kVuOdiC2BH8IxzHaWf1Ea) | [Rasool Poursangari](https://open.spotify.com/artist/0NWX3Qjs9lAXo3dpuB2mlz) | [The Landscapes That Escape the Frame](https://open.spotify.com/album/7HRySZGFrRZzm6g0IXnus9) | 3:14 | 2021-02-15 | 2022-12-13 |
 | [Dance Layan Dance](https://open.spotify.com/track/0XunFJIsl3MVDjikiekSJo) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Dance Layan Dance](https://open.spotify.com/album/0Ry9xPX8V0oG3IXcJgmayP) | 4:36 | 2021-02-15 | 2022-11-13 |
 | [Dance Layan Dance](https://open.spotify.com/track/0xdMKddaAH6WyK4JYjnqTk) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds Of Mirrors](https://open.spotify.com/album/4RgbDDGwmTiA8ypNDSoEc6) | 4:36 | 2021-02-15 | 2022-07-29 |
 | [Dance Layan Dance](https://open.spotify.com/track/2YMpjElPsH8VfYhTLtCauC) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds of Mirrors](https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg) | 4:36 | 2021-02-15 |  |
@@ -37,7 +37,7 @@
 | [First Gāh](https://open.spotify.com/track/2v6wZhaijSRK8fRpBhVfHa) | [Yasamin Shahhosseini](https://open.spotify.com/artist/5zflvLbYdud5Isb6hFLFWl) | [Gāhān](https://open.spotify.com/album/1dQrbLuCi32Zg6IxURIOrY) | 8:00 | 2021-02-15 |  |
 | [Gypsy \(Kouli\), Oud](https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi) | [Hamed Nikpay](https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy) | [Solo Passage \(Gozar\)](https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ) | 3:24 | 2021-02-15 |  |
 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 | 2021-02-15 |  |
-| [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 | 2021-02-15 |  |
+| [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 | 2021-02-15 | 2022-12-13 |
 | [Hobâb](https://open.spotify.com/track/5JfJrjh3nd5eOjFjPfV0c4) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP) | [Under the Cutting Blade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02uXTvfYgCLdSin8tVPPKO) | 3:44 | 2021-02-15 | 2022-10-28 |
 | [Humankind](https://open.spotify.com/track/3urHsuSN1wtFkqnRZskBev) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds of Mirrors](https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg) | 7:17 | 2021-02-15 |  |
 | [Humankind](https://open.spotify.com/track/5XDv3KLoBQ5MnAYzsIiH2J) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx) | [Sounds Of Mirrors](https://open.spotify.com/album/4RgbDDGwmTiA8ypNDSoEc6) | 7:17 | 2021-02-15 | 2022-07-29 |
@@ -93,5 +93,7 @@
 | [The Semuta Jig](https://open.spotify.com/track/4VoptqwF5p1nF5jRaLQH9m) | [Nava](https://open.spotify.com/artist/15QJPcEqdD3lc6zDhMOljR) | [Tapestry](https://open.spotify.com/album/3VzmfQJ0iuFxHC1T3AJ35N) | 5:13 | 2021-02-15 |  |
 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 | 2021-02-15 |  |
 | [Yekeshish](https://open.spotify.com/track/2LSfFO6kZSGP6JxsPoQjrF) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP), [Ali Jafari Pouyan](https://open.spotify.com/artist/682NaUT4NTC5vkaFhZAZRq), [Behnood Yakhchali](https://open.spotify.com/artist/4yILBBJa570shWHY2IZ2Du) | [Yekeshish](https://open.spotify.com/album/1DuTPc3UotnGJ8M8q1fRsA) | 7:23 | 2021-02-15 |  |
+| [داري يا قلبي](https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [نمرة لاونج](https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2) | 4:54 | 2022-12-12 |  |
+| [فاضي شوية](https://open.spotify.com/track/1fHh30pe4YAacqOI3vKQWW) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [نمرة لاونج](https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2) | 4:09 | 2022-12-12 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

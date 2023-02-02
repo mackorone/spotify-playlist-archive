@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-125 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/2OfGSsRQrmUhNpqr9RXiRv)
+125 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Chill tunes for mellow moods.",
   "name": "Mellow Mood",
-  "published_playlist_ids": [
-    "4a7mOEM21JMUcPPs8ypWdX"
-  ],
   "tracks": [
     {
       "album": {
@@ -155,6 +152,24 @@
     {
       "album": {
         "name": "Ayahuasca",
+        "url": "https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508601,
+      "name": "Ayahuasca",
+      "url": "https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv"
+    },
+    {
+      "album": {
+        "name": "Ayahuasca",
         "url": "https://open.spotify.com/album/241mYCg9mXZXgfTAlTsktH"
       },
       "artists": [
@@ -165,7 +180,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 508601,
       "name": "Ayahuasca",
       "url": "https://open.spotify.com/track/6oVm5ocTB8B0rjO5dZk8Px"
@@ -349,7 +364,7 @@
       ],
       "date_added": "2019-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-06",
       "duration_ms": 208200,
       "name": "CARE",
       "url": "https://open.spotify.com/track/3VAdf6BXxTA7EpkaMvLxG4"
@@ -483,7 +498,7 @@
       ],
       "date_added": "2019-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 198958,
       "name": "Echo Park",
       "url": "https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0"
@@ -584,6 +599,28 @@
     },
     {
       "album": {
+        "name": "Woodstock (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194434,
+      "name": "Feel It Still - Medasin Remix",
+      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
+    },
+    {
+      "album": {
         "name": "Feel It Still (The Remixes)",
         "url": "https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1"
       },
@@ -599,7 +636,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C"
@@ -1127,10 +1164,32 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 157524,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
+    },
+    {
+      "album": {
+        "name": "Theres Still Us",
+        "url": "https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        },
+        {
+          "name": "Shiloh",
+          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157384,
+      "name": "I'm sorry",
+      "url": "https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd"
     },
     {
       "album": {
@@ -1482,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Never Meant to Call",
+        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Never Meant To Call",
+      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
+    },
+    {
+      "album": {
         "name": "Never Meant To Call",
         "url": "https://open.spotify.com/album/3TZUFqDwQsrmzY5d7cXYdy"
       },
@@ -1547,7 +1624,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 254010,
       "name": "Nylon",
       "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
@@ -1684,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
+        "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
+      },
+      "artists": [
+        {
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
+    },
+    {
+      "album": {
         "name": "Surf",
         "url": "https://open.spotify.com/album/6V91Y8wm7R34YiFIfozLqa"
       },
@@ -1713,7 +1808,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 175412,
       "name": "Surf",
       "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
@@ -1785,7 +1880,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-03",
       "duration_ms": 357894,
       "name": "They Came Along",
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
@@ -1807,7 +1902,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 174000,
       "name": "Think Like I Do",
       "url": "https://open.spotify.com/track/2qjwe0mMqOne5HVFrpvdM8"
@@ -2169,7 +2264,7 @@
     {
       "album": {
         "name": "Small Clan",
-        "url": "https://open.spotify.com/album/4KxYum9GpJC5SweO143o6K"
+        "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
       "artists": [
         {
@@ -2180,6 +2275,24 @@
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232312,
+      "name": "Yellow Dust",
+      "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
+    },
+    {
+      "album": {
+        "name": "Small Clan",
+        "url": "https://open.spotify.com/album/4KxYum9GpJC5SweO143o6K"
+      },
+      "artists": [
+        {
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/2qyY0gUp1hpDjVQlDshWWX"

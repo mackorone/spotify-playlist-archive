@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,408 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,857 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 21 | [Girls Like Us](https://open.spotify.com/track/2kORFfHwy7w4a24WHrOb7b) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/1C5RzkueJX7bh2ZrzpA2fa) | [Girls Like Us](https://open.spotify.com/album/2Z7K9KQn69qXxXIIglNYlg) | 3:07 |
 | 22 | [See You There](https://open.spotify.com/track/05ZL7014sMgCT8M4D05TDa) | [TiDUS](https://open.spotify.com/artist/7IxX7YZFKExg98w2dxgsXj) | [See You There](https://open.spotify.com/album/2MlBeY3XdDK17lj7mJWfzU) | 4:32 |
 | 23 | [Leap](https://open.spotify.com/track/5uJxjqSehYT3ZutreHtc0z) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 4:49 |
-| 24 | [Memories](https://open.spotify.com/track/60n0uavWtFl3XMK7TzefB4) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [Memories](https://open.spotify.com/album/0l1cQuO8xp4OvoUtjkBCZN) | 3:47 |
+| 24 | [Memories](https://open.spotify.com/track/0H9aeVlzhelT1pjZW4aebD) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [Memories Over Money](https://open.spotify.com/album/4vFmGMlqvicwm7LoKaemMq) | 3:47 |
 | 25 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 |
 | 26 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
 | 27 | [For Me](https://open.spotify.com/track/4O2I4UYYjPnsBE1EWmDUFO) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Soulection Black Label: Devin Tracy](https://open.spotify.com/album/61LtXSZFP4kSB776PrPcoP) | 3:25 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 35 | [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 |
 | 36 | [The Universe Wakes Up](https://open.spotify.com/track/2zaHxMIRqvNZlpXNDuCA7i) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Trust In The Lifeforce Of The Deep Mystery](https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK) | 5:25 |
 | 37 | [Magic \(feat\. Bandokay & Double Lz\)](https://open.spotify.com/track/0YhJO6feKxyGjwVo5NSXPD) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Magic \(feat\. Bandokay & Double Lz\)](https://open.spotify.com/album/2VZCTJ1tjALGYfT6IjdSVZ) | 2:33 |
-| 38 | [Square 1](https://open.spotify.com/track/0ea9086ldqbhDObsvpmUqF) | [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Square 1](https://open.spotify.com/album/3ktedcz4DO9wfB2Kb4xReb) | 3:33 |
+| 38 | [Square 1](https://open.spotify.com/track/2W84dAf6uRUEdLN1YkQ4gg) | [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Mmm Mmm / Square 1](https://open.spotify.com/album/3m9vBldCC2uiLx03aTkBto) | 3:33 |
 | 39 | [Sirens' Song](https://open.spotify.com/track/2BLaXRuwTwMN4mT4Dn4jDw) | [Elizabeth Maconchy](https://open.spotify.com/artist/6vsthml7w1AetwgOAg5ZKn), [The Ionian Singers](https://open.spotify.com/artist/62huOMu7A2I2r7rl5FkMno) | [20th Century British Choral Music](https://open.spotify.com/album/1lHTzkILsaV2tx7pSuphXv) | 4:34 |
 | 40 | [Rapper](https://open.spotify.com/track/4zJbxanDbuZZMm6nippyZF) | [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd) | [Rapper](https://open.spotify.com/album/37kfY11NNLsthYl2NU0vfO) | 2:53 |
-| 41 | [Her Winter](https://open.spotify.com/track/2xGBD7Bn0zsCBJvpuo9W1w) | [Melo\-Zed](https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv) | [Eleven](https://open.spotify.com/album/6rDsE9m1fJqtfgJmbp91bc) | 3:40 |
+| 41 | [Her Winter](https://open.spotify.com/track/1UEpN7Ns4F4sRgmuZeF9hx) | [Melo\-Zed](https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv) | [Eleven](https://open.spotify.com/album/17WoKlxY15L7vUuwplGgSn) | 3:40 |
 | 42 | [Intro](https://open.spotify.com/track/6ON4NaWALq7H4ezSyE3RnV) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Underwater](https://open.spotify.com/album/0KVPTGdsC0QkJEYOsork9Y) | 1:44 |
 | 43 | [Suite III Overture](https://open.spotify.com/track/4M1sI8PeQsSDQJWQXtDzWV) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The ArchAndroid](https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX) | 1:41 |
 | 44 | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS) | 3:43 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 70 | [Tic Toc](https://open.spotify.com/track/5QcXxgS180PribkZXEyAOC) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Janelle Wynter](https://open.spotify.com/artist/75eWIFnC0plYZ2bS7eGOFI) | [IRON CURTAIN GOLDEN PUSSY](https://open.spotify.com/album/0pSlVrU1Sdci8xBwGKO1BO) | 2:54 |
 | 71 | [ORA CHE FAI?](https://open.spotify.com/track/3ibnXjXTxiQQVJsoCffeo3) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 2:10 |
 | 72 | [Punk Champagne](https://open.spotify.com/track/3qMtWzB5qa4HdWm74ynLQu) | [Farai](https://open.spotify.com/artist/4BNLdtYbLEvnnFntN22bPL), [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei) | [Rebirth](https://open.spotify.com/album/527FeAIqpdQ9TB0c4B8Esu) | 3:23 |
-| 73 | [Out of sight \(yhyh\)](https://open.spotify.com/track/0CJgUhLHQuzHQnegA77DPr) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 4:31 |
+| 73 | [Out of sight \(yhyh\)](https://open.spotify.com/track/06O9C9qkFu8p1502wikEPb) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 4:31 |
 | 74 | [Shesha](https://open.spotify.com/track/5TFJIUlWmQfJZCWVUcBX00) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [Shesha](https://open.spotify.com/album/6nkasAeJIl2VSGNQvoMQf5) | 6:43 |
 | 75 | [Vene](https://open.spotify.com/track/206f90xtTsjBqhzc6RwL90) | [G Pillola](https://open.spotify.com/artist/0sPRACMUPse4aZ8umTvLw7) | [Ciao belli](https://open.spotify.com/album/0zuikU98237Glp0PZg0y0K) | 3:01 |
 | 76 | [The Egg](https://open.spotify.com/track/6bAa1rz1a9t3SKLkos8gG9) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [Kurzgesagt, Vol\. 6 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6FAs3MjcH9G8N23Q57VqQu) | 7:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 79 | [About Her](https://open.spotify.com/track/7iQDsonHSnaT6hNBJUaRe9) | [Phazz](https://open.spotify.com/artist/0kjZvGERXMvPFSs6DB5UFF) | [About Her](https://open.spotify.com/album/2oPrc4DfMZTI1Bh2ZrSgfF) | 3:31 |
 | 80 | [Dreaming About You](https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 5:52 |
 
-Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMDA4MDQ5NTVhOTMxN2RiMjQyZTMxYzdhNjc3MmY4NDJh`
+Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMGM3MGQ0NGZjYmY0ZGUwN2VmNjI2NmEyMGU0YmI5NWZk`

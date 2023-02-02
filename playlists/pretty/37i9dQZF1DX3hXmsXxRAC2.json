@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 306745,
+  "num_followers": 309346,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDJiODNlYTg0ZmQ1YWMyNzNjMTFjMTM5YzBjODRiODVj",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDc0MWU5MjhkM2NkNzZhZDBmNjg4NWM3ZjU3YmRhODM3",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Perd\u00f3name Mi Amor",
-        "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 215882,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Perd\u00f3name Mi Amor",
+        "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -107,18 +107,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 222333,
-      "name": "Se Me Olvid\u00f3 Otra Vez - Unplugged",
-      "url": "https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv"
+      "duration_ms": 168000,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/4MWma3oh4U6javb4kGF1jx"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -151,6 +151,38 @@
       "duration_ms": 271226,
       "name": "Luna",
       "url": "https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "Se Me Olvid\u00f3 Otra Vez - Unplugged",
+      "url": "https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Iconos",
+        "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 274680,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/4gTxKZH5RERMhX9H8EnPAX"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -195,38 +227,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/4MWma3oh4U6javb4kGF1jx"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Iconos",
-        "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 274680,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/4gTxKZH5RERMhX9H8EnPAX"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 484706,
       "name": "Popurr\u00ed Juan Gabriel - En Vivo",
       "url": "https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 237740,
+      "name": "Inocente Pobre Amiga",
+      "url": "https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -259,18 +275,50 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
       "artists": [
         {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 237740,
-      "name": "Inocente Pobre Amiga",
-      "url": "https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV"
+      "duration_ms": 280146,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "En Extasis",
+        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Gracias A Dios",
+      "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 408506,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -315,38 +363,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 408506,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "En Extasis",
-        "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Gracias A Dios",
-      "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
@@ -354,27 +370,15 @@
         {
           "name": "Natalia Jim\u00e9nez",
           "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 278800,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
+        },
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 280146,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
+      "duration_ms": 231560,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/4NU4aMYuFTv9xTizymCKek"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -391,26 +395,6 @@
       "duration_ms": 218120,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Los D\u00fao (Deluxe)",
-        "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 374106,
-      "name": "Ya No Vivo Por Vivir",
-      "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
+      "duration_ms": 135733,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -483,6 +467,42 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Los D\u00fao (Deluxe)",
+        "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 374106,
+      "name": "Ya No Vivo Por Vivir",
+      "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 284665,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
@@ -490,15 +510,11 @@
         {
           "name": "Natalia Jim\u00e9nez",
           "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/4NU4aMYuFTv9xTizymCKek"
+      "duration_ms": 278800,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/2rPmMvb83a5GaLFGcMFoBw"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -564,25 +580,9 @@
           "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 135733,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 284665,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM"
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -599,6 +599,22 @@
       "duration_ms": 254986,
       "name": "He Venido a Pedirte Perd\u00f3n",
       "url": "https://open.spotify.com/track/7IjVM9hrpMF7Qrn15ZJYxN"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 273453,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -635,54 +651,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 273453,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Mis \u00cdntimas Razones",
-        "url": "https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Un Alma en Pena",
-      "url": "https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Las Rancheras De Juan Gabriel",
-        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "15 Exitos De Oro",
         "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 251666,
       "name": "Lo Pasado, Pasado",
       "url": "https://open.spotify.com/track/1HYPtBNR4kXNqBo3wfpW27"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Canta Once Grandes Exitos De Juan Gabriel",
+        "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -719,50 +703,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+        "name": "Mis \u00cdntimas Razones",
+        "url": "https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr"
       },
       "artists": [
         {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
         }
       ],
-      "duration_ms": 272466,
-      "name": "Amor de un Rato",
-      "url": "https://open.spotify.com/track/2ZmLc6EVSWKBMNQZTeqBVQ"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 333115,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4DKrfqRJPORFWSPOzV7peB"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
+      "duration_ms": 220706,
+      "name": "Un Alma en Pena",
+      "url": "https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -783,8 +735,24 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Canta Once Grandes Exitos De Juan Gabriel",
-        "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Amor de un Rato",
+      "url": "https://open.spotify.com/track/2ZmLc6EVSWKBMNQZTeqBVQ"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Las Rancheras De Juan Gabriel",
+        "url": "https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU"
       },
       "artists": [
         {
@@ -792,9 +760,25 @@
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 212760,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u"
+      "duration_ms": 180320,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 333115,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4DKrfqRJPORFWSPOzV7peB"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -808,25 +792,25 @@
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 224480,
-      "name": "Ya Lo S\u00e9 Que Tu Te Vas",
-      "url": "https://open.spotify.com/track/6br5jCk7DvwwHSApUzSURM"
+      "duration_ms": 154739,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
     },
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF"
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -847,22 +831,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Con Amor Eterno",
-        "url": "https://open.spotify.com/album/3pBSsHUrvLhFjEopqGFCM4"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Nadie Baila Como T\u00fa/El Noa Noa - Medley",
-      "url": "https://open.spotify.com/track/6eoS8IKUmz1MBSimwCMWYP"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Costumbres",
         "url": "https://open.spotify.com/album/6J2K7NA4m8O3NuaFYpeFWz"
       },
@@ -879,18 +847,34 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "En Vivo Desde El R\u00edo Nilo",
-        "url": "https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt"
+        "name": "Con Amor Eterno",
+        "url": "https://open.spotify.com/album/3pBSsHUrvLhFjEopqGFCM4"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
         }
       ],
-      "duration_ms": 163133,
-      "name": "Te Sigo Amando - En Vivo",
-      "url": "https://open.spotify.com/track/6wYjK1VnoNKRszV9YFTC0D"
+      "duration_ms": 253533,
+      "name": "Nadie Baila Como T\u00fa/El Noa Noa - Medley",
+      "url": "https://open.spotify.com/track/6eoS8IKUmz1MBSimwCMWYP"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -915,18 +899,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Lucia Mendez Canta Un Homenaje A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0kumbFfu0fr0061adl4kFR"
+        "name": "En Vivo Desde El R\u00edo Nilo",
+        "url": "https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt"
       },
       "artists": [
         {
-          "name": "Luc\u00eda M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 201653,
-      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
-      "url": "https://open.spotify.com/track/1rF8VGIeSE4EGNuTCajFUr"
+      "duration_ms": 163133,
+      "name": "Te Sigo Amando - En Vivo",
+      "url": "https://open.spotify.com/track/6wYjK1VnoNKRszV9YFTC0D"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -943,6 +927,38 @@
       "duration_ms": 303001,
       "name": "As\u00ed fue",
       "url": "https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Lucia Mendez Canta Un Homenaje A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0kumbFfu0fr0061adl4kFR"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
+      "url": "https://open.spotify.com/track/1rF8VGIeSE4EGNuTCajFUr"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "No Hay Mujeres Feas",
+        "url": "https://open.spotify.com/album/16MRHu1XrPSBuoZ7f0wxeC"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "No Me Vuelvo A Enamorar",
+      "url": "https://open.spotify.com/track/2KgbsDLZt3TllBRtFCwrx2"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -979,54 +995,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Songbook 3 El Amor Es Vida",
-        "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
       },
       "artists": [
         {
-          "name": "Alexandra Gravas",
-          "url": "https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 360823,
-      "name": "Amor eterno",
-      "url": "https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "En Acustico",
-        "url": "https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 319306,
-      "name": "Debo Hacerlo / Caray / Querida / Me Nace del Coraz\u00f3n (Popurri Juan Gabriel)",
-      "url": "https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "No Hay Mujeres Feas",
-        "url": "https://open.spotify.com/album/16MRHu1XrPSBuoZ7f0wxeC"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "No Me Vuelvo A Enamorar",
-      "url": "https://open.spotify.com/track/2KgbsDLZt3TllBRtFCwrx2"
+      "duration_ms": 328018,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1047,38 +1027,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "No Discutamos",
-        "url": "https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Interpretan \u00c9xitos De Juan Gabriel",
-        "url": "https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Dejame Vivir",
-      "url": "https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Amor Eterno al Divo / Tributo de Rock",
         "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
@@ -1091,22 +1039,6 @@
       "duration_ms": 280080,
       "name": "Noa Noa",
       "url": "https://open.spotify.com/track/74b6K0AZr4tNKeA3gab9UU"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Amar y Querer (Homenaje a Las Grandes Canciones)",
-        "url": "https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1127,34 +1059,34 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Mi Tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+        "name": "Amar y Querer (Homenaje a Las Grandes Canciones)",
+        "url": "https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
       ],
-      "duration_ms": 284306,
-      "name": "Con Tu Amor",
-      "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
+      "duration_ms": 261773,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB"
     },
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
+        "name": "No Discutamos",
+        "url": "https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f"
       },
       "artists": [
         {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 328018,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
+      "duration_ms": 220133,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1191,6 +1123,38 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "En Acustico",
+        "url": "https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 319306,
+      "name": "Debo Hacerlo / Caray / Querida / Me Nace del Coraz\u00f3n (Popurri Juan Gabriel)",
+      "url": "https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Interpretan \u00c9xitos De Juan Gabriel",
+        "url": "https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Dejame Vivir",
+      "url": "https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
@@ -1203,6 +1167,22 @@
       "duration_ms": 193733,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Mi Tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 284306,
+      "name": "Con Tu Amor",
+      "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1239,22 +1219,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Las Caras Lindas",
-        "url": "https://open.spotify.com/album/5nvczVKzNf2cqvpL2BNNfr"
-      },
-      "artists": [
-        {
-          "name": "Flor de Toloache",
-          "url": "https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD"
-        }
-      ],
-      "duration_ms": 299035,
-      "name": "Juan Ga: Se Me Olvid\u00f3 Otra Vez / Costumbres / Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/0M2uDMzj1fL1qhPposUjYF"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
       },
@@ -1283,6 +1247,38 @@
       "duration_ms": 254693,
       "name": "Quiz\u00e1s Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7M1iJDm9sewaakBFcMHlT4"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Las Caras Lindas",
+        "url": "https://open.spotify.com/album/5nvczVKzNf2cqvpL2BNNfr"
+      },
+      "artists": [
+        {
+          "name": "Flor de Toloache",
+          "url": "https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD"
+        }
+      ],
+      "duration_ms": 299035,
+      "name": "Juan Ga: Se Me Olvid\u00f3 Otra Vez / Costumbres / Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/0M2uDMzj1fL1qhPposUjYF"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Querida",
+        "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
+      },
+      "artists": [
+        {
+          "name": "Donata Antoni",
+          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
+        }
+      ],
+      "duration_ms": 193670,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1319,6 +1315,22 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/3cdugu4Mc43gx5wNiFvHyX"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 266217,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "Amor Eterno al Divo / Tributo de Rock",
         "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
@@ -1335,18 +1347,38 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/3cdugu4Mc43gx5wNiFvHyX"
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
       "artists": [
         {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+          "name": "Yolanda Del Rio",
+          "url": "https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC"
         }
       ],
-      "duration_ms": 266217,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR"
+      "duration_ms": 179000,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Songbook 3 El Amor Es Vida",
+        "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Gravas",
+          "url": "https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 360823,
+      "name": "Amor eterno",
+      "url": "https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1376,22 +1408,6 @@
       },
       "artists": [
         {
-          "name": "Yolanda Del Rio",
-          "url": "https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
           "name": "Kalimba",
           "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
@@ -1403,38 +1419,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "El Noa Noa",
-        "url": "https://open.spotify.com/album/5s0gfLof0X7EZcRGCmKOVp"
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
       },
       "artists": [
         {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
         }
       ],
-      "duration_ms": 219426,
-      "name": "El Noa Noa",
-      "url": "https://open.spotify.com/track/6zK5tOGHpOmkYwf28ur9oU"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Querida",
-        "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
-      },
-      "artists": [
-        {
-          "name": "Donata Antoni",
-          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
-        }
-      ],
-      "duration_ms": 193670,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
+      "duration_ms": 175359,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1459,22 +1455,22 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
+        "name": "El Noa Noa",
+        "url": "https://open.spotify.com/album/5s0gfLof0X7EZcRGCmKOVp"
       },
       "artists": [
         {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
         },
         {
-          "name": "Emily Bautista",
-          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 179013,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
+      "duration_ms": 219426,
+      "name": "El Noa Noa",
+      "url": "https://open.spotify.com/track/6zK5tOGHpOmkYwf28ur9oU"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1531,8 +1527,8 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Canciones del recuerdo",
-        "url": "https://open.spotify.com/album/3LEcMOWXz3F4g5tbwDmDrv"
+        "name": "Sensibilidad",
+        "url": "https://open.spotify.com/album/4mdlun9NX07tuIjGKPZQhL"
       },
       "artists": [
         {
@@ -1541,24 +1537,8 @@
         }
       ],
       "duration_ms": 205985,
-      "name": "Yo no naci para amar",
-      "url": "https://open.spotify.com/track/44mndjmp2c7ieMN7eSB5r9"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
-      },
-      "artists": [
-        {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        }
-      ],
-      "duration_ms": 175359,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
+      "name": "Yo no nac\u00ed para amar",
+      "url": "https://open.spotify.com/track/3CUh3kQB11EP4ST9gZnAaU"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1575,6 +1555,26 @@
       "duration_ms": 253253,
       "name": "He Venido a Pedirte Perd\u00f3n",
       "url": "https://open.spotify.com/track/6zU1FdmZvPbPIDx5w2WyhK"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        },
+        {
+          "name": "Emily Bautista",
+          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1604,9 +1604,9 @@
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 154739,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
+      "duration_ms": 224480,
+      "name": "Ya Lo S\u00e9 Que Tu Te Vas",
+      "url": "https://open.spotify.com/track/6br5jCk7DvwwHSApUzSURM"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1627,8 +1627,8 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Canta Once Grandes Exitos De Juan Gabriel",
-        "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/7hmSedqLVW3pMXzRPSbJfM"
       },
       "artists": [
         {
@@ -1636,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 156400,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH"
+      "duration_ms": 193040,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6iU3Z1hIEXctO1xm3JQzfZ"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1659,8 +1659,8 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/7hmSedqLVW3pMXzRPSbJfM"
+        "name": "Canta Once Grandes Exitos De Juan Gabriel",
+        "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
       },
       "artists": [
         {
@@ -1668,9 +1668,9 @@
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 193040,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6iU3Z1hIEXctO1xm3JQzfZ"
+      "duration_ms": 156400,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH"
     }
   ],
   "unique_name": "Cancionero Juan Gabriel",

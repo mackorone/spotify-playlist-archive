@@ -4,7 +4,7 @@
 
 > Enjoy the JTBC drama 'Forecasting Love and Weather' OSTs in a different way with the special contents\. You can watch this drama on Netflix as well\. \(JTBC 드라마 '기상청 사람들'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. 넷플릭스에서도 기상청 사람들을 감상하실 수 있습니다.\)
 
-22 songs - 1 hr 9 min - [published](https://open.spotify.com/playlist/0hEPVRSKnsZRCRR0vDkasT)
+22 songs - 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

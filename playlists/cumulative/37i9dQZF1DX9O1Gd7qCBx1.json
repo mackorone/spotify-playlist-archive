@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-02",
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
   "name": "D\u00eda de Muertos",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -79,6 +78,24 @@
       "duration_ms": 329329,
       "name": "Barrag\u00e1n",
       "url": "https://open.spotify.com/track/1ZrwNdRnEg5oTwNlu8aniw"
+    },
+    {
+      "album": {
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/1J52yTpzmmKd5bACzZnErX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Boda Negra (El Enterrador)",
+      "url": "https://open.spotify.com/track/3piawlFhk12c09HYG5ElbY"
     },
     {
       "album": {
@@ -429,7 +446,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 190226,
       "name": "Dia De Los Muertos",
       "url": "https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1"
@@ -501,7 +518,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 212553,
       "name": "Dulce Muerte",
       "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
@@ -750,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Alfonsina y el Mar (Remasterizado)",
+        "url": "https://open.spotify.com/album/0eJA4NkiiRl68lTXSYaPAr"
+      },
+      "artists": [
+        {
+          "name": "Tania Libertad",
+          "url": "https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245644,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/1fi85DWMkQEmQfR5odB40c"
+    },
+    {
+      "album": {
         "name": "Padre Santo (Edici\u00f3n Especial Dios Culero)",
         "url": "https://open.spotify.com/album/7vDPxjRE3GoH9Ybi8g0WjG"
       },
@@ -967,7 +1002,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 217306,
       "name": "La huesuda",
       "url": "https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM"
@@ -1357,7 +1392,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2022-12-29",
       "duration_ms": 220026,
       "name": "Morir So\u00f1ando",
       "url": "https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn"
@@ -1809,6 +1844,24 @@
       "duration_ms": 276973,
       "name": "Se le apag\u00f3 la luz - Versi\u00f3n B\u00e1sico",
       "url": "https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO"
+    },
+    {
+      "album": {
+        "name": "Quema Quema Quema",
+        "url": "https://open.spotify.com/album/6jegEIB9gDoeF6BaAqrZfw"
+      },
+      "artists": [
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232386,
+      "name": "Si Te Mueres Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y"
     },
     {
       "album": {

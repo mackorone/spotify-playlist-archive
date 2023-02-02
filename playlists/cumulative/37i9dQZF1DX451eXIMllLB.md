@@ -4,7 +4,7 @@
 
 > Odes to springtime...
 
-33 songs - 33 min 50 sec - [published](https://open.spotify.com/playlist/7KRqP00I5XHo1TaHQzyxjQ)
+33 songs - 33 min 50 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

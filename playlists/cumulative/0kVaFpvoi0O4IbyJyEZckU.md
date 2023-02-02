@@ -4,7 +4,7 @@
 
 > Psych yourself up for whatever you've got going...
 
-182 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/5FFcQmK56lASUC5T3wxuBv)
+182 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

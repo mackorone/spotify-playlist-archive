@@ -4,7 +4,7 @@
 
 > It all starts with some friends over for dinner but after a couple of drinks..\. well let's just say you won't have to worry about having an upbeat playlist for the night!
 
-25 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/5kNk7yBrl1Ormm6X0QcV3o)
+25 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

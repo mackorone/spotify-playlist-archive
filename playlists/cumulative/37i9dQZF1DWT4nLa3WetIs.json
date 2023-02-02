@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
   "name": "Afro Throwback",
-  "published_playlist_ids": [
-    "3PGD42xzaSO4O5kpwimiJs"
-  ],
   "tracks": [
     {
       "album": {
@@ -179,7 +176,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 300721,
       "name": "Ahayede",
       "url": "https://open.spotify.com/track/0YcLMyZGhtAx1qYgQPbPkJ"
@@ -367,7 +364,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 304226,
       "name": "Away",
       "url": "https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g"
@@ -1648,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Nwa Baby (Ashawo Remix)",
+        "url": "https://open.spotify.com/album/2IKsllyLOYmA6xWBgQLLH0"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257920,
+      "name": "Nwa Baby (Ashawo Remix)",
+      "url": "https://open.spotify.com/track/4olaI6mBL2Ct0TxnxgPvQC"
+    },
+    {
+      "album": {
         "name": "Best Of Flavour",
         "url": "https://open.spotify.com/album/4llgbWUgnbhaUWL4WX4jFO"
       },
@@ -1677,7 +1692,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 257880,
       "name": "Nwa Baby - Ashawo Remix",
       "url": "https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX"
@@ -1807,7 +1822,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 292520,
       "name": "Ololufe",
       "url": "https://open.spotify.com/track/7Ii6zkFLSkHD2zArtAPNsM"
@@ -2361,7 +2376,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-20",
       "duration_ms": 305669,
       "name": "Waist & Power",
       "url": "https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3"

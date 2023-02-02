@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Please stand for your personal anthems. Cover: Paramore",
+  "description": "Please stand for your personal anthems. Cover: Fall Out Boy",
   "name": "Pure Pop Punk",
-  "published_playlist_ids": [
-    "2378SJjdyJCwFI5oiW7u05"
-  ],
   "tracks": [
     {
       "album": {
@@ -905,7 +902,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 205752,
       "name": "But It's Better If You Do",
       "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
@@ -959,7 +956,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 244744,
       "name": "Came Out Swinging",
       "url": "https://open.spotify.com/track/4mVzCmTZeBOkvSQsuvFQWh"
@@ -1561,6 +1558,24 @@
       "duration_ms": 180082,
       "name": "Drown In My Mind",
       "url": "https://open.spotify.com/track/1i2t3VyIcsAonPhK6wjuJp"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/7B48nfbRi9Ar1ukAXx5UJD"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180082,
+      "name": "Drown In My Mind",
+      "url": "https://open.spotify.com/track/7w0gu9n8vp3sE0xZFCxcFu"
     },
     {
       "album": {
@@ -2592,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits: God's Favorite Band",
+        "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232680,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7"
+    },
+    {
+      "album": {
         "name": "Belmont",
         "url": "https://open.spotify.com/album/3C43LCFghZPw93k0GEdkyV"
       },
@@ -2769,6 +2802,24 @@
       "duration_ms": 205085,
       "name": "I Don't Love You Anymore",
       "url": "https://open.spotify.com/track/5bMIxG5zUEcoep6hVjHjca"
+    },
+    {
+      "album": {
+        "name": "The Chronicles of Life and Death (\"LIFE\" version)",
+        "url": "https://open.spotify.com/album/6Qbaq8mJBFOV30nBMmqLxc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166053,
+      "name": "I Just Wanna Live",
+      "url": "https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7"
     },
     {
       "album": {
@@ -3281,7 +3332,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 175173,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46"
@@ -3497,7 +3548,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
@@ -3555,7 +3606,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 237573,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6"
@@ -3667,6 +3718,24 @@
       "duration_ms": 226080,
       "name": "Memory",
       "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
+    },
+    {
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168226,
+      "name": "Minority",
+      "url": "https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo"
     },
     {
       "album": {
@@ -4619,7 +4688,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 159573,
       "name": "Somewhere On Fullerton",
       "url": "https://open.spotify.com/track/7qPYC9z7FSJIjDc3V2tBix"
@@ -4710,6 +4779,24 @@
     },
     {
       "album": {
+        "name": "Revolution Radio",
+        "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224760,
+      "name": "Still Breathing",
+      "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
+    },
+    {
+      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -4721,7 +4808,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
@@ -4739,7 +4826,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi"
@@ -5161,7 +5248,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 188885,
       "name": "The Afterglow",
       "url": "https://open.spotify.com/track/4VKN3lBovrmKK7nWP4xknO"
@@ -5341,7 +5428,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
@@ -5993,7 +6080,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 197209,
       "name": "weapon",
       "url": "https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP"
@@ -6065,7 +6152,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 206773,
       "name": "Welcome to My Life",
       "url": "https://open.spotify.com/track/714Lw0m2SmCEhKSPw0Dn8J"
@@ -6155,10 +6242,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-05",
       "duration_ms": 189101,
       "name": "When You Know",
       "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
+    },
+    {
+      "album": {
+        "name": "When Your Heart Stops Beating",
+        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
+      },
+      "artists": [
+        {
+          "name": "+44",
+          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "When Your Heart Stops Beating",
+      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
     },
     {
       "album": {
@@ -6199,7 +6304,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 190026,
       "name": "Where I Belong (feat. We The Kings)",
       "url": "https://open.spotify.com/track/6XbmIuDxm4gWpVYoGg5DQX"

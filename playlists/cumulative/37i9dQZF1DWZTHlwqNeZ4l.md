@@ -4,7 +4,7 @@
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-50 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/5ZnqR4bBjTmkxLaZkof7fU)
+50 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Il meglio del jazz italiano, in una selezione speciale a cura degli <a href=\"spotify:artist:1rWbZmR5D63aZU60lMtVZx\">Studio Murena</a>.",
-  "name": "Jazz Italia",
-  "published_playlist_ids": [
-    "4ci8LwC6vBaMAmVvAWXsOb"
-  ],
+  "description": "Una selezione speciale a cura di <a href=\"spotify:artist:7x68038NwGK0HcnZh49aMB\">Bebo Ferra</a>! ",
+  "name": "Jazz Italia ",
   "tracks": [
     {
       "album": {
@@ -30,6 +27,24 @@
     },
     {
       "album": {
+        "name": "I classici di Napoli, Vol. 1",
+        "url": "https://open.spotify.com/album/7IYVnjKaUgOyavhtVtn5Wz"
+      },
+      "artists": [
+        {
+          "name": "Sergio Bruni",
+          "url": "https://open.spotify.com/artist/0e4oRk2t7KcRLUGhXCa3Il"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 222772,
+      "name": "'o zampugnaro 'nnammurato",
+      "url": "https://open.spotify.com/track/2UCOcxoQsMUiPJqTF6EDFL"
+    },
+    {
+      "album": {
         "name": "Ornella &...",
         "url": "https://open.spotify.com/album/4dWJRUFSsmiyHsafsqEulk"
       },
@@ -52,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Christmas in Jazz",
+        "url": "https://open.spotify.com/album/4OfdiNhNsU6mDMGgUicTvq"
+      },
+      "artists": [
+        {
+          "name": "Danila Satragno",
+          "url": "https://open.spotify.com/artist/3e6OIGhf9S5tNZuDSPUaTP"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 300920,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/3MwbZbUdZDVkijKMLXirkX"
+    },
+    {
+      "album": {
         "name": "Carpet Stories",
         "url": "https://open.spotify.com/album/3xkny56lTHms8WJnVfv0xV"
       },
@@ -63,10 +96,28 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 346306,
       "name": "A New Ceiba",
       "url": "https://open.spotify.com/track/36vagOuWa9n4dZOAVbcwEp"
+    },
+    {
+      "album": {
+        "name": "Antologia",
+        "url": "https://open.spotify.com/album/5taMQR8VlzbwOW7GoQxRZV"
+      },
+      "artists": [
+        {
+          "name": "Vittorio De Sica",
+          "url": "https://open.spotify.com/artist/0RAsK1tgVahK6ARdf837WA"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 166493,
+      "name": "A nuvena",
+      "url": "https://open.spotify.com/track/6gK7nN8HrfrjCJnpSYVMdt"
     },
     {
       "album": {
@@ -124,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Integra",
+        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330186,
+      "name": "Animo",
+      "url": "https://open.spotify.com/track/0wD0jc5NYktDpYznv8pFCj"
+    },
+    {
+      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/6SsRFfNQHautbq2pQHT3Gm"
       },
@@ -147,10 +216,50 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 206797,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/6rKtQFk8Lbz2QDD3Jpssn5"
+    },
+    {
+      "album": {
+        "name": "Lem",
+        "url": "https://open.spotify.com/album/6kax3ZJbeKMaGvVAvqcVu1"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Cominoli",
+          "url": "https://open.spotify.com/artist/6tPpbEcC7fLPHTXNiYUvfR"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130475,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/5He69pTQbuYxEoyLUP9HTg"
+    },
+    {
+      "album": {
+        "name": "La Strada Invisibile",
+        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
+      },
+      "artists": [
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        },
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370571,
+      "name": "Aritmia",
+      "url": "https://open.spotify.com/track/276WnVIGnv2dESsJ2Fakuw"
     },
     {
       "album": {
@@ -165,7 +274,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 238000,
       "name": "Arpa e tamburo",
       "url": "https://open.spotify.com/track/1mu0gMpgqraGpXZh0wJf9f"
@@ -198,6 +307,58 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/3CRlPeKyNXtbDsE6f3CoK1"
+      },
+      "artists": [
+        {
+          "name": "Sonia Spinello",
+          "url": "https://open.spotify.com/artist/4XHzTcJIGv7mt0s5sxIJX9"
+        },
+        {
+          "name": "Roberto Olzer",
+          "url": "https://open.spotify.com/artist/5t2woKVQ6EV4785n3RMNUh"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589055,
+      "name": "Attimi",
+      "url": "https://open.spotify.com/track/33zWeKLNubdUczIdW5G4NA"
+    },
+    {
+      "album": {
+        "name": "\u00c9thos",
+        "url": "https://open.spotify.com/album/1uOTX2lKRbqqKFTXqzI3O3"
+      },
+      "artists": [
+        {
+          "name": "Quartetto Alborada",
+          "url": "https://open.spotify.com/artist/4XyoalV7oNJZUzM2cqyeDZ"
+        },
+        {
+          "name": "Elena Ledda",
+          "url": "https://open.spotify.com/artist/2rHPaRrsgoK3ixbLV8dhs2"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Diderik Wissels",
+          "url": "https://open.spotify.com/artist/4r5pf02H2xX4diSXi5tHso"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 465936,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/3u6f1UQu5HMer9MESCLk2D"
+    },
+    {
+      "album": {
         "name": "Avec le temps",
         "url": "https://open.spotify.com/album/5fdgxokqyJvryTNsva6nwr"
       },
@@ -227,7 +388,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 275093,
       "name": "Av\u00f2",
       "url": "https://open.spotify.com/track/4MLHNowxBayqfnt4iFy2Jb"
@@ -252,6 +413,24 @@
     },
     {
       "album": {
+        "name": "La Chiarastella",
+        "url": "https://open.spotify.com/album/38F120tTNm6o2TtjgL6BQS"
+      },
+      "artists": [
+        {
+          "name": "Ambrogio Sparagna",
+          "url": "https://open.spotify.com/artist/7lRA9ocPguyn2V54oWhznJ"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 191546,
+      "name": "Bambino mio bellissimo",
+      "url": "https://open.spotify.com/track/7obfVUJCnQCq9gJtcbDc8w"
+    },
+    {
+      "album": {
         "name": "fusion.",
         "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
@@ -267,10 +446,46 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "album": {
+        "name": "Flowery Piano",
+        "url": "https://open.spotify.com/album/2Hz5Q2dIKU4hbJINpivstO"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Di Liberto",
+          "url": "https://open.spotify.com/artist/4SXlb6krjl3fsmbcjpj6vo"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266007,
+      "name": "Bella di Notte",
+      "url": "https://open.spotify.com/track/6aXpr1JhIbJvg2wJlYuXRz"
+    },
+    {
+      "album": {
+        "name": "Under Water the Way Out",
+        "url": "https://open.spotify.com/album/4tormw8XSvVDp0zvqPnQVD"
+      },
+      "artists": [
+        {
+          "name": "Federico Casagrande",
+          "url": "https://open.spotify.com/artist/3UIT7PDaIaJ33MxQeIwGyR"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214900,
+      "name": "Belle Est La Vie Dans La Ville",
+      "url": "https://open.spotify.com/track/3kFNzif5TvZhQXYUCqeqTj"
     },
     {
       "album": {
@@ -292,6 +507,42 @@
     },
     {
       "album": {
+        "name": "L'Incredibile Johnny Dorelli",
+        "url": "https://open.spotify.com/album/2W5fipMrDOCFWOxzMCshuV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Dorelli",
+          "url": "https://open.spotify.com/artist/2srKOALVfCQRti28skrHLf"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 199013,
+      "name": "Bianco Natale",
+      "url": "https://open.spotify.com/track/2M7VKR0zh7xealAvrQJGWi"
+    },
+    {
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
+      },
+      "artists": [
+        {
+          "name": "Federico Bosio",
+          "url": "https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146618,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
+    },
+    {
+      "album": {
         "name": "Different, Us",
         "url": "https://open.spotify.com/album/4wPFAEDNvZIxYT7DzUsaPw"
       },
@@ -303,7 +554,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 298409,
       "name": "Blue Room",
       "url": "https://open.spotify.com/track/02U4H3RvIptfhh4xMWtuqo"
@@ -328,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Portrait of Tony",
+        "url": "https://open.spotify.com/album/6UZMVoZOxyOuDUdpegqJ16"
+      },
+      "artists": [
+        {
+          "name": "Francesco Bearzatti",
+          "url": "https://open.spotify.com/artist/5LcFO3ynlaXQ6Qs2euCJjj"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293493,
+      "name": "Bouncing with Tony",
+      "url": "https://open.spotify.com/track/4z1FkPsIAT6BLO7WkJ5bVD"
+    },
+    {
+      "album": {
         "name": "OLTRE",
         "url": "https://open.spotify.com/album/7I1F5rBYk8uZrywPFRvfHh"
       },
@@ -339,7 +608,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 1166626,
       "name": "breakthrough suite \u0f06",
       "url": "https://open.spotify.com/track/0fFCDbJHkoGWid7vVK2ljW"
@@ -361,6 +630,42 @@
       "duration_ms": 283977,
       "name": "Bugiardo, incosciente",
       "url": "https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V"
+    },
+    {
+      "album": {
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 245520,
+      "name": "Buon Natale (Se Vuoi)",
+      "url": "https://open.spotify.com/track/3Q0fMZ1JJeiaE1x62XKqrO"
+    },
+    {
+      "album": {
+        "name": "Buon Natale! Italian Christmas",
+        "url": "https://open.spotify.com/album/54bRtk1UVJqNSNKL3jbQbZ"
+      },
+      "artists": [
+        {
+          "name": "Domenico Modugno",
+          "url": "https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 133080,
+      "name": "Buon Natale A Tutto Il Mondo",
+      "url": "https://open.spotify.com/track/2OfQRQ1zb869sWW3JtqZFl"
     },
     {
       "album": {
@@ -400,6 +705,42 @@
     },
     {
       "album": {
+        "name": "Cantendi a Deus",
+        "url": "https://open.spotify.com/album/71JgvRWWDZjLehv4z97hbJ"
+      },
+      "artists": [
+        {
+          "name": "Elena Ledda",
+          "url": "https://open.spotify.com/artist/2rHPaRrsgoK3ixbLV8dhs2"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 209466,
+      "name": "Celesti tesoru",
+      "url": "https://open.spotify.com/track/6txzUozc87T8UgL7NEu0KV"
+    },
+    {
+      "album": {
+        "name": "Ti Cantu la ninna",
+        "url": "https://open.spotify.com/album/5UQ2NjGmtlIzMf57UmB1bR"
+      },
+      "artists": [
+        {
+          "name": "Adela",
+          "url": "https://open.spotify.com/artist/0XYMKJKN3UvObdxZM3LgUF"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 284760,
+      "name": "Ch'\u00e8 duci stu figghiu",
+      "url": "https://open.spotify.com/track/1N9P0vcObstZFONeE4yOcl"
+    },
+    {
+      "album": {
         "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile",
         "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
       },
@@ -415,6 +756,28 @@
       "duration_ms": 176843,
       "name": "Cio che e' scritto nel vento",
       "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
+    },
+    {
+      "album": {
+        "name": "Cioccolata bianca (feat. Arisa)",
+        "url": "https://open.spotify.com/album/3Sq3BXLmfsAdRnV04lieGM"
+      },
+      "artists": [
+        {
+          "name": "DJ Matrix",
+          "url": "https://open.spotify.com/artist/7fajLZIgjOSUcPFuryO80A"
+        },
+        {
+          "name": "Arisa",
+          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 132500,
+      "name": "Cioccolata bianca (feat. Arisa)",
+      "url": "https://open.spotify.com/track/2pEdaA1Z6JStNUKRHQnesV"
     },
     {
       "album": {
@@ -447,10 +810,28 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 133107,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/10I2bf5nDphrLZOOVBqLSc"
+    },
+    {
+      "album": {
+        "name": "Il circo",
+        "url": "https://open.spotify.com/album/1ZMkpUvSfwO0bwNEJ7lvuD"
+      },
+      "artists": [
+        {
+          "name": "Raffaello Pareti",
+          "url": "https://open.spotify.com/artist/5156UVfhtJbGl0wIB2XLRI"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "Colazione da barbara",
+      "url": "https://open.spotify.com/track/2hG0zlykuH8f1acgmhywJc"
     },
     {
       "album": {
@@ -505,7 +886,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 234260,
       "name": "CORRI",
       "url": "https://open.spotify.com/track/4neBNkqlzqkJRsuUpte3Fp"
@@ -531,6 +912,24 @@
       "duration_ms": 158738,
       "name": "Cosa sono le nuvole",
       "url": "https://open.spotify.com/track/61SnBLkaNJcvOeaUggBVhz"
+    },
+    {
+      "album": {
+        "name": "Metafisica per le scimmie",
+        "url": "https://open.spotify.com/album/0Uy3oJbPLVQPWmGGMmromk"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424893,
+      "name": "Cromatica",
+      "url": "https://open.spotify.com/track/76taPwGxIIuSWHX3Ugschw"
     },
     {
       "album": {
@@ -567,6 +966,40 @@
       "duration_ms": 188133,
       "name": "D'Improvviso",
       "url": "https://open.spotify.com/track/2aco8Ba7NUEtHYRHN3ZhYd"
+    },
+    {
+      "album": {
+        "name": "SPL",
+        "url": "https://open.spotify.com/album/1ThCk4rd9yS6Tv04Qja5p1"
+      },
+      "artists": [
+        {
+          "name": "Fulvio Sigurta'",
+          "url": "https://open.spotify.com/artist/0gZT1WBYzFXecDBwONJUw3"
+        },
+        {
+          "name": "Andrea Lombardini",
+          "url": "https://open.spotify.com/artist/73YGgmVlzKtpkMAe4P0MKP"
+        },
+        {
+          "name": "Alessandro Paternesi",
+          "url": "https://open.spotify.com/artist/7HAlX4nER5LW4EV94brnyf"
+        },
+        {
+          "name": "Michele Rabbia",
+          "url": "https://open.spotify.com/artist/0PrEXi9LcYr5j82OZLNyNA"
+        },
+        {
+          "name": "Ross Stanley",
+          "url": "https://open.spotify.com/artist/2GGnLprXo9lzevvoJq2dh1"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329471,
+      "name": "Dance Of Equality",
+      "url": "https://open.spotify.com/track/3dF8QBW5KNTgltLFU6vSaJ"
     },
     {
       "album": {
@@ -607,7 +1040,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 353310,
       "name": "Desertico",
       "url": "https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6"
@@ -625,7 +1058,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 176000,
       "name": "Digestive System",
       "url": "https://open.spotify.com/track/16S7jdyKXnNknTl5yTWOzt"
@@ -720,6 +1153,28 @@
     },
     {
       "album": {
+        "name": "Canzoni di Natale 2022",
+        "url": "https://open.spotify.com/album/7nYlrXNAnYT8tnKYKKDp9s"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        },
+        {
+          "name": "Massena Boys",
+          "url": "https://open.spotify.com/artist/2zhsiEhM0CGDqqrisE9B03"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 230367,
+      "name": "Eccolo Qua Il Natale - Una Notte Tra Tante - DeeJay",
+      "url": "https://open.spotify.com/track/3J61ZdlAzRsQBg1IMLAv3x"
+    },
+    {
+      "album": {
         "name": "Studio Murena",
         "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
       },
@@ -731,10 +1186,58 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 249673,
       "name": "Eclissi",
       "url": "https://open.spotify.com/track/4d9ATc15ejCgSjq7mQJwM1"
+    },
+    {
+      "album": {
+        "name": "Changes (feat. Gabriele Mirabassi, Olivia Trummer, Luca Bulgarelli)",
+        "url": "https://open.spotify.com/album/6fNkeMZeNFenTNWnJyDhOh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Angelucci",
+          "url": "https://open.spotify.com/artist/6oWLcJrtJ12xgHIqOw0FEK"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        },
+        {
+          "name": "Olivia Trummer",
+          "url": "https://open.spotify.com/artist/3Tta2XUz7S8rvwSed7vFz9"
+        },
+        {
+          "name": "Luca Bulgarelli",
+          "url": "https://open.spotify.com/artist/6RByhwx03rvh0w4y0J4Hbo"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375024,
+      "name": "EPZE (feat. Gabriele Mirabassi, Olivia Trummer, Luca Bulgarelli)",
+      "url": "https://open.spotify.com/track/1ZGs62oP6uhWgbCchVDStZ"
+    },
+    {
+      "album": {
+        "name": "Cantautore piccolino",
+        "url": "https://open.spotify.com/album/7A9WRw1RV9dBg31s7RLBsq"
+      },
+      "artists": [
+        {
+          "name": "Sergio Cammariere",
+          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386653,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/5C9nneUkf6RBJqhhHKkyr3"
     },
     {
       "album": {
@@ -764,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
+      },
+      "artists": [
+        {
+          "name": "Federico Bosio",
+          "url": "https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203100,
+      "name": "Exilium",
+      "url": "https://open.spotify.com/track/1eBaVhTJczf7plQxF6IfmJ"
+    },
+    {
+      "album": {
         "name": "Irene of Boston - Conversation Avec Corto Maltese",
         "url": "https://open.spotify.com/album/35n9ryD9cWUZ6QtBA1U8BS"
       },
@@ -775,10 +1296,100 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 321510,
       "name": "Far Flow",
       "url": "https://open.spotify.com/track/1Pv9Zh7qPiz7SpFokXkXlr"
+    },
+    {
+      "album": {
+        "name": "Tim Burton's Nightmare Before Christmas (Colonna Sonora Originale)",
+        "url": "https://open.spotify.com/album/6cS8pF3uD5k8FPNzoYF4xW"
+      },
+      "artists": [
+        {
+          "name": "Renato Zero",
+          "url": "https://open.spotify.com/artist/7i7EQonx0GrqoKiNQL4gFO"
+        },
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 238133,
+      "name": "Far Natale",
+      "url": "https://open.spotify.com/track/6J3YhqaJ5F0OzORCqMGx9d"
+    },
+    {
+      "album": {
+        "name": "Ferlinghetti",
+        "url": "https://open.spotify.com/album/68AL3VoUvPAaBcS8sSlWvU"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Marco Bardoscia",
+          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
+        },
+        {
+          "name": "Dino Rubino",
+          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
+        },
+        {
+          "name": "Daniele di Bonaventura",
+          "url": "https://open.spotify.com/artist/2FfQ9VP66RZxG0lmiMAKT6"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196330,
+      "name": "Ferlinghetti",
+      "url": "https://open.spotify.com/track/2FznYmBxVI1sHFDrBH0BBe"
+    },
+    {
+      "album": {
+        "name": "Fight Back",
+        "url": "https://open.spotify.com/album/7Ivhbc9SvFfJJ6rQfQ7akx"
+      },
+      "artists": [
+        {
+          "name": "Raffaele Casarano",
+          "url": "https://open.spotify.com/artist/6MnERY0Sy2OLv7YcI43XaB"
+        },
+        {
+          "name": "M1",
+          "url": "https://open.spotify.com/artist/1KqjO5UJvhSyBu2D91BBOQ"
+        },
+        {
+          "name": "Bonnot",
+          "url": "https://open.spotify.com/artist/1o9wwykqREid81XQEElOJ1"
+        },
+        {
+          "name": "Mirko Signorile",
+          "url": "https://open.spotify.com/artist/2hbBpDiXjmYjUzcq9Lh4Vq"
+        },
+        {
+          "name": "ALESSANDRO MONTEDURO",
+          "url": "https://open.spotify.com/artist/10KotdBBPwNBbdAyQNGe8c"
+        },
+        {
+          "name": "Marco D'Orlando",
+          "url": "https://open.spotify.com/artist/6lx8bRPo7DLXG4t7QM5dIG"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Fight Back",
+      "url": "https://open.spotify.com/track/0wzcUa1qdSNX6U5rovQSeR"
     },
     {
       "album": {
@@ -837,10 +1448,36 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 223506,
       "name": "Flowers in my spoon feat. Mick Jenkins",
       "url": "https://open.spotify.com/track/4TfE5s0ptWgiKBKG4LchDW"
+    },
+    {
+      "album": {
+        "name": "The Enchanted Garden",
+        "url": "https://open.spotify.com/album/6QYgkBnxYvEwSmThFnSJbW"
+      },
+      "artists": [
+        {
+          "name": "Claudio Filippini",
+          "url": "https://open.spotify.com/artist/26vqH4OquRRTf6lnRe4gbX"
+        },
+        {
+          "name": "Luca Bulgarelli",
+          "url": "https://open.spotify.com/artist/6RByhwx03rvh0w4y0J4Hbo"
+        },
+        {
+          "name": "Marcello Di Leonardo",
+          "url": "https://open.spotify.com/artist/4Nf1TXdpJFjkLmUgXdXeSU"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252128,
+      "name": "Flying Horses",
+      "url": "https://open.spotify.com/track/1DUfwmpAuVpOBLlqbgx3Lv"
     },
     {
       "album": {
@@ -859,6 +1496,32 @@
       "duration_ms": 302480,
       "name": "Foi O Mar",
       "url": "https://open.spotify.com/track/5fgialP0VoYUFWxNZiTCcz"
+    },
+    {
+      "album": {
+        "name": "Tabacco e Caff\u00e8",
+        "url": "https://open.spotify.com/album/2NeByVBLwcAhdcnQw86MkH"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        },
+        {
+          "name": "Pierluigi Balducci",
+          "url": "https://open.spotify.com/artist/4kdAUsq2UpAqjbenZAeMo1"
+        },
+        {
+          "name": "Nando Di Modugno",
+          "url": "https://open.spotify.com/artist/5CULFq6PQEgNcdiOygxmg3"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291080,
+      "name": "Frevo",
+      "url": "https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv"
     },
     {
       "album": {
@@ -898,6 +1561,40 @@
     },
     {
       "album": {
+        "name": "Pavarotti & Friends for War Child",
+        "url": "https://open.spotify.com/album/49rzYN7N4ujtQjfBVmnYR3"
+      },
+      "artists": [
+        {
+          "name": "Joan Osborne",
+          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "East London Gospel Choir",
+          "url": "https://open.spotify.com/artist/7b9Ljag8B37MhoRZaSQ2Ud"
+        },
+        {
+          "name": "Orchestra filarmonica di Torino",
+          "url": "https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU"
+        },
+        {
+          "name": "Marco Armiliato",
+          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 231270,
+      "name": "Ges\u00f9 Bambino - Live",
+      "url": "https://open.spotify.com/track/00zqyHVLE5vl7KhdrNbYJD"
+    },
+    {
+      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -913,7 +1610,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 434413,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
@@ -942,6 +1639,36 @@
     },
     {
       "album": {
+        "name": "Gliders",
+        "url": "https://open.spotify.com/album/3VzYRfvYVyeHbMwno2H777"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Di Ienno",
+          "url": "https://open.spotify.com/artist/1DzAPwupQmqfgPalkF4U5G"
+        },
+        {
+          "name": "Fulvio Sigurta",
+          "url": "https://open.spotify.com/artist/0ZjzWENsZeEuw9zvVcdrWC"
+        },
+        {
+          "name": "Giulio Corini",
+          "url": "https://open.spotify.com/artist/4JsWRc8s0MOQn6eN61MVSN"
+        },
+        {
+          "name": "Alessandro Rossi",
+          "url": "https://open.spotify.com/artist/02ZppUd64pzcRLcW5MFQ1C"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454000,
+      "name": "Gliders",
+      "url": "https://open.spotify.com/track/4QwLodGY9x2GLlye6yXUYG"
+    },
+    {
+      "album": {
         "name": "Il Labirinto dei Topi",
         "url": "https://open.spotify.com/album/4fWmsQbCZ2EV9fuXUnmIXF"
       },
@@ -965,7 +1692,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 402304,
       "name": "Gomorra",
       "url": "https://open.spotify.com/track/4TPhRoIPxaRrEkpFSHiqUU"
@@ -987,7 +1714,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 400165,
       "name": "Groovy",
       "url": "https://open.spotify.com/track/7dsgdcIu2Pby6wnbsjRqSy"
@@ -1005,7 +1732,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 662586,
       "name": "hajar",
       "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
@@ -1041,10 +1768,70 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 225875,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+    },
+    {
+      "album": {
+        "name": "It's Christmas: Natale In Vaticano",
+        "url": "https://open.spotify.com/album/4K5jJ4tOFpYz0WPU8eY1Wm"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1OB6hTSCYbxFscpIV4wAnu"
+        },
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 205773,
+      "name": "Happy Christmas, War Is Over",
+      "url": "https://open.spotify.com/track/4JPpPXPhpBAH4le8U1buNw"
+    },
+    {
+      "album": {
+        "name": "Per Aspera Ad Astra",
+        "url": "https://open.spotify.com/album/4DcdvUUDUhDBrgCkTYKHEV"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalletta",
+          "url": "https://open.spotify.com/artist/4pZ9y1HQbossFq7FqwASQn"
+        },
+        {
+          "name": "Alberto Fidone",
+          "url": "https://open.spotify.com/artist/7B1gfbTUqk04jeGIwIdCgO"
+        },
+        {
+          "name": "Peppe Tringali",
+          "url": "https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp"
+        },
+        {
+          "name": "Seby Burgio",
+          "url": "https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf"
+        },
+        {
+          "name": "Urban Fabula",
+          "url": "https://open.spotify.com/artist/4HDUHYRnGlKkLt2nFsPPV0"
+        },
+        {
+          "name": "Jani Moder",
+          "url": "https://open.spotify.com/artist/3zlOpvNe9PQlQZAQzqj68l"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103465,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/6J46cgJj4I4aZfONRYJ2Mo"
     },
     {
       "album": {
@@ -1081,7 +1868,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 231426,
       "name": "How Do We Know We're Alive",
       "url": "https://open.spotify.com/track/1zFMvBk0MCRSUU2gxNFlZz"
@@ -1125,7 +1912,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 241318,
       "name": "Howls",
       "url": "https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN"
@@ -1165,7 +1952,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 173035,
       "name": "Hypermnesia - (Album Version)",
       "url": "https://open.spotify.com/track/2kuj7UgWG37nOOSpvdfybm"
@@ -1227,6 +2014,24 @@
       "duration_ms": 308000,
       "name": "I Sogni di un Semplice - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/4iwGkmxxSMRACneVA9xSC9"
+    },
+    {
+      "album": {
+        "name": "Piero Ciampi",
+        "url": "https://open.spotify.com/album/02kbC96fGDCaGS1a7tynHC"
+      },
+      "artists": [
+        {
+          "name": "Piero Ciampi",
+          "url": "https://open.spotify.com/artist/1TCxiJqttWjWeHXtO10Scu"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 198386,
+      "name": "Il Natale \u00e8 il 24",
+      "url": "https://open.spotify.com/track/0x6MFEpWdQmIaWo3nFcq1O"
     },
     {
       "album": {
@@ -1292,6 +2097,50 @@
     },
     {
       "album": {
+        "name": "Jazzy Christmas",
+        "url": "https://open.spotify.com/album/3kyCiYNEZDe69AlGHPiDRW"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu Quintet",
+          "url": "https://open.spotify.com/artist/3PM3wuzLhF22bfcFg1DWfd"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 392190,
+      "name": "In sa notte profundha",
+      "url": "https://open.spotify.com/track/24XnB9wHRKY71opOd9AIWj"
+    },
+    {
+      "album": {
+        "name": "The Future Is a Tree",
+        "url": "https://open.spotify.com/album/6v7sT8IL24HkWTSRHIRa6h"
+      },
+      "artists": [
+        {
+          "name": "Marco Bardoscia",
+          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
+        },
+        {
+          "name": "William Greco",
+          "url": "https://open.spotify.com/artist/2G3FvyJF3BeYs7apD0OyxD"
+        },
+        {
+          "name": "Dario Congedo",
+          "url": "https://open.spotify.com/artist/0yumxnOYueNNmiii3GGfec"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 262786,
+      "name": "Inverno",
+      "url": "https://open.spotify.com/track/1hIOplfqKsQq9Q3TPabLU7"
+    },
+    {
+      "album": {
         "name": "Amalia Gr\u00e8",
         "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
       },
@@ -1343,10 +2192,32 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 472531,
       "name": "Isoritmo / Alice's Fall",
       "url": "https://open.spotify.com/track/4XZbcXMibHpv1FaMRTJhSr"
+    },
+    {
+      "album": {
+        "name": "Discovering Bach",
+        "url": "https://open.spotify.com/album/0tJJrn7B1ofqfo87POQR8Y"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Maria Cefal\u00e0",
+          "url": "https://open.spotify.com/artist/3qJupsLf4rhxB0TBZDFyBw"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 332821,
+      "name": "Italian Concerto in F Major, BWV 971: II. Andante",
+      "url": "https://open.spotify.com/track/1lAly8pC3Wr4Y4RkcflACX"
     },
     {
       "album": {
@@ -1365,6 +2236,94 @@
       "duration_ms": 165852,
       "name": "Jazz Whistler",
       "url": "https://open.spotify.com/track/2eO48qUibU8IAM4tR51mrV"
+    },
+    {
+      "album": {
+        "name": "Shinnen",
+        "url": "https://open.spotify.com/album/3LLfcKvdVKhVGHYxWExhin"
+      },
+      "artists": [
+        {
+          "name": "Wolf Gang 4ET",
+          "url": "https://open.spotify.com/artist/2PGXmOwLKlsDIdhVPlADzS"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466461,
+      "name": "Ji",
+      "url": "https://open.spotify.com/track/6TJXSwJxk6KsmUcBmJVtx2"
+    },
+    {
+      "album": {
+        "name": "1920 - Achille Lauro & The Untouchable Band",
+        "url": "https://open.spotify.com/album/6GrQVc0SulD2PzzJM1iXEC"
+      },
+      "artists": [
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 145386,
+      "name": "Jingle Bell Rock (feat. Annalisa)",
+      "url": "https://open.spotify.com/track/5DAUoBntKkZkHkkbOBAkK7"
+    },
+    {
+      "album": {
+        "name": "Apogeo",
+        "url": "https://open.spotify.com/album/1wHoBR5F4rbcA7uhHrrxnk"
+      },
+      "artists": [
+        {
+          "name": "Mauro Negri",
+          "url": "https://open.spotify.com/artist/2Tt7FtgJ0sOOFBsmzw2ZUH"
+        },
+        {
+          "name": "S.f. Group",
+          "url": "https://open.spotify.com/artist/2ky1nBsxXa0FO3cYamekVF"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422269,
+      "name": "Jump - Original Version",
+      "url": "https://open.spotify.com/track/5BIyjg4QHRJUMEcWaUYaqs"
+    },
+    {
+      "album": {
+        "name": "Our Favorite Ellington",
+        "url": "https://open.spotify.com/album/73ZJna2JcXq7fCzjShDQcc"
+      },
+      "artists": [
+        {
+          "name": "Guido Zorn",
+          "url": "https://open.spotify.com/artist/3orfVBTULU1E5xfBLETZPK"
+        },
+        {
+          "name": "Angelo Lazzeri",
+          "url": "https://open.spotify.com/artist/3iym8HELwJ1GWE8xClEqA5"
+        },
+        {
+          "name": "Alessandro Fabbri",
+          "url": "https://open.spotify.com/artist/6s4pxs0FPawFi9lmQo8fna"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286906,
+      "name": "Jump for Joy",
+      "url": "https://open.spotify.com/track/4uYZRsSgOwQw74fVA5n4vQ"
     },
     {
       "album": {
@@ -1485,10 +2444,62 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 396750,
       "name": "L'Aventino",
       "url": "https://open.spotify.com/track/549O2wQgtQNcXkJIEpRB2f"
+    },
+    {
+      "album": {
+        "name": "Clorofilla",
+        "url": "https://open.spotify.com/album/5svy0iVGahFwfnwldEvz4e"
+      },
+      "artists": [
+        {
+          "name": "Leila Shirvani",
+          "url": "https://open.spotify.com/artist/7MbS9ZaBk7Dk5LH8HD4wAT"
+        },
+        {
+          "name": "Francesco Diodati",
+          "url": "https://open.spotify.com/artist/5uCDqkwdrinUuSp2ipAQIg"
+        },
+        {
+          "name": "Sara Shirvani",
+          "url": "https://open.spotify.com/artist/0IKCKVsyiwFrRzvTgDHtBj"
+        },
+        {
+          "name": "Enrico Morello",
+          "url": "https://open.spotify.com/artist/3UdoL4iyxmmgzvpY7209Ps"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 71501,
+      "name": "L'et\u00e0 degli alberi",
+      "url": "https://open.spotify.com/track/1c6FAkmi4d4dVAnexYyQZe"
+    },
+    {
+      "album": {
+        "name": "Watercolor",
+        "url": "https://open.spotify.com/album/6hqJwZx332Rxtz7FhJ3OaE"
+      },
+      "artists": [
+        {
+          "name": "Gino Marcelli",
+          "url": "https://open.spotify.com/artist/5ppcUunM7MYayvt3K4dXnz"
+        },
+        {
+          "name": "Tommy Bradascio",
+          "url": "https://open.spotify.com/artist/1Vq2H7KC1UQbYZU0bZv6vJ"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302693,
+      "name": "L'orto dei semplici",
+      "url": "https://open.spotify.com/track/6UFP7dpFYK2GHVm6mPWJb5"
     },
     {
       "album": {
@@ -1507,6 +2518,44 @@
       "duration_ms": 176745,
       "name": "La casa di Tom",
       "url": "https://open.spotify.com/track/5cIriWoRWXUy8anJeJVSZM"
+    },
+    {
+      "album": {
+        "name": "Popoff!",
+        "url": "https://open.spotify.com/album/1tb9sSspWzxPwwBKuw69eK"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Cristina Zavalloni",
+          "url": "https://open.spotify.com/artist/1fNXGZAOznH5ZLBkY8tAxZ"
+        },
+        {
+          "name": "Cristiano Arcelli",
+          "url": "https://open.spotify.com/artist/51xp4Te4tQrpi5H8P47k7y"
+        },
+        {
+          "name": "Dino Rubino",
+          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
+        },
+        {
+          "name": "Marco Bardoscia",
+          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
+        },
+        {
+          "name": "Quartetto Alborada",
+          "url": "https://open.spotify.com/artist/4XyoalV7oNJZUzM2cqyeDZ"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 231627,
+      "name": "La giostra del carillon",
+      "url": "https://open.spotify.com/track/3H4fFor7zQMPbKALQ9AXpD"
     },
     {
       "album": {
@@ -1558,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "'O surdato 'nnammurato (Live)",
+        "url": "https://open.spotify.com/album/3zSqhGvqFA2PgDbTW3ozgt"
+      },
+      "artists": [
+        {
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 324933,
+      "name": "Lacreme napulitane - Live",
+      "url": "https://open.spotify.com/track/1hHdMj9eViMmdqGHsivXPq"
+    },
+    {
+      "album": {
         "name": "Maison Maravilha",
         "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
       },
@@ -1573,6 +2640,24 @@
       "duration_ms": 266213,
       "name": "Lacrime di coccodrillo",
       "url": "https://open.spotify.com/track/05VDTFun9CXIw7dvQfbmBs"
+    },
+    {
+      "album": {
+        "name": "A Very Special Mario Christmas",
+        "url": "https://open.spotify.com/album/4kMDJmnt7Y1IvwFznf0WYH"
+      },
+      "artists": [
+        {
+          "name": "Mario Biondi",
+          "url": "https://open.spotify.com/artist/1dRsXw2TtfCXfqMLRiP088"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 300786,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5L0PORZey1tVy5BtebZZdD"
     },
     {
       "album": {
@@ -1668,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Tutti Morimmo A Stento",
+        "url": "https://open.spotify.com/album/4dbMr1mMSVcgIYO3AWPzdv"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio De Andr\u00e9",
+          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 194000,
+      "name": "Leggenda di Natale",
+      "url": "https://open.spotify.com/track/3phNu679aziBfazRXI9Bvs"
+    },
+    {
+      "album": {
         "name": "Les amants",
         "url": "https://open.spotify.com/album/6VJECvVU3V93z5HWyPfOzE"
       },
@@ -1741,7 +2844,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 297866,
       "name": "Letzer aufruf",
       "url": "https://open.spotify.com/track/43iMiq89wNufHlFljWDAzz"
@@ -1781,10 +2884,36 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 244000,
       "name": "Long John Silver",
       "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
+    },
+    {
+      "album": {
+        "name": "Ten Stops",
+        "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
+      },
+      "artists": [
+        {
+          "name": "Simone Locarni",
+          "url": "https://open.spotify.com/artist/3csUj3ZIE3yX1maghB7MZ5"
+        },
+        {
+          "name": "Andrea Dulbecco",
+          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
+        },
+        {
+          "name": "Riccardo Fioravanti",
+          "url": "https://open.spotify.com/artist/6efZd8coYQR0z5g2PTyshf"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182420,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/5he89Ndv5FYgFUsiLlmgtO"
     },
     {
       "album": {
@@ -1799,7 +2928,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 184213,
       "name": "Looping",
       "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
@@ -1821,6 +2950,62 @@
       "duration_ms": 216880,
       "name": "Love is a Temple",
       "url": "https://open.spotify.com/track/3wj0rOntfKekxkJrqsOU8y"
+    },
+    {
+      "album": {
+        "name": "Lumina",
+        "url": "https://open.spotify.com/album/0Ftg8OfwenKu2rUi1aJOqE"
+      },
+      "artists": [
+        {
+          "name": "Lumina",
+          "url": "https://open.spotify.com/artist/3aZlcEa0zsIM856ETPuM8e"
+        },
+        {
+          "name": "Carla Casarano",
+          "url": "https://open.spotify.com/artist/7jRHao02PY5rD27wLorodg"
+        },
+        {
+          "name": "Leila Shirvani",
+          "url": "https://open.spotify.com/artist/7MbS9ZaBk7Dk5LH8HD4wAT"
+        },
+        {
+          "name": "William Greco",
+          "url": "https://open.spotify.com/artist/2G3FvyJF3BeYs7apD0OyxD"
+        },
+        {
+          "name": "Marco Bardoscia",
+          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
+        },
+        {
+          "name": "Emanuele Maniscalco",
+          "url": "https://open.spotify.com/artist/5CHF5PlrmG7StHgJJQQybc"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 130070,
+      "name": "Lughe",
+      "url": "https://open.spotify.com/track/7piSihvQaMCciMW77oEcSO"
+    },
+    {
+      "album": {
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "album": {
@@ -1860,6 +3045,68 @@
     },
     {
       "album": {
+        "name": "4 jazz ensemble",
+        "url": "https://open.spotify.com/album/2ezZCTkN0c5lArXUSFyq2m"
+      },
+      "artists": [
+        {
+          "name": "Furio Di Castri",
+          "url": "https://open.spotify.com/artist/3OC734JRP0jfGNAaJlXycI"
+        },
+        {
+          "name": "Simone Blasioli",
+          "url": "https://open.spotify.com/artist/68lUxS3pedsaDheFRlcxFn"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292226,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/5NW4cRpZJ8vzH0jirLu7vp"
+    },
+    {
+      "album": {
+        "name": "MARIONETTE (feat. Danno)",
+        "url": "https://open.spotify.com/album/6TCKONF2sJiakUZEoxtpam"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-06",
+      "duration_ms": 219130,
+      "name": "MARIONETTE (feat. Danno)",
+      "url": "https://open.spotify.com/track/7EYYeV2YB8qhYC0KtpXpMC"
+    },
+    {
+      "album": {
+        "name": "It's Christmas: Natale In Vaticano",
+        "url": "https://open.spotify.com/album/4K5jJ4tOFpYz0WPU8eY1Wm"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 254266,
+      "name": "Mater Jubilaei",
+      "url": "https://open.spotify.com/track/2zHoTOxSpsNSyIBHzAw6rp"
+    },
+    {
+      "album": {
         "name": "Sol!",
         "url": "https://open.spotify.com/album/6gR6DWjELEjlmszgXKn1Tj"
       },
@@ -1882,6 +3129,36 @@
     },
     {
       "album": {
+        "name": "Tales",
+        "url": "https://open.spotify.com/album/0uhSpemJWZQDERlVysvJpP"
+      },
+      "artists": [
+        {
+          "name": "Paolino Dalla Porta",
+          "url": "https://open.spotify.com/artist/0PDlWX8LMhV9Kb11eWBCjJ"
+        },
+        {
+          "name": "Kenny Wheeler",
+          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
+        },
+        {
+          "name": "Stefano Battaglia",
+          "url": "https://open.spotify.com/artist/4wN15hzVaRr5oDCHEjgG4V"
+        },
+        {
+          "name": "Bill Elgart",
+          "url": "https://open.spotify.com/artist/3OdN7gprtq8DR6d6I6JX2Z"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428066,
+      "name": "Mbira",
+      "url": "https://open.spotify.com/track/0NPe37TgJZ8XtWU2hkpqFm"
+    },
+    {
+      "album": {
         "name": "Stasi",
         "url": "https://open.spotify.com/album/2WN9w0YV9ystKje62lOdes"
       },
@@ -1893,10 +3170,28 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 286680,
       "name": "Meditazione Urbana",
       "url": "https://open.spotify.com/track/0SMctGz6hAXgbZWCD8DsjZ"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Baby",
+        "url": "https://open.spotify.com/album/5LAnvIE9e7GEbmGG75YEAY"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Bosso Quartet",
+          "url": "https://open.spotify.com/artist/2s7aXQWfY9dO6d4bfgUiuL"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 331693,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/1rMq8c3AvKLv8k7h4NCOTv"
     },
     {
       "album": {
@@ -1922,6 +3217,72 @@
     },
     {
       "album": {
+        "name": "Torero",
+        "url": "https://open.spotify.com/album/24BN26qwE9PDc4BNK94TPy"
+      },
+      "artists": [
+        {
+          "name": "Renato Carosone",
+          "url": "https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 188626,
+      "name": "Mo Vene Natale",
+      "url": "https://open.spotify.com/track/0CbXXouCcgmdGQLJMsIlfv"
+    },
+    {
+      "album": {
+        "name": "Blend Pages",
+        "url": "https://open.spotify.com/album/5skV1RyI4YQSPDNgbJLIIr"
+      },
+      "artists": [
+        {
+          "name": "Enrico Zanisi",
+          "url": "https://open.spotify.com/artist/4KDUJ3lepnrI1GSafqwpAK"
+        },
+        {
+          "name": "Quatuor IXI",
+          "url": "https://open.spotify.com/artist/7fgALsTVEOs6dlcDw0tU3W"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        },
+        {
+          "name": "Michele Rabbia",
+          "url": "https://open.spotify.com/artist/0PrEXi9LcYr5j82OZLNyNA"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260423,
+      "name": "Modulus",
+      "url": "https://open.spotify.com/track/4kPOrrzzWHaj5Oxm7SHsfJ"
+    },
+    {
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
+      },
+      "artists": [
+        {
+          "name": "Federico Bosio",
+          "url": "https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272516,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/2ccPcw1TH1mc4YgLen3ab7"
+    },
+    {
+      "album": {
         "name": "Cosmica Italiana",
         "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
       },
@@ -1937,7 +3298,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 222391,
       "name": "Movimento Astratto",
       "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
@@ -1981,7 +3342,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 278773,
       "name": "Musica e fumo (featuring Colle Der Fomento)",
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
@@ -2003,7 +3364,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 203545,
       "name": "My Abstract Monkey",
       "url": "https://open.spotify.com/track/151H6RkyTGT8Ly2rXqk9hI"
@@ -2050,6 +3411,132 @@
     },
     {
       "album": {
+        "name": "Songshine",
+        "url": "https://open.spotify.com/album/0IElVERB2Ht5dsxhkOEeYO"
+      },
+      "artists": [
+        {
+          "name": "Francesca Corrias",
+          "url": "https://open.spotify.com/artist/5CVqFDtjtfBpFIvtBIX4Kf"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357960,
+      "name": "Na Minha Casa Mais Uma Vez",
+      "url": "https://open.spotify.com/track/48uyu04YowGIg4uXb4k8qq"
+    },
+    {
+      "album": {
+        "name": "De Gregori",
+        "url": "https://open.spotify.com/album/7lXs5nwf9uayxVnjDqB16J"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 155466,
+      "name": "Natale",
+      "url": "https://open.spotify.com/track/4xM4ctOb3WswWUQzutFh1P"
+    },
+    {
+      "album": {
+        "name": "Natale Napoletano: Christmas In Italy (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4Z9LTLb1IQRK3qHLIqLPg1"
+      },
+      "artists": [
+        {
+          "name": "Roberto Murolo",
+          "url": "https://open.spotify.com/artist/4Y7fW86VPX4T4Ojio2fQCm"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 138015,
+      "name": "Natale 'Nzieme A Tte",
+      "url": "https://open.spotify.com/track/4MgpGgFdetliH20e3NWgwt"
+    },
+    {
+      "album": {
+        "name": "Baffo Natale Compilation (Le canzoni di Natale di Radio Deejay)",
+        "url": "https://open.spotify.com/album/4GBKwwtQlTOF8GJfaht7Mz"
+      },
+      "artists": [
+        {
+          "name": "Elio e le Storie Tese",
+          "url": "https://open.spotify.com/artist/61r4cE4aoOD50wPNhQ5fF7"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 271213,
+      "name": "Natale allo zenzero",
+      "url": "https://open.spotify.com/track/0YAzTMg2rOv7FbkbBJSDo2"
+    },
+    {
+      "album": {
+        "name": "Un Gioco Senza Eta'",
+        "url": "https://open.spotify.com/album/7uTQP1en3s8ovWVqOEZn8I"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 207000,
+      "name": "Natale Ciao",
+      "url": "https://open.spotify.com/track/2kalZiYSGmZLO30NhYpdW5"
+    },
+    {
+      "album": {
+        "name": "Indimenticabile Arigliano (Remastered)",
+        "url": "https://open.spotify.com/album/4QMJAGu6hdoXiDfJfR1JzU"
+      },
+      "artists": [
+        {
+          "name": "Nicola Arigliano",
+          "url": "https://open.spotify.com/artist/2idnMmsuRiGC9cij6q8jFD"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 176006,
+      "name": "Natale Mi Portera' (Remastered)",
+      "url": "https://open.spotify.com/track/5TJCZ1fLo1pvDvkYv7ySrH"
+    },
+    {
+      "album": {
+        "name": "#PRONTOACORRERE",
+        "url": "https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 224600,
+      "name": "Natale senza regali",
+      "url": "https://open.spotify.com/track/3KrS7qwA23MgkaMPlAtg5T"
+    },
+    {
+      "album": {
         "name": "Correspondence",
         "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
       },
@@ -2077,10 +3564,28 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 342447,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
+    },
+    {
+      "album": {
+        "name": "Nottes de incantu 1974 \u2013 1992",
+        "url": "https://open.spotify.com/album/0DkRio5FvRqTnpBPJb7jkX"
+      },
+      "artists": [
+        {
+          "name": "Maria Carta",
+          "url": "https://open.spotify.com/artist/2hbba2BStMNL0srnRkyZc1"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 181360,
+      "name": "Ninna nanna e Natale",
+      "url": "https://open.spotify.com/track/71XqWgeNZzIgjxDQCyg5tX"
     },
     {
       "album": {
@@ -2099,6 +3604,24 @@
       "duration_ms": 173466,
       "name": "Non E' Niente",
       "url": "https://open.spotify.com/track/4j8dq61rjRRM5tIhQqrZDv"
+    },
+    {
+      "album": {
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+      },
+      "artists": [
+        {
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
     },
     {
       "album": {
@@ -2125,6 +3648,42 @@
       "duration_ms": 293866,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY"
+    },
+    {
+      "album": {
+        "name": "Ieri, oggi, domani (Colonna sonora originale del film)",
+        "url": "https://open.spotify.com/album/6oBb7TeayuOCABidvvgtL7"
+      },
+      "artists": [
+        {
+          "name": "Armando Trovajoli",
+          "url": "https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 97053,
+      "name": "Notte di natale",
+      "url": "https://open.spotify.com/track/2Fo3L82IGMVr27fgXTyo6g"
+    },
+    {
+      "album": {
+        "name": "Claudio Baglioni",
+        "url": "https://open.spotify.com/album/2nOGASlmPgrVsMovbLqvQq"
+      },
+      "artists": [
+        {
+          "name": "Claudio Baglioni",
+          "url": "https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 175000,
+      "name": "Notte di Natale",
+      "url": "https://open.spotify.com/track/5uiR8HLCXEVfLP7ZLMUPKW"
     },
     {
       "album": {
@@ -2232,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Christmas Song Book",
+        "url": "https://open.spotify.com/album/4G8InUPFyldFvdLZmlb4sa"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 359466,
+      "name": "Old Fashion Christmas",
+      "url": "https://open.spotify.com/track/3QSerAs5hrCfJlVT4WnXju"
+    },
+    {
+      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -2259,7 +3836,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 254494,
       "name": "Oltremare",
       "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
@@ -2307,10 +3884,32 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 439573,
       "name": "Other Each",
       "url": "https://open.spotify.com/track/5moUMG6e7WVJzU0AlOKotS"
+    },
+    {
+      "album": {
+        "name": "Two for Stevie",
+        "url": "https://open.spotify.com/album/2b0poymhhEY2ZpMZVE2MZy"
+      },
+      "artists": [
+        {
+          "name": "Dado Moroni",
+          "url": "https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz"
+        },
+        {
+          "name": "Max Ionata",
+          "url": "https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219826,
+      "name": "Overjoyed",
+      "url": "https://open.spotify.com/track/3RGXxKPXnkELWyn5TWF7xq"
     },
     {
       "album": {
@@ -2372,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "Nuova Compagnia Di Canto Popolare (NCCP)",
+        "url": "https://open.spotify.com/album/7CYPwgRhxtGokUF7STd6Ay"
+      },
+      "artists": [
+        {
+          "name": "Nuova Compagnia Di Canto Popolare",
+          "url": "https://open.spotify.com/artist/0v2oiqsRMaLyGtj8NY4V6f"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 241800,
+      "name": "Quanno Nascette Ninno",
+      "url": "https://open.spotify.com/track/07Z6xha7yVnQ1Uf7XMjRKb"
+    },
+    {
+      "album": {
         "name": "Per Te",
         "url": "https://open.spotify.com/album/29alcSE4rofm8RICrDq6mQ"
       },
@@ -2423,10 +4040,50 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 242645,
       "name": "Randagio",
       "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
+    },
+    {
+      "album": {
+        "name": "Dalla pelle al cuore",
+        "url": "https://open.spotify.com/album/1XgzTiDEgwYsNkzoRxYyFg"
+      },
+      "artists": [
+        {
+          "name": "Antonello Venditti",
+          "url": "https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 248933,
+      "name": "Regali di Natale",
+      "url": "https://open.spotify.com/track/2o05pTnGWQY0k0t32K0DSG"
+    },
+    {
+      "album": {
+        "name": "The Song Is You",
+        "url": "https://open.spotify.com/album/37icCXoQLxStDrkSX1xX7k"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474386,
+      "name": "Retrato em Branco e Preto",
+      "url": "https://open.spotify.com/track/6sBeHtj9KZoooHSHNohiwx"
     },
     {
       "album": {
@@ -2459,10 +4116,28 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 145720,
       "name": "Rhtbmk2",
       "url": "https://open.spotify.com/track/5iUOEeKtwgy2PgdQz0hVq0"
+    },
+    {
+      "album": {
+        "name": "Rimbaud",
+        "url": "https://open.spotify.com/album/4L3T8u7aOylbY7p0WUFGu0"
+      },
+      "artists": [
+        {
+          "name": "Stefano Bagnoli",
+          "url": "https://open.spotify.com/artist/18ctV072Ro4jq3Uof7fYzN"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386133,
+      "name": "Rimbaud",
+      "url": "https://open.spotify.com/track/2J9CaCQHfkvlZxljv3xzf4"
     },
     {
       "album": {
@@ -2481,6 +4156,24 @@
       "duration_ms": 233093,
       "name": "Samba & Amor",
       "url": "https://open.spotify.com/track/1cIgUZK3ADlx5WcfBf4EMY"
+    },
+    {
+      "album": {
+        "name": "La Sicilienne",
+        "url": "https://open.spotify.com/album/5viyuWQ9NFc0fymwdyIntM"
+      },
+      "artists": [
+        {
+          "name": "Gera Bertolone",
+          "url": "https://open.spotify.com/artist/4qOKj8chxckmAEvPffUytj"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 136347,
+      "name": "Sant'Antuninu calati",
+      "url": "https://open.spotify.com/track/5oXFZ6u97r1fdr89CpjIsl"
     },
     {
       "album": {
@@ -2520,6 +4213,122 @@
     },
     {
       "album": {
+        "name": "Shinnen",
+        "url": "https://open.spotify.com/album/3LLfcKvdVKhVGHYxWExhin"
+      },
+      "artists": [
+        {
+          "name": "Wolf Gang 4ET",
+          "url": "https://open.spotify.com/artist/2PGXmOwLKlsDIdhVPlADzS"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297867,
+      "name": "Sen",
+      "url": "https://open.spotify.com/track/2acx5TtuRlhvY2kdp30czp"
+    },
+    {
+      "album": {
+        "name": "Italian Songs",
+        "url": "https://open.spotify.com/album/0JJtScld5WmPKK3SE7zyqh"
+      },
+      "artists": [
+        {
+          "name": "Pietro Tonolo",
+          "url": "https://open.spotify.com/artist/199NCc2CNtK72PrDmH8qGe"
+        },
+        {
+          "name": "Gil Goldstein",
+          "url": "https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q"
+        },
+        {
+          "name": "Essiet Okun Essiet",
+          "url": "https://open.spotify.com/artist/7MriMdHCy2Xhbj7nnXcum6"
+        },
+        {
+          "name": "Joe Chambers",
+          "url": "https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339480,
+      "name": "Senza fine",
+      "url": "https://open.spotify.com/track/3Bdvznt0kZNYeHTZK9yJtp"
+    },
+    {
+      "album": {
+        "name": "Sfiorire",
+        "url": "https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA"
+      },
+      "artists": [
+        {
+          "name": "Francesca Gaza",
+          "url": "https://open.spotify.com/artist/6jLkAhKbd3toZ58ri9NQrV"
+        },
+        {
+          "name": "Lilac for People",
+          "url": "https://open.spotify.com/artist/1kzPulOF322PjMpEXxRaDi"
+        },
+        {
+          "name": "Francesco Panconesi",
+          "url": "https://open.spotify.com/artist/6uKv6Z2fiKeT5Y5t7mNyLH"
+        },
+        {
+          "name": "Lorenzo Pellegrini",
+          "url": "https://open.spotify.com/artist/6c3utzV4qal0l7YBAritiT"
+        },
+        {
+          "name": "Federico D'Angelo",
+          "url": "https://open.spotify.com/artist/6zKvi01bSjLn1CQdjdxMqN"
+        },
+        {
+          "name": "Mattia Galeotti",
+          "url": "https://open.spotify.com/artist/2tKfm6EL0BNZk730TYTmef"
+        },
+        {
+          "name": "Jacopo Fagioli",
+          "url": "https://open.spotify.com/artist/695Z6UdxewsuHti1yj1p02"
+        },
+        {
+          "name": "Alessandro Mazzieri",
+          "url": "https://open.spotify.com/artist/2p4O37ipDx6ZgQ9oWNwTtX"
+        },
+        {
+          "name": "Luca Sguera",
+          "url": "https://open.spotify.com/artist/3bipt9nPFehsZyLDvObGlr"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 451217,
+      "name": "Sfiorire",
+      "url": "https://open.spotify.com/track/5orMYwNNFe3eg2VFzogmTG"
+    },
+    {
+      "album": {
+        "name": "Decollage",
+        "url": "https://open.spotify.com/album/56om3Xl6tD4uo2UGM9R9Tm"
+      },
+      "artists": [
+        {
+          "name": "Marco Devito",
+          "url": "https://open.spotify.com/artist/4v3sRAicQLkaQsws8tdQjt"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302906,
+      "name": "Shufflin'",
+      "url": "https://open.spotify.com/track/7jqX70yLCSHDbK5HRojPhP"
+    },
+    {
+      "album": {
         "name": "Band au Neon, Ill Segreto",
         "url": "https://open.spotify.com/album/5p62NtQoR15yISunXIWoRp"
       },
@@ -2543,6 +4352,24 @@
       "duration_ms": 359573,
       "name": "Sicilian Waltz",
       "url": "https://open.spotify.com/track/7pTUBVqBlp1msJe9q9VhfU"
+    },
+    {
+      "album": {
+        "name": "Discover",
+        "url": "https://open.spotify.com/album/0lVjyd4Ap3iOZ4lYkCstal"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 205459,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/3lnJ8dsotcdRuAosXnV9VG"
     },
     {
       "album": {
@@ -2593,7 +4420,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 160849,
       "name": "Sogni, Pt. 3",
       "url": "https://open.spotify.com/track/4RtOrvuNEd7sVmPA44OWVn"
@@ -2633,7 +4460,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
@@ -2651,7 +4478,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 192500,
       "name": "Spears of Leaves",
       "url": "https://open.spotify.com/track/0fMtkZWxfjmmIalaAfeUM0"
@@ -2677,7 +4504,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 203453,
       "name": "Stan Lee - Alternate Version",
       "url": "https://open.spotify.com/track/1tv82hvJ88GOseKWEYsW3L"
@@ -2735,10 +4562,46 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 148562,
       "name": "Super Play-Doh",
       "url": "https://open.spotify.com/track/7lU45TUW7JN0XQIR5BTyuX"
+    },
+    {
+      "album": {
+        "name": "La Sicilia di Rosa Balistreri",
+        "url": "https://open.spotify.com/album/3u7lY7pmS8Q7iNPyTDTwuH"
+      },
+      "artists": [
+        {
+          "name": "Rosa Balistreri",
+          "url": "https://open.spotify.com/artist/6PMYU9RDf4z5H45KdeMyeF"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 184133,
+      "name": "Sutta n' pedi",
+      "url": "https://open.spotify.com/track/0vBMVwaEziXRW28olgctME"
+    },
+    {
+      "album": {
+        "name": "Metafisica per le scimmie",
+        "url": "https://open.spotify.com/album/0Uy3oJbPLVQPWmGGMmromk"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395314,
+      "name": "Tango di roberto",
+      "url": "https://open.spotify.com/track/36kX2WS0gxiaNxkOyzNDQJ"
     },
     {
       "album": {
@@ -2757,6 +4620,36 @@
       "duration_ms": 263226,
       "name": "Tempo perduto",
       "url": "https://open.spotify.com/track/55c6MaCvuBjYeV6rcmzmbU"
+    },
+    {
+      "album": {
+        "name": "Ten Stops",
+        "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
+      },
+      "artists": [
+        {
+          "name": "Simone Locarni",
+          "url": "https://open.spotify.com/artist/3csUj3ZIE3yX1maghB7MZ5"
+        },
+        {
+          "name": "Andrea Dulbecco",
+          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Riccardo Fioravanti",
+          "url": "https://open.spotify.com/artist/6efZd8coYQR0z5g2PTyshf"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344596,
+      "name": "Ten Stops",
+      "url": "https://open.spotify.com/track/0hlprOV51kOSzcJm2c2KOR"
     },
     {
       "album": {
@@ -2783,7 +4676,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 276000,
       "name": "That Place",
       "url": "https://open.spotify.com/track/48FYBcHOQAvt0wFtmKDp7x"
@@ -2813,6 +4706,60 @@
       "duration_ms": 355093,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/6RkyaHiXGS0BIbOcQ9RVom"
+    },
+    {
+      "album": {
+        "name": "Lem",
+        "url": "https://open.spotify.com/album/6kax3ZJbeKMaGvVAvqcVu1"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Cominoli",
+          "url": "https://open.spotify.com/artist/6tPpbEcC7fLPHTXNiYUvfR"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212080,
+      "name": "The Night of the Shooting Stars",
+      "url": "https://open.spotify.com/track/0w5HifA7DPPkSp8JSpyZNb"
+    },
+    {
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/0lLZ0sNGd5TjmGHyTAL22u"
+      },
+      "artists": [
+        {
+          "name": "Massimo Colombo",
+          "url": "https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271952,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/52q4UWhfwUEsPUuHbyLnhG"
+    },
+    {
+      "album": {
+        "name": "The Taste of a Second Life",
+        "url": "https://open.spotify.com/album/5y30XS52MOmdCjgyfT09F5"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Buonasorte",
+          "url": "https://open.spotify.com/artist/15wjzRU7OW3W6O9GuAnxNS"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300866,
+      "name": "The Taste of a Second Life",
+      "url": "https://open.spotify.com/track/0oEd9P9E0rvGia5hn93xbG"
     },
     {
       "album": {
@@ -2849,7 +4796,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 232584,
       "name": "The Western Guys",
       "url": "https://open.spotify.com/track/5u2BJIr3c9kazCyBFQevvn"
@@ -2879,7 +4826,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 454026,
       "name": "Time Back",
       "url": "https://open.spotify.com/track/1F1Nm8dXWjSqmQItbENbAD"
@@ -2908,6 +4855,44 @@
     },
     {
       "album": {
+        "name": "The Cube",
+        "url": "https://open.spotify.com/album/5LEyuNdDb3U6U9NbtMnNT1"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        },
+        {
+          "name": "Dado Moroni",
+          "url": "https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz"
+        },
+        {
+          "name": "A.Dulbecco",
+          "url": "https://open.spotify.com/artist/04UTzakRwaH7rZ5TjAsT3o"
+        },
+        {
+          "name": "R. Fioravanti",
+          "url": "https://open.spotify.com/artist/2cBxFZFlI3zdKislug7mja"
+        },
+        {
+          "name": "S.Bagnoli",
+          "url": "https://open.spotify.com/artist/0lwIBPX35vVdol0QNnj0OW"
+        },
+        {
+          "name": "E. Zirilli",
+          "url": "https://open.spotify.com/artist/4DAo7PW2OcG1CLQbCDHy4L"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445093,
+      "name": "Tom' S Soul",
+      "url": "https://open.spotify.com/track/4RYomZ4HzIz7JWW5i52egb"
+    },
+    {
+      "album": {
         "name": "Unconscious Collective",
         "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
       },
@@ -2919,10 +4904,140 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 289634,
       "name": "Transe Napolitaine",
       "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
+    },
+    {
+      "album": {
+        "name": "Dialogues",
+        "url": "https://open.spotify.com/album/04mcwadpwSaYynroTEqYJg"
+      },
+      "artists": [
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        },
+        {
+          "name": "Stefano Maurizi",
+          "url": "https://open.spotify.com/artist/2dcgy7gYodUcL5l1V16qan"
+        },
+        {
+          "name": "Mirco Mariottini",
+          "url": "https://open.spotify.com/artist/59pnlMKJa3phDabIFCfQeN"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270902,
+      "name": "Tribal Dance",
+      "url": "https://open.spotify.com/track/63Bq1F9wKFzn7OZhYR3WCh"
+    },
+    {
+      "album": {
+        "name": "It's Christmas: Natale In Vaticano",
+        "url": "https://open.spotify.com/album/4K5jJ4tOFpYz0WPU8eY1Wm"
+      },
+      "artists": [
+        {
+          "name": "Alex Baroni",
+          "url": "https://open.spotify.com/artist/7oF61eBQhjGDnvMi8chRWJ"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 201893,
+      "name": "Tu scendi dalle stelle",
+      "url": "https://open.spotify.com/track/7nipwp8n0SJpduj5mnWsgA"
+    },
+    {
+      "album": {
+        "name": "Christmas With Pavarotti",
+        "url": "https://open.spotify.com/album/09N9UkEQRmcGccwnonS5rq"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Piccolo Coro dell'Antoniano",
+          "url": "https://open.spotify.com/artist/39t4rvQNzG5GDvZfRYJPXq"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Leone Magiera",
+          "url": "https://open.spotify.com/artist/6pJfC2TAxHXlBX5jejeK5O"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 180036,
+      "name": "Tu scendi dalle stelle",
+      "url": "https://open.spotify.com/track/2mh47KTVTIV5JJbc1GamLP"
+    },
+    {
+      "album": {
+        "name": "Canzoni",
+        "url": "https://open.spotify.com/album/7tKG6WmBPtExiV2bKkDUg5"
+      },
+      "artists": [
+        {
+          "name": "Andrea Dulbecco",
+          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
+        },
+        {
+          "name": "Stephane Belmondo",
+          "url": "https://open.spotify.com/artist/2HsdpzMMjSYXK8rz9TayYg"
+        },
+        {
+          "name": "Thomas Bramerie",
+          "url": "https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq"
+        },
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409413,
+      "name": "Tu t'laisses aller",
+      "url": "https://open.spotify.com/track/5p1lNBbLkzKIH24IgB3X3z"
+    },
+    {
+      "album": {
+        "name": "La Strada Invisibile",
+        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
+      },
+      "artists": [
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        },
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288616,
+      "name": "Tuareg",
+      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
     },
     {
       "album": {
@@ -2977,7 +5092,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 238043,
       "name": "Un giardino",
       "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
@@ -3038,6 +5153,62 @@
     },
     {
       "album": {
+        "name": "Time's Passage",
+        "url": "https://open.spotify.com/album/31GaBJOZatLu1meZhnAnsr"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Andrea Dulbecco",
+          "url": "https://open.spotify.com/artist/2S2ki3NiFqZzwIlHSRKKgL"
+        },
+        {
+          "name": "Simona Severini",
+          "url": "https://open.spotify.com/artist/4vroeiilEmGUxJwMGCajB7"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257093,
+      "name": "Valse pour apollinaire",
+      "url": "https://open.spotify.com/track/7pwz9HiyXLMLKi61zgT5CG"
+    },
+    {
+      "album": {
+        "name": "Kon-Tiki",
+        "url": "https://open.spotify.com/album/0YKt2LBFMXmW6OkvRquhF2"
+      },
+      "artists": [
+        {
+          "name": "Francesco Ponticelli",
+          "url": "https://open.spotify.com/artist/4klbybHadQeqyAjyVFm3Gn"
+        },
+        {
+          "name": "Dan Kinzelman",
+          "url": "https://open.spotify.com/artist/626snB0CD6rV2I47Xb41EO"
+        },
+        {
+          "name": "Enrico Zanisi",
+          "url": "https://open.spotify.com/artist/4KDUJ3lepnrI1GSafqwpAK"
+        },
+        {
+          "name": "Enrico Morello",
+          "url": "https://open.spotify.com/artist/3UdoL4iyxmmgzvpY7209Ps"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315763,
+      "name": "Vetro rosso",
+      "url": "https://open.spotify.com/track/6lUdQ7hDSF81C5kkya2xNW"
+    },
+    {
+      "album": {
         "name": "La bambina e il trapezista",
         "url": "https://open.spotify.com/album/5yg8TJ5OUVsbUbnmwWWZU7"
       },
@@ -3061,10 +5232,28 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 146119,
       "name": "Via di uscita",
       "url": "https://open.spotify.com/track/6a4MlOyKbaaQi6o0IaONKn"
+    },
+    {
+      "album": {
+        "name": "Integra",
+        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "Vibrare",
+      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
     },
     {
       "album": {
@@ -3141,10 +5330,40 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 541226,
       "name": "When the Glimpses are True - feat. Logan Richardson, Peter Wilson",
       "url": "https://open.spotify.com/track/0bqTEAffuz1uSJaSJSZBLR"
+    },
+    {
+      "album": {
+        "name": "Concerto Di Natale",
+        "url": "https://open.spotify.com/album/6HBoOla1ahwaDekiOkVILu"
+      },
+      "artists": [
+        {
+          "name": "Doctor Dixie Jazz Band",
+          "url": "https://open.spotify.com/artist/4dpNqYwaajVzeoNIxbQlah"
+        },
+        {
+          "name": "Lucio Dalla",
+          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+        },
+        {
+          "name": "Gli Archi Dell'Orchestra Di Camera Di Bologna",
+          "url": "https://open.spotify.com/artist/5bNDzCAdSIUotKQ47J3HUs"
+        },
+        {
+          "name": "Henghel Gualdi",
+          "url": "https://open.spotify.com/artist/0jMkvb08OovlgU9LQfwGc7"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 275906,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6wtNVKgmt5VJyGebqoU80x"
     },
     {
       "album": {
@@ -3159,7 +5378,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 154055,
       "name": "Yellowblack",
       "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
@@ -3181,7 +5400,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 457360,
       "name": "You can't go home again",
       "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
@@ -3221,6 +5440,24 @@
       "duration_ms": 233160,
       "name": "Ziza",
       "url": "https://open.spotify.com/track/2jFUhbdMvf2BHxq6DyjBvW"
+    },
+    {
+      "album": {
+        "name": "Canzoni per Natale",
+        "url": "https://open.spotify.com/album/2ZcJKP6piPF8alvJhDHVJG"
+      },
+      "artists": [
+        {
+          "name": "Irene Grandi",
+          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 230772,
+      "name": "\u00c8 Natale",
+      "url": "https://open.spotify.com/track/1k45mt9ZnnlAm3iieIb5A5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX30D074EWuy7"

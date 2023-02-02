@@ -4,7 +4,7 @@
 
 > Modern, eccentric, ironic, progressive, bohemian, experimental, cheeky, romantic..\. poetry.
 
-30 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/0dlto0Ti5Yg0dLiUufRa5s)
+30 songs - 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

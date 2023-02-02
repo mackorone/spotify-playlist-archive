@@ -4,7 +4,7 @@
 
 > The best solo jazz piano pieces through all time\. Cover: Keith Jarrett
 
-125 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/133bIrvgCDuZieyRgurxk1)
+125 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-82 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/4z4liMLXSt1JHB0mmnGsSi)
+84 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,10 +47,12 @@
 | [Mjolo](https://open.spotify.com/track/7k6DZNnYlqA11Cvpc4KLHW) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 5:54 | 2022-02-11 |  |
 | [Molo](https://open.spotify.com/track/1Jg0lG581ibc6gjzGbuRqo) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Imvula Mlomo](https://open.spotify.com/album/3r1hGbzM9bIIEQww2FrmlH) | 4:18 | 2022-02-11 |  |
 | [My Soul](https://open.spotify.com/track/2VFMjqLTdFSOhJYSkBjkw1) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [My Soul](https://open.spotify.com/album/1iTw4yH191S5apwr3LmlcP) | 2:51 | 2022-02-11 |  |
-| [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 | 2022-02-11 |  |
+| [Ndikuthandile](https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk) | 4:14 | 2022-02-11 |  |
+| [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 | 2022-02-11 | 2023-01-29 |
 | [Ndikuthandile](https://open.spotify.com/track/5dkicllD31FgPf1WoE7wfD) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Evening Of Love Volume 1](https://open.spotify.com/album/1YOYdJxjiUrwP4E6RktAk1) | 4:14 | 2022-02-11 | 2022-11-13 |
 | [Ndilinde](https://open.spotify.com/track/5PwPfqoN2EnW2hVYS7rv1f) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 5:51 | 2022-02-11 |  |
-| [Ndizakulinda](https://open.spotify.com/track/0ye4dGTsrYGgextieTRILC) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Manyan\-Nyan](https://open.spotify.com/album/2MTklyV4R4mB2MY4KdsoZY) | 4:25 | 2022-02-11 |  |
+| [Ndizakulinda](https://open.spotify.com/track/6zyeB1g4X42kfk2oACeBD3) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Manyan\-nyan](https://open.spotify.com/album/4cLXQxAwec5h5NlekHWxxZ) | 4:24 | 2022-02-11 |  |
+| [Ndizakulinda](https://open.spotify.com/track/0ye4dGTsrYGgextieTRILC) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Manyan\-Nyan](https://open.spotify.com/album/2MTklyV4R4mB2MY4KdsoZY) | 4:25 | 2022-02-11 | 2023-01-29 |
 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 | 2022-02-11 |  |
 | [Ngibambe La](https://open.spotify.com/track/6ch4Vpb2Zc88dCuy06Jgt8) | [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [Claudio](https://open.spotify.com/artist/3yZTQuteUZgfg58YrcnjHc), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Selimathunzi](https://open.spotify.com/album/1PvEbaeOU4QHPYg9aI2jh2) | 3:50 | 2022-02-11 |  |
 | [Ngiphelele](https://open.spotify.com/track/4E5JMQvCv7Bzt3E04hvxY2) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Love and Respect](https://open.spotify.com/album/3tEgPrJtHZJDLvWwd2w8Kc) | 4:23 | 2022-02-11 |  |

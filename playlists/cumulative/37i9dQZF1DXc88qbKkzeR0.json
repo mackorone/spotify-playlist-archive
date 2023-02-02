@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-23",
   "description": "Songs for your villain era, curated by Jenn Robinson, Camila Mendes & Maya Hawke. Watch Do Revenge on Netflix.",
   "name": "Netflix's most PLAYED",
-  "published_playlist_ids": [
-    "0apMnsLqqy4OYzTgiQlxlm"
-  ],
   "tracks": [
     {
       "album": {
@@ -1095,10 +1092,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 167517,
       "name": "The Devil",
       "url": "https://open.spotify.com/track/0RVmQhPYqnyCGzIPo6K5cs"
+    },
+    {
+      "album": {
+        "name": "Serpentina",
+        "url": "https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167517,
+      "name": "The Devil",
+      "url": "https://open.spotify.com/track/2V42gWdGouZxx742zdv8Pa"
     },
     {
       "album": {

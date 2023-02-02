@@ -4,7 +4,7 @@
 
 > Here are the winners of the 48th Annual GMA Dove Awards\. For more information go to <a href="http://doveawards.com//">2017 Dove Awards</a>
 
-31 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/4caiUoRFFGqTXYmKac7uj8)
+31 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Chill out to the sweetest soul songs.
 
-175 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/7xn5yJaidaf1p3Zso53LRw)
+175 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Easy](https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Very Best Of The Commodores](https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn) | 4:20 | 2021-02-18 | 2022-07-29 |
 | [Fantasy](https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:46 | 2021-02-18 |  |
 | [Fantasy \- Single Version](https://open.spotify.com/track/3YcusdF0VAb25wLvmvJDJ6) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/6kEe268WsSL0bE5KPeaq8X) | 3:46 | 2021-02-18 | 2022-07-29 |
-| [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 | 2021-02-18 | 2022-11-13 |
+| [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 | 2021-02-18 |  |
 | [Find Someone Like You](https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:26 | 2021-02-18 | 2022-11-13 |
 | [Float On](https://open.spotify.com/track/0i38ukkDaXt4bCP0osIbz0) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 4:10 | 2021-02-18 | 2022-06-22 |
 | [Float On \- Single Version](https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:15 | 2021-02-18 | 2022-11-12 |
@@ -91,7 +91,7 @@
 | [Let The Music Play \- Single Version](https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 3:30 | 2021-02-18 |  |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2021-02-18 |  |
 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 | 2021-02-18 | 2022-07-29 |
-| [Liberian Girl \- 2012 Remastered Version](https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:52 | 2021-02-18 |  |
+| [Liberian Girl \- 2012 Remastered Version](https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:52 | 2021-02-18 | 2022-12-27 |
 | [LOVE AGAIN](https://open.spotify.com/track/2fhePAlCSsJplwkjqMYpVm) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [CASE STUDY 01](https://open.spotify.com/album/4mvxoogQn8p84Wz17zTHnJ) | 3:34 | 2021-02-18 |  |
 | [Love and Happiness](https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 5:07 | 2021-02-18 |  |
 | [Love Never Felt so Good](https://open.spotify.com/track/7l5S791OPaOUQPWnQcN4AS) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [A Special Part of Me \(Bonus Track Version\)](https://open.spotify.com/album/67p4rsyWvjZp7Wsvnj3xPK) | 4:18 | 2021-02-18 | 2022-07-29 |
@@ -125,7 +125,7 @@
 | [On Broadway](https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 5:16 | 2021-02-18 | 2022-11-13 |
 | [On My Own](https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Collection](https://open.spotify.com/album/7jueDf9uaDOwCSQOfM9rFs) | 4:49 | 2021-02-18 | 2022-07-29 |
 | [On My Own](https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Winner In You](https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN) | 4:50 | 2021-02-18 |  |
-| [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 5:02 | 2021-02-18 | 2022-11-17 |
+| [One Day I'll Fly Away](https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Now We May Begin](https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG) | 5:02 | 2021-02-18 | 2023-01-29 |
 | [Overdose of Joy](https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM) | [Eugene Record](https://open.spotify.com/artist/1EzKfWyQHxq5fzKoZpD9kM) | [The Eugene Record](https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B) | 4:17 | 2021-02-18 | 2022-07-29 |
 | [Piece of My Heart](https://open.spotify.com/track/6diUDNmdqKxxxXCKKkSUVL) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Bang: The Bert Berns Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VkQxw6r5SdO4o4yHnNxL9) | 2:37 | 2021-02-18 | 2022-07-29 |
 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 | 2021-02-18 | 2022-07-29 |

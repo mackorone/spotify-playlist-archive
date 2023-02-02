@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX712eqXXEDDc.md) - [plain]
 
 > <a href="spotify:artist:3MM3uKNdJbvefUael12dl3">Rochelle Jordan</a>'s track IDs\. Updated regularly\. Curated by Rochelle Jordan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,617 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,122 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX712eqXXEDDc.md) - [plain]
 | 45 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 |
 | 46 | [UNISEX \(feat\. Amber Mark\)](https://open.spotify.com/track/23fvPXabTlaUn9zkDb9XU5) | [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [UNISEX \(feat\. Amber Mark\)](https://open.spotify.com/album/4lA6xtiJILqi8VCSc6YXc6) | 3:21 |
 | 47 | [Moral High Ground](https://open.spotify.com/track/0DUzm8J7QUyl87lC5sd5Hi) | [Rush Davis](https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [Transmission](https://open.spotify.com/album/6I5fBKonbBZwStNHN9bquR) | 2:19 |
-| 48 | [Frontline](https://open.spotify.com/track/6b3KUNSmJL1qIfi1hF1G6Y) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu) | 5:39 |
+| 48 | [Frontline](https://open.spotify.com/track/51QgyO73gGeEIpG5SqoA6n) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/4mQ6UTM71F02O1jMVi625N) | 5:39 |
 | 49 | [Be My Lover \- House Mix](https://open.spotify.com/track/1KvVXaLTWBuBWClXeWJAQ4) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Sweet Dreams](https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ) | 3:54 |
 | 50 | [SMD](https://open.spotify.com/track/1jwlVNuTwv9uGeYoAsYdIL) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [SMD](https://open.spotify.com/album/1tDVl1AYrUCaIfXqq8xeVR) | 3:29 |
 | 51 | [hearts on fire](https://open.spotify.com/track/5nwLNgUGgBsBE4en888WIV) | [Ceréna](https://open.spotify.com/artist/6jdYcGAF6rLHIf1uc21w37) | [hearts on fire](https://open.spotify.com/album/6KA4tzrQUIeOZVBhyK2s24) | 3:37 |
 | 52 | [Babylon \- Bree Runway & Jimmy Edgar Remix](https://open.spotify.com/track/2xw4gYnfIZkH4GO9zPMNVR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:48 |
 | 53 | [We Have Time](https://open.spotify.com/track/7C8VVj1kpwPwyT4aMejIXp) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 3:19 |
-| 54 | [Rock With U](https://open.spotify.com/track/5dHdH9Zw6Z2TPbR1ggyj1B) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/7CkalyLeka8LiJvKBcmwkB) | 3:51 |
+| 54 | [Rock With U](https://open.spotify.com/track/5ZHwIIszkgLcVT3CicIylm) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:52 |
 | 55 | [Impact](https://open.spotify.com/track/7lMjO8TRiKQOEJBtJ1d0a0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Impact \(Soulwax Remix\)](https://open.spotify.com/album/57KnQqHMB2x5OFcvnm6G8U) | 4:43 |
 | 56 | [Another Lover](https://open.spotify.com/track/2KwW2VyIp48UXatX8S2TuL) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Silk Canvas](https://open.spotify.com/album/2EbhWs13R3DTnsGXHVZSPy) | 3:48 |
 | 57 | [Breeze Off the Pond](https://open.spotify.com/track/6GZLkw95zCwYmLEFMcFBmh) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX712eqXXEDDc.md) - [plain]
 | 59 | [SHY GUY](https://open.spotify.com/track/71PRtWCg3aW88Do0VLmjSy) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 1:06 |
 | 60 | [Someday \- salute Remix](https://open.spotify.com/track/7AVHYVUUTusrL4zPSekFfT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Someday \(salute Remix\)](https://open.spotify.com/album/5nJwm4Z2yrxJUIwXdbsr3R) | 4:49 |
 
-Snapshot ID: `MTY1NzkwNDUwNCwwMDAwMDAwMDczZjAwN2FlY2M1Yjk1NDNiMDhkN2VmOTcxOThmNjQ4`
+Snapshot ID: `MTY1NzkwNDUwNCwwMDAwMDAwMGJiNzViYmI1Y2Q2MTFlZGMyMWVmZGJkNjU5YmJmMzQ2`

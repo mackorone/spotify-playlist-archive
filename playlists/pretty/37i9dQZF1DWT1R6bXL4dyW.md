@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,756 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,064 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

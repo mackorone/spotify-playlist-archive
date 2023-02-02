@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KWRIlkUpsl.md) - [plain]
 
 > From Songs About Jane to JORDI, find their latest releases here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,971,415 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,956 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KWRIlkUpsl.md) - [plain]
 | 49 | [Cold \- Ashworth Remix](https://open.spotify.com/track/6aWmyJZAdn1YbQuofR2zaY) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Ashworth](https://open.spotify.com/artist/3pcGjcfEW3YD2Hfk6tDR5S) | [Cold \(Ashworth Remix\)](https://open.spotify.com/album/7sYuwZsIyf3BL5C3h2EhgV) | 4:02 |
 | 50 | [Give A Little More](https://open.spotify.com/track/2TRuBFYZYw0Q7qIVBhqR1T) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:00 |
 
-Snapshot ID: `MTYyNjA1NzIyNCwwMDAwMDAwMGMwZGM4YjljOWYwZWM4YTkyYmU5MmI0NjM1NDg1MWFh`
+Snapshot ID: `MTY3MzkyNDc4OCwwMDAwMDAwMDdhNTcyMjQzZmQ3YWY0ZGI2NDM5Y2ZlNzhkZGFhZTgx`

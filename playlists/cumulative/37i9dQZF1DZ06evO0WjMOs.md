@@ -4,7 +4,7 @@
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/4ptneBGeawMZorWRxeZGoM)
+52 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

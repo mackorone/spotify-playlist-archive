@@ -4,7 +4,7 @@
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-35 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/66WeKwe1hMKbsitXdspXoC)
+35 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > For your listening pleasure: relax with classic literature and the best of Hollywood and Broadway on the air\. Updated regularly.
 
-30 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/7nXDQ2XO3JqMMR4SM8jKnx)
+30 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

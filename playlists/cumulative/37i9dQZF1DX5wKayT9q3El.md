@@ -4,7 +4,7 @@
 
 > It's all of your family's favorite boy bands in one chart\-topping playlist!
 
-62 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0geTX7fV4AMKpKy8QFPXC3)
+62 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

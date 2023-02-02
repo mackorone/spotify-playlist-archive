@@ -4,7 +4,7 @@
 
 > An essential list of recent hits of SoGo\.  Cover: The Guardians
 
-147 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/0cTu18H5FuoqEK3v4T9BcB)
+147 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

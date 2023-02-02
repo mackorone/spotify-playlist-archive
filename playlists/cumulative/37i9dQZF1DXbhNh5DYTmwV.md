@@ -4,7 +4,7 @@
 
 > ¡Las canciones más chéveres están sonando aquí!
 
-85 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/2gT9p9h2AT84oVHAfgpUfs)
+86 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2022-05-17 |  |
 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 | 2022-06-10 |  |
 | [Tú 1ero](https://open.spotify.com/track/4pyTcXRw3Bz3zZMWp81v7F) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Tú 1ero](https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL) | 3:09 | 2022-05-17 |  |
-| [Una Fan Enamorada](https://open.spotify.com/track/07EGbR4e9MznCDPuWGcD93) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [La Historia](https://open.spotify.com/album/4VOSk2bhh4ubQcbCbL1uqZ) | 4:51 | 2022-07-01 |  |
+| [Una Fan Enamorada](https://open.spotify.com/track/07EGbR4e9MznCDPuWGcD93) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [La Historia](https://open.spotify.com/album/4VOSk2bhh4ubQcbCbL1uqZ) | 4:51 | 2022-07-01 | 2023-01-13 |
+| [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0ZrR1RTJj1glZWtYvBfU7M) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/6WazOboL5RdFSLktiSsZO5) | 4:51 | 2022-09-06 |  |
 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/0yccmoLCJ5J3Z2owPtdwgf) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Grandes Éxitos](https://open.spotify.com/album/6hwR8ta8BngmQSLZpICskl) | 4:51 | 2022-09-06 | 2022-11-13 |
 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/5XNeals8E3mLTZO2fmVPOB) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/5hqjRB0TZER795NKsz9tf0) | 4:51 | 2022-05-17 | 2022-07-29 |
 | [Una Lady Como Tú](https://open.spotify.com/track/5jf0PmPCHefQ78uAzqIqbj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:33 | 2022-05-17 |  |

@@ -4,12 +4,13 @@
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-78 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/5zoHWtnr63H3IOL754pMXc)
+79 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10K](https://open.spotify.com/track/5G2g7titQVbMK8jjRPWWr6) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [10K](https://open.spotify.com/album/5rwY84Tz6gnlCAdz1fdVwr) | 3:16 | 2020-06-17 |  |
-| [Backseat](https://open.spotify.com/track/6wDJfepTbKTD77PWL4lato) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Backseat](https://open.spotify.com/album/0p7IKV2hLRD82kyXv9js0v) | 3:31 | 2020-06-17 |  |
+| [Backseat](https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI) | 3:31 | 2020-06-17 |  |
+| [Backseat](https://open.spotify.com/track/6wDJfepTbKTD77PWL4lato) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Backseat](https://open.spotify.com/album/0p7IKV2hLRD82kyXv9js0v) | 3:31 | 2020-06-17 | 2023-02-02 |
 | [Blinded By Your Grace, Pt\. 2 \(feat\. MNEK\)](https://open.spotify.com/track/0ihguwGVwKihJ1Nj8fGQlY) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:50 | 2020-06-17 |  |
 | [Body in Motion](https://open.spotify.com/track/11xpBwmHDLUb8luVNFfQex) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 3:41 | 2020-06-17 |  |
 | [Body In Motion](https://open.spotify.com/track/7srkcblVXjo60Clqk9lywq) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Mercury & Lightning](https://open.spotify.com/album/2X5598poSfDQ3B0YRytfgf) | 3:41 | 2020-06-17 | 2022-07-29 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTsdpx69Vjw.md) - [plain]
 
 > The official playlist for The Pentaverate\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222 likes - 18 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 245 likes - 18 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grazing In The Grass](https://open.spotify.com/track/2P6Buc8kWRgShx7aHIadqu) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [The Promise Of A Future](https://open.spotify.com/album/21YlyIf7r7nQGypMvogt2D) | 2:37 |
 | 2 | [Musica Ricercata: II\. Mesto, rigido e cerimoniale](https://open.spotify.com/track/5cL4CQJv6B5a33raAHEFqU) | [György Ligeti](https://open.spotify.com/artist/1zb5zmIuX2lTbzcn7YeQlg), [Noelia Rodiles](https://open.spotify.com/artist/14k220b66tZzMFeozFFj1R) | [György Ligeti: Musica Ricercata \- Franz Schubert: Impromptus, Op\. 90, D899](https://open.spotify.com/album/7DYlw5RuShkpqIu1HpSJOZ) | 3:39 |
 | 3 | [Darkest Light \- Remastered](https://open.spotify.com/track/6NQa29zjyhcL1duAf45yG8) | [Lafayette Afro Rock Band](https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s) | [Malik](https://open.spotify.com/album/06ShCVJczYncEWk3LjJ2Vd) | 6:25 |
-| 4 | [America \- From "The Jazz Singer" Soundtrack](https://open.spotify.com/track/6OG7D7kfDJcB9bDmTPO0NS) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 4:18 |
+| 4 | [America](https://open.spotify.com/track/6OG7D7kfDJcB9bDmTPO0NS) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 4:18 |
 | 5 | [Feelin' Down](https://open.spotify.com/track/0XQdgdjf7p750Up6Hph4B5) | [21st Century Sound Movement](https://open.spotify.com/artist/08aYNTyFcs9pziuHzGICoA) | [Local Customs: Cavern Sound](https://open.spotify.com/album/6mjkrUpqmsVkG13fUDcIp8) | 2:32 |
 | 6 | [I'm A Believer \- From "Shrek" Motion Picture Soundtrack](https://open.spotify.com/track/0mBL2JwjNYKtdFacHxvtJt) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Shrek](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970) | 3:05 |
 | 7 | [Living in the Dark](https://open.spotify.com/track/0ocita5XIGAXtXATIBWlwG) | [Myuu](https://open.spotify.com/artist/5sP3ci0jwrXUBo76t8pGTF) | [The Dark Piano, Vol\. 1 \(Creepypasta Music\)](https://open.spotify.com/album/1d3X0w0kdfqcvOVNfnthhP) | 2:30 |

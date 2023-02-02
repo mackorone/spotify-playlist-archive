@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-01",
   "description": "Island vibes for the whole family.",
   "name": "Raised on Reggae",
-  "published_playlist_ids": [
-    "1sOJ79s7c3GxAyycUWxTU0"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,7 +92,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 271106,
       "name": "Animal - Mark Ronson Remix",
       "url": "https://open.spotify.com/track/1jsdtlKxAPYSVKwqsIJGLb"
@@ -421,7 +418,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 260106,
       "name": "I Shall Be Released",
       "url": "https://open.spotify.com/track/2fBj4QAaXUcx9EL3bPzwGt"
@@ -620,6 +617,24 @@
     },
     {
       "album": {
+        "name": "The Youth Of Today",
+        "url": "https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204222,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
+    },
+    {
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
       },
@@ -631,7 +646,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 205426,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
@@ -689,7 +704,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-22",
       "duration_ms": 238576,
       "name": "Pressure (feat. Buju Banton) - Remix",
       "url": "https://open.spotify.com/track/3mjsWpaYzIWJQcYgO7VtUA"
@@ -707,7 +722,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 173493,
       "name": "Pressure Drop - Single Version",
       "url": "https://open.spotify.com/track/2GImcOxFZ0GP49rmPnPOjT"

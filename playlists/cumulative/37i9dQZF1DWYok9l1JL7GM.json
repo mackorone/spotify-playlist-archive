@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The south got something to say. Cover: Hot Boys",
+  "description": "The south got something to say. Cover: Three 6 Mafia",
   "name": "I Love My Down South Classics",
-  "published_playlist_ids": [
-    "0Ho1ALaJFZEb2coEXGhBPQ"
-  ],
   "tracks": [
     {
       "album": {
@@ -736,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Most Known Unknown (Explicit)",
+        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206733,
+      "name": "Half On a Sack",
+      "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
+    },
+    {
+      "album": {
         "name": "Flockaveli",
         "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
       },
@@ -807,7 +822,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 271066,
       "name": "How Ya Do Dat",
       "url": "https://open.spotify.com/track/1KLhUURHRl72xGO5A94lme"
@@ -1227,7 +1242,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 254706,
       "name": "Like A Pimp",
       "url": "https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6"
@@ -1349,7 +1364,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 270866,
       "name": "Move Bitch",
       "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
@@ -1647,7 +1662,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-11",
       "duration_ms": 256973,
       "name": "Shake Ya Ass",
       "url": "https://open.spotify.com/track/1jRzdY7oUBOhrylNtiMtBD"
@@ -2321,10 +2336,28 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 179160,
       "name": "Wait (The Whisper Song)",
       "url": "https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4"
+    },
+    {
+      "album": {
+        "name": "Sittin' Fat Down South",
+        "url": "https://open.spotify.com/album/2czjXveZPf9X2dutQGlh2r"
+      },
+      "artists": [
+        {
+          "name": "Lil' Troy",
+          "url": "https://open.spotify.com/artist/12mkoe71zJDWs4j0rCeXGR"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355066,
+      "name": "Wanna Be A Baller",
+      "url": "https://open.spotify.com/track/6lEIjrQNwJPecJ7mMXjhjo"
     },
     {
       "album": {
@@ -2448,6 +2481,32 @@
     },
     {
       "album": {
+        "name": "Enquiring Minds",
+        "url": "https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp"
+      },
+      "artists": [
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        },
+        {
+          "name": "DJ Paul",
+          "url": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2021-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269066,
+      "name": "Where Dem Dollas At (feat. DJ Paul & Juicy J)",
+      "url": "https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC"
+    },
+    {
+      "album": {
         "name": "Pimpin' On Wax",
         "url": "https://open.spotify.com/album/47hDRYMv9yCkQV0svP9GFP"
       },
@@ -2477,7 +2536,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249226,
       "name": "Who Run It",
       "url": "https://open.spotify.com/track/0LeJruSnMGjIQ1PlFuRHmX"

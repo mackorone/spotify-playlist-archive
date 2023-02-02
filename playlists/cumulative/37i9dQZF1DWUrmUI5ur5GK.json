@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-13",
   "description": "Classic drinking singalongs.",
   "name": "Irish Pub Songs",
-  "published_playlist_ids": [
-    "56xGjjMt3q1sbs8rAN1t2E"
-  ],
   "tracks": [
     {
       "album": {
@@ -470,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Irish Favorites",
+        "url": "https://open.spotify.com/album/61LonjrzxQuiSMY3syhEsa"
+      },
+      "artists": [
+        {
+          "name": "Irish Lads Of Limerick",
+          "url": "https://open.spotify.com/artist/1OGjD0Wx8kiMTo7k966sn8"
+        }
+      ],
+      "date_added": "2022-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128363,
+      "name": "Muirsheen Durkin",
+      "url": "https://open.spotify.com/track/2m2YyIx0wbM38KvAHlZlml"
+    },
+    {
+      "album": {
         "name": "Molly Malone: 20 Traditional Irish Favorites for St. Patrick's Day",
         "url": "https://open.spotify.com/album/1NrHPStocUvzCEV4lTJCRr"
       },
@@ -481,7 +496,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 128363,
       "name": "Muirsheen Durkin",
       "url": "https://open.spotify.com/track/7DkDrVprJzciRxztQ7UG1I"

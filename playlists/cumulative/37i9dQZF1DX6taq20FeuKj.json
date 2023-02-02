@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Get your gaming session going with this epic rap mix.",
   "name": "Power Gaming",
-  "published_playlist_ids": [
-    "5kUKwQJZ2mzR3lmEOluUG6"
-  ],
   "tracks": [
     {
       "album": {
@@ -861,7 +858,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 111970,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
@@ -1093,7 +1090,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 165066,
       "name": "Bubbly (with Drake & Travis Scott)",
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
@@ -1494,6 +1491,28 @@
     },
     {
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "album": {
         "name": "The Forever Story",
         "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
       },
@@ -1509,7 +1528,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
@@ -3009,7 +3028,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
@@ -3597,7 +3616,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-19",
       "duration_ms": 229670,
       "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
       "url": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH"
@@ -3917,10 +3936,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 181263,
       "name": "Look Alive (feat. Drake)",
       "url": "https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL"
+    },
+    {
+      "album": {
+        "name": "Simi",
+        "url": "https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181414,
+      "name": "Look Alive (feat. Drake)",
+      "url": "https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf"
     },
     {
       "album": {
@@ -4901,7 +4942,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 339249,
       "name": "Off The Grid",
       "url": "https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO"
@@ -6203,7 +6244,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 176631,
       "name": "Shotta Flow (Feat. Blueface) [Remix]",
       "url": "https://open.spotify.com/track/67XyC1GdSkKb9sbRRkUDXS"
@@ -7131,7 +7172,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2022-12-13",
       "duration_ms": 136899,
       "name": "Time Today",
       "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
@@ -7483,6 +7524,24 @@
       "duration_ms": 276147,
       "name": "Walk It Talk It",
       "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
+    },
+    {
+      "album": {
+        "name": "Melt My Eyez See Your Future",
+        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Walkin",
+      "url": "https://open.spotify.com/track/1q8DwZtQen5fvyB7cKbShC"
     },
     {
       "album": {

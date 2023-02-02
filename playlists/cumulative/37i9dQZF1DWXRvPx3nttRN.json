@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Acoustic rock and pop that makes you feel good.",
   "name": "Feel Good Acoustic",
-  "published_playlist_ids": [
-    "5SMRRjXySBkzQLNwWcY7ex"
-  ],
   "tracks": [
     {
       "album": {
@@ -229,6 +226,24 @@
       "duration_ms": 172912,
       "name": "All Time Low (Acoustic)",
       "url": "https://open.spotify.com/track/33CE4nXLOB9O3lZTqawwow"
+    },
+    {
+      "album": {
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "album": {
@@ -3885,10 +3900,28 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 243346,
       "name": "Nothin' On You",
       "url": "https://open.spotify.com/track/5kxQ0VfrNTuQ6i63802U11"
+    },
+    {
+      "album": {
+        "name": "By Popular Demand, Vol. 2",
+        "url": "https://open.spotify.com/album/36GxxUcP4g5cL3Kdfi5xAG"
+      },
+      "artists": [
+        {
+          "name": "Kajiwara",
+          "url": "https://open.spotify.com/artist/0KyM33SIqUSuaOam1QrWIo"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243346,
+      "name": "Nothin' On You",
+      "url": "https://open.spotify.com/track/62q1hnohI2uDDZDtsnqWah"
     },
     {
       "album": {
@@ -4343,7 +4376,7 @@
       },
       "artists": [
         {
-          "name": "Jona Selle",
+          "name": "JONA XX",
           "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
         }
       ],

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,083 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,843 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 29 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
 | 30 | [Vuelvo](https://open.spotify.com/track/1JcLF91e2N4sSuYuZ19fEz) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Agendas Vencidas](https://open.spotify.com/album/1ItyNz7DTEfVqchGAFui8s) | 3:17 |
 | 31 | [Llegas Tú](https://open.spotify.com/track/6hTueX70hZWte9EIZT8gVY) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Llegas Tú](https://open.spotify.com/album/1FpQMUoPBbW919ow0vVqA9) | 3:17 |
-| 32 | [Amor Con Filo](https://open.spotify.com/track/0c9mfOt1GwupTmognEOAPA) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Amor Con Filo](https://open.spotify.com/album/7KsYE758XsdXbAz16k5mPt) | 2:58 |
+| 32 | [Amor Con Filo](https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Dark Folk, Vol.1](https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu) | 2:58 |
 | 33 | [Yaya](https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs) | [Venado Meraki](https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB) | [Yaya](https://open.spotify.com/album/6ZhmkUD947boo8m6KGS4CM) | 3:53 |
 | 34 | [Cuánto Tiempo Sin Verte](https://open.spotify.com/track/3J9NSlmfJI6jQMEs7pBtc0) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Cuánto Tiempo Sin Verte](https://open.spotify.com/album/5pr1wEmMoyPLs3Opk1YcY6) | 2:58 |
 | 35 | [¿Qué pasó?](https://open.spotify.com/track/1VgWAGoBepDqO0elgJ7LHL) | [Brandd Alvarez](https://open.spotify.com/artist/38Fp7nDn5ldveEZHy1fkbo) | [¿Qué pasó?](https://open.spotify.com/album/7mTdih8YvmbQBKsmXNOISQ) | 4:19 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 64 | [Bolero Surrealista](https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Surrealista](https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a) | 3:54 |
 | 65 | [Dulce Veneno \- Sigues Aquí](https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [De Todo un Poco](https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS) | 4:18 |
 | 66 | [Tristeza](https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:01 |
-| 67 | [Te Rendiste En Mi](https://open.spotify.com/track/5juW0lOYaezB3KuUu92cxT) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Te Rendiste En Mi](https://open.spotify.com/album/2WeAJB9OVLI1jpDGWZwQpI) | 2:28 |
+| 67 | [Te Rendiste En MI](https://open.spotify.com/track/7oyN3Xdz3o0xCNFwWc1lm1) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Dark Folk, Vol.1](https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu) | 2:28 |
 | 68 | [Olvido](https://open.spotify.com/track/3gZmkA0JuHdnI0egvWuKBq) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:33 |
 | 69 | [Sobre el Mar](https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Sobre el Mar](https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0) | 3:47 |
 | 70 | [Luces De Ti](https://open.spotify.com/track/4L8Cl4jcsIgJp9rSFOHYDx) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Aroma A Nostalgia](https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL) | 8:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 74 | [Vámonos a Marte](https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 2:59 |
 | 75 | [contigo va a estar bien](https://open.spotify.com/track/3II1gxMk8QeElZoimHOEQ7) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo va a estar bien](https://open.spotify.com/album/7aitspSO60ab2xeVN2b33K) | 3:05 |
 
-Snapshot ID: `MTY2MjEyNTg2MywwMDAwMDAwMDNhNjVhMGVjODcxYjI1Y2Y5ZmJmOWFjNDI3NWZhZTdh`
+Snapshot ID: `MTY2MjEyNTg2MywwMDAwMDAwMDQ0ODBlNWE5ZjQwZjkxNGJhNjYwMTBlYTMxYzFhZDIw`

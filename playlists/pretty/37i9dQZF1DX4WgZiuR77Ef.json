@@ -1,13 +1,33 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 389978,
+  "num_followers": 392314,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDkxYzVkOWJiYzNmODU4ZWU3NGRjMmVjNzRkNDdlNzE0",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDhjZGE0YmQ2YjJkODlmNjU2NGY4OWQ2MTE4YmZlN2U3",
   "tracks": [
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "You Got It",
+        "url": "https://open.spotify.com/album/1eiLDvpJGJzZTNBMQgVeh1"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Jamie Allensworth",
+          "url": "https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn"
+        }
+      ],
+      "duration_ms": 166685,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/7l1rhOa9zn0Ivip8lB9m6z"
+    },
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {

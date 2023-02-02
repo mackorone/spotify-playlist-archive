@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-05",
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
   "name": "EA SPORTS FIFA Mix",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -199,7 +198,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 246815,
       "name": "Beat 54 (All Good Now)",
       "url": "https://open.spotify.com/track/7CFbh9XfJ40XaYWgCbYX3H"
@@ -711,7 +710,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 245280,
       "name": "Gold Guns Girls",
       "url": "https://open.spotify.com/track/6JhUq57XpJeNMxboI4Ne3S"
@@ -765,10 +764,28 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 220573,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/7vjzFWG4neQ9YYMN9yZ9hr"
+    },
+    {
+      "album": {
+        "name": "Two Vines",
+        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224840,
+      "name": "High And Low",
+      "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
     },
     {
       "album": {
@@ -783,7 +800,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 352003,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
@@ -913,7 +930,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 197600,
       "name": "L.S.F.",
       "url": "https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv"
@@ -1055,6 +1072,24 @@
       "duration_ms": 183609,
       "name": "Madan (King)",
       "url": "https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS"
+    },
+    {
+      "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
     },
     {
       "album": {
@@ -1203,7 +1238,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 298520,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h"
@@ -1359,7 +1394,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 151628,
       "name": "Ounana",
       "url": "https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP"
@@ -1381,7 +1416,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 220040,
       "name": "papi bones (feat. shygirl)",
       "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
@@ -1629,7 +1664,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 156709,
       "name": "Run em Down",
       "url": "https://open.spotify.com/track/6p2qoyg0qauFKy84UMjbmu"
@@ -1777,7 +1812,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-12",
       "duration_ms": 178713,
       "name": "skeletons",
       "url": "https://open.spotify.com/track/0K0JJ3QZEHYhBwkE21L2HZ"
@@ -1907,7 +1942,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 167845,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/4NPkQtN5w0T4ju8T6mYVsJ"
@@ -2045,7 +2080,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
@@ -2241,7 +2276,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 170387,
       "name": "Wrong Time",
       "url": "https://open.spotify.com/track/0TxPln0uhql4ucFGk1XISM"

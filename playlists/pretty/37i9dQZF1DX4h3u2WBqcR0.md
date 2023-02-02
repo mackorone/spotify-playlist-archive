@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4h3u2WBqcR0.md) - [plain]
 
 > Discover the 2022 Best Original Score nominations alongside Oscar\-winning soundtracks from the past 80 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,434 likes - 66 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,065 likes - 66 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4h3u2WBqcR0.md) - [plain]
 | 4 | [The Breaking of the Fellowship \(feat\. "In Dreams"\)](https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Edward Ross](https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 7:20 |
 | 5 | [1917](https://open.spotify.com/track/6TsRPIdwASJBXanGhftVjc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 1:17 |
 | 6 | [Prologue: Beauty and the Beast](https://open.spotify.com/track/4xrravITYOGqfLkAg7re5K) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:29 |
-| 7 | [E.T.: Flying Theme](https://open.spotify.com/track/6YGpaCVhgL7NEAZdeEzXDa) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams: Movie Classics](https://open.spotify.com/album/22DoqSiBPmPoOutaCwO5Io) | 3:45 |
+| 7 | [E.T.: Flying Theme](https://open.spotify.com/track/3kc4Em0sUhRf4uqnKA6i6L) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Work From Home With John Williams](https://open.spotify.com/album/174Z59HgCVdLmyU43Trig8) | 3:45 |
 | 8 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 |
 | 9 | [The John Dunbar Theme \(From "Dances With Wolves"\)](https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Dances With Wolves \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax) | 2:17 |
 | 10 | [Theme From Love Story](https://open.spotify.com/track/5qjVtEglMJOGe3xCCbjN25) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Love Story](https://open.spotify.com/album/6z0dWcbylKjGZuCR9W5WPB) | 3:20 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4h3u2WBqcR0.md) - [plain]
 | 65 | [Love Scene in the Forest \(From "Anthony Adverse"\)](https://open.spotify.com/track/4fGzANJuxivS5fUr0DDwLs) | [Charles Gerhardt](https://open.spotify.com/artist/0KYTOaijsJq1rL0PC43LcQ), [RCA Victor Symphony Orchestra](https://open.spotify.com/artist/1JDbACEgV5erBN0YAOkrg4) | [RCA Symphony Orchestra: Film Scores and More! \- Vol\. 2](https://open.spotify.com/album/5F5Ws6RwWLwNc3nR8yozrI) | 2:16 |
 | 66 | [Main Title](https://open.spotify.com/track/69cIpx990Bbmum5a1A3HcO) | [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Franco Collura](https://open.spotify.com/artist/0yNNwW7OAdtsWfALfsrPzq) | [The Best Years of Our Lives \(Original Soundtrack\) \[1946\]](https://open.spotify.com/album/3Jz27XW73fQEdZAjsoJAKt) | 1:35 |
 
-Snapshot ID: `MTY2MDczNzEyNCwwMDAwMDAwMDczODAyMGExMjVkMGFhYjkxNDdiZGE1Mzc4M2NiZjg5`
+Snapshot ID: `MTY3NTE4Mzg0OSwwMDAwMDAwMDI2MjAwZWRiZTk3YmRjZDdlZTk2NGU4OTUzMTkyYTY5`

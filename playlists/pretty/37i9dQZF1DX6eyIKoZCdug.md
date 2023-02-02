@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,130 likes - 70 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,719 likes - 70 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 9 | [Siyathandana](https://open.spotify.com/track/1CsizXzWjMpyliwIaB9RzA) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Siyathandana](https://open.spotify.com/album/29rJjo7PTJccQQPFnNi5a7) | 6:36 |
 | 10 | [Breakfast In Soweto](https://open.spotify.com/track/3aYv0tyHlIYUwCq2SwZDlT) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq), [Mandlin Beams](https://open.spotify.com/artist/7nR1JD6ljztZrEuxTNijpk) | [Breakfast In Soweto](https://open.spotify.com/album/3NfgQFaqUzxBCrvUME1iu7) | 7:14 |
 | 11 | [Uzalo](https://open.spotify.com/track/2Iy2zGCf7ZC0SXJqZqrqiQ) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Nomkhosi](https://open.spotify.com/artist/1PCVXstDGerB9ibPW8Ut4B), [Olefied Khetha](https://open.spotify.com/artist/7encSKpRGCkRR4yF13Shr9) | [Ghetto King](https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r) | 6:45 |
-| 12 | [Khula](https://open.spotify.com/track/21yMnKufBg1L51PGGVryTj) | [Bello no Gallo](https://open.spotify.com/artist/4sOkkFiZ3kba2UST1tiQ7c), [Niseni](https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J) | [Khula](https://open.spotify.com/album/0wqlhwTE4SMnsAfqhkbnxE) | 4:00 |
+| 12 | [Khula](https://open.spotify.com/track/21yMnKufBg1L51PGGVryTj) | [Bello no Gallo](https://open.spotify.com/artist/10jCMXxrxSLEToXTKVJJWn), [Niseni](https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J) | [Khula](https://open.spotify.com/album/0wqlhwTE4SMnsAfqhkbnxE) | 4:00 |
 | 13 | [Isibani](https://open.spotify.com/track/5AM1JybeEtluAK5mpM3l6u) | [DJ Hlo](https://open.spotify.com/artist/2jMiqYFIEdD5vvMHcmgXFJ), [DJ Manzo Sa](https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio), [Siboniso](https://open.spotify.com/artist/1EphHOdn43NnrlqhK16ME4) | [Isibani](https://open.spotify.com/album/0zY3VO9Hciya3a4UIGolLN) | 6:01 |
 | 14 | [Nkanyezi](https://open.spotify.com/track/16qkCa4zVqLCEYSMWcQHG5) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [My Story](https://open.spotify.com/album/4VK04E5cKOGEQHnpE6ysge) | 5:04 |
 | 15 | [HAYII](https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu) | [HAYII](https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za) | 7:39 |

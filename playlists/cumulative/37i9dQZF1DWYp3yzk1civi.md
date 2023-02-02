@@ -4,7 +4,7 @@
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-78 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/4MQpgVeH9Nbw7P8Sb7jpLO)
+78 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

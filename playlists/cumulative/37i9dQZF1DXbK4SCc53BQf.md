@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-77 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
+77 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Es Imposible](https://open.spotify.com/track/2E32QoPYNwwQLpwlSCyIhX) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 3:31 | 2020-11-24 |  |
 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 | 2020-11-24 |  |
 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 | 2020-11-24 |  |
-| [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 | 2020-11-24 | 2022-11-13 |
+| [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 | 2020-11-24 |  |
 | [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 | 2020-11-24 | 2022-07-29 |
 | [Hora de Cantar](https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT) | [Gilvan Santana](https://open.spotify.com/artist/7yCl5PCByfPpREKqgiiyds) | [Redenção e Liberdade](https://open.spotify.com/album/0HQK2BQHcScsqFtagdDCVr) | 3:36 | 2020-11-24 | 2022-07-29 |
 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 | 2020-11-24 |  |
@@ -49,7 +49,7 @@
 | [No Puedo Ni Quiero](https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Punto y Aparte](https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM) | 3:34 | 2020-11-24 |  |
 | [No Puedo Ni Quiero](https://open.spotify.com/track/73i5lJCjotIVTIQyjbks5Z) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Punto y Aparte](https://open.spotify.com/album/5iEbLPgz7HqCZCRQDtiZ41) | 3:34 | 2020-11-24 | 2022-07-29 |
 | [No Te Cambiaré](https://open.spotify.com/track/3gsq024FJzXqC8HqykxMcM) | [Rudy Torres](https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD) | [No Te Cambiaré](https://open.spotify.com/album/1zh2YiP6ds9kzKfgzXuOc0) | 3:32 | 2020-11-24 | 2022-07-24 |
-| [No Vaya a Ser](https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk) | [Britt](https://open.spotify.com/artist/0HwCaUS8htBIGIlRABaZIv) | [No Vaya a Ser](https://open.spotify.com/album/4LUCoUs4hhd16D350FiZ6G) | 3:10 | 2020-11-24 | 2022-11-13 |
+| [No Vaya a Ser](https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk) | [Britt](https://open.spotify.com/artist/0HwCaUS8htBIGIlRABaZIv) | [No Vaya a Ser](https://open.spotify.com/album/4LUCoUs4hhd16D350FiZ6G) | 3:10 | 2020-11-24 | 2023-02-01 |
 | [Perfume a Tus Pies](https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM) | [Christian Ray](https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig) | [Enamorarme Mas](https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa) | 4:35 | 2020-11-24 |  |
 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 | 2020-11-24 |  |
 | [Renuevame](https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Lo Mejor De Mi, Para El](https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG) | 5:16 | 2020-11-24 |  |
@@ -83,7 +83,7 @@
 | [Vuelvo a nacer](https://open.spotify.com/track/0FHrVFgIMADfHQStePsMDC) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Exitazos de la salsa Cristiana](https://open.spotify.com/album/4KUbUywXBmqpJ93ssr691m) | 4:22 | 2020-11-24 | 2022-07-29 |
 | [Vuelvo a Nacer](https://open.spotify.com/track/6adDoj00wwGzZwj9mY9Jma) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Soy Sonero \- Concierto en Vivo](https://open.spotify.com/album/0BDopJiR33PUsLRU1z6Ybf) | 4:22 | 2020-11-24 |  |
 | [Yo Te Adoro](https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:17 | 2020-11-24 |  |
-| [Yo Te Prometo](https://open.spotify.com/track/2MHniwGrGDFCG43jLenfpI) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA) | 3:48 | 2020-11-24 |  |
+| [Yo Te Prometo](https://open.spotify.com/track/2MHniwGrGDFCG43jLenfpI) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA) | 3:48 | 2020-11-24 | 2023-01-23 |
 | [Yo Te Prometo \- Remix](https://open.spotify.com/track/3dO8ScvlHx9OnnICsFCFHN) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Corazón](https://open.spotify.com/album/5HCC9IAXVCgxAY7vRnZdb0) | 3:48 | 2020-11-24 | 2022-07-25 |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

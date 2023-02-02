@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-23",
   "description": "The official destination for all the music from Virgin River. Watch on Netflix.",
   "name": "Virgin River Official Playlist",
-  "published_playlist_ids": [
-    "69xAd56tPCCivjLTy5nEvF"
-  ],
   "tracks": [
     {
       "album": {
@@ -917,7 +914,7 @@
     {
       "album": {
         "name": "Present Tense",
-        "url": "https://open.spotify.com/album/2P2XnrV9VnGxJ0UqHNxt4E"
+        "url": "https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5"
       },
       "artists": [
         {
@@ -928,6 +925,24 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204609,
+      "name": "Give It Hell",
+      "url": "https://open.spotify.com/track/06FU6MJmk3cGUt4SVKzWKo"
+    },
+    {
+      "album": {
+        "name": "Present Tense",
+        "url": "https://open.spotify.com/album/2P2XnrV9VnGxJ0UqHNxt4E"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 204609,
       "name": "Give It Hell",
       "url": "https://open.spotify.com/track/3zLorBeTEnHM5UBd8HuCEd"
@@ -2241,7 +2256,7 @@
     {
       "album": {
         "name": "dear april, ily (deluxe)",
-        "url": "https://open.spotify.com/album/32qamHYrNoKgBjrzzjK68u"
+        "url": "https://open.spotify.com/album/1oQ8HKieZSMapORo82MC6i"
       },
       "artists": [
         {
@@ -2252,6 +2267,24 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183063,
+      "name": "Ode to LBC",
+      "url": "https://open.spotify.com/track/0NA4W3IO9LNJ0s5KRIM3FB"
+    },
+    {
+      "album": {
+        "name": "dear april, ily (deluxe)",
+        "url": "https://open.spotify.com/album/32qamHYrNoKgBjrzzjK68u"
+      },
+      "artists": [
+        {
+          "name": "SATICA",
+          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 183063,
       "name": "Ode to LBC",
       "url": "https://open.spotify.com/track/0QgPqgtkywb0VNkaQFHAle"

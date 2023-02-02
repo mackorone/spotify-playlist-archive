@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
   "name": "Cancionero Juan Gabriel",
-  "published_playlist_ids": [
-    "4QYjPiGAfd9kEfeaSrtn66"
-  ],
   "tracks": [
     {
       "album": {
@@ -2547,10 +2544,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 205985,
       "name": "Yo no naci para amar",
       "url": "https://open.spotify.com/track/44mndjmp2c7ieMN7eSB5r9"
+    },
+    {
+      "album": {
+        "name": "Sensibilidad",
+        "url": "https://open.spotify.com/album/4mdlun9NX07tuIjGKPZQhL"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205985,
+      "name": "Yo no nac\u00ed para amar",
+      "url": "https://open.spotify.com/track/3CUh3kQB11EP4ST9gZnAaU"
     },
     {
       "album": {

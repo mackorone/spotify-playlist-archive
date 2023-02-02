@@ -4,7 +4,7 @@
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-89 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/6k8Bo9IB5HrBOBHtxn9gtS)
+91 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Black Hole Ceremony](https://open.spotify.com/track/5C4sq8vyguLMW1RpbJlQih) | [Emmanuel Lipszyc](https://open.spotify.com/artist/6NFVo3Jl2VgKMqnc78ECsD), [Sébastien Lipszyc](https://open.spotify.com/artist/4TKLeyMsrfRvCFclPyplao) | [Electronic Blockbusters](https://open.spotify.com/album/35jSyK4RTebQa0IRVjXMNn) | 3:21 | 2021-08-26 | 2022-07-29 |
 | [Boom](https://open.spotify.com/track/06iBEeAvZXnByI9GWMb823) | [Ofi La Melodia](https://open.spotify.com/artist/2tH1VzCRDKsXhm6MhuAhY5) | [Boom](https://open.spotify.com/album/7mIAY7o0BiPwlT2S3gCQo3) | 3:31 | 2021-08-26 |  |
 | [BOOM](https://open.spotify.com/track/6sQU3wCAsVtsj3H6CtOTVa) | [Ofi La Melodia](https://open.spotify.com/artist/2tH1VzCRDKsXhm6MhuAhY5) | [BOOM](https://open.spotify.com/album/3869Ko0pqbUsqECnSLU0nj) | 3:31 | 2021-08-26 | 2022-07-29 |
-| [Broken Coastline](https://open.spotify.com/track/1DNMD4CEyX2XrFkOR4lvP1) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps) | [Broken Coastline](https://open.spotify.com/album/1HjpXCId9AyLZXYXzlW2Wn) | 3:29 | 2021-08-26 |  |
+| [Broken Coastline](https://open.spotify.com/track/1DNMD4CEyX2XrFkOR4lvP1) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps), [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V), [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Broken Coastline](https://open.spotify.com/album/1HjpXCId9AyLZXYXzlW2Wn) | 3:29 | 2021-08-26 |  |
 | [CA Plane Pour Moi](https://open.spotify.com/track/1z9FAvswI7gpzjUL0JAKJY) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Winning London \(Music From the Mary\-Kate & Ashely Olsen Movie\)](https://open.spotify.com/album/0yHbKnfhOEUT0FoDJQGtzy) | 2:58 | 2021-12-03 | 2022-11-13 |
 | [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 | 2021-12-03 |  |
 | [Ca plane pour moi](https://open.spotify.com/track/71yCMlsD6qbD7NmNUEoVNR) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1wLw41yiDGcZowrw3L3Bkd) | 3:02 | 2021-12-03 | 2022-11-05 |
@@ -84,7 +84,8 @@
 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 | 2021-12-03 |  |
 | [Ti amo](https://open.spotify.com/track/7b531MnsISnSjXFKOpAwlw) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tutto Tozzi](https://open.spotify.com/album/72kyiPtM273vSlW6QCoX1J) | 4:02 | 2021-08-26 | 2022-07-29 |
 | [Ti Amo](https://open.spotify.com/track/0tmZtk7jH8Esx87io5XujD) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Italian Best Hits](https://open.spotify.com/album/02hMLd8D5BQgI6m20KEIPa) | 4:05 | 2021-08-26 | 2022-11-13 |
-| [Ti Amo](https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Ti amo](https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29) | 4:05 | 2021-08-26 |  |
+| [Ti Amo](https://open.spotify.com/track/5Mtx78lRs3S62t6JaGqWPR) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [GLORIA FOREVER Il Tour](https://open.spotify.com/album/6zYWcL99HKx07mzlNzS87E) | 4:05 | 2021-08-26 |  |
+| [Ti Amo](https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Ti amo](https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29) | 4:05 | 2021-08-26 | 2022-12-19 |
 | [Timebomb Zone](https://open.spotify.com/track/2sifRHahNmhTR7a3BjKc9u) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [No Tourists](https://open.spotify.com/album/6DAq2tDWMqPP7MTdb3aIDi) | 3:24 | 2021-08-26 |  |
 | [Trail of Revenge](https://open.spotify.com/track/71gmGaGQgbLetxEkfR5CLa) | [Andrew Britton](https://open.spotify.com/artist/1W8rzmv9lhOEkwtRMAzZtw), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [David Goldsmith](https://open.spotify.com/artist/53I9STCG46PNT88ubfdSLj) | [Universal Trailer Series \- Psychological Thriller](https://open.spotify.com/album/2rhxu5UWEdP1jxL2i5c2Hx) | 2:53 | 2021-08-26 |  |
 | [Trained to Kill](https://open.spotify.com/track/228nvElbY7zWEJoyYii9hg) | [Andrew Britton](https://open.spotify.com/artist/1W8rzmv9lhOEkwtRMAzZtw), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [David Goldsmith](https://open.spotify.com/artist/53I9STCG46PNT88ubfdSLj) | [Universal Trailer Series \- Spy\-Crime Thriller](https://open.spotify.com/album/7w8Iutd4Cq6CUTYYA39mg0) | 3:04 | 2021-08-26 |  |
@@ -94,8 +95,9 @@
 | [Way to Fall](https://open.spotify.com/track/40lSBQBZn38ElmRi2lY7zk) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Good Souls: The Greatest Hits](https://open.spotify.com/album/6zEdrtxRjVGNkNsY8JyW7o) | 4:29 | 2021-12-03 | 2022-11-13 |
 | [Way to Fall](https://open.spotify.com/track/5CyKO0xcyDqexTfvQLwufF) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Love Is Here](https://open.spotify.com/album/4PyGvXTMf0PmsWsDWohFZw) | 4:29 | 2021-12-03 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 | 2021-08-26 |  |
-| [Why So Serious](https://open.spotify.com/track/6v48qTk0yzWneiNCS4T8co) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/18KUlnsMtCS3W67CLyk0Fp) | 3:43 | 2021-12-03 |  |
+| [Why So Serious](https://open.spotify.com/track/6v48qTk0yzWneiNCS4T8co) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/18KUlnsMtCS3W67CLyk0Fp) | 3:43 | 2021-12-03 | 2023-01-27 |
 | [Why So Serious](https://open.spotify.com/track/3ouj5nHkyPXG1GV5fJmuiX) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [MINT](https://open.spotify.com/album/2FEGUDyvpMp7KlrVrBN0q7) | 3:47 | 2021-12-03 | 2022-07-29 |
+| [Why So Serious](https://open.spotify.com/track/5X9pmlOsnQBAz90IL7IJYC) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi) | 3:47 | 2021-12-03 |  |
 | [You'll Never Walk Alone \- Mono; 2002 Remaster](https://open.spotify.com/track/6catF1lDhNTjjGa2GxRQNN) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [You'll Never Walk Alone \(The EMI Years 1963\-1966\)](https://open.spotify.com/album/2xjQOixp5YLkhVDcAh8MY0) | 2:40 | 2021-08-26 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

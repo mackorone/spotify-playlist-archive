@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
   "name": "This Is Sergio Vega \"El Shaka\"",
-  "published_playlist_ids": [
-    "6P64O74qQIrVvYijmQxnFY"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 198373,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/7supUJMhpPfMQHMUBPvXsl"
@@ -329,6 +326,24 @@
       "duration_ms": 211746,
       "name": "El Jefe De Las Plazas",
       "url": "https://open.spotify.com/track/1pJMMnem25kCij6sF62hut"
+    },
+    {
+      "album": {
+        "name": "Serie Top Ten",
+        "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 173532,
+      "name": "El Licenciado",
+      "url": "https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o"
     },
     {
       "album": {
@@ -833,6 +848,28 @@
       "duration_ms": 185991,
       "name": "Ni en el Mundo Te Hago",
       "url": "https://open.spotify.com/track/09gH0b6E2xLR0z6DK59huE"
+    },
+    {
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212053,
+      "name": "Ni Se Te Ocurra (Para Toda La Vida)",
+      "url": "https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q"
     },
     {
       "album": {

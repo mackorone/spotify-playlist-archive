@@ -4,7 +4,7 @@
 
 > The Harlem Renaissance comes alive once more as the <a href="spotify:artist:1mNcebzTg5QlHEY4WYhLSm">innovative poet</a> and his cohorts read and discuss his work.
 
-57 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/2eo2Bro0HaNNrDgwZDKuQ1)
+57 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

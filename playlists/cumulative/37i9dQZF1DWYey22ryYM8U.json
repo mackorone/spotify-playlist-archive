@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
+  "description": "Hits con sabor. Cover: Mike Bah\u00eda.",
   "name": "Tropical Hits",
-  "published_playlist_ids": [
-    "1b5XdfWrnBRPibFIU7IXEm"
-  ],
   "tracks": [
     {
       "album": {
@@ -51,7 +48,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 342932,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/5GJvia553eOd1scNuZJjha"
@@ -99,7 +96,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 254290,
       "name": "Abrete",
       "url": "https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD"
@@ -405,7 +402,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 209500,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
@@ -861,7 +858,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 231333,
       "name": "Cobarde - Remix",
       "url": "https://open.spotify.com/track/0GWgZqwn3ePdYHtSQg1Qzd"
@@ -981,10 +978,32 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 200895,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s"
+    },
+    {
+      "album": {
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L"
+      },
+      "artists": [
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200895,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE"
     },
     {
       "album": {
@@ -1197,6 +1216,24 @@
       "duration_ms": 192573,
       "name": "Dame Un Chance",
       "url": "https://open.spotify.com/track/5yKdTAu1o5pBhzp5Sv687O"
+    },
+    {
+      "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "album": {
@@ -1469,7 +1506,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 241880,
       "name": "El Coco",
       "url": "https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G"
@@ -1487,7 +1524,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 259586,
       "name": "El Combo del Mundo",
       "url": "https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6"
@@ -1785,7 +1822,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 200589,
       "name": "Fiesta Contigo",
       "url": "https://open.spotify.com/track/1Q2ddhGYcclf6gUvPNKXei"
@@ -1891,7 +1928,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 200032,
       "name": "Hazme Olvidarla",
       "url": "https://open.spotify.com/track/3AqapIXtK0zzgTm7H2lpFn"
@@ -2001,7 +2038,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-13",
       "duration_ms": 238701,
       "name": "Imaginarme Sin Ti - Remix",
       "url": "https://open.spotify.com/track/6b5hDov3xiT6uALZn78GUu"
@@ -2355,7 +2392,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 191920,
       "name": "La Tristeza \u00a1Pa' Fuera!",
       "url": "https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48"
@@ -2683,7 +2720,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 216897,
       "name": "Loter\u00eda",
       "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
@@ -2745,7 +2782,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
@@ -3143,7 +3180,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-13",
       "duration_ms": 259433,
       "name": "No Hay",
       "url": "https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ"
@@ -3375,7 +3412,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 219718,
       "name": "Ojal\u00e1 - Remix",
       "url": "https://open.spotify.com/track/1gkf7yielXnNYK1BqHPkHj"
@@ -3455,7 +3492,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": "2023-01-13",
       "duration_ms": 274400,
       "name": "Pa Que Enamorarse",
       "url": "https://open.spotify.com/track/5ceoWaXWdpCtYBbseWwQ6D"
@@ -3521,7 +3558,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 229894,
       "name": "Pa'mi",
       "url": "https://open.spotify.com/track/6Wh5YfzT3jlTIlCD32lgfr"
@@ -3703,7 +3740,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 229000,
       "name": "Quiero Decirte - DJ C Remix",
       "url": "https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz"
@@ -3808,6 +3845,24 @@
     },
     {
       "album": {
+        "name": "Prince Royce",
+        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Rechazame",
+      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
+    },
+    {
+      "album": {
         "name": "Religi\u00f3n",
         "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
       },
@@ -3827,6 +3882,24 @@
     {
       "album": {
         "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206720,
+      "name": "Rosal\u00eda",
+      "url": "https://open.spotify.com/track/2A3tMSilm21mtCTvdrfzjC"
+    },
+    {
+      "album": {
+        "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
       },
       "artists": [
@@ -3837,7 +3910,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 206720,
       "name": "Rosal\u00eda",
       "url": "https://open.spotify.com/track/3oKULEJqUz4ytF6L5dNEzC"
@@ -3855,7 +3928,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 289573,
       "name": "Rupelto Mena",
       "url": "https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf"
@@ -3964,6 +4037,28 @@
     },
     {
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "album": {
         "name": "Si Fuera M\u00eda",
         "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
       },
@@ -3975,7 +4070,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 203135,
       "name": "Si Fuera M\u00eda",
       "url": "https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k"
@@ -4117,7 +4212,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 258760,
       "name": "Sin Amenazas",
       "url": "https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV"
@@ -4169,7 +4264,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 301388,
       "name": "Sin Fronteras",
       "url": "https://open.spotify.com/track/0EjGZf0b32jCa43xMkEt13"
@@ -4471,7 +4566,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 262933,
       "name": "Tiburona",
       "url": "https://open.spotify.com/track/35QguPAF5pYFlS2I66C7m0"
@@ -4569,7 +4664,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 248173,
       "name": "Tranquila Bebe",
       "url": "https://open.spotify.com/track/2NisBr13bzzrleg25GDcKv"
@@ -4699,7 +4794,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 179368,
       "name": "Tu Me Matas",
       "url": "https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd"
@@ -4837,7 +4932,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": "2023-01-13",
       "duration_ms": 183367,
       "name": "T\u00fa No Bailas Mas Que Yo",
       "url": "https://open.spotify.com/track/2U2xfA3zCdjsLVhAX2rQ3y"
@@ -4925,7 +5020,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 264906,
       "name": "Uno de los Dos",
       "url": "https://open.spotify.com/track/0GuebVpkNITyobZ52oLTqf"
@@ -5243,7 +5338,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 184333,
       "name": "Y Le Dije No - Salsa",
       "url": "https://open.spotify.com/track/2NcuCrsWUKklKE0glhndJD"

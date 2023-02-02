@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
   "name": "100 Best African Love Songs ",
-  "published_playlist_ids": [
-    "2NQLrFSoKR34tgxbFWZBgI"
-  ],
   "tracks": [
     {
       "album": {
@@ -708,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Kahlet Laayoune",
+        "url": "https://open.spotify.com/album/5jHqA34XycZvSzer0QhfNj"
+      },
+      "artists": [
+        {
+          "name": "Mok Saib",
+          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 242758,
+      "name": "Kahlet Laayoune",
+      "url": "https://open.spotify.com/track/5zeufqSf652FfeS69bX4BP"
+    },
+    {
+      "album": {
         "name": "Brya",
         "url": "https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe"
       },
@@ -1111,7 +1126,7 @@
     {
       "album": {
         "name": "Naninina",
-        "url": "https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9"
+        "url": "https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk"
       },
       "artists": [
         {
@@ -1122,6 +1137,24 @@
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 254453,
+      "name": "Ndikuthandile",
+      "url": "https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz"
+    },
+    {
+      "album": {
+        "name": "Naninina",
+        "url": "https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
       "duration_ms": 254466,
       "name": "Ndikuthandile",
       "url": "https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G"
@@ -1299,7 +1332,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Nobody but Me (feat. K.O)",
       "url": "https://open.spotify.com/track/0VhQbntrTPGcGHqgCvYQdS"
@@ -1321,7 +1354,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 238000,
       "name": "Nobody but Me - Bonus Track",
       "url": "https://open.spotify.com/track/57rot16Tp9O8pwmkgPoGfd"
@@ -1562,7 +1595,7 @@
         },
         {
           "name": "Sha Sha",
-          "url": "https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT"
+          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
         },
         {
           "name": "Ami Faku",

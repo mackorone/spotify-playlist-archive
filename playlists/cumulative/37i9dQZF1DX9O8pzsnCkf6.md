@@ -4,7 +4,7 @@
 
 > A collection of sessions from some of the best comedians of all time.
 
-146 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/7pBM3n9mOX2TPxhrlh8qMg)
+146 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

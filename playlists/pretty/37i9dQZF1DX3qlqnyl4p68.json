@@ -1,13 +1,29 @@
 {
   "description": "Spooky sounds from your favorite horror features on Netflix. Cover: Wednesday ",
-  "num_followers": 2760,
+  "num_followers": 6040,
   "original_name": "Netflix & Chills",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTE5MDQwMCwwMDAwMDAwMGRhNTFhNzU0YmRkNTJlMmY1MjBkOWQ2NTRkNjU2ZTEy",
+  "snapshot_id": "MTY3MDYxMTEwNywwMDAwMDAwMDQxMWU5Mjc3ZjUyMjliOGFhOWYzYjE5YjdhNTg3ODZi",
   "tracks": [
+    {
+      "added_at": "2022-11-28 18:18:09",
+      "album": {
+        "name": "Wednesday (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "duration_ms": 69893,
+      "name": "Wednesday Main Titles",
+      "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
+    },
     {
       "added_at": "2022-09-02 19:01:40",
       "album": {

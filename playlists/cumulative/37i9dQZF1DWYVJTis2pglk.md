@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2008! Cover: Giusy Ferreri
 
-158 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/6hJ5zVMj5XDFihC9i8CkxC)
+158 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

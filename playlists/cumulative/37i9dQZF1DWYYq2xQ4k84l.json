@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-13",
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
   "name": "Latin Hits 2004",
-  "published_playlist_ids": [
-    "0fnqMRgAcbpZ4Qg9kxzXr2"
-  ],
   "tracks": [
     {
       "album": {
@@ -668,7 +665,7 @@
     },
     {
       "album": {
-        "name": "Para Mi Para Vos",
+        "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
@@ -680,7 +677,7 @@
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 254146,
+      "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
     },

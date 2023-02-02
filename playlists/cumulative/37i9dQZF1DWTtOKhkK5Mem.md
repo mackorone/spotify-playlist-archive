@@ -4,7 +4,7 @@
 
 > Male artists singing about love.
 
-288 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/5B8h6ibIDuEQNqnYk4TJRp)
+288 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Always](https://open.spotify.com/track/626NGIRE2xU9k9owUGVRdF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits \- The Ultimate Collection \(Int'l Deluxe Package\)](https://open.spotify.com/album/0Bkb9wdEeOPBJnLYmQqVR2) | 5:53 | 2021-11-23 | 2022-07-29 |
 | [Always](https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Always](https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM) | 4:07 | 2021-11-23 | 2022-07-28 |
 | [Always](https://open.spotify.com/track/4d7e0NB53PDs4wTQAnvdxF) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Always](https://open.spotify.com/album/1HlvXd7msONucVCxQP7CGW) | 4:07 | 2022-08-26 | 2022-11-12 |
-| [Always on My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 | 2021-11-23 |  |
+| [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 | 2021-11-23 |  |
 | [Arms Of A Woman](https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 4:11 | 2021-11-23 |  |
 | [At My Weakest](https://open.spotify.com/track/6rcTyXe8W8kjQLyALBRj1v) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [You Deserve Better / At My Weakest](https://open.spotify.com/album/3M1MYH8SYxLaJfBWIAsAdL) | 3:37 | 2022-05-27 |  |
 | [Baby, I Love Your Way](https://open.spotify.com/track/0tx981nZO0V21ZgRRSKxqe) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Lasting Love](https://open.spotify.com/album/1jZJMsrl6E1ycGXJeYykJ0) | 4:45 | 2021-11-23 | 2022-07-29 |
@@ -77,7 +77,7 @@
 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 | 2021-11-23 | 2022-07-29 |
 | [Fire and Rain](https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Calming Ballads](https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0) | 3:20 | 2022-08-26 | 2022-11-13 |
 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2022-05-27 |  |
-| [For You](https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [For You](https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX) | 3:23 | 2022-05-27 | 2022-11-14 |
+| [For You](https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [For You](https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX) | 3:23 | 2022-05-27 | 2023-01-24 |
 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 | 2021-11-23 |  |
 | [Hard Habit to Break \- 2009 Remaster](https://open.spotify.com/track/7DLeSErR2mtp4cbTHscT8p) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded Edition\)](https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa) | 4:45 | 2021-11-23 | 2022-07-29 |
 | [Hard to Say I'm Sorry / Get Away \- 2009 Remaster](https://open.spotify.com/track/5zpYTfWIuNXCFblRIescG1) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded Edition\)](https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C) | 5:04 | 2021-11-23 | 2022-11-13 |
@@ -225,7 +225,7 @@
 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 | 2022-05-27 |  |
 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 | 2022-05-27 |  |
 | [The Actor](https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Michael Learns To Rock \(1991\)](https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR) | 4:33 | 2021-11-23 | 2022-11-14 |
-| [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 | 2022-08-26 | 2022-11-14 |
+| [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 | 2022-08-26 | 2023-01-29 |
 | [The Blower's Daughter](https://open.spotify.com/track/7tdXvaCZmWZJOrZE9zFXpr) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [The Blower's Daughter](https://open.spotify.com/album/4TMMcbyi7mC5aJeOvTn6FW) | 4:48 | 2021-11-23 | 2022-07-29 |
 | [The Book of Love \- EP Version](https://open.spotify.com/track/4HcSK64Cy7JJ5gv1Txzhzo) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [For You](https://open.spotify.com/album/0vQOkW8jvRYdf0wzonmLMK) | 3:13 | 2021-11-23 | 2022-07-29 |
 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 | 2021-11-23 |  |
@@ -248,7 +248,7 @@
 | [Tuesdays](https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Tuesdays](https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD) | 3:36 | 2022-08-12 |  |
 | [Wanted](https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Hunter Hayes \(Encore\)](https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx) | 3:48 | 2022-05-27 |  |
 | [Wasn't Expecting That](https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Wasn't Expecting That](https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q) | 3:21 | 2021-11-23 | 2022-07-29 |
-| [Watching The Wheels \- Remastered 2010](https://open.spotify.com/track/4fKhRRYn7F5shZItjJkPJU) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:59 | 2021-11-23 |  |
+| [Watching The Wheels \- Remastered 2010](https://open.spotify.com/track/4fKhRRYn7F5shZItjJkPJU) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy: Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:59 | 2021-11-23 |  |
 | [What If](https://open.spotify.com/track/1nyQWVjQ46agLbVmJJbWR7) | [JOP](https://open.spotify.com/artist/3KKxb3BykQhR9HVdXsSlkO) | [What If](https://open.spotify.com/album/3Pc9topjxyaOZodNqU27Mp) | 2:51 | 2022-08-26 | 2022-11-14 |
 | [When a Man Loves a Woman](https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm) | 3:51 | 2021-11-23 |  |
 | [When I Need You](https://open.spotify.com/track/2EmS1b64xEjUdvDcLE1AuX) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Journey – The Essential Leo Sayer](https://open.spotify.com/album/2qcpKdOFBiNMV7DNnTCW6x) | 4:12 | 2021-11-23 | 2022-07-29 |

@@ -2,10 +2,51 @@
   "date_first_scraped": "2022-04-19",
   "description": "Piezas ac\u00fasticas para cenar a la luz de las velas con alguien especial.",
   "name": "Instrumentales Rom\u00e1nticas",
-  "published_playlist_ids": [
-    "0NRIi162ZzHvIFqC70MezX"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Matteo Carcassi: 25 Melodic & Progressive Studies, Op. 60",
+        "url": "https://open.spotify.com/album/11ak49S3NDKpFkITvHtXsK"
+      },
+      "artists": [
+        {
+          "name": "Matteo Carcassi",
+          "url": "https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU"
+        },
+        {
+          "name": "Paco Hallak",
+          "url": "https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52792,
+      "name": "25 Etudes, Op.60: No.11",
+      "url": "https://open.spotify.com/track/3rtSgMczBxCjgo3soQPLat"
+    },
+    {
+      "album": {
+        "name": "Carcassi: 25 Melodic & Progressive Studies, Op. 60, Vol. 2",
+        "url": "https://open.spotify.com/album/38hySzyQwwDMHSKT3TnFmT"
+      },
+      "artists": [
+        {
+          "name": "Matteo Carcassi",
+          "url": "https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU"
+        },
+        {
+          "name": "Paco Hallak",
+          "url": "https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 52792,
+      "name": "25 Etudes, Op.60: No.11",
+      "url": "https://open.spotify.com/track/6TE3MimgVYLoDiEyAGZcd3"
+    },
     {
       "album": {
         "name": "7 Lagos",
@@ -467,28 +508,6 @@
       "duration_ms": 218293,
       "name": "Campeche",
       "url": "https://open.spotify.com/track/3iyvjySmpI2Sxlxbg4Ds7q"
-    },
-    {
-      "album": {
-        "name": "Matteo Carcassi: 25 Melodic & Progressive Studies, Op. 60, Vol. 2",
-        "url": "https://open.spotify.com/album/38hySzyQwwDMHSKT3TnFmT"
-      },
-      "artists": [
-        {
-          "name": "Matteo Carcassi",
-          "url": "https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU"
-        },
-        {
-          "name": "Paco Hallak",
-          "url": "https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm"
-        }
-      ],
-      "date_added": "2022-10-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 52792,
-      "name": "Carcassi Etudes, Op.60: No.11",
-      "url": "https://open.spotify.com/track/6TE3MimgVYLoDiEyAGZcd3"
     },
     {
       "album": {

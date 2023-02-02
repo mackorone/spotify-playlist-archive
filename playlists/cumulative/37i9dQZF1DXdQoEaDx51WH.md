@@ -4,7 +4,7 @@
 
 > All\-new tracks by Coke Studio Pakistan Season 14, updated live.
 
-17 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/34aS3Tdje9r8UhBZj8WUc1)
+17 songs - 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

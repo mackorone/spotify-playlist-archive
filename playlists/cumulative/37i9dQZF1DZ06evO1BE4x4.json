@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
   "name": "This Is Violent Soho",
-  "published_playlist_ids": [
-    "6UIyQ5VyY3HdaXY64zHqcW"
-  ],
   "tracks": [
     {
       "album": {
@@ -415,7 +412,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 180613,
       "name": "Outsider",
       "url": "https://open.spotify.com/track/2kwh1mJLQ2BBUEdx4NoIWb"
@@ -509,6 +506,24 @@
       "duration_ms": 252226,
       "name": "So Sentimental",
       "url": "https://open.spotify.com/track/6QVLOVHtYM3oCbiLkr8B8K"
+    },
+    {
+      "album": {
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Son Of Sam",
+      "url": "https://open.spotify.com/track/3JJm5nPQDNItljLtyIrtGv"
     },
     {
       "album": {

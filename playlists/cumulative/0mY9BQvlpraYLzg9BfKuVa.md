@@ -4,7 +4,7 @@
 
 > Stuck in stop and go? This should help.
 
-72 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/4pc7LpRBwgI9X4F6HbyelE)
+72 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

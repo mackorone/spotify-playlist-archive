@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-25",
-  "description": "Contemporary Ambient music made by Japanese artists. Masayoshi Fujita on cover.",
+  "description": "The calming space of Japanese Ambient and Environmental music. Masayoshi Fujita on cover.",
   "name": "Ambient Japan",
-  "published_playlist_ids": [
-    "5Sx77Alf84KHgT12jt3i3T"
-  ],
   "tracks": [
     {
       "album": {
@@ -26,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Paradoxically, forgetting",
+        "url": "https://open.spotify.com/album/4Pwr8F2x5SWLapkvscTJVN"
+      },
+      "artists": [
+        {
+          "name": "Weatherson",
+          "url": "https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 835000,
+      "name": "2679 miles away",
+      "url": "https://open.spotify.com/track/4B4jWWkkgJ13lSbph0T3GQ"
+    },
+    {
+      "album": {
         "name": "Sleep Box vol.51",
         "url": "https://open.spotify.com/album/24sSd5811YMvEOXmfjYs9s"
       },
@@ -41,6 +56,24 @@
       "duration_ms": 182500,
       "name": "514",
       "url": "https://open.spotify.com/track/2vECXvQoLABMxEPMogaERm"
+    },
+    {
+      "album": {
+        "name": "DANZINDAN-POJIDON (New Master Edition)",
+        "url": "https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX"
+      },
+      "artists": [
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155533,
+      "name": "8\u30fb31",
+      "url": "https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q"
     },
     {
       "album": {
@@ -77,6 +110,24 @@
       "duration_ms": 316633,
       "name": "A Light Snow",
       "url": "https://open.spotify.com/track/2eEvzoLyLK6OVlegteDtiJ"
+    },
+    {
+      "album": {
+        "name": "Heisei No Oto: Japanese Left-field Pop From The CD Age, 1989-1996",
+        "url": "https://open.spotify.com/album/1HQaShZnkACQiXjJRaUzWi"
+      },
+      "artists": [
+        {
+          "name": "Synergetic Voice Orchestra",
+          "url": "https://open.spotify.com/artist/5shpMTYrRn3zNZsbvG5i3p"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335762,
+      "name": "A Tale",
+      "url": "https://open.spotify.com/track/0RwP29TYIWlQh6uvkyGT9y"
     },
     {
       "album": {
@@ -170,6 +221,24 @@
     },
     {
       "album": {
+        "name": "NATURAL SONIC",
+        "url": "https://open.spotify.com/album/5VRnb3N2f1wASaAnOJ1a89"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Ochi",
+          "url": "https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306666,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/49xldL6I0FcKyrfKZoFF3J"
+    },
+    {
+      "album": {
         "name": "At Day's End/Small Hours",
         "url": "https://open.spotify.com/album/1lfOwDCvWL6rorNWNbtfoY"
       },
@@ -185,6 +254,42 @@
       "duration_ms": 129000,
       "name": "At Day's End",
       "url": "https://open.spotify.com/track/3Jt5IZqpG4VeV2LpFRhj5O"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons II",
+        "url": "https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505160,
+      "name": "Atrium",
+      "url": "https://open.spotify.com/track/7CV8NzeND4AZIdKRRVAYW4"
+    },
+    {
+      "album": {
+        "name": "Commissions: 1977-2000",
+        "url": "https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq"
+      },
+      "artists": [
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460226,
+      "name": "Bananatron",
+      "url": "https://open.spotify.com/track/03CbUuPxmE1hvo5fuCs86N"
     },
     {
       "album": {
@@ -239,6 +344,24 @@
       "duration_ms": 263474,
       "name": "birefringence",
       "url": "https://open.spotify.com/track/3cxBheYCzfiIHcyNdwXMEa"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284386,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/0Bc4abgrOxonETzZupd4BE"
     },
     {
       "album": {
@@ -332,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Great Wind",
+        "url": "https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/6tOFUhOqXYlArJjrSJ6c42"
+    },
+    {
+      "album": {
         "name": "\uc794\ubb3c\uacb0 (janmulgyeol)",
         "url": "https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i"
       },
@@ -372,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Commissions: 1977-2000",
+        "url": "https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq"
+      },
+      "artists": [
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Candy Floss",
+      "url": "https://open.spotify.com/track/2ZtH2scL0aDBizjDrqewIW"
+    },
+    {
+      "album": {
         "name": "MDT001",
         "url": "https://open.spotify.com/album/57DgSN6ZCnVIsiUUOkIjji"
       },
@@ -387,6 +546,24 @@
       "duration_ms": 211812,
       "name": "Cassiopeia, 6 July 1982",
       "url": "https://open.spotify.com/track/2U05G9iflgUikBMpH76AIu"
+    },
+    {
+      "album": {
+        "name": "Glow In The Dark",
+        "url": "https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl"
+      },
+      "artists": [
+        {
+          "name": "Shuta Yasukochi",
+          "url": "https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284775,
+      "name": "Cave",
+      "url": "https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa"
     },
     {
       "album": {
@@ -462,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354693,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg"
+    },
+    {
+      "album": {
         "name": "Air Dance",
         "url": "https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819"
       },
@@ -495,6 +690,24 @@
       "duration_ms": 248500,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk"
+    },
+    {
+      "album": {
+        "name": "Commissions: 1977-2000",
+        "url": "https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq"
+      },
+      "artists": [
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/23HQOR3hBeeLbXdmcPQA8m"
     },
     {
       "album": {
@@ -545,10 +758,46 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 403000,
       "name": "Deep Slope",
       "url": "https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6"
+    },
+    {
+      "album": {
+        "name": "Deep Slope",
+        "url": "https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N"
+      },
+      "artists": [
+        {
+          "name": "Shinji Wakasa",
+          "url": "https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403000,
+      "name": "Deep Slope",
+      "url": "https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Ochi",
+          "url": "https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285173,
+      "name": "Ear Dreamin'",
+      "url": "https://open.spotify.com/track/2b7h7hMkxj5hDorhGfTGoU"
     },
     {
       "album": {
@@ -606,6 +855,60 @@
     },
     {
       "album": {
+        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT"
+      },
+      "artists": [
+        {
+          "name": "Shiho Yabuki",
+          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227973,
+      "name": "Energy Flow (Ki No Nagare)",
+      "url": "https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons II",
+        "url": "https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431000,
+      "name": "Evocations 2",
+      "url": "https://open.spotify.com/track/7LsaMGZqUxbfujsF4ML0HG"
+    },
+    {
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373973,
+      "name": "FEET",
+      "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
+    },
+    {
+      "album": {
         "name": "VAGUE",
         "url": "https://open.spotify.com/album/3wwGYCEB35E5K5MAKjALtS"
       },
@@ -625,6 +928,42 @@
       "duration_ms": 361717,
       "name": "Firing",
       "url": "https://open.spotify.com/track/6zbYuGYwr34odkFt5KeJmv"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons I",
+        "url": "https://open.spotify.com/album/3UyKEfm5Yg8XUf5LmHiRDZ"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572600,
+      "name": "Flius",
+      "url": "https://open.spotify.com/track/7H6JZas9n5Lc3UkwWyXZoe"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons I",
+        "url": "https://open.spotify.com/album/3UyKEfm5Yg8XUf5LmHiRDZ"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342960,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/1gxfSEYoqHO3rUluVLFXRS"
     },
     {
       "album": {
@@ -736,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "MERCURIC DANCE(\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30bf\u3099\u30f3\u30b9~\u8e8d\u52d5\u306e\u8e0a\u308a)",
+        "url": "https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511506,
+      "name": "FOSSIL OF FLAME/\u706b\u306e\u5316\u77f3~FIFTY BELL-TREES/\u4e94\u5341\u9234",
+      "url": "https://open.spotify.com/track/3d1oTcXWsWdtfDrgGbbmCG"
+    },
+    {
+      "album": {
         "name": "Gallery window",
         "url": "https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq"
       },
@@ -751,6 +1108,24 @@
       "duration_ms": 211625,
       "name": "Gallery window",
       "url": "https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356520,
+      "name": "Glass Chattering",
+      "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
     },
     {
       "album": {
@@ -790,6 +1165,42 @@
     },
     {
       "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232493,
+      "name": "Hagoromo",
+      "url": "https://open.spotify.com/track/1OAauBqF32EtJHTVsd12Zv"
+    },
+    {
+      "album": {
+        "name": "Best of Fumio: Music for Sleep",
+        "url": "https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V"
+      },
+      "artists": [
+        {
+          "name": "Fumio Miyashita",
+          "url": "https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416266,
+      "name": "Hana",
+      "url": "https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX"
+    },
+    {
+      "album": {
         "name": "Crossloads",
         "url": "https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9"
       },
@@ -826,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Hitotoki",
+        "url": "https://open.spotify.com/album/3PoEsNjbgIkR1dQtnT1FYT"
+      },
+      "artists": [
+        {
+          "name": "Genfukei",
+          "url": "https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Hitotoki",
+      "url": "https://open.spotify.com/track/7oihgOOxT7CvQrDNF1yDo8"
+    },
+    {
+      "album": {
         "name": "White Tape",
         "url": "https://open.spotify.com/album/0E6xFj4zYpjWDuIBSf23fe"
       },
@@ -841,6 +1270,24 @@
       "duration_ms": 235896,
       "name": "Holy",
       "url": "https://open.spotify.com/track/4tM5iliYtWcS5jSZCHc6rB"
+    },
+    {
+      "album": {
+        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115636,
+      "name": "Hondou no Kumo",
+      "url": "https://open.spotify.com/track/3fd0CkItjLx54Fk9PPQaBf"
     },
     {
       "album": {
@@ -862,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175773,
+      "name": "Ice Copy",
+      "url": "https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c"
+    },
+    {
+      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -877,6 +1342,64 @@
       "duration_ms": 208478,
       "name": "Ike",
       "url": "https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp"
+    },
+    {
+      "album": {
+        "name": "In the Wind (Moshimoss Rework)",
+        "url": "https://open.spotify.com/album/1bf1hHXUcWG0jYe6Xzli1u"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Moshimoss",
+          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418000,
+      "name": "In the Wind - Moshimoss Rework",
+      "url": "https://open.spotify.com/track/1UVQ4KZFm95FEjzgwZaQ6K"
+    },
+    {
+      "album": {
+        "name": "Infinitesimal",
+        "url": "https://open.spotify.com/album/5HRjh0Oh2GDYaPaDbk5yFJ"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Infinitesimal",
+      "url": "https://open.spotify.com/track/7eky2y76qSmzSBvCmguJ7h"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Toshi Tsuchitori",
+          "url": "https://open.spotify.com/artist/7hXNts8FQfZudbAwVv5AWx"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313826,
+      "name": "Ishiura (Abridged)",
+      "url": "https://open.spotify.com/track/5p4jRUhL9DRX8mbITOJRiS"
     },
     {
       "album": {
@@ -952,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Kibou",
+        "url": "https://open.spotify.com/album/0ohwM6AWnYHFfVeltMAiCq"
+      },
+      "artists": [
+        {
+          "name": "Genfukei",
+          "url": "https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Kibou",
+      "url": "https://open.spotify.com/track/2XJeHGe5YMCJgfKbsfCONV"
+    },
+    {
+      "album": {
         "name": "My Story, The Buraku Story (An Original Soundtrack)",
         "url": "https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP"
       },
@@ -967,6 +1508,42 @@
       "duration_ms": 151133,
       "name": "Kokyo",
       "url": "https://open.spotify.com/track/4ZsDYS4F4ilZIsNwnpUrx1"
+    },
+    {
+      "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk"
+      },
+      "artists": [
+        {
+          "name": "Yumiko Morioka",
+          "url": "https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235266,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/15Dz5HggGfcT8zJkYQCB71"
+    },
+    {
+      "album": {
+        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Kuware Uta - Intro",
+      "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
     },
     {
       "album": {
@@ -1017,7 +1594,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 244999,
       "name": "La Cath\u00e9drale Engloutie",
       "url": "https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb"
@@ -1294,6 +1871,60 @@
     },
     {
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt"
+      },
+      "artists": [
+        {
+          "name": "Genfukei",
+          "url": "https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG"
+    },
+    {
+      "album": {
+        "name": "Mousugu",
+        "url": "https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe"
+      },
+      "artists": [
+        {
+          "name": "Genfukei",
+          "url": "https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Mousugu",
+      "url": "https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1"
+    },
+    {
+      "album": {
+        "name": "Nostalghia",
+        "url": "https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Hirose",
+          "url": "https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421906,
+      "name": "Moving layer",
+      "url": "https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx"
+    },
+    {
+      "album": {
         "name": "NO-INPUT MIXING BOARD",
         "url": "https://open.spotify.com/album/7HBbA8sdlmh5y96GtlsfiI"
       },
@@ -1327,6 +1958,24 @@
       "duration_ms": 244859,
       "name": "nod",
       "url": "https://open.spotify.com/track/0N1p2sngaMZXCszfvs1qbv"
+    },
+    {
+      "album": {
+        "name": "Nova + 4 (Extended Version)",
+        "url": "https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Hirose",
+          "url": "https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 889260,
+      "name": "Old Dream Spell",
+      "url": "https://open.spotify.com/track/6y57EpCattl9PxuMRR0Vc0"
     },
     {
       "album": {
@@ -1399,6 +2048,60 @@
       "duration_ms": 305969,
       "name": "ONE",
       "url": "https://open.spotify.com/track/3zOhZDocdY3Rfk9usRPBBt"
+    },
+    {
+      "album": {
+        "name": "Une Collection Des Chainons II",
+        "url": "https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302160,
+      "name": "Orientate",
+      "url": "https://open.spotify.com/track/4NJ9PJPU4g7ArQcJXKqety"
+    },
+    {
+      "album": {
+        "name": "Origami Rework",
+        "url": "https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Origami Rework",
+      "url": "https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5"
+    },
+    {
+      "album": {
+        "name": "Pierrepont",
+        "url": "https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR"
+      },
+      "artists": [
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270664,
+      "name": "Pierrepont",
+      "url": "https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs"
     },
     {
       "album": {
@@ -1478,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Cr\u00e9puscule I & II",
+        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
+      },
+      "artists": [
+        {
+          "name": "Tujiko Noriko",
+          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Rear View",
+      "url": "https://open.spotify.com/track/1zlOiXXQostUPBPinAuW8A"
+    },
+    {
+      "album": {
         "name": "phases of the moon",
         "url": "https://open.spotify.com/album/5zImrTFUWontzflxnybrH8"
       },
@@ -1493,6 +2214,24 @@
       "duration_ms": 224000,
       "name": "rings of saturn",
       "url": "https://open.spotify.com/track/7efaQLKB2gUcxA3YLsTQKP"
+    },
+    {
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345840,
+      "name": "Saku",
+      "url": "https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg"
     },
     {
       "album": {
@@ -1515,6 +2254,104 @@
       "duration_ms": 202147,
       "name": "Sea - Rom\u00e9o Poirier Rework",
       "url": "https://open.spotify.com/track/3XYZajjpjRFg2H2RJ1K9pY"
+    },
+    {
+      "album": {
+        "name": "Oto No Wa: Selected Sounds of Japan 1988-2018",
+        "url": "https://open.spotify.com/album/6u6zXpuGoDl7xJfUK49WVn"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351313,
+      "name": "Sealed",
+      "url": "https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Fumio Miyashita",
+          "url": "https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410613,
+      "name": "See The Light (Abridged)",
+      "url": "https://open.spotify.com/track/0Fcr8todn7RFAUrSWbURAj"
+    },
+    {
+      "album": {
+        "name": "Music For Commercials",
+        "url": "https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68600,
+      "name": "Seiko 2",
+      "url": "https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79693,
+      "name": "Seiko 3",
+      "url": "https://open.spotify.com/track/6SIBardoRzJ6gSxRS6rfH6"
+    },
+    {
+      "album": {
+        "name": "Seis (Daigo Hanada Rework)",
+        "url": "https://open.spotify.com/album/2XZm1qudmuRBlupOM82pvo"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        },
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Seis - Daigo Hanada Rework",
+      "url": "https://open.spotify.com/track/6mqZsDccxymJpBFX5OAuR8"
     },
     {
       "album": {
@@ -1551,6 +2388,28 @@
       "duration_ms": 273539,
       "name": "sensory",
       "url": "https://open.spotify.com/track/5s55CnaMZgC7RRzZkUbAPC"
+    },
+    {
+      "album": {
+        "name": "Shaded Navy",
+        "url": "https://open.spotify.com/album/4lAwEpCkSyoyCQO7yO5F9l"
+      },
+      "artists": [
+        {
+          "name": "Shaded Navy",
+          "url": "https://open.spotify.com/artist/3uMPx1jmWJ2rvzrLgrsX4T"
+        },
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Shaded Navy",
+      "url": "https://open.spotify.com/track/0ssU0CAQUDiqhPTG1iNCHo"
     },
     {
       "album": {
@@ -1626,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385666,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/4hNzwEykt9DWUiU7KRf6Pr"
+    },
+    {
+      "album": {
         "name": "Soothe & Sleep, Vol.1",
         "url": "https://open.spotify.com/album/4cnvrE64yUSs7WlrfIzpAH"
       },
@@ -1659,6 +2536,24 @@
       "duration_ms": 294801,
       "name": "Slow Flow",
       "url": "https://open.spotify.com/track/6gOotEcEdpVVxcGCpETBg4"
+    },
+    {
+      "album": {
+        "name": "Nova + 4 (Extended Version)",
+        "url": "https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Hirose",
+          "url": "https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392500,
+      "name": "Slow Sky",
+      "url": "https://open.spotify.com/track/5DlLYv7xXpnM1Se5yUPjxB"
     },
     {
       "album": {
@@ -1734,6 +2629,24 @@
     },
     {
       "album": {
+        "name": "Snug",
+        "url": "https://open.spotify.com/album/2svo0LVqj0V3nNABrxK2Uc"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156520,
+      "name": "Snug",
+      "url": "https://open.spotify.com/track/3k7dUjyDJPNbt18PMA4Ruc"
+    },
+    {
+      "album": {
         "name": "Yolo",
         "url": "https://open.spotify.com/album/3PRhSzJAtheNUhYNFJ6gKL"
       },
@@ -1770,6 +2683,78 @@
     },
     {
       "album": {
+        "name": "splashes of ink / yours to give",
+        "url": "https://open.spotify.com/album/5CnrS3T44HOFOF98wfncUj"
+      },
+      "artists": [
+        {
+          "name": "Nathan Kawanishi",
+          "url": "https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "splashes of ink",
+      "url": "https://open.spotify.com/track/7CH9rwUG0SOkgIHpNNzjKX"
+    },
+    {
+      "album": {
+        "name": "Still Way (Wave Notation 2)",
+        "url": "https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg"
+      },
+      "artists": [
+        {
+          "name": "Satoshi Ashikawa",
+          "url": "https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 727173,
+      "name": "Still Park - Ensemble",
+      "url": "https://open.spotify.com/track/3Op3F8ipO0YQO8ps4p5kYv"
+    },
+    {
+      "album": {
+        "name": "Still Way (Wave Notation 2)",
+        "url": "https://open.spotify.com/album/2kxWdAN5jIbHnnJ9VhJYqg"
+      },
+      "artists": [
+        {
+          "name": "Satoshi Ashikawa",
+          "url": "https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515493,
+      "name": "Still Sky",
+      "url": "https://open.spotify.com/track/4O8E7XRXOp8TpqRUYsv0Q9"
+    },
+    {
+      "album": {
+        "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+        "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
+      },
+      "artists": [
+        {
+          "name": "Satoshi Ashikawa",
+          "url": "https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239173,
+      "name": "Still Space",
+      "url": "https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr"
+    },
+    {
+      "album": {
         "name": "su sa",
         "url": "https://open.spotify.com/album/0L6sbX9nuFeqVBw1G4dp9j"
       },
@@ -1785,6 +2770,24 @@
       "duration_ms": 212523,
       "name": "su sa",
       "url": "https://open.spotify.com/track/3Bh4nEAEtlwPuY0qClRMx9"
+    },
+    {
+      "album": {
+        "name": "MERCURIC DANCE(\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30bf\u3099\u30f3\u30b9~\u8e8d\u52d5\u306e\u8e0a\u308a)",
+        "url": "https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "SUNNYSIDE OF THE WATER/\u6c34\u3068\u5149",
+      "url": "https://open.spotify.com/track/2Qf0RR9hkZ8CSX2XoePVrv"
     },
     {
       "album": {
@@ -1972,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "MERCURIC DANCE(\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30bf\u3099\u30f3\u30b9~\u8e8d\u52d5\u306e\u8e0a\u308a)",
+        "url": "https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311200,
+      "name": "TO THE AIR/\u7a7a\u3078",
+      "url": "https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w"
+    },
+    {
+      "album": {
         "name": "Huwa",
         "url": "https://open.spotify.com/album/0w7XCXbHXRfTSixvZCdCHr"
       },
@@ -1987,6 +3008,24 @@
       "duration_ms": 196000,
       "name": "Tokiori",
       "url": "https://open.spotify.com/track/5agITFAPA4Y0zuSUHTDwf4"
+    },
+    {
+      "album": {
+        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT"
+      },
+      "artists": [
+        {
+          "name": "Shiho Yabuki",
+          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420746,
+      "name": "Tomoshibi",
+      "url": "https://open.spotify.com/track/7lmpi4NLJ86s013B9f6XSf"
     },
     {
       "album": {
@@ -2098,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "under the white moon of december",
+        "url": "https://open.spotify.com/album/3GnilBZFDYYRMNZi1JrOE5"
+      },
+      "artists": [
+        {
+          "name": "AOI",
+          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "under the white moon of december",
+      "url": "https://open.spotify.com/track/1nJb0Xmwteqqxi3TlC4tT0"
+    },
+    {
+      "album": {
         "name": "Mist",
         "url": "https://open.spotify.com/album/1gy2sqf4gWrnoNGNQsrff6"
       },
@@ -2135,6 +3192,24 @@
       "duration_ms": 246000,
       "name": "Unexpected",
       "url": "https://open.spotify.com/track/4dEaEf5BHeVegBLSjDxz6s"
+    },
+    {
+      "album": {
+        "name": "Horizon, Volume 1",
+        "url": "https://open.spotify.com/album/0Tvs4LpQSHSH1gcfVdF3WV"
+      },
+      "artists": [
+        {
+          "name": "Masahiro Sugaya",
+          "url": "https://open.spotify.com/artist/0ZH37cF1gwuwRW86ueqau1"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364720,
+      "name": "Until the End of the World",
+      "url": "https://open.spotify.com/track/6zC5XZfQBCbLTsx9l9lrEu"
     },
     {
       "album": {
@@ -2232,6 +3307,64 @@
     },
     {
       "album": {
+        "name": "DANZINDAN-POJIDON (New Master Edition)",
+        "url": "https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX"
+      },
+      "artists": [
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258826,
+      "name": "WASSER",
+      "url": "https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp"
+    },
+    {
+      "album": {
+        "name": "Music for Nine Post Cards",
+        "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371866,
+      "name": "Water Copy",
+      "url": "https://open.spotify.com/track/48MPwRtt4PRuC0gUZgkI48"
+    },
+    {
+      "album": {
+        "name": "Whales",
+        "url": "https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP"
+      },
+      "artists": [
+        {
+          "name": "Tsugi-Hagi",
+          "url": "https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf"
+        },
+        {
+          "name": "Republyric",
+          "url": "https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203389,
+      "name": "Whales",
+      "url": "https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0"
+    },
+    {
+      "album": {
         "name": "With Love",
         "url": "https://open.spotify.com/album/2bLN1o2TlcAqYSjzLQ9ok7"
       },
@@ -2265,6 +3398,24 @@
       "duration_ms": 226000,
       "name": "What It Means to Me",
       "url": "https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9"
+    },
+    {
+      "album": {
+        "name": "Great Wind",
+        "url": "https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/4fEmztNkFn2Edb6lN4t2Zx"
     },
     {
       "album": {
@@ -2340,6 +3491,60 @@
     },
     {
       "album": {
+        "name": "Dementos",
+        "url": "https://open.spotify.com/album/4rvC2RKIa10KGyGQYx2ftc"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 169000,
+      "name": "\u3055\u3066\u3068",
+      "url": "https://open.spotify.com/track/5QGQs3ju80BbO5Q3heCVkX"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0\u30fb\u30d4\u30af\u30c1\u30e3\u30fc",
+        "url": "https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Chin Suzuki",
+          "url": "https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306700,
+      "name": "\u30b6\u30fb\u30df\u30e9\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0\u30fb\u30d4\u30af\u30c1\u30e3\u30fc",
+        "url": "https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC"
+      },
+      "artists": [
+        {
+          "name": "Yoshio Chin Suzuki",
+          "url": "https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "\u30df\u30fc\u30c8\u30fb\u30df\u30fc\u30fb\u30a4\u30f3\u30fb\u30b6\u30fb\u30b7\u30fc\u30d7\u30fb\u30e1\u30c9\u30a6",
+      "url": "https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30f3\u30bf\u30eb\u30c8\u30ec\u30fc\u30ca\u30fc\u304c\u3059\u3059\u3081\u308b\u4e0d\u5b89\u89e3\u6d88\u3001\u5b89\u7720\u30d2\u30fc\u30ea\u30f3\u30b0 \u301c\u81ea\u7136\u3068\u3064\u306a\u304c\u308b\u97f3\u697d\u301c",
         "url": "https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17"
       },
@@ -2412,6 +3617,24 @@
     },
     {
       "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk"
+      },
+      "artists": [
+        {
+          "name": "Yumiko Morioka",
+          "url": "https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321941,
+      "name": "\u9280\u306e\u8239",
+      "url": "https://open.spotify.com/track/5BeIxIMY0exSWc7LyPrchH"
+    },
+    {
+      "album": {
         "name": "\u65e5\u3005",
         "url": "https://open.spotify.com/album/4fNnKIXrr4UV5F2LwB2akT"
       },
@@ -2427,6 +3650,24 @@
       "duration_ms": 716173,
       "name": "\u96e8\u97f3",
       "url": "https://open.spotify.com/track/4YUGDSUgPapHEtsBry5aWI"
+    },
+    {
+      "album": {
+        "name": "Seventh Garden",
+        "url": "https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi"
+      },
+      "artists": [
+        {
+          "name": "Yasuaki Shimizu",
+          "url": "https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349933,
+      "name": "\u96ea",
+      "url": "https://open.spotify.com/track/6Yob39WAE8Um7Dox1ch886"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5pzlFKAwpZ5"

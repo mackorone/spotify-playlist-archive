@@ -4,7 +4,7 @@
 
 > Relaxing jazz music for meditation.
 
-62 songs - 3 hr 41 min - not published yet
+63 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 | 2022-10-27 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2022-11-24 |  |
 | [Elise](https://open.spotify.com/track/696BDrz9nIEdXTmLxTjm6Q) | [Harper Douglas](https://open.spotify.com/artist/0qnH2Ve4RbdQEPnNAFy2np) | [Elise](https://open.spotify.com/album/08S5BBeRD6SNzKATObz1Hm) | 2:49 | 2022-10-27 |  |
+| [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2022-10-27 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/08zG2Lrqlfp3ldWVzEbnjc) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Here's That Rainy Day](https://open.spotify.com/album/2BLTJotFjrXROaxkzPgqnh) | 4:19 | 2022-10-27 |  |
 | [I Can't Get Started \(With You\)](https://open.spotify.com/track/0vpZnqfPR7ztK1iYUdRI4P) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I Can't Get Started \(With You\)](https://open.spotify.com/album/61gEEgRzs3Rl0QB7X4lk7D) | 4:39 | 2022-10-27 |  |

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Holiday classics from your favourite punks. Cover: Neck Deep",
+  "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
   "name": "Punk Christmas",
-  "published_playlist_ids": [
-    "0LsEqOOLiAoH7HfToPQ8Cv"
-  ],
   "tracks": [
     {
       "album": {
@@ -289,7 +286,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 189260,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz"
@@ -379,7 +376,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 107063,
       "name": "Carol Of The Beers",
       "url": "https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN"
@@ -523,7 +520,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 181991,
       "name": "Christmas by the Phone",
       "url": "https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP"
@@ -613,7 +610,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-24",
       "duration_ms": 177666,
       "name": "Christmas Day",
       "url": "https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg"
@@ -757,7 +754,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 159266,
       "name": "Christmas Vacation",
       "url": "https://open.spotify.com/track/2adeKu82XJFCPInfady2Gt"
@@ -793,7 +790,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 238422,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/0enn0hF3toElN9rxQVMo4Y"
@@ -1521,10 +1518,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 183000,
       "name": "Holiday Records",
       "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
+    },
+    {
+      "album": {
+        "name": "Hope This Christmas",
+        "url": "https://open.spotify.com/album/4bcnJnLqOWtNtBghs2Tkdq"
+      },
+      "artists": [
+        {
+          "name": "Shybits",
+          "url": "https://open.spotify.com/artist/3RpiuODlxLEzGTjoKa2qW7"
+        },
+        {
+          "name": "Eddie Argos",
+          "url": "https://open.spotify.com/artist/6Bb1Tz9dIywMGlbDzpwUCo"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165547,
+      "name": "Hope This Christmas",
+      "url": "https://open.spotify.com/track/7bLIbZBDv6U3hGtyiv0boo"
     },
     {
       "album": {
@@ -1759,7 +1778,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 173695,
       "name": "Jack Skellington",
       "url": "https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue"
@@ -1842,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Lieder und Lametta",
+        "url": "https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY"
+      },
+      "artists": [
+        {
+          "name": "Deine Cousine",
+          "url": "https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "Lieder und Lametta",
+      "url": "https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti"
+    },
+    {
+      "album": {
         "name": "X Christmas",
         "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
       },
@@ -1853,7 +1890,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 188333,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/22rBktERctuWCLmnV51Td5"
@@ -1961,7 +1998,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 124066,
       "name": "Merry Christmas (I Don't Wanna Fight Tonight) - 2002 Remaster",
       "url": "https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ"
@@ -2069,7 +2106,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 201640,
       "name": "Mr. Winter",
       "url": "https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY"
@@ -2786,6 +2823,28 @@
     },
     {
       "album": {
+        "name": "This Could Be Christmas",
+        "url": "https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye"
+      },
+      "artists": [
+        {
+          "name": "The So So Glos",
+          "url": "https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP"
+        },
+        {
+          "name": "Spider Stacy",
+          "url": "https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291191,
+      "name": "This Could Be Christmas",
+      "url": "https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7"
+    },
+    {
+      "album": {
         "name": "This Holiday",
         "url": "https://open.spotify.com/album/5xtAmmqy1YTHVd5DCZYQ2E"
       },
@@ -2851,7 +2910,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 137346,
       "name": "This Time of Year",
       "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
@@ -2873,6 +2932,24 @@
       "duration_ms": 178228,
       "name": "Under the Mistletoe",
       "url": "https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR"
+    },
+    {
+      "album": {
+        "name": "Violent Night (A Christmas Tale)",
+        "url": "https://open.spotify.com/album/13rqjPtmNSnmvBBO6tZyZg"
+      },
+      "artists": [
+        {
+          "name": "Chubby and the Gang",
+          "url": "https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 210480,
+      "name": "Violent Night (A Christmas Tale)",
+      "url": "https://open.spotify.com/track/7bKiUJ2re9OTNkB8sjYEdm"
     },
     {
       "album": {
@@ -2941,7 +3018,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 194000,
       "name": "West Coast Christmas",
       "url": "https://open.spotify.com/track/0tk0q4170soGn03XGksWfn"
@@ -3161,7 +3238,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 177640,
       "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
       "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 
 > Celebrating the oral tradition of Punjabi poetry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,085 likes - 28 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,587 likes - 28 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

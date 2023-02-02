@@ -4,7 +4,7 @@
 
 > The Top Hot Country Tracks for 2020 in one playlist\. Cover: Luke Combs
 
-64 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/1jpYuIlNxhVpWG0hqCnDI3)
+64 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

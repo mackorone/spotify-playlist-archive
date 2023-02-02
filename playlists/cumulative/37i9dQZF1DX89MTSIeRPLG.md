@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-52 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/31ZdULrPYzo4ufijVVz6vP)
+52 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Mellow out with this dub music.",
   "name": "Heavy Dub",
-  "published_playlist_ids": [
-    "5rPWWmddDxoO2FirCSHDOY"
-  ],
   "tracks": [
     {
       "album": {
@@ -590,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Fruit Of The Void",
+        "url": "https://open.spotify.com/album/0UMI4uzrMRGjtGAWak26Em"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Sound",
+          "url": "https://open.spotify.com/artist/55w8joyd87y5aaIix4xQBj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284093,
+      "name": "Ferocious",
+      "url": "https://open.spotify.com/track/3aYXFRlQQmujy4UhrTOspP"
+    },
+    {
+      "album": {
         "name": "Ferocious",
         "url": "https://open.spotify.com/album/19DG1L2hMDF3Zd1Tk3SrYk"
       },
@@ -601,7 +616,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 284093,
       "name": "Ferocious",
       "url": "https://open.spotify.com/track/6hQ16WF5bvIhW7OeHiFPsO"
@@ -1228,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "Fruit Of The Void",
+        "url": "https://open.spotify.com/album/0UMI4uzrMRGjtGAWak26Em"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Sound",
+          "url": "https://open.spotify.com/artist/55w8joyd87y5aaIix4xQBj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239693,
+      "name": "Ototoxic",
+      "url": "https://open.spotify.com/track/1FIwG4D6XLou0SEvt236bI"
+    },
+    {
+      "album": {
         "name": "Ototoxic",
         "url": "https://open.spotify.com/album/3FMyDjTyD8rLMPkpcwE4rm"
       },
@@ -1239,7 +1272,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 239693,
       "name": "Ototoxic",
       "url": "https://open.spotify.com/track/6o039qN5jgxb8WmA1gjk9Q"

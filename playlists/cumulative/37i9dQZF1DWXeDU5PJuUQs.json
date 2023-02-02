@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Pablo Lescano & El Mago.",
   "name": "Vivo de Cumbia",
-  "published_playlist_ids": [
-    "2wJPFQSijKKEawsi9DOknr"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-14",
       "duration_ms": 184430,
       "name": "Adicta al Dolor - En Vivo",
       "url": "https://open.spotify.com/track/7lmBtkXGbF9jXD9CXqyKL3"
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 224806,
       "name": "Ahora Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs"
@@ -1097,7 +1094,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 140565,
       "name": "Lo Intentamos - En Vivo",
       "url": "https://open.spotify.com/track/63Du15jCCnjjM2nzQ3OIS4"
@@ -1513,7 +1510,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 172333,
       "name": "No Te Vi Crecer - En Vivo",
       "url": "https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf"
@@ -1553,6 +1550,24 @@
       "duration_ms": 457826,
       "name": "Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo - En Vivo",
       "url": "https://open.spotify.com/track/4iy9NqDkaRndLAllVspQHy"
+    },
+    {
+      "album": {
+        "name": "La Gira y La Serenata",
+        "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291054,
+      "name": "Pedazo De Papel - En Vivo En El Luna Park",
+      "url": "https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY"
     },
     {
       "album": {
@@ -1668,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Por Una Vez En La Vida (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/6sEgcs4dMOP0yZc3ygcNBT"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264917,
+      "name": "Por Una Vez En La Vida - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/3DRk2Yf5JmNHAE6raUxrCo"
+    },
+    {
+      "album": {
         "name": "En Vivo en Ciudad Cultural Konex",
         "url": "https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy"
       },
@@ -1773,7 +1806,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-18",
       "duration_ms": 131120,
       "name": "Sencillamente - En Vivo",
       "url": "https://open.spotify.com/track/1k7eymTgq5eGY73TxSA9if"
@@ -1853,6 +1886,24 @@
       "duration_ms": 79516,
       "name": "Sobreviviendo (En Vivo)[Remasterizado 2021]",
       "url": "https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB"
+    },
+    {
+      "album": {
+        "name": "Le Mandamos Cumbia Perro (En Vivo)",
+        "url": "https://open.spotify.com/album/7FhhJjQ9dez8uMOblDZ8Fm"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71843,
+      "name": "Sobrio - En Vivo",
+      "url": "https://open.spotify.com/track/3HrvBkmU54RnjhHD09ddDk"
     },
     {
       "album": {

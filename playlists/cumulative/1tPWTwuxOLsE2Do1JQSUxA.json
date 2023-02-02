@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-20",
   "description": "The biggest 2010s throwback anthems of the decade from Beyonc\u00e9, Alicia Keys, John Legend and many more. Image: Harry Styles. ",
   "name": "2010s Hits \ud83d\udd25 ",
-  "published_playlist_ids": [
-    "4urElZ9y19mvfNZKk2dRwe"
-  ],
   "tracks": [
     {
       "album": {
@@ -1378,7 +1375,7 @@
     },
     {
       "album": {
-        "name": "How Deep is Your Love",
+        "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
       "artists": [
@@ -1395,7 +1392,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212640,
-      "name": "How Deep is Your Love",
+      "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
     },
     {
@@ -2253,6 +2250,10 @@
         {
           "name": "Paloma Faith",
           "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
         }
       ],
       "date_added": "2022-02-28",
@@ -2732,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "She Wolf (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188866,
+      "name": "She Wolf",
+      "url": "https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx"
+    },
+    {
+      "album": {
         "name": "george ezra songs to play when the sun's out",
         "url": "https://open.spotify.com/album/42HhMLPT9krj1wX9WbxaYy"
       },
@@ -3101,7 +3120,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-03-06",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"

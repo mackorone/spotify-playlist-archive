@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "One-of-a-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films. \u4ee3\u8868\u4f5c\u300c\u9032\u6483\u306e\u5de8\u4eba\u300d\u30b7\u30ea\u30fc\u30ba\u5287\u4f34\u3092\u306f\u3058\u3081\u3001\u6570\u3005\u306e\u540d\u66f2\u3092\u4e16\u754c\u306b\u9001\u308a\u51fa\u3057\u3066\u3044\u308b\u97f3\u697d\u5bb6\u3002SawanoHiroyuki[nZk]\u540d\u7fa9\u3067\u3082\u7cbe\u529b\u7684\u306b\u6d3b\u52d5\u4e2d\u3002",
   "name": "\u6fa4\u91ce\u5f18\u4e4b Hiroyuki Sawano Works",
-  "published_playlist_ids": [
-    "2rE5a26Axvv4DWNYd8FyYO"
-  ],
   "tracks": [
     {
       "album": {
@@ -672,6 +669,28 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/57gUMsNaEyRTFWuKufAizA"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170973,
+      "name": "COLORs",
+      "url": "https://open.spotify.com/track/4aqQN7pU0Razhap9AadWxh"
+    },
+    {
+      "album": {
         "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
         "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
       },
@@ -1061,6 +1080,28 @@
       "duration_ms": 260532,
       "name": "KINGDOM - DUE",
       "url": "https://open.spotify.com/track/5qjXGfAvkOag8kJ6dVdofc"
+    },
+    {
+      "album": {
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/0pNEUlmHs3A3xvBY99kStQ"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "XAI",
+          "url": "https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168640,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/5q6dJYjSfbG3hWjB2r5bTa"
     },
     {
       "album": {
@@ -2002,6 +2043,42 @@
     },
     {
       "album": {
+        "name": "TOUCH",
+        "url": "https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184216,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl"
+    },
+    {
+      "album": {
+        "name": "TOUCH (English Ver.)",
+        "url": "https://open.spotify.com/album/4JY5h0hrhPu1Vj8kkY5rGY"
+      },
+      "artists": [
+        {
+          "name": "NAQT VANE",
+          "url": "https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184216,
+      "name": "TOUCH - English Ver.",
+      "url": "https://open.spotify.com/track/0Mfo0O3o28cwg5nhnC3DMW"
+    },
+    {
+      "album": {
         "name": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 \u9583\u5149\u306e\u30cf\u30b5\u30a6\u30a7\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5bVzjURZmf52VarMPyFF43"
       },
@@ -2465,6 +2542,24 @@
       "duration_ms": 202693,
       "name": "\u5316\u8eab\u306e\u7363",
       "url": "https://open.spotify.com/track/0TKtEyUOpH8RanuLIRsiUC"
+    },
+    {
+      "album": {
+        "name": "\u6700\u679c\u3066 (Complete Edition)",
+        "url": "https://open.spotify.com/album/4JmPUMhA4q9t7mvNJg9a16"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "\u6700\u679c\u3066",
+      "url": "https://open.spotify.com/track/4X5nAgWvHVhDuY19edXuLo"
     },
     {
       "album": {

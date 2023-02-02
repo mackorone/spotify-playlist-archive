@@ -4,7 +4,7 @@
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-79 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/63TGYg7jcQRjwyH3XEdPgY)
+79 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

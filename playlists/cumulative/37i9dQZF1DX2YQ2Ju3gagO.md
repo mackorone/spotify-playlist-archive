@@ -4,7 +4,7 @@
 
 > A collection of Tinie Tempah's biggest hits, features and classic cuts\. This Is: Tinie Tempah
 
-61 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/0djoAdNpRoA4KrusLWzRXi)
+61 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

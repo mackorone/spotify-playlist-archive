@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
   "name": "An Elegant Affair",
-  "published_playlist_ids": [
-    "2uTuZOwVyeoyYoooE1PJCr"
-  ],
   "tracks": [
     {
       "album": {
@@ -261,7 +258,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 147293,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
@@ -467,7 +464,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 123973,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP"
@@ -719,7 +716,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 185186,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
@@ -813,7 +810,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 199093,
       "name": "Come Fly With Me - Remastered 1998",
       "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
@@ -831,7 +828,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-25",
       "duration_ms": 190160,
       "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
       "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
@@ -947,7 +944,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 234320,
       "name": "Fever",
       "url": "https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E"
@@ -1221,7 +1218,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 194093,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
@@ -1279,7 +1276,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 202854,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3Rth37LIX8nTYyT1XskmFR"
@@ -1359,7 +1356,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "I've Got The World On A String - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3BtIUTUYKdzrgTj7gjcV0W"
@@ -1525,7 +1522,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 155306,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
@@ -1749,7 +1746,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 162360,
       "name": "Love Is Here To Stay - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4ehAqz41dlWdLbBBIubIla"
@@ -2055,7 +2052,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 274933,
       "name": "My Way",
       "url": "https://open.spotify.com/track/6lTTzSk1hRrxp4VMwXBp2l"
@@ -2438,7 +2435,7 @@
     },
     {
       "album": {
-        "name": "Something Cool (1955 Mono Version)",
+        "name": "Something Cool (1955 Version)",
         "url": "https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA"
       },
       "artists": [
@@ -2503,7 +2500,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 194040,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
@@ -2521,7 +2518,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 199240,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/33rhFjtqI16a5Q0qI4VHaO"
@@ -2665,7 +2662,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2023-01-28",
       "duration_ms": 173693,
       "name": "Swinging On A Star",
       "url": "https://open.spotify.com/track/7DhjBWlWMv0Lsspq7KLvIz"
@@ -2973,7 +2970,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 204146,
       "name": "Theme From New York, New York",
       "url": "https://open.spotify.com/track/4ODWgs1CVAZKDbryEodjiz"
@@ -3309,7 +3306,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 149226,
       "name": "Why Don't You Do Right (Get Me Some Money Too)",
       "url": "https://open.spotify.com/track/5tNQFDpeAggd6Brw3pIpjP"
@@ -3363,7 +3360,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 179493,
       "name": "You Make Me Feel So Young",
       "url": "https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3"

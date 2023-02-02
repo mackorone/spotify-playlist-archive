@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Corey Calliet.
 
-62 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/71iiAy84h7BLNDLGpturJS)
+62 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Boards of Canada. The essential tracks, all in one playlist.",
   "name": "This Is Boards of Canada",
-  "published_playlist_ids": [
-    "3rnTZVfsUW9jQfER89mDAR"
-  ],
   "tracks": [
     {
       "album": {
@@ -93,7 +90,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 376080,
-      "name": "Amo Bishop Roden",
+      "name": "Amo Bishop Roden [Chosen by Warp co-founder Steve Beckett]",
       "url": "https://open.spotify.com/track/1oeovPFdMfedh7VpbXg6YP"
     },
     {
@@ -221,6 +218,24 @@
       "duration_ms": 222136,
       "name": "Cold Earth",
       "url": "https://open.spotify.com/track/7aXWNIZMxTzU76bdmajx9c"
+    },
+    {
+      "album": {
+        "name": "Tomorrow's Harvest",
+        "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 169825,
+      "name": "Collapse",
+      "url": "https://open.spotify.com/track/6G0QWjgXe7XzpcwPchzAaV"
     },
     {
       "album": {
@@ -404,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82133,
+      "name": "In The Annexe",
+      "url": "https://open.spotify.com/track/5LrPKZmACz0BVdWGU0ycxx"
+    },
+    {
+      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/159ORixBSSemxiualv1Woj"
       },
@@ -433,7 +466,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 330333,
       "name": "Julie And Candy",
       "url": "https://open.spotify.com/track/7bgtelfoppWqHtwkQudvod"
@@ -955,7 +988,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": "2023-01-24",
       "duration_ms": 138561,
       "name": "Transmisiones Ferox",
       "url": "https://open.spotify.com/track/7cUwH8Pb0gVTn2CrE2rXwH"

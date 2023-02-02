@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZREeDGwM6aE.md) - [plain]
 
 ### [Pioneers](https://open.spotify.com/playlist/37i9dQZF1DWZREeDGwM6aE)
 
-> These LGBTQQIA+ trailblazers knocked doors wide open with their music\. Cover: George Michael
+> These LGBTQIA+ trailblazers knocked doors wide open with their music\. Cover: George Michael
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,638 likes - 52 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,317 likes - 52 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZREeDGwM6aE.md) - [plain]
 | 51 | [Desire](https://open.spotify.com/track/6mH8uF35AIWGlmcQZMAQ9v) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:26 |
 | 52 | [Ain't That Peculiar](https://open.spotify.com/track/4RAS6QT974bl5blsapzVGq) | [Fanny](https://open.spotify.com/artist/1Pag7p4HbSdZIDzgNLsk39) | [First Time In A Long Time: The Reprise Recordings](https://open.spotify.com/album/2BkEkcphy0liqTVRSBEEpC) | 4:05 |
 
-Snapshot ID: `MTY2MDI1MTg2OSwwMDAwMDAwMGEzMWFlMzc3YmYxODVmN2JlZjk1MzQ1MzBhNGM0NDBh`
+Snapshot ID: `MTY3NDU3MzU5OSwwMDAwMDAwMGNhOWNiYjdlMzE2YjJjYzcxZTQ0MmYwOWJjYmYxNzU0`

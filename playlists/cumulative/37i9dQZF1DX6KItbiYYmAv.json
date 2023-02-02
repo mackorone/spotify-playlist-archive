@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
   "name": "Kaffeehausmusik",
-  "published_playlist_ids": [
-    "1w8qjXZqaRHiu8Jdf3pdKx"
-  ],
   "tracks": [
     {
       "album": {
@@ -433,7 +430,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-16",
       "duration_ms": 299746,
       "name": "Caledonia",
       "url": "https://open.spotify.com/track/7jEVW8o2CIfdgziEJXnii8"
@@ -714,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Drunk On A Flight",
+      "url": "https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd"
+    },
+    {
+      "album": {
         "name": "Early Morning Coffee Cups",
         "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
       },
@@ -743,10 +758,28 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 284146,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
+    },
+    {
+      "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
     },
     {
       "album": {
@@ -1001,7 +1034,7 @@
           "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "date_added": "2022-11-23",
+      "date_added": "2022-10-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 325946,
@@ -1183,7 +1216,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 193453,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/0WeqauIUZSjsupDGXsXWsP"
@@ -1201,7 +1234,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 198226,
       "name": "I Am the Moon",
       "url": "https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct"
@@ -1295,7 +1328,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 233488,
       "name": "I'm the One - Acoustic",
       "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
@@ -1617,7 +1650,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 238173,
       "name": "Know How",
       "url": "https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG"
@@ -2373,7 +2406,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 233289,
       "name": "Real Peach",
       "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
@@ -2607,7 +2640,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2022-12-13",
       "duration_ms": 251960,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
@@ -2773,7 +2806,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 304493,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
@@ -2784,6 +2817,10 @@
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
       "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
         {
           "name": "Julien Baker",
           "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
@@ -2817,7 +2854,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-19",
       "duration_ms": 221760,
       "name": "Standing in the Rain",
       "url": "https://open.spotify.com/track/5S4pAZfIugwULt49eneojF"
@@ -2965,7 +3002,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
@@ -3019,7 +3056,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
@@ -3419,7 +3456,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 283696,
       "name": "What Am I Here For",
       "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
@@ -3491,7 +3528,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 197901,
       "name": "Who Needs You - Special Edition",
       "url": "https://open.spotify.com/track/2HyvRCnFAX65gKsxwyPV5O"
@@ -3563,7 +3600,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"

@@ -4,7 +4,7 @@
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-128 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/4SS0zxKg1zqnt4ItXfPUcF)
+130 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aquellos Ojos Verdes](https://open.spotify.com/track/6QTsakwuxHCS58zrmWVQ8M) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:54 | 2021-12-26 |  |
 | [Arráncame la Vida](https://open.spotify.com/track/4OmqdiIOcYzcELnzRK3iCr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [RCA 100 Años De Musica](https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh) | 2:20 | 2021-12-26 | 2022-11-14 |
 | [Aunque Me Cueste la Vida](https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Aunque Me Cueste la Vida](https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2) | 2:58 | 2021-12-26 |  |
+| [Ay amor](https://open.spotify.com/track/0XE6HJcztC7uVQ6jnBSY3X) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [La flor de la canela](https://open.spotify.com/album/40feN08wkMH0KNZZoCpT36) | 2:25 | 2021-12-26 | 2023-02-01 |
 | [Ay Amor \(Bolero\)](https://open.spotify.com/track/2Ab3yxKUk8SCdIbb2jLh94) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [Perlas Cubanas: Bola de Nieve](https://open.spotify.com/album/4qxgH4FU5jSUgiUP2N2pPI) | 2:25 | 2021-12-26 | 2022-07-10 |
 | [Azul](https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Homenaje a Agustin Lara \- Toña La Negra](https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L) | 3:17 | 2021-12-26 |  |
 | [Azul](https://open.spotify.com/track/3Jifgl1CGNY25f7R0bvASv) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 3:19 | 2021-12-26 | 2022-07-28 |
@@ -42,7 +43,8 @@
 | [Contigo](https://open.spotify.com/track/0qfpxZwicnDx86tuuWxyNX) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros, Vol\. 3](https://open.spotify.com/album/77nPejHN04qkgkISjyX8Nf) | 2:47 | 2021-12-26 | 2022-11-13 |
 | [Contigo](https://open.spotify.com/track/1OSupICuX37BGBQ2U4xlB3) | [Los Embajadores](https://open.spotify.com/artist/2EaQjDG7awZDbOx79mN35a) | [Los 100 Mejores Boleros Vol\. 3](https://open.spotify.com/album/5algxxjJvhVjUoaL9790jx) | 2:47 | 2021-12-26 | 2022-07-12 |
 | [Contigo Aprendí](https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 1:58 | 2021-12-26 |  |
-| [Cuando Estemos Viejos](https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de la Billo Caracas Boy's](https://open.spotify.com/album/5YgiH1ubwBvNWXM9xhSAsB) | 2:27 | 2021-12-26 |  |
+| [Cuando Estemos Viejo](https://open.spotify.com/track/01OCG8cqpCCV2PVrP6Xuvg) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Esta Noche...Billo](https://open.spotify.com/album/4OjlD6tl5AAkN06A19QhWA) | 2:27 | 2021-12-26 |  |
+| [Cuando Estemos Viejos](https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de la Billo Caracas Boy's](https://open.spotify.com/album/5YgiH1ubwBvNWXM9xhSAsB) | 2:27 | 2021-12-26 | 2022-12-09 |
 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 | 2021-12-26 |  |
 | [Cuando Estoy Contigo](https://open.spotify.com/track/7Lu6Q4bLeB7cy3eS8E7Nf4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mas Recuerdos Romanticos](https://open.spotify.com/album/2YKiIo1apMCWHzSTSX3Rid) | 2:27 | 2021-12-26 | 2022-07-29 |
 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/1RfB1vZYB2mi6RSSwgMU6c) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS), [La Rondalla Venezolano](https://open.spotify.com/artist/11GKNHRvLhiNRKFGf8Rvk9) | [Eternamente](https://open.spotify.com/album/5DyJdvitTIEd4ncxUL0XHQ) | 3:03 | 2021-12-26 |  |

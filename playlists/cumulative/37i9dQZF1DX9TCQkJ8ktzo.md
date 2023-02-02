@@ -4,7 +4,7 @@
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-95 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/45Y4ADhIS41wJfzyX9AM1P)
+96 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Para Cuando Regreses](https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Para Mi Siempre Amor...](https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj) | 1:55 | 2022-01-01 |  |
 | [Patricia](https://open.spotify.com/track/0ObN1coFGRMtvi5IofBiAu) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Latin Hits of the '60s \(Cha Cha Cha Gold\)](https://open.spotify.com/album/2jfpsUB1V2hw5jt5cRX8uz) | 2:04 | 2022-01-01 | 2022-07-29 |
 | [Patricia](https://open.spotify.com/track/36LJXFFjkhxARwxUkQD4Eh) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Duelo Musical](https://open.spotify.com/album/2iYVbfNOt4NCQizX3EVYwC) | 2:05 | 2022-08-31 | 2022-11-13 |
-| [Patricia](https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Perez Prado \- Mambo](https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV) | 2:07 | 2022-01-01 |  |
+| [Patricia](https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The Greatest Hits](https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux) | 2:06 | 2022-08-31 |  |
+| [Patricia](https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Perez Prado \- Mambo](https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV) | 2:07 | 2022-01-01 | 2022-11-28 |
 | [Pepito](https://open.spotify.com/track/1tg7WgO0AA6LLcqGgzJEY1) | [Los Machucambos](https://open.spotify.com/artist/3Q8nSW25MwXKlrlfElSSyc) | [Mambo n\. 5](https://open.spotify.com/album/2adit01KSpqheHndAbFhZx) | 3:04 | 2022-01-01 |  |
 | [Popotitos](https://open.spotify.com/track/0qgGL8GDXoB4vsCCGen6dS) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/3xVJmRZLs8xEkh2aTQrIZf) | 3:03 | 2022-01-01 | 2022-07-29 |
 | [Popotitos](https://open.spotify.com/track/3kwvhErFvlurnAsxJ5iIaK) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Plaga](https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId) | 3:03 | 2022-01-01 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Party blues tunes. Cover: Joe Louis Walker",
   "name": "Blues Party",
-  "published_playlist_ids": [
-    "2PyWBQN1l9lLTmhJUOKeAZ"
-  ],
   "tracks": [
     {
       "album": {
@@ -223,7 +220,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 281013,
       "name": "Funky Broadway",
       "url": "https://open.spotify.com/track/6PiG0h2rJuBodPoHcqiwZs"
@@ -285,6 +282,24 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
+    },
+    {
+      "album": {
+        "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149895,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/48Ma2WkbEcsnNXqDjOkoSa"
     },
     {
       "album": {
@@ -509,7 +524,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 360146,
       "name": "Little Juke Joint",
       "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
@@ -755,7 +770,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 410360,
       "name": "Shake For Me",
       "url": "https://open.spotify.com/track/08DXq5ces6fGOOMgpdsNWN"
@@ -919,24 +934,6 @@
     {
       "album": {
         "name": "Stompin' Ground",
-        "url": "https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti"
-      },
-      "artists": [
-        {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
-        }
-      ],
-      "date_added": "2020-12-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239666,
-      "name": "Soul Shake",
-      "url": "https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01"
-    },
-    {
-      "album": {
-        "name": "Stompin' Ground",
         "url": "https://open.spotify.com/album/4PCrKaiJuhJronKWpqVlYC"
       },
       "artists": [
@@ -951,6 +948,28 @@
       "duration_ms": 239666,
       "name": "Soul Shake",
       "url": "https://open.spotify.com/track/4NngKojec1NwiBObo7MDQo"
+    },
+    {
+      "album": {
+        "name": "Stompin' Ground",
+        "url": "https://open.spotify.com/album/7idEcyqOmmK3iYlr8mmTti"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        },
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "Soul Shake",
+      "url": "https://open.spotify.com/track/3hKeRXFfnGAN80ZvZCwz01"
     },
     {
       "album": {
@@ -1001,7 +1020,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-16",
       "duration_ms": 291720,
       "name": "Sweet Thang",
       "url": "https://open.spotify.com/track/3WxhLjbfNgVM6R2zMA3wIy"

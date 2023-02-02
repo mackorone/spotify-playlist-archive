@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
   "name": "Cosmic Country",
-  "published_playlist_ids": [
-    "5Ymp5r0Wpvihvt8IezwUoh"
-  ],
   "tracks": [
     {
       "album": {
@@ -787,7 +784,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 124760,
       "name": "Isn\u2019t It",
       "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"
@@ -931,7 +928,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 238866,
       "name": "Let it Roll",
       "url": "https://open.spotify.com/track/78CNAJZ7Cx1nUjyPoOPU03"

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Featuring the 'Noteable' songwriters who create your favorite songs. Cover: Ashley Gorley",
+  "description": "Featuring the 'Noteable' songwriters who create your favorite songs. Cover: Ashley McBryde",
   "name": "Country Songwriters",
-  "published_playlist_ids": [
-    "6gIQ4ulEp086lqaMqKxqFK"
-  ],
   "tracks": [
     {
       "album": {
@@ -789,6 +786,24 @@
       "duration_ms": 202053,
       "name": "Drowns the Whiskey",
       "url": "https://open.spotify.com/track/79268NV31JJE8d4VzGEKLb"
+    },
+    {
+      "album": {
+        "name": "Drunk Plans",
+        "url": "https://open.spotify.com/album/1XyWXqkjfSA9gnFAsSNCY3"
+      },
+      "artists": [
+        {
+          "name": "Joey Hyde",
+          "url": "https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181301,
+      "name": "Drunk Plans",
+      "url": "https://open.spotify.com/track/7aquXzKa4ABAOshANU0qio"
     },
     {
       "album": {
@@ -2775,6 +2790,24 @@
       "duration_ms": 207438,
       "name": "Say You Do (feat. Matthew Ramsey)",
       "url": "https://open.spotify.com/track/7hFrXzKRJkRNXa6575wCJZ"
+    },
+    {
+      "album": {
+        "name": "Second Guessing",
+        "url": "https://open.spotify.com/album/3dUeViIWtPKrhBzcSzuXAD"
+      },
+      "artists": [
+        {
+          "name": "Griffen Palmer",
+          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189782,
+      "name": "Second Guessing",
+      "url": "https://open.spotify.com/track/0rrF82CbDxrY8y5nDVM7um"
     },
     {
       "album": {

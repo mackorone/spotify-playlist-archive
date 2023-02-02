@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5ZhOMhIvZkv2S7fBPcxQ1t\">Gloria Trevi </a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Gloria Trevi ",
-  "published_playlist_ids": [
-    "2Clw82UhtR0ZfLcRXSh4Py"
-  ],
   "tracks": [
     {
       "album": {
@@ -955,6 +952,24 @@
       "duration_ms": 199880,
       "name": "\u00c1branse Perras",
       "url": "https://open.spotify.com/track/7b7AziuX7EeIzvatDcC0RS"
+    },
+    {
+      "album": {
+        "name": "Isla Divina",
+        "url": "https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "\u00c9l Se Equivoc\u00f3",
+      "url": "https://open.spotify.com/track/4z7QjhiABJOZdyk7v8G8eY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFOrrk2jG75Lb"

@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/5yhFnMhQEjMqk19u3taThh)
+50 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Stitches](https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m) | 3:26 | 2016-06-30 |  |
 | [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 | 2016-06-30 |  |
 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 | 2016-06-30 |  |
-| [Sunday Candy](https://open.spotify.com/track/6fTdcGsjxlAD9PSkoPaLMX) | [Donnie Trumpet & The Social Experiment](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 3:46 | 2016-06-30 |  |
+| [Sunday Candy](https://open.spotify.com/track/6fTdcGsjxlAD9PSkoPaLMX) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 3:46 | 2016-06-30 |  |
 | [The Fix \(feat\. Jeremih\)](https://open.spotify.com/track/33QRsLBBdWDYgCZfWEZqR6) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Fix \(feat\. Jeremih\)](https://open.spotify.com/album/3QyJvpZppP2jNp5yPYRPGJ) | 2:53 | 2016-06-30 |  |
 | [The Hills](https://open.spotify.com/track/25khomWgBVamSdKw7hzm3l) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/28ZKQMoNBB0etKXZ97G2SN) | 4:02 | 2016-06-30 |  |
 | [Trndsttr \(feat\. M\. Maggie\) \- Lucian Remix](https://open.spotify.com/track/5LZQ5s0kRZS9nBSd1xLK7U) | [Black Coast](https://open.spotify.com/artist/4JMdvZoXArDVuMNNelKmjo), [M\. Maggie](https://open.spotify.com/artist/3jaknADFL7EOn3lSRneM7v), [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4) | [Trndsttr \(feat\. M\. Maggie\) \[Lucian Remix\]](https://open.spotify.com/album/5q3vgbTbWJut1Go3qzVgya) | 2:59 | 2016-06-30 |  |

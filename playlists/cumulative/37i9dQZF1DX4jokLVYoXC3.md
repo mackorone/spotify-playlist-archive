@@ -4,7 +4,7 @@
 
 > A selection of some of our favorite fiction – featuring short stories, novels, plays, and more.
 
-94 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/6xgtmBirfRqGCOyxN5PWh1)
+94 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

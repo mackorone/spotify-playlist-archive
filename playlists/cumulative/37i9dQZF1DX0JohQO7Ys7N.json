@@ -2,10 +2,29 @@
   "date_first_scraped": "2022-02-24",
   "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ?si=tdUrYs62R-Wn4tBZJfT2hQ\">Ukweli</a> and <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=yszItYT6R8Sl7BDM5wXqpA\">Xenia Manasseh </a>",
   "name": "NairoBae",
-  "published_playlist_ids": [
-    "05RBXY2jPO9XncKwkUOGKt"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Little Thing Called Love",
+        "url": "https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q"
+      },
+      "artists": [
+        {
+          "name": "Hook",
+          "url": "https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170062,
+      "name": "A Little Thing Called Love",
+      "url": "https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb"
+    },
     {
       "album": {
         "name": "Kuwe",
@@ -628,6 +647,28 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        },
+        {
+          "name": "Chemutai Sage",
+          "url": "https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179977,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp"
+    },
+    {
+      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R"
       },
@@ -1179,7 +1220,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 231150,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/5OB9O4aHm8IlB1FOoQFRXm"
@@ -1387,24 +1428,6 @@
     {
       "album": {
         "name": "Nimetii",
-        "url": "https://open.spotify.com/album/2abzq9AqCgqpDB8YPh557R"
-      },
-      "artists": [
-        {
-          "name": "KALI",
-          "url": "https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI"
-        }
-      ],
-      "date_added": "2021-12-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 175072,
-      "name": "Nimetii",
-      "url": "https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP"
-    },
-    {
-      "album": {
-        "name": "Nimetii",
         "url": "https://open.spotify.com/album/1KvLQ3dEjgP89oIbZfp4bx"
       },
       "artists": [
@@ -1423,6 +1446,28 @@
       "duration_ms": 175000,
       "name": "Nimetii",
       "url": "https://open.spotify.com/track/2lyMgRJfJ26k4ib4exYO10"
+    },
+    {
+      "album": {
+        "name": "Nimetii",
+        "url": "https://open.spotify.com/album/2abzq9AqCgqpDB8YPh557R"
+      },
+      "artists": [
+        {
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI"
+        },
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175072,
+      "name": "Nimetii",
+      "url": "https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP"
     },
     {
       "album": {
@@ -1659,7 +1704,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 145471,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w"

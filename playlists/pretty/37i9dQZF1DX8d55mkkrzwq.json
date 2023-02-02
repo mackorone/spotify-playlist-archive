@@ -1,12 +1,12 @@
 {
   "description": "Get moving with these family-friendly dance hits!",
-  "num_followers": 900,
+  "num_followers": 981,
   "original_name": "Dance Challenge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODgyNjgwNiwwMDAwMDAwMDNkNGYxYTcxMGI5NmQ4OTU2OWZhM2EwNTg1NTE4OTI3",
+  "snapshot_id": "MTY0ODgyNjgwNiwwMDAwMDAwMDRmNmI1MWY0YzcxYzUwNTBiZDZlNzBiOTlhMjZjYjAx",
   "tracks": [
     {
       "added_at": "2022-04-01 15:26:46",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Honeysuckle & Lightning Bugs",
-        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
-      },
-      "artists": [
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        }
-      ],
-      "duration_ms": 200593,
-      "name": "The Git Up",
-      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -91,26 +75,18 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "The Rocky Horror Picture Show - Original Soundtrack",
-        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
       },
       "artists": [
         {
-          "name": "Little Nell",
-          "url": "https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke"
-        },
-        {
-          "name": "Patricia Quinn",
-          "url": "https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs"
-        },
-        {
-          "name": "Richard O'Brien",
-          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
         }
       ],
-      "duration_ms": 199366,
-      "name": "Time Warp",
-      "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -179,18 +155,26 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 6: Fun Baby Songs",
-        "url": "https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP"
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
       "artists": [
         {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+          "name": "Little Nell",
+          "url": "https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke"
+        },
+        {
+          "name": "Patricia Quinn",
+          "url": "https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs"
+        },
+        {
+          "name": "Richard O'Brien",
+          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
         }
       ],
-      "duration_ms": 144138,
-      "name": "The Hokey Pokey",
-      "url": "https://open.spotify.com/track/4aiELSmheCgsRIxvuOckBU"
+      "duration_ms": 199366,
+      "name": "Time Warp",
+      "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -211,6 +195,22 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 6: Fun Baby Songs",
+        "url": "https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 144138,
+      "name": "The Hokey Pokey",
+      "url": "https://open.spotify.com/track/4aiELSmheCgsRIxvuOckBU"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
         "name": "Whoopty Whoop",
         "url": "https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT"
       },
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Cha Cha Slide",
-        "url": "https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL"
-      },
-      "artists": [
-        {
-          "name": "DJ Casper",
-          "url": "https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s"
-        }
-      ],
-      "duration_ms": 387493,
-      "name": "Cha Cha Slide - Original Live Platinum Band Mix",
-      "url": "https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
         "name": "Pancake Manor",
         "url": "https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 95253,
       "name": "Shake Break",
       "url": "https://open.spotify.com/track/7w6RBPKhCaxZiyXb1ekdYy"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Cha Cha Slide",
+        "url": "https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL"
+      },
+      "artists": [
+        {
+          "name": "DJ Casper",
+          "url": "https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s"
+        }
+      ],
+      "duration_ms": 387493,
+      "name": "Cha Cha Slide - Original Live Platinum Band Mix",
+      "url": "https://open.spotify.com/track/0RC2B9uIITHA0wtDFfQk3K"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
+        "name": "The Loco-Motion",
+        "url": "https://open.spotify.com/album/4KzkpwUYao28JWlcv9DCG0"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Locomotion",
+      "url": "https://open.spotify.com/track/0Perbjux3gxagOCJo64dlq"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
         "name": "Chubby Checker Classics",
         "url": "https://open.spotify.com/album/36tc0l1brbD9CCaUDrvqVi"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "The Loco-Motion",
-        "url": "https://open.spotify.com/album/4KzkpwUYao28JWlcv9DCG0"
+        "name": "Nursery Rhymes",
+        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Locomotion",
-      "url": "https://open.spotify.com/track/0Perbjux3gxagOCJo64dlq"
+      "duration_ms": 90277,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -355,38 +371,6 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Nursery Rhymes",
-        "url": "https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr"
-      },
-      "artists": [
-        {
-          "name": "Bounce Patrol",
-          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
-        }
-      ],
-      "duration_ms": 90277,
-      "name": "Head, Shoulders, Knees and Toes",
-      "url": "https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Silly Songs Sing-Along",
-        "url": "https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 121472,
-      "name": "Let's Shake About!",
-      "url": "https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
         "name": "Kidz Bop 30",
         "url": "https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs"
       },
@@ -419,6 +403,38 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
+        "name": "Kids Birthday Party",
+        "url": "https://open.spotify.com/album/1qO9LlASyxxmYqxssdUJa2"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Animal Dance and Freeze",
+      "url": "https://open.spotify.com/track/4HHMUL4cOZq21NJ6XjErfZ"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Blippi's Birthday Party",
+        "url": "https://open.spotify.com/album/4WWj00FI8McY157nn4B2OZ"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Dance, Dance, Freeze",
+      "url": "https://open.spotify.com/track/6C5XRlRzxkW4KKionxl8j6"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
         "name": "Macarena Kids",
         "url": "https://open.spotify.com/album/3O4JZycOK2GcM079we6urz"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 253451,
       "name": "Cotton Eyed Joe",
       "url": "https://open.spotify.com/track/3G5XnbFJVy3phaq8H5iSMe"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Laurie Berkner's Movement Songs",
-        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 186427,
-      "name": "Shake Your Body Down",
-      "url": "https://open.spotify.com/track/41YMpUOoIl9pjM2Hd6kNwr"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -467,6 +467,22 @@
       "duration_ms": 188067,
       "name": "Musical Statues - Party Version",
       "url": "https://open.spotify.com/track/7LC0vo7r0iDIuu61YwUXld"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Laurie Berkner's Movement Songs",
+        "url": "https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 186427,
+      "name": "Shake Your Body Down",
+      "url": "https://open.spotify.com/track/41YMpUOoIl9pjM2Hd6kNwr"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -503,22 +519,6 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Scrambled Eggs For All",
-        "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
-      },
-      "artists": [
-        {
-          "name": "Pancake Manor",
-          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
-        }
-      ],
-      "duration_ms": 151780,
-      "name": "Do Your Own Dance",
-      "url": "https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
         "name": "Jump, Wiggle and Hop",
         "url": "https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ"
       },
@@ -535,8 +535,24 @@
     {
       "added_at": "2022-04-01 15:26:46",
       "album": {
-        "name": "Kids Birthday Party",
-        "url": "https://open.spotify.com/album/1qO9LlASyxxmYqxssdUJa2"
+        "name": "Scrambled Eggs For All",
+        "url": "https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "duration_ms": 151780,
+      "name": "Do Your Own Dance",
+      "url": "https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE"
+    },
+    {
+      "added_at": "2022-04-01 15:26:46",
+      "album": {
+        "name": "Silly Songs Sing-Along",
+        "url": "https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9"
       },
       "artists": [
         {
@@ -544,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 150508,
-      "name": "Animal Dance and Freeze",
-      "url": "https://open.spotify.com/track/4HHMUL4cOZq21NJ6XjErfZ"
+      "duration_ms": 121472,
+      "name": "Let's Shake About!",
+      "url": "https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6"
     },
     {
       "added_at": "2022-04-01 15:26:46",
@@ -579,22 +595,6 @@
       "duration_ms": 161068,
       "name": "Let's Samba",
       "url": "https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm"
-    },
-    {
-      "added_at": "2022-04-01 15:26:46",
-      "album": {
-        "name": "Blippi's Birthday Party",
-        "url": "https://open.spotify.com/album/4WWj00FI8McY157nn4B2OZ"
-      },
-      "artists": [
-        {
-          "name": "Blippi",
-          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
-        }
-      ],
-      "duration_ms": 130588,
-      "name": "Dance, Dance, Freeze",
-      "url": "https://open.spotify.com/track/6C5XRlRzxkW4KKionxl8j6"
     },
     {
       "added_at": "2022-04-01 15:26:46",

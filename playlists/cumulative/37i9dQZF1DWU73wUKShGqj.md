@@ -4,7 +4,7 @@
 
 > "My candle burns at both ends; It will not last the night; But ah, my foes, and oh, my friends — It gives a lovely light!"
 
-18 songs - 40 min 12 sec - [published](https://open.spotify.com/playlist/4pmQRAEWiIvvyKP9lZIkoz)
+18 songs - 40 min 12 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

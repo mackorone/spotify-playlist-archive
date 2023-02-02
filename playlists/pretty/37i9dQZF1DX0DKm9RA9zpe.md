@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain]
 
 > This is the official playlist of JTBC Superband, an audition program for musical geniuses for global superbands\. \(글로벌 슈퍼밴드를 위한 음악 천재들의 오디션 프로그램 JTBC 슈퍼밴드의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,749 likes - 91 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,687 likes - 91 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

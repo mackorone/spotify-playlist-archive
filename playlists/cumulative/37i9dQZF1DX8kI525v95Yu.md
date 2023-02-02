@@ -4,7 +4,7 @@
 
 > The greatest hits of U2, all in one place.
 
-101 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/3uvJqKI9HVtaLRA88I9kGk)
+101 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

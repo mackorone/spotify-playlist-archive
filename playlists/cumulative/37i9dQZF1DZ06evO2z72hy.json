@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is Gondwana. The essential tracks, all in one playlist.",
   "name": "This Is Gondwana",
-  "published_playlist_ids": [
-    "2Makl5HN0UTGk06qqIJvLk"
-  ],
   "tracks": [
     {
       "album": {
@@ -952,6 +949,32 @@
     },
     {
       "album": {
+        "name": "T\u00f3tem",
+        "url": "https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys"
+      },
+      "artists": [
+        {
+          "name": "Shamanes Crew",
+          "url": "https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK"
+        },
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Tiano Bless",
+          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245624,
+      "name": "San\u00e1ndonos",
+      "url": "https://open.spotify.com/track/3F1y63BIzYhurCLgZlfkaj"
+    },
+    {
+      "album": {
         "name": "Gondwana",
         "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
       },
@@ -1119,7 +1142,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 194749,
       "name": "Susurro",
       "url": "https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR"

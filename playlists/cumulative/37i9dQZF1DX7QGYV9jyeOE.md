@@ -4,7 +4,7 @@
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
 
-87 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/56lk90X1aHgxooSiDMUuWr)
+87 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

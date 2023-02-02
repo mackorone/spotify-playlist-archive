@@ -4,7 +4,7 @@
 
 > time to confess your crush
 
-63 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/56BPEJhjg8AFimSmGrGe6w)
+63 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

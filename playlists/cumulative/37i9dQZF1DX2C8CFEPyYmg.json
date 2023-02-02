@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-18",
   "description": "Soothing strings for our sleepy little ones.",
   "name": "Soothing Strings For Sleeping Babies",
-  "published_playlist_ids": [
-    "4WjEE9CImJA9YZct5yhhtB"
-  ],
   "tracks": [
     {
       "album": {
@@ -386,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/6KcYskZzpUOBxsvWw6BvXb"
+      },
+      "artists": [
+        {
+          "name": "Ned Regan",
+          "url": "https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117720,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/3uiJV5WP1RlyMlJxG6OFwJ"
+    },
+    {
+      "album": {
         "name": "Aoife's Song",
         "url": "https://open.spotify.com/album/6Zl57a6XqKZe0SttOeb6xX"
       },
@@ -433,7 +448,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 74000,
       "name": "Are you sleeping",
       "url": "https://open.spotify.com/track/5HY3eJ6IbPR8PyaqCfTOSO"
@@ -847,7 +862,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 105013,
       "name": "Bicycle Journey",
       "url": "https://open.spotify.com/track/293xkVZZ5TsAXuZmKImpIj"
@@ -980,6 +995,42 @@
     },
     {
       "album": {
+        "name": "Bredvid Dig",
+        "url": "https://open.spotify.com/album/7cZTLiuK1n6femAP1zYgRu"
+      },
+      "artists": [
+        {
+          "name": "Josefine Wennman",
+          "url": "https://open.spotify.com/artist/4Iz7MgZBYGsZzFr3gVamSc"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102807,
+      "name": "Bredvid Dig",
+      "url": "https://open.spotify.com/track/2XN4TGkQYND2X9BCdzXKqX"
+    },
+    {
+      "album": {
+        "name": "String Lullabies",
+        "url": "https://open.spotify.com/album/2DdVkPWkK49E6Y6PtRTQn0"
+      },
+      "artists": [
+        {
+          "name": "Finn Sandqvist",
+          "url": "https://open.spotify.com/artist/6xWlf9uV7EfbW8RlNjbGPB"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107514,
+      "name": "Broder Jakob",
+      "url": "https://open.spotify.com/track/47o0t8TEmDGvZ2yWsqwxdu"
+    },
+    {
+      "album": {
         "name": "Watching The Sunset",
         "url": "https://open.spotify.com/album/6IShePTSr5ZHMvpz5cCxO4"
       },
@@ -1013,6 +1064,24 @@
       "duration_ms": 167250,
       "name": "Butterfly Fly",
       "url": "https://open.spotify.com/track/2KFKwbjRTXJj0lWKBkBLJX"
+    },
+    {
+      "album": {
+        "name": "Bye Baby Bunting",
+        "url": "https://open.spotify.com/album/5BQjsw7XhxeAhNctk6ZAYT"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Scott",
+          "url": "https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105047,
+      "name": "Bye Baby Bunting",
+      "url": "https://open.spotify.com/track/5T9nGchAgWtiRhvUJYLcn0"
     },
     {
       "album": {
@@ -1088,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Caprice",
+        "url": "https://open.spotify.com/album/5hUCXVvnNkX9A3bPkoHGP6"
+      },
+      "artists": [
+        {
+          "name": "Mimmi East",
+          "url": "https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149612,
+      "name": "Caprice",
+      "url": "https://open.spotify.com/track/4v1fFOBm1wFFwHPgDjn8pS"
+    },
+    {
+      "album": {
         "name": "Moonchild",
         "url": "https://open.spotify.com/album/6UlvUbYKOTJdnGSGiz3EOl"
       },
@@ -1135,7 +1222,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 106500,
       "name": "Child's Play #1",
       "url": "https://open.spotify.com/track/65MGptLUTl2uEdmPfqRuHT"
@@ -1189,7 +1276,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 101204,
       "name": "Cradle Canon",
       "url": "https://open.spotify.com/track/4qXPGMSxCdvgawanBV6Jcg"
@@ -1772,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Fly On The Dreams",
+        "url": "https://open.spotify.com/album/338X82i7hait3R99OIbSsk"
+      },
+      "artists": [
+        {
+          "name": "Jameson Morse",
+          "url": "https://open.spotify.com/artist/75CLOXDoDKC14KyHexZXAz"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77297,
+      "name": "Fly On The Dreams",
+      "url": "https://open.spotify.com/track/50aLFNpy65ojN0ALOxFSyb"
+    },
+    {
+      "album": {
         "name": "Fly With Sandyman",
         "url": "https://open.spotify.com/album/5H4Obfg21B88pXqMVgkR5d"
       },
@@ -1953,6 +2058,24 @@
     {
       "album": {
         "name": "Go the Distance",
+        "url": "https://open.spotify.com/album/3jzttgjkLZ1w8SstT7gtxR"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9 Dean",
+          "url": "https://open.spotify.com/artist/3AidWvpVrxSP3vCHDXqRHF"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Go the Distance",
+      "url": "https://open.spotify.com/track/44QuIQOudSIgY6coo40j6w"
+    },
+    {
+      "album": {
+        "name": "Go the Distance",
         "url": "https://open.spotify.com/album/06LMcXgAWJpLJI2lx5pVgg"
       },
       "artists": [
@@ -1963,7 +2086,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 80350,
       "name": "Go the Distance",
       "url": "https://open.spotify.com/track/5mAtbHNvgNdQUICfdk5pIM"
@@ -2237,6 +2360,24 @@
       "duration_ms": 82250,
       "name": "I Don't Like Peas",
       "url": "https://open.spotify.com/track/0fm4S3aLlxvh1viBe47osX"
+    },
+    {
+      "album": {
+        "name": "I Jump To Grab A Star",
+        "url": "https://open.spotify.com/album/12Rms3EhCNA2N1OLmbffy3"
+      },
+      "artists": [
+        {
+          "name": "Richard Moore",
+          "url": "https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175516,
+      "name": "I Jump To Grab A Star",
+      "url": "https://open.spotify.com/track/1DPotsjdKBF7HicSOwvGt2"
     },
     {
       "album": {
@@ -2726,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Lavender's Blue",
+        "url": "https://open.spotify.com/album/0fdgeJvBXNcFk8Jn07S2Ed"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rnes H\u00f6rna",
+          "url": "https://open.spotify.com/artist/2zqtBq44AqBBXf2Fk9ZLZE"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115046,
+      "name": "Lavender's Blue",
+      "url": "https://open.spotify.com/track/360yPQFkFfKEYmQ0uNdRF4"
+    },
+    {
+      "album": {
         "name": "Lego Lego",
         "url": "https://open.spotify.com/album/5E1XwidizfIascTQ6PqgqR"
       },
@@ -2777,6 +2936,42 @@
       "duration_ms": 63250,
       "name": "Let's Go On A Treasure Hunt",
       "url": "https://open.spotify.com/track/6sWBGUMOeH7kJpC7Zo6h7p"
+    },
+    {
+      "album": {
+        "name": "Little Cat",
+        "url": "https://open.spotify.com/album/0fqR8dnPnUCwviGnmOKiyP"
+      },
+      "artists": [
+        {
+          "name": "Moon and Their Friends",
+          "url": "https://open.spotify.com/artist/3ANlGiyXKGgsSJCufuut5T"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86769,
+      "name": "Little Cat",
+      "url": "https://open.spotify.com/track/4gmsQEHOrEVxp3s7VkIY3t"
+    },
+    {
+      "album": {
+        "name": "Little Dreamer",
+        "url": "https://open.spotify.com/album/5iKnGiHq3aLZ2kxUNZ0ddK"
+      },
+      "artists": [
+        {
+          "name": "Noel Estes",
+          "url": "https://open.spotify.com/artist/4VSk1i5y60TXjwKkmy2IoL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101463,
+      "name": "Little Dreamer",
+      "url": "https://open.spotify.com/track/59I123c49GQS8E3H17PTJm"
     },
     {
       "album": {
@@ -2845,10 +3040,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 87124,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/2Dk44WpbC5w791Tdw5Zcnm"
+    },
+    {
+      "album": {
+        "name": "London Bridge",
+        "url": "https://open.spotify.com/album/11Ox9WNYaeQDiGitxtVppw"
+      },
+      "artists": [
+        {
+          "name": "Mino Lawrence",
+          "url": "https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/0hD9RBuvleJ7MwX6WDRned"
     },
     {
       "album": {
@@ -3068,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Miss Polly Had a Dolly",
+        "url": "https://open.spotify.com/album/3SFQ9xPKovYDlysI9yIdiU"
+      },
+      "artists": [
+        {
+          "name": "Maya Carr",
+          "url": "https://open.spotify.com/artist/3moYZmkLXJhSnDFiLuqAyw"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110011,
+      "name": "Miss Polly Had a Dolly",
+      "url": "https://open.spotify.com/track/3de9dZSLiksNDC1aNpYbsi"
+    },
+    {
+      "album": {
         "name": "Moje srdce",
         "url": "https://open.spotify.com/album/1bdyjxY53bQzwhtWcVCcbT"
       },
@@ -3173,6 +3404,24 @@
       "duration_ms": 97956,
       "name": "Morning will come",
       "url": "https://open.spotify.com/track/1nD0qnUnr91DryAr98Y5Vk"
+    },
+    {
+      "album": {
+        "name": "Mother's Boy",
+        "url": "https://open.spotify.com/album/1RhoX0Ng7tGrjLsAm7PP7B"
+      },
+      "artists": [
+        {
+          "name": "Lidia Slivova",
+          "url": "https://open.spotify.com/artist/77FNIPLSi4DI3EpV9dp68x"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102372,
+      "name": "Mother's Boy",
+      "url": "https://open.spotify.com/track/28VGBG1kDP3O1g3l2YOf4s"
     },
     {
       "album": {
@@ -3374,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "My Puppy Loves Me",
+        "url": "https://open.spotify.com/album/6HvcSnXiBcml973CAsaQpg"
+      },
+      "artists": [
+        {
+          "name": "Boris Vla\u0161ic",
+          "url": "https://open.spotify.com/artist/3zNmA2R2BOtatVjh5rMgMQ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162191,
+      "name": "My Puppy Loves Me",
+      "url": "https://open.spotify.com/track/1HQFb9m1APRmWfqtlEtNm6"
+    },
+    {
+      "album": {
         "name": "You Are My Sunshine",
         "url": "https://open.spotify.com/album/0nKXkJyhxjkkCspsLGHyz5"
       },
@@ -3407,6 +3674,24 @@
       "duration_ms": 79750,
       "name": "My Wiggly Tooth",
       "url": "https://open.spotify.com/track/5bLJFknbjDtNMqc48JJ27i"
+    },
+    {
+      "album": {
+        "name": "My Wish",
+        "url": "https://open.spotify.com/album/1P7URS8sbxgfw7CatgXUk8"
+      },
+      "artists": [
+        {
+          "name": "The Bed Timers",
+          "url": "https://open.spotify.com/artist/6H1FsTGe0ycXNKnGze3rqf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86707,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/3SU5olekXE8H2eOUWxAWr6"
     },
     {
       "album": {
@@ -3518,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "Old MacDonald Had a Farm",
+        "url": "https://open.spotify.com/album/7mFAIeIpMuNzeBMEwmZSbG"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Old MacDonald Had a Farm",
+      "url": "https://open.spotify.com/track/7y1G8w8McPgbMB2YL9tbEr"
+    },
+    {
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/20XXrFzgc3zoD3iqQzJa45"
       },
@@ -3533,6 +3836,24 @@
       "duration_ms": 108856,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/3K61YrrGJmcfiOmDSvrRhw"
+    },
+    {
+      "album": {
+        "name": "One Finger One Thumb",
+        "url": "https://open.spotify.com/album/3CJ38TFdZFLSmGJB4WC23J"
+      },
+      "artists": [
+        {
+          "name": "Lacie Palmer",
+          "url": "https://open.spotify.com/artist/6cKhJWZ1pgXqGT3y8tLlve"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115554,
+      "name": "One Finger One Thumb",
+      "url": "https://open.spotify.com/track/22stRqJ2Av94yvBn213fWY"
     },
     {
       "album": {
@@ -3619,10 +3940,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 116097,
       "name": "Pillows",
       "url": "https://open.spotify.com/track/22eWMP9QXnJSVcLpKCxl1w"
+    },
+    {
+      "album": {
+        "name": "Ponnien min",
+        "url": "https://open.spotify.com/album/2EIAPYeSvnmtjp4HUa28dM"
+      },
+      "artists": [
+        {
+          "name": "William Riddervold",
+          "url": "https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134409,
+      "name": "Ponnien min",
+      "url": "https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8"
     },
     {
       "album": {
@@ -3659,6 +3998,24 @@
       "duration_ms": 102000,
       "name": "Puppy Love",
       "url": "https://open.spotify.com/track/6DaTj3tFSinoMzMtdv1yVM"
+    },
+    {
+      "album": {
+        "name": "Rabbit Bestie",
+        "url": "https://open.spotify.com/album/3wQNV1Kzkftuyvg6NKf24x"
+      },
+      "artists": [
+        {
+          "name": "Buster Dyson",
+          "url": "https://open.spotify.com/artist/5yGyDhblsaGzCxMmExIXrq"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75135,
+      "name": "Rabbit Bestie",
+      "url": "https://open.spotify.com/track/7zdGiflXDbXR5qR1HWVnl3"
     },
     {
       "album": {
@@ -3824,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "See the Stars",
+        "url": "https://open.spotify.com/album/2az551c3qBHagaYEIVXpQw"
+      },
+      "artists": [
+        {
+          "name": "Izakaru",
+          "url": "https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117363,
+      "name": "See the Stars",
+      "url": "https://open.spotify.com/track/1J9HqwN1K2RuEEifceye5Z"
+    },
+    {
+      "album": {
         "name": "Skip to My Lou",
         "url": "https://open.spotify.com/album/3MZ2b97iMdx4nIthH5SMe9"
       },
@@ -3839,6 +4214,24 @@
       "duration_ms": 93429,
       "name": "She'll Be Coming Around the Mountain",
       "url": "https://open.spotify.com/track/0kPaGsgbXPS0rOZiSHTRf9"
+    },
+    {
+      "album": {
+        "name": "Sing a Song of Sixpence",
+        "url": "https://open.spotify.com/album/2NcveJWmU3IswLDnmIrTQ5"
+      },
+      "artists": [
+        {
+          "name": "Eva Bl\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3uhc1JfzKzRdtm3L10LYjn"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107062,
+      "name": "Sing a Song of Sixpence",
+      "url": "https://open.spotify.com/track/51B1rFUHZDycoKTckQxaee"
     },
     {
       "album": {
@@ -3943,7 +4336,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 131694,
       "name": "Sleep Hymn",
       "url": "https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or"
@@ -3965,6 +4358,24 @@
       "duration_ms": 83950,
       "name": "Sleep Little Willow",
       "url": "https://open.spotify.com/track/17NWEpNMRzpNXdB93xIO3M"
+    },
+    {
+      "album": {
+        "name": "Sleep My Little Baby",
+        "url": "https://open.spotify.com/album/2aL2uZ0O3WqujL1mkntDXb"
+      },
+      "artists": [
+        {
+          "name": "Cest Le Mieux",
+          "url": "https://open.spotify.com/artist/7ADzWKzTJCsv4VUSHABl8i"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118115,
+      "name": "Sleep My Little Baby",
+      "url": "https://open.spotify.com/track/3h8RjQkEJW4BcJg6d3ORyo"
     },
     {
       "album": {
@@ -3997,10 +4408,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 119343,
       "name": "Sleeping - Harp",
       "url": "https://open.spotify.com/track/4lYt1ZdsBgBqUDBCzzGapZ"
+    },
+    {
+      "album": {
+        "name": "Sleeping Otters",
+        "url": "https://open.spotify.com/album/2WY6miW1tpeNQWk9YryEs4"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Wink",
+          "url": "https://open.spotify.com/artist/0LjFqglVtTHU8BQSHi6zmt"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97798,
+      "name": "Sleeping Otters",
+      "url": "https://open.spotify.com/track/2EmFouyplsJ0JyUOkAoREH"
     },
     {
       "album": {
@@ -4058,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/2Wy3saGcEXXxy72qd5ovUK"
+      },
+      "artists": [
+        {
+          "name": "Sia Bradley",
+          "url": "https://open.spotify.com/artist/4o9QVRe1jOStjIsC4tIkdz"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/64Ka9BzzbhnouV8KbyV4rI"
+    },
+    {
+      "album": {
         "name": "Song Of The Small Bear",
         "url": "https://open.spotify.com/album/7v3O7qxke2x91cxQDmUv8G"
       },
@@ -4112,6 +4559,42 @@
     },
     {
       "album": {
+        "name": "Sov Gott Lilla Du",
+        "url": "https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9"
+      },
+      "artists": [
+        {
+          "name": "Anna Wera",
+          "url": "https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154197,
+      "name": "Sov Gott Lilla Du",
+      "url": "https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH"
+    },
+    {
+      "album": {
+        "name": "Sov P\u00e5 Min Arm - Guitar Version",
+        "url": "https://open.spotify.com/album/5zfOuOoNi1n6n4XvadqK2T"
+      },
+      "artists": [
+        {
+          "name": "Roy S\u00f6derlund",
+          "url": "https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113124,
+      "name": "Sov P\u00e5 Min Arm - Guitar Version",
+      "url": "https://open.spotify.com/track/49INsxQEM7B4lAHbHXSuxD"
+    },
+    {
+      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/5hJRqymE8HDPqkwYxw5ePA"
       },
@@ -4141,7 +4624,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 143494,
       "name": "Starlight, Starbright",
       "url": "https://open.spotify.com/track/3akZOdnApGFE1B50vwVsvl"
@@ -4213,7 +4696,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 102350,
       "name": "Stars at Night",
       "url": "https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF"
@@ -4231,7 +4714,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 111883,
       "name": "Stars Heaven and Dreams",
       "url": "https://open.spotify.com/track/6xn1JDvqH2fToqq6H84h6O"
@@ -4706,6 +5189,24 @@
     },
     {
       "album": {
+        "name": "This Little Light Of Mine",
+        "url": "https://open.spotify.com/album/6qyhloOjALX97CGMuzNsAq"
+      },
+      "artists": [
+        {
+          "name": "Euan Levy",
+          "url": "https://open.spotify.com/artist/4zYP64IZ8weY745lhRv3By"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128783,
+      "name": "This Little Light Of Mine",
+      "url": "https://open.spotify.com/track/0GnbdQSxH6gir7fIMXJu4e"
+    },
+    {
+      "album": {
         "name": "This Old Man",
         "url": "https://open.spotify.com/album/0iL8y62kdnKlUv0l1n5LLb"
       },
@@ -4717,7 +5218,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 120866,
       "name": "This Old Man",
       "url": "https://open.spotify.com/track/0FFtYy25WDwgdTlKOyFFui"
@@ -4757,6 +5258,24 @@
       "duration_ms": 152959,
       "name": "This Willow Lullaby",
       "url": "https://open.spotify.com/track/2eJ5JUutoidmzf0MHFOUyT"
+    },
+    {
+      "album": {
+        "name": "Three Blind Mice",
+        "url": "https://open.spotify.com/album/2qtKiiSQLkcpXq4UNYm1jB"
+      },
+      "artists": [
+        {
+          "name": "Harmony Wilkinson",
+          "url": "https://open.spotify.com/artist/7uXMDWXFT3HuDyqwLfNHkD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122839,
+      "name": "Three Blind Mice",
+      "url": "https://open.spotify.com/track/0sdVzRd16V2N2TLmyrlNIx"
     },
     {
       "album": {
@@ -4825,7 +5344,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 75000,
       "name": "Tom's Little House",
       "url": "https://open.spotify.com/track/6dbCgZcfcdleCGXz1rzyz0"
@@ -4847,6 +5366,24 @@
       "duration_ms": 121565,
       "name": "Tommy the night chaser",
       "url": "https://open.spotify.com/track/2abCBj9MO2sLRbU6VMe8XH"
+    },
+    {
+      "album": {
+        "name": "Toy Song",
+        "url": "https://open.spotify.com/album/4DnkzFjiU9jVnOmjHixzdf"
+      },
+      "artists": [
+        {
+          "name": "Roger Citrus",
+          "url": "https://open.spotify.com/artist/0jP4ZJa7Q5zhdwW68ZdYMW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87100,
+      "name": "Toy song",
+      "url": "https://open.spotify.com/track/1EffS9L96WFcVqyl2C3lsb"
     },
     {
       "album": {
@@ -4955,6 +5492,42 @@
       "duration_ms": 113000,
       "name": "Up Among the Clouds",
       "url": "https://open.spotify.com/track/1Ey7xPK8P00PuX11RQsYTZ"
+    },
+    {
+      "album": {
+        "name": "Ute Bl\u00e5ser Sommarvind",
+        "url": "https://open.spotify.com/album/2wOUxDB0Gb3LPMSrYaN68I"
+      },
+      "artists": [
+        {
+          "name": "Mrs. Nocturnal",
+          "url": "https://open.spotify.com/artist/2nfzidAexGJFhsh28Qp6dr"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93804,
+      "name": "Ute Bl\u00e5ser Sommarvind (Summer Winds)",
+      "url": "https://open.spotify.com/track/562NWFYtbkiYHG1DvUmxeu"
+    },
+    {
+      "album": {
+        "name": "Vaggande Vind",
+        "url": "https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK"
+      },
+      "artists": [
+        {
+          "name": "Simon Fj\u00e4llstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134095,
+      "name": "Vaggande Vind",
+      "url": "https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0"
     },
     {
       "album": {
@@ -5264,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "Wished For, Longed For",
+        "url": "https://open.spotify.com/album/2xmYOx5eA0iWLY7OQSMPBS"
+      },
+      "artists": [
+        {
+          "name": "Yi Nantiro",
+          "url": "https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161391,
+      "name": "Wished For, Longed For",
+      "url": "https://open.spotify.com/track/2BNXwUiXFLrdiTlyANDjya"
+    },
+    {
+      "album": {
         "name": "With My Toes In The Lake",
         "url": "https://open.spotify.com/album/1ROYUuVzjEENXzPTwD8MBf"
       },
@@ -5372,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "You Are My Sunshine",
+        "url": "https://open.spotify.com/album/4XE1tN6IKr776odQ8FjNi0"
+      },
+      "artists": [
+        {
+          "name": "Chloe Hulme",
+          "url": "https://open.spotify.com/artist/547PuusQ4w9ybqTNLkI4Nu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107522,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/7gHHMUxuxLGVeYn1UdwqBP"
+    },
+    {
+      "album": {
         "name": "Moonlight Harp",
         "url": "https://open.spotify.com/album/49BfsfGVDBgSRjtWBCLgKt"
       },
@@ -5459,6 +6068,24 @@
       "duration_ms": 97624,
       "name": "Zwischen den Wolken",
       "url": "https://open.spotify.com/track/1Pj9dbQQIvLWeKqWcvJc0s"
+    },
+    {
+      "album": {
+        "name": "\u00c4nglavisan",
+        "url": "https://open.spotify.com/album/0o11HvMh7PHyEu2UF8bKLB"
+      },
+      "artists": [
+        {
+          "name": "Simon Fj\u00e4llstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154082,
+      "name": "\u00c4nglavisan",
+      "url": "https://open.spotify.com/track/4SguHSkq2W19T0Boveur1q"
     },
     {
       "album": {

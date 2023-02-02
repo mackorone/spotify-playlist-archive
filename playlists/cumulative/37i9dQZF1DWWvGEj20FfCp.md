@@ -4,7 +4,7 @@
 
 > bringing in NYFW w/ designers, No Sesso
 
-292 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/6R9HPbNN64wdiHcaYefrSn)
+292 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Rock on with their latest releases from 'Mercury – Act 1 & 2'!
 
-89 songs - 5 hr 7 min - not published yet
+89 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

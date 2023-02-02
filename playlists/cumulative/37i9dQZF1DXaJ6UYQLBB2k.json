@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-25",
   "description": "Re-live the glory of Ambient from the 1990s. ",
   "name": "Ambient 1990s",
-  "published_playlist_ids": [
-    "099b4qP987Avm2d4iVZhyZ"
-  ],
   "tracks": [
     {
       "album": {
@@ -35,9 +32,27 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "date_added": "2021-12-23",
+      "date_added": "2022-12-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 125106,
+      "name": "#17",
+      "url": "https://open.spotify.com/track/5Ae091FBx68ZZ6JrCue7XI"
+    },
+    {
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
       "duration_ms": 255333,
       "name": "#20",
       "url": "https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD"
@@ -470,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Spinner",
+        "url": "https://open.spotify.com/album/2Vknz1aNeu8ntZdTxwHZyo"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Jah Wobble",
+          "url": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201866,
+      "name": "Garden Recalled",
+      "url": "https://open.spotify.com/track/0gpKR0EMqUvz9IHe2coSwj"
+    },
+    {
+      "album": {
         "name": "Spinner [Expanded Edition]",
         "url": "https://open.spotify.com/album/7JQTEkhfjqaiQuRl4hYb5W"
       },
@@ -485,7 +522,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 201866,
       "name": "Garden Recalled",
       "url": "https://open.spotify.com/track/2pGkBtX5wp67XM8RqU77ar"
@@ -665,10 +702,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 519960,
       "name": "Lanzarote",
       "url": "https://open.spotify.com/track/328Dtn2EjoTCPuULdZGmod"
+    },
+    {
+      "album": {
+        "name": "The Shutov Assembly (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1HytFYnMyJGXAjVOABFoq6"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519960,
+      "name": "Lanzarote",
+      "url": "https://open.spotify.com/track/4m3PCeereQNS2gm7jGiS1P"
     },
     {
       "album": {
@@ -1411,10 +1466,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 180173,
       "name": "Where We Lived",
       "url": "https://open.spotify.com/track/0LHwhtADY3HcxbZRFJaWQN"
+    },
+    {
+      "album": {
+        "name": "Spinner",
+        "url": "https://open.spotify.com/album/2Vknz1aNeu8ntZdTxwHZyo"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Jah Wobble",
+          "url": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "Where We Lived",
+      "url": "https://open.spotify.com/track/7wR6WVfGqUZrk8cQRJec38"
     },
     {
       "album": {

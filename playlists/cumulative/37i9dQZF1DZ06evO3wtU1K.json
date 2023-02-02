@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
   "name": "This Is Tasha Cobbs Leonard",
-  "published_playlist_ids": [
-    "016gHuQWHU4zN7AfhV8d5y"
-  ],
   "tracks": [
     {
       "album": {
@@ -643,7 +640,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 377641,
       "name": "Jesus Is Mine - Live",
       "url": "https://open.spotify.com/track/62aLt6uRP2S9TMPOt5oewE"
@@ -723,7 +720,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 348274,
       "name": "Let It Fall - Live",
       "url": "https://open.spotify.com/track/0Ek4F4tQB91pf5ybGQkBn0"
@@ -837,7 +834,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 236352,
       "name": "Never Be The Same (feat. Tasha Cobbs Leonard, Brian Courtney Wilson & Travis Greene)",
       "url": "https://open.spotify.com/track/1ZLQ9em098JEt310TDsbs2"
@@ -1095,6 +1092,32 @@
       "duration_ms": 416554,
       "name": "Royalty - Live",
       "url": "https://open.spotify.com/track/54YoeR102h0FEnAbRDe3n0"
+    },
+    {
+      "album": {
+        "name": "Legacy: Live In New Orleans (Deluxe) [Live Version]",
+        "url": "https://open.spotify.com/album/0z00XVU1Sf0UTVdWksnfB3"
+      },
+      "artists": [
+        {
+          "name": "Bishop Paul S. Morton, Sr.",
+          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+        },
+        {
+          "name": "William Murphy III",
+          "url": "https://open.spotify.com/artist/56spyEtOS1lSbTxIm5mDIS"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209466,
+      "name": "Show Us You (Reprise) [feat. Tasha Cobbs & William Murphy, III] - Live Version",
+      "url": "https://open.spotify.com/track/4mXNdom4wIWdrfYqMvl9Y2"
     },
     {
       "album": {

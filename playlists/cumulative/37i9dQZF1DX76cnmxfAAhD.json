@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-05",
   "description": "Ultimate mix of songs from the 1990s to insure a good time while on the road.",
   "name": "90s Road Trip",
-  "published_playlist_ids": [
-    "3mwrZYdtYDXn4eIYaTKHxz"
-  ],
   "tracks": [
     {
       "album": {
@@ -473,7 +470,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
@@ -491,7 +488,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 359546,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/1WYEDcS7WGjv0rG7rmMX3o"
@@ -563,7 +560,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 253000,
       "name": "Blood on the Dance Floor",
       "url": "https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc"
@@ -767,7 +764,7 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 331760,
@@ -931,7 +928,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2022-12-24",
       "duration_ms": 314133,
       "name": "Connected",
       "url": "https://open.spotify.com/track/5t09SnxOR2AelOghumKkXO"
@@ -1185,7 +1182,7 @@
           "url": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 323266,
@@ -1919,7 +1916,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 241306,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW"
@@ -2031,10 +2028,32 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 250426,
       "name": "Here Comes The Hotstepper - Heartical Mix",
       "url": "https://open.spotify.com/track/3DWS2ZgcoQgfFm7uEnzYMI"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Hotstepper",
+        "url": "https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5"
+      },
+      "artists": [
+        {
+          "name": "Ini Kamoze",
+          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250466,
+      "name": "Here Comes the Hotstepper - Heartical Mix",
+      "url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx"
     },
     {
       "album": {
@@ -2579,7 +2598,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 338173,
       "name": "Jam",
       "url": "https://open.spotify.com/track/2EI8uljBPaI23VUr2tv4eS"
@@ -2705,7 +2724,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-01-29",
       "duration_ms": 243893,
       "name": "Just the Way It Is, Baby",
       "url": "https://open.spotify.com/track/4AgtVP8QGgkqYbVeLJCWDz"
@@ -2945,7 +2964,7 @@
           "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 227040,
@@ -3145,7 +3164,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 329866,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/70L4pGAmYv0pTADrgsIxpI"
@@ -3235,7 +3254,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 235173,
       "name": "Mmm Mmm Mmm Mmm",
       "url": "https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem"
@@ -3599,7 +3618,7 @@
           "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 281613,
@@ -4171,7 +4190,7 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 239226,
@@ -4225,7 +4244,7 @@
           "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226800,
@@ -4437,6 +4456,24 @@
       "duration_ms": 271333,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "album": {
+        "name": "Bilingual: Further Listening 1995 - 1997 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/6773Yw4SaTVQF7YRCKWycr"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241640,
+      "name": "Se a Vida E (That's the Way Life Is) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/18fr7t1FKDUiOg8DXxiZwL"
     },
     {
       "album": {
@@ -4851,7 +4888,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-04",
+      "date_removed": "2023-01-21",
       "duration_ms": 316600,
       "name": "Star People",
       "url": "https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX"
@@ -5071,7 +5108,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 232009,
       "name": "Suicide Blonde",
       "url": "https://open.spotify.com/track/3DPyS3odFIWQ3E2IFqHEdG"
@@ -5105,9 +5142,9 @@
           "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 244800,
       "name": "Summer Son",
       "url": "https://open.spotify.com/track/2ARTskci0SwksWtNvOgirP"
@@ -5231,7 +5268,7 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218866,
@@ -5307,7 +5344,7 @@
           "url": "https://open.spotify.com/artist/7bKupnlF7XOfR1En3K8oAL"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241760,
@@ -5415,7 +5452,7 @@
           "url": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 260000,
@@ -5550,6 +5587,24 @@
     },
     {
       "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "Too Funky - Single Edit",
+      "url": "https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi"
+    },
+    {
+      "album": {
         "name": "Left Of The Middle",
         "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
@@ -5561,7 +5616,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
@@ -5597,7 +5652,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244813,
       "name": "Torn",
       "url": "https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2"
@@ -5789,6 +5844,24 @@
       "duration_ms": 317080,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
+    },
+    {
+      "album": {
+        "name": "fear",
+        "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
+      },
+      "artists": [
+        {
+          "name": "Toad The Wet Sprocket",
+          "url": "https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "Walk On the Ocean",
+      "url": "https://open.spotify.com/track/2JAECj9kBYQHb8AqJ2rsxt"
     },
     {
       "album": {
@@ -6025,7 +6098,7 @@
           "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240706,

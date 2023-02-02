@@ -4,7 +4,7 @@
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-79 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/13en7Orf0L2LROM0phnA8F)
+79 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Acid Trax](https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 11:49 | 2021-10-22 |  |
 | [Acid Trax](https://open.spotify.com/track/0zSyKNVHqvAmzTwEHItE92) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Church of Danceology](https://open.spotify.com/album/2HDBCM1fDFZYuH0SVGMQmL) | 11:54 | 2021-10-22 | 2022-07-29 |
 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 | 2021-10-22 |  |
-| [Afrofunk \- Valique Boogie Brother Remix](https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv) | [Timewarp Inc](https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr) | [Adventures in Acid Boogie, Vol.2](https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC) | 5:25 | 2021-10-22 |  |
+| [Afrofunk \(Valique Boogie Brother Remix\)](https://open.spotify.com/track/3bd2zgQZ8YZZSEoFAYjlrv) | [Timewarp Inc](https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr), [Valique](https://open.spotify.com/artist/5IdyZix2HjYLOb1fvN7oaH) | [Adventures in Acid Boogie, Vol.2](https://open.spotify.com/album/5naCHwy40cRVsbtr0zR1VC) | 5:25 | 2021-10-22 |  |
 | [Arrival](https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y) | [Sector II: Acid](https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U) | 7:45 | 2021-10-22 |  |
 | [At Night \- Peggy Gou's Acid Journey Remix](https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [At Night \(Remixes\)](https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8) | 7:11 | 2021-10-22 |  |
 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 | 2021-10-22 |  |
@@ -51,9 +51,9 @@
 | [I Love Acid](https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/26q3SgrURehSidTag2eV0B) | 4:19 | 2021-10-22 |  |
 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 | 2021-10-22 |  |
 | [Land Of Confusion](https://open.spotify.com/track/45WAqLonACPBfTZd6ye5tn) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1XQXorGVNfyRxDqVzKgAjx) | 2:58 | 2021-10-22 | 2022-07-28 |
-| [Land Of Confusion](https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv) | 2:58 | 2021-10-22 | 2022-11-14 |
+| [Land Of Confusion](https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH) | [Armando](https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53) | [Trax Classix](https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv) | 2:58 | 2021-10-22 | 2023-01-29 |
 | [Let Me Go](https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 4:22 | 2021-10-22 |  |
-| [LFO \(Leeds Warehouse Mix\)](https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0) | 3:27 | 2021-10-22 |  |
+| [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0) | 3:27 | 2021-10-22 |  |
 | [Miserablism](https://open.spotify.com/track/20GBfHqwta4csdKTDVjZ9F) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Alternative](https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw) | 4:10 | 2021-10-22 | 2022-07-29 |
 | [Miserablism \- 2018 Remaster](https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Behaviour: Further Listening 1990 \- 1991 \(2018 Remaster\)](https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET) | 4:07 | 2021-10-22 |  |
 | [Music and Lights](https://open.spotify.com/track/3kEA66ZM9mCxwhynOxgsLh) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 5:22 | 2021-10-22 |  |

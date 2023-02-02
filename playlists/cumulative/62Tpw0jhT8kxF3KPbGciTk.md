@@ -4,7 +4,7 @@
 
 > As the snow falls outside, cozy up and relax with this collection of soothing acoustic tracks.
 
-104 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/19ImRQ3ywsfClb7Hyt4MEm)
+104 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

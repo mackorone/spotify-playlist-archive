@@ -4,7 +4,7 @@
 
 > The official playlist for Metal Lords\. Watch on Netflix.
 
-19 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/6I0xUfoyYsv2CRtCDLpe1f)
+19 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

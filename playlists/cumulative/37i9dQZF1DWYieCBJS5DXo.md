@@ -4,7 +4,7 @@
 
 > Serving up your favorite songs about snacks!
 
-41 songs - 1 hr 31 min - [published](https://open.spotify.com/playlist/13MRTFFYUMBnQ24Jf2e69H)
+41 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Halo\-Halo](https://open.spotify.com/track/6C7jV3ooKAYhB1DNjun4Ho) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [Don't Gotta Be Cool](https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy) | 2:30 | 2021-01-25 |  |
 | [Hot Chocolate](https://open.spotify.com/track/1xwCdxEDyelXOhV8FWEcNa) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Field Trip](https://open.spotify.com/album/0iyg2QKAQBeU4UaOQSVI6l) | 2:14 | 2021-01-08 |  |
 | [I Like Fruit](https://open.spotify.com/track/1FgVgbqZG3tZ9vNgymPOVe) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:20 | 2021-01-08 |  |
-| [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 | 2021-01-08 |  |
+| [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/track/0H1pkHp6A8mfCHsuf6s90j) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Ice Cream \(Scoopy Doo\)](https://open.spotify.com/album/28BjXfGmMdf2geHjPVezfZ) | 2:33 | 2021-01-08 |  |
 | [Ice Cream Song](https://open.spotify.com/track/1lrTu8P1TrX3IzRlc4Zcn0) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Kids Songs](https://open.spotify.com/album/0iSrS0QaUXaJjR5GXDncC2) | 2:02 | 2021-01-08 |  |
 | [Let's Pop Some Corn](https://open.spotify.com/track/2yMrFLzJaxY3oERXAX7R1o) | [Kymberly Stewart](https://open.spotify.com/artist/6ZyiT23t4CIQS7trCGpV1f) | [Giggles & Curls](https://open.spotify.com/album/6tMvNrQCjIf7dZGyvUmvpM) | 2:42 | 2021-04-05 |  |
 | [My Favorite Snack](https://open.spotify.com/track/27FtRxsXJxxzuxYMC4eJo4) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Juice Box Heroes](https://open.spotify.com/album/2AQwQmEdTsVDEzuOeQ4Pna) | 2:09 | 2021-01-08 |  |

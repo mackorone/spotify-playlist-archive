@@ -4,7 +4,7 @@
 
 > <a href=“spotify:artist:10hGPIDZi33LRaYRIq3Bh4”>Dimitri Vangelis & Wyman</a> are the perfect duo to get us into main stage vibes!
 
-23 songs - 1 hr 20 min - [published](https://open.spotify.com/playlist/4TV2VrgQkdbBN7K4MFzUsA)
+23 songs - 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

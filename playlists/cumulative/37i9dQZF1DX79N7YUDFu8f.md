@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-192 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4jnmTTG5ZTX6s4oUdUnTY2)
+194 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Nicotine](https://open.spotify.com/track/5YqwpwmzMGwUIU9h1kcOK8) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/0cai6DfUIlJ3aDAAzommLJ) | 3:58 | 2022-06-03 |  |
 | [Nicotine](https://open.spotify.com/track/6yvxKrf9KZLTodXFTBmdR1) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Amigo](https://open.spotify.com/album/1jkWbtGWX47YAIYHmRONUg) | 3:58 | 2021-11-24 | 2022-07-29 |
 | [Nothing](https://open.spotify.com/track/7tJNVStBtyz0kIqMx1sofO) | [Noah\-Jazz](https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN) | [Nothing](https://open.spotify.com/album/5EJ1I1OTpQT3Ipjj9rDD2M) | 3:12 | 2022-11-03 |  |
+| [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-12-01 |  |
 | [October, Halfway July](https://open.spotify.com/track/2eD56lWTL92klRLfmgjP9h) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [October, Halfway July](https://open.spotify.com/album/2zQmazQRssxqwdUe198gqn) | 3:22 | 2021-11-24 |  |
 | [On My Mind](https://open.spotify.com/track/3lNBBcH8OWPp281L9VuqQn) | [Christy](https://open.spotify.com/artist/3BgniSkzaCLKgQSBkWcsoV) | [On My Mind](https://open.spotify.com/album/3ibBY3XM01fTDd1Z7us1k0) | 2:39 | 2021-11-24 |  |
 | [On the Train Ride Home](https://open.spotify.com/track/37adNHvszWoS1kINkE99Ja) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/52nbX1xWBxOQrFSCqepCUz) | 3:47 | 2021-11-24 | 2022-07-29 |
@@ -122,8 +123,9 @@
 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 | 2022-09-26 |  |
 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 | 2022-06-03 |  |
 | [Passport Home](https://open.spotify.com/track/4sasqE4lDhBhm4ER7EsQaf) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Passport Home](https://open.spotify.com/album/35oMYxeEPYIGzwIOOVqX28) | 3:00 | 2021-11-24 | 2022-07-29 |
+| [Princess](https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb) | 3:56 | 2022-12-01 |  |
 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 | 2021-11-24 | 2022-07-29 |
-| [Princess](https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/5WMuOOML8PANPuUQKeIo8S) | 3:56 | 2022-06-03 |  |
+| [Princess](https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/5WMuOOML8PANPuUQKeIo8S) | 3:56 | 2022-06-03 | 2022-12-02 |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-08-11 | 2022-11-20 |
 | [Quietly Yours](https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 3:54 | 2022-11-17 |  |
 | [Realize It All \- Acoustic](https://open.spotify.com/track/2LfXGIgvpDsJjU83SDhZA5) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \- Acoustic](https://open.spotify.com/album/2vW0T2b0VUmWg1qpa0EFfP) | 3:36 | 2022-04-28 | 2022-05-12 |

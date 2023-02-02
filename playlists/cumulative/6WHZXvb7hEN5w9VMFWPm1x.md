@@ -4,7 +4,7 @@
 
 > 
 
-42 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/5EN6dmataj56ODppRWaP1I)
+42 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Protection](https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 7:51 | 2013-07-12 |  |
 | [Push It \- Radio Version](https://open.spotify.com/track/1eFUfPZJiys9SNyBKqaQ8P) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [R&B Classics Collection](https://open.spotify.com/album/2ZZiI4Jg5SYg7suQwGSv4z) | 3:27 | 2013-07-12 |  |
 | [Salve Regina \- Antiphona \(tonus monasticus\) in Honorem Beatae Mariae Virginis](https://open.spotify.com/track/2LDdH6TBPHivQcokt9uxMe) | [Gregorian Chant](https://open.spotify.com/artist/0Hu0feSkb1IIG0PbZ5P2s9), [Benedictine Monks of the Abbey of St\. Maurice & St\. Maur, Clevaux](https://open.spotify.com/artist/6bYu83C0X8Qej7nIk3X5GF) | [Gregorian Chant](https://open.spotify.com/album/3YFDU8Q0n9FGbNm1qzMrXZ) | 2:52 | 2013-07-12 |  |
-| [Smokebelch II \(Beatless Mix\)](https://open.spotify.com/track/5eVgkmsnTF4jSK5T07C89p) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic II](https://open.spotify.com/album/5LMvhq2gjZeEV02JJ9VOO9) | 4:15 | 2013-07-12 |  |
+| [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5eVgkmsnTF4jSK5T07C89p) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic II](https://open.spotify.com/album/5LMvhq2gjZeEV02JJ9VOO9) | 4:15 | 2013-07-12 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/3WvsWWvfqXezlD2wd9zSmv) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Judy Garland & Friends](https://open.spotify.com/album/1OcBXp0k91CJCKh1K6NyQq) | 2:46 | 2013-07-12 |  |
 | [Stand and Deliver](https://open.spotify.com/track/5niJaBcWtydYNTqIQofOeJ) | [Adam & The Ants](https://open.spotify.com/artist/2DppeCnNtvrLfEobq9Pw5r) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 2:56 | 2013-07-12 |  |
 | [Stuck In The Middle With You](https://open.spotify.com/track/6pNVhq4m3S9iNRxpwmVQZm) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Music For Seventies](https://open.spotify.com/album/3L6yuuvIFVNQEOQ0F3rwn8) | 3:23 | 2013-07-12 |  |

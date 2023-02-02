@@ -4,7 +4,7 @@
 
 > Soul for the blues\. Cover: Otis Redding.
 
-70 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/2U7aUFRQGDnn1xyELO17Qd)
+70 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

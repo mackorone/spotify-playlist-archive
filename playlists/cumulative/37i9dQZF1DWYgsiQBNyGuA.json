@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-08",
   "description": "Soul to brighten up your day.",
   "name": "Soulful Day",
-  "published_playlist_ids": [
-    "5ZYeq6EiVK1uhWkAtkmba0"
-  ],
   "tracks": [
     {
       "album": {
@@ -135,6 +132,28 @@
       "duration_ms": 214062,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb"
+    },
+    {
+      "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnston",
+          "url": "https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb"
+        },
+        {
+          "name": "Angels Of Libra",
+          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214517,
+      "name": "All Your Love - Single Edit",
+      "url": "https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI"
     },
     {
       "album": {
@@ -433,13 +452,21 @@
         {
           "name": "Durand Jones & The Indications",
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200686,
-      "name": "Don\u2019t You Know",
+      "name": "Don't You Know",
       "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
     },
     {
@@ -1061,7 +1088,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 269706,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
@@ -1205,7 +1232,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 214666,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
@@ -1241,7 +1268,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-06",
       "duration_ms": 213983,
       "name": "My Home (Love Brings Us Here)",
       "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
@@ -1385,7 +1412,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 185333,
       "name": "O-O-H Child",
       "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
@@ -1651,6 +1678,10 @@
         {
           "name": "Durand Jones & The Indications",
           "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
       "date_added": "2022-01-05",
@@ -1829,6 +1860,28 @@
       "duration_ms": 222466,
       "name": "Soulman - New English Version",
       "url": "https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr"
+    },
+    {
+      "album": {
+        "name": "Bless My Soul",
+        "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
+      },
+      "artists": [
+        {
+          "name": "Shawn Lee",
+          "url": "https://open.spotify.com/artist/47tCcKYrErv1FGvFCgGX8E"
+        },
+        {
+          "name": "Angels Of Libra",
+          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226290,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
     },
     {
       "album": {
@@ -2089,7 +2142,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 316093,
       "name": "There Goes My Sanity",
       "url": "https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn"

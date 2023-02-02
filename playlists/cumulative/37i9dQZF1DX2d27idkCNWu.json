@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-27",
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
   "name": "Pop Ac\u00fastico",
-  "published_playlist_ids": [
-    "4xxd2oBY0gtVGr5sedjYHK"
-  ],
   "tracks": [
     {
       "album": {
@@ -116,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
+    },
+    {
+      "album": {
         "name": "Arcade (Acoustic Version)",
         "url": "https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz"
       },
@@ -145,7 +160,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 222270,
       "name": "Attention - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
@@ -206,6 +221,36 @@
     },
     {
       "album": {
+        "name": "Bad Memories (Acoustic)",
+        "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141330,
+      "name": "Bad Memories - Acoustic",
+      "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
+    },
+    {
+      "album": {
         "name": "Trilhas",
         "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
       },
@@ -246,6 +291,28 @@
     },
     {
       "album": {
+        "name": "Better Part of Me",
+        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "Better Part of Me",
+      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
+    },
+    {
+      "album": {
         "name": "Big (Acoustic)",
         "url": "https://open.spotify.com/album/2coQTbqSfarJT5OW6He8jm"
       },
@@ -283,7 +350,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 191986,
       "name": "Blame It On Me - Acoustic",
       "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
@@ -398,6 +465,28 @@
     },
     {
       "album": {
+        "name": "Coast (Acoustic)",
+        "url": "https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Coast (feat. Anderson .Paak) [Acoustic]",
+      "url": "https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD"
       },
@@ -463,7 +552,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 185506,
       "name": "Daisies - Acoustic",
       "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
@@ -481,10 +570,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 214884,
       "name": "Dance All Over Me - Acoustic",
       "url": "https://open.spotify.com/track/6rjuwOVEHUAVBlzSM7lEZh"
+    },
+    {
+      "album": {
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "album": {
@@ -533,6 +640,28 @@
       "duration_ms": 188598,
       "name": "Die Of A Broken Heart - Acoustic",
       "url": "https://open.spotify.com/track/1RVq89LvXQYuEDurokDRvO"
+    },
+    {
+      "album": {
+        "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
+        "url": "https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135493,
+      "name": "Don't Leave Me Lonely(feat. Elley Duh\u00e9) [Acoustic]",
+      "url": "https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4"
     },
     {
       "album": {
@@ -591,7 +720,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 229026,
       "name": "Entrelace",
       "url": "https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v"
@@ -703,7 +832,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 182645,
       "name": "feiti\u00e7o",
       "url": "https://open.spotify.com/track/6SB9mfvH0SoT3qoRbeOTlL"
@@ -729,6 +858,24 @@
       "duration_ms": 209434,
       "name": "FRIENDS - Acoustic",
       "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
+    },
+    {
+      "album": {
+        "name": "Live at Sydney Opera House",
+        "url": "https://open.spotify.com/album/7vNVlKih6TRHu9kIL5YhgT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268919,
+      "name": "Georgia - Live at Sydney Opera House",
+      "url": "https://open.spotify.com/track/352fUC91RxPM0HPCNoNYEN"
     },
     {
       "album": {
@@ -765,6 +912,24 @@
       "duration_ms": 160400,
       "name": "Ghost - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/5e5gcfw6ZcAJchRow8adbr"
+    },
+    {
+      "album": {
+        "name": "Girassol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65059,
+      "name": "Girassol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
     },
     {
       "album": {
@@ -899,6 +1064,28 @@
       "duration_ms": 238220,
       "name": "I Don't Care - Acoustic",
       "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
+    },
+    {
+      "album": {
+        "name": "I'm Good (Blue) [Acoustic]",
+        "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138024,
+      "name": "I'm Good (Blue) - Acoustic",
+      "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
     },
     {
       "album": {
@@ -1101,7 +1288,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 187333,
       "name": "Living Without You - Acoustic",
       "url": "https://open.spotify.com/track/6jgDBaX7ZxirvxpvCRpiaN"
@@ -1162,6 +1349,28 @@
     },
     {
       "album": {
+        "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
+        "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138348,
+      "name": "Love Me Now (feat. FAST BOY) - Acoustic",
+      "url": "https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
@@ -1199,6 +1408,40 @@
       "duration_ms": 173680,
       "name": "Mad World - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+    },
+    {
+      "album": {
+        "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) [A Cappella]",
+        "url": "https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        },
+        {
+          "name": "Elyse Myers",
+          "url": "https://open.spotify.com/artist/19we83RL2vr4HF6zU6KBAT"
+        },
+        {
+          "name": "Sri",
+          "url": "https://open.spotify.com/artist/04mSgmkYxSJMrZeqBoGOvc"
+        },
+        {
+          "name": "Chris Olsen",
+          "url": "https://open.spotify.com/artist/1BS8EXDNdqtlSaW3ZBsNT7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132727,
+      "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
+      "url": "https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ"
     },
     {
       "album": {
@@ -1492,6 +1735,28 @@
     },
     {
       "album": {
+        "name": "parte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pPAmDPJbFoEhjkI49T210"
+      },
+      "artists": [
+        {
+          "name": "tiago arrais",
+          "url": "https://open.spotify.com/artist/4PoxuHhPXZVXfVdrKH2jfV"
+        },
+        {
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 238000,
+      "name": "parte - Ao Vivo",
+      "url": "https://open.spotify.com/track/3SEAfqyL6t7SWr5duH9xBA"
+    },
+    {
+      "album": {
         "name": "penhasco. (ac\u00fastico)",
         "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
       },
@@ -1525,7 +1790,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 174858,
       "name": "pequena - Ao Vivo",
       "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
@@ -1992,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Te Amar Demais",
+        "url": "https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR"
+      },
+      "artists": [
+        {
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131970,
+      "name": "Te Amar Demais",
+      "url": "https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6eJDRuzwuZuVXHNGBSevVe"
       },
@@ -2021,7 +2304,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 247346,
       "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ"
@@ -2075,7 +2358,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 229693,
       "name": "The Remedy (I Won't Worry) - Live",
       "url": "https://open.spotify.com/track/0f0k6SsnHoZRR4Vkzvr2NO"
@@ -2133,7 +2416,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 214208,
       "name": "Two Commas",
       "url": "https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf"
@@ -2277,7 +2560,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 131830,
       "name": "What A Shame - Acoustic",
       "url": "https://open.spotify.com/track/5bfDlx0BjbgBWqdemT2uR1"

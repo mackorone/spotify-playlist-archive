@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-08",
   "description": "Relaxing jazz music for meditation.",
   "name": "Jazz for Meditation",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -381,6 +380,24 @@
       "duration_ms": 169093,
       "name": "Elise",
       "url": "https://open.spotify.com/track/696BDrz9nIEdXTmLxTjm6Q"
+    },
+    {
+      "album": {
+        "name": "Fly Me To The Moon",
+        "url": "https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY"
     },
     {
       "album": {

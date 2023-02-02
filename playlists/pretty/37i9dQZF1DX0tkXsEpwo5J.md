@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 
 > ¡Canciones para sonreír durante el día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,179 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,216 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 43 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
 | 44 | [Quiero Verte Hoy](https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Quiero Verte Hoy](https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ) | 3:35 |
 | 45 | [tdbn](https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ) | 3:19 |
-| 46 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
+| 46 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
 | 47 | [un día perfecto](https://open.spotify.com/track/4cK0cDb8RSBRIaC0kr7lOx) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [un día perfecto](https://open.spotify.com/album/5DMYsl9natEMzLM4ApZiqh) | 2:33 |
 | 48 | [The Bleachers](https://open.spotify.com/track/2nZHZE1XRh4SDJLMCbvoEF) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [The Bleachers](https://open.spotify.com/album/3cjvORRqCFBnwv8DM2S7Mf) | 2:43 |
 | 49 | [Energía](https://open.spotify.com/track/4gVsC6cmPuF2tBMcm0DfoZ) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Energía](https://open.spotify.com/album/0XW7CLD5UPOKwoAqV28Qeq) | 3:36 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 66 | [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 |
 | 67 | [Mexico](https://open.spotify.com/track/3IMMZRr4Vvk3j9lJK5lH2J) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [A Boy from Colorado](https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK) | 2:08 |
 | 68 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
-| 69 | [Rocky Trail](https://open.spotify.com/track/0dFTHTWJ2YlcIHASP0BpJh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:30 |
+| 69 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 |
 | 70 | [Lo Volvería](https://open.spotify.com/track/2IOSyg0w81fJnQbpmoseRf) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Lo Volvería](https://open.spotify.com/album/0hOgrkaHadHhWSUi7NoipS) | 3:48 |
 | 71 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 |
 | 72 | [Vivo](https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 74 | [La Mujer Perfecta](https://open.spotify.com/track/5XR1WyZ0uOSHRNhP85QxT4) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:37 |
 | 75 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 |
 
-Snapshot ID: `MTY2MTUyODg2NywwMDAwMDAwMDE5MjNiZTk3MDk0MWRkZjA1MTFiNzRjNGVhMDY1NGE1`
+Snapshot ID: `MTY2MTUyODg2NywwMDAwMDAwMDY5ODMwNTRjZTE1MTVjOGY4YzdjZjBlNDM2NTYwNmI1`

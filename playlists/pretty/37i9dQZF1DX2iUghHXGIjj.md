@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 ### [Acoustic Blues](https://open.spotify.com/playlist/37i9dQZF1DX2iUghHXGIjj)
 
-> Raw, emotional, and acoustic\. Cover: Taj Mahal
+> Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,547 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,916 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 4 | [Banty Rooster Blues](https://open.spotify.com/track/4qTmr1QcPZNzj06rf0GA92) | [The Reverend Peyton's Big Damn Band](https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK) | [Banty Rooster Blues](https://open.spotify.com/album/3XLhfpwOjTnPqRLg9AiNMA) | 4:06 |
 | 5 | [Fishin' Blues \(with Taj Mahal\)](https://open.spotify.com/track/2i9YLsEQ2z0NhJ1ynuQQm2) | [Bob Stewart](https://open.spotify.com/artist/1j6ZqtSr1Y94DjLnQdUnUl), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Then & Now](https://open.spotify.com/album/2DRzxrAuKQwZ79O1lddtwp) | 4:03 |
 | 6 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 |
-| 7 | [in three years' time \- Stripped Back](https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back \(deluxe\) \[Stripped Back\]](https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS) | 2:55 |
+| 7 | [in three years' time \- Stripped Back](https://open.spotify.com/track/3Vr5sIoub3YGiXWsZvnlmQ) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back \(deluxe\)](https://open.spotify.com/album/4HyyliTxijDyPMKcQt5AWS) | 2:55 |
 | 8 | [Another Man](https://open.spotify.com/track/3aYzsSfm5H5597mewo0r3N) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:14 |
 | 9 | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [It Would Be Better for the Bad to Be Good](https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y) | 3:33 |
 | 10 | [Gonna Walk This Road](https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 2:30 |
 | 11 | [Eyesight to the Blind](https://open.spotify.com/track/6NEgd3mCyms5M1eDFTqKHR) | [Frank Schaap Quartet](https://open.spotify.com/artist/6LpU4IZOJ1g4HullPifcOC), [Josh Levine](https://open.spotify.com/artist/7kLUXJlgHP3muNOKgd1272), [David Langlois](https://open.spotify.com/artist/6OTOjYUcczTljZHtfgzjXv), [Miguel Weissman](https://open.spotify.com/artist/6dVnje7HuJzCIKrIlgLiAP) | [The Lost Session](https://open.spotify.com/album/2wbIgncFT47Lef7qFcdXrh) | 4:42 |
 | 12 | [Behind the Sea](https://open.spotify.com/track/7lavAhhncYAkiKn8dwiDk3) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Behind the Sea](https://open.spotify.com/album/5NHQJ68C4tGz7wKQlkhPYZ) | 4:30 |
 | 13 | [Death Letter](https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Forever On My Mind](https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9) | 5:51 |
-| 14 | [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 |
+| 14 | [Letter from Bluewater Man](https://open.spotify.com/track/5jl5jAMyWpkR4lEkAGnTXX) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/3iTXLRbWXRvuNgfJPkoMOh) | 2:24 |
 | 15 | [Walking My Troubles Away](https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9) | [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Mystery Man](https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt) | 4:54 |
 | 16 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 |
 | 17 | [The World Can Be So Cold](https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:26 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 20 | [Don't Fish in My Sea](https://open.spotify.com/track/02wAtZaUqHt147UtEBR4LO) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Don't Fish in My Sea](https://open.spotify.com/album/4p4TdPZ6H8k7fp8ozuS6M4) | 4:10 |
 | 21 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 |
 | 22 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
-| 23 | [I'm Ready](https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a) | 2:17 |
+| 23 | [I'm Ready](https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/33kr65x9D148InPeYYIloG) | 2:17 |
 | 24 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
-| 25 | [Push The Blues Away](https://open.spotify.com/track/6U1c5I3iixRjilhhMzzx2m) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:29 |
+| 25 | [Push The Blues Away](https://open.spotify.com/track/3XV3dGbHJGBCmgDl4A4oh5) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:29 |
 | 26 | [Dust My Broom](https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Dust My Broom](https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj) | 3:35 |
 | 27 | [Medicine Man \- Acoustic](https://open.spotify.com/track/2ClSbxFxiinHO8ARbmgTn3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Medicine Man \(Acoustic\)](https://open.spotify.com/album/13qZq0oPgSNewMJKCNKal4) | 3:26 |
 | 28 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 99 | [What They Say](https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/1OsaTxNg63FgnAqMVvIcC7) | 2:46 |
 | 100 | [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDgzZmYyZDJiOGE1NDk1OTA3ZTk1OTA5ZGM4YTFkZGQy`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGM1ODY2OTI3YmM1MmNlNTMyY2E5ODk1YmIzZjc0N2Mz`

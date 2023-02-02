@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-01",
   "description": "Lush, shimmery guitars. Cover: Tom Misch",
   "name": "Shimmer",
-  "published_playlist_ids": [
-    "2cOIoz7kl4h0oUp84atVFL"
-  ],
   "tracks": [
     {
       "album": {
@@ -89,7 +86,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-28",
       "duration_ms": 205143,
       "name": "Buttermilk",
       "url": "https://open.spotify.com/track/4mqKn7ewOLvVTJvGMRB5cp"
@@ -261,10 +258,36 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-28",
       "duration_ms": 176973,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/4mH0YkiHRu0LF5hvx86ME9"
+    },
+    {
+      "album": {
+        "name": "Flecha",
+        "url": "https://open.spotify.com/album/6xCutL3K2wd79AssBPfb6P"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gouveia",
+          "url": "https://open.spotify.com/artist/5A1cqttq9CGOl7svYGHIMb"
+        },
+        {
+          "name": "Duca Tambasco",
+          "url": "https://open.spotify.com/artist/7DX7ZTq8tduuchkTutzyRb"
+        },
+        {
+          "name": "olliv",
+          "url": "https://open.spotify.com/artist/5cPQ3kyOy3bt5g5Hc1ARoI"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Flecha",
+      "url": "https://open.spotify.com/track/20Amyw8NsuVeb1niVnSn3D"
     },
     {
       "album": {
@@ -305,7 +328,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-28",
       "duration_ms": 192317,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/2OniwRnM4rjRGFEDGsoJWP"
@@ -327,10 +350,32 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 210439,
       "name": "Forget",
       "url": "https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK"
+    },
+    {
+      "album": {
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/6iq7Y6Ugkq3prEsObVs4S9"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210439,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/5E1bYoWC0JSZUeuk91SVsH"
     },
     {
       "album": {
@@ -1025,7 +1070,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-29",
       "duration_ms": 156147,
       "name": "Sunn",
       "url": "https://open.spotify.com/track/4ZAA5ABChC3NtSGNvXsMGV"

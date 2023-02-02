@@ -4,7 +4,7 @@
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-155 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/0xpOFo0Nc6AxoX2F4xAxnp)
+156 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [April Come She Will](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 1:49 | 2022-02-10 |  |
 | [At The Hop](https://open.spotify.com/track/31cI8gcEKRIMRjuGzPe4W1) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Nino Rojo](https://open.spotify.com/album/4ZMzm0EaZcpkCH8L3hIY6t) | 2:14 | 2022-02-10 | 2022-07-29 |
 | [Atop a Cake](https://open.spotify.com/track/2d4VlnTyBVserhtyH3b9BZ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:19 | 2022-02-10 | 2022-11-25 |
+| [Atop a Cake](https://open.spotify.com/track/6LC4cyrlOPeg2WXijaYrgj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:19 | 2022-08-26 |  |
 | [Australia](https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr) | 3:56 | 2022-02-10 |  |
 | [Back To Black](https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:01 | 2022-02-10 | 2022-08-27 |
 | [Blood Bank](https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 | 2022-02-10 |  |
@@ -68,9 +69,9 @@
 | [I Want Wind to Blow](https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 5:32 | 2022-02-10 |  |
 | [I Was Never Young](https://open.spotify.com/track/3vPdanGZRJILGXC3jzIgYc) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/3KiG3LEjXyAt9IPEcjreia) | 3:30 | 2022-02-10 | 2022-07-29 |
 | [I Wonder](https://open.spotify.com/track/1N7CPfmaGgfulHwmnBRanq) | [The Willowz](https://open.spotify.com/artist/2dG9gBa7T5yfZZVXvvHxPF) | [The Willowz](https://open.spotify.com/album/4Jf3B2ckkvhkVSWDkCeEHN) | 2:57 | 2022-02-10 | 2022-07-20 |
-| [I'm In Love With A Girl Who Doesn't Know I Exist](https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 1:38 | 2022-02-10 | 2022-11-13 |
+| [I'm In Love With A Girl Who Doesn't Know I Exist](https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 1:38 | 2022-02-10 |  |
 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 | 2022-02-10 |  |
-| [It's Okay](https://open.spotify.com/track/1Mhm1ffgSwXQnherftGRau) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Some Are Lakes](https://open.spotify.com/album/0LcNbby41jxxvg5nrgwsvo) | 4:54 | 2022-02-10 |  |
+| [It's Okay](https://open.spotify.com/track/1Mhm1ffgSwXQnherftGRau) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Some Are Lakes](https://open.spotify.com/album/0LcNbby41jxxvg5nrgwsvo) | 4:54 | 2022-02-10 | 2022-12-01 |
 | [Keep It Clean](https://open.spotify.com/track/0hPHOFbf3uKhBL2VaZ9YGn) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 3:16 | 2022-02-10 | 2022-07-29 |
 | [LDN](https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:10 | 2022-02-10 | 2022-07-29 |
 | [LDN](https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:12 | 2022-02-10 |  |
@@ -143,7 +144,7 @@
 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 | 2022-02-10 |  |
 | [Too Much Time](https://open.spotify.com/track/4FqmNnOVeGIMAESjdxCFMs) | [John Vanderslice](https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN) | [Romanian Names](https://open.spotify.com/album/5JA8qfuHU3NsMGwR47qRMK) | 3:28 | 2022-02-10 | 2022-07-28 |
 | [Trees and Flowers](https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U) | [Strawberry Switchblade](https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e) | [1982 4 Piece Demo](https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG) | 3:14 | 2022-02-10 |  |
-| [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2022-02-10 |  |
+| [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2022-02-10 | 2023-02-02 |
 | [Us](https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Soviet Kitsch](https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy) | 4:52 | 2022-02-10 |  |
 | [Us \- 2005 Remaster](https://open.spotify.com/track/6AWbUFUg1ufaaTT98IbjMV) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Mary Ann Meets the Gravediggers and Other Short Stories by Regina Spektor](https://open.spotify.com/album/7HRbybmcHz91kPl3XYdm9B) | 4:48 | 2022-02-10 | 2022-07-29 |
 | [Very Loud](https://open.spotify.com/track/7selJ7EVnDpSxWhNETbE9s) | [Shout Out Louds](https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl) | [Howl Howl Gaff Gaff](https://open.spotify.com/album/1jO9fwvlqWgjCazjIWvOl7) | 4:05 | 2022-02-10 | 2022-07-27 |

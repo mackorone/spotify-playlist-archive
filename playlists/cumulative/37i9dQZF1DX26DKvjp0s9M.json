@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "the best of the best tracks. Cover: Phoebe Bridgers",
   "name": "Essential Indie",
-  "published_playlist_ids": [
-    "3bETkXXSq4lQrH2ppPTrRl"
-  ],
   "tracks": [
     {
       "album": {
@@ -819,7 +816,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
@@ -2593,7 +2590,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 278640,
-      "name": "First Love / Late Spring",
+      "name": "First Love/Late Spring",
       "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
     },
     {
@@ -2735,7 +2732,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-26",
+      "date_removed": null,
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
@@ -2757,6 +2754,24 @@
       "duration_ms": 201960,
       "name": "Get Closer",
       "url": "https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF"
+    },
+    {
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126120,
+      "name": "Ghostride",
+      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
     },
     {
       "album": {
@@ -2815,6 +2830,24 @@
     {
       "album": {
         "name": "Offering",
+        "url": "https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF"
+    },
+    {
+      "album": {
+        "name": "Offering",
         "url": "https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt"
       },
       "artists": [
@@ -2825,7 +2858,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 212736,
       "name": "Gilded Lily",
       "url": "https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY"
@@ -2987,7 +3020,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 289306,
       "name": "Gooey",
       "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
@@ -3027,6 +3060,42 @@
       "duration_ms": 190218,
       "name": "Gretel",
       "url": "https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY"
+    },
+    {
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136733,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
     },
     {
       "album": {
@@ -3095,7 +3164,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 288595,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa"
@@ -4140,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247002,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
+    },
+    {
+      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -4501,7 +4588,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 247150,
       "name": "Mariners Apartment Complex",
       "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
@@ -4523,6 +4610,36 @@
       "duration_ms": 197733,
       "name": "Mary",
       "url": "https://open.spotify.com/track/5T0Ib1Hjhsua7qbGTczU7j"
+    },
+    {
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206465,
+      "name": "Me & My Dog",
+      "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
     },
     {
       "album": {
@@ -5619,7 +5736,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 124000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
@@ -5990,6 +6107,24 @@
     },
     {
       "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 254509,
+      "name": "Robbers",
+      "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
+    },
+    {
+      "album": {
         "name": "Roddy",
         "url": "https://open.spotify.com/album/3pDKeJaH5uS8EeuOv2OFiG"
       },
@@ -6109,7 +6244,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
@@ -6343,7 +6478,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-01",
       "duration_ms": 298680,
       "name": "Silver Soul",
       "url": "https://open.spotify.com/track/2LZ2CNbcbJrwh53pitRgom"
@@ -6901,7 +7036,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 277506,
       "name": "Supercut",
       "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
@@ -7673,7 +7808,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 296146,
       "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
@@ -7915,7 +8050,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
@@ -8345,6 +8480,24 @@
     {
       "album": {
         "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "album": {
+        "name": "Tourist History",
         "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
       },
       "artists": [
@@ -8453,6 +8606,24 @@
     {
       "album": {
         "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX"
       },
       "artists": [
@@ -8467,6 +8638,24 @@
       "duration_ms": 147026,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/1Er5JMNcguoBMFXxwZ7BWH"
+    },
+    {
+      "album": {
+        "name": "Why Am I Like This?",
+        "url": "https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 212713,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
     },
     {
       "album": {
@@ -8579,6 +8768,24 @@
       "duration_ms": 174357,
       "name": "YEAH RIGHT",
       "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
+    },
+    {
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 287506,
+      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
     },
     {
       "album": {

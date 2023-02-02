@@ -4,7 +4,7 @@
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-65 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/7vgl1VIbhC7Vg5HNGvg9Ts)
+65 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [In Spite Of Me \- Live](https://open.spotify.com/track/5JTcaitH5HSzkqFG4nX7Dk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 8:26 | 2021-06-12 |  |
 | [Indescribable \- Live](https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:09 | 2021-06-12 |  |
 | [Intentional \- Live](https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:38 | 2021-06-12 |  |
-| [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 | 2021-06-12 | 2022-11-13 |
+| [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 | 2021-06-12 | 2023-01-11 |
 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 | 2021-06-12 |  |
 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ) | 4:09 | 2021-06-12 |  |
 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/7oPr7tHtMifbFJrkoXe8aO) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/5baBTN8eqOMrGY9wnLWDpi) | 4:09 | 2021-06-12 | 2022-07-29 |
@@ -55,7 +55,7 @@
 | [Put A Praise On It \- Live](https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 6:16 | 2021-06-12 |  |
 | [Rushing In \- Live](https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Peace: The Album](https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s) | 7:42 | 2021-06-12 |  |
 | [Smile \- Live](https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:47 | 2021-06-12 | 2022-07-29 |
-| [Tell Of His Goodness](https://open.spotify.com/track/7vBHM4rng1xTrCJij4uoCK) | [Jerome L\. Ferrell & The Lighthouse Choir](https://open.spotify.com/artist/5dXf1eZq3oPmDmhbtNTGgs), [Douglas Miller](https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB) | [Tell Of His Goodness](https://open.spotify.com/album/5DuVNo2xLDf9HBazJjPUEq) | 5:48 | 2021-06-12 | 2022-07-29 |
+| [Tell Of His Goodness](https://open.spotify.com/track/7vBHM4rng1xTrCJij4uoCK) | [Jerome L\. Ferrell & The Lighthouse Choir](https://open.spotify.com/artist/5dXf1eZq3oPmDmhbtNTGgs), [Douglas Miller](https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB) | [Tell Of His Goodness](https://open.spotify.com/album/5DuVNo2xLDf9HBazJjPUEq) | 5:48 | 2021-06-12 | 2023-01-02 |
 | [That's What I Believe](https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 5:20 | 2021-06-12 |  |
 | [The Battle Is the Lord's](https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Live In Washington](https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk) | 6:28 | 2021-06-12 |  |
 | [The Lord's Prayer \- Live](https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [20th Century Masters \- The Millennium Collection: The Best Of Richard Smallwood](https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU) | 4:27 | 2021-06-12 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
   "name": "Leonard Cohen: Covered",
-  "published_playlist_ids": [
-    "7kKSsbzwq02y4ei5QnK9pz"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 342160,
       "name": "A Thousand Kisses Deep - New Recording",
       "url": "https://open.spotify.com/track/0DYMn3FBYloHiTqiCTDIB9"
@@ -235,7 +232,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 215137,
       "name": "Chelsea Hotel #2",
       "url": "https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs"
@@ -307,7 +304,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 212866,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV"
@@ -715,6 +712,28 @@
       "duration_ms": 184853,
       "name": "Hey, That's No Way to Say Goodbye",
       "url": "https://open.spotify.com/track/37SOCw0xhKNYTKza2Qxils"
+    },
+    {
+      "album": {
+        "name": "Varshons",
+        "url": "https://open.spotify.com/album/22BwjAeaaEiSeJF1EeSMVI"
+      },
+      "artists": [
+        {
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+        },
+        {
+          "name": "Liv Tyler",
+          "url": "https://open.spotify.com/artist/5OVn0ENwjLIZbRxVPovVgH"
+        }
+      ],
+      "date_added": "2018-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 184146,
+      "name": "Hey, That's No Way To Say Goodbye (feat. Liv Tyler)",
+      "url": "https://open.spotify.com/track/6pT22eHNB4aDW7x5q5j4Um"
     },
     {
       "album": {
@@ -1127,7 +1146,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-17",
       "duration_ms": 226106,
       "name": "Song of Bernadette",
       "url": "https://open.spotify.com/track/2dtsFPhGB5YduAoIKekVaT"
@@ -1217,7 +1236,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 245040,
       "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
       "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"

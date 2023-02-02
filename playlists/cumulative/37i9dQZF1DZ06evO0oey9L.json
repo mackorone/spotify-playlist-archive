@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
   "name": "This Is El de La Guitarra",
-  "published_playlist_ids": [
-    "3nMEEnkEAdgYOrFDi0Ea6J"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 246935,
       "name": "10 Iniciales NC",
       "url": "https://open.spotify.com/track/0Y0qqu5lwjtQFzDfYgODls"
@@ -589,7 +586,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 154500,
       "name": "Gerardo V1",
       "url": "https://open.spotify.com/track/3iFeFrtR3ubraz7cbKwzWX"
@@ -715,7 +712,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 149350,
       "name": "La Gente Del Toro",
       "url": "https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul"
@@ -755,6 +752,28 @@
       "duration_ms": 157875,
       "name": "La Gente Nueva",
       "url": "https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq"
+    },
+    {
+      "album": {
+        "name": "La Internacional",
+        "url": "https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159176,
+      "name": "La Internacional",
+      "url": "https://open.spotify.com/track/6T0FTw6tAOUbeMIvGV7WrX"
     },
     {
       "album": {
@@ -939,6 +958,24 @@
       "duration_ms": 157499,
       "name": "No Andamos Solos",
       "url": "https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ"
+    },
+    {
+      "album": {
+        "name": "No Quiero Agarrar El Rollo",
+        "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121209,
+      "name": "No Quiero Agarrar El Rollo",
+      "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
     },
     {
       "album": {

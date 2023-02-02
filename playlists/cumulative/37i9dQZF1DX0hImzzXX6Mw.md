@@ -4,7 +4,7 @@
 
 > Check out the latest album, Snow, as well as the best moments from Sydney's brother\-and\-sister <a href="spotify:artist:4tvKz56Tr39bkhcQUTO0Xr">duo</a>.
 
-60 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/1eORdHRndy89c34z8ORNgV)
+60 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-52 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/0X6kpArWvUGVHVLQgJKbJD)
+52 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

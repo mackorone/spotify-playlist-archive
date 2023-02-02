@@ -4,7 +4,7 @@
 
 > A rich, mellow blend of hits to see you through your most productive days and cozy nights.
 
-65 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/1gvp4Z6MVwROvI4CdD1I5Z)
+65 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

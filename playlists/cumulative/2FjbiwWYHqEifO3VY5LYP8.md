@@ -4,7 +4,7 @@
 
 > A toast to all the artists who will be performing on New Year&\#x27;s Eve across the globe.
 
-41 songs - 2 hr 30 min - [published](https://open.spotify.com/playlist/68YLmcEp6HPpOHF6tYH0ZD)
+41 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

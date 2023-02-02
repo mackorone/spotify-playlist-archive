@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-09",
   "description": "Pushing the boundaries of instrumental Folk and Americana.",
   "name": "The Frontier",
-  "published_playlist_ids": [
-    "0aQjrq4EoXUS7jLQajURnf"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,10 +70,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 154933,
       "name": "Afar",
       "url": "https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ"
+    },
+    {
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154933,
+      "name": "Afar",
+      "url": "https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk"
     },
     {
       "album": {
@@ -487,6 +502,28 @@
     {
       "album": {
         "name": "Red Dead Redemption Original Soundtrack",
+        "url": "https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK"
+      },
+      "artists": [
+        {
+          "name": "Bill Elm",
+          "url": "https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW"
+        },
+        {
+          "name": "Woody Jackson",
+          "url": "https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122066,
+      "name": "Estancia",
+      "url": "https://open.spotify.com/track/6JSZq2FkHOZGZ5hV85fBa2"
+    },
+    {
+      "album": {
+        "name": "Red Dead Redemption Original Soundtrack",
         "url": "https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg"
       },
       "artists": [
@@ -497,7 +534,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 122066,
       "name": "Estancia",
       "url": "https://open.spotify.com/track/56wSQCknk5Fp0gOt9EaT2e"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Mellow songs from the 1990s.",
   "name": "Soft 90s",
-  "published_playlist_ids": [
-    "3Y9Hoox8bVt84gpOCnK26g"
-  ],
   "tracks": [
     {
       "album": {
@@ -453,7 +450,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 220533,
       "name": "All That I Need - Edit",
       "url": "https://open.spotify.com/track/2ZXJFFf0bisA3TtGUP0hZ9"
@@ -1120,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
+    },
+    {
+      "album": {
         "name": "Forever Man",
         "url": "https://open.spotify.com/album/1i1OirKFpITQYYWDPEDjx7"
       },
@@ -1211,6 +1226,28 @@
       "duration_ms": 291133,
       "name": "Cose della vita (Can't Stop Thinking of You)",
       "url": "https://open.spotify.com/track/63RAhyfI3l2612x8q53BOh"
+    },
+    {
+      "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235293,
+      "name": "Could I Have This Kiss Forever",
+      "url": "https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm"
     },
     {
       "album": {
@@ -1337,7 +1374,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 200293,
       "name": "Crush",
       "url": "https://open.spotify.com/track/0wlU3AK6gdsJUcf6pvyaTp"
@@ -2431,7 +2468,7 @@
     {
       "album": {
         "name": "I Don't Want To Miss A Thing EP",
-        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
+        "url": "https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F"
       },
       "artists": [
         {
@@ -2442,6 +2479,24 @@
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299723,
+      "name": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq"
+    },
+    {
+      "album": {
+        "name": "I Don't Want To Miss A Thing EP",
+        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 299760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
@@ -2805,7 +2860,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 263813,
       "name": "I'll Remember (Theme from the Motion Picture With Honors)",
       "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
@@ -3509,7 +3564,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 293586,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/0bw1li9y32rw40HGodRShs"
@@ -3795,6 +3850,24 @@
       "duration_ms": 230933,
       "name": "My All",
       "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6"
+    },
+    {
+      "album": {
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323440,
+      "name": "My Father's Eyes",
+      "url": "https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl"
     },
     {
       "album": {
@@ -4173,7 +4246,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-02",
       "duration_ms": 333106,
       "name": "Older",
       "url": "https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2"
@@ -4537,7 +4610,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 295693,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8"
@@ -4699,10 +4772,28 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 233866,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/0oSS8NUmfgaX52yTuQWnen"
+    },
+    {
+      "album": {
+        "name": "White On Blonde",
+        "url": "https://open.spotify.com/album/6BVlA2NLGg3OKYemGJgo2v"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233866,
+      "name": "Say What You Want",
+      "url": "https://open.spotify.com/track/6h6Ccbgvhibl2XQ0SQNR70"
     },
     {
       "album": {
@@ -5464,7 +5555,7 @@
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -5477,7 +5568,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Tears in Heaven - Acoustic Live",
       "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
     },
     {
@@ -6453,7 +6544,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 260866,
       "name": "Whenever You Call - Bonus Track",
       "url": "https://open.spotify.com/track/16IFaYGy6ZggrEvvhF4PTk"
@@ -6723,7 +6814,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 199200,
       "name": "You've Got A Way",
       "url": "https://open.spotify.com/track/3E714D9pZURRdgJ6iGhc8E"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
   "name": "This Is Manu Dibango",
-  "published_playlist_ids": [
-    "71qMOxWzOMzGounCUNOsgr"
-  ],
   "tracks": [
     {
       "album": {
@@ -251,7 +248,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 233002,
       "name": "Ba-Kuba",
       "url": "https://open.spotify.com/track/0F7SrgvWE55PgFxxsUe96v"
@@ -305,7 +302,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-01",
       "duration_ms": 208973,
       "name": "Bessoka - Version courte",
       "url": "https://open.spotify.com/track/0vl2pa6k6kBZa0LNRC9ufl"
@@ -473,7 +470,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": "2023-01-05",
       "duration_ms": 309800,
       "name": "Ceddo End Title",
       "url": "https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP"
@@ -579,7 +576,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 186200,
       "name": "Cosita Linda",
       "url": "https://open.spotify.com/track/2bBirdcBLswvtKiQojNFHR"
@@ -903,7 +900,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 341866,
       "name": "Hi-life",
       "url": "https://open.spotify.com/track/7r7Z9MGaJ6ask6WgGEaxWP"
@@ -1041,7 +1038,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 208160,
       "name": "Je suis chez moi (feat. Amadou & Mariam & Manu Dibango) - African Remix",
       "url": "https://open.spotify.com/track/1gEiLNgV0aVwCk1I3EIXcf"
@@ -1059,7 +1056,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 179394,
       "name": "Jungle Riders",
       "url": "https://open.spotify.com/track/1j8XUIPtQI1DIC8dMALW2F"
@@ -1107,7 +1104,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 58453,
       "name": "Kamer Lion",
       "url": "https://open.spotify.com/track/09iL4gDXyDbQiFZd0A75mP"
@@ -1299,7 +1296,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-02-02",
       "duration_ms": 274626,
       "name": "Musica",
       "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
@@ -1360,6 +1357,28 @@
     },
     {
       "album": {
+        "name": "Moko",
+        "url": "https://open.spotify.com/album/4x5VH28M3MDs2bXMIYrYN7"
+      },
+      "artists": [
+        {
+          "name": "Lokua Kanza",
+          "url": "https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 252706,
+      "name": "Nobody Cares",
+      "url": "https://open.spotify.com/track/6FsJMw1nJYwGTw58c6LynS"
+    },
+    {
+      "album": {
         "name": "M & M",
         "url": "https://open.spotify.com/album/1NHrBasHmhaEvemj74DHPm"
       },
@@ -1413,7 +1432,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": "2023-02-02",
       "duration_ms": 952386,
       "name": "Nostalgie",
       "url": "https://open.spotify.com/track/3Kn1HI0X47ydVVSHgPBoA7"
@@ -1453,6 +1472,24 @@
       "duration_ms": 325240,
       "name": "Ongele Mba",
       "url": "https://open.spotify.com/track/5W2DvkilFnTrmPZc5k36NN"
+    },
+    {
+      "album": {
+        "name": "Africadelic",
+        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 107786,
+      "name": "Oriental Sunset",
+      "url": "https://open.spotify.com/track/5eLgxGM0GjdeFIRmkvCZi6"
     },
     {
       "album": {
@@ -1675,7 +1712,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 394933,
       "name": "Quizas Quizas",
       "url": "https://open.spotify.com/track/6TwjWoZvWcamsIhxsewOZd"
@@ -1697,7 +1734,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 395066,
       "name": "Quizas, Quizas, Quizas",
       "url": "https://open.spotify.com/track/1pt8kpkzmQ9O3xn4qCxL4Y"
@@ -2039,7 +2076,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 394893,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/7FxWWb9wpvm0nbB211zQRp"
@@ -2111,10 +2148,40 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": "2022-12-18",
       "duration_ms": 502693,
       "name": "Tropical Garden",
       "url": "https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc"
+    },
+    {
+      "album": {
+        "name": "Tu sais (Hymne officiel de la Francophonie)",
+        "url": "https://open.spotify.com/album/6GB9E89wUtFSU9HzpJacyi"
+      },
+      "artists": [
+        {
+          "name": "Black M",
+          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
+        },
+        {
+          "name": "Christophe Willem",
+          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
+        },
+        {
+          "name": "Inna MODJA",
+          "url": "https://open.spotify.com/artist/2Wcolafj7tcFeVOIr0V4Ju"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180619,
+      "name": "Tu sais - Hymne officiel de la Francophonie",
+      "url": "https://open.spotify.com/track/2DL1IgEEJxRT88OScgQv0G"
     },
     {
       "album": {

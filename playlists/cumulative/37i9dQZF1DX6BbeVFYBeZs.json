@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-20",
   "description": "The beautiful sound of the Spanish guitar to help you wind down.",
   "name": "Relaxing Spanish Guitar",
-  "published_playlist_ids": [
-    "5vDhhJLUXvegKwwtL6H3y2"
-  ],
   "tracks": [
     {
       "album": {
@@ -102,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Alpen Rose",
+        "url": "https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164072,
+      "name": "Alpen Rose",
+      "url": "https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY"
+    },
+    {
+      "album": {
         "name": "Amarilla",
         "url": "https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk"
       },
@@ -117,6 +132,24 @@
       "duration_ms": 147458,
       "name": "Amarilla",
       "url": "https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq"
+    },
+    {
+      "album": {
+        "name": "Amfora",
+        "url": "https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2"
+      },
+      "artists": [
+        {
+          "name": "Elke Meyer",
+          "url": "https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124754,
+      "name": "Amfora",
+      "url": "https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q"
     },
     {
       "album": {
@@ -228,6 +261,42 @@
     },
     {
       "album": {
+        "name": "As it turned out",
+        "url": "https://open.spotify.com/album/6UP0k1pJv1XXgl9AlLBg3c"
+      },
+      "artists": [
+        {
+          "name": "Adrian Muriel",
+          "url": "https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230863,
+      "name": "As it turned out",
+      "url": "https://open.spotify.com/track/2VsKoRp6s1Rd4GM6KFtD7B"
+    },
+    {
+      "album": {
+        "name": "Attitude Altitude",
+        "url": "https://open.spotify.com/album/2yH5oDBYImXDIXVI6Tus2O"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158816,
+      "name": "Attitude Altitude",
+      "url": "https://open.spotify.com/track/70yVg36l68Kn2a7SjOBrqu"
+    },
+    {
+      "album": {
         "name": "Barefoot Again",
         "url": "https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J"
       },
@@ -333,6 +402,42 @@
       "duration_ms": 152575,
       "name": "Boteco",
       "url": "https://open.spotify.com/track/1c7ixtAouUt0wGfjcn4tvz"
+    },
+    {
+      "album": {
+        "name": "Bougainvillea",
+        "url": "https://open.spotify.com/album/1oBJWPznqae6yadezYaRQW"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Lola",
+          "url": "https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123662,
+      "name": "Bougainvillea",
+      "url": "https://open.spotify.com/track/1ZUJLGUSLAhLfWQQduDsb5"
+    },
+    {
+      "album": {
+        "name": "Paisaje Silvestre",
+        "url": "https://open.spotify.com/album/7CB6gTf1KwlVWWyKpN8haR"
+      },
+      "artists": [
+        {
+          "name": "Gerson Lizama",
+          "url": "https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140616,
+      "name": "Brisa de Verano",
+      "url": "https://open.spotify.com/track/6OJwqTLXy8B4p3sjRUgEwj"
     },
     {
       "album": {
@@ -467,6 +572,24 @@
       "duration_ms": 119355,
       "name": "Camino Lento",
       "url": "https://open.spotify.com/track/1k4g1HXcfL5ZJNwcxVFzab"
+    },
+    {
+      "album": {
+        "name": "Chambers of the Cedars",
+        "url": "https://open.spotify.com/album/4GTIokkhX0O4rCEuUI9D8Q"
+      },
+      "artists": [
+        {
+          "name": "Lavelle Barber",
+          "url": "https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132508,
+      "name": "Chambers of the Cedars",
+      "url": "https://open.spotify.com/track/3UrvaqWxYS6NBrJz3o73SL"
     },
     {
       "album": {
@@ -813,7 +936,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 231750,
       "name": "Dianthus",
       "url": "https://open.spotify.com/track/5BzjvgbKD4J7qr6Qq3LN0Q"
@@ -892,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "D\u00eda F\u00e1cil",
+        "url": "https://open.spotify.com/album/18idEnRzxpLkVIZv8ETBAb"
+      },
+      "artists": [
+        {
+          "name": "Valerio Castilla",
+          "url": "https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181020,
+      "name": "D\u00eda F\u00e1cil",
+      "url": "https://open.spotify.com/track/3Yz1SZXphecIMZcKjdtqFL"
+    },
+    {
+      "album": {
         "name": "Romantic Spanish Guitar, Vol. 3",
         "url": "https://open.spotify.com/album/7vpRhpWT83mNvLBqjJ9Kbt"
       },
@@ -903,7 +1044,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 252582,
       "name": "El Arte De La Guitarra",
       "url": "https://open.spotify.com/track/12t9WB5iWTX3nAz5aLSjGA"
@@ -964,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n"
+      },
+      "artists": [
+        {
+          "name": "Alonso Librado",
+          "url": "https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126496,
+      "name": "El Sabio",
+      "url": "https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt"
+    },
+    {
+      "album": {
         "name": "Elena",
         "url": "https://open.spotify.com/album/1qlDQQh4Syo913ywPxNmQW"
       },
@@ -975,7 +1134,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 125802,
       "name": "Elena",
       "url": "https://open.spotify.com/track/7L8szhG2EyNBPDVN8u7NfV"
@@ -1015,7 +1174,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 108863,
       "name": "Elf",
       "url": "https://open.spotify.com/track/2z5Prq6ZP7gX5yMmPsMaPk"
@@ -1033,7 +1192,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 159500,
       "name": "Entrela\u00e7os",
       "url": "https://open.spotify.com/track/2RZhlnOejBw66rNeIsuAmY"
@@ -1069,7 +1228,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 167040,
       "name": "Eres Divina",
       "url": "https://open.spotify.com/track/2yv8w2ANzHumAGdN3fwLoK"
@@ -1163,6 +1322,24 @@
       "duration_ms": 155724,
       "name": "Eva",
       "url": "https://open.spotify.com/track/14lhsByYFtQn3tPS5TjLFT"
+    },
+    {
+      "album": {
+        "name": "Fawns in Spring",
+        "url": "https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr"
+      },
+      "artists": [
+        {
+          "name": "Celia Cloten",
+          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159926,
+      "name": "Fawns in Spring",
+      "url": "https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK"
     },
     {
       "album": {
@@ -2167,7 +2344,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 151616,
       "name": "Preludio del valle",
       "url": "https://open.spotify.com/track/4zvQKekRAM8gUYBmkCPuTP"
@@ -2391,7 +2568,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 112874,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/4nQcTeraFLNBq0oMrNBG7i"
@@ -2463,7 +2640,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 150000,
       "name": "San Gervasi",
       "url": "https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h"
@@ -2759,7 +2936,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 105041,
       "name": "Sua Flor",
       "url": "https://open.spotify.com/track/0392xui5zL1nRux90JIPuv"
@@ -2915,6 +3092,24 @@
       "duration_ms": 141000,
       "name": "Terrassa",
       "url": "https://open.spotify.com/track/4uR1yeK0D3mRIno6VFWtWU"
+    },
+    {
+      "album": {
+        "name": "The Answers",
+        "url": "https://open.spotify.com/album/0ql2lwrmwxEsQQDdfWbRq7"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "The Answers",
+      "url": "https://open.spotify.com/track/6fyvEapH6yPLGRplGYscPi"
     },
     {
       "album": {
@@ -3188,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Valle dei Templi",
+        "url": "https://open.spotify.com/album/1jJooUIuo50bNqtXWHpHCM"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180070,
+      "name": "Valle dei Templi",
+      "url": "https://open.spotify.com/track/3rLW5KJLKyJdhGsBVeYcdm"
+    },
+    {
+      "album": {
         "name": "Vals del Poniente",
         "url": "https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE"
       },
@@ -3315,7 +3528,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 211063,
       "name": "Vitoya",
       "url": "https://open.spotify.com/track/1xenzCpJ2WBBZJWvMHzEmk"

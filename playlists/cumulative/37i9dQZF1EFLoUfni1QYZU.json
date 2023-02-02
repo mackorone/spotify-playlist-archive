@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa\">LP</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By LP",
-  "published_playlist_ids": [
-    "6STNcxJowr9kt1qj1mUAao"
-  ],
   "tracks": [
     {
       "album": {
@@ -1135,6 +1132,24 @@
     {
       "album": {
         "name": "Desserts",
+        "url": "https://open.spotify.com/album/2osER63dyxzb5y37YqMUJd"
+      },
+      "artists": [
+        {
+          "name": "CAZZETTE",
+          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224625,
+      "name": "Solo Para Ti",
+      "url": "https://open.spotify.com/track/0mJ7MnaW6UJ7DGeiw770WG"
+    },
+    {
+      "album": {
+        "name": "Desserts",
         "url": "https://open.spotify.com/album/7eEV72avvHcckpIclgZAV0"
       },
       "artists": [
@@ -1145,7 +1160,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 224625,
       "name": "Solo Para Ti",
       "url": "https://open.spotify.com/track/1SEnY3zCzz2ZDcmNeHaiXJ"

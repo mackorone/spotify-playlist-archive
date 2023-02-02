@@ -4,7 +4,7 @@
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-54 songs - 3 hr 41 min - not published yet
+54 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Stay Real](https://open.spotify.com/track/6jaj4k0LwFLy1q54TXZZpZ) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [No Pressure](https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA) | 3:55 | 2020-03-04 |  |
 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 | 2020-03-04 |  |
 | [Symphony 2000](https://open.spotify.com/track/3WXNzlFDSfjEmNFUOSccf7) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Lady Luck](https://open.spotify.com/artist/0oXoYDEPhGhN14JD4JRL5L) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:03 | 2020-03-04 |  |
-| [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 | 2020-03-04 |  |
+| [The Gas Face](https://open.spotify.com/track/3G0z1kH46uVRqW7f9Qp1OR) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc), [Zev Love](https://open.spotify.com/artist/6ZsabzDRDqFRj6DCRvYRDx) | [Best Of 3rd Bass](https://open.spotify.com/album/1pTWEUzYCTNJB44EA06ZFc) | 3:49 | 2020-03-04 |  |
 | [The New Style](https://open.spotify.com/track/0Mu1MYdE414HeybYSms5KK) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 4:35 | 2020-03-04 |  |
 | [The Ruler's Back](https://open.spotify.com/track/3cb6gJ7SHYuZ3NVm996ffD) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 5:36 | 2020-03-04 |  |
 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 | 2020-03-04 |  |

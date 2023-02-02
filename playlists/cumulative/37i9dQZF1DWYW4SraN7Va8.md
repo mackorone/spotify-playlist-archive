@@ -4,7 +4,7 @@
 
 > Nacimos para rodar en el asfalto.
 
-123 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/4ovE5dvEqCFHC12jjlnh1V)
+124 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Flight of Icarus \- 2015 Remaster](https://open.spotify.com/track/5orSFpEyBcj8ogpOqI4yOQ) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 \- Remaster\)](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) | 3:50 | 2021-07-02 |  |
 | [Future World](https://open.spotify.com/track/7vAwjvJs8YSlHcykJu7nc0) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:03 | 2021-07-02 |  |
 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 | 2021-07-02 |  |
-| [Girl Money](https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Hot Wire](https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi) | 4:00 | 2021-07-02 | 2022-11-15 |
+| [Girl Money](https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Hot Wire](https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi) | 4:00 | 2021-07-02 | 2023-01-22 |
 | [Heartbreaker](https://open.spotify.com/track/22ML0MuFKfw16WejbxsLOy) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [In The Heat Of The Night](https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY) | 3:29 | 2021-07-02 |  |
 | [Here I Go Again](https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake's Greatest Hits](https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ) | 3:52 | 2021-07-02 | 2022-07-29 |
 | [Here I Go Again \- Radio Mix](https://open.spotify.com/track/6m8FEpCFkSrzhH1W3R2yKU) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/0aaGy4xNDYJ1QLllH7mSNp) | 3:52 | 2021-07-02 |  |
@@ -120,7 +120,8 @@
 | [Too Fast For Love](https://open.spotify.com/track/4PDNOmMej8sc1mkiZfvW9w) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Too Fast For Love](https://open.spotify.com/album/6fhebW3x8DvrwbdL2aXCbo) | 3:22 | 2021-07-02 | 2022-07-29 |
 | [Vibe Killer](https://open.spotify.com/track/3yim5Y7owft98oR89mcxKH) | [Endless Boogie](https://open.spotify.com/artist/4TxcjvZlQLya9wdPYrjxkc) | [Vibe Killer](https://open.spotify.com/album/5GPltiY4pz517np9dPTsnt) | 8:24 | 2021-07-02 | 2022-07-29 |
 | [Vibe Killer](https://open.spotify.com/track/5mI6vyvISw5hnWVDfCJqEN) | [Endless Boogie](https://open.spotify.com/artist/4TxcjvZlQLya9wdPYrjxkc) | [Vibe Killer](https://open.spotify.com/album/4jvHpCQDuyBENgDMtsV6WX) | 8:24 | 2021-07-02 | 2022-11-13 |
-| [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2021-07-02 |  |
+| [Walk This Way](https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:40 | 2021-07-02 |  |
+| [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2021-07-02 | 2023-01-14 |
 | [Welcome To The Jungle](https://open.spotify.com/track/0eFvoRSTTaR2q8bSWVjwfp) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Greatest Hits](https://open.spotify.com/album/4a92B7gXZWKJopxs6gWgqb) | 4:31 | 2021-07-02 | 2022-07-29 |
 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 | 2021-07-02 |  |
 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 | 2021-07-02 |  |

@@ -4,7 +4,7 @@
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-68 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/2MJVM40wk4kbPwCrOhCR9b)
+68 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [High Hopes](https://open.spotify.com/track/7LUYlbzPVix2varjKXAk6z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [End of an Era](https://open.spotify.com/album/0vAgv1fFn8zW2hbpWJfgPX) | 6:54 | 2022-09-08 |  |
 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 | 2022-09-08 |  |
 | [I Want My Tears Back](https://open.spotify.com/track/3HCzXf0lNpekSqsGBcGrCd) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:07 | 2022-09-08 |  |
-| [Instrumental \(Crimson Tide / Deep Blue Sea\) \- Live](https://open.spotify.com/track/5EKThE1jwnncFiGoEtNVBG) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [From Wishes To Eternity \(Live\)](https://open.spotify.com/album/550DhzHfiSoLYGZJapGLNL) | 3:29 | 2022-09-08 |  |
+| [Instrumental \(Crimson Tide / Deep Blue Sea\) \- Live](https://open.spotify.com/track/5EKThE1jwnncFiGoEtNVBG) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [From Wishes To Eternity \(Live\)](https://open.spotify.com/album/550DhzHfiSoLYGZJapGLNL) | 3:29 | 2022-09-08 | 2022-12-01 |
 | [Last of the Wilds](https://open.spotify.com/track/1TVFphEyfjzEIir70656d4) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 5:40 | 2022-09-09 | 2022-09-29 |
 | [Last Ride of the Day](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 4:31 | 2022-09-08 |  |
 | [Music](https://open.spotify.com/track/49LQq6RoFTWFk5d6hBGEKt) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 7:23 | 2022-09-08 | 2022-10-15 |

@@ -4,7 +4,7 @@
 
 > Groove to your family's favorite tracks from Netflix Jr\. Jams.
 
-40 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/1gC7jsmddkF2yDrgierimn)
+40 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

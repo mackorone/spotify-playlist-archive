@@ -4,7 +4,7 @@
 
 > Classical music from the classical era\. Light, clear and beautiful\. Music by Beethoven, Mozart and Haydn\. The sons of J.S Bach\. Schubert and Salieri.
 
-50 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/3OTFrFZvt9i2CgLuVgx2o8)
+50 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

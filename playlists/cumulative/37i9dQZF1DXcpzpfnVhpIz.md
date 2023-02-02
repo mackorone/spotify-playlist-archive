@@ -4,7 +4,7 @@
 
 > Italian superstar producer & DJ <a href="spotify:artist:5ENS85nZShljwNgg4wFD7D">Gabry Ponte</a> promises a good time with his mix featuring recent hits!
 
-22 songs - 1 hr 6 min - [published](https://open.spotify.com/playlist/3NhyGSpBHs9LDf8bcwD3dt)
+23 songs - 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Piece Of Art \- Mixed](https://open.spotify.com/track/30w2S2cSNEIi2Vm1zLiazn) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art \(Mixed\)](https://open.spotify.com/album/2Fk0HoIFSpzKsBKFl3zOP3) | 3:52 | 2021-12-22 |  |
 | [Pyramid \- Nicky Romero Remix \- Mixed](https://open.spotify.com/track/2btF5VRC2GV55Rp35mb9Om) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Pyramid \- Nicky Romero Remix \(Mixed\)](https://open.spotify.com/album/49oghdBWOyOhU1oKaEXLZP) | 2:55 | 2021-12-22 |  |
 | [Revision feat Giovanni \- Original Mix \- Mixed](https://open.spotify.com/track/6RsnwwL0fHldEC8uavu8RS) | [Program2](https://open.spotify.com/artist/2OY7mhuIt3eCpTkW1IdADL), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Giovanni](https://open.spotify.com/artist/3KF46vzbkpKa1c9sdlidvs) | [Revision feat Giovanni \- Original Mix \(Mixed\)](https://open.spotify.com/album/2QHTUvOykShZ7GIPdm8XUI) | 3:14 | 2021-12-22 |  |
-| [Tactus \- Mixed](https://open.spotify.com/track/7rfJGvoiOvry3STzujztG1) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM), [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Tactus \(Mixed\)](https://open.spotify.com/album/1BH2pClAxV4TTwjZ1nIwow) | 3:23 | 2021-12-22 |  |
+| [Tactus \(hungry for your touch\) \- Mixed](https://open.spotify.com/track/3QsOgYaBaZvhKqa8L4PdM7) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM), [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Tactus \(hungry for your touch\) \[Mixed\]](https://open.spotify.com/album/3M1WpRPnlAa0KnMyQzwGlX) | 3:23 | 2022-12-30 |  |
+| [Tactus \- Mixed](https://open.spotify.com/track/7rfJGvoiOvry3STzujztG1) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM), [CILVR](https://open.spotify.com/artist/1ltLaFy2ifgpIhjzYFsPw2) | [Tactus \- Mixed](https://open.spotify.com/album/1BH2pClAxV4TTwjZ1nIwow) | 3:23 | 2021-12-22 | 2022-12-31 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-12-22 |  |
 | [Thunder \- Mixed](https://open.spotify.com/track/29LrX4N25uyQ9nz5m24P76) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/4PviKr5rO2Nhh967uRjDFg) | 2:50 | 2021-12-22 | 2022-11-13 |
 | [Thunder \- Mixed](https://open.spotify.com/track/6RxHwMLZmlXkfYY47K0UhI) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Thunder \(Mixed\)](https://open.spotify.com/album/1mUn86v8euqFTFiCxOEV8q) | 2:50 | 2021-12-22 | 2022-07-29 |

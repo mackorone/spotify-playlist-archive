@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina y ponle sabor a tus labores!",
   "name": "Chambeando con Salsa",
-  "published_playlist_ids": [
-    "0gmGoKj3osvWK7STuxpUvj"
-  ],
   "tracks": [
     {
       "album": {
@@ -1204,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Fabricando Fantas\u00edas",
+        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "Fabricando Fantas\u00edas - Salsa Version",
+      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
+    },
+    {
+      "album": {
         "name": "Salsa para dedicar",
         "url": "https://open.spotify.com/album/4tPn2hQbiGfGo7wNN0AhEr"
       },
@@ -1215,7 +1230,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 272973,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/7zO3aqpeehg2MF0zNecM5U"
@@ -2274,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Mi Raz\u00f3n de Ser",
+        "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ricardo",
+          "url": "https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261600,
+      "name": "Por Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos de Salsa",
         "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
@@ -2325,24 +2358,6 @@
       "duration_ms": 306960,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ"
-    },
-    {
-      "album": {
-        "name": "Mi Raz\u00f3n de Ser",
-        "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ricardo",
-          "url": "https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f"
-        }
-      ],
-      "date_added": "2022-08-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 261600,
-      "name": "Porqu\u00e9 Ser\u00e1",
-      "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
     },
     {
       "album": {

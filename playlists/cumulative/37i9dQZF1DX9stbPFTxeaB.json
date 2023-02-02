@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Blues, but funky. Or funk, but bluesy. Cover: Kenny Wayne Shepherd",
   "name": "Funky Heavy Bluesy",
-  "published_playlist_ids": [
-    "37ATRX3EEE0W2CNCUfCl5p"
-  ],
   "tracks": [
     {
       "album": {
@@ -1089,10 +1086,28 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 209946,
       "name": "Made Man",
       "url": "https://open.spotify.com/track/6BklMtRiRy8BjeK9Lf1krs"
+    },
+    {
+      "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/7BoDAUUVu2xqWTyYVkDG9m"
+      },
+      "artists": [
+        {
+          "name": "Five Points Gang",
+          "url": "https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209946,
+      "name": "Made Man",
+      "url": "https://open.spotify.com/track/6yc6bMZVPQHR06a8H1WOmG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,068 likes - 44 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,237 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 27 | [Rag Mop](https://open.spotify.com/track/5SOjgaven2icwH6GrRgzGL) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Hamp The Legendary Decca Recordings Of Lionel Hampton](https://open.spotify.com/album/4u5Gz5gglo9hj5G47NffQA) | 2:49 |
 | 28 | [Easy, Easy Baby](https://open.spotify.com/track/2s6pzL98avAtHxH5GaqII2) | [Varetta Dillard](https://open.spotify.com/artist/39AMDMPl2TPIIylBZX8P3O) | [Savoy Chart Busters](https://open.spotify.com/album/1ya7hsBLid444IDo6kK2Fb) | 2:38 |
 | 29 | [All Night Baby](https://open.spotify.com/track/4YVi8h35Add8ui2QBgKJbj) | [Grady Chapman](https://open.spotify.com/artist/4jc5lAVFca2RBUH1sg3OdB) | [Let's Talk About Us](https://open.spotify.com/album/2E60I7exSolMxb8svu9I29) | 3:06 |
-| 30 | [Sh\-Boom](https://open.spotify.com/track/5TiUTAPurormiQX9gE0CAQ) | [The Chords](https://open.spotify.com/artist/3xXSg1WJPGJuNjQV0REAzk) | [Atlantic 60th: At The Hop](https://open.spotify.com/album/6LFNpN228ffJyxBHQx1a9H) | 2:24 |
+| 30 | [Sh\-Boom](https://open.spotify.com/track/5TiUTAPurormiQX9gE0CAQ) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Atlantic 60th: At The Hop](https://open.spotify.com/album/6LFNpN228ffJyxBHQx1a9H) | 2:24 |
 | 31 | [Well All Right](https://open.spotify.com/track/2Sr6cn0EoafyV5brhrOEda) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:28 |
 | 32 | [Please Mr\. Jailer](https://open.spotify.com/track/26HKyKKbVrfbEgeR4dDsea) | [Wynona Carr](https://open.spotify.com/artist/0v6JkAzkEJ6lCw6hAVs5VP) | [Jump Jack Jump!](https://open.spotify.com/album/7xAQpANaShSbcAUfPs39ci) | 3:02 |
 | 33 | [Hey, Miss Fannie \- 2007 Remaster](https://open.spotify.com/track/0TVLbglfKuQ5WtAFFa06HI) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Down In The Alley: The Best Of The Clovers](https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S) | 2:26 |

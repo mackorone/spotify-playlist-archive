@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-20",
   "description": "...and find your focus.",
   "name": "Apply Yourself",
-  "published_playlist_ids": [
-    "60jVGhBQ9kNItECXd4mEVi"
-  ],
   "tracks": [
     {
       "album": {
@@ -837,6 +834,24 @@
     {
       "album": {
         "name": "Faded Afternoon Heat",
+        "url": "https://open.spotify.com/album/08cz1zgqFQTbClYyYzpupf"
+      },
+      "artists": [
+        {
+          "name": "never forget you/re a terrifying freak",
+          "url": "https://open.spotify.com/artist/4lPrIzWpohl195VDVJZxwk"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262458,
+      "name": "Faded Afternoon Heat",
+      "url": "https://open.spotify.com/track/0qZKYqNo2M3MhjCObQoNHH"
+    },
+    {
+      "album": {
+        "name": "Faded Afternoon Heat",
         "url": "https://open.spotify.com/album/485dcPfgaNP39dSSnD8BVx"
       },
       "artists": [
@@ -847,7 +862,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 262458,
       "name": "Faded Afternoon Heat",
       "url": "https://open.spotify.com/track/4zS89MxcM3GDjpN8uF1F97"
@@ -1227,6 +1242,24 @@
       "duration_ms": 118302,
       "name": "i'm closing my eyes",
       "url": "https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq"
+    },
+    {
+      "album": {
+        "name": "Imprinting",
+        "url": "https://open.spotify.com/album/7rhEXnXvMGz9XV2Qz8KsTS"
+      },
+      "artists": [
+        {
+          "name": "The Necks",
+          "url": "https://open.spotify.com/artist/2S0D6Vlt9T6z5MNm1UBJgf"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1034453,
+      "name": "Imprinting",
+      "url": "https://open.spotify.com/track/175DcA478IXvonRxNPS1Za"
     },
     {
       "album": {
@@ -1661,6 +1694,24 @@
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
+    },
+    {
+      "album": {
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204193,
+      "name": "LUX 1.2",
+      "url": "https://open.spotify.com/track/1OtF0vJKQ9VvLHHKnKGXmf"
     },
     {
       "album": {
@@ -2523,7 +2574,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 247038,
       "name": "Scene Suspended",
       "url": "https://open.spotify.com/track/0AUBFe4HCHU01mKj8Wlf45"
@@ -2931,7 +2982,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 181948,
       "name": "Struck Bamboo Pipes No.2",
       "url": "https://open.spotify.com/track/0dgRhEUcNVQ0qXNgTeTnum"
@@ -3112,6 +3163,28 @@
     },
     {
       "album": {
+        "name": "A Tribute to Ryuichi Sakamoto - To the Moon and Back",
+        "url": "https://open.spotify.com/album/6ie5Ynop9ihgcskcSenK3q"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289331,
+      "name": "The Sheltering Sky - Alva Noto Remodel",
+      "url": "https://open.spotify.com/track/6DwnWHC1XWOBEvSE5pn9JJ"
+    },
+    {
+      "album": {
         "name": "The Slow",
         "url": "https://open.spotify.com/album/1io56ha0ekCZITMxfZJhI4"
       },
@@ -3123,7 +3196,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 231093,
       "name": "The Slow",
       "url": "https://open.spotify.com/track/7bXN15Z1AuU6LF5InUKX2N"

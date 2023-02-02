@@ -4,7 +4,7 @@
 
 > Known as the Nation's Little Sister in South Korea.
 
-80 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/2OBhutric91PGuDVbVYx6j)
+80 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Watch the kids go wild for these party tunes!",
   "name": "It's Party Time",
-  "published_playlist_ids": [
-    "0e2GAgSIxFVmpVZxEgmPmE"
-  ],
   "tracks": [
     {
       "album": {
@@ -44,24 +41,6 @@
     },
     {
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2021-10-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/0MSJk0VWUxAGat5vhJ4q4N"
-    },
-    {
-      "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
@@ -77,6 +56,24 @@
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/0MSJk0VWUxAGat5vhJ4q4N"
     },
     {
       "album": {
@@ -1079,7 +1076,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 176074,
       "name": "Every Girl's a Super Girl",
       "url": "https://open.spotify.com/track/2ZC2XgjtIjefPi5t1WJNKy"
@@ -1115,7 +1112,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 176074,
       "name": "Every Girl's a Super Girl",
       "url": "https://open.spotify.com/track/46jW70xBCck9gGu3KXM1Uo"
@@ -1673,8 +1670,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -2184,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Mini Pop Kids 18",
+        "url": "https://open.spotify.com/album/02qZqGTGf9c9AIToJ2lRaO"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/3yihUqTwvMDqu5o5TYAgZk"
+    },
+    {
+      "album": {
         "name": "Mamacita",
         "url": "https://open.spotify.com/album/0Xxxaz8fec1UUv4AktWLUk"
       },
@@ -2195,7 +2210,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 249733,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/6u1bQpdsolFOIOaXY8fhuC"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-09",
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
   "name": "\u6211\u7684\u5fae\u91ba\u591c",
-  "published_playlist_ids": [
-    "70F1v4zvuq5j5onBRYZuyS"
-  ],
   "tracks": [
     {
       "album": {
@@ -511,7 +508,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 182857,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4DwW1HW7iEK7DtUDiSte3X"
@@ -529,7 +526,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 212000,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw"
@@ -1293,7 +1290,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 190642,
       "name": "Drive",
       "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
@@ -1699,6 +1696,10 @@
         {
           "name": "Stormzy",
           "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
         }
       ],
       "date_added": "2022-11-14",
@@ -1797,7 +1798,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 169818,
       "name": "Fuck Love",
       "url": "https://open.spotify.com/track/32p7kD1kyWiy78wuQoICRu"
@@ -1975,7 +1976,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 210906,
       "name": "He Don't Love Me",
       "url": "https://open.spotify.com/track/1WOhefCemfefOtVkTLh6bl"
@@ -2101,7 +2102,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 188478,
       "name": "Holding the Gun",
       "url": "https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz"
@@ -3410,6 +3411,24 @@
     },
     {
       "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+    },
+    {
+      "album": {
         "name": "on you",
         "url": "https://open.spotify.com/album/5DRjIq6NH1UaMAg9jYPvfk"
       },
@@ -4069,6 +4088,24 @@
     {
       "album": {
         "name": "Some Place Else",
+        "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214885,
+      "name": "Some Place Else",
+      "url": "https://open.spotify.com/track/4gO4OomMLvV3l9KoyMpeft"
+    },
+    {
+      "album": {
+        "name": "Some Place Else",
         "url": "https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9"
       },
       "artists": [
@@ -4663,7 +4700,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 226195,
       "name": "Two Sides",
       "url": "https://open.spotify.com/track/0HN3K1Y4sRJIHZmI2s5pU1"
@@ -4791,6 +4828,24 @@
     {
       "album": {
         "name": "Want U Bad",
+        "url": "https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Want U Bad",
+      "url": "https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3"
+    },
+    {
+      "album": {
+        "name": "Want U Bad",
         "url": "https://open.spotify.com/album/5CKO535hsvwJ6DbgoWqdn9"
       },
       "artists": [
@@ -4801,7 +4856,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 222000,
       "name": "Want U Bad",
       "url": "https://open.spotify.com/track/5mk76DcUc1oQqOgcczreKB"

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Bollywood beats to keep you dancing all night. Cover: Liger",
+  "description": "Filmy beats to keep you dancing all night. Cover - RRR",
   "name": "Filmy Party",
-  "published_playlist_ids": [
-    "5HAFGxpwN32oLCPDEylxYw"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7EvAlx0lOLbZgCKH50wnUU"
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 230200,
       "name": "Akdi Pakdi (From \"Liger\")",
       "url": "https://open.spotify.com/track/79xjw95DSvcl8sDtghDOGo"
@@ -213,6 +210,44 @@
       "duration_ms": 320000,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/5R7HpWXej6SiCrd9YJsC5g"
+    },
+    {
+      "album": {
+        "name": "Besharam Rang (From \"Pathaan\")",
+        "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Caralisa Monteiro",
+          "url": "https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258472,
+      "name": "Besharam Rang (From \"Pathaan\")",
+      "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
     },
     {
       "album": {
@@ -431,7 +466,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 249741,
       "name": "Chogada (From \"Loveyatri\")",
       "url": "https://open.spotify.com/track/4ymPEyiXabTe1NO8q8EFxG"
@@ -515,7 +550,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231562,
-      "name": "Cutiepie",
+      "name": "Cutiepie (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/7hXnhouVPnOnFwCGrQMHvB"
     },
     {
@@ -611,16 +646,16 @@
       },
       "artists": [
         {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Shefali Alvares",
-          "url": "https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn"
-        },
-        {
           "name": "Pritam",
           "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
         }
       ],
       "date_added": "2022-07-13",
@@ -1060,6 +1095,44 @@
     },
     {
       "album": {
+        "name": "Pathaan",
+        "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208164,
+      "name": "Jhoome Jo Pathaan",
+      "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
+    },
+    {
+      "album": {
         "name": "Stree",
         "url": "https://open.spotify.com/album/2Z1LgolP3fqxEJ89MS7n9C"
       },
@@ -1210,6 +1283,32 @@
     },
     {
       "album": {
+        "name": "Kyaa Baat Haii 2.0 (From \"Govinda Naam Mera\")",
+        "url": "https://open.spotify.com/album/2WGf3hNRhDAbcI29cAFolO"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Kyaa Baat Haii 2.0",
+      "url": "https://open.spotify.com/track/3SxOgJihDKlbZ9C1OvLgNs"
+    },
+    {
+      "album": {
         "name": "Ginny Weds Sunny (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC"
       },
@@ -1329,6 +1428,36 @@
       "duration_ms": 198025,
       "name": "Morni Banke (From \"Badhaai Ho\")",
       "url": "https://open.spotify.com/track/2Wu9PNpLUCBl3W1GaPqkhl"
+    },
+    {
+      "album": {
+        "name": "Munda Sona Hoon Main (From \"Shehzada\")",
+        "url": "https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229947,
+      "name": "Munda Sona Hoon Main (From \"Shehzada\")",
+      "url": "https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE"
     },
     {
       "album": {
@@ -1556,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "Macharla Chunaav Kshetra (M.C.K)",
+        "url": "https://open.spotify.com/album/0qRXOBFcg6JaeECfILhtvz"
+      },
+      "artists": [
+        {
+          "name": "Tarannum Mallik Jain",
+          "url": "https://open.spotify.com/artist/4ZourJRcQTpIL5haRgvyWl"
+        },
+        {
+          "name": "Harry Anand",
+          "url": "https://open.spotify.com/artist/6u8WDhZmfLcGVyknPoLrrY"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "Ra Ra Reddy",
+      "url": "https://open.spotify.com/track/3CltdQnB1NJuE5khm0d6r7"
+    },
+    {
+      "album": {
         "name": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
         "url": "https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z"
       },
@@ -1749,7 +1900,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 199264,
       "name": "Tamma Tamma Again",
       "url": "https://open.spotify.com/track/5sqPE9h98DkO5ms20NUiUg"
@@ -1841,7 +1992,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252631,
-      "name": "The Breakup Song",
+      "name": "The Breakup Song (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/5FihcmME7NlwW8KbYOaHVH"
     },
     {
@@ -1891,14 +2042,36 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 211730,
       "name": "The Hic Song",
       "url": "https://open.spotify.com/track/1wDrMKmeL9MAL2s7FZCH20"
     },
     {
       "album": {
-        "name": "Student of the Year 2",
+        "name": "Goodbye (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5NlqpZE0J3sZ4gT74lpFj0"
+      },
+      "artists": [
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+        },
+        {
+          "name": "Rupali Moghe",
+          "url": "https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211730,
+      "name": "The Hic Song",
+      "url": "https://open.spotify.com/track/7JhxVvHZZwO3n4swDgIG7O"
+    },
+    {
+      "album": {
+        "name": "Student of the Year 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0j5fpNFJPSBUdkPROtmvFM"
       },
       "artists": [
@@ -1913,6 +2086,10 @@
         {
           "name": "Shekhar Ravjiani",
           "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2021-12-24",
@@ -1988,7 +2165,7 @@
     },
     {
       "album": {
-        "name": "Student of the Year 2",
+        "name": "Student of the Year 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0j5fpNFJPSBUdkPROtmvFM"
       },
       "artists": [

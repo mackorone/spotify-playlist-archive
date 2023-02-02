@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-04",
   "description": "Music from \"GOLDEN KAMUY\"! /\u30a2\u30cb\u30e1\u300c\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002",
   "name": "GOLDEN KAMUY \u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -425,6 +424,24 @@
       "duration_ms": 223100,
       "name": "\u65c5\u306e\u5e55\u958b\u3051",
       "url": "https://open.spotify.com/track/2TJEk9uBkJQHN81OuRPaiK"
+    },
+    {
+      "album": {
+        "name": "\u6642\u8a08\u53f0\u306e\u9418",
+        "url": "https://open.spotify.com/album/3NjtYF9lvn0lR5JTP9CcfU"
+      },
+      "artists": [
+        {
+          "name": "Eastern Youth",
+          "url": "https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253253,
+      "name": "\u6642\u8a08\u53f0\u306e\u9418",
+      "url": "https://open.spotify.com/track/4fJC5DUwH9xy8ofjFPXuUJ"
     },
     {
       "album": {

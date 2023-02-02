@@ -4,7 +4,7 @@
 
 > Get the party going with these poppy rock tracks!
 
-33 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/7KaOeEPYhxnbdhItXGSQAj)
+33 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

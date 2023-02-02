@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3HEOMXFtAAadlud1rklphC\">JonTheProducer</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By JonTheProducer",
-  "published_playlist_ids": [
-    "3nLRwtPCNrDqChh2HtzKxE"
-  ],
   "tracks": [
     {
       "album": {
@@ -306,6 +303,46 @@
     },
     {
       "album": {
+        "name": "El Negreeto",
+        "url": "https://open.spotify.com/album/5ab18n4CGysgcJDv3BJa1Z"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193165,
+      "name": "Como No (feat. Becky G)",
+      "url": "https://open.spotify.com/track/1CwRFMS5BYudsGXaY0k48M"
+    },
+    {
+      "album": {
+        "name": "Ox\u00edgeno",
+        "url": "https://open.spotify.com/album/113rLDIkvtuYW1I7uull04"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00fa",
+          "url": "https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175443,
+      "name": "Contradicci\u00f3n",
+      "url": "https://open.spotify.com/track/3R2FaLjO7IUkAgmXRwYRMa"
+    },
+    {
+      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -390,6 +427,32 @@
     },
     {
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Despi\u00e9rtate",
+      "url": "https://open.spotify.com/track/5MFCVmW6tnQfYEKmXyvgfH"
+    },
+    {
+      "album": {
         "name": "Reguet\u00f3n en Casa",
         "url": "https://open.spotify.com/album/7BOkdG3MOlq9JJlixTHinq"
       },
@@ -401,10 +464,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 145773,
       "name": "Despi\u00e9rtate - Reggaeton Ac\u00fastico",
       "url": "https://open.spotify.com/track/0wnghfFTH9fta0DaWPX225"
+    },
+    {
+      "album": {
+        "name": "Dimelo",
+        "url": "https://open.spotify.com/album/3GT5LrERXJXiIuFQiugj1l"
+      },
+      "artists": [
+        {
+          "name": "Mabryx",
+          "url": "https://open.spotify.com/artist/4E863xdB3I8Jc1GhYKgDyW"
+        },
+        {
+          "name": "Michael Angelo",
+          "url": "https://open.spotify.com/artist/3nXlGJi4ZuozaGgHY65dmd"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220571,
+      "name": "Dimelo",
+      "url": "https://open.spotify.com/track/37RaWikQctglBmNTrqH5mb"
     },
     {
       "album": {
@@ -435,6 +520,24 @@
       "duration_ms": 190973,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/2OWlM0rndaLjgtiLCHDIRM"
+    },
+    {
+      "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177515,
+      "name": "Doler\u00eda",
+      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
     },
     {
       "album": {
@@ -584,6 +687,24 @@
     },
     {
       "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132142,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/0fA6OOtT1uVcQblKjwJ6wm"
+    },
+    {
+      "album": {
         "name": "KOATI Original Soundtrack",
         "url": "https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb"
       },
@@ -693,6 +814,24 @@
       "duration_ms": 188227,
       "name": "La Cobra",
       "url": "https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO"
+    },
+    {
+      "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158708,
+      "name": "La Grosera",
+      "url": "https://open.spotify.com/track/2FM5hCiv6FE8b7d0KIjABb"
     },
     {
       "album": {
@@ -1121,6 +1260,24 @@
       "duration_ms": 162421,
       "name": "Ni\u00f1a de Mis Ojos",
       "url": "https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF"
+    },
+    {
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121145,
+      "name": "no eres tu(soy yo)",
+      "url": "https://open.spotify.com/track/6vOQUrwsokMFDQLbgRDhV8"
     },
     {
       "album": {
@@ -1584,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Testigos",
+        "url": "https://open.spotify.com/album/61oQCeDKkwtnnUIYSs6X5B"
+      },
+      "artists": [
+        {
+          "name": "Vida Abundante",
+          "url": "https://open.spotify.com/artist/6vwwprxTPQ4zrRm7I4I1mC"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323000,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/47fI0SEnE2jJZdGvQ62EZB"
+    },
+    {
+      "album": {
         "name": "Atl\u00e1ntico a Pie",
         "url": "https://open.spotify.com/album/3c1RJNoi4jd3hosC9lbZM3"
       },
@@ -1621,6 +1796,24 @@
       "duration_ms": 218600,
       "name": "Voy Que Quemo",
       "url": "https://open.spotify.com/track/68tXCWJ06ZEjplNEx3f4Mq"
+    },
+    {
+      "album": {
+        "name": "AGUILERA",
+        "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183009,
+      "name": "Ya Llegu\u00e9",
+      "url": "https://open.spotify.com/track/3D3Wcdtl05GD15NvwmyeQK"
     },
     {
       "album": {

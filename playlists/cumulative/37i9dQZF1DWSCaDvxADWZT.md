@@ -4,7 +4,7 @@
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-176 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/6NuDy1yqJIupGY1iTzbTeX)
+176 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,8 +155,8 @@
 | [The Galway Girl](https://open.spotify.com/track/1i92xro4lPLyjiOd3y2aqA) | [Sharon Shannon](https://open.spotify.com/artist/6gABJRqeRV4XW6T8vP9QEn), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [The Diamond Mountain Sessions](https://open.spotify.com/album/0TlKDECAhgxns4WLP9uAly) | 3:00 | 2022-03-11 |  |
 | [The Irish Rover \(feat\. The Dubliners\)](https://open.spotify.com/track/2bi81jmDAmBJ4LeVmfyaVG) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [Very Best of The Pogues](https://open.spotify.com/album/3wRRu2P6cndiyru88yCXnL) | 4:08 | 2021-03-17 |  |
 | [The Jolly Roving Tar](https://open.spotify.com/track/28GJQytbanlHUzcfAKScNS) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [Drunken Sailor](https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo) | 2:28 | 2022-03-11 |  |
-| [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2022-03-11 |  |
-| [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 | 2021-03-17 | 2022-07-29 |
+| [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2022-03-11 | 2022-11-28 |
+| [The Man Who Can't Be Moved](https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:01 | 2021-03-17 |  |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3IiMX7XqF9aLNnRlkHt4me) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Chill sur la plage : Beach ambiance](https://open.spotify.com/album/4EaOJiNzRb6tKStrOzvW7P) | 4:01 | 2022-03-11 | 2022-11-14 |
 | [The Night Pat Murphy Died](https://open.spotify.com/track/3gPgHc1d2PhLlZXDD362SA) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/0aDWCrEQxS7RH66v20qezy) | 3:04 | 2022-03-11 |  |
 | [The Parting Glass \(with Tommy Makem\)](https://open.spotify.com/track/5BdasEKX5aW3BKSgVK54EH) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz), [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Irish Drinking Songs](https://open.spotify.com/album/22g2ochq0A8wojUx2SPm13) | 2:11 | 2021-03-17 |  |

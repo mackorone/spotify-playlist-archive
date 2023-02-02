@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Enjoy the romantic side of Ani",
   "name": "Romantic Anirudh",
-  "published_playlist_ids": [
-    "5YNQ2e3G7ZrzH4pjNQpRcF"
-  ],
   "tracks": [
     {
       "album": {
@@ -67,7 +64,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 222693,
       "name": "Alladhe Siragiye",
       "url": "https://open.spotify.com/track/4bBvORgFl84qcZ1Q4LtMoN"
@@ -749,7 +746,7 @@
       ],
       "date_added": "2021-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 259594,
       "name": "Naana Thaana (From \"Thaanaa Serndha Koottam\")",
       "url": "https://open.spotify.com/track/5CzhbT0Ly1hcslbzAchwnx"

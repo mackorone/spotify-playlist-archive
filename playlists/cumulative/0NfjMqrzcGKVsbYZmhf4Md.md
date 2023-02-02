@@ -4,7 +4,7 @@
 
 > All songs about drinking, cheating, heartaches and everything else going on in a classic honky tonk.
 
-50 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/5RkCLhtAVDn9MrFX0hcTir)
+50 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

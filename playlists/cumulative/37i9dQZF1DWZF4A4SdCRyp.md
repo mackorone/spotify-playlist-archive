@@ -4,7 +4,7 @@
 
 > This is Jon Pardi\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/09F1DoGH65MwRmMfWk6LK6)
+58 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

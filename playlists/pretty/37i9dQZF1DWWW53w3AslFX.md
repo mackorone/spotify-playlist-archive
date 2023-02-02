@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,287 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,449 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 8 | [So Long](https://open.spotify.com/track/6l1ZT5WqVoK1YltrBpGJQ6) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [So Long](https://open.spotify.com/album/51xf4UGzqJfASaZZvbYk7C) | 3:21 |
 | 9 | [Freedom Is A State Of Mind](https://open.spotify.com/track/1WufMy5OU6l8I6O6BPcg0a) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0) | [We Are History](https://open.spotify.com/album/7mY67V7aDraUgOlSH9GaUs) | 4:03 |
 | 10 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 |
-| 11 | [OPEN SEA](https://open.spotify.com/track/3iZ63uiZXAVDZc0yo2tnr0) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [REMEMBER THE FUTURE](https://open.spotify.com/album/5xyWsAqswCJa5sF2Lm7h5T) | 4:30 |
+| 11 | [OPEN SEA](https://open.spotify.com/track/436dUUwBFNBUKhYKmLAUdl) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [REMEMBER THE FUTURE](https://open.spotify.com/album/1IB00taK9STT8kD9w8QkrJ) | 4:30 |
 | 12 | [Masseduction](https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:17 |
 | 13 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 |
 | 14 | [Min stad](https://open.spotify.com/track/1AHbCDFj5w7QWCfePQwCII) | [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R) | [Kvinnor och barn](https://open.spotify.com/album/5vvefHi9yyhwwyZhMsR1LZ) | 4:22 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 27 | [Gemini Feed](https://open.spotify.com/track/1je8teAQYtOnzG7c10MTw5) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Gemini Feed](https://open.spotify.com/album/08TBfp6GDtlh8W8m82yi6l) | 3:06 |
 | 28 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 |
 | 29 | [Hurt Me](https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:51 |
-| 30 | [RAPIN\*](https://open.spotify.com/track/0LV28Z8dSU1lAel1YJx7AY) | [Jenny Wilson](https://open.spotify.com/artist/3axEmcxTibioxD1rZi1IOB) | [RAPIN\*](https://open.spotify.com/album/5SrFOas4DlOLutsWlFNesD) | 3:24 |
+| 30 | [RAPIN\*](https://open.spotify.com/track/6txOeaEqHXFOa95uzXqGCF) | [Jenny Wilson](https://open.spotify.com/artist/3axEmcxTibioxD1rZi1IOB) | [EXORCISM](https://open.spotify.com/album/0zuqVz7ENCfgrCS4tDgVxW) | 3:24 |
 | 31 | [Somebody Special](https://open.spotify.com/track/2hI8UCINh2fK8Z0uIkntxF) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 3:20 |
 | 32 | [How Can I Move On](https://open.spotify.com/track/1RLMmRRd8q0qWYc4eTgHR6) | [Marlene Oak](https://open.spotify.com/artist/6lkyBHzdF3MZmPZNJb5UCV) | [Silver Moon](https://open.spotify.com/album/7I2LnG5b6sIBG3Ut5RswR1) | 3:28 |
 | 33 | [Nameless, Faceless](https://open.spotify.com/track/2AUzpScdGwIZplM9y8nkbx) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Nameless, Faceless](https://open.spotify.com/album/6Zq2H87KhAd6WGfeSxKHAG) | 3:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 46 | [Kärleken](https://open.spotify.com/track/4goFyzPnvZl0u9pdJbXZ2v) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [Kärleken](https://open.spotify.com/album/2c8FUMuFBFHLUJFYgfuMsP) | 4:07 |
 | 47 | [Tvivlar](https://open.spotify.com/track/2fAVaPKHBy0memUwP9GP9n) | [Donika Nimani](https://open.spotify.com/artist/4zUMIrBhG8wfW5g27vMlfC) | [We Were on a Break \(Precis som Ross & Rach\)](https://open.spotify.com/album/2FNcI42pduRrqraypdp937) | 3:08 |
 | 48 | [Shadows of Our Past](https://open.spotify.com/track/3F7YNZqMX5jfNaOxlHicFe) | [Firefox AK](https://open.spotify.com/artist/6E6yZfLJy9X62bwXFDlCcw) | [A New Shape](https://open.spotify.com/album/7kULTYllotBzdwvzdyTdyw) | 3:33 |
-| 49 | [Winterman](https://open.spotify.com/track/71wISWLeVQBqgZwh8JSIuA) | [Vaz](https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H) | [Necessary, Pt\. II](https://open.spotify.com/album/2B9gxZcpCkSpFFgdMX7ZbH) | 4:16 |
+| 49 | [Winterman](https://open.spotify.com/track/1fKbcZD1kAoPt9cVtfAjbf) | [Vaz](https://open.spotify.com/artist/6leoird3GiSVlnrFZ1T56H) | [Necessary, Pt\. II](https://open.spotify.com/album/0pRSaNNSnqJoyDTw5BI1H7) | 4:16 |
 | 50 | [Silvana](https://open.spotify.com/track/6O2N7tE7ivFrpyx4QNbdMS) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [Silvana](https://open.spotify.com/album/4XjErE5yed7xjgfCwZcezm) | 3:28 |
 | 51 | [Shut Up Kiss Me](https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm) | 3:22 |
 | 52 | [Mouth to Mouth](https://open.spotify.com/track/5KxKFdP10B76t6R2JGiLuG) | [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Mouth to Mouth](https://open.spotify.com/album/6M6ZXKXa6cbrdLJkgJudTY) | 3:29 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 78 | [TKO](https://open.spotify.com/track/7KCvbMfHeYrBzK1HrZQt0N) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [This Island](https://open.spotify.com/album/2FEvlkKxysgljyanzduLFe) | 3:24 |
 | 79 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 |
 | 80 | [Julian](https://open.spotify.com/track/14OaHFutbeEsrZHKFU6u5J) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Julian](https://open.spotify.com/album/1nWnYpb5kID77uEc1OViP0) | 3:45 |
-| 81 | [Under Stars](https://open.spotify.com/track/30W1d4YTsHE7BrMKVWHmEJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Under Stars](https://open.spotify.com/album/7i0BM1tVVFz4moEvse4gyb) | 3:19 |
-| 82 | [Back to Reality](https://open.spotify.com/track/1hOBDeJAnRyR6rfVXgNQtd) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [C0C0C0](https://open.spotify.com/album/5iTRb9dJLLhSeCuEQ7XRfk) | 3:39 |
+| 81 | [Under Stars](https://open.spotify.com/track/2OBQu3ZS3vRHuXWzC4jZFB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Under Stars](https://open.spotify.com/album/74T0gk8jtHXIKF2mbe3gXA) | 3:19 |
+| 82 | [Back to Reality](https://open.spotify.com/track/6hT6eYOuH1NFPEKAGgNUJ8) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [C0C0C0](https://open.spotify.com/album/6MRdDW0R4LkjiHINuq9sMA) | 3:39 |
 | 83 | [Döda mig](https://open.spotify.com/track/5SbeOc3hiLtjSdUCCHtAKW) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY), [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Döda mig](https://open.spotify.com/album/7mgF19LOCuYQ5EE8Bti0yv) | 3:33 |
-| 84 | [Girls](https://open.spotify.com/track/0Whht4DTOTuEmTxKEakY7H) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Die Another Day](https://open.spotify.com/album/3szjY405NzyqqNB4EUfxRq) | 3:03 |
+| 84 | [Girls](https://open.spotify.com/track/0MxBQqV3C815arNjQneuPp) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Die Another Day](https://open.spotify.com/album/0iRoxFYM88dGcdc1zVWo60) | 3:03 |
 | 85 | [Årstavikens strand](https://open.spotify.com/track/56d4NuZxjcm3gNyByWCImM) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/28HijYE8kCeXeQY7DXwRUS) | 4:44 |
 | 86 | [Baby No Name](https://open.spotify.com/track/5oYCY3xAQl7rBWEfqJf2Ly) | [Britta Persson](https://open.spotify.com/artist/1p3J6laThbGvAuz642q1O6) | [If I Was a Band My Name Would Be Forevers](https://open.spotify.com/album/262cPLTeWxmx2PkYJ9XAYu) | 3:17 |
 | 87 | [The Time Is Now](https://open.spotify.com/track/2sUyLVp9ICIMSeDkVcjkr4) | [Asha Ali](https://open.spotify.com/artist/5sy9u3A2zgs5DjuQ6F46nl) | [Hurricane](https://open.spotify.com/album/4eqAzyhFABzlc7T7SiDbzy) | 2:29 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 89 | [Old Beauty/Du Kan Nu Dö](https://open.spotify.com/track/4FJJq6FyEkdk6WZqQSKfMF) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing from the Grave](https://open.spotify.com/album/7sKxyjSSUkjq95jIR4oSiw) | 6:22 |
 | 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMGY0NzExNWJjMzI3NTU4M2VmY2VlNWY1YzliYmU4MGM1`
+Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMDA2MWJkYjExZWIwMjQ5MGY5OGM5NzY0YTViYjhiMjc4`

@@ -4,7 +4,7 @@
 
 > All the best soul disco sounds for getting down.
 
-120 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/4d56K0ojoUctLC4v8eczuD)
+120 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafKxB0kzl3A.md) - [plain]
 
 > International hitmaker, producer & DJ <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a> takes us through 2022 with his exclusive Spotify mix, featuring banger after banger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,395 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,051 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

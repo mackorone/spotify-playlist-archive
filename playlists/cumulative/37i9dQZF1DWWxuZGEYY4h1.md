@@ -4,7 +4,7 @@
 
 > All the essentials from this South African star.
 
-37 songs - 2 hr 50 min - [published](https://open.spotify.com/playlist/4qp6Mt5uBV7NJMkser1rz1)
+37 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

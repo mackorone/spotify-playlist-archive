@@ -4,7 +4,7 @@
 
 > Missa inte Daniel Adams\-Ray på Flamingo\-scenen på TORSDAG / 16.35
 
-10 songs - 39 min 16 sec - [published](https://open.spotify.com/playlist/7qb8sinZIMii4U9Lig0gc1)
+10 songs - 39 min 16 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

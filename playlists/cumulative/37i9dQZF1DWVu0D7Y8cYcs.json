@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Come on, man. Just smile!",
   "name": "Just Smile",
-  "published_playlist_ids": [
-    "7ARCrfEcAoPx57gahlhMW5"
-  ],
   "tracks": [
     {
       "album": {
@@ -187,7 +184,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-30",
       "duration_ms": 225384,
       "name": "Chance",
       "url": "https://open.spotify.com/track/5rCFLQB74RmHwiDe6YL7qx"
@@ -561,10 +558,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 189173,
+      "name": "It Must Be True Love",
+      "url": "https://open.spotify.com/track/1pZcY3kqDfEmJjrQ2CLP3B"
+    },
+    {
+      "album": {
+        "name": "Trojan Lovers Collection",
+        "url": "https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204706,
       "name": "It Must Be True Love",
-      "url": "https://open.spotify.com/track/1pZcY3kqDfEmJjrQ2CLP3B"
+      "url": "https://open.spotify.com/track/7HwXZSIKEqVEkVRarpUELt"
     },
     {
       "album": {
@@ -1351,7 +1366,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 214000,
       "name": "Ups And Downs",
       "url": "https://open.spotify.com/track/50XYu0huetyDixA0Nvv6S9"
@@ -1369,7 +1384,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 295333,
       "name": "Warm & Easy",
       "url": "https://open.spotify.com/track/2K02J8shfay33u49WhlaZg"
@@ -1507,7 +1522,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-08",
       "duration_ms": 208860,
       "name": "Woii",
       "url": "https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt"

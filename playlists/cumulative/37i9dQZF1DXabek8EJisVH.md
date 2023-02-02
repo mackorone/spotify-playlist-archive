@@ -4,7 +4,7 @@
 
 > Soothing ambient and Hang to gently focus the mind.
 
-96 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/45gpvPkFcJ345RLFnunX6G)
+96 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Aya](https://open.spotify.com/track/3Nn7evnh53trrJBA7AJgdr) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:30 | 2022-03-03 |  |
 | [Background Meditation Music](https://open.spotify.com/track/40wI78ctH6qH8LBw75yHeB) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [The Hang Drum Project](https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX) | [Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music](https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg) | 1:55 | 2022-03-03 |  |
 | [Barcelona Center](https://open.spotify.com/track/7uCplrMoNmNT5C1sma3aZA) | [Max Oro](https://open.spotify.com/artist/2CAPIFgnXtwUqLiGUjBrTL) | [Hang Drum Magic Sounds \- Hang Meditation](https://open.spotify.com/album/4CdAyO4TUZjEID6jiB8Nji) | 3:43 | 2022-03-03 |  |
-| [Be Holy](https://open.spotify.com/track/3uOEppFpfsXClSWeYoKt36) | [Drumkoon](https://open.spotify.com/artist/6X9HMvCAb5RiZhcwekJLNY) | [Holy Handpan](https://open.spotify.com/album/6ULFdNnafuvyojBgmEdwV8) | 2:15 | 2022-06-29 |  |
+| [Be Holy](https://open.spotify.com/track/3uOEppFpfsXClSWeYoKt36) | [Drumkoon](https://open.spotify.com/artist/6X9HMvCAb5RiZhcwekJLNY) | [Holy Handpan](https://open.spotify.com/album/6ULFdNnafuvyojBgmEdwV8) | 2:15 | 2022-06-29 | 2022-12-31 |
 | [Be Holy](https://open.spotify.com/track/2Kh81LoOytzS7KdApOoeHb) | [Drumkoon](https://open.spotify.com/artist/6X9HMvCAb5RiZhcwekJLNY) | [Handpan Greatest Hits Vol 2](https://open.spotify.com/album/45582ORVhMsABgWbXCHA46) | 2:15 | 2022-03-03 | 2022-07-29 |
 | [Bem\-Te\-Vi](https://open.spotify.com/track/00za85BhypeBW1cXkXzZDN) | [Luccas Martins](https://open.spotify.com/artist/3dIbeBrKevt2r1OARXGVXV) | [Voar Doce Lar \(Original Handpan Soundtrack For Contemporary Art Exhibition\)](https://open.spotify.com/album/3H4C5wfdqlFtwDPupdarNG) | 1:53 | 2022-09-08 |  |
 | [Bhakti Gita](https://open.spotify.com/track/4IT2BC9XfBic5lIhIA828Z) | [Masood Ali Khan](https://open.spotify.com/artist/30RWmDZkj7S1VSDzmPY6BY) | [The Yoga Sessions](https://open.spotify.com/album/7Lhowb40KkVa2g5TK3WNxG) | 8:17 | 2022-03-03 |  |
@@ -85,7 +85,7 @@
 | [Sabiá\-Da\-Praia](https://open.spotify.com/track/40OZD3lGLXaKwQSG2lCha0) | [Luccas Martins](https://open.spotify.com/artist/3dIbeBrKevt2r1OARXGVXV) | [Voar Doce Lar \(Original Handpan Soundtrack For Contemporary Art Exhibition\)](https://open.spotify.com/album/3H4C5wfdqlFtwDPupdarNG) | 2:52 | 2022-09-08 |  |
 | [Sense of Pleasure](https://open.spotify.com/track/4HcQNQSyeKObpGIA9toSkU) | [Hang Drum Massive](https://open.spotify.com/artist/3lpZeqTTNu13wr7duqX8zb) | [Great Bliss \(The Cosmic Sounds and Magical Dreamscape of Hangpan\)](https://open.spotify.com/album/6qZZyULSyPxsHChJMBIfAI) | 5:26 | 2022-03-03 |  |
 | [Singing Wok](https://open.spotify.com/track/4GGyBcaGhqR7PfXZOLp38g) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 2:46 | 2022-03-03 |  |
-| [Song of the Morning](https://open.spotify.com/track/4fqfpPg6umah8ZSgCJtXtT) | [Jeremy Arndt](https://open.spotify.com/artist/7KZzcubMLbaEJMPIHw9Q1T) | [Journeys: Handpan Solo](https://open.spotify.com/album/32VPq59sHG028ot4awVMUW) | 3:56 | 2022-03-03 |  |
+| [Song of the Morning](https://open.spotify.com/track/4fqfpPg6umah8ZSgCJtXtT) | [Jeremy Arndt](https://open.spotify.com/artist/7KZzcubMLbaEJMPIHw9Q1T) | [Journeys: Handpan Solo](https://open.spotify.com/album/32VPq59sHG028ot4awVMUW) | 3:56 | 2022-03-03 | 2022-12-31 |
 | [Spa Relaxation](https://open.spotify.com/track/61XlrBX0wIJNoTAzlNsCZx) | [Hang Drum Music](https://open.spotify.com/artist/6EYGpvp2j9oenkXCw3oJJO), [The Hang Drum Project](https://open.spotify.com/artist/0O1fF1CEBxcnf0vo9bVaGq), [Spa](https://open.spotify.com/artist/4LUYOHM73gVlfY5TzRbIgX) | [Hang Drum Relaxation Music For Spa, Massage, Sleep, Yoga, Meditation and Spa Music](https://open.spotify.com/album/2RWIlV0VSshZmDx7uozJzg) | 2:28 | 2022-03-03 |  |
 | [Spiritual Journey](https://open.spotify.com/track/1sBIlq2mIQCLVTiyp8RHIs) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:24 | 2022-03-03 |  |
 | [Stillness is Waiting](https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 2:38 | 2022-03-03 |  |
@@ -102,7 +102,7 @@
 | [Thingless Things](https://open.spotify.com/track/0yCUFoLB1BY4QnTHlzz2Xl) | [Hang Drum Massive](https://open.spotify.com/artist/3lpZeqTTNu13wr7duqX8zb) | [As It Is Once Agian](https://open.spotify.com/album/0CcIsCt2Uner6Cnw8aVXmC) | 6:14 | 2022-03-03 |  |
 | [Trancique Hang](https://open.spotify.com/track/7fy6IqmJwXNBy6cHbSim08) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Trancique Hang](https://open.spotify.com/album/4zMNHtQL7ooHTh2V1jwmGG) | 1:59 | 2022-09-08 |  |
 | [Under the Blue Sky](https://open.spotify.com/track/5LeobX1vuRcmKRU0tTRCj1) | [Hang Drum Pro](https://open.spotify.com/artist/6rWWiX7YUBhzjSN8HPpqon) | [\# Hang Drum: Relaxing Music with Nature Sounds for Meditation & Relaxation](https://open.spotify.com/album/7tsmkqxxW5bKf2Lt65DK6W) | 3:07 | 2022-03-03 |  |
-| [Whispering Creek](https://open.spotify.com/track/67X5pyBDjFjo2wvwcGHZiq) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [The Melody Within, Vol\. 1](https://open.spotify.com/album/06riU4SWaTMPHCfaL0ZvCB) | 8:01 | 2022-03-03 |  |
+| [Whispering Creek](https://open.spotify.com/track/67X5pyBDjFjo2wvwcGHZiq) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [The Melody Within, Vol\. 1](https://open.spotify.com/album/06riU4SWaTMPHCfaL0ZvCB) | 8:01 | 2022-03-03 | 2022-12-31 |
 | [Winds Of Hope](https://open.spotify.com/track/7Fk9G56CT7oAyqPRHCR54V) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:16 | 2022-03-03 |  |
 
 \*This playlist was first scraped on 2022-03-15. Prior content cannot be recovered.

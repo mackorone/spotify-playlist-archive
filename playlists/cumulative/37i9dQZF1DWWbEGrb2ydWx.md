@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-101 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/1ltNc3ZBZ5slAqB5oA5cdE)
+101 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Swerve \- Original](https://open.spotify.com/track/0pHHkGebNzudbTDi8iNn1N) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Swerve](https://open.spotify.com/album/3YS53BlC7sLJLh4cRC0GYV) | 5:58 | 2022-11-18 |  |
 | [The Click](https://open.spotify.com/track/32b1rOvVkump0ewcBsJgFu) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [The Click / Fallout](https://open.spotify.com/album/7d03UClkrbbMOsKAWpDkjh) | 6:22 | 2022-03-01 | 2022-10-19 |
 | [The Click](https://open.spotify.com/track/5exQy7sHiO0vdOXBUthIMr) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [The Click / Fallout](https://open.spotify.com/album/6ifRXj7GTmeghO5Bdf7mZ2) | 6:22 | 2022-03-01 | 2022-11-19 |
-| [The Omega](https://open.spotify.com/track/3e7i4ux1lbOJIWEAJxzNwj) | [Maestro](https://open.spotify.com/artist/36qY2GiiA6O32e7iWGlrqF) | [This Is Housupa](https://open.spotify.com/album/1gtfsGXrX0TCK6O6wGNzTf) | 5:56 | 2022-11-18 |  |
+| [The Omega](https://open.spotify.com/track/3e7i4ux1lbOJIWEAJxzNwj) | [Maestro UK](https://open.spotify.com/artist/3J95syHP0aZS2aHtKTauEi) | [This Is Housupa](https://open.spotify.com/album/1gtfsGXrX0TCK6O6wGNzTf) | 5:56 | 2022-11-18 |  |
 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 | 2022-03-01 | 2022-11-19 |
 | [The Way](https://open.spotify.com/track/319WGqfBViMHQZx8IS5bmv) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [The Way](https://open.spotify.com/album/2ZKbkTT2jeH8zvMapy8sTT) | 4:19 | 2022-03-01 | 2022-11-19 |
 | [This Is For You](https://open.spotify.com/track/2OevY7Yt9Lsb1V3WCbAgD7) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz), [Maurissa Rose](https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1) | [Wuddaji](https://open.spotify.com/album/3U3U9BOpEcgFHxcMuoR52Q) | 10:26 | 2022-03-01 | 2022-11-19 |

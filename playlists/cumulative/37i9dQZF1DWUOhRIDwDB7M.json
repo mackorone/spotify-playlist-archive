@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Positive and uplifting ambient instrumental tracks.",
   "name": "Rise",
-  "published_playlist_ids": [
-    "6fLxyccnSrhX5ogq1L5BVp"
-  ],
   "tracks": [
     {
       "album": {
@@ -1096,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/2W7g2RcbpDsH9cmmKsnlih"
+      },
+      "artists": [
+        {
+          "name": "Tehan Form",
+          "url": "https://open.spotify.com/artist/4x7h0jaU1U1n2jKWoNfPij"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/6XEh5HfvUIdJiyujQ3HnoT"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/5PGH5aOoMj8KC5JUX3eDYx"
       },
@@ -2181,8 +2196,8 @@
       },
       "artists": [
         {
-          "name": "Luca Sana",
-          "url": "https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA"
+          "name": "Tone Jacobs",
+          "url": "https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT"
         }
       ],
       "date_added": "2022-09-02",
@@ -3238,6 +3253,24 @@
     },
     {
       "album": {
+        "name": "Empathy",
+        "url": "https://open.spotify.com/album/3cJ5MRVonIt3dJ2KjYabwp"
+      },
+      "artists": [
+        {
+          "name": "Arush Mandal",
+          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209122,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/0WXhEn3IN5xTCSm6qWixEz"
+    },
+    {
+      "album": {
         "name": "Rearview Mirror",
         "url": "https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr"
       },
@@ -3945,8 +3978,8 @@
       },
       "artists": [
         {
-          "name": "Mo Fiera",
-          "url": "https://open.spotify.com/artist/3L536wLE8wGiLp3ttXomqz"
+          "name": "Gargantis",
+          "url": "https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz"
         }
       ],
       "date_added": "2022-11-11",

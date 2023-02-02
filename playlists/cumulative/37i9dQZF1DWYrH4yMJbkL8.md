@@ -4,7 +4,7 @@
 
 > A free space for Indigenous creators in Canada\. Currently curated by Laura Niquay.
 
-235 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/3SSsubeAfIHbsO9Jxcto5j)
+235 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Score your cocktail hour with eclectic jazz covers \- from Drake to Radiohead.
 
-25 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/6ABMhQsfWpPmoePmdcE17a)
+25 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

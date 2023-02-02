@@ -4,7 +4,7 @@
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/6LOCledbXe3ahQT3AL4ftS)
+63 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Caminos de la mente](https://open.spotify.com/track/3DCHL7XQLzhlygfCZ4NtUt) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 3:19 | 2022-06-04 | 2022-08-13 |
 | [Cerca del río](https://open.spotify.com/track/5mzjAGV0xeLAQj6fFQUrVO) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 5:02 | 2022-05-25 |  |
 | [Colores](https://open.spotify.com/track/4pciFlNvRhxBMYGCgYRZeT) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 8:08 | 2022-06-04 | 2022-10-05 |
-| [Con el diablo al lado](https://open.spotify.com/track/6ISRzeO8GUnds3fdZuiPUj) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:46 | 2022-05-25 | 2022-11-14 |
+| [Con el diablo al lado](https://open.spotify.com/track/6ISRzeO8GUnds3fdZuiPUj) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:46 | 2022-05-25 |  |
 | [Con tanto amor](https://open.spotify.com/track/3rFpPKZktSd0uvOdzEXyLv) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:46 | 2022-05-25 |  |
 | [Conquista](https://open.spotify.com/track/17sW761x3jqh4xrgGzVGbt) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG) | 4:25 | 2022-05-25 |  |
 | [Cuanto Heredamos](https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cuanto Heredamos](https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL) | 3:28 | 2022-05-25 |  |
@@ -48,7 +48,7 @@
 | [Laberinto interno](https://open.spotify.com/track/4W5AGY6yA6jQb8UiHQpJD0) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:53 | 2022-05-26 |  |
 | [Liberame](https://open.spotify.com/track/7BuIXkMWLEumdFEEKngFXK) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 4:10 | 2022-05-25 |  |
 | [Libre te hara](https://open.spotify.com/track/05FonB4ghTXAkpuogIzdhz) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 3:14 | 2022-05-25 |  |
-| [Lo importante](https://open.spotify.com/track/6aTyDIjOo0oP4zCWTvITBP) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:20 | 2022-08-05 |  |
+| [Lo importante](https://open.spotify.com/track/6aTyDIjOo0oP4zCWTvITBP) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:20 | 2022-08-05 | 2023-01-07 |
 | [Luces de la ciudad](https://open.spotify.com/track/3zznC4iFBLSBcPFg1R0Adk) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:18 | 2022-05-25 |  |
 | [Me levante](https://open.spotify.com/track/7bx8WLFijf42bIDJ7jJQy6) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:38 | 2022-09-26 | 2022-10-13 |
 | [Música consciente](https://open.spotify.com/track/5QDBaPPTjNuNwRrRA86Yi1) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 2:42 | 2022-05-25 |  |

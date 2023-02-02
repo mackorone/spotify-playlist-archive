@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-11",
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: toe",
   "name": "Math Rock",
-  "published_playlist_ids": [
-    "30AOiai6zS6TxM6b4PqLOP"
-  ],
   "tracks": [
     {
       "album": {
@@ -769,6 +766,24 @@
     {
       "album": {
         "name": "Medium Bastard",
+        "url": "https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY"
+      },
+      "artists": [
+        {
+          "name": "You Slut!",
+          "url": "https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "Fiftzeen",
+      "url": "https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn"
+    },
+    {
+      "album": {
+        "name": "Medium Bastard",
         "url": "https://open.spotify.com/album/6HppO1aQwoT69S9StRzBns"
       },
       "artists": [
@@ -779,7 +794,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 182920,
       "name": "Fifzteen",
       "url": "https://open.spotify.com/track/0rhPij0wU67nYjY94HJiJa"

@@ -4,12 +4,13 @@
 
 > The official playlist for Heartstopper\. Watch now on Netflix!
 
-42 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/0G1uVTUNlFPG93qLUAtTWg)
+43 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alaska \- Toby Green Remix](https://open.spotify.com/track/1S4z3fHfqPuIlWbx3fJAlp) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Alaska \(Toby Green Remix\)](https://open.spotify.com/album/2CLcLiU2Fz9Dh5jLSih1Ur) | 3:05 | 2022-05-02 |  |
-| [Angel](https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU) | 3:56 | 2022-05-02 |  |
+| [Angel](https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f) | 3:56 | 2022-05-02 |  |
+| [Angel](https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU) | 3:56 | 2022-05-02 | 2022-12-26 |
 | [Any Other Way](https://open.spotify.com/track/2O2A2kGaLJ3u2GQ4Gn4Lu3) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [At Weddings](https://open.spotify.com/album/3fNsNoodAejnATNg10sXgr) | 3:22 | 2022-05-02 |  |
 | [Bang Bang Bang](https://open.spotify.com/track/62Tbkc4dhrraGN9tWrlssr) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Bang Bang Bang](https://open.spotify.com/album/7CgGvRhJBdcQDrCqAXLlyJ) | 2:22 | 2022-05-02 |  |
 | [Because I Love You](https://open.spotify.com/track/6PLazKHpb8YMtGh1J2C5qe) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [Glorious Heights](https://open.spotify.com/album/6CRLOlHtioVtK0Q3oIBJpI) | 3:37 | 2022-05-02 |  |

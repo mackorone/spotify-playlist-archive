@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 
 > Explore the surreal world of Satie, from serene Gymnopédies, to gothic dances and poetic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,214 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,941 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 | 13 | [Trois morceaux en forme de poire: III\. Brutal](https://open.spotify.com/track/320QaNiCtAVdzgd6v1MNK1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jeroen van Veen](https://open.spotify.com/artist/7o7D77HMHvg1sAmtryKoVy), [Sandra van Veen](https://open.spotify.com/artist/5XJSsrzamG4lBDvjQBpFyZ) | [Satie: Complete Works for Piano Four Hands](https://open.spotify.com/album/7LfrJ8NvK6TRDHCWr7FXWt) | 3:10 |
 | 14 | [42 vexations](https://open.spotify.com/track/60qgoupfzVr4Bccw5U1DAe) | [Dom Pub](https://open.spotify.com/artist/1EGUefknrsBH81C1RpwLZj), [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Stephane Ginsburgh](https://open.spotify.com/artist/3OT9m4vPq1W6feUuCuaXzi) | [42 vexations \(1893\)](https://open.spotify.com/album/1mYoVr26pwQStGkehZw90l) | 1:09:30 |
 | 15 | [3 Sarabandes: Sarabande No\. 2](https://open.spotify.com/track/2jA82dPOdU1D05KKBd5qKu) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Nicolas Horvath](https://open.spotify.com/artist/6EyYsJlQEb3uHINVS5EIsB) | [Satie: Complete Piano Works, Vol\. 1](https://open.spotify.com/album/7oWEfIekrTZ9glRKyybdlv) | 4:04 |
-| 16 | [lll\. "Lent et grave"](https://open.spotify.com/track/38UZCBQxOhYecdqeXyQbd8) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Peter Dickinson](https://open.spotify.com/artist/2rKifrEG0KeKOqiKzh4nG6) | [French Piano and Choral Music](https://open.spotify.com/album/450awPFJQcqiSbgiuRyN2z) | 2:26 |
+| 16 | [Trois Gymnopédies: lll\. "Lent et grave"](https://open.spotify.com/track/3VHGrf79W67AG7mN6lqC5W) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Peter Dickinson](https://open.spotify.com/artist/2rKifrEG0KeKOqiKzh4nG6) | [Satie: Piano Music](https://open.spotify.com/album/3CmLsfOzUmgp4SlDFTDAA0) | 2:25 |
 | 17 | [Relâche: Final](https://open.spotify.com/track/2hulTWxRTnY11ECFPsQMQC) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 11:02 |
 | 18 | [Avant\-dernieres Pensees: I\. Idylle \- II Aubade \- III\. Meditation](https://open.spotify.com/track/6ZfP9Ye9uA1ftJnSnwqO1A) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Klara Kormendi](https://open.spotify.com/artist/5V2ay7vEghiqgb7NFFiPEZ) | [Satie: Piano Works, Vol\. 3](https://open.spotify.com/album/5aEuMjq9dlIyba38brYa4x) | 3:32 |
 | 19 | [Trois morceaux en forme de poire: En plus\. Calme](https://open.spotify.com/track/3XHHaqTK439BJyEaRMn80y) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jeroen van Veen](https://open.spotify.com/artist/7o7D77HMHvg1sAmtryKoVy), [Sandra van Veen](https://open.spotify.com/artist/5XJSsrzamG4lBDvjQBpFyZ) | [Satie: Complete Works for Piano Four Hands](https://open.spotify.com/album/7LfrJ8NvK6TRDHCWr7FXWt) | 2:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 | 59 | [Les 3 Valses Distinguees Du Precieux Degoute: Les 3 Valses Du Precieux Degoute](https://open.spotify.com/track/7gJaQo9GINV93i6hdTzx1q) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Klara Kormendi](https://open.spotify.com/artist/5V2ay7vEghiqgb7NFFiPEZ) | [Satie: Piano Works, Vol\. 3](https://open.spotify.com/album/5aEuMjq9dlIyba38brYa4x) | 3:55 |
 | 60 | [Gnossiennes: No\. 6](https://open.spotify.com/track/48uQVaVJbUnvKNE0dPQtIB) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Complete solo piano music](https://open.spotify.com/album/5HwlyJmJZgGjTaM1a8YENX) | 1:45 |
 
-Snapshot ID: `MTYzOTA3MDY4NiwwMDAwMDAwMGNiMjU1YzQzZjliYjhhZGFlN2QxMTlhNGQ4MDRlZjc4`
+Snapshot ID: `MTYzOTA3MDY4NiwwMDAwMDAwMDI4NzY1NmI5MGU3NjM3YjlkMjk2NDExYTAwYzZjNzVi`

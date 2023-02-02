@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "All the music from Netflix's La Casa de Papel/Money Heist.",
   "name": "La Casa de Papel Official Playlist",
-  "published_playlist_ids": [
-    "6k8Bo9IB5HrBOBHtxn9gtS"
-  ],
   "tracks": [
     {
       "album": {
@@ -459,6 +456,14 @@
         {
           "name": "Down Like Silver",
           "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
+        },
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        },
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
       "date_added": "2021-08-26",
@@ -1468,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "GLORIA FOREVER Il Tour",
+        "url": "https://open.spotify.com/album/6zYWcL99HKx07mzlNzS87E"
+      },
+      "artists": [
+        {
+          "name": "Umberto Tozzi",
+          "url": "https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245693,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/5Mtx78lRs3S62t6JaGqWPR"
+    },
+    {
+      "album": {
         "name": "Ti amo",
         "url": "https://open.spotify.com/album/0wX6lGqIoR0pE1vwJUVR29"
       },
@@ -1479,7 +1502,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 245693,
       "name": "Ti Amo",
       "url": "https://open.spotify.com/track/6GKuVYC3oC8xjnNmDZyPF0"
@@ -1675,7 +1698,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 223933,
       "name": "Why So Serious",
       "url": "https://open.spotify.com/track/6v48qTk0yzWneiNCS4T8co"
@@ -1697,6 +1720,24 @@
       "duration_ms": 227266,
       "name": "Why So Serious",
       "url": "https://open.spotify.com/track/3ouj5nHkyPXG1GV5fJmuiX"
+    },
+    {
+      "album": {
+        "name": "Mint",
+        "url": "https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "Why So Serious",
+      "url": "https://open.spotify.com/track/5X9pmlOsnQBAz90IL7IJYC"
     },
     {
       "album": {

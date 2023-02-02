@@ -4,7 +4,7 @@
 
 > Meditative tones for clarity and healing.
 
-81 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/1wcoY7hOzprWoSsRPIyjVD)
+81 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Tibetan Singing Bowls Meditation](https://open.spotify.com/track/3VFQy1WoVp5MhM0akyfHsT) | [Tibetan Bowls](https://open.spotify.com/artist/0G5m6OVzOTqmac2C5PIDHs) | [Tibetan Bowls](https://open.spotify.com/album/6jNAxr9kimOpVsFZAkLem1) | 3:52 | 2022-05-13 |  |
 | [Tonal Zen](https://open.spotify.com/track/5HSKS1psRlLt2pht1VR8tu) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Mind Relaxation](https://open.spotify.com/album/2qDLrNXs9eHZIQuyxOKqJF) | 3:06 | 2022-05-13 |  |
 | [Total Zen](https://open.spotify.com/track/7FcouZsGNhXqHaOy4RlkNz) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Total Zen](https://open.spotify.com/album/44RX9xPZeQxUf4MrpbbYn6) | 2:48 | 2022-05-13 |  |
-| [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [Sun Prayers](https://open.spotify.com/artist/5ooYkvBXhXVAVuoTQTTscC) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 | 2022-05-13 |  |
+| [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [SunOneSun](https://open.spotify.com/artist/7n3WTqnRXVk69eiHUgSLnq) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 | 2022-05-13 |  |
 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 | 2022-05-13 |  |
 | [Universal Energy Healing](https://open.spotify.com/track/08GAV65HlXdgVGIrA0JmGM) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5EJ6ANuXXrCXfvUs6QvfqS) | 3:24 | 2022-09-06 |  |
 | [Universal Energy Healing](https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u), [Meditación Chakra](https://open.spotify.com/artist/623eXZaRv6YsYpILhkDTtT) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5J4f7lqt7i7dl8cGgM4G2K) | 3:24 | 2022-05-13 | 2022-11-05 |

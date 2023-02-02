@@ -4,7 +4,7 @@
 
 > Meet the lineup of ULTRA KOREA, the best music festival boasting the world's top EDM DJ\. \(세계 최정상 EDM DJ를 자랑하는 최고의 음악 축제 ULTRA KOREA의 라인업을 만나보세요.\)
 
-52 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/5rTePWbhiuNAwoE97jsB5A)
+52 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

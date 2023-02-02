@@ -4,7 +4,7 @@
 
 > Big rave tunes from Calvin's very own Love Regenerator project and many more house and techno belters.
 
-43 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/39vvlAtNZW72V2tIIe9nsm)
+43 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

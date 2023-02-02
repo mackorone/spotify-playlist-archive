@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The early pioneers and current favorites in Southern Rock.  Cover:  The Godfather...Charlie Daniels.",
-  "name": "Southern Rock 101",
-  "published_playlist_ids": [
-    "32m0kp3VU59LLfn7Ms9ksX"
-  ],
+  "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
+  "name": "Southern Rock",
   "tracks": [
     {
       "album": {
@@ -455,6 +452,24 @@
       "duration_ms": 210426,
       "name": "Country Side Of Life",
       "url": "https://open.spotify.com/track/2qQusZC1YyZSLzhkffY9IG"
+    },
+    {
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/0HEuFHATf4xNesfim5EwMr"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214680,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0F4sQ4O7wIHfw6kp1e4Sfi"
     },
     {
       "album": {
@@ -973,7 +988,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 351626,
       "name": "Hot 'Lanta - Live At The Final Fillmore East Concert, 1971",
       "url": "https://open.spotify.com/track/2RC8MNbpvyunKFvsU7ANNB"
@@ -995,6 +1010,24 @@
       "duration_ms": 351626,
       "name": "Hot 'Lanta - Live At The Final Fillmore East Concert/1971",
       "url": "https://open.spotify.com/track/1qjCRpe9oa234eQ0O5QnmP"
+    },
+    {
+      "album": {
+        "name": "I Got Your Country Right Here",
+        "url": "https://open.spotify.com/album/0zucVZLdGmH0opcSZ6aE4q"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195640,
+      "name": "I Got Your Country Right Here",
+      "url": "https://open.spotify.com/track/1UcMIxpMsQEVU4YnURWmzG"
     },
     {
       "album": {
@@ -1027,7 +1060,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 207973,
       "name": "I Know A Little",
       "url": "https://open.spotify.com/track/2vLhb34HqnPwNCKx0atimx"
@@ -1268,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
+    },
+    {
+      "album": {
         "name": "Strikes",
         "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
       },
@@ -1423,7 +1474,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 256880,
       "name": "Mind Bender",
       "url": "https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC"
@@ -1477,7 +1528,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 328466,
       "name": "On The Hunt",
       "url": "https://open.spotify.com/track/2e6qroe20tHfu8aTQSTglt"
@@ -1531,7 +1582,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 296146,
       "name": "One Way Out - Live At The Final Fillmore East Concert, 1971",
       "url": "https://open.spotify.com/track/3q7em8kVHiHpZbKQuVYwFQ"
@@ -1783,7 +1834,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 309666,
       "name": "Saturday Night Special",
       "url": "https://open.spotify.com/track/0ZQmpf5gk4k5VMopcAtyAc"
@@ -1837,7 +1888,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 232013,
       "name": "See You One More Time",
       "url": "https://open.spotify.com/track/0RyXzD324olLudPBJWvmSf"
@@ -1963,7 +2014,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 310693,
       "name": "Southbound",
       "url": "https://open.spotify.com/track/4Um5JeJZ4GeRb8JVjuRdH9"
@@ -2017,7 +2068,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 259444,
       "name": "Statesboro Blues - Live At Fillmore East, March 13, 1971",
       "url": "https://open.spotify.com/track/1BnfAYVesByA18sA9EAGiI"
@@ -2143,7 +2194,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 348240,
       "name": "That Smell",
       "url": "https://open.spotify.com/track/52DKGPMQ21DauCR19pQ0BK"
@@ -2399,7 +2450,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 227751,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
@@ -2460,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "I Got Your Country Right Here",
+        "url": "https://open.spotify.com/album/0zucVZLdGmH0opcSZ6aE4q"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211426,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/2PAD6vBzSjxDnmm3WB8eI9"
+    },
+    {
+      "album": {
         "name": "Potlatch",
         "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
       },
@@ -2478,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124866,
+      "name": "When Will I Be Loved",
+      "url": "https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5"
+    },
+    {
+      "album": {
         "name": "The Allman Brothers Band (Deluxe)",
         "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
       },
@@ -2489,7 +2576,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 317438,
       "name": "Whipping Post",
       "url": "https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY"
@@ -2511,6 +2598,24 @@
       "duration_ms": 174573,
       "name": "Willin'",
       "url": "https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9"
+    },
+    {
+      "album": {
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224026,
+      "name": "You're No Good",
+      "url": "https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbDjX0hus3Iu"

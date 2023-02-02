@@ -4,7 +4,7 @@
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-131 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/4rcVJdftMBLNicfMZ5tILR)
+131 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Face It Alone](https://open.spotify.com/track/1b0sraww5e2cubW3K90kwf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/3CY1m3w0rn3MEiYrDEpiAv) | 4:07 | 2022-10-14 |  |
 | [Feelin' Stronger Every Day \- 2002 Remaster](https://open.spotify.com/track/3hfqqSWS52Vucr4S0mLqUN) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago VI \(Expanded & Remastered\)](https://open.spotify.com/album/1GFLP3fsozSH4uBKA4oDYM) | 4:14 | 2022-03-04 | 2022-07-28 |
 | [Flame Trees \- 2011 Remastered](https://open.spotify.com/track/5qBmTXgCdtvCqKc9yrLoWg) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [Twentieth Century](https://open.spotify.com/album/43kr4D7peDZ128pt5im3cr) | 4:24 | 2022-03-14 | 2022-04-21 |
-| [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 | 2022-03-04 | 2022-11-24 |
+| [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 | 2022-03-04 | 2022-12-13 |
 | [For A Dancer](https://open.spotify.com/track/6P19kmg1U7zi5ufiSz4rDh) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Very Best Of Jackson Browne \(US & International Release\)](https://open.spotify.com/album/5wAuVTVt4mrXRJDQLPPpPa) | 4:47 | 2014-01-07 | 2022-04-14 |
 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 | 2014-01-07 |  |
 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 | 2022-03-31 |  |
@@ -107,7 +107,7 @@
 | [Roll with the Changes](https://open.spotify.com/track/16x9viSmRS3PII71Pdeowc) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [You Can Tune a Piano, But You Can't Tuna Fish](https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx) | 5:35 | 2022-06-15 | 2022-07-29 |
 | [Romeo's Tune](https://open.spotify.com/track/6eCWvDQXTITW534IANR5n1) | [Steve Forbert](https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty) | [The Best of Steve Forbert: What Kinda Guy?](https://open.spotify.com/album/6MDxxE3rPApEFg1uADJvmw) | 3:32 | 2014-01-07 | 2022-07-29 |
 | [Runnin' Down A Dream](https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:52 | 2022-03-04 | 2022-07-29 |
-| [Running on Empty](https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty / Nothing but Time \(Digital 45\)](https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL) | 4:51 | 2022-03-04 | 2022-11-04 |
+| [Running on Empty](https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty / Nothing but Time \(Digital 45\)](https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL) | 4:51 | 2022-03-04 |  |
 | [Running on Empty](https://open.spotify.com/track/4MZEZz8MqVgvIMXU6AVP22) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty](https://open.spotify.com/album/4VqLII6oqVpCj5HjwKKwX9) | 4:58 | 2014-01-07 | 2022-07-29 |
 | [Same Old Song and Dance](https://open.spotify.com/track/2ATTIE0sKIXysApJPlR3sB) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/6ts9DsFiEy3H9yIYiggLdq) | 3:53 | 2022-03-04 | 2022-04-18 |
 | [Saturday in the Park \- 2002 Remaster](https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago V \(Expanded & Remastered\)](https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8) | 3:55 | 2022-03-04 | 2022-07-29 |
@@ -117,7 +117,7 @@
 | [Some Kind Of Wonderful \- Remastered 1999](https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [30 Years Of Funk: 1969\-1999 The Anthology](https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm) | 3:22 | 2022-03-31 |  |
 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 | 2022-03-14 |  |
 | [Statesboro Blues](https://open.spotify.com/track/3NMUSNds2Xuiim7lXiu8s7) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The Fillmore Concerts](https://open.spotify.com/album/6yFLnehFuHxBUcjPuYfgDm) | 4:17 | 2014-01-07 | 2022-04-21 |
-| [Stay with Me](https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:39 | 2022-03-31 |  |
+| [Stay with Me](https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:39 | 2022-03-31 | 2023-02-01 |
 | [Stone in Love](https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:25 | 2022-03-04 | 2022-11-22 |
 | [Strutter](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 | 2022-03-04 | 2022-04-21 |
 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/3vhJw6V39Gh1PpEMHjiMFO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 3:31 | 2014-01-07 |  |

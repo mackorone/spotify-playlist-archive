@@ -1,29 +1,13 @@
 {
   "description": "Un viaje musical por nuestras ra\u00edces prehisp\u00e1nicas. ",
-  "num_followers": 3318,
+  "num_followers": 3925,
   "original_name": "Pueblos Ind\u00edgenas: Legado Musical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTIzMDIyOCwwMDAwMDAwMDUwYzJkMThmZGM1OTQxNzAxMmEyNDBjOTIyZjg5NjYy",
+  "snapshot_id": "MTYzMTIzMDIyOCwwMDAwMDAwMGJjZDAwZjI1N2RjMjUxMWVhZjFhNzY0MjJkNjc1YjVi",
   "tracks": [
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "13 Baktun",
-        "url": "https://open.spotify.com/album/1Q8CDRMwu9GCWfsvbRMb2G"
-      },
-      "artists": [
-        {
-          "name": "Sones de Mexico Ensemble",
-          "url": "https://open.spotify.com/artist/5lxgKqVd4v6cu4WiE3NWJF"
-        }
-      ],
-      "duration_ms": 161796,
-      "name": "Xochipitzahuatl",
-      "url": "https://open.spotify.com/track/6rVy3D7PEXq4rhLLwbx0i1"
-    },
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
@@ -59,18 +43,18 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
-        "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
+        "name": "13 Baktun",
+        "url": "https://open.spotify.com/album/1Q8CDRMwu9GCWfsvbRMb2G"
       },
       "artists": [
         {
-          "name": "El Pr\u00edncipe Azteca",
-          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+          "name": "Sones de Mexico Ensemble",
+          "url": "https://open.spotify.com/artist/5lxgKqVd4v6cu4WiE3NWJF"
         }
       ],
-      "duration_ms": 68266,
-      "name": "Flauta Azteca-Teponaztli - Cascabeles y Sonajas",
-      "url": "https://open.spotify.com/track/4IHCFpAEZnjoMSX3O7JhrW"
+      "duration_ms": 161796,
+      "name": "Xochipitzahuatl",
+      "url": "https://open.spotify.com/track/6rVy3D7PEXq4rhLLwbx0i1"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -91,18 +75,18 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "M\u00fasica Prehisp\u00e1nica",
-        "url": "https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z"
+        "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
+        "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
       },
       "artists": [
         {
-          "name": "Jorge Reyes",
-          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
         }
       ],
-      "duration_ms": 165773,
-      "name": "The New Fire",
-      "url": "https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z"
+      "duration_ms": 68266,
+      "name": "Flauta Azteca-Teponaztli - Cascabeles y Sonajas",
+      "url": "https://open.spotify.com/track/4IHCFpAEZnjoMSX3O7JhrW"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -119,6 +103,22 @@
       "duration_ms": 137173,
       "name": "Venadito Azul",
       "url": "https://open.spotify.com/track/67V2u9yDO1PDFjbDC0QVVV"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "M\u00fasica Prehisp\u00e1nica",
+        "url": "https://open.spotify.com/album/3L77fvfVOeXewbthEeBA6Z"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "The New Fire",
+      "url": "https://open.spotify.com/track/0lKCvq7aFDYWU61XdATG3Z"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -171,54 +171,6 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Toro Pinto: M\u00fasica Pur\u00e9pecha (Abaje\u00f1os / Pir\u00e9kuas / Sones)",
-        "url": "https://open.spotify.com/album/1k66pcKIunyfB7Zm0sHECs"
-      },
-      "artists": [
-        {
-          "name": "Banda Revelaci\u00f3n de San Andr\u00e9s Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/475iX46VDB5Nit0lf1hPZk"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "California Nipaia Nipaia - Adi\u00f3s California",
-      "url": "https://open.spotify.com/track/4BEgsilbLDzmUHTdagzjpv"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "Aztec Dances",
-        "url": "https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd"
-      },
-      "artists": [
-        {
-          "name": "Xavier Quijas Yxayotl",
-          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Copal Offering To The Four Directions",
-      "url": "https://open.spotify.com/track/5iH1bBa3WRWuVeMvn0jR2M"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "The Flayed God",
-        "url": "https://open.spotify.com/album/36hOL8R8t9sKSz64pQ9qxK"
-      },
-      "artists": [
-        {
-          "name": "Jorge Reyes",
-          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "Danza Del Tambor",
-      "url": "https://open.spotify.com/track/5aUsfU1EVSDQEBaoXjHNhK"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
         "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
         "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
       },
@@ -235,18 +187,34 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
-        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+        "name": "Mayan Ancestral Music - Healing Music for Mother Earth",
+        "url": "https://open.spotify.com/album/6YpTpAN3KbWcbR5YpQA4Hq"
       },
       "artists": [
         {
-          "name": "Banda Laser",
-          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+          "name": "Xavier Quijas Yxayotl",
+          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
         }
       ],
-      "duration_ms": 217320,
-      "name": "Male Chabelita",
-      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
+      "duration_ms": 412666,
+      "name": "Birth Song for Quetzalcoatl",
+      "url": "https://open.spotify.com/track/0xgWLuVQAYsBIvyH0HLACj"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Toro Pinto: M\u00fasica Pur\u00e9pecha (Abaje\u00f1os / Pir\u00e9kuas / Sones)",
+        "url": "https://open.spotify.com/album/1k66pcKIunyfB7Zm0sHECs"
+      },
+      "artists": [
+        {
+          "name": "Banda Revelaci\u00f3n de San Andr\u00e9s Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/475iX46VDB5Nit0lf1hPZk"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "California Nipaia Nipaia - Adi\u00f3s California",
+      "url": "https://open.spotify.com/track/4BEgsilbLDzmUHTdagzjpv"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -287,6 +255,38 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
+        "name": "The Flayed God",
+        "url": "https://open.spotify.com/album/36hOL8R8t9sKSz64pQ9qxK"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Danza Del Tambor",
+      "url": "https://open.spotify.com/track/5aUsfU1EVSDQEBaoXjHNhK"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Male Chabelita",
+      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
         "name": "Xochipitzahua / Flor Menudita (A Guitarra y Zampo\u00f1a Desde Casa)",
         "url": "https://open.spotify.com/album/4lnCOgwtCf98BetdUh3DeP"
       },
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
+        "name": "Cantos y Danzas",
+        "url": "https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq"
+      },
+      "artists": [
+        {
+          "name": "El Pr\u00edncipe Azteca",
+          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Ritual Consagrado a los Dioses",
+      "url": "https://open.spotify.com/track/5nA2Us56gdVsctPVi9k5nB"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
         "name": "Chiapas",
         "url": "https://open.spotify.com/album/2zGxrCmiEv2mCfGFRkDH1g"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 88293,
       "name": "Chumeltic",
       "url": "https://open.spotify.com/track/14QgWzTRoEyXSuvyFHVomT"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "Mayan Ancestral Music - Healing Music for Mother Earth",
-        "url": "https://open.spotify.com/album/6YpTpAN3KbWcbR5YpQA4Hq"
-      },
-      "artists": [
-        {
-          "name": "Xavier Quijas Yxayotl",
-          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
-        }
-      ],
-      "duration_ms": 412666,
-      "name": "Birth Song for Quetzalcoatl",
-      "url": "https://open.spotify.com/track/0xgWLuVQAYsBIvyH0HLACj"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -367,34 +367,18 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Cantos y Danzas",
-        "url": "https://open.spotify.com/album/2fokIKH6nDT0LM4pAkXyUq"
+        "name": "Aztec Dances",
+        "url": "https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd"
       },
       "artists": [
         {
-          "name": "El Pr\u00edncipe Azteca",
-          "url": "https://open.spotify.com/artist/6wr8B5UuGH1jEZTUHAY4ca"
+          "name": "Xavier Quijas Yxayotl",
+          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
         }
       ],
-      "duration_ms": 155200,
-      "name": "Ritual Consagrado a los Dioses",
-      "url": "https://open.spotify.com/track/5nA2Us56gdVsctPVi9k5nB"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "Rituales Prehispanicos (Prehispanic Rituals)[Mexican Music]",
-        "url": "https://open.spotify.com/album/4UZi4TB1686JKiKdoegwhY"
-      },
-      "artists": [
-        {
-          "name": "Jorge Reyes",
-          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Tlazolteotl",
-      "url": "https://open.spotify.com/track/5PyRkSx7BtEgUwhn7Ty2DX"
+      "duration_ms": 283906,
+      "name": "Copal Offering To The Four Directions",
+      "url": "https://open.spotify.com/track/5iH1bBa3WRWuVeMvn0jR2M"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -411,6 +395,22 @@
       "duration_ms": 137133,
       "name": "Adoraci\u00f3n al Sol",
       "url": "https://open.spotify.com/track/1OcgHJbbOBEUnClHaIcTjf"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Rituales Prehispanicos (Prehispanic Rituals)[Mexican Music]",
+        "url": "https://open.spotify.com/album/4UZi4TB1686JKiKdoegwhY"
+      },
+      "artists": [
+        {
+          "name": "Jorge Reyes",
+          "url": "https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Tlazolteotl",
+      "url": "https://open.spotify.com/track/5PyRkSx7BtEgUwhn7Ty2DX"
     },
     {
       "added_at": "2021-09-09 23:30:28",

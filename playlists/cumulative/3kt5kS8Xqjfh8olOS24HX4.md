@@ -4,7 +4,7 @@
 
 > Get your sparklers out for this patriotic blend of folk, pop, and Americana.
 
-35 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/1FSfMLgSZMui51P3Urplns)
+35 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

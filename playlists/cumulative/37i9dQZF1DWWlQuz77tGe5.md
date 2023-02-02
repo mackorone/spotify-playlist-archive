@@ -4,7 +4,7 @@
 
 > This Icelandic indie\-folk group has established a global fan base.
 
-26 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/2bNWcZWp4aCwrZts8S4LML)
+26 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

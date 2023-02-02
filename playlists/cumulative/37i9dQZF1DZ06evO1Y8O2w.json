@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
   "name": "This Is Phyllis Hyman",
-  "published_playlist_ids": [
-    "1qWKcFnGWK5ylu3NU6p4us"
-  ],
   "tracks": [
     {
       "album": {
@@ -63,7 +60,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": "2022-12-21",
       "duration_ms": 231413,
       "name": "Baby (I'm Gonna Love You) - 7\" Version",
       "url": "https://open.spotify.com/track/5TnLtfz0X6Z1Sou7UiJrWJ"
@@ -164,6 +161,32 @@
     },
     {
       "album": {
+        "name": "Swing Street",
+        "url": "https://open.spotify.com/album/402g6pypGOQN7AniaMpY1v"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        },
+        {
+          "name": "Tom Scott",
+          "url": "https://open.spotify.com/artist/72ktMty33X1LsIzHdRr0U5"
+        },
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Black And Blue (with Phyllis Hyman feat. Tom Scott) - Digitally Remastered: 1996",
+      "url": "https://open.spotify.com/track/18HuoV25f636YINxzO5p53"
+    },
+    {
+      "album": {
         "name": "You Know How to Love Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
       },
@@ -175,7 +198,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 184400,
       "name": "But I Love You",
       "url": "https://open.spotify.com/track/0ZyE4cTb4IRlMI3iwMoT8E"
@@ -1049,7 +1072,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 260186,
       "name": "Set a Little Trap",
       "url": "https://open.spotify.com/track/35f3pH2ABjxmVpvqBYZ8kU"
@@ -1157,7 +1180,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 266293,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/3yNsxa2HKOrEwov5Ygk5Jt"

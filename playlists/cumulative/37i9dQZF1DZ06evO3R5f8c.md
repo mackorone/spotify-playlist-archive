@@ -4,7 +4,7 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-76 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
+76 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

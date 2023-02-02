@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-164 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/46D1kuTc3MCeOAm8azvkgm)
+164 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

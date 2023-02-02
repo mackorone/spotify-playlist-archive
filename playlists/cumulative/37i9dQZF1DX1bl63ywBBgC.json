@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
   "name": "\u00a1A Limpiar con Ritmo!",
-  "published_playlist_ids": [
-    "5k29oxOKnG3oi1X4Hhvzpq"
-  ],
   "tracks": [
     {
       "album": {
@@ -197,7 +194,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 352440,
       "name": "Amor y Control",
       "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
@@ -339,6 +336,24 @@
     {
       "album": {
         "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
+    },
+    {
+      "album": {
+        "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
       "artists": [
@@ -367,7 +382,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 257079,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/5DAcQYhc2MurNpTHtX8kZ3"
@@ -689,7 +704,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 200346,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
@@ -711,7 +726,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200586,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/4PHX6bpHDxiR9RGzAKWcyk"
@@ -791,7 +806,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 195800,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor (En Vivo) (feat. Rub\u00e9n Albarr\u00e1n)",
       "url": "https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC"
@@ -1238,6 +1253,32 @@
     },
     {
       "album": {
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 334080,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
       },
@@ -1285,7 +1326,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 289802,
       "name": "Las Amo a Las Dos",
       "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
@@ -1347,6 +1388,24 @@
       "duration_ms": 225140,
       "name": "Lloraras - Edit",
       "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
+    },
+    {
+      "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "album": {
@@ -1581,7 +1640,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 331306,
       "name": "No Podras Escapar De Mi",
       "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
@@ -1653,7 +1712,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 224826,
       "name": "Pa' Bravo Yo",
       "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
@@ -2097,7 +2156,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 247626,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1kM1BcO9nbQJtPhcbL2WU5"
@@ -2235,7 +2294,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 267706,
       "name": "Te Compro Tu Novia",
       "url": "https://open.spotify.com/track/5DrdMZSiRKOVQszXln9VMO"

@@ -4,7 +4,7 @@
 
 > The latest pop songs that are totally cry worthy.
 
-147 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/7M6I5jHP2Edul6Yanc4DUw)
+147 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

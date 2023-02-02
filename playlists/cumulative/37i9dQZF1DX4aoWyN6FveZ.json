@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
   "name": "Ravie B's Taste",
-  "published_playlist_ids": [
-    "0PgosEKBvTjjY0HGi0EUCW"
-  ],
   "tracks": [
     {
       "album": {
@@ -321,7 +318,7 @@
     {
       "album": {
         "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
       "artists": [
         {
@@ -332,6 +329,24 @@
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 166642,
+      "name": "emiliana",
+      "url": "https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv"
+    },
+    {
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
       "duration_ms": 166642,
       "name": "emiliana",
       "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
@@ -425,7 +440,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 231453,
       "name": "Get Up 10",
       "url": "https://open.spotify.com/track/7p2ewixAShLpjDZrnzZK7c"
@@ -469,6 +484,24 @@
       "duration_ms": 451826,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
+    },
+    {
+      "album": {
+        "name": "Actual Life 2 (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196796,
+      "name": "Hannah (the sun)",
+      "url": "https://open.spotify.com/track/4AGwu2Zn3sYmR2s2y3vfft"
     },
     {
       "album": {
@@ -571,6 +604,28 @@
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388226,
+      "name": "Last Night (feat. Keyshia Cole)",
+      "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
     },
     {
       "album": {
@@ -979,7 +1034,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
@@ -1037,7 +1092,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 199019,
       "name": "Wanna Know Remix (feat. Drake)",
       "url": "https://open.spotify.com/track/7bPLo5Fv7h15E2fW3g1mVQ"

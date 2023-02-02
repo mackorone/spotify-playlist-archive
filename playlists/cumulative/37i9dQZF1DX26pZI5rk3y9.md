@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX26pZI5rk3y9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX26pZI5rk3y9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX26pZI5rk3y9)
 
-### [BBQ Blues](https://open.spotify.com/playlist/37i9dQZF1DX26pZI5rk3y9)
+### [Blues BBQ](https://open.spotify.com/playlist/37i9dQZF1DX26pZI5rk3y9)
 
 > Classic music for cooking and eating with friends.
 
-92 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/3uJsjEzjcEqBc4z4TXxjVT)
+92 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Baby Scratch My Back \- Single Version](https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:53 | 2022-05-25 |  |
 | [Baby What You Want Me to Do](https://open.spotify.com/track/4vSYWhfcmqeQpwpGMaRKh7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:18 | 2022-07-01 |  |
 | [Back Water Blues](https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [The Soul Queen Of New Orleans: 50th Anniversary Celebration](https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs) | 3:30 | 2022-05-25 |  |
-| [Bacon Fat \- Remastered](https://open.spotify.com/track/7sDtdfJeneSVNyx8Gm1N6M) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:04 | 2022-05-25 | 2022-11-13 |
+| [Bacon Fat \- Remastered](https://open.spotify.com/track/7sDtdfJeneSVNyx8Gm1N6M) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:04 | 2022-05-25 | 2023-01-23 |
 | [Barbecue Any Old Time](https://open.spotify.com/track/4IUtUHmpRJXQo8jfem5fON) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Greatest Country Blues](https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B) | 2:48 | 2022-05-25 |  |
 | [Barbecue Blues](https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m) | [Barbecue Bob](https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ) | [Barbecue Bob Vol\. 1 \(1927 \- 1928\)](https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31) | 3:12 | 2022-05-25 |  |
 | [Barbecue Blues](https://open.spotify.com/track/6PsX6nmpsOFR0jjLyEzmPZ) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Lucille Bogan \(Bessie Jackson\) Vol\. 3 \(1934\-1935\)](https://open.spotify.com/album/4BrGdafBB8CAnhsAtDbs0i) | 2:42 | 2022-05-25 |  |

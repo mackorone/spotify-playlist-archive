@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,231 likes - 116 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,930 likes - 116 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f9U3gq0DBT.md) - [plain]
 | 88 | [Ocean Glow](https://open.spotify.com/track/0VEfKc8Hi0ATp7vQ7cpoLY) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Ocean Escape](https://open.spotify.com/album/2ejB5Om23BjIfUnhuSeL5u) | 3:00 |
 | 89 | [Beach Waves](https://open.spotify.com/track/3BfSxrAh4GX28WFd9d9Ujc) | [The Wave Sleep Machine](https://open.spotify.com/artist/49kfCzRL9oEVuOOfuFI4nu) | [The Wave Sleep Machine](https://open.spotify.com/album/7iicR5jDirO7didbpr2O8O) | 3:31 |
 | 90 | [Finding Inner Peace Close to the Edge of the Sea](https://open.spotify.com/track/3OFBUO81026zPhA8b88MLB) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Contemplation by the Sea](https://open.spotify.com/album/0YLBgediglomrRmXQFsX3a) | 5:27 |
-| 91 | [Oceania](https://open.spotify.com/track/2XBXsgTZ1AaEGLMATQCDvq) | [Strand](https://open.spotify.com/artist/5EXTU53qs6CxaNLqVVSQSN) | [Oceania](https://open.spotify.com/album/5YRA7lTQ1rPmqNxzxwMapz) | 3:03 |
+| 91 | [Oceania](https://open.spotify.com/track/2XBXsgTZ1AaEGLMATQCDvq) | [Strand](https://open.spotify.com/artist/33ba5zUhmCywWnxQmJRQww) | [Oceania](https://open.spotify.com/album/5YRA7lTQ1rPmqNxzxwMapz) | 3:03 |
 | 92 | [Gettin’ Into The Water](https://open.spotify.com/track/5HrEAUfoYBzRAcIBm20vAP) | [Sundays By The Ocean](https://open.spotify.com/artist/0zZl9VsforOKto9vF8ufLg) | [Volume One](https://open.spotify.com/album/1w2TodavMoCOgcJXqWOWRV) | 2:26 |
 | 93 | [Thai Beach Chill \- Waves](https://open.spotify.com/track/3GRvbmUuO1ePIlQcl9xYwH) | [Dozy FX](https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK) | [Thai Beach Chill](https://open.spotify.com/album/7x8gFJ5nkJS1mf5chINJ7O) | 2:59 |
 | 94 | [Waves Loopable](https://open.spotify.com/track/6ZaZGu92O4dOVFtSbF7FrU) | [Sleep Tight](https://open.spotify.com/artist/2ispra7MLmLF7ZqmyaKwQp) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:45 |

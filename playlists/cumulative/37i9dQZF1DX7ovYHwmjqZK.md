@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-126 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/6irLJVar0NJeoObqheLojG)
+127 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,8 +95,9 @@
 | [Quinze Pras Sete na Vila](https://open.spotify.com/track/2RZqc1v4vrpDG3dUSJKhHL) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Quinze Pras Sete na Vila](https://open.spotify.com/album/0AFxvpFwxZQUEzZnHl5OJx) | 3:44 | 2021-11-26 |  |
 | [Rio](https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Rio](https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta) | 4:07 | 2021-11-26 |  |
 | [Rosa Morena](https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P) | [Duo Flamingo](https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3) | [Rosa Morena EP](https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm) | 4:06 | 2021-11-26 |  |
-| [Samba de la rosa](https://open.spotify.com/track/05EhwPCpHvYCOrRnUpGyXW) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Samba de la rosa](https://open.spotify.com/album/4HPZx1e4aEifXZj7XjuWts) | 2:50 | 2021-11-26 | 2022-07-29 |
-| [Samba de la rosa](https://open.spotify.com/track/2wZFPBHHRynIfNdixVfKbX) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Fuerza Extraña](https://open.spotify.com/album/1WgYW5Ni9JxHyNoQcLvRoa) | 2:50 | 2021-11-26 |  |
+| [Samba da rosa](https://open.spotify.com/track/7qAyUR61yrl6XV31iAJWlp) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Fuerza Extraña](https://open.spotify.com/album/5jUhMOLnof9gojepRuXc0o) | 2:50 | 2022-10-14 |  |
+| [Samba de la rosa](https://open.spotify.com/track/05EhwPCpHvYCOrRnUpGyXW) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Samba de la rosa](https://open.spotify.com/album/4HPZx1e4aEifXZj7XjuWts) | 2:50 | 2021-11-26 | 2023-01-07 |
+| [Samba de la rosa](https://open.spotify.com/track/2wZFPBHHRynIfNdixVfKbX) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Fuerza Extraña](https://open.spotify.com/album/1WgYW5Ni9JxHyNoQcLvRoa) | 2:50 | 2021-11-26 | 2022-12-25 |
 | [Samba Doce](https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf) | [Jorge Helder](https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg) | [Samba Doce](https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh) | 3:33 | 2021-11-26 |  |
 | [Samba Dolente](https://open.spotify.com/track/6qbo26M43ipM0bTF5SgzzR) | [Francis Hime](https://open.spotify.com/artist/0fSXB6V1mhguJCAN7pLzu6) | [Hoje](https://open.spotify.com/album/6CRvZxZavDdvzqjJbVcx2I) | 3:54 | 2021-11-26 |  |
 | [Samba E Amor](https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 2:52 | 2021-11-26 | 2022-07-29 |

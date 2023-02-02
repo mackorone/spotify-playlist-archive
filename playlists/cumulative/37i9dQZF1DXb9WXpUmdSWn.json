@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-01",
   "description": "Fresh takes - from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.",
   "name": "Paul Simon: Covered",
-  "published_playlist_ids": [
-    "0Ij2p11ySRhLverD0eg7Nv"
-  ],
   "tracks": [
     {
       "album": {
@@ -982,6 +979,24 @@
     },
     {
       "album": {
+        "name": "The Only Living Boy In New York E.P.",
+        "url": "https://open.spotify.com/album/7tZBR3ASd8ksCxu1BeBSJW"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253026,
+      "name": "The Only Living Boy in New York - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3DcjGbMEvvmmb8pandaCHq"
+    },
+    {
+      "album": {
         "name": "Worldwide (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2nFNWf97kAuw1hgSitgcMk"
       },
@@ -993,7 +1008,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 253026,
       "name": "The Only Living Boy in New York - 2013 Remaster",
       "url": "https://open.spotify.com/track/4wof51y8scLARPRCWlvAs4"

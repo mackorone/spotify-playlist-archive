@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Rounhaa",
   "name": "Cloud Rap",
-  "published_playlist_ids": [
-    "5hZd800bY7alcQHZCY6dmZ"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": ".BOURBIER.",
+        "url": "https://open.spotify.com/album/1nOcwKfTHvZ3rbj3MsjHpr"
+      },
+      "artists": [
+        {
+          "name": "Kobo",
+          "url": "https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158313,
+      "name": ".BOURBIER.",
+      "url": "https://open.spotify.com/track/3D9nVQV2jg6hkXqCzVgtWT"
+    },
     {
       "album": {
         "name": ".QUI.TU.VEUX.",
@@ -19,7 +34,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 212793,
       "name": ".QUI.TU.VEUX.",
       "url": "https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf"
@@ -44,6 +59,24 @@
     },
     {
       "album": {
+        "name": "100 ans",
+        "url": "https://open.spotify.com/album/55IJ9CgUSLuU72XAs7N0al"
+      },
+      "artists": [
+        {
+          "name": "Diddi Trix",
+          "url": "https://open.spotify.com/artist/52h6A1y99QgoEf5FzKEHs1"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 121931,
+      "name": "100 ans",
+      "url": "https://open.spotify.com/track/2guJAJFWNnaujR0iVYM1pB"
+    },
+    {
+      "album": {
         "name": "prepa21",
         "url": "https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw"
       },
@@ -55,10 +88,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 169250,
       "name": "1jour",
       "url": "https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb"
+    },
+    {
+      "album": {
+        "name": "A toute vitesse",
+        "url": "https://open.spotify.com/album/1tFG0ErIbNpLaT9OeufOI4"
+      },
+      "artists": [
+        {
+          "name": "Seizur",
+          "url": "https://open.spotify.com/artist/0T78Z9fFMf6PfPYMybM0ZF"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172062,
+      "name": "A toute vitesse",
+      "url": "https://open.spotify.com/track/4phmBSG3bn6OC5Cs6QunPl"
     },
     {
       "album": {
@@ -81,6 +132,54 @@
       "duration_ms": 161906,
       "name": "A7",
       "url": "https://open.spotify.com/track/2wYqPFq90ncbRAuQdqzaZM"
+    },
+    {
+      "album": {
+        "name": "Aimons-nous vivants",
+        "url": "https://open.spotify.com/album/4BRpzc1UlPvVUwT5OSGBLL"
+      },
+      "artists": [
+        {
+          "name": "Seizur",
+          "url": "https://open.spotify.com/artist/0T78Z9fFMf6PfPYMybM0ZF"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181437,
+      "name": "Aimons-nous vivants",
+      "url": "https://open.spotify.com/track/6tkYlbsNN6crQj12xjSHdH"
+    },
+    {
+      "album": {
+        "name": "Le soleil se l\u00e8vera \u00e0 l'Ouest",
+        "url": "https://open.spotify.com/album/59tsNmPW5twlP1slvr7Lz9"
+      },
+      "artists": [
+        {
+          "name": "Raplume",
+          "url": "https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8"
+        },
+        {
+          "name": "sean",
+          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+        },
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT"
+        },
+        {
+          "name": "Rounhaa",
+          "url": "https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238652,
+      "name": "Alita (feat. Rounhaa)",
+      "url": "https://open.spotify.com/track/2QpRNqd5FP0XQqRCYl2wno"
     },
     {
       "album": {
@@ -107,10 +206,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 238652,
       "name": "Alita (feat. Rounhaa)",
       "url": "https://open.spotify.com/track/4RV2l9VHEPYrUXZXdiusEy"
+    },
+    {
+      "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/3RVYGYZWzZsz2grcl5CWqw"
+      },
+      "artists": [
+        {
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/2gVEgY3FxEL8R4frXffu6E"
     },
     {
       "album": {
@@ -129,7 +246,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 207094,
       "name": "Amis d'enfance",
       "url": "https://open.spotify.com/track/59XM6eXdRqsOo0q7e5I4dK"
@@ -147,7 +264,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 155317,
       "name": "Angelo",
       "url": "https://open.spotify.com/track/5R9g2Gpoyu2XQLBVeGqiKm"
@@ -183,7 +300,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 154758,
       "name": "Audrey Tautou",
       "url": "https://open.spotify.com/track/0N4ETYavqM5JEM0h2nBN6t"
@@ -245,7 +362,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 227373,
       "name": "Black Pearl",
       "url": "https://open.spotify.com/track/1cNLTTuobJoTEQI4lhqZuS"
@@ -285,7 +402,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 168437,
       "name": "Br\u00fble avec",
       "url": "https://open.spotify.com/track/5K1qIXNbh07XHaQbiZEZK3"
@@ -473,7 +590,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 178290,
       "name": "COUP\u00c9",
       "url": "https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i"
@@ -608,6 +725,24 @@
     },
     {
       "album": {
+        "name": "EAU DE ROSE",
+        "url": "https://open.spotify.com/album/6KLapdI76CDnRYUwpwwwrY"
+      },
+      "artists": [
+        {
+          "name": "Solal",
+          "url": "https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142822,
+      "name": "EAU DE ROSE",
+      "url": "https://open.spotify.com/track/1Ko8VSowhXSS6jUMvckDB3"
+    },
+    {
+      "album": {
         "name": "Encre noire",
         "url": "https://open.spotify.com/album/3RVlLLK6BbaGeNZBCAaGjO"
       },
@@ -644,6 +779,42 @@
     },
     {
       "album": {
+        "name": "Entour\u00e9",
+        "url": "https://open.spotify.com/album/3yDoo7wmxIX6MRwKSMY2bL"
+      },
+      "artists": [
+        {
+          "name": "Kevni",
+          "url": "https://open.spotify.com/artist/02WdyNlw433XSxlOPC7FhA"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204963,
+      "name": "Entour\u00e9",
+      "url": "https://open.spotify.com/track/0QCYP1iOuCR01mwtWkmZSd"
+    },
+    {
+      "album": {
+        "name": "Et Toi",
+        "url": "https://open.spotify.com/album/1fYdxA0MikkymfSFfgkFpt"
+      },
+      "artists": [
+        {
+          "name": "Rifa",
+          "url": "https://open.spotify.com/artist/7syrxKncMH592h3hwq0elv"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206082,
+      "name": "Et Toi",
+      "url": "https://open.spotify.com/track/1dKMbHYfQld5oGdGsKX3nP"
+    },
+    {
+      "album": {
         "name": "Exit #04 - Stamina",
         "url": "https://open.spotify.com/album/6gvFCctC0yznRQk1EJGMbk"
       },
@@ -673,7 +844,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 162586,
       "name": "Fascinant",
       "url": "https://open.spotify.com/track/0dth6miXmg495OA7IAhQSZ"
@@ -713,10 +884,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 163546,
       "name": "Fin heureuse",
       "url": "https://open.spotify.com/track/2xIaxSN4uWp84jqXmk9DYn"
+    },
+    {
+      "album": {
+        "name": "FLOKI (Dysphoria)",
+        "url": "https://open.spotify.com/album/0vy4bHNPlmpab87j9X5v2C"
+      },
+      "artists": [
+        {
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196245,
+      "name": "FLOKI - Dysphoria",
+      "url": "https://open.spotify.com/track/3vnQXpeuOqmRmYGqX7coFy"
     },
     {
       "album": {
@@ -731,7 +920,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 140917,
       "name": "FLOWERS",
       "url": "https://open.spotify.com/track/6tTDh7lYRhLKR7ICg0uzuf"
@@ -749,10 +938,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 168000,
       "name": "Follow me",
       "url": "https://open.spotify.com/track/4e31rlOaeBSQ4lHj3kFzeM"
+    },
+    {
+      "album": {
+        "name": "G.A.G",
+        "url": "https://open.spotify.com/album/7pm92hIaWeEYJPm67Xv1mC"
+      },
+      "artists": [
+        {
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162481,
+      "name": "G.A.G",
+      "url": "https://open.spotify.com/track/3ZWw9cswGcI33ckwAje8zC"
     },
     {
       "album": {
@@ -767,7 +974,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 176346,
       "name": "GRENADE",
       "url": "https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN"
@@ -785,7 +992,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 183008,
       "name": "Gris",
       "url": "https://open.spotify.com/track/3g7084K6EoChR796wdRo0i"
@@ -803,7 +1010,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 154666,
       "name": "Gros mega",
       "url": "https://open.spotify.com/track/1z1kLrnuYTLdXoSKWYE9Fy"
@@ -825,10 +1032,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 138591,
       "name": "GUCCI (feat. F430) [jet]",
       "url": "https://open.spotify.com/track/3K88jIpeWTdAQYRyqfitHD"
+    },
+    {
+      "album": {
+        "name": "HEKLA",
+        "url": "https://open.spotify.com/album/5yeEwZ9b8zPXWrFoA3jw6R"
+      },
+      "artists": [
+        {
+          "name": "Chanje",
+          "url": "https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147934,
+      "name": "HEKLA",
+      "url": "https://open.spotify.com/track/0Tr0TQ1Jca4eEXMwON5XMt"
     },
     {
       "album": {
@@ -887,7 +1112,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 209453,
       "name": "High",
       "url": "https://open.spotify.com/track/4lpWpolbOCSrlEe9FN3G9F"
@@ -985,7 +1210,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 214300,
       "name": "J'la connais, Pt. 1",
       "url": "https://open.spotify.com/track/7qTRcNu0nqDyjM7cWofXqT"
@@ -1021,7 +1246,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 209508,
       "name": "J'y pense encore",
       "url": "https://open.spotify.com/track/1dMDYQjrnhee5nmyKEydJd"
@@ -1039,7 +1264,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 131785,
       "name": "L'APPEL",
       "url": "https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae"
@@ -1057,7 +1282,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 125825,
       "name": "L'AVANCE",
       "url": "https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W"
@@ -1093,7 +1318,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 180857,
       "name": "La pierre",
       "url": "https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e"
@@ -1136,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/0P0fYHITU1W4DMmLw2XtRu"
+      },
+      "artists": [
+        {
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "LIBRE - Dysphoria",
+      "url": "https://open.spotify.com/track/50gMceCjKprl6DUYnFrWSE"
+    },
+    {
+      "album": {
         "name": "Double Star",
         "url": "https://open.spotify.com/album/2Kl8Lizlp50x23YlY2Yrau"
       },
@@ -1172,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "LUNE",
+        "url": "https://open.spotify.com/album/0UX8fkJ5agBevn1A4Zu1g3"
+      },
+      "artists": [
+        {
+          "name": "8ruki",
+          "url": "https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2"
+        },
+        {
+          "name": "Binks Beatz",
+          "url": "https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ"
+        },
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "LUNE",
+      "url": "https://open.spotify.com/track/7zRFGTlOBar8S7kK5vnZm5"
+    },
+    {
+      "album": {
         "name": "AKUMA",
         "url": "https://open.spotify.com/album/4BBlqKe6wXcS1pijTZ1zMh"
       },
@@ -1183,7 +1452,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 156026,
       "name": "LUNE",
       "url": "https://open.spotify.com/track/1k6EPZ5JuuNTOGhF7woAXz"
@@ -1248,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Instinct / Mal Aim\u00e9",
+        "url": "https://open.spotify.com/album/3i8Ck2pUhDAJhin9vfvzoK"
+      },
+      "artists": [
+        {
+          "name": "Softo",
+          "url": "https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195790,
+      "name": "Mal Aim\u00e9",
+      "url": "https://open.spotify.com/track/7JKWCyRBCL6NhHI8QjzDS5"
+    },
+    {
+      "album": {
         "name": "PAS ENCORE UNE STAR",
         "url": "https://open.spotify.com/album/1xV4ofPWx0eeligHNeBGHc"
       },
@@ -1270,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "MARK LANDERS",
+        "url": "https://open.spotify.com/album/5LQIFAhrEQseK0St28dQ9z"
+      },
+      "artists": [
+        {
+          "name": "Lazer MMZ",
+          "url": "https://open.spotify.com/artist/5Ae1qozZeLofVqeQjJswoD"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183828,
+      "name": "MARK LANDERS",
+      "url": "https://open.spotify.com/track/0Ob5R4MJD5L4AfCke7cJVE"
+    },
+    {
+      "album": {
         "name": "Maudit",
         "url": "https://open.spotify.com/album/5VhQXyXXmdn7bPqODOkOmV"
       },
@@ -1281,7 +1586,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 229863,
       "name": "Maudit",
       "url": "https://open.spotify.com/track/0SDdToMgBtqdd7WJnT2iGi"
@@ -1368,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9moire d'un presque rien",
+        "url": "https://open.spotify.com/album/589cZ1HYzFumBTBeFcK2pj"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213068,
+      "name": "M\u00e9moire d'un presque rien",
+      "url": "https://open.spotify.com/track/5lQTCLF6eeHJnkS03xzWmB"
+    },
+    {
+      "album": {
         "name": "Neurasthenie",
         "url": "https://open.spotify.com/album/147jyWgnirPp1V7z2IUxVS"
       },
@@ -1379,7 +1702,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 266747,
       "name": "Neurasthenie",
       "url": "https://open.spotify.com/track/2bWzPmMqIeWVO3lCTKEDpv"
@@ -1405,6 +1728,46 @@
       "duration_ms": 185106,
       "name": "New Flow",
       "url": "https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn"
+    },
+    {
+      "album": {
+        "name": "OPAQUE",
+        "url": "https://open.spotify.com/album/4Nkl8GoDDewl9lcvuyVqdk"
+      },
+      "artists": [
+        {
+          "name": "ONZ",
+          "url": "https://open.spotify.com/artist/2cHLzuB7J9TfkwTMFmTe5E"
+        },
+        {
+          "name": "yung g",
+          "url": "https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/6xMcRSrzPJJMpH5oYDHiJk"
+    },
+    {
+      "album": {
+        "name": "nou",
+        "url": "https://open.spotify.com/album/60CokyVmIeNhWiiwI8VvIZ"
+      },
+      "artists": [
+        {
+          "name": "Rounhaa",
+          "url": "https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126037,
+      "name": "nou",
+      "url": "https://open.spotify.com/track/7tOYFGZkgFJXRXvAq8GK4f"
     },
     {
       "album": {
@@ -1455,10 +1818,28 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 145443,
       "name": "Nuage",
       "url": "https://open.spotify.com/track/07r5QxQIHnfgnOI4Bkdy7o"
+    },
+    {
+      "album": {
+        "name": "Nuit et jour",
+        "url": "https://open.spotify.com/album/2VvNdPoTyrPTR30iBFzFJf"
+      },
+      "artists": [
+        {
+          "name": "Kekra",
+          "url": "https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Nuit et jour",
+      "url": "https://open.spotify.com/track/3xAlSc7IFjhBwQq4HSDpor"
     },
     {
       "album": {
@@ -1531,10 +1912,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 178466,
       "name": "PARADIS",
       "url": "https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U"
+    },
+    {
+      "album": {
+        "name": "Paradis Bleu",
+        "url": "https://open.spotify.com/album/2KDfg8dRxwo3Y6506NqCtZ"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197032,
+      "name": "Paradis Bleu",
+      "url": "https://open.spotify.com/track/6d2q14a2wY6HUeLApYLdoo"
     },
     {
       "album": {
@@ -1553,7 +1952,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 215716,
       "name": "PARADOXE",
       "url": "https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO"
@@ -1661,7 +2060,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 205613,
       "name": "Plus jeune",
       "url": "https://open.spotify.com/track/1ihbgjSg9n3LCXdHGOnjck"
@@ -1715,7 +2114,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 142900,
       "name": "Printemps - Live Spectre",
       "url": "https://open.spotify.com/track/2OoO0L9cFKiR2shTXVsDZ6"
@@ -1784,6 +2183,46 @@
     },
     {
       "album": {
+        "name": "Rendez-vous",
+        "url": "https://open.spotify.com/album/5mff2GrlOKdnWsGyaPsokb"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177225,
+      "name": "Rendez-vous",
+      "url": "https://open.spotify.com/track/33piDi5whXV52HXML5th6A"
+    },
+    {
+      "album": {
+        "name": "Retour de Flamme",
+        "url": "https://open.spotify.com/album/0YwQEe8jHJQOFTCHKiwdEV"
+      },
+      "artists": [
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        },
+        {
+          "name": "Amine Farsi",
+          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153880,
+      "name": "Retour de Flamme",
+      "url": "https://open.spotify.com/track/5gogoQNUaMh4RWJLTR8TMb"
+    },
+    {
+      "album": {
         "name": "Rod\u00e9o",
         "url": "https://open.spotify.com/album/17Q0l5T1bJKgBSHt3Kz4X6"
       },
@@ -1795,7 +2234,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 184053,
       "name": "Rod\u00e9o",
       "url": "https://open.spotify.com/track/6AIU6Vfq4p1y1ZKUQlF0N3"
@@ -1838,6 +2277,28 @@
     },
     {
       "album": {
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/2NNKLT6lCK6i503EqVfkjy"
+      },
+      "artists": [
+        {
+          "name": "Norsacce Berlusconi",
+          "url": "https://open.spotify.com/artist/6SWyMvHN1YLZ95qwbKf26N"
+        },
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217866,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/44vdd8Qop7Xa6PxdDCKlXT"
+    },
+    {
+      "album": {
         "name": "EROSE",
         "url": "https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl"
       },
@@ -1856,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Sans \u00e7a",
+        "url": "https://open.spotify.com/album/7GpYNcQFtVQQfQ7wGyO3SF"
+      },
+      "artists": [
+        {
+          "name": "Willyod",
+          "url": "https://open.spotify.com/artist/58JTHHzGDeGIXUjUtbRvyO"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155683,
+      "name": "Sans \u00e7a",
+      "url": "https://open.spotify.com/track/1VZr0fGotyAn61HlsUpk4R"
+    },
+    {
+      "album": {
         "name": "Sch\u00e9mas Monotones",
         "url": "https://open.spotify.com/album/6YZxi7O8YpLl1VIPZRS3zJ"
       },
@@ -1871,6 +2350,24 @@
       "duration_ms": 146573,
       "name": "Sch\u00e9mas Monotones",
       "url": "https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV"
+    },
+    {
+      "album": {
+        "name": "Seul au monde",
+        "url": "https://open.spotify.com/album/1xyOjLlsdrQkcRg3dDpDig"
+      },
+      "artists": [
+        {
+          "name": "A$tro Boi",
+          "url": "https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Seul au monde",
+      "url": "https://open.spotify.com/track/4luvWLKyAZbCMqltYuD9Dc"
     },
     {
       "album": {
@@ -1907,10 +2404,50 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 233679,
       "name": "Silver Haze",
       "url": "https://open.spotify.com/track/03cm8VgdEvDM0rC7txjmpY"
+    },
+    {
+      "album": {
+        "name": "SKYLER",
+        "url": "https://open.spotify.com/album/2TDnaEceIVGmQ0pVCQUo2u"
+      },
+      "artists": [
+        {
+          "name": "GR OMEGA",
+          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "SKYLER",
+      "url": "https://open.spotify.com/track/7eDBP5VI6Ouv7J39dHQo8V"
+    },
+    {
+      "album": {
+        "name": "Smile:( (feat. So La Lune)",
+        "url": "https://open.spotify.com/album/4fSVefoyfmjASBGew0QzjL"
+      },
+      "artists": [
+        {
+          "name": "Ghost Killer Track",
+          "url": "https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ"
+        },
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Smile:( (feat. So La Lune)",
+      "url": "https://open.spotify.com/track/1TBRrjtmgVxKTOJIjYiMrf"
     },
     {
       "album": {
@@ -1929,6 +2466,60 @@
       "duration_ms": 146440,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf"
+    },
+    {
+      "album": {
+        "name": "Sorcellerie",
+        "url": "https://open.spotify.com/album/3Bu0F3D4cRVX54BSPpni0k"
+      },
+      "artists": [
+        {
+          "name": "Golgoth",
+          "url": "https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140135,
+      "name": "Sorcellerie",
+      "url": "https://open.spotify.com/track/0tE3YgjdLTsyHXqVDMQRup"
+    },
+    {
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/18A1iN7kZJ2HbaXANnonUH"
+      },
+      "artists": [
+        {
+          "name": "LVZ",
+          "url": "https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155155,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/3u7O99o8DB5D3r1AL37v0g"
+    },
+    {
+      "album": {
+        "name": "Sur ma vie",
+        "url": "https://open.spotify.com/album/37NDtMlLsm4h2hqhDbzg0m"
+      },
+      "artists": [
+        {
+          "name": "Bakari",
+          "url": "https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193683,
+      "name": "Sur ma vie",
+      "url": "https://open.spotify.com/track/6VJu3MOUWNlJhLp2QvvShl"
     },
     {
       "album": {
@@ -1979,7 +2570,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 179962,
       "name": "TARZAN",
       "url": "https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo"
@@ -2004,6 +2595,42 @@
     },
     {
       "album": {
+        "name": "UBER",
+        "url": "https://open.spotify.com/album/3jXGdIm7ZG30nb7fNxeQ3J"
+      },
+      "artists": [
+        {
+          "name": "Moji x Sboy",
+          "url": "https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "UBER",
+      "url": "https://open.spotify.com/track/08QiWwcnUHZXsyIk0BXlcD"
+    },
+    {
+      "album": {
+        "name": "42 jours avant MRTHN",
+        "url": "https://open.spotify.com/album/4eP8OFxMTEQJYJHiWbd9Lv"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175720,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/4ko3pKC9xAtGh2pSRLn5ct"
+    },
+    {
+      "album": {
         "name": "Warzone",
         "url": "https://open.spotify.com/album/3dcDVMzfWhzA8JwE2HIZD7"
       },
@@ -2019,6 +2646,28 @@
       "duration_ms": 194181,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9nith (feat. Booba)",
+        "url": "https://open.spotify.com/album/7LIy7jLgPFiNJoYxnbDf8t"
+      },
+      "artists": [
+        {
+          "name": "mademoiselle lou",
+          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
+        },
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204590,
+      "name": "Z\u00e9nith (feat. Booba)",
+      "url": "https://open.spotify.com/track/6z41QMdRgnRTAUdcQ0pxyH"
     },
     {
       "album": {
@@ -2055,6 +2704,46 @@
       "duration_ms": 192120,
       "name": "\u00c2mes perdues",
       "url": "https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3"
+    },
+    {
+      "album": {
+        "name": "\u00c7a fait longtemps",
+        "url": "https://open.spotify.com/album/2LmWQYHjovtF1vneboqvAp"
+      },
+      "artists": [
+        {
+          "name": "BOUB'Z",
+          "url": "https://open.spotify.com/artist/1QMdau3cUloTZtR7JXpBLH"
+        },
+        {
+          "name": "Yanso",
+          "url": "https://open.spotify.com/artist/1mAdVbvz1w6v9I5iGxRtnE"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 192464,
+      "name": "\u00c7a fait longtemps",
+      "url": "https://open.spotify.com/track/41yHBw1H6W4Ny5lmiiAG7V"
+    },
+    {
+      "album": {
+        "name": "\u00c9lastique (Freestyle BDLB #1)",
+        "url": "https://open.spotify.com/album/3mIen5WzBCIijfMqMgoxnX"
+      },
+      "artists": [
+        {
+          "name": "BOUB'Z",
+          "url": "https://open.spotify.com/artist/1QMdau3cUloTZtR7JXpBLH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "\u00c9lastique (Freestyle BDLB #1)",
+      "url": "https://open.spotify.com/track/5Qcl3FNCGGClPX9wz7pE7D"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr"

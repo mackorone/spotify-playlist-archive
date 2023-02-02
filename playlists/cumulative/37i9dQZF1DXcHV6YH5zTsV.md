@@ -4,7 +4,7 @@
 
 > Get ready to twist and shout \- this is the ultimate Beatles party playlist.
 
-108 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/6YYey3eqIonpYLbZ7TiTAN)
+108 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

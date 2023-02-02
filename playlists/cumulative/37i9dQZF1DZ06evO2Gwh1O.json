@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-26",
   "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
   "name": "This Is Funeral For A Friend",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -143,7 +142,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 209666,
       "name": "Broken Foundation",
       "url": "https://open.spotify.com/track/627WjvbFxEffhuUF4fqxxj"
@@ -219,6 +218,24 @@
       "duration_ms": 137906,
       "name": "Conduit",
       "url": "https://open.spotify.com/track/66uvCO0JFHfaGqpyoeaTM5"
+    },
+    {
+      "album": {
+        "name": "The Young And Defenceless EP",
+        "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209360,
+      "name": "Damned If You Do, Dead If You Don't",
+      "url": "https://open.spotify.com/track/2vqvoXou424cxTKKpAGhTx"
     },
     {
       "album": {
@@ -341,7 +358,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 288453,
       "name": "I Am the Arsonist",
       "url": "https://open.spotify.com/track/1RbYI4uOtQbwzdo6XoDSQH"
@@ -471,6 +488,42 @@
       "duration_ms": 164866,
       "name": "No Honour Among Thieves",
       "url": "https://open.spotify.com/track/4ALq38AjjMixTna7WTidZn"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/671IkodRxbHQXE41qo7I0H"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152280,
+      "name": "Old Hymns",
+      "url": "https://open.spotify.com/track/0qB4fvTSTTw2MlUoomMVEh"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 152280,
+      "name": "Old Hymns",
+      "url": "https://open.spotify.com/track/3fCwI1gG0zo3Qr6qB68A2Q"
     },
     {
       "album": {
@@ -863,7 +916,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": "2022-12-24",
       "duration_ms": 264493,
       "name": "Waterfront Dance Club",
       "url": "https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx"

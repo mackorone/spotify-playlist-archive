@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock with a Drop  Cover: GG Magree \\m/",
+  "description": "",
   "name": "Rocktronic",
-  "published_playlist_ids": [
-    "5zoHrqDNjf3cQeuQpkDbfT"
-  ],
   "tracks": [
     {
       "album": {
@@ -71,7 +68,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 220800,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl"
@@ -119,7 +116,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 196875,
       "name": "All In My Head (feat. grandson) - Saint Punk Remix",
       "url": "https://open.spotify.com/track/5GzBDqFoMUrjjfGtHEbGfY"
@@ -167,7 +164,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 189554,
       "name": "All To You (feat. Micah Martin)",
       "url": "https://open.spotify.com/track/4cQzvfSsPLcUxieNmesdzb"
@@ -438,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        },
+        {
+          "name": "Vanthe",
+          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164897,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
+    },
+    {
+      "album": {
         "name": "Dichotomy",
         "url": "https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V"
       },
@@ -559,7 +578,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 238500,
       "name": "Bored To Death - Steve Aoki Remix",
       "url": "https://open.spotify.com/track/7xddswKFyyesNjV8wpCGLo"
@@ -935,7 +954,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 195428,
       "name": "Control (feat. Add1ction)",
       "url": "https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli"
@@ -1053,7 +1072,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 243200,
       "name": "CROWN OF THORNS",
       "url": "https://open.spotify.com/track/59YmL4SARH3UGswIDj4ZRR"
@@ -1391,7 +1410,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": "2023-01-09",
       "duration_ms": 199203,
       "name": "Drive (feat. Tilian)",
       "url": "https://open.spotify.com/track/3b7glFrZPpSmYR4kYBb9Yw"
@@ -1541,10 +1560,32 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 165771,
       "name": "Electric Eye - Single Edit",
       "url": "https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH"
+    },
+    {
+      "album": {
+        "name": "ANALOG",
+        "url": "https://open.spotify.com/album/4Z1gPMu3kxL1P8rMGHc5ZX"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186035,
+      "name": "Electric Life",
+      "url": "https://open.spotify.com/track/6a71f53jA3MQY1TomocVYD"
     },
     {
       "album": {
@@ -1629,7 +1670,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 198620,
       "name": "Enemy VIP (with Shane Told of Silverstein)",
       "url": "https://open.spotify.com/track/0b0vvHAw17DwRllYuEKD9A"
@@ -1753,7 +1794,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 209411,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v"
@@ -1782,6 +1823,28 @@
     },
     {
       "album": {
+        "name": "Beyond the Senses",
+        "url": "https://open.spotify.com/album/3pYfGgnd7jxga8VzEMOniD"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209416,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1660w15xd64WxBUirN9e4E"
+    },
+    {
+      "album": {
         "name": "Falling Asleep at the Wheel / Julie",
         "url": "https://open.spotify.com/album/1e6GaUxeBFQt7AoDHUqJf2"
       },
@@ -1793,7 +1856,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 157500,
       "name": "Falling Asleep at the Wheel",
       "url": "https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL"
@@ -1877,7 +1940,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 183553,
       "name": "Fighting Gravity - The Forgotten Remix",
       "url": "https://open.spotify.com/track/3ZAfrkXwfVm2FhgBr4rRQ3"
@@ -2262,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
+    },
+    {
+      "album": {
         "name": "Hayloft II (DNMO Mix)",
         "url": "https://open.spotify.com/album/2DX9LbScR2BQxtAJ6xOvps"
       },
@@ -2408,6 +2489,32 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX"
       },
@@ -2492,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248576,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL"
+    },
+    {
+      "album": {
         "name": "Higher Ground (Part 1)",
         "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
       },
@@ -2521,10 +2646,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 113600,
       "name": "INSPIRED",
       "url": "https://open.spotify.com/track/1Dfa2akEVc3sh6HhAxlZmE"
+    },
+    {
+      "album": {
+        "name": "Into the Void (Misfit Remix)",
+        "url": "https://open.spotify.com/album/58xLZYYiEs9odahFX32teM"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        },
+        {
+          "name": "Misfit",
+          "url": "https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 249896,
+      "name": "Into the Void - Misfit Remix",
+      "url": "https://open.spotify.com/track/04lDp1iHv69KS0TwvaPAOl"
     },
     {
       "album": {
@@ -2714,6 +2861,28 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
+    },
+    {
+      "album": {
         "name": "The Trip Out (Remixes)",
         "url": "https://open.spotify.com/album/5VOKlpMQJNcUjZiPEwnov4"
       },
@@ -2851,7 +3020,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 158478,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5suBTMaVFuSmXUdhoXSCnL"
@@ -2964,6 +3133,32 @@
     },
     {
       "album": {
+        "name": "NEW BREED (DELUXE VIP)",
+        "url": "https://open.spotify.com/album/0RTU6XjmR2EBcY8rJwUgs9"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "CRAY",
+          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198352,
+      "name": "LOVE ME HATE ME - VIP",
+      "url": "https://open.spotify.com/track/3vM9GmGlJxPnFTPuBffPOD"
+    },
+    {
+      "album": {
         "name": "Love You For All Time",
         "url": "https://open.spotify.com/album/0nQSAZ1UORnjj5L3SVkCkm"
       },
@@ -3001,6 +3196,28 @@
       "duration_ms": 174657,
       "name": "Loving You Kills Me",
       "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/0JP9RVQrQJ4Da54nfOJWJs"
+      },
+      "artists": [
+        {
+          "name": "Big X",
+          "url": "https://open.spotify.com/artist/0OCVpOnm94jD2iVVeefUeu"
+        },
+        {
+          "name": "Eko Zu",
+          "url": "https://open.spotify.com/artist/3UTpx1qth1EZxywRjGywLQ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 148809,
+      "name": "Mad Love",
+      "url": "https://open.spotify.com/track/0J2EcQZQUsmUzO5YFXz7PS"
     },
     {
       "album": {
@@ -3129,7 +3346,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": "2023-01-16",
       "duration_ms": 143448,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ"
@@ -3217,7 +3434,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 166800,
       "name": "Never Let You Down (with TELLE)",
       "url": "https://open.spotify.com/track/7l7UeB9sG7lMtikz0DUkpS"
@@ -3364,6 +3581,28 @@
     },
     {
       "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+    },
+    {
+      "album": {
         "name": "Nothing For Free",
         "url": "https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA"
       },
@@ -3401,6 +3640,28 @@
       "duration_ms": 186375,
       "name": "Nothing's Perfect",
       "url": "https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL"
+    },
+    {
+      "album": {
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
     },
     {
       "album": {
@@ -3650,6 +3911,32 @@
     },
     {
       "album": {
+        "name": "NEW BREED (REMIXES)",
+        "url": "https://open.spotify.com/album/3z7otCLPeYt98e8U9bgWGt"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "conner",
+          "url": "https://open.spotify.com/artist/6FUrCaaUDkYwhFOmP6FfBf"
+        },
+        {
+          "name": "N3WPORT",
+          "url": "https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "POSER (N3WPORT Remix)",
+      "url": "https://open.spotify.com/track/4WqGcKp5dnqj8nCFbV9Af3"
+    },
+    {
+      "album": {
         "name": "Pretty Melody 70",
         "url": "https://open.spotify.com/album/5SAson0PsEYspU0G8lcOCF"
       },
@@ -3847,7 +4134,7 @@
     {
       "album": {
         "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w"
+        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
       },
       "artists": [
         {
@@ -3862,6 +4149,28 @@
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
+    },
+    {
+      "album": {
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/4yRoZ9QC6PQpxVeVQIpN7U"
@@ -4631,7 +4940,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 318428,
       "name": "Subliminal (Even the Ghosts are Laughing)",
       "url": "https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm"
@@ -4951,6 +5260,24 @@
       "duration_ms": 220000,
       "name": "Throne",
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "album": {
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/57QdPzSq8NhduKeYBJ7jw1"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Thrones of Blood",
+      "url": "https://open.spotify.com/track/0h3lOUAXzJr80KrGVjPpWE"
     },
     {
       "album": {
@@ -5380,6 +5707,46 @@
     },
     {
       "album": {
+        "name": "Walk On Water (with Danni Carra)",
+        "url": "https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182844,
+      "name": "Walk On Water (with Danni Carra)",
+      "url": "https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M"
+    },
+    {
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195254,
+      "name": "War",
+      "url": "https://open.spotify.com/track/2LUsPNpXp7vpLK3U7AIJoG"
+    },
+    {
+      "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
@@ -5461,6 +5828,24 @@
       "duration_ms": 182400,
       "name": "We Got It",
       "url": "https://open.spotify.com/track/5AAiUVQeQ0fIDOTG6mc0Sq"
+    },
+    {
+      "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "album": {

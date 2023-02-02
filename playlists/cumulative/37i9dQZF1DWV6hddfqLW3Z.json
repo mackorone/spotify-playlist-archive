@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
   "name": "Cafezinho",
-  "published_playlist_ids": [
-    "2txnfCn2Tfn6YDwFVJ5nKs"
-  ],
   "tracks": [
     {
       "album": {
@@ -291,7 +288,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 151458,
       "name": "Ciumeira",
       "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
@@ -623,7 +620,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 310760,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
@@ -1197,7 +1194,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 127098,
       "name": "Preciso me encontrar - Original Motion Picture Soundtrack \"Di\u00e1rios De Interc\u00e2mbio\"",
       "url": "https://open.spotify.com/track/0vUZ7NmyFsAUNb2NgHRdox"
@@ -1273,7 +1270,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-12",
       "duration_ms": 218951,
       "name": "Que Tal um Samba?",
       "url": "https://open.spotify.com/track/6XqbqeZl7YwPLcWsp8sLOk"
@@ -1385,7 +1382,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 180050,
       "name": "Sede Pra Te Ver - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0P1JJk72Sb8o9d18SltaUS"
@@ -1443,7 +1440,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 236813,
       "name": "S\u00f3 Louco",
       "url": "https://open.spotify.com/track/1733B1kOllykeA4kFffXqm"
@@ -1479,7 +1476,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 205128,
       "name": "Travessia - Spotify Singles",
       "url": "https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg"
@@ -1603,16 +1600,42 @@
       },
       "artists": [
         {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 212493,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
+    },
+    {
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWV6hddfqLW3Z"

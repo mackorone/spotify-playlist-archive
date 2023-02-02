@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "The best Piano House tracks out now.  ",
   "name": "Piano House",
-  "published_playlist_ids": [
-    "6IrxcoOBzoeJKFAs7ICWhb"
-  ],
   "tracks": [
     {
       "album": {
@@ -259,6 +256,32 @@
       "duration_ms": 189027,
       "name": "Ba:sen - Tensnake Remix",
       "url": "https://open.spotify.com/track/5UgzeRWgQBKSVqPgoTdLiS"
+    },
+    {
+      "album": {
+        "name": "Back & Forth",
+        "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2021-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196214,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
     },
     {
       "album": {
@@ -719,7 +742,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 215226,
       "name": "Don't Stop Movin' - Radio Mix",
       "url": "https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc"
@@ -1173,7 +1196,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 189875,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/6DetvocRqx9ELX2aKmwj3g"
@@ -1449,7 +1472,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 445714,
       "name": "Izolo",
       "url": "https://open.spotify.com/track/1ix1dhMZI8cYXiyzHgun42"
@@ -2415,7 +2438,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2022-11-28",
       "duration_ms": 262400,
       "name": "Passion - Naked Edit",
       "url": "https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu"
@@ -2715,7 +2738,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 219715,
       "name": "Simple Hit",
       "url": "https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex"
@@ -3017,7 +3040,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 262026,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx"
@@ -3061,7 +3084,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 134442,
       "name": "That Feeling (feat. Hayley May)",
       "url": "https://open.spotify.com/track/7clsGP3ea7rhBaEK9ga898"
@@ -3519,7 +3542,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 179266,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/374iP6eVAWCCCH2mvZT2A9"

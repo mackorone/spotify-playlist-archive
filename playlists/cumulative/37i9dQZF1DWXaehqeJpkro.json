@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Fancy belting out your favourite Korean songs? (Cover: Kim Min Seok(\uae40\ubbfc\uc11d)) (\uc9c0\uae08 \ub178\ub798\ubc29\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Sing Along K-Pop (\ub178\ub798\ubc29 \uc778\uae30\uac00\uc694)",
-  "published_playlist_ids": [
-    "6P4RKNAmjGjcVbVihp09Om"
-  ],
   "tracks": [
     {
       "album": {
@@ -2578,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/1IsW5pVRvmq1sz30YOPFxT"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272762,
+      "name": "old song",
+      "url": "https://open.spotify.com/track/5IFuZw0mqTVZn1xWzfYqbb"
+    },
+    {
+      "album": {
         "name": "On That Day",
         "url": "https://open.spotify.com/album/7hcTxoEyYvl75urS0ee3Sl"
       },
@@ -4301,7 +4316,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 272762,
       "name": "\uc624\ub798\ub41c \ub178\ub798",
       "url": "https://open.spotify.com/track/5gllIJSLyRouz1bGO5ues4"

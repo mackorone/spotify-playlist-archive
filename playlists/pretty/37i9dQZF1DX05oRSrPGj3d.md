@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Celebrating the release of Live Forever: A Tribute to Billy Joe Shaver\. Cover: Billy Joe Shaver
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,342 likes - 93 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,148 likes - 93 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 50 | [Just Be](https://open.spotify.com/track/2kUEt5NNUcLUkXPTrshnfM) | [Walt Wilkins](https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg) | [Plenty](https://open.spotify.com/album/3SUWft10nSf30iNCaw8jEt) | 3:47 |
 | 51 | [El Cerrito Place](https://open.spotify.com/track/4P5RL9KIqfA1q8xT0oLzHN) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Good Times](https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z) | 5:41 |
 | 52 | [Ragged Old Truck \(feat\. Joshua Hedley\)](https://open.spotify.com/track/1iJ7Yi9Nx1F74WSHhNk38x) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Ragged Old Truck](https://open.spotify.com/album/0huPK5t9hSCURDDBEk935f) | 4:13 |
-| 53 | [I Can't Breathe](https://open.spotify.com/track/5ntYN4BQDroMzxfsjadAox) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/6C9MVfh8Zhx1Q8xtR6ZVV2) | 4:17 |
+| 53 | [I Can't Breathe](https://open.spotify.com/track/3QtCKENdSI3l8xlSULRrK0) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 4:17 |
 | 54 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
 | 55 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 |
 | 56 | [Just For The Record](https://open.spotify.com/track/6lK8IcACQqLGt9L94qnqWo) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Memory and a Dirt Road](https://open.spotify.com/album/6X8nyysz7UNSI9pLpTroAP) | 3:21 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 68 | [Ballad Of Spider John](https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd) | [Willis Alan Ramsey](https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX) | [Willis Alan Ramsey](https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL) | 4:18 |
 | 69 | [North Dakota](https://open.spotify.com/track/4JwBDp0psRP2pbmNVjPc8E) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Joshua Judges Ruth](https://open.spotify.com/album/0Q9E2do1DR7QrHyD5BPaZB) | 5:42 |
 | 70 | [New Strings](https://open.spotify.com/track/3aLD4sG82hq2c1xVpiIkK5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:50 |
-| 71 | [Fast Lane](https://open.spotify.com/track/1T5IbNS5mqd0hx1TGZoacY) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/5nVtIAQNEJItZS7eJhJiKD) | 4:06 |
+| 71 | [Fast Lane](https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg) | 4:06 |
 | 72 | [You, Me and a Bottle](https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Hellbent](https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib) | 3:13 |
 | 73 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 | 74 | [Mamas Don't Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/track/2SSHYzoxRsFosKl81KRFz7) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Greatest Hits \(& Some That Will Be\)](https://open.spotify.com/album/7oRkZF4ysrOnGThgSiUtUC) | 3:26 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 92 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:10 |
 | 93 | [Highwayman](https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 3:02 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGY4OTNjZDhmYzFlYzViNDdjNjA0NGM4YTllYTIzYzQz`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGU1ODBkZTM5OGE5NWQ1YzY3MzdhMTAxZDM4MjY1MjUy`

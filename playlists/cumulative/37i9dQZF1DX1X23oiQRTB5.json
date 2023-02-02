@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-10",
   "description": "Zola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
-  "published_playlist_ids": [
-    "4EHhRKwzSbzJAtj2VPo7Qd"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 167613,
       "name": "44",
       "url": "https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG"
@@ -138,7 +135,7 @@
     },
     {
       "album": {
-        "name": "Amber",
+        "name": "AMBER",
         "url": "https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD"
       },
       "artists": [
@@ -151,7 +148,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182067,
-      "name": "Amber",
+      "name": "AMBER",
       "url": "https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe"
     },
     {
@@ -215,10 +212,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 155389,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu"
+    },
+    {
+      "album": {
+        "name": "AZNVR (une minute de musique)",
+        "url": "https://open.spotify.com/album/0CwImsCyjRO0p2kVE60MQq"
+      },
+      "artists": [
+        {
+          "name": "Luv Resval",
+          "url": "https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239060,
+      "name": "AZNVR - une minute de musique",
+      "url": "https://open.spotify.com/track/5bt380zWDlGAd3NmhOeZ3H"
     },
     {
       "album": {
@@ -379,10 +394,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 158223,
       "name": "CELINE 3X",
       "url": "https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow"
+    },
+    {
+      "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 188573,
+      "name": "Cette ann\u00e9e-l\u00e0",
+      "url": "https://open.spotify.com/track/41NJluEub1MMcwkUo411an"
     },
     {
       "album": {
@@ -437,7 +470,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 195560,
       "name": "Chop - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag"
@@ -714,6 +747,28 @@
     },
     {
       "album": {
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "FLEURS (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
+    },
+    {
+      "album": {
         "name": "FRAUDE",
         "url": "https://open.spotify.com/album/1ds595bn2azH1sYiG38A66"
       },
@@ -729,7 +784,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 188706,
       "name": "FRAUDE",
       "url": "https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE"
@@ -870,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Genkidama",
+        "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "Genkidama",
+      "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
+    },
+    {
+      "album": {
         "name": "GROKUWA",
         "url": "https://open.spotify.com/album/4F6wVoSnaBQTW6DJzkJ8oH"
       },
@@ -942,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "HRTBRK #6",
+        "url": "https://open.spotify.com/album/4XYz0YM0cZjGhzgqyj2glP"
+      },
+      "artists": [
+        {
+          "name": "Kaza",
+          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "HRTBRK #6",
+      "url": "https://open.spotify.com/track/4oujvmTUXlPr6jWTWuzfAK"
+    },
+    {
+      "album": {
         "name": "Indiana",
         "url": "https://open.spotify.com/album/1oPS42gz0hOy0L3knvCjT5"
       },
@@ -986,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Introduction",
+        "url": "https://open.spotify.com/album/5eSCDUqENVNgdu6BbEtNzZ"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94253,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/5w3GRfKybnACxA4vTuIDAi"
+    },
+    {
+      "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
@@ -1026,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "SOIXVNT3 - Part. 3",
+        "url": "https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Joli",
+      "url": "https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ"
+    },
+    {
+      "album": {
         "name": "R\u00e9elle vie 3.0",
         "url": "https://open.spotify.com/album/3qzinl5et0UJo0r5XtG8Kc"
       },
@@ -1059,7 +1186,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 187790,
       "name": "KOA",
       "url": "https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0"
@@ -1388,6 +1515,42 @@
     },
     {
       "album": {
+        "name": "Ma Came",
+        "url": "https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO"
+      },
+      "artists": [
+        {
+          "name": "Dertay",
+          "url": "https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162293,
+      "name": "Ma Came",
+      "url": "https://open.spotify.com/track/3x6n0IkVMIqTl7EE2j3R2g"
+    },
+    {
+      "album": {
+        "name": "Ma Came",
+        "url": "https://open.spotify.com/album/2rW8ck12ZmGvd7NSO1Fbzm"
+      },
+      "artists": [
+        {
+          "name": "Dertay",
+          "url": "https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 162293,
+      "name": "Ma Came",
+      "url": "https://open.spotify.com/track/6DdKVun3sEVCfyeSV1vTJI"
+    },
+    {
+      "album": {
         "name": "Malpolis",
         "url": "https://open.spotify.com/album/1cieqTocQSlVT8W0f8sCDh"
       },
@@ -1614,6 +1777,60 @@
     },
     {
       "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 226653,
+      "name": "Mr. Ocho",
+      "url": "https://open.spotify.com/track/1X5U5wtor2IFwM1RaeDGgx"
+    },
+    {
+      "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226653,
+      "name": "Mr. Ocho",
+      "url": "https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws"
+    },
+    {
+      "album": {
+        "name": "M\u00eame pas un grincement",
+        "url": "https://open.spotify.com/album/3HRJy5fGgdgrCp8g6tEN8O"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225413,
+      "name": "M\u00eame pas un grincement",
+      "url": "https://open.spotify.com/track/7wNHu6h06KBh20KVYmnRKa"
+    },
+    {
+      "album": {
         "name": "N.I",
         "url": "https://open.spotify.com/album/0LsSz4wemYvMIr5l0AUUR9"
       },
@@ -1680,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 148760,
+      "name": "Niobe",
+      "url": "https://open.spotify.com/track/0MBUiPhMx69GRBu4PwfFjJ"
+    },
+    {
+      "album": {
         "name": "On se reverra plus (feat. Gazo)",
         "url": "https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO"
       },
@@ -1695,7 +1930,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 179040,
       "name": "On se reverra plus (feat. Gazo)",
       "url": "https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8"
@@ -1720,7 +1955,7 @@
     },
     {
       "album": {
-        "name": "Papel",
+        "name": "PAPEL",
         "url": "https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5"
       },
       "artists": [
@@ -1733,7 +1968,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190466,
-      "name": "Papel",
+      "name": "PAPEL",
       "url": "https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk"
     },
     {
@@ -1990,6 +2225,50 @@
     },
     {
       "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161586,
+      "name": "Redescends",
+      "url": "https://open.spotify.com/track/17iXucMQMB1Ph3sXU3ZOMi"
+    },
+    {
+      "album": {
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 161586,
+      "name": "Redescends",
+      "url": "https://open.spotify.com/track/36Tq4bva4dIMWcsq7gHDRH"
+    },
+    {
+      "album": {
         "name": "Redescends (feat Tiakola)",
         "url": "https://open.spotify.com/album/4KaUWIjzjEyF5KZTKcHQCh"
       },
@@ -2005,7 +2284,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 159573,
       "name": "Redescends (feat Tiakola)",
       "url": "https://open.spotify.com/track/0hveTnaqO8nXDMwwsJGJI3"
@@ -2049,7 +2328,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 164240,
       "name": "Reste-l\u00e0 (feat. Tiakola)",
       "url": "https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6"
@@ -2243,7 +2522,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 181152,
       "name": "Talent",
       "url": "https://open.spotify.com/track/3H3TloF0bCS7SHy3ovObeo"
@@ -2269,6 +2548,28 @@
       "duration_ms": 225413,
       "name": "Tchalla",
       "url": "https://open.spotify.com/track/3cFUv0LpvrvdAMAT2B4zhS"
+    },
+    {
+      "album": {
+        "name": "Tombolo (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/597zMwmxvoBtRDUsOjk54P"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235183,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/0iR0ZbEw46KtSDSGph0HHE"
     },
     {
       "album": {
@@ -2377,7 +2678,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 187027,
       "name": "VVS",
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"

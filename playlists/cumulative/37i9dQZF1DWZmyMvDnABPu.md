@@ -4,7 +4,7 @@
 
 > Enjoy the JTBC drama 'Nevertheless,' OSTs in a different way with the lines in the drama\. \(JTBC 드라마 '알고있지만'의 OST를 작중 대사와 함께 색다르게 즐겨보세요.\)
 
-44 songs - 1 hr 53 min - [published](https://open.spotify.com/playlist/315ekoEuSWXZ6w57F26mUj)
+44 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

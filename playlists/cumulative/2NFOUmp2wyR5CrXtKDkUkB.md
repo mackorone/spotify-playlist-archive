@@ -4,7 +4,7 @@
 
 > Those were the days, this was the music...
 
-67 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/491qlCmsR03qN3XsC2mlXc)
+67 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

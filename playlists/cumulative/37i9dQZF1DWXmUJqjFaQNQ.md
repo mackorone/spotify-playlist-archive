@@ -4,7 +4,7 @@
 
 > A collection of classic short stories perfect for a lazy afternoon or relaxing commute.
 
-65 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/27cRRIWWT9lCqHbgeLFoCz)
+65 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

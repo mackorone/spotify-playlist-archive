@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain]
 
 > Sweden Rock är Sveriges största hårdrocksfestival\. Sommarens upplaga äger rum 6 \- 9 juni i Sölvesborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

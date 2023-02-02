@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 ### [Pure Flow](https://open.spotify.com/playlist/5hmeg2ngrrAFbz1Gu05PXi)
 
-> Get into the flow and stay focused while writing code with music curated by the JetBrains team.
+> Get into the flow and stay focused while writing code, with music curated by the JetBrains team.
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 2,138 likes - 109 songs - 10 hr 6 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 2,383 likes - 109 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 108 | [Waiting For Nick At Rick's Café](https://open.spotify.com/track/0FeB1pJvzh2BNDYco2RF6k) | [Dead Combo](https://open.spotify.com/artist/4DbBi3EWMhdHMnX8WqRIev) | [A Bunch of Meninos](https://open.spotify.com/album/3Ofy4arh10pzsm8oT2uAc0) | 3:29 |
 | 109 | [The Ocean](https://open.spotify.com/track/7dgkpVYzHEnBKnaaMSbE5p) | [Mindseye](https://open.spotify.com/artist/0KnSPZGucOmyk3AnKaUGel) | [The Ocean](https://open.spotify.com/album/5BadXUBRbBS3LL6M76h2GX) | 3:19 |
 
-Snapshot ID: `MTc5LDc5YWVmYTlmZTBlMTFkYmU0ZDk4MGQ5NWFjY2RmNTA1MDEyYTE1Y2U=`
+Snapshot ID: `MTgwLDI0YmRkNjdkN2FmNDE0ZTBjMDA5NDQwMjUxZmViYWZjMDM3ODk0YmY=`

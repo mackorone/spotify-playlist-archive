@@ -4,7 +4,7 @@
 
 > Escalating folk and chamber pop to pump up your day.
 
-22 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/6dltagLZucHokroOA3bLZs)
+22 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

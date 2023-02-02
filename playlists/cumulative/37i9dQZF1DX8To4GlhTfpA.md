@@ -4,7 +4,7 @@
 
 > SHINee's back!
 
-89 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/2JTNzgRpCpXidFyNqublRO)
+89 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

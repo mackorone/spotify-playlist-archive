@@ -4,7 +4,7 @@
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-102 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/3Z2XtpSUEyDALyzM9IVooA)
+102 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

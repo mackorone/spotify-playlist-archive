@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-103 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
+104 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [White Christmas](https://open.spotify.com/track/0X5GOwlZZgW0lT1NsCuir5) | [Sian Sullivan](https://open.spotify.com/artist/4VVP1CLZbbGay53RL2Gbe6) | [White Christmas](https://open.spotify.com/album/7iQnxZfcvdaaQX1fYRAfof) | 4:21 | 2022-10-07 |  |
 | [White Christmas \- Remastered](https://open.spotify.com/track/0uiPNd0fdoklct761AycxJ) | [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [Structurally Sound](https://open.spotify.com/album/4T7k8nLuMrFoiJSL1rlq0k) | 4:30 | 2021-12-21 | 2022-10-08 |
 | [Winter Weather / I've Got My Love to Keep Me Warm](https://open.spotify.com/track/7iuHxTfZzyhBxqZjqNrI0I) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Martinis & Mistletoe: Christmas Jazz Piano](https://open.spotify.com/album/6irxdg4sz5ikmTg3ysQhbK) | 3:48 | 2021-12-21 |  |
-| [Winter Wonderland](https://open.spotify.com/track/2xWHyOzveoGRMIZaA9I9ZR) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Winter Wonderland](https://open.spotify.com/album/6UyHrMcTsIKAtJEIWoWYI3) | 3:52 | 2022-11-10 |  |
+| [Winter Wonderland](https://open.spotify.com/track/4hCpwHWh8YPepNlgYF1HaJ) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods for Christmas](https://open.spotify.com/album/7tMX542vM15zwil5ox5K4q) | 3:52 | 2022-12-05 |  |
+| [Winter Wonderland](https://open.spotify.com/track/2xWHyOzveoGRMIZaA9I9ZR) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Winter Wonderland](https://open.spotify.com/album/6UyHrMcTsIKAtJEIWoWYI3) | 3:52 | 2022-11-10 | 2022-12-08 |
 | [Winter Wonderland](https://open.spotify.com/track/0mIkPyFnpT5m4fFgLkQIxO) | [Tyler Yarema](https://open.spotify.com/artist/0KcV91K9QvNzCPxKq2K9yx), [Steve Wingfield](https://open.spotify.com/artist/2enPADqimWmAb5ovuXQihi), [Chris Gale](https://open.spotify.com/artist/0b8busMyBUGIilON3R2NJA) | [Tis the Season to Be Jazzy](https://open.spotify.com/album/02SiURFcsnXEBsgeBz8uWM) | 4:19 | 2021-12-21 | 2022-11-11 |
 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 | 2022-10-20 |  |
 

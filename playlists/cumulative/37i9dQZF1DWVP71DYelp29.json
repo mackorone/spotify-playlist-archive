@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-25",
-  "description": "The hits you know like you\u2019ve never heard before.  Cover: Harry Styles.",
+  "description": "The hits you know like you\u2019ve never heard before.  Cover: Taylor Swift. ",
   "name": "Spotify Singles: Hits",
-  "published_playlist_ids": [
-    "4vwHHoNBJiy53B2sRKKvPz"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 192146,
       "name": "2002 - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
+        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218938,
+      "name": "22 - Recorded At Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
     },
     {
       "album": {
@@ -55,7 +70,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 431671,
       "name": "Adult Swim - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22Q710MZe6lV8NGyA0DsLS"
@@ -145,7 +160,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 228586,
       "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
@@ -171,6 +186,42 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199883,
+      "name": "American Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222270,
+      "name": "Attention - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
       "artists": [
@@ -181,7 +232,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 180028,
       "name": "Aura - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6Xv6dDUGl39MfJHBtqprmx"
@@ -271,7 +322,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 244213,
       "name": "Beyond - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
@@ -293,10 +344,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 237022,
       "name": "Big (feat. Timbuktu) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/0rbjULSooXfX6S2i8syHSd"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149062,
+      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
     },
     {
       "album": {
@@ -347,7 +416,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 234473,
       "name": "Breathe - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
@@ -387,6 +456,24 @@
       "duration_ms": 163398,
       "name": "Buy U A Drank - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "album": {
@@ -473,7 +560,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 228478,
       "name": "Coloring Outside The Lines - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5jyqoi0sqigcLuce6XOXwa"
@@ -516,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292367,
+      "name": "Crazy - Spotify Singles",
+      "url": "https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e"
+    },
+    {
+      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz"
       },
@@ -531,7 +636,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
@@ -553,7 +658,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
@@ -619,6 +724,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301144,
+      "name": "Cry Me a River - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe"
       },
       "artists": [
@@ -633,7 +756,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 187213,
       "name": "Dab of Ranch - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3lNfezSWDZIdt6XMwyNCJi"
@@ -687,7 +810,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 213480,
       "name": "Dead Boys - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS"
@@ -731,6 +854,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189462,
+      "name": "DO 4 LOVE",
+      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1V3MFMHizPGXUd0ZS5k7ws"
       },
       "artists": [
@@ -745,6 +886,60 @@
       "duration_ms": 210897,
       "name": "Doesn't Matter - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1yMj0VQyNJSDYCfeoBdGfS"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273506,
+      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174094,
+      "name": "Don't Let Me Down - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "album": {
@@ -777,7 +972,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 192773,
       "name": "Don't Stay - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6lLLwnbWbFTqbFmZmJW3bM"
@@ -857,6 +1052,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262544,
+      "name": "drivers license - Spotify Singles",
+      "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5n4jQZpHLAWOVccZKttKSD"
       },
       "artists": [
@@ -867,10 +1080,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 224347,
       "name": "Dunno - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6eIEJLVaPTU3NuctqdWCzJ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157499,
+      "name": "D\u00c1KITI \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
     },
     {
       "album": {
@@ -897,7 +1128,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 167058,
       "name": "Enjoy Enjaami - Spotify Singles (with Dhee feat. Arivu & Santhosh Narayanan)",
       "url": "https://open.spotify.com/track/3z5ITnx50sxmTospLAcM03"
@@ -922,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "spotify singles",
+        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208710,
+      "name": "feel good inc (bbno$ re-finessed) - spotify single",
+      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
       },
@@ -941,6 +1190,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204294,
+      "name": "Fool's Gold - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7"
       },
       "artists": [
@@ -951,7 +1218,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 180982,
       "name": "Friends - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584"
@@ -973,7 +1240,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 135748,
       "name": "Gates to the Sun (POLLEN Singles)",
       "url": "https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP"
@@ -995,6 +1262,32 @@
       "duration_ms": 243804,
       "name": "Girl Crush - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/33zW0KIUcungtxX9ZB22g7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        },
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163917,
+      "name": "Girls Just Wanna Have Fun - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2GwGoL1XlvuYPd6LkZVYB7"
     },
     {
       "album": {
@@ -1027,10 +1320,46 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 245786,
       "name": "Give Yourself A Try - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/4OoqzDZZyckVUeExecQL8y"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202845,
+      "name": "God is a woman - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225632,
+      "name": "Happier - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
     },
     {
       "album": {
@@ -1045,7 +1374,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 217570,
       "name": "He Like That - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/45rT6cjM0p49BI4r6Q8izo"
@@ -1085,10 +1414,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 225644,
       "name": "Heavenly Father (feat. Noah Kahan) - Recorded at Electric Lady Studios, NYC",
       "url": "https://open.spotify.com/track/2OZhWugxgM4wvjI3MXRhJg"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184417,
+      "name": "Hey Ya! - Live Session from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
     },
     {
       "album": {
@@ -1121,7 +1468,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 204814,
       "name": "Hold Me While You Wait - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4XJ2SmdXNTkMkkx6PFPU8m"
@@ -1139,7 +1486,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 622000,
       "name": "home/i want your love - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe"
@@ -1157,7 +1504,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 241456,
       "name": "Hotel Key - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7"
@@ -1175,7 +1522,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 214750,
       "name": "Hunger - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
@@ -1269,7 +1616,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 180551,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP"
@@ -1323,7 +1670,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 229478,
       "name": "Irony - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/1ywnaTYLV3HRmF5PHhfgig"
@@ -1341,10 +1688,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 234986,
       "name": "joy. - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/5rnPsKAPaSQGgdlj5nv07Y"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157692,
+      "name": "July - Spotify Singles",
+      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
     },
     {
       "album": {
@@ -1359,7 +1724,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 206106,
       "name": "Lady Like",
       "url": "https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP"
@@ -1457,7 +1822,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 146758,
       "name": "Little Bit - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/04KKzlTAn6zjXiRIVWKOvF"
@@ -1483,6 +1848,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4ofNmOMGoL3sp1e2Ey8vBe"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178794,
+      "name": "Location - Live from Spotify",
+      "url": "https://open.spotify.com/track/1xpv74iYg4ZSKHX1WcnTQF"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
       "artists": [
@@ -1493,7 +1876,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 214573,
       "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
@@ -1569,7 +1952,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 214823,
       "name": "Love Is Mystical - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO"
@@ -1587,7 +1970,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 228506,
       "name": "Love Me Now - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
@@ -1613,6 +1996,24 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259373,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/18qNiKxBiNzmrdjwqZh7tm"
     },
     {
       "album": {
@@ -1645,7 +2046,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 193115,
       "name": "Miss Me More - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M"
@@ -1699,10 +2100,46 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 201332,
       "name": "Never Comin Down - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240522,
+      "name": "No One - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
     },
     {
       "album": {
@@ -1789,7 +2226,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 142177,
       "name": "Only Want You - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
@@ -1825,7 +2262,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 184752,
       "name": "Oops (Oh My) - Spotify Singles",
       "url": "https://open.spotify.com/track/5qYEH8inKVQiNdkZWG9YZv"
@@ -1861,7 +2298,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 261586,
       "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
@@ -1887,6 +2324,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256893,
+      "name": "Pony - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0exKMPo2iind68yWTaHCrr"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
       },
       "artists": [
@@ -1897,7 +2352,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 235979,
       "name": "Pressure - Live at AIR Studios, London",
       "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
@@ -1923,7 +2378,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 175203,
       "name": "Psychopath - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3dBE30R12dDxc1jBDaqmo3"
@@ -1959,7 +2414,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 226957,
       "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
@@ -1977,7 +2432,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 209542,
       "name": "Ride - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
@@ -2025,6 +2480,42 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237653,
+      "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
+      },
+      "artists": [
+        {
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243053,
+      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
       },
       "artists": [
@@ -2039,6 +2530,42 @@
       "duration_ms": 173206,
       "name": "Sending My Love - Spotify Singles",
       "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187823,
+      "name": "September - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189056,
+      "name": "Sexual - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ"
     },
     {
       "album": {
@@ -2071,7 +2598,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 286840,
       "name": "Shine - Jim Eno Sessions",
       "url": "https://open.spotify.com/track/5iha6wXLuWdwBtlkRdsmrk"
@@ -2132,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Smalltown Boy (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317729,
+      "name": "Smalltown Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC"
       },
@@ -2147,6 +2692,28 @@
       "duration_ms": 161447,
       "name": "So Good - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0qPpxUVTaEGbGsMCugG4JQ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221665,
+      "name": "Spooky - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0"
     },
     {
       "album": {
@@ -2276,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Singles (Live From Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214381,
+      "name": "Summer Love - Live From Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0G080Vm22mv78YJwrsVpVu"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3cg6bi7eX2nc1ytQaRkhYQ"
       },
@@ -2377,7 +2962,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 247346,
       "name": "Tell Me You Love Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7leN3vIDslQwxJehUhrPXJ"
@@ -2439,6 +3024,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177161,
+      "name": "There She Goes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
       },
       "artists": [
@@ -2449,7 +3052,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 209840,
       "name": "Think About You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7"
@@ -2521,7 +3124,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 161371,
       "name": "Tipsy - Spotify Singles",
       "url": "https://open.spotify.com/track/5SjcWE3c7dn0xQbrRLeczT"
@@ -2547,7 +3150,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 170087,
       "name": "Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA"
@@ -2583,7 +3186,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 207642,
       "name": "Turn - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/6IX2SFZplMdAMsAIwMlPsl"
@@ -2637,7 +3240,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 183093,
       "name": "Us - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
@@ -2663,6 +3266,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267802,
+      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4ZXl1inxvsA1x3uKIIRomO"
       },
       "artists": [
@@ -2680,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "Wannabe - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152109,
+      "name": "Wannabe - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
@@ -2691,7 +3330,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 161941,
       "name": "Want You In My Room - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/3brtbfC3XB210HgYYDxcf2"
@@ -2735,6 +3374,24 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193297,
+      "name": "Way down We Go - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
     },
     {
       "album": {
@@ -2801,10 +3458,50 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 224016,
       "name": "Why Her Not Me - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/7whdwj322sXuwBjVykxW1w"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291447,
+      "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
+      "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
+    },
+    {
+      "album": {
+        "name": "Wide Open Spaces - Spotify Singles",
+        "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240224,
+      "name": "Wide Open Spaces - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
     },
     {
       "album": {

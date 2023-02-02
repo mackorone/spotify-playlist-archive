@@ -1,15 +1,31 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 13401,
+  "num_followers": 14383,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQyNTQ1MSwwMDAwMDAwMGM3NjBjMDBkMjg3YjE5M2EwMjJhZmExYjBlMTVhOGRj",
+  "snapshot_id": "MTY2OTcyNTA2NiwwMDAwMDAwMGMxMzJlN2VmYzVkYzk0ZDA2MjljYzhiZjgwZWY2YWE4",
   "tracks": [
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
@@ -25,55 +41,7 @@
       "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 154773,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 180302,
-      "name": "You Make Me Feel Like It\u2019s Halloween",
-      "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Antics",
         "url": "https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz"
@@ -89,7 +57,23 @@
       "url": "https://open.spotify.com/track/4absiGHMelB8eH976ytjBj"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
@@ -105,7 +89,7 @@
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "The Smiths",
         "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
@@ -121,7 +105,23 @@
       "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Juju",
         "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
@@ -137,23 +137,23 @@
       "url": "https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Return To Cookie Mountain",
-        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
       "artists": [
         {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 279293,
-      "name": "Wolf Like Me",
-      "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
+      "duration_ms": 180302,
+      "name": "You Make Me Feel Like It\u2019s Halloween",
+      "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
@@ -169,7 +169,23 @@
       "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 279293,
+      "name": "Wolf Like Me",
+      "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Carry On The Grudge",
         "url": "https://open.spotify.com/album/3iRWCjHbKKSICMbXarCTRC"
@@ -185,39 +201,7 @@
       "url": "https://open.spotify.com/track/22eNdxGb4tEvBt0nBCp52o"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "It's Blitz! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 167253,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/6NlE71TbUglmKQVLhE1H8R"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "To Lose My Life ...",
         "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
@@ -233,39 +217,39 @@
       "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "So Jealous",
-        "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
       "artists": [
         {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 150293,
-      "name": "Walking with a Ghost",
-      "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Brain Drain",
-        "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
+        "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM"
+      "duration_ms": 167253,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/6NlE71TbUglmKQVLhE1H8R"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Cease To Begin",
         "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
@@ -281,7 +265,23 @@
       "url": "https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "So Jealous",
+        "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Walking with a Ghost",
+      "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
@@ -297,55 +297,23 @@
       "url": "https://open.spotify.com/track/6KF8tgwtvx29hM2RxqHoqP"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
+        "name": "Brain Drain",
+        "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 215320,
-      "name": "Burn The Witch",
-      "url": "https://open.spotify.com/track/7yyif2Ity1GipUXTdgofKw"
+      "duration_ms": 210333,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Let's Have A Satanic Orgy",
-        "url": "https://open.spotify.com/album/6wKzNT7iuR06KiXJBTpkuV"
-      },
-      "artists": [
-        {
-          "name": "Twin Temple",
-          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
-        }
-      ],
-      "duration_ms": 244035,
-      "name": "Let's Have A Satanic Orgy",
-      "url": "https://open.spotify.com/track/1wJCQOm2LmQVTfO0d2Ax87"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "Little Ghost",
-      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
@@ -361,87 +329,39 @@
       "url": "https://open.spotify.com/track/2vVHf43MQ8V3gDbo8HRlnJ"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+        "name": "Let's Have A Satanic Orgy",
+        "url": "https://open.spotify.com/album/6wKzNT7iuR06KiXJBTpkuV"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Twin Temple",
+          "url": "https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc"
         }
       ],
-      "duration_ms": 309786,
-      "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
-      "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
+      "duration_ms": 244035,
+      "name": "Let's Have A Satanic Orgy",
+      "url": "https://open.spotify.com/track/1wJCQOm2LmQVTfO0d2Ax87"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
       },
       "artists": [
         {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 270986,
-      "name": "My Body's a Zombie For You",
-      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
+      "duration_ms": 215320,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/7yyif2Ity1GipUXTdgofKw"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Noise Floor (Rarities: 1998-2005)",
-        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Devil Town",
-      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
-        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 215179,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "We Only Come Out At Night - Remastered 2012",
-      "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Killer",
         "url": "https://open.spotify.com/album/7qmlNHyFmBSZQllaVRBQq7"
@@ -457,23 +377,71 @@
       "url": "https://open.spotify.com/track/6yRqX9dZj1b09OpEe0QgE3"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
+        "name": "Noise Floor (Rarities: 1998-2005)",
+        "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
       "artists": [
         {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Halloween Parade",
-      "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
+      "duration_ms": 183240,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 309786,
+      "name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
+      "url": "https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Little Ghost",
+      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "We Only Come Out At Night - Remastered 2012",
+      "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "GHOSTS ON TAPE",
         "url": "https://open.spotify.com/album/4vfBqush7QWFgPMr1MpJav"
@@ -489,7 +457,7 @@
       "url": "https://open.spotify.com/track/6vq3WZt52G9yqT6JwDEJWY"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Screen Violence",
         "url": "https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO"
@@ -505,71 +473,7 @@
       "url": "https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "The Physical World",
-        "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Right On, Frankenstein!",
-      "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "A Quick One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Boris The Spider - Mono Version",
-      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "Scarecrow",
-      "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "A Weekend in the City",
-        "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 210146,
-      "name": "Hunting for Witches",
-      "url": "https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Blood Red Moon",
         "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
@@ -585,39 +489,23 @@
       "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+        "name": "A Weekend in the City",
+        "url": "https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R"
       },
       "artists": [
         {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
         }
       ],
-      "duration_ms": 180186,
-      "name": "Dead Man's Bones",
-      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
+      "duration_ms": 210146,
+      "name": "Hunting for Witches",
+      "url": "https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
@@ -633,7 +521,55 @@
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "The Physical World",
+        "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Right On, Frankenstein!",
+      "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "My Body's a Zombie For You",
+      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
+        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 215179,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Made of Bricks",
         "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
@@ -649,39 +585,39 @@
       "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Bad Moon Rising",
-        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
+        "name": "New York",
+        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
       },
       "artists": [
         {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 311200,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
+      "duration_ms": 213333,
+      "name": "Halloween Parade",
+      "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "One Thousand Pictures",
-        "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
       },
       "artists": [
         {
-          "name": "Pete And The Pirates",
-          "url": "https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 188813,
-      "name": "Blood Gets Thin",
-      "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
+      "duration_ms": 255666,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "We Need Medicine (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6E1stKFODamAR9n0TddMy7"
@@ -697,39 +633,39 @@
       "url": "https://open.spotify.com/track/0LEycyIxbAwwB9U0GgMx39"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Transangelic Exodus",
-        "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
+        "name": "One Thousand Pictures",
+        "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
       },
       "artists": [
         {
-          "name": "Ezra Furman",
-          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+          "name": "Pete And The Pirates",
+          "url": "https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ"
         }
       ],
-      "duration_ms": 289000,
-      "name": "Suck the Blood from My Wound",
-      "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
+      "duration_ms": 188813,
+      "name": "Blood Gets Thin",
+      "url": "https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Zombie Prom (Hallowe'en At Home Edition)",
-        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
       "artists": [
         {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
         }
       ],
-      "duration_ms": 218693,
-      "name": "Zombie Prom",
-      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
@@ -745,23 +681,55 @@
       "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Come Of Age",
-        "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
       },
       "artists": [
         {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
         }
       ],
-      "duration_ms": 140906,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/347OA86TbdeTydHhy90blH"
+      "duration_ms": 180186,
+      "name": "Dead Man's Bones",
+      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "A Quick One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Boris The Spider - Mono Version",
+      "url": "https://open.spotify.com/track/1S0F285e5h5BNI2gJAmPqe"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Transangelic Exodus",
+        "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
+      },
+      "artists": [
+        {
+          "name": "Ezra Furman",
+          "url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Suck the Blood from My Wound",
+      "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Evil Urges",
         "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
@@ -777,71 +745,7 @@
       "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Pip Paine (Pay The \u00a35000 You Owe)",
-        "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Trick or Treatz",
-      "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "In Ghost Colours",
-        "url": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
-      },
-      "artists": [
-        {
-          "name": "Cut Copy",
-          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "So Haunted",
-      "url": "https://open.spotify.com/track/63MaRhpygmnQk38HQU1gse"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "A Girl Like You",
-        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
-      },
-      "artists": [
-        {
-          "name": "Anna B Savage",
-          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "River Styx",
-      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Four Words To Stand On",
         "url": "https://open.spotify.com/album/0UIVEV4vALA9fawXE8YLHS"
@@ -857,39 +761,119 @@
       "url": "https://open.spotify.com/track/5DQNmdJagdL4HGnkcu6qwW"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "The Five Ghosts",
-        "url": "https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU"
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII"
       },
       "artists": [
         {
-          "name": "Stars",
-          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
         }
       ],
-      "duration_ms": 185773,
-      "name": "I Died So I Could Haunt You",
-      "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
+      "duration_ms": 235746,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Rest Now, Weary Head! You Will Get Well Soon",
-        "url": "https://open.spotify.com/album/48ypMHut6U8zn4AQlJdtcF"
+        "name": "Come Of Age",
+        "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
       },
       "artists": [
         {
-          "name": "Get Well Soon",
-          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
         }
       ],
-      "duration_ms": 239866,
-      "name": "Witches! Witches! Rest Now in the Fire",
-      "url": "https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB"
+      "duration_ms": 140906,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/347OA86TbdeTydHhy90blH"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Pip Paine (Pay The \u00a35000 You Owe)",
+        "url": "https://open.spotify.com/album/3PWeJGk1ybkkO5lF9eXVUt"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Trick or Treatz",
+      "url": "https://open.spotify.com/track/3JjiOYtQlAl7AHh2sXBgC6"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "In Ghost Colours",
+        "url": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "So Haunted",
+      "url": "https://open.spotify.com/track/63MaRhpygmnQk38HQU1gse"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Zombie Prom (Hallowe'en At Home Edition)",
+        "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Zombie Prom",
+      "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "A Girl Like You",
+        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Bad Moon Rising",
+        "url": "https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 311200,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "No Regerts",
         "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
@@ -905,87 +889,23 @@
       "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
-        "name": "Hit to Death in the Future Head",
-        "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
+        "name": "The Five Ghosts",
+        "url": "https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU"
       },
       "artists": [
         {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+          "name": "Stars",
+          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
         }
       ],
-      "duration_ms": 342693,
-      "name": "Halloween on the Barbary Coast",
-      "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
+      "duration_ms": 185773,
+      "name": "I Died So I Could Haunt You",
+      "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Veronica Falls",
-        "url": "https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g"
-      },
-      "artists": [
-        {
-          "name": "Veronica Falls",
-          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Found Love in a Graveyard",
-      "url": "https://open.spotify.com/track/7vD8m9ZzsvnnPYd1VpzgUO"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Whip It On",
-        "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
-      },
-      "artists": [
-        {
-          "name": "The Raveonettes",
-          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Attack of the Ghost Riders",
-      "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl"
-      },
-      "artists": [
-        {
-          "name": "Teleman",
-          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Skeleton Dance",
-      "url": "https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Keep On Your Mean Side",
-        "url": "https://open.spotify.com/album/6eeRBkc7lIYGX8H2Ba1zWG"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 280133,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/4fRp8vZV2P2BNBbBuFarLR"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Dark and Stormy",
         "url": "https://open.spotify.com/album/7beMB0mRNOgPfrCyNlhXmk"
@@ -1001,7 +921,103 @@
       "url": "https://open.spotify.com/track/5o45wuK2lhBcwR3fSnakXL"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl"
+      },
+      "artists": [
+        {
+          "name": "Teleman",
+          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Skeleton Dance",
+      "url": "https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Rest Now, Weary Head! You Will Get Well Soon",
+        "url": "https://open.spotify.com/album/48ypMHut6U8zn4AQlJdtcF"
+      },
+      "artists": [
+        {
+          "name": "Get Well Soon",
+          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Witches! Witches! Rest Now in the Fire",
+      "url": "https://open.spotify.com/track/7a6SaJ71Kwn1caXPAY3OsB"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Whip It On",
+        "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
+      },
+      "artists": [
+        {
+          "name": "The Raveonettes",
+          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Attack of the Ghost Riders",
+      "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Keep On Your Mean Side",
+        "url": "https://open.spotify.com/album/6eeRBkc7lIYGX8H2Ba1zWG"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/4fRp8vZV2P2BNBbBuFarLR"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Veronica Falls",
+        "url": "https://open.spotify.com/album/02oz6Rr7JK31RIRHtzUx2g"
+      },
+      "artists": [
+        {
+          "name": "Veronica Falls",
+          "url": "https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV"
+        }
+      ],
+      "duration_ms": 239066,
+      "name": "Found Love in a Graveyard",
+      "url": "https://open.spotify.com/track/7vD8m9ZzsvnnPYd1VpzgUO"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
+      "album": {
+        "name": "Hit to Death in the Future Head",
+        "url": "https://open.spotify.com/album/1lynS5ouWEeWeMNT0XLqpJ"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 342693,
+      "name": "Halloween on the Barbary Coast",
+      "url": "https://open.spotify.com/track/7q7nZbhTbQotDE2P5vIJPL"
+    },
+    {
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Drowaton",
         "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
     },
     {
-      "added_at": "2022-11-02 21:44:11",
+      "added_at": "2022-11-29 12:31:06",
       "album": {
         "name": "Skeleton Song",
         "url": "https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW"
@@ -1031,22 +1047,6 @@
       "duration_ms": 162127,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Shake, Shook, Shaken",
-        "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
-      },
-      "artists": [
-        {
-          "name": "The D\u00f8",
-          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
-        }
-      ],
-      "duration_ms": 173300,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
     }
   ],
   "unique_name": "Indie Halloween",

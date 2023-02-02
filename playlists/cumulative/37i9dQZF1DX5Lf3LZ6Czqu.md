@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Polyphia
 
-111 songs - 8 hr 25 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+112 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Together](https://open.spotify.com/track/23R5kepMliUvCaq5hsug04) | [Sterfry](https://open.spotify.com/artist/2ZRvR99Cg42zMNIfEnP5HK), [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum), [Jason Leech](https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G) | [Together](https://open.spotify.com/album/77ya30BnZ7Kat4yD8KCEN4) | 2:47 | 2022-11-11 |  |
 | [Tumescent](https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN) | 4:02 | 2021-05-04 | 2022-07-29 |
 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 | 2021-05-04 |  |
+| [U R the 1!](https://open.spotify.com/track/7lfmDk9ZLPJHSFtmjpDdc5) | [David Henriksson & Daze Delight](https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV) | [U R the 1!](https://open.spotify.com/album/0uTLJAXgXuNa2WvZSb9cf9) | 3:36 | 2023-01-27 |  |
 | [Undoing](https://open.spotify.com/track/2TtKJKiZmP54qgcKS56BSy) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas) | [Big Sky](https://open.spotify.com/album/5QmMhhXoF5jvbSD7DTYO0T) | 4:57 | 2021-05-04 | 2022-10-12 |
 | [Up \- Radio Edit](https://open.spotify.com/track/6TEtobdqqkehkhoNEGhimR) | [Slim Gambill](https://open.spotify.com/artist/6pkYDXD80qfP5EckmtuqKx), [Charlton Singleton](https://open.spotify.com/artist/7cBiq0AlHgBwnSLlkDoh3E) | [Up \(Radio Edit\)](https://open.spotify.com/album/56qJA6rZbqRzqY2D9VSjA5) | 3:56 | 2021-10-29 | 2022-01-05 |
 | [Up into the Ether](https://open.spotify.com/track/2LbkjfSzAPl94K0vGWTNDc) | [I Built the Sky](https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN) | [The Zenith Rise](https://open.spotify.com/album/2jP2Jy1vyCKq6ZTBuh5NCk) | 5:01 | 2021-05-04 |  |

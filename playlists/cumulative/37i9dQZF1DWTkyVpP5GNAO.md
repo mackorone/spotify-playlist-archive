@@ -4,7 +4,7 @@
 
 > A Dios sea toda la gloria y alabanza\. Foto: Miel San Marcos, Ingrid Rosario
 
-129 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/6XERtpxula7zdB3WFxiDds)
+129 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

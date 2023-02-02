@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-84 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/6GvH0VpVCfijhWjgTOMewu)
+84 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

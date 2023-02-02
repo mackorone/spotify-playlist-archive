@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 
 > A look back at some of the most impactful songs of 2017.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,832 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,743 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 39 | [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 |
 | 40 | [Battle Symphony](https://open.spotify.com/track/3FQCJI2t5LTbsRPfYVBSVB) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:36 |
 | 41 | [Bottom Of The Deep Blue Sea](https://open.spotify.com/track/4hg8D0wW7CXEUsc0fl9vnN) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Bottom Of The Deep Blue Sea](https://open.spotify.com/album/58CDsLKHOAKFTkAwFefW6d) | 3:51 |
-| 42 | [Suit And Jacket](https://open.spotify.com/track/2ZYBwkmtYhgUj1A7teYAZ7) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Folk Hop N' Roll \(Deluxe\)](https://open.spotify.com/album/7vLmY8rLjLvOTQ0wk7Hqeh) | 3:42 |
+| 42 | [Suit and Jacket](https://open.spotify.com/track/3ILLqwupo1Aa6PBNXxV4ey) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Folk Hop n' Roll \(Deluxe\)](https://open.spotify.com/album/4K1jpuHe0ggkFmm4sNidFm) | 3:42 |
 | 43 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 |
 | 44 | [For What It's Worth](https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 4:11 |
 | 45 | [Holy Mountain](https://open.spotify.com/track/7iQmD0bfguAQOpU1V3Bp8w) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Who Built The Moon?](https://open.spotify.com/album/2pzI39O9jAVFghND0SiQHm) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Jg9KZ76Rr9.md) - [plain]
 | 99 | [The Promise](https://open.spotify.com/track/3tM778lBLL9SjnN0OHWgHH) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [The Promise](https://open.spotify.com/album/44xvS1Lm42hYEMorJxwQ7z) | 4:20 |
 | 100 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 
-Snapshot ID: `MTUxMjgzNzA5MywwMDAwMDAwMDgwZGUzZGFjZmE5MThhYzMwNjNhNmVmNjUzNzUzYTY0`
+Snapshot ID: `MTUxMjgzNzA5MywwMDAwMDAwMDE2OWFhM2M4ZWQ1NWE2ZDc1Y2RlMmE4ZWYzNDU2NWNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,316 likes - 74 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,150 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 65 | [Attaining Peace](https://open.spotify.com/track/4o6vJWuNT0w01fPMISWOVV) | [JD Emmanuel](https://open.spotify.com/artist/39eBp0j2hpQyucio2z0el6) | [Wizards](https://open.spotify.com/album/08Ak0ziV7ddHUu4gf91U9z) | 5:06 |
 | 66 | [Flux \(A Big, Bright, Colourful World\)](https://open.spotify.com/track/63UbIBRjfi8273JzExI9Mk) | [David Sylvian & Holger Czukay](https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7) | [Plight & Premonition Flux & Mutability](https://open.spotify.com/album/6iiBcOISDBWY0J1n3jNcRP) | 16:55 |
 | 67 | [Samadhi](https://open.spotify.com/track/6fmNbaYWyLvI6rA3wy9NAw) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 9:42 |
-| 68 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
-| 69 | [A Circular Ceremony](https://open.spotify.com/track/06MXIcMiMevqLGcCO4nUTE) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Dreamtime Return \- 30th Anniversary Remastered Edition](https://open.spotify.com/album/6lnjs641LTK3qswbVFFBJw) | 11:21 |
-| 70 | [TO THE AIR/空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 |
-| 71 | [Night At The Sea Side](https://open.spotify.com/track/5oxwgPziDjjjKifhTqtMD7) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 1](https://open.spotify.com/album/20sAgx3TsYnW5HffCebCMG) | 8:25 |
-| 72 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 |
-| 73 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
-| 74 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
+| 68 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
+| 69 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
+| 70 | [A Circular Ceremony](https://open.spotify.com/track/06MXIcMiMevqLGcCO4nUTE) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Dreamtime Return \- 30th Anniversary Remastered Edition](https://open.spotify.com/album/6lnjs641LTK3qswbVFFBJw) | 11:21 |
+| 71 | [TO THE AIR/空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 |
+| 72 | [Night At The Sea Side](https://open.spotify.com/track/5oxwgPziDjjjKifhTqtMD7) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 1](https://open.spotify.com/album/20sAgx3TsYnW5HffCebCMG) | 8:25 |
+| 73 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 |
+| 74 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 
-Snapshot ID: `MTY2OTIwNDMwNCwwMDAwMDAwMDNmYmZlMGU0YjJlMWVjNTdmODAxYjFmNTk4MDc1M2E3`
+Snapshot ID: `MTY3MjQyMjUxMywwMDAwMDAwMDViZGJiNTE3YWQ2Njc4NGVkZDBlNGMyMzY3N2JiYTg4`

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-22",
   "description": "Jahaan bhi dekho tera nishaan hai, mahraab-i dil men teri azaan hai.",
   "name": "South Asian Sufi",
-  "published_playlist_ids": [
-    "6jyKNP769IPaxkOJDH7ZYq"
-  ],
   "tracks": [
     {
       "album": {
@@ -639,7 +636,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 348965,
-      "name": "Bulleya",
+      "name": "Bulleya (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh"
     },
     {
@@ -1027,6 +1024,22 @@
         {
           "name": "Salim\u2013Sulaiman",
           "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Raj Pandit",
+          "url": "https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908"
+        },
+        {
+          "name": "Salman Ali",
+          "url": "https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF"
+        },
+        {
+          "name": "Vipul Mehta",
+          "url": "https://open.spotify.com/artist/1dYfklXi4374JvN7XjNJ2a"
         }
       ],
       "date_added": "2022-08-02",
@@ -1879,10 +1892,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 213333,
       "name": "Rang Le",
       "url": "https://open.spotify.com/track/6AeeDw5Vckef3OD3QtOBu1"
+    },
+    {
+      "album": {
+        "name": "Rang Le",
+        "url": "https://open.spotify.com/album/2OC8Tg8Z4F583hxAyb64tt"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Rang Le",
+      "url": "https://open.spotify.com/track/6BW7qbuZba3CoEr1OahhUo"
     },
     {
       "album": {

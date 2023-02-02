@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-02",
   "description": "Respira, inspira... Uma sele\u00e7\u00e3o musical ideal para voc\u00ea relaxar.",
   "name": "Medita\u00e7\u00e3o e Relaxamento",
-  "published_playlist_ids": [
-    "04VqmIAE8iwyctfiRi2dWU"
-  ],
   "tracks": [
     {
       "album": {
@@ -49,8 +46,8 @@
       },
       "artists": [
         {
-          "name": "Jupos",
-          "url": "https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB"
+          "name": "Ami Sanou",
+          "url": "https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY"
         }
       ],
       "date_added": "2022-06-16",
@@ -235,7 +232,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 145115,
       "name": "Ainda Ontem",
       "url": "https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu"
@@ -685,7 +682,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 158430,
       "name": "Bord de L\u2019eau",
       "url": "https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF"
@@ -1236,13 +1233,31 @@
     },
     {
       "album": {
+        "name": "Evanescenza",
+        "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Calmaz",
+          "url": "https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235716,
+      "name": "Evanescenza",
+      "url": "https://open.spotify.com/track/28WP5mwpfzMw4oVSBXkWgu"
+    },
+    {
+      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/0O67PdetBALfQ0K6EyQvuB"
       },
       "artists": [
         {
-          "name": "Soreana",
-          "url": "https://open.spotify.com/artist/0HdXLO57mF22hjMHIkDF8g"
+          "name": "Danoa",
+          "url": "https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2"
         }
       ],
       "date_added": "2022-09-13",
@@ -1283,7 +1298,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 154000,
       "name": "Fermez vos yeux",
       "url": "https://open.spotify.com/track/7fjl8fmaUdRWNstdzGHCeF"
@@ -1457,8 +1472,8 @@
       },
       "artists": [
         {
-          "name": "Emil Fortini",
-          "url": "https://open.spotify.com/artist/1Ce1nbaoW2Uw18C21ES7QG"
+          "name": "Natana Bach",
+          "url": "https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4"
         }
       ],
       "date_added": "2022-10-21",
@@ -1517,7 +1532,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 178500,
       "name": "Hermosa",
       "url": "https://open.spotify.com/track/5Qg04tWgRG0Yv8VNRUKs9k"
@@ -1565,8 +1580,8 @@
       },
       "artists": [
         {
-          "name": "Luca Sana",
-          "url": "https://open.spotify.com/artist/4s8JJteAbznSpmyrVCkSGA"
+          "name": "Tone Jacobs",
+          "url": "https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT"
         }
       ],
       "date_added": "2022-09-02",
@@ -1812,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Kip",
+        "url": "https://open.spotify.com/album/1uQZiWHm7zqy9S9mninlDY"
+      },
+      "artists": [
+        {
+          "name": "Omnium Tal",
+          "url": "https://open.spotify.com/artist/5aWinRRUMWDwSjwUMCNZP9"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157014,
+      "name": "Kip",
+      "url": "https://open.spotify.com/track/2OFRqrTCGaxJgi5pKICi8t"
+    },
+    {
+      "album": {
         "name": "Kustlijnen",
         "url": "https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii"
       },
@@ -1827,6 +1860,24 @@
       "duration_ms": 154481,
       "name": "Kustlijnen",
       "url": "https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz"
+    },
+    {
+      "album": {
+        "name": "Lagoom",
+        "url": "https://open.spotify.com/album/0qMrCPIHj6jnFJkhPodqiC"
+      },
+      "artists": [
+        {
+          "name": "Harvey Lanza",
+          "url": "https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Lagoom",
+      "url": "https://open.spotify.com/track/4WBSK6p3BjyUJQ0hmyKdQM"
     },
     {
       "album": {
@@ -2111,7 +2162,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 100176,
       "name": "My Father's Tears",
       "url": "https://open.spotify.com/track/0pFAWeCiim0NCmwRgbg1Q7"
@@ -2453,7 +2504,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 131422,
       "name": "Peaceful Journey",
       "url": "https://open.spotify.com/track/2w2TNG4SXWwRAPiHZoRgnw"
@@ -2727,6 +2778,24 @@
       "duration_ms": 138857,
       "name": "R\u00eaves",
       "url": "https://open.spotify.com/track/6RcqLuGZa6qzLEX5v5pAAH"
+    },
+    {
+      "album": {
+        "name": "Sami Lok",
+        "url": "https://open.spotify.com/album/45h8HZSocufB5d9hIzyWJC"
+      },
+      "artists": [
+        {
+          "name": "Nama Mantra",
+          "url": "https://open.spotify.com/artist/4ou402f5ElV7ZVn39kXvxU"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164874,
+      "name": "Sami Lok",
+      "url": "https://open.spotify.com/track/6ad8ExozmvLsI8sOZgUqFe"
     },
     {
       "album": {
@@ -3083,7 +3152,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 121000,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/34BSd3iWTdJ38hhTxUP5vw"
@@ -3123,6 +3192,24 @@
       "duration_ms": 188746,
       "name": "Stillness of Mind",
       "url": "https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP"
+    },
+    {
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2xshTZEMF4Wi3DQ7wmMDTE"
+      },
+      "artists": [
+        {
+          "name": "Taeda Trees",
+          "url": "https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168215,
+      "name": "Stratosphere",
+      "url": "https://open.spotify.com/track/7doPDvbDidcSQklSmuZE17"
     },
     {
       "album": {
@@ -3317,7 +3404,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 242112,
       "name": "Towards Calm",
       "url": "https://open.spotify.com/track/4izjPsdgh9xFe2eg7GgAtD"
@@ -3393,6 +3480,24 @@
       "duration_ms": 253000,
       "name": "Verlangen",
       "url": "https://open.spotify.com/track/75pcpojFTJnyfeGw0YrEQ9"
+    },
+    {
+      "album": {
+        "name": "Vinternatt",
+        "url": "https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U"
+      },
+      "artists": [
+        {
+          "name": "Iben Haugen",
+          "url": "https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158941,
+      "name": "Vinternatt",
+      "url": "https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov"
     },
     {
       "album": {

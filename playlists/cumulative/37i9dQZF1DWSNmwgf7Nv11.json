@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Free-spirited, atmospheric vibes.",
   "name": "Boho + Chill",
-  "published_playlist_ids": [
-    "79WKo1g8A6daCdei56m7Tj"
-  ],
   "tracks": [
     {
       "album": {
@@ -2009,10 +2006,28 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 189426,
       "name": "Golden",
       "url": "https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
     },
     {
       "album": {
@@ -2103,6 +2118,24 @@
       "duration_ms": 181200,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
+    },
+    {
+      "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Hermosa Drive",
+      "url": "https://open.spotify.com/track/3ZYlHhwB1YnzenzkURxprc"
     },
     {
       "album": {

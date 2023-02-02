@@ -4,7 +4,7 @@
 
 > Their finest work, in one playlist
 
-62 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/6l5ygAN0Rf1yBoejedYy6U)
+62 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

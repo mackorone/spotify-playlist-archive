@@ -2,9 +2,9 @@
 
 ### [This Is TOMORROW X TOGETHER](https://open.spotify.com/playlist/37i9dQZF1DX2pmk7QemwOu)
 
-> ONE DREAM with TXT!
+> ONE DREAM with TXT! Are you ready for a Sugar Rush Ride?
 
-77 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/0SB4cIXoV0TCgjBg98gz8P)
+82 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [CROWN](https://open.spotify.com/track/32h6yQGn4oAhZ0HRsTMX26) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg) | 3:50 | 2022-05-12 | 2022-07-29 |
 | [Dear Sputnik](https://open.spotify.com/track/7ypFllJwlotXBJfLjsXhvo) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:14 | 2022-05-12 |  |
 | [Dear Sputnik](https://open.spotify.com/track/37kWYmbo68VxWl9nNBvr8T) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:15 | 2022-05-12 |  |
+| [Devil by the Window](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 |  |
 | [Drama](https://open.spotify.com/track/0YKzTMzgAXgQLpChiBRTlf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:29 | 2022-05-12 |  |
 | [Drama](https://open.spotify.com/track/1vH3GM0b9BqBCZ0ACVa7XA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 3:29 | 2022-05-12 | 2022-07-29 |
 | [Eternally](https://open.spotify.com/track/0RRd7AcCl0HR5gzzRuCMXs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:37 | 2022-05-12 |  |
@@ -42,11 +43,13 @@
 | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd) | 3:34 | 2022-05-12 |  |
 | [Fairy of Shampoo](https://open.spotify.com/track/5IFCL8jUbhv1nP3cPuda7n) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 4:27 | 2022-05-12 | 2022-07-29 |
 | [Fairy of Shampoo](https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 4:27 | 2022-05-12 |  |
+| [Farewell, Neverland](https://open.spotify.com/track/43mnNatwMMydJ4CxMdQVnJ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:00 | 2023-01-27 |  |
 | [Free Falling](https://open.spotify.com/track/1t2fPE8rClkb0ZACu26ebN) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Free Falling](https://open.spotify.com/album/0V2vQVVSUJXXqSnikWNcZq) | 3:37 | 2022-09-19 |  |
 | [Frost](https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:14 | 2022-05-12 |  |
 | [Frost](https://open.spotify.com/track/4wZeTwH0B4zk77j2vPfFAU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:15 | 2022-05-12 |  |
 | [Ghosting](https://open.spotify.com/track/6mS8cd33jFrighnLc0obxQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:43 | 2022-05-12 |  |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-12 |  |
+| [Happy Fools \(feat\. Coi Leray\)](https://open.spotify.com/track/77LZvE2XLYn2AW55UxIG8H) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 2:35 | 2023-01-27 |  |
 | [Ice Cream](https://open.spotify.com/track/1DA36fEIoN6IKuDAI6oBbK) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2022-05-12 |  |
 | [Ice Cream](https://open.spotify.com/track/5OvpZeRmZEBPp7Vgp0n6oj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:24 | 2022-05-12 |  |
 | [Ito](https://open.spotify.com/track/0Fb1M7rbOnydw6SrXXSlHr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Ito](https://open.spotify.com/album/4kZPJgs4OcK4AXHlEbIwuU) | 4:03 | 2022-05-12 |  |
@@ -77,7 +80,9 @@
 | [PUMA](https://open.spotify.com/track/4dJThL3k5tMRdduAiARM4R) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:25 | 2022-05-12 |  |
 | [Roller Coaster](https://open.spotify.com/track/50eeuSVdOIf7PK3JdXoDbd) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) | 3:34 | 2022-05-12 | 2022-07-29 |
 | [Roller Coaster](https://open.spotify.com/track/569Xgt70tGY3GyqHfDDc7y) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:34 | 2022-05-12 |  |
+| [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 |  |
 | [Thursday's Child Has Far To Go](https://open.spotify.com/track/04CHEoMbrLOiX8co3EG5dO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:31 | 2022-05-12 |  |
+| [Tinnitus \(Wanna be a rock\)](https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 2:37 | 2023-01-27 |  |
 | [Trust Fund Baby](https://open.spotify.com/track/20pl0RVGT7P6L1Jr9p51nw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 2:36 | 2022-05-12 |  |
 | [Way Home](https://open.spotify.com/track/195eCIcjTLsOJZ1nfNHUUJ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:02 | 2022-05-12 |  |
 | [We Lost The Summer](https://open.spotify.com/track/1WrScpykT891CZhFThXJtj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:30 | 2022-05-12 |  |

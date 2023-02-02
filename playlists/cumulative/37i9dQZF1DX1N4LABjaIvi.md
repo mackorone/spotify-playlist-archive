@@ -4,7 +4,7 @@
 
 > Todo lo nuevo y lo esencial de Luciano en una sola lista.
 
-145 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/4zlojQtvqb3RldX3KbypZD)
+145 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

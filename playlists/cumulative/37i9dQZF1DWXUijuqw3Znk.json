@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
   "name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
-  "published_playlist_ids": [
-    "2ficOkbgvrKWFtT4FiaV9N"
-  ],
   "tracks": [
     {
       "album": {
@@ -81,7 +78,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 291066,
       "name": "111%",
       "url": "https://open.spotify.com/track/6XsK88k4pe30cx5as6z7xq"
@@ -985,7 +982,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": "2023-01-25",
       "duration_ms": 220868,
       "name": "Brighten your night",
       "url": "https://open.spotify.com/track/2fFgcNHLbKtmFooCY7vaLP"
@@ -1111,7 +1108,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 258893,
       "name": "Career High (Feat. Paloalto, nafla, Chancellor)",
       "url": "https://open.spotify.com/track/3huX6IPP80pZmLAgiDtiqy"
@@ -1283,6 +1280,32 @@
       "duration_ms": 231182,
       "name": "COMPASS (Feat. Chin)",
       "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229450,
+      "name": "COMPASS (Feat. UNEDUCATED KID, SUPERBEE) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/3drPHXPtY4FQ4H55QVLHbY"
     },
     {
       "album": {
@@ -1647,7 +1670,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 140411,
       "name": "dreamin'",
       "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
@@ -1739,6 +1762,28 @@
       "duration_ms": 219906,
       "name": "Eraser in my head(feat. Changmo)(prod. Kidstone)",
       "url": "https://open.spotify.com/track/0H7aozg5WLDbtUSek1KWRz"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210401,
+      "name": "ERI ERI (Feat. Homies)",
+      "url": "https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R"
     },
     {
       "album": {
@@ -1859,7 +1904,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 254347,
       "name": "Flashing (Feat. HanYoHan, OLNL)",
       "url": "https://open.spotify.com/track/699iM8x19NFJx0MKsdqkqo"
@@ -1975,7 +2020,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 136689,
       "name": "Foul",
       "url": "https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X"
@@ -2117,7 +2162,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": "2023-01-19",
       "duration_ms": 214293,
       "name": "GENERATION(Prod. Lean$moke)",
       "url": "https://open.spotify.com/track/55ZNU07XDdynQMykHXYglz"
@@ -2171,7 +2216,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 194252,
       "name": "GNGB",
       "url": "https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6"
@@ -2575,6 +2620,32 @@
       "duration_ms": 199456,
       "name": "Hiphop Lover",
       "url": "https://open.spotify.com/track/7hV1vaZ28WhjzfaMHUvKju"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247680,
+      "name": "Holiday (Feat. lIlBOI, GIRIBOY) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd"
     },
     {
       "album": {
@@ -3543,7 +3614,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 237986,
       "name": "Mask On (Feat. Paloalto & Coogie) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0jbjJFQsatcRCswxTl9X7J"
@@ -3627,6 +3698,28 @@
       "duration_ms": 197096,
       "name": "METEOR",
       "url": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
+    },
+    {
+      "album": {
+        "name": "MEVIUS",
+        "url": "https://open.spotify.com/album/76tNouAAoq5UcyhYZ5zEUz"
+      },
+      "artists": [
+        {
+          "name": "J;KEY",
+          "url": "https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK"
+        },
+        {
+          "name": "Von Air",
+          "url": "https://open.spotify.com/artist/2d5pN8dJvMwQllTEbKs9m7"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174587,
+      "name": "MEVIUS (Feat. Von Air)",
+      "url": "https://open.spotify.com/track/44GtWk95ctG99mgbjLUGkA"
     },
     {
       "album": {
@@ -3917,7 +4010,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 244186,
       "name": "Naked (Feat. SINCE, Roh Yun Ha)",
       "url": "https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx"
@@ -4125,6 +4218,24 @@
       "duration_ms": 145787,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/0yZhTnJlMPcmfYj3iOoYg1"
+    },
+    {
+      "album": {
+        "name": "Unlock My Boss, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/03W3tRDeTtIvAvHFX598NR"
+      },
+      "artists": [
+        {
+          "name": "Mckdaddy",
+          "url": "https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176130,
+      "name": "Nobody is perfect (Prod. Song Yoodam)",
+      "url": "https://open.spotify.com/track/0rmepzrZX9JO9Rnvx07fvr"
     },
     {
       "album": {
@@ -4803,7 +4914,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 177220,
       "name": "Ride it like",
       "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
@@ -5258,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Struggles",
+        "url": "https://open.spotify.com/album/4BgxqlGNChjQb4MQzfjXEg"
+      },
+      "artists": [
+        {
+          "name": "\uc804\ud604\uc7ac",
+          "url": "https://open.spotify.com/artist/10el24MGnx27TEXY6kM7Qv"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 188750,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/7pXb7Ho5ahUdcJWdAWdnC9"
+    },
+    {
+      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/5eUrR3yDSR72ehUqyDl8oz"
       },
@@ -5291,7 +5420,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 410810,
       "name": "Something I can do",
       "url": "https://open.spotify.com/track/0QOvc1Y1gPItKQf3l3eBTR"
@@ -6057,7 +6186,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 182500,
       "name": "Up up and away",
       "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"

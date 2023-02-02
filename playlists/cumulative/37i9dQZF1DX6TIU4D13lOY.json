@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Classic soft rock for a nice and easy drive.",
   "name": "Soft Rock Drive",
-  "published_playlist_ids": [
-    "3OchtZtRRSTJjBGa1WgVzc"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2020-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 270986,
       "name": "Ace of Hearts",
       "url": "https://open.spotify.com/track/72wERbZ4yx2cNaoEj5jYnl"
@@ -332,7 +329,7 @@
     },
     {
       "album": {
-        "name": "Late for the Sky",
+        "name": "Late for the Sky (Remastered)",
         "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
       },
       "artists": [
@@ -345,7 +342,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 412082,
-      "name": "Fountain of Sorrow - 2014 Remaster",
+      "name": "Fountain of Sorrow - Remastered",
       "url": "https://open.spotify.com/track/2U2EMuFyUk5LYMPlMUpOxM"
     },
     {
@@ -1035,7 +1032,7 @@
     {
       "album": {
         "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
       },
       "artists": [
         {
@@ -1046,6 +1043,24 @@
       "date_added": "2020-01-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
+    },
+    {
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2020-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
@@ -1157,6 +1172,24 @@
       "duration_ms": 182586,
       "name": "Sentimental Lady - 2018 Remaster",
       "url": "https://open.spotify.com/track/58gin7AIJheIrPffOdiE1z"
+    },
+    {
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "album": {
@@ -1279,7 +1312,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 214114,
       "name": "Somebody's Watching You",
       "url": "https://open.spotify.com/track/6xTCqwREMciIQl8PB3JGT8"

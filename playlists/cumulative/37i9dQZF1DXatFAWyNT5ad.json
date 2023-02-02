@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-18",
   "description": "Let's mix it.",
   "name": "Pop Rock",
-  "published_playlist_ids": [
-    "7btkhvftx7WY0w5vxyn75X"
-  ],
   "tracks": [
     {
       "album": {
@@ -2018,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167365,
+      "name": "cotton candy",
+      "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
+    },
+    {
+      "album": {
         "name": "Cough Syrup",
         "url": "https://open.spotify.com/album/2GDaGGvNqc29RIHEuQ2cZL"
       },
@@ -2835,6 +2850,24 @@
     {
       "album": {
         "name": "Elephant In The Room",
+        "url": "https://open.spotify.com/album/5W0GraoGsDmTE020ZtiNA1"
+      },
+      "artists": [
+        {
+          "name": "Confetti",
+          "url": "https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 159036,
+      "name": "Elephant In The Room",
+      "url": "https://open.spotify.com/track/1cmkY5LNyHpESfwiQ1SH9v"
+    },
+    {
+      "album": {
+        "name": "Elephant In The Room",
         "url": "https://open.spotify.com/album/3kwAcIMBpwgQLfZNNrSvnQ"
       },
       "artists": [
@@ -3171,7 +3204,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 165779,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb"
@@ -3251,7 +3284,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 189075,
       "name": "fmk (with blackbear)",
       "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
@@ -3411,7 +3444,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 172375,
       "name": "FUCK ABOUT IT (feat. blackbear)",
       "url": "https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn"
@@ -4680,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169213,
+      "name": "If You Ever Leave, I'm Coming with You",
+      "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
+    },
+    {
+      "album": {
         "name": "If You\u2019re Too Shy (Let Me Know)",
         "url": "https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP"
       },
@@ -5187,10 +5238,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 154229,
       "name": "Left Handed",
       "url": "https://open.spotify.com/track/05VzVcYcNv254mkVPpT01i"
+    },
+    {
+      "album": {
+        "name": "Left Handed",
+        "url": "https://open.spotify.com/album/3adwq4kY3Ql6jiBwEtgu0M"
+      },
+      "artists": [
+        {
+          "name": "Boy Destroy",
+          "url": "https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154229,
+      "name": "Left Handed",
+      "url": "https://open.spotify.com/track/6QgGrnkenUSXi5gkdkAsNc"
     },
     {
       "album": {
@@ -5501,7 +5570,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 133678,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
@@ -5835,6 +5904,24 @@
       "duration_ms": 181837,
       "name": "mars",
       "url": "https://open.spotify.com/track/4ZSGp4CmOIeNSpuLLEGumA"
+    },
+    {
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 181837,
+      "name": "mars",
+      "url": "https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY"
     },
     {
       "album": {
@@ -8677,7 +8764,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-05",
       "duration_ms": 204642,
       "name": "the idea",
       "url": "https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2"
@@ -8991,7 +9078,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 172600,
       "name": "thought it was",
       "url": "https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa"
@@ -9067,7 +9154,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 188360,
       "name": "too hot to cry",
       "url": "https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv"
@@ -9249,7 +9336,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 156937,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
@@ -9361,7 +9448,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 125901,
       "name": "ur a <stranger>",
       "url": "https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE"
@@ -10025,7 +10112,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 160257,
       "name": "Your Life Your Time",
       "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"

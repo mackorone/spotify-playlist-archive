@@ -4,7 +4,7 @@
 
 > The master in blending R&B, Soul, and Dance Music <a href=“spotify:artist:43UmVQp9qZILibJ5vHq21k”>Austin Millz</a>, brings a colorful DJ mix to bright up your day.
 
-25 songs - 1 hr 1 min - [published](https://open.spotify.com/playlist/5e54EVOirs5wIUw3rwpsZ7)
+25 songs - 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

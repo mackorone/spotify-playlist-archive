@@ -4,7 +4,7 @@
 
 > We're here to provide some sonic solace for your grief.
 
-132 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/13QYcLMFMp1jHvwM1Y6Iom)
+132 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Goodnight, Travel Well](https://open.spotify.com/track/0HfMp4RGDgjvrWX3j0VZnJ) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age](https://open.spotify.com/album/7FuhgOwoael0fsg9zjZxog) | 6:51 | 2018-12-10 | 2022-02-09 |
 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 | 2018-12-10 | 2022-07-29 |
 | [Hear You Me](https://open.spotify.com/track/0fQlm2MUzqGDBPkuqq4U1Y) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/1VbyDS3tGhe4iHfIJ7AMtr) | 4:44 | 2018-12-10 | 2022-07-29 |
-| [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 | 2022-02-16 |  |
+| [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 | 2022-02-16 | 2023-01-16 |
 | [Here Today](https://open.spotify.com/track/77KlyZBphi6DGiW9Ib1EQo) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Tug Of War](https://open.spotify.com/album/1y79gGxlN41faE36yZ6F4k) | 2:26 | 2018-12-10 | 2022-02-17 |
 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 | 2018-12-10 | 2022-02-14 |
 | [Hold On \- Remastered 2010](https://open.spotify.com/track/4bN43jYf41eIjJZ3UXQpuA) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 1:52 | 2022-02-16 | 2022-11-13 |
@@ -86,7 +86,7 @@
 | [My House](https://open.spotify.com/track/2bkwHzn1H2CxyLmmymaKHo) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [The Blue Mask](https://open.spotify.com/album/1CkMvvVcMdvMAYIz4Zhzax) | 5:23 | 2018-12-10 | 2022-02-12 |
 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2022-02-16 | 2022-11-13 |
 | [Never Without You](https://open.spotify.com/track/41ZnzVlD0Kxmv1mT9mYvfT) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Ringo 5.1](https://open.spotify.com/album/7ocjnpmGFaFLlzaMdbY5PY) | 5:23 | 2018-12-10 | 2022-02-13 |
-| [Nothing Can Change This Love](https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Mr\. Soul](https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va) | 2:38 | 2022-02-16 | 2022-11-13 |
+| [Nothing Can Change This Love](https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Mr\. Soul](https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va) | 2:38 | 2022-02-16 |  |
 | [One More Day](https://open.spotify.com/track/5mcWdITson4DJcYtH5xo0f) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [16 Biggest Hits](https://open.spotify.com/album/09lZwjsn0t2T62XaGUqfwP) | 3:36 | 2018-12-10 | 2022-02-17 |
 | [One Sweet Day](https://open.spotify.com/track/0BdvCREmD1gvgNjKMDQjlC) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [\#1's](https://open.spotify.com/album/4gWPIB6d0O4LxfIIodAwkR) | 4:40 | 2018-12-10 | 2022-02-17 |
 | [One Tree Hill \- Remastered 2007](https://open.spotify.com/track/4bGwp1Mp3sQczkwkmBEFZp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Deluxe Edition Remastered\)](https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ) | 5:22 | 2018-12-10 | 2022-02-16 |
@@ -104,7 +104,7 @@
 | [Someone's Watching Over Me](https://open.spotify.com/track/5GjSpnToDJhBx76Vy2tnJT) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/5Nqi3q9QlLL75JTNcN1xu0) | 4:11 | 2018-12-10 | 2022-02-17 |
 | [Somewhere Out There \- From "An American Tail" Soundtrack](https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [An American Tail](https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9) | 3:58 | 2018-12-10 | 2022-07-27 |
 | [Stars](https://open.spotify.com/track/6s7sq2Quh4TxHRfdk6eFxk) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [The Lion The Beast The Beat \(Deluxe Edition\)](https://open.spotify.com/album/2JcoZUEwztDoEKUiqd7Yk9) | 3:35 | 2018-12-10 | 2022-07-29 |
-| [Stay \- Album Version \(Edited\)](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2022-02-16 |  |
+| [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2022-02-16 |  |
 | [Still Crazy After All These Years](https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:26 | 2022-02-16 | 2022-11-13 |
 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 | 2022-02-16 |  |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2022-02-16 |  |

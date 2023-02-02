@@ -4,7 +4,7 @@
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-66 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/4Ep0qqEEvsTi4viT9m5wLt)
+66 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

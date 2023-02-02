@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-05",
   "description": "Listen to the soundtrack of the SBS Mon-Tue drama CHEER UP and the songs recommended by the cast! (SBS \uc6d4, \ud654 \ub4dc\ub77c\ub9c8 \uce58\uc5bc\uc5c5\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\uacfc \ubc30\uc6b0\uc9c4\uc774 \ucd94\ucc9c\ud558\ub294 \ub178\ub798\ub97c \ub4e4\uc5b4\ubcf4\uc138\uc694!)",
   "name": "CHEER UP (\uce58\uc5bc\uc5c5)",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -122,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Cheer Up (Original Soundtrack Part.8)",
+        "url": "https://open.spotify.com/album/6gnHVF0GgZVXg14At7CPYW"
+      },
+      "artists": [
+        {
+          "name": "PEPPERTONES",
+          "url": "https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303066,
+      "name": "Deneb",
+      "url": "https://open.spotify.com/track/7apKcB7zICUb87xSryhrQh"
+    },
+    {
+      "album": {
         "name": "Cheer Up (Original Soundtrack Part.4)",
         "url": "https://open.spotify.com/album/158L4bgweqW5INvRXD9BpH"
       },
@@ -200,7 +217,7 @@
       "artists": [
         {
           "name": "THEIA",
-          "url": "https://open.spotify.com/artist/0WT5o9HgcJJoyKUhiHaCMP"
+          "url": "https://open.spotify.com/artist/1SF9zCNjbChZTiIkxjgJXa"
         }
       ],
       "date_added": "2022-11-09",
@@ -437,6 +454,24 @@
       "duration_ms": 137040,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0Rbu97T9gnZiPDJEECkRdK"
+    },
+    {
+      "album": {
+        "name": "Cheer Up (Original Soundtrack Part.9)",
+        "url": "https://open.spotify.com/album/3tY2H0EStVSnrB9lK8xk1b"
+      },
+      "artists": [
+        {
+          "name": "PEPPERTONES",
+          "url": "https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215386,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/20kZESl2411eCyQ7Sf5Sgi"
     },
     {
       "album": {

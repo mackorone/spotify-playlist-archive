@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The biggest rock songs of the last decade. Cover: Arctic Monkeys",
+  "description": "The biggest rock songs of the last decade. Cover: Twenty One Pilots",
   "name": "10s Rock Anthems",
-  "published_playlist_ids": [
-    "71Ge9gWFFaxmVIwGcXczH8"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,7 +124,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
@@ -145,7 +142,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/3yrvQHw6pQemsrCQEpMnKv"
@@ -441,6 +438,24 @@
       "duration_ms": 324466,
       "name": "Chlorine",
       "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
+    },
+    {
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228586,
+      "name": "Coming For You",
+      "url": "https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1"
     },
     {
       "album": {
@@ -1280,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Higher Truth",
+        "url": "https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234426,
+      "name": "Nearly Forgot My Broken Heart",
+      "url": "https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ"
+    },
+    {
+      "album": {
         "name": "10 Years of Mom+Pop",
         "url": "https://open.spotify.com/album/2xd8agIjiL0SNqZvkKyv1B"
       },
@@ -1309,10 +1342,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 235813,
       "name": "No Roots",
       "url": "https://open.spotify.com/track/6gqW48WKOxrBEG2KfShI8W"
+    },
+    {
+      "album": {
+        "name": "Mint",
+        "url": "https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "No Roots",
+      "url": "https://open.spotify.com/track/3D5wnLaeVlCCIPzQOOAirA"
     },
     {
       "album": {
@@ -1345,7 +1396,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-15",
+      "date_removed": null,
       "duration_ms": 197800,
       "name": "Nobody Praying For Me",
       "url": "https://open.spotify.com/track/3bq8WiQrEXMwPAibYs7tpu"
@@ -1493,6 +1544,24 @@
       "duration_ms": 222146,
       "name": "Run For Cover",
       "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+    },
+    {
+      "album": {
+        "name": "Battle Born",
+        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243786,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
     },
     {
       "album": {
@@ -1669,7 +1738,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
@@ -1687,7 +1756,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi"
@@ -1759,10 +1828,28 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
+    },
+    {
+      "album": {
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
       "album": {
@@ -2105,6 +2192,24 @@
       "duration_ms": 162600,
       "name": "Will We Talk?",
       "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
+    },
+    {
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "You\u2019re The Best Thing About Me",
+      "url": "https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw"
     },
     {
       "album": {

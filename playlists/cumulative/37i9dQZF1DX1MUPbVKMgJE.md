@@ -4,7 +4,7 @@
 
 > All your Disco favorites\. Cover: Donna Summer
 
-151 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/2lNcz8O64Bm1FCmlmRhUK3)
+151 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 | 2021-09-21 |  |
 | [He's the Greatest Dancer](https://open.spotify.com/track/5MuNxNox3zTanAFIO5KcTl) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [Atlantic 60th: On The Dance Floor Vol\. 2](https://open.spotify.com/album/7liGswqymvHdcDREn3FQDz) | 6:15 | 2019-05-26\* | 2021-09-22 |
 | [Heart Of Glass \(12" Version\)](https://open.spotify.com/track/5N4EONedI3jGNyI5ac4JFK) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [L.O.C](https://open.spotify.com/artist/58pZHqP1FyyrPYHenyEqhb) | [Heart Of Glass](https://open.spotify.com/album/5ABMEkKgkZ4D0w0CUhUyha) | 5:50 | 2019-05-26\* | 2021-09-22 |
-| [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/3ad1MVf3CUFCWW1EyMc9kk) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Anthology](https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8) | 6:34 | 2021-09-21 | 2022-11-15 |
+| [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/3ad1MVf3CUFCWW1EyMc9kk) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Anthology](https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8) | 6:34 | 2021-09-21 | 2023-02-01 |
 | [Heaven Must Be Missing an Angel Re\-Recorded / Remastered\)](https://open.spotify.com/track/3BCpsMJqenZYUVaM7hLLvI) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [I Love The 70s](https://open.spotify.com/album/5cKKh7hgCauyf33IpjbgGd) | 6:39 | 2019-05-26\* | 2021-09-22 |
 | [Heaven Must Have Sent You \- 12" Version](https://open.spotify.com/track/7p4Yw9WPiAuJaN51H4CRqo) | [Bonnie Pointer](https://open.spotify.com/artist/3ywBpweKQY8MosUnAuPAgc) | [Disco Gold](https://open.spotify.com/album/2wFzaVmHfeDG8yNaAs7lYr) | 7:14 | 2019-05-26\* | 2021-09-22 |
 | [Holiday](https://open.spotify.com/track/4k6ktr10Hczmh55NY3LfJy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 6:08 | 2019-05-26\* | 2021-09-22 |

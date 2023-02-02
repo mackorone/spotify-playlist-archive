@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
   "name": "wanderlust",
-  "published_playlist_ids": [
-    "2lKUPKpOcgpoeFy7kKdAMO"
-  ],
   "tracks": [
     {
       "album": {
@@ -175,6 +172,24 @@
     {
       "album": {
         "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/2T2MfSCQzdh15zFLdnN0Eh"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5HTHYYmcoqh1FrAhchKeSF"
+    },
+    {
+      "album": {
+        "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
       "artists": [
@@ -185,7 +200,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
@@ -719,7 +734,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": "2023-01-06",
       "duration_ms": 245640,
       "name": "Cattails",
       "url": "https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z"
@@ -1180,6 +1195,36 @@
     },
     {
       "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "Emily I'm Sorry",
+      "url": "https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9"
+    },
+    {
+      "album": {
         "name": "Lonesome Dreams",
         "url": "https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl"
       },
@@ -1191,10 +1236,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 284146,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
+    },
+    {
+      "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv"
+    },
+    {
+      "album": {
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "album": {
@@ -1552,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194416,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0"
+    },
+    {
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/5yJM5nvvLYF6gw1pF1fveP"
       },
@@ -1707,10 +1806,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 203911,
       "name": "I Wanted to Leave",
       "url": "https://open.spotify.com/track/2Tq3fayHpjP2nOZlBEjt3N"
+    },
+    {
+      "album": {
+        "name": "I Wanted to Leave (Sitar Version)",
+        "url": "https://open.spotify.com/album/5MiRZqeTOp7PqdgoTFwEav"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203911,
+      "name": "I Wanted to Leave",
+      "url": "https://open.spotify.com/track/61iGwqhbDwkXanVo5LwJyF"
     },
     {
       "album": {
@@ -1989,7 +2106,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 218426,
       "name": "Latter Days",
       "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
@@ -2083,7 +2200,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 184300,
       "name": "Life Is Suffering",
       "url": "https://open.spotify.com/track/43Rh4q9wWgIEETAt0F2zCu"
@@ -3151,7 +3268,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 186159,
       "name": "Praying for July - Spotify Singles",
       "url": "https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq"
@@ -3415,7 +3532,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 221142,
       "name": "Roadtripsong",
       "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
@@ -4476,6 +4593,24 @@
     },
     {
       "album": {
+        "name": "Palomar Parade",
+        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 217858,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/5iMl1CDPOjElGiCgerN7kN"
+    },
+    {
+      "album": {
         "name": "untitled",
         "url": "https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx"
       },
@@ -4613,7 +4748,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 253670,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ"
@@ -4657,6 +4792,24 @@
       "duration_ms": 208695,
       "name": "What About U",
       "url": "https://open.spotify.com/track/4FcXhlrtcESQ7zz7WvOQlc"
+    },
+    {
+      "album": {
+        "name": "Palomar Parade",
+        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215516,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
     },
     {
       "album": {

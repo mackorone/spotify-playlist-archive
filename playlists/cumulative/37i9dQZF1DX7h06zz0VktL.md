@@ -2,9 +2,9 @@
 
 ### [This Is Super Junior](https://open.spotify.com/playlist/37i9dQZF1DX7h06zz0VktL)
 
-> All E.L.F's go to playlist! A brand new album is here! Listen to The Renaissance!
+> All E.L.F's go to playlist! "The Road : Celebration \- The 11th Album Vol.2"\. is here!
 
-185 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/2UMJmYC8TKLWWGuzrB0lu5)
+190 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL) | 3:48 | 2022-07-12 |  |
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/6HTTnx9ogBcIu7XRShqbHW) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/5ZYLuV87rEvKSeef5BaGdV) | 3:48 | 2022-03-01 | 2022-07-29 |
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-03-01 |  |
+| [Celebrate](https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:33 | 2022-12-15 |  |
 | [Closer](https://open.spotify.com/track/34m4nZyJGIpb0jYiBD61gC) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Renaissance \- The 10th Album](https://open.spotify.com/album/3qyzxavqOfixEPDfFCEMlH) | 3:29 | 2022-03-01 |  |
 | [Danger](https://open.spotify.com/track/75Wfq80T9FektQegttDOTs) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [DANGER \- The 3rd Mini Album](https://open.spotify.com/album/2lwfwVAKf0cB4Uc5qqhk2P) | 3:14 | 2022-03-01 |  |
 | [Daystar](https://open.spotify.com/track/6HcNz2K1JVXb1xgMAD93og) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Daystar](https://open.spotify.com/album/0EOLOmGmGxtLntJpB2SxMu) | 3:58 | 2022-03-01 |  |
@@ -53,6 +54,7 @@
 | [Good Day for a Good Day](https://open.spotify.com/track/3y022UysBG5fpRZDgiaJFY) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [PLAY \- The 8th Album](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) | 3:05 | 2022-03-01 |  |
 | [Happy Together](https://open.spotify.com/track/1bmv03eeKkKsa2dcqM6Lvh) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry](https://open.spotify.com/album/459hy3WrWsUafUDmqS1fg5) | 3:34 | 2022-03-01 | 2022-07-29 |
 | [Happy Together](https://open.spotify.com/track/1nfrvid2rx2IplCmiQKiPF) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry \- The 3rd Album](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) | 3:34 | 2022-07-12 |  |
+| [Hate Christmas](https://open.spotify.com/track/4X7A2hcDjNeF9Zr6k1T20P) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:10 | 2022-12-15 |  |
 | [Have a Nice Day](https://open.spotify.com/track/2P0y3zeBioNMQymZ2pUyrs) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:28 | 2022-03-01 |  |
 | [Heads Up](https://open.spotify.com/track/13SYwQjMQAUXH4xocWc539) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:17 | 2022-03-01 |  |
 | [Home](https://open.spotify.com/track/3ScqDRhVrMVBTsRSP3cG7C) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:58 | 2022-03-01 |  |
@@ -62,6 +64,7 @@
 | [I do 두 번째 고백](https://open.spotify.com/track/1BYifTbikas6Q9oCmrpdlL) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [PLAY \- The 8th Album](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) | 3:31 | 2022-03-01 |  |
 | [I Think I](https://open.spotify.com/track/1an6fwYdTOcF6mXgoViKPg) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:21 | 2022-03-01 |  |
 | [I'm not over you](https://open.spotify.com/track/0tdMBJmUaobBXpttiycchZ) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Drunk on love \- The 2nd Mini Album](https://open.spotify.com/album/2UUx4fVD3UtiSSvZ4DN119) | 4:37 | 2022-03-01 |  |
+| [If only you \- Special Track](https://open.spotify.com/track/1XsrcWQF2OinWALGShEBEC) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:50 | 2022-12-15 |  |
 | [If You \- Korean Version](https://open.spotify.com/track/6zmd9cWpbktrhMwaO5mJYD) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [DANGER \- The 3rd Mini Album](https://open.spotify.com/album/2lwfwVAKf0cB4Uc5qqhk2P) | 3:33 | 2022-03-01 |  |
 | [Islands](https://open.spotify.com/track/0CFW0oPOFUYtkVvBBxdaSg) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [THE 7th Album 'MAMACITA'](https://open.spotify.com/album/5mE1OCMbv2kA1C8a1OnVfH) | 4:27 | 2022-03-01 | 2022-07-29 |
 | [Islands](https://open.spotify.com/track/1TNHoFpfP3ajQYtSwMhKOb) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 4:27 | 2022-07-12 |  |
@@ -115,6 +118,7 @@
 | [Shirt](https://open.spotify.com/track/73ZVWv5QFELLmUrNQCBtmE) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [THE 7th Album 'MAMACITA'](https://open.spotify.com/album/5mE1OCMbv2kA1C8a1OnVfH) | 3:28 | 2022-03-01 | 2022-07-29 |
 | [Show](https://open.spotify.com/track/2hTBpa21ZbNCOI9FQekhQS) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:50 | 2022-03-01 |  |
 | [Skydive](https://open.spotify.com/track/4AySDoIQA2kgYyjt04zrOh) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:56 | 2022-03-01 |  |
+| [Snowman](https://open.spotify.com/track/2LtWOIzMvmrROFjNCmZQO7) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:14 | 2022-12-15 |  |
 | [So I](https://open.spotify.com/track/1KBxrjLmHQf993Q0cjYbHj) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/5qP97X9XW3BqpGrqtbcm4C) | 3:43 | 2022-07-12 |  |
 | [So I](https://open.spotify.com/track/4uuMC8jkW6E413AOibmADV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/2qW0mTACJdlknP1kPicN8B) | 3:43 | 2022-03-01 | 2022-07-29 |
 | [Somebody New](https://open.spotify.com/track/3ONLEI6INqG72MyGL950qP) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:22 | 2022-03-01 |  |
@@ -150,6 +154,7 @@
 | [We Can \- sung by SUPER JUNIOR–K.R.Y.](https://open.spotify.com/track/3mQHPgUZ7yUAEIWwa3qtgT) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/2YFurqloMyEncsFHOjIbm2) | 3:57 | 2022-07-12 | 2022-11-14 |
 | [Whatcha Doin'](https://open.spotify.com/track/1kfEJ0w6qRZR9dIOWJGe0J) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Whatcha Doin'](https://open.spotify.com/album/5ZqrNpvlfW0qeZ6bDCjmaU) | 3:29 | 2022-03-01 |  |
 | [When We Were Us](https://open.spotify.com/track/2f4o2u8yAANvg3hQ8BNm4Q) | [SUPER JUNIOR\-K.R.Y.](https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F) | [When We Were Us \- The 1st Mini Album](https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2) | 4:07 | 2022-03-01 |  |
+| [White Love](https://open.spotify.com/track/5ptZGIBkHFMqkOotQrkFbA) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 2:51 | 2022-12-15 |  |
 | [Wish](https://open.spotify.com/track/0lYskiaNYHHlUqo9y1wnHs) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Pink Magic](https://open.spotify.com/album/3iDLSmjr7fAtCPBzmwnbCh) | 4:06 | 2022-03-01 |  |
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2022-03-01 |  |
 | [ZERO \- English Version](https://open.spotify.com/track/4GOn8mOyic2uXi9xIScY55) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2022-03-01 |  |

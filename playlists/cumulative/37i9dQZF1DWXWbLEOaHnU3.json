@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
   "name": "Psytrance Supernova",
-  "published_playlist_ids": [
-    "2a7pWapwJkvE7k2BSyXseH"
-  ],
   "tracks": [
     {
       "album": {
@@ -49,7 +46,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 432319,
       "name": "7 Seas",
       "url": "https://open.spotify.com/track/1JD4cRuzRriKTiMlwDKjF5"
@@ -767,7 +764,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 243428,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
@@ -847,7 +844,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-02-01",
       "duration_ms": 171549,
       "name": "Colosseum",
       "url": "https://open.spotify.com/track/4G6iSwBeF8fOLZEjYlXZTb"
@@ -917,7 +914,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 379994,
       "name": "Concussion - Richard Tanselli Remix",
       "url": "https://open.spotify.com/track/3ydoePq5WEsUnCCIwKaPoE"
@@ -1008,6 +1005,36 @@
     },
     {
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/6KslRrpR7Bao2FZskC5MWI"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Major7",
+          "url": "https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V"
+        },
+        {
+          "name": "Rexalted",
+          "url": "https://open.spotify.com/artist/6QXNQ8OQ9hbHzg88culdya"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343098,
+      "name": "Crossroads (Remix)",
+      "url": "https://open.spotify.com/track/5pBEiBE1cCShb5fDt8973h"
+    },
+    {
+      "album": {
         "name": "Crysis",
         "url": "https://open.spotify.com/album/1jzuL78QHyNlYdyhiP5PiR"
       },
@@ -1067,6 +1094,36 @@
       "duration_ms": 218437,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/5Z5qYQz6ODyI8rdUb3Ebi9"
+    },
+    {
+      "album": {
+        "name": "Dance Lullaby",
+        "url": "https://open.spotify.com/album/4t8nlmINrKisC35vyIMm6X"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        },
+        {
+          "name": "Luca Noise",
+          "url": "https://open.spotify.com/artist/37lWhP4Hjuy1M30QaG06KA"
+        },
+        {
+          "name": "GIGI DAG",
+          "url": "https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0"
+        },
+        {
+          "name": "LUC ON",
+          "url": "https://open.spotify.com/artist/3cqBxpIKwsKRTitMMl1Td8"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 200333,
+      "name": "Dance Lullaby (Radio Night MIX)",
+      "url": "https://open.spotify.com/track/0KRBzhDVHk6ueeINrLushR"
     },
     {
       "album": {
@@ -1248,6 +1305,32 @@
     },
     {
       "album": {
+        "name": "Drivin Me Insane",
+        "url": "https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Carrera",
+          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
+        },
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        },
+        {
+          "name": "Umali",
+          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195724,
+      "name": "Drivin Me Insane",
+      "url": "https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT"
+    },
+    {
+      "album": {
         "name": "Dusk Till Dawn",
         "url": "https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r"
       },
@@ -1263,10 +1346,36 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 560571,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7"
+    },
+    {
+      "album": {
+        "name": "Easy Ride",
+        "url": "https://open.spotify.com/album/3cJsKLCmd0kdw5YW0HrFeV"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "WYLDE",
+          "url": "https://open.spotify.com/artist/4M808tluYcN5j0aV5jp4ep"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 168692,
+      "name": "Easy Ride",
+      "url": "https://open.spotify.com/track/2DnCUrxaj0mjwlMC6sC5pb"
     },
     {
       "album": {
@@ -1289,6 +1398,32 @@
       "duration_ms": 320571,
       "name": "Ecstasy of Gold - P.R.O.G. Remix",
       "url": "https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu"
+    },
+    {
+      "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE"
+      },
+      "artists": [
+        {
+          "name": "Liquid Soul",
+          "url": "https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS"
+        },
+        {
+          "name": "Emok",
+          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
+        },
+        {
+          "name": "Martin Vice",
+          "url": "https://open.spotify.com/artist/3U9kaA6XFr26x70Va6y3Jv"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417391,
+      "name": "Elsewhere - Original mix",
+      "url": "https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u"
     },
     {
       "album": {
@@ -1377,7 +1512,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 155217,
       "name": "Esta Si",
       "url": "https://open.spotify.com/track/3reyHrjQqNBv35CBKKfX2s"
@@ -1861,7 +1996,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 288000,
       "name": "Half Of It",
       "url": "https://open.spotify.com/track/5qjj4GCSAEbnuqPGrWsNpT"
@@ -1890,6 +2025,32 @@
     },
     {
       "album": {
+        "name": "He.art (Omiki & Terra Remix)",
+        "url": "https://open.spotify.com/album/2YgMh1KbaXvV5GByqywQAU"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "TERRA",
+          "url": "https://open.spotify.com/artist/6EMXsJEdrX9vLI7DWSjG5l"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432676,
+      "name": "He.art (Omiki & Terra Remix)",
+      "url": "https://open.spotify.com/track/0IQ2lKaun7QeB4ixCbJoIb"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/2VsEpgh56TrarcsrutyM5F"
       },
@@ -1901,7 +2062,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 214290,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6m8BCfpZIVikVsm5YKVQrC"
@@ -1949,6 +2110,32 @@
       "duration_ms": 205241,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu"
+    },
+    {
+      "album": {
+        "name": "Here Is Your Song",
+        "url": "https://open.spotify.com/album/4054vsnkO3h76gYcRxtJ0U"
+      },
+      "artists": [
+        {
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+        },
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340500,
+      "name": "Here Is Your Song",
+      "url": "https://open.spotify.com/track/65Md1g0jQ6bOey7rUGmMOX"
     },
     {
       "album": {
@@ -2032,6 +2219,32 @@
     },
     {
       "album": {
+        "name": "Huna (feat. Ravid Kahalani)",
+        "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        },
+        {
+          "name": "Ravid Kahalani",
+          "url": "https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Huna (feat. Ravid Kahalani)",
+      "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
+    },
+    {
+      "album": {
         "name": "I Want Your Soul",
         "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
       },
@@ -2065,7 +2278,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "I'm A Mess",
       "url": "https://open.spotify.com/track/6eibj2ctKHTZfQX9H1ILYn"
@@ -2329,7 +2542,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 212571,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/3un6ZcPSm9w1YQ5oTlZTmY"
@@ -2524,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/6aUwD7H6ZDFL7NDuc0QwtK"
+      },
+      "artists": [
+        {
+          "name": "MARKZ",
+          "url": "https://open.spotify.com/artist/0hNfuXJDUdFMIuNJ2a0KSB"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/63Yiik2JPGd9UzuL0AhjUs"
+    },
+    {
+      "album": {
         "name": "Meditatiohm",
         "url": "https://open.spotify.com/album/4pS0TGMoSyifWzHBZyAnYY"
       },
@@ -2591,7 +2822,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 190285,
       "name": "Move",
       "url": "https://open.spotify.com/track/1V6KX61KpHJ9Z4mtGeroUO"
@@ -2664,6 +2895,28 @@
     },
     {
       "album": {
+        "name": "Mystical Experience",
+        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "Flegma",
+          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550985,
+      "name": "Mystical Experience",
+      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
+    },
+    {
+      "album": {
         "name": "NAMAHA",
         "url": "https://open.spotify.com/album/3PfCixKb0AwioD7M8CJAjE"
       },
@@ -2705,7 +2958,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 219310,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd"
@@ -3013,7 +3266,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-29",
       "duration_ms": 404317,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/1yJ6dZFRecONfZHGnIrYru"
@@ -3443,10 +3696,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 491666,
       "name": "Sapana - Avalon Remix",
       "url": "https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/3DhPzL19TNQPuwdDeodmbB"
+      },
+      "artists": [
+        {
+          "name": "Fabio Fusco",
+          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
+        },
+        {
+          "name": "Joicey",
+          "url": "https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK"
+        },
+        {
+          "name": "Umali",
+          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275142,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/39hp7lSe0QPktFxKkWBI2B"
     },
     {
       "album": {
@@ -3531,7 +3810,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 224347,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/0LyfNbnOzyPNc8QG8UBkmp"
@@ -3564,6 +3843,32 @@
     },
     {
       "album": {
+        "name": "Shiva Style, Pt. 2",
+        "url": "https://open.spotify.com/album/6CZaPBFfSRM0uDuTSAUCKa"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        },
+        {
+          "name": "Shanti People",
+          "url": "https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt"
+        },
+        {
+          "name": "Dudiish",
+          "url": "https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349764,
+      "name": "Shiva Style, Pt. 2",
+      "url": "https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m"
+    },
+    {
+      "album": {
         "name": "Shores of The Subconscious",
         "url": "https://open.spotify.com/album/5zR9HjvUxWRcK6HinyWGxW"
       },
@@ -3583,6 +3888,32 @@
       "duration_ms": 538539,
       "name": "Shores of The Subconscious",
       "url": "https://open.spotify.com/track/5H0qHxv8gIcMfpyDNis7iU"
+    },
+    {
+      "album": {
+        "name": "Sicko Drop (Claudinho Brasil Remix)",
+        "url": "https://open.spotify.com/album/1RZKaqedt3r09PaDCZtaCc"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Schillist",
+          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
+        },
+        {
+          "name": "Claudinho Brasil",
+          "url": "https://open.spotify.com/artist/41ggHbtYARi4S4JtbeRrYY"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Sicko Drop - Claudinho Brasil Remix",
+      "url": "https://open.spotify.com/track/3Z7UmZWV0qyY7nK076Bqxe"
     },
     {
       "album": {
@@ -4011,7 +4342,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 362608,
       "name": "The Blood - Abraxis Remix",
       "url": "https://open.spotify.com/track/4loaayWo7pIYpXLhbWwqe2"
@@ -4117,7 +4448,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 129998,
       "name": "The Show",
       "url": "https://open.spotify.com/track/4QPsKacULMXdMOzJNUecBs"
@@ -4377,7 +4708,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 418758,
       "name": "Universal",
       "url": "https://open.spotify.com/track/3AgePv10fSMW0cgoTripMi"
@@ -4725,7 +5056,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 311739,
       "name": "We Gonna Groove",
       "url": "https://open.spotify.com/track/4hg7TYiqqKeyHZMwErkJdy"

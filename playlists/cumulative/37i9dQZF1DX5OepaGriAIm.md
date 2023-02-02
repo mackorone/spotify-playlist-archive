@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-182 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
+183 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bring Him Home](https://open.spotify.com/track/4V6joFDGUPoVI36OZNkuMl) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz), [Crash Trio](https://open.spotify.com/artist/0VQ5CHc2za0YUjmN83gUYF) | [Melissa Aldana & Crash Trio](https://open.spotify.com/album/3CNXkqxyvlUw5883YxcPeh) | 5:09 | 2021-12-02 | 2022-07-29 |
 | [Bring Him Home](https://open.spotify.com/track/56n3i3qXPMDuEfU4maiBK6) | [Melissa Aldana & Crash Trio](https://open.spotify.com/artist/34IAv54nMtYZTtX3QVHDvL) | [Melissa Aldana & Crash Trio](https://open.spotify.com/album/24SzTzOtzYObsSaqgMEIw1) | 5:09 | 2022-03-08 |  |
 | [C'est Si Bon](https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Something's Gotta Give \- Music From The Motion Picture](https://open.spotify.com/album/40ibEmtXTv68y88YPXDoI4) | 2:57 | 2021-12-02 |  |
-| [Can't Get Out of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 | 2022-08-11 |  |
+| [Can't Get Out Of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out Of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 | 2022-08-11 |  |
 | [Clip Joint](https://open.spotify.com/track/0FsXOJYuXIDTFitV7vbrd6) | [Lil Hardin Armstrong And Her Orchestra](https://open.spotify.com/artist/4KJbHQaQp524CJlAqbz9of) | [Chicago: The Living Legends](https://open.spotify.com/album/12MmtHlymqpECm7cC6Zam7) | 4:42 | 2021-12-02 |  |
 | [Come Away With Me](https://open.spotify.com/track/0JMPG9nbd4ftD7uq1xscnL) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Coastal Grandmother Music](https://open.spotify.com/album/376r9jOZbDw6f8Qe2WSDMF) | 3:17 | 2022-10-07 | 2022-11-13 |
 | [Come Away With Me](https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:18 | 2021-12-02 | 2022-07-29 |
@@ -62,6 +62,7 @@
 | [Dream Dancing](https://open.spotify.com/track/2cmvEeYY8YPEMOjqwM32ba) | [Gabrielle Stravelli](https://open.spotify.com/artist/5Sa8o3V80M1LNtn5tzdxbt) | [Dream Dancing](https://open.spotify.com/album/6LuKr07Jk7RI6vmJ9P0km3) | 3:50 | 2021-12-02 |  |
 | [Droppin' Things](https://open.spotify.com/track/7rD7vPm565HRuERkOgDOm3) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H), [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ), [Nicole Johänntgen](https://open.spotify.com/artist/1N6lrF2OteOhkbCKfMRPQJ), [Hildegunn Øiseth](https://open.spotify.com/artist/4UQCOsb6CvwVBk1yRUs8Xt), [Lisa Wulff](https://open.spotify.com/artist/5B91Sl3Ocu6vXdUav1w5Yq), [Dorota Piotrowska](https://open.spotify.com/artist/7eVFTjaGYrgLLZbVT5wybP) | [Sisters in Jazz](https://open.spotify.com/album/2xulZ94vvyf1aPLjwLGtLm) | 4:33 | 2021-12-02 |  |
 | [Eric's Tune](https://open.spotify.com/track/0vPFIr4hTQY1ZsqpYjcfyS) | [Trish Clowes](https://open.spotify.com/artist/6TyISUtrnzOpBY0RbdtFyc) | [Ninety Degrees Gravity](https://open.spotify.com/album/76xIb1ZZm4APoHIqgdENvF) | 6:08 | 2021-12-02 | 2022-10-08 |
+| [Everything Happens to Me](https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Everything Happens to Me](https://open.spotify.com/album/52WQ5RrOAA9BgZ6MiXxSDZ) | 6:19 | 2023-01-19 |  |
 | [Everything Happens to Me](https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:47 | 2022-03-08 |  |
 | [Everything Happens to Me](https://open.spotify.com/track/7qFaoRVHhqowCFEi3McfkF) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23) | 3:47 | 2021-12-02 | 2022-07-29 |
 | [Falling In Love With Love](https://open.spotify.com/track/1KXEpK9NFfYMSZSqOiZRSA) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Giants of Jazz: Eliane Elias](https://open.spotify.com/album/2vFK7zG453y2ZfaRau1rLe) | 6:26 | 2021-12-02 | 2022-07-29 |

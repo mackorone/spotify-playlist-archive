@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Spooky sounds from your favorite horror features on Netflix. Cover: Wednesday ",
   "name": "Netflix & Chills",
-  "published_playlist_ids": [
-    "4bN0zeSuBKVuYpNOMsD9q1"
-  ],
   "tracks": [
     {
       "album": {
@@ -1097,6 +1094,24 @@
       "duration_ms": 243083,
       "name": "Undercurrents",
       "url": "https://open.spotify.com/track/2YsL81CORA2J71h4Gh50Ow"
+    },
+    {
+      "album": {
+        "name": "Wednesday (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69893,
+      "name": "Wednesday Main Titles",
+      "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
     },
     {
       "album": {

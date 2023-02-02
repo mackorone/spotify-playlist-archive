@@ -4,7 +4,7 @@
 
 > Listen to brand new music as it arrives and all the classics from the true blue Queen of Pop.
 
-70 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/72TUDb4KLYUDRMwfbAXS0O)
+70 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

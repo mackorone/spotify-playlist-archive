@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-96 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/30BYbNNkYuKOFBBVMGmVhP)
+96 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Galaxy Cluster](https://open.spotify.com/track/64knvzKFBcKZA4EoagRmpW) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Galaxy Cluster](https://open.spotify.com/album/2jkRNLyreYjRMOsx4WsEtm) | 3:17 | 2021-12-17 |  |
 | [Get Down](https://open.spotify.com/track/3H2I7X7POFyU5vUudT9Zxx) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Get Down](https://open.spotify.com/album/3gt7gWjurvDydPSUNdirlA) | 3:46 | 2021-12-17 |  |
 | [Guataqui \- Remix \(Radio Mix\)](https://open.spotify.com/track/6jMrgBIdcjCzF5ds99giax) | [Torha](https://open.spotify.com/artist/0qTWpm6bIsQteve5t3Cyqg) | [Guataqui Remix EP](https://open.spotify.com/album/42MBCFxqN0tYGmBxiV4KK9) | 3:29 | 2021-12-17 |  |
-| [Guud Gurls](https://open.spotify.com/track/7dQdjn4JNuQKQBH167lbpL) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Guud Gurls](https://open.spotify.com/album/3N4VL4BAZZqz9S7sr3AoBu) | 3:10 | 2021-12-17 |  |
+| [Guud Gurls](https://open.spotify.com/track/7dQdjn4JNuQKQBH167lbpL) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [Guud Gurls](https://open.spotify.com/album/3N4VL4BAZZqz9S7sr3AoBu) | 3:10 | 2021-12-17 |  |
 | [Habanera](https://open.spotify.com/track/2F1ppuYwY0sNjjJMPL90aL) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/3gKNp9a3iGKczsCql5UyYq) | 2:23 | 2021-12-17 | 2022-11-19 |
 | [Habanera](https://open.spotify.com/track/4EMv0ZrcBx2GnLfUz9o4kb) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/7fc95MhJV8ddQjnRbV31xh) | 2:23 | 2022-09-09 |  |
 | [Help \- Habstrakt Remix](https://open.spotify.com/track/7vuRaD7q2ajQU3xLQupl9T) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Help \(Remixes\)](https://open.spotify.com/album/0BWVarGXfyt5P8qzejiRWc) | 3:32 | 2021-12-17 |  |

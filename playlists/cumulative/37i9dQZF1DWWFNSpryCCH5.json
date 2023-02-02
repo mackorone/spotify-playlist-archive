@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-22",
   "description": "Revive aquellas grandes canciones desenchufadas.",
   "name": "Grandes Unplugged",
-  "published_playlist_ids": [
-    "5Xm3osiTbWWeVeEAkw3tSe"
-  ],
   "tracks": [
     {
       "album": {
@@ -221,7 +218,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 306026,
       "name": "Cuando nadie me ve - Unplugged",
       "url": "https://open.spotify.com/track/6iaw07BTiLrHVT2OQDgqiD"
@@ -457,7 +454,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 278066,
       "name": "He Barrido el Sol - Unplugged Version",
       "url": "https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz"
@@ -760,6 +757,24 @@
     },
     {
       "album": {
+        "name": "Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic Live",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+    },
+    {
+      "album": {
         "name": "Complete Clapton",
         "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
       },
@@ -775,24 +790,6 @@
       "duration_ms": 279066,
       "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit",
       "url": "https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl"
-    },
-    {
-      "album": {
-        "name": "Unplugged (2013 Remaster)",
-        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "date_added": "2021-02-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
     },
     {
       "album": {
@@ -919,7 +916,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 238841,
       "name": "Los Malaventurados No Lloran - MTV Unplugged",
       "url": "https://open.spotify.com/track/1Qm69nuJeRLCmu4c5MnplS"
@@ -955,7 +952,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 292146,
       "name": "Magic - Live at the Enmore Theatre, Sydney",
       "url": "https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY"
@@ -1470,7 +1467,7 @@
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -1483,7 +1480,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Tears in Heaven - Acoustic Live",
       "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
     },
     {
@@ -1671,7 +1668,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 344666,
       "name": "Vivir Sin Aire - Unplugged",
       "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
@@ -1711,7 +1708,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 331293,
       "name": "Wind of Change (with Morten Harket) - MTV Unplugged",
       "url": "https://open.spotify.com/track/4iKTbuGckmJaWQAyKDR7Q7"

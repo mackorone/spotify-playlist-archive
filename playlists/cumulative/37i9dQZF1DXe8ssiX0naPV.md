@@ -4,7 +4,7 @@
 
 > A collection of some of the most romantic and sensual poems in the English language.
 
-36 songs - 1 hr 3 min - [published](https://open.spotify.com/playlist/6mS8i8v8LihceMkYhLV3y1)
+36 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

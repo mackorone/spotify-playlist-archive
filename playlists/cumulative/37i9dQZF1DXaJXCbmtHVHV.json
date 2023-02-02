@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Top country hits you know and love! Cover: Lainey Wilson",
+  "description": "Top country hits you know and love! Cover: Carly Pearce",
   "name": "Big Country",
-  "published_playlist_ids": [
-    "78pqwl0BWOSiN7uMej6HJy"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 221400,
       "name": "7500 OBO",
       "url": "https://open.spotify.com/track/7A4WmJcWx6KrVRfQ2CP8e7"
@@ -131,7 +128,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 176573,
       "name": "Baby I Am",
       "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
@@ -189,7 +186,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 180960,
       "name": "Beer With My Friends",
       "url": "https://open.spotify.com/track/5nWsaKPbHG8UpBqkaBJGrE"
@@ -616,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Don't It Sound Alright",
+        "url": "https://open.spotify.com/album/3zLyedIJvUMz9V6iLeFPlv"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218806,
+      "name": "Don't It Sound Alright",
+      "url": "https://open.spotify.com/track/58UvLeYJXtFkbkUP3lU6YK"
+    },
+    {
+      "album": {
         "name": "down home",
         "url": "https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf"
       },
@@ -826,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Cross Country",
+        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175212,
+      "name": "For What It\u2019s Worth",
+      "url": "https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p"
+    },
+    {
+      "album": {
         "name": "Found It in You",
         "url": "https://open.spotify.com/album/3CWvXdSg4Q19ypUaOwB0SI"
       },
@@ -935,7 +968,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-19",
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
@@ -957,6 +990,24 @@
       "duration_ms": 155120,
       "name": "Girl In Mine",
       "url": "https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy"
+    },
+    {
+      "album": {
+        "name": "Girl On Fire",
+        "url": "https://open.spotify.com/album/1a9TtIPjYqfXrFMhAq8xBM"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173011,
+      "name": "Girl On Fire",
+      "url": "https://open.spotify.com/track/3DUVwg2lfRKphwNtYE7S85"
     },
     {
       "album": {
@@ -1083,7 +1134,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 202178,
       "name": "Good Ol' Man",
       "url": "https://open.spotify.com/track/106WZMD4t61E3WIBPtXTDK"
@@ -1188,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183573,
+      "name": "Hate My Heart",
+      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
+    },
+    {
+      "album": {
         "name": "Heart Like A Truck",
         "url": "https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo"
       },
@@ -1217,7 +1286,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 258799,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
@@ -1271,7 +1340,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 175840,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
@@ -1373,6 +1442,42 @@
       "duration_ms": 285106,
       "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5OGALUjGm5kCEpejHs6vtA"
+    },
+    {
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169306,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
+    },
+    {
+      "album": {
+        "name": "I Wonder",
+        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
     },
     {
       "album": {
@@ -1629,7 +1734,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 189720,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
@@ -1795,7 +1900,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 213066,
       "name": "Me Myself and Why",
       "url": "https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj"
@@ -1907,10 +2012,32 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 173533,
       "name": "Never Til Now",
       "url": "https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF"
+    },
+    {
+      "album": {
+        "name": "Already Drank That Beer",
+        "url": "https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        },
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Never Til Now (feat. Brett Young)",
+      "url": "https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds"
     },
     {
       "album": {
@@ -2001,7 +2128,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 195217,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/7ETfVO4Njvmf3oNPJy33zF"
@@ -2200,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168447,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
+    },
+    {
+      "album": {
         "name": "Praise The Lord (feat. Thomas Rhett)",
         "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
       },
@@ -2381,7 +2526,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 202386,
       "name": "Songs About You",
       "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
@@ -2514,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/7pZWY6EqOlAZnYNW949KbJ"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/3CC2sCo30DhwOwGI4NN30I"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -2547,6 +2710,42 @@
       "duration_ms": 157906,
       "name": "Take My Name",
       "url": "https://open.spotify.com/track/50fXFVykkwS6Om9eqjTK44"
+    },
+    {
+      "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
+    },
+    {
+      "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
     },
     {
       "album": {
@@ -2717,7 +2916,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": "2023-01-06",
       "duration_ms": 198324,
       "name": "To Be Loved By You",
       "url": "https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7"
@@ -2775,6 +2974,24 @@
       "duration_ms": 203036,
       "name": "Truth About You",
       "url": "https://open.spotify.com/track/4Qum1kECNQrpREev5fvAQ4"
+    },
+    {
+      "album": {
+        "name": "What Do They Know",
+        "url": "https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219640,
+      "name": "Try Losing One",
+      "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
     },
     {
       "album": {

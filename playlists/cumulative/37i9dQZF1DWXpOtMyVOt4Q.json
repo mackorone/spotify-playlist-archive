@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Chill tunes to soundtrack your gaming session.",
   "name": "Chill Gaming",
-  "published_playlist_ids": [
-    "11Gpqzsbqf7yfVJuxrNTH2"
-  ],
   "tracks": [
     {
       "album": {
@@ -175,7 +172,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 120000,
       "name": "Accepted",
       "url": "https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5"
@@ -618,6 +615,24 @@
     },
     {
       "album": {
+        "name": "continue",
+        "url": "https://open.spotify.com/album/15tte2wxaXLrMdEJTuAbZ4"
+      },
+      "artists": [
+        {
+          "name": "cliffe",
+          "url": "https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96584,
+      "name": "continue",
+      "url": "https://open.spotify.com/track/6AhCfYGinoHIxr8oY5lwu6"
+    },
+    {
+      "album": {
         "name": "Counter Attack Mankind",
         "url": "https://open.spotify.com/album/1qW6KDoQYiVTJAvSOTtimE"
       },
@@ -719,7 +734,7 @@
       ],
       "date_added": "2019-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-03",
       "duration_ms": 361178,
       "name": "Csay Csay",
       "url": "https://open.spotify.com/track/1enynlph69y9FEW7NVhkO3"
@@ -991,6 +1006,24 @@
     {
       "album": {
         "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3GDrSVfvjeXnRUjXaE0XBb"
+      },
+      "artists": [
+        {
+          "name": "Spaceouters",
+          "url": "https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298799,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/7FtKmHnpcW6NDCCLe83CjR"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
         "url": "https://open.spotify.com/album/45QD5MLnRkj2F2RVJfwkcc"
       },
       "artists": [
@@ -1001,7 +1034,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 298852,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4Al96JAyCmkAn9tryHNEFx"
@@ -1301,7 +1334,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 99096,
       "name": "jade tower",
       "url": "https://open.spotify.com/track/7ERaRrb9qbmnvbAbBQvqgA"
@@ -1551,6 +1584,24 @@
       "duration_ms": 125057,
       "name": "Midnight Cruisin'",
       "url": "https://open.spotify.com/track/3L21x578Ip8Adwi5hjzQpK"
+    },
+    {
+      "album": {
+        "name": "Midnight Cruisin'",
+        "url": "https://open.spotify.com/album/19w0su9Sn8qBrPhLkOjGM3"
+      },
+      "artists": [
+        {
+          "name": "Kreatev",
+          "url": "https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125057,
+      "name": "Midnight Cruisin'",
+      "url": "https://open.spotify.com/track/47y4QykKNIbrJiTSSq1dut"
     },
     {
       "album": {
@@ -1807,10 +1858,28 @@
       ],
       "date_added": "2019-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 276080,
       "name": "Ocelot",
       "url": "https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr"
+    },
+    {
+      "album": {
+        "name": "Seven Seas",
+        "url": "https://open.spotify.com/album/2KdrIiL1UjCy9YDe6LnCzn"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276080,
+      "name": "Ocelot",
+      "url": "https://open.spotify.com/track/55xZKTc8WnKY0r0G5y3NRP"
     },
     {
       "album": {
@@ -2143,7 +2212,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 180779,
       "name": "Royal Lavender",
       "url": "https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ"
@@ -2179,7 +2248,7 @@
       ],
       "date_added": "2019-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 267333,
       "name": "Sad Heart of Mine",
       "url": "https://open.spotify.com/track/3e66nnkSbIvBHD8TFzh1mw"
@@ -2713,7 +2782,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": "2023-01-15",
       "duration_ms": 289870,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/3xNobvzrk3lpQpEz8WJUhM"

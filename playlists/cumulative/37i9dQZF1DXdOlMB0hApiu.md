@@ -4,7 +4,7 @@
 
 > "...when genuine passion moves you, say what you've got to say, and say it hot." Selected readings of D\. H\. Lawrence's poetry, novels, short stories, and letters.
 
-84 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/4QEiw6XUjCznW3fMWX38M4)
+84 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

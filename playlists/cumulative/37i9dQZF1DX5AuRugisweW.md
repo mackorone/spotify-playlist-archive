@@ -4,7 +4,7 @@
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-75 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/4QbJPlJtPYPvpuNwU9wxi8)
+75 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

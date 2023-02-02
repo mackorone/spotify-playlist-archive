@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "Abajo y a la izquierda.",
   "name": "Caf\u00e9 Revoluci\u00f3n",
-  "published_playlist_ids": [
-    "6dA0HeDmTyKtqD8bj9rk8f"
-  ],
   "tracks": [
     {
       "album": {
@@ -370,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Bocadito",
+        "url": "https://open.spotify.com/album/0SqDdPzU0ZW9RBLUSNiXZi"
+      },
+      "artists": [
+        {
+          "name": "Cadereira",
+          "url": "https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179021,
+      "name": "Bocadito",
+      "url": "https://open.spotify.com/track/65RtPQhhs5tHO41skjySmV"
+    },
+    {
+      "album": {
         "name": "Voy Pa All\u00e1",
         "url": "https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4"
       },
@@ -631,7 +646,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 218640,
       "name": "Chango",
       "url": "https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C"
@@ -689,7 +704,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": "2022-12-16",
       "duration_ms": 263933,
       "name": "Chucusteady",
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
@@ -895,7 +910,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 263253,
       "name": "Danza de Gardenias (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX"
@@ -1025,7 +1040,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": "2023-01-04",
       "duration_ms": 164813,
       "name": "Drume Negrita",
       "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
@@ -1221,7 +1236,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 212957,
       "name": "En Cantos",
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
@@ -1355,7 +1370,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-03",
       "duration_ms": 222000,
       "name": "Gar\u00faa (Sabor a Querer)",
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
@@ -1535,7 +1550,7 @@
       },
       "artists": [
         {
-          "name": "Isaac & Nora",
+          "name": "Isaac et Nora",
           "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
         },
         {
@@ -1547,7 +1562,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240298,
-      "name": "Hasta la Rai\u0301z",
+      "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     },
     {
@@ -1695,7 +1710,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 219737,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
@@ -1829,7 +1844,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
@@ -2112,6 +2127,32 @@
     },
     {
       "album": {
+        "name": "LQRA Session #9",
+        "url": "https://open.spotify.com/album/3vuHYUMbcDbAQ6uRA75e0f"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "LQRA Session #9",
+      "url": "https://open.spotify.com/track/33haHnjG4O7Jk0s4RpovFI"
+    },
+    {
+      "album": {
         "name": "Mam\u00e1",
         "url": "https://open.spotify.com/album/7BwXwHltlavtSymrUeug1V"
       },
@@ -2199,6 +2240,42 @@
       "duration_ms": 213810,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
+    },
+    {
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373760,
+      "name": "Mar\u00eda la Curandera",
+      "url": "https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb"
     },
     {
       "album": {
@@ -2305,10 +2382,28 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": "2023-02-01",
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+    },
+    {
+      "album": {
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
+      },
+      "artists": [
+        {
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197669,
+      "name": "Mi Acento",
+      "url": "https://open.spotify.com/track/6DxgdO95EnrXOVHGNFI33B"
     },
     {
       "album": {
@@ -2385,7 +2480,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 180569,
       "name": "Mis Amigos",
       "url": "https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN"
@@ -2421,7 +2516,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 231716,
       "name": "Mr. Carisma",
       "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
@@ -2523,7 +2618,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-24",
       "duration_ms": 151953,
       "name": "Ni una Gota de Amor",
       "url": "https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3"
@@ -2672,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "OTRAS MUJERES",
+        "url": "https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "OTRAS MUJERES",
+      "url": "https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV"
+    },
+    {
+      "album": {
         "name": "Otros Colores",
         "url": "https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS"
       },
@@ -2691,6 +2804,24 @@
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
+    },
+    {
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
     },
     {
       "album": {
@@ -3293,7 +3424,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 166172,
       "name": "Supersticioso",
       "url": "https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6"
@@ -3395,6 +3526,28 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
+    },
+    {
+      "album": {
+        "name": "Tres Hermanos",
+        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
     },
     {
       "album": {
@@ -3675,7 +3828,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 215480,
       "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
       "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"

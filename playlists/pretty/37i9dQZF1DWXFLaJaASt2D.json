@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 24458,
+  "num_followers": 32430,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDQ1MzQzNDQwNGMzZTkwNzFmMmIxOGI3ZWNmMDFjZTAy",
+  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDYwMzdiOWZjNGNjMDM0NjZkMWQ4Y2ZkZDRjYTg2OWJj",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -107,6 +107,22 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -139,54 +155,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Dirty Little Secret",
-      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "The Warrior's Code",
         "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
@@ -199,6 +167,22 @@
       "duration_ms": 153600,
       "name": "I'm Shipping Up To Boston",
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Dirty Little Secret",
+      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -231,6 +215,22 @@
       "duration_ms": 194666,
       "name": "Train in Vain (Stand by Me) - Remastered",
       "url": "https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -283,34 +283,18 @@
     {
       "added_at": "2022-01-10 21:04:09",
       "album": {
-        "name": "This Year's Model (2021 Remaster)",
-        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
       "artists": [
         {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 196680,
-      "name": "Pump It Up - 2021 Remaster",
-      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Ruby Soho",
-      "url": "https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2"
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -329,6 +313,22 @@
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
     },
     {
+      "added_at": "2022-01-10 21:04:09",
+      "album": {
+        "name": "This Year's Model (2021 Remaster)",
+        "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up - 2021 Remaster",
+      "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
+    },
+    {
       "added_at": "2021-04-20 17:48:20",
       "album": {
         "name": "Recipe For Hate",
@@ -343,6 +343,38 @@
       "duration_ms": 197666,
       "name": "American Jesus",
       "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Ruby Soho",
+      "url": "https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -395,22 +427,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Social Distortion",
         "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 346333,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL"
-    },
-    {
-      "added_at": "2022-01-10 21:04:09",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -491,54 +491,6 @@
     {
       "added_at": "2022-01-10 21:04:09",
       "album": {
-        "name": "White Crosses",
-        "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "I Was a Teenage Anarchist",
-      "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 126453,
-      "name": "Rockaway Beach - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Beauty And The Beat (30th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6"
-      },
-      "artists": [
-        {
-          "name": "The Go-Go's",
-          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
-        }
-      ],
-      "duration_ms": 151106,
-      "name": "We Got The Beat - 2011 Remaster",
-      "url": "https://open.spotify.com/track/5o37x6LpNSec4jSfPIChsQ"
-    },
-    {
-      "added_at": "2022-01-10 21:04:09",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -551,22 +503,6 @@
       "duration_ms": 134026,
       "name": "Sound System - 2007 Remaster",
       "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -587,18 +523,50 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "All Hallows EP",
-        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
       },
       "artists": [
         {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
         }
       ],
-      "duration_ms": 185360,
-      "name": "The Boy Who Destroyed The World",
-      "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"
+      "duration_ms": 163880,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "End of the Century (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Rock 'n' Roll High School - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
+    },
+    {
+      "added_at": "2022-01-10 21:04:09",
+      "album": {
+        "name": "White Crosses",
+        "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "I Was a Teenage Anarchist",
+      "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -619,22 +587,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Don't Turn Away",
-        "url": "https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4"
-      },
-      "artists": [
-        {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Social Distortion",
         "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
@@ -647,22 +599,6 @@
       "duration_ms": 230773,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "End of the Century (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Rock 'n' Roll High School - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -683,18 +619,34 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Adolescents",
-        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
+        "name": "Don't Turn Away",
+        "url": "https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4"
       },
       "artists": [
         {
-          "name": "Adolescents",
-          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
         }
       ],
-      "duration_ms": 186626,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
+      "duration_ms": 207733,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Beauty And The Beat (30th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "duration_ms": 151106,
+      "name": "We Got The Beat - 2011 Remaster",
+      "url": "https://open.spotify.com/track/5o37x6LpNSec4jSfPIChsQ"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -711,6 +663,102 @@
       "duration_ms": 196573,
       "name": "Seether",
       "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 126453,
+      "name": "Rockaway Beach - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Adolescents",
+        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
+      },
+      "artists": [
+        {
+          "name": "Adolescents",
+          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Let's Talk About Feelings",
+        "url": "https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz"
+      },
+      "artists": [
+        {
+          "name": "Lagwagon",
+          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "May 16",
+      "url": "https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "All Hallows EP",
+        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "The Boy Who Destroyed The World",
+      "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Worker's Song",
+      "url": "https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Candy Apple Grey",
+        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Don't Want to Know If You Are Lonely",
+      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -747,22 +795,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Candy Apple Grey",
-        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
-      },
-      "artists": [
-        {
-          "name": "H\u00fcsker D\u00fc",
-          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Don't Want to Know If You Are Lonely",
-      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Raw Power",
         "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
       },
@@ -775,38 +807,6 @@
       "duration_ms": 208133,
       "name": "Search and Destroy - Iggy Pop Mix",
       "url": "https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Let's Talk About Feelings",
-        "url": "https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz"
-      },
-      "artists": [
-        {
-          "name": "Lagwagon",
-          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "May 16",
-      "url": "https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Worker's Song",
-      "url": "https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -843,6 +843,22 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 173103,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "The Fury of the Aquabats!",
-        "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
-      },
-      "artists": [
-        {
-          "name": "The Aquabats!",
-          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Super Rad!",
-      "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -891,34 +891,18 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/73ctstwnbNifu5U902X2zL"
+        "name": "The Fury of the Aquabats!",
+        "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
       },
       "artists": [
         {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
         }
       ],
-      "duration_ms": 181453,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 131120,
-      "name": "Sliver",
-      "url": "https://open.spotify.com/track/6vA9MwQSTgsGw2aaiVQdq2"
+      "duration_ms": 182800,
+      "name": "Super Rad!",
+      "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
     },
     {
       "added_at": "2022-01-10 21:04:09",
@@ -939,18 +923,18 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
       },
       "artists": [
         {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 211386,
-      "name": "White People for Peace",
-      "url": "https://open.spotify.com/track/53S5rCt8LFsocU95QXoK1X"
+      "duration_ms": 131120,
+      "name": "Sliver",
+      "url": "https://open.spotify.com/track/6vA9MwQSTgsGw2aaiVQdq2"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -967,6 +951,22 @@
       "duration_ms": 162346,
       "name": "New Rose",
       "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Bomb the Twist",
+        "url": "https://open.spotify.com/album/61IsFgLDnUXc9buDJyi3Eo"
+      },
+      "artists": [
+        {
+          "name": "The 5.6.7.8's",
+          "url": "https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy"
+        }
+      ],
+      "duration_ms": 122053,
+      "name": "Woo Hoo",
+      "url": "https://open.spotify.com/track/6GA8fbPKP6KZ3fP75AIjRI"
     }
   ],
   "unique_name": "Raised on Punk",

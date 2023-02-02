@@ -4,7 +4,7 @@
 
 > Discover the music of Richard Strauss.
 
-89 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/6q5YBSpYIzroQvZmItG9Jk)
+89 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

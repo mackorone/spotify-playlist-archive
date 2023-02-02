@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Reggae music for dogs that know what\u2019s up.",
   "name": "Bow Wow Reggae",
-  "published_playlist_ids": [
-    "2Fuyw5LCFsf6fNCZdyK7YB"
-  ],
   "tracks": [
     {
       "album": {
@@ -369,10 +366,40 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 273360,
       "name": "I'm Still in Love with You (feat. Sasha)",
       "url": "https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
+        },
+        {
+          "name": "Jeremy Harding",
+          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
+        },
+        {
+          "name": "Murray Elias",
+          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "I'm Still in Love with You (feat. Sasha)",
+      "url": "https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN"
     },
     {
       "album": {
@@ -1053,7 +1080,7 @@
     {
       "album": {
         "name": "Displaced Masters",
-        "url": "https://open.spotify.com/album/3Y4wUVWxTixI0xaj5u08yv"
+        "url": "https://open.spotify.com/album/0WTyiC4nrGXraWRJIj4HLq"
       },
       "artists": [
         {
@@ -1064,6 +1091,24 @@
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 281526,
+      "name": "Red Sea Dub",
+      "url": "https://open.spotify.com/track/1UowzBmHmTgvWW1kViLDLJ"
+    },
+    {
+      "album": {
+        "name": "Displaced Masters",
+        "url": "https://open.spotify.com/album/3Y4wUVWxTixI0xaj5u08yv"
+      },
+      "artists": [
+        {
+          "name": "Dub Syndicate",
+          "url": "https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4"
+        }
+      ],
+      "date_added": "2020-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 281526,
       "name": "Red Sea Dub",
       "url": "https://open.spotify.com/track/4wzt08huSyrWQUfakVmguR"

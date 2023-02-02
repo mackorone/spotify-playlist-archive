@@ -4,7 +4,7 @@
 
 > The fantastic French producer <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAk">Myd</a> warms our heart and soul with an indie dance mix.
 
-11 songs - 59 min 44 sec - not published yet
+11 songs - 59 min 44 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

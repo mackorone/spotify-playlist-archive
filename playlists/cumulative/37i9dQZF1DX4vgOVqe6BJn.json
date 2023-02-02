@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-23",
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
   "name": "FIFA 23 Official Soundtrack",
-  "published_playlist_ids": [
-    "4JXldDdcRr0IB1N0GH17pC"
-  ],
   "tracks": [
     {
       "album": {
@@ -1265,7 +1262,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 168226,
       "name": "Look",
       "url": "https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ"
@@ -1785,6 +1782,24 @@
       "duration_ms": 262346,
       "name": "READY4DEM",
       "url": "https://open.spotify.com/track/6vFjgISjK4fwJYPnMt8zAX"
+    },
+    {
+      "album": {
+        "name": "Rice",
+        "url": "https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
     },
     {
       "album": {

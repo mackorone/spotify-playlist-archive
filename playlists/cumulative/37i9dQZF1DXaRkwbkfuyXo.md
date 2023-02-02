@@ -2,9 +2,9 @@
 
 ### [Corridos Alterados](https://open.spotify.com/playlist/37i9dQZF1DXaRkwbkfuyXo)
 
-> Seguimos arremangados, pariente\. Régulo Caro en portada.
+> Seguimos arremangados, pariente\. Voz de Mando en portada.
 
-110 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/6WRQ2rQiGlhp2WfZktq7QQ)
+112 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alacrana Lavada](https://open.spotify.com/track/4WxVEef5lYtPZLocEDAkMc) | [El Compa Chuy](https://open.spotify.com/artist/513OnOSWOhVTh12V1eEJtt) | [Alacrana Lavada](https://open.spotify.com/album/45XsUfnTe5wTuBAU7KwuUx) | 3:16 | 2022-03-07 |  |
 | [Barba Negra](https://open.spotify.com/track/2Ga6t9IYgpfzM9exjeTo8S) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 2:34 | 2022-03-17 |  |
 | [Borracho Y Escandaloso](https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:42 | 2022-03-17 |  |
+| [Bélico X Siempre \- En Vivo](https://open.spotify.com/track/67V38GVtNuQcuq7lcevAjh) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Bélico X Siempre \(En Vivo\)](https://open.spotify.com/album/6PvM8qWEQNvh7hcyVMkxOV) | 3:01 | 2022-12-02 |  |
 | [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 | 2022-03-07 |  |
 | [Carteles Unidos](https://open.spotify.com/track/2T94dCgIybiU2P37umlbuc) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/3Xa1NdUaZmrRPR928iLjVo) | 3:35 | 2022-03-07 | 2022-07-29 |
 | [Carteles Unidos](https://open.spotify.com/track/5YPGbg0Yp83gTb4i7fCBad) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/6SfZZhWHTrLDbn8TfyiOTr) | 3:35 | 2022-03-07 |  |
@@ -23,7 +24,8 @@
 | [Cien vidas Antrax](https://open.spotify.com/track/6KHrhw2BMo3L9rNhEPDyq6) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Emilio Garra](https://open.spotify.com/artist/5EgezdXajH2FAf79KHmrah), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [Régulo Caro vs\. Emilio Garra](https://open.spotify.com/album/3jpK8xsQuiEeCLCj3zwpyY) | 3:06 | 2022-03-07 | 2022-11-08 |
 | [Comando X \(En Vivo\)](https://open.spotify.com/track/2klm6F6NIXGoqVbIkxKJPv) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/3hErWDx15ZpkpDbQGKZYlf) | 4:11 | 2022-03-07 | 2022-07-29 |
 | [Comando X \(En Vivo\)](https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 4:11 | 2022-03-07 |  |
-| [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 | 2022-03-07 |  |
+| [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 | 2022-03-07 | 2022-12-03 |
+| [Comandos del M.P \- 500 Balazos](https://open.spotify.com/track/6GPqSFTCbiSwKTzzPkYWPy) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Comandos del M.P \(500 Balazos\)](https://open.spotify.com/album/4OCYNKnPrGzTdO66QQkKKp) | 2:34 | 2022-12-02 |  |
 | [Corrido Del Invalido](https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:42 | 2022-03-07 |  |
 | [Corrido Del Invalido](https://open.spotify.com/track/4CQGilIvA3AKUlDM2GsDjw) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Corridos De Alto Calibre](https://open.spotify.com/album/56lZXvNZ84mRq5gn85Fuki) | 2:44 | 2022-03-07 | 2022-11-14 |
 | [Corrido del Tamarindo \(Feat\. El Komander\)](https://open.spotify.com/track/6t7RQGzGSMGtRxbCH2EpTv) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado \- Grandes Exitos](https://open.spotify.com/album/58B6nJm896OlSmn86qrzyv) | 2:22 | 2022-03-07 | 2022-11-13 |
@@ -53,7 +55,7 @@
 | [El Diablo Como Enemigo](https://open.spotify.com/track/47Cdv8CEajQn17CtUhYvU5) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 2:49 | 2022-03-17 |  |
 | [El Enamorado](https://open.spotify.com/track/0CcFhIRRW468bAlAwD9FFs) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 2:34 | 2022-03-07 |  |
 | [El Escudo Del Chavo \(feat\. Grupo 360\)](https://open.spotify.com/track/67EbM56Rb147GoRQYPO0qB) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [El Escudo Del Chavo \(feat\. Grupo 360\) \- Single](https://open.spotify.com/album/5XPWJD0KD92cOIbu1pnO2b) | 2:40 | 2022-11-08 |  |
-| [El Fp](https://open.spotify.com/track/6cVd6YSo03kPrxThzlPtj6) | [Oscar Garcia](https://open.spotify.com/artist/1uy0dqC43A0d7K6yXTH7eP) | [El Movimiento Alterado \- Grandes Exitos](https://open.spotify.com/album/58B6nJm896OlSmn86qrzyv) | 2:24 | 2022-11-08 |  |
+| [El Fp](https://open.spotify.com/track/6cVd6YSo03kPrxThzlPtj6) | [Oscar Garcia](https://open.spotify.com/artist/1uy0dqC43A0d7K6yXTH7eP) | [El Movimiento Alterado \- Grandes Exitos](https://open.spotify.com/album/58B6nJm896OlSmn86qrzyv) | 2:24 | 2022-11-08 | 2022-12-03 |
 | [El Invalido](https://open.spotify.com/track/6slyAwU92H8O6OdknGDj6D) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Movimiento Alterado, Vol\. 1](https://open.spotify.com/album/3nYkEmbJZfanyB16oEX2lx) | 2:44 | 2022-03-07 | 2022-07-29 |
 | [El Mensaje](https://open.spotify.com/track/5KCqnvbmpJt4E8LiojzPCM) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Jerarquia de Corridos con Power Sinaloense! \(Edited Version\)](https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA) | 3:01 | 2022-11-08 |  |
 | [El Mini 6](https://open.spotify.com/track/3jUfQmjqTE3VUcVESl0zXR) | [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [Los Reyes del Movimiento Alterado](https://open.spotify.com/album/643E8uNalA0RcrJWyT0WlU) | 3:10 | 2022-03-07 |  |

@@ -4,7 +4,7 @@
 
 > The stellar duo <a href="spotify:artist:586uxXMyD5ObPuzjtrzO1Q">Sofi Tukker</a> brings us an exciting DJ Mix loaded with summer hits!
 
-14 songs - 54 min 18 sec - [published](https://open.spotify.com/playlist/7cVYQxJPSoRW1GjqLYTkEM)
+14 songs - 54 min 18 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

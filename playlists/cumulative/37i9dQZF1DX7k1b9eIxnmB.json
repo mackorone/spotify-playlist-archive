@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Here comes the Maestro with his best of 90s!",
   "name": "Raaja Rules 90s",
-  "published_playlist_ids": [
-    "6gUA4OjKEmfJ6nVoh2VZGh"
-  ],
   "tracks": [
     {
       "album": {
@@ -357,8 +354,8 @@
           "url": "https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW"
         },
         {
-          "name": "Surendar",
-          "url": "https://open.spotify.com/artist/2thixuRzS3t9ElzLd81K15"
+          "name": "S. N. Surendar",
+          "url": "https://open.spotify.com/artist/2jWcPu3qauf20L8qNaWltU"
         },
         {
           "name": "Arunmozhi",
@@ -369,14 +366,14 @@
           "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
         },
         {
-          "name": "Deepika",
-          "url": "https://open.spotify.com/artist/46IzioSYI2XSi7ogH4c38L"
+          "name": "Palani Bharathi",
+          "url": "https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb"
         }
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 298004,
+      "duration_ms": 298440,
       "name": "Anantha Kuyilin Pattu",
       "url": "https://open.spotify.com/track/0mTwCnJosVUPUuMQkrC13x"
     },
@@ -991,13 +988,17 @@
         {
           "name": "Ilaiyaraaja",
           "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Palani Bharathi",
+          "url": "https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb"
         }
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 304018,
-      "name": "Ennai Thalatta Varuvala",
+      "duration_ms": 304920,
+      "name": "Ennai Thalatta Varuvala (Duet)",
       "url": "https://open.spotify.com/track/4MezfRc3Yw4m7PvFPF85o8"
     },
     {
@@ -1668,6 +1669,32 @@
     },
     {
       "album": {
+        "name": "Sathi Leelavathi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wAlyGFdmDBM60YGknkTZF"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313853,
+      "name": "Maharajanodu",
+      "url": "https://open.spotify.com/track/3hZQglTkzY7iWtfSJhZ5XN"
+    },
+    {
+      "album": {
         "name": "Sathi Leelavathi",
         "url": "https://open.spotify.com/album/2IO7xMMIU7aHYAjMveF55b"
       },
@@ -1683,7 +1710,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 316535,
       "name": "Maharajanodu",
       "url": "https://open.spotify.com/track/5AeO1JzZbeRUmTsQTLjB5S"
@@ -1779,6 +1806,32 @@
     {
       "album": {
         "name": "Sathi Leelavathi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wAlyGFdmDBM60YGknkTZF"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369720,
+      "name": "Marugo Marugo",
+      "url": "https://open.spotify.com/track/6t48rynj5P4UuOK5aWAP8l"
+    },
+    {
+      "album": {
+        "name": "Sathi Leelavathi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7GFx9DV7eSYI9aFpAHzBcB"
       },
       "artists": [
@@ -1793,7 +1846,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 369720,
       "name": "Marugo Marugo",
       "url": "https://open.spotify.com/track/30GGJGwMPuS6XIxO93MD6W"
@@ -2171,12 +2224,16 @@
         {
           "name": "Bhavatharini",
           "url": "https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4"
+        },
+        {
+          "name": "Palani Bharathi",
+          "url": "https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb"
         }
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 295009,
+      "duration_ms": 295920,
       "name": "O Baby",
       "url": "https://open.spotify.com/track/0AiI2aP2IJlCeuEMSOcy59"
     },
@@ -2303,12 +2360,16 @@
         {
           "name": "Sujatha",
           "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        },
+        {
+          "name": "Palani Bharathi",
+          "url": "https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb"
         }
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 313004,
+      "duration_ms": 313200,
       "name": "Oru Pattam Poochi",
       "url": "https://open.spotify.com/track/2Y0r28Onm7SCgtvSlQChtF"
     },

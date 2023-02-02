@@ -4,7 +4,7 @@
 
 > Beatiful, mellow jazz for romance
 
-23 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/5tsQBAnCuAGb5NREKJ7X16)
+23 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

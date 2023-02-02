@@ -4,7 +4,7 @@
 
 > Listen to the most streamed female artists in the US this year!
 
-34 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/0oEXpgdKUn1jp8Zn8AOn2K)
+34 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

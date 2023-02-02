@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 
 > Relax and slip into this eclectic mix of reggae infused tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,559 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,819 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkkUxEhrBdF.md) - [plain]
 | 46 | [Funkin' for Jamaica \(N.Y\)](https://open.spotify.com/track/6XJEE7OcTFmgS6IoAv7Jcc) | [Prince Fatty](https://open.spotify.com/artist/2KQRgrZISaDwQNpiLUTAnr), [Shniece McMenamin](https://open.spotify.com/artist/44odrjJUepZctaUDynBx8E) | [Funkin' for Jamaica \(N.Y\)](https://open.spotify.com/album/6bZGq8U9h9iLqaSb39lLrj) | 4:39 |
 | 47 | [Trouble](https://open.spotify.com/track/3OuLmkQmyawqrMAC3w5Wjt) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Trouble](https://open.spotify.com/album/4YALDeVXSEaWeqe9hHax86) | 3:36 |
 | 48 | [Boombastic \- Remix](https://open.spotify.com/track/5sBg78mRFIU6RNIz68WSqe) | [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Big Zeeks](https://open.spotify.com/artist/1Vu6ENs1kZxIXu3AVsPfxz), [K More](https://open.spotify.com/artist/4UKS4Oy01hi0BkmFulT5LM), [J Kaz](https://open.spotify.com/artist/2hON2XzN5pQVjggGRTdEr4) | [Boombastic \(Remix\)](https://open.spotify.com/album/7r33xJoTInXGWmv4hZ3134) | 2:41 |
-| 49 | [Mood Forever](https://open.spotify.com/track/1RxSIa8oMMPzBjjpKsgN3S) | [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Mood Forever](https://open.spotify.com/album/3DDk8Okv8KjmnlOwSALaH9) | 2:54 |
+| 49 | [Mood Forever](https://open.spotify.com/track/5O66ltnew3GTXTvMFaK3tv) | [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Mood Forever EP](https://open.spotify.com/album/6sIctZXhBIDn7yG3kgwzD9) | 2:54 |
 | 50 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
 
-Snapshot ID: `MTYzNTQyMzAzMywwMDAwMDAwMDFmODFjMTQxMWIyMDc1MDVmYTJlZjMyZTFkOTFjYjA3`
+Snapshot ID: `MTYzNTQyMzAzMywwMDAwMDAwMGUwYjc4ZTc4ZWE4OTk4ZWIwZDFlODJlMTU5NmQ3ODBi`

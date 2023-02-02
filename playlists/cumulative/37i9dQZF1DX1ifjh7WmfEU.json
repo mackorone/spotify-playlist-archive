@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-20",
   "description": "Piano music for your massage session.",
   "name": "Piano Massage",
-  "published_playlist_ids": [
-    "0MT14IFeha7RvTUzzRUcTI"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,6 +92,24 @@
       "duration_ms": 170111,
       "name": "About the End of Eternity",
       "url": "https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0"
+    },
+    {
+      "album": {
+        "name": "Act Of Reconciling",
+        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
+      },
+      "artists": [
+        {
+          "name": "Herbe Matin",
+          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Act Of Reconciling",
+      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
     },
     {
       "album": {
@@ -894,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Relaxing Piano Classics",
+        "url": "https://open.spotify.com/album/3pLxieuvyteE7gyAJYyAbz"
+      },
+      "artists": [
+        {
+          "name": "Leonard Anderson",
+          "url": "https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165350,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/0IYFu2XwAw4upJLfODQAWo"
+    },
+    {
+      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/3gMNDU94vR2HTmQen6gfqT"
       },
@@ -905,7 +938,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 165350,
       "name": "Friend",
       "url": "https://open.spotify.com/track/41jpD9d8fOSzOya79B7A7K"
@@ -2040,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "Reach",
+        "url": "https://open.spotify.com/album/01KH05yqQgS0Cru4rIj5ML"
+      },
+      "artists": [
+        {
+          "name": "Lester Milton",
+          "url": "https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Reach",
+      "url": "https://open.spotify.com/track/7atqhP3DGCPfVBFK3YVMA7"
+    },
+    {
+      "album": {
         "name": "Reggimi",
         "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
       },
@@ -2652,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Theme from The Angel",
+        "url": "https://open.spotify.com/album/15fvKVkNpLCtwHCXhlzhqG"
+      },
+      "artists": [
+        {
+          "name": "Leon Fisher",
+          "url": "https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105459,
+      "name": "Theme from The Angel",
+      "url": "https://open.spotify.com/track/7LRdotxT5OK5kUOPvzlv4i"
+    },
+    {
+      "album": {
         "name": "Through The Fields",
         "url": "https://open.spotify.com/album/1edcP1iOeSvZTFg4PxMZhB"
       },
@@ -2865,6 +2934,24 @@
       "duration_ms": 126675,
       "name": "Wanderer",
       "url": "https://open.spotify.com/track/7KOqu2N0jtVQMQZHdWTlT7"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI"
+      },
+      "artists": [
+        {
+          "name": "Delevski",
+          "url": "https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144334,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L"
     },
     {
       "album": {

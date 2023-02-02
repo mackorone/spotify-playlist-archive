@@ -4,7 +4,7 @@
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-95 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/0UHsjagwmAQGvmHUDaFYKF)
+95 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

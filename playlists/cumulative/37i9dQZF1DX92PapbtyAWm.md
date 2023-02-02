@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favorite bangers in his DJ mix.
 
-20 songs - 1 hr 3 min - [published](https://open.spotify.com/playlist/4Bn8UTRHEfiy2KpyqfKCBv)
+20 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

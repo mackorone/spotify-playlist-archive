@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-132 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
+133 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Chuva de Prata \- Ao Vivo](https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A Pele do Futuro Ao Vivo](https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a) | 3:49 | 2021-12-31 |  |
 | [Chão de Giz](https://open.spotify.com/track/1VNBEmjVEaS6BedHSdYxKS) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Antologia Acustica \- Vol\. 1](https://open.spotify.com/album/5wHlY7AE8cBuRkMMiv9E8G) | 4:31 | 2021-12-31 |  |
 | [Clube Da Esquina Nº2 \- Acústico](https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Nada Será Como Antes \(Acústico\)](https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc) | 4:30 | 2021-12-31 |  |
-| [Como 2 E 2 \- Ao Vivo](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 | 2022-11-09 |  |
+| [Como 2 E 2 \- Ao Vivo / Introdução](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 | 2022-11-09 |  |
 | [Como Nossos Pais](https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Regina Em Falso Brilhante](https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ) | 4:20 | 2021-12-31 | 2022-07-29 |
 | [Como Nossos Pais](https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:21 | 2022-06-24 |  |
 | [Como nossos pais](https://open.spotify.com/track/2NAYT8wKUBQHGs2WWbO6B1) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [O melhor do violão na MPB](https://open.spotify.com/album/5b1uKyFCab8LXuaadeQTge) | 4:23 | 2022-11-09 | 2022-11-14 |
@@ -136,8 +136,9 @@
 | [Vitoriosa](https://open.spotify.com/track/3vJJqxkNLVHibD3gRttOHP) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Ivan Lins](https://open.spotify.com/album/3hXVmp2gOuoo2Oa3glN108) | 4:01 | 2022-06-24 |  |
 | [Vitoriosa \- Ao Vivo](https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Nova Bis \- Ivan Lins](https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2) | 3:50 | 2021-12-31 | 2022-07-29 |
 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 | 2021-12-31 |  |
-| [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 | 2022-06-24 |  |
 | [Águas De Março](https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Antonio Carlos Jobim: Finest Hour](https://open.spotify.com/album/2iBlbJFXs5U3dY8G9UGyTB) | 3:34 | 2021-12-31 | 2022-07-29 |
+| [Águas De Março](https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Compact Jazz: Antonio Carlos Jobim](https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE) | 3:32 | 2022-06-24 | 2023-01-07 |
+| [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2022-11-09 |  |
 | [Águas De Março](https://open.spotify.com/track/3PzD3zi0UeNw3dTYGbAZCy) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 3:34 | 2022-11-09 | 2022-11-14 |
 | [É O Que Me Interessa \- Ao Vivo](https://open.spotify.com/track/4NTR6pdFJ0WeDcNk5SQ222) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine Em Trânsito \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/2i3C0flV9Ja7NWidhVLKl2) | 4:01 | 2021-12-31 |  |
 

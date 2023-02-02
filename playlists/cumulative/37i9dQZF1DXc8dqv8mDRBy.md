@@ -4,7 +4,7 @@
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
 
-82 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/6zwOwkn8jYbaNjGrktCDGR)
+83 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Aqui Estoy Yo](https://open.spotify.com/track/1CFGxiVmkGGMlKQ6Oj20zU) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Vibras de Amor](https://open.spotify.com/album/6DpFoXDfOL94WEIMPjp3l6) | 4:11 | 2022-11-04 | 2022-11-13 |
 | [Aqui Estoy Yo](https://open.spotify.com/track/4go2M6us50x9TQ1NvsB4vt) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 4:11 | 2022-01-21 |  |
 | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE) | 4:16 | 2021-11-12 |  |
-| [Consejo de Amor](https://open.spotify.com/track/3za3hxbolwmy9AeUpWzuRE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Quiero Volver](https://open.spotify.com/album/2RuYsBRCgFEantZkX83W2Y) | 3:19 | 2021-11-12 |  |
+| [Consejo de Amor](https://open.spotify.com/track/3za3hxbolwmy9AeUpWzuRE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Quiero Volver](https://open.spotify.com/album/2RuYsBRCgFEantZkX83W2Y) | 3:19 | 2021-11-12 | 2022-12-18 |
+| [Consejo de Amor \(feat\. Morat\)](https://open.spotify.com/track/7GrffUxvaKz4wKmyutin0P) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Quiero Volver](https://open.spotify.com/album/3L2sHT4Y1hbYYTt78OT0me) | 3:19 | 2022-11-04 |  |
 | [Culpables](https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Culpables](https://open.spotify.com/album/0ojcVRT3LvPrnuTP2VUaSA) | 3:53 | 2021-11-12 |  |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-11-12 |  |
 | [El día que me quieras](https://open.spotify.com/track/4S5rS6t4INfDEgBHYQYj99) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:32 | 2021-11-12 |  |

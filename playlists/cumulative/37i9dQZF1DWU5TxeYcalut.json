@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Letieres Leite, Orkestra Rumpilezz, Caetano Veloso",
   "name": "Jazz Brasileiro",
-  "published_playlist_ids": [
-    "2Ne5i2VWAUeP3KdZ5aLVyo"
-  ],
   "tracks": [
     {
       "album": {
@@ -575,7 +572,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 360375,
       "name": "Dale!",
       "url": "https://open.spotify.com/track/7yoPPkk8PZ5HSbLkDD9kSL"
@@ -623,7 +620,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 271569,
       "name": "Dindi",
       "url": "https://open.spotify.com/track/1MSJDpRYmt0ZVcfTUVYHjb"
@@ -649,6 +646,36 @@
       "duration_ms": 502746,
       "name": "Domingo 27/09",
       "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
+    },
+    {
+      "album": {
+        "name": "Doralice",
+        "url": "https://open.spotify.com/album/0xXz4ehuh3vm7NDqPucrjY"
+      },
+      "artists": [
+        {
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
+        },
+        {
+          "name": "Fabio Torres",
+          "url": "https://open.spotify.com/artist/5TJUHR3NQ7KfmQq7VI8Fnh"
+        },
+        {
+          "name": "Paulo Paulelli",
+          "url": "https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y"
+        },
+        {
+          "name": "Celso de Almeida",
+          "url": "https://open.spotify.com/artist/2O9KBKWznWRKegorqKLwS5"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148506,
+      "name": "Doralice - Live at Copenhagen Jazzhouse, 2001.",
+      "url": "https://open.spotify.com/track/65YeHWDxAqeK1KcanRj2hH"
     },
     {
       "album": {
@@ -984,6 +1011,28 @@
     },
     {
       "album": {
+        "name": "Iroko",
+        "url": "https://open.spotify.com/album/72mgXHO7Alutf2hyR6ZGUi"
+      },
+      "artists": [
+        {
+          "name": "Omar Sosa",
+          "url": "https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX"
+        },
+        {
+          "name": "Tigan\u00e1 Santana",
+          "url": "https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468008,
+      "name": "Iroko",
+      "url": "https://open.spotify.com/track/2L6d9EyLMB8pkSu7SLAffi"
+    },
+    {
+      "album": {
         "name": "Interior",
         "url": "https://open.spotify.com/album/3qLBeesjfSxGLFfMd6Rd5R"
       },
@@ -1270,6 +1319,32 @@
     },
     {
       "album": {
+        "name": "Mirada Pervertida (Bossa Guitar)",
+        "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
+      },
+      "artists": [
+        {
+          "name": "Rio Bossa Trio",
+          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
+        },
+        {
+          "name": "Bossasonic",
+          "url": "https://open.spotify.com/artist/1rMrvKch63UbSVbU3DwlLv"
+        },
+        {
+          "name": "Taryn Szpilman",
+          "url": "https://open.spotify.com/artist/0ciHYgiBCJR0vpWalvaMKC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218174,
+      "name": "Nadie Tiene El Alma Pura",
+      "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
+    },
+    {
+      "album": {
         "name": "Moacir de todos os santos",
         "url": "https://open.spotify.com/album/0uEyztGMuwTBSPJKPfC8M4"
       },
@@ -1421,6 +1496,24 @@
       "duration_ms": 205266,
       "name": "O Morro N\u00e3o Tem Vez",
       "url": "https://open.spotify.com/track/0BFY4ELzGsvmBEJDqCmkyj"
+    },
+    {
+      "album": {
+        "name": "Onze por Oito",
+        "url": "https://open.spotify.com/album/6wlNqURb6pjDAVSRCUMYoG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Um",
+          "url": "https://open.spotify.com/artist/1bkSkFuMfHxnrnIWMA1NqQ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 292680,
+      "name": "Onze por Oito",
+      "url": "https://open.spotify.com/track/3o8OmVpHGukrmH7KRP4Vri"
     },
     {
       "album": {
@@ -2002,6 +2095,28 @@
     },
     {
       "album": {
+        "name": "C\u00e1ssia Eller & Victor Biglione In Blues",
+        "url": "https://open.spotify.com/album/2zx348PyI6d3fEfDWnv3QP"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        },
+        {
+          "name": "Victor Biglione",
+          "url": "https://open.spotify.com/artist/5GHcCPhRZFVn1KIjtBmS8B"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208952,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1ZDOfQUJXaac8w6q9U0MLi"
+    },
+    {
+      "album": {
         "name": "Chico Macedo 4teto",
         "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
       },
@@ -2233,7 +2348,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 205453,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/4mIA4xRo5s0DbuXPozSg8Q"
@@ -2325,7 +2440,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 231666,
       "name": "Um Dia de Sol",
       "url": "https://open.spotify.com/track/7JLWHxhfQCcKrLp36egd0C"

@@ -1,12 +1,12 @@
 {
   "description": "Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now. Cover: She & Him\n",
-  "num_followers": 80462,
+  "num_followers": 97873,
   "original_name": "Folksy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDZmM2YwZGFhZWYwYWZhMTBmNzU4M2JjM2UyYWU5Nzli",
+  "snapshot_id": "MTY2OTk5ODQ0MCwwMDAwMDAwMDlhMTQ1YmVlMWFlZjk0MGRhYTY0OWQwNzY3ZDQ2MTA3",
   "tracks": [
     {
       "added_at": "2022-11-15 16:17:02",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/00BFJckRTYu3QeeZRq15qf"
     },
     {
+      "added_at": "2022-12-02 16:27:20",
+      "album": {
+        "name": "Silver Bells",
+        "url": "https://open.spotify.com/album/3xf3VdXLz6ZtvnCFCxYUou"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 115899,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/45ppW2lNnho5FgWdfK3EO9"
+    },
+    {
       "added_at": "2022-11-15 16:17:02",
       "album": {
         "name": "Christmas Alone (Live from the Blue Room)",
@@ -429,6 +445,26 @@
       "url": "https://open.spotify.com/track/4fYUi0MSSzdX7Q696Fn81f"
     },
     {
+      "added_at": "2022-12-02 16:27:20",
+      "album": {
+        "name": "Lonely on Christmas",
+        "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        },
+        {
+          "name": "Mike and the Moonpies",
+          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
+        }
+      ],
+      "duration_ms": 189118,
+      "name": "Lonely on Christmas",
+      "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
+    },
+    {
       "added_at": "2022-11-15 16:17:02",
       "album": {
         "name": "Winter Wonderland",
@@ -507,6 +543,22 @@
       "duration_ms": 186653,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/3xM6VgByz6g9loXIyPvEcR"
+    },
+    {
+      "added_at": "2022-12-02 16:27:20",
+      "album": {
+        "name": "Christmas is Cancelled",
+        "url": "https://open.spotify.com/album/2584cImcXalWKOj9zVZ03y"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "duration_ms": 229833,
+      "name": "Thank You Bruce",
+      "url": "https://open.spotify.com/track/3EBawrYqLkRHQXVtOqngwa"
     },
     {
       "added_at": "2022-11-15 16:17:02",
@@ -647,22 +699,6 @@
     {
       "added_at": "2022-11-15 16:17:02",
       "album": {
-        "name": "Jingle Your Bells",
-        "url": "https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 250990,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/24Vowd4cVtxt1WcahC23dZ"
-    },
-    {
-      "added_at": "2022-11-15 16:17:02",
-      "album": {
         "name": "In The Bleak Midwinter",
         "url": "https://open.spotify.com/album/7wVUdg2hmTl1GBYq6xSHT3"
       },
@@ -739,6 +775,22 @@
       "duration_ms": 182334,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/6XYlGIZ5FJVPcsMEvapuO8"
+    },
+    {
+      "added_at": "2022-12-02 16:27:20",
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/1T2g4dgcXn8qvx75OEnkyB"
+      },
+      "artists": [
+        {
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+        }
+      ],
+      "duration_ms": 155261,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/4Vqioxd7rPzv5bJV0YnUVx"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -943,6 +995,22 @@
       "duration_ms": 397963,
       "name": "Mvmt I: \"Rejoice! Rejoice!\"",
       "url": "https://open.spotify.com/track/1LTphBS7XnePOyZfHNyP8N"
+    },
+    {
+      "added_at": "2022-11-15 16:17:02",
+      "album": {
+        "name": "Jingle Your Bells",
+        "url": "https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 250990,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/24Vowd4cVtxt1WcahC23dZ"
     },
     {
       "added_at": "2022-11-15 16:17:02",
@@ -1767,10 +1835,14 @@
     {
       "added_at": "2022-11-15 16:17:02",
       "album": {
-        "name": "Christmas Dream",
-        "url": "https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4"
+        "name": "Maybe This Christmas, Vol. 7: Country Sleigh Ride",
+        "url": "https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2"
       },
       "artists": [
+        {
+          "name": "Almost Christmas",
+          "url": "https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF"
+        },
         {
           "name": "Old Sea Brigade",
           "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
@@ -1778,7 +1850,7 @@
       ],
       "duration_ms": 177866,
       "name": "Christmas Dream",
-      "url": "https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk"
+      "url": "https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl"
     },
     {
       "added_at": "2022-11-15 16:17:02",
@@ -2091,10 +2163,14 @@
     {
       "added_at": "2022-11-15 16:17:02",
       "album": {
-        "name": "Isn't This World Enough?? A Nettwerk Christmas",
-        "url": "https://open.spotify.com/album/3o2aareSZ1ku3Sw0BCixcT"
+        "name": "Maybe This Christmas, Vol. 6: Holiday Cheer",
+        "url": "https://open.spotify.com/album/6cymDG3h1yntlgB608r5Ux"
       },
       "artists": [
+        {
+          "name": "Almost Christmas",
+          "url": "https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF"
+        },
         {
           "name": "Great Lake Swimmers",
           "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
@@ -2102,7 +2178,7 @@
       ],
       "duration_ms": 174173,
       "name": "Hang a String of Lights",
-      "url": "https://open.spotify.com/track/57sCC8Igwgq174nkBYqcMF"
+      "url": "https://open.spotify.com/track/6gj7JWe25jFSpFEWKjxadz"
     },
     {
       "added_at": "2022-11-15 16:17:02",

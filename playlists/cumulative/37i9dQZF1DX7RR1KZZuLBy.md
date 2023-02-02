@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-71 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/52aaQ2sYosifo7y9OhYXNf)
+71 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

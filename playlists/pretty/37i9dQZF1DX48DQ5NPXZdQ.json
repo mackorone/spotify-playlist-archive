@@ -1,12 +1,12 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. En portada: Juan Gabriel",
-  "num_followers": 36421,
+  "num_followers": 40277,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYzNTgxMSwwMDAwMDAwMDgxZDkxN2MwMGZmNzk3ZjY0MjFiNmJjNGRmYjY5NTVj",
+  "snapshot_id": "MTY2NjYzNTgxMSwwMDAwMDAwMDBmNDAyMjY1ODViNDQ1NDIwMDRjMjZhYTQ5MDA5NWQ4",
   "tracks": [
     {
       "added_at": "2022-10-24 18:23:31",
@@ -31,18 +31,18 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -79,18 +79,18 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+      "duration_ms": 241293,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -123,38 +123,6 @@
       "duration_ms": 242253,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -207,6 +175,22 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
         "name": "Abr\u00e1zame Muy Fuerte",
         "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 239426,
       "name": "Abr\u00e1zame Muy Fuerte",
       "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 278866,
       "name": "La Vida Es Un Carnaval",
       "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 195936,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 194946,
       "name": "No Llega el Olvido",
       "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 195936,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -399,22 +399,18 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
       "artists": [
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        },
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
         }
       ],
-      "duration_ms": 213133,
-      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
-      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+      "duration_ms": 243573,
+      "name": "Y Volver\u00e9",
+      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -435,22 +431,6 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Y Volver\u00e9",
-      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -463,6 +443,42 @@
       "duration_ms": 626880,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        },
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
+      "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
         "name": "A Mi Amor Con Mi Amor",
         "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/2ysuZe6xyKlpVzuNKAJUuL"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "S\u00fabete a Mi Moto",
-      "url": "https://open.spotify.com/track/1CNUozOLzsqVQxrct155hY"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 192400,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/2ysuZe6xyKlpVzuNKAJUuL"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "S\u00fabete a Mi Moto",
+      "url": "https://open.spotify.com/track/1CNUozOLzsqVQxrct155hY"
     },
     {
       "added_at": "2022-10-24 18:23:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-10-24 18:23:31",
       "album": {
-        "name": "El Payasito de la Tele \"Cepill\u00edn\"",
-        "url": "https://open.spotify.com/album/6c3b5DEPxFCnFBxTnDKJ0K"
-      },
-      "artists": [
-        {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
-        }
-      ],
-      "duration_ms": 152189,
-      "name": "Amor Chiquito",
-      "url": "https://open.spotify.com/track/2DG50cgFWTnqWXAoDjAkPU"
-    },
-    {
-      "added_at": "2022-10-24 18:23:31",
-      "album": {
         "name": "Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 176733,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+    },
+    {
+      "added_at": "2022-10-24 18:23:31",
+      "album": {
+        "name": "El Payasito de la Tele \"Cepill\u00edn\"",
+        "url": "https://open.spotify.com/album/6c3b5DEPxFCnFBxTnDKJ0K"
+      },
+      "artists": [
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        }
+      ],
+      "duration_ms": 152189,
+      "name": "Amor Chiquito",
+      "url": "https://open.spotify.com/track/2DG50cgFWTnqWXAoDjAkPU"
     },
     {
       "added_at": "2022-10-24 18:23:31",

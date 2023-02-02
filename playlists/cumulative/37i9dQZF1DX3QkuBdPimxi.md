@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-116 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
+116 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Rocket to the Moon](https://open.spotify.com/track/2jvLbiErAOemdp8oq1gfTA) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 2:10 | 2021-12-06 |  |
 | [Rockets](https://open.spotify.com/track/3M2zbtrFmsf0YmlWrYF20H) | [SteveSongs](https://open.spotify.com/artist/1M85r8fn8TM2VSXv3YGJRJ) | [Music Time with SteveSongs, Vol\. 1](https://open.spotify.com/album/2deTEl2f8vD9OQ2jnFJc7B) | 1:33 | 2021-12-06 |  |
 | [Rocketship](https://open.spotify.com/track/210qL7sxTZPsEyhOzeQwz3) | [Stacey Peasley](https://open.spotify.com/artist/1liqgCbpEcVHazfOTQuzB5) | [RSVP](https://open.spotify.com/album/732lslRRMJ1bJ92sh9x2fg) | 2:31 | 2021-12-06 |  |
-| [Rocketship](https://open.spotify.com/track/4pdHSqozv29veF69S3LLEi) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The Mik Maks](https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0) | 3:00 | 2021-12-06 |  |
+| [Rocketship](https://open.spotify.com/track/4pdHSqozv29veF69S3LLEi) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The Mik Maks](https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0) | 3:00 | 2021-12-06 |  |
 | [Rocketship](https://open.spotify.com/track/3j0H8e8gY0tC0stQfbABdd) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The MikMaks](https://open.spotify.com/album/2y3WycvsBQ8DWyjerX7NmI) | 3:01 | 2021-12-06 | 2022-08-27 |
 | [Rocketship Run](https://open.spotify.com/track/1IqMA5kXJmSHQFp1pmwONM) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Rocketship Run](https://open.spotify.com/album/1NjU58M2PnHO49md3QinoM) | 2:24 | 2021-12-06 |  |
 | [Rocketship Run](https://open.spotify.com/track/3zD7tSEQsz9of8VuD9bwWv) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Favorite Classic Kids' Songs](https://open.spotify.com/album/6DL5ZTWLrApqcpOXN2ljj9) | 2:29 | 2021-12-06 | 2022-11-13 |

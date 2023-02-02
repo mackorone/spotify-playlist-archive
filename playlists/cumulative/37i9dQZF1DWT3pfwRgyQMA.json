@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Walk down memory lane with the biggest rock anthems.",
   "name": "Songs We Rocked Out To",
-  "published_playlist_ids": [
-    "13V9mZMYjLKEbPVfGupxWK"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 340907,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
@@ -289,7 +286,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 262333,
       "name": "Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
@@ -585,7 +582,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-04",
       "duration_ms": 180266,
       "name": "Dance, Dance",
       "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
@@ -639,7 +636,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-04",
       "duration_ms": 182826,
       "name": "Dear Maria, Count Me In",
       "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
@@ -729,7 +726,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 292580,
       "name": "Even Flow",
       "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
@@ -1277,6 +1274,24 @@
       "duration_ms": 217653,
       "name": "I Believe in a Thing Called Love",
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5EsQ7956b4yaKtb1iptpJP"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227813,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/0JPGnBMbeWiKSrLGfSVVV6"
     },
     {
       "album": {
@@ -1911,7 +1926,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 515386,
       "name": "Master of Puppets (Remastered)",
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
@@ -2063,10 +2078,28 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 169026,
       "name": "My Own Worst Enemy",
       "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+    },
+    {
+      "album": {
+        "name": "Weathered",
+        "url": "https://open.spotify.com/album/2ENlJXygQX6en4iziijet6"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294600,
+      "name": "My Sacrifice",
+      "url": "https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR"
     },
     {
       "album": {
@@ -2621,7 +2654,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 204000,
       "name": "Sk8er Boi",
       "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
@@ -3269,7 +3302,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
@@ -3381,6 +3414,24 @@
       "duration_ms": 206773,
       "name": "Welcome to My Life",
       "url": "https://open.spotify.com/track/10rChmECwPcvTTj4w07hq4"
+    },
+    {
+      "album": {
+        "name": "Still Not Getting Any",
+        "url": "https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Welcome to My Life",
+      "url": "https://open.spotify.com/track/714Lw0m2SmCEhKSPw0Dn8J"
     },
     {
       "album": {

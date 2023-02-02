@@ -4,7 +4,7 @@
 
 > Keep calm & keep control with <a href="spotify:artist:3BkRu2TGd2I1uBxZKddfg1">ARTBAT</a>.
 
-10 songs - 1 hr 3 min - [published](https://open.spotify.com/playlist/3pQpfcqlcSGRyI9JBvclI3)
+10 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

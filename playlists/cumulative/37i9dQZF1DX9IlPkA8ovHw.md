@@ -4,7 +4,7 @@
 
 > The best of the Fab Four and their post\-Beatles ventures and solo albums.
 
-128 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/3i9Nw0jeYr7S4UhuaeXWCM)
+128 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

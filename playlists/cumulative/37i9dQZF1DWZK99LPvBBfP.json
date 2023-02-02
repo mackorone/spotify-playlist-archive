@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Club classics from the homeland of dance music.",
   "name": "Ibiza Classics",
-  "published_playlist_ids": [
-    "7G46PFdAwpJzEu1i0XREw2"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 302506,
       "name": "Adi\u00f3s ayer",
       "url": "https://open.spotify.com/track/3inZkpVlyHfLoxwuyu2GYW"
@@ -157,7 +154,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 546791,
       "name": "Canoa",
       "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
@@ -212,7 +209,7 @@
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 392668,
+      "duration_ms": 390560,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV"
     },
@@ -269,7 +266,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 235933,
       "name": "Frank Sinatra",
       "url": "https://open.spotify.com/track/3mK7ll5qJEKgsV3IQtpJJP"
@@ -497,7 +494,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 380626,
       "name": "Les Nuits",
       "url": "https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs"
@@ -567,6 +564,24 @@
       "duration_ms": 213813,
       "name": "Let the Sun Shine - Terrace Vocal Radio Edit",
       "url": "https://open.spotify.com/track/18wQx3mWVM5qBVckrLZjj3"
+    },
+    {
+      "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "album": {
@@ -895,7 +910,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 285570,
-      "name": "Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz",
+      "name": "Satisfaction - Isak Original Extended",
       "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
     },
     {
@@ -1027,6 +1042,28 @@
       "duration_ms": 408773,
       "name": "The Age Of Love - Jam & Spoon Watch Out For Stella Mix",
       "url": "https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b"
+    },
+    {
+      "album": {
+        "name": "The Age Of Love (Radio Edit)",
+        "url": "https://open.spotify.com/album/5h1Jeu9UoNEITNYcWd4BTF"
+      },
+      "artists": [
+        {
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+        },
+        {
+          "name": "Jam & Spoon",
+          "url": "https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408773,
+      "name": "The Age Of Love - Jam & Spoon Watch Out For Stella Mix",
+      "url": "https://open.spotify.com/track/4u88MrYJ8ZCnmUdjITNGKz"
     },
     {
       "album": {

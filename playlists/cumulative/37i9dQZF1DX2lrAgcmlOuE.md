@@ -4,7 +4,7 @@
 
 > The superstar DJ & Producer <a href="spotify:artist:6BrvowZBreEkXzJQMpL174">Hardwell</a> delivers a headlining mix to get us pumping through summer.
 
-14 songs - 59 min 52 sec - [published](https://open.spotify.com/playlist/7fDZSua1Gf6HqjOPHKoqJN)
+14 songs - 59 min 52 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

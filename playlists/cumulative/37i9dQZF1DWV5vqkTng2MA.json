@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Pokey LaFarge",
   "name": "the new retro",
-  "published_playlist_ids": [
-    "4ZYc49bP2BhIE0m0JrNtAT"
-  ],
   "tracks": [
     {
       "album": {
@@ -239,6 +236,24 @@
       "duration_ms": 247293,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
+    },
+    {
+      "album": {
+        "name": "Black Leaves",
+        "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104280,
+      "name": "Black Leaves",
+      "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
     },
     {
       "album": {
@@ -1007,6 +1022,24 @@
       "duration_ms": 204920,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/7hIYbL6zpb1nF8pfrIpBmB"
+    },
+    {
+      "album": {
+        "name": "The Shoals",
+        "url": "https://open.spotify.com/album/3rCqGDpEJVKz0pYZDabBIj"
+      },
+      "artists": [
+        {
+          "name": "The Jaws of Brooklyn",
+          "url": "https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195609,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4VvGTLSffmfxIQk1GkccST"
     },
     {
       "album": {
@@ -2079,7 +2112,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 198293,
       "name": "Midnight Wine",
       "url": "https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI"
@@ -2151,7 +2184,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": "2023-01-14",
       "duration_ms": 267371,
       "name": "Morning Terrors Nights of Dread",
       "url": "https://open.spotify.com/track/429zYwDePDJxSut57xtLFe"
@@ -2231,24 +2264,6 @@
     {
       "album": {
         "name": "Hold Time",
-        "url": "https://open.spotify.com/album/5KqYEjZPHBchiXyudUzr5I"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "date_added": "2022-06-01",
-      "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
-      "duration_ms": 146200,
-      "name": "Never Had Nobody Like You",
-      "url": "https://open.spotify.com/track/77Y1Weg1iEYfeEteEvvkBt"
-    },
-    {
-      "album": {
-        "name": "Hold Time",
         "url": "https://open.spotify.com/album/4C8AUW89DL5LE5ikBBm4sp"
       },
       "artists": [
@@ -2263,6 +2278,28 @@
       "duration_ms": 146200,
       "name": "Never Had Nobody Like You",
       "url": "https://open.spotify.com/track/7LT6dkoxfUavcBDe7RYgog"
+    },
+    {
+      "album": {
+        "name": "Hold Time",
+        "url": "https://open.spotify.com/album/5KqYEjZPHBchiXyudUzr5I"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        },
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146200,
+      "name": "Never Had Nobody Like You",
+      "url": "https://open.spotify.com/track/77Y1Weg1iEYfeEteEvvkBt"
     },
     {
       "album": {
@@ -2375,6 +2412,24 @@
     {
       "album": {
         "name": "Max Jury",
+        "url": "https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250414,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/70HTUTCkfEgNDvKCzTNnV4"
+    },
+    {
+      "album": {
+        "name": "Max Jury",
         "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
       },
       "artists": [
@@ -2385,7 +2440,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 250414,
       "name": "Numb",
       "url": "https://open.spotify.com/track/7n2xBCtl9qFMVnbKjWOvH4"
@@ -2655,7 +2710,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-06",
       "duration_ms": 233356,
       "name": "Place Names",
       "url": "https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx"
@@ -2749,6 +2804,24 @@
       "duration_ms": 238924,
       "name": "Rebel Heart",
       "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
+    },
+    {
+      "album": {
+        "name": "Reelin'",
+        "url": "https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y"
     },
     {
       "album": {
@@ -2943,7 +3016,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 186773,
       "name": "Run-down Neighborhood",
       "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
@@ -3327,7 +3400,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-17",
       "duration_ms": 201000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
@@ -3597,7 +3670,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 244108,
       "name": "Two Wolves",
       "url": "https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4"
@@ -3615,7 +3688,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 241172,
       "name": "Upside",
       "url": "https://open.spotify.com/track/5CgFOxsAX8qwj6lR8j9Ard"

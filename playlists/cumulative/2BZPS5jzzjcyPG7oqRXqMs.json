@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "Your go to Christian playlist for every day listening . Cover: Sadie Robertson Huff",
   "name": "Living Christian",
-  "published_playlist_ids": [
-    "2zseWEoTrqeulGuq5qhUGU"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 168600,
       "name": "[close to me]",
       "url": "https://open.spotify.com/track/74ZyA0thjNZ5CMHaT2qLyI"
+    },
+    {
+      "album": {
+        "name": "[welcome to the garden]",
+        "url": "https://open.spotify.com/album/2vsnx7y7uJ9iXr40qkgQlu"
+      },
+      "artists": [
+        {
+          "name": "All Creatures",
+          "url": "https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "[welcome to the garden]",
+      "url": "https://open.spotify.com/track/59DiEYQhcAV7XNp9H8ldHK"
     },
     {
       "album": {
@@ -587,6 +602,10 @@
         {
           "name": "Hillsong UNITED",
           "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Josh Kpozehouen",
+          "url": "https://open.spotify.com/artist/6lqVPpXm5sED9guM2fnx6x"
         }
       ],
       "date_added": "2022-04-29",
@@ -837,6 +856,24 @@
       "duration_ms": 209760,
       "name": "For The Ones We Love",
       "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
+    },
+    {
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA"
     },
     {
       "album": {
@@ -1540,6 +1577,32 @@
     },
     {
       "album": {
+        "name": "Just Like Jesus",
+        "url": "https://open.spotify.com/album/62iTxtaHSSpIQhi0wCwBU0"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE WORSHIP",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 583300,
+      "name": "Just Like Jesus",
+      "url": "https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq"
+    },
+    {
+      "album": {
         "name": "Keep On Hoping",
         "url": "https://open.spotify.com/album/7xSiollUHf1V98ulBd5Zzn"
       },
@@ -1685,7 +1748,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 274500,
       "name": "Love Has Come",
       "url": "https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ"
@@ -2170,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/0jkYniPLdIYSCl6feoIVMJ"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253830,
+      "name": "Palaces",
+      "url": "https://open.spotify.com/track/2INYwScE60yVgmyYsX00LH"
+    },
+    {
+      "album": {
         "name": "Phenomena (DA DA) [Live]",
         "url": "https://open.spotify.com/album/6aKTFjYsuCibBJFyW7q1RN"
       },
@@ -2305,6 +2386,24 @@
       "duration_ms": 176410,
       "name": "Rise",
       "url": "https://open.spotify.com/track/4zwNcBy4PfmeE1x6AMi4gF"
+    },
+    {
+      "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/3TjzAhRpmo4wH7Msh4rMcC"
     },
     {
       "album": {

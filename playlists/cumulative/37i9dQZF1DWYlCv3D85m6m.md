@@ -2,9 +2,9 @@
 
 ### [This Is TWICE](https://open.spotify.com/playlist/37i9dQZF1DWYlCv3D85m6m)
 
-> One in a million! TWICE!
+> One in a million! TWICE! MOONLIGHT SUNRISE is here!
 
-178 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/5QvtyB5RVrIoS1lUVpkCdO)
+180 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BELIEVER](https://open.spotify.com/track/7louodH5FUYuL3yvHQtq3O) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:16 | 2022-07-19 |  |
 | [BETTER](https://open.spotify.com/track/0rSMzlAKNapoat4NdZYmi3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETTER](https://open.spotify.com/album/2jOvgj6NJc1l5SBApgFaZC) | 3:43 | 2022-03-24 |  |
 | [BETTER](https://open.spotify.com/track/1Wrn6btrungVsBjyViLnuY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:43 | 2022-03-24 |  |
+| [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MOMO](https://open.spotify.com/artist/201LkKsQx7d0xFVRWOV4gQ), [SANA](https://open.spotify.com/artist/4a4zvpQq5Phxr12Pu8Akmm), [MINA](https://open.spotify.com/artist/2zymPkWVcSMIDZbecBNwqB) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 | 2023-01-25 |  |
 | [Brave](https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:09 | 2022-08-26 |  |
 | [Breakthrough](https://open.spotify.com/track/5COO2JgOmHIJ2jsXFwflz8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Breakthrough](https://open.spotify.com/album/7LWfEiSeue9BXPbUOH34q6) | 3:37 | 2022-03-24 |  |
 | [BRING IT BACK](https://open.spotify.com/track/2APCo1hwAaua9CslYXqALD) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:28 | 2022-07-19 |  |
@@ -110,6 +111,7 @@
 | [MAKE ME GO](https://open.spotify.com/track/6caS9LrdquWAfGeAmjqt1t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:06 | 2022-07-19 |  |
 | [MOONLIGHT](https://open.spotify.com/track/14k4ALBLN2FjtELYDcQUoi) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:39 | 2022-07-19 |  |
 | [MOONLIGHT](https://open.spotify.com/track/1KlMpUN2kGjUHzotQ5KMiu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:39 | 2022-03-24 | 2022-07-29 |
+| [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 |  |
 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 | 2022-03-24 | 2022-07-29 |
 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 | 2022-07-19 |  |
 | [One In A Million](https://open.spotify.com/track/2YTzBBMPkf2mETq2FyzoUs) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 2:55 | 2022-03-24 | 2022-07-29 |

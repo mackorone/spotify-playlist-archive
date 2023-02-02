@@ -1,12 +1,12 @@
 {
   "description": "Entre peinados, maquillajes y vestimentas ex\u00f3ticas, la est\u00e9tica domin\u00f3 la escena musical de los a\u00f1os \u201980. Foto:<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL\"> Soda Stereo</a>",
-  "num_followers": 31390,
+  "num_followers": 32607,
   "original_name": "Jet Set",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NDM3NTE2MiwwMDAwMDAwMDgxNGJjMGYyNzQzYmM5MTBkOGM5MGZmNmNhZDBmYWJk",
+  "snapshot_id": "MTU4NDM3NTE2MiwwMDAwMDAwMDliYjMyYWJiNWFiOWI5NTdmN2Y1MDg0NjBhODM0NjQy",
   "tracks": [
     {
       "added_at": "2020-03-16 16:12:42",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Nada Personal (Remastered)",
         "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 229160,
       "name": "Cuando Pase El Temblor - Remasterizado 2007",
       "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -123,6 +123,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
       },
@@ -187,18 +203,38 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+        "name": "Yo Te Avis\u00e9",
+        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+      "duration_ms": 321413,
+      "name": "El Genio del Dub - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/3hWZ9vTXIEUffGVD73qIAb"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Garc\u00eda 87/93",
+        "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Hablando a Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -235,22 +271,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Garc\u00eda 87/93",
-        "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 255266,
-      "name": "Hablando a Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
+      "duration_ms": 198106,
+      "name": "Juegos De Seducci\u00f3n - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -271,70 +303,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Yo Te Avis\u00e9",
-        "url": "https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 321413,
-      "name": "El Genio del Dub - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/3hWZ9vTXIEUffGVD73qIAb"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Nada Personal (Remastered)",
-        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Juegos De Seducci\u00f3n - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Amor Descartable",
-      "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Divididos Por La Felicidad",
-        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
-      },
-      "artists": [
-        {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
-        }
-      ],
-      "duration_ms": 286813,
-      "name": "Mejor No Hablar de Ciertas Cosas",
-      "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Noche y D\u00eda",
         "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
       },
@@ -351,6 +319,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "No Me Dejan Salir",
+      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Rata Blanca",
         "url": "https://open.spotify.com/album/19wA8bZa5CGUISYVPgM3kF"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 432866,
       "name": "El Sue\u00f1oDe La Gitana",
       "url": "https://open.spotify.com/track/0jeONCVcTJdM3cT50MUSMm"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Divididos Por La Felicidad",
+        "url": "https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR"
+      },
+      "artists": [
+        {
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+        }
+      ],
+      "duration_ms": 286813,
+      "name": "Mejor No Hablar de Ciertas Cosas",
+      "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -399,24 +399,8 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "No Me Dejan Salir",
-      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3"
       },
       "artists": [
         {
@@ -424,9 +408,25 @@
           "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 269093,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
+      "duration_ms": 210426,
+      "name": "Amor Descartable",
+      "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Parte De La Religion",
+        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 282840,
+      "name": "Buscando un S\u00edmbolo de Paz",
+      "url": "https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -463,6 +463,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Los Abuelos De La Nada 1",
+        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Llegando Los Monos",
         "url": "https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Los Abuelos De La Nada 1",
-        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Lunes Por La Madrugada",
-      "url": "https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Seru Giran 92",
         "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
       },
@@ -527,38 +527,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Wadu Wadu",
-        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "Wadu Wadu",
-      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Parte De La Religion",
-        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 282840,
-      "name": "Buscando un S\u00edmbolo de Paz",
-      "url": "https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Completo",
         "url": "https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 231133,
       "name": "Amanece En La Ruta",
       "url": "https://open.spotify.com/track/29UOHJBpXY1L1QiWaZLY8o"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -623,18 +607,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+        "name": "Heroes / Antologia 1986 - 1988",
+        "url": "https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5"
       },
       "artists": [
         {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+          "name": "Friccion",
+          "url": "https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD"
         }
       ],
-      "duration_ms": 194954,
-      "name": "Sin Gamul\u00e1n",
-      "url": "https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc"
+      "duration_ms": 379866,
+      "name": "H\u00e9roes",
+      "url": "https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -671,18 +655,34 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Heroes / Antologia 1986 - 1988",
-        "url": "https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5"
+        "name": "La Dicha En Movimiento",
+        "url": "https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo"
       },
       "artists": [
         {
-          "name": "Friccion",
-          "url": "https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD"
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
         }
       ],
-      "duration_ms": 379866,
-      "name": "H\u00e9roes",
-      "url": "https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE"
+      "duration_ms": 162360,
+      "name": "Jugando Hulla Hulla",
+      "url": "https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 194954,
+      "name": "Sin Gamul\u00e1n",
+      "url": "https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -703,34 +703,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Los Abuelos De La Nada 1",
-        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
+        "name": "Wadu Wadu",
+        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
       },
       "artists": [
         {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 305773,
-      "name": "Himno De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0Y7Fr8AG39QyLQ3TAb8uoX"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "La Dicha En Movimiento",
-        "url": "https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo"
-      },
-      "artists": [
-        {
-          "name": "Los Twist",
-          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Jugando Hulla Hulla",
-      "url": "https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2"
+      "duration_ms": 156306,
+      "name": "Wadu Wadu",
+      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -799,18 +783,34 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Identikit",
-        "url": "https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy"
+        "name": "S.O.S. Sos Una Rica Banana - Serie Libre Acceso",
+        "url": "https://open.spotify.com/album/0qTnzXJEpAq4vE8EfQadWO"
       },
       "artists": [
         {
-          "name": "Identikit",
-          "url": "https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i"
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
         }
       ],
-      "duration_ms": 275553,
-      "name": "Varias Horas So\u00f1ando",
-      "url": "https://open.spotify.com/track/3ZPt1cQUUdaplow6lqXirs"
+      "duration_ms": 142026,
+      "name": "Pens\u00e9 Que Se Trataba De Cieguitos",
+      "url": "https://open.spotify.com/track/4gj3E6oY45dzFsZpUA9Dnn"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Sentidos Congelados",
+        "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
+      },
+      "artists": [
+        {
+          "name": "Sobrecarga",
+          "url": "https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD"
+        }
+      ],
+      "duration_ms": 281093,
+      "name": "Viajando Hacia el Este",
+      "url": "https://open.spotify.com/track/30hedgQCyR9YG9VIuf970W"
     }
   ],
   "unique_name": "Jet Set",

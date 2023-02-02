@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Tiranos Del Norte",
-  "published_playlist_ids": [
-    "5p79flXpkrnSIPRunpqyfo"
-  ],
   "tracks": [
     {
       "album": {
@@ -207,7 +204,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 183506,
       "name": "De Corazon Ranchero",
       "url": "https://open.spotify.com/track/4nARb8o7ElcHDrAoeVj6K8"
@@ -337,7 +334,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 276226,
       "name": "El Disgusto - En Vivo",
       "url": "https://open.spotify.com/track/0tYh79KyyAMOWl32wsAT4T"
@@ -773,7 +770,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-16",
       "duration_ms": 168392,
       "name": "Mujer de Cabaret",
       "url": "https://open.spotify.com/track/4VVUDVHPWN4xH3scjU465w"
@@ -1158,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Mas Llegadoras",
+        "url": "https://open.spotify.com/album/4AFzIdSy43aJ2Hk26O9MS7"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 197120,
+      "name": "Un Dia A La Vez",
+      "url": "https://open.spotify.com/track/238h81I9omBWy5aOI79iuJ"
+    },
+    {
+      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -1169,7 +1184,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-29",
       "duration_ms": 190563,
       "name": "Un Engano Mas",
       "url": "https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C"

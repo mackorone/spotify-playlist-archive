@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
   "name": "Sax and the City",
-  "published_playlist_ids": [
-    "4kKTUiGyNvyLpETOojDsSq"
-  ],
   "tracks": [
     {
       "album": {
@@ -401,7 +398,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-29",
       "duration_ms": 249320,
       "name": "Break the Ice",
       "url": "https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs"
@@ -1419,7 +1416,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": "2023-01-11",
       "duration_ms": 241240,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/5JjpJpnQRjYjlRh1FJCkVm"
@@ -1633,7 +1630,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240136,
       "name": "Just a Taste",
       "url": "https://open.spotify.com/track/7JGBzcii3TqDSv1JQOtui6"
@@ -1651,7 +1648,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 347066,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy"
@@ -1785,6 +1782,24 @@
       "duration_ms": 211226,
       "name": "Laws Of Attraction",
       "url": "https://open.spotify.com/track/5yNJqzRzeZvrG5bEyb2u7Z"
+    },
+    {
+      "album": {
+        "name": "Lean Into It",
+        "url": "https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Neu",
+          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264148,
+      "name": "Lean Into It",
+      "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
     },
     {
       "album": {
@@ -1947,7 +1962,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 227920,
       "name": "Livin' The Life",
       "url": "https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43"
@@ -2115,7 +2130,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 187818,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
@@ -2133,7 +2148,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 248472,
       "name": "No Shade",
       "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
@@ -2367,7 +2382,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": "2023-01-15",
       "duration_ms": 239506,
       "name": "Prime Time",
       "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
@@ -2699,7 +2714,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 277000,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/38BIvmt1L43arCyEXT7HC7"
@@ -3185,7 +3200,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 267272,
       "name": "Tailgate",
       "url": "https://open.spotify.com/track/60BTc4nKmy4zpHu9h93NQe"

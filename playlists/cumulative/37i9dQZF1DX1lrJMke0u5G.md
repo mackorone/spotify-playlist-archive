@@ -4,7 +4,7 @@
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-115 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/0FtiJzGWVQsaojRwqozUF7)
+115 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 | 2022-02-07 |  |
 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 | 2022-02-07 |  |
 | [LUZ DELITO](https://open.spotify.com/track/13VEtVCYfLTVsq5STs3SlW) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:35 | 2022-02-07 |  |
-| [Magia Blanca](https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi Para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:20 | 2022-02-07 |  |
+| [Magia Blanca](https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:21 | 2022-02-07 |  |
 | [Mar de Fueguitos](https://open.spotify.com/track/0I1Jv5I1GzddNRwXSomPEI) | [La Chancha Muda](https://open.spotify.com/artist/3q7B22drORYGk4srVegr3T) | [Ya no Queda más Lugar Bajo la Alfombra](https://open.spotify.com/album/5RnZm5xS1oZ3QEaz5qvPkF) | 4:59 | 2022-02-07 |  |
 | [Matemática](https://open.spotify.com/track/0YUFXbHYoRMYBVSq2jaVcZ) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Músico](https://open.spotify.com/album/2V67eSPc4jTfG1aT5DAYk7) | 3:59 | 2022-02-07 |  |
 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 | 2022-02-07 |  |
@@ -85,7 +85,7 @@
 | [Partenaire](https://open.spotify.com/track/0AgOuZEkQodZYpxZT2HaHO) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f) | 3:31 | 2022-02-07 | 2022-07-29 |
 | [Partenaire](https://open.spotify.com/track/1qch36rOUF2ZDjLrsBF5LV) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:31 | 2022-02-07 |  |
 | [Partenaire](https://open.spotify.com/track/6gMAAE58nkP0mJduJSZBFd) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Partenaire](https://open.spotify.com/album/2Zx68KCUvlTYMviQh1hGHp) | 3:31 | 2022-02-07 | 2022-11-14 |
-| [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi Para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:14 | 2022-02-07 |  |
+| [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 | 2022-02-07 |  |
 | [PELOTUDA](https://open.spotify.com/track/65zh1W9YBpgGlS4G98mI0v) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 3:05 | 2022-02-07 |  |
 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 | 2022-02-07 |  |
 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 | 2022-02-07 |  |

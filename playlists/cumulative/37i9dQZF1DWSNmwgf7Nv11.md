@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-275 songs - 17 hr 25 min - [published](https://open.spotify.com/playlist/79WKo1g8A6daCdei56m7Tj)
+277 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,12 +113,14 @@
 | [Go Out Fighting](https://open.spotify.com/track/66tg5bmqB6NzCs5QhACkdQ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Go Out Fighting](https://open.spotify.com/album/24zRUsESY62pYsatp99SkM) | 3:27 | 2021-07-30 | 2022-09-26 |
 | [Go Tell a Bird](https://open.spotify.com/track/2soMAWI1jlM8O1YUF4e1LB) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:52 | 2021-07-30 |  |
 | [Goat](https://open.spotify.com/track/0I74VCDu3RbCMuyToTUtzl) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/5DuLQc0FCBPVfEec1Go2ey) | 3:48 | 2021-07-30 | 2022-02-26 |
-| [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-07-30 |  |
+| [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2021-07-30 | 2022-12-11 |
+| [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 | 2022-02-25 |  |
 | [Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/track/2Vvn4emJ5FlBNmbdhu2FAZ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [You've Got a Woman / Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/album/2hUdUW7zIF4nt3lltXuBDk) | 1:49 | 2021-07-30 | 2022-07-29 |
 | [Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/track/3SGLrn5arZurgQifNAV7Sm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [You've Got a Woman / Gonna Hurry \(As Slow as I Can\)](https://open.spotify.com/album/1AnS0syANUM5Qpv6hLxd22) | 1:49 | 2022-02-25 |  |
 | [Heathering](https://open.spotify.com/track/5JsIWFdKcgUD02KrGRIcnL) | [Your Friend](https://open.spotify.com/artist/0shSyn6H4T9cdmM3j0tTnA) | [Heathering](https://open.spotify.com/album/65Rq4tTsFWSKIBKYuriH8u) | 4:22 | 2021-07-30 | 2022-07-29 |
 | [Heathering](https://open.spotify.com/track/6j8AX1UsEt4WQqK1IIVbgS) | [Your Friend](https://open.spotify.com/artist/0shSyn6H4T9cdmM3j0tTnA) | [Gumption](https://open.spotify.com/album/61cxehrTLtnviFkhATZ9mp) | 4:22 | 2022-02-25 |  |
 | [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 | 2021-07-30 |  |
+| [Hermosa Drive](https://open.spotify.com/track/3ZYlHhwB1YnzenzkURxprc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb) | 3:54 | 2023-01-16 |  |
 | [Hold On](https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:49 | 2022-02-25 |  |
 | [Hold On](https://open.spotify.com/track/5lXbZUPAC0ZPJ2zHRXGEIs) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold On](https://open.spotify.com/album/5rbn4SQx7JVldqUVFqyKBX) | 3:49 | 2021-07-30 | 2022-07-29 |
 | [Holy Soul](https://open.spotify.com/track/02g3xtf95O7Xno0bSrNLZ6) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [OOM VELT](https://open.spotify.com/album/2Za99FT6bi8sdtENZMhTiA) | 3:21 | 2021-07-30 | 2022-07-29 |

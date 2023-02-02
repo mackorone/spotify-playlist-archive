@@ -4,7 +4,7 @@
 
 > The essential tracks, all in one playlist.
 
-74 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/4cXLrIJRUCbsQJzijPAhAY)
+74 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

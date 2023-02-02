@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-30",
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
   "name": "Rock S\u00f3nico",
-  "published_playlist_ids": [
-    "2e072V24f2kqnrQhzBz6B5"
-  ],
   "tracks": [
     {
       "album": {
@@ -289,7 +286,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 318453,
       "name": "Manzana de Metal",
       "url": "https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE"
@@ -423,7 +420,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 191000,
       "name": "Mate",
       "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
@@ -459,7 +456,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 194986,
       "name": "Mate",
       "url": "https://open.spotify.com/track/4P8jmtTh7Uff7vcUCXsNaY"
@@ -629,7 +626,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 202800,
       "name": "Remisero",
       "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
@@ -809,7 +806,7 @@
       ],
       "date_added": "2020-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 140960,
       "name": "Trece",
       "url": "https://open.spotify.com/track/5aVlOkWLnXtFGeoTQxv48E"
@@ -831,6 +828,24 @@
       "duration_ms": 141000,
       "name": "Trece",
       "url": "https://open.spotify.com/track/485OU7VBMjCAAFL2JYAsoH"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2020-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Trece",
+      "url": "https://open.spotify.com/track/26CbBuWyZ6mX4V2xuk3ZHa"
     },
     {
       "album": {

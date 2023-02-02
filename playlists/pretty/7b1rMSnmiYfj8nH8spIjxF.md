@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7b1rMSnmiYfj8nH8spIjxF.md) - [plain]
 
 > Första helgen i augusti går folk\- och världsmusikfestivalen Urkult av stapeln för 18:e året i rad\. 2 \- 4 augusti är datumen för sommarens upplaga\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 18 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 18 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Cool beats for homework time!",
   "name": "Homework Beats",
-  "published_playlist_ids": [
-    "3GJGRd7vcx421WDwZ4kpeK"
-  ],
   "tracks": [
     {
       "album": {
@@ -1408,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "old fruits",
+        "url": "https://open.spotify.com/album/3ksNu0rBR7M7nPfsUTxyQA"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114681,
+      "name": "lemon",
+      "url": "https://open.spotify.com/track/3Ca0cl4Qs3IhEBJpjVf53x"
+    },
+    {
+      "album": {
         "name": "lemon",
         "url": "https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz"
       },
@@ -1419,7 +1434,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 114681,
       "name": "lemon",
       "url": "https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w"
@@ -2836,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/3xEseHRhzns0PdAhdyHZ0g"
+      },
+      "artists": [
+        {
+          "name": "El Jon",
+          "url": "https://open.spotify.com/artist/16Uz21dDhTHs8iIMKKFx4X"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118197,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/2jKbNIrnY3seJn6e32jQvK"
+    },
+    {
+      "album": {
         "name": "strolling",
         "url": "https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF"
       },
@@ -3106,7 +3139,7 @@
         },
         {
           "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+          "url": "https://open.spotify.com/artist/6oVU5zCfJAyX49KhaKaPRS"
         }
       ],
       "date_added": "2022-04-08",

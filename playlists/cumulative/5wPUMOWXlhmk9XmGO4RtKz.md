@@ -4,7 +4,7 @@
 
 > Some nice little jams to make the ride smooth\. To quote Dom Kennedy &quot;Pleeze Make It Home Safe&quot; \(also closing song\).
 
-40 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/7t7lMept0twz2DILClQcdA)
+40 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

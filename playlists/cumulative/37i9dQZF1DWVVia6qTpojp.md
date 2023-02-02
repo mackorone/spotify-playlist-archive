@@ -4,7 +4,7 @@
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-70 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/0GWHPq4ASrEkmOe3SooidX)
+70 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [I Believe](https://open.spotify.com/track/1G4HQS0ryuYy8ncQr9dSU8) | [Sam & Becki Cox](https://open.spotify.com/artist/5i3eObstS3iB7zwjmg1ct9) | [I Believe](https://open.spotify.com/album/6DO6UqQE4KDIr1qDUr72iA) | 5:20 | 2018-11-27 | 2022-10-22 |
 | [I Believe](https://open.spotify.com/track/6PFR1iE0uUicY7YcuwDq2Z) | [Sam & Becki Cox](https://open.spotify.com/artist/5i3eObstS3iB7zwjmg1ct9) | [I Believe](https://open.spotify.com/album/5H4LLOOwlcptxzEJHX3RoL) | 5:20 | 2018-11-27 |  |
 | [Jericho \(feat\. Aaron Boyd\)](https://open.spotify.com/track/5Cpf8yCc38wsGdpEVB963t) | [CFC Music](https://open.spotify.com/artist/1sxkQQqbSOT9mHGULSSaoy), [Aaron Boyd](https://open.spotify.com/artist/7t4Ea9sDPJpypUOqTSH9M3) | [Faith to Favour](https://open.spotify.com/album/53HN9gpuVa7ZRQyr36QEzg) | 5:01 | 2018-11-27 |  |
-| [Jesus I Love You \- Live](https://open.spotify.com/track/3VmSMZSYeFvZEQjk8DiaWm) | [Soul Survivor](https://open.spotify.com/artist/3jTzI8EpjES1TRYhWs34nm), [Tom Smith](https://open.spotify.com/artist/22ZjvaisJlv6JVpHbeHunG) | [The Promise \(Live\)](https://open.spotify.com/album/0i6oG7YRl57CGwW2bJRTd2) | 7:06 | 2018-11-27 |  |
+| [Jesus I Love You \- Live](https://open.spotify.com/track/3VmSMZSYeFvZEQjk8DiaWm) | [Soul Survivor](https://open.spotify.com/artist/3jTzI8EpjES1TRYhWs34nm), [Tom Smith](https://open.spotify.com/artist/4y7Cnogmk0fX6UXhGznDQk) | [The Promise \(Live\)](https://open.spotify.com/album/0i6oG7YRl57CGwW2bJRTd2) | 7:06 | 2018-11-27 |  |
 | [Jesus Only You \- Live](https://open.spotify.com/track/7ANBtFlxPmJkhkqQMvy7bT) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Jesus Only You \(Live\)](https://open.spotify.com/album/21q9tq89gBSUllwlU4VsvK) | 4:36 | 2018-11-27 |  |
 | [Love Song \(Before You Formed the Earth\)](https://open.spotify.com/track/3BuyzGAi93RKpEcKYZ3BNb) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich Dicas](https://open.spotify.com/artist/2Il0umOD4O5CpMBiWGymmH) | [Chapter Two: Flux](https://open.spotify.com/album/3Nv49ian9yCrowGCPGn7Zb) | 5:31 | 2018-11-27 |  |
 | [Love Takes Over](https://open.spotify.com/track/2ql6baa66NQybiUHd7kpkW) | [Beth Croft](https://open.spotify.com/artist/4jrrZymKmM0WolEJAqcMJP) | [Rule In My Heart](https://open.spotify.com/album/5vGS1t0bJSQioHUe91jaNa) | 3:58 | 2018-11-27 |  |

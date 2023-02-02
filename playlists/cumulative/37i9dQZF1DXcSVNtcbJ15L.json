@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-27",
   "description": "vem de dm \ud83d\udd25  \u2764\ufe0f",
   "name": "oiii",
-  "published_playlist_ids": [
-    "2zTXiM7ZBUIxrhmTpaMV88"
-  ],
   "tracks": [
     {
       "album": {
@@ -400,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Tudo Que Posso Deixar no Caminho",
+        "url": "https://open.spotify.com/album/6WS1zDyXMRZS0oAWi0xHzR"
+      },
+      "artists": [
+        {
+          "name": "Rafa!",
+          "url": "https://open.spotify.com/artist/3cnM40C3T0NqGaoVWuuYWO"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174121,
+      "name": "Flores na Janela",
+      "url": "https://open.spotify.com/track/2yrzG5NOawjNKKWqoQgcGb"
+    },
+    {
+      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/36N0m4UtqwvrfpLWd6aFKi"
       },
@@ -455,7 +470,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 161184,
       "name": "Gumball",
       "url": "https://open.spotify.com/track/3CegdOeCCPTW9vP2KLb10w"
@@ -517,6 +532,24 @@
       "duration_ms": 149538,
       "name": "Impostora",
       "url": "https://open.spotify.com/track/6ExrmqIqeqynFQdC65B1gE"
+    },
+    {
+      "album": {
+        "name": "Intriga",
+        "url": "https://open.spotify.com/album/47yIhkQZzhA2YsTxQ3DP1j"
+      },
+      "artists": [
+        {
+          "name": "Gigio Gama",
+          "url": "https://open.spotify.com/artist/6zdrZoZm9ISZeUPGAl5kf5"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Intriga",
+      "url": "https://open.spotify.com/track/0A2js14ZO6nnhK7zzzV1oP"
     },
     {
       "album": {
@@ -593,10 +626,32 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 162623,
       "name": "Liga pra Mim",
       "url": "https://open.spotify.com/track/519BX7HBoxCmvlqv4XKo7L"
+    },
+    {
+      "album": {
+        "name": "Liga pra Mim",
+        "url": "https://open.spotify.com/album/6hHCoiufU9G2STQC4vzQcc"
+      },
+      "artists": [
+        {
+          "name": "Truh",
+          "url": "https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ"
+        },
+        {
+          "name": "Erix",
+          "url": "https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162623,
+      "name": "Liga pra Mim",
+      "url": "https://open.spotify.com/track/7jvr55Bd5Pphy2vYikqrus"
     },
     {
       "album": {
@@ -615,7 +670,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 150281,
       "name": "Luzes da Cidade",
       "url": "https://open.spotify.com/track/2CTTflN4rA96cmMq8NpjND"
@@ -805,7 +860,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 102427,
       "name": "Noiva Cad\u00e1ver",
       "url": "https://open.spotify.com/track/1e0S2LL2am7tFwrUxCI9oV"
@@ -1343,7 +1398,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 182714,
       "name": "Suco de Maracuj\u00e1",
       "url": "https://open.spotify.com/track/3qF33Lx0GsXyS9rAZ1aKGw"

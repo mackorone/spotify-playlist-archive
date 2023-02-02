@@ -4,7 +4,7 @@
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-75 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5SjLeW9rbn4LmmpPiQxmTZ)
+76 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/track/68DJwUeMyM2ac4Kahfzzy8) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/album/5Lmem0h0uYNzJA6qep0sf2) | 3:34 | 2020-05-12 |  |
 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 | 2020-05-12 |  |
 | [Turntable](https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:16 | 2020-05-12 |  |
-| [Twist](https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL) | 3:06 | 2020-05-12 |  |
+| [Twist](https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL) | 3:06 | 2022-12-29 |  |
+| [Twist](https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL) | 3:06 | 2020-05-12 | 2023-01-22 |
 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 | 2020-05-12 |  |
 | [when i look at you.](https://open.spotify.com/track/3rQnmsnyKJ2ytIv4LxkDmT) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i dreamed i was the night EP](https://open.spotify.com/album/2NGho5cUvQNMxyFEcz0j8r) | 3:52 | 2020-05-12 |  |
 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 | 2020-05-12 |  |

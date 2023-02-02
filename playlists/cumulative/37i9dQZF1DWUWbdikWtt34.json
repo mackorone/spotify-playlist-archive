@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Woro Widowati",
+  "description": "Dendang Dangdut teratas. Cover: Hendra Kumbara",
   "name": "Dangdut Top",
-  "published_playlist_ids": [
-    "1yAqlhTjbO2NhUlQfp8LqL"
-  ],
   "tracks": [
     {
       "album": {
@@ -798,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0"
+      },
+      "artists": [
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259384,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/31JvGZJBhZWUijQvLBqwCG"
+    },
+    {
+      "album": {
         "name": "Ojo Dibandingke",
         "url": "https://open.spotify.com/album/1R0NoljKSKaY6Pc025aRam"
       },
@@ -1307,6 +1322,28 @@
       "duration_ms": 296100,
       "name": "Widodari",
       "url": "https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV"
+    },
+    {
+      "album": {
+        "name": "Yang Penting Cuan",
+        "url": "https://open.spotify.com/album/6MQgYhLKnAWvssYiCD0QCS"
+      },
+      "artists": [
+        {
+          "name": "Sandhy Sondoro",
+          "url": "https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu"
+        },
+        {
+          "name": "Selvi Kitty",
+          "url": "https://open.spotify.com/artist/2jIyLDlzSclVybd69NUfkv"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190600,
+      "name": "Yang Penting Cuan",
+      "url": "https://open.spotify.com/track/7bwVg8db6uNYJbfkFZIy2g"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
   "name": "Modern Blues Rock",
-  "published_playlist_ids": [
-    "2ytdQyvJSh0gNxZ2IJT8lV"
-  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 393586,
       "name": "Ballad of a Thin Man",
       "url": "https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6"
@@ -589,7 +586,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 208816,
       "name": "Down the Drain",
       "url": "https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9"
@@ -611,6 +608,24 @@
       "duration_ms": 160543,
       "name": "Eagle Birds",
       "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
+    },
+    {
+      "album": {
+        "name": "Jared James Nichols",
+        "url": "https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL"
+      },
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257357,
+      "name": "Easy Come, Easy Go",
+      "url": "https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV"
     },
     {
       "album": {
@@ -733,7 +748,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 169781,
       "name": "God Damn Wolf Man",
       "url": "https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU"
@@ -769,7 +784,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
@@ -787,7 +802,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2022-12-10",
       "duration_ms": 215600,
       "name": "Gotta Be Movin\u2019",
       "url": "https://open.spotify.com/track/2ftfB3ZY1c6jHEYRgRXrB9"
@@ -830,6 +845,24 @@
     },
     {
       "album": {
+        "name": "ATW",
+        "url": "https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 275200,
+      "name": "Half-Tongue",
+      "url": "https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM"
+    },
+    {
+      "album": {
         "name": "Heavy Shoes",
         "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
       },
@@ -841,7 +874,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 206618,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6"
@@ -863,6 +896,24 @@
       "duration_ms": 206618,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7zdR9mlXoyrrw9eqE2sNgV"
+    },
+    {
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249870,
+      "name": "Head Above Water",
+      "url": "https://open.spotify.com/track/32bIll1Vlij9BjKa2e8clR"
     },
     {
       "album": {
@@ -935,6 +986,24 @@
       "duration_ms": 224266,
       "name": "Hounds Loose",
       "url": "https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9"
+    },
+    {
+      "album": {
+        "name": "Hurricane Coming",
+        "url": "https://open.spotify.com/album/2d1iNTtLFGZs5aXlEKSUfC"
+      },
+      "artists": [
+        {
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212760,
+      "name": "Hurricane Coming",
+      "url": "https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt"
     },
     {
       "album": {
@@ -1205,7 +1274,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 165954,
       "name": "Louder",
       "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
@@ -1745,7 +1814,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2022-12-16",
       "duration_ms": 270753,
       "name": "Scarborough Street Fight",
       "url": "https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH"
@@ -1843,6 +1912,42 @@
       "duration_ms": 203224,
       "name": "Skin 'n Bone",
       "url": "https://open.spotify.com/track/6natqkD9pmwdr8Xr1VFliA"
+    },
+    {
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/0wjNy6Y2S0tZkykclifcRE"
+    },
+    {
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 181680,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq"
     },
     {
       "album": {
@@ -1948,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200787,
+      "name": "Stone's Throw",
+      "url": "https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1"
+    },
+    {
+      "album": {
         "name": "Heavy Shoes",
         "url": "https://open.spotify.com/album/3n8eLvnrXECAFfLq1Vj7Wi"
       },
@@ -1977,7 +2100,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 214921,
       "name": "Sugar and Spice",
       "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
@@ -2287,10 +2410,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 351746,
       "name": "True Lies",
       "url": "https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C"
+    },
+    {
+      "album": {
+        "name": "Truth Be Told EP",
+        "url": "https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR"
+      },
+      "artists": [
+        {
+          "name": "Cam Cole",
+          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166862,
+      "name": "Truth Be Told",
+      "url": "https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl"
     },
     {
       "album": {

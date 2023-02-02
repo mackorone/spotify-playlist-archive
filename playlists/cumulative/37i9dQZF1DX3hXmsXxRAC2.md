@@ -4,7 +4,7 @@
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-143 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/4QYjPiGAfd9kEfeaSrtn66)
+144 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Ya No Me Interesas](https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:02 | 2021-12-29 |  |
 | [Ya No Me Interesas](https://open.spotify.com/track/0FPDm5PU6egeZWag2PRft8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:23 | 2021-12-29 |  |
 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 | 2021-12-29 |  |
-| [Yo no naci para amar](https://open.spotify.com/track/44mndjmp2c7ieMN7eSB5r9) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Canciones del recuerdo](https://open.spotify.com/album/3LEcMOWXz3F4g5tbwDmDrv) | 3:25 | 2021-12-29 |  |
+| [Yo no naci para amar](https://open.spotify.com/track/44mndjmp2c7ieMN7eSB5r9) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Canciones del recuerdo](https://open.spotify.com/album/3LEcMOWXz3F4g5tbwDmDrv) | 3:25 | 2021-12-29 | 2022-12-19 |
+| [Yo no nací para amar](https://open.spotify.com/track/3CUh3kQB11EP4ST9gZnAaU) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Sensibilidad](https://open.spotify.com/album/4mdlun9NX07tuIjGKPZQhL) | 3:25 | 2021-12-29 |  |
 | [Yo no nací para amar](https://open.spotify.com/track/51fiVIBxLbXLnT9hPg8UBp) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Peerless 80 Aniversario \- 24 Exitos](https://open.spotify.com/album/5NetKEnPRXzPzj9J7evLpK) | 3:25 | 2021-12-29 | 2022-07-29 |
 | [Yo Sé Que Está En Tu Corazón](https://open.spotify.com/track/0NaXrQAuxiWXpKDOPb40WM) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 4:06 | 2021-12-29 |  |
 | [Yo Sé Que Está En Tu Corazón](https://open.spotify.com/track/0qtFKPCsUW7t5QzHyjom60) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Los Dúo \- Colección Completa \(Vol\. 1 + Vol\. 2\)](https://open.spotify.com/album/5Ozp1ev2DL0t2QTG67yAeb) | 4:06 | 2021-12-29 | 2022-11-13 |

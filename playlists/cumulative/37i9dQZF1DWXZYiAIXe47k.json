@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "\"Absolute Six\" and also \"Above BrandNew Six\".",
   "name": "This Is AB6IX",
-  "published_playlist_ids": [
-    "0IcP0dCuoCBPPVkleOjySZ"
-  ],
   "tracks": [
     {
       "album": {
@@ -864,6 +861,24 @@
     },
     {
       "album": {
+        "name": "The Fabulous, Pt. 1 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1vXeRBsGL50xc3AeAGJDTu"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206405,
+      "name": "Life is beautiful",
+      "url": "https://open.spotify.com/track/7A1LziRSAes7mAJu3ea9wz"
+    },
+    {
+      "album": {
         "name": "B:COMPLETE",
         "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
       },
@@ -1079,6 +1094,28 @@
       "duration_ms": 224166,
       "name": "MOONDANCE",
       "url": "https://open.spotify.com/track/3hGQn8GEEjsJD558f6qAtd"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        },
+        {
+          "name": "Reiley",
+          "url": "https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188853,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > That special feeling of being calm, happy and relaxed at the same time.
 
-77 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/16OZ04PzJbFrcdP2jrhRx1)
+77 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Founders of Anjunabeats & Anjunadeep and recently, Reflections, the trance kings <a href="spotify:artist:10gzBoINW3cLJfZUka8Zoe">Above & Beyond</a> take us on an elegant journey through their legendary mix.
 
-12 songs - 1 hr 2 min - [published](https://open.spotify.com/playlist/0c2y9YuToG4FrGzAh0Vwc1)
+12 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

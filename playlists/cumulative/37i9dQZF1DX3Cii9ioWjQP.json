@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: youra, Mandong (\uc720\ub77c, \ub9cc\ub3d9))",
+  "description": "All about Korean Jazz hits & new (Cover: Jade(\uc7c8\ub4dc))",
   "name": "Jazzy Korea",
-  "published_playlist_ids": [
-    "26wTSHT9kapiRaMyX7792n"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,6 +96,24 @@
       "duration_ms": 321937,
       "name": "Behind",
       "url": "https://open.spotify.com/track/6HvtI4dnFqS2YHxQxSRN5R"
+    },
+    {
+      "album": {
+        "name": "Retrospect",
+        "url": "https://open.spotify.com/album/4Eb1dLsvOh15opaO5bVCru"
+      },
+      "artists": [
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167423,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/32bStQb6gjhmWLoiAAYSno"
     },
     {
       "album": {
@@ -229,10 +244,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 333884,
       "name": "Challenge",
       "url": "https://open.spotify.com/track/1efuuWPLLISJEcL50QBqJu"
+    },
+    {
+      "album": {
+        "name": "Challenge",
+        "url": "https://open.spotify.com/album/1K2GzbrJLDIRfzpVBIw6FR"
+      },
+      "artists": [
+        {
+          "name": "Hyewon",
+          "url": "https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333884,
+      "name": "Challenge",
+      "url": "https://open.spotify.com/track/7rSaFa1IUSsE3VUpyhsgsC"
     },
     {
       "album": {
@@ -966,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Origin of Love",
+        "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
+      },
+      "artists": [
+        {
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "Origin of Love",
+      "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
+    },
+    {
+      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt"
       },
@@ -1353,7 +1404,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 266527,
       "name": "Standstill",
       "url": "https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu"
@@ -1473,6 +1524,24 @@
       "duration_ms": 230769,
       "name": "There's Only One Anyway (Feat. DALI)",
       "url": "https://open.spotify.com/track/1D58NBVDQ2mvKVmZoBzRlz"
+    },
+    {
+      "album": {
+        "name": "Tic Toc",
+        "url": "https://open.spotify.com/album/04MoyxTIbTxj4jRhNYfG0T"
+      },
+      "artists": [
+        {
+          "name": "Jue",
+          "url": "https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209638,
+      "name": "Tic Toc",
+      "url": "https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o"
     },
     {
       "album": {
@@ -1675,6 +1744,24 @@
       "duration_ms": 268617,
       "name": "\uac04\ub2e4",
       "url": "https://open.spotify.com/track/33xNZgSpYDl0uLOOTHfotc"
+    },
+    {
+      "album": {
+        "name": "Paraphrase",
+        "url": "https://open.spotify.com/album/3j1MVk2HnnZi8CcXOIDkWr"
+      },
+      "artists": [
+        {
+          "name": "Chin Sooyoung",
+          "url": "https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266527,
+      "name": "\uba48\ucdb0\uc120 \ucc44 Standstill",
+      "url": "https://open.spotify.com/track/2FO4NG072mM775tWuGErNB"
     },
     {
       "album": {

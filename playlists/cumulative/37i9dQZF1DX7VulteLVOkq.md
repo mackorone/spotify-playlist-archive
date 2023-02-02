@@ -4,7 +4,7 @@
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-103 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/2gLRn6w7L54vomQPqYMuBE)
+104 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,8 @@
 | [After All](https://open.spotify.com/track/4A9g0WVvFYjJftYWWXXxP7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:28 | 2021-12-03 |  |
 | [Always Love You](https://open.spotify.com/track/12MHScs4Y5gDdxy0eQYCkr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 4:17 | 2021-12-03 |  |
 | [Are You Ready For Love \- '79 Version Radio Edit](https://open.spotify.com/track/3YdJzolD4HFvWGioELW2pC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Are You Ready For Love?](https://open.spotify.com/album/1l9jI5f9g2WntXhj84O8YD) | 3:30 | 2021-12-03 | 2022-07-29 |
-| [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 | 2021-12-03 |  |
-| [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 3:32 | 2022-08-30 | 2022-11-13 |
+| [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 | 2021-12-03 | 2022-12-02 |
+| [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 3:32 | 2022-08-30 |  |
 | [Bennie And The Jets \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/144y07SeEatHOBswM3BZHk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 6:01 | 2021-12-03 |  |
 | [Bennie And The Jets \- Remastered](https://open.spotify.com/track/1evbCBIYNc7YUTsgryhnmm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 5:23 | 2022-08-30 | 2022-11-13 |
 | [Bennie And The Jets \- Remastered 2014](https://open.spotify.com/track/3iJxloILmOu2NIRZ0OGyui) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)](https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE) | 5:22 | 2021-12-03 | 2022-07-29 |
@@ -110,6 +110,7 @@
 | [When Love Is Dying](https://open.spotify.com/track/1E57RLSEqhFOmNa4WycsOu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union \(Deluxe\)](https://open.spotify.com/album/7hZmPWO4fh1zlDBQOdRwSg) | 4:50 | 2021-12-03 |  |
 | [Wonderful Crazy Night](https://open.spotify.com/track/0Y3j5jrjyHX9K8UYwPdHie) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night](https://open.spotify.com/album/10BzXBAjOIr8EkDsIYrY1B) | 3:13 | 2021-12-03 | 2022-07-29 |
 | [Wonderful Crazy Night](https://open.spotify.com/track/4SKakzuaSX2PMXIHGUDNyo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:13 | 2021-12-03 |  |
-| [Your Song \- Remastered](https://open.spotify.com/track/2bUXfclD8DwJwwUENtSCWu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 4:03 | 2021-12-03 |  |
+| [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 | 2022-08-30 |  |
+| [Your Song \- Remastered](https://open.spotify.com/track/2bUXfclD8DwJwwUENtSCWu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 4:03 | 2021-12-03 | 2022-12-02 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

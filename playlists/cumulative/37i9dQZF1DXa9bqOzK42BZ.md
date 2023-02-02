@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-68 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/3YgHxpdqRDtLNVGeLk32oI)
+68 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

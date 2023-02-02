@@ -4,7 +4,7 @@
 
 > Iconic artists and voices\. Cover: Ella Fitzgerald
 
-50 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/1sLi29R8TrTX0NVOKdYl9z)
+50 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

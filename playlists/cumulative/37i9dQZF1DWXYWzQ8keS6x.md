@@ -4,7 +4,7 @@
 
 > 🚂  É o trem do Poze com o melhor do Trap desse ano!
 
-50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/5dWDFqaLwoUchhJDqsxYcv)
+50 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Solo piano recordings of classic rags
 
-50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/7hFT2wdsAAQ179R54gzZrH)
+50 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

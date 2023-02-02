@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-22",
   "description": "Ska con cuadritos blancos, negros, y tricolores. La Tremenda Korte en portada.",
   "name": "Ska Mexa",
-  "published_playlist_ids": [
-    "7o4h9V9vhPDNT8jAt3VvIq"
-  ],
   "tracks": [
     {
       "album": {
@@ -366,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -641,7 +656,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 296355,
       "name": "El Dejado",
       "url": "https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv"

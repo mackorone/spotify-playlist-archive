@@ -4,7 +4,7 @@
 
 > Putte i Parken arrangeras i år för femte året i rad\. Sommarens festival går av stapeln den 4 \- 7 juli i Karlstad\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-79 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/28tsHK2ttzhwW3zEtx3Gpk)
+79 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

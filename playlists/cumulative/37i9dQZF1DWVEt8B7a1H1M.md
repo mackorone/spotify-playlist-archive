@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-98 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/4lD2bq5HTlgFZPtp9nIvXE)
+98 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,383 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,059 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 18 | [You Better Know](https://open.spotify.com/track/3eDKAKSjpTFVESPkMlfNXa) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:30 |
 | 19 | [Hi Babe](https://open.spotify.com/track/3btLTcvS1uOk5IVGTn7Gh4) | [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 4:02 |
 | 20 | [You Are My Heart](https://open.spotify.com/track/5r2cbcTE0HhvRO2avP8GAh) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 3:13 |
-| 21 | [It's Not Easy](https://open.spotify.com/track/2pm72A1aBHKwqr05xaDW8h) | [Ofege](https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe) | [Forge Your Own Chains: Heavy Psychedelic Ballads And Dirges 1968\-1974](https://open.spotify.com/album/1TQtU1pMPnhKv3Nz23TGMI) | 4:20 |
+| 21 | [It's Not Easy](https://open.spotify.com/track/2pm72A1aBHKwqr05xaDW8h) | [Ofege](https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe) | [Forge Your Own Chains: Heavy Psychedelic Ballads and Dirges 1968\-1974](https://open.spotify.com/album/1TQtU1pMPnhKv3Nz23TGMI) | 4:20 |
 | 22 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
 | 23 | [I Want a Break Thru](https://open.spotify.com/track/7fvX8AXBlE44ahviQ4Ailz) | [The Hykkers](https://open.spotify.com/artist/5TaivlrIgcjs0dRCIgcSbL) | [I Want a Break Thru](https://open.spotify.com/album/0Lmror3GbI6g6NNPoxwlnI) | 3:02 |
 | 24 | [Untitled \- Duma Remix](https://open.spotify.com/track/2MHZNa4P0tV42M0GqsiB77) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94), [Duma](https://open.spotify.com/artist/3jxgKGDgWk2Z6tV3xRc7qz) | [Afrique Refait](https://open.spotify.com/album/60uhkJ0Jj8yrnk6YRpCJKl) | 3:39 |

@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2015! Cover: Marco Mengoni
 
-147 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/2EUae9ucmOVOvZypn5iQcD)
+147 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

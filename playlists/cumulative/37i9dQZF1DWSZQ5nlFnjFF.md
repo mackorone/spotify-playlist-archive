@@ -4,7 +4,7 @@
 
 > Step from poem to poem — glittering — and distill amazing sense from ordinary meanings.
 
-150 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/1LR4oBm6l4xAXuAcWcNIwE)
+150 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

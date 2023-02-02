@@ -4,7 +4,7 @@
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 
-78 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/5e64oDpSbQovckjKQVo4HX)
+79 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [El Jardín Prohibido](https://open.spotify.com/track/7wOo717wUEeV7wgcdUZbUA) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex Bueno](https://open.spotify.com/album/7cEZG8OJkv7uG0rbnTlDU5) | 5:25 | 2022-07-28 | 2022-10-15 |
 | [Ella Feat\. Luis Enrique](https://open.spotify.com/track/3CXhO7ZR4kZ0n5dW3v3ACK) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Hansel & Raul 33](https://open.spotify.com/album/2tbzNkPwHMsaMs7BsIWfi0) | 5:48 | 2021-04-30 |  |
 | [Entre La Espada y La Pared](https://open.spotify.com/track/0342wDs42Efmi0BuaWO6zA) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Entre La Espada Y La Pared](https://open.spotify.com/album/6BfyCa897cBsKTTRqqnD1E) | 5:37 | 2021-04-30 |  |
-| [Extraño Tu Amor](https://open.spotify.com/track/4WcWjBoSYqZBwqeYlz0qey) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [25 Años, 25 Éxitos, 25 Artistas, Vol\. 1](https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ) | 4:27 | 2021-04-30 |  |
+| [Extraño Tu Amor](https://open.spotify.com/track/1kp1N9tj9zGbpttRISpgu9) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:27 | 2022-07-28 |  |
+| [Extraño Tu Amor](https://open.spotify.com/track/4WcWjBoSYqZBwqeYlz0qey) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [25 Años, 25 Éxitos, 25 Artistas, Vol\. 1](https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ) | 4:27 | 2021-04-30 | 2022-12-02 |
 | [Hazme Olvidarla](https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos Vol\. 2](https://open.spotify.com/album/6F2D1YfaSnPpH5Lf2bbUoJ) | 5:37 | 2021-04-30 |  |
 | [Hechizo De Luna](https://open.spotify.com/track/1g0SIfhEzfJK8XCmHAjtjE) | [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A) | [Salsa Clasica](https://open.spotify.com/album/6H7VxpaLQkZdXAaGV7FXU7) | 4:56 | 2021-04-30 | 2022-07-29 |
 | [Hechizo De Luna](https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd) | [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A), [Anthony Colon](https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir) | [Oro Salsero \(20 Éxitos\)](https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz) | 4:54 | 2022-07-28 |  |

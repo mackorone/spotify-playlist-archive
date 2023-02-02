@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-11",
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
   "name": "Good People Good Music",
-  "published_playlist_ids": [
-    "3CquFwW4oGs8sHYO00Y4PM"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,10 +106,28 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 298977,
       "name": "Beautiful Anyway",
       "url": "https://open.spotify.com/track/57nsUfW0qofrkoy9un0ffJ"
+    },
+    {
+      "album": {
+        "name": "Beautiful Anyway",
+        "url": "https://open.spotify.com/album/1DBj9YNMRkONwSVBLr5jRD"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298977,
+      "name": "Beautiful Anyway",
+      "url": "https://open.spotify.com/track/7dLyLufQvh84ghKQ0qiWTb"
     },
     {
       "album": {
@@ -289,7 +304,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-08",
       "duration_ms": 244400,
       "name": "Creature Comforts",
       "url": "https://open.spotify.com/track/3b8l8g7UMJRTCKUEnZiRCF"
@@ -481,10 +496,28 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 189600,
       "name": "fire",
       "url": "https://open.spotify.com/track/1wj2rMWn0jqMSFzwcUfKyE"
+    },
+    {
+      "album": {
+        "name": "Love? Songs",
+        "url": "https://open.spotify.com/album/0ldCKrt8rkkFzdWRiZHczc"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2rBIC9Uc5qZeBjJvWulFTN"
     },
     {
       "album": {
@@ -1269,10 +1302,28 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 480893,
       "name": "Queen Songs / human.",
       "url": "https://open.spotify.com/track/3iQjudKcOPBZQ5tDHFINHd"
+    },
+    {
+      "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480893,
+      "name": "Queen Songs/Human",
+      "url": "https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc"
     },
     {
       "album": {

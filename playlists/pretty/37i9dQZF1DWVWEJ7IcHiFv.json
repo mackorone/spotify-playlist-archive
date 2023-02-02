@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 93477,
+  "num_followers": 97460,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMDg1NmRhYTU5MDYxNDBiODhhZTlmM2I2OTU2OWY2M2M1",
+  "snapshot_id": "MTY2MTkzMDg2OSwwMDAwMDAwMDM5MTg0OGExMzUxZGVhMWIyYzdkMGY3OGM0ZDg0MTg1",
   "tracks": [
     {
       "added_at": "2022-08-31 07:27:49",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Timbiriche 7",
-        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Con Todos Menos Conmigo",
-      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
         "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 207466,
       "name": "Lambada - Original Version 1989",
       "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Timbiriche 7",
+        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Con Todos Menos Conmigo",
+      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Hijo de la luna",
-      "url": "https://open.spotify.com/track/2LmlZvAmT1L0O3iPVSQWOX"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
@@ -171,22 +155,6 @@
       "duration_ms": 311400,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -207,6 +175,22 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+      "duration_ms": 259146,
+      "name": "Hijo de la luna",
+      "url": "https://open.spotify.com/track/2LmlZvAmT1L0O3iPVSQWOX"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -255,6 +239,22 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
+        "name": "Solos en Am\u00e9rica",
+        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
       },
       "artists": [
         {
-          "name": "Miguel Mateos",
-          "url": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+          "name": "Miguel Mateos - Zas",
+          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
         }
       ],
-      "duration_ms": 245360,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe"
+      "duration_ms": 265706,
+      "name": "Cuando Seas Grande",
+      "url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
+      },
+      "artists": [
+        {
+          "name": "Miguel Mateos",
+          "url": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+        }
+      ],
+      "duration_ms": 245360,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
         "name": "Timbiriche 7",
         "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Solos en Am\u00e9rica",
-        "url": "https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM"
-      },
-      "artists": [
-        {
-          "name": "Miguel Mateos - Zas",
-          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
-        }
-      ],
-      "duration_ms": 265706,
-      "name": "Cuando Seas Grande",
-      "url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
       },
@@ -363,6 +363,38 @@
       "duration_ms": 173560,
       "name": "Tu Pirata Soy Yo",
       "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 323933,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -399,22 +431,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 323933,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Flans",
         "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 221600,
       "name": "Dr. Psiquiatra",
       "url": "https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -527,34 +527,18 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "15 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
       },
       "artists": [
         {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
         }
       ],
-      "duration_ms": 250560,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "Cu\u00e9ntame",
-        "url": "https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6"
+      "duration_ms": 208573,
+      "name": "No Controles",
+      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -579,38 +563,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Flans",
-        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "No Controles",
-      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 290786,
-      "name": "Persiana Americana",
-      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
       },
@@ -627,18 +579,50 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc"
       },
       "artists": [
         {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 173866,
-      "name": "El Extra\u00f1o del Pelo Largo",
-      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
+      "duration_ms": 215666,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Cuando Pase el Temblor",
+      "url": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "15 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "duration_ms": 250560,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -655,6 +639,22 @@
       "duration_ms": 210333,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "15 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "S\u00fabete a Mi Moto",
-      "url": "https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ"
-    },
-    {
-      "added_at": "2022-08-31 07:27:49",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
       },
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Cuando Pase el Temblor",
-      "url": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D"
+      "duration_ms": 290786,
+      "name": "Persiana Americana",
+      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
     },
     {
       "added_at": "2022-08-31 07:27:49",
@@ -787,6 +771,22 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
+        "name": "15 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "S\u00fabete a Mi Moto",
+      "url": "https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ"
+    },
+    {
+      "added_at": "2022-08-31 07:27:49",
+      "album": {
         "name": "Cuts Both Ways",
         "url": "https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-08-31 07:27:49",
       "album": {
-        "name": "Judy Torres - The Greatest Hits",
-        "url": "https://open.spotify.com/album/7aOCg1PtLFTnyPjMBRHyc4"
+        "name": "Una Historia de Verdad",
+        "url": "https://open.spotify.com/album/6wt6YQCPtGJBttgY5CFZCi"
       },
       "artists": [
         {
-          "name": "Judy Torres",
-          "url": "https://open.spotify.com/artist/4xuVMH8UgmZ557rJfWQ08n"
+          "name": "Franco",
+          "url": "https://open.spotify.com/artist/6wPdYdJaogSs1RYe6yx81C"
         }
       ],
-      "duration_ms": 264826,
-      "name": "Come Into My Arms",
-      "url": "https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX"
+      "duration_ms": 300493,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/7M8sGCxjrx4tKV1m0g9JDA"
     }
   ],
   "unique_name": "80s Latino",

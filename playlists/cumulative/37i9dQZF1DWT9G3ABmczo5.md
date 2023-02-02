@@ -4,7 +4,7 @@
 
 > A playlist highlighting music from the South Asian Diaspora\. Cover: Parekh & Singh
 
-46 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/4QJl33X1fPOjibd5br18tI)
+46 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

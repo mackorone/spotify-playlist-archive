@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,933 likes - 46 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,036 likes - 46 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

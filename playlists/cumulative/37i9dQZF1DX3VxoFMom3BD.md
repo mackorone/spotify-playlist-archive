@@ -4,7 +4,7 @@
 
 > Check out this collection of this vocalist's hottest singles!
 
-53 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/7GIMyqABCy0A5uk1j1DQHr)
+53 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

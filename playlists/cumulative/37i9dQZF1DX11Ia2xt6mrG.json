@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Tom & Collins en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
   "name": "mint MX",
-  "published_playlist_ids": [
-    "6ndsqys7EQOockTFuddjf1"
-  ],
   "tracks": [
     {
       "album": {
@@ -52,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Amanece",
+        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332560,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0g0qRFGKy3XoZ3B0xCa1Zi"
       },
@@ -67,7 +82,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 144375,
       "name": "Angel",
       "url": "https://open.spotify.com/track/15zIyFyJLwcoxxFYU2fT3I"
@@ -136,6 +151,24 @@
     },
     {
       "album": {
+        "name": "NEW BREED",
+        "url": "https://open.spotify.com/album/5xmOTtTLaPzw8pP4tRtjP4"
+      },
+      "artists": [
+        {
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109071,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/3k3r8ffYVixma4Dc0PRQdx"
+    },
+    {
+      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/6l6smfQXJMgSCPpsWkUiLi"
       },
@@ -195,6 +228,28 @@
       "duration_ms": 147506,
       "name": "Bomboro",
       "url": "https://open.spotify.com/track/0VWQQbXy1fMYBo15TXtV97"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/48JnQPI5SyVLaXSFfne6PX"
+      },
+      "artists": [
+        {
+          "name": "Mastachi",
+          "url": "https://open.spotify.com/artist/2FUdSx0y6GUemXtB1xXIax"
+        },
+        {
+          "name": "Zailor",
+          "url": "https://open.spotify.com/artist/6vr59vSBFI4Xp4qs1Hbilt"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/51kQKB6qJIJSAOJ4C03Kc4"
     },
     {
       "album": {
@@ -279,7 +334,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 228000,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1kMVjZ6gDQpMckNs895asT"
@@ -367,7 +422,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 177627,
       "name": "Clap Your Hands For Love",
       "url": "https://open.spotify.com/track/7hiYyIQXoGzgon6w4MVPrx"
@@ -477,7 +532,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 215462,
       "name": "Cuerpo Que Flota",
       "url": "https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe"
@@ -507,6 +562,24 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+    },
+    {
+      "album": {
+        "name": "Dark Madness",
+        "url": "https://open.spotify.com/album/4zPtDDqdIjZ2lGsu5jDMO7"
+      },
+      "artists": [
+        {
+          "name": "Mictlxn",
+          "url": "https://open.spotify.com/artist/6MSafz4Jzhlts62PyLIo0I"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118001,
+      "name": "Dark Madness",
+      "url": "https://open.spotify.com/track/4tAq1Jy6mwPHYsYa2WmSec"
     },
     {
       "album": {
@@ -745,7 +818,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 144000,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/30OijpZOdRk5DrfaaXNudS"
@@ -843,7 +916,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 172800,
       "name": "Esto Aqui No Acaba",
       "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
@@ -1000,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
+      },
+      "artists": [
+        {
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121937,
+      "name": "FUEL",
+      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
+    },
+    {
+      "album": {
         "name": "Galactic Feelings",
         "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
       },
@@ -1051,7 +1142,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 209267,
       "name": "Give Me Your Heart (Somos Uno)",
       "url": "https://open.spotify.com/track/4EHJhHKvitOo3ULmIzt4hx"
@@ -1259,7 +1350,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 228923,
       "name": "I Saw You",
       "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
@@ -1307,7 +1398,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 154687,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc"
@@ -1333,7 +1424,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 174735,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
@@ -1722,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "REVENGE",
+        "url": "https://open.spotify.com/album/2quUebhuOefi1ukzRcTe77"
+      },
+      "artists": [
+        {
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "MAGNOLIA",
+      "url": "https://open.spotify.com/track/3e3RHeFSpUMmR1mzII5Dda"
+    },
+    {
+      "album": {
         "name": "Mahala",
         "url": "https://open.spotify.com/album/2TYkoRRyJsvswCp4fOzFKG"
       },
@@ -1741,6 +1850,28 @@
       "duration_ms": 184000,
       "name": "Mahala",
       "url": "https://open.spotify.com/track/67AQjBaXz33P3hR2U3yPie"
+    },
+    {
+      "album": {
+        "name": "Malec\u00f3n",
+        "url": "https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT"
+      },
+      "artists": [
+        {
+          "name": "velum!",
+          "url": "https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z"
+        },
+        {
+          "name": "flxbabu",
+          "url": "https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Malec\u00f3n",
+      "url": "https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh"
     },
     {
       "album": {
@@ -1887,6 +2018,28 @@
       "duration_ms": 373334,
       "name": "Monologue - Theus Mago Remix",
       "url": "https://open.spotify.com/track/22Mwt82DrUoq7EeYW8ezUd"
+    },
+    {
+      "album": {
+        "name": "Monta\u00f1as Y Sal (Remix)",
+        "url": "https://open.spotify.com/album/27JWxPhgQ86ZMibdmUtN1L"
+      },
+      "artists": [
+        {
+          "name": "Boca Paila",
+          "url": "https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6"
+        },
+        {
+          "name": "Superflat",
+          "url": "https://open.spotify.com/artist/5b4stUHH8NXrg63fgtzbT0"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Monta\u00f1as Y Sal - Remix",
+      "url": "https://open.spotify.com/track/7sJk3J8j2rabo95RuurYD1"
     },
     {
       "album": {
@@ -2221,7 +2374,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 200017,
       "name": "Panda",
       "url": "https://open.spotify.com/track/5fO5BPkXwoANEc7jJX9oIk"
@@ -2243,6 +2396,24 @@
       "duration_ms": 112800,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5OQDF6iHKv6yxZZmu666E3"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
     },
     {
       "album": {
@@ -2301,7 +2472,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 178536,
       "name": "Perder - Hakuna",
       "url": "https://open.spotify.com/track/6L2CqVszA9dpjR6jasxvYY"
@@ -2791,7 +2962,7 @@
           "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
         }
       ],
-      "date_added": "2022-11-08",
+      "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196750,
@@ -3039,10 +3210,36 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2022-12-13",
       "duration_ms": 178909,
       "name": "Space",
       "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
+    },
+    {
+      "album": {
+        "name": "Sr. Tigre (French Braids Rework)",
+        "url": "https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212621,
+      "name": "Sr. Tigre - French Braids Rework",
+      "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
     },
     {
       "album": {

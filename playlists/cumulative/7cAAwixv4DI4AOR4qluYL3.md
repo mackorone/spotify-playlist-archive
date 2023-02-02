@@ -4,7 +4,7 @@
 
 > Release all your worries\. Enjoy the times with sounds from legends like  Bob Marley, Snoop Dogg &amp; Bone Thugs \-N\- Haromony\. \#HighlyRecommended
 
-35 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/4W5NkBGu8xQU1vAb0RFHFt)
+35 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

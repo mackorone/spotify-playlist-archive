@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Vocals and keys, front and center. Cover: Tom Odell",
+  "description": "Vocals and keys, front and center. Cover: Adele",
   "name": "Piano Ballads",
-  "published_playlist_ids": [
-    "1Q4zrbwq1b10L5GOd0I2Ek"
-  ],
   "tracks": [
     {
       "album": {
@@ -452,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146895,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ"
+    },
+    {
+      "album": {
         "name": "Best Day Of My Life",
         "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
       },
@@ -503,6 +518,24 @@
       "duration_ms": 229773,
       "name": "Better Than Today",
       "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
+    },
+    {
+      "album": {
+        "name": "blame's on me",
+        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138374,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "album": {
@@ -881,7 +914,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 149803,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
@@ -1007,7 +1040,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 250133,
       "name": "Elastic Heart - Piano Version",
       "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
@@ -1061,7 +1094,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 230306,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
@@ -1772,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252657,
+      "name": "Innocence and Sadness",
+      "url": "https://open.spotify.com/track/1nJatkqxWH7TQwBrP39yNd"
+    },
+    {
+      "album": {
         "name": "Songs of Sonder",
         "url": "https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8"
       },
@@ -1967,7 +2018,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 232338,
       "name": "Like I'm Gonna Lose You",
       "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
@@ -2115,7 +2166,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 189506,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP"
@@ -2259,7 +2310,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 168520,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/4eumFsTnduH3zRfaASoAPs"
@@ -2523,6 +2574,24 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
+    },
+    {
+      "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
     },
     {
       "album": {

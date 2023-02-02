@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Classic hits from the 50s and 60s.",
   "name": "Classic Oldies",
-  "published_playlist_ids": [
-    "7KF7Evm7HugJ0ZFYg9Yj0E"
-  ],
   "tracks": [
     {
       "album": {
@@ -221,7 +218,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 205640,
       "name": "A Man Without Love",
       "url": "https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj"
@@ -704,6 +701,24 @@
     },
     {
       "album": {
+        "name": "From the Foundations (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177519,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "album": {
         "name": "The Foundations",
         "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
       },
@@ -975,7 +990,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 145266,
       "name": "Chantilly Lace",
       "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
@@ -1411,7 +1426,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 149360,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/7vYA9ET5AUqJt5pBbhKmcB"
@@ -1555,7 +1570,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 153946,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
@@ -1797,7 +1812,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-01",
       "duration_ms": 140440,
       "name": "Georgy Girl",
       "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
@@ -2017,7 +2032,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
@@ -3469,7 +3484,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-30",
       "duration_ms": 143613,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/1T3tP6HvCgDF8ewpRqwM1e"
@@ -4759,7 +4774,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 137133,
       "name": "Surfin' Bird",
       "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
@@ -5177,7 +5192,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-29",
       "duration_ms": 167160,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
@@ -5436,6 +5451,24 @@
     },
     {
       "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127733,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP"
+    },
+    {
+      "album": {
         "name": "Till I Waltz Again With You",
         "url": "https://open.spotify.com/album/16YSrvXWcfeqUcHBGhCRmT"
       },
@@ -5519,7 +5552,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 143200,
       "name": "Travelin' Man - Remastered",
       "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
@@ -5577,6 +5610,24 @@
       "duration_ms": 229360,
       "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
       "url": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
+    },
+    {
+      "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
     },
     {
       "album": {
@@ -5753,7 +5804,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 174400,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
@@ -6147,6 +6198,24 @@
       "duration_ms": 186200,
       "name": "Wichita Lineman - Remastered 2001",
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
+    },
+    {
+      "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160864,
+      "name": "Will You Love Me Tomorrow",
+      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
     },
     {
       "album": {

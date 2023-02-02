@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YFIEyRvxXj.md) - [plain]
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,600 likes - 22 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,176 likes - 22 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

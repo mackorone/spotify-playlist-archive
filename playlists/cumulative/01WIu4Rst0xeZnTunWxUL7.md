@@ -4,7 +4,7 @@
 
 > Go beyond the music with audio documentaries, rare interviews, and behind the scenes biographies of famous and influential artists and bands.
 
-65 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/0cKsend36fQI9ymFQHcocF)
+65 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

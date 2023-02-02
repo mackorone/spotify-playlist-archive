@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-162 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+164 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:03 | 2021-04-19 |  |
 | [Amsterdam \- Acoustic](https://open.spotify.com/track/7duwk0wCezbso7J84vYIlh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam \(Acoustic\)](https://open.spotify.com/album/2BW6kuO4sejPFXAYDxXznj) | 3:24 | 2022-05-06 |  |
 | [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 | 2022-06-10 |  |
-| [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Acoustic\)](https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4) | 3:23 | 2022-03-04 |  |
+| [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc) | 3:23 | 2022-03-04 |  |
+| [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Acoustic\)](https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4) | 3:23 | 2022-03-04 | 2022-12-11 |
 | [Arms of a Lion](https://open.spotify.com/track/0zvAcSS9nyruBqRHZsbUfJ) | [Heather Morgan](https://open.spotify.com/artist/2oASyTmErmgYx5ueawNzRX), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Borrowed Heart](https://open.spotify.com/album/3lpNC3vjXCes2WvGEmfoD3) | 4:00 | 2021-04-19 | 2022-04-29 |
 | [Breathe](https://open.spotify.com/track/0x1TV5GIh3Bb1uOHGM8CPV) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/4xWtA8LqGtCavhLcd6dSqt) | 2:17 | 2021-11-19 |  |
 | [Breathe](https://open.spotify.com/track/16SKS0Na572RmGeajx7ker) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/2ONf4BzMSosulZR05NxdTz) | 2:17 | 2021-11-19 | 2022-07-29 |
@@ -41,7 +42,8 @@
 | [Heart in Me](https://open.spotify.com/track/3dd8oxITNLTLaRybjDTA4s) | [Leaving Thomas](https://open.spotify.com/artist/7Mlp2kTfQTVsAKG2tuOPhS) | [Leaving Thomas](https://open.spotify.com/album/21po9l566bWUa58JM9aJKf) | 3:47 | 2021-04-19 |  |
 | [Heart In Me](https://open.spotify.com/track/4efFCV2zs0vmDwFoGCPG5b) | [Leaving Thomas](https://open.spotify.com/artist/7Mlp2kTfQTVsAKG2tuOPhS) | [Leaving Thomas](https://open.spotify.com/album/333xvPkvCChZ69oqemkndI) | 3:47 | 2021-04-19 | 2022-11-14 |
 | [Heart In Me](https://open.spotify.com/track/7yiV9vNPteAL9Y4U8810vh) | [Leaving Thomas](https://open.spotify.com/artist/7Mlp2kTfQTVsAKG2tuOPhS) | [Leaving Thomas](https://open.spotify.com/album/0Nc0yM6xYEelLRf0l4gR6B) | 3:47 | 2021-04-19 | 2022-07-29 |
-| [Hey Violet](https://open.spotify.com/track/3wtJr6QAJaMjH2IqBzQ4XY) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Hey Violet](https://open.spotify.com/album/3g8a0S9HAFSyz62YeIqpHu) | 2:53 | 2022-08-12 |  |
+| [Hey Violet](https://open.spotify.com/track/3wtJr6QAJaMjH2IqBzQ4XY) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Hey Violet](https://open.spotify.com/album/3g8a0S9HAFSyz62YeIqpHu) | 2:53 | 2022-08-12 | 2023-01-21 |
+| [Hey Violet](https://open.spotify.com/track/6R2Rg2mTzmJ6PNwgh0GG4B) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:53 | 2022-08-12 |  |
 | [Hindsight](https://open.spotify.com/track/0gPL0UolZWwAYTTLzStqmw) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:01 | 2021-04-19 |  |
 | [History](https://open.spotify.com/track/17PRPgnKH4flrbnZmgSGzJ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:44 | 2021-04-19 | 2022-04-29 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-08-06 |  |

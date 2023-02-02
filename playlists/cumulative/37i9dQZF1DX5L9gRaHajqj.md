@@ -4,7 +4,7 @@
 
 > The essential KISS, all in one place.
 
-50 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/2Vnqa2yN2AZKzA28HWPbeK)
+50 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

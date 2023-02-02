@@ -4,7 +4,7 @@
 
 > This eclectic, electric\-leaning collection is perfect for focusing on your flow and extending your flexibility.
 
-23 songs - 1 hr 20 min - [published](https://open.spotify.com/playlist/6ja1fIWCggi0NNZ5vurwT7)
+23 songs - 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

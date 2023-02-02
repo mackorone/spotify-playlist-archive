@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-08-14",
   "description": "Concentra\u00e7\u00e3o no m\u00e1ximo, sem distra\u00e7\u00f5es.",
   "name": "Concentra\u00e7\u00e3o Perfeita",
-  "published_playlist_ids": [
-    "3CTCwoJVrFjj3ZIFLb9LjB"
-  ],
   "tracks": [
     {
       "album": {
@@ -775,7 +772,7 @@
       ],
       "date_added": "2020-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 150000,
       "name": "Always Watching Over You",
       "url": "https://open.spotify.com/track/3g3Ff3nRjNXQlXsYgTM8GT"
@@ -890,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Ambiguos",
+        "url": "https://open.spotify.com/album/0GK3JsrJx1KfurBpPzjNau"
+      },
+      "artists": [
+        {
+          "name": "Ivan Vladusic",
+          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191272,
+      "name": "Ambiguos",
+      "url": "https://open.spotify.com/track/4ckUU6TR19hXSAc5C0DdIf"
+    },
+    {
+      "album": {
         "name": "Amici",
         "url": "https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI"
       },
@@ -937,7 +952,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-24",
+      "date_removed": "2023-02-02",
       "duration_ms": 109440,
       "name": "Amorous Rebound",
       "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
@@ -1171,7 +1186,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 171688,
       "name": "Approaching Haumea",
       "url": "https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt"
@@ -1391,7 +1406,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 172813,
       "name": "Aufgang der Sonne",
       "url": "https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz"
@@ -1467,6 +1482,24 @@
       "duration_ms": 147599,
       "name": "Autumn Leaf",
       "url": "https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO"
+    },
+    {
+      "album": {
+        "name": "Autumn Night",
+        "url": "https://open.spotify.com/album/3eY3REfE9d7iRNLQucvcE2"
+      },
+      "artists": [
+        {
+          "name": "Joy Meyer-Williams",
+          "url": "https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Autumn Night",
+      "url": "https://open.spotify.com/track/7lbdEiLUZS41yFbWuMCEGj"
     },
     {
       "album": {
@@ -1643,7 +1676,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 218000,
       "name": "Belonging",
       "url": "https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp"
@@ -1787,7 +1820,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-24",
+      "date_removed": "2023-01-29",
       "duration_ms": 166000,
       "name": "Born To Live",
       "url": "https://open.spotify.com/track/1C0RA3kpeaa5NOstlwzPCQ"
@@ -2183,7 +2216,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 149250,
       "name": "Chi cerca trova",
       "url": "https://open.spotify.com/track/5dm9SeBifoI3dIiWkgAYvR"
@@ -2277,6 +2310,24 @@
       "duration_ms": 158375,
       "name": "Circles",
       "url": "https://open.spotify.com/track/54TwPbo4CXoR8iPceyU64H"
+    },
+    {
+      "album": {
+        "name": "Preludes",
+        "url": "https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1"
+      },
+      "artists": [
+        {
+          "name": "Julius Nilsson",
+          "url": "https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139771,
+      "name": "City Prelude",
+      "url": "https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53"
     },
     {
       "album": {
@@ -2435,7 +2486,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 144509,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4"
@@ -2453,7 +2504,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 134216,
       "name": "Continuo",
       "url": "https://open.spotify.com/track/3AogJjKJYSIEiXx8Xfq9Z9"
@@ -2748,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Poems",
+        "url": "https://open.spotify.com/album/6VYkb4InDz4hHgarKcC8LH"
+      },
+      "artists": [
+        {
+          "name": "Noah Foem",
+          "url": "https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143180,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/75mVGk9NnVwI1hC42MrvcG"
+    },
+    {
+      "album": {
         "name": "Efflorescence",
         "url": "https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO"
       },
@@ -2867,7 +2936,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 158155,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/1eeBSZxZDYT2okIAhcZpno"
@@ -3029,7 +3098,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 191500,
       "name": "Dover",
       "url": "https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q"
@@ -3155,7 +3224,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-24",
+      "date_removed": "2023-01-17",
       "duration_ms": 151458,
       "name": "Duende",
       "url": "https://open.spotify.com/track/5EOANVSfg3dX4zE4Askrau"
@@ -3281,7 +3350,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "D\u00e9routant",
       "url": "https://open.spotify.com/track/0KS4fyufVM7bNkyTKnL07p"
@@ -3317,7 +3386,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 163413,
       "name": "Ebbe",
       "url": "https://open.spotify.com/track/2tMAQUBzGA8VqP8sLJvkdS"
@@ -3443,7 +3512,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 199987,
       "name": "Elysian",
       "url": "https://open.spotify.com/track/1vCF7vHUELmB38Zxn5T79S"
@@ -3767,7 +3836,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 164500,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7"
@@ -4037,7 +4106,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 147000,
       "name": "Finding Hope",
       "url": "https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms"
@@ -4481,6 +4550,24 @@
       "duration_ms": 205275,
       "name": "From Here to Eternity",
       "url": "https://open.spotify.com/track/64IBUAyeOxHHtV2VNl6CQ3"
+    },
+    {
+      "album": {
+        "name": "View",
+        "url": "https://open.spotify.com/album/0Mdwjh11jzxtsFE29Xw5aU"
+      },
+      "artists": [
+        {
+          "name": "Nsee",
+          "url": "https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121300,
+      "name": "Frozen Lake",
+      "url": "https://open.spotify.com/track/1nhtusu73NEuqOOJTJ8gbc"
     },
     {
       "album": {
@@ -5345,7 +5432,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 144555,
       "name": "Howthian",
       "url": "https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M"
@@ -5605,7 +5692,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 147730,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/04tsTNEcs0mhXyrstqOTjd"
@@ -5695,7 +5782,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 156645,
       "name": "Immunity",
       "url": "https://open.spotify.com/track/1ldGVJUNxjUDAJp0vZLMq5"
@@ -5749,7 +5836,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 164124,
       "name": "In Qualsiasi Momento",
       "url": "https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I"
@@ -5857,7 +5944,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Indivision",
       "url": "https://open.spotify.com/track/0Cgezkm0kCTnegOB6rCzed"
@@ -5947,7 +6034,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 155250,
       "name": "Intermedanos",
       "url": "https://open.spotify.com/track/4XR0XV2Quru1vEYZvTyWEP"
@@ -6307,7 +6394,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 144263,
       "name": "Kiriume",
       "url": "https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR"
@@ -6595,7 +6682,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 172250,
       "name": "Lanuza",
       "url": "https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej"
@@ -6865,7 +6952,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2022-12-26",
       "duration_ms": 161874,
       "name": "Le soleil printanier",
       "url": "https://open.spotify.com/track/1k1BWZh9UpPcf3rDHUl0Ly"
@@ -7171,7 +7258,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2022-12-28",
       "duration_ms": 184018,
       "name": "Ligare Arcum",
       "url": "https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N"
@@ -7387,7 +7474,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 134363,
       "name": "Loire",
       "url": "https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m"
@@ -8024,6 +8111,24 @@
     },
     {
       "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl"
+      },
+      "artists": [
+        {
+          "name": "Constance Lucas",
+          "url": "https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141971,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win"
+    },
+    {
+      "album": {
         "name": "Mi Nonna",
         "url": "https://open.spotify.com/album/4hlZBjpSIGW5k05RkFxDDT"
       },
@@ -8035,7 +8140,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 118974,
       "name": "Mi Nonna",
       "url": "https://open.spotify.com/track/09KFAleSLR5SDyvm55YjjH"
@@ -8147,6 +8252,24 @@
       "duration_ms": 134996,
       "name": "Mise en abyme",
       "url": "https://open.spotify.com/track/2HQhHAKFtN1tecwYhvL1z1"
+    },
+    {
+      "album": {
+        "name": "Mitternacht",
+        "url": "https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39"
+      },
+      "artists": [
+        {
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155693,
+      "name": "Mitternacht",
+      "url": "https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz"
     },
     {
       "album": {
@@ -8323,7 +8446,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 180308,
       "name": "Morning-Star",
       "url": "https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI"
@@ -8435,7 +8558,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 215500,
       "name": "My Mind Made Up",
       "url": "https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO"
@@ -8514,6 +8637,24 @@
     },
     {
       "album": {
+        "name": "Nascondiglio",
+        "url": "https://open.spotify.com/album/0TRLxuQkDGaKoJEYOmCNMr"
+      },
+      "artists": [
+        {
+          "name": "Giovanna Petrini",
+          "url": "https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117857,
+      "name": "Nascondiglio",
+      "url": "https://open.spotify.com/track/3e8DQgRVImwkDYrJJEh9xO"
+    },
+    {
+      "album": {
         "name": "Das Rosenblatt",
         "url": "https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me"
       },
@@ -8525,7 +8666,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 191427,
       "name": "Nebelschleier",
       "url": "https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A"
@@ -8975,7 +9116,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2023-01-04",
       "duration_ms": 144059,
       "name": "One Another",
       "url": "https://open.spotify.com/track/5TmkmJXYc4wT0lShzHAHJ0"
@@ -9353,7 +9494,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-24",
+      "date_removed": "2023-01-28",
       "duration_ms": 128919,
       "name": "Peninsula",
       "url": "https://open.spotify.com/track/4Mdh699pUIURrBHokfrmmE"
@@ -9743,8 +9884,8 @@
       },
       "artists": [
         {
-          "name": "Elliott Jacqu\u00e9s",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/3umCEdMTP9fjBnfclPxi1Z"
         }
       ],
       "date_added": "2021-04-22",
@@ -9983,7 +10124,7 @@
       ],
       "date_added": "2020-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": "2023-01-07",
       "duration_ms": 201124,
       "name": "Quiet Cove",
       "url": "https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND"
@@ -10253,7 +10394,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 175500,
       "name": "Reisida",
       "url": "https://open.spotify.com/track/39ObnHa9VOJIwR1nULLXJI"
@@ -10667,7 +10808,7 @@
       ],
       "date_added": "2021-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2023-01-20",
       "duration_ms": 167333,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u"
@@ -11063,7 +11204,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2023-01-26",
       "duration_ms": 201074,
       "name": "Seconda parte",
       "url": "https://open.spotify.com/track/7mHt21QVehLVUZxDAJC9qJ"
@@ -11135,7 +11276,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 198557,
       "name": "Seine",
       "url": "https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5"
@@ -11207,10 +11348,28 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 110000,
       "name": "sensations",
       "url": "https://open.spotify.com/track/0UaE9GrJ28alAptLY3KjtL"
+    },
+    {
+      "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6"
+      },
+      "artists": [
+        {
+          "name": "Vi\u00ean Farhana",
+          "url": "https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124604,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f"
     },
     {
       "album": {
@@ -11873,7 +12032,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 158759,
       "name": "Something (Nothing)",
       "url": "https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk"
@@ -12669,7 +12828,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 133624,
       "name": "The Changing Seasons",
       "url": "https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM"
@@ -12835,6 +12994,24 @@
       "duration_ms": 161750,
       "name": "The great escape",
       "url": "https://open.spotify.com/track/1eejuS5rMjtFeVF6DEzkTf"
+    },
+    {
+      "album": {
+        "name": "The hills",
+        "url": "https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172264,
+      "name": "The hills",
+      "url": "https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u"
     },
     {
       "album": {
@@ -13059,8 +13236,8 @@
       },
       "artists": [
         {
-          "name": "Elliott Jacqu\u00e9s",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/3umCEdMTP9fjBnfclPxi1Z"
         }
       ],
       "date_added": "2021-06-18",
@@ -13245,7 +13422,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-18",
+      "date_removed": "2022-12-24",
       "duration_ms": 126000,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/2aJlNzyFDh3j6GTBSDXdXZ"
@@ -13389,7 +13566,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2022-12-29",
       "duration_ms": 193916,
       "name": "Traces",
       "url": "https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07"
@@ -13533,7 +13710,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 205793,
       "name": "Tree Whisper",
       "url": "https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N"
@@ -13681,7 +13858,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 179500,
       "name": "Turn",
       "url": "https://open.spotify.com/track/26UD6EFThaMnBcmHxb8MOG"
@@ -13753,7 +13930,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 170573,
       "name": "two wheels north",
       "url": "https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4"
@@ -14131,7 +14308,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": "2023-02-01",
       "duration_ms": 211814,
       "name": "Vanishing",
       "url": "https://open.spotify.com/track/0EFseo68EYQE7wptYPTuMG"
@@ -14365,7 +14542,7 @@
       ],
       "date_added": "2020-08-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-23",
       "duration_ms": 126127,
       "name": "Vitality",
       "url": "https://open.spotify.com/track/10tC4GQIfS6saBeCfXda1h"
@@ -14797,7 +14974,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 155660,
       "name": "Whisper Trail",
       "url": "https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB"

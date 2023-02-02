@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-24",
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
   "name": "Trap Classe",
-  "published_playlist_ids": [
-    "2JiEqFHGgu7m6aY1C9iMqg"
-  ],
   "tracks": [
     {
       "album": {
@@ -335,7 +332,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 172973,
       "name": "Ak Forty Seven",
       "url": "https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG"
@@ -685,8 +682,12 @@
           "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
         },
         {
-          "name": "Nobru Black",
-          "url": "https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7"
+          "name": "Mestre B",
+          "url": "https://open.spotify.com/artist/3Rwms7zByQMzHZdIKhqpSK"
+        },
+        {
+          "name": "Young World",
+          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
         }
       ],
       "date_added": "2021-09-02",
@@ -811,7 +812,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 141341,
       "name": "Blue Pill",
       "url": "https://open.spotify.com/track/6RZdPEKEe2AVxeBHZxPdH9"
@@ -1187,7 +1188,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 180000,
       "name": "Cheat Code",
       "url": "https://open.spotify.com/track/2Db7e4OXyzQFjMC34RdCOj"
@@ -2103,7 +2104,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 314032,
       "name": "Eu Pe\u00e7o Paz",
       "url": "https://open.spotify.com/track/57zgzNUat2Z3OPLQREeEOe"
@@ -2753,6 +2754,10 @@
         {
           "name": "Original Quality",
           "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
         }
       ],
       "date_added": "2021-09-02",
@@ -3335,7 +3340,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 262199,
       "name": "Lobo-Guar\u00e1",
       "url": "https://open.spotify.com/track/6pPPjzQCW3TauculUPjKDs"
@@ -3408,7 +3413,7 @@
         },
         {
           "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/3GWrFBnQYNEJcoLUCc34hV"
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
       "date_added": "2021-09-02",
@@ -3543,7 +3548,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247680,
       "name": "Maleta",
       "url": "https://open.spotify.com/track/4PZ3p6D3GQcpiaFirr3VNW"
@@ -4043,7 +4048,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": "2023-02-01",
       "duration_ms": 259672,
       "name": "Nintendo Switch",
       "url": "https://open.spotify.com/track/2yESwIR0YXuAmH8vhKd0RO"
@@ -4523,7 +4528,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 206608,
       "name": "OUTRO PATAMAR",
       "url": "https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH"
@@ -5453,7 +5458,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 184000,
       "name": "RJ Mais Que Atlanta",
       "url": "https://open.spotify.com/track/65iZrNUeKYgiQXSYvVQVWQ"

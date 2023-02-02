@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,356 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,983 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 30 | [어느 60대 노부부 이야기](https://open.spotify.com/track/68yWj8JpveUGUsZLasK3k0) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 다시 부르기 II](https://open.spotify.com/album/6tpfhrWAd4X5YQCBE2HKUk) | 4:28 |
 | 31 | [사랑했지만](https://open.spotify.com/track/2Wusb5km1CAQRDvmujySNO) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 '나의 노래' BOX SET](https://open.spotify.com/album/3EzFLoUS1nKMqqS5FYhpsD) | 4:27 |
 | 32 | [당신도 울고 있네요](https://open.spotify.com/track/3uXGuJHfAoUke0TkDcvuBM) | [김종찬](https://open.spotify.com/artist/1j9e2bHfflVpMVW77MGWR4) | [김종찬 골든 힛트곡 모음](https://open.spotify.com/album/0vtP6Xzc7lk12V7GEiQGvD) | 4:12 |
-| 33 | [떠나버린 사람](https://open.spotify.com/track/7MMVGHfGFZsWy3PFY4YPqE) | [따로 또 같이](https://open.spotify.com/artist/5xwMG3oq16KjZGGWHLeMNH) | [따로 또 같이 Vol.3](https://open.spotify.com/album/0258DtBYRRSCUNR62yM5BB) | 4:38 |
+| 33 | [떠나버린 사람](https://open.spotify.com/track/7MMVGHfGFZsWy3PFY4YPqE) | [Apart and Together](https://open.spotify.com/artist/1eIPxKC8UNMvpad5o6Qbg2) | [따로 또 같이 Vol.3](https://open.spotify.com/album/0258DtBYRRSCUNR62yM5BB) | 4:38 |
 | 34 | [외로운 사람들](https://open.spotify.com/track/5S09MykTFOkzgTYMK1XBGn) | [이정선](https://open.spotify.com/artist/1ggPoV0kiW23ufNRy5AyrV) | [이정선 베스트](https://open.spotify.com/album/4amIFXgjq2CMs0WOXhhzvZ) | 3:58 |
 | 35 | [이등병의 편지](https://open.spotify.com/track/4paHAIeL4h8Tr0vbF1FOwZ) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 다시 부르기 I](https://open.spotify.com/album/6L9IGYuMWrWUMIVm3KFjUw) | 4:48 |
 | 36 | [아름다운 강산](https://open.spotify.com/track/7qMFMdplBz3ySx7HdOOgDP) | [Shin Joong Hyun](https://open.spotify.com/artist/4cFsZrYUW5rEHhT1IrYXag) | [신중현 골든](https://open.spotify.com/album/0BnsLDVwgsCs1i5rEC0T3G) | 6:16 |
 | 37 | [Take to the Road](https://open.spotify.com/track/7Dsj9oV6bd5jF0vIBwy92a) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [Lee Sun Hee Best](https://open.spotify.com/album/2l6SJR2R6pFzKOlrtJGq37) | 3:32 |
 | 38 | [내일](https://open.spotify.com/track/6gcEFFs1w5D2Ud91Qb37u2) | [김수철](https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR) | [못다핀 꽃한송이](https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg) | 3:42 |
-| 39 | [카츄사의 노래](https://open.spotify.com/track/1X9Rw7AQdwJoR8q2dPn7ZC) | [은방울자매](https://open.spotify.com/artist/7bSbVUfkQBYgjK0G2Q6cMP) | [히트가요 컬렉션 VOL.2](https://open.spotify.com/album/79iJo6K8XWEF7HNgquDmD7) | 3:11 |
+| 39 | [카츄사의 노래](https://open.spotify.com/track/1X9Rw7AQdwJoR8q2dPn7ZC) | [Eunbangul Sisters](https://open.spotify.com/artist/0kBrnh1Onqubyc9XpWYYDE) | [히트가요 컬렉션 VOL.2](https://open.spotify.com/album/79iJo6K8XWEF7HNgquDmD7) | 3:11 |
 | 40 | [세월이 가면](https://open.spotify.com/track/6khwEG0x8mkXNvTxt2lF00) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/06Ts7J7sx9Ag3VN2soPwQI) | 3:21 |
 | 41 | [사랑이 지나가면](https://open.spotify.com/track/4XwtIHrmFuMNwu3c35kh5B) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [이문세 4집](https://open.spotify.com/album/031envKZiWUDD9cRdb0ZbX) | 4:13 |
 | 42 | [눈물나는 날에는](https://open.spotify.com/track/1Vi9rQtR5XlEAKvvz4PfID) | [푸른하늘](https://open.spotify.com/artist/4fjuWKOCAh3CT7I5xW6Hc1) | [푸른하늘 2집 \- 눈물나는 날에는](https://open.spotify.com/album/53wruAmv4gvA2uIoO2Xmfw) | 5:04 |

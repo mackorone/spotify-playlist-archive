@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-196 songs - 14 hr 16 min - not published yet
+196 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Daily Song](https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be ordinary](https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe) | 4:18 | 2021-04-21 |  |
 | [After You’ve Gone](https://open.spotify.com/track/6MbO4CpHNgsdV4dn2cGKWp) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:06 | 2021-04-21 |  |
 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 | 2021-04-21 |  |
-| [And goodbye](https://open.spotify.com/track/0se8KNsSxOzUqudivqSWHB) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [And… \(6\)](https://open.spotify.com/album/3Fd78AN1LXqbV4xqn9ZzJk) | 3:41 | 2021-04-21 |  |
+| [And goodbye](https://open.spotify.com/track/0se8KNsSxOzUqudivqSWHB) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [And…](https://open.spotify.com/album/3Fd78AN1LXqbV4xqn9ZzJk) | 3:41 | 2021-04-21 |  |
 | [Around Thirty \(with Bob James\)](https://open.spotify.com/track/7G2j4OOUTIYJiYWevBskAS) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [KIM KWANG SEOK, AGAIN](https://open.spotify.com/album/3QBvfyxgNkrLZdAbrcznb2) | 4:42 | 2021-04-21 |  |
 | [Beautiful Moment](https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Beauty Inside Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN) | 3:58 | 2021-04-21 |  |
 | [BLOOM](https://open.spotify.com/track/3bCDoZgeNf9s6Zmf9iz51h) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA](https://open.spotify.com/album/2tb2AzY9uac3ND3Wf8RQPL) | 3:52 | 2021-04-21 |  |

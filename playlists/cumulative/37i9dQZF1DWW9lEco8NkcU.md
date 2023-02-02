@@ -4,7 +4,7 @@
 
 > what are they doing up there?
 
-71 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/4PfWRrDI4cIak7lFqMsyAv)
+72 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [spaghettification](https://open.spotify.com/track/2mfy0lcx1gCVYSlqhyCbkB) | [nowt](https://open.spotify.com/artist/3rJ3JaEwzwefdZMinCtdPI) | [absorbed by an absolute void](https://open.spotify.com/album/4UWkmWiTanSmJvBLggDF9b) | 3:36 | 2022-07-08 |  |
 | [Stonewall Elementary](https://open.spotify.com/track/4j6sgxjuTjNKpJCnAMM8ZC) | [Phoenix Parker](https://open.spotify.com/artist/0KRwDAEKBrZHtQy91LAoxb) | [Stonewall Elementary](https://open.spotify.com/album/7Gjx0jeCfUmCjgP7Zh5Gqq) | 0:38 | 2022-07-08 |  |
 | [Tangerine Lidl](https://open.spotify.com/track/6HVrurnFHNXFKZYcJMW37S) | [1991](https://open.spotify.com/artist/4zvj6YIQxg7KzWo2ubjZNs) | [1991 \(Expanded Edition\)](https://open.spotify.com/album/3BS54fcgGU0qMFtIezcFYE) | 3:49 | 2022-07-08 |  |
-| [Tommib](https://open.spotify.com/track/5bgbePi06Jpajb3CfgEhgJ) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Go Plastic](https://open.spotify.com/album/14DV5JzgIRhtqMMjtO4QOj) | 1:19 | 2022-07-08 |  |
+| [Tommib](https://open.spotify.com/track/5bgbePi06Jpajb3CfgEhgJ) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Go Plastic](https://open.spotify.com/album/14DV5JzgIRhtqMMjtO4QOj) | 1:19 | 2022-07-08 | 2023-02-02 |
+| [Tommib](https://open.spotify.com/track/5rzEX5tCbOSCzoH92dbExL) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Go Plastic](https://open.spotify.com/album/1E00eXD8WvUkKFRA4OlqC2) | 1:19 | 2022-11-22 |  |
 | [Unterwasser](https://open.spotify.com/track/0QE1nn67EOtI8torT05FoL) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 3](https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez) | 1:10 | 2022-07-08 |  |
 | [untitled nine](https://open.spotify.com/track/4T5EfAG0xFrKyLLRX26ijT) | [rees111](https://open.spotify.com/artist/4DQAGENt8yDnztCIWkS7hT) | [3e](https://open.spotify.com/album/3C2UcCjHmBUrJh5DwBfiAs) | 3:45 | 2022-07-08 |  |
 | [Untold](https://open.spotify.com/track/1RbRF5lPKVSwFWV1RGe9MN) | [Aster](https://open.spotify.com/artist/1ie4JpANX38QqUcnNRht7e) | [One Path](https://open.spotify.com/album/0LcPF7MaRplUP7N37LrEUo) | 3:32 | 2022-07-08 |  |

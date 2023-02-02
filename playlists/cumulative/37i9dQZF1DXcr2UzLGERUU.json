@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Wind down in moments of stress with these chilled songs for the whole family.",
   "name": "Calm Kids",
-  "published_playlist_ids": [
-    "1b0fcaaDfDUE8YINvG3jb0"
-  ],
   "tracks": [
     {
       "album": {
@@ -692,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Sun, Hello Moon",
+        "url": "https://open.spotify.com/album/3aoYs8itExQbGs4y2vnizg"
+      },
+      "artists": [
+        {
+          "name": "The Beanies",
+          "url": "https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Goodbye Sun, Hello Moon",
+      "url": "https://open.spotify.com/track/6btBus1HKjmT0JhXY0Qo3Y"
+    },
+    {
+      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -1371,6 +1386,24 @@
       "duration_ms": 115877,
       "name": "La La Lu",
       "url": "https://open.spotify.com/track/7Gc86khLjIENRGdMrrxd1B"
+    },
+    {
+      "album": {
+        "name": "Lean on Me",
+        "url": "https://open.spotify.com/album/0lL9FCNib5gyfOThxvlcdy"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203818,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/4pNzltItfMTK9Al8qvU9yV"
     },
     {
       "album": {

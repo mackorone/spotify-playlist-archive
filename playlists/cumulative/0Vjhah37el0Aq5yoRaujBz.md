@@ -4,7 +4,7 @@
 
 > Let this upbeat playlist power you through your day
 
-306 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/3DbxxfoAnAHXxgQUN2EJib)
+306 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Going Under \- Leon Lour Remix](https://open.spotify.com/track/6rtD5drZ38Vfw007z39iH5) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Leon Lour](https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw) | [13 \(Remixes\)](https://open.spotify.com/album/65G8c0BRPHk1hns4IP3mnQ) | 3:27 | 2017-03-07 |  |
 | [Golden](https://open.spotify.com/track/5uQSMMQKcPyRt8r7YM8uwt) | [Parade of Lights](https://open.spotify.com/artist/5acfZKELBZRBvyhrC0kzG1) | [Golden](https://open.spotify.com/album/0TaPLeMBLvardc0VGdVnIt) | 3:04 | 2015-09-18 |  |
 | [Golden Light \(feat\. 6AM\)](https://open.spotify.com/track/3T8j0WDSw7G98rNLAe2M2X) | [Madden](https://open.spotify.com/artist/7LbuenKfQNLPKzvi1rKPBG), [6AM](https://open.spotify.com/artist/3t6I4YrxnwewdkKxNb2FMF) | [Golden Light \(feat\. 6AM\)](https://open.spotify.com/album/5ON1WNVZH0W1ASqlPq5gAX) | 3:27 | 2016-05-09 |  |
-| [Good Enough \(Michael Brun x The Ready Set\)](https://open.spotify.com/track/1JlNnlac0f4LWYaLVFB2ue) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC), [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Good Enough \(Michael Brun x The Ready Set\)](https://open.spotify.com/album/75eB1WEwTTUIyp8ICVL2VF) | 3:33 | 2016-06-29 |  |
+| [Good Enough \(Michael Brun x The Ready Set\)](https://open.spotify.com/track/1JlNnlac0f4LWYaLVFB2ue) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Good Enough \(Michael Brun x The Ready Set\)](https://open.spotify.com/album/75eB1WEwTTUIyp8ICVL2VF) | 3:33 | 2016-06-29 |  |
 | [Good To Be Loved \- KREAM Remix](https://open.spotify.com/track/1XuSzOOnPnjMyzqlQZazz4) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw) | [Good To Be Loved \(KREAM Remix\)](https://open.spotify.com/album/0qelCctqtJg8k5ZgXewJjA) | 3:16 | 2016-05-16 |  |
 | [Good Vibes](https://open.spotify.com/track/3x58LPrguuY0pdpnMKEXkT) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Cosmos & Creature](https://open.spotify.com/artist/6nBujjA6fus37LVZEqEULp) | [Good Vibes](https://open.spotify.com/album/1OSSOIUJ45q5PIzDpwPks4) | 2:52 | 2017-02-14 |  |
 | [Gotta Be You](https://open.spotify.com/track/117Gpyhs7rw7CPAfd3fj1Z) | [Ameria](https://open.spotify.com/artist/1rHE9GIzQio52kTCadXdyL) | [Gotta Be You](https://open.spotify.com/album/465hMbKNHNghNrACKq9wSp) | 3:15 | 2017-02-13 |  |

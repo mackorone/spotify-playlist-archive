@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of MBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! Music Production by SLL \(MBC 드라마 금수저의 사운드 트랙들과 배우진들이 직접 뽑은 '금수저가 되기 위한 야망 & 감성이 담긴 노래들'을 들어보세요!\) 음원제작사: SLL
 
-31 songs - 1 hr 54 min - not published yet
+31 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-82 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/7s0i33BBUjQHA9lPvjbnaK)
+83 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,8 @@
 | [Hot Hands](https://open.spotify.com/track/3iMCVmBE4SLDFuZm4qCDoe) | [Hula](https://open.spotify.com/artist/2vjqIh27GaevR96cT0h9f0) | [Mad On Acid Vol\. 1 CD2](https://open.spotify.com/album/7u1t3m5nMwr27S5D7LUwsy) | 6:12 | 2018-06-21 |  |
 | [House Rythems: Nervous Acid](https://open.spotify.com/track/1IngMSXsZ4rCTFm8L18F3U) | [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [A Lost Era In Nyc](https://open.spotify.com/album/7aR0QhgWSvGmi0KpFpLhup) | 5:00 | 2018-06-21 | 2022-07-29 |
 | [I Want You](https://open.spotify.com/track/1hONFIdBCTdn9DTiEbRTkI) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Ralphi Rosario's Greatest Hits](https://open.spotify.com/album/1X1NgiMTByMIIZkjvoAtXh) | 7:46 | 2018-06-21 | 2022-07-29 |
-| [I Want You](https://open.spotify.com/track/1sF4BQ6SNpyJf3qI18Yk34) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [The Godfathers of House \#1](https://open.spotify.com/album/4fhV8wDzdR1EfkhiCotons) | 7:46 | 2018-06-21 |  |
-| [I Want You](https://open.spotify.com/track/5DNGoWW2SahLU0F5mac7MF) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Greatest Hits](https://open.spotify.com/album/34JhQsl3BlrRWe9OHGyfUs) | 7:46 | 2018-06-21 | 2022-11-13 |
+| [I Want You](https://open.spotify.com/track/1sF4BQ6SNpyJf3qI18Yk34) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [The Godfathers of House \#1](https://open.spotify.com/album/4fhV8wDzdR1EfkhiCotons) | 7:46 | 2018-06-21 | 2022-12-15 |
+| [I Want You](https://open.spotify.com/track/5DNGoWW2SahLU0F5mac7MF) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Greatest Hits](https://open.spotify.com/album/34JhQsl3BlrRWe9OHGyfUs) | 7:46 | 2018-06-21 |  |
 | [I'll House You](https://open.spotify.com/track/51GEHfWZuwIg5XHY50XSyS) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [Straight Out The Jungle](https://open.spotify.com/album/4h2veBvPhM1RazJi8J1Siy) | 4:57 | 2018-06-21 |  |
 | [I'll House You](https://open.spotify.com/track/2IOIuMlbkvA3lBYMQV73fZ) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [The Big Apple Bites Back \- New York House & Remix Culture](https://open.spotify.com/album/1BD2W3RVzcCjnJ6a5AVfZm) | 4:58 | 2018-06-21 | 2022-07-29 |
 | [I'll House You](https://open.spotify.com/track/67yiLipIhi6dBMdrt5KfPv) | [Jungle Brothers](https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj) | [I'll House You '98](https://open.spotify.com/album/0MeAW8iEobS9PZpcQZQWJF) | 4:59 | 2018-06-21 | 2022-11-13 |
@@ -85,7 +85,8 @@
 | [This is Acid](https://open.spotify.com/track/23HpSrqrULF8mF1WKdZRyl) | [Maurice](https://open.spotify.com/artist/6ji89XTJxUyNUkRXnZuFSZ) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 4:37 | 2018-06-21 |  |
 | [Washing Machine](https://open.spotify.com/track/3p25Zh4Nt1pyvX8h2oCD9H) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 4:18 | 2018-06-21 |  |
 | [Weekend \(Wam Bam 12" Mix\)](https://open.spotify.com/track/0KZWKfZ22SUr9QVLZK2LEg) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekender \(Music From The Motion Picture & Further Inspiration\)](https://open.spotify.com/album/5wfCtpuibRW2GNWIr2hk7O) | 5:47 | 2018-06-21 | 2022-07-29 |
-| [Weekend \(Weekend Club\) \[the Wam Bam Mix\]](https://open.spotify.com/track/3xvkdpv7lQuJVs11NYrVil) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekend](https://open.spotify.com/album/2Mj7L02euCpY6T1IElCrBp) | 5:46 | 2018-06-21 |  |
+| [Weekend \- Wam Bam Club Mix](https://open.spotify.com/track/3xvkdpv7lQuJVs11NYrVil) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekend](https://open.spotify.com/album/2Mj7L02euCpY6T1IElCrBp) | 5:46 | 2018-06-21 | 2023-01-11 |
+| [Weekend \- Wam Bam Club Mix](https://open.spotify.com/track/442N1OpSz4uRTJnMY7v1QS) | [The Todd Terry Project](https://open.spotify.com/artist/1mjzdV49eU7CuhdWnJOWBd) | [Weekend / Just Wanna Dance](https://open.spotify.com/album/3SIKoJBWHk6hI4lrTMxSQl) | 5:46 | 2018-06-21 |  |
 | [You Used to Hold Me](https://open.spotify.com/track/02ePVbyZRQs0LQB5XrofKa) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Greatest Hits](https://open.spotify.com/album/34JhQsl3BlrRWe9OHGyfUs) | 4:59 | 2018-06-21 |  |
 | [You Used to Hold Me](https://open.spotify.com/track/3hVnJ8rRSVa1tfgaYswfYn) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [Ralphi Rosario's Greatest Hits](https://open.spotify.com/album/1X1NgiMTByMIIZkjvoAtXh) | 4:59 | 2018-06-21 | 2022-07-29 |
 | [Your Love](https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Baby Wants to Ride / Your Love](https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5) | 6:43 | 2018-06-21 |  |

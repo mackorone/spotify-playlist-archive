@@ -4,7 +4,7 @@
 
 > For Motown, diversity and equality wasn’t just a goal, it was the key to success\. These women brought Motown into the hearts of many.
 
-29 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/7J1j0tVrOs3h4FC5GiGdL6)
+29 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

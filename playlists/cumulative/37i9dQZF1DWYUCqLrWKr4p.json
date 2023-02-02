@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Unforgettable love songs from the 1960s.",
   "name": "60s Love Songs",
-  "published_playlist_ids": [
-    "3OBMQlltdDI6ehst0mhfxA"
-  ],
   "tracks": [
     {
       "album": {
@@ -506,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Hey Paula",
+        "url": "https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh"
+      },
+      "artists": [
+        {
+          "name": "Paul & Paula",
+          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146944,
+      "name": "Hey Paula",
+      "url": "https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw"
+    },
+    {
+      "album": {
         "name": "Lo Mejor de los A\u00f1os 60, Vol. 3 Pop",
         "url": "https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK"
       },
@@ -553,7 +568,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 151066,
       "name": "Hey Paula - Single Version",
       "url": "https://open.spotify.com/track/6MpCxTJNdkHIpvQRuID8zU"

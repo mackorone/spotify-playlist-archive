@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Lounge sounds for SPA.",
   "name": "SPA Lounge",
-  "published_playlist_ids": [
-    "0Kdl62ocyyHzJyFfuwmMFr"
-  ],
   "tracks": [
     {
       "album": {
@@ -113,6 +110,32 @@
       "duration_ms": 171125,
       "name": "Akasha",
       "url": "https://open.spotify.com/track/5q4J2KGLDooMaYvsc2WxAu"
+    },
+    {
+      "album": {
+        "name": "Alaskan Dream",
+        "url": "https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Ulibarri",
+          "url": "https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd"
+        },
+        {
+          "name": "Amalinalli Pichardo",
+          "url": "https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp"
+        },
+        {
+          "name": "Space Between Clouds",
+          "url": "https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320965,
+      "name": "Alaskan Dream",
+      "url": "https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA"
     },
     {
       "album": {
@@ -271,7 +294,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 292600,
       "name": "Choshi or Shirabe",
       "url": "https://open.spotify.com/track/0dvWqDcjdP8SIXLRuaYuA6"
@@ -530,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Existence",
+        "url": "https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN"
+      },
+      "artists": [
+        {
+          "name": "Yoo Woon",
+          "url": "https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Existence",
+      "url": "https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z"
+    },
+    {
+      "album": {
         "name": "Fields of Passion",
         "url": "https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj"
       },
@@ -602,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Harmonious",
+        "url": "https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx"
+      },
+      "artists": [
+        {
+          "name": "Krishna's Flute",
+          "url": "https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404999,
+      "name": "Harmonious",
+      "url": "https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/7IQIg1Nst53Lri2GyvMPf8"
       },
@@ -656,6 +715,24 @@
     },
     {
       "album": {
+        "name": "In The Distance",
+        "url": "https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk"
+      },
+      "artists": [
+        {
+          "name": "Mindful Changes",
+          "url": "https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151530,
+      "name": "In The Distance",
+      "url": "https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp"
+    },
+    {
+      "album": {
         "name": "Inner Universe",
         "url": "https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G"
       },
@@ -671,6 +748,24 @@
       "duration_ms": 210733,
       "name": "Inner Universe",
       "url": "https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ"
+    },
+    {
+      "album": {
+        "name": "Intuitively",
+        "url": "https://open.spotify.com/album/5MU3m3fvGCtiiR98hwMiLB"
+      },
+      "artists": [
+        {
+          "name": "Damir Yamm",
+          "url": "https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Intuitively",
+      "url": "https://open.spotify.com/track/7Js2oijctTVG8KpEQaIe5I"
     },
     {
       "album": {
@@ -793,10 +888,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 269346,
       "name": "Lilac Dreams",
       "url": "https://open.spotify.com/track/3X71zGyeqaTLYnI1PO0yW7"
+    },
+    {
+      "album": {
+        "name": "Sleeping Lotus",
+        "url": "https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt"
+      },
+      "artists": [
+        {
+          "name": "Li Xiangting",
+          "url": "https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269346,
+      "name": "Lilac Dreams",
+      "url": "https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa"
     },
     {
       "album": {
@@ -937,7 +1050,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 70920,
       "name": "Music For Relaxation",
       "url": "https://open.spotify.com/track/3KilichjWZDdaMOlTALwGc"
@@ -1013,6 +1126,24 @@
       "duration_ms": 188000,
       "name": "Mystique Garden",
       "url": "https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn"
+    },
+    {
+      "album": {
+        "name": "Namaste Divine",
+        "url": "https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP"
+      },
+      "artists": [
+        {
+          "name": "Namaste Flute",
+          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244025,
+      "name": "Namaste Divine",
+      "url": "https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F"
     },
     {
       "album": {
@@ -1106,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Spa Lounge",
+        "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508733,
+      "name": "Olive Grove",
+      "url": "https://open.spotify.com/track/7G6SLZYw7lEBgvzVWEM4H7"
+    },
+    {
+      "album": {
         "name": "Natural Life",
         "url": "https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA"
       },
@@ -1175,6 +1324,24 @@
       "duration_ms": 216624,
       "name": "Pacificae",
       "url": "https://open.spotify.com/track/4ZnpF2DTkz3F0RcvI11KFQ"
+    },
+    {
+      "album": {
+        "name": "Path of life",
+        "url": "https://open.spotify.com/album/3ZzzjAbmvZZClVOjjd78e8"
+      },
+      "artists": [
+        {
+          "name": "Lakota Dreams",
+          "url": "https://open.spotify.com/artist/5D7WonwqI2sqcL76AozN29"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Path of life",
+      "url": "https://open.spotify.com/track/1sRgY8mQe8aoejLNhSRXmw"
     },
     {
       "album": {
@@ -1376,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Serene Lake",
+        "url": "https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo"
+      },
+      "artists": [
+        {
+          "name": "Mjuk",
+          "url": "https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156740,
+      "name": "Serene Lake",
+      "url": "https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj"
+    },
+    {
+      "album": {
         "name": "Shaasvat",
         "url": "https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk"
       },
@@ -1481,6 +1666,24 @@
       "duration_ms": 193000,
       "name": "Soon my dear",
       "url": "https://open.spotify.com/track/5g7NMH1xXhjZsjqz268Vny"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/6wRqHghJKaIDUAbF3BLXiD"
+      },
+      "artists": [
+        {
+          "name": "Healing Tribe",
+          "url": "https://open.spotify.com/artist/7yncP87ljuQ8stIRLOy5qT"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/0GuvaHc4Yw1047fMRPmGTw"
     },
     {
       "album": {
@@ -1755,6 +1958,24 @@
       "duration_ms": 228200,
       "name": "Wild Rhythms",
       "url": "https://open.spotify.com/track/2zpLkW4Qb6mWm2cXErEe6T"
+    },
+    {
+      "album": {
+        "name": "Zen Dream",
+        "url": "https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214501,
+      "name": "Zen Dream",
+      "url": "https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK"
     },
     {
       "album": {

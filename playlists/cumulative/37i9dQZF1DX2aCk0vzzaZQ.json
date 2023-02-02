@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-26",
   "description": "When you're a 19th century villain with excellent taste in music.",
   "name": "Dramatic Classical",
-  "published_playlist_ids": [
-    "71WRw0MM3YEJmGCbYcXscu"
-  ],
   "tracks": [
     {
       "album": {
@@ -811,6 +808,28 @@
       "duration_ms": 285640,
       "name": "String Quartet No.8 In C Minor, Op.110: 4. Largo - Live",
       "url": "https://open.spotify.com/track/0QTrE9uq3vtFbEAUfBcL7A"
+    },
+    {
+      "album": {
+        "name": "Schumann: Etudes symphonique; Fantasie, Op.17; Bunte Bl\u00e4tter; Arabeske",
+        "url": "https://open.spotify.com/album/3Om7V78rEsrTdoTWG10GTC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Symphonic Studies, Op. 13 - Version 1852 with Etudes from 1837 version: Variation II. Marcato il canto",
+      "url": "https://open.spotify.com/track/1yxfsbowmJcg2Lm82AzpG4"
     },
     {
       "album": {

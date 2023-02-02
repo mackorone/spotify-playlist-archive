@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 ### [Grunge Forever](https://open.spotify.com/playlist/37i9dQZF1DX11ghcIxjcjE)
 
-> Grunge will live forever\. Cover: Eddie Vedder
+> Grunge will live forever\. Cover: Kurt Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,358,022 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,419,137 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 59 | [Jezebel Woman](https://open.spotify.com/track/5eXJylmFFCqixTxJGYKny8) | [Malfunkshun](https://open.spotify.com/artist/6iQ35vbjuK5T4QkhihmNih) | [Return To Olympus](https://open.spotify.com/album/10qfgSLG6xxI1OEQX9oZAE) | 4:31 |
 | 60 | [Six Foot Under](https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru) | [Blood Circus](https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV) | [Dead Beats](https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA) | 3:52 |
 
-Snapshot ID: `MTY2NjA3NDc2OSwwMDAwMDAwMDBmZTA2NDRlOWE0ODBmOWQ3ODgyZWE2NDM2MTgyMWE0`
+Snapshot ID: `MTY2NjA3NDc2OSwwMDAwMDAwMGYwY2QyZmM1NzVlZThhYTZiYjdkMWQ5ODA4YzA4NWVk`

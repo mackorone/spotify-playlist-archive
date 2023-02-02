@@ -4,7 +4,7 @@
 
 > Experience the beloved classics of Charles Dickens.
 
-67 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/2vWuxc3CqUY3ZcjJucDwiQ)
+67 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

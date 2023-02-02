@@ -4,7 +4,7 @@
 
 > Wake up in your makeup? Rock it.
 
-24 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/1z1wcZtDuHa4HAPI6tOGqE)
+24 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 | 2016-01-06 |  |
 | [Rebel Girl](https://open.spotify.com/track/0gXpfKuJEVqQcn8rjraBWr) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Kill Rock Stars Sampler 2009](https://open.spotify.com/album/3h0C7vaMdXJHdR600zx4gU) | 2:37 | 2016-01-06 |  |
 | [Seether](https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:16 | 2016-01-06 |  |
-| [Stupid Girl](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 | 2016-01-06 |  |
+| [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 | 2016-01-06 |  |
 | [The Mother We Share](https://open.spotify.com/track/3PvzvltQZLIKk9YgoMP3Yq) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(Special Edition\)](https://open.spotify.com/album/54IMJ8S0redmP6krSlKZLD) | 3:10 | 2016-01-06 |  |
 | [The Scratch](https://open.spotify.com/track/3eU0KGjcpzaQ7UXGMEcOtB) | [7 Year Bitch](https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5) | [Viva Zapata!](https://open.spotify.com/album/2BJgilP7pIsPm64xMESBVw) | 1:59 | 2016-01-06 |  |
 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 | 2016-01-06 |  |

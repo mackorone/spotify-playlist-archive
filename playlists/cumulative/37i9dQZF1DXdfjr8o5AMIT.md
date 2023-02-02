@@ -4,7 +4,7 @@
 
 > The quintessential list of songs to celebrate commencement\. Congrats to the Class of 2022 and all other classes celebrating graduation this year.
 
-161 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/1XnOAvJW0OqVBMRviUToIj)
+161 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2021-05-04 |  |
 | [High School](https://open.spotify.com/track/2Q5l817bEwCulz8WjTqyvL) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [High School](https://open.spotify.com/album/2FkkDh6CLRFiKwFWE8CJDt) | 2:13 | 2021-05-04 | 2022-05-13 |
 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 | 2021-05-04 | 2022-05-13 |
-| [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 | 2022-05-23 | 2022-11-11 |
+| [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 | 2022-05-23 |  |
 | [I Gotta Feeling](https://open.spotify.com/track/4vp2J1l5RD4gMZwGFLfRAu) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ) | 4:49 | 2022-05-12 | 2022-07-29 |
 | [I Know There's Gonna Be \(Good Times\)](https://open.spotify.com/track/2zsa7Z6gCA5eBg0p9pbyLs) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [In Colour](https://open.spotify.com/album/01uabHpYa9AA55wc6AwRQL) | 3:33 | 2021-05-04 | 2022-07-27 |
 | [It Gets Better](https://open.spotify.com/track/6lxJDscGCALBzA0BdhGCiL) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 3:32 | 2021-05-04 | 2022-05-13 |
@@ -153,7 +153,7 @@
 | [We Are Never Ever Getting Back Together](https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:13 | 2022-05-17 |  |
 | [We Are The Champions](https://open.spotify.com/track/4kzvAGJirpZ9ethvKZdJtg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World](https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT) | 3:00 | 2022-05-12 | 2022-11-13 |
 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:10 | 2021-05-04 | 2022-05-18 |
-| [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 | 2022-05-12 |  |
+| [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 | 2022-05-12 | 2023-01-01 |
 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 | 2022-05-17 | 2022-07-29 |
 | [We Made It](https://open.spotify.com/track/1l3e4GWOzep9IzB0GbKhLV) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [Family Affair II \- Live At Radio City Music Hall](https://open.spotify.com/album/4Hp0IGYoWCxfM5lEw3Y5Tt) | 7:22 | 2022-05-17 | 2022-07-27 |
 | [We're All In This Together \(Graduation Mix\)](https://open.spotify.com/track/5mGI9cWHzNHGZG8RhzorWT) | [High School Musical Cast](https://open.spotify.com/artist/2gUMs9PE8XZVQyzCDqaYmW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 3: Senior Year](https://open.spotify.com/album/6j8k5gIeWzXapGKTVaZzER) | 4:14 | 2022-05-12 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Grandes hits da música pop pra agitar sua festa com os pequenos!
 
-79 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/48CdodPiAlOVbdO0QWnV7F)
+79 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 | 2020-06-24 |  |
 | [Hear Me Now](https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(feat\. Zeeba\)](https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o) | 3:14 | 2020-06-24 |  |
 | [Hotline Bling](https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:27 | 2020-06-24 |  |
-| [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 | 2020-06-24 |  |
+| [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 | 2020-06-24 |  |
 | [In Your Eyes \(feat\. Alida\)](https://open.spotify.com/track/61ZM92T2zaXIVsqncThQzC) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [In Your Eyes \(feat\. Alida\)](https://open.spotify.com/album/7Aq8cN8Br8AHcDqC327dlV) | 3:28 | 2020-06-24 |  |
 | [Kings & Queens](https://open.spotify.com/track/00SyBVoq9zYcivUUYl1IbU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [All Time Hits](https://open.spotify.com/album/6QsaW4ddxzbKj6S5JfnAEB) | 2:42 | 2020-06-24 | 2022-11-13 |
 | [Kings & Queens](https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Kings & Queens](https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO) | 2:42 | 2020-06-24 | 2022-07-29 |

@@ -4,10 +4,11 @@
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-100 songs - 6 hr 25 min - not published yet
+103 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [0%](https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 5](https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq) | 3:48 | 2021-03-11 | 2023-02-02 |
 | [10 Minutes](https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [Stylish…](https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b) | 3:56 | 2021-03-11 |  |
 | [1Tym](https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [One Time For Your Mind](https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT) | 3:30 | 2021-03-11 |  |
 | [8282](https://open.spotify.com/track/7y4oE4ATKrE9XIM9XSeyQN) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Davichi In Wonderland](https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo) | 3:39 | 2021-03-11 |  |
@@ -22,6 +23,7 @@
 | [Crazy \(feat.Eric\)](https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU), [Eric](https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m) | [Son Dam Bi Mini Album vol\. 2](https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL) | 4:01 | 2021-03-11 |  |
 | [Eurachacha](https://open.spotify.com/track/5WeDiuGjTVQ38Vf2eHUpX3) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Have A Nice Dream](https://open.spotify.com/album/1gGFPcgK3adJebbw4XnT47) | 4:16 | 2021-03-11 |  |
 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 | 2021-03-11 |  |
+| [Friday Night](https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK) | 3:33 | 2021-03-11 | 2023-02-02 |
 | [Girls On Top](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Girls On Top](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) | 3:38 | 2021-03-11 |  |
 | [Good day](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 3:53 | 2021-03-11 |  |
 | [Hawaian Couple](https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [Purple Drop](https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo) | 3:38 | 2021-03-11 |  |
@@ -53,7 +55,7 @@
 | [Nonsense](https://open.spotify.com/track/2iHoEvbIjpo2VPRxHo0RIY) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Personal Taste \(Original Television Soundtrack\)](https://open.spotify.com/album/6yG5uMF6dK0xar9DgCkf62) | 3:19 | 2021-03-11 |  |
 | [Passion](https://open.spotify.com/track/1r3RzA093pxz24XEtlvY9D) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Must Listen](https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV) | 3:21 | 2021-03-11 |  |
 | [Perfect Man](https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Perfect Man \- The 5th Album](https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV) | 3:25 | 2021-03-11 |  |
-| [Perhaps Love](https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad), [J](https://open.spotify.com/artist/0pwxHyrzsUtx7GgGwNHBXT) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:35 | 2021-03-11 |  |
+| [Perhaps Love](https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad), [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:35 | 2021-03-11 |  |
 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 | 2021-03-11 |  |
 | [Saturday Night](https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU) | [Type B \(1\)](https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC) | 3:42 | 2021-03-11 |  |
 | [Sea Of Love](https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:15 | 2021-03-11 |  |
@@ -91,10 +93,11 @@
 | [내 머리가 나빠서](https://open.spotify.com/track/1cKxbdfl0lytWFFMXsoCEA) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 Best Collection](https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7) | 4:23 | 2021-03-11 |  |
 | [너도 나처럼 I Wonder If You Hurt Like Me](https://open.spotify.com/track/2NDEW4uf4rvM5FytTtBrbZ) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [F.Scott Fitzgerald's Way Of Love](https://open.spotify.com/album/36QzXSj6vmA5tOpylKeZeL) | 3:48 | 2021-03-11 |  |
 | [널 사랑하겠어](https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:35 | 2021-03-11 |  |
-| [다줄께](https://open.spotify.com/track/5OqpfkerEQGI9QppSObwkQ) | [Untouchable](https://open.spotify.com/artist/2HDRkPTO5A59sFcC2ROGbw), [Song Ji Eun](https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8) | [Quiet Storm](https://open.spotify.com/album/0RezqDGvQvKLKhfvp30H2u) | 3:52 | 2021-03-11 |  |
+| [다줄께](https://open.spotify.com/track/5OqpfkerEQGI9QppSObwkQ) | [Untouchable](https://open.spotify.com/artist/2HDRkPTO5A59sFcC2ROGbw), [Song Ji Eun](https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8) | [Quiet Storm](https://open.spotify.com/album/0RezqDGvQvKLKhfvp30H2u) | 3:52 | 2021-03-11 | 2022-12-13 |
 | [대화가 필요해](https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [Change Yourself](https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj) | 4:00 | 2021-03-11 |  |
 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 | 2021-03-11 |  |
 | [비밀번호 486](https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [고백하기 좋은 날](https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV) | 3:48 | 2021-03-11 |  |
+| [사랑..그게 뭔데](https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [The Windows Of My Soul](https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu) | 3:58 | 2021-03-11 |  |
 | [사랑과 전쟁 \- 하하 Narration Version](https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Vivid Summer Edition 1st Amaranth Repackage Album](https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS) | 4:19 | 2021-03-11 |  |
 | [아로하](https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:25 | 2021-03-11 |  |
 | [아무리 생각해도 난 너를](https://open.spotify.com/track/6Ml3XSfeVLUJEZ8OK6aLC6) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb) | [나는가수다 시즌3 1회 '자신의 대표곡'](https://open.spotify.com/album/4taROD1UypCjbIgisuLolT) | 4:33 | 2021-03-11 |  |

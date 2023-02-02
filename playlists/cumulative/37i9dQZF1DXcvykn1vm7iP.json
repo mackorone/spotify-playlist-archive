@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "Beautiful, uplifting Ambient for being in the moment. ",
   "name": "Present Moment",
-  "published_playlist_ids": [
-    "4IVbdAUmvNe0Yl83P8wD6V"
-  ],
   "tracks": [
     {
       "album": {
@@ -68,7 +65,7 @@
       "artists": [
         {
           "name": "Pristeen",
-          "url": "https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh"
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
         }
       ],
       "date_added": "2022-08-05",
@@ -408,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Consciente",
+        "url": "https://open.spotify.com/album/4rm97IdWa90r7umlTVBsyb"
+      },
+      "artists": [
+        {
+          "name": "Elodie Acy",
+          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154511,
+      "name": "Consciente",
+      "url": "https://open.spotify.com/track/2WQctSPwSYFGNUtPQ1I11y"
+    },
+    {
+      "album": {
         "name": "Consolation",
         "url": "https://open.spotify.com/album/2nlJZihKLK6FiycKLEMaQd"
       },
@@ -545,10 +560,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 174000,
       "name": "Equilibrium - Loopable with No Fade",
       "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
+    },
+    {
+      "album": {
+        "name": "Eternal Spaces",
+        "url": "https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8"
+      },
+      "artists": [
+        {
+          "name": "Mystisse",
+          "url": "https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168874,
+      "name": "Eternal Spaces",
+      "url": "https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq"
     },
     {
       "album": {
@@ -707,10 +740,46 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 188698,
       "name": "Here & Now",
       "url": "https://open.spotify.com/track/0MzwONXcdPaDdsEy1SQwKm"
+    },
+    {
+      "album": {
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Improved Focus",
+      "url": "https://open.spotify.com/track/2I6wgXiYhpwJ5D6P2vKXEA"
+    },
+    {
+      "album": {
+        "name": "Independencia",
+        "url": "https://open.spotify.com/album/52ZD56uYSwIjJsDYT1vSm6"
+      },
+      "artists": [
+        {
+          "name": "Miravaldini",
+          "url": "https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206275,
+      "name": "Independencia",
+      "url": "https://open.spotify.com/track/32UTc4rxIFSvAzzrzWXnXU"
     },
     {
       "album": {
@@ -822,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Osceola",
+        "url": "https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE"
+      },
+      "artists": [
+        {
+          "name": "Eyelydia",
+          "url": "https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Let Hold",
+      "url": "https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz"
+    },
+    {
+      "album": {
         "name": "Liquid",
         "url": "https://open.spotify.com/album/4NiRRjKOFlrVglfLfbiuUu"
       },
@@ -930,6 +1017,42 @@
     },
     {
       "album": {
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Mind Balance",
+      "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
+    },
+    {
+      "album": {
+        "name": "Miracles 963 Hz",
+        "url": "https://open.spotify.com/album/7LXqzXuY3fzG7cY0gOYEQJ"
+      },
+      "artists": [
+        {
+          "name": "Drone-Dax",
+          "url": "https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165404,
+      "name": "Miracles 963 Hz",
+      "url": "https://open.spotify.com/track/2nPdV0GQD5RZoCRdHRLvKE"
+    },
+    {
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/31hZ1BCR6HrbzBu0dNehj5"
       },
@@ -1013,7 +1136,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 166678,
       "name": "Next to Nothing",
       "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
@@ -1254,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Rugare",
+        "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
+      },
+      "artists": [
+        {
+          "name": "Tendai Marwan",
+          "url": "https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188691,
+      "name": "Rugare",
+      "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
+    },
+    {
+      "album": {
         "name": "Direct Flight",
         "url": "https://open.spotify.com/album/7xVhHAltBelFy4Iy5i7zqM"
       },
@@ -1409,7 +1550,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 146400,
       "name": "Soundscape - 125 Hz",
       "url": "https://open.spotify.com/track/5aaumNrLeFcJ0BTS23muLa"
@@ -1475,8 +1616,8 @@
       },
       "artists": [
         {
-          "name": "Phala Magna",
-          "url": "https://open.spotify.com/artist/0vFpciAlbVVQRqIOrJW2Dx"
+          "name": "Nomadias",
+          "url": "https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0"
         }
       ],
       "date_added": "2022-08-05",
@@ -1637,8 +1778,8 @@
       },
       "artists": [
         {
-          "name": "Hibiskus",
-          "url": "https://open.spotify.com/artist/092ojOuOkibdb82lTdKhsJ"
+          "name": "Gargantis",
+          "url": "https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz"
         }
       ],
       "date_added": "2022-08-05",
@@ -1719,7 +1860,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 358834,
       "name": "Vishuddha",
       "url": "https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX"
@@ -1737,7 +1878,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 196777,
       "name": "Vivid Imagination",
       "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"

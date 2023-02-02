@@ -4,7 +4,7 @@
 
 > I'll do yours if you do mine...The official playlist for Do Revenge, out now on Netflix.
 
-29 songs - 1 hr 34 min - [published](https://open.spotify.com/playlist/410OJQpYXzSANO7yWQawfF)
+30 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 | 2022-09-16 |  |
 | [Easy Going](https://open.spotify.com/track/7gzkBBKtKil6J9o4OrwNlB) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Simple, Sweet, and Smiling](https://open.spotify.com/album/1nIvucMZCDVpILHipWqVHY) | 2:42 | 2022-09-16 |  |
 | [Flagpole Sitta](https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU) | [Harvey Danger](https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k) | [Where Have All The Merrymakers Gone?](https://open.spotify.com/album/554gpRastI7dbOcir9eAkL) | 3:37 | 2022-09-16 |  |
-| [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:37 | 2022-09-16 |  |
+| [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:37 | 2022-09-16 | 2022-12-02 |
+| [for the girls](https://open.spotify.com/track/3KsjKXNeNMQ56baZH0RFq0) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:37 | 2022-09-16 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-09-16 |  |
 | [How Bizarre \- Orchestral Version](https://open.spotify.com/track/44fUHbxIlad3OpSA4M1Yq2) | [The Symphonic Pops](https://open.spotify.com/artist/1ghQ7AScEoiS2thrUJg2o9) | [Pop Symphony 2015, Vol\. 1](https://open.spotify.com/album/6cgsUIXdA789H6Pp4CbIOF) | 3:47 | 2022-09-16 |  |
 | [How's It Going to Be](https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:13 | 2022-09-16 |  |

@@ -2,9 +2,9 @@
 
 ### [Workout Bangers](https://open.spotify.com/playlist/7DaNB3xvJ4F96C66mQgmpS)
 
-> The best workout playlist is here\. Listen to rap, rock, and electronic bangers from a variety of artists, and discover new favorite tracks to power you through.
+> Workout songs to get your blood pumping and confidence activated\. Listen here to rap and electronic bangers to power your workout and achieve the best you.
 
-69 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/7g7wPnfrY0sMCexNWzHf2K)
+70 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU) | 2:50 | 2022-06-09 | 2022-09-09 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-06-09 |  |
 | [Don't Tell 'Em](https://open.spotify.com/track/0Dc7J9VPV4eOInoxUiZrsL) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:26 | 2022-06-09 | 2022-06-21 |
+| [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2023-01-09 |  |
 | [Enemy](https://open.spotify.com/track/5X3T8jHNIJSXviiDmiBdz0) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Beacon Light](https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Cinematic Songs \(Vol\. 6\)](https://open.spotify.com/album/5a2ea5hbnSiGjluplzuq0v) | 3:10 | 2022-10-24 |  |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2022-06-09 |  |
 | [Enzo \(with Sheck Wes, feat\. Offset, 21 Savage & Gucci Mane\)](https://open.spotify.com/track/16qyARqmuyJ6Dvb9LWa7AO) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Carte Blanche \(Deluxe\)](https://open.spotify.com/album/29bm24DTwhCunUSVYbtXFT) | 4:08 | 2022-06-09 |  |

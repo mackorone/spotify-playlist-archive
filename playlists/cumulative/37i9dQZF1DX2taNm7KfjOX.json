@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Repeat-free hours of new and beloved indie folk. Cover: Skullcrusher",
+  "description": "Repeat-free hours of new and beloved indie folk. Cover: boygenius",
   "name": "Infinite Indie Folk",
-  "published_playlist_ids": [
-    "3LST0f4pA1dtcimgRwJiWD"
-  ],
   "tracks": [
     {
       "album": {
@@ -820,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Bird's Eye View",
+        "url": "https://open.spotify.com/album/6qaYS8r1JJ33nK9rAB59ie"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Bird's Eye View",
+      "url": "https://open.spotify.com/track/2gJBqHbjSuyjP1LAHU93eU"
+    },
+    {
+      "album": {
         "name": "These Changing Skies",
         "url": "https://open.spotify.com/album/4ABBrfxm6w93fE9yqlOgny"
       },
@@ -1409,10 +1424,32 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 181139,
       "name": "Catholic Country",
       "url": "https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3"
+    },
+    {
+      "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181139,
+      "name": "Catholic Country",
+      "url": "https://open.spotify.com/track/6RJq7ki5vvDnLfn8E6EJVV"
     },
     {
       "album": {
@@ -1521,7 +1558,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 116794,
       "name": "Colors",
       "url": "https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou"
@@ -2043,7 +2080,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
@@ -2173,6 +2210,36 @@
       "duration_ms": 168712,
       "name": "Eloise",
       "url": "https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT"
+    },
+    {
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "Emily I'm Sorry",
+      "url": "https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9"
     },
     {
       "album": {
@@ -2429,7 +2496,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 328120,
       "name": "Everything Looks Better (In Hindsight)",
       "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
@@ -2580,6 +2647,40 @@
     },
     {
       "album": {
+        "name": "February",
+        "url": "https://open.spotify.com/album/7zGaWLANarUOQGucqCx9jK"
+      },
+      "artists": [
+        {
+          "name": "Complete Mountain Almanac",
+          "url": "https://open.spotify.com/artist/4VBpeA30apDA7lpsay61FM"
+        },
+        {
+          "name": "Rebekka Karijord",
+          "url": "https://open.spotify.com/artist/4oPxnYcUKmm0pH33ibXd6u"
+        },
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Aaron Dessner",
+          "url": "https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf"
+        },
+        {
+          "name": "Jessica Dessner",
+          "url": "https://open.spotify.com/artist/1j2GQSPTsa51lodwyvdKNm"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 310626,
+      "name": "February",
+      "url": "https://open.spotify.com/track/48kuo7N0uwtsMRJwdO9s7n"
+    },
+    {
+      "album": {
         "name": "Feel (with Kyson)",
         "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
       },
@@ -2667,7 +2768,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Flood",
       "url": "https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1"
@@ -3175,7 +3276,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 293266,
       "name": "Guthrie",
       "url": "https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0"
@@ -3323,7 +3424,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 167173,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5m6VfXYeZVBj5JDeaOlQMX"
@@ -3345,7 +3446,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 301506,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI"
@@ -3479,7 +3580,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 215173,
       "name": "Hummed Low",
       "url": "https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu"
@@ -3551,7 +3652,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 226198,
       "name": "I Don't Deserve It",
       "url": "https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb"
@@ -3689,7 +3790,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 194160,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe"
@@ -3827,7 +3928,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 156219,
       "name": "Is / Was",
       "url": "https://open.spotify.com/track/4TWXHt2u1IXQWxEP1pkzzH"
@@ -4032,6 +4133,36 @@
     },
     {
       "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215689,
+      "name": "Ketchum, ID",
+      "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
+    },
+    {
+      "album": {
         "name": "King of Fools",
         "url": "https://open.spotify.com/album/02hIWtC0Llm6vsVgrY1gpj"
       },
@@ -4043,7 +4174,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 201656,
       "name": "King of Fools",
       "url": "https://open.spotify.com/track/1beFyH38tUxVj7wG6bFxS3"
@@ -4541,10 +4672,46 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 241818,
       "name": "Lydia Wears A Cross",
       "url": "https://open.spotify.com/track/3790YaBSLe4av6IuC7EKSJ"
+    },
+    {
+      "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241818,
+      "name": "Lydia Wears A Cross",
+      "url": "https://open.spotify.com/track/39Xue5JNMm2yLvIma6Ut8u"
+    },
+    {
+      "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/6TojjY9JPhsgR5U6r9g3ZC"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 241818,
+      "name": "Lydia Wears A Cross",
+      "url": "https://open.spotify.com/track/5qRm3dQteQORvgsK7QkM6N"
     },
     {
       "album": {
@@ -5517,7 +5684,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 278316,
       "name": "Rare to Wake",
       "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
@@ -5857,10 +6024,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 208911,
       "name": "Rubberneckers",
       "url": "https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA"
+    },
+    {
+      "album": {
+        "name": "Rushin' River Valley",
+        "url": "https://open.spotify.com/album/7loW3vW3nKN9IV9pD9MHlo"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226996,
+      "name": "Rushin' River Valley",
+      "url": "https://open.spotify.com/track/5tpp3h5cRMNOH1cXlvpQ7s"
     },
     {
       "album": {
@@ -5875,7 +6060,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 196264,
       "name": "Satan",
       "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
@@ -6117,7 +6302,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
@@ -6255,6 +6440,36 @@
       "duration_ms": 216052,
       "name": "Sons and Daughters",
       "url": "https://open.spotify.com/track/42cHw2ivQGAoDROMRVUKNE"
+    },
+    {
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "album": {
@@ -6603,7 +6818,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 225151,
       "name": "That's How You Know",
       "url": "https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3"
@@ -6639,7 +6854,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
@@ -6741,6 +6956,24 @@
     {
       "album": {
         "name": "You Belong There",
+        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230653,
+      "name": "The Last One",
+      "url": "https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz"
+    },
+    {
+      "album": {
+        "name": "You Belong There",
         "url": "https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5"
       },
       "artists": [
@@ -6751,7 +6984,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 230653,
       "name": "The Last One",
       "url": "https://open.spotify.com/track/5ihoKh6U2qCQ3lRXaGi3lh"
@@ -7670,6 +7903,24 @@
     },
     {
       "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277374,
+      "name": "Walk Me Home",
+      "url": "https://open.spotify.com/track/2m5QJpOvrWWA7xuhwK1Rpk"
+    },
+    {
+      "album": {
         "name": "Walking in the Air",
         "url": "https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH"
       },
@@ -7681,7 +7932,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": "2023-01-23",
       "duration_ms": 257842,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
@@ -7861,7 +8112,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
@@ -8081,6 +8332,28 @@
       "duration_ms": 189930,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/33q6BHmiBzHVGkaFAXoRHu"
+    },
+    {
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/06UQRgpwTeKNLS8Stuee28"
+      },
+      "artists": [
+        {
+          "name": "Storefront Church",
+          "url": "https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325443,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/0gffHnqikqMloBsK7KnTBP"
     },
     {
       "album": {

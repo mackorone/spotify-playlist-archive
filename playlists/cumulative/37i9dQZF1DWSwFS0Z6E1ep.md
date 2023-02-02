@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1950s\. Cover: Elvis.
 
-283 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/5d834Vfy0GpgZiax0dUN0t)
+284 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Let's Twist Again](https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [It's Pony Time/Let's Twist Again](https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0) | 2:17 | 2022-06-07 |  |
 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 | 2022-06-07 |  |
 | [Lipstick On Your Collar](https://open.spotify.com/track/1tY8PhIOqDTx1GHDEhSuxh) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [The Collection](https://open.spotify.com/album/5B9weDFlXPPdoxM5HRyreL) | 2:16 | 2021-04-23 | 2022-07-29 |
-| [Lipstick On Your Collar](https://open.spotify.com/track/5Y1GkapUCSqXvoAujohJL2) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:18 | 2022-06-07 |  |
+| [Lipstick On Your Collar](https://open.spotify.com/track/5Y1GkapUCSqXvoAujohJL2) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:18 | 2022-06-07 | 2023-01-09 |
+| [Lipstick On Your Collar](https://open.spotify.com/track/6k9j9Fn10bsv107KJtDJnh) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Rock N' Roll Million Sellers \(Expanded Edition\)](https://open.spotify.com/album/4ZCdD24gksJsgFX3QzOuXG) | 2:19 | 2022-06-07 |  |
 | [Listen to Me Baby](https://open.spotify.com/track/1TmCBDbeAqLVJQisfTV27g) | [Smokey Joe Baugh](https://open.spotify.com/artist/7MJfNyVNdyNcNJ5yrvrTun) | [Jukebox Rockabilly](https://open.spotify.com/album/5uBQwZS0XOPPwMLuQrYQH6) | 2:27 | 2021-04-23 | 2022-07-21 |
 | [Little Bitty Pretty One](https://open.spotify.com/track/1ye9IP87nKYZ5YAGaEv9A1) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [The Little Adventures of Thurston Harris \(65th Anniversary Edition\)](https://open.spotify.com/album/3CKsthBsGTsb5uK4e1TYuq) | 2:23 | 2022-06-07 |  |
 | [Little Bitty Pretty One](https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [Little Bitty Pretty One](https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG) | 2:23 | 2021-04-23 | 2022-07-29 |
@@ -172,7 +173,7 @@
 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/1nuxlcT2IQOzzz8hPB1MZw) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [NOW That's What I Call Motown](https://open.spotify.com/album/4oE29r8F2noxVV9VmzdIL4) | 2:36 | 2022-06-07 | 2022-11-13 |
 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [The Collection](https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi) | 2:38 | 2022-06-07 |  |
 | [Move It \- 2002 Remaster](https://open.spotify.com/track/4vDEkER6ToECKrxiPzE2Tp) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [75 at 75](https://open.spotify.com/album/4tlAPVPMmE4rhnkctUdCeG) | 2:21 | 2021-04-23 | 2022-07-29 |
-| [Move It \- Live; 1998 Remaster](https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Cliff: Cliff Sings](https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er) | 2:18 | 2022-06-07 | 2022-10-18 |
+| [Move It \- Live; 1998 Remaster](https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA) | [Cliff Richard & The Drifters](https://open.spotify.com/artist/1yAdL4L8voXQspjN6rdj4b) | [Cliff: Cliff Sings](https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er) | 2:18 | 2022-06-07 | 2023-01-25 |
 | [Mr\. Sandman](https://open.spotify.com/track/1jFMxPxfENtR7b4EV8A2vm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Wonderful One](https://open.spotify.com/album/5KvbVd1P8Y8bfu2KyZr6SJ) | 2:27 | 2022-06-07 |  |
 | [My Baby](https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:21 | 2021-04-23 | 2022-06-08 |
 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 | 2022-04-29 | 2022-11-13 |

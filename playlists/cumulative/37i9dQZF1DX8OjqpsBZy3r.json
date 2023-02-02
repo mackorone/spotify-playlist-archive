@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "The trending country songs and viral hits you need to know. Cover: Hailey Whitters",
   "name": "Viral Country",
-  "published_playlist_ids": [
-    "5RPUuOuY7lpUPnjhceluUd"
-  ],
   "tracks": [
     {
       "album": {
@@ -849,10 +846,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 224581,
       "name": "Hair Salon",
       "url": "https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG"
+    },
+    {
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224581,
+      "name": "Hair Salon",
+      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
     },
     {
       "album": {
@@ -1000,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "it's been a year",
+        "url": "https://open.spotify.com/album/0wsETlKs4fptjLrGDKY2U4"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216670,
+      "name": "it's been a year",
+      "url": "https://open.spotify.com/track/2untQJbPOaB1BjyZKIVuZv"
+    },
+    {
+      "album": {
         "name": "Jealous Of The Sky",
         "url": "https://open.spotify.com/album/5olugkWtxs5ZXqJnCUntRY"
       },
@@ -1141,6 +1174,24 @@
       "duration_ms": 223200,
       "name": "Like A Boy",
       "url": "https://open.spotify.com/track/1ibBdYjfVVqFOA04Q0NnJ6"
+    },
+    {
+      "album": {
+        "name": "Like It's His Job",
+        "url": "https://open.spotify.com/album/4X4SpT943uu7LdqO3e5XcI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Johnston",
+          "url": "https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Like It's His Job",
+      "url": "https://open.spotify.com/track/05L9H4HP2pNhXYIunYk6zr"
     },
     {
       "album": {
@@ -1980,6 +2031,24 @@
     },
     {
       "album": {
+        "name": "Shoot Tequila",
+        "url": "https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193898,
+      "name": "Shoot Tequila",
+      "url": "https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw"
+    },
+    {
+      "album": {
         "name": "Side Effects",
         "url": "https://open.spotify.com/album/38q9a6NcGWx8y1uu0NZgNG"
       },
@@ -2081,10 +2150,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
+    },
+    {
+      "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
     },
     {
       "album": {
@@ -2121,6 +2208,24 @@
       "duration_ms": 200593,
       "name": "The Git Up",
       "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
+    },
+    {
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211315,
+      "name": "The Good I'll Do",
+      "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
     },
     {
       "album": {

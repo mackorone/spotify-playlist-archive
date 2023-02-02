@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Relive last night's fun with jigs and reels out of Ireland \u2013 alongside trad tracks inspired and influenced by Celtic traditions.",
   "name": "Irish Folk",
-  "published_playlist_ids": [
-    "3R1gdsjJm62brrPUBTLlxw"
-  ],
   "tracks": [
     {
       "album": {
@@ -1509,6 +1506,28 @@
     {
       "album": {
         "name": "Yvonne Casey",
+        "url": "https://open.spotify.com/album/4tls5MJzyRgAtnGquJP9Ai"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Casey",
+          "url": "https://open.spotify.com/artist/21AG1sQHWCkkVbpHmpmYo4"
+        },
+        {
+          "name": "Eoin O'Neill",
+          "url": "https://open.spotify.com/artist/5WjZM7TNxYLOc9d7fX0OwG"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250426,
+      "name": "Reels: Liz Carroll's / Paddy Ryan's Dream",
+      "url": "https://open.spotify.com/track/0dqpDQd9ne4GPUpzsrAsp6"
+    },
+    {
+      "album": {
+        "name": "Yvonne Casey",
         "url": "https://open.spotify.com/album/1gnHAawyGZzM5e8wyfD0to"
       },
       "artists": [
@@ -1519,7 +1538,7 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 250426,
       "name": "Reels: Liz Carroll's, Paddy Ryan's Dream (feat. Eoin O'Neill)",
       "url": "https://open.spotify.com/track/5Rrjzr6ZuWfda10aATld8W"
@@ -1793,10 +1812,28 @@
       ],
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 135253,
       "name": "The Black Rogue / Morrisons",
       "url": "https://open.spotify.com/track/2W5OYrO4pf1jf0lFttbfUJ"
+    },
+    {
+      "album": {
+        "name": "A Man Apart",
+        "url": "https://open.spotify.com/album/1V3dMzrf32ZQaxUaK2cC7U"
+      },
+      "artists": [
+        {
+          "name": "Sean Maguire",
+          "url": "https://open.spotify.com/artist/7dP7qNfHowP143GPBag31y"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135253,
+      "name": "The Black Rogue / Morrisons",
+      "url": "https://open.spotify.com/track/3ooiN8bT2gx1hzDokGpQpI"
     },
     {
       "album": {
@@ -2407,7 +2444,7 @@
     {
       "album": {
         "name": "Heaven Depends",
-        "url": "https://open.spotify.com/album/3TZjNSWnlMnNiQGJtwoGp5"
+        "url": "https://open.spotify.com/album/4t8VG3SpiS22Ugs3bu4CUf"
       },
       "artists": [
         {
@@ -2418,6 +2455,24 @@
       "date_added": "2020-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 78710,
+      "name": "Tuttle's Reel",
+      "url": "https://open.spotify.com/track/4hBnSQbRDTOO85HI6FYqva"
+    },
+    {
+      "album": {
+        "name": "Heaven Depends",
+        "url": "https://open.spotify.com/album/3TZjNSWnlMnNiQGJtwoGp5"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "date_added": "2020-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
       "duration_ms": 78710,
       "name": "Tuttle's Reel",
       "url": "https://open.spotify.com/track/55T8dngArgGkHMA5a46jK6"

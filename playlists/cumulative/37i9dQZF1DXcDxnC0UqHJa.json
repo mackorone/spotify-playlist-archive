@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
+  "description": "Folksy takes on your favorite tracks. Cover: Josiah and the Bonnevilles",
   "name": "Folksy Covers",
-  "published_playlist_ids": [
-    "6KADyqBu5lIdzQAumGvv1d"
-  ],
   "tracks": [
     {
       "album": {
@@ -417,7 +414,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
@@ -910,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Crooked Tree (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212251,
+      "name": "Dire Wolf - Bonus Track",
+      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+    },
+    {
+      "album": {
         "name": "Interpretations",
         "url": "https://open.spotify.com/album/5thz6N5JQn2qhU5fQPtKfa"
       },
@@ -1335,6 +1354,32 @@
       "duration_ms": 417533,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/6QhhnBsVJ8WepUb1KLTFFH"
+    },
+    {
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/5e8eSj5xIgJxdmHMphwUcB"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        },
+        {
+          "name": "Jordan C. Brown",
+          "url": "https://open.spotify.com/artist/2Be71FORRclLcc097kl39G"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301456,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0QCZRTDJbGo40h7mWL8Pa2"
     },
     {
       "album": {
@@ -1951,7 +1996,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 201173,
       "name": "How Sweet It Is",
       "url": "https://open.spotify.com/track/69BNeK0GK76eo8qgIOw8AH"
@@ -2131,7 +2176,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 304693,
       "name": "If I Were A Carpenter",
       "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
@@ -2330,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198274,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM"
+    },
+    {
+      "album": {
         "name": "The Bridge School Concerts 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
       },
@@ -2496,6 +2559,28 @@
     },
     {
       "album": {
+        "name": "Let Down",
+        "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        },
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237013,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo"
+    },
+    {
+      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/3I1zi5eB3rHCYye20JoG2U"
       },
@@ -2601,7 +2686,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 205760,
       "name": "Look At Miss Ohio",
       "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
@@ -3025,7 +3110,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 149445,
       "name": "Reason to Believe (feat. Courtney Barnett)",
       "url": "https://open.spotify.com/track/7aDf2PpDNfT5NbKEIZVKtW"
@@ -3137,6 +3222,24 @@
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "album": {
+        "name": "Skinny Love (Country Version)",
+        "url": "https://open.spotify.com/album/6RSaaIs4oHwZuA5wh9muvC"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158340,
+      "name": "Skinny Love (Country Version)",
+      "url": "https://open.spotify.com/track/7gUDLbl3co7AL5oo4xPYu9"
     },
     {
       "album": {
@@ -3445,7 +3548,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 200666,
       "name": "Talk to Me of Mendocino",
       "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
@@ -3525,7 +3628,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 225151,
       "name": "That's How You Know",
       "url": "https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3"
@@ -4319,6 +4422,24 @@
       "duration_ms": 201160,
       "name": "You Turn Me On, I'm A Radio",
       "url": "https://open.spotify.com/track/2TUSsSw38J1S1BHI78XMYT"
+    },
+    {
+      "album": {
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "You Turn Me On, I'm a Radio - Acoustic",
+      "url": "https://open.spotify.com/track/0mdOBageiouWrzRnQTCkJH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcDxnC0UqHJa"

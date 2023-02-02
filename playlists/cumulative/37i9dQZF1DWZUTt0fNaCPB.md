@@ -4,12 +4,12 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-190 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/21ccch0oSyRxb8T4kGUPOS)
+190 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(This Is Our\) House](https://open.spotify.com/track/3GJWE7h5Maov5ZiA8UAmaL) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [\(This Is Our\) House](https://open.spotify.com/album/6Q2n3poyBZofloxREzVeE3) | 4:18 | 2021-12-15 | 2022-07-27 |
-| [1234](https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [A Million Degrees](https://open.spotify.com/album/1aqmmK0ORKz719r7MLMHQO) | 3:22 | 2022-07-05 | 2022-11-12 |
+| [1234](https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [A Million Degrees](https://open.spotify.com/album/1aqmmK0ORKz719r7MLMHQO) | 3:22 | 2022-07-05 |  |
 | [1234](https://open.spotify.com/track/4Mbj2NKklmBRfs0ekO6cQ5) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [1234](https://open.spotify.com/album/55qWVcSQBFn5odd33hc1Ie) | 3:22 | 2021-12-15 | 2022-07-29 |
 | [365](https://open.spotify.com/track/6NgdiN6wiPU7a3bgU85tKV) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [365](https://open.spotify.com/album/5OIeDqGRB3hbUOf7bbubEJ) | 3:28 | 2022-04-01 | 2022-04-21 |
 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 | 2021-12-15 |  |
@@ -75,7 +75,7 @@
 | [Gasoline](https://open.spotify.com/track/4tI180nOZaAmzGifuSTI7z) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Seether: 2002\-2013](https://open.spotify.com/album/5xzZCLPg7UiMeaojIMDonl) | 2:49 | 2021-12-15 | 2022-07-25 |
 | [Get It](https://open.spotify.com/track/0vXC7Q017BJWeytEmDUPNy) | [Deepfield](https://open.spotify.com/artist/7wBfoMAxS8VHDwIFnh6cVi) | [Archetypes And Repitition](https://open.spotify.com/album/2Y8yYRXjdNM5nZzptt8WWy) | 2:50 | 2021-12-15 | 2022-07-29 |
 | [Ghost](https://open.spotify.com/track/2B9ztwpxtcAua0Ngk5wQs5) | [MoTHER](https://open.spotify.com/artist/0fa5XJzeS56zckUtozSqNl) | [A New Life](https://open.spotify.com/album/5cevjx9VGAUDAyoGYtMk4V) | 3:53 | 2022-04-01 | 2022-04-20 |
-| [Golden Woman](https://open.spotify.com/track/1T3H1dYVlvYrt8Jmbp1Ui0) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Golden Woman](https://open.spotify.com/album/4iNkJBmqNBp69kfaLTrVGm) | 3:08 | 2022-06-08 |  |
+| [Golden Woman](https://open.spotify.com/track/1T3H1dYVlvYrt8Jmbp1Ui0) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Golden Woman](https://open.spotify.com/album/4iNkJBmqNBp69kfaLTrVGm) | 3:08 | 2022-06-08 | 2023-01-28 |
 | [Gunfight](https://open.spotify.com/track/0is4yL58CcQ4Gv4WgTGr9N) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Connect](https://open.spotify.com/album/6rL7tAqRqT4DL4I1bcADTi) | 2:55 | 2021-12-15 |  |
 | [Gunpowder](https://open.spotify.com/track/1VsD2j8Zt6zCNpQlNYxiPq) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [Gunpowder](https://open.spotify.com/album/4ZX1nPgiTZOHZSRSHBKe2s) | 3:37 | 2021-12-15 | 2022-07-27 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2021-12-15 |  |
@@ -108,7 +108,7 @@
 | [Little Tyrants](https://open.spotify.com/track/12fvjY2vePAPvMWwdaJcy9) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Vital](https://open.spotify.com/album/48FcnU2DKSJ0uwx6Odd7oR) | 3:21 | 2021-12-15 | 2022-07-29 |
 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:41 | 2022-07-05 |  |
 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5hQfs9spSyXUavvPe7jmgn) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/300egwhkQSsKEFLbZgFa36) | 2:41 | 2022-02-17 | 2022-04-21 |
-| [Low Down Dirty](https://open.spotify.com/track/7Gutanf1Mf2r8ASTlrR5ku) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Last of a Dyin' Breed \(Special Edition\)](https://open.spotify.com/album/4rRCrcBlh0Io9edrPT0oxd) | 3:14 | 2021-12-15 | 2022-11-13 |
+| [Low Down Dirty](https://open.spotify.com/track/7Gutanf1Mf2r8ASTlrR5ku) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Last of a Dyin' Breed \(Special Edition\)](https://open.spotify.com/album/4rRCrcBlh0Io9edrPT0oxd) | 3:14 | 2021-12-15 | 2023-02-02 |
 | [Low Life](https://open.spotify.com/track/4yKnTwWOmQjMTF6U9sgWtY) | [DIRT](https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa) | [Low Life](https://open.spotify.com/album/3SVsxqKsdad0fd8rBbdqCN) | 4:20 | 2021-12-15 | 2022-07-29 |
 | [Meltdown](https://open.spotify.com/track/4dygpyJlyJuYzceP5NDqEq) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Meltdown](https://open.spotify.com/album/36bwF1my0DismYHisjElaP) | 3:11 | 2021-12-15 | 2022-07-29 |
 | [Monster](https://open.spotify.com/track/5apUdi1b0lvZw574hq1Fsr) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Anon.](https://open.spotify.com/album/5dzY1VnrN9aVwJma8PZVTF) | 3:27 | 2022-04-01 | 2022-04-27 |
@@ -192,7 +192,7 @@
 | [Where Ya Gonna Crash Tonight?](https://open.spotify.com/track/1FAjobOtbsZE56OIDFXruG) | [Them Evils](https://open.spotify.com/artist/3ASZko2LtiqddApAlKF7Cf) | [Where Ya Gonna Crash Tonight?](https://open.spotify.com/album/1IaElXsP0iP6lLwaEyCeL7) | 2:51 | 2021-12-15 | 2022-07-29 |
 | [Who Do You Trust?](https://open.spotify.com/track/7kJkTFmKYHrp9LT8w0oqpG) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/7HL8ZuakXsPF3XxmKaxIoz) | 3:16 | 2021-12-15 | 2022-07-29 |
 | [Witch Hunt](https://open.spotify.com/track/6ye8AdkpHcYQLlHUXZkrUn) | [Nicumo](https://open.spotify.com/artist/7z2nNVchTS9FTHP9qnJqDt) | [Witch Hunt](https://open.spotify.com/album/4vvW52mcvUtJb2PvhbgtXl) | 4:43 | 2022-04-01 | 2022-04-20 |
-| [Word Up!](https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T) | 2:52 | 2021-12-15 | 2022-11-18 |
+| [Word Up!](https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T) | 2:52 | 2021-12-15 | 2023-01-18 |
 | [World On Fire](https://open.spotify.com/track/0GnU2sNVI6uP1tlmkVfiEt) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [World On Fire](https://open.spotify.com/album/3ZyFMWdKyIYxCLbK40OvcV) | 4:31 | 2021-12-15 | 2022-07-29 |
 | [Wrong Direction](https://open.spotify.com/track/4hpTKkNF9yvip5ZE8BleO7) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Wrong Direction](https://open.spotify.com/album/7B3s7P5424vohP5T8cZxTW) | 5:09 | 2021-12-15 | 2022-07-13 |
 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Felons and Revolutionaries](https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db) | 2:43 | 2021-12-15 |  |

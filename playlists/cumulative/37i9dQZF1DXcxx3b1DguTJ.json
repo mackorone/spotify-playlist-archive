@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-02-10",
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
   "name": "Pa Planchar",
-  "published_playlist_ids": [
-    "5BZpjfAsenVsYue4wUAkkk"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188106,
+      "name": "A Esa",
+      "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
+    },
     {
       "album": {
         "name": "Bravo Bos\u00e9 - 30 Grandes Exitos",
@@ -134,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229040,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
+    },
+    {
+      "album": {
         "name": "Celebridades- Daniela Romo",
         "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
@@ -145,7 +178,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 162146,
       "name": "Celos",
       "url": "https://open.spotify.com/track/7gRzF4kg2uj3Xm7YLhHREW"
@@ -163,7 +196,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 185373,
       "name": "Como La Flor - Remastered",
       "url": "https://open.spotify.com/track/5g1R8oqokXMiVTXwQjgBZ7"
@@ -365,7 +398,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 294040,
       "name": "Gloria - Spanish Version",
       "url": "https://open.spotify.com/track/7rXIZ4HSQP2lCCkcA3SMXg"
@@ -405,10 +438,28 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 217506,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/7aOFPde65u12EJmh1dr7uL"
+    },
+    {
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "album": {
@@ -477,7 +528,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 234613,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/3xsG73ILmFgcGSYACw21Hg"
@@ -513,7 +564,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 247666,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/75LnQfkIrWULh37HOmepMT"
@@ -610,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254933,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
+    },
+    {
+      "album": {
         "name": "Flans",
         "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
       },
@@ -646,6 +715,24 @@
     },
     {
       "album": {
+        "name": "El Alma Joven",
+        "url": "https://open.spotify.com/album/4hHp9T1rXDszlmY3up1fNq"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185186,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/00rGmWgFkJ3qBnbAVUr8tj"
+    },
+    {
+      "album": {
         "name": "15 A\u00f1os Baladas \u00c9xitos",
         "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
       },
@@ -657,10 +744,46 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 186373,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0"
+    },
+    {
+      "album": {
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
+    },
+    {
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327240,
+      "name": "Otro D\u00eda M\u00e1s Sin Verte",
+      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
     },
     {
       "album": {
@@ -675,7 +798,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 179666,
       "name": "Pobre Secretaria",
       "url": "https://open.spotify.com/track/36ipo4yqPvYkTOmZct0oNi"
@@ -693,7 +816,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 204373,
       "name": "Por qu\u00e9 me abandonaste - Aspettami ogni sera",
       "url": "https://open.spotify.com/track/27R12yzNV7OYRG3fUDtZxD"
@@ -837,7 +960,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 208000,
       "name": "Siempre en Mi Mente",
       "url": "https://open.spotify.com/track/6y6neV1K4D7kADLXGZe2gG"
@@ -873,7 +996,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 244159,
       "name": "Te Amo (Ti Amo ) - Spanish Version",
       "url": "https://open.spotify.com/track/6RbcxIRsiOdTNhOvdIyX5M"
@@ -905,13 +1028,17 @@
         {
           "name": "Alejandro Sanz",
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 277453,
-      "name": "Te lo agradezco, pero no",
+      "name": "Te lo agradezco, pero no (feat. Shakira)",
       "url": "https://open.spotify.com/track/67g3Wn5bMFDV4qGICl4u6J"
     },
     {
@@ -967,6 +1094,42 @@
       "duration_ms": 212226,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+    },
+    {
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Tu Pirata Soy Yo",
+      "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
+    },
+    {
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
     },
     {
       "album": {
@@ -1078,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243573,
+      "name": "Y Volver\u00e9",
+      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
+    },
+    {
+      "album": {
         "name": "Celebridades- Daniela Romo",
         "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
@@ -1093,6 +1274,24 @@
       "duration_ms": 231440,
       "name": "Yo No Te Pido La Luna",
       "url": "https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE"
+    },
+    {
+      "album": {
+        "name": "Pecado Original",
+        "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201040,
+      "name": "\u00a1Ay Amor!",
+      "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
     },
     {
       "album": {

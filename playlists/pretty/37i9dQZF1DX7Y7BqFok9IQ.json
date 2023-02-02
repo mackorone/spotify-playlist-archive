@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 136943,
+  "num_followers": 140199,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDk4NTliYTFiMTM5YWMzYjgzMWViOGU3OTU5MDg0M2Vk",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGU2NmViNzFjNjIzN2U0YTRkMmU0YzlmYWY3MjBlMDU3",
   "tracks": [
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Jared James Nichols",
+        "url": "https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL"
+      },
+      "artists": [
+        {
+          "name": "Jared James Nichols",
+          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+        }
+      ],
+      "duration_ms": 257357,
+      "name": "Easy Come, Easy Go",
+      "url": "https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV"
+    },
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
@@ -23,54 +39,6 @@
       "duration_ms": 301760,
       "name": "Black Roses",
       "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Ballad of a Thin Man",
-        "url": "https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 393586,
-      "name": "Ballad of a Thin Man",
-      "url": "https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Louder",
-        "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
-      },
-      "artists": [
-        {
-          "name": "Chris Leamy",
-          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
-        }
-      ],
-      "duration_ms": 165954,
-      "name": "Louder",
-      "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "High Voltage Blues",
-        "url": "https://open.spotify.com/album/0ieocMI2zlwYG0JcJUq6Ey"
-      },
-      "artists": [
-        {
-          "name": "Anthony Gomes",
-          "url": "https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg"
-        }
-      ],
-      "duration_ms": 225309,
-      "name": "Painted Horse",
-      "url": "https://open.spotify.com/track/312chAE7wHDSz5tbxmKljM"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -89,6 +57,22 @@
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
+      "added_at": "2023-01-20 05:00:59",
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "duration_ms": 249870,
+      "name": "Head Above Water",
+      "url": "https://open.spotify.com/track/32bIll1Vlij9BjKa2e8clR"
+    },
+    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "QCNH",
@@ -105,68 +89,36 @@
       "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
+      "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Give It Back To You",
-        "url": "https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3"
+        "name": "Hurricane Coming",
+        "url": "https://open.spotify.com/album/2d1iNTtLFGZs5aXlEKSUfC"
       },
       "artists": [
         {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
         }
       ],
-      "duration_ms": 253746,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R"
+      "duration_ms": 212760,
+      "name": "Hurricane Coming",
+      "url": "https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF"
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
       },
       "artists": [
         {
-          "name": "Orianthi",
-          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
         }
       ],
-      "duration_ms": 228517,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 465960,
-      "name": "When My Train Pulls In",
-      "url": "https://open.spotify.com/track/2mdxGlwrhtkuxgzbH7LOIh"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Come For Me",
-        "url": "https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 209667,
-      "name": "Come For Me",
-      "url": "https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj"
+      "duration_ms": 181680,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/0wjNy6Y2S0tZkykclifcRE"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -183,6 +135,22 @@
       "duration_ms": 146178,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "High Voltage Blues",
+        "url": "https://open.spotify.com/album/0ieocMI2zlwYG0JcJUq6Ey"
+      },
+      "artists": [
+        {
+          "name": "Anthony Gomes",
+          "url": "https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg"
+        }
+      ],
+      "duration_ms": 225309,
+      "name": "Painted Horse",
+      "url": "https://open.spotify.com/track/312chAE7wHDSz5tbxmKljM"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -217,20 +185,68 @@
       "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 214842,
-      "name": "What's the Trick?",
-      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
+      "duration_ms": 465960,
+      "name": "When My Train Pulls In",
+      "url": "https://open.spotify.com/track/2mdxGlwrhtkuxgzbH7LOIh"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Give It Back To You",
+        "url": "https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "WAYS",
+        "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 181218,
+      "name": "Any Way the Wind Blows",
+      "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Nowhere Everywhere",
+        "url": "https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko"
+      },
+      "artists": [
+        {
+          "name": "The Wanton Bishops",
+          "url": "https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "Sailing Down",
+      "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -265,20 +281,20 @@
       "url": "https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
+      "added_at": "2022-04-08 04:01:00",
       "album": {
-        "name": "WAYS",
-        "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
       },
       "artists": [
         {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 181218,
-      "name": "Any Way the Wind Blows",
-      "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -313,38 +329,6 @@
       "url": "https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Nowhere Everywhere",
-        "url": "https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko"
-      },
-      "artists": [
-        {
-          "name": "The Wanton Bishops",
-          "url": "https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Sailing Down",
-      "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
-    },
-    {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Hardware",
@@ -359,22 +343,6 @@
       "duration_ms": 153760,
       "name": "My Lucky Card",
       "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
-    },
-    {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -393,6 +361,22 @@
       "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
     },
     {
+      "added_at": "2021-04-30 04:01:00",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Blak and Blu (Deluxe Edition)",
@@ -409,6 +393,22 @@
       "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
+    },
+    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Black Holes",
@@ -423,6 +423,38 @@
       "duration_ms": 219586,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Come For Me",
+        "url": "https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 209667,
+      "name": "Come For Me",
+      "url": "https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -445,20 +477,36 @@
       "url": "https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
+      "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Sugar and Spice",
-        "url": "https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL"
+        "name": "World Boogie Is Coming",
+        "url": "https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94"
       },
       "artists": [
         {
-          "name": "Jocelyn & Chris Arndt",
-          "url": "https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R"
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
         }
       ],
-      "duration_ms": 214921,
-      "name": "Sugar and Spice",
-      "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
+      "duration_ms": 155986,
+      "name": "Rollin 'N Tumblin",
+      "url": "https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Hannah Wicklund & The Steppin Stones",
+        "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "duration_ms": 164645,
+      "name": "Bomb Through the Breeze",
+      "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -475,38 +523,6 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "play it pretty",
-        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "dirty claws",
-      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -545,20 +561,68 @@
       "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
+      "added_at": "2021-04-16 04:01:00",
       "album": {
-        "name": "Hannah Wicklund & The Steppin Stones",
-        "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
       },
       "artists": [
         {
-          "name": "Hannah Wicklund",
-          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 164645,
-      "name": "Bomb Through the Breeze",
-      "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
+      "duration_ms": 232048,
+      "name": "Crawling Kingsnake - Edit",
+      "url": "https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "play it pretty",
+        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "dirty claws",
+      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Truth Be Told EP",
+        "url": "https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR"
+      },
+      "artists": [
+        {
+          "name": "Cam Cole",
+          "url": "https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S"
+        }
+      ],
+      "duration_ms": 166862,
+      "name": "Truth Be Told",
+      "url": "https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "John The Conqueror",
+        "url": "https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp"
+      },
+      "artists": [
+        {
+          "name": "John The Conqueror",
+          "url": "https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -575,6 +639,38 @@
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Nothing But The Blues",
+        "url": "https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 201803,
+      "name": "Nothing But The Blues",
+      "url": "https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/1E1B4ha9E39VuR2c5XhyoF"
+      },
+      "artists": [
+        {
+          "name": "Orianthi",
+          "url": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+        }
+      ],
+      "duration_ms": 228517,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -609,22 +705,6 @@
       "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
     },
     {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 232048,
-      "name": "Crawling Kingsnake - Edit",
-      "url": "https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP"
-    },
-    {
       "added_at": "2021-02-19 05:01:00",
       "album": {
         "name": "The Ides of March",
@@ -643,50 +723,18 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "World Boogie Is Coming",
-        "url": "https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94"
+        "name": "Ones to Keep Close",
+        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
       },
       "artists": [
         {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
         }
       ],
-      "duration_ms": 155986,
-      "name": "Rollin 'N Tumblin",
-      "url": "https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "John The Conqueror",
-        "url": "https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp"
-      },
-      "artists": [
-        {
-          "name": "John The Conqueror",
-          "url": "https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "All Alone",
-      "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Nothing But The Blues",
-        "url": "https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 201803,
-      "name": "Nothing But The Blues",
-      "url": "https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ"
+      "duration_ms": 196843,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -703,70 +751,6 @@
       "duration_ms": 206173,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Say You Will",
-      "url": "https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "True Lies",
-        "url": "https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "True Lies",
-      "url": "https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Made In Muscle Shoals Vol. 2",
-        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "Got Love - Made In Muscle Shoals",
-      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Ones to Keep Close",
-        "url": "https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 196843,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
     },
     {
       "added_at": "2021-03-05 05:01:00",
@@ -789,36 +773,52 @@
       "url": "https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Down the Drain",
-        "url": "https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6"
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
       },
       "artists": [
         {
-          "name": "Jared James Nichols",
-          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 208816,
-      "name": "Down the Drain",
-      "url": "https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9"
+      "duration_ms": 234546,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf"
     },
     {
-      "added_at": "2021-03-26 04:01:00",
+      "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
       },
       "artists": [
         {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
         }
       ],
-      "duration_ms": 206618,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6"
+      "duration_ms": 169781,
+      "name": "God Damn Wolf Man",
+      "url": "https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 200787,
+      "name": "Stone's Throw",
+      "url": "https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1"
     }
   ],
   "unique_name": "Modern Blues Rock",

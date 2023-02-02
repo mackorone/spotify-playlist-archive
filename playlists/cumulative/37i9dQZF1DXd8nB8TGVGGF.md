@@ -4,7 +4,7 @@
 
 > The best Blues for a long trip behind the wheel.
 
-140 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
+141 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All Your Love \- Mono](https://open.spotify.com/track/6jKcmgac1pj1iaqBPsF3rF) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:35 | 2022-05-25 |  |
 | [Big Legs, Tight Skirt](https://open.spotify.com/track/1RjsFNsXnkFETdkLNRpAg0) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:17 | 2022-05-25 |  |
 | [Billy Boy's Jump](https://open.spotify.com/track/1FdYBTTaSGYMaz1zf42kzJ) | [Billy Boy Arnold](https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o) | [Goin' To Chicago](https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K) | 2:31 | 2022-05-25 |  |
+| [Black Cat Moan](https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 3:46 | 2023-01-27 |  |
 | [Black Rat \- Take 4](https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 2:52 | 2022-05-25 |  |
 | [Blue Shadows](https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 5:09 | 2022-05-25 |  |
 | [Blues For Hawaiians](https://open.spotify.com/track/0FvO7DbDxOr5LKyKhMAwe9) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 3:23 | 2022-05-25 |  |
@@ -133,7 +134,7 @@
 | [The Same Thing](https://open.spotify.com/track/59On35IawOw3kdsUv6wiu6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 5:43 | 2022-05-25 |  |
 | [The Stumble](https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 2:51 | 2022-05-25 |  |
 | [Tom Cat](https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 3:37 | 2022-05-25 |  |
-| [Two Way Wishing](https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:46 | 2022-05-25 |  |
+| [Two Way Wishing](https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Tramp / Soul](https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo) | 2:46 | 2022-05-25 | 2023-01-28 |
 | [Uh Huh My Baby](https://open.spotify.com/track/1smUyCwjopLiEnkyzypWOW) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Basic Soul](https://open.spotify.com/album/5WRNrna2YPWvQtfgCVU7Of) | 3:52 | 2022-05-25 |  |
 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 | 2022-05-27 |  |
 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 | 2022-05-25 |  |

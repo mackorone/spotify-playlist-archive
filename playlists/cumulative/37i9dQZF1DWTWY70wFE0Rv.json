@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This playlist is a soundtrack for you to live your best life, to experience the best love you will ever have, to remember that in the moments where things feel hard, hard times don't last forever. With Love, <a href=\"https://www.theokraproject.com/\">The Okra Project</a> | Cover: Dominique Morgan",
   "name": "For Black Love, Living and Joy",
-  "published_playlist_ids": [
-    "3Gf6ys8rN3kfNRvU11Rtik"
-  ],
   "tracks": [
     {
       "album": {
@@ -135,6 +132,40 @@
     {
       "album": {
         "name": "Dive",
+        "url": "https://open.spotify.com/album/0mVjKHAu5fOspH28mdaT2K"
+      },
+      "artists": [
+        {
+          "name": "Asanni Armon",
+          "url": "https://open.spotify.com/artist/2c4SvUMW4DTtQL6o3XAT2W"
+        },
+        {
+          "name": "Doug Thee Savage",
+          "url": "https://open.spotify.com/artist/5qg3wWsQAz1oQ7iYiiMp2v"
+        },
+        {
+          "name": "PHARAOH RAPTURE",
+          "url": "https://open.spotify.com/artist/5o1tQEJ0hOBlMQ0Ki6OBFS"
+        },
+        {
+          "name": "s.e.r",
+          "url": "https://open.spotify.com/artist/03iO7GSdDJazWl7NBWBbDp"
+        },
+        {
+          "name": "Saint Justina",
+          "url": "https://open.spotify.com/artist/1eZcVz4GXfA07vmA9ib2mI"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249729,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0S6N1NfZ7CNYDgTlqYr5A9"
+    },
+    {
+      "album": {
+        "name": "Dive",
         "url": "https://open.spotify.com/album/7L4gV9Og1WCJDQFFA7f8yw"
       },
       "artists": [
@@ -161,7 +192,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 249729,
       "name": "Dive",
       "url": "https://open.spotify.com/track/6qCJs5tpKRER18Ev4s7KGA"

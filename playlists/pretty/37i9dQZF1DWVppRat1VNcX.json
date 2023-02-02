@@ -1,12 +1,12 @@
 {
   "description": "Get all your kids' amigos together and play while listening to these awesome tunes!",
-  "num_followers": 570,
+  "num_followers": 585,
   "original_name": "Amigos Playtime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgwMzA4MCwwMDAwMDAwMGUxYjlmNjU4YzUxMTM5OWZkMTQ1NWM0OTU2NjMwMTkz",
+  "snapshot_id": "MTY0MDgwMzA4MCwwMDAwMDAwMDA1ZGZlOTg4ODAyYTlkZjVmMTUxOWEwMTM5OTAzYzQx",
   "tracks": [
     {
       "added_at": "2021-01-07 21:48:30",
@@ -179,34 +179,34 @@
     {
       "added_at": "2020-04-22 18:50:09",
       "album": {
-        "name": "Songs Of Harmony (Espa\u00f1ol / Music From The Original TV Series)",
-        "url": "https://open.spotify.com/album/2QMlIIooGHnWvCM8YNf7lX"
+        "name": "Friendship Is Magic: Songs Of Harmony (Music From The Original TV Series) [Spanish Version]",
+        "url": "https://open.spotify.com/album/0oZEO0Je0xCZAL80Pg0QXs"
       },
       "artists": [
         {
-          "name": "Rarity",
-          "url": "https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era"
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
         },
         {
           "name": "Rainbow Dash",
           "url": "https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n"
         },
         {
-          "name": "Pinkie Pie",
-          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+          "name": "Fluttershy",
+          "url": "https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU"
+        },
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era"
         },
         {
           "name": "Apple Jack",
           "url": "https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT"
-        },
-        {
-          "name": "Fluttershy",
-          "url": "https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU"
         }
       ],
       "duration_ms": 152234,
-      "name": "Generosidad",
-      "url": "https://open.spotify.com/track/4NLko9kZnPlKdNc0LuSFjZ"
+      "name": "Generosity - Spanish",
+      "url": "https://open.spotify.com/track/77OKtbAMm9wyymMHiqwTga"
     },
     {
       "added_at": "2020-04-22 18:50:09",
@@ -459,18 +459,38 @@
     {
       "added_at": "2020-04-22 18:50:09",
       "album": {
-        "name": "Equestria Girls - EP (Espa\u00f1ol / Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5JJsZFJqyY1t0nJwI6BnQM"
+        "name": "Equestria Girls (Original Motion Picture Soundtrack) [Espa\u00f1ol Version]",
+        "url": "https://open.spotify.com/album/21xLInS9Ywz3oKwWPL7VgQ"
       },
       "artists": [
         {
-          "name": "My Little Pony",
-          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+          "name": "Twilight Sparkle",
+          "url": "https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac"
+        },
+        {
+          "name": "Apple Jack",
+          "url": "https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT"
+        },
+        {
+          "name": "Rainbow Dash",
+          "url": "https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n"
+        },
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        },
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era"
+        },
+        {
+          "name": "Fluttershy",
+          "url": "https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU"
         }
       ],
       "duration_ms": 146195,
-      "name": "La Amistad",
-      "url": "https://open.spotify.com/track/5qKp7KpIu23B5AEsw5n4ny"
+      "name": "A Friend For Life - Spanish",
+      "url": "https://open.spotify.com/track/6yL79T8FDd4YaxwtrudizR"
     },
     {
       "added_at": "2020-04-22 18:50:09",

@@ -4,7 +4,7 @@
 
 > MMG top picks chosen by Spotify.
 
-40 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/4y8nGcU7lg9W5cfmjTKAH5)
+40 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

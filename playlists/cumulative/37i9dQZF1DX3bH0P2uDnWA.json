@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Bringing the roaring 20s into the 2020s",
   "name": "Electro Swing",
-  "published_playlist_ids": [
-    "0MwBkOxco4wJurN8bfVIbk"
-  ],
   "tracks": [
     {
       "album": {
@@ -133,7 +130,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-18",
       "duration_ms": 209346,
       "name": "Allez Viens (Via Con Me) [feat. Pierre Santini & Lada Redstar]",
       "url": "https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4"
@@ -311,7 +308,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 227127,
       "name": "Big Blue Swing",
       "url": "https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P"
@@ -351,6 +348,24 @@
       "duration_ms": 189956,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
+    },
+    {
+      "album": {
+        "name": "Black Swing",
+        "url": "https://open.spotify.com/album/3Clc9pQvWIMdFAe6k9vbwP"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198584,
+      "name": "Black Swing",
+      "url": "https://open.spotify.com/track/1A2CIDh8zIqey6CRfYY6Oo"
     },
     {
       "album": {
@@ -533,7 +548,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 164257,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
@@ -767,7 +782,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-15",
       "duration_ms": 247500,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
@@ -1493,7 +1508,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 213015,
       "name": "Headless Horseman",
       "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
@@ -1573,6 +1588,32 @@
       "duration_ms": 216352,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/0HKfe28JBiCJChmtcYrgmO"
+    },
+    {
+      "album": {
+        "name": "Hit the Road Jack (Tech House Mix)",
+        "url": "https://open.spotify.com/album/4fBsTXzwLoKA5y6YMlefYe"
+      },
+      "artists": [
+        {
+          "name": "Betty Booom",
+          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
+        },
+        {
+          "name": "Dorade",
+          "url": "https://open.spotify.com/artist/1IC32zAAG7hcdf8PGjjDNm"
+        },
+        {
+          "name": "Maskarade",
+          "url": "https://open.spotify.com/artist/6xNIw26ydx4yTG1QJ5VZse"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171152,
+      "name": "Hit the Road Jack - Tech House Mix",
+      "url": "https://open.spotify.com/track/5fNIQLOnHUvmK0g2w6OgRm"
     },
     {
       "album": {
@@ -1891,7 +1932,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 266666,
       "name": "Keep On Smilin - MNTRA Remix",
       "url": "https://open.spotify.com/track/3F6kQwIiqzYphC1Kv77Ie8"
@@ -1969,8 +2010,8 @@
           "url": "https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a"
         },
         {
-          "name": "Might be Vero",
-          "url": "https://open.spotify.com/artist/0jupxdp3vnb3D29bU0jRo6"
+          "name": "Vero Nouk",
+          "url": "https://open.spotify.com/artist/2v0uFs8azjBPPdwtOd2fiE"
         }
       ],
       "date_added": "2022-11-25",
@@ -2419,7 +2460,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-01",
       "duration_ms": 164582,
       "name": "Marcianito - Cristina Renzetti Vocal Version",
       "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
@@ -2561,7 +2602,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 242626,
       "name": "Miss Her",
       "url": "https://open.spotify.com/track/3VpLkugcSbYuDSOBKNxFaQ"
@@ -2911,7 +2952,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-12",
       "duration_ms": 238080,
       "name": "One for the Road",
       "url": "https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X"
@@ -3209,7 +3250,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 167360,
       "name": "Re-Charleston (Radio Edit)",
       "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
@@ -3509,7 +3550,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 258750,
       "name": "Sing Sing Sing - Extra Medium Remix",
       "url": "https://open.spotify.com/track/0DFuVQeTeIPYWvs4EbRSGC"
@@ -3607,7 +3648,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 176000,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
@@ -3637,7 +3678,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 190938,
       "name": "Something Serious",
       "url": "https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t"
@@ -3841,7 +3882,7 @@
       },
       "artists": [
         {
-          "name": "Or3o",
+          "name": "OR3O",
           "url": "https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx"
         }
       ],
@@ -4233,7 +4274,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 171707,
       "name": "The Illusionist - Glenn Gatsby Remix",
       "url": "https://open.spotify.com/track/16FCFtwDtgv4OamXVZrqim"
@@ -4255,6 +4296,24 @@
       "duration_ms": 231724,
       "name": "The Jungle Jive",
       "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
+    },
+    {
+      "album": {
+        "name": "The Junker",
+        "url": "https://open.spotify.com/album/5HEBeoM8fE1Sj6xidb5an9"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "The Junker",
+      "url": "https://open.spotify.com/track/1EmHeOAiZpHgLMbAXUQENm"
     },
     {
       "album": {
@@ -4309,6 +4368,28 @@
       "duration_ms": 226672,
       "name": "To the Bat Cave",
       "url": "https://open.spotify.com/track/5QQrPVZv6mlJ7rB3UEoZck"
+    },
+    {
+      "album": {
+        "name": "Tom's Diner (Electro Swing Mix)",
+        "url": "https://open.spotify.com/album/7oIVtGiQ1cZE8S5DKqh9dw"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jazzek",
+          "url": "https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh"
+        },
+        {
+          "name": "Kasia Buja",
+          "url": "https://open.spotify.com/artist/0Raqt5611HhEAPm88g2aeg"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191176,
+      "name": "Tom's Diner - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/1DvthxX5TD7RHuyOAM2H77"
     },
     {
       "album": {
@@ -4972,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "You Meet the Nicest People (In Your Dreams) (Electro Swing)",
+        "url": "https://open.spotify.com/album/4eo0MYjW0dziEPmKb6t2fh"
+      },
+      "artists": [
+        {
+          "name": "Swing City",
+          "url": "https://open.spotify.com/artist/3APMjlZOb1eQ3yX5jUz6GR"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 187466,
+      "name": "You Meet the Nicest People (In Your Dreams) (Electro Swing)",
+      "url": "https://open.spotify.com/track/0xLdR1lvZfsyXepQwDY9Jf"
+    },
+    {
+      "album": {
         "name": "Both Sides of the Moon",
         "url": "https://open.spotify.com/album/3nE3aRcSztx4bLkk5DwtJK"
       },
@@ -4987,7 +5086,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-01-28",
       "duration_ms": 165226,
       "name": "You Rascal You",
       "url": "https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO"

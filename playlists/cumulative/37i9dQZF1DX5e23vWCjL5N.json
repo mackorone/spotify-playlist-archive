@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-12",
   "description": "Tra storytelling e barre affilate, il meglio del rap game italiano. Cover: MadMan",
   "name": "Liricisti",
-  "published_playlist_ids": [
-    "5H6hqlvktBn3pbjzKS7Ytr"
-  ],
   "tracks": [
     {
       "album": {
@@ -97,7 +94,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 216059,
       "name": "Addio (feat. Gu\u00e8 & Noyz Narcos)",
       "url": "https://open.spotify.com/track/1AQLd5sLH95XEJbskcfROp"
@@ -253,6 +250,24 @@
     {
       "album": {
         "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156714,
+      "name": "BODY PARTS - I denti",
+      "url": "https://open.spotify.com/track/20Jv9Gx73P618C5rYt2Tmx"
+    },
+    {
+      "album": {
+        "name": "Persona",
         "url": "https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul"
       },
       "artists": [
@@ -281,7 +296,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 156714,
       "name": "BODY PARTS - I denti",
       "url": "https://open.spotify.com/track/4hArX7vFWANuw0gCA1KG5k"
@@ -353,10 +368,46 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 205659,
       "name": "BU!",
       "url": "https://open.spotify.com/track/2rhTJhBMz2l7iDKQzl2KCd"
+    },
+    {
+      "album": {
+        "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205659,
+      "name": "BU!",
+      "url": "https://open.spotify.com/track/52Q2Ocg7mAG5B9LZ1szKoQ"
+    },
+    {
+      "album": {
+        "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 220299,
+      "name": "BUONANOTTE",
+      "url": "https://open.spotify.com/track/5MNHrahj1qZFjh46GZmqLT"
     },
     {
       "album": {
@@ -371,7 +422,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 220299,
       "name": "BUONANOTTE",
       "url": "https://open.spotify.com/track/6QgnT0tFcEWqzAO6GrYvff"
@@ -409,6 +460,28 @@
     {
       "album": {
         "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168742,
+      "name": "CATTIVE INTENZIONI (feat. Salmo)",
+      "url": "https://open.spotify.com/track/0OmnpUgUBVcCnKdS7o9P03"
+    },
+    {
+      "album": {
+        "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
       },
       "artists": [
@@ -423,7 +496,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 168742,
       "name": "CATTIVE INTENZIONI (feat. Salmo)",
       "url": "https://open.spotify.com/track/1qeKaa5Cyw1Xi6PzoNpen5"
@@ -464,7 +537,7 @@
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 193845,
+      "duration_ms": 192905,
       "name": "Cicatrici (feat. Tedua)",
       "url": "https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX"
     },
@@ -569,7 +642,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 160457,
       "name": "Eclissi (feat. Neffa)",
       "url": "https://open.spotify.com/track/1lV5bvVyZdeWuetLyX9BLH"
@@ -660,6 +733,32 @@
     },
     {
       "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190586,
+      "name": "Free (feat. Marracash & Rkomi)",
+      "url": "https://open.spotify.com/track/2bTt0QXf4b1gmIhD4zyXxP"
+    },
+    {
+      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -737,7 +836,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 163214,
       "name": "Italian Hustler (feat. Rasty Kilo)",
       "url": "https://open.spotify.com/track/7us2M1m8cXkpHMBbEgFAiH"
@@ -821,6 +920,28 @@
       "duration_ms": 172173,
       "name": "La Haine",
       "url": "https://open.spotify.com/track/4HQAiEh8J9MIFmtLzuB24a"
+    },
+    {
+      "album": {
+        "name": "Lacrima (feat. Vegas Jones)",
+        "url": "https://open.spotify.com/album/2rSguzZWAyhp3aRkpkuvT0"
+      },
+      "artists": [
+        {
+          "name": "Quentin40",
+          "url": "https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma"
+        },
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 171731,
+      "name": "Lacrima (feat. Vegas Jones)",
+      "url": "https://open.spotify.com/track/0zocqG2uQugrTWzUBK1SCw"
     },
     {
       "album": {
@@ -1011,6 +1132,50 @@
       "duration_ms": 129625,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/20XT7TO32dN1s9xtowLPuR"
+    },
+    {
+      "album": {
+        "name": "Lo-fi For U",
+        "url": "https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203489,
+      "name": "Lo-fi For U",
+      "url": "https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9"
+    },
+    {
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220813,
+      "name": "Lontano Dai Guai (feat. Mahmood)",
+      "url": "https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf"
     },
     {
       "album": {
@@ -1284,6 +1449,46 @@
     },
     {
       "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195662,
+      "name": "Prefissi",
+      "url": "https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L"
+    },
+    {
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212316,
+      "name": "QUALCOSA IN CUI CREDERE - Lo scheletro",
+      "url": "https://open.spotify.com/track/5mZhdcP4Cexz1kWqGobJF6"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul"
       },
@@ -1321,10 +1526,32 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 212316,
       "name": "QUALCOSA IN CUI CREDERE - Lo scheletro (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1t6xoDooMgAqlYDOLTrsxj"
+    },
+    {
+      "album": {
+        "name": "The Illest, Vol 3.",
+        "url": "https://open.spotify.com/album/6dQtxmHiNvZPh5te1zjW3P"
+      },
+      "artists": [
+        {
+          "name": "Mostro",
+          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "Rappresento (feat. Jake La Furia)",
+      "url": "https://open.spotify.com/track/2nxiM1iVhNIITV0N2zlGE5"
     },
     {
       "album": {
@@ -1601,7 +1828,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 182068,
       "name": "Tutto bene",
       "url": "https://open.spotify.com/track/48bU70Alq9O3HHIBwiaFX3"

@@ -4,7 +4,7 @@
 
 > As one of the most widely beloved entertainers of all\-time, Michael Jackson made an unforgettable imprint on popular music\. Here is a collection of some of his best tunes.
 
-27 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/0Mzgco0meJ4jcid2tpnqq6)
+27 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

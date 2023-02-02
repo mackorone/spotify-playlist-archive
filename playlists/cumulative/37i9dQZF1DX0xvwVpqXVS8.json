@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-06",
   "description": "\"Not Past It\" host Simone Polanen shares her favorite serotonin-boosting songs to dance to. Cover: Simone Polanen",
   "name": "Tune In with Simone Polanen",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -329,6 +328,24 @@
       "duration_ms": 216320,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "album": {
+        "name": "Not Past It ",
+        "url": "https://open.spotify.com/show/2IDH4p3mEBPgVHbq4HQVA2"
+      },
+      "artists": [
+        {
+          "name": "Not Past It ",
+          "url": "https://open.spotify.com/show/2IDH4p3mEBPgVHbq4HQVA2"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 1316101,
+      "name": "The Paris Hilton Sex Tape",
+      "url": "https://open.spotify.com/episode/32iPDgapksonc6GNuigeWY"
     },
     {
       "album": {

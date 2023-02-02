@@ -4,7 +4,7 @@
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/2SpHtSX2j1FtmOf5J7jAfu)
+65 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/track/5hlg8974tilNuXIrwWiVKH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/album/15DJ4J10gLGb4eELHikgB1) | 1:30 | 2022-06-09 |  |
 | [ハンコウ予告](https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 4:03 | 2022-10-29 |  |
 | [ハートの主張](https://open.spotify.com/track/5McUO0NAKaKWO22oeZgTZQ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 3:51 | 2022-06-09 |  |
-| [ハートの誓い](https://open.spotify.com/track/11DHLEGv0kjv4KmqhrXK5w) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ハートの誓い](https://open.spotify.com/album/0puyuSS9cNoaeDUCOk4VzT) | 3:27 | 2022-10-18 |  |
+| [ハートの誓い](https://open.spotify.com/track/11DHLEGv0kjv4KmqhrXK5w) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ハートの誓い](https://open.spotify.com/album/0puyuSS9cNoaeDUCOk4VzT) | 3:27 | 2022-10-18 | 2023-01-01 |
+| [ハートの誓い](https://open.spotify.com/track/2BzZV7zxQKHrfVebawH2NX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:27 | 2022-12-31 |  |
 | [ヒカリ証明論](https://open.spotify.com/track/2NSUuwplYLm50NDAb5qJQS) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:33 | 2022-06-09 |  |
 | [ヒカリ証明論 \-instrumental\-](https://open.spotify.com/track/2Co9ArGiEfgN1p5gihaHFK) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒカリ証明論](https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul) | 4:34 | 2022-06-09 | 2022-10-12 |
 | [ヒストリア](https://open.spotify.com/track/0nzaNIkYGdZ8zI97ZT1Q1u) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [プライド革命](https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8) | 3:29 | 2022-06-09 |  |
@@ -50,7 +51,8 @@
 | [ミスター・ダーリン \-instrumental\-](https://open.spotify.com/track/27httj6e8VdyVimcMSTLZn) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ミスター・ダーリン / ギミギミコール \(Complete Edition\)](https://open.spotify.com/album/5AIDbavUjnXZPQk4VZ6AeL) | 4:05 | 2022-06-09 | 2022-10-13 |
 | [ラズベリー\*モンスター](https://open.spotify.com/track/19oCEhJcUnJjFWnJ8tAnvL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール](https://open.spotify.com/album/4PV8u7OxMEUJqFA1lFvNh7) | 2:55 | 2022-06-09 |  |
 | [ラブホイッスル](https://open.spotify.com/track/1d0Drv3qKZWEZiUhh563HC) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:41 | 2022-07-13 | 2022-10-12 |
-| [リベンジゲーム](https://open.spotify.com/track/2zx260L01kpMk01XFjnfwd) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [リベンジゲーム](https://open.spotify.com/album/1DuJRT4zz1X8YmywZJPFqX) | 3:17 | 2022-10-24 |  |
+| [リベンジゲーム](https://open.spotify.com/track/2zx260L01kpMk01XFjnfwd) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [リベンジゲーム](https://open.spotify.com/album/1DuJRT4zz1X8YmywZJPFqX) | 3:17 | 2022-10-24 | 2022-12-13 |
+| [リベンジゲーム](https://open.spotify.com/track/3Ja6w6E7PvMzvJajdu3tM5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:17 | 2022-12-12 |  |
 | [ロデオ](https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [今日もサクラ舞う暁に](https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV) | 3:46 | 2022-06-09 |  |
 | [ロボット](https://open.spotify.com/track/7mAwHR99hdvTChq7V9Uxdd) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ヒミツ恋ゴコロ](https://open.spotify.com/album/4nnCBcpxTtsc9GQKxQSBxL) | 3:47 | 2022-08-05 |  |
 | [ワタシノテンシ](https://open.spotify.com/track/0oJkuurPe6RqlCYnsawcIm) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:22 | 2022-08-04 | 2022-10-13 |

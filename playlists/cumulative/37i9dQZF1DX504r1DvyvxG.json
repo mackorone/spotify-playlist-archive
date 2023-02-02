@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
   "name": "Classic Acoustic",
-  "published_playlist_ids": [
-    "3SYauXGHMGALNz6T4c3c5m"
-  ],
   "tracks": [
     {
       "album": {
@@ -131,7 +128,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 1116933,
       "name": "Alice's Restaurant Massacree",
       "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
@@ -467,6 +464,24 @@
       "duration_ms": 301666,
       "name": "Carolina In My Mind",
       "url": "https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc"
+    },
+    {
+      "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
     },
     {
       "album": {
@@ -1513,7 +1528,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-29",
       "duration_ms": 290080,
       "name": "Just Like a Woman",
       "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
@@ -1535,6 +1550,24 @@
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "album": {
+        "name": "Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic Live",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
     },
     {
       "album": {
@@ -1571,24 +1604,6 @@
       "duration_ms": 279066,
       "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit",
       "url": "https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl"
-    },
-    {
-      "album": {
-        "name": "Unplugged (2013 Remaster)",
-        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "date_added": "2022-05-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
     },
     {
       "album": {
@@ -1855,7 +1870,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-23",
       "duration_ms": 162373,
       "name": "Michelle - Remastered 2009",
       "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
@@ -2197,7 +2212,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 300933,
       "name": "Our Town",
       "url": "https://open.spotify.com/track/44gq8zKiyisjDCKRfcuk3N"
@@ -2471,7 +2486,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 178973,
       "name": "San Francisco Days",
       "url": "https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO"
@@ -2712,7 +2727,7 @@
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -2725,7 +2740,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Tears in Heaven - Acoustic Live",
       "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
     },
     {

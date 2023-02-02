@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "hop in and take the long way.",
   "name": "Scenic Route",
-  "published_playlist_ids": [
-    "5jokDv5Z5OSve1XaOaj4bi"
-  ],
   "tracks": [
     {
       "album": {
@@ -549,7 +546,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-10",
       "duration_ms": 212586,
       "name": "Breakers Roar",
       "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
@@ -767,28 +764,10 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 258146,
       "name": "Chevrolet Van",
       "url": "https://open.spotify.com/track/5QpkOt3hpNf4zns6FJ7JRH"
-    },
-    {
-      "album": {
-        "name": "American Love Call",
-        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "date_added": "2022-03-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198095,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
     },
     {
       "album": {
@@ -807,6 +786,28 @@
       "duration_ms": 198095,
       "name": "Circles",
       "url": "https://open.spotify.com/track/6ZoXt2on0ub2ORSTWnJCjs"
+    },
+    {
+      "album": {
+        "name": "American Love Call",
+        "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg"
     },
     {
       "album": {
@@ -911,7 +912,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 160600,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz"
@@ -929,7 +930,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 223053,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/2QpvldSBDfPtduEVC9jm9O"
@@ -1007,10 +1008,32 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 179582,
       "name": "Dancin' Around My Grave",
       "url": "https://open.spotify.com/track/15iM1wuREVujfuboVzZJSK"
+    },
+    {
+      "album": {
+        "name": "Dawns (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290892,
+      "name": "Dawns (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
     },
     {
       "album": {
@@ -1137,6 +1160,24 @@
       "duration_ms": 243769,
       "name": "Domino",
       "url": "https://open.spotify.com/track/00Z9EPuVs8hpWTn6Cd6wfR"
+    },
+    {
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
     },
     {
       "album": {
@@ -1275,12 +1316,12 @@
           "url": "https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO"
         },
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
           "name": "Conor Oberst",
           "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
       "date_added": "2022-03-22",
@@ -1845,7 +1886,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 197386,
       "name": "Guess Again",
       "url": "https://open.spotify.com/track/2pukZsB3JTI1QVJe2aSsfn"
@@ -1939,6 +1980,24 @@
       "duration_ms": 197737,
       "name": "Head Right",
       "url": "https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a"
+    },
+    {
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197737,
+      "name": "Head Right",
+      "url": "https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89"
     },
     {
       "album": {
@@ -2049,6 +2108,24 @@
       "duration_ms": 173280,
       "name": "House Of My Soul (You Light The Rooms)",
       "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+    },
+    {
+      "album": {
+        "name": "Inwards & Onwards",
+        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 138939,
+      "name": "How Come My Body",
+      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
     },
     {
       "album": {
@@ -2959,7 +3036,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2023-02-01",
       "duration_ms": 206413,
       "name": "New Love Cassette",
       "url": "https://open.spotify.com/track/4JaLWmdTChliUG88ks6Prm"
@@ -3435,7 +3512,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 224906,
       "name": "Ride On / Right On",
       "url": "https://open.spotify.com/track/7Ep6MLL8ATx0fFczswsvR5"
@@ -3705,7 +3782,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": "2023-01-15",
       "duration_ms": 166440,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
@@ -3777,10 +3854,28 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 270666,
       "name": "She Lit a Fire",
       "url": "https://open.spotify.com/track/0zCckv4tx3KzJ5GGTRbbLf"
+    },
+    {
+      "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270666,
+      "name": "She Lit a Fire",
+      "url": "https://open.spotify.com/track/6EwmdjdgIxoN1sRMhqWwmS"
     },
     {
       "album": {
@@ -3921,7 +4016,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": "2023-01-13",
       "duration_ms": 371976,
       "name": "Sold My Soul",
       "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
@@ -4083,7 +4178,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 201893,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
@@ -5029,6 +5124,24 @@
       "duration_ms": 288120,
       "name": "Wildflowers & Wine",
       "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
+    },
+    {
+      "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
     },
     {
       "album": {

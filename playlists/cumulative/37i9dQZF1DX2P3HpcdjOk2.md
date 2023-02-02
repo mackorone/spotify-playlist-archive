@@ -4,7 +4,7 @@
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-56 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/4FfOxrkgxYIrMVTmN0HiSb)
+57 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Devil Gate Drive](https://open.spotify.com/track/05fBPztfk8kjaRXXx58fvm) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Quatro](https://open.spotify.com/album/0PVSnckBznSfzQai0cR3Kh) | 3:47 | 2022-09-12 |  |
 | [Do The Strand](https://open.spotify.com/track/0shPL30nWzEkJzPZ2Anb2m) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [For Your Pleasure](https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29) | 4:03 | 2022-09-12 | 2022-11-22 |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 | 2022-09-12 |  |
-| [Dyna\-Mite](https://open.spotify.com/track/25ONd5KLodHeHOvALtWG1T) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [A's, B's And Rarities](https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW) | 2:56 | 2022-09-12 | 2022-11-15 |
+| [Dyna\-Mite](https://open.spotify.com/track/25ONd5KLodHeHOvALtWG1T) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [A's, B's And Rarities](https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW) | 2:56 | 2022-09-12 |  |
 | [Far Far Away](https://open.spotify.com/track/1QMmLeAxi9MDLXjboKOpc7) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Slade in Flame](https://open.spotify.com/album/0LmjoS42wberY6QHYm6k5E) | 3:34 | 2022-09-12 |  |
 | [Fox On The Run](https://open.spotify.com/track/4uip0lLkMKl1nwchsdXs1r) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 3:27 | 2022-09-12 |  |
 | [In Every Dream Home A Heartache](https://open.spotify.com/track/3Wkho6tesTh4aF80T6evqH) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [For Your Pleasure](https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29) | 5:29 | 2022-09-12 |  |
@@ -36,6 +36,7 @@
 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 | 2022-09-12 |  |
 | [Make Me Smile \(Come up and See Me\) \- 2014 Remaster](https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi) | [Steve Harley](https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym), [Steve Harley & Cockney Rebel](https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz) | [The Best Years of Our Lives \(Deluxe Version\)](https://open.spotify.com/album/4D1oAjj0nxeAlsAJWAJn8g) | 3:59 | 2022-09-12 |  |
 | [Mama Weer All Crazee Now](https://open.spotify.com/track/2Gp23sr178DBntGtqKnJez) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Slayed? \(Expanded\)](https://open.spotify.com/album/3fnE8RruCbRZJCcUgV0OMt) | 3:45 | 2022-09-12 |  |
+| [Metal Guru](https://open.spotify.com/track/4KcE3At063Xyleg2xGzVYz) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [The Slider](https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5) | 2:29 | 2022-09-12 | 2023-01-10 |
 | [Moonage Daydream \- 2012 Remaster](https://open.spotify.com/track/6mib3N4E8PZHAGQ3xy7bho) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:39 | 2022-09-12 |  |
 | [Mother Of Pearl](https://open.spotify.com/track/4yDPUrGef0gWT4LSS13lwy) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Stranded](https://open.spotify.com/album/46lN88zXwgNHAQnN9wWjiC) | 6:52 | 2022-09-12 |  |
 | [My Coo Ca Choo](https://open.spotify.com/track/4LDjgf7egcQGxeGRjEfrSk) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [The Untouchable](https://open.spotify.com/album/7vdGNd7La8onpnF4k6EUR9) | 2:47 | 2022-09-12 |  |
@@ -58,7 +59,7 @@
 | [Stay with Me](https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:39 | 2022-09-12 |  |
 | [Strutter](https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:10 | 2022-09-12 |  |
 | [The Bitch Is Back](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 | 2022-09-12 |  |
-| [The Wild One \- Single Version](https://open.spotify.com/track/7ukFfm4TZOSwrnz2wxp4mG) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Quatro](https://open.spotify.com/album/0PVSnckBznSfzQai0cR3Kh) | 2:51 | 2022-09-12 |  |
+| [The Wild One \- Single Version](https://open.spotify.com/track/7ukFfm4TZOSwrnz2wxp4mG) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Quatro](https://open.spotify.com/album/0PVSnckBznSfzQai0cR3Kh) | 2:51 | 2022-09-12 | 2023-02-01 |
 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/2rgHxOarlO4W35mg0IZ5u8) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Kimono My House](https://open.spotify.com/album/7KOmuu3cbJQEQYGt3XmLmY) | 3:04 | 2022-09-12 |  |
 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 | 2022-09-12 |  |
 | [Under the Moon of Love](https://open.spotify.com/track/34LMQb9wE70d6KhZhzHUo1) | [Showaddywaddy](https://open.spotify.com/artist/3zIIUxcnIoUMouVQdphkeC) | [A's & B's](https://open.spotify.com/album/6CzzK91Y1KngXnXK3tTfVn) | 3:12 | 2022-09-12 |  |

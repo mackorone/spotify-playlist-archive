@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 2669,
+  "num_followers": 5520,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGU2ZjA2ZmZhY2Q4ODQwMTY4MThlNjI4NmI3MTQ4NjZj",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGQzYjFlZGQ0ODM2ZjMxMmUwZWU5MDNiZTFlZjEzNDA2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -83,6 +83,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
+      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 324226,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
-      "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -207,30 +207,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "Never Let Me Down",
-      "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
@@ -263,38 +239,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "Nakamarra (feat. Q-Tip)",
-      "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Black On Both Sides",
-        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
-      },
-      "artists": [
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
         {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
         }
       ],
-      "duration_ms": 305280,
-      "name": "UMI Says",
-      "url": "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
+      "duration_ms": 324440,
+      "name": "Never Let Me Down",
+      "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -315,6 +279,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "Nakamarra (feat. Q-Tip)",
+      "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Picture This",
         "url": "https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 234826,
       "name": "Po Pimp",
       "url": "https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
+      },
+      "artists": [
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 305280,
+      "name": "UMI Says",
+      "url": "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 47953,
+      "name": "Here Now (Intro)",
+      "url": "https://open.spotify.com/track/205IW4vYosxfMhrubqeUHv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 174253,
       "name": "The Waters (feat. BJ the Chicago Kid)",
       "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "I Want You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 388546,
-      "name": "Come Live With Me Angel",
-      "url": "https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
+        "name": "I Want You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 47953,
-      "name": "Here Now (Intro)",
-      "url": "https://open.spotify.com/track/205IW4vYosxfMhrubqeUHv"
+      "duration_ms": 388546,
+      "name": "Come Live With Me Angel",
+      "url": "https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Jassbusters",
         "url": "https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ"
       },
@@ -527,22 +511,6 @@
       "duration_ms": 536254,
       "name": "Charlotte's Thong",
       "url": "https://open.spotify.com/track/4sNygl4IX9iMZ7nV3XTUJe"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "NINA REVISITED: A Tribute to Nina Simone",
-        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
-      },
-      "artists": [
-        {
-          "name": "Alice Smith",
-          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
-        }
-      ],
-      "duration_ms": 399533,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -583,6 +551,38 @@
       "duration_ms": 273133,
       "name": "Make Yours a Happy Home",
       "url": "https://open.spotify.com/track/2T3i0zEma9oEZMENvnc1vG"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "NINA REVISITED: A Tribute to Nina Simone",
+        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        }
+      ],
+      "duration_ms": 399533,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "At Home",
-        "url": "https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "Coconut",
-      "url": "https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
         "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 247666,
       "name": "Papillon (aka Hot Butterfly)",
       "url": "https://open.spotify.com/track/45fclN1U2QlQ5CLTvZVMZC"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Holy Ghost Zone",
+        "url": "https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x"
+      },
+      "artists": [
+        {
+          "name": "Budgie",
+          "url": "https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89"
+        }
+      ],
+      "duration_ms": 107316,
+      "name": "Depend on U",
+      "url": "https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Holy Ghost Zone",
-        "url": "https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x"
+        "name": "At Home",
+        "url": "https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32"
       },
       "artists": [
         {
-          "name": "Budgie",
-          "url": "https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 107316,
-      "name": "Depend on U",
-      "url": "https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk"
+      "duration_ms": 279453,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "ALL NIGHT (Goodlife)",
-        "url": "https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v"
-      },
-      "artists": [
-        {
-          "name": "Apryl Sashay",
-          "url": "https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "ALL NIGHT (Goodlife)",
-      "url": "https://open.spotify.com/track/5ZXrVNnQoKEMLcZ1s6Davv"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Catching Dreams",
         "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 48038,
       "name": "Your Time",
       "url": "https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "ALL NIGHT (Goodlife)",
+        "url": "https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v"
+      },
+      "artists": [
+        {
+          "name": "Apryl Sashay",
+          "url": "https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "ALL NIGHT (Goodlife)",
+      "url": "https://open.spotify.com/track/5ZXrVNnQoKEMLcZ1s6Davv"
     },
     {
       "added_at": "2022-10-01 16:00:00",

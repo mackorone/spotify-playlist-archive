@@ -4,7 +4,7 @@
 
 > 50 highlights of classical music composed in the new millennium\. Find more <a href="https://open.spotify.com/user/spotify/playlist/1SBY0rHT0QjEtrzSNFzpMM">contemporary</a>, <a href="spotify:user:danielstahl:playlist:7ijkPw3lLKPW6k3qee38Ki">avant\-garde</a> and <a href="spotify:user:spotify:playlist:5YuLa2rxwWrILo5KKHGCwX">minimalism</a> playlists at our <a href="http://open.spotify.com/genre/classical">Classical Hub</a>.
 
-50 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/7ulsobvXzlGD2HiXJLwVT7)
+50 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

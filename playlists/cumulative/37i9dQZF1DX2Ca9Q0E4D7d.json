@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Beta frequencies for increased concentration. ",
   "name": "Binaural Beats: Flow State",
-  "published_playlist_ids": [
-    "5ut6icI7FhIjnPBgG0hnSt"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,6 +24,24 @@
       "duration_ms": 226087,
       "name": "199 Hz - Beta Sinus",
       "url": "https://open.spotify.com/track/2RRbBXjwzhpvTVakO2s7nk"
+    },
+    {
+      "album": {
+        "name": "Wonder Falls & Appreciation (Binaural Beta)",
+        "url": "https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Appreciation (Beta 105 Hz - 121 Hz)",
+      "url": "https://open.spotify.com/track/7vrlLqv2HhIWT4Yhpu9byI"
     },
     {
       "album": {
@@ -77,7 +92,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 220783,
       "name": "Beta Brainwave State",
       "url": "https://open.spotify.com/track/7zDu2bXHrl9ZMbTTBuvdyl"
@@ -99,6 +114,24 @@
       "duration_ms": 174545,
       "name": "Beta Drift 22 Hz",
       "url": "https://open.spotify.com/track/2XbdiWmGMsofgPwC7fo5Lx"
+    },
+    {
+      "album": {
+        "name": "Binaural Equinox",
+        "url": "https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186801,
+      "name": "Beta Equinox 18 Hz",
+      "url": "https://open.spotify.com/track/2MRpSUhmDSTorFsNY9mXAr"
     },
     {
       "album": {
@@ -275,7 +308,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 210279,
       "name": "Beta Sinus 190 Hz - 220 Hz",
       "url": "https://open.spotify.com/track/16UtrukwRwmg3SV2fk8Pwl"
@@ -495,6 +528,24 @@
       "duration_ms": 167894,
       "name": "Beta Waves 136Hz - 150Hz",
       "url": "https://open.spotify.com/track/7lrpJMBhSskfIGnysg7Svk"
+    },
+    {
+      "album": {
+        "name": "Alpha & Beta Wave States",
+        "url": "https://open.spotify.com/album/3veIsz6h0EcYZZ0qhpRqEa"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Beta Waves 149 Hz - 171 Hz",
+      "url": "https://open.spotify.com/track/5Y3SC4anrADQ4x6NbgqH6D"
     },
     {
       "album": {
@@ -833,7 +884,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 224000,
       "name": "Binaural Beta Sinus Drone III",
       "url": "https://open.spotify.com/track/2TqCK23e1IFAX3QEhU42z8"
@@ -1074,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Wonder Falls & Appreciation (Binaural Beta)",
+        "url": "https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Wonder Falls (Beta 100 Hz - 117 Hz)",
+      "url": "https://open.spotify.com/track/6ggscQCVEcqKy92nXLlswe"
+    },
+    {
+      "album": {
         "name": "Yoga: Beta Sinus 100 Hz",
         "url": "https://open.spotify.com/album/4MJvd53JhkCRT9g8IS54Q2"
       },
@@ -1089,6 +1158,24 @@
       "duration_ms": 124830,
       "name": "Yoga: Beta Sinus 100 Hz",
       "url": "https://open.spotify.com/track/2fkZSejqcDkdc2rWi8vARt"
+    },
+    {
+      "album": {
+        "name": "Zone in Beta 73.1 Hz - 89.6 Hz",
+        "url": "https://open.spotify.com/album/0nR9BiFll648hqwDkT0WVt"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Zone in Beta 73.1 Hz - 89.6 Hz",
+      "url": "https://open.spotify.com/track/1q0glRZ97xYFh3Vu43hb9y"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2Ca9Q0E4D7d"

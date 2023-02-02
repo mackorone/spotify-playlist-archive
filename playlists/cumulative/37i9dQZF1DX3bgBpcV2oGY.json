@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Instrumental guitar for rainy day contemplation.",
   "name": "Sad Guitar Instrumentals",
-  "published_playlist_ids": [
-    "0OFjYAHKTUhiFgc9oYNNXy"
-  ],
   "tracks": [
     {
       "album": {
@@ -476,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/3CAEYcRuZNYdDV8JAMNbEV"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119500,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/7wa5VEOnVq50Q2k0ljj69z"
+    },
+    {
+      "album": {
         "name": "Comings & Goings",
         "url": "https://open.spotify.com/album/1x5HTAuVJWSlbn3prj6Bfb"
       },
@@ -927,6 +942,24 @@
       "duration_ms": 152938,
       "name": "Fortuity",
       "url": "https://open.spotify.com/track/5o3XuFWlUW1h76SFvAmkDJ"
+    },
+    {
+      "album": {
+        "name": "Gently Forward",
+        "url": "https://open.spotify.com/album/1N5fiOXjJQ8HWO4qZdcyQ9"
+      },
+      "artists": [
+        {
+          "name": "Jules Scott",
+          "url": "https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155655,
+      "name": "Gently Forward",
+      "url": "https://open.spotify.com/track/2KYDJIdEBUtkHBY9H7sJe6"
     },
     {
       "album": {
@@ -2709,6 +2742,24 @@
       "duration_ms": 176122,
       "name": "When It Hits You",
       "url": "https://open.spotify.com/track/2uLNVnUExOftiMwIpGKKnH"
+    },
+    {
+      "album": {
+        "name": "When It Rains",
+        "url": "https://open.spotify.com/album/4g9kfD7eRLcAwH60x94ygo"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148016,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/0z5y5lpBfxrZsDnvMOZOVy"
     },
     {
       "album": {

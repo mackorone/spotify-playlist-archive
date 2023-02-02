@@ -1,15 +1,39 @@
 {
   "description": "Classical compositions from Ravi Shankar and more.",
-  "num_followers": 29655,
+  "num_followers": 32519,
   "original_name": "Indian Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQwNzU5NiwwMDAwMDAwMDFkYjIzNjUyMWRiN2IyM2YxYjgwNTcwMDM4MTgyODIw",
+  "snapshot_id": "MTY3NDIwMTg4NiwwMDAwMDAwMGM0MGRkYWU2MDQ2MjI1ZGY1NGJlNWY3OGU0NDBmZDYx",
   "tracks": [
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-20 08:04:46",
+      "album": {
+        "name": "Mohanam",
+        "url": "https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "duration_ms": 359960,
+      "name": "Mohanam",
+      "url": "https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Mori Painjainiya (Raag Hamsadhwani)",
         "url": "https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw"
@@ -29,7 +53,7 @@
       "url": "https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Bandish Bandits (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
@@ -53,7 +77,7 @@
       "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Rang",
         "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
@@ -77,7 +101,7 @@
       "url": "https://open.spotify.com/track/6xJi7Qel6TsACujetOJd5N"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "AMMP Signature Series Volume 4 - Rag Manj Khammaj / Rag Misra Mand",
         "url": "https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2"
@@ -97,7 +121,51 @@
       "url": "https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-15 05:53:55",
+      "album": {
+        "name": "Swar Venu",
+        "url": "https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5"
+      },
+      "artists": [
+        {
+          "name": "Milind Date",
+          "url": "https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx"
+        },
+        {
+          "name": "Charudatta Phadke",
+          "url": "https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR"
+        }
+      ],
+      "duration_ms": 735466,
+      "name": "Bheempalas-Ek Taal (feat. Charudatta Phadke)",
+      "url": "https://open.spotify.com/track/6oSEq00mzuxI7FpRNc84qc"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
+      "album": {
+        "name": "Namma Classical Vol 3",
+        "url": "https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "Madhusoodan Bhat",
+          "url": "https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP"
+        },
+        {
+          "name": "Kaushik Bhat",
+          "url": "https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f"
+        }
+      ],
+      "duration_ms": 855055,
+      "name": "Raga Maru Bihag (Feat. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat)",
+      "url": "https://open.spotify.com/track/61U7jgeV7GNT2E0VNmikEt"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Palna Jhule Nandlal",
         "url": "https://open.spotify.com/album/6a29FaR1tsnkxOqEMFWg97"
@@ -113,7 +181,87 @@
       "url": "https://open.spotify.com/track/68bndjlqZTrbOa5qhts7ev"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
+      "album": {
+        "name": "Raag Hansdhwani",
+        "url": "https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Shubhabrata Saha",
+          "url": "https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU"
+        }
+      ],
+      "duration_ms": 267698,
+      "name": "Raag Hansdhwani Alap",
+      "url": "https://open.spotify.com/track/7BJmfkCvVytUurjcApEbHg"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
+      "album": {
+        "name": "Raske Bhare",
+        "url": "https://open.spotify.com/album/5Vyru5YcUnyFVX9wyopz1m"
+      },
+      "artists": [
+        {
+          "name": "Ivy Banerjee",
+          "url": "https://open.spotify.com/artist/5s0Lihq2sOZmt9A39boaqC"
+        },
+        {
+          "name": "Anindita Ganguli",
+          "url": "https://open.spotify.com/artist/71dORDZecKOG3BAexq2mgt"
+        }
+      ],
+      "duration_ms": 275191,
+      "name": "Raske Bhare",
+      "url": "https://open.spotify.com/track/6X0Hd6LY1qRcQB6zLlOnS4"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
+      "album": {
+        "name": "Raag Darbari Kannada",
+        "url": "https://open.spotify.com/album/6xFMAWesokFJbF1iwmASBb"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Tamaghna Chakraborty",
+          "url": "https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw"
+        }
+      ],
+      "duration_ms": 617851,
+      "name": "Darbari Kanara Teen Taal",
+      "url": "https://open.spotify.com/track/4vbdaxGG6dbM6XuahtO4aI"
+    },
+    {
+      "added_at": "2023-01-15 05:53:55",
+      "album": {
+        "name": "Swar Venu",
+        "url": "https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5"
+      },
+      "artists": [
+        {
+          "name": "Milind Date",
+          "url": "https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx"
+        },
+        {
+          "name": "Charudatta Phadke",
+          "url": "https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR"
+        }
+      ],
+      "duration_ms": 490398,
+      "name": "Durga-Teen Taal (feat. Charudatta Phadke)",
+      "url": "https://open.spotify.com/track/46HkypvxRVq9sINstyurMa"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Taurat",
         "url": "https://open.spotify.com/album/2LsJpdLEVENc7rjVOBu935"
@@ -133,7 +281,7 @@
       "url": "https://open.spotify.com/track/3VkIejOeatDUJGq9faLncj"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Who's To Know - Indian Classical Music",
         "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ"
@@ -149,23 +297,87 @@
       "url": "https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
-        "name": "Rama Sreerama",
-        "url": "https://open.spotify.com/album/3l9Iy9Fae5OinuELBH1gCq"
+        "name": "Raag Hansdhwani",
+        "url": "https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG"
       },
       "artists": [
         {
-          "name": "U. Srinivas",
-          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Shubhabrata Saha",
+          "url": "https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU"
         }
       ],
-      "duration_ms": 284666,
-      "name": "Kaliyugavaradana",
-      "url": "https://open.spotify.com/track/7JiPoVDTmteJ0USnow2C1p"
+      "duration_ms": 569438,
+      "name": "Raag Hansdhwani Gat in Matta Taal",
+      "url": "https://open.spotify.com/track/1hrJRx256v2UR6maarb8gT"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-15 05:53:55",
+      "album": {
+        "name": "Swar Venu",
+        "url": "https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5"
+      },
+      "artists": [
+        {
+          "name": "Milind Date",
+          "url": "https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx"
+        },
+        {
+          "name": "Charudatta Phadke",
+          "url": "https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR"
+        }
+      ],
+      "duration_ms": 498696,
+      "name": "Durga-Drut Teen Taal (feat. Charudatta Phadke)",
+      "url": "https://open.spotify.com/track/1ODne1DAqhVLRBxgJaPCqv"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
+      "album": {
+        "name": "Prabhat Sagar",
+        "url": "https://open.spotify.com/album/42DZZlRvrsRP2MkzHoabLy"
+      },
+      "artists": [
+        {
+          "name": "Milind Date",
+          "url": "https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx"
+        }
+      ],
+      "duration_ms": 592127,
+      "name": "Mangal Bhairav-Jod",
+      "url": "https://open.spotify.com/track/2pPM04AXTJX2PPkYiOrKXc"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
+      "album": {
+        "name": "Namma Classical Vol 3",
+        "url": "https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "Madhusoodan Bhat",
+          "url": "https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP"
+        },
+        {
+          "name": "Kaushik Bhat",
+          "url": "https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f"
+        }
+      ],
+      "duration_ms": 2311680,
+      "name": "Raga Bageshri (Feat. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat)",
+      "url": "https://open.spotify.com/track/76VdHPvjGgWEj3xEMdTsWn"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Shiva Shankara",
         "url": "https://open.spotify.com/album/07yZ6g1QTLfys8PHs6Dd1l"
@@ -197,7 +409,47 @@
       "url": "https://open.spotify.com/track/3RRAr1F7Oap2CwLE1q6nqD"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
+      "album": {
+        "name": "Prabhat Sagar",
+        "url": "https://open.spotify.com/album/42DZZlRvrsRP2MkzHoabLy"
+      },
+      "artists": [
+        {
+          "name": "Milind Date",
+          "url": "https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx"
+        },
+        {
+          "name": "Charudatta Phadke",
+          "url": "https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR"
+        }
+      ],
+      "duration_ms": 377367,
+      "name": "Shivranjani",
+      "url": "https://open.spotify.com/track/278G2dKW87IiD2I6jl58KK"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
+      "album": {
+        "name": "Raag Hansdhwani",
+        "url": "https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Shubhabrata Saha",
+          "url": "https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU"
+        }
+      ],
+      "duration_ms": 336329,
+      "name": "Raag Hansdhwani Jod and Jhalla",
+      "url": "https://open.spotify.com/track/7Ms7N8GxU46EsS57GECJu0"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival",
         "url": "https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0"
@@ -213,7 +465,7 @@
       "url": "https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Signature Series, Vol. 3",
         "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
@@ -229,7 +481,7 @@
       "url": "https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Spiritual Legacy",
         "url": "https://open.spotify.com/album/1k4ohi81faehwtDi0lYfFp"
@@ -249,7 +501,51 @@
       "url": "https://open.spotify.com/track/2S2Z0ll0OMa16uBT5UDvIa"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
+      "album": {
+        "name": "Namma Classical Vol 3",
+        "url": "https://open.spotify.com/album/7y6F9TOumHwynqFGhh6CP6"
+      },
+      "artists": [
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "Madhusoodan Bhat",
+          "url": "https://open.spotify.com/artist/2jNFfClZQVti5q4mJD0CLP"
+        },
+        {
+          "name": "Kaushik Bhat",
+          "url": "https://open.spotify.com/artist/3wZb1u73qOW2jUcatWkt8f"
+        }
+      ],
+      "duration_ms": 1560235,
+      "name": "Raga Shyam Kalyan (Feat. Keerthan Holla, Madhusoodan Bhat, Kaushik Bhat)",
+      "url": "https://open.spotify.com/track/3XrktIs9yT571rKQYs7DJg"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
+      "album": {
+        "name": "Raag Darbari Kannada",
+        "url": "https://open.spotify.com/album/6xFMAWesokFJbF1iwmASBb"
+      },
+      "artists": [
+        {
+          "name": "Sayan Ghosh",
+          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
+        },
+        {
+          "name": "Tamaghna Chakraborty",
+          "url": "https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw"
+        }
+      ],
+      "duration_ms": 431800,
+      "name": "Darbari Kanara Jod and Jhalla",
+      "url": "https://open.spotify.com/track/7kXIHzGUKI7pwOUadVeNvt"
+    },
+    {
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/2jHrpUu5dwfzHHuxFvPM03"
@@ -269,7 +565,7 @@
       "url": "https://open.spotify.com/track/3ON2mBMQpsGiPjaDkVRx9O"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Swar Sadhna",
         "url": "https://open.spotify.com/album/303Pkb83Anu8cMovTksOen"
@@ -285,7 +581,7 @@
       "url": "https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Veena (Carnatic Classical) Vol. 2",
         "url": "https://open.spotify.com/album/0tsVdUojduaZzkaCPBEWlZ"
@@ -301,7 +597,7 @@
       "url": "https://open.spotify.com/track/0qgq1JUHLMv2K6YJdt959l"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Jugalbandi II",
         "url": "https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40"
@@ -325,7 +621,7 @@
       "url": "https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Raghuvamsa Sudha Vol.1",
         "url": "https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7"
@@ -341,7 +637,7 @@
       "url": "https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
         "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
@@ -357,7 +653,7 @@
       "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Music from Madras",
         "url": "https://open.spotify.com/album/09RfLY6H8ZjWl9woRQYY7f"
@@ -381,43 +677,7 @@
       "url": "https://open.spotify.com/track/4hg9XXjCehm0dJTXQkAfWj"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Rag Miya Ki Todi & Rag Bilaskhani Todi",
-        "url": "https://open.spotify.com/album/0mWUzMcScanLQDYIEKGMIu"
-      },
-      "artists": [
-        {
-          "name": "Imrat Khan",
-          "url": "https://open.spotify.com/artist/6htMUYjAgIpH7DRgN2I3yg"
-        },
-        {
-          "name": "Shafaatullah Khan",
-          "url": "https://open.spotify.com/artist/1JrHhcIQYFXGvjITblw4Mp"
-        }
-      ],
-      "duration_ms": 2294000,
-      "name": "Rag Miya Ki Todi",
-      "url": "https://open.spotify.com/track/1swbYA2tiIOZTRpqCfsQLv"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Yal Isai",
-        "url": "https://open.spotify.com/album/5oJkt1OCl9ko0nEpY7jjW1"
-      },
-      "artists": [
-        {
-          "name": "Raghunath Manet",
-          "url": "https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq"
-        }
-      ],
-      "duration_ms": 679292,
-      "name": "Vatapiganapatim",
-      "url": "https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Le Chant - Khayal",
         "url": "https://open.spotify.com/album/4u4qaZ6CcnBKfpsmEdfugX"
@@ -433,7 +693,7 @@
       "url": "https://open.spotify.com/track/5jc5Dn3oIigJIOHKFGBRde"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Strings Of Harmony - Violin On 3 Octaves",
         "url": "https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob"
@@ -449,23 +709,7 @@
       "url": "https://open.spotify.com/track/5gRW0aQdzRizSiXVvfLsLl"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Bow to the Violins (South Indian Classical Music)",
-        "url": "https://open.spotify.com/album/7vFlyfZ7fnwdCNz513GFpR"
-      },
-      "artists": [
-        {
-          "name": "Lalgudi G.J.R. Krishnan",
-          "url": "https://open.spotify.com/artist/5z8Ky2VIrwkM2lF3nPKRMa"
-        }
-      ],
-      "duration_ms": 578480,
-      "name": "Siddhivinayakama",
-      "url": "https://open.spotify.com/track/3A21ImpkBRJONWIjYTk6zV"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Pandit Jasraj - Vocal",
         "url": "https://open.spotify.com/album/4Nr3N7QxTWcpuAopdM2xwh"
@@ -485,7 +729,7 @@
       "url": "https://open.spotify.com/track/4Dzq2WpTelyXINu0EpUMzn"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Bramhananadam",
         "url": "https://open.spotify.com/album/5jExejZsjI5bMUaXLvpgeJ"
@@ -501,7 +745,7 @@
       "url": "https://open.spotify.com/track/10G3lz19WDI0NZgXBniZZo"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Chandrakaush Khamaj 1967",
         "url": "https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7"
@@ -517,7 +761,7 @@
       "url": "https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Ahead of Time",
         "url": "https://open.spotify.com/album/3laPhQ11JQ7pU2gmn2WGt5"
@@ -537,7 +781,7 @@
       "url": "https://open.spotify.com/track/1lNbSKhPB1vD1MfM8SwpFY"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Ekanta: T. M. Krishna",
         "url": "https://open.spotify.com/album/7bkAVhQMLs1geCqrQj4Vmo"
@@ -553,7 +797,7 @@
       "url": "https://open.spotify.com/track/0hOORzZm7ol1HDVxflkySj"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Raga Darbari Kannada & Dhun in Rag Mishra Pilu",
         "url": "https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9"
@@ -581,7 +825,7 @@
       "url": "https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Pancha Nadai Pallavi",
         "url": "https://open.spotify.com/album/4PIGHrAEFWv6RG5ywsX96p"
@@ -609,7 +853,7 @@
       "url": "https://open.spotify.com/track/5b7IIUpOXAEemY8vs2vBlE"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Swar Samrat",
         "url": "https://open.spotify.com/album/08VXTicjbQ0Y7E0V2WKaC4"
@@ -625,23 +869,7 @@
       "url": "https://open.spotify.com/track/1aK6pe3rJ01koTZoSu96Mr"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Raghuvamsa Sudha Vol.1",
-        "url": "https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7"
-      },
-      "artists": [
-        {
-          "name": "Chitti Babu",
-          "url": "https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z"
-        }
-      ],
-      "duration_ms": 466706,
-      "name": "Vatapi Ganapathim (Raga: Hamsadwani; Tala: Adi)",
-      "url": "https://open.spotify.com/track/312UHYgXzJ6NzA2rFeyYSe"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Young Masters - Kala Ramnath",
         "url": "https://open.spotify.com/album/3Cw8FheJhkCRk5a2QDQIhW"
@@ -657,35 +885,7 @@
       "url": "https://open.spotify.com/track/5rmvcbSz9IbOfna1ryTVSQ"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Tribute to Dr. M. Balamuralikrishna",
-        "url": "https://open.spotify.com/album/0wFD98V1g7FIqkaAkBGp6B"
-      },
-      "artists": [
-        {
-          "name": "M. Balamuralikrishna",
-          "url": "https://open.spotify.com/artist/4OTsinUjquvK195Hgs3u8I"
-        },
-        {
-          "name": "Basavaraju V Balasai",
-          "url": "https://open.spotify.com/artist/6EoaOlc4QIkD0SJR7qKtrO"
-        },
-        {
-          "name": "T H Subhashchandran",
-          "url": "https://open.spotify.com/artist/0A7GSegIKnnbAuzgLSo4p1"
-        },
-        {
-          "name": "Annavarapu Ramaswamy",
-          "url": "https://open.spotify.com/artist/54z9AWhWrMEk79QlmqWmxK"
-        }
-      ],
-      "duration_ms": 890040,
-      "name": "Adamodi Galade - Charukesi - Adi",
-      "url": "https://open.spotify.com/track/0dXVxyxhEX97atc7fbWJFy"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Sangeet Sartaj, Vol. 1 & 2",
         "url": "https://open.spotify.com/album/0KyNZodk1oplO3iJhy5GHk"
@@ -701,23 +901,7 @@
       "url": "https://open.spotify.com/track/5EmNsq9at10HMawWfhM2K6"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Parjanya",
-        "url": "https://open.spotify.com/album/7kBEWpnF9rrsmMGx2gibFM"
-      },
-      "artists": [
-        {
-          "name": "U. Srinivas",
-          "url": "https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC"
-        }
-      ],
-      "duration_ms": 1222413,
-      "name": "Ragam Tanam Pallavi",
-      "url": "https://open.spotify.com/track/0k5Eg606HtFJU0pqQdgb53"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "AMMP Signature Series Volume 4 - Rag Manj Khammaj / Rag Misra Mand",
         "url": "https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2"
@@ -737,23 +921,7 @@
       "url": "https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival",
-        "url": "https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0"
-      },
-      "artists": [
-        {
-          "name": "Ravi Shankar",
-          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
-        }
-      ],
-      "duration_ms": 379626,
-      "name": "Tabla Solo In Ektal - Live",
-      "url": "https://open.spotify.com/track/4FsUTO3VyjORPxOtcuuDRQ"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Raga Miyan-Ki-Todi, Raga Bibhas & Raga Bhairavi",
         "url": "https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H"
@@ -769,7 +937,7 @@
       "url": "https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Saptrang",
         "url": "https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ"
@@ -789,23 +957,7 @@
       "url": "https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Live at Kufa Gallery, London, 1994",
-        "url": "https://open.spotify.com/album/4bAkrEpitKMVm7bZk8RRJo"
-      },
-      "artists": [
-        {
-          "name": "Veena Sahasrabuddhe",
-          "url": "https://open.spotify.com/artist/5u1S4wqSqEH05Aup3Z1SuO"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Raga Madhmad Sarang",
-      "url": "https://open.spotify.com/track/1cGxMjMc9GMR1RkB31Ogok"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Inde du Nord - North India: Season and Time / Les heures et les saisons",
         "url": "https://open.spotify.com/album/5bHrnrvTwxZmyeYvdLefkp"
@@ -821,39 +973,7 @@
       "url": "https://open.spotify.com/track/5kTOAXrd7nPiNtbTeiCXXb"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "G.N.Balasubramaniam Vol - 01",
-        "url": "https://open.spotify.com/album/5urLGko0B6bTYBReonon37"
-      },
-      "artists": [
-        {
-          "name": "G. N. Balasubramaniam",
-          "url": "https://open.spotify.com/artist/5QTWVKXmNU1Pauk19B54s8"
-        }
-      ],
-      "duration_ms": 1045691,
-      "name": "Subramanya Namaste",
-      "url": "https://open.spotify.com/track/2o0PweGjjNA2WBuwJTtz76"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        }
-      ],
-      "duration_ms": 1045427,
-      "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
-      "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Maestro's Choice - Vilayet Khan",
         "url": "https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef"
@@ -869,67 +989,7 @@
       "url": "https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ"
     },
     {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Vadya Sangamam",
-        "url": "https://open.spotify.com/album/6e6OHCI1fsXNjEL0rYvoHo"
-      },
-      "artists": [
-        {
-          "name": "Vadya Sangamam",
-          "url": "https://open.spotify.com/artist/0aDuKft9jKKmEgVc0T49or"
-        }
-      ],
-      "duration_ms": 446587,
-      "name": "Jagadodharana (Kadri Gopalnath-Sax)",
-      "url": "https://open.spotify.com/track/2XU5aiBsuXekPvn13J8eYp"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Rare Ragas Vol. 5",
-        "url": "https://open.spotify.com/album/7w63VXXvPjQ0KGPRWoAODc"
-      },
-      "artists": [
-        {
-          "name": "Shivkumar Sharma",
-          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
-        }
-      ],
-      "duration_ms": 1070438,
-      "name": "Dhun Pahari",
-      "url": "https://open.spotify.com/track/6MrK3tQ2yLbRtQYfPQ22uS"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
-      "album": {
-        "name": "Saravanabhava",
-        "url": "https://open.spotify.com/album/5Ro38fhvz7sYslIyWSz0I9"
-      },
-      "artists": [
-        {
-          "name": "Ranjani-Gayatri",
-          "url": "https://open.spotify.com/artist/1yboBrfDMPU8uu5FtjXKuv"
-        },
-        {
-          "name": "Charumathi Raghuraman",
-          "url": "https://open.spotify.com/artist/0Vg6yOw6x6iVVu1x3swMVD"
-        },
-        {
-          "name": "Arunprakash",
-          "url": "https://open.spotify.com/artist/69CZsB406GS7xBHb0nPKE9"
-        },
-        {
-          "name": "Udupi Shridhar",
-          "url": "https://open.spotify.com/artist/2eXimIxIaSyut8FcqlLiVL"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Saravana Bhava - Devakriya - Roopakam, Pt. 6",
-      "url": "https://open.spotify.com/track/2RlFwDtsyY72YvtMs2XlJA"
-    },
-    {
-      "added_at": "2022-09-19 11:28:29",
+      "added_at": "2023-01-09 05:24:00",
       "album": {
         "name": "Celebrating the Legend - Pt. Hari Prasad Chaurasia",
         "url": "https://open.spotify.com/album/0xqt6Ag87RHcUuVQH6DbDt"

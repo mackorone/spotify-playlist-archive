@@ -4,7 +4,7 @@
 
 > Listen to all of Seth's favorite classic soul tracks right here\. And be sure to check out his charity, Hilarity for Charity.
 
-41 songs - 1 hr 41 min - [published](https://open.spotify.com/playlist/5YsLaBRjUJNx2hkGeBYsEG)
+41 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

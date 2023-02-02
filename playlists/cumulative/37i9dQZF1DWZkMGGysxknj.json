@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
   "name": "Caf\u00e9, Libros.",
-  "published_playlist_ids": [
-    "7x6tkeswM5zsR8gwqcHjZe"
-  ],
   "tracks": [
     {
       "album": {
@@ -278,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "album": {
         "name": "Moonshine Freeze Remixes",
         "url": "https://open.spotify.com/album/24xJu2aYlYPt5YtH5FP3fi"
       },
@@ -427,6 +442,24 @@
       "duration_ms": 271176,
       "name": "Chemtrails Over The Country Club",
       "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
+    },
+    {
+      "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173286,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
     },
     {
       "album": {
@@ -1122,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
+    },
+    {
+      "album": {
         "name": "Fast Car b/w Fire",
         "url": "https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ"
       },
@@ -1176,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236372,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/5IoORLuEpBsvIfCALa0rim"
       },
@@ -1187,7 +1256,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 236372,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3La5HUF1nBwTVCWjwOpEmz"
@@ -1205,7 +1274,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 216746,
       "name": "Fin",
       "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
@@ -1223,7 +1292,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
@@ -1299,6 +1368,24 @@
       "duration_ms": 127210,
       "name": "For You",
       "url": "https://open.spotify.com/track/50bMSujg47Xc9LRuy6Xra9"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "album": {
@@ -1779,7 +1866,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 211403,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/10e8OyV77FnTWvWhO1x6n6"
@@ -2091,10 +2178,32 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 238173,
       "name": "Know How",
       "url": "https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG"
+    },
+    {
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "Know How",
+      "url": "https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh"
     },
     {
       "album": {
@@ -2442,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "Thief",
+        "url": "https://open.spotify.com/album/2WA5txUH1i8QHvOh9ptsWh"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 246222,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1KKO7lAg5RTGYaTJkkZC9E"
+    },
+    {
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/64SvXrbWzFrDIykCtZ4O3r"
       },
@@ -2691,7 +2818,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 203261,
       "name": "Nothing Breaks Like a Heart",
       "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
@@ -2727,7 +2854,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 178143,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
@@ -3246,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
+    },
+    {
+      "album": {
         "name": "Shape Of My Heart (Acoustic Version)",
         "url": "https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7"
       },
@@ -3337,10 +3482,32 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 304893,
       "name": "Softly - Mahogany Sessions",
       "url": "https://open.spotify.com/track/25pzMvqGiIohddpNq2ople"
+    },
+    {
+      "album": {
+        "name": "Softly / Please (Mahogany Sessions)",
+        "url": "https://open.spotify.com/album/0EiZGhflsBj4D3ysECkNsm"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304893,
+      "name": "Softly - Mahogany Sessions",
+      "url": "https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X"
     },
     {
       "album": {
@@ -3461,6 +3628,10 @@
       },
       "artists": [
         {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
           "name": "Julien Baker",
           "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         },
@@ -3479,6 +3650,24 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "album": {
+        "name": "Wilds",
+        "url": "https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154026,
+      "name": "Spanish On The Beach",
+      "url": "https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu"
     },
     {
       "album": {
@@ -3601,7 +3790,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 188712,
       "name": "Sweet but Psycho - Acoustic",
       "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
@@ -3637,7 +3826,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 176065,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP"
@@ -3662,6 +3851,24 @@
     },
     {
       "album": {
+        "name": "Terrace Rain/Grid Search",
+        "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176548,
+      "name": "Terrace Rain",
+      "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
+    },
+    {
+      "album": {
         "name": "The Day I Left Hanoi",
         "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
       },
@@ -3673,7 +3880,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 229850,
       "name": "The Day I Left Hanoi",
       "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
@@ -3933,7 +4140,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-03",
       "duration_ms": 180778,
       "name": "Un D\u00eda Lo Encontr\u00e9",
       "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
@@ -3977,7 +4184,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-26",
       "duration_ms": 200944,
       "name": "Una Forma de Energi\u0301a Que Ilumina las Cosas",
       "url": "https://open.spotify.com/track/3SHUNQPRPLs8ro0wqQg1bX"
@@ -4071,6 +4278,24 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "album": {
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "album": {

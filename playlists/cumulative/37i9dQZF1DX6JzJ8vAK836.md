@@ -4,7 +4,7 @@
 
 > Prince was a true original and earth\-shattering performer\. Hear Prince Rogers Nelson best right now.
 
-147 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
+147 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Gett Off](https://open.spotify.com/track/34cT9d3y26fAymXnMGnY1A) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Ultimate](https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW) | 4:32 | 2021-04-09 | 2022-11-14 |
 | [Gett Off \(with Eric Leeds\)](https://open.spotify.com/track/7h1ORpjTON2WXzu4BVOJBL) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp), [Eric Leeds](https://open.spotify.com/artist/7bNJ8B2kMi9urGEfKPsBGP) | [Diamonds and Pearls](https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ) | 4:31 | 2021-04-09 |  |
 | [Girls & Boys](https://open.spotify.com/track/1MkfvXtx2S7cSs9aqLnMGs) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 5:29 | 2021-04-09 |  |
-| [Graffiti Bridge](https://open.spotify.com/track/1i4WFRB8MziPmNZYdpZwhL) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Music from Graffiti Bridge](https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE) | 3:51 | 2021-04-09 |  |
+| [Graffiti Bridge](https://open.spotify.com/track/1i4WFRB8MziPmNZYdpZwhL) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Music from Graffiti Bridge](https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE) | 3:51 | 2021-04-09 | 2023-01-28 |
 | [Hot Thing](https://open.spotify.com/track/6HpPsCidc2enTdicqEmu7t) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 5:40 | 2021-04-09 |  |
 | [Housequake](https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 4:42 | 2021-04-09 |  |
 | [How Come U Don't Call Me Anymore](https://open.spotify.com/track/1hsLNUUza8uDcmTdnDXHXh) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ) | 3:53 | 2021-04-09 | 2022-11-13 |

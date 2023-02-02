@@ -4,7 +4,7 @@
 
 > Can't hide our love for the <a href="spotify:artist:4QQgXkCYTt3BlENzhyNETg">funk\-soul outfit</a>\. Hear all their pivotal tracks now.
 
-24 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/5McKKrcq0i1Kj11PtWkWai)
+24 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

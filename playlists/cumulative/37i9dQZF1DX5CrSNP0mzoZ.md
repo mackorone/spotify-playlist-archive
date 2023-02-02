@@ -4,7 +4,7 @@
 
 > Sir George Martins most essential work, all in one playlist.
 
-108 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/4PwSxALMn5jBhsE1Gt3Tqf)
+108 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

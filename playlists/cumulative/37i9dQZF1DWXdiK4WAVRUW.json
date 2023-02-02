@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "The most memorable country hits from the 2010s. Cover: Chris Stapleton",
   "name": "2010s Country",
-  "published_playlist_ids": [
-    "1rsikrd7wTVvtQeoOiLi8z"
-  ],
   "tracks": [
     {
       "album": {
@@ -199,7 +196,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 209586,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5"
@@ -1289,7 +1286,7 @@
       ],
       "date_added": "2021-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 219213,
       "name": "Drunk Last Night",
       "url": "https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu"
@@ -1884,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Where It's At",
+        "url": "https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "Hell Of A Night",
+      "url": "https://open.spotify.com/track/4x7Di9FZJXJoxHjLxjImmp"
+    },
+    {
+      "album": {
         "name": "Hell On Heels",
         "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
       },
@@ -2275,7 +2290,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 185706,
       "name": "I'd Be Jealous Too",
       "url": "https://open.spotify.com/track/7rdK9NSJIRBZAiXC0vuBS9"
@@ -2835,7 +2850,7 @@
       ],
       "date_added": "2021-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": "2023-01-19",
       "duration_ms": 185413,
       "name": "Mind Reader",
       "url": "https://open.spotify.com/track/2MNapHbu7QASoukvVVIxyr"
@@ -3033,7 +3048,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-24",
       "duration_ms": 221466,
       "name": "One Hell Of An Amen",
       "url": "https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu"
@@ -3051,7 +3066,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-20",
       "duration_ms": 221800,
       "name": "One Number Away",
       "url": "https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4"

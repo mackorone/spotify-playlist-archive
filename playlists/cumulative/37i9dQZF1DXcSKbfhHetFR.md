@@ -4,7 +4,7 @@
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-86 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/74OJ5cYHNaWeOdAyQV6W4i)
+86 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Big Bang](https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU) | 3:20 | 2020-06-23 |  |
 | [Big Bang](https://open.spotify.com/track/7bfnzQ0SdG1mi3pItHO4n7) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/01eDW3QDT4HjJ7vWa6tIup) | 3:20 | 2020-06-23 | 2022-07-29 |
 | [Boomerang](https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9) | [Kevin Parent](https://open.spotify.com/artist/5hOp5PaxAcdnaZtv4oqJCw) | [Pigeon d'argile](https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh) | 3:54 | 2020-06-23 |  |
-| [Brooklyn](https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De la nature des foules](https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds) | 4:04 | 2020-06-23 | 2022-11-21 |
+| [Brooklyn](https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De la nature des foules](https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds) | 4:04 | 2020-06-23 | 2022-12-08 |
 | [Brooklyn](https://open.spotify.com/track/6tRjHvO1aeme9LJa9aXVAm) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De La Nature Des Foules](https://open.spotify.com/album/7K0wywkxdWik8p4xJVjiJn) | 4:04 | 2020-06-23 | 2022-07-27 |
 | [Cité rock suicide](https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5) | 3:04 | 2020-06-23 |  |
 | [Cité Rock Suicide](https://open.spotify.com/track/7D9ayTlfonyW0I1MBxmcSQ) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0T6pG4W280cfFmHe4A7Tff) | 3:04 | 2020-06-23 | 2022-07-29 |
@@ -75,8 +75,8 @@
 | [Mystère aérosol](https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu) | [Projet Orange](https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF) | [Projet Orange](https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM) | 3:56 | 2020-06-23 |  |
 | [Poney](https://open.spotify.com/track/1IMSDNhQ6zhSWgx63PauPr) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [100% boeuf](https://open.spotify.com/album/3F7xxnoaf7k7jKTwCSFqDf) | 4:11 | 2020-06-23 | 2022-07-29 |
 | [Poney](https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [100% boeuf](https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG) | 4:11 | 2020-06-23 |  |
-| [R'viens Pas Trop Tard](https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS) | [Zebulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil Du Zig](https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe) | 3:27 | 2020-06-23 |  |
 | [R'viens pas trop tard](https://open.spotify.com/track/1ioXx9ydGHta9gGBpBk0Pe) | [Zebulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil du zig](https://open.spotify.com/album/1l1mu5K6NTehC49RGSr6UO) | 3:27 | 2020-06-23 | 2022-07-29 |
+| [R'viens Pas Trop Tard](https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS) | [Zébulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil Du Zig](https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe) | 3:27 | 2020-06-23 |  |
 | [Sa craque au soleil](https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Minimiser les dégâts](https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU) | 2:59 | 2020-06-23 |  |
 | [Savant Fou](https://open.spotify.com/track/57qp0M59ruMNZKalIYwXA8) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le Délire Du Savant Fou](https://open.spotify.com/album/4KSLEaEbTmkcVYabhLD3hR) | 3:19 | 2020-06-23 | 2022-07-29 |
 | [Sheila, ch'us là](https://open.spotify.com/track/4iIMoePwMCIAYHa7GNHG2u) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Manifestif](https://open.spotify.com/album/0Fg1s3NXYVcDRu0BMqNRwq) | 4:33 | 2020-06-23 | 2022-07-29 |

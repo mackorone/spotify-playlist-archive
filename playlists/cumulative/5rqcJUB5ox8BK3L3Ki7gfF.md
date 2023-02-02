@@ -4,7 +4,7 @@
 
 > 
 
-12 songs - 56 min 25 sec - [published](https://open.spotify.com/playlist/6golly3GslhB6tFvIDkzuA)
+12 songs - 56 min 25 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

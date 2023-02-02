@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-126 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/1KjSvUrAbFZ4YSc6mnzAWe)
+126 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

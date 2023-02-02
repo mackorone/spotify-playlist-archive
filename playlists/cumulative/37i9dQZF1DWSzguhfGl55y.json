@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-09",
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
   "name": "Deutschrap: Die Klassiker",
-  "published_playlist_ids": [
-    "1NRRCoL4dsZRszrXPBTXqP"
-  ],
   "tracks": [
     {
       "album": {
@@ -67,7 +64,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 213813,
       "name": "All 4 One",
       "url": "https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8"
@@ -143,6 +140,28 @@
       "duration_ms": 218106,
       "name": "Alles wird gut",
       "url": "https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK"
+    },
+    {
+      "album": {
+        "name": "Am Wasser gebaut",
+        "url": "https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        },
+        {
+          "name": "Pascal Finkenauer",
+          "url": "https://open.spotify.com/artist/3uc18KTx2wsLk11fOtavsT"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "An Tagen wie diesen",
+      "url": "https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD"
     },
     {
       "album": {
@@ -277,7 +296,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 224426,
       "name": "Bis zum Schluss (feat. Silbermond)",
       "url": "https://open.spotify.com/track/1MOnXaLoxHq0LESJkrwOFw"
@@ -553,6 +572,24 @@
       "duration_ms": 163506,
       "name": "Du bist Boss",
       "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
+    },
+    {
+      "album": {
+        "name": "Raop",
+        "url": "https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172208,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/063ltSmgXNffmgYxippeke"
     },
     {
       "album": {
@@ -897,7 +934,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 250706,
       "name": "Hey Du!",
       "url": "https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x"
@@ -1021,7 +1058,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-01",
       "duration_ms": 330409,
       "name": "Irgendwie, Irgendwo, Irgendwann",
       "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
@@ -1043,6 +1080,24 @@
       "duration_ms": 354133,
       "name": "Jein",
       "url": "https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR"
+    },
+    {
+      "album": {
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
     },
     {
       "album": {
@@ -1126,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Casia Deluxe",
+        "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
+      },
+      "artists": [
+        {
+          "name": "Miami Yacine",
+          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201979,
+      "name": "Kokaina",
+      "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
+    },
+    {
+      "album": {
         "name": "Kokaina",
         "url": "https://open.spotify.com/album/40CYJrASNrMCDr2x4UE60E"
       },
@@ -1177,6 +1250,24 @@
       "duration_ms": 252786,
       "name": "Kompass ohne Norden",
       "url": "https://open.spotify.com/track/3JRlbFxtiQQ84Jcg9f5m0q"
+    },
+    {
+      "album": {
+        "name": "Kompass ohne Norden (Premium Edition)",
+        "url": "https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY"
+      },
+      "artists": [
+        {
+          "name": "Prinz Pi",
+          "url": "https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252786,
+      "name": "Kompass ohne Norden",
+      "url": "https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf"
     },
     {
       "album": {
@@ -1245,7 +1336,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-02-02",
       "duration_ms": 254080,
       "name": "Liebes Lied",
       "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
@@ -1385,7 +1476,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 214973,
       "name": "Mittelfinger hoch - Remastered",
       "url": "https://open.spotify.com/track/6pUMwOnqt0DAvVYFtOLOb7"
@@ -1515,7 +1606,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 212506,
       "name": "Nur noch Gucci",
       "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
@@ -1815,6 +1906,24 @@
     {
       "album": {
         "name": "Demotape",
+        "url": "https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Schwule M\u00e4dchen",
+      "url": "https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4"
+    },
+    {
+      "album": {
+        "name": "Demotape",
         "url": "https://open.spotify.com/album/6QwV2M3WxXxapiLNJ7Vfx1"
       },
       "artists": [
@@ -1905,7 +2014,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 200960,
       "name": "Stumm (Xenja)",
       "url": "https://open.spotify.com/track/3MxUAsVtyFpJHObz3aeIws"

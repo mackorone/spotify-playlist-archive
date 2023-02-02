@@ -4,7 +4,7 @@
 
 > Discover new music while you game.
 
-203 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/1WIaiR237xVcOz8MRS6Z3O)
+203 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Everyone's welcome\. Cover: Zolita
 
-79 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/2yx49MiwxFvtLINia2IeXm)
+79 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

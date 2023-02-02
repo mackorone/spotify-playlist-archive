@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
   "name": "This Is Matt Maher",
-  "published_playlist_ids": [
-    "3RYiM0Z1VUR8qi10gB3VQT"
-  ],
   "tracks": [
     {
       "album": {
@@ -113,7 +110,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 249066,
       "name": "As It Is In Heaven",
       "url": "https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf"
@@ -672,6 +669,36 @@
     },
     {
       "album": {
+        "name": "The St. Nemele Collab Sessions",
+        "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "Tide Electric",
+          "url": "https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "It's You - Tide Electric Remix",
+      "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
+    },
+    {
+      "album": {
         "name": "Alive & Breathing",
         "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
@@ -869,7 +896,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 203000,
       "name": "My Old Friend (feat. Drew Holcomb)",
       "url": "https://open.spotify.com/track/11DODMoytrztXjlZt3Umhm"
@@ -985,7 +1012,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": "2023-02-02",
       "duration_ms": 280693,
       "name": "Rest",
       "url": "https://open.spotify.com/track/7nEzee6SW3xOxh5ciJsei2"
@@ -1087,7 +1114,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 209506,
       "name": "The Answer Is Yes",
       "url": "https://open.spotify.com/track/6Y20ove4oX9Qh7vf4YVS0q"

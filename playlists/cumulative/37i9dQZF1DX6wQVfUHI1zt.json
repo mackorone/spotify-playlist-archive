@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
   "name": "Tejano Classics",
-  "published_playlist_ids": [
-    "6URwDq5jHF13z7HKBrL5Ig"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 224200,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX"
@@ -127,7 +124,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245160,
       "name": "Aire",
       "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
@@ -163,7 +160,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 199733,
       "name": "Algun Dia",
       "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
@@ -448,6 +445,24 @@
     },
     {
       "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174973,
+      "name": "Cantarle a Ella",
+      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
+    },
+    {
+      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -549,7 +564,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 216346,
       "name": "Con Mis Alas Rotas",
       "url": "https://open.spotify.com/track/6uOuVy1yGf70OJFk0RBbh5"
@@ -603,7 +618,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 229306,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/4b7NywXvngCF1aB49IQLyC"
@@ -733,7 +748,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 273000,
       "name": "Donde Quiera Que Est\u00e9s",
       "url": "https://open.spotify.com/track/7qUmi5fQAZ2FWvVb91tAvU"
@@ -769,7 +784,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210653,
       "name": "D\u00e9jame Amarte",
       "url": "https://open.spotify.com/track/59WAVCfF8Emeoo7Re7Hl89"
@@ -813,6 +828,24 @@
       "duration_ms": 210880,
       "name": "El Cazador",
       "url": "https://open.spotify.com/track/0piZmtAOsmo98Fo7u3LhdX"
+    },
+    {
+      "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212760,
+      "name": "El Cazador",
+      "url": "https://open.spotify.com/track/3B6ZP7yDYHRuLbid9Bk0FO"
     },
     {
       "album": {
@@ -917,7 +950,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202360,
       "name": "Ens\u00e9\u00f1ame A Olvidarte",
       "url": "https://open.spotify.com/track/0shtd9B4bdC8Nf4hw5Ii7k"
@@ -935,7 +968,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 227853,
       "name": "Entre Cantina Y Cantina",
       "url": "https://open.spotify.com/track/7JGKCtGwKRGj70B3IQy0pp"
@@ -1007,7 +1040,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196973,
       "name": "Eso Duele",
       "url": "https://open.spotify.com/track/4r1UX2U2tHi639B4TwE5Vb"
@@ -1043,7 +1076,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 155373,
       "name": "Fotos Y Recuerdos",
       "url": "https://open.spotify.com/track/5l4yL1SGvwxuN3It1eupnu"
@@ -1141,7 +1174,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251493,
       "name": "La Carcacha",
       "url": "https://open.spotify.com/track/6ylsnFJHjC6g68EOlMpjnq"
@@ -1534,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231560,
+      "name": "Missing My Baby",
+      "url": "https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Hits (20 \u00c9xitos)",
         "url": "https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp"
       },
@@ -1599,7 +1650,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 190840,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/6wDNRITsP5tBCImheKBTgi"
@@ -1653,7 +1704,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 249866,
       "name": "No Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/1Qqnwem5JIf7TAE70BLav9"
@@ -2067,7 +2118,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220466,
       "name": "Qu\u00e9 M\u00e1s Te Puedo Dar",
       "url": "https://open.spotify.com/track/7JTgmtRq4WBy2jG6Ijm9m8"
@@ -2103,7 +2154,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 212466,
       "name": "Rosas Para Una Rosa",
       "url": "https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx"
@@ -2175,7 +2226,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 167040,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb"
@@ -2193,7 +2244,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 181400,
       "name": "Siempre Estoy Pensando En Ti",
       "url": "https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv"
@@ -2211,7 +2262,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193800,
       "name": "Siempre Hace Frio",
       "url": "https://open.spotify.com/track/3KVzV6YRMIWkaH5QsMXwuV"
@@ -2265,7 +2316,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-12",
       "duration_ms": 195293,
       "name": "Soy Un Novato",
       "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
@@ -2283,7 +2334,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255080,
       "name": "Sue\u00f1a",
       "url": "https://open.spotify.com/track/6LsysQAxBx5PVMbufJeqY9"
@@ -2409,7 +2460,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226226,
       "name": "Techno Cumbia",
       "url": "https://open.spotify.com/track/6M9FEVLhh9wQrsq2CUk6QR"
@@ -2714,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Vanidosa",
+      "url": "https://open.spotify.com/track/2YLoqYRDpNMwSvTGhjP3gC"
+    },
+    {
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -2743,7 +2812,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 254440,
       "name": "Vive",
       "url": "https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj"
@@ -2887,7 +2956,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 217426,
       "name": "Yo No Tengo La Culpa",
       "url": "https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy"

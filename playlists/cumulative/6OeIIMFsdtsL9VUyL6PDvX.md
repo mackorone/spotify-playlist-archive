@@ -4,7 +4,7 @@
 
 > All the hottest current Indie music you need....in one stop.
 
-50 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/25DWmuJQX0GyTqwbrYtz4k)
+50 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

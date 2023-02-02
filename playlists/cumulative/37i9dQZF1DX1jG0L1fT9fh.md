@@ -4,7 +4,7 @@
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-44 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/2rxmgpPODqNB3cMUVgn2dO)
+44 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

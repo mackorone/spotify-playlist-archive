@@ -4,7 +4,7 @@
 
 > Missa inte Rodriguez på Flamingo\-scenen på FREDAG / 15.00
 
-10 songs - 36 min 21 sec - [published](https://open.spotify.com/playlist/3whtACMFsu1ZdHDqYZxWEx)
+10 songs - 36 min 21 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-115 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/3f9kVVAg7rQUcBVrSRpqMR)
+116 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Fantastic Voyage](https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fantastic Voyage](https://open.spotify.com/album/4bRmuhsGOdor3O2Ry38A9q) | 6:10 | 2020-12-01 |  |
 | [Feel My Love](https://open.spotify.com/track/7w7D6vVWMiOSU36R6ynlki) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [Stone Jam](https://open.spotify.com/album/7COD6hL6iPGejF8vX9DeuC) | 4:30 | 2020-12-01 |  |
 | [Find Yourself](https://open.spotify.com/track/2HARPm6aXw19rpIcnbO1cO) | [Bobby Broom](https://open.spotify.com/artist/29107k7pRQHk8z1uuoFQMs) | [Livin' For The Beat](https://open.spotify.com/album/6rU9V1ljBot8ZidSJHA3bg) | 5:56 | 2020-12-01 |  |
-| [Freaks Come Out at Night](https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:42 | 2020-12-01 |  |
+| [Freaks Come Out at Night](https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:42 | 2020-12-01 |  |
+| [Freaks Come Out at Night](https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:42 | 2020-12-01 | 2022-11-27 |
 | [Freaks Come Out at Night](https://open.spotify.com/track/2vLOrivHqkIwYz5VkdQv8q) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Greatest Hits](https://open.spotify.com/album/7yhX9XtHGIQcCb5R7YotJq) | 4:44 | 2020-12-01 | 2022-11-13 |
 | [Funky Beat](https://open.spotify.com/track/3vuu5ZzHVZUP06pGVh3Cut) | [Bernard Wright](https://open.spotify.com/artist/2g8J4iI5qyYFMVHcpMcSsS) | [Funky Beat](https://open.spotify.com/album/2dTHsHrM8OX56YKtCTTPcf) | 5:40 | 2020-12-01 | 2022-08-12 |
 | [Get Down On It \- Single Version](https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:31 | 2020-12-01 |  |

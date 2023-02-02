@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 
 > The legendary producer and songwriting duo: Kenneth Gamble and Leon A\. Huff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,243 likes - 106 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,672 likes - 106 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 | 32 | [Something For Nothing \(feat\. Thom Bell\)](https://open.spotify.com/track/2mE2c3I140k7ji0BsNrSAI) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [Thom Bell](https://open.spotify.com/artist/5egxBktj5MbsJPxHkjH8nB) | [MFSB](https://open.spotify.com/album/13BJu1z2R5jGyvnftVVFG5) | 2:57 |
 | 33 | [Groovy People](https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 3:18 |
 | 34 | [No Axe Ta Grind](https://open.spotify.com/track/1iFXCoJRq6I2U2FGGqmFE2) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Rush Hour](https://open.spotify.com/album/3dNMa0JUueJrMPgqhN8yHS) | 5:27 |
-| 35 | [Use ta Be My Girl](https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:18 |
+| 35 | [Use ta Be My Girl \- Single Version](https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:18 |
 | 36 | [Everyone's a Star](https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 5:40 |
 | 37 | [The Big Gangster](https://open.spotify.com/track/3yusowABX74X8RzGsSwYwK) | [The Philadelphia International All\-Stars](https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX), [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let's Clean Up the Ghetto](https://open.spotify.com/album/2psrWvictVSOOD5zllFWBb) | 3:20 |
 | 38 | [You Gonna Make Me Love Somebody Else](https://open.spotify.com/track/7MRCd5tmZ2iURu4elcBsuH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:30 |

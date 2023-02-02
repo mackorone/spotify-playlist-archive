@@ -4,7 +4,7 @@
 
 > bangers
 
-245 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/2KXt26mkrHR5yTELIC9Skp)
+245 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [How To Fly](https://open.spotify.com/track/3jAoLij05OiNndX2XlSRdS) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/1dpC5MkRXeSEwnMMWG6t2z) | 3:22 | 2020-09-02 |  |
 | [Hunnybee](https://open.spotify.com/track/3DPFmwFtV5ElQaTniLOdgk) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc) | 4:28 | 2020-09-22 |  |
 | [I Loved You](https://open.spotify.com/track/0uq88T5irdgDj8myFCcu7q) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [I Loved You](https://open.spotify.com/album/6yxCi3OEM3xhKiXvVOEspO) | 3:41 | 2020-03-22 |  |
-| [I Ran \(So Far Away\)](https://open.spotify.com/track/2Rwux3fRY1xxl167muIo93) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Grand Theft Auto Vice City OST \(Greatest Hits\)](https://open.spotify.com/album/1A8LZSjPvRpcCJ3Jw4coZe) | 3:39 | 2020-03-28 |  |
+| [I Ran \(So Far Away\) \- Single Edit](https://open.spotify.com/track/2Rwux3fRY1xxl167muIo93) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Grand Theft Auto Vice City OST \(Greatest Hits\)](https://open.spotify.com/album/1A8LZSjPvRpcCJ3Jw4coZe) | 3:39 | 2020-03-28 |  |
 | [I Remember](https://open.spotify.com/track/6V7SBJsDG9B4iVywka4koo) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title](https://open.spotify.com/album/0jIGcf2ycn8eLfXhD3J5Ny) | 9:07 | 2020-07-24 |  |
 | [I've Been Waiting \(w/ ILoveMakonnen & Fall Out Boy\)](https://open.spotify.com/track/2v5JTeM6hSmi5wWy7jiwrI) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [I've Been Waiting \(w/ ILoveMakonnen & Fall Out Boy\)](https://open.spotify.com/album/4BQUTZlR3OMrBorJo1ahoY) | 3:53 | 2020-01-16 |  |
 | [If I Lose Myself \- Alesso vs OneRepublic](https://open.spotify.com/track/1hZk9dktp4yRFTm0TrycuH) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 3:34 | 2020-03-13 |  |
@@ -178,7 +178,6 @@
 | [Run](https://open.spotify.com/track/6p8eEdiZLKJH8tcjGZuNTK) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Run](https://open.spotify.com/album/6vC3YjRy755VljFSemBUu7) | 3:15 | 2020-03-19 |  |
 | [RUNNING IN THE 90'S](https://open.spotify.com/track/6DlPa2rrVK3BygXJ48WYo3) | [Max Coveri](https://open.spotify.com/artist/4aFf48VQYRT631OJGgVwUv) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:43 | 2020-03-28 |  |
 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 | 2020-03-23 |  |
-| [Safety Dance](https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rock Of The 80's](https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph) | 2:45 | 2020-03-22 |  |
 | [Sanctuary](https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Sanctuary](https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI) | 3:00 | 2020-03-13 |  |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2020-03-22 |  |
 | [Shades \(feat\. Donnie Sloan & Ricky Ducati\)](https://open.spotify.com/track/5EqvRNLWBnhHevkDIyCPU6) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Aurra / Shades](https://open.spotify.com/album/6HLdPDaMRZETi2daqsjscC) | 3:38 | 2020-09-02 |  |
@@ -217,6 +216,7 @@
 | [The Hill](https://open.spotify.com/track/1BDZ1YCRRQ0H4Tlz1PwiZM) | [Snowmine](https://open.spotify.com/artist/0UQCSEnTVyI8gtCVEeJMKN) | [Laminate Pet Animal](https://open.spotify.com/album/6FQd0E8BmZUktG4BA1bS39) | 3:45 | 2020-04-11 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2020-09-20 |  |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2020-03-23 |  |
+| [The Safety Dance](https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rock Of The 80's](https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph) | 2:45 | 2020-03-22 |  |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2020-03-23 |  |
 | [The Veldt \- Radio Edit](https://open.spotify.com/track/5H0CfA9GaNg0wROR9K3X3K) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Chris James](https://open.spotify.com/artist/74b7GmA2oW8OcG5lZorMFj) | [The Veldt \(feat\. Chris James\)](https://open.spotify.com/album/0WanInStsKUQQ22o8TzJEK) | 2:50 | 2020-09-02 |  |
 | [Thru My Hair](https://open.spotify.com/track/0SL3t6hWTxesu7A3z2prmV) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5ZMyvrspO5En45LxoipYkS) | 1:40 | 2020-02-25 |  |

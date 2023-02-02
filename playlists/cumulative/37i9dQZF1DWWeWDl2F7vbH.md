@@ -4,7 +4,7 @@
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-73 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/6Yv4Yq1148W8YtnN6t5EXN)
+73 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Dance You Mutha](https://open.spotify.com/track/4Lsm1CZ7dcStREyx82DNfY) | [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Dance You Mutha](https://open.spotify.com/album/46z9rRRERhimT8fptPcJMW) | 6:11 | 2021-06-01 |  |
 | [Dance You Mutha \- Radio Mutha](https://open.spotify.com/track/7LmXZmZh26Kix8scl972qB) | [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Dance You Mutha](https://open.spotify.com/album/2DfYPScpfIGYHsKk9IlrAO) | 4:20 | 2021-06-01 |  |
 | [Dance You Mutha \- Radio Mutha](https://open.spotify.com/track/1ZEbCVqY8cgrnTCPxMVecw) | [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Dance You Mutha](https://open.spotify.com/album/09pKLaWMiJuozwTd98kY1l) | 4:20 | 2021-06-01 | 2022-07-29 |
-| [Deep Inside](https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/573BQbP4hPr12C32Np5XDW) | 6:32 | 2021-06-01 |  |
+| [Deep Inside](https://open.spotify.com/track/22eUyC9vOG2aoP5yHX8VxV) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(2009 Mixes\)](https://open.spotify.com/album/573BQbP4hPr12C32Np5XDW) | 6:30 | 2021-06-01 |  |
 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 | 2021-06-01 |  |
 | [Dream Girl \- Wet Dream Mix](https://open.spotify.com/track/4xLRVwJ2hDzoaWijzbY6T1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk) | [Dream Girl](https://open.spotify.com/album/6LUK1l2Bxmmns70WRIx5uY) | 8:53 | 2021-06-01 | 2022-07-29 |
 | [Free Yourself](https://open.spotify.com/track/5MEWg5QOPwn3FMLDxoP1Wd) | [Virgo](https://open.spotify.com/artist/2ByXYkrbs6o7fQGrn17gZt) | [Trax Records: Queer Trax](https://open.spotify.com/album/4KQBQoG77BGnzTiE8cYIaa) | 3:31 | 2021-06-01 |  |

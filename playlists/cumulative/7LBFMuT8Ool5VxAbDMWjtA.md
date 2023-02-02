@@ -4,7 +4,7 @@
 
 > Dark trap beats and ethereal synth arpeggios.
 
-44 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/7GmLUngY30Mk7b4UmT1aSK)
+44 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

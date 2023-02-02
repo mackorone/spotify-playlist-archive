@@ -4,7 +4,7 @@
 
 > The best in folk and singer songwriter from the UK and Ireland.
 
-15 songs - 59 min 54 sec - [published](https://open.spotify.com/playlist/25nhzadB5UyiKjadgBAAMM)
+15 songs - 59 min 54 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

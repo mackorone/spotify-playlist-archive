@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Tamara Pyller
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: Thaiane Seghetto
 
-84 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/4QDjpH3HmVOxtM4Kgm7yQa)
+85 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 | 2022-08-05 |  |
 | [Azul do Céu](https://open.spotify.com/track/3v2bkyjuqCsb8RuHMXuLpI) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Azul do Céu](https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI) | 3:02 | 2022-08-05 |  |
 | [Batida](https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Batida](https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm) | 4:04 | 2022-08-05 |  |
+| [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 | 2023-01-20 |  |
 | [Caminhada](https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Leif Bessa \- Acústico](https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb) | 4:40 | 2022-08-05 |  |
 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 | 2022-08-05 |  |
 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 | 2022-08-05 | 2022-10-15 |
@@ -38,7 +39,7 @@
 | [Esperarei Com Paciência](https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Esperarei com Paciência](https://open.spotify.com/album/53C192EeqK9cTA0dohXePM) | 5:29 | 2022-08-05 |  |
 | [Eu Digo Sim](https://open.spotify.com/track/3l5V0o9V3XqKsenxlyUQFn) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [Teu Abraço Faz a Diferença](https://open.spotify.com/album/4AjL13617OAPBmkdO68s3i) | 4:39 | 2022-10-14 | 2022-11-13 |
 | [Eu Digo Sim](https://open.spotify.com/track/5iM0mfAZx3H6G8D2ZCejWz) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [Eu Digo Sim](https://open.spotify.com/album/6m24zX6QTmUfZaBg3V2DxL) | 4:39 | 2022-08-05 |  |
-| [Eu Não Sei Viver Sem Deus](https://open.spotify.com/track/4Qv4gxwa4xeQQ2K3wHItrR) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:41 | 2022-08-05 |  |
+| [Eu Não Sei Viver Sem Deus](https://open.spotify.com/track/4Qv4gxwa4xeQQ2K3wHItrR) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:41 | 2022-08-05 | 2023-01-21 |
 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 | 2022-08-05 |  |
 | [Eu To Vivo](https://open.spotify.com/track/1BEB3kRruqodB1A61Srmfc) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Eu To Vivo](https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt) | 4:16 | 2022-08-05 |  |
 | [Eu Vou](https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr) | [Thiago Ramalho](https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ) | [Eu Vou](https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp) | 3:29 | 2022-08-05 |  |

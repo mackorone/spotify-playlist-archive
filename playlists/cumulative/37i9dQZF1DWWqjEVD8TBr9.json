@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. 1-4-3, I LOVE YOU!",
+  "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. THE SOUND is here!",
   "name": "This Is Stray Kids",
-  "published_playlist_ids": [
-    "0Vxp66pxUmZYhcNuoMA3LI"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "#LoveSTAY",
+      "url": "https://open.spotify.com/track/44dZ49nRlFPSmX6A80rKB1"
+    },
     {
       "album": {
         "name": "SKZ2021",
@@ -203,6 +218,24 @@
       "duration_ms": 214726,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/74nVZpjqAjZvuOWmu3I6o5"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Alien (HAN)",
+      "url": "https://open.spotify.com/track/3czfvJgfEDfBT5OKA5qAU5"
     },
     {
       "album": {
@@ -530,6 +563,24 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "Because (Changbin, Felix)",
+      "url": "https://open.spotify.com/track/1Iu7bqGwYVB6OGq4uLt2ak"
+    },
+    {
+      "album": {
         "name": "SKZ2021",
         "url": "https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e"
       },
@@ -818,6 +869,24 @@
     },
     {
       "album": {
+        "name": "CASE 143 -Japanese ver.-",
+        "url": "https://open.spotify.com/album/2vC7q4Mem0uH1c7U6bTEeZ"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191964,
+      "name": "CASE 143 -Japanese ver.-",
+      "url": "https://open.spotify.com/track/3IjsvJc4SK3PT0SjhHKuvB"
+    },
+    {
+      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
       },
@@ -1016,6 +1085,60 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226106,
+      "name": "Close (HAN)",
+      "url": "https://open.spotify.com/track/7jcpg7osgYWffx9LmLEoZ4"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171973,
+      "name": "Connected (Bang Chan)",
+      "url": "https://open.spotify.com/track/3vGSv4l4czTve9jZoYeIWk"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208373,
+      "name": "Deep end (Felix)",
+      "url": "https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH"
+    },
+    {
+      "album": {
         "name": "SKZ2020",
         "url": "https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA"
       },
@@ -1124,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184813,
+      "name": "DOODLE (Changbin)",
+      "url": "https://open.spotify.com/track/786A4mxiKmPGHA7z7dPA9K"
+    },
+    {
+      "album": {
         "name": "SKZ2020",
         "url": "https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA"
       },
@@ -1157,6 +1298,24 @@
       "duration_ms": 191546,
       "name": "Double Knot",
       "url": "https://open.spotify.com/track/6VEwhm9m2rMnDKhc1WSLIA"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164106,
+      "name": "Drive (Bang Chan, Lee Know)",
+      "url": "https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt"
     },
     {
       "album": {
@@ -1247,6 +1406,24 @@
       "duration_ms": 172360,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213071,
+      "name": "FAM (Korean Ver.)",
+      "url": "https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN"
     },
     {
       "album": {
@@ -1546,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209573,
+      "name": "HaPpY (HAN)",
+      "url": "https://open.spotify.com/track/2KHgPAJycXwbZ2S1xuUT9T"
+    },
+    {
+      "album": {
         "name": "GO LIVE",
         "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
       },
@@ -1690,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180426,
+      "name": "Hug Me (I.N)",
+      "url": "https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL"
+    },
+    {
+      "album": {
         "name": "SKZ2020",
         "url": "https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi"
       },
@@ -1723,6 +1936,60 @@
       "duration_ms": 206840,
       "name": "I am YOU",
       "url": "https://open.spotify.com/track/6ZRkZgq3o9ouLJTELktXmL"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170693,
+      "name": "I GOT IT (HAN)",
+      "url": "https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "i hate to admit (Bang Chan)",
+      "url": "https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170733,
+      "name": "ice.cream (Hyunjin)",
+      "url": "https://open.spotify.com/track/07x9Jr01lqjlFycZsfKBae"
     },
     {
       "album": {
@@ -1856,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197146,
+      "name": "Limbo (Lee Know)",
+      "url": "https://open.spotify.com/track/0nuXhivBOFDiriWCpdyU93"
+    },
+    {
+      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF"
       },
@@ -1892,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210920,
+      "name": "Love Untold (Hyunjin)",
+      "url": "https://open.spotify.com/track/1SrsEuRiRoopW2pZDaHgVA"
+    },
+    {
+      "album": {
         "name": "SKZ2020",
         "url": "https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi"
       },
@@ -1925,6 +2228,32 @@
       "duration_ms": 211626,
       "name": "M.I.A.",
       "url": "https://open.spotify.com/track/4qB1r2kVuMjWhnHLk6N9m7"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Bang Chan",
+          "url": "https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV"
+        },
+        {
+          "name": "Changbin",
+          "url": "https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153453,
+      "name": "Maknae On Top (I.N)",
+      "url": "https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL"
     },
     {
       "album": {
@@ -2087,6 +2416,24 @@
       "duration_ms": 222440,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/6wFFqR7yjw21vqFvA08PWu"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188973,
+      "name": "miss you (Hyunjin)",
+      "url": "https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi"
     },
     {
       "album": {
@@ -2530,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173853,
+      "name": "Piece of a Puzzle (Changbin, Seungmin)",
+      "url": "https://open.spotify.com/track/56uBQujWiOiFMFg1R3TZUJ"
+    },
+    {
+      "album": {
         "name": "SKZ2021",
         "url": "https://open.spotify.com/album/3fFV6XeOkB9gGgMmZUij5e"
       },
@@ -2671,6 +3036,24 @@
       "duration_ms": 193469,
       "name": "ROCK",
       "url": "https://open.spotify.com/track/6w7dwWYHdrWEDmT3lBwVQB"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178720,
+      "name": "RUN (HAN)",
+      "url": "https://open.spotify.com/track/4jjaOnFqtAyiYmP7PdTJbO"
     },
     {
       "album": {
@@ -3052,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Stars and Raindrops (Seungmin)",
+      "url": "https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1"
+    },
+    {
+      "album": {
         "name": "Cl\u00e9 : LEVANTER",
         "url": "https://open.spotify.com/album/0st9OqpsKmmtwUz6cS14Fj"
       },
@@ -3085,6 +3486,28 @@
       "duration_ms": 189513,
       "name": "STOP",
       "url": "https://open.spotify.com/track/5rqvgt4X1q8M6PYDQm7PCg"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Bang Chan",
+          "url": "https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "Streetlight (Changbin)",
+      "url": "https://open.spotify.com/track/1Z6NmeYIfN4e8TuEYLFTKL"
     },
     {
       "album": {
@@ -3247,6 +3670,24 @@
       "duration_ms": 216120,
       "name": "TASTE (Lee Know, Hyunjin, Felix)",
       "url": "https://open.spotify.com/track/05ib88vsMeLfwlAfrZyz99"
+    },
+    {
+      "album": {
+        "name": "THE SOUND",
+        "url": "https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "THE SOUND",
+      "url": "https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI"
     },
     {
       "album": {
@@ -3427,6 +3868,24 @@
       "duration_ms": 185552,
       "name": "TOP - \"Tower of God\" OP",
       "url": "https://open.spotify.com/track/4yosBfkEtlSLxH7n4PonsI"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201720,
+      "name": "Up All Night (Bang Chan, Changbin, Felix, Seungmin)",
+      "url": "https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei"
     },
     {
       "album": {
@@ -3646,6 +4105,24 @@
     },
     {
       "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198186,
+      "name": "Wish You Back (HAN)",
+      "url": "https://open.spotify.com/track/1ifB8sqR8gd09DSEloo4Du"
+    },
+    {
+      "album": {
         "name": "KINGDOM <FINAL : WHO IS THE KING?>",
         "url": "https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4"
       },
@@ -3787,6 +4264,24 @@
       "duration_ms": 196386,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/25nbyqD4oqWU0RaXuAc74t"
+    },
+    {
+      "album": {
+        "name": "SKZ-REPLAY",
+        "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "ZONE (Bang Chan, Changbin, HAN)",
+      "url": "https://open.spotify.com/track/56ZpFy1kLsXwtbHWX1CgJ4"
     },
     {
       "album": {

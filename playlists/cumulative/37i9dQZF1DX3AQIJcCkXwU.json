@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-14",
   "description": "Sitar, flute, and sounds inspired by India.",
   "name": "Indian Chill",
-  "published_playlist_ids": [
-    "35PeRJtM8vZWEeAUhuM5S9"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,6 +92,24 @@
       "duration_ms": 165920,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
+    },
+    {
+      "album": {
+        "name": "Atman",
+        "url": "https://open.spotify.com/album/6p4iQ4XzoXSBbZXsQvqiVA"
+      },
+      "artists": [
+        {
+          "name": "Shaanti Dhvani",
+          "url": "https://open.spotify.com/artist/1dT771je9qOYSwruMXIkn7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186827,
+      "name": "Atman",
+      "url": "https://open.spotify.com/track/4VxBlGryb8qI5X3x2FfOW5"
     },
     {
       "album": {
@@ -275,6 +290,24 @@
       "duration_ms": 167403,
       "name": "Bombay Sunrise",
       "url": "https://open.spotify.com/track/6Qnj1hZkw76PzZdvpH0DRH"
+    },
+    {
+      "album": {
+        "name": "Brahman",
+        "url": "https://open.spotify.com/album/2jm6msuaCU8UPxL3zM24Qw"
+      },
+      "artists": [
+        {
+          "name": "Lemongrass",
+          "url": "https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192093,
+      "name": "Brahman",
+      "url": "https://open.spotify.com/track/7k3lKBWa8ptckauaJvolEF"
     },
     {
       "album": {
@@ -592,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Evening View",
+        "url": "https://open.spotify.com/album/3OtYiWnOf8okCbiPCnPnmD"
+      },
+      "artists": [
+        {
+          "name": "Sacred Flute",
+          "url": "https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218291,
+      "name": "Evening View",
+      "url": "https://open.spotify.com/track/1wdsGrjEMaUWbaprZ3TqSh"
+    },
+    {
+      "album": {
         "name": "Viceroy's House (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1BqDnHcyvW4wRpskiyYs3q"
       },
@@ -687,6 +738,24 @@
       "duration_ms": 268694,
       "name": "Ganges",
       "url": "https://open.spotify.com/track/4RZB877JhzYTNzzFdixZPD"
+    },
+    {
+      "album": {
+        "name": "Paradisio",
+        "url": "https://open.spotify.com/album/0W277zieZ5gyuFGMVEatBY"
+      },
+      "artists": [
+        {
+          "name": "Ganesh Punja",
+          "url": "https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242460,
+      "name": "Garden Dancers",
+      "url": "https://open.spotify.com/track/12d7WctzYFosYgHNi3d21n"
     },
     {
       "album": {
@@ -874,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Fatafat",
+        "url": "https://open.spotify.com/album/0n31gPh8AhLy1QkVxiv13h"
+      },
+      "artists": [
+        {
+          "name": "Vinod Kusari",
+          "url": "https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155007,
+      "name": "Jhilmill",
+      "url": "https://open.spotify.com/track/3Ig8gn22ScMgrv1cptU1js"
+    },
+    {
+      "album": {
         "name": "The Magic of Tagore - Instrumentals",
         "url": "https://open.spotify.com/album/6gyzmR2nG9OM6mJRW07aXs"
       },
@@ -1012,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp"
+      },
+      "artists": [
+        {
+          "name": "Bahn Kramina",
+          "url": "https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Kramina",
+      "url": "https://open.spotify.com/track/3W5kk8r0aKHUN5QwOIy7qh"
+    },
+    {
+      "album": {
         "name": "Indigo Sky",
         "url": "https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5"
       },
@@ -1027,6 +1132,24 @@
       "duration_ms": 164863,
       "name": "Lok Samastha - Instrumental Version",
       "url": "https://open.spotify.com/track/4l3rzdMhFlvk48wCQhAqyN"
+    },
+    {
+      "album": {
+        "name": "Lost In The Moment",
+        "url": "https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212525,
+      "name": "Lost In The Moment",
+      "url": "https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d"
     },
     {
       "album": {
@@ -1189,6 +1312,24 @@
       "duration_ms": 198059,
       "name": "Moksha",
       "url": "https://open.spotify.com/track/5DwDWj14zb1G2fF7xQgqbv"
+    },
+    {
+      "album": {
+        "name": "Optimistic Horizon",
+        "url": "https://open.spotify.com/album/172cwUyK1cBDDHl0lFdo8h"
+      },
+      "artists": [
+        {
+          "name": "ZoneMan",
+          "url": "https://open.spotify.com/artist/4mzinlkJyhkA2mAmZlZ07E"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142685,
+      "name": "Morning Dawn",
+      "url": "https://open.spotify.com/track/0AvtIHB9BG8N725eCesw5F"
     },
     {
       "album": {
@@ -1498,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Mtargashti",
+        "url": "https://open.spotify.com/album/1LSHwRDQnJlDG4YRLStcQN"
+      },
+      "artists": [
+        {
+          "name": "Panini Sanyal",
+          "url": "https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195581,
+      "name": "Pugli",
+      "url": "https://open.spotify.com/track/6bbaDHnK68EBKSQ3r7zFKZ"
+    },
+    {
+      "album": {
         "name": "Remembrance Soundscapes",
         "url": "https://open.spotify.com/album/6qxbqgTA9S4mZIOlXIGIs2"
       },
@@ -1533,6 +1692,24 @@
       "duration_ms": 352462,
       "name": "Puja - Soundscape Mix",
       "url": "https://open.spotify.com/track/2tXLZ9m1ZrvMqTnYHrO93b"
+    },
+    {
+      "album": {
+        "name": "Purnima ki chaand",
+        "url": "https://open.spotify.com/album/3Qq53OMuW4u0h5w4rLRKcM"
+      },
+      "artists": [
+        {
+          "name": "Rura Gazdar",
+          "url": "https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277427,
+      "name": "Purnima ki chaand",
+      "url": "https://open.spotify.com/track/24llUQZS9ieddJlB2k9xtR"
     },
     {
       "album": {
@@ -1619,7 +1796,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 246946,
       "name": "Raga Sundara",
       "url": "https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg"
@@ -1713,6 +1890,42 @@
       "duration_ms": 366610,
       "name": "Restful Dream",
       "url": "https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB"
+    },
+    {
+      "album": {
+        "name": "Restful Soul",
+        "url": "https://open.spotify.com/album/5gLOfe4Vaf4mESWj1M65v6"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Flute",
+          "url": "https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Restful Soul",
+      "url": "https://open.spotify.com/track/5hh8fqY2bwggOlpxqdXKAT"
+    },
+    {
+      "album": {
+        "name": "Rishikesh",
+        "url": "https://open.spotify.com/album/0KjdSZKXIKeptP5glnc6Ao"
+      },
+      "artists": [
+        {
+          "name": "AG Sintonia Project",
+          "url": "https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Rishikesh",
+      "url": "https://open.spotify.com/track/1n7VIBnXZFZlZZpRynyKCD"
     },
     {
       "album": {
@@ -1950,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Slowly Healing",
+        "url": "https://open.spotify.com/album/2a6QiYnjdRT9rclhvM2hQa"
+      },
+      "artists": [
+        {
+          "name": "Krishna's Flute",
+          "url": "https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Slowly Healing",
+      "url": "https://open.spotify.com/track/7B6uXznIUsatvSuZujLlsk"
+    },
+    {
+      "album": {
         "name": "Tales from the Grand Bazaar",
         "url": "https://open.spotify.com/album/1XlBWu2ANXdvk4t378lrqR"
       },
@@ -1986,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Sudhar",
+        "url": "https://open.spotify.com/album/4thvMMTyld6WqUZUue8Zop"
+      },
+      "artists": [
+        {
+          "name": "Sangenjaya",
+          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193090,
+      "name": "Sudhar",
+      "url": "https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI"
+    },
+    {
+      "album": {
         "name": "Sun Riser",
         "url": "https://open.spotify.com/album/1CtGzSHFnQW6THLOu4U1ZK"
       },
@@ -2001,6 +2250,24 @@
       "duration_ms": 266666,
       "name": "Sun Riser",
       "url": "https://open.spotify.com/track/26vVwggMW8iUbDDxlDygMJ"
+    },
+    {
+      "album": {
+        "name": "Sunsets",
+        "url": "https://open.spotify.com/album/5FYGIORjchWocCVAyVI3c3"
+      },
+      "artists": [
+        {
+          "name": "Namaste Flute",
+          "url": "https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248039,
+      "name": "Sunsets",
+      "url": "https://open.spotify.com/track/2NTE2WKQjhA8pWI0aVNHvr"
     },
     {
       "album": {
@@ -2069,7 +2336,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 234189,
       "name": "The Charmer",
       "url": "https://open.spotify.com/track/0QJrweWdWjeTgUCzlYNjw2"
@@ -2087,7 +2354,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 212750,
       "name": "The Deepest Of Sorrow",
       "url": "https://open.spotify.com/track/5TrqCiv8CSLHbSbvk0XDLo"
@@ -2329,6 +2596,28 @@
       "duration_ms": 225734,
       "name": "Videsh",
       "url": "https://open.spotify.com/track/45Doom4iSv6Z9NqPRFYAFd"
+    },
+    {
+      "album": {
+        "name": "Waves of Calm",
+        "url": "https://open.spotify.com/album/74aRdPsxFsBnZZeim5Ypid"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Optimism",
+          "url": "https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6"
+        },
+        {
+          "name": "Deepesh Sanmal",
+          "url": "https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "Waves of Calm",
+      "url": "https://open.spotify.com/track/7zgQw1P7vppFiqXuqlC8m3"
     },
     {
       "album": {

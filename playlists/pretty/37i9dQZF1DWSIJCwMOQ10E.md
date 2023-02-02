@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: La Mambanegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,714 likes - 85 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,935 likes - 85 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

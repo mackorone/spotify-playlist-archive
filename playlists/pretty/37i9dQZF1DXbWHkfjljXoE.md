@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Remembering the voices that have always spoken truth to power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,036 likes - 41 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,892 likes - 41 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 | 40 | [Still I Rise](https://open.spotify.com/track/3J9NZT8U0uyRd8ZYNCkOAq) | [Dr\. Maya Angelou](https://open.spotify.com/artist/0NmNdh2bUgGrrIbj5Ar8GQ) | [The Civil War : The Complete Work](https://open.spotify.com/album/3shDCBNvoYpBwIzBkx0XAK) | 0:57 |
 | 41 | [Civil Rights vs\. Social Privilege](https://open.spotify.com/track/5oolbgm69Ad0EUK6zzc79w) | [Martin Luther King, Jr.](https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB) | [Civil Rights vs\. Social Privilege](https://open.spotify.com/album/2bkgW7I8a8eDYiabY8VVF0) | 3:24 |
 
-Snapshot ID: `MTYxODYwMDIzMCwwMDAwMDAwMDE4Y2FjNjY0YTVmNDMwMWFjNTQyOWI4NzQzOTY3NDA2`
+Snapshot ID: `MTY3NDYyODg3NywwMDAwMDAwMGU3MGIxYjc4YzBlNTFiZmUyYjAxN2QxZmIyOGE4MmFi`

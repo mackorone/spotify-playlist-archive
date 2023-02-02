@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
   "name": "This Is Banda Zeta",
-  "published_playlist_ids": [
-    "1kVU1jZDJHhCSe6mul87xq"
-  ],
   "tracks": [
     {
       "album": {
@@ -350,6 +347,42 @@
     },
     {
       "album": {
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 183852,
+      "name": "D\u00e9jenme Si Estoy Llorando",
+      "url": "https://open.spotify.com/track/327zGhS8S9gjmdgqCfggiA"
+    },
+    {
+      "album": {
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138749,
+      "name": "Echando Los Perros",
+      "url": "https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc"
+    },
+    {
+      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
@@ -541,7 +574,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 211466,
       "name": "El Zorro y el Sabueso",
       "url": "https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy"
@@ -674,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168124,
+      "name": "Hoy es Viernes y el Cuerpo lo Sabe",
+      "url": "https://open.spotify.com/track/2EEkUBOe9TkdxaWVYiBfWU"
+    },
+    {
+      "album": {
         "name": "Hoy es Viernes y el Cuerpo lo Sabe",
         "url": "https://open.spotify.com/album/3V2sbS5J5XYiH1tZoBFlMX"
       },
@@ -685,7 +736,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 168124,
       "name": "Hoy es Viernes y el Cuerpo lo Sabe",
       "url": "https://open.spotify.com/track/2PEj6MY7FQQn3zrEcF1KsJ"

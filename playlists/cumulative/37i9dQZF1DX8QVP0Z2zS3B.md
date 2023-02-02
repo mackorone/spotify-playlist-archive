@@ -4,7 +4,7 @@
 
 > Las más escuchadas en la ciudad de la furia.
 
-45 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/69ZTyzFYhYMtgZ9pB2xsv6)
+45 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

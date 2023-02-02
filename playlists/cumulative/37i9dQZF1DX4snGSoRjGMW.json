@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Soul meets blues. Cover: Bettye LaVette",
+  "description": "Soul meets blues. Cover: Joe Louis Walker",
   "name": "Soul Blues",
-  "published_playlist_ids": [
-    "4x3y9tbJcqa6IgGXE6xIIK"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-21",
       "duration_ms": 242027,
       "name": "All The Way Down",
       "url": "https://open.spotify.com/track/353BumIgA33r4FzY84JCaF"
@@ -109,7 +106,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 257373,
       "name": "Betcha Didn't Know",
       "url": "https://open.spotify.com/track/4TZu49CcAiDfYiQqxGBOoR"
@@ -127,7 +124,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": "2023-02-01",
       "duration_ms": 236146,
       "name": "Black Cat Roun' My Do'",
       "url": "https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM"
@@ -296,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Don't Walk Out That Door",
+        "url": "https://open.spotify.com/album/5rtVWnIqV2kos0M7PE0KdO"
+      },
+      "artists": [
+        {
+          "name": "Joe Louis Walker",
+          "url": "https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249045,
+      "name": "Don't Walk Out That Door",
+      "url": "https://open.spotify.com/track/7dlPFiCTg6YXAjqmn6GwjA"
+    },
+    {
+      "album": {
         "name": "Leaving Mood",
         "url": "https://open.spotify.com/album/4YBT9ZGhAe1vHUEEvt16kX"
       },
@@ -311,7 +326,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 213920,
       "name": "Earnestine",
       "url": "https://open.spotify.com/track/7Jxp79DHtduKJ7YPo4lDaC"
@@ -441,7 +456,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 255693,
       "name": "Going to the Shack",
       "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
@@ -513,7 +528,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 332826,
       "name": "Honey It's Your Fault",
       "url": "https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv"
@@ -531,7 +546,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 265133,
       "name": "I Can't Hold It",
       "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
@@ -787,7 +802,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 389373,
       "name": "Living",
       "url": "https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu"
@@ -953,7 +968,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 320666,
       "name": "On The Drift",
       "url": "https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX"
@@ -971,7 +986,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 206466,
       "name": "On The Surface",
       "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
@@ -1043,7 +1058,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 265053,
       "name": "Reckless Heart",
       "url": "https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF"
@@ -1101,6 +1116,24 @@
       "duration_ms": 184306,
       "name": "Soul Deep",
       "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/3W8UBKrVDYpY9sXhDB7cDi"
+      },
+      "artists": [
+        {
+          "name": "Mighty Sam McClain",
+          "url": "https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 290826,
+      "name": "Standing In The Wings",
+      "url": "https://open.spotify.com/track/0GPkIcpZbx8c79jUA72UfG"
     },
     {
       "album": {
@@ -1299,7 +1332,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": "2023-01-22",
       "duration_ms": 235000,
       "name": "The Streets Will Love You To Death",
       "url": "https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX"
@@ -1375,7 +1408,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 249893,
       "name": "What's It Take?",
       "url": "https://open.spotify.com/track/0DD4k4dwa8AzxphFMzC5xp"
@@ -1465,7 +1498,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 243044,
       "name": "You Got the Goods on You",
       "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"

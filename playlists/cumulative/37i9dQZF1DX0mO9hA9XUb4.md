@@ -4,7 +4,7 @@
 
 > a musical love letter to fearless immigrant daughters\. to diaspora children showing up and taking names\. to the firsts, but not the lasts\. to queer & multilingual & proudly Asian American Pacific Islanders, Rina said it best, we out here!
 
-49 songs - 2 hr 32 min - [published](https://open.spotify.com/playlist/5aq1x76lhZ1mUQJyseE4R3)
+49 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

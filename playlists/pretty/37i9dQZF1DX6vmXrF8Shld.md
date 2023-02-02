@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,996 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,703 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 2 | [Memphis Soul Stew](https://open.spotify.com/track/6MqfTP3OwngywVTOS5OAFt) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [King Size Soul](https://open.spotify.com/album/10oWkzpDsLfD1lq21m6RPr) | 2:59 |
 | 3 | [Tell Mama](https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:24 |
 | 4 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
-| 5 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
-| 6 | [Say It Loud \- I'm Black And I'm Proud \- Pts.1 & 2](https://open.spotify.com/track/6uPuweWZXRKhP2i9sBmun4) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Say It Loud \- I'm Black And I'm Proud](https://open.spotify.com/album/3vNuxh79Nz0zpdYOtD7gXM) | 4:46 |
+| 5 | [Say It Loud \- I'm Black And I'm Proud \- Pts.1 & 2](https://open.spotify.com/track/6uPuweWZXRKhP2i9sBmun4) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Say It Loud \- I'm Black And I'm Proud](https://open.spotify.com/album/3vNuxh79Nz0zpdYOtD7gXM) | 4:46 |
+| 6 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
 | 7 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 8 | [Love Man](https://open.spotify.com/track/16dz1n3ctolQbuZPtvHVqH) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Love Man](https://open.spotify.com/album/5K3FfkoIozJuEOhiwOm5SR) | 2:19 |
 | 9 | [Potatoe Mash](https://open.spotify.com/track/5YdMKQEtVQG03RkRDNXGq4) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Ike & Tina Turner’s Kings Of Rhythm Dance](https://open.spotify.com/album/0uaK7DLos0cAZe4GxkLgKC) | 2:17 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 14 | [Do The Funky Chicken](https://open.spotify.com/track/2kzYaLoVgoNMRg4lyNTqWr) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Walkin' The Dog](https://open.spotify.com/album/3KNSMdEzH4c98UoD9t0IkJ) | 3:27 |
 | 15 | [There Was A Time](https://open.spotify.com/track/3cEo5poFlZ9yen1ugTCbj0) | [The Dapps](https://open.spotify.com/artist/6kfQGlrjoxoyhzCr3BaKuk), [Alfred Ellis](https://open.spotify.com/artist/15iriNEg37RFdKlpW3XFGW) | [The Singles Vol\. 5: 1967\-1969](https://open.spotify.com/album/445ijS6GDbxbsGwt22yVY9) | 2:30 |
 | 16 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 |
-| 17 | [Here Comes The Judge](https://open.spotify.com/track/6yNprdbGhzfEwSIaS1GvRV) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [Summer of Motown](https://open.spotify.com/album/1Jkc8r3Uj1ysSQdNjjsSbp) | 2:37 |
+| 17 | [Here Comes The Judge](https://open.spotify.com/track/2FoOmATzzZmtaD6hKrpDRB) | [Shorty Long](https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ) | [Here Comes The Judge \(Expanded Edition\)](https://open.spotify.com/album/06M17CoGEyKAEUGB4xOlea) | 2:38 |
 | 18 | [Soul Finger](https://open.spotify.com/track/3FmaFVYVcdvvdSKr2oqKJ0) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Hip 60s](https://open.spotify.com/album/2bpsJ83ZN4Vgu8xuHu6g54) | 2:21 |
 | 19 | [Papa's Got a Brand New Bag](https://open.spotify.com/track/4gBDbXvzx8uDEWrA7Qo1KZ) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Together](https://open.spotify.com/album/5dlq4IV7malpLfG36zMj6T) | 3:19 |
 | 20 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 38 | [Strokin](https://open.spotify.com/track/26lWSZtUQvUhTnjqokay5p) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [I Got Rhythm](https://open.spotify.com/album/7JAvGHIPXh83xArPTYTmm7) | 4:35 |
 | 39 | [Bongo Rock](https://open.spotify.com/track/1yAHShjpL6S7s57aBZjB2x) | [The Incredible Bongo Band](https://open.spotify.com/artist/09d32fi1Y0qZDJQ9dj7kKa) | [In the Midnight Hour](https://open.spotify.com/album/1uhMW8QosGPAtGV5RXG64u) | 2:36 |
 | 40 | [We Got More Soul](https://open.spotify.com/track/5FrCb3dn8zBDQidICpI4Q5) | [Dyke & The Blazers](https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg) | [Dyke's Greatest Hits \- The Complete Singles](https://open.spotify.com/album/1zv9Oq5IrsdEuOzor9DxZj) | 3:19 |
-| 41 | [Everything I Do Goin' Be Funky](https://open.spotify.com/track/5EQRiL6hOtongNIxiTKIM4) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [The Platinum Collection](https://open.spotify.com/album/3iSaoLNyr2b1u0hfAzNsiM) | 3:17 |
+| 41 | [Everything I Do Goin' Be Funky](https://open.spotify.com/track/2DeZEHRDH35GWfHMkAV6Ih) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [The Platinum Collection](https://open.spotify.com/album/7Lwx1Q6GHeKp6p8pnSgGu6) | 3:17 |
 | 42 | [I Can't Stop Dancing](https://open.spotify.com/track/3evKZi4dI9Nw7Hit26XFN9) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [I Can't Stop Dancing](https://open.spotify.com/album/6EOG2HlsfnM8YDoimOiCyS) | 2:21 |
 | 43 | [Licking Stick \- Licking Stick](https://open.spotify.com/track/5SUq4LjsJjYSGq9IIjEiBP) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Say It Loud \- I'm Black And I'm Proud](https://open.spotify.com/album/3vNuxh79Nz0zpdYOtD7gXM) | 2:52 |
 | 44 | [Can I Change My Mind](https://open.spotify.com/track/0zyyaMpWRZNSx2GqAMFKX3) | [Tyrone Davis](https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd) | [Can I Change My Mind](https://open.spotify.com/album/3WcptYwEwFcxhnhci37i3L) | 2:57 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 68 | [No Way](https://open.spotify.com/track/6TlXKWSyZuHMS4qANLwVgE) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [No Way!](https://open.spotify.com/album/4HgaispO1KpzuYAKljvrgM) | 7:17 |
 | 69 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 |
 
-Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMGNjZWU5M2I3NjEyZmQwZWY5MTM4ODdlYTY4ZjZjNTdm`
+Snapshot ID: `MTY3MTAyNjYxMywwMDAwMDAwMDk5MGRmZjI2YWRlOTYzMmU4OTE4YjE3NWQ0OGI2YzE3`

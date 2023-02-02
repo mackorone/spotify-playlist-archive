@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-01",
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
   "name": "Sun & Surf",
-  "published_playlist_ids": [
-    "0qekuHpLuIk7DFeuQZ1pAT"
-  ],
   "tracks": [
     {
       "album": {
@@ -1647,7 +1644,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 240600,
       "name": "No Song Unheard",
       "url": "https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed"
@@ -2079,10 +2076,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 192120,
       "name": "T-Shirt Weather",
       "url": "https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH"
+    },
+    {
+      "album": {
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "T-Shirt Weather",
+      "url": "https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ"
     },
     {
       "album": {
@@ -2097,7 +2112,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-24",
       "duration_ms": 242013,
       "name": "Tall Man Skinny Lady",
       "url": "https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG"

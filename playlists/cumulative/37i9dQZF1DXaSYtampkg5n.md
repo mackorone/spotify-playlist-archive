@@ -4,7 +4,7 @@
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-103 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/41r1TwzS2DsY8J0laGzpi0)
+103 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

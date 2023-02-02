@@ -4,7 +4,7 @@
 
 > Relax and slip into this eclectic mix of reggae infused tracks.
 
-63 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/46NRebXBh8HX6qp1qL56cG)
+64 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Make Me Feel \(feat\. Rick Ross & Ari Lennox\)](https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Make Me Feel](https://open.spotify.com/album/5debgHMJNijFtEvXbR6LS0) | 3:12 | 2021-10-28 |  |
 | [Money Call](https://open.spotify.com/track/4GOHRjfZXRZDHkv6RRMNcq) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [The Familiar Stranger](https://open.spotify.com/album/2wIVGAaTdqqc7OsOkCUfih) | 3:54 | 2021-10-28 |  |
 | [Money Call](https://open.spotify.com/track/4Xa68Oy7He9wkodJuRQEXW) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [The Familiar Stranger](https://open.spotify.com/album/31r2AedXvvd13nNpVRfcC6) | 3:54 | 2021-10-28 | 2022-10-13 |
-| [Mood Forever](https://open.spotify.com/track/1RxSIa8oMMPzBjjpKsgN3S) | [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Mood Forever](https://open.spotify.com/album/3DDk8Okv8KjmnlOwSALaH9) | 2:54 | 2021-10-28 |  |
+| [Mood Forever](https://open.spotify.com/track/1RxSIa8oMMPzBjjpKsgN3S) | [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Mood Forever](https://open.spotify.com/album/3DDk8Okv8KjmnlOwSALaH9) | 2:54 | 2021-10-28 | 2023-01-22 |
+| [Mood Forever](https://open.spotify.com/track/5O66ltnew3GTXTvMFaK3tv) | [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Mood Forever EP](https://open.spotify.com/album/6sIctZXhBIDn7yG3kgwzD9) | 2:54 | 2021-10-28 |  |
 | [My Girl \(with Jesse Royal\)](https://open.spotify.com/track/7aoFX5COiBtWVtPrICoIPN) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [My Girl \(with Jesse Royal\)](https://open.spotify.com/album/7oJPNVO1uedU2le7WqIFFq) | 2:47 | 2021-10-28 |  |
 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 | 2021-10-28 |  |
 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 | 2021-10-28 |  |

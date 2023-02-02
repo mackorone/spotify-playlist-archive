@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Let these contemplative couplets take you away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,773 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,269 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 8 | [Aaj Jane Ki Zid Na Karo \(Live\)](https://open.spotify.com/track/4alS0xW23tUwqscT8CkPM3) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Farida Khanum In Concert \(Live\)](https://open.spotify.com/album/2LgI5h8no2UbfcEC09Nwws) | 7:29 |
 | 9 | [Chhupana Bhi Nahin Aata \(From "Baazigar"\)](https://open.spotify.com/track/2oAy8P7WfjbZW0cWw6RnAG) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 5:22 |
 | 10 | [Mujhe Tum Nazar Se Gira To Rahe Ho](https://open.spotify.com/track/6D5YqPRZo1OfpD2cy5hUz1) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Strokes Of Sohail Rana](https://open.spotify.com/album/45zJ5AmAvKqBnCsfymVLbV) | 3:55 |
-| 11 | [Ahista](https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 7:13 |
+| 11 | [Ahista](https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 7:13 |
 | 12 | [Jeeye to Jeeye Kaise \(From "Saajan"\)](https://open.spotify.com/track/6xkH51odPN6GVpMgth0lWL) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 3:29 |
 | 13 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 |
 | 14 | [Rafta Rafta Voh Meri Hasti Ka](https://open.spotify.com/track/1m4wwtRG4UIB7GreQFP5QQ) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan Golden Film Hits Vol\-2](https://open.spotify.com/album/4bEaStiLiA9kJ9uOWam9Ct) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 49 | [Para Para Hua](https://open.spotify.com/track/6sjMz9ZnmYzn6bRBHiMQG7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 3:53 |
 | 50 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 5:45 |
 
-Snapshot ID: `MTY2ODAwMTIyNiwwMDAwMDAwMDk1NzYwYmJkOTQ3ZGJiZTE1ZGFiMDYzYmJiMWE5NzA4`
+Snapshot ID: `MTY3NTI0OTIzOSwwMDAwMDAwMDE0NGNiODQ5MDE1ZjgwY2RlNGFhNDY1MzkyMDNiZGEy`

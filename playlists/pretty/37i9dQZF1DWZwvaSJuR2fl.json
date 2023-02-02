@@ -1,12 +1,12 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 48507,
+  "num_followers": 51737,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDZhMmYwMTNmZTlmNWM3NWRhZGU1OWU0ODgxNDBjN2Nj",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDdmYzM3N2ZjMzczNTEwN2FhNmZjNDE4N2M1Y2VmYjYz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -57,7 +57,7 @@
         }
       ],
       "duration_ms": 472026,
-      "name": "Symphony No.9 in E minor, Op.95 \"From the New World\": 3. Scherzo (Molto vivace)",
+      "name": "Symphony No. 9 in E minor, Op. 95 \"From the New World\": 3. Scherzo (Molto vivace)",
       "url": "https://open.spotify.com/track/1iWisEXDWWOuoTAeJDNHTT"
     },
     {
@@ -219,6 +219,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
+        "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Luzerner Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
+        },
+        {
+          "name": "James Gaffigan",
+          "url": "https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M"
+        }
+      ],
+      "duration_ms": 461080,
+      "name": "Symphony No. 6 in D Major, Op. 60, B. 112: III. Scherzo (Furiant)",
+      "url": "https://open.spotify.com/track/0NFO85vWTMQK6gE9aH3s8C"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Dvor\u00e1k: Rusalka",
         "url": "https://open.spotify.com/album/1MbSqz9rKKrafWGK21gdJv"
       },
@@ -243,30 +267,6 @@
       "duration_ms": 385440,
       "name": "Rusalka, Op. 114 / Act 1: Mesicku na nebi hlubok\u00e9m",
       "url": "https://open.spotify.com/track/00wWGgq0SV0nfmUTUeb0eu"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
-        "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Luzerner Sinfonieorchester",
-          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
-        },
-        {
-          "name": "James Gaffigan",
-          "url": "https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M"
-        }
-      ],
-      "duration_ms": 461080,
-      "name": "Symphony No. 6 in D Major, Op. 60, B. 112: III. Scherzo (Furiant)",
-      "url": "https://open.spotify.com/track/0NFO85vWTMQK6gE9aH3s8C"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -319,8 +319,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
-        "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
+        "name": "Dvo\u0159\u00e1k: Cello Concerto",
+        "url": "https://open.spotify.com/album/5pZUua8KjKwIUBHprq1gcE"
       },
       "artists": [
         {
@@ -328,13 +328,21 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+          "name": "Jacqueline du Pr\u00e9",
+          "url": "https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
         }
       ],
-      "duration_ms": 194541,
-      "name": "VIII. Goblins' Dance",
-      "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
+      "duration_ms": 798132,
+      "name": "Dvo\u0159\u00e1k: Cello Concerto in B Minor, Op. 104, B. 191: II. Adagio ma non troppo",
+      "url": "https://open.spotify.com/track/2Eg68dTteuw8EDHToPtKbe"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -377,14 +385,14 @@
         }
       ],
       "duration_ms": 282440,
-      "name": "8 Slavonic Dances, Op.46, B.83: No.8 in G Minor (Presto)",
+      "name": "8 Slavonic Dances, Op. 46, B.83: No. 8 in G Minor (Presto)",
       "url": "https://open.spotify.com/track/6Y4jMyx3KfDJRYyGNP1LYT"
     },
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Poetic Tone Pictures, Op.85/IX. Serenade",
-        "url": "https://open.spotify.com/album/36qLB0biVdPu8ULEOdDsi3"
+        "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
+        "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
       },
       "artists": [
         {
@@ -392,13 +400,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+          "name": "Czech Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
         }
       ],
-      "duration_ms": 316861,
-      "name": "IX. Serenade",
-      "url": "https://open.spotify.com/track/0SRigmImBiUL3k3Wvm9dy8"
+      "duration_ms": 265707,
+      "name": "8 Slavonic Dances, Op. 46, B.83: No. 1 in C (Presto)",
+      "url": "https://open.spotify.com/track/4ufKPZ02YSD0e2Qr6EQrq8"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -427,8 +439,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
-        "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
+        "name": "Borodin, Dvorak & Shostakovich String Quartets",
+        "url": "https://open.spotify.com/album/57kXR3zqpL5ziZX64QYC6N"
       },
       "artists": [
         {
@@ -436,23 +448,19 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Czech Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
-        },
-        {
-          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
-          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+          "name": "Chilingirian Quartet",
+          "url": "https://open.spotify.com/artist/31Q9Bw9JjyG9ySC2d0aZa2"
         }
       ],
-      "duration_ms": 265707,
-      "name": "8 Slavonic Dances, Op.46, B.83: No.1 in C (Presto)",
-      "url": "https://open.spotify.com/track/4ufKPZ02YSD0e2Qr6EQrq8"
+      "duration_ms": 385000,
+      "name": "String Quartet No. 12 in F Major, \"American\", Op. 96: II. Lento",
+      "url": "https://open.spotify.com/track/2nv71TEiLpcoGdjc5TLVcv"
     },
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Cello Concerto",
-        "url": "https://open.spotify.com/album/5pZUua8KjKwIUBHprq1gcE"
+        "name": "Dvorak: Ballad / Capriccio / Silent Woods",
+        "url": "https://open.spotify.com/album/0CBYGtU6z7YIb3OTKUMPq2"
       },
       "artists": [
         {
@@ -460,21 +468,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Jacqueline du Pr\u00e9",
-          "url": "https://open.spotify.com/artist/5VRErWhTZd0si1lqt1DwoW"
+          "name": "Zhou Qian",
+          "url": "https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n"
         },
         {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        },
-        {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+          "name": "Edmund Battersby",
+          "url": "https://open.spotify.com/artist/5uRiliqFaektxtLMHVxXWB"
         }
       ],
-      "duration_ms": 798132,
-      "name": "Dvo\u0159\u00e1k: Cello Concerto in B Minor, Op. 104, B. 191: II. Adagio ma non troppo",
-      "url": "https://open.spotify.com/track/2Eg68dTteuw8EDHToPtKbe"
+      "duration_ms": 168733,
+      "name": "7 Gipsy Melodies, Op. 55, \"Zigeunerlieder\" (Arr. For Violin And Piano) : Songs My Mother Taught Me, Op. 55, No. 4",
+      "url": "https://open.spotify.com/track/46dZZ9QPMUpoCLFNV2dWPb"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -527,26 +531,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Borodin, Dvorak & Shostakovich String Quartets",
-        "url": "https://open.spotify.com/album/57kXR3zqpL5ziZX64QYC6N"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Chilingirian Quartet",
-          "url": "https://open.spotify.com/artist/31Q9Bw9JjyG9ySC2d0aZa2"
-        }
-      ],
-      "duration_ms": 385000,
-      "name": "String Quartet No. 12 in F Major, \"American\", Op. 96: II. Lento",
-      "url": "https://open.spotify.com/track/2nv71TEiLpcoGdjc5TLVcv"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
         "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
       },
@@ -565,14 +549,14 @@
         }
       ],
       "duration_ms": 435506,
-      "name": "8 Slavonic Dances, Op.46, B.83: No.4 in F Major (Tempo di minuetto)",
+      "name": "8 Slavonic Dances, Op. 46, B.83: No. 4 in F Major (Tempo di minuetto)",
       "url": "https://open.spotify.com/track/4mHBcmw0ZYMWk1Fq5l20vn"
     },
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: Ballad / Capriccio / Silent Woods",
-        "url": "https://open.spotify.com/album/0CBYGtU6z7YIb3OTKUMPq2"
+        "name": "Poetic Tone Pictures, Op.85/IX. Serenade",
+        "url": "https://open.spotify.com/album/36qLB0biVdPu8ULEOdDsi3"
       },
       "artists": [
         {
@@ -580,37 +564,13 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Zhou Qian",
-          "url": "https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n"
-        },
-        {
-          "name": "Edmund Battersby",
-          "url": "https://open.spotify.com/artist/5uRiliqFaektxtLMHVxXWB"
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 168733,
-      "name": "7 Gipsy Melodies, Op. 55, \"Zigeunerlieder\" (Arr. For Violin And Piano) : Songs My Mother Taught Me, Op. 55, No. 4",
-      "url": "https://open.spotify.com/track/46dZZ9QPMUpoCLFNV2dWPb"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvor\u00e1k: String Quartet No.12 \"American\"; Cypresses / Kod\u00e1ly: String Quartet No.2",
-        "url": "https://open.spotify.com/album/4QXstwQSFmDbIHpUsIZaZ6"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Hagen Quartett",
-          "url": "https://open.spotify.com/artist/4301XXSbiO4YrZZcuyktbB"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "Cypresses B.152: 2. Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/2mBOzoBef0iVn84E9k5lta"
+      "duration_ms": 316861,
+      "name": "IX. Serenade",
+      "url": "https://open.spotify.com/track/0SRigmImBiUL3k3Wvm9dy8"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -639,8 +599,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 9 \"From the New World\" (Live)",
-        "url": "https://open.spotify.com/album/0IT7dlpnQAfmSjIAiSAboK"
+        "name": "Dvor\u00e1k: String Quartet No.12 \"American\"; Cypresses / Kod\u00e1ly: String Quartet No.2",
+        "url": "https://open.spotify.com/album/4QXstwQSFmDbIHpUsIZaZ6"
       },
       "artists": [
         {
@@ -648,93 +608,13 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+          "name": "Hagen Quartett",
+          "url": "https://open.spotify.com/artist/4301XXSbiO4YrZZcuyktbB"
         }
       ],
-      "duration_ms": 728333,
-      "name": "Symphony No. 9 in E Minor, Op. 95 \"From the New World\": I. Adagio - Allegro molto - Live",
-      "url": "https://open.spotify.com/track/4pwNxKW2ivTmVU9QIKYkjR"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvorak: American Suite / Silent Woods / Prague Waltzes",
-        "url": "https://open.spotify.com/album/5Q24oT8LWAFYPhK7XoikEP"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Dmitry Yablonsky",
-          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
-        },
-        {
-          "name": "Russian Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
-        }
-      ],
-      "duration_ms": 375240,
-      "name": "Rondo in G Minor, Op. 94, B. 181: Rondo in G Minor for Cello and Orchestra, B. 181 (Op. 94)",
-      "url": "https://open.spotify.com/track/41Q5cgcO7iL0WutKR9TnsJ"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Glazunov / Dvorak: Violin Concertos in A Minor",
-        "url": "https://open.spotify.com/album/1z8rgtizIxOh2flYQanLqb"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Ilya Kaler",
-          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Camilla Kolchinsky",
-          "url": "https://open.spotify.com/artist/361clQNd7FGVRL8leTUi5p"
-        }
-      ],
-      "duration_ms": 767160,
-      "name": "Romanze in f-Moll, Op. 11, B. 39: Romance for Violin and Orchestra in F Minor, Op. 1",
-      "url": "https://open.spotify.com/track/4SOgqTo03KqdPPTW7xfbUy"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: Legends Op. 59, Czech Suite Op. 39",
-        "url": "https://open.spotify.com/album/38zC1vOcW19QnBw0HHf7OV"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Cristian M\u0103celaru",
-          "url": "https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr"
-        },
-        {
-          "name": "WDR Sinfonieorchester",
-          "url": "https://open.spotify.com/artist/3QFf9QniZrojhI4UtZPQ97"
-        }
-      ],
-      "duration_ms": 347030,
-      "name": "Legends, Op. 59, B. 122: VI. Allegro con moto",
-      "url": "https://open.spotify.com/track/5ppkIsSbPxRLb8h8dPo7Ru"
+      "duration_ms": 172600,
+      "name": "Cypresses B.152: 2. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/2mBOzoBef0iVn84E9k5lta"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -783,8 +663,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: Symphony No. 2 / Legends Op. 59, Nos. 6-10",
-        "url": "https://open.spotify.com/album/5lDLmncNSYAtwEn88Z1JIF"
+        "name": "Dvorak: American Suite / Silent Woods / Prague Waltzes",
+        "url": "https://open.spotify.com/album/5Q24oT8LWAFYPhK7XoikEP"
       },
       "artists": [
         {
@@ -792,17 +672,69 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Slovak Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
         },
         {
-          "name": "Stephen Gunzenhauser",
-          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
+          "name": "Russian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
         }
       ],
-      "duration_ms": 161000,
-      "name": "10 Legends, Op. 59, B. 122: No. 9. Andante con moto",
-      "url": "https://open.spotify.com/track/7u9qp5LFn7ScCdNFATA03Y"
+      "duration_ms": 375240,
+      "name": "Rondo in G Minor, Op. 94, B. 181: Rondo in G Minor for Cello and Orchestra, B. 181 (Op. 94)",
+      "url": "https://open.spotify.com/track/41Q5cgcO7iL0WutKR9TnsJ"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Symphony No. 9 \"From the New World\" (Live)",
+        "url": "https://open.spotify.com/album/0IT7dlpnQAfmSjIAiSAboK"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 728333,
+      "name": "Symphony No. 9 in E Minor, Op. 95 \"From the New World\": I. Adagio - Allegro molto - Live",
+      "url": "https://open.spotify.com/track/4pwNxKW2ivTmVU9QIKYkjR"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Glazunov / Dvorak: Violin Concertos in A Minor",
+        "url": "https://open.spotify.com/album/1z8rgtizIxOh2flYQanLqb"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Camilla Kolchinsky",
+          "url": "https://open.spotify.com/artist/361clQNd7FGVRL8leTUi5p"
+        }
+      ],
+      "duration_ms": 767160,
+      "name": "Romanze in f-Moll, Op. 11, B. 39: Romance for Violin and Orchestra in F Minor, Op. 1",
+      "url": "https://open.spotify.com/track/4SOgqTo03KqdPPTW7xfbUy"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -831,6 +763,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Poetic Tone Pictures, Op.85/VIII. Goblins' Dance",
+        "url": "https://open.spotify.com/album/1c2mXEqwJQ0tjqoyEZD6Wb"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 194541,
+      "name": "VIII. Goblins' Dance",
+      "url": "https://open.spotify.com/track/69cpBS0y62ZcS5HYraDqre"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Dvorak: American Suite / Silent Woods / Prague Waltzes",
         "url": "https://open.spotify.com/album/5Q24oT8LWAFYPhK7XoikEP"
       },
@@ -851,6 +803,118 @@
       "duration_ms": 365133,
       "name": "Klid, Op. 68, No. 5, B. 182, \"Silent Woods\": Klid (Silent Woods), Op. 68, No. 5, B. 182",
       "url": "https://open.spotify.com/track/3Kbn2oIFpOJwBt9zH9JUpE"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
+        "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Luzerner Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
+        },
+        {
+          "name": "James Gaffigan",
+          "url": "https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M"
+        }
+      ],
+      "duration_ms": 288680,
+      "name": "Suite in A Major \"American Suite\", Op. 98b, B. 190: I. Andante con moto",
+      "url": "https://open.spotify.com/track/2jwG0ipR11UNSI9XUzusQ0"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Legends Op. 59, Czech Suite Op. 39",
+        "url": "https://open.spotify.com/album/38zC1vOcW19QnBw0HHf7OV"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Cristian M\u0103celaru",
+          "url": "https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr"
+        },
+        {
+          "name": "WDR Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3QFf9QniZrojhI4UtZPQ97"
+        }
+      ],
+      "duration_ms": 347030,
+      "name": "Legends, Op. 59, B. 122: VI. Allegro con moto",
+      "url": "https://open.spotify.com/track/5ppkIsSbPxRLb8h8dPo7Ru"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: Symphony No. 2 / Legends Op. 59, Nos. 6-10",
+        "url": "https://open.spotify.com/album/5lDLmncNSYAtwEn88Z1JIF"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Stephen Gunzenhauser",
+          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "10 Legends, Op. 59, B. 122: No. 9. Andante con moto",
+      "url": "https://open.spotify.com/track/7u9qp5LFn7ScCdNFATA03Y"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: String Quartets Nos. 12 & 13",
+        "url": "https://open.spotify.com/album/1DkQ0bddfB6GipbyL1DpvM"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Pavel Haas Quartet",
+          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
+        }
+      ],
+      "duration_ms": 617453,
+      "name": "String Quartet No. 13 in G Major, Op. 106, B. 192: II. Adagio ma non troppo",
+      "url": "https://open.spotify.com/track/70uyPB6r3gdQSK4cyWivcy"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
+        "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Vlach Quartet Prague",
+          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): In Deepest Forest Glade",
+      "url": "https://open.spotify.com/track/4ZPW1M9NzWWYyeZI55yOk8"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -883,50 +947,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
-        "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Luzerner Sinfonieorchester",
-          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
-        },
-        {
-          "name": "James Gaffigan",
-          "url": "https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M"
-        }
-      ],
-      "duration_ms": 288680,
-      "name": "Suite in A Major \"American Suite\", Op. 98b, B. 190: I. Andante con moto",
-      "url": "https://open.spotify.com/track/2jwG0ipR11UNSI9XUzusQ0"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: String Quartets Nos. 12 & 13",
-        "url": "https://open.spotify.com/album/1DkQ0bddfB6GipbyL1DpvM"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Pavel Haas Quartet",
-          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
-        }
-      ],
-      "duration_ms": 617453,
-      "name": "String Quartet No. 13 in G Major, Op. 106, B. 192: II. Adagio ma non troppo",
-      "url": "https://open.spotify.com/track/70uyPB6r3gdQSK4cyWivcy"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvorak: Complete Symphonies, Slavonic Dances, Overtures, Symphonic Poems",
         "url": "https://open.spotify.com/album/5ADW9zoheuwgIx7iTdlUHF"
       },
@@ -951,26 +971,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
-        "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Vlach Quartet Prague",
-          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): In Deepest Forest Glade",
-      "url": "https://open.spotify.com/track/4ZPW1M9NzWWYyeZI55yOk8"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvorak, A.: String Quartets, Vol. 3 (Vlach Quartet) - No. 9 / Terzetto",
         "url": "https://open.spotify.com/album/36OotspMRX5eobr3gZoM20"
       },
@@ -987,6 +987,30 @@
       "duration_ms": 293000,
       "name": "Terzetto in C Major, Op. 74, B. 148: III. Scherzo: Vivace",
       "url": "https://open.spotify.com/track/4bvNBlKqg8cJy9DjC1rBJN"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Penderecki, Dvorak: Sinfonia Varsovia",
+        "url": "https://open.spotify.com/album/7od4WCq3JlEsaJHcdky5hS"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Sinfonia Varsovia",
+          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
+        },
+        {
+          "name": "Krzysztof Penderecki",
+          "url": "https://open.spotify.com/artist/0qEO82Hj3SvjoNyEfKpRku"
+        }
+      ],
+      "duration_ms": 446826,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 7 in D Minor, Op.70, B. 141: III. Scherzo. Vivace",
+      "url": "https://open.spotify.com/track/24pVpvmP6qMcjTC3ClT8Dy"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1015,8 +1039,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Penderecki, Dvorak: Sinfonia Varsovia",
-        "url": "https://open.spotify.com/album/7od4WCq3JlEsaJHcdky5hS"
+        "name": "Dvo\u0159\u00e1k: Symphony No. 1 & The Hero's Song",
+        "url": "https://open.spotify.com/album/3yCwS9QBKlMhcAhVsYvRh6"
       },
       "artists": [
         {
@@ -1024,17 +1048,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Sinfonia Varsovia",
-          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
         },
         {
-          "name": "Krzysztof Penderecki",
-          "url": "https://open.spotify.com/artist/0qEO82Hj3SvjoNyEfKpRku"
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
         }
       ],
-      "duration_ms": 446826,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 7 in D Minor, Op.70, B. 141: III. Scherzo. Vivace",
-      "url": "https://open.spotify.com/track/24pVpvmP6qMcjTC3ClT8Dy"
+      "duration_ms": 1132573,
+      "name": "Symphony No. 1 in C Minor, B. 9 \"The Bells of Zlonice\": I. Allegro",
+      "url": "https://open.spotify.com/track/24MbAa8RLvrOKHkqpcdsFp"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1095,6 +1119,54 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dvorak: American Suite / Silent Woods / Prague Waltzes",
+        "url": "https://open.spotify.com/album/5Q24oT8LWAFYPhK7XoikEP"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Russian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "duration_ms": 299760,
+      "name": "Polonaise in E-Flat Major, B. 100",
+      "url": "https://open.spotify.com/track/4NQDSjhQjxjORfrYhTsLYM"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: String Quintets Opp. 1 and 97",
+        "url": "https://open.spotify.com/album/50tDCMqa3S5EMyCaYu8ABj"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Ladislav Kysel\u00e1k",
+          "url": "https://open.spotify.com/artist/4iyoXQtWegneika2rQrrGv"
+        },
+        {
+          "name": "Vlach Quartet Prague",
+          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
+        }
+      ],
+      "duration_ms": 537906,
+      "name": "String Quintet in A Minor, Op. 1, B. 7: II. Lento",
+      "url": "https://open.spotify.com/track/7DAfhvCNtGV9VPysuDaOD9"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
         "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
       },
@@ -1115,8 +1187,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
-        "url": "https://open.spotify.com/album/7H7TEUrE4LEZWXdhkOk8vp"
+        "name": "Dvorak: Works for Violin and Piano",
+        "url": "https://open.spotify.com/album/6XRwmIpDUcIu1csSLvGyQf"
       },
       "artists": [
         {
@@ -1124,17 +1196,41 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+          "name": "Edmund Battersby",
+          "url": "https://open.spotify.com/artist/5uRiliqFaektxtLMHVxXWB"
         },
         {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+          "name": "Zhou Qian",
+          "url": "https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n"
         }
       ],
-      "duration_ms": 236133,
-      "name": "Czech Suite, Op. 39, B. 93: I. Preludium (Pastorale)",
-      "url": "https://open.spotify.com/track/5f044O4P9otieCX8o4O0Pc"
+      "duration_ms": 424360,
+      "name": "Ballad in D Minor, Op. 15, No. 1",
+      "url": "https://open.spotify.com/track/6aM8YzCl0UNvcLPbUwXReu"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
+        "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Mariss Jansons",
+          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+        },
+        {
+          "name": "Oslo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
+        }
+      ],
+      "duration_ms": 492266,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
+      "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1167,8 +1263,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 1 & The Hero's Song",
-        "url": "https://open.spotify.com/album/3yCwS9QBKlMhcAhVsYvRh6"
+        "name": "Dvor\u00e1k: Slavonic Dances Opp.46 & 72",
+        "url": "https://open.spotify.com/album/7lln5rKUjXKtEUrnfemb8a"
       },
       "artists": [
         {
@@ -1176,133 +1272,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+          "name": "Budapest Festival Orchestra",
+          "url": "https://open.spotify.com/artist/5ElM3J1gql1jnVyenXe7v2"
         },
         {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+          "name": "Iv\u00e1n Fischer",
+          "url": "https://open.spotify.com/artist/4fwcEh4tMsyFvKvO8w7DKO"
         }
       ],
-      "duration_ms": 1132573,
-      "name": "Symphony No. 1 in C Minor, B. 9 \"The Bells of Zlonice\": I. Allegro",
-      "url": "https://open.spotify.com/track/24MbAa8RLvrOKHkqpcdsFp"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvorak: Works for Violin and Piano",
-        "url": "https://open.spotify.com/album/6XRwmIpDUcIu1csSLvGyQf"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Edmund Battersby",
-          "url": "https://open.spotify.com/artist/5uRiliqFaektxtLMHVxXWB"
-        },
-        {
-          "name": "Zhou Qian",
-          "url": "https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n"
-        }
-      ],
-      "duration_ms": 424360,
-      "name": "Ballad in D Minor, Op. 15, No. 1",
-      "url": "https://open.spotify.com/track/6aM8YzCl0UNvcLPbUwXReu"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvorak: String Quintets Opp. 1 and 97",
-        "url": "https://open.spotify.com/album/50tDCMqa3S5EMyCaYu8ABj"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Ladislav Kysel\u00e1k",
-          "url": "https://open.spotify.com/artist/4iyoXQtWegneika2rQrrGv"
-        },
-        {
-          "name": "Vlach Quartet Prague",
-          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
-        }
-      ],
-      "duration_ms": 537906,
-      "name": "String Quintet in A Minor, Op. 1, B. 7: II. Lento",
-      "url": "https://open.spotify.com/track/7DAfhvCNtGV9VPysuDaOD9"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvorak: American Suite / Silent Woods / Prague Waltzes",
-        "url": "https://open.spotify.com/album/5Q24oT8LWAFYPhK7XoikEP"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Russian Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
-        },
-        {
-          "name": "Dmitry Yablonsky",
-          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
-        }
-      ],
-      "duration_ms": 299760,
-      "name": "Polonaise in E-Flat Major, B. 100",
-      "url": "https://open.spotify.com/track/4NQDSjhQjxjORfrYhTsLYM"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: String Quartets Nos. 12 & 13",
-        "url": "https://open.spotify.com/album/1DkQ0bddfB6GipbyL1DpvM"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Pavel Haas Quartet",
-          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
-        }
-      ],
-      "duration_ms": 642333,
-      "name": "String Quartet No. 13 in G Major, Op. 106, B. 192: IV. Finale. Andante sostenuto - Allegro con fuoco",
-      "url": "https://open.spotify.com/track/58UGcmPEL1BGmDwkaZsBwH"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
-        "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Mariss Jansons",
-          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
-        },
-        {
-          "name": "Oslo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
-        }
-      ],
-      "duration_ms": 492266,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major, Op. 76, B. 54: II. Andante con moto",
-      "url": "https://open.spotify.com/track/6RBeBgl7mZFjo0HSZLHGBL"
+      "duration_ms": 365866,
+      "name": "8 Slavonic Dances, Op. 72, B. 147: No. 2 in E Minor (Allegretto grazioso)",
+      "url": "https://open.spotify.com/track/1RfsU4P4zwK9f2QZAKOF62"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1331,6 +1311,50 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dvo\u0159\u00e1k: String Quartets Nos. 12 & 13",
+        "url": "https://open.spotify.com/album/1DkQ0bddfB6GipbyL1DpvM"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Pavel Haas Quartet",
+          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
+        }
+      ],
+      "duration_ms": 642333,
+      "name": "String Quartet No. 13 in G Major, Op. 106, B. 192: IV. Finale. Andante sostenuto - Allegro con fuoco",
+      "url": "https://open.spotify.com/track/58UGcmPEL1BGmDwkaZsBwH"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
+        "url": "https://open.spotify.com/album/7H7TEUrE4LEZWXdhkOk8vp"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Czech Suite, Op. 39, B. 93: I. Preludium (Pastorale)",
+      "url": "https://open.spotify.com/track/5f044O4P9otieCX8o4O0Pc"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Dvor\u00e1k: Symphonies 5 & 7-9",
         "url": "https://open.spotify.com/album/64fct3PJhtZ8PdfPGXfsv6"
       },
@@ -1355,8 +1379,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
-        "url": "https://open.spotify.com/album/2eQogw6VNKBLM1SrXnDCGN"
+        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
+        "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
       },
       "artists": [
         {
@@ -1364,113 +1388,13 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+          "name": "Vlach Quartet Prague",
+          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
         }
       ],
-      "duration_ms": 292826,
-      "name": "Festival March, B. 88, Op. 54",
-      "url": "https://open.spotify.com/track/1pKKRXBf19qjm1cVZGu8ho"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvorak: Symphony No. 9, 'From the New World' - Symphonic Variations",
-        "url": "https://open.spotify.com/album/48GeB9pwsS84JW6jSm9agr"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Stephen Gunzenhauser",
-          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
-        }
-      ],
-      "duration_ms": 1326000,
-      "name": "Symfonick\u00e9 variace (Symphonic Variations), Op. 78, B. 70: Symphonic Variations, Op. 78, B. 70",
-      "url": "https://open.spotify.com/track/00SIzgBFfQUFDqJGLUbMdG"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvor\u00e1k: Slavonic Dances Opp.46 & 72",
-        "url": "https://open.spotify.com/album/7lln5rKUjXKtEUrnfemb8a"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Budapest Festival Orchestra",
-          "url": "https://open.spotify.com/artist/5ElM3J1gql1jnVyenXe7v2"
-        },
-        {
-          "name": "Iv\u00e1n Fischer",
-          "url": "https://open.spotify.com/artist/4fwcEh4tMsyFvKvO8w7DKO"
-        }
-      ],
-      "duration_ms": 365866,
-      "name": "8 Slavonic Dances, Op. 72, B. 147: No. 2 in E Minor (Allegretto grazioso)",
-      "url": "https://open.spotify.com/track/1RfsU4P4zwK9f2QZAKOF62"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvorak: Symphonic Poems",
-        "url": "https://open.spotify.com/album/03rnC8RKsOK9H0AdRdjyHd"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Stephen Gunzenhauser",
-          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
-        }
-      ],
-      "duration_ms": 1154040,
-      "name": "The Wild Dove, Op. 110, B. 198",
-      "url": "https://open.spotify.com/track/5F4vgwTI32bfmyJ7uwATDL"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvorak: The 9 Symphonies",
-        "url": "https://open.spotify.com/album/45AlGtE9Il2BmnisrbU1no"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Rafael Kubel\u00edk",
-          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
-        }
-      ],
-      "duration_ms": 668306,
-      "name": "Symphony No. 1 in C Minor, Op. 3, B. 9 - \"The Bells of Zlonice\": II. Adagio di molto",
-      "url": "https://open.spotify.com/track/6S5oOvLf2lTSjVq8Y0KVvD"
+      "duration_ms": 136906,
+      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): There Stands an Ancient Rock",
+      "url": "https://open.spotify.com/track/6WXwLD6h1cnAh52qSUL7Cs"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1519,6 +1443,150 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dvorak: Symphonic Poems",
+        "url": "https://open.spotify.com/album/03rnC8RKsOK9H0AdRdjyHd"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Stephen Gunzenhauser",
+          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
+        }
+      ],
+      "duration_ms": 1154040,
+      "name": "The Wild Dove, Op. 110, B. 198",
+      "url": "https://open.spotify.com/track/5F4vgwTI32bfmyJ7uwATDL"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
+        "url": "https://open.spotify.com/album/2eQogw6VNKBLM1SrXnDCGN"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Festival March, B. 88, Op. 54",
+      "url": "https://open.spotify.com/track/1pKKRXBf19qjm1cVZGu8ho"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: The 9 Symphonies",
+        "url": "https://open.spotify.com/album/45AlGtE9Il2BmnisrbU1no"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        }
+      ],
+      "duration_ms": 668306,
+      "name": "Symphony No. 1 in C Minor, Op. 3, B. 9 - \"The Bells of Zlonice\": II. Adagio di molto",
+      "url": "https://open.spotify.com/track/6S5oOvLf2lTSjVq8Y0KVvD"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: Symphony No. 9, 'From the New World' - Symphonic Variations",
+        "url": "https://open.spotify.com/album/48GeB9pwsS84JW6jSm9agr"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Stephen Gunzenhauser",
+          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
+        }
+      ],
+      "duration_ms": 1326000,
+      "name": "Symfonick\u00e9 variace (Symphonic Variations), Op. 78, B. 70: Symphonic Variations, Op. 78, B. 70",
+      "url": "https://open.spotify.com/track/00SIzgBFfQUFDqJGLUbMdG"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Symphony No. 1 & The Hero's Song",
+        "url": "https://open.spotify.com/album/3yCwS9QBKlMhcAhVsYvRh6"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "duration_ms": 545466,
+      "name": "Symphony No. 1 in C Minor, B. 9 \"The Bells of Zlonice\": III. Allegretto",
+      "url": "https://open.spotify.com/track/4Vm2QT8qHpAuRZehBADkCl"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvor\u00e1k: Symphony No.3 In E Flat, Op.10, B. 34 & Symphony No.7 In D Minor, Op.70, B. 141",
+        "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Myung-Whun Chung",
+          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
+        }
+      ],
+      "duration_ms": 930999,
+      "name": "Symphony No. 3 In E Flat, Op. 10, B. 34: 2. Adagio molto, tempo di marcia",
+      "url": "https://open.spotify.com/track/0SyObhCmgAlG737JYX9pHP"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Dvor\u00e1k: Symphony No.3 In E Flat, Op.10, B. 34 & Symphony No.7 In D Minor, Op.70, B. 141",
         "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
       },
@@ -1537,7 +1605,7 @@
         }
       ],
       "duration_ms": 626999,
-      "name": "Symphony No.3 In E Flat, Op.10, B. 34: 1. Allegro moderato",
+      "name": "Symphony No. 3 In E Flat, Op. 10, B. 34: 1. Allegro moderato",
       "url": "https://open.spotify.com/track/5gkeiHx2YHUq4tmWKJ3Qmq"
     },
     {
@@ -1592,77 +1660,33 @@
           "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
         }
       ],
-      "duration_ms": 930999,
-      "name": "Symphony No.3 In E Flat, Op.10, B. 34: 2. Adagio molto, tempo di marcia",
-      "url": "https://open.spotify.com/track/0SyObhCmgAlG737JYX9pHP"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
-        "url": "https://open.spotify.com/album/4YPrPKSMgfiwKO8XFwCpHu"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Vlach Quartet Prague",
-          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
-        }
-      ],
-      "duration_ms": 136906,
-      "name": "Ohlas pisni (Echo of Songs), B. 152 (arr. of Cypresses, B. 11 for string quartet): There Stands an Ancient Rock",
-      "url": "https://open.spotify.com/track/6WXwLD6h1cnAh52qSUL7Cs"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 1 & The Hero's Song",
-        "url": "https://open.spotify.com/album/3yCwS9QBKlMhcAhVsYvRh6"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        },
-        {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
-        }
-      ],
-      "duration_ms": 545466,
-      "name": "Symphony No. 1 in C Minor, B. 9 \"The Bells of Zlonice\": III. Allegretto",
-      "url": "https://open.spotify.com/track/4Vm2QT8qHpAuRZehBADkCl"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvor\u00e1k: Symphony No.3 In E Flat, Op.10, B. 34 & Symphony No.7 In D Minor, Op.70, B. 141",
-        "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Myung-Whun Chung",
-          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
-        }
-      ],
       "duration_ms": 466999,
-      "name": "Symphony No.3 In E Flat, Op.10, B. 34: 3. Finale (Allegro vivace)",
+      "name": "Symphony No. 3 In E Flat, Op. 10, B. 34: 3. Finale (Allegro vivace)",
       "url": "https://open.spotify.com/track/37EbWkRH33zsB1wL9ZGwY2"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak : Slavonic Dances",
+        "url": "https://open.spotify.com/album/03WlnckxEQxcM46jrd3mMZ"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Zden\u011bk Ko\u0161ler",
+          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
+        }
+      ],
+      "duration_ms": 825240,
+      "name": "3 Slavonic Rhapsodies, Op. 45, B. 86: No. 3",
+      "url": "https://open.spotify.com/track/25fx6WswOqJVX4rpOZOSUr"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1715,8 +1739,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak : Slavonic Dances",
-        "url": "https://open.spotify.com/album/03WlnckxEQxcM46jrd3mMZ"
+        "name": "Dvor\u00e1k: The Symphonies/Overtures",
+        "url": "https://open.spotify.com/album/6ECe5dUoLAX7LCyYArKemo"
       },
       "artists": [
         {
@@ -1724,17 +1748,41 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         },
         {
-          "name": "Zden\u011bk Ko\u0161ler",
-          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
         }
       ],
-      "duration_ms": 825240,
-      "name": "3 Slavonic Rhapsodies, Op. 45, B. 86: No. 3",
-      "url": "https://open.spotify.com/track/25fx6WswOqJVX4rpOZOSUr"
+      "duration_ms": 586866,
+      "name": "Symphony No.4 in D Minor, Op.13, B.41: 4. Finale (Allegro con brio)",
+      "url": "https://open.spotify.com/track/1YWTznDWC9wssE0If4I7T4"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Complet Symphonies - Legends - Slavonic Dances & Czech Suite",
+        "url": "https://open.spotify.com/album/4X8vf4EUAyDC5NVNRTg8dN"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Jos\u00e9 Serebrier",
+          "url": "https://open.spotify.com/artist/1C3E8y3WbXJJYWs9Ex11et"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        }
+      ],
+      "duration_ms": 820000,
+      "name": "Dvo\u0159\u00e1k: Symphony No. 1 in C Minor, B. 9 \"The Bells of Zlonice\": IV. Finale. Allegro animato",
+      "url": "https://open.spotify.com/track/4QkWBjvOvwEaBZwWG0jfyA"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1779,54 +1827,6 @@
       "duration_ms": 361400,
       "name": "Stabat Mater, Op. 58, B. 71: Inflammatus et accensus",
       "url": "https://open.spotify.com/track/6Hkaz5ceCPFnCidvYbqmNl"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: Complet Symphonies - Legends - Slavonic Dances & Czech Suite",
-        "url": "https://open.spotify.com/album/4X8vf4EUAyDC5NVNRTg8dN"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Jos\u00e9 Serebrier",
-          "url": "https://open.spotify.com/artist/1C3E8y3WbXJJYWs9Ex11et"
-        },
-        {
-          "name": "Bournemouth Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
-        }
-      ],
-      "duration_ms": 820000,
-      "name": "Dvo\u0159\u00e1k: Symphony No. 1 in C Minor, B. 9 \"The Bells of Zlonice\": IV. Finale. Allegro animato",
-      "url": "https://open.spotify.com/track/4QkWBjvOvwEaBZwWG0jfyA"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvor\u00e1k: The Symphonies/Overtures",
-        "url": "https://open.spotify.com/album/6ECe5dUoLAX7LCyYArKemo"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Istv\u00e1n Kert\u00e9sz",
-          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
-        }
-      ],
-      "duration_ms": 586866,
-      "name": "Symphony No.4 in D Minor, Op.13, B.41: 4. Finale (Allegro con brio)",
-      "url": "https://open.spotify.com/track/1YWTznDWC9wssE0If4I7T4"
     }
   ],
   "unique_name": "This Is Dvo\u0159\u00e1k",

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Fire up the grill and enjoy this playlist with the whole family.",
   "name": "Family BBQ",
-  "published_playlist_ids": [
-    "3oUCrpB9ntTb9UkqHlgytt"
-  ],
   "tracks": [
     {
       "album": {
@@ -791,10 +788,28 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 171693,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/3VEFybccRTeWSZRkJxDuNR"
+    },
+    {
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171693,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1"
     },
     {
       "album": {

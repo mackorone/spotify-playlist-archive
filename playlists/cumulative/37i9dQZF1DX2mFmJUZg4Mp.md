@@ -4,7 +4,7 @@
 
 > Soothing sounds of gentle rain.
 
-290 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/4ga3UYCr8dual7uzYJDIEx)
+290 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Learn German with a collection of audio courses that will take you from beginner to advanced conversations.
 
-409 songs - 1 day 18 hr 51 min - [published](https://open.spotify.com/playlist/3XYVKg3la8zCjpU7xAVPXC)
+409 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,737 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,984 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 | 59 | [Crossroads](https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:11 |
 | 60 | [Lady Weeping At The Crossroads](https://open.spotify.com/track/2fHeCbp3pCJbd3g5wQF636) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [No Promises](https://open.spotify.com/album/1GOhEzYqUHO4ROrrupcVVH) | 3:37 |
 
-Snapshot ID: `MTYwNTMwMjg1MSwwMDAwMDAwMDYxOGJmMGRjMDY1YWI4OWU1ZDUzYjMxMTk3M2Q0MDQ1`
+Snapshot ID: `MTY3Mjc2MTIzMywwMDAwMDAwMDk4OWJkNTg3NzFmOWE3ZTRhNjhiYjk3YWQ0MzU3MGI3`

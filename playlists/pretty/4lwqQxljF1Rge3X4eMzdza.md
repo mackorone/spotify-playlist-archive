@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4lwqQxljF1Rge3X4eMzdza.md) - [plain]
 
 > Missa inte Kendrick Lamar på Azalea\-scenen på LÖRDAG / 21.00
 
-[Spotify](https://open.spotify.com/user/spotify) - 39 likes - 10 songs - 42 min 35 sec
+[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 10 songs - 42 min 35 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

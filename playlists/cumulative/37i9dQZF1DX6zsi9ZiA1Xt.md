@@ -4,7 +4,7 @@
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-74 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/2evzXFo6CTk1eNWnBvKyiB)
+75 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,10 +50,11 @@
 | [La Receta](https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [L.A\. Amistad](https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3) | 5:03 | 2020-04-14 | 2022-11-13 |
 | [Las Tumbas](https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Soy Feliz](https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi) | 4:04 | 2020-04-14 |  |
 | [Las Tumbas](https://open.spotify.com/track/6GjepFkAPxlD6HmOrAyIsU) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Latin Salsa](https://open.spotify.com/album/2bWOqlThmgtq19WdOsYcs2) | 4:04 | 2020-04-14 | 2022-11-13 |
-| [Lloraras \- Edit](https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Billo's Caracas Boys vs\. Dimension Latina](https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu) | 3:45 | 2020-04-14 |  |
+| [Lloraras \- Edit](https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Billo's Caracas Boys vs\. Dimension Latina](https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu) | 3:45 | 2020-04-14 | 2022-12-08 |
+| [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 | 2020-04-14 |  |
 | [Lluvia con Nieve](https://open.spotify.com/track/15WX2LYmLXvIiDeP9SYdlG) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Salsa y tareas](https://open.spotify.com/album/1o4zxhSr5AOcrsqHEhUt4X) | 2:57 | 2020-04-14 | 2022-11-13 |
 | [Lluvia con Nieve](https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averiguá](https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY) | 2:57 | 2020-04-14 |  |
-| [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 | 2020-04-14 | 2022-11-13 |
+| [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 | 2020-04-14 | 2022-12-19 |
 | [Marejada Feliz](https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 9](https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT) | 7:22 | 2020-04-14 |  |
 | [No No No](https://open.spotify.com/track/6kWG4fIWsx6Qf4b0kgRMXM) | [Boogaloo Assassins](https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU) | [Old Love Dies Hard](https://open.spotify.com/album/3ZS5ekQ7jFi2jtwnbg19Lx) | 5:27 | 2020-04-14 |  |
 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 | 2020-04-14 |  |

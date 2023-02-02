@@ -4,7 +4,7 @@
 
 > Sway your way through the evening.
 
-210 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/1yEsj7P9XfDpVu6i8GE8Qq)
+213 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2021-10-01 |  |
 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 | 2021-10-01 |  |
 | [Grows Old](https://open.spotify.com/track/148qBp6yeeA2oq28xTZZ7e) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:56 | 2021-10-01 |  |
-| [Halfway Up](https://open.spotify.com/track/5HsJGA8P5fPzR06i9FQKBr) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH) | 3:55 | 2021-10-01 |  |
+| [Halfway Up](https://open.spotify.com/track/3vDa3TYf1nnmmc9DiSviwX) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5U7958Pk6fX1IVOlFSi48o) | 3:55 | 2022-01-21 |  |
+| [Halfway Up](https://open.spotify.com/track/5HsJGA8P5fPzR06i9FQKBr) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH) | 3:55 | 2021-10-01 | 2023-01-02 |
 | [Heaven](https://open.spotify.com/track/0sJUBaYhHRgjLwnmZujAyF) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Hummingbird Two](https://open.spotify.com/album/0fsPcNVe9svugRKFtI9Gwb) | 3:19 | 2022-01-21 |  |
 | [Heaven](https://open.spotify.com/track/2v0K4PNHGagTovRSYPbGQH) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Heaven](https://open.spotify.com/album/1WKn0djiH8HJAXg7QJw7Zx) | 3:19 | 2021-10-01 | 2022-07-29 |
 | [Here On Out](https://open.spotify.com/track/1p0R5cAQaMh7lM5Zt3X67h) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Come Tomorrow](https://open.spotify.com/album/1Q6IYDePv0Dl8RXBnJ4jhy) | 3:18 | 2021-10-01 |  |
@@ -175,9 +176,11 @@
 | [Slow Dancing](https://open.spotify.com/track/7FHRcUmD0px839rKIOi5JS) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun \(deluxe\)](https://open.spotify.com/album/0c5zzk0XARH2uDuAEECSzT) | 4:27 | 2022-01-21 | 2022-11-13 |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 | 2021-10-01 |  |
 | [slow summer](https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [slow summer](https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D) | 2:48 | 2021-10-01 |  |
-| [Solar Flare](https://open.spotify.com/track/0hcHi1RoWCayxRSbq2f3CI) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Solar Flare](https://open.spotify.com/album/7qL5oIG6MPdd2NfgjOmQXp) | 3:22 | 2021-10-01 |  |
+| [Solar Flare](https://open.spotify.com/track/0hcHi1RoWCayxRSbq2f3CI) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Solar Flare](https://open.spotify.com/album/7qL5oIG6MPdd2NfgjOmQXp) | 3:22 | 2021-10-01 | 2023-01-27 |
+| [Solar Flare](https://open.spotify.com/track/7EkeF9ke5wVAerr9z1yVJD) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Solar Flare](https://open.spotify.com/album/4E1zqQHT3Qff7ulKGj6d6t) | 3:22 | 2022-01-21 |  |
 | [Something Simple](https://open.spotify.com/track/4a1HMAk6ABM11NPJvBkkeT) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Something Simple](https://open.spotify.com/album/21Fj4477nfc4wOV6UZjL0u) | 3:50 | 2021-10-01 |  |
-| [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2021-10-01 |  |
+| [Stay](https://open.spotify.com/track/0Ghaex7YilwIGGCVzFeyYm) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/2mkNZarVOH90LJSpG9whzL) | 3:49 | 2022-01-21 |  |
+| [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2021-10-01 | 2022-12-25 |
 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 | 2021-10-01 | 2022-07-29 |
 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2022-01-21 |  |
 | [Stay Low](https://open.spotify.com/track/2zMa3j2F2h4UJbhpXivD3S) | [In Memoirs](https://open.spotify.com/artist/1LZevuTucGb3IEb84enBNt) | [Hope, Fear & Fashion](https://open.spotify.com/album/6nTvklCSNP03q78ix8Dh58) | 4:07 | 2021-10-01 |  |

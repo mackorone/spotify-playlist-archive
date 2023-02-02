@@ -4,7 +4,7 @@
 
 > If you travel the world and the seven seas, cashing six figure checks in all currencies, this playlist is a perfect companion for that business class seat or limo ride...
 
-23 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/0qMTKMmvps5njZJFYruve5)
+23 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

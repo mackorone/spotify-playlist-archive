@@ -4,7 +4,7 @@
 
 > Celebrating the women of worship music! Cover: Brooke Ligertwood
 
-124 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/22bPetK1VLYHItsWqIDfAJ)
+124 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

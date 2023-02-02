@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "This is ClariS. The essential tracks, all in one playlist.",
   "name": "This Is ClariS",
-  "published_playlist_ids": [
-    "32ULFsVKbCsfzD3V68Z4iN"
-  ],
   "tracks": [
     {
       "album": {
@@ -401,10 +398,28 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 294613,
       "name": "nexus -season 02-",
       "url": "https://open.spotify.com/track/7B1CWgamfChJj5FxJRVxjB"
+    },
+    {
+      "album": {
+        "name": "WINTER TRACKS -\u51ac\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290386,
+      "name": "ORION",
+      "url": "https://open.spotify.com/track/5hwhF9mnsPRQvJBSbZRoUG"
     },
     {
       "album": {
@@ -657,6 +672,24 @@
       "duration_ms": 246826,
       "name": "WHITE BREATH",
       "url": "https://open.spotify.com/track/60eixnGh71dTDl76Wpvd9J"
+    },
+    {
+      "album": {
+        "name": "White Love",
+        "url": "https://open.spotify.com/album/4Mk7ZN64AnujZEE2lgZ2JA"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336853,
+      "name": "White Love",
+      "url": "https://open.spotify.com/track/3B1EQrVkFiaHHTFbspLrwX"
     },
     {
       "album": {
@@ -920,6 +953,24 @@
     },
     {
       "album": {
+        "name": "WINTER TRACKS -\u51ac\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270600,
+      "name": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30fb\u30a4\u30f4",
+      "url": "https://open.spotify.com/track/6uAXBkG7WNNFa4qg2xEYoH"
+    },
+    {
+      "album": {
         "name": "BIRTHDAY",
         "url": "https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7"
       },
@@ -971,6 +1022,42 @@
       "duration_ms": 252720,
       "name": "\u30b7\u30cb\u30ab\u30eb\u30b5\u30b9\u30da\u30f3\u30b9",
       "url": "https://open.spotify.com/track/4vn1bXoRyMZwqO4B9ihOTn"
+    },
+    {
+      "album": {
+        "name": "WINTER TRACKS -\u51ac\u306e\u3046\u305f-",
+        "url": "https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263440,
+      "name": "\u30b9\u30ce\u30fc\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/0Kb74cofcnavVwe4Tpcdv9"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30ce\u30fc\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/2BalUGw6BefYls6CCAQzIa"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 263440,
+      "name": "\u30b9\u30ce\u30fc\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6Ng2bz2i6m8LWypHg8xRhM"
     },
     {
       "album": {
@@ -1093,7 +1180,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 209373,
       "name": "\u30e6\u30cb\u30be\u30f3",
       "url": "https://open.spotify.com/track/1oHL7ocJVNFGlfobC92OxX"
@@ -1273,7 +1360,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 284346,
       "name": "\u660e\u65e5\u3001\u6625\u304c\u6765\u305f\u3089",
       "url": "https://open.spotify.com/track/28E0uOrw97kb28l1lqSuWk"
@@ -1309,7 +1396,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 268440,
       "name": "\u6ce3\u304b\u306a\u3044\u3088 - Clara solo ver.",
       "url": "https://open.spotify.com/track/0Eqe56YVUzl6gFKVLXHK4l"

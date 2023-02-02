@@ -4,7 +4,7 @@
 
 > The official Ozark playlist with all the music from Season 4.
 
-38 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/5U25p66mg1TN4sZewAZ6iz)
+38 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

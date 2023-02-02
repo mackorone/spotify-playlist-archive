@@ -4,7 +4,7 @@
 
 > All the best of The Laurie Berkner Band!
 
-76 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/3mcc5ASDHcdAMluyf9EKGW)
+76 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

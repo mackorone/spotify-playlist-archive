@@ -2,10 +2,43 @@
   "date_first_scraped": "2022-06-15",
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
   "name": "Escena Electr\u00f3nica Experimental",
-  "published_playlist_ids": [
-    "17jqKs9HnwrpFMEyVzns1G"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149869,
+      "name": "10",
+      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
+    },
+    {
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148157,
+      "name": "15",
+      "url": "https://open.spotify.com/track/7Htro4f5Tf3XWY2v5htdtX"
+    },
     {
       "album": {
         "name": "Afrotrip",
@@ -19,7 +52,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 275063,
       "name": "Afrotrip",
       "url": "https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1"
@@ -198,6 +231,24 @@
     },
     {
       "album": {
+        "name": "NEW BREED",
+        "url": "https://open.spotify.com/album/5xmOTtTLaPzw8pP4tRtjP4"
+      },
+      "artists": [
+        {
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95321,
+      "name": "BADTRIP",
+      "url": "https://open.spotify.com/track/59qoO6Zv3pKUIVaYZCeG7U"
+    },
+    {
+      "album": {
         "name": "Bemb\u00e9",
         "url": "https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV"
       },
@@ -217,6 +268,24 @@
       "duration_ms": 197560,
       "name": "Bemb\u00e9",
       "url": "https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG"
+    },
+    {
+      "album": {
+        "name": "NEW BREED",
+        "url": "https://open.spotify.com/album/5xmOTtTLaPzw8pP4tRtjP4"
+      },
+      "artists": [
+        {
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109071,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/3k3r8ffYVixma4Dc0PRQdx"
     },
     {
       "album": {
@@ -473,7 +542,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 248093,
       "name": "Death",
       "url": "https://open.spotify.com/track/12CmR3HdSgdTeNqqCArJNd"
@@ -595,6 +664,32 @@
       "duration_ms": 258435,
       "name": "Don't Be Afraid - Nicola Cruz Remix",
       "url": "https://open.spotify.com/track/4YWbJqvzBG8NB08tFSCFMt"
+    },
+    {
+      "album": {
+        "name": "Dreamy Hamilton (Remixes)",
+        "url": "https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        },
+        {
+          "name": "Oneironautics",
+          "url": "https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337102,
+      "name": "Dreamy Hamilton - Oneironautics Remix",
+      "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
     },
     {
       "album": {
@@ -849,7 +944,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 415971,
       "name": "Forerunner",
       "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
@@ -907,6 +1002,32 @@
       "duration_ms": 299535,
       "name": "Gut Ritual",
       "url": "https://open.spotify.com/track/2N5ioUhGReJBPPwBvd55nR"
+    },
+    {
+      "album": {
+        "name": "Invisible Desert",
+        "url": "https://open.spotify.com/album/6dU6llQx3HIc2MEMRXzKes"
+      },
+      "artists": [
+        {
+          "name": "Rodo",
+          "url": "https://open.spotify.com/artist/53OJAFCNGs4t1FpphUxjPt"
+        },
+        {
+          "name": "Kathia Rudametkin",
+          "url": "https://open.spotify.com/artist/4Jfq4lRAxklhQdmQNIboBp"
+        },
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291984,
+      "name": "Hendidura",
+      "url": "https://open.spotify.com/track/3ZUUCeA2W2CN17DZIbM7ef"
     },
     {
       "album": {
@@ -991,6 +1112,32 @@
       "duration_ms": 374246,
       "name": "Ibuprofeno",
       "url": "https://open.spotify.com/track/6H0gNFYu67JwZkCf5lAfaH"
+    },
+    {
+      "album": {
+        "name": "Dreamy Hamilton (Remixes)",
+        "url": "https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        },
+        {
+          "name": "Subxet",
+          "url": "https://open.spotify.com/artist/5dxUiR8ZvHWBoMS1iRdDey"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287582,
+      "name": "In Your Head - Subxet Remix",
+      "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
     },
     {
       "album": {
@@ -1200,6 +1347,28 @@
     },
     {
       "album": {
+        "name": "Land III",
+        "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        },
+        {
+          "name": "Carmen Ruiz",
+          "url": "https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284684,
+      "name": "Land III - Vocal Mix",
+      "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
+    },
+    {
+      "album": {
         "name": "Shika Shika / Botanas",
         "url": "https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO"
       },
@@ -1211,7 +1380,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 206815,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN"
@@ -1287,7 +1456,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 506612,
       "name": "Love is Dancing",
       "url": "https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0"
@@ -1349,7 +1518,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 215111,
       "name": "Mala Hierba",
       "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
@@ -1589,7 +1758,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-09",
       "duration_ms": 449156,
       "name": "Nsnc (Fantasna Mix)",
       "url": "https://open.spotify.com/track/1YsPrORRSH1Y7qOh7bZ33j"
@@ -1669,7 +1838,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 370886,
       "name": "Pebbles Mind Horrors",
       "url": "https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL"
@@ -1753,7 +1922,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 204148,
       "name": "Puk",
       "url": "https://open.spotify.com/track/06nGBVYjH9ajxhrGQ2xfvV"
@@ -1847,7 +2016,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2022-12-20",
       "duration_ms": 265125,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58"
@@ -1966,6 +2135,28 @@
     },
     {
       "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+    },
+    {
+      "album": {
         "name": "Sol de Invierno",
         "url": "https://open.spotify.com/album/4LeJLxTUE07aLB6GBtYYIp"
       },
@@ -2060,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "Ensayo de un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj"
+      },
+      "artists": [
+        {
+          "name": "Panoptica",
+          "url": "https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Tema para Peque\u00f1os Pilotos Aviadores",
+      "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
+    },
+    {
+      "album": {
         "name": "The Crystal",
         "url": "https://open.spotify.com/album/5ghC2r5OIjTiAnmU2a3XRG"
       },
@@ -2151,7 +2360,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 294625,
       "name": "Tiburon",
       "url": "https://open.spotify.com/track/4luglnusaGpm8FhNjDmMpg"
@@ -2235,7 +2444,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 267067,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/2iYy3bF7epY1Phd2ovqkbU"

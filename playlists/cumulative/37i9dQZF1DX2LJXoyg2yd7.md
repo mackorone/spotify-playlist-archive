@@ -4,7 +4,7 @@
 
 > The sweet sounds of Yemen.
 
-58 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/2YuvVacjtkd9ujDZyKYGL3)
+58 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Sawfa Ahlam](https://open.spotify.com/track/6ajFglvGicQnC7xw09bdb2) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Sawfa Ahlam](https://open.spotify.com/album/28TnLPv0nvekrLjGtKEdvq) | 3:45 | 2021-09-30 |  |
 | [Sirr Hobbi](https://open.spotify.com/track/1wwznXiE8586TWHuSFk3GO) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 13:54 | 2021-09-30 |  |
 | [Tears \(feat\. Zack Knight\)](https://open.spotify.com/track/2ZpgdNm5FvRSUqcZL4F6wT) | [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq), [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Chapter II](https://open.spotify.com/album/6slvPQlMObiWOQSWMDJTvt) | 3:07 | 2021-12-30 |  |
-| [Ya Gharami](https://open.spotify.com/track/2rsf0YkKKEjgkcxhX3sizU) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ya Gharami](https://open.spotify.com/album/1Tmopz2roVr3UgeiSZKKKU) | 6:38 | 2021-09-30 |  |
+| [Ya Gharami](https://open.spotify.com/track/2rsf0YkKKEjgkcxhX3sizU) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ya Gharami](https://open.spotify.com/album/1Tmopz2roVr3UgeiSZKKKU) | 6:38 | 2021-09-30 | 2023-01-24 |
 | [Ya Mesafer](https://open.spotify.com/track/19ZBKdZNlOBL2QsbCoNgqD) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Dhae Alwafa](https://open.spotify.com/album/3n6bh1EdzOnqGL3hdF2HX8) | 5:02 | 2021-09-30 |  |
 | [Ya Saher Aleainain](https://open.spotify.com/track/569GHmdXGxgsAgvqZFx4jF) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 6:46 | 2021-09-30 |  |
 | [أحبك والدموع تشهد](https://open.spotify.com/track/78qgyxaEJ2ZDh1YHRdsu6j) | [Ayyoub Tarish](https://open.spotify.com/artist/2Luk3NVpymeOX6Am3dndJJ) | [عاد لي ودي](https://open.spotify.com/album/2DRFBQk16AVetxXoUkmv6U) | 9:57 | 2021-09-30 | 2022-10-23 |
@@ -51,20 +51,20 @@
 | [قالوا أشياء](https://open.spotify.com/track/6t8I0B1eL84UWO6INE5zk4) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [قالوا أشياء](https://open.spotify.com/album/2yLCfhqVrMJPKlj7pKNwSP) | 3:04 | 2021-09-30 | 2022-07-28 |
 | [لحالك](https://open.spotify.com/track/0Tec7sBAIDpulSB1RNgwro) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [لحالك \- Single](https://open.spotify.com/album/2A13FGu17s6NRMGE0URQFo) | 4:15 | 2021-12-30 |  |
 | [لمن اشكيه](https://open.spotify.com/track/2DUFxOPqKheStCqAMZOM25) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [لمن اشكيه \- Single](https://open.spotify.com/album/78f9KtgEFjvevF1eyMQKOO) | 4:50 | 2021-09-30 |  |
-| [لي قلب اضناني](https://open.spotify.com/track/6b1ZwfUyHlNN1dBTSdFlvy) | [Sheikh Ahmed Al Hobaishi](https://open.spotify.com/artist/1DuhcPKBk1ulZQkWiN5smR) | [انا وقلبي](https://open.spotify.com/album/6kbIHqXGsQgrWzYsvKvKOJ) | 6:36 | 2021-09-30 | 2022-11-18 |
+| [لي قلب اضناني](https://open.spotify.com/track/6b1ZwfUyHlNN1dBTSdFlvy) | [Sheikh Ahmed Al Hobaishi](https://open.spotify.com/artist/1DuhcPKBk1ulZQkWiN5smR) | [انا وقلبي](https://open.spotify.com/album/6kbIHqXGsQgrWzYsvKvKOJ) | 6:36 | 2021-09-30 |  |
 | [ماأجملك](https://open.spotify.com/track/2DTzFjkDOAt8E8qUEpLb0b) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [حبيب ولا غريب](https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V) | 5:05 | 2021-09-30 |  |
 | [مسكين من](https://open.spotify.com/track/05Lncd1oXJsliQ7wqCbpxC) | [Humood Al Samah](https://open.spotify.com/artist/0yUGhIBHd8kyqi6IGuzQ1P) | [صاحب الليل](https://open.spotify.com/album/6lgI5vn1eppcaKMSgDbEVk) | 3:38 | 2021-09-30 |  |
 | [يا بنات اليمن](https://open.spotify.com/track/0RGaeMrWP2ounpiQwEMXdf) | [Khaled Al Dhabry](https://open.spotify.com/artist/3KuRxM5CLQd8eX6YAJhSwM) | [زفة 2002](https://open.spotify.com/album/3l80ii05quIHR1eINTKMZu) | 4:05 | 2021-09-30 |  |
-| [يا جانيات العناقيد](https://open.spotify.com/track/3HIM2MSek0HBoMJU2HOnNQ) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:36 | 2021-09-30 |  |
+| [يا جانيات العناقيد](https://open.spotify.com/track/3HIM2MSek0HBoMJU2HOnNQ) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:36 | 2021-09-30 | 2023-02-01 |
 | [يا سمار](https://open.spotify.com/track/4mhpimRVGZjXMpuaHYBiMO) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [جلسات وناسه 2017 الجزء 1](https://open.spotify.com/album/4vIvxdCMizMjxlJIXXj2Wk) | 6:39 | 2021-09-30 |  |
-| [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 | 2021-09-30 |  |
+| [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 | 2021-09-30 | 2022-11-28 |
 | [يا مهاجر](https://open.spotify.com/track/7lCGZKNM9OzhPtRTyamcbN) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [ريم البوادي](https://open.spotify.com/album/0gB9Upr1MXZgfkdg534ny1) | 8:32 | 2021-09-30 |  |
 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 | 2021-09-30 | 2022-07-29 |
 | [يا هزلي](https://open.spotify.com/track/4BVdXOwGUoSkO9HmEUwueR) | [صدام الحاج](https://open.spotify.com/artist/319JmnE2iYxjJ7t9eQNTTs) | [زفة](https://open.spotify.com/album/7jg5sVfoMzGCzRRomCC0yX) | 6:26 | 2021-09-30 | 2022-07-29 |
-| [يابنات ارقصين](https://open.spotify.com/track/4C7VConVsTBdMdfTgiwcZf) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [زفه 1998](https://open.spotify.com/album/6jwfmfbRJctCKQPcsE4iJe) | 6:03 | 2021-09-30 | 2022-11-15 |
+| [يابنات ارقصين](https://open.spotify.com/track/4C7VConVsTBdMdfTgiwcZf) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [زفه 1998](https://open.spotify.com/album/6jwfmfbRJctCKQPcsE4iJe) | 6:03 | 2021-09-30 | 2023-01-27 |
 | [ياطير في عالي الغصون](https://open.spotify.com/track/7lft2qvHsmL1P06YcFLN7C) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:40 | 2021-09-30 | 2022-07-29 |
-| [يالبعيد](https://open.spotify.com/track/2AytFH0o2V70r3kVvXYaUc) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [يالبعيد](https://open.spotify.com/album/2rBW5WEEjeirM99VclLcVV) | 6:21 | 2021-09-30 | 2022-11-19 |
+| [يالبعيد](https://open.spotify.com/track/2AytFH0o2V70r3kVvXYaUc) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [يالبعيد](https://open.spotify.com/album/2rBW5WEEjeirM99VclLcVV) | 6:21 | 2021-09-30 |  |
 | [ياورد ياكاذي](https://open.spotify.com/track/2Q7LfXzspve6Iza70Itbak) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [حفلة نجران](https://open.spotify.com/album/0Q6xLBvxom21S1iQ44yWD7) | 9:42 | 2021-09-30 |  |
-| [يهددني](https://open.spotify.com/track/210bnFRVRTGdBJ1kt7DseV) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [يهددني](https://open.spotify.com/album/5La0nvvmt7Tcq2JZCs2gmE) | 3:02 | 2021-09-30 | 2022-08-26 |
+| [يهددني](https://open.spotify.com/track/210bnFRVRTGdBJ1kt7DseV) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [يهددني](https://open.spotify.com/album/5La0nvvmt7Tcq2JZCs2gmE) | 3:02 | 2021-09-30 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

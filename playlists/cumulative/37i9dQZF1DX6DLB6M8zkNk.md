@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-63 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/1jUeEpyytwUQzwgV0C0mkW)
+63 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

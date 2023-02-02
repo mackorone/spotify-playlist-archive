@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-31",
   "description": "The best of Latin blues. Cover: Carlos Santana",
   "name": "Latin Blues",
-  "published_playlist_ids": [
-    "0qvevBr9lNKoCGGwYBd5uj"
-  ],
   "tracks": [
     {
       "album": {
@@ -925,7 +922,7 @@
     {
       "album": {
         "name": "Sancocho Stereo",
-        "url": "https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB"
+        "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
       },
       "artists": [
         {
@@ -940,6 +937,28 @@
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 253657,
+      "name": "Mugre",
+      "url": "https://open.spotify.com/track/35PSnAtNhWDrsHaik2Re8y"
+    },
+    {
+      "album": {
+        "name": "Sancocho Stereo",
+        "url": "https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        },
+        {
+          "name": "Carca",
+          "url": "https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
       "duration_ms": 253657,
       "name": "Mugre",
       "url": "https://open.spotify.com/track/4JiQitejySZpFVqtXDGsW9"
@@ -1117,10 +1136,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 172898,
       "name": "Que Pena",
       "url": "https://open.spotify.com/track/1GBga6jrKsaw3QKZx82IGB"
+    },
+    {
+      "album": {
+        "name": "Ahora Es Cuando",
+        "url": "https://open.spotify.com/album/0swiunze7QIGHOYQwROnOq"
+      },
+      "artists": [
+        {
+          "name": "Bender Bucowski",
+          "url": "https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172898,
+      "name": "Que Pena",
+      "url": "https://open.spotify.com/track/4xOLS2Fa48jL47HszrEewo"
     },
     {
       "album": {

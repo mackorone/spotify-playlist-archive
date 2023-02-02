@@ -4,7 +4,7 @@
 
 > The best of Metallica, all in one playlist.
 
-50 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/7yJFAwfixRqZNnU8OgCc5R)
+50 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

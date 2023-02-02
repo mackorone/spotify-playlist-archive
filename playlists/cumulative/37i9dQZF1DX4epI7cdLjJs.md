@@ -4,7 +4,7 @@
 
 > Enjoy the soundtrack of Business Proposal! \(드라마 사내 맞선의 사운드트랙을 즐겨보세요!\)
 
-35 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/2e7VAjtTajMC8GbS1qwqU1)
+35 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

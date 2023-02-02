@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-73 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/0YKwThAgsj7nOJs08LIQIc)
+74 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Pina Colada](https://open.spotify.com/track/1921iEr6Xx017QU7WVcB5C) | [Stratil](https://open.spotify.com/artist/3fVNHjlFZ4DUkqL7wz9CTy) | [Next Levels](https://open.spotify.com/album/1fFMVitqbtayubq5kcgvR1) | 6:41 | 2022-03-04 |  |
 | [Pólvora](https://open.spotify.com/track/3gIMWNKpWj4d8aTeA6xUoT) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/1HYeTdgTn7FhtrAvJgVsCc) | 4:12 | 2022-03-04 |  |
 | [Pólvora](https://open.spotify.com/track/3NZsaDrILzOwEbvvitf1D2) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/3IaWvLz87jDi6thZNB2pU1) | 4:16 | 2022-03-04 | 2022-10-16 |
-| [Quebra Queixo](https://open.spotify.com/track/4lUMNAN9T2irVxlaLNehem) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Tijah](https://open.spotify.com/artist/5Y4eYnpmmmLdYaLH6dSGyB) | [Quebra Queixo](https://open.spotify.com/album/2ZDKtIOh7v9jt0Kc2wU8Mi) | 6:12 | 2022-03-04 |  |
+| [Quebra Queixo](https://open.spotify.com/track/4lUMNAN9T2irVxlaLNehem) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Tijah](https://open.spotify.com/artist/5Y4eYnpmmmLdYaLH6dSGyB) | [Quebra Queixo](https://open.spotify.com/album/2ZDKtIOh7v9jt0Kc2wU8Mi) | 6:12 | 2022-03-04 | 2023-01-21 |
 | [Red Eagle](https://open.spotify.com/track/4QCKZtXp4l5NyelhtbOUjC) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [LaCrème](https://open.spotify.com/artist/3ppxoCtKBAAnaAxQd4WAPn) | [Red Eagle](https://open.spotify.com/album/1dxFzhWkEVG1TrfhPguAy6) | 2:43 | 2022-03-04 |  |
 | [Revolt](https://open.spotify.com/track/4tbZ8DNmFxSMjw7gDuSCoq) | [Sajanka](https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf), [Barsha](https://open.spotify.com/artist/3oMKIj359dmAMAzCung5U5) | [Revolt](https://open.spotify.com/album/5DUfitxhpm7D3xcjcCMkWp) | 6:30 | 2022-03-04 |  |
 | [Rise Up](https://open.spotify.com/track/3gYk1Jo71RLQFjZxfSqfYL) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl), [Iron Lady](https://open.spotify.com/artist/1kJnL5tpzjdrS30XGcH3B5) | [Rise Up](https://open.spotify.com/album/0Sq1udLOCXREmmomo4X9Ls) | 3:39 | 2022-03-04 |  |
@@ -74,12 +74,13 @@
 | [Saudades](https://open.spotify.com/track/3bR1zkhKF85T0mVrrIjLaT) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Saudades](https://open.spotify.com/album/0c2b9B5Cgmtwvm832NgUDR) | 3:34 | 2022-03-04 |  |
 | [Sem Chão](https://open.spotify.com/track/5irKKFoCUyKFq8rvtSBIYM) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Sem Chão](https://open.spotify.com/album/3mCC0lCqstMOgi43doEefH) | 4:07 | 2022-03-04 |  |
 | [Sonho de um Passaro \- Special M Remix](https://open.spotify.com/track/2WlMKcobKZMKvoFcnlQbdS) | [Pedra Branca](https://open.spotify.com/artist/7ClRSpXsFCWnmUrSXGa8Gn), [Special M](https://open.spotify.com/artist/0rzSdpejrKjBJ9FK5kqvgX) | [Dance Floor Remixes](https://open.spotify.com/album/2wWwyGQFNvA2zERWQgOpsJ) | 5:10 | 2022-03-04 |  |
-| [Sonne](https://open.spotify.com/track/1YRcnz76HV4akHIgtUsskx) | [Sonik Sun](https://open.spotify.com/artist/2aPCuXM9q0ckGWkdt9frsj), [Muzik Dealerz](https://open.spotify.com/artist/5U13da6sA48Wa0orTB8LMD), [Alex Wyze](https://open.spotify.com/artist/5F7VkOKbb7WIQFfFu7B5mQ), [Alaan Lara](https://open.spotify.com/artist/375Qyr12mY0JzX6hZYCsSp) | [Sonne](https://open.spotify.com/album/6yhokZpMZuT2VW8jTdTs5a) | 6:07 | 2022-03-04 |  |
+| [Sonne](https://open.spotify.com/track/1YRcnz76HV4akHIgtUsskx) | [Sonik Sun](https://open.spotify.com/artist/2aPCuXM9q0ckGWkdt9frsj), [Alex Wyze](https://open.spotify.com/artist/0c4A6gfgOt5Tc54LqLofFw), [Alaan Lara](https://open.spotify.com/artist/375Qyr12mY0JzX6hZYCsSp), [Muzik Dealerz](https://open.spotify.com/artist/0VK4jyNtmxSxjvW2YpTvOg) | [Sonne](https://open.spotify.com/album/6yhokZpMZuT2VW8jTdTs5a) | 6:07 | 2022-03-04 |  |
 | [Stranded](https://open.spotify.com/track/276yiDfuK6Fjd7b7ieE6LO) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Stranded](https://open.spotify.com/album/3TpGLgaPIv69ZFpt9I0iir) | 2:21 | 2022-03-04 |  |
 | [Synapses in Amsterdam](https://open.spotify.com/track/1ZnHUp5jiWFkkN5u26UlmG) | [A\-Dyad](https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6) | [Synapses in Amsterdam](https://open.spotify.com/album/6iwNOZtaXqpD1qxlAJQpub) | 6:44 | 2022-03-04 |  |
 | [Technical Journey](https://open.spotify.com/track/6pgLNcfT7CknMmjYYgBZwD) | [D\-Stroyer](https://open.spotify.com/artist/2WRMUXhCDLTcEzLzlIhPre) | [Technical Journey](https://open.spotify.com/album/38pRM4c3oPXMRxeSkJeSrB) | 2:45 | 2022-03-04 |  |
 | [The Answer \- Original mix](https://open.spotify.com/track/1Ihgvz6cEsutxYzz8IXePE) | [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4), [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [The Answer](https://open.spotify.com/album/2WXbIGXbHCIDVxRaEt69iF) | 7:02 | 2022-03-04 |  |
 | [Time Travel](https://open.spotify.com/track/3ZVyByS3n7fD4pAlHKSRfe) | [Audiophonic](https://open.spotify.com/artist/44ryvVYKLCi6LWlS4w81sK), [Cosmic Energy](https://open.spotify.com/artist/1Hsp6WoqluMRY5ZqMzuGkt) | [Time Travel](https://open.spotify.com/album/1QwOYb82h3LxtiraU28XcP) | 6:03 | 2022-03-04 |  |
 | [Wake Up](https://open.spotify.com/track/5DF2hq3nskYLTZZMbQLbmn) | [Odiseo](https://open.spotify.com/artist/6eSdhw46riw2OUHgMwR8B5), [Physis](https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z) | [Wake Up](https://open.spotify.com/album/3L7IXtt5whtwMYePdfyQvq) | 6:04 | 2022-03-04 |  |
+| [Windows](https://open.spotify.com/track/6o0MNINXuUTulPUy0hCQje) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Windows](https://open.spotify.com/album/3K6MUr42RVI3PiHWGzyZfQ) | 5:41 | 2023-01-20 |  |
 
 \*This playlist was first scraped on 2022-06-15. Prior content cannot be recovered.

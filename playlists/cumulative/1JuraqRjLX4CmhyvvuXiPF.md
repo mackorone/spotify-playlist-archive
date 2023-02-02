@@ -4,7 +4,7 @@
 
 > Take the back roads...
 
-25 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/0Dpt39RuQHj9QExnYEB8yT)
+25 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

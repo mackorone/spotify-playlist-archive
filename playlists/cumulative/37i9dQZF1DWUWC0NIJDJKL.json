@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Perfect sunshiney indie tracks for summer.",
   "name": "Indie Sunshine",
-  "published_playlist_ids": [
-    "47xZ4FtZZwbvh9aVuwnzRv"
-  ],
   "tracks": [
     {
       "album": {
@@ -91,7 +88,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-19",
       "duration_ms": 153697,
       "name": "2AM",
       "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
@@ -113,24 +110,6 @@
       "duration_ms": 159595,
       "name": "4EVER",
       "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
-    },
-    {
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2022-06-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -297,6 +276,24 @@
       "duration_ms": 228922,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -1468,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "GOOD TIMES / PROBLEMZ",
+        "url": "https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181312,
+      "name": "GOOD TIMES",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e"
+    },
+    {
+      "album": {
         "name": "Goodie Bag",
         "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
       },
@@ -1623,7 +1638,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 134781,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh"
@@ -1677,7 +1692,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 268333,
       "name": "Hunnybee",
       "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
@@ -1985,6 +2000,24 @@
       "duration_ms": 249586,
       "name": "Line Without a Hook",
       "url": "https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "album": {
@@ -2715,7 +2748,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 173693,
       "name": "Rawnald Gregory Erickson the Second",
       "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
@@ -3245,7 +3278,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 176315,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
@@ -3335,7 +3368,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 173218,
       "name": "sunburn",
       "url": "https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS"
@@ -3671,7 +3704,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 180488,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
@@ -3859,7 +3892,7 @@
       ],
       "date_added": "2020-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 219260,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
@@ -4159,7 +4192,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-24",
       "duration_ms": 220706,
       "name": "Why Do You Feel So Down",
       "url": "https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w"

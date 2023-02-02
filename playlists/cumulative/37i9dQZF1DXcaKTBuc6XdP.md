@@ -4,7 +4,7 @@
 
 > A playlist of Christian summer camp favorites, past and present.
 
-63 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/4zi31rdXvldSXq3voUeFgF)
+63 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,6 @@
 | [When You Walk Into The Room](https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR) | 4:48 | 2021-06-29 |  |
 | [Where I Belong](https://open.spotify.com/track/5Ah9mt916VYxP1DCpdUT4y) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/1AZ82vQwEGoKKltaeRNzk4) | 3:48 | 2021-06-29 |  |
 | [You Are My All In All](https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 3:49 | 2021-06-29 |  |
-| [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [Youngheart](https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 | 2021-06-29 |  |
+| [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 | 2021-06-29 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

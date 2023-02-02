@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-28",
   "description": "Gentle, soft Ambient music for focus and concentration. ",
   "name": "Ambient Study",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -150,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Faedah",
+        "url": "https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi"
+      },
+      "artists": [
+        {
+          "name": "Indah Bethari",
+          "url": "https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135454,
+      "name": "Ayunan",
+      "url": "https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK"
+    },
+    {
+      "album": {
         "name": "Peaceful Atmospheres for Sleep and Rest Vol 3",
         "url": "https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn"
       },
@@ -183,6 +200,24 @@
       "duration_ms": 166360,
       "name": "Beyond & Back",
       "url": "https://open.spotify.com/track/1Fl9ptJFxhir0pC9jNpwKx"
+    },
+    {
+      "album": {
+        "name": "Beyond The Deep",
+        "url": "https://open.spotify.com/album/09GrXILzY5HssEseM9tWq4"
+      },
+      "artists": [
+        {
+          "name": "Benjin Blund",
+          "url": "https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Beyond the deep",
+      "url": "https://open.spotify.com/track/3tsAMK0ZmrPzIE5TB4oo1t"
     },
     {
       "album": {
@@ -343,8 +378,8 @@
       },
       "artists": [
         {
-          "name": "Roni Adrian",
-          "url": "https://open.spotify.com/artist/20g8Ikt05FAocB1BRjfImY"
+          "name": "Pitouu",
+          "url": "https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG"
         }
       ],
       "date_added": "2022-10-12",
@@ -428,13 +463,31 @@
     },
     {
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/2W7g2RcbpDsH9cmmKsnlih"
+      },
+      "artists": [
+        {
+          "name": "Tehan Form",
+          "url": "https://open.spotify.com/artist/4x7h0jaU1U1n2jKWoNfPij"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/6XEh5HfvUIdJiyujQ3HnoT"
+    },
+    {
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/3NZQJVGMmErMbQhDPJttsY"
       },
       "artists": [
         {
-          "name": "Alto Mae",
-          "url": "https://open.spotify.com/artist/25cEA0VcVQZKhMjISZq7jF"
+          "name": "Gargantis",
+          "url": "https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz"
         }
       ],
       "date_added": "2022-10-12",
@@ -613,8 +666,8 @@
       },
       "artists": [
         {
-          "name": "Breathania",
-          "url": "https://open.spotify.com/artist/2jZ2BLUbfB4Zri64YQChn6"
+          "name": "Hema",
+          "url": "https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc"
         }
       ],
       "date_added": "2022-11-22",
@@ -914,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Laten gaan",
+        "url": "https://open.spotify.com/album/54x0xtunfNKKWCpJHKEhE6"
+      },
+      "artists": [
+        {
+          "name": "Niel Hupkes",
+          "url": "https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208379,
+      "name": "Laten gaan",
+      "url": "https://open.spotify.com/track/1O9Y8T03JiS7yPGcj8IBk0"
+    },
+    {
+      "album": {
         "name": "Leende",
         "url": "https://open.spotify.com/album/06PAyNBCVYjMafAold1L3j"
       },
@@ -1171,8 +1242,8 @@
       },
       "artists": [
         {
-          "name": "Jupos",
-          "url": "https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB"
+          "name": "Ami Sanou",
+          "url": "https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY"
         }
       ],
       "date_added": "2022-10-12",
@@ -1235,6 +1306,24 @@
       "duration_ms": 231724,
       "name": "Nurture",
       "url": "https://open.spotify.com/track/6tkE2tVrjVPwJvF8fRob7T"
+    },
+    {
+      "album": {
+        "name": "Old Faro",
+        "url": "https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH"
+      },
+      "artists": [
+        {
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189938,
+      "name": "Old Faro",
+      "url": "https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi"
     },
     {
       "album": {
@@ -1339,7 +1428,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 197319,
       "name": "Per Me",
       "url": "https://open.spotify.com/track/6km83BJ2tedUp9R0RDTz9N"
@@ -1441,8 +1530,8 @@
       },
       "artists": [
         {
-          "name": "Signa Meyer",
-          "url": "https://open.spotify.com/artist/4A9fzSajHnwIXn4u4KT7Ke"
+          "name": "Danoa",
+          "url": "https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2"
         }
       ],
       "date_added": "2022-10-12",
@@ -1513,8 +1602,8 @@
       },
       "artists": [
         {
-          "name": "Idamal",
-          "url": "https://open.spotify.com/artist/1oQ1F81sAYsBvHvZL3ACWu"
+          "name": "Haldur",
+          "url": "https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx"
         }
       ],
       "date_added": "2022-10-12",
@@ -1523,6 +1612,24 @@
       "duration_ms": 142702,
       "name": "Sanam",
       "url": "https://open.spotify.com/track/2SBaU2ShGWoAYDDqIi8LwG"
+    },
+    {
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33"
+      },
+      "artists": [
+        {
+          "name": "Elsa Whage",
+          "url": "https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Seventh Heaven",
+      "url": "https://open.spotify.com/track/2bV4AO2zBHjmlTxcUhY3w9"
     },
     {
       "album": {
@@ -1634,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Sogno eterno",
+        "url": "https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0"
+      },
+      "artists": [
+        {
+          "name": "Luna Novina",
+          "url": "https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Sogno eterno",
+      "url": "https://open.spotify.com/track/0th3A703YVssZCiPxdj07r"
+    },
+    {
+      "album": {
         "name": "Sona",
         "url": "https://open.spotify.com/album/5eCtu7zfvFUWQyqp63NDHu"
       },
@@ -1742,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2xshTZEMF4Wi3DQ7wmMDTE"
+      },
+      "artists": [
+        {
+          "name": "Taeda Trees",
+          "url": "https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168215,
+      "name": "Stratosphere",
+      "url": "https://open.spotify.com/track/7doPDvbDidcSQklSmuZE17"
+    },
+    {
+      "album": {
         "name": "Elucidate",
         "url": "https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6"
       },
@@ -1819,8 +1962,8 @@
       },
       "artists": [
         {
-          "name": "Aulin Heras",
-          "url": "https://open.spotify.com/artist/5IoiWICcLlfWh4K4VBQcDu"
+          "name": "Julian Nema",
+          "url": "https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS"
         }
       ],
       "date_added": "2022-10-12",
@@ -1933,7 +2076,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 193034,
       "name": "Une autre fois",
       "url": "https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn"
@@ -1973,6 +2116,24 @@
       "duration_ms": 154497,
       "name": "Vettvangur",
       "url": "https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d"
+    },
+    {
+      "album": {
+        "name": "Vinternatt",
+        "url": "https://open.spotify.com/album/6c8RJY0IdrYktS0c1V8a9U"
+      },
+      "artists": [
+        {
+          "name": "Iben Haugen",
+          "url": "https://open.spotify.com/artist/3l78xKQ87BafNzCaqvHjow"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158941,
+      "name": "Vinternatt",
+      "url": "https://open.spotify.com/track/1d6EuB0bXkLEucV1U7Scov"
     },
     {
       "album": {

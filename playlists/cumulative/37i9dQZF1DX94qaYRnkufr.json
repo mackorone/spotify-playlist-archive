@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The essential tracks by the Dutch <a href=\"spotify:artist:60d24wfXkVzDSfLS6hyCjZ\">DJ and producer</a>.",
   "name": "This Is Martin Garrix",
-  "published_playlist_ids": [
-    "6z8AfU874zmIOlsImqKd6w"
-  ],
   "tracks": [
     {
       "album": {
@@ -929,6 +926,28 @@
       "duration_ms": 206449,
       "name": "Helicopter - Video Edit",
       "url": "https://open.spotify.com/track/1CT9ebtobcouQw7G9mZ9AV"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
     },
     {
       "album": {

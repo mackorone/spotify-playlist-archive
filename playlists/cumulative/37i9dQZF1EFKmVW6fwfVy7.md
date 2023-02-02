@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4xM35ABybAg3jkLchXkqbD">Secret Code</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-24 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/0CYV4W3PS6V2hctPTHWwJk)
+24 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

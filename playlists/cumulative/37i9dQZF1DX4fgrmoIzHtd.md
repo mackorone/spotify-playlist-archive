@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-54 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/2vho8ddDMHol79OpvJocZN)
+54 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,0 +1,52 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUog0OWGDgtd.md) - [plain](/playlists/plain/37i9dQZF1DWUog0OWGDgtd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUog0OWGDgtd)
+
+### [Bungo Stray Dogs 文豪ストレイドッグス](https://open.spotify.com/playlist/37i9dQZF1DWUog0OWGDgtd)
+
+> Music from "Bungo Stray Dogs"\. 文豪ストレイドッグスの楽曲を1つのプレイリストで。©朝 霧 カフ カ・春 河 35 /ＫＡＤＯＫＡＷＡ /文 豪 ストレイドッ グス 製 作 委 員 会
+
+[Spotify](https://open.spotify.com/user/spotify) - 2,450 likes - 40 songs - 2 hr 28 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [TRUE STORY](https://open.spotify.com/track/2vWbGXnMCl4vvoUYZt202W) | [SCREEN mode](https://open.spotify.com/artist/44CA4qMx5IOMDQOTg7G6KN) | [TRUE STORY](https://open.spotify.com/album/4h4woOf4hcnWWcfER8dOpG) | 3:56 |
+| 2 | [しるし](https://open.spotify.com/track/5jSR1EJai9xHvDEAq2rPt9) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [しるし](https://open.spotify.com/album/4MxZof46XxfA0UmmuY4HWM) | 4:12 |
+| 3 | [TRASH CANDY](https://open.spotify.com/track/0FuFovPx3x77CRFtt22Q3H) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [TRASH CANDY](https://open.spotify.com/album/30TUo5MR0OsxBTfR23xivP) | 4:46 |
+| 4 | [名前を呼ぶよ](https://open.spotify.com/track/2Gpl7Fr4Mx0gmBfjmMjSNi) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Life is beautiful](https://open.spotify.com/album/3rAxrn66XBImYdGJnPCx4S) | 4:32 |
+| 5 | [WRIGHT LEFT](https://open.spotify.com/track/1PBQxkb41oo4iPdyO7HP3I) | [SCREEN mode](https://open.spotify.com/artist/44CA4qMx5IOMDQOTg7G6KN) | [With You](https://open.spotify.com/album/7zneLijvWofRLhmvxhTZlH) | 5:05 |
+| 6 | [Reason Living](https://open.spotify.com/track/2gLgkVniFLbKiklW4taLOj) | [SCREEN mode](https://open.spotify.com/artist/44CA4qMx5IOMDQOTg7G6KN) | [1/1](https://open.spotify.com/album/1uoYYk6TfIeGUDbXvmEP6V) | 4:04 |
+| 7 | [風が吹く街](https://open.spotify.com/track/6XVkBZ5DTEpAUqJMtPNyJe) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [風が吹く街](https://open.spotify.com/album/1Z5ATd54A5twCvOEoduIiD) | 4:09 |
+| 8 | [Deadly Drive](https://open.spotify.com/track/2ZSDd4CGzdAKZydSl2M2mA) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Deadly Drive](https://open.spotify.com/album/09YTyinnaKJIuKH9hy6Z9t) | 3:59 |
+| 9 | [僕ら](https://open.spotify.com/track/0c2W5Tzp2iye2HXmKU9NCG) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [僕ら](https://open.spotify.com/album/0oHxAtCiq1jK5YfvTUvnd4) | 5:05 |
+| 10 | [Lily](https://open.spotify.com/track/6Bt6EU8gtqCCiz18Z19mfn) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Lily](https://open.spotify.com/album/1tdJ768pqkxcgBMF5x4vFI) | 4:23 |
+| 11 | [セツナの愛](https://open.spotify.com/track/6GppTDfQGwYVT8N9mtUQA8) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [セツナの愛](https://open.spotify.com/album/13NAoduFqCvDmjIwMTEmE2) | 4:33 |
+| 12 | [少年よ月下を疾走れ](https://open.spotify.com/track/5l9WqRgUmREg9mdWbpc22e) | [中島 敦 \(CV.上村祐翔\)](https://open.spotify.com/artist/0yV4MhS5uohiPKoBijvIYE) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/2s6eZiT6SBTPeZfJwAJ80f) | 4:09 |
+| 13 | [永遠未遂にグッド・バイ](https://open.spotify.com/track/36SgeorHbES9eOOY8NwmnE) | [太宰 治 \(CV.宮野真守\)](https://open.spotify.com/artist/67V4M0fBokE5dqx4vavdqS) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/2s6eZiT6SBTPeZfJwAJ80f) | 5:02 |
+| 14 | [我が理想に曇り無し](https://open.spotify.com/track/5rQ4drLda1l8wUgEf48pKD) | [国木田独歩 \(CV.細谷佳正\)](https://open.spotify.com/artist/7JsyA31PxY0jlkTnKqeXQo) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/2s6eZiT6SBTPeZfJwAJ80f) | 4:08 |
+| 15 | [迷宮解読遊戯](https://open.spotify.com/track/7MyGZBcRDb0BD71AeGx4mr) | [江戸川乱歩 \(CV.神谷浩史\)](https://open.spotify.com/artist/6vwWl8ohtbAARIBiZOU7fm) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ弐](https://open.spotify.com/album/5kfFWC3c5VVnnmkFpWFCnY) | 3:35 |
+| 16 | [正直者ノ流儀](https://open.spotify.com/track/6McL6ypFd4WI7QLwHZvYRs) | [宮沢賢治 \(CV.花倉洸幸\)](https://open.spotify.com/artist/2X4vlzBxddHPXWCgATySCY) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ弐](https://open.spotify.com/album/5kfFWC3c5VVnnmkFpWFCnY) | 4:40 |
+| 17 | [幻惑のスクリィン](https://open.spotify.com/track/4qzZRamemvH0vE4WDgRQA9) | [谷崎潤一郎 \(CV.豊永利行\)](https://open.spotify.com/artist/5rtyAxKOQi3Syt4onrN48R) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ弐](https://open.spotify.com/album/5kfFWC3c5VVnnmkFpWFCnY) | 3:49 |
+| 18 | [揺らぐ暗澹の世界から](https://open.spotify.com/track/5PrYi2MFxDj8byJsm3kZQ3) | [芥川龍之介 \(CV.小野賢章\)](https://open.spotify.com/artist/6jdpoBM2Y7DvL7id4Na2xW) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ参](https://open.spotify.com/album/2MJX899BiR6SszvUDKG09a) | 4:45 |
+| 19 | [DARKNESS MY SORROW](https://open.spotify.com/track/1bw2FvgiNSiUVr4aS5DHnb) | [中原中也 \(CV.谷山紀章\)](https://open.spotify.com/artist/1Do0bNYBNmzQwSyQZlgPQm) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ参](https://open.spotify.com/album/2MJX899BiR6SszvUDKG09a) | 4:06 |
+| 20 | [状態変化実験における不可逆的事象の考察について](https://open.spotify.com/track/6r6IaErVpig8lqN4MV4ewP) | [梶井基次郎 \(CV.羽多野 渉\)](https://open.spotify.com/artist/7cFLMa2COfFgeIa7jxXPE1) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ参](https://open.spotify.com/album/2MJX899BiR6SszvUDKG09a) | 3:41 |
+| 21 | [Good For Nothing](https://open.spotify.com/track/7zIuAdo1st4QdXfgWYFWGs) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 01](https://open.spotify.com/album/2TwJR2GlpkozeW8tFZ6WSt) | 3:14 |
+| 22 | [恥の多い生涯を、、](https://open.spotify.com/track/6WlbwwqnXS6SOg1EvTUfvv) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 01](https://open.spotify.com/album/2TwJR2GlpkozeW8tFZ6WSt) | 3:03 |
+| 23 | [Leaping Wings](https://open.spotify.com/track/2MjXv0NFJn51QKYnNQn70a) | [風LaLa合唱団](https://open.spotify.com/artist/6Pdm484ATo1NKEiic2JTx3) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 01](https://open.spotify.com/album/2TwJR2GlpkozeW8tFZ6WSt) | 3:08 |
+| 24 | [こころ ふるえけり](https://open.spotify.com/track/5lfPNg7qL5Qm6mEENKw5Vd) | [さかいれいしう](https://open.spotify.com/artist/1gKFcRmiwkTGMJcyWwkffp) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 01](https://open.spotify.com/album/2TwJR2GlpkozeW8tFZ6WSt) | 3:56 |
+| 25 | [Eye Of The Tiger](https://open.spotify.com/track/4lyFS1qwSZANnb46Ce2Xx4) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 01](https://open.spotify.com/album/2TwJR2GlpkozeW8tFZ6WSt) | 4:22 |
+| 26 | [Scarlet Sky](https://open.spotify.com/track/5452NXkcwEmQDmZ22bbFdP) | [伊集加代](https://open.spotify.com/artist/5qjXN9Z2UVmkq04Fz9vZfC) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 02](https://open.spotify.com/album/4Q6P8mlB1efV76fsMakcFm) | 3:12 |
+| 27 | [夾竹桃](https://open.spotify.com/track/3DlrX5sj0tZuRHatEbAulz) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 02](https://open.spotify.com/album/4Q6P8mlB1efV76fsMakcFm) | 3:21 |
+| 28 | [Dormito bene?](https://open.spotify.com/track/6yJCYuQ1iZpCNeavJwrmgF) | [新南田ゆり](https://open.spotify.com/artist/6qACQmGAL02xQRYaVSwAbt) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 02](https://open.spotify.com/album/4Q6P8mlB1efV76fsMakcFm) | 4:31 |
+| 29 | [Kante](https://open.spotify.com/track/030mKRO9Te2ugPL920OKGd) | [書上奈朋子](https://open.spotify.com/artist/1aIXeAw4pm7lAul6HkJ63T) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 02](https://open.spotify.com/album/4Q6P8mlB1efV76fsMakcFm) | 3:35 |
+| 30 | [Scarlet Sky \- Piano Ver.](https://open.spotify.com/track/3o0Q4t816W04L1WnhmFRQG) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [映画『文豪ストレイドッグス DEAD APPLE\(デッドアップル\)』オリジナルサウンドトラック](https://open.spotify.com/album/5fWTNqHuXZ0GsrFKC3KXFK) | 0:49 |
+| 31 | [Dear Prince](https://open.spotify.com/track/0BeC97fTBZg5ePTOqMRIiy) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [映画『文豪ストレイドッグス DEAD APPLE\(デッドアップル\)』オリジナルサウンドトラック](https://open.spotify.com/album/5fWTNqHuXZ0GsrFKC3KXFK) | 2:29 |
+| 32 | [Wake Up Call](https://open.spotify.com/track/7GNPTGT0cMMpU5d3kZAh7L) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [映画『文豪ストレイドッグス DEAD APPLE\(デッドアップル\)』オリジナルサウンドトラック](https://open.spotify.com/album/5fWTNqHuXZ0GsrFKC3KXFK) | 4:28 |
+| 33 | [安堵](https://open.spotify.com/track/5zUZsyvB3No5nnWJioTi0T) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [映画『文豪ストレイドッグス DEAD APPLE\(デッドアップル\)』オリジナルサウンドトラック](https://open.spotify.com/album/5fWTNqHuXZ0GsrFKC3KXFK) | 1:28 |
+| 34 | [Violette Irise](https://open.spotify.com/track/4IgaBnxW0yyTn4q2GE4NHE) | [高橋 維](https://open.spotify.com/artist/5J48tmaA4qf2tTXvhu5cyz) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 03](https://open.spotify.com/album/0zwct9Ikvl2h7HMoFlCS6h) | 2:50 |
+| 35 | [チェロとピアノの為の「死の鳥」](https://open.spotify.com/track/5Nto5BqFCAclTFNmQyFlDx) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 03](https://open.spotify.com/album/0zwct9Ikvl2h7HMoFlCS6h) | 4:37 |
+| 36 | [Ulmoi](https://open.spotify.com/track/7cKaaOJz8e0rgB4EtfYTx9) | [書上奈朋子](https://open.spotify.com/artist/1aIXeAw4pm7lAul6HkJ63T) | [TVアニメ『文豪ストレイドッグス』オリジナルサウンドトラック 03](https://open.spotify.com/album/0zwct9Ikvl2h7HMoFlCS6h) | 5:52 |
+| 37 | [Relax](https://open.spotify.com/track/332ktYLiTXAhCgb1c0OE8y) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [TVアニメ『文豪ストレイドッグス わん!』オリジナルサウンドトラック](https://open.spotify.com/album/6mmm5LpRB6z1t1r6vMeX0r) | 1:58 |
+| 38 | [パヴァーヌわん!](https://open.spotify.com/track/29CVD8YFNsBwFGhbgvaCTR) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [TVアニメ『文豪ストレイドッグス わん!』オリジナルサウンドトラック](https://open.spotify.com/album/6mmm5LpRB6z1t1r6vMeX0r) | 2:51 |
+| 39 | [絵描き歌わん!](https://open.spotify.com/track/752XNVzyiVE1ioO0K6bpQh) | [中島 敦 \(CV.上村祐翔\)](https://open.spotify.com/artist/0yV4MhS5uohiPKoBijvIYE) | [TVアニメ『文豪ストレイドッグス わん!』オリジナルサウンドトラック](https://open.spotify.com/album/6mmm5LpRB6z1t1r6vMeX0r) | 0:43 |
+| 40 | [名前を呼ぶよ \- 中島 敦ver.](https://open.spotify.com/track/3MMRow9uU0N6ZsOrWKbD3s) | [中島 敦 \(CV.上村祐翔\)](https://open.spotify.com/artist/0yV4MhS5uohiPKoBijvIYE) | [TVアニメ『文豪ストレイドッグス わん!』オリジナルサウンドトラック](https://open.spotify.com/album/6mmm5LpRB6z1t1r6vMeX0r) | 1:30 |
+
+Snapshot ID: `MTY3Mjk3NDM5OSwwMDAwMDAwMDBhMTJiMGUzZGE4YjZjNzJiNWYzYTBkOGZhNmY2NTg1`

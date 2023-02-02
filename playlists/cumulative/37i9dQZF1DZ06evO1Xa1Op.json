@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
   "name": "This Is Ali Farka Tour\u00e9",
-  "published_playlist_ids": [
-    "01n1mtxEZ7ZDHGLb21xiFu"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,7 +20,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 417186,
       "name": "56",
       "url": "https://open.spotify.com/track/4ML8gLVDid1m2pRDHGUQQ7"
@@ -329,6 +326,28 @@
       "duration_ms": 281946,
       "name": "Erdi",
       "url": "https://open.spotify.com/track/7oLZWt9WYY6MebC8RMXOdR"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138840,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/10UumEsqkMv6fiihOM5Hg8"
     },
     {
       "album": {
@@ -667,7 +686,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 339626,
       "name": "Mali Dje",
       "url": "https://open.spotify.com/track/1CHKHF1roftcIHOp2jPzc1"
@@ -799,6 +818,24 @@
       "duration_ms": 248986,
       "name": "Sabu Yerkoy",
       "url": "https://open.spotify.com/track/5wUA6MSNGGORassu6tHnAJ"
+    },
+    {
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS"
     },
     {
       "album": {

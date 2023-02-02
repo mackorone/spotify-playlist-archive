@@ -4,7 +4,7 @@
 
 > All the biggest Core tracks of the moment\. Cover: Bleed From Within
 
-53 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/6p5wrbsD6TVse4w3kRoNzS)
+53 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

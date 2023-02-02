@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Eartheater Trinity (Deluxe), plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.",
+  "description": "The latest tracks from Mad Decent and friends. Eartheater Trinity (Deluxe), plus the latest cuts from Aluna, X-Coast, Nia Archives and more.",
   "name": "Mad Decent Weekly",
-  "published_playlist_ids": [
-    "1Yjpd6pirY2pY0xv9m96EC"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,7 +42,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 104000,
       "name": "1471",
       "url": "https://open.spotify.com/track/1BVo3CqGJO3YMNeoK5Ihye"
@@ -446,6 +443,24 @@
     },
     {
       "album": {
+        "name": "back to tha",
+        "url": "https://open.spotify.com/album/2bSAP1x77JzDTAwzyiByp9"
+      },
+      "artists": [
+        {
+          "name": "Casper Mcfadden",
+          "url": "https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "back to tha",
+      "url": "https://open.spotify.com/track/7dOzaKiaduAxuRfPSaTQwu"
+    },
+    {
+      "album": {
         "name": "Bad Gyal / EZ 4 Me",
         "url": "https://open.spotify.com/album/66EHrbtKApddaw41QPB8ds"
       },
@@ -505,7 +520,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 189090,
       "name": "Be With U (feat. DETO BLACK)",
       "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
@@ -553,6 +568,24 @@
       "duration_ms": 158550,
       "name": "BEAT DUA LIPA",
       "url": "https://open.spotify.com/track/2oPxWe4rdf9m8nsTe879O0"
+    },
+    {
+      "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
       "album": {
@@ -795,7 +828,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 162653,
       "name": "Bruna, Tu J\u00e1 Parou Pra Pensar",
       "url": "https://open.spotify.com/track/7qq40cRIYNKZCDt1STfBqt"
@@ -845,6 +878,28 @@
       "duration_ms": 273240,
       "name": "BUNDLES",
       "url": "https://open.spotify.com/track/3x5JT3ZzLOk7p7PkDU9Ta2"
+    },
+    {
+      "album": {
+        "name": "Burn Dem Bridges (Nia Archives Edit)",
+        "url": "https://open.spotify.com/album/0trpgSYjPsFpnsjxD7FAIM"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147455,
+      "name": "Burn Dem Bridges - Nia Archives Edit",
+      "url": "https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn"
     },
     {
       "album": {
@@ -1101,6 +1156,24 @@
       "duration_ms": 284657,
       "name": "Conclusions",
       "url": "https://open.spotify.com/track/4LdZcxskqmlGwNuljaXii0"
+    },
+    {
+      "album": {
+        "name": "CONFLICT",
+        "url": "https://open.spotify.com/album/2dtIwb6Qv3oeuzl04SjiW0"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206720,
+      "name": "CONFLICT",
+      "url": "https://open.spotify.com/track/36i3VDSBSrn5m3VqIA5tgR"
     },
     {
       "album": {
@@ -2019,7 +2092,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 182400,
       "name": "Female Serial Killere",
       "url": "https://open.spotify.com/track/41LfhxTHm0WBuRHMREskre"
@@ -2599,11 +2672,15 @@
         {
           "name": "SURF GANG",
           "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        },
+        {
+          "name": "POLO PERKS <3 <3 <3",
+          "url": "https://open.spotify.com/artist/4f4Ee5QjHnoeSdlxTaK6rx"
         }
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 125333,
       "name": "HARDY BOYZ",
       "url": "https://open.spotify.com/track/7KUHhtR7KQsDP4gW73y9Ro"
@@ -2625,6 +2702,24 @@
       "duration_ms": 220000,
       "name": "Haunted Be Thy",
       "url": "https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF"
+    },
+    {
+      "album": {
+        "name": "Integrity",
+        "url": "https://open.spotify.com/album/1uVgC2vzEpfu7Y1l9jFxev"
+      },
+      "artists": [
+        {
+          "name": "Bear1Boss",
+          "url": "https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135709,
+      "name": "Heartbroken I'm Lonely",
+      "url": "https://open.spotify.com/track/6HI3GAwMiAjk4L0Md7OmK8"
     },
     {
       "album": {
@@ -2833,6 +2928,28 @@
       "duration_ms": 175500,
       "name": "I Don't Know What To Say",
       "url": "https://open.spotify.com/track/3RacL9kXyeYXfkBQOAMNPl"
+    },
+    {
+      "album": {
+        "name": "Akira EP",
+        "url": "https://open.spotify.com/album/7gkHhfWv3FkY4q67h62ibI"
+      },
+      "artists": [
+        {
+          "name": "Byron the Aquarius",
+          "url": "https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ"
+        },
+        {
+          "name": "Kush Jones",
+          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298512,
+      "name": "I Love Yo - Kush Jones Remix",
+      "url": "https://open.spotify.com/track/6JzuHyHHXMjSUfu2b4y1Nf"
     },
     {
       "album": {
@@ -3084,6 +3201,32 @@
     },
     {
       "album": {
+        "name": "Kiss It Better (MJ Cole Remix)",
+        "url": "https://open.spotify.com/album/4CcsxDNRrYs6CxlY62XWN3"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243498,
+      "name": "Kiss It Better - MJ Cole Remix",
+      "url": "https://open.spotify.com/track/62AYZyWHYitJJ4oBOg1wda"
+    },
+    {
+      "album": {
         "name": "\u2661",
         "url": "https://open.spotify.com/album/2VyYH4z9IR5IBSc3To5cQ0"
       },
@@ -3133,7 +3276,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 193274,
       "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
       "url": "https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H"
@@ -3276,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "Random Girl",
+        "url": "https://open.spotify.com/album/7N3UulF57VgBOz0Mkb9eOU"
+      },
+      "artists": [
+        {
+          "name": "James K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "Life Of A Fly",
+      "url": "https://open.spotify.com/track/6JdnWwouh7SpDmhpswPRKs"
+    },
+    {
+      "album": {
         "name": "JOY (Deluxe)",
         "url": "https://open.spotify.com/album/2JyQlVMRddAaZ9r3v15RCJ"
       },
@@ -3415,7 +3576,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
@@ -3515,6 +3676,36 @@
       "duration_ms": 240250,
       "name": "Loved By U (George FitzGerald Remix)",
       "url": "https://open.spotify.com/track/1fBRJQDvNn7VTe1C0x7lm3"
+    },
+    {
+      "album": {
+        "name": "Loved By U (Tommie Sunshine & On Deck Remix)",
+        "url": "https://open.spotify.com/album/6dAzBD9Pq2FRBzo8i9pngT"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        },
+        {
+          "name": "On Deck",
+          "url": "https://open.spotify.com/artist/6emC4PVjomYP6W3Ns4ghT3"
+        },
+        {
+          "name": "Tommie Sunshine",
+          "url": "https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247188,
+      "name": "Loved By U (Tommie Sunshine & On Deck Remix)",
+      "url": "https://open.spotify.com/track/32Q3rLLqMcwUDLVKpkdKhC"
     },
     {
       "album": {
@@ -4061,7 +4252,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 195604,
       "name": "Nowhere To Hide",
       "url": "https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu"
@@ -4159,7 +4350,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 145084,
       "name": "OMOGE WA JO",
       "url": "https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC"
@@ -4318,6 +4509,42 @@
     },
     {
       "album": {
+        "name": "ozone community pt. 1 & 2",
+        "url": "https://open.spotify.com/album/6vWUlooJXoOaRdJeWsO1z3"
+      },
+      "artists": [
+        {
+          "name": "dolo2000",
+          "url": "https://open.spotify.com/artist/23JjxOmZ2pJYgyytD1lDtY"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139316,
+      "name": "ozone community pt. 1 & 2",
+      "url": "https://open.spotify.com/track/6VUBanzg1vLKEsZxDKCGiM"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/1EkMUiE5FI6vDTILptC0AR"
+      },
+      "artists": [
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333537,
+      "name": "Pianissimo - Extended",
+      "url": "https://open.spotify.com/track/6UgDavkSuHHTq8bpn94v9V"
+    },
+    {
+      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/5B6FH2f4rOJb9xFndwd05e"
       },
@@ -4337,7 +4564,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 154434,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/2nsYdAiS7abEcku6JAw8Zs"
@@ -5121,6 +5348,24 @@
       "duration_ms": 289411,
       "name": "Someday - salute Remix",
       "url": "https://open.spotify.com/track/1b4A75M3cbxw92gU8yZxZY"
+    },
+    {
+      "album": {
+        "name": "hard boiled",
+        "url": "https://open.spotify.com/album/3gtJxGdRyZ7Ctp5eo2bEpa"
+      },
+      "artists": [
+        {
+          "name": "DEWEY.nothing",
+          "url": "https://open.spotify.com/artist/5rbjdtxdnCNvdwlyoTFsnu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105365,
+      "name": "speaking terms",
+      "url": "https://open.spotify.com/track/4McPfj4BGNv2LG8F8g34js"
     },
     {
       "album": {
@@ -5911,6 +6156,32 @@
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp"
+    },
+    {
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119314,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg"
     },
     {
       "album": {

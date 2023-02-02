@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The most innovative and forward thinking metal right now. Cover: Bring Me The Horizon",
   "name": "Alternative Metal",
-  "published_playlist_ids": [
-    "74UBTR7z0vAmQsRIWWsXwK"
-  ],
   "tracks": [
     {
       "album": {
@@ -235,7 +232,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 280549,
       "name": "Alone I Burn - Radio Edit",
       "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
@@ -253,7 +250,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 173154,
       "name": "AN ITERATION",
       "url": "https://open.spotify.com/track/7vAWLTQr7F9KLKsIu7RbT6"
@@ -474,6 +471,42 @@
     },
     {
       "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/2Kt1g7imZTiyATlkOfKf2f"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 276764,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2XIrfxeVsfLZF6oGKN2ri4"
+    },
+    {
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/0ld5U0aAKWiNUiUYqSJi13"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276764,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3wfc00OGxwIK9zRBPBvplY"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9"
       },
@@ -485,10 +518,28 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 276764,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6"
+    },
+    {
+      "album": {
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/0hCgFa5oQgotbahA3C4gzb"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 276764,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6NdcU1BYB4jxXBn88OTeAH"
     },
     {
       "album": {
@@ -561,7 +612,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 235214,
       "name": "Breaks",
       "url": "https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE"
@@ -677,6 +728,24 @@
     {
       "album": {
         "name": "Kosmik",
+        "url": "https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP"
+      },
+      "artists": [
+        {
+          "name": "Violet Cold",
+          "url": "https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs"
+    },
+    {
+      "album": {
+        "name": "Kosmik",
         "url": "https://open.spotify.com/album/4thEO0PIlNvc1txIfO0LA5"
       },
       "artists": [
@@ -705,7 +774,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 214250,
       "name": "Contact",
       "url": "https://open.spotify.com/track/6WTb67YHPih0UCVxXGLDKn"
@@ -947,7 +1016,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 257199,
       "name": "Embers\u00f3lyom - Kal\u00e1ka",
       "url": "https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS"
@@ -2203,7 +2272,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 218503,
       "name": "The Future Says Thank You",
       "url": "https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx"
@@ -2381,6 +2450,24 @@
     {
       "album": {
         "name": "WHATS UP?",
+        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
+      },
+      "artists": [
+        {
+          "name": "BVDLVD",
+          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "WHATS UP?",
+      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
+    },
+    {
+      "album": {
+        "name": "WHATS UP?",
         "url": "https://open.spotify.com/album/4xCJjBbWtF8lOdvobITRB2"
       },
       "artists": [
@@ -2391,7 +2478,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 168160,
       "name": "WHATS UP?",
       "url": "https://open.spotify.com/track/4l0hBlylNScrA6g3b9eb2X"
@@ -2543,10 +2630,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 199240,
       "name": "WRAITH",
       "url": "https://open.spotify.com/track/1tqaIehcDC5IcnRVGEGXXx"
+    },
+    {
+      "album": {
+        "name": "WRAITH",
+        "url": "https://open.spotify.com/album/10JZyQw2rMA75MUEAxTTHy"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "WRAITH",
+      "url": "https://open.spotify.com/track/78hZlTj2u4UeefGLPJKhUG"
     },
     {
       "album": {
@@ -2597,7 +2702,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 291400,
       "name": "Zone Out",
       "url": "https://open.spotify.com/track/2qQ1siA0oNdASlmQO4Sp9d"

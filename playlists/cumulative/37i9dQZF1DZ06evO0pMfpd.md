@@ -4,7 +4,7 @@
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/4UMWv0357zmNo4xmR1nSew)
+56 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [La Bota](https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:28 | 2022-06-01 |  |
 | [La Chela](https://open.spotify.com/track/14orHg5z8RbwkqiDUtQQkZ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:32 | 2022-06-01 |  |
 | [La Chinita](https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Otra Vez](https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd) | 3:40 | 2022-06-01 |  |
-| [La Chona](https://open.spotify.com/track/1tdFl5ACRmcEFIRWAgTTQc) | [Banda Los Mazatlecos](https://open.spotify.com/artist/5iVAKb2ERQopiFURsf6g1b), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [La Chona](https://open.spotify.com/album/35HbDxOHRQuOCikY0TlXkX) | 3:03 | 2022-06-01 |  |
+| [La Chona](https://open.spotify.com/track/1tdFl5ACRmcEFIRWAgTTQc) | [Banda Los Mazatlecos](https://open.spotify.com/artist/5iVAKb2ERQopiFURsf6g1b), [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [La Chona](https://open.spotify.com/album/35HbDxOHRQuOCikY0TlXkX) | 3:03 | 2022-06-01 | 2022-12-16 |
 | [La Cuca](https://open.spotify.com/track/6f5rIK5usr8AueDudM81y7) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 3:40 | 2022-06-01 |  |
 | [La Flaca](https://open.spotify.com/track/1ch4u7n3GCyUYuLfRi8NAd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 2:51 | 2022-06-01 |  |
 | [La Flaca](https://open.spotify.com/track/314bx0T8avvO9TqBTXYd4o) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar de Caballito](https://open.spotify.com/album/0hqSpBCMjZ57t2uhcxdbpm) | 2:53 | 2022-06-11 | 2022-11-04 |

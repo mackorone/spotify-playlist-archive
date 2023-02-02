@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-06",
   "description": "Behagelig musik.",
   "name": "Ren hygge",
-  "published_playlist_ids": [
-    "1yDl9PUnuyK8nMQ2AIrRVP"
-  ],
   "tracks": [
     {
       "album": {
@@ -145,7 +142,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 159680,
       "name": "Alice",
       "url": "https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2"
@@ -271,7 +268,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 175222,
       "name": "barcelona",
       "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
@@ -319,6 +316,24 @@
       "duration_ms": 226222,
       "name": "Be Real",
       "url": "https://open.spotify.com/track/4PEbNdnFtpko90iC0W9I2u"
+    },
+    {
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
     },
     {
       "album": {
@@ -932,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 183591,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU"
+    },
+    {
+      "album": {
         "name": "Raised Under Grey Skies",
         "url": "https://open.spotify.com/album/3WEeVvwxDad8bPd9ESOeuF"
       },
@@ -987,7 +1020,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 205806,
       "name": "Closer To You",
       "url": "https://open.spotify.com/track/6B53kQ2sKg3D2b0IPIoNbN"
@@ -1225,7 +1258,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -1695,7 +1728,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": "2023-01-10",
       "duration_ms": 195226,
       "name": "Fraction",
       "url": "https://open.spotify.com/track/0W15FUJGqqbVNvHGYR8nZk"
@@ -1843,7 +1876,7 @@
       ],
       "date_added": "2021-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
@@ -1897,7 +1930,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 228442,
       "name": "Happiest Year",
       "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
@@ -2196,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4w69F0jer7PX7K6GCxBw2K"
+      },
+      "artists": [
+        {
+          "name": "Jonah Blacksmith",
+          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/4OqBSwyAzEEMnESPYmb1Xp"
+    },
+    {
+      "album": {
         "name": "How Would You Feel (Paean)",
         "url": "https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ"
       },
@@ -2207,7 +2258,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 280533,
       "name": "How Would You Feel (Paean)",
       "url": "https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV"
@@ -2543,6 +2594,24 @@
       "duration_ms": 246320,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+    },
+    {
+      "album": {
+        "name": "Krystal",
+        "url": "https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79989,
+      "name": "Intolewd",
+      "url": "https://open.spotify.com/track/79rfskJwK9NLN3p5cdccth"
     },
     {
       "album": {
@@ -2969,7 +3038,7 @@
       ],
       "date_added": "2020-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
@@ -3005,7 +3074,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 225400,
       "name": "Lost Sparks",
       "url": "https://open.spotify.com/track/3SxMBVdL2gxhX5V5dXF9jy"
@@ -3585,7 +3654,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 211766,
       "name": "Nattely",
       "url": "https://open.spotify.com/track/2ySo8G1HaHvgqual8p2Nti"
@@ -3921,7 +3990,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 203089,
       "name": "Out of My Hands",
       "url": "https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY"
@@ -4235,7 +4304,7 @@
       ],
       "date_added": "2021-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 227186,
       "name": "Remember That Night?",
       "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
@@ -4415,7 +4484,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 222173,
       "name": "Safe Inside",
       "url": "https://open.spotify.com/track/5ooilrQAnOJbUjq7IDm8lY"
@@ -4487,7 +4556,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
@@ -4674,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "Somebody Loved",
+        "url": "https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153105,
+      "name": "Somebody Loved",
+      "url": "https://open.spotify.com/track/1wflx5YklLYToaIbXkrZSq"
+    },
+    {
+      "album": {
         "name": "Somebody Special (acoustic Version)",
         "url": "https://open.spotify.com/album/7lxdYTgp1QQ2t7IhWnf7wY"
       },
@@ -4739,7 +4826,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -4815,7 +4902,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 132581,
       "name": "Stay The Way I Left You (feat. Dahl)",
       "url": "https://open.spotify.com/track/1wT9hNHjSdpKAK8ysEdAg7"
@@ -5209,7 +5296,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 175492,
       "name": "The Vow",
       "url": "https://open.spotify.com/track/1GdsahYYRk5UsyJEuazwcB"
@@ -5231,7 +5318,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 174860,
       "name": "There's No Way",
       "url": "https://open.spotify.com/track/5ZpIsCmJtMAyTvz8Z3bGXX"
@@ -5279,6 +5366,28 @@
       "duration_ms": 174860,
       "name": "There's No Way (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2hnxrRNzF74mdDzpQZQukQ"
+    },
+    {
+      "album": {
+        "name": "There's No Way (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174860,
+      "name": "There's No Way (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
     },
     {
       "album": {
@@ -5351,7 +5460,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 194853,
       "name": "This City",
       "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
@@ -5574,6 +5683,28 @@
     },
     {
       "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "album": {
         "name": "1975",
         "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
       },
@@ -5585,7 +5716,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-21",
       "duration_ms": 197839,
       "name": "Until The Hurting Is Gone",
       "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
@@ -6291,7 +6422,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 233640,
       "name": "Wildfire - Alternate Version",
       "url": "https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs"
@@ -6496,6 +6627,24 @@
     },
     {
       "album": {
+        "name": "The Things I Can't Take With Me",
+        "url": "https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74303,
+      "name": "you up?",
+      "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"
+    },
+    {
+      "album": {
         "name": "Fall Away Into Place",
         "url": "https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S"
       },
@@ -6525,7 +6674,7 @@
       ],
       "date_added": "2020-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"

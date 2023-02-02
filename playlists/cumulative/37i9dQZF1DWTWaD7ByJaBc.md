@@ -4,7 +4,7 @@
 
 > Artist, producer and writer behind many of your favourite songs makes his Pride selection for you.
 
-41 songs - 2 hr 12 min - [published](https://open.spotify.com/playlist/7FNb8qMTEz4C5RqBT9VZLB)
+41 songs - 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

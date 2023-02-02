@@ -4,7 +4,7 @@
 
 > Check out these young 'uns singing your favorite country tunes!
 
-46 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/17XSBBuBkHiAENsqlLcg9C)
+46 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

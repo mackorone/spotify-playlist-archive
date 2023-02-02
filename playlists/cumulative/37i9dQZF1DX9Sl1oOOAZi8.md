@@ -4,7 +4,7 @@
 
 > El mix perfecto para tu rutina de yoga.
 
-114 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/0qQjSANZRXoluPiI47KCf5)
+114 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Jane says these are the essentials.
 
-40 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/6aVO3Qq8vxXbcg0PDWFk7D)
+40 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

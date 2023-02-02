@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c51ZkUk7wO3Icy2sW3jvA.md) - [plain]
 
 > Missa inte Daniel Adams\-Ray på Flamingo\-scenen på TORSDAG / 16.35
 
-[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 10 songs - 39 min 16 sec
+[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 10 songs - 39 min 16 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

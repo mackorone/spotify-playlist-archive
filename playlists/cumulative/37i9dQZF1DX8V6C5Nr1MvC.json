@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Unwind and drink up these awesome Rock slow songs",
+  "description": "Rock that's served neat and goes down smooth.",
   "name": "Rocktail Hour",
-  "published_playlist_ids": [
-    "497y8NFRf0FN68176BW58p"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2020-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 233173,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
@@ -765,6 +762,24 @@
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+    },
+    {
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,761 likes - 64 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,730 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

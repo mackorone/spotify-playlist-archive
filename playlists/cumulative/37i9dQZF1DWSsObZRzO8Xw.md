@@ -4,7 +4,7 @@
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: toe
 
-114 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/30AOiai6zS6TxM6b4PqLOP)
+115 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [El Hombre Pánico](https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros del Albedrío](https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz) | 2:18 | 2021-10-15 |  |
 | [El sol es un holgazán](https://open.spotify.com/track/67pILfFYI7MpMCcytquiYN) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Abajo la tarea](https://open.spotify.com/album/5bKVoIF91dAbfAXig1HVnc) | 2:21 | 2021-10-15 |  |
 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 | 2021-10-15 |  |
-| [Fifzteen](https://open.spotify.com/track/0rhPij0wU67nYjY94HJiJa) | [You Slut!](https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o) | [Medium Bastard](https://open.spotify.com/album/6HppO1aQwoT69S9StRzBns) | 3:02 | 2021-10-15 |  |
+| [Fiftzeen](https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn) | [You Slut!](https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o) | [Medium Bastard](https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY) | 3:02 | 2022-05-20 |  |
+| [Fifzteen](https://open.spotify.com/track/0rhPij0wU67nYjY94HJiJa) | [You Slut!](https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o) | [Medium Bastard](https://open.spotify.com/album/6HppO1aQwoT69S9StRzBns) | 3:02 | 2021-10-15 | 2022-12-16 |
 | [Fire Back About Your New Baby's Sex](https://open.spotify.com/track/01VhYbUIdJABCY4Ceupxbn) | [Don Caballero](https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C) | [American Don](https://open.spotify.com/album/3y1aPtqR1BkUXAaOUoDCRo) | 4:43 | 2021-10-15 |  |
 | [Floaty Boaty](https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr) | [House Tours](https://open.spotify.com/artist/0JJrpuxdhv0fmrMQR7PEC7) | [Floaty Boaty](https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF) | 4:16 | 2021-10-15 |  |
 | [Friends Suck](https://open.spotify.com/track/42pO1zZememxps3eSEXfnp) | [Land Wars](https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O) | [Land Wars](https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb) | 3:54 | 2021-10-15 |  |

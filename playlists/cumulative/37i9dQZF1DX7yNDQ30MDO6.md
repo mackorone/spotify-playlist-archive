@@ -4,7 +4,7 @@
 
 > The best of Biffy Clyro, all in one place\. Mon the Biff!
 
-50 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/2RQegwsm9fl0VYDvn4sJIJ)
+50 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

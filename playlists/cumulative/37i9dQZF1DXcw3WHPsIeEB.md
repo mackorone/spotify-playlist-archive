@@ -4,7 +4,7 @@
 
 > Progressive beats and harmonies for the late hours.
 
-60 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/1JHfEmSUyPHhf48VoBCtg6)
+61 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Flow State](https://open.spotify.com/track/2j2O9265fjoeRkGLeh2IVJ) | [Knick](https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Flow State](https://open.spotify.com/album/2ijnhSRwK2vbJb8ReKSRJO) | 2:18 | 2022-02-01 |  |
 | [Frontline \- CARRTOONS Remix](https://open.spotify.com/track/3Qhv1YKYj84eJ6JSVO6E5n) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Frontline \(CARRTOONS Remix\)](https://open.spotify.com/album/20J2i6BDv9gNl2ytEXSHSL) | 3:06 | 2022-02-01 |  |
 | [Great Divide](https://open.spotify.com/track/2BOkkhuDpBueR8mbN9gR0m) | [KAZUMI KANEDA](https://open.spotify.com/artist/7mQtMaMaPMw2NTeYXfT53M), [Carsten Rubeling](https://open.spotify.com/artist/3QmUu8ApUCQAaGrc0Riv6Y) | [Great Divide](https://open.spotify.com/album/0m26Gs2snyHjso3EG9ICP3) | 3:58 | 2022-02-01 |  |
-| [Hang Glide](https://open.spotify.com/track/0XbdhHYvrfmUeMd6NaCfmN) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Hang Glide](https://open.spotify.com/album/5q1Z7lu9fC7uGg59klaQxS) | 3:54 | 2022-02-01 |  |
+| [Hang Glide](https://open.spotify.com/track/0XbdhHYvrfmUeMd6NaCfmN) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Hang Glide](https://open.spotify.com/album/5q1Z7lu9fC7uGg59klaQxS) | 3:54 | 2022-02-01 | 2023-01-27 |
+| [Hang Glide](https://open.spotify.com/track/5oQf54oJ9Syx0SM5utTsbl) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Hang Glide](https://open.spotify.com/album/1jF5hnhL0sfEyShSzgQc1r) | 3:54 | 2022-02-01 |  |
 | [Joyful Resistance Part I](https://open.spotify.com/track/7zN0QWpTE8SMnmowkg6x2h) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P) | [Midnight Snacks vol.1](https://open.spotify.com/album/3u0nEa0WmDG65OzPylGtwK) | 4:06 | 2022-02-01 |  |
 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 | 2022-02-01 |  |
 | [Le Gini](https://open.spotify.com/track/3W1hVS6uIsH7Dh3EgOQwIS) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS) | [Darr's Lane](https://open.spotify.com/album/2VvHRyKp8azid9MfmiDySB) | 6:09 | 2022-02-11 |  |

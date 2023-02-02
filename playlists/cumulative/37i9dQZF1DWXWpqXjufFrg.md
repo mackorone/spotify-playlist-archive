@@ -4,7 +4,7 @@
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-65 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/2I08E0mGJiLK17DbUc8wbl)
+65 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

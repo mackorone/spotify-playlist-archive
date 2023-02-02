@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Calm music to help you focus on your reading.",
   "name": "Reading Chill Out",
-  "published_playlist_ids": [
-    "3ZGPhyEiXz7uhWF13D0N9j"
-  ],
   "tracks": [
     {
       "album": {
@@ -679,8 +676,8 @@
       },
       "artists": [
         {
-          "name": "Zhou Thiemo",
-          "url": "https://open.spotify.com/artist/3melX7nvzHoJ9w8pCvpTRK"
+          "name": "Halcyon Wings",
+          "url": "https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ"
         }
       ],
       "date_added": "2022-11-11",
@@ -725,6 +722,24 @@
       "duration_ms": 176000,
       "name": "Equipoise",
       "url": "https://open.spotify.com/track/0Ij8KeRUVRRAOjJceqt6FF"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8"
+      },
+      "artists": [
+        {
+          "name": "Midnight Diver",
+          "url": "https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142518,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf"
     },
     {
       "album": {
@@ -905,6 +920,28 @@
       "duration_ms": 207168,
       "name": "Gentle Serenity",
       "url": "https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb"
+    },
+    {
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6K3Rrv6q0SWdYHeho5DqdM"
+      },
+      "artists": [
+        {
+          "name": "Czarina Frost",
+          "url": "https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q"
+        },
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92343,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2sagi6LnzbTNFRMuhrW683"
     },
     {
       "album": {

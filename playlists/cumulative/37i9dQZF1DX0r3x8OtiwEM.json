@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-08-06",
   "description": "Chill techno, melodic house and tech house.",
   "name": "Lowkey Tech",
-  "published_playlist_ids": [
-    "5L4JSSwDi8JK1xvphQcxXZ"
-  ],
   "tracks": [
     {
       "album": {
@@ -971,7 +968,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
@@ -1287,7 +1284,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 198676,
       "name": "Bring You Back - Edit",
       "url": "https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz"
@@ -1815,7 +1812,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 201720,
       "name": "Close Your Eyes - Spotify Singles",
       "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
@@ -2635,7 +2632,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 208977,
       "name": "Don't Give Up - Radio Edit",
       "url": "https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9"
@@ -2697,6 +2694,24 @@
       "duration_ms": 409000,
       "name": "Drago",
       "url": "https://open.spotify.com/track/2MuW3jSDlBC5pyp5lDA7Ov"
+    },
+    {
+      "album": {
+        "name": "Dreamcast",
+        "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325744,
+      "name": "Dreamcast",
+      "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
     },
     {
       "album": {
@@ -2834,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266676,
+      "name": "EASY PREY",
+      "url": "https://open.spotify.com/track/6WqO9gLZu212VEJcVFAYdo"
+    },
+    {
+      "album": {
         "name": "Eko Plate",
         "url": "https://open.spotify.com/album/10kBatupJFTUuhHDUT3VT5"
       },
@@ -2867,6 +2900,32 @@
       "duration_ms": 221953,
       "name": "el cielo no es de nadie - Edit",
       "url": "https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy"
+    },
+    {
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261290,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
     },
     {
       "album": {
@@ -2965,7 +3024,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 437207,
       "name": "Escape",
       "url": "https://open.spotify.com/track/6WQcjT6uoPf1zUQRYNo3fZ"
@@ -3169,6 +3228,24 @@
       "duration_ms": 219014,
       "name": "FAST LAND",
       "url": "https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz"
+    },
+    {
+      "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219014,
+      "name": "FAST LAND",
+      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
     },
     {
       "album": {
@@ -3726,6 +3803,28 @@
     },
     {
       "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329670,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5EGaUEnzZjoNiIlFzbyNK1"
+    },
+    {
+      "album": {
         "name": "Gravity (feat. Laura Korinth)",
         "url": "https://open.spotify.com/album/1UjgRZl7nyQMN6GDaDVlCp"
       },
@@ -3789,6 +3888,28 @@
       "duration_ms": 431426,
       "name": "Gravity Field",
       "url": "https://open.spotify.com/track/7pzWzk7IuGVG7L7ll5bR3g"
+    },
+    {
+      "album": {
+        "name": "Youth Is Wasted on the Young",
+        "url": "https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa"
+      },
+      "artists": [
+        {
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193623,
+      "name": "Grouplove",
+      "url": "https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq"
     },
     {
       "album": {
@@ -4251,7 +4372,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-14",
       "duration_ms": 437647,
       "name": "Home - Mind Against Remix",
       "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
@@ -4597,7 +4718,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
@@ -5817,6 +5938,24 @@
       "duration_ms": 276689,
       "name": "MORE LOVE",
       "url": "https://open.spotify.com/track/3KJGNYQuE80AZ63x1QWlE7"
+    },
+    {
+      "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276689,
+      "name": "MORE LOVE",
+      "url": "https://open.spotify.com/track/64rYiYzQNM4uRx6m03Uv9J"
     },
     {
       "album": {
@@ -7170,6 +7309,28 @@
     },
     {
       "album": {
+        "name": "Petroleum (Fabio Vanore Remix)",
+        "url": "https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq"
+      },
+      "artists": [
+        {
+          "name": "Kris Davis",
+          "url": "https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY"
+        },
+        {
+          "name": "Fabio Vanore",
+          "url": "https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544957,
+      "name": "Petroleum - Fabio Vanore Remix",
+      "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
+    },
+    {
+      "album": {
         "name": "Phaeton / Silhouettes",
         "url": "https://open.spotify.com/album/4jiIwobxyTYe4oGjheDxQj"
       },
@@ -7247,6 +7408,28 @@
       "duration_ms": 407000,
       "name": "Plastic (Scheinizzl Remix)",
       "url": "https://open.spotify.com/track/5ZIcOUUEP2IaQG2ayxjLkH"
+    },
+    {
+      "album": {
+        "name": "Plastic (Scheinizzl Remix)",
+        "url": "https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Scheinizzl",
+          "url": "https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407000,
+      "name": "Plastic (Scheinizzl Remix)",
+      "url": "https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP"
     },
     {
       "album": {
@@ -7333,7 +7516,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 498419,
       "name": "Postquam",
       "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
@@ -7421,7 +7604,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-06",
       "duration_ms": 364810,
       "name": "Pulses",
       "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
@@ -7439,7 +7622,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 237600,
       "name": "Pulsing",
       "url": "https://open.spotify.com/track/5uy5YwhwkiuihoJQdEiuws"
@@ -7711,7 +7894,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 298551,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/5oo1HNNzaCiEn8IF57Ysbe"
@@ -7889,6 +8072,24 @@
       "duration_ms": 442827,
       "name": "Resolve",
       "url": "https://open.spotify.com/track/0GOxBVl062KmJt4Spnvjuu"
+    },
+    {
+      "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp"
+      },
+      "artists": [
+        {
+          "name": "Peer Kusiv",
+          "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433170,
+      "name": "Restore",
+      "url": "https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu"
     },
     {
       "album": {
@@ -8406,6 +8607,32 @@
     },
     {
       "album": {
+        "name": "Simulacrum (Betical Remix)",
+        "url": "https://open.spotify.com/album/1ba85Roxjumbza5Ru1sioe"
+      },
+      "artists": [
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        },
+        {
+          "name": "Wennink",
+          "url": "https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk"
+        },
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307563,
+      "name": "Simulacrum - Betical Remix",
+      "url": "https://open.spotify.com/track/46f5Kg2BjymfLk2uiDA937"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/3rWqxcWVHk2wmB26tfXOWc"
       },
@@ -8649,7 +8876,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 206106,
       "name": "Song To The Siren",
       "url": "https://open.spotify.com/track/1vCGRYkBhITUKcdy1iM44h"
@@ -9051,7 +9278,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 229512,
       "name": "Tantrum",
       "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
@@ -9069,7 +9296,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 238537,
       "name": "Tarcu",
       "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
@@ -9549,6 +9776,28 @@
       "duration_ms": 494109,
       "name": "The Only Way Out Is Through",
       "url": "https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T"
+    },
+    {
+      "album": {
+        "name": "This Is SH\u00c8N",
+        "url": "https://open.spotify.com/album/0BuCz58hOxBFXmfocz8eWU"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208124,
+      "name": "The Otherside (feat. Robinson)",
+      "url": "https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3"
     },
     {
       "album": {
@@ -10123,7 +10372,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 207360,
       "name": "Twisted Reality - Edit",
       "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
@@ -10291,6 +10540,24 @@
       "duration_ms": 221479,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/5UpFOpt2FnYpgKfmlw2NVf"
+    },
+    {
+      "album": {
+        "name": "Unfold Voices EP",
+        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391577,
+      "name": "Unfold Me",
+      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
     },
     {
       "album": {

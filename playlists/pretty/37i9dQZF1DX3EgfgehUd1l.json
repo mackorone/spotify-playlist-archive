@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 141395,
+  "num_followers": 144617,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMDY5ZWFkZWNlZDQ4ZDg5ZjhmNTMzYWI5ZmRhNDkwYzlh",
+  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMGYzN2RjMTgyZGVhMjI3MzVjNjgzYmFhM2MxNjIxZGZj",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Greatest Hits / Tequila",
         "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
       },
@@ -135,58 +119,6 @@
       "duration_ms": 135240,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
-        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Dick Stabile And His Orchestra",
-          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Papa Loves Mambo",
-      "url": "https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -207,18 +139,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -235,6 +167,74 @@
       "duration_ms": 134560,
       "name": "Love Letters In The Sand - Single Version",
       "url": "https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Papa Loves Mambo",
+      "url": "https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
+        "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -271,6 +271,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 143826,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "The Flying Platters Around The World",
         "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
       },
@@ -287,18 +303,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
         }
       ],
-      "duration_ms": 162960,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
+      "duration_ms": 158306,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -323,38 +339,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 143826,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
       },
@@ -375,22 +359,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The \"Chirping\" Crickets",
-        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly & The Crickets",
-          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
-        }
-      ],
-      "duration_ms": 122600,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -407,54 +375,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Platters",
-        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "My Prayer",
-      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "Just Walkin' in the Rain",
-      "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Hey, Brother Pour The Wine",
         "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
@@ -464,9 +384,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 138080,
-      "name": "Memories Are Made Of This",
-      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+      "duration_ms": 162960,
+      "name": "Sway (Quien Sera)",
+      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -487,70 +407,34 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Born Too Late",
-        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
       },
       "artists": [
         {
-          "name": "The Poni-Tails",
-          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 139013,
-      "name": "Born Too Late",
-      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
+      "duration_ms": 167800,
+      "name": "My Prayer",
+      "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
     },
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
       "artists": [
         {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
         }
       ],
-      "duration_ms": 133746,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Greatest Hits: Walking To New Orleans",
-        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 143440,
-      "name": "Blueberry Hill - Remastered 2002",
-      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Four Aces' Greatest Hits",
-        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
-      },
-      "artists": [
-        {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        },
-        {
-          "name": "Al Alberts",
-          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Love Is A Many-Splendored Thing",
-      "url": "https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5"
+      "duration_ms": 157240,
+      "name": "Just Walkin' in the Rain",
+      "url": "https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -571,6 +455,38 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "The \"Chirping\" Crickets",
+        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly & The Crickets",
+          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+        }
+      ],
+      "duration_ms": 122600,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Born Too Late",
+        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
+      },
+      "artists": [
+        {
+          "name": "The Poni-Tails",
+          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
+        }
+      ],
+      "duration_ms": 139013,
+      "name": "Born Too Late",
+      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
@@ -583,6 +499,54 @@
       "duration_ms": 193666,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Memories Are Made Of This",
+      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Greatest Hits: Walking To New Orleans",
+        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 143440,
+      "name": "Blueberry Hill - Remastered 2002",
+      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -607,6 +571,42 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Four Aces' Greatest Hits",
+        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
+      },
+      "artists": [
+        {
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        },
+        {
+          "name": "Al Alberts",
+          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Love Is A Many-Splendored Thing",
+      "url": "https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 161200,
       "name": "April Love",
       "url": "https://open.spotify.com/track/5ax1MN2MGW0ZJXquCkpuLM"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -659,66 +643,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 119986,
-      "name": "I'm In Love Again",
-      "url": "https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Elvis Presley",
-        "url": "https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Blue Moon - Take 9/M",
-      "url": "https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Pat Boone's Greatest Hits (Reissue)",
-        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Sugar Moon - Single Version",
-      "url": "https://open.spotify.com/track/6UM5WX0bgEkcv1CzKWyacv"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX"
+      "duration_ms": 164400,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -739,6 +675,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "Dance To The Bop",
         "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
@@ -751,6 +703,54 @@
       "duration_ms": 156306,
       "name": "Be-Bop-A-Lula",
       "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Elvis Presley",
+        "url": "https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Blue Moon - Take 9/M",
+      "url": "https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 119986,
+      "name": "I'm In Love Again",
+      "url": "https://open.spotify.com/track/5Gw6d1Mt428wFoJbSVy94i"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Fabulous Favorites",
+        "url": "https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv"
+      },
+      "artists": [
+        {
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -779,38 +779,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "('Til) I Kissed You",
-      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Fabulous Favorites",
-        "url": "https://open.spotify.com/album/4wiQVM9GmQ6scMImtHxqmv"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3cuOpppX5ZNOQ843dPeFB4"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
@@ -827,8 +795,40 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Banana Boat Song",
-        "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
+        "name": "Pat Boone's Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Sugar Moon - Single Version",
+      "url": "https://open.spotify.com/track/6UM5WX0bgEkcv1CzKWyacv"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "('Til) I Kissed You",
+      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Essential Harry Belafonte",
+        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 184653,
-      "name": "Banana Boat Song",
-      "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
+      "duration_ms": 201453,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -855,6 +855,26 @@
       "duration_ms": 168293,
       "name": "A Certain Smile - From the 20th Century Fox Film \"A Certain Smile\"",
       "url": "https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
+        "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji"
+        }
+      ],
+      "duration_ms": 185051,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -891,90 +911,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Sinatra 80th: All The Best",
-        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Love And Marriage",
-      "url": "https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
-        "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Grace Kelly",
-          "url": "https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji"
-        }
-      ],
-      "duration_ms": 185051,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Essential Harry Belafonte",
-        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "A Sweet Old-Fashioned Girl",
-        "url": "https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh"
-      },
-      "artists": [
-        {
-          "name": "Teresa Brewer",
-          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
-        }
-      ],
-      "duration_ms": 156400,
-      "name": "A Tear Fell",
-      "url": "https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Kalin Twins",
-        "url": "https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE"
-      },
-      "artists": [
-        {
-          "name": "Kalin Twins",
-          "url": "https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "When",
-      "url": "https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Presenting Don Cornell",
         "url": "https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja"
       },
@@ -987,6 +923,22 @@
       "duration_ms": 169200,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Love And Marriage",
+      "url": "https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1007,18 +959,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
+        "name": "Banana Boat Song",
+        "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 124640,
-      "name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version",
-      "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
+      "duration_ms": 184653,
+      "name": "Banana Boat Song",
+      "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1047,22 +999,34 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Best of Don Cherry",
-        "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
       },
       "artists": [
         {
-          "name": "Don Cherry",
-          "url": "https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID"
-        },
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
         }
       ],
-      "duration_ms": 155066,
-      "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
-      "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
+      "duration_ms": 124640,
+      "name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version",
+      "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Kalin Twins",
+        "url": "https://open.spotify.com/album/5WkD0eKAUCTokdWVobgyWE"
+      },
+      "artists": [
+        {
+          "name": "Kalin Twins",
+          "url": "https://open.spotify.com/artist/6LXtFndRkOihPIa2dWY3FH"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "When",
+      "url": "https://open.spotify.com/track/3HZJ9BLBpDya4p71VfXSWp"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1083,66 +1047,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Frankie Laine's Greatest Hits",
-        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
+        "name": "The Best of Don Cherry",
+        "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
       },
       "artists": [
         {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
-        }
-      ],
-      "duration_ms": 130893,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Very Best Of Norman Wisdom",
-        "url": "https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz"
-      },
-      "artists": [
+          "name": "Don Cherry",
+          "url": "https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID"
+        },
         {
-          "name": "Norman Wisdom",
-          "url": "https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI"
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
         }
       ],
-      "duration_ms": 216400,
-      "name": "Don't Laugh at Me ('Cause I'm a Fool)",
-      "url": "https://open.spotify.com/track/1TeU7rqSW9Qc2iWNioCAXA"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Presenting Eddie Fisher",
-        "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Cindy Oh Cindy",
-      "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
+      "duration_ms": 155066,
+      "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
+      "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1163,18 +1083,50 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Kitty Kallen's Coloring Book",
-        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
+        "name": "Frankie Laine's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
       "artists": [
         {
-          "name": "Kitty Kallen",
-          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
         }
       ],
-      "duration_ms": 179146,
-      "name": "Little Things Mean a Lot",
-      "url": "https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd"
+      "duration_ms": 130893,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Very Best Of Norman Wisdom",
+        "url": "https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz"
+      },
+      "artists": [
+        {
+          "name": "Norman Wisdom",
+          "url": "https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Don't Laugh at Me ('Cause I'm a Fool)",
+      "url": "https://open.spotify.com/track/1TeU7rqSW9Qc2iWNioCAXA"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1195,34 +1147,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Mr. Broadway",
-        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
+        "name": "Presenting Eddie Fisher",
+        "url": "https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
         }
       ],
-      "duration_ms": 187586,
-      "name": "Stranger in Paradise",
-      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Command Performance",
-        "url": "https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk"
-      },
-      "artists": [
-        {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "High Noon (Do Not Forsake Me)",
-      "url": "https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I"
+      "duration_ms": 180866,
+      "name": "Cindy Oh Cindy",
+      "url": "https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1243,6 +1179,38 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 140306,
+      "name": "Walkin' My Baby Back Home",
+      "url": "https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Kitty Kallen's Coloring Book",
+        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
+      },
+      "artists": [
+        {
+          "name": "Kitty Kallen",
+          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Little Things Mean a Lot",
+      "url": "https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "Ricky Nelson (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
       },
@@ -1259,50 +1227,34 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Greatest Hits - Finest Performances",
-        "url": "https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7"
+        "name": "Command Performance",
+        "url": "https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
         }
       ],
-      "duration_ms": 150133,
-      "name": "It's Only Make Believe - Re-recorded",
-      "url": "https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8"
+      "duration_ms": 159773,
+      "name": "High Noon (Do Not Forsake Me)",
+      "url": "https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I"
     },
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+        "name": "Mr. Broadway",
+        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 179373,
-      "name": "The Black Hills of Dakota",
-      "url": "https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Oldies 101",
-        "url": "https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih"
-      },
-      "artists": [
-        {
-          "name": "Debbie Reynolds",
-          "url": "https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Tammy",
-      "url": "https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR"
+      "duration_ms": 187586,
+      "name": "Stranger in Paradise",
+      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1323,18 +1275,66 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+        "name": "Oldies 101",
+        "url": "https://open.spotify.com/album/3wyiI6cwQIcLIpn7gKFXih"
       },
       "artists": [
         {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+          "name": "Debbie Reynolds",
+          "url": "https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn"
         }
       ],
-      "duration_ms": 147706,
-      "name": "I'm Sorry I Made You Cry",
-      "url": "https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr"
+      "duration_ms": 186506,
+      "name": "Tammy",
+      "url": "https://open.spotify.com/track/3TwVatcukBQLQj3LJZtHaR"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Greatest Hits - Finest Performances",
+        "url": "https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "It's Only Make Believe - Re-recorded",
+      "url": "https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Best of Charlie Gracie 1956-1958",
+        "url": "https://open.spotify.com/album/66wBL0yHGVfr6NFFrzMFPY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Gracie",
+          "url": "https://open.spotify.com/artist/7mC80cCjo7JkyaD9ZssKzN"
+        }
+      ],
+      "duration_ms": 137813,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/651vnKG8ShxwfKhpJULfhW"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Single Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr"
+      },
+      "artists": [
+        {
+          "name": "The Four Preps",
+          "url": "https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK"
     }
   ],
   "unique_name": "Easy 50s",

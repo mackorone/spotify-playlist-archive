@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-72 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
+72 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 情人節有麗英@小薯茄為你揀選情歌單《擁抱單身的你》，單拖過節有我哋陪你呀！
 
-28 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/409HG9KCfm92kp9zwDqTlA)
+28 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Don't Text Him](https://open.spotify.com/track/3pSWo5ebAl4xiXXqym6rEo) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him](https://open.spotify.com/album/1E5h69F88qemJq7si8rLrW) | 4:34 | 2022-02-07 |  |
 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 | 2022-02-07 |  |
 | [On my way](https://open.spotify.com/track/79letQC8rVM851Cz2ORR0z) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [On my way](https://open.spotify.com/album/2LBrOLQkQo3sisQP3v11ZT) | 5:15 | 2022-02-07 |  |
-| [Pretender](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 5:26 | 2022-02-07 |  |
+| [Pretender](https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 5:26 | 2022-02-07 |  |
 | [Sokkenai](https://open.spotify.com/track/1rYg6v89UhWyPMbr8uf4fl) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/59jm6kUIwtwx5tk6jWOUMv) | 6:32 | 2022-02-07 |  |
 | [そっけない](https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF) | 6:29 | 2022-02-07 | 2022-07-29 |
 | [たぶん](https://open.spotify.com/track/398dL22bDbKbAmiOnPaq7o) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:16 | 2022-02-07 |  |

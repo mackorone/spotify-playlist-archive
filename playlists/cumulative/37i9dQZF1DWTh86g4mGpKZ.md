@@ -4,7 +4,7 @@
 
 > The internationally acclaimed singer, songwriter and producer <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a> drops a mix that pays homage to the different variants of dance music while pushing the boundaries of the genre.
 
-25 songs - 1 hr 0 min - not published yet
+25 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

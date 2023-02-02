@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Pablo Milan\u00e9s.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
   "name": "Cantautores",
-  "published_playlist_ids": [
-    "1rcqnJTuxkgmJDpLbQBBLY"
-  ],
   "tracks": [
     {
       "album": {
@@ -113,7 +110,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 205247,
       "name": "A Virxe Do Portovello",
       "url": "https://open.spotify.com/track/0yXXN5T9QYHuFHhgdlNGzM"
@@ -389,7 +386,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 139530,
       "name": "Amor del Bo",
       "url": "https://open.spotify.com/track/4WeMQWDFxBME5BIyURDhbA"
@@ -863,7 +860,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 294095,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
@@ -975,7 +972,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 250302,
       "name": "Conviene Saber (feat. Rozal\u00e9n)",
       "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
@@ -1159,7 +1156,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 214881,
       "name": "Deseos de cosas imposibles",
       "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
@@ -1195,7 +1192,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
@@ -1213,7 +1210,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 210400,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
@@ -1973,7 +1970,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 376386,
       "name": "La Madre",
       "url": "https://open.spotify.com/track/4eUhX5KmmQp537lxDJpmQK"
@@ -2106,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "lo que siento",
+        "url": "https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191647,
+      "name": "lo que siento",
+      "url": "https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu"
+    },
+    {
+      "album": {
         "name": "B\u00e1sico",
         "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
@@ -2175,7 +2190,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 269133,
       "name": "Manifiesto",
       "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
@@ -2341,7 +2356,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 159066,
       "name": "Mi Querida Espa\u00f1a",
       "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
@@ -2609,7 +2624,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 263866,
       "name": "No se dice suerte",
       "url": "https://open.spotify.com/track/5mscPr5RK0ivJGDfIjFnvL"
@@ -2689,10 +2704,28 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 232125,
       "name": "Nunha Estrela",
       "url": "https://open.spotify.com/track/3cssoNGnWQ3ckzsmZhL4GY"
+    },
+    {
+      "album": {
+        "name": "O Algo",
+        "url": "https://open.spotify.com/album/3QQh3zFEo84rNVETdwCuVM"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "O Algo",
+      "url": "https://open.spotify.com/track/6HOFbqEPUUPTJkaYKPgeGM"
     },
     {
       "album": {
@@ -3081,7 +3114,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 181106,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/6OYqF9iZag2MJMOg4Kvpui"
@@ -3197,6 +3230,28 @@
       "duration_ms": 237760,
       "name": "Risk",
       "url": "https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg"
+    },
+    {
+      "album": {
+        "name": "Moriana",
+        "url": "https://open.spotify.com/album/1f7IwlNepJ5uCGzkeMKFnJ"
+      },
+      "artists": [
+        {
+          "name": "Julio Bustamante",
+          "url": "https://open.spotify.com/artist/17uCNrAYiTCTSsXfVEJANA"
+        },
+        {
+          "name": "Anna Franco",
+          "url": "https://open.spotify.com/artist/3MwQeBBFChB0mcwDsvlsaU"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 215109,
+      "name": "Ropa de amor",
+      "url": "https://open.spotify.com/track/1zB9jg73XJpkSLoiJEkyDW"
     },
     {
       "album": {
@@ -3537,7 +3592,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 251666,
       "name": "Solo Pienso en Ti",
       "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
@@ -3643,7 +3698,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 159653,
       "name": "Tal Vez Te Acuerdes de M\u00ed (feat. Nina) - Sesiones Moraima",
       "url": "https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8"
@@ -3951,7 +4006,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 186183,
       "name": "Una cueva en el invierno",
       "url": "https://open.spotify.com/track/4ttTVZY3XxVFDdKtHsQXCS"

@@ -4,7 +4,7 @@
 
 > All the adrenaline you need is right here\.  Let's GO!
 
-157 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/4EJb1P0EN9WsBvHdvBNpln)
+157 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

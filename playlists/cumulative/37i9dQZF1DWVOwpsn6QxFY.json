@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-17",
   "description": "Hand-picked indie to nourish the ears.",
   "name": "Garden Indie",
-  "published_playlist_ids": [
-    "0fsDW9Wxgoj8VFUemuBkg3"
-  ],
   "tracks": [
     {
       "album": {
@@ -171,6 +168,28 @@
     {
       "album": {
         "name": "Alive",
+        "url": "https://open.spotify.com/album/2uzzPtueFmMKcwGoLeZVmE"
+      },
+      "artists": [
+        {
+          "name": "James Beau Barclay",
+          "url": "https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q"
+        },
+        {
+          "name": "Blu Wiley",
+          "url": "https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 217875,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6Cwfn3br1dDmZIvpi1CJ89"
+    },
+    {
+      "album": {
+        "name": "Alive",
         "url": "https://open.spotify.com/album/0X0GLbObJxR2teWozrUTlb"
       },
       "artists": [
@@ -189,6 +208,28 @@
       "duration_ms": 217875,
       "name": "Alive",
       "url": "https://open.spotify.com/track/6lDeFVC7tCXEzdOcjnqTQj"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5eTNCoC0nFPoBnF4LmubUJ"
+      },
+      "artists": [
+        {
+          "name": "James Beau Barclay",
+          "url": "https://open.spotify.com/artist/7B29yidpQNpUy6CgpRz29Q"
+        },
+        {
+          "name": "Blu Wiley",
+          "url": "https://open.spotify.com/artist/2pVkAHRJrMpEjKXIqXUlgy"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217875,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7JYzvdXx2apa4twRQfVOah"
     },
     {
       "album": {
@@ -365,7 +406,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 226848,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/6V8IY1khSjXlgvG6mbIyXQ"
@@ -909,7 +950,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238053,
       "name": "Corduroy",
       "url": "https://open.spotify.com/track/27fEdxOjoSUElncwegKiTb"
@@ -1078,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 288026,
+      "name": "Every Bottle (Is My Boyfriend)",
+      "url": "https://open.spotify.com/track/2hK1rgjpeZT6q4rUdVAP8s"
+    },
+    {
+      "album": {
         "name": "Every Bottle (Is My Boyfriend)",
         "url": "https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP"
       },
@@ -1161,7 +1220,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-05",
       "duration_ms": 264980,
       "name": "Everything is Different (To Me)",
       "url": "https://open.spotify.com/track/6x3sun3UqxP4g0Juw7ZXx4"
@@ -1255,7 +1314,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 331693,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
@@ -1759,7 +1818,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "I Found Out When the Day Had Come",
       "url": "https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4"
@@ -1867,7 +1926,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 217858,
       "name": "If I Don't Hear From You Tonight",
       "url": "https://open.spotify.com/track/0vPkKjAbhVGjUDKcvb316M"
@@ -2573,7 +2632,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 271533,
       "name": "Nightjar And The Nightingale",
       "url": "https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli"
@@ -3365,10 +3424,28 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 264908,
       "name": "Someday - triple j Like A Version",
       "url": "https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK"
+    },
+    {
+      "album": {
+        "name": "Someday (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/4frk1WIr4ydAYiVjloMn6O"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264908,
+      "name": "Someday - triple j Like A Version",
+      "url": "https://open.spotify.com/track/7yHIhm47w7yPXbWrCU3NId"
     },
     {
       "album": {
@@ -3401,7 +3478,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 198160,
       "name": "Something Holy",
       "url": "https://open.spotify.com/track/2YAp3Kb8Xb6iVMk8Zp8jAH"
@@ -3491,7 +3568,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 202003,
       "name": "Southwark",
       "url": "https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR"
@@ -3801,7 +3878,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 214306,
       "name": "The Flow",
       "url": "https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW"

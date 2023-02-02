@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-02",
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
   "name": "dengo",
-  "published_playlist_ids": [
-    "1UgxtLr4GKJDtfVaD2Kqru"
-  ],
   "tracks": [
     {
       "album": {
@@ -31,6 +28,24 @@
     {
       "album": {
         "name": "A Muse",
+        "url": "https://open.spotify.com/album/76lGBTxJ0O1ChELVJ3BPxR"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 222089,
+      "name": "A Muse",
+      "url": "https://open.spotify.com/track/6Bke7jOC2UJH3wbWIoBaHU"
+    },
+    {
+      "album": {
+        "name": "A Muse",
         "url": "https://open.spotify.com/album/3hVw6V8hze4yXUGfkO1gE2"
       },
       "artists": [
@@ -41,10 +56,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 222089,
       "name": "A Muse",
       "url": "https://open.spotify.com/track/7AOIpGjtubeC0uSiMEhOyR"
+    },
+    {
+      "album": {
+        "name": "A Muse In Her Feelings",
+        "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222089,
+      "name": "A Muse",
+      "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
     },
     {
       "album": {
@@ -147,10 +180,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 224262,
       "name": "All That Matters - Spotify Singles",
       "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0vwcoBJSy5vfb9MAt4hibx"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "All That Matters - Spotify Singles",
+      "url": "https://open.spotify.com/track/7s0pdQmbXq6GtMHpkCTLLw"
     },
     {
       "album": {
@@ -329,7 +380,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 287653,
       "name": "Bag Lady",
       "url": "https://open.spotify.com/track/2oW1N8R52n0f3Iwe0HtMFC"
@@ -467,7 +518,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 221960,
       "name": "Bone + Tissue",
       "url": "https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE"
@@ -503,10 +554,46 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 196641,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
+    },
+    {
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY"
+    },
+    {
+      "album": {
+        "name": "Challenge",
+        "url": "https://open.spotify.com/album/2wDwoSW9Hbjwv9gwtFJpT9"
+      },
+      "artists": [
+        {
+          "name": "AMARNI",
+          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130121,
+      "name": "Challenge",
+      "url": "https://open.spotify.com/track/5YGIelVjaUHgDEWqFzz1Vd"
     },
     {
       "album": {
@@ -710,6 +797,46 @@
     },
     {
       "album": {
+        "name": "Devil In A Dress (RHEAMIX)",
+        "url": "https://open.spotify.com/album/5nYbtOgKv3csvwdXvE8dad"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117191,
+      "name": "Devil In A Dress - RHEAMIX",
+      "url": "https://open.spotify.com/track/3NUs3ZwYy4GFGNE6wvEG5P"
+    },
+    {
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        },
+        {
+          "name": "Ebban Dorsey",
+          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302746,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM"
+    },
+    {
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
@@ -743,7 +870,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 228292,
       "name": "DNA - Live",
       "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
@@ -913,6 +1040,24 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+    },
+    {
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162188,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     },
     {
       "album": {
@@ -1198,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278480,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID"
+    },
+    {
+      "album": {
         "name": "Good Morning Gorgeous",
         "url": "https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc"
       },
@@ -1386,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173906,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG"
+    },
+    {
+      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -1419,7 +1600,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 191625,
       "name": "Ifwu",
       "url": "https://open.spotify.com/track/6ODk81vpF0O4JWD2odIjC1"
@@ -1527,7 +1708,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 247360,
       "name": "Itis",
       "url": "https://open.spotify.com/track/5IZljTHEboD11DdPe9Ddpo"
@@ -1657,7 +1838,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 250404,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/2Z6BAgNrGvouF0KZet8hl2"
@@ -1852,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
+    },
+    {
+      "album": {
         "name": "Love and Be Loved",
         "url": "https://open.spotify.com/album/1JdumfPmZjNT9Efr35Wc7a"
       },
@@ -1903,7 +2102,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 195401,
       "name": "Love Quotes",
       "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
@@ -2483,10 +2682,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 153226,
       "name": "Pain",
       "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+    },
+    {
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
       "album": {
@@ -2607,6 +2824,24 @@
       "duration_ms": 251320,
       "name": "Power",
       "url": "https://open.spotify.com/track/6jcyTZserlQyyLrlTn9xSN"
+    },
+    {
+      "album": {
+        "name": "Pray It Away",
+        "url": "https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156073,
+      "name": "Pray It Away",
+      "url": "https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2"
     },
     {
       "album": {
@@ -2900,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
+    },
+    {
+      "album": {
         "name": "silhouette",
         "url": "https://open.spotify.com/album/73rn1ZqAlqgCW9z8hGzHSH"
       },
@@ -3049,7 +3302,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 291133,
       "name": "sobeautiful",
       "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
@@ -3239,7 +3492,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 167967,
       "name": "That's On You - Japanese Remix",
       "url": "https://open.spotify.com/track/56Vy5lJUoHTI90MMnyI2CM"
@@ -3443,6 +3696,24 @@
       "duration_ms": 189920,
       "name": "UNPREDICTABLE",
       "url": "https://open.spotify.com/track/37ahk4lY6MT9jibtVmvYAH"
+    },
+    {
+      "album": {
+        "name": "Very Few Friends",
+        "url": "https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Very Few Friends",
+      "url": "https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi"
     },
     {
       "album": {
@@ -3651,10 +3922,54 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV"
+    },
+    {
+      "album": {
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219729,
+      "name": "What's Up (feat. Jagged Edge)",
+      "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
+    },
+    {
+      "album": {
+        "name": "What's Up (feat. Jagged Edge)",
+        "url": "https://open.spotify.com/album/78lpvl9BAUf8x5yre7b4vF"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 219729,
+      "name": "What's Up (feat. Jagged Edge)",
+      "url": "https://open.spotify.com/track/3gPUFEEuGfZ4jTckTJrgUE"
     },
     {
       "album": {

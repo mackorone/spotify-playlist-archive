@@ -4,7 +4,7 @@
 
 > Because we love our Hip Hop..\. Dance away!
 
-23 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/2Y0ACuPxLciXGBPGzwOeM9)
+23 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

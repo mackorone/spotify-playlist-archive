@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "Para cantar muy bajito... o a voz en grito.",
   "name": "Las 100 mejores baladas",
-  "published_playlist_ids": [
-    "6aZpup5jgvFQkPSXm4XElN"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,24 @@
       "duration_ms": 394133,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
+    },
+    {
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
     },
     {
       "album": {
@@ -91,7 +106,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 229198,
       "name": "A Un Mil\u00edmetro De Ti",
       "url": "https://open.spotify.com/track/5v9oKnuJ4e7XDRybgktKVq"
@@ -206,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+    },
+    {
+      "album": {
         "name": "Algo de M\u00ed",
         "url": "https://open.spotify.com/album/6rdG7eL7aSsBwz58uROe9L"
       },
@@ -235,7 +268,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-24",
       "duration_ms": 266040,
       "name": "Algo M\u00e1s",
       "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
@@ -271,7 +304,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 269560,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
@@ -541,7 +574,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 236080,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
@@ -581,6 +614,42 @@
       "duration_ms": 182360,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
+    },
+    {
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300106,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272133,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
     },
     {
       "album": {
@@ -733,7 +802,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 308560,
       "name": "Cuando nadie me ve",
       "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
@@ -1095,7 +1164,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-11",
       "duration_ms": 273160,
       "name": "Ese Tipo Soy Yo (Esse Cara Sou Eu)",
       "url": "https://open.spotify.com/track/1WoWBzHoXNLCWgUuYV2Ofb"
@@ -1131,10 +1200,28 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 232280,
       "name": "Estar contigo",
       "url": "https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ"
+    },
+    {
+      "album": {
+        "name": "The Essential Bangles",
+        "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238026,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
     },
     {
       "album": {
@@ -1203,7 +1290,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 209221,
       "name": "Hablemos de amor",
       "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
@@ -1221,7 +1308,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 261640,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
@@ -1574,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+    },
+    {
+      "album": {
         "name": "A Collection of Roxette Hits! Their 20 Greatest Songs!",
         "url": "https://open.spotify.com/album/1nQK4dpultSS3YeHfYrgEW"
       },
@@ -1643,6 +1748,24 @@
       "duration_ms": 239240,
       "name": "Jueves",
       "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
+    },
+    {
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "album": {
@@ -1841,7 +1964,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 206173,
       "name": "Me Enamor\u00e9 De Ti",
       "url": "https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6"
@@ -1899,10 +2022,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 280000,
       "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
       "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "album": {
+        "name": "Days Of Future Passed (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269106,
+      "name": "Nights In White Satin - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
     },
     {
       "album": {
@@ -1917,7 +2058,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 247680,
       "name": "No me importa nada",
       "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
@@ -2032,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
@@ -2050,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Dance With Somebody (The Movie: Whitney New, Classic and Reimagined)",
+        "url": "https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284903,
+      "name": "One Moment in Time",
+      "url": "https://open.spotify.com/track/5vOGEMTcx7ns5CtQ5y41lo"
+    },
+    {
+      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
       },
@@ -2061,10 +2238,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 285000,
       "name": "One Moment in Time",
       "url": "https://open.spotify.com/track/5IDUGTWbntYwO9SNmhuSWf"
+    },
+    {
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263400,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
     },
     {
       "album": {
@@ -2141,6 +2336,24 @@
       "duration_ms": 241733,
       "name": "Por volverte a ver",
       "url": "https://open.spotify.com/track/0g36Ufk2Mp8xI2Mf4YU06r"
+    },
+    {
+      "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
     },
     {
       "album": {
@@ -2343,7 +2556,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-14",
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
@@ -2451,7 +2664,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 182293,
       "name": "Something - Remastered 2009",
       "url": "https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj"
@@ -2619,7 +2832,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 194986,
       "name": "Te echo de menos",
       "url": "https://open.spotify.com/track/1YgPkZ6GOwajDveEsuy3uH"
@@ -3059,7 +3272,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 226160,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/4lWnNqKJmhxrgzidQmXB94"
@@ -3135,6 +3348,24 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "album": {
+        "name": "Camilo",
+        "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-85 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/64ceLtYUlFs3VLXFCEHFFn)
+85 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,12 +27,12 @@
 | [Down For You](https://open.spotify.com/track/2zXPhvSMFyvfo1L0aGxFGw) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 3:06 | 2021-10-14 |  |
 | [Down For You](https://open.spotify.com/track/5NcJGNuS275gu8yzagz3L1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 3:06 | 2021-10-14 | 2022-07-29 |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2021-10-14 |  |
-| [Erase](https://open.spotify.com/track/70IiwE3KGMGoB3zqsgwWPY) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 4:19 | 2021-10-14 |  |
+| [Erase](https://open.spotify.com/track/70IiwE3KGMGoB3zqsgwWPY) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 4:21 | 2021-10-14 |  |
 | [FLOAT](https://open.spotify.com/track/06AzqBM9R9aw3BsyEjDC5F) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/0jxLIJPnHdAKemY2UNXujJ) | 3:03 | 2021-10-14 |  |
 | [FLOAT](https://open.spotify.com/track/3i7OLkVcsYvJI8fLPCFP22) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [FLOAT](https://open.spotify.com/album/605rL7SKIddSSuG6klhA6V) | 3:03 | 2021-10-14 | 2022-10-14 |
 | [Good For You](https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [INTERVIEW](https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH) | 3:15 | 2021-10-14 |  |
 | [Good\-bye in once upon a time](https://open.spotify.com/track/5PJ4qGA50DzE6m3gpjMpbP) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Love in Memory OST Part.2](https://open.spotify.com/album/4lIIY9VAXXIVexOy0dcaZc) | 4:10 | 2021-10-14 |  |
-| [Heaven’s Door](https://open.spotify.com/track/2g5CduZnfP52qU4BGvT1Tg) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 3:24 | 2021-10-14 |  |
+| [Heaven’s Door](https://open.spotify.com/track/2g5CduZnfP52qU4BGvT1Tg) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 3:25 | 2021-10-14 |  |
 | [Hold Me](https://open.spotify.com/track/6N0uDUUQRQd7lIIFU2aaEQ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Hold Me](https://open.spotify.com/album/5VWPfP9Ibc44LHQxAqoqtt) | 3:47 | 2021-10-14 |  |
 | [Honestly](https://open.spotify.com/track/4LsX7Mz7zhNOoydJfhedL4) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Honestly](https://open.spotify.com/album/5fhNla7mPuyaDXPwZUhM3Q) | 3:26 | 2021-10-14 |  |
 | [Honestly](https://open.spotify.com/track/7uW2sLxLjNgQJHa71LGVGr) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Honestly](https://open.spotify.com/album/3VJ491AjnQygF0lcuiRD5D) | 3:26 | 2021-10-14 | 2022-07-29 |
@@ -59,7 +59,7 @@
 | [Love Die Young](https://open.spotify.com/track/4DERyalxTlWCdlHkVi0TfO) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Before We Begin](https://open.spotify.com/album/2spNE5MhZn92sIJvBszJ4B) | 3:23 | 2021-10-14 |  |
 | [Love Die Young \- Korean Version](https://open.spotify.com/track/51e1jeSBOaHJYQJKpgGMeu) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 3:24 | 2021-10-14 |  |
 | [Love Die Young \- Korean Version](https://open.spotify.com/track/5RlhS9GUSa2h1bbG3olENP) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 3:24 | 2021-10-14 | 2022-07-29 |
-| [LOVE SONG](https://open.spotify.com/track/3YEBBpdqaFmIhJpVHutUS3) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 3:24 | 2021-10-14 |  |
+| [LOVE SONG](https://open.spotify.com/track/3YEBBpdqaFmIhJpVHutUS3) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 4:34 | 2021-10-14 |  |
 | [Melt My Heart](https://open.spotify.com/track/4BBWAJ5bQAWFBsI6I8PBSt) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Melt My Heart](https://open.spotify.com/album/44BoXvyaslCItBeAKNZoT8) | 3:50 | 2021-10-14 |  |
 | [Miss You](https://open.spotify.com/track/0mKjDEz8ZaUWhGrkU0yNdC) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Miss You](https://open.spotify.com/album/0lgYNNs933Zs7aM4h7RPKh) | 2:52 | 2021-10-14 |  |
 | [Miss You](https://open.spotify.com/track/2Q6vn3Pz85m9ttt9mOm5qZ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Miss You](https://open.spotify.com/album/01Ko1HQowbmrPM3awKqZsP) | 2:52 | 2021-10-14 | 2022-07-29 |

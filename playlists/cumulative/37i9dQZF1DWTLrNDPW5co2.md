@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-91 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/5vZl4HOsHwZbAbRX9ClTqT)
+92 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Real Groove \- Studio 2054 Remix](https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Real Groove \(Studio 2054 Remix\)](https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm) | 4:22 | 2021-10-15 |  |
 | [Real Hawt](https://open.spotify.com/track/7s12v8WY72vTwpbBGjCrN3) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Real Hawt](https://open.spotify.com/album/1xBgHCOPvBXxdLPteOGr0w) | 5:06 | 2021-10-15 |  |
 | [Reclaim Me \(feat\. Nimmo\) \- Maya Jane Coles Remix \[Edit\]](https://open.spotify.com/track/7DLxRocVGAXVaq63ZuuIby) | [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Reclaim Me \(feat\. Nimmo\) \[Maya Jane Coles Remix\]](https://open.spotify.com/album/2a6PATwWoogkNkzaWI05vU) | 3:23 | 2021-10-15 |  |
-| [Red Plum](https://open.spotify.com/track/5ZG1MQ3uJ8QmZAA3Iut6vF) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Red Plum](https://open.spotify.com/album/0qjHlh505jPgo8ZA8xRmR0) | 3:42 | 2021-10-15 |  |
+| [Red Plum](https://open.spotify.com/track/5ZG1MQ3uJ8QmZAA3Iut6vF) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Red Plum](https://open.spotify.com/album/0qjHlh505jPgo8ZA8xRmR0) | 3:42 | 2021-10-15 | 2023-02-02 |
+| [Red Plum](https://open.spotify.com/track/0R0dUadXGacI5Hy9W02SUf) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Sunniva Lindgård \(Producer\), Sunniva Lindgård \(Composer\), Andrew Murray Baardsen \(Producer\)](https://open.spotify.com/artist/5cBNXQoN1r7meYakVaXiYS) | [Heart Ego](https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX) | 3:42 | 2022-07-14 |  |
 | [Sage comme une image \- Good as Gold](https://open.spotify.com/track/2RdqkCm1yEj0V3J7BEYSzT) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Wonderland](https://open.spotify.com/album/4hGpmPcRrysSUbbBnM4F0T) | 3:56 | 2021-10-15 | 2022-06-04 |
 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 | 2021-10-15 |  |
 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 | 2021-10-15 | 2022-06-04 |
@@ -91,7 +92,7 @@
 | [Str8 Acting](https://open.spotify.com/track/2NWlqkcCLOnDTuKVvSwLgN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:55 | 2021-10-15 | 2022-10-22 |
 | [Str8 Acting](https://open.spotify.com/track/7g1R3Hd3BmYtTE1j4Jlsyi) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS) | 3:55 | 2022-07-14 |  |
 | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro) | 3:27 | 2021-10-15 | 2022-06-04 |
-| [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 | 2021-10-15 |  |
+| [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 | 2021-10-15 |  |
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2021-10-15 | 2022-06-04 |
 | [Trust](https://open.spotify.com/track/2FfIlhqu5PONOnlXoRatom) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Trust](https://open.spotify.com/album/0fLTZ5thAE6uMVd1GrT2Pa) | 3:57 | 2022-06-03 |  |
 | [U4IA \(feat\. Bklava\) \- Edit](https://open.spotify.com/track/7mS1KYt6hQWYQNYggiuaFD) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [U4IA \(feat\. Bklava\)](https://open.spotify.com/album/5ZcKJtwiFSO19THcNAnCRh) | 2:30 | 2021-10-15 |  |

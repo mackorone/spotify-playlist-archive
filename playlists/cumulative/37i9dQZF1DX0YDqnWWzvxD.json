@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Relax, heal and restore your energy",
   "name": "Savasana",
-  "published_playlist_ids": [
-    "7FBkCz8V6POnW79rLkeYTj"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 591000,
       "name": "Arms Around Sleep",
       "url": "https://open.spotify.com/track/0cbBBMc7AFMG2MckHMlFWA"
@@ -289,10 +286,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 229927,
       "name": "Breath Exercises for Deep Sleep",
       "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
+    },
+    {
+      "album": {
+        "name": "Call to the Divine",
+        "url": "https://open.spotify.com/album/6Lo6v2cqRdPC2vc59bAZaG"
+      },
+      "artists": [
+        {
+          "name": "Sacred Earth",
+          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486426,
+      "name": "Breathing Space",
+      "url": "https://open.spotify.com/track/53hZ7K9FClYjkTtrm6t1NK"
     },
     {
       "album": {
@@ -307,7 +322,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 486426,
       "name": "Breathing Space",
       "url": "https://open.spotify.com/track/6XYGQXaMxYjUA3R5EBx4Jc"
@@ -661,10 +676,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 571786,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/1lAwje1MCr6B5E5polZ9Wy"
+    },
+    {
+      "album": {
+        "name": "Breathing Space",
+        "url": "https://open.spotify.com/album/659OTaUEYfTNdzx7F6mpj2"
+      },
+      "artists": [
+        {
+          "name": "Sacred Earth",
+          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571786,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/7nEa5UaxVMkExsCpZtUouW"
     },
     {
       "album": {
@@ -1521,10 +1554,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 512413,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/2A78rXxV5JqAdHGVGG4QHC"
+    },
+    {
+      "album": {
+        "name": "Pamanyungan",
+        "url": "https://open.spotify.com/album/4GafeD514GWyl9actIQHbA"
+      },
+      "artists": [
+        {
+          "name": "Sacred Earth",
+          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512413,
+      "name": "Savasana",
+      "url": "https://open.spotify.com/track/4knWfIEQO6hcKW20A16gYY"
     },
     {
       "album": {
@@ -1654,7 +1705,7 @@
     },
     {
       "album": {
-        "name": "Asudha Yoga Dub",
+        "name": "Asudha Yoga Dub Grooves",
         "url": "https://open.spotify.com/album/6nEIf1fbM3aTmFTNp4nMBM"
       },
       "artists": [
@@ -1789,7 +1840,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 913626,
       "name": "The Hierophant",
       "url": "https://open.spotify.com/track/4Vw5cNbZiNABO9Dh7dem5o"
@@ -1815,7 +1866,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 913626,
       "name": "The Hierophant",
       "url": "https://open.spotify.com/track/5qgQww0z5pK4H07fhXaDzT"

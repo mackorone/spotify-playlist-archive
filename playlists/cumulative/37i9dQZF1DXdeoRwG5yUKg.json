@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Soulful, bluesy ballads. Cover: The War and Treaty",
   "name": "Blue Ballads",
-  "published_playlist_ids": [
-    "75KE2wEWnN31m3GF8kYS07"
-  ],
   "tracks": [
     {
       "album": {
@@ -207,6 +204,28 @@
       "duration_ms": 224866,
       "name": "Been My Last",
       "url": "https://open.spotify.com/track/55LQy7ZJejUaTTiSN8TK9D"
+    },
+    {
+      "album": {
+        "name": "Better Days (feat. Dave Fenley)",
+        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
+      },
+      "artists": [
+        {
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
     },
     {
       "album": {

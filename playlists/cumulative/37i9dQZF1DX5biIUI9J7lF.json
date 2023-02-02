@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "more than just a lifestyle",
   "name": "soft life",
-  "published_playlist_ids": [
-    "0NLbMYpAMwQLpeCANQMHmc"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,6 +42,28 @@
       "duration_ms": 187991,
       "name": "ATM (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/3cqm5i4yDaNuzu9oQmQzBC"
+    },
+    {
+      "album": {
+        "name": "Be On It",
+        "url": "https://open.spotify.com/album/0hEih748IMyx6TO21NEdGw"
+      },
+      "artists": [
+        {
+          "name": "TSCRPT",
+          "url": "https://open.spotify.com/artist/4Z02hpbBY4eH7yN7ceInzV"
+        },
+        {
+          "name": "Rebecca Winter",
+          "url": "https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Be On It",
+      "url": "https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT"
     },
     {
       "album": {
@@ -399,10 +418,28 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 211128,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/4MUkX48LZSR2nLGSqLxRcd"
+    },
+    {
+      "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/3kO5jijVZlEl5KaOKM2ZG0"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211128,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/74zNTorpLrsnDUGKxPb0fv"
     },
     {
       "album": {

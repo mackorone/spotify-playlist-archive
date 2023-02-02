@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
   "name": "This Is Pennywise",
-  "published_playlist_ids": [
-    "5I8lMzZlu1thlmQ5BkIl8S"
-  ],
   "tracks": [
     {
       "album": {
@@ -793,7 +790,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 136813,
       "name": "Time to Burn - 2005 Remaster",
       "url": "https://open.spotify.com/track/7DAK5vw0n5xIXEbQqNjB49"
@@ -836,6 +833,56 @@
     },
     {
       "album": {
+        "name": "Revenge on Halloween",
+        "url": "https://open.spotify.com/album/3tEjpvMMofWMD18h1luOqY"
+      },
+      "artists": [
+        {
+          "name": "\u2206RTHUR",
+          "url": "https://open.spotify.com/artist/6X9TeEwWaIcQXAHl5XFeI7"
+        },
+        {
+          "name": "Chucky",
+          "url": "https://open.spotify.com/artist/53uZfFt1ikCthE2vRKMCOB"
+        },
+        {
+          "name": "The Joker",
+          "url": "https://open.spotify.com/artist/0YN8I3hqjctuPFu0l5oLIF"
+        },
+        {
+          "name": "Voldemort",
+          "url": "https://open.spotify.com/artist/64PhauqoNgifbNGpKKS3PI"
+        },
+        {
+          "name": "Jigsaw",
+          "url": "https://open.spotify.com/artist/1qnrCcFD3e5WuPiPRSGVuh"
+        },
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        },
+        {
+          "name": "Ghostface",
+          "url": "https://open.spotify.com/artist/3t5QLYg3fqvohxXt7q1niX"
+        },
+        {
+          "name": "Killjoy",
+          "url": "https://open.spotify.com/artist/7KcvfYGusMO2uFr4ZM3DdZ"
+        },
+        {
+          "name": "Freddy Fazbear",
+          "url": "https://open.spotify.com/artist/0bSjePAmkCcWwMNY9ofBUe"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 315611,
+      "name": "Villains Unite!",
+      "url": "https://open.spotify.com/track/1edWlEpeDiGaeWOzob9HhH"
+    },
+    {
+      "album": {
         "name": "From The Ashes",
         "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
       },
@@ -865,7 +912,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 142653,
       "name": "Waste Another Day",
       "url": "https://open.spotify.com/track/3AHfywvWVPevgC7mrB43g1"

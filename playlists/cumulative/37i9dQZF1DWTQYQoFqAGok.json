@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
   "name": "Jazz en M\u00e9xico",
-  "published_playlist_ids": [
-    "15XX6lawI7eg99bVMwOVQB"
-  ],
   "tracks": [
     {
       "album": {
@@ -75,6 +72,24 @@
       "duration_ms": 378493,
       "name": "A la Ventana Carolina",
       "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
+    },
+    {
+      "album": {
+        "name": "Advice from a Cat",
+        "url": "https://open.spotify.com/album/2KIcHA2MmEM4mGjtT1JVn1"
+      },
+      "artists": [
+        {
+          "name": "Juan Pedro Organ Trio",
+          "url": "https://open.spotify.com/artist/6yBn06PNNg00t9Ac2VZrod"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 362091,
+      "name": "Advice from a Cat",
+      "url": "https://open.spotify.com/track/7bOCfp28AAuLbA2OREiMfF"
     },
     {
       "album": {
@@ -323,7 +338,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 499000,
       "name": "Desaf\u00edo",
       "url": "https://open.spotify.com/track/7sCMzJYlmvLFnc4luMmwwD"
@@ -391,6 +406,10 @@
         {
           "name": "Xalapa Jazz Orchestra",
           "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        },
+        {
+          "name": "Valentina Marentes",
+          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
         }
       ],
       "date_added": "2022-08-16",
@@ -531,6 +550,24 @@
       "duration_ms": 285508,
       "name": "Guapanguito",
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
+    },
+    {
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "album": {
@@ -723,7 +760,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 220447,
       "name": "Mama Nature",
       "url": "https://open.spotify.com/track/30TeIbEyHxzftJeNFZmlWz"
@@ -839,7 +876,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
@@ -915,7 +952,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2022-12-02",
       "duration_ms": 339280,
       "name": "Por los Caminos del Sur",
       "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
@@ -1003,6 +1040,24 @@
       "duration_ms": 204800,
       "name": "Safo (La Sacerdotiza Del Amor)",
       "url": "https://open.spotify.com/track/7FohOjzp6xDJQ14BxlDI9T"
+    },
+    {
+      "album": {
+        "name": "Advice from a Cat",
+        "url": "https://open.spotify.com/album/2KIcHA2MmEM4mGjtT1JVn1"
+      },
+      "artists": [
+        {
+          "name": "Juan Pedro Organ Trio",
+          "url": "https://open.spotify.com/artist/6yBn06PNNg00t9Ac2VZrod"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 470697,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0Y7tyEIEU53veA4CSclkYx"
     },
     {
       "album": {
@@ -1129,7 +1184,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 318122,
       "name": "Trato De Asimilar",
       "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
@@ -1227,6 +1282,24 @@
       "duration_ms": 254720,
       "name": "Ventana espacial",
       "url": "https://open.spotify.com/track/0zLqZgTme9vih80jQP9meo"
+    },
+    {
+      "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "album": {

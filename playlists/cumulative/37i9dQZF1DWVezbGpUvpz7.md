@@ -4,7 +4,7 @@
 
 > The essential Poe listening experience, from vintage radio versions to contemporary readings.
 
-66 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/69AhHukbHvnUC6sbXbnpN1)
+66 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Country music that makes you FEEL GOOD!
 
-87 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2db9tp2CGELXOtmorOR09V)
+87 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: <a href=\"https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n?si=U8XZqDOSTg2TB7KJPL4dtQ\">Temple Boys Cpt</a>",
-  "name": "Gqom Power House",
-  "published_playlist_ids": [
-    "7uMJ9CoeHul7GwURVi0bpy"
-  ],
+  "description": "It's not just about the music, it's about the culture. Cover: \nMampintsha",
+  "name": "GQOM Power House",
   "tracks": [
     {
       "album": {
@@ -138,6 +135,58 @@
     },
     {
       "album": {
+        "name": "Bambe La",
+        "url": "https://open.spotify.com/album/7D5hBuUTNRKaE9zhOjYCkC"
+      },
+      "artists": [
+        {
+          "name": "Bhizer",
+          "url": "https://open.spotify.com/artist/1UNJxIx5rUmL3DHRm3KqGl"
+        },
+        {
+          "name": "Niseni",
+          "url": "https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J"
+        },
+        {
+          "name": "The Elevatorz",
+          "url": "https://open.spotify.com/artist/5yu1Qzlob7mdCvXWByKuEZ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276003,
+      "name": "Bambe La",
+      "url": "https://open.spotify.com/track/0ezdUK8Bnjs2XBZt2qMDeu"
+    },
+    {
+      "album": {
+        "name": "Bashile",
+        "url": "https://open.spotify.com/album/4y5mHx3H9adbds4WFmyzJn"
+      },
+      "artists": [
+        {
+          "name": "FunkTone",
+          "url": "https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8"
+        },
+        {
+          "name": "QUE DJ",
+          "url": "https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka"
+        },
+        {
+          "name": "Kabo Reigns",
+          "url": "https://open.spotify.com/artist/02SJ0UpyhkIpXU4StorQd7"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313966,
+      "name": "Bashile",
+      "url": "https://open.spotify.com/track/3BmxRkVarNV3vWpQN0ouix"
+    },
+    {
+      "album": {
         "name": "Bedtime Story",
         "url": "https://open.spotify.com/album/0pYrO4JibN17dqQ4DIfn84"
       },
@@ -153,7 +202,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 337815,
       "name": "Bedtime Story",
       "url": "https://open.spotify.com/track/4Ow3gFQujZSZvj590Icyeq"
@@ -179,7 +228,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 182909,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/5bkUCnU8CYshcrcLdlaeXP"
@@ -280,7 +329,7 @@
       "artists": [
         {
           "name": "Bello no Gallo",
-          "url": "https://open.spotify.com/artist/4sOkkFiZ3kba2UST1tiQ7c"
+          "url": "https://open.spotify.com/artist/10jCMXxrxSLEToXTKVJJWn"
         },
         {
           "name": "DJ Tira",
@@ -349,10 +398,32 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 355239,
       "name": "Flying Squad",
       "url": "https://open.spotify.com/track/52qZf8dcbhaYbkm53u47nR"
+    },
+    {
+      "album": {
+        "name": "Game on",
+        "url": "https://open.spotify.com/album/7MNMHCsEuoUb1gQ4GENv68"
+      },
+      "artists": [
+        {
+          "name": "Team Cpt",
+          "url": "https://open.spotify.com/artist/23BjKeGujbA0AHfozSQyQo"
+        },
+        {
+          "name": "Delamighty",
+          "url": "https://open.spotify.com/artist/1DfLOh1uGOSlhdPqd4cv73"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379898,
+      "name": "Game on",
+      "url": "https://open.spotify.com/track/7uALqp940ufTtMB9bf9Azs"
     },
     {
       "album": {
@@ -455,7 +526,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 340182,
       "name": "Hello There",
       "url": "https://open.spotify.com/track/6k2tB7WChbwR9BXAD5LTtH"
@@ -980,6 +1051,28 @@
     },
     {
       "album": {
+        "name": "Ngeke",
+        "url": "https://open.spotify.com/album/0QYvoihSPn22fsyyHFU459"
+      },
+      "artists": [
+        {
+          "name": "Big Nuz",
+          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
+        },
+        {
+          "name": "Dj Yamza",
+          "url": "https://open.spotify.com/artist/6qT6hEK1WU1zJ3Ebsn7NDU"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362834,
+      "name": "Ngeke",
+      "url": "https://open.spotify.com/track/03WpImRRBMoMSI8Ch8aayl"
+    },
+    {
+      "album": {
         "name": "Ngibambe",
         "url": "https://open.spotify.com/album/5HQuRAPjfO6aPy16siv1Ga"
       },
@@ -1463,7 +1556,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 382928,
       "name": "Silwa Ney Peaker",
       "url": "https://open.spotify.com/track/4NySnQ8ZKrsY9LCLRj0Y82"
@@ -1503,6 +1596,28 @@
       "duration_ms": 364747,
       "name": "Speak Of The Town",
       "url": "https://open.spotify.com/track/1YPBILT8eQNbWK7MN6MsUC"
+    },
+    {
+      "album": {
+        "name": "Back to Ebombeni",
+        "url": "https://open.spotify.com/album/47jsuTeh9UiCr2QBozkoIS"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342500,
+      "name": "Speed Limit",
+      "url": "https://open.spotify.com/track/60LrKAurxTVnWjmU9sQVtG"
     },
     {
       "album": {
@@ -1605,7 +1720,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 374308,
       "name": "The Ozone",
       "url": "https://open.spotify.com/track/0x7jkL0NBuNsWKzdSEd9va"
@@ -1849,6 +1964,24 @@
       "duration_ms": 292886,
       "name": "Where\u2019s Your Father",
       "url": "https://open.spotify.com/track/3XeBivr42lfpYyL3XLjvzj"
+    },
+    {
+      "album": {
+        "name": "The Gqom Cartel",
+        "url": "https://open.spotify.com/album/44UeAnhoCkfZDaEYHK5pXO"
+      },
+      "artists": [
+        {
+          "name": "NV Funk",
+          "url": "https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281364,
+      "name": "Which is Which",
+      "url": "https://open.spotify.com/track/7K91DUq99r3KisZTWfwP97"
     },
     {
       "album": {

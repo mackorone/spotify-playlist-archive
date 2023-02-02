@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0u9RuqKKPbET4zVEgRTXiZ">Luiz de Assis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/2DVhTkWkXZQK6MOiM4pHaq)
+74 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,14 +22,17 @@
 | [Congo\-Bongo](https://open.spotify.com/track/3Sm6jw1y0TULKqECkoDq2w) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:05 | 2022-06-04 |  |
 | [Construção de Amor](https://open.spotify.com/track/132ESaIYKuN5jWJeyPWenN) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 3:28 | 2022-06-04 |  |
 | [Corpo Fechado](https://open.spotify.com/track/6R4eIow8KkeoLRaMImEupA) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 2:57 | 2022-06-04 |  |
-| [Derradeiro](https://open.spotify.com/track/5FuWbOttJw3aOy6UyKZPls) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:56 | 2022-06-04 |  |
+| [Derradeiro](https://open.spotify.com/track/5FuWbOttJw3aOy6UyKZPls) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:56 | 2022-06-04 | 2023-01-05 |
+| [Derradeiro \- Ao Vivo](https://open.spotify.com/track/6CqdyThSAqxb4ZY8NnapEO) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Persevere \(Ao Vivo\)](https://open.spotify.com/album/6ROU8qAXu5AZhVPz4wxJXT) | 5:06 | 2023-01-04 |  |
 | [Destemido Leão](https://open.spotify.com/track/5enTOdF1aPAfHHIr5AOACY) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:08 | 2022-06-04 |  |
 | [Dúvidas](https://open.spotify.com/track/4DTaIg8SsZ40HyNR9tzIj4) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:07 | 2022-06-04 |  |
 | [Energia Pura](https://open.spotify.com/track/6EuUwMvOChmivpCiUbc8Zx) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 2:50 | 2022-06-04 |  |
 | [Essência Pura](https://open.spotify.com/track/4b3NtZfP4stIhX4x0i5f1X) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:24 | 2022-06-04 |  |
 | [Estrela](https://open.spotify.com/track/6Fa39cGOfU6amdyGH8ehGk) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 3:34 | 2022-06-04 |  |
-| [Eu Me Precipitei](https://open.spotify.com/track/13bnBIfbcjmUFOPwNn7QTq) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:25 | 2022-06-04 |  |
+| [Eu Me Precipitei](https://open.spotify.com/track/13bnBIfbcjmUFOPwNn7QTq) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:25 | 2022-06-04 | 2023-01-05 |
+| [Eu Me Precipitei](https://open.spotify.com/track/6QcnrB9K9mLlbZQ8c6wpkT) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 4:48 | 2023-01-04 |  |
 | [Eu Vi](https://open.spotify.com/track/5CMSSsWrLvHwurRcdNBbqw) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 4:27 | 2022-06-04 |  |
+| [Exército de Jah](https://open.spotify.com/track/5T8jiM1mrYeu7mlcBaIFgy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 5:05 | 2023-01-04 |  |
 | [Feel The Vibes](https://open.spotify.com/track/3m2QnDXrOSPc0HTUYAAwwR) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Spiritual](https://open.spotify.com/artist/3iLfHHQQYFPgsT3XE58LbJ) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:37 | 2022-06-04 |  |
 | [Fogo](https://open.spotify.com/track/4KYySzLQSw7gOYamsHwL2U) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:28 | 2022-06-04 |  |
 | [Get Together](https://open.spotify.com/track/0ozDCUAUDVUGX9iNrgcb3Z) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Adão Negro](https://open.spotify.com/artist/4lH76hEdSMHe60KOmDbUq3) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:35 | 2022-06-04 |  |
@@ -67,7 +70,8 @@
 | [Sagrado Sião](https://open.spotify.com/track/5CeXorocm9cpk6GE2gO08V) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:47 | 2022-06-04 |  |
 | [Saúde Mental](https://open.spotify.com/track/7jeMV1DH16GzjeYctu8KJh) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:10 | 2022-06-04 |  |
 | [Sinal](https://open.spotify.com/track/2jgOBt27W91zPMDQV82efy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:15 | 2022-06-04 |  |
-| [Sincronia \(Recado a Eu\)](https://open.spotify.com/track/7oqoZHlO1UqWitB6WTUZxU) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 6:04 | 2022-06-04 |  |
+| [Sincronia \(Recado a Eu\)](https://open.spotify.com/track/7oqoZHlO1UqWitB6WTUZxU) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 6:04 | 2022-06-04 | 2023-01-05 |
+| [Sincronia \- Ao Vivo](https://open.spotify.com/track/2InaWa7S0YdwnIn0Ls7H0c) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Persevere \(Ao Vivo\)](https://open.spotify.com/album/6ROU8qAXu5AZhVPz4wxJXT) | 5:35 | 2023-01-04 |  |
 | [Sintonizando](https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:22 | 2022-06-04 |  |
 | [Sossegado](https://open.spotify.com/track/50JIuufaDwXtipM1PW5JeU) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:40 | 2022-06-04 |  |
 | [Só Jah](https://open.spotify.com/track/2eqH6gTfvXmV7I301obWiy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:15 | 2022-06-04 |  |

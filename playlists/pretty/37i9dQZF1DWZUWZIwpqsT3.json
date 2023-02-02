@@ -1,15 +1,35 @@
 {
   "description": "Press play and let's dance with the biggest Brazilian DJ!",
-  "num_followers": 1634399,
+  "num_followers": 1644460,
   "original_name": "This Is Alok",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDJlZWY0ZDJkMzYwZTUyM2YyOTcyM2Y5NjJmMThlYzBm",
+  "snapshot_id": "MTY3MzU3ODgwMCwwMDAwMDAwMGNiZDJmNzM5MGM2M2I3NGQ1YjY2NDQxNzBmNDIwZGQw",
   "tracks": [
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
+      "album": {
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
+    },
+    {
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
@@ -33,7 +53,7 @@
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Always Feel Like",
         "url": "https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "The Club Is Jumpin'",
         "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Run Into Trouble",
         "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Headlights (feat. KIDDO)",
         "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Side Effect (feat. Au/Ra)",
         "url": "https://open.spotify.com/album/3zZfGVDKje9EiK2q4pki53"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/4op0sQ8BfzRsW4gGGlR7TU"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Wherever You Go (feat. John Martin)",
         "url": "https://open.spotify.com/album/1mkiHxOjzK6O2WxQgyO4Hd"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/2tsArM8er9gkqiN4XiaW3r"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Deeper EP",
         "url": "https://open.spotify.com/album/6C0ooONb4IUWci4RXwQJAw"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/3FpOx5puPuaX1TAkjsbEoA"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Deeper EP",
         "url": "https://open.spotify.com/album/6C0ooONb4IUWci4RXwQJAw"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/09BrFM9kCBGVevooxF1uP2"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Typical (feat. Lars Martin)",
         "url": "https://open.spotify.com/album/4ZgHHCDZ6YI1iZ9L8xzrB4"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/0zbCQ5BMhpFfKWcpEuzqVd"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Squid Game (Let's Play)",
         "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/75pquWTQ3292AqzMsaik85"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Sky High (feat. Non\u00f4)",
         "url": "https://open.spotify.com/album/3vtdsgEmhYh46FzlQLzXWF"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/6yHR35fYbMEaDz2or8YsH1"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Don't Say Goodbye (feat. Tove Lo)",
         "url": "https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Piece Of Your Heart (Alok Remix)",
         "url": "https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Meu Amor",
         "url": "https://open.spotify.com/album/2ElhtOxvJeTj0UfBjJgAeQ"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Un Ratito",
         "url": "https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Astronaut In The Ocean (Alok Remix)",
         "url": "https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Keep Walking",
         "url": "https://open.spotify.com/album/2RaehuDcE8Z1duKDxOASeY"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/4KGp4u2uzL2fK8CoKj64Gx"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Joga Duro",
         "url": "https://open.spotify.com/album/4D2ZVnO8eXwMv8UQNlpKj6"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/6Ay5my8JKH3Kvv7Vhyx4Gg"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Shivers (Alok Remix)",
         "url": "https://open.spotify.com/album/6cgj2takjXRiUbUcjvbVZO"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/2W5n5YsWKPy3kw3yMb4qh0"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Wherever You Go (feat. John Martin) [Alan Walker Remix]",
         "url": "https://open.spotify.com/album/4UKRnLgsxEQY5fsv1w3uHJ"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/6U3aDkgAkEfd6Rfhq5U3MA"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Love Again (feat. Alida)",
         "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/5ZJDxWchW5jtfDJlnj9CKC"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/2y0W59c6wUGIJ6astaUNcQ"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Liberdade (Quando o Grave Bate Forte)",
         "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Love Love (feat. Gilsons)",
         "url": "https://open.spotify.com/album/7mSkA7d35tqJAddf4SBgeM"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/5o5A0Ww1nQsetGUelp5RJl"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "It Don\u2019t Matter - Spotify Singles",
         "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Life Goes On (Alok Remix)",
         "url": "https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Alive (It Feels Like)",
         "url": "https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk"
@@ -637,7 +657,7 @@
       "url": "https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Right Here (Alok Remix)",
         "url": "https://open.spotify.com/album/6bGugWyc58M7pv8VUEV3yV"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/4hmhWjYjHszUdYzeUpYCUs"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Wherever You Go (feat. John Martin) [Alle Farben Remix]",
         "url": "https://open.spotify.com/album/65DHvkWSKfgSzw0xd8VF8h"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/7jRnSGpjJcnwiLY4QMChzp"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Sunglasses At Night",
         "url": "https://open.spotify.com/album/4dTRTGMiV1kR5v4LJMyz8m"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/0Zst3tJ1WhBLfmISlV9JKZ"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie) [Alok Remix]",
         "url": "https://open.spotify.com/album/4FoMXPUZRhvuriRNTwyDwI"
@@ -733,7 +753,7 @@
       "url": "https://open.spotify.com/track/467dsBV8ZGP7Lz1GMZjoaF"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Born to Kill (with Alok)",
         "url": "https://open.spotify.com/album/2D3DsYvDso78HVWekeXJbx"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/1jWkEX1OmliA2etRvBH9Xk"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Si Tu Vuelas (Hadal Ahbek [Alok Remix])",
         "url": "https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Party On My Own (feat. FAULHABER)",
         "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Love Is Gone - Alok Remix",
         "url": "https://open.spotify.com/album/09oE5IJaXz157AqAoX6u4s"
@@ -869,7 +889,7 @@
       "url": "https://open.spotify.com/track/1tpTV7D5TwPBKgb2JaciMm"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Hear Me Tonight",
         "url": "https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG"
@@ -889,7 +909,7 @@
       "url": "https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
@@ -913,7 +933,7 @@
       "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Ameno",
         "url": "https://open.spotify.com/album/3enffrW6QJyTfqUnHK72OX"
@@ -937,7 +957,7 @@
       "url": "https://open.spotify.com/track/509mnNEq2OOcJsK0Y9TlKd"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Domino (feat. Oxia)",
         "url": "https://open.spotify.com/album/0pth5KWHb0y7nvYqLp9Mzl"
@@ -961,7 +981,7 @@
       "url": "https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/7Lot6c8rqaZdDeeAIL6KM5"
@@ -981,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0CNxWAkG4ysu9Z3eCfknWK"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Reunion (Free Fire 4th Anniversary Theme Song) [with Alok & Zafrir]",
         "url": "https://open.spotify.com/album/2ITE6WwNqWTiLkPiAa8YV3"
@@ -1009,7 +1029,7 @@
       "url": "https://open.spotify.com/track/3eedpY1EF6yMfEyqkcdak0"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Body On My Mind",
         "url": "https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf"
@@ -1025,7 +1045,7 @@
       "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Sweet Dreams (feat. Imanbek) [Remixes]",
         "url": "https://open.spotify.com/album/5LKrGd8oU56PLe793imghr"
@@ -1049,7 +1069,7 @@
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
@@ -1073,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Favela",
         "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
@@ -1093,7 +1113,7 @@
       "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Don't Cry For Me (with Jason Derulo)",
         "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
@@ -1117,7 +1137,7 @@
       "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Underwater Love (LA Vision Remix)",
         "url": "https://open.spotify.com/album/4e4pBkcRCWIglczNdKYr8k"
@@ -1141,7 +1161,7 @@
       "url": "https://open.spotify.com/track/7L2lhosR2K7iBRb2yiTVRV"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/08abjipelIFw9qL9SpusZn"
@@ -1161,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3pxgCftwF14lNFHeEBqYyv"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Another You (feat. The Vamps)",
         "url": "https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV"
@@ -1185,7 +1205,7 @@
       "url": "https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
@@ -1209,7 +1229,7 @@
       "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Ilus\u00e3o (Cracol\u00e2ndia)",
         "url": "https://open.spotify.com/album/7zT3w0lc1ZBlAMvF9ZMBF5"
@@ -1245,7 +1265,7 @@
       "url": "https://open.spotify.com/track/6WXglvTFRmjlHHhgjYMNif"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Kids on Whizz",
         "url": "https://open.spotify.com/album/2MV1nbjEFQ3coFdpVpz9QQ"
@@ -1265,7 +1285,7 @@
       "url": "https://open.spotify.com/track/34ZAEDXyI4hBfBYYnGXA73"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "My Head (Can\u2019t Get You Out)",
         "url": "https://open.spotify.com/album/1DdWQ5wL4E17EC3YiraRkO"
@@ -1285,7 +1305,7 @@
       "url": "https://open.spotify.com/track/2FVv9vxJT2NOxKWFzZnvDI"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "I Need Someone (feat. Nathan Ball & Caleb Femi) [Alok Remix] [Edit]",
         "url": "https://open.spotify.com/album/3K1dyql0lF9cbbFfIpaQZo"
@@ -1313,7 +1333,7 @@
       "url": "https://open.spotify.com/track/1XrQIHZjSUVwgtpnq8hojj"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Party On My Own (feat. FAULHABER) [VIP Mix]",
         "url": "https://open.spotify.com/album/6q1ioc7uSSsGa6ccF5ysYY"
@@ -1337,7 +1357,7 @@
       "url": "https://open.spotify.com/track/3Yck3VLpQ9pBnOgmubSJ8O"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Let Me Go (with MKLA)",
         "url": "https://open.spotify.com/album/6sfiq9XzQfE0HGzEVrKkDH"
@@ -1361,7 +1381,7 @@
       "url": "https://open.spotify.com/track/1W3TC8MjoPvrVbNfUxMPJQ"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Te Bot\u00e9",
         "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
@@ -1385,7 +1405,7 @@
       "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Living In A Ghost Town (Alok Remix)",
         "url": "https://open.spotify.com/album/4xCqZR98seMndZDy9iZrXA"
@@ -1405,7 +1425,7 @@
       "url": "https://open.spotify.com/track/4Tfyx7YzQBDcI45LBWyr15"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Physical (Alok Remix)",
         "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
@@ -1425,7 +1445,7 @@
       "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Symphonia",
         "url": "https://open.spotify.com/album/45uRcbQLOKGANqzLrkkYaD"
@@ -1445,7 +1465,7 @@
       "url": "https://open.spotify.com/track/4sdMRMJdBpVdHs3Aq29P87"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Table For 2",
         "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
@@ -1465,7 +1485,7 @@
       "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "I Don't Wanna Talk (feat. Amber Van Day)",
         "url": "https://open.spotify.com/album/6fmPSJmMLKVoTiQ6EZK0Zj"
@@ -1489,7 +1509,7 @@
       "url": "https://open.spotify.com/track/6ZHW34diMlNGGVwcrOfrkr"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Killed By The City",
         "url": "https://open.spotify.com/album/0fhuw1u22igt3GCU9QJ54n"
@@ -1509,7 +1529,7 @@
       "url": "https://open.spotify.com/track/4i5IUKZht1OTaBGm8zwhzB"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Tell Me Why (VIP Mix)",
         "url": "https://open.spotify.com/album/0AkevggrGc8ijv633pPODM"
@@ -1529,7 +1549,7 @@
       "url": "https://open.spotify.com/track/0meX6eoFnu7M75TqO8z2lx"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Vale Vale",
         "url": "https://open.spotify.com/album/2llEFasK0tmnuR08L2zlYs"
@@ -1549,7 +1569,7 @@
       "url": "https://open.spotify.com/track/0sfgF2kM3yrZbkLmAbjSo6"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
@@ -1569,7 +1589,7 @@
       "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Party Never Ends",
         "url": "https://open.spotify.com/album/34safHRUbL0hGUi5JB86tM"
@@ -1589,7 +1609,7 @@
       "url": "https://open.spotify.com/track/35F2tdWosmulYdcmsXpQ7x"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "E Depois (Que Sorte A Minha)",
         "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
@@ -1613,7 +1633,7 @@
       "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
@@ -1637,7 +1657,7 @@
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Metaphor",
         "url": "https://open.spotify.com/album/2ds371eeP7JXPUhBCk26eH"
@@ -1657,7 +1677,7 @@
       "url": "https://open.spotify.com/track/1UTXQrmAL4oladIwc1PWSh"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Innocent (feat. Gavin James)",
         "url": "https://open.spotify.com/album/6sFBBEA0J9xZuxFLJgRjiI"
@@ -1681,7 +1701,7 @@
       "url": "https://open.spotify.com/track/0nWhvEGfDmIuz6ujMPaMBn"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/0qWkaODQn1EElV40ExhpYW"
@@ -1709,7 +1729,7 @@
       "url": "https://open.spotify.com/track/4pBykn8eWxl3O9JvIHZXj4"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/1R2C7EG1sDRGnKSxGmLU4o"
@@ -1729,7 +1749,7 @@
       "url": "https://open.spotify.com/track/36C0Gw2RmYWy5aEpMPaQ0e"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/5WdbJyYhdrJ9iS7xUyfkzs"
@@ -1753,7 +1773,7 @@
       "url": "https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Bella Ciao (feat. Andre Sarate & Adolfo Celdran)",
         "url": "https://open.spotify.com/album/1SAdASSzDf70GDvfGSX5D0"
@@ -1785,7 +1805,7 @@
       "url": "https://open.spotify.com/track/1kJ1E0czwQPvUVNXCLaHAB"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "My Life Is Going On (Remix Version)",
         "url": "https://open.spotify.com/album/6er2OMGxSPeZQMp9b1eADv"
@@ -1817,7 +1837,7 @@
       "url": "https://open.spotify.com/track/7ht7UcsH5dlcaFX5pMHycn"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/4UzyEKZKmEIKT1KkWO3Crp"
@@ -1837,7 +1857,7 @@
       "url": "https://open.spotify.com/track/30pVSKdzBpZ9Np4Y2bJbFM"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
@@ -1861,7 +1881,7 @@
       "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/09daeFM7AXK0INoZ00lTeD"
@@ -1885,7 +1905,7 @@
       "url": "https://open.spotify.com/track/40ydUI6moZMoOd65wbf6oz"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Big Jet Plane",
         "url": "https://open.spotify.com/album/35i6JrOJDOFIUuyQDtMjbA"
@@ -1905,7 +1925,7 @@
       "url": "https://open.spotify.com/track/1xd3OqTbx17HutN7RfJOTj"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Alok Presents Brazilian Bass: Pt. 1",
         "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
@@ -1929,7 +1949,7 @@
       "url": "https://open.spotify.com/track/3mggb9ShBvXJBXCY2RfCUs"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Hear Me Now (feat. Zeeba)",
         "url": "https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o"
@@ -1953,7 +1973,7 @@
       "url": "https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "Byob",
         "url": "https://open.spotify.com/album/1LrjVxiPQecTh1LugY8jPm"
@@ -1973,7 +1993,7 @@
       "url": "https://open.spotify.com/track/7uF4XVBeZeWsjhioGUhI47"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "That's My Way (Alok Remix)",
         "url": "https://open.spotify.com/album/4fL78NnjnPLQ7K2Qeo8OEY"
@@ -1997,7 +2017,7 @@
       "url": "https://open.spotify.com/track/2SeevfUUQlLq6HNaJ07Vda"
     },
     {
-      "added_at": "2022-10-07 03:00:00",
+      "added_at": "2023-01-13 03:00:00",
       "album": {
         "name": "XOXO (Music from the Netflix Original Film)",
         "url": "https://open.spotify.com/album/7GII7KZDArYqZ14xcyshb4"

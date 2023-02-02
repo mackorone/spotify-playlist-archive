@@ -2,9 +2,9 @@
 
 ### [90's Hip Hop Don't Stop](https://open.spotify.com/playlist/7HQu1GUDVSx64GdCpaB88I)
 
-> Get UR 90s Freak ON! Cover: Biggie
+> Get your freak on with golden era of rap music! All the 90s hip hop throwbacks including classic old school songs from Biggie, Missy Elliott, Nas, 2Pac, Outkast and more!
 
-91 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/49XqOosYNR0yJVjFXfcBnJ)
+91 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

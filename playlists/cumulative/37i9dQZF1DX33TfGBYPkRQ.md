@@ -4,7 +4,7 @@
 
 > That feeling of being punched in the gut by a song.
 
-201 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/5pmuoSmL7bv4atCJCFd9iO)
+201 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

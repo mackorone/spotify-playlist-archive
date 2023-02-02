@@ -1,12 +1,12 @@
 {
-  "description": "Funky vocoders and talk boxes.",
-  "num_followers": 29948,
+  "description": "Funk-bots assemble!",
+  "num_followers": 33206,
   "original_name": "Robo-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDY3MzI5Mjg0ODJlZjA4N2IxYmI2OWI2NmFjYzk4MTE3",
+  "snapshot_id": "MTY3NDQ5MDQ1OCwwMDAwMDAwMGEwMDExMjUwZDc2MWEzNzhhOWU2MzdlOGNiNjhlZmFk",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -47,6 +47,26 @@
       "duration_ms": 188040,
       "name": "PULL UP (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/5OcpvgdYknA4VEGTwXNecJ"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Robot Man (Vinyl Edit Version)",
+        "url": "https://open.spotify.com/album/3cVvm1DlqO4UVsoQzjjbRw"
+      },
+      "artists": [
+        {
+          "name": "Marcelinho Backspin",
+          "url": "https://open.spotify.com/artist/75lcNc72emAl0sY7NR5xG4"
+        },
+        {
+          "name": "DJ Hum",
+          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
+        }
+      ],
+      "duration_ms": 223012,
+      "name": "Robot Man - Vinyl Edit Version",
+      "url": "https://open.spotify.com/track/6myAJZFY7NYLCF8fJIIciU"
     },
     {
       "added_at": "2022-09-16 04:01:00",

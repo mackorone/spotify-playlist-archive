@@ -4,7 +4,7 @@
 
 > Get to know some of the most loved comedians on Spotify with this collection of their top 5 tracks &amp; newest releases.
 
-102 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/6ZuCIuJaN59X4xiozOuhMI)
+102 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

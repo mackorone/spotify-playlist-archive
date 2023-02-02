@@ -4,7 +4,7 @@
 
 > Over 70 poems by women read by the authors themselves, featuring Rita Dove, Elizabeth Bishop, Gertrude Stein, and more.
 
-82 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/2FxH8EyJ75KbGv0fTL9LIt)
+82 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

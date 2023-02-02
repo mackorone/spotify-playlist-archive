@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-23",
   "description": "Pick up the pace to energetic remixes.",
   "name": "Running x Remix",
-  "published_playlist_ids": [
-    "5dIpw3uEqybXhnEO66YlIn"
-  ],
   "tracks": [
     {
       "album": {
@@ -21,7 +18,7 @@
           "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "date_added": "2022-10-07",
+      "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 222800,
@@ -57,6 +54,28 @@
       "duration_ms": 178560,
       "name": "All For Love - Luca Schreiner Remix",
       "url": "https://open.spotify.com/track/6dzyIO2KpLofsypXbLGOWw"
+    },
+    {
+      "album": {
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215696,
+      "name": "Anti-Hero - Jayda G Remix",
+      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
     },
     {
       "album": {
@@ -105,7 +124,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 213906,
       "name": "Bad Vibe - James Hype Remix",
       "url": "https://open.spotify.com/track/23a7lo0QJILBV8FWA9hM6R"
@@ -153,7 +172,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 223000,
       "name": "Burn Break Crash - Madison Mars Remix",
       "url": "https://open.spotify.com/track/0gyQR8SQvI9BqquYz1IkHI"
@@ -293,7 +312,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 183870,
       "name": "Colors - Wideboys Remix",
       "url": "https://open.spotify.com/track/7eD8b7RaZS97PXlQQCVm2R"
@@ -323,7 +342,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-04",
       "duration_ms": 289528,
       "name": "Complicated (feat. Kiiara) - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/30jTflhN1ExdH9RCBTVlcl"
@@ -421,7 +440,7 @@
           "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "date_added": "2022-10-07",
+      "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188640,
@@ -601,10 +620,36 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 165009,
       "name": "Harleys In Hawaii - KANDY Remix",
       "url": "https://open.spotify.com/track/5EECgBC0NjIaUd8ke9YYTo"
+    },
+    {
+      "album": {
+        "name": "Hold Me Closer (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248594,
+      "name": "Hold Me Closer - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
     },
     {
       "album": {
@@ -745,7 +790,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": "2023-01-04",
       "duration_ms": 263655,
       "name": "I Would Like - Gorgon City Remix",
       "url": "https://open.spotify.com/track/6shSHDBeA8Hj5qnyIq7jdQ"
@@ -774,6 +819,32 @@
     },
     {
       "album": {
+        "name": "I'm Good (Blue) [Gabry Ponte Remix]",
+        "url": "https://open.spotify.com/album/0yspiEXcvJqcTMScgu04gq"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165776,
+      "name": "I'm Good (Blue) - Gabry Ponte Remix",
+      "url": "https://open.spotify.com/track/1Ic76JMsAbHdDscO9ooJm9"
+    },
+    {
+      "album": {
         "name": "I'm Good (Blue) [Remixes]",
         "url": "https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd"
       },
@@ -791,7 +862,7 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "date_added": "2022-10-07",
+      "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178124,
@@ -845,6 +916,28 @@
       "duration_ms": 188333,
       "name": "Lullaby - Calvo Remix",
       "url": "https://open.spotify.com/track/3mqvUmsGVshZSf5INiebzO"
+    },
+    {
+      "album": {
+        "name": "Made You Look (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Made You Look - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe"
     },
     {
       "album": {
@@ -922,7 +1015,29 @@
     },
     {
       "album": {
-        "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
+        "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167419,
+      "name": "Never Gonna Not Dance Again - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
+    },
+    {
+      "album": {
+        "name": "Never Love You Again",
         "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
       },
       "artists": [
@@ -943,7 +1058,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191329,
-      "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
+      "name": "Never Love You Again",
       "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
     },
     {
@@ -1015,7 +1130,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 166644,
       "name": "No Stress - Tommie Sunshine & MureKian Remix",
       "url": "https://open.spotify.com/track/2wujE7n4hv8SGRjq2ARtks"
@@ -1089,7 +1204,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 242400,
       "name": "Poker Face - LLG vs GLG Radio Mix",
       "url": "https://open.spotify.com/track/2eTXVFThonrp3Cet0n2rHf"
@@ -1253,7 +1368,7 @@
           "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         }
       ],
-      "date_added": "2022-10-07",
+      "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173658,
@@ -1288,7 +1403,7 @@
     },
     {
       "album": {
-        "name": "Takeaway (feat. Lennon Stella) [Remixes]",
+        "name": "Takeaway - The Remixes (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/27GXIwtv7WOQIqpUdrPA3g"
       },
       "artists": [
@@ -1407,6 +1522,32 @@
       "duration_ms": 217804,
       "name": "Thursday - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/7r4nPsLToVIPdsiEeZKF6Y"
+    },
+    {
+      "album": {
+        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
+        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234411,
+      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
+      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     },
     {
       "album": {

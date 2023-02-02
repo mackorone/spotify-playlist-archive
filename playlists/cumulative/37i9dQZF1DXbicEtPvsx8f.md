@@ -4,7 +4,7 @@
 
 > The latest and greatest\. Lo nuevo y lo esencial.
 
-48 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/2HQXH2Is1zaGlQYlqtQ2Tr)
+48 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

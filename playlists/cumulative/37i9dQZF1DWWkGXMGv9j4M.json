@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-28",
   "description": "Weird year overall, but great for indie. Editors' picks of the best tracks of the year. Cover: Phoebe Bridgers",
   "name": "Best Indie Songs of 2020",
-  "published_playlist_ids": [
-    "1Pjd800VkqQ5UHpr6EEuIh"
-  ],
   "tracks": [
     {
       "album": {
@@ -250,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Archiv3s",
+        "url": "https://open.spotify.com/album/22d65J58ShqU0yYBXmNerw"
+      },
+      "artists": [
+        {
+          "name": "axiiiiiiiii",
+          "url": "https://open.spotify.com/artist/3lU88Di4kPdjmZzTDoacwD"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 69041,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/5OUGZoUonZ0ksZh3VDIlRP"
+    },
+    {
+      "album": {
         "name": "bad idea",
         "url": "https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J"
       },
@@ -265,7 +280,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 69015,
       "name": "bad idea",
       "url": "https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv"
@@ -287,7 +302,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 69041,
       "name": "bad idea (feat. blackwinterwells)",
       "url": "https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB"
@@ -1313,10 +1328,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 305506,
       "name": "Kerosene!",
       "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
+    },
+    {
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305506,
+      "name": "Kerosene!",
+      "url": "https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS"
     },
     {
       "album": {
@@ -1411,7 +1444,7 @@
     {
       "album": {
         "name": "Magic Oneohtrix Point Never",
-        "url": "https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z"
+        "url": "https://open.spotify.com/album/5o7JAhPyjgxKUsJH0PpwwZ"
       },
       "artists": [
         {
@@ -1422,6 +1455,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 212315,
+      "name": "Long Road Home",
+      "url": "https://open.spotify.com/track/2XEVYZ8To1zZcfnSfqecLH"
+    },
+    {
+      "album": {
+        "name": "Magic Oneohtrix Point Never",
+        "url": "https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 212315,
       "name": "Long Road Home",
       "url": "https://open.spotify.com/track/31Ocb5xOyTkjIyv7FdBF05"

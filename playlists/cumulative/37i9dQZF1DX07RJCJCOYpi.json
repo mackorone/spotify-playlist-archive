@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The leading wave of Latin Electronic music. Cover: Gordo & Feid",
+  "description": "The leading wave of Latin Electronic music. Cover: LIT Killah",
   "name": "mint Latin",
-  "published_playlist_ids": [
-    "0igTR570qf1Xr3v0XaTHRR"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 156026,
       "name": "A M\u00ed Me Encanta (Tequila)",
       "url": "https://open.spotify.com/track/7hOypPNirw4UFkCtCHAOou"
@@ -103,7 +100,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 184615,
       "name": "Adios (with Andrez Babii)",
       "url": "https://open.spotify.com/track/01te0VWuPo9HvyA6A4Rizp"
@@ -274,6 +271,24 @@
     },
     {
       "album": {
+        "name": "BLACKOUT",
+        "url": "https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae"
+    },
+    {
+      "album": {
         "name": "Body On My Mind",
         "url": "https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf"
       },
@@ -315,6 +330,24 @@
       "duration_ms": 250082,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
+    },
+    {
+      "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/71v6y9ZimfNQoVSdHw8wir"
+      },
+      "artists": [
+        {
+          "name": "El Duglas",
+          "url": "https://open.spotify.com/artist/0TihXBYo70wnbfcmJ47bF9"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 185927,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0w8xgeyS3hxk6M24v8wkYk"
     },
     {
       "album": {
@@ -425,7 +458,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 188000,
       "name": "Como Es Posible Que a Mi Lado",
       "url": "https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi"
@@ -524,7 +557,7 @@
     },
     {
       "album": {
-        "name": "De 100 a 0",
+        "name": "De 100 a 0 (Remix)",
         "url": "https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc"
       },
       "artists": [
@@ -537,7 +570,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184737,
-      "name": "De 100 a 0",
+      "name": "De 100 a 0 - Remix",
       "url": "https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a"
     },
     {
@@ -679,7 +712,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 170689,
       "name": "Drifting & Burning",
       "url": "https://open.spotify.com/track/2WTTEfbb96NHOmKJ7TrJvH"
@@ -741,7 +774,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 197346,
       "name": "En La Playa",
       "url": "https://open.spotify.com/track/19opgpEezHS9JZQakuz17y"
@@ -763,7 +796,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 196586,
       "name": "En Mi Cuarto",
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
@@ -811,6 +844,28 @@
       "duration_ms": 169466,
       "name": "ESTILAZO",
       "url": "https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66"
+    },
+    {
+      "album": {
+        "name": "EXTASI",
+        "url": "https://open.spotify.com/album/3MVQ9Twt0scstIGS1aAn5p"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157384,
+      "name": "EXTASI",
+      "url": "https://open.spotify.com/track/7x3j9aoz4TFFbteaEhTxBD"
     },
     {
       "album": {
@@ -916,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Flow Hijuepu",
+        "url": "https://open.spotify.com/album/0q2ZHI3j41g1U1zN0bEfJ8"
+      },
+      "artists": [
+        {
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173846,
+      "name": "Flow Hijuepu",
+      "url": "https://open.spotify.com/track/4bhJGQXbTQdw3GLNTr3RMZ"
+    },
+    {
+      "album": {
         "name": "Sorry For The Weight",
         "url": "https://open.spotify.com/album/61UgKPXbltFZQiF3qifIyG"
       },
@@ -957,6 +1030,24 @@
       "duration_ms": 192440,
       "name": "Formentera - GARABATTO RMX",
       "url": "https://open.spotify.com/track/1HaNaeulZAeYszYCRsnD0y"
+    },
+    {
+      "album": {
+        "name": "Fue",
+        "url": "https://open.spotify.com/album/7L6g9MtMHH52YLcYBBPMu2"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171857,
+      "name": "Fue",
+      "url": "https://open.spotify.com/track/4Yce6tyMOK05sPdCMQVxlt"
     },
     {
       "album": {
@@ -1077,7 +1168,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 197103,
       "name": "Hace Calor - Remix",
       "url": "https://open.spotify.com/track/7jfE42hjNY8zUuKKJlmBz6"
@@ -1095,7 +1186,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 173760,
       "name": "Hanging Tree",
       "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
@@ -1117,7 +1208,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 187142,
       "name": "Heartless - Kidd Spin Remix",
       "url": "https://open.spotify.com/track/52PY71c5aNyFrCXpBGViMz"
@@ -1135,10 +1226,28 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 226546,
       "name": "Helic\u00f3ptero",
       "url": "https://open.spotify.com/track/5PpwwiaSqIzLyzboENB4QO"
+    },
+    {
+      "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/3TAT49Y0krFC1zL0qRF4Nz"
+      },
+      "artists": [
+        {
+          "name": "Benji Reyes",
+          "url": "https://open.spotify.com/artist/0vX0xXOZ9hKpXoN4dxkewV"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152903,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/5Xg6JPShL0FWN234fS7r7m"
     },
     {
       "album": {
@@ -1265,7 +1374,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 217500,
       "name": "I Feel Good - Sak Noel X Salvi X Franklin Dam Remix",
       "url": "https://open.spotify.com/track/72gZ6wXzF6CWcBauTYR8Wo"
@@ -1338,6 +1447,36 @@
     },
     {
       "album": {
+        "name": "KLK",
+        "url": "https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        },
+        {
+          "name": "Joelii",
+          "url": "https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "KLK",
+      "url": "https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg"
+    },
+    {
+      "album": {
         "name": "Kong 2.0",
         "url": "https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi"
       },
@@ -1357,6 +1496,46 @@
       "duration_ms": 202003,
       "name": "Kong 2.0",
       "url": "https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN"
+    },
+    {
+      "album": {
+        "name": "KPASA (feat. Drty Tropix)",
+        "url": "https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        },
+        {
+          "name": "Drty Tropix",
+          "url": "https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "KPASA (feat. Drty Tropix)",
+      "url": "https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem"
+    },
+    {
+      "album": {
+        "name": "KUNG FU",
+        "url": "https://open.spotify.com/album/23y2x6h8FGIO6oXx44fVq9"
+      },
+      "artists": [
+        {
+          "name": "Crissleger",
+          "url": "https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "KUNG FU",
+      "url": "https://open.spotify.com/track/4vEa6UHHIWz2Zjn58OzYDa"
     },
     {
       "album": {
@@ -1503,7 +1682,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 193237,
       "name": "Llorando en un Ferrari",
       "url": "https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U"
@@ -1815,7 +1994,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 415500,
       "name": "Muy Bien",
       "url": "https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn"
@@ -1859,6 +2038,24 @@
       "duration_ms": 187983,
       "name": "m\u00e1s de ti",
       "url": "https://open.spotify.com/track/55bcTduPNKrs96TfNTjfXH"
+    },
+    {
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN"
+      },
+      "artists": [
+        {
+          "name": "Bella Dose",
+          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186403,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26"
     },
     {
       "album": {
@@ -1928,6 +2125,42 @@
     },
     {
       "album": {
+        "name": "Neverita",
+        "url": "https://open.spotify.com/album/7efd1iBzVfBeVvtwh1C7hL"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/2xms7bVgVIszeNtYCV9LVm"
+    },
+    {
+      "album": {
+        "name": "Ne\u00f3n",
+        "url": "https://open.spotify.com/album/3vaTUE6iGfukYBuR5vzOa9"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196044,
+      "name": "Ne\u00f3n",
+      "url": "https://open.spotify.com/track/5n3BkGuvl4tBLtU0vRnk2p"
+    },
+    {
+      "album": {
         "name": "Nieve",
         "url": "https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C"
       },
@@ -1943,6 +2176,28 @@
       "duration_ms": 140440,
       "name": "Nieve",
       "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
+    },
+    {
+      "album": {
+        "name": "Nieve (Remixes)",
+        "url": "https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Nieve - Benny Benassi Remix",
+      "url": "https://open.spotify.com/track/2QG6VgmvMV7mYPME1evMeC"
     },
     {
       "album": {
@@ -2141,7 +2396,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 164242,
       "name": "PAP (Pendiente Al Paso)",
       "url": "https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX"
@@ -2203,10 +2458,46 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 223384,
       "name": "Pepas - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS"
+      },
+      "artists": [
+        {
+          "name": "Nohemy",
+          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155306,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT"
+    },
+    {
+      "album": {
+        "name": "Pimp",
+        "url": "https://open.spotify.com/album/5D5bSrVZI1eP4awH3V9sHU"
+      },
+      "artists": [
+        {
+          "name": "Paolo Pimp",
+          "url": "https://open.spotify.com/artist/3C4u5zRlcRqpe26zQmQRku"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144827,
+      "name": "Pierdete",
+      "url": "https://open.spotify.com/track/2KqYLGLtzbyjR2MSRdxMT8"
     },
     {
       "album": {
@@ -2707,7 +2998,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 194163,
       "name": "Switch It - Tom & Collins Remix",
       "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
@@ -2924,6 +3215,32 @@
     },
     {
       "album": {
+        "name": "Tropicana (La Noche)",
+        "url": "https://open.spotify.com/album/2NGYvRg59cNCPL8JfYZ1wX"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Cucu Diamantes",
+          "url": "https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200655,
+      "name": "Tropicana (La Noche)",
+      "url": "https://open.spotify.com/track/23dwwFPSWj3sH6IDAgeMh7"
+    },
+    {
+      "album": {
         "name": "Annual 2021",
         "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
       },
@@ -2943,7 +3260,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 141312,
       "name": "Typical (feat. Lars Martin)",
       "url": "https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob"
@@ -3017,10 +3334,36 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 184000,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
+    },
+    {
+      "album": {
+        "name": "Vamos a Beber (Sak Noel Remix)",
+        "url": "https://open.spotify.com/album/4SG62I5xwZTEqQUX6W5ONW"
+      },
+      "artists": [
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Vamos a Beber - Sak Noel Remix",
+      "url": "https://open.spotify.com/track/4JRLNNdcgxmZOS6gziBIew"
     },
     {
       "album": {
@@ -3145,10 +3488,36 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 157500,
       "name": "We Outside - Sak Noel & Salvi Remix",
       "url": "https://open.spotify.com/track/5hbSLOZkTwfSbAglosqKh1"
+    },
+    {
+      "album": {
+        "name": "Weekend On A Tuesday (Gian Varela Remix)",
+        "url": "https://open.spotify.com/album/05AbAVYq6IbQWsdb1MV60Y"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Weekend On A Tuesday - Gian Varela Remix",
+      "url": "https://open.spotify.com/track/3DPP2RtTFj0lw8JiFbQB4B"
     },
     {
       "album": {

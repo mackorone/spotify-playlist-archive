@@ -4,7 +4,7 @@
 
 > Congrats to all the winners this year at the AMAs!
 
-21 songs - 1 hr 20 min - [published](https://open.spotify.com/playlist/1sFtLUL0CBPzaEsBnzMDbi)
+21 songs - 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > ITZY? 있지! It'z ITZY Time!
 
-110 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/76GcwIMslZVncU8rkXyYVE)
+113 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [YEJI & RYUJIN of ITZY](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) | 2:42 | 2022-08-03 |  |
 | [CHERRY](https://open.spotify.com/track/0w63dfnXnMUEjHTH3dGcLQ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) | 3:10 | 2022-07-22 |  |
 | [CHERRY](https://open.spotify.com/track/3Ef2Sr4U0oehtcozO23yUN) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:10 | 2022-04-20 | 2022-07-29 |
+| [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-11-30 |  |
 | [Chillin' Chillin'](https://open.spotify.com/track/5RwUH2QDC6BIZlesRkQKxr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:26 | 2022-04-20 | 2022-07-29 |
 | [Chillin' Chillin'](https://open.spotify.com/track/6g5nc2mO1KFqd2XbneHshB) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:26 | 2022-07-22 |  |
 | [DALLA DALLA](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) | 3:19 | 2022-07-22 |  |
@@ -37,6 +38,7 @@
 | [DOMINO](https://open.spotify.com/track/7smzqb09g7J735QwRb6WUp) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 3:06 | 2022-07-15 | 2022-07-29 |
 | [Don’t Give A What](https://open.spotify.com/track/3tdKcnxykcmJcssYDGxoC2) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 3:16 | 2022-04-20 | 2022-07-29 |
 | [Don’t Give A What](https://open.spotify.com/track/4bjZomvqHkYJ6cIoyOAjrG) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 3:16 | 2022-07-22 |  |
+| [Freaky](https://open.spotify.com/track/6VgVT2ZxtssMdzrbfW1R0d) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 2:55 | 2022-11-30 |  |
 | [Free Fall](https://open.spotify.com/track/0i9lsYuXfm13smNgSRmhFx) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 | 2022-07-29 |
 | [Free Fall](https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-22 |  |
 | [Gas Me Up](https://open.spotify.com/track/3RCMSJIlIZkvJP4LFGtOtu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 2:29 | 2022-07-22 |  |
@@ -83,6 +85,7 @@
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-22 |  |
 | [SNEAKERS \(English Ver.\)](https://open.spotify.com/track/4DM60RC0fVoHbVRtl4Fjdp) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-22 |  |
 | [SNEAKERS \- English Ver.](https://open.spotify.com/track/4JtAmFcrtdyYpruYS3tuv0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 | 2022-07-29 |
+| [Snowy](https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 2:53 | 2022-11-30 |  |
 | [Sooo LUCKY](https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:22 | 2022-04-20 | 2022-07-29 |
 | [Sooo LUCKY](https://open.spotify.com/track/6zqZfHvp3f9r4AF6G7Nhgl) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:22 | 2022-07-22 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/4BV9bZOeH869aewS9lwTtM) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 3:09 | 2022-07-22 |  |

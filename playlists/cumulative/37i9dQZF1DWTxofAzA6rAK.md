@@ -4,11 +4,11 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-91 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/5CCqycT3xKUm1yqlOpRcRl)
+91 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/6IUtN4Ejh27VhUovFiKUa5) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 | 2022-08-05 |  |
+| [10TH FLOOR](https://open.spotify.com/track/75kpqzf1KraZMAWWOefNvI) | [Brysco](https://open.spotify.com/artist/1W07QMxZ9se7fIk2YSrx4h) | [10TH FLOOR](https://open.spotify.com/album/7Kggx6XJzGumN4ojjBYyWp) | 2:14 | 2022-08-05 |  |
 | [1Matik](https://open.spotify.com/track/1PZplUw7AKK4p6ch8aoK1d) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [1Matik](https://open.spotify.com/album/59gIceHJs6XstV3vX2jooB) | 3:24 | 2021-10-20 |  |
 | [1Uptown](https://open.spotify.com/track/0wi1ky0zqwG8195E4omWui) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [1Uptown](https://open.spotify.com/album/64Vqg5KJpTMnRGHIj0LhyX) | 2:17 | 2022-08-05 |  |
 | [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 | 2021-10-20 | 2022-09-30 |
@@ -79,7 +79,7 @@
 | [Sell Off](https://open.spotify.com/track/7M3nSIriz9CdnQdEviJi3Z) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Sell Off](https://open.spotify.com/album/7pElcZPqnLT2Y9BK0v34D5) | 3:09 | 2022-08-05 |  |
 | [Sidepiece](https://open.spotify.com/track/1WO6MRJNAjq4qV65DpAFOg) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Sidepiece](https://open.spotify.com/album/77BNOHzrIMr1Mpnq5feG77) | 3:06 | 2021-10-20 |  |
 | [Skeng Live Large](https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK) | [Guhoffentertainment](https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV), [Skeng](https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc) | [Skeng Live Large](https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ) | 2:40 | 2021-10-20 |  |
-| [Statistic](https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [Lone Don Entertainment](https://open.spotify.com/artist/5FhEsG3c7rS0SOT4yYvHU0) | [Statistic](https://open.spotify.com/album/2o96kaWezr20piyF7LRqne) | 3:02 | 2022-08-05 |  |
+| [Statistic](https://open.spotify.com/track/19NSqvgwMXkRc1g0FCvaR9) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [Lone Don](https://open.spotify.com/artist/6hajGWsMkjIa0l8vemo3H2) | [Statistic](https://open.spotify.com/album/2o96kaWezr20piyF7LRqne) | 3:02 | 2022-08-05 |  |
 | [Still A Bleed](https://open.spotify.com/track/79fwXVlKbDYOmU5AuzaJnq) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still A Bleed](https://open.spotify.com/album/4RUXFvq2eEoSYFmuhYl4wM) | 3:36 | 2021-10-20 | 2022-10-13 |
 | [Still a Bleed](https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still a Bleed](https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG) | 3:36 | 2022-08-05 |  |
 | [Street Cred](https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Street Cred](https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB) | 2:30 | 2021-10-20 |  |

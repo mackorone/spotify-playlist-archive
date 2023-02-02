@@ -4,7 +4,7 @@
 
 > One of the finest <a href="spotify:artist:7G1GBhoKtEPnP86X2PvEYO">voices</a> we've ever known\. Now hear her greatest songs.
 
-86 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/6NVVeBEdikyEMIP4XuAl13)
+86 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

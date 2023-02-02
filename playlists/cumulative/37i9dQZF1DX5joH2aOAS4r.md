@@ -4,7 +4,7 @@
 
 > Never Forget all their biggest hits.
 
-44 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/3kq7Eh5Ej5ELklsErHYiHP)
+44 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

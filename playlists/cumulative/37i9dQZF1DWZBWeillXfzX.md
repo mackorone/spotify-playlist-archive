@@ -4,7 +4,7 @@
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-71 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/5muGSFLefiwB3XW2mQjEIM)
+71 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Change In Me \(The Rebirth\)](https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Middle of the Road](https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL) | 4:37 | 2020-10-21 |  |
 | [Chief's Blues](https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Defenestrator](https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h) | 7:08 | 2020-10-21 |  |
 | [Chocolate Samurai](https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 4:55 | 2020-10-21 |  |
-| [Clawhammer](https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Clawhammer](https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS) | 4:30 | 2021-09-03 |  |
+| [Clawhammer](https://open.spotify.com/track/3LHH5SAytvRIzj2i3XKvLU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Clawhammer](https://open.spotify.com/album/1ZzwjyLk0uWUYsdMDxXkIS) | 4:30 | 2021-09-03 | 2023-01-18 |
 | [Coal Tattoo](https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [Ashes & Dust](https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04) | 7:26 | 2020-10-21 |  |
 | [Coming Back](https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Headway](https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3) | 2:58 | 2020-10-21 |  |
 | [Coming Back](https://open.spotify.com/track/7dGJME1DMcRLnx3mn0NIKU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Coming Back](https://open.spotify.com/album/5J2jQEjfeXpcERhNnM61Cq) | 2:58 | 2020-10-21 | 2022-07-29 |
@@ -42,13 +42,13 @@
 | [Here Comes the Flood](https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Blues](https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm) | 5:15 | 2020-10-21 |  |
 | [I Want You](https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 6:27 | 2020-10-21 |  |
 | [It Was a Time](https://open.spotify.com/track/2GxMwz9lPseQX7i50M3zXX) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [It Was a Time](https://open.spotify.com/album/1TZBvdUstlgTmKAm5KvpFS) | 3:57 | 2022-11-18 |  |
-| [Keep It Up](https://open.spotify.com/track/0AaIPTctizQbkpg2e1MCh4) | [Phil Buckle](https://open.spotify.com/artist/6nSN81rc3gTANluX5J9KOH), [Jimmy Johnson](https://open.spotify.com/artist/0PAozwlZoME4aQJ6qdpwvV), [Virgil Donati](https://open.spotify.com/artist/0mKi9K7XoFGTNfOhwlxr6Y) | [Keep It Up](https://open.spotify.com/album/7zKBDolt5SBR9L61zJySRu) | 2:54 | 2022-02-25 |  |
+| [Keep It Up](https://open.spotify.com/track/0AaIPTctizQbkpg2e1MCh4) | [Phil Buckle](https://open.spotify.com/artist/6nSN81rc3gTANluX5J9KOH), [Jimmy Johnson](https://open.spotify.com/artist/0PAozwlZoME4aQJ6qdpwvV), [Virgil Donati](https://open.spotify.com/artist/0mKi9K7XoFGTNfOhwlxr6Y) | [Keep It Up](https://open.spotify.com/album/7zKBDolt5SBR9L61zJySRu) | 2:54 | 2022-02-25 | 2022-12-24 |
 | [Keep Your Light on Mama](https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Black Magic](https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2) | 2:54 | 2020-10-21 |  |
 | [Love Ain't My Favorite Word](https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:25 | 2020-10-21 |  |
 | [Nothing But The Night](https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Lay It On Down](https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR) | 4:53 | 2020-10-21 |  |
-| [Out Of My Head](https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 3:20 | 2021-04-27 | 2022-11-23 |
+| [Out Of My Head](https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 3:20 | 2021-04-27 |  |
 | [Outside Of This Town](https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:08 | 2020-10-21 |  |
-| [Pusher](https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Over Your Head](https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c) | 6:28 | 2020-10-21 | 2022-11-13 |
+| [Pusher](https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Over Your Head](https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c) | 6:28 | 2020-10-21 |  |
 | [Quite Like You](https://open.spotify.com/track/3ozWXI9fu58MCaxdCxaJEh) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Laurence Jones Band](https://open.spotify.com/album/28xB2lFXPPOBKUDcdRUIMh) | 4:01 | 2020-10-21 | 2022-07-12 |
 | [Rattlin' Change](https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 1:03 | 2022-01-28 |  |
 | [Roll With the Punches](https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME) | [Martin Harley](https://open.spotify.com/artist/5jkL6b9FUcXjbl0HV6wxmX) | [Roll With the Punches](https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1) | 3:11 | 2020-10-21 |  |

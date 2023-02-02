@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey
 
-125 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/1UiXnI1qTnq267ePzvA7OR)
+125 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [O Mere Dil Ke Chain \(From "Mere Jeevan Saathi"\)](https://open.spotify.com/track/71hanKncfyBt0Yi66LRUYm) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 4:33 | 2021-09-29 |  |
 | [O Saathi Re \- Female Vocals](https://open.spotify.com/track/1dYOciuxgvYcepVR1ZmQNk) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Muqaddar Ka Sikandar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5) | 5:35 | 2021-09-29 | 2022-07-29 |
 | [O Saathi Re \- Male Vocals](https://open.spotify.com/track/63S7VKZE3X5wHVTmSwxuSF) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Muqaddar Ka Sikandar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5) | 4:29 | 2021-09-29 | 2022-07-15 |
-| [Pal Pal Dil Ke Paas \- Blackmail / Soundtrack Version](https://open.spotify.com/track/0HI3O9uCBWtu7B3boRpCaL) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Blackmail](https://open.spotify.com/album/2ynfe6E7ukd6HgaEvVNOwF) | 5:29 | 2021-09-29 |  |
+| [Pal Pal Dil Ke Paas \- From Blackmail](https://open.spotify.com/track/0HI3O9uCBWtu7B3boRpCaL) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Blackmail](https://open.spotify.com/album/2ynfe6E7ukd6HgaEvVNOwF) | 5:29 | 2021-09-29 |  |
 | [Phir Chiddi Raat](https://open.spotify.com/track/5DI7IS8qdv97z9INeqeL15) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar](https://open.spotify.com/album/1S0AbwkAswdVC4oEWGsh8e) | 5:08 | 2021-09-29 | 2022-07-19 |
 | [Phoolon Ke Rang Se](https://open.spotify.com/track/5XDngPrHgHqf7eWBxe2D5L) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Prem Pujari](https://open.spotify.com/album/2BmgtXGVLaxBuI14LAkh8O) | 5:06 | 2021-09-29 | 2022-07-28 |
 | [Piya Tose Naina Laage Re](https://open.spotify.com/track/6yoT89zUSra0wzS1DKFC1w) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Guide](https://open.spotify.com/album/1I60Zkmz3nddV5WFOU6o2T) | 8:29 | 2022-01-05 | 2022-07-26 |

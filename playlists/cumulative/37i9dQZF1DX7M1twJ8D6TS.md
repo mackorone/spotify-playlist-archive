@@ -4,14 +4,15 @@
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-157 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/6kdXzda1LIaxeejkB6DjXj)
+159 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 | 2021-10-08 |  |
 | [A Cowgirl Like You](https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 4:09 | 2022-03-18 |  |
 | [A Life Where We Work Out \(feat\. Kaitlin Butts\)](https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:10 | 2021-04-16 |  |
-| [Ain't a Train](https://open.spotify.com/track/2iMcoxNfwUwTrKVNX1ZQya) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H) | 3:05 | 2021-04-16 |  |
+| [Ain't a Train](https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a) | 3:05 | 2022-05-27 |  |
+| [Ain't a Train](https://open.spotify.com/track/2iMcoxNfwUwTrKVNX1ZQya) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [After the Fire](https://open.spotify.com/album/7Cu0ei3sULRRyK21741f3H) | 3:05 | 2021-04-16 | 2023-01-07 |
 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 | 2022-03-18 |  |
 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 | 2022-05-27 |  |
 | [Around Forever](https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 3:45 | 2021-09-24 |  |
@@ -43,7 +44,8 @@
 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2022-03-18 |  |
 | [Fall](https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:26 | 2022-05-27 |  |
 | [Fall](https://open.spotify.com/track/6fbxJQV3A0xQ6qsqHKvPnc) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last](https://open.spotify.com/album/2QDR2ZYmHL11vgEqYv2fn7) | 3:26 | 2021-04-16 | 2022-07-29 |
-| [Fast Lane](https://open.spotify.com/track/1T5IbNS5mqd0hx1TGZoacY) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/5nVtIAQNEJItZS7eJhJiKD) | 4:06 | 2021-04-16 |  |
+| [Fast Lane](https://open.spotify.com/track/1T5IbNS5mqd0hx1TGZoacY) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/5nVtIAQNEJItZS7eJhJiKD) | 4:06 | 2021-04-16 | 2023-01-07 |
+| [Fast Lane](https://open.spotify.com/track/2lqC75TB8cuEP8ZQ6L9zi5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Fast Lane](https://open.spotify.com/album/3Wbvu7BTO6PjTEEHGUmdxg) | 4:06 | 2022-05-27 |  |
 | [Feels Right](https://open.spotify.com/track/7tEvD2vzhu8FnZ2i4EdPsU) | [Logan Samford](https://open.spotify.com/artist/2szN0HF9UCH9ZkGkkoGqVz) | [Feels Right](https://open.spotify.com/album/40jOCf6bWDCLNsLSzEBvuX) | 3:24 | 2022-03-18 |  |
 | [Feels This Right](https://open.spotify.com/track/6i7dw0Z5BDEnwVYk84bQmf) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:18 | 2021-04-16 | 2022-03-19 |
 | [First Dirt Road](https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [First Dirt Road](https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3) | 3:23 | 2021-04-16 |  |

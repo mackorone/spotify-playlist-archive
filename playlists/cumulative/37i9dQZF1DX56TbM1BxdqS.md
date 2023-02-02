@@ -4,7 +4,7 @@
 
 > Remembering the showman Raj Kapoor with these hits.
 
-54 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/0L3BbuSHnIISz4vjwpwOke)
+54 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

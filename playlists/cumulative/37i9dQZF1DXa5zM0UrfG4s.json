@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
+  "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du kan spelle i kjerra! Cover: Hagle",
   "name": "Livet p\u00e5 B\u00f8gda!",
-  "published_playlist_ids": [
-    "3zMqShr44pcg3CK0Psc64W"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "18 \u00c5R (Vennepunktet)",
       "url": "https://open.spotify.com/track/2NIFOonQvvqYNWzObCFFh8"
@@ -351,7 +348,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": "2023-01-26",
       "duration_ms": 149926,
       "name": "Baksetefylla",
       "url": "https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO"
@@ -477,7 +474,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 165612,
       "name": "Besseggen",
       "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
@@ -1241,7 +1238,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 163346,
       "name": "En g\u00e5ng till",
       "url": "https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58"
@@ -1449,7 +1446,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 170135,
       "name": "Evig vandring",
       "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
@@ -1565,7 +1562,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 151304,
       "name": "Flaska",
       "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
@@ -1715,6 +1712,32 @@
       "duration_ms": 118125,
       "name": "Fylleangst",
       "url": "https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9"
+    },
+    {
+      "album": {
+        "name": "F\u00f6rsta G\u00e5ngen I En EPA",
+        "url": "https://open.spotify.com/album/0DjX2jGILQdifC55byMol6"
+      },
+      "artists": [
+        {
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        },
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155820,
+      "name": "F\u00f6rsta G\u00e5ngen I En EPA",
+      "url": "https://open.spotify.com/track/7I2nD5Z74Ein0fa1P20Zfz"
     },
     {
       "album": {
@@ -1881,7 +1904,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2022-12-26",
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
@@ -2182,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Hon kan inte banka pl\u00e5t",
+        "url": "https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128690,
+      "name": "Hon kan inte banka pl\u00e5t",
+      "url": "https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9"
+    },
+    {
+      "album": {
         "name": "Hot Girls (dricker hotshots)",
         "url": "https://open.spotify.com/album/6z5uLVB0RW6M8Yj5KLEA7H"
       },
@@ -2350,6 +2391,32 @@
     },
     {
       "album": {
+        "name": "H\u00e4lsa Gud",
+        "url": "https://open.spotify.com/album/7imYelkBM9wWrcy8syQgDd"
+      },
+      "artists": [
+        {
+          "name": "JENTAN",
+          "url": "https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "H\u00e4lsa Gud",
+      "url": "https://open.spotify.com/track/4owtkzhI4uCeagbsgTajFg"
+    },
+    {
+      "album": {
         "name": "H\u00e5per du er lykkelig n\u00e5",
         "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
       },
@@ -2405,6 +2472,28 @@
       "duration_ms": 145666,
       "name": "H\u00e6ljetur",
       "url": "https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS"
+    },
+    {
+      "album": {
+        "name": "H\u00d6RRU BARTENDER",
+        "url": "https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145925,
+      "name": "H\u00d6RRU BARTENDER",
+      "url": "https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx"
     },
     {
       "album": {
@@ -2547,7 +2636,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 117589,
       "name": "JAG T\u00c5L INTE ET NEI",
       "url": "https://open.spotify.com/track/1T3Amb9ELrHxGoo4U5BYce"
@@ -2743,7 +2832,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 163140,
       "name": "Kentucky",
       "url": "https://open.spotify.com/track/0yx17H9TNoUkDpRCTxjsQs"
@@ -2917,7 +3006,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 205818,
       "name": "Kongen av campingplassen",
       "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
@@ -3231,6 +3320,24 @@
       "duration_ms": 184508,
       "name": "Mawbys",
       "url": "https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv"
+    },
+    {
+      "album": {
+        "name": "ALBUMTRAOZ",
+        "url": "https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 127058,
+      "name": "Mcdonalds",
+      "url": "https://open.spotify.com/track/4cFsatzEJO0qROt1Dj5z8u"
     },
     {
       "album": {
@@ -4041,7 +4148,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 148173,
       "name": "RUN IT BACK",
       "url": "https://open.spotify.com/track/6L0OxFD3iEAiveGUZ6KNAw"
@@ -4066,6 +4173,24 @@
     },
     {
       "album": {
+        "name": "P\u00e5 vei",
+        "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235853,
+      "name": "Rundt neste sving",
+      "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
+    },
+    {
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/03p4hxaB9DqC7Kh5bAkb8b"
       },
@@ -4081,6 +4206,24 @@
       "duration_ms": 232853,
       "name": "Scania fra 1973",
       "url": "https://open.spotify.com/track/149qw7uPNyeYjZbF1TtOq5"
+    },
+    {
+      "album": {
+        "name": "SE P\u00c5 MIG JAG DANSAR UTAN DIG",
+        "url": "https://open.spotify.com/album/4Jz3pUrONbYOyGZ7bnJiJS"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119803,
+      "name": "SE P\u00c5 MIG JAG DANSAR UTAN DIG",
+      "url": "https://open.spotify.com/track/0p2xrYWk6xXNoYG4FPdvYD"
     },
     {
       "album": {
@@ -4762,6 +4905,32 @@
     },
     {
       "album": {
+        "name": "TRAKTEN TILL EPAN (feat 1.Cuz & FR\u00d6KEN SNUSK)",
+        "url": "https://open.spotify.com/album/0oYqqPkucziudAvLm4tyfa"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "TRAKTEN TILL EPAN (feat 1.Cuz & FR\u00d6KEN SNUSK)",
+      "url": "https://open.spotify.com/track/0u8AMrMBM6S3YBDfPYwMfe"
+    },
+    {
+      "album": {
         "name": "Tv\u00e5 T\u00f6lver",
         "url": "https://open.spotify.com/album/4X7kcwcsUFzrIxtYuWZlEp"
       },
@@ -4903,7 +5072,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 226946,
       "name": "Vakker og vill",
       "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
@@ -5093,7 +5262,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 151933,
       "name": "Wellerman",
       "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"

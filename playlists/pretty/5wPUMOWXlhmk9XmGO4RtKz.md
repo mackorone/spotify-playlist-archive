@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5wPUMOWXlhmk9XmGO4RtKz.md) - [plain]
 
 > Some nice little jams to make the ride smooth\. To quote Dom Kennedy &quot;Pleeze Make It Home Safe&quot; \(also closing song\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,600 likes - 40 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,526 likes - 40 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

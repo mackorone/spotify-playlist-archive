@@ -4,7 +4,7 @@
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 
-32 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/1V8WWR5ROjEXfGUfw3HRgC)
+32 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Inizia la giornata con la tua dose di caff\u00e8 e carica musicale! ",
   "name": "Caff\u00e8 del Buongiorno",
-  "published_playlist_ids": [
-    "7C2UJmFUbC0XzdnPAkeOBo"
-  ],
   "tracks": [
     {
       "album": {
@@ -417,7 +414,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Call On Me (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo"
@@ -1131,7 +1128,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 156960,
       "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG"
@@ -1624,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6WtvmIQ1CPfH7vI2C0wn1E"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142773,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/2IzUjVfO3UrAY73UjHHsGi"
+    },
+    {
+      "album": {
         "name": "Love To Lose",
         "url": "https://open.spotify.com/album/1K5uj6UM29p2LCqUm0kv1Q"
       },
@@ -1981,7 +1996,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
@@ -2411,7 +2426,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 180642,
       "name": "SNAP - Italian",
       "url": "https://open.spotify.com/track/2jLW0YomEl9zIal6P7QPpc"
@@ -2429,7 +2444,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 175601,
       "name": "Some Say",
       "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"

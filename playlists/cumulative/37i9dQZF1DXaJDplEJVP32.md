@@ -4,7 +4,7 @@
 
 > Spotify music editors' choice for the best Christian & Gospel songs of the past decade\. Cover: Lauren Daigle
 
-125 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/0TupOSoExWTFm7RlDxnebb)
+125 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

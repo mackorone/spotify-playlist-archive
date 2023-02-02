@@ -4,7 +4,7 @@
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-75 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/3yUTzo8lbBlDnOya9cliI9)
+75 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Festival](https://open.spotify.com/track/0SBrGzg3tqlKCWVelWHXYm) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Festival](https://open.spotify.com/album/4ENYEEWdasGNG5YYGbX4Zx) | 3:27 | 2020-04-27 |  |
 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 | 2020-04-27 |  |
 | [Hey DJ \- Pop Version](https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Hey DJ \(Pop Version\)](https://open.spotify.com/album/5hHBkqV6gED9WKE6qr0DfP) | 3:06 | 2020-04-27 |  |
-| [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 | 2020-04-27 |  |
+| [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:39 | 2020-04-27 |  |
 | [I Like To Move It](https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \(Music From The Motion Picture\)](https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG) | 3:41 | 2020-04-27 |  |
 | [I Like To Move It](https://open.spotify.com/track/6FDncQmNl6WfOZDCpcrcti) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \- Music From The Motion Picture](https://open.spotify.com/album/53HHf3pv5FGl41cIa8iJQU) | 3:41 | 2020-04-27 | 2022-07-29 |
 | [I Like To Move It](https://open.spotify.com/track/3hYvZHS6dqEhvBbO302MjR) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Fiesta despúes de la siesta](https://open.spotify.com/album/4h6x8zsA7RXuHL2TEkYYy0) | 3:42 | 2020-04-27 | 2022-08-22 |

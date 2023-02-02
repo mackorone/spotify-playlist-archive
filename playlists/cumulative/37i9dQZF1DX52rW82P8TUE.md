@@ -4,7 +4,7 @@
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-55 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/6J4UiToUci4KVXg8qFi6GM)
+56 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Caminho no Deserto \- Versão Kids](https://open.spotify.com/track/1J1eBc6ECu1cZq7JslY4VG) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp), [Kaiky Mello](https://open.spotify.com/artist/576aczLz6CXzj9E0WZ1EJw) | [Caminho no Deserto \(Versão Kids\)](https://open.spotify.com/album/34EQIvp5R1X7n4chgsK1PR) | 5:33 | 2022-09-02 |  |
 | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg) | 3:33 | 2022-09-02 |  |
 | [Com Jesus](https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [Com Jesus](https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60) | 2:58 | 2022-09-02 |  |
+| [Conectada Com Deus](https://open.spotify.com/track/0mdbQRBEonvAxHHJsS5UCj) | [Aline Nascimento](https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4) | [Conectada Com Deus](https://open.spotify.com/album/58yeAD8aegEUHWbQBZp3mx) | 2:33 | 2023-01-20 |  |
 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 | 2022-09-02 |  |
 | [Criança Nota 10](https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Coral de Crianças](https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi) | [Criança Nota 10](https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3) | 2:44 | 2022-09-02 |  |
 | [Dança do Canguru](https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 2:53 | 2022-09-02 |  |
@@ -43,7 +44,7 @@
 | [Meu Coração](https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Meu Coração](https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4) | 2:17 | 2022-09-02 |  |
 | [Minha Pequena Luz](https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Minha Pequena Luz](https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9) | 2:02 | 2022-09-02 |  |
 | [Na Trilha da Criação](https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335) | [Margem Norte Kids](https://open.spotify.com/artist/7MqM27ki9IN3dGwGttHIYa) | [Na Trilha da Criação](https://open.spotify.com/album/7L2eWc0MQm3Da6L80gd6jW) | 2:38 | 2022-10-14 |  |
-| [Não Temos Medo do Fogo](https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Minha Vida É uma Viagem 5](https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK) | 3:05 | 2022-09-02 |  |
+| [Não Temos Medo do Fogo](https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Minha Vida É uma Viagem 5](https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK) | 3:05 | 2022-09-02 |  |
 | [O Amor do Nosso Deus](https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer) | [Crianças Diante do Trono](https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5) | [Crianças Diante do Trono](https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk) | 5:10 | 2022-09-02 |  |
 | [Obra do Criador \- Ao Vivo](https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw) | [Louvor Videira Kids](https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu) | [Comigo Sonhou](https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV) | 3:07 | 2022-09-02 |  |
 | [Oceanos](https://open.spotify.com/track/1IAuelibP1msP0p6ztsLpV) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Oceanos](https://open.spotify.com/album/3FleqT33sYIhpOTkWYKbsM) | 3:54 | 2022-09-02 | 2022-11-10 |
@@ -61,7 +62,7 @@
 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 | 2022-09-02 |  |
 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 | 2022-09-02 |  |
 | [Todo Olho o Verá](https://open.spotify.com/track/5ObzGyGLgiOhAv0etKoboF) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Minha Vida É uma Viagem 4](https://open.spotify.com/album/0TOnCsiORdMr35eFNYYA6s) | 3:17 | 2022-09-02 | 2022-10-15 |
-| [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 | 2022-09-02 |  |
+| [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 | 2022-09-02 |  |
 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 | 2022-09-02 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

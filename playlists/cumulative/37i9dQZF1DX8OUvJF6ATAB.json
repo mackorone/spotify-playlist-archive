@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-25",
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
   "name": "Exospheres",
-  "published_playlist_ids": [
-    "4jkUs66aepxZIx8eyJu8qK"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-18",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "1969",
       "url": "https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv"
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 184125,
       "name": "5th Night",
       "url": "https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY"
@@ -282,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Ambient 23",
+        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481906,
+      "name": "amb23 - 1",
+      "url": "https://open.spotify.com/track/1QRY2siHgU2LkwQWIGHcXz"
+    },
+    {
+      "album": {
         "name": "AMORE AMARO",
         "url": "https://open.spotify.com/album/4dij1DQUNPbQyWLdTK7nif"
       },
@@ -311,7 +326,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 298475,
       "name": "Anarkian kuvajainen",
       "url": "https://open.spotify.com/track/7EIMEIJRjWJpYmJCd5pwuN"
@@ -463,7 +478,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 311986,
       "name": "Asteria - Alva Noto Remodel",
       "url": "https://open.spotify.com/track/4wZi1G6Kh8aBDRO2HcjbcJ"
@@ -1297,7 +1312,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 288500,
       "name": "DRAHTKURBEL",
       "url": "https://open.spotify.com/track/3euqW42c6yR3DP4GgIIwpE"
@@ -1395,7 +1410,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 234691,
       "name": "Echo//Radiate",
       "url": "https://open.spotify.com/track/5879mtm6fGtiYJVU7PUiD6"
@@ -1577,7 +1592,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
@@ -2130,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Fungipedia",
+        "url": "https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO"
+      },
+      "artists": [
+        {
+          "name": "Azulina",
+          "url": "https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Inocybe",
+      "url": "https://open.spotify.com/track/0yHW5bqjYuHYppJr4V59lc"
+    },
+    {
+      "album": {
         "name": "Anoyo",
         "url": "https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T"
       },
@@ -2441,7 +2474,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
@@ -3287,7 +3320,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 305353,
       "name": "Overlay - KMRU Remix",
       "url": "https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8"
@@ -3341,7 +3374,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-25",
       "duration_ms": 730640,
       "name": "PHANTOM BRICKWORKS V",
       "url": "https://open.spotify.com/track/3jUCRVIDljT8IDNhhRKJyI"
@@ -3474,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "Infinita Incertidumbre",
+        "url": "https://open.spotify.com/album/53eUTbEJRh5YErWgEU8Nos"
+      },
+      "artists": [
+        {
+          "name": "Microhm",
+          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212909,
+      "name": "Presente y pasado",
+      "url": "https://open.spotify.com/track/5gJRzZRvusVHbuAtheMRt9"
+    },
+    {
+      "album": {
         "name": "Lost Album",
         "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
       },
@@ -3521,7 +3572,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 235555,
       "name": "Recuerdos del Futuro",
       "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"
@@ -3647,7 +3698,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 374679,
       "name": "Rise",
       "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
@@ -3683,7 +3734,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 285145,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/3iwhnEIa8SILkNd1j2PWG3"
@@ -4015,7 +4066,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 1544292,
       "name": "Spopolatore",
       "url": "https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI"
@@ -4127,7 +4178,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 229367,
       "name": "Street Talk",
       "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
@@ -4203,7 +4254,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 294000,
       "name": "Suspension",
       "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
@@ -4225,6 +4276,28 @@
       "duration_ms": 307546,
       "name": "Tangente",
       "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
+    },
+    {
+      "album": {
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
+      },
+      "artists": [
+        {
+          "name": "Braulio Lam",
+          "url": "https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS"
+        },
+        {
+          "name": "Simonel",
+          "url": "https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Tape Loops and Expired Film",
+      "url": "https://open.spotify.com/track/6DroDiBF5mmxH4YWctAyRP"
     },
     {
       "album": {
@@ -4327,6 +4400,28 @@
       "duration_ms": 231494,
       "name": "The Cage",
       "url": "https://open.spotify.com/track/1PIHkD3asRl8CiDkQNS5OX"
+    },
+    {
+      "album": {
+        "name": "Just Before Silence",
+        "url": "https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn"
+      },
+      "artists": [
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        },
+        {
+          "name": "Menhir",
+          "url": "https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 231494,
+      "name": "The Cage",
+      "url": "https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7"
     },
     {
       "album": {
@@ -4686,6 +4781,24 @@
     },
     {
       "album": {
+        "name": "Personal Territories",
+        "url": "https://open.spotify.com/album/4nfCaPmruDp3PiVjBivLzc"
+      },
+      "artists": [
+        {
+          "name": "Concepci\u00f3n Huerta",
+          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Travel",
+      "url": "https://open.spotify.com/track/0SnD5awSAVP2Kn4bAFdXDY"
+    },
+    {
+      "album": {
         "name": "Islands, Pt. 2",
         "url": "https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd"
       },
@@ -4913,7 +5026,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 389681,
       "name": "Water Music",
       "url": "https://open.spotify.com/track/6PN8bVP6kjAW6UwqileVWR"
@@ -5025,7 +5138,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 193310,
       "name": "White Cyclosa",
       "url": "https://open.spotify.com/track/4aoSnKywSeejCyNK9KmHg1"
@@ -5115,7 +5228,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 475965,
       "name": "XO 4 - Wolf 1061c",
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
@@ -5227,6 +5340,24 @@
       "duration_ms": 336000,
       "name": "Zorza",
       "url": "https://open.spotify.com/track/1KRAvMxcvm62rAHUzs9n00"
+    },
+    {
+      "album": {
+        "name": "Zorza",
+        "url": "https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6"
+      },
+      "artists": [
+        {
+          "name": "Pruski",
+          "url": "https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Zorza",
+      "url": "https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8OUvJF6ATAB"

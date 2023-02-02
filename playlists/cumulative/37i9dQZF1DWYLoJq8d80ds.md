@@ -2,9 +2,9 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: AHYRE
 
-137 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+140 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Corazón Carnavalero](https://open.spotify.com/track/4NdkVqa59EUihYeaeNxJkk) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Tierrita](https://open.spotify.com/album/5W5arztiaKJ9k1dQsZEyXa) | 3:13 | 2021-12-31 |  |
 | [Corazón de Lechiguana](https://open.spotify.com/track/40KKM026TAT4sPNCQ2lKJm) | [Lucrecia Rodrigo](https://open.spotify.com/artist/1SYetf78ctGyoC8SSuargh), [Añapa Dúo](https://open.spotify.com/artist/7DkcfDuf8COfc9RGmcTpxG) | [Natural](https://open.spotify.com/album/45PIeay1Qdiv4TaPNC071j) | 2:26 | 2021-12-31 |  |
 | [Cuando Canto Chacarera](https://open.spotify.com/track/7hm9QgvT2CWFL8rLX21KSD) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Cuando Canto Chacarera](https://open.spotify.com/album/1opVRKCK6j2oskwXt3e5vU) | 3:02 | 2021-12-31 |  |
+| [Cusco](https://open.spotify.com/track/3JxuJd4IskavzFgVJEXolo) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Cusco](https://open.spotify.com/album/6H3ubwOSc8Z1plrQjM4to8) | 5:20 | 2023-01-27 |  |
 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 | 2021-12-31 |  |
 | [De ahicito](https://open.spotify.com/track/5u7lYW3VKzFI90N1NSAQzD) | [Los Zorzales](https://open.spotify.com/artist/1Hq5LTPkhFbLas8UrI4w22) | [Paisajes de mi tierra](https://open.spotify.com/album/1YobWqjgJmjAwWURPTsxmw) | 3:17 | 2021-12-31 |  |
 | [Desvío](https://open.spotify.com/track/3E7JDPzzJh5BhivXutrXAz) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 2:43 | 2021-12-31 |  |
@@ -55,12 +56,13 @@
 | [Ilusión de Carnaval](https://open.spotify.com/track/7zm6z0z9F1m57JEGqre5Io) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Ilusión de Carnaval](https://open.spotify.com/album/6a88iIbN8DnXF4cHcdyTx1) | 2:58 | 2021-12-31 |  |
 | [Juan de la Calle](https://open.spotify.com/track/3DPLr9BavOPisMFAHwsCCJ) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/5TyDRD791MEoJfshww4v4K) | 2:53 | 2021-12-31 | 2022-07-29 |
 | [Juan de la Calle](https://open.spotify.com/track/6jIh1e1KgSF5c7FaK0rmC5) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR) | 2:55 | 2022-07-01 |  |
-| [Juglar Chuncano](https://open.spotify.com/track/5FTwYtNlI7G5fWSGjaPVWU) | [Chechelos](https://open.spotify.com/artist/6a24LyJKiILo37aDxHVDL6), [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [Juglar Chuncano](https://open.spotify.com/album/13Mj1uBTzv5Pp2JwPLBFla) | 2:32 | 2021-12-31 |  |
+| [Juglar Chuncano](https://open.spotify.com/track/5FTwYtNlI7G5fWSGjaPVWU) | [Chechelos](https://open.spotify.com/artist/6a24LyJKiILo37aDxHVDL6), [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [Juglar Chuncano](https://open.spotify.com/album/13Mj1uBTzv5Pp2JwPLBFla) | 2:33 | 2021-12-31 |  |
 | [Kuntur](https://open.spotify.com/track/7xhqqjuPlSs2kLnrLRskBc) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Kuntur](https://open.spotify.com/album/1ZBqCd1fTi93qpDutvmJtS) | 3:19 | 2021-12-31 |  |
 | [La Alucinada](https://open.spotify.com/track/6HVG1pjvGHxmOdQj4TQWJ0) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [La Alucinada](https://open.spotify.com/album/2Xa4MMFxqXoPXD7u7JcfXf) | 2:38 | 2021-12-31 |  |
 | [La Bicicleta](https://open.spotify.com/track/7c5AYFF7kNDnDTLjxuzDaF) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [La Bicicleta](https://open.spotify.com/album/6tC0mVd9UooFsdbD2hwe1o) | 3:30 | 2022-04-29 |  |
 | [La Canción de la Alegría](https://open.spotify.com/track/41rWjU20AiwfVN5pmOtn6I) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Canción de la Alegría](https://open.spotify.com/album/6BT25DiCRkOLy3om6fE23O) | 3:31 | 2022-07-01 |  |
 | [La Canción de la Alegría](https://open.spotify.com/track/4ecpwcIuLSrnon9Te6aMxf) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Canción de la Alegría](https://open.spotify.com/album/6wfZc70VuJqOIdIh67ZwwJ) | 3:31 | 2021-12-31 | 2022-07-29 |
+| [La de los Violineros](https://open.spotify.com/track/0BuGlPsJYERQO0sTtIAaYW) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [La de los Violineros](https://open.spotify.com/album/6JaE72sn3c5Gnj80EVSb5C) | 2:41 | 2022-11-28 |  |
 | [La Gringa](https://open.spotify.com/track/0KVEYVcWNe1ElvxWUz8ytv) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Gringa](https://open.spotify.com/album/70JjRfi0iqNze4DinXtLfy) | 4:17 | 2021-12-31 |  |
 | [La Leyenda de la Brasita de Fuego](https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:12 | 2021-12-31 |  |
 | [La Llama Que Baila](https://open.spotify.com/track/2m6x7oUG9zUtdPpqcwhHRW) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Llama Que Baila](https://open.spotify.com/album/2L9HQCa7QjweXkoolZdY6u) | 2:51 | 2021-12-31 | 2022-08-24 |
@@ -84,6 +86,7 @@
 | [Lavandera](https://open.spotify.com/track/7dELogj4xgs0lpF7v5WjuO) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Lavandera](https://open.spotify.com/album/3sKyCsmSmikXVchbnC0O97) | 2:50 | 2021-12-31 |  |
 | [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 | 2021-12-31 |  |
 | [Lo Intentamos](https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:01 | 2022-02-25 | 2022-10-08 |
+| [Lo Jujeño](https://open.spotify.com/track/74WFDFXIP58qhGYkklkH20) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Lo Jujeño](https://open.spotify.com/album/5ruxuaQ8tKTXlNMqSZu3hX) | 2:14 | 2023-01-27 |  |
 | [Lágrimas de Amor](https://open.spotify.com/track/1BYoQjba1juC70CeBkbtTV) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 3:06 | 2021-12-31 | 2022-03-12 |
 | [Mi Fe](https://open.spotify.com/track/3SeELV9ls4SHFg6bsbNqW6) | [Los Rojas](https://open.spotify.com/artist/2Jro2lFfaK1LiUIIY8Ff48) | [Mi Fe](https://open.spotify.com/album/6OT3Ld1cSlVqhH7VoyYRmj) | 2:13 | 2021-12-31 |  |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |

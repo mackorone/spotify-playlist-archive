@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.",
   "name": "Grand Theft Auto",
-  "published_playlist_ids": [
-    "07zQ9oB93lOCDNyT1Xbj2x"
-  ],
   "tracks": [
     {
       "album": {
@@ -44,7 +41,7 @@
     },
     {
       "album": {
-        "name": "Original Billboard Hits (Original Gusto Recordings)",
+        "name": "Original Billboard Hits",
         "url": "https://open.spotify.com/album/4K7P6mqbgd0TnqnFDNXXQP"
       },
       "artists": [
@@ -57,7 +54,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150000,
-      "name": "(It Won\u2019t Be Long) And I\u2019ll Be Hating You - Original Gusto Recordings",
+      "name": "(It Won\u2019t Be Long) And I\u2019ll Be Hating You",
       "url": "https://open.spotify.com/track/4wbHM56BWvQbLz4GT2cgOG"
     },
     {
@@ -113,10 +110,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 87200,
       "name": "1988 (From Grand Theft Auto Online: The Cayo Perico Heist)",
       "url": "https://open.spotify.com/track/3tsNrLJC2Jylql6nLtSMLO"
+    },
+    {
+      "album": {
+        "name": "1988 (From Grand Theft Auto Online: The Cayo Perico Heist)",
+        "url": "https://open.spotify.com/album/5Qjyud5y495lJIP8BqdSOf"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87200,
+      "name": "1988 (From Grand Theft Auto Online: The Cayo Perico Heist)",
+      "url": "https://open.spotify.com/track/4ZpNY4Hu3zKusyeXpCTTPj"
     },
     {
       "album": {
@@ -287,7 +302,7 @@
     {
       "album": {
         "name": "Bim Bam Bam (From Grand Theft Auto Online: The Cayo Perico Heist)",
-        "url": "https://open.spotify.com/album/4jETOwgldZeg0b8VrM5mKW"
+        "url": "https://open.spotify.com/album/70vIB12zLNnfvIiQ9YY9hC"
       },
       "artists": [
         {
@@ -298,6 +313,24 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217384,
+      "name": "Bim Bam Bam (From Grand Theft Auto Online: The Cayo Perico Heist)",
+      "url": "https://open.spotify.com/track/0Cfs5hD4TUSmBE7Ta1CgwY"
+    },
+    {
+      "album": {
+        "name": "Bim Bam Bam (From Grand Theft Auto Online: The Cayo Perico Heist)",
+        "url": "https://open.spotify.com/album/4jETOwgldZeg0b8VrM5mKW"
+      },
+      "artists": [
+        {
+          "name": "KOKOKO!",
+          "url": "https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 217384,
       "name": "Bim Bam Bam (From Grand Theft Auto Online: The Cayo Perico Heist)",
       "url": "https://open.spotify.com/track/5VbMIDLX6R4pyoWhy2kO7q"
@@ -547,6 +580,28 @@
     {
       "album": {
         "name": "Grand Theft Auto: Chinatown Wars",
+        "url": "https://open.spotify.com/album/4FFEmggVvgWKgRMFgAUpzC"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219715,
+      "name": "Chinatown Wars",
+      "url": "https://open.spotify.com/track/33l9Eek1u9BpDJSLGfBOh9"
+    },
+    {
+      "album": {
+        "name": "Grand Theft Auto: Chinatown Wars",
         "url": "https://open.spotify.com/album/5Vmlz8Ir6m2efzAysdACS3"
       },
       "artists": [
@@ -557,7 +612,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 219715,
       "name": "Chinatown Wars",
       "url": "https://open.spotify.com/track/2w40syGl9qdWmaLbstkATO"
@@ -1105,10 +1160,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 208586,
       "name": "Garbage",
       "url": "https://open.spotify.com/track/03Z9Xiu6te6MbMRlICuDGL"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "Garbage",
+      "url": "https://open.spotify.com/track/10s2eN17PASGcpyuBgdr0G"
     },
     {
       "album": {
@@ -1193,7 +1266,7 @@
     {
       "album": {
         "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
-        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+        "url": "https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr"
       },
       "artists": [
         {
@@ -1208,6 +1281,28 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Hold Up (feat. Nipsey Hustle)",
+      "url": "https://open.spotify.com/track/1jxrIScT7WcT5MFZVZZpxk"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+      },
+      "artists": [
+        {
+          "name": "Marion Band$",
+          "url": "https://open.spotify.com/artist/7oCbBiAkDv2eMDU5LGB9NL"
+        },
+        {
+          "name": "Nipsey Hustle",
+          "url": "https://open.spotify.com/artist/6FcvRNZ8o4IUkD91v0UvpN"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
       "duration_ms": 232133,
       "name": "Hold Up (feat. Nipsey Hustle)",
       "url": "https://open.spotify.com/track/240mp2P9Iv7iqG30Y8eu3L"
@@ -1881,7 +1976,7 @@
     {
       "album": {
         "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
-        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+        "url": "https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr"
       },
       "artists": [
         {
@@ -1892,6 +1987,24 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 297293,
+      "name": "Nine Is God",
+      "url": "https://open.spotify.com/track/5ZGM626be3ItMW4UPjfqdY"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
       "duration_ms": 297293,
       "name": "Nine Is God",
       "url": "https://open.spotify.com/track/6sChW7Z0IwSvvBR6m4dMws"
@@ -1967,10 +2080,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 122979,
       "name": "O Mio Babbino Caro (Hudson Mohawke Remix)",
       "url": "https://open.spotify.com/track/2Wj06oxxu4OSiofAnPM0cl"
+    },
+    {
+      "album": {
+        "name": "O Mio Babbino Caro (Hudson Mohawke Remix)",
+        "url": "https://open.spotify.com/album/2eTGducRtIvvywcsd6WPJX"
+      },
+      "artists": [
+        {
+          "name": "Grand Theft Auto III",
+          "url": "https://open.spotify.com/artist/0jj7B4Q0qdWkrydEc3bwfk"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122979,
+      "name": "O Mio Babbino Caro - Hudson Mohawke Remix",
+      "url": "https://open.spotify.com/track/1OUduMYTfDf6bAd00zxFGB"
     },
     {
       "album": {
@@ -2003,10 +2134,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 233066,
       "name": "Old Love / New Love",
       "url": "https://open.spotify.com/track/6e1rpOJQIXivYKXOBLoAn2"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233066,
+      "name": "Old Love / New Love",
+      "url": "https://open.spotify.com/track/7ah7ropOQbN7tRy4PiiW5a"
     },
     {
       "album": {
@@ -2225,10 +2374,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 139706,
       "name": "r - Cali",
       "url": "https://open.spotify.com/track/2oMOqX9k4k16odibNkYyrD"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139706,
+      "name": "r - Cali",
+      "url": "https://open.spotify.com/track/6AtscuPpNRwDvuehpFtWw1"
     },
     {
       "album": {
@@ -2599,7 +2766,7 @@
     {
       "album": {
         "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
-        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+        "url": "https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr"
       },
       "artists": [
         {
@@ -2610,6 +2777,24 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218693,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/0j4mJiFv3L87bl9X5MPMsm"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+      },
+      "artists": [
+        {
+          "name": "The Chain Gang Of 1974",
+          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
       "duration_ms": 218693,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/1zdsOgv1hdGGGe9CK1QPY7"
@@ -2653,6 +2838,28 @@
     {
       "album": {
         "name": "The Music of Grand Theft Auto IV",
+        "url": "https://open.spotify.com/album/1TbLVY5HqL8DPlHtAVXlVj"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345704,
+      "name": "Stand Up Jamrock",
+      "url": "https://open.spotify.com/track/1SL530xuXv4aqHnLPR8zQG"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto IV",
         "url": "https://open.spotify.com/album/0lTknHCG5YS0NeVWZuiWzm"
       },
       "artists": [
@@ -2663,7 +2870,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 345704,
       "name": "Stand Up Jamrock",
       "url": "https://open.spotify.com/track/3p60ih8Ur9MfYVW5yIKApb"
@@ -2743,10 +2950,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 258293,
       "name": "Stonecutters",
       "url": "https://open.spotify.com/track/2vdlWigVYG6DhduvKOXoRA"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258293,
+      "name": "Stonecutters",
+      "url": "https://open.spotify.com/track/4w8GzssMiUNcrmkJkal6nh"
     },
     {
       "album": {
@@ -3059,7 +3284,7 @@
     {
       "album": {
         "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
-        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+        "url": "https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr"
       },
       "artists": [
         {
@@ -3070,6 +3295,24 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 243120,
+      "name": "The Set Up",
+      "url": "https://open.spotify.com/track/5ObACsupwtxnYfOWKO0Wzo"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+      },
+      "artists": [
+        {
+          "name": "Favored Nations",
+          "url": "https://open.spotify.com/artist/2kwaccOo07oL6joEC5Kc2X"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
       "duration_ms": 243120,
       "name": "The Set Up",
       "url": "https://open.spotify.com/track/5XLjIFOigk5R4oc9UUuG8M"
@@ -3221,7 +3464,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 195216,
       "name": "Vacilar Contigo",
       "url": "https://open.spotify.com/track/05HWPXzqfWx6Xm2YpS4Iuk"
@@ -3243,7 +3486,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195216,
       "name": "Vacilar Contigo",
       "url": "https://open.spotify.com/track/5ktUa06LisFFjJZG2BmH2y"
@@ -3297,10 +3540,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 148401,
       "name": "War Is Necessary",
       "url": "https://open.spotify.com/track/0g9NT0ve6iUVUfNbRIaGNz"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto IV",
+        "url": "https://open.spotify.com/album/1TbLVY5HqL8DPlHtAVXlVj"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148401,
+      "name": "War Is Necessary",
+      "url": "https://open.spotify.com/track/7xuStBmO8K78VQDgqrMpx9"
     },
     {
       "album": {
@@ -3413,7 +3674,7 @@
     {
       "album": {
         "name": "Windowlicker",
-        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
+        "url": "https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh"
       },
       "artists": [
         {
@@ -3424,6 +3685,24 @@
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 365640,
+      "name": "Windowlicker",
+      "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"
+    },
+    {
+      "album": {
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 368400,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"

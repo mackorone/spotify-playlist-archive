@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-20",
   "description": "Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs | \u30b7\u30f3\u30bb\u30a6\u30a7\u30a4\u30f4 | \u0440\u0435\u0442\u0440\u043e\u0432\u0435\u0439\u0432.",
   "name": "Synthwave | Retro | 80s Vaporwave",
-  "published_playlist_ids": [
-    "6Ue29HB0gI4bMizHZxTapf"
-  ],
   "tracks": [
     {
       "album": {
@@ -492,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Classique",
+        "url": "https://open.spotify.com/album/4Uj6HHrgN4YRNIq5R2fZTM"
+      },
+      "artists": [
+        {
+          "name": "Adieu Aru",
+          "url": "https://open.spotify.com/artist/2OLKbeDx8WAJfKvc4Wh3k3"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Classique",
+      "url": "https://open.spotify.com/track/767a2JIsUhYYxrDLSWAs5e"
+    },
+    {
+      "album": {
         "name": "We Are Stardust",
         "url": "https://open.spotify.com/album/44VSxIyuf81epxtp59WTNT"
       },
@@ -897,6 +912,24 @@
       "duration_ms": 320432,
       "name": "Drive-by Stalking",
       "url": "https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz"
+    },
+    {
+      "album": {
+        "name": "195",
+        "url": "https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC"
+      },
+      "artists": [
+        {
+          "name": "OGRE Sound",
+          "url": "https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111111,
+      "name": "Droid Rage",
+      "url": "https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48"
     },
     {
       "album": {
@@ -1413,6 +1446,24 @@
       "duration_ms": 266000,
       "name": "Journey's End",
       "url": "https://open.spotify.com/track/0MCNg9SJL7HNBkAn6Irl5m"
+    },
+    {
+      "album": {
+        "name": "Christmas Kaboom",
+        "url": "https://open.spotify.com/album/1P7zujclH7FPCTiKN6WuOF"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186946,
+      "name": "Kaboom",
+      "url": "https://open.spotify.com/track/3r4fcy5ojAZkg3jc3dGOGy"
     },
     {
       "album": {
@@ -2683,7 +2734,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 248888,
       "name": "Synthetic Soul",
       "url": "https://open.spotify.com/track/4OLcJ9rtBl6ORPmRRwUydC"
@@ -2701,7 +2752,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 159310,
       "name": "Takeoff",
       "url": "https://open.spotify.com/track/4smnlSoB45rmAGV2hDdY5g"

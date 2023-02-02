@@ -4,7 +4,7 @@
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-59 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/4hlf5ZG8IaIwQc0qKofAzM)
+60 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Good Times Are So Hard To Find](https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx) | [Blue Cheer](https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL) | [Good Times Are So Hard To Find](https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9) | 3:18 | 2018-02-28 |  |
 | [Grandmother Hooker](https://open.spotify.com/track/6LzjPE9lvGc6xCXdvgf0VO) | [The Apple Pie Motherhood Band](https://open.spotify.com/artist/174pJcct3i25tITNgPxnFO) | [Apple Pie](https://open.spotify.com/album/0eom2ZJPDeUyS4XTaDpAXR) | 3:00 | 2018-02-28 |  |
 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 | 2018-02-28 |  |
+| [I Put a Spell on You](https://open.spotify.com/track/2HlO7aYhiN86NBC9j4l3SO) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj) | 3:44 | 2018-02-28 |  |
 | [I Put a Spell on You](https://open.spotify.com/track/2KMpYgngWaBaCNgrod4AMW) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/7j7IHDXm1vXmDBqQqpzHDz) | 3:44 | 2018-02-28 | 2022-07-29 |
-| [I Put a Spell on You](https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr) | 3:44 | 2018-02-28 |  |
+| [I Put a Spell on You](https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr) | 3:44 | 2018-02-28 | 2023-01-03 |
 | [If Not This Time](https://open.spotify.com/track/6NhX2JBY2l4iF5x5FSMtDS) | [Fifty Foot Hose](https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM) | [Cauldron](https://open.spotify.com/album/487Nr5JAIFc9mHhZRcYRwX) | 3:38 | 2018-02-28 | 2022-07-29 |
 | [If Not This Time](https://open.spotify.com/track/6PKIEPXO7B1tIH1XMUy3fV) | [Fifty Foot Hose](https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM) | [Cauldron](https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz) | 3:38 | 2018-02-28 |  |
 | [Inkpot](https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Inkpot & Attila](https://open.spotify.com/album/5liqryZxZvie3pfCR21liP) | 2:39 | 2018-02-28 |  |

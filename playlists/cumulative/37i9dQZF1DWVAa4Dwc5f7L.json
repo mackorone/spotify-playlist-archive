@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-22",
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Limi-T 21",
   "name": "Merengue Mania",
-  "published_playlist_ids": [
-    "4vB9Ccatfo6RrukvNmcaBi"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,10 +34,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 295280,
       "name": "A Pedir Su Mano",
       "url": "https://open.spotify.com/track/0Y6RXhbU85T0P0HeiT1Tnb"
+    },
+    {
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295280,
+      "name": "A Pedir Su Mano",
+      "url": "https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I"
     },
     {
       "album": {
@@ -741,7 +756,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-04",
       "duration_ms": 250106,
       "name": "El Costo de la Vida",
       "url": "https://open.spotify.com/track/6GLTEoqfb7gLu9pPmD5gLu"
@@ -911,6 +926,24 @@
     {
       "album": {
         "name": "Ni Es Lo Mismo Ni Es Igual",
+        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "El Ni\u00e1gara en Bicicleta",
+      "url": "https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR"
+    },
+    {
+      "album": {
+        "name": "Ni Es Lo Mismo Ni Es Igual",
         "url": "https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN"
       },
       "artists": [
@@ -925,24 +958,6 @@
       "duration_ms": 265360,
       "name": "El N\u00edagara en Bicicleta",
       "url": "https://open.spotify.com/track/6zFvinO1xYJLGZur2gTXSY"
-    },
-    {
-      "album": {
-        "name": "Ni Es Lo Mismo Ni Es Igual",
-        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "date_added": "2022-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 265360,
-      "name": "El N\u00edagara en Bicicleta",
-      "url": "https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR"
     },
     {
       "album": {
@@ -1321,10 +1336,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm"
+    },
+    {
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
     },
     {
       "album": {
@@ -1813,7 +1846,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 297773,
       "name": "Me Miras Y Te Miro",
       "url": "https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS"
@@ -1831,7 +1864,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": "2023-01-16",
       "duration_ms": 171040,
       "name": "Me Miras Y Te Miro - New Version",
       "url": "https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q"
@@ -2087,7 +2120,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 290613,
       "name": "No Llores Por Ella",
       "url": "https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN"
@@ -2541,7 +2574,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 327346,
       "name": "Te Gusta Eh",
       "url": "https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE"
@@ -2887,7 +2920,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-19",
       "duration_ms": 208013,
       "name": "Visa Para un Sue\u00f1o",
       "url": "https://open.spotify.com/track/6mmcsCrrASekHEUfjuNFOO"
@@ -2977,7 +3010,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 228000,
       "name": "\u00d1angala Fuangala",
       "url": "https://open.spotify.com/track/2bkIe2K7qMJO7Ai5OVPdBI"

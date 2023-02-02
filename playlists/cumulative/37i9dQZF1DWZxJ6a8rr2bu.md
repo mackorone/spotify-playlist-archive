@@ -4,7 +4,7 @@
 
 > A <a href="http://www.womeninmusic.org">Women in Music</a> curated list of barrier\-breaking talent impacting the music world\. Features songs from artists directly from our WIM Community \| Cover: Flo Milli
 
-43 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/6fwhtl1cWEqu4PNGxsBW0E)
+43 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your essential collection of music by the visionary <a href="spotify:artist:1EI0NtLHoh9KBziYCeN1vM">artist</a>, all in a single playlist.
 
-87 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/4uNzcjey9QtV2Y8seuTMY2)
+87 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

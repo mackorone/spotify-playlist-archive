@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "A look back at tracks from over the past four years. A mixtape of music made for the Class of 2022.",
   "name": "CLASS OF 2022 mixtape",
-  "published_playlist_ids": [
-    "1HQcwe2QNuGGYbhg2gXo0A"
-  ],
   "tracks": [
     {
       "album": {
@@ -233,24 +230,6 @@
       "duration_ms": 288624,
       "name": "a lot",
       "url": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
-    },
-    {
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2022-06-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -515,6 +494,24 @@
       "duration_ms": 250746,
       "name": "American Teen",
       "url": "https://open.spotify.com/track/16mOynxbHDGdGWKErK5LO5"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
     },
     {
       "album": {
@@ -1595,7 +1592,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 324466,
       "name": "Chlorine",
       "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
@@ -3365,7 +3362,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": "2023-01-04",
       "duration_ms": 154997,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
@@ -3539,8 +3536,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -3610,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167538,
+      "name": "I miss you, I\u2019m sorry",
+      "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
+    },
+    {
+      "album": {
         "name": "i think i wanna be alone",
         "url": "https://open.spotify.com/album/0QhJHjBtJmNy8sfdQU7XoJ"
       },
@@ -3647,6 +3662,28 @@
       "duration_ms": 162586,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw"
+    },
+    {
+      "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "i'm so tired...",
+      "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
     },
     {
       "album": {
@@ -4788,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "Party Favors",
+        "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214087,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/6XrTwqp0vMc2Z3m4ttoyRe"
+    },
+    {
+      "album": {
         "name": "MIDDLE CHILD",
         "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
@@ -5199,7 +5254,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 170746,
       "name": "My Oh My (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
@@ -5297,7 +5352,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201787,
       "name": "Nights Like This (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
@@ -6981,7 +7036,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 178404,
       "name": "Slumber Party (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ"
@@ -7181,7 +7236,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 217026,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN"
@@ -8071,7 +8126,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 173325,
       "name": "Truth Hurts",
       "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
@@ -8405,7 +8460,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 204664,
       "name": "Wake Up in the Sky",
       "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
@@ -8757,7 +8812,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 161384,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA"

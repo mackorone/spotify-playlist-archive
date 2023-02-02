@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8X0x7JMkJi.md) - [plain]
 
 > Dê o play e tire um tempinho você
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,844 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 57,240 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY2Njg5NzU0NiwwMDAwMDAwMDc5NTA1YTAxNzdiODIzNjVlODg4OWU1YWViMjY4NzY5`
+Snapshot ID: `MTY3NDc3MTI4OSwwMDAwMDAwMDQyMzBkOGIwYWFlOWFjNTU1MDY2MmJiOWVlZGVkNmZk`

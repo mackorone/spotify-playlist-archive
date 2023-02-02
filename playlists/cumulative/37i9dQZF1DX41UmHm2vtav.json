@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-17",
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
   "name": "Festa na Praia",
-  "published_playlist_ids": [
-    "0mYePZvO0R1lksRZVy4eTm"
-  ],
   "tracks": [
     {
       "album": {
@@ -75,7 +72,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 206759,
       "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
       "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
@@ -545,6 +542,24 @@
       "duration_ms": 195483,
       "name": "Back to Beginning",
       "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
+    },
+    {
+      "album": {
+        "name": "Baian\u00e1",
+        "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152558,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
     },
     {
       "album": {
@@ -1365,7 +1380,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 193846,
       "name": "Forever Yours - Avicii Tribute",
       "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
@@ -1499,6 +1514,32 @@
       "duration_ms": 168960,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0MN9HwjKtDaZknMXrT2ZXL"
+    },
+    {
+      "album": {
+        "name": "Guddi Riddim",
+        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        },
+        {
+          "name": "Nooran Sisters",
+          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 210000,
+      "name": "Guddi Riddim",
+      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
     },
     {
       "album": {
@@ -1665,6 +1706,24 @@
       "duration_ms": 224262,
       "name": "Home",
       "url": "https://open.spotify.com/track/3IJQUjAtnotALS49WktLJY"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB"
     },
     {
       "album": {
@@ -1915,7 +1974,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 138536,
       "name": "Mais um Dia",
       "url": "https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk"
@@ -2019,7 +2078,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 121904,
       "name": "Melhores Bailes Do Mundo",
       "url": "https://open.spotify.com/track/2TS8C1dUfL61wQVr8NgDrW"
@@ -2252,7 +2311,7 @@
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 186666,
+      "duration_ms": 189451,
       "name": "O Xote Das Meninas - Pontifexx Remix",
       "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"
     },
@@ -2389,6 +2448,36 @@
       "duration_ms": 141532,
       "name": "Para\u00edso Particular",
       "url": "https://open.spotify.com/track/7r8uwoYXO7EvwmsSKnil1g"
+    },
+    {
+      "album": {
+        "name": "Pa\u00eds do Futebol (No Flow)",
+        "url": "https://open.spotify.com/album/0OemWawwWXiabUo6rWUQbF"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 173986,
+      "name": "Pa\u00eds do Futebol (No Flow)",
+      "url": "https://open.spotify.com/track/115EFwguc4backKEA1WVWT"
     },
     {
       "album": {
@@ -3145,7 +3234,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 152400,
       "name": "Take You Dancing - Bruno Martini Remix",
       "url": "https://open.spotify.com/track/4yWp3mTUYrzlqazZ588IQh"
@@ -3533,8 +3622,8 @@
       },
       "artists": [
         {
-          "name": "Camilla Brunetta",
-          "url": "https://open.spotify.com/artist/49QW5bbN3ta3IGezNZVwmb"
+          "name": "Brunetta",
+          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
         },
         {
           "name": "Gilsons",
@@ -3543,7 +3632,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 123142,
       "name": "V\u00e1rias Queixas - Remix",
       "url": "https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3"

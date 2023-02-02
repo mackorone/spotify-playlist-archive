@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
   "name": "Slide Guitar Heroes",
-  "published_playlist_ids": [
-    "1FcICrbevbT0gAXUKq6YSS"
-  ],
   "tracks": [
     {
       "album": {
@@ -736,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "album": {
         "name": "Nothin' But Blood (Bonus Track Version)",
         "url": "https://open.spotify.com/album/6IJNUyigUfK3n8nPMavgaL"
       },
@@ -960,7 +975,7 @@
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -973,7 +988,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 390893,
-      "name": "Running on Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Running on Faith - Acoustic Live",
       "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
     },
     {
@@ -1281,7 +1296,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 179160,
       "name": "You Got to Move",
       "url": "https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB"

@@ -2,9 +2,9 @@
 
 ### [PRIDE: Homoelectric](https://open.spotify.com/playlist/37i9dQZF1DWZabLDQymgK1)
 
-> <ahref="https://www.instagram.com/homoelectric/?hl=en">Homoelectric</a> is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
+> Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-66 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/4KFliLiyOHO98s1YWCgllz)
+67 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Useless Man \- The Grid Mix](https://open.spotify.com/track/5pZvrLUCR6PXNkNa2AO7w2) | [Minty](https://open.spotify.com/artist/0vVeC3e3hdI1KVGjApg0Ud), [The Grid](https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo) | [Useless Man \(The Grid Mix\)](https://open.spotify.com/album/2X7ufIprdfC2SB7Tyg81HW) | 3:42 | 2021-06-02 |  |
 | [Washing Up \- Tiga Mix](https://open.spotify.com/track/44ivsSXs37MFy88D4eCU3p) | [Tomas Andersson](https://open.spotify.com/artist/4iSjTOvOgsgONqpSphYvUG) | [Washing Up](https://open.spotify.com/album/4rr8wQDnciFctXhLcq7bZI) | 5:33 | 2021-06-02 |  |
 | [Where's Jason's K](https://open.spotify.com/track/5nUfbXGXSULNLxJyndR5iB) | [Syclops](https://open.spotify.com/artist/1DoyIKYcf1Pw2tMFFy0oEi) | [I've Got My Eye on You](https://open.spotify.com/album/23cDF6i36IrMJmfDZojPgp) | 6:39 | 2021-06-02 |  |
-| [White Horse](https://open.spotify.com/track/3FeQweSLSbVkLcPDZuTiGX) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 3:57 | 2021-06-02 |  |
+| [White Horse](https://open.spotify.com/track/3FeQweSLSbVkLcPDZuTiGX) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 3:57 | 2021-06-02 | 2022-12-24 |
+| [White Horse \- 2008 Remaster](https://open.spotify.com/track/6mrxHiqJhSR67wAT71ZYI5) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Keep Smiling \[Remastered\] \(Remastered Version\)](https://open.spotify.com/album/04bsO604edaafFrGyDcaFy) | 3:56 | 2021-06-02 |  |
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 | 2021-06-02 |  |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2021-06-02 |  |
 | [You Don't Know \- Special Remix](https://open.spotify.com/track/5vA6h1EpoCwqDpg1NyU7GE) | [Serious Intention](https://open.spotify.com/artist/4ujvWktT7I5RaDVWCiohjS) | [You Don't Know](https://open.spotify.com/album/3ibVYaJ4bKSoNQVan9WPmS) | 8:18 | 2021-06-02 |  |

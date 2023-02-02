@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The most calming classical music.",
   "name": "Calming Classical",
-  "published_playlist_ids": [
-    "4qTfIMAROPU0maC8UIPwXd"
-  ],
   "tracks": [
     {
       "album": {
@@ -174,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Liszt Inspections",
+        "url": "https://open.spotify.com/album/0HOOCAPfWkh6e24UQLkok5"
+      },
+      "artists": [
+        {
+          "name": "Luciano Berio",
+          "url": "https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO"
+        },
+        {
+          "name": "Marino Formenti",
+          "url": "https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139653,
+      "name": "6 Encores for Piano (1965): No. 3, Wasserklavier",
+      "url": "https://open.spotify.com/track/0RnF44RV45by9HTtZuttgl"
+    },
+    {
+      "album": {
         "name": "LISZT INSPECTIONS",
         "url": "https://open.spotify.com/album/26tmVV1dFkaftPXyMrRABC"
       },
@@ -185,7 +204,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 139653,
       "name": "6 Encores for Piano: No. 3, Wasserklavier",
       "url": "https://open.spotify.com/track/07tKTXpTwZhseOKcmzCv6D"
@@ -431,6 +450,28 @@
       "duration_ms": 216213,
       "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
       "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
+    },
+    {
+      "album": {
+        "name": "Ave verum corpus, K.618 (arr. for piano by Franz Liszt)",
+        "url": "https://open.spotify.com/album/6hJpChw1IpyvRw8UVDzO09"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Ave verum corpus, K.618 (arr. for piano by Franz Liszt)",
+      "url": "https://open.spotify.com/track/65P5vqHd18YLG8AsaVGFjw"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-09",
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
   "name": "\u82b1\u8349\u4e0b\u5348\u8336",
-  "published_playlist_ids": [
-    "2huVTNU2fzUcSwfsB8l29J"
-  ],
   "tracks": [
     {
       "album": {
@@ -355,10 +352,28 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 181139,
       "name": "Catholic Country",
       "url": "https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3"
+    },
+    {
+      "album": {
+        "name": "Corner Of The Sky",
+        "url": "https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190213,
+      "name": "Centre of The Universe",
+      "url": "https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu"
     },
     {
       "album": {
@@ -517,7 +532,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-05",
       "duration_ms": 168125,
       "name": "Dear Winter",
       "url": "https://open.spotify.com/track/4Dd0v2LBhMpqOwhmeU4yBJ"
@@ -543,6 +558,24 @@
       "duration_ms": 155320,
       "name": "Devil Eyes",
       "url": "https://open.spotify.com/track/7eGgaxBDg13KBgZCCULIje"
+    },
+    {
+      "album": {
+        "name": "different...",
+        "url": "https://open.spotify.com/album/46leWH1QOXzyOFgJWOD5Ws"
+      },
+      "artists": [
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180138,
+      "name": "different...",
+      "url": "https://open.spotify.com/track/5UsidyX3Wocveuplfzz9AK"
     },
     {
       "album": {
@@ -936,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Grow Out Of It",
+        "url": "https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151105,
+      "name": "Grow Out Of It",
+      "url": "https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn"
+    },
+    {
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -951,6 +1002,24 @@
       "duration_ms": 255143,
       "name": "Growing Sideways",
       "url": "https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2"
+    },
+    {
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 190933,
+      "name": "Hallelujah - Bonus Track",
+      "url": "https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk"
     },
     {
       "album": {
@@ -1221,7 +1290,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-16",
       "duration_ms": 223026,
       "name": "I Miss My Friends (feat. Phum Viphurit)",
       "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
@@ -1423,10 +1492,28 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 154920,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
+    },
+    {
+      "album": {
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 267306,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/0imuQm7CnK74UdorFpC2Eg"
     },
     {
       "album": {
@@ -1481,7 +1568,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 154865,
       "name": "Love Is Letting Go (feat. Diane Keaton)",
       "url": "https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ"
@@ -1681,7 +1768,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 162286,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"
@@ -1714,6 +1801,28 @@
     },
     {
       "album": {
+        "name": "No Fun / Lucky for You",
+        "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        },
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ"
+    },
+    {
+      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -1733,6 +1842,28 @@
     {
       "album": {
         "name": "Ocean (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/3kyLA7vyU0y5rpUP6Ksely"
+      },
+      "artists": [
+        {
+          "name": "LunchMoney Lewis",
+          "url": "https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216402,
+      "name": "Ocean (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/1PwPlrkSztcrXcRFzO2DnH"
+    },
+    {
+      "album": {
+        "name": "Ocean (feat. Meghan Trainor)",
         "url": "https://open.spotify.com/album/0k7HiB1RSPBMTzwY93aGLv"
       },
       "artists": [
@@ -1747,7 +1878,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 216402,
       "name": "Ocean (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/5rkAjs38ImEoJJBHW3T8pb"
@@ -2231,7 +2362,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-30",
       "duration_ms": 259665,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
@@ -2321,7 +2452,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-25",
       "duration_ms": 172880,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0"
@@ -2570,6 +2701,32 @@
     },
     {
       "album": {
+        "name": "The Harmony",
+        "url": "https://open.spotify.com/album/4kpZBm6XlD1TZRU220lj9i"
+      },
+      "artists": [
+        {
+          "name": "James Yorkston",
+          "url": "https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw"
+        },
+        {
+          "name": "Nina Persson",
+          "url": "https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c"
+        },
+        {
+          "name": "The Second Hand Orchestra",
+          "url": "https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 243840,
+      "name": "The Harmony",
+      "url": "https://open.spotify.com/track/4bWoizeurWxioIenJkguM6"
+    },
+    {
+      "album": {
         "name": "The Luckiest",
         "url": "https://open.spotify.com/album/3dS5deZ4l97pXE6VSGIkCT"
       },
@@ -2607,6 +2764,28 @@
       "duration_ms": 263633,
       "name": "The Simple Things",
       "url": "https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj"
+    },
+    {
+      "album": {
+        "name": "postcard from London",
+        "url": "https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        },
+        {
+          "name": "Maddie Ashman",
+          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 241948,
+      "name": "the song i always forget about",
+      "url": "https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo"
     },
     {
       "album": {
@@ -2783,7 +2962,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 238213,
       "name": "Untamed",
       "url": "https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd"
@@ -2999,7 +3178,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 222704,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"

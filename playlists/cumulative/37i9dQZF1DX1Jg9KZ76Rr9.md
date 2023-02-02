@@ -4,7 +4,7 @@
 
 > A look back at some of the most impactful songs of 2017.
 
-132 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/3pXmTZBNpu2uGfP0OT5yh6)
+133 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Sorry](https://open.spotify.com/track/6rAXHPd18PZ6W8m9EectzH) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 | 2017-12-09 |  |
 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 | 2017-12-09 |  |
 | [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 | 2017-12-09 |  |
-| [Suit And Jacket](https://open.spotify.com/track/2ZYBwkmtYhgUj1A7teYAZ7) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Folk Hop N' Roll \(Deluxe\)](https://open.spotify.com/album/7vLmY8rLjLvOTQ0wk7Hqeh) | 3:42 | 2017-12-09 |  |
+| [Suit And Jacket](https://open.spotify.com/track/2ZYBwkmtYhgUj1A7teYAZ7) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Folk Hop N' Roll \(Deluxe\)](https://open.spotify.com/album/7vLmY8rLjLvOTQ0wk7Hqeh) | 3:42 | 2017-12-09 | 2022-12-04 |
+| [Suit and Jacket](https://open.spotify.com/track/3ILLqwupo1Aa6PBNXxV4ey) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Folk Hop n' Roll \(Deluxe\)](https://open.spotify.com/album/4K1jpuHe0ggkFmm4sNidFm) | 3:42 | 2017-12-09 |  |
 | [Sweat](https://open.spotify.com/track/398yyQgNK4gUDUONBlQOYa) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/0QqrTxRtjqQmH5XyqwORlU) | 3:03 | 2017-12-09 |  |
 | [Sweet Disaster](https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:25 | 2017-12-09 |  |
 | [Thank God I'm Not You](https://open.spotify.com/track/4YZVtRbdGOhHdGNi4JpCL5) | [Himalayas](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Thank God I'm Not You](https://open.spotify.com/album/78vmVv9bN0amzSiE1Fvzav) | 3:14 | 2017-12-09 | 2022-07-29 |

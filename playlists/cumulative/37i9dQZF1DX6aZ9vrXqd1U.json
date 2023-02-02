@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-28",
   "description": "Enjoy music from GUNDAM series! \u30ac\u30f3\u30c0\u30e0\u30b7\u30ea\u30fc\u30ba\u3092\u5f69\u308b\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u5275\u901a\u30fb\u30b5\u30f3\u30e9\u30a4\u30ba\u30fbMBS",
   "name": "GUNDAM SERIES -\u30ac\u30f3\u30c0\u30e0\u30b7\u30ea\u30fc\u30ba-",
-  "published_playlist_ids": [
-    "5csRzl68dHYFsVirM9G7Hj"
-  ],
   "tracks": [
     {
       "album": {
@@ -960,7 +957,7 @@
         },
         {
           "name": "AYA",
-          "url": "https://open.spotify.com/artist/4XqMFwKVaoSboem4IVfmnk"
+          "url": "https://open.spotify.com/artist/5XboRZlTHep5d4fC6AmZkW"
         }
       ],
       "date_added": "2022-07-27",
@@ -2230,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Mobile Suit Gundam The Witch From Mercury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7azHYLVupUGLCBcMPCjziy"
+      },
+      "artists": [
+        {
+          "name": "Takashi Ohmama",
+          "url": "https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300376,
+      "name": "The Witch From Mercury",
+      "url": "https://open.spotify.com/track/5n3KK6qpusKWwFfLa9G2Vt"
+    },
+    {
+      "album": {
         "name": "\"SD GUNDAM BATTLE ALLIANCE\" Theme Songs",
         "url": "https://open.spotify.com/album/2qHFuoKDyCDX5rAjoWHmjv"
       },
@@ -2692,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "MISIA THE GREAT HOPE BEST",
+        "url": "https://open.spotify.com/album/7pUZqSUfhCkV2MegF30rve"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305253,
+      "name": "\u30aa\u30eb\u30d5\u30a7\u30f3\u30ba\u306e\u6d99",
+      "url": "https://open.spotify.com/track/7uJLIW51cR6Vp5edmquXZU"
+    },
+    {
+      "album": {
         "name": "\u30aa\u30eb\u30d5\u30a7\u30f3\u30ba\u306e\u6d99",
         "url": "https://open.spotify.com/album/0WmvnavzuVxzVM4x8yHR0Q"
       },
@@ -2703,7 +2736,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 306213,
       "name": "\u30aa\u30eb\u30d5\u30a7\u30f3\u30ba\u306e\u6d99",
       "url": "https://open.spotify.com/track/3vvdRYBwFbDjsb8IaK0Pgs"
@@ -3656,7 +3689,7 @@
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 291853,
+      "duration_ms": 295670,
       "name": "\u7834\u7dda\u306e\u6d99",
       "url": "https://open.spotify.com/track/6p16SQ6gD5TgWI9Sunw9Qw"
     },

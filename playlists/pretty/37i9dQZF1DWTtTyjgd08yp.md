@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,208 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,489 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 65 | [Strange](https://open.spotify.com/track/6MB8gX1wQxJU4KQuRTWXux) | [Runah](https://open.spotify.com/artist/1t7LGsCYaXFaDW6GiAuaNI) | [Strange](https://open.spotify.com/album/3635mxEV0v8bks4Z15mvgs) | 3:16 |
 | 66 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
 | 67 | [What's It For](https://open.spotify.com/track/0b39vjnPaxVh6fY1Wj81MA) | [Hannah Cameron](https://open.spotify.com/artist/5YONmUkKMhcZ425zGUfhqF) | [What's It For](https://open.spotify.com/album/1Hcz2nPeG7HDcNYDiwAgGF) | 2:53 |
-| 68 | [Sirens](https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Sirens](https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4) | 4:26 |
+| 68 | [Sirens](https://open.spotify.com/track/4PJ7UxGTWvLLbNBn75fcx6) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Love and War](https://open.spotify.com/album/5pt1GAcmsDuMUXgelOQYXA) | 4:26 |
 | 69 | [Wasted Time](https://open.spotify.com/track/2C10W0lrLhC09g8TLUcRKV) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [One Big Nothing](https://open.spotify.com/album/16OaQjGBTLJy6ZashcbJRm) | 4:04 |
 | 70 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 |
 | 71 | [Dream State...](https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 3:30 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 104 | [Through a Glass \(Quartet Version\)](https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds Quartets](https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM) | 3:53 |
 | 105 | [Walk Through the Fire](https://open.spotify.com/track/7isJy30YmISuhHwgz5dRDa) | [Zayde Wølf](https://open.spotify.com/artist/7LIy7KinYq7a83dUH6kvxT), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Golden Age](https://open.spotify.com/album/7FMlFMWvVuAtEVmKNbh1Uh) | 3:36 |
 
-Snapshot ID: `MTYzOTE1MjQ3NywwMDAwMDAwMGE2YjI0MWFlNTU5OTRlNzhmNWUyMTY1OWY1YTgzNzIx`
+Snapshot ID: `MTYzOTE1MjQ3NywwMDAwMDAwMDE2NDRhMGRlNjUzMTU3MjZkY2Y2YjU1NzMyOWY5M2Ji`

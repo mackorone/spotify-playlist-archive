@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 
 > Classic drinking singalongs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,766 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,084 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 33 | [The Pub with No Beer](https://open.spotify.com/track/5zZthzbOkBkz2gfwxoTpSP) | [Drinking Songs](https://open.spotify.com/artist/4qcIdXhkdYXAaybMaVjpvU) | [Original Irish Drinking Songs](https://open.spotify.com/album/5r8OT9nU29Yx4jHkecubAk) | 2:35 |
 | 34 | [The Big Strong Man](https://open.spotify.com/track/2LDt5lclWiStgzcN2ckBUL) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [25th Anniversary](https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh) | 2:09 |
 | 35 | [If You're Irish, Come Into The Parlour](https://open.spotify.com/track/79IbAhRoFA8wbUhHWcDjv3) | [Barnbrack](https://open.spotify.com/artist/26arTXI1Jz3lUeDQ2IQjCe) | [101 Beautiful Irish Ballads](https://open.spotify.com/album/6MfSQtS9WRNQTUl7jHcXQh) | 1:42 |
-| 36 | [Muirsheen Durkin](https://open.spotify.com/track/7DkDrVprJzciRxztQ7UG1I) | [The Blarney Lads](https://open.spotify.com/artist/0NVUu7IN9htn2Ak7CY8mCL) | [Molly Malone: 20 Traditional Irish Favorites for St\. Patrick's Day](https://open.spotify.com/album/1NrHPStocUvzCEV4lTJCRr) | 2:08 |
+| 36 | [Muirsheen Durkin](https://open.spotify.com/track/2m2YyIx0wbM38KvAHlZlml) | [Irish Lads Of Limerick](https://open.spotify.com/artist/1OGjD0Wx8kiMTo7k966sn8) | [Irish Favorites](https://open.spotify.com/album/61LonjrzxQuiSMY3syhEsa) | 2:08 |
 | 37 | [Drink It up Men](https://open.spotify.com/track/3ER6jWtzq7dlpk64YqaFWA) | [Carlyle Fraser](https://open.spotify.com/artist/62ejG7Vlm6nVGATCU4lTta) | [Pint of Ale](https://open.spotify.com/album/3s5NJhXY65FVmv1P4QNAPa) | 2:12 |
 | 38 | [Crack Was 90](https://open.spotify.com/track/60sqCk1QQ8yL9rnX426r02) | [Patsy Watchorn](https://open.spotify.com/artist/0U6dKLfNOeOl90SqjiLgdU) | [The Craic Was Ninety \(20 Great Irish Pub Songs\)](https://open.spotify.com/album/1cMqLAWryVSHB69SlVstgn) | 2:40 |
 | 39 | [Song for Ireland](https://open.spotify.com/track/500iwSaxXN9CQy8quPmmYD) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [The Best of Luke Kelly](https://open.spotify.com/album/5NCrmdBxbvrlERv2VcYQks) | 4:43 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 54 | [Weile Waila](https://open.spotify.com/track/64z9LKRYWUSO8JSrVDyyLY) | [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Definitivo Canzoni da Pub](https://open.spotify.com/album/3t2hKKngI5tbpFmO17h7ty) | 2:24 |
 | 55 | [Seven Old Ladies](https://open.spotify.com/track/1cd92x1tprkEPp1bxaLuCq) | [Foster & Allen](https://open.spotify.com/artist/53UCUopHRBowldiFYqYdzA) | [Irish Drinking Songs \- 50 Pub Favorites from Ireland](https://open.spotify.com/album/4Fvg4bfehK0QOsnHRkSMVQ) | 4:34 |
 
-Snapshot ID: `MTY0NzQ0MzI4NCwwMDAwMDAwMDY2YzcwMGIxY2FlZDJhZjI2YjQxNDE2ZTM4MzE0NWUz`
+Snapshot ID: `MTY0NzQ0MzI4NCwwMDAwMDAwMDJmMTFlZDBlOGY1ODIyNWU1MmUzM2I2NDNmYzljOGJi`

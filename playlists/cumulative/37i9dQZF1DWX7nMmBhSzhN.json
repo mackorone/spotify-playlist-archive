@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Old film songs full of suspense!",
   "name": "Hits Mein Twist",
-  "published_playlist_ids": [
-    "7m45ES1AYLSXkGpE1oVUXK"
-  ],
   "tracks": [
     {
       "album": {
@@ -1002,6 +999,28 @@
     },
     {
       "album": {
+        "name": "Everybody Can Dance",
+        "url": "https://open.spotify.com/album/5QODRr2iDMZFHspWzNlEXy"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341133,
+      "name": "Yamma Yamma - From \"Shaan\"",
+      "url": "https://open.spotify.com/track/4heUF8i6ISFKdkXkas0NLU"
+    },
+    {
+      "album": {
         "name": "King of Melody - R. D. Burman - Top Hits",
         "url": "https://open.spotify.com/album/3oiZILCKIBsxDUAObiAThW"
       },
@@ -1017,7 +1036,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 341133,
       "name": "Yamma Yamma - Shaan / Soundtrack Version",
       "url": "https://open.spotify.com/track/1Kbupq9XjIG5xlppdyTWSe"

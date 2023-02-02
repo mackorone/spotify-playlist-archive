@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Nothing but beautiful country love songs. ",
   "name": "Country Kind of Love",
-  "published_playlist_ids": [
-    "3D2crqIpUOvL4P3WOb2H4z"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,6 +42,24 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "album": {
@@ -131,7 +146,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 177026,
       "name": "Always Gonna Love You",
       "url": "https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3"
@@ -275,7 +290,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 201973,
       "name": "Before I Knew It",
       "url": "https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT"
@@ -333,7 +348,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-25",
       "duration_ms": 169019,
       "name": "Between You & Me (feat. Ashley Cooke)",
       "url": "https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997"
@@ -567,7 +582,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 176413,
       "name": "Coulda Loved You Longer",
       "url": "https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl"
@@ -646,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Every Night Every Morning",
+        "url": "https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196890,
+      "name": "Every Night Every Morning",
+      "url": "https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz"
+    },
+    {
+      "album": {
         "name": "Everywhere I'm Goin'",
         "url": "https://open.spotify.com/album/5FghaO27P3Zy5igsCbMAn9"
       },
@@ -679,6 +712,24 @@
       "duration_ms": 182493,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx"
+    },
+    {
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196162,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
       "album": {
@@ -801,7 +852,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 178146,
       "name": "Got What I Got",
       "url": "https://open.spotify.com/track/4TCc369aRPRubv1m8R1TBG"
@@ -917,7 +968,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 209920,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o"
@@ -1007,10 +1058,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 242186,
       "name": "How Do I Live",
       "url": "https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn"
+    },
+    {
+      "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169306,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
     },
     {
       "album": {
@@ -1101,7 +1170,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 205671,
       "name": "I Don\u2019t Want to Go To Heaven (with Tenille Townes)",
       "url": "https://open.spotify.com/track/6HknB8gsOZDaPkJbtuSLp5"
@@ -1213,6 +1282,28 @@
       "duration_ms": 224853,
       "name": "In Case You Didn't Know",
       "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
+    },
+    {
+      "album": {
+        "name": "Dolly",
+        "url": "https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "Islands in the Stream",
+      "url": "https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u"
     },
     {
       "album": {
@@ -1393,7 +1484,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 186613,
       "name": "Love You Like I Used To",
       "url": "https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej"
@@ -1501,7 +1592,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 191133,
       "name": "Marry That Girl",
       "url": "https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm"
@@ -1609,10 +1700,50 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 173533,
       "name": "Never Til Now",
       "url": "https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF"
+    },
+    {
+      "album": {
+        "name": "Already Drank That Beer",
+        "url": "https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        },
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Never Til Now (feat. Brett Young)",
+      "url": "https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds"
+    },
+    {
+      "album": {
+        "name": "Next Thing You Know",
+        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175237,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
     },
     {
       "album": {
@@ -1627,7 +1758,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 205733,
       "name": "Next To You, Next To Me",
       "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
@@ -1645,7 +1776,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 183960,
       "name": "No One Needs To Know",
       "url": "https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy"
@@ -1825,7 +1956,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-28",
       "duration_ms": 219013,
       "name": "Pushing Up Daisies (Love Alive)",
       "url": "https://open.spotify.com/track/1IxMWIX1soqNONa7H0LD6U"
@@ -1873,7 +2004,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 213470,
       "name": "Ran into You",
       "url": "https://open.spotify.com/track/33V8ZNvopdCm8BsEKzGXgM"
@@ -1891,10 +2022,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 205394,
       "name": "Rhinestone Ring",
       "url": "https://open.spotify.com/track/2j4ap81Wqs3VmNWBg3tAt8"
+    },
+    {
+      "album": {
+        "name": "Rich Man",
+        "url": "https://open.spotify.com/album/4NovVYzgePFkjllyvhoMfs"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 210066,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/3dHBL4qSyeTWWTde3blYOR"
     },
     {
       "album": {
@@ -2125,7 +2274,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 224986,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5UaJtNAZJcN9pWpIuVMnN2"
@@ -2168,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
+    },
+    {
+      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
@@ -2183,6 +2350,28 @@
       "duration_ms": 293293,
       "name": "Tennessee Whiskey",
       "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "album": {
@@ -2255,6 +2444,24 @@
       "duration_ms": 215140,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+    },
+    {
+      "album": {
+        "name": "The Kind of Love We Make",
+        "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
     },
     {
       "album": {
@@ -2562,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
+    },
+    {
+      "album": {
         "name": "Where Would I Be",
         "url": "https://open.spotify.com/album/7JKbD0TazFKWjG413NoRnM"
       },
@@ -2670,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Wreckage",
+        "url": "https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212746,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf"
+    },
+    {
+      "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
       },
@@ -2699,7 +2942,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-20",
       "duration_ms": 204604,
       "name": "You Did",
       "url": "https://open.spotify.com/track/2zObw9MePQ17Csq3IqWizy"
@@ -2793,6 +3036,24 @@
       "duration_ms": 192026,
       "name": "You Time",
       "url": "https://open.spotify.com/track/0pJalGEYsRikSogLkXU6KV"
+    },
+    {
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
     },
     {
       "album": {

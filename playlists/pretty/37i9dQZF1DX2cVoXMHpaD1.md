@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,054 likes - 121 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,111 likes - 121 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 42 | [Paradise Lost](https://open.spotify.com/track/1PVluFXbdOTv29475JS2Mj) | [Gain](https://open.spotify.com/artist/4R60A85t9mTZzCqJlVswuo) | [Hawwah](https://open.spotify.com/album/1fghVqJ812j2fqPYrSFd0Q) | 3:30 |
 | 43 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
 | 44 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
-| 45 | [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:40 |
+| 45 | [This Love](https://open.spotify.com/track/1tYpbWzCSZjWz6tZxVbyzC) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/4pZaGrn3Z8xiX6KQYkRRkU) | 3:40 |
 | 46 | [Better Together](https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Digital Bounce](https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6) | 3:38 |
-| 47 | [Erase \(feat.Iron\)](https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Iron](https://open.spotify.com/artist/42dy8y24lMURTr4RjATpYS) | [Erase](https://open.spotify.com/album/2xlOv4KlRfJBbKtPjrJFgr) | 3:48 |
+| 47 | [Erase \(feat.Iron\)](https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Iron](https://open.spotify.com/artist/42dy8y24lMURTr4RjATpYS) | [Erase](https://open.spotify.com/album/2xlOv4KlRfJBbKtPjrJFgr) | 3:48 |
 | 48 | [High High](https://open.spotify.com/track/00Luoss7SGaxzTEy94cfia) | [GD&TOP](https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn) | [GD&TOP](https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F) | 3:06 |
 | 49 | [Rough](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 3rd Mini Album 'SNOWFLAKE'](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:29 |
 | 50 | [If You Love Me](https://open.spotify.com/track/0Pa2q707CcPDrj8yO6Av16) | [NS Yoon\-G](https://open.spotify.com/artist/15EDMg4DaX49QQyxlBzC2f), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [If You Love Me](https://open.spotify.com/album/5797QjOLRyc2CAZkYV0tjY) | 3:18 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 55 | [JANUS](https://open.spotify.com/track/2TnisrTHhBfZTlfPQa2M6v) | [BOYFRIEND](https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd) | [JANUS \(1\)](https://open.spotify.com/album/452jBX9RIZQXPZoljxU2fP) | 3:28 |
 | 56 | [FACE](https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:40 |
 | 57 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
-| 58 | [Far away… Young love](https://open.spotify.com/track/3sm4Y7jIMFIFsviVYo9xXr) | [C\-CLOWN](https://open.spotify.com/artist/5HBeCjZkFtwfLYD7X3kLwi) | [Young Love](https://open.spotify.com/album/5jWVvga8eohxe2jiYCZVp0) | 3:44 |
+| 58 | [Far away… Young love](https://open.spotify.com/track/3sm4Y7jIMFIFsviVYo9xXr) | [C\-CLOWN](https://open.spotify.com/artist/5HBeCjZkFtwfLYD7X3kLwi) | [Young Love](https://open.spotify.com/album/5jWVvga8eohxe2jiYCZVp0) | 3:46 |
 | 59 | [We are a bit different](https://open.spotify.com/track/31vC4Lt8ZxmaKT5azztqOn) | [Evol](https://open.spotify.com/artist/3ACbVQlfUaW0Qm2DDe5T18) | [Let Me Explode](https://open.spotify.com/album/6V0GTRDWjwAdAHQPSKF0qO) | 3:37 |
 | 60 | [Punishment](https://open.spotify.com/track/4rjOI2OTEdql6ccXAH0aeQ) | [Roh Ji Hoon](https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw) | [The Next Big Thing](https://open.spotify.com/album/4RVlJmqIsDAzlFy6hvjGjd) | 3:15 |
 | 61 | [I will get lost, you go your way \(Feat\. Jun Hyung Yong\)](https://open.spotify.com/track/7tLzYnj0QjiUbYvl0G4xYn) | [G.NA](https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA), [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [Black & White](https://open.spotify.com/album/0bmc5WouIbima9CO2owVnw) | 3:33 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 65 | [Please don’t…](https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The 3rd Album Part.1](https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2) | 3:32 |
 | 66 | [BERMUDA TRIANGLE](https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [BERMUDA TRIANGLE](https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX) | 3:27 |
 | 67 | [운명 The Chance of Love](https://open.spotify.com/track/3XzxHvEomjJIKZcZqYfFut) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) | 3:27 |
-| 68 | [Venus](https://open.spotify.com/track/7FV7Ng7Oj3ToGGlxvIjPtF) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Return](https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu) | 3:37 |
+| 68 | [Venus](https://open.spotify.com/track/4sKAJE5FVYmltDGtmrG1c6) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Return](https://open.spotify.com/album/0bhobOcdGqJ3GG20tM32l5) | 3:37 |
 | 69 | [BREATHE](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 4:48 |
 | 70 | [Hate](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Act\. 7](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) | 3:36 |
 | 71 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 112 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 |
 | 113 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 |
 | 114 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 |
-| 115 | [Ma Boy2](https://open.spotify.com/track/0xSvmfT0aAK3IY9aTvg0WD) | [일렉트로보이즈](https://open.spotify.com/artist/2yaScoMwbIYw6wqdPPQ6bL), [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Rebirth](https://open.spotify.com/album/4ZMtRAREv9TDLgJCs1JyHL) | 3:26 |
+| 115 | [Ma Boy2](https://open.spotify.com/track/0xSvmfT0aAK3IY9aTvg0WD) | [일렉트로보이즈](https://open.spotify.com/artist/2yaScoMwbIYw6wqdPPQ6bL), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Rebirth](https://open.spotify.com/album/4ZMtRAREv9TDLgJCs1JyHL) | 3:26 |
 | 116 | [DALLA DALLA](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) | 3:19 |
 | 117 | [Bon Bon Chocolat](https://open.spotify.com/track/5XS0GCCIotaI6XtsYcIKeX) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ARRIVAL OF EVERGLOW](https://open.spotify.com/album/4qFVcLDapqLmjinahsk7U0) | 3:48 |
 | 118 | [ME](https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [ME](https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3) | 3:13 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 | 120 | [Second confession](https://open.spotify.com/track/3gJp5iMDX2yM0PN9CXrHBF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Second confession](https://open.spotify.com/album/37qwQFW0AB3WMmFwEhC8xN) | 3:54 |
 | 121 | [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 |
 
-Snapshot ID: `MTU3NTQ0MDU2NiwwMDAwMDAwMGI3MDc2ZDJkMTdjMWNhMGY5YzU1NGViZWQ1OGYyOGY5`
+Snapshot ID: `MTU3NTQ0MDU2NiwwMDAwMDAwMDNkMzViYTNiOGI0NzZlYmM3ZjlhMWQ3NmE4YWJlMGU3`

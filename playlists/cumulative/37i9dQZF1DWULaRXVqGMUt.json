@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
   "name": "Boogie-woogie Blues",
-  "published_playlist_ids": [
-    "0K1q36ekheqewhgP75p016"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 202866,
       "name": "A Boogie Woogie Sunday",
       "url": "https://open.spotify.com/track/2PBCW7owo2RtDjgm5VSkzz"
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183800,
       "name": "Barrelhouse Boogie",
       "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
@@ -145,7 +142,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
@@ -163,10 +160,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Bluegrass Boogie Woogie",
       "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
+    },
+    {
+      "album": {
+        "name": "Boogie Woogie Gals",
+        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
+      },
+      "artists": [
+        {
+          "name": "Anisteen Allen",
+          "url": "https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160306,
+      "name": "Bongo Boogie",
+      "url": "https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj"
     },
     {
       "album": {
@@ -199,7 +214,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 154826,
       "name": "Boogie In The City",
       "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
@@ -221,7 +236,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
@@ -305,7 +320,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 161933,
       "name": "Boogie Woogie Bugle Boy",
       "url": "https://open.spotify.com/track/3axPhcbhVDOA9MnhkUrFcE"
@@ -453,7 +468,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174400,
       "name": "Boogie Woogie Storm",
       "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
@@ -515,6 +530,44 @@
       "duration_ms": 217720,
       "name": "Booker's Boogie",
       "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
+    },
+    {
+      "album": {
+        "name": "Barrelhouse, Blues & Boogie Woogie Vol. II",
+        "url": "https://open.spotify.com/album/2DehuHmdGcw5ne1lObIZAN"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        },
+        {
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+        },
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+        },
+        {
+          "name": "Speckled Red",
+          "url": "https://open.spotify.com/artist/2TLqxQWKzeqnaovkTxI3TV"
+        },
+        {
+          "name": "Little Brother Montgomery",
+          "url": "https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz"
+        },
+        {
+          "name": "Jack Dupree",
+          "url": "https://open.spotify.com/artist/0Ay8TJXZ9sY3Z6rBWTZLBn"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131099,
+      "name": "Boyd's Boogie Woogie",
+      "url": "https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB"
     },
     {
       "album": {
@@ -626,6 +679,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177933,
+      "name": "Chicago Breakdown",
+      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
+    },
+    {
+      "album": {
         "name": "Big Maceo",
         "url": "https://open.spotify.com/album/050Om28lQNAArTUuKzIEzs"
       },
@@ -655,7 +726,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 199262,
       "name": "Chimes Blues",
       "url": "https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh"
@@ -691,7 +762,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 159666,
       "name": "Count Basie's Red Bank Cafe",
       "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
@@ -709,7 +780,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 205893,
       "name": "Detroit Rocks",
       "url": "https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn"
@@ -727,7 +798,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 146066,
       "name": "Dollar Bill Boogie",
       "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
@@ -799,7 +870,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 198733,
       "name": "Get in the Groove, Boys!",
       "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
@@ -830,7 +901,7 @@
       "artists": [
         {
           "name": "Blind Blake",
-          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
+          "url": "https://open.spotify.com/artist/0lVQFNxu7zGoKxHCY3NnvP"
         }
       ],
       "date_added": "2022-07-12",
@@ -887,7 +958,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 286960,
       "name": "I Feel So Good (I Wanna Boogie)",
       "url": "https://open.spotify.com/track/5QAqlUoctz45rVNgAB6U4c"
@@ -995,7 +1066,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
@@ -1013,7 +1084,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 185861,
       "name": "La Salle Street Breakdown",
       "url": "https://open.spotify.com/track/3BqTjVgE1Yno4SoEuw7KEc"
@@ -1031,7 +1102,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 332400,
       "name": "Laci's Boogie",
       "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
@@ -1157,7 +1228,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 150973,
       "name": "Marie",
       "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
@@ -1231,7 +1302,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 198260,
       "name": "Okay",
       "url": "https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb"
@@ -1271,7 +1342,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 248226,
       "name": "Piggly Wiggly Blues",
       "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
@@ -1307,7 +1378,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 115582,
       "name": "Quarter Bass Boogie",
       "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
@@ -1329,7 +1400,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 170040,
       "name": "Rocket Boogie \"88\" (Pt. 1)",
       "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
@@ -1401,7 +1472,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 145278,
       "name": "Shake Baby Shake",
       "url": "https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m"
@@ -1463,6 +1534,28 @@
       "duration_ms": 181893,
       "name": "State Street Jive",
       "url": "https://open.spotify.com/track/13tAODj2iJ7dvkCpuQfjnl"
+    },
+    {
+      "album": {
+        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
+        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
+      },
+      "artists": [
+        {
+          "name": "Charles \"Cow Cow\" Davenport",
+          "url": "https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd"
+        },
+        {
+          "name": "Ivy Smith",
+          "url": "https://open.spotify.com/artist/3Cn3MlNoC7D2vHMvjJgV2Y"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181893,
+      "name": "State Street Jive",
+      "url": "https://open.spotify.com/track/2SDm7Yn0uWuiimKzFpnoEW"
     },
     {
       "album": {
@@ -1593,7 +1686,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 165619,
       "name": "Twelfth St. Boogie",
       "url": "https://open.spotify.com/track/54Yn0omLZ35iMhBZNKUrSj"
@@ -1651,6 +1744,24 @@
       "duration_ms": 172460,
       "name": "Yancey Stomp",
       "url": "https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Yancey",
+          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Yancey Stomp",
+      "url": "https://open.spotify.com/track/2rQ7wBq2aglvwDgRS9mPmx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWULaRXVqGMUt"

@@ -1,15 +1,15 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 13056,
+  "num_followers": 13811,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDYsMDAwMDAwMDAwYjU1YmJlMzA4Y2Y2MDg1YjY2ZDEyMmQ5Njg4ZmY3Nw==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA1MDY0YWNmNjM2MTRhOTI5Y2RlODUyNjM0YzkzYjk4Zg==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "The General Strike",
         "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "For Blood And Empire",
         "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "THE HAZARDOUS",
+      "url": "https://open.spotify.com/track/0BgGgwBhHx7j7IiqShMCj8"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "American Fall",
         "url": "https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9"
@@ -57,23 +73,7 @@
       "url": "https://open.spotify.com/track/0p8fUOBfWtGcaKGiD9drgJ"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/7rPQyZgkxzLHAUQhYl29aX"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "The Terror State",
         "url": "https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP"
@@ -89,7 +89,71 @@
       "url": "https://open.spotify.com/track/3HA8pLvjBGoBpDJbaLjFNo"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "For Blood And Empire",
+        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 130759,
+      "name": "I'd Tell You But...",
+      "url": "https://open.spotify.com/track/1iZKML1ki9knISenUIzXpM"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 90666,
+      "name": "SOLD EVERYTHING",
+      "url": "https://open.spotify.com/track/1Hdt94rsAHp0pugYJpuFd0"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/7rPQyZgkxzLHAUQhYl29aX"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "Die for the Government",
+        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 101466,
+      "name": "Drink Drank Punk",
+      "url": "https://open.spotify.com/track/2b9H8ocxdhOXoV6HeRvJNg"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "For Blood And Empire",
         "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
@@ -105,46 +169,10 @@
       "url": "https://open.spotify.com/track/0mzqrv0bY7d5ECDfsRMUpf"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
-        "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
-        "url": "https://open.spotify.com/album/5av6EgtQOT323PZhk2E8lU"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Stacey Dee",
-          "url": "https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T"
-        }
-      ],
-      "duration_ms": 280346,
-      "name": "NVREVR (feat. Stacey Dee of Bad Cop/Bad Cop)",
-      "url": "https://open.spotify.com/track/5i0eynynsGbrYn3i9MP7LV"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 166893,
-      "name": "Hate Conquers All",
-      "url": "https://open.spotify.com/track/6LnIBfJxftCiHM2mJ1iUfH"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "THE FIGHT OF OUR LIVES (feat. Tim McIlrath of Rise Against & Brian Baker of Bad Religion)",
-        "url": "https://open.spotify.com/album/52O9xBWemqkJRPWK3mDdCP"
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
       },
       "artists": [
         {
@@ -162,13 +190,13 @@
       ],
       "duration_ms": 172746,
       "name": "THE FIGHT OF OUR LIVES (feat. Tim McIlrath of Rise Against & Brian Baker of Bad Religion)",
-      "url": "https://open.spotify.com/track/1TZDfrtzmN70FKKeCcrwxT"
+      "url": "https://open.spotify.com/track/06IK0mpgRyTaWUiuiJF5LN"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
-        "name": "For Blood And Empire",
-        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
       },
       "artists": [
         {
@@ -176,52 +204,12 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 130759,
-      "name": "I'd Tell You But...",
-      "url": "https://open.spotify.com/track/1iZKML1ki9knISenUIzXpM"
+      "duration_ms": 166893,
+      "name": "Hate Conquers All",
+      "url": "https://open.spotify.com/track/6LnIBfJxftCiHM2mJ1iUfH"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-        "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Shane Told",
-          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-      "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
-        "url": "https://open.spotify.com/album/16zuCh6AvPoS058XshhseX"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Jesse Leach",
-          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
-      "url": "https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "Turn Your Back With Anti-Flag",
         "url": "https://open.spotify.com/album/7td1jC31dkN3AEfY2dosxZ"
@@ -241,7 +229,7 @@
       "url": "https://open.spotify.com/track/4hnR3vkREdoAIk5AMIp1E8"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "For Blood And Empire",
         "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
@@ -257,7 +245,63 @@
       "url": "https://open.spotify.com/track/1dIYsviqWVfAOmkvZm8WQ2"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Shane Told",
+          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/1XudAZqvPQUyPa8OLkkpgC"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "VICTORY OR DEATH (WE GAVE \u2018EM HELL) (feat. Campino of Die Toten Hosen)",
+        "url": "https://open.spotify.com/album/1g9OgCVZgWNVmQfHoSJ72Q"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Campino",
+          "url": "https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "VICTORY OR DEATH (WE GAVE \u2018EM HELL) (feat. Campino of Die Toten Hosen)",
+      "url": "https://open.spotify.com/track/4P5rqjqcNmCkD5ipTUhhFS"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "Die for the Government",
+        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "Die for the Government",
+      "url": "https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "American Spring",
         "url": "https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee"
@@ -277,23 +321,27 @@
       "url": "https://open.spotify.com/track/34dVpPh6DpkCJ58sAQqYhp"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
-        "name": "Die for the Government",
-        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
       },
       "artists": [
         {
           "name": "Anti-Flag",
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Jesse Leach",
+          "url": "https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT"
         }
       ],
-      "duration_ms": 219773,
-      "name": "Die for the Government",
-      "url": "https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9"
+      "duration_ms": 216000,
+      "name": "MODERN META MEDICINE (feat. Jesse Leach of Killswitch Engage)",
+      "url": "https://open.spotify.com/track/1yuQcwJsaaUZHoZq8KeK9a"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "Underground Network",
         "url": "https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg"
@@ -309,59 +357,7 @@
       "url": "https://open.spotify.com/track/1PySNm0y4MSIfPhQ8iMHbH"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "IMPERIALISM (feat. Ashrita Kumar of Pinkshift)",
-        "url": "https://open.spotify.com/album/5qGVr4SEf2QP6eEed7C3C5"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Ashrita Kumar",
-          "url": "https://open.spotify.com/artist/7DSIiUGpsOMhqcyee4UGua"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "IMPERIALISM (feat. Ashrita Kumar of Pinkshift)",
-      "url": "https://open.spotify.com/track/7M0dXjcXs8JgdMSkHtoLZi"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "American Spring",
-        "url": "https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Fabled World",
-      "url": "https://open.spotify.com/track/6aJQVrRpRyXSEN4ExRZ1RK"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "Die for the Government",
-        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 101466,
-      "name": "Drink Drank Punk",
-      "url": "https://open.spotify.com/track/2b9H8ocxdhOXoV6HeRvJNg"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "20/20 Vision",
         "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
@@ -377,7 +373,43 @@
       "url": "https://open.spotify.com/track/3eLYXY21jpoIUfeUitUvuU"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "American Spring",
+        "url": "https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Fabled World",
+      "url": "https://open.spotify.com/track/6aJQVrRpRyXSEN4ExRZ1RK"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Ashrita Kumar",
+          "url": "https://open.spotify.com/artist/7DSIiUGpsOMhqcyee4UGua"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "IMPERIALISM (feat. Ashrita Kumar of Pinkshift)",
+      "url": "https://open.spotify.com/track/6IE0899wRbZrrGX5NUE4Qj"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "American Fall",
         "url": "https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9"
@@ -393,7 +425,7 @@
       "url": "https://open.spotify.com/track/0JkYtPkStJkOyMbSaVEFB1"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "For Blood And Empire",
         "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
@@ -409,311 +441,7 @@
       "url": "https://open.spotify.com/track/7b7RifetHxERla9vz3GATu"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "When The Wall Falls",
-        "url": "https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "When The Wall Falls",
-      "url": "https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "It Went Off Like A Bomb",
-      "url": "https://open.spotify.com/track/6DQpiHiVdg4oKu9HdvaGEQ"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "The Criminals",
-      "url": "https://open.spotify.com/track/6xZ5Q24NrZ2IowTyOfcWdz"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "Mobilize",
-        "url": "https://open.spotify.com/album/2qFZdRj2TtLPI36n7XQK9I"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "911 for Peace",
-      "url": "https://open.spotify.com/track/4CrufimpcYAOqighojrziP"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "Complete Control Sessions",
-        "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Should I Stay or Should I Go - Live Version",
-      "url": "https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Finish What We Started",
-      "url": "https://open.spotify.com/track/0LkSPDuV9ROmUYlr14w9oE"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 98120,
-      "name": "This Machine Kills Fascists",
-      "url": "https://open.spotify.com/track/1ZFpMCNOL0IMqNRcOHE5e9"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "A New Kind of Army",
-        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 153991,
-      "name": "Captain Anarchy",
-      "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "You Make Me Sick",
-      "url": "https://open.spotify.com/track/4ymvRa2W35pidqnOX7Ruiy"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "20/20 Division",
-        "url": "https://open.spotify.com/album/3thDALJX9mvXyJVNSqHwd7"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 121390,
-      "name": "No Allegiance To A Flag",
-      "url": "https://open.spotify.com/track/798wYM5enzA8WSIIpLdtlw"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "Die for the Government",
-        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 140293,
-      "name": "F**k Police Brutality",
-      "url": "https://open.spotify.com/track/7znoroIV2dSMcjpv7ZxnLh"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "A New Kind of Army",
-        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 221910,
-      "name": "A New Kind of Army",
-      "url": "https://open.spotify.com/track/0ZpIkt4KFc38LzuiHwFkX2"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "Bring out Your Dead",
-      "url": "https://open.spotify.com/track/1QD2adVcChL5WjGmsWhoJ9"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "The General Strike (10 Year Anniversary)",
-        "url": "https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 78576,
-      "name": "SKATE",
-      "url": "https://open.spotify.com/track/6yd9HSGpSnunM8kLum15HC"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Casualty",
-      "url": "https://open.spotify.com/track/2WfHDSeiNLw0sJQZxM7t1o"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "A New Kind of Army",
-        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175673,
-      "name": "Tearing Everyone Down",
-      "url": "https://open.spotify.com/track/4Y8ZO4vKghbTlKFi5Fx547"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Stars and Stripes",
-      "url": "https://open.spotify.com/track/61QnLM7lbEhwIe3umKpeNI"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "The Terror State",
-        "url": "https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Rank-n-File",
-      "url": "https://open.spotify.com/track/1lcSbWCkd56TB7NPedWPDs"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "The General Strike (10 Year Anniversary)",
         "url": "https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE"
@@ -729,10 +457,10 @@
       "url": "https://open.spotify.com/track/38XwnC082qy2o9K437Wgbo"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
-        "name": "American Reckoning",
-        "url": "https://open.spotify.com/album/2AqpkhfZ4PbCrxRW3yNR6q"
+        "name": "When The Wall Falls",
+        "url": "https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel"
       },
       "artists": [
         {
@@ -740,12 +468,140 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 157066,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/5fmVa9gzihaJtD5pKeEzH3"
+      "duration_ms": 165813,
+      "name": "When The Wall Falls",
+      "url": "https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "The Criminals",
+      "url": "https://open.spotify.com/track/6xZ5Q24NrZ2IowTyOfcWdz"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "It Went Off Like A Bomb",
+      "url": "https://open.spotify.com/track/6DQpiHiVdg4oKu9HdvaGEQ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "Mobilize",
+        "url": "https://open.spotify.com/album/2qFZdRj2TtLPI36n7XQK9I"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "911 for Peace",
+      "url": "https://open.spotify.com/track/4CrufimpcYAOqighojrziP"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "Complete Control Sessions",
+        "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Should I Stay or Should I Go - Live Version",
+      "url": "https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Finish What We Started",
+      "url": "https://open.spotify.com/track/0LkSPDuV9ROmUYlr14w9oE"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 165767,
+      "name": "This Is the New Sound",
+      "url": "https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "Die for the Government",
+        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 141026,
+      "name": "You'd Do the Same",
+      "url": "https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "Underground Network",
         "url": "https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg"
@@ -756,12 +612,172 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 243866,
-      "name": "Underground Network",
-      "url": "https://open.spotify.com/track/3PcbU6v5Fw118EKLEvWNEu"
+      "duration_ms": 98120,
+      "name": "This Machine Kills Fascists",
+      "url": "https://open.spotify.com/track/1ZFpMCNOL0IMqNRcOHE5e9"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "You Make Me Sick",
+      "url": "https://open.spotify.com/track/4ymvRa2W35pidqnOX7Ruiy"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175673,
+      "name": "Tearing Everyone Down",
+      "url": "https://open.spotify.com/track/4Y8ZO4vKghbTlKFi5Fx547"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "The General Strike (10 Year Anniversary)",
+        "url": "https://open.spotify.com/album/0HrNCNxt4ps1IJsqURkjEE"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 78576,
+      "name": "SKATE",
+      "url": "https://open.spotify.com/track/6yd9HSGpSnunM8kLum15HC"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Stars and Stripes",
+      "url": "https://open.spotify.com/track/61QnLM7lbEhwIe3umKpeNI"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "Die for the Government",
+        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 140293,
+      "name": "F**k Police Brutality",
+      "url": "https://open.spotify.com/track/7znoroIV2dSMcjpv7ZxnLh"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 153991,
+      "name": "Captain Anarchy",
+      "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "The Economy is Suffering...Let It Die",
+      "url": "https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "Bring out Your Dead",
+      "url": "https://open.spotify.com/track/1QD2adVcChL5WjGmsWhoJ9"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "The Terror State",
+        "url": "https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Rank-n-File",
+      "url": "https://open.spotify.com/track/1lcSbWCkd56TB7NPedWPDs"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 221910,
+      "name": "A New Kind of Army",
+      "url": "https://open.spotify.com/track/0ZpIkt4KFc38LzuiHwFkX2"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "A Dying Plea Vol. 1",
         "url": "https://open.spotify.com/album/0ippbK45L6BKnSfpaAFf4V"
@@ -793,10 +809,10 @@
       "url": "https://open.spotify.com/track/0NlxbDDwdVSQm1DQz2EZUo"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
-        "name": "Die for the Government",
-        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
+        "name": "20/20 Division",
+        "url": "https://open.spotify.com/album/3thDALJX9mvXyJVNSqHwd7"
       },
       "artists": [
         {
@@ -804,44 +820,12 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 141026,
-      "name": "You'd Do the Same",
-      "url": "https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs"
+      "duration_ms": 121390,
+      "name": "No Allegiance To A Flag",
+      "url": "https://open.spotify.com/track/798wYM5enzA8WSIIpLdtlw"
     },
     {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "Throw It Away",
-      "url": "https://open.spotify.com/track/5G9WBRnU2CVOfRtykUk8XQ"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
-      "album": {
-        "name": "For Blood And Empire",
-        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 137973,
-      "name": "War Sucks, Let's Party!",
-      "url": "https://open.spotify.com/track/1Pf0Aq9h9F09S83nulvM16"
-    },
-    {
-      "added_at": "2022-11-25 14:26:58",
+      "added_at": "2023-02-01 17:51:10",
       "album": {
         "name": "American Spring",
         "url": "https://open.spotify.com/album/355URbzuPPjaXkBs7G20ee"
@@ -852,9 +836,25 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 254133,
-      "name": "Sky Is Falling",
-      "url": "https://open.spotify.com/track/3tC1mUUoPAuerNvMB0t07T"
+      "duration_ms": 88213,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/5VdF9Q0KRG2BkHKUv4OZUq"
+    },
+    {
+      "added_at": "2023-02-01 17:51:10",
+      "album": {
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
+      "url": "https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv"
     }
   ],
   "unique_name": "This Is Anti-Flag",

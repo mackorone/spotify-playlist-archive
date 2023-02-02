@@ -1,13 +1,45 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 4025,
+  "num_followers": 4755,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDMzNjBlOTRlMjFiNmI1OTRlN2RiMmJlZTlkZTE5YTA1",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDliNzczMTdiZjEyNTk4MmVkMGYwMGZlMTBhYmM4MTY0",
   "tracks": [
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "In Concert",
+        "url": "https://open.spotify.com/album/07fBpu7zIOCeOwCFKoWnu3"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 489226,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/062FRhtHo7W8ZvZUefVIb9"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "You Gotta Move (Live)",
+        "url": "https://open.spotify.com/album/590vu7oWUxgtmGGC9j24VI"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 841913,
+      "name": "You Gotta Move - Live",
+      "url": "https://open.spotify.com/track/68kNEyWdXZL5t1qJiDxv9l"
+    },
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {

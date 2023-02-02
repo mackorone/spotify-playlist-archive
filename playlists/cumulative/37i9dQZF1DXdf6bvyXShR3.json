@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-19",
   "description": "<a href=\"spotify:artist:5mIowAJMp7RKNheelruV5z\">&ME</a>'s favorite tracks. Updated regularly. Curated by &ME. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "&ME's track IDs",
-  "published_playlist_ids": [
-    "0aPO5Ukruwi5tjT4lOAA6p"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 164981,
       "name": "1st Of July",
       "url": "https://open.spotify.com/track/2rgg7I60pktUnxJzQHWGJa"
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 173097,
       "name": "A Keeper",
       "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
@@ -77,7 +74,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 212843,
       "name": "Affection",
       "url": "https://open.spotify.com/track/7322doZY3H7TUYavIGhZwM"
@@ -380,6 +377,32 @@
     },
     {
       "album": {
+        "name": "Each & Every Day (Life Goes On) [feat. Akram Sedkaoui] [Thakzin Remix]",
+        "url": "https://open.spotify.com/album/1sxdkmDupoCDBKY7GHaTbL"
+      },
+      "artists": [
+        {
+          "name": "Jerk House Connection",
+          "url": "https://open.spotify.com/artist/0FEoVAvN3q5VWY4emxpFNK"
+        },
+        {
+          "name": "Akram Sedkaoui",
+          "url": "https://open.spotify.com/artist/5c6TLBxjtCdRluAm4bAqUr"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452272,
+      "name": "Each & Every Day (Life Goes On) [feat. Akram Sedkaoui] - Thakzin Remix",
+      "url": "https://open.spotify.com/track/38IskLIwXANWGbJOF33ALh"
+    },
+    {
+      "album": {
         "name": "Greg Wilson Presents XXXO & ICA Beats",
         "url": "https://open.spotify.com/album/0IXZofWDMkhuffMUu8h6yw"
       },
@@ -488,6 +511,24 @@
     },
     {
       "album": {
+        "name": "UNRELEASED x ADE",
+        "url": "https://open.spotify.com/album/27GLsMZqMBSZiGANuOR2h9"
+      },
+      "artists": [
+        {
+          "name": "Ankho\u00ef",
+          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368429,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3uSSEJShIOgk2h0apyvbSR"
+    },
+    {
+      "album": {
         "name": "Have It",
         "url": "https://open.spotify.com/album/1xgHfAk9T40Qjn3lVBOd4s"
       },
@@ -569,6 +610,28 @@
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
+    },
+    {
+      "album": {
+        "name": "In The Line To Loneliness",
+        "url": "https://open.spotify.com/album/1DcjaoR8TfNRKsD788B2uO"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Marc Facchini",
+          "url": "https://open.spotify.com/artist/685za0WZG3iiWHhn9M4lGB"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364160,
+      "name": "In The Line To Loneliness",
+      "url": "https://open.spotify.com/track/1beVIiTTEXMsThkWr2gzbG"
     },
     {
       "album": {
@@ -667,7 +730,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 444866,
       "name": "Kunitamale",
       "url": "https://open.spotify.com/track/446T86UmUBOvGnzYYCCttb"
@@ -729,7 +792,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 327096,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
@@ -773,7 +836,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 344000,
       "name": "Les Gout",
       "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"
@@ -795,6 +858,24 @@
       "duration_ms": 354666,
       "name": "Love Tender",
       "url": "https://open.spotify.com/track/34ZM9aIIid4hAyCOAah5NB"
+    },
+    {
+      "album": {
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/0DeLusvmxOjBZqBjSU15yN"
+      },
+      "artists": [
+        {
+          "name": "Juan Yarin",
+          "url": "https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417410,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/1UjbMmN5yti1uyZQCuhaBI"
     },
     {
       "album": {
@@ -883,10 +964,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 413240,
       "name": "Man Alone (Can't Stop the Fadin') - Charles Webster Mix",
       "url": "https://open.spotify.com/track/2Jhxk3gutJ0LZSXcHfjall"
+    },
+    {
+      "album": {
+        "name": "Watergate 28 EP #1 (Pt. 2/2)",
+        "url": "https://open.spotify.com/album/6ZaqOZKqQU7mAxFFmcVLzo"
+      },
+      "artists": [
+        {
+          "name": "Biesmans",
+          "url": "https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392175,
+      "name": "March for Peace",
+      "url": "https://open.spotify.com/track/1UXayJuvaQ7kxit6DPD3zN"
     },
     {
       "album": {
@@ -905,6 +1004,32 @@
       "duration_ms": 241117,
       "name": "Mi Alma",
       "url": "https://open.spotify.com/track/6EjoH5rmbTr2jNm1S0IW4k"
+    },
+    {
+      "album": {
+        "name": "MISAVA",
+        "url": "https://open.spotify.com/album/6Qs01I9CWfP5gitMZrOQPd"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376500,
+      "name": "Misava (Extended )",
+      "url": "https://open.spotify.com/track/5q6rVyDzpTtUraJRwGr1xe"
     },
     {
       "album": {
@@ -1053,7 +1178,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 340000,
       "name": "Octubre - Aera Remix",
       "url": "https://open.spotify.com/track/1VOIoJPRFuf2LLyIRuh7M2"
@@ -1100,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "One More EP",
+        "url": "https://open.spotify.com/album/5kTyDrG1kqjuriepThjxWA"
+      },
+      "artists": [
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
+        },
+        {
+          "name": "good guy mikesh",
+          "url": "https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428303,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/01irEqIoLSxEZxlvCxP9wf"
+    },
+    {
+      "album": {
         "name": "Asphyx",
         "url": "https://open.spotify.com/album/6ofX98b64trX8JvhzIrGrE"
       },
@@ -1115,6 +1262,68 @@
       "duration_ms": 473916,
       "name": "Pacifica",
       "url": "https://open.spotify.com/track/5nINri5AenR6Q7ljBJYfgL"
+    },
+    {
+      "album": {
+        "name": "PAP (Pendiente Al Paso)",
+        "url": "https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164242,
+      "name": "PAP (Pendiente Al Paso)",
+      "url": "https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX"
+    },
+    {
+      "album": {
+        "name": "Versions",
+        "url": "https://open.spotify.com/album/2v9S7HKTANxwpTudKRYQyv"
+      },
+      "artists": [
+        {
+          "name": "Aera",
+          "url": "https://open.spotify.com/artist/3Pj0WcDp7Df123RzhrTohk"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301980,
+      "name": "Prana (Version)",
+      "url": "https://open.spotify.com/track/2cg3Rm8sqokFYlSlr9SnjR"
+    },
+    {
+      "album": {
+        "name": "One More EP",
+        "url": "https://open.spotify.com/album/5kTyDrG1kqjuriepThjxWA"
+      },
+      "artists": [
+        {
+          "name": "Reznik",
+          "url": "https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ"
+        },
+        {
+          "name": "good guy mikesh",
+          "url": "https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372101,
+      "name": "Read The Room",
+      "url": "https://open.spotify.com/track/2zjdw7zqNawSQ6XanyrBO3"
     },
     {
       "album": {
@@ -1209,7 +1418,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 605294,
       "name": "Smile It's A New Day",
       "url": "https://open.spotify.com/track/6aAckF9aYS2sjMr3WjGumU"
@@ -1264,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "Strangest Nights",
+        "url": "https://open.spotify.com/album/6MUtla3LOY8ypU37y3sic2"
+      },
+      "artists": [
+        {
+          "name": "Avangart Tabldot",
+          "url": "https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX"
+        },
+        {
+          "name": "Paul Brenning",
+          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377628,
+      "name": "Strangest Nights",
+      "url": "https://open.spotify.com/track/2NHEr1aeAaUzrjS0XI9Sol"
+    },
+    {
+      "album": {
         "name": "Summer & Smoke",
         "url": "https://open.spotify.com/album/7wMBYZjX48j24rDgMuBdmz"
       },
@@ -1279,6 +1510,24 @@
       "duration_ms": 369719,
       "name": "Summer & Smoke",
       "url": "https://open.spotify.com/track/0XUysA7T0Npg7aI90Wb7sG"
+    },
+    {
+      "album": {
+        "name": "Sweet Harmony",
+        "url": "https://open.spotify.com/album/2SyBDNNhCrhgxQDBCvNcZ3"
+      },
+      "artists": [
+        {
+          "name": "Liquid",
+          "url": "https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262026,
+      "name": "Sweet Harmony",
+      "url": "https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx"
     },
     {
       "album": {
@@ -1337,7 +1586,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 191369,
       "name": "True Love to the Grave (feat. Claudia Kane)",
       "url": "https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC"
@@ -1377,7 +1626,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 395409,
       "name": "Under Fire - Perel Remix",
       "url": "https://open.spotify.com/track/4zLobHtvzQZJ4Z46mCEKCu"
@@ -1429,6 +1678,24 @@
       "duration_ms": 256488,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1doFagKIgn2FOATKzUkbyi"
+    },
+    {
+      "album": {
+        "name": "Contra: Acoustic",
+        "url": "https://open.spotify.com/album/6WP5Ho3PWAMUkiJLdb6OGb"
+      },
+      "artists": [
+        {
+          "name": "OLAN",
+          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177840,
+      "name": "Wake And Return - Acoustic Version",
+      "url": "https://open.spotify.com/track/76uZO2ZHQcWvjsQOd5T8Hd"
     },
     {
       "album": {
@@ -1487,7 +1754,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 260655,
       "name": "Your Voice - Adam Port Remix",
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"

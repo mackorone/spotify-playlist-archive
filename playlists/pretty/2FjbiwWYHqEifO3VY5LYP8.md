@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2FjbiwWYHqEifO3VY5LYP8.md) - [plain]
 
 > A toast to all the artists who will be performing on New Year&\#x27;s Eve across the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 41 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 41 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

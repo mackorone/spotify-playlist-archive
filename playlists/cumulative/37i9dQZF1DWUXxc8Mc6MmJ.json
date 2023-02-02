@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
   "name": "Best of Korean Soundtracks",
-  "published_playlist_ids": [
-    "65XrvyNxHjIi48t0HlAgZq"
-  ],
   "tracks": [
     {
       "album": {
@@ -917,7 +914,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 252133,
       "name": "Flower",
       "url": "https://open.spotify.com/track/2m5Ex34NOwIWOwHthEqLco"
@@ -997,7 +994,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 209711,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr"

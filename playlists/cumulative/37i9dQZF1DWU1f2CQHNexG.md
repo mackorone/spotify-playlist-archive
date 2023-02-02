@@ -2,9 +2,9 @@
 
 ### [Synthpop Classics ](https://open.spotify.com/playlist/37i9dQZF1DWU1f2CQHNexG)
 
-> Dancing to electro\-pop like a robot from 1984\. Cover: The Psychedelic Furs.
+> Dancing to electro\-pop like a robot from 1984\. Cover: Depeche Mode.
 
-113 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/7sgvvjtQ3YO0vLBx6zL4uM)
+114 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/40dJCw4xU6Bd5ie9rfagNo) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/4yaypP8ytl2ghM2kiNSD8a) | 4:11 | 2022-03-10 | 2022-07-29 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-03-10 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/7FjO6tymaNxO9Jr4xqmvZh) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Cinematic Reflections](https://open.spotify.com/album/4ozY3aWk7ip0JxqDRcpBG5) | 4:13 | 2022-09-18 | 2022-11-13 |
-| [Everything Counts](https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Everything Counts](https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ) | 3:59 | 2022-03-10 |  |
+| [Everything Counts](https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Everything Counts](https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ) | 3:59 | 2022-03-10 | 2023-01-24 |
 | [Everything Counts](https://open.spotify.com/track/1mb5bblw96UieIjCPlWyEw) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again](https://open.spotify.com/album/4PACSjpgl1unuvybxtiZqo) | 4:21 | 2022-03-10 | 2022-07-29 |
 | [Everything Counts \- 2006 Digital Remaster](https://open.spotify.com/track/5TQnwwwx5na4rCj6EVcdvV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best Of Depeche Mode \- Volume One](https://open.spotify.com/album/6gHRLG5Gbjk3vwtgmadx1g) | 4:01 | 2022-03-10 | 2022-07-29 |
 | [Everything Counts \- 2006 Remaster](https://open.spotify.com/track/6JN0k3R65B7T47lsHwgBjQ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:58 | 2022-09-18 | 2022-11-14 |
@@ -56,7 +56,7 @@
 | [Human](https://open.spotify.com/track/537yo062QIz16oQOgxmul3) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Crash](https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx) | 4:25 | 2022-03-10 |  |
 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 | 2022-03-10 |  |
 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 | 2022-03-10 |  |
-| [If You Leave \- 2019 Remaster](https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Souvenir](https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs) | 4:29 | 2022-03-10 |  |
+| [If You Leave \- Remastered 2019](https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Souvenir](https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs) | 4:29 | 2022-03-10 |  |
 | [Imagination](https://open.spotify.com/track/0DJFfzpoWz0wiaBzqcSeuh) | [Belouis Some](https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF) | [Some People](https://open.spotify.com/album/2DOXuDtgzRFomH47RGG1TG) | 3:34 | 2022-03-10 |  |
 | [Imagination](https://open.spotify.com/track/2LQ2cwH2A8ITNNPUwY1wve) | [Belouis Some](https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF) | [This Is..\. 1986](https://open.spotify.com/album/3ACxpwN7XPqjcec45zdE8g) | 3:34 | 2022-03-10 | 2022-07-28 |
 | [Imagination](https://open.spotify.com/track/2jzqOz4aE6NmUsJXAN3JFd) | [Belouis Some](https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF) | [Radio Pop Hits 80's](https://open.spotify.com/album/7tg4cAxnj8iHIJI1qSOboT) | 3:34 | 2022-09-18 | 2022-11-13 |
@@ -72,8 +72,9 @@
 | [Major Tom \- Coming Home](https://open.spotify.com/track/709ffFK4o4MtG1NKoLvOma) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [The Different Story \(World Of Lust And Crime\)](https://open.spotify.com/album/4YHQCvzRhFPYki87AK5Pdg) | 5:01 | 2022-03-10 |  |
 | [Mirror Man](https://open.spotify.com/track/52s6Ea6aSZMvPUIH0dSpk4) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Fascination!](https://open.spotify.com/album/0esnpjv1cOeVWSYTSY3jRc) | 3:50 | 2022-03-10 |  |
 | [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 | 2022-03-10 |  |
+| [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2023-01-26 |  |
 | [Nobody's Diary](https://open.spotify.com/track/01Bdv0hAQjznAwCIppH3tp) | [Yaz](https://open.spotify.com/artist/1XSKLwRyT1GttGP7fqr5o5) | [New Wave & Synth Pop Anthems](https://open.spotify.com/album/3MOwPwG5FLRhOjU1ySz8Nc) | 4:29 | 2022-09-18 | 2022-11-13 |
-| [Nobody's Diary](https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS) | [Yaz](https://open.spotify.com/artist/1XSKLwRyT1GttGP7fqr5o5) | [You And Me Both](https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu) | 4:29 | 2022-03-10 |  |
+| [Nobody's Diary](https://open.spotify.com/track/1qQKLpOEtUJYMSOzxOIfkS) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [You And Me Both](https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu) | 4:29 | 2022-03-10 |  |
 | [Nobody's Diary](https://open.spotify.com/track/0DCJUyPArbtLcJlRhjCew9) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Only Yazoo \- The Best Of](https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM) | 4:31 | 2022-03-10 | 2022-07-25 |
 | [Obsession](https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3) | [Animotion](https://open.spotify.com/artist/6eQHjJJa52LUGjBKP5UPos) | [Obsession: The Best Of Animotion](https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC) | 5:37 | 2022-03-10 |  |
 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 | 2022-03-10 |  |

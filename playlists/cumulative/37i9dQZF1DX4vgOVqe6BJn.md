@@ -4,7 +4,7 @@
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-119 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/4JXldDdcRr0IB1N0GH17pC)
+120 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 | 2022-09-22 |  |
 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 | 2022-09-22 |  |
 | [Lifted](https://open.spotify.com/track/55sYZhDj9Ty9PTSLt3Ul9I) | [Joy Club](https://open.spotify.com/artist/2pl0xmKbMZHncAxBcYUs79), [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45) | [Lifted](https://open.spotify.com/album/31QmA5V5UbFNiiurEKoaCY) | 2:47 | 2022-09-22 |  |
-| [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2022-09-22 |  |
+| [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2022-09-22 | 2023-02-02 |
 | [M.I.A.](https://open.spotify.com/track/0TYNJMOUjuW2JrnxF8SSkR) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [M.I.A](https://open.spotify.com/album/0xKMieAM4MSkfFJkw1nRYq) | 3:10 | 2022-09-22 |  |
 | [Madan \(King\)](https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU) | 3:03 | 2022-09-22 | 2022-11-16 |
 | [Madan \(King\)](https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl) | 3:03 | 2022-09-22 |  |
@@ -96,6 +96,7 @@
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-09-22 |  |
 | [Quiet On Set](https://open.spotify.com/track/1MayFYhQQvVD4IzD7dqBBj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:15 | 2022-09-22 |  |
 | [READY4DEM](https://open.spotify.com/track/6vFjgISjK4fwJYPnMt8zAX) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [READY4DEM](https://open.spotify.com/album/5vdRPZLNiSdQbZKAkmRiEE) | 4:22 | 2022-09-22 |  |
+| [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-01-26 |  |
 | [Rips in Jeans](https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Rips in Jeans](https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0) | 2:43 | 2022-09-30 |  |
 | [Rollout \(feat\. Jay Prince, Scrufizzer & Close Counters\)](https://open.spotify.com/track/16Y3IuWraX46DMtrATcIaY) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [Rollout](https://open.spotify.com/album/3freFdGNjhuPplhWe9m6Gn) | 3:04 | 2022-09-22 |  |
 | [Run em Down](https://open.spotify.com/track/6p2qoyg0qauFKy84UMjbmu) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Run em Down](https://open.spotify.com/album/5Ow8sD6GpoqXtfNglsxtwY) | 2:36 | 2022-09-22 |  |

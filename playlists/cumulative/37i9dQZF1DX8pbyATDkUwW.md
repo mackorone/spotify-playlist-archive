@@ -4,7 +4,7 @@
 
 > Les plus grands romans et autres nouvelles de la littérature française.
 
-95 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/3lDfR742Bogb7En47ISyqT)
+95 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

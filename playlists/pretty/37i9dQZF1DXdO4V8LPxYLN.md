@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 
 > Aksamit's favorite tracks\. Updated regularly\. Curated by Aksamit\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522 likes - 53 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 591 likes - 53 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

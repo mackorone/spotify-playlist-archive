@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
   "name": "Blues Drive",
-  "published_playlist_ids": [
-    "3sRnc53jhYf8ZsxDWtZTQ9"
-  ],
   "tracks": [
     {
       "album": {
@@ -535,7 +532,7 @@
       ],
       "date_added": "2021-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 260733,
       "name": "Don't Cha Know",
       "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
@@ -557,7 +554,7 @@
       ],
       "date_added": "2021-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 301373,
       "name": "Don't Leave Me Here",
       "url": "https://open.spotify.com/track/1pDwZmpFoPyPTApIgCLwHS"
@@ -1012,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Baby, Please Come Home (Bonus Version)",
+        "url": "https://open.spotify.com/album/4dcO5CmDykJdNP9CTOPKYD"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "date_added": "2021-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177066,
+      "name": "Just a Game",
+      "url": "https://open.spotify.com/track/2HCG5XvSejkjtGnUx0A8Sb"
+    },
+    {
+      "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
       },
@@ -1077,7 +1092,7 @@
       ],
       "date_added": "2021-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 173000,
       "name": "Let The Good Times Roll",
       "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
@@ -1239,7 +1254,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 230620,
       "name": "Money and Fools",
       "url": "https://open.spotify.com/track/76iRpYJl2cL7B6VCJ8Qkie"
@@ -1965,7 +1980,7 @@
       ],
       "date_added": "2021-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 317320,
       "name": "What Kind Of Woman Is This?",
       "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"

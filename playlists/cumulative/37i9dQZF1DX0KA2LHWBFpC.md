@@ -4,7 +4,7 @@
 
 > 映画<a href="https://suzume\-tojimari\-movie.jp/">『すずめの戸締まり』</a>の公開を記念して、新海誠監督作品を彩ってきた数多くの名曲をひとつのプレイリストにしました。 <a href="spotify:show:5nlDsmpul9enHhSHgkfPD5">音声版『聴く小説・すずめの戸締まり』はこちら</a> © 2022「すずめの戸締まり」製作委員会
 
-71 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/2IqiBMkw1MhLU3qAermgTC)
+72 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Voice of Wind \(Movie Edit\)](https://open.spotify.com/track/0L7TjIdcVQaDlX3nQbMdQC) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 2:37 | 2022-09-30 |  |
 | [We'll Be Alright \(Movie Edit\)](https://open.spotify.com/track/4toGhOrpjQfweDT9flB5iq) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 4:18 | 2022-09-30 |  |
 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2022-09-30 |  |
+| [「聴く小説・すずめの戸締まり」まとめ\(1\-30話\)](https://open.spotify.com/episode/5zN35BEzRUY4bDh3NGI60N) | [聴く小説・すずめの戸締まり](https://open.spotify.com/show/5nlDsmpul9enHhSHgkfPD5) | [聴く小説・すずめの戸締まり](https://open.spotify.com/show/5nlDsmpul9enHhSHgkfPD5) | 1:42:45 | 2022-11-15 | 2023-01-20 |
 | [きみのこえ](https://open.spotify.com/track/4K1MF8LEThwlvklwxvobLN) | [ハート](https://open.spotify.com/artist/7pmcLNwJyf09QTxgqZRk0z) | [劇場アニメーション 雲のむこう、約束の場所 Original Sound Track](https://open.spotify.com/album/59CGpIQ02102FKPMemsKtr) | 5:36 | 2022-09-30 |  |
 | [けんかをやめて](https://open.spotify.com/track/2UiO3tzClF7mHiuRyhUt3R) | [Naoko Kawai](https://open.spotify.com/artist/1BMCwAT2geYkKBKjRAJ8Qu) | [けんかをやめて](https://open.spotify.com/album/6JDq7lXrVjiED6fHNjGx1N) | 4:31 | 2022-11-10 |  |
 | [バレンタイン・キッス](https://open.spotify.com/track/27Zq1Uh9ITJwfTaqvqUsfy) | [Sayuri Kokusho](https://open.spotify.com/artist/3Ts5ELxUNyqlHKYJX8uq5t), [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [バレンタイン・キッス](https://open.spotify.com/album/5qxEqwkeJaDCO7vKIB500c) | 3:36 | 2022-11-10 |  |

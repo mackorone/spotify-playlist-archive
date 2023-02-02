@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
   "name": "This Is Burna Boy",
-  "published_playlist_ids": [
-    "6PNqDto21Pc7noiKhPa5qP"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,28 @@
       "duration_ms": 245920,
       "name": "23",
       "url": "https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt"
+    },
+    {
+      "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
       "album": {
@@ -441,6 +460,28 @@
       "duration_ms": 297651,
       "name": "How Bad Could It Be",
       "url": "https://open.spotify.com/track/1M65Sv8RxdOpTiKKqjphxf"
+    },
+    {
+      "album": {
+        "name": "I FEEL IT (with Burna Boy)",
+        "url": "https://open.spotify.com/album/2Rmmtayyms1LsKbc0PoxlH"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224551,
+      "name": "I FEEL IT (with Burna Boy)",
+      "url": "https://open.spotify.com/track/6NoTgpadvWX0qKEK6aJYsg"
     },
     {
       "album": {
@@ -1103,7 +1144,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 221228,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/4LbEUmACVAFj8e0WrMUdlN"
@@ -1205,7 +1246,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 194863,
       "name": "Second Sermon - Remix",
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
@@ -1400,6 +1441,28 @@
     },
     {
       "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS"
+    },
+    {
+      "album": {
         "name": "Sungba (Remix) [feat. Burna Boy]",
         "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
       },
@@ -1415,7 +1478,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 210000,
       "name": "Sungba (feat. Burna Boy) - Remix",
       "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"

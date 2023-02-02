@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-90 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/5TTbBHGFjJRX445BkgEwaI)
+90 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Together We Are Beautiful](https://open.spotify.com/track/0EPZixF5ti4OsA8lYrerrg) | [Fern Kinney](https://open.spotify.com/artist/7tqYLHfwfsXiXdFtMIds2K) | [Groove Me](https://open.spotify.com/album/72s8oZlUJivGKedxe6qRHr) | 4:17 | 2022-04-12 |  |
 | [Tudo Que Voce Podia Ser](https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI) | [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Quarteto Em Cy](https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI) | 2:41 | 2022-04-12 |  |
 | [Wherever You Go \(feat\. Jamie xx, Neneh Cherry & CLYPSO\)](https://open.spotify.com/track/0IgbHKFkJxu7dEWJPK02CL) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD), [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Wherever You Go / Reflecting Light](https://open.spotify.com/album/3QojbvRow4YV3FZcHpSY5W) | 5:50 | 2022-04-12 |  |
-| [Wild Wild Life](https://open.spotify.com/track/07SZJMPaTsiFbGvBeeib3O) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [Popular Favorites 1976 \- 1992 / Sand in the Vaseline](https://open.spotify.com/album/4ksJGDgtixAqJ390XWv0Ua) | 3:39 | 2022-04-12 |  |
+| [Wild Wild Life](https://open.spotify.com/track/07SZJMPaTsiFbGvBeeib3O) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Popular Favorites 1976 \- 1992 / Sand in the Vaseline](https://open.spotify.com/album/4ksJGDgtixAqJ390XWv0Ua) | 3:39 | 2022-04-12 |  |
 | [Woke](https://open.spotify.com/track/63Q6Hct41pLDY2APpG9thq) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Woke \- EP](https://open.spotify.com/album/4GDka05Z5sqdul9LJtSq9K) | 5:07 | 2022-11-21 |  |
 | [You Could Be More As You Are](https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:56 | 2022-04-12 |  |
 | [You Got Me Running](https://open.spotify.com/track/37LxU3RlzZtRYCmB6ejanv) | [Lenny Williams](https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN) | [Spark Of Love \(Expanded Edition\)](https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo) | 7:40 | 2022-04-12 |  |

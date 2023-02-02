@@ -1,12 +1,12 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1238275,
+  "num_followers": 1253688,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAxMTk0MSwwMDAwMDAwMGY1MmM0YTE3MDZiMTQxODc5Nzc1NjkxMzcxNGRiODRm",
+  "snapshot_id": "MTY2ODAxMTk0MSwwMDAwMDAwMDFiOTcwY2U5MTdiNDc5NWQ0NDBjYmQzZDM5YzMwOTE1",
   "tracks": [
     {
       "added_at": "2022-11-09 16:39:00",
@@ -57,7 +57,7 @@
         }
       ],
       "duration_ms": 165800,
-      "name": "Como 2 E 2 - Ao Vivo",
+      "name": "Como 2 E 2 - Ao Vivo / Introdu\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
     },
     {
@@ -991,18 +991,22 @@
     {
       "added_at": "2022-11-09 16:39:00",
       "album": {
-        "name": "Compact Jazz: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
       "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
         {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 212493,
+      "duration_ms": 214366,
       "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     },
     {
       "added_at": "2022-11-09 16:39:00",

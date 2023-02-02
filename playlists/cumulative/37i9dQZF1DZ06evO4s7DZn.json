@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
   "name": "This Is Banda Rafaga",
-  "published_playlist_ids": [
-    "4JIi4bjPGxzuez5Wn9lhj6"
-  ],
   "tracks": [
     {
       "album": {
@@ -217,7 +214,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 414000,
       "name": "Carola - En Vivo",
       "url": "https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc"
@@ -293,6 +290,24 @@
       "duration_ms": 205782,
       "name": "Cuando los Frijoles Bailan",
       "url": "https://open.spotify.com/track/5Bw0TMUnKPQjgrylJehdFq"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205797,
+      "name": "Cuando los Frijoles Bailan",
+      "url": "https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY"
     },
     {
       "album": {
@@ -401,6 +416,24 @@
       "duration_ms": 181274,
       "name": "El Brinquito de la Perra Ro\u00f1osa",
       "url": "https://open.spotify.com/track/5t1g30K4DhRSkiIgichk5f"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "El Brinquito de la Perra Ro\u00f1osa",
+      "url": "https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob"
     },
     {
       "album": {
@@ -620,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203103,
+      "name": "La Guitarra de Lolo",
+      "url": "https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P"
+    },
+    {
+      "album": {
         "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
@@ -631,7 +682,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 232750,
       "name": "La Guitarra de Lolo - En Vivo",
       "url": "https://open.spotify.com/track/5bmN1vFp6A1o83L57dv2yv"
@@ -667,10 +718,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 156000,
       "name": "La Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/6sd1ZlB4aJBr4QB3d4ZArm"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156013,
+      "name": "La Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
     },
     {
       "album": {
@@ -829,10 +898,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 156666,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/1lL1b0bvPS9CrGiKrLIlFq"
+    },
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158928,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR"
     },
     {
       "album": {
@@ -998,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204721,
+      "name": "Ni Como Amigos",
+      "url": "https://open.spotify.com/track/6y2PlqxIjnsRCy2ZR7vosI"
+    },
+    {
+      "album": {
         "name": "LLegaste A Mi Vida",
         "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
@@ -1157,6 +1262,24 @@
       "duration_ms": 248036,
       "name": "Que Le Vaya Bien",
       "url": "https://open.spotify.com/track/7cVpSomkGnX5IpQbeP1vXB"
+    },
+    {
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248057,
+      "name": "Que Le Vaya Bien",
+      "url": "https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU"
     },
     {
       "album": {
@@ -1355,6 +1478,24 @@
       "duration_ms": 221000,
       "name": "Una Noche de Banda (En Vivo)",
       "url": "https://open.spotify.com/track/3ElZIDd1aUw8YXCmyB9FIi"
+    },
+    {
+      "album": {
+        "name": "Desde Pico Rivera!",
+        "url": "https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221006,
+      "name": "Una Noche de Banda - En Vivo",
+      "url": "https://open.spotify.com/track/2bnW1HKDaRsalZiAZWgPo1"
     },
     {
       "album": {

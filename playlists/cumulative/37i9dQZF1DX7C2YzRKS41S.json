@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
   "name": "Amanhecer na Estrada",
-  "published_playlist_ids": [
-    "4PN19Rocw5jhy931gtx7Hy"
-  ],
   "tracks": [
     {
       "album": {
@@ -373,7 +370,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 258720,
       "name": "Ai de Mim",
       "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
@@ -842,6 +839,28 @@
     },
     {
       "album": {
+        "name": "Better Part of Me",
+        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "Better Part of Me",
+      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
+    },
+    {
+      "album": {
         "name": "Big Jet Plane",
         "url": "https://open.spotify.com/album/6nhLs4qiFClX5ef3YaCfFm"
       },
@@ -893,7 +912,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 300253,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T"
@@ -1059,7 +1078,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 122970,
       "name": "Cafun\u00e9",
       "url": "https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl"
@@ -2995,7 +3014,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 217714,
       "name": "I Got So High That I Saw Jesus",
       "url": "https://open.spotify.com/track/3zQikNPCgTVnQLmj5RPn1k"
@@ -3031,10 +3050,28 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-11",
       "duration_ms": 225273,
       "name": "I Went Hunting",
       "url": "https://open.spotify.com/track/2X0B89nchlocmZ12zyYd7H"
+    },
+    {
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225273,
+      "name": "I Went Hunting",
+      "url": "https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S"
     },
     {
       "album": {
@@ -3233,7 +3270,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 238173,
       "name": "Know How",
       "url": "https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG"
@@ -3808,6 +3845,28 @@
     },
     {
       "album": {
+        "name": "Um Ver\u00e3o Qualquer",
+        "url": "https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX"
+      },
+      "artists": [
+        {
+          "name": "Versos Que Compomos Na Estrada",
+          "url": "https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME"
+        },
+        {
+          "name": "Eu Me Chamo Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162214,
+      "name": "Minha Voz",
+      "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
+    },
+    {
+      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
@@ -4019,7 +4078,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 215626,
       "name": "no body, no crime (feat. HAIM)",
       "url": "https://open.spotify.com/track/3RaT22zZsxVYxxKR7TAaYF"
@@ -4595,7 +4654,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 237230,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
@@ -4921,7 +4980,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 206693,
       "name": "Princess of China - Acoustic",
       "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
@@ -5527,7 +5586,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
@@ -6829,6 +6888,24 @@
       "duration_ms": 214929,
       "name": "Venha Pra Ficar (Ao Vivo)",
       "url": "https://open.spotify.com/track/2TJGBHGZWqKhpnvbYpjzWv"
+    },
+    {
+      "album": {
+        "name": "Ver\u00e3o",
+        "url": "https://open.spotify.com/album/3POD3iBXKuBTdaEDncqj4q"
+      },
+      "artists": [
+        {
+          "name": "Ix\u00e3",
+          "url": "https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215655,
+      "name": "Ver\u00e3o",
+      "url": "https://open.spotify.com/track/5rNcfma0PgkCMgJCbsdJEW"
     },
     {
       "album": {

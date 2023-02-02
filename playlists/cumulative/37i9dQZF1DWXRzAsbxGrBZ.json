@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-01",
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
   "name": "Deep House Session",
-  "published_playlist_ids": [
-    "6reWCzCyOkzCijlcHOaUin"
-  ],
   "tracks": [
     {
       "album": {
@@ -289,7 +286,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 386525,
       "name": "Dusty Streets",
       "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
@@ -365,7 +362,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 459731,
       "name": "Flute Activation - Original Mix",
       "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
@@ -730,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Next Generation",
+        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
+      },
+      "artists": [
+        {
+          "name": "Alexsir",
+          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
+        },
+        {
+          "name": "Trust SA",
+          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 342887,
+      "name": "Monomotapa",
+      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+    },
+    {
+      "album": {
         "name": "Multiverse Theory",
         "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
       },
@@ -807,7 +826,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 325593,
       "name": "Ndoyiswe",
       "url": "https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w"
@@ -825,7 +844,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 556673,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
@@ -906,6 +925,24 @@
     },
     {
       "album": {
+        "name": "A (Ray)",
+        "url": "https://open.spotify.com/album/7wZwrvSUnOoUMKtGwYxqNM"
+      },
+      "artists": [
+        {
+          "name": "Slotta",
+          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424810,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/1usuxe02sujhJiCybBWtMN"
+    },
+    {
+      "album": {
         "name": "Out Out",
         "url": "https://open.spotify.com/album/5XY8XVFgy6QdcR5Jh7x2j2"
       },
@@ -925,7 +962,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 428000,
       "name": "Out Out",
       "url": "https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj"
@@ -965,7 +1002,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 476630,
       "name": "Push It",
       "url": "https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs"
@@ -1023,7 +1060,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2022-12-27",
       "duration_ms": 368326,
       "name": "Safari - Original Mix",
       "url": "https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf"
@@ -1067,7 +1104,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": "2022-12-17",
       "duration_ms": 408426,
       "name": "Schr\u00f6dinger's Cat",
       "url": "https://open.spotify.com/track/0rXVfF7ICT4NpN0p3PfUb0"
@@ -1089,7 +1126,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": "2023-01-04",
       "duration_ms": 397355,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4"
@@ -1129,7 +1166,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 411481,
       "name": "Something For Closure",
       "url": "https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR"
@@ -1165,7 +1202,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-13",
       "duration_ms": 412264,
       "name": "Sunday Showers",
       "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
@@ -1253,6 +1290,28 @@
       "duration_ms": 399986,
       "name": "The Inglourious",
       "url": "https://open.spotify.com/track/0NysUzy6N98PijkZVNcgE8"
+    },
+    {
+      "album": {
+        "name": "Thinking 'bout you",
+        "url": "https://open.spotify.com/album/0YPe7RdoxqfrtfExs73nRk"
+      },
+      "artists": [
+        {
+          "name": "Thabang Phaleng",
+          "url": "https://open.spotify.com/artist/5AO6CbpKmGPMLYn5pS7Lp5"
+        },
+        {
+          "name": "Trust SA",
+          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 377873,
+      "name": "thinking 'bout you",
+      "url": "https://open.spotify.com/track/3rpMcYjuP9GZ1Ijoau4iUS"
     },
     {
       "album": {

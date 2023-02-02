@@ -4,7 +4,7 @@
 
 > Drawing from R&B, indie, pop, and more, the electropop act’s singer Olly Alexander shines a light on LGBTQIA+ artists that inspire.
 
-45 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/5wAeuR8WQRbZzkCM3Rieuk)
+45 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

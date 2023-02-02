@@ -4,13 +4,14 @@
 
 > Are you afraid of the dark?
 
-202 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+206 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-11-01 | 2022-07-29 |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2022-01-27 |  |
-| [Alivve](https://open.spotify.com/track/1R6bmo9w0hxLv0VlCrH0S2) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:19 | 2021-11-01 |  |
+| [Alivve](https://open.spotify.com/track/1R6bmo9w0hxLv0VlCrH0S2) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:19 | 2021-11-01 | 2023-01-28 |
+| [Alivve](https://open.spotify.com/track/712J1MIoG92zG8IDmNHayC) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9) | 2:19 | 2022-11-01 |  |
 | [An Uncomfortable Month](https://open.spotify.com/track/37ZSlP83PH8y8u2fErev2y) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Measures \- EP](https://open.spotify.com/album/2hXBZCLBpVHcjfw0jKxP0v) | 5:26 | 2021-11-01 | 2022-10-16 |
 | [And I Drove You Crazy](https://open.spotify.com/track/6kRblaZ5a4V76t7Wd5h9qc) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:31 | 2022-10-23 | 2022-11-01 |
 | [Anti Body](https://open.spotify.com/track/7JaF0id8lWwL5qpscG0lkl) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl) | [Unflesh](https://open.spotify.com/album/5FPSWe35QjdgAaj0c5ETqp) | 3:18 | 2022-10-23 | 2022-11-01 |
@@ -37,10 +38,10 @@
 | [Burn It Down](https://open.spotify.com/track/6pQhrodtxxhlXf9nUg6D6R) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Burn It Down](https://open.spotify.com/album/2ys3qNu1mWQpVwL4O4bZYR) | 3:42 | 2022-10-23 | 2022-11-01 |
 | [Burn Out](https://open.spotify.com/track/1rHeMTZY0H993oP94Gt3mB) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Let Them In](https://open.spotify.com/album/3wZp81xA8MNyKxJD0u6bp4) | 3:53 | 2021-11-01 | 2022-07-29 |
 | [Burn Out](https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Let Them In](https://open.spotify.com/album/46ry8INQSKZQPkjBAwhYou) | 3:53 | 2022-01-27 |  |
-| [Cage Girl](https://open.spotify.com/track/1INxSAGo3BIvfxGBIp7XeM) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Royal Blue Walls](https://open.spotify.com/album/1O9lX0T7wx1JvE0Wu3Vstw) | 2:38 | 2022-10-23 | 2022-11-01 |
+| [Cage Girl](https://open.spotify.com/track/1INxSAGo3BIvfxGBIp7XeM) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Royal Blue Walls](https://open.spotify.com/album/1O9lX0T7wx1JvE0Wu3Vstw) | 2:38 | 2022-10-23 |  |
 | [Churpa Champurrado](https://open.spotify.com/track/2nqZgkJdd2rfViWzGHR6aw) | [Inca Ore](https://open.spotify.com/artist/1ZF5q6erhq7fpctf5WJQ7x) | [Inca Ore / Grouper](https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E) | 2:04 | 2022-10-23 | 2022-11-01 |
 | [Come 2 Me](https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Voulez\-Vous](https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI) | 2:38 | 2022-02-24 |  |
-| [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 | 2022-10-23 | 2022-11-01 |
+| [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 | 2022-10-23 |  |
 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 | 2021-11-01 |  |
 | [Deaf](https://open.spotify.com/track/1bWZNXXL3mQZscxyzO72Ff) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/2yVx5Ark5dEz7YN6tYX4Mu) | 5:12 | 2022-01-27 | 2022-11-10 |
 | [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 | 2022-11-01 |  |
@@ -68,6 +69,7 @@
 | [FOUR TEETH](https://open.spotify.com/track/0EKTuuDuN8bAIwqFB1bPYY) | [True Widow](https://open.spotify.com/artist/7fS59zKuYPKhYlTGdg2PyM) | [Circumambulation](https://open.spotify.com/album/5xkD0KbkpBYK3n8rDA0y6j) | 6:16 | 2022-10-23 | 2022-11-01 |
 | [Frankie Teardrop \- 2019 \- Remaster](https://open.spotify.com/track/2vQRkj2kMwoHKLzxXNsj2h) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 10:26 | 2022-10-23 | 2022-11-01 |
 | [Freak](https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 | 2021-11-01 |  |
+| [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-05 |  |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2022-09-13 |  |
 | [haunt me \(x 3\)](https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:45 | 2022-01-27 |  |
 | [haunt me \(x 3\)](https://open.spotify.com/track/4nsY0oW9IWBUqdoUXv1nUg) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/4YBOpXeNUJzCzLcsGucOMQ) | 2:45 | 2021-11-01 | 2022-07-29 |
@@ -191,6 +193,7 @@
 | [The Furthest Nearby Place](https://open.spotify.com/track/6v1bKQA6HQoKIFM6rN1YMY) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Agitprop Alterna \(Deluxe Edition\)](https://open.spotify.com/album/2pvPHnyco2al0wzBgI1g1S) | 4:20 | 2022-01-27 | 2022-09-15 |
 | [The Furthest Nearby Place](https://open.spotify.com/track/6cGxhZXtOxgneYTmlIVIB2) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Moral Panics](https://open.spotify.com/album/3J4ZH4URD4qiX4nE2YvvtP) | 4:20 | 2021-11-01 | 2022-07-29 |
 | [The Nearer The Fountain, More Pure The Stream Flows](https://open.spotify.com/track/7eVf0wH28SmYws2I1FrtBE) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [The Nearer The Fountain, More Pure The Stream Flows](https://open.spotify.com/album/5JOC38dkd1O0U85m68gvly) | 5:00 | 2021-11-01 | 2022-09-15 |
+| [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 | 2022-12-12 |  |
 | [The Wetlands](https://open.spotify.com/track/6CrTOj2Oa2Vgh6YnKZddIZ) | [Aoife Wolf](https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg) | [The Wetlands](https://open.spotify.com/album/2jWDh6LjGtIVyzCqqzGkVU) | 3:57 | 2022-10-15 |  |
 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6baapASaIABefYuDLE0aNy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/0j0elxqaiOhRDJVpC9IZay) | 5:09 | 2021-11-01 | 2022-07-29 |
 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 | 2022-01-27 |  |
@@ -209,6 +212,7 @@
 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 | 2021-11-01 | 2022-10-16 |
 | [XO](https://open.spotify.com/track/6DmUJDEOlwjehIaOawoTUf) | [Gartex](https://open.spotify.com/artist/2NRoExsFusov5R2frdt1TV) | [XO](https://open.spotify.com/album/2yivLArG7CWlqV3AgnjAet) | 4:40 | 2022-10-23 | 2022-11-01 |
 | [You Never Came](https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:35 | 2022-10-23 | 2022-11-01 |
+| [Your Love Is It Real?](https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G) | [doubleVee](https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt) | [Treat Her Strangely](https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH) | 3:25 | 2022-12-05 |  |
 | [zi oi 自爱](https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [a wonderful thing vomits](https://open.spotify.com/album/5IYtAs1OoLPnXbZyX1LBw1) | 4:16 | 2021-11-01 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

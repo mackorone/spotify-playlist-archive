@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Kick back with a collection of classic and new piano rock and pop.",
   "name": "The Piano Lounge",
-  "published_playlist_ids": [
-    "1d2QPJuB6Fd77XqXT9UYGL"
-  ],
   "tracks": [
     {
       "album": {
@@ -495,7 +492,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 237933,
       "name": "Let It Be - Live",
       "url": "https://open.spotify.com/track/5Rr5QQ1wRzmnqC9MyfTqmk"
@@ -625,7 +622,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 274040,
       "name": "Moondance - 2013 Remaster",
       "url": "https://open.spotify.com/track/6KHNMPZTSif1zFbFKErpNU"

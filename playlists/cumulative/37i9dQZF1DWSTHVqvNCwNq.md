@@ -4,7 +4,7 @@
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-65 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/2YDfZExCT8Our9QwJXIQu7)
+65 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

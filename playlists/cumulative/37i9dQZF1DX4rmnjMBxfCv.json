@@ -1,11 +1,30 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Dance and electronic Arabic songs. Cover: Alok & Issam Alnajjar.",
+  "description": "Dance and electronic Arabic songs. Cover: Obeidmusic, Pamela Antoun.",
   "name": "mint \u0646\u0639\u0646\u0639",
-  "published_playlist_ids": [
-    "54atOgU6aSg6YDGd7DJtW1"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+    },
     {
       "album": {
         "name": "7elm B3eed",
@@ -95,7 +114,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 194237,
       "name": "Alf Leila We Leila Remix",
       "url": "https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9"
@@ -121,6 +140,24 @@
       "duration_ms": 269231,
       "name": "Amira",
       "url": "https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB"
+    },
+    {
+      "album": {
+        "name": "ANSAKI",
+        "url": "https://open.spotify.com/album/5vkbZdEJqhnz7wgRfj6srU"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167794,
+      "name": "ANSAKI",
+      "url": "https://open.spotify.com/track/4O3GYFwAk96plrsPBaTOAc"
     },
     {
       "album": {
@@ -209,10 +246,32 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 187500,
       "name": "Balash Ana (feat. Carmen Soliman) - Mark Shakedown Remix",
       "url": "https://open.spotify.com/track/5OqRDjqBxLUPMOYCqDbxM1"
+    },
+    {
+      "album": {
+        "name": "Bel Ahlam (Remix)",
+        "url": "https://open.spotify.com/album/7F8KwU004mAZFkyAzzK4qc"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        },
+        {
+          "name": "Always April",
+          "url": "https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Bel Ahlam (Remix)",
+      "url": "https://open.spotify.com/track/5jonBF1ctoQZ3vkaTN5VIv"
     },
     {
       "album": {
@@ -305,7 +364,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 294000,
       "name": "El Dunia Helwa",
       "url": "https://open.spotify.com/track/5mVB0eKgO2b6W8JNEKd8si"
@@ -469,7 +528,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 216847,
       "name": "Fein Mchiti",
       "url": "https://open.spotify.com/track/3AJQUzPULtbagemZSWt96n"
@@ -868,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/7z5CP8s91o8O6YXvM4qS3p"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191490,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/64MF9Kii2EhxNr6pm3kkvm"
+    },
+    {
+      "album": {
         "name": "Mafeesh Mostaheel - Arrab Remix",
         "url": "https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW"
       },
@@ -1050,6 +1127,28 @@
     },
     {
       "album": {
+        "name": "Nagham",
+        "url": "https://open.spotify.com/album/1WtsKi9pzRU5Ykx6womfzR"
+      },
+      "artists": [
+        {
+          "name": "Said Mrad",
+          "url": "https://open.spotify.com/artist/7IrQY3CFcNbiiRgnhyA9rg"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555900,
+      "name": "Nagham",
+      "url": "https://open.spotify.com/track/2X3XbK8XGq6kDjhEYu3gxF"
+    },
+    {
+      "album": {
         "name": "MINDCATION",
         "url": "https://open.spotify.com/album/5qsVDa6vDXkyMZPe7tBqPc"
       },
@@ -1105,7 +1204,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 255700,
       "name": "Nta Gudami - Remix",
       "url": "https://open.spotify.com/track/7pxJK697fEgxphm1fxwczS"
@@ -1258,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Seret El Hob Remix",
+        "url": "https://open.spotify.com/album/6ac2W6mJALSa62m9Rjf8WQ"
+      },
+      "artists": [
+        {
+          "name": "Aly Fathalla",
+          "url": "https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "Seret El Hob Remix",
+      "url": "https://open.spotify.com/track/2nLsfcz1xMPpRVQbEICa0a"
+    },
+    {
+      "album": {
         "name": "Shoft Alhala",
         "url": "https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8"
       },
@@ -1273,7 +1390,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 226771,
       "name": "Shoft Alhala - Radio Edit",
       "url": "https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf"
@@ -1365,6 +1482,28 @@
     {
       "album": {
         "name": "Atlantis",
+        "url": "https://open.spotify.com/album/2rPedzPOYgNlH7jjwF6bSL"
+      },
+      "artists": [
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        },
+        {
+          "name": "Randall",
+          "url": "https://open.spotify.com/artist/2SqO0ejUsZ0Z0Rvh4w09Dp"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 236288,
+      "name": "Valhalla",
+      "url": "https://open.spotify.com/track/0UbXHdd27A36j54KIopEns"
+    },
+    {
+      "album": {
+        "name": "Atlantis",
         "url": "https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0"
       },
       "artists": [
@@ -1379,7 +1518,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 236288,
       "name": "Valhalla",
       "url": "https://open.spotify.com/track/62XbDU9C904nhFkcjFXnEQ"
@@ -1440,7 +1579,7 @@
     },
     {
       "album": {
-        "name": "Win (Lesstars Remix)",
+        "name": "Win",
         "url": "https://open.spotify.com/album/0GNcDMnCoCbAgdgpKZXflS"
       },
       "artists": [
@@ -1477,7 +1616,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 399433,
       "name": "XP",
       "url": "https://open.spotify.com/track/3gPI8ddrbwIILGD7Bm9NEg"
@@ -1565,6 +1704,32 @@
       "duration_ms": 164153,
       "name": "Ya Mustafa Ya Mustafa - Moaaz Music Remix",
       "url": "https://open.spotify.com/track/0CaEUXeb3yKbem3QrQ5zin"
+    },
+    {
+      "album": {
+        "name": "Ya Rababa",
+        "url": "https://open.spotify.com/album/39MFNRuzV8F5JOChDRpBxe"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Toufic Hatem",
+          "url": "https://open.spotify.com/artist/4j9gpKIArRkQI69agEe0YH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348305,
+      "name": "Ya Rababa",
+      "url": "https://open.spotify.com/track/0JbbFcObfoamPYxjFO3Bzo"
     },
     {
       "album": {

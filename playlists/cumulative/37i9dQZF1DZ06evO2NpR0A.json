@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
   "name": "This Is Bon Iver",
-  "published_playlist_ids": [
-    "1THUZqjUTNTcesrDKkIzpf"
-  ],
   "tracks": [
     {
       "album": {
@@ -224,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Dark Was The Night (Red Hot Compilation)",
+        "url": "https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242933,
+      "name": "Brackett, WI",
+      "url": "https://open.spotify.com/track/6nC0OeALgrXNmyFFMGKNqO"
+    },
+    {
+      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
       },
@@ -409,7 +424,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 165013,
       "name": "Hinnom, TX",
       "url": "https://open.spotify.com/track/07JjtrTqsBg6hE0xoAU1xZ"
@@ -474,6 +489,28 @@
     },
     {
       "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167636,
+      "name": "Jeanie",
+      "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
+    },
+    {
+      "album": {
         "name": "Jeanie (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/5jWHspWCxRbx19wglIUYkd"
       },
@@ -489,7 +526,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 167636,
       "name": "Jeanie (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/6nv9RCo0IXNzCSGeYtzT82"
@@ -841,7 +878,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 188040,
       "name": "Towers",
       "url": "https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2"
@@ -859,7 +896,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 188040,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5TGv36v9A0AsLq1xJrNs5V"
@@ -935,7 +972,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 285440,
       "name": "Woods",
       "url": "https://open.spotify.com/track/2cx019HWgBsIrv3zLCdSHS"

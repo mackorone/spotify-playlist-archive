@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,642 likes - 93 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,805 likes - 93 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 5 | [Dino Groove](https://open.spotify.com/track/2GLRXgnX2PhxmALVX6X7e1) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Blippi's Treehouse Vol.1](https://open.spotify.com/album/25E577jWtQp1P5xsBSQV43) | 2:39 |
 | 6 | [Dinosaur Song](https://open.spotify.com/track/2Va8eZGeFZuHNqRtmJ2x3C) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 3:04 |
 | 7 | [Roar Like a Dinosaur](https://open.spotify.com/track/5V8PN3AF3IEckdMJo9Zunq) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:39 |
-| 8 | [I Love Dinosaurs](https://open.spotify.com/track/0IB73Mtp2oC8bL8e5dOPf4) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The Mik Maks](https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0) | 1:50 |
+| 8 | [I Love Dinosaurs](https://open.spotify.com/track/0IB73Mtp2oC8bL8e5dOPf4) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The Mik Maks](https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0) | 1:50 |
 | 9 | [Dinosaur Song](https://open.spotify.com/track/0GxRQtlH4J3YbSIw1zshle) | [ITS MUSIC](https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn) | [Dinosaur Song](https://open.spotify.com/album/5AXypWo2PE4LHa3UsVGRsY) | 1:48 |
 | 10 | [I Am a Lonely T\-Rex](https://open.spotify.com/track/7zTOGqiWjXnqI5wGai2F29) | [Noodle Loaf](https://open.spotify.com/artist/353Vr7aR8l3dc5NJZPDXsI) | [Echo Songs, Vol\. 2](https://open.spotify.com/album/4JmfQK0jCcD82wat4slTKU) | 2:25 |
 | 11 | [Future Dinosaur](https://open.spotify.com/track/6e6qP0r6SWIOXPcuJS7QeQ) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Future Dinosaur](https://open.spotify.com/album/17923sUaKpO4osXta791hP) | 2:36 |

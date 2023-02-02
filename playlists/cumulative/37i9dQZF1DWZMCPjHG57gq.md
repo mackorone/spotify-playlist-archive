@@ -4,7 +4,7 @@
 
 > Hear all the best songs by the monumental <a href="spotify:artist:3dkbV4qihUeMsqN4vBGg93">soul singer</a>.
 
-26 songs - 1 hr 41 min - [published](https://open.spotify.com/playlist/5Lic0Ixw6QUdyRtkD2W73b)
+26 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

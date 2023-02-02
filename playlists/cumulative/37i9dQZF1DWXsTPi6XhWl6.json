@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
   "name": "Wide Awake",
-  "published_playlist_ids": [
-    "4QEboiTQ5FZpURd879PG5r"
-  ],
   "tracks": [
     {
       "album": {
@@ -535,7 +532,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
@@ -557,6 +554,24 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
+    },
+    {
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "album": {
@@ -985,7 +1000,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 331800,
       "name": "Lost Coastlines",
       "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
@@ -1147,7 +1162,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 183532,
       "name": "Mr. Tillman",
       "url": "https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL"
@@ -1479,7 +1494,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 233755,
       "name": "Road to Joy",
       "url": "https://open.spotify.com/track/4JHxhiaDpp5omCMtOs1QrB"
@@ -1699,7 +1714,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-18",
       "duration_ms": 208960,
       "name": "Sucker's Prayer",
       "url": "https://open.spotify.com/track/3pxhPssdL2SJObXb5hpCRu"
@@ -1967,7 +1982,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-22",
       "duration_ms": 223933,
       "name": "Twenty Miles",
       "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"
@@ -2151,6 +2166,24 @@
       "duration_ms": 226120,
       "name": "You're Too Weird",
       "url": "https://open.spotify.com/track/33ezCcBwVw2SsAvOsFyJSG"
+    },
+    {
+      "album": {
+        "name": "Tripper",
+        "url": "https://open.spotify.com/album/1T3Cs0BLSZbyk0G62lvPtD"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226120,
+      "name": "You're Too Weird",
+      "url": "https://open.spotify.com/track/5UcAW3tygU6dN6YTGhVYvS"
     },
     {
       "album": {

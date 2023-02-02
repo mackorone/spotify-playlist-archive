@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-13",
   "description": "Reminisce the dancefloor with your little one. ",
   "name": "Raised on Dance",
-  "published_playlist_ids": [
-    "0MAX92hdYNZ1mHsiBpAQfi"
-  ],
   "tracks": [
     {
       "album": {
@@ -333,10 +330,28 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 348226,
       "name": "Dreddoverboard",
       "url": "https://open.spotify.com/track/288xt0sL6ouqgfN8HNuw1O"
+    },
+    {
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348226,
+      "name": "Dreddoverboard",
+      "url": "https://open.spotify.com/track/3i3yFpxoOBJyKd30nVJnzi"
     },
     {
       "album": {
@@ -697,10 +712,28 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 56373,
       "name": "Me And You",
       "url": "https://open.spotify.com/track/4asS3nTbRvOHhTNlhWHQiB"
+    },
+    {
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56373,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/5Qe24d46SgJznsEiNxULP2"
     },
     {
       "album": {

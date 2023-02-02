@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-24",
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
   "name": "Cole\u00e7\u00e3o Hip Hop",
-  "published_playlist_ids": [
-    "4GKtrCmKJEfvuCNCT4WUGE"
-  ],
   "tracks": [
     {
       "album": {
@@ -434,7 +431,7 @@
     },
     {
       "album": {
-        "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
+        "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
         "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
       },
       "artists": [
@@ -447,6 +444,10 @@
           "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
         },
         {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
@@ -455,12 +456,12 @@
           "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
         },
         {
-          "name": "Disstinto",
-          "url": "https://open.spotify.com/artist/7FDAabVIlVUaloRm7MA1Jy"
-        },
-        {
           "name": "Medulla",
           "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
+        },
+        {
+          "name": "Disstinto",
+          "url": "https://open.spotify.com/artist/7FDAabVIlVUaloRm7MA1Jy"
         }
       ],
       "date_added": "2022-08-01",
@@ -601,7 +602,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 366413,
       "name": "Cantando pro Santo",
       "url": "https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9"
@@ -699,7 +700,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 181373,
       "name": "Como Deus Quiser",
       "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
@@ -1507,6 +1508,40 @@
       "duration_ms": 499570,
       "name": "Favela Vive 3",
       "url": "https://open.spotify.com/track/4vlMvk0fDzmfyFbeqVaVfo"
+    },
+    {
+      "album": {
+        "name": "Favela Vive 3",
+        "url": "https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF"
+      },
+      "artists": [
+        {
+          "name": "ADL",
+          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
+        },
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Menor do Chapa",
+          "url": "https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499570,
+      "name": "Favela Vive 3",
+      "url": "https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN"
     },
     {
       "album": {
@@ -2829,6 +2864,10 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
           "name": "Sant",
           "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         }
@@ -3565,6 +3604,24 @@
       "duration_ms": 169067,
       "name": "R&K",
       "url": "https://open.spotify.com/track/0Qxtt20WzO4tUQPTqmDbjY"
+    },
+    {
+      "album": {
+        "name": "Com os Neur\u00f4nios Evoluidos",
+        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258742,
+      "name": "Rainha da Pista",
+      "url": "https://open.spotify.com/track/6pSS3wWysnciJRFMcK14R7"
     },
     {
       "album": {

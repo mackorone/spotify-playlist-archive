@@ -4,7 +4,7 @@
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-144 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/0M6njmtzRHYynJsPIx1FqT)
+144 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [County Line](https://open.spotify.com/track/4RIneS2VuDIzSaN4WRbFLD) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Wit's End](https://open.spotify.com/album/4yVsTp41xK16NMHyNQYuyy) | 5:37 | 2018-12-11 | 2022-11-13 |
 | [County Line](https://open.spotify.com/track/4eLiCNf1Yy1ry1Kpl0KYHV) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Wit's End](https://open.spotify.com/album/3gw0MWlmFki30UNjQr92JZ) | 5:37 | 2018-12-11 | 2022-07-29 |
 | [Dear God \(Sincerely M.O.F.\)](https://open.spotify.com/track/3HrSMLKhDn6mpvc68YuY5W) | [Monsters Of Folk](https://open.spotify.com/artist/7wcYEfyBTrH0iT6J4PgSTj) | [Monsters Of Folk](https://open.spotify.com/album/0S0PP3XHUjfCQwnBnTYOLL) | 5:07 | 2018-12-11 | 2022-11-13 |
-| [Dry Your Eyes](https://open.spotify.com/track/2xwwhTueFfnCVRLXvja1Gu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk) | 4:12 | 2018-12-11 | 2022-11-14 |
+| [Dry Your Eyes](https://open.spotify.com/track/2xwwhTueFfnCVRLXvja1Gu) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk) | 4:12 | 2018-12-11 |  |
 | [Dry Your Eyes](https://open.spotify.com/track/3wfyXleQB8piYZimuVLazF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [City Music](https://open.spotify.com/album/2vBwQxoey9MJ7CApSpGya9) | 4:12 | 2018-12-11 | 2022-07-29 |
 | [Dusty Trails](https://open.spotify.com/track/1J8XsaDbekfEP0vmyLcu7w) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief](https://open.spotify.com/album/14bgLAop7Lgpk2U4VuDFDl) | 4:24 | 2018-12-11 | 2022-07-29 |
 | [Dusty Trails](https://open.spotify.com/track/1nKQHAv7zGcDoGJGqB0qFk) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Expanded Edition\)](https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj) | 4:24 | 2018-12-11 |  |
@@ -142,7 +142,7 @@
 | [Wave of Mutilation \(UK Surf\)](https://open.spotify.com/track/3uUWbdV7zvDnZc9IwdUc5T) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Complete B Sides](https://open.spotify.com/album/58LxhP0wtQiFzXPV5uSlaU) | 3:00 | 2018-12-11 | 2022-07-29 |
 | [Wave of Mutilation \- UK Surf](https://open.spotify.com/track/3UDa3HRIwS4scBYom5K0zl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle 25: B\-Sides, Peel Sessions And Demos](https://open.spotify.com/album/65X4N0kyi2BEk2YR0ndoAz) | 3:00 | 2018-12-11 |  |
 | [Wave of Mutilation \- UK Surf](https://open.spotify.com/track/6DdqhtrLTNnOePpOm3OH7S) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Complete B Sides](https://open.spotify.com/album/2CwA7QN0V8IS0mr5pLT9Xa) | 3:00 | 2018-12-11 | 2022-09-09 |
-| [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 | 2018-12-11 |  |
+| [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 | 2018-12-11 | 2023-01-13 |
 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 | 2018-12-11 |  |
 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 | 2018-12-11 |  |
 | [Wild Side \(Oh the Places You'll Go\)](https://open.spotify.com/track/1mxXTUlRQQnjjFT9h0Dt0p) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR) | 5:40 | 2018-12-11 | 2022-11-13 |

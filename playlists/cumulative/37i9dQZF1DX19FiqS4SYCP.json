@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
   "name": "New Tejano",
-  "published_playlist_ids": [
-    "1DP7NGrjVhNrBARNSXYxLf"
-  ],
   "tracks": [
     {
       "album": {
@@ -124,6 +121,24 @@
     },
     {
       "album": {
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162142,
+      "name": "Before The Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H"
+    },
+    {
+      "album": {
         "name": "MOONCHILD MIXES",
         "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"
       },
@@ -229,7 +244,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 180651,
       "name": "El Besito",
       "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
@@ -323,6 +338,24 @@
       "duration_ms": 200159,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
+    },
+    {
+      "album": {
+        "name": "Make it Norte\u00f1o Vol. 1",
+        "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
+      },
+      "artists": [
+        {
+          "name": "EZ Band",
+          "url": "https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
     },
     {
       "album": {
@@ -913,7 +946,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 227262,
       "name": "Un D\u00eda Veras",
       "url": "https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV"

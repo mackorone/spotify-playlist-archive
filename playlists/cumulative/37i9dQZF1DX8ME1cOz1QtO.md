@@ -4,7 +4,7 @@
 
 > Find the path back to an era of enlightenment.
 
-116 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/5J3EKg539yRy9jhTY0BJOL)
+116 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aldebaran \- 2009 Remaster](https://open.spotify.com/track/0c0atmDbuyQ2hV143MN70h) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [The Celts](https://open.spotify.com/album/2L4XSyyDeIW30SawLTOlj4) | 3:05 | 2021-10-27 | 2022-07-29 |
 | [Alpha](https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Albedo 0.39](https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N) | 5:44 | 2021-10-27 |  |
 | [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 | 2021-10-27 |  |
-| [Ancient Stars](https://open.spotify.com/track/1k5jE8g4ap9J78p0gH05rL) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0) | 6:18 | 2021-10-27 |  |
+| [Ancient Stars](https://open.spotify.com/track/1k5jE8g4ap9J78p0gH05rL) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0) | 6:18 | 2021-10-27 | 2023-01-15 |
 | [Arrival \- Remastered](https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 5:48 | 2021-10-27 |  |
 | [Aurora](https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Cool Islands](https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945) | 3:13 | 2021-10-27 |  |
 | [Be\-Muse\-Ment](https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite 45th Anniversary Collector's Edition](https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21) | 4:33 | 2021-10-27 |  |
@@ -94,7 +94,7 @@
 | [Rubycon \- Pt\. 1 / Remastered 2018](https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Rubycon \(Deluxe Version\)](https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo) | 17:17 | 2021-10-27 |  |
 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 | 2021-10-27 |  |
 | [Silmarillion](https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v), [Jan Akkerman](https://open.spotify.com/artist/3JeTATqIkiHIjyrdOyr68t) | [Meditation](https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND) | 12:00 | 2021-10-27 |  |
-| [Soaring: Crown Chakra](https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:34 | 2021-10-27 | 2022-11-26 |
+| [Soaring: Crown Chakra](https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:34 | 2021-10-27 |  |
 | [Solveig's Song](https://open.spotify.com/track/6hnHp6HChR0OnNVw56cdZ4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Kosmos](https://open.spotify.com/album/34507GICqU2YpiJEbBOKph) | 4:49 | 2021-10-27 |  |
 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 | 2022-01-14 |  |
 | [Stained\-Glass Morning](https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 1:54 | 2021-10-27 |  |

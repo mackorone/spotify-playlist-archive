@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Hand-curated cuts from the vault, no record player required. ",
   "name": "Turntable",
-  "published_playlist_ids": [
-    "5AAqvpIoHyvDthNcBVV4BF"
-  ],
   "tracks": [
     {
       "album": {
@@ -107,7 +104,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 205760,
       "name": "A Moment Of Mystery (feat. Toro y Moi)",
       "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
@@ -233,7 +230,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 205785,
       "name": "And Groove - Edit",
       "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
@@ -309,7 +306,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-31",
+      "date_removed": null,
       "duration_ms": 252413,
       "name": "Asa Branca",
       "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
@@ -711,10 +708,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 245653,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/3nXapkwJPBvHDG5u3PLRGp"
+    },
+    {
+      "album": {
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
     },
     {
       "album": {
@@ -965,7 +980,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 384986,
       "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
       "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
@@ -1113,7 +1128,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
@@ -1429,7 +1444,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 198626,
       "name": "Gospel For A New Century",
       "url": "https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA"
@@ -1891,7 +1906,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 274973,
       "name": "Imagineering",
       "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
@@ -1931,7 +1946,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 265378,
       "name": "In the Hills",
       "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
@@ -2195,7 +2210,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 155653,
       "name": "Koko",
       "url": "https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI"
@@ -3444,6 +3459,28 @@
     },
     {
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/2IhXds0wZkbklKo12XGhb4"
+    },
+    {
+      "album": {
         "name": "Romeo (feat. Bas)",
         "url": "https://open.spotify.com/album/5D56sDvjs4SkBUQQ8kHAir"
       },
@@ -3459,7 +3496,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 166200,
       "name": "Romeo (feat. Bas)",
       "url": "https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa"
@@ -3495,7 +3532,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 174065,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/1vf8YxG1eBOulIZ7dvXRGk"
@@ -4173,7 +4210,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-07",
       "duration_ms": 321204,
       "name": "The Limit",
       "url": "https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc"

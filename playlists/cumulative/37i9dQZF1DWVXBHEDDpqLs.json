@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
   "name": "Global Club Music",
-  "published_playlist_ids": [
-    "5QQpMPs6GIuzG9aq7Y4uCu"
-  ],
   "tracks": [
     {
       "album": {
@@ -101,7 +98,7 @@
           "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         },
         {
-          "name": "Michael Brun",
+          "name": "Micha\u00ebl Brun",
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
@@ -259,6 +256,32 @@
       "duration_ms": 86424,
       "name": "Atomic",
       "url": "https://open.spotify.com/track/4JLOOh4uSHUv7bp14Gte2i"
+    },
+    {
+      "album": {
+        "name": "attachment (she wanna love)",
+        "url": "https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "Bossa",
+          "url": "https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC"
+        },
+        {
+          "name": "Kanii Archive",
+          "url": "https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88620,
+      "name": "attachment (she wanna love)",
+      "url": "https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S"
     },
     {
       "album": {
@@ -611,7 +634,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 170981,
       "name": "Blessed - DJ Sliink Remix",
       "url": "https://open.spotify.com/track/0K7U3HXP57djVDMYEha4m4"
@@ -663,7 +686,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 268057,
       "name": "Bombtrack (Roska Remix)",
       "url": "https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap"
@@ -965,7 +988,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-05",
       "duration_ms": 189518,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
@@ -1407,7 +1430,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": "2022-12-13",
       "duration_ms": 202439,
       "name": "Ga$ton Rasta",
       "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
@@ -1605,7 +1628,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 171940,
       "name": "Heartbroken Twenty Twenty",
       "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
@@ -2406,6 +2429,32 @@
     },
     {
       "album": {
+        "name": "Homecore! Miami All-Stars",
+        "url": "https://open.spotify.com/album/66XFndmwDXr8Eu6llRCzSd"
+      },
+      "artists": [
+        {
+          "name": "La Goony Chonga",
+          "url": "https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI"
+        },
+        {
+          "name": "Danny Daze",
+          "url": "https://open.spotify.com/artist/6xYBrFTJUOzyzMvhUiFHuB"
+        },
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Phonkay",
+      "url": "https://open.spotify.com/track/7Gi8tO48Xe7IcgiVXTqs1x"
+    },
+    {
+      "album": {
         "name": "Pree Me (Chris Lorenzo Remix)",
         "url": "https://open.spotify.com/album/3kEURw2yWBiWtOfIWvKQYJ"
       },
@@ -2543,7 +2592,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 173000,
       "name": "RDT - Detroit In Effect Remix",
       "url": "https://open.spotify.com/track/5Tel96YhCtK8jdNb3S92hO"
@@ -2843,7 +2892,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 348000,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A"
@@ -2863,8 +2912,8 @@
           "url": "https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx"
         },
         {
-          "name": "DSturdy",
-          "url": "https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC"
+          "name": "D STURDY",
+          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
         }
       ],
       "date_added": "2022-07-08",
@@ -3511,7 +3560,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 203636,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3EinJKmldBC1cQ9rVDiHEp"
@@ -3524,7 +3573,7 @@
       "artists": [
         {
           "name": "D STURDY",
-          "url": "https://open.spotify.com/artist/4ca91BWVgdWAOiATQiMoxl"
+          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
         },
         {
           "name": "Fakebitcheshero",

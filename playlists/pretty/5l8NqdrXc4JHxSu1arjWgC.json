@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 3754,
+  "num_followers": 3955,
   "original_name": "Red Vox Recent Favorites",
   "owner": {
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "MTY4MSw3OWZjMDhkNzY1NzMyYWZkYjYwNmFmNWJjZGVkNmU4Y2JmYjE5M2Qy",
+  "snapshot_id": "MTY4OSw2NGVhYjk5ZGYyYTAxYmZhZmE4MDUzOTFmZGNmNDQ3YjI5OGQ2NjNl",
   "tracks": [
     {
       "added_at": "2022-03-23 01:58:53",
@@ -261,7 +261,7 @@
         }
       ],
       "duration_ms": 313554,
-      "name": "Chest Fever - Remastered",
+      "name": "Chest Fever - Remastered 2000",
       "url": "https://open.spotify.com/track/2uMbDaPM5knVhHlDXqCc2c"
     },
     {
@@ -4250,10 +4250,6 @@
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "Jerry Harrison",
-          "url": "https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy"
         }
       ],
       "duration_ms": 221920,
@@ -10667,6 +10663,142 @@
       "duration_ms": 216693,
       "name": "Arrow Through Me - Remastered 1993",
       "url": "https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k"
+    },
+    {
+      "added_at": "2022-11-28 04:07:48",
+      "album": {
+        "name": "Omnium Gatherum",
+        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 364599,
+      "name": "Magenta Mountain",
+      "url": "https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2"
+    },
+    {
+      "added_at": "2022-12-02 19:21:38",
+      "album": {
+        "name": "Superstate (feat. Graham Coxon)",
+        "url": "https://open.spotify.com/album/265K7BOpojsq3RvCVbjz1z"
+      },
+      "artists": [
+        {
+          "name": "Superstate",
+          "url": "https://open.spotify.com/artist/0TLcN68jey7bYM2HQEdRgi"
+        },
+        {
+          "name": "Graham Coxon",
+          "url": "https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC"
+        },
+        {
+          "name": "Rahel Debebe-Dessalegne",
+          "url": "https://open.spotify.com/artist/2SDNXRQ8uX3TJxu4t6EEO3"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "It's All In Your Mind (feat. Graham Coxon & Rahel Debebe-Dessalegne)",
+      "url": "https://open.spotify.com/track/0GybSKd5oGeLMtCLbXhBoQ"
+    },
+    {
+      "added_at": "2022-12-15 20:18:30",
+      "album": {
+        "name": "Skinny Ape",
+        "url": "https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 281258,
+      "name": "Skinny Ape",
+      "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
+    },
+    {
+      "added_at": "2022-12-16 04:49:25",
+      "album": {
+        "name": "Chips From The Chocolate Fireball",
+        "url": "https://open.spotify.com/album/46ZRujqytRXcbgloCKA9Q7"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Stratosphear",
+          "url": "https://open.spotify.com/artist/1ilhXoWIlGxz3fM4B24mNo"
+        }
+      ],
+      "duration_ms": 358773,
+      "name": "The Mole From The Ministry - 2001 Mix",
+      "url": "https://open.spotify.com/track/2RHt1SrW1M4yBG3cUBjBz2"
+    },
+    {
+      "added_at": "2022-12-21 05:12:56",
+      "album": {
+        "name": "English Settlement",
+        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 274533,
+      "name": "Runaways - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6Z4O4Ugbk9jpDrXyrpFG8g"
+    },
+    {
+      "added_at": "2023-01-18 04:08:13",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3sjAsmZhY1zywVwQcGQ8o7"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Keep On Dreamin'",
+      "url": "https://open.spotify.com/track/39ANGjy2wj0FpdL9jn670l"
+    },
+    {
+      "added_at": "2023-01-22 20:15:23",
+      "album": {
+        "name": "Guitar Legend: The Very Best Of Dick Dale",
+        "url": "https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol"
+      },
+      "artists": [
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+        }
+      ],
+      "duration_ms": 394213,
+      "name": "Third Stone From The Sun",
+      "url": "https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1"
+    },
+    {
+      "added_at": "2023-01-31 20:14:53",
+      "album": {
+        "name": "To the Moon",
+        "url": "https://open.spotify.com/album/5T9fiTYrP7eZ6d47VR86Y8"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "duration_ms": 170021,
+      "name": "To the Moon",
+      "url": "https://open.spotify.com/track/02WFT9dNg31Skl02dPT1ei"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

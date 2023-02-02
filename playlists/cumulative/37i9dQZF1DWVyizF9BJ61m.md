@@ -4,7 +4,7 @@
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-75 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/79QmEbB0xiRT4xmUcdumGe)
+75 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [I Want a Break Thru](https://open.spotify.com/track/7fvX8AXBlE44ahviQ4Ailz) | [The Hykkers](https://open.spotify.com/artist/5TaivlrIgcjs0dRCIgcSbL) | [I Want a Break Thru](https://open.spotify.com/album/0Lmror3GbI6g6NNPoxwlnI) | 3:02 | 2019-03-22 |  |
 | [In The Jungle \(Instrumental\)](https://open.spotify.com/track/4Maj54gxqVxtDkV7NVhuGA) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [Keep On Moving](https://open.spotify.com/album/5FdJf2mAyJnQ6h7eoC8alN) | 3:08 | 2019-03-22 |  |
 | [In the Jungle \- Instrumental](https://open.spotify.com/track/4bGdBAWrCkz4ZxXbWOreoK) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [Nigeria Rock Special: Psychedelic Afro\-Rock & Fuzz Funk in 1970's Nigeria](https://open.spotify.com/album/3da6by8KHBpcDs75FF4lDV) | 3:09 | 2019-03-22 | 2022-07-29 |
-| [It's Not Easy](https://open.spotify.com/track/2pm72A1aBHKwqr05xaDW8h) | [Ofege](https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe) | [Forge Your Own Chains: Heavy Psychedelic Ballads And Dirges 1968\-1974](https://open.spotify.com/album/1TQtU1pMPnhKv3Nz23TGMI) | 4:20 | 2019-03-22 |  |
+| [It's Not Easy](https://open.spotify.com/track/2pm72A1aBHKwqr05xaDW8h) | [Ofege](https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe) | [Forge Your Own Chains: Heavy Psychedelic Ballads and Dirges 1968\-1974](https://open.spotify.com/album/1TQtU1pMPnhKv3Nz23TGMI) | 4:20 | 2019-03-22 |  |
 | [Keleya](https://open.spotify.com/track/7w6ecCTPqvBRbyzQYvxJPq) | [Moussa Doumbia](https://open.spotify.com/artist/2yRG7OVkS0IXvJfntYxHfV) | [Twenty First Century Twenty First Year](https://open.spotify.com/album/2m8xqBck8zwqI5rP3NokD4) | 6:39 | 2019-03-22 | 2022-11-13 |
 | [Keleya](https://open.spotify.com/track/1C493ttl2J8v0Glb3jzPjQ) | [Moussa Doumbia](https://open.spotify.com/artist/2yRG7OVkS0IXvJfntYxHfV) | [World Psychedelic Classics: Love's A Real Thing](https://open.spotify.com/album/0asepq8bUj1HDuIvLO1Pjz) | 6:42 | 2019-03-22 | 2022-07-29 |
 | [Keleya](https://open.spotify.com/track/22wOMwqWNjm49RCPyX8H5c) | [Moussa Doumbia](https://open.spotify.com/artist/2yRG7OVkS0IXvJfntYxHfV) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 6:42 | 2019-03-22 |  |

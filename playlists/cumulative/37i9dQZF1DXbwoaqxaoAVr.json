@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Pop style reggae for a sunny vibe!",
   "name": "Sunshine Reggae",
-  "published_playlist_ids": [
-    "6OON8IP5XzEqV1CYjtEBCy"
-  ],
   "tracks": [
     {
       "album": {
@@ -165,6 +162,24 @@
       "duration_ms": 303226,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw"
+    },
+    {
+      "album": {
+        "name": "Sons of Zion",
+        "url": "https://open.spotify.com/album/0UeLDwEOhTWT3pDbJ4otLc"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220250,
+      "name": "Be With You - 2022 Version",
+      "url": "https://open.spotify.com/track/0DpRKdn06BWfJlFd7eAyZt"
     },
     {
       "album": {
@@ -448,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Night Nurse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317360,
+      "name": "Cool Down The Pace",
+      "url": "https://open.spotify.com/track/4llIZen1Cn4mi3DJm2Lqlz"
+    },
+    {
+      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -583,7 +616,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 204617,
       "name": "Eiffel Tower",
       "url": "https://open.spotify.com/track/4CdAL878c5nQDM3htsy96Y"
@@ -935,7 +968,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 237904,
       "name": "I Wanna Live",
       "url": "https://open.spotify.com/track/2myre8mTEQXlkuaa9iAYdT"
@@ -1363,7 +1396,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 242692,
       "name": "Living is the Lesson (with Iration)",
       "url": "https://open.spotify.com/track/70k3t3MCp0OotE7GiXXXJR"
@@ -1451,7 +1484,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 170016,
       "name": "Love Me Easy",
       "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
@@ -1499,7 +1532,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 246213,
       "name": "Lucky (feat. Emily King)",
       "url": "https://open.spotify.com/track/10RokxYn1aqGPeKGT5Z1C3"
@@ -1517,10 +1550,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 150320,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/2hNV55lee10JvRSQ918fMn"
+    },
+    {
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/5EypOXAENUBdyfTAHbLTe9"
+      },
+      "artists": [
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/7CgedTnm0Ehh8O1Iaa8OwM"
     },
     {
       "album": {
@@ -1539,10 +1590,32 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 252812,
       "name": "Magic Potion",
       "url": "https://open.spotify.com/track/3wE1mg5XLt1HR4BC3Dm6Tg"
+    },
+    {
+      "album": {
+        "name": "The Feels & Groove EP",
+        "url": "https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM"
+      },
+      "artists": [
+        {
+          "name": "Lomez Brown",
+          "url": "https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD"
+        },
+        {
+          "name": "Lion Rezz",
+          "url": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252865,
+      "name": "Magic Potion (feat. Lion Rezz)",
+      "url": "https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC"
     },
     {
       "album": {
@@ -1651,7 +1724,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 279741,
       "name": "My World Is Empty Without You",
       "url": "https://open.spotify.com/track/2f5l3dzeD2KMTZJDxo3wZP"
@@ -1699,7 +1772,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 249533,
       "name": "Night Nurse",
       "url": "https://open.spotify.com/track/4DQttwipnILl88cru3BRZx"
@@ -1919,7 +1992,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 217508,
       "name": "Pressure Drop",
       "url": "https://open.spotify.com/track/7G66lsaWrdRqJ4Kt3aZ6as"
@@ -1975,6 +2048,28 @@
       "duration_ms": 248470,
       "name": "Queen Majesty",
       "url": "https://open.spotify.com/track/2Rn5NVoQqXO6RAzs9ukquC"
+    },
+    {
+      "album": {
+        "name": "Raving",
+        "url": "https://open.spotify.com/album/4QNuinT68UmNlB9ocO9vgY"
+      },
+      "artists": [
+        {
+          "name": "Tony Curtis",
+          "url": "https://open.spotify.com/artist/67lbnNvIaK3h8L0sFxoXvJ"
+        },
+        {
+          "name": "Derrick Sound",
+          "url": "https://open.spotify.com/artist/6K2wSa8g588RRkVb0ZPkqo"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 242437,
+      "name": "Raving",
+      "url": "https://open.spotify.com/track/71Yau1SPr0ErD5spLwGwT8"
     },
     {
       "album": {
@@ -2149,7 +2244,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 209357,
       "name": "Soul of the World (with Barrington Levy)",
       "url": "https://open.spotify.com/track/7DpNYAQdvEg5vFD8U5UriV"
@@ -2345,7 +2440,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 219072,
       "name": "The Lucky One",
       "url": "https://open.spotify.com/track/56H7ChmRXYt092T3qwjARD"
@@ -2437,7 +2532,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 306160,
       "name": "Top Rankin'",
       "url": "https://open.spotify.com/track/2Fzl5w6pWXTOEK1dfHkL6X"
@@ -2463,7 +2558,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 227666,
       "name": "Train - Mafia & Fluxy Remix",
       "url": "https://open.spotify.com/track/0N3YUncgwE66V0vpRHhdjJ"
@@ -2499,7 +2594,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 206879,
       "name": "True Love",
       "url": "https://open.spotify.com/track/1rNVWAPDh9YZbjjTRY9ibt"
@@ -2517,7 +2612,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 168949,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/1Al62CTbZeI6uLLvam4sFN"
@@ -2565,7 +2660,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 277610,
       "name": "Wasted Energy (feat. Kaash Paige & Diamond Platnumz) - Remix",
       "url": "https://open.spotify.com/track/317UXTC1xTbzDeuJ9u77q8"
@@ -2657,6 +2752,46 @@
       "duration_ms": 158201,
       "name": "Wrong Decision",
       "url": "https://open.spotify.com/track/4DkypNYUkFpVGti3L7wUC3"
+    },
+    {
+      "album": {
+        "name": "Yearn to Burn",
+        "url": "https://open.spotify.com/album/5PtN6aW3lzkZ1lgLaP5i34"
+      },
+      "artists": [
+        {
+          "name": "Geoff Weers",
+          "url": "https://open.spotify.com/artist/52zqbHNNh8iRMYAXQHM5r9"
+        },
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Yearn to Burn",
+      "url": "https://open.spotify.com/track/3Iny6X0WfTwrAWWlXxa587"
+    },
+    {
+      "album": {
+        "name": "You Can't Hurry Love",
+        "url": "https://open.spotify.com/album/3yBpB9HYVUEiLSLoHI1Chc"
+      },
+      "artists": [
+        {
+          "name": "Pinky Dread",
+          "url": "https://open.spotify.com/artist/0Y876qrI6O3kItxH3ycwaQ"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154859,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/7zVz2u9UQJl6lJxaQuqQoJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbwoaqxaoAVr"

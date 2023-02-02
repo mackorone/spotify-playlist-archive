@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 
 > Progressive beats and harmonies for the late hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,875 likes - 53 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,844 likes - 53 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 6 | [Le Gini](https://open.spotify.com/track/3W1hVS6uIsH7Dh3EgOQwIS) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS) | [Darr's Lane](https://open.spotify.com/album/2VvHRyKp8azid9MfmiDySB) | 6:09 |
 | 7 | [Joyful Resistance Part I](https://open.spotify.com/track/7zN0QWpTE8SMnmowkg6x2h) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P) | [Midnight Snacks vol.1](https://open.spotify.com/album/3u0nEa0WmDG65OzPylGtwK) | 4:06 |
 | 8 | [Poetic Imagination](https://open.spotify.com/track/7pzZShy71tjHQEJtz6Yq5y) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/4GSCPNh2Hf8CVcmJe1oTGM) | 2:08 |
-| 9 | [Hang Glide](https://open.spotify.com/track/0XbdhHYvrfmUeMd6NaCfmN) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Hang Glide](https://open.spotify.com/album/5q1Z7lu9fC7uGg59klaQxS) | 3:54 |
+| 9 | [Hang Glide](https://open.spotify.com/track/5oQf54oJ9Syx0SM5utTsbl) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Hang Glide](https://open.spotify.com/album/1jF5hnhL0sfEyShSzgQc1r) | 3:54 |
 | 10 | [Cyrus](https://open.spotify.com/track/1HSpCqvsyUd7URKsnzOTVs) | [Barra Brown](https://open.spotify.com/artist/4rw6zh0NRR8sLOKCXFSsDe), [Cyrus Nabipoor](https://open.spotify.com/artist/0jmBXGiYaxSDOewYhEhgbQ) | [LFT:RT](https://open.spotify.com/album/6wMTUEpIhoy9ckYs0PUJ8C) | 3:39 |
 | 11 | [By Design](https://open.spotify.com/track/4HltUhQXotO1Hzkrl5eKIo) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Collagically Speaking](https://open.spotify.com/album/4odXFRfbmTNdyjiidyDgDb) | 5:27 |
 | 12 | [Yipee](https://open.spotify.com/track/78R0kfQEC2vEB2J6twyVoo) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Yipee](https://open.spotify.com/album/65f6s3zvSKgc39bx0IsDJD) | 2:16 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 52 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 |
 | 53 | [Miles Deep](https://open.spotify.com/track/18OP3a6pS4Xeqy0r6hbqxN) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Miles Deep](https://open.spotify.com/album/1eyG2lpsmDFIfPAXXZuP7z) | 6:29 |
 
-Snapshot ID: `MTY0NDYwNzUyNywwMDAwMDAwMGI2NmIzMTNjMTJiZmY1ZmUyNGExODRjNmZjZDMyNWMx`
+Snapshot ID: `MTY0NDYwNzUyNywwMDAwMDAwMGYwMjg0NTZkZDg1Mjk1ZDU4NDAzZDBlMzU1MmQxYTMx`

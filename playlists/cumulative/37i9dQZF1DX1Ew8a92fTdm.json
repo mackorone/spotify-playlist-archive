@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Peaceful music box tunes for sleepy babies.",
   "name": "Music Box Lullabies",
-  "published_playlist_ids": [
-    "6TPXRhAYwfF0T2qiE0ZMzm"
-  ],
   "tracks": [
     {
       "album": {
@@ -296,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Baby Swan Dreams",
+        "url": "https://open.spotify.com/album/7E6IbMz51uTaQlnUa59fvc"
+      },
+      "artists": [
+        {
+          "name": "Luna Ull",
+          "url": "https://open.spotify.com/artist/3WCRwq0tALrJmzA0N09HaV"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105980,
+      "name": "Baby Swan Dreams",
+      "url": "https://open.spotify.com/track/4iR3wPEbv4hY91LfCaZb8U"
+    },
+    {
+      "album": {
         "name": "Baby Waltz",
         "url": "https://open.spotify.com/album/3lHX0ykuoph6qtYCS1nmrW"
       },
@@ -307,7 +322,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 104847,
       "name": "Baby Waltz",
       "url": "https://open.spotify.com/track/5iYqthNAUpzgCFZrogSr79"
@@ -343,7 +358,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 131385,
       "name": "Backyard Daydream",
       "url": "https://open.spotify.com/track/0S2aU6wJL4OMjtjA4WnSMP"
@@ -473,6 +488,24 @@
       "duration_ms": 119156,
       "name": "Big Fat Cat",
       "url": "https://open.spotify.com/track/4fhl9JjNb9CMTAnFJ5k8UA"
+    },
+    {
+      "album": {
+        "name": "Bj\u00f6rnen Sover",
+        "url": "https://open.spotify.com/album/2Wz5ILHgsRxZMVQsSsrnKh"
+      },
+      "artists": [
+        {
+          "name": "Carla Alf\u00e9rez",
+          "url": "https://open.spotify.com/artist/6KEiIzUqTnXYbDoNih5LtL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92926,
+      "name": "Bj\u00f6rnen Sover",
+      "url": "https://open.spotify.com/track/7iRk0FmuwHWMgX5qHOfoEQ"
     },
     {
       "album": {
@@ -883,7 +916,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 85082,
       "name": "Duermete Mi Nino",
       "url": "https://open.spotify.com/track/17kSN7QuksZHy3gTzU3v0M"
@@ -1250,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Higher and Higher",
+        "url": "https://open.spotify.com/album/0g21X2YiyT6CvI3ZiT8E4O"
+      },
+      "artists": [
+        {
+          "name": "Emilie Kirsstadt",
+          "url": "https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92437,
+      "name": "Higher and Higher",
+      "url": "https://open.spotify.com/track/31gNqNBaEauhZ4NfHU6oxP"
+    },
+    {
+      "album": {
         "name": "Lullabies on Music Box Vol 2",
         "url": "https://open.spotify.com/album/6i60rEg1H3MI6LG4c2lUHF"
       },
@@ -1466,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Litet bo jag s\u00e4tta vill",
+        "url": "https://open.spotify.com/album/4E9junRVt6IwKCr8IRH78c"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Bj\u00f6rkman",
+          "url": "https://open.spotify.com/artist/2SdRSEuy0pwKedI6cZyTPI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83012,
+      "name": "Litet bo jag s\u00e4tta vill",
+      "url": "https://open.spotify.com/track/5qEoofV0UUskhni4I1vfn1"
+    },
+    {
+      "album": {
         "name": "Tommy Thumb",
         "url": "https://open.spotify.com/album/3xy4asbR8bGz43QEiwCYes"
       },
@@ -1499,6 +1568,24 @@
       "duration_ms": 101724,
       "name": "Little Dreamers",
       "url": "https://open.spotify.com/track/4alV2d3zSYVDSBOHGTGaaW"
+    },
+    {
+      "album": {
+        "name": "Little Red Scarf",
+        "url": "https://open.spotify.com/album/7GmSpEtRxyp4Tt0RsS2lAG"
+      },
+      "artists": [
+        {
+          "name": "Bernie Toft",
+          "url": "https://open.spotify.com/artist/5YmfywgjBeKHuALBAZyUDp"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87231,
+      "name": "Little Red Scarf",
+      "url": "https://open.spotify.com/track/2azl4gJGrpDlLSrlA1DyGW"
     },
     {
       "album": {
@@ -1711,7 +1798,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 204126,
       "name": "My Grandfather's Clock",
       "url": "https://open.spotify.com/track/2JkK9MpwEoU1JuhWFsnUrG"
@@ -1787,6 +1874,24 @@
       "duration_ms": 96624,
       "name": "Oh Dear What Can The Matter Be",
       "url": "https://open.spotify.com/track/515HlA9jR6X2deb9ip6C6e"
+    },
+    {
+      "album": {
+        "name": "On The Field Of Dreams",
+        "url": "https://open.spotify.com/album/3AyzUXZw4EJaFwMOxss7ZY"
+      },
+      "artists": [
+        {
+          "name": "Izabella Kirk",
+          "url": "https://open.spotify.com/artist/0PrTw0kgFwYZz0lje9LFED"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71732,
+      "name": "On The Field Of Dreams",
+      "url": "https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV"
     },
     {
       "album": {
@@ -1895,6 +2000,24 @@
       "duration_ms": 96500,
       "name": "Pillowland",
       "url": "https://open.spotify.com/track/0WlhOzbdApycx5FARxvg6K"
+    },
+    {
+      "album": {
+        "name": "Polly Put the Kettle On",
+        "url": "https://open.spotify.com/album/6lv7Lej6lzQvo889dXN7w8"
+      },
+      "artists": [
+        {
+          "name": "Maurice Greenwood",
+          "url": "https://open.spotify.com/artist/1Ajd6F60K356s8BACssfAo"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111094,
+      "name": "Polly Put the Kettle On",
+      "url": "https://open.spotify.com/track/0wExYVFsUNHbryqrMfemMz"
     },
     {
       "album": {
@@ -2096,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Sleep My Little Baby",
+        "url": "https://open.spotify.com/album/38Fi5exTFOB5TCLtweu2DW"
+      },
+      "artists": [
+        {
+          "name": "Elliot Gordon",
+          "url": "https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108791,
+      "name": "Sleep My Little Baby",
+      "url": "https://open.spotify.com/track/55PaJkISKYtpjOvtyAgPDf"
+    },
+    {
+      "album": {
         "name": "Sleep Tight",
         "url": "https://open.spotify.com/album/2wyRwPa4bcxLlhMwRSpTwg"
       },
@@ -2132,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Sleeping Otters",
+        "url": "https://open.spotify.com/album/0rBu8CY7PCFkdeLajMjwX8"
+      },
+      "artists": [
+        {
+          "name": "Celeste Saga",
+          "url": "https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95850,
+      "name": "Sleeping Otters",
+      "url": "https://open.spotify.com/track/5LH9wtbdbuFtNVfo6eag1x"
+    },
+    {
+      "album": {
         "name": "Slumberland Song",
         "url": "https://open.spotify.com/album/1B5CmudUyJWVORuPQdbYV6"
       },
@@ -2165,6 +2324,24 @@
       "duration_ms": 108400,
       "name": "Softly We Sleep",
       "url": "https://open.spotify.com/track/2Zzcdaz8hykNepVxzusTVJ"
+    },
+    {
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/1cmWsgZNTWtsWHZRPBFWMJ"
+      },
+      "artists": [
+        {
+          "name": "Nibble Pig",
+          "url": "https://open.spotify.com/artist/1yGBlYX70u0Ok69QkNOwtF"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125525,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7GxyqEGtd7I9ytd5QmKUjZ"
     },
     {
       "album": {
@@ -2363,6 +2540,24 @@
       "duration_ms": 68750,
       "name": "Suo G\u00e2n",
       "url": "https://open.spotify.com/track/5ejZpwnJQipTb8H7IHr6va"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams My Darling",
+        "url": "https://open.spotify.com/album/5bGojAvVq5shVrL0FokbC2"
+      },
+      "artists": [
+        {
+          "name": "Orla Rowe",
+          "url": "https://open.spotify.com/artist/7cdmcpXO3r2VJ2uZTzFFBC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93049,
+      "name": "Sweet Dreams Now, My Darling",
+      "url": "https://open.spotify.com/track/4QiAPJf6uYHwNjkQpFfCfJ"
     },
     {
       "album": {
@@ -2654,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "This Old Man",
+        "url": "https://open.spotify.com/album/1wfcOhdCsO39PH9lXdHUUB"
+      },
+      "artists": [
+        {
+          "name": "Mel Rhodes",
+          "url": "https://open.spotify.com/artist/4w5EOctmJhCFqHsXJw5nT4"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94867,
+      "name": "This Old Man",
+      "url": "https://open.spotify.com/track/603Ov6PDOdfNkd1orkHPDV"
+    },
+    {
+      "album": {
         "name": "Three Blind Mice",
         "url": "https://open.spotify.com/album/4Byo31HOmhu3wa6CEKdqbl"
       },
@@ -2795,6 +3008,24 @@
       "duration_ms": 67711,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/7lElQ1zwjKaEfINWBT4ATx"
+    },
+    {
+      "album": {
+        "name": "Videvisan",
+        "url": "https://open.spotify.com/album/1zn9Dh2o6gdmi0iH0Atva4"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Kempe",
+          "url": "https://open.spotify.com/artist/1QvAHSuu023cDHMSIhsslX"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82711,
+      "name": "Videvisan",
+      "url": "https://open.spotify.com/track/21bIVZk8cGOCCoEfgnqVEm"
     },
     {
       "album": {

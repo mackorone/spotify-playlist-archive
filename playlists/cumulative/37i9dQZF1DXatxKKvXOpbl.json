@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-02",
   "description": "Uma sele\u00e7\u00e3o good vibes pra voc\u00ea trabalhar de boa!",
   "name": "Home Office",
-  "published_playlist_ids": [
-    "09fWrA6IYnwxJenU0brBIZ"
-  ],
   "tracks": [
     {
       "album": {
@@ -672,6 +669,24 @@
     },
     {
       "album": {
+        "name": "THE S(EX) TAPES [Extended]",
+        "url": "https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/0mesc5M3rg18gSQQELwwKu"
+    },
+    {
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/3Lqu5UobtbYUhASHttzNjY"
       },
@@ -701,7 +716,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 182733,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3adxxXViv1a6kvkAaACCMm"
@@ -2541,7 +2556,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240706,
-      "name": "Stay - Album Version (Edited)",
+      "name": "Stay",
       "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
     },
     {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-68 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/2qdl1OzkEdMIjDdU6N0mTK)
+73 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Deeper](https://open.spotify.com/track/27oOAuxSK69G8PN3UrkeoA) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [24 HRS \(Expanded Edition\)](https://open.spotify.com/album/3EeOsvEKHv6dyG2x2XZJ6Q) | 2:36 | 2022-09-08 |  |
 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 | 2022-09-08 |  |
 | [Dizzy](https://open.spotify.com/track/66wY9Ppol67ODxjtRoYLbg) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/4NQ6wigiT0h1tNN7Y6KY8P) | 3:36 | 2022-09-08 |  |
+| [Dizzy](https://open.spotify.com/track/6RQzfmZSfGZ0jgvG2DJp0d) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/1nojYUUt3enwz0qoR4pPJ9) | 3:36 | 2022-12-04 | 2023-02-02 |
 | [Don't Wait Too Long](https://open.spotify.com/track/5yUG1UgHD2LjpuQkJjOlJu) | [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Shadow Man \(feat\. Sasha Gracanin\)](https://open.spotify.com/album/5debPYP5vc7Cl4gJE3hbpT) | 3:16 | 2022-09-08 |  |
 | [Down with Ya \(feat\. Madcon\)](https://open.spotify.com/track/6t43w43IpQxBt5IrEUqgdy) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [Head for the stars](https://open.spotify.com/album/2pvzF6KG5eCbmSTgmTTiHe) | 3:44 | 2022-09-08 |  |
 | [Dreams](https://open.spotify.com/track/6VMqlhUv1V98yKas8xMefk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:40 | 2022-09-08 |  |
@@ -26,12 +27,14 @@
 | [Get Away](https://open.spotify.com/track/01dbqbILV6Xp0omwxIZFOY) | [Angel Valdueza](https://open.spotify.com/artist/3JZKtORRzaYbEpTpp3H5RK) | [Get Away](https://open.spotify.com/album/14PTHi9hgtGbIGno1Rgpv6) | 2:48 | 2022-09-08 |  |
 | [Girls](https://open.spotify.com/track/0Et0bokFY3sAr8Hgg4DnXJ) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girls](https://open.spotify.com/album/1Cg5coj6Ac7byRUMRf313K) | 3:20 | 2022-09-08 | 2022-10-19 |
 | [Girls](https://open.spotify.com/track/3p8sr6dPBa86KDMcup7q5P) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girls](https://open.spotify.com/album/6pwVv0Pf79ITNQaiAz796u) | 3:20 | 2022-10-18 |  |
+| [Goodbye](https://open.spotify.com/track/3hyhiK6GT3I5e2pJBOT2yc) | [Riza Raquel](https://open.spotify.com/artist/4e9Vcf27riqB6oA9IgWSpb) | [Goodbye](https://open.spotify.com/album/5Ot1evmXCckrToeHdqslPG) | 3:35 | 2022-12-11 |  |
 | [Happy](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Happy](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) | 3:41 | 2022-09-08 |  |
 | [Heart Of Yours](https://open.spotify.com/track/7gtPeJcz77AaxCDokiySwl) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:25 | 2022-09-08 |  |
 | [History](https://open.spotify.com/track/1OA8mjWFtbYqGHEP4N5lUd) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Story of Me](https://open.spotify.com/album/6sbx4lCpIoLgk9LBGMpwMe) | 3:27 | 2022-09-08 |  |
 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 | 2022-09-08 |  |
 | [Honey](https://open.spotify.com/track/4T3nfbJ0G6uwNOdhygapfu) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:21 | 2022-09-08 |  |
-| [Honeymoon](https://open.spotify.com/track/2bzv4zdBugbECUkWU3upM9) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [MASSIVE](https://open.spotify.com/album/4uxJa8tBMhBLA49owkf4gK) | 3:24 | 2022-09-08 |  |
+| [HONEYMOON](https://open.spotify.com/track/1JXoACZvZMnk5jsM3NJ9J5) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [MASSIVE](https://open.spotify.com/album/5aJ6EYd1rvIP0bp2zaO92H) | 3:24 | 2023-01-02 |  |
+| [Honeymoon](https://open.spotify.com/track/2bzv4zdBugbECUkWU3upM9) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [MASSIVE](https://open.spotify.com/album/4uxJa8tBMhBLA49owkf4gK) | 3:24 | 2022-09-08 | 2023-01-03 |
 | [HONEYMOON](https://open.spotify.com/track/18yMTj71QJwQkybGfhYcaY) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [BLUE](https://open.spotify.com/album/3rz2cmoTK4j3hpuTfeRSRn) | 3:24 | 2022-09-08 |  |
 | [Hurricane](https://open.spotify.com/track/5Ro4XYBG7ZED9IAWh2v0Qs) | [Morana](https://open.spotify.com/artist/36krahH0YDL5Md6rpRUkP6) | [Hurricane](https://open.spotify.com/album/0l4IrKrrpuV5PMoVLJCjhT) | 3:24 | 2022-09-08 |  |
 | [I Belong With You](https://open.spotify.com/track/4ZuLCd1A2WRgzNj51thB0M) | [Dada](https://open.spotify.com/artist/03FagtGSQn7UpUflscKmsX), [LIV](https://open.spotify.com/artist/7teUw80MXDDZlELFKbJsuz) | [I Belong With You](https://open.spotify.com/album/3fB22NjWfNboC9rGEbBrmG) | 2:48 | 2022-09-08 |  |
@@ -51,13 +54,15 @@
 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 | 2022-10-18 |  |
 | [Naked](https://open.spotify.com/track/7wM5hNcY1bLFUmZKp9mKkw) | [The Tide](https://open.spotify.com/artist/6cXVCUCVlW1JSPxRHoelTb) | [Young Love](https://open.spotify.com/album/0NKH3ImlF1nODufKjyYpqT) | 2:55 | 2022-09-08 |  |
 | [Nie Pytaj Mnie](https://open.spotify.com/track/0Y7AZ1QsSijj9on5musHFv) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Nie Pytaj Mnie](https://open.spotify.com/album/21QeVMXYEJoJOdS3h9c6ip) | 3:19 | 2022-09-08 | 2022-10-24 |
-| [Nie Pytaj Mnie](https://open.spotify.com/track/5fB1BAJ7w9bCpjqycKiW3R) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:19 | 2022-10-23 |  |
+| [Nie Pytaj Mnie](https://open.spotify.com/track/5fB1BAJ7w9bCpjqycKiW3R) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:19 | 2022-10-23 | 2022-12-02 |
+| [Nie Pytaj Mnie](https://open.spotify.com/track/7eQQZnk2eYukRlWSN771gl) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:19 | 2022-12-01 |  |
 | [Not Over You](https://open.spotify.com/track/4iLQ5KX7IYsqlaDNWL8xqf) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Not Over You](https://open.spotify.com/album/1cJSPEAABSatHfV2pwXBPG) | 3:04 | 2022-09-08 |  |
 | [Now You're Gone \(feat\. Zara Larsson\)](https://open.spotify.com/track/2oVoSgGAlog02WQ2pLCxcT) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:32 | 2022-09-08 |  |
 | [Ocean](https://open.spotify.com/track/2bHxKHKbxE3EqooAFKdeeZ) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/72HIHxLnpFuAUWkBK81gyi) | 3:00 | 2022-09-08 |  |
 | [Paint Me](https://open.spotify.com/track/0UjE0j9KOcI3aZbivMRE3K) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Yellow Flower](https://open.spotify.com/album/00A1XYsx9tgJGnIHVn1X9u) | 3:38 | 2022-09-08 |  |
 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 | 2022-09-08 |  |
-| [Riotka](https://open.spotify.com/track/6mxgoXjwUX3jRy9myivNle) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:05 | 2022-10-23 |  |
+| [Riotka](https://open.spotify.com/track/0qz3ec9XhWJgMNddMlgoD6) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:05 | 2022-12-01 |  |
+| [Riotka](https://open.spotify.com/track/6mxgoXjwUX3jRy9myivNle) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:05 | 2022-10-23 | 2022-12-02 |
 | [Riotka](https://open.spotify.com/track/6ysyBMZgCjZTpANoUtPoS7) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Riotka](https://open.spotify.com/album/59rDFPetz3t0EOTAb0xG8s) | 3:05 | 2022-09-08 | 2022-10-24 |
 | [Romantic \- NOTD Remix](https://open.spotify.com/track/7e6FvCvngX5job1PUYIIIL) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:04 | 2022-09-08 |  |
 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 | 2022-09-08 |  |

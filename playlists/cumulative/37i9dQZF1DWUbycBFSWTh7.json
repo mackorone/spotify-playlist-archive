@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "Deephouse in the mix for your delight.",
   "name": "Deephouse Delight",
-  "published_playlist_ids": [
-    "3ANSrl5vN5o8myn56mbngK"
-  ],
   "tracks": [
     {
       "album": {
@@ -154,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187564,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/0ve8tt7o75cUCz2mHCT0zi"
+    },
+    {
+      "album": {
         "name": "Ave",
         "url": "https://open.spotify.com/album/3I01ShTuRryxPPJzRW5vht"
       },
@@ -187,7 +202,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 356094,
       "name": "Average Party Tool",
       "url": "https://open.spotify.com/track/07UeBq7UkdDgUq5c4U2gZc"
@@ -245,7 +260,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 228865,
       "name": "Body Control - Edit",
       "url": "https://open.spotify.com/track/05QNX862U0b2TGNIP9Dbg4"
@@ -263,7 +278,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 177105,
       "name": "Break The Needle",
       "url": "https://open.spotify.com/track/0qvoL27nMDfq1LaGc4Nxom"
@@ -292,6 +307,28 @@
     },
     {
       "album": {
+        "name": "Cellular",
+        "url": "https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP"
+      },
+      "artists": [
+        {
+          "name": "DJOKO",
+          "url": "https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv"
+        },
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425204,
+      "name": "Cellular",
+      "url": "https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s"
+    },
+    {
+      "album": {
         "name": "Chutoro EP",
         "url": "https://open.spotify.com/album/2KmUmTZICpnb2pvJI1DiOb"
       },
@@ -303,7 +340,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 350770,
       "name": "Chutoro",
       "url": "https://open.spotify.com/track/2THxskift0F2b5wCjjLpzw"
@@ -339,10 +376,32 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 424616,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5A8rwVPuBWN1oUw7lD4jzP"
+    },
+    {
+      "album": {
+        "name": "CODA",
+        "url": "https://open.spotify.com/album/6umHyT3BNbM0no1jnd98Fh"
+      },
+      "artists": [
+        {
+          "name": "Jerome Sydenham",
+          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
+        },
+        {
+          "name": "Fatima Njai",
+          "url": "https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "CODA",
+      "url": "https://open.spotify.com/track/1hrRNhEG0ES4OC5rBCU1F8"
     },
     {
       "album": {
@@ -365,6 +424,64 @@
       "duration_ms": 400903,
       "name": "Daughters - Oliver Schories Remix",
       "url": "https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU"
+    },
+    {
+      "album": {
+        "name": "So Us Vol. 1",
+        "url": "https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372335,
+      "name": "Deep Gone Far",
+      "url": "https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW"
+    },
+    {
+      "album": {
+        "name": "Reflections EP",
+        "url": "https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407378,
+      "name": "Dem Good Ol' Days - extended mix",
+      "url": "https://open.spotify.com/track/5jXdOuboeHKtWYNBmJIkxy"
+    },
+    {
+      "album": {
+        "name": "Demucha (Dam Swindle Remix)",
+        "url": "https://open.spotify.com/album/1m5vItbZgQhHaG1TvCLDrV"
+      },
+      "artists": [
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        },
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406406,
+      "name": "Demucha - Dam Swindle Remix",
+      "url": "https://open.spotify.com/track/5D4GI9u8jDFUtQs3PpZ99f"
     },
     {
       "album": {
@@ -444,6 +561,28 @@
     },
     {
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n"
+      },
+      "artists": [
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        },
+        {
+          "name": "MC Roga",
+          "url": "https://open.spotify.com/artist/1PyqNjeHsegT2hgQyX9kid"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455265,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/5pBhzfZr8BbdqEYonJqWvL"
+    },
+    {
+      "album": {
         "name": "Don't Want It (Fouk Remix)",
         "url": "https://open.spotify.com/album/4n4sqDenZwDpJq9skJVTVJ"
       },
@@ -463,6 +602,28 @@
       "duration_ms": 351896,
       "name": "Don't Want It - Fouk Remix",
       "url": "https://open.spotify.com/track/15uutBzggXQsR19xARHl3f"
+    },
+    {
+      "album": {
+        "name": "Le Funk",
+        "url": "https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        },
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239106,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m"
     },
     {
       "album": {
@@ -702,6 +863,28 @@
     },
     {
       "album": {
+        "name": "Le Funk",
+        "url": "https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        },
+        {
+          "name": "Mr. V",
+          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428706,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/0yKrmCbI4WYXetnEajaGw7"
+    },
+    {
+      "album": {
         "name": "Era E.P.",
         "url": "https://open.spotify.com/album/4Cxzpd11XkfbuA7TPs7cWJ"
       },
@@ -771,7 +954,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 362921,
       "name": "Harlem Hustle",
       "url": "https://open.spotify.com/track/2wYjswgI757Tpq6N5Ee8a4"
@@ -797,6 +980,24 @@
       "duration_ms": 374400,
       "name": "Here And Now - INVU's Lexicon Remix",
       "url": "https://open.spotify.com/track/1gSANgZerYiT7UiY2T0avU"
+    },
+    {
+      "album": {
+        "name": "High School",
+        "url": "https://open.spotify.com/album/1j1wj9lsbZzpUUqCItD4cQ"
+      },
+      "artists": [
+        {
+          "name": "LoMalo",
+          "url": "https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/5BxxJuGICKXs0HcGsVS7Rj"
     },
     {
       "album": {
@@ -957,7 +1158,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 193003,
       "name": "Inside Shirt",
       "url": "https://open.spotify.com/track/7gEnDAuslZ3l6fUSncqTMx"
@@ -1070,6 +1271,32 @@
     },
     {
       "album": {
+        "name": "Lately (William Djoko Remix)",
+        "url": "https://open.spotify.com/album/4x6NrElyuRvKURNVM5Dzqi"
+      },
+      "artists": [
+        {
+          "name": "Cincity",
+          "url": "https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen"
+        },
+        {
+          "name": "Jody Vivian",
+          "url": "https://open.spotify.com/artist/1G8fwWtfAJ3E092HPah9Rq"
+        },
+        {
+          "name": "William Djoko",
+          "url": "https://open.spotify.com/artist/4EAeSI62JIrlq6cyxeV3hO"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371370,
+      "name": "Lately - William Djoko Remix",
+      "url": "https://open.spotify.com/track/30dh8SOshV18W88rkjzn1X"
+    },
+    {
+      "album": {
         "name": "Learn to Love",
         "url": "https://open.spotify.com/album/7kI2zOz0wrsF9CZsbP0KD9"
       },
@@ -1099,7 +1326,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 394937,
       "name": "Lecture Day",
       "url": "https://open.spotify.com/track/6sMBkOWMJbDmii1r58P32I"
@@ -1193,7 +1420,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 392905,
       "name": "Machali - Original Mix",
       "url": "https://open.spotify.com/track/6V3OSf0lvxS7eTOt0gNGol"
@@ -1294,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Keep On Swindling Pt. 3",
+        "url": "https://open.spotify.com/album/04H1Yn2xEQjaD7sdXJqJlU"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "More Love - Edit",
+      "url": "https://open.spotify.com/track/4mK4A2x8gT1WPmxZfrFhXD"
+    },
+    {
+      "album": {
         "name": "Mothercity (Tom Jarmey Remix)",
         "url": "https://open.spotify.com/album/6VgrSHW2dVbP77n5I4rGHe"
       },
@@ -1309,7 +1554,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 355096,
       "name": "Mothercity - Tom Jarmey Remix",
       "url": "https://open.spotify.com/track/1ju2P3fI1P0a41wLwjcBPn"
@@ -1327,7 +1572,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 300000,
       "name": "Moulin Rouge - Original Mix",
       "url": "https://open.spotify.com/track/1INvHCixv1JsOQhXuiWKFT"
@@ -1349,6 +1594,28 @@
       "duration_ms": 455370,
       "name": "Mr Umbawa",
       "url": "https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz"
+    },
+    {
+      "album": {
+        "name": "Spaces and Places",
+        "url": "https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Sunchilde",
+          "url": "https://open.spotify.com/artist/2vqTInpbq4fzqySS5BudrR"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377484,
+      "name": "Never Thought [Printworks] - Main Vocal Mix",
+      "url": "https://open.spotify.com/track/5EQSnb89lN9K3ACVBOSsjD"
     },
     {
       "album": {
@@ -1439,7 +1706,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 348000,
       "name": "Olvidar",
       "url": "https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX"
@@ -1479,7 +1746,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 418303,
       "name": "One More Love",
       "url": "https://open.spotify.com/track/6DdGPbxUhVUQLd3iTHbesX"
@@ -1558,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Power of Today",
+        "url": "https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI"
+      },
+      "artists": [
+        {
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379965,
+      "name": "Power of Today",
+      "url": "https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC"
+    },
+    {
+      "album": {
         "name": "Concentrate EP",
         "url": "https://open.spotify.com/album/0yeM1hDanvANzJfSm131xj"
       },
@@ -1617,7 +1902,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 227123,
       "name": "Rah That's A Mad Question",
       "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
@@ -1846,6 +2131,32 @@
     },
     {
       "album": {
+        "name": "Remix EP",
+        "url": "https://open.spotify.com/album/6pcOgtpIJqA78cgNVBsQx4"
+      },
+      "artists": [
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        },
+        {
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303771,
+      "name": "Strangers - Coeo House Mix",
+      "url": "https://open.spotify.com/track/5c69DeVjQcfW2kHzccyo3b"
+    },
+    {
+      "album": {
         "name": "Stretch Out Like The World (Timmy Regisford Instrumental Mix)",
         "url": "https://open.spotify.com/album/1INRl1q8mqtP1R09JGjGDC"
       },
@@ -1897,7 +2208,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 369134,
       "name": "Tension",
       "url": "https://open.spotify.com/track/0qZPmHc2U0iseqxaiwJNpj"
@@ -2031,7 +2342,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 453000,
       "name": "The Serpent",
       "url": "https://open.spotify.com/track/4hME6a2Dagbguwz5YwUnyb"
@@ -2067,7 +2378,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 416502,
       "name": "The World Beyond",
       "url": "https://open.spotify.com/track/5zb4897baRg1VyAWz8Eza6"
@@ -2213,7 +2524,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 230013,
       "name": "Topdown",
       "url": "https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5"
@@ -2257,6 +2568,50 @@
       "duration_ms": 342111,
       "name": "Trying to Make it Home",
       "url": "https://open.spotify.com/track/3Hht1URCb1TqwcZAwU4pXK"
+    },
+    {
+      "album": {
+        "name": "So Us Vol. 1",
+        "url": "https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb"
+      },
+      "artists": [
+        {
+          "name": "Basic Instinct",
+          "url": "https://open.spotify.com/artist/5ZZgAR1R9ZwDO1Vi1jeX5q"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417630,
+      "name": "U & I Under the Moonlight",
+      "url": "https://open.spotify.com/track/3AKoAItFKbcr5gbdqcL0ve"
+    },
+    {
+      "album": {
+        "name": "Unfolding (Momentum 73) [Ron Trent Remix]",
+        "url": "https://open.spotify.com/album/28xecaf0DFRLkdhgcdsWOS"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512250,
+      "name": "Unfolding (Momentum 73) - Ron Trent Remix",
+      "url": "https://open.spotify.com/track/5eSKAYrvRTXpLxGrAirVZ5"
     },
     {
       "album": {
@@ -2361,7 +2716,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 351266,
       "name": "We Gotta Wake This World Up From Its Sleep",
       "url": "https://open.spotify.com/track/5AZTH04m9hsFO1EIGUpGLw"
@@ -2419,7 +2774,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 391874,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2gJKKQbQnlkSETAYH0aVuc"
@@ -2448,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Yasuo",
+        "url": "https://open.spotify.com/album/6sZubZLNEZiwb1VYnxB5Qa"
+      },
+      "artists": [
+        {
+          "name": "Gorge",
+          "url": "https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410278,
+      "name": "Yasuo",
+      "url": "https://open.spotify.com/track/13UXFUokjGZqQM0g1HSX7Q"
+    },
+    {
+      "album": {
         "name": "Yipalo",
         "url": "https://open.spotify.com/album/7oPSQ8xywCGe14Jk2QBus9"
       },
@@ -2459,7 +2832,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 347108,
       "name": "Yipalo",
       "url": "https://open.spotify.com/track/1soxvPNeBojuyZIMFmpDZz"

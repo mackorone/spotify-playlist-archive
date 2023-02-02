@@ -4,7 +4,7 @@
 
 > 50 best examples of catchy pop tunes that borrowed their melodies from <a href="spotify:genre:classical">classical</a> music\. Each song is followed by its classical inspiration.
 
-100 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/56pDLqG06QXA33icZlUQZP)
+100 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

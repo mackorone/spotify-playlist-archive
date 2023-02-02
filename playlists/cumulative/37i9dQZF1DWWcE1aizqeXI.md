@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-75 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/33MxYV25vT0lnGluNDmBL9)
+76 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 | 2022-07-14 | 2022-11-23 |
 | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3) | [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt) | 3:28 | 2022-11-22 |  |
 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 | 2022-07-14 | 2022-11-23 |
-| [eyes \- vip mix](https://open.spotify.com/track/3SjHG35gKjNAJVtC63cGOi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [rave](https://open.spotify.com/album/00K2bUoUO3r54vyX6fB0qx) | 2:23 | 2022-11-22 |  |
+| [eyes \- vip mix](https://open.spotify.com/track/3SjHG35gKjNAJVtC63cGOi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [rave](https://open.spotify.com/album/00K2bUoUO3r54vyX6fB0qx) | 2:23 | 2022-11-22 | 2022-12-16 |
+| [eyes \- vip mix](https://open.spotify.com/track/56rlMjA64EogThHrCENHDA) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [rave](https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw) | 2:23 | 2022-11-22 |  |
 | [Feel Like](https://open.spotify.com/track/1Q3AAZ16QInVeIiiUbSKwR) | [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf) | [Feel Like](https://open.spotify.com/album/2GnXAHduGMBnAjCWTDoQGl) | 3:08 | 2022-11-22 |  |
 | [Fuck It up Challenge](https://open.spotify.com/track/1JWskKHxYTXSUEKPsv6hje) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/4Vmds5n2MHBb6HXEs4aY9Z) | 1:35 | 2022-07-14 | 2022-11-23 |
 | [Get Jumped \(with Bandmanrill\)](https://open.spotify.com/track/6KRg5sE4TS4yHzujspaRGY) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Get Jumped](https://open.spotify.com/album/2bKKwvt0HsusnQN5gOOeRt) | 2:04 | 2022-07-14 | 2022-11-23 |

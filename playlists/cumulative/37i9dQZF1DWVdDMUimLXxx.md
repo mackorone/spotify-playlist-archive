@@ -4,7 +4,7 @@
 
 > Add dramatic flair to your strategy game.
 
-77 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
+78 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Caught in the Waves](https://open.spotify.com/track/3aWysoJyL6qFWbadYRCkH8) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Everything Else Will Follow](https://open.spotify.com/album/7J8e3AjZc7mN82khAvAI6I) | 2:28 | 2022-04-22 |  |
 | [Cloudsailing](https://open.spotify.com/track/7aHbZez2yeqJFJWalKL0WH) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Windflower](https://open.spotify.com/album/5pMpxNkROAIq7wygp4oHbl) | 3:19 | 2022-04-22 |  |
 | [Crossing Paths](https://open.spotify.com/track/6gN8d0TrjwkcVgrZpFyp3c) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Crossing Paths](https://open.spotify.com/album/6tDR44G5XlTW1n5YxhX29c) | 3:01 | 2022-04-22 |  |
-| [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 | 2022-04-22 |  |
+| [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 | 2022-04-22 | 2023-01-22 |
+| [Crossroad at Dawn](https://open.spotify.com/track/5rQx4Rhe1gey7FJSO5F4aV) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Chaotic Chronicle \(Lineage2 Original Game Soundtrack\)](https://open.spotify.com/album/04wngi30Qap95fjcdn7SbC) | 2:00 | 2022-09-16 |  |
 | [Crowned Kings](https://open.spotify.com/track/2XB9XKY0yXwkuKTTEShGhn) | [Dream Cave](https://open.spotify.com/artist/6Ga6q3KSIGpJt2H1vbtTI0) | [Crowned Kings](https://open.spotify.com/album/0xesiYFMK9bL67CAH3Y0Gs) | 3:30 | 2022-09-16 |  |
 | [Desert Hideout](https://open.spotify.com/track/0UMo22CzNzglVuQypNq3E5) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:29 | 2022-04-22 |  |
 | [Dust Turns to Gold](https://open.spotify.com/track/0PAlIXkZ3DXJqAmx1BAXMX) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [The Final Cut](https://open.spotify.com/album/744UTU1JhhXLIqSAF4Q6kp) | 3:14 | 2022-04-22 |  |

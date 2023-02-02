@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-15",
   "description": "O melhor do trance feito na Am\u00e9rica Latina / Lo mejor del trance latino. Foto: Henrique Camacho",
   "name": "Trance Latino",
-  "published_playlist_ids": [
-    "0YKwThAgsj7nOJs08LIQIc"
-  ],
   "tracks": [
     {
       "album": {
@@ -1235,7 +1232,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 372765,
       "name": "Quebra Queixo",
       "url": "https://open.spotify.com/track/4lUMNAN9T2irVxlaLNehem"
@@ -1393,16 +1390,16 @@
           "url": "https://open.spotify.com/artist/2aPCuXM9q0ckGWkdt9frsj"
         },
         {
-          "name": "Muzik Dealerz",
-          "url": "https://open.spotify.com/artist/5U13da6sA48Wa0orTB8LMD"
-        },
-        {
           "name": "Alex Wyze",
-          "url": "https://open.spotify.com/artist/5F7VkOKbb7WIQFfFu7B5mQ"
+          "url": "https://open.spotify.com/artist/0c4A6gfgOt5Tc54LqLofFw"
         },
         {
           "name": "Alaan Lara",
           "url": "https://open.spotify.com/artist/375Qyr12mY0JzX6hZYCsSp"
+        },
+        {
+          "name": "Muzik Dealerz",
+          "url": "https://open.spotify.com/artist/0VK4jyNtmxSxjvW2YpTvOg"
         }
       ],
       "date_added": "2022-03-04",
@@ -1531,6 +1528,28 @@
       "duration_ms": 364867,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/5DF2hq3nskYLTZZMbQLbmn"
+    },
+    {
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/3K6MUr42RVI3PiHWGzyZfQ"
+      },
+      "artists": [
+        {
+          "name": "Chapeleiro",
+          "url": "https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH"
+        },
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341655,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/6o0MNINXuUTulPUy0hCQje"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4MAWmETv8JA"

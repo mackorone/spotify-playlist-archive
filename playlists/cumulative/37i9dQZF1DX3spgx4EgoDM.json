@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "\u00a1El mejor condimento para tus comidas!",
   "name": "Cocina con Cumbia",
-  "published_playlist_ids": [
-    "4CkcBa2yg5PYM4HXnr0aPa"
-  ],
   "tracks": [
     {
       "album": {
@@ -107,7 +104,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 214826,
       "name": "Agua De Vida",
       "url": "https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z"
@@ -578,6 +575,24 @@
     },
     {
       "album": {
+        "name": "El Soltero",
+        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 146146,
+      "name": "Cangrejito Playero",
+      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
+    },
+    {
+      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/2p9ZGJJHUu6QfqIkKkbHFL"
       },
@@ -643,7 +658,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
@@ -769,7 +784,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 266760,
       "name": "Con la Misma Moneda",
       "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
@@ -917,7 +932,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 324280,
       "name": "Cumbia En La Playa",
       "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
@@ -1459,7 +1474,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 193760,
       "name": "El Santo Del Amor",
       "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
@@ -1513,7 +1528,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-21",
       "duration_ms": 197616,
       "name": "Entre el Cielo Vos y Yo",
       "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
@@ -1633,6 +1648,28 @@
       "duration_ms": 215600,
       "name": "Esa Parte De M\u00ed",
       "url": "https://open.spotify.com/track/2KGPEwZmxkTb3ibPeIq0Pv"
+    },
+    {
+      "album": {
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-08",
+      "duration_ms": 278133,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/6dj1GTWMKxL3JToEGzTcwl"
     },
     {
       "album": {
@@ -2009,7 +2046,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 169640,
       "name": "La Cumbia De La Cerveza",
       "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
@@ -3193,7 +3230,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 176864,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
@@ -3531,7 +3568,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 264186,
       "name": "Paisaje",
       "url": "https://open.spotify.com/track/6NipZljiEekGRNF6vddEP3"
@@ -3567,7 +3604,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 181840,
       "name": "Para dormir contigo otra vez",
       "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
@@ -3817,7 +3854,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": "2023-01-11",
       "duration_ms": 181254,
       "name": "Que Nadie Se Entere",
       "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
@@ -4265,7 +4302,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 155878,
       "name": "S\u00f3lo con un Beso",
       "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
@@ -4337,7 +4374,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-06",
       "duration_ms": 234736,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96"
@@ -4561,7 +4598,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
@@ -5055,7 +5092,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 238335,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"

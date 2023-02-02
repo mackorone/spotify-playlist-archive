@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-15",
   "description": "",
   "name": "hardwave~phonk",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -783,12 +782,8 @@
       },
       "artists": [
         {
-          "name": "Lowly",
-          "url": "https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg"
-        },
-        {
-          "name": "niteboi",
-          "url": "https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW"
+          "name": "Lowly, Niteboi",
+          "url": "https://open.spotify.com/artist/1qFAA6qiSYWA1iRYwDgrYr"
         },
         {
           "name": "enjoii",
@@ -1265,6 +1260,28 @@
       "duration_ms": 206679,
       "name": "For The People",
       "url": "https://open.spotify.com/track/7sspyJENSmKfAyQHGJtC1m"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4Cd2EftimaltmI0irA1dCX"
+      },
+      "artists": [
+        {
+          "name": "DXXDLY",
+          "url": "https://open.spotify.com/artist/6GKLaeqLSNmXOedBQQY9R7"
+        },
+        {
+          "name": "J\u00d6ST",
+          "url": "https://open.spotify.com/artist/3ERTkqBGVuP0lA4r3pNvGu"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148568,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/2wRlRa04whOwI5cZ4QXsmj"
     },
     {
       "album": {
@@ -2024,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "METAMORPHOSIS (Sped Up)",
+        "url": "https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110936,
+      "name": "METAMORPHOSIS - Sped Up",
+      "url": "https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU"
+    },
+    {
+      "album": {
         "name": "MISFORTUNE",
         "url": "https://open.spotify.com/album/0PIqngcqaFZ08s8SK2EuBW"
       },
@@ -2631,12 +2666,8 @@
       },
       "artists": [
         {
-          "name": "Lowly",
-          "url": "https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg"
-        },
-        {
-          "name": "KTrek",
-          "url": "https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV"
+          "name": "Lowly, KTrek",
+          "url": "https://open.spotify.com/artist/5L8lcckQe9wpSWHhPDUKNK"
         }
       ],
       "date_added": "2021-06-26",
@@ -2863,12 +2894,8 @@
       },
       "artists": [
         {
-          "name": "Lowly",
-          "url": "https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg"
-        },
-        {
-          "name": "smokefishe",
-          "url": "https://open.spotify.com/artist/3RKiOa5z73KXSeIbOeBPvc"
+          "name": "Lowly, Smokefishe",
+          "url": "https://open.spotify.com/artist/74ZfaGpPxrbKS9zBNb6OHQ"
         }
       ],
       "date_added": "2021-06-11",
@@ -2935,6 +2962,24 @@
       "duration_ms": 258959,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3lcVFoUD8xC6G8X2ecfS0U"
+    },
+    {
+      "album": {
+        "name": "Ryza",
+        "url": "https://open.spotify.com/album/0cv1F06ZUvZKet0IZUfs4J"
+      },
+      "artists": [
+        {
+          "name": "KTrek",
+          "url": "https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192827,
+      "name": "Ryza",
+      "url": "https://open.spotify.com/track/6pOwVBLGJIHQhdxdOHENOh"
     },
     {
       "album": {
@@ -3127,12 +3172,8 @@
       },
       "artists": [
         {
-          "name": "Lowly",
-          "url": "https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg"
-        },
-        {
-          "name": "Juche",
-          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
+          "name": "Lowly, Juche",
+          "url": "https://open.spotify.com/artist/2oEQmXB8z2M6cenJyyrKDB"
         }
       ],
       "date_added": "2020-11-05",
@@ -3489,16 +3530,8 @@
       },
       "artists": [
         {
-          "name": "Lowly",
-          "url": "https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg"
-        },
-        {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0"
-        },
-        {
-          "name": "Affectwave",
-          "url": "https://open.spotify.com/artist/0AsGw9kdwdLXi5wBJkPoQ4"
+          "name": "Lowly, Kim, Affectwave",
+          "url": "https://open.spotify.com/artist/4W3IG9DQCjtsOzT6fiWcZV"
         }
       ],
       "date_added": "2020-12-08",
@@ -3605,16 +3638,8 @@
       },
       "artists": [
         {
-          "name": "Lowly",
-          "url": "https://open.spotify.com/artist/2rJGuaGzK3FR6xYG42ixkg"
-        },
-        {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0"
-        },
-        {
-          "name": "Affectwave",
-          "url": "https://open.spotify.com/artist/0AsGw9kdwdLXi5wBJkPoQ4"
+          "name": "Lowly, Kim, Affectwave",
+          "url": "https://open.spotify.com/artist/4W3IG9DQCjtsOzT6fiWcZV"
         }
       ],
       "date_added": "2021-06-11",

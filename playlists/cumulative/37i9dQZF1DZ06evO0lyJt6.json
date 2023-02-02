@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Banda Los Sebastianes. The essential tracks, all in one playlist.",
   "name": "This Is Banda Los Sebastianes",
-  "published_playlist_ids": [
-    "34gmDNfcLmugl6uIF1DSQm"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,7 +92,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 277973,
       "name": "A Una Almohada De Distancia",
       "url": "https://open.spotify.com/track/1bbXpIUydN0Nqfb1b21Kb4"
@@ -149,7 +146,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 198346,
       "name": "Chuyito Y El Mayo",
       "url": "https://open.spotify.com/track/7qij8ekUUYngWL9vh9jrOW"
@@ -753,7 +750,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": "2022-12-13",
       "duration_ms": 197493,
       "name": "Mundos Diferentes",
       "url": "https://open.spotify.com/track/2dw3SduPYpYv4ggL4f8Zqn"
@@ -847,6 +844,28 @@
       "duration_ms": 182626,
       "name": "Olvidarte No Es Lo M\u00edo",
       "url": "https://open.spotify.com/track/7eHM7vCmPlBYjcjHnWgFy4"
+    },
+    {
+      "album": {
+        "name": "Pa' Qu\u00e9 Son Pasiones",
+        "url": "https://open.spotify.com/album/3ghUPKQkDQ0ZjNTePotJDj"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Pa' Qu\u00e9 Son Pasiones",
+      "url": "https://open.spotify.com/track/1g8OBHnpZeQI1yoyJrjWQ2"
     },
     {
       "album": {
@@ -973,7 +992,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 189733,
       "name": "Seg\u00fan Tus Labios",
       "url": "https://open.spotify.com/track/2gUDXy0cLy2nEvEUDI5m9G"
@@ -1099,7 +1118,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 238373,
       "name": "Te Prometo",
       "url": "https://open.spotify.com/track/52e9XXEgDuyQ1FYK5aJaYZ"
@@ -1225,6 +1244,24 @@
       "duration_ms": 191226,
       "name": "Volver A Volar",
       "url": "https://open.spotify.com/track/1UTax2cvw1ehp87jkxbCXF"
+    },
+    {
+      "album": {
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146973,
+      "name": "Y Se Parece A Ti",
+      "url": "https://open.spotify.com/track/7j0DwKoBLkgXkfDtu3CgmV"
     },
     {
       "album": {

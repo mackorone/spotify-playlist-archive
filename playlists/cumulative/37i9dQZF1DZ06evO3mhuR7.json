@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is The Orb. The essential tracks, all in one playlist.",
   "name": "This Is The Orb",
-  "published_playlist_ids": [
-    "3KjCofDikLJ6vqcKXgLNBj"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 363413,
       "name": "4am Exhale (Chill Out World!)",
       "url": "https://open.spotify.com/track/7rzfUCGJIRV4fQ68T07x9A"
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 139818,
       "name": "7 Oaks",
       "url": "https://open.spotify.com/track/2dJz8zc30GvBOVV1rXhaaE"
@@ -175,7 +172,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 371400,
       "name": "Afros, Afghans and Angels - Helg\u00f6 Treasure Chest",
       "url": "https://open.spotify.com/track/2bHXdca9yg6TfWikQGAAJS"
@@ -197,10 +194,32 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 547699,
       "name": "Afterlife Aftershave",
       "url": "https://open.spotify.com/track/1dDNKj2teFS6D3lSTqKrcz"
+    },
+    {
+      "album": {
+        "name": "The Heavens",
+        "url": "https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB"
+      },
+      "artists": [
+        {
+          "name": "Sedibus",
+          "url": "https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4"
+        },
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Afterlife Aftershave - Edit",
+      "url": "https://open.spotify.com/track/3ySjD4n8uzCOeToDXyvZdp"
     },
     {
       "album": {
@@ -215,7 +234,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 424492,
       "name": "Alpine Evening",
       "url": "https://open.spotify.com/track/3oyl7c3ZpYHFXoHiXRN9HM"
@@ -237,7 +256,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 85896,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/1SFuW1Sh6V9JJf0ezWIPbJ"
@@ -343,7 +362,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 271333,
       "name": "Bedouin",
       "url": "https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq"
@@ -502,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Baghdad Batteries (Orbsessions Volume 3)",
+        "url": "https://open.spotify.com/album/6pTjkBOxkrhJ4WPD37gMG0"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 301746,
+      "name": "Dolly Unit",
+      "url": "https://open.spotify.com/track/7orZJrtbT6GYd4xvvfaqla"
+    },
+    {
+      "album": {
         "name": "No Sounds Are Out of Bounds (Deluxe)",
         "url": "https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL"
       },
@@ -535,7 +572,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 101676,
       "name": "Drift",
       "url": "https://open.spotify.com/track/0yxjWgKXPMt9xls7P3e63e"
@@ -597,6 +634,24 @@
       "duration_ms": 270733,
       "name": "Fussball",
       "url": "https://open.spotify.com/track/5cZ90X5hD4SEGFtaunUg45"
+    },
+    {
+      "album": {
+        "name": "Connecting The Dots (DJ Mix)",
+        "url": "https://open.spotify.com/album/46L9tNr4y1nCwpwDkYIyIT"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294946,
+      "name": "Glen Coe [Mixed]",
+      "url": "https://open.spotify.com/track/6r63smEsviOfs7wXMXggwy"
     },
     {
       "album": {
@@ -677,7 +732,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": "2023-02-02",
       "duration_ms": 253544,
       "name": "H. O. O",
       "url": "https://open.spotify.com/track/1dcKekvRNoO7tP1KwowdUQ"
@@ -717,7 +772,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 261141,
       "name": "Hold Me Upsetter",
       "url": "https://open.spotify.com/track/3bMR9NyBHxt1pZadTvGbRs"
@@ -735,7 +790,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 302520,
       "name": "Honey Moonies - Brain Washed at Area 49 Mix",
       "url": "https://open.spotify.com/track/6bU2QcIhbCupPsLel0eLiR"
@@ -854,6 +909,28 @@
     },
     {
       "album": {
+        "name": "Living in Recycled Times",
+        "url": "https://open.spotify.com/album/4nXhHYQnRz9HJoTN6jZfso"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "Rachel D'Arcy",
+          "url": "https://open.spotify.com/artist/3fY9AUhR4OVrZrK2luHmZg"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 627320,
+      "name": "living in recycled times",
+      "url": "https://open.spotify.com/track/4B8tHSIgUzn0w6Vw3b9gHI"
+    },
+    {
+      "album": {
         "name": "Orblivion",
         "url": "https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn"
       },
@@ -865,7 +942,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": null,
       "duration_ms": 73773,
       "name": "Log Of Deadwood",
       "url": "https://open.spotify.com/track/46gUZoY1dMddmBNTTDFa09"
@@ -1169,6 +1246,28 @@
       "duration_ms": 329066,
       "name": "Pandaharmonium",
       "url": "https://open.spotify.com/track/13f4Hxbkwg6ZupCE46u76J"
+    },
+    {
+      "album": {
+        "name": "The Heavens",
+        "url": "https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB"
+      },
+      "artists": [
+        {
+          "name": "Sedibus",
+          "url": "https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4"
+        },
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 651428,
+      "name": "Papillons",
+      "url": "https://open.spotify.com/track/1uKYNk9ACyDMYMBOScdEua"
     },
     {
       "album": {
@@ -1505,7 +1604,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": "2023-01-13",
       "duration_ms": 362234,
       "name": "Soulman",
       "url": "https://open.spotify.com/track/1RaWh6yydQyNMVjxhUwSWV"
@@ -1625,7 +1724,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": "2022-12-18",
       "duration_ms": 418560,
       "name": "Strong Man's Variations of a Camel Party",
       "url": "https://open.spotify.com/track/5Yxq6XoSEM0nPb1991W7Sn"
@@ -1741,7 +1840,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": "2022-12-25",
       "duration_ms": 305560,
       "name": "The Queen of Hearts - Princess of Clubs Mix",
       "url": "https://open.spotify.com/track/2xDbv8rllgzq8Be9XjetKE"

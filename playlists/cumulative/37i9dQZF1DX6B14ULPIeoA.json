@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1Dulces, verdes y rojos! Con su champurrado calientito. ",
-  "name": "Tamales & Atole",
-  "published_playlist_ids": [
-    "73UOu4GnK799VXnAbtt9LK"
-  ],
+  "description": "Lleg\u00f3 la hora de pagar la tamaliza. ",
+  "name": "D\u00eda de la Candelaria: Tamales y Atole",
   "tracks": [
+    {
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 194080,
+      "name": "A Los Reyes Magos",
+      "url": "https://open.spotify.com/track/2Gim4pFDTLA9teL4GPnPdG"
+    },
     {
       "album": {
         "name": "A Traves Del Vaso",
@@ -275,7 +290,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 127068,
       "name": "Brisas",
       "url": "https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx"
@@ -361,7 +376,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 148400,
       "name": "Cataclismo",
       "url": "https://open.spotify.com/track/4mvFSbMCiG8UrfgOK4lSwB"
@@ -933,7 +948,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 323164,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/6ekN22D0Amt0tqd2DAeKq4"
@@ -991,6 +1006,24 @@
       "duration_ms": 136888,
       "name": "El Camino De La Vida",
       "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
+    },
+    {
+      "album": {
+        "name": "Mexico: 20 Best Mariachi and Folk Songs",
+        "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
+      },
+      "artists": [
+        {
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 227000,
+      "name": "El mil amores (arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/3ObkKzFUsOGFvXBNlWyxk2"
     },
     {
       "album": {
@@ -1059,7 +1092,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": "2023-01-29",
       "duration_ms": 202750,
       "name": "Ella",
       "url": "https://open.spotify.com/track/5A56SGZWiN3utcGa8OXnWK"
@@ -1223,7 +1256,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-02-01",
       "duration_ms": 188963,
       "name": "Esta Melodia",
       "url": "https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX"
@@ -1328,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Gaspar, Melchor y Baltasar",
+        "url": "https://open.spotify.com/album/43PuVWPjy6DNma2x7PMMSr"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 174557,
+      "name": "Gaspar, Melchor y Baltasar",
+      "url": "https://open.spotify.com/track/2EmGnWkZZM8MDGbdKgUGNu"
+    },
+    {
+      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/7fy4PZRCnrhYPucqvSBzwT"
       },
@@ -1421,7 +1472,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 200721,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd"
@@ -1511,7 +1562,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 169200,
       "name": "Irresistible (arr. R. Jonas)",
       "url": "https://open.spotify.com/track/3OQxAS0IKJCJJCLmMnVaCr"
@@ -1663,7 +1714,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 170800,
       "name": "La enramada (arr. R. Jonas)",
       "url": "https://open.spotify.com/track/02ZnCU5Qjq9pIqMZirMaoU"
@@ -1717,7 +1768,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 186200,
       "name": "La feria de las flores (arr. R. Jonas)",
       "url": "https://open.spotify.com/track/6YNbMaPx4W3DPu7fhhwsrK"
@@ -1735,7 +1786,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-05",
       "duration_ms": 171600,
       "name": "La hiedra (arr. R. Jonas)",
       "url": "https://open.spotify.com/track/4XxMsPO1y0bIApGUdgMvHm"
@@ -1927,6 +1978,108 @@
       "duration_ms": 164500,
       "name": "Llorando Estoy Por Ti",
       "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
+    },
+    {
+      "album": {
+        "name": "Tres Grandes de Nuestra M\u00fasica",
+        "url": "https://open.spotify.com/album/2QZ9iRfVwNvVMBFgkUIZCp"
+      },
+      "artists": [
+        {
+          "name": "Luis Daniel Col\u00f3n",
+          "url": "https://open.spotify.com/artist/6BTksguXCKEW9dK7UhYLpK"
+        },
+        {
+          "name": "Tony Croatto",
+          "url": "https://open.spotify.com/artist/3BpVkystnpydNjQAcbb5z2"
+        },
+        {
+          "name": "Edwin Colon Zayas",
+          "url": "https://open.spotify.com/artist/6p5cdNjaJuw1gYLJUzAvad"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 307626,
+      "name": "Los Magos de Oriente",
+      "url": "https://open.spotify.com/track/3bBkNVqNcnS9O3QXJbjrNm"
+    },
+    {
+      "album": {
+        "name": "Los Reyes Magos",
+        "url": "https://open.spotify.com/album/3fCvY6ywJA5EV8TYQkfV3w"
+      },
+      "artists": [
+        {
+          "name": "Coros De Amor",
+          "url": "https://open.spotify.com/artist/7Dubjwi9vtebzbKfZpBv2Q"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 226693,
+      "name": "Los Reyes Magos",
+      "url": "https://open.spotify.com/track/2xJM9ksChIZ6aK2WsKo5K6"
+    },
+    {
+      "album": {
+        "name": "Todo El A\u00f1o Con Cri-Cri",
+        "url": "https://open.spotify.com/album/3gfU1e1wHYg82ytudi2waL"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 200720,
+      "name": "Los Reyes Magos",
+      "url": "https://open.spotify.com/track/6pNDwtkaqkUjc35P5o0FIg"
+    },
+    {
+      "album": {
+        "name": "Los Reyes Magos",
+        "url": "https://open.spotify.com/album/54QfdnNqKx7BSSAbrrYZnr"
+      },
+      "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        },
+        {
+          "name": "Irany & David",
+          "url": "https://open.spotify.com/artist/0D9IxwuqUWlytmoPOvurIo"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 184883,
+      "name": "Los Reyes Magos",
+      "url": "https://open.spotify.com/track/0MaqrA1QV146rnAR7olURy"
+    },
+    {
+      "album": {
+        "name": "Viva Kids, Vol. 2",
+        "url": "https://open.spotify.com/album/2pMKU5YSzVz2tQ3RvJ1cMt"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 180051,
+      "name": "Los Reyes Magos",
+      "url": "https://open.spotify.com/track/7nYCi8uqdzOYnEQjrwhNAu"
     },
     {
       "album": {
@@ -2123,7 +2276,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188894,
       "name": "Mi Negra Linda",
       "url": "https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS"
@@ -2221,7 +2374,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 180504,
       "name": "No Llega El Olvido",
       "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
@@ -2355,7 +2508,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": "2023-02-01",
       "duration_ms": 186569,
       "name": "Pa' Olvidarme De Ella",
       "url": "https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF"
@@ -3207,7 +3360,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 165569,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ"
@@ -3229,7 +3382,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 233525,
       "name": "Traigo Canciones",
       "url": "https://open.spotify.com/track/0d9mCnjvxkm1jwJDdTVQ4Q"
@@ -3283,7 +3436,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 179250,
       "name": "Un Millon De Rosas",
       "url": "https://open.spotify.com/track/50NES9jC00ahT1JEhHgIjS"
@@ -3447,7 +3600,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 152372,
       "name": "Y Todo Para Que",
       "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
@@ -3487,6 +3640,24 @@
       "duration_ms": 148500,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+    },
+    {
+      "album": {
+        "name": "Ya Vienen los Reyes Magos",
+        "url": "https://open.spotify.com/album/2dmDyceSsIgz5JzDybG2gd"
+      },
+      "artists": [
+        {
+          "name": "Marco Pastor Estelles",
+          "url": "https://open.spotify.com/artist/3MND8QdAIFyJJvvN8VPu4s"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 205949,
+      "name": "Ya Vienen los Reyes Magos - Extended Mix",
+      "url": "https://open.spotify.com/track/3PEq7tR3UprJnkPKvvQw3k"
     },
     {
       "album": {

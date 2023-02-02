@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Traileros Del Norte",
-  "published_playlist_ids": [
-    "2Fr8s7ujhjKo7LWC8No6V7"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-01-25",
       "duration_ms": 170973,
       "name": "Abeja Re\u00edna",
       "url": "https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B"
@@ -261,7 +258,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 174268,
       "name": "Ay Amigo!",
       "url": "https://open.spotify.com/track/0LR71IkOpwAt2wxYlSiFD0"
@@ -704,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Islas Mar\u00edas",
+      "url": "https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8"
+    },
+    {
+      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -733,10 +748,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 153746,
       "name": "La Desmedida",
       "url": "https://open.spotify.com/track/3ilkGDqYW0m2gpDBD09qnE"
+    },
+    {
+      "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145520,
+      "name": "La Entrega",
+      "url": "https://open.spotify.com/track/4E2uYqHn60DDtOP16sLMuz"
     },
     {
       "album": {
@@ -805,7 +838,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 206333,
       "name": "La Tabla del Uno - En Vivo",
       "url": "https://open.spotify.com/track/2ca21NmVvhjRTNJOOpdOYL"
@@ -1339,6 +1372,24 @@
       "duration_ms": 194000,
       "name": "Tres Veces Te Enga\u00f1\u00e9",
       "url": "https://open.spotify.com/track/4FmlFs00vJVtRSNQddCQyJ"
+    },
+    {
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158573,
+      "name": "Trigue\u00f1ita De Ojos Negros",
+      "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
     },
     {
       "album": {

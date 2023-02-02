@@ -4,7 +4,7 @@
 
 > Soothing songs for family yoga time.
 
-208 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/6vVBPBjLNPSY1UgPYvJnVN)
+208 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Lake Oconee](https://open.spotify.com/track/4LsVIfwWMLq7e1qpE5WCUH) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [What If...](https://open.spotify.com/album/664RRHVUge3S0HEuGAZvK6) | 4:18 | 2021-05-14 |  |
 | [Let Me Disappear](https://open.spotify.com/track/16HtsIT4MCXQEbAXfT1rGP) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [Let Me Disappear](https://open.spotify.com/album/5xe8NT7aIklJe7Rd1nsQWc) | 3:23 | 2021-05-14 |  |
 | [Limitless](https://open.spotify.com/track/5QGNwI8U3o9mQg7RR3yOPj) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Limitless](https://open.spotify.com/album/1RXrGrbNghycihEnA8Sghl) | 2:45 | 2021-05-14 |  |
-| [Little Rock Quiet](https://open.spotify.com/track/5G2qcVeufPAqg3tdCnjjTz) | [Lightning Free](https://open.spotify.com/artist/5gKstbAvksymwjaGWknRH9) | [Mood City](https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m) | 4:17 | 2021-05-14 |  |
+| [Little Rock Quiet](https://open.spotify.com/track/5G2qcVeufPAqg3tdCnjjTz) | [Free Light](https://open.spotify.com/artist/14AcUrjjAhWOOo3EYBAwqp) | [Mood City](https://open.spotify.com/album/7JFMUkvbUUo6raLzcs1r9m) | 4:17 | 2021-05-14 |  |
 | [Little Star](https://open.spotify.com/track/2vtzVWLFbrcK9geKkcExpN) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Cloud Puff](https://open.spotify.com/album/3s9XpZafAAY3DCCPaIsL8X) | 2:31 | 2021-05-14 |  |
 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 | 2021-05-14 |  |
 | [Lost in a Meadow](https://open.spotify.com/track/4CUCv76HiC0FJ7tcwXQTZv) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Floating](https://open.spotify.com/album/3ppEryBS6RaQDTrwmqB8n8) | 2:45 | 2021-05-14 |  |

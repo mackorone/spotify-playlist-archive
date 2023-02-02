@@ -4,7 +4,7 @@
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 21 min - not published yet
+29 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

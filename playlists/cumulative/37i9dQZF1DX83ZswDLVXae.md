@@ -4,7 +4,7 @@
 
 > The top hits coming out of the G.O.O.D\. camp with <a href="spotify:artist:5K4W6rqBFWDnAN6FQUkS6x">Yeezy</a> at the helm.
 
-99 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/2HVjd9DIa8lJoXmXlxFQEN)
+99 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

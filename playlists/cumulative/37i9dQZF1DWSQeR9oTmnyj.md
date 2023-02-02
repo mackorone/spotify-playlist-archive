@@ -4,7 +4,7 @@
 
 > An introduction to <a href="spotify:user:spotify:playlist:37i9dQZF1DWXXW8bE6k5tq">John Williams'</a> soundtracks.
 
-58 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/5hvIbSwXPyYI6DBFL3KfUN)
+58 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

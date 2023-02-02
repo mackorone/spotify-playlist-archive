@@ -4,7 +4,7 @@
 
 > Celebrating the music of Aretha Franklin with the songs she inspired.
 
-24 songs - 1 hr 34 min - [published](https://open.spotify.com/playlist/6EMDmHxtjUgrf7LRKXcRts)
+24 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

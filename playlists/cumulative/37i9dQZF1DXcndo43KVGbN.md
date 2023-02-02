@@ -4,7 +4,7 @@
 
 > The harmony between beautiful Ambient and tape manipulation.
 
-116 songs - 10 hr 50 min - [published](https://open.spotify.com/playlist/5Rfg8kppHGggv2Ug9VpbaA)
+116 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Gates Of Desire](https://open.spotify.com/track/7KWVeOXeLse2oBkgZEDzyk) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 2:55 | 2022-03-11 |  |
 | [Golden Hour](https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS), [Simonel](https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR) | [Endlessness](https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE) | 3:19 | 2022-03-11 |  |
 | [Great Lakes](https://open.spotify.com/track/5TRO29klRrOunwmiU6ej6k) | [Sailcloth](https://open.spotify.com/artist/3LMjQj2ObPaIwoyX3I9DJL) | [Great Lakes](https://open.spotify.com/album/1ypubdMSYePWglqnZULrCm) | 2:53 | 2022-03-11 |  |
-| [Hidden](https://open.spotify.com/track/6X5wDFw0cCvLNYWfimW3vz) | [Ssaliva](https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB) | [Hidden / Riffle](https://open.spotify.com/album/1UmLSPYZtsuTKmn8x9y8eK) | 2:25 | 2022-03-11 |  |
+| [Hidden](https://open.spotify.com/track/6X5wDFw0cCvLNYWfimW3vz) | [Ssaliva](https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB) | [Hidden / Rifle](https://open.spotify.com/album/1UmLSPYZtsuTKmn8x9y8eK) | 2:25 | 2022-03-11 |  |
 | [Hot & Cold](https://open.spotify.com/track/1SkH8HgcPIuOVnoNiqECwY) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Sync or Swim](https://open.spotify.com/album/1BTEBJq4FP2a8KvZK800nt) | 4:13 | 2022-07-08 |  |
 | [Hot & Cold](https://open.spotify.com/track/4ypXEPRvMElIAfUQRkSnlI) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Hot & Cold](https://open.spotify.com/album/2VBCCSodgOILblLpdtxRHW) | 4:13 | 2022-10-04 | 2022-11-13 |
 | [Hot & Cold](https://open.spotify.com/track/6O8yQmwt7sD0QpWcWVisX3) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Sync or Swim](https://open.spotify.com/album/6bmhv6caMBm5UjXjknt11t) | 4:13 | 2022-03-11 | 2022-08-04 |

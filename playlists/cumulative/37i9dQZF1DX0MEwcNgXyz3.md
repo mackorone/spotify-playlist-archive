@@ -4,7 +4,7 @@
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-67 songs - 3 hr 39 min - not published yet
+67 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

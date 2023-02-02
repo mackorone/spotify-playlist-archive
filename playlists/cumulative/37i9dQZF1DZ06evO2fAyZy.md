@@ -4,7 +4,7 @@
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/7zoCpA9TQkR8DxcKqpzUgY)
+50 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

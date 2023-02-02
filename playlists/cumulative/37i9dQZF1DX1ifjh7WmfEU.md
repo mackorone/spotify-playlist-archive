@@ -4,7 +4,7 @@
 
 > Piano music for your massage session.
 
-171 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/0MT14IFeha7RvTUzzRUcTI)
+176 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A New Way](https://open.spotify.com/track/4TRXMFAueWQN9HwW1FsCnU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A New Way](https://open.spotify.com/album/6dPptur5yYY6trtGjccIFo) | 2:33 | 2022-09-15 |  |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2022-05-27 |  |
 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 | 2022-05-27 |  |
+| [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-01-26 |  |
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2022-05-27 |  |
 | [am ersten Tag](https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [Time Line](https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns) | 2:10 | 2022-05-27 |  |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-05-27 |  |
@@ -57,7 +58,8 @@
 | [Fjäderlätt](https://open.spotify.com/track/2FV0bpajGSlVU21kZEiaEw) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Fjäderlätt](https://open.spotify.com/album/6zSNVshWnIEmrJX9dkLHZw) | 2:31 | 2022-11-14 |  |
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2022-05-27 | 2022-07-28 |
 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 | 2022-05-27 |  |
-| [Friend](https://open.spotify.com/track/41jpD9d8fOSzOya79B7A7K) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Friend](https://open.spotify.com/album/3gMNDU94vR2HTmQen6gfqT) | 2:45 | 2022-05-27 |  |
+| [Friend](https://open.spotify.com/track/0IYFu2XwAw4upJLfODQAWo) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Relaxing Piano Classics](https://open.spotify.com/album/3pLxieuvyteE7gyAJYyAbz) | 2:45 | 2022-11-14 |  |
+| [Friend](https://open.spotify.com/track/41jpD9d8fOSzOya79B7A7K) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Friend](https://open.spotify.com/album/3gMNDU94vR2HTmQen6gfqT) | 2:45 | 2022-05-27 | 2022-12-06 |
 | [Gavina](https://open.spotify.com/track/3dl8ypgkuvNw4vn3HFE1ky) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Gavina](https://open.spotify.com/album/4RteWlcqa9xzb6iKmo0ZAr) | 5:34 | 2022-05-27 |  |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2022-05-27 |  |
 | [Glourious](https://open.spotify.com/track/3AjIuQRx278sErh7B9knpS) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Glourious](https://open.spotify.com/album/4iUd5XDXgicUS1gLzfYCIK) | 2:23 | 2022-05-27 |  |
@@ -120,6 +122,7 @@
 | [Pragmatique](https://open.spotify.com/track/5lLjOkaJ7pqx2qOS7bN22M) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Pragmatique](https://open.spotify.com/album/4Ex97kKG6Boz9EYF6hivhc) | 2:00 | 2022-05-27 |  |
 | [Prime](https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy) | [Colette Blanche](https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn) | [Prime](https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t) | 2:17 | 2022-05-27 |  |
 | [Quiet](https://open.spotify.com/track/0mdIhRa6uUwlHmEuUuvuKA) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Quiet](https://open.spotify.com/album/6KxIV0vIVkC90QUs1BFNs3) | 3:13 | 2022-05-27 |  |
+| [Reach](https://open.spotify.com/track/7atqhP3DGCPfVBFK3YVMA7) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Reach](https://open.spotify.com/album/01KH05yqQgS0Cru4rIj5ML) | 2:00 | 2023-01-26 |  |
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2022-05-27 |  |
 | [Resplendence](https://open.spotify.com/track/5k9AFzNbx9ODY0VRgz3uWw) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Resplendence](https://open.spotify.com/album/4Bz9JY3wKoFL6zAAIL5uat) | 2:54 | 2022-05-27 |  |
 | [Rowan's Lullaby](https://open.spotify.com/track/2Q5J3fYP2cPXDQwCsS0OkT) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Hymn](https://open.spotify.com/album/3Ib3ew2pm5a2UOmAAbn7QC) | 1:56 | 2022-05-27 |  |
@@ -154,6 +157,7 @@
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2022-05-27 |  |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2022-05-27 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-05-27 |  |
+| [Theme from The Angel](https://open.spotify.com/track/7LRdotxT5OK5kUOPvzlv4i) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Theme from The Angel](https://open.spotify.com/album/15fvKVkNpLCtwHCXhlzhqG) | 1:45 | 2023-01-26 |  |
 | [Through The Fields](https://open.spotify.com/track/73eFWqvfD6zbttdkmydJ2z) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Through The Fields](https://open.spotify.com/album/1edcP1iOeSvZTFg4PxMZhB) | 2:20 | 2022-05-27 |  |
 | [Time Will Tell](https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Time Will Tell](https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S) | 2:07 | 2022-05-27 |  |
 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2022-05-27 |  |
@@ -166,6 +170,7 @@
 | [Vuggevise](https://open.spotify.com/track/7rvlOw2fPjxbcZSNKifEHq) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Vuggevise](https://open.spotify.com/album/6srrbZzcRlL82bPxb1rBCH) | 3:10 | 2022-05-27 |  |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2022-05-27 |  |
 | [Wanderer](https://open.spotify.com/track/7KOqu2N0jtVQMQZHdWTlT7) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Wanderer](https://open.spotify.com/album/4R0o8yDcrpo4Z8x8mRNrNp) | 2:06 | 2022-05-27 |  |
+| [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 | 2023-01-26 |  |
 | [Waves](https://open.spotify.com/track/3fQkbH0ruZuTFHcvuejlZh) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Waves](https://open.spotify.com/album/1CP8VTjmGieZWmYPGwkVjU) | 3:04 | 2022-05-27 | 2022-09-16 |
 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2022-11-14 |  |
 | [When We Dance](https://open.spotify.com/track/1XkTvyqh9ECRpqwbnxoZCv) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [When We Dance](https://open.spotify.com/album/7EX5b7L0MzsxnOF5mluc2C) | 2:37 | 2022-05-27 | 2022-09-16 |

@@ -4,7 +4,7 @@
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-32 songs - 2 hr 7 min - not published yet
+32 songs - 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

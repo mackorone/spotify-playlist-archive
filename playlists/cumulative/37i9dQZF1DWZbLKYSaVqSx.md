@@ -4,7 +4,7 @@
 
 > The twins <a href=“spotify:artist:0Adbm5kzcPUxFybf9fhjgG”>Coco & Breezy</a> showcase a high\-energy House Music set that will for sure get you dancing.
 
-25 songs - 57 min 49 sec - [published](https://open.spotify.com/playlist/1eoNaPtkVfWeeiyhvRwsPr)
+25 songs - 57 min 49 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Revisit the retro Rahman",
   "name": "Rahman Ruling 90s",
-  "published_playlist_ids": [
-    "2m0rOYjqZBGwuIjvVWSPjN"
-  ],
   "tracks": [
     {
       "album": {
@@ -1401,10 +1398,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 30000,
       "name": "Malargalae",
       "url": "https://open.spotify.com/track/62vYuJH6RHDPFsVwlHfM8j"
+    },
+    {
+      "album": {
+        "name": "Love Songs Of Ilaiyaraja & A. R. Rahman",
+        "url": "https://open.spotify.com/album/2pTLn5ypUdGINKImS1iHyr"
+      },
+      "artists": [
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435600,
+      "name": "Malargaley (From \"Love Birds\")",
+      "url": "https://open.spotify.com/track/08h7noiVJ51fou2fVNIVC4"
     },
     {
       "album": {
@@ -1819,6 +1838,24 @@
     {
       "album": {
         "name": "Love Birds",
+        "url": "https://open.spotify.com/album/1IXkD2tHqQUhQlwRskclSH"
+      },
+      "artists": [
+        {
+          "name": "A.R.Rehman, Appaci Indian",
+          "url": "https://open.spotify.com/artist/0Z24MCQMJgzefOkQ3VcHVi"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370867,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/3acFeDmEepuQD6YruwJT6L"
+    },
+    {
+      "album": {
+        "name": "Love Birds",
         "url": "https://open.spotify.com/album/2EXhA2k0LttCoCLIqRmuHw"
       },
       "artists": [
@@ -1837,7 +1874,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 30000,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/51hv6doMfIm6byNxd0NGsD"
@@ -2405,10 +2442,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 30000,
       "name": "Samba Samba",
       "url": "https://open.spotify.com/track/6nnCvFaPPRdQvPDPmhk3vm"
+    },
+    {
+      "album": {
+        "name": "Hits Of A.R. Rahman Vol- 2",
+        "url": "https://open.spotify.com/album/2sAzMVMnW40JBNZTolvhpj"
+      },
+      "artists": [
+        {
+          "name": "Aslam Mustafa",
+          "url": "https://open.spotify.com/artist/5LN8F4nnkrTbv4c5A1BkA2"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328161,
+      "name": "Samba Samba (From \"Love Birds\")",
+      "url": "https://open.spotify.com/track/1t8ekLvXe2EQ6JgfUNM7EZ"
     },
     {
       "album": {

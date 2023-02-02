@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0i8wXUbfqej.md) - [plain]
 
 > The soundtrack to J Balvin's world of wellness...to learn more, check out his wellness app, OYE\. Cover: J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,817 likes - 14 songs - 45 min 35 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,775 likes - 14 songs - 45 min 35 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

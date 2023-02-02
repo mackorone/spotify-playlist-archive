@@ -4,7 +4,7 @@
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-69 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/1sBiL9e1FXqfbDn47RYumn)
+70 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,12 +31,13 @@
 | [Dust My Broom](https://open.spotify.com/track/3LGB6BkiSmzP8IHo03rZMo) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:54 | 2022-10-04 | 2022-11-13 |
 | [Dust My Broom](https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 | 2022-07-01 |  |
 | [Dust My Broom](https://open.spotify.com/track/00PHw50If2awJ3cbV9OVbD) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [King Biscuit Time](https://open.spotify.com/album/1Ay8W1UITgrlqcgO7Lvyi0) | 2:44 | 2022-05-13 | 2022-07-29 |
+| [Glamour Girl \- Remastered 2022](https://open.spotify.com/track/26NeJqqTN4obwlAHAep7jJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 2:44 | 2023-01-10 | 2023-01-26 |
 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 | 2022-05-13 |  |
 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 | 2022-05-13 |  |
 | [I Can't Quit You, Baby](https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 6:40 | 2022-05-13 |  |
 | [I'm A King Bee](https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:51 | 2022-05-13 |  |
 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 | 2022-09-12 |  |
-| [I'm gonna let you go](https://open.spotify.com/track/21W05izeUBHiH5GCcxNCwt) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Chicago Blues Session Volume 12](https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE) | 3:34 | 2022-05-27 | 2022-11-19 |
+| [I'm gonna let you go](https://open.spotify.com/track/21W05izeUBHiH5GCcxNCwt) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Chicago Blues Session Volume 12](https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE) | 3:34 | 2022-05-27 |  |
 | [I'm Tore Down](https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 4:13 | 2022-05-13 |  |
 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 | 2022-05-13 |  |
 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 | 2022-05-13 |  |
@@ -59,7 +60,7 @@
 | [Shake Your Moneymaker](https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:13 | 2022-11-16 |  |
 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 | 2022-05-13 |  |
 | [Smokestack Lightnin'](https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 3:08 | 2022-05-13 |  |
-| [Smoking Gun](https://open.spotify.com/track/5tRu8kA4d17uwGVT7I3YIR) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [20th Century Masters: The Millennium Collection: Best Of Robert Cray](https://open.spotify.com/album/7jFlpHRQMaYHxKP5z0ZqiL) | 4:06 | 2022-05-13 |  |
+| [Smoking Gun](https://open.spotify.com/track/5tRu8kA4d17uwGVT7I3YIR) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [20th Century Masters: The Millennium Collection: Best Of Robert Cray](https://open.spotify.com/album/7jFlpHRQMaYHxKP5z0ZqiL) | 4:06 | 2022-05-13 | 2022-12-24 |
 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 | 2022-05-13 |  |
 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 | 2022-05-13 |  |
 | [Statesboro Blues](https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 2:58 | 2022-05-13 |  |

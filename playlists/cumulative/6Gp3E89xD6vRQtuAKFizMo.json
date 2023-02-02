@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
   "name": "Dim Mak New Releases",
-  "published_playlist_ids": [
-    "7t8EXLKd9MB1gi8kmzd2kR"
-  ],
   "tracks": [
     {
       "album": {
@@ -183,7 +180,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 192068,
       "name": "Blow The Socket",
       "url": "https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW"
@@ -436,6 +433,24 @@
     },
     {
       "album": {
+        "name": "D House",
+        "url": "https://open.spotify.com/album/7nIEkc3bIt0DIzUqQB3koJ"
+      },
+      "artists": [
+        {
+          "name": "DISTO",
+          "url": "https://open.spotify.com/artist/1uodYnEBYYgZsExzoMeiGl"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196535,
+      "name": "D House",
+      "url": "https://open.spotify.com/track/6TKtoZBT8PGOgIP3e30hDN"
+    },
+    {
+      "album": {
         "name": "Da Homies",
         "url": "https://open.spotify.com/album/3NJWsGiRPEyCOLKq1jB5Ac"
       },
@@ -499,6 +514,28 @@
       "duration_ms": 187500,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3"
+    },
+    {
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
     },
     {
       "album": {
@@ -604,6 +641,24 @@
     },
     {
       "album": {
+        "name": "En Secreto",
+        "url": "https://open.spotify.com/album/6BKh8ai1vPum2LclW1dGK1"
+      },
+      "artists": [
+        {
+          "name": "La Favi",
+          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 129621,
+      "name": "En Secreto",
+      "url": "https://open.spotify.com/track/6lNd1FVwfPPmcXQM3Pr0xU"
+    },
+    {
+      "album": {
         "name": "End Of The World",
         "url": "https://open.spotify.com/album/31mDl63BV0n2ipUk8Mvigs"
       },
@@ -641,7 +696,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 223557,
       "name": "Enter With Caution (feat. Alix Robson)",
       "url": "https://open.spotify.com/track/4sDBG6YWfUcWd6Cev8fWUJ"
@@ -677,10 +732,32 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 206160,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/2dJC7TpwGn8b2ricS0nnZV"
+    },
+    {
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/0UmkkEWHquA9fVy8MjNMsB"
+      },
+      "artists": [
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        },
+        {
+          "name": "3DI",
+          "url": "https://open.spotify.com/artist/5lLpc0Fm6VJEcJxai3Fq4G"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/1ByFlaAaOkFzzIDhhBf3ox"
     },
     {
       "album": {
@@ -779,7 +856,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 129229,
       "name": "GAWT DAT",
       "url": "https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1"
@@ -899,7 +976,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 163333,
       "name": "I Don't Miss U",
       "url": "https://open.spotify.com/track/5yHpXftp1WadoINgFucZTz"
@@ -983,6 +1060,46 @@
       "duration_ms": 216500,
       "name": "Kanos",
       "url": "https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr"
+    },
+    {
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/4U7lCbHpPpgHuXbAkvQeBB"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128507,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/42uX9KNWASwZxnmtn1YKBn"
+    },
+    {
+      "album": {
+        "name": "KPASA (feat. Drty Tropix)",
+        "url": "https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        },
+        {
+          "name": "Drty Tropix",
+          "url": "https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "KPASA (feat. Drty Tropix)",
+      "url": "https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem"
     },
     {
       "album": {
@@ -1117,7 +1234,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 216410,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz"
@@ -1139,6 +1256,24 @@
       "duration_ms": 174657,
       "name": "Loving You Kills Me",
       "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/7sOA6ilyWGVxXgwsTf6Jm3"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172857,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/2e3Qt3sB30HiEWqlwUWga9"
     },
     {
       "album": {
@@ -1300,6 +1435,28 @@
     },
     {
       "album": {
+        "name": "Moonlight (feat. Gianni Taylor)",
+        "url": "https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt"
+      },
+      "artists": [
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        },
+        {
+          "name": "GIANNI TAYLOR",
+          "url": "https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173061,
+      "name": "Moonlight (feat. Gianni Taylor)",
+      "url": "https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk"
+    },
+    {
+      "album": {
         "name": "Move It",
         "url": "https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo"
       },
@@ -1311,7 +1468,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 140701,
       "name": "Move It",
       "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
@@ -1337,6 +1494,28 @@
       "duration_ms": 207187,
       "name": "Music Means Love Forever",
       "url": "https://open.spotify.com/track/4LlhYmenqKC0boXvDpl6vt"
+    },
+    {
+      "album": {
+        "name": "Never Be The Same (feat. Paige Duch\u00e9)",
+        "url": "https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN"
+      },
+      "artists": [
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        },
+        {
+          "name": "Paige Duch\u00e9",
+          "url": "https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162663,
+      "name": "Never Be The Same (feat. Paige Duch\u00e9)",
+      "url": "https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY"
     },
     {
       "album": {
@@ -1487,10 +1666,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 160629,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6"
+    },
+    {
+      "album": {
+        "name": "OPEN YOUR EYES",
+        "url": "https://open.spotify.com/album/6ZHkAA8tCE9803lwFAgwKU"
+      },
+      "artists": [
+        {
+          "name": "THIEVES",
+          "url": "https://open.spotify.com/artist/0l6M2vf0lC8N42B4spXUSn"
+        },
+        {
+          "name": "BADVOID",
+          "url": "https://open.spotify.com/artist/1xLTclBBWlypMWDMV8Eb6O"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192951,
+      "name": "OPEN YOUR EYES",
+      "url": "https://open.spotify.com/track/6NU79Y1bRxbHwqSYdWUL2h"
     },
     {
       "album": {
@@ -1512,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Osaka Psycho",
+        "url": "https://open.spotify.com/album/5gANRMe0nkkXIBhQ4d3ptr"
+      },
+      "artists": [
+        {
+          "name": "SWAGE",
+          "url": "https://open.spotify.com/artist/4AX69F3L6j5N4wZFUaXYdc"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Osaka Psycho",
+      "url": "https://open.spotify.com/track/4al48UReBtAEGNK48WLPCR"
+    },
+    {
+      "album": {
         "name": "Own The Night",
         "url": "https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3"
       },
@@ -1527,7 +1746,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 180193,
       "name": "Own The Night",
       "url": "https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F"
@@ -1582,6 +1801,32 @@
     },
     {
       "album": {
+        "name": "Phat Brahms (Coone Remix 2.0)",
+        "url": "https://open.spotify.com/album/47bfgSSEuMdUIGtHT0KGFw"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Angger Dimas",
+          "url": "https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179673,
+      "name": "Phat Brahms - Coone Remix 2.0",
+      "url": "https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY"
+    },
+    {
+      "album": {
         "name": "Pick Yourself Up",
         "url": "https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y"
       },
@@ -1597,7 +1842,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 204369,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv"
@@ -1949,7 +2194,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 160201,
       "name": "Summer Lasts Forever (feat. Love Jesse)",
       "url": "https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk"
@@ -1985,7 +2230,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 171710,
       "name": "sunlight",
       "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"
@@ -2113,10 +2358,68 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 147540,
       "name": "Toxic Rain (prod. David Mugratsch)",
       "url": "https://open.spotify.com/track/7b2FGXLZY3ABSxVgkpccCf"
+    },
+    {
+      "album": {
+        "name": "Toxic Rain (prod. David Mugratsch) [VIP Mix]",
+        "url": "https://open.spotify.com/album/0YDquXUQDJ58JD6fp7XTzR"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "David Mugratsch",
+          "url": "https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116308,
+      "name": "Toxic Rain (prod. David Mugratsch) - VIP Mix",
+      "url": "https://open.spotify.com/track/16VzFdHhJz6PkyFWMoEggi"
+    },
+    {
+      "album": {
+        "name": "Traces Of You",
+        "url": "https://open.spotify.com/album/2sZAcRt2t9zr1X7CO00wZY"
+      },
+      "artists": [
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Traces Of You",
+      "url": "https://open.spotify.com/track/1V0mxw6kWF2edrzAE97I4g"
+    },
+    {
+      "album": {
+        "name": "Treat U Wrong",
+        "url": "https://open.spotify.com/album/2h2VFBu0mviDo2RXXU9Yzm"
+      },
+      "artists": [
+        {
+          "name": "aboywithabag",
+          "url": "https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122103,
+      "name": "Treat U Wrong",
+      "url": "https://open.spotify.com/track/0TtPLbRdf1d6paRb1XAXFg"
     },
     {
       "album": {
@@ -2230,6 +2533,32 @@
     },
     {
       "album": {
+        "name": "Vamos a Beber (Sak Noel Remix)",
+        "url": "https://open.spotify.com/album/4SG62I5xwZTEqQUX6W5ONW"
+      },
+      "artists": [
+        {
+          "name": "KD One",
+          "url": "https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Vamos a Beber - Sak Noel Remix",
+      "url": "https://open.spotify.com/track/4JRLNNdcgxmZOS6gziBIew"
+    },
+    {
+      "album": {
         "name": "Villainy (feat. Gold & Mikey Rotten)",
         "url": "https://open.spotify.com/album/7I439tCjMMzzWE1bauLG06"
       },
@@ -2253,7 +2582,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 163404,
       "name": "Villainy (feat. Gold & Mikey Rotten)",
       "url": "https://open.spotify.com/track/3279d3UVvnvJGhZOHj5Mtq"
@@ -2433,7 +2762,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 189595,
       "name": "Young & Lit (feat. Bok Nero)",
       "url": "https://open.spotify.com/track/6KnBrpwDJZgMAIXXyRFkEN"

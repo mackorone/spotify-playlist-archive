@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,847 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,311 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 56 | [Dark Horse](https://open.spotify.com/track/4h3QT5WiheICD8PZaA4IfT) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [The E\-Collective](https://open.spotify.com/artist/3mLYbLsEXzIgdvikrVRK46) | [Absence](https://open.spotify.com/album/1fzoq1zIpM4L6KOpjpfLdp) | 7:17 |
 | 57 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
 | 58 | [Falling Out Of Love](https://open.spotify.com/track/3w6Vyfw1iojw162SELI75Y) | [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv) | [If My Ancestors Could See Me Now](https://open.spotify.com/album/7r5dUbaZZE0WXO0z1XmfTy) | 3:45 |
-| 59 | [I See It Now](https://open.spotify.com/track/23I2duciX9JdJANkYyrGm6) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/4VL4eRCCfus08MjUiYFB7x) | 2:53 |
+| 59 | [I See It Now](https://open.spotify.com/track/4NhO8oJUelTgNmj3G6JZKr) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/5Gc1jfwEfaGaOq3QllW9rb) | 2:53 |
 | 60 | [The Long Goodbye](https://open.spotify.com/track/39frvhj8AzWzM5UfduyeDH) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr) | 10:02 |
 
-Snapshot ID: `MTYzMjkzNDIwNSwwMDAwMDAwMGJhYTU0NzgxYjhmMjMyZTMwNmE0OTY5OTc0OGVhYTFi`
+Snapshot ID: `MTYzMjkzNDIwNSwwMDAwMDAwMDZmMzA0ZTE3YzA3OTM3ZjdiMjBiNzk0NDBjYTgxMDU4`

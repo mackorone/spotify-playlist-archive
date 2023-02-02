@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-83 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/6STNcxJowr9kt1qj1mUAao)
+84 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Sex Ed](https://open.spotify.com/track/2HjBGYAl1Z1OtYsjkqTi1N) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Sex Ed](https://open.spotify.com/album/0w5HxteP4Tqwc1F9Bsido7) | 3:15 | 2022-09-08 |  |
 | [Shaken](https://open.spotify.com/track/33Vpz0V1ytEaRQuIb1LqGv) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:45 | 2022-09-08 |  |
 | [Shine Ya Light](https://open.spotify.com/track/53Jn6XWHu86vTZEK4elSH7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/1aDnLoXL8rl3WFJWLTxZmx) | 3:30 | 2022-09-08 |  |
-| [Solo Para Ti](https://open.spotify.com/track/1SEnY3zCzz2ZDcmNeHaiXJ) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Desserts](https://open.spotify.com/album/7eEV72avvHcckpIclgZAV0) | 3:44 | 2022-09-08 |  |
+| [Solo Para Ti](https://open.spotify.com/track/0mJ7MnaW6UJ7DGeiw770WG) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Desserts](https://open.spotify.com/album/2osER63dyxzb5y37YqMUJd) | 3:44 | 2022-12-01 |  |
+| [Solo Para Ti](https://open.spotify.com/track/1SEnY3zCzz2ZDcmNeHaiXJ) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Desserts](https://open.spotify.com/album/7eEV72avvHcckpIclgZAV0) | 3:44 | 2022-09-08 | 2022-12-02 |
 | [Someday](https://open.spotify.com/track/6aqQwBaJ2W7z5PIqWMheGx) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:12 | 2022-09-08 |  |
 | [Special](https://open.spotify.com/track/5BmFkMlzo74gvl4h1dObB9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:21 | 2022-09-08 |  |
 | [Standing Where You Left Me](https://open.spotify.com/track/47ByDQbcfBfhkrzgJ1Ojs0) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Pieces](https://open.spotify.com/album/2LQCkZkjgKKTaPb8SYqufS) | 3:20 | 2022-09-08 |  |

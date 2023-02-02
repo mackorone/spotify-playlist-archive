@@ -4,7 +4,7 @@
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-56 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/7s0WHDm1xGgwzCT0C6gGrJ)
+56 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,7 @@
 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 | 2020-11-22 |  |
 | [Ma Tehun](https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf) | 4:57 | 2020-11-22 |  |
 | [Ma Tehun](https://open.spotify.com/track/39ohufVtqCn9ySNSL0800B) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/0KgqHCprFfPZn4DKAA4zXr) | 4:57 | 2020-11-22 | 2022-07-29 |
-| [Mali \(Live\)](https://open.spotify.com/track/24BrV1miOAkvzwVBjRwrwp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 3:54 | 2020-11-22 |  |
-| [Mali \- Live](https://open.spotify.com/track/6jmz2f0MQGvQMbFoWejFtH) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 3:54 | 2020-11-22 | 2022-07-29 |
+| [Mali \- Live](https://open.spotify.com/track/6jmz2f0MQGvQMbFoWejFtH) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 3:54 | 2020-11-22 |  |
 | [Maliket Gamal El Rouh](https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Maliket Gamal El Rouh](https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR) | 3:47 | 2020-11-22 |  |
 | [Maliket Gamal El Rouh](https://open.spotify.com/track/4q1dJXzkpdTe7WJStVmTS9) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1), [Toni Haddad](https://open.spotify.com/artist/7gt64IxYh3W4hkqffJ1qAa) | [Maliket Gamal El Rouh](https://open.spotify.com/album/0fvTIEDvIQ7ZzIj7a5rsP8) | 3:47 | 2020-11-22 | 2022-07-29 |
 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 | 2020-11-22 |  |
@@ -53,16 +52,17 @@
 | [Seket El Kalam](https://open.spotify.com/track/1hyMsgnE8sx0fWGeq2G7rQ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Aghani Hits Vol.2](https://open.spotify.com/album/4jKLkcv62T1dZH6diGDdbB) | 4:15 | 2022-09-13 | 2022-11-14 |
 | [Seket El Kalam](https://open.spotify.com/track/7AFuJ7RH19rEML28nWb7oF) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Seket El Kalam](https://open.spotify.com/album/7vENdfNGO5G9E713VdAUPw) | 4:15 | 2020-11-22 |  |
 | [Sheel Oyounak Anni](https://open.spotify.com/track/2PRL8u9zyCRResNVXeSgQw) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Sheel Oyoonak Anni](https://open.spotify.com/album/3XuDhEdBDaT1zd9mmUfo77) | 5:26 | 2020-11-22 |  |
-| [Tair ya hawa \(Live\)](https://open.spotify.com/track/2szi0ZqkBtU4GyRuCz65Pz) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 4:53 | 2020-11-22 |  |
-| [Tair ya hawa \- Live](https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 4:53 | 2020-11-22 | 2022-07-29 |
+| [Tair ya hawa \(Live\)](https://open.spotify.com/track/2szi0ZqkBtU4GyRuCz65Pz) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 4:53 | 2020-11-22 | 2022-12-17 |
+| [Tair ya hawa \- Live](https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 4:53 | 2020-11-22 |  |
 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 | 2020-11-22 |  |
 | [Wahashtini](https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:16 | 2020-11-22 |  |
 | [Wehyaty Andak](https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u) | [Zekra](https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 7:07 | 2020-11-22 |  |
 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 | 2020-11-22 |  |
-| [Ya habibi \(Live\)](https://open.spotify.com/track/1INnlvFJuB1nCfKznHzILE) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 4:56 | 2020-11-22 |  |
-| [Ya habibi \- Live](https://open.spotify.com/track/7foZcrSugkCx062oIi4wVQ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 4:56 | 2020-11-22 | 2022-07-29 |
+| [Ya habibi \(Live\)](https://open.spotify.com/track/1INnlvFJuB1nCfKznHzILE) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 4:56 | 2020-11-22 | 2022-12-17 |
+| [Ya habibi \- Live](https://open.spotify.com/track/7foZcrSugkCx062oIi4wVQ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 4:56 | 2020-11-22 |  |
 | [Ya Habibti Ya Masr](https://open.spotify.com/track/5Qwrje2t7Nzl1XYbLyGdeE) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Ah Ya Lamouny](https://open.spotify.com/album/6z6bmdmPwaKnwPvDnAb7gX) | 5:48 | 2020-11-22 | 2022-07-29 |
 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 | 2020-11-22 |  |
 | [Zay Elasal](https://open.spotify.com/track/6WL468M0cawkNfDIXMsjPK) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 8:31 | 2020-11-22 |  |
+| [مالي \(حفلة\)](https://open.spotify.com/track/24BrV1miOAkvzwVBjRwrwp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [سهرة](https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR) | 3:54 | 2020-11-22 | 2022-12-18 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

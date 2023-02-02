@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
   "name": "Stargazer",
-  "published_playlist_ids": [
-    "1ISc2kghgLSBOppDcYOI8f"
-  ],
   "tracks": [
     {
       "album": {
@@ -289,7 +286,7 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 194573,
       "name": "Can You Think a Solution?",
       "url": "https://open.spotify.com/track/7kVuOdiC2BH8IxzHaWf1Ea"
@@ -605,7 +602,7 @@
       ],
       "date_added": "2021-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 211920,
       "name": "Hijaz Gar",
       "url": "https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg"
@@ -1695,6 +1692,42 @@
       "duration_ms": 443833,
       "name": "Yekeshish",
       "url": "https://open.spotify.com/track/2LSfFO6kZSGP6JxsPoQjrF"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
+        "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294611,
+      "name": "\u062f\u0627\u0631\u064a \u064a\u0627 \u0642\u0644\u0628\u064a",
+      "url": "https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
+        "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249655,
+      "name": "\u0641\u0627\u0636\u064a \u0634\u0648\u064a\u0629",
+      "url": "https://open.spotify.com/track/1fHh30pe4YAacqOI3vKQWW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1SGz4XfZKy2"

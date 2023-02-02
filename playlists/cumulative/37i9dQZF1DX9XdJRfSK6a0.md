@@ -4,7 +4,7 @@
 
 > This Sunday, let's tune out the words.
 
-73 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/0CpRLqW8EkKiQoCSEtTBEq)
+73 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

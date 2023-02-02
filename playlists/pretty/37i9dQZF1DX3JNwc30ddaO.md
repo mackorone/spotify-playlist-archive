@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 
 > Meditative tones for clarity and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,194 likes - 74 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,754 likes - 74 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 | 27 | [Bodhisattva](https://open.spotify.com/track/4RgwHJ7kgVYp8sOICyshrh) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Dakpa Nepali](https://open.spotify.com/album/0Dg7fosaqmafdKYLWiDp0m) | 3:27 |
 | 28 | [Total Zen](https://open.spotify.com/track/7FcouZsGNhXqHaOy4RlkNz) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Total Zen](https://open.spotify.com/album/44RX9xPZeQxUf4MrpbbYn6) | 2:48 |
 | 29 | [Octaves](https://open.spotify.com/track/78WS3GE1b8SOYXu92uH95v) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Octaves](https://open.spotify.com/album/6do25Wf004W28A6ACgF398) | 7:23 |
-| 30 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [Sun Prayers](https://open.spotify.com/artist/5ooYkvBXhXVAVuoTQTTscC) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 |
+| 30 | [Transcend](https://open.spotify.com/track/4bbvU1EWM2r6SDKGC6Ql9t) | [SunOneSun](https://open.spotify.com/artist/7n3WTqnRXVk69eiHUgSLnq) | [Relax in the Sound Bath](https://open.spotify.com/album/0estXKpvmUY8ZZM9yjC8aG) | 6:53 |
 | 31 | [Third Eye Chakra Singing Bowl](https://open.spotify.com/track/55s8n5TnnDr1WAKbhaB7OA) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Purity](https://open.spotify.com/album/08PG1DXpZq2hgu4UTmMmPm) | 3:44 |
 | 32 | [Throath Chakra \- \(Vishuddha\) 3 Octaves G](https://open.spotify.com/track/4aS3XkjjFSafYME58Wo1iY) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 |
 | 33 | [Peaceful Bowls](https://open.spotify.com/track/5bqdWWJaK1sLMy58VYMIg4) | [Monkville](https://open.spotify.com/artist/53qEoYIkHrhdTdC6AaSoiJ) | [Gong Zone](https://open.spotify.com/album/1by9VUzQJ6RxtPpuFUR0WA) | 3:30 |

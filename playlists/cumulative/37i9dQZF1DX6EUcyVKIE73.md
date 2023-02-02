@@ -4,7 +4,7 @@
 
 > Selections of North Indian classical music.
 
-62 songs - 18 hr 29 min - [published](https://open.spotify.com/playlist/6KxJho2Z4Stal5h3YgTXxS)
+63 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Dev Dev Sat Sang \- Khayal Vilambit \- Jhap Taal / Maanat Nahin \- Raag Sawani \- Khayal Drut \- Teentaal](https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz) | [Suresh Talwalkar](https://open.spotify.com/artist/61TBwoNacct3xrgHpQrP1r), [Anant Kunte](https://open.spotify.com/artist/2hCXIITSyyqPwgkaVNHN7D), [Pt\. Babanrao Manjrekar](https://open.spotify.com/artist/4zLwSdQIRKPFLWZ4H65agg), [Padma Talwalkar](https://open.spotify.com/artist/064zRRPqgyHoIO6KKSKC4e) | [Padma Talwalkar](https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T) | 27:13 | 2021-12-06 |  |
 | [Dhun \(Dadra And Fast Teental\) \- Live](https://open.spotify.com/track/68H7Gfjexf4wuGswkcwfdU) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 19:41 | 2021-12-06 |  |
 | [Dhun Mishra Kafi](https://open.spotify.com/track/1aOlzHtvRmpQaJqazySCPx) | [Rajeev Taranath](https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6) | [Reflections Around Noon](https://open.spotify.com/album/3bfkWGToZSFbFlGVmAJBjK) | 19:00 | 2021-12-06 |  |
-| [Dhun Pahari](https://open.spotify.com/track/6MrK3tQ2yLbRtQYfPQ22uS) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Ragas Vol\. 5](https://open.spotify.com/album/7w63VXXvPjQ0KGPRWoAODc) | 17:50 | 2021-12-06 |  |
+| [Dhun Pahari](https://open.spotify.com/track/6MrK3tQ2yLbRtQYfPQ22uS) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Ragas Vol\. 5](https://open.spotify.com/album/7w63VXXvPjQ0KGPRWoAODc) | 17:50 | 2021-12-06 | 2023-01-04 |
+| [Dhun Pahari \(Live\)](https://open.spotify.com/track/5TR882TjcZakJe7Hegd1Hy) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Live in India – Performances by Indian Classical Legends](https://open.spotify.com/album/5DogXVWPwLHJPE07M61ZeB) | 17:50 | 2022-12-08 |  |
 | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Dream \(Raag Tilak Nat\) \[Radio Edit\]](https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R) | 7:31 | 2021-12-06 |  |
 | [Hamri Atariya](https://open.spotify.com/track/2q7bd1N2zVbZClXJRffuEc) | [Rita Dev](https://open.spotify.com/artist/1jnBR0jw8PVk11eOsjfm8E) | [Hamri Atariya](https://open.spotify.com/album/6KogqquOoLjlxLI9H8rBeg) | 10:36 | 2021-12-06 |  |
 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 | 2021-12-06 |  |

@@ -1,44 +1,60 @@
 {
-  "description": "Neighborhood Storytellers. Cover: Lil Tjay",
-  "num_followers": 53669,
+  "description": "Neighborhood Storytellers. Cover: NoCap",
+  "num_followers": 54827,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODg5Njk4NiwwMDAwMDAwMGRiMDUzOGU0MDcyYjg2YjMzZGJjNDQ4ZjA3ZjAwNjA5",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDdmODhjOGQ5YWQ4YjYyMzZhNTVhZmFhNmNhODYxZjk3",
   "tracks": [
     {
-      "added_at": "2022-11-19 22:29:46",
+      "added_at": "2023-01-06 18:33:32",
       "album": {
-        "name": "Feed Tha Streets III",
-        "url": "https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji"
+        "name": "Public Housing, Pt. 2",
+        "url": "https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
         }
       ],
-      "duration_ms": 153743,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/0hlpJecbVBbxg8YNFaxv8k"
+      "duration_ms": 166791,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/1DenbmzkT4hvnq1ltyBZBM"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Letter 2 Notti",
-        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
+        "name": "IF I STOP NOW",
+        "url": "https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8"
       },
       "artists": [
         {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 127397,
-      "name": "Letter 2 Notti",
-      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
+      "duration_ms": 177011,
+      "name": "IF I STOP NOW",
+      "url": "https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Green Hearts",
+        "url": "https://open.spotify.com/album/01r6VRmGUlX3zr4WFnzSNP"
+      },
+      "artists": [
+        {
+          "name": "Lil 50",
+          "url": "https://open.spotify.com/artist/0sHcYErCqRMKuFgW3ITQ7w"
+        }
+      ],
+      "duration_ms": 157204,
+      "name": "Green Hearts",
+      "url": "https://open.spotify.com/track/51UCBlvZizsxw98H5QkNeh"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -73,58 +89,6 @@
       "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
     },
     {
-      "added_at": "2022-11-19 22:29:46",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1fDgOfcw9Ljo9yXVYcXEFR"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 242790,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/0f4Q3Akc01C02qHpqzAA2Q"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "HEAVY IS THE HEAD",
-        "url": "https://open.spotify.com/album/5JiiyLyGI5LSP0N0bcu6wy"
-      },
-      "artists": [
-        {
-          "name": "Lil Poppa",
-          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 172987,
-      "name": "WIN 4 LOSIN (with Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/104Z44ugOYxbw2RzGBWZPn"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Beat the Odds",
-        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Beat the Odds",
-      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Went Deaf",
@@ -139,6 +103,98 @@
       "duration_ms": 183047,
       "name": "Went Deaf",
       "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Letter 2 Notti",
+        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 127397,
+      "name": "Letter 2 Notti",
+      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Esparo",
+          "url": "https://open.spotify.com/artist/5ZPKRdlxEfhf3p48Fmk8tS"
+        },
+        {
+          "name": "Booka600",
+          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
+        }
+      ],
+      "duration_ms": 157135,
+      "name": "Please Breathe",
+      "url": "https://open.spotify.com/track/62ImrXs50nRmDyg1lAsE8W"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "The Main Bird",
+        "url": "https://open.spotify.com/album/4HWgWGP0wqldO7kuOGVkEo"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 192078,
+      "name": "Rich And Dangerous",
+      "url": "https://open.spotify.com/track/1kgPrqOpwzDDdvufXCksaq"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Da Rant",
+        "url": "https://open.spotify.com/album/53jD3cyaN4StX9Vo0EV4dw"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "Da Rant",
+      "url": "https://open.spotify.com/track/6N8OxmReKE2Qg0SY2x6gDD"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Family & Mula",
+        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 249270,
+      "name": "Bigger Jeans (feat. NoCap)",
+      "url": "https://open.spotify.com/track/0B3iyAwE81D2weW8MrwE7h"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -161,6 +217,78 @@
       "url": "https://open.spotify.com/track/7ci1R1e89Zw0HumjHSN5XF"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "HEAVY IS THE HEAD",
+        "url": "https://open.spotify.com/album/5JiiyLyGI5LSP0N0bcu6wy"
+      },
+      "artists": [
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 172987,
+      "name": "WIN 4 LOSIN (with Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/104Z44ugOYxbw2RzGBWZPn"
+    },
+    {
+      "added_at": "2022-11-19 22:29:46",
+      "album": {
+        "name": "Feed Tha Streets III",
+        "url": "https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 153743,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/0hlpJecbVBbxg8YNFaxv8k"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Beat the Odds",
+        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Beat the Odds",
+      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Realer 2",
@@ -175,6 +303,22 @@
       "duration_ms": 136258,
       "name": "Purge Me",
       "url": "https://open.spotify.com/track/4HTkk2vceRNg08yGcRJtBS"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Kevo Muney x Lil Muney",
+        "url": "https://open.spotify.com/album/05hifYLh6LdKxKcUjobidF"
+      },
+      "artists": [
+        {
+          "name": "Kevo Muney",
+          "url": "https://open.spotify.com/artist/2s1fodCLf7tb0bogSUNBqY"
+        }
+      ],
+      "duration_ms": 160993,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/0LC77EC3n9274WTLFDtw1v"
     },
     {
       "added_at": "2022-10-27 20:30:44",
@@ -197,6 +341,26 @@
       "url": "https://open.spotify.com/track/2KQrHFHMLiToEoSyNCyCkQ"
     },
     {
+      "added_at": "2022-12-30 05:00:00",
+      "album": {
+        "name": "State of Emergency",
+        "url": "https://open.spotify.com/album/5ieJkFRIUKmwu4ltjL5fC5"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 166830,
+      "name": "Patience (feat. NoCap)",
+      "url": "https://open.spotify.com/track/2KUoS9OMlDLszLly6JcJGi"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "So Icy Boyz 22",
@@ -211,6 +375,46 @@
       "duration_ms": 169723,
       "name": "Chief",
       "url": "https://open.spotify.com/track/7MN2fQ1oMGvhKf0NQolm9R"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Portland 2",
+        "url": "https://open.spotify.com/album/48V6VMvomnJ47t1V0DnHvO"
+      },
+      "artists": [
+        {
+          "name": "ITS HAB",
+          "url": "https://open.spotify.com/artist/0yTmOWyk27vjls6vsyEVIV"
+        },
+        {
+          "name": "FCG Heem",
+          "url": "https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "Portland 2",
+      "url": "https://open.spotify.com/track/61I7Ajq0MfzwTtqMv2o7sI"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Miss U Already",
+        "url": "https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 309363,
+      "name": "Miss U Already (feat. NoCap)",
+      "url": "https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -253,56 +457,20 @@
       "url": "https://open.spotify.com/track/2Ebn0K5I06J09d9GmzNNkU"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
+      "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Family & Mula",
-        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
       },
       "artists": [
         {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+          "name": "Hypno Carlito",
+          "url": "https://open.spotify.com/artist/0ZVsDtaeXZtLz3qyVFViX4"
         }
       ],
-      "duration_ms": 249270,
-      "name": "Bigger Jeans (feat. NoCap)",
-      "url": "https://open.spotify.com/track/0B3iyAwE81D2weW8MrwE7h"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Tez & Tone 1",
-        "url": "https://open.spotify.com/album/22SPzvel0IVFXbPPjGo7nd"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 230526,
-      "name": "Tez & Tone 1",
-      "url": "https://open.spotify.com/track/7mXhmsSwfZCcPGA0M993Rl"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Heaven For Thugs (Letter to Wap)",
-        "url": "https://open.spotify.com/album/5DJezMQf5AEqwXDZhJrLbI"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 390861,
-      "name": "Heaven For Thugs (Letter to Wap)",
-      "url": "https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv"
+      "duration_ms": 188670,
+      "name": "Silly Rabbit",
+      "url": "https://open.spotify.com/track/5tJcWfPRu4K4jTFc4CTvSI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -359,8 +527,8 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Never Change (feat. Roddy Ricch)",
-        "url": "https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ"
+        "name": "Results Take Time",
+        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
       },
       "artists": [
         {
@@ -374,7 +542,7 @@
       ],
       "duration_ms": 239073,
       "name": "Never Change (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6"
+      "url": "https://open.spotify.com/track/028z6THhAbIyaAhfDVDRIQ"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -549,22 +717,6 @@
       "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
     },
     {
-      "added_at": "2022-01-26 21:12:53",
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 142226,
-      "name": "livin wild",
-      "url": "https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Heart Detox",
@@ -579,26 +731,6 @@
       "duration_ms": 176702,
       "name": "1738",
       "url": "https://open.spotify.com/track/7aRzjArjQYjlXj13jfSIlX"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "7220",
-        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 181393,
-      "name": "What Happened To Virgil (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -749,22 +881,6 @@
       "url": "https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3"
     },
     {
-      "added_at": "2022-08-26 08:25:37",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/4joJtfM9QKxT7Q1zVuaPFo"
-      },
-      "artists": [
-        {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
-        }
-      ],
-      "duration_ms": 159053,
-      "name": "Chosen",
-      "url": "https://open.spotify.com/track/1TgtXovH4948JNA4IpEp2d"
-    },
-    {
       "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "FACE (Deluxe Edition)",
@@ -813,46 +929,6 @@
       "url": "https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo"
     },
     {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Can't Lose (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/6IlNeUhzVDjbwrMPfjqkyx"
-      },
-      "artists": [
-        {
-          "name": "Lil Mexico",
-          "url": "https://open.spotify.com/artist/5HL0VTY0iLTz0RcoeI4cmY"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Can't Lose (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2oX9VjMLgO8hYMZ3Mh4J8o"
-    },
-    {
-      "added_at": "2022-04-10 00:28:46",
-      "album": {
-        "name": "Mention My Name",
-        "url": "https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB"
-      },
-      "artists": [
-        {
-          "name": "Tafia",
-          "url": "https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 197446,
-      "name": "Nobody (ft. Vory)",
-      "url": "https://open.spotify.com/track/4XJwoV192ks89Tdd6VCpCu"
-    },
-    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "Love is\u2026",
@@ -867,66 +943,6 @@
       "duration_ms": 230016,
       "name": "Love is...",
       "url": "https://open.spotify.com/track/6lTwy0Ri81LRujvv5mEHTg"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Borderline (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD"
-      },
-      "artists": [
-        {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 171996,
-      "name": "Borderline (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Save The Day (feat. Kodak Black)",
-        "url": "https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Save The Day (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Static Rain (feat. Birdy)",
-        "url": "https://open.spotify.com/album/21j9EyGoFPhmq5sYrajjLT"
-      },
-      "artists": [
-        {
-          "name": "GANG51E JUNE",
-          "url": "https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe"
-        },
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "Static Rain (feat. Birdy)",
-      "url": "https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ"
     }
   ],
   "unique_name": "Street Soul",

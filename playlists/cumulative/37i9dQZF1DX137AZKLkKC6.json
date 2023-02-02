@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Paola Jara",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Pipe Bueno",
   "name": "La + Popular",
-  "published_playlist_ids": [
-    "09JnbAwg5RJpS8FdxS2fcC"
-  ],
   "tracks": [
     {
       "album": {
@@ -179,10 +176,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 195650,
       "name": "Amiga Botella",
       "url": "https://open.spotify.com/track/7bsXNZS48T1IhHrtyfjmNU"
+    },
+    {
+      "album": {
+        "name": "Antes de que muera",
+        "url": "https://open.spotify.com/album/7z7dkvDcWC75LMtkZiqElA"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 248613,
+      "name": "Antes de que muera",
+      "url": "https://open.spotify.com/track/1KMBPa4BFNWgLL5wIMSCSu"
     },
     {
       "album": {
@@ -313,7 +332,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 249748,
       "name": "Busca Un Confidente - En Vivo",
       "url": "https://open.spotify.com/track/5ybdHemTCDqwPOrrGNt9PB"
@@ -335,6 +354,24 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "album": {
+        "name": "Como El Primer D\u00eda",
+        "url": "https://open.spotify.com/album/6BUA5fhYaie7fDtkE2HiKr"
+      },
+      "artists": [
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153715,
+      "name": "Como El Primer D\u00eda",
+      "url": "https://open.spotify.com/track/4oBMezBt65kRwqU8dNyU9C"
     },
     {
       "album": {
@@ -462,6 +499,50 @@
     },
     {
       "album": {
+        "name": "De Carne Y Hueso",
+        "url": "https://open.spotify.com/album/1ELqyXbIsxDmQw8lLNssLo"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 187930,
+      "name": "De Carne Y Hueso",
+      "url": "https://open.spotify.com/track/3a4hDTHCAgQaCNUkkBLNq7"
+    },
+    {
+      "album": {
+        "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160367,
+      "name": "Deb\u00ed Suponerlo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT"
+    },
+    {
+      "album": {
         "name": "Despechada",
         "url": "https://open.spotify.com/album/6ivMPHjdirTJhy9ENUrRcO"
       },
@@ -498,6 +579,28 @@
     },
     {
       "album": {
+        "name": "Devu\u00e9lveme los Besos",
+        "url": "https://open.spotify.com/album/5W688My9t8Xd3Awdkp47QL"
+      },
+      "artists": [
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        },
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181221,
+      "name": "Devu\u00e9lveme los Besos",
+      "url": "https://open.spotify.com/track/3DXD0U8dh3PmLhFqVDssjH"
+    },
+    {
+      "album": {
         "name": "Dile",
         "url": "https://open.spotify.com/album/3p2SakWSIBgyeaPJoxLCbj"
       },
@@ -513,7 +616,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 156123,
       "name": "Dile",
       "url": "https://open.spotify.com/track/7nrILFArrudnS5ctCggSc6"
@@ -680,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/0ivu9BBPUy5YLLeOLKAHUb"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/3n4DLwgE37rcLYmrzFAPGI"
+    },
+    {
+      "album": {
         "name": "Gracias A Ti",
         "url": "https://open.spotify.com/album/0gMHccAgjbeyF6HuSm8zPu"
       },
@@ -771,7 +892,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 138170,
       "name": "La Calientahuevos",
       "url": "https://open.spotify.com/track/6ZeJi7RQrOGN8PVJ8J5vHj"
@@ -818,6 +939,42 @@
     },
     {
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141756,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya"
+    },
+    {
+      "album": {
+        "name": "La lista de mis Ex",
+        "url": "https://open.spotify.com/album/7xJ396zdd4du0sFpGSXh1v"
+      },
+      "artists": [
+        {
+          "name": "Camilo Baena",
+          "url": "https://open.spotify.com/artist/1ZaFqYadyVXsabvWnMITxB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159299,
+      "name": "La lista de mis Ex",
+      "url": "https://open.spotify.com/track/32zdk3scjEMNdIciy8IvQE"
+    },
+    {
+      "album": {
         "name": "La Peor",
         "url": "https://open.spotify.com/album/2wQN91Z2EyMWawFD1HIzGs"
       },
@@ -829,10 +986,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 210187,
       "name": "La Peor",
       "url": "https://open.spotify.com/track/7ug5WK1GBbyaoUsV5Fi3Rj"
+    },
+    {
+      "album": {
+        "name": "La Perd\u00ed",
+        "url": "https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170570,
+      "name": "La Perd\u00ed",
+      "url": "https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L"
     },
     {
       "album": {
@@ -851,6 +1026,28 @@
       "duration_ms": 142013,
       "name": "La Propina",
       "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
+    },
+    {
+      "album": {
+        "name": "La Siguiente",
+        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202176,
+      "name": "La Siguiente",
+      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
     },
     {
       "album": {
@@ -873,6 +1070,24 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "album": {
+        "name": "LA UBI",
+        "url": "https://open.spotify.com/album/1E52H00B5Jxzuth8Jp72XP"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 156470,
+      "name": "LA UBI",
+      "url": "https://open.spotify.com/track/5gPYfQZslTQV5516i27ZRs"
     },
     {
       "album": {
@@ -963,7 +1178,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 157380,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/4lel8m8KSkmGlRYdOV6zk4"
@@ -1126,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "No Quer\u00eda Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 241728,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz"
+    },
+    {
+      "album": {
         "name": "No Te Contaron Mal",
         "url": "https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi"
       },
@@ -1159,7 +1392,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 202425,
       "name": "Nuestro Juramento",
       "url": "https://open.spotify.com/track/0uzR8Ehgl6BGsU2ZvLPe3A"
@@ -1221,6 +1454,24 @@
       "duration_ms": 188458,
       "name": "Pa Todo el An\u0303o",
       "url": "https://open.spotify.com/track/0uf7n9tUDhsj6f8ioS0WQm"
+    },
+    {
+      "album": {
+        "name": "Pa' Volver A Enamorarme",
+        "url": "https://open.spotify.com/album/7quKNBRlHoF2jzPn0YRHDh"
+      },
+      "artists": [
+        {
+          "name": "Arevalo",
+          "url": "https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 177280,
+      "name": "Pa' Volver A Enamorarme",
+      "url": "https://open.spotify.com/track/7cpdN4FqOSCFUqNKh3hcis"
     },
     {
       "album": {
@@ -1659,7 +1910,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 201001,
       "name": "Un Loco Enamorado",
       "url": "https://open.spotify.com/track/7xSnRDIfclnEVMcz6KGuo4"

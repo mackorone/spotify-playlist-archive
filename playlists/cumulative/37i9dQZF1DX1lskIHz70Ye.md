@@ -4,10 +4,12 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-152 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+153 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [25 Etudes, Op.60: No.11](https://open.spotify.com/track/3rtSgMczBxCjgo3soQPLat) | [Matteo Carcassi](https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU), [Paco Hallak](https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm) | [Matteo Carcassi: 25 Melodic & Progressive Studies, Op\. 60](https://open.spotify.com/album/11ak49S3NDKpFkITvHtXsK) | 0:52 | 2022-11-18 |  |
+| [25 Etudes, Op.60: No.11](https://open.spotify.com/track/6TE3MimgVYLoDiEyAGZcd3) | [Matteo Carcassi](https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU), [Paco Hallak](https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm) | [Carcassi: 25 Melodic & Progressive Studies, Op\. 60, Vol\. 2](https://open.spotify.com/album/38hySzyQwwDMHSKT3TnFmT) | 0:52 | 2022-10-07 | 2023-01-11 |
 | [7 Lagos](https://open.spotify.com/track/47JIcIX3Iq2xwrAIgjMNuv) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [7 Lagos](https://open.spotify.com/album/6yeerJKt7Cd0hbl4gIFTEc) | 2:58 | 2022-03-03 | 2022-07-09 |
 | [A Jornada](https://open.spotify.com/track/6UOzBsaqU5HSL9zu2lpZvs) | [João Gabriel](https://open.spotify.com/artist/4V1IWFM9qKaX5yupmVMHnQ) | [A Jornada](https://open.spotify.com/album/33UL0izdOrtm2Gdhdx8woW) | 3:28 | 2022-03-03 | 2022-07-15 |
 | [Alba](https://open.spotify.com/track/6ZdAV8NlQT0VxSGNiDYPiq) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Alba](https://open.spotify.com/album/6uGJJWjqHEVAXWREA4uISy) | 3:26 | 2022-03-03 |  |
@@ -33,7 +35,6 @@
 | [Bossa for Baden](https://open.spotify.com/track/0xp48lPf2ngBBC9CgW9LE6) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:09 | 2022-03-03 |  |
 | [Butterfly Prélude](https://open.spotify.com/track/43TQM6nWsTmoUERr9UrYkf) | [Sina Vodjani](https://open.spotify.com/artist/01LOZBitoVFoGhrKQ8oBwD) | [Butterfly Prélude](https://open.spotify.com/album/1d2teMMmQOQ6fAoW7RTSTY) | 2:14 | 2022-10-07 |  |
 | [Campeche](https://open.spotify.com/track/3iyvjySmpI2Sxlxbg4Ds7q) | [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Serenata Huasteca](https://open.spotify.com/album/0t2VyqSCljrNyXjycI0ilk) | 3:38 | 2022-03-03 |  |
-| [Carcassi Etudes, Op.60: No.11](https://open.spotify.com/track/6TE3MimgVYLoDiEyAGZcd3) | [Matteo Carcassi](https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU), [Paco Hallak](https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm) | [Matteo Carcassi: 25 Melodic & Progressive Studies, Op\. 60, Vol\. 2](https://open.spotify.com/album/38hySzyQwwDMHSKT3TnFmT) | 0:52 | 2022-10-07 |  |
 | [Carcassi Etudes, Op.60: No.11](https://open.spotify.com/track/7j6tdf8xay7pOTZ4CMbGnd) | [Paco Hallak](https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm), [Matteo Carcassi](https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU) | [Carcassi Etudes, Op.60: No.11](https://open.spotify.com/album/2fojmBSRlNWJJmfVAgp41K) | 0:52 | 2022-09-17 | 2022-10-08 |
 | [Carretera Libertad](https://open.spotify.com/track/0dhVo1Lo1eJT6cOE0AEKWi) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu), [Luis Villegas](https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U) | [Camino Latino](https://open.spotify.com/album/6SabvwpHfzkgzkPwqUb0Wy) | 3:38 | 2022-03-03 |  |
 | [Changing Tides](https://open.spotify.com/track/52tu6wxS5rrfXQdVCnd7pc) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 2:14 | 2022-03-03 | 2022-07-15 |

@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-04-19",
   "description": "Lyrical lullabies for your bedtime routine.",
   "name": "Lullabies for Little Ones",
-  "published_playlist_ids": [
-    "1CVYEU7K2k9rK1YsRxpkvZ"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Animal Playtime",
+        "url": "https://open.spotify.com/album/7qLeFNZVZHv8hRXyoxVtxL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124586,
+      "name": "10 Sleepy Pandas",
+      "url": "https://open.spotify.com/track/4wQmNZWej3NHi8XeQvy4mL"
+    },
     {
       "album": {
         "name": "Laurie Berkner Lullabies",
@@ -374,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Ebb and Flow (Ocean Lullaby)",
+        "url": "https://open.spotify.com/album/14mfqWUtcSxMBuGw73vAd9"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        },
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "Ebb and Flow (Ocean Lullaby)",
+      "url": "https://open.spotify.com/track/6bh5m8X8f7hpYJKlChNuRn"
+    },
+    {
+      "album": {
         "name": "songs for rosie",
         "url": "https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo"
       },
@@ -497,10 +534,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 135973,
       "name": "Golden Slumbers",
       "url": "https://open.spotify.com/track/4wDjXh9DyUisZAZ7V2EVb7"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7ncEZ4CS2B8estE57JkkG1"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135973,
+      "name": "Golden Slumbers",
+      "url": "https://open.spotify.com/track/4zSTcxSkj1SuHXoB0inmMj"
     },
     {
       "album": {
@@ -1143,10 +1198,28 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 209133,
       "name": "Moonbeams",
       "url": "https://open.spotify.com/track/1XwghPmPkMbF53pgcA5OkS"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7ncEZ4CS2B8estE57JkkG1"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209133,
+      "name": "Moonbeams",
+      "url": "https://open.spotify.com/track/4UQWAEefrXffaaPyx1cT6y"
     },
     {
       "album": {
@@ -1513,7 +1586,7 @@
     {
       "album": {
         "name": "Lullaby",
-        "url": "https://open.spotify.com/album/6FI2xG0L76ow41nQTWcEPg"
+        "url": "https://open.spotify.com/album/6llW0Vf3YYuvnWC64o9cIB"
       },
       "artists": [
         {
@@ -1524,6 +1597,24 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 171320,
+      "name": "Somewhere Over the Rainbow",
+      "url": "https://open.spotify.com/track/7jfoeT6J6bLHf6rgksNS6F"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/6FI2xG0L76ow41nQTWcEPg"
+      },
+      "artists": [
+        {
+          "name": "The Rainbow Collections",
+          "url": "https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
       "duration_ms": 171320,
       "name": "Somewhere Over the Rainbow",
       "url": "https://open.spotify.com/track/7mYEKvsWn7I9kPoW079vEL"

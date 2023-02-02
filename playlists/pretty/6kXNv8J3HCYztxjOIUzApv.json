@@ -1,13 +1,45 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 56825,
+  "num_followers": 56694,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MTgyMyw0YWJhMDQ2NGU4MjI0MDc5M2UwNWVhYTlmZjZhMjg2MWYyM2EzMWYw",
+  "snapshot_id": "MTkwNCxhNjA0NTA2NDM1ZTdlMTM2NGRiMGNkN2ZkMDE5YTFkNDM2MmE1NjRk",
   "tracks": [
+    {
+      "added_at": "2022-06-10 10:45:36",
+      "album": {
+        "name": "Welcome To The Circus",
+        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
+    },
+    {
+      "added_at": "2023-01-27 16:07:55",
+      "album": {
+        "name": "We Will Rock You",
+        "url": "https://open.spotify.com/album/5jPBB8d3UAb8TFwqgVgeGW"
+      },
+      "artists": [
+        {
+          "name": "TEMPT",
+          "url": "https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk"
+        }
+      ],
+      "duration_ms": 156283,
+      "name": "We Will Rock You",
+      "url": "https://open.spotify.com/track/0dXqdq1aF0SgZamXvUAp57"
+    },
     {
       "added_at": "2022-09-21 14:25:50",
       "album": {
@@ -23,6 +55,42 @@
       "duration_ms": 209828,
       "name": "The Ending",
       "url": "https://open.spotify.com/track/691AmE5DD4ZZGtZBDZE654"
+    },
+    {
+      "added_at": "2023-01-04 15:34:16",
+      "album": {
+        "name": "Sacred Kiss EP",
+        "url": "https://open.spotify.com/album/7hiE8DIopGqBtn3YgYG4BK"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 244950,
+      "name": "Sacred Kiss (feat. Aaron Pauley of Of Mice and Men)",
+      "url": "https://open.spotify.com/track/5xAF7Mi6dew7boYkaElcTy"
+    },
+    {
+      "added_at": "2023-01-03 15:30:49",
+      "album": {
+        "name": "Worst Behavior",
+        "url": "https://open.spotify.com/album/0AuvTqyfSRNelI2rlw5dhY"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "Worst Behavior",
+      "url": "https://open.spotify.com/track/6ytfPO94m3vVsdaLapzn3W"
     },
     {
       "added_at": "2022-09-21 14:25:50",
@@ -41,124 +109,20 @@
       "url": "https://open.spotify.com/track/17Ps0qbxzIbNbg4tTMv6CU"
     },
     {
-      "added_at": "2022-09-21 14:25:50",
+      "added_at": "2022-07-25 20:43:18",
       "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+        "name": "TIRED OF WINNING",
+        "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
       },
       "artists": [
         {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
         }
       ],
-      "duration_ms": 165238,
-      "name": "Blow (feat. Spencer Charnas of Ice Nine Kills)",
-      "url": "https://open.spotify.com/track/2shOJCdayjTPwCTS8l6OW7"
-    },
-    {
-      "added_at": "2022-11-11 14:11:53",
-      "album": {
-        "name": "I Rise",
-        "url": "https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        }
-      ],
-      "duration_ms": 189928,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        },
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Scars That I'm Hiding (feat. Anders Frid\u00e9n of In Flames)",
-      "url": "https://open.spotify.com/track/3KccNKlsI4LhdJyIfpQfM8"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 185542,
-      "name": "Faded Out (feat. Within Temptation)",
-      "url": "https://open.spotify.com/track/3S4fzPT48VfDTjeqVrGuv4"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lee",
-          "url": "https://open.spotify.com/artist/4b9L0p4cMof32XvjwT9YrX"
-        },
-        {
-          "name": "Push Push",
-          "url": "https://open.spotify.com/artist/2U6tKVDkCk3vHLXQcg3ooI"
-        }
-      ],
-      "duration_ms": 147977,
-      "name": "Tops",
-      "url": "https://open.spotify.com/track/7LZ3e5dwxSHLMJiOOIx71v"
-    },
-    {
-      "added_at": "2022-08-26 16:05:57",
-      "album": {
-        "name": "Who\u2019s That Playing On The Radio? (feat. Danny Worsnop of Asking Alexandria and Mick Mars of M\u00f6tley Cr\u00fce)",
-        "url": "https://open.spotify.com/album/4SuFcZyW8cZ5owF1mj5KmC"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        },
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        },
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 205731,
-      "name": "Who\u2019s That Playing On The Radio? (feat. Danny Worsnop of Asking Alexandria and Mick Mars of M\u00f6tley Cr\u00fce)",
-      "url": "https://open.spotify.com/track/60873rJNFVxsGUrvVQenhS"
+      "duration_ms": 206586,
+      "name": "TIRED OF WINNING",
+      "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
     },
     {
       "added_at": "2022-10-07 16:10:48",
@@ -181,84 +145,92 @@
       "url": "https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb"
     },
     {
-      "added_at": "2022-08-17 19:31:15",
+      "added_at": "2022-09-21 14:25:50",
       "album": {
-        "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS",
-        "url": "https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR"
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 248946,
-      "name": "YOU DON'T KNOW WHAT LOVE MEANS",
-      "url": "https://open.spotify.com/track/2Ktf2I6JdWIczgrBpLEnXn"
+      "duration_ms": 185542,
+      "name": "Faded Out (feat. Within Temptation)",
+      "url": "https://open.spotify.com/track/3S4fzPT48VfDTjeqVrGuv4"
     },
     {
-      "added_at": "2022-07-25 20:43:18",
+      "added_at": "2022-08-26 16:06:01",
       "album": {
-        "name": "TIRED OF WINNING",
-        "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
+        "name": "Thousand Lifetimes",
+        "url": "https://open.spotify.com/album/1AQe2iTO5cYZqmPDT52ti6"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
         }
       ],
-      "duration_ms": 206586,
-      "name": "TIRED OF WINNING",
-      "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
+      "duration_ms": 192502,
+      "name": "Thousand Lifetimes",
+      "url": "https://open.spotify.com/track/3iSgwMXZtxE7fBMqK214JX"
     },
     {
-      "added_at": "2022-07-25 20:43:44",
+      "added_at": "2023-01-03 15:31:34",
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/31lb2wh2yhT8I8DHdBKS7r"
+        "name": "Voodoo Doll",
+        "url": "https://open.spotify.com/album/4tCEwMi6DenPYV1j8sUOlv"
       },
       "artists": [
         {
-          "name": "The Browning",
-          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
         }
       ],
-      "duration_ms": 251154,
-      "name": "Pure Evil",
-      "url": "https://open.spotify.com/track/51QDLswsqMjczerR1uROzk"
+      "duration_ms": 238559,
+      "name": "Voodoo Doll",
+      "url": "https://open.spotify.com/track/0tDP41DuqqoBv9MNcHdoHW"
     },
     {
-      "added_at": "2022-07-25 20:43:23",
+      "added_at": "2022-09-21 14:25:50",
       "album": {
-        "name": "TURN IT UP LIKE (Stand In The Fire)",
-        "url": "https://open.spotify.com/album/1ZLPa1ssZth3Ti7xRzpyAG"
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 269314,
-      "name": "TURN IT UP LIKE (Stand In The Fire)",
-      "url": "https://open.spotify.com/track/0qNaAvpToqL0KyI1Ddg6gx"
+      "duration_ms": 165238,
+      "name": "Blow (feat. Spencer Charnas of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/2shOJCdayjTPwCTS8l6OW7"
     },
     {
-      "added_at": "2022-07-25 20:45:13",
+      "added_at": "2023-01-03 15:49:28",
       "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i"
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 185733,
-      "name": "Last Chance To Dance (Bad Friend)",
-      "url": "https://open.spotify.com/track/0o49yIEUZUoCTJ1qRnqFUO"
+      "duration_ms": 203586,
+      "name": "The Dying Song (Time To Sing)",
+      "url": "https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq"
     },
     {
       "added_at": "2022-09-02 09:25:51",
@@ -277,10 +249,46 @@
       "url": "https://open.spotify.com/track/2m30WlnHkXQgUlQNyFizTL"
     },
     {
-      "added_at": "2022-07-25 20:43:30",
+      "added_at": "2021-11-16 19:40:59",
       "album": {
-        "name": "SPIRITS",
-        "url": "https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
+    },
+    {
+      "added_at": "2022-09-21 14:25:50",
+      "album": {
+        "name": "The Retaliators (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Scars That I'm Hiding (feat. Anders Frid\u00e9n of In Flames)",
+      "url": "https://open.spotify.com/track/3KccNKlsI4LhdJyIfpQfM8"
+    },
+    {
+      "added_at": "2022-07-25 20:43:23",
+      "album": {
+        "name": "TURN IT UP LIKE (Stand In The Fire)",
+        "url": "https://open.spotify.com/album/1ZLPa1ssZth3Ti7xRzpyAG"
       },
       "artists": [
         {
@@ -288,209 +296,9 @@
           "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
         }
       ],
-      "duration_ms": 339360,
-      "name": "SPIRITS",
-      "url": "https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD"
-    },
-    {
-      "added_at": "2022-07-25 20:43:55",
-      "album": {
-        "name": "Idol (feat. Tech N9ne)",
-        "url": "https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 247154,
-      "name": "Idol (feat. Tech N9ne)",
-      "url": "https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK"
-    },
-    {
-      "added_at": "2022-07-25 20:45:31",
-      "album": {
-        "name": "The Amanuensis",
-        "url": "https://open.spotify.com/album/213Qf05kTcKCSq1Wc21Rhn"
-      },
-      "artists": [
-        {
-          "name": "Monuments",
-          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
-        }
-      ],
-      "duration_ms": 233986,
-      "name": "I, The Creator",
-      "url": "https://open.spotify.com/track/1QMda5rnAhJmwnjv5pxE7n"
-    },
-    {
-      "added_at": "2022-07-25 20:44:07",
-      "album": {
-        "name": "Special Effects",
-        "url": "https://open.spotify.com/album/63uxYglJtSneGlHf5MKWfl"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "Roadkill",
-      "url": "https://open.spotify.com/track/28QEJ42cRjtEr5x9Pa2KxU"
-    },
-    {
-      "added_at": "2022-07-25 20:45:46",
-      "album": {
-        "name": "Obsidian",
-        "url": "https://open.spotify.com/album/6QRURYmqe56BojUuWgTpX6"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 238373,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/0W9ZFdjumKClsj0UhYYnP3"
-    },
-    {
-      "added_at": "2022-07-25 20:44:16",
-      "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "I Am Hated",
-      "url": "https://open.spotify.com/track/1hrDDgkVbbS5bySL8uHLh3"
-    },
-    {
-      "added_at": "2022-07-25 20:58:52",
-      "album": {
-        "name": "Outlier",
-        "url": "https://open.spotify.com/album/7HSNQl2xKaGTZF70H4QXIb"
-      },
-      "artists": [
-        {
-          "name": "Twelve Foot Ninja",
-          "url": "https://open.spotify.com/artist/3swwiYEQQzPNGvMdEhqReR"
-        }
-      ],
-      "duration_ms": 268582,
-      "name": "One Hand Killing",
-      "url": "https://open.spotify.com/track/4CAYapDnN4OZC8QnOvmIib"
-    },
-    {
-      "added_at": "2022-07-25 20:44:23",
-      "album": {
-        "name": "ANTI-ICON",
-        "url": "https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "AI",
-      "url": "https://open.spotify.com/track/0IdJ2fQSlQTeNuuA3Xznfm"
-    },
-    {
-      "added_at": "2022-07-25 21:00:24",
-      "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "War?",
-      "url": "https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs"
-    },
-    {
-      "added_at": "2022-08-17 19:32:04",
-      "album": {
-        "name": "The Retaliators Theme Song (21 Bullets) [feat. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New]",
-        "url": "https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k"
-      },
-      "artists": [
-        {
-          "name": "The Retaliators",
-          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
-        },
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        },
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 242336,
-      "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Asking Alexandria, Ice Nine Kills, From Ashes To New)",
-      "url": "https://open.spotify.com/track/3iEmgajStVBooooNaltdOv"
-    },
-    {
-      "added_at": "2022-08-17 19:33:09",
-      "album": {
-        "name": "Black Thunder",
-        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Black Thunder",
-      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
-    },
-    {
-      "added_at": "2022-06-10 10:45:36",
-      "album": {
-        "name": "Welcome To The Circus",
-        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 256741,
-      "name": "Welcome To The Circus",
-      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
+      "duration_ms": 269314,
+      "name": "TURN IT UP LIKE (Stand In The Fire)",
+      "url": "https://open.spotify.com/track/0qNaAvpToqL0KyI1Ddg6gx"
     },
     {
       "added_at": "2022-08-19 15:42:41",
@@ -507,6 +315,38 @@
       "duration_ms": 223199,
       "name": "The End",
       "url": "https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL"
+    },
+    {
+      "added_at": "2022-07-25 20:43:30",
+      "album": {
+        "name": "SPIRITS",
+        "url": "https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 339360,
+      "name": "SPIRITS",
+      "url": "https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD"
+    },
+    {
+      "added_at": "2022-08-17 19:33:09",
+      "album": {
+        "name": "Black Thunder",
+        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Black Thunder",
+      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
     },
     {
       "added_at": "2021-10-29 11:52:27",
@@ -541,6 +381,22 @@
       "url": "https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv"
     },
     {
+      "added_at": "2022-07-25 20:45:13",
+      "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Last Chance To Dance (Bad Friend)",
+      "url": "https://open.spotify.com/track/0o49yIEUZUoCTJ1qRnqFUO"
+    },
+    {
       "added_at": "2022-03-08 19:52:48",
       "album": {
         "name": "The Great Southern Trendkill",
@@ -555,86 +411,6 @@
       "duration_ms": 293360,
       "name": "War Nerve",
       "url": "https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA"
-    },
-    {
-      "added_at": "2022-03-08 19:53:00",
-      "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Soul Wars",
-      "url": "https://open.spotify.com/track/3mZGIXl8RrxiJzJp9F2wm1"
-    },
-    {
-      "added_at": "2022-03-08 19:53:11",
-      "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "The Heaviest Matter of the Universe",
-      "url": "https://open.spotify.com/track/4ahFbXso4kfpQcqTixdJWJ"
-    },
-    {
-      "added_at": "2022-03-08 19:53:20",
-      "album": {
-        "name": "The Fragile",
-        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "Somewhat Damaged",
-      "url": "https://open.spotify.com/track/0yUyPe5c1o5cCyV7aJkz6F"
-    },
-    {
-      "added_at": "2022-03-08 19:54:00",
-      "album": {
-        "name": "An Audio Guide to Everyday Atrocity",
-        "url": "https://open.spotify.com/album/2cQcgbRwlsR28UocitcdxF"
-      },
-      "artists": [
-        {
-          "name": "Nothingface",
-          "url": "https://open.spotify.com/artist/7v4hyXy0IQiJaKeVTTQX1E"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Goldtooth",
-      "url": "https://open.spotify.com/track/6GH69Wp5PZUMFHO70RXNme"
-    },
-    {
-      "added_at": "2022-03-08 19:54:12",
-      "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Eyeless",
-      "url": "https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ"
     },
     {
       "added_at": "2022-03-08 19:54:37",
@@ -669,54 +445,6 @@
       "url": "https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX"
     },
     {
-      "added_at": "2022-03-08 19:56:26",
-      "album": {
-        "name": "Beauty And The Breakdown",
-        "url": "https://open.spotify.com/album/4mDtEEumv69lfTqwDwbM8D"
-      },
-      "artists": [
-        {
-          "name": "Bury Your Dead",
-          "url": "https://open.spotify.com/artist/2cGTjGiqVo9E2NQIz3lP9D"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "House Of Straw",
-      "url": "https://open.spotify.com/track/0s3ejGiMmzrVoK6zKhHDfA"
-    },
-    {
-      "added_at": "2022-03-08 19:56:33",
-      "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
-      },
-      "artists": [
-        {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "Alone Again",
-        "url": "https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 228977,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85"
-    },
-    {
       "added_at": "2021-08-20 17:58:02",
       "album": {
         "name": "Inside Out",
@@ -731,38 +459,6 @@
       "duration_ms": 226348,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
-    },
-    {
-      "added_at": "2021-11-12 15:23:17",
-      "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 187823,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc"
-    },
-    {
-      "added_at": "2021-10-15 11:53:30",
-      "album": {
-        "name": "Quarantine Chronicles Vol. 3",
-        "url": "https://open.spotify.com/album/6IYKwZgZd6FhTpnbnWZJ3C"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 189054,
-      "name": "Wait For Me (feat. Trevor McNevan of Thousand Foot Krutch)",
-      "url": "https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe"
     },
     {
       "added_at": "2021-08-20 17:58:02",
@@ -783,110 +479,6 @@
       "duration_ms": 255995,
       "name": "The Comeback (feat. Craig Mabbitt of Escape The Fate)",
       "url": "https://open.spotify.com/track/6IFN3NtLjOHFpTmgZfGz2N"
-    },
-    {
-      "added_at": "2021-10-01 13:57:48",
-      "album": {
-        "name": "See What\u2019s On The Inside",
-        "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 198041,
-      "name": "Never Gonna Learn",
-      "url": "https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu"
-    },
-    {
-      "added_at": "2021-09-08 10:24:55",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/4ByxEMaefZBFPA3LqYrQOv"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/7ALsy4QJ5BdzWiHbJPglf6"
-    },
-    {
-      "added_at": "2021-09-11 11:09:37",
-      "album": {
-        "name": "Chemical Warfare: B-Sides",
-        "url": "https://open.spotify.com/album/1PxVdOGI6SoPDuHmKNLELy"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 154461,
-      "name": "Around The Sun (feat. Brandon Saller of Atreyu)",
-      "url": "https://open.spotify.com/track/5N9yzJL4LpVgnFoUwuagrf"
-    },
-    {
-      "added_at": "2021-10-29 11:52:16",
-      "album": {
-        "name": "Dear Monsters",
-        "url": "https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 259816,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/5Ly7Vc6VnlyN2xogyFMGiE"
-    },
-    {
-      "added_at": "2021-09-11 11:07:10",
-      "album": {
-        "name": "Through the Never",
-        "url": "https://open.spotify.com/album/6mlXLWzztC2LWrqqlufC7w"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Through the Never",
-      "url": "https://open.spotify.com/track/1uUqY19biO5yj5L1ryMMcG"
-    },
-    {
-      "added_at": "2021-09-11 11:08:51",
-      "album": {
-        "name": "Comatose (feat. Jonathan D\u00f6rr of Ego Kill Talent)",
-        "url": "https://open.spotify.com/album/4y3GxLOfzWRP4DWbaF7ALO"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        },
-        {
-          "name": "Ego Kill Talent",
-          "url": "https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i"
-        }
-      ],
-      "duration_ms": 195861,
-      "name": "Comatose (feat. Jonathan D\u00f6rr of Ego Kill Talent)",
-      "url": "https://open.spotify.com/track/0XvQKoZ3fUON7hFU6ldFlm"
     },
     {
       "added_at": "2021-08-20 17:58:02",
@@ -979,98 +571,6 @@
     {
       "added_at": "2021-08-20 17:58:02",
       "album": {
-        "name": "Warrior / Underrated",
-        "url": "https://open.spotify.com/album/1hBDgB1L6iCtV8i5p1Mhq4"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 165891,
-      "name": "Warrior (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
-        "url": "https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        },
-        {
-          "name": "Jason Hook",
-          "url": "https://open.spotify.com/artist/1Nm7n07ydhbE1jjagpvJQQ"
-        }
-      ],
-      "duration_ms": 207229,
-      "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
-      "url": "https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "What Do You Gotta Lose?",
-        "url": "https://open.spotify.com/album/0hryjAJGUKTJib7l3CICra"
-      },
-      "artists": [
-        {
-          "name": "Islander",
-          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
-        }
-      ],
-      "duration_ms": 221985,
-      "name": "What Do You Gotta Lose?",
-      "url": "https://open.spotify.com/track/3t3rnRd26jLl1SajTgPkSY"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "Sad But True",
-        "url": "https://open.spotify.com/album/6UjB1VbxPSKasTeHkAE5mV"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 332851,
-      "name": "Sad But True",
-      "url": "https://open.spotify.com/track/48iUr7K2jRxpNIDcSftKZY"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "What I Get",
-        "url": "https://open.spotify.com/album/0ol6vmNYt6XACmBiCyUI5l"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "What I Get",
-      "url": "https://open.spotify.com/track/1Nn22xpPsiHHHJlq6duP6d"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
         "name": "For The Glory (feat. Hollywood Undead)",
         "url": "https://open.spotify.com/album/2ZWveWbeFhlWv7O0TEC8eI"
       },
@@ -1105,38 +605,6 @@
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
     },
     {
-      "added_at": "2022-01-24 14:34:24",
-      "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Sad But True (Remastered)",
-      "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Nowhere Generation",
-      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
-    },
-    {
       "added_at": "2021-08-20 17:58:02",
       "album": {
         "name": "Not My Problem (feat. Travis Barker)",
@@ -1155,22 +623,6 @@
       "duration_ms": 205924,
       "name": "Not My Problem (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/6bh6ikJRlhImSFjsNBJy5b"
-    },
-    {
-      "added_at": "2022-01-25 14:44:40",
-      "album": {
-        "name": "Shotgun Blues",
-        "url": "https://open.spotify.com/album/4ALN0YC4oFfoaOPY1Hec5u"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 267899,
-      "name": "Shotgun Blues",
-      "url": "https://open.spotify.com/track/0L3TkNCKAwHCaYHxeYPuhp"
     },
     {
       "added_at": "2021-08-20 17:58:02",
@@ -1217,24 +669,20 @@
       "url": "https://open.spotify.com/track/3NMel0L1RZfekf2wLABmj2"
     },
     {
-      "added_at": "2021-08-20 17:58:02",
+      "added_at": "2022-01-24 14:38:19",
       "album": {
-        "name": "HEADSPACE FT. POORSTACY",
-        "url": "https://open.spotify.com/album/2EewozkWB7xAUMFCRgwgyd"
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
       "artists": [
         {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        },
-        {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 191434,
-      "name": "HEADSPACE FT. POORSTACY",
-      "url": "https://open.spotify.com/track/2DS4qUfuEvFljkXZXka2pu"
+      "duration_ms": 153613,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
     },
     {
       "added_at": "2022-01-25 14:50:59",
@@ -1267,22 +715,6 @@
       "duration_ms": 237065,
       "name": "Killing Me Slowly",
       "url": "https://open.spotify.com/track/6E5gsJm3t0RqmiHBfUBaya"
-    },
-    {
-      "added_at": "2022-01-24 14:38:19",
-      "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 153613,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
     },
     {
       "added_at": "2021-08-20 17:58:02",
@@ -1415,26 +847,6 @@
     {
       "added_at": "2021-08-20 17:58:02",
       "album": {
-        "name": "Invincible (feat. Lindsey Stirling)",
-        "url": "https://open.spotify.com/album/06Jc0H2unWIErvyxu5LgoC"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "Lindsey Stirling",
-          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
-        }
-      ],
-      "duration_ms": 232367,
-      "name": "Invincible (feat. Lindsey Stirling)",
-      "url": "https://open.spotify.com/track/1PXUZ5Cpat6HipfJkn31ng"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
         "name": "Fight (feat. Chad Gray of Hellyeah)",
         "url": "https://open.spotify.com/album/2yjz22VEJg8GYzYLHdU1p2"
       },
@@ -1527,34 +939,6 @@
       "duration_ms": 197234,
       "name": "Outlaws & Outsiders",
       "url": "https://open.spotify.com/track/4OBrZqJzkwdDaXoYVfmIw7"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "Blue On Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",
-        "url": "https://open.spotify.com/album/5CmhQvNnH3x3xObNLccLxh"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        },
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Brian May",
-          "url": "https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3"
-        }
-      ],
-      "duration_ms": 274615,
-      "name": "Blue On Black (feat. Kenny Wayne Shepherd, Brantley Gilbert & Brian May)",
-      "url": "https://open.spotify.com/track/3lwpE0SEaQV5DWNjqMtYEk"
     },
     {
       "added_at": "2021-08-20 17:58:02",
@@ -1797,22 +1181,6 @@
       "url": "https://open.spotify.com/track/3WvENg99oEKz7rPg6CbLOM"
     },
     {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "Heroin(e)",
-        "url": "https://open.spotify.com/album/78vbD6Z7Q8wxmklqGS8kXs"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 199189,
-      "name": "Heroin(e)",
-      "url": "https://open.spotify.com/track/6I10pyraPKbTSMLoBwdblm"
-    },
-    {
       "added_at": "2021-11-16 19:46:29",
       "album": {
         "name": "Metallica (Remastered)",
@@ -1859,22 +1227,6 @@
       "duration_ms": 233333,
       "name": "Do You Really Want It",
       "url": "https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z"
-    },
-    {
-      "added_at": "2022-01-24 14:49:45",
-      "album": {
-        "name": "Dark Side",
-        "url": "https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "Dark Side",
-      "url": "https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh"
     },
     {
       "added_at": "2021-08-20 17:58:02",
@@ -2119,22 +1471,6 @@
     {
       "added_at": "2021-08-20 17:58:02",
       "album": {
-        "name": "Pop Evil",
-        "url": "https://open.spotify.com/album/2zrUlKeTyEhyYulj8Gu8T9"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 202761,
-      "name": "A Crime To Remember",
-      "url": "https://open.spotify.com/track/4YsnD5GTI8nVBUXkmlqur4"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
         "name": "Made An America",
         "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
       },
@@ -2227,22 +1563,6 @@
       "duration_ms": 197678,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/1DNRyoXyqj4b3sbtPjfGx3"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ"
-      },
-      "artists": [
-        {
-          "name": "Fozzy",
-          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
-        }
-      ],
-      "duration_ms": 239779,
-      "name": "Painless",
-      "url": "https://open.spotify.com/track/4IkCvLPQfBEclen1NuIDIL"
     },
     {
       "added_at": "2021-08-20 17:58:02",
@@ -2471,38 +1791,6 @@
     {
       "added_at": "2021-08-20 17:58:02",
       "album": {
-        "name": "The Stories We Tell Ourselves",
-        "url": "https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 205757,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3MELdmLOjkgqvNdselIUEE"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
-        "name": "Poison The Parish (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2CbMgWfTfT4n80PjrDkbbt"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "Betray And Degrade",
-      "url": "https://open.spotify.com/track/3XHnaUAFX8PfNMW1hHC75N"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
         "name": "Battles",
         "url": "https://open.spotify.com/album/65sRfjCFFqSrVYY7YjYe6y"
       },
@@ -2551,22 +1839,6 @@
     {
       "added_at": "2021-08-20 17:58:02",
       "album": {
-        "name": "The Battle Of Los Angeles",
-        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Guerrilla Radio",
-      "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
         "name": "Song #3",
         "url": "https://open.spotify.com/album/0IIrEJd6qWhKWab1y6Whgw"
       },
@@ -2599,22 +1871,6 @@
     {
       "added_at": "2021-08-20 17:58:02",
       "album": {
-        "name": "Badmotorfinger",
-        "url": "https://open.spotify.com/album/6xcVSvwLab2mjHMth1Aomp"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 265906,
-      "name": "Rusty Cage",
-      "url": "https://open.spotify.com/track/2s53BFN2aKtiBA93tRQtGj"
-    },
-    {
-      "added_at": "2021-08-20 17:58:02",
-      "album": {
         "name": "We Will Not Go Quietly",
         "url": "https://open.spotify.com/album/2chkVD6tHlcZKBrMBlHcs3"
       },
@@ -2629,298 +1885,74 @@
       "url": "https://open.spotify.com/track/5XE0S3m7Qgh40sjaT4g2VU"
     },
     {
-      "added_at": "2021-11-16 19:40:59",
+      "added_at": "2023-01-03 16:14:37",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/2hBth24kLXLHhfYrjVNZFH"
       },
       "artists": [
         {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
         }
       ],
-      "duration_ms": 201960,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
+      "duration_ms": 254257,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/76wqTlNmkXvi4pillNUDry"
     },
     {
-      "added_at": "2022-01-24 14:35:10",
+      "added_at": "2023-01-03 16:15:12",
       "album": {
-        "name": "Leviathan",
-        "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
       "artists": [
         {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 228586,
-      "name": "Blood and Thunder",
-      "url": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux"
+      "duration_ms": 208053,
+      "name": "Start The Healing",
+      "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
     },
     {
-      "added_at": "2022-01-24 14:36:00",
+      "added_at": "2023-01-04 15:29:40",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
       "artists": [
         {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        },
-        {
-          "name": "Rob Halford",
-          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Black Wedding (feat. Rob Halford)",
-      "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
+      "duration_ms": 229466,
+      "name": "Bulls On Parade",
+      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
     },
     {
-      "added_at": "2022-01-24 14:37:13",
+      "added_at": "2023-01-04 15:35:47",
       "album": {
-        "name": "Clayman",
-        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+        "name": "Three Days Grace",
+        "url": "https://open.spotify.com/album/13topfW33NjnACjnRiZBX7"
       },
       "artists": [
         {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 294866,
-      "name": "Only for the Weak",
-      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"
     },
     {
-      "added_at": "2022-01-24 14:41:26",
+      "added_at": "2023-01-27 16:08:20",
       "album": {
-        "name": "Baptize",
-        "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 141620,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/5b2CTow0KTieqeITsHSjXV"
-    },
-    {
-      "added_at": "2022-01-24 14:42:47",
-      "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "The Heart from Your Hate",
-      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
-    },
-    {
-      "added_at": "2022-01-24 14:43:02",
-      "album": {
-        "name": "Sacrament",
-        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Redneck",
-      "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
-    },
-    {
-      "added_at": "2022-01-24 14:43:20",
-      "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 272665,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
-    },
-    {
-      "added_at": "2022-01-24 14:49:21",
-      "album": {
-        "name": "The Shift",
-        "url": "https://open.spotify.com/album/2qIdZyANJmQeSTTxyuwF1R"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        }
-      ],
-      "duration_ms": 180691,
-      "name": "The Shift",
-      "url": "https://open.spotify.com/track/6kHDKPCxgANtgHbZ84Lc0B"
-    },
-    {
-      "added_at": "2022-01-24 14:52:20",
-      "album": {
-        "name": "Versatile",
-        "url": "https://open.spotify.com/album/4gZGUfedFjMS22PzjDzscJ"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/6gK6zSzCE6akJCJL1oTSgE"
-    },
-    {
-      "added_at": "2022-01-25 14:45:32",
-      "album": {
-        "name": "MASSIVE ADDICTIVE",
-        "url": "https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Drop Dead Cynical",
-      "url": "https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp"
-    },
-    {
-      "added_at": "2022-01-25 14:45:57",
-      "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/55qWVcSQBFn5odd33hc1Ie"
-      },
-      "artists": [
-        {
-          "name": "Emigrate",
-          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
-        },
-        {
-          "name": "Benjamin Kowalewicz",
-          "url": "https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9"
-        }
-      ],
-      "duration_ms": 202907,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/4Mbj2NKklmBRfs0ekO6cQ5"
-    },
-    {
-      "added_at": "2022-01-25 15:08:00",
-      "album": {
-        "name": "F8",
-        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 210175,
-      "name": "Bottom of The Top",
-      "url": "https://open.spotify.com/track/4MCko2lInqpb0hKRZxRdGz"
-    },
-    {
-      "added_at": "2022-08-26 16:06:01",
-      "album": {
-        "name": "Thousand Lifetimes",
-        "url": "https://open.spotify.com/album/1AQe2iTO5cYZqmPDT52ti6"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 192502,
-      "name": "Thousand Lifetimes",
-      "url": "https://open.spotify.com/track/3iSgwMXZtxE7fBMqK214JX"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "Classless Act",
-          "url": "https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1"
-        },
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 194654,
-      "name": "Classless Act (feat. Vince Neil of Motley Crue)",
-      "url": "https://open.spotify.com/track/4ut8tFTcjm9gWPOJNWZ41T"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 281803,
-      "name": "Darkness Settles In",
-      "url": "https://open.spotify.com/track/4tDY71ImWHA27HlmBJwjN4"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        },
-        {
-          "name": "The Retaliators",
-          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
-        }
-      ],
-      "duration_ms": 339160,
-      "name": "TIRED OF WINNING / SHIPS IN THE NIGHT",
-      "url": "https://open.spotify.com/track/14QzhzJm09S4sKJ5odpfax"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+        "name": "Evil World Machine (Extended)",
+        "url": "https://open.spotify.com/album/6ok2I9TtRAY9gaHJNUIQpI"
       },
       "artists": [
         {
@@ -2928,59 +1960,15 @@
           "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
         }
       ],
-      "duration_ms": 267156,
-      "name": "Evil World Machine",
-      "url": "https://open.spotify.com/track/3CYDh4mjfg7I0hHHCNEt1S"
+      "duration_ms": 370607,
+      "name": "Evil World Machine - Extended",
+      "url": "https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l"
     },
     {
-      "added_at": "2022-09-21 14:25:50",
+      "added_at": "2023-01-27 16:08:51",
       "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 317077,
-      "name": "Wolf Totem (feat. Jacoby Shaddix of Papa Roach)",
-      "url": "https://open.spotify.com/track/4MpWej5PustlOe6Wihucky"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 189499,
-      "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
-      "url": "https://open.spotify.com/track/4PDazdk7Vr6J3fkPdYNSvg"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
+        "name": "I Rise",
+        "url": "https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ"
       },
       "artists": [
         {
@@ -2988,149 +1976,9 @@
           "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
         }
       ],
-      "duration_ms": 206038,
-      "name": "Burn It Up",
-      "url": "https://open.spotify.com/track/0W22ed8cPRlbyaDEhuBQTB"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "TEMPT",
-          "url": "https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk"
-        },
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 238174,
-      "name": "Living Dangerous (feat. Dorothy)",
-      "url": "https://open.spotify.com/track/1EQ98Dd3TGD4rqRfzNgjtp"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        },
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        },
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 205731,
-      "name": "Who\u2019s That Playing On The Radio? (feat. Danny Worsnop of Asking Alexandria and Mick Mars of M\u00f6tley Cr\u00fce)",
-      "url": "https://open.spotify.com/track/6QbTzUuNxRnhZRMQpHQAOh"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        },
-        {
-          "name": "Jason Hook",
-          "url": "https://open.spotify.com/artist/1Nm7n07ydhbE1jjagpvJQQ"
-        }
-      ],
-      "duration_ms": 207229,
-      "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
-      "url": "https://open.spotify.com/track/4LOPMwxmP7ENYLiVUl9bFi"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "All Good Things",
-          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
-        },
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 281197,
-      "name": "For The Glory (feat. Hollywood Undead)",
-      "url": "https://open.spotify.com/track/4oLzeTsQpM0sW6TXXxlyfw"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "The Retaliators",
-          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
-        },
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        },
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 242336,
-      "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Asking Alexandria, Ice Nine Kills, From Ashes To New)",
-      "url": "https://open.spotify.com/track/63sD6W8AU9YbDrSjelxtCM"
-    },
-    {
-      "added_at": "2022-09-21 14:25:50",
-      "album": {
-        "name": "The Retaliators (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo"
-      },
-      "artists": [
-        {
-          "name": "The Retaliators",
-          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
-        },
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 129726,
-      "name": "Cops Are Here",
-      "url": "https://open.spotify.com/track/1RDi8CZD2v7XvQOBvNYsSP"
+      "duration_ms": 189928,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN"
     }
   ],
   "unique_name": "Hard Rock Workout",

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Luke Bryan is taking over Heartland Country with some of his favorite tracks, kicking off with his reflective new song \"Prayin' in a Deer Stand\".",
+  "description": "Music paying tribute to the Heartland of America.",
   "name": "Heartland Country",
-  "published_playlist_ids": [
-    "1dqdBVTT7GBYojXQcIUfos"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 190922,
       "name": "Alabama Nights",
       "url": "https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5"
@@ -633,7 +630,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 179077,
       "name": "Buy Me a Boat",
       "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
@@ -961,7 +958,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 245333,
       "name": "Famous In a Small Town",
       "url": "https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X"
@@ -1491,7 +1488,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 213266,
       "name": "How Is She",
       "url": "https://open.spotify.com/track/1b7hvspxByqbuzW9N2gTOB"
@@ -1509,7 +1506,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 188736,
       "name": "How It Oughta Be",
       "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
@@ -1849,6 +1846,24 @@
       "duration_ms": 254346,
       "name": "Life In A Northern Town - Live",
       "url": "https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk"
+    },
+    {
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "Looking at Stars",
+      "url": "https://open.spotify.com/track/6EuM2QAaZnJ3IeQkhx6TsU"
     },
     {
       "album": {
@@ -2251,7 +2266,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 260346,
       "name": "Red Dirt Road",
       "url": "https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2"
@@ -2413,7 +2428,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 246453,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"

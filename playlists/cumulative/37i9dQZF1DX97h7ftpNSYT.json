@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Taking it back to the 2010s. Cover: Meek Mill",
+  "description": "Taking it back to the 2010s. Cover: A$AP Rocky",
   "name": "I Love My 2010s Hip-Hop",
-  "published_playlist_ids": [
-    "0NVnLMZLWX74QAANrVArj1"
-  ],
   "tracks": [
     {
       "album": {
@@ -1397,7 +1394,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 224284,
       "name": "Bartier Cardi (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa"
@@ -1573,7 +1570,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 237240,
       "name": "BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZNrc4kNeQYD9koZ3KvCsy"
@@ -1825,7 +1822,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 273151,
       "name": "BLEACH",
       "url": "https://open.spotify.com/track/0dWOFwdXrbBUYqD9DLsoyK"
@@ -3037,7 +3034,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 157656,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/3wLtYwtqvKK2ewelSVPeDK"
@@ -3197,7 +3194,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-13",
       "duration_ms": 175203,
       "name": "Do What I Want",
       "url": "https://open.spotify.com/track/4IWGnyOHDrVZEtPWfs4s7q"
@@ -3717,7 +3714,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
@@ -3797,6 +3794,24 @@
       "duration_ms": 206654,
       "name": "Faneto",
       "url": "https://open.spotify.com/track/6J1SjVyNDzkZ3sF85Ndd3B"
+    },
+    {
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236280,
+      "name": "Fashion Killa",
+      "url": "https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH"
     },
     {
       "album": {
@@ -4518,6 +4533,24 @@
     },
     {
       "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Goldie",
+      "url": "https://open.spotify.com/track/31G9RaSaDOI2NWcpnIp734"
+    },
+    {
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
       },
@@ -4685,6 +4718,32 @@
       "duration_ms": 246386,
       "name": "Hard in Da Paint",
       "url": "https://open.spotify.com/track/3XQY8kDjI8LARMIC9xkxQk"
+    },
+    {
+      "album": {
+        "name": "Finally Rich",
+        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280173,
+      "name": "Hate Bein' Sober",
+      "url": "https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST"
     },
     {
       "album": {
@@ -5071,6 +5130,28 @@
       "duration_ms": 284386,
       "name": "I Don't Fuck With You",
       "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
+    },
+    {
+      "album": {
+        "name": "Finally Rich",
+        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Lil Reese",
+          "url": "https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293840,
+      "name": "I Don't Like",
+      "url": "https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB"
     },
     {
       "album": {
@@ -6025,7 +6106,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 269693,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
@@ -7451,7 +7532,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 235632,
       "name": "My Nigga",
       "url": "https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA"
@@ -8245,7 +8326,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 199011,
       "name": "Oh Okay (feat. Young Thug & Lil Baby)",
       "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
@@ -11523,7 +11604,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-17",
       "duration_ms": 330783,
       "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"

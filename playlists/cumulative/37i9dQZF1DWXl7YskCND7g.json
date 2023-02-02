@@ -2,9 +2,97 @@
   "date_first_scraped": "2022-05-30",
   "description": "Some of Ruby Ibarra's favorite podcast interviews of Filipina-American women creatives who are not only excelling in their respective crafts, but are also uplifting their communities and redefining what it means to be Filipina-American. These wide array of podcasts include activist and journalist Maria Ressa, chef Nicole Ponseca, author and emcee Rocky Rivera, and filmmakers Ramona Diaz, Isabel Sandoval, and Michele Josue.",
   "name": "Filipina-American Women Creatives: Challenging the Arts & Society",
-  "published_playlist_ids": [
-    "1nIBWqS7HKe22KvBqfZDfX"
+  "tracks": [
+    {
+      "album": {
+        "name": "Hold The Line with Maria Ressa",
+        "url": "https://open.spotify.com/show/4zgcK3ubsf9rB3I7xtArhM"
+      },
+      "artists": [
+        {
+          "name": "Hold The Line with Maria Ressa",
+          "url": "https://open.spotify.com/show/4zgcK3ubsf9rB3I7xtArhM"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1794537,
+      "name": "#HoldTheLine: Maria Ressa interviews 'A Thousand Cuts' director Ramona Diaz",
+      "url": "https://open.spotify.com/episode/6wP0mr1Evud0fjrCPe4B4U"
+    },
+    {
+      "album": {
+        "name": "This Filipino American Life",
+        "url": "https://open.spotify.com/show/7jTAf1Cv2OpqdGoBhIhaq2"
+      },
+      "artists": [
+        {
+          "name": "This Filipino American Life",
+          "url": "https://open.spotify.com/show/7jTAf1Cv2OpqdGoBhIhaq2"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3845542,
+      "name": "Episode 126 \u2013 LINGUA FRANCA: A conversation with filmmaker Isabel Sandoval (Social Distance Series)",
+      "url": "https://open.spotify.com/episode/3hKYBOBXEQR2Qw8eNTrNB9"
+    },
+    {
+      "album": {
+        "name": "Weekly Welcome",
+        "url": "https://open.spotify.com/show/76g2INsgSNlifsETEkXYug"
+      },
+      "artists": [
+        {
+          "name": "Weekly Welcome",
+          "url": "https://open.spotify.com/show/76g2INsgSNlifsETEkXYug"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1787820,
+      "name": "Nicole Ponseca with Jeepney",
+      "url": "https://open.spotify.com/episode/7iSmUyXroyBusa8EY9T8gD"
+    },
+    {
+      "album": {
+        "name": "Rightnowish",
+        "url": "https://open.spotify.com/show/7kEJuafTzTVan7B78ttz1I"
+      },
+      "artists": [
+        {
+          "name": "Rightnowish",
+          "url": "https://open.spotify.com/show/7kEJuafTzTVan7B78ttz1I"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 952189,
+      "name": "Rocky Rivera Restores Justice Across the Board",
+      "url": "https://open.spotify.com/episode/6qAoo6cxh5QKmPz5pOYBg4"
+    },
+    {
+      "album": {
+        "name": "Kiss My Mike",
+        "url": "https://open.spotify.com/show/4XD5gPK3JEBtdUSeLrpeIi"
+      },
+      "artists": [
+        {
+          "name": "Kiss My Mike",
+          "url": "https://open.spotify.com/show/4XD5gPK3JEBtdUSeLrpeIi"
+        }
+      ],
+      "date_added": "2022-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2126355,
+      "name": "S2E10: Amazing Asian Women (Part 4) with Michele Josue",
+      "url": "https://open.spotify.com/episode/0ecXiscD1T5Zn4g0rnEarM"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXl7YskCND7g"
 }

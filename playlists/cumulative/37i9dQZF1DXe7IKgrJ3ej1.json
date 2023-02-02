@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Nick and Charlie's mixtape. Watch <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033\">Heartstopper</a> now on Netflix.",
   "name": "Heartstopper: Nick and Charlie",
-  "published_playlist_ids": [
-    "4bUrxD9GxEYmFXldvKnbCp"
-  ],
   "tracks": [
     {
       "album": {
@@ -459,6 +456,24 @@
     {
       "album": {
         "name": "Hot Freaks",
+        "url": "https://open.spotify.com/album/6qWQC8BJ0mq3e0SY5a7zoi"
+      },
+      "artists": [
+        {
+          "name": "Hot Freaks",
+          "url": "https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156786,
+      "name": "I Want to Be Your Boyfriend",
+      "url": "https://open.spotify.com/track/3AxUulNOa2QSBXKedKDj5E"
+    },
+    {
+      "album": {
+        "name": "Hot Freaks",
         "url": "https://open.spotify.com/album/6UcXM9ejZcOiTALDtFFJgP"
       },
       "artists": [
@@ -469,7 +484,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 156786,
       "name": "I Want to Be Your Boyfriend",
       "url": "https://open.spotify.com/track/58wjGqSPMBTPV9Pnhru46G"

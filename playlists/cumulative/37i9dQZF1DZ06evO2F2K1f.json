@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Alan Hawkshaw. The essential tracks, all in one playlist.",
   "name": "This Is Alan Hawkshaw",
-  "published_playlist_ids": [
-    "28P9YuJcTLPFyCtcBLEXvl"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 127626,
       "name": "A Touch of Nonsense",
       "url": "https://open.spotify.com/track/1qwhMcP5dOIEBGo9VMC5Rs"
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 116573,
       "name": "Action Replay",
       "url": "https://open.spotify.com/track/5So0Gqy5hxb82PuNzFBn6o"
@@ -187,6 +184,24 @@
     {
       "album": {
         "name": "Blow Up presents Exclusive Blend Volume 1",
+        "url": "https://open.spotify.com/album/7MkG2IB1mrAbprPQxASXoF"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157626,
+      "name": "Beat Me Till I'm Blue",
+      "url": "https://open.spotify.com/track/2BnnbJvRWyZ1ITX1mvDW4s"
+    },
+    {
+      "album": {
+        "name": "Blow Up presents Exclusive Blend Volume 1",
         "url": "https://open.spotify.com/album/4cZe6XeALxQjhc2Mh778Sg"
       },
       "artists": [
@@ -197,7 +212,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 157626,
       "name": "Beat Me Till I'm Blue",
       "url": "https://open.spotify.com/track/4iyDtEHvDaZosf3zZkq6sf"
@@ -306,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Hawk's Hammond Lounge",
+        "url": "https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 269826,
+      "name": "Blues For Organ",
+      "url": "https://open.spotify.com/track/534PDQEzooTmL17oKDbqZT"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Friendly Faces",
         "url": "https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW"
       },
@@ -339,6 +372,24 @@
       "duration_ms": 130223,
       "name": "Centrepoint",
       "url": "https://open.spotify.com/track/4o44QfNndsZCCRkHNBlMmp"
+    },
+    {
+      "album": {
+        "name": "Sounds of the 60's & 70's - 2",
+        "url": "https://open.spotify.com/album/635BSaHDVn2DyjNfgomuYH"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 89666,
+      "name": "Chic Boutique",
+      "url": "https://open.spotify.com/track/2LgJtEp6nVsYjjgwBvNoKA"
     },
     {
       "album": {
@@ -379,7 +430,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 207533,
       "name": "Coast to Coast",
       "url": "https://open.spotify.com/track/5N9rr1pdKu8Pgy87IiLVEj"
@@ -408,6 +459,46 @@
     },
     {
       "album": {
+        "name": "Kpm 1000 Series: Soul Organ Showcase",
+        "url": "https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Keith Mansfield",
+          "url": "https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 95306,
+      "name": "Concord",
+      "url": "https://open.spotify.com/track/26i0pp7OLKmIvG2mLer9vm"
+    },
+    {
+      "album": {
+        "name": "The Sixties",
+        "url": "https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78800,
+      "name": "Convenience Shopping",
+      "url": "https://open.spotify.com/track/4cCSZomjXB8IWwwkMG6ujo"
+    },
+    {
+      "album": {
         "name": "Contemporary Contrasts",
         "url": "https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv"
       },
@@ -423,7 +514,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 181977,
       "name": "Cool Cruiser",
       "url": "https://open.spotify.com/track/5STTE3rxT5B8GpqoxBhmTO"
@@ -529,7 +620,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 143321,
       "name": "Daytripper",
       "url": "https://open.spotify.com/track/5sCLrLK23NaohKCvKVzBf0"
@@ -591,6 +682,32 @@
       "duration_ms": 158400,
       "name": "Delivery Date",
       "url": "https://open.spotify.com/track/1EPiKxltYOTINNNqmvNOw0"
+    },
+    {
+      "album": {
+        "name": "The Vinyl Remixes",
+        "url": "https://open.spotify.com/album/11ULxAltLPaLtFrDm2P2qe"
+      },
+      "artists": [
+        {
+          "name": "Alan Parker",
+          "url": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+        },
+        {
+          "name": "Bill Baylis",
+          "url": "https://open.spotify.com/artist/5YXdwE7D35qR3DybaW7BqB"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 214760,
+      "name": "Do I Look Good in This?",
+      "url": "https://open.spotify.com/track/4G4a0BzzNUoaZRMaxCXwG9"
     },
     {
       "album": {
@@ -667,7 +784,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 122360,
       "name": "Friends and Neighbours",
       "url": "https://open.spotify.com/track/1I4L9RvTHWkoOOUeceXIfW"
@@ -692,6 +809,24 @@
     },
     {
       "album": {
+        "name": "The All American Powerhouse",
+        "url": "https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 157345,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/4QbHgvorkRqnZPwnW8gyE0"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Synthesis",
         "url": "https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB"
       },
@@ -707,7 +842,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": "2022-12-09",
       "duration_ms": 252346,
       "name": "Getting It Together",
       "url": "https://open.spotify.com/track/0pzDuoJHPdyanUR95VEm1z"
@@ -765,6 +900,24 @@
       "duration_ms": 83226,
       "name": "Grange Hill",
       "url": "https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC"
+    },
+    {
+      "album": {
+        "name": "The All American Powerhouse",
+        "url": "https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228755,
+      "name": "Grit Band Reggae",
+      "url": "https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz"
     },
     {
       "album": {
@@ -841,7 +994,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 329789,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/4DwjPKXBx1HmHSIEbr2y25"
@@ -947,7 +1100,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": "2023-01-21",
       "duration_ms": 193314,
       "name": "Man of Means",
       "url": "https://open.spotify.com/track/2NNhlH2iUgaZcPNpyIGfbe"
@@ -965,7 +1118,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-10",
       "duration_ms": 154173,
       "name": "Man on the Move",
       "url": "https://open.spotify.com/track/40QHBWHk8P25QWIzZXjs1x"
@@ -1169,7 +1322,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-29",
       "duration_ms": 271913,
       "name": "On The Nile",
       "url": "https://open.spotify.com/track/0YLgGHYNK5B3diFWckaHUU"
@@ -1301,7 +1454,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 92400,
       "name": "Powerboat",
       "url": "https://open.spotify.com/track/4rrNpVsELkya1KoOWorhOd"
@@ -1319,7 +1472,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-01-07",
       "duration_ms": 105600,
       "name": "Raver",
       "url": "https://open.spotify.com/track/3y3pr0BwXaFsXPlkB7k2pn"
@@ -1409,7 +1562,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": "2022-12-24",
       "duration_ms": 161239,
       "name": "Scooter Girl",
       "url": "https://open.spotify.com/track/4bH1kAgbHVCtxhRFl98Q9L"
@@ -1427,7 +1580,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 172266,
       "name": "Senior Thump",
       "url": "https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD"
@@ -1467,7 +1620,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 217218,
       "name": "Sheer Elegance",
       "url": "https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj"
@@ -1590,6 +1743,28 @@
     },
     {
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Brian Bennett",
+          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/0CeWU1DDY60KBW6GQQvMwX"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: The Road Forward",
         "url": "https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp"
       },
@@ -1677,7 +1852,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 100306,
       "name": "Tap Footer",
       "url": "https://open.spotify.com/track/2360JvZBIuCjy0NqUw5b1V"
@@ -1721,7 +1896,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-05",
       "duration_ms": 212666,
       "name": "The Executive",
       "url": "https://open.spotify.com/track/776mbKjVAft84zLUPqoluf"
@@ -1769,7 +1944,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2022-12-22",
       "duration_ms": 181666,
       "name": "The Hawk Shuffle",
       "url": "https://open.spotify.com/track/67zZDu1rnFAQdp1zyryQWQ"
@@ -1787,7 +1962,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 187428,
       "name": "The Millionairess",
       "url": "https://open.spotify.com/track/1iqulavsMHGtmCXF57YbLU"
@@ -1831,6 +2006,42 @@
       "duration_ms": 62800,
       "name": "The Tense Scene",
       "url": "https://open.spotify.com/track/5E77JCBqo2tTFZecettFg7"
+    },
+    {
+      "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/7GvcWBOsviz8KQnR7nvEKF"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 293066,
+      "name": "Thought Patterns",
+      "url": "https://open.spotify.com/track/2hrGU9HcKcaBFsB37eaPhG"
+    },
+    {
+      "album": {
+        "name": "Highlights",
+        "url": "https://open.spotify.com/album/53lRdtLiHz3eDyVi5OXhCk"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78640,
+      "name": "Track Winner",
+      "url": "https://open.spotify.com/track/1HC1bfSbgmmrcK7TD8b8YA"
     },
     {
       "album": {

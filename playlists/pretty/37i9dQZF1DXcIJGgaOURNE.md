@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,869 likes - 86 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,881 likes - 86 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 34 | [Take Me Back To Piauí](https://open.spotify.com/track/26uzS4AhDPEYbGwcWFWB2O) | [Juca Chaves](https://open.spotify.com/artist/6sm4fipYpmeCJLmAWc820F) | [Muito Vivo](https://open.spotify.com/album/6dfj97K2ywJ2HKAL8P3niw) | 3:16 |
 | 35 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
 | 36 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
-| 37 | [Wild Wild Life](https://open.spotify.com/track/07SZJMPaTsiFbGvBeeib3O) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [Popular Favorites 1976 \- 1992 / Sand in the Vaseline](https://open.spotify.com/album/4ksJGDgtixAqJ390XWv0Ua) | 3:39 |
+| 37 | [Wild Wild Life](https://open.spotify.com/track/07SZJMPaTsiFbGvBeeib3O) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Popular Favorites 1976 \- 1992 / Sand in the Vaseline](https://open.spotify.com/album/4ksJGDgtixAqJ390XWv0Ua) | 3:39 |
 | 38 | [Arpman](https://open.spotify.com/track/3NwAVdV3DmRcbvbZzc6ElB) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Red Axes](https://open.spotify.com/album/2XWxTnbxhF3BrU3YtfSgzo) | 5:02 |
 | 39 | [Dish](https://open.spotify.com/track/6jggSukBUaT5qS2AI9OhD3) | [Apiento](https://open.spotify.com/artist/0PNaqg1sztGjfjZcCpMSjm), [LX](https://open.spotify.com/artist/58yvqNWlojnwGYutd6bPJg) | [Dish](https://open.spotify.com/album/4hYcubEJ9RX35YT8bvpwZD) | 7:56 |
 | 40 | [Born To Lose](https://open.spotify.com/track/5FI0R5JDimbYBMbMCGhWYV) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 4:53 |

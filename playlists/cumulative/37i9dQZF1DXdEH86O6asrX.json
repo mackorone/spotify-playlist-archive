@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "\u00a1Disfruta de las mejores bandas sonoras del siglo XXI!",
   "name": "Soundtracks \u00c9picos",
-  "published_playlist_ids": [
-    "3aN5jpBdtu5i0Yw4idYp92"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,6 +24,28 @@
       "duration_ms": 169626,
       "name": "'Zat You, Santa Claus?",
       "url": "https://open.spotify.com/track/2ESW2GiieFoR9tqkup2Vul"
+    },
+    {
+      "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169092,
+      "name": "'Zat You, Santa Claus? - Single Version",
+      "url": "https://open.spotify.com/track/4Kh0X8pMk2yIFf4jnGXrTZ"
     },
     {
       "album": {
@@ -957,7 +976,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-15",
       "duration_ms": 157506,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/1BMmB1L5PbedWBAFl3xf27"
@@ -1429,6 +1448,24 @@
     {
       "album": {
         "name": "Christmas - Plain & Simple II",
+        "url": "https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4"
+      },
+      "artists": [
+        {
+          "name": "Michele McLaughlin",
+          "url": "https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 243746,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp"
+    },
+    {
+      "album": {
+        "name": "Christmas - Plain & Simple II",
         "url": "https://open.spotify.com/album/2qkngHuiODtKGC2qHKB8Qh"
       },
       "artists": [
@@ -1649,10 +1686,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 237866,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/60lpxsz5DjjZAChH8dzFDt"
+    },
+    {
+      "album": {
+        "name": "Brain Drain",
+        "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 123600,
+      "name": "Merry Christmas (I Don't Want to Fight Tonight)",
+      "url": "https://open.spotify.com/track/7EGQaR9y8XyKeDW7jiDndI"
     },
     {
       "album": {
@@ -1851,7 +1906,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": "2023-01-19",
       "duration_ms": 170293,
       "name": "One More Sleep \u2019til Christmas",
       "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
@@ -2363,7 +2418,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": "2023-01-11",
       "duration_ms": 179000,
       "name": "Star of Bethlehem - Voice",
       "url": "https://open.spotify.com/track/5MNkMPDxNoQCILLPJw4XAB"
@@ -3009,6 +3064,24 @@
       "duration_ms": 182706,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/3PD9zS9RFsRFuPel4CsmXe"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Baby / White Christmas",
+        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 182706,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Cultural juggernauts whose tracks have shifted global narratives by The Juggernaut\. Cover: Riz Ahmed
 
-48 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/3Z59pPdOZVFnUGhEGVlj5x)
+48 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Soundtrack your 2022 resolutions with Katie Austin.",
   "name": "Katie Austin's Hype HIITs Playlist",
-  "published_playlist_ids": [
-    "5QsLBHG7dPsNHxFy6dj0Za"
-  ],
   "tracks": [
     {
       "album": {
@@ -51,7 +48,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206073,
-      "name": "6's to 9's (feat. Rationale)",
+      "name": "6's to 9's",
       "url": "https://open.spotify.com/track/4DAaQ5InUO23d8yNRbB0Yj"
     },
     {
@@ -619,10 +616,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 178369,
       "name": "Purple Hat",
       "url": "https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z"
+    },
+    {
+      "album": {
+        "name": "DANCING ON THE PEOPLE",
+        "url": "https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178369,
+      "name": "Purple Hat",
+      "url": "https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl"
     },
     {
       "album": {

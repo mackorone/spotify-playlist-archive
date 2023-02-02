@@ -4,7 +4,7 @@
 
 > Folk tan dulce como la miel.
 
-97 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/51PGtygMYuoHpiALaPK8vx)
+99 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 | 2022-09-02 |  |
 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 | 2022-04-20 |  |
 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 | 2022-04-20 |  |
-| [Amor Con Filo](https://open.spotify.com/track/0c9mfOt1GwupTmognEOAPA) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Amor Con Filo](https://open.spotify.com/album/7KsYE758XsdXbAz16k5mPt) | 2:58 | 2022-06-27 |  |
+| [Amor Con Filo](https://open.spotify.com/track/0c9mfOt1GwupTmognEOAPA) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Amor Con Filo](https://open.spotify.com/album/7KsYE758XsdXbAz16k5mPt) | 2:58 | 2022-06-27 | 2022-12-05 |
+| [Amor Con Filo](https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Dark Folk, Vol.1](https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu) | 2:58 | 2022-09-02 |  |
 | [Amor Con Filo](https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Amor Con Filo](https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj) | 2:58 | 2022-04-20 | 2022-07-29 |
 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 | 2022-04-20 |  |
 | [Antes de Partir \- Cap.1](https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Antes de Partir \- Cap.1](https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm) | 3:31 | 2022-04-20 |  |
@@ -91,7 +92,8 @@
 | [Tan Bien Que Estaba](https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Tan Bien Que Estaba](https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg) | 3:34 | 2022-04-20 |  |
 | [Te Guardo](https://open.spotify.com/track/6PoJEvRLkC2sD3cp7yGNHq) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Te Guardo](https://open.spotify.com/album/1as7SecZgCXjJQL92pZBmA) | 3:22 | 2022-04-20 | 2022-09-03 |
 | [Te Rendiste en Mi](https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Te Rendiste en Mi](https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK) | 2:28 | 2022-04-20 | 2022-07-29 |
-| [Te Rendiste En Mi](https://open.spotify.com/track/5juW0lOYaezB3KuUu92cxT) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Te Rendiste En Mi](https://open.spotify.com/album/2WeAJB9OVLI1jpDGWZwQpI) | 2:28 | 2022-06-27 |  |
+| [Te Rendiste En Mi](https://open.spotify.com/track/5juW0lOYaezB3KuUu92cxT) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Te Rendiste En Mi](https://open.spotify.com/album/2WeAJB9OVLI1jpDGWZwQpI) | 2:28 | 2022-06-27 | 2022-12-05 |
+| [Te Rendiste En MI](https://open.spotify.com/track/7oyN3Xdz3o0xCNFwWc1lm1) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Dark Folk, Vol.1](https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu) | 2:28 | 2022-09-02 |  |
 | [Telarañas](https://open.spotify.com/track/6Tci9Lg9K45tGA0PzABd8F) | [Laia Ferrer](https://open.spotify.com/artist/4VbGzRTJxDLQlr0m0rXPWC) | [Telarañas](https://open.spotify.com/album/0fMwISnscgwgMWlERNwXg1) | 3:54 | 2022-04-20 |  |
 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 | 2022-04-20 |  |
 | [Todo Lo Que Hay](https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t) | [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg), [Venado Meraki](https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB) | [Todo Lo Que Hay](https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7) | 2:49 | 2022-04-20 |  |

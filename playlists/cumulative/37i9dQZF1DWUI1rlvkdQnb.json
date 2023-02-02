@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Soft, relaxing music for workout recovery.",
   "name": "Cool Down",
-  "published_playlist_ids": [
-    "1NtCBQAYwIxeG4sSBLGcvt"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0qzsmjWYgiSIRNFrTEEsdP"
@@ -37,7 +34,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3a6enSby0Rw9mrRPKDvqEL"
@@ -167,6 +164,24 @@
       "duration_ms": 250589,
       "name": "Aware of Everything",
       "url": "https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU"
+    },
+    {
+      "album": {
+        "name": "Faedah",
+        "url": "https://open.spotify.com/album/1tR8nFFyDf0jgyxRlcVAYi"
+      },
+      "artists": [
+        {
+          "name": "Indah Bethari",
+          "url": "https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135454,
+      "name": "Ayunan",
+      "url": "https://open.spotify.com/track/7sKHxAlAL7yvXMqCQyOLLK"
     },
     {
       "album": {
@@ -494,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Dawning",
+        "url": "https://open.spotify.com/album/2RgLANbWOUnPesH8imnEZw"
+      },
+      "artists": [
+        {
+          "name": "Yaalani",
+          "url": "https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143859,
+      "name": "Dawning",
+      "url": "https://open.spotify.com/track/2OqSCeCuxFkMyXHV2tzNBG"
+    },
+    {
+      "album": {
         "name": "Distant Dreams",
         "url": "https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB"
       },
@@ -653,6 +686,24 @@
       "duration_ms": 206732,
       "name": "Environmental Re-Interpretation",
       "url": "https://open.spotify.com/track/440vNnFLzA1jeyfBQ1qeLY"
+    },
+    {
+      "album": {
+        "name": "Equality",
+        "url": "https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ"
+      },
+      "artists": [
+        {
+          "name": "Adumbration",
+          "url": "https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214278,
+      "name": "Equality",
+      "url": "https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga"
     },
     {
       "album": {
@@ -1484,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "milagro",
+        "url": "https://open.spotify.com/album/23VRakpuBMbOAzSCkPJvEC"
+      },
+      "artists": [
+        {
+          "name": "Ezechiel Almonte",
+          "url": "https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182579,
+      "name": "milagro",
+      "url": "https://open.spotify.com/track/4RlPG34EWDZRfQpOFXIr5a"
+    },
+    {
+      "album": {
         "name": "Drift Off",
         "url": "https://open.spotify.com/album/6LMJYwLucOwVe1Nex4vxah"
       },
@@ -1513,7 +1582,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 209052,
       "name": "Mindful Composition",
       "url": "https://open.spotify.com/track/3nV4LSDVjCjv2hDeeTkvCH"
@@ -2060,13 +2129,31 @@
     },
     {
       "album": {
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/6f0GjbMUJGpZvMEJEdJuuf"
       },
       "artists": [
         {
-          "name": "Mesiki",
-          "url": "https://open.spotify.com/artist/583apEAhOJAxhyzuljX9dL"
+          "name": "Nomadias",
+          "url": "https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0"
         }
       ],
       "date_added": "2022-06-16",
@@ -2348,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/5cAyA5mlUDMuQ89JHasPkg"
+      },
+      "artists": [
+        {
+          "name": "Ilumina",
+          "url": "https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G"
+    },
+    {
+      "album": {
         "name": "Sunset Sky",
         "url": "https://open.spotify.com/album/5T9l0vDiytF7LxJDYPUfae"
       },
@@ -2435,6 +2540,24 @@
       "duration_ms": 187423,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/3WWF9kTWsPRVfgX6BFLisb"
+    },
+    {
+      "album": {
+        "name": "Through The Air",
+        "url": "https://open.spotify.com/album/4PczZZbjoJtQgKhtkxNTwy"
+      },
+      "artists": [
+        {
+          "name": "Silbo Gomera",
+          "url": "https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158152,
+      "name": "Through The Air",
+      "url": "https://open.spotify.com/track/0JNKQdqJplR2mAwsiRsGTl"
     },
     {
       "album": {

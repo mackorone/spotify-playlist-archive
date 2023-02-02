@@ -4,7 +4,7 @@
 
 > 
 
-20 songs - 1 hr 12 min - [published](https://open.spotify.com/playlist/2bNJImpOFadP18HTciRrWh)
+20 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Nicktim / Radio Edit](https://open.spotify.com/track/2bNrvWD9d5Zn9tS8XvcaMk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/0z7Mr85v0hPSX0VOUxP51W) | 3:28 | 2013-06-26 |  |
 | [If I Lose Myself \- Alesso vs OneRepublic](https://open.spotify.com/track/0AhRPDuVwHkLAACbPXidb3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [If I Lose Myself \(Alesso vs OneRepublic\)](https://open.spotify.com/album/700ki3z1ZeqWTqeeGFNBjT) | 3:34 | 2013-06-26 |  |
 | [Live It Up](https://open.spotify.com/track/4WVhv7DuK29A1o6zCGdjQK) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Live It Up](https://open.spotify.com/album/4lvTtWs4YPVkB2SeIbhqvE) | 4:03 | 2013-06-26 |  |
-| [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:21 | 2013-06-26 |  |
+| [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:21 | 2013-06-26 |  |
 | [Reload \- Vocal Version / Radio Edit](https://open.spotify.com/track/40AYRnDKhhrH4JZO4KS9Dj) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/7cNKFmj46OhKkXoaRxUu4i) | 3:41 | 2013-06-26 |  |
 | [Rock the Casbah \- Club Mix](https://open.spotify.com/track/0MvXWbCiYJ7QH2pLHoXGEM) | [Tradelove](https://open.spotify.com/artist/1edZcw60om834YgyyK2Q6J) | [Rock the Casbah](https://open.spotify.com/album/0HdJTPlmSMG876G6hBg9ay) | 6:00 | 2013-06-26 |  |
 | [This Is What It Feels Like](https://open.spotify.com/track/6NdkzOSCLzmyV9Qc4DKhJ2) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [This Is What It Feels Like](https://open.spotify.com/album/4uPKXpXtHrspK8v2ObzyPs) | 3:24 | 2013-06-26 |  |

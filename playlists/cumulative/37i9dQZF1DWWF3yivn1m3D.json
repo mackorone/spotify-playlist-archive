@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The best of the legendary composer.",
   "name": "This Is Hans Zimmer",
-  "published_playlist_ids": [
-    "0h0rKNbh1QO8K3v7LZmRWf"
-  ],
   "tracks": [
     {
       "album": {
@@ -103,10 +100,36 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 265373,
       "name": "Big Blue",
       "url": "https://open.spotify.com/track/1eyWrDLSbq52nOTF1cTwbH"
+    },
+    {
+      "album": {
+        "name": "Blue Planet II (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6fdRTUQDoCXqOjhkVU7NuE"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265373,
+      "name": "Big Blue",
+      "url": "https://open.spotify.com/track/6UrNUfys0o9Z1FvaGaQK0g"
     },
     {
       "album": {
@@ -261,7 +284,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199422,
-      "name": "Day One",
+      "name": "Day One (Interstellar Theme)",
       "url": "https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw"
     },
     {
@@ -1527,10 +1550,36 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 271266,
       "name": "Planet Earth II Suite",
       "url": "https://open.spotify.com/track/0PnLxRZKlGsla3Mbg7xMOd"
+    },
+    {
+      "album": {
+        "name": "Planet Earth II (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0DuJfDsORVE5T5jaQkKIzL"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Jasha Klebe",
+          "url": "https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271266,
+      "name": "Planet Earth II Suite",
+      "url": "https://open.spotify.com/track/1P2QPnAPlrRnldot0wIE6E"
     },
     {
       "album": {
@@ -1895,7 +1944,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 301776,
       "name": "Seven Worlds One Planet Suite",
       "url": "https://open.spotify.com/track/3CEHKMxKKGOqeiYFtDVN1a"
@@ -1921,6 +1970,28 @@
       "duration_ms": 301776,
       "name": "Seven Worlds One Planet Suite",
       "url": "https://open.spotify.com/track/3wUAu4Ym2RbF07uHmt9z0O"
+    },
+    {
+      "album": {
+        "name": "Seven Worlds One Planet (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2KTONzFGV20JddBJYTsMyR"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301776,
+      "name": "Seven Worlds One Planet Suite",
+      "url": "https://open.spotify.com/track/5lQVNs4bllulBximHUQL5K"
     },
     {
       "album": {
@@ -2041,6 +2112,32 @@
     {
       "album": {
         "name": "Blue Planet II (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6fdRTUQDoCXqOjhkVU7NuE"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142026,
+      "name": "Surfing Dolphins",
+      "url": "https://open.spotify.com/track/1s0gzyfVFNxOLhMcaHxUqq"
+    },
+    {
+      "album": {
+        "name": "Blue Planet II (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/58UEPESaEj37jd2SUMr1yT"
       },
       "artists": [
@@ -2059,7 +2156,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 142026,
       "name": "Surfing Dolphins",
       "url": "https://open.spotify.com/track/3dBBk2DALMg6ChxAtxeKq4"
@@ -2137,10 +2234,36 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 197358,
       "name": "The Blue Planet",
       "url": "https://open.spotify.com/track/6e4HulByfr8oPGd7JW5tNZ"
+    },
+    {
+      "album": {
+        "name": "Blue Planet II (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6fdRTUQDoCXqOjhkVU7NuE"
+      },
+      "artists": [
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197358,
+      "name": "The Blue Planet",
+      "url": "https://open.spotify.com/track/7DQ6QTPEOaLvqZls514cfp"
     },
     {
       "album": {

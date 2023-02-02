@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Slayer",
+  "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
   "name": "Thrashers",
-  "published_playlist_ids": [
-    "3zOnYu9mXXc9Jrakbf4dFr"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 167191,
       "name": "A Bitter Pill",
       "url": "https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb"
@@ -145,7 +142,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 230093,
       "name": "A New Land",
       "url": "https://open.spotify.com/track/4K21taEZsYaCLsWosMcqeq"
@@ -498,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Thrash Zone",
+        "url": "https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC"
+      },
+      "artists": [
+        {
+          "name": "D.R.I.",
+          "url": "https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336200,
+      "name": "Beneath The Wheel",
+      "url": "https://open.spotify.com/track/3JqTeGdODAcf9mWM9mKJOO"
+    },
+    {
+      "album": {
         "name": "Infernal Overkill",
         "url": "https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC"
       },
@@ -585,6 +600,24 @@
       "duration_ms": 189280,
       "name": "Black Metal Sucks",
       "url": "https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z"
+    },
+    {
+      "album": {
+        "name": "...And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/4Cn4T0onWhfJZwWVzU5a2t"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402143,
+      "name": "Blackened (Remastered)",
+      "url": "https://open.spotify.com/track/0M1pfDTZGWC7cBuEx3FwwT"
     },
     {
       "album": {
@@ -725,7 +758,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 366733,
       "name": "Bombenhagel",
       "url": "https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf"
@@ -873,6 +906,28 @@
       "duration_ms": 217747,
       "name": "Break the Wheel",
       "url": "https://open.spotify.com/track/3YkExc5ZX1YgKgSIfRBKaD"
+    },
+    {
+      "album": {
+        "name": "Attack Of The Killer B's",
+        "url": "https://open.spotify.com/album/6Ic0P6UAAHeyAsnvri4qXS"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        },
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211786,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/1p50Ir1Hm6Sa1urjaLGi7L"
     },
     {
       "album": {
@@ -1071,7 +1126,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 272853,
       "name": "Chalice of Blood",
       "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
@@ -1143,7 +1198,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 267226,
       "name": "Circle of the Tyrants",
       "url": "https://open.spotify.com/track/4esTgfKqcMbrjs9MLsxpO8"
@@ -1222,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+    },
+    {
+      "album": {
         "name": "Electrified Brain",
         "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
       },
@@ -1291,6 +1364,24 @@
       "duration_ms": 274816,
       "name": "Curtain Fire",
       "url": "https://open.spotify.com/track/0bNcU1wxJsgSUnMbmLkzkE"
+    },
+    {
+      "album": {
+        "name": "Freedumb",
+        "url": "https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109306,
+      "name": "Cyco Vision",
+      "url": "https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA"
     },
     {
       "album": {
@@ -1407,7 +1498,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-01",
       "duration_ms": 264506,
       "name": "Death Squad",
       "url": "https://open.spotify.com/track/6HxVWqnbWUiKimNRPz1K8l"
@@ -2007,7 +2098,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 284506,
       "name": "Fight Fire With Fire (Remastered)",
       "url": "https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2"
@@ -2155,6 +2246,24 @@
       "duration_ms": 280224,
       "name": "For the Horde",
       "url": "https://open.spotify.com/track/1KOKew94NrIZITnpQAMa6p"
+    },
+    {
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309973,
+      "name": "For Whom The Bell Tolls (Remastered)",
+      "url": "https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ"
     },
     {
       "album": {
@@ -2310,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Persistence Of Time (30th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Got The Time",
+      "url": "https://open.spotify.com/track/3cFnb3Rg9a7Gzqxc5QQ9YZ"
+    },
+    {
+      "album": {
         "name": "Grave Dive",
         "url": "https://open.spotify.com/album/5D6o12XKVSm9arPgSFefgV"
       },
@@ -2357,7 +2484,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 210047,
       "name": "Guided by Evil",
       "url": "https://open.spotify.com/track/6os2CG54Dj1JRcKWzOh7RN"
@@ -2465,7 +2592,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 228586,
       "name": "Heart Attack",
       "url": "https://open.spotify.com/track/38kRxXRL2FbAM2mHZ2tqSQ"
@@ -2611,7 +2738,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 392600,
-      "name": "Holy Wars...The Punishment Due - Remastered",
+      "name": "Holy Wars...The Punishment Due - Remastered 2004",
       "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
     },
     {
@@ -2742,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Among The Living",
+        "url": "https://open.spotify.com/album/4Y2jEzU70sLpTCMCl6JE0t"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341333,
+      "name": "Indians",
+      "url": "https://open.spotify.com/track/1fcyfC1KLSWVCIvALR5AxS"
+    },
+    {
+      "album": {
         "name": "Indoctrinate",
         "url": "https://open.spotify.com/album/5znqQUUxyrHcr4nLEmNLjo"
       },
@@ -2789,7 +2934,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": "2022-12-03",
       "duration_ms": 297360,
       "name": "Inexorable Darkness",
       "url": "https://open.spotify.com/track/5rWhMFUhgeGFgiLLu4vZAv"
@@ -2811,6 +2956,24 @@
       "duration_ms": 182084,
       "name": "Insane",
       "url": "https://open.spotify.com/track/0EussHoROH1wsSg3qhN0WO"
+    },
+    {
+      "album": {
+        "name": "Suicidal Tendencies",
+        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
     },
     {
       "album": {
@@ -3239,7 +3402,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-02",
       "duration_ms": 246552,
       "name": "Lockdown Forever",
       "url": "https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg"
@@ -3365,7 +3528,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2022-12-16",
       "duration_ms": 267253,
       "name": "Mad Dictator",
       "url": "https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW"
@@ -3473,10 +3636,28 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 287600,
       "name": "Masked Jackal",
       "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
+    },
+    {
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "album": {
@@ -3545,7 +3726,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 311466,
       "name": "Metal Militia (Remastered)",
       "url": "https://open.spotify.com/track/5gQ0LTbcX7gpQDg39gNLH8"
@@ -3621,7 +3802,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 187840,
       "name": "Motorbreath (Remastered)",
       "url": "https://open.spotify.com/track/1QQgmN383kUqjioRoTSfF3"
@@ -3711,7 +3892,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 254143,
       "name": "New World Beyond",
       "url": "https://open.spotify.com/track/1gjzvbjjMactmbWxuLxS84"
@@ -3927,7 +4108,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-16",
       "duration_ms": 223588,
       "name": "Outsider God Creation (O.G.C)",
       "url": "https://open.spotify.com/track/2DyYVbTGmphEo0xeqN6xkT"
@@ -4071,7 +4252,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 219242,
       "name": "Perpetual Chaos",
       "url": "https://open.spotify.com/track/0twaN8lzgWZVbBBBWJsEkh"
@@ -4384,6 +4565,24 @@
     },
     {
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270640,
+      "name": "Ratamahatta",
+      "url": "https://open.spotify.com/track/3Tg8JctqoeIwZ3Rue8BjaI"
+    },
+    {
+      "album": {
         "name": "Blood in the Water",
         "url": "https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax"
       },
@@ -4489,6 +4688,24 @@
       "duration_ms": 205541,
       "name": "Recycled Hate",
       "url": "https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k"
+    },
+    {
+      "album": {
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199226,
+      "name": "Refuse / Resist",
+      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
     },
     {
       "album": {
@@ -4631,6 +4848,24 @@
       "duration_ms": 260226,
       "name": "Romeo Delight",
       "url": "https://open.spotify.com/track/5Wsw3iaHNipb5IzoBjzPMm"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Roots Bloody Roots",
+      "url": "https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ"
     },
     {
       "album": {
@@ -5131,7 +5366,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 278400,
       "name": "Strike Fast Strike Hard",
       "url": "https://open.spotify.com/track/0h6sUQTO9bDmM8AdAiKxfG"
@@ -5282,6 +5517,24 @@
     },
     {
       "album": {
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287480,
+      "name": "Territory",
+      "url": "https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu"
+    },
+    {
+      "album": {
         "name": "Outer Isolation",
         "url": "https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U"
       },
@@ -5401,7 +5654,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 237508,
       "name": "The Black Hand Reaches Out",
       "url": "https://open.spotify.com/track/0Sd8D0bpbOBlFo6dZz4OiH"
@@ -6194,6 +6447,24 @@
     },
     {
       "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
+    },
+    {
+      "album": {
         "name": "Seasons In The Abyss",
         "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
       },
@@ -6479,6 +6750,24 @@
       "duration_ms": 288293,
       "name": "WWIII",
       "url": "https://open.spotify.com/track/0XnV89hrJWQxPkddqWtIln"
+    },
+    {
+      "album": {
+        "name": "Lights...Camera...Revolution",
+        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348093,
+      "name": "You Can't Bring Me Down",
+      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
     },
     {
       "album": {

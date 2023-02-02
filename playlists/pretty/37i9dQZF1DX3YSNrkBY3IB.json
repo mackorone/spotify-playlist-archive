@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 35416,
+  "num_followers": 43163,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDQ1NzJlNzMyYjI3ZDY3ODAyYjJmZGFkYThlMzAxZDNh",
+  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDRiZjU2YWM2MjJlZTQxYzc2YjQ5ZDA3MTdkOGIwYTYz",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -97,22 +97,6 @@
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 251573,
-      "name": "Can I Kick It?",
-      "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
-    },
-    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "Bizarre Ride II The Pharcyde",
@@ -127,6 +111,22 @@
       "duration_ms": 303493,
       "name": "Passin' Me By",
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 251573,
+      "name": "Can I Kick It?",
+      "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1"
     },
     {
+      "added_at": "2022-01-10 20:50:24",
+      "album": {
+        "name": "The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook",
+        "url": "https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur"
+      },
+      "artists": [
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "duration_ms": 260306,
+      "name": "Mistadobalina",
+      "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC"
+    },
+    {
       "added_at": "2020-09-29 17:19:21",
       "album": {
         "name": "3 Years, 5 Months And 2 Days In The Life Of...",
@@ -349,38 +365,6 @@
       "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
     },
     {
-      "added_at": "2022-01-10 20:50:24",
-      "album": {
-        "name": "The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook",
-        "url": "https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur"
-      },
-      "artists": [
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        }
-      ],
-      "duration_ms": 260306,
-      "name": "Mistadobalina",
-      "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Profilin': The Hits",
-        "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
-      },
-      "artists": [
-        {
-          "name": "Rob Base & DJ EZ Rock",
-          "url": "https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
-    },
-    {
       "added_at": "2021-04-08 15:31:12",
       "album": {
         "name": "The Showdown: The Sugarhill Gang vs. Grandmaster Flash & The Furious Five",
@@ -415,18 +399,34 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+        "name": "Profilin': The Hits",
+        "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
       },
       "artists": [
         {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+          "name": "Rob Base & DJ EZ Rock",
+          "url": "https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu"
         }
       ],
-      "duration_ms": 272706,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
+      "duration_ms": 301893,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -471,18 +471,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
       },
       "artists": [
         {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
         }
       ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+      "duration_ms": 272706,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -523,22 +523,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "I Can't Live Without My Radio",
-      "url": "https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Kurtis Blow",
         "url": "https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Knowledge Is King",
-        "url": "https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
       },
       "artists": [
         {
-          "name": "Kool Moe Dee",
-          "url": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
-      "duration_ms": 282093,
-      "name": "I Go To Work",
-      "url": "https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe"
+      "duration_ms": 327400,
+      "name": "I Can't Live Without My Radio",
+      "url": "https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -587,6 +571,38 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Knowledge Is King",
+        "url": "https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz"
+      },
+      "artists": [
+        {
+          "name": "Kool Moe Dee",
+          "url": "https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "I Go To Work",
+      "url": "https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Holy Intellect (Expanded Edition)",
         "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 311080,
       "name": "Rock Dis Funky Joint",
       "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -647,6 +647,22 @@
       "duration_ms": 224826,
       "name": "Monie in the Middle",
       "url": "https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw"
+    },
+    {
+      "added_at": "2020-12-07 15:05:30",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "It's Tricky",
+      "url": "https://open.spotify.com/track/3C5b21hX1FePgFAGdzk3Uc"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -687,26 +703,6 @@
       "duration_ms": 250200,
       "name": "The Next Movement",
       "url": "https://open.spotify.com/track/6oObYkdW3HMbqCV3AhSfVR"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Ladies First",
-        "url": "https://open.spotify.com/album/6FrpOdvtCpq4atd48hyLVq"
-      },
-      "artists": [
-        {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        },
-        {
-          "name": "Monie Love",
-          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
-        }
-      ],
-      "duration_ms": 229896,
-      "name": "Ladies First - Radio Edit",
-      "url": "https://open.spotify.com/track/2kdJAbzcLT7XEQ0QeZERIB"
     }
   ],
   "unique_name": "Raised on Hip Hop",

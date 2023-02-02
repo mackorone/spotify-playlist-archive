@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: BiGSaM.
 
-86 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
+88 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Zabatna](https://open.spotify.com/track/2KakK2ldIwk32Lyp8cHRab) | [Tarek Al Atrash](https://open.spotify.com/artist/53SkAdBSeRmu5xA0G6Yii8) | [Zabatna](https://open.spotify.com/album/2q0BFnd8N5N0v5kEx8uih4) | 4:01 | 2022-06-24 |  |
 | [اشمعنى انا](https://open.spotify.com/track/4WKQOHnoexpv5eqJb2kGLR) | [Wael Amer](https://open.spotify.com/artist/5ZZI6hmqMxslXH7KR44cHW) | [اشمعنى انا](https://open.spotify.com/album/5dcH8fd9HOyQtT4xMDIvdA) | 2:48 | 2022-10-13 |  |
 | [السر](https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Seif](https://open.spotify.com/artist/5pEMAuF7RVXLCCiIkqVC0q) | [السر](https://open.spotify.com/album/7rPpGIJZZl3RsPeWEksCoW) | 4:32 | 2022-10-10 |  |
+| [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2022-12-17 | 2023-01-17 |
 | [بالمختصر](https://open.spotify.com/track/6ScIVedrkp6Rc1WFwzQxSU) | [اية خفاجة](https://open.spotify.com/artist/5dp1VYIECbMmrUo13BnbDV) | [بالمختصر \- Single](https://open.spotify.com/album/4fEQSmOjq9oU6gtl8iMB26) | 2:57 | 2022-06-24 | 2022-11-09 |
 | [بخاف](https://open.spotify.com/track/2zU9EApSRrWQuCOGTsPBFj) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بخاف](https://open.spotify.com/album/6HVGI0FKmqVz8RmOO7p39l) | 3:39 | 2022-11-23 |  |
 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-14 |  |
@@ -91,6 +92,7 @@
 | [كوني](https://open.spotify.com/track/4nmZ8hzRX14xtcQr1i5PIk) | [Oma](https://open.spotify.com/artist/0m0lZ1flHVDnhBWMAaZ9OD) | [كوني](https://open.spotify.com/album/1TAeZ2WnLp3PRhFLpO3ETs) | 2:53 | 2022-06-24 |  |
 | [لا تغيبي](https://open.spotify.com/track/1TllJwxsdASrBOUec8JFlV) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix), [Bilal Derky](https://open.spotify.com/artist/7E3aW1jsT4X56lJObxhXKp) | [لا تغيبي](https://open.spotify.com/album/0rjh2wonHJmoQ5O2RLvua1) | 3:38 | 2022-11-08 |  |
 | [ولا صحبه احلى](https://open.spotify.com/track/5abjiC8O2jUGyXhFozLhOc) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [ولا صحبه احلى](https://open.spotify.com/album/4SP39vn0J6IBX3HlnPNqGO) | 3:21 | 2022-09-29 |  |
+| [يا باغية](https://open.spotify.com/track/4VEJSIx2XA4MZbNzRDLQNz) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [يا باغية](https://open.spotify.com/album/5r1nnBiexkEb6NG9Dvlfro) | 3:17 | 2023-01-16 |  |
 | [يا ترى](https://open.spotify.com/track/0jdJimx5sKSQIk2509Hhvv) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/2v4Lpoa78QNwurwzvQJOih) | 0:35 | 2022-10-20 | 2022-11-09 |
 | [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 0:35 | 2022-06-24 | 2022-11-02 |
 | [يا حبيبة](https://open.spotify.com/track/4rS1EJLl0OJyXkfijXih7Y) | [Alawar](https://open.spotify.com/artist/7hlFz8LW0RDvHdf22JSJVq) | [يا حبيبة](https://open.spotify.com/album/10OMhjxG7IiOFCnbrrU7c4) | 3:06 | 2022-11-08 |  |

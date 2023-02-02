@@ -4,7 +4,7 @@
 
 > Run down to the riptide with the <a href="spotify:artist:10exVja0key0uqUkk6LJRT">Australian songsmith</a>.
 
-32 songs - 2 hr 3 min - [published](https://open.spotify.com/playlist/2kBzQqQEmUV2KyibWiQyW8)
+32 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

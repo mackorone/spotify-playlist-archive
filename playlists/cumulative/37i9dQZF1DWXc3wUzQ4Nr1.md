@@ -4,7 +4,7 @@
 
 > Global superstar DJ <a href="spotify:artist:5ChF3i92IPZHduM7jN3dpg">Nicky Romero</a> takes us to the main stage with his uplifting mix.
 
-19 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/3a9nN7CZ0VD3TfZyglB3Pz)
+19 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

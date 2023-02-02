@@ -4,7 +4,7 @@
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/3rnTZVfsUW9jQfER89mDAR)
+61 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [84 Pontiac Dream](https://open.spotify.com/track/7LdfKO6BWufPr8ItB9uMMz) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 3:49 | 2022-06-12 | 2022-10-12 |
 | [A Moment Of Clarity](https://open.spotify.com/track/6OzOsP5Ftn3osfuCvSxnYr) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 0:51 | 2022-10-20 |  |
 | [Alpha And Omega](https://open.spotify.com/track/0aiJjUQffDoOTntvqDlicF) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 7:02 | 2022-06-01 | 2022-10-13 |
-| [Amo Bishop Roden](https://open.spotify.com/track/1oeovPFdMfedh7VpbXg6YP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:16 | 2022-05-29 |  |
+| [Amo Bishop Roden \[Chosen by Warp co\-founder Steve Beckett\]](https://open.spotify.com/track/1oeovPFdMfedh7VpbXg6YP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:16 | 2022-05-29 |  |
 | [An Eagle In Your Mind](https://open.spotify.com/track/03zv0Znm7bA7XzWMZ1lEKO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 6:25 | 2022-10-01 | 2022-10-13 |
 | [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 | 2022-05-29 | 2022-10-07 |
 | [Ataronchronon](https://open.spotify.com/track/3NFvPiE8u70nJymhP17Orx) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 1:14 | 2022-10-12 |  |
@@ -20,6 +20,7 @@
 | [Bocuma](https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:35 | 2022-10-12 |  |
 | [Chromakey Dreamcoat](https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:47 | 2022-05-29 |  |
 | [Cold Earth](https://open.spotify.com/track/7aXWNIZMxTzU76bdmajx9c) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 3:42 | 2022-05-30 |  |
+| [Collapse](https://open.spotify.com/track/6G0QWjgXe7XzpcwPchzAaV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:49 | 2022-12-31 | 2023-01-06 |
 | [Come To Dust](https://open.spotify.com/track/5Rq43IH5VHoSkeGGR3gwl0) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:07 | 2022-05-29 | 2022-10-13 |
 | [Constants Are Changing](https://open.spotify.com/track/6InkUffjcAOYPiX4BEAjrU) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 1:42 | 2022-05-31 |  |
 | [Dawn Chorus](https://open.spotify.com/track/7LY0R33pPIFr0Y64VZC9Wo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 3:55 | 2022-05-29 | 2022-10-08 |
@@ -30,8 +31,9 @@
 | [Hey Saturday Sun](https://open.spotify.com/track/5D7jl5qqynjNZZEiy4KQ2b) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 4:56 | 2022-05-30 | 2022-09-23 |
 | [Iced Cooly](https://open.spotify.com/track/2puMrk8At4ws8Yo92320F7) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 2:22 | 2022-05-29 |  |
 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/1ilA1w8ewwREeAEHY2rqKa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:07 | 2022-05-29 |  |
+| [In The Annexe](https://open.spotify.com/track/5LrPKZmACz0BVdWGU0ycxx) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 1:22 | 2022-12-25 |  |
 | [Jacquard Causeway](https://open.spotify.com/track/7Dw7RRCKnPBlbmHteZ8Whw) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 6:35 | 2022-05-29 | 2022-10-13 |
-| [Julie And Candy](https://open.spotify.com/track/7bgtelfoppWqHtwkQudvod) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:30 | 2022-05-29 |  |
+| [Julie And Candy](https://open.spotify.com/track/7bgtelfoppWqHtwkQudvod) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:30 | 2022-05-29 | 2022-12-26 |
 | [Kaini Industries](https://open.spotify.com/track/3aqXL0g0eeZrS4Qlf7dV8O) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 0:59 | 2022-10-12 |  |
 | [Kid For Today](https://open.spotify.com/track/3JYEtZycESWmQggXuAbQlZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:23 | 2022-05-29 |  |
 | [Left Side Drive](https://open.spotify.com/track/47wSsypqjVoZ7XaGIp1aOV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y) | 5:20 | 2022-05-29 |  |
@@ -60,7 +62,7 @@
 | [Telephasic Workshop](https://open.spotify.com/track/5B5nloaA2UpNrjweosqVe3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 6:35 | 2022-05-29 | 2022-10-13 |
 | [The Beach At Redpoint](https://open.spotify.com/track/7IFLsGyxJUX4cCWauaWG6U) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 4:18 | 2022-05-29 | 2022-10-13 |
 | [The Smallest Weird Number](https://open.spotify.com/track/193DxvYZR8xMzt0AujMrDU) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 1:17 | 2022-10-12 |  |
-| [Transmisiones Ferox](https://open.spotify.com/track/7cUwH8Pb0gVTn2CrE2rXwH) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:18 | 2022-10-21 | 2022-10-23 |
+| [Transmisiones Ferox](https://open.spotify.com/track/7cUwH8Pb0gVTn2CrE2rXwH) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:18 | 2022-10-21 | 2023-01-24 |
 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 | 2022-05-29 |  |
 | [Twoism](https://open.spotify.com/track/31hN9r2HwN6fCV4cxddii7) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 6:05 | 2022-05-29 | 2022-10-13 |
 | [Under The Coke Sign](https://open.spotify.com/track/6wcu9A6wDcaEOdj5qa0umk) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y) | 1:31 | 2022-05-31 |  |

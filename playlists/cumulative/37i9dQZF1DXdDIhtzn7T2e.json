@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Let these country tunes light up your day",
   "name": "Greener Pastures",
-  "published_playlist_ids": [
-    "7Fdh0ZQzW1X475GT90gmXk"
-  ],
   "tracks": [
     {
       "album": {
@@ -489,6 +486,24 @@
       "duration_ms": 377026,
       "name": "High, Drunk, and Heartbroke",
       "url": "https://open.spotify.com/track/4p9D4xmZekyDDQdj7E7t1W"
+    },
+    {
+      "album": {
+        "name": "Holy Roller",
+        "url": "https://open.spotify.com/album/4IxTz2QTl1CJqobASo2O3J"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202636,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/3D1xwgtx3n5K9FUqGCBsKq"
     },
     {
       "album": {

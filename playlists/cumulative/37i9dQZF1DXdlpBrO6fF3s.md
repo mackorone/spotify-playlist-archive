@@ -4,7 +4,7 @@
 
 > I'm The One! A TEEnager Z is here.
 
-99 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/2ZfBUnJ6uWG5YMir0Zq40K)
+104 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,9 @@
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-07-29 |  |
 | [HALA HALA \(Hearts Awakened, Live Alive\)](https://open.spotify.com/track/4v2BLMhWtVvBnZwuoiKxja) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:22 | 2022-02-03 |  |
 | [HALA HALA \- Traditional Treatment Mix](https://open.spotify.com/track/14MK8meDsJ7JVCjVXGXK2j) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP\. EXTRA: Shift The Map](https://open.spotify.com/album/3uejTFamPCZuTD1HvYLqw2) | 3:22 | 2022-02-03 |  |
+| [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2023-01-02 |  |
 | [Horizon](https://open.spotify.com/track/7aq8t9D82PJuqH7TFT4W6O) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:11 | 2022-02-03 |  |
+| [I'm The One \- Eden\-ary Remix](https://open.spotify.com/track/57RBkK05Zi0dF00Sn2oCM9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:14 | 2023-01-02 |  |
 | [I'm The One \- HEAT\-TOPPING Version](https://open.spotify.com/track/4h8DDTLayF06jMWIPJlBb3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:52 | 2022-02-03 |  |
 | [If Without You](https://open.spotify.com/track/0gi1k5Lg3ysIjoHlrFcjpw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:20 | 2022-02-03 |  |
 | [Illusion](https://open.spotify.com/track/4hQHA562yLkVKlakkOkz5l) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:30 | 2022-02-03 |  |
@@ -53,6 +55,7 @@
 | [New World](https://open.spotify.com/track/0rvQzaVeceFaksUoeyonXw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:36 | 2022-07-29 |  |
 | [Not Too Late](https://open.spotify.com/track/0fmdJr4UEfmqFCGFswAJPe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:34 | 2022-02-03 |  |
 | [One Day At A Time](https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:23 | 2022-02-03 |  |
+| [Outro : Blue Bird](https://open.spotify.com/track/7H9O0vNSv2cAfKa2OQtwji) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 2:06 | 2023-01-02 |  |
 | [Outro : Over the Horizon](https://open.spotify.com/track/50E6fZjrXlueE5CGwYQh3m) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 1:41 | 2022-02-03 |  |
 | [Pirate King](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:15 | 2022-02-03 |  |
 | [Pirate King \- Japanese Ver.](https://open.spotify.com/track/6NdlEDKUeWKxXQ1u11BNGM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:16 | 2022-02-03 |  |
@@ -77,6 +80,7 @@
 | [Sunrise \- Atmospheric Mix by SPACECOWBOY](https://open.spotify.com/track/5Him4EuQu3x2yKG7ZVv4hl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [SPACECOWBOY](https://open.spotify.com/artist/58Y3mQTF2ToepXQaS0RCIV) | [TREASURE EP\. Map To Answer](https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i) | 4:02 | 2022-02-03 |  |
 | [Take Me Home](https://open.spotify.com/track/0Fj5sQ4V4fYGVOxkoNUxz1) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:41 | 2022-02-03 |  |
 | [Take Me Home \- English Version](https://open.spotify.com/track/3kHTeY85lTphKnBVXdX1Tz) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:41 | 2022-02-03 |  |
+| [Take Me Home \- IDIOTAPE Remix](https://open.spotify.com/track/5DPf9BgRYLa061j7W7VLJi) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:34 | 2023-01-02 |  |
 | [THANK U](https://open.spotify.com/track/4ZhE2dQ2MqEgWAgPnKWfhj) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:21 | 2022-02-03 |  |
 | [THANXX](https://open.spotify.com/track/0YXpDiXEQlRmVSAFcub7sE) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:01 | 2022-02-03 |  |
 | [THANXX \- Japanese Ver.](https://open.spotify.com/track/3p9Tyagqh1L988HfDwL9Bp) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:01 | 2022-02-03 |  |
@@ -102,6 +106,7 @@
 | [WDIG \(Where Do I Go\)](https://open.spotify.com/track/2pwEbLrm8PkgplnTRG6bSL) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:13 | 2022-07-29 |  |
 | [White Love](https://open.spotify.com/track/3HVfAODNZoFHLOegytXJz9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 3:17 | 2022-02-03 |  |
 | [WIN](https://open.spotify.com/track/6iaVgWHDlYxjjvj3PuKSQX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:22 | 2022-02-03 |  |
+| [WIN \- June One Remix](https://open.spotify.com/track/3E1sa5r0X7iwmXktb2v38l) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:29 | 2023-01-02 |  |
 | [WITH U](https://open.spotify.com/track/3gYFXFPdWslCNtZcO4GEdy) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:34 | 2022-02-03 |  |
 | [WONDERLAND](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2022-02-03 |  |
 | [WONDERLAND \(Symphony No.9 "From The Wonderland"\)](https://open.spotify.com/track/1JspDSeSVIiegIbk5niXkg) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 4:17 | 2022-02-03 |  |

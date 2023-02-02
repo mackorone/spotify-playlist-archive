@@ -1,15 +1,15 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
-  "num_followers": 12543,
+  "num_followers": 14582,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwMjAwMCwwMDAwMDAwMDU2NWI5MGZkNzhhMTNkYzhjZDAzOWVkZjkyYjYwNGQ1",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDYwYTYxMTYyMzZkYzVjMjVkZWEwOWFmMzBiODg1ZmY0",
   "tracks": [
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Mi Loco Amor",
         "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/2ssKqkGiSqz4Zv1V3nFSN8"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/7nQYmGq7BKQmmHuX5BWauX"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Lo Mejor de Mi...",
         "url": "https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Nac\u00ed para Cantar",
-        "url": "https://open.spotify.com/album/0DeuQ3Y1o2EOJBvv9b8tOb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Toro",
-          "url": "https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau"
-        }
-      ],
-      "duration_ms": 176212,
-      "name": "Esta Noche Canta Salta",
-      "url": "https://open.spotify.com/track/4g3aPYLNrEbGGqiYWNRVGy"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "MILENA",
         "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Nac\u00ed para Cantar",
+        "url": "https://open.spotify.com/album/0DeuQ3Y1o2EOJBvv9b8tOb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Toro",
+          "url": "https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau"
+        }
+      ],
+      "duration_ms": 176212,
+      "name": "Esta Noche Canta Salta",
+      "url": "https://open.spotify.com/track/4g3aPYLNrEbGGqiYWNRVGy"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Autobiograf\u00eda",
         "url": "https://open.spotify.com/album/6B12Cp3PX1iP6E9QUlNkHL"
@@ -109,43 +109,7 @@
       "url": "https://open.spotify.com/track/2KVgvEa5KCDgHwsPvdElSw"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Madre Tierra",
-        "url": "https://open.spotify.com/album/46cdt75AjwW40xO5MPfweX"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Bruno Arias",
-          "url": "https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df"
-        }
-      ],
-      "duration_ms": 276787,
-      "name": "Sol de los Andes",
-      "url": "https://open.spotify.com/track/2k9snEi03Da0tGwkUYhPH5"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 249217,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
@@ -165,7 +129,27 @@
       "url": "https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Madre Tierra",
+        "url": "https://open.spotify.com/album/46cdt75AjwW40xO5MPfweX"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Bruno Arias",
+          "url": "https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df"
+        }
+      ],
+      "duration_ms": 276787,
+      "name": "Sol de los Andes",
+      "url": "https://open.spotify.com/track/2k9snEi03Da0tGwkUYhPH5"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Hasta El Cielo Mi Alma",
         "url": "https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4"
@@ -181,39 +165,7 @@
       "url": "https://open.spotify.com/track/5Kz1mW7iVOBpbohYaj1Hpl"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Alma Andina",
-        "url": "https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Toro",
-          "url": "https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "El Antigal",
-      "url": "https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Folk",
-        "url": "https://open.spotify.com/album/52oH9mSQNhPl2TskvtDrOM"
-      },
-      "artists": [
-        {
-          "name": "Natalia Barrionuevo",
-          "url": "https://open.spotify.com/artist/3HsEpr0lLwltdTesdpkyfC"
-        }
-      ],
-      "duration_ms": 156270,
-      "name": "Chacarera De Un Triste",
-      "url": "https://open.spotify.com/track/1Fy3NTZvDisJEACyUIpt1p"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Confesion del Viento",
         "url": "https://open.spotify.com/album/0TgYYZdef8PHVqbaB8FLKe"
@@ -229,7 +181,39 @@
       "url": "https://open.spotify.com/track/7qzvssyQLOwo1fycCSEQCK"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 249217,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Alma Andina",
+        "url": "https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Toro",
+          "url": "https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "El Antigal",
+      "url": "https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "K'arallanta",
         "url": "https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61"
@@ -245,75 +229,23 @@
       "url": "https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Coplas de Sangre, Vol. 5",
-        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
+        "name": "Folk",
+        "url": "https://open.spotify.com/album/52oH9mSQNhPl2TskvtDrOM"
       },
       "artists": [
         {
-          "name": "Mariana Carrizo",
-          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
+          "name": "Natalia Barrionuevo",
+          "url": "https://open.spotify.com/artist/3HsEpr0lLwltdTesdpkyfC"
         }
       ],
-      "duration_ms": 208813,
-      "name": "Do\u00f1a Ubenza",
-      "url": "https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df"
+      "duration_ms": 156270,
+      "name": "Chacarera De Un Triste",
+      "url": "https://open.spotify.com/track/1Fy3NTZvDisJEACyUIpt1p"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Primera Luna",
-        "url": "https://open.spotify.com/album/5TmC4Vf0Gsmoccfi4UQibs"
-      },
-      "artists": [
-        {
-          "name": "Georgina Hassan",
-          "url": "https://open.spotify.com/artist/5mFd5W4knpaQflS9IsNnSZ"
-        },
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 205188,
-      "name": "El C\u00edrculo",
-      "url": "https://open.spotify.com/track/50x9Hu5ylmkhpOXnUsH33X"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Churita",
-        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
-      },
-      "artists": [
-        {
-          "name": "Mariana Baraj",
-          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "La Guada",
-      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 241410,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Hasta El Cielo Mi Alma",
         "url": "https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4"
@@ -329,7 +261,7 @@
       "url": "https://open.spotify.com/track/6Bf4pzA5VozuflkSxWAdmS"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/3bR7NG06VsznfRW6qvMdwy"
@@ -349,7 +281,75 @@
       "url": "https://open.spotify.com/track/73fh5PP1DDxJLrjzuR0K93"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Coplas de Sangre, Vol. 5",
+        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
+      },
+      "artists": [
+        {
+          "name": "Mariana Carrizo",
+          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Do\u00f1a Ubenza",
+      "url": "https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Churita",
+        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+      },
+      "artists": [
+        {
+          "name": "Mariana Baraj",
+          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "La Guada",
+      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Primera Luna",
+        "url": "https://open.spotify.com/album/5TmC4Vf0Gsmoccfi4UQibs"
+      },
+      "artists": [
+        {
+          "name": "Georgina Hassan",
+          "url": "https://open.spotify.com/artist/5mFd5W4knpaQflS9IsNnSZ"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 205188,
+      "name": "El C\u00edrculo",
+      "url": "https://open.spotify.com/track/50x9Hu5ylmkhpOXnUsH33X"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 241410,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "La Patria Digna",
         "url": "https://open.spotify.com/album/7ql7ekqJjXUoW4RYItZZiy"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/4JXMKuZaDOpsp8d5OpOZgA"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Ojos de Cielo",
         "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
@@ -381,7 +381,23 @@
       "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Aut\u00f3ctona",
+        "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
+      },
+      "artists": [
+        {
+          "name": "Roxana Carabajal",
+          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
+        }
+      ],
+      "duration_ms": 140600,
+      "name": "D\u00edas para Celebrar",
+      "url": "https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Trinchera, Vol. 1",
         "url": "https://open.spotify.com/album/2iid4MS5HmrfRpJwHAt31G"
@@ -397,55 +413,7 @@
       "url": "https://open.spotify.com/track/6SwzfwoDWstfVc0Gy2BAaa"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "El Amor Es As\u00ed",
-        "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 176758,
-      "name": "Diez Noches de Desvelo",
-      "url": "https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Amor en Zamba",
-        "url": "https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz"
-      },
-      "artists": [
-        {
-          "name": "Carolina Centuri\u00f3n",
-          "url": "https://open.spotify.com/artist/1BwJfy91G91JVvEVM2DEnS"
-        }
-      ],
-      "duration_ms": 263620,
-      "name": "Amor en Zamba",
-      "url": "https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Coplas de Sangre, Vol. 5",
-        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
-      },
-      "artists": [
-        {
-          "name": "Mariana Carrizo",
-          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Cuequita del Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/0yNasMmFNCvAv6X7QDk4AJ"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8"
@@ -461,23 +429,7 @@
       "url": "https://open.spotify.com/track/23BlW00INye3PrZl18b1uT"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Remedio Pal Alma",
-        "url": "https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi"
-      },
-      "artists": [
-        {
-          "name": "Veronica Condomi",
-          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "De Los Dias, Los Mas Lindos",
-      "url": "https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Formose\u00f1a",
         "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
@@ -497,26 +449,10 @@
       "url": "https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Tu respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Tu respuesta - Zamba",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+        "name": "El Amor Es As\u00ed",
+        "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
       },
       "artists": [
         {
@@ -524,12 +460,28 @@
           "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 226629,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
+      "duration_ms": 176758,
+      "name": "Diez Noches de Desvelo",
+      "url": "https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Amor en Zamba",
+        "url": "https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz"
+      },
+      "artists": [
+        {
+          "name": "Carolina Centuri\u00f3n",
+          "url": "https://open.spotify.com/artist/1BwJfy91G91JVvEVM2DEnS"
+        }
+      ],
+      "duration_ms": 263620,
+      "name": "Amor en Zamba",
+      "url": "https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Uno M\u00e1s 6",
         "url": "https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf"
@@ -549,23 +501,55 @@
       "url": "https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "La Madrugada",
-        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+        "name": "Coplas de Sangre, Vol. 5",
+        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
       },
       "artists": [
         {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+          "name": "Mariana Carrizo",
+          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
         }
       ],
-      "duration_ms": 245804,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+      "duration_ms": 165040,
+      "name": "Cuequita del Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/0yNasMmFNCvAv6X7QDk4AJ"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Herencia",
         "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
@@ -581,23 +565,23 @@
       "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Aut\u00f3ctona",
-        "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
       },
       "artists": [
         {
-          "name": "Roxana Carabajal",
-          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 140600,
-      "name": "D\u00edas para Celebrar",
-      "url": "https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg"
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Pajarito",
         "url": "https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK"
@@ -613,7 +597,7 @@
       "url": "https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Jallalla",
         "url": "https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt"
@@ -633,7 +617,71 @@
       "url": "https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Conviccion",
+        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
+      },
+      "artists": [
+        {
+          "name": "Rocio Araujo",
+          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Cuando Me Abandone el Alma",
+      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "La Madrugada",
+        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 245804,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Escondido En Mi Pa\u00eds",
+        "url": "https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Para Cantar He Nacido",
+      "url": "https://open.spotify.com/track/15CwQprmPxIVMNAz3c1HzM"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Remedio Pal Alma",
+        "url": "https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi"
+      },
+      "artists": [
+        {
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "De Los Dias, Los Mas Lindos",
+      "url": "https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Entre Valles y Quebradas",
         "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
@@ -653,55 +701,39 @@
       "url": "https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Conviccion",
-        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
+        "name": "Aleteo",
+        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
       },
       "artists": [
         {
-          "name": "Rocio Araujo",
-          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
+          "name": "Carolina del Carmen Peleritti",
+          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
         }
       ],
-      "duration_ms": 204226,
-      "name": "Cuando Me Abandone el Alma",
-      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
+      "duration_ms": 204700,
+      "name": "Aleteo",
+      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Escondido En Mi Pa\u00eds",
-        "url": "https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj"
+        "name": "Canto Enamorado",
+        "url": "https://open.spotify.com/album/4j9cLwpYYtEVoHxQTNmNrZ"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Para Cantar He Nacido",
-      "url": "https://open.spotify.com/track/15CwQprmPxIVMNAz3c1HzM"
+      "duration_ms": 184100,
+      "name": "Canto Enamorado",
+      "url": "https://open.spotify.com/track/7BRno8jhBTQXCQbqJNFGrq"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ"
@@ -717,7 +749,159 @@
       "url": "https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Lorena Canta al Cuchi",
+        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 260623,
+      "name": "Lavanderas de Rio Chico",
+      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
+        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Do\u00f1a Ubenza",
+      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Las Flores Buenas",
+        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        }
+      ],
+      "duration_ms": 184064,
+      "name": "El Surco",
+      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n de Agua",
+        "url": "https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        },
+        {
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+        }
+      ],
+      "duration_ms": 263428,
+      "name": "Coraz\u00f3n de Agua",
+      "url": "https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Cr\u00eda",
+        "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
+      },
+      "artists": [
+        {
+          "name": "Duratierra",
+          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
+        }
+      ],
+      "duration_ms": 340040,
+      "name": "En el Fresco de la Noche",
+      "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Sarav\u00e1",
+        "url": "https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        }
+      ],
+      "duration_ms": 243058,
+      "name": "Sarav\u00e1",
+      "url": "https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Bendiciones",
+        "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 210771,
+      "name": "Bendiciones",
+      "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Entre Algarroba y Durazno",
+        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cantore",
+          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
+        }
+      ],
+      "duration_ms": 250329,
+      "name": "Entre Algarroba y Durazno",
+      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Las Simples Cosas",
+        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Ysyry",
         "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
@@ -741,143 +925,39 @@
       "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Lorena Canta al Cuchi",
-        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
+        "name": "Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
       },
       "artists": [
         {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+          "name": "Suna Rocha",
+          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
         }
       ],
-      "duration_ms": 260623,
-      "name": "Lavanderas de Rio Chico",
-      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
+      "duration_ms": 286627,
+      "name": "El seclante\u00f1o",
+      "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Cr\u00eda",
-        "url": "https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8"
+        "name": "Vuelve a Sonar",
+        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
       },
       "artists": [
         {
-          "name": "Duratierra",
-          "url": "https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3"
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
         }
       ],
-      "duration_ms": 340040,
-      "name": "En el Fresco de la Noche",
-      "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
+      "duration_ms": 164394,
+      "name": "Vuelve a Sonar",
+      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Aleteo",
-        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
-      },
-      "artists": [
-        {
-          "name": "Carolina del Carmen Peleritti",
-          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Aleteo",
-      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
-        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "Do\u00f1a Ubenza",
-      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Pasionarias",
-        "url": "https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m"
-      },
-      "artists": [
-        {
-          "name": "Silvia Iriondo",
-          "url": "https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7"
-        },
-        {
-          "name": "Carlos Aguirre & Quinteto de Guitarras",
-          "url": "https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5"
-        }
-      ],
-      "duration_ms": 235245,
-      "name": "La Jardinera",
-      "url": "https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Entre Algarroba y Durazno",
-        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
-      },
-      "artists": [
-        {
-          "name": "Clara Cantore",
-          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
-        }
-      ],
-      "duration_ms": 250329,
-      "name": "Entre Algarroba y Durazno",
-      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Canto Enamorado",
-        "url": "https://open.spotify.com/album/4j9cLwpYYtEVoHxQTNmNrZ"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 184100,
-      "name": "Canto Enamorado",
-      "url": "https://open.spotify.com/track/7BRno8jhBTQXCQbqJNFGrq"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Coraz\u00f3n de Agua",
-        "url": "https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst"
-      },
-      "artists": [
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        },
-        {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
-        }
-      ],
-      "duration_ms": 263428,
-      "name": "Coraz\u00f3n de Agua",
-      "url": "https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Tierra, Tan S\u00f3lo",
         "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
@@ -897,55 +977,27 @@
       "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Las Flores Buenas",
-        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
+        "name": "Pasionarias",
+        "url": "https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m"
       },
       "artists": [
         {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        }
-      ],
-      "duration_ms": 184064,
-      "name": "El Surco",
-      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
-      },
-      "artists": [
+          "name": "Silvia Iriondo",
+          "url": "https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7"
+        },
         {
-          "name": "Julia Elena D\u00e1valos",
-          "url": "https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU"
+          "name": "Carlos Aguirre & Quinteto de Guitarras",
+          "url": "https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5"
         }
       ],
-      "duration_ms": 173373,
-      "name": "La Maimare\u00f1a",
-      "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
+      "duration_ms": 235245,
+      "name": "La Jardinera",
+      "url": "https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
-      },
-      "artists": [
-        {
-          "name": "Suna Rocha",
-          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
-        }
-      ],
-      "duration_ms": 286627,
-      "name": "El seclante\u00f1o",
-      "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Ruta 9",
         "url": "https://open.spotify.com/album/6PmRqkGtEiJEoGgvrboqgy"
@@ -961,59 +1013,87 @@
       "url": "https://open.spotify.com/track/2ajI1Zeed4VA6l8h5bXQkD"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Las Simples Cosas",
-        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
       },
       "artists": [
         {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+          "name": "Julia Elena D\u00e1valos",
+          "url": "https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Asuntos Pendientes",
-      "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
+      "duration_ms": 173373,
+      "name": "La Maimare\u00f1a",
+      "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Melod\u00edas que sobran",
-        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
+        "name": "Sigo So\u00f1ando",
+        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
       },
       "artists": [
         {
-          "name": "Nosas",
-          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
+          "name": "Marit\u00e9 Berbel",
+          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
         }
       ],
-      "duration_ms": 208540,
-      "name": "Secretos",
-      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
+      "duration_ms": 170293,
+      "name": "Mate Con Cedr\u00f3n",
+      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Bendiciones",
-        "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
+        "name": "Despu\u00e9s de Usted",
+        "url": "https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF"
       },
       "artists": [
         {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+          "name": "Luna Monti y Juan Quintero",
+          "url": "https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB"
         }
       ],
-      "duration_ms": 210771,
-      "name": "Bendiciones",
-      "url": "https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI"
+      "duration_ms": 153840,
+      "name": "Mba e Pa Do\u00f1a Froilana",
+      "url": "https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "El Cuchi de Camara",
+        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Zamba del Laurel",
+      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "La Noche Sin Ti",
+        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
+      },
+      "artists": [
+        {
+          "name": "Mariel Trimaglio",
+          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
+        }
+      ],
+      "duration_ms": 284605,
+      "name": "La Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Soy Semilla",
         "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
@@ -1029,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Mi Fortuna",
         "url": "https://open.spotify.com/album/5S5fXBVVgU0E56OKh5dowP"
@@ -1053,55 +1133,7 @@
       "url": "https://open.spotify.com/track/4LaPXJhWXZeFphemEgp6M0"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "El Cuchi de Camara",
-        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Zamba del Laurel",
-      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Canciones Brotadas de Mi Ra\u00edz",
-        "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
-      },
-      "artists": [
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "Quisiera Que Salga un Tigre",
-      "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Cosecha",
-          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
-        }
-      ],
-      "duration_ms": 206151,
-      "name": "La Copla Triste",
-      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Humanas Voces",
         "url": "https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac"
@@ -1121,91 +1153,43 @@
       "url": "https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "La Noche Sin Ti",
-        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
+        "name": "Canciones Brotadas de Mi Ra\u00edz",
+        "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
       },
       "artists": [
         {
-          "name": "Mariel Trimaglio",
-          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
         }
       ],
-      "duration_ms": 284605,
-      "name": "La Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
+      "duration_ms": 171413,
+      "name": "Quisiera Que Salga un Tigre",
+      "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Despu\u00e9s de Usted",
-        "url": "https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF"
+        "name": "Verdeado Dulzor",
+        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
       },
       "artists": [
         {
-          "name": "Luna Monti y Juan Quintero",
-          "url": "https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "Mba e Pa Do\u00f1a Froilana",
-      "url": "https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Sigo So\u00f1ando",
-        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
-      },
-      "artists": [
-        {
-          "name": "Marit\u00e9 Berbel",
-          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "Mate Con Cedr\u00f3n",
-      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Mi Cultura La Copla",
-        "url": "https://open.spotify.com/album/3u5xsefVehP9h9sKzxmHbk"
-      },
-      "artists": [
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
         },
         {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+          "name": "Matias Betti",
+          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
         }
       ],
-      "duration_ms": 153969,
-      "name": "Mi Cultura La Copla",
-      "url": "https://open.spotify.com/track/2OuN858EC6856a16wvEIzP"
+      "duration_ms": 151771,
+      "name": "A la Ma\u00f1anita",
+      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
-      "album": {
-        "name": "Soy Semilla",
-        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 220941,
-      "name": "Algo de M\u00ed",
-      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
-    },
-    {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
@@ -1233,76 +1217,84 @@
       "url": "https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Cuando Vuelva a encontrarte",
-        "url": "https://open.spotify.com/album/6QOXVaBClkF46LEXMIaGnW"
+        "name": "La Charo",
+        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
       },
       "artists": [
         {
-          "name": "Mili Escudero y Agus Sol\u00e1",
-          "url": "https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU"
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
         }
       ],
-      "duration_ms": 151613,
-      "name": "Cuando vuelva a encontrarte",
-      "url": "https://open.spotify.com/track/3rCX9nWMuNlpILaIo8otaL"
+      "duration_ms": 207733,
+      "name": "La Marejada",
+      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Verdeado Dulzor",
-        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
+        "name": "Melod\u00edas que sobran",
+        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
       },
       "artists": [
         {
-          "name": "Veronica Condomi",
-          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
-        },
-        {
-          "name": "Matias Betti",
-          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
+          "name": "Nosas",
+          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
         }
       ],
-      "duration_ms": 151771,
-      "name": "A la Ma\u00f1anita",
-      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
+      "duration_ms": 208540,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Anidar",
-        "url": "https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD"
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Sanjurjo Abalos",
-          "url": "https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5"
-        },
-        {
-          "name": "Dar\u00edo Barozzi",
-          "url": "https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z"
+          "name": "Mar\u00eda y Cosecha",
+          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
         }
       ],
-      "duration_ms": 156368,
-      "name": "Astilla de Tus Montes",
-      "url": "https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b"
+      "duration_ms": 206151,
+      "name": "La Copla Triste",
+      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
     },
     {
-      "added_at": "2022-09-23 03:00:00",
+      "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Pasaje al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
+        "name": "Soy Semilla",
+        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
       },
       "artists": [
         {
-          "name": "Claudia Pir\u00e1n",
-          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
         }
       ],
-      "duration_ms": 211040,
-      "name": "Volver\u00e8 Siempre a San Juan",
-      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
+      "duration_ms": 220941,
+      "name": "Algo de M\u00ed",
+      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "La Diablera",
+        "url": "https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS"
+      },
+      "artists": [
+        {
+          "name": "Hilda Herrera",
+          "url": "https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "Chacarera del Santiague\u00f1o",
+      "url": "https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn"
     }
   ],
   "unique_name": "Mujeres del Folklore",

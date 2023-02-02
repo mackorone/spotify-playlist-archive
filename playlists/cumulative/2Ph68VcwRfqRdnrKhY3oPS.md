@@ -4,7 +4,7 @@
 
 > A charming musical touch to the most significant moment in your life.
 
-62 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/4DqjqL6QPrEIXrZLQSjdhH)
+62 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Check out the playlist celebrating the 5th anniversary of PUBG: BATTLEGROUNDS!
 
-22 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/1LahKwnuEXDDWTcjwrDA2o)
+22 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

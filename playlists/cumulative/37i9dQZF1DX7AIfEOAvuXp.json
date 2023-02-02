@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-11",
   "description": "Introducing the Fresh Finds Class of 2020. Editors' picks of the top Fresh Finds this year.",
   "name": "Fresh Finds Presents... Fresh Finds Class of 2020",
-  "published_playlist_ids": [
-    "1giw7CrUS9tqrBMopkrkJg"
-  ],
   "tracks": [
     {
       "album": {
@@ -703,10 +700,28 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 170589,
       "name": "Colors We Made",
       "url": "https://open.spotify.com/track/1EWK3hODDw0DaiS5ffsPO7"
+    },
+    {
+      "album": {
+        "name": "Colors We Made",
+        "url": "https://open.spotify.com/album/6efiQ3j3RIFy6oYHbeziIu"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170589,
+      "name": "Colors We Made",
+      "url": "https://open.spotify.com/track/2wnt2dMobi8aEqsvYK8N0k"
     },
     {
       "album": {
@@ -2819,10 +2834,28 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 251646,
       "name": "The City",
       "url": "https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l"
+    },
+    {
+      "album": {
+        "name": "THIS IS NOT WHAT IT LOOKS LIKE!",
+        "url": "https://open.spotify.com/album/2jGyX0p346kDwHvVqanE8W"
+      },
+      "artists": [
+        {
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251653,
+      "name": "The City",
+      "url": "https://open.spotify.com/track/6MBMMCYbAM9QWEgUCaG9pD"
     },
     {
       "album": {

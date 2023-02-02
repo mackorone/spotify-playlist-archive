@@ -4,7 +4,7 @@
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
-114 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/2dn5lQ5XbZAyok1EXkCng8)
+114 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

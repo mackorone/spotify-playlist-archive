@@ -4,7 +4,7 @@
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-67 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/1wWzoqfCgituqvGu8AuaaR)
+69 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Marechiare](https://open.spotify.com/track/7wKroAM8t7O8X3pi5dc93d) | [Angelo Petisi](https://open.spotify.com/artist/4T105n10onGHqVeuhM7kBF) | [Sunny Mandolins \- Italia \- Italy](https://open.spotify.com/album/5Jvl9WWSXmA1ybsitfe0rz) | 2:21 | 2021-08-13 |  |
 | [Musetta's Waltz](https://open.spotify.com/track/0dNdVclItiQ92xQ4ZfCSAF) | [Music of Italy](https://open.spotify.com/artist/5hY0L5TFb93XBbUoS0QdEF) | [Italian Favorites](https://open.spotify.com/album/75b9gVQdeeBiLx7HR3DZCk) | 3:05 | 2021-08-13 |  |
 | [Neapolitan Dance Song](https://open.spotify.com/track/3lGo7YnPCTJqZ4RJOcgjdV) | [Brisbane Mandolin Ensemble](https://open.spotify.com/artist/1ccdfocjn7dt9qFfk48L9k) | [Italian Mandolins](https://open.spotify.com/album/0j8fwpPiiLk7aK342yPvPb) | 3:02 | 2021-08-13 |  |
-| [Ninna Nanna Fiorentina](https://open.spotify.com/track/3MBd34O1N8CBPH73yfrZml) | [Cafe Roma Ensemble](https://open.spotify.com/artist/6GJYe07o0l9TEehvWYjQDC) | [Café Italia: Traditional Candlelight Italian Favorites](https://open.spotify.com/album/5GzfOWJFaRbAqpDOG0wbLw) | 3:47 | 2021-08-13 |  |
+| [Ninna Nanna Fiorentina](https://open.spotify.com/track/3MBd34O1N8CBPH73yfrZml) | [Cafe Roma Ensemble](https://open.spotify.com/artist/6GJYe07o0l9TEehvWYjQDC) | [Café Italia: Traditional Candlelight Italian Favorites](https://open.spotify.com/album/5GzfOWJFaRbAqpDOG0wbLw) | 3:47 | 2021-08-13 | 2022-12-01 |
+| [Ninna Nanna Fiorentina](https://open.spotify.com/track/1d9V7hBRi8GDBBH808cw9a) | [Orchestra Mandolinistica Italiana](https://open.spotify.com/artist/2AzxDruLyYr98REW4oz3QL) | [Authentic Italy \(Italia Autentica\)](https://open.spotify.com/album/72ulWzsqqvRRcojhPcPzoO) | 3:47 | 2021-08-13 |  |
 | [O Solo Mio](https://open.spotify.com/track/0c9XOgDUDeVe2GPRXgcJxM) | [Italian Café Society](https://open.spotify.com/artist/3n3IBg7QSm0UXSBKcZsCJk) | [Roman Holiday: Traditional Songs of Italy](https://open.spotify.com/album/2bKs85ooXVA6P3fqEuUBCw) | 1:58 | 2021-08-13 |  |
 | [O Solo Mio](https://open.spotify.com/track/26tZoDOFtKl0mL4y5hOxyr) | [Italian Café Society](https://open.spotify.com/artist/3n3IBg7QSm0UXSBKcZsCJk) | [Roman Holiday: Traditional Songs of Italy](https://open.spotify.com/album/2n5QGNNMmHyUpeIIamRXHq) | 1:58 | 2021-08-13 | 2022-07-29 |
 | [O'Sole Mio](https://open.spotify.com/track/3tNOpqXI8vedqkxysISSVo) | [Joel Francisco Perri](https://open.spotify.com/artist/219qF0oC6xvUcZQ2mX3kyv), [Cedric Perri](https://open.spotify.com/artist/36QCHheJDcDZVmzrS2MSlS) | [Joel Francisco Perri: Mandolins From Italy \- 24 Most Popular Melodies](https://open.spotify.com/album/1uwHmi0kP6nt2zQzCvRJgL) | 3:26 | 2021-08-13 | 2022-07-29 |
@@ -55,7 +56,8 @@
 | [Roman Moonlight](https://open.spotify.com/track/696YrAmnNm9wwB4aS14D39) | [Italian Love Song Passione](https://open.spotify.com/artist/30J27cFKb6sD7MfLuaDvCJ) | [That's Amore Italian Love Songs](https://open.spotify.com/album/0wez47X2Aq5WxYY4Wo21OT) | 3:12 | 2021-08-13 |  |
 | [Santa Lucia](https://open.spotify.com/track/2g0fABLi579Nky2MHMFsxl) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 1:06 | 2021-08-13 |  |
 | [Sweet Zucchini Flowers](https://open.spotify.com/track/1P6Okobp6zXxQpZ4kK2mvc) | [Daniele Benati](https://open.spotify.com/artist/35qX6p8b4ZvGmH3u9iI5kn), [Fabio Di Bari](https://open.spotify.com/artist/2j4JhFARcGXR4eVZjzYQ0B) | [Traditional music of italy](https://open.spotify.com/album/21lcrjRLEIAxkyQf9Ablgc) | 1:25 | 2021-08-13 |  |
-| [Te voglio bene assaje](https://open.spotify.com/track/4fr1ZHXbV3tt7onfsqEJR1) | [Cafe Roma Ensemble](https://open.spotify.com/artist/6GJYe07o0l9TEehvWYjQDC) | [Café Italia: Traditional Candlelight Italian Favorites](https://open.spotify.com/album/5GzfOWJFaRbAqpDOG0wbLw) | 3:19 | 2021-08-13 |  |
+| [Te voglio bene assaje](https://open.spotify.com/track/4fr1ZHXbV3tt7onfsqEJR1) | [Cafe Roma Ensemble](https://open.spotify.com/artist/6GJYe07o0l9TEehvWYjQDC) | [Café Italia: Traditional Candlelight Italian Favorites](https://open.spotify.com/album/5GzfOWJFaRbAqpDOG0wbLw) | 3:19 | 2021-08-13 | 2022-12-01 |
+| [Te Voglio Bene Assaje](https://open.spotify.com/track/5pRfuPGGmBJYAED3VztGqO) | [Orchestra Mandolinistica Italiana](https://open.spotify.com/artist/2AzxDruLyYr98REW4oz3QL) | [Authentic Italy \(Italia Autentica\)](https://open.spotify.com/album/72ulWzsqqvRRcojhPcPzoO) | 3:19 | 2021-08-13 |  |
 | [Tempo Che Beve \(“Time To Drink”\)](https://open.spotify.com/track/1ONRcgHHhzLVrXtO5XJmYl) | [Rebecca Arons](https://open.spotify.com/artist/5yWsPDJZtUgZrQyVhLTTBt) | [Mangia! Italian Dinner Night](https://open.spotify.com/album/4DgaA9cywJuxbkFcXmLAkx) | 3:56 | 2021-08-13 |  |
 | [That's Amore](https://open.spotify.com/track/6Tf7s05YCkRLAeeqYqXLy0) | [Italian Love Song Passione](https://open.spotify.com/artist/30J27cFKb6sD7MfLuaDvCJ) | [That's Amore Italian Love Songs](https://open.spotify.com/album/0wez47X2Aq5WxYY4Wo21OT) | 2:51 | 2021-08-13 |  |
 | [Theme From Il Postino](https://open.spotify.com/track/0pVY6O6neKutqWwwIHyqJZ) | [Jeff Steinberg](https://open.spotify.com/artist/4UyLqWWYtZX16NEZWr5k1S) | [Romance In Tuscany](https://open.spotify.com/album/4uA5Ob844NB7HKpjfjLgIq) | 4:08 | 2021-08-13 |  |

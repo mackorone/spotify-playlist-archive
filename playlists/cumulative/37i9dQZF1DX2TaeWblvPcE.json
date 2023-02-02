@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
   "name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
-  "published_playlist_ids": [
-    "4XvItJuMKSSQUCN3RPO6uN"
-  ],
   "tracks": [
     {
       "album": {
@@ -161,7 +158,7 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "date_added": "2022-11-03",
+      "date_added": "2022-11-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 322910,
@@ -445,7 +442,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 269423,
       "name": "BUBBLE POP - Piano Version",
       "url": "https://open.spotify.com/track/6YYUgIvpMo7xGhue0i04C9"
@@ -517,7 +514,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": "2023-01-29",
       "duration_ms": 464504,
       "name": "CANDY POP - Piano Version",
       "url": "https://open.spotify.com/track/1Z3d3LRmpKmcRCYf3MvWQO"
@@ -553,7 +550,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": "2023-01-11",
       "duration_ms": 198802,
       "name": "DALLA DALLA - Piano Version",
       "url": "https://open.spotify.com/track/4nGXFvAlJAv7CFoPvbYyj5"
@@ -679,7 +676,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 258292,
       "name": "DON'T WANNA CRY - Piano Version",
       "url": "https://open.spotify.com/track/1hPmXto0JEfqIDDLstzNIM"
@@ -785,7 +782,7 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "date_added": "2022-11-03",
+      "date_added": "2022-11-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 249042,
@@ -1255,7 +1252,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2023-01-24",
       "duration_ms": 249931,
       "name": "I - Piano Version",
       "url": "https://open.spotify.com/track/4H7RBa63gYxk2nO8F6BAct"
@@ -1603,7 +1600,7 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "date_added": "2022-11-03",
+      "date_added": "2022-11-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 274917,
@@ -1857,7 +1854,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 322781,
       "name": "LET'S NOT FALL IN LOVE - Piano Version",
       "url": "https://open.spotify.com/track/2hDtzaVii5jWrzYt105chl"
@@ -2081,6 +2078,24 @@
     {
       "album": {
         "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 211824,
+      "name": "Love Scenario",
+      "url": "https://open.spotify.com/track/2zGa46tj0yrGPAFiAGa1gF"
+    },
+    {
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
         "url": "https://open.spotify.com/album/6y9fWmLAkkcTL7BAeNuqbb"
       },
       "artists": [
@@ -2109,7 +2124,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 314345,
       "name": "LOVE SCENARIO - Piano Version",
       "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
@@ -2553,7 +2568,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 299483,
       "name": "PALETTE - Piano Version",
       "url": "https://open.spotify.com/track/1bBjmLUDIlKJShMjc0lVRR"
@@ -2823,7 +2838,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 329355,
       "name": "REPLAY - Piano Version",
       "url": "https://open.spotify.com/track/7y2GtIPDukvL7MggApuboS"
@@ -3013,7 +3028,7 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "date_added": "2022-11-03",
+      "date_added": "2022-11-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 131612,
@@ -3267,7 +3282,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 268274,
       "name": "STAY - Piano Version",
       "url": "https://open.spotify.com/track/4X1wN4rp7VznPTH2aFu8qB"
@@ -3483,7 +3498,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 374567,
       "name": "TT - Piano Version",
       "url": "https://open.spotify.com/track/1MDbO3y4nym9ZqEHm6YNOl"

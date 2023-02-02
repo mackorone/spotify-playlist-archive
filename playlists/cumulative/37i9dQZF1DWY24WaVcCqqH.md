@@ -4,7 +4,7 @@
 
 > All the sweetest melodies, in one place.
 
-123 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/0dBVnVm667j7TpR5lj8ZYe)
+123 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

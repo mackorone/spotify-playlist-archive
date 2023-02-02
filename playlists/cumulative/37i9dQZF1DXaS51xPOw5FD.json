@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Euphoric drum & bass tracks for raving in the sunshine!\n",
   "name": "Sunny dnb",
-  "published_playlist_ids": [
-    "2GeJYMZ5IxReZIlK4ofYil"
-  ],
   "tracks": [
     {
       "album": {
@@ -220,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/60I1UREM36C6JxSVPJT1nz"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179517,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr"
+    },
+    {
+      "album": {
         "name": "Raggamuffin SoundTape",
         "url": "https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl"
       },
@@ -253,7 +268,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 363782,
       "name": "Can't Destroy Love",
       "url": "https://open.spotify.com/track/25uYgeEbQmZdQVd0xQQzMn"
@@ -322,7 +337,7 @@
     },
     {
       "album": {
-        "name": "Desire (with Dimension)",
+        "name": "Desire (with Dimension) [Sub Focus & Dimension]",
         "url": "https://open.spotify.com/album/0KlELAN2z6hosr3PA7BAr4"
       },
       "artists": [
@@ -339,7 +354,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215172,
-      "name": "Desire (with Dimension)",
+      "name": "Desire (Sub Focus & Dimension)",
       "url": "https://open.spotify.com/track/507UUx311ghfFTMSuHUeyS"
     },
     {
@@ -835,7 +850,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 355862,
       "name": "I Refuse",
       "url": "https://open.spotify.com/track/1OBi4IRkuVOCegnDHG3xhj"
@@ -871,7 +886,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-14",
       "duration_ms": 314000,
       "name": "Journey Inwards",
       "url": "https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz"
@@ -967,7 +982,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-01",
       "duration_ms": 246896,
       "name": "Long as You Can",
       "url": "https://open.spotify.com/track/4DP59Vpv73jNlpGiWOV8m8"
@@ -995,7 +1010,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202758,
-      "name": "Love To Give (with Culture Shock & Billy Lockett)",
+      "name": "Love To Give (with Billy Lockett)",
       "url": "https://open.spotify.com/track/04fUHQffhV0d4VeeOkXfMN"
     },
     {
@@ -1053,7 +1068,7 @@
           "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
         }
       ],
-      "date_added": "2022-11-26",
+      "date_added": "2022-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170437,
@@ -1151,6 +1166,32 @@
       "duration_ms": 189666,
       "name": "Nobody To Love",
       "url": "https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9"
+    },
+    {
+      "album": {
+        "name": "Oh My (feat. Moby)",
+        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160116,
+      "name": "Oh My (feat. Moby)",
+      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
     },
     {
       "album": {

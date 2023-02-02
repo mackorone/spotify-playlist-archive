@@ -4,7 +4,7 @@
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-77 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/1TTpnQL8vDzEXrA1b6lsMg)
+77 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

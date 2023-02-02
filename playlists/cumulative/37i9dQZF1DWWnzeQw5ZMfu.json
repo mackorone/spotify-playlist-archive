@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
   "name": "Pop Live",
-  "published_playlist_ids": [
-    "1gnHrTzwOKwLkCguLOL3Ry"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,24 @@
       "duration_ms": 226849,
       "name": "7 rings - live",
       "url": "https://open.spotify.com/track/6va6SjWz457IOZidBppAhz"
+    },
+    {
+      "album": {
+        "name": "7 Years (Later) [Live]",
+        "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256896,
+      "name": "7 Years - (Later) [Live]",
+      "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
     },
     {
       "album": {
@@ -949,7 +964,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2023-01-22",
       "duration_ms": 254341,
       "name": "Footloose - Live at John F. Kennedy Stadium, 13th July 1985",
       "url": "https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS"
@@ -1299,7 +1314,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 180346,
       "name": "Hopelessly Devoted To You - Live",
       "url": "https://open.spotify.com/track/1rR0eM3h07YkHcIUb8lcp6"
@@ -1353,7 +1368,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-01",
       "duration_ms": 240813,
       "name": "How Will I Know - Live from The Brit Awards",
       "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
@@ -2107,10 +2122,32 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 274200,
       "name": "Magic - Live",
       "url": "https://open.spotify.com/track/14d4L1iSXXkgO1jJ8zu9M7"
+    },
+    {
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "The Sydney Orchestra",
+          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274200,
+      "name": "Magic - Live",
+      "url": "https://open.spotify.com/track/0C1okCpaUOIftyYFSyyHZi"
     },
     {
       "album": {
@@ -2251,7 +2288,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": "2023-01-26",
       "duration_ms": 262864,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/4Q52hekxZoN7n4NO94IAJW"
@@ -2431,10 +2468,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 420791,
       "name": "Party In The USA - Live",
       "url": "https://open.spotify.com/track/5awub9b8qfJEAhJXhkiWez"
+    },
+    {
+      "album": {
+        "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420791,
+      "name": "Party In The USA - Live",
+      "url": "https://open.spotify.com/track/7t5YIq57DS5djsaZJm1iyM"
     },
     {
       "album": {
@@ -3105,7 +3160,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": "2023-01-10",
       "duration_ms": 285466,
       "name": "The Power Of Love - Live \u00e0 Paris",
       "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
@@ -3405,6 +3460,24 @@
     {
       "album": {
         "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313036,
+      "name": "Wrecking Ball X Nothing Compares 2 U - Live",
+      "url": "https://open.spotify.com/track/2BVTAPMmaDoADdH4AtEQPr"
+    },
+    {
+      "album": {
+        "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
       },
       "artists": [
@@ -3415,7 +3488,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 313036,
       "name": "Wrecking Ball X Nothing Compares 2 U - Live",
       "url": "https://open.spotify.com/track/5ZhDyMdMJrcbkpHcOaGsmn"
@@ -3459,6 +3532,24 @@
     {
       "album": {
         "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181093,
+      "name": "You - Live",
+      "url": "https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR"
+    },
+    {
+      "album": {
+        "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
       },
       "artists": [
@@ -3469,7 +3560,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 181093,
       "name": "You - Live",
       "url": "https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z"
@@ -3559,10 +3650,32 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 231493,
       "name": "You're The One That I Want - Live",
       "url": "https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4"
+    },
+    {
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "The Sydney Orchestra",
+          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231493,
+      "name": "You're The One That I Want - Live",
+      "url": "https://open.spotify.com/track/5FWlmanf50i18yCshnNuF9"
     },
     {
       "album": {

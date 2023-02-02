@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-01",
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Honey Dijon",
   "name": "Black, Queer, & Proud",
-  "published_playlist_ids": [
-    "0Yxcvo3ladWEVkD3pIGKnm"
-  ],
   "tracks": [
     {
       "album": {
@@ -331,7 +328,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 197493,
       "name": "Crushed Velvet",
       "url": "https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm"
@@ -861,7 +858,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2023-01-10",
       "duration_ms": 185786,
       "name": "Got Her Own",
       "url": "https://open.spotify.com/track/5s7REbEOo8rf3qeC0A7vVS"
@@ -1737,7 +1734,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 184711,
       "name": "RE(a)D (with Bas)",
       "url": "https://open.spotify.com/track/3zkb4iEBArtWivbkhw4Jnd"
@@ -1803,6 +1800,24 @@
     {
       "album": {
         "name": "Save Myself",
+        "url": "https://open.spotify.com/album/3DnAvUXUK1MAFnxRLI95JT"
+      },
+      "artists": [
+        {
+          "name": "VINCINT",
+          "url": "https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd"
+        }
+      ],
+      "date_added": "2020-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218305,
+      "name": "Save Myself",
+      "url": "https://open.spotify.com/track/5tg1lqkMF7HvhyaycGRNfe"
+    },
+    {
+      "album": {
+        "name": "Save Myself",
         "url": "https://open.spotify.com/album/7K4LaLprwWw73jpzkoKBZU"
       },
       "artists": [
@@ -1835,7 +1850,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js"
@@ -2053,7 +2068,7 @@
     {
       "album": {
         "name": "Vest & Boxers",
-        "url": "https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1"
+        "url": "https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC"
       },
       "artists": [
         {
@@ -2064,6 +2079,24 @@
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177064,
+      "name": "Vest & Boxers",
+      "url": "https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa"
+    },
+    {
+      "album": {
+        "name": "Vest & Boxers",
+        "url": "https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
       "duration_ms": 177064,
       "name": "Vest & Boxers",
       "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"

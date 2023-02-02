@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
   "name": "Classic Blues Guitar",
-  "published_playlist_ids": [
-    "0WLGgGEvXglWBwuFupEmwy"
-  ],
   "tracks": [
     {
       "album": {
@@ -1034,13 +1031,13 @@
     },
     {
       "album": {
-        "name": "Hound Dog Taylor & The Houserockers",
+        "name": "Hound Dog Taylor and The Houserockers",
         "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
       "artists": [
         {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+          "name": "Hound Dog Taylor & The HouseRockers",
+          "url": "https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a"
         }
       ],
       "date_added": "2020-10-21",

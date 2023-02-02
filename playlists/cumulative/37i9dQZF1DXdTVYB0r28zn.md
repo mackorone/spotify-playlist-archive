@@ -4,7 +4,7 @@
 
 > The sound of jazz today\. Cover: Julian Lage
 
-1,118 songs - 4 day 12 hr 43 min - [published](https://open.spotify.com/playlist/3ReP7JSVN6wvx3cuh3U0ci)
+1,118 songs - 4 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

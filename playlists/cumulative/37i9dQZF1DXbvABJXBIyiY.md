@@ -4,7 +4,7 @@
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-124 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/155vUGZmORDuQImfG0A8fc)
+125 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,9 @@
 | [Detour](https://open.spotify.com/track/7DEY4XYmucW9CajmANlscn) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Detour](https://open.spotify.com/album/3HaXu8yI1wBwmQB2ifgccT) | 3:33 | 2021-10-01 | 2022-10-13 |
 | [Dirty Rain](https://open.spotify.com/track/6hNZ5O5riDfxd2wWNgkjVn) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Dirty Rain](https://open.spotify.com/album/03OHMyiBTEOe4TPtpa0ISr) | 3:12 | 2021-10-01 | 2022-07-29 |
 | [Donoughmore](https://open.spotify.com/track/3hcMGfmZBzpR9l1tkk5Iy2) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:15 | 2021-10-01 |  |
+| [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/track/6hhk528iV6EGtIh9DRlJdM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/3r9bDmZ0W3CROXfLusAymH) | 4:31 | 2022-12-28 |  |
 | [Dreaming \- Mahogany Sessions](https://open.spotify.com/track/11VjvbhJ8QdHC37VktjfUA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/0DvXICZwcJszRJpYglIVOy) | 4:31 | 2021-10-01 | 2022-07-29 |
-| [Dreaming \- Mahogany Sessions](https://open.spotify.com/track/5myjsv8hybpNWNIWtLaW4T) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/58iAtZRKMXR0mg1WntNBsa) | 4:31 | 2021-10-01 |  |
+| [Dreaming \- Mahogany Sessions](https://open.spotify.com/track/5myjsv8hybpNWNIWtLaW4T) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Dreaming \(Mahogany Sessions\)](https://open.spotify.com/album/58iAtZRKMXR0mg1WntNBsa) | 4:31 | 2021-10-01 | 2022-12-25 |
 | [Each Coming Night](https://open.spotify.com/track/0mh7eTsBmQj29bkgpQKoPj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 3:27 | 2021-10-01 | 2022-07-29 |
 | [Each Coming Night](https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 3:27 | 2021-10-01 |  |
 | [Fall](https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310) | [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [At Swim](https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm) | 2:59 | 2021-10-01 |  |
@@ -83,7 +84,7 @@
 | [No One's Gonna Love You \- Live from Spotify Sweden](https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Spotify Sessions](https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX) | 3:59 | 2021-10-01 |  |
 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 | 2021-10-01 |  |
 | [Nothing Clever](https://open.spotify.com/track/1h5O09VQw2qjwGaagI7VFg) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Nothing Clever](https://open.spotify.com/album/2ahTXM30OFPKBCtI2s8Je1) | 3:51 | 2021-10-01 | 2022-07-29 |
-| [Nothing Clever](https://open.spotify.com/track/2sFIDchqcVhlNnpSH1mAGN) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl) | 3:51 | 2021-10-01 |  |
+| [Nothing Clever](https://open.spotify.com/track/2sFIDchqcVhlNnpSH1mAGN) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl) | 3:51 | 2021-10-01 | 2023-01-19 |
 | [O I Long to Feel Your Arms Around Me](https://open.spotify.com/track/0rGB4l2BHJhL4C1s8w6jZG) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 2:23 | 2021-10-01 |  |
 | [O I Long to Feel Your Arms Around Me](https://open.spotify.com/track/17eJJpSWm9JWl4wYmbwixM) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 2:23 | 2021-10-01 | 2022-07-29 |
 | [Old Friend](https://open.spotify.com/track/2SnynjpKEEKBqNCLCsepjR) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Old World Romance](https://open.spotify.com/album/4NLtn3x92tD4q7HeQj5nf7) | 3:57 | 2021-10-01 | 2022-07-27 |
@@ -124,7 +125,7 @@
 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 | 2021-10-01 |  |
 | [The Rains](https://open.spotify.com/track/5Wvf91821sBE8aErRtpfRN) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Rains](https://open.spotify.com/album/2yYjpXzVcJhQ2D0e9dkwjX) | 3:31 | 2021-10-01 | 2022-07-29 |
 | [This Past Storm](https://open.spotify.com/track/4EOsTix8Jb4bugvRG1G7vx) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [This Past Storm](https://open.spotify.com/album/6O9CO6OWkjKgoq1iucyD1w) | 5:43 | 2021-10-01 | 2022-07-29 |
-| [Throwing Good After Bad](https://open.spotify.com/track/2FYOven3y63Jxubz8E7jl6) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 4:07 | 2021-10-01 | 2022-11-15 |
+| [Throwing Good After Bad](https://open.spotify.com/track/2FYOven3y63Jxubz8E7jl6) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 4:07 | 2021-10-01 |  |
 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 | 2021-10-01 |  |
 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 | 2021-10-01 | 2022-11-14 |
 | [Visions of China](https://open.spotify.com/track/5yWCq9N7kIy6DpqXnGilSG) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [C\-Sides](https://open.spotify.com/album/446uL6pnfKQw5IIBwV7jMk) | 3:21 | 2021-10-01 |  |

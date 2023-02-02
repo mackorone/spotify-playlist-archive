@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09buIVUF0Gg.md) - [plain]
 
 > For time with family + friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,647 likes - 37 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709 likes - 37 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

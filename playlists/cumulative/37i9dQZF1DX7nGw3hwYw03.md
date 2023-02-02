@@ -4,7 +4,7 @@
 
 > Essential Alesso originals and remixes.
 
-76 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/4tKFuW2fmInY4mrZMERNFx)
+76 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

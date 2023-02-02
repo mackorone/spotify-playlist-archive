@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2WP80JpJnY.md) - [plain]
 
 > You know\. Epik High Is Here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,605 likes - 67 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,262 likes - 67 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2WP80JpJnY.md) - [plain]
 | 50 | [막을 올리며 Encore](https://open.spotify.com/track/03DZZDvcEeK9E7iv24f8Gr) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a) | 4:34 |
 | 51 | [BLEED](https://open.spotify.com/track/3aFoxoOIdw6WNWH8ZdfXTh) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu) | 3:40 |
 | 52 | [Over](https://open.spotify.com/track/3pEnw8lI3cmoItuKfVysWX) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epilogue](https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919) | 3:44 |
-| 53 | [바보 \(feat\. Bumkey\)](https://open.spotify.com/track/7q72vMxEJ1Yo8iARHrhppO) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Epilogue](https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919) | 4:02 |
+| 53 | [바보 \(Feat\. Bumkey\)](https://open.spotify.com/track/7q72vMxEJ1Yo8iARHrhppO) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Epilogue](https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919) | 4:02 |
 | 54 | [PEOPLE SCARE ME](https://open.spotify.com/track/5pOJ8wtA4ERUsYE3nA30JK) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu) | 3:08 |
 | 55 | [Kill This Love](https://open.spotify.com/track/7gQ6RrBLhvQA49GcZTABOg) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [99](https://open.spotify.com/album/1e2r6700uHv9zThv6bAIDE) | 3:53 |
 | 56 | [Map The Soul \(Worldwide Ver.\) \(Feat\. Tablo, MYK, Kero One\)](https://open.spotify.com/track/13KD4LVOaWU0uxe7UTk67C) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Myk](https://open.spotify.com/artist/0POlGzHsz34BmE7T8klqQI), [Kero One](https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1) | [魂 Map the Soul](https://open.spotify.com/album/3MhH8mOKp9gP4iO3EYg31a) | 4:33 |

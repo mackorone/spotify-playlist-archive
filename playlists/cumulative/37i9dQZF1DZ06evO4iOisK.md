@@ -4,7 +4,7 @@
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/6y5Mw75BnSeKG4v9YvKhmY)
+69 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [LIAR](https://open.spotify.com/track/5Pt3oFMcTVxcekKE9wAbx7) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:13 | 2022-06-09 |  |
 | [Little Summer](https://open.spotify.com/track/3VCel9SsPYeZMQvvz0pNQS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 4:00 | 2022-06-09 |  |
 | [MIDNIGHT](https://open.spotify.com/track/5KeU7MslMMU4NZcJ2GIJdK) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:56 | 2022-06-09 |  |
-| [MOVIN' ON](https://open.spotify.com/track/0PQJTbwPTgwqbCrREYxZnQ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 2:59 | 2022-07-11 | 2022-09-20 |
+| [MOVIN' ON](https://open.spotify.com/track/0PQJTbwPTgwqbCrREYxZnQ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 2:59 | 2022-07-11 | 2022-12-05 |
 | [My Friend](https://open.spotify.com/track/6W4qYHGBNIeKJPwFq3neX1) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:51 | 2022-06-09 |  |
 | [My World](https://open.spotify.com/track/1UuBZ4Q6avTXQH1Kwe4uu8) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 3:35 | 2022-06-09 |  |
 | [Naked](https://open.spotify.com/track/5Nlre0NP8loKSz9uHA8YZX) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/31NpRXdyYJi5TDzG1WQ4bO) | 3:49 | 2022-06-09 |  |

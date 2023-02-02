@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-81 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/2GrckdjTcrkCQD0V0CNGd1)
+81 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

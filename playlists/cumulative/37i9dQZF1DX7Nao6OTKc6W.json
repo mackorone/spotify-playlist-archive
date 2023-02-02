@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "\u00a1Vamos a dar una vuelta en ruedas al ritmo de la m\u00fasica! ",
   "name": "Rollerskater",
-  "published_playlist_ids": [
-    "34A16dQvbaeQCk3691hDqn"
-  ],
   "tracks": [
     {
       "album": {
@@ -89,10 +86,32 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2021-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
     },
     {
       "album": {
@@ -781,7 +800,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2022-12-02",
       "duration_ms": 231691,
       "name": "Melody (1983 Radio Version)",
       "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"

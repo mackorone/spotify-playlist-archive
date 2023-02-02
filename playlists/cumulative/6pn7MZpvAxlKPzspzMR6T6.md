@@ -4,7 +4,7 @@
 
 > Take in the view and get lost in total backroads bliss with this mellow indie folk...
 
-28 songs - 1 hr 58 min - [published](https://open.spotify.com/playlist/5vHPC0U4L5fsZ4dqe05oXh)
+28 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

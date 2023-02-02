@@ -4,7 +4,7 @@
 
 > Congratulations to all of the CMA Awards nominees and winners!
 
-97 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/2baFyIMor5pPe6Ix610XeA)
+97 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

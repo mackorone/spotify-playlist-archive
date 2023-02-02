@@ -4,7 +4,7 @@
 
 > Readings from some of the best minds of the beat generation.
 
-211 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/2ZwMw7TFbY9YtY1eo3JL3Z)
+211 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

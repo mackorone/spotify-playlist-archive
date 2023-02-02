@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-03",
   "description": "Chansons pour ceux qui refusent de laisser l'\u00e9t\u00e9 se terminer.",
   "name": "Les beaux jours",
-  "published_playlist_ids": [
-    "1hQIUdoAweSwm2MugCosGW"
-  ],
   "tracks": [
     {
       "album": {
@@ -1369,10 +1366,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 202857,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/07XcDj4hRVQi3jua32Oyns"
+    },
+    {
+      "album": {
+        "name": "Sables",
+        "url": "https://open.spotify.com/album/1m9Y3hjCPoViOcc1RFJayY"
+      },
+      "artists": [
+        {
+          "name": "De.Ville",
+          "url": "https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202857,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/1Vw0a8mihDSOJLn1Xz8Wkz"
     },
     {
       "album": {
@@ -1527,8 +1542,8 @@
           "url": "https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc"
         },
         {
-          "name": "MC Azas",
-          "url": "https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx"
+          "name": "Mc Azas",
+          "url": "https://open.spotify.com/artist/17N0ZLk7LwYBXT2DsG73KN"
         }
       ],
       "date_added": "2022-06-24",
@@ -1986,6 +2001,36 @@
     },
     {
       "album": {
+        "name": "Caba\u00e7a",
+        "url": "https://open.spotify.com/album/68ApApSjhb7e6xo7HP6vam"
+      },
+      "artists": [
+        {
+          "name": "Diogo Ramos",
+          "url": "https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        },
+        {
+          "name": "B\u00efa",
+          "url": "https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx"
+        },
+        {
+          "name": "Boog\u00e1t",
+          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200002,
+      "name": "Samba do Boncy",
+      "url": "https://open.spotify.com/track/6sxJsk7k16T8EEv2VZpKuX"
+    },
+    {
+      "album": {
         "name": "Samba do Boncy",
         "url": "https://open.spotify.com/album/2eAOTb6xgbkI5ENfuRiYKg"
       },
@@ -2009,7 +2054,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 204692,
       "name": "Samba do Boncy",
       "url": "https://open.spotify.com/track/5kHlvrvbP8aiLvijTSYN0y"
@@ -2031,6 +2076,24 @@
       "duration_ms": 237666,
       "name": "SECRET",
       "url": "https://open.spotify.com/track/3YKlVrY90ttlrdXWTLToj4"
+    },
+    {
+      "album": {
+        "name": "PICTURA DE IPSE : Musique directe",
+        "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237669,
+      "name": "SECRET",
+      "url": "https://open.spotify.com/track/01Ls8VZHxWJS5Ql5LizO0i"
     },
     {
       "album": {
@@ -2063,7 +2126,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 237669,
       "name": "SECRET",
       "url": "https://open.spotify.com/track/6dTPAtFHU6GSDisnMu9C90"

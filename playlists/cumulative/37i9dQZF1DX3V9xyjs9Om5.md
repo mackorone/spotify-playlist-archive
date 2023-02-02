@@ -4,7 +4,7 @@
 
 > You’ll vibe with the frothy pop and empowering club classics in this Pride collection from the Aussie synth\-pop diva with a human touch.
 
-20 songs - 1 hr 5 min - [published](https://open.spotify.com/playlist/0WOZmdC8NvTq0cTTlgtjAR)
+20 songs - 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Enjoy the drama 'YUMI's Cells,' OSTs in a different way with the lines in the drama\. You can watch this drama on TVING as well\. \(드라마 '유미의 세포들'의 OST를 특별한 컨텐츠와 함께 색다르게 즐겨보세요\. TVING에서도 유미의 세포들을 감상하실 수 있습니다.\)
 
-64 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/5cEbykvXLczJRI8HuX8poy)
+64 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

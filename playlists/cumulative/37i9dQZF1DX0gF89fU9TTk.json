@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
   "name": "Hits UP",
-  "published_playlist_ids": [
-    "3TGj756pi2TgmaL4E5mf1J"
-  ],
   "tracks": [
     {
       "album": {
@@ -471,7 +468,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 227136,
       "name": "Diamonds (Something Beautiful)",
       "url": "https://open.spotify.com/track/7qWXA4UfXBEqNs3n5r1dmb"
@@ -1079,6 +1076,24 @@
       "duration_ms": 208733,
       "name": "Heartache",
       "url": "https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5"
+    },
+    {
+      "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225856,
+      "name": "Heaven On Earth - Radio Single",
+      "url": "https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670"
     },
     {
       "album": {
@@ -2513,7 +2528,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-28",
       "duration_ms": 195986,
       "name": "Sound of Freedom",
       "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
@@ -3153,8 +3168,8 @@
       },
       "artists": [
         {
-          "name": "Youngheart",
-          "url": "https://open.spotify.com/artist/4Sws10KYj3cK2OCWweGv75"
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
         }
       ],
       "date_added": "2021-12-31",

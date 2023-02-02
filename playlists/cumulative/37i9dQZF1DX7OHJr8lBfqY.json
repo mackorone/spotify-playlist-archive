@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Add some sabor to your summer! ",
   "name": "Verano Tropical",
-  "published_playlist_ids": [
-    "6zL4nkQYoD59hn01Xh3DUt"
-  ],
   "tracks": [
     {
       "album": {
@@ -653,7 +650,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 184626,
       "name": "Cosas",
       "url": "https://open.spotify.com/track/5dFI94deOPExXpWJftrQ4B"
@@ -812,7 +809,7 @@
     },
     {
       "album": {
-        "name": "Enoc",
+        "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
@@ -1059,7 +1056,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 197538,
       "name": "Goza Pelota",
       "url": "https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR"
@@ -2317,7 +2314,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-04",
       "duration_ms": 294864,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2bsqxGvy8NZUspOL9rRazN"

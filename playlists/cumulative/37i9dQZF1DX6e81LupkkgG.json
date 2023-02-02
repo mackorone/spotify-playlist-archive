@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-02",
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
   "name": "Friozinho",
-  "published_playlist_ids": [
-    "77CETNz3OnGknxn7YVBmE8"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 535611,
       "name": "All I Want - Live in Dublin / 2022",
       "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
@@ -286,6 +283,28 @@
     },
     {
       "album": {
+        "name": "Better Part of Me",
+        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "Better Part of Me",
+      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
+    },
+    {
+      "album": {
         "name": "Better Than We Found It",
         "url": "https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC"
       },
@@ -341,7 +360,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 186986,
       "name": "Bigger Man (with Maren Morris)",
       "url": "https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8"
@@ -659,7 +678,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 212493,
       "name": "Devil On My Shoulder",
       "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
@@ -677,7 +696,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 209125,
       "name": "Dinner Table",
       "url": "https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK"
@@ -865,7 +884,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 263053,
       "name": "Fall On Me",
       "url": "https://open.spotify.com/track/3t7PAG8ByriTrDNWSDCP1x"
@@ -1074,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188792,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB"
+    },
+    {
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/2sUvtzlszdzLwOfr0JNzbr"
       },
@@ -1085,7 +1122,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-04",
       "duration_ms": 180719,
       "name": "Green",
       "url": "https://open.spotify.com/track/5zRaUIOZy6XMrdcDPkCZSX"
@@ -1125,6 +1162,24 @@
       "duration_ms": 226402,
       "name": "Happy For You",
       "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231723,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
     },
     {
       "album": {
@@ -1182,6 +1237,28 @@
     },
     {
       "album": {
+        "name": "Home Movies",
+        "url": "https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Home Movies",
+      "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
+    },
+    {
+      "album": {
         "name": "Hurtless",
         "url": "https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST"
       },
@@ -1215,6 +1292,24 @@
       "duration_ms": 202453,
       "name": "Hypochondriac",
       "url": "https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "album": {
@@ -1294,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "INFINITE",
+        "url": "https://open.spotify.com/album/1AJ3YB7lJ9Z5SrIavCtXUb"
+      },
+      "artists": [
+        {
+          "name": "clide",
+          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167624,
+      "name": "INFINITE",
+      "url": "https://open.spotify.com/track/1yg9AHUzXGYyxJRHQ7Mn5u"
+    },
+    {
+      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -1341,7 +1454,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 234057,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ"
@@ -1637,7 +1750,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 244838,
       "name": "Logo Logo",
       "url": "https://open.spotify.com/track/5IugN9KL3rfirtq7Lfu2MA"
@@ -2164,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Paper Crown",
+        "url": "https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192407,
+      "name": "Paper Crown",
+      "url": "https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -2179,6 +2310,24 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
+    },
+    {
+      "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
     },
     {
       "album": {
@@ -2439,7 +2588,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 206113,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq"
@@ -2461,6 +2610,24 @@
       "duration_ms": 183300,
       "name": "Self Sabotage",
       "url": "https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part (Deluxe)",
+        "url": "https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248284,
+      "name": "Set For Life",
+      "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
     },
     {
       "album": {
@@ -2667,7 +2834,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 218906,
       "name": "Stay (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G"
@@ -3069,7 +3236,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 247002,
       "name": "Unfinished - Acoustic",
       "url": "https://open.spotify.com/track/58c69nIHgrbtwJzaCa4bJL"
@@ -3149,6 +3316,24 @@
       "duration_ms": 183093,
       "name": "Us - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
+    },
+    {
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185358,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: Hillsong Worship
 
-185 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/0s8QQefwdwJjE5Nq6dWGT4)
+185 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

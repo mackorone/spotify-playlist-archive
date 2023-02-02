@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-01",
   "description": "Gym harder, better, faster and longer. Yes, you CAN do it.",
   "name": "You Can Do It",
-  "published_playlist_ids": [
-    "7KYDTb9MPMU550wXeMZesu"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,7 +56,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 216459,
       "name": "A Gentleman In Paris",
       "url": "https://open.spotify.com/track/1nuk4SN4aGkCHNcsMWcI8m"
@@ -319,10 +316,64 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 223008,
       "name": "Baddest",
       "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
+    },
+    {
+      "album": {
+        "name": "Baian\u00e1",
+        "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152558,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
+    },
+    {
+      "album": {
+        "name": "Beat Goes On (Rhythm to the Brain)",
+        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133212,
+      "name": "Beat Goes On (Rhythm to the Brain)",
+      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
+    },
+    {
+      "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
     },
     {
       "album": {
@@ -509,7 +560,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 213875,
       "name": "Caliento",
       "url": "https://open.spotify.com/track/5c5bFCO1suc6DpCmZ6jbRG"
@@ -531,7 +582,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 198620,
       "name": "Castles",
       "url": "https://open.spotify.com/track/2ZDaVy3arKuP2SMALRcUr7"
@@ -553,7 +604,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 215527,
       "name": "Castles",
       "url": "https://open.spotify.com/track/3QdzpmSbCNb8zh98lnUeXE"
@@ -865,7 +916,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-07",
       "duration_ms": 202633,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl"
@@ -1068,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/20Iy2nvzVJl0X1zeoW5T2U"
       },
@@ -1083,7 +1152,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 186000,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6UoIrO15w3w62Jj8kGCnR7"
@@ -1297,7 +1366,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 210000,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
@@ -1494,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Hungry (For Love)",
+        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129375,
+      "name": "Hungry (For Love)",
+      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
+    },
+    {
+      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/0FETAhMXmt1mnN0sQTzRfX"
       },
@@ -1527,7 +1614,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 142200,
       "name": "I Need Some",
       "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
@@ -1597,6 +1684,28 @@
       "duration_ms": 238080,
       "name": "I'm Just Sayin' - Radio Edit",
       "url": "https://open.spotify.com/track/4YviPw2SBoQbGklWcFy014"
+    },
+    {
+      "album": {
+        "name": "Feel So Free Mixtape",
+        "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219687,
+      "name": "It's Just This Thing",
+      "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
     },
     {
       "album": {
@@ -1851,8 +1960,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158095,
-      "name": "Love Tonight - David Guetta Remix Edit",
+      "name": "Love Tonight (David Guetta Remix Edit)",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
+    },
+    {
+      "album": {
+        "name": "M1 Impulse",
+        "url": "https://open.spotify.com/album/0GarBJ7qVEoxu9jD8PlqAq"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236390,
+      "name": "M1 Impulse",
+      "url": "https://open.spotify.com/track/3D0Iy3NlwT9HosJudFISeU"
     },
     {
       "album": {
@@ -2196,6 +2323,54 @@
     },
     {
       "album": {
+        "name": "Oh My (feat. Moby)",
+        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160116,
+      "name": "Oh My (feat. Moby)",
+      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
+    },
+    {
+      "album": {
+        "name": "Out Of Nowhere",
+        "url": "https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        },
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
+    },
+    {
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG"
       },
@@ -2255,7 +2430,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-27",
       "duration_ms": 137343,
       "name": "Rainfall (Praise You) - Nathan Dawe Remix",
       "url": "https://open.spotify.com/track/36VkLBq245WRvM9pVjpQNY"
@@ -2486,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180638,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
+    },
+    {
+      "album": {
         "name": "Share a Little Love (feat. LOWES)",
         "url": "https://open.spotify.com/album/7rLnOU4bFcVx35GSNMqDTt"
       },
@@ -2677,10 +2870,32 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
+    },
+    {
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234053,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
     },
     {
       "album": {
@@ -2907,7 +3122,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 186260,
       "name": "There\u2019s Nothing Else",
       "url": "https://open.spotify.com/track/3379x2xu9JNFFjY3XFn61Z"
@@ -3265,7 +3480,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 197253,
       "name": "When It Rains, It Pours",
       "url": "https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze"

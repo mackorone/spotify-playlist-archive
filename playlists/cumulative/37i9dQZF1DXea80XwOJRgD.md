@@ -4,7 +4,7 @@
 
 > Some heart and soul for those up late.
 
-89 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4GHpFgqd4bd7kxNUP0brg8)
+90 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Cry to Me](https://open.spotify.com/track/69EkVHI0mRHqMXFmXDMLuP) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S\. 2: Save Our Soul: Soul on a Mission](https://open.spotify.com/album/254UZFKtZ4L2TYfU49ovAW) | 2:37 | 2017-11-04 | 2022-08-05 |
 | [Drop of Honey](https://open.spotify.com/track/6e2RwVYEGnsH20GsRBVlNW) | [Eric Kufs](https://open.spotify.com/artist/18KeavvXnAdX2lYib7wgyr) | [The Long \- EP](https://open.spotify.com/album/0UO14h8YsBVpz9GgkllwMo) | 4:17 | 2017-11-04 |  |
 | [Falling](https://open.spotify.com/track/6oUMWq0hCCAdtpcp2GemLd) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [NOW That's What I Call Music! Vol\. 74](https://open.spotify.com/album/6numEuZLppWcXTtfhRJQmd) | 2:34 | 2020-04-08 | 2022-11-13 |
-| [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 | 2020-04-08 |  |
+| [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 | 2020-04-08 | 2022-12-15 |
 | [Falling](https://open.spotify.com/track/2rRJrJEo19S2J82BDsQ3F7) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/1Hy76RlNvOHe6cpih1RxXq) | 2:39 | 2020-04-08 | 2022-07-29 |
 | [Fire We Make](https://open.spotify.com/track/5VIUVUvwHPM2vJaQpznd5W) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 5:21 | 2017-11-04 |  |
 | [Fireproof](https://open.spotify.com/track/0EqA75SHqozxGoPzfkDWfE) | [Mingo Fishtrap](https://open.spotify.com/artist/7mYdzBqQUa1hb8jdRmMpfE) | [On Time](https://open.spotify.com/album/0P1ZQNOoBh0faU0FrKQJlh) | 3:51 | 2017-11-04 |  |
@@ -83,6 +83,7 @@
 | [So Good Today \(feat\. The Dap\-Kings\)](https://open.spotify.com/track/0jJSIuK4FbK3yisVwGGMus) | [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Welcome to the Remixes](https://open.spotify.com/album/0FQQn9kTrlOFGcbtfy9b7v) | 3:20 | 2017-11-04 |  |
 | [So Good Today \- Dapkings Remix](https://open.spotify.com/track/6I9sWDE3Ez9SxBVbPym3GB) | [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Gilles Peterson Presents Brownswood Are One](https://open.spotify.com/album/5pp8vhkYS8oQuB3iSlRZeJ) | 3:20 | 2017-11-04 | 2022-07-29 |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2020-05-30 |  |
+| [Spend My Life With You](https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:36 | 2022-12-14 |  |
 | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/track/44r3hRXVBDA3ZeKxdFvm8l) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 3:44 | 2017-11-04 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2020-05-30 |  |
 | [Till You Come Back Through](https://open.spotify.com/track/1gtn5hAcKPAh5kXiMgSCqA) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/4gv7LjCptAr47MsENyTJuR) | 3:02 | 2017-11-04 | 2022-07-29 |

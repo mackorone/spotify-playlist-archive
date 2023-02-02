@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
   "name": "This Is Angelique Kidjo",
-  "published_playlist_ids": [
-    "25klq3APWVygYEP5K8Bhua"
-  ],
   "tracks": [
     {
       "album": {
@@ -81,7 +78,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 289493,
       "name": "Agolo",
       "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
@@ -103,7 +100,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 370600,
       "name": "Agolo - Da Capo\u2019s Touch",
       "url": "https://open.spotify.com/track/47oYm6GkEl2dAgrxNXSxOj"
@@ -147,7 +144,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 244600,
       "name": "Ahan",
       "url": "https://open.spotify.com/track/2g1PzerypMGvjcR518ZGNv"
@@ -169,7 +166,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": "2023-01-20",
       "duration_ms": 339600,
       "name": "Alikama",
       "url": "https://open.spotify.com/track/2TCPfiaoY9FW1cc8lPHE8x"
@@ -307,7 +304,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 169320,
       "name": "Battu",
       "url": "https://open.spotify.com/track/7rCfUR12fVhth4IyT04Wuv"
@@ -333,7 +330,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 158448,
       "name": "Bidonville - DJ Abdel Remix",
       "url": "https://open.spotify.com/track/7lxtk1QLtyojQiERY9muAF"
@@ -391,7 +388,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 229626,
       "name": "Born Under Punches",
       "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
@@ -643,7 +640,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 238293,
       "name": "Eyin",
       "url": "https://open.spotify.com/track/6P0qBYmfNVbvydDYgdKS0j"
@@ -847,7 +844,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 194800,
       "name": "Jamaica Farewell",
       "url": "https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J"
@@ -869,7 +866,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 268212,
       "name": "Jike'lemaweni",
       "url": "https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq"
@@ -934,6 +931,62 @@
     },
     {
       "album": {
+        "name": "Red Hot + Fela",
+        "url": "https://open.spotify.com/album/7F0vKpkZTsklsKFaVEIUcr"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Akua Naru",
+          "url": "https://open.spotify.com/artist/2xxyuUOZJxayJDF6SxLG2K"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316826,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/5gvaAKMIFt0zrejxzHaDrU"
+    },
+    {
+      "album": {
+        "name": "Red Hot + Fela",
+        "url": "https://open.spotify.com/album/13eEMVoIsfI2nbwkUUE48D"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 316813,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/6FSRJ4uC0TF0p7uy4nN5Ew"
+    },
+    {
+      "album": {
         "name": "Lady",
         "url": "https://open.spotify.com/album/1hssP3abybgapegXIY6NjW"
       },
@@ -957,10 +1010,28 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 315466,
       "name": "Lady",
       "url": "https://open.spotify.com/track/6kixQpOqh28TiGN0Xm70U9"
+    },
+    {
+      "album": {
+        "name": "\u00d5\u0178\u00d6",
+        "url": "https://open.spotify.com/album/27hOMywrRzMaTW45HRzUXX"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-28",
+      "duration_ms": 136106,
+      "name": "Lakutshona Llanga",
+      "url": "https://open.spotify.com/track/7zzn3IA6vULruHJ32GVPA4"
     },
     {
       "album": {
@@ -979,7 +1050,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 162093,
       "name": "Le monde comme un b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/33xaQMAJxMJx61qIZA3zm4"
@@ -1639,7 +1710,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 204240,
       "name": "Salala",
       "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"
@@ -2081,7 +2152,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2023-01-23",
       "duration_ms": 270013,
       "name": "Toro Mata",
       "url": "https://open.spotify.com/track/6BgKLB3tbI3RbbWnLuA7qG"
@@ -2099,7 +2170,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 220493,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/3V0ILZiWW8TStF12xdllmR"
@@ -2291,7 +2362,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": "2023-01-21",
       "duration_ms": 97266,
       "name": "Yemaya",
       "url": "https://open.spotify.com/track/6MsCWGRgENTvcMN59G206p"

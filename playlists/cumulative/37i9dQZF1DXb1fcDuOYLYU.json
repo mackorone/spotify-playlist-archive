@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-22",
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Greeicy",
   "name": "Women of Latin",
-  "published_playlist_ids": [
-    "3pQFKhnY33a9QIrCBLbj5H"
-  ],
   "tracks": [
     {
       "album": {
@@ -149,12 +146,12 @@
           "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         },
         {
-          "name": "Mauricio Renfigo",
-          "url": "https://open.spotify.com/artist/0KOrS1vIyPI4RNJ80VUY8l"
-        },
-        {
           "name": "Andr\u00e9s Torres",
           "url": "https://open.spotify.com/artist/4KLOMib6zqzNayKwLWTs2Q"
+        },
+        {
+          "name": "Mauricio Renfigo",
+          "url": "https://open.spotify.com/artist/0KOrS1vIyPI4RNJ80VUY8l"
         }
       ],
       "date_added": "2022-03-28",
@@ -2475,10 +2472,32 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 200960,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/3DjInVTE03icrWsq2UZV9n"
+    },
+    {
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
     },
     {
       "album": {
@@ -3137,7 +3156,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 139866,
       "name": "X La Ventana",
       "url": "https://open.spotify.com/track/79u1YgyScSQjVkX1nOgvjf"

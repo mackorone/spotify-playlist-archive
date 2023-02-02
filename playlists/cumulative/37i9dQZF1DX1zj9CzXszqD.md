@@ -4,7 +4,7 @@
 
 > A collection of the essential Status Quo songs.
 
-38 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/0mALGxvDniNdUgrsQwQLa2)
+38 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

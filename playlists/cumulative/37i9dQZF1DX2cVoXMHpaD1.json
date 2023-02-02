@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "It's been a great decade for K-Pop. Check it out! Cover: Super Junior",
   "name": "A Decade in K-Pop",
-  "published_playlist_ids": [
-    "6edEqnO5xOL4KxcMgXoKZO"
-  ],
   "tracks": [
     {
       "album": {
@@ -869,7 +866,7 @@
       },
       "artists": [
         {
-          "name": "Hyolyn",
+          "name": "HYOLYN",
           "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         },
         {
@@ -1010,7 +1007,7 @@
       "date_added": "2019-12-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 224548,
+      "duration_ms": 226306,
       "name": "Far away\u2026 Young love",
       "url": "https://open.spotify.com/track/3sm4Y7jIMFIFsviVYo9xXr"
     },
@@ -1809,7 +1806,7 @@
           "url": "https://open.spotify.com/artist/2yaScoMwbIYw6wqdPPQ6bL"
         },
         {
-          "name": "Hyolyn",
+          "name": "HYOLYN",
           "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         }
       ],
@@ -2793,10 +2790,28 @@
       ],
       "date_added": "2019-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 220346,
       "name": "This Love",
       "url": "https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs"
+    },
+    {
+      "album": {
+        "name": "The Classic",
+        "url": "https://open.spotify.com/album/4pZaGrn3Z8xiX6KQYkRRkU"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "date_added": "2019-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220346,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/1tYpbWzCSZjWz6tZxVbyzC"
     },
     {
       "album": {
@@ -2873,7 +2888,7 @@
     {
       "album": {
         "name": "The Return",
-        "url": "https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu"
+        "url": "https://open.spotify.com/album/0bhobOcdGqJ3GG20tM32l5"
       },
       "artists": [
         {
@@ -2884,6 +2899,24 @@
       "date_added": "2019-12-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217171,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4sKAJE5FVYmltDGtmrG1c6"
+    },
+    {
+      "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "date_added": "2019-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
       "duration_ms": 217171,
       "name": "Venus",
       "url": "https://open.spotify.com/track/7FV7Ng7Oj3ToGGlxvIjPtF"

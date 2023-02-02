@@ -4,7 +4,7 @@
 
 > Songs that will make you and your kids laugh.
 
-72 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/6oqlMpPWfZSiIArFsJgjYS)
+73 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Kid in a Candy Store](https://open.spotify.com/track/3i6kLnrrhnOnHNGjfMBm7h) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [Kid in a Candy Store](https://open.spotify.com/album/6lY2JtBkLSZNdv23wo0zik) | 3:01 | 2022-03-11 | 2022-10-13 |
 | [Mr Butt](https://open.spotify.com/track/5LE6ragFpfU11QQymnZBGR) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [The Really Really Really Really Boring Album](https://open.spotify.com/album/2yr8p98bJvQlImtgFhJEH4) | 1:11 | 2022-03-11 |  |
 | [Mr Butt](https://open.spotify.com/track/6bM6ODk3nkv3ZD6vzP1spw) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [The Really Really Really Really Boring Album](https://open.spotify.com/album/1IJSsAAraXkzM5VF6aX4Lj) | 1:11 | 2022-03-11 | 2022-07-29 |
+| [Mr Clicketty Cane \(Wash Your Face In Orange Juice\)](https://open.spotify.com/track/6CSR4ZKN43afBsT0K156RP) | [Peter Combe](https://open.spotify.com/artist/0UrDI2pvxUUaSgkaSkcpjb) | [Spaghetti Bolognaise](https://open.spotify.com/album/0QDafhENJmTHwLCev4X5wV) | 2:31 | 2022-03-11 |  |
 | [My Bologna](https://open.spotify.com/track/77exFA9gOKLvj6yhyX07HD) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | ["Weird Al" Yankovic](https://open.spotify.com/album/1gnhuWdl30liEUM2jy9lxl) | 2:01 | 2022-03-11 |  |
 | [Pink Fluffy Unicorns Dancing On Rainbows](https://open.spotify.com/track/4Xn2RsLiDUDisOgJ24FigK) | [Songs To Wear Pants To](https://open.spotify.com/artist/0UizQYD2qphg8nfPOdeOdX) | [Corduroys, With Tassles](https://open.spotify.com/album/5LwQFB5zCZDbaMQ8f6uSZG) | 1:33 | 2022-03-11 |  |
 | [PPAP \(Pen Pineapple Apple Pen\) \- Long Version](https://open.spotify.com/track/4bw49rU057FSUTpGF4pnxq) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2) | [PPAP \(Pen Pineapple Apple Pen\) \[Long Version\]](https://open.spotify.com/album/0TTreMWrqyCSiKJrnLjvlE) | 2:04 | 2022-03-11 | 2022-07-29 |
@@ -76,7 +77,7 @@
 | [Unicorn](https://open.spotify.com/track/4Plch4ujdrVLaWXw6rf4Qj) | [Tiny Totz Kidz](https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst), [Rob Castell](https://open.spotify.com/artist/51svJlUT5TwYFFJYEAdKdJ) | [Unicorn](https://open.spotify.com/album/7AUJqsGVT2AmB6uw4XU3DA) | 2:06 | 2022-03-11 |  |
 | [VeggieTales Theme Song](https://open.spotify.com/track/1zvKLOtOsOgvYJk9yCErRL) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [VeggieTunes](https://open.spotify.com/album/5eYI49hhEFoEsJqpdWnXDx) | 1:26 | 2022-03-11 |  |
 | [Waffle City](https://open.spotify.com/track/5q3j5mwaPy1ZwA3PnfG4aV) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Waffle City](https://open.spotify.com/album/5SzrF02E4eectM3r6vYMW8) | 2:11 | 2022-03-11 |  |
-| [Wash Your Face in Orange Juice](https://open.spotify.com/track/5jRkrMEQx5FSGIK4EAFvNa) | [Peter Combe](https://open.spotify.com/artist/0UrDI2pvxUUaSgkaSkcpjb) | [Wash Your Face in Orange Juice](https://open.spotify.com/album/4Ve7oPZxQJPw68cXop064A) | 2:34 | 2022-03-11 |  |
+| [Wash Your Face in Orange Juice](https://open.spotify.com/track/5jRkrMEQx5FSGIK4EAFvNa) | [Peter Combe](https://open.spotify.com/artist/0UrDI2pvxUUaSgkaSkcpjb) | [Wash Your Face in Orange Juice](https://open.spotify.com/album/4Ve7oPZxQJPw68cXop064A) | 2:34 | 2022-03-11 | 2022-12-01 |
 | [What If?](https://open.spotify.com/track/3PhcEftWTk4LNq44v68hpV) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:29 | 2022-03-11 |  |
 | [Y.M.C.A.](https://open.spotify.com/track/2Ls4QknWvBoGSeAlNKw0Xj) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l3zEmMrOhOzG8d8s83GOL) | 2:55 | 2022-03-11 | 2022-07-29 |
 | [Y.M.C.A.](https://open.spotify.com/track/45WZ2N9hK3b7KhOECCUGkh) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:55 | 2022-03-11 |  |

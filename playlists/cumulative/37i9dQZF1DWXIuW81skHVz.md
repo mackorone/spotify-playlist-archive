@@ -4,7 +4,7 @@
 
 > The shape of jazz today\. Cover: Kamasi Washington
 
-101 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/1yd2XxEOQ5oq4lnly4pXQ0)
+101 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

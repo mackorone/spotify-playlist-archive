@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
   "name": "Nordic Folk",
-  "published_playlist_ids": [
-    "7tEIBkzo4kHvFj89vdjHtz"
-  ],
   "tracks": [
     {
       "album": {
@@ -203,7 +200,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": "2023-01-09",
       "duration_ms": 203933,
       "name": "Ain't Nobody Like Me",
       "url": "https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe"
@@ -333,7 +330,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 291427,
       "name": "Astoria",
       "url": "https://open.spotify.com/track/4ZTOrqZ171TP9z7ubj2LEt"
@@ -485,7 +482,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-13",
       "duration_ms": 200262,
       "name": "Bluebelle Mountain",
       "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
@@ -528,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1MWU1W7jPAvasm97wTowWO"
+      },
+      "artists": [
+        {
+          "name": "Real Ones",
+          "url": "https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 253757,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/38Mg9q2em0bT8pJaguYh3i"
+    },
+    {
+      "album": {
         "name": "Love EP",
         "url": "https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp"
       },
@@ -557,7 +572,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 238574,
       "name": "Brother",
       "url": "https://open.spotify.com/track/210qO1uNPiBhwNThR8MYW7"
@@ -597,6 +612,24 @@
       "duration_ms": 182626,
       "name": "Buffy",
       "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
+    },
+    {
+      "album": {
+        "name": "By the time you hear this",
+        "url": "https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194081,
+      "name": "By the time you hear this",
+      "url": "https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6"
     },
     {
       "album": {
@@ -1103,7 +1136,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 214986,
       "name": "Glimpse of a Time",
       "url": "https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu"
@@ -1317,10 +1350,28 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 193453,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/0WeqauIUZSjsupDGXsXWsP"
+    },
+    {
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193453,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou"
     },
     {
       "album": {
@@ -1519,7 +1570,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 237506,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/7aqZhafy8ORlgO7wHYixFO"
@@ -1634,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Carvings",
+        "url": "https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln"
+      },
+      "artists": [
+        {
+          "name": "Juni Habel",
+          "url": "https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142333,
+      "name": "Little Twirl",
+      "url": "https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
       },
@@ -1739,6 +1808,24 @@
       "duration_ms": 255853,
       "name": "Love is All",
       "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
+    },
+    {
+      "album": {
+        "name": "Love Your Mother",
+        "url": "https://open.spotify.com/album/6MsMR1tPUtwUG3COCAKKZW"
+      },
+      "artists": [
+        {
+          "name": "Real Ones",
+          "url": "https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209052,
+      "name": "Love Your Mother",
+      "url": "https://open.spotify.com/track/3XKMY7tAFiepGRXI2PVAiA"
     },
     {
       "album": {
@@ -1861,7 +1948,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-24",
       "duration_ms": 263080,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
@@ -1976,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/26csqloo1s3vGsaSeJyNer"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 213000,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/7KyWGpLukZ6Nur6kup0386"
+    },
+    {
+      "album": {
         "name": "One Day at a Time",
         "url": "https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c"
       },
@@ -2081,7 +2186,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 224226,
       "name": "Romain's Place",
       "url": "https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60"
@@ -2286,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218306,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ"
+    },
+    {
+      "album": {
         "name": "N\u00e6rmere",
         "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
       },
@@ -2381,6 +2504,24 @@
       "duration_ms": 271369,
       "name": "Talent for Love",
       "url": "https://open.spotify.com/track/4pkOmfEqFFbzJxnMAlVbhS"
+    },
+    {
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/321CAPcR4HTnaaxR0dus2e"
     },
     {
       "album": {
@@ -3207,7 +3348,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-02-01",
       "duration_ms": 253212,
       "name": "Year of Love",
       "url": "https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7"

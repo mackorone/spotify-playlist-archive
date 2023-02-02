@@ -4,7 +4,7 @@
 
 > Immerse yourself in the dark and beautiful sound of Trentemøller.
 
-35 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/6kXIYrC8YPNSIb9QCcYjSt)
+35 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

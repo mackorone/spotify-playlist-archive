@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9?si=71IZoDndRoWuYhF1DS533w\"> Johnny Drille </a> ",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=KDheyI8wRUGEcTg6RHfEDA\"> Bongeziwe Mabandla</a> ",
   "name": "Afro Indie",
-  "published_playlist_ids": [
-    "2z7lj51FcrlwnyaaEF8RCy"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,10 +38,32 @@
       ],
       "date_added": "2020-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 323163,
       "name": "Afande",
       "url": "https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI"
+    },
+    {
+      "album": {
+        "name": "African Dreams",
+        "url": "https://open.spotify.com/album/3u0AbRSbiEA0AznlbtDrJZ"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235425,
+      "name": "African Dreams - Remix",
+      "url": "https://open.spotify.com/track/1AzyicgmCSykHZPdoD4bne"
     },
     {
       "album": {
@@ -81,7 +100,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 155007,
       "name": "Biwamiel",
       "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
@@ -106,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Bossi Labome",
+        "url": "https://open.spotify.com/album/3uLaeWOrhxm2rWqhJ2163b"
+      },
+      "artists": [
+        {
+          "name": "King Ayisoba",
+          "url": "https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 212947,
+      "name": "Bossi Labome",
+      "url": "https://open.spotify.com/track/1jOqAWKpxvfntPNAQMdoEK"
+    },
+    {
+      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/7fCYNOf16YBpZ3XwByoUmd"
       },
@@ -121,6 +158,24 @@
       "duration_ms": 254424,
       "name": "Circus",
       "url": "https://open.spotify.com/track/7lgrLAXxW1frMbdO5h2wUZ"
+    },
+    {
+      "album": {
+        "name": "Countryside",
+        "url": "https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217829,
+      "name": "Countryside",
+      "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
     },
     {
       "album": {
@@ -160,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Senth Of Her",
+        "url": "https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu"
+      },
+      "artists": [
+        {
+          "name": "Senth",
+          "url": "https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Don't Care",
+      "url": "https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb"
+    },
+    {
+      "album": {
         "name": "Eyes Don't See",
         "url": "https://open.spotify.com/album/2YfwitkJ23gFSfbQJEh0XZ"
       },
@@ -189,7 +262,7 @@
       ],
       "date_added": "2020-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 185759,
       "name": "Fall",
       "url": "https://open.spotify.com/track/2PE70oh4iy1VCSxG9H1vdu"
@@ -207,7 +280,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 306464,
       "name": "Fallo Fall",
       "url": "https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU"
@@ -312,6 +385,32 @@
     },
     {
       "album": {
+        "name": "Isibuko",
+        "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Q Twins",
+          "url": "https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J"
+        },
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278504,
+      "name": "Isoka",
+      "url": "https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx"
       },
@@ -327,6 +426,46 @@
       "duration_ms": 204000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy"
+    },
+    {
+      "album": {
+        "name": "Superpowers",
+        "url": "https://open.spotify.com/album/0XEPP0DkiGxJjk2rTB1oKY"
+      },
+      "artists": [
+        {
+          "name": "Uba Stephen",
+          "url": "https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Justified",
+      "url": "https://open.spotify.com/track/4JmakVNGzH6qD8yBtRXN1g"
+    },
+    {
+      "album": {
+        "name": "Silent Witness II",
+        "url": "https://open.spotify.com/album/56tUJqILM4XfQ0XfyCPqGh"
+      },
+      "artists": [
+        {
+          "name": "Silent Witness",
+          "url": "https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy"
+        },
+        {
+          "name": "Stevo Atambire",
+          "url": "https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165640,
+      "name": "Korba",
+      "url": "https://open.spotify.com/track/6CaEPMe8NUOegYd06CGBWa"
     },
     {
       "album": {
@@ -385,7 +524,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 254608,
       "name": "Magic In The Water",
       "url": "https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX"
@@ -494,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/4ddsZufWZXep03HuxtPJJG"
+      },
+      "artists": [
+        {
+          "name": "Senkulive",
+          "url": "https://open.spotify.com/artist/79ynBppzsEuPprCYBIMxac"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/6GMYPEjFx65qzILJVuLARk"
+    },
+    {
+      "album": {
         "name": "PALM WINE MUSIC",
         "url": "https://open.spotify.com/album/0SM08MFC2SE6HT7YvFEadu"
       },
@@ -505,7 +662,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 235650,
       "name": "MR TRAVELLER",
       "url": "https://open.spotify.com/track/38YA2fKf5cUipivCEdN0If"
@@ -588,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Noba Bangathini",
+        "url": "https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290786,
+      "name": "Noba Bangathini",
+      "url": "https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP"
+    },
+    {
+      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6"
       },
@@ -607,6 +782,46 @@
       "duration_ms": 227748,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt"
+    },
+    {
+      "album": {
+        "name": "Outplayed",
+        "url": "https://open.spotify.com/album/2pyWphlMKiZA7GMRkfiitk"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Christine Cuare",
+          "url": "https://open.spotify.com/artist/3F8V2hgLg4jVkRlZ3BRsnt"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192006,
+      "name": "Outplayed",
+      "url": "https://open.spotify.com/track/6LijFAnGX1XF93ufTgVgIE"
+    },
+    {
+      "album": {
+        "name": "OYA",
+        "url": "https://open.spotify.com/album/7AMlIKwmVYGfhXxJ3hTZPC"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1d\u00e9 Kuti",
+          "url": "https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 199066,
+      "name": "OYA",
+      "url": "https://open.spotify.com/track/2SklWzNh4XgOuRoAvWI4mF"
     },
     {
       "album": {
@@ -672,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Raise Me Up",
+        "url": "https://open.spotify.com/album/4f7DsT5qVrvPvMEcVWhVOp"
+      },
+      "artists": [
+        {
+          "name": "Yorxe",
+          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181631,
+      "name": "Raise Me Up",
+      "url": "https://open.spotify.com/track/4FYldB9dN6Emigix7ppAYO"
+    },
+    {
+      "album": {
         "name": "Satin Cassette",
         "url": "https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV"
       },
@@ -701,7 +934,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 165200,
       "name": "Rwangaguhunga",
       "url": "https://open.spotify.com/track/7vpqMS7jm4j7IoRpTd5wWf"
@@ -755,7 +988,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 239836,
       "name": "Shidaa",
       "url": "https://open.spotify.com/track/2hLPTyeShZCBFAKI25umC1"
@@ -1063,7 +1296,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 181478,
       "name": "WDYWFM (feat. L0la)",
       "url": "https://open.spotify.com/track/48m7Kit1AFXmJuH244X4x7"

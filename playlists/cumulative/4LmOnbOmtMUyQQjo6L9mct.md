@@ -4,7 +4,7 @@
 
 > Enjoy the sweet rhythms of bossa nova \- the perfect marriage of samba and jazz.
 
-41 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/2uWHbzFin9pQaAxg6ohkKX)
+41 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 
 > Get ready for a great week of golf with song picks from Justin Thomas, Jon Rahm, Bubba Watson, Collin Morikawa, & Max Homa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003 likes - 58 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004 likes - 58 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 | 44 | [In It for the Money](https://open.spotify.com/track/6qSsGgfqDqy8mZVkn5SOXr) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [In It for the Money \- EP](https://open.spotify.com/album/3BWgTGkZfnqx6n1e2uFoXh) | 3:57 |
 | 45 | [Here And Now](https://open.spotify.com/track/7qRVyZDt1Caftkk8CQlKtk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 2:51 |
 | 46 | [Jungle](https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:09 |
-| 47 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 |
+| 47 | [Sweet Emotion](https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:34 |
 | 48 | [Out There](https://open.spotify.com/track/2cLbHhoGUUDFygKYSksKHV) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:23 |
 | 49 | [Good Times Roll](https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:38 |
 | 50 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 | 57 | [Want That Old Thing Back \(feat\. Ja Rule & Ralph Tresvant\) \- 2007 Remaster](https://open.spotify.com/track/2bDg8Sb7MFNPcnxUM6ln2R) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ralph Tresvant](https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt) | [Greatest Hits](https://open.spotify.com/album/2yDwwjGzGEcyJMEJuCNyiP) | 4:58 |
 | 58 | [No Role Modelz](https://open.spotify.com/track/69kFyd2ymmN4o7o4ozZCQS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/5EVSKBHF8YN0zyMCONnrAn) | 4:52 |
 
-Snapshot ID: `MTY0OTE4MzE3MSwwMDAwMDAwMGFkNDE2ZGE5NzFkMGUxMGYyYzM2ZDhhNzUyNGE0ODNh`
+Snapshot ID: `MTY0OTE4MzE3MSwwMDAwMDAwMGM3ZWEwYWE2MTNiNjQxYzJmNDkyOWI5Y2VlOGIyMjFj`

@@ -4,7 +4,7 @@
 
 > Disfruta toda la música de Rombai!
 
-48 songs - 2 hr 11 min - [published](https://open.spotify.com/playlist/3YVkTrZYIq6W40UKFuURZc)
+48 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

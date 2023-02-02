@@ -4,7 +4,7 @@
 
 > Enjoy a sun\-dappled stroll to these folksy, mid\-tempo gems.
 
-22 songs - 1 hr 31 min - [published](https://open.spotify.com/playlist/1dXZZ9Egm4pvZHvYx8KpEc)
+22 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

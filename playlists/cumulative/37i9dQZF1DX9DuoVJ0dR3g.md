@@ -4,7 +4,7 @@
 
 > Generation defining music, one playlist.
 
-62 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/5dxrgiDbd1PKMHmIO4juKN)
+62 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

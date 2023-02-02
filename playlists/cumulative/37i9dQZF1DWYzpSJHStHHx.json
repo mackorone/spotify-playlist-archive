@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Hang ten.",
   "name": "Surf Rock Sunshine",
-  "published_playlist_ids": [
-    "7xuY9VzYKx31liJVjNf8ux"
-  ],
   "tracks": [
     {
       "album": {
@@ -235,7 +232,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-25",
       "duration_ms": 268466,
       "name": "Beach Comber",
       "url": "https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO"
@@ -307,7 +304,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-09",
       "duration_ms": 195000,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/2NjepWsgyVUNZY2MtZSwKw"
@@ -379,7 +376,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-13",
       "duration_ms": 260782,
       "name": "Broken Finger Blues",
       "url": "https://open.spotify.com/track/71FYSkmSyrEncuZDqBnPiS"
@@ -707,6 +704,24 @@
       "duration_ms": 147653,
       "name": "DARLING",
       "url": "https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B"
+    },
+    {
+      "album": {
+        "name": "daydreams",
+        "url": "https://open.spotify.com/album/4u90ynQDviPV7DKt2Lg749"
+      },
+      "artists": [
+        {
+          "name": "again&again",
+          "url": "https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 134522,
+      "name": "daydreams",
+      "url": "https://open.spotify.com/track/6KdNWhoB9bpgYyfoFuhMPz"
     },
     {
       "album": {
@@ -1423,7 +1438,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -1481,7 +1496,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 144000,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
@@ -1535,7 +1550,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "I Follow You",
       "url": "https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW"
@@ -1589,7 +1604,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": "2022-12-30",
       "duration_ms": 287135,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/1EXMtjti643XyQLiGDdki0"
@@ -1805,10 +1820,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 156811,
       "name": "Johny Says Stay Cool",
       "url": "https://open.spotify.com/track/2EOIrxpEkRXfwnvxk54Up0"
+    },
+    {
+      "album": {
+        "name": "The Babe Rainbow",
+        "url": "https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156811,
+      "name": "Johny Says Stay Cool",
+      "url": "https://open.spotify.com/track/6wPXCLMgpEZIt7TNTURGKe"
     },
     {
       "album": {
@@ -1895,7 +1928,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 223053,
       "name": "Let the Sun In",
       "url": "https://open.spotify.com/track/6qMiZK4mGuCRkVwRFds4Sm"
@@ -1971,7 +2004,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 153414,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP"
@@ -2061,7 +2094,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-01",
       "duration_ms": 194152,
       "name": "Mixed Up and Confused",
       "url": "https://open.spotify.com/track/1bFgm9PdCQeKsEpqOWn1II"
@@ -2367,10 +2400,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 194292,
       "name": "Peace Blossom Boogy",
       "url": "https://open.spotify.com/track/0Mfcw67Xb68PJJNsfxRi7L"
+    },
+    {
+      "album": {
+        "name": "The Babe Rainbow",
+        "url": "https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194292,
+      "name": "Peace Blossom Boogy",
+      "url": "https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD"
     },
     {
       "album": {
@@ -2803,7 +2854,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 154000,
       "name": "Sk8 Hi",
       "url": "https://open.spotify.com/track/253tZyRP0qeH35ch1LVnIP"
@@ -2893,10 +2944,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 193251,
       "name": "Something New",
       "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
+    },
+    {
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ"
     },
     {
       "album": {
@@ -2983,7 +3052,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-16",
       "duration_ms": 150713,
       "name": "Sun Medallion",
       "url": "https://open.spotify.com/track/0sSVTKSPiim06zGApr2NC1"
@@ -3055,7 +3124,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 257859,
       "name": "Super Natural",
       "url": "https://open.spotify.com/track/729EEmzEdLEg6wJo0gqvDO"
@@ -3167,6 +3236,24 @@
       "duration_ms": 217600,
       "name": "Taking Up Space",
       "url": "https://open.spotify.com/track/7i28aaEucsoEeEfZLHZHb1"
+    },
+    {
+      "album": {
+        "name": "Zest Pop",
+        "url": "https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp"
+      },
+      "artists": [
+        {
+          "name": "Mustard Service",
+          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217656,
+      "name": "Taking up Space",
+      "url": "https://open.spotify.com/track/2l0KF9ywMxglacqb7Nb6H0"
     },
     {
       "album": {

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641: \u0645\u062d\u0645\u062f \u0627\u0644\u062a\u0631\u0643\u064a ",
+  "description": "\u0627\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641: \u0645\u062d\u0645\u0648\u062f \u0627\u0644\u062a\u0631\u0643\u064a ",
   "name": "\u0639\u0631\u0627\u0642\u064a \u062c\u062f\u064a\u062f",
-  "published_playlist_ids": [
-    "2b4NEcjpEh5tkIFGfGPh1W"
-  ],
   "tracks": [
     {
       "album": {
@@ -80,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Aash Al Iraq",
+        "url": "https://open.spotify.com/album/23Y7MnkwtRpyeENSYl0roa"
+      },
+      "artists": [
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216486,
+      "name": "Aash Al Iraq",
+      "url": "https://open.spotify.com/track/053ueKG1li1W9dPxKPwcFp"
+    },
+    {
+      "album": {
         "name": "Abn Al Khain",
         "url": "https://open.spotify.com/album/1yJ54uNqTlz0UYzXEIFFYc"
       },
@@ -95,6 +110,24 @@
       "duration_ms": 202021,
       "name": "Abn Al Khain",
       "url": "https://open.spotify.com/track/4fJR2YdREjWfxSYhx9CaC0"
+    },
+    {
+      "album": {
+        "name": "Abous El Sodfa",
+        "url": "https://open.spotify.com/album/3M2Q05YLGxIUPHVVet0dMX"
+      },
+      "artists": [
+        {
+          "name": "Saif Nabeel",
+          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233513,
+      "name": "Abous El Sodfa: Abous El Sodfa",
+      "url": "https://open.spotify.com/track/5DGQSn4bSDfXpBBP9LhDya"
     },
     {
       "album": {
@@ -131,7 +164,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 192182,
       "name": "Aerif Ealam",
       "url": "https://open.spotify.com/track/3lR76Thi8qiARWyR56fRqf"
@@ -225,7 +258,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 157200,
       "name": "Al Kaaen Al Khyali",
       "url": "https://open.spotify.com/track/0EMIL4R3HQyZkCnIw8DT07"
@@ -301,6 +334,42 @@
       "duration_ms": 220909,
       "name": "Alb Abyad",
       "url": "https://open.spotify.com/track/3KZVDZxoe4Yg5goKnIo7eI"
+    },
+    {
+      "album": {
+        "name": "Alhob Malik",
+        "url": "https://open.spotify.com/album/1isYU8e5FwVDnqgxF1Sx0o"
+      },
+      "artists": [
+        {
+          "name": "Zaid Al Habeb",
+          "url": "https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214804,
+      "name": "Alhob Malik",
+      "url": "https://open.spotify.com/track/3WgxnFv3nAsCdFaiRUdKbR"
+    },
+    {
+      "album": {
+        "name": "Allah Honej",
+        "url": "https://open.spotify.com/album/4jjIGbKOJrpXMylxaDZDnw"
+      },
+      "artists": [
+        {
+          "name": "Yasser Abd Alwahab",
+          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Allah Honej",
+      "url": "https://open.spotify.com/track/4NjgpqzC3K5e93GIXgOnk9"
     },
     {
       "album": {
@@ -913,7 +982,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 227544,
       "name": "Dabrole Dam3a",
       "url": "https://open.spotify.com/track/5k1u7jIpoKQSR90fbiJINY"
@@ -935,6 +1004,28 @@
       "duration_ms": 190400,
       "name": "Dag El Galb",
       "url": "https://open.spotify.com/track/1YZwEiO1KyH9IFHwrMSl6u"
+    },
+    {
+      "album": {
+        "name": "Dai Alkomar",
+        "url": "https://open.spotify.com/album/2FV4sjYYhZd8RfVL4QwyFB"
+      },
+      "artists": [
+        {
+          "name": "Mohamed AlSalim",
+          "url": "https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S"
+        },
+        {
+          "name": "Daffy",
+          "url": "https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "Dai Alkomar",
+      "url": "https://open.spotify.com/track/48gQ8RYW4HRkmzLRwnNxsC"
     },
     {
       "album": {
@@ -971,6 +1062,24 @@
       "duration_ms": 194759,
       "name": "Daqeqa w 3am",
       "url": "https://open.spotify.com/track/1XTbPVrq3N4xmviSRKLr1P"
+    },
+    {
+      "album": {
+        "name": "Darb El Sad",
+        "url": "https://open.spotify.com/album/2HxDgePGbP8ROQzJ2FibIw"
+      },
+      "artists": [
+        {
+          "name": "Jafar Al Ghazal",
+          "url": "https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162320,
+      "name": "Darb El Sad",
+      "url": "https://open.spotify.com/track/3hx65WepvPot9JCOS6v7dx"
     },
     {
       "album": {
@@ -1043,6 +1152,24 @@
       "duration_ms": 242640,
       "name": "El Barha",
       "url": "https://open.spotify.com/track/2vyRQqSjCIfODAyqntNjlG"
+    },
+    {
+      "album": {
+        "name": "El Basrah Deratkom",
+        "url": "https://open.spotify.com/album/1dXkaX93cYXNKfk0NfoHpw"
+      },
+      "artists": [
+        {
+          "name": "Husam Al Rassam",
+          "url": "https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "El Basrah Deratkom",
+      "url": "https://open.spotify.com/track/70oDODFvWgXmG0xkkMPAvh"
     },
     {
       "album": {
@@ -1303,7 +1430,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 184747,
       "name": "Etlaa Aghati",
       "url": "https://open.spotify.com/track/10juBpJzpYj5v0fd6rPJUx"
@@ -1379,7 +1506,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 222440,
       "name": "Gher Any",
       "url": "https://open.spotify.com/track/0az73QKySqn6l23TWoljUt"
@@ -1437,6 +1564,24 @@
       "duration_ms": 195500,
       "name": "Hai El Resala",
       "url": "https://open.spotify.com/track/0YHeI00TOV6j4sb9F9fFN1"
+    },
+    {
+      "album": {
+        "name": "Hala Wallah",
+        "url": "https://open.spotify.com/album/2rIpKtnFsrlLunNFcHIO4f"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Hala Wallah",
+      "url": "https://open.spotify.com/track/0CW5JdaXMKgZP0KUJ4fNt2"
     },
     {
       "album": {
@@ -1739,7 +1884,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 238550,
       "name": "Kemt Akrahak",
       "url": "https://open.spotify.com/track/6dUcVMzyhHtc53fIEKbzOf"
@@ -1883,7 +2028,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 204545,
       "name": "Kolshy Ma Bayha",
       "url": "https://open.spotify.com/track/17bI0GhEjP59OHu4yuYjst"
@@ -2179,7 +2324,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 250906,
       "name": "Mitghaer W Halyan",
       "url": "https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn"
@@ -2241,7 +2386,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 227500,
       "name": "My Angel",
       "url": "https://open.spotify.com/track/49cz53NuIM51grKU3vzfw6"
@@ -2259,7 +2404,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 268235,
       "name": "Nar",
       "url": "https://open.spotify.com/track/1KFRIHZppFpLIQXhyVjniO"
@@ -2455,6 +2600,24 @@
       "duration_ms": 252666,
       "name": "Sawaha",
       "url": "https://open.spotify.com/track/5tgFTjK1pebHMxDVKqo05F"
+    },
+    {
+      "album": {
+        "name": "Shaghlha",
+        "url": "https://open.spotify.com/album/0Pb0ZSWOhv8C7MwKFqOj4z"
+      },
+      "artists": [
+        {
+          "name": "Ali Alsalem",
+          "url": "https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169104,
+      "name": "Shaghlha",
+      "url": "https://open.spotify.com/track/7K394fQv4B1E8HR2zM4tHL"
     },
     {
       "album": {
@@ -2711,10 +2874,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 216572,
       "name": "Tektbli W Aktblk",
       "url": "https://open.spotify.com/track/3WA0CwoDzefz4psnqrnM1I"
+    },
+    {
+      "album": {
+        "name": "Teqharni",
+        "url": "https://open.spotify.com/album/4uFC4ZwPpCvWn6N1g4CNk9"
+      },
+      "artists": [
+        {
+          "name": "Habeeb Ali",
+          "url": "https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "Teqharni",
+      "url": "https://open.spotify.com/track/4h9CNuscmTV86HN8tSHvqL"
     },
     {
       "album": {
@@ -2859,7 +3040,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 277500,
       "name": "Waiak",
       "url": "https://open.spotify.com/track/6iJ9ROZDjbvKBr8cdrVNiF"
@@ -2899,6 +3080,24 @@
       "duration_ms": 171666,
       "name": "Watan - From the original TV Series",
       "url": "https://open.spotify.com/track/2MQpKJNVY6hMnkpOHQsAG7"
+    },
+    {
+      "album": {
+        "name": "Rezq El Wared",
+        "url": "https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az"
+      },
+      "artists": [
+        {
+          "name": "Ahlam",
+          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240885,
+      "name": "Wayak Wayak",
+      "url": "https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC"
     },
     {
       "album": {
@@ -3043,7 +3242,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 280950,
       "name": "Yazid Alhama",
       "url": "https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM"
@@ -3145,6 +3344,24 @@
       "duration_ms": 184246,
       "name": "\u0627\u0635\u0639\u062f \u0644\u0644\u0643\u0645\u0631",
       "url": "https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0634\u0631 \u062c\u0630\u0627\u0628",
+        "url": "https://open.spotify.com/album/7bJUnmJQsDKjOEICBZXzBy"
+      },
+      "artists": [
+        {
+          "name": "Dumooa Tahseen",
+          "url": "https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "\u0628\u0634\u0631 \u062c\u0630\u0627\u0628",
+      "url": "https://open.spotify.com/track/2suDDctIHTYB0kST9Fr2B9"
     },
     {
       "album": {

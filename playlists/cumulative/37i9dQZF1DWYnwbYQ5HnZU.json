@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Spotify country fan favorites. Artist: Blake Shelton",
+  "description": "Spotify country fan favorites. Artist: Luke Combs",
   "name": "Country Gold",
-  "published_playlist_ids": [
-    "3vjMXQTn6bhqRtB1DcgbIL"
-  ],
   "tracks": [
     {
       "album": {
@@ -217,7 +214,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 230333,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
@@ -1195,7 +1192,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 217840,
       "name": "Girl In A Country Song",
       "url": "https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI"
@@ -1321,7 +1318,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-26",
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
@@ -1563,7 +1560,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 156275,
       "name": "hole in the bottle (with Shania Twain)",
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
@@ -2160,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
+    },
+    {
+      "album": {
         "name": "Greetings From...Jake",
         "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
       },
@@ -2337,7 +2352,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 239506,
       "name": "Mine Would Be You",
       "url": "https://open.spotify.com/track/1zvQt99d5oTkEQLmSoO1yu"
@@ -2601,7 +2616,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 253373,
       "name": "Over You",
       "url": "https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav"
@@ -2785,7 +2800,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 197453,
       "name": "Settling Down",
       "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
@@ -2955,7 +2970,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 169586,
       "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"

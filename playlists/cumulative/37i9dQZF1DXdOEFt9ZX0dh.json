@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Classic rock to get your motor running. Cover: AC/DC",
   "name": "Classic Rock Drive",
-  "published_playlist_ids": [
-    "3cdz0aucHBK1vPaIUIR7Mz"
-  ],
   "tracks": [
     {
       "album": {
@@ -685,7 +682,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-29",
       "duration_ms": 205666,
       "name": "Carry On Wayward Son - Single Version",
       "url": "https://open.spotify.com/track/5sMIFZaagXcwKiSfl95zIW"
@@ -703,7 +700,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-18",
       "duration_ms": 265067,
       "name": "Casey Jones - 2013 Remaster",
       "url": "https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8"
@@ -1045,10 +1042,28 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267596,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
     },
     {
       "album": {
@@ -1081,7 +1096,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 163800,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
@@ -1099,7 +1114,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 299200,
       "name": "Flirtin' with Disaster",
       "url": "https://open.spotify.com/track/61BywQA7q8KjpGjp3rHuRv"
@@ -1880,7 +1895,7 @@
     },
     {
       "album": {
-        "name": "Don't Say No",
+        "name": "Don't Say No (Remastered 2010)",
         "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
       },
       "artists": [
@@ -1893,7 +1908,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 281453,
-      "name": "Lonely Is The Night - Remastered",
+      "name": "Lonely Is The Night - Remastered 2010",
       "url": "https://open.spotify.com/track/28eg5bkYvIHT7HPmzZFwLN"
     },
     {
@@ -1945,7 +1960,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 328360,
       "name": "Magic Man",
       "url": "https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE"
@@ -3105,7 +3120,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -3116,6 +3131,24 @@
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 274133,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
@@ -3302,7 +3335,7 @@
     },
     {
       "album": {
-        "name": "Don't Say No",
+        "name": "Don't Say No (Remastered 2010)",
         "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
       },
       "artists": [
@@ -3315,7 +3348,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217613,
-      "name": "The Stroke - Remastered",
+      "name": "The Stroke - Remastered 2010",
       "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
     },
     {
@@ -3415,7 +3448,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -3426,6 +3459,24 @@
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"

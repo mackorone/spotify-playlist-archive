@@ -4,7 +4,7 @@
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-70 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/4vM64ZMVSwtnmECx082lsj)
+71 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,9 @@
 | [Poème Electronique](https://open.spotify.com/track/6gdOMWMd4WKHU03vfmxkIp) | [Edgard Varèse](https://open.spotify.com/artist/0enRaCZSvIUa2nVC7I4roi) | [Varèse: The Complete Works](https://open.spotify.com/album/1GVXkLXndn3JMWi9bftSZF) | 8:02 | 2022-01-07 |  |
 | [Requiem: Dies Irae](https://open.spotify.com/track/2rNcTGZDoTyph4Pr6tQnrO) | [Michel Chion](https://open.spotify.com/artist/2ozHdIM8I61aAYW7WlSno5) | [An Anthology Of Noise And Electronic Music Vol.3 \(Third\-A\-Chronology\)](https://open.spotify.com/album/45EWD3WMf5gZY833sDJbos) | 6:00 | 2022-01-07 |  |
 | [Revolution 9 \- Remastered 2009](https://open.spotify.com/track/5dZ8PeKKZJLIQAWNTdp8WX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 8:22 | 2022-01-07 |  |
-| [Science & Industry](https://open.spotify.com/track/5k7TXJ6IwxCiqU5z0V6laU) | [Phil Young](https://open.spotify.com/artist/3jbkcQVR0WH0APuO1Gd4Ly) | [Roots of Electronica Vol\. 2, European Avant\-Garde, Noise and Experimental Music](https://open.spotify.com/album/5296k3euZM2KzXQsTPNkqN) | 0:28 | 2022-01-07 |  |
+| [Science & Industry](https://open.spotify.com/track/5k7TXJ6IwxCiqU5z0V6laU) | [Phil Young](https://open.spotify.com/artist/3jbkcQVR0WH0APuO1Gd4Ly) | [Roots of Electronica Vol\. 2, European Avant\-Garde, Noise and Experimental Music](https://open.spotify.com/album/5296k3euZM2KzXQsTPNkqN) | 0:28 | 2022-01-07 | 2022-12-04 |
 | [Science & Industry](https://open.spotify.com/track/5pAZhawFE5XMjnSWApssUg) | [Phil Young](https://open.spotify.com/artist/3jbkcQVR0WH0APuO1Gd4Ly) | [Electronycs Vol.4, 20th Century Early Electronic, Noise and Experimental Music\. 1920\-1960](https://open.spotify.com/album/6OAZsSkpQaUeOXzRWDcT3L) | 0:28 | 2022-01-07 | 2022-07-29 |
+| [Science and Industry](https://open.spotify.com/track/7jCdR2wBBmGI9ZXZVGb5Ln) | [Phil Young](https://open.spotify.com/artist/7zPjfafzGdjuMFEaUBzRMU) | [BBC Radiophonic Workshop \- 21](https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy) | 0:31 | 2022-10-04 |  |
 | [Sfaira](https://open.spotify.com/track/1NbYTv2CmPmu1ecmlHjUd3) | [Tilman Ehrhorn](https://open.spotify.com/artist/2Xryn0qneP0nHP67bvb5Fm), [An Moku](https://open.spotify.com/artist/0N1t5LXpAaEakJ3f2zdGA4) | [Sfaira](https://open.spotify.com/album/58culJGdA7C6pCnHg7dL2t) | 6:38 | 2022-01-07 |  |
 | [Sound Patterns](https://open.spotify.com/track/4A7U5MG1gtnEciBG9MxNP5) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Brandeis University Chamber Chorus](https://open.spotify.com/artist/4XVSALf4pwJEFbkIgC5IBA), [Alvin Lucier](https://open.spotify.com/artist/0ARBCE8g4PI0TO7PEYMm0Z) | [Extended Voices](https://open.spotify.com/album/5cd1WvUjpDzBLq2bc9nDcr) | 4:00 | 2022-01-07 |  |
 | [Study for Voice and Tape](https://open.spotify.com/track/7vrvKZU7gsRgh3yMBr07OY) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Columbia\-Princeton Electronic Music Center 1961\-1973](https://open.spotify.com/album/2G4IrmveiWoH0yMAZDPfbe) | 5:17 | 2022-01-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 61 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 379 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 25 | [History](https://open.spotify.com/track/1OA8mjWFtbYqGHEP4N5lUd) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Story of Me](https://open.spotify.com/album/6sbx4lCpIoLgk9LBGMpwMe) | 3:27 |
 | 26 | [Walking Through The Desert](https://open.spotify.com/track/6nAnpLRB9KQPg2juqXbzHe) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Finest Selection: The Greatest Hits](https://open.spotify.com/album/3LwLqcW85aPAOIZz6qH4MJ) | 3:22 |
 | 27 | [Naked](https://open.spotify.com/track/7wM5hNcY1bLFUmZKp9mKkw) | [The Tide](https://open.spotify.com/artist/6cXVCUCVlW1JSPxRHoelTb) | [Young Love](https://open.spotify.com/album/0NKH3ImlF1nODufKjyYpqT) | 2:55 |
-| 28 | [Riotka](https://open.spotify.com/track/6mxgoXjwUX3jRy9myivNle) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:05 |
+| 28 | [Riotka](https://open.spotify.com/track/0qz3ec9XhWJgMNddMlgoD6) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:05 |
 | 29 | [All The Time](https://open.spotify.com/track/20k8E1XXdBdBJPQJq0G5YI) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Girl Problems](https://open.spotify.com/album/4HUIhXljD7mEOJDEn9ytCC) | 3:28 |
 | 30 | [The Chase](https://open.spotify.com/track/0FZlnRFL7ZgzGdnC4BKt4S) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:20 |
 | 31 | [Lazy Lovers](https://open.spotify.com/track/1v7XmP992YPIdBhMlknnBL) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Twilight Zone](https://open.spotify.com/album/5icIasbyaQwyG6ptiThzzt) | 3:27 |
 | 32 | [Still Standing](https://open.spotify.com/track/4zUhhxvvoVMH4mZ1fdr2ld) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Still Standing \- SM STATION](https://open.spotify.com/album/24CLUCxTxhwygLoY8gEMNy) | 3:14 |
 | 33 | [Just Like That](https://open.spotify.com/track/3UENMxXGcezMRDxpBPdMbn) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Just Like That](https://open.spotify.com/album/78ZOrEwPBjbrPO6eYaYN87) | 2:49 |
-| 34 | [Honeymoon](https://open.spotify.com/track/2bzv4zdBugbECUkWU3upM9) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [MASSIVE](https://open.spotify.com/album/4uxJa8tBMhBLA49owkf4gK) | 3:24 |
-| 35 | [Nie Pytaj Mnie](https://open.spotify.com/track/5fB1BAJ7w9bCpjqycKiW3R) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/2akYw7MJlw64qR6Q9x8sDe) | 3:19 |
+| 34 | [HONEYMOON](https://open.spotify.com/track/1JXoACZvZMnk5jsM3NJ9J5) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [MASSIVE](https://open.spotify.com/album/5aJ6EYd1rvIP0bp2zaO92H) | 3:24 |
+| 35 | [Nie Pytaj Mnie](https://open.spotify.com/track/7eQQZnk2eYukRlWSN771gl) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Aquaria](https://open.spotify.com/album/3FaKZInkisRAjTCc6nKyrv) | 3:19 |
 | 36 | [It Will Never Be Over](https://open.spotify.com/track/2qjxsqWn39qiIAdMeBnZF2) | [CAGGIE](https://open.spotify.com/artist/1heHpKKrCRibu4H4CjNjAD) | [It Will Never Be Over](https://open.spotify.com/album/6YHTdr373eX4wZQjDSonNS) | 3:11 |
 | 37 | [I Need a Night Out](https://open.spotify.com/track/0desJH8bu68LRIzBCe3Cnv) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [I Need a Night Out](https://open.spotify.com/album/0HhYDwhESPSeuyDjVxGRBV) | 3:20 |
 | 38 | [Shame on You](https://open.spotify.com/track/5lt7oJ8gR64dbPSlptVOqb) | [Claire Richards](https://open.spotify.com/artist/2YoYDF80se1baOnPA7T6Pm) | [My Wildest Dreams \(Deluxe\)](https://open.spotify.com/album/3r7DvhjGgF3Wwkp3QZ1njf) | 3:32 |
@@ -56,18 +56,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 46 | [Closure](https://open.spotify.com/track/6jIJGY708HktwKqBe4LHeS) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/3AgzZrEeCYpaWgmVrik9jZ) | 3:02 |
 | 47 | [Memories](https://open.spotify.com/track/410nVRhyCAa4acMVB031iC) | [Dr\. Arnd Stein](https://open.spotify.com/artist/1ImmZaVk1stF4WEhz4CzaS) | [Top Hits Zum Entspannen, Vol\. 2](https://open.spotify.com/album/1lXRiGoCxvwxHjxokKDYW7) | 6:13 |
 | 48 | [Dizzy](https://open.spotify.com/track/66wY9Ppol67ODxjtRoYLbg) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/4NQ6wigiT0h1tNN7Y6KY8P) | 3:36 |
-| 49 | [Liverpool](https://open.spotify.com/track/1OFKUwul0KnJA4v4em3rso) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [The End Of The Storm \(Official Soundtrack\)](https://open.spotify.com/album/1WmdszaBk5ksWMRLar99TC) | 3:39 |
-| 50 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 |
-| 51 | [Vabank](https://open.spotify.com/track/7mlveqBsHCR5a9SEDVo7lS) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Puzzle](https://open.spotify.com/album/1Vdso29GjI3NKulPRhGSeX) | 3:33 |
-| 52 | [Cloud 9](https://open.spotify.com/track/0ijO1PJmUZ3xyQCJoPiL2f) | [Sophia Saffarian](https://open.spotify.com/artist/3OYpczYjEISLcctUwoRWM3) | [Cloud 9](https://open.spotify.com/album/6ZeBIX2GhNkmYH57rwrzZa) | 3:04 |
-| 53 | [ALL MY PEOPLE \- 中文版](https://open.spotify.com/track/5QzzgDutL6lCfL8r9oB6NL) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/5horZvhbK2RHcYZayVHpe3) | 3:46 |
-| 54 | [Cry Baby](https://open.spotify.com/track/3QQKbpLfV89Jcl33vWrIWI) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/6IqhUb6X6WWRm2hde1MiyT) | 2:54 |
-| 55 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
-| 56 | [Get Away](https://open.spotify.com/track/01dbqbILV6Xp0omwxIZFOY) | [Angel Valdueza](https://open.spotify.com/artist/3JZKtORRzaYbEpTpp3H5RK) | [Get Away](https://open.spotify.com/album/14PTHi9hgtGbIGno1Rgpv6) | 2:48 |
-| 57 | [Don't Wait Too Long](https://open.spotify.com/track/5yUG1UgHD2LjpuQkJjOlJu) | [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Shadow Man \(feat\. Sasha Gracanin\)](https://open.spotify.com/album/5debPYP5vc7Cl4gJE3hbpT) | 3:16 |
-| 58 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
-| 59 | [Hurricane](https://open.spotify.com/track/5Ro4XYBG7ZED9IAWh2v0Qs) | [Morana](https://open.spotify.com/artist/36krahH0YDL5Md6rpRUkP6) | [Hurricane](https://open.spotify.com/album/0l4IrKrrpuV5PMoVLJCjhT) | 3:24 |
-| 60 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
-| 61 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
+| 49 | [Cloud 9](https://open.spotify.com/track/0ijO1PJmUZ3xyQCJoPiL2f) | [Sophia Saffarian](https://open.spotify.com/artist/3OYpczYjEISLcctUwoRWM3) | [Cloud 9](https://open.spotify.com/album/6ZeBIX2GhNkmYH57rwrzZa) | 3:04 |
+| 50 | [Liverpool](https://open.spotify.com/track/1OFKUwul0KnJA4v4em3rso) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [The End Of The Storm \(Official Soundtrack\)](https://open.spotify.com/album/1WmdszaBk5ksWMRLar99TC) | 3:39 |
+| 51 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 |
+| 52 | [Vabank](https://open.spotify.com/track/7mlveqBsHCR5a9SEDVo7lS) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Puzzle](https://open.spotify.com/album/1Vdso29GjI3NKulPRhGSeX) | 3:33 |
+| 53 | [Goodbye](https://open.spotify.com/track/3hyhiK6GT3I5e2pJBOT2yc) | [Riza Raquel](https://open.spotify.com/artist/4e9Vcf27riqB6oA9IgWSpb) | [Goodbye](https://open.spotify.com/album/5Ot1evmXCckrToeHdqslPG) | 3:35 |
+| 54 | [ALL MY PEOPLE \- 中文版](https://open.spotify.com/track/5QzzgDutL6lCfL8r9oB6NL) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/5horZvhbK2RHcYZayVHpe3) | 3:46 |
+| 55 | [Cry Baby](https://open.spotify.com/track/3QQKbpLfV89Jcl33vWrIWI) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/6IqhUb6X6WWRm2hde1MiyT) | 2:54 |
+| 56 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
+| 57 | [Get Away](https://open.spotify.com/track/01dbqbILV6Xp0omwxIZFOY) | [Angel Valdueza](https://open.spotify.com/artist/3JZKtORRzaYbEpTpp3H5RK) | [Get Away](https://open.spotify.com/album/14PTHi9hgtGbIGno1Rgpv6) | 2:48 |
+| 58 | [Don't Wait Too Long](https://open.spotify.com/track/5yUG1UgHD2LjpuQkJjOlJu) | [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Shadow Man \(feat\. Sasha Gracanin\)](https://open.spotify.com/album/5debPYP5vc7Cl4gJE3hbpT) | 3:16 |
+| 59 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
+| 60 | [Hurricane](https://open.spotify.com/track/5Ro4XYBG7ZED9IAWh2v0Qs) | [Morana](https://open.spotify.com/artist/36krahH0YDL5Md6rpRUkP6) | [Hurricane](https://open.spotify.com/album/0l4IrKrrpuV5PMoVLJCjhT) | 3:24 |
+| 61 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
+| 62 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `Mjc4MjM3NDEsMDAwMDAwMDAyZDY2NDY4MzdhN2M4N2MyMjhlYzVlNGIwODJlZGM2Yg==`
+Snapshot ID: `Mjc5MjE2MDEsMDAwMDAwMDA0MjIwNzdkYjM1Yzg3NGEwZDQxMjI4NzY5MWM1ODFiZg==`

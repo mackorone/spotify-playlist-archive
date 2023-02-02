@@ -4,7 +4,7 @@
 
 > Älskade fotbollslåtar, samlade i en spellista\. Officiella mästerskapslåtar, varvat med inofficiella hyllningar och storslagna arenahymner\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 
-33 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/1ZpqOxiwNSxEyBvc076Da5)
+33 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

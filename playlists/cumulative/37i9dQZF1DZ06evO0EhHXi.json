@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-11",
   "description": "This is Ramones. The essential tracks, all in one playlist.",
   "name": "This Is Ramones",
-  "published_playlist_ids": [
-    "5ZxP7JHkbgCsoZsdWaI04b"
-  ],
   "tracks": [
     {
       "album": {
@@ -325,7 +322,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 162920,
       "name": "Go Mental - 2018 Remaster",
       "url": "https://open.spotify.com/track/6HRoLDxi1mMJQmNMC98HCH"
@@ -440,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "I Just Want to Have Something to Do - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29F9vWkIUVQj2F4kX9EYre"
+    },
+    {
+      "album": {
         "name": "Adios Amigos",
         "url": "https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB"
       },
@@ -451,7 +466,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 139400,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/5A9QXobyNHl8xjPZMn5kWS"
@@ -617,6 +632,24 @@
       "duration_ms": 92480,
       "name": "Judy Is a Punk - 2016 Remaster",
       "url": "https://open.spotify.com/track/0vGCxnTwYZFtOAW3oz28kd"
+    },
+    {
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 111866,
+      "name": "Let's Dance - 2016 Remaster",
+      "url": "https://open.spotify.com/track/5wPUGMFkGjNQH9W3FkgkGt"
     },
     {
       "album": {
@@ -847,7 +880,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 154760,
       "name": "Psycho Therapy - 2002 Remaster",
       "url": "https://open.spotify.com/track/2ts97xvejbOEi0H5LAVCX8"
@@ -1214,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Adios Amigos",
+        "url": "https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147066,
+      "name": "The Crusher",
+      "url": "https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr"
+    },
+    {
+      "album": {
         "name": "Loco Live",
         "url": "https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ"
       },
@@ -1351,7 +1402,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 161266,
       "name": "You Sound Like You're Sick - 2002 Remaster",
       "url": "https://open.spotify.com/track/47tVRotmsKNeNqO7xU5og2"

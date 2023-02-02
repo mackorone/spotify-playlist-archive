@@ -4,7 +4,7 @@
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: Wednesday
 
-59 songs - 2 hr 35 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
+60 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Time of the Season](https://open.spotify.com/track/6im4Ks6SWUqwTGp7Cft1e7) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Time of the Season](https://open.spotify.com/album/3xhlrGx740Jp150YJMD40I) | 3:34 | 2021-10-25 |  |
 | [Time Warp \(feat\. Ross Lynch, Jaz Sinclair, Lachlan Watson & Jonathan Whitesell\)](https://open.spotify.com/track/6en12s2Ocdq3djFzddKnWT) | [Cast of Chilling Adventures of Sabrina](https://open.spotify.com/artist/4Y43D0ynLoyZ3HxOPGxxFq), [Jaz Sinclair](https://open.spotify.com/artist/1r1KZELI7St1vW7NAgdojS), [Jonathan Whitesell](https://open.spotify.com/artist/4WyNg49cyglYzuxQDQDPxr), [Lachlan Watson](https://open.spotify.com/artist/480ajAJgy6thXBJ3u9GPSC), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH) | [Chilling Adventures of Sabrina: Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3ig71BXB7CSFeaM3nYbIAX) | 2:45 | 2021-10-25 |  |
 | [Undercurrents](https://open.spotify.com/track/2YsL81CORA2J71h4Gh50Ow) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Bird Box \(Abridged\) \[Original Score\]](https://open.spotify.com/album/7i42GDZyq7HKW0kzW0djCW) | 4:03 | 2021-10-25 |  |
+| [Wednesday Main Titles](https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF) | 1:09 | 2022-11-28 |  |
 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 | 2021-10-25 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

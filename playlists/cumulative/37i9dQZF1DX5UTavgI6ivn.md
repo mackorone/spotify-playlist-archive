@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Juanes
 
-155 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
+155 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

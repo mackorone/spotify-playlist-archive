@@ -4,7 +4,7 @@
 
 > The best of Irish history, poetry, and prose.
 
-121 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/2AhaFMjgNIVtaAjp9GzrSp)
+121 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

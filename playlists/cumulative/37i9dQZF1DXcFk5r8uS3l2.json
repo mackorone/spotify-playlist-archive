@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
   "name": "Blues Roots",
-  "published_playlist_ids": [
-    "3G1eoqHvHRUa7LJeikn6w5"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,42 @@
       "duration_ms": 103077,
       "name": "4 Edward",
       "url": "https://open.spotify.com/track/33AfkIQqriOQPBHUNhfs1w"
+    },
+    {
+      "album": {
+        "name": "500 Miles",
+        "url": "https://open.spotify.com/album/0shW2Ea6gtcqAYOm2bPDMg"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/1oVkFIm3zqa7fy5nUxFyhH"
+    },
+    {
+      "album": {
+        "name": "61 South",
+        "url": "https://open.spotify.com/album/20rYQgHGiV23Mhz6TCfJRy"
+      },
+      "artists": [
+        {
+          "name": "Brianna Harness",
+          "url": "https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 80976,
+      "name": "61 South",
+      "url": "https://open.spotify.com/track/1NG0CP8midHLl5rvXfx2MA"
     },
     {
       "album": {
@@ -301,6 +334,28 @@
       "duration_ms": 195340,
       "name": "belladonna",
       "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
+    },
+    {
+      "album": {
+        "name": "Better Days (feat. Dave Fenley)",
+        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
+      },
+      "artists": [
+        {
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
     },
     {
       "album": {
@@ -709,7 +764,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 323008,
       "name": "Colors - Acoustic",
       "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
@@ -792,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Devil and the Deep Blue",
+        "url": "https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "Devil and the Deep Blue",
+      "url": "https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N"
+    },
+    {
+      "album": {
         "name": "TajMo",
         "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
       },
@@ -861,14 +934,14 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 231253,
       "name": "Down to the River",
       "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
     },
     {
       "album": {
-        "name": "stripped back (Stripped Back)",
+        "name": "stripped back",
         "url": "https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3"
       },
       "artists": [
@@ -973,6 +1046,24 @@
       "duration_ms": 137413,
       "name": "Feels so Bad - Previously Unreleased Take",
       "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
+    },
+    {
+      "album": {
+        "name": "Fiddle",
+        "url": "https://open.spotify.com/album/5tlMpDBnEsbFPkgTNcpWyU"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 192809,
+      "name": "Fiddle",
+      "url": "https://open.spotify.com/track/1yqA8U6NTglVeBWoLwpwAO"
     },
     {
       "album": {
@@ -1355,6 +1446,24 @@
     {
       "album": {
         "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144985,
+      "name": "Have a Ball",
+      "url": "https://open.spotify.com/track/46I1B1wc6YddZzK50swoSD"
+    },
+    {
+      "album": {
+        "name": "If These Walls Could Talk",
         "url": "https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c"
       },
       "artists": [
@@ -1533,7 +1642,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 270820,
       "name": "Hitchin' a Ride",
       "url": "https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN"
@@ -1733,6 +1842,24 @@
       "duration_ms": 232346,
       "name": "I Feel A Sin Coming On",
       "url": "https://open.spotify.com/track/0BgoEUr5NlIr3smY951qll"
+    },
+    {
+      "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232346,
+      "name": "I Feel A Sin Coming On",
+      "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
     },
     {
       "album": {
@@ -2213,7 +2340,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 144106,
       "name": "Love Like There's No Tomorrow",
       "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
@@ -2321,7 +2448,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-03",
       "duration_ms": 229626,
       "name": "Man On Fire - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva"
@@ -2357,7 +2484,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 209475,
       "name": "Mood",
       "url": "https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R"
@@ -2591,7 +2718,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 238455,
       "name": "Not Ready To Let Go",
       "url": "https://open.spotify.com/track/4nXIogA01ib6VLHPPKZPxt"
@@ -2703,6 +2830,24 @@
       "duration_ms": 161675,
       "name": "Over You",
       "url": "https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn"
+    },
+    {
+      "album": {
+        "name": "Pound Cake",
+        "url": "https://open.spotify.com/album/4A8sYt7IcNdz4PTxsXTFWK"
+      },
+      "artists": [
+        {
+          "name": "Drake White",
+          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179717,
+      "name": "Pound Cake",
+      "url": "https://open.spotify.com/track/3goF1TzajL2w26cwbVuIlt"
     },
     {
       "album": {
@@ -2962,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Terra Santa",
+        "url": "https://open.spotify.com/album/3utismh5YS0OUEc0M0pDb2"
+      },
+      "artists": [
+        {
+          "name": "Ash Radford",
+          "url": "https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 240000,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/2M6f90yKmcXK71HGVpnOcB"
+    },
+    {
+      "album": {
         "name": "Right On",
         "url": "https://open.spotify.com/album/0bHzlnQ4InLhnDwrqL0nBC"
       },
@@ -3111,7 +3274,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 188869,
       "name": "Shake! Shake! Shake!",
       "url": "https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73"
@@ -3129,7 +3292,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 228226,
       "name": "She",
       "url": "https://open.spotify.com/track/2QQl8r7xYRQgqRA1UOHjWH"
@@ -3201,7 +3364,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 179310,
       "name": "Sober",
       "url": "https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6"
@@ -3778,6 +3941,28 @@
     },
     {
       "album": {
+        "name": "Push The Blues Away",
+        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221213,
+      "name": "Thinking 'Bout Myself",
+      "url": "https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q"
+    },
+    {
+      "album": {
         "name": "Thinking 'Bout Myself",
         "url": "https://open.spotify.com/album/7syVmnY6K5xSSeeeRcx9yX"
       },
@@ -3793,7 +3978,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 221213,
       "name": "Thinking 'Bout Myself",
       "url": "https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1"
@@ -3869,6 +4054,24 @@
       "duration_ms": 314117,
       "name": "Through The Darkest Night",
       "url": "https://open.spotify.com/track/0L5K4w34pUNo5azuKac5zd"
+    },
+    {
+      "album": {
+        "name": "Throw That Stone",
+        "url": "https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178668,
+      "name": "Throw That Stone",
+      "url": "https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx"
     },
     {
       "album": {
@@ -3963,7 +4166,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 244536,
       "name": "Unchained",
       "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
@@ -4129,7 +4332,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 232600,
       "name": "What Did I Do",
       "url": "https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym"

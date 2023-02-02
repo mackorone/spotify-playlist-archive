@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-129 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/1oIqvSth1lQrZdmEB66StS)
+130 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 | 2021-11-16 |  |
 | [Come Unto Me](https://open.spotify.com/track/5pyaHaySKoujQJPepKrzJG) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Water](https://open.spotify.com/album/7neio4srvDRACrUSTdpMMf) | 5:27 | 2022-06-09 |  |
 | [Come Unto Me](https://open.spotify.com/track/7KkfYszsJqO6HflwlDJEWJ) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Come Unto Me](https://open.spotify.com/album/7im2ggXam5d2J2Oj7KPB6Z) | 5:27 | 2021-11-16 | 2022-07-29 |
-| [Cool](https://open.spotify.com/track/7pqb3FO1D5bucT7mPrcEhE) | [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [Cool](https://open.spotify.com/album/1L4FJnhFhJiroTz0b8wbb1) | 5:40 | 2022-04-22 |  |
+| [Cool](https://open.spotify.com/track/7GsKO7ufjgkIybjpQAKg1N) | [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [Cool](https://open.spotify.com/album/76rnaiB7jwjigFyYKg9JsD) | 5:40 | 2022-06-09 |  |
+| [Cool](https://open.spotify.com/track/7pqb3FO1D5bucT7mPrcEhE) | [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [Cool](https://open.spotify.com/album/1L4FJnhFhJiroTz0b8wbb1) | 5:40 | 2022-04-22 | 2023-02-02 |
 | [De Otra Forma](https://open.spotify.com/track/2Fs8YMvVL0GXhzA2OBvCgU) | [Sueuga Kamau](https://open.spotify.com/artist/1PO6esSj88BOLjfrnCdUFM) | [Como El Viento, Vuelve](https://open.spotify.com/album/4wzr8PFNtJWdU9yxqzHGbJ) | 4:40 | 2022-06-09 |  |
 | [Dickscipline](https://open.spotify.com/track/2UBbbRi3ReN6y8xAZ2KN82) | [Ms\. Boogie](https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq) | [Dickscipline](https://open.spotify.com/album/3V16MYzSW6nfGl9sp619N0) | 2:36 | 2021-11-16 |  |
 | [Din Da Da \- Da Da Edit](https://open.spotify.com/track/4JvNdWJEkAhDQ3wavy1Wdh) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Din Da Da \(Original Mixes\)](https://open.spotify.com/album/5tKYWPtgmsv68D4PqhfTCD) | 3:11 | 2021-11-16 |  |

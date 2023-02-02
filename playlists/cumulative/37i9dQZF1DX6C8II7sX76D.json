@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-01-17",
   "description": "pov: u hand the internet the aux",
   "name": "Viral Dance",
-  "published_playlist_ids": [
-    "4jWPG0cqAOP6wtAEReRH0H"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Give It To Me (Remix)",
+        "url": "https://open.spotify.com/album/3bqPkfqc4dMwmdyxIESBEf"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0QKhC7BGbjb38EsW8Dgm5r"
+    },
     {
       "album": {
         "name": "#BrooklynBloodPop!",
@@ -183,7 +198,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 358266,
       "name": "B.O.T.A. (Baddest Of Them All)",
       "url": "https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso"
@@ -302,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM"
+    },
+    {
+      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E"
       },
@@ -317,6 +350,24 @@
       "duration_ms": 188260,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/44xO8889yUQHn70P73NILS"
+    },
+    {
+      "album": {
+        "name": "Boy's a liar",
+        "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131253,
+      "name": "Boy's a liar",
+      "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
     },
     {
       "album": {
@@ -451,7 +502,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 171720,
       "name": "Cbat",
       "url": "https://open.spotify.com/track/0AzD1FEuvkXP1verWfaZdv"
@@ -625,7 +676,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 267227,
       "name": "Dead To Me - Slow + Reverb",
       "url": "https://open.spotify.com/track/7xnElMPFCmSlMJ0AY2hnxc"
@@ -774,6 +825,28 @@
     },
     {
       "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239888,
+      "name": "Escapism. - Sped Up",
+      "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
+    },
+    {
+      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -903,7 +976,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 120157,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
@@ -943,6 +1016,82 @@
       "duration_ms": 197013,
       "name": "GASLIGHT",
       "url": "https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx"
+    },
+    {
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5"
+      },
+      "artists": [
+        {
+          "name": "Mckyyy",
+          "url": "https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 171808,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq"
+    },
+    {
+      "album": {
+        "name": "Give It To Me (Party Party) (Remix)",
+        "url": "https://open.spotify.com/album/0FRow91LCygMthx8yIEBVf"
+      },
+      "artists": [
+        {
+          "name": "Muppet DJ",
+          "url": "https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny"
+        },
+        {
+          "name": "SECA Records",
+          "url": "https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 171755,
+      "name": "Give It To Me (Party Party) - Remix",
+      "url": "https://open.spotify.com/track/17B3JX4cJdnY0jEkZPjNMO"
+    },
+    {
+      "album": {
+        "name": "Give It To Me (TikTok) [Remix]",
+        "url": "https://open.spotify.com/album/5oVwCen70A8H4kKHf1bily"
+      },
+      "artists": [
+        {
+          "name": "DJ Fronteo",
+          "url": "https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 171850,
+      "name": "Give It To Me (TikTok) - Remix",
+      "url": "https://open.spotify.com/track/3vw1qbSopYw1XSXvw7D99u"
+    },
+    {
+      "album": {
+        "name": "Give It To Me (remix)",
+        "url": "https://open.spotify.com/album/01HWykM4zshtCogjuNibl8"
+      },
+      "artists": [
+        {
+          "name": "DreamWonder",
+          "url": "https://open.spotify.com/artist/0VuMmgtAdyN6z3QfahzJsn"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 171791,
+      "name": "Give It To Me - remix",
+      "url": "https://open.spotify.com/track/5HXUqBIOCZVl5ZOlovtTfx"
     },
     {
       "album": {
@@ -1095,6 +1244,28 @@
       "duration_ms": 118821,
       "name": "HMU",
       "url": "https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi"
+    },
+    {
+      "album": {
+        "name": "Hundred Miles",
+        "url": "https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde"
+      },
+      "artists": [
+        {
+          "name": "Yall",
+          "url": "https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg"
+        },
+        {
+          "name": "Gabriela Richardson",
+          "url": "https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172414,
+      "name": "Hundred Miles",
+      "url": "https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ"
     },
     {
       "album": {
@@ -1287,7 +1458,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 342612,
       "name": "Jerusalema (feat. Nomcebo Zikode)",
       "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
@@ -1309,7 +1480,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 97208,
       "name": "Jiggle Jiggle",
       "url": "https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2"
@@ -1541,7 +1712,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241970,
-      "name": "Love Tonight - Edit",
+      "name": "Love Tonight (Edit)",
       "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
     },
     {
@@ -1579,7 +1750,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 204791,
       "name": "MADELINE",
       "url": "https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc"
@@ -1601,10 +1772,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
+    },
+    {
+      "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
       "album": {
@@ -2032,6 +2225,28 @@
     },
     {
       "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117026,
+      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
+    },
+    {
+      "album": {
         "name": "Pump",
         "url": "https://open.spotify.com/album/108kdS4tGQLkHz2PHUMpN9"
       },
@@ -2127,6 +2342,32 @@
       "duration_ms": 176867,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb"
+    },
+    {
+      "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
     },
     {
       "album": {
@@ -2520,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/70XMWmygOBc9zAC2MuGa0n"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160661,
+      "name": "THE ONE",
+      "url": "https://open.spotify.com/track/0NHMIpUN5tk0zbHNvkIiav"
+    },
+    {
+      "album": {
         "name": "Tie Me Down (with Elley Duh\u00e9)",
         "url": "https://open.spotify.com/album/69t8rpgBN1ov5kCU6LDMuR"
       },
@@ -2769,7 +3028,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 116750,
       "name": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
       "url": "https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN"

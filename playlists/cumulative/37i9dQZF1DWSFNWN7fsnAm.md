@@ -4,7 +4,7 @@
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-89 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/46erbBSgPQOF4GE1BLHuMo)
+89 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Spotlight \(feat\. Sarah Ikumu\)](https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R) | [S.A.M.](https://open.spotify.com/artist/5NvOXHyejl7e4KQnuFed5O), [Sarah Ikumu](https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS) | [Spotlight \(feat\. Sarah Ikumu\)](https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod) | 2:55 | 2022-08-17 |  |
 | [Steels](https://open.spotify.com/track/5Nwwgo69sfhgpQJhjDtzcp) | [Dave Spoon](https://open.spotify.com/artist/5PzvgD5FRnWpc5fGOLoNVO) | [Steels](https://open.spotify.com/album/306upblskjGyVcSU7qhmpr) | 3:04 | 2022-08-17 |  |
 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 | 2022-08-17 |  |
-| [Stopp](https://open.spotify.com/track/3ZmzBUyuXxdt1uuYxJ6X0z) | [Antss](https://open.spotify.com/artist/12bHqR5ggtW3Y9C7oPmwL2) | [Stopp](https://open.spotify.com/album/3gXBnYSGdx3ucg3XDbI8Ve) | 7:31 | 2022-08-17 |  |
+| [Stopp](https://open.spotify.com/track/3ZmzBUyuXxdt1uuYxJ6X0z) | [Anthiago](https://open.spotify.com/artist/6xQrp7GyLR5uFfCvQwaJyz) | [Stopp](https://open.spotify.com/album/3gXBnYSGdx3ucg3XDbI8Ve) | 7:31 | 2022-08-17 |  |
 | [Sway](https://open.spotify.com/track/0LZzGrLgxK8e0V6IoAQtd5) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Sway](https://open.spotify.com/album/2SFHdh9jrZsQTpsrqm2Wll) | 3:30 | 2022-08-17 |  |
 | [Take No More](https://open.spotify.com/track/24lD2bNgl8mVHLYaWK5r6I) | [Ruben Mandolini](https://open.spotify.com/artist/5jXXWjxhK31kxCk8fk1Asn), [Uness](https://open.spotify.com/artist/7qCGSUqSwZCxRdaHuFhxXi) | [Nonsifa EP](https://open.spotify.com/album/1CbU2Xs3KiIV3J7nECjVLS) | 3:22 | 2022-08-17 |  |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-08-17 |  |

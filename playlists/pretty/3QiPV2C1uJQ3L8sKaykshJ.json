@@ -1,29 +1,13 @@
 {
-  "description": "Listen to A-List tracks from RCA Records featuring music from Steve Lacy, Chris Brown, SZA, Flo Milli, Latto, and more. Cover: Steve Lacy",
-  "num_followers": 14231,
+  "description": "Listen to A-List tracks from RCA Records featuring music from SZA, Latto, Steve Lacy, Chris Brown, and more. Cover: SZA",
+  "num_followers": 14225,
   "original_name": "The RCA-List",
   "owner": {
     "name": "RCA Records",
     "url": "https://open.spotify.com/user/rcarecords"
   },
-  "snapshot_id": "MjE1NixhYTQwMzQxYTFlMGY0MTgxZmY5ODJkNTUwODFkNWNmOWZhMWFkN2Ji",
+  "snapshot_id": "MjE3NSxlMDk1Y2RkYmEzODljODMwZDVhNGRmMTE3NjkxNWU2MDAwZDBjYmIy",
   "tracks": [
-    {
-      "added_at": "2022-10-28 20:01:06",
-      "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/2WsDq3WU1xjp0Nm0bbvuyf"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/4lNrQgt9tZRuwJdIgl6JSR"
-    },
     {
       "added_at": "2022-08-26 19:45:50",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": "2022-12-16 14:57:35",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "added_at": "2022-08-26 19:45:50",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
     },
     {
+      "added_at": "2022-10-28 20:01:06",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/2WsDq3WU1xjp0Nm0bbvuyf"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/4lNrQgt9tZRuwJdIgl6JSR"
+    },
+    {
       "added_at": "2022-08-26 19:45:50",
       "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
@@ -155,6 +171,22 @@
       "duration_ms": 206772,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+    },
+    {
+      "added_at": "2022-12-12 15:51:28",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd"
     },
     {
       "added_at": "2022-08-26 19:45:50",

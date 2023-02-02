@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-17",
   "description": "Don't worry, we're back in the funk of it besties \u2728",
   "name": "Future Funk",
-  "published_playlist_ids": [
-    "7brk0cDWEnSceUmvio3ED2"
-  ],
   "tracks": [
     {
       "album": {
@@ -283,7 +280,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": "2023-01-27",
       "duration_ms": 230655,
       "name": "Answer",
       "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
@@ -399,7 +396,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 156375,
       "name": "Asteriod",
       "url": "https://open.spotify.com/track/2tDEvQX8TTkXPvi1cMWgVW"
@@ -1007,7 +1004,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-02",
       "duration_ms": 271793,
       "name": "CATCH ME (Night Tempo Showa Groove Mix)",
       "url": "https://open.spotify.com/track/6fEFEteEyD5ZCsh7KBl1tK"
@@ -1119,7 +1116,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 149028,
       "name": "CHERRY BLOSSOMS",
       "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
@@ -1535,7 +1532,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 303148,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
@@ -1839,7 +1836,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-02-02",
       "duration_ms": 141873,
       "name": "DRENCH3D",
       "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
@@ -2373,7 +2370,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 295894,
       "name": "First Season",
       "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
@@ -2623,6 +2620,24 @@
     {
       "album": {
         "name": "Back By Popular Demand",
+        "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
+      },
+      "artists": [
+        {
+          "name": "Proux",
+          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110313,
+      "name": "Funk Express",
+      "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
+    },
+    {
+      "album": {
+        "name": "Back By Popular Demand",
         "url": "https://open.spotify.com/album/4bPzw5nnFzNCnszL3rTwA7"
       },
       "artists": [
@@ -2705,7 +2720,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 185750,
       "name": "Future Funk 2022",
       "url": "https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS"
@@ -2839,7 +2854,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 202577,
       "name": "Get Up, Get Out",
       "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
@@ -3147,7 +3162,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 226874,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/0N0lYK1YjAIYp71bXBqTX4"
@@ -3219,7 +3234,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 164647,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
@@ -3639,7 +3654,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 145312,
       "name": "Idols",
       "url": "https://open.spotify.com/track/59zvntCUcoxFfFQgiq0s1W"
@@ -3957,6 +3972,24 @@
       "duration_ms": 369500,
       "name": "Knights",
       "url": "https://open.spotify.com/track/0QzY4pMzEuJhql5eTHjUW7"
+    },
+    {
+      "album": {
+        "name": "Montaime, Vol. 1",
+        "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
+      },
+      "artists": [
+        {
+          "name": "Bazz",
+          "url": "https://open.spotify.com/artist/5ZXbfhyTK8J1Psvh7zDMDr"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369500,
+      "name": "Knights",
+      "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
     },
     {
       "album": {
@@ -5013,7 +5046,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": "2023-01-02",
       "duration_ms": 250344,
       "name": "Monstruo Japon\u00e9s",
       "url": "https://open.spotify.com/track/7dlwjYsVBalCrf1ko5nFuG"
@@ -5883,7 +5916,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 222841,
       "name": "quarterback",
       "url": "https://open.spotify.com/track/6OliMSA14nkLCNqg3Z7IHH"
@@ -6629,7 +6662,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 153652,
       "name": "Show Me Your Moves",
       "url": "https://open.spotify.com/track/25uEVnvqRFy1q6aQ7Dvr3a"
@@ -6894,6 +6927,24 @@
     },
     {
       "album": {
+        "name": "EMAIL",
+        "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
+      },
+      "artists": [
+        {
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176269,
+      "name": "SOULLL",
+      "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
+    },
+    {
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/548ClvNMwySekhhDeV8nn5"
       },
@@ -7075,7 +7126,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 230163,
       "name": "Stellae",
       "url": "https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8"
@@ -7285,7 +7336,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 227812,
       "name": "Summer Splash",
       "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
@@ -7357,7 +7408,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 227200,
       "name": "Super Groove Love Club",
       "url": "https://open.spotify.com/track/4PwsAa7FWqjmeobs3qPncy"
@@ -7379,6 +7430,24 @@
       "duration_ms": 153074,
       "name": "Sweet Baby!",
       "url": "https://open.spotify.com/track/4O1I1VgHT0d0Ntkbuge658"
+    },
+    {
+      "album": {
+        "name": "Now That I Have You",
+        "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
+      },
+      "artists": [
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Sweet Baby!",
+      "url": "https://open.spotify.com/track/2qHasYWuyXCwoJ8FYai22K"
     },
     {
       "album": {
@@ -7769,7 +7838,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 203389,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK"
@@ -8018,6 +8087,24 @@
     },
     {
       "album": {
+        "name": "Now That I Have You",
+        "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
+      },
+      "artists": [
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "Unlimited",
+      "url": "https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76"
+    },
+    {
+      "album": {
         "name": "Unlimited",
         "url": "https://open.spotify.com/album/5oaHK8jFDrcFEubxDaeGSp"
       },
@@ -8091,6 +8178,24 @@
       "duration_ms": 158709,
       "name": "Virtual Friends",
       "url": "https://open.spotify.com/track/1kTYYt9jc8H6jYxsE7LWS9"
+    },
+    {
+      "album": {
+        "name": "Virtual World",
+        "url": "https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm"
+      },
+      "artists": [
+        {
+          "name": "FIBRE",
+          "url": "https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245901,
+      "name": "Virtual World",
+      "url": "https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu"
     },
     {
       "album": {
@@ -8349,7 +8454,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 161314,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/31GGop5dcxgwHupVB7RRyi"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-112 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
+112 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Unglitched \- BéTé Remix](https://open.spotify.com/track/1WLTAxanQcgPQmJNSJN15X) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ), [BéTé](https://open.spotify.com/artist/7HMCyoB6sHalUrXDRoiQB4) | [Unglitched](https://open.spotify.com/album/2TazrwgMouDruGAyYhvUp6) | 6:36 | 2022-10-14 |  |
 | [Urmel](https://open.spotify.com/track/5SvozsO8hjZXaM4GZPZl4Q) | [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Bi Ba Bü](https://open.spotify.com/album/45qxQ2ACnkIlrWy9UY1HqN) | 7:49 | 2022-07-23 |  |
 | [Wave](https://open.spotify.com/track/2oXcyOjlXeYGxuYd94Xx6V) | [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [Ritual Incognito](https://open.spotify.com/album/3GtAg5zcPLMx2eaGAQMSms) | 3:57 | 2022-07-23 |  |
-| [Yet Another Day Thinking About You](https://open.spotify.com/track/3tkSTbgygIKhand5G6JzsS) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Mauve \(AUS\)](https://open.spotify.com/artist/7rvE5oeBS2tH0JG9W8EfcJ), [Jo.Ke](https://open.spotify.com/artist/0VJBUTvjFLs3CfykNXCETb) | [Nothing Can Compare](https://open.spotify.com/album/2onkqde1tTtuKW7bFWjt2z) | 5:49 | 2022-10-14 |  |
+| [Yet Another Day Thinking About You](https://open.spotify.com/track/3tkSTbgygIKhand5G6JzsS) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Mauve \(AUS\)](https://open.spotify.com/artist/7rvE5oeBS2tH0JG9W8EfcJ), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [Nothing Can Compare](https://open.spotify.com/album/2onkqde1tTtuKW7bFWjt2z) | 5:49 | 2022-10-14 |  |
 | [You Got Me \(Dubois Edit\)](https://open.spotify.com/track/3Hn9MvxaSr4c7kefBSmHa6) | [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [You Got Me \(Dubois Edit\)](https://open.spotify.com/album/1lSYFAV3NOWJ70Q7c8kuZJ) | 5:22 | 2022-07-23 | 2022-10-15 |
 | [Zebra](https://open.spotify.com/track/0Xeihvze3TQMpho3IW1Tu3) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Kaybola \(Deluxe Version\)](https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm) | 6:46 | 2022-07-23 |  |
 | [Zebra](https://open.spotify.com/track/1FDxabar5dSw3d46h40BKK) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Zebra](https://open.spotify.com/album/1YkZ71Fh2rVhCBNUVjxOra) | 6:46 | 2022-10-14 | 2022-11-13 |

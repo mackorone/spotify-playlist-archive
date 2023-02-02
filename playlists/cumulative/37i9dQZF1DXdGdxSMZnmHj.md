@@ -4,7 +4,7 @@
 
 > Kick back to the sound of the Caribbean.
 
-95 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/5fliQaxNQLBdTREDEEFEtw)
+95 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

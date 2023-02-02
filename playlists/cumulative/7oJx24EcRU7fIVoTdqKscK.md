@@ -4,7 +4,7 @@
 
 > <a href="http://nyp.org/cpr/"> All of these songs are 100 BPM – the right beat to perform CPR\. Pick one to remember in case you ever need to save a life.</a>
 
-57 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/5lvtIdrEhed3D9GFHm7mqj)
+57 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

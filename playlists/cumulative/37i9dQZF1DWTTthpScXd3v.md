@@ -4,7 +4,7 @@
 
 > One of the greatest of all time\. 75 years\. Celebrate his legacy here.
 
-75 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/6EfM0KWUN0kxvY1aziB4Fv)
+75 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2007! Cover: Amy Winehouse
 
-159 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/2Q0PAtOZZSmBsw4VZifFZC)
+159 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

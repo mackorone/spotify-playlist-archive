@@ -4,7 +4,7 @@
 
 > Sing along with Thomas & Friends!
 
-40 songs - 1 hr 27 min - [published](https://open.spotify.com/playlist/3NfkrSeKuT0ilSLUOnt1fc)
+40 songs - 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTfdxNcD5sS.md) - [plain]
 
 > We found dancing\. Listen to a selection from <a href="https://www.thewarehouseproject.com/ticketlist">The Warehouse Project</a> to celebrate their return to Manchester this month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,894 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,146 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTfdxNcD5sS.md) - [plain]
 | 45 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
 | 46 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
 | 47 | [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 |
-| 48 | [Made To Stray](https://open.spotify.com/track/7M0GDtHcuJrTMWtnSs48I3) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/6ETAoJJ5NhxsGyD53cHApT) | 4:46 |
+| 48 | [Made To Stray](https://open.spotify.com/track/0BVdNCqYq6offkjRGKVRDB) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Cold Spring Fault Less Youth](https://open.spotify.com/album/4jaLRarRRCScr5v6Y6vUQu) | 4:46 |
 | 49 | [The Heat](https://open.spotify.com/track/2ru82sMlycieEodGcKyszh) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:16 |
 | 50 | [Weak Become Heroes](https://open.spotify.com/track/7yiRZW9cHqDF7Fn5Pgi6MY) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/6HAJ0LRCEqJeaCDm2lSsq8) | 5:32 |
 
-Snapshot ID: `MTY1NTE5OTYwOSwwMDAwMDAwMDA1NTQzYTBkMGJkYzJhMGQ5Y2I2MDI4NDk1NzVkNzUx`
+Snapshot ID: `MTY1NTE5OTYwOSwwMDAwMDAwMGYzNWJhNzE4MWNiNzliZjBkY2RhNTJiNThkNGRlOGYz`

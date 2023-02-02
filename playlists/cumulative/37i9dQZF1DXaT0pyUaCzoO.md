@@ -4,7 +4,7 @@
 
 > Songs of pride and empowerment to enjoy with little listeners\. Cover: That Girl Lay Lay.
 
-79 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/3JwO20WCBpROR5efKEjH1t)
+80 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Family Tree](https://open.spotify.com/track/3VFS3Ahjziv6vNQlMJQvll) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Shine of Shine and the Moonbeams](https://open.spotify.com/artist/4T2VvCvYLAfqpAXGhxc4I4) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 4:09 | 2021-07-16 |  |
 | [For All](https://open.spotify.com/track/66JTnnOQ8fujcvg5FATUcf) | [The Wise Channel](https://open.spotify.com/artist/1oFEPQIh2znQNzku3LR6Iq) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 2:54 | 2021-06-18 |  |
 | [Freedom \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7aBxcRw77817BrkdPChAGY) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:49 | 2020-07-06 |  |
-| [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 | 2020-07-06 |  |
+| [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 | 2020-07-06 | 2023-01-18 |
+| [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 | 2020-07-06 |  |
 | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx) | 4:32 | 2020-07-06 |  |
 | [Go 100](https://open.spotify.com/track/0St5kKQi6fa690c2L88kQi) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 2:59 | 2021-06-18 |  |
 | [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 | 2021-08-20 |  |

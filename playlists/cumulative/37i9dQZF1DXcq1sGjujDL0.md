@@ -4,7 +4,7 @@
 
 > Só pra quem usa a colher de pau como microfone.
 
-173 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/75QCej9aYFfDshgTSgpDId)
+173 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [I’ll Be Dining Here Again](https://open.spotify.com/track/2RwhLfseQmNqE9Kz3eFXG1) | [The Norwegian Fords](https://open.spotify.com/artist/3UjfINLlEJnHc9zf8ZurpE) | [Somewhere Down The Road You'll Listen](https://open.spotify.com/album/2wtdQQaUy1g15Tszb0Zmfr) | 3:20 | 2020-04-24 | 2022-07-29 |
 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2022-06-30 |  |
 | [Juice](https://open.spotify.com/track/0onslUNmSLDkuYaideYWir) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Juice](https://open.spotify.com/album/11coWHUoRLfoplozmzNz0v) | 3:15 | 2022-06-30 | 2022-07-16 |
-| [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 | 2022-06-30 | 2022-11-14 |
+| [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 | 2022-06-30 | 2023-01-03 |
 | [Just The Way You Are](https://open.spotify.com/track/55bvjj1m7GbJwABrsBRx3D) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/189OFQMaoiv1Ta3wz6VsQ8) | 4:49 | 2020-04-24 | 2022-07-29 |
 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2022-06-15 | 2022-07-01 |
 | [La Vie en rose](https://open.spotify.com/track/3lAun9V0YdTlCSIEXPvfsY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 3:07 | 2020-04-24 | 2022-11-13 |

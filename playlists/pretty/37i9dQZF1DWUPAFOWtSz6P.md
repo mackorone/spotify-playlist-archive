@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,537 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,679 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [when i look at you.](https://open.spotify.com/track/3rQnmsnyKJ2ytIv4LxkDmT) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i dreamed i was the night EP](https://open.spotify.com/album/2NGho5cUvQNMxyFEcz0j8r) | 3:52 |
-| 2 | [Twist](https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL) | 3:06 |
+| 2 | [Twist](https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL) | 3:06 |
 | 3 | [Destined to Pretend](https://open.spotify.com/track/415OXr4z7bEgvdOwOeoPo8) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Year of Love](https://open.spotify.com/album/3osFaWz4eqVvt3yOfXgVSW) | 3:12 |
 | 4 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 5 | [Northern Winds \- Live at the Elmwood Hall](https://open.spotify.com/track/6GRPP8gcoTqfbWIGhPLJ0t) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Live at the Elmwood Hall](https://open.spotify.com/album/7cbC5xWYR3RyiBwy6VORlZ) | 5:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 | 49 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
 | 50 | [Lovers Who Make Love \- Live at the Mac](https://open.spotify.com/track/36VE1ZN6UFtVpAH1HJELA6) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Live at the Mac](https://open.spotify.com/album/7IfKkyytqHkjdH2uRTXEIX) | 3:43 |
 
-Snapshot ID: `MTU4OTI1MjMyMywwMDAwMDAwMGJiNDM2MDNiM2U2YWRhN2M3MjQ0Zjg1MmVkYzNlMjMx`
+Snapshot ID: `MTY3MjI3MjkzNCwwMDAwMDAwMDBhMzAwYzAyNThmODkyODY5ODZjNTJiNmVmOTBiMWY0`

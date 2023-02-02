@@ -4,7 +4,7 @@
 
 > 50 great tracks from 20th century's most celebrated piano genius\. Beyond his iconic Bach recordings, you will also find his unique interpretation of Beethoven, Scriabin, Strauss, and many other composers from renaissance to modern age.
 
-50 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/3FUnM4UGiu4XuRRnYr6C5E)
+50 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

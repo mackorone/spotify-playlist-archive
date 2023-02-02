@@ -4,7 +4,7 @@
 
 > All your favorite tracks from Bridgerton.
 
-66 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/0mJUowbTdX1XFAErFSfgqQ)
+66 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [In My Blood](https://open.spotify.com/track/3ZpdOnmZvlJVCuMGMYDNQO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:30 | 2022-03-25 |  |
 | [It Has Been Said \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/0Te3W2KaeN0pHE7zWvw3Ey) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 2:31 | 2022-03-25 |  |
 | [It's My Fault \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/2Yu1t33vjxWFbZTynPk1by) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 3:51 | 2022-03-25 |  |
-| [Jazz Suite No\. 2: 6\. Waltz II](https://open.spotify.com/track/3LOi1V051Obp9hHRgAC0JU) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Royal Concertgebouw Orchestra](https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Shostakovich: The Jazz Album](https://open.spotify.com/album/2Mo2TzMxaeAnOvdHsiBHtO) | 3:45 | 2022-03-25 |  |
+| [Jazz Suite No\. 2: VI\. Waltz II](https://open.spotify.com/track/3LOi1V051Obp9hHRgAC0JU) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Royal Concertgebouw Orchestra](https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Shostakovich: The Jazz Album](https://open.spotify.com/album/2Mo2TzMxaeAnOvdHsiBHtO) | 3:45 | 2022-03-25 |  |
 | [Kabhi Khushi Kabhie Gham](https://open.spotify.com/track/2uU4tNepmkbE5lyQ9d0zFZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:28 | 2022-03-25 |  |
 | [Lord Bridgerton Stung \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/52ML8gtby5HUV3pAc6Ws50) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 1:30 | 2022-03-25 |  |
 | [Love is A Choice](https://open.spotify.com/track/0OQXYoAMu9z5Gb20PVAlcx) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 2:20 | 2022-03-25 |  |

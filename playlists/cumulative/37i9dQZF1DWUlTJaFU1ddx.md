@@ -4,7 +4,7 @@
 
 > The sweet sounds of Jordan.
 
-73 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/3RjKkBGdUUaqqoXkZCGwyG)
+74 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ardon Wahed](https://open.spotify.com/track/4kPTdotigbZh8C5d42p5sT) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Khusouf Al\-Ard](https://open.spotify.com/album/6gnf8UdhDLssZAvG3PF5Dw) | 3:30 | 2021-08-25 | 2022-07-29 |
 | [Asheek](https://open.spotify.com/track/6G4H20LIYJELDI6fAbWKMo) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3](https://open.spotify.com/album/4noxSq67DwvvPBwYaQiYBH) | 4:51 | 2021-08-25 | 2022-07-29 |
 | [Asheek \(ع الشيك\)](https://open.spotify.com/track/2BBiS0tSDesfiuhv1PEodP) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3 \(المربع\)](https://open.spotify.com/album/2BPmsmtbu1sIGIPZe1LgIa) | 4:53 | 2022-07-23 |  |
+| [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-12-05 |  |
 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 | 2022-07-23 |  |
 | [Ballet](https://open.spotify.com/track/4c1JwtH7HEfIqlf0keNFGR) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Ballet](https://open.spotify.com/album/30qPLsJugZwQXGH7iHdvkY) | 4:08 | 2021-08-25 |  |
 | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/track/3JfKQ0AUmVf5m97MRt44c7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Bent Elgiran & Haga Mestikhabya](https://open.spotify.com/album/4a81TWOYhBuj23Udk3mNz8) | 2:53 | 2021-08-25 |  |

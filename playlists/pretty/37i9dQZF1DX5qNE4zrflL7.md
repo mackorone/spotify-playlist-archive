@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,350 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,241 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 23 | [I'm Waiting For The Man](https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 4:39 |
 | 24 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 |
 | 25 | [Itchycoo Park \(Mono Version\) \- 2012 Remaster](https://open.spotify.com/track/5H0laZ62yDUPuKvHef8niK) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Small Faces \- Deluxe Edition \(2012 Remaster\)](https://open.spotify.com/album/2MhAWzEg3wdOLaLYgmpF0i) | 2:46 |
-| 26 | [Fire](https://open.spotify.com/track/3iiTTuCxl62q4WvDpFRSrX) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr) | 2:55 |
+| 26 | [Fire](https://open.spotify.com/track/1wVBq2SkE1AOKoaOxUVvDC) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj) | 2:55 |
 | 27 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
 | 28 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 |
 | 29 | [I'm A Man](https://open.spotify.com/track/1oXq63OUf43LDnNPVtfvX8) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [The Best Of Spencer Davis Group](https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qNE4zrflL7.md) - [plain]
 | 79 | [The Hedgehog's Song \- 2010 Remaster](https://open.spotify.com/track/7IyDLBtIXS2EKZEt8trS03) | [The Incredible String Band](https://open.spotify.com/artist/0tQzBYPjAardhWpGkqVdNW) | [The 5000 Spirits Or The Layers Of The Onion](https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS) | 3:27 |
 | 80 | [Philosophy of the World](https://open.spotify.com/track/2WhRJwrsy57H5Mm1P3lykJ) | [The Shaggs](https://open.spotify.com/artist/5ixdD9E7P9r51AOcSInQbl) | [Philosophy of the World](https://open.spotify.com/album/0TzI1YcMAQVdQ4yUZuy7fA) | 2:57 |
 
-Snapshot ID: `MTYzMzQ5MTc5MiwwMDAwMDAwMDY1YzEwZDk3MmI5ZWQxOWViMDBiZTY1NTc4Y2MzOTFm`
+Snapshot ID: `MTYzMzQ5MTc5MiwwMDAwMDAwMGI2MTVlNzZiZGI5OWViNzM3ZDZkMDRlYTIwYTZjMTg4`

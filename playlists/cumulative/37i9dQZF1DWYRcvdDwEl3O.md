@@ -4,7 +4,7 @@
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-131 songs - 5 hr 41 min - not published yet
+131 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Elevated Pastures](https://open.spotify.com/track/7zWjcC7jNhFtqckFMkiNux) | [Chinyami](https://open.spotify.com/artist/1ey8cZsgOMCClk9NjQLJcd) | [Elevated Pastures](https://open.spotify.com/album/6ikmItGf76ftAlNgeNlEVm) | 3:33 | 2022-07-29 | 2022-11-08 |
 | [Endeavour](https://open.spotify.com/track/6v3flfFyiewX4uhtefPYKP) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 4:27 | 2022-07-29 | 2022-11-08 |
 | [Escapes within](https://open.spotify.com/track/1g9nJxAMLbxmeCOnWUJT2Y) | [Lanai String Section](https://open.spotify.com/artist/31uknRwrjJ98yyV6tg0CXa) | [Escapes Within](https://open.spotify.com/album/5l91X3BPZ0wRyibDPmYvgB) | 1:28 | 2022-07-29 | 2022-11-08 |
-| [Eschaton \- Chris Coleman Rework](https://open.spotify.com/track/7m3hDASgGaBKF5w8y48dDd) | [Chris Coleman](https://open.spotify.com/artist/2mXB4WRGKaH89fJFSyK4M8) | [Eschaton](https://open.spotify.com/album/0WSv5Yge0NVy7VjMHQnGTP) | 2:36 | 2022-11-07 |  |
+| [Eschaton \- Christopher Dennis Coleman Rework](https://open.spotify.com/track/7m3hDASgGaBKF5w8y48dDd) | [Christopher Dennis Coleman](https://open.spotify.com/artist/1mM9perSjGuMbNejzFhi1U) | [Eschaton](https://open.spotify.com/album/0WSv5Yge0NVy7VjMHQnGTP) | 2:36 | 2022-11-07 |  |
 | [Evening Star \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/21Xawha6x2vBekNwyCzMZw) | [Frances Shelley](https://open.spotify.com/artist/0oUU96ZHc648yvAP9JrQ9d), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Evening Star \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/5EVLlgLBEpVKPuu9LOGeN3) | 4:14 | 2022-11-07 |  |
 | [Exquisite Star](https://open.spotify.com/track/3ipMvrSdM2QIZdZj82SWWU) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Moon Silhouette \| Exquisite Star](https://open.spotify.com/album/4SvRaeY2FNRxSqff6MtAc8) | 1:45 | 2022-07-29 | 2022-11-08 |
 | [Feelings](https://open.spotify.com/track/3Xb2QzvjmLaHV2ihzF571m) | [Vladimir Titov](https://open.spotify.com/artist/5KA2JTeu9cjLwH8yYAUObg) | [Soul](https://open.spotify.com/album/1ejRYdsmMR9GBROL1hOsja) | 2:39 | 2022-07-29 | 2022-11-08 |

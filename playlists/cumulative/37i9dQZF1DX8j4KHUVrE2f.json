@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Take a trip down memory lane with these noughties classics...",
   "name": "Easy 00s",
-  "published_playlist_ids": [
-    "7uZ8ufX0AtBMAQh2PQh2dv"
-  ],
   "tracks": [
     {
       "album": {
@@ -233,6 +230,28 @@
     {
       "album": {
         "name": "Shock Value",
+        "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/6q3zC9dDD4lUNk8nfUztXy"
+    },
+    {
+      "album": {
+        "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
       "artists": [
@@ -373,7 +392,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
@@ -485,7 +504,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 261426,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
@@ -561,7 +580,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-29",
       "duration_ms": 231933,
       "name": "Burn",
       "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
@@ -597,7 +616,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-10",
       "duration_ms": 251600,
       "name": "California King Bed",
       "url": "https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz"
@@ -1293,7 +1312,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 218439,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
@@ -2155,7 +2174,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-29",
       "duration_ms": 303813,
       "name": "Lighters",
       "url": "https://open.spotify.com/track/5zpDHEU12zATwLGvozxPw2"
@@ -2661,7 +2680,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -3451,7 +3470,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
@@ -3685,10 +3704,28 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 221720,
       "name": "Too Little Too Late",
       "url": "https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4"
+    },
+    {
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 154800,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
     },
     {
       "album": {
@@ -3721,7 +3758,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 247840,
       "name": "U Got It Bad",
       "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
@@ -3919,7 +3956,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-28",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
@@ -4031,6 +4068,24 @@
       "duration_ms": 272533,
       "name": "Where Is The Love?",
       "url": "https://open.spotify.com/track/7oPnZNl1acGA7ELxsNirrR"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
     },
     {
       "album": {

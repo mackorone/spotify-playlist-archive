@@ -4,7 +4,7 @@
 
 > This is: Dispatch\. The essential tracks, all in one playlists.
 
-46 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/0q2FmAGkHqK81TDpQHrgOJ)
+46 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

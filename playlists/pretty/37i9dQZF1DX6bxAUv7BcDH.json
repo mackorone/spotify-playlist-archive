@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 26626,
+  "num_followers": 16,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDA5MGNhN2ExNjkyZjU4NDc5MDdmZmUwMTFiZjgxNWEz",
+  "snapshot_id": "MTY3Mjc3MzE1OSwwMDAwMDAwMDc0ODhjY2Y1NWQzYWY4YjMxNTI1NTNmYjQzNWI0Yzll",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 194087,
-      "name": "bad guy",
-      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 206693,
       "name": "That's What I Like",
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 194087,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 295502,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
       },
@@ -239,18 +223,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+      "duration_ms": 295502,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -271,34 +255,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 256146,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Minute by Minute",
-        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "What a Fool Believes",
-      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -335,6 +303,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Minute by Minute",
+        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "What a Fool Believes",
+      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "Simple Pleasures",
         "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 294400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Tears in Heaven - Acoustic Live",
+      "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 193213,
       "name": "Single Ladies (Put a Ring on It)",
       "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Michelle - Remastered 2009",
-      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "We Are The World",
         "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
+      "duration_ms": 162373,
+      "name": "Michelle - Remastered 2009",
+      "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -479,6 +463,70 @@
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -503,66 +551,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Hello, Dolly!",
-      "url": "https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
+      "duration_ms": 213760,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0"
+      "duration_ms": 147000,
+      "name": "Hello, Dolly!",
+      "url": "https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Sailing / Poor Shirley (Digital 45)",
+        "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 255453,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "Breakfast At Tiffany's (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/53mCG3mQnybqhQfgH5ULUK"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 125585,
       "name": "Moon River(Vocal Audrey Hepburn)",
       "url": "https://open.spotify.com/track/5iGleL7HpEThuuYQ3us2jh"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 305080,
-      "name": "Sometimes You Can't Make It On Your Own",
-      "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
       "artists": [
         {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+      "duration_ms": 305080,
+      "name": "Sometimes You Can't Make It On Your Own",
+      "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -723,6 +723,42 @@
       "duration_ms": 276346,
       "name": "From a Distance",
       "url": "https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "An American Tail",
+        "url": "https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Somewhere Out There - From \"An American Tail\" Soundtrack",
+      "url": "https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -775,42 +811,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "An American Tail",
-        "url": "https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Somewhere Out There - From \"An American Tail\" Soundtrack",
-      "url": "https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Experience The Divine (Greatest Hits)",
-        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "Wind Beneath My Wings",
-      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Introspect (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Clapton Chronicles: The Best of Eric Clapton",
-        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+        "name": "Experience The Divine (Greatest Hits)",
+        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
+      "duration_ms": 293853,
+      "name": "Wind Beneath My Wings",
+      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "The Very Best Of Judy Collins",
-        "url": "https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR"
-      },
-      "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Send in the Clowns",
-      "url": "https://open.spotify.com/track/7iL8UcftjwLe6eosb3pgUH"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3WmggKO4chLNbPJvtPMoXi"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 253400,
       "name": "Little Green Apples",
       "url": "https://open.spotify.com/track/2nuMRtlTTp6hwPOsRsBu7n"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "The Very Best Of Judy Collins",
+        "url": "https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Send in the Clowns",
+      "url": "https://open.spotify.com/track/7iL8UcftjwLe6eosb3pgUH"
     },
     {
       "added_at": "2022-02-16 05:37:41",

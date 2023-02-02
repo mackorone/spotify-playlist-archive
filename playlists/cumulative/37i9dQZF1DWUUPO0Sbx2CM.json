@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
   "name": "Christian Dance Party",
-  "published_playlist_ids": [
-    "3vMk9zjuuRtPgQLPS55xS3"
-  ],
   "tracks": [
     {
       "album": {
@@ -425,7 +422,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
@@ -465,6 +462,24 @@
       "duration_ms": 186200,
       "name": "Bigger Story",
       "url": "https://open.spotify.com/track/012DUuLdefLSpuOvf3StFg"
+    },
+    {
+      "album": {
+        "name": "Bigger Story",
+        "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 186200,
+      "name": "Bigger Story",
+      "url": "https://open.spotify.com/track/13HkQZltEHWmzmn8D2nWpc"
     },
     {
       "album": {
@@ -1249,7 +1264,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 162312,
       "name": "Find You",
       "url": "https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY"
@@ -1845,7 +1860,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-27",
       "duration_ms": 204271,
       "name": "Healing",
       "url": "https://open.spotify.com/track/4EKTLzgEPHij7hKpqjuZH5"
@@ -2331,6 +2346,24 @@
       "duration_ms": 170307,
       "name": "If You Only Knew!",
       "url": "https://open.spotify.com/track/2iRRQUaxQ1OjbGwymK1Fwb"
+    },
+    {
+      "album": {
+        "name": "Entre Nubes",
+        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 205706,
+      "name": "Influencer",
+      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
     },
     {
       "album": {
@@ -3875,7 +3908,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 240994,
       "name": "Streams",
       "url": "https://open.spotify.com/track/5pGOK0d3Ls6ikio9oQYkLC"
@@ -4125,7 +4158,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 177333,
       "name": "Together In This - From The Jungle Beat Motion Picture",
       "url": "https://open.spotify.com/track/0x9p2PjS0t9DbwqK4vgtWR"
@@ -4629,6 +4662,24 @@
       "duration_ms": 227379,
       "name": "Without You - Abe Parker Remix",
       "url": "https://open.spotify.com/track/4zSnb8fvewyGGV1U4R9Dx0"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2021-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 211182,
+      "name": "Won't He Do It (Remix)",
+      "url": "https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9"
     },
     {
       "album": {

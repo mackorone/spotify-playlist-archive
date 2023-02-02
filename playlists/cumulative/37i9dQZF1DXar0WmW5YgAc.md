@@ -4,7 +4,7 @@
 
 > Love songs from your favorite films
 
-139 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/5n4bAfqXL1AIL7z3Ma3gPK)
+141 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/19mOMXcBJm0NmkHBkwvGlZ) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [80 Totally 80s Hits](https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG) | 4:01 | 2022-10-28 | 2022-11-13 |
 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [The Definitive Collection](https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp) | 4:11 | 2022-01-11 |  |
 | [I Don't Wanna To Miss A Thing](https://open.spotify.com/track/6hFyPdRhWXUUYvISsvMk0b) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [NOW That's What I Call A Decade 1990s](https://open.spotify.com/album/1iw92Us3tuObpzg3gYLqRJ) | 4:57 | 2022-10-28 | 2022-11-14 |
-| [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2022-01-11 |  |
+| [I Don't Want To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 4:59 | 2023-01-06 |  |
+| [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2022-01-11 | 2023-01-13 |
 | [I Don't Want to Miss a Thing \- From the Touchstone film, "Armageddon"](https://open.spotify.com/track/0c1gHntWjKD7QShC8s99sq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/616UgaZTc454Gu0aXxVH3K) | 4:59 | 2022-01-11 | 2022-07-29 |
 | [I Finally Found Someone \(feat\. Bryan Adams\)](https://open.spotify.com/track/2WthqeuPLwn0CHwCMrlt6L) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Mirror Has Two Faces \- Music From The Motion Picture](https://open.spotify.com/album/5m0V4PrFdpsqtLXNgsnprE) | 3:41 | 2022-01-11 |  |
 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 | 2022-01-11 |  |
@@ -81,6 +82,7 @@
 | [I'm Kissing You](https://open.spotify.com/track/1WMOyQPL40zYt6fe7KdyFM) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/13PcPtzZ7wBG5cSi7SZexa) | 4:51 | 2022-01-11 | 2022-07-29 |
 | [I'm Kissing You](https://open.spotify.com/track/1AhwSb9SxkekSAGDLKdIMd) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Sing Me to Sleep](https://open.spotify.com/album/60k0hyUtTLyJEWQXIGt9OB) | 4:53 | 2022-10-28 | 2022-11-13 |
 | [I'm Kissing You](https://open.spotify.com/track/1Xp8MKmfoFDib6dHM6JF53) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [Supernatural](https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i) | 4:53 | 2022-01-11 |  |
+| [In Your Eyes \- 2012 Remaster](https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(2012 Remastered\)](https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx) | 5:30 | 2023-01-06 |  |
 | [Iris](https://open.spotify.com/track/2mtVxf50BYsKNtQoz8sfzm) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [City of Angels \(Music from the Motion Picture\)](https://open.spotify.com/album/2IxykVOZuS5JdJHjhlD2ds) | 4:49 | 2022-01-11 |  |
 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:18 | 2022-01-11 |  |
 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 | 2022-01-11 |  |

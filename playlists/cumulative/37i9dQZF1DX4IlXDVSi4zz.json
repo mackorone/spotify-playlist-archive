@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-23",
   "description": "Dance the night away and just blame it on Tulum!",
   "name": "Tulum Party",
-  "published_playlist_ids": [
-    "6xJvxiorVlvPVNAhaM6Xfd"
-  ],
   "tracks": [
     {
       "album": {
@@ -89,6 +86,46 @@
       "duration_ms": 191601,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/45wQICCratOjNmYPttJAHO"
+    },
+    {
+      "album": {
+        "name": "Between Seas And Galaxies",
+        "url": "https://open.spotify.com/album/6yhK1Vc3duTgu23uxPWP09"
+      },
+      "artists": [
+        {
+          "name": "Celestial Inside",
+          "url": "https://open.spotify.com/artist/0BTXnRCQgfV0mlIPftKTSQ"
+        },
+        {
+          "name": "Aris",
+          "url": "https://open.spotify.com/artist/4K7NHFVYtbiSfPN6KOMuXN"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387226,
+      "name": "Atlante",
+      "url": "https://open.spotify.com/track/0hKutS8fEyReGiXhkxhuNY"
+    },
+    {
+      "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
     },
     {
       "album": {
@@ -366,7 +403,7 @@
     },
     {
       "album": {
-        "name": "Clandestina (feat. Emma Peters) [Cocaina Remix]",
+        "name": "Clandestina (Cocaina Remix)",
         "url": "https://open.spotify.com/album/06IeiiR0ZXsBmrBxJ35t82"
       },
       "artists": [
@@ -387,7 +424,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150106,
-      "name": "Clandestina (feat. Emma Peters) - Cocaina Remix",
+      "name": "Clandestina - Cocaina Remix",
       "url": "https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez"
     },
     {
@@ -429,7 +466,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 255093,
       "name": "Cocaine Model",
       "url": "https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq"
@@ -667,7 +704,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 196586,
       "name": "En Mi Cuarto",
       "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
@@ -877,7 +914,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 269711,
       "name": "GOOD TIMES - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
@@ -1041,7 +1078,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-20",
       "duration_ms": 219401,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
@@ -1300,6 +1337,32 @@
     },
     {
       "album": {
+        "name": "Les Gout",
+        "url": "https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "chuala",
+          "url": "https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Les Gout",
+      "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"
+    },
+    {
+      "album": {
         "name": "Sacr\u00e9 Coeur",
         "url": "https://open.spotify.com/album/745eonJCDAf4cP87X8zXf8"
       },
@@ -1393,7 +1456,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241970,
-      "name": "Love Tonight - Edit",
+      "name": "Love Tonight (Edit)",
       "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
     },
     {
@@ -1457,6 +1520,32 @@
       "duration_ms": 227076,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/5QUYutqY93n7Z9CiAJPmGY"
+    },
+    {
+      "album": {
+        "name": "Marianela (Que Pasa)",
+        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145766,
+      "name": "Marianela (Que Pasa)",
+      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
     },
     {
       "album": {
@@ -1537,7 +1626,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 140440,
       "name": "Nieve",
       "url": "https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9"
@@ -1599,7 +1688,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
@@ -1781,10 +1870,28 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 178369,
       "name": "Purple Hat",
       "url": "https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z"
+    },
+    {
+      "album": {
+        "name": "DANCING ON THE PEOPLE",
+        "url": "https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178369,
+      "name": "Purple Hat",
+      "url": "https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl"
     },
     {
       "album": {
@@ -2005,7 +2112,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 167619,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD"
@@ -2226,6 +2333,28 @@
     },
     {
       "album": {
+        "name": "Unison EP",
+        "url": "https://open.spotify.com/album/05yiUS0a8doI7Dhc0R5mBP"
+      },
+      "artists": [
+        {
+          "name": "Alex Galvan",
+          "url": "https://open.spotify.com/artist/5hwl51WQuZm30rZu6gHjR1"
+        },
+        {
+          "name": "Andec James",
+          "url": "https://open.spotify.com/artist/5shYFgmpQjNNq0kunbCYWW"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458000,
+      "name": "Unison",
+      "url": "https://open.spotify.com/track/3Xuf2ni1P0IVpTCXzajUD6"
+    },
+    {
+      "album": {
         "name": "Vamo a Dale Duro (Uproot Andy Remix)",
         "url": "https://open.spotify.com/album/4qWrDMj5B73oaMBI89fNyz"
       },
@@ -2347,7 +2476,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 562239,
       "name": "Who Loves The Sun",
       "url": "https://open.spotify.com/track/2u2aognU8U2C3bPJO5pVmz"
@@ -2389,12 +2518,12 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230945,
-      "name": "Won't Forget You - Edit",
+      "name": "Won't Forget You (Edit)",
       "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "album": {
-        "name": "WORTH NOTHING",
+        "name": "WORTH NOTHING (Fast and Furious: Drift Tape/Phonk Vol 1)",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
       },
       "artists": [
@@ -2407,11 +2536,11 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "date_added": "2022-11-26",
+      "date_added": "2022-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164629,
-      "name": "WORTH NOTHING",
+      "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {
@@ -2427,10 +2556,28 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 239417,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239417,
+      "name": "You Were Right",
+      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"
     },
     {
       "album": {

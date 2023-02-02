@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-30",
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
   "name": "Tango Rock",
-  "published_playlist_ids": [
-    "3WMriKUyo2CSgT5Sf3Ib9y"
-  ],
   "tracks": [
     {
       "album": {
@@ -67,7 +64,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 222208,
       "name": "Barro Tal Vez",
       "url": "https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO"
@@ -839,7 +836,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-02-02",
       "duration_ms": 231538,
       "name": "Milonga de la Anunciaci\u00f3n",
       "url": "https://open.spotify.com/track/36h5l8FAbtSkVodxPOA8Qt"
@@ -1197,7 +1194,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 106693,
       "name": "Turbias Golondrinas",
       "url": "https://open.spotify.com/track/7b1E5XfeVSYRTILXCeIvnR"

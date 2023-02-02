@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXE7JlNQ8iBe.md) - [plain]
 
 > Carolina Ross le dedica un canto a La Catrina, para mantener nuestra tradición viva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,170 likes - 45 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,272 likes - 45 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

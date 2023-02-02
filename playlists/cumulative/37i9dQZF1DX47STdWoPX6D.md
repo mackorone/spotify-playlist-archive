@@ -4,7 +4,7 @@
 
 > In honor of our beloved friend and Kuya Dj Efechto\. This a collection of songs he loved, that influenced him, and tracks he produced or scratched on\. Turn your system to the Red for Efechto\.  Guest curated by Propaganda.
 
-25 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/3gZ7nuyd9d5UUqe1ntUklF)
+25 songs - 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

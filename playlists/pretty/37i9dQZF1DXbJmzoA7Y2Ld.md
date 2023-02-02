@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 
 > Blues favorites released in 2020\. Cover: Shemekia Copeland
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,990 likes - 46 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,994 likes - 46 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 | 19 | [Empty Promises](https://open.spotify.com/track/6rOZxWF4YfO7g0gCMqQlxL) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises](https://open.spotify.com/album/3oyjUbSmgbHHhVVGPrAhFM) | 5:36 |
 | 20 | [Is It Over](https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl) | [Don Bryant](https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I) | [You Make Me Feel](https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN) | 4:30 |
 | 21 | [All Out Of Tears](https://open.spotify.com/track/1XaT6J8S7NxuqowON5gDNv) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ordinary Madness](https://open.spotify.com/album/3JJD7rE9C5upqXiE1WSstr) | 6:31 |
-| 22 | [Thinking 'Bout Myself](https://open.spotify.com/track/1AcfYPIBBde0ZIkLxgm6EF) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:41 |
+| 22 | [Thinking 'Bout Myself](https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Push The Blues Away](https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl) | 3:41 |
 | 23 | [Blues For The Weepers](https://open.spotify.com/track/1uOKBuziYCCioYymiwI8zi) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 3:46 |
 | 24 | [Get Out of My Life Woman](https://open.spotify.com/track/5KN5fmcJShC49J830DEqHI) | [Watermelon Slim](https://open.spotify.com/artist/1GwDrciV2X5gn9uh0UDFwN) | [Church of the Blues](https://open.spotify.com/album/4Zy8gXmsSdNNeVjrmCIq3T) | 3:09 |
 | 25 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 | 29 | [The Juice \(feat\. Marcus King\)](https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:07 |
 | 30 | [Catfish Blues](https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK) | 4:11 |
 | 31 | [Catfish](https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Catfish](https://open.spotify.com/album/0UHFzxUW8gPhFwjIj7y6E0) | 3:51 |
-| 32 | [Boom Boom](https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/0U4YQE1rVs1bFFdRTv5s6u), [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Boom Boom](https://open.spotify.com/album/0Fj3i3nj3SabKrmnSIUsrA) | 2:52 |
+| 32 | [Boom Boom](https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Boom Boom](https://open.spotify.com/album/0Fj3i3nj3SabKrmnSIUsrA) | 2:52 |
 | 33 | [Down in Mississippi](https://open.spotify.com/track/3GC6jhvSskDuRpL9XZ4bdJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Rawer Than Raw](https://open.spotify.com/album/0Ar6NKv30rwDh3mhZha61I) | 3:23 |
 | 34 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 |
 | 35 | [Get Yourself Some](https://open.spotify.com/track/6UWo6O18TobSRAxVwYI10L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Say the Word](https://open.spotify.com/album/00aLz8ns1aftpDB3dQFCOb) | 3:00 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJmzoA7Y2Ld.md) - [plain]
 | 45 | [Just Beyond the Dawn](https://open.spotify.com/track/4Xy2i27HGAGENa13YMmKls) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Just Beyond the Dawn](https://open.spotify.com/album/3V4c8jFN21XSEEBGkXrmiL) | 3:10 |
 | 46 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
 
-Snapshot ID: `MTYwNzM4NzQxMSwwMDAwMDAwMDc2ODRmYzdkNDU0NWVhOTkzZjkzMGYxYzkwMzkxNjU2`
+Snapshot ID: `MTYwNzM4NzQxMSwwMDAwMDAwMDhlYjY2YmIyN2U1YTRlYjdhOGFlYjg5MjgwMDhhZWY4`

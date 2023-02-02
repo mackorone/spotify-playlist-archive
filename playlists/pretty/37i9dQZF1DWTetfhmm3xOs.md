@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 
 > Meditate to the sound of soothing voices and flutes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,528 likes - 98 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,332 likes - 98 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,20 +17,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 | 7 | [Solitude](https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:17 |
 | 8 | [Mílon](https://open.spotify.com/track/2Dv1DUFmC8ElSUSTy7s9Ma) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 4:24 |
 | 9 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
-| 10 | [Spirituality](https://open.spotify.com/track/541WtSF3QB1Rq4sSsc8Akk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Spirituality](https://open.spotify.com/album/28DSzeC4i0k8acoKV8Dhb2) | 1:55 |
-| 11 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Euryn](https://open.spotify.com/artist/3gZqDSLp1atN62BEKtHMyS) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
-| 12 | [I Know A Secret](https://open.spotify.com/track/3yaKNCPHtIDunZKRi0x6Qf) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [I know a secret](https://open.spotify.com/album/1tD6EUliMH0tw0fW9b9eOS) | 3:22 |
-| 13 | [Healing Soul](https://open.spotify.com/track/4YhHUp0GHCmVFRCayD38a4) | [Tales From The Dream World](https://open.spotify.com/artist/3h94ZSG5d6bfJZMoCTHQYb) | [Native Spirit](https://open.spotify.com/album/5GLLKExiPJhyZBPaRaQRbp) | 1:50 |
-| 14 | [Sueño Profundo en la Naturaleza](https://open.spotify.com/track/0UjWCglRetLJvfzhpC1I6H) | [Música Relajante](https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR) | [Sueño Profundo En La Naturaleza](https://open.spotify.com/album/2ObWpuVUCTCT95yY7jsLTc) | 1:14 |
-| 15 | [Deep Sleep Flute](https://open.spotify.com/track/3toPGejMCBl68wsi4NjHrS) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5) | [Deep Sleep Dreams](https://open.spotify.com/album/1uBhdfgyP19ksI8kwtBD6o) | 1:47 |
-| 16 | [Sleep Will Come](https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Sleep Will Come](https://open.spotify.com/album/2xc4v5uB9IPgdh345J4oIh) | 2:53 |
-| 17 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 |
-| 18 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
-| 19 | [Arrival](https://open.spotify.com/track/79XBLGHDBLc08rgl5NTHhd) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Space Journey](https://open.spotify.com/album/2TIRl3SqebDrKLGGPmc1OW) | 3:15 |
-| 20 | [Dreams of Calmness](https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Dreams of Calmness](https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT) | 2:34 |
-| 21 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 |
-| 22 | [After The Storm](https://open.spotify.com/track/1Mp8ZVLc3XQdDTIGHvbWsb) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Enigmatic Winds](https://open.spotify.com/album/5iFJCpNwoQdy25C7WwrRTV) | 3:10 |
-| 23 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 |
+| 10 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 |
+| 11 | [Spirituality](https://open.spotify.com/track/541WtSF3QB1Rq4sSsc8Akk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Spirituality](https://open.spotify.com/album/28DSzeC4i0k8acoKV8Dhb2) | 1:55 |
+| 12 | [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 |
+| 13 | [I Know A Secret](https://open.spotify.com/track/3yaKNCPHtIDunZKRi0x6Qf) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [I know a secret](https://open.spotify.com/album/1tD6EUliMH0tw0fW9b9eOS) | 3:22 |
+| 14 | [Healing Soul](https://open.spotify.com/track/4YhHUp0GHCmVFRCayD38a4) | [Tales From The Dream World](https://open.spotify.com/artist/3h94ZSG5d6bfJZMoCTHQYb) | [Native Spirit](https://open.spotify.com/album/5GLLKExiPJhyZBPaRaQRbp) | 1:50 |
+| 15 | [Sueño Profundo en la Naturaleza](https://open.spotify.com/track/0UjWCglRetLJvfzhpC1I6H) | [Música Relajante](https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR) | [Sueño Profundo En La Naturaleza](https://open.spotify.com/album/2ObWpuVUCTCT95yY7jsLTc) | 1:14 |
+| 16 | [Deep Sleep Flute](https://open.spotify.com/track/3toPGejMCBl68wsi4NjHrS) | [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5) | [Deep Sleep Dreams](https://open.spotify.com/album/1uBhdfgyP19ksI8kwtBD6o) | 1:47 |
+| 17 | [Sleep Will Come](https://open.spotify.com/track/2VcLfRb7hy51r3t3yv63cH) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Sleep Will Come](https://open.spotify.com/album/2xc4v5uB9IPgdh345J4oIh) | 2:53 |
+| 18 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 |
+| 19 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
+| 20 | [Arrival](https://open.spotify.com/track/79XBLGHDBLc08rgl5NTHhd) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Space Journey](https://open.spotify.com/album/2TIRl3SqebDrKLGGPmc1OW) | 3:15 |
+| 21 | [Dreams of Calmness](https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Dreams of Calmness](https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT) | 2:34 |
+| 22 | [Bright Lights](https://open.spotify.com/track/652msrYYe7mj1JnHTCEpVh) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Bright Lights](https://open.spotify.com/album/03hxhv179JxuT0J98k5djH) | 2:46 |
+| 23 | [After The Storm](https://open.spotify.com/track/1Mp8ZVLc3XQdDTIGHvbWsb) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Enigmatic Winds](https://open.spotify.com/album/5iFJCpNwoQdy25C7WwrRTV) | 3:10 |
 | 24 | [Pure And Calm](https://open.spotify.com/track/663LF9heB9sWluligQWpG8) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Pure And Calm](https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j) | 2:45 |
 | 25 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 |
 | 26 | [Prashansaneey](https://open.spotify.com/track/3Setdymx44HIU2wb7sW5s6) | [Ashia Kashyap](https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV) | [Prashansaneey](https://open.spotify.com/album/6dMnLGBlZrlHj2CrGuZPMn) | 3:41 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTetfhmm3xOs.md) - [plain]
 | 97 | [Are We Still Here](https://open.spotify.com/track/5rjIqwdOptcSeam8iWsYfJ) | [Jelena Vanags](https://open.spotify.com/artist/7DXjl9ExxUi8xScl5bFZJS) | [Are We Still Here](https://open.spotify.com/album/6DuEDinHFBpz7V2DdRmCWi) | 2:59 |
 | 98 | [Dreaming Of Pine Trees](https://open.spotify.com/track/3YSkrDZCRG0bcZ4AZw5rIj) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Gentle Breeze](https://open.spotify.com/album/33KDHAdMUVYaeDxgPuYxka) | 2:53 |
 
-Snapshot ID: `MTY2ODE2NzQ5NiwwMDAwMDAwMDk2OGJlMGE1MmE4OGY3YzRmNDk1ZGRmMzJmZmMxYzQ1`
+Snapshot ID: `MTY3MDU5OTIwMCwwMDAwMDAwMGM5Zjg1ZTE2OWUxOWEwNDA3ZWE1NzU0NTAzNTU3M2Fk`

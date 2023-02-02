@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-06-05",
   "description": "Beautiful electronic music for melancholy moments.",
   "name": "Melantronic",
-  "published_playlist_ids": [
-    "0eIEI0ptmU2SZvI7Y0sdN5"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 321880,
       "name": "aisatsana [102]",
       "url": "https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3"
@@ -91,7 +88,7 @@
       ],
       "date_added": "2021-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 310746,
       "name": "Alberto Balsalm",
       "url": "https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P"
@@ -297,7 +294,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 352945,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz"
@@ -1103,7 +1100,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 254117,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
@@ -2095,7 +2092,7 @@
     {
       "album": {
         "name": "MK 3.5: Die Cuts | City Planning",
-        "url": "https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2"
+        "url": "https://open.spotify.com/album/5s6aGKI2wpPxegrhLXmGIG"
       },
       "artists": [
         {
@@ -2110,6 +2107,28 @@
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 46813,
+      "name": "need u tonight",
+      "url": "https://open.spotify.com/track/2elKWE56P0CVtdR5qgDt7i"
+    },
+    {
+      "album": {
+        "name": "MK 3.5: Die Cuts | City Planning",
+        "url": "https://open.spotify.com/album/1syG1kZ36G6xVnnsr6RjG2"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Dom Maker",
+          "url": "https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 46813,
       "name": "need u tonight",
       "url": "https://open.spotify.com/track/3FZFI1p9qhX0FWQIsklTFW"
@@ -2377,7 +2396,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 343400,
       "name": "Parallel 7",
       "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
@@ -2533,7 +2552,7 @@
       ],
       "date_added": "2020-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 152333,
       "name": "Petals",
       "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"

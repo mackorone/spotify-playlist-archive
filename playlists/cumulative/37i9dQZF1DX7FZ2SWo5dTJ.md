@@ -4,7 +4,7 @@
 
 > Soundtrack your 2022 resolutions with Jeanette Jenkins.
 
-49 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/45TE9HqDov35LUf15heZki)
+49 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Freedom](https://open.spotify.com/track/4RJaUuF4ffF7i2wzrJLvyR) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Universal Sound of Buddha Bar](https://open.spotify.com/album/0xOngzQjGI9flWLq1Akhk1) | 3:53 | 2022-01-12 |  |
 | [Freedom](https://open.spotify.com/track/3PuPUsDKtao10gqUJF5gRU) | [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Best Of](https://open.spotify.com/album/7zW3XXUjC2FeasKd4NQGhM) | 3:45 | 2022-01-12 | 2022-07-29 |
 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 | 2022-01-12 |  |
-| [Is This Love \- Montmartre Remix](https://open.spotify.com/track/3DE2xnbdTDuatFubUV0soe) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Is This Love \(Montmartre Remix\)](https://open.spotify.com/album/7Lr6wCyrlqkjgfrUhJpNBI) | 4:29 | 2022-01-12 |  |
+| [Is This Love \- Montmartre Remix](https://open.spotify.com/track/3DE2xnbdTDuatFubUV0soe) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Is This Love \(Montmartre Remix\)](https://open.spotify.com/album/7Lr6wCyrlqkjgfrUhJpNBI) | 4:29 | 2022-01-12 |  |
 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 | 2022-01-12 |  |
 | [Kiss of Life \- Remastered](https://open.spotify.com/track/21VQMMzsYxMfi68aQQZiUt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:10 | 2022-01-12 | 2022-11-14 |
 | [Kiss of Love](https://open.spotify.com/track/0rRLM4kWgMqoBtCHNdS0VX) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best Of Sade](https://open.spotify.com/album/4tYiiSjPEguQYzSMne1HfX) | 4:10 | 2022-01-12 | 2022-07-29 |

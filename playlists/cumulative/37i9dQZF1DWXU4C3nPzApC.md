@@ -4,7 +4,7 @@
 
 > The best music with a Nashville flavour\. Cover: The Shires
 
-88 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
+88 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

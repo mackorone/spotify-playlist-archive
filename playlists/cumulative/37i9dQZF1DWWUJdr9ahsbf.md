@@ -4,7 +4,7 @@
 
 > What you really, really want.
 
-45 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/4pTpjsSxh6QLPsabX0uTEN)
+45 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

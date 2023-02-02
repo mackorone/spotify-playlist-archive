@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaky0wMRgvaj.md) - [plain]
 
 > A collection of Psalms set to relaxing classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,681 likes - 63 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,836 likes - 63 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

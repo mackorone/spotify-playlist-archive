@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-09",
   "description": "Indie folk that defined the 2000s.",
   "name": "00s Indie Folk",
-  "published_playlist_ids": [
-    "7oAJosHP5U7Gjb4MjQ0A6m"
-  ],
   "tracks": [
     {
       "album": {
@@ -1313,7 +1310,7 @@
     {
       "album": {
         "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
       "artists": [
         {
@@ -1324,6 +1321,24 @@
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209026,
+      "name": "I'd Rather Dance With You",
+      "url": "https://open.spotify.com/track/119MXpXxpY20WUkDIdE6U4"
+    },
+    {
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
       "duration_ms": 209026,
       "name": "I'd Rather Dance With You",
       "url": "https://open.spotify.com/track/4hGOhC87bn7JBdYykOJJvJ"
@@ -1647,7 +1662,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 314413,
       "name": "Knife",
       "url": "https://open.spotify.com/track/4BmtCb6sdMqECAItGmFDvU"
@@ -1907,7 +1922,7 @@
     {
       "album": {
         "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
       "artists": [
         {
@@ -1918,6 +1933,24 @@
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Misread",
+      "url": "https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz"
+    },
+    {
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
       "duration_ms": 188400,
       "name": "Misread",
       "url": "https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg"
@@ -2223,7 +2256,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 250013,
       "name": "Painter in Your Pocket",
       "url": "https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes"
@@ -2295,7 +2328,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 257213,
       "name": "Ready, Able",
       "url": "https://open.spotify.com/track/5cf1ZfI16kHp3S1ySpQ36G"
@@ -3105,7 +3138,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 323973,
       "name": "The Sea and the Rhythm",
       "url": "https://open.spotify.com/track/5H8xLLUBnNS9ipRlybQbu6"
@@ -3343,7 +3376,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
@@ -3379,7 +3412,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 184280,
       "name": "We Both Go Down Together",
       "url": "https://open.spotify.com/track/0U7XzVIAzoavQQ7DS94KYp"

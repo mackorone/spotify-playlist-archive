@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Kick back and relax after a hard day.",
   "name": "Home at Last",
-  "published_playlist_ids": [
-    "0ZYfVRCO1TPKQs9yo56rwb"
-  ],
   "tracks": [
     {
       "album": {
@@ -221,6 +218,28 @@
       "duration_ms": 264811,
       "name": "Believe These Blues",
       "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
+    },
+    {
+      "album": {
+        "name": "Better Days (feat. Dave Fenley)",
+        "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
+      },
+      "artists": [
+        {
+          "name": "The Hello Darlins",
+          "url": "https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC"
+        },
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Better Days (feat. Dave Fenley)",
+      "url": "https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN"
     },
     {
       "album": {
@@ -499,7 +518,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 317275,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF"
@@ -649,10 +668,28 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 222823,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4dzu4NhhokRDXA8SpR4egQ"
+    },
+    {
+      "album": {
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157266,
+      "name": "Drivin' Wheel - Single Version",
+      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
     },
     {
       "album": {
@@ -667,7 +704,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 160773,
       "name": "Driving Wheel",
       "url": "https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa"
@@ -721,7 +758,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 279922,
       "name": "Ex's House Party",
       "url": "https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp"
@@ -851,7 +888,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 207653,
       "name": "Fireman",
       "url": "https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO"
@@ -984,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Got Me a Party",
+        "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
+      },
+      "artists": [
+        {
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140600,
+      "name": "Got Me a Party",
+      "url": "https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L"
+    },
+    {
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/5RGlC4xXZ5IxdySWnCfEnY"
       },
@@ -1039,6 +1094,28 @@
       "duration_ms": 188973,
       "name": "Gunsmoke Blues (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
+    },
+    {
+      "album": {
+        "name": "He Was a Friend of Mine",
+        "url": "https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8"
+      },
+      "artists": [
+        {
+          "name": "Tom Freund",
+          "url": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197739,
+      "name": "He Was a Friend of Mine",
+      "url": "https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn"
     },
     {
       "album": {
@@ -1226,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177329,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
+    },
+    {
+      "album": {
         "name": "How Many Times?",
         "url": "https://open.spotify.com/album/7kHS26d1CwereSBwSSpxrK"
       },
@@ -1324,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "I Shouldn\u2019t Care (Bonus Track)",
+        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "I Shouldn't Care - Bonus Track",
+      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
+    },
+    {
+      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/7HkdGOPmc7rmzbDXFR8Khb"
       },
@@ -1378,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "One Foot In The Groove",
+        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 205974,
+      "name": "Ice Cream and Cigarettes",
+      "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
+    },
+    {
+      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1407,7 +1538,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 332310,
       "name": "If You're Gonna Leave Me",
       "url": "https://open.spotify.com/track/1XtppgAPSCRwfDlLy2Rv4a"
@@ -1711,10 +1842,28 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 144746,
       "name": "Mystery Train",
       "url": "https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo"
+    },
+    {
+      "album": {
+        "name": "Mystery Train / Love My Baby",
+        "url": "https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU"
     },
     {
       "album": {
@@ -1881,7 +2030,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 160800,
       "name": "Pulling Down The Ride",
       "url": "https://open.spotify.com/track/1rFeL11BESHiNemWysu9eE"
@@ -2516,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "From the Cradle",
+        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308893,
+      "name": "Third Degree",
+      "url": "https://open.spotify.com/track/3R6Lzof0YvFqhE8ca1BYMh"
+    },
+    {
+      "album": {
         "name": "Forever Man",
         "url": "https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T"
       },
@@ -2621,7 +2788,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240760,
       "name": "Wrong Hands",
       "url": "https://open.spotify.com/track/1HbbVMWUSmPpOhurz3vFXs"

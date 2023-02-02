@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/5LKBTI9ficKXN3RtoxJvCN)
+122 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Devotion](https://open.spotify.com/track/2RziQjJfYozWXX5d2AyRYi) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:46 | 2022-09-08 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/1E3ghCAkxEdT5KHVBwArr3) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:35 | 2022-09-08 |  |
 | [don't pick up the phone](https://open.spotify.com/track/5j610MhjMLhyT2pPNy9Zj9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 2:34 | 2022-09-08 |  |
-| [Dream On Me](https://open.spotify.com/track/6vHE5zEPYdb0HUKRaIQ6tI) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Dream On Me](https://open.spotify.com/album/6YR3EVz9Cd981Vss9jl3AN) | 3:02 | 2022-09-08 |  |
+| [Dream On Me](https://open.spotify.com/track/1dCpERd2GVVFbKuOpJjgPm) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:02 | 2022-11-27 |  |
+| [Dream On Me](https://open.spotify.com/track/6vHE5zEPYdb0HUKRaIQ6tI) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Dream On Me](https://open.spotify.com/album/6YR3EVz9Cd981Vss9jl3AN) | 3:02 | 2022-09-08 | 2022-11-28 |
 | [Everybody Knows](https://open.spotify.com/track/7KYMs4Y5WwhspkMLApgfCk) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 3:25 | 2022-09-08 |  |
 | [Fabulous](https://open.spotify.com/track/1nLj9iiZr3Bb3e0zYiyDfm) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [DMK](https://open.spotify.com/artist/6Jzb9QsxR4wkdtNxg108Aj) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 2:53 | 2022-09-08 |  |
 | [Fantasy](https://open.spotify.com/track/0uKrDNElljLIvrrSb7zVRu) | [JBJ](https://open.spotify.com/artist/6VJXRJvRRyLv99RZbXJ8RO) | [NEW MOON](https://open.spotify.com/album/3c1qg7O88Wc5wDDJ1YEUzV) | 3:22 | 2022-09-08 |  |

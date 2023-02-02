@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
   "name": "80s Latino",
-  "published_playlist_ids": [
-    "1X3yVGrCiHqjCnSxESTAcM"
-  ],
   "tracks": [
     {
       "album": {
@@ -239,7 +236,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 264826,
       "name": "Come Into My Arms",
       "url": "https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX"
@@ -881,7 +878,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-24",
       "duration_ms": 292200,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/0cslUTJ5eB4hUNs0fKyh59"
@@ -1155,7 +1152,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 300493,
       "name": "Toda la Vida",
       "url": "https://open.spotify.com/track/7M8sGCxjrx4tKV1m0g9JDA"

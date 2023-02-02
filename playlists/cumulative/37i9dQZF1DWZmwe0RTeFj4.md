@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo mejor de la música Norteña\. Cover: LOS DOS DE TAMAULIPAS
 
-176 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/1WOSdYHdxkxtGqTqIoxthB)
+176 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

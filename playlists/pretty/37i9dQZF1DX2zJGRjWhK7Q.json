@@ -1,13 +1,29 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 145465,
+  "num_followers": 150803,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMGM0NDk3NWVjYTU2YjZkOTQ4YTg0MDk4MGFhMmMxYzg1",
+  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMGIzZDg5YTUzZDM4OTUwNDkyZTc1ZWEzM2ViZDUxM2U2",
   "tracks": [
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
@@ -31,22 +47,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -59,6 +59,22 @@
       "duration_ms": 626880,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -79,86 +95,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 229355,
-      "name": "Sigue Tu Camino",
-      "url": "https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Que Gente Averigu\u00e1",
-        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
-      },
-      "artists": [
-        {
-          "name": "Mon Rivera",
-          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Lluvia con Nieve",
-      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Numero 7",
-        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 298515,
-      "name": "Un verano en Nueva York",
-      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 409080,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Qu\u00e9 Pena",
-        "url": "https://open.spotify.com/album/0uGdFy3Gujx8h93HkCFWFf"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 295206,
-      "name": "Qu\u00e9 Pena",
-      "url": "https://open.spotify.com/track/6afQURuED4PRXcA8IGoSx4"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -191,62 +127,18 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+        "name": "Que Gente Averigu\u00e1",
+        "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
         }
       ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Plant\u00e9 Bandera",
-        "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Chamaco Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx"
-        }
-      ],
-      "duration_ms": 302413,
-      "name": "Trucutu",
-      "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Vigilante",
-        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 371773,
-      "name": "Triste Y Vac\u00eda",
-      "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
+      "duration_ms": 177680,
+      "name": "Lluvia con Nieve",
+      "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -271,18 +163,34 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
+        "name": "Numero 7",
+        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
       },
       "artists": [
         {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 293786,
-      "name": "El Preso",
-      "url": "https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j"
+      "duration_ms": 298515,
+      "name": "Un verano en Nueva York",
+      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 229355,
+      "name": "Sigue Tu Camino",
+      "url": "https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -299,6 +207,78 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 409080,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Qu\u00e9 Pena",
+        "url": "https://open.spotify.com/album/5JtBd2d34ueQOa0VHr13I5"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 295206,
+      "name": "Qu\u00e9 Pena",
+      "url": "https://open.spotify.com/track/2BiPX58VlbUBfiu7hlbomO"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Plant\u00e9 Bandera",
+        "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Chamaco Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx"
+        }
+      ],
+      "duration_ms": 302413,
+      "name": "Trucutu",
+      "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -351,18 +331,18 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+        "name": "Maelo...El \u00danico",
+        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
         }
       ],
-      "duration_ms": 326880,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/7epwpv5eX5E5rJLOKMBKS4"
+      "duration_ms": 339240,
+      "name": "El Nazareno",
+      "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -379,6 +359,42 @@
       "duration_ms": 295080,
       "name": "Mujer Divina",
       "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "V\u00e1monos Pa'l Monte",
+        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 426840,
+      "name": "V\u00e1monos Pa'l Monte",
+      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 371773,
+      "name": "Triste Y Vac\u00eda",
+      "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -407,34 +423,18 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Maelo...El \u00danico",
-        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
+        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
       },
       "artists": [
         {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
         }
       ],
-      "duration_ms": 339240,
-      "name": "El Nazareno",
-      "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "V\u00e1monos Pa'l Monte",
-        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 426840,
-      "name": "V\u00e1monos Pa'l Monte",
-      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+      "duration_ms": 293786,
+      "name": "El Preso",
+      "url": "https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "A Lifetime of Hits... (Live At Centro de Bellas Artes, San Juan, Puerto Rico.)",
-        "url": "https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz"
-      },
-      "artists": [
-        {
-          "name": "Richie Ray & Bobby Cruz",
-          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
-        }
-      ],
-      "duration_ms": 598853,
-      "name": "Sonido Bestial",
-      "url": "https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "Barretto Power",
         "url": "https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7"
       },
@@ -519,22 +503,18 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Baile Con Cortijo",
-        "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
+        "name": "A Lifetime of Hits... (Live At Centro de Bellas Artes, San Juan, Puerto Rico.)",
+        "url": "https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz"
       },
       "artists": [
         {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
-        },
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+          "name": "Richie Ray & Bobby Cruz",
+          "url": "https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq"
         }
       ],
-      "duration_ms": 180560,
-      "name": "El Negro Bemb\u00f3n",
-      "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
+      "duration_ms": 598853,
+      "name": "Sonido Bestial",
+      "url": "https://open.spotify.com/track/3ouNYFFQeYMJXjqGK0S1hM"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -555,6 +535,42 @@
       "duration_ms": 211400,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 326880,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/7epwpv5eX5E5rJLOKMBKS4"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Baile Con Cortijo",
+        "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
+      },
+      "artists": [
+        {
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+        },
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "El Negro Bemb\u00f3n",
+      "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -619,22 +635,22 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Billo's Caracas Boys vs. Dimension Latina",
-        "url": "https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu"
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
       "artists": [
         {
-          "name": "Billo's",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         },
         {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 225140,
-      "name": "Lloraras - Edit",
-      "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
+      "duration_ms": 369120,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -715,42 +731,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS"
-      },
-      "artists": [
-        {
-          "name": "Raphy Leavitt",
-          "url": "https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Siempre Alegre",
-      "url": "https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 369120,
-      "name": "Aguanile",
-      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/2poCxJ77jFLqPPhOsDxMHN"
       },
@@ -763,38 +743,6 @@
       "duration_ms": 260017,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/4jdH5sZmPtDzSCF53nGCYu"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Maelo...El \u00danico",
-        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 262493,
-      "name": "Traigo De Todo",
-      "url": "https://open.spotify.com/track/7DJqNSNCLQk4xhLMJv1xo0"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Jibaro Soy... Dg1236",
-        "url": "https://open.spotify.com/album/3QoLk4smlcw55snXcRwGTP"
-      },
-      "artists": [
-        {
-          "name": "Rapphy Levitt Orquesta La Selecta",
-          "url": "https://open.spotify.com/artist/2iKZL4iDwGCUUqZcG5okOg"
-        }
-      ],
-      "duration_ms": 301480,
-      "name": "Jibaro Soy",
-      "url": "https://open.spotify.com/track/26KRkeRDHUH73zwgohnoDv"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -815,18 +763,18 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "With A Little Help From My Friend",
-        "url": "https://open.spotify.com/album/3RRcw4zxfUm5rhfYpLMzlZ"
+        "name": "Maelo...El \u00danico",
+        "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
         }
       ],
-      "duration_ms": 282213,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/6DDQmrMvH4RfxVn7TTTDW6"
+      "duration_ms": 262493,
+      "name": "Traigo De Todo",
+      "url": "https://open.spotify.com/track/7DJqNSNCLQk4xhLMJv1xo0"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -843,6 +791,54 @@
       "duration_ms": 211200,
       "name": "Comedia",
       "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS"
+      },
+      "artists": [
+        {
+          "name": "Raphy Leavitt",
+          "url": "https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Siempre Alegre",
+      "url": "https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "With A Little Help From My Friend",
+        "url": "https://open.spotify.com/album/3RRcw4zxfUm5rhfYpLMzlZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 282213,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/6DDQmrMvH4RfxVn7TTTDW6"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Jibaro Soy... Dg1236",
+        "url": "https://open.spotify.com/album/3QoLk4smlcw55snXcRwGTP"
+      },
+      "artists": [
+        {
+          "name": "Rapphy Levitt Orquesta La Selecta",
+          "url": "https://open.spotify.com/artist/2iKZL4iDwGCUUqZcG5okOg"
+        }
+      ],
+      "duration_ms": 301480,
+      "name": "Jibaro Soy",
+      "url": "https://open.spotify.com/track/26KRkeRDHUH73zwgohnoDv"
     },
     {
       "added_at": "2022-02-18 16:03:15",

@@ -4,21 +4,21 @@
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/4BvGS6QmMp3Lq2pFlrq9Ly)
+90 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0 choir](https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 5:41 | 2022-06-09 |  |
 | [23ワード](https://open.spotify.com/track/7zJQuPrwUfbwFKJJwx4mRT) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:43 | 2022-07-02 | 2022-08-21 |
 | [7th Trigger](https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:18 | 2022-06-09 |  |
-| [7日目の決意](https://open.spotify.com/track/2697A4jAyN041xwNXRBC3Q) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 6:46 | 2022-06-09 |  |
+| [7日目の決意](https://open.spotify.com/track/2697A4jAyN041xwNXRBC3Q) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 6:46 | 2022-06-09 | 2022-12-18 |
 | [ace of ace](https://open.spotify.com/track/5OWhRhguQVJ51KjlqDBxtS) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 3:20 | 2022-07-02 | 2022-08-26 |
 | [AFTER LIFE](https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 5:12 | 2022-06-11 |  |
 | [ALL ALONE \(album ver.\)](https://open.spotify.com/track/05DaPfS9Z1JBe8jDZ3qARS) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 5:43 | 2022-08-06 | 2022-10-05 |
 | [AS ONE](https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 3:49 | 2022-06-09 |  |
 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 | 2022-06-09 |  |
 | [AWAYOKUBA\-斬る](https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [7th Trigger](https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz) | 4:35 | 2022-06-13 | 2022-08-21 |
-| [BABY BORN & GO](https://open.spotify.com/track/7fyaPmW3CrDlu50E1AlMHv) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:28 | 2022-06-09 | 2022-10-12 |
+| [BABY BORN & GO](https://open.spotify.com/track/7fyaPmW3CrDlu50E1AlMHv) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:28 | 2022-06-09 |  |
 | [BVCK](https://open.spotify.com/track/0gJshpPlLWS2ErIRZNEmMm) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ピグマリオン](https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC) | 3:50 | 2022-08-20 |  |
 | [CHANCE!](https://open.spotify.com/track/6ASc0gMzq0KSiVB8WLPHCP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 4:30 | 2022-06-09 |  |
 | [Collide](https://open.spotify.com/track/6vEJ6oy3ardFaLYYJFRmEX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 3:30 | 2022-06-09 |  |
@@ -36,7 +36,7 @@
 | [Forever Young](https://open.spotify.com/track/1lq7KJ0TY8sTxazl6y68YW) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [DAWN](https://open.spotify.com/album/5clOVOw7JaQdfBOP1aboZ3) | 4:00 | 2022-06-09 |  |
 | [GO\-ON](https://open.spotify.com/track/6SyR6c2BVO0Wa72dQEFBzv) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [GO\-ON](https://open.spotify.com/album/6EhK465XjJxe1C1fWEn7oi) | 4:19 | 2022-06-09 |  |
 | [Gold](https://open.spotify.com/track/5wFmOX7uCCi1KwdWuufm2a) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LAST](https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b) | 4:03 | 2022-06-30 | 2022-07-20 |
-| [GOOD and EVIL](https://open.spotify.com/track/4NojX9qo5t2aViWKPQjtE3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:23 | 2022-06-09 |  |
+| [GOOD and EVIL](https://open.spotify.com/track/4NojX9qo5t2aViWKPQjtE3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:23 | 2022-06-09 | 2022-12-31 |
 | [HOURGLASS](https://open.spotify.com/track/4v3uMW3YGHyGfBSHTezgwl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [HOURGLASS](https://open.spotify.com/album/5HcGmONmQBgwUDWcN128Hd) | 4:02 | 2022-07-13 | 2022-07-17 |
 | [I LOVE THE WORLD](https://open.spotify.com/track/6J25oC8Xh8YuXOvmzZlQoO) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:36 | 2022-06-11 | 2022-10-07 |
 | [IMPACT](https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:25 | 2022-06-09 |  |
@@ -52,6 +52,7 @@
 | [NO.1](https://open.spotify.com/track/0KUwWB5EWikcRN32ol1eZq) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NO.1](https://open.spotify.com/album/3tNT6nyzW65FKqjmOjp0ID) | 5:32 | 2022-06-09 | 2022-10-11 |
 | [ODD FUTURE](https://open.spotify.com/track/5tHp131qFB3T7e01x1xsO2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:46 | 2022-06-09 |  |
 | [ODD FUTURE short ver.](https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ODD FUTURE short ver.](https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN) | 1:29 | 2022-06-09 |  |
+| [One Last Time](https://open.spotify.com/track/4hfdwNAshu0chyIXkIgBD6) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:22 | 2022-12-30 |  |
 | [ONE LIFE](https://open.spotify.com/track/0jZuZviZ9DjdgoOgGxDxKd) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [無双Collaborations \-The undefeated\-](https://open.spotify.com/album/43YpGTcUo1dDHgGyGftoBC) | 3:40 | 2022-08-22 | 2022-10-18 |
 | [One stroke for freedom](https://open.spotify.com/track/5Ucz24aUo02729n6aLz9mV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:13 | 2022-06-09 |  |
 | [OUR ALWAYS](https://open.spotify.com/track/45fUsf4nyrfbEP9JL0unQ1) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 4:23 | 2022-06-09 | 2022-08-17 |

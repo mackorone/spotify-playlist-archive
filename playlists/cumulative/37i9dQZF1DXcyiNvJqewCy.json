@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "~ have a lovely time ~",
   "name": "The Picnic List",
-  "published_playlist_ids": [
-    "54I04EmnPnUUEk8lPEzRH1"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 163755,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "album": {
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129061,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
     },
     {
       "album": {
@@ -134,24 +149,6 @@
     },
     {
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "date_added": "2022-07-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
-    },
-    {
-      "album": {
         "name": "14 Steps To A Better You",
         "url": "https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY"
       },
@@ -224,6 +221,24 @@
     },
     {
       "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "AOK",
+      "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
+    },
+    {
+      "album": {
         "name": "Apricots",
         "url": "https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw"
       },
@@ -271,7 +286,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-13",
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
@@ -1233,7 +1248,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
@@ -1543,7 +1558,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-08",
       "duration_ms": 219000,
       "name": "Flume",
       "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
@@ -1685,7 +1700,7 @@
           "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "date_added": "2022-11-11",
+      "date_added": "2022-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209259,
@@ -1817,6 +1832,24 @@
       "duration_ms": 217284,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm"
+    },
+    {
+      "album": {
+        "name": "Groovin' (Mono)",
+        "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
+      },
+      "artists": [
+        {
+          "name": "The Young Rascals",
+          "url": "https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 151289,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
     },
     {
       "album": {
@@ -2087,7 +2120,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 268333,
       "name": "Hunnybee",
       "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
@@ -2177,7 +2210,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 211533,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
@@ -2817,7 +2850,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 200093,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa"
@@ -3035,6 +3068,10 @@
       },
       "artists": [
         {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
           "name": "Julien Baker",
           "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         },
@@ -3049,7 +3086,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
@@ -3265,7 +3302,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 275306,
       "name": "Mykonos",
       "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
@@ -3283,10 +3320,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 258653,
       "name": "Myth",
       "url": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5"
+    },
+    {
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 234160,
+      "name": "Nancy From Now On",
+      "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
     },
     {
       "album": {
@@ -3901,7 +3956,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 180146,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA"
@@ -5027,7 +5082,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
@@ -5155,7 +5210,7 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "date_added": "2022-11-11",
+      "date_added": "2022-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216586,

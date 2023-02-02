@@ -4,7 +4,7 @@
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-103 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/5KqdPjZsZp6sxfFMSxGy2A)
+103 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Altered States](https://open.spotify.com/track/50Guagu1QQTRyUAM7PvQC6) | [Direct Hit!](https://open.spotify.com/artist/23gluE1Q1KOmXrpYz1ivTu) | [Crown of Nothing](https://open.spotify.com/album/1EFnZuLUzXx0B6ZsL9aqum) | 3:04 | 2021-01-16 |  |
 | [America \(You're Freaking Me Out\)](https://open.spotify.com/track/20WfBEoY5LuJdK9slRv71l) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [America \(You're Freaking Me Out\)](https://open.spotify.com/album/76xp2axlbmffPMsZaGIWVX) | 3:35 | 2021-01-16 | 2022-08-31 |
 | [America \(You're Freaking Me Out\)](https://open.spotify.com/track/7b7kOUu2KmSDCy6Ebglidg) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 3:35 | 2021-01-16 |  |
-| [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 | 2021-01-16 | 2022-11-26 |
+| [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 | 2021-01-16 | 2022-12-27 |
 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 | 2021-01-16 |  |
 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 | 2021-01-16 |  |
 | [An Injury to One](https://open.spotify.com/track/0i5na5qxERiX35eKd0Pn19) | [Great Collapse](https://open.spotify.com/artist/2nq8wj1Z9T4V7vaFOUkMrd) | [Neither Washington nor Moscow..\. Again](https://open.spotify.com/album/0zF7GMeOrpyYc0N19CKC0R) | 3:00 | 2021-01-16 | 2022-07-17 |

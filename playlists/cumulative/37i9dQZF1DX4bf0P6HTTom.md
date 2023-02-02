@@ -4,7 +4,7 @@
 
 > Eagles, The Byrds and all your favorite country rock
 
-66 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/5FqY2By8EsJ5wHYuLunZDA)
+66 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,10 +29,10 @@
 | [Lonesome L.A\. Cowboy](https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih) | [New Riders of the Purple Sage](https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA) | [The Adventures Of Panama Red](https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY) | 4:03 | 2020-08-05 |  |
 | [Lookin' Out My Back Door](https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:32 | 2020-08-05 |  |
 | [Love Reunited](https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63) | [The Desert Rose Band](https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u) | [The Desert Rose Band](https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih) | 2:57 | 2020-08-05 |  |
-| [Luxury Liner](https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:55 | 2020-08-05 |  |
+| [Luxury Liner](https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:55 | 2020-08-05 | 2023-01-21 |
 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 | 2020-08-05 |  |
 | [Make A Little Magic](https://open.spotify.com/track/728MAA4aiTVtTxn0Z2k1cu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Make A Little Magic](https://open.spotify.com/album/7hd0MbxF0wWBjiOdxEmrmu) | 3:57 | 2020-08-05 | 2022-06-01 |
-| [Make A Little Magic \- 2001 Remaster](https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:55 | 2020-08-05 | 2022-11-14 |
+| [Make A Little Magic \- 2001 Remaster](https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:55 | 2020-08-05 |  |
 | [Mama Nantucket](https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq) | [Michael Nesmith](https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2), [The First National Band](https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF) | [Magnetic South \(Expanded Edition\)](https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7) | 2:39 | 2020-08-05 |  |
 | [Miller's Cave](https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:49 | 2020-08-05 |  |
 | [Miller's Cave](https://open.spotify.com/track/7gsiUput4gYeAQZkOx7J8I) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/1CBHkPPiPzCrF6EVd6bFiv) | 2:49 | 2020-08-05 | 2022-07-29 |

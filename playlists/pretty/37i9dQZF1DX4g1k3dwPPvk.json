@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 235482,
+  "num_followers": 244020,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyOTU2MSwwMDAwMDAwMDhkNzIyYmFmODQ2MjcyMDJmZjk0Y2Y2NTEzOTY3YTk5",
+  "snapshot_id": "MTY2MTkyOTU2MSwwMDAwMDAwMDc3YjJiZTNhZjFmMzEzNWZkZGUyMDAxYTFiOGUwMjRh",
   "tracks": [
     {
       "added_at": "2022-08-31 07:05:31",
@@ -196,7 +196,7 @@
       "added_at": "2022-08-31 07:05:31",
       "album": {
         "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
       "artists": [
         {
@@ -206,7 +206,7 @@
       ],
       "duration_ms": 257079,
       "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/5DAcQYhc2MurNpTHtX8kZ3"
+      "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 192866,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -423,54 +423,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Capital Punishment (Explicit Version)",
-        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
       "artists": [
         {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 236800,
-      "name": "Still Not a Player (feat. Joe) - Radio Version",
-      "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 307866,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+      "duration_ms": 267826,
+      "name": "Ciega, Sordomuda",
+      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -507,6 +471,26 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
+        "name": "Capital Punishment (Explicit Version)",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Still Not a Player (feat. Joe) - Radio Version",
+      "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 187666,
       "name": "Te Quiero Tanto, Tanto",
       "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -555,8 +555,40 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
       "artists": [
         {
@@ -564,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 267826,
-      "name": "Ciega, Sordomuda",
-      "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+      "duration_ms": 232466,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -619,86 +651,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "El Amor De Mi Tierra",
-        "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Fruta Fresca",
-      "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
-      },
-      "artists": [
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "Desesperada",
-      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -719,50 +671,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l"
       },
       "artists": [
         {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "La Ultima Tentaci\u00f3n",
-        "url": "https://open.spotify.com/album/4zgAUvHWJU5TsT7eoBM9Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistades Peligrosas",
-          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Me haces tanto bien",
-      "url": "https://open.spotify.com/track/5PM8SxOW02F9ChM0BLjALX"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Mirala Miralo",
-      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
+      "duration_ms": 227733,
+      "name": "Desesperada",
+      "url": "https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -783,6 +703,86 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
+        "name": "El Amor De Mi Tierra",
+        "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Fruta Fresca",
+      "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "La Ultima Tentaci\u00f3n",
+        "url": "https://open.spotify.com/album/4zgAUvHWJU5TsT7eoBM9Vq"
+      },
+      "artists": [
+        {
+          "name": "Amistades Peligrosas",
+          "url": "https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Me haces tanto bien",
+      "url": "https://open.spotify.com/track/5PM8SxOW02F9ChM0BLjALX"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Mirala Miralo",
+      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -792,9 +792,25 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 266000,
-      "name": "If You Had My Love",
-      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "La Tierra del Olvido (005)",
+        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Pa' Mayte",
+      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -831,38 +847,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "A Pedir Su Mano",
-      "url": "https://open.spotify.com/track/0Y6RXhbU85T0P0HeiT1Tnb"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "La Tierra del Olvido (005)",
-        "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Pa' Mayte",
-      "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "La Chica Dorada",
         "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
       },
@@ -875,54 +859,6 @@
       "duration_ms": 225866,
       "name": "M\u00edo",
       "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Corazones",
-        "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 383573,
-      "name": "Estrechez De Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "I Could Fall In Love",
-      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -943,18 +879,34 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+        "name": "Corazones",
+        "url": "https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH"
       },
       "artists": [
         {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
         }
       ],
-      "duration_ms": 275040,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
+      "duration_ms": 383573,
+      "name": "Estrechez De Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -979,6 +931,54 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "A Pedir Su Mano",
+      "url": "https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
         "name": "Estas Buena",
         "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 205000,
       "name": "Te Ves Buena",
       "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/183XphT974zDxwM5QxETET"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 214066,
-      "name": "Bailamos",
-      "url": "https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Marc Anthony",
-        "url": "https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d"
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/183XphT974zDxwM5QxETET"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 347106,
-      "name": "You Sang To Me",
-      "url": "https://open.spotify.com/track/2dwhMQsFeHr2S787WxqAqW"
+      "duration_ms": 214066,
+      "name": "Bailamos",
+      "url": "https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1091,82 +1075,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+        "name": "Marc Anthony",
+        "url": "https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 251440,
-      "name": "No Llores por Mi",
-      "url": "https://open.spotify.com/track/1qZPQqoomnPzHKGjvn136r"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "De M\u00fasica Ligera",
-      "url": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 269613,
-      "name": "C\u00f3mo Te Deseo",
-      "url": "https://open.spotify.com/track/6kdupfq3aldz65urrIjsyp"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Amor A La Mexicana",
-        "url": "https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Amor A La Mexicana",
-      "url": "https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+      "duration_ms": 347106,
+      "name": "You Sang To Me",
+      "url": "https://open.spotify.com/track/2dwhMQsFeHr2S787WxqAqW"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1187,6 +1107,54 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
+        "name": "Amor A La Mexicana",
+        "url": "https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Amor A La Mexicana",
+      "url": "https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "De M\u00fasica Ligera",
+      "url": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
         "name": "Originales",
         "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
       },
@@ -1199,6 +1167,22 @@
       "duration_ms": 244773,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/2oZLIxCH4U7a5uc307IFLp"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 269613,
+      "name": "C\u00f3mo Te Deseo",
+      "url": "https://open.spotify.com/track/6kdupfq3aldz65urrIjsyp"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "No Llores por Mi",
+      "url": "https://open.spotify.com/track/1qZPQqoomnPzHKGjvn136r"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
         "name": "MDO",
         "url": "https://open.spotify.com/album/1Qh8IqiGgpCGxHGXQdpbVr"
       },
@@ -1231,38 +1231,6 @@
       "duration_ms": 210520,
       "name": "No Puedo Olvidarme Ti",
       "url": "https://open.spotify.com/track/3AZ2FAKI5pGoRgRdAwN2Mq"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/41fPYZa2fOSHLEG1gvtian"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Marc Anthony",
-        "url": "https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "I Need to Know",
-      "url": "https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1283,6 +1251,38 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
+        "name": "Marc Anthony",
+        "url": "https://open.spotify.com/album/2zG5uEJ1zY00uN6qXjPu5d"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "I Need to Know",
+      "url": "https://open.spotify.com/track/7ffwRz8lZyDOE4Vj58Lo72"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 206253,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/41fPYZa2fOSHLEG1gvtian"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
         "name": "Hispanic Causing Panic",
         "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 209066,
       "name": "La Raza",
       "url": "https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1331,6 +1315,54 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
+        "name": "Un Segundo En El Tiempo",
+        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 306973,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/3j5BMF5Pco451TqCo3YuCJ"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        }
+      ],
+      "duration_ms": 221173,
+      "name": "Media Naranja",
+      "url": "https://open.spotify.com/track/5qOOJibHjeGx0rhzL20JSc"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
         "name": "Solo Para Fan\u00e1ticos",
         "url": "https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w"
       },
@@ -1343,22 +1375,6 @@
       "duration_ms": 278693,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Mis Mejores Momentos:Para Coleccionistas Romantic",
-        "url": "https://open.spotify.com/album/101Hh240WmUplE337DUCEO"
-      },
-      "artists": [
-        {
-          "name": "Cristian",
-          "url": "https://open.spotify.com/artist/3udlGv7o6NeUWRlRFGqPY9"
-        }
-      ],
-      "duration_ms": 306503,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/0ZeXFBOLHKW9kENLQFE6bt"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1383,6 +1399,22 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
+        "name": "Unidos Para Siempre",
+        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/0b4NG6vOqNdqzuJauiQkwE"
+    },
+    {
+      "added_at": "2022-08-31 07:05:31",
+      "album": {
         "name": "2En1",
         "url": "https://open.spotify.com/album/55P4D6uBsoMMRDMaxVn6mp"
       },
@@ -1399,18 +1431,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Unidos Para Siempre",
-        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
+        "name": "En Concierto, Vol. 2",
+        "url": "https://open.spotify.com/album/3LPGevFYVZeBWHbcik2qgu"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
         }
       ],
-      "duration_ms": 167026,
-      "name": "El Circo",
-      "url": "https://open.spotify.com/track/0b4NG6vOqNdqzuJauiQkwE"
+      "duration_ms": 253400,
+      "name": "Ya Me Voy para Siempre",
+      "url": "https://open.spotify.com/track/4316Ntihofu3zTa7b5OeGT"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1467,18 +1499,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "En Concierto, Vol. 2",
-        "url": "https://open.spotify.com/album/3LPGevFYVZeBWHbcik2qgu"
+        "name": "Sopa de Caracol, Golden Hits - Exitos de Siempre",
+        "url": "https://open.spotify.com/album/01naNJTQzXeef1d5oYd7AQ"
       },
       "artists": [
         {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
         }
       ],
-      "duration_ms": 253400,
-      "name": "Ya Me Voy para Siempre",
-      "url": "https://open.spotify.com/track/4316Ntihofu3zTa7b5OeGT"
+      "duration_ms": 288365,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/3ralpk3PMxEPoFKO0hiJMv"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1495,22 +1527,6 @@
       "duration_ms": 351333,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
-        "name": "Sopa de Caracol, Golden Hits - Exitos de Siempre",
-        "url": "https://open.spotify.com/album/01naNJTQzXeef1d5oYd7AQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Blanca",
-          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
-        }
-      ],
-      "duration_ms": 288365,
-      "name": "Sopa de Caracol",
-      "url": "https://open.spotify.com/track/3ralpk3PMxEPoFKO0hiJMv"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy"
+        "name": "Carlos Ponce",
+        "url": "https://open.spotify.com/album/3pZKMylMWkwow7VbOQB6z2"
       },
       "artists": [
         {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+          "name": "Carlos Ponce",
+          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
         }
       ],
-      "duration_ms": 221173,
-      "name": "Media Naranja",
-      "url": "https://open.spotify.com/track/5qOOJibHjeGx0rhzL20JSc"
+      "duration_ms": 269933,
+      "name": "Decir Adios",
+      "url": "https://open.spotify.com/track/6reBDUywHDqzG83LVQHscL"
     },
     {
       "added_at": "2022-08-31 07:05:31",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Donde Quiera Que Estes",
-        "url": "https://open.spotify.com/album/6Cyaqqy2rSqwyJYN1sZAv3"
-      },
-      "artists": [
-        {
-          "name": "Barrio Boyzz",
-          "url": "https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Cerca De Ti",
-      "url": "https://open.spotify.com/track/2NVcJgPcBsY2jQczl9y74L"
-    },
-    {
-      "added_at": "2022-08-31 07:05:31",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
       },
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-08-31 07:05:31",
       "album": {
-        "name": "Carlos Ponce",
-        "url": "https://open.spotify.com/album/3pZKMylMWkwow7VbOQB6z2"
+        "name": "Donde Quiera Que Estes",
+        "url": "https://open.spotify.com/album/6Cyaqqy2rSqwyJYN1sZAv3"
       },
       "artists": [
         {
-          "name": "Carlos Ponce",
-          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
+          "name": "Barrio Boyzz",
+          "url": "https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp"
         }
       ],
-      "duration_ms": 269933,
-      "name": "Decir Adios",
-      "url": "https://open.spotify.com/track/6reBDUywHDqzG83LVQHscL"
+      "duration_ms": 231640,
+      "name": "Cerca De Ti",
+      "url": "https://open.spotify.com/track/2NVcJgPcBsY2jQczl9y74L"
     },
     {
       "added_at": "2022-08-31 07:05:31",

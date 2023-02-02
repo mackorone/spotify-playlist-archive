@@ -4,7 +4,7 @@
 
 > The best of Nirvana, all in one place.
 
-45 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/6DDsS638Dna9ui7KsywT41)
+45 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Welcome to the LOOΠΔverse\. Are you making an 'Orbit' around LOOΠΔ?
 
-143 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/1XU4almpwByp958TvBy5RK)
+143 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

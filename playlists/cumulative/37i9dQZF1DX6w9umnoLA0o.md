@@ -4,7 +4,7 @@
 
 > Enjoy TV theme songs of “SHOWA KAMEN RIDER series”! /<br/>「昭和仮面ライダーシリーズ」のテレビ主題歌をプレイリストで！ ©I・T
 
-26 songs - 1 hr 18 min - [published](https://open.spotify.com/playlist/0fkn7w6eJRHRmmJUVQ9aKj)
+26 songs - 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

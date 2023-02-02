@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
   "name": "Crooner Classics",
-  "published_playlist_ids": [
-    "4QkHY9VZoiOZq5xC04j0Mc"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 154866,
       "name": "A Summer Place",
       "url": "https://open.spotify.com/track/71kwIDWJ0xClRjxvIey6D0"
@@ -945,7 +942,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 164666,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
@@ -963,7 +960,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 160946,
       "name": "It's A Lovely Day Today",
       "url": "https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs"
@@ -1443,7 +1440,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 196666,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/5RcvlmVx2xtFcp2Ta5pw7X"
@@ -1645,7 +1642,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 169560,
       "name": "The Glory of Love",
       "url": "https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u"

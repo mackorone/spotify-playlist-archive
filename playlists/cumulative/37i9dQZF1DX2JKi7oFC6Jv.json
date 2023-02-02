@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-15",
   "description": "The best in classic and new UK Funky. Cover: Roska",
   "name": "UK Funky",
-  "published_playlist_ids": [
-    "7I0Kgq7rLWFyN1Pzlv21nE"
-  ],
   "tracks": [
     {
       "album": {
@@ -807,7 +804,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 159402,
       "name": "Free - SHOSH Remix",
       "url": "https://open.spotify.com/track/5EInT0bE9SArgmUAMmN39O"
@@ -1215,7 +1212,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 300848,
       "name": "Hear Me - Zomby Mix",
       "url": "https://open.spotify.com/track/1v80nVTvQNItY8JPmwecve"
@@ -2327,7 +2324,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 270000,
       "name": "Swervin'",
       "url": "https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r"
@@ -2709,7 +2706,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 257538,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6NWZnftVAZPB8Rw7a5NWgT"

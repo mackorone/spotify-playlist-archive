@@ -4,7 +4,7 @@
 
 > Disco, house, funk and soul for the good times.
 
-93 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/4MuRhMJEqvmmTkzoVfHgon)
+93 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

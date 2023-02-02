@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
   "name": "This Is Alkaline Trio",
-  "published_playlist_ids": [
-    "0M3l3QL7fIK8hUWMTReSqT"
-  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 265266,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/3VsFBlBhHKN9TpsvRjH8c7"
@@ -451,7 +448,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 138693,
       "name": "I'm Dying Tomorrow",
       "url": "https://open.spotify.com/track/3KPa8afyEGV9CsBGVRiZWF"
@@ -955,10 +952,28 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2023-01-01",
       "duration_ms": 217973,
       "name": "The Torture Doctor",
       "url": "https://open.spotify.com/track/6sEggmTY2zxpmni8QdCYQp"
+    },
+    {
+      "album": {
+        "name": "This Addiction",
+        "url": "https://open.spotify.com/album/4wJjPJqEFDWbEK1UTLP4Da"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "This Addiction",
+      "url": "https://open.spotify.com/track/1D7mtUg27dzLEfDH8vDubE"
     },
     {
       "album": {
@@ -973,10 +988,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 154866,
       "name": "This Addiction",
       "url": "https://open.spotify.com/track/2LI6D6z57Lq2QTQH6Tgsz0"
+    },
+    {
+      "album": {
+        "name": "This Addiction",
+        "url": "https://open.spotify.com/album/3CI0i4QZjGBYgA9ZdCunTu"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 154866,
+      "name": "This Addiction",
+      "url": "https://open.spotify.com/track/2sTiGv2fPnxqH3igvfnaVf"
     },
     {
       "album": {

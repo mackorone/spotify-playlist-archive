@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,635 likes - 54 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,759 likes - 54 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

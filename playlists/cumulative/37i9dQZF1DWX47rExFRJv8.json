@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
   "name": "Latin Hits 2018",
-  "published_playlist_ids": [
-    "1ulEgPq2vuurRp0rrX50F2"
-  ],
   "tracks": [
     {
       "album": {
@@ -133,6 +130,28 @@
       "duration_ms": 153887,
       "name": "Amorfoda",
       "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
+    },
+    {
+      "album": {
+        "name": "Asesina",
+        "url": "https://open.spotify.com/album/6oUM2IdI07Pif4bvIE0Ym8"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187312,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/3wowzpCsKdqW3u7jGgS1oO"
     },
     {
       "album": {
@@ -467,7 +486,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 226626,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
@@ -906,6 +925,28 @@
     },
     {
       "album": {
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "album": {
         "name": "Lo siento",
         "url": "https://open.spotify.com/album/2xlOXw9OOR3PovUq5GscqK"
       },
@@ -1130,6 +1171,28 @@
     },
     {
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210367,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
+    },
+    {
+      "album": {
         "name": "MIA (feat. Drake)",
         "url": "https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO"
       },
@@ -1145,7 +1208,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 210367,
       "name": "MIA (feat. Drake)",
       "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
@@ -1185,7 +1248,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-15",
       "duration_ms": 236215,
       "name": "NI BIEN NI MAL",
       "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"

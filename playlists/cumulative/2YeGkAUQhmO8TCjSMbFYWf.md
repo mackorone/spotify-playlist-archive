@@ -4,7 +4,7 @@
 
 > Honor your body, fuel your mind\. Love Life\. Live Yoga.
 
-22 songs - 1 hr 16 min - [published](https://open.spotify.com/playlist/60rp5jB6Vl0B247iCe0SoN)
+22 songs - 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

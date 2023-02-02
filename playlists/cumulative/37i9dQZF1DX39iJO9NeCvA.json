@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Listen to soundtracks from SF anime series \"TRIGUN\"./ \u4e16\u754c\u4e2d\u304b\u3089\u611b\u3055\u308c\u308b\u540d\u4f5cSF\u300c\u30c8\u30e9\u30a4\u30ac\u30f3\u300dTV\u30a2\u30cb\u30e1\uff06\u5287\u5834\u7248\u30b5\u30f3\u30c8\u30e9\u304c\u9042\u306bSpotify\u306b\u5230\u7740\uff01\u00a9 \u5185\u85e4\u6cf0\u5f18/\u5c11\u5e74\u753b\u5831\u793e\u30fb\u30c8\u30e9\u30a4\u30ac\u30f3\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "description": "Listen to soundtracks from SF anime series \"TRIGUN\".\u300c\u30c8\u30e9\u30a4\u30ac\u30f3\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\ufe0e\u5185\u85e4\u6cf0\u5f18/\u5c11\u5e74\u753b\u5831\u793e\u30fb\u30c8\u30e9\u30a4\u30ac\u30f3\u88fd\u4f5c\u59d4\u54e1\u4f1a",
   "name": "TRIGUN -\u30c8\u30e9\u30a4\u30ac\u30f3-",
-  "published_playlist_ids": [
-    "7oTd2f4FKKVVjdCJIa9g45"
-  ],
   "tracks": [
     {
       "album": {
@@ -422,6 +419,24 @@
     },
     {
       "album": {
+        "name": "TOMBI",
+        "url": "https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206509,
+      "name": "TOMBI",
+      "url": "https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
         "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
       },
@@ -473,6 +488,28 @@
       "duration_ms": 189128,
       "name": "\u30c8\u30de\u30af\u30f3",
       "url": "https://open.spotify.com/track/6qC9EuTHWb6G5yNSBTnEZR"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u30af\u30ba \u03b1",
+        "url": "https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0"
+      },
+      "artists": [
+        {
+          "name": "Salyu",
+          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
+        },
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303627,
+      "name": "\u661f\u306e\u30af\u30ba \u03b1",
+      "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"
     },
     {
       "album": {

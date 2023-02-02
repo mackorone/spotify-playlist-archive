@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-100 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/17snTQx4nUc5vx1ksDMIHE)
+102 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,9 +54,11 @@
 | [No Brooklin](https://open.spotify.com/track/6KdAJ0GvDGUp2RhuTo4BkU) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/7f7tJ66hE6aghmPubHTqVk) | 5:47 | 2022-02-25 | 2022-07-29 |
 | [O 5° Vigia](https://open.spotify.com/track/3VNIwW4MkSvp0xVEmfrvUL) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/45JoFHuQTEcG4CQNO49xUZ) | 6:16 | 2022-02-25 |  |
 | [O 5° Vigia](https://open.spotify.com/track/3ZhYU1cx9sSF8pO0pNZVb7) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/7eoDHbH4OqDqRGZFBjgOzf) | 6:17 | 2022-02-25 | 2022-07-29 |
-| [O Amor Venceu a Guerra](https://open.spotify.com/track/7LhExbpqQCLy2tFPK8N5P9) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Tarja Preta](https://open.spotify.com/album/0g4bxmzveUHyfxYIcH93Fi) | 8:44 | 2022-02-25 |  |
+| [O Amor Venceu a Guerra](https://open.spotify.com/track/7LhExbpqQCLy2tFPK8N5P9) | [GOG](https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e) | [Tarja Preta](https://open.spotify.com/album/0g4bxmzveUHyfxYIcH93Fi) | 8:44 | 2022-02-25 | 2022-12-03 |
 | [O Clã da Vila](https://open.spotify.com/track/5nTbVPKyZKVmFSecCTOYQw) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/57vnpZ4v77hRjGNISaOKbK), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw) | [O Clã da Vila](https://open.spotify.com/album/4JLOi2j58hErx1BMMaT2Kx) | 7:33 | 2022-02-25 | 2022-07-29 |
 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 | 2022-02-25 |  |
+| [O Homem Estragou Tudo](https://open.spotify.com/track/5gbRWrqq9jnGhzxQfUMPHC) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Direto do Campo de Extermínio](https://open.spotify.com/album/1Go1H9TBAYiZzvTyDn63r9) | 5:15 | 2022-12-02 | 2023-01-27 |
+| [O Homem estragou tudo](https://open.spotify.com/track/3QF009hr5Vu9o6d3z3ViQ0) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Direto do Campo de Extermínio](https://open.spotify.com/album/3SStKpKrLzkfETa9i73mMn) | 5:15 | 2022-12-02 |  |
 | [O Trem](https://open.spotify.com/track/4FpVLn9ne4NDGo83yRTAIi) | [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [RZO](https://open.spotify.com/album/0z0tSJkDzOzb7ljZPHsDgn) | 5:12 | 2022-02-25 |  |
 | [Oitavo Anjo](https://open.spotify.com/track/73ZFqSslPNdKZBRmGcGzKW) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [Provérbios 13](https://open.spotify.com/album/4tWDp6fP9O3wNfko1UCaQo) | 5:28 | 2022-02-25 | 2022-07-29 |
 | [Oitavo Anjo](https://open.spotify.com/track/2eCvTrc70dsKhJQRuNDfdN) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x) | [Provérbios 13](https://open.spotify.com/album/23gdpNjl66f8AiHQ9HyHqJ) | 5:28 | 2022-02-25 |  |

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: Jay-Z",
+  "description": "Taking it way back! Cover: Dr. Dre",
   "name": "Gold School",
-  "published_playlist_ids": [
-    "4E8QveJMku5inuSzu9H1Ch"
-  ],
   "tracks": [
     {
       "album": {
@@ -45,6 +42,46 @@
       "duration_ms": 206573,
       "name": "(Holy Matrimony) Letter To The Firm",
       "url": "https://open.spotify.com/track/41OxaMCY6gMKILoNVd2hdP"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
+    },
+    {
+      "album": {
+        "name": "93 'til Infinity",
+        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Mischief",
+          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286440,
+      "name": "93 'Til Infinity",
+      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
       "album": {
@@ -185,7 +222,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 242000,
       "name": "Back Like That",
       "url": "https://open.spotify.com/track/677QqBbO6jNmvtFCjOO7to"
@@ -215,6 +252,32 @@
       "duration_ms": 265600,
       "name": "Back That Azz Up",
       "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
+    },
+    {
+      "album": {
+        "name": "The Saga Continues...",
+        "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Black Rob",
+          "url": "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
+        },
+        {
+          "name": "Mark Curry",
+          "url": "https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253066,
+      "name": "Bad Boy for Life",
+      "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
     },
     {
       "album": {
@@ -331,7 +394,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 310720,
       "name": "Bitch, Don\u2019t Kill My Vibe",
       "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9"
@@ -389,7 +452,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 237720,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
@@ -411,7 +474,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 311040,
       "name": "C U When U Get There",
       "url": "https://open.spotify.com/track/6uWez0py1zc17F7hjp7jIt"
@@ -561,7 +624,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 273106,
       "name": "Check Yo Self - Remix",
       "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
@@ -743,7 +806,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 249040,
       "name": "Dipset Anthem",
       "url": "https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa"
@@ -769,6 +832,24 @@
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+    },
+    {
+      "album": {
+        "name": "Dunn, Dunn",
+        "url": "https://open.spotify.com/album/1Ju5uOiibZjhWXs7Qp6nET"
+      },
+      "artists": [
+        {
+          "name": "Shawty Lo",
+          "url": "https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197386,
+      "name": "Dunn, Dunn",
+      "url": "https://open.spotify.com/track/05iPQqLo3ZCfmQZ1pLmhdj"
     },
     {
       "album": {
@@ -871,7 +952,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 334440,
       "name": "Fantastic Voyage",
       "url": "https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k"
@@ -984,6 +1065,42 @@
     },
     {
       "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291053,
+      "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
+      "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
+    },
+    {
+      "album": {
+        "name": "Terrorist Threats",
+        "url": "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "artists": [
+        {
+          "name": "Westside Connection",
+          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293053,
+      "name": "Gangsta Nation",
+      "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
+    },
+    {
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
       },
@@ -1003,6 +1120,24 @@
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
+    },
+    {
+      "album": {
+        "name": "God's Son",
+        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 244253,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3UYuDTslR35thjQzaVwRMe"
     },
     {
       "album": {
@@ -1247,7 +1382,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
@@ -1295,14 +1430,14 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": "2023-02-02",
       "duration_ms": 230080,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/6a8lMvYwJBwV4OtmdI1aDb"
     },
     {
       "album": {
-        "name": "19 Naughty III",
+        "name": "19NaughtyIII",
         "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
       },
       "artists": [
@@ -1361,7 +1496,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 314400,
       "name": "Holidae In",
       "url": "https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy"
@@ -1492,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "God's Son",
+        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253720,
+      "name": "I Can",
+      "url": "https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP"
+    },
+    {
+      "album": {
         "name": "Barbershop 2 (Back In Business)",
         "url": "https://open.spotify.com/album/54KwLg1akRGVJP0kQ7DKrM"
       },
@@ -1514,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "I Get Around",
+      "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
+    },
+    {
+      "album": {
         "name": "American Gangster",
         "url": "https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5"
       },
@@ -1532,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
+      },
+      "artists": [
+        {
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263533,
+      "name": "I Like It (I Wanna Be Where You Are)",
+      "url": "https://open.spotify.com/track/5KBUiiDRPsocZlY2v3EtRk"
+    },
+    {
+      "album": {
         "name": "Diplomatic Immunity",
         "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
       },
@@ -1543,7 +1736,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": "2023-01-19",
       "duration_ms": 262026,
       "name": "I Really Mean It - Skit 1",
       "url": "https://open.spotify.com/track/1IQPLs3r6lt4iNrQzAhnWs"
@@ -1641,7 +1834,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": "2023-01-19",
       "duration_ms": 281573,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/1Z5kIJ1ZKzVFSJXG1Y5zFb"
@@ -1729,6 +1922,24 @@
       "duration_ms": 295773,
       "name": "Into You (feat. Tamia)",
       "url": "https://open.spotify.com/track/0yHConG49418wPs8UfAt44"
+    },
+    {
+      "album": {
+        "name": "Charge It 2 Da Game",
+        "url": "https://open.spotify.com/album/4j2FDRlXnrp2yYoWvM5lE2"
+      },
+      "artists": [
+        {
+          "name": "Silkk The Shocker",
+          "url": "https://open.spotify.com/artist/0iEVT8dLNSSmipPOrDGu2z"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198995,
+      "name": "It Ain't My Fault",
+      "url": "https://open.spotify.com/track/0EvsLFtgq2ToSaH8UXmPK0"
     },
     {
       "album": {
@@ -1821,7 +2032,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 241840,
       "name": "It's Goin' Down (feat. Nitti)",
       "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
@@ -1933,7 +2144,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 305573,
       "name": "Keep Their Heads Ringin'",
       "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
@@ -1951,7 +2162,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 262506,
       "name": "Keep Ya Head Up",
       "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
@@ -2021,6 +2232,28 @@
       "duration_ms": 230133,
       "name": "Let Me Blow Ya Mind",
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Jewell",
+          "url": "https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "Let Me Ride",
+      "url": "https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT"
     },
     {
       "album": {
@@ -2162,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "God's Son",
+        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA"
+    },
+    {
+      "album": {
         "name": "Ghetto D",
         "url": "https://open.spotify.com/album/699xAzNxlXxgmkycTEqktC"
       },
@@ -2251,7 +2502,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o"
@@ -2317,7 +2568,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 216933,
       "name": "My Chick Bad",
       "url": "https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl"
@@ -2383,7 +2634,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
@@ -2449,7 +2700,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 248133,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
@@ -2493,6 +2744,28 @@
     {
       "album": {
         "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
         "url": "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
       },
       "artists": [
@@ -2511,6 +2784,28 @@
       "duration_ms": 238466,
       "name": "Nuthin' But A \"G\" Thang",
       "url": "https://open.spotify.com/track/4YtoipFgf4k0AfD17ZfD5X"
+    },
+    {
+      "album": {
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "Oh Boy",
+      "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
     },
     {
       "album": {
@@ -2711,10 +3006,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 240800,
       "name": "Poppin' Them Thangs",
       "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
+    },
+    {
+      "album": {
+        "name": "In God We Trust",
+        "url": "https://open.spotify.com/album/6tzrLeX3igD6J7QN9SNzCP"
+      },
+      "artists": [
+        {
+          "name": "Brand Nubian",
+          "url": "https://open.spotify.com/artist/3YyZFf9ZN2YbkqeZia8zHX"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "Punks Jump Up to Get Beat Down",
+      "url": "https://open.spotify.com/track/1uMwnqhNjZArlhe0AsCo2L"
     },
     {
       "album": {
@@ -2755,7 +3068,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 295293,
       "name": "Pursuit Of Happiness (Nightmare)",
       "url": "https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"
@@ -2865,7 +3178,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 252106,
       "name": "Roc Boys (And The Winner Is)...",
       "url": "https://open.spotify.com/track/7qTHHJ8MeXEKBVuopWdw4b"
@@ -3067,7 +3380,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 300600,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3q0e7q1txYuW8rRzCqzRBS"
@@ -3209,7 +3522,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
@@ -3347,7 +3660,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 313786,
       "name": "Swimming Pools (Drank) - Extended Version",
       "url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
@@ -3394,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "The Magic Number",
+        "url": "https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 195883,
+      "name": "The Magic Number",
+      "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
+    },
+    {
+      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -3427,7 +3758,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 161506,
       "name": "The Next Episode",
       "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
@@ -3521,7 +3852,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 263920,
       "name": "Throw Some D's",
       "url": "https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu"
@@ -3670,6 +4001,32 @@
     },
     {
       "album": {
+        "name": "NY's Finest",
+        "url": "https://open.spotify.com/album/4MloRVOQvX5YAfu2ik7OA9"
+      },
+      "artists": [
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249813,
+      "name": "We Roll",
+      "url": "https://open.spotify.com/track/0kYMtwryfsLuhUWRrGWxMK"
+    },
+    {
+      "album": {
         "name": "40 Dayz & 40 Nightz",
         "url": "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
       },
@@ -3783,7 +4140,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 275906,
       "name": "What's Your Fantasy (Featuring Shawna)",
       "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"
@@ -3812,6 +4169,32 @@
     },
     {
       "album": {
+        "name": "Enquiring Minds",
+        "url": "https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp"
+      },
+      "artists": [
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        },
+        {
+          "name": "DJ Paul",
+          "url": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269066,
+      "name": "Where Dem Dollas At (feat. DJ Paul & Juicy J)",
+      "url": "https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC"
+    },
+    {
+      "album": {
         "name": "In My Lifetime, Vol.1",
         "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
       },
@@ -3823,7 +4206,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 266733,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/0R0zZnqPg7yOWb4PRmW8nC"

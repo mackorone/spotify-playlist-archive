@@ -4,7 +4,7 @@
 
 > Immerse yourself in the sounds of The Godfather of Grime \- Wiley
 
-47 songs - 2 hr 33 min - [published](https://open.spotify.com/playlist/5YCkkyIPoLHSc0kmAm3rTW)
+47 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

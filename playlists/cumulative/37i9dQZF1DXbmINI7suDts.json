@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Get your spirits up and manage your mood any time of the day",
   "name": "Mutima ",
-  "published_playlist_ids": [
-    "1o7EepyilIUDZHnRGHzKt5"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,24 @@
       "duration_ms": 225672,
       "name": "A Thing",
       "url": "https://open.spotify.com/track/0nN0RzQ80Um0Kljt4TXGE7"
+    },
+    {
+      "album": {
+        "name": "Abantu",
+        "url": "https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Abantu",
+      "url": "https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa"
     },
     {
       "album": {
@@ -127,7 +142,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 133537,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
@@ -232,6 +247,32 @@
     },
     {
       "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd"
+      },
+      "artists": [
+        {
+          "name": "Chwezimadeit",
+          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
+        },
+        {
+          "name": "Jozzi Firebouy",
+          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
+        },
+        {
+          "name": "Dny",
+          "url": "https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x"
+    },
+    {
+      "album": {
         "name": "Love and Light",
         "url": "https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ"
       },
@@ -251,6 +292,46 @@
       "duration_ms": 199760,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3"
+    },
+    {
+      "album": {
+        "name": "Fire Deh Deh",
+        "url": "https://open.spotify.com/album/2D5qDtijtUUlf4UB2RXrDm"
+      },
+      "artists": [
+        {
+          "name": "Felista Di Superstar",
+          "url": "https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205766,
+      "name": "Fire Deh Deh",
+      "url": "https://open.spotify.com/track/3CLcX5MphVX20oqeGDaNT7"
+    },
+    {
+      "album": {
+        "name": "Give Me Your Hand",
+        "url": "https://open.spotify.com/album/25EzvrXbFM5qKNy2qHmZZH"
+      },
+      "artists": [
+        {
+          "name": "Bravo Lion",
+          "url": "https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A"
+        },
+        {
+          "name": "Dvoice",
+          "url": "https://open.spotify.com/artist/5rAc0Q7Vylz98aK0UWJ6Gf"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239177,
+      "name": "Give Me Your Hand",
+      "url": "https://open.spotify.com/track/6SzIN4egYTNrqE22mcb6WR"
     },
     {
       "album": {
@@ -331,6 +412,28 @@
       "duration_ms": 190243,
       "name": "High",
       "url": "https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx"
+    },
+    {
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/5gjFDaBgK7t5vlqWljQmCs"
+      },
+      "artists": [
+        {
+          "name": "Tarley",
+          "url": "https://open.spotify.com/artist/6MCgwpWIJKz02C8kHTNFXr"
+        },
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200533,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/6Xil25LAkeXS8t7zuX9bCq"
     },
     {
       "album": {
@@ -429,7 +532,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 229590,
       "name": "Kapeesa",
       "url": "https://open.spotify.com/track/60scLv2PhYUcdsVQr78YlM"
@@ -681,7 +784,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 202056,
       "name": "Muchuzi",
       "url": "https://open.spotify.com/track/4LAHC8YHdw0IEQZNDUagmD"
@@ -801,7 +904,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 180000,
       "name": "Niko Tayari",
       "url": "https://open.spotify.com/track/6aGRoz8dTzxypGDVBaoDYH"
@@ -1016,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Sema",
+        "url": "https://open.spotify.com/album/3SyBHbLDHnKPncg8HaSTfv"
+      },
+      "artists": [
+        {
+          "name": "Eli Maliki",
+          "url": "https://open.spotify.com/artist/2a2c2oSVT9yIvl5eEXkCMK"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279729,
+      "name": "Sema",
+      "url": "https://open.spotify.com/track/7oM02oJnBVup7JsLHk9zMW"
+    },
+    {
+      "album": {
         "name": "The Ugandan",
         "url": "https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8"
       },
@@ -1060,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Sing For You (Acoustic version)",
+        "url": "https://open.spotify.com/album/6EfDjpkOMVSaMdjnaS7HD7"
+      },
+      "artists": [
+        {
+          "name": "Jozzi Firebouy",
+          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Sing For You - Acoustic version",
+      "url": "https://open.spotify.com/track/232FrkWVjJkPjqX1P8tstE"
+    },
+    {
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
       },
@@ -1075,6 +1214,24 @@
       "duration_ms": 238888,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
+    },
+    {
+      "album": {
+        "name": "Night Skies In Bombo",
+        "url": "https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH"
+      },
+      "artists": [
+        {
+          "name": "BunjoVille Ug",
+          "url": "https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234437,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59"
     },
     {
       "album": {
@@ -1185,6 +1342,24 @@
       "duration_ms": 163764,
       "name": "Tingatsiga",
       "url": "https://open.spotify.com/track/3XmdY82JfJEEsCnOs1MqmP"
+    },
+    {
+      "album": {
+        "name": "Type of Energy",
+        "url": "https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap"
+      },
+      "artists": [
+        {
+          "name": "Atino",
+          "url": "https://open.spotify.com/artist/4ArO64i3c0kRuFR9ofHisD"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188801,
+      "name": "Type of Energy",
+      "url": "https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW"
     },
     {
       "album": {

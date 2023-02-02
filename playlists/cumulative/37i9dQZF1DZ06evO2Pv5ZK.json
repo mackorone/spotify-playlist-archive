@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
   "name": "This Is Vangelis",
-  "published_playlist_ids": [
-    "1N71Cx7P9MRuN9QmoKGuDH"
-  ],
   "tracks": [
     {
       "album": {
@@ -455,7 +452,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 118893,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM"
@@ -531,6 +528,24 @@
       "duration_ms": 164133,
       "name": "Hymne - Remastered",
       "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
+    },
+    {
+      "album": {
+        "name": "In the magic of Cosmos",
+        "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127106,
+      "name": "In the magic of Cosmos",
+      "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
     },
     {
       "album": {
@@ -905,7 +920,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 800040,
       "name": "Pinta, Nina, Santa Maria",
       "url": "https://open.spotify.com/track/0BQcj5GUvonO9byni0bEuu"
@@ -923,7 +938,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-07",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz"
@@ -945,7 +960,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 216500,
       "name": "Prelude (Voices)",
       "url": "https://open.spotify.com/track/3DvQ0SduBB9zfn5PZXaucl"

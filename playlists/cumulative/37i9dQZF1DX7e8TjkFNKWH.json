@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-05",
   "description": "The biggest party hits of the 2000s. Cover: Shakira. ",
   "name": "Party Hits 2000s",
-  "published_playlist_ids": [
-    "7sSfQBatmYYm9qJg4VdiyJ"
-  ],
   "tracks": [
     {
       "album": {
@@ -161,7 +158,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 228906,
       "name": "Ain't No Other Man",
       "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
@@ -179,7 +176,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 329933,
       "name": "All For You",
       "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
@@ -255,10 +252,32 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
     },
     {
       "album": {
@@ -605,7 +624,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 207906,
       "name": "Bootylicious",
       "url": "https://open.spotify.com/track/41nT1Sp6ChR65FbsdLlFHW"
@@ -876,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Year Of The Gentleman (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr"
+    },
+    {
+      "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
@@ -999,7 +1036,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-07",
       "duration_ms": 242266,
       "name": "D.A.N.C.E",
       "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
@@ -1547,10 +1584,28 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 211666,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr"
+    },
+    {
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak"
     },
     {
       "album": {
@@ -1765,7 +1820,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-18",
       "duration_ms": 203920,
       "name": "Heads Will Roll - A-Trak Remix Radio Edit",
       "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
@@ -1779,6 +1834,10 @@
         {
           "name": "DJ Sammy",
           "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
+        },
+        {
+          "name": "Yanou",
+          "url": "https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs"
         },
         {
           "name": "Do",
@@ -2829,7 +2888,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 264846,
       "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
       "url": "https://open.spotify.com/track/1qdbG7u3b7JdlW3mmUI1Xp"
@@ -2949,7 +3008,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
@@ -3087,6 +3146,24 @@
       "duration_ms": 210933,
       "name": "Lo Que Pas\u00f3, Pas\u00f3",
       "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
+    },
+    {
+      "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "album": {
@@ -3547,7 +3624,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 182266,
       "name": "My My My",
       "url": "https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS"
@@ -3829,7 +3906,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 405693,
       "name": "Played-A-Live (The Bongo Song)",
       "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
@@ -4553,7 +4630,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 236480,
       "name": "Signs",
       "url": "https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO"
@@ -5183,7 +5260,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 206093,
       "name": "The Tide Is High - Radio Mix",
       "url": "https://open.spotify.com/track/1QhSB9L9M5eZQhW4RNOhXK"
@@ -5763,7 +5840,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 200400,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"

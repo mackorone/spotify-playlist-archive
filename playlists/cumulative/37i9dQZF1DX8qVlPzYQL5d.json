@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-20",
   "description": "A stress-free, calming introduction to Mozart, perfect for relaxation, study, and all sorts of mindful activities.",
   "name": "Relaxing Mozart",
-  "published_playlist_ids": [
-    "1i6fQOdypWqye6h2IcZJdg"
-  ],
   "tracks": [
     {
       "album": {
@@ -31,6 +28,28 @@
       "duration_ms": 517360,
       "name": "Adagio in E Major, K. 261",
       "url": "https://open.spotify.com/track/2vBuaUzWANdghLfM1nF0Yw"
+    },
+    {
+      "album": {
+        "name": "Ave verum corpus, K.618 (arr. for piano by Franz Liszt)",
+        "url": "https://open.spotify.com/album/6hJpChw1IpyvRw8UVDzO09"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Ave verum corpus, K.618 (arr. for piano by Franz Liszt)",
+      "url": "https://open.spotify.com/track/65P5vqHd18YLG8AsaVGFjw"
     },
     {
       "album": {
@@ -271,7 +290,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 769626,
       "name": "Concerto for Piano and Orchestra No. 9 in E flat major: II. Andantino",
       "url": "https://open.spotify.com/track/16ifz9vVtc2ZTPOdcioyGS"
@@ -655,7 +674,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 381506,
       "name": "Mozart: Zaide, K. 344/336b, Act 1 Scene 3: No. 3, Arie, \"Ruhe sanft, mein holdes Leben\" (Zaide)",
       "url": "https://open.spotify.com/track/3w14gk0C0Vn5elVzbDjrMI"
@@ -803,7 +822,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 575760,
-      "name": "Piano Concerto No. 20 in D Minor, K. 466: 2. Romance - Live",
+      "name": "Piano Concerto No. 20 in D Minor, K. 466: II. Romance - Live",
       "url": "https://open.spotify.com/track/5iNbFdlGQ7d1y2HfIfvdNP"
     },
     {
@@ -1229,7 +1248,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 452706,
-      "name": "Piano Concerto No. 27 in B-Flat Major, K. 595: 2. Larghetto - Live",
+      "name": "Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto - Live",
       "url": "https://open.spotify.com/track/2TDYhUsCuLEK0mkPZCYKPV"
     },
     {
@@ -2481,7 +2500,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 455426,
       "name": "String Quartet No. 15 in D Minor, K. 421: II. Andante",
       "url": "https://open.spotify.com/track/2ed7BSiaCaSxfIU1ehLLzJ"
@@ -3123,7 +3142,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 466000,
       "name": "Violin Sonata No. 32 in B-Flat Major, K. 454: II. Andante",
       "url": "https://open.spotify.com/track/4OFAdngawr0JCRxRH93DMx"

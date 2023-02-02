@@ -4,7 +4,7 @@
 
 > Stevie Wonder, the essential tracks, all in one playlist.
 
-50 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/5p6rhopHqKunwjNYfuVHiD)
+50 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

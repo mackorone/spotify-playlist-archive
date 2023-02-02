@@ -1,15 +1,71 @@
 {
   "description": "Feels like falling in love in the 50s ",
-  "num_followers": 30901,
+  "num_followers": 46680,
   "original_name": "Black & White Film",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUyNDE4MCwwMDAwMDAwMDVhYThiZDk0MzNkMTBiMzExNmU4NWI1MmI3ODFlNDky",
+  "snapshot_id": "MTY3NDc2NzkzOCwwMDAwMDAwMGEwNjA3OGRkZGVkM2RlOWU3OWMzY2ZlMmZjNGY1MTYy",
   "tracks": [
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Sings His Favorites",
+        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 155080,
+      "name": "Put Your Head on My Shoulder",
+      "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Until I Found You (Em Beihold Version)",
+        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Blue Hawaii",
         "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
@@ -25,199 +81,7 @@
       "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 149826,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "The Complete Commodore Recordings",
-        "url": "https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1oAQJNKrMnIX5tLMan0UsY"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 116626,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Everybody Loves Somebody",
-        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Everybody Loves Somebody",
-      "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Moon River (Breakfast at Tiffany's) [Remastered]",
-        "url": "https://open.spotify.com/album/3RnvFVaJrRTpSTFDabNgGA"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hepburn",
-          "url": "https://open.spotify.com/artist/16eV2TebyEhqaDRFEZJ9h8"
-        }
-      ],
-      "duration_ms": 123160,
-      "name": "Moon River (From Breakfast at Tiffany's) [Remastered]",
-      "url": "https://open.spotify.com/track/1XwAKjAZ1xDZOcuyZoqce4"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
@@ -237,39 +101,71 @@
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
-        "name": "Remember When?",
-        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 160933,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
-        "name": "Sings His Favorites",
-        "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
       "artists": [
         {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
         }
       ],
-      "duration_ms": 155080,
-      "name": "Put Your Head on My Shoulder",
-      "url": "https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV"
+      "duration_ms": 116626,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Moon River (Breakfast at Tiffany's) [Remastered]",
+        "url": "https://open.spotify.com/album/3RnvFVaJrRTpSTFDabNgGA"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hepburn",
+          "url": "https://open.spotify.com/artist/16eV2TebyEhqaDRFEZJ9h8"
+        }
+      ],
+      "duration_ms": 123160,
+      "name": "Moon River (From Breakfast at Tiffany's) [Remastered]",
+      "url": "https://open.spotify.com/track/1XwAKjAZ1xDZOcuyZoqce4"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Flamingo Serenade",
         "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
@@ -285,23 +181,167 @@
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
-        "name": "The Essential Skeeter Davis",
-        "url": "https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Skeeter Davis",
-          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 157573,
-      "name": "The End of the World",
-      "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Everybody Loves Somebody",
+        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Everybody Loves Somebody",
+      "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "A Man Without Love",
+        "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
+      },
+      "artists": [
+        {
+          "name": "Engelbert Humperdinck",
+          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "A Man Without Love",
+      "url": "https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Remember When?",
+        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
@@ -317,7 +357,23 @@
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "The Essential Skeeter Davis",
+        "url": "https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N"
+      },
+      "artists": [
+        {
+          "name": "Skeeter Davis",
+          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "The End of the World",
+      "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Ricky Sings Again (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
@@ -333,23 +389,55 @@
       "url": "https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 141133,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Whipped Cream & Other Delights",
+        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Ladyfingers",
+      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 149826,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Edith Piaf - The Best Of",
         "url": "https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q"
@@ -365,7 +453,39 @@
       "url": "https://open.spotify.com/track/3lAun9V0YdTlCSIEXPvfsY"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7zV5IIfdqRHHRAUNkQ3aLX"
+      },
+      "artists": [
+        {
+          "name": "The Little Dippers",
+          "url": "https://open.spotify.com/artist/0cT2S58Ulp0BGro6KXAm56"
+        }
+      ],
+      "duration_ms": 143160,
+      "name": "Forever - Single Version",
+      "url": "https://open.spotify.com/track/5rWyKJMaTXL0TArnJ8IGts"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 141133,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
@@ -385,71 +505,7 @@
       "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Whipped Cream & Other Delights",
-        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Ladyfingers",
-      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Nothing But The Best (Remastered)",
-        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276253,
-      "name": "My Way - 2008 Remastered",
-      "url": "https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7zV5IIfdqRHHRAUNkQ3aLX"
-      },
-      "artists": [
-        {
-          "name": "The Little Dippers",
-          "url": "https://open.spotify.com/artist/0cT2S58Ulp0BGro6KXAm56"
-        }
-      ],
-      "duration_ms": 143160,
-      "name": "Forever - Single Version",
-      "url": "https://open.spotify.com/track/5rWyKJMaTXL0TArnJ8IGts"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Hello Dolly To Goodbye Charlie",
         "url": "https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug"
@@ -465,23 +521,39 @@
       "url": "https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
         }
       ],
-      "duration_ms": 179373,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+      "duration_ms": 178573,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Nothing But The Best (Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276253,
+      "name": "My Way - 2008 Remastered",
+      "url": "https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "The Best Of The Penguins",
         "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
@@ -497,7 +569,7 @@
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
@@ -513,23 +585,23 @@
       "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
-        "name": "Danke Schoen",
-        "url": "https://open.spotify.com/album/3UGH64Cfac6rQQQvqiDZrT"
+        "name": "Sentimentally Yours",
+        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
       },
       "artists": [
         {
-          "name": "Wayne Newton",
-          "url": "https://open.spotify.com/artist/5NX29TmuYrENlpvz6IgYMJ"
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
         }
       ],
-      "duration_ms": 155333,
-      "name": "Danke Schoen",
-      "url": "https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5"
+      "duration_ms": 181800,
+      "name": "She's Got You - Single Version",
+      "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Latin Ala Lee",
         "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
@@ -545,7 +617,23 @@
       "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Danke Schoen",
+        "url": "https://open.spotify.com/album/3UGH64Cfac6rQQQvqiDZrT"
+      },
+      "artists": [
+        {
+          "name": "Wayne Newton",
+          "url": "https://open.spotify.com/artist/5NX29TmuYrENlpvz6IgYMJ"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "Danke Schoen",
+      "url": "https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
@@ -561,7 +649,23 @@
       "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Golden Girl (The Columbia Recordings 1944-1966)",
         "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
@@ -581,55 +685,7 @@
       "url": "https://open.spotify.com/track/0qB213IfGN0JXXm9aRjldF"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Sentimentally Yours",
-        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "She's Got You - Single Version",
-      "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "For Collectors Only",
-        "url": "https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6"
-      },
-      "artists": [
-        {
-          "name": "The Five Satins",
-          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "In The Still of the Night",
-      "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "On Her Majesty's Secret Service (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "We Have All The Time In The World - Remastered",
-      "url": "https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
@@ -645,7 +701,39 @@
       "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "For Collectors Only",
+        "url": "https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6"
+      },
+      "artists": [
+        {
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "In The Still of the Night",
+      "url": "https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "On Her Majesty's Secret Service (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "We Have All The Time In The World - Remastered",
+      "url": "https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Sea Of Love: The Collection",
         "url": "https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB"
@@ -661,7 +749,7 @@
       "url": "https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Ultimate Big Band Collection: Glenn Miller",
         "url": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
@@ -677,103 +765,7 @@
       "url": "https://open.spotify.com/track/3ziJFd6JeioC8Xfct0UXpJ"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "Tears on My Pillow",
-      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
-        "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
-      },
-      "artists": [
-        {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
-        }
-      ],
-      "duration_ms": 158853,
-      "name": "Then He Kissed Me",
-      "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Great Hits",
-        "url": "https://open.spotify.com/album/60kSCdFMEKAvxW982OgQpg"
-      },
-      "artists": [
-        {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Nevertheless (I'm In Love With You) - 1958 version",
-      "url": "https://open.spotify.com/track/7s0ZliVrPsRNdDcTuTlBOJ"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Great Ladies Of Song / Spotlight On Margaret Whiting",
-        "url": "https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 259706,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Someone To Watch Over Me",
         "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
@@ -793,7 +785,39 @@
       "url": "https://open.spotify.com/track/0YUsHYHiwi6drC1ATz47hm"
     },
     {
-      "added_at": "2022-10-11 21:36:20",
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Great Hits",
+        "url": "https://open.spotify.com/album/60kSCdFMEKAvxW982OgQpg"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Nevertheless (I'm In Love With You) - 1958 version",
+      "url": "https://open.spotify.com/track/7s0ZliVrPsRNdDcTuTlBOJ"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 259706,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
+    },
+    {
+      "added_at": "2023-01-26 21:18:58",
       "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
@@ -811,22 +835,6 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
-    },
-    {
-      "added_at": "2022-10-11 21:36:20",
-      "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P"
-      },
-      "artists": [
-        {
-          "name": "Patti Page",
-          "url": "https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/2ZD42YPLXtzoGlRH51zViF"
     }
   ],
   "unique_name": "Black & White Film",

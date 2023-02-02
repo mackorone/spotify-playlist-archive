@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
   "name": "Archie Davis' Taste",
-  "published_playlist_ids": [
-    "3lpvl2cSwTxUhUoh85zrYT"
-  ],
   "tracks": [
     {
       "album": {
@@ -61,7 +58,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
@@ -997,6 +994,24 @@
       "duration_ms": 227253,
       "name": "Too Much to Ask",
       "url": "https://open.spotify.com/track/4tJX7rDpl2L6BoBtYX8raK"
+    },
+    {
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398906,
+      "name": "Vibrate",
+      "url": "https://open.spotify.com/track/6eGRWLRQtT7pX6iXPpFiYk"
     },
     {
       "album": {

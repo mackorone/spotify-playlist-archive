@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-10-20",
   "description": "Electronic music with caffeine.",
   "name": "Coffee Beats",
-  "published_playlist_ids": [
-    "4yzYNda5nlPjjTxwWfgbGS"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,7 +92,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 153936,
       "name": "A New Era",
       "url": "https://open.spotify.com/track/4lwDpwThA5vnN3dwi3dQIC"
@@ -514,6 +511,24 @@
     },
     {
       "album": {
+        "name": "And The City Was Brooklyn",
+        "url": "https://open.spotify.com/album/7eScvNC3Zds4MxASq3k6Dd"
+      },
+      "artists": [
+        {
+          "name": "RaFa Sessions",
+          "url": "https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "And The City Was Brooklyn",
+      "url": "https://open.spotify.com/track/3kf1qwFXJFwdVWfsNldvw9"
+    },
+    {
+      "album": {
         "name": "Andlegur",
         "url": "https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u"
       },
@@ -874,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Benicio",
+        "url": "https://open.spotify.com/album/46w9Kzfai8qegN2f2v07Ff"
+      },
+      "artists": [
+        {
+          "name": "Blue Daisy",
+          "url": "https://open.spotify.com/artist/2l3CKt1KfWQAduDjHFDqsf"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118355,
+      "name": "Benicio",
+      "url": "https://open.spotify.com/track/3hqiuD2RQmSj1T50vSS8cn"
+    },
+    {
+      "album": {
         "name": "Cool Sneakers",
         "url": "https://open.spotify.com/album/6CLLHgPGTWJ0HfNy9Ob8gD"
       },
@@ -1221,6 +1254,24 @@
       "duration_ms": 190202,
       "name": "Bubinga",
       "url": "https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB"
+    },
+    {
+      "album": {
+        "name": "Buenos Aires Bound",
+        "url": "https://open.spotify.com/album/3wvvETVls0zK62Op0KeWID"
+      },
+      "artists": [
+        {
+          "name": "Jack's Mistress Frida",
+          "url": "https://open.spotify.com/artist/6ZgqMiHfzrfXYYQxus20BS"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260398,
+      "name": "Buenos Aires Bound",
+      "url": "https://open.spotify.com/track/3ZP0pxXCj7L4iEOTFAVlJ9"
     },
     {
       "album": {
@@ -1924,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Dancing On The Ceiling",
+        "url": "https://open.spotify.com/album/1t1lPrpOtT685DdfsWwIuz"
+      },
+      "artists": [
+        {
+          "name": "SCRP",
+          "url": "https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231101,
+      "name": "Dancing On The Ceiling",
+      "url": "https://open.spotify.com/track/4i9EX3daDLV0qiWOROKCUJ"
+    },
+    {
+      "album": {
         "name": "Raincaller",
         "url": "https://open.spotify.com/album/0ZHvIq9zoftFWPbBeRpgVc"
       },
@@ -2025,7 +2094,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 149875,
       "name": "Deeper Spheres",
       "url": "https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW"
@@ -2533,6 +2602,24 @@
       "duration_ms": 357741,
       "name": "Easy Walker",
       "url": "https://open.spotify.com/track/1KsV7SV875mBfBlb40wYLU"
+    },
+    {
+      "album": {
+        "name": "Eladio",
+        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138100,
+      "name": "Eladio",
+      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
     },
     {
       "album": {
@@ -3658,6 +3745,24 @@
     },
     {
       "album": {
+        "name": "Humidity",
+        "url": "https://open.spotify.com/album/1dJO7zn4uOklk8OyBdHjo0"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125910,
+      "name": "Humidity",
+      "url": "https://open.spotify.com/track/7dCmjNwTuhPFcZwp4caqO6"
+    },
+    {
+      "album": {
         "name": "Moon II Remixes Pt. I",
         "url": "https://open.spotify.com/album/3E7mBvJ8YEQIdjPnkbUn9P"
       },
@@ -3721,6 +3826,24 @@
       "duration_ms": 242646,
       "name": "I ADORE U",
       "url": "https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc"
+    },
+    {
+      "album": {
+        "name": "I Can\u2019t Even",
+        "url": "https://open.spotify.com/album/2vqmwm05G6x3QOKwZRCaJh"
+      },
+      "artists": [
+        {
+          "name": "Drunk Archer",
+          "url": "https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171842,
+      "name": "I Can\u2019t Even",
+      "url": "https://open.spotify.com/track/1hZDvLGzGTvbBRP8CqU0rD"
     },
     {
       "album": {
@@ -5335,6 +5458,24 @@
       "duration_ms": 171000,
       "name": "Nightly Purpose",
       "url": "https://open.spotify.com/track/1eJpAPbFOJ9FcVrq99Vbsz"
+    },
+    {
+      "album": {
+        "name": "Nights And Days",
+        "url": "https://open.spotify.com/album/5C2xEEr58XvzGS3lDpkWYw"
+      },
+      "artists": [
+        {
+          "name": "Moy-ya",
+          "url": "https://open.spotify.com/artist/5khRduXj2TwOW0awj5q0zS"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193482,
+      "name": "Nights And Days",
+      "url": "https://open.spotify.com/track/1uhbd4sWOAaplom86NLMYI"
     },
     {
       "album": {
@@ -7010,6 +7151,24 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/5uD45F8wERKOjBswG3fSXY"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4tAKd6ouFGZMGcU4CQvtH7"
+    },
+    {
+      "album": {
         "name": "Short and Sweet",
         "url": "https://open.spotify.com/album/0s21Rk25Kwhi4xPy8AYDhV"
       },
@@ -7223,6 +7382,24 @@
       "duration_ms": 186767,
       "name": "Smiles",
       "url": "https://open.spotify.com/track/3WTd6IogFHOBZ8sobmKrKb"
+    },
+    {
+      "album": {
+        "name": "Smiling Falsifier",
+        "url": "https://open.spotify.com/album/1AP8iOyjLZXAMyhSosSHt1"
+      },
+      "artists": [
+        {
+          "name": "under.tone",
+          "url": "https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188242,
+      "name": "Smiling Falsifier",
+      "url": "https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S"
     },
     {
       "album": {
@@ -9157,6 +9334,24 @@
       "duration_ms": 424000,
       "name": "Window to the Soul",
       "url": "https://open.spotify.com/track/1G964AW9s14yKF7kJahxV2"
+    },
+    {
+      "album": {
+        "name": "Winter Sun",
+        "url": "https://open.spotify.com/album/37SUbcSIk3X5xxfVQYeBlC"
+      },
+      "artists": [
+        {
+          "name": "One Astra",
+          "url": "https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134732,
+      "name": "Winter Sun",
+      "url": "https://open.spotify.com/track/2dnqHctmOYFgLGs8AM6vKF"
     },
     {
       "album": {

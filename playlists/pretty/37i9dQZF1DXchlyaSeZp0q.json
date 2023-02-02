@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 81847,
+  "num_followers": 101904,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMGZlM2NmY2JmNGVmOTUzYjgzOTI1ZWZmMzU0YjFkNmEy",
+  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMDJmNzMxMjdhMDk0NTllZjI1ZGNiYjA3YWU0MGFmZjBm",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
         "name": "2nd Time Around (Expanded Edition)",
         "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
       },
@@ -135,6 +151,22 @@
       "duration_ms": 190058,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
+    },
+    {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "This Is My Country",
+        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "I'm Loving Nothing",
+      "url": "https://open.spotify.com/track/7bJ4yFd2JPJfxrpbJXPeRC"
     },
     {
       "added_at": "2022-09-08 14:58:04",
@@ -155,50 +187,18 @@
     {
       "added_at": "2022-09-08 14:58:04",
       "album": {
-        "name": "This Is My Country",
-        "url": "https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68"
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
       "artists": [
         {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
         }
       ],
-      "duration_ms": 151266,
-      "name": "I'm Loving Nothing",
-      "url": "https://open.spotify.com/track/7bJ4yFd2JPJfxrpbJXPeRC"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "These Arms of Mine",
-      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -215,6 +215,22 @@
       "duration_ms": 191160,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "These Arms of Mine",
+      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -251,18 +267,18 @@
     {
       "added_at": "2022-09-08 14:58:04",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
       "artists": [
         {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -279,38 +295,6 @@
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
-    },
-    {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
-        "name": "I Can't Stand the Rain",
-        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 150400,
-      "name": "I Can't Stand the Rain",
-      "url": "https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6"
     },
     {
       "added_at": "2022-09-08 14:58:04",
@@ -351,6 +335,22 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
+    },
+    {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "I Can't Stand the Rain",
+        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "I Can't Stand the Rain",
+      "url": "https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-09-08 14:58:04",
       "album": {
-        "name": "Bettye Swann",
-        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
-      },
-      "artists": [
-        {
-          "name": "Bettye Swann",
-          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Then You Can Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
-    },
-    {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -431,26 +415,6 @@
       "duration_ms": 154160,
       "name": "Love Is A Losing Game",
       "url": "https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL"
-    },
-    {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -475,6 +439,22 @@
     {
       "added_at": "2022-09-08 14:58:04",
       "album": {
+        "name": "Bettye Swann",
+        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
+      },
+      "artists": [
+        {
+          "name": "Bettye Swann",
+          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Then You Can Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
+    },
+    {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
         "name": "'Justments",
         "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
@@ -487,6 +467,42 @@
       "duration_ms": 229573,
       "name": "Can We Pretend",
       "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
+    },
+    {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Don't Give Up On Me",
+        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Don't Give Up On Me",
+      "url": "https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -505,20 +521,20 @@
       "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
     },
     {
-      "added_at": "2021-11-11 14:02:18",
+      "added_at": "2022-09-08 14:58:04",
       "album": {
-        "name": "Don't Give Up On Me",
-        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
       },
       "artists": [
         {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
         }
       ],
-      "duration_ms": 225533,
-      "name": "Don't Give Up On Me",
-      "url": "https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T"
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -551,22 +567,6 @@
       "duration_ms": 153986,
       "name": "The Dark End of the Street",
       "url": "https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0"
-    },
-    {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2021-11-11 14:02:18",

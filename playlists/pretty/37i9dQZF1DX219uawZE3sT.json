@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 103473,
+  "num_followers": 107878,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDA5NTQ5MjU5NGMxYWQ0M2VhYzg3YjI1Y2Y2MGI5ZDRj",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMGQ4MzZiNzQ2NWQxY2M2YzAzNWYxNGM0NjY5NDRlZDg5",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -95,6 +95,62 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "Rebelde",
+      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Primavera anticipada",
+        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "En cambio no",
+      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -111,22 +167,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "El Privilegio De Amar",
         "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
       },
@@ -139,6 +179,38 @@
       "duration_ms": 236493,
       "name": "El Privilegio De Amar",
       "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Los Ricos Tambi\u00e9n Lloran",
+        "url": "https://open.spotify.com/album/42ITN8GeRpWertgabpDGia"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "Los Ricos Tambi\u00e9n Lloran",
+      "url": "https://open.spotify.com/track/4ah8X7TcY3T5wy9ovVJGpq"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Qu\u00e9 Voy a Hacer Con Mi Amor",
+      "url": "https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -163,22 +235,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Los Ricos Tambi\u00e9n Lloran",
-        "url": "https://open.spotify.com/album/42ITN8GeRpWertgabpDGia"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Los Ricos Tambi\u00e9n Lloran",
-      "url": "https://open.spotify.com/track/4ah8X7TcY3T5wy9ovVJGpq"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -195,22 +251,6 @@
       "duration_ms": 191426,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Qu\u00e9 Voy a Hacer Con Mi Amor",
-      "url": "https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -247,8 +287,8 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Primavera anticipada",
-        "url": "https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7"
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
       "artists": [
         {
@@ -256,25 +296,49 @@
           "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 237440,
-      "name": "En cambio no",
-      "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
     },
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Boleto De Entrada Deluxe Edition",
-        "url": "https://open.spotify.com/album/5sD64gIfF8K37lOUjuz1Vf"
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
         }
       ],
-      "duration_ms": 227493,
-      "name": "Para Volver a Amar",
-      "url": "https://open.spotify.com/track/7kfbejwVkpfeInZ8I6fN3V"
+      "duration_ms": 206120,
+      "name": "Un Poco De Tu Amor",
+      "url": "https://open.spotify.com/track/64mK5Yd0rdGeXVkMFspEyt"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -295,18 +359,38 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+        "name": "Boleto De Entrada Deluxe Edition",
+        "url": "https://open.spotify.com/album/5sD64gIfF8K37lOUjuz1Vf"
       },
       "artists": [
         {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 203906,
-      "name": "La Descarada",
-      "url": "https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5"
+      "duration_ms": 227493,
+      "name": "Para Volver a Amar",
+      "url": "https://open.spotify.com/track/7kfbejwVkpfeInZ8I6fN3V"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
+        "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Lisset",
+          "url": "https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Nada Personal",
+      "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -359,62 +443,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
       },
       "artists": [
         {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
         }
       ],
-      "duration_ms": 214306,
-      "name": "Rebelde",
-      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
-        "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Lisset",
-          "url": "https://open.spotify.com/artist/3Nhah9QnvO4zqIsuQ1H6aW"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Nada Personal",
-      "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
+      "duration_ms": 203906,
+      "name": "La Descarada",
+      "url": "https://open.spotify.com/track/0GXGsFQeB1x5H21xjTF2j5"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -467,6 +507,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Lo Mejor De OV7",
+        "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
+      },
+      "artists": [
+        {
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+        }
+      ],
+      "duration_ms": 249400,
+      "name": "Enloqu\u00e9ceme",
+      "url": "https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Victor Garc\u00eda",
         "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
       },
@@ -479,22 +535,6 @@
       "duration_ms": 221093,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/68dyhT3QFybWKDSRBDgKof"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Nunca Te Olvidare\u0301",
-      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -515,58 +555,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Lo Mejor De OV7",
-        "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX"
       },
       "artists": [
         {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 249400,
-      "name": "Enloqu\u00e9ceme",
-      "url": "https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "Un Poco De Tu Amor",
-      "url": "https://open.spotify.com/track/64mK5Yd0rdGeXVkMFspEyt"
+      "duration_ms": 165680,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Nunca Te Olvidare\u0301",
+      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 237480,
       "name": "Esa Hembra Es Mala",
       "url": "https://open.spotify.com/track/3xIyTWewE9LFZwy3HklGwE"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
-      },
-      "artists": [
-        {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
-        }
-      ],
-      "duration_ms": 266040,
-      "name": "Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX"
+        "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
         }
       ],
-      "duration_ms": 165680,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j"
+      "duration_ms": 266040,
+      "name": "Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Canciones De Amor",
-        "url": "https://open.spotify.com/album/69hcj06pBkmRqZYNqtbI8c"
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 255333,
-      "name": "Desnuda",
-      "url": "https://open.spotify.com/track/5DRMxhUUiebOG9ruo5aLxj"
+      "duration_ms": 204533,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
+        "name": "Canciones De Amor",
+        "url": "https://open.spotify.com/album/69hcj06pBkmRqZYNqtbI8c"
       },
       "artists": [
         {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr"
+      "duration_ms": 255333,
+      "name": "Desnuda",
+      "url": "https://open.spotify.com/track/5DRMxhUUiebOG9ruo5aLxj"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -743,54 +743,6 @@
       "duration_ms": 236080,
       "name": "Ayer La Vi",
       "url": "https://open.spotify.com/track/2DcgfpjjP0EDY11XiBKUnX"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "El Amor Manda",
-        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Porque El Amor Manda",
-      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
-      },
-      "artists": [
-        {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Dos Mujeres un Camino",
-      "url": "https://open.spotify.com/track/1IY3GJk8HgLWpKtjtKXN52"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "La vida es... Amor sincero",
-        "url": "https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 226433,
-      "name": "Amor sincero",
-      "url": "https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -827,18 +779,50 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Mi tesoro",
-        "url": "https://open.spotify.com/album/3XUPV2CIpfIZDHUI8WKFfY"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
         }
       ],
-      "duration_ms": 209108,
-      "name": "Mi tesoro",
-      "url": "https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo"
+      "duration_ms": 255680,
+      "name": "Dos Mujeres un Camino",
+      "url": "https://open.spotify.com/track/1IY3GJk8HgLWpKtjtKXN52"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "El Amor Manda",
+        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Porque El Amor Manda",
+      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "La vida es... Amor sincero",
+        "url": "https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 226433,
+      "name": "Amor sincero",
+      "url": "https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -855,22 +839,6 @@
       "duration_ms": 229194,
       "name": "Por Amarte (Destilando Amor)",
       "url": "https://open.spotify.com/track/3EVVkNVaZoEwS2C4xntDJX"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
-        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
-      },
-      "artists": [
-        {
-          "name": "Los Hooligans",
-          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
-        }
-      ],
-      "duration_ms": 134293,
-      "name": "Agujetas de Color de Rosa (Pink Shoe Laces)",
-      "url": "https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -895,38 +863,34 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Hasta Ahora",
-        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
+        "name": "Mi tesoro",
+        "url": "https://open.spotify.com/album/3XUPV2CIpfIZDHUI8WKFfY"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Amor Real",
-      "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
+      "duration_ms": 209108,
+      "name": "Mi tesoro",
+      "url": "https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo"
     },
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Los Ganadores De La Voz",
-        "url": "https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6"
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Hooligans",
+        "url": "https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH"
       },
       "artists": [
         {
-          "name": "Alejandra Orozco",
-          "url": "https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3"
-        },
-        {
-          "name": "Oscar Cruz",
-          "url": "https://open.spotify.com/artist/0Jnwlov8CnJTEZBbQoRcfF"
+          "name": "Los Hooligans",
+          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
         }
       ],
-      "duration_ms": 229213,
-      "name": "S\u00f3lo Un Suspiro",
-      "url": "https://open.spotify.com/track/2APQKFq7yuq3sNaziTaeWE"
+      "duration_ms": 134293,
+      "name": "Agujetas de Color de Rosa (Pink Shoe Laces)",
+      "url": "https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -947,18 +911,34 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Ricardo Montaner Volumen 2",
-        "url": "https://open.spotify.com/album/2OLhHgoFR9T1SebPzV0bjD"
+        "name": "Hasta Ahora",
+        "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 256506,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/2yAQWxFEkBD7SWA1aemkua"
+      "duration_ms": 245000,
+      "name": "Amor Real",
+      "url": "https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Mirada de Mujer",
+        "url": "https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3"
+      },
+      "artists": [
+        {
+          "name": "Aranza",
+          "url": "https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -975,6 +955,38 @@
       "duration_ms": 283680,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Demasiado Corazon",
+        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Demasiado Corazon",
+      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Ricardo Montaner Volumen 2",
+        "url": "https://open.spotify.com/album/2OLhHgoFR9T1SebPzV0bjD"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/2yAQWxFEkBD7SWA1aemkua"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -999,18 +1011,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Demasiado Corazon",
-        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
+        "name": "Lo Esencial de Belinda",
+        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK"
         }
       ],
-      "duration_ms": 230208,
-      "name": "Demasiado Corazon",
-      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
+      "duration_ms": 182946,
+      "name": "El Baile del Sapito",
+      "url": "https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1031,34 +1043,38 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Lo Esencial de Belinda",
-        "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
+        "name": "Los Ganadores De La Voz",
+        "url": "https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6"
       },
       "artists": [
         {
-          "name": "C\u00f3mplices",
-          "url": "https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK"
+          "name": "Alejandra Orozco",
+          "url": "https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3"
+        },
+        {
+          "name": "Oscar Cruz",
+          "url": "https://open.spotify.com/artist/0Jnwlov8CnJTEZBbQoRcfF"
         }
       ],
-      "duration_ms": 182946,
-      "name": "El Baile del Sapito",
-      "url": "https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy"
+      "duration_ms": 229213,
+      "name": "S\u00f3lo Un Suspiro",
+      "url": "https://open.spotify.com/track/2APQKFq7yuq3sNaziTaeWE"
     },
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Mirada de Mujer",
-        "url": "https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3"
+        "name": "Jerem\u00edas",
+        "url": "https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1"
       },
       "artists": [
         {
-          "name": "Aranza",
-          "url": "https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB"
+          "name": "Jerem\u00edas",
+          "url": "https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E"
         }
       ],
-      "duration_ms": 179520,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB"
+      "duration_ms": 263184,
+      "name": "Poco A Poco",
+      "url": "https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Jerem\u00edas",
-        "url": "https://open.spotify.com/album/11S1C5Cmq83DilIsvSDWo1"
-      },
-      "artists": [
-        {
-          "name": "Jerem\u00edas",
-          "url": "https://open.spotify.com/artist/1QWZE0CuKISG4P68ykP56E"
-        }
-      ],
-      "duration_ms": 263184,
-      "name": "Poco A Poco",
-      "url": "https://open.spotify.com/track/2ecvmWhx9hAqzg6VhBTNSO"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "1985-1998",
         "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 205800,
       "name": "La Usurpadora",
       "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Sue\u00f1os de Juventud",
-        "url": "https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk"
-      },
-      "artists": [
-        {
-          "name": "DKDA",
-          "url": "https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb"
-        }
-      ],
-      "duration_ms": 335751,
-      "name": "\u00c1mame Como Soy (En Vivo)",
-      "url": "https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1191,18 +1175,34 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Se Dice de Mi, Yo Soy Betty la Fea.",
-        "url": "https://open.spotify.com/album/58XAbuYyEa6UV5wIuEgN2x"
+        "name": "Sue\u00f1os de Juventud",
+        "url": "https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk"
       },
       "artists": [
         {
-          "name": "Yolanda Rayo",
-          "url": "https://open.spotify.com/artist/6huV8wdNiXy3qqVuvXAquU"
+          "name": "DKDA",
+          "url": "https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb"
         }
       ],
-      "duration_ms": 145005,
-      "name": "Se Dice de Mi (Yo Soy Betty la Fea) (Versi\u00f3n Completa)",
-      "url": "https://open.spotify.com/track/6oq52sFxdbZn9JOJPXcNSc"
+      "duration_ms": 335751,
+      "name": "\u00c1mame Como Soy (En Vivo)",
+      "url": "https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Amantes Prohibidos",
+        "url": "https://open.spotify.com/album/7KGRiWQIcO3aUqY5NowYK6"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Amantes Prohibidos",
+      "url": "https://open.spotify.com/track/21WYyyjovbDtf8Sa2DSdfZ"
     }
   ],
   "unique_name": "Telenovelas",

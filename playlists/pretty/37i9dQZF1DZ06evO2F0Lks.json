@@ -1,15 +1,15 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 119618,
+  "num_followers": 122903,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDBkOGRkYWZiNjEwYmUzOTdhZTUyMDhhNDc2YzgyNmU0Ng==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA2NzFkOTY0MTU4ODU3NDc0MGQ1OGM0OGI3NmViOTcyYw==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Hate My Heart",
+      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "MACON",
         "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Storyteller",
         "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
@@ -101,71 +117,7 @@
       "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Ghost Story",
-        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Ghost Story",
-      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Hate My Heart",
-      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Jesus, Take the Wheel",
-      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
@@ -181,10 +133,10 @@
       "url": "https://open.spotify.com/track/0vFMQi8ZnOM2y8cuReZTZ2"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
       "artists": [
         {
@@ -192,12 +144,28 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 212173,
-      "name": "All-American Girl",
-      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
+      "duration_ms": 226493,
+      "name": "Jesus, Take the Wheel",
+      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
@@ -213,10 +181,10 @@
       "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+        "name": "Ghost Story",
+        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
       },
       "artists": [
         {
@@ -224,60 +192,12 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 202853,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
+      "duration_ms": 181400,
+      "name": "Ghost Story",
+      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Undo It",
-      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Crazy Angels",
         "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
@@ -293,30 +213,10 @@
       "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "This Is Country Music",
-        "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 271906,
-      "name": "Remind Me (with Carrie Underwood)",
-      "url": "https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
       "artists": [
         {
@@ -324,35 +224,15 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 209920,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o"
+      "duration_ms": 205560,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "The Champion",
-        "url": "https://open.spotify.com/album/46muKAiFbLEkonRNRpTuEH"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 223998,
-      "name": "The Champion",
-      "url": "https://open.spotify.com/track/0stPNUkU1LZnvxIcfrKnEZ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
       "artists": [
         {
@@ -360,12 +240,12 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 241053,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+      "duration_ms": 177253,
+      "name": "Undo It",
+      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Cry Pretty",
         "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
@@ -376,12 +256,12 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 258293,
-      "name": "Drinking Alone",
-      "url": "https://open.spotify.com/track/4objxuNfJlJHomkRIPa2Y2"
+      "duration_ms": 202853,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
@@ -401,7 +281,47 @@
       "url": "https://open.spotify.com/track/124KRi7jkm9Skq89xIK28V"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "This Is Country Music",
+        "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 271906,
+      "name": "Remind Me (with Carrie Underwood)",
+      "url": "https://open.spotify.com/track/4ABua0yuWcpTotImEEJTaw"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "The Champion",
+        "url": "https://open.spotify.com/album/46muKAiFbLEkonRNRpTuEH"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 223998,
+      "name": "The Champion",
+      "url": "https://open.spotify.com/track/0stPNUkU1LZnvxIcfrKnEZ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
@@ -412,12 +332,60 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 168280,
-      "name": "Denim & Rhinestones",
-      "url": "https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY"
+      "duration_ms": 203600,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 241053,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "Drinking Alone",
+      "url": "https://open.spotify.com/track/4objxuNfJlJHomkRIPa2Y2"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
@@ -433,39 +401,7 @@
       "url": "https://open.spotify.com/track/5mFYtqhN4T2D9IPSaZnVDw"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Greatest Hits: Decade #1",
-        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Something in the Water",
-      "url": "https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 320626,
-      "name": "How Great Thou Art",
-      "url": "https://open.spotify.com/track/4fvpSvvMoEd9ka3wfMGjKn"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
@@ -481,7 +417,39 @@
       "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Nothing But The Blood Of Jesus",
+      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Greatest Hits: Decade #1",
+        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
@@ -497,10 +465,10 @@
       "url": "https://open.spotify.com/track/5d98TnYzxQmFE4vKgzWXuT"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
       "artists": [
         {
@@ -508,12 +476,12 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 225213,
-      "name": "So Small",
-      "url": "https://open.spotify.com/track/6xfL1KzGxg48ACVlQE9qXr"
+      "duration_ms": 168280,
+      "name": "Denim & Rhinestones",
+      "url": "https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "My Savior",
         "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
@@ -533,23 +501,7 @@
       "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "She Don\u2019t Know",
-      "url": "https://open.spotify.com/track/0pQoXJI5v3Nb9Nv2sr7Llk"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
@@ -565,7 +517,55 @@
       "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 284706,
+      "name": "Just a Dream",
+      "url": "https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "She Don\u2019t Know",
+      "url": "https://open.spotify.com/track/0pQoXJI5v3Nb9Nv2sr7Llk"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 320626,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/4fvpSvvMoEd9ka3wfMGjKn"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "The Best of The '68 Comeback Special (Live)",
         "url": "https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01"
@@ -601,87 +601,7 @@
       "url": "https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Nothing But The Blood Of Jesus",
-      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Velvet Heartbreak",
-      "url": "https://open.spotify.com/track/2MvjNZWNBKX7VWkYUxRBTJ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 284706,
-      "name": "Just a Dream",
-      "url": "https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Cry Pretty",
-      "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
@@ -697,10 +617,10 @@
       "url": "https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Greatest Hits: Decade #1",
-        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
       "artists": [
         {
@@ -708,15 +628,15 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Little Toy Guns",
-      "url": "https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X"
+      "duration_ms": 183080,
+      "name": "Velvet Heartbreak",
+      "url": "https://open.spotify.com/track/2MvjNZWNBKX7VWkYUxRBTJ"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
       },
       "artists": [
         {
@@ -724,12 +644,60 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Smoke Break",
-      "url": "https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa"
+      "duration_ms": 176440,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Cry Pretty",
+      "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "So Small",
+      "url": "https://open.spotify.com/track/6xfL1KzGxg48ACVlQE9qXr"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "Temporary Home",
+      "url": "https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Only Us (From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF"
@@ -749,10 +717,10 @@
       "url": "https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+        "name": "Greatest Hits: Decade #1",
+        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
       },
       "artists": [
         {
@@ -760,15 +728,15 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 268560,
-      "name": "Temporary Home",
-      "url": "https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM"
+      "duration_ms": 210760,
+      "name": "Little Toy Guns",
+      "url": "https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
       },
       "artists": [
         {
@@ -776,44 +744,12 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 228640,
-      "name": "Love Wins",
-      "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
+      "duration_ms": 198333,
+      "name": "Smoke Break",
+      "url": "https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
-      "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Blessed Assurance",
-      "url": "https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv"
-    },
-    {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
@@ -829,7 +765,23 @@
       "url": "https://open.spotify.com/track/30vfmE5gZLW1VtghknFwTn"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 66093,
+      "name": "Jesus Loves Me - instrumental",
+      "url": "https://open.spotify.com/track/2HFuzPcb8cCYE2qEuT2dHu"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Cry Pretty",
         "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
@@ -840,12 +792,12 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 193360,
-      "name": "End Up With You",
-      "url": "https://open.spotify.com/track/5XIrB4tNKqmGxtVbYpTllz"
+      "duration_ms": 228640,
+      "name": "Love Wins",
+      "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
     },
     {
-      "added_at": "2022-11-25 14:27:05",
+      "added_at": "2023-02-01 17:51:16",
       "album": {
         "name": "Enchanted",
         "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
@@ -859,6 +811,54 @@
       "duration_ms": 209560,
       "name": "Ever Ever After - From \"Enchanted\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Don't Forget to Remember Me",
+      "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv"
+    },
+    {
+      "added_at": "2023-02-01 17:51:16",
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "End Up With You",
+      "url": "https://open.spotify.com/track/5XIrB4tNKqmGxtVbYpTllz"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

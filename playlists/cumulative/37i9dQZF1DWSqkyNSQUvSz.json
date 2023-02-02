@@ -2,9 +2,151 @@
   "date_first_scraped": "2022-05-30",
   "description": "A podcast playlist where women of all experiences share the stories that made them who they are.",
   "name": "With Love, A Storyteller",
-  "published_playlist_ids": [
-    "4X8P9LnGazfERCLYmPSIas"
+  "tracks": [
+    {
+      "album": {
+        "name": "With Love, A Storyteller",
+        "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+      },
+      "artists": [
+        {
+          "name": "With Love, A Storyteller",
+          "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 283715,
+      "name": "With Love, Gage Adkins",
+      "url": "https://open.spotify.com/episode/4Q56TgSlFWCfgRdvbQtVQG"
+    },
+    {
+      "album": {
+        "name": "With Love, A Storyteller",
+        "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+      },
+      "artists": [
+        {
+          "name": "With Love, A Storyteller",
+          "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 269061,
+      "name": "With Love, Juleyka Lantigua",
+      "url": "https://open.spotify.com/episode/13YlrH9nTUiHw8LndchA7R"
+    },
+    {
+      "album": {
+        "name": "With Love, A Storyteller",
+        "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+      },
+      "artists": [
+        {
+          "name": "With Love, A Storyteller",
+          "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 342491,
+      "name": "With Love, Munroe Bergdorf",
+      "url": "https://open.spotify.com/episode/5Rnz7QHZVrOsRy1YPB6eQD"
+    },
+    {
+      "album": {
+        "name": "With Love, A Storyteller",
+        "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+      },
+      "artists": [
+        {
+          "name": "With Love, A Storyteller",
+          "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 346775,
+      "name": "With Love, Noor Elkhaldi",
+      "url": "https://open.spotify.com/episode/7h3HwChLXb02PEpmTHAd0L"
+    },
+    {
+      "album": {
+        "name": "With Love, A Storyteller",
+        "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+      },
+      "artists": [
+        {
+          "name": "With Love, A Storyteller",
+          "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 306468,
+      "name": "With Love, Olivia Noel",
+      "url": "https://open.spotify.com/episode/7fSttfsaxD1EMKS6Ip0lHI"
+    },
+    {
+      "album": {
+        "name": "With Love, A Storyteller",
+        "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+      },
+      "artists": [
+        {
+          "name": "With Love, A Storyteller",
+          "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 274390,
+      "name": "With Love, Rintik Sedu",
+      "url": "https://open.spotify.com/episode/6xgVXyVmaaeQbIDNURCOGQ"
+    },
+    {
+      "album": {
+        "name": "With Love, A Storyteller",
+        "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+      },
+      "artists": [
+        {
+          "name": "With Love, A Storyteller",
+          "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 234266,
+      "name": "With Love, RJ Ananthi ",
+      "url": "https://open.spotify.com/episode/4GQJ57YhCb9E0mge7zcNwW"
+    },
+    {
+      "album": {
+        "name": "With Love, A Storyteller",
+        "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+      },
+      "artists": [
+        {
+          "name": "With Love, A Storyteller",
+          "url": "https://open.spotify.com/show/1ciHAutJ8BfgqgdWDgQI7y"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 301714,
+      "name": "With Love, Roba Kadhem",
+      "url": "https://open.spotify.com/episode/3WVEOCQg8nwyuB1R9CxDZV"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSqkyNSQUvSz"
 }

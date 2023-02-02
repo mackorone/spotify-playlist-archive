@@ -4,7 +4,7 @@
 
 > 100% fan\-made music\. Gaming parodies of famous songs and unique creations, inspired by Minecraft, Warcraft, Pokémon and more.
 
-63 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/7jWuxrm69qIssOeGynezli)
+63 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

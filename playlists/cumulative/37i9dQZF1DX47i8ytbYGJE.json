@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-08",
   "description": "Hillbilly and Rock music fusing together called Rockabilly!  Thankyouverymuch...",
   "name": "Country 101: Rockabilly",
-  "published_playlist_ids": [
-    "3GVV7z7IlOsMQHBFeVAJAv"
-  ],
   "tracks": [
     {
       "album": {
@@ -1017,10 +1014,28 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 144000,
       "name": "Do Me No Wrong",
       "url": "https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S"
+    },
+    {
+      "album": {
+        "name": "Presenting Pat Cupp",
+        "url": "https://open.spotify.com/album/6uflDIt9eWuGJPE5soqSn8"
+      },
+      "artists": [
+        {
+          "name": "Pat Cupp",
+          "url": "https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ"
+        }
+      ],
+      "date_added": "2020-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144013,
+      "name": "Do Me No Wrong (Demo)",
+      "url": "https://open.spotify.com/track/61vCg9VRY7AXw3rFRd39g9"
     },
     {
       "album": {

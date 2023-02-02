@@ -4,7 +4,7 @@
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-50 songs - 4 hr 15 min - not published yet
+50 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Beautiful Exchange \- Live](https://open.spotify.com/track/2IoLThsLZVkOwDiHwQ0dyM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [A Beautiful Exchange](https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci) | 10:43 | 2022-04-02 |  |
 | [Beauty For Ashes \- Live](https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 4:54 | 2022-04-02 |  |
 | [Because He Lives \(Amen\)](https://open.spotify.com/track/5UVAPfV3T15X23qdYUWp7f) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Because He Lives \(Amen\)](https://open.spotify.com/album/3NxtPWkRme5IO95JZyOl6H) | 3:20 | 2022-04-02 |  |
-| [Behold \(Then Sings My Soul\) \- Live](https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/5r7TYE2HhPqC5emV9WXW9c) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 6:46 | 2022-04-02 |  |
+| [Behold \(Then Sings My Soul\) \- Live](https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 6:46 | 2022-04-02 |  |
 | [Blameless](https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [Blameless](https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj) | 3:54 | 2022-04-02 |  |
 | [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 | 2022-04-02 |  |
 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 | 2022-04-02 |  |

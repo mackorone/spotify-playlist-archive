@@ -4,7 +4,7 @@
 
 > Good people, message and great music from the U.K\. to the world! Cover: Jonathan Ogden of Rivers & Robots
 
-41 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/4hDvOtNBPtENQ0F2BShsbQ)
+41 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

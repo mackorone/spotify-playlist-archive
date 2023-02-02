@@ -4,7 +4,7 @@
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-56 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/2v0Q5hgZbBPeZBtRP6q1o6)
+58 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Brick House \- Live / 1977](https://open.spotify.com/track/0EmZIqR8ndJxEfHBiWc5eY) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 10:19 | 2021-11-12 |  |
 | [Changing Times \- Live](https://open.spotify.com/track/3XYujZJHWpgL9wK8Ulpeyx) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Live In New Orleans](https://open.spotify.com/album/22A6N52pYOMO0a7SV5aGcz) | 5:10 | 2021-11-12 |  |
 | [Chase Me](https://open.spotify.com/track/1lFUQF7P2Q7hNCMTQTJAkk) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Live for Ya Ass](https://open.spotify.com/album/0jG1ZGcNojCrIzbUzuVaXE) | 5:04 | 2021-11-12 |  |
+| [Cory Wong \- The Power Station Tour Live](https://open.spotify.com/track/0hA0WmQreJnjgwG2I3y9Z7) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Power Station Tour \(West Coast\)](https://open.spotify.com/album/7i8OowqVyZHx8FIH16WW5S) | 5:00 | 2023-01-20 |  |
 | [Cosmic Sans \(Syncopate & Motivate Live\)](https://open.spotify.com/track/2ANnYIAJOzJWJWOLvL2Y1y) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Syncopate & Motivate Tour \(Set 1\)](https://open.spotify.com/album/4e3jwkTC8elSXhuAItnuLy) | 3:31 | 2021-11-12 |  |
 | [Dance To The Music \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/1ONoh5Aag3erFA42iiqYO4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Sly & The Family Stone: The Woodstock Experience](https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV) | 4:28 | 2021-11-12 |  |
 | [Dr\. Funkenstein's Supergroovalisticprosifunkstication Medley \- Live/1977](https://open.spotify.com/track/3ZuK6t3vXaJ0BXZKtG77BZ) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Live: P Funk Earth Tour](https://open.spotify.com/album/4IXQ7jxYm9gUoGAccnDEAY) | 4:58 | 2021-11-12 |  |
@@ -45,7 +46,8 @@
 | [One Night Only \(The March\) \- Live](https://open.spotify.com/track/1zviOAnocsdrcMPv6SSRAi) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Jazz Fest: The New Orleans Jazz & Heritage Festival](https://open.spotify.com/album/1KHL1RsuKBVyDyHBvlNO1Q) | 3:29 | 2021-11-12 |  |
 | [Oops Upside Your Head \(Live\)](https://open.spotify.com/track/12qDEgR79wkOeLsvO4eH4m) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Groovin' With....The Gap Band \(Live\)](https://open.spotify.com/album/0venVIHlJkvoI8tmsCESj2) | 5:11 | 2021-11-12 |  |
 | [Outrageous \- Live](https://open.spotify.com/track/51WQakjhwsoPZ1Wr4clgoa) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fresh Takes \(Live\)](https://open.spotify.com/album/3i83GqrBewJvgNLIxmwkgk) | 6:35 | 2021-11-12 |  |
-| [Own Me \- Live at Pikes Ibiza](https://open.spotify.com/track/68pP7yZDSypoO61c71GmMD) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Own Me \(Live at Pikes Ibiza\)](https://open.spotify.com/album/50hUqiCnpIpWaKkHHLqiqW) | 8:16 | 2022-10-14 |  |
+| [Own Me \- Live at Pikes Ibiza](https://open.spotify.com/track/3EvJZh4uA88IeMWyiuHTxi) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Shout Out! To Freedom… \(Live at Pikes Ibiza\)](https://open.spotify.com/album/6uFs5V9VWsrJWi6wFZusB6) | 8:16 | 2022-10-14 |  |
+| [Own Me \- Live at Pikes Ibiza](https://open.spotify.com/track/68pP7yZDSypoO61c71GmMD) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Own Me \(Live at Pikes Ibiza\)](https://open.spotify.com/album/50hUqiCnpIpWaKkHHLqiqW) | 8:16 | 2022-10-14 | 2023-02-02 |
 | [Person to Person \- Live](https://open.spotify.com/track/1OLHfed0SBV8wMp8Bph2OE) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Person to Person](https://open.spotify.com/album/3FCyjtaOdE0glsZMy4uPsV) | 7:02 | 2021-11-12 |  |
 | [Psychoticbumpschool \- Live Version](https://open.spotify.com/track/24TPNhH0tX9f7QxfGMb4ho) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 6:37 | 2021-11-12 |  |
 | [Saturday Night \- Live At The Filmore](https://open.spotify.com/track/42ZCfSrdn6UujHk5deiwDB) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Live At The Fillmore](https://open.spotify.com/album/7qcTl3nSqT2vnt14gNi43V) | 4:16 | 2021-11-12 |  |

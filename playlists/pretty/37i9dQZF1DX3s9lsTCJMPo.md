@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but classics! The best in Soca anthems brought to you by the Soca Queen herself Alison Hinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,980 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,977 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 20 | [Guh Down](https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2011](https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0) | 3:07 |
 | 21 | [Brace & Wine](https://open.spotify.com/track/1JOggkBvB1cUgoqsbls0XU) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Gold 2012](https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0) | 3:13 |
 | 22 | [Big Bad Soca \(feat\. Shenseea\) \- Remix](https://open.spotify.com/track/3CY8rV3PkmtHqxAtE0i9aH) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Soca Gold 2018](https://open.spotify.com/album/6JuB3fnDZnHPG5cXNTzDJZ) | 3:47 |
-| 23 | [West Indian](https://open.spotify.com/track/5ojDwaC18QlyMu43T6UArw) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [West Indian](https://open.spotify.com/album/3xvPs1mCwpvTPQlNtHsVyS) | 3:07 |
+| 23 | [West Indian](https://open.spotify.com/track/4PLywM0ijCk1gsEnTl1R7v) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [West Indian](https://open.spotify.com/album/3RYApYuUFt8eDOvmVmsig5) | 3:07 |
 | 24 | [Follow The Leader, Leader, Leader](https://open.spotify.com/track/14wslvmrlgQdww5lqLquYO) | [Nigell & Marvin Lewis](https://open.spotify.com/artist/6VihgPbnkMpKvwv3kp7F9M) | [Soca Gold 2001](https://open.spotify.com/album/6PKI32VFc89X22YQW0bUf7) | 3:33 |
 | 25 | [Pull Up](https://open.spotify.com/track/33Ew1NEkL2UFbA4xb5VcAH) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Gold 2018](https://open.spotify.com/album/6JuB3fnDZnHPG5cXNTzDJZ) | 3:24 |
 | 26 | [Professional](https://open.spotify.com/track/28LqbyZ1D3zA2J2Tc8noxj) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Soca Gold 2016](https://open.spotify.com/album/3ibzExmjxbY5tLAnP589Xr) | 3:15 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 65 | [Thelma](https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD) | [South South West](https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 4:15 |
 | 66 | [Bring It \(feat\. Hunter\)](https://open.spotify.com/track/6tEYNIoNdrhDUh1wcq2XPE) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Hunter](https://open.spotify.com/artist/64eACiIkWPfgfbknZ9WjHa) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:28 |
 | 67 | [Thief A Wine](https://open.spotify.com/track/4K1CnLD9g0aOTf10TUxxPT) | [Kess](https://open.spotify.com/artist/5bipNApkjbHrV9Jkyj9EV6) | [Soca Gold 2013](https://open.spotify.com/album/5IUSWCDg7mjjflea2V86mC) | 4:03 |
-| 68 | [Famalay](https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6) | 3:19 |
+| 68 | [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 |
 | 69 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
 | 70 | [Lucy](https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Bakanation](https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd) | 3:30 |
 | 71 | [Bang Bim](https://open.spotify.com/track/5U3BtEzZtKgkin6H5XQWcf) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [One O'clock Riddim](https://open.spotify.com/album/6MUaktdtrLdbNSy1m68ZLs) | 2:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 79 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 |
 | 80 | [Santorini \- Toutouni](https://open.spotify.com/track/0fmLrumawMi4GSc6Am5M22) | [Gamma](https://open.spotify.com/artist/4PNh8FwyFmQmZ8itJT1ZnM) | [Santorini \(Toutouni\)](https://open.spotify.com/album/53HA8pTKzXVuedif71ncAP) | 1:50 |
 
-Snapshot ID: `MTY2MDg2NDU4OSwwMDAwMDAwMGUyZWQ4YjU1NjA1YmQ1YTZmYWJjZWJlZGMzYzlhODc0`
+Snapshot ID: `MTY2MDg2NDU4OSwwMDAwMDAwMDI1YmFiZTBhMmZmNGZjODY2MWEzNWZhMjUyZjQ3YmRk`

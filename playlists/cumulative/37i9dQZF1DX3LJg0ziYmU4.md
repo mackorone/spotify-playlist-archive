@@ -4,7 +4,7 @@
 
 > Recorriendo las carreteras con puras canciones de arranque 🚛
 
-152 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/6K7ps8Ld7bO5Ar0JPM2m6A)
+153 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [El Profeta](https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Profeta Y Otros Caballos Famosos](https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g) | 3:24 | 2022-08-05 |  |
 | [El Quijote De Don Chuy](https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:57 | 2022-08-05 |  |
 | [El Señor de los Cielos](https://open.spotify.com/track/19PIq4WexQkhQfOUWNV1bl) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:35 | 2022-03-02 |  |
-| [El Sube y Baja](https://open.spotify.com/track/6OFflgveGSi5yZAsSszD93) | [Caimanes De Sinaloa](https://open.spotify.com/artist/3KIcUmSQNxotV0Bt7lDdBg) | [La Plebada Belica](https://open.spotify.com/album/3SKUMbnFexTaiw7inC9YhV) | 2:22 | 2022-01-19 |  |
+| [El Sube y Baja](https://open.spotify.com/track/6OFflgveGSi5yZAsSszD93) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [La Plebada Belica](https://open.spotify.com/album/3SKUMbnFexTaiw7inC9YhV) | 2:22 | 2022-01-19 |  |
 | [El Trokero Lokochon](https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:34 | 2021-06-18 |  |
 | [El Troquero](https://open.spotify.com/track/4opEOISHAC7Y3jrkzn3k1A) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:55 | 2021-06-18 |  |
 | [El Viajecito](https://open.spotify.com/track/5a8BD719zyuFnj4b0vDh6o) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' la Raza](https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU) | 3:56 | 2021-06-18 |  |
@@ -129,7 +129,8 @@
 | [Nadie Es Eterno](https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/5AINE3154WldReklifyueS) | 3:16 | 2022-03-02 | 2022-10-07 |
 | [Ni Con Labios Prestados](https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ni Con Labios Prestados](https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx) | 4:04 | 2022-08-05 |  |
 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 | 2022-08-05 | 2022-10-07 |
-| [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 | 2022-08-05 |  |
+| [No Se Va \- En Vivo](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2022-08-05 |  |
+| [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 | 2022-08-05 | 2022-12-24 |
 | [Nomas Por Tu Culpa](https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:40 | 2022-03-02 |  |
 | [Pa'l Terre](https://open.spotify.com/track/1nRMRdloHa9MU0jRjaGE6r) | [Los Amos De Nuevo Leon](https://open.spotify.com/artist/2PpOrMC4P8PG2yi0S3ft0l) | [Pa'l Terre 2013](https://open.spotify.com/album/1RcwAfjNajuXYVGmreDjIS) | 2:43 | 2022-03-02 | 2022-08-06 |
 | [Pensando En Ti](https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:29 | 2022-03-02 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-01",
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
   "name": "Creo En Ti",
-  "published_playlist_ids": [
-    "3jiShlYwS71F3xKwdZ7drq"
-  ],
   "tracks": [
     {
       "album": {
@@ -875,13 +872,17 @@
         {
           "name": "En Esp\u00edritu Y En Verdad",
           "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
         }
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 333217,
-      "name": "El Gran Yo Soy",
+      "name": "El Gran Yo Soy feat. Omar Rodr\u00edguez Music",
       "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
     },
     {
@@ -1255,13 +1256,17 @@
         {
           "name": "En Esp\u00edritu Y En Verdad",
           "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
         }
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 315653,
-      "name": "Gracia Sublime Es",
+      "name": "Gracia Sublime Es feat. Omar Rodr\u00edguez Music",
       "url": "https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC"
     },
     {
@@ -2251,7 +2256,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 226306,
       "name": "No Soy Yo (feat. Redimi2)",
       "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
@@ -2461,7 +2466,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2023-01-02",
       "duration_ms": 367773,
       "name": "Que Baje la Nube",
       "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
@@ -2675,7 +2680,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 264800,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
@@ -2711,7 +2716,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 210932,
       "name": "Soy Libre",
       "url": "https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM"
@@ -3511,7 +3516,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 271506,
       "name": "\u00c9l Es Vida",
       "url": "https://open.spotify.com/track/2VmzoU0QqN8jLRbdSkxvao"

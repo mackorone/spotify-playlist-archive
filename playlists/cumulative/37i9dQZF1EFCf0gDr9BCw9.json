@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz\">Billy Strayhorn</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Billy Strayhorn",
-  "published_playlist_ids": [
-    "1UyIYAFlZaVwKHGX6GAsd7"
-  ],
   "tracks": [
     {
       "album": {
@@ -389,6 +386,24 @@
     {
       "album": {
         "name": "And His Mother Called Him Bill",
+        "url": "https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "Boo-Dah",
+      "url": "https://open.spotify.com/track/3lboFV3xYtNiRtHQI9Ga4D"
+    },
+    {
+      "album": {
+        "name": "And His Mother Called Him Bill",
         "url": "https://open.spotify.com/album/2K0iRt0H36VGYi9Dt21Q0g"
       },
       "artists": [
@@ -399,7 +414,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 205560,
       "name": "Boo-Dah - Remastered",
       "url": "https://open.spotify.com/track/1BYrhHjvDPbUaGCqv8gvkt"
@@ -565,7 +580,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 143531,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/1DkbJhQlmCvXe4ieTwecEC"
@@ -587,6 +602,24 @@
       "duration_ms": 143531,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/5OVFmjIZkM2EBjW8T0v0V7"
+    },
+    {
+      "album": {
+        "name": "The Nutcracker Suite (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168040,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/7m9S3Smuhc0AlDqZoIR0MX"
     },
     {
       "album": {
@@ -920,6 +953,24 @@
     },
     {
       "album": {
+        "name": "The Nutcracker Suite (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/0jz6M9pb3tH0UfQmc0fROr"
+    },
+    {
+      "album": {
         "name": "Blue Rose (with Duke Ellington & His Orchestra)",
         "url": "https://open.spotify.com/album/5DBIhsPokIR45YuxdzQ7Kn"
       },
@@ -1124,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "The Nutcracker Suite (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "Juanita",
+      "url": "https://open.spotify.com/track/4Af3a5GQkggFmsjylz5Psn"
+    },
+    {
+      "album": {
         "name": "In the Evening by the Moonlight",
         "url": "https://open.spotify.com/album/6Gm70RcgXviUTf189V247x"
       },
@@ -1135,7 +1204,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 202270,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/4MkCMbWsZ1J3MSkc5EAn1l"
@@ -1748,7 +1817,7 @@
     },
     {
       "album": {
-        "name": "The Very Thought Of You",
+        "name": "The Very Thought Of You (Expanded Edition)",
         "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
       },
       "artists": [

@@ -4,7 +4,7 @@
 
 > BLACKPINK in our area! Are you ready to Shut Down?
 
-73 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/4rpz4c4LPfQuPugTkBiX1N)
+73 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

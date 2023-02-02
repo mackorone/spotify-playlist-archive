@@ -4,7 +4,7 @@
 
 > The new sound of jazz\. Cover: Brian Blade
 
-184 songs - 20 hr 15 min - [published](https://open.spotify.com/playlist/3HVR2v1zYvAY8YfoBsMptq)
+184 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

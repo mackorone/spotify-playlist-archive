@@ -4,7 +4,7 @@
 
 > Enjoy M.Net's dance battle show Street Woman Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿 우먼 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-23 songs - 1 hr 12 min - [published](https://open.spotify.com/playlist/6rerNTCEd8wAeZEEIQUBjp)
+23 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

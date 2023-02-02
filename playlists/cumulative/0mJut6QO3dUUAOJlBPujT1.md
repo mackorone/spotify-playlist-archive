@@ -4,7 +4,7 @@
 
 > Popaganda jubilerar, då festivalen nu fyller 10 år\. Sommarens upplaga arrangeras vid Eriksdalsbadet i Stockholm, den 24 \- 25 augusti\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-22 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/56uihmwZdFckzmKALLBzRD)
+22 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New and classic Christmas tales for kids.
 
-25 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/3pMEDRDXVuKCgKz7VOTu3e)
+27 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,9 +29,11 @@
 | [Mickey's Christmas Carol](https://open.spotify.com/track/0hrJ4WPk9fxM10FSphzmxw) | [Alan Young](https://open.spotify.com/artist/4PARbWiRYdpx1rO3OG97xP) | [Mickey's Christmas Carol](https://open.spotify.com/album/0qTBASJ7RydzzYA1GWq5sL) | 33:34 | 2021-11-11 |  |
 | [The Night Before Christmas \(Story\)](https://open.spotify.com/track/6xzTn36XLj6YGfmkmNBZ5B) | [Kidzone](https://open.spotify.com/artist/6i1qu6ITcSL2Ss6qr7Nzkn) | [Christmas Carols & Stories \(A Treasury of Festive Fun\)](https://open.spotify.com/album/53IkHZsY9R3oJ52BSS5twD) | 3:54 | 2021-11-11 |  |
 | [The Nutcracker Story](https://open.spotify.com/track/0FMdDfm8alEAhS6TyUn4sk) | [James Warwick](https://open.spotify.com/artist/0uIhqXA2VaLdpdkmDOHa6B) | [The Nutcracker Story / The Selfish Giant](https://open.spotify.com/album/4IkAVAKE1onQNV0aXCZ9EF) | 45:06 | 2021-11-11 |  |
+| [The Snowman Soundtrack \- Continued](https://open.spotify.com/track/17cSXVcALTAQG0p20HImAm) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei) | [The Snowman](https://open.spotify.com/album/6EIjBXAl4Xv7Z353KnjSXD) | 6:40 | 2022-11-23 |  |
 | [The Story of Father Christmas](https://open.spotify.com/track/1MhQbjxWV6NhP0Vk6Ydasq) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Christmas Hits for Kids \- Childrens Christmas Music and Xmas Songs](https://open.spotify.com/album/4i5wzTShLRiQ7V1jk7KPOy) | 6:47 | 2021-11-11 |  |
-| [The Story Of The Snowman](https://open.spotify.com/track/61Ah9nk3g0iWCJNn9trAaD) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei) | [The Snowman](https://open.spotify.com/album/2FcJpDHg4WaTcmqtPzJeuF) | 15:30 | 2021-11-11 |  |
-| [The Story Of The Snowman \(continued\)](https://open.spotify.com/track/1FLrsZEEPLhcwxZA1USfCC) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei) | [The Snowman](https://open.spotify.com/album/2FcJpDHg4WaTcmqtPzJeuF) | 6:40 | 2021-11-11 |  |
+| [The Story of the Snowman](https://open.spotify.com/track/1oy0EQuDLoEe4nkFi3KcEU) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei) | [The Snowman](https://open.spotify.com/album/3QV7GPDaFbHggTLV6adp88) | 15:30 | 2022-11-23 |  |
+| [The Story Of The Snowman](https://open.spotify.com/track/61Ah9nk3g0iWCJNn9trAaD) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei) | [The Snowman](https://open.spotify.com/album/2FcJpDHg4WaTcmqtPzJeuF) | 15:30 | 2021-11-11 | 2022-12-14 |
+| [The Story Of The Snowman \(continued\)](https://open.spotify.com/track/1FLrsZEEPLhcwxZA1USfCC) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei) | [The Snowman](https://open.spotify.com/album/2FcJpDHg4WaTcmqtPzJeuF) | 6:40 | 2021-11-11 | 2022-12-14 |
 | [The Year Without A Santa Claus](https://open.spotify.com/track/4mrxIpnLMkBY8qwdAHYNNg) | [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [The Year Without A Santa Claus](https://open.spotify.com/album/0EBbK2srq2B6fYfhgpeUp6) | 16:48 | 2021-11-11 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

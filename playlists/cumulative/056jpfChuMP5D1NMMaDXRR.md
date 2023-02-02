@@ -4,7 +4,7 @@
 
 > Companion playlist for the Metallica documentaries.
 
-30 songs - 2 hr 45 min - [published](https://open.spotify.com/playlist/6yYahXA9HrpDo483tFp1zJ)
+30 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

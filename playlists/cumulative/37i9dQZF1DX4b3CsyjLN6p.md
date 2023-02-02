@@ -4,7 +4,7 @@
 
 > It's like that game you use to play when you were bored, only different\. \[Warning: Explicit Content\]
 
-20 songs - 1 hr 22 min - [published](https://open.spotify.com/playlist/04y6pdmCdL1DmFBUnY4c78)
+20 songs - 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

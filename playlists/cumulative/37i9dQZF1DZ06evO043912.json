@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
   "name": "This Is King Sunny Ade",
-  "published_playlist_ids": [
-    "3QNG6SG1Dt2gtwgbuMijpe"
-  ],
   "tracks": [
     {
       "album": {
@@ -77,6 +74,28 @@
       "duration_ms": 71626,
       "name": "African Beats Lu Nsere",
       "url": "https://open.spotify.com/track/1LV8wFaEEMJFG8Z5x57YPq"
+    },
+    {
+      "album": {
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165459,
+      "name": "Akure Nile",
+      "url": "https://open.spotify.com/track/0v0XDTadZVjgo0BY3gWG4P"
     },
     {
       "album": {
@@ -873,7 +892,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 207266,
       "name": "Mo Beru Agba",
       "url": "https://open.spotify.com/track/7eQE0zygEXuwMhS2q0IZax"
@@ -1208,6 +1227,28 @@
     },
     {
       "album": {
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166112,
+      "name": "Prince Adesanya",
+      "url": "https://open.spotify.com/track/49xJOKFxTW6dR02sgj4oL3"
+    },
+    {
+      "album": {
         "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
         "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
       },
@@ -1327,7 +1368,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 226200,
       "name": "Sunny Ti De Ariya",
       "url": "https://open.spotify.com/track/6IqKmZd43Xw7jHCekXY1bO"

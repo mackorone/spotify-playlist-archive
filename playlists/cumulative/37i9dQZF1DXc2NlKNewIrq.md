@@ -4,7 +4,7 @@
 
 > Dive in to the Ambient of the 1980s.
 
-90 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/0cAKPa0n1keUFqltC1nqcQ)
+90 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

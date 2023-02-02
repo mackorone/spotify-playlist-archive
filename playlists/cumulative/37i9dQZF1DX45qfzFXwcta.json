@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-30",
   "description": "Instrumental beats from Hip-Hop's hey day; to help you study, work and vibe. ",
   "name": "Golden Era Focus",
-  "published_playlist_ids": [
-    "6CSS7RARjkDOfGavjcxjur"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,7 +96,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 221500,
       "name": "ATLiens - Instrumental",
       "url": "https://open.spotify.com/track/5YvXuk6Jei13V71KSFQ0fs"
@@ -735,7 +732,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 196173,
       "name": "Listen to your heart",
       "url": "https://open.spotify.com/track/0BODaqe1PfKlFtV2rjtY9D"
@@ -919,7 +916,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 120000,
       "name": "seed",
       "url": "https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk"
@@ -941,6 +938,24 @@
       "duration_ms": 120000,
       "name": "seed",
       "url": "https://open.spotify.com/track/1nmqvyLwzIbdcmKKcUDKL5"
+    },
+    {
+      "album": {
+        "name": "anthology",
+        "url": "https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p"
+      },
+      "artists": [
+        {
+          "name": "MF Eistee",
+          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "seed",
+      "url": "https://open.spotify.com/track/1yKxiVV3ETcGGcSZMs4Duq"
     },
     {
       "album": {
@@ -1016,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Class of 90's, Vol.1 (INSTRUMENTALS)",
+        "url": "https://open.spotify.com/album/3ZZuql91VoWIn8HT0gmevA"
+      },
+      "artists": [
+        {
+          "name": "Kixnare",
+          "url": "https://open.spotify.com/artist/5ZsUI5kxyhL9rBIjBrzocs"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267237,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/5sL1Ho2hWRpTe67DK7sFqA"
+    },
+    {
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/3QfHGlmwMjOtY78hmNcuhq"
       },
@@ -1061,6 +1094,28 @@
     {
       "album": {
         "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2leXozJUh9X7VhlWf8hbpk"
+      },
+      "artists": [
+        {
+          "name": "RLLBTS",
+          "url": "https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA"
+        },
+        {
+          "name": "7&Nine",
+          "url": "https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132112,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6f2imXhHCuzHNG74VNRowk"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
         "url": "https://open.spotify.com/album/5fkugNa58jJck6DctP5J4C"
       },
       "artists": [
@@ -1075,7 +1130,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 132112,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6hfkvmDhYHiaN7SR8A6DiR"
@@ -1317,6 +1372,24 @@
       "duration_ms": 174370,
       "name": "Tried by 12 (Instrumental)",
       "url": "https://open.spotify.com/track/3vIqoLnL7Y20z3ityk8h5i"
+    },
+    {
+      "album": {
+        "name": "Public Assembly",
+        "url": "https://open.spotify.com/album/6bHak7V9kU84wT38baA6Ay"
+      },
+      "artists": [
+        {
+          "name": "Damu The Fudgemunk",
+          "url": "https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268074,
+      "name": "Walk in the Park - Remix Instrumental",
+      "url": "https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8"
     },
     {
       "album": {

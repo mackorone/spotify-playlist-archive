@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2Cwc7OU92zsScsUHw2wW0y\">Emy Perez</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Emy Perez",
-  "published_playlist_ids": [
-    "04Px2zRqzuKCARA4eLARbp"
-  ],
   "tracks": [
     {
       "album": {
@@ -449,10 +446,36 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 198240,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/1gtoJYq7yhISk72RRpK82q"
+    },
+    {
+      "album": {
+        "name": "Gypsy",
+        "url": "https://open.spotify.com/album/3vxFPOYg85lQtPbn9LUNjf"
+      },
+      "artists": [
+        {
+          "name": "LOthief",
+          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
+        },
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2"
+        },
+        {
+          "name": "Emy Perez",
+          "url": "https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/4UINZDQVlLV2QDJ5FPv6eT"
     },
     {
       "album": {

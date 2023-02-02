@@ -4,7 +4,7 @@
 
 > Relive the year in roots, with some of the best songs in folk & Americana.
 
-50 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/2uSGHFizn04sEcBkkp5UdB)
+50 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

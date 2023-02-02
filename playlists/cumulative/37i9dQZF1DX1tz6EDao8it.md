@@ -4,7 +4,7 @@
 
 > Timeless, unforgettable melodies from the movies.
 
-105 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/4xWD1N1G8wZyE8HKW18sNF)
+105 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

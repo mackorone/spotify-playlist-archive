@@ -4,7 +4,7 @@
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-104 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/2Vtiq3m1kt7V8ae1tjCvfR)
+105 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Poison Love](https://open.spotify.com/track/7C3cUybMDDF7PKyFcDWouF) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:57 | 2022-04-20 |  |
 | [Polaris](https://open.spotify.com/track/33cXBJLWBnVdHRAaODd8LI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:53 | 2022-04-20 |  |
 | [R.o.S.E BLUE \(Prod\. ESTi\)](https://open.spotify.com/track/7sOXsL2oJpa8dGXUKoTM0G) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [R.o.S.E BLUE](https://open.spotify.com/album/6yZAw0cOevi5J15vCin8cc) | 4:00 | 2022-04-20 |  |
+| [REASON](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) | 3:17 | 2023-01-14 |  |
 | [Red Sun](https://open.spotify.com/track/5lwWpQ71GKN3sWmk8zZr9g) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:05 | 2022-04-20 |  |
 | [SAHARA](https://open.spotify.com/track/1aJ1TqB6m79xJkjlbLGXKe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:10 | 2022-04-20 |  |
 | [Scar](https://open.spotify.com/track/7LIixmuMvKokz1OF3Fi6KU) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 3:16 | 2022-04-20 |  |

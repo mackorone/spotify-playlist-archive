@@ -4,7 +4,7 @@
 
 > The ultimate romantic playlist.
 
-199 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/4EspPnqaxFauwkabUloWpH)
+199 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

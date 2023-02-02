@@ -4,7 +4,7 @@
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: Wolves At The Gate
 
-64 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/0qMMhfEEPvWBJQoaBQvSQq)
+64 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

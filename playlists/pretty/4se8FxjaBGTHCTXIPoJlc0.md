@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4se8FxjaBGTHCTXIPoJlc0.md) - [plain]
 
 > Music from the podcast Music Happens Here\. This episode focuses on the most iconic songs of Los Angeles, CA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 976 likes - 23 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 975 likes - 23 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

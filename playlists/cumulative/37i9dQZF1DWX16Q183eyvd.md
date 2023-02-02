@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-74 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/3wJRkoKTIvnJlE0H1vhhVJ)
+74 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

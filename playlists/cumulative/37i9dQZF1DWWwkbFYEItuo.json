@@ -2,9 +2,97 @@
   "date_first_scraped": "2022-05-30",
   "description": "The best of comedy, music, and culture from the Black and Brown Diaspora -- picked by Anik Khan.",
   "name": "Brown and Black Excellence",
-  "published_playlist_ids": [
-    "3elO3BG9dOqi6e4D0kJlFf"
+  "tracks": [
+    {
+      "album": {
+        "name": "Earn Your Leisure",
+        "url": "https://open.spotify.com/show/2S4tSSlT71Z5i8Dt1vlDJc"
+      },
+      "artists": [
+        {
+          "name": "Earn Your Leisure",
+          "url": "https://open.spotify.com/show/2S4tSSlT71Z5i8Dt1vlDJc"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 4463229,
+      "name": "EYL #69 American Dreamin\u2019 feat. Ani Sanyal",
+      "url": "https://open.spotify.com/episode/3G8KrGUbmWTs9pZCxMrcIC"
+    },
+    {
+      "album": {
+        "name": "More Than That with Gia Peppers",
+        "url": "https://open.spotify.com/show/6OJ254idi49MsWGUFvr6Li"
+      },
+      "artists": [
+        {
+          "name": "More Than That with Gia Peppers",
+          "url": "https://open.spotify.com/show/6OJ254idi49MsWGUFvr6Li"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1179402,
+      "name": "Growing Our Community f. Styles P & Hannah Wilson",
+      "url": "https://open.spotify.com/episode/1Idv5w4YJifhha4yE5vHDM"
+    },
+    {
+      "album": {
+        "name": "Business of HYPE",
+        "url": "https://open.spotify.com/show/6wzn2tT5CeWyYpDU9O14bf"
+      },
+      "artists": [
+        {
+          "name": "Business of HYPE",
+          "url": "https://open.spotify.com/show/6wzn2tT5CeWyYpDU9O14bf"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 4841038,
+      "name": "Hasan Minhaj",
+      "url": "https://open.spotify.com/episode/24H4BxIzjSscrTgr0MdFFT"
+    },
+    {
+      "album": {
+        "name": "Mango Bae",
+        "url": "https://open.spotify.com/show/57jiIA07ChxbtWz0sjwKi1"
+      },
+      "artists": [
+        {
+          "name": "Mango Bae",
+          "url": "https://open.spotify.com/show/57jiIA07ChxbtWz0sjwKi1"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 3552863,
+      "name": "Mango Bae #130: \u201cG.O.A.T. Curry ft. Anik Khan\u201d",
+      "url": "https://open.spotify.com/episode/2yk5yrdpHLyDIknq0UHfZ3"
+    },
+    {
+      "album": {
+        "name": "30 for 30 Podcasts",
+        "url": "https://open.spotify.com/show/3nZo0GuEfiOMacTbOb2ESE"
+      },
+      "artists": [
+        {
+          "name": "30 for 30 Podcasts",
+          "url": "https://open.spotify.com/show/3nZo0GuEfiOMacTbOb2ESE"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 2595317,
+      "name": "THE KING OF CRENSHAW Episode 3: Songs in the Key of Life",
+      "url": "https://open.spotify.com/episode/5UDfB4b73X9YR2XMOaEb0m"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWwkbFYEItuo"
 }

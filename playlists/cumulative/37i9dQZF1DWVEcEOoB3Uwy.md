@@ -4,7 +4,7 @@
 
 > A chill, laidback playlist for background vibes when you're potting up or watering your plants.
 
-61 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/2WylceQ8oadpBeDkipLo4I)
+61 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,29 +1,13 @@
 {
   "description": "Classic funk.",
-  "num_followers": 511152,
+  "num_followers": 518366,
   "original_name": "Funky Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEzNzc3MCwwMDAwMDAwMDg2YjE0NTEyMDc3M2Y2OWQwNGRjNmRlOWY0Mzg1YjRk",
+  "snapshot_id": "MTY3MDg1MzI3NSwwMDAwMDAwMDU2MjMxNDFlMjdiYzFkZjBjNTJlODdhMTQ4OWQzNmE2",
   "tracks": [
-    {
-      "added_at": "2020-04-14 18:58:44",
-      "album": {
-        "name": "Number 1's",
-        "url": "https://open.spotify.com/album/05IKjKz3leUEaULPbENUsy"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 271640,
-      "name": "I Wish - Single Edit",
-      "url": "https://open.spotify.com/track/6Fk2d1IMWZ5yOqUOvLfKdg"
-    },
     {
       "added_at": "2020-04-14 18:58:44",
       "album": {
@@ -43,8 +27,40 @@
     {
       "added_at": "2020-04-14 18:58:44",
       "album": {
+        "name": "Number 1's",
+        "url": "https://open.spotify.com/album/05IKjKz3leUEaULPbENUsy"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 271640,
+      "name": "I Wish - Single Edit",
+      "url": "https://open.spotify.com/track/6Fk2d1IMWZ5yOqUOvLfKdg"
+    },
+    {
+      "added_at": "2020-04-14 18:58:44",
+      "album": {
+        "name": "AWB",
+        "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
+      },
+      "artists": [
+        {
+          "name": "Average White Band",
+          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+        }
+      ],
+      "duration_ms": 239908,
+      "name": "Pick Up the Pieces",
+      "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
+    },
+    {
+      "added_at": "2020-04-14 18:58:44",
+      "album": {
         "name": "Humanize",
-        "url": "https://open.spotify.com/album/7qMC3PZNBjYRXcBfOi7hgt"
+        "url": "https://open.spotify.com/album/604icvBHTAfT7q9RvJak3A"
       },
       "artists": [
         {
@@ -54,7 +70,7 @@
       ],
       "duration_ms": 268173,
       "name": "Sea Groove",
-      "url": "https://open.spotify.com/track/4lhFA1E4MFfPeO9gYJEZOs"
+      "url": "https://open.spotify.com/track/60vuy9MXz1dgM5EKGmGCYt"
     },
     {
       "added_at": "2020-04-14 18:58:44",
@@ -87,22 +103,6 @@
       "duration_ms": 241600,
       "name": "Shakey Ground",
       "url": "https://open.spotify.com/track/1ELKkbWqtKRwvdCBGvETBp"
-    },
-    {
-      "added_at": "2020-04-14 18:58:44",
-      "album": {
-        "name": "AWB",
-        "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
-      },
-      "artists": [
-        {
-          "name": "Average White Band",
-          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
-        }
-      ],
-      "duration_ms": 239908,
-      "name": "Pick Up the Pieces",
-      "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
     },
     {
       "added_at": "2020-04-14 18:58:44",
@@ -169,7 +169,7 @@
         }
       ],
       "duration_ms": 179847,
-      "name": "Coleen feat. The Dap-Kings Horns",
+      "name": "Coleen",
       "url": "https://open.spotify.com/track/5dzTfHXcdHjxoJbpdy4DUu"
     },
     {
@@ -207,6 +207,38 @@
     {
       "added_at": "2020-04-14 18:58:44",
       "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/4cRB1vYHEoasDzu5HN5k2D"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 361093,
+      "name": "Got To Give It Up",
+      "url": "https://open.spotify.com/track/4JmZyfkzXWN7pHJsJpN6XP"
+    },
+    {
+      "added_at": "2022-12-12 13:54:35",
+      "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Pusherman",
+      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
+    },
+    {
+      "added_at": "2020-04-14 18:58:44",
+      "album": {
         "name": "Funked!: Volume 3 1977-1980",
         "url": "https://open.spotify.com/album/5hf3GFwcrKcXNLXs0xgESo"
       },
@@ -235,22 +267,6 @@
       "duration_ms": 163933,
       "name": "(Everybody Wanna Get Rich) Rite Away",
       "url": "https://open.spotify.com/track/2a0fkN8dbA5Kh8SR7cvl3D"
-    },
-    {
-      "added_at": "2020-04-14 18:58:44",
-      "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/4cRB1vYHEoasDzu5HN5k2D"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 361093,
-      "name": "Got To Give It Up",
-      "url": "https://open.spotify.com/track/4JmZyfkzXWN7pHJsJpN6XP"
     },
     {
       "added_at": "2020-04-14 18:58:44",
@@ -823,6 +839,22 @@
       "duration_ms": 269306,
       "name": "Do You Love What You Feel",
       "url": "https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK"
+    },
+    {
+      "added_at": "2022-12-12 13:54:35",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 228326,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
     },
     {
       "added_at": "2020-04-14 18:58:44",

@@ -4,7 +4,7 @@
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-104 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/6lQGShtqHlUTR1KQhiWK9V)
+104 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Enjoy the soundtracks of K\-POP idols' comeback war 'Queendom'\. \(K\-POP 아이돌들의 컴백전쟁 '퀸덤'의 사운드 트랙들을 즐겨보세요.\)
 
-30 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/31tSy2ip61KCByxrpoK5aI)
+30 songs - 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Epilogue \- Piano Version](https://open.spotify.com/track/2gzJgcYyx7pbaizAJRYy6q) | [YOSKE](https://open.spotify.com/artist/1R4kc8WcmmFEn7lFvPeJ5E), [Iver \(ALIVE KNOB\)](https://open.spotify.com/artist/3ITyFwK4gvAyxjd7KbgF68), [J2 \(ALIVE KNOB\)](https://open.spotify.com/artist/4e6QTwmX6eYDooCwfKyuac) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 5:18 | 2022-05-13 |  |
 | [Interlude : WHO IS THE QUEEN](https://open.spotify.com/track/66KdAaSfra9lfsMs5hfjxY) | [bcalm](https://open.spotify.com/artist/7dafLVKGkbjDGvL48rfrQM) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 2:28 | 2022-05-13 |  |
 | [JINAON \(Epilogue\)](https://open.spotify.com/track/1KIA6tiJdtOYci9isQ1eqR) | [QUEENDOM2](https://open.spotify.com/artist/0BUt4yEmWUGULfwOcu98aj) | [<Queendom2> JINAON \(Epilogue\)](https://open.spotify.com/album/7C6PZ4R61449d9NVmDKtpq) | 3:32 | 2022-06-08 |  |
-| [KA\-BOOM!](https://open.spotify.com/track/3lbXWGqf8Fqb9UWcrgexbK) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:59 | 2022-05-13 |  |
+| [KA\-BOOM!](https://open.spotify.com/track/3lbXWGqf8Fqb9UWcrgexbK) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:59 | 2022-05-13 |  |
 | [MVSK \- Remix](https://open.spotify.com/track/5Io9E7JUo707GXVPGC68j8) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 3:41 | 2022-05-13 |  |
 | [NAVILLERA](https://open.spotify.com/track/5zLCLAce7F5J2OfE4S8yAC) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:07 | 2022-05-13 |  |
 | [Pantomime](https://open.spotify.com/track/0mqHEMJdDzes00D9IToXPX) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:08 | 2022-05-22 |  |
@@ -27,16 +27,16 @@
 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 | 2022-05-13 |  |
 | [Red Sun \- Remix](https://open.spotify.com/track/7bxYAZcTh7QJ3KpV4vOjte) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> FANtastic QUEENDOM 1\-2](https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA) | 4:15 | 2022-05-26 |  |
 | [Red Sun!](https://open.spotify.com/track/5mxK8CuKCqxW7HlBjBtmRS) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 4:13 | 2022-05-27 |  |
-| [See Sea, BAE](https://open.spotify.com/track/1FaFCInUMdizjVUKkMZxro) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> FANtastic QUEENDOM 1\-2](https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA) | 3:27 | 2022-05-26 |  |
+| [See Sea, BAE](https://open.spotify.com/track/1FaFCInUMdizjVUKkMZxro) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> FANtastic QUEENDOM 1\-2](https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA) | 3:27 | 2022-05-26 |  |
 | [SHAKE IT](https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:14 | 2022-05-13 |  |
-| [So What](https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:03 | 2022-05-13 |  |
+| [So What](https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:03 | 2022-05-13 |  |
 | [Tell me now](https://open.spotify.com/track/2kIYgg1tOBTjs7XLZNwuSs) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:42 | 2022-05-13 |  |
 | [THE GIRLS \(Can’t turn me down\)](https://open.spotify.com/track/5bZ8iEjZ0iLq6Hr6GPWsUR) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:58 | 2022-05-27 |  |
 | [Time for the glory](https://open.spotify.com/track/0VCWeQuUFTz2MkivIbJVXo) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 4:21 | 2022-05-13 |  |
-| [Touch my body](https://open.spotify.com/track/33CmoSmppc5Xf65cf3Bv1X) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 3:34 | 2022-05-13 |  |
+| [Touch my body](https://open.spotify.com/track/33CmoSmppc5Xf65cf3Bv1X) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 3:34 | 2022-05-13 |  |
 | [UNNATURAL](https://open.spotify.com/track/4WPzzmGai2WYDwLFI86RAh) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:04 | 2022-05-13 |  |
 | [WA DA DA \- QUEENDOM2 Version](https://open.spotify.com/track/2LZKv4zsNVdwA52upjZMHq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 3:54 | 2022-05-13 |  |
-| [Waka Boom \(My Way\) \(feat\. Lee Young Ji\)](https://open.spotify.com/track/7ffdSBhoPgPcyVn2hNmiDz) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 4:33 | 2022-05-27 |  |
+| [Waka Boom \(My Way\) \(feat\. Lee Young Ji\)](https://open.spotify.com/track/7ffdSBhoPgPcyVn2hNmiDz) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 4:33 | 2022-05-27 |  |
 | [Whistle](https://open.spotify.com/track/7iKbV28gTF43LAeovwznXT) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:43 | 2022-05-27 |  |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 
-56 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/5f5nzHVSRoG5ROI8VWQOvj)
+56 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

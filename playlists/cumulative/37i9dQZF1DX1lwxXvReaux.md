@@ -4,7 +4,7 @@
 
 > Classic rock combined a guitar\-driven sound with a particular era\. This playlist delivers classic rock tracks for the entire workday.
 
-97 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/6T33hSZm66DXYIDzTltQGd)
+97 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

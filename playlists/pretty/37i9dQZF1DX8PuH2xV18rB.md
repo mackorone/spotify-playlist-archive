@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 
 > Enjoy M.Net's dance battle show Street Dance Girls Fighter's original & inserted songs\. \(댄스 배틀 프로그램 스트릿댄스 걸스 파이터의 발매곡과 삽입곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,576 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,794 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 | 13 | [Mirror Mirror](https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Changbin of Stray Kids](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [Mirror Mirror](https://open.spotify.com/album/3R5wfZr723i5qfyPCAuUnS) | 3:52 |
 | 14 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 15 | [So Pretty](https://open.spotify.com/track/4GsVz2lpHMdYQWo9OUGFdP) | [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [So Pretty](https://open.spotify.com/album/1r3RTa3c86HBb0cz1e9fRS) | 2:42 |
-| 16 | [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 |
+| 16 | [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 |
 | 17 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 |
 | 18 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
 | 19 | [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 | 26 | [ROCKET](https://open.spotify.com/track/0xhBYNgmGLJEyvfObiwAhq) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 3:11 |
 | 27 | [\#Twenty](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 2:54 |
 | 28 | [At ease](https://open.spotify.com/track/5JewgPuqclOSQ24QWH4czD) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:29 |
-| 29 | [Autobahn](https://open.spotify.com/track/3nZmmlE1Fm6FLGDExRimAi) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:17 |
+| 29 | [Autobahn](https://open.spotify.com/track/3nZmmlE1Fm6FLGDExRimAi) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:17 |
 | 30 | [ICONIC](https://open.spotify.com/track/5bMHrigI1EAmZdiyRzKoQi) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:11 |
 | 31 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 |
 | 32 | [I'm Sick](https://open.spotify.com/track/0aKB5gfdOJVImcUj6fV4xc) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [I'm Sick](https://open.spotify.com/album/3FPMeMYEqjNECafov4bIiF) | 2:53 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PuH2xV18rB.md) - [plain]
 | 36 | [Beethoven Virus](https://open.spotify.com/track/299X2r8Ei0ecTat3CdmdaA) | [Diana](https://open.spotify.com/artist/2Zmqdz7cF17LbLOz3Kwnqg) | [Beethoven Virus](https://open.spotify.com/album/2wAcELxSyvFr5qYCvb558O) | 3:39 |
 | 37 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
 
-Snapshot ID: `MTY0MjEzMzMwNiwwMDAwMDAwMDgwYWFiYjU1MWQ4ZWQxMmQ1YTk2MWMzOThkZGMyY2Iw`
+Snapshot ID: `MTY0MjEzMzMwNiwwMDAwMDAwMGJkZjMxMTNkZTAzZDkwMWQ1ODJhYjBmYzk2YmVhMTRi`

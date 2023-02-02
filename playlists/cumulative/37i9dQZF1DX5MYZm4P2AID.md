@@ -4,7 +4,7 @@
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-105 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
+107 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Itotiani](https://open.spotify.com/track/3tZ5EU9F0GoiHvaFo40fFt) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Chicano Batman](https://open.spotify.com/album/6tN9jametp8Y1xtraYzYNe) | 8:05 | 2021-10-26 |  |
 | [John B Sail \(The Wreck of the John B\)](https://open.spotify.com/track/2zGdoeMBdeWlQeINKvHWdF) | [The Royal Victoria Hotel Calypsos](https://open.spotify.com/artist/2lbAmEkwTeWMeHBfPIS1Xp), [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 2:56 | 2021-10-26 |  |
 | [Johny Says Stay Cool](https://open.spotify.com/track/7Izuq0yphsRPfcXGFWWJiy) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow \(AUS\)](https://open.spotify.com/album/4SJjaJoFzSLiRY34F5hl2t) | 2:36 | 2021-10-26 | 2022-07-29 |
-| [Johny Says Stay Cool](https://open.spotify.com/track/2EOIrxpEkRXfwnvxk54Up0) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2) | 2:36 | 2021-10-26 |  |
+| [Johny Says Stay Cool](https://open.spotify.com/track/2EOIrxpEkRXfwnvxk54Up0) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2) | 2:36 | 2021-10-26 | 2022-12-01 |
+| [Johny Says Stay Cool](https://open.spotify.com/track/6wPXCLMgpEZIt7TNTURGKe) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL) | 2:36 | 2021-10-26 |  |
 | [King of a One Horse Town](https://open.spotify.com/track/4QF8w44G6fU4VNxQJK1OJn) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:46 | 2021-10-26 |  |
 | [Lake Song](https://open.spotify.com/track/3jlyPvK2T1UYigUIaR3u7K) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/7sM244G1DwSq9Cqvv59xxz) | 3:25 | 2021-10-26 |  |
 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 | 2021-10-26 |  |
@@ -66,7 +67,8 @@
 | [Maria También](https://open.spotify.com/track/66MpvsWO5O7gy9LjXGFw6I) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/42j41uUwuHZT3bnedq2XtM) | 3:10 | 2021-10-26 | 2022-07-29 |
 | [Megaton Mile](https://open.spotify.com/track/6BwR8E925bOoGHFPS5tEOE) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:26 | 2021-10-26 |  |
 | [Montezuma](https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 3:36 | 2021-10-26 |  |
-| [Morning Song](https://open.spotify.com/track/02BHrZuoTz32hlaXRbbvge) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:24 | 2021-10-26 |  |
+| [Morning Song](https://open.spotify.com/track/01WQr2XhNnZMu4bjkgLN5s) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:24 | 2021-10-26 |  |
+| [Morning Song](https://open.spotify.com/track/02BHrZuoTz32hlaXRbbvge) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:24 | 2021-10-26 | 2022-12-01 |
 | [Move over, I'll Drive](https://open.spotify.com/track/4KwrA7IeaqTu4FKC7JBUx9) | [Black River Assembly](https://open.spotify.com/artist/3tHuD8jeAX2vlwluLKWxlg) | [Marsh Land EP](https://open.spotify.com/album/3sHRFNWrczJOdTiwVk26Qx) | 2:51 | 2021-10-26 |  |
 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 | 2021-10-26 |  |
 | [My God Has A Telephone](https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [My God Has a Telephone](https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk) | 2:55 | 2021-10-26 |  |

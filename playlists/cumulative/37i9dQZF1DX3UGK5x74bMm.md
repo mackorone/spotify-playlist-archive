@@ -4,7 +4,7 @@
 
 > Music produced by Kanye West and their original soul samples inspired by jeen\-yuhs: A Kanye Trilogy.
 
-21 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/4yomjvqyhmgIYGEQzmoHld)
+21 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

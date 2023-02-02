@@ -4,7 +4,7 @@
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-115 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/4DkdDOCbJszfCHw9VWkIi5)
+115 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

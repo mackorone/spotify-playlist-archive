@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,722 likes - 57 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,872 likes - 57 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 46 | [Home](https://open.spotify.com/track/3OOW0UYCJ4cBJ3Tm0vsWzx) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Promise](https://open.spotify.com/album/0oXfn8vzQ1yicX2dBkLgf4) | 5:37 |
 | 47 | [Bumblin' Creed](https://open.spotify.com/track/1NT4NQQgQmnqyI4ur5W4qf) | [Padang Food Tigers & Sigbjørn Apeland](https://open.spotify.com/artist/0vXLxVov9wThTze1YI6rIU) | [Bumblin' Creed](https://open.spotify.com/album/5xqGo1QHYYGAYHVsRBqyFp) | 3:04 |
 | 48 | [Horns](https://open.spotify.com/track/3bEKkgqk0Kf2PNlF7hHPxP) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Valley Of The Sun](https://open.spotify.com/album/3dPcgvFJbBLvB0WZkvEEiN) | 5:00 |
-| 49 | [Estancia](https://open.spotify.com/track/56wSQCknk5Fp0gOt9EaT2e) | [Bill Elm & Woody Jackson](https://open.spotify.com/artist/4bvAYuLthEXwoUpNhCc15S) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/22H5XKyHXkxHbty4jtBibg) | 2:02 |
+| 49 | [Estancia](https://open.spotify.com/track/6JSZq2FkHOZGZ5hV85fBa2) | [Bill Elm](https://open.spotify.com/artist/2TWP5hw802RnTGqBo0GhaW), [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX) | [Red Dead Redemption Original Soundtrack](https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK) | 2:02 |
 | 50 | [Flower Turned Inside\-Out](https://open.spotify.com/track/25ISO5GDUQU94hqhjFFQIS) | [Glenn Jones](https://open.spotify.com/artist/7HY8lCkyEUSL5jfENlkshV) | [Fleeting](https://open.spotify.com/album/1nJRtI9d5gAd3HZjN2IXLA) | 4:20 |
 | 51 | [Country of Illusion](https://open.spotify.com/track/0ZggavuoEzQ2P9iRua8UVv) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Impossible Truth](https://open.spotify.com/album/6bFIXguELPw4vEjL1Kh6uz) | 8:55 |
 | 52 | [The Forgotten Edge](https://open.spotify.com/track/6bcrgRF256yQ4gYd3dZXJN) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [The Forgotten Edge](https://open.spotify.com/album/5lcXZjNubYS7GEJOxRn9Xo) | 2:18 |
 | 53 | [Soft Night](https://open.spotify.com/track/0aFGdSW8JVpayHajgBDQfC) | [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ) | [CARM](https://open.spotify.com/album/4HRxwMgEEOYGe0YO3JkGGG) | 3:59 |
 | 54 | [Cowgirl](https://open.spotify.com/track/65jc3aumDKlwvxAfwTXBv6) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Assassination of Jesse James By the Coward Robert Ford](https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs) | 4:05 |
 | 55 | [He is Without His Guns](https://open.spotify.com/track/1ZkNI3JpzfQ5LMV33zH7Jg) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Into the Light](https://open.spotify.com/album/6PKMSpHdDkaay6WTBUzxz0) | 3:24 |
-| 56 | [Afar](https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Serpent \(In Quicksilver\)](https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl) | 2:34 |
+| 56 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 57 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 
-Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMDAzMWRmNWY5NWE5YzA2NDYzNjIxN2IwNWFmYzI3YTc3`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGVmMWU5OWM3ZTRkZmMzNmU1ZGQ2M2Q0OGE3MjIwZjlk`

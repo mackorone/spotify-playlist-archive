@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7ahoEOUbXDm3vYTvOHWXbe">Kathy Griffin</a> joins us to \#PressPlayForPride\. Discover more at <a href="https://open.spotify.com/genre/pride">spotify.com/pride.</a>
 
-32 songs - 1 hr 52 min - [published](https://open.spotify.com/playlist/06pXHEatbTWVilv8aFhK1X)
+32 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-169 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/2ARx9LN0yDEgMqgS0RHhmt)
+169 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

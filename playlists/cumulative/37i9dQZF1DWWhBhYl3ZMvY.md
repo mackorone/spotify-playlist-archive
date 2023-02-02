@@ -4,13 +4,15 @@
 
 > Catch all the essential tracks by the multitalented Rihanna.
 
-117 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/1FhaMr2Pgn8AjxAXXkmuVC)
+119 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [American Oxygen](https://open.spotify.com/track/0bHA8LApeZHv7ZlhVUWg8X) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [American Oxygen](https://open.spotify.com/album/2IyX9LGBbewZDfNZ5Cjn4G) | 5:20 | 2022-05-30 |  |
 | [American Oxygen](https://open.spotify.com/track/539HpTjkmnhbPn3p7mjByN) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [American Oxygen](https://open.spotify.com/album/1jzR3xpKcncJ1GBBucctXP) | 5:20 | 2021-04-23 | 2022-07-29 |
-| [BELIEVE IT](https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:03 | 2021-04-23 |  |
+| [BELIEVE IT](https://open.spotify.com/track/118aglbgrsb8w0cRsynoMq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [At My Worst \- Chilled Pop](https://open.spotify.com/album/5LeKEWV2BkMFRjnIjSXHdJ) | 3:03 | 2022-08-17 | 2023-01-03 |
+| [BELIEVE IT](https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:03 | 2021-04-23 | 2023-01-01 |
+| [BELIEVE IT](https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:03 | 2022-08-17 |  |
 | [Birthday Cake](https://open.spotify.com/track/4EfN6bixdOOgoLYR5C4cWo) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 1:18 | 2022-05-30 |  |
 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 | 2022-05-30 |  |
 | [Bitch Better Have My Money](https://open.spotify.com/track/5lnsCyEKWofnC00U4Ax0ti) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/0L6tzOdcRwb82xMBZ3WZyi) | 3:39 | 2021-04-23 | 2022-07-29 |
@@ -88,7 +90,7 @@
 | [SOS](https://open.spotify.com/track/4S5b3wwIXpVNvY2jeIQdKu) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/1F0HfWg9fdLDdeIfh9CnjU) | 3:58 | 2021-04-23 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 | 2021-04-23 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/4qaEPJ1S3GkITZRzuNgiwQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe Version\)](https://open.spotify.com/album/7yjQZX94GxVyqDTehxBejk) | 4:00 | 2022-08-17 | 2022-11-14 |
-| [Stay \- Album Version \(Edited\)](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2022-05-30 |  |
+| [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 | 2022-05-30 |  |
 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 | 2022-05-30 |  |
 | [Take A Bow](https://open.spotify.com/track/3mmjD9G2HUUzDbFl3NRDLM) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs) | 3:49 | 2021-04-23 | 2022-07-29 |
 | [Take A Bow](https://open.spotify.com/track/3pa5zcTEXmRpdzFwOueOOQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [夏日嗨歌](https://open.spotify.com/album/5Wuq3XeKL2Atb2x4OL5Z0N) | 3:49 | 2022-08-17 | 2022-11-13 |

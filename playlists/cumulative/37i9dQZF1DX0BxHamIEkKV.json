@@ -2,9 +2,79 @@
   "date_first_scraped": "2021-12-28",
   "description": "Smart, engaging podcasts that go beyond the headlines.",
   "name": "Stay in the Know",
-  "published_playlist_ids": [
-    "3SyaXUu0snThioxWIpYnzw"
+  "tracks": [
+    {
+      "album": {
+        "name": "WSJ What\u2019s News",
+        "url": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu"
+      },
+      "artists": [
+        {
+          "name": "WSJ What\u2019s News",
+          "url": "https://open.spotify.com/show/59176gU8vcFho6Sc1dm3Lu"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 898220,
+      "name": "2020 Year in Review: A Year of Racial Reckoning",
+      "url": "https://open.spotify.com/episode/3Hn83wcbfpFKpP7pVOo9FE"
+    },
+    {
+      "album": {
+        "name": "Consider This from NPR",
+        "url": "https://open.spotify.com/show/3Z6JdCS2d0eFEpXHKI6WqH"
+      },
+      "artists": [
+        {
+          "name": "Consider This from NPR",
+          "url": "https://open.spotify.com/show/3Z6JdCS2d0eFEpXHKI6WqH"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 746527,
+      "name": "The Long Awaited Brexit Deal Is Finally Here",
+      "url": "https://open.spotify.com/episode/3p0RTlOIDoFKYL7FXahnbA"
+    },
+    {
+      "album": {
+        "name": "Can He Do That?",
+        "url": "https://open.spotify.com/show/7d3VDv4ekyUrfTaIB4hbqW"
+      },
+      "artists": [
+        {
+          "name": "Can He Do That?",
+          "url": "https://open.spotify.com/show/7d3VDv4ekyUrfTaIB4hbqW"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1650573,
+      "name": "Trump and the economy: The administration\u2019s biggest victories also exacerbated our divides",
+      "url": "https://open.spotify.com/episode/27cbthZCG4dLzdj0aKydMo"
+    },
+    {
+      "album": {
+        "name": "Post Reports",
+        "url": "https://open.spotify.com/show/4c2PEjWLJ5vGUu2kjRR808"
+      },
+      "artists": [
+        {
+          "name": "Post Reports",
+          "url": "https://open.spotify.com/show/4c2PEjWLJ5vGUu2kjRR808"
+        }
+      ],
+      "date_added": "2021-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1242096,
+      "name": "Two Americas collide",
+      "url": "https://open.spotify.com/episode/1idsbT8zcNTi1HdKzjJ4Y2"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0BxHamIEkKV"
 }

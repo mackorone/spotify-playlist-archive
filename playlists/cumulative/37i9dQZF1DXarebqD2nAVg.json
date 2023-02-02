@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Raw, sentimental feels.",
   "name": "Tender",
-  "published_playlist_ids": [
-    "4EXf5AMaeP3Fe932ZLNuWq"
-  ],
   "tracks": [
     {
       "album": {
@@ -501,7 +498,7 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 132968,
       "name": "harbor",
       "url": "https://open.spotify.com/track/6rdaAm9JfVbwQUy6PVqNzv"
@@ -519,7 +516,7 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 133027,
       "name": "harbor",
       "url": "https://open.spotify.com/track/6pn1Irt9QHN3F0MSODlItV"
@@ -580,8 +577,44 @@
     },
     {
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/0rBXcXoqmNB230XbjwbxG3"
+      },
+      "artists": [
+        {
+          "name": "ixxy",
+          "url": "https://open.spotify.com/artist/6UkBTmDCB8Z472HbktpJS1"
+        }
+      ],
+      "date_added": "2019-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 118361,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4oRtFezcZWGXjzO7VQXNuU"
+    },
+    {
+      "album": {
         "name": "i'm closing my eyes",
         "url": "https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "date_added": "2019-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 118302,
+      "name": "i'm closing my eyes",
+      "url": "https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq"
+    },
+    {
+      "album": {
+        "name": "i'm closing my eyes",
+        "url": "https://open.spotify.com/album/6TLxzFdTfULlPxHgFcIV0w"
       },
       "artists": [
         {
@@ -594,7 +627,7 @@
       "date_removed": null,
       "duration_ms": 118302,
       "name": "i'm closing my eyes",
-      "url": "https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq"
+      "url": "https://open.spotify.com/track/4DZNBRBogcfKTTaTyi4V01"
     },
     {
       "album": {
@@ -609,7 +642,7 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-20",
       "duration_ms": 118302,
       "name": "im closing my eyes (feat. shiloh)",
       "url": "https://open.spotify.com/track/3RO8tQsiLI0cJFcWGTUZKk"
@@ -653,24 +686,6 @@
     {
       "album": {
         "name": "Over Skies",
-        "url": "https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ"
-      },
-      "artists": [
-        {
-          "name": "quickly",
-          "url": "https://open.spotify.com/artist/12E1nswgTW7QPMYWs0oXrE"
-        }
-      ],
-      "date_added": "2019-03-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247320,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb"
-    },
-    {
-      "album": {
-        "name": "Over Skies",
         "url": "https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP"
       },
       "artists": [
@@ -685,6 +700,24 @@
       "duration_ms": 247320,
       "name": "Lie",
       "url": "https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4"
+    },
+    {
+      "album": {
+        "name": "Over Skies",
+        "url": "https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "date_added": "2019-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247320,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb"
     },
     {
       "album": {

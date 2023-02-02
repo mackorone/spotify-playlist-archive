@@ -4,7 +4,7 @@
 
 > An essential collection of songs from the <a href="spotify:artist:2H5elA2mJKrHmqkN9GSfkz">folk icon</a>.
 
-59 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/3HbqH6VUV09tsrxJdUmhmH)
+59 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

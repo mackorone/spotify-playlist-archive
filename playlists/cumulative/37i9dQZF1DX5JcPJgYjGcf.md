@@ -4,7 +4,7 @@
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-132 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/04BvKrq9MQVW5NqhblFRE4)
+132 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

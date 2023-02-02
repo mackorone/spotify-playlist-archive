@@ -4,7 +4,7 @@
 
 > Höj volymen och happy EuroPride 2018!
 
-73 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/0VHvJFJuQ0N6ErCpLQ9e4n)
+73 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

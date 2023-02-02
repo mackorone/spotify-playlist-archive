@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5DYisaOw29.md) - [plain]
 
 > DJ Minx co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Motor City has to offer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046 likes - 36 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 36 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Parallel Shifting](https://open.spotify.com/track/2ixO74rwcwtYBywwU0lFCH) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox), [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [Parallel Shifting](https://open.spotify.com/album/35YikyE0kgjEmbsUuhxtzn) | 8:42 |
+| 1 | [Parallel Shifting](https://open.spotify.com/track/2ixO74rwcwtYBywwU0lFCH) | [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox) | [Parallel Shifting](https://open.spotify.com/album/35YikyE0kgjEmbsUuhxtzn) | 8:42 |
 | 2 | [Astro Funk](https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Astro Funk](https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF) | 3:15 |
 | 3 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 |
 | 4 | [Aquatics](https://open.spotify.com/track/3SxnrhPfN3zl8m9YZFHS72) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Hot Steel](https://open.spotify.com/album/4KhJa26GVEAmlIKrYaQZjd) | 7:04 |

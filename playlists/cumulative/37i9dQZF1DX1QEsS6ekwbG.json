@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-10",
   "description": "La mejor compa\u00f1\u00eda mientras llueve.",
   "name": "Lluvia y Pop",
-  "published_playlist_ids": [
-    "3LAT7fgBI9wboBNVEnAWEK"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 178266,
       "name": "11 Y 6",
       "url": "https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA"
@@ -315,7 +312,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 306986,
       "name": "Coleccionista de Canciones",
       "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
@@ -1033,7 +1030,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": "2023-01-16",
       "duration_ms": 172309,
       "name": "Mi Razon De Ser",
       "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
@@ -1087,7 +1084,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 211906,
       "name": "Moscas en la Casa",
       "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
@@ -1337,6 +1334,28 @@
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+    },
+    {
+      "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "album": {

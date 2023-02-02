@@ -4,7 +4,7 @@
 
 > 100+ of the happiest songs of all time\. Come on, Get Happy!
 
-105 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/2czYfooQOw5pkN5XDlDCvu)
+105 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

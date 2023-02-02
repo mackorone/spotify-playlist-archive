@@ -4,7 +4,7 @@
 
 > Listen & repeat..\. with over 8 hours of Portuguese instruction!
 
-53 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/1GcRyzcXCCtOyYenZOtlJg)
+53 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

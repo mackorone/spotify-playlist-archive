@@ -4,7 +4,7 @@
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-104 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/2YOkhgiX4mtX981PcVEeLB)
+104 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Dream Police](https://open.spotify.com/track/1YiAY1oCmkFjUabQL9gos4) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Dream Police](https://open.spotify.com/album/66sGbldg4VPdY70IcPdxtE) | 3:53 | 2021-12-16 | 2022-07-15 |
 | [Ever Fallen In Love With Someone \(You Shouldn't Have Fallen In Love With\)](https://open.spotify.com/track/7IDkNUudFjemSrQKfYHVfQ) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Driving You Insane](https://open.spotify.com/album/0ET9XafTL8sU2m9wYwckRE) | 3:04 | 2021-12-16 | 2022-07-27 |
 | [Everyday Is Like Sunday \- 2011 Remaster](https://open.spotify.com/track/0lVdukU9ejbFQwZIhg47hx) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:35 | 2021-12-16 | 2022-07-29 |
-| [Girlfriend](https://open.spotify.com/track/338gPBomyqx33wfeF1AGOd) | [Matthew Sweet](https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw) | [Girlfriend \(Legacy Edition\)](https://open.spotify.com/album/0SZjTgnyODlELJWopuCt8w) | 3:40 | 2021-12-16 | 2022-07-28 |
+| [Girlfriend](https://open.spotify.com/track/338gPBomyqx33wfeF1AGOd) | [Matthew Sweet](https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw) | [Girlfriend \(Legacy Edition\)](https://open.spotify.com/album/0SZjTgnyODlELJWopuCt8w) | 3:40 | 2021-12-16 |  |
 | [Go All The Way](https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Raspberries](https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv) | 3:25 | 2021-12-16 |  |
 | [Going Underground](https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Setting Sons \(Super Deluxe\)](https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo) | 2:54 | 2021-12-16 |  |
 | [Good Girls Don't](https://open.spotify.com/track/426i8hiYTwwlImNaluBb9C) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 3:09 | 2021-12-16 | 2022-06-30 |
@@ -69,7 +69,7 @@
 | [New Mistake](https://open.spotify.com/track/7a7y3aPXd5STF9BvCG6slI) | [Jellyfish](https://open.spotify.com/artist/10flBVEy5MiUXOJWTaFsyL) | [Spilt Milk](https://open.spotify.com/album/2xWIi4fDWJZT2Mw3ydTIO7) | 4:02 | 2021-12-16 | 2022-07-29 |
 | [No Matter What](https://open.spotify.com/track/0139jdnQYneN6R0LsbV1Dc) | [Badfinger](https://open.spotify.com/artist/4pJCawaKSZ40EnxN0YEYw3) | [No Matter What You Are](https://open.spotify.com/album/4cRdpAyhGpFJ3O7dkS5AQk) | 3:03 | 2021-12-16 | 2022-07-13 |
 | [No Myth](https://open.spotify.com/track/3mlnJWidDh0ASIJYNXDWxH) | [Michael Penn](https://open.spotify.com/artist/4GcBbZ5wVhNABLzm4MpJqG) | [March](https://open.spotify.com/album/3lqEMgImTV9K2ZQYl6JFhO) | 4:09 | 2021-12-16 | 2022-07-27 |
-| [Not If You Were The Last Junkie On Earth](https://open.spotify.com/track/3M7bAbqHp8mfI3DsYADdcS) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [The Dandy Warhols Come Down](https://open.spotify.com/album/1cYRtXjzkEueYaYTU8R2EX) | 3:11 | 2021-12-16 | 2022-11-06 |
+| [Not If You Were The Last Junkie On Earth](https://open.spotify.com/track/3M7bAbqHp8mfI3DsYADdcS) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [The Dandy Warhols Come Down](https://open.spotify.com/album/1cYRtXjzkEueYaYTU8R2EX) | 3:11 | 2021-12-16 | 2023-01-17 |
 | [Oblivious](https://open.spotify.com/track/1YOoJsPbK0oAmF2wnnkqx2) | [Aztec Camera](https://open.spotify.com/artist/7sbwBqdkynNUDgiWU3TQ5J) | [High Land, Hard Rain](https://open.spotify.com/album/3ec3kHDBkBtRFGM7QDmo1t) | 3:12 | 2021-12-16 | 2022-07-27 |
 | [Oliver's Army](https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Remastered 2020\)](https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu) | 3:00 | 2021-12-16 |  |
 | [One Way Or Another](https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:28 | 2021-12-16 | 2022-11-04 |
@@ -106,7 +106,7 @@
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2021-12-16 |  |
 | [Vanishing Girl \- 2001 Mix](https://open.spotify.com/track/2y4B2qgihN59rMsJKKbdP2) | [The Dukes Of Stratosphear](https://open.spotify.com/artist/1ilhXoWIlGxz3fM4B24mNo) | [Chips From The Chocolate Fireball](https://open.spotify.com/album/46ZRujqytRXcbgloCKA9Q7) | 2:59 | 2021-12-16 | 2022-07-29 |
 | [Veronica](https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Spike](https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr) | 3:09 | 2021-12-16 | 2022-07-29 |
-| [Walls Come Tumbling Down](https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Our Favourite Shop](https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa) | 3:24 | 2021-12-16 |  |
+| [Walls Come Tumbling Down](https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Our Favourite Shop](https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa) | 3:24 | 2021-12-16 | 2023-01-19 |
 | [Watching The Detectives](https://open.spotify.com/track/1r453bo3yToA356T5H0LoP) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/3d3I3Ppu529si8Oja9DB3A) | 3:46 | 2021-12-16 | 2022-07-29 |
 | [We Got The Beat](https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:33 | 2021-12-16 |  |
 | [What I Like About You](https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [What I Like About You \(And Other Romantic Hits\)](https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B) | 2:55 | 2021-12-16 |  |

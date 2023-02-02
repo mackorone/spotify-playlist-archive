@@ -4,7 +4,7 @@
 
 > The <a href="spotify:artist:066X20Nz7iquqkkCW6Jxy6">band</a>'s greatest hits, including selections from their latest album, american dream.
 
-23 songs - 2 hr 30 min - [published](https://open.spotify.com/playlist/2MsRk2inMVbfoo6kwfoO15)
+23 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

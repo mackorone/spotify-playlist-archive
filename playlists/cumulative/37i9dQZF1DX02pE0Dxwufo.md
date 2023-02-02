@@ -4,7 +4,7 @@
 
 > Take a Louisville slugger to both headlights.
 
-46 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/6V1kO6Kj9Uv5KcZt8rXg2x)
+47 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Best Days of Your Life](https://open.spotify.com/track/27BMLvWD1TYdosiReVgbAt) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [Kellie Pickler](https://open.spotify.com/album/1PaWZcwVckRVsEGwhGxEEG) | 3:46 | 2022-08-12 |  |
 | [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 | 2022-09-30 |  |
 | [Better Than Revenge](https://open.spotify.com/track/2ythurkTtSiyfK7GprJoFW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 3:37 | 2022-08-12 |  |
-| [Bra Off](https://open.spotify.com/track/1LbvsGPC9exj6A3Q0OEEMP) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Baytown](https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX) | 2:46 | 2022-09-30 |  |
+| [Bra Off](https://open.spotify.com/track/1LbvsGPC9exj6A3Q0OEEMP) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Baytown](https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX) | 2:46 | 2022-09-30 | 2023-01-06 |
 | [Bra Off](https://open.spotify.com/track/2nNaVLkmN8RYXNQiQb4ajI) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Bra Off](https://open.spotify.com/album/2giqQgvz8sq6SYpofqvh3o) | 2:46 | 2022-08-12 | 2022-10-13 |
 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 | 2022-08-12 |  |
 | [Chainsaw](https://open.spotify.com/track/6BstspHAG1DuMebrQJWPJY) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:47 | 2022-08-12 |  |
@@ -28,7 +28,7 @@
 | [Girl Next Door](https://open.spotify.com/track/2dGPKVLHYw6aolHDoZzdTb) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Big Day in a Small Town](https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl) | 4:31 | 2022-08-12 |  |
 | [Goodbye Earl](https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:18 | 2022-08-12 |  |
 | [Gunpowder & Lead](https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:11 | 2022-08-12 |  |
-| [Hate Me](https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hate Me](https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX) | 2:52 | 2022-09-02 |  |
+| [Hate Me](https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hate Me](https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX) | 2:52 | 2022-09-02 | 2023-01-06 |
 | [Hell on Heels](https://open.spotify.com/track/0sgnJ5LFjEy2IuQ99NEZ1C) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Hell On Heels](https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc) | 3:14 | 2022-08-12 |  |
 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 | 2022-08-12 |  |
 | [I Bet You Think About Me \(feat\. Chris Stapleton\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:45 | 2022-08-12 | 2022-10-01 |
@@ -47,6 +47,7 @@
 | [Spring Cleaning](https://open.spotify.com/track/5k4wuPtknk9Eea6Lc8zq85) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Spring Cleaning](https://open.spotify.com/album/6PlNsNribLuTRMqzsD2l7h) | 2:32 | 2022-08-19 |  |
 | [Stripes](https://open.spotify.com/track/0MJ49ZXdzIb7yw6WjwpSf5) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [12 Stories](https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz) | 3:16 | 2022-08-12 |  |
 | [The Otherside](https://open.spotify.com/track/2UtfhpTxMrAfyCoiRyZIVi) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 | 2022-08-12 |  |
+| [Tulsa](https://open.spotify.com/track/6mGv9INV7tnfldu5hFv0eH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Tulsa](https://open.spotify.com/album/3v6zVsK3CAPEtIi3GHHMUN) | 2:42 | 2023-01-06 |  |
 | [Two Black Cadillacs](https://open.spotify.com/track/5mFYtqhN4T2D9IPSaZnVDw) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:57 | 2022-08-12 |  |
 | [Undo It](https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 2:57 | 2022-08-12 |  |
 | [White Liar](https://open.spotify.com/track/08NPIspzvBNj88lHalgA4V) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 4:47 | 2022-08-12 |  |

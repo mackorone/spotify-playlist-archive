@@ -4,7 +4,7 @@
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-105 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/2i2f84b6aFCm4d39FIhHSI)
+106 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Die Geschichte Einer Mutter](https://open.spotify.com/track/7KPPysjHZEvFDJSPTd1MKs) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 6:53 | 2021-10-01 | 2022-05-25 |
 | [Dive](https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:25 | 2021-10-01 |  |
 | [Dive](https://open.spotify.com/track/0v8UvAhruTvkA90MR7039n) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 4:25 | 2021-10-01 | 2022-07-29 |
-| [Echo's Answer](https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv) | 3:12 | 2021-10-01 |  |
+| [Echo's Answer](https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv) | 3:12 | 2021-10-01 | 2023-02-02 |
 | [Echo's Answer](https://open.spotify.com/track/5bDGHpp82k7X6U2mRSae0E) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Maida Vale Sessions](https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx) | 4:48 | 2022-03-18 | 2022-08-09 |
 | [Everlastingly Yours](https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 4:29 | 2021-10-01 | 2022-07-29 |
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2021-10-01 |  |
@@ -63,9 +63,9 @@
 | [Majorette](https://open.spotify.com/track/73guNXAOFu7XB6Sby4ahCp) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Thank Your Lucky Stars](https://open.spotify.com/album/7zPfNw88t2Xv2nVXWKqQls) | 4:00 | 2022-01-11 | 2022-07-29 |
 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 | 2021-10-01 | 2022-11-13 |
 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 | 2021-10-01 |  |
-| [Nearer Than Heaven](https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:28 | 2021-10-01 | 2022-11-25 |
+| [Nearer Than Heaven](https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:28 | 2021-10-01 |  |
 | [No\-One in the World](https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 6:41 | 2021-10-01 |  |
-| [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 | 2021-10-01 | 2022-11-14 |
+| [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 | 2021-10-01 |  |
 | [Nothing Natural](https://open.spotify.com/track/6zrL6etENCa2ZEwnPcxGkb) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/4sy5PYpO6j5BgLajSMGcZD) | 5:54 | 2021-10-01 | 2022-07-29 |
 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 | 2021-10-01 |  |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2021-10-01 |  |
@@ -99,7 +99,7 @@
 | [Tal Uno](https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2) | 4:27 | 2021-10-01 |  |
 | [Tal Uno](https://open.spotify.com/track/7eXDhsMpOFdsJWauZgq9qv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/2JzXJknJh0hzHPbh8KAQ2r) | 4:27 | 2021-10-01 | 2022-07-17 |
 | [The Book Lovers](https://open.spotify.com/track/2lkX0DmHuMxfspxVTLMxdy) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Maida Vale Sessions](https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx) | 3:05 | 2022-03-18 | 2022-07-26 |
-| [The Book Lovers](https://open.spotify.com/track/4O76joQmZKoZm78s0vOHTJ) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/7kqQeOzeLJxSlQEQXyIkqH) | 4:49 | 2021-10-01 |  |
+| [The Book Lovers](https://open.spotify.com/track/4O76joQmZKoZm78s0vOHTJ) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/7kqQeOzeLJxSlQEQXyIkqH) | 4:49 | 2021-10-01 | 2023-02-02 |
 | [The Spiral Arm \(Edit\)](https://open.spotify.com/track/2xC7k5bQpiveeTlUSscstA) | [Dallas Acid](https://open.spotify.com/artist/1xAG4AeOmO97QdYhoW01EA) | [The Spiral Arm \(Edit\)](https://open.spotify.com/album/2btvxLqexGKMoCiL6BylqK) | 5:18 | 2021-10-01 | 2022-07-28 |
 | [The World Backwards](https://open.spotify.com/track/3KGOHUtSdDMUQ9v7V4DmW1) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/7kqQeOzeLJxSlQEQXyIkqH) | 4:00 | 2021-10-01 | 2022-07-29 |
 | [Thoughtforms \- 2nd Version](https://open.spotify.com/track/7ARIbfiiJA4nyuXyXsGxJL) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/11hFygy8xLDCeECJEDnNEK) | 2:47 | 2021-10-01 | 2022-07-25 |
@@ -107,9 +107,10 @@
 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 | 2022-02-18 |  |
 | [Transparent Radiation \- Single Version](https://open.spotify.com/track/3doCN5B3fuqeJ06AY6Cbxx) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Forged Prescriptions \(Remastered\)](https://open.spotify.com/album/5o99dlCEEIKu7fihvSgvVs) | 4:12 | 2021-10-01 | 2022-07-29 |
 | [Valentine](https://open.spotify.com/track/0oPezGTOPITKdmLN4Z77v3) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [You See Colours](https://open.spotify.com/album/59IUhrmTXNj8c6TQzp2tdz) | 4:52 | 2021-10-01 | 2022-06-19 |
-| [Wanderlust](https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:58 | 2021-10-01 |  |
+| [Wanderlust](https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:58 | 2021-10-01 | 2022-12-02 |
 | [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 | 2021-10-01 | 2022-11-12 |
 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 | 2021-10-01 |  |
+| [When Will You Come Home](https://open.spotify.com/track/2m4pMnVi3e9HuSwSci6dg8) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 5:23 | 2022-08-09 |  |
 | [World Backwards](https://open.spotify.com/track/7MKm8T2T3QGysN51EeqEVl) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Maida Vale Sessions](https://open.spotify.com/album/3SIC8gQNPxgqjax8o204Nx) | 3:18 | 2022-03-18 | 2022-06-26 |
 | [Yam Yam](https://open.spotify.com/track/7kyiHjkFdmHcYcIJtFAdaF) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/33dtgSEkkObUGGyNz2MgkH) | 3:36 | 2021-10-01 |  |
 | [You And Your Sister \- Remastered](https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [Blood \(Remastered\)](https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9) | 3:14 | 2021-10-01 |  |

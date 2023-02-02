@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-07-17",
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "name": "The Nordic Notes",
-  "published_playlist_ids": [
-    "3n7iIXRDUs5P3QBIyqeQID"
-  ],
+  "name": "Nordic Jazz",
   "tracks": [
     {
       "album": {
@@ -307,7 +304,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": "2023-01-21",
       "duration_ms": 388800,
       "name": "Blodspredikan",
       "url": "https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP"
@@ -488,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
+      },
+      "artists": [
+        {
+          "name": "Mette Henriette",
+          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71160,
+      "name": "Divining",
+      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
+    },
+    {
+      "album": {
         "name": "Tantum",
         "url": "https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u"
       },
@@ -569,7 +584,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 263047,
       "name": "Evening Song for B",
       "url": "https://open.spotify.com/track/19BhmK2rIrBOipvfxct6Cc"
@@ -914,6 +929,24 @@
     },
     {
       "album": {
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
+    },
+    {
+      "album": {
         "name": "Krystall Revisited",
         "url": "https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde"
       },
@@ -1023,7 +1056,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": "2023-02-02",
       "duration_ms": 246506,
       "name": "Lena",
       "url": "https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX"
@@ -1233,7 +1266,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 296133,
       "name": "Mutatio",
       "url": "https://open.spotify.com/track/4oCM3JquuXQZhMJzx5O5Jd"
@@ -1371,28 +1404,6 @@
       "duration_ms": 362680,
       "name": "Paa Hinside \u00d8rken",
       "url": "https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5"
-    },
-    {
-      "album": {
-        "name": "Pa\u030a gjensyn",
-        "url": "https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        },
-        {
-          "name": "Jonas Kilmork Vem\u00f8y",
-          "url": "https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7"
-        }
-      ],
-      "date_added": "2022-06-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 367280,
-      "name": "Pa\u030a gjensyn",
-      "url": "https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF"
     },
     {
       "album": {
@@ -1555,6 +1566,28 @@
       "duration_ms": 267358,
       "name": "Popkoral",
       "url": "https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP"
+    },
+    {
+      "album": {
+        "name": "P\u00e5 gjensyn",
+        "url": "https://open.spotify.com/album/3apCEklyPqvaDBKHSQ0B2W"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        },
+        {
+          "name": "Jonas Kilmork Vem\u00f8y",
+          "url": "https://open.spotify.com/artist/2V4iZGTDOkqbimRsSwIRe7"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367280,
+      "name": "P\u00e5 gjensyn",
+      "url": "https://open.spotify.com/track/3iix1vmZ38BObrSRUTUNbF"
     },
     {
       "album": {
@@ -1757,7 +1790,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": "2023-01-24",
       "duration_ms": 459000,
       "name": "Sacred Rituals",
       "url": "https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel"
@@ -1831,7 +1864,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 449893,
       "name": "Seaweed",
       "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
@@ -2351,7 +2384,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 344040,
       "name": "Treet Og Veien",
       "url": "https://open.spotify.com/track/1eCJf38Cy49DsaRgvkyu1y"
@@ -2585,6 +2618,32 @@
       "duration_ms": 307356,
       "name": "Winx",
       "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
+    },
+    {
+      "album": {
+        "name": "Woodland Walk",
+        "url": "https://open.spotify.com/album/4JVdhRW1q0fDqCqfpQnFuB"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319280,
+      "name": "Woodland Walk",
+      "url": "https://open.spotify.com/track/74JHnbsnMhSPFC2G6VrJL7"
     },
     {
       "album": {

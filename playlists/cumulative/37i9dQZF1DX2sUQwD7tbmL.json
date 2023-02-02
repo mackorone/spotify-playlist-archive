@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "The best indie rock vibes \u2014 classic and current. ",
   "name": "Feel-Good Indie Rock",
-  "published_playlist_ids": [
-    "34b8Kse0gQlLcdKWiNlqDt"
-  ],
   "tracks": [
     {
       "album": {
@@ -877,7 +874,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
@@ -1540,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm"
+    },
+    {
+      "album": {
         "name": "A Treatise on the Rainbow",
         "url": "https://open.spotify.com/album/0zKdvj4RESPZAzDQ006MG3"
       },
@@ -1695,7 +1710,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-22",
       "duration_ms": 280213,
       "name": "circle the drain",
       "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
@@ -1735,7 +1750,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 148207,
       "name": "Cloud 9 (feat. Tegan and Sara)",
       "url": "https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq"
@@ -1843,10 +1858,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 188306,
       "name": "Crash My Car",
       "url": "https://open.spotify.com/track/0X5mtNbqxbiTYkwj0CQc2f"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "Crash My Car",
+      "url": "https://open.spotify.com/track/5SN3mwuodiwY3jPejBuUD5"
     },
     {
       "album": {
@@ -2149,7 +2182,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 146392,
       "name": "Do You Wanna Talk",
       "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
@@ -2315,7 +2348,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 234606,
       "name": "Dr\u00e6m Girl",
       "url": "https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn"
@@ -3273,7 +3306,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 209557,
       "name": "Greek Tragedy",
       "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
@@ -4091,7 +4124,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 192134,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
@@ -4149,6 +4182,28 @@
       "duration_ms": 202035,
       "name": "its alright :)",
       "url": "https://open.spotify.com/track/0ITjrJTxJWUVqthwUIOKPZ"
+    },
+    {
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/4soSC3Y3hkAczeDVklfp34"
+      },
+      "artists": [
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        },
+        {
+          "name": "Pink Feathers",
+          "url": "https://open.spotify.com/artist/5G46oA5vyTUNhJkAyqmGmW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 180506,
+      "name": "It\u2019s A Shame",
+      "url": "https://open.spotify.com/track/4DoWwjW93HS2p0SahEQ2qR"
     },
     {
       "album": {
@@ -4571,6 +4626,24 @@
     {
       "album": {
         "name": "Tell It to the Volcano",
+        "url": "https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov"
+      },
+      "artists": [
+        {
+          "name": "Miniature Tigers",
+          "url": "https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158653,
+      "name": "Like or Like Like",
+      "url": "https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi"
+    },
+    {
+      "album": {
+        "name": "Tell It to the Volcano",
         "url": "https://open.spotify.com/album/6LVXJslQ2aT7xyIBnDsXXj"
       },
       "artists": [
@@ -4581,7 +4654,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 158653,
       "name": "Like or Like Like",
       "url": "https://open.spotify.com/track/2laAFvo3q3GIcXX7Ql8OeD"
@@ -4765,6 +4838,28 @@
       "duration_ms": 249586,
       "name": "Lost In Yesterday",
       "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
+    },
+    {
+      "album": {
+        "name": "Lots of Nothing (feat. BENEE)",
+        "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193836,
+      "name": "Lots of Nothing (feat. BENEE)",
+      "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
     },
     {
       "album": {
@@ -5561,7 +5656,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 156122,
       "name": "No Time to Explain",
       "url": "https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC"
@@ -6058,6 +6153,24 @@
     },
     {
       "album": {
+        "name": "Pebble Brain",
+        "url": "https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207009,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI"
+    },
+    {
+      "album": {
         "name": "Twenty Twenty",
         "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
       },
@@ -6505,6 +6618,28 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
+    },
+    {
+      "album": {
+        "name": "Rainbow Mixtape",
+        "url": "https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        },
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173320,
+      "name": "Sagittarius Superstar",
+      "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
     },
     {
       "album": {
@@ -7109,7 +7244,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-16",
       "duration_ms": 262736,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
@@ -7271,10 +7406,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 187415,
       "name": "Stella Brown",
       "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
+    },
+    {
+      "album": {
+        "name": "Stop Sign",
+        "url": "https://open.spotify.com/album/7FLYPQ543VVhvyrC1qIBH1"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 181527,
+      "name": "Stop Sign",
+      "url": "https://open.spotify.com/track/0rUy5il8xc12tbAkpHaubN"
     },
     {
       "album": {
@@ -7293,6 +7446,24 @@
       "duration_ms": 219475,
       "name": "Stories",
       "url": "https://open.spotify.com/track/2RZZTpMYCpb86ZMmrnAbe9"
+    },
+    {
+      "album": {
+        "name": "Am I sinking or Am I swimming?",
+        "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Stress Relief",
+      "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
     },
     {
       "album": {
@@ -7437,6 +7608,24 @@
       "duration_ms": 330630,
       "name": "Sunset Chaser",
       "url": "https://open.spotify.com/track/0US7M5Cc4HToQXy99z92SV"
+    },
+    {
+      "album": {
+        "name": "supermarket",
+        "url": "https://open.spotify.com/album/2rpxxVofUOFlcnFD5jriTt"
+      },
+      "artists": [
+        {
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "supermarket",
+      "url": "https://open.spotify.com/track/11cufrIGJ6pbcVqJ205Eqe"
     },
     {
       "album": {
@@ -7787,7 +7976,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 143530,
       "name": "The Kiss Of Venus (Dominic Fike)",
       "url": "https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V"
@@ -7899,6 +8088,24 @@
       "duration_ms": 304714,
       "name": "The Wall & I",
       "url": "https://open.spotify.com/track/3YopR9iqzcQei6l8DJ5Ylo"
+    },
+    {
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "album": {
@@ -8803,7 +9010,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 232177,
       "name": "You'll Understand When you're Older",
       "url": "https://open.spotify.com/track/2LSKaL5wM8r5DaNBW1Oqx6"
@@ -8875,7 +9082,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 189160,
       "name": "Young",
       "url": "https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE"

@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Doja Cat
 
-113 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/5CobvX2WaihXg6bR2qXgbE)
+113 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [LLC](https://open.spotify.com/track/3tCgn1QGWOZN5eE0XuVdrf) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/4Rh57STD18rbjXbBrx2X65) | 3:41 | 2021-02-22 | 2022-07-29 |
 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 | 2021-02-22 |  |
 | [Megan's Piano](https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 | 2022-03-08 |  |
-| [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu) | 2:17 | 2022-03-08 |  |
+| [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu) | 2:17 | 2022-03-08 | 2023-01-03 |
 | [Moment 4 Life](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:39 | 2021-02-22 |  |
 | [Money](https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Money](https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P) | 3:03 | 2021-02-22 |  |
 | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr) | 3:20 | 2021-02-22 | 2022-07-29 |
@@ -114,7 +114,7 @@
 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 | 2021-02-22 |  |
 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 | 2021-02-22 |  |
 | [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 | 2022-03-08 | 2022-07-26 |
-| [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 | 2022-03-08 | 2022-11-13 |
+| [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 | 2022-03-08 |  |
 | [Where Them $ @](https://open.spotify.com/track/6kp2h1BjSs6iKVgpzhwi8h) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Where Them $ @](https://open.spotify.com/album/72sEbqaQn11rlQbguRtFPj) | 3:13 | 2021-02-22 | 2022-06-21 |
 | [Whole Lotta Liquor \(feat\. Future & PARTYNEXTDOOR\)](https://open.spotify.com/track/1EWa3LGA6yaC6Bq2iUA72a) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For The Streets](https://open.spotify.com/album/6mhbyNVPopy9UuMjipnr59) | 2:57 | 2021-02-22 | 2022-07-26 |
 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 | 2021-02-22 |  |

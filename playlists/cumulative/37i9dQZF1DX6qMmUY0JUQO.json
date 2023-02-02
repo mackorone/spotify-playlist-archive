@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "From House & Techno to the spheres of Pop. This playlist features legendary tracks that have been produced on a TR-909 drum machine. Cover: Jeff Mills",
   "name": "909 Classics",
-  "published_playlist_ids": [
-    "0aAeAkwyU2DI1pbas58wS9"
-  ],
   "tracks": [
     {
       "album": {
@@ -363,8 +360,8 @@
       },
       "artists": [
         {
-          "name": "Fjaak",
-          "url": "https://open.spotify.com/artist/3D8uiQETB5m11ZbuCVC9jH"
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
         }
       ],
       "date_added": "2022-09-08",
@@ -779,7 +776,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207960,
-      "name": "LFO (Leeds Warehouse Mix)",
+      "name": "LFO - Leeds Warehouse Mix",
       "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
     },
     {
@@ -961,10 +958,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 367619,
       "name": "Pool Party Music",
       "url": "https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9"
+    },
+    {
+      "album": {
+        "name": "2015 - 2017",
+        "url": "https://open.spotify.com/album/5aqiSYD4CoXgKW7p7mUNex"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367619,
+      "name": "Pool Party Music",
+      "url": "https://open.spotify.com/track/4JHzX0ZqlUR4cTFqELFl8o"
     },
     {
       "album": {
@@ -1037,7 +1052,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-11",
       "duration_ms": 361402,
       "name": "Sound 6",
       "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"

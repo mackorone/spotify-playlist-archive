@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-25",
   "description": "<a href=\"spotify:artist:34iHrE61AX1yx8uAqNOCyU\">Cosmicat</a>'s favorite tracks. Updated regularly. Curated by Cosmicat. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Cosmicat's track IDs",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -91,6 +90,24 @@
       "duration_ms": 448250,
       "name": "Body Free - Original Mix",
       "url": "https://open.spotify.com/track/2McZ6Ntes1gHxzmRA1sq9k"
+    },
+    {
+      "album": {
+        "name": "Can You Feel",
+        "url": "https://open.spotify.com/album/1w5YChnFdQVK4bmKNQMFfh"
+      },
+      "artists": [
+        {
+          "name": "Cosmicat",
+          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "Can You Feel",
+      "url": "https://open.spotify.com/track/4YPs1fsVW9KKJoPxSdRe5V"
     },
     {
       "album": {
@@ -697,10 +714,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/5GXeNbxOEbd7sKrbsVLVVx"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578040,
+      "name": "Innerbloom",
+      "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
     },
     {
       "album": {
@@ -1038,7 +1073,7 @@
     },
     {
       "album": {
-        "name": "Set Me Free",
+        "name": "Set Me Free (Extended Mix)",
         "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
       },
       "artists": [
@@ -1051,7 +1086,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210000,
-      "name": "Set Me Free",
+      "name": "Set Me Free - Extended Mix",
       "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
     },
     {
@@ -1075,6 +1110,28 @@
       "duration_ms": 470493,
       "name": "Shallow - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/1drqut7btLgFmQROnZp6aw"
+    },
+    {
+      "album": {
+        "name": "Shoft Alhala",
+        "url": "https://open.spotify.com/album/2h0QwgH6vNBvECQEmTxeH8"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Mode",
+          "url": "https://open.spotify.com/artist/5Hk1jxKs1Qxg8uQY3SrAAv"
+        },
+        {
+          "name": "Moayad",
+          "url": "https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226771,
+      "name": "Shoft Alhala - Radio Edit",
+      "url": "https://open.spotify.com/track/6nlJi5I96yMdToZZ7vfKdf"
     },
     {
       "album": {

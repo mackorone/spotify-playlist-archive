@@ -4,7 +4,7 @@
 
 > You can't win 'em all\. Drown your sorrows with a cold brew and this drinking playlist.
 
-23 songs - 1 hr 33 min - [published](https://open.spotify.com/playlist/6Oulyt6ha0qH326XiFsDIq)
+23 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

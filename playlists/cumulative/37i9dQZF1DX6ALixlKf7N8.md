@@ -4,7 +4,7 @@
 
 > A collection of fairy tales and kids' stories perfect for bedtime and beyond.
 
-64 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/0fA827yboOSTe39CZBW85j)
+64 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

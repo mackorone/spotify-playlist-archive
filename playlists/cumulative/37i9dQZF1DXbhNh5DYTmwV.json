@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-08",
   "description": "\u00a1Las canciones m\u00e1s ch\u00e9veres est\u00e1n sonando aqu\u00ed!",
   "name": "Bac\u00e1n",
-  "published_playlist_ids": [
-    "2gT9p9h2AT84oVHAfgpUfs"
-  ],
   "tracks": [
     {
       "album": {
@@ -1621,10 +1618,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 291346,
       "name": "Una Fan Enamorada",
       "url": "https://open.spotify.com/track/07EGbR4e9MznCDPuWGcD93"
+    },
+    {
+      "album": {
+        "name": "Los Primera",
+        "url": "https://open.spotify.com/album/6WazOboL5RdFSLktiSsZO5"
+      },
+      "artists": [
+        {
+          "name": "Servando & Florentino",
+          "url": "https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291626,
+      "name": "Una Fan Enamorada - Salsa",
+      "url": "https://open.spotify.com/track/0ZrR1RTJj1glZWtYvBfU7M"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > It's the weekend and you need some popular songs to hang out with\. We've got you covered.
 
-65 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/5fIgWrPMvO9uwe39SU6DC5)
+65 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

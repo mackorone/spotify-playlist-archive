@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,977 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,891 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

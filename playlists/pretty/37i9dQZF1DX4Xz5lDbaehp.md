@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,584 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,461 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 39 | [You Want Everyone to Love You](https://open.spotify.com/track/21yPwIPwerL4pxf19LvEGn) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [places i've lived](https://open.spotify.com/album/2jLTZMIeCMcWzwOtGLnMMY) | 4:08 |
 | 40 | [summer on the inside](https://open.spotify.com/track/1VrS7b7ieSGQIhEauDzm7N) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/4zHzMIrF7AkCcTzy8GTvBE) | 3:25 |
 | 41 | [Goodmood](https://open.spotify.com/track/4arIMs14aBJkAfWe2alHUQ) | [Nabes](https://open.spotify.com/artist/107Qkrj4miJTEjTZx8Ie3c) | [Goodmood](https://open.spotify.com/album/6c38wrxmxgszEF0oHhMYxr) | 2:41 |
-| 42 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 |
+| 42 | [Right Where You Like](https://open.spotify.com/track/7IoZZURqAsM3luroL55gG8) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/0Qg0coUk5hJTJRHnultu4u) | 2:52 |
 | 43 | [EXCEPTIONAL](https://open.spotify.com/track/02oVra8RWdAYaKbdinrfRC) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/2bCu6FoQW3rXWUqdAsfof2) | 2:17 |
 | 44 | [Gët Busy](https://open.spotify.com/track/2JhU9tkEJqUsjjr37cIpdG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Gët Busy](https://open.spotify.com/album/4kV56LEdTS4pRT2UR94WZW) | 2:37 |
 | 45 | [Parallel Parking](https://open.spotify.com/track/4njf8PZi95E9ISlQVXXPyl) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Parallel Parking](https://open.spotify.com/album/1a1fIXE8ZFG5LPswnSC3ih) | 1:58 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 49 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 |
 | 50 | [Superstar](https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr) | 2:52 |
 | 51 | [Pink Slips](https://open.spotify.com/track/3YmZVcLHWCjMlHfLaM7nTf) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Pink Slips](https://open.spotify.com/album/0HSukgQ6gAyNJmTfXJAeVW) | 3:12 |
-| 52 | [Butterfly](https://open.spotify.com/track/7heKE7iTEOpQBVPN6KeZRx) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Butterfly](https://open.spotify.com/album/70opr7vOKa2LgR2ihHm9uj) | 3:48 |
-| 53 | [soda stain](https://open.spotify.com/track/3RbKJKBWHBBPkNZ3BaCKfj) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [soda stain](https://open.spotify.com/album/4ZEAc4gemVxICjPks2GyQD) | 1:56 |
+| 52 | [Butterfly](https://open.spotify.com/track/4BeYJ0wIwouR1RgEWqkOwB) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Flower Ghoul](https://open.spotify.com/album/2YO1qD5UtT9U5FDDeesuWE) | 3:48 |
+| 53 | [soda stain](https://open.spotify.com/track/77GEf9fKSwqfxM26VJs7UK) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [soda stain](https://open.spotify.com/album/1Gn1TB1BRQC0UI5nfCdWKB) | 1:56 |
 | 54 | [Mr\. Perfect Freestyle](https://open.spotify.com/track/6vPoV2IMUS7ALs7G3SPe6c) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [Mr\. Perfect Freestyle](https://open.spotify.com/album/7LiWQdPOM5PQ5fz9fYMyev) | 2:36 |
 | 55 | [Desert Star](https://open.spotify.com/track/4uiF1V2eIPSMgR2V4smhCC) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Desert Star](https://open.spotify.com/album/68dJWfmQ7tPR3hXiWGIqCt) | 3:44 |
 | 56 | [PINCH ME](https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/3rOQe9CrRDdKdLHLzH4BNI) | 2:59 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 62 | [Time Goes By](https://open.spotify.com/track/6QXoQhDw7HyTQvbdtIJBh3) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Time Goes By](https://open.spotify.com/album/1pzWzxEYfQ1pp04EAJgy9r) | 2:01 |
 | 63 | [Drive](https://open.spotify.com/track/2zqHx2d8a0NfhoE7wVJqqK) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 3:34 |
 | 64 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 |
-| 65 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 |
+| 65 | [Blue Skies](https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL) | 2:39 |
 | 66 | [On Time For Her](https://open.spotify.com/track/4Y5ew6TxDKSirbM8wHYbms) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 3:38 |
 | 67 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 |
 | 68 | [Lqi](https://open.spotify.com/track/1xZjULxG4J36N6J5pycnAt) | [Alain Pardo](https://open.spotify.com/artist/1OFIVeEfxRAXCYAuZfQ12j) | [Lqi](https://open.spotify.com/album/61WopxABfhQI5z7f2d13Lr) | 2:46 |
@@ -99,11 +99,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 89 | [Trap Salsa](https://open.spotify.com/track/736NMAWokZxwV7oLQzj8OH) | [NOKKI CABRERA](https://open.spotify.com/artist/1UBVQhdDEHGqhMYpUFSM29) | [TRAP SALSA](https://open.spotify.com/album/71ppda8M3GxuTJPy4CwJCc) | 2:57 |
 | 90 | [Still Not Made It](https://open.spotify.com/track/6FG7ys3vNRSrTEdE4EnpDo) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Still Not Made It](https://open.spotify.com/album/1RaQ9qJJGREcwBNAXCnp6n) | 3:14 |
 | 91 | [Reverie](https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:18 |
-| 92 | [Got Me \(Feelin' Like\)](https://open.spotify.com/track/5tZXAxvk8Zfe1p6Pd78kqa) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Got Me \(Feelin' Like\)](https://open.spotify.com/album/19WNAHNH5e9e55hMbKcJ5q) | 3:24 |
+| 92 | [Got Me \(Feelin' Like\)](https://open.spotify.com/track/3PkTWWD9NDIN82BwuB3yOe) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Fantasy Girl](https://open.spotify.com/album/33hWzJf0abePlCAAskSZSC) | 3:24 |
 | 93 | [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 |
 | 94 | [Reassemble](https://open.spotify.com/track/1hUh5SnrnZv1ROMyroR8R6) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ), [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq) | [Reassemble](https://open.spotify.com/album/2BUrigAvDUtMMsQTrWW45Z) | 3:18 |
 | 95 | [Deep Blue](https://open.spotify.com/track/1c6xkwwhc0T5JdU2oiTFkH) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Deep Blue](https://open.spotify.com/album/7f9VlhNeNi5zc0URre6H6I) | 2:58 |
-| 96 | [Pissed in the Morning](https://open.spotify.com/track/3cKgffGir3V6y0iGR75KHT) | [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [Pissed in the Morning](https://open.spotify.com/album/0Pprw9uYAGNPm9Y1Wh6Q1F) | 2:29 |
+| 96 | [Pissed in the Morning](https://open.spotify.com/track/37MEdkEWiuRRxzKmzzgaHb) | [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [We're more than friends, but less than lovers.](https://open.spotify.com/album/4PWlGW7L9xO1LMF89Rhtnu) | 2:29 |
 | 97 | [White Picket Fence](https://open.spotify.com/track/6siOHdRw7Y4g0NmAZ5bweV) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [White Picket Fence](https://open.spotify.com/album/0OH3zQevY0Y3eXo0qA2aH1) | 2:56 |
 | 98 | [Baby Choppa](https://open.spotify.com/track/3oQfAuWO64dSVo2JYfdK3x) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5) | [Free Me](https://open.spotify.com/album/3XC5zlSkJyspgDKUImnahR) | 2:24 |
 | 99 | [1111](https://open.spotify.com/track/4MsZ2HwRZyyFSEhIgYxjCB) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [1111](https://open.spotify.com/album/6CHFEOsW7ihi1DlOrWHKKJ) | 3:00 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 102 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 |
 | 103 | [D's](https://open.spotify.com/track/4CwI0ZjiMaW3F7B70iE43Y) | [FUGAZZIFLO](https://open.spotify.com/artist/2Y6KxvXlcHMQ2E3K9SOjYa), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [D's](https://open.spotify.com/album/5usCGqChw84MfT09Un7kT1) | 2:42 |
 | 104 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 |
-| 105 | [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 |
+| 105 | [Late To The Party](https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok) | 2:57 |
 | 106 | [Out the Way](https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out the Way](https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ) | 2:35 |
 | 107 | [Used To This](https://open.spotify.com/track/2eIFkERbBslhcFrF0SRLgL) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Used To This](https://open.spotify.com/album/1ClebLumn5M7VKWTZJaUVU) | 2:59 |
 | 108 | [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MTY0NzM2NTY0OCwwMDAwMDAwMGMyMDVjODUyY2YzMDk3NWJkNDE5ZGMwNmZmODlmNWZl`
+Snapshot ID: `MTY0NzM2NTY0OCwwMDAwMDAwMDA4NGMyYzBjMjY3YzU2N2UxNzdiYTU2ZmE2YmNhMWZl`

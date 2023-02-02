@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "A selection of the greatest alternative love songs of all time.",
-  "name": "Alternative Love Songs",
-  "published_playlist_ids": [
-    "6YQCZe8hO85v0lGe1i13Jq"
-  ],
+  "description": "A selection of the greatest indie love songs of all time. ",
+  "name": "Indie Love Songs",
   "tracks": [
     {
       "album": {
@@ -401,7 +398,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 238693,
       "name": "California Daze",
       "url": "https://open.spotify.com/track/0GsLaBFChyC0vMh7qsFunp"
@@ -419,7 +416,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-26",
       "duration_ms": 238693,
       "name": "California Daze",
       "url": "https://open.spotify.com/track/3Oa4HmaT53IzzyZDbqmT2b"
@@ -455,7 +452,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-28",
       "duration_ms": 293320,
       "name": "Candles",
       "url": "https://open.spotify.com/track/0c6z0CQLmIAEOCfhNvh3n3"
@@ -1633,7 +1630,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 231160,
       "name": "Lloyd, I'm Ready To Be Heartbroken",
       "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"

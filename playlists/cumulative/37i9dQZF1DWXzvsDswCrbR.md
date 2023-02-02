@@ -4,7 +4,7 @@
 
 > The sound of bounce, curated by Big Freedia.
 
-22 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/5vyLRMwQiZPT6pDlvAEBMn)
+22 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

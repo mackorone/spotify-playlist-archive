@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "Cool vibes from the African continent.",
   "name": "Afrocentric",
-  "published_playlist_ids": [
-    "4TVTdhLbAi1cx5rQBb4HCt"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,7 +92,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 154666,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
@@ -278,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Asiwaju",
+        "url": "https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
+    },
+    {
+      "album": {
         "name": "Bad Influence",
         "url": "https://open.spotify.com/album/7udDaiv9Mgh1LrHvObls1I"
       },
@@ -384,6 +399,28 @@
     },
     {
       "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154112,
+      "name": "Bank Alert",
+      "url": "https://open.spotify.com/track/6QOFnwFRoiB5M6nSiHjvPj"
+    },
+    {
+      "album": {
         "name": "Twice As Tall",
         "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
       },
@@ -479,10 +516,28 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 199173,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
+    },
+    {
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
     },
     {
       "album": {
@@ -553,6 +608,24 @@
       "duration_ms": 237001,
       "name": "Coco Marijuana",
       "url": "https://open.spotify.com/track/6mXIES5HmXDyD4tpEch0bB"
+    },
+    {
+      "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/31sUe2fAR76RTCiz9emu0J"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161720,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1k4VnMH8KMeaz653dOsRFv"
     },
     {
       "album": {
@@ -739,7 +812,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 156000,
       "name": "Do For Me (feat. YKB & Alana Maria)",
       "url": "https://open.spotify.com/track/25NrAXAOBj1KOuTpJYs11g"
@@ -787,6 +860,24 @@
       "duration_ms": 154520,
       "name": "Down by the River",
       "url": "https://open.spotify.com/track/4B7sxQLWCgQ6GvZac3Dazz"
+    },
+    {
+      "album": {
+        "name": "Ease Up",
+        "url": "https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
     },
     {
       "album": {
@@ -849,6 +940,24 @@
       "duration_ms": 208896,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+    },
+    {
+      "album": {
+        "name": "FINE LADY",
+        "url": "https://open.spotify.com/album/52V7bMVPEuVwOoBWDCGmpa"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "FINE LADY",
+      "url": "https://open.spotify.com/track/6rLczMTbqH5LXhEHXm3TuR"
     },
     {
       "album": {
@@ -962,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Furah",
+        "url": "https://open.spotify.com/album/5rD89G23WIlfKzGbGXiJJx"
+      },
+      "artists": [
+        {
+          "name": "Pson",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224574,
+      "name": "Furah",
+      "url": "https://open.spotify.com/track/5ddDDkPFaCkbl9WBBlFeI4"
+    },
+    {
+      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -1006,6 +1133,28 @@
     },
     {
       "album": {
+        "name": "Garde du coeur (feat. Charlotte Dipanda)",
+        "url": "https://open.spotify.com/album/0qLNkh0AwO8ospd87D4jxe"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Charlotte Dipanda",
+          "url": "https://open.spotify.com/artist/3qt4OYC2CeOuVjKtzGMobL"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 460040,
+      "name": "Garde du coeur (feat. Charlotte Dipanda)",
+      "url": "https://open.spotify.com/track/5gpFpZOZ67HfKpwjZeQMkf"
+    },
+    {
+      "album": {
         "name": "Gbona",
         "url": "https://open.spotify.com/album/3OJY4Z5s479HvoAlwAOQRn"
       },
@@ -1042,6 +1191,28 @@
     },
     {
       "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/1cylbIhsALcS2cPOzCDvSb"
+      },
+      "artists": [
+        {
+          "name": "David Walters",
+          "url": "https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7"
+        },
+        {
+          "name": "K.O.G",
+          "url": "https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232986,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/7JWHJ6QRppXwwVpKs2iTYD"
+    },
+    {
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -1057,7 +1228,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 231205,
       "name": "Glory (feat. Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/0D9Bnm77CkYlzpZijEKFuy"
@@ -1270,6 +1441,28 @@
     },
     {
       "album": {
+        "name": "I'm Yours",
+        "url": "https://open.spotify.com/album/3wg8nl3xkrTiZG3Kq3YH2d"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/4cTopCzcmxBvWE6K96RnhP"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
       },
@@ -1351,6 +1544,32 @@
       "duration_ms": 210000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/2F5IXlnz0CcA5pbLPfkvNp"
+    },
+    {
+      "album": {
+        "name": "Isibuko",
+        "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Q Twins",
+          "url": "https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J"
+        },
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278504,
+      "name": "Isoka",
+      "url": "https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2"
     },
     {
       "album": {
@@ -1481,7 +1700,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 196210,
       "name": "Juju pt. 2 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
@@ -1659,7 +1878,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 254608,
       "name": "Magic In The Water",
       "url": "https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX"
@@ -2098,6 +2317,28 @@
     },
     {
       "album": {
+        "name": "Ojemba",
+        "url": "https://open.spotify.com/album/1UDK8dfDpF5WmhS3d8POZM"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "Ojemba",
+      "url": "https://open.spotify.com/track/4zqWVvzrPDFQmTH8lkeU5p"
+    },
+    {
+      "album": {
         "name": "Ojuju",
         "url": "https://open.spotify.com/album/1cYo9eumR211el6QbRzW2m"
       },
@@ -2142,6 +2383,32 @@
     },
     {
       "album": {
+        "name": "Phase One",
+        "url": "https://open.spotify.com/album/4jeLU9uhpa3D4qG7lWzyVT"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161262,
+      "name": "Olorun Maje",
+      "url": "https://open.spotify.com/track/63asnqY4DG3bbdew7ioJBE"
+    },
+    {
+      "album": {
         "name": "Olorun Maje",
         "url": "https://open.spotify.com/album/3lS0aB3MgFWB9t5NEcALlc"
       },
@@ -2161,7 +2428,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 161262,
       "name": "Olorun Maje",
       "url": "https://open.spotify.com/track/6PMAkS0V1IMh6pndxR8A6E"
@@ -2201,10 +2468,28 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 227748,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt"
+    },
+    {
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162720,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD"
     },
     {
       "album": {
@@ -2339,7 +2624,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 187866,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/3sEcJ4mGZ9srlXdG7G2HK1"
@@ -2445,7 +2730,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 231093,
       "name": "Rora",
       "url": "https://open.spotify.com/track/0s3NyWRBLiqsj1tfTidSpU"
@@ -2560,6 +2845,28 @@
     },
     {
       "album": {
+        "name": "International Arrivals Vol. 3",
+        "url": "https://open.spotify.com/album/5lRKLzYUNjUk1pq6NL4HJp"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "D3an",
+          "url": "https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458750,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/6FnU39PS4w9J2rZdDfq2dd"
+    },
+    {
+      "album": {
         "name": "Sarama",
         "url": "https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc"
       },
@@ -2593,7 +2900,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 256786,
       "name": "Sexting",
       "url": "https://open.spotify.com/track/0x2RvkOr2bVggUZqbHNu8g"
@@ -2707,7 +3014,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 233906,
       "name": "Smoke & Mirrors (feat. Ami Faku)",
       "url": "https://open.spotify.com/track/4DKkkquLEKqiVMQ7ua5gaf"
@@ -2807,7 +3114,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 298997,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
@@ -2855,6 +3162,32 @@
       "duration_ms": 168333,
       "name": "Spend Some Time",
       "url": "https://open.spotify.com/track/0NMfKNtRnvyF9QjlRvnv0I"
+    },
+    {
+      "album": {
+        "name": "Love In Transition",
+        "url": "https://open.spotify.com/album/3S4UFf9eRCSiUn5EnNb1u3"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lio",
+          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
+        },
+        {
+          "name": "Magasco",
+          "url": "https://open.spotify.com/artist/19MUAFeICSgiIHN7C452LD"
+        },
+        {
+          "name": "Iguocho",
+          "url": "https://open.spotify.com/artist/7DrFOyOldSkiBk24TE2kcH"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Strawberry (feat. Iguocho)",
+      "url": "https://open.spotify.com/track/1JKEo4vRUlvTDILxjQ7RSE"
     },
     {
       "album": {
@@ -2978,6 +3311,28 @@
     },
     {
       "album": {
+        "name": "Tabom Riddim",
+        "url": "https://open.spotify.com/album/5vUUmLs4XsolALRJIC9t1x"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160391,
+      "name": "Tabom Riddim",
+      "url": "https://open.spotify.com/track/2YFZ6IaFywtwTVFSBbaIdz"
+    },
+    {
+      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
       },
@@ -3077,7 +3432,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 248241,
       "name": "Ubala (feat. Sun-El Musician)",
       "url": "https://open.spotify.com/track/0n7R3uOg9iZI3vNm7yHSAf"

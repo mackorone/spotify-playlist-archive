@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Groovy sounds from around the world.",
   "name": "Global Groove",
-  "published_playlist_ids": [
-    "4cy2JLPcTDNKlCrRVhjOKn"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,7 +56,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 292228,
       "name": "Abyssinian Suite, Pt. 4",
       "url": "https://open.spotify.com/track/3PBZeQmbywJVKdlRBzSg2C"
@@ -161,7 +158,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 239397,
       "name": "Afro Golden Line",
       "url": "https://open.spotify.com/track/1DD7PGYav6CYBtYtwhzWzI"
@@ -550,6 +547,24 @@
     },
     {
       "album": {
+        "name": "A Journey to You",
+        "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "AO Longo Do Rio",
+      "url": "https://open.spotify.com/track/0jhKhgnjOWDtOTKxyPi1ZC"
+    },
+    {
+      "album": {
         "name": "AO Longo Do Rio",
         "url": "https://open.spotify.com/album/6ceZRBfduXzV866yCtMzxV"
       },
@@ -823,6 +838,24 @@
     {
       "album": {
         "name": "Badala Zamana (Habibi Funk 015)",
+        "url": "https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB"
+      },
+      "artists": [
+        {
+          "name": "Zohra",
+          "url": "https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "Badala Zamana (Habibi Funk 015)",
+      "url": "https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6"
+    },
+    {
+      "album": {
+        "name": "Badala Zamana (Habibi Funk 015)",
         "url": "https://open.spotify.com/album/4S0GIZfnkA1kK07ACLPyZJ"
       },
       "artists": [
@@ -945,7 +978,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 194768,
       "name": "Basta Parlare",
       "url": "https://open.spotify.com/track/45holCupIVCdXHmcpmDLrN"
@@ -1069,7 +1102,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2022-12-31",
       "duration_ms": 242400,
       "name": "Binbo\u011fa",
       "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
@@ -1467,7 +1500,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 175156,
       "name": "Cat\u00e1 Surf",
       "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
@@ -1525,7 +1558,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 284168,
       "name": "Charango Dub",
       "url": "https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx"
@@ -1778,6 +1811,28 @@
     },
     {
       "album": {
+        "name": "Cucu",
+        "url": "https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc"
+      },
+      "artists": [
+        {
+          "name": "Gotopo",
+          "url": "https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF"
+        },
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112602,
+      "name": "Cucu",
+      "url": "https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ"
+    },
+    {
+      "album": {
         "name": "Cumbia Fantas\u00eda",
         "url": "https://open.spotify.com/album/1SrjHppHv9QG1qF0gFy3BN"
       },
@@ -1949,7 +2004,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 542507,
       "name": "Deep Cumbia",
       "url": "https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL"
@@ -2333,7 +2388,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 246034,
       "name": "Dub Azucar",
       "url": "https://open.spotify.com/track/5GDcoQYmNc6o7ng1ergzpd"
@@ -2460,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "El Fen / Casbah",
+        "url": "https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs"
+      },
+      "artists": [
+        {
+          "name": "Ait Meslayene",
+          "url": "https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279874,
+      "name": "El Fen",
+      "url": "https://open.spotify.com/track/7mxnjeb6R7jMyKbxGTaB9B"
+    },
+    {
+      "album": {
         "name": "El Momento Perfecto",
         "url": "https://open.spotify.com/album/7wjNZpGKGqEMFXrJqdJbjz"
       },
@@ -2493,7 +2566,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 208005,
       "name": "El pavo real",
       "url": "https://open.spotify.com/track/3nXscmWolUwx0VlMZNy8i7"
@@ -2519,6 +2592,24 @@
       "duration_ms": 202368,
       "name": "El Traketeo",
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
+    },
+    {
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/0TJe1zaoMElWrLSIhmSyKL"
+      },
+      "artists": [
+        {
+          "name": "Ibibio Sound Machine",
+          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287633,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/5buZzOIWj7gTwsgTlUePu2"
     },
     {
       "album": {
@@ -3257,7 +3348,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-20",
+      "date_removed": null,
       "duration_ms": 356129,
       "name": "Giants",
       "url": "https://open.spotify.com/track/32B5eGIOm9qifV9hwpx0Kv"
@@ -3491,7 +3582,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 252889,
       "name": "Gyae Su",
       "url": "https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf"
@@ -3543,6 +3634,24 @@
     {
       "album": {
         "name": "Fine Anyway (Habibi Funk 016)",
+        "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00e9r Fakhr",
+          "url": "https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Had to Come Back Wet",
+      "url": "https://open.spotify.com/track/3y9doIj0Gl7ywGgUaFNe0G"
+    },
+    {
+      "album": {
+        "name": "Fine Anyway (Habibi Funk 016)",
         "url": "https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU"
       },
       "artists": [
@@ -3578,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Haditouni (Habibi Funk 015)",
+        "url": "https://open.spotify.com/album/6RUXZAg8m4ye6BYiZbTVD2"
+      },
+      "artists": [
+        {
+          "name": "Douaa",
+          "url": "https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205874,
+      "name": "Haditouni (Habibi Funk 015)",
+      "url": "https://open.spotify.com/track/5NS5Cu30CbNTBVKhh1feTX"
+    },
+    {
+      "album": {
         "name": "Zan",
         "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
       },
@@ -3607,7 +3734,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 251319,
       "name": "Hana Mash Hu Al Yaman",
       "url": "https://open.spotify.com/track/31SocnpUpBkeybeT5UsY65"
@@ -3889,7 +4016,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 271613,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6K48CHl2KAbKniFKaJzoV3"
@@ -4311,7 +4438,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 256470,
       "name": "It's a Joke",
       "url": "https://open.spotify.com/track/20nb4i2WWyPDXhiQTZqlrV"
@@ -4394,6 +4521,28 @@
     },
     {
       "album": {
+        "name": "Judge Not (Ray Mang Mixes)",
+        "url": "https://open.spotify.com/album/1ltDNyqAihoVYUfjv28oXl"
+      },
+      "artists": [
+        {
+          "name": "The Phenomenal Handclap Band",
+          "url": "https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO"
+        },
+        {
+          "name": "Ray Mang",
+          "url": "https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214287,
+      "name": "Judge Not - Ray Mang Radio Edit",
+      "url": "https://open.spotify.com/track/63Dcd1TRAGV5dxpJPDz6Ae"
+    },
+    {
+      "album": {
         "name": "KB's Mixtape No. 2",
         "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
       },
@@ -4467,6 +4616,28 @@
       "duration_ms": 249650,
       "name": "Ka Fwo Bit - Patchworks Remix",
       "url": "https://open.spotify.com/track/2v06FOgGYlTnestcu4Wjkd"
+    },
+    {
+      "album": {
+        "name": "Kabhi",
+        "url": "https://open.spotify.com/album/6gEiZwKKFyQim4GQ7fVJdb"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Piya Malik",
+          "url": "https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154282,
+      "name": "Kabhi",
+      "url": "https://open.spotify.com/track/3etwqEJFys1FJhzVKvenHw"
     },
     {
       "album": {
@@ -4615,6 +4786,32 @@
       "duration_ms": 323640,
       "name": "Kings of Forbidden Lands",
       "url": "https://open.spotify.com/track/6uMGI44FuvIJH1QlzuDqbr"
+    },
+    {
+      "album": {
+        "name": "Kokokokoko",
+        "url": "https://open.spotify.com/album/3pfrpbYDEG3liawfrAI5Xk"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        {
+          "name": "Theology HD",
+          "url": "https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259519,
+      "name": "Kokokokoko",
+      "url": "https://open.spotify.com/track/1wEARf9O4Y99NAY89Zk6Tw"
     },
     {
       "album": {
@@ -4988,6 +5185,24 @@
     },
     {
       "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 213333,
+      "name": "Lazalypso",
+      "url": "https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a"
+    },
+    {
+      "album": {
         "name": "Levante la Mano (Remixes)",
         "url": "https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS"
       },
@@ -5007,6 +5222,24 @@
       "duration_ms": 243000,
       "name": "Levante la Mano (Tonga Conga Remix)",
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
+    },
+    {
+      "album": {
+        "name": "Liquid Love",
+        "url": "https://open.spotify.com/album/3eCRbDscbTBwDRc70kPbtW"
+      },
+      "artists": [
+        {
+          "name": "NO ZU",
+          "url": "https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 328067,
+      "name": "Liquid Love",
+      "url": "https://open.spotify.com/track/0gPlSsAiRoaX2Wu2mrsmQH"
     },
     {
       "album": {
@@ -5234,6 +5467,24 @@
     },
     {
       "album": {
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247624,
+      "name": "Maktoub Aleina",
+      "url": "https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE"
+    },
+    {
+      "album": {
         "name": "Maktoub Aleina (Habibi Funk 018)",
         "url": "https://open.spotify.com/album/4PUXReU8jUWCkcge6pQKtk"
       },
@@ -5351,6 +5602,24 @@
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/66vLZytisIBNQiQz4qn6n5"
+    },
+    {
+      "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "album": {
@@ -5721,7 +5990,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 235706,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
@@ -5831,7 +6100,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 284070,
       "name": "Musa Paradisa",
       "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
@@ -6190,6 +6459,24 @@
     },
     {
       "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
+    },
+    {
+      "album": {
         "name": "Nosotros Tambi\u00e9n",
         "url": "https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL"
       },
@@ -6423,7 +6710,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 135017,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
@@ -7101,6 +7388,24 @@
     {
       "album": {
         "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Sah",
+      "url": "https://open.spotify.com/track/2Cy0ioc23ZFoQS4eeKNxmS"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
         "url": "https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y"
       },
       "artists": [
@@ -7265,7 +7570,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 287026,
       "name": "Serpentines (to Nik\u0161i\u0107)",
       "url": "https://open.spotify.com/track/5nLwagkCr9b7kvXGqmPGMZ"
@@ -7395,7 +7700,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 368108,
       "name": "Sh\u0113nzhou V.",
       "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
@@ -7453,7 +7758,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 343841,
       "name": "Silence is Golden",
       "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
@@ -7725,7 +8030,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 205067,
       "name": "Starry Nights",
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
@@ -7779,7 +8084,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 236886,
       "name": "Sun Khosi",
       "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"
@@ -7899,7 +8204,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 461120,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
@@ -7964,6 +8269,24 @@
     },
     {
       "album": {
+        "name": "Tayyara Warak (Habibi Funk 026)",
+        "url": "https://open.spotify.com/album/5uaI0HkgM2ovJ7QO0STi0t"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168097,
+      "name": "Tayyara Warak",
+      "url": "https://open.spotify.com/track/4WjB2aDvfjAYsukbbxYVUd"
+    },
+    {
+      "album": {
         "name": "Good Evening Black Buddha",
         "url": "https://open.spotify.com/album/3rbpuBfLjoR2bdXMEt3s3W"
       },
@@ -7975,7 +8298,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 252369,
       "name": "Tears of the Ancestors",
       "url": "https://open.spotify.com/track/2EGO35LATKIcw2DXZDDn7f"
@@ -8001,6 +8324,28 @@
       "duration_ms": 172787,
       "name": "Teen Etus",
       "url": "https://open.spotify.com/track/0CEslFNe6rY0pmHaksb9vW"
+    },
+    {
+      "album": {
+        "name": "Brazil is my land",
+        "url": "https://open.spotify.com/album/2A79rk8kBWAMoOfN3bXzbd"
+      },
+      "artists": [
+        {
+          "name": "Jupiter & Okwess",
+          "url": "https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142492,
+      "name": "Telejayi (Heavy Baile Remix)",
+      "url": "https://open.spotify.com/track/67nZx73Q8eQenpnx2rPUkP"
     },
     {
       "album": {
@@ -8215,7 +8560,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 400000,
       "name": "They Don't Care - Yoruba Soul Extended Mix",
       "url": "https://open.spotify.com/track/6YrA7JXJTEGHOJMDVXetYq"
@@ -8323,7 +8668,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 258000,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/2f3mTJUP0bhLf9q9jgfIeQ"
@@ -9365,9 +9710,9 @@
           "url": "https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe"
         }
       ],
-      "date_added": "2022-11-26",
+      "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 156000,
       "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 - \u306a\u3093\u306b\u3082",
       "url": "https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV"

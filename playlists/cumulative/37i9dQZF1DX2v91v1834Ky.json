@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-20",
   "description": "The greatest skating game music from over the years.",
   "name": "Kickflip",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -179,7 +178,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 109306,
       "name": "Cyco Vision",
       "url": "https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA"
@@ -600,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Let's Talk About Feelings",
+        "url": "https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz"
+      },
+      "artists": [
+        {
+          "name": "Lagwagon",
+          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 176960,
+      "name": "May 16",
+      "url": "https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg"
+    },
+    {
+      "album": {
         "name": "Destruction By Definition",
         "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
@@ -881,7 +898,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
@@ -953,7 +970,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 185360,
       "name": "The Boy Who Destroyed The World",
       "url": "https://open.spotify.com/track/7mXieDbl55P3L8kPE33gcC"

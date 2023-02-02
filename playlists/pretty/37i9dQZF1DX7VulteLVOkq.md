@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,395 likes - 52 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,339 likes - 52 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 | 5 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
 | 6 | [After All](https://open.spotify.com/track/4A9g0WVvFYjJftYWWXXxP7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:28 |
 | 7 | [Bennie And The Jets \- Remastered 2014](https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 5:22 |
-| 8 | [Your Song \- Remastered](https://open.spotify.com/track/2bUXfclD8DwJwwUENtSCWu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 4:03 |
+| 8 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 |
 | 9 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:12 |
 | 10 | [Finish Line](https://open.spotify.com/track/70TFwuLyduUQYij2aCmIsx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 4:24 |
 | 11 | [I Guess That's Why They Call It The Blues](https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:45 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 | 27 | [Something About The Way You Look Tonight \- Edit Version](https://open.spotify.com/track/5LjSxAIKwyZvQqJ04ZQ0Da) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Candle In The Wind 1997 / Something About ...](https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ) | 4:00 |
 | 28 | [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 |
 | 29 | [Philadelphia Freedom](https://open.spotify.com/track/2hl9ONQ7YGgZGYx0OSHvIq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 5:24 |
-| 30 | [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 |
+| 30 | [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 3:32 |
 | 31 | [Lucy In The Sky With Diamonds](https://open.spotify.com/track/13JsYnkF16pHKuOFG6uI1C) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 6:17 |
 | 32 | [Pinball Wizard](https://open.spotify.com/track/7bLVAgQDVEdeGrsPVABVRi) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 5:15 |
 | 33 | [The Bitch Is Back](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 | 51 | [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/4fBCtdSAeJHMhWlXxTGoEB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 3:33 |
 | 52 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 
-Snapshot ID: `MTY2MTg3MDM3MiwwMDAwMDAwMGRiOWFmMTExNmFjZTJhZGU0YjZjYjE0YjY0NTkzYWM0`
+Snapshot ID: `MTY2MTg3MDM3MiwwMDAwMDAwMGYwZDliOTIwN2FjYTNmY2Q2NDY1MTNmNzA2OWEzNTQz`

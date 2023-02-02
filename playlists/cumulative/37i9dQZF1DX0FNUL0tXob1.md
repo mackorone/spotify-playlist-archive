@@ -4,7 +4,7 @@
 
 > The best metal of 2016!
 
-196 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/78oYCipLw9bL0rcTsN8kW4)
+196 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

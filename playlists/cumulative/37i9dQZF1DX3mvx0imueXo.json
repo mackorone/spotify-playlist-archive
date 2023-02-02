@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "Let the music lift your soul. Vibes from the different islands in the Caribbean",
   "name": "Island Reggae",
-  "published_playlist_ids": [
-    "2blojqbK7VuiIRbFqTGQVl"
-  ],
   "tracks": [
     {
       "album": {
@@ -120,6 +117,52 @@
     },
     {
       "album": {
+        "name": "92 Degrees",
+        "url": "https://open.spotify.com/album/1O9BGpevVroU42SklvVhQ5"
+      },
+      "artists": [
+        {
+          "name": "A92",
+          "url": "https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc"
+        },
+        {
+          "name": "Offica",
+          "url": "https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2"
+        },
+        {
+          "name": "A9Ace",
+          "url": "https://open.spotify.com/artist/3nVH9A3fJlrtQh1s3Ft2QW"
+        },
+        {
+          "name": "A9Nikz",
+          "url": "https://open.spotify.com/artist/2DLW1xMXGTtdBNwhxXP9oN"
+        },
+        {
+          "name": "A9Dbo Fundz",
+          "url": "https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z"
+        },
+        {
+          "name": "A9Trapboy",
+          "url": "https://open.spotify.com/artist/2BSxtUp2AXy2TI3DAkjLdL"
+        },
+        {
+          "name": "A9Kebz",
+          "url": "https://open.spotify.com/artist/1JoKldB4InGY6KzojY4JcS"
+        },
+        {
+          "name": "A9Ksav",
+          "url": "https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224444,
+      "name": "A9 Link Up",
+      "url": "https://open.spotify.com/track/2eW02aiQxbVc0BQJmtIUgJ"
+    },
+    {
+      "album": {
         "name": "A9 Link Up",
         "url": "https://open.spotify.com/album/3KWlQxX2YYkKxA1WykEsmh"
       },
@@ -159,7 +202,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 224444,
       "name": "A9 Link Up",
       "url": "https://open.spotify.com/track/65vOcHDf6HRHuO94rr56Lo"
@@ -257,7 +300,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 169142,
       "name": "Can't Fly",
       "url": "https://open.spotify.com/track/6dJDyj82DiD1RHM8qpaZnd"
@@ -315,7 +358,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-15",
       "duration_ms": 240613,
       "name": "Country For Sale",
       "url": "https://open.spotify.com/track/68oDnG7v4aBLMuv1eai4Wz"
@@ -807,7 +850,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2022-12-27",
       "duration_ms": 227762,
       "name": "Lots Of Sign",
       "url": "https://open.spotify.com/track/4RNgiFBdRT9e8NRLoNdlwu"
@@ -917,6 +960,24 @@
       "duration_ms": 172097,
       "name": "Maths Test",
       "url": "https://open.spotify.com/track/0v2Krzg5HdHleXGoM6mEv1"
+    },
+    {
+      "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/0lGLhUdrNZjxJnkmugpY4r"
+      },
+      "artists": [
+        {
+          "name": "Claye",
+          "url": "https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172097,
+      "name": "Maths Test",
+      "url": "https://open.spotify.com/track/38sCQWp7j7lrzCxANN35du"
     },
     {
       "album": {
@@ -1253,7 +1314,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 276272,
       "name": "Stop You Coming and Come - Jam in the Van Live Session",
       "url": "https://open.spotify.com/track/2v3p3V7E1BBBR6B7BNUs2d"
@@ -1493,7 +1554,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 188306,
       "name": "Trample Dem",
       "url": "https://open.spotify.com/track/7Dyln70mOiNJJOCsgieCHc"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "A decade full of 00s country hits! Cover: Lee Ann Womack",
   "name": "2000s Country",
-  "published_playlist_ids": [
-    "3pUY5iuYWlsPVBK6AnHFI9"
-  ],
   "tracks": [
     {
       "album": {
@@ -909,7 +906,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 210933,
       "name": "Good Morning Beautiful",
       "url": "https://open.spotify.com/track/0eHT8N5YQglv8cYYizXvSw"
@@ -1129,7 +1126,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248800,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
@@ -1219,7 +1216,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 171813,
       "name": "It Must Be Love",
       "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
@@ -1561,7 +1558,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Making Memories Of Us",
       "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
@@ -1651,7 +1648,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 206720,
       "name": "Mud On the Tires",
       "url": "https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN"
@@ -1831,7 +1828,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 216173,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh"
@@ -2415,6 +2412,24 @@
       "duration_ms": 236106,
       "name": "There Is No Arizona",
       "url": "https://open.spotify.com/track/7Hgcw6qYU1ukRdRGvEkJk3"
+    },
+    {
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/7fvl3dOnDrv9rq5IBmLbAa"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 220840,
+      "name": "There You'll Be - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1s2khOWzC99udpUaPICLJI"
     },
     {
       "album": {

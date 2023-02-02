@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "A playlist for your Arab hipster starter kit.",
   "name": "Funk & Disco Zamaan",
-  "published_playlist_ids": [
-    "17ATh4UAh4fydqblUGTXv8"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,7 +96,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 387768,
       "name": "Afrah El Maghreb / \u0623\u0641\u0631\u0627\u062d \u0627\u0644\u0645\u063a\u0631\u0628",
       "url": "https://open.spotify.com/track/1jgKKtyl7X1MViCFBDRQe9"
@@ -157,7 +154,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 241423,
       "name": "Akeed",
       "url": "https://open.spotify.com/track/0M8B2Ywia7UYhZLNpUmhQS"
@@ -222,6 +219,28 @@
     },
     {
       "album": {
+        "name": "Al Hadaoui (Habibi Funk 011)",
+        "url": "https://open.spotify.com/album/7Kr00uukmurII2uV76igym"
+      },
+      "artists": [
+        {
+          "name": "Attarazat Addahabia",
+          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
+        },
+        {
+          "name": "Faradjallah",
+          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Al Hadaoui",
+      "url": "https://open.spotify.com/track/6mqaAZrhthluQssopSQcNm"
+    },
+    {
+      "album": {
         "name": "Two Niles to Sing a Melody: The Violins & Synths of Sudan",
         "url": "https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ"
       },
@@ -255,6 +274,28 @@
       "duration_ms": 418505,
       "name": "Alah alah ya lah - Polocorp's Slow Disco Edit",
       "url": "https://open.spotify.com/track/7aMGkkJBIynh5fN3QhTApo"
+    },
+    {
+      "album": {
+        "name": "Al Hadaoui (Habibi Funk 011)",
+        "url": "https://open.spotify.com/album/7Kr00uukmurII2uV76igym"
+      },
+      "artists": [
+        {
+          "name": "Attarazat Addahabia",
+          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
+        },
+        {
+          "name": "Faradjallah",
+          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426000,
+      "name": "Albaki",
+      "url": "https://open.spotify.com/track/1Ug0d2vHuOUL08MLZSMu8h"
     },
     {
       "album": {
@@ -855,6 +896,28 @@
     {
       "album": {
         "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Farrah Galbi Aljadeed",
+      "url": "https://open.spotify.com/track/1PfU9f0u6GJs7aADG0voSk"
+    },
+    {
+      "album": {
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
         "url": "https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV"
       },
       "artists": [
@@ -989,7 +1052,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 241133,
       "name": "Gonon El Desco",
       "url": "https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI"
@@ -1317,7 +1380,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 190693,
       "name": "Mabruk - aJan Remix",
       "url": "https://open.spotify.com/track/3PHxtuVhigaZtNouOl2aFW"
@@ -1447,7 +1510,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 213266,
       "name": "Music Laounga 79",
       "url": "https://open.spotify.com/track/11AzUEPBJuCG5F0DvRI7n8"
@@ -1896,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391000,
+      "name": "Taban Ahwak",
+      "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
+    },
+    {
+      "album": {
         "name": "Pebbles Vol. 15, International Mash up Pt. 1, Originals Artifacts from the Psychedelic Era",
         "url": "https://open.spotify.com/album/76PGoa6W3AK6OxqMzKZCS2"
       },
@@ -1961,7 +2042,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 426733,
       "name": "Warak Al Khareef",
       "url": "https://open.spotify.com/track/2YRdil5daXlDTDWsstccZ0"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
   "name": "This Is Rise Against",
-  "published_playlist_ids": [
-    "0limFLGpMO0zcj7b4UXmCB"
-  ],
   "tracks": [
     {
       "album": {
@@ -463,6 +460,24 @@
     {
       "album": {
         "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-29",
+      "duration_ms": 224013,
+      "name": "Life Less Frightening",
+      "url": "https://open.spotify.com/track/04nWjZOpqFqgVRaPEvtdHD"
+    },
+    {
+      "album": {
+        "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
@@ -617,7 +632,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 223613,
       "name": "Paper Wings",
       "url": "https://open.spotify.com/track/09r8IKJy0rl8dBnxi4N5NR"
@@ -635,7 +650,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 223613,
       "name": "Paper Wings",
       "url": "https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1"
@@ -923,7 +938,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 165240,
       "name": "The Eco-Terrorist In Me",
       "url": "https://open.spotify.com/track/00mAAFCc9meOcSQuligKC8"
@@ -1067,7 +1082,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 181502,
       "name": "Voices Off Camera - Ghost Note Symphonies",
       "url": "https://open.spotify.com/track/3PaeUkXlQSmYKlR30fbdzU"

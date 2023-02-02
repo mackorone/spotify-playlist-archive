@@ -1,15 +1,15 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 31111,
+  "num_followers": 32256,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDBkZmJkZGZlMWNmMGNhNWI4NWYxYjU2NDZlMjliYzY1NQ==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA3ODdmMzVmM2U4ZmVhNzVlOTFhMDZkMWJhZGZlYzRhZA==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
@@ -65,7 +65,23 @@
       "url": "https://open.spotify.com/track/6Vdyu21iT8qScU1haSjWUU"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 158332,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Good Love (feat. Usher)",
         "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
@@ -85,23 +101,7 @@
       "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 158332,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
@@ -125,63 +125,7 @@
       "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Twerkulator",
-        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 138541,
-      "name": "Twerkulator",
-      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 218332,
-      "name": "Pussy Talk",
-      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 166476,
-      "name": "Twerk (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) [Remix]",
         "url": "https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5"
@@ -205,7 +149,63 @@
       "url": "https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 166476,
+      "name": "Twerk (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 218332,
+      "name": "Pussy Talk",
+      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Twerkulator",
+        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 138541,
+      "name": "Twerkulator",
+      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
         "url": "https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
@@ -277,23 +277,7 @@
       "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 177370,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
@@ -309,7 +293,7 @@
       "url": "https://open.spotify.com/track/11TOnapSFVWBUSByMzf1u1"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) [Remix]",
         "url": "https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD"
@@ -333,7 +317,23 @@
       "url": "https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 177370,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
@@ -357,23 +357,7 @@
       "url": "https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 121386,
-      "name": "Jobs",
-      "url": "https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "PERIOD",
         "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
@@ -389,83 +373,7 @@
       "url": "https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "MONTANA",
-        "url": "https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 162201,
-      "name": "Wiggle It (feat. City Girls)",
-      "url": "https://open.spotify.com/track/3aFJuEqwuvZRjWULDr0rEx"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "UNDER8ED",
-        "url": "https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD"
-      },
-      "artists": [
-        {
-          "name": "Pardison Fontaine",
-          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 170229,
-      "name": "Peach (feat. City Girls)",
-      "url": "https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 190491,
-      "name": "Flewed Out",
-      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 176308,
-      "name": "Take Yo Man",
-      "url": "https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Trying To Find My Next Thrill",
         "url": "https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98"
@@ -485,7 +393,99 @@
       "url": "https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 121386,
+      "name": "Jobs",
+      "url": "https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Wiggle It (feat. City Girls)",
+        "url": "https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 172048,
+      "name": "Wiggle It (feat. City Girls)",
+      "url": "https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 176308,
+      "name": "Take Yo Man",
+      "url": "https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "UNDER8ED",
+        "url": "https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 170229,
+      "name": "Peach (feat. City Girls)",
+      "url": "https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 190491,
+      "name": "Flewed Out",
+      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Top Notch (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
@@ -505,43 +505,7 @@
       "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 131631,
-      "name": "Double CC's",
-      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Caramel (feat. City Girls)",
-        "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "Caramel (feat. City Girls)",
-      "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Shisha",
         "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
@@ -561,7 +525,39 @@
       "url": "https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Where The Bag At",
+      "url": "https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 131631,
+      "name": "Double CC's",
+      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Queen of Da Souf",
         "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
@@ -581,23 +577,7 @@
       "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Where The Bag At",
-      "url": "https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Throw Fits (feat. City Girls & Juvenile)",
         "url": "https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB"
@@ -625,23 +605,27 @@
       "url": "https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+        "name": "Caramel (feat. City Girls)",
+        "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
       },
       "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 115987,
-      "name": "That's My Bitch",
-      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
+      "duration_ms": 232941,
+      "name": "Caramel (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
@@ -661,7 +645,7 @@
       "url": "https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "PERIOD",
         "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
@@ -677,7 +661,23 @@
       "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 115987,
+      "name": "That's My Bitch",
+      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly"
@@ -729,27 +729,7 @@
       "url": "https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "JT First Day Out",
-        "url": "https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 187679,
-      "name": "JT First Day Out",
-      "url": "https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "PERIOD",
         "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
@@ -765,27 +745,7 @@
       "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "Thug Luv",
-        "url": "https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G"
-      },
-      "artists": [
-        {
-          "name": "Trouble",
-          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "She A Winner",
-      "url": "https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "15",
         "url": "https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12"
@@ -805,23 +765,27 @@
       "url": "https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
-        "name": "You Tried It",
-        "url": "https://open.spotify.com/album/5whQ0P8HBzpQHmvKioxbkz"
+        "name": "JT First Day Out",
+        "url": "https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx"
       },
       "artists": [
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
         }
       ],
-      "duration_ms": 126870,
-      "name": "You Tried It",
-      "url": "https://open.spotify.com/track/7q8BhxU2ZpUlXqmEy6nKFb"
+      "duration_ms": 187679,
+      "name": "JT First Day Out",
+      "url": "https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "43VA HEARTLESS",
         "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
@@ -841,7 +805,59 @@
       "url": "https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "Thug Luv",
+        "url": "https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G"
+      },
+      "artists": [
+        {
+          "name": "Trouble",
+          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "She A Winner",
+      "url": "https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Rap Shit",
+      "url": "https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
+      "album": {
+        "name": "You Tried It",
+        "url": "https://open.spotify.com/album/5whQ0P8HBzpQHmvKioxbkz"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 126870,
+      "name": "You Tried It",
+      "url": "https://open.spotify.com/track/7q8BhxU2ZpUlXqmEy6nKFb"
+    },
+    {
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
@@ -869,23 +885,7 @@
       "url": "https://open.spotify.com/track/7o3aoh8XuZ6lvn8jQvw6So"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Rap Shit",
-      "url": "https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh"
-    },
-    {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/6gqvCJJY8Sh4opRxXVO7A7"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Bad Boys For Life Soundtrack",
         "url": "https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Fuck It Up (feat. City Girls & Tyga)",
         "url": "https://open.spotify.com/album/1V4dbLC7PqSzf0cXKWIwzk"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/1ri9bBxmv1CmAuA55g8Xvh"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Cyncerely, C3",
         "url": "https://open.spotify.com/album/6uNuXilVlRxt9ryawO1nCS"
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/5EgSl85L3mZlAQFUt4I4BG"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
@@ -982,14 +982,18 @@
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         }
       ],
-      "duration_ms": 152544,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/6RApNG1hgOvOQvrVvkvWNh"
+      "duration_ms": 158798,
+      "name": "Give It A Try (feat. Jacquees)",
+      "url": "https://open.spotify.com/track/3xLyP5emNmRuzrddcWAa5z"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
         "name": "Kitty Talk (feat. Quavo, Lil Wayne, & Jack Harlow) [Remix]",
         "url": "https://open.spotify.com/album/000xZHv6vq55FegQNqELgN"
@@ -1017,24 +1021,28 @@
       "url": "https://open.spotify.com/track/4n4yWZbhlyHrgFs9ztg21K"
     },
     {
-      "added_at": "2022-11-25 14:27:18",
+      "added_at": "2023-02-01 17:51:27",
       "album": {
-        "name": "Scared (from the \"Bruised\" Soundtrack)",
-        "url": "https://open.spotify.com/album/1VuOFnoveM2MzoLSEeTEHk"
+        "name": "All Monsters Are Human",
+        "url": "https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA"
       },
       "artists": [
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
         },
         {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 159326,
-      "name": "Scared - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG"
+      "duration_ms": 212230,
+      "name": "Supahood",
+      "url": "https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi"
     }
   ],
   "unique_name": "This Is City Girls",

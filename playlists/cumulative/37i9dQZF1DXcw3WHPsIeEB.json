@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Progressive beats and harmonies for the late hours.",
   "name": "Night Vision",
-  "published_playlist_ids": [
-    "1JHfEmSUyPHhf48VoBCtg6"
-  ],
   "tracks": [
     {
       "album": {
@@ -481,10 +478,32 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 234066,
       "name": "Hang Glide",
       "url": "https://open.spotify.com/track/0XbdhHYvrfmUeMd6NaCfmN"
+    },
+    {
+      "album": {
+        "name": "Hang Glide",
+        "url": "https://open.spotify.com/album/1jF5hnhL0sfEyShSzgQc1r"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        },
+        {
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234066,
+      "name": "Hang Glide",
+      "url": "https://open.spotify.com/track/5oQf54oJ9Syx0SM5utTsbl"
     },
     {
       "album": {

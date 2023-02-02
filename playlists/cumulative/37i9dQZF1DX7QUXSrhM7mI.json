@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "The soundtrack to snuggling on the sofa, scrolling.",
   "name": "Lazy Afternoon",
-  "published_playlist_ids": [
-    "3gZOIKvsBM5WJ1qvKLnFBv"
-  ],
   "tracks": [
     {
       "album": {
@@ -275,6 +272,28 @@
       "duration_ms": 209760,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
+    },
+    {
+      "album": {
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "album": {
@@ -667,7 +686,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 169744,
       "name": "golden years",
       "url": "https://open.spotify.com/track/4xP5bdGofMzMQyH1TDFPp8"
@@ -765,6 +784,24 @@
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "album": {
+        "name": "How Are You?",
+        "url": "https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169499,
+      "name": "How Are You?",
+      "url": "https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ"
     },
     {
       "album": {
@@ -1097,7 +1134,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 154865,
       "name": "Love Is Letting Go (feat. Diane Keaton)",
       "url": "https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ"
@@ -1508,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234156,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
+    },
+    {
+      "album": {
         "name": "rest in peace",
         "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
       },
@@ -1815,7 +1870,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 200292,
       "name": "Summer Vibe",
       "url": "https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k"
@@ -1851,7 +1906,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-02-01",
       "duration_ms": 228293,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ"
@@ -1931,6 +1986,24 @@
       "duration_ms": 260986,
       "name": "The Limit To Your Love",
       "url": "https://open.spotify.com/track/2R2sXZXyRcEMdoHxeYyBtF"
+    },
+    {
+      "album": {
+        "name": "The Only Exception",
+        "url": "https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262066,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
     },
     {
       "album": {
@@ -2039,7 +2112,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-12",
       "duration_ms": 268853,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
@@ -2075,7 +2148,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 250836,
       "name": "Tim McGraw - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"

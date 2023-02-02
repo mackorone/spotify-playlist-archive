@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: DIKKE",
   "name": "RADAR BNLX",
-  "published_playlist_ids": [
-    "5PI9N3InPPtYz6UBLMEA8w"
-  ],
   "tracks": [
     {
       "album": {
@@ -151,6 +148,24 @@
     {
       "album": {
         "name": "Beef Met Mezelf",
+        "url": "https://open.spotify.com/album/6jCeJrk6lDb8IcT1nfDB4e"
+      },
+      "artists": [
+        {
+          "name": "DIKKE",
+          "url": "https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181707,
+      "name": "Bagage",
+      "url": "https://open.spotify.com/track/2AsHeHGOkCk9rEOz04j6Nq"
+    },
+    {
+      "album": {
+        "name": "Beef Met Mezelf",
         "url": "https://open.spotify.com/album/5a8T2MTqMj9HVPdTqjW36y"
       },
       "artists": [
@@ -161,7 +176,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 200701,
       "name": "Beef Met Mezelf",
       "url": "https://open.spotify.com/track/6XRENEEHLT8cE15VkccJZW"
@@ -215,7 +230,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 176500,
       "name": "Blijven Rijden",
       "url": "https://open.spotify.com/track/0mQJSaRQzKClGZXyORNy6U"
@@ -656,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Helen / Hou Me Vast",
+        "url": "https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202023,
+      "name": "Helen",
+      "url": "https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni"
       },
@@ -675,6 +708,24 @@
       "duration_ms": 223920,
       "name": "Home",
       "url": "https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I"
+    },
+    {
+      "album": {
+        "name": "Helen / Hou Me Vast",
+        "url": "https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Hou Me Vast",
+      "url": "https://open.spotify.com/track/575YSTycxx4BQpgNB5oG49"
     },
     {
       "album": {
@@ -1412,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Scars On My Skin",
+        "url": "https://open.spotify.com/album/3Otn8P0b8DHJpLLX5QyrF0"
+      },
+      "artists": [
+        {
+          "name": "Kaleem Taylor",
+          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184827,
+      "name": "Scars On My Skin",
+      "url": "https://open.spotify.com/track/2GLh4XC9C7FJQorZ1160kT"
+    },
+    {
+      "album": {
         "name": "Bae Doven No. 1",
         "url": "https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH"
       },
@@ -1535,6 +1604,24 @@
       "duration_ms": 224761,
       "name": "Souljack",
       "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
+    },
+    {
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/7FmvaMUnvgCE77Sr47GoZV"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159378,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/38PpCriX9SO5ueEoJeTbLN"
     },
     {
       "album": {
@@ -1791,7 +1878,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 274872,
       "name": "What Goes, Let Go",
       "url": "https://open.spotify.com/track/21jath1y9BcbV3tZKUXFw4"
@@ -1827,7 +1914,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 164739,
       "name": "Who\u2019s Gonna Be The GOAT?",
       "url": "https://open.spotify.com/track/43lovrb0yCRgUzM3CA2KNz"

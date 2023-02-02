@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-03",
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
   "name": "Cumbia Santafesina",
-  "published_playlist_ids": [
-    "6VpP8JPY2B7vhKnzWlgYHi"
-  ],
   "tracks": [
     {
       "album": {
@@ -77,7 +74,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 198410,
       "name": "Abrime Pronto",
       "url": "https://open.spotify.com/track/1g8Xa95Ymyfz0TYGTLy0QK"
@@ -610,6 +607,24 @@
     },
     {
       "album": {
+        "name": "CUMBIA, CUMBIA, CUMBIA",
+        "url": "https://open.spotify.com/album/6xfbKv5OeSyeGxh12mGkHb"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171526,
+      "name": "CUMBIA, CUMBIA, CUMBIA",
+      "url": "https://open.spotify.com/track/3suelWfLweuFrb1Fbgsg94"
+    },
+    {
+      "album": {
         "name": "Solo (Amistad... o Nada!!!)",
         "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
       },
@@ -679,6 +694,24 @@
       "duration_ms": 199666,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu"
+    },
+    {
+      "album": {
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175545,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr"
     },
     {
       "album": {
@@ -791,7 +824,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 189629,
       "name": "Dos Hombres y un Destino",
       "url": "https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT"
@@ -1343,7 +1376,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 215174,
       "name": "Hasta el Sol de Hoy",
       "url": "https://open.spotify.com/track/1lT6GEEYN0loScdr9sES0C"
@@ -1796,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Roto Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4GsB3eiy9rNVxJkp9zAF1a"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 168376,
+      "name": "Mar\u00eda La Celosa",
+      "url": "https://open.spotify.com/track/1nNoRIDoMBVqRJJ2yRSIXT"
+    },
+    {
+      "album": {
         "name": "Todo Fue un Error",
         "url": "https://open.spotify.com/album/1R5PN1hvvafPIRm1et6uua"
       },
@@ -1981,7 +2032,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 202213,
       "name": "No la Beses",
       "url": "https://open.spotify.com/track/0i8Ri3yOkErzAX8eOGfRH1"
@@ -2086,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "No se va",
+        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258937,
+      "name": "No se va",
+      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
+    },
+    {
+      "album": {
         "name": "La Gorda Me Quiere",
         "url": "https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63"
       },
@@ -2115,7 +2184,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 158378,
       "name": "Olvida Tus Penas",
       "url": "https://open.spotify.com/track/7KkXWc0zcmCy92YoeVW0dp"
@@ -2238,6 +2307,28 @@
     },
     {
       "album": {
+        "name": "25 A\u00f1os",
+        "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
+      },
+      "artists": [
+        {
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 222161,
+      "name": "Paloma",
+      "url": "https://open.spotify.com/track/3MxI6yhm9SPQSB1xXmvcfs"
+    },
+    {
+      "album": {
         "name": "Grupo Trinidad y Sus Cantantes",
         "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
       },
@@ -2267,7 +2358,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 215722,
       "name": "Perdido por Ti",
       "url": "https://open.spotify.com/track/5nYFh4mbCDGDVHse3PuCKy"
@@ -2620,6 +2711,28 @@
     },
     {
       "album": {
+        "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
+        "url": "https://open.spotify.com/album/7z9ypqgQPktGexQMhC9B0U"
+      },
+      "artists": [
+        {
+          "name": "Los Amantes",
+          "url": "https://open.spotify.com/artist/0q3fDLNtzfvjdbkeYteCsq"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 415610,
+      "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
+      "url": "https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu"
+    },
+    {
+      "album": {
         "name": "Se\u00f1ora",
         "url": "https://open.spotify.com/album/4hQ4VYg0smShJl3iEY42tI"
       },
@@ -2743,7 +2856,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 184058,
       "name": "Son de Amores / Vanidosa",
       "url": "https://open.spotify.com/track/7CAw9ylqrfW47tfyI6elLs"
@@ -3190,6 +3303,28 @@
     },
     {
       "album": {
+        "name": "Vivo Pensando en ti",
+        "url": "https://open.spotify.com/album/662eLNGODT9RQskLX0Y5Nx"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Sensaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0qgjKIM2Zd6fWKcYgwZmPE"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 238367,
+      "name": "Vivo Pensando en ti",
+      "url": "https://open.spotify.com/track/5GvCjJyuH91YhtEl9iKvlY"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n"
       },
@@ -3255,7 +3390,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201066,
       "name": "Y Que De M\u00ed",
       "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"

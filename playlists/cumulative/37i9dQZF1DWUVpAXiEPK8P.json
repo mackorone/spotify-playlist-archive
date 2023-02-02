@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "For whatever activity you do that may need a punch of intensity!",
   "name": "Power Workout",
-  "published_playlist_ids": [
-    "1oJeOPmShDcRBjFvIb3Azw"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": "2023-01-05",
       "duration_ms": 163797,
       "name": "21",
       "url": "https://open.spotify.com/track/3JKgcAa7r07ocVWcV8bS0H"
@@ -241,6 +238,24 @@
       "duration_ms": 158332,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/40xx4FFeandutDmaK3qEqj"
+      },
+      "artists": [
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221100,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/4z5WcMruV9ABwG9pJE1GT2"
     },
     {
       "album": {
@@ -517,7 +532,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 209693,
       "name": "Back2Roadz",
       "url": "https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN"
@@ -2071,7 +2086,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 194036,
       "name": "G Nikes (feat. Polo G)",
       "url": "https://open.spotify.com/track/7asQMsxC6dNgY0inCzJC5O"
@@ -2786,6 +2801,24 @@
     },
     {
       "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "album": {
         "name": "Killin Dem",
         "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
       },
@@ -2985,7 +3018,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
@@ -3105,7 +3138,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 326466,
       "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
@@ -3127,6 +3160,28 @@
       "duration_ms": 170946,
       "name": "Lottery (Renegade)",
       "url": "https://open.spotify.com/track/4dZTZbmJBCCofAExHwefda"
+    },
+    {
+      "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
     },
     {
       "album": {
@@ -3191,7 +3246,7 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170501,
@@ -3560,6 +3615,24 @@
     },
     {
       "album": {
+        "name": "Nack",
+        "url": "https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d"
+      },
+      "artists": [
+        {
+          "name": "The Therapist",
+          "url": "https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "Nack",
+      "url": "https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1"
+    },
+    {
+      "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },
@@ -3785,7 +3858,7 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 261543,
@@ -3805,7 +3878,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-17",
       "duration_ms": 135959,
       "name": "On Me",
       "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
@@ -3859,7 +3932,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 160000,
       "name": "One Up",
       "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
@@ -4463,7 +4536,7 @@
           "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "date_added": "2022-11-15",
+      "date_added": "2022-11-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 239359,
@@ -4589,7 +4662,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 232048,
       "name": "Run It Up (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
@@ -5381,7 +5454,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 283196,
       "name": "To The Bone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
@@ -5635,7 +5708,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 276147,
       "name": "Walk It Talk It",
       "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
@@ -5785,7 +5858,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 147511,
       "name": "We Up",
       "url": "https://open.spotify.com/track/2bJojWEUKvijZaSo7Jfh0W"
@@ -5821,7 +5894,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 139741,
       "name": "WHATS POPPIN",
       "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"

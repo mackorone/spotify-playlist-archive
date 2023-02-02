@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "",
   "name": "Ninja Tune - New Releases",
-  "published_playlist_ids": [
-    "00UhKXWqnjDp1h5ObJQWCd"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 342053,
       "name": "Age of Phase",
       "url": "https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM"
@@ -299,7 +296,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 206750,
       "name": "Blush Me Out!",
       "url": "https://open.spotify.com/track/7At2LwoalVOj9MY9GH1EST"
@@ -317,7 +314,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 164071,
       "name": "Body Mind Hell",
       "url": "https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq"
@@ -502,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Lose Time",
+        "url": "https://open.spotify.com/album/4LertToXpmjRS34cm3TrUq"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373802,
+      "name": "Don\u2019t Lose Time",
+      "url": "https://open.spotify.com/track/3I1CfmUZZrLAyYY4zm409Y"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr"
       },
@@ -557,6 +572,28 @@
       "duration_ms": 209614,
       "name": "Faint of Hearts",
       "url": "https://open.spotify.com/track/0CaOlIGjs5oZH8V7zzTEIb"
+    },
+    {
+      "album": {
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335383,
+      "name": "Fold",
+      "url": "https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG"
     },
     {
       "album": {
@@ -857,6 +894,24 @@
       "duration_ms": 230643,
       "name": "I Just Want To Love You",
       "url": "https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4"
+    },
+    {
+      "album": {
+        "name": "I Just Want To Love You (Club Version)",
+        "url": "https://open.spotify.com/album/3S948ScIz3AJ0QvPcXF9C6"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304990,
+      "name": "I Just Want To Love You - Club Version",
+      "url": "https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk"
     },
     {
       "album": {
@@ -1271,7 +1326,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 203505,
       "name": "Not You Anymore",
       "url": "https://open.spotify.com/track/0uRlksJ4Cv20KK0nYuzLxR"
@@ -1409,6 +1464,24 @@
       "duration_ms": 205141,
       "name": "Ressaca",
       "url": "https://open.spotify.com/track/32Gt9yyt4yDKD8sVyGS1ig"
+    },
+    {
+      "album": {
+        "name": "Rice",
+        "url": "https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
     },
     {
       "album": {
@@ -1612,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Tell Somebody",
+        "url": "https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 190812,
+      "name": "Tell Somebody",
+      "url": "https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt"
+    },
+    {
+      "album": {
         "name": "The Last Goodbye (feat. Bettye LaVette)",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -1657,6 +1748,32 @@
       "duration_ms": 236936,
       "name": "The Last Goodbye (feat. Bettye LaVette) - DJ Seinfeld Remix",
       "url": "https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p"
+    },
+    {
+      "album": {
+        "name": "The Last Goodbye (Hayden James Remix)",
+        "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224908,
+      "name": "The Last Goodbye (feat. Bettye LaVette) - Hayden James Remix",
+      "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
     },
     {
       "album": {
@@ -1811,7 +1928,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 320009,
       "name": "Troopa",
       "url": "https://open.spotify.com/track/0wrBjtMrRznJgK92WFsA7e"
@@ -1836,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/17RXzKiPyfV4Ud7ii1atEP"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Artadi",
+          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206662,
+      "name": "Visionary",
+      "url": "https://open.spotify.com/track/1JXAauW28NaabFzWBucAJk"
+    },
+    {
+      "album": {
         "name": "Vocoder",
         "url": "https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN"
       },
@@ -1847,7 +1982,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 455000,
       "name": "Vocoder",
       "url": "https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD"

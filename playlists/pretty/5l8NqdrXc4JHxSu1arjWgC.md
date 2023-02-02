@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,754 likes - 658 songs - 1 day 20 hr 13 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,955 likes - 666 songs - 1 day 20 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 13 | [Ambulance Blues \- 2016 Remaster](https://open.spotify.com/track/4jUvuCcFjZaAIFoZMh77kW) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [On the Beach](https://open.spotify.com/album/3w5Hok05AFjCLy269xXM7e) | 8:56 |
 | 14 | [Hurdy Gurdy Man](https://open.spotify.com/track/7AL6qzIDHIX7pEUWrzNiIs) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [The Hurdy Gurdy Man](https://open.spotify.com/album/22fHNsb3nrjDdPoKF7kdPz) | 3:13 |
 | 15 | [Deadweight](https://open.spotify.com/track/6gZcPNxufeLtRbznS1Odji) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Odelay \(Deluxe Edition\)](https://open.spotify.com/album/64vPyY759lLETSt8rvc7Sf) | 6:12 |
-| 16 | [Chest Fever \- Remastered](https://open.spotify.com/track/2uMbDaPM5knVhHlDXqCc2c) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:13 |
+| 16 | [Chest Fever \- Remastered 2000](https://open.spotify.com/track/2uMbDaPM5knVhHlDXqCc2c) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:13 |
 | 17 | [Custard Pie \- 1990 Remaster](https://open.spotify.com/track/5cgL1YdlGWR5KfncpAGFQk) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(1994 Remaster\)](https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F) | 4:13 |
 | 18 | [The Wanton Song \- 1990 Remaster](https://open.spotify.com/track/2256UUbtBrQJSrbzYpDviT) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(1994 Remaster\)](https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F) | 4:09 |
 | 19 | [1880 Or So](https://open.spotify.com/track/5kRGLbl5wemYO1zFPjyJcz) | [Television](https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli) | [Television](https://open.spotify.com/album/1Da5exlBUnN4vxUInOxaKD) | 3:41 |
@@ -267,7 +267,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 257 | [All You Ever Wanted](https://open.spotify.com/track/5BqMq1J8wf3raTkewRftY4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 2:56 |
 | 258 | [Celebration Day \- Remaster](https://open.spotify.com/track/78MXICbE7bD4cuPKFh1EFO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:30 |
 | 259 | [How Sweet to Be an Idiot \- 2007 Remaster](https://open.spotify.com/track/512g8sFxfMjqTFUQikmMG9) | [Neil Innes](https://open.spotify.com/artist/1Os8dbAw15y0pCfTZH0Sq0) | [Keynsham](https://open.spotify.com/album/2jilIHMgdLrXClngtdHdjN) | 2:52 |
-| 260 | [Hey Now \- 2005 Remaster](https://open.spotify.com/track/7lC0o1o2cNBKuhHdXns4F2) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [True Stories \(Deluxe Version\)](https://open.spotify.com/album/4LiLg6t10oOw8csXA1CQ0Y) | 3:41 |
+| 260 | [Hey Now \- 2005 Remaster](https://open.spotify.com/track/7lC0o1o2cNBKuhHdXns4F2) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [True Stories \(Deluxe Version\)](https://open.spotify.com/album/4LiLg6t10oOw8csXA1CQ0Y) | 3:41 |
 | 261 | [Nothing Left to Lose](https://open.spotify.com/track/3ygfz94pyD2h9rLTQu8BJw) | [Wipers](https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2) | [Best Of The Wipers And Greg Sage](https://open.spotify.com/album/37DFE46zvHveNgwANFs0SG) | 4:50 |
 | 262 | [300 M.P.H\. Torrential Outpour Blues](https://open.spotify.com/track/2Zbnh37ISbOOaTu4If4lhu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU) | 5:28 |
 | 263 | [Baby, You're A Rich Man \- Remastered 2009](https://open.spotify.com/track/0JBvtprXP2Z0LP3jmzA7Xp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 3:01 |
@@ -666,5 +666,13 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 656 | [Hang a Cross on Me](https://open.spotify.com/track/3WbDe3G6zK798x8J0YUxOR) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s), [Cowboy John](https://open.spotify.com/artist/5m3zenzxU6mfbi5HwVBgR4) | [9 \(Deluxe Edition\)](https://open.spotify.com/album/1OPNyMf1xQGDLE1PEwdkgs) | 4:45 |
 | 657 | [Goggles](https://open.spotify.com/track/4ynX5irsZTPYHjWUOwrREQ) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Post Animal Perform the Most Curious Water Activities](https://open.spotify.com/album/6Uw9scOB4zagR04P2YBQYp) | 5:24 |
 | 658 | [Arrow Through Me \- Remastered 1993](https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Back To The Egg](https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc) | 3:36 |
+| 659 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 |
+| 660 | [It's All In Your Mind \(feat\. Graham Coxon & Rahel Debebe\-Dessalegne\)](https://open.spotify.com/track/0GybSKd5oGeLMtCLbXhBoQ) | [Superstate](https://open.spotify.com/artist/0TLcN68jey7bYM2HQEdRgi), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rahel Debebe\-Dessalegne](https://open.spotify.com/artist/2SDNXRQ8uX3TJxu4t6EEO3) | [Superstate \(feat\. Graham Coxon\)](https://open.spotify.com/album/265K7BOpojsq3RvCVbjz1z) | 4:38 |
+| 661 | [Skinny Ape](https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Skinny Ape](https://open.spotify.com/album/1TCT6Wf9RHMYX7jQl5Q2xG) | 4:41 |
+| 662 | [The Mole From The Ministry \- 2001 Mix](https://open.spotify.com/track/2RHt1SrW1M4yBG3cUBjBz2) | [The Dukes Of Stratosphear](https://open.spotify.com/artist/1ilhXoWIlGxz3fM4B24mNo) | [Chips From The Chocolate Fireball](https://open.spotify.com/album/46ZRujqytRXcbgloCKA9Q7) | 5:58 |
+| 663 | [Runaways \- 2001 Remaster](https://open.spotify.com/track/6Z4O4Ugbk9jpDrXyrpFG8g) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [English Settlement](https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM) | 4:34 |
+| 664 | [Keep On Dreamin'](https://open.spotify.com/track/39ANGjy2wj0FpdL9jn670l) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Sunshine](https://open.spotify.com/album/3sjAsmZhY1zywVwQcGQ8o7) | 4:26 |
+| 665 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 |
+| 666 | [To the Moon](https://open.spotify.com/track/02WFT9dNg31Skl02dPT1ei) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [To the Moon](https://open.spotify.com/album/5T9fiTYrP7eZ6d47VR86Y8) | 2:50 |
 
-Snapshot ID: `MTY4MSw3OWZjMDhkNzY1NzMyYWZkYjYwNmFmNWJjZGVkNmU4Y2JmYjE5M2Qy`
+Snapshot ID: `MTY4OSw2NGVhYjk5ZGYyYTAxYmZhZmE4MDUzOTFmZGNmNDQ3YjI5OGQ2NjNl`

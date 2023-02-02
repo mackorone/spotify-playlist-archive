@@ -4,7 +4,7 @@
 
 > Songs from the 00s that made you sing and dance all summer long.
 
-91 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/2NewpeaZS7iw807az160yF)
+91 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

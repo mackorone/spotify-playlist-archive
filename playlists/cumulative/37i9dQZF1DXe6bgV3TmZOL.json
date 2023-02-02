@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
   "name": "Adrenaline Workout",
-  "published_playlist_ids": [
-    "4mv92fYpN7Khl6XYFzC35q"
-  ],
   "tracks": [
     {
       "album": {
@@ -193,6 +190,24 @@
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/58Eyr2rZWIYM19qhpals74"
+    },
+    {
+      "album": {
+        "name": "All Animal",
+        "url": "https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6"
+      },
+      "artists": [
+        {
+          "name": "Through Fire",
+          "url": "https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210742,
+      "name": "All Animal",
+      "url": "https://open.spotify.com/track/4PEHqVEh5MPmvdYw1oiIKI"
     },
     {
       "album": {
@@ -1025,7 +1040,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 200310,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5Cl9GDb0AyQnppRr6q7ldb"
@@ -1284,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
+    },
+    {
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
@@ -1339,7 +1372,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 314446,
       "name": "CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
       "url": "https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7"
@@ -1769,7 +1802,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 233333,
       "name": "Do You Really Want It",
       "url": "https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z"
@@ -2129,7 +2162,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 220688,
       "name": "FEEL NOTHING - RESET",
       "url": "https://open.spotify.com/track/54otdw8MmYNz2ewGHzmaTP"
@@ -2331,7 +2364,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 221973,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
@@ -2403,7 +2436,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 174937,
       "name": "Gonna Be OK",
       "url": "https://open.spotify.com/track/76CcaywQzcbgbDj7ovwXUO"
@@ -2655,7 +2688,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 265706,
       "name": "HEAVEN DON'T CRY",
       "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
@@ -2702,6 +2735,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        },
+        {
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202418,
+      "name": "Heretic",
+      "url": "https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY"
+    },
+    {
+      "album": {
         "name": "Deftones",
         "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
       },
@@ -2713,7 +2768,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 250893,
       "name": "Hexagram",
       "url": "https://open.spotify.com/track/2xgvuJvwjnaJHFHb66E3nq"
@@ -3121,7 +3176,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 204676,
       "name": "Just Pretend",
       "url": "https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ"
@@ -3251,6 +3306,24 @@
       "duration_ms": 167872,
       "name": "Learn To Walk Again",
       "url": "https://open.spotify.com/track/0WqNI4pN93epyGavKOHqgj"
+    },
+    {
+      "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198248,
+      "name": "Leave It All Behind",
+      "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
     },
     {
       "album": {
@@ -3715,7 +3788,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 214760,
       "name": "My Own Summer (Shove It)",
       "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
@@ -4065,7 +4138,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 227864,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
@@ -4101,7 +4174,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 200800,
       "name": "Panic",
       "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
@@ -4137,7 +4210,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 363680,
       "name": "Parabola",
       "url": "https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ"
@@ -4216,6 +4289,24 @@
     },
     {
       "album": {
+        "name": "Paranoid (Crash & Burn)",
+        "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235736,
+      "name": "Paranoid (Crash & Burn)",
+      "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
+    },
+    {
+      "album": {
         "name": "Parasite Eve",
         "url": "https://open.spotify.com/album/5PMPY8a70DCHnQic13XueL"
       },
@@ -4263,7 +4354,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 274333,
       "name": "Pet",
       "url": "https://open.spotify.com/track/27msmgcdSRniJHfocEf6EH"
@@ -4533,7 +4624,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 304493,
       "name": "Rational Gaze",
       "url": "https://open.spotify.com/track/5uqr3lCMWkyQx6yTvoMl4F"
@@ -4695,7 +4786,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 671360,
       "name": "Rosetta Stoned",
       "url": "https://open.spotify.com/track/0D8l86LXxKcgKAO17DfQsl"
@@ -5326,6 +5417,24 @@
     },
     {
       "album": {
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196051,
+      "name": "That's My Jam",
+      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
+    },
+    {
+      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -5355,7 +5464,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 182893,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/4vpJYmoqQ2bGkC1IKVWeIG"
@@ -5961,7 +6070,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 185502,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacar\u00e9",
   "name": "Segue o Baile",
-  "published_playlist_ids": [
-    "0gFxWIMRmT9sGRD0RQtCOA"
-  ],
   "tracks": [
     {
       "album": {
@@ -159,24 +156,6 @@
     {
       "album": {
         "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "date_added": "2022-05-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214153,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm"
-    },
-    {
-      "album": {
-        "name": "Azul Piscina",
         "url": "https://open.spotify.com/album/126OlMOJfhALwN6eaEWf84"
       },
       "artists": [
@@ -191,6 +170,28 @@
       "duration_ms": 214153,
       "name": "Azul Piscina",
       "url": "https://open.spotify.com/track/7ieFtgZBYSC94nGs5yF0Wk"
+    },
+    {
+      "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm"
     },
     {
       "album": {
@@ -513,24 +514,6 @@
     {
       "album": {
         "name": "Cheia de Marra",
-        "url": "https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "date_added": "2022-05-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 267049,
-      "name": "Cheia de Marra",
-      "url": "https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw"
-    },
-    {
-      "album": {
-        "name": "Cheia de Marra",
         "url": "https://open.spotify.com/album/6mQcoubTzMS13896aUpWGP"
       },
       "artists": [
@@ -545,6 +528,28 @@
       "duration_ms": 267795,
       "name": "Cheia de Marra",
       "url": "https://open.spotify.com/track/4gvePWCd0GfkC40QshflUy"
+    },
+    {
+      "album": {
+        "name": "Cheia de Marra",
+        "url": "https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267049,
+      "name": "Cheia de Marra",
+      "url": "https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw"
     },
     {
       "album": {
@@ -881,6 +886,10 @@
         {
           "name": "Mc Livinho",
           "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
       "date_added": "2022-05-20",
@@ -1725,6 +1734,10 @@
         {
           "name": "Mc Pedrinho",
           "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
       "date_added": "2022-05-20",

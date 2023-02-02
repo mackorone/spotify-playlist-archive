@@ -4,7 +4,7 @@
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-110 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/12kc3aOEIzE3ZnCYE8brGK)
+111 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,11 @@
 | [Activ\-8 \(Come with Me\)](https://open.spotify.com/track/4ZeT5M0UGhXzJa2IJ41Rjb) | [Altern 8](https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC) | [Greatest: Altern 8](https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe) | 5:34 | 2020-10-06 | 2022-07-29 |
 | [Ain't Talkin' 'Bout Dub](https://open.spotify.com/track/0lk1zdGFPEv6U7omOAqhSs) | [Apollo 440](https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7) | [Electro Glide In Blue](https://open.spotify.com/album/5SBkxQjY7zgrKDrpz6vcV8) | 4:30 | 2020-10-06 |  |
 | [Anasthasia](https://open.spotify.com/track/5uEjOkEKaOs5BFkGGahSR7) | [T99](https://open.spotify.com/artist/7A6k2eqQT5MnGj6Mq9vwcS) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 4:33 | 2020-10-06 | 2022-11-22 |
+| [Anthem](https://open.spotify.com/track/5czNuIU6g7l5jpefJRcPR4) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs) | [Anthem](https://open.spotify.com/album/3SFsRy1gfOGmcCpGkPrUSc) | 4:03 | 2020-10-06 |  |
 | [Anthem](https://open.spotify.com/track/3OmIL39latV0jEW8E68aoG) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs) | [Masters Series \- 90's House Party](https://open.spotify.com/album/6QuICThYwco66fUhxNhmgY) | 4:03 | 2020-10-06 | 2022-11-14 |
 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 | 2020-10-06 |  |
-| [Beep Street](https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS) | 6:37 | 2020-10-06 |  |
-| [Breaking Free](https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 5:40 | 2020-10-06 | 2022-11-13 |
+| [Beep Street](https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS) | 6:37 | 2020-10-06 | 2023-02-02 |
+| [Breaking Free](https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 5:40 | 2020-10-06 |  |
 | [Bunn the Sensi \- Dub Hustlers Remix](https://open.spotify.com/track/5rwaFjD2ctbrsvh8tFP4cM) | [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j) | [Rumble in the Jungle](https://open.spotify.com/album/5mucViTQhpvARXs9UCcHeg) | 5:50 | 2020-10-06 | 2022-05-10 |
 | [Camargue](https://open.spotify.com/track/3W6LDkmCTlAktnIt9yQrY3) | [CJ Bolland](https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 6:24 | 2020-10-06 | 2022-09-11 |
 | [Carmargue](https://open.spotify.com/track/0QPIixOXVmZI1KeMhIzHxv) | [CJ Bolland](https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng) | [In Order to Dance](https://open.spotify.com/album/1z1mTAGY4CI7FbzM5llGlg) | 6:25 | 2020-10-06 | 2022-07-29 |
@@ -61,7 +62,7 @@
 | [Keep The Fire Burning \- Original 12\-Inch Versions](https://open.spotify.com/track/0nOqKydHOJHPGm3zd2SAej) | [The House Crew](https://open.spotify.com/artist/4pApMs2qTlqTGwdHEJVeS4) | [Techno Party](https://open.spotify.com/album/2DSwIAQeu4bwSSgSplcFCW) | 6:31 | 2020-10-06 | 2022-07-27 |
 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 | 2020-10-06 |  |
 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 | 2020-10-06 |  |
-| [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 | 2020-10-06 |  |
+| [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 | 2020-10-06 | 2023-02-02 |
 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 | 2020-10-06 |  |
 | [Mentasm](https://open.spotify.com/track/4PkOr5eGNoTCDXxKHhNyMF) | [Second Phase](https://open.spotify.com/artist/63lbm57G8fAvPaHrhhVEvg) | [Mentasm](https://open.spotify.com/album/2lRKQ7GDg3iUvmAGmEIe0k) | 4:34 | 2020-10-06 | 2022-07-29 |
 | [Move Your Body](https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf) | [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body \(Elevation\) \- EP](https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink) | 3:51 | 2020-10-06 |  |

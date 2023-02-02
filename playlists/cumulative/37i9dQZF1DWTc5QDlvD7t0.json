@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-28",
   "description": "The best indie rock/pop/punk/dance/hip hop/r&b of 2019. Cover: Clairo",
   "name": "Ultimate Indie Presents... Best Tracks of 2019",
-  "published_playlist_ids": [
-    "5hz8Xvsg73JZ8spEinKWb8"
-  ],
   "tracks": [
     {
       "album": {
@@ -247,10 +244,28 @@
       ],
       "date_added": "2019-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 153508,
       "name": "Best Life",
       "url": "https://open.spotify.com/track/068XDWvE8tDnQsKo8J3x1Z"
+    },
+    {
+      "album": {
+        "name": "uknowhatimsayin\u00bf",
+        "url": "https://open.spotify.com/album/5RCXsrdnNwXGDgKVYpWKHW"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2019-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153508,
+      "name": "Best Life",
+      "url": "https://open.spotify.com/track/54YyC7XnYzbyY9HnqtNnfH"
     },
     {
       "album": {

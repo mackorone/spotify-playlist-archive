@@ -4,7 +4,7 @@
 
 > All 00s, all ballads\. Cover: Norah Jones
 
-108 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/0aBMvnmhVVq7DnIOckm0a1)
+108 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

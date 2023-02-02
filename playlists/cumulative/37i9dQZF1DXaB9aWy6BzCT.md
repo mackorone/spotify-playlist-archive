@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Daddy Yankee y Nicky Jam en un mismo lugar.
 
-90 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/2iNy939SfL8nLUv0oj5dNy)
+90 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,14 +62,14 @@
 | [Que Tire Pa Lante](https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Que Tire Pa Lante](https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t) | 3:30 | 2021-12-09 |  |
 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 | 2021-12-09 |  |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-08-17 |  |
-| [Satisfacción](https://open.spotify.com/track/21WvAGxPUNJARcZoSqswd7) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Satisfacción](https://open.spotify.com/album/54kKKlH1NeDeihHxTYEvGA) | 4:16 | 2021-12-09 |  |
+| [Satisfacción](https://open.spotify.com/track/21WvAGxPUNJARcZoSqswd7) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Satisfacción](https://open.spotify.com/album/54kKKlH1NeDeihHxTYEvGA) | 4:16 | 2021-12-09 |  |
 | [Shaky Shaky](https://open.spotify.com/track/4DLDu5aTPEpg69QlLG2lsY) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [40 Éxitos: Fiestón](https://open.spotify.com/album/4QfueEYpYMx5Eu6lhufXug) | 3:54 | 2022-08-17 | 2022-11-13 |
 | [Shaky Shaky](https://open.spotify.com/track/58IL315gMSTD37DOZPJ2hf) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Shaky Shaky](https://open.spotify.com/album/2zrLk90b4qjmrxRZKyIY7X) | 3:54 | 2021-12-09 | 2022-07-29 |
 | [Shaky Shaky](https://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Shaky Shaky](https://open.spotify.com/album/0j74hxgbgc4THmz7rasxgn) | 3:54 | 2022-07-27 |  |
 | [Si Supieras](https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Supieras](https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS) | 4:01 | 2021-12-09 |  |
 | [Si Tú No Estás](https://open.spotify.com/track/5BAmltzhQpFXtBddPN4sUf) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U) | 3:38 | 2021-12-09 | 2022-07-29 |
 | [Si Tú No Estás](https://open.spotify.com/track/2pDODfTQlKUvlq2lc83Whl) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Si Tú No Estás](https://open.spotify.com/album/0amNwDcNVIINDp6zXfjxSg) | 3:38 | 2022-07-27 |  |
-| [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 | 2022-08-17 |  |
+| [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 | 2022-08-17 | 2023-01-27 |
 | [Sígueme Y Te Sigo](https://open.spotify.com/track/1ClQpnPU9M6mQpXGvhGPvQ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0VrKUe36H6KPKSe9Y1FL2w) | 3:29 | 2021-12-09 | 2022-07-29 |
 | [Sígueme Y Te Sigo](https://open.spotify.com/track/4n5a3ANTvmFnwHMcUTTQ25) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Retro Urbano](https://open.spotify.com/album/0ftuinQ55uMVMfBcILaumH) | 3:29 | 2022-08-17 | 2022-11-13 |
 | [Sígueme Y Te Sigo](https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J) | 3:29 | 2022-07-27 |  |

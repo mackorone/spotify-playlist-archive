@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,158 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,464 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 4 | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/track/3j4bPNymMeOJOw0WXhc9FU) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/album/3VeyxUS5BOFLenyKbNsscq) | 2:31 |
 | 5 | [Tipo Tobi](https://open.spotify.com/track/45vigZiVUySqgsMXqxhtvp) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobi](https://open.spotify.com/album/5ufXwSFcC7e6DcromjzEBc) | 3:24 |
 | 6 | [Tripulação](https://open.spotify.com/track/2N9AvwuptNKvpF1BM5vl7E) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Tripulação](https://open.spotify.com/album/5czSNphndXvBgjXWz102vt) | 2:29 |
-| 7 | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/2iNZMMFEii4fU827NTyQ1J) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/4VazcwScVO1t0fXDXXqQVr) | 9:51 |
+| 7 | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/3YWdolIwRLOeLbmj5Q9lIO) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/22mM3uheuOoCmlbe2079WE) | 9:51 |
 | 8 | [Tipo Kisame](https://open.spotify.com/track/6PoHGkWg6VR2xXnKdMPMkn) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Kisame](https://open.spotify.com/album/2IrjtJ2rw6bAa2MKoPRRK3) | 3:11 |
 | 9 | [Tipo Hashirama](https://open.spotify.com/track/1vX0KmArqxz2b0ByQQp81H) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Hashirama](https://open.spotify.com/album/3bNAqFuhuEB3YejTOnyyQU) | 3:09 |
-| 10 | [Death Note](https://open.spotify.com/track/68ihXI8WnBpdrA8iLOirHw) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/0VsaLl72TuSij9cxQqBS1t) | 3:51 |
+| 10 | [Death Note](https://open.spotify.com/track/1K6yxhSJsQuMzDhtmk7W81) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/3odZS05zGujBVVRLMNEwR5) | 3:51 |
 | 11 | [Tipo Gotenks](https://open.spotify.com/track/4XfvgreDThgRwqZui7VNx8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Gotenks](https://open.spotify.com/album/0GKL2s9FkkKtK3wBFDbUfI) | 3:22 |
 | 12 | [União Otaku](https://open.spotify.com/track/4O2QJmD4iRshtmNwPhnAXg) | [Byakuran](https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR) | [União Otaku](https://open.spotify.com/album/5b8AZgNHUnSisyN2BaJeUz) | 2:19 |
 | 13 | [Revisão](https://open.spotify.com/track/3AQIGKFepAlEyMeV1VQVjZ) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Revisão](https://open.spotify.com/album/03SB4h85dE0paMinzDBIbO) | 4:35 |
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 22 | [Tipo Madara](https://open.spotify.com/track/5X4H4ZCxjwHFuj5CMtgJ6s) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Madara](https://open.spotify.com/album/7drkyFzSw3TI0sg7JPlynu) | 3:18 |
 | 23 | [Tipo Tobirama](https://open.spotify.com/track/4dmCXfDP4alC1JfQM3XB2h) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobirama](https://open.spotify.com/album/1dAqa80c24lQQyj0sdObb7) | 2:40 |
 | 24 | [Pique Minato](https://open.spotify.com/track/1hOuDUJ8pqh5gwGiZpl2xG) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Minato](https://open.spotify.com/album/5ri4PGz7cj1R9GTf5lHpr2) | 2:58 |
-| 25 | [Os Titãs Primordiais](https://open.spotify.com/track/5NHs07BtDcca8fOB8v9wNF) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4wD4408RcHK6fkx4UVUyi6) | 7:26 |
+| 25 | [Os Titãs Primordiais](https://open.spotify.com/track/3aZ0jBsXRFbiXIFDLZR6wa) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4k3S6NHWgwhVv16HAG2190) | 7:26 |
 | 26 | [Punição Divina](https://open.spotify.com/track/5zYv54TK6OKcEfM74HWkkY) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Punição Divina](https://open.spotify.com/album/05fzl1PzT4xtsxJok87zfV) | 4:01 |
 | 27 | [Tipo Levi](https://open.spotify.com/track/1cyyZkX9dUt8ilAfc96jg8) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Levi](https://open.spotify.com/album/2pu2qYzGmssUHGlj1fTOiL) | 3:29 |
-| 28 | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/track/1w20E6WZTvi5HsKua0NG7M) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/album/6ydM4MMf11n5nlX4AApjVl) | 3:03 |
+| 28 | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/track/6JxtFNFJUV9rC75lc4knS0) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/album/2WRMKQP4RqmmCNktiP6lQS) | 3:03 |
 | 29 | [Cria Da Folha](https://open.spotify.com/track/2g57Cb8iArpvKqfEArfZcY) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/7KbIvbXjnV4pbYATvuLDgl), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Cria Da Folha](https://open.spotify.com/album/74MIWbllspaCXOOGhX7UPb) | 2:39 |
 | 30 | [Rei dos Piratas](https://open.spotify.com/track/3CDYKrq6GAp7AIw6ujmVn1) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Rei dos Piratas](https://open.spotify.com/album/5o1Rdvz6hHdG957z6Z3f9w) | 3:29 |
 | 31 | [Chuva de Kunai](https://open.spotify.com/track/7iKZKK9gpHpOeW0Hwredfy) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/3VfiWdnJHEUHT34XUUn68f) | 3:19 |
-| 32 | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/track/3ksOOop62ZdT0MJuXttpxq) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/album/0JLQS1y6f2uTvyKP4izPAy) | 3:56 |
+| 32 | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/track/7DWialEIm1eklBVKQwxgFl) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/album/6YNpUmtjrGTzAhEh56QA6F) | 3:56 |
 | 33 | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/track/1Vc4CybtR522rCPaOnIfGq) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/album/3EqMHlH0AMgUmx7xgf73aI) | 4:36 |
 | 34 | [Pique Narutão](https://open.spotify.com/track/5b8WiNjA6ihEvaeB9J3eyQ) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Narutão](https://open.spotify.com/album/0NtyHYCaTcHk25sROuomEL) | 3:01 |
 | 35 | [Tipo Narutin](https://open.spotify.com/track/4nqvl1yLuiGO5C6TtwbKhS) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Narutin](https://open.spotify.com/album/0ikI9k4kn5GqbML5UrGQnF) | 3:08 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 48 | [Madara](https://open.spotify.com/track/3ZYSGRt1lnm25Br7TgE7P9) | [nakashisam](https://open.spotify.com/artist/3uGU5qTwDPeXKJRsOgehFR), [Nerexx](https://open.spotify.com/artist/7FN9bcVGUvnJO4ukEa54Rw), [Tukatrip](https://open.spotify.com/artist/41xThDLkAI5bNLiX8eFp1T) | [Madara](https://open.spotify.com/album/6NxlhpWn2vXP8xXWquPFCK) | 4:25 |
 | 49 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MTY1MzYyMDU4MCwwMDAwMDAwMGM1ZTMwZGNhNjFmOGVkMzdjZmNlZjNmNzU1MzY5NGY4`
+Snapshot ID: `MTY1MzYyMDU4MCwwMDAwMDAwMGQ2Njk5YmY2M2E2YjAzYmM0YWE0YzA1YmM0YTdiODdj`

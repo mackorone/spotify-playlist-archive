@@ -4,7 +4,7 @@
 
 > Zambia had a huge rock explosion in the 70’s that shook the world! Here are some classic Zamrock jams!
 
-34 songs - 2 hr 19 min - [published](https://open.spotify.com/playlist/3ppTHOvW7TIZZAqRMlrUMS)
+34 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

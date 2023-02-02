@@ -2,14 +2,14 @@
 
 ### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
 
-> Country that made country cool! Cover: Vince Gill
+> We're celebrating 25 years of The Chicks' iconic album "Wide Open Spaces" on 90s Country!
 
-182 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/5IDkbO4ORcphFP9N9pX9l7)
+182 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(This Ain't\) No Thinkin' Thing](https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 4:02 | 2021-10-22 |  |
-| [26 \(Cents Sign\)](https://open.spotify.com/track/2Qqby4S52keCDukyq5EcBZ) | [The Wilkinsons](https://open.spotify.com/artist/17VaTNp7RfgYr5JAJKTqAv) | [Nothing But Love](https://open.spotify.com/album/5CwUOKNOkuw4hytMNdrV1z) | 3:51 | 2021-10-22 | 2022-11-13 |
+| [26 \(Cents Sign\)](https://open.spotify.com/track/2Qqby4S52keCDukyq5EcBZ) | [The Wilkinsons](https://open.spotify.com/artist/17VaTNp7RfgYr5JAJKTqAv) | [Nothing But Love](https://open.spotify.com/album/5CwUOKNOkuw4hytMNdrV1z) | 3:51 | 2021-10-22 |  |
 | [455 Rocket](https://open.spotify.com/track/7FtuKCaePFfKqGetBYHxS1) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Love Travels](https://open.spotify.com/album/0CJHlDOZfCIVARQkcMgQ7m) | 4:09 | 2022-07-27 |  |
 | [A Broken Wing](https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Evolution](https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP) | 3:35 | 2022-07-27 |  |
 | [A Little Less Talk And A Lot More Action](https://open.spotify.com/track/7ojVoUWBAUP701iFpdKnFu) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 2:49 | 2022-07-27 |  |
@@ -33,7 +33,7 @@
 | [Bubba Shot The Jukebox](https://open.spotify.com/track/0PsBdKWnOQGMo9smobflvy) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Longnecks & Short Stories](https://open.spotify.com/album/3GAq1vI6aQ5gZu53e8DZFy) | 3:05 | 2021-10-22 |  |
 | [Butterfly Kisses](https://open.spotify.com/track/0bzMGPZuTVWhdTam2J0nrL) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE) | [Butterfly Kisses](https://open.spotify.com/album/6QQhfoGXa2EIgiGvvI2Mp9) | 3:59 | 2022-03-28 | 2022-07-29 |
 | [Bye\-Bye](https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:20 | 2021-10-22 |  |
-| [Carried Away](https://open.spotify.com/track/3wGoIFHqCl36tu9Ne3guos) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 3:22 | 2021-10-22 |  |
+| [Carried Away](https://open.spotify.com/track/3wGoIFHqCl36tu9Ne3guos) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 3:22 | 2021-10-22 | 2023-01-20 |
 | [Carrying Your Love With Me](https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Carrying Your Love With Me](https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ) | 3:52 | 2021-10-22 |  |
 | [Chasin' That Neon Rainbow](https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Here In The Real World](https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e) | 3:05 | 2021-10-22 |  |
 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 | 2021-10-22 |  |
@@ -43,7 +43,7 @@
 | [Does He Love You](https://open.spotify.com/track/0wFQnci5YCcwbKAWNBzqiA) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Linda Davis](https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv) | [Reba McEntire's Greatest Hits, Volume Two](https://open.spotify.com/album/3NwDZMQupPwdNaLT9js5sR) | 4:20 | 2021-10-22 |  |
 | [Don't Let Our Love Start Slippin' Away](https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:44 | 2021-10-22 |  |
 | [Down at the Twist and Shout](https://open.spotify.com/track/76BuIHRNV8KDdrYveZBOOa) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [The Essential Mary Chapin Carpenter](https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9) | 3:21 | 2022-07-27 |  |
-| [Down On The Farm](https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 2:58 | 2021-10-22 |  |
+| [Down On The Farm](https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 2:58 | 2021-10-22 | 2023-01-20 |
 | [Down To My Last Teardrop](https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [What Do I Do With Me](https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa) | 3:30 | 2022-07-27 |  |
 | [Dream Walkin'](https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 3:57 | 2021-10-22 | 2022-07-29 |
 | [Drink, Swear, Steal & Lie](https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA) | [Michael Peterson](https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz) | [Michael Peterson](https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC) | 3:02 | 2021-10-22 |  |
@@ -61,7 +61,7 @@
 | [He Thinks He'll Keep Her](https://open.spotify.com/track/5ANnHcFKjGAC98A7Qkaepd) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [The Essential Mary Chapin Carpenter](https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9) | 4:03 | 2022-07-27 |  |
 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [JoDee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:29 | 2022-07-27 |  |
 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 | 2021-10-22 |  |
-| [Hillbilly Shoes](https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Tattoos & Scars](https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5) | 3:12 | 2021-10-22 | 2022-11-13 |
+| [Hillbilly Shoes](https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Tattoos & Scars](https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5) | 3:12 | 2021-10-22 |  |
 | [Honey, I'm Home](https://open.spotify.com/track/2lvJIKJYyV9gkQVN1NoSMg) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:33 | 2021-10-22 | 2022-07-29 |
 | [Honey, I'm Home](https://open.spotify.com/track/39IoZIC8eEirT1v70rqSPq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:35 | 2022-07-27 |  |
 | [Honey, I'm Home](https://open.spotify.com/track/1QPO9WrFcfbOshnHChhud3) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 3:36 | 2022-08-31 | 2022-11-13 |
@@ -75,7 +75,7 @@
 | [I Can Still Make Cheyenne](https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 4:16 | 2021-10-22 |  |
 | [I Do](https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [Calm Before the Storm](https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR) | 3:40 | 2021-10-22 |  |
 | [I Feel Lucky](https://open.spotify.com/track/7GswRwV5zQcMsys9niOQ87) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Come On Come On](https://open.spotify.com/album/1PLDejXS69FJQ19iwzEPvY) | 3:31 | 2021-10-22 | 2022-07-29 |
-| [I Just Want To Dance With You](https://open.spotify.com/track/4cdAXfguhQHYFkvuuzye1m) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [One Step At A Time](https://open.spotify.com/album/2btiLFlL9jzIIHbId5cufS) | 3:30 | 2021-10-22 | 2022-11-23 |
+| [I Just Want To Dance With You](https://open.spotify.com/track/4cdAXfguhQHYFkvuuzye1m) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [One Step At A Time](https://open.spotify.com/album/2btiLFlL9jzIIHbId5cufS) | 3:30 | 2021-10-22 | 2023-01-03 |
 | [I Left Something Turned On At Home](https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 3:08 | 2021-10-22 |  |
 | [I Like It, I Love It](https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [All I Want](https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8) | 3:25 | 2021-10-22 |  |
 | [I Love the Way You Love Me](https://open.spotify.com/track/6MnDkyb3VstTCT9ELxjfeE) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 4:01 | 2021-10-22 |  |

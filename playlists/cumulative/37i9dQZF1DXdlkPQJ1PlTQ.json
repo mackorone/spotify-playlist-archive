@@ -1,10 +1,224 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "July's must-hear episodes, hand-picked by Spotify Podcast Editorial",
-  "name": "Best Podcasts of the Month",
-  "published_playlist_ids": [
-    "7w7aut3ZTA9lP1s1Ai9cfQ"
+  "description": "2022's must hear episodes, hand-picked by Spotify Podcast Editorial",
+  "name": "Best Episodes of 2022",
+  "tracks": [
+    {
+      "album": {
+        "name": "Book of Basketball 2.0",
+        "url": "https://open.spotify.com/show/6ePgqbuKwFIcdxis8oPhGU"
+      },
+      "artists": [
+        {
+          "name": "Book of Basketball 2.0",
+          "url": "https://open.spotify.com/show/6ePgqbuKwFIcdxis8oPhGU"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2802076,
+      "name": "1. Wilt & Russ | Icons Club",
+      "url": "https://open.spotify.com/episode/3uJ90au2hOmNTVH459pzJD"
+    },
+    {
+      "album": {
+        "name": "RedHanded",
+        "url": "https://open.spotify.com/show/0emVYc04B4y5UzBIvA0axo"
+      },
+      "artists": [
+        {
+          "name": "RedHanded",
+          "url": "https://open.spotify.com/show/0emVYc04B4y5UzBIvA0axo"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 4326120,
+      "name": "250: Episode 250 - Andrei Chikatilo: Impotent Rage - Part 1",
+      "url": "https://open.spotify.com/episode/1z4PkEJnpoTFmge58h2ipz"
+    },
+    {
+      "album": {
+        "name": "Call Her Daddy",
+        "url": "https://open.spotify.com/show/7bnjJ7Va1nM07Um4Od55dW"
+      },
+      "artists": [
+        {
+          "name": "Call Her Daddy",
+          "url": "https://open.spotify.com/show/7bnjJ7Va1nM07Um4Od55dW"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 1781994,
+      "name": "An Abortion Story [VIDEO]",
+      "url": "https://open.spotify.com/episode/03sc8HVIeuQs8fLZyIKTAw"
+    },
+    {
+      "album": {
+        "name": "BEING Golden",
+        "url": "https://open.spotify.com/show/6bDYVX6FZWOFsSDe84UIG3"
+      },
+      "artists": [
+        {
+          "name": "BEING Golden",
+          "url": "https://open.spotify.com/show/6bDYVX6FZWOFsSDe84UIG3"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 3500826,
+      "name": "BEING Trans: Let\u2019s Get This Out of the Way",
+      "url": "https://open.spotify.com/episode/34E24gKBlmjb7oamZKPmB9"
+    },
+    {
+      "album": {
+        "name": "Kim Kardashian's The System: The Case of Kevin Keith",
+        "url": "https://open.spotify.com/show/1nm1qDaAEAiOv7pBX7TKTE"
+      },
+      "artists": [
+        {
+          "name": "Kim Kardashian's The System: The Case of Kevin Keith",
+          "url": "https://open.spotify.com/show/1nm1qDaAEAiOv7pBX7TKTE"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2098964,
+      "name": "Episode 1 - Life & Death",
+      "url": "https://open.spotify.com/episode/73bMC7mNYOfKXejbtzKEAo"
+    },
+    {
+      "album": {
+        "name": "Snap Judgment Presents: Spooked",
+        "url": "https://open.spotify.com/show/76571Rfl3m7PLJQZKQIGCT"
+      },
+      "artists": [
+        {
+          "name": "Snap Judgment Presents: Spooked",
+          "url": "https://open.spotify.com/show/76571Rfl3m7PLJQZKQIGCT"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2396905,
+      "name": "Los Chaneques",
+      "url": "https://open.spotify.com/episode/77HDfCKXISBxmYrCVbhH0r"
+    },
+    {
+      "album": {
+        "name": "Not Lost",
+        "url": "https://open.spotify.com/show/0UlfT1uy2svhx3wHjqZgrE"
+      },
+      "artists": [
+        {
+          "name": "Not Lost",
+          "url": "https://open.spotify.com/show/0UlfT1uy2svhx3wHjqZgrE"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 3192711,
+      "name": "New Orleans: Anybody\u2019s Gumbo",
+      "url": "https://open.spotify.com/episode/1IQwDAxLe8f1ftg6Y9T7Hb"
+    },
+    {
+      "album": {
+        "name": "Truth Be Told with Tonya Mosley",
+        "url": "https://open.spotify.com/show/587DhwTBxke6uvfwDfaV5N"
+      },
+      "artists": [
+        {
+          "name": "Truth Be Told with Tonya Mosley",
+          "url": "https://open.spotify.com/show/587DhwTBxke6uvfwDfaV5N"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 1051585,
+      "name": "Numb",
+      "url": "https://open.spotify.com/episode/1fzO3IxDzzsShFNSYfCdd1"
+    },
+    {
+      "album": {
+        "name": "Snooze",
+        "url": "https://open.spotify.com/show/3XDxutKaXNSVbQnn2pbWFw"
+      },
+      "artists": [
+        {
+          "name": "Snooze",
+          "url": "https://open.spotify.com/show/3XDxutKaXNSVbQnn2pbWFw"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2254053,
+      "name": "S1E1: Help Me Drive a Car",
+      "url": "https://open.spotify.com/episode/2VDx9ilOe46P6Nh1j1UlFZ"
+    },
+    {
+      "album": {
+        "name": "Stuck with Damon Young",
+        "url": "https://open.spotify.com/show/42kxHmWquXQBJCxG0rXvu6"
+      },
+      "artists": [
+        {
+          "name": "Stuck with Damon Young",
+          "url": "https://open.spotify.com/show/42kxHmWquXQBJCxG0rXvu6"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2332943,
+      "name": "Stuck on the Pew (Cause I Fell Asleep)",
+      "url": "https://open.spotify.com/episode/65H0Putahq1eqwpQzs3s7R"
+    },
+    {
+      "album": {
+        "name": "Serial Killers",
+        "url": "https://open.spotify.com/show/4ruq7mH0jg1sFi8KQhnGb8"
+      },
+      "artists": [
+        {
+          "name": "Serial Killers",
+          "url": "https://open.spotify.com/show/4ruq7mH0jg1sFi8KQhnGb8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 2330853,
+      "name": "The Black Dahlia Murder Pt. 1 ",
+      "url": "https://open.spotify.com/episode/395kOhd0FV0Xk8dZiZrdKq"
+    },
+    {
+      "album": {
+        "name": "Sounds Like A Cult",
+        "url": "https://open.spotify.com/show/0podj5AKLOFvJAS1raltmw"
+      },
+      "artists": [
+        {
+          "name": "Sounds Like A Cult",
+          "url": "https://open.spotify.com/show/0podj5AKLOFvJAS1raltmw"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 3881717,
+      "name": "The Cult of Taylor Swift",
+      "url": "https://open.spotify.com/episode/5yMUPSoX46ArUPYJNNx4nm"
+    }
   ],
-  "tracks": [],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdlkPQJ1PlTQ"
 }

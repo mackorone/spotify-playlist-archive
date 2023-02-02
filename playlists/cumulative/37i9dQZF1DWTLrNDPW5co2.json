@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: TAAHLIAH",
   "name": "Club Resistance",
-  "published_playlist_ids": [
-    "5vZl4HOsHwZbAbRX9ClTqT"
-  ],
   "tracks": [
     {
       "album": {
@@ -1467,10 +1464,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 222333,
       "name": "Red Plum",
       "url": "https://open.spotify.com/track/5ZG1MQ3uJ8QmZAA3Iut6vF"
+    },
+    {
+      "album": {
+        "name": "Heart Ego",
+        "url": "https://open.spotify.com/album/4BQMPV1sdn3KNsza25QxRX"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Sunniva Lindg\u00e5rd (Producer), Sunniva Lindg\u00e5rd (Composer), Andrew Murray Baardsen (Producer)",
+          "url": "https://open.spotify.com/artist/5cBNXQoN1r7meYakVaXiYS"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "Red Plum",
+      "url": "https://open.spotify.com/track/0R0dUadXGacI5Hy9W02SUf"
     },
     {
       "album": {
@@ -1627,7 +1646,7 @@
       },
       "artists": [
         {
-          "name": "Tygapaw",
+          "name": "TYGAPAW",
           "url": "https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq"
         }
       ],

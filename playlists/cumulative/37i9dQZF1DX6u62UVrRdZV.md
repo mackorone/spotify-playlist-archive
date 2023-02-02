@@ -4,7 +4,7 @@
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-89 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/5siQC20oHoSDI6W0jYW206)
+89 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Bedroom Bully](https://open.spotify.com/track/5esGnzJMqZQP3XBWC4PJYY) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [It \(Incomparable Talent\)](https://open.spotify.com/album/1DHJhXAwi3cvPM0LscDsyZ) | 2:45 | 2020-11-18 |  |
 | [Black Rabbit \- Dub](https://open.spotify.com/track/4ps8OmIEuSBxkZzpmKaTxW) | [Prince Fatty](https://open.spotify.com/artist/2KQRgrZISaDwQNpiLUTAnr), [Shniece McMenamin](https://open.spotify.com/artist/44odrjJUepZctaUDynBx8E) | [Black Rabbit](https://open.spotify.com/album/1NFY55qk8QDEobcEVsY4AF) | 3:47 | 2020-11-18 |  |
 | [Black Rabbit \- Dub](https://open.spotify.com/track/50h7ajX4uBhEX7VUWvtCbW) | [Prince Fatty](https://open.spotify.com/artist/2KQRgrZISaDwQNpiLUTAnr), [Shniece McMenamin](https://open.spotify.com/artist/44odrjJUepZctaUDynBx8E) | [Black Rabbit](https://open.spotify.com/album/2gOOQoStPsBOzHB4QhQfOM) | 3:47 | 2020-11-18 | 2022-07-29 |
-| [Bonafide Love \(feat\. Wayne Wonder\)](https://open.spotify.com/track/5J4u57jUykQJSTzHeCgRYH) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [Total Reggae: Summer Hits](https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4) | 3:47 | 2020-11-18 |  |
+| [Bonafide Love \(feat\. Wayne Wonder\)](https://open.spotify.com/track/5J4u57jUykQJSTzHeCgRYH) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [Total Reggae: Summer Hits](https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4) | 3:06 | 2020-11-18 |  |
 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 | 2020-11-18 |  |
 | [Borro Cassette](https://open.spotify.com/track/2ocDZVhBiGCaaZRNW3fmSd) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Borro Cassette](https://open.spotify.com/album/4PAmAgjdsvX5oRLrJQvGCW) | 3:37 | 2020-11-18 | 2022-07-29 |
 | [Bumpy Dub](https://open.spotify.com/track/131KcLSzomCoCPAKTQAGCI) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Daniel Boyle](https://open.spotify.com/artist/1xFOkcHacBBvt32D5jMUfQ) | [The Black Album](https://open.spotify.com/album/20qoMFB3XcP9vHI27EwWnn) | 4:14 | 2020-11-18 |  |

@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "bk \u00e9 AULAS ",
+  "description": "adl haridade marecha rd tia leci \u00e9 AULAS ",
   "name": "AULAS",
-  "published_playlist_ids": [
-    "2GpYMlHQWhJaqR9gXTSMkt"
-  ],
   "tracks": [
     {
       "album": {
@@ -173,6 +170,32 @@
       "duration_ms": 319992,
       "name": "A Divina Com\u00e9dia 2",
       "url": "https://open.spotify.com/track/6YhXnVP8iOuM35xhYtQsJh"
+    },
+    {
+      "album": {
+        "name": "A Gente Nasce Assim",
+        "url": "https://open.spotify.com/album/71WLdNcIWoaufBRpM0kfLT"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 220000,
+      "name": "A Gente Nasce Assim",
+      "url": "https://open.spotify.com/track/6Pu8yzCWAcEHTZPVCXBnX1"
     },
     {
       "album": {
@@ -377,7 +400,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 155874,
       "name": "Atura o Baile (The World Is Yours To Take) - Funk Remix / Budweiser Anthem Of The FIFA World Cup 2022",
       "url": "https://open.spotify.com/track/1QjVcycdvef8b4azmcEdfe"
@@ -536,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Bug do Mil\u00eanio (A Cone Voltou)",
+        "url": "https://open.spotify.com/album/4izW6bYoT5TLnGF64JBkMi"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220909,
+      "name": "Bug do Mil\u00eanio (A Cone Voltou)",
+      "url": "https://open.spotify.com/track/2AL89TC0tGo2dxvpDjve3n"
+    },
+    {
+      "album": {
         "name": "FLORA DE CONTROLE",
         "url": "https://open.spotify.com/album/4BGYI7zvyPcAkwG8e0agSz"
       },
@@ -647,7 +688,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 118774,
       "name": "COLETE",
       "url": "https://open.spotify.com/track/4lwVNwnDBCUYonkHlkOucc"
@@ -681,6 +722,24 @@
       "duration_ms": 156521,
       "name": "Conta Banc\u00e1ria",
       "url": "https://open.spotify.com/track/5nxCzBk3pUc9qUz0xM0B9q"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Carro Forte",
+        "url": "https://open.spotify.com/album/2KW1zlCk6DMuDEHarANoVQ"
+      },
+      "artists": [
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297974,
+      "name": "Cora\u00e7\u00e3o de Carro Forte",
+      "url": "https://open.spotify.com/track/1Fhmi7jJSOP6GrStpJrj4t"
     },
     {
       "album": {
@@ -728,6 +787,40 @@
     },
     {
       "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv"
+    },
+    {
+      "album": {
         "name": "Universo Particular",
         "url": "https://open.spotify.com/album/0Wg1HsbVatKcEZznPZ62Ev"
       },
@@ -747,6 +840,24 @@
       "duration_ms": 222603,
       "name": "Cruzeiro da Revoada",
       "url": "https://open.spotify.com/track/2TkyXnE0OB6Yo9zuzv9B4e"
+    },
+    {
+      "album": {
+        "name": "Original Marginal Rap",
+        "url": "https://open.spotify.com/album/0rOxZJE47FdZnRSL63jpoT"
+      },
+      "artists": [
+        {
+          "name": "Uter\u00e7o",
+          "url": "https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/0S4YjU15ivg0rB9zKYJmND"
     },
     {
       "album": {
@@ -846,6 +957,28 @@
     },
     {
       "album": {
+        "name": "Din Din",
+        "url": "https://open.spotify.com/album/4fcpMXjOVLOyg3mb7Fpb3U"
+      },
+      "artists": [
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Souza Beats",
+          "url": "https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 140425,
+      "name": "Din Din",
+      "url": "https://open.spotify.com/track/5q8CsuCFxOo3RKT0lJz6P1"
+    },
+    {
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -872,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "DoisTr\u00eas",
+        "url": "https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75453,
+      "name": "DoisTr\u00eas",
+      "url": "https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l"
+    },
+    {
+      "album": {
         "name": "Easy Money",
         "url": "https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow"
       },
@@ -891,6 +1042,36 @@
       "duration_ms": 191219,
       "name": "Easy Money",
       "url": "https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV"
+    },
+    {
+      "album": {
+        "name": "Energia",
+        "url": "https://open.spotify.com/album/3BYtn3F4LyZZbXkAbkfAzp"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301725,
+      "name": "Energia",
+      "url": "https://open.spotify.com/track/4gtHqyZMvcppVuv32fXl9Y"
     },
     {
       "album": {
@@ -1056,6 +1237,40 @@
     },
     {
       "album": {
+        "name": "Favela Vive 5",
+        "url": "https://open.spotify.com/album/0HIqiDgY7xzP0vzbg8aGT8"
+      },
+      "artists": [
+        {
+          "name": "ADL",
+          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Mc Marechal",
+          "url": "https://open.spotify.com/artist/5YZEcrC3yHeiZ1bBvwKRUF"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493425,
+      "name": "Favela Vive 5",
+      "url": "https://open.spotify.com/track/5svioJ5BlJIYfQFPT1eq7v"
+    },
+    {
+      "album": {
         "name": "Fa\u00e7a Dinheiro, Se Mantenha Vivo",
         "url": "https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4"
       },
@@ -1115,10 +1330,36 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 228800,
       "name": "Fica At\u00e9 Umas Hora",
       "url": "https://open.spotify.com/track/7xga0gWCTSUpU7Uz5pldQS"
+    },
+    {
+      "album": {
+        "name": "Filhas do Improv\u00e1vel",
+        "url": "https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Filhas do Improv\u00e1vel",
+      "url": "https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd"
     },
     {
       "album": {
@@ -1367,7 +1608,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 267428,
       "name": "Ins\u00f4nia 2",
       "url": "https://open.spotify.com/track/7tITqCiDuMqKfWhibaF8V7"
@@ -1389,7 +1630,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 186697,
       "name": "Kim N Kanye",
       "url": "https://open.spotify.com/track/5NJHee8EbpbMv6Mb8ZilZI"
@@ -1500,6 +1741,32 @@
     },
     {
       "album": {
+        "name": "Linhas de Fogo",
+        "url": "https://open.spotify.com/album/6IWUjideWJcH9PsuTE8V9R"
+      },
+      "artists": [
+        {
+          "name": "Nocivo Shomon",
+          "url": "https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof"
+        },
+        {
+          "name": "Mano Fler",
+          "url": "https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx"
+        },
+        {
+          "name": "Maur\u00edcio DTS",
+          "url": "https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 280990,
+      "name": "Linhas de Fogo",
+      "url": "https://open.spotify.com/track/7rVlzobevLRio65jZum1qc"
+    },
+    {
+      "album": {
         "name": "Lobo Solit\u00e1rio",
         "url": "https://open.spotify.com/album/28EkZl3wLbxY2ZYygsiTyD"
       },
@@ -1571,7 +1838,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 196008,
       "name": "MAGIA",
       "url": "https://open.spotify.com/track/5KJ3jIuVeiVkTihg4fuc2R"
@@ -1666,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Me Diz Se Vem",
+        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177612,
+      "name": "Me Diz Se Vem",
+      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
+    },
+    {
+      "album": {
         "name": "Me Sinto Aben\u00e7oado",
         "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
       },
@@ -1711,7 +1996,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 199284,
       "name": "Melhor Que Ontem",
       "url": "https://open.spotify.com/track/5C1X9UxsnagxubGSrZ1zMH"
@@ -1737,6 +2022,28 @@
       "duration_ms": 151578,
       "name": "Mensagem 2",
       "url": "https://open.spotify.com/track/3iZEhKaTMWl2W9IPh8mITL"
+    },
+    {
+      "album": {
+        "name": "Mil Motivos",
+        "url": "https://open.spotify.com/album/3qTDI8YeiQAZjQVxxkILim"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188592,
+      "name": "Mil Motivos",
+      "url": "https://open.spotify.com/track/46107kkgYPfPy8sC1WTJ6q"
     },
     {
       "album": {
@@ -1789,7 +2096,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 149658,
       "name": "M\u00edssil - Remix",
       "url": "https://open.spotify.com/track/4ejh1U77Y5rXQ0eqeBWXxJ"
@@ -1987,7 +2294,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 195000,
       "name": "N\u00e3o Desista Agora",
       "url": "https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4"
@@ -2005,7 +2312,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 242384,
       "name": "N\u00e3o Sabem de Nada",
       "url": "https://open.spotify.com/track/0JyL8OXGNa7KAVhTWoObp7"
@@ -2061,36 +2368,10 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 311632,
       "name": "O Casamento",
       "url": "https://open.spotify.com/track/3V6feL88EALl8u7SLKQYfP"
-    },
-    {
-      "album": {
-        "name": "O Que Eu N\u00e3o Sei",
-        "url": "https://open.spotify.com/album/59vjYc18WBcUKa1wRl5bhH"
-      },
-      "artists": [
-        {
-          "name": "AZN Studio",
-          "url": "https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Akil",
-          "url": "https://open.spotify.com/artist/3BRur6P9nSyn8rG6yB5nqv"
-        }
-      ],
-      "date_added": "2022-09-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140160,
-      "name": "O Que Eu N\u00e3o Sei",
-      "url": "https://open.spotify.com/track/07Kfl5a8EQdy2nxeQmQ2QZ"
     },
     {
       "album": {
@@ -2109,7 +2390,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 135000,
       "name": "Obama",
       "url": "https://open.spotify.com/track/4aIj9PkZFTR8oLciZRCLNw"
@@ -2601,7 +2882,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 140822,
       "name": "Purgat\u00f3rio 2",
       "url": "https://open.spotify.com/track/3KZfi5f201iIzmnfvPMCXx"
@@ -2781,7 +3062,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 660500,
       "name": "R.U.A 13 - Escritores de Rua",
       "url": "https://open.spotify.com/track/0gGX5lsGg7Oq2nl1qkX8D4"
@@ -2938,6 +3219,32 @@
     },
     {
       "album": {
+        "name": "Retrato #1 - O Que Eu N\u00e3o Sei",
+        "url": "https://open.spotify.com/album/59vjYc18WBcUKa1wRl5bhH"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Akil",
+          "url": "https://open.spotify.com/artist/3BRur6P9nSyn8rG6yB5nqv"
+        },
+        {
+          "name": "AZN Studio",
+          "url": "https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Retrato #1 - O Que Eu N\u00e3o Sei",
+      "url": "https://open.spotify.com/track/07Kfl5a8EQdy2nxeQmQ2QZ"
+    },
+    {
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -2965,6 +3272,48 @@
       "duration_ms": 140000,
       "name": "RIO SUL",
       "url": "https://open.spotify.com/track/7fA1lo7delfwVjq7Ccg0fp"
+    },
+    {
+      "album": {
+        "name": "Sala de Estar",
+        "url": "https://open.spotify.com/album/6vpuPtAjG6vcP2NU2Xc9vf"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "MG CDD",
+          "url": "https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217872,
+      "name": "Sala de Estar",
+      "url": "https://open.spotify.com/track/1LTgY069vxDFybdo3Lhr9h"
     },
     {
       "album": {
@@ -3087,7 +3436,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 147326,
       "name": "Sei L\u00e1 (Papatracks#7)",
       "url": "https://open.spotify.com/track/7DDTnzUzUiynlMQwGqWuJz"
@@ -3113,10 +3462,36 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 200000,
       "name": "Sementinha do Mal",
       "url": "https://open.spotify.com/track/3hytYbdEQ7rDrhJEI529Pn"
+    },
+    {
+      "album": {
+        "name": "Inevit\u00e1vel",
+        "url": "https://open.spotify.com/album/21giQeXB9yE2sgQ0UqY5Cm"
+      },
+      "artists": [
+        {
+          "name": "NORTRAGAMUS",
+          "url": "https://open.spotify.com/artist/33ug2i6014guMI4zR9iwmc"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Scarp",
+          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Sempre Bom",
+      "url": "https://open.spotify.com/track/7mHQq512mOIGFbaAuMSVS1"
     },
     {
       "album": {
@@ -3237,6 +3612,24 @@
       "duration_ms": 205440,
       "name": "Sobe junto",
       "url": "https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Era N\u00f3s",
+        "url": "https://open.spotify.com/album/4xm2JGYOqNOYNkHdqGG7bf"
+      },
+      "artists": [
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194730,
+      "name": "S\u00f3 Era N\u00f3s",
+      "url": "https://open.spotify.com/track/7nJ4wRW6vdHLR7FosmdeAT"
     },
     {
       "album": {
@@ -3404,6 +3797,54 @@
     },
     {
       "album": {
+        "name": "Tocaia",
+        "url": "https://open.spotify.com/album/1H86cfv3CQSqeqrg3QmjBq"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Tocaia",
+      "url": "https://open.spotify.com/track/6wb640UDLelevIzL7qjtz2"
+    },
+    {
+      "album": {
+        "name": "Towner",
+        "url": "https://open.spotify.com/album/0DHD5E2JbEYJ9qwza5ToCb"
+      },
+      "artists": [
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121363,
+      "name": "Towner",
+      "url": "https://open.spotify.com/track/1aNyb2vXdCSS21ooeDatUI"
+    },
+    {
+      "album": {
         "name": "Dono das Esquinas",
         "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
@@ -3563,6 +4004,32 @@
       "duration_ms": 168750,
       "name": "Vim de L\u00e1",
       "url": "https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea N\u00e3o \u00c9 Mais Crian\u00e7a",
+        "url": "https://open.spotify.com/album/0T73ivIvZRrQlh9wxCvDuS"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        },
+        {
+          "name": "lucasbin",
+          "url": "https://open.spotify.com/artist/7KYrffinPH0x6rrRIqIBid"
+        },
+        {
+          "name": "Cassol",
+          "url": "https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Voc\u00ea N\u00e3o \u00c9 Mais Crian\u00e7a",
+      "url": "https://open.spotify.com/track/5T4sMKJyVMs0CH1f3iIYLv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi"

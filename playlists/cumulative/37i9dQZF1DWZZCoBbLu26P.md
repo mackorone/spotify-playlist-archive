@@ -4,7 +4,7 @@
 
 > Queens everywhere \- givin' us life.<br/>Cover: Bimini
 
-117 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/5qqRE5zC7pUBy84hiALZqW)
+118 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,9 +110,10 @@
 | [The T \(feat\. Adore Delano\)](https://open.spotify.com/track/2EPYmE0iIUw4XfUZsv005c) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Adore Delano](https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87) | [Poundcake](https://open.spotify.com/album/1Mn1fFikJf1a6IP3J47CTW) | 3:24 | 2021-06-29 | 2022-07-29 |
 | [The T \(feat\. Adore Delano\)](https://open.spotify.com/track/65UMllQJxB4cVUytlzp5Se) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Adore Delano](https://open.spotify.com/artist/3tdsh4B7GuigHI4vPtUs87) | [Poundcake](https://open.spotify.com/album/4VNYGvaBPvx024om7sg8x2) | 3:24 | 2022-03-10 | 2022-09-23 |
 | [To the Moon \- Cast Version](https://open.spotify.com/track/5xzSubIQvRSH5ryDk6EhU1) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc) | [To the Moon \(Cast Version\)](https://open.spotify.com/album/7fMIVWlRIrPSe1H8ceFcaG) | 3:02 | 2021-06-29 |  |
-| [Tommy's Dream](https://open.spotify.com/track/48gwHIUd09s0g1JxEv9VzJ) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Tommy's Dream](https://open.spotify.com/album/5bAvj4QAWaKMQQaTIMRK7c) | 3:39 | 2022-09-22 |  |
+| [Tommy's Dream](https://open.spotify.com/track/0RsKr0MBHoL1qxoeWyhNrh) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Tommy's Dream](https://open.spotify.com/album/6aMOR9XeLq7DcyXUnYg9mO) | 3:39 | 2022-09-22 |  |
+| [Tommy's Dream](https://open.spotify.com/track/48gwHIUd09s0g1JxEv9VzJ) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Tommy's Dream](https://open.spotify.com/album/5bAvj4QAWaKMQQaTIMRK7c) | 3:39 | 2022-09-22 | 2023-01-07 |
 | [Turned Heads](https://open.spotify.com/track/2imalXmegXoWFbiqXxXeDf) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/21PU8CmmhciAg0HKRL1oh3) | 2:22 | 2022-03-10 | 2022-08-19 |
-| [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 | 2022-03-10 |  |
+| [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 | 2022-03-10 |  |
 | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk) | [The Cast of RuPaul's Drag Race UK, Season 2](https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs) | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE) | 2:46 | 2021-06-29 |  |
 | [Walk Tall](https://open.spotify.com/track/5SaBCrOJd85WwwIeApzuxw) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE) | [Walk Tall](https://open.spotify.com/album/6JR8v7Ez86PqopURbDgzOr) | 3:27 | 2021-09-03 | 2022-09-23 |
 | [We Werk Together](https://open.spotify.com/track/1qEYTQ8yEIp3LBuUf4e51I) | [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ), [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp), [Lawrence Chaney](https://open.spotify.com/artist/6VKhOZsGPstcHvIA3fQKx6), [Krystal Versace](https://open.spotify.com/artist/3oIIy9wJdxlRoJ1Mz9yckv) | [We Werk Together](https://open.spotify.com/album/3NmASjEdI9UBllWhOi0hc4) | 3:36 | 2022-02-20 |  |

@@ -2,9 +2,9 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying\. Cover: Darius Rucker
+> The country way of testifying\. Cover: Luke Bryan
 
-169 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+172 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,8 @@
 | [Blessed Beyond Believin'](https://open.spotify.com/track/7Jl0CPkdNrarmkBt6QJwUI) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/68GS4wGbEr9qpkNjidH1eS) | 3:49 | 2021-12-10 | 2022-08-04 |
 | [Blessings](https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:18 | 2021-12-10 |  |
 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 | 2022-01-21 |  |
+| [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf) | 2:50 | 2023-01-27 |  |
+| [Can I See My Dog?](https://open.spotify.com/track/0ZZBTSD2RGt4O86ZQpPW4x) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Can I See My Dog?](https://open.spotify.com/album/4j47u9VWxM9MhAKZG2FqeM) | 3:15 | 2023-01-06 |  |
 | [Canyon](https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 | 2021-12-10 |  |
 | [Carry Me \(feat\. Jon Foreman of Switchfoot\)](https://open.spotify.com/track/2hDgOchSSSELBtW9IPQ4GW) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Carry Me \(feat\. Jon Foreman of Switchfoot\)](https://open.spotify.com/album/3amWVVXhWGGVIprSg6CkEY) | 3:40 | 2021-12-10 |  |
 | [Chain Breaker](https://open.spotify.com/track/7IkdKPflK8lzgRs6cXChz4) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker](https://open.spotify.com/album/5otw1Dx92TaJdItLOQ2TTj) | 3:15 | 2021-12-10 | 2022-07-29 |
@@ -110,10 +112,11 @@
 | [Outskirts of Heaven](https://open.spotify.com/track/2B8a2NDUrIGYzrb1JbhBdk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Outskirts of Heaven](https://open.spotify.com/album/01h48bHLP7QXPSUcpUdj1z) | 4:04 | 2021-12-10 | 2022-07-29 |
 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 | 2022-07-15 |  |
 | [Phone Call to God](https://open.spotify.com/track/3oSyemHgjMoHqW85EuclSb) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:57 | 2021-12-10 |  |
+| [Place for Me](https://open.spotify.com/track/6lhnuGmvxgRiozlK4J2cer) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Place for Me](https://open.spotify.com/album/23KSpAVjELjsop1LUXsldT) | 3:12 | 2023-01-06 |  |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 |  |
 | [Pray](https://open.spotify.com/track/66oQl7gyMXeES39CtQ1GD9) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 3:33 | 2021-12-10 |  |
 | [Pray About Everything](https://open.spotify.com/track/7eOizXz9BZ7Vc6Scgwh1hC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 3:16 | 2021-12-10 |  |
-| [Prayin' For You](https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Prayin' For You](https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8) | 3:49 | 2021-12-10 |  |
+| [Prayin' For You](https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Prayin' For You](https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8) | 3:49 | 2021-12-10 | 2022-12-02 |
 | [Prayin' In A Deer Stand](https://open.spotify.com/track/6udBM5TJkTp1uupH4Y5ReF) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Prayin' In A Deer Stand](https://open.spotify.com/album/3PGB7yyY9f50st2g7PQuKY) | 3:24 | 2022-11-04 |  |
 | [Prodigal Son's Prayer](https://open.spotify.com/track/5yVesQH1l8bOgjuWN0ub2a) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Long Trip Alone](https://open.spotify.com/album/2xONRhFNwgzkxM26JK9YI6) | 2:51 | 2021-12-10 |  |
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-01-07 |  |

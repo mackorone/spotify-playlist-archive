@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "Ag\u00e1rrense fuerte.",
   "name": "Enganchados: Lentos",
-  "published_playlist_ids": [
-    "4q9q1ha6StSi8KNW4vB2tv"
-  ],
   "tracks": [
     {
       "album": {
@@ -711,7 +708,7 @@
     {
       "album": {
         "name": "I Don't Want To Miss A Thing EP",
-        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
+        "url": "https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F"
       },
       "artists": [
         {
@@ -722,6 +719,24 @@
       "date_added": "2020-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299723,
+      "name": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq"
+    },
+    {
+      "album": {
+        "name": "I Don't Want To Miss A Thing EP",
+        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2020-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 299760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
@@ -1247,7 +1262,7 @@
       ],
       "date_added": "2020-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 242453,
       "name": "Say You, Say Me",
       "url": "https://open.spotify.com/track/1Ih6wTuQems9OkYTzcZdhM"
@@ -1373,7 +1388,7 @@
       ],
       "date_added": "2020-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 372466,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/5rpo9tGeFdtPSQtE5bbPDL"

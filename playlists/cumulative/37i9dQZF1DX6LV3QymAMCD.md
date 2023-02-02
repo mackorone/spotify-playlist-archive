@@ -4,7 +4,7 @@
 
 > Ambient music to create the perfect atmosphere for gaming.
 
-150 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/6VcYYSa2xkeF8dKEyLGu6X)
+150 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

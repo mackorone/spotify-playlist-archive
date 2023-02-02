@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 
 > The official playlist for House of the Dragon \(and House Targaryen\)\. Watch the entire first season on HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,648 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,998 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-63 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/70myCojE40oGhVQRwBxHar)
+63 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Cierra los ojos, y deja que la música haga el resto.
 
-16 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/3EikiSerxCjge9zV3yolg6)
+16 songs - 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

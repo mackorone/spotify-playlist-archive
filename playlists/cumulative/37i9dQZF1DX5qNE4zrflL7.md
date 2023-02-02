@@ -4,7 +4,7 @@
 
 > The songs that influenced everything that has happened since\. Cover: Jimi Hendrix
 
-147 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/79xUevvuTQnyCBirNlp86S)
+148 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Dirty Water](https://open.spotify.com/track/4z17FY23Bi8bt3n0TXA6SS) | [The Standells](https://open.spotify.com/artist/4BM6qze88exQPVILQpcYpj) | [Fever Pitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ztl5FTTZoyafzQihqAx7N) | 2:49 | 2021-10-06 | 2022-07-29 |
 | [Egyptian Shumba](https://open.spotify.com/track/3URfn21oTyGF6rIuhHsBJw) | [The Tammys](https://open.spotify.com/artist/3Os2NHPOwJ3559grrBt2j3) | [Egyptian Shumba](https://open.spotify.com/album/2hL87MLxmoDRl7jEI4IeoE) | 2:17 | 2021-10-06 |  |
 | [Fire](https://open.spotify.com/track/6cVdoWiwNGbmE6tcpZ2GSc) | [Arthur Brown](https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm) | [The Crazy World Of Arthur Brown](https://open.spotify.com/album/2gu9Q6wy3ftQtg4lplR7SP) | 2:54 | 2021-10-06 | 2022-07-29 |
-| [Fire](https://open.spotify.com/track/3iiTTuCxl62q4WvDpFRSrX) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr) | 2:55 | 2021-10-06 |  |
+| [Fire](https://open.spotify.com/track/1wVBq2SkE1AOKoaOxUVvDC) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj) | 2:55 | 2021-10-06 |  |
+| [Fire](https://open.spotify.com/track/3iiTTuCxl62q4WvDpFRSrX) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr) | 2:55 | 2021-10-06 | 2023-01-03 |
 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 | 2021-10-06 |  |
 | [Fortunate Son](https://open.spotify.com/track/3yI282DoIJyERd0vGukMoB) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(40th Anniversary Edition\)](https://open.spotify.com/album/4ePaYyKlg5pmQFkLu7TwV7) | 2:20 | 2021-10-06 | 2022-07-29 |
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2021-10-06 |  |

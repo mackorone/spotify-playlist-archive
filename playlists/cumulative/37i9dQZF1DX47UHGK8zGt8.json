@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-02",
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
   "name": "Manh\u00e3 Relax",
-  "published_playlist_ids": [
-    "3Prl0c7SA1E9u4rw7chWDq"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,7 +92,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 224466,
       "name": "Acalanto",
       "url": "https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO"
@@ -915,7 +912,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 201183,
       "name": "da primeira vez (from the first time)",
       "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
@@ -1363,7 +1360,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 221624,
       "name": "Duas da Tarde",
       "url": "https://open.spotify.com/track/7chMvjylTedOhNEnRQzBYj"
@@ -1798,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86925,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Lisboa",
         "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
       },
@@ -2169,10 +2184,32 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 213351,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
+    },
+    {
+      "album": {
+        "name": "Nasce o Sol: Ame a Vida",
+        "url": "https://open.spotify.com/album/3vUUAHrBiyG23PaaCTW5eF"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
+        },
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 184492,
+      "name": "Nasce o Sol: Ame a Vida",
+      "url": "https://open.spotify.com/track/4Avann3g8ySUr9hossct5T"
     },
     {
       "album": {
@@ -2562,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "Lado de C\u00e1",
+        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
+      },
+      "artists": [
+        {
+          "name": "Lado de C\u00e1",
+          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171594,
+      "name": "Quando Amanhecer",
+      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
+    },
+    {
+      "album": {
         "name": "Quando Amanhecer",
         "url": "https://open.spotify.com/album/2FOIPlMzHFLTf5L9oKq5RR"
       },
@@ -2591,7 +2646,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-12",
       "duration_ms": 171594,
       "name": "Quando Amanhecer",
       "url": "https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw"
@@ -2899,7 +2954,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 244386,
       "name": "Te amar \u00e9 massa demais",
       "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
@@ -3135,7 +3190,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143461,
       "name": "Transforma(dor)",
       "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"
@@ -3179,7 +3234,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 285000,
       "name": "Um amor puro",
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
@@ -3219,7 +3274,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-20",
       "duration_ms": 261256,
       "name": "Verdadeiro Amor - Studio Sessions",
       "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"

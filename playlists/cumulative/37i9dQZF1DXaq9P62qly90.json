@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Conscious songs for everyday reflection.",
   "name": "Peace Of Mind",
-  "published_playlist_ids": [
-    "6PGA40jJvnwvOGylzYEmlj"
-  ],
   "tracks": [
     {
       "album": {
@@ -44,6 +41,28 @@
     },
     {
       "album": {
+        "name": "A Reminder (Remix)",
+        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285161,
+      "name": "A Reminder (Remix)",
+      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu"
       },
@@ -59,7 +78,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 250915,
       "name": "Adam & Eve (feat. Ben Fagan)",
       "url": "https://open.spotify.com/track/4ZKAt72ICUQxUWAVYzVB0Y"
@@ -147,7 +166,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 266746,
       "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
@@ -183,7 +202,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 349253,
       "name": "Back to the Old",
       "url": "https://open.spotify.com/track/3ezhfmt8pBdp8Eef2EcYut"
@@ -201,7 +220,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 276017,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe"
@@ -237,10 +256,40 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 239280,
       "name": "Caribbean Skies",
       "url": "https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI"
+    },
+    {
+      "album": {
+        "name": "Sugarshack Sessions Selects, Vol. 1",
+        "url": "https://open.spotify.com/album/6uo1uYH6afoP84SUliIPkS"
+      },
+      "artists": [
+        {
+          "name": "Leilani Wolfgramm",
+          "url": "https://open.spotify.com/artist/1CJqIxlYOwcuIZAzfhfnZj"
+        },
+        {
+          "name": "Sugarshack Sessions",
+          "url": "https://open.spotify.com/artist/5CT2hYT8j5uBMqTyMVp1kI"
+        },
+        {
+          "name": "Jacob Hemphill",
+          "url": "https://open.spotify.com/artist/19eNU5TerePMfGRGoKxC3b"
+        },
+        {
+          "name": "Fortunate Youth",
+          "url": "https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197166,
+      "name": "Change The World",
+      "url": "https://open.spotify.com/track/318KlGWToczNB1mHZlH3SU"
     },
     {
       "album": {
@@ -436,6 +485,48 @@
     },
     {
       "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/01I7NXp9kAgyrpvxrrVfzm"
+      },
+      "artists": [
+        {
+          "name": "Starling Arrow",
+          "url": "https://open.spotify.com/artist/67EFNAHiiYqTew9dzK2QhC"
+        },
+        {
+          "name": "Marya Stark",
+          "url": "https://open.spotify.com/artist/2lntMaVHOro0wJYMYHco9d"
+        },
+        {
+          "name": "Ayla Nereo",
+          "url": "https://open.spotify.com/artist/4gJMOPjz1OUnD6TysFPUr1"
+        },
+        {
+          "name": "Tina Malia",
+          "url": "https://open.spotify.com/artist/1c0uQiM5LLHE4juxlFn1Q2"
+        },
+        {
+          "name": "Chloe Smith",
+          "url": "https://open.spotify.com/artist/7lLK9mKP9CJuRhIR5URoFg"
+        },
+        {
+          "name": "Leah Song",
+          "url": "https://open.spotify.com/artist/2aYGkbB8xdACbyp7BYR8Gv"
+        },
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274093,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/5toBuWuHXCsausMXQcQkLR"
+    },
+    {
+      "album": {
         "name": "Spirit Bird",
         "url": "https://open.spotify.com/album/0PVkmVc7ds2uXTY0FE825K"
       },
@@ -526,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Sacred Sound",
+        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
+      },
+      "artists": [
+        {
+          "name": "Iya Terra",
+          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216476,
+      "name": "Give Thanks (feat. Stick Figure)",
+      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
+    },
+    {
+      "album": {
         "name": "Wandering Soul",
         "url": "https://open.spotify.com/album/60xPMD97KJfh5x6KBbHYs9"
       },
@@ -541,7 +654,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 259133,
       "name": "Good Vibration (feat. Trevor Hall)",
       "url": "https://open.spotify.com/track/01N1T689bhEHqXWs3ZMZcO"
@@ -938,6 +1051,42 @@
     },
     {
       "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "album": {
+        "name": "Wider Circles",
+        "url": "https://open.spotify.com/album/6GceR7waO0fdFRVMlT6VY0"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265760,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2QMUpUespLKTdRMfsacmJh"
+    },
+    {
+      "album": {
         "name": "The Fruitful Darkness",
         "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
       },
@@ -989,6 +1138,24 @@
       "duration_ms": 220186,
       "name": "Nation of Truth",
       "url": "https://open.spotify.com/track/0EJFzeHiwdTdJxi4aQY1c8"
+    },
+    {
+      "album": {
+        "name": "Jahta Beat: The Lotus Memoirs",
+        "url": "https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Drez",
+          "url": "https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240973,
+      "name": "Nectar Drop",
+      "url": "https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0"
     },
     {
       "album": {
@@ -1064,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "The Change I'm Seeking",
+        "url": "https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR"
+      },
+      "artists": [
+        {
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482173,
+      "name": "Permanent Holiday",
+      "url": "https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff"
+    },
+    {
+      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
       },
@@ -1126,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/2rJJUaHPFt7uyS8qE7wrbR"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259401,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/4va2tNNWYut7ycFZ2zjvTk"
+    },
+    {
+      "album": {
         "name": "Electric River",
         "url": "https://open.spotify.com/album/2NR1dCNlwpdPMu6WWet3s2"
       },
@@ -1159,7 +1362,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 197983,
       "name": "She Go",
       "url": "https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc"
@@ -1279,7 +1482,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 235826,
       "name": "Speak out",
       "url": "https://open.spotify.com/track/5WpkhH54wP0WQBMhFZiTdq"
@@ -1373,7 +1576,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 240000,
       "name": "Strength In One",
       "url": "https://open.spotify.com/track/4P9FHUCbqSq3xxvQLf0HzV"
@@ -1601,7 +1804,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 231000,
       "name": "Vaporize",
       "url": "https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf"
@@ -1698,6 +1901,28 @@
     },
     {
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "TJ O'Neill",
+          "url": "https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443379,
+      "name": "Weight of Sound",
+      "url": "https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8"
+    },
+    {
+      "album": {
         "name": "Welcome To The North",
         "url": "https://open.spotify.com/album/39ZPuVd9UW2r6rguaqTjEP"
       },
@@ -1745,7 +1970,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 169613,
       "name": "What's the Secret?",
       "url": "https://open.spotify.com/track/4mz4vDsoyYLZFvPOtqZQkv"
@@ -1821,6 +2046,24 @@
       "duration_ms": 145404,
       "name": "You Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC"
+    },
+    {
+      "album": {
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351866,
+      "name": "You Can't Rush Your Healing",
+      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaq9P62qly90"

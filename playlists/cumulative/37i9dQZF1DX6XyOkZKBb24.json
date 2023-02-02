@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Lying flat on the sofa scrolling but with a nice soundtrack.",
   "name": "Mellow Evening",
-  "published_playlist_ids": [
-    "6KOmfB8LJCCp07mWRDkpos"
-  ],
   "tracks": [
     {
       "album": {
@@ -135,7 +132,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 198720,
       "name": "a song from yesterday",
       "url": "https://open.spotify.com/track/1rIvV3vogPZDoEz4Ra0bei"
@@ -344,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Better Part of Me",
+        "url": "https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "Better Part of Me",
+      "url": "https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN"
+    },
+    {
+      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -427,7 +446,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 201541,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
@@ -535,7 +554,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 228798,
       "name": "Call Me A Dreamer",
       "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
@@ -575,7 +594,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
@@ -690,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
+    },
+    {
+      "album": {
         "name": "Louis - The Best Of Louis Armstrong",
         "url": "https://open.spotify.com/album/1xOuAgtDiqwzXV4ohTx0jX"
       },
@@ -759,7 +796,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-02-02",
       "duration_ms": 200066,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4yZSlqXWEeZ7M2eUiGi7dQ"
@@ -817,7 +854,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-03",
       "duration_ms": 168771,
       "name": "everyone at this party",
       "url": "https://open.spotify.com/track/43klOCoUcqtkNWCqQQvh9W"
@@ -990,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "georgia got colder",
+        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "georgia",
+      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
+    },
+    {
+      "album": {
         "name": "Give You Love",
         "url": "https://open.spotify.com/album/307eCZ5BF0wjOmE29qDiUj"
       },
@@ -1023,7 +1078,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 181706,
       "name": "Go In Light (feat. Monica Martin)",
       "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
@@ -1156,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Here Comes The Cowboy",
+        "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211140,
+      "name": "Heart To Heart",
+      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+    },
+    {
+      "album": {
         "name": "hill that i'll die on",
         "url": "https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM"
       },
@@ -1167,7 +1240,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 144694,
       "name": "hill that i'll die on",
       "url": "https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo"
@@ -1257,7 +1330,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 414466,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
@@ -1391,7 +1464,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 187266,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
@@ -1535,7 +1608,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 316240,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
@@ -1767,7 +1840,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 281466,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
@@ -1929,10 +2002,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 195920,
       "name": "Please Keep Loving Me",
       "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
+    },
+    {
+      "album": {
+        "name": "Pointless",
+        "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228988,
+      "name": "Pointless",
+      "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
     },
     {
       "album": {
@@ -1983,7 +2074,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205395,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
@@ -2109,7 +2200,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 203573,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
@@ -2491,7 +2582,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 223043,
       "name": "Too Much To Ask",
       "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
@@ -2571,7 +2662,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
@@ -2611,6 +2702,24 @@
       "duration_ms": 225017,
       "name": "Warm Foothills",
       "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
+    },
+    {
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/5UgR4xPUCnuHS5F1wNNc3x"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 185358,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/1NOTidLDDPTeau4BWJ0vwX"
     },
     {
       "album": {
@@ -2727,6 +2836,24 @@
       "duration_ms": 193133,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
+    },
+    {
+      "album": {
+        "name": "You Are Not Alone",
+        "url": "https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165835,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
     },
     {
       "album": {

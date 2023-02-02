@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "The best soft rock from the 1970s.",
+  "description": "The best soft rock from the 1970s. Cover: Styx",
   "name": "70s Soft Rock",
-  "published_playlist_ids": [
-    "1IgZ8KwdjzVpSHJdp9dx2F"
-  ],
   "tracks": [
     {
       "album": {
@@ -1629,7 +1626,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 321160,
       "name": "Name Of The Game - Remastered 2010",
       "url": "https://open.spotify.com/track/2Z7c7algNrJeVyYWNH1HYw"
@@ -1687,6 +1684,28 @@
       "duration_ms": 445186,
       "name": "Oh! Sweet Nuthin' - 2015 Remaster",
       "url": "https://open.spotify.com/track/0i19MAZbyn8uTir7FprXId"
+    },
+    {
+      "album": {
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/1dirmucBUgOm45ld0yDY6u"
+      },
+      "artists": [
+        {
+          "name": "Lucixn",
+          "url": "https://open.spotify.com/artist/7jyXXQEyXVGDYKQ85Es2Er"
+        },
+        {
+          "name": "imnotege",
+          "url": "https://open.spotify.com/artist/7pySAy9Rry78aefhmoQy0s"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/1geuctUKhvAydlkc0xzMTp"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Music to see you through the tough times.",
   "name": "Heartache",
-  "published_playlist_ids": [
-    "4sJeHXibErKpD8IDAbCwPl"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,6 +96,24 @@
       "duration_ms": 312306,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
+    },
+    {
+      "album": {
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
     },
     {
       "album": {
@@ -207,6 +222,24 @@
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208106,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
     },
     {
       "album": {
@@ -329,10 +362,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 314533,
       "name": "Black Beauty",
       "url": "https://open.spotify.com/track/63hHlajVLQnlFMAqSyePxO"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262693,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
     },
     {
       "album": {
@@ -419,7 +470,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 271720,
       "name": "Brick",
       "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
@@ -441,6 +492,24 @@
       "duration_ms": 218492,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/5y0ET06ZzyxDzR4lB4JGhP"
+    },
+    {
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259186,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
     },
     {
       "album": {
@@ -642,6 +711,28 @@
     },
     {
       "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245426,
+      "name": "Everything Has Changed (feat. Ed Sheeran) (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK"
+    },
+    {
+      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
@@ -761,7 +852,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-28",
       "duration_ms": 258266,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8"
@@ -995,7 +1086,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
@@ -1197,6 +1288,24 @@
       "duration_ms": 146333,
       "name": "In My Life - Remastered 2009",
       "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo"
+    },
+    {
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "album": {
@@ -1536,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206458,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+    },
+    {
+      "album": {
         "name": "Playlist: The Very Best Of Roy Orbison",
         "url": "https://open.spotify.com/album/1r1M2br4KA8foMzLGUchdI"
       },
@@ -1569,6 +1696,24 @@
       "duration_ms": 146456,
       "name": "LOVE ME OR LEAVE ME",
       "url": "https://open.spotify.com/track/0zUT6RbKCqHqorVnXVoZcm"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191638,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
     },
     {
       "album": {
@@ -1677,7 +1822,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 154960,
       "name": "New York",
       "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
@@ -1785,7 +1930,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 195506,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU"
@@ -1839,7 +1984,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 240912,
       "name": "Pain and Misery",
       "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
@@ -1893,7 +2038,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
@@ -2037,7 +2182,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
@@ -2127,7 +2272,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 242792,
       "name": "Since We're Alone",
       "url": "https://open.spotify.com/track/4WZT0Mi3tD0XrYRkkDlxNN"
@@ -2243,6 +2388,24 @@
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
+    },
+    {
+      "album": {
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177930,
+      "name": "Someone Who Loved You",
+      "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"
     },
     {
       "album": {
@@ -2488,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "album": {
         "name": "Undiscovered (International Version)",
         "url": "https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ"
       },
@@ -2525,6 +2706,28 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
+    },
+    {
+      "album": {
+        "name": "Thinking 'Bout Love",
+        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
     },
     {
       "album": {
@@ -2831,7 +3034,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2023-02-01",
       "duration_ms": 201053,
       "name": "Wild Hearts Can't Be Broken",
       "url": "https://open.spotify.com/track/3nA9tHmsw5UGMtSIMz4mt7"
@@ -2867,7 +3070,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 270893,
       "name": "Wish I Didn't Miss You",
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"

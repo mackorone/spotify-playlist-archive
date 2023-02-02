@@ -4,7 +4,7 @@
 
 > The legendary producer and songwriting duo: Kenneth Gamble and Leon A\. Huff.
 
-122 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/1VcebcJH9dQoKQcOkNfE2E)
+122 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Tighten Up, Pt\. 1](https://open.spotify.com/track/6IIcvtmuGpWIasqOpyGlyY) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Tighten Up](https://open.spotify.com/album/5zsOpnZyZidaZo5KXL0xzr) | 3:16 | 2021-07-01 |  |
 | [Together](https://open.spotify.com/track/10v7nPfuQaMGJQgpU21L4x) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:57 | 2021-07-01 |  |
 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 | 2021-07-01 |  |
-| [Use ta Be My Girl](https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:18 | 2021-07-01 |  |
+| [Use ta Be My Girl \- Single Version](https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:18 | 2021-07-01 |  |
 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 | 2021-07-01 |  |
 | [We're Gonna Make It Somehow](https://open.spotify.com/track/61Ed74bVnI0lXbOZ7Aahfg) | [The Futures](https://open.spotify.com/artist/2pvqnXr6K5FZmqbgvibDE3) | [The Greetings of Peace](https://open.spotify.com/album/5aXsE8qz2HxSwwUQMzH4Ga) | 4:42 | 2021-07-01 |  |
 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 | 2021-07-01 |  |

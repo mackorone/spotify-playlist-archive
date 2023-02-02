@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
   "name": "This Is Carlos Y Jose",
-  "published_playlist_ids": [
-    "4s4DmYUSBU8m6yhFJ8OLsV"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,7 +106,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 186226,
       "name": "Asesino A Sueldo",
       "url": "https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV"
@@ -163,7 +160,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 190666,
       "name": "Carga Blanca",
       "url": "https://open.spotify.com/track/4Y5bCHdJG6kRx8ounxTqlg"
@@ -433,7 +430,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 147453,
       "name": "El Mandil\u00f3n",
       "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
@@ -703,7 +700,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 207613,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/5gaKIqxF0RTBgIBswpKVRy"
@@ -955,7 +952,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 171626,
       "name": "La Yerbabuena",
       "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
@@ -998,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "Los Federales De Caminos",
+      "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
+    },
+    {
+      "album": {
         "name": "Grandes Canciones",
         "url": "https://open.spotify.com/album/084lTJZiqiPOLBiPlnnGYr"
       },
@@ -1027,7 +1042,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 181720,
       "name": "Maquina 501",
       "url": "https://open.spotify.com/track/2ijdMgCQVTKqyLqjEJnDXZ"
@@ -1189,7 +1204,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 165880,
       "name": "Soy Alba\u00f1il",
       "url": "https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i"

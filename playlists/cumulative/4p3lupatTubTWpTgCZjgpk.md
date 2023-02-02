@@ -4,7 +4,7 @@
 
 > Countrify your power walk
 
-20 songs - 1 hr 12 min - [published](https://open.spotify.com/playlist/1FUceff87u8twasHTSibY0)
+20 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

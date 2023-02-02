@@ -4,12 +4,13 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-64 songs - 3 hr 35 min - not published yet
+71 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Certain Smile](https://open.spotify.com/track/3S2CLXMqZvrikqslQ0Zca2) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:22 | 2022-10-13 |  |
 | [After The Rain](https://open.spotify.com/track/5VLNiOFRm9ZtMojrjS5faz) | [Edgar Finnegan](https://open.spotify.com/artist/15iw6gErDKXlPsa961xmHK) | [After The Rain](https://open.spotify.com/album/5IJekJTt2i6tL1BQDO3odQ) | 2:47 | 2022-10-13 |  |
+| [Alone Together](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Alone Together](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:09 | 2022-12-15 |  |
 | [And I Love Her](https://open.spotify.com/track/6ITNRagpLcw79jH8gkiyBS) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [What's It All About](https://open.spotify.com/album/1PFk7YXdSPenmhnsy85qN0) | 4:22 | 2022-10-13 |  |
 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 | 2022-10-13 |  |
 | [Autumn Leaves](https://open.spotify.com/track/609aYx7tX9W22UwKaH7CRK) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 2:49 | 2022-10-13 |  |
@@ -47,14 +48,18 @@
 | [Mellow D](https://open.spotify.com/track/4cyKMZoxryulVelRY8Fj4G) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Mellow D](https://open.spotify.com/album/68X7GSqcU0rRDF737X94w5) | 3:56 | 2022-11-24 |  |
 | [Mona Lisa](https://open.spotify.com/track/2HGbt4l6SI2QklbIL56gqJ) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Kiss And Tell](https://open.spotify.com/album/5inAnI4fK2mZZKahLIxDGB) | 4:49 | 2022-10-13 |  |
 | [Moon River](https://open.spotify.com/track/7HFhaGSj1ZOsNwyDilDEGm) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Moon River](https://open.spotify.com/album/6IC8m7kndMMCp8OkNjnjPE) | 3:34 | 2022-10-13 |  |
+| [My Favorite Things](https://open.spotify.com/track/1lPh8cvsT4TaRZxtJ7Mcfb) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [My Favorite Things](https://open.spotify.com/album/7ezSR5lXvnK7H6na0exbbt) | 3:26 | 2022-12-01 |  |
 | [My Foolish Heart](https://open.spotify.com/track/3zsM3SaQiMxd3IEUeQ1L5n) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 3:51 | 2022-10-13 |  |
 | [My One and Only Love](https://open.spotify.com/track/2WoILWgDmo0bFmGF9zRiqz) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7) | [Day After Day](https://open.spotify.com/album/4CdfhCXT7I0uvRMssXrKd4) | 3:53 | 2022-10-13 |  |
 | [Night And Day](https://open.spotify.com/track/39ZjNUQtrNnAFImdzxfwNa) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 2:56 | 2022-10-27 |  |
+| [On Green Dolphin Street](https://open.spotify.com/track/4ej1jTPGqVOUtpIUcI5eK3) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [On Green Dolphin Street](https://open.spotify.com/album/5QH5ucUt4QE6bws2AHNEg5) | 1:51 | 2023-01-26 |  |
 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 | 2022-10-13 |  |
+| [Peace Please](https://open.spotify.com/track/3ff3uqKr2Yqx6nIXH6ZvMC) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/2UMdzyw84wCz3gKJtDVNhZ) | 1:28 | 2022-12-01 |  |
 | [Pretty Stars](https://open.spotify.com/track/4iEj3gYqRBz4mSpVGEj0fY) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 3:57 | 2022-10-13 |  |
 | [Rain, Rain](https://open.spotify.com/track/4Dvyyfa93OpZeJ3XgvS84I) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Dog, Happy Man](https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX) | 2:45 | 2022-10-13 |  |
 | [Red Sails in the Sunset](https://open.spotify.com/track/04ri8jkQTdZu3zu8ZbKZE8) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf), [John Pizzarelli Trio](https://open.spotify.com/artist/11elWakIc74gxcI5tftMKc) | [For Centennial Reasons: 100 Year Salute to Nat King Cole](https://open.spotify.com/album/0w7OS1dHGc86hVVuVC5y0S) | 3:20 | 2022-10-13 |  |
 | [Responsibilities](https://open.spotify.com/track/1Dx14n9PXzZ94BdZ8EUuHR) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 4:26 | 2022-10-13 |  |
+| [Satin Doll](https://open.spotify.com/track/2gLre4glCEpcNC0jxQzGaX) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Satin Doll](https://open.spotify.com/album/6NmACvVbLu1hgvQcaFiW2V) | 2:14 | 2022-12-29 |  |
 | [Send In The Clowns](https://open.spotify.com/track/3kdtKIAtbPAxQvalOD7kO6) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 2:46 | 2022-10-13 |  |
 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 | 2022-10-13 |  |
 | [Shenandoah](https://open.spotify.com/track/1jzpB4HeNMkAgb2SjJbE5B) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Best Jazz Guitarists](https://open.spotify.com/album/4ahmB62pU2kxrpiMvOUhjz) | 1:46 | 2022-10-13 |  |
@@ -64,7 +69,7 @@
 | [Tenderly](https://open.spotify.com/track/5wRKHllJVRtAaLmyN8tDHS) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 3:11 | 2022-10-13 |  |
 | [Thankful](https://open.spotify.com/track/3S0H62Wg9uTe1QRZsUL4H7) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 5:09 | 2022-10-13 |  |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2022-10-13 |  |
-| [The Very Thought Of You](https://open.spotify.com/track/1fpRIAQoMjwO9VPCc5LP8d) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 4:09 | 2022-10-13 |  |
+| [The Very Thought Of You](https://open.spotify.com/track/1fpRIAQoMjwO9VPCc5LP8d) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 4:09 | 2022-10-13 | 2023-01-20 |
 | [The Way You Look Tonight](https://open.spotify.com/track/4QzkLSRHaqdAj9MYdyzf5Z) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Love Songs](https://open.spotify.com/album/1mP0H6sPc8lEHpaBlsUw0i) | 5:35 | 2022-10-13 |  |
 | [Traveling Back](https://open.spotify.com/track/3MnJEpFl6B4PsyUcE1tstN) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 3:02 | 2022-10-13 |  |
 | [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 | 2022-10-13 |  |
@@ -72,5 +77,7 @@
 | [When It's Sleepy Time Down South](https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr) | [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR), [Helmut Nieberle](https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO) | [Timelines](https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY) | 3:20 | 2022-10-13 |  |
 | [Where or When](https://open.spotify.com/track/1VuheeJ6lNwZ9nO5FB4aqM) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 2:21 | 2022-10-13 |  |
 | [While We're Young](https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [So Much Guitar!](https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD) | 2:15 | 2022-10-13 |  |
+| [You Are Too Beautiful](https://open.spotify.com/track/4Z21YnfFOk7DCoRmSDsbDE) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [You Are Too Beautiful](https://open.spotify.com/album/321bjucXAq72mVgASyC5eT) | 2:07 | 2023-01-12 |  |
+| [You Go to My Head](https://open.spotify.com/track/1VB3aOUzV1vkjPYCUTmdMg) | [Maarten van der Grinten](https://open.spotify.com/artist/37e1k0TyFygkdwIn5paeFN) | [A Guitar, a Man & a Song, Vol\. I](https://open.spotify.com/album/44EMmTgbEmnr89sTqbnGLM) | 2:42 | 2023-01-05 |  |
 
 \*This playlist was first scraped on 2022-10-15. Prior content cannot be recovered.

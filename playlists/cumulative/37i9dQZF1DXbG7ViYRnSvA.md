@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-54 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/3S2KRj5dKDO1dKD6jiDu2L)
+54 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

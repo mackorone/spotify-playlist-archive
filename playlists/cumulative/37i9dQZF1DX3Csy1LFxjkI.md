@@ -4,7 +4,7 @@
 
 > All his biggest hits, all in one place.
 
-43 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/4yIYnwQo6SMudduGAj9nyA)
+43 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

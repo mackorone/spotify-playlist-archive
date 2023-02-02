@@ -4,7 +4,7 @@
 
 > With one of his biggest hits 'Summer of 69', he has contributed more than 30 years to the arts, particularly as a musician and also as an established photographer.
 
-50 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/0FzeKcZ9fafJ2Vf6hAqxym)
+50 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

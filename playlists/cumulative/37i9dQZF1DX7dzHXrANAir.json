@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
   "name": "Classical X",
-  "published_playlist_ids": [
-    "2iy6j9LlPViguwqLQQko18"
-  ],
   "tracks": [
     {
       "album": {
@@ -386,6 +383,28 @@
     },
     {
       "album": {
+        "name": "Blackfriars",
+        "url": "https://open.spotify.com/album/6a5Gl4FDc2uoCDe5mIevGE"
+      },
+      "artists": [
+        {
+          "name": "Anna Meredith",
+          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
+        },
+        {
+          "name": "Matthew Barley",
+          "url": "https://open.spotify.com/artist/7H3B421x5YuTEeO0hLH7nd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Blackfriars",
+      "url": "https://open.spotify.com/track/7H5EyhkBFd3R2ksjJhDtDH"
+    },
+    {
+      "album": {
         "name": "Brainwash",
         "url": "https://open.spotify.com/album/18T41TaoFWNZ3XYw0XPqWi"
       },
@@ -419,7 +438,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
@@ -482,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Caf\u00e9 Papantla",
+      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9 Papantla",
         "url": "https://open.spotify.com/album/5r84u6bUn5pJjHpGqiQgEt"
       },
@@ -493,7 +530,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 186000,
       "name": "Caf\u00e9 Papantla",
       "url": "https://open.spotify.com/track/7fjxZ5tSDAlFYmtRYaNu7V"
@@ -1053,7 +1090,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 237563,
       "name": "Diane",
       "url": "https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda"
@@ -1160,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/0NqSd0skPzDkg79dGFCWP0"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        },
+        {
+          "name": "Ethan Haman",
+          "url": "https://open.spotify.com/artist/5qAcdITOuOW160RolyW8zr"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499877,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/0knhlnjvPGxVpekHxWa8xD"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
       },
@@ -1175,7 +1234,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 267871,
       "name": "Enerhodar",
       "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
@@ -1193,7 +1252,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 334653,
       "name": "Enfantillages pittoresques: II. Berceuse - Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/5vXc6FRNDW6VkZNKJtTtb1"
@@ -1292,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "Glass Gateway",
+        "url": "https://open.spotify.com/album/2rw7rY5ebuktELGAJhZMnl"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "XA4",
+          "url": "https://open.spotify.com/artist/5epNEZk4o1xmCKCH7WhmiC"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 352181,
+      "name": "Etude No.12 (XA4 Remix)",
+      "url": "https://open.spotify.com/track/4FYOsrACpgx1zu5qQjcQFo"
+    },
+    {
+      "album": {
         "name": "Entanglement",
         "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
       },
@@ -1343,7 +1424,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": "2023-01-08",
       "duration_ms": 187850,
       "name": "False Sunset - Todd & Klein Rework",
       "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
@@ -1423,7 +1504,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 181460,
       "name": "Feel What You Need",
       "url": "https://open.spotify.com/track/2IfutHlzHKdogrpvOdUgan"
@@ -1463,7 +1544,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 244531,
       "name": "Flame - Edit",
       "url": "https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ"
@@ -1529,6 +1610,32 @@
       "duration_ms": 235563,
       "name": "G-Minor",
       "url": "https://open.spotify.com/track/7JRF4gqX6lYMPO6FnhPwKl"
+    },
+    {
+      "album": {
+        "name": "Gabriel (Tom Player Strings Version)",
+        "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh"
+        },
+        {
+          "name": "Tom Player",
+          "url": "https://open.spotify.com/artist/6kEt6wb2fUfh3iB7Sr0PrJ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182212,
+      "name": "Gabriel - Tom Player Strings Version",
+      "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
     },
     {
       "album": {
@@ -1827,7 +1934,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153120,
       "name": "Home",
       "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
@@ -2097,7 +2204,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 288391,
       "name": "IV",
       "url": "https://open.spotify.com/track/3GzrpaEfMKs562jfnjKm0g"
@@ -2699,7 +2806,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 393813,
       "name": "mist",
       "url": "https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt"
@@ -2983,7 +3090,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 216141,
       "name": "New Grass \u2014 piano reworks",
       "url": "https://open.spotify.com/track/3E8cDI21EQkDQjncehTKFL"
@@ -3588,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "Prayers",
+        "url": "https://open.spotify.com/album/44M51OEL60fhGnyht1CtVb"
+      },
+      "artists": [
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 307228,
+      "name": "Prayers",
+      "url": "https://open.spotify.com/track/2vmjrsYw0g3fpoJkuIzh05"
+    },
+    {
+      "album": {
         "name": "Rameau, etc",
         "url": "https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1"
       },
@@ -3599,7 +3724,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 245365,
       "name": "Rameau, etc",
       "url": "https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ"
@@ -3621,6 +3746,24 @@
       "duration_ms": 444963,
       "name": "Rembihn\u00fatur - Liminal re-work by Paul Corley",
       "url": "https://open.spotify.com/track/5jPcyrg8ixRFxWcybzoQGt"
+    },
+    {
+      "album": {
+        "name": "Walking With Ghosts",
+        "url": "https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a"
+      },
+      "artists": [
+        {
+          "name": "Thom Robson",
+          "url": "https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 234473,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
     },
     {
       "album": {
@@ -3715,7 +3858,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": "2023-02-01",
       "duration_ms": 238602,
       "name": "Riva",
       "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
@@ -3801,7 +3944,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 301299,
       "name": "Rose in Abstract - Portico Quartet Remix",
       "url": "https://open.spotify.com/track/4htEjLpOGBkjMHxoUslMgn"
@@ -4059,7 +4202,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 340023,
       "name": "Star of the County Down - Ambient Mix",
       "url": "https://open.spotify.com/track/6a14yJ4N2r2DFMyAA849gr"
@@ -4107,7 +4250,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 200270,
       "name": "Stone Stairs",
       "url": "https://open.spotify.com/track/0tjlqNVncu5dZ2Snz0jAJ3"
@@ -4449,7 +4592,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": "2023-01-03",
       "duration_ms": 388748,
       "name": "Vale",
       "url": "https://open.spotify.com/track/4RocG6490RoLRJgdbNZEEY"
@@ -4493,7 +4636,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 197041,
       "name": "Vermilion",
       "url": "https://open.spotify.com/track/4V2Hz5O0EOui1S3coZhdTd"
@@ -4679,7 +4822,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 280625,
       "name": "Who Tends a Garden",
       "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
@@ -4697,10 +4840,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 214153,
       "name": "Wind",
       "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"
+    },
+    {
+      "album": {
+        "name": "Actual Life 3 Piano EP (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/4S8ReXNJUYd3INog1JNlBJ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256874,
+      "name": "Winnie (rosslyn crescent)",
+      "url": "https://open.spotify.com/track/2TN2PcgQMQPnPVYHHts3Hu"
     },
     {
       "album": {
@@ -4737,6 +4898,24 @@
       "duration_ms": 202426,
       "name": "XYZ",
       "url": "https://open.spotify.com/track/72oEGguykIkj1PDA8dXTMW"
+    },
+    {
+      "album": {
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF"
+      },
+      "artists": [
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258221,
+      "name": "Zima",
+      "url": "https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe"
     },
     {
       "album": {

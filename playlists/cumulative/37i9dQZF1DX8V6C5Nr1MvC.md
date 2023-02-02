@@ -2,13 +2,13 @@
 
 ### [Rocktail Hour](https://open.spotify.com/playlist/37i9dQZF1DX8V6C5Nr1MvC)
 
-> Unwind and drink up these awesome Rock slow songs
+> Rock that's served neat and goes down smooth.
 
-125 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/497y8NFRf0FN68176BW58p)
+126 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 | 2020-09-15 |  |
+| [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 | 2020-09-15 | 2022-12-15 |
 | [All I Want Is You](https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 6:29 | 2020-09-15 |  |
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2020-09-15 |  |
 | [Bloodstream](https://open.spotify.com/track/1Kduitsdcdj9bvcM6SveHj) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Bloodstream](https://open.spotify.com/album/4Lp3E2QprLyhw99PmPabET) | 5:13 | 2022-05-24 | 2022-11-13 |
@@ -50,6 +50,7 @@
 | [Gone Away](https://open.spotify.com/track/31Kn2JycP5A1pa6tPnLQKP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll](https://open.spotify.com/album/0wHDdwLUroXgyW2xnQKOeo) | 3:16 | 2021-05-25 | 2022-07-29 |
 | [Gone Away \- 2021](https://open.spotify.com/track/01mRJG8JVQnzGpVnGhNQKC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:16 | 2022-05-24 |  |
 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 | 2020-09-15 |  |
+| [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-12-14 |  |
 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 | 2022-05-24 |  |
 | [Hard To Be Alone](https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Hard To Be Alone](https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14) | 3:02 | 2020-09-15 |  |
 | [High and Dry](https://open.spotify.com/track/1VxlPYeR35DjigoCs6SraA) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [High & Dry / Planet Telex](https://open.spotify.com/album/5vldPxf0zDeF3S7U3WURJ4) | 4:17 | 2022-05-24 | 2022-11-13 |

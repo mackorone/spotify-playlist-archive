@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-51 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/4o3g5ZTm3KTlClybqDIOUJ)
+52 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [When Tony Met Sosa](https://open.spotify.com/track/4ahc42KacGWjE3j0DPNSK5) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [The Plugs I Met 2](https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj) | 2:21 | 2022-10-01 |  |
 | [Whoopty](https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Whoopty](https://open.spotify.com/album/5oBYG6dEI2Er6EeLnmonGE) | 2:03 | 2022-10-01 |  |
 | [Wipe Me Down \(feat\. Foxx, Webbie & Lil Boosie\) \- Remix](https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Foxx](https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl) | [Survival Of The Fittest](https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg) | 4:32 | 2022-10-01 |  |
-| [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry) | 3:46 | 2022-10-01 |  |
+| [You're Mines Still \(feat\. Drake\)](https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:46 | 2022-10-01 |  |
+| [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [You’re Mines Still \(feat\. Drake\)](https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry) | 3:46 | 2022-10-01 | 2023-01-01 |
 
 \*This playlist was first scraped on 2022-10-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Riscopri le più grandi hit del 2013! Cover: Avicii
 
-159 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/34En1MSOiDJz5Riv1ykLOu)
+159 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

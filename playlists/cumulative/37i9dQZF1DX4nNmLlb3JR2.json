@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-09",
   "description": "A fresh spin on your favourite tunes - Instrumental lofi covers for chill, work and play.",
   "name": "lofi covers",
-  "published_playlist_ids": [
-    "0iwVMDx4NSRh0sfP026H4E"
-  ],
   "tracks": [
     {
       "album": {
@@ -128,6 +125,24 @@
     },
     {
       "album": {
+        "name": "all the small things",
+        "url": "https://open.spotify.com/album/1XZ6AcxnxRtRl65OCNXhEK"
+      },
+      "artists": [
+        {
+          "name": "last analogy",
+          "url": "https://open.spotify.com/artist/5ZHfB3odAIJJkiEg5PJ1wz"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97834,
+      "name": "all the small things",
+      "url": "https://open.spotify.com/track/6t1ndytBBuHParrtf27iT5"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/0wzBq0J7HSA7q4qShqj6ZY"
       },
@@ -204,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/2NgYRdlV18RPqXnGSAh2L7"
+      },
+      "artists": [
+        {
+          "name": "intime",
+          "url": "https://open.spotify.com/artist/7qRNFExHXMXcJtmjafPasi"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116800,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/5EBcTHjNbzyTU8ESzD7bd8"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/6SSGQmNoS5n0ojWzSHQTh3"
       },
@@ -219,6 +252,24 @@
       "duration_ms": 150000,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/7dSoV6Suc4ye0JCoyNWJJR"
+    },
+    {
+      "album": {
+        "name": "INDUSTRY BABY",
+        "url": "https://open.spotify.com/album/5y9jSiiVOhg9Lw97EEVXUp"
+      },
+      "artists": [
+        {
+          "name": "ohlos",
+          "url": "https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/6XuohehgXJ3OLFFV3sdHMm"
     },
     {
       "album": {
@@ -276,16 +327,34 @@
     },
     {
       "album": {
+        "name": "black hole sun",
+        "url": "https://open.spotify.com/album/09EIY7Lby5D1Yso9b9h5q2"
+      },
+      "artists": [
+        {
+          "name": "Sinebreak",
+          "url": "https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144474,
+      "name": "black hole sun",
+      "url": "https://open.spotify.com/track/5vuHmy1QUl4nV44TTF123r"
+    },
+    {
+      "album": {
         "name": "Born To Be Wild - chill lofi remix",
         "url": "https://open.spotify.com/album/67Yu8CZ98TdOatwcujKpCs"
       },
       "artists": [
         {
-          "name": "lofi.remixes",
+          "name": "The Remix Station",
           "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
         },
         {
-          "name": "lofi.rocks",
+          "name": "The Rolling Beats",
           "url": "https://open.spotify.com/artist/7wvka6LIqEi6lGyljOm2h0"
         }
       ],
@@ -338,6 +407,24 @@
     },
     {
       "album": {
+        "name": "californication",
+        "url": "https://open.spotify.com/album/2Dvz9vSWLxEBd2eO6uldcU"
+      },
+      "artists": [
+        {
+          "name": "kent mills",
+          "url": "https://open.spotify.com/artist/7622kFOP9UZ4bl6DN87EIZ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "californication",
+      "url": "https://open.spotify.com/track/4tGyu6JEpbpYGCmwijRYOt"
+    },
+    {
+      "album": {
         "name": "Covers Collection (Vol. 3)",
         "url": "https://open.spotify.com/album/6xV0OXNjDLNExHKq0NO6Tc"
       },
@@ -375,6 +462,24 @@
       "duration_ms": 121361,
       "name": "Cantaloupe Island - Spotify Singles",
       "url": "https://open.spotify.com/track/7yKsd3VFFd4RD5Io5c1LyR"
+    },
+    {
+      "album": {
+        "name": "chandelier",
+        "url": "https://open.spotify.com/album/7rd5lKApMDcncjp7ZBEoMQ"
+      },
+      "artists": [
+        {
+          "name": "niff_",
+          "url": "https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "chandelier",
+      "url": "https://open.spotify.com/track/25AjoIOjVfxe6kgE9ftvep"
     },
     {
       "album": {
@@ -477,11 +582,11 @@
       },
       "artists": [
         {
-          "name": "lofi.remixes",
+          "name": "The Remix Station",
           "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
         },
         {
-          "name": "lofi.rocks",
+          "name": "The Rolling Beats",
           "url": "https://open.spotify.com/artist/7wvka6LIqEi6lGyljOm2h0"
         }
       ],
@@ -491,6 +596,24 @@
       "duration_ms": 136500,
       "name": "Come Together - chill lofi remix",
       "url": "https://open.spotify.com/track/3ibrvhYXgovCZtMISkjgzn"
+    },
+    {
+      "album": {
+        "name": "crazy",
+        "url": "https://open.spotify.com/album/50wsgeti0VbzwGjs4458yM"
+      },
+      "artists": [
+        {
+          "name": "QUARTEER",
+          "url": "https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135767,
+      "name": "crazy",
+      "url": "https://open.spotify.com/track/5Ef8wG2dTT24vh4a79IWin"
     },
     {
       "album": {
@@ -521,7 +644,7 @@
           "url": "https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8"
         },
         {
-          "name": "lofi.remixes",
+          "name": "The Remix Station",
           "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
         }
       ],
@@ -531,6 +654,24 @@
       "duration_ms": 191752,
       "name": "Dance Monkey - lofi version",
       "url": "https://open.spotify.com/track/17DdnBLc7zGBiPeS6mT6PR"
+    },
+    {
+      "album": {
+        "name": "dancing in the moonlight",
+        "url": "https://open.spotify.com/album/5r9jGo8HPdSpDJRW7ofhSv"
+      },
+      "artists": [
+        {
+          "name": "hinako fukushi",
+          "url": "https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "dancing in the moonlight",
+      "url": "https://open.spotify.com/track/1ZlN7b6imuKQUQa7ZoRmvk"
     },
     {
       "album": {
@@ -621,6 +762,24 @@
       "duration_ms": 137746,
       "name": "don't speak",
       "url": "https://open.spotify.com/track/1UPLRT8BIUOn6K08YlnCAQ"
+    },
+    {
+      "album": {
+        "name": "don't you worry child",
+        "url": "https://open.spotify.com/album/02Nu5KQ4VUHIiWB3KH3B2w"
+      },
+      "artists": [
+        {
+          "name": "LisaMadeIt",
+          "url": "https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160240,
+      "name": "don't you worry child",
+      "url": "https://open.spotify.com/track/3rWUFqb1tuwFY0kl7OUwuZ"
     },
     {
       "album": {
@@ -730,6 +889,24 @@
     },
     {
       "album": {
+        "name": "family affair",
+        "url": "https://open.spotify.com/album/37XGCHq6SPL31p2Pq9xUXB"
+      },
+      "artists": [
+        {
+          "name": "ben buru",
+          "url": "https://open.spotify.com/artist/5mRaT6rnqIeeuE6Io3mVRS"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128226,
+      "name": "family affair",
+      "url": "https://open.spotify.com/track/1tbdipzh1tNTnaNAqflkE4"
+    },
+    {
+      "album": {
         "name": "Covers Collection (Vol. 4)",
         "url": "https://open.spotify.com/album/2VJHjsmXACarvKY0qhP404"
       },
@@ -766,6 +943,24 @@
     },
     {
       "album": {
+        "name": "fly away",
+        "url": "https://open.spotify.com/album/4LqsbsDUK9nMERCArof3w8"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111538,
+      "name": "fly away",
+      "url": "https://open.spotify.com/track/3nEKznjXAihwGO0KDodJYi"
+    },
+    {
+      "album": {
         "name": "fly me to the moon ~ lofi",
         "url": "https://open.spotify.com/album/0opYKO3lnDCWgHtaq7wlBG"
       },
@@ -781,6 +976,24 @@
       "duration_ms": 64503,
       "name": "fly me to the moon ~ lofi",
       "url": "https://open.spotify.com/track/5KIzXL5NxUb8NZQEuSqFt6"
+    },
+    {
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/5cCEONJGfWiPtR9yn63Ghf"
+      },
+      "artists": [
+        {
+          "name": "vhsgus",
+          "url": "https://open.spotify.com/artist/00TOxSwNCa7VrxLcdobxyb"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179439,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/3Mt0mb8hQcCrzQUEMGXhWX"
     },
     {
       "album": {
@@ -976,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Hotel California (Lofi Tune)",
+        "url": "https://open.spotify.com/album/0noN2xiFTC2PjMWejNHV41"
+      },
+      "artists": [
+        {
+          "name": "vort vort",
+          "url": "https://open.spotify.com/artist/46mWoMwui62bv2s52HiSO8"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164010,
+      "name": "Hotel California (Lofi Tune)",
+      "url": "https://open.spotify.com/track/2MsYbvZ0XqSeYLcMHg1gHr"
+    },
+    {
+      "album": {
         "name": "I've Seen You Somewhere Before",
         "url": "https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx"
       },
@@ -1070,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "i follow rivers",
+        "url": "https://open.spotify.com/album/0TgzNPeF5HTOOLhtFhsRdz"
+      },
+      "artists": [
+        {
+          "name": "Mushhi",
+          "url": "https://open.spotify.com/artist/1NtM12STZroHO6boHGnnAk"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "i follow rivers",
+      "url": "https://open.spotify.com/track/33NOfDaVqMf9XJzTeGuV2B"
+    },
+    {
+      "album": {
         "name": "I Took a Pill in Ibiza",
         "url": "https://open.spotify.com/album/6zjzyzBuav0MnSELLr4K0U"
       },
@@ -1107,6 +1356,24 @@
       "duration_ms": 138857,
       "name": "I Took A Pill In Ibiza",
       "url": "https://open.spotify.com/track/1E5gES1ms01jbmsqrQGIM2"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be Yours",
+        "url": "https://open.spotify.com/album/320qqaTJSFgI1zqEeRPULg"
+      },
+      "artists": [
+        {
+          "name": "Joongle",
+          "url": "https://open.spotify.com/artist/5NChOzODHzPYNB4iho8Zcy"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/61VtQO8JpakFjWYcdo0ZD3"
     },
     {
       "album": {
@@ -1182,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "ironic",
+        "url": "https://open.spotify.com/album/3cwu9i3YVSy5AetWODvVIe"
+      },
+      "artists": [
+        {
+          "name": "amelia liz",
+          "url": "https://open.spotify.com/artist/7N0txyqhJC7i8CPZQoWOVq"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124186,
+      "name": "ironic",
+      "url": "https://open.spotify.com/track/7Dz2anSQkjnuMx4FFGqx4b"
+    },
+    {
+      "album": {
         "name": "It\u00b4ll Be Okay",
         "url": "https://open.spotify.com/album/2mGgf7bFW0I5ACBaUQZ0oI"
       },
@@ -1240,6 +1525,32 @@
     },
     {
       "album": {
+        "name": "Covers, Vol. 18",
+        "url": "https://open.spotify.com/album/6X5rlOkzgx4K9wO4RzAUEJ"
+      },
+      "artists": [
+        {
+          "name": "Chill With Lofi",
+          "url": "https://open.spotify.com/artist/7CHCHpUzDDPRElNiZYmcbI"
+        },
+        {
+          "name": "Cidus",
+          "url": "https://open.spotify.com/artist/4hHO8tDVAyaTdDKl3R12WH"
+        },
+        {
+          "name": "Emil Lonam",
+          "url": "https://open.spotify.com/artist/0eJbpPFhB19EvgEmYBIwLG"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174120,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/3Sh9C9k6uZcYK68u76gTA9"
+    },
+    {
+      "album": {
         "name": "Just the Way You Are",
         "url": "https://open.spotify.com/album/2XsNMs7FezfBjQJRPzL8uo"
       },
@@ -1280,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Lean On",
+        "url": "https://open.spotify.com/album/0nKH1DuZNljg8juAp1pgJM"
+      },
+      "artists": [
+        {
+          "name": "Noudi",
+          "url": "https://open.spotify.com/artist/1sJSBmpp5Iox07sKjKHEjJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121875,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/3Inh8C7kUU48Vs7lBOqsfY"
+    },
+    {
+      "album": {
         "name": "leave the door open",
         "url": "https://open.spotify.com/album/7ndC4fkH7GALSEjwQXpJic"
       },
@@ -1295,6 +1624,42 @@
       "duration_ms": 148833,
       "name": "leave the door open",
       "url": "https://open.spotify.com/track/2bNqkCkkkFBQZYIW8WtjPq"
+    },
+    {
+      "album": {
+        "name": "let her go",
+        "url": "https://open.spotify.com/album/7AArqzaszHfzpvJCDjr7eg"
+      },
+      "artists": [
+        {
+          "name": "Miller Jones",
+          "url": "https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "let her go",
+      "url": "https://open.spotify.com/track/0UyJsekOmf7bePNLCU1LE1"
+    },
+    {
+      "album": {
+        "name": "Let Her Go",
+        "url": "https://open.spotify.com/album/7GcWIv4pQ0PsEBzmH3Ya6w"
+      },
+      "artists": [
+        {
+          "name": "Mount Eminest",
+          "url": "https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142178,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/1AEGSdFCige8XcJHyzzP0Z"
     },
     {
       "album": {
@@ -1334,6 +1699,28 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/24GISvJXpqwFbUjifnZBOW"
+      },
+      "artists": [
+        {
+          "name": "DJ Garlik",
+          "url": "https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF"
+        },
+        {
+          "name": "Noomz",
+          "url": "https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123197,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/5PCMHyeDn6cGSO2Tukf0Dr"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/1x0vLnePrBCJOGS42E0FTY"
       },
@@ -1349,6 +1736,28 @@
       "duration_ms": 182727,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2rsG3qVHOsXAIW1Qj7sdWt"
+    },
+    {
+      "album": {
+        "name": "love me like you do - lofi",
+        "url": "https://open.spotify.com/album/5G7LFYUjjdBbermgFy0gMD"
+      },
+      "artists": [
+        {
+          "name": "Jaden Christy",
+          "url": "https://open.spotify.com/artist/26Lja0Loc02XwrkUdLH7X9"
+        },
+        {
+          "name": "its' okay",
+          "url": "https://open.spotify.com/artist/3QXV9QkkHt7OHFOa03irsq"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "love me like you do - lofi",
+      "url": "https://open.spotify.com/track/490fqdlm8AGR5tRWcoBGKj"
     },
     {
       "album": {
@@ -1407,6 +1816,24 @@
       "duration_ms": 124137,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/45atCi3vYyXtz9ijskqGN5"
+    },
+    {
+      "album": {
+        "name": "Portals pt 2",
+        "url": "https://open.spotify.com/album/7yOQ2GIiEZz4nVo4BF7CPb"
+      },
+      "artists": [
+        {
+          "name": "Miro Mas",
+          "url": "https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158685,
+      "name": "My Mind & Me",
+      "url": "https://open.spotify.com/track/43M3Hb61vb3BQVLKPx5zqC"
     },
     {
       "album": {
@@ -1593,7 +2020,7 @@
       },
       "artists": [
         {
-          "name": "lofi.remixes",
+          "name": "The Remix Station",
           "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
         },
         {
@@ -1607,6 +2034,42 @@
       "duration_ms": 105205,
       "name": "Pink Venom (lofi edit)",
       "url": "https://open.spotify.com/track/16ihKUs4sLMPRShfWUJRFN"
+    },
+    {
+      "album": {
+        "name": "pony",
+        "url": "https://open.spotify.com/album/5Ge4f7HHDPK0k78KqLVWvl"
+      },
+      "artists": [
+        {
+          "name": "haki donzo",
+          "url": "https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119257,
+      "name": "pony",
+      "url": "https://open.spotify.com/track/26e0Jbyt61AzuFz7UCh1vm"
+    },
+    {
+      "album": {
+        "name": "positions",
+        "url": "https://open.spotify.com/album/1Qg24CVSHe2HujGzBdyaCz"
+      },
+      "artists": [
+        {
+          "name": "Tetouan",
+          "url": "https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/5TQQq4JhYl6eMR4PCCTMhi"
     },
     {
       "album": {
@@ -1645,7 +2108,7 @@
           "url": "https://open.spotify.com/artist/05k7SGKHRRfKpBvjcRMxQ6"
         },
         {
-          "name": "lofi.remixes",
+          "name": "The Remix Station",
           "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
         }
       ],
@@ -1655,6 +2118,46 @@
       "duration_ms": 131253,
       "name": "regulate",
       "url": "https://open.spotify.com/track/5m0GxUaV20W6TEvfcjMOde"
+    },
+    {
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/0TvE8k428OOX0fF5EeuGMS"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Melody",
+          "url": "https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv"
+        },
+        {
+          "name": "soave lofi",
+          "url": "https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7rJtnC36LIn2faOY55y7wJ"
+    },
+    {
+      "album": {
+        "name": "return of the mack",
+        "url": "https://open.spotify.com/album/3lXo6Mz1XdXAjim0ktrRBa"
+      },
+      "artists": [
+        {
+          "name": "FG yang",
+          "url": "https://open.spotify.com/artist/2Cub4EX4bNBLZMbbfzTumv"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146038,
+      "name": "return of the mack",
+      "url": "https://open.spotify.com/track/7HGdyvJyIy1d1MVsXxPcox"
     },
     {
       "album": {
@@ -1966,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "she will be loved",
+        "url": "https://open.spotify.com/album/3oK5eRDE032LFWq8AalA53"
+      },
+      "artists": [
+        {
+          "name": "Niebieski",
+          "url": "https://open.spotify.com/artist/5UAuF0nlkpdqktgrW7SqaG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "she will be loved",
+      "url": "https://open.spotify.com/track/7bvYGOVK9TXQd9NGyGn8PC"
+    },
+    {
+      "album": {
         "name": "The Covers, Json",
         "url": "https://open.spotify.com/album/4Y7upisR167IkiC82ZU6dw"
       },
@@ -2046,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "so sick",
+        "url": "https://open.spotify.com/album/4Vv9Xe8EXex4XS0EAoJ4Vt"
+      },
+      "artists": [
+        {
+          "name": "flowtide",
+          "url": "https://open.spotify.com/artist/1krCmhhTo8H7k8YxKoKpbv"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121978,
+      "name": "so sick",
+      "url": "https://open.spotify.com/track/04P0VWJ6oo8Hh7pmyrQIuW"
+    },
+    {
+      "album": {
         "name": "LoFi Remixes of Famous TikTok Songs (songs stuck in your head)",
         "url": "https://open.spotify.com/album/5PtYr6slAFyJ0afCDPlkgK"
       },
@@ -2055,7 +2594,7 @@
           "url": "https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8"
         },
         {
-          "name": "lofi.remixes",
+          "name": "The Remix Station",
           "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
         }
       ],
@@ -2083,6 +2622,24 @@
       "duration_ms": 191819,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/4zkSqnyv3re6lZhLRYghY8"
+    },
+    {
+      "album": {
+        "name": "stay with me",
+        "url": "https://open.spotify.com/album/1wIME3lWJVOGJWHvLdjYUF"
+      },
+      "artists": [
+        {
+          "name": "Reggie Lume",
+          "url": "https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134926,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/5DTBkfXH6YJV42PD3NxQVx"
     },
     {
       "album": {
@@ -2170,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "teardrop",
+        "url": "https://open.spotify.com/album/4r5blpoDuMRQt0BvW6UdqM"
+      },
+      "artists": [
+        {
+          "name": "Ana Luiz",
+          "url": "https://open.spotify.com/artist/4Eo9c1kGd6MmTWiNsRUrTl"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99160,
+      "name": "teardrop",
+      "url": "https://open.spotify.com/track/5RoOmKUeBRmwe2eWsGnDZH"
+    },
+    {
+      "album": {
         "name": "teenage dirtbag",
         "url": "https://open.spotify.com/album/49cTRGNuXKmfpLhVFCXST9"
       },
@@ -2239,6 +2814,24 @@
       "duration_ms": 151621,
       "name": "Time Will Tell (Lofi Version)",
       "url": "https://open.spotify.com/track/2GWOXJQiRo6eERhjjlSk1w"
+    },
+    {
+      "album": {
+        "name": "torn",
+        "url": "https://open.spotify.com/album/0VenEsLrMcNknwqv7TwFbG"
+      },
+      "artists": [
+        {
+          "name": "jaxtun",
+          "url": "https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "torn",
+      "url": "https://open.spotify.com/track/1hsUzbM1vdBCzJBfWX4S9a"
     },
     {
       "album": {
@@ -2350,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "want to want me",
+        "url": "https://open.spotify.com/album/2SoUBW7aej6obPHrEFAuoE"
+      },
+      "artists": [
+        {
+          "name": "lonely call",
+          "url": "https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128131,
+      "name": "want to want me",
+      "url": "https://open.spotify.com/track/5puZEIkF0RN3zcaTpehfkf"
+    },
+    {
+      "album": {
         "name": "Waterfalls",
         "url": "https://open.spotify.com/album/40p2rxjyHKwvB94u7jrqrK"
       },
@@ -2441,6 +3052,42 @@
       "duration_ms": 140979,
       "name": "waves",
       "url": "https://open.spotify.com/track/7piFPg3kuRbodjCBWjUsXS"
+    },
+    {
+      "album": {
+        "name": "weak",
+        "url": "https://open.spotify.com/album/3Wfzenh9G4maSH1Hh3BP9i"
+      },
+      "artists": [
+        {
+          "name": "phonadium",
+          "url": "https://open.spotify.com/artist/1EbUbtNohBB2nDSZVdb0P8"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175775,
+      "name": "weak",
+      "url": "https://open.spotify.com/track/1fDXEyf7ljEsUN3iAPzyNd"
+    },
+    {
+      "album": {
+        "name": "When Luv Takes Over",
+        "url": "https://open.spotify.com/album/5oOQw8yGLUvKgxcc6C6qw7"
+      },
+      "artists": [
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "When Luv Takes Over",
+      "url": "https://open.spotify.com/track/3FQWEdPPACJWoPwLcLVbaZ"
     },
     {
       "album": {
@@ -2539,6 +3186,24 @@
       "duration_ms": 213250,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W"
+    },
+    {
+      "album": {
+        "name": "young folks",
+        "url": "https://open.spotify.com/album/3UwBdJs9Mxm3y699ElCCKR"
+      },
+      "artists": [
+        {
+          "name": "Mrs Blonded",
+          "url": "https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122988,
+      "name": "young folks",
+      "url": "https://open.spotify.com/track/1aYcdEUigk7EO41RgbkYZh"
     },
     {
       "album": {

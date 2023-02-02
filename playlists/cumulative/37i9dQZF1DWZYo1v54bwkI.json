@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "Respira profundamente y relaja tu mente.",
   "name": "M\u00fasica para Meditar",
-  "published_playlist_ids": [
-    "0G8qRVn0Vna4fIDYRsglM1"
-  ],
   "tracks": [
     {
       "album": {
@@ -199,7 +196,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 250214,
       "name": "Angel Dust",
       "url": "https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR"
@@ -800,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Cuimhne",
+        "url": "https://open.spotify.com/album/11HhPEoFFN56mWcKAcelI8"
+      },
+      "artists": [
+        {
+          "name": "Cadhla Byrne",
+          "url": "https://open.spotify.com/artist/73717wA5LNgbEDtJ2lqSW1"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170874,
+      "name": "Cuimhne",
+      "url": "https://open.spotify.com/track/3cuSTJIpzPdmI1a46b4xth"
+    },
+    {
+      "album": {
         "name": "C\u00edes",
         "url": "https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC"
       },
@@ -851,6 +866,42 @@
       "duration_ms": 184250,
       "name": "Diem Vesper Commendat",
       "url": "https://open.spotify.com/track/5Kzm98GR30X1sEYWKE2eB9"
+    },
+    {
+      "album": {
+        "name": "Selah",
+        "url": "https://open.spotify.com/album/3JAIlFvm8jDNaB3ciieLqK"
+      },
+      "artists": [
+        {
+          "name": "Nova Issue",
+          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185322,
+      "name": "Divine minds",
+      "url": "https://open.spotify.com/track/6skca3GCeAwI3v9EKznj7C"
+    },
+    {
+      "album": {
+        "name": "Diya",
+        "url": "https://open.spotify.com/album/75RWs6QheVsXJjnNLal5XB"
+      },
+      "artists": [
+        {
+          "name": "Tamila Gagan",
+          "url": "https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143124,
+      "name": "Diya",
+      "url": "https://open.spotify.com/track/1FEQqp99xeDhPOyio58L2N"
     },
     {
       "album": {
@@ -980,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Easy Relaxation",
+        "url": "https://open.spotify.com/album/2d1vqShDaC1AEcLIQVomTM"
+      },
+      "artists": [
+        {
+          "name": "Whispers in Haze",
+          "url": "https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Easy Relaxation",
+      "url": "https://open.spotify.com/track/5C2kORborDnldRKdr5jcQY"
+    },
+    {
+      "album": {
         "name": "Eller",
         "url": "https://open.spotify.com/album/4myRid1Fkb4ipyrcVqk0yJ"
       },
@@ -1021,8 +1090,8 @@
       },
       "artists": [
         {
-          "name": "Memoryan",
-          "url": "https://open.spotify.com/artist/7qkMcHkUrGOE4FI4k12kVR"
+          "name": "Felix Vidal",
+          "url": "https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A"
         }
       ],
       "date_added": "2022-07-15",
@@ -1085,6 +1154,24 @@
       "duration_ms": 276768,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/49lHDhDMadb0YXVMsLs0gy"
+    },
+    {
+      "album": {
+        "name": "Mind Balance",
+        "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183225,
+      "name": "Explorer",
+      "url": "https://open.spotify.com/track/0midUtkfJN36sYHv3eVWYj"
     },
     {
       "album": {
@@ -1157,6 +1244,24 @@
       "duration_ms": 139000,
       "name": "First Ray of Sun",
       "url": "https://open.spotify.com/track/7lEws7eRAGDDUY39l8VlBH"
+    },
+    {
+      "album": {
+        "name": "Illusive",
+        "url": "https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71"
+      },
+      "artists": [
+        {
+          "name": "Maximilian Zapdo",
+          "url": "https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181181,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886"
     },
     {
       "album": {
@@ -1913,7 +2018,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 119554,
       "name": "Morning Breeze",
       "url": "https://open.spotify.com/track/3n0oenkKLS8SyJtd4fUkak"
@@ -1997,8 +2102,8 @@
       },
       "artists": [
         {
-          "name": "Jupos",
-          "url": "https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB"
+          "name": "Ami Sanou",
+          "url": "https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY"
         }
       ],
       "date_added": "2022-07-15",
@@ -2115,6 +2220,24 @@
       "duration_ms": 201333,
       "name": "Omsluten",
       "url": "https://open.spotify.com/track/7mmhIxGPMPFCBzfN6M9QXp"
+    },
+    {
+      "album": {
+        "name": "Open Air",
+        "url": "https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs"
+      },
+      "artists": [
+        {
+          "name": "Ion Dia",
+          "url": "https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163014,
+      "name": "Open Air",
+      "url": "https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU"
     },
     {
       "album": {
@@ -2388,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "Calming Sounds",
+        "url": "https://open.spotify.com/album/3lep8BdhfX3rEnCauSUtLE"
+      },
+      "artists": [
+        {
+          "name": "Eustace Zachary",
+          "url": "https://open.spotify.com/artist/02z2wzPVdsZWkKB0BRfhBM"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195717,
+      "name": "Pure Elements",
+      "url": "https://open.spotify.com/track/3VXo1X3728wauOstZ44viK"
+    },
+    {
+      "album": {
         "name": "Quiet Lights",
         "url": "https://open.spotify.com/album/1nB1Z0e3yKPyXDlp5YLI4G"
       },
@@ -2541,8 +2682,8 @@
       },
       "artists": [
         {
-          "name": "Yestize",
-          "url": "https://open.spotify.com/artist/6Q7kUyZyeap1NroAeY39R1"
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
         }
       ],
       "date_added": "2022-10-15",
@@ -2824,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Silverlake",
+        "url": "https://open.spotify.com/album/6im1RikgNycliwiJuRNuhC"
+      },
+      "artists": [
+        {
+          "name": "Autana",
+          "url": "https://open.spotify.com/artist/6IluiyuH1jzW1Uv6625D2N"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161910,
+      "name": "Silverlake",
+      "url": "https://open.spotify.com/track/6m1YYCuzlm7iWOkKrpAJrl"
+    },
+    {
+      "album": {
         "name": "Skaisti",
         "url": "https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV"
       },
@@ -2883,8 +3042,8 @@
       },
       "artists": [
         {
-          "name": "Moon Dreaming",
-          "url": "https://open.spotify.com/artist/4nJRn0hxXlJXyP9heK1nj2"
+          "name": "Lunasette",
+          "url": "https://open.spotify.com/artist/4llg8iirvoMBMFQHXUkusG"
         }
       ],
       "date_added": "2022-07-15",
@@ -3001,6 +3160,24 @@
       "duration_ms": 154423,
       "name": "Southward Bound (432 Hz)",
       "url": "https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH"
+    },
+    {
+      "album": {
+        "name": "Spiritual Balance",
+        "url": "https://open.spotify.com/album/7tDxaBx1lXyzMIi4oqExgI"
+      },
+      "artists": [
+        {
+          "name": "Ambient X",
+          "url": "https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167192,
+      "name": "Spiritual Balance",
+      "url": "https://open.spotify.com/track/6CzRJvO258XHqqUSzmsP4X"
     },
     {
       "album": {
@@ -3177,7 +3354,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 153857,
       "name": "Transparent",
       "url": "https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK"

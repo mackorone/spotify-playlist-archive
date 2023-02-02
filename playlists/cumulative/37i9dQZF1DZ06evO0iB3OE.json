@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
   "name": "This Is El Potro De Sinaloa",
-  "published_playlist_ids": [
-    "0XHNiJHCrhXtyllBBKiZGi"
-  ],
   "tracks": [
     {
       "album": {
@@ -395,7 +392,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 231533,
       "name": "El Cargamento Del Diablo",
       "url": "https://open.spotify.com/track/7sGWaqVuPGvfmXtnF71frT"
@@ -485,7 +482,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 163200,
       "name": "El Corrido de los Sanchez",
       "url": "https://open.spotify.com/track/5fplumrllP0zveqPg01xDM"
@@ -528,6 +525,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde Culiacan",
+        "url": "https://open.spotify.com/album/3vO5QnF68MTUPEIZAswBHF"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186456,
+      "name": "El HR - En Vivo Desde Culiacan",
+      "url": "https://open.spotify.com/track/4prEQWESWt6hWYuBLiQG52"
+    },
+    {
+      "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
       },
@@ -557,7 +572,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 173506,
       "name": "El Ingeniero",
       "url": "https://open.spotify.com/track/1WBlUy4TmAtgPuxEYUlkqN"
@@ -713,7 +728,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-06",
       "duration_ms": 224960,
       "name": "El Ni\u00f1o Sabio",
       "url": "https://open.spotify.com/track/10R5cUV5ba5FcjbnMgPlo0"
@@ -975,6 +990,28 @@
       "duration_ms": 186586,
       "name": "La Captura Del Zar",
       "url": "https://open.spotify.com/track/4UzgvxcaLDMM6iujVVHb3m"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4ljrMwbwty2xHLrr7MoKV4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Principal",
+          "url": "https://open.spotify.com/artist/4vOJ8YryffZVAR1NgPQPd1"
+        },
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221857,
+      "name": "La Captura Del Zar (En Vivo)",
+      "url": "https://open.spotify.com/track/09W3AqptHUREeMyfu7OihD"
     },
     {
       "album": {
@@ -1397,7 +1434,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": "2023-01-28",
       "duration_ms": 149973,
       "name": "Por Que No Vienes",
       "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
@@ -1527,7 +1564,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 186251,
       "name": "Yo Perdi - En Vivo",
       "url": "https://open.spotify.com/track/2qtZ6TVydnXxjB9aTtgwF3"

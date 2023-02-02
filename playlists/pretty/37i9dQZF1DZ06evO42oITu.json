@@ -1,17 +1,17 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 303499,
+  "num_followers": 309899,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDAxNGIyNTI4OTdmMjZmNTg5NjkyYTJhOWJhM2EwOWFlNw==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDA3NWFkNmZjNTlhNTJiZGViNDkxNjQyZTVmMmUwZWY4Zg==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -21,11 +21,11 @@
         }
       ],
       "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Tears in Heaven - Acoustic Live",
       "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
@@ -41,7 +41,39 @@
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic Live",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Slowhand 35th Anniversary",
         "url": "https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT"
@@ -57,10 +89,10 @@
       "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Forever Man",
-        "url": "https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T"
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
       "artists": [
         {
@@ -68,12 +100,12 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 269893,
-      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2015 Remaster",
-      "url": "https://open.spotify.com/track/3araxDbRmXOwPPiG94HR15"
+      "duration_ms": 236093,
+      "name": "Lay Down Sally",
+      "url": "https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Fields Of Gold - The Best Of Sting 1984 - 1994",
         "url": "https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf"
@@ -93,10 +125,10 @@
       "url": "https://open.spotify.com/track/1X3Vb1oIAW6Ee22JZAEi59"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
       },
       "artists": [
         {
@@ -104,12 +136,12 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 236093,
-      "name": "Lay Down Sally",
-      "url": "https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG"
+      "duration_ms": 323440,
+      "name": "My Father's Eyes",
+      "url": "https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
@@ -129,23 +161,7 @@
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Forever Man",
-        "url": "https://open.spotify.com/album/1i1OirKFpITQYYWDPEDjx7"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Change the World - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1o2QE6KUthclwKuEDweROU"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Backless",
         "url": "https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i"
@@ -177,43 +193,7 @@
       "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Patient Number 9",
-        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 280206,
-      "name": "One of Those Days (feat. Eric Clapton)",
-      "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Forever Man",
-        "url": "https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 323053,
-      "name": "My Father's Eyes - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7aAkwqs3Yp94iIiPRRD7QA"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
         "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
@@ -233,7 +213,27 @@
       "url": "https://open.spotify.com/track/3KePc5zqybSrshHWzo65pk"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 280206,
+      "name": "One of Those Days (feat. Eric Clapton)",
+      "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/618hiI74zBL8UVgAvfmkLj"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]]",
         "url": "https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu"
@@ -289,23 +289,7 @@
       "url": "https://open.spotify.com/track/0bIGNGUqgpB82sAksxonkZ"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Clapton",
-        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
         "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
@@ -325,7 +309,23 @@
       "url": "https://open.spotify.com/track/2439UmlGFWg5C0CAreyr9L"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Nobody Knows You When You're Down and Out - Acoustic Live",
+      "url": "https://open.spotify.com/track/7sVxm1I8G8tTznXeirDEXm"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
@@ -345,10 +345,10 @@
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Forever Man",
-        "url": "https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T"
+        "name": "Clapton",
+        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
       },
       "artists": [
         {
@@ -356,35 +356,15 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Nobody Knows You When You're Down and Out - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2015 Remaster",
-      "url": "https://open.spotify.com/track/3SN7svjh3Qsahbp5KXDceM"
+      "duration_ms": 340786,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "B.B. King & Friends - 80",
-        "url": "https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 301453,
-      "name": "The Thrill Is Gone",
-      "url": "https://open.spotify.com/track/4kyKnNbxFe86MMeV4xpDL8"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Live from Madison Square Garden",
-        "url": "https://open.spotify.com/album/4KrKq7IX3Rj7btIxF6Hx04"
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
       "artists": [
         {
@@ -392,16 +372,32 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 333946,
-      "name": "Can't Find My Way Home - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/728aCHRPX4JbPWnAj0D4jL"
+      "duration_ms": 332773,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 471546,
+      "name": "Old Love - Acoustic Live",
+      "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
@@ -421,7 +417,27 @@
       "url": "https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "B.B. King & Friends - 80",
+        "url": "https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 301453,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/4kyKnNbxFe86MMeV4xpDL8"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
@@ -453,9 +469,9 @@
       "url": "https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -464,212 +480,12 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 471546,
-      "name": "Old Love - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
+      "duration_ms": 218373,
+      "name": "Alberta - Acoustic Live",
+      "url": "https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 332773,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Riding with the King",
-        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "Key to the Highway",
-      "url": "https://open.spotify.com/track/1r6Xp7EiQQ7F63HjbFHNJn"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 186534,
-      "name": "They Call Me The Breeze",
-      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 301266,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "461 Ocean Blvd. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 298280,
-      "name": "Let It Grow",
-      "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Riding with the King",
-        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "Come Rain or Come Shine",
-      "url": "https://open.spotify.com/track/2dAm3t3HT91qhKEgZFhzmv"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0mgXOSuxdH84O2MSc1ZmrU"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
-        },
-        {
-          "name": "Charlie Watts",
-          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Hubert Sumlin",
-          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Highway 49",
-      "url": "https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Concert For George (Live)",
-        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 357104,
-      "name": "While My Guitar Gently Weeps - Live",
-      "url": "https://open.spotify.com/track/6ZHCQehGCpGWTi6wEzs8vf"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
@@ -689,10 +505,10 @@
       "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
       "artists": [
         {
@@ -700,74 +516,30 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Alberta - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd"
+      "duration_ms": 171013,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Joe Bonamassa Live from the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
+        "name": "461 Ocean Blvd. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
       },
       "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 344853,
-      "name": "Further On Up the Road - Live",
-      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
+      "duration_ms": 298280,
+      "name": "Let It Grow",
+      "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Bluesbreakers",
-        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 147560,
-      "name": "Steppin' Out",
-      "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 397200,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -777,11 +549,143 @@
         }
       ],
       "duration_ms": 239053,
-      "name": "Before You Accuse Me - 2013 Remaster",
+      "name": "Before You Accuse Me - Acoustic Live",
       "url": "https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Live from Madison Square Garden",
+        "url": "https://open.spotify.com/album/4KrKq7IX3Rj7btIxF6Hx04"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 333946,
+      "name": "Can't Find My Way Home - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/728aCHRPX4JbPWnAj0D4jL"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Riding with the King",
+        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 429520,
+      "name": "When My Heart Beats Like a Hammer",
+      "url": "https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0mgXOSuxdH84O2MSc1ZmrU"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 390893,
+      "name": "Running on Faith - Acoustic Live",
+      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 301266,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Riding with the King",
+        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Key to the Highway",
+      "url": "https://open.spotify.com/track/1r6Xp7EiQQ7F63HjbFHNJn"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Concert For George (Live)",
+        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 357104,
+      "name": "While My Guitar Gently Weeps - Live",
+      "url": "https://open.spotify.com/track/6ZHCQehGCpGWTi6wEzs8vf"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "The Essential Jimmie Vaughan",
         "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
@@ -825,97 +729,9 @@
       "url": "https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 318000,
-      "name": "Knocking On Heaven's Door - Live At Hammersmith Odeon",
-      "url": "https://open.spotify.com/track/5uhvUuQciVrP0p48NqSHaq"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Stand and Deliver",
-        "url": "https://open.spotify.com/album/4ZmFCRthpUQkRK8KALtHPQ"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 272550,
-      "name": "Stand and Deliver",
-      "url": "https://open.spotify.com/track/3GmU00wcaBBCgKsFcDQtaZ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Pilgrim",
-        "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 442133,
-      "name": "River of Tears",
-      "url": "https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 139373,
-      "name": "Rock And Roll Records",
-      "url": "https://open.spotify.com/track/4d4O5xw8aIgj2VAIDizE5I"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Backless",
-        "url": "https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/5eq5ddS17QTksWdfLEastZ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:07",
-      "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -924,15 +740,15 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 390893,
-      "name": "Running on Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
+      "duration_ms": 226373,
+      "name": "Hey Hey - Acoustic Live",
+      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Forever Man",
-        "url": "https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T"
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
       "artists": [
         {
@@ -940,12 +756,28 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 192320,
-      "name": "Forever Man - 2015 Remaster",
-      "url": "https://open.spotify.com/track/349PT8jfi7RxXB7DZM0NMX"
+      "duration_ms": 186534,
+      "name": "They Call Me The Breeze",
+      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 251453,
+      "name": "It's in the Way That You Use It - 1999 Remaster",
+      "url": "https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
       "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
@@ -965,10 +797,86 @@
       "url": "https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Complete Clapton",
-        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Hubert Sumlin",
+          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Highway 49",
+      "url": "https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Riding with the King",
+        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "Come Rain or Come Shine",
+      "url": "https://open.spotify.com/track/2dAm3t3HT91qhKEgZFhzmv"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Bluesbreakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 147560,
+      "name": "Steppin' Out",
+      "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Money and Cigarettes (2007 Remaster)",
+        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
       },
       "artists": [
         {
@@ -977,14 +885,34 @@
         }
       ],
       "duration_ms": 193386,
-      "name": "I've Got a Rock 'N' Roll Heart",
-      "url": "https://open.spotify.com/track/0bsVmf3Ki4x4BzvdrlbYXi"
+      "name": "I've Got a Rock 'n' Roll Heart",
+      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
     },
     {
-      "added_at": "2022-11-25 14:27:07",
+      "added_at": "2023-02-01 17:51:17",
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 310626,
+      "name": "Hard to Thrill",
+      "url": "https://open.spotify.com/track/0fX9pA3TukbkWCEdNoyysH"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "From the Cradle",
+        "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
       },
       "artists": [
         {
@@ -992,9 +920,85 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Hey Hey - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
+      "duration_ms": 177506,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/648g2wFtqqzK8rW0Y2F0T3"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Joe Bonamassa Live from the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 344853,
+      "name": "Further On Up the Road - Live",
+      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 442133,
+      "name": "River of Tears",
+      "url": "https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 397200,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR"
+    },
+    {
+      "added_at": "2023-02-01 17:51:17",
+      "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "It's Easy",
+      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
     }
   ],
   "unique_name": "This Is Eric Clapton",

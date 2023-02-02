@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-140 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/5d9UavNO8FyfxzAd916POx)
+145 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [En Años Luz](https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [En Años Luz](https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe) | 3:45 | 2022-03-18 |  |
 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 | 2022-01-28 |  |
 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:12 | 2022-01-28 |  |
+| [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 | 2022-12-15 |  |
 | [Fluir](https://open.spotify.com/track/2UxrK7r4cyQOSh7wvdQTe1) | [Jardín](https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP) | [Todo Es Temporal](https://open.spotify.com/album/5jvy9tGQi1NE0l8XAGZhC9) | 3:52 | 2022-01-28 |  |
 | [Fotografía](https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 4:29 | 2022-01-28 |  |
 | [Fórmula](https://open.spotify.com/track/0WRaVLb74H6OqumreUs1mz) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Dualidad](https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS) | 3:38 | 2022-04-26 |  |
@@ -76,7 +77,8 @@
 | [Historia](https://open.spotify.com/track/4NSZG57YtWfNbNH4ZUD7DE) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:17 | 2022-04-26 |  |
 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 | 2022-01-28 | 2022-07-29 |
 | [Hoy Tengo Miedo](https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rosa Venus](https://open.spotify.com/album/35YMu32GI36kpBDG0Ts1ul) | 4:30 | 2022-01-28 |  |
-| [Ignis](https://open.spotify.com/track/5GHDwauerHo0VhYuHIEoGl) | [URSS Bajo el Árbol](https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY) | [Ignis](https://open.spotify.com/album/3T2ngs2uRrlCWvG6t2mfvQ) | 3:19 | 2022-01-28 |  |
+| [Ignis](https://open.spotify.com/track/5GHDwauerHo0VhYuHIEoGl) | [URSS Bajo el Árbol](https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY) | [Ignis](https://open.spotify.com/album/3T2ngs2uRrlCWvG6t2mfvQ) | 3:19 | 2022-01-28 | 2023-01-07 |
+| [Ignis](https://open.spotify.com/track/7cdjVBrIyoRxjbKbCLFWDx) | [URSS Bajo el Árbol](https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY) | [Ciclo Vol\. I](https://open.spotify.com/album/3yFhGVb5lE3KHRg4jHUoIh) | 3:19 | 2022-01-28 |  |
 | [Impacto](https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR), [Lo Blondo](https://open.spotify.com/artist/7L05sfIkvxhvoCxALFHGwt) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 3:56 | 2022-01-28 |  |
 | [Inesperado](https://open.spotify.com/track/5GbbHqyhsl2tIZTvyBieL0) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Destruye Hogares](https://open.spotify.com/album/1cepreuLqLtbdRAhCorr8G) | 2:47 | 2022-04-26 |  |
 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 | 2022-03-28 |  |
@@ -86,7 +88,8 @@
 | [La Magia](https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 4:05 | 2022-01-28 |  |
 | [La Magia](https://open.spotify.com/track/6Z8JXcW9fQuNRXznoBMfgp) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/7F82fBlo73zEKEauNfNQLP) | 4:05 | 2022-01-28 | 2022-07-29 |
 | [Libertad](https://open.spotify.com/track/1MMoSzv2oTgPNpsy54DKUR) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Libertad](https://open.spotify.com/album/0dq3J0IKSXF3wDPbmrWSz8) | 5:05 | 2022-09-28 |  |
-| [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-26 |  |
+| [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-26 | 2022-12-12 |
+| [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 | 2022-04-26 |  |
 | [Lo Mejor, Lo Peor](https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [América Supersónica](https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0) | 3:43 | 2022-04-26 |  |
 | [Lo que Quieras de Mí](https://open.spotify.com/track/2wLzfdCL6lVmUXySZlPVwa) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU) | 3:59 | 2022-04-26 |  |
 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 | 2022-01-28 |  |
@@ -95,6 +98,7 @@
 | [Me Gustas](https://open.spotify.com/track/0JfsIu62NVXNQl2s7ATN37) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Rotos](https://open.spotify.com/album/1jRStAl5pbm9EpHLQsNnKz) | 3:22 | 2022-01-28 |  |
 | [Medio Oriente](https://open.spotify.com/track/2c4bKlj1FMGd9Ftv8yxtX4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Medio Oriente](https://open.spotify.com/album/2oI2xY2YwCMcp6yYdzGUIb) | 3:09 | 2022-01-28 |  |
 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 | 2022-01-28 |  |
+| [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-27 |  |
 | [Muchacha](https://open.spotify.com/track/2AAyhPcURpf7LqoqsiKZ1N) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Muchacha](https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH) | 3:00 | 2022-01-28 |  |
 | [Murasaki](https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Murasaki](https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj) | 3:33 | 2022-04-26 |  |
 | [Musa](https://open.spotify.com/track/4xi1Pi5CaLDrHxHdgbXev7) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Musa](https://open.spotify.com/album/21Sn8G7W359M82HQFjR830) | 3:16 | 2022-01-28 |  |
@@ -122,6 +126,7 @@
 | [Químicos](https://open.spotify.com/track/0XSN5gjS49IiIzNejxMUlz) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:26 | 2022-01-28 |  |
 | [Química](https://open.spotify.com/track/4xigOyMfmnzpg0NyS2MmXw) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Dualidad](https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS) | 3:30 | 2022-01-28 |  |
 | [Químicos](https://open.spotify.com/track/0suglut4Tkjn10qBssZluj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/49p8TYLExHA4JAQ2qdXLHQ) | 4:26 | 2022-01-28 | 2022-07-29 |
+| [Refugio](https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Refugio](https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik) | 4:09 | 2023-01-27 |  |
 | [Regresarás](https://open.spotify.com/track/0lD44zmd6jcYsxwZZJkqBY) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Redes Sociales](https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE) | 3:05 | 2022-01-28 |  |
 | [Risa](https://open.spotify.com/track/3L55aSsDkT5ojgy3WXjh7s) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:07 | 2022-01-28 |  |
 | [Rue Vieille Du Temple](https://open.spotify.com/track/4ViWSkl1it95PjoGn1VkHG) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Voluma](https://open.spotify.com/album/6pTyhD8IxuyQXzcCZJp5EM) | 3:51 | 2022-04-26 |  |

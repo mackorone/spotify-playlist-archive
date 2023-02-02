@@ -4,7 +4,7 @@
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-107 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/0zy8b8voSxCSA3RsWKT2B6)
+110 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [City of Light](https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Venice](https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ) | 6:34 | 2022-08-09 |  |
 | [Cold Out There](https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 3:54 | 2022-08-09 |  |
 | [Coral Gables](https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Through the Cardial Window](https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU) | 5:50 | 2022-08-09 |  |
-| [Corsair](https://open.spotify.com/track/54IGiCAOFeISJAGZoHjtjf) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 2:52 | 2022-08-09 |  |
+| [Corsair](https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 2:52 | 2022-12-30 |  |
+| [Corsair](https://open.spotify.com/track/54IGiCAOFeISJAGZoHjtjf) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 2:52 | 2022-08-09 | 2023-02-02 |
 | [Crimson Ways](https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 6:43 | 2022-08-09 |  |
 | [Daumen](https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Geisterfaust](https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC) | 8:06 | 2022-08-09 |  |
 | [De Storm](https://open.spotify.com/track/6mVclchrniUeZKwLxMAT9p) | [Kreng](https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ) | [L’Autopsie Phénoménale de Dieu](https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy) | 3:42 | 2022-08-09 |  |
@@ -74,7 +75,8 @@
 | [Ripple and Fade](https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:17 | 2022-08-17 |  |
 | [Rivers of Sand](https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Venice](https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ) | 4:42 | 2022-08-09 |  |
 | [Sheets Two](https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 2:38 | 2022-08-09 |  |
-| [Sherbet Head](https://open.spotify.com/track/3t2n91JYKy4oDgjIRCKHjI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 2:41 | 2022-08-09 |  |
+| [Sherbet Head](https://open.spotify.com/track/3t2n91JYKy4oDgjIRCKHjI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 2:41 | 2022-08-09 | 2023-02-02 |
+| [Sherbet Head](https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 2:41 | 2022-12-30 |  |
 | [Silent Motels](https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 3:56 | 2022-08-09 |  |
 | [Sin Nanna](https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Black One](https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf) | 2:17 | 2022-08-09 |  |
 | [Sleep/Swim](https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 0:50 | 2022-08-09 |  |
@@ -84,7 +86,8 @@
 | [Swarm](https://open.spotify.com/track/2l7WZvw6VbGHKq3XDWVSm2) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Steel Wound](https://open.spotify.com/album/1aLlVAVx4qvra3V7gYNag0) | 4:00 | 2022-08-09 |  |
 | [Søvnens Kvelertak](https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 3:33 | 2022-08-09 |  |
 | [Tarazed](https://open.spotify.com/track/2EHHEsmOV84A9GwSBPvK21) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Equatorial Stars](https://open.spotify.com/album/2X1K3oGsTNpiHEFt71kfUU) | 5:03 | 2022-08-09 |  |
-| [Tears From The Compound Eye](https://open.spotify.com/track/0nRe4ZWzbiFjJIJFEk1u3F) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 4:03 | 2022-08-09 |  |
+| [Tears From The Compound Eye](https://open.spotify.com/track/0nRe4ZWzbiFjJIJFEk1u3F) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 4:03 | 2022-08-09 | 2023-02-02 |
+| [Tears From The Compound Eye](https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 4:03 | 2022-12-30 |  |
 | [The Direction Was Foggy or Cloudy](https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:11 | 2022-08-09 |  |
 | [The Light](https://open.spotify.com/track/0PaOYkEinHPDxK4yq7sR5l) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Into The Blue Again](https://open.spotify.com/album/79ceEHSgk3hWNMTSOWeb4V) | 4:29 | 2022-08-09 |  |
 | [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 | 2022-08-17 |  |
@@ -97,7 +100,7 @@
 | [Thunderbird Road](https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 6:27 | 2022-08-09 |  |
 | [Track3a \(2waynice\)](https://open.spotify.com/track/0jV5pkyZByn7pV12Rzbtuu) | [Keith Fullerton Whitman](https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl) | [Playthroughs](https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW) | 5:30 | 2022-08-09 |  |
 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 | 2022-08-17 |  |
-| [Tummaa](https://open.spotify.com/track/3uqfAKW2VR03fYYSOhXbfA) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Tummaa](https://open.spotify.com/album/0XyHuW8AmvvsTBEIGVK8iQ) | 10:18 | 2022-08-09 |  |
+| [Tummaa](https://open.spotify.com/track/3uqfAKW2VR03fYYSOhXbfA) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Tummaa](https://open.spotify.com/album/0XyHuW8AmvvsTBEIGVK8iQ) | 10:18 | 2022-08-09 | 2022-12-31 |
 | [Under the Water It Glowed](https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 5:09 | 2022-08-09 |  |
 | [V](https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Tape Chants](https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC) | 1:16 | 2022-08-09 |  |
 | [Variation IV](https://open.spotify.com/track/67AjoQb3d9bzyw0FKcIjO9) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations: A Movement In Chrome Primitive](https://open.spotify.com/album/6GmO37h2js7l0CXgqkxoPx) | 9:18 | 2022-08-09 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Create the new vibe by mixing in the retro sounds.",
   "name": "EDM Samplings",
-  "published_playlist_ids": [
-    "6MFAOS4DnvWe0ANdEUS1lG"
-  ],
   "tracks": [
     {
       "album": {
@@ -110,6 +107,32 @@
     },
     {
       "album": {
+        "name": "Alone Again (feat. Afrojack & Mougleta)",
+        "url": "https://open.spotify.com/album/73fglkrm4TDlCAcIepuB8p"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163320,
+      "name": "Alone Again (feat. Afrojack & Mougleta)",
+      "url": "https://open.spotify.com/track/1RwfArdUM01AISnxkpayMc"
+    },
+    {
+      "album": {
         "name": "Always Feel Like",
         "url": "https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1"
       },
@@ -209,6 +232,28 @@
       "duration_ms": 160645,
       "name": "Be My Nirvana (feat. Kain Rivers)",
       "url": "https://open.spotify.com/track/3oElYLPxve5RwirLHuFthC"
+    },
+    {
+      "album": {
+        "name": "Believe (feat. Goodboys)",
+        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188709,
+      "name": "Believe (feat. Goodboys)",
+      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
     },
     {
       "album": {
@@ -1375,7 +1420,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 160625,
       "name": "Havana",
       "url": "https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY"
@@ -1599,7 +1644,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 152476,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/0ZFzV813vzKHfEYWX9gIeE"
@@ -2083,7 +2128,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-15",
       "duration_ms": 151181,
       "name": "Mr. Saxobeat",
       "url": "https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK"
@@ -2944,6 +2989,28 @@
     },
     {
       "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 228361,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0"
+    },
+    {
+      "album": {
         "name": "Show Me Love (Dimitri Vegas Edit)",
         "url": "https://open.spotify.com/album/0TWPTyBMEtycZ7pFHDPMCH"
       },
@@ -3503,7 +3570,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": "2023-01-24",
       "duration_ms": 213040,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
@@ -3543,7 +3610,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 170022,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"
@@ -3675,6 +3742,28 @@
       "duration_ms": 146666,
       "name": "Work That Trunk (with MOTi)",
       "url": "https://open.spotify.com/track/77EhqUJMLbAq6qFp2Kqp13"
+    },
+    {
+      "album": {
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
     },
     {
       "album": {

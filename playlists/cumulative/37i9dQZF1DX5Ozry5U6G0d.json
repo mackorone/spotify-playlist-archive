@@ -2,9 +2,6 @@
   "date_first_scraped": "2019-09-05",
   "description": "That summer sound.",
   "name": "Summer Party",
-  "published_playlist_ids": [
-    "7h3Qdt8YSkCi1WJz7ruXZr"
-  ],
   "tracks": [
     {
       "album": {
@@ -125,7 +122,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 244235,
       "name": "All That Really Matters",
       "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
@@ -3807,7 +3804,7 @@
       ],
       "date_added": "2019-09-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 235813,
       "name": "Shooting Stars",
       "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
@@ -4381,7 +4378,7 @@
       ],
       "date_added": "2019-09-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 238906,
       "name": "Sunset Lover",
       "url": "https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E"

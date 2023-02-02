@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
   "name": "All Funked Up",
-  "published_playlist_ids": [
-    "2eceFp3qX8eTXa9OinhIeU"
-  ],
   "tracks": [
     {
       "album": {
@@ -3523,6 +3520,28 @@
       "duration_ms": 221666,
       "name": "You Can Make It",
       "url": "https://open.spotify.com/track/04fsxHTjiYVX0B7Ybk1N2e"
+    },
+    {
+      "album": {
+        "name": "You Got It",
+        "url": "https://open.spotify.com/album/1eiLDvpJGJzZTNBMQgVeh1"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Jamie Allensworth",
+          "url": "https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166685,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/7l1rhOa9zn0Ivip8lB9m6z"
     },
     {
       "album": {

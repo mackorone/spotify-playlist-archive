@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-28",
   "description": "Grab your leg warmers and spandex: let's get physical!",
   "name": "80s Workout",
-  "published_playlist_ids": [
-    "3b0I2xOIGj17FstCLzMt5l"
-  ],
   "tracks": [
     {
       "album": {
@@ -215,6 +212,24 @@
       "duration_ms": 258040,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258399,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
       "album": {
@@ -517,7 +532,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 215326,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
@@ -2153,7 +2168,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 225992,
       "name": "Physical - Remastered 2021",
       "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
@@ -2301,7 +2316,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 272147,
       "name": "Ride on Time",
       "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
@@ -2969,7 +2984,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-15",
       "duration_ms": 253800,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
@@ -3049,7 +3064,7 @@
     {
       "album": {
         "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -3060,6 +3075,24 @@
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
@@ -3297,7 +3330,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-27",
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"

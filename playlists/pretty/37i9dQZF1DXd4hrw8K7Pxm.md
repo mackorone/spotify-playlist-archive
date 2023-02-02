@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,429 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,113 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 45 | [In My Life](https://open.spotify.com/track/3QGTAH2zBXS0EgLdrouSgF) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:23 |
 | 46 | [Happy \(Acoustic\)](https://open.spotify.com/track/1x1gLI1YkA90lPp9QZ9PQQ) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [UnCovered](https://open.spotify.com/album/4MjJg3GMvdo85uZkpInk5D) | 2:36 |
 | 47 | [Believe](https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Believe](https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n) | 3:56 |
-| 48 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nicholas Cloud](https://open.spotify.com/artist/13i070mBPykWRF84H8Ht3Q), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
+| 48 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE) | [Two Worlds](https://open.spotify.com/artist/472pLATJRRVRxQSxnnlcrB), [Nick Voelker](https://open.spotify.com/artist/1ioHUd8iMMyBVm20hxrhv3), [Adiel Mitchell](https://open.spotify.com/artist/7r2Kask1ZMP3i9Ak4qlfp8) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/0W0N2EV8TziBOv5eyd3NiN) | 3:33 |
 | 49 | [I Should've Known Better](https://open.spotify.com/track/1ZwuOZGxT9D1s1xUtsKAd9) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [This Side](https://open.spotify.com/album/22nQdZSid64plYdy5zRHew) | 4:27 |
 | 50 | [Yellow](https://open.spotify.com/track/1qZYM5Jp7zqtjn3nWH4UAz) | [Joy Frost](https://open.spotify.com/artist/2EFUUyqF089VU6QGHuG2oa) | [Sexual Woman](https://open.spotify.com/album/0Rxjl3rKekDtTxantH5LQX) | 4:14 |
 | 51 | [When We Were Young](https://open.spotify.com/track/696wSwPa5AldCfs3kHpWSl) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [When We Were Young](https://open.spotify.com/album/73srYNTUXbpxSTlDwzfV5Q) | 4:34 |

@@ -4,7 +4,7 @@
 
 > The sexy queen! Check out HyunA's music.
 
-65 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/38arVNbmC65c7x2dHYLugn)
+66 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ice Ice \(Feat\. Ji Dam Yook\)](https://open.spotify.com/track/142KEuaZKcjpSqYybDu68D) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Ji Dam Yook](https://open.spotify.com/artist/0q5mCOaqzgDnmthha6f4W7) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:16 | 2021-09-09 |  |
 | [Is It Poppin'?](https://open.spotify.com/track/6Yp2NcLYo4JbwQs4EQ2pO7) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Is It Poppin'?](https://open.spotify.com/album/1nu4yFtuXNSumMMUdOTq3y) | 3:10 | 2021-09-09 |  |
 | [Just Follow \(Feat\. DOK2\)](https://open.spotify.com/track/5oiAchP69eu8pbWbeIDwrG) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:24 | 2021-09-09 |  |
+| [LIKE WATER \(Feat\. Loco, HyunA\)](https://open.spotify.com/track/6Vo3VtFuU8qHeXJpb5rDFa) | [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 3:43 | 2023-01-02 |  |
 | [Lip & Hip](https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Lip & Hip](https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t) | 3:29 | 2021-09-09 |  |
 | [Mirror](https://open.spotify.com/track/2NtHzG5UFl9s7plYUeYuHm) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Following](https://open.spotify.com/album/1CIrwYW5dQ8APIX7IaAOAU) | 3:07 | 2021-09-09 |  |
 | [Morning glory \(Feat\. Isle Qim\)](https://open.spotify.com/track/7jaMOoks3YLbOoQxYLUJTo) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Isle Qim](https://open.spotify.com/artist/44qnpSp6VbJ48R4YXiv7LW) | [A\`wesome](https://open.spotify.com/album/7MxQlxbJRYm9mZr8spbBke) | 3:31 | 2021-09-09 |  |

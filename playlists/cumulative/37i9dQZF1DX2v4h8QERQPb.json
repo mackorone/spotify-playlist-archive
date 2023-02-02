@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-24",
   "description": "Rimas argentinas. Foto: Muerejoven.",
   "name": "Hip Hop Argento",
-  "published_playlist_ids": [
-    "4sv8KvOxUTe4tMwrdfTP89"
-  ],
   "tracks": [
     {
       "album": {
@@ -830,6 +827,28 @@
     },
     {
       "album": {
+        "name": "El Hombre Hace Planes, Dios Se R\u00ede",
+        "url": "https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP"
+      },
+      "artists": [
+        {
+          "name": "Dano",
+          "url": "https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Con Billetes",
+      "url": "https://open.spotify.com/track/4eOyMYj0HtblAavJTRtkUC"
+    },
+    {
+      "album": {
         "name": "VIAIPI",
         "url": "https://open.spotify.com/album/1HQzgHvV8wsWhI6LffYwL9"
       },
@@ -1075,7 +1094,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 133241,
       "name": "Demonio",
       "url": "https://open.spotify.com/track/7IDJdXLiEDKW3cG41vqZhE"
@@ -1101,7 +1120,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-28",
       "duration_ms": 133241,
       "name": "Demonio",
       "url": "https://open.spotify.com/track/34K2jtmYkGnicpR7fnOdxW"
@@ -1657,6 +1676,24 @@
       "duration_ms": 130625,
       "name": "Fuertardo",
       "url": "https://open.spotify.com/track/0QgnR0LKbx6HrsWPwAMUaC"
+    },
+    {
+      "album": {
+        "name": "Fumando Menos",
+        "url": "https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Fumando Menos",
+      "url": "https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o"
     },
     {
       "album": {
@@ -2797,7 +2834,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 152833,
       "name": "Perd\u00f3n Mam\u00e1",
       "url": "https://open.spotify.com/track/3V46IccwqEAOPKdZQTDVZM"
@@ -2823,7 +2860,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 152833,
       "name": "Perd\u00f3n Mam\u00e1",
       "url": "https://open.spotify.com/track/6Bo4B8mxqcy9MWwnbpCqTr"
@@ -3293,7 +3330,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199376,
       "name": "SIEMPRE SALE EL SOL",
       "url": "https://open.spotify.com/track/1JvR9VeEE8c4Dd9bLXqpla"
@@ -3311,7 +3348,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 199376,
       "name": "Siempre Sale el Sol",
       "url": "https://open.spotify.com/track/44ckh9BBRSpZG038yOYx2S"
@@ -3579,6 +3616,24 @@
       "duration_ms": 206934,
       "name": "Tardes Grises",
       "url": "https://open.spotify.com/track/4MYHoW2ZCmdzvpdmdx6oXy"
+    },
+    {
+      "album": {
+        "name": "Temblor",
+        "url": "https://open.spotify.com/album/3pANNuWcM0Iv85Wm2C8CA5"
+      },
+      "artists": [
+        {
+          "name": "Dozer",
+          "url": "https://open.spotify.com/artist/4fTvbZBIfIc3aAKbZhm5ce"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 185260,
+      "name": "Temblor",
+      "url": "https://open.spotify.com/track/43wAPWvoJFZk8JPOHilrGM"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-30",
   "description": "Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.",
   "name": "Deep Dive: 10s Rock",
-  "published_playlist_ids": [
-    "6ihczCtWEYpK0uNMkSCVwY"
-  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 284293,
       "name": "A Reason to Fight",
       "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
@@ -397,7 +394,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203118,
       "name": "American Dreams",
       "url": "https://open.spotify.com/track/1wAwELpR9UKzUWstzOE13g"
@@ -549,7 +546,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210706,
       "name": "Asking for It",
       "url": "https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4"
@@ -747,7 +744,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 223766,
       "name": "Battle Born",
       "url": "https://open.spotify.com/track/3nRanAfF9K36yHWV9sIG9D"
@@ -1345,7 +1342,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-28",
       "duration_ms": 242746,
       "name": "Bully",
       "url": "https://open.spotify.com/track/0Ldlex2J63L6Dop9Pk2Rz9"
@@ -1471,7 +1468,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 211160,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/7avvBGQq0tH4nY95guF7fP"
@@ -2001,6 +1998,24 @@
       "duration_ms": 214560,
       "name": "Dead But Rising",
       "url": "https://open.spotify.com/track/0Xu8n8K2SEuhraFVD5jUtI"
+    },
+    {
+      "album": {
+        "name": "Outlaw Gentlemen & Shady Ladies",
+        "url": "https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 214560,
+      "name": "Dead But Rising",
+      "url": "https://open.spotify.com/track/3siZ8Gr2G9zelmm1NZOmP3"
     },
     {
       "album": {
@@ -2801,7 +2816,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 245786,
       "name": "GET UP",
       "url": "https://open.spotify.com/track/1OKQIvaO7yn7R2BpdUFG7D"
@@ -2891,7 +2906,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 146596,
       "name": "Go",
       "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
@@ -3397,6 +3412,28 @@
     {
       "album": {
         "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 239746,
+      "name": "Heavy Is the Head",
+      "url": "https://open.spotify.com/track/5GYFgz8QsRssKk2ONcvnpo"
+    },
+    {
+      "album": {
+        "name": "JEKYLL + HYDE",
         "url": "https://open.spotify.com/album/1xy141zMRluP7YaE94IawT"
       },
       "artists": [
@@ -3537,7 +3574,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 281226,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm"
@@ -3591,7 +3628,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 214613,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0sJ4NbFdEhgLOtInlbRmFl"
@@ -3739,7 +3776,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-14",
       "duration_ms": 240906,
       "name": "hope for the underrated youth",
       "url": "https://open.spotify.com/track/24qhW8fqWyrMHqkBfM2HPk"
@@ -4697,7 +4734,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 297826,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/6FlCPO7Z0QGgwtIL8ocZzY"
@@ -4769,7 +4806,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 205800,
       "name": "Let Me Hear You Scream",
       "url": "https://open.spotify.com/track/36WNQJFVjYhDRZ6vJhYXEh"
@@ -4863,6 +4900,24 @@
       "duration_ms": 238360,
       "name": "Lies of the Beautiful People",
       "url": "https://open.spotify.com/track/7MySSAE83mF4QAOnltFF9w"
+    },
+    {
+      "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 256893,
+      "name": "Lights Of Home",
+      "url": "https://open.spotify.com/track/2pguQFntKxYZNGvXvZVWDp"
     },
     {
       "album": {
@@ -5187,7 +5242,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 198613,
       "name": "Love Is Blindness",
       "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
@@ -5587,6 +5642,24 @@
       "duration_ms": 193106,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/29JkmIEHcUg0R4BQ8o4PmJ"
+    },
+    {
+      "album": {
+        "name": "From Death To Destiny",
+        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242593,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
     },
     {
       "album": {
@@ -6023,7 +6096,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 250880,
       "name": "Now",
       "url": "https://open.spotify.com/track/0LBz07gAdgUukYvpFyW87y"
@@ -6131,7 +6204,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 215706,
       "name": "On And On",
       "url": "https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe"
@@ -6203,7 +6276,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
@@ -6671,7 +6744,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 178795,
       "name": "Reckless Tongue",
       "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
@@ -6869,7 +6942,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-16",
       "duration_ms": 194626,
       "name": "RISE",
       "url": "https://open.spotify.com/track/46QdfDL0LnGlHLKmREiXP5"
@@ -7403,7 +7476,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": "2023-01-19",
       "duration_ms": 234526,
       "name": "Ship To Wreck",
       "url": "https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8"
@@ -7493,7 +7566,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-20",
       "duration_ms": 155720,
       "name": "Sixteen Saltines",
       "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
@@ -9233,7 +9306,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 196863,
       "name": "Who Do You Trust?",
       "url": "https://open.spotify.com/track/7kJkTFmKYHrp9LT8w0oqpG"

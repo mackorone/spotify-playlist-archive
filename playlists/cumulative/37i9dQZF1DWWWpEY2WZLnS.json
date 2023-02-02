@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Lo mas pegao en Dembow. \nCover: Farina",
   "name": "Dembow Pegao",
-  "published_playlist_ids": [
-    "4L9HFTRvt3WNU7wBLTIuvk"
-  ],
   "tracks": [
     {
       "album": {
@@ -71,6 +68,24 @@
     {
       "album": {
         "name": "A I O",
+        "url": "https://open.spotify.com/album/2CtAbuWgmb2To6lJ7Y8LO3"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "A I O",
+      "url": "https://open.spotify.com/track/2eJFFzezwWHCztF4cLKmB0"
+    },
+    {
+      "album": {
+        "name": "A I O",
         "url": "https://open.spotify.com/album/5082P5BtVaz97uET2hhEIM"
       },
       "artists": [
@@ -81,7 +96,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 178000,
       "name": "A I O",
       "url": "https://open.spotify.com/track/5imSFd0G9WtsEfYRpaKHUr"
@@ -269,10 +284,6 @@
         {
           "name": "Bulin 47",
           "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Breyco En Producidera",
-          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
         }
       ],
       "date_added": "2021-11-19",
@@ -798,6 +809,32 @@
     },
     {
       "album": {
+        "name": "Delincuente",
+        "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226490,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
+    },
+    {
+      "album": {
         "name": "Disciplina (Puerto Rico Edition)",
         "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
       },
@@ -1067,6 +1104,32 @@
       "duration_ms": 181025,
       "name": "El Perico - Remix",
       "url": "https://open.spotify.com/track/3M6x1JHQl3lljk3YPW2z7Y"
+    },
+    {
+      "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/31TLZhqZdOT2HVrh5b9rrH"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159860,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6lyoUlB3Ppo4MHrG2Sp47o"
     },
     {
       "album": {
@@ -1751,6 +1814,40 @@
       "duration_ms": 157115,
       "name": "Los Illuminaty",
       "url": "https://open.spotify.com/track/4WOmUK3ngIuHqqdgka0DN2"
+    },
+    {
+      "album": {
+        "name": "SAGITARIO",
+        "url": "https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341578,
+      "name": "Ma Nigga",
+      "url": "https://open.spotify.com/track/6gaYwLlIaRUjFGRXOe4NYP"
     },
     {
       "album": {
@@ -2687,7 +2784,7 @@
           "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],

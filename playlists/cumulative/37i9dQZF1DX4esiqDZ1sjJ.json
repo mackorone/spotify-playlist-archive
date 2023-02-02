@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Release your inner jock with these badass jams. ",
   "name": "Jock Jams",
-  "published_playlist_ids": [
-    "5Zwr8vXJnNJ6byRautt0H4"
-  ],
   "tracks": [
     {
       "album": {
@@ -81,7 +78,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
@@ -99,7 +96,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 232506,
       "name": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",
       "url": "https://open.spotify.com/track/12PNcnMsjsZ3eHm62t8hiy"
@@ -371,7 +368,7 @@
       ],
       "date_added": "2016-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 188013,
       "name": "Black Skinhead",
       "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
@@ -611,7 +608,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 271600,
       "name": "Can't Tell Me Nothing",
       "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
@@ -655,6 +652,24 @@
       "duration_ms": 209106,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+    },
+    {
+      "album": {
+        "name": "Every Six Seconds",
+        "url": "https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 252400,
+      "name": "Click Click Boom",
+      "url": "https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"
     },
     {
       "album": {
@@ -963,7 +978,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 249560,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
@@ -1011,7 +1026,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 357706,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
@@ -1113,6 +1128,24 @@
       "duration_ms": 168360,
       "name": "Gonna Fly Now (Theme From \"Rocky\") - 2006 - Remaster",
       "url": "https://open.spotify.com/track/4hszow3YBRAbGGA0WbbR6r"
+    },
+    {
+      "album": {
+        "name": "Blockbuster Movie Hits",
+        "url": "https://open.spotify.com/album/3XQdk4BKeIPcaTfNiXzVb2"
+      },
+      "artists": [
+        {
+          "name": "Bill Conti",
+          "url": "https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Gonna Fly Now - Theme From \"Rocky\" / Remastered 2006",
+      "url": "https://open.spotify.com/track/5dulYd9AKIprMoF837OTDb"
     },
     {
       "album": {
@@ -1268,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Port Of Miami",
+        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 254093,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
+    },
+    {
+      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -1391,7 +1442,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "I'm Shipping Up To Boston",
       "url": "https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc"
@@ -1561,7 +1612,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 205879,
       "name": "Jumpman",
       "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
@@ -1943,7 +1994,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 208634,
       "name": "Narco",
       "url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA"
@@ -1965,7 +2016,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
@@ -2167,7 +2218,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 292093,
       "name": "POWER",
       "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
@@ -2229,7 +2280,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 250746,
       "name": "Right Thurr",
       "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
@@ -2500,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "Eye In The Sky (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115280,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/4OV0sRTFrZLXaZZ1sS9hLn"
+    },
+    {
+      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -2587,7 +2656,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 311866,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
@@ -2939,6 +3008,24 @@
     {
       "album": {
         "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "album": {
+        "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
       "artists": [
@@ -2949,7 +3036,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"

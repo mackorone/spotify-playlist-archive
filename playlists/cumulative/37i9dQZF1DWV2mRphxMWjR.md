@@ -4,10 +4,14 @@
 
 > The official playlist for "ONE PIECE FILM RED"\. <a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。 ©尾田栄一郎／2022「ワンピース」製作委員会
 
-79 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/6LuRPgfyQNkKYHYZnI0wNO)
+83 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#1 【ONE PIECE FILM RED】 名塚佳織×田中真弓「ルフィを演じていて好きな瞬間は…？」](https://open.spotify.com/episode/09xxhQihwGvAuIuu9wmOyC) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 31:16 | 2022-11-03 | 2023-01-20 |
+| [\#2 【ONE PIECE FILM RED】 名塚佳織×田中真弓「2人のお気に入り！あのシーンの○○に注目」](https://open.spotify.com/episode/3YROqyKW3aeg5QzMFsIwh5) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 31:15 | 2022-11-03 | 2023-01-20 |
+| [\#3 【ONE PIECE FILM RED】 名塚佳織×谷口悟朗監督「ウタの誕生、Adoさん名塚さんキャスティングへの道」](https://open.spotify.com/episode/41UGFY0hMhU5ZoZ8UCgnd2) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 33:16 | 2022-11-03 | 2023-01-20 |
+| [\#4 【ONE PIECE FILM RED】 名塚佳織×谷口悟朗監督「シャンクス参戦の経緯、尾田栄一郎先生とのエピソード」](https://open.spotify.com/episode/281foh4yPeCWcuEGfuaYUR) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン【ブルーロック】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | 33:47 | 2022-11-03 | 2023-01-20 |
 | [Bad Reputation](https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 2:42 | 2022-06-08 |  |
 | [Believe](https://open.spotify.com/track/5Wg6U4mLyjJj8ApPkWHBKB) | [Folder 5](https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG) | [HYPER GROOVE 1](https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf) | 3:46 | 2022-06-08 |  |
 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 | 2022-08-23 |  |

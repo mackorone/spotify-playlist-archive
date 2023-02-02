@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Thal\u00eda en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Alex Hoyer en portada.",
   "name": "Oye Pop",
-  "published_playlist_ids": [
-    "4deShREhcI0g0uTRXQGiPo"
-  ],
   "tracks": [
     {
       "album": {
@@ -410,6 +407,46 @@
     },
     {
       "album": {
+        "name": "Bendita",
+        "url": "https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199138,
+      "name": "Bendita",
+      "url": "https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS"
+    },
+    {
+      "album": {
+        "name": "Bien Por Ti",
+        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154653,
+      "name": "Bien Por Ti",
+      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
+    },
+    {
+      "album": {
         "name": "Blanco Y Negro",
         "url": "https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp"
       },
@@ -487,7 +524,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 200483,
       "name": "Buena Suerte",
       "url": "https://open.spotify.com/track/45lw7issmJHMkPrrm2voTA"
@@ -660,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212869,
+      "name": "Contraluz",
+      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
+    },
+    {
+      "album": {
         "name": "Coro de Amor",
         "url": "https://open.spotify.com/album/41zImYlf6x5mwTsvOOPCf4"
       },
@@ -700,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH"
+      },
+      "artists": [
+        {
+          "name": "Alex Hoyer",
+          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165269,
+      "name": "Cruda",
+      "url": "https://open.spotify.com/track/1ZhNiBiRdBZgOWVzm6aC9F"
+    },
+    {
+      "album": {
         "name": "Cuenta Hasta Diez",
         "url": "https://open.spotify.com/album/5ilpxKVdFtf4K3niLom1oN"
       },
@@ -733,7 +806,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 178199,
       "name": "Cuerno",
       "url": "https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD"
@@ -1012,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Frida",
+        "url": "https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK"
+      },
+      "artists": [
+        {
+          "name": "Salma",
+          "url": "https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167870,
+      "name": "Frida",
+      "url": "https://open.spotify.com/track/4FJ3UEXLSb071ZWAmoYjyx"
+    },
+    {
+      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
       },
@@ -1023,7 +1114,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 170253,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
@@ -1041,7 +1132,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 148149,
       "name": "Fue Lindo",
       "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
@@ -1099,7 +1190,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 205013,
       "name": "IDIOTA",
       "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
@@ -2025,7 +2116,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 189986,
       "name": "Pereza",
       "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
@@ -2061,7 +2152,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 211330,
       "name": "Por ti",
       "url": "https://open.spotify.com/track/1bgpFTASKqTZiBXjM3somT"
@@ -2104,6 +2195,42 @@
     },
     {
       "album": {
+        "name": "QCVH",
+        "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136973,
+      "name": "QCVH",
+      "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
+    },
+    {
+      "album": {
+        "name": "heartbreaker",
+        "url": "https://open.spotify.com/album/2fpH8T5bUzB88IxqMjcT8y"
+      },
+      "artists": [
+        {
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Que Hueva",
+      "url": "https://open.spotify.com/track/3azbX22yptxcL69DQXyEbd"
+    },
+    {
+      "album": {
         "name": "Que PASE y YA",
         "url": "https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4"
       },
@@ -2115,7 +2242,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 146408,
       "name": "Que PASE y YA",
       "url": "https://open.spotify.com/track/5znAcI91hov7U28bpvycXr"
@@ -2141,6 +2268,24 @@
       "duration_ms": 159497,
       "name": "Qui\u00e9n lo dir\u00eda",
       "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
+    },
+    {
+      "album": {
+        "name": "Recuerdo contigo </3",
+        "url": "https://open.spotify.com/album/1vobSeDg4RDZxUbCyDDk7s"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 188573,
+      "name": "Recuerdo contigo </3",
+      "url": "https://open.spotify.com/track/6UsZkU73WoXh2i2qHjzguf"
     },
     {
       "album": {
@@ -2173,7 +2318,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 163733,
       "name": "Se Pone A Beber",
       "url": "https://open.spotify.com/track/5xoFIA7Tp9tEsD78PpkBwn"
@@ -2325,7 +2470,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 194122,
       "name": "Siempre T\u00fa",
       "url": "https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh"
@@ -2521,7 +2666,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 183066,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G"
@@ -2793,7 +2938,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 141631,
       "name": "Tu Peor Pesadilla",
       "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
@@ -2949,7 +3094,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 168000,
       "name": "Ya No Dueles",
       "url": "https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3"

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
   "name": "bohemia tranqui",
-  "published_playlist_ids": [
-    "2Snu25HjMZnX4NZH84ha5a"
-  ],
   "tracks": [
     {
       "album": {
@@ -109,10 +106,28 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 250920,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/0TarPYIjJndYucFUOMce8P"
+    },
+    {
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250920,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
     },
     {
       "album": {
@@ -145,7 +160,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-02-01",
       "duration_ms": 196826,
       "name": "Cantares",
       "url": "https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ"
@@ -505,7 +520,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 253066,
       "name": "Luna m\u00e1gica",
       "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
@@ -657,7 +672,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 133960,
       "name": "Necesito",
       "url": "https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7"
@@ -985,7 +1000,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 204533,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr"
@@ -1331,6 +1346,24 @@
       "duration_ms": 210133,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
+    },
+    {
+      "album": {
+        "name": "Primer Amor Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/1XQYOY8gKZjku7pnMEJjSg"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Vu\u00e9lveme A Querer",
+      "url": "https://open.spotify.com/track/1PkTGKasoP8iuXad5LfQqz"
     },
     {
       "album": {

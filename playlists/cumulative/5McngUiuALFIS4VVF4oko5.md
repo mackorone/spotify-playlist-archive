@@ -4,7 +4,7 @@
 
 > No, not to tango..\. to write an awesome rock song! These duos know how to make a lot out of what they've got.
 
-37 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/325Jyut4dbApNPZbs4zUNy)
+37 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

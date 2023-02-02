@@ -4,7 +4,7 @@
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！© Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-109 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/1Yjn0zUoDeIYQm9QWg7wfm)
+110 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 | 2021-09-23 |  |
 | [Mai Mai Mai \(feat\. Hatsune Miku\)](https://open.spotify.com/track/72vNbz6kcsk64PIqoih2Jh) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Mai Mai Mai\(feat\. Hatsune Miku\)](https://open.spotify.com/album/5lf6wvBCJ8YFXF5IvIXkdk) | 3:47 | 2021-09-23 | 2022-08-08 |
 | [METEOR](https://open.spotify.com/track/5wHdoGVofJZUGc6Z6t5wZ5) | [DIVELA](https://open.spotify.com/artist/3uoFD08dOvDpdyl1IGH4dt) | [METEOR](https://open.spotify.com/album/0tOjjdPOA63W3waKTrKObc) | 4:34 | 2021-09-23 |  |
-| [Miku](https://open.spotify.com/track/2wxeIeofgy4AHaOhtePamJ) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) | 3:43 | 2021-09-23 |  |
+| [Miku](https://open.spotify.com/track/2wxeIeofgy4AHaOhtePamJ) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) | 3:43 | 2021-09-23 | 2022-11-27 |
+| [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL) | 3:43 | 2022-08-07 |  |
 | [Miku](https://open.spotify.com/track/2MQwgtSGxPKUiI2Qr5am7V) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/3lhasOe8lBoqbFOJCbeIHN) | 3:43 | 2021-09-23 | 2022-07-29 |
 | [moon](https://open.spotify.com/track/4EJhAyhkO1vToMNLM9RVIx) | [iroha\(sasaki\)](https://open.spotify.com/artist/0ucp2eJpluVvW5qn53vIuc) | [moon](https://open.spotify.com/album/5PDWbuNnJa04B3c9n9AwTd) | 5:35 | 2021-09-23 | 2022-07-28 |
 | [never ender](https://open.spotify.com/track/17yQnJRqu446o8iGJcVpGT) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hatsune Miku 10th Anniversary Songs \-ミラクルミライ\-](https://open.spotify.com/album/3OxdPFUtuzEvhqqaWSr6vD) | 4:30 | 2021-09-23 |  |

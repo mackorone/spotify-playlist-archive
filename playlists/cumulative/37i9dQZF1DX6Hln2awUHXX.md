@@ -4,7 +4,7 @@
 
 > An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.
 
-117 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/6eW0dzuq2jyc5k1ye4gn2K)
+117 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

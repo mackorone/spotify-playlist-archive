@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G0t7hKiZC2.md) - [plain]
 
 > Some of Barack Obama's favorite songs of the summer\. A mix of genres & eras made with everyone in mind!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,688 likes - 38 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,029 likes - 38 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G0t7hKiZC2.md) - [plain]
 | 14 | [Walkin'](https://open.spotify.com/track/77hICQxyUz6RbySKBi3kVN) | [Miles Davis Sextet](https://open.spotify.com/artist/1i4ed4I1y7YerI0fQV4lVc) | [Walkin'](https://open.spotify.com/album/7nFwdPkEbfMUb1c5xuHGR6) | 13:25 |
 | 15 | [Exodus](https://open.spotify.com/track/3UuqC9dKWG0bLu6TrPIe4F) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 7:40 |
 | 16 | [Does Anybody Really Know What Time It Is?](https://open.spotify.com/track/6Q6YqGj1Ku1CUGHWSFwSHY) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:22 |
-| 17 | [Coyote](https://open.spotify.com/track/1iTayn3u1hV9XPpBQglZcH) | [Flickxr.](https://open.spotify.com/artist/2bP2XiRavK6ameEEvX6QZ9), [texotr](https://open.spotify.com/artist/0ZyY6X6yXkd6fIXtkZ3ln9) | [Coyote](https://open.spotify.com/album/4Vd8BnfKTaGup0eYrby8CQ) | 5:01 |
+| 17 | [Coyote](https://open.spotify.com/track/5fdjxHzBILxMXRrbbOVupJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:01 |
 | 18 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 |
 | 19 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 20 | [Allure \- Album Version \(Edited\)](https://open.spotify.com/track/3XEHn72yyeU5VmCrvqh37n) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/2ROptx2K5R4YYqlQQRpT7k) | 4:51 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8G0t7hKiZC2.md) - [plain]
 | 37 | [Speak Your Mind \(from the Netflix Series "We The People"\)](https://open.spotify.com/track/2w2nGYcTq7iP1Aj6AI8KIi) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Speak Your Mind \(from the Netflix Series "We The People"\)](https://open.spotify.com/album/0Xkq8tR6m6ofrw7Tq6cPZ8) | 3:13 |
 | 38 | [Lush Life](https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:40 |
 
-Snapshot ID: `MTY0NzM2NjIxNywwMDAwMDAwMDg1ZTlhNzJkYzgxZGQ1ZjU3NjdiOTkyZmMwMmM1MzEz`
+Snapshot ID: `MTY0NzM2NjIxNywwMDAwMDAwMDk0OTY5MmFjYTgzNmExOGRmNzA0ZDMyYTYyM2ZmMTI5`

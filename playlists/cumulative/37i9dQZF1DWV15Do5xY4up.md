@@ -4,7 +4,7 @@
 
 > Float away to the weightless sound of breakbeat.
 
-83 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6MjU8sbu7rivCAJe8NSwWV)
+83 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

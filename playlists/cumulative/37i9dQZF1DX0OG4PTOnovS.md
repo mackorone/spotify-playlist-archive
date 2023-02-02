@@ -4,11 +4,12 @@
 
 > The whole family can worship together with these upbeat, inspirational songs.
 
-65 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/4ouO9TGcvdiRiB4W0BQXPr)
+66 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Don't You Know\) It's Time To Praise The Lord](https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 0:59 | 2021-12-17 |  |
+| [10,000 Armies \- Kids Version](https://open.spotify.com/track/1HiqYVHbYJY9T5WdFuXlyX) | [Influence Music Kids](https://open.spotify.com/artist/542wlUL6sF17e4UguG9y7z), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [10,000 Armies](https://open.spotify.com/album/68gsIXz2fHm4eY2jCODwnZ) | 3:16 | 2023-01-27 |  |
 | [2 Corinthians 5:17 \- The New Is Here](https://open.spotify.com/track/0GjeBooH639FE9cKDjAc3z) | [Hillsong Kids](https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF) | [Big Bible Verse Songs \(Collection 1\)](https://open.spotify.com/album/4fxwMXebtuHvSAFmNB4teh) | 1:38 | 2021-12-17 |  |
 | [Above The Noise](https://open.spotify.com/track/3oyNDBaHZBcjm2J0c0jGRM) | [Valley Creek Kids](https://open.spotify.com/artist/2f7xu7t7PTkbnt7cfeCxjs) | [Above The Noise](https://open.spotify.com/album/7BkJaIA2dSOWiN0ysTrI5A) | 3:31 | 2021-12-17 |  |
 | [Alive With You](https://open.spotify.com/track/2RV0A2ALFNQzmoiPbokUsj) | [Gateway Kids Worship](https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E), [Landree DePrang](https://open.spotify.com/artist/6xHFOZfBZv7bGG43jixotl) | [Alive With You](https://open.spotify.com/album/6RFaGa95Rvc8s5ptahTybj) | 3:14 | 2021-12-17 |  |

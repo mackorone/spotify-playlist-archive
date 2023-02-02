@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-67 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/6lhmrLr4Sb80M73Sr2P9CQ)
+68 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Challa](https://open.spotify.com/track/2rfnZnHrgIpciZb78nWwKX) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4qlU0pl3svPl0jArs2Upo7) | 6:46 | 2022-07-16 |  |
 | [Challa](https://open.spotify.com/track/4Au2BuSo70ozHs8TFE2dwh) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara](https://open.spotify.com/album/55LNP0Gwa2VONSPlxbycVW) | 6:46 | 2021-11-03 | 2022-07-29 |
 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Walia](https://open.spotify.com/artist/00HXgtYHCfo0SAKRg1JJl5) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 | 2021-11-03 |  |
+| [Chan Kithan](https://open.spotify.com/track/3V94RK5PxcSSRCxhEWBIuQ) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Chan Kithan](https://open.spotify.com/album/34bEDfoNeAjmHWnkmPT5ky) | 3:51 | 2023-02-01 |  |
 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 | 2021-11-03 |  |
 | [Chan Kithan Guzari Ayee Raat](https://open.spotify.com/track/6lhj5jxQ824CfnrAyjjvMR) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 3:15 | 2021-11-03 | 2022-07-29 |
 | [Chan Kithe Guzari Ayeerat](https://open.spotify.com/track/1cru0v9dm9EkUrCwtOwNA5) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 3:15 | 2022-07-16 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate classical playlist for post\-workout stretching, meditation and mindfulness.
 
-72 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/6WzOVMHapSVAlzMq8XAa77)
+72 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

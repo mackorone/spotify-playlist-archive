@@ -4,7 +4,7 @@
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/3KH84iWFVeneCTlPrugv8W)
+41 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

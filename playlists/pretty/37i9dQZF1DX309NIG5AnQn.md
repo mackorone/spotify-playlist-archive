@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Hay otro sonido y lo encontrás acá\. <br/>Foto: Buenos Vampiros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,578 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,953 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 35 | [Lo Que Guarden Tus Ojos](https://open.spotify.com/track/71fxuzel9fUGYTOTaQDb4g) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Lo Que Guarden Tus Ojos](https://open.spotify.com/album/7At1MTQ5r0FoGocoMMR68k) | 3:16 |
 | 36 | [Dulces Sueños, y Hasta Siempre !](https://open.spotify.com/track/2cbKcRgL0jBJ2BGIAJyOSX) | [electro reno](https://open.spotify.com/artist/3ch5YUSBJld17z6WfbKVXq), [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Un Pie en la Tumba](https://open.spotify.com/album/6IHjEeDPQX1nBU45c6DLYt) | 1:37 |
 | 37 | [Baño de Sangre](https://open.spotify.com/track/1MjJ5ZFLo0qtZyeBPr7Nfj) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Adorno](https://open.spotify.com/album/7JUOpq60jz3lRHQ7p7SROj) | 2:40 |
-| 38 | [Color](https://open.spotify.com/track/6yPdKUk3kSelyKc15Ix0sV) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV) | 3:49 |
+| 38 | [Color](https://open.spotify.com/track/76MMaNzI01OojAm2MJExHv) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7) | 3:49 |
 | 39 | [no puedo volver](https://open.spotify.com/track/2LN4fRBRHEmhipl7OjQ9e1) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Medianoche Radio Club](https://open.spotify.com/album/1Bhx6as8YJyXPhRUS8rHj1) | 3:46 |
 | 40 | [Pájaros](https://open.spotify.com/track/40r8exebu3RCPZsM8CGUly) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n), [Julieta Salas](https://open.spotify.com/artist/3hD02itkArv5tzcKIZYpgt) | [Por última vez](https://open.spotify.com/album/6551YKhH5mVEgrJhLIWTar) | 2:57 |
 | 41 | [El Astronauta](https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [El Astronauta](https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR) | 2:44 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 78 | [Algo de Mí, Algo de Vos](https://open.spotify.com/track/5QLSpgVelBjHe6S7tMxzY7) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Algo de Mí, Algo de Vos](https://open.spotify.com/album/2OjRONkL7HZt4jhaXX0MDn) | 4:33 |
 | 79 | [Perro Agonizante](https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:28 |
 
-Snapshot ID: `MTY0ODE3NzIwMCwwMDAwMDAwMDkzY2Q2NWJjYTUyNzEyNGY2YjExMWRjOGU4MTQxZjY5`
+Snapshot ID: `MTY0ODE3NzIwMCwwMDAwMDAwMDY1NjQ3NTM0NmYwYmUwYjNhMGVlMThmNjM5YWJhZmFk`

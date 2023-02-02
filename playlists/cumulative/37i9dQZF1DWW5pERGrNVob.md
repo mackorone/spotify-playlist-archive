@@ -4,7 +4,7 @@
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-117 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/5zopyzdU1aouRbUczCajzc)
+117 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

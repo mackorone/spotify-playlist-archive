@@ -4,7 +4,7 @@
 
 > Learn some essential Swedish and master useful travel vocabulary in under seven hours – perfect for a transatlantic flight!
 
-85 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/5mwWHPWI1gyuSBtxoMYpww)
+85 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

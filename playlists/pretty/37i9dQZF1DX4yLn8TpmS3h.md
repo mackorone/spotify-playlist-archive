@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 
 > Drawing from R&B, indie, pop, and more, the electropop act’s singer Olly Alexander shines a light on LGBTQIA+ artists that inspire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,506 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,459 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

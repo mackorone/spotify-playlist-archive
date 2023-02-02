@@ -4,7 +4,7 @@
 
 > The best Ambient tracks from 2010 to 2019.
 
-109 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/35yQHDJt5uIXaC5Kq6C4sA)
+112 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Low Sudden](https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690), [Rocco DeLuca](https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh) | [Goodbye To Language](https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a) | 2:38 | 2022-08-11 |  |
 | [Luotasi](https://open.spotify.com/track/5AvyV92PXzkpQ6k1ggKME7) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [vantaa](https://open.spotify.com/album/6Sa8QE7vYI9imRgQz8IVzB) | 8:10 | 2022-08-11 | 2022-11-26 |
 | [Luotasi](https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Vantaa](https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP) | 8:10 | 2022-09-20 |  |
+| [LUX 1.4](https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:32 | 2023-01-27 |  |
 | [Made of Metal](https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 1:38 | 2022-08-11 |  |
 | [Mary, On the Wall \- Second Heart Tone](https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:07 | 2022-08-11 |  |
 | [Mimosa](https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW) | [Leif](https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D) | [Loom Dream](https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh) | 7:35 | 2022-08-11 |  |
@@ -75,13 +76,15 @@
 | [Photo With Grey Sky, White Clouds](https://open.spotify.com/track/3xLBY0NMWZqdLCYbPqcUb6) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 8:29 | 2022-08-11 |  |
 | [Pulse](https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void VIII](https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES) | 4:04 | 2022-08-11 |  |
 | [Red Gate Drifting](https://open.spotify.com/track/3qHpK90T5MYO5FMq3UD8Mq) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 7:30 | 2022-08-11 |  |
-| [Reflection \(Excerpt\)](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 | 2022-08-11 |  |
+| [Reflection \(Excerpt\)](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 | 2022-08-11 | 2023-02-02 |
+| [Reflection \- Excerpt](https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet) | 4:20 | 2023-01-27 |  |
 | [Remember](https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [We Will Always Be](https://open.spotify.com/album/2KJckZyq63Ok27GBdGcO1c) | 6:04 | 2022-08-11 |  |
 | [Reminiscence \(Spring has come\)](https://open.spotify.com/track/37qs84hvGjeU7PegEaeFLd) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [chapter](https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e) | 4:36 | 2022-08-11 |  |
 | [Search Party](https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP) | [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf) | [American Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1) | 1:46 | 2022-08-11 |  |
 | [Second Lens](https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 3:25 | 2022-08-11 |  |
 | [Selene](https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Spells \(Special Edition\)](https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR) | 3:20 | 2022-08-11 |  |
-| [Semena Mertvykh](https://open.spotify.com/track/4uWtEvbfRnT7lV4Y5b5gBB) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 3:30 | 2022-08-11 |  |
+| [Semena Mertvykh](https://open.spotify.com/track/4uWtEvbfRnT7lV4Y5b5gBB) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 3:30 | 2022-08-11 | 2023-02-02 |
+| [Semena Mertvykh](https://open.spotify.com/track/51B3H88KSH1BkLdQnWlEZl) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:30 | 2023-01-27 |  |
 | [Shimmer](https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [It All Falls Apart](https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg) | 6:14 | 2022-08-11 |  |
 | [Simon & Anna](https://open.spotify.com/track/0TQjK1RWoPmtRQDaUUBywl) | [Sean Curtis Patrick](https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4) | [The Best Driving Music in the World Ever](https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj) | 3:08 | 2022-08-17 |  |
 | [Simulacra I](https://open.spotify.com/track/3jKFYmkiSh8gvll1mlzuFo) | [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl), [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon) | [Sólaris](https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9) | 5:35 | 2022-08-11 |  |

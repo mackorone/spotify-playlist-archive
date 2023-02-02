@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Csi2otB2wp.md) - [plain]
 
 > una lloradita tranqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,477 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,265 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Csi2otB2wp.md) - [plain]
 | 26 | [la del rencoroso](https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la del rencoroso](https://open.spotify.com/album/0lonH1EHVMwAJghZUHxnxX) | 2:12 |
 | 27 | [Nuestro Juramento](https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:15 |
 | 28 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
-| 29 | [Por Ti \- Spotify Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 |
+| 29 | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Por Ti \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt) | 3:26 |
 | 30 | [Quiero Perderme Contigo](https://open.spotify.com/track/1nbte2bCwsxqioAhzo68aE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 4:55 |
 | 31 | [nuestro amor](https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8) | [nuestro amor sacrificado](https://open.spotify.com/album/23KjrbkAF31Bjlm8K5oDyY) | 1:22 |
 | 32 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |

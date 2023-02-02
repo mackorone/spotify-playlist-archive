@@ -4,7 +4,7 @@
 
 > Meditate to the sound of soothing voices and flutes.
 
-104 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/5wzrCqfV41QHbMB8anhB8k)
+105 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-05-25 |  |
 | [Dunes](https://open.spotify.com/track/3EMhmAY3KnNRlzrzJurxmH) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:45 | 2022-05-25 |  |
 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2022-09-06 |  |
+| [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 | 2022-12-09 |  |
 | [Falling Winds](https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Falling Winds](https://open.spotify.com/album/4nOCx7KqmyryOHBbu3cNdV) | 3:25 | 2022-05-25 |  |
 | [Far And Away](https://open.spotify.com/track/44DKn5hqvnO4912GLZqHYI) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:04 | 2022-05-25 |  |
 | [Feeling Zen](https://open.spotify.com/track/2bzxCAQug0YCQCOxr0l4KB) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Feeling Zen](https://open.spotify.com/album/64ii0rt71mknNqsG2tLoLf) | 3:17 | 2022-05-25 |  |
@@ -67,7 +68,7 @@
 | [Light Ascending](https://open.spotify.com/track/483t4Dw6FPoKXyhMnDNkRY) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Shards](https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU) | [Light Ascending](https://open.spotify.com/album/3VnaphUrqIjgbzkHU29fB7) | 2:47 | 2022-05-25 | 2022-07-29 |
 | [Light Ascending](https://open.spotify.com/track/5PAkAiq4kOuMYITzYCkEV4) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Shards](https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU) | [The Sand That Ate The Sea](https://open.spotify.com/album/5gB7mLZc3DkMOahSlHfpKZ) | 2:47 | 2022-07-22 |  |
 | [Little Swallow](https://open.spotify.com/track/1I0k8K0RQSZZKWGVXw2uDD) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Little Swallow](https://open.spotify.com/album/4JNFQHbtSsuqD9UtiNiGnN) | 3:34 | 2022-05-25 |  |
-| [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 | 2022-05-25 |  |
+| [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 | 2022-05-25 | 2022-12-10 |
 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 | 2022-05-25 |  |
 | [Magic Carpet Ride](https://open.spotify.com/track/46uQASxnpwEpeCS0MAZuwL) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:36 | 2022-05-25 |  |
 | [Masikota](https://open.spotify.com/track/5uYBs6Jdb7WD1hy2sKqZnO) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Masikota](https://open.spotify.com/album/0SIzQRtFJuJC9WYqg8v4g9) | 3:44 | 2022-05-25 |  |
@@ -110,7 +111,7 @@
 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 | 2022-05-25 |  |
 | [The Magical Forest](https://open.spotify.com/track/3vHmuBwbtMLwo0hfUyENAU) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [History of a Legend](https://open.spotify.com/album/4e8l7QDGdpAHrCN4bJatXj) | 3:22 | 2022-05-25 |  |
 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 | 2022-05-25 |  |
-| [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Euryn](https://open.spotify.com/artist/3gZqDSLp1atN62BEKtHMyS) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 | 2022-11-11 |  |
+| [Winds Of Hope](https://open.spotify.com/track/0tj3CpLK4pgG0Yk13D8hxs) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Winds Of Hope](https://open.spotify.com/album/1gyAC884ugq8i5PRPwagYv) | 2:53 | 2022-11-11 |  |
 | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 | 2022-05-25 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

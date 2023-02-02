@@ -4,7 +4,7 @@
 
 > A collection of classic Sub Pop tracks from the 80s and 90s, all that is grunge adjacent!
 
-40 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/5dgyOGwhKXH5hBSD3YYZfg)
+40 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Mellow, instrumental versions of all your favorites.
 
-35 songs - 2 hr 4 min - [published](https://open.spotify.com/playlist/28KNtNbxgGRVsk27GSD4vJ)
+35 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

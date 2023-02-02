@@ -4,7 +4,7 @@
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-173 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/6edEqnO5xOL4KxcMgXoKZO)
+175 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,14 +52,14 @@
 | [Don't Know You](https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:09 | 2019-12-04 |  |
 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 | 2019-12-04 |  |
 | [Energetic](https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [1\-1=0 \(NOTHING WITHOUT YOU\)](https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8) | 3:09 | 2019-12-04 |  |
-| [Erase \(feat.Iron\)](https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Iron](https://open.spotify.com/artist/42dy8y24lMURTr4RjATpYS) | [Erase](https://open.spotify.com/album/2xlOv4KlRfJBbKtPjrJFgr) | 3:48 | 2019-12-04 |  |
+| [Erase \(feat.Iron\)](https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Iron](https://open.spotify.com/artist/42dy8y24lMURTr4RjATpYS) | [Erase](https://open.spotify.com/album/2xlOv4KlRfJBbKtPjrJFgr) | 3:48 | 2019-12-04 |  |
 | [FACE](https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:40 | 2019-12-04 |  |
 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 | 2019-12-04 |  |
 | [FANCY](https://open.spotify.com/track/60zxdAqWtdDu0vYsbXViA7) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/759BaVI4pjAh6l16xqm56V) | 3:33 | 2019-12-04 | 2022-07-29 |
 | [Fantastic Baby](https://open.spotify.com/track/7bB3eTpZ7ecuN7C7dTQomt) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/2R2SusHMCwhf0ed78ajJUM) | 3:50 | 2019-12-04 | 2022-07-29 |
 | [FANTASTIC BABY](https://open.spotify.com/track/1loPQ6y3EfSW0i7RhGO6Ml) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE \(MONSTER EDITION\)](https://open.spotify.com/album/20eKkodbNCLpMj7UMovmVP) | 3:51 | 2019-12-04 | 2022-11-14 |
 | [FANTASTIC BABY \- Japanese ver.](https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM) | 3:51 | 2019-12-04 |  |
-| [Far away… Young love](https://open.spotify.com/track/3sm4Y7jIMFIFsviVYo9xXr) | [C\-CLOWN](https://open.spotify.com/artist/5HBeCjZkFtwfLYD7X3kLwi) | [Young Love](https://open.spotify.com/album/5jWVvga8eohxe2jiYCZVp0) | 3:44 | 2019-12-04 |  |
+| [Far away… Young love](https://open.spotify.com/track/3sm4Y7jIMFIFsviVYo9xXr) | [C\-CLOWN](https://open.spotify.com/artist/5HBeCjZkFtwfLYD7X3kLwi) | [Young Love](https://open.spotify.com/album/5jWVvga8eohxe2jiYCZVp0) | 3:46 | 2019-12-04 |  |
 | [Galaxy](https://open.spotify.com/track/21uJQVH68gc5UZCo5dU9LP) | [LADIES' CODE](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) | [MYST3RY](https://open.spotify.com/album/2hBKoIT80i1iUt9t6lDw2Z) | 3:32 | 2019-12-04 | 2022-07-29 |
 | [Galaxy](https://open.spotify.com/track/5rd00qaUJugfI8nhPcxA3o) | [LADIES' CODE](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) | [MYST3RY](https://open.spotify.com/album/2kOn7OTf9UGL0fyxy8yT7n) | 3:32 | 2019-12-04 |  |
 | [Galaxy 우주를 줄게](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 | 2019-12-04 |  |
@@ -102,7 +102,7 @@
 | [LUCIFER](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Lucifer \- The 2nd Album](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) | 3:53 | 2019-12-04 |  |
 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 | 2019-12-04 |  |
 | [Ma Boy 2 \(feat\. 효린\)](https://open.spotify.com/track/5v3gKiiPLuTOEUoGt5XGZ6) | [Electroboyz](https://open.spotify.com/artist/0zs9nRedA8m8o58lbkrpkr) | [Rebirth](https://open.spotify.com/album/5AEGrLO44bhYDdsut3YaqA) | 3:27 | 2019-12-04 | 2022-07-29 |
-| [Ma Boy2](https://open.spotify.com/track/0xSvmfT0aAK3IY9aTvg0WD) | [일렉트로보이즈](https://open.spotify.com/artist/2yaScoMwbIYw6wqdPPQ6bL), [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Rebirth](https://open.spotify.com/album/4ZMtRAREv9TDLgJCs1JyHL) | 3:26 | 2019-12-04 |  |
+| [Ma Boy2](https://open.spotify.com/track/0xSvmfT0aAK3IY9aTvg0WD) | [일렉트로보이즈](https://open.spotify.com/artist/2yaScoMwbIYw6wqdPPQ6bL), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Rebirth](https://open.spotify.com/album/4ZMtRAREv9TDLgJCs1JyHL) | 3:26 | 2019-12-04 |  |
 | [Magic](https://open.spotify.com/track/0VNQpkPh5l5ncQJCfWMCKZ) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [Secret Time](https://open.spotify.com/album/21aoDGVqQXkuz30ErlbqcA) | 3:23 | 2019-12-04 |  |
 | [ME](https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [ME](https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3) | 3:13 | 2019-12-04 |  |
 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 | 2019-12-04 |  |
@@ -155,12 +155,14 @@
 | [The Ghost of Wind](https://open.spotify.com/track/1aUP0tGSkpricoZtV5Goj7) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [Illusion](https://open.spotify.com/album/6p2lS1PUNUMMLRoce5Cg4V) | 3:31 | 2019-12-04 | 2022-11-14 |
 | [The Ghost of Wind](https://open.spotify.com/track/2xNxuMhDDuZEBAB4Oy6Ovd) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/4yEKFbp7OPPYnKR9ILoG2Z) | 3:31 | 2019-12-04 | 2022-08-31 |
 | [The Ghost of Wind](https://open.spotify.com/track/46BXtEtAA4ScdKxy026cIY) | [ZE:A](https://open.spotify.com/artist/6lGfLCig2b5mvDTtsPSrb0) | [CONTINUE](https://open.spotify.com/album/7xtsbErVzHdz8iZFCmtow8) | 3:31 | 2019-12-04 |  |
-| [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:40 | 2019-12-04 |  |
+| [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:40 | 2019-12-04 | 2023-01-05 |
+| [This Love](https://open.spotify.com/track/1tYpbWzCSZjWz6tZxVbyzC) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/4pZaGrn3Z8xiX6KQYkRRkU) | 3:40 | 2019-12-04 |  |
 | [Tried to walk](https://open.spotify.com/track/2EZN8NPWyihMDMZ6l3vKZI) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [IN THE WIND](https://open.spotify.com/album/0dlQsvRmBSidDCbyAHnhKN) | 3:36 | 2019-12-04 |  |
 | [Tried to walk](https://open.spotify.com/track/6UYc8n6PjvN6vrrNTSDM51) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [IN THE WIND](https://open.spotify.com/album/14uRVwwLjCIq9UZjfdccDF) | 3:36 | 2019-12-04 | 2022-07-29 |
 | [Trouble Maker](https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) | [Trouble Maker](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) | 3:39 | 2019-12-04 |  |
 | [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 | 2019-12-04 |  |
-| [Venus](https://open.spotify.com/track/7FV7Ng7Oj3ToGGlxvIjPtF) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Return](https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu) | 3:37 | 2019-12-04 |  |
+| [Venus](https://open.spotify.com/track/4sKAJE5FVYmltDGtmrG1c6) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Return](https://open.spotify.com/album/0bhobOcdGqJ3GG20tM32l5) | 3:37 | 2019-12-04 |  |
+| [Venus](https://open.spotify.com/track/7FV7Ng7Oj3ToGGlxvIjPtF) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Return](https://open.spotify.com/album/0GpJp1G54QYfYT2byquwSu) | 3:37 | 2019-12-04 | 2023-01-06 |
 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 | 2019-12-04 |  |
 | [View](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 3:10 | 2019-12-04 |  |
 | [We are a bit different](https://open.spotify.com/track/31vC4Lt8ZxmaKT5azztqOn) | [Evol](https://open.spotify.com/artist/3ACbVQlfUaW0Qm2DDe5T18) | [Let Me Explode](https://open.spotify.com/album/6V0GTRDWjwAdAHQPSKF0qO) | 3:37 | 2019-12-04 |  |

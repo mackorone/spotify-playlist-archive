@@ -4,7 +4,7 @@
 
 > Looking for a singer who dominated an era in the Korean music industry and then disappeared, aka 'SUGAR MAN'\. This is the official playlist of JTBC <Sugar Man>\. \(대한민국 가요계의 한 시대를 풍미했다가 사라진 가수, 일명 '슈가맨 \(SUGAR MAN\)'을 찾아갑니다\. JTBC 슈가맨의 오피셜 플레이리스트입니다.\)
 
-25 songs - 1 hr 33 min - not published yet
+25 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

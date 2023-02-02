@@ -4,7 +4,7 @@
 
 > Soft and soothing piano music for meditation.
 
-116 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/3EZwyUpoN8zMVayHsaE8Bf)
+117 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aqua Tacet](https://open.spotify.com/track/1dGj3FCziIKrm7IAG9KNYL) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [Aqua Tacet](https://open.spotify.com/album/3k9jcwQk6tlH3QJc7Otd4i) | 2:40 | 2022-04-28 |  |
 | [As I Was](https://open.spotify.com/track/4yOpcry4CWaSCjUQgdwN6z) | [Helios Relaxing Space](https://open.spotify.com/artist/0tenBmuzRDNG5Qn0a295jB) | [As I Was](https://open.spotify.com/album/5su4E0BtsA1PmsiFjp7Rg1) | 5:11 | 2022-07-27 |  |
 | [Asana](https://open.spotify.com/track/1tgbowhuwXlzBy0hPEGkEq) | [Marta Delgado](https://open.spotify.com/artist/0B8IFmmZxB0JtGg29Qzat2) | [Asana](https://open.spotify.com/album/5qTx1yvL5ARNo7GmhSd6E6) | 3:41 | 2022-11-14 |  |
+| [At dawn](https://open.spotify.com/track/3s8OzufTF0QYthWCQErO32) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Meadow](https://open.spotify.com/album/3PCWuBlBNCd8XTqF1wVpNl) | 2:26 | 2023-01-26 |  |
 | [At Rest](https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Dharma's Dream](https://open.spotify.com/album/6pkV7ilaHspVHyTXGy7yOk) | 2:39 | 2022-04-28 |  |
 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 |  |
 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 | 2022-04-28 |  |

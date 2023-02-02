@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 
 > Songs by Asian Americans calling for self\-empowerment, self\-determination, solidarity, and fighting erasure\. Built in partnership with <a href="https://hateisavirus.org/">Hate Is A Virus</a> & <a href="https://www.traktivist.com/">TRAKTIVIST</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,178 likes - 48 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256 likes - 48 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 | 6 | [N.R.I.](https://open.spotify.com/track/6Ie5Yr6OeGetJ6wrFTIwVo) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [N.R.I.](https://open.spotify.com/album/1dvfN2HB5cYAQCgbl2qo0x) | 2:25 |
 | 7 | [I Belong](https://open.spotify.com/track/7wMBGhGNboFnTAibRWA1Wj) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [I Belong](https://open.spotify.com/album/39F9vuP4yAsLcp1WM8sC30) | 2:34 |
 | 8 | [We Need Each Other](https://open.spotify.com/track/0pGlG8aDa9Wx8XC4pwFCPX) | [Nikbo](https://open.spotify.com/artist/7rmz3mFOLOfvYShTd4Fbj8) | [From the Garden](https://open.spotify.com/album/2LQbV6d7zD638KPmArBKMx) | 4:03 |
-| 9 | [But I Still Love You](https://open.spotify.com/track/4F4znseeaLF0lYI7W8sxIt) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [But I Still Love You](https://open.spotify.com/album/2VX4ENH4qGabCrAyPN0qTb) | 3:03 |
+| 9 | [But I Still Love You](https://open.spotify.com/track/1vxTbNLkQQV8UBgmNRPeaX) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [But I Still Love You](https://open.spotify.com/album/6fmTuiRgJqhuNneJFQUJgO) | 3:03 |
 | 10 | [Go Back 2 China](https://open.spotify.com/track/1CGRxBplxZZUZBMZgOJ9Eb) | [Chow Mane](https://open.spotify.com/artist/0aTB9Tpg1cEl7feT369vWm), [Jason Chu](https://open.spotify.com/artist/4iYrlt4ga3CGYF7Z2mUDxV) | [Go Back 2 China](https://open.spotify.com/album/1FSzgribJhBESbxYEXgXnR) | 2:53 |
 | 11 | [We Belong '21](https://open.spotify.com/track/6d1eXDyWCUfs4y0NeAFXdP) | [Magnetic North & Taiyo Na](https://open.spotify.com/artist/5P8DUAC8zMuhX9rGZnpSlW), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI) | [We Belong '21](https://open.spotify.com/album/76iDkdDqYyQ2A1MBD0o6tq) | 3:45 |
 | 12 | [Ashes](https://open.spotify.com/track/3zzM7JOyu35WTR0k1QFvcl) | [Uzuhan](https://open.spotify.com/artist/2KG9Jkvp7Y5wvaMjCcIu37), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Ashes](https://open.spotify.com/album/5XwW5Zz78gCg6Eyw3NwSo8) | 3:27 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 | 32 | [Colorblind](https://open.spotify.com/track/2M06pMzuVTUMIpZ16BjJmU) | [HeeSun Lee](https://open.spotify.com/artist/6T86uN02MAjAayagSHKIpA) | [Colorblind](https://open.spotify.com/album/0Z9mB9JDXBiqmMaYcUz0pN) | 2:53 |
 | 33 | [Good People \(Doing Bad Things\)](https://open.spotify.com/track/2ho1K1AyJGd75aI6gnXyIB) | [Prometheus Brown](https://open.spotify.com/artist/4M56KND9kU2FZaRqf00Nha) | [Tagsibol](https://open.spotify.com/album/1KkKkMajAfai0w9dvosW7B) | 3:39 |
 | 34 | [Kenji](https://open.spotify.com/track/6H503HrJOogVycvQkq2SuG) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:51 |
-| 35 | [T5](https://open.spotify.com/track/5pgzFZFM60GvbnbBwvq98p) | [Swet Shop Boys](https://open.spotify.com/artist/3ah2OYM4PbK5p1XIS5HfGD), [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW), [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu) | [Cashmere](https://open.spotify.com/album/0wL2jTDIlsPrvwEm7Le0ML) | 2:27 |
+| 35 | [T5](https://open.spotify.com/track/6nsWBjZWbV1gsyi0tAECSz) | [Swet Shop Boys](https://open.spotify.com/artist/3ah2OYM4PbK5p1XIS5HfGD), [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW), [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu) | [Cashmere](https://open.spotify.com/album/7uMKTS3RC1KGDG74nwzrUS) | 2:27 |
 | 36 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
 | 37 | [Division in the Heartland](https://open.spotify.com/track/2fQwuuwIjqXnmXJMzCrFEE) | [Bruce Lee Band](https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY) | [Division in the Heartland](https://open.spotify.com/album/6eDkHhRW0LobG3wUy3QFw5) | 2:01 |
 | 38 | [Revolution](https://open.spotify.com/track/2lWXHFcyBzZjozeH2OkkoE) | [Chops](https://open.spotify.com/artist/7rZhd5CEGayD1QOJ7ENp3u), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI), [KiWi](https://open.spotify.com/artist/5HGrny6JmCdxuXel6yqu3J), [Dj Neil Armstrong](https://open.spotify.com/artist/3rmfmBbj8DldzVjqTwhQZR), [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj) | [Strength in Numbers](https://open.spotify.com/album/4XrmPtfQjjHyplnErBVbcf) | 3:51 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzuTydUOXRi.md) - [plain]
 | 47 | [We are the Children](https://open.spotify.com/track/3JpMNtEjO9Vvfa7nHRdk2R) | [Chris Kando Iijima](https://open.spotify.com/artist/1FVzKO0L8p3o2buKGX2pat), [Nobuko Miyamoto](https://open.spotify.com/artist/2Jrux4LmFNPS1Nk6NmA5yZ), [Charlie Chin](https://open.spotify.com/artist/6eX31rTtOkt0GKJt53Omyn) | [A Grain of Sand: Music for the Struggle by Asians in America](https://open.spotify.com/album/7tEIA1YsNtFg7I5InBEDpq) | 2:54 |
 | 48 | [I Am Not a Virus](https://open.spotify.com/track/0Js0zMozqoPq2jpdtnLghs) | [Jordan Vanhemert](https://open.spotify.com/artist/2Evoan7fHtMomWN9ONOsNB), [Rob Smith](https://open.spotify.com/artist/09NsR9F3P1Q9ocmJ0ULb7v), [Lisa Sung](https://open.spotify.com/artist/3L0ZbGmFzTiPaygVqAAFdg), [Kazuki Takemura](https://open.spotify.com/artist/1nu6AnXuhLN5VE8YK3Cv2x), [Andy Wheelock](https://open.spotify.com/artist/1fdOyp1kPBFm0K3ksV6sku) | [I Am Not a Virus](https://open.spotify.com/album/4ZXwN59UAoFksXPPqUyOop) | 8:42 |
 
-Snapshot ID: `MTYyMzQzNTQxNSwwMDAwMDAwMDdlNGVmYzJiYTBiM2I3ODc4N2YzZmFhZTYyYzI0MzA1`
+Snapshot ID: `MTYyMzQzNTQxNSwwMDAwMDAwMGJlM2NkMjAyYjI2YTQ1MDRiMjA1NWFkOWU3ZTNlMGMw`

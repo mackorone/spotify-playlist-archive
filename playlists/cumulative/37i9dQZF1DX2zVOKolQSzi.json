@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "The best and finest '10s Funk. Cover: Pharrell Williams.",
   "name": "I Love My '10s Funk",
-  "published_playlist_ids": [
-    "5noqwCCsnUWZmorBqtfD0M"
-  ],
   "tracks": [
     {
       "album": {
@@ -345,10 +342,28 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 319932,
       "name": "Come on with the Good Thing",
       "url": "https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB"
+    },
+    {
+      "album": {
+        "name": "Come on with the Good Thing",
+        "url": "https://open.spotify.com/album/0bL75fPbxNsM0gBQpYxM2F"
+      },
+      "artists": [
+        {
+          "name": "MF Robots",
+          "url": "https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319932,
+      "name": "Come on with the Good Thing",
+      "url": "https://open.spotify.com/track/7z4eAMrP1KnLXdulAjER41"
     },
     {
       "album": {

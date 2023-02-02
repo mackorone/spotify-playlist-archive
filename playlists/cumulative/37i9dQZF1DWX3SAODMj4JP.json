@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-15",
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
   "name": "Chocolate Crente",
-  "published_playlist_ids": [
-    "5JZY6af9zEUuR4p3UhWpXB"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 334240,
       "name": "A Lei e o Amor",
       "url": "https://open.spotify.com/track/6Vgwjqe67ynLvDN7cZgzcd"
@@ -95,6 +92,32 @@
       "duration_ms": 244200,
       "name": "Abra\u00e7o",
       "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
+    },
+    {
+      "album": {
+        "name": "Agora, Aqui",
+        "url": "https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR"
+      },
+      "artists": [
+        {
+          "name": "Ana Heloysa",
+          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Filipe da Guia",
+          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205329,
+      "name": "Agora, Aqui",
+      "url": "https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO"
     },
     {
       "album": {
@@ -361,7 +384,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": "2023-01-24",
       "duration_ms": 280760,
       "name": "Corpo I",
       "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"

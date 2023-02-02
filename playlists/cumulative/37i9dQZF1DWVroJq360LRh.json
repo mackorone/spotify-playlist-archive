@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "M\u00fasicas ac\u00fasticas para acompanhar sua sess\u00e3o de pilates.",
   "name": "Pilates Ac\u00fastico",
-  "published_playlist_ids": [
-    "1MGkYmGQ7StCIsRe8pezD4"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,6 +56,24 @@
       "duration_ms": 198394,
       "name": "A thousand Years - Acoustic",
       "url": "https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT"
+    },
+    {
+      "album": {
+        "name": "All Star - Acoustic",
+        "url": "https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1"
+      },
+      "artists": [
+        {
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230535,
+      "name": "All Star - Acoustic",
+      "url": "https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c"
     },
     {
       "album": {
@@ -170,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199252,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b"
+    },
+    {
+      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/5akH4weBEv1KwHrFw8A6Mu"
       },
@@ -239,6 +272,24 @@
       "duration_ms": 176542,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/0LFGuTTSzJriA5NueC6uNI"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178636,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3gfj8KspdXnjhE60lCtau6"
     },
     {
       "album": {
@@ -448,6 +499,24 @@
     },
     {
       "album": {
+        "name": "breakeven",
+        "url": "https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO"
+      },
+      "artists": [
+        {
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210783,
+      "name": "breakeven",
+      "url": "https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP"
+    },
+    {
+      "album": {
         "name": "Memories of Tomorrow",
         "url": "https://open.spotify.com/album/16gAW8RYGRjjHqUfedNpHY"
       },
@@ -538,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Call Me Maybe - Acoustic",
+        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
+      },
+      "artists": [
+        {
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210473,
+      "name": "Call Me Maybe - Acoustic",
+      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
+    },
+    {
+      "album": {
         "name": "Change The World (Acoustic)",
         "url": "https://open.spotify.com/album/4YMJqOrbqok6cjYjnNInZw"
       },
@@ -553,6 +640,42 @@
       "duration_ms": 297268,
       "name": "Change The World - Acoustic",
       "url": "https://open.spotify.com/track/0JoIuY82vgBX5JylD4GqfV"
+    },
+    {
+      "album": {
+        "name": "Chasing Cars (Acoustic)",
+        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221762,
+      "name": "Chasing Cars (Acoustic)",
+      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132024,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
     },
     {
       "album": {
@@ -621,7 +744,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 227500,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
@@ -675,10 +798,28 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 246611,
       "name": "Dare You To Move - Acoustic",
       "url": "https://open.spotify.com/track/6y0G798fs8GW7hgAZ9Jqbx"
+    },
+    {
+      "album": {
+        "name": "Demons - Acoustic Cover",
+        "url": "https://open.spotify.com/album/6mcNDNhARQFWyHzRG9Yz8K"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Demons - Acoustic",
+      "url": "https://open.spotify.com/track/3TAr9I2A2kwQt9iCi1iRFN"
     },
     {
       "album": {
@@ -891,7 +1032,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 252186,
       "name": "Faith You Might",
       "url": "https://open.spotify.com/track/7MmaUyUT4BZ34h0efprslf"
@@ -1119,7 +1260,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 130013,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4sX4O9mgw76aWhehf1eSRD"
@@ -1221,7 +1362,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 248226,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6AV1zIEKthWkvTQ2pWHydH"
@@ -1369,7 +1510,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 174800,
       "name": "Head Swim",
       "url": "https://open.spotify.com/track/7qUEWkkeVH44GWsV5vTz5x"
@@ -1405,7 +1546,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
@@ -1788,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/63WqFGONvmwiJATGOZHrK2"
+      },
+      "artists": [
+        {
+          "name": "Linus Svenning",
+          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150066,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6E6OwPVfP85uS119yFg1WZ"
+    },
+    {
+      "album": {
         "name": "Is This Love",
         "url": "https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU"
       },
@@ -2164,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Nights Like This (Acoustic)",
+        "url": "https://open.spotify.com/album/18mm5k1571gbV8zGOZu9f3"
+      },
+      "artists": [
+        {
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223507,
+      "name": "Nights Like This (Acoustic)",
+      "url": "https://open.spotify.com/track/5qmBaa3MtKuyKy79WTUaBo"
+    },
+    {
+      "album": {
         "name": "Nutshell",
         "url": "https://open.spotify.com/album/0GZduTtg1Dj4BRGTHzYlMS"
       },
@@ -2259,6 +2436,24 @@
     {
       "album": {
         "name": "Paradise (Acoustic)",
+        "url": "https://open.spotify.com/album/1Ad968gPukAt86YXpyEWIy"
+      },
+      "artists": [
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Paradise - Acoustic",
+      "url": "https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91"
+    },
+    {
+      "album": {
+        "name": "Paradise (Acoustic)",
         "url": "https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ"
       },
       "artists": [
@@ -2269,7 +2464,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 153000,
       "name": "Paradise - Acoustic",
       "url": "https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw"
@@ -2363,7 +2558,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 203869,
       "name": "Portland, Maine",
       "url": "https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG"
@@ -2507,7 +2702,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 216000,
       "name": "Real Estate",
       "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
@@ -2807,7 +3002,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-24",
       "duration_ms": 212152,
       "name": "September Song - Guitar Acoustic",
       "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
@@ -2984,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132789,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1B6OjPf4sMsav2FSysIvJT"
       },
@@ -3075,6 +3288,42 @@
       "duration_ms": 224866,
       "name": "Sweet Creature",
       "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
+    },
+    {
+      "album": {
+        "name": "Sweet Nothing",
+        "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
+      },
+      "artists": [
+        {
+          "name": "Sighting",
+          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
+    },
+    {
+      "album": {
+        "name": "Take Me To Church (Acoustic)",
+        "url": "https://open.spotify.com/album/1YY1bunCgmyMCVtEsaGNvP"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231272,
+      "name": "Take me to church - Acoustic",
+      "url": "https://open.spotify.com/track/0aennjtfg2FjQnKDlwezNO"
     },
     {
       "album": {
@@ -3360,6 +3609,28 @@
     },
     {
       "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/7F9CzPe6XFDYIEzh8KVtpc"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        },
+        {
+          "name": "Beck Pete",
+          "url": "https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197882,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/4HwUDalB30KzSQVbSbr4je"
+    },
+    {
+      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/1uWEXc1yoSNuS3jfUbNWyC"
       },
@@ -3375,6 +3646,42 @@
       "duration_ms": 188437,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/3XXaCFZD3dcik18uJYs9fA"
+    },
+    {
+      "album": {
+        "name": "Visiting Hours (Acoustic)",
+        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197202,
+      "name": "Visiting Hours (Acoustic)",
+      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
+    },
+    {
+      "album": {
+        "name": "We Found Love - Acoustic",
+        "url": "https://open.spotify.com/album/0YuVbTUWFSxAPPQCGAat0u"
+      },
+      "artists": [
+        {
+          "name": "Kim & Otto",
+          "url": "https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "We Found Love - Acoustic",
+      "url": "https://open.spotify.com/track/4qdLbr82uc46ZDr7pPsbR0"
     },
     {
       "album": {

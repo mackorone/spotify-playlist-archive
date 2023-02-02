@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYjHx7A35pj.md) - [plain]
 
 > <a href="http://casaum.org/">Casa 1</a> recommends songs from LBT women \(lesbians, bi and trans\)\. \| Cover:  Ventura Profana
 
-[Spotify](https://open.spotify.com/user/spotify) - 239 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 278 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYjHx7A35pj.md) - [plain]
 | 34 | [Stereo \- Ao Vivo](https://open.spotify.com/track/6ELz4VKQ30jkp3uOZXkPis) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB) | [Noite Preta Ao Vivo](https://open.spotify.com/album/4wLDFVDOFuOyXnf8jGT3HR) | 4:11 |
 | 35 | [Rota de Colisão](https://open.spotify.com/track/25P5KayLFrV4nOb6FHl7wV) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Mansa Fúria](https://open.spotify.com/album/4XHQHm6GlK5oZMTQtcWKo8) | 3:45 |
 | 36 | [A Braba do Jaca](https://open.spotify.com/track/4Dqamp1bT0B8cFgK1gZZtb) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb), [Lari bxd 777](https://open.spotify.com/artist/3UnCbsra63A5dhNr8mWY03) | [Gueto Elegance](https://open.spotify.com/album/3xPaseb2bsgVYawCnQRuCf) | 4:27 |
-| 37 | [Amor e Sacanagem](https://open.spotify.com/track/74KhL2RSFJK0o2hNwBnuA2) | [Aíla](https://open.spotify.com/artist/3OtIWdfvw95ikh5dpiNop3), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU) | [Sentimental](https://open.spotify.com/album/1mVMdjPiXrkk30gBrgxPmK) | 3:14 |
+| 37 | [Amor e Sacanagem](https://open.spotify.com/track/1wZh8VTAmSoCZuXzudYmBJ) | [Aíla](https://open.spotify.com/artist/3OtIWdfvw95ikh5dpiNop3), [Luísa Nascimento](https://open.spotify.com/artist/75P8IMO7QpxyxglsNvLZGg) | [Sentimental](https://open.spotify.com/album/6Mc2eMm7ClOoCMnZg8CuwH) | 3:14 |
 | 38 | [Nova TV](https://open.spotify.com/track/2iioYzrQmgoSJAfvHz22vY) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 3:23 |
 | 39 | [Nanã](https://open.spotify.com/track/6PW0Oe1zwAP5IG6bQP4pWs) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Mansa Fúria](https://open.spotify.com/album/4XHQHm6GlK5oZMTQtcWKo8) | 3:49 |
 | 40 | [De Dentro do AP](https://open.spotify.com/track/4dTQw3ElTwrTSlA0JcVs8s) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Igreja Lesbiteriana, Um Chamado](https://open.spotify.com/album/0ElU2CZRo8BffDKE1bXB8z) | 4:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYjHx7A35pj.md) - [plain]
 | 49 | [Demais pra Você](https://open.spotify.com/track/1b1kyDwLDfU89YSYTSZw1u) | [Rafa Bebiano](https://open.spotify.com/artist/04Rb8FMdiPjqcHJVl3VysK) | [Demais pra Você](https://open.spotify.com/album/6FmG4yFefTuGJZohMBB0rP) | 3:49 |
 | 50 | [Todxs Putxs](https://open.spotify.com/track/6nwlb4lBpiWSycx0Pq5LPP) | [Ekena](https://open.spotify.com/artist/25epDJS6g5Qp9VwVw2gtQZ) | [Nó](https://open.spotify.com/album/1JCDCeKGs8BTJROLdcCeoj) | 6:23 |
 
-Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDI0MGUxMzllY2I2Y2JmNTdkYjZlNmNlOTNkOWYxYWI5`
+Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDdiZjA1NDBkMTYwZTY0YmIxNjBkMzA2YTUyOGY4ZDg3`

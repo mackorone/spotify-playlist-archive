@@ -4,7 +4,7 @@
 
 > Hear all of NMIXX's biggest and best hits in one playlist.
 
-27 songs - 44 min 26 sec - not published yet
+27 songs - 44 min 26 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

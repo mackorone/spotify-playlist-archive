@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-08-18",
   "description": "Relax and unwind to the soothing hum of the electric fan. ",
   "name": "Fan Noise",
-  "published_playlist_ids": [
-    "4GEj3v6pmG0SDKzDAfp6Wj"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Fan Noises For Inner Balance",
+        "url": "https://open.spotify.com/album/1qKpt0Ngx0IWD1hzkMgVZO"
+      },
+      "artists": [
+        {
+          "name": "Field Rec Deluxe",
+          "url": "https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "852 Hz Brown Noise Fan",
+      "url": "https://open.spotify.com/track/5kCtcCeabsR79WeC4sby3N"
+    },
     {
       "album": {
         "name": "Relaxing Aircon Sounds",
@@ -23,6 +38,42 @@
       "duration_ms": 138000,
       "name": "AC Fan Outdoor Unit - Loopable",
       "url": "https://open.spotify.com/track/1cVFQmU7HIBbvp08Jbr5Rf"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner Pink Noise",
+        "url": "https://open.spotify.com/album/4BWmnO3nQ712fnEmBhdsFA"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Air Conditioner Pink Noise",
+      "url": "https://open.spotify.com/track/7BhpPmVSAWKpJacRaI1SGg"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner White Noise",
+        "url": "https://open.spotify.com/album/7diWLqeF5sHyFK4D1WOckr"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Air Conditioner White Noise",
+      "url": "https://open.spotify.com/track/2ycpmX1MjmKy7O6z6fQKpT"
     },
     {
       "album": {
@@ -145,7 +196,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 143018,
       "name": "Asmr: Big Fan Noise - Rem Sleep",
       "url": "https://open.spotify.com/track/3oOltlMbWMByDccCqhtYU8"
@@ -167,7 +218,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 61294,
       "name": "Baby Sleep: Ventilation & Fan Sound",
       "url": "https://open.spotify.com/track/3qjGV6pa9SaMrMFUDSa3fH"
@@ -225,7 +276,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 72223,
       "name": "Best Box Fan Sound - Loopable with no fade",
       "url": "https://open.spotify.com/track/3gYjtASDIOrBZb4izoI8ts"
@@ -243,7 +294,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 212000,
       "name": "Big Blow Fan",
       "url": "https://open.spotify.com/track/1qYyztFqHYgxJKNa8nMiAM"
@@ -297,7 +348,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 164764,
       "name": "Box Fan",
       "url": "https://open.spotify.com/track/60GYN2VOmVl5zJELCE5Cn4"
@@ -359,7 +410,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 76378,
       "name": "Box Fan Medium Speed Sleep Noise",
       "url": "https://open.spotify.com/track/3zvRcOTRjbuDgUX5wAOMIo"
@@ -377,7 +428,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 589971,
       "name": "Box Fan Sound",
       "url": "https://open.spotify.com/track/575DZcL4PtBm3qoFdilkq8"
@@ -528,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Air Conditioner Pink Noise",
+        "url": "https://open.spotify.com/album/4BWmnO3nQ712fnEmBhdsFA"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Dehumidifier Pink Noise",
+      "url": "https://open.spotify.com/track/5wINlGlaDE9lm9f74LLXro"
+    },
+    {
+      "album": {
         "name": "Noise for Sleep (Loopable With No Fade)",
         "url": "https://open.spotify.com/album/0GfZxXKuZBiBcdmZ0hDbHx"
       },
@@ -539,7 +608,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 59103,
       "name": "Desk Fan - Loopable With No Fade",
       "url": "https://open.spotify.com/track/6TCuOBuCpf2eolEjf4qUVv"
@@ -611,7 +680,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 61000,
       "name": "Easy sleep fan noises",
       "url": "https://open.spotify.com/track/4mNac1V3y5RPFksZHPbGZI"
@@ -665,7 +734,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 375541,
       "name": "Fan",
       "url": "https://open.spotify.com/track/0nzG9pxS7FC75gbRrq4pFW"
@@ -683,7 +752,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 203702,
       "name": "Fan",
       "url": "https://open.spotify.com/track/0uHpEnt7tzOid1P3q06q3p"
@@ -701,7 +770,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 75772,
       "name": "Fan 13",
       "url": "https://open.spotify.com/track/0zMQ0pWBSsDM5nBVFYDt1y"
@@ -737,7 +806,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 67288,
       "name": "Fan 15",
       "url": "https://open.spotify.com/track/2fio99goPWgjci82rEGy84"
@@ -773,7 +842,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 60000,
       "name": "Fan Calming Noise",
       "url": "https://open.spotify.com/track/2Rnbm952L8Zckh7WU1b4yO"
@@ -809,7 +878,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 214000,
       "name": "Fan Noise",
       "url": "https://open.spotify.com/track/2vf6O5Mn8hzyBIsUFTFRGe"
@@ -863,7 +932,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 61000,
       "name": "Fan noise for better sleep",
       "url": "https://open.spotify.com/track/2jxHBxglas75XlJu8xFbqK"
@@ -885,7 +954,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 243880,
       "name": "Fan Noise for Sleep (White Noise Sleep Healing)",
       "url": "https://open.spotify.com/track/7uiJuEfaVmsYXeO8RMsMVw"
@@ -939,7 +1008,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 165140,
       "name": "Fan Oscillations",
       "url": "https://open.spotify.com/track/31BU1U2QiGVJINB0cb1Df4"
@@ -1018,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Healing Fan Noises",
+        "url": "https://open.spotify.com/album/5eHk55HMYbxSOw5tEhrFp6"
+      },
+      "artists": [
+        {
+          "name": "Silent Places",
+          "url": "https://open.spotify.com/artist/1c6wOnLBxfbHDjPoRcPVPW"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Fan Tastic 741 Hz",
+      "url": "https://open.spotify.com/track/3pV0cAn4gW05BSkFAUGNBe"
+    },
+    {
+      "album": {
         "name": "Celestial Cosmic White Noise for Baby Sleep",
         "url": "https://open.spotify.com/album/0uG6NGUNsecKRdS7Z4tIkn"
       },
@@ -1051,10 +1138,46 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 197021,
       "name": "Faulty Fan",
       "url": "https://open.spotify.com/track/7A79iQ8PdBmAgiAMB0NOtA"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner Pink Noise",
+        "url": "https://open.spotify.com/album/4BWmnO3nQ712fnEmBhdsFA"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Gentle Breeze Pink Noise",
+      "url": "https://open.spotify.com/track/5jSsIanMmsmEhNltLjd40X"
+    },
+    {
+      "album": {
+        "name": "Air Conditioner White Noise",
+        "url": "https://open.spotify.com/album/7diWLqeF5sHyFK4D1WOckr"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Gentle Breeze White Noise",
+      "url": "https://open.spotify.com/track/5j3HaftobHEr89XFLJUc2m"
     },
     {
       "album": {
@@ -1145,6 +1268,24 @@
       "duration_ms": 181101,
       "name": "Hotel Mechanical Room Fans",
       "url": "https://open.spotify.com/track/5hjj03IzLbcJCsTSe0DxYm"
+    },
+    {
+      "album": {
+        "name": "Ventilation Units",
+        "url": "https://open.spotify.com/album/48usbs0Xig94maoMQZaOjE"
+      },
+      "artists": [
+        {
+          "name": "Contented",
+          "url": "https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Hotel Room Ventilation",
+      "url": "https://open.spotify.com/track/0zURUnlaUXVXeWUditdl6t"
     },
     {
       "album": {
@@ -1249,7 +1390,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 416000,
       "name": "Long Fan",
       "url": "https://open.spotify.com/track/5EPT4CyGG4DwIcg4Ojw00g"
@@ -1271,6 +1412,24 @@
       "duration_ms": 170000,
       "name": "Low AC Fan Rumble",
       "url": "https://open.spotify.com/track/1N6h47vHFECrzCbuxW5KaL"
+    },
+    {
+      "album": {
+        "name": "Workspace Siesta",
+        "url": "https://open.spotify.com/album/2YvDKXRG7Sb8qPBlNMdPbV"
+      },
+      "artists": [
+        {
+          "name": "ASMR Fan-Tastic",
+          "url": "https://open.spotify.com/artist/40jkzlYRbhcXi5GNug4JCB"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174041,
+      "name": "Machine Hall",
+      "url": "https://open.spotify.com/track/3xhInmpdC67u7AeHpvLaEq"
     },
     {
       "album": {
@@ -1339,7 +1498,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 63136,
       "name": "Noises of Fan",
       "url": "https://open.spotify.com/track/3c2P05qBjXQrwRt2yT0gkh"
@@ -1357,7 +1516,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 106255,
       "name": "Noisy Fan",
       "url": "https://open.spotify.com/track/7DHu5FqINNn4sUCpK00XuC"
@@ -1454,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Air Conditioner White Noise",
+        "url": "https://open.spotify.com/album/7diWLqeF5sHyFK4D1WOckr"
+      },
+      "artists": [
+        {
+          "name": "Ljudith",
+          "url": "https://open.spotify.com/artist/5DihhCZUInKqFLe3K00DLP"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Old Fan White Noise",
+      "url": "https://open.spotify.com/track/1SQXtDp1IS3TPUx0HV9fk9"
+    },
+    {
+      "album": {
         "name": "Old Rumbling AC",
         "url": "https://open.spotify.com/album/7nPjp652Mgve17FbTeF08F"
       },
@@ -1501,7 +1678,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 224000,
       "name": "Oscillating Fan",
       "url": "https://open.spotify.com/track/5jeax20Rmlr4J07htudY08"
@@ -1705,7 +1882,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 436223,
       "name": "Sleep Sounds Fan Loop",
       "url": "https://open.spotify.com/track/3xL4JuQBw7GOJXzloNIIWN"
@@ -1907,7 +2084,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 72223,
       "name": "Table Fan - Loopable With No Fade",
       "url": "https://open.spotify.com/track/6YzzyEz4PU8DNB0xzAaWe1"
@@ -2015,7 +2192,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 304000,
       "name": "White Noise Fan Sound",
       "url": "https://open.spotify.com/track/0EjTKpMAvsPYmDlP5OIqvu"
@@ -2033,7 +2210,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 203206,
       "name": "White Noise: Electric Fans",
       "url": "https://open.spotify.com/track/0lkBe4nmn0hKu0xEUFdd6p"
@@ -2051,7 +2228,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 203702,
       "name": "White Noise: Fan",
       "url": "https://open.spotify.com/track/3AOPwVN6Kl9vZLsd24YXZj"
@@ -2069,7 +2246,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 208215,
       "name": "White Noise: Fan Swell",
       "url": "https://open.spotify.com/track/26kHNG7PiXy1X7I3wJDBm2"
@@ -2087,7 +2264,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 227918,
       "name": "White Noise: Rotating Fan",
       "url": "https://open.spotify.com/track/35pI5XX4phBlv9ZL6TGKNg"
@@ -2105,7 +2282,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 245000,
       "name": "White Noise: Standing Fan",
       "url": "https://open.spotify.com/track/0HEvc3KhYG7aLb3t9vcJ4f"
@@ -2159,7 +2336,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 128595,
       "name": "Window Fan on Low",
       "url": "https://open.spotify.com/track/4Wg5aVNXw4y0ajflDp7CIK"

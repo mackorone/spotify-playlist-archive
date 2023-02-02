@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:3CdsJ9u53uPu3dScKypLVv\">Shkoon</a>'s favorite tracks. Updated regularly. Curated by Shkoon. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Shkoon's track IDs",
-  "published_playlist_ids": [
-    "7q42XxhLdyUlgapD7SYD2G"
-  ],
   "tracks": [
     {
       "album": {
@@ -717,10 +714,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-05",
       "duration_ms": 342960,
       "name": "Jamileh",
       "url": "https://open.spotify.com/track/0wegArF0QhIeFAq6RYCeEm"
+    },
+    {
+      "album": {
+        "name": "Miniature I",
+        "url": "https://open.spotify.com/album/5gKKf89Dem52fwvDdIiFPz"
+      },
+      "artists": [
+        {
+          "name": "Ko Shin Moon",
+          "url": "https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342960,
+      "name": "Jamileh",
+      "url": "https://open.spotify.com/track/2CZlZNEwLxDEAfqpZlfK2o"
     },
     {
       "album": {

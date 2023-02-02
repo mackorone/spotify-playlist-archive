@@ -4,11 +4,11 @@
 
 > The soundtrack to your festive get\-together!
 
-116 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/4aTtG0lLgznSH9xY438zpI)
+117 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12 Days of Christmas](https://open.spotify.com/track/6E4NFTOYOUPKnTCYXsLWWT) | [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [Tanglewood Festival Chorus](https://open.spotify.com/artist/4iVuajOueZR7rvn5PbkZM0), [Keith Lockhart](https://open.spotify.com/artist/3xXehPffJ4rtaaCbqDwVJ3) | [12 Days of Christmas](https://open.spotify.com/album/1RQHki0FSyJHcBCj22z0Hw) | 9:16 | 2021-10-28 |  |
+| [12 Days of Christmas](https://open.spotify.com/track/6E4NFTOYOUPKnTCYXsLWWT) | [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [Tanglewood Festival Chorus](https://open.spotify.com/artist/4iVuajOueZR7rvn5PbkZM0), [Keith Lockhart](https://open.spotify.com/artist/3xXehPffJ4rtaaCbqDwVJ3) | [12 Days of Christmas](https://open.spotify.com/album/1RQHki0FSyJHcBCj22z0Hw) | 9:16 | 2021-10-28 | 2022-12-07 |
 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 | 2021-10-28 |  |
 | [8 Days of Christmas](https://open.spotify.com/track/2CZWUmcG9swKChEPBllPra) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/6ordCtjHPF9FLdh3GPZNbX) | 3:29 | 2021-10-28 | 2022-07-29 |
 | [8 Days of Christmas](https://open.spotify.com/track/3njg7L78xUTOg0gqzGpj9X) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Santa's Tipsy Tunes](https://open.spotify.com/album/3MeVMrzrDT5iHz31uiof5l) | 3:29 | 2021-10-28 | 2022-11-13 |
@@ -86,7 +86,8 @@
 | [One I've Been Missing](https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [One I've Been Missing](https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg) | 3:12 | 2021-10-28 | 2022-07-29 |
 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 | 2021-10-28 |  |
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-10-28 |  |
-| [Rockin' Around the Christmas Tree](https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [A Brenda Lee Christmas](https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F) | 2:06 | 2021-10-28 |  |
+| [Ring Out The Bells](https://open.spotify.com/track/2ykBpMiRAKvii89MMclhp9) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 3:59 | 2022-12-06 |  |
+| [Rockin' Around the Christmas Tree \- Rerecorded Version](https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [A Brenda Lee Christmas](https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F) | 2:06 | 2021-10-28 |  |
 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/2U7gPUhe6XyiqBxPblV1Xn) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Xmas Hits](https://open.spotify.com/album/2YnxFaMU86x4oW1OUxRPr8) | 1:43 | 2021-10-28 | 2022-11-13 |
 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3IV8xIrnjv7TdJY6KUmdrD) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0dXhgmr4nXrx4lTVC2IKBq) | 1:43 | 2021-10-28 | 2022-07-29 |
 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3vXnnXluEiB3oc62q6QckE) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0T1OPbbHzWErKBMdZrbhCQ) | 1:47 | 2021-10-28 |  |

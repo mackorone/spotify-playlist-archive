@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-10",
   "description": "The ultimate playlist to water your plants to.",
   "name": "Back To The Garden",
-  "published_playlist_ids": [
-    "4qsoHkbHK7hopVKy8mBsRR"
-  ],
   "tracks": [
     {
       "album": {
@@ -261,10 +258,32 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 327993,
       "name": "burning piles - Slowed",
       "url": "https://open.spotify.com/track/4Nwb63vYtwv8KgVw5LsIW0"
+    },
+    {
+      "album": {
+        "name": "burning piles - Slowed (Remix)",
+        "url": "https://open.spotify.com/album/3tsPgAoL639q9gOZQckv8n"
+      },
+      "artists": [
+        {
+          "name": "Muppet DJ",
+          "url": "https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny"
+        },
+        {
+          "name": "SECA Records",
+          "url": "https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327977,
+      "name": "burning piles - Slowed - Remix",
+      "url": "https://open.spotify.com/track/26b5p4qw9SQxSWN0Bzoak6"
     },
     {
       "album": {
@@ -435,7 +454,7 @@
     {
       "album": {
         "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
-        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+        "url": "https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr"
       },
       "artists": [
         {
@@ -446,6 +465,24 @@
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 297293,
+      "name": "Nine Is God",
+      "url": "https://open.spotify.com/track/5ZGM626be3ItMW4UPjfqdY"
+    },
+    {
+      "album": {
+        "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+        "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
       "duration_ms": 297293,
       "name": "Nine Is God",
       "url": "https://open.spotify.com/track/6sChW7Z0IwSvvBR6m4dMws"

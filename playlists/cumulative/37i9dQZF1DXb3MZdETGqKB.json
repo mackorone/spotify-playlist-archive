@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new, all blues. Cover: Christone \"Kingfish\" Ingram",
+  "description": "All new, all blues. Cover: Eric Bibb",
   "name": "Nu-Blue",
-  "published_playlist_ids": [
-    "4T4Ls1NqL9xqUmBTXE8Kgz"
-  ],
   "tracks": [
     {
       "album": {
@@ -152,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/7BoDAUUVu2xqWTyYVkDG9m"
+      },
+      "artists": [
+        {
+          "name": "Five Points Gang",
+          "url": "https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "All She Said",
+      "url": "https://open.spotify.com/track/27v0NADTYEZjrB7DoCo6Ur"
+    },
+    {
+      "album": {
         "name": "All She Said",
         "url": "https://open.spotify.com/album/0rJS9XfsgwXoJoMHNGiQp2"
       },
@@ -163,7 +178,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 231653,
       "name": "All She Said",
       "url": "https://open.spotify.com/track/2TxsGefsQkZlzHNh51jtUy"
@@ -225,6 +240,28 @@
       "duration_ms": 164615,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/2aoIgKX0dPG0vHpxGlH8EM"
+    },
+    {
+      "album": {
+        "name": "Bad to the Bone (Extended Version)",
+        "url": "https://open.spotify.com/album/4RyOqiwnfCkobUmfwAyqnU"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Bri Bryant",
+          "url": "https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257377,
+      "name": "Bad to the Bone - Extended Version",
+      "url": "https://open.spotify.com/track/4k49bcOGJ0zyROWdJXzCqa"
     },
     {
       "album": {
@@ -816,6 +853,42 @@
     },
     {
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286360,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj"
+    },
+    {
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2e1cQINViMkPrLdKL0U9bQ"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 287843,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/6R7Lxgc6rZoN5dslqxSZGj"
+    },
+    {
+      "album": {
         "name": "Fancy Drones (Fracture Me) [Live at Studio 615 / May 2021]",
         "url": "https://open.spotify.com/album/24EGgm4XrVEEoHIvEAhm5r"
       },
@@ -870,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Evolution of Joy",
+        "url": "https://open.spotify.com/album/3ZbnbSZwJooq41MPNH3iEC"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257726,
+      "name": "Flying #evolution",
+      "url": "https://open.spotify.com/track/6TeYhYbvXXVarx5XXD4l1G"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/1PGDSkZS0LldDjD74gj96M"
       },
@@ -917,10 +1008,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 284252,
       "name": "Freedom on My Mind",
       "url": "https://open.spotify.com/track/2z81pLfGo2YFPs6SEQnz2t"
+    },
+    {
+      "album": {
+        "name": "Get That Feeling",
+        "url": "https://open.spotify.com/album/2L9TOZMYzAq4hL9Ln0Z9HL"
+      },
+      "artists": [
+        {
+          "name": "LaBronn Conner Jr.",
+          "url": "https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235730,
+      "name": "Get That Feeling",
+      "url": "https://open.spotify.com/track/7byvzE9N2GZ976Vc96oZdY"
     },
     {
       "album": {
@@ -2148,6 +2257,28 @@
     },
     {
       "album": {
+        "name": "Reconcile",
+        "url": "https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        },
+        {
+          "name": "Charles Morgan",
+          "url": "https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "Reconcile",
+      "url": "https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L"
+    },
+    {
+      "album": {
         "name": "Riding Out The Storm",
         "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
       },
@@ -2235,6 +2366,24 @@
       "duration_ms": 169560,
       "name": "Sanitarium Lovesick Blues #4702",
       "url": "https://open.spotify.com/track/4LXdNt8mbZIJD6LXBxFS1W"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/5cjzePZsDwF5W6LxCgyDXl"
+      },
+      "artists": [
+        {
+          "name": "Malina Moye",
+          "url": "https://open.spotify.com/artist/3fPngdGRZMBzFFBf3ql2XK"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232712,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/67k7KL7HTCrVUdMnBVbO7L"
     },
     {
       "album": {
@@ -2738,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "The Anima",
+        "url": "https://open.spotify.com/album/5gX48dDCJxNwgH80UPM7mD"
+      },
+      "artists": [
+        {
+          "name": "Cullah",
+          "url": "https://open.spotify.com/artist/5Emm04qPI9mTCoRI9XkHUz"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183868,
+      "name": "The Anima",
+      "url": "https://open.spotify.com/track/1zDPvPPoKIXqfwYR5eYkeE"
+    },
+    {
+      "album": {
         "name": "Hard Time Blues",
         "url": "https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h"
       },
@@ -2976,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/0m2p8fU5SUampJHBYTuodi"
+      },
+      "artists": [
+        {
+          "name": "Liinks",
+          "url": "https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127658,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/3FyM4pilFg0bDWYSuJ1WCu"
+    },
+    {
+      "album": {
         "name": "Until the Heat Leaves Town",
         "url": "https://open.spotify.com/album/2X1aR4wJFLvQP495uh62ag"
       },
@@ -2987,7 +3172,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 213619,
       "name": "Until the Heat Leaves Town",
       "url": "https://open.spotify.com/track/1QjOBgzl45AYVVa4yWpZjA"
@@ -3092,6 +3277,28 @@
     },
     {
       "album": {
+        "name": "BLACK HORSE (THE REVIVAL)",
+        "url": "https://open.spotify.com/album/4l4YPkRz6C7aZyqDgk9D9K"
+      },
+      "artists": [
+        {
+          "name": "N3ptune",
+          "url": "https://open.spotify.com/artist/0Kt3k5975Iq6wW9cuutIZn"
+        },
+        {
+          "name": "Rusty Steve",
+          "url": "https://open.spotify.com/artist/42P6ecU6XM2iC1hS8tuY2L"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "WHITE PONY - REVIVAL EDITION",
+      "url": "https://open.spotify.com/track/5qdGrDgHYU56ujGsD6G0KN"
+    },
+    {
+      "album": {
         "name": "Shining in the Half Light",
         "url": "https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO"
       },
@@ -3150,6 +3357,28 @@
     },
     {
       "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294200,
+      "name": "Won't Be Fooled Again",
+      "url": "https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J"
       },
@@ -3161,7 +3390,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 232941,
       "name": "Workin' Man",
       "url": "https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX"
@@ -3197,7 +3426,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 232941,
       "name": "Workin' Man",
       "url": "https://open.spotify.com/track/4VQNKAaoBo8yHt7GwpJS7H"

@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="http://tbhits.com/">Tommy Brown</a>
 
-50 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/3kLiThH74J86bDotaoKTEz)
+50 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

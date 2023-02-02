@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
   "name": "Aperitivo Time",
-  "published_playlist_ids": [
-    "2ZFxmpAoH6VW0wtMd26TFZ"
-  ],
   "tracks": [
     {
       "album": {
@@ -232,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Bellevue",
+        "url": "https://open.spotify.com/album/65ncxNO2Kt96Cxwpu3tedv"
+      },
+      "artists": [
+        {
+          "name": "Isla Bonner",
+          "url": "https://open.spotify.com/artist/2rbgxJc6kAcF1PzeVrFgUo"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198894,
+      "name": "Bellevue",
+      "url": "https://open.spotify.com/track/7CcJM0gz2YrZUCxOlIzQ8W"
+    },
+    {
+      "album": {
         "name": "Best Part Of Us",
         "url": "https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm"
       },
@@ -399,7 +414,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-15",
       "duration_ms": 222633,
       "name": "Carneiros Beach",
       "url": "https://open.spotify.com/track/33NG5U8673kHJAS249qbFb"
@@ -475,7 +490,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-20",
       "duration_ms": 218360,
       "name": "Crying Wolf",
       "url": "https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva"
@@ -619,7 +634,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 234510,
       "name": "Esmeralda",
       "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
@@ -789,7 +804,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2023-01-29",
       "duration_ms": 224000,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W"
@@ -1173,7 +1188,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 214096,
       "name": "Midnight Sky",
       "url": "https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk"
@@ -1364,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "Kindisch Presents: Kindisch Steps VI",
+        "url": "https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy"
+      },
+      "artists": [
+        {
+          "name": "Kora (CA)",
+          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
+        },
+        {
+          "name": "Adrien (CA)",
+          "url": "https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 719414,
+      "name": "Nuit d'Afrique",
+      "url": "https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi"
+    },
+    {
+      "album": {
         "name": "On The Rhode",
         "url": "https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6"
       },
@@ -1401,6 +1438,28 @@
       "duration_ms": 150014,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff"
+    },
+    {
+      "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf"
+      },
+      "artists": [
+        {
+          "name": "Tyron Hapi",
+          "url": "https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I"
+        },
+        {
+          "name": "Lucas Marx",
+          "url": "https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150014,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE"
     },
     {
       "album": {
@@ -1871,7 +1930,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 186809,
       "name": "Surf The Orange Water",
       "url": "https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2"
@@ -2117,7 +2176,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 235549,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"

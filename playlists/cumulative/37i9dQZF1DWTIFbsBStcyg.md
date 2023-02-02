@@ -4,7 +4,7 @@
 
 > Music From "BEASTARS"! 主題歌、挿入歌、サントラで辿る「BEASTARS」の世界! \(C\) 板垣巴留（秋田書店）／BEASTARS製作委員
 
-116 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/0t7VrDfGAWpyHFvub8VKph)
+116 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Wondering what to pick for your first dance? We got you.",
   "name": "Wedding Songs",
-  "published_playlist_ids": [
-    "4RV7c0yFbiXvNTQOBR7yJe"
-  ],
   "tracks": [
     {
       "album": {
@@ -1033,7 +1030,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
@@ -1123,7 +1120,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2022-12-04",
       "duration_ms": 216386,
       "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
       "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
@@ -1249,7 +1246,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-06",
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
@@ -1285,7 +1282,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 105933,
       "name": "I Will - Remastered 2009",
       "url": "https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp"
@@ -2715,7 +2712,7 @@
           "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "date_added": "2022-11-24",
+      "date_added": "2022-11-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196253,

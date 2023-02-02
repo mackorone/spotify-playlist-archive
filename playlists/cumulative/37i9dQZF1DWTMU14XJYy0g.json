@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Eruca Sativa.",
   "name": "Rock Argentino",
-  "published_playlist_ids": [
-    "1BEgfZL9U1ltwJb00J2hJ4"
-  ],
   "tracks": [
     {
       "album": {
@@ -44,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Ama a Quien Llora por Ti",
+        "url": "https://open.spotify.com/album/6ER89S7vm5NODaRvJ5dl0Z"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249078,
+      "name": "Ama a Quien Llora por Ti",
+      "url": "https://open.spotify.com/track/7dx5nsXhkbc53tUhszjTP3"
+    },
+    {
+      "album": {
         "name": "Amor en Pandemia",
         "url": "https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ"
       },
@@ -73,7 +92,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 211681,
       "name": "Ataque de Nervios",
       "url": "https://open.spotify.com/track/5ohwtgVYVXy9nOc7J9h5ab"
@@ -189,6 +208,42 @@
       "duration_ms": 287641,
       "name": "Cabalgata Deportiva",
       "url": "https://open.spotify.com/track/6Prlpu5trk3YsAaapseoUj"
+    },
+    {
+      "album": {
+        "name": "Flor de ceibo",
+        "url": "https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV"
+      },
+      "artists": [
+        {
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128597,
+      "name": "Caer",
+      "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
+    },
+    {
+      "album": {
+        "name": "Cintas M\u00e1gicas Volumen III",
+        "url": "https://open.spotify.com/album/2ynkZW347XOVLIBdyGdmFp"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230086,
+      "name": "Camionero Blues",
+      "url": "https://open.spotify.com/track/3vDmgKzZPrK4Hn7IHYCYWy"
     },
     {
       "album": {
@@ -333,7 +388,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 272173,
       "name": "Coraz\u00f3n de Ne\u00f3n",
       "url": "https://open.spotify.com/track/5u8h1l8Qz9MX7tvjVV2FRz"
@@ -467,10 +522,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 194906,
       "name": "Destruida Roll (Versi\u00f3n 1989)",
       "url": "https://open.spotify.com/track/6Yp5cOsowqswSVrXxG3rCc"
+    },
+    {
+      "album": {
+        "name": "El mundo no se hizo en dos d\u00edas",
+        "url": "https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP"
+      },
+      "artists": [
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245706,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G"
     },
     {
       "album": {
@@ -743,7 +816,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 176643,
       "name": "Escapar",
       "url": "https://open.spotify.com/track/5wox6DMRibm9xFZklhWmSZ"
@@ -1033,6 +1106,24 @@
       "duration_ms": 181875,
       "name": "Intoxicarme",
       "url": "https://open.spotify.com/track/6d519FJTrTbeaTlG5pXWM9"
+    },
+    {
+      "album": {
+        "name": "Inventario",
+        "url": "https://open.spotify.com/album/5V8oEK9q3A3xVVy2zZS2QU"
+      },
+      "artists": [
+        {
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162591,
+      "name": "Inventario",
+      "url": "https://open.spotify.com/track/5b4nQSv5xOqdkpt1e3N0sq"
     },
     {
       "album": {
@@ -1369,7 +1460,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 146838,
       "name": "Las Ma\u00f1anas",
       "url": "https://open.spotify.com/track/1NlygPzTUj39B8jQUyUGjM"
@@ -1603,7 +1694,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 258510,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/2OJqUom0FBpJ9OdiUVIlk2"
@@ -1625,6 +1716,28 @@
       "duration_ms": 226278,
       "name": "Mirando El Fuego",
       "url": "https://open.spotify.com/track/1g9JG1fls4pDj1mcTE04rM"
+    },
+    {
+      "album": {
+        "name": "El Hombrecito Del Mar",
+        "url": "https://open.spotify.com/album/74LmgcRuLCHqeCuzIvpNCT"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        },
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296869,
+      "name": "Mis Heridas Cure",
+      "url": "https://open.spotify.com/track/0Df4DMHMVGCM9fjG8EThIf"
     },
     {
       "album": {
@@ -1661,6 +1774,24 @@
       "duration_ms": 226773,
       "name": "M\u00e1s Fuerte M\u00e1s Alto M\u00e1s Lejos",
       "url": "https://open.spotify.com/track/6R8tDnEjgcwIkPsJ184dGt"
+    },
+    {
+      "album": {
+        "name": "El Modo",
+        "url": "https://open.spotify.com/album/6R8nNkYZRPw5XeNquzkDbm"
+      },
+      "artists": [
+        {
+          "name": "Vozenoff",
+          "url": "https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178300,
+      "name": "Nada que Perder",
+      "url": "https://open.spotify.com/track/6c7hF6JiUy0HAsmMoANzcw"
     },
     {
       "album": {
@@ -1769,7 +1900,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 272480,
       "name": "Oda a la Sin Nombre",
       "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
@@ -1817,6 +1948,28 @@
       "duration_ms": 228942,
       "name": "Oro de Abeja",
       "url": "https://open.spotify.com/track/2q3GgW71FqrEfFFtdWC3tJ"
+    },
+    {
+      "album": {
+        "name": "Otra Ruta Desierta",
+        "url": "https://open.spotify.com/album/3Hf6g8dV0gq91YHfYaly9G"
+      },
+      "artists": [
+        {
+          "name": "El Mister y Los Marsupiales Extintos",
+          "url": "https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195201,
+      "name": "Otra Ruta Desierta",
+      "url": "https://open.spotify.com/track/5KNp5cdwR9buN93aPQMjcD"
     },
     {
       "album": {
@@ -1997,10 +2150,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 185440,
       "name": "Que Hable de Vos",
       "url": "https://open.spotify.com/track/1kfM4ZZgDUND726SNezoFM"
+    },
+    {
+      "album": {
+        "name": "Cada Segundo Dura Una Eternidad",
+        "url": "https://open.spotify.com/album/456MmGpEpuDN6zIeSYgr99"
+      },
+      "artists": [
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223806,
+      "name": "Que Sigas Bien",
+      "url": "https://open.spotify.com/track/3BWUc9emQ4e1SglwrkBMtR"
     },
     {
       "album": {
@@ -2121,6 +2292,24 @@
       "duration_ms": 234626,
       "name": "SIBERIA",
       "url": "https://open.spotify.com/track/4FUbTQsBDmoO99i1TXwKeK"
+    },
+    {
+      "album": {
+        "name": "Sola en los Bares",
+        "url": "https://open.spotify.com/album/4EYbcIicrpX0tsqUtGGDO9"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206667,
+      "name": "Sola en los Bares",
+      "url": "https://open.spotify.com/track/0xajGYgwjkBTz2rFAQlFkN"
     },
     {
       "album": {
@@ -2447,7 +2636,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
@@ -2483,7 +2672,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 181424,
       "name": "Un Chico en el Cuerpo de un Mayor",
       "url": "https://open.spotify.com/track/1mr6dXlWBIiSjTY44bcEhs"

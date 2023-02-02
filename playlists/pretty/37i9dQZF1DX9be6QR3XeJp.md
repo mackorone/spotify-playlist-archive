@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Caity Baser
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,187 likes - 134 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,602 likes - 134 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 6 | [XO](https://open.spotify.com/track/3N0nHIHc4rXKF3p3lXzXYY) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [XO](https://open.spotify.com/album/7c2tn9kdsI0FlJHJBQH2kI) | 2:14 |
 | 7 | [little things](https://open.spotify.com/track/01m94gvzukbNDEZGjjhx4R) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [little things](https://open.spotify.com/album/4VUImLdCRQZ7lDm8gqNrDL) | 2:45 |
 | 8 | [Shlut](https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shlut](https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25) | 2:12 |
-| 9 | [Garden](https://open.spotify.com/track/3U4lJRdx9MgH42ThXr8GuP) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Garden](https://open.spotify.com/album/3IPCddJutMPZCJHfVeClx5) | 2:55 |
+| 9 | [Garden](https://open.spotify.com/track/4nCQ22BkCrnLwNlJUUneTc) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Adultsville](https://open.spotify.com/album/15qwevfPInT5d4Y0X2I1o0) | 2:55 |
 | 10 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
 | 11 | [Cushty](https://open.spotify.com/track/3iJTVDrJi1SdhNBAysDARI) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38) | [Cushty](https://open.spotify.com/album/0Y7N8fG5BkaQFNumqr5SgV) | 2:44 |
 | 12 | [2030 Revolution](https://open.spotify.com/track/0Ik7qkvgSz25oZgZ6T0pIs) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [2030 Revolution](https://open.spotify.com/album/5MVQziYxk5ejRzKcLveWpa) | 3:48 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 19 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
 | 20 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
 | 21 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 |
-| 22 | [Scrambled Tricks](https://open.spotify.com/track/1cHYDnLAxWViNcokpzxjMT) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Scrambled Tricks](https://open.spotify.com/album/6rf2cQjKufkdYacRQhDsfU) | 2:22 |
+| 22 | [Scrambled Tricks](https://open.spotify.com/track/2CuBUaNox3kkxCDJgrKv3D) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [LOGGERHEAD](https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV) | 2:22 |
 | 23 | [Steamroller](https://open.spotify.com/track/3NUVEYZe8SoeyxPO8PjhMs) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/5IuuKf7yyYt1WSBvK1Txam) | 2:55 |
 | 24 | [I'm Insecure](https://open.spotify.com/track/6kHnHk0jlAdYWktT0FQrSN) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [I’m Insecure](https://open.spotify.com/album/0DyvaVIRS4rdXtTcIu5QQi) | 3:42 |
 | 25 | [All Night Long](https://open.spotify.com/track/3oYuIcMNiEgy3HMX2BPUb2) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [All Night Long](https://open.spotify.com/album/6OYva1symTcQGU5bPLtx5I) | 3:05 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 64 | [Leave](https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Autonomy EP](https://open.spotify.com/album/4WvieX96tzcCZlGI8CEDdW) | 2:57 |
 | 65 | [Sun](https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:06 |
 | 66 | [L.S.O.M](https://open.spotify.com/track/6kwQLsUX8402NQNH0OCSko) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff) | 3:08 |
-| 67 | [I Like Me](https://open.spotify.com/track/1Z8d3f6vuedyPzrfPuA5Yl) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8) | 2:30 |
+| 67 | [I Like Me](https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9) | 2:30 |
 | 68 | [You Got](https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [You Got](https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r) | 3:26 |
 | 69 | [Sex N' Drugs](https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 2:44 |
 | 70 | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/track/5mEW1mq6KKEOO5rgHrepif) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/album/5kYQxc0ICdvP7ZS9OfR0i6) | 4:57 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 83 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
 | 84 | [On the Inside](https://open.spotify.com/track/0HAsW69cfzM0jyiXra0YVr) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Within Each Lies the Other](https://open.spotify.com/album/6isj0Hqo95H2vYzkEEoWvO) | 3:11 |
 | 85 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
-| 86 | [Magpie](https://open.spotify.com/track/2Mf5TqpbjwS5lPAjKBA4yJ) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Butter\-Fly](https://open.spotify.com/album/4JffvJGAbqTkmnDRfkq2hf) | 3:34 |
+| 86 | [Magpie](https://open.spotify.com/track/65gFD5pX5zfIDxMLkfJwyP) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Butter\-Fly](https://open.spotify.com/album/2jgHTZlQweIUAxf77gGE2b) | 3:34 |
 | 87 | [Hungover](https://open.spotify.com/track/2pHEFGVwMMcSDIVQ15aMMY) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 3:36 |
 | 88 | [Chicken Lemon Rice](https://open.spotify.com/track/4dXXwHB7WfozMLhkpBvLvw) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Chicken Lemon Rice](https://open.spotify.com/album/6WW0z789UPK64cjkMgjhZy) | 2:33 |
 | 89 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 |
@@ -136,11 +136,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 126 | [Terrified](https://open.spotify.com/track/4UFMLGiIizvKZYrHuGTflS) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:12 |
 | 127 | [Easy to Love](https://open.spotify.com/track/1VqDgFgaedJLSQa5dPI6pC) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Overthunk](https://open.spotify.com/album/5CVArykOwn3VjaAhy1EyRN) | 3:30 |
 | 128 | [Monday](https://open.spotify.com/track/5NuoHlFplMTA8jmr4nHjH9) | [Tiana Blake](https://open.spotify.com/artist/0dQdwOMacJwwE8Tattr1XI) | [Monday](https://open.spotify.com/album/04B6OoFDc5mIhlx6W8fJUo) | 3:32 |
-| 129 | [No Drama](https://open.spotify.com/track/6HyYOsbICeWtN9brSOhr9R) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5o8IgzG9di21TFESYuU5jD) | 3:10 |
+| 129 | [No Drama](https://open.spotify.com/track/2K4YJw1w339PDnVRVNXBpu) | [Lavida Loca](https://open.spotify.com/artist/415327ME0IFxW10IRFonr8) | [2 Sides](https://open.spotify.com/album/5F9kzrOxaGaB2sRMapfJUQ) | 3:10 |
 | 130 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 |
 | 131 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/0PXukVbYpvz40KcEFKnIw7) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/album/1UX0F7yksh3rHlEJKvliAT) | 3:27 |
 | 132 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 133 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 134 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 |
 
-Snapshot ID: `MTY2OTMzNDQwMCwwMDAwMDAwMGM4ZmY1MDc3MTJhM2VkZTgzMTMzZDIxYjMyMDM5NWM3`
+Snapshot ID: `MTY3MzI3OTIzNSwwMDAwMDAwMGNkOWEyNTIxNmJlNGZkYTlhNTBlZTA1MjY0NjA2M2Rh`

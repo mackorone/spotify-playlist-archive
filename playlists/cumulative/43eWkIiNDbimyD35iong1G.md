@@ -1,15 +1,15 @@
 [pretty](/playlists/pretty/43eWkIiNDbimyD35iong1G.md) - cumulative - [plain](/playlists/plain/43eWkIiNDbimyD35iong1G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/43eWkIiNDbimyD35iong1G)
 
-### [Wedding Songs 2022](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
+### [Wedding Songs 2023](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
 
-> Make your wedding ceremony the most memorable one\. Perfect for vows, bride entrance, reception dinner, the first dance and the wedding party.
+> Celebrate your wedding with over 100 favorite love songs perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-207 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/4J0AmxAoPjBsvkBleG9MtI)
+208 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2022-04-19 | 2022-10-05 |
-| [\(Sittin' On\) The Dock of the Bay](https://open.spotify.com/track/46TZ4M361E7cGxqZZNqfUP) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 2:43 | 2022-10-04 |  |
+| [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2022-04-19 |  |
+| [\(Sittin' On\) The Dock of the Bay](https://open.spotify.com/track/46TZ4M361E7cGxqZZNqfUP) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 2:43 | 2022-10-04 | 2022-12-02 |
 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/1WbJD0bvccDwiFpYrM6a16) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 2:45 | 2022-10-04 |  |
 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 | 2022-04-19 | 2022-10-05 |
 | [2002](https://open.spotify.com/track/01PioVi68ogFt0GLVA4yrG) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:06 | 2022-10-04 | 2022-10-29 |
@@ -103,7 +103,8 @@
 | [I'm a Believer](https://open.spotify.com/track/3esdHrYyccagxfjWKiaFBX) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 2:47 | 2022-10-04 |  |
 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 | 2022-04-19 | 2022-10-05 |
 | [I'm On Fire](https://open.spotify.com/track/1gvSWbkuFBuqSeVJcLuGIq) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [French Blonde](https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z) | 1:35 | 2022-11-14 |  |
-| [I'm Yours](https://open.spotify.com/track/00EsQu3vriau5a9df7mrS5) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:02 | 2022-10-04 |  |
+| [I'm Yours](https://open.spotify.com/track/00EsQu3vriau5a9df7mrS5) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:02 | 2022-10-04 | 2022-12-02 |
+| [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2022-12-01 |  |
 | [I'm Yours](https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 4:02 | 2022-04-19 | 2022-10-05 |
 | [I've Got a Woman](https://open.spotify.com/track/18FquowgCIUMRN0BcSF8xa) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 2:51 | 2022-10-04 |  |
 | [I've Got a Woman](https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:51 | 2022-04-19 | 2022-10-05 |
@@ -168,8 +169,8 @@
 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/7fNrvWiFsEYLXMdGgPTXxU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:20 | 2022-10-04 |  |
 | [Soul Man](https://open.spotify.com/track/63lQg9WqNq3glQ4QhDoydT) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 2:36 | 2022-10-04 |  |
 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 | 2022-04-19 | 2022-10-05 |
-| [Speechless](https://open.spotify.com/track/1lmHqPyMWP9Dmw4zv6Cd71) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:33 | 2022-10-04 |  |
-| [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 | 2022-04-19 | 2022-10-05 |
+| [Speechless](https://open.spotify.com/track/1lmHqPyMWP9Dmw4zv6Cd71) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:33 | 2022-10-04 | 2022-12-02 |
+| [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 | 2022-04-19 |  |
 | [Spinning Around](https://open.spotify.com/track/2aC0wqs9bJne2CcueEvvdr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:27 | 2022-10-04 |  |
 | [Spinning Around](https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 3:27 | 2022-04-19 | 2022-10-05 |
 | [Stand By Me](https://open.spotify.com/track/1jsmYUxULiJm3hQ1UOCA4a) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:00 | 2022-10-04 |  |

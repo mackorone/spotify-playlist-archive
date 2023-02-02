@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
   "name": "#SpotifyTBT: Song of the Year",
-  "published_playlist_ids": [
-    "5sviYI5JD7rztpjP8iZrzW"
-  ],
   "tracks": [
     {
       "album": {
@@ -43,7 +40,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212666,
-      "name": "Always on My Mind",
+      "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
@@ -948,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Sailing / Poor Shirley (Digital 45)",
+        "url": "https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2022-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255453,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx"
+    },
+    {
+      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -959,7 +974,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 256146,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
@@ -1140,7 +1155,7 @@
     },
     {
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
+        "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
@@ -1153,7 +1168,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "name": "Tears in Heaven - Acoustic Live",
       "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
     },
     {
@@ -1325,7 +1340,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": "2023-01-09",
       "duration_ms": 892203,
       "name": "Theme of Exodus - From \"Exodus\" Soundtrack",
       "url": "https://open.spotify.com/track/7A7Bak9REa9pRZzohssUPi"

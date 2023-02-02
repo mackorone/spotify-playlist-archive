@@ -4,7 +4,7 @@
 
 > An essential introduction to Raffi.
 
-52 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/5eoNsfTPOCWQNBTj56kTqm)
+52 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-02",
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
   "name": "Trabalhando de Casa",
-  "published_playlist_ids": [
-    "1w2tlix8KMG1doSRYQhzfq"
-  ],
   "tracks": [
     {
       "album": {
@@ -1344,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic Live",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+    },
+    {
+      "album": {
         "name": "Complete Clapton",
         "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
       },
@@ -1359,24 +1374,6 @@
       "duration_ms": 279066,
       "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit",
       "url": "https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl"
-    },
-    {
-      "album": {
-        "name": "Unplugged (2013 Remaster)",
-        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "date_added": "2022-07-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Lizzy McAlpine",
   "name": "Women of Acoustic",
-  "published_playlist_ids": [
-    "4nFqLOYDLUIz4zSbVsy852"
-  ],
   "tracks": [
     {
       "album": {
@@ -195,7 +192,7 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 342272,
@@ -1149,7 +1146,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 189626,
       "name": "I Could've Been Your Lover Too",
       "url": "https://open.spotify.com/track/5nrs3jelIOV5r9rro24cKA"
@@ -1881,7 +1878,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 280986,
       "name": "Putting On Airs",
       "url": "https://open.spotify.com/track/0fRulaanc2K4rmlPhh2MBe"
@@ -2061,7 +2058,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-01",
       "duration_ms": 181880,
       "name": "Save This Heart",
       "url": "https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8"
@@ -2213,6 +2210,36 @@
     {
       "album": {
         "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "album": {
+        "name": "boygenius",
         "url": "https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH"
       },
       "artists": [
@@ -2235,32 +2262,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1"
-    },
-    {
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "date_added": "2021-03-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "album": {

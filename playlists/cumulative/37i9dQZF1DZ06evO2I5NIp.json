@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-06",
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
   "name": "This Is Shemekia Copeland",
-  "published_playlist_ids": [
-    "2sgp57SR3g5DZ4v54uUY9H"
-  ],
   "tracks": [
     {
       "album": {
@@ -551,7 +548,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 425733,
       "name": "It Don't Hurt No More",
       "url": "https://open.spotify.com/track/0t2oq1DRaeWzX6VQ1fAXeE"
@@ -587,7 +584,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 365666,
       "name": "It's My Own Tears",
       "url": "https://open.spotify.com/track/3hEujxmbPHfblaCnUML6ow"
@@ -605,7 +602,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 366693,
       "name": "It's My Own Tears",
       "url": "https://open.spotify.com/track/2ELvEasdfW66obN7sBw1Eb"
@@ -623,7 +620,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": "2023-02-01",
       "duration_ms": 275533,
       "name": "Jesus Just Left Chicago",
       "url": "https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0"
@@ -659,7 +656,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-02-01",
       "duration_ms": 205493,
       "name": "Lemon Pie",
       "url": "https://open.spotify.com/track/1du6ikTuFwWd7QweSi8Nss"
@@ -987,6 +984,24 @@
       "duration_ms": 271313,
       "name": "Such A Pretty Flame",
       "url": "https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ"
+    },
+    {
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Suspicion",
+      "url": "https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl"
     },
     {
       "album": {

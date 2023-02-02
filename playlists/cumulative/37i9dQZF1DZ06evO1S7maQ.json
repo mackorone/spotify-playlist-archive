@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-12",
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
   "name": "This Is Bruce Springsteen",
-  "published_playlist_ids": [
-    "6iAVNIBlFxj6iy8bBx59pl"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 174720,
       "name": "Any Other Way",
       "url": "https://open.spotify.com/track/2LRkPUjFJd4YNHZqAPxahC"
@@ -322,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214773,
+      "name": "Don't Play That Song",
+      "url": "https://open.spotify.com/track/5LWhhHChX9bC9fsSKyWA9F"
+    },
+    {
+      "album": {
         "name": "Dustland (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG"
       },
@@ -416,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Greetings from Asbury Park, N.J.",
+        "url": "https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "Growin' Up",
+      "url": "https://open.spotify.com/track/4Gpao0RtOcrBuedyutJWaP"
+    },
+    {
+      "album": {
         "name": "Western Stars",
         "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
       },
@@ -499,7 +532,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 204973,
       "name": "I Wish It Would Rain",
       "url": "https://open.spotify.com/track/3K6nQf3cw44yC8INLP4xPS"
@@ -722,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
+    },
+    {
+      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
       },
@@ -733,7 +784,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 296906,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
@@ -787,7 +838,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 179506,
       "name": "Only the Strong Survive",
       "url": "https://open.spotify.com/track/6at33NMZgSJIp7jNoCuTd7"
@@ -1267,6 +1318,24 @@
       "duration_ms": 309760,
       "name": "Tunnel of Love",
       "url": "https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "Turn Back the Hands of Time",
+      "url": "https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa"
     },
     {
       "album": {

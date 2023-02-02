@@ -4,7 +4,7 @@
 
 > Songs with some serious violin and cello action.
 
-39 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/65dIoabDN9AlsJyqrY8I5Q)
+39 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Islands](https://open.spotify.com/track/7JtxP4YfEwrnParaSgTC3M) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:05 | 2015-03-06 |  |
 | [Letting Go](https://open.spotify.com/track/66lzYo4e9SyWcPx0jvISZE) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si) | [Letting Go](https://open.spotify.com/album/4tlm0NZ3nsrjwVxLdqJIhz) | 3:28 | 2015-03-06 |  |
 | [Little Sparks](https://open.spotify.com/track/4ODdOHBQAp5hSLONwNDxoK) | [India Bourne](https://open.spotify.com/artist/4m76hAJ7XrOP2hQ5QarlBh) | [These Days of Ours](https://open.spotify.com/album/4dufT1OkwDgkMG2NF7eWgq) | 3:57 | 2015-03-06 |  |
-| [Live With Me](https://open.spotify.com/track/6xK8IduLzbk1IQ9ROQ96Sn) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Collected](https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh) | 4:51 | 2015-03-06 |  |
+| [Live With Me \- Remastered 2006](https://open.spotify.com/track/6xK8IduLzbk1IQ9ROQ96Sn) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Collected](https://open.spotify.com/album/1X4zW7kIY8bQHO9gDTsIVh) | 4:51 | 2015-03-06 |  |
 | [M79](https://open.spotify.com/track/6L9qYgThsnIpK9CFKdZMnk) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx) | 4:15 | 2015-03-06 |  |
 | [Marigold](https://open.spotify.com/track/0y5u8YRqydwjCTU7fp1z65) | [Mother Falcon](https://open.spotify.com/artist/5AcIoQwjyBFFjzxh8UAQlj) | [You Knew](https://open.spotify.com/album/6kqIWmVVmHKApfWcU1Aw15) | 2:31 | 2015-03-06 |  |
 | [Pulaski at Night](https://open.spotify.com/track/1AJ6dy0kvwMqGNPAT8XlJp) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [I Want to See Pulaski at Night](https://open.spotify.com/album/0oo6A0QEDmdQS5ihd2bKvu) | 4:49 | 2015-03-06 |  |

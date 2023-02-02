@@ -4,7 +4,7 @@
 
 > Sounds of spiritual comfort and cultural traditions of triumph.
 
-35 songs - 3 hr 26 min - [published](https://open.spotify.com/playlist/7bffGl8a6NdUpYysUcKthu)
+35 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

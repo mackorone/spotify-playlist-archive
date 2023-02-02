@@ -4,7 +4,7 @@
 
 > Special songs for mothers of all kinds.
 
-83 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/1a0fGDCELopfNoDFPZZy5y)
+83 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

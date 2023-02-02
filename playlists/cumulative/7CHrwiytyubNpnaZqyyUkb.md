@@ -4,7 +4,7 @@
 
 > Rockabilly and old school rock & roll—the perfect soundtrack to a night of beer and burgers.
 
-21 songs - 58 min 44 sec - [published](https://open.spotify.com/playlist/1LHqBu1TKoDsRTt8biQCn9)
+21 songs - 58 min 44 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

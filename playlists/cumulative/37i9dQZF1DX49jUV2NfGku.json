@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New classics and essential cuts from all your favorite rock bands. Cover: Rage Against The Machine",
+  "description": "New rock classics and essential cuts celebratingGreen Day",
   "name": "Rock Solid",
-  "published_playlist_ids": [
-    "4pFaQUM5cFSlRBE1ox0Ws5"
-  ],
   "tracks": [
     {
       "album": {
@@ -541,7 +538,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 281803,
       "name": "Darkness Settles In",
       "url": "https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe"
@@ -1029,6 +1026,24 @@
       "duration_ms": 180640,
       "name": "Highway Tune",
       "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
+    },
+    {
+      "album": {
+        "name": "Nimrod (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4R802IhlcVX7z3m7xyp7zC"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "Hitchin' a Ride",
+      "url": "https://open.spotify.com/track/2H5nrbN3azmWWBehaFRIOt"
     },
     {
       "album": {
@@ -1861,6 +1876,24 @@
       "duration_ms": 224906,
       "name": "Personal Jesus - Original Single Version",
       "url": "https://open.spotify.com/track/1xShPgQbOUa98avWJQFDBY"
+    },
+    {
+      "album": {
+        "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
+        "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237743,
+      "name": "Pride (In The Name Of Love) - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
     },
     {
       "album": {
@@ -2721,7 +2754,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 337505,
       "name": "Where The Streets Have No Name - Remastered",
       "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"

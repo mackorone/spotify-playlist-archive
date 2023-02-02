@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
   "name": "Alternative 80s",
-  "published_playlist_ids": [
-    "2H1LxPFJmPRXwu3yCnyOJK"
-  ],
   "tracks": [
     {
       "album": {
@@ -669,7 +666,7 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 231573,
@@ -761,7 +758,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 309973,
       "name": "Cloudbusting - 2018 Remaster",
       "url": "https://open.spotify.com/track/0cuMpt0w9ahbhJl0R2fbkY"
@@ -1496,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
+    },
+    {
+      "album": {
         "name": "Playlist: The Very Best Of Scandal",
         "url": "https://open.spotify.com/album/5ntJCfCa8PbqoeatwBh8cM"
       },
@@ -1559,7 +1574,7 @@
           "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201186,
@@ -1921,7 +1936,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 164306,
       "name": "I Want Candy",
       "url": "https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S"
@@ -2303,7 +2318,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 301826,
       "name": "Love Action (I Believe In Love)",
       "url": "https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB"
@@ -2589,7 +2604,7 @@
           "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175333,
@@ -2717,7 +2732,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 171506,
       "name": "Our Lips Are Sealed",
       "url": "https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye"
@@ -2735,7 +2750,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 351400,
       "name": "Pacific State",
       "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
@@ -2879,7 +2894,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-09",
       "duration_ms": 220640,
       "name": "Play for Today - 2006 Remaster",
       "url": "https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY"
@@ -3102,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
+    },
+    {
+      "album": {
         "name": "Rise: The Collection",
         "url": "https://open.spotify.com/album/6usIkUhnOPvUqYFCHxgxu3"
       },
@@ -3275,7 +3308,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 229266,
       "name": "She Bop",
       "url": "https://open.spotify.com/track/2FAL6hxj5Qxuj0kWOkEOsF"
@@ -3333,6 +3366,28 @@
       "duration_ms": 393666,
       "name": "Shout",
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    {
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        },
+        {
+          "name": "Glenn Danzig",
+          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118960,
+      "name": "Skulls",
+      "url": "https://open.spotify.com/track/3n75gL3WU5tAwwAgssRI9j"
     },
     {
       "album": {
@@ -3679,7 +3734,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 232746,
       "name": "The Cutter",
       "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
@@ -4181,7 +4236,7 @@
           "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252200,

@@ -4,7 +4,7 @@
 
 > Some soulful sets from Ye plus contributions to soul\. Please enjoy this curated set entitled &quot;Kanye To The&quot;\. \(1,2,3, rest\)
 
-40 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/1IF4AEuZKdPPmxwdf9OGug)
+40 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

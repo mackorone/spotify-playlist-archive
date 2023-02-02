@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-30",
   "description": "The official playlist for Sex Education. Watch now on Netflix.",
   "name": "Sex Education Official Playlist",
-  "published_playlist_ids": [
-    "03Z90QqcWDw1OsFOAahdXg"
-  ],
   "tracks": [
     {
       "album": {
@@ -463,10 +460,28 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-28",
       "duration_ms": 232368,
       "name": "Don't Wanna Fall In Love",
       "url": "https://open.spotify.com/track/1YakuHfzKxjnseCEeVQtrY"
+    },
+    {
+      "album": {
+        "name": "Smyle (Extended)",
+        "url": "https://open.spotify.com/album/4QcOCTHmUunvqizQvuFEZt"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232368,
+      "name": "Don't Wanna Fall In Love",
+      "url": "https://open.spotify.com/track/3oX4rYpiWbx87CTBVQEwik"
     },
     {
       "album": {

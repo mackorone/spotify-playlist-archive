@@ -4,7 +4,7 @@
 
 > The sound of crashing waves
 
-207 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/2yzXmzNOYoHr0m2WyDWf19)
+207 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Andaman Ocean Sounds](https://open.spotify.com/track/1frIGFGHFJkJW70E5dMBWq) | [Moon Samples](https://open.spotify.com/artist/63ziOZ0VIIvzFR5G3RTaRw) | [Andaman](https://open.spotify.com/album/2AAemFxPrKRqlTWYdzsEKN) | 2:01 | 2021-11-10 |  |
 | [Astonishing Waves](https://open.spotify.com/track/68i4DiObcwpjfsFcGmH2rn) | [Exotic Wave Sounds](https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N) | [Part One](https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol) | 3:15 | 2022-08-03 |  |
 | [At Sea](https://open.spotify.com/track/7wRfRPaDStGzCt0r0YqpOq) | [Olof Dahlström Recordings](https://open.spotify.com/artist/6nwprrB1xrohGrilsErewM) | [At Sea](https://open.spotify.com/album/3WA6b9wPZOuvqj94C2iW6i) | 2:27 | 2021-11-10 |  |
-| [At The Shore](https://open.spotify.com/track/17GKEXuSlpESmBaUJaXeBF) | [Ocean Vacation](https://open.spotify.com/artist/5TgEJqhCrbEiOGTNMC5dh4) | [At The Shore](https://open.spotify.com/album/7feNID0SxJjODjF1fwEkhv) | 2:47 | 2021-11-10 |  |
+| [At The Shore](https://open.spotify.com/track/17GKEXuSlpESmBaUJaXeBF) | [Ocean Vacation](https://open.spotify.com/artist/7hO7QJqzlEr6RaZlaalLLR) | [At The Shore](https://open.spotify.com/album/7feNID0SxJjODjF1fwEkhv) | 2:47 | 2021-11-10 |  |
 | [Atlanic Waves](https://open.spotify.com/track/3oCsOtGbEeWgSl1pCMy5WU) | [Groundwater Gabriel](https://open.spotify.com/artist/7D6h05H8UYNdbP6bE5OFoG) | [I Can Wave](https://open.spotify.com/album/0ZbwLMSNTL2l9fZYFVg4sy) | 1:31 | 2021-11-10 |  |
 | [Atlantic Night Waves](https://open.spotify.com/track/4kOY2xfpY5LlNDvNhmkz2g) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Cape Waves \(Ocean Waves\)](https://open.spotify.com/album/4DI1eJ6qRCNobtKsSGQndV) | 2:40 | 2021-11-10 |  |
 | [Atlantic Waves](https://open.spotify.com/track/6i8IQQ6FmgU7Y0ESccYchH) | [Waves of Atlantic](https://open.spotify.com/artist/4rSV2yuDQBYqICEXgemgir) | [Atlantic Waves](https://open.spotify.com/album/5XiJuA5yautJlZ3J0wrhK1) | 3:41 | 2021-11-10 |  |

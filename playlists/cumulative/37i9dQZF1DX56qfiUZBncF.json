@@ -2,9 +2,6 @@
   "date_first_scraped": "2020-11-04",
   "description": "Let these innovative tracks spark your creativity and inspiration.",
   "name": "Creativity Boost",
-  "published_playlist_ids": [
-    "1aiXmCTeHQI0hMOaYE96Os"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,7 +56,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 219788,
       "name": "A Million Doubts",
       "url": "https://open.spotify.com/track/0QuxL88IiyWc5Dw2wAfeW1"
@@ -81,7 +78,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 246409,
       "name": "A Million Times - HONNE remix",
       "url": "https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v"
@@ -179,7 +176,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-12",
       "duration_ms": 213936,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH"
@@ -349,7 +346,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-09",
       "duration_ms": 220298,
       "name": "Behind",
       "url": "https://open.spotify.com/track/6ydBCO7odHKV6OXZFVeo6f"
@@ -541,10 +538,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 185480,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/15SeSt7NAugpbYquPhF5dD"
+    },
+    {
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/5JbbvaybLOHy7xzRDfW5lC"
     },
     {
       "album": {
@@ -639,6 +654,24 @@
       "duration_ms": 201923,
       "name": "catching 22",
       "url": "https://open.spotify.com/track/2ZHm3kf3DQEqVb3vQ2Vu5k"
+    },
+    {
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "album": {
@@ -761,7 +794,7 @@
       ],
       "date_added": "2021-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 236338,
       "name": "Cold Blood",
       "url": "https://open.spotify.com/track/59q3NPvBNdLYNFijAZcwAK"
@@ -1558,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/5pb11EuV3UqFcSZR37oR1i"
       },
@@ -1573,6 +1624,28 @@
       "duration_ms": 203360,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/64KwQ4YwBr9ZVq34aOdwZY"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
     },
     {
       "album": {
@@ -2233,10 +2306,32 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 218506,
       "name": "Interstellar Love (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA"
+    },
+    {
+      "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167636,
+      "name": "Jeanie",
+      "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
     },
     {
       "album": {
@@ -2255,7 +2350,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 167636,
       "name": "Jeanie (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/6nv9RCo0IXNzCSGeYtzT82"
@@ -2660,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "God Save The Animals",
+        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224253,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO"
+    },
+    {
+      "album": {
         "name": "Forgot My Keys",
         "url": "https://open.spotify.com/album/3I2eG4eFdlP7TUlA2xkCsf"
       },
@@ -3029,6 +3142,24 @@
       "duration_ms": 229560,
       "name": "On the Lookout (feat. Raffaella)",
       "url": "https://open.spotify.com/track/3kYd839jswPw1go3Sd6nvf"
+    },
+    {
+      "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248406,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/1wAclvl2eW3uuTQtWGXP2M"
     },
     {
       "album": {
@@ -3419,7 +3550,7 @@
       ],
       "date_added": "2021-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 248946,
       "name": "River's Song",
       "url": "https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g"
@@ -3605,7 +3736,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 246973,
       "name": "Simple, Sweet, and Smiling",
       "url": "https://open.spotify.com/track/2uKrEaRWif9zGGZpwtkAfh"
@@ -3903,6 +4034,28 @@
       "duration_ms": 260866,
       "name": "Surprise Yourself",
       "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
+    },
+    {
+      "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183988,
+      "name": "Sweet Summer Sweat",
+      "url": "https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5"
     },
     {
       "album": {
@@ -4388,6 +4541,24 @@
     },
     {
       "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262400,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
+    },
+    {
+      "album": {
         "name": "Fractures",
         "url": "https://open.spotify.com/album/6a7mIWHjfQRdaXNlZ4Wcyz"
       },
@@ -4573,7 +4744,7 @@
       ],
       "date_added": "2020-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 363841,
       "name": "Winter/Fall",
       "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"

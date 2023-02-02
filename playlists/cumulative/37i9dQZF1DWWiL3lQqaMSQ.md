@@ -4,7 +4,7 @@
 
 > All of the nominees in one playlist! More info on this year's event can be found at <a href="http://www.stellarawards.com">stellarawards.com</a>.
 
-69 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3VeowKesVCgXddAbbsHRxd)
+69 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

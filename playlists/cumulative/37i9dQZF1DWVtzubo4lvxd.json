@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-26",
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
   "name": "Sunset Chill",
-  "published_playlist_ids": [
-    "7on3y4t0dpM9kcFySbFRWF"
-  ],
   "tracks": [
     {
       "album": {
@@ -265,7 +262,7 @@
     {
       "album": {
         "name": "another.wun",
-        "url": "https://open.spotify.com/album/2nsg6lRwaX0YxvpPlUOeX7"
+        "url": "https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS"
       },
       "artists": [
         {
@@ -276,6 +273,24 @@
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 105789,
+      "name": "another.wun",
+      "url": "https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56"
+    },
+    {
+      "album": {
+        "name": "another.wun",
+        "url": "https://open.spotify.com/album/2nsg6lRwaX0YxvpPlUOeX7"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
       "duration_ms": 105789,
       "name": "another.wun",
       "url": "https://open.spotify.com/track/6auvpJaVDpfgtYnpNwqF2x"
@@ -293,10 +308,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 137764,
       "name": "Atlantic.Wav",
       "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
+    },
+    {
+      "album": {
+        "name": "Autumn Chills",
+        "url": "https://open.spotify.com/album/0LeD9H3MwdhpdQRdLtEPBE"
+      },
+      "artists": [
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        },
+        {
+          "name": "Hubert Daviz",
+          "url": "https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Autumn Chills",
+      "url": "https://open.spotify.com/track/1Mg5n0Gvx8PphL8ZpJVKyT"
     },
     {
       "album": {
@@ -435,7 +472,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 181638,
       "name": "belas",
       "url": "https://open.spotify.com/track/4AiI4vY2SnkfGN6MbZpXtf"
@@ -533,7 +570,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-19",
       "duration_ms": 136470,
       "name": "Cats Walking",
       "url": "https://open.spotify.com/track/5cckL4va5OEGcTplcs6Chi"
@@ -675,10 +712,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 106666,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/69UHI9KF5JRwfKmcMNta8k"
+    },
+    {
+      "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84023,
+      "name": "crush on you",
+      "url": "https://open.spotify.com/track/0v3o1OSYNOl0oswap6SoG6"
     },
     {
       "album": {
@@ -711,7 +766,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 84030,
       "name": "crush on you",
       "url": "https://open.spotify.com/track/5nwZjXqJNYVJHV4uLqYxcG"
@@ -1301,6 +1356,24 @@
     {
       "album": {
         "name": "oldies",
+        "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
+      },
+      "artists": [
+        {
+          "name": "lofi.samurai",
+          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103423,
+      "name": "hand of god",
+      "url": "https://open.spotify.com/track/17aeqWs7j6xU37MMQ6LofF"
+    },
+    {
+      "album": {
+        "name": "oldies",
         "url": "https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu"
       },
       "artists": [
@@ -1329,7 +1402,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 119327,
       "name": "Here There",
       "url": "https://open.spotify.com/track/1lXBO9MA1ZnyQSaMPS0Ipo"
@@ -1409,6 +1482,24 @@
     {
       "album": {
         "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96405,
+      "name": "i love being with you",
+      "url": "https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg"
+    },
+    {
+      "album": {
+        "name": "Gentle Boy",
         "url": "https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA"
       },
       "artists": [
@@ -1437,7 +1528,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 96412,
       "name": "i love being with you",
       "url": "https://open.spotify.com/track/4wDMdX04ETYadP6lDHfuJL"
@@ -1611,6 +1702,24 @@
       "duration_ms": 73846,
       "name": "jocelyn",
       "url": "https://open.spotify.com/track/2ectLlq6GLnwUCX12tlEHc"
+    },
+    {
+      "album": {
+        "name": "Longing for You",
+        "url": "https://open.spotify.com/album/2MHX68LB8hbdFvuOu9bxvD"
+      },
+      "artists": [
+        {
+          "name": "Moody.",
+          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73846,
+      "name": "Jocelyn",
+      "url": "https://open.spotify.com/track/6c17BmTDCcOk9SRdCW8gPv"
     },
     {
       "album": {
@@ -1807,7 +1916,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 124675,
       "name": "Like Silk",
       "url": "https://open.spotify.com/track/4fWrsDm064nI1enpa6zTsb"
@@ -1927,6 +2036,24 @@
     {
       "album": {
         "name": "oldies",
+        "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
+      },
+      "artists": [
+        {
+          "name": "lofi.samurai",
+          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81037,
+      "name": "love",
+      "url": "https://open.spotify.com/track/1vgH8Pxm88SZAtNDFj1pKT"
+    },
+    {
+      "album": {
+        "name": "oldies",
         "url": "https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu"
       },
       "artists": [
@@ -1955,10 +2082,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 150966,
       "name": "lovesick",
       "url": "https://open.spotify.com/track/3A2jJaOKYhmKEy9IyyEJF6"
+    },
+    {
+      "album": {
+        "name": "lovesick",
+        "url": "https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150967,
+      "name": "lovesick",
+      "url": "https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA"
     },
     {
       "album": {
@@ -1999,7 +2144,7 @@
     {
       "album": {
         "name": "ep seeds",
-        "url": "https://open.spotify.com/album/03rTwruRPImbzxnhEmO0wa"
+        "url": "https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf"
       },
       "artists": [
         {
@@ -2012,7 +2157,43 @@
       "date_removed": null,
       "duration_ms": 118182,
       "name": "m i s t",
+      "url": "https://open.spotify.com/track/0fi81PMYMsGT8h0FI9tYay"
+    },
+    {
+      "album": {
+        "name": "ep seeds",
+        "url": "https://open.spotify.com/album/03rTwruRPImbzxnhEmO0wa"
+      },
+      "artists": [
+        {
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 118182,
+      "name": "m i s t",
       "url": "https://open.spotify.com/track/5j6vt3vHU22A9nuuMlRnwA"
+    },
+    {
+      "album": {
+        "name": "Nineteen",
+        "url": "https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi"
+      },
+      "artists": [
+        {
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 66023,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O"
     },
     {
       "album": {
@@ -2045,7 +2226,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 168000,
       "name": "Mindfulness",
       "url": "https://open.spotify.com/track/5BZ0yIZtKoySiBIMJK0YOP"
@@ -2253,6 +2434,28 @@
       "duration_ms": 86666,
       "name": "Nightflower",
       "url": "https://open.spotify.com/track/0c4oYO95j7bdgiODBXeFQR"
+    },
+    {
+      "album": {
+        "name": "no shame in my game.",
+        "url": "https://open.spotify.com/album/39G2UqpSLFmV6t1Uwvef0S"
+      },
+      "artists": [
+        {
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
+        },
+        {
+          "name": "Dingus.",
+          "url": "https://open.spotify.com/artist/5Csl0cWk9AUr3M6KzlOsTV"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 88229,
+      "name": "no shame in my game.",
+      "url": "https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs"
     },
     {
       "album": {
@@ -2665,7 +2868,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 162461,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/2W4tfxMbqiqzhfvRGTWAo5"
@@ -2687,6 +2890,24 @@
       "duration_ms": 147692,
       "name": "sand castles",
       "url": "https://open.spotify.com/track/5rBQIzDduJsmDbZ97gqWEW"
+    },
+    {
+      "album": {
+        "name": "corals 2",
+        "url": "https://open.spotify.com/album/1cXZDExwXLZtfLRxCcnETx"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "sand castles",
+      "url": "https://open.spotify.com/track/6ip3BwXKlULyY279vreCz9"
     },
     {
       "album": {
@@ -2849,7 +3070,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 196923,
       "name": "Silience",
       "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"
@@ -2871,6 +3092,24 @@
       "duration_ms": 122252,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP"
+    },
+    {
+      "album": {
+        "name": "Sneakers",
+        "url": "https://open.spotify.com/album/4zlNJu16EZyfYdUo7HUwO2"
+      },
+      "artists": [
+        {
+          "name": "Monma",
+          "url": "https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 149333,
+      "name": "Sneakers",
+      "url": "https://open.spotify.com/track/2kAkl8R05DTkRkNMDhIvKc"
     },
     {
       "album": {
@@ -3467,6 +3706,24 @@
     {
       "album": {
         "name": "honshu island",
+        "url": "https://open.spotify.com/album/5R1Cj9GJ2Ur6AIfzjcdWIm"
+      },
+      "artists": [
+        {
+          "name": "mt. fujitive",
+          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71393,
+      "name": "tequila",
+      "url": "https://open.spotify.com/track/0diOcYSPXO1jhT1XxGKfS3"
+    },
+    {
+      "album": {
+        "name": "honshu island",
         "url": "https://open.spotify.com/album/1ZqGxwWs8Gpcp5tl7ipjT7"
       },
       "artists": [
@@ -3628,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253848,
+      "name": "Tick Tock",
+      "url": "https://open.spotify.com/track/7fBCxF9Qt9l7YeEyTMNEQq"
+    },
+    {
+      "album": {
         "name": "Tide",
         "url": "https://open.spotify.com/album/1zTcLZZrU1J9YISA0lCnYT"
       },
@@ -3701,6 +3976,24 @@
       "duration_ms": 78719,
       "name": "train ride home",
       "url": "https://open.spotify.com/track/57ArrGYCgOg4TkWNFG2SJw"
+    },
+    {
+      "album": {
+        "name": "oldies",
+        "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
+      },
+      "artists": [
+        {
+          "name": "lofi.samurai",
+          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78719,
+      "name": "train ride home",
+      "url": "https://open.spotify.com/track/70vGzrfqPGC8sa6Oo5b88g"
     },
     {
       "album": {
@@ -3835,10 +4128,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 86571,
       "name": "viola",
       "url": "https://open.spotify.com/track/2U42jVkNgEU6DoM64eFD7i"
+    },
+    {
+      "album": {
+        "name": "unexpected",
+        "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
+      },
+      "artists": [
+        {
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86571,
+      "name": "viola",
+      "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
     },
     {
       "album": {
@@ -3915,6 +4226,24 @@
     {
       "album": {
         "name": "time off",
+        "url": "https://open.spotify.com/album/2lUVfC4UUKYtaeeGEAlOW8"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122749,
+      "name": "we used to talk every night",
+      "url": "https://open.spotify.com/track/29MC6rSDNcImKHysL5acKj"
+    },
+    {
+      "album": {
+        "name": "time off",
         "url": "https://open.spotify.com/album/25mhdKvHHJ6QwDnsCmAaav"
       },
       "artists": [
@@ -3929,6 +4258,24 @@
       "duration_ms": 122749,
       "name": "we used to talk every night",
       "url": "https://open.spotify.com/track/6kAMaQt8UveeTctekIpUjF"
+    },
+    {
+      "album": {
+        "name": "time off",
+        "url": "https://open.spotify.com/album/4qSrP99f58y212MoMioGu0"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 122762,
+      "name": "we used to talk every night",
+      "url": "https://open.spotify.com/track/0tqIvb0b7WpOYMYJR2Ef38"
     },
     {
       "album": {
@@ -3965,6 +4312,24 @@
       "duration_ms": 108007,
       "name": "when the sun goes down",
       "url": "https://open.spotify.com/track/6uGuRIuiW7QBnSOuCELiIy"
+    },
+    {
+      "album": {
+        "name": "Where I Met You",
+        "url": "https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 141124,
+      "name": "Where I Met You",
+      "url": "https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ"
     },
     {
       "album": {

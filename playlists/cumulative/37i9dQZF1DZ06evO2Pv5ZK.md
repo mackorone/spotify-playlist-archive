@@ -4,7 +4,7 @@
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-75 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/1N71Cx7P9MRuN9QmoKGuDH)
+76 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,11 +32,12 @@
 | [El Greco \- Part 1](https://open.spotify.com/track/3h9cnu26p2T6vvgdMxFpnf) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [El Greco \- Original Motion Picture Soundtrack By Vangelis](https://open.spotify.com/album/63lUp5PxD47l3Cx468Ptwj) | 3:58 | 2022-05-29 |  |
 | [Eric's Theme](https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \- The Play](https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j) | 4:06 | 2022-05-29 | 2022-10-13 |
 | [Eternal Alexander](https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:37 | 2022-05-30 |  |
-| [Eternity](https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 1:58 | 2022-06-15 | 2022-10-01 |
+| [Eternity](https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 1:58 | 2022-06-15 |  |
 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 | 2022-06-26 |  |
 | [Five Circles](https://open.spotify.com/track/0RimU0tZwtruAOSAhoYyRX) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 5:20 | 2022-05-29 | 2022-08-13 |
 | [Hispanola](https://open.spotify.com/track/1LYcfDsjiz4z0dqt4mzDQq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 4:56 | 2022-10-04 | 2022-10-09 |
 | [Hymne \- Remastered](https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 2:44 | 2022-05-29 |  |
+| [In the magic of Cosmos](https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [In the magic of Cosmos](https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1) | 2:07 | 2022-12-17 |  |
 | [Intergalactic Radio Station](https://open.spotify.com/track/0oEGdwSaHozV9WRqoLm1B7) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Direct](https://open.spotify.com/album/1Ia0VRhvOAowBCxm3ncUuZ) | 7:44 | 2022-05-29 | 2022-10-13 |
 | [L'enfant \- Remastered](https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 5:00 | 2022-05-29 |  |
 | [La mort du loup \- Remastered](https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 3:05 | 2022-05-30 |  |
@@ -57,9 +58,9 @@
 | [One More Kiss, Dear](https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:59 | 2022-10-22 |  |
 | [Opening](https://open.spotify.com/track/3BUoh4ToIQXNDYWNVBAbgx) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 1:21 | 2022-05-29 | 2022-10-11 |
 | [P.S.](https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 2:06 | 2022-10-12 |  |
-| [Pinta, Nina, Santa Maria](https://open.spotify.com/track/0BQcj5GUvonO9byni0bEuu) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 13:20 | 2022-05-29 |  |
-| [Prelude](https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 4:25 | 2022-05-29 | 2022-11-07 |
-| [Prelude \(Voices\)](https://open.spotify.com/track/3DvQ0SduBB9zfn5PZXaucl) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6), [Piano in a Living Room](https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ) | [Prelude \(Voices\)](https://open.spotify.com/album/21elcibDkkuOqqkZYrg4hj) | 3:36 | 2022-11-08 |  |
+| [Pinta, Nina, Santa Maria](https://open.spotify.com/track/0BQcj5GUvonO9byni0bEuu) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 13:20 | 2022-05-29 | 2023-01-13 |
+| [Prelude](https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 4:25 | 2022-05-29 |  |
+| [Prelude \(Voices\)](https://open.spotify.com/track/3DvQ0SduBB9zfn5PZXaucl) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6), [Piano in a Living Room](https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ) | [Prelude \(Voices\)](https://open.spotify.com/album/21elcibDkkuOqqkZYrg4hj) | 3:36 | 2022-11-08 | 2023-01-13 |
 | [Pulstar \- Audio](https://open.spotify.com/track/6KEpmIwCSjkcmxPxgV57FV) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Albedo 0.39](https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N) | 5:45 | 2022-05-29 | 2022-10-13 |
 | [Rachel's Song](https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:48 | 2022-05-29 |  |
 | [Rosetta](https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 5:02 | 2022-05-29 |  |

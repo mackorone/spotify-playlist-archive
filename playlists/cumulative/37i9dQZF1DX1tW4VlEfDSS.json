@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A feel-good soulful house  and disco selection.",
   "name": "Groove Theory",
-  "published_playlist_ids": [
-    "4JyXGtfxADyxCIBU0wnIqy"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,7 +96,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 203425,
       "name": "All Along",
       "url": "https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF"
@@ -223,7 +220,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-29",
       "duration_ms": 340000,
       "name": "As The Night Moves In",
       "url": "https://open.spotify.com/track/66RBjymDyZBEwXeD4JpY65"
@@ -888,6 +885,32 @@
     },
     {
       "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Franklin",
+          "url": "https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168289,
+      "name": "Everybody Dance",
+      "url": "https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M"
+    },
+    {
+      "album": {
         "name": "Everybody Dance (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb"
       },
@@ -907,7 +930,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 168289,
       "name": "Everybody Dance (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
@@ -929,6 +952,24 @@
       "duration_ms": 189000,
       "name": "Everything Happens for a Reason",
       "url": "https://open.spotify.com/track/0ILsPYWoQWuioCNMUVBpjb"
+    },
+    {
+      "album": {
+        "name": "Everything Happens for a Reason",
+        "url": "https://open.spotify.com/album/1tKDdlmv0HPOEcwN3j7dmP"
+      },
+      "artists": [
+        {
+          "name": "Pool Attendant",
+          "url": "https://open.spotify.com/artist/5f9BDhfsoR50sN9GvmCCur"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Everything Happens for a Reason",
+      "url": "https://open.spotify.com/track/24XXMhcnFDkF7c1PAvt42b"
     },
     {
       "album": {
@@ -1995,7 +2036,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 202051,
       "name": "Lover 4 Now (feat. Todd Edwards) - Edit",
       "url": "https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7"
@@ -2145,7 +2186,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 165000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu"
@@ -2979,10 +3020,32 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq"
+    },
+    {
+      "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     },
     {
       "album": {
@@ -3401,7 +3464,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": "2023-01-21",
       "duration_ms": 273230,
       "name": "What's Your World (feat. Gloria Ann Taylor)",
       "url": "https://open.spotify.com/track/7ir78RK7dikfhptUV0S6kC"
@@ -3533,10 +3596,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 271475,
       "name": "You Ain't Love (feat. Teni Tinks)",
       "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"
+    },
+    {
+      "album": {
+        "name": "You Are the Sun",
+        "url": "https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j"
+      },
+      "artists": [
+        {
+          "name": "TEE MANGO",
+          "url": "https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408889,
+      "name": "You Are the Sun - Sun Up Mix",
+      "url": "https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain]
 
 > We've all been there\. This playlist can help\. Just don't let your boss catch you listening....
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,721 likes - 38 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,825 likes - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain]
 | 11 | [Step Into My Office, Baby](https://open.spotify.com/track/2wq3IABSPtBFush3qsfZoK) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/6svpGFHgqsoOGUWrE9e8QF) | 4:12 |
 | 12 | [Working Class Hero](https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Instant Karma: The Amnesty International Campaign To Save Darfur \(Standard Version\)](https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN) | 4:23 |
 | 13 | [Bad Days \- Aurally Excited Version](https://open.spotify.com/track/4Ad2I6JZqB0Eu3asEreIhX) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Clouds Taste Metallic](https://open.spotify.com/album/2L4xduAFQeVbHLRiKUH7rD) | 4:40 |
-| 14 | [Frankly Mr\. Shankly](https://open.spotify.com/track/1NsV9O4569hlzOnq2fQxp5) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Rarities](https://open.spotify.com/album/0i8k2wcwauq8JZfixJMrYL) | 2:21 |
+| 14 | [Frankly Mr\. Shankly](https://open.spotify.com/track/1NsV9O4569hlzOnq2fQxp5) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22), [Owen](https://open.spotify.com/artist/3Ab3DZ46S1kS1WWM8llkYf) | [Rarities](https://open.spotify.com/album/0i8k2wcwauq8JZfixJMrYL) | 2:21 |
 | 15 | [Custom Concern](https://open.spotify.com/track/5BJZSMVEI7THFLC9IeobK2) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [This Is a Long Drive for Someone With Nothing to Think About](https://open.spotify.com/album/6XrF9bauFcIOycNg4ZqiR5) | 4:28 |
 | 16 | [The Chemical Worker's Song \(Process Man\)](https://open.spotify.com/track/0z97EgY2eeLrnMdNuGvc8W) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Up](https://open.spotify.com/album/010OXpHxtlXUe7WDWuZsWw) | 2:36 |
 | 17 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |

@@ -4,7 +4,7 @@
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 18 min - not published yet
+38 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Unheard Voice](https://open.spotify.com/track/5IqQr1AFSTL1WkDUT7Z0is) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Unheard Voice](https://open.spotify.com/album/3s6rlS2V8UiZJf3J4k5HkP) | 3:11 | 2022-10-25 |  |
 | [Until the Day I Die](https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:55 | 2022-10-25 |  |
 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 | 2022-10-25 |  |
+| [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-19 |  |
 | [We Don't Care Anymore](https://open.spotify.com/track/0UflERiYbsLO8gIAv7JLiC) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 3:31 | 2022-10-25 |  |
 
 \*This playlist was first scraped on 2022-10-26. Prior content cannot be recovered.

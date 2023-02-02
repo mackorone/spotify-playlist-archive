@@ -4,7 +4,7 @@
 
 > Sometimes only music can describe that feeling...
 
-33 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/0laoyF2mlTIVCq7uGZIeYQ)
+33 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

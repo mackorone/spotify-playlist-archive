@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-196 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/63MZdRyonVuAsWti5LxFl1)
+198 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Christmas Alone](https://open.spotify.com/track/6CiWjivcgYzpHZ44XiHoqW) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Maybe This Christmas, Vol 4: Holiday Folk](https://open.spotify.com/album/2081ZONNeBVsfDhuXw86JI) | 3:48 | 2021-11-09 |  |
 | [Christmas Day](https://open.spotify.com/track/5hexwMWl47Y4XASG8aOI36) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4Z0E2zhE6qdsKdrUTKffXn) | 2:28 | 2021-11-09 | 2022-07-29 |
 | [Christmas Day](https://open.spotify.com/track/6QfjvDB63IGxWNtjySyh9F) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:28 | 2021-11-09 |  |
-| [Christmas Dream](https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4) | 2:57 | 2021-11-09 |  |
+| [Christmas Dream](https://open.spotify.com/track/7ocYQjcixPueybqtaw4GGl) | [Almost Christmas](https://open.spotify.com/artist/4mHwDjQ0plVFwIb6EeLMoF), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Maybe This Christmas, Vol\. 7: Country Sleigh Ride](https://open.spotify.com/album/7dkbS28jW8LVyfKWtFwls2) | 2:57 | 2022-11-21 |  |
+| [Christmas Dream](https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4) | 2:57 | 2021-11-09 | 2022-12-04 |
 | [Christmas Dream](https://open.spotify.com/track/2pTaSZ6sHWlkS0s2NgiRRi) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/5BMGHueD4rgP4xfkWC8uBb) | 2:57 | 2021-11-09 | 2022-07-29 |
 | [Christmas Eve](https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) | 4:22 | 2021-11-09 |  |
 | [Christmas Eve, I'm Yours\. \(feat\. Jillian Edwards & Corey Kilgannon\)](https://open.spotify.com/track/4gsNO2qnHlrdvR4JFCi4P3) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp), [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [Christmas Eve, I'm Yours\. \(feat\. Jillian Edwards & Corey Kilgannon\)](https://open.spotify.com/album/1sREPHtpCUSQmPuOfj70Rp) | 3:23 | 2021-11-09 |  |
@@ -161,6 +162,7 @@
 | [The Christmas Song](https://open.spotify.com/track/24MfeH4tGo8SxmNH311YzO) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [The Christmas Song](https://open.spotify.com/album/0qz6VbQmFw0WLZwD3k9QdT) | 2:02 | 2021-11-09 |  |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 | 2021-11-09 |  |
 | [The First Noel](https://open.spotify.com/track/0xo74ue4eAko2WXco63cfv) | [The Ruby Pines](https://open.spotify.com/artist/4KO4HRGHPSH7HtGn8gAOpl) | [Walker in a Winter Wonderland](https://open.spotify.com/album/0UhF379fa6PvnfLTsBngqa) | 2:21 | 2021-11-09 |  |
+| [The Little Drummer Boy](https://open.spotify.com/track/5buoO4z08iVTp3i8wxtYUK) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Songs That Sleigh](https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz) | 4:32 | 2022-12-09 |  |
 | [This December](https://open.spotify.com/track/03jjfF3WRY8cUOsf8yFIVw) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 3:56 | 2021-11-09 |  |
 | [This December](https://open.spotify.com/track/1SNpdbPokipmCJ8rTqbnrm) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY) | 3:56 | 2021-11-09 | 2022-10-19 |
 | [This December](https://open.spotify.com/track/34u4F3zFM9aZgkyBetPR8D) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5IRX3MjFCSlyJdYszpz7hq) | 3:56 | 2021-11-09 | 2022-11-13 |

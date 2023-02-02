@@ -4,14 +4,14 @@
 
 > 
 
-50 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/6DK5Hbj8SscBYOPCBodpFf)
+50 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['65 Love Affair](https://open.spotify.com/track/5nBp8F6tekSrnFg8G2Pvug) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Radio Hits Of the '80s](https://open.spotify.com/album/4OhFkx7dTPfj0BXerfldyk) | 3:39 | 2013-06-27 |  |
 | [867\-5309 / Jenny](https://open.spotify.com/track/00MI0oGDVJYM1qWbyUOIhH) | [Tommy Tutone](https://open.spotify.com/artist/1n2LWYgwtGp7EzDapUoniE) | [867\-5309 / Jenny](https://open.spotify.com/album/6lqQzf2MGsTQ577cGXIfcK) | 3:51 | 2013-06-27 |  |
 | [Abracadabra \(Round N' round\) \[Radio Edit\]](https://open.spotify.com/track/5W0KEMRHJtZ03ceY9L9WoT) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [40 Dance Club Hits Volume 1 \(Only Essential Hits & Anthems in Electro, Dance, House, Trance and Techno\)](https://open.spotify.com/album/3ApJT53I05vRuzFoUtYa3E) | 2:56 | 2013-06-27 |  |
-| [Always on My Mind](https://open.spotify.com/track/3mmn1eswXMsJec8POXQb7p) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [One Hell Of A Ride](https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv) | 3:32 | 2013-06-27 |  |
+| [Always On My Mind](https://open.spotify.com/track/3mmn1eswXMsJec8POXQb7p) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [One Hell Of A Ride](https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv) | 3:32 | 2013-06-27 |  |
 | [Centerfold](https://open.spotify.com/track/2KCHzneNOkZjY1dxP1kBY4) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [Classic Rock](https://open.spotify.com/album/4m0tVQEuO296yPLtRQBOV2) | 3:37 | 2013-06-27 |  |
 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 | 2013-06-27 |  |
 | [Do You Believe In Love](https://open.spotify.com/track/1Flq3q4sDw3EYqk8Z9agIe) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:27 | 2013-06-27 |  |

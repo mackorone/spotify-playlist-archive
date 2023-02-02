@@ -4,7 +4,7 @@
 
 > You know\. Epik High Is Here.
 
-108 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/5bA5AMOx89KfXjejAEPIvU)
+108 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [또 싸워 We Fight Ourselves](https://open.spotify.com/track/7Dhm6ckiZCs4ASHmuTQWrN) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH) | 4:11 | 2022-02-14 | 2022-07-29 |
 | [막을 올리며 Encore](https://open.spotify.com/track/03DZZDvcEeK9E7iv24f8Gr) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a) | 4:34 | 2022-02-14 |  |
 | [막을 올리며 Encore](https://open.spotify.com/track/6dMUcbtIC30gWi05LUtNJJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH) | 4:34 | 2022-02-14 | 2022-07-29 |
-| [바보 \(feat\. Bumkey\)](https://open.spotify.com/track/7q72vMxEJ1Yo8iARHrhppO) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Epilogue](https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919) | 4:02 | 2022-02-14 |  |
+| [바보 \(Feat\. Bumkey\)](https://open.spotify.com/track/7q72vMxEJ1Yo8iARHrhppO) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Epilogue](https://open.spotify.com/album/52O1oc2EC6kwNo8iwBs919) | 4:02 | 2022-02-14 |  |
 | [부르즈 할리파 Burj Khalifa](https://open.spotify.com/track/0rQNYBCP3CjYgQpGfrLa50) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Yankie](https://open.spotify.com/artist/5VKDE1ShT61vB7dgyiNDoE), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/288PQ8qwMPhpphe0aqgvnH) | 4:25 | 2022-02-14 | 2022-07-29 |
 | [부르즈 할리파 Burj Khalifa](https://open.spotify.com/track/6l18qEgJFDecgHIq594tDT) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [얀키\(YANKIE\)](https://open.spotify.com/artist/0r1EofdKBhtyZJmyeqX4OQ), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [EPIK HIGH \- SHOEBOX](https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a) | 4:25 | 2022-02-14 |  |
 | [사랑한다면 해선 안될 말 Wrong](https://open.spotify.com/track/19okUWbzWG0Lw6cOYCKXUz) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [99](https://open.spotify.com/album/1e2r6700uHv9zThv6bAIDE) | 3:39 | 2022-02-14 |  |

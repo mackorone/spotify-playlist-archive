@@ -4,7 +4,7 @@
 
 > Danger, mystery, and tangled webs of intrigue lie ahead....
 
-28 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/6aASEd6XSabGmu4rEFP1xy)
+28 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

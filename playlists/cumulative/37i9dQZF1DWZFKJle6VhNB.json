@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-02",
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
   "name": "Lou\u00e7a Infinita",
-  "published_playlist_ids": [
-    "6306uranRreFb9mAG0uhIt"
-  ],
   "tracks": [
     {
       "album": {
@@ -99,7 +96,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 218773,
       "name": "Amor de Chocolate",
       "url": "https://open.spotify.com/track/0MC7aaYm9G2sGZ8B0uxPtw"
@@ -1225,6 +1222,10 @@
         {
           "name": "Mc Livinho",
           "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
       "date_added": "2022-02-10",
@@ -1283,7 +1284,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 140000,
       "name": "FICA \u00c0 VONTADE",
       "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
@@ -1441,6 +1442,24 @@
       "duration_ms": 177093,
       "name": "Hoje Eu Vou Parar Na Gaiola",
       "url": "https://open.spotify.com/track/2u2T2sB5Geli45Wh7r4lhr"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/64cKZPUR55ReYOBlVsozyT"
+      },
+      "artists": [
+        {
+          "name": "very man",
+          "url": "https://open.spotify.com/artist/6VyCj6GWCeZLDFlfbtnSwR"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179624,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3RxGyHENpCxW6tzbmZcU9g"
     },
     {
       "album": {
@@ -2201,7 +2220,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 148386,
       "name": "Ousadia & Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut"
@@ -2985,7 +3004,7 @@
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-21",
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
   "name": "Ejercicio Total",
-  "published_playlist_ids": [
-    "6i54Gc32OBgUQz8RjwMK3M"
-  ],
   "tracks": [
     {
       "album": {
@@ -329,7 +326,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-13",
       "duration_ms": 212804,
       "name": "Beast",
       "url": "https://open.spotify.com/track/74ipYItMMW9NRBhVBXrM6Q"
@@ -861,10 +858,32 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
+    },
+    {
+      "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "album": {
@@ -1233,7 +1252,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 190080,
       "name": "El Bass",
       "url": "https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf"
@@ -1310,6 +1329,36 @@
     },
     {
       "album": {
+        "name": "Escape (Remixes)",
+        "url": "https://open.spotify.com/album/696LM3H0xsPyx0PrFEPEUo"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 240445,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6t8oosZU0hFD847n53vinc"
+    },
+    {
+      "album": {
         "name": "Escape (feat. Hayla)",
         "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
       },
@@ -1333,10 +1382,40 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
+      "album": {
+        "name": "Escape (feat. Hayla)",
+        "url": "https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO"
+      },
+      "artists": [
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240445,
+      "name": "Escape (feat. Hayla)",
+      "url": "https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH"
     },
     {
       "album": {
@@ -1479,6 +1558,24 @@
       "duration_ms": 202620,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G"
+    },
+    {
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2022-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "album": {
@@ -1875,7 +1972,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-22",
       "duration_ms": 285860,
       "name": "IM GONE",
       "url": "https://open.spotify.com/track/7sFqwdXin2bgiuElcWdtYl"
@@ -2283,7 +2380,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 168226,
       "name": "Look",
       "url": "https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ"
@@ -2346,6 +2443,28 @@
     },
     {
       "album": {
+        "name": "Malec\u00f3n",
+        "url": "https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT"
+      },
+      "artists": [
+        {
+          "name": "velum!",
+          "url": "https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z"
+        },
+        {
+          "name": "flxbabu",
+          "url": "https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Malec\u00f3n",
+      "url": "https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh"
+    },
+    {
+      "album": {
         "name": "Masala",
         "url": "https://open.spotify.com/album/6WtVRdSDwevHuUDiFcEhCp"
       },
@@ -2399,7 +2518,7 @@
           "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "date_added": "2022-10-13",
+      "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206000,
@@ -2529,7 +2648,7 @@
     {
       "album": {
         "name": "My Pony",
-        "url": "https://open.spotify.com/album/6Z8k55chq0AjqaYbaMX2tp"
+        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
       },
       "artists": [
         {
@@ -2540,6 +2659,24 @@
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
+    },
+    {
+      "album": {
+        "name": "My Pony",
+        "url": "https://open.spotify.com/album/6Z8k55chq0AjqaYbaMX2tp"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
       "duration_ms": 153414,
       "name": "My Pony",
       "url": "https://open.spotify.com/track/6Qpm8XBZ0CrASw7cTMap99"
@@ -3184,7 +3321,7 @@
     },
     {
       "album": {
-        "name": "Strange Fruits Music",
+        "name": "Dance Fruits Music",
         "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
       },
       "artists": [
@@ -3233,6 +3370,24 @@
     {
       "album": {
         "name": "Shake It",
+        "url": "https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
+    },
+    {
+      "album": {
+        "name": "Shake It",
         "url": "https://open.spotify.com/album/00SLXiSfueGVaPZSpNeqRa"
       },
       "artists": [
@@ -3243,7 +3398,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 167619,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5otdjL2CJnNLbY3WqHJzMD"
@@ -3397,7 +3552,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 216000,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr"
@@ -3555,7 +3710,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-14",
       "duration_ms": 166451,
       "name": "Sweet Potato",
       "url": "https://open.spotify.com/track/37Irxjh40DtOug3lCHIwIa"
@@ -3778,6 +3933,36 @@
     },
     {
       "album": {
+        "name": "Tukoh Taka (Official FIFA Fan Festival\u2122Anthem)",
+        "url": "https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Myriam Fares",
+          "url": "https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178529,
+      "name": "Tukoh Taka - Official FIFA Fan Festival\u2122 Anthem",
+      "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"
+    },
+    {
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/6UfQcPyvA6doqyPEd5WajQ"
       },
@@ -3837,7 +4022,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 150160,
       "name": "Unlove You",
       "url": "https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX"

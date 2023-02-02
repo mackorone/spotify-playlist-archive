@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Woro Widowati",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
   "name": "Boso Jowo",
-  "published_playlist_ids": [
-    "6MWAwkgQhB2wRNopb9pKvS"
-  ],
   "tracks": [
     {
       "album": {
@@ -206,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Bar Lebaran Tak Lamar",
+        "url": "https://open.spotify.com/album/38oVaFR9gB0U9beNc29c8h"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328011,
+      "name": "Bar Lebaran Tak Lamar",
+      "url": "https://open.spotify.com/track/7pHfBvGfoyB62oYvAb9sDm"
+    },
+    {
+      "album": {
         "name": "Cerito Loro",
         "url": "https://open.spotify.com/album/0QJVkrVo41DWwJPXv4gz40"
       },
@@ -326,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Cidro Asmoro",
+        "url": "https://open.spotify.com/album/1EevLbemdKpchn5ktMEaMc"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326769,
+      "name": "Cidro Asmoro",
+      "url": "https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0"
+    },
+    {
+      "album": {
         "name": "Dalan Liyane",
         "url": "https://open.spotify.com/album/7kJv5f5X1J5NMylqh21bHn"
       },
@@ -417,6 +450,24 @@
       "duration_ms": 234076,
       "name": "Eman Eman",
       "url": "https://open.spotify.com/track/5yxFTVy9MdtCmk3uXBys9f"
+    },
+    {
+      "album": {
+        "name": "Eman Eman (Keroncong)",
+        "url": "https://open.spotify.com/album/6xxez6poEaY2UemC1s309s"
+      },
+      "artists": [
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Eman Eman - Keroncong",
+      "url": "https://open.spotify.com/track/0H3B3cCIQPCs6jjmwhW1A0"
     },
     {
       "album": {
@@ -911,7 +962,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 276796,
       "name": "Mending Golek Timbang Balen(MGTB)",
       "url": "https://open.spotify.com/track/6LKFSmhIt0htvIWjAgjr8R"
@@ -1026,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Ngeman",
+        "url": "https://open.spotify.com/album/5Q92SAizxdSn2L2DinpKJH"
+      },
+      "artists": [
+        {
+          "name": "Didik Budi",
+          "url": "https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239769,
+      "name": "Ngeman",
+      "url": "https://open.spotify.com/track/0ZQWph1RquCqAPhBrRaC5C"
+    },
+    {
+      "album": {
         "name": "Guyon Waton (Live Orchestra)",
         "url": "https://open.spotify.com/album/5VdM1so7eacofy8pbM14Vg"
       },
@@ -1041,6 +1110,24 @@
       "duration_ms": 320520,
       "name": "Ninggal Cerito (Purwokerto) [Live Orchestra]",
       "url": "https://open.spotify.com/track/6Jgs44v1wA7KIenP41TXUo"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0"
+      },
+      "artists": [
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259384,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/31JvGZJBhZWUijQvLBqwCG"
     },
     {
       "album": {
@@ -1225,7 +1312,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 231505,
       "name": "Opo Anane",
       "url": "https://open.spotify.com/track/5q7aPA3OMkMh7pvfGsvFrg"
@@ -1337,7 +1424,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 278095,
       "name": "Penting Yakin - From \"Cidro Asmoro\"",
       "url": "https://open.spotify.com/track/1wbgdqJbPE5s4Lbhytnx5R"
@@ -1395,6 +1482,24 @@
       "duration_ms": 335994,
       "name": "Piye Kabare",
       "url": "https://open.spotify.com/track/7MKuL6VuzjLAb09qLNSpDR"
+    },
+    {
+      "album": {
+        "name": "Piye Kabare (Keroncong)",
+        "url": "https://open.spotify.com/album/3ZDTkBf67dCJgwuDVZmgxP"
+      },
+      "artists": [
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339461,
+      "name": "Piye Kabare - Keroncong",
+      "url": "https://open.spotify.com/track/2NQtWhnnrkvlqmIGoZ0RSl"
     },
     {
       "album": {
@@ -1467,7 +1572,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 249184,
       "name": "Ra Bakal Keganti",
       "url": "https://open.spotify.com/track/3PZiVaw4ebgLkMM17qvOHA"
@@ -1533,6 +1638,24 @@
       "duration_ms": 285000,
       "name": "Roso Atiku",
       "url": "https://open.spotify.com/track/1d8I3k13qDu1lbRQ8xDqeh"
+    },
+    {
+      "album": {
+        "name": "Rungkad",
+        "url": "https://open.spotify.com/album/3F0PuEp4j1Fug3FIPSottp"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/34gYdObZcKonPinzlnE8gK"
+        }
+      ],
+      "date_added": "2022-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308796,
+      "name": "Rungkad",
+      "url": "https://open.spotify.com/track/07eMEyNQOl1j6Wo5d9LDjI"
     },
     {
       "album": {

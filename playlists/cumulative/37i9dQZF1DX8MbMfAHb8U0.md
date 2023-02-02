@@ -4,10 +4,11 @@
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-167 songs - 12 hr 35 min - [published](https://open.spotify.com/playlist/55RU8oZjX8hltMj0iIsfn8)
+168 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/4IUSCokY39aICKizwxj0Ey) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3VkbWApaBik1JL9IV98mAB) | 0:00 | 2022-06-16 | 2022-12-17 |
 | [A Long Walk](https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:40 | 2022-06-16 |  |
 | [A Long Walk](https://open.spotify.com/track/1XCMv5ZnrLh1iQ5koM36LS) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [By Popular Demand](https://open.spotify.com/album/4ZQCIIuabiBLhwrIwfTQhZ) | 4:44 | 2022-06-16 | 2022-11-13 |
 | [A Long Walk \- Remastered](https://open.spotify.com/track/0jRr413bCkZhxc7Mul34Ik) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Golden Moments](https://open.spotify.com/album/4ozaleREZDqTnSLuwUeYLQ) | 4:37 | 2021-07-09 | 2022-07-29 |
@@ -19,7 +20,7 @@
 | [Blessin Me](https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*sunshine Album](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 4:42 | 2021-07-09 |  |
 | [Brotha](https://open.spotify.com/track/2sNAjuCXxyj8jHt93t9IJ9) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:28 | 2021-07-09 |  |
 | [Brown Skin](https://open.spotify.com/track/0r4B3MFW4rYoHKG1rYnNCy) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Kwanzaa Music](https://open.spotify.com/album/1XEy9WiosMlBBueWffh6J8) | 4:56 | 2022-06-16 | 2022-11-13 |
-| [Brown Skin](https://open.spotify.com/track/4IUSCokY39aICKizwxj0Ey) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [00s Soul](https://open.spotify.com/album/3VkbWApaBik1JL9IV98mAB) | 4:56 | 2022-06-16 |  |
+| [Brown Skin](https://open.spotify.com/track/4cADiYkm8GM9Cvub2nh1sa) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Dinner Music](https://open.spotify.com/album/6rtET2pD0xPZBl3EqTbBk5) | 4:56 | 2022-06-16 |  |
 | [Brown Skin](https://open.spotify.com/track/6yS7uEuIMuVgOWEiWY6Abm) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/2vc5pjWadm2Q8FxdJ3JSwV) | 4:56 | 2021-07-09 | 2022-07-29 |
 | [Brown Sugar](https://open.spotify.com/track/3tyUh8UpK0PVu00AjbP1UG) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/1Owp8VOaFEk4r7zkvGOHmE) | 4:22 | 2021-07-09 | 2022-07-29 |
 | [Brown Sugar](https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:22 | 2022-06-16 |  |

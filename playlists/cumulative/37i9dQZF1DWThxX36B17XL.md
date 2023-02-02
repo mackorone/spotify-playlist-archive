@@ -4,7 +4,7 @@
 
 > No es música ligera, son canciones animales y cumplieron 30 años.
 
-50 songs - 3 hr 46 min - not published yet
+50 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-45 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/385qUgjyB07ZAM2N6EjW6b)
+45 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Suns and Lovers](https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 4:44 | 2022-09-16 |  |
 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 | 2022-09-16 |  |
 | [The Dives \(Lazarus in Ashes\)](https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 2:38 | 2022-09-16 |  |
-| [The Great Dismal](https://open.spotify.com/track/6F0PDcBcQuf2zq0EXU9iz6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal B\-Sides](https://open.spotify.com/album/3hiV9e2rbXw9YMb6QI8F8M) | 5:42 | 2022-09-16 | 2022-10-12 |
+| [The Great Dismal](https://open.spotify.com/track/6F0PDcBcQuf2zq0EXU9iz6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal B\-Sides](https://open.spotify.com/album/3hiV9e2rbXw9YMb6QI8F8M) | 5:42 | 2022-09-16 |  |
 | [The Mohegan \- DOTB B Side](https://open.spotify.com/track/7mlXr4SOCtD142pBgpVZzG) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:19 | 2022-09-16 |  |
 | [The Rites of Love and Death](https://open.spotify.com/track/0AXEe3B8qM3ETJMPLHBPOn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:50 | 2022-09-16 |  |
 | [Us/We/are](https://open.spotify.com/track/12v6blwysPzpK8DsOSB0z9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:34 | 2022-09-16 |  |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-15",
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
   "name": "This Is Bonobo",
-  "published_playlist_ids": [
-    "3Lqe04NZCgclmzpw1Wxzz9"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,7 +38,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 307327,
       "name": "7th Sevens",
       "url": "https://open.spotify.com/track/3AW6V6zWH45jI7eNPnSDfT"
@@ -59,7 +56,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 342053,
       "name": "Age of Phase",
       "url": "https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM"
@@ -175,7 +172,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 408960,
       "name": "Black Sands",
       "url": "https://open.spotify.com/track/6uoM7KHsyJsHZqBQHKjQbc"
@@ -381,7 +378,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Elysian",
       "url": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D"
@@ -399,7 +396,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2023-01-21",
       "duration_ms": 325583,
       "name": "Emkay",
       "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
@@ -501,6 +498,28 @@
       "duration_ms": 284946,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/118jpM7D5hnAEYJ6EzEY3G"
+    },
+    {
+      "album": {
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335383,
+      "name": "Fold",
+      "url": "https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG"
     },
     {
       "album": {
@@ -643,7 +662,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": "2022-12-05",
       "duration_ms": 249853,
       "name": "Heaven For The Sinner",
       "url": "https://open.spotify.com/track/6t7SsmMEWNNJaFEpIjrYop"
@@ -947,7 +966,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 376533,
       "name": "Nothing Owed",
       "url": "https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute"
@@ -969,6 +988,24 @@
       "duration_ms": 251173,
       "name": "On Your Marks",
       "url": "https://open.spotify.com/track/4SjvkRy0nVHd3oe7BkZ1u4"
+    },
+    {
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 232549,
+      "name": "Ontario",
+      "url": "https://open.spotify.com/track/4GroumsjzAcgCwJzTGY7px"
     },
     {
       "album": {
@@ -1085,7 +1122,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 78266,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/4cwDC2Yk2zqOp6NMX6v750"
@@ -1265,7 +1302,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 223720,
       "name": "Second Sun",
       "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"

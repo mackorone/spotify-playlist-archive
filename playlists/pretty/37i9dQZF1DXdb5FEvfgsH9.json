@@ -1,13 +1,57 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 11091,
+  "num_followers": 13382,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGEwNmJhMjg3ZjZjMjljMTFmMzMyZjJkNGJmMzJjMDQ0",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDBmOTRhM2Q3ZjRhZjY1MGIxOTllOWY0OTIxN2Y2Yjli",
   "tracks": [
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/1L2RchCutvV55ZIaBuAvBJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Ford",
+          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
+        },
+        {
+          "name": "Liselotte \u00d6stblom",
+          "url": "https://open.spotify.com/artist/6zLYvupkEsUlhsXj9sFSQd"
+        },
+        {
+          "name": "Adam Flowers",
+          "url": "https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq"
+        }
+      ],
+      "duration_ms": 270804,
+      "name": "1988",
+      "url": "https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "What U Want",
+        "url": "https://open.spotify.com/album/16l9UyWdSuNBbbaca9nPA9"
+      },
+      "artists": [
+        {
+          "name": "Mofak",
+          "url": "https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV"
+        },
+        {
+          "name": "Sally Green",
+          "url": "https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs"
+        }
+      ],
+      "duration_ms": 220344,
+      "name": "What U Want",
+      "url": "https://open.spotify.com/track/3AeYrDBrSlVJtDyxhiZMpg"
+    },
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
@@ -27,6 +71,38 @@
       "duration_ms": 347148,
       "name": "Spins - Lazywax Remix",
       "url": "https://open.spotify.com/track/1ursruYcl4mapRUkBMMXxz"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sting",
+        "url": "https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 186317,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/1gRWoklE6IT3eVP7mSlFwd"
+    },
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/0O2kvlAWECmb0FuiiX28WL"
+      },
+      "artists": [
+        {
+          "name": "Le Flex",
+          "url": "https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF"
+        }
+      ],
+      "duration_ms": 264444,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/4vJWPcqXGWihza1mp2uOEO"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -819,8 +895,8 @@
     {
       "added_at": "2021-07-26 17:42:45",
       "album": {
-        "name": "Music for Robots",
-        "url": "https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc"
+        "name": "Come on with the Good Thing",
+        "url": "https://open.spotify.com/album/0bL75fPbxNsM0gBQpYxM2F"
       },
       "artists": [
         {
@@ -830,7 +906,7 @@
       ],
       "duration_ms": 319932,
       "name": "Come on with the Good Thing",
-      "url": "https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB"
+      "url": "https://open.spotify.com/track/7z4eAMrP1KnLXdulAjER41"
     },
     {
       "added_at": "2021-07-26 17:42:45",
@@ -1359,8 +1435,8 @@
     {
       "added_at": "2021-07-26 17:42:45",
       "album": {
-        "name": "Music for Robots",
-        "url": "https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc"
+        "name": "The Night is Calling",
+        "url": "https://open.spotify.com/album/7qDTP6pmqRSZJ03Qd8McKM"
       },
       "artists": [
         {
@@ -1370,7 +1446,7 @@
       ],
       "duration_ms": 259512,
       "name": "The Night is Calling",
-      "url": "https://open.spotify.com/track/6YxowJOWcfl1dnjPlxVKZq"
+      "url": "https://open.spotify.com/track/2NDQYOxU5QDH9DQLEPFSY4"
     },
     {
       "added_at": "2021-07-26 17:42:45",

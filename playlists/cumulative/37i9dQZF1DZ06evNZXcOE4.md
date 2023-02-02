@@ -4,7 +4,7 @@
 
 > This is Jane's Addiction\. The essential tracks, all in one playlist.
 
-58 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/3WuJuTMYi6oilkx2gNA0Eb)
+58 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTGREYi2ti7.md) - [plain]
 
 > A heart\-pumping, bass\-filled DJ mix from <a href="spotify:artist:3UCbp6D1lvILlxRJT9LnFa">Koven</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,642 likes - 37 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,121 likes - 37 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
   "name": "60s Rock Anthems",
-  "published_playlist_ids": [
-    "1KKgS6q0sNGU7BWtq9lIZj"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222746,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
@@ -55,7 +52,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154200,
       "name": "A Hard Day's Night - Remastered 2009",
       "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
@@ -91,7 +88,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142480,
       "name": "All Day and All of the Night - 2014 Remastered Version",
       "url": "https://open.spotify.com/track/4rXSVEYOuJNicjAm3NiYK6"
@@ -217,7 +214,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 315200,
       "name": "Born On The Bayou",
       "url": "https://open.spotify.com/track/587bVBCHYW5Q2VNRLig4AS"
@@ -325,10 +322,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 131866,
       "name": "Can't Buy Me Love - Remastered 2009",
       "url": "https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw"
+    },
+    {
+      "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235826,
+      "name": "Care Of Cell 44",
+      "url": "https://open.spotify.com/track/1SnTzsiSyLSbdO0DHVIZOw"
     },
     {
       "album": {
@@ -379,7 +394,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "Crimson & Clover - Single Version",
       "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
@@ -505,7 +520,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 214640,
       "name": "Eight Miles High",
       "url": "https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k"
@@ -689,7 +704,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 150906,
       "name": "Good Lovin' - Single Version",
       "url": "https://open.spotify.com/track/0XnhQGfqfi5CnZXcONJuI5"
@@ -707,7 +722,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166106,
       "name": "Good Times Bad Times - Remaster",
       "url": "https://open.spotify.com/track/6sMGNw1E4q79DoAFGDCYuD"
@@ -797,7 +812,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 160400,
       "name": "Have Love Will Travel",
       "url": "https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs"
@@ -815,7 +830,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 147893,
       "name": "Heart Full of Soul",
       "url": "https://open.spotify.com/track/0AiuEo7FCxP2y2WTOpLPe5"
@@ -959,7 +974,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 252040,
       "name": "Hush - 2014 Remaster",
       "url": "https://open.spotify.com/track/3BaFLw5Tgx42RbedE9gd06"
@@ -1013,7 +1028,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 179173,
       "name": "I Had Too Much to Dream (Last Night)",
       "url": "https://open.spotify.com/track/5YgCmkSdGukXqK3fJlX4pQ"
@@ -1067,7 +1082,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 271786,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
@@ -1085,7 +1100,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 173946,
       "name": "I Saw Her Standing There - Remastered 2009",
       "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"
@@ -1204,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Small Faces - Deluxe Edition (2012 Remaster)",
+        "url": "https://open.spotify.com/album/2MhAWzEg3wdOLaLYgmpF0i"
+      },
+      "artists": [
+        {
+          "name": "Small Faces",
+          "url": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166680,
+      "name": "Itchycoo Park (Mono Version) - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5H0laZ62yDUPuKvHef8niK"
+    },
+    {
+      "album": {
         "name": "The Rolling Stones In Mono (Remastered 2016)",
         "url": "https://open.spotify.com/album/4ijOf1R7zXc6sBQY8NgBEA"
       },
@@ -1305,7 +1338,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 193293,
       "name": "Lodi",
       "url": "https://open.spotify.com/track/1Ay5MiilZj2ZGQLeTWVJ6o"
@@ -1413,7 +1446,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 131360,
       "name": "Needles and Pins - Mono",
       "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
@@ -1467,7 +1500,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 204480,
       "name": "Paint It, Black - Mono",
       "url": "https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL"
@@ -1575,7 +1608,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 185523,
       "name": "Psychotic Reaction",
       "url": "https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP"
@@ -1629,7 +1662,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274009,
       "name": "Ramble On - Remaster",
       "url": "https://open.spotify.com/track/4WTk7vle9ubGFvRUkaGUBd"
@@ -1647,7 +1680,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205293,
       "name": "Revolution - Remastered 2009",
       "url": "https://open.spotify.com/track/3UDmHZcBTQp8Iu8droNtUl"
@@ -1665,7 +1698,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 214880,
       "name": "River Deep - Mountain High",
       "url": "https://open.spotify.com/track/44BmNSqH9uZV5OfIjGcER3"
@@ -1773,7 +1806,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 482278,
       "name": "Slip Inside This House - Stereo LP Version",
       "url": "https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p"
@@ -1881,7 +1914,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-24",
+      "date_removed": null,
       "duration_ms": 226906,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/6iWaf45YIhj0YT8GFGxsw0"
@@ -2173,7 +2206,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 153760,
       "name": "The Twist",
       "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
@@ -2227,7 +2260,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189680,
       "name": "Ticket To Ride - Remastered 2009",
       "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
@@ -2245,7 +2278,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 290933,
       "name": "Time Has Come Today",
       "url": "https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm"
@@ -2497,7 +2530,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 166092,
       "name": "Wipe Out",
       "url": "https://open.spotify.com/track/4SDGb2V6J2rEbxNujwNeMl"

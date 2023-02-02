@@ -4,7 +4,7 @@
 
 > From across the globe\. New Songwriters on the horizon\. Cover: <a href="spotify:artist:2YqJwmohaNjg9lg51flSax"> Chiild.</a>
 
-33 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/5upgV173Zs7PqUDbnYxRRp)
+34 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [go \(feat\. Sam Smith\)](https://open.spotify.com/track/7kgNbYOyDZPzDVE89mLs1O) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:35 | 2022-07-22 |  |
 | [Headphones](https://open.spotify.com/track/04B64zIf89qyXyEoxFS3pH) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Gela](https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz) | 2:46 | 2022-07-22 |  |
 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-05-27 |  |
-| [I Like Me](https://open.spotify.com/track/1Z8d3f6vuedyPzrfPuA5Yl) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8) | 2:30 | 2022-05-27 |  |
+| [I Like Me](https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9) | 2:30 | 2022-05-27 |  |
+| [I Like Me](https://open.spotify.com/track/1Z8d3f6vuedyPzrfPuA5Yl) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8) | 2:30 | 2022-05-27 | 2022-12-01 |
 | [INSUPERABILE](https://open.spotify.com/track/3nNxdeQX9iFeuosMcFEeDd) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER](https://open.spotify.com/album/6et3LALeDMavQqtIn2AC3Z) | 2:52 | 2022-07-22 |  |
 | [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 | 2022-07-22 |  |
 | [Mala Manía](https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Mala Manía](https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs) | 3:23 | 2022-07-22 |  |

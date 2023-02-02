@@ -4,7 +4,7 @@
 
 > Celebrate 50 years of her iconic album, "Blue," alongside the very best songs of this songwriting icon.
 
-63 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/6kUJoFE6KwiZGsjdiZnea9)
+63 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

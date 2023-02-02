@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Indie folk ventures into the cinematic West.",
   "name": "Cinematic Indie Folk",
-  "published_playlist_ids": [
-    "2V1p4xykjAhFetkB4ZPv4j"
-  ],
   "tracks": [
     {
       "album": {
@@ -687,10 +684,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 209290,
       "name": "Devil's Girl",
       "url": "https://open.spotify.com/track/4bnnv2462H6doSlieJUhrP"
+    },
+    {
+      "album": {
+        "name": "Outlaws and Angels (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/14TZLEaVzCm5wnyjCJKLXi"
+      },
+      "artists": [
+        {
+          "name": "Overnight",
+          "url": "https://open.spotify.com/artist/2yZ4kTpcFbclCFyd31Oi1n"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209290,
+      "name": "Devil's Girl",
+      "url": "https://open.spotify.com/track/5rEYeXEDqlKDbjArQVIQt6"
     },
     {
       "album": {
@@ -2873,6 +2888,28 @@
       "duration_ms": 211999,
       "name": "With Roses",
       "url": "https://open.spotify.com/track/7mFndwzSz1tL9hQJe8VcoB"
+    },
+    {
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/06UQRgpwTeKNLS8Stuee28"
+      },
+      "artists": [
+        {
+          "name": "Storefront Church",
+          "url": "https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325443,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/0gffHnqikqMloBsK7KnTBP"
     },
     {
       "album": {

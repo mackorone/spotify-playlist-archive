@@ -4,7 +4,7 @@
 
 > The perfect classical side\-dish to some light chopping, stirring and seasoning.
 
-114 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/0qcGmeoFUYwrsRQwVNsJ5x)
+114 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

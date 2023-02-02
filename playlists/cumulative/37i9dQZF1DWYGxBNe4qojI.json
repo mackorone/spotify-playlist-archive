@@ -1,11 +1,30 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Where it all started. Cover: Mase",
+  "description": "Where it all started. Cover: 50 Cent",
   "name": "I Love My East Coast Classics",
-  "published_playlist_ids": [
-    "3itAObRKbEsL0P6iSCHXHF"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
+    },
     {
       "album": {
         "name": "Cam'ron...Harlem's Greatest",
@@ -613,7 +632,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 331133,
       "name": "Down A** B**ch",
       "url": "https://open.spotify.com/track/4Z69sHFf60gZbdgdd9sBBq"
@@ -729,7 +748,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-22",
+      "date_removed": "2023-02-01",
       "duration_ms": 203626,
       "name": "Feel so Good",
       "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
@@ -1025,7 +1044,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": "2023-02-01",
       "duration_ms": 241533,
       "name": "Horse & Carriage (feat. Mase)",
       "url": "https://open.spotify.com/track/2IwuXiEjBo1vlHluE0mxQV"
@@ -2122,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+    },
+    {
+      "album": {
         "name": "Whos The Man ? Soundtrack",
         "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
       },
@@ -2259,7 +2296,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 262826,
       "name": "Put It On Me",
       "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
@@ -2771,7 +2808,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 300200,
       "name": "Temperature's Rising (feat. Crystal Johnson)",
       "url": "https://open.spotify.com/track/0Y1wsOHYGbNNNGeYjQJ8BL"
@@ -3225,7 +3262,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 179466,
       "name": "What Up Gangsta",
       "url": "https://open.spotify.com/track/1CYyIsAaTrnmJ8MO2rec5f"
@@ -3273,7 +3310,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-21",
+      "date_removed": null,
       "duration_ms": 242946,
       "name": "What You Want (feat. Total)",
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
@@ -3331,7 +3368,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270066,
       "name": "Who Got Da Props",
       "url": "https://open.spotify.com/track/5CRM9TgBcwRbK3LyHUJhrQ"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-68 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/4xLS3kxb86h66ggrbBM0cE)
+71 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [ELASTIC](https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV) | [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj), [Prado Monroe](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq), [Slim Media Player](https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR) | [ELASTIC](https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO) | 3:39 | 2022-08-31 |  |
 | [Emo Club Anthem](https://open.spotify.com/track/2HFmykunjjYy1rru5Z0zvv) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 | 2022-08-31 |  |
 | [Gimme Dat](https://open.spotify.com/track/2v5eZAIW4MTEg8yEbAEB42) | [Lulu Be.](https://open.spotify.com/artist/2jM44QDqboAQRKbiIqHIoE) | [Gimme Dat](https://open.spotify.com/album/1YGtDYhozQoZASVBwaj5BY) | 2:37 | 2022-08-31 |  |
-| [Gimme Summn](https://open.spotify.com/track/7B9bHeFXnsWvRh2od5k3Kg) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [II](https://open.spotify.com/album/6bAD8hkcYj2bCFZg6CzhmC) | 3:47 | 2022-08-31 |  |
+| [Gimme Summn](https://open.spotify.com/track/0NuRxFaHPeG6pVRzM1TfT4) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [II](https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh) | 3:47 | 2022-08-31 |  |
+| [Gimme Summn](https://open.spotify.com/track/7B9bHeFXnsWvRh2od5k3Kg) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [II](https://open.spotify.com/album/6bAD8hkcYj2bCFZg6CzhmC) | 3:47 | 2022-08-31 | 2023-02-02 |
 | [Hi, I'm a Slut](https://open.spotify.com/track/2gFMgqvKcygf8CavNyR131) | [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx) | [Lil Mariko](https://open.spotify.com/album/4FA6S8h3E3bCiLApDDPZzb) | 2:50 | 2022-08-31 |  |
 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 | 2022-08-31 |  |
 | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA) | 2:37 | 2022-08-31 |  |
@@ -44,7 +45,8 @@
 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 | 2022-08-31 |  |
 | [Loca People \- Radio Edit](https://open.spotify.com/track/6lZs6TqQVWx98cdjkOkG9i) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Loca People](https://open.spotify.com/album/3VVn2hMgvryDngC1B4dZsj) | 3:35 | 2022-08-31 |  |
 | [Loca People \- Radio Edit \[Clean Version\]](https://open.spotify.com/track/76IYpZOyiSikk1nD0IbVkz) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Loca People](https://open.spotify.com/album/3VVn2hMgvryDngC1B4dZsj) | 3:35 | 2022-08-31 | 2022-11-13 |
-| [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2022-08-31 |  |
+| [Look](https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/47QcF8U1SLWFGCqU2pmRxJ) | 2:48 | 2022-08-31 |  |
+| [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2022-08-31 | 2023-02-02 |
 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 | 2022-08-31 |  |
 | [METAL](https://open.spotify.com/track/1duflsY5auKbBr9nULEp6f) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [METAL](https://open.spotify.com/album/64QF1vC6FaWjFn3Tj9nFNN) | 3:20 | 2022-08-31 | 2022-11-13 |
 | [METAL](https://open.spotify.com/track/4hIg0iMpVYES8yptTj7Y5I) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CHEETAH BEND](https://open.spotify.com/album/1gr8k1Sxe6umDlEMNgTGuI) | 3:20 | 2022-08-31 |  |
@@ -68,7 +70,8 @@
 | [Techno](https://open.spotify.com/track/2c3I3ew3iJ4xgiMQ7fA8Qf) | [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Techno](https://open.spotify.com/album/0mjxsK2Ha4QWEmPNhfZ0jk) | 3:45 | 2022-08-31 |  |
 | [THAT](https://open.spotify.com/track/6yGxfjVzv3u3b85FuUSJaN) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [JACKIE EXTREME](https://open.spotify.com/album/0Mn2OXVX6vGMWkqJWVoZuP) | 2:12 | 2022-08-31 |  |
 | [That's Hot](https://open.spotify.com/track/59rSJ0EPaqUFyGu0rpjrlF) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [That's Hot](https://open.spotify.com/album/33Gn0WONvLLLwgdf1zH2LW) | 2:07 | 2022-08-31 | 2022-10-23 |
-| [That's Hot](https://open.spotify.com/track/1Cli0gQaSe0NVWEHAyOBIH) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat) | [That's Hot](https://open.spotify.com/album/0qD5tOnKT5sfK0FlIuS7ke) | 2:07 | 2022-08-31 |  |
+| [That's Hot](https://open.spotify.com/track/1Cli0gQaSe0NVWEHAyOBIH) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat) | [That's Hot](https://open.spotify.com/album/0qD5tOnKT5sfK0FlIuS7ke) | 2:07 | 2022-08-31 | 2023-02-01 |
+| [That's Hot](https://open.spotify.com/track/44D5QNNRr52gU8MBzfLMsc) | [lovfxsl](https://open.spotify.com/artist/3oWWv5DwX1tmoxVfE31LyX) | [That's Hot](https://open.spotify.com/album/6XO4jqE1A8NpscZrVbzViD) | 2:07 | 2022-08-31 |  |
 | [Tired and Sick](https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5) | 2:52 | 2022-08-31 |  |
 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2022-08-31 |  |
 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 | 2022-08-31 |  |

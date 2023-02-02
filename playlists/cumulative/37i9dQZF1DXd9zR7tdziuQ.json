@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-11-13",
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
   "name": "Hits ac\u00fasticos",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -725,7 +724,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 192542,
       "name": "Give Me Everything",
       "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
@@ -1573,6 +1572,28 @@
       "duration_ms": 259569,
       "name": "No One - Acoustic",
       "url": "https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP"
+    },
+    {
+      "album": {
+        "name": "On the Road Again",
+        "url": "https://open.spotify.com/album/07QIJ8zAWHMOKVAutNHsww"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139306,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/034SnPlw5DF1Eg0hOcMNXl"
     },
     {
       "album": {
@@ -2787,6 +2808,24 @@
       "duration_ms": 157868,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
+    },
+    {
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/6swbkdvrS8P0uq03AcFQiJ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 192013,
+      "name": "You're The One That I Want",
+      "url": "https://open.spotify.com/track/2GcCFSXhiEkIya9tcAdk2M"
     },
     {
       "album": {

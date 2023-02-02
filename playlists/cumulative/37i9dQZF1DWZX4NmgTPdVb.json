@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "The songs of the 1970s that will make you dance all summer long!",
   "name": "Summer Hits of the 70s",
-  "published_playlist_ids": [
-    "3YR5avjYTFDFs7YnoFEh00"
-  ],
   "tracks": [
     {
       "album": {
@@ -343,7 +340,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 237893,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4"
@@ -545,7 +542,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 208600,
       "name": "Daddy Cool",
       "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
@@ -725,7 +722,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-11-28",
       "duration_ms": 282693,
       "name": "Fly Like An Eagle",
       "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
@@ -833,7 +830,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-29",
       "duration_ms": 207306,
       "name": "Grease - 2007 Remaster",
       "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
@@ -855,7 +852,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-02-01",
       "duration_ms": 172866,
       "name": "Hooked On A Feeling",
       "url": "https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"
@@ -1309,7 +1306,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 198466,
       "name": "Love Her Madly",
       "url": "https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN"
@@ -1741,7 +1738,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-22",
       "duration_ms": 202573,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
@@ -2177,7 +2174,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 289893,
       "name": "Takin' Care Of Business",
       "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
@@ -2303,7 +2300,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": "2023-01-13",
       "duration_ms": 228326,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
@@ -2491,10 +2488,32 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
+    },
+    {
+      "album": {
+        "name": "Olivia's Greatest Hits (Vol. 2 / Deluxe Edition / Remastered)",
+        "url": "https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170485,
+      "name": "You're The One That I Want - Remastered 2022",
+      "url": "https://open.spotify.com/track/4sX1ehtL58WodjOP9bKZ18"
     },
     {
       "album": {

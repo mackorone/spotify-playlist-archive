@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Digging deep into the history of 10s pop. Cover: Ellie Goulding.",
   "name": "Deep Dive: 10s Pop",
-  "published_playlist_ids": [
-    "4jFBFoNSnmjtPM7QWXc7vG"
-  ],
   "tracks": [
     {
       "album": {
@@ -219,7 +216,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 278746,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
@@ -303,6 +300,28 @@
     {
       "album": {
         "name": "Aftergold",
+        "url": "https://open.spotify.com/album/56fTcEqPNKUoZOeP708zfI"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191007,
+      "name": "Aftergold",
+      "url": "https://open.spotify.com/track/4IL7XG68Hh95OORQSequaq"
+    },
+    {
+      "album": {
+        "name": "Aftergold",
         "url": "https://open.spotify.com/album/5yZcimhwF8JUD9Hr0OsZza"
       },
       "artists": [
@@ -343,28 +362,6 @@
       "duration_ms": 191007,
       "name": "Aftergold (feat. Tove Styrke)",
       "url": "https://open.spotify.com/track/2hDp4O9OmxrJn4stQbzdMN"
-    },
-    {
-      "album": {
-        "name": "Aftergold",
-        "url": "https://open.spotify.com/album/56fTcEqPNKUoZOeP708zfI"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "date_added": "2022-05-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191007,
-      "name": "Aftergold (feat. Tove Styrke)",
-      "url": "https://open.spotify.com/track/4IL7XG68Hh95OORQSequaq"
     },
     {
       "album": {
@@ -1307,6 +1304,24 @@
       "duration_ms": 300253,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T"
+    },
+    {
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "album": {
@@ -2329,7 +2344,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 245506,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
@@ -4695,7 +4710,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 256079,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/0yICN9QFclohtq33HSmFwZ"
@@ -4721,6 +4736,28 @@
       "duration_ms": 256226,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2F3kAASEmMtJevyYoERBPa"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256226,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/6GREIx79VAYuT0DYDGTIJh"
     },
     {
       "album": {
@@ -6633,7 +6670,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 232675,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2BSFAQuiYKu4VcMjovRgRQ"
@@ -7169,7 +7206,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 140693,
       "name": "make up",
       "url": "https://open.spotify.com/track/27356GVuMPFWiJSZCragoM"
@@ -7380,6 +7417,24 @@
     },
     {
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218396,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/6aGwF9D2BqmcSzF0JpfzJu"
+    },
+    {
+      "album": {
         "name": "This Is What The Truth Feels Like",
         "url": "https://open.spotify.com/album/5K4QKGKXZWNhjQiGOzkKLb"
       },
@@ -7445,7 +7500,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 197546,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tqsFRjUHZ89bMEOAk3lUl"
@@ -7467,6 +7522,24 @@
       "duration_ms": 197546,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/6IQhhYtJ0U1Zhs76pSMHJO"
+    },
+    {
+      "album": {
+        "name": "Dear Happy",
+        "url": "https://open.spotify.com/album/4SJhZ7mHwIGYPsOwKjYNLt"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197546,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/7bJ9LsbiWySCjsKltAP7x5"
     },
     {
       "album": {
@@ -7949,7 +8022,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -8783,7 +8856,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 181173,
       "name": "Only Teardrops",
       "url": "https://open.spotify.com/track/269y1Vw3O0C9uI3drXpfo9"
@@ -8801,7 +8874,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183240,
       "name": "Only Teardrops",
       "url": "https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu"
@@ -12947,7 +13020,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/3hgl7EQwTutSm6PESsB7gZ"

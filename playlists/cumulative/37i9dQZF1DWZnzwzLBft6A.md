@@ -4,7 +4,7 @@
 
 > He perfected counterpoint, set the bar for cello suites, and absolutely loved a curly white wig: JS Bach played a huge part in shaping all the classical music we enjoy today\. Discover why, right here.
 
-125 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/3hny7LkwQ9IbreqN2pjDTn)
+125 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

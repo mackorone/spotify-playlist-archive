@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,996 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,747 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 20 | [Turn Me On](https://open.spotify.com/track/0BBOLOV5JntPL3341swIre) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Kevin Lyttle \(US Domestic Release\)](https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw) | 3:12 |
 | 21 | [Small Axe](https://open.spotify.com/track/7gYWCaKeuAJKhGiauRrFsj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [I Am The Upsetter \- The Story Of The Lee "Scratch" Perry Golden Years](https://open.spotify.com/album/77e2HqGY8NQZCTLbC3q61n) | 3:54 |
 | 22 | [Animal \- Mark Ronson Remix](https://open.spotify.com/track/1jsdtlKxAPYSVKwqsIJGLb) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Animal Remixes](https://open.spotify.com/album/1QR3ok2BgBhCicv4DQOhuH) | 4:31 |
-| 23 | [Bonafide Love \(feat\. Wayne Wonder\)](https://open.spotify.com/track/5J4u57jUykQJSTzHeCgRYH) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [Total Reggae: Summer Hits](https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4) | 3:47 |
+| 23 | [Bonafide Love \(feat\. Wayne Wonder\)](https://open.spotify.com/track/5J4u57jUykQJSTzHeCgRYH) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [Total Reggae: Summer Hits](https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4) | 3:06 |
 | 24 | [Golddigger](https://open.spotify.com/track/2dvHq6NLk7ZWux7QZeJKoL) | [Randy Valentine](https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1) | [Break the Chain](https://open.spotify.com/album/6DMdoqZttHBy4VC80Kr3Yz) | 2:40 |
 | 25 | [Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 3:33 |
 | 26 | [Money a Di Right Ting](https://open.spotify.com/track/4Xna2E9f0QEDNUgnNZI3nk) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Wild West Riddim](https://open.spotify.com/album/5niFrijxxdS1xylowyprDP) | 2:39 |

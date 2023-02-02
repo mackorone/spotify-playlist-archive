@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-05",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ\">Lucas Kastrup</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Lucas Kastrup",
-  "published_playlist_ids": [
-    "7mfwOKoChUftm0dzhlMWOc"
-  ],
   "tracks": [
     {
       "album": {
@@ -285,10 +282,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-05",
       "duration_ms": 180722,
       "name": "Fio da F\u00e9",
       "url": "https://open.spotify.com/track/0azZ6YyIM3cwmCMn0sgEmF"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo No Rep\u00fablica do Reggae",
+        "url": "https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195985,
+      "name": "Fio da F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FDJcbATfIrRFYVfGncD1Y"
     },
     {
       "album": {
@@ -405,6 +420,28 @@
       "duration_ms": 178954,
       "name": "Love Is Freedom",
       "url": "https://open.spotify.com/track/6p9cYLrniQ4pAZ56OIhMyD"
+    },
+    {
+      "album": {
+        "name": "Martim de S\u00e1",
+        "url": "https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237328,
+      "name": "Martim de S\u00e1",
+      "url": "https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp"
     },
     {
       "album": {
@@ -661,10 +698,6 @@
       },
       "artists": [
         {
-          "name": "Lucas Serra",
-          "url": "https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL"
-        },
-        {
           "name": "Lucas Kastrup",
           "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
         },
@@ -730,10 +763,6 @@
         "url": "https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC"
       },
       "artists": [
-        {
-          "name": "Lucas Serra",
-          "url": "https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL"
-        },
         {
           "name": "Lucas Kastrup",
           "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
@@ -827,12 +856,12 @@
       },
       "artists": [
         {
-          "name": "Lucas Serra",
-          "url": "https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL"
-        },
-        {
           "name": "Lucas Kastrup",
           "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        },
+        {
+          "name": "Lucas Serra",
+          "url": "https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL"
         }
       ],
       "date_added": "2022-06-04",

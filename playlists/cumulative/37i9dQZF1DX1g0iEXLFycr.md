@@ -4,7 +4,7 @@
 
 > Uplifting anthems to power you through 'til the weekend.
 
-469 songs - 1 day 4 hr 19 min - [published](https://open.spotify.com/playlist/2tFotzrzPUxGRiBA9Ot6cF)
+471 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2020-02-18 |  |
 | [American Boy \(feat\. Kanye West\)](https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic) | 4:44 | 2019-08-08 | 2019-08-10 |
 | [Anywhere](https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Anywhere](https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO) | 3:25 | 2019-07-29\* |  |
-| [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 | 2019-07-29\* |  |
+| [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 | 2019-07-29\* | 2022-12-02 |
+| [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml) | 3:32 | 2020-08-27 |  |
 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 | 2019-07-29\* | 2020-02-18 |
 | [Bad Liar](https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Bad Liar](https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr) | 3:34 | 2019-08-08 | 2019-08-09 |
 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 | 2019-08-05 | 2019-08-10 |
@@ -224,9 +225,10 @@
 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2019-08-06 | 2019-08-08 |
 | [IDGAF](https://open.spotify.com/track/5fHNot2sHBsTUMqaGQlksX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/4btGe14gIJmTxbcPAQBtqb) | 3:38 | 2019-07-29\* | 2019-08-10 |
 | [If You're Over Me](https://open.spotify.com/track/1oc3jna2ablnfIKLYbKujl) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/50ztaMltoS9mN9fm8R3zcW) | 3:09 | 2019-07-29\* | 2020-02-18 |
+| [Inner Smile](https://open.spotify.com/track/0yvDNlMoafoHNR9M5LIOGJ) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Greatest Hits](https://open.spotify.com/album/2pcI0ixfcCz1eUUxbYO69n) | 3:50 | 2020-08-27 |  |
 | [Inner Smile](https://open.spotify.com/track/2vbT6Z2ba7cqk4U2CGtOV9) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Crowd Pleasers](https://open.spotify.com/album/3BqbDAKBHbtZCaJkXLxdco) | 3:50 | 2020-08-27 | 2022-11-13 |
 | [Inner Smile](https://open.spotify.com/track/6i3kIF4sosXFhkoSLMV7bP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Greatest Hits](https://open.spotify.com/album/6pM8nZgJqCrdBGLzjkBey0) | 3:50 | 2020-02-18 | 2022-07-29 |
-| [Inner Smile](https://open.spotify.com/track/7zTbBG1yo6VUHbcqT2pAke) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Greatest Hits](https://open.spotify.com/album/0NP65tx92g74w3VMwcTodj) | 3:50 | 2020-08-27 |  |
+| [Inner Smile](https://open.spotify.com/track/7zTbBG1yo6VUHbcqT2pAke) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Greatest Hits](https://open.spotify.com/album/0NP65tx92g74w3VMwcTodj) | 3:50 | 2020-08-27 | 2023-01-29 |
 | [Into You](https://open.spotify.com/track/2meEiZKWkiN28gITzFwQo5) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) | 4:04 | 2019-08-05 | 2019-08-08 |
 | [Intoxicated \- Radio Edit](https://open.spotify.com/track/5ZKqR1beprJ3wa6wGUwTWH) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Intoxicated \(Radio Edit\)](https://open.spotify.com/album/6Xc1wHzennkfpGs7c5ZDUr) | 2:40 | 2019-08-05 | 2019-08-08 |
 | [Is Your Love Big Enough?](https://open.spotify.com/track/7aFuPs8JxjcfrIQ0vI1raA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Is Your Love Big Enough?](https://open.spotify.com/album/5DpQnQQTsUjVLeQoC4TeoG) | 3:21 | 2020-03-03 | 2020-05-29 |

@@ -4,7 +4,7 @@
 
 > Imaginative\. Inventive\. Ingenius\. Influential\. Here are the Beatles at their most experimental; changing and shaping the face of music forever.
 
-86 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/6SvDhFi2mB8MGU0H2foVhX)
+86 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Big bands, big sounds.",
   "name": "Big Band",
-  "published_playlist_ids": [
-    "3540LvahXVa3DfJ3k1sJDB"
-  ],
   "tracks": [
     {
       "album": {
@@ -237,7 +234,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-20",
       "duration_ms": 300845,
       "name": "Brother J",
       "url": "https://open.spotify.com/track/0VyvxWyE0bYQxLu98XXJFk"
@@ -295,7 +292,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-24",
       "duration_ms": 565293,
       "name": "Echelon",
       "url": "https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC"
@@ -463,7 +460,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 297373,
       "name": "I Didn\u00b4t Tell Them Why",
       "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
@@ -643,7 +640,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203773,
-      "name": "It's Been a Long, Long Time (with Harry James & His Orchestra) - Alternate Take",
+      "name": "It's Been a Long, Long Time (with Harry James & His Orchestra)",
       "url": "https://open.spotify.com/track/52XDumqYDUXX16R7FM5fpV"
     },
     {
@@ -1211,7 +1208,7 @@
           "url": "https://open.spotify.com/artist/2lgEU996kHhYBlo10vh59G"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148166,
@@ -1293,6 +1290,24 @@
       "duration_ms": 378446,
       "name": "Whisper Not",
       "url": "https://open.spotify.com/track/39ynmEVUN9mdJYSTNljE98"
+    },
+    {
+      "album": {
+        "name": "1967",
+        "url": "https://open.spotify.com/album/1zfcftE8MWUffLvReEkuvK"
+      },
+      "artists": [
+        {
+          "name": "Maynard Ferguson Orchestra",
+          "url": "https://open.spotify.com/artist/5zKY2J7SS55XcV2NFb7rPD"
+        }
+      ],
+      "date_added": "2020-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 378466,
+      "name": "Whisper Not",
+      "url": "https://open.spotify.com/track/6chc0hinq5KuAhQhML22Hv"
     },
     {
       "album": {

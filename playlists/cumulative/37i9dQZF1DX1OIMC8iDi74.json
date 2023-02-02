@@ -2,10 +2,25 @@
   "date_first_scraped": "2021-12-21",
   "description": "The best of electronic trap. Cover: RL Grime",
   "name": "Trap Mojito",
-  "published_playlist_ids": [
-    "6tpQ5fWn7pR2a6KV8Us5hN"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Act Like You Know",
+        "url": "https://open.spotify.com/album/3iaRAgVVvXiLaIXpfkPrtj"
+      },
+      "artists": [
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Act Like You Know",
+      "url": "https://open.spotify.com/track/0WEnWvpmtWqDCuuoxCMH5x"
+    },
     {
       "album": {
         "name": "Active",
@@ -579,7 +594,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 161147,
       "name": "Buck",
       "url": "https://open.spotify.com/track/4eydbGI5QpRXs0Tua5m2c1"
@@ -811,6 +826,32 @@
       "duration_ms": 155662,
       "name": "CRUISE N CRASH - Litek & RNDM Beats Refix Edition",
       "url": "https://open.spotify.com/track/49MzTVgUcivXDmSQyDbutH"
+    },
+    {
+      "album": {
+        "name": "Dale Vuelta",
+        "url": "https://open.spotify.com/album/0qZEnwW3OQTuTqUVQI8ABD"
+      },
+      "artists": [
+        {
+          "name": "Dabow",
+          "url": "https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X"
+        },
+        {
+          "name": "jordnmoody",
+          "url": "https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU"
+        },
+        {
+          "name": "episcool",
+          "url": "https://open.spotify.com/artist/3KhrVd40DJwuzH8uPASUu4"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 180000,
+      "name": "Dale Vuelta",
+      "url": "https://open.spotify.com/track/40tEZ9JmmfpwMUvG2DYgje"
     },
     {
       "album": {
@@ -1107,7 +1148,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 158211,
       "name": "enough",
       "url": "https://open.spotify.com/track/4uoVYbhitSNdQoqnJneYTg"
@@ -1687,7 +1728,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 270422,
       "name": "GOD (MUSIC)",
       "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
@@ -2339,7 +2380,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 153600,
       "name": "It's Our Destiny",
       "url": "https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm"
@@ -2453,6 +2494,24 @@
       "duration_ms": 154887,
       "name": "Kings",
       "url": "https://open.spotify.com/track/6X38QEOERzDXI5HPvwAJw7"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201857,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad"
     },
     {
       "album": {
@@ -2823,7 +2882,7 @@
           "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
         },
         {
-          "name": "Lucii",
+          "name": "Luci",
           "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
         }
       ],
@@ -2851,7 +2910,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-15",
       "duration_ms": 121681,
       "name": "MINDDD",
       "url": "https://open.spotify.com/track/0nSP6p4IfCI6vIy2KJy13m"
@@ -3123,7 +3182,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 178285,
       "name": "No Chill",
       "url": "https://open.spotify.com/track/46VgwcEKnjPCcSEsJ5fWY2"
@@ -3364,6 +3423,28 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/3gyyIawbIKykMMi5QGBPMA"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        },
+        {
+          "name": "Heimanu",
+          "url": "https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258206,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/60uzexsEyISDzri9vDavIT"
+    },
+    {
+      "album": {
         "name": "Out of Order",
         "url": "https://open.spotify.com/album/7BeR8ZtYmNBBXfG783V9VM"
       },
@@ -3561,7 +3642,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 121007,
       "name": "Red Ish",
       "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
@@ -3755,7 +3836,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-29",
       "duration_ms": 192000,
       "name": "Sad B*tch (Tisoki Remix)",
       "url": "https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG"
@@ -4563,7 +4644,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": "2023-02-02",
       "duration_ms": 189184,
       "name": "TRIBAL HIT",
       "url": "https://open.spotify.com/track/38baA0WZfWLpm3lyyr3IIs"
@@ -4589,7 +4670,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 217000,
       "name": "Tums",
       "url": "https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy"

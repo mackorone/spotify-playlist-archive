@@ -4,7 +4,7 @@
 
 > The man, the myth, the legend.
 
-74 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/1CQ0m2CBS7zoz1ee5Cp2aI)
+74 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best music for just chilling.
 
-109 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/3Qa0VHfwyUK3QwocBQxjbt)
+109 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

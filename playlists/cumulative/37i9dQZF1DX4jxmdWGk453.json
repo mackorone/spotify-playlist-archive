@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "All your favourite Christmas carols sung for you by a vocal ensemble.",
   "name": "Christmas Carols",
-  "published_playlist_ids": [
-    "53jXBm1qBD5ykfWKmQYFAY"
-  ],
   "tracks": [
     {
       "album": {
@@ -450,6 +447,40 @@
     },
     {
       "album": {
+        "name": "Christmas Carols",
+        "url": "https://open.spotify.com/album/2VjrGKb7neODxFYw7tSvcb"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Adrian Kelly",
+          "url": "https://open.spotify.com/artist/5qFer5YrNFu3NcbX5N27SL"
+        },
+        {
+          "name": "Edward Moore",
+          "url": "https://open.spotify.com/artist/6Ycztrh5GfDYceHUto1MuC"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96306,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/56KH9vjFzJrlESZ8pjtdE9"
+    },
+    {
+      "album": {
         "name": "I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/5ml3IWHPa2eim1Gy6AxyG3"
       },
@@ -685,10 +716,40 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 326880,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/11L4qicJIXU1fFok7jrbhg"
+    },
+    {
+      "album": {
+        "name": "Traditional Christmas Carols from King's",
+        "url": "https://open.spotify.com/album/06TFqiqAmyntbp0tawEDfY"
+      },
+      "artists": [
+        {
+          "name": "Adolphe Adam",
+          "url": "https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        {
+          "name": "Henry Websdale",
+          "url": "https://open.spotify.com/artist/4I8Y8ZSxTlLzYBrQZwPS9Q"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338346,
+      "name": "O Holy Night (Arr. John Rutter)",
+      "url": "https://open.spotify.com/track/0yWpE5Yq1n5qdAwZH1zi89"
     },
     {
       "album": {
@@ -707,6 +768,24 @@
       "duration_ms": 270751,
       "name": "O Holy Night - Acapella",
       "url": "https://open.spotify.com/track/4h3DVUQyLeA4g6RaCkGaD6"
+    },
+    {
+      "album": {
+        "name": "Greatest Ever Carols Collection - The Very Best Christmas Carols & Traditional Xmas Hymns & Songs",
+        "url": "https://open.spotify.com/album/0PnQBcphxjwzMJPgWIDf7S"
+      },
+      "artists": [
+        {
+          "name": "Queens College Ensemble Choir",
+          "url": "https://open.spotify.com/artist/5aJwvJRhJtJW4qWIS67xgQ"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152425,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/45m8293Fld4dW9MylEPmkd"
     },
     {
       "album": {
@@ -739,7 +818,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 150613,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/4nxbzZce8zaZHR5NO5CGsf"
@@ -890,6 +969,32 @@
     },
     {
       "album": {
+        "name": "A Winter's Light: A Christmas Collection",
+        "url": "https://open.spotify.com/album/5Mdv6Guj9j0nOqDGPV4KN4"
+      },
+      "artists": [
+        {
+          "name": "Cecil Armstrong Gibbs",
+          "url": "https://open.spotify.com/artist/5hrypd0adAHTj2JSBs2CvU"
+        },
+        {
+          "name": "Vasari Singers",
+          "url": "https://open.spotify.com/artist/2QInYkK0ys9Uj6aa0n8XFx"
+        },
+        {
+          "name": "Jeremy Backhouse",
+          "url": "https://open.spotify.com/artist/53briF9i45bOTMyBWWkmzy"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144986,
+      "name": "The Stable Door",
+      "url": "https://open.spotify.com/track/0AkU2CTTrrLxTWqhzCdfkO"
+    },
+    {
+      "album": {
         "name": "Carols From Cambridge: The Very Best Sacred Christmas Carols",
         "url": "https://open.spotify.com/album/0J5mxoyU8lNsqPmepDLvmu"
       },
@@ -927,6 +1032,32 @@
       "duration_ms": 216480,
       "name": "The Twelve Days of Christmas",
       "url": "https://open.spotify.com/track/3AUIIqiM46wZTA7kxmeRPq"
+    },
+    {
+      "album": {
+        "name": "Christmas At King's",
+        "url": "https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Philip Ledger",
+          "url": "https://open.spotify.com/artist/66xtCjvWWjyvuD96T7uMXc"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158493,
+      "name": "Traditional / Arr. Ledger: Angels from the Realms of Glory",
+      "url": "https://open.spotify.com/track/2oP2CNXLq2MwZ1VTI75e7V"
     },
     {
       "album": {

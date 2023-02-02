@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-52 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/60sBZKdSV24vK9LIntjawF)
+54 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,9 @@
 | [Ok Ok pt 2](https://open.spotify.com/track/5ad5uryyzVWs95bK3myGkw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:24 | 2022-10-01 |  |
 | [On Go \(feat\. Polo G\)](https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [On Go \(feat\. Polo G\)](https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z) | 3:00 | 2022-10-01 |  |
 | [Outside \(Better Days\)](https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Outside \(Better Days\)](https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI) | 3:35 | 2022-10-01 |  |
-| [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 | 2022-10-01 |  |
+| [Over the Top](https://open.spotify.com/track/6dnfxKKuZoPzV2SFjbMS5S) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [808 Bangers](https://open.spotify.com/album/7MASRGI1ZS1AiuwGAWslHs) | 2:33 | 2022-10-01 | 2023-01-03 |
+| [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Buy or Bye 2](https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF) | 2:33 | 2022-10-01 |  |
+| [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 | 2022-10-01 | 2023-01-01 |
 | [Relentless \(feat\. Lil Durk\)](https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1) | [Booka600](https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Relentless \(feat\. Lil Durk\)](https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu) | 3:26 | 2022-10-01 |  |
 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 | 2022-10-01 |  |
 | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT) | 3:51 | 2022-10-01 |  |

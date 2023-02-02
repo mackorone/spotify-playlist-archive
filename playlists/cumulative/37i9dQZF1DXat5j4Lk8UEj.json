@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
   "name": "Folk Rock Favorites",
-  "published_playlist_ids": [
-    "3TIa5auBD6glGxwEhYFQcx"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 202146,
       "name": "Ain\u2019t Lookin\u2019",
       "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
@@ -491,7 +488,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 228720,
       "name": "Complex",
       "url": "https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh"
@@ -855,6 +852,24 @@
       "duration_ms": 257826,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/52Ckvs2feGZc9GI77kBfWq"
+    },
+    {
+      "album": {
+        "name": "False Names",
+        "url": "https://open.spotify.com/album/3Kkl2vgUyemvMLo57qF5SX"
+      },
+      "artists": [
+        {
+          "name": "John Joseph Brill",
+          "url": "https://open.spotify.com/artist/6q5toimiubECVRWlZSJEUi"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 241773,
+      "name": "False Names",
+      "url": "https://open.spotify.com/track/3bx4cm6DijL3kzNVo58d1j"
     },
     {
       "album": {
@@ -1691,7 +1706,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 272346,
       "name": "Jazz on the Autobahn",
       "url": "https://open.spotify.com/track/39FTmyyxXFvK7yXyyuW9ja"
@@ -2285,7 +2300,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 196160,
       "name": "Old Sob Story",
       "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"

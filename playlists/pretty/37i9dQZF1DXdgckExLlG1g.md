@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,957 likes - 75 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,283 likes - 75 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 25 | [Sing \(feat\. Russell Dickerson, Florida Georgia Line\)](https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:46 |
 | 26 | [Nobody \(feat\. Matthew West\)](https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 3:26 |
 | 27 | [Another In The Fire \- Live](https://open.spotify.com/track/33zmnhKQpbGq73yKcLP9El) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [People \(Live\)](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg) | 6:33 |
-| 28 | [Build My Life](https://open.spotify.com/track/3BDpn2Vivr1BFhlGsYs5tp) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/1Dm5rDVBBeLLjqfzBkuadR) | 8:11 |
+| 28 | [Build My Life](https://open.spotify.com/track/0QatL1szZzMTAfZoJKWo0s) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Housefires III](https://open.spotify.com/album/4HCgEprGQ9xJdc80TF4fov) | 8:11 |
 | 29 | [Whole Heart \(Hold Me Now\) \- Live](https://open.spotify.com/track/54R96NOT7fbYVTv8nyDSeU) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg) | 7:29 |
 | 30 | [Drown](https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Drown](https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ) | 3:20 |
 | 31 | [Who Am I](https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 74 | [God Who Listens \(feat\. Thomas Rhett\)](https://open.spotify.com/track/0qIx8dthnBVdqP0F7Pl8AG) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 4:09 |
 | 75 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:02 |
 
-Snapshot ID: `MTU5NzQyNzYzMCwwMDAwMDAwMGU5N2I0Y2QxN2M5MzYyMWRhNGQ5OTM4MGUyNjY4Y2My`
+Snapshot ID: `MTU5NzQyNzYzMCwwMDAwMDAwMGMwNjRkODY5ZmZlOWE5ZDBjNGIyZWNhNDA0ZDNkNGE2`

@@ -4,7 +4,7 @@
 
 > Tara and Darcy's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-45 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/6d7H8OSBH8fG3M2LQf6pmR)
+45 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

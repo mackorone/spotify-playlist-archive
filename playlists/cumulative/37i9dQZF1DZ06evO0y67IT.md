@@ -4,11 +4,11 @@
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 52 min - not published yet
+52 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [8](https://open.spotify.com/track/45iu2YJlNayNlBaJjZWJ2z) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:08 | 2022-10-25 |  |
+| [8](https://open.spotify.com/track/45iu2YJlNayNlBaJjZWJ2z) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:08 | 2022-10-25 | 2022-12-27 |
 | [Bad Frequencies](https://open.spotify.com/track/29v2Qn7tZmePBZQ6J4OwNt) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 2:49 | 2022-10-25 |  |
 | [Blue Burns Orange](https://open.spotify.com/track/5w2Y1wj3QU8jHNj3WLei02) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 3:19 | 2022-10-25 |  |
 | [Bring You Back](https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:22 | 2022-10-25 |  |
@@ -28,6 +28,7 @@
 | [Hate](https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:43 | 2022-10-25 |  |
 | [Hollywood & Vine](https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:46 | 2022-10-25 |  |
 | [Holy Coast](https://open.spotify.com/track/2NsP4tsec1tjWENKlbDqtg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:42 | 2022-10-25 |  |
+| [Hurt](https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:36 | 2023-01-02 |  |
 | [Inside Out](https://open.spotify.com/track/2g3HARlhrIwTiVvfRWOkSb) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dead Formats, Vol\. 1](https://open.spotify.com/album/6a5P9JdN8QpJr1TuK3JPSn) | 3:25 | 2022-10-25 |  |
 | [Just Another Ghost](https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:05 | 2022-10-25 |  |
 | [Life On Standby](https://open.spotify.com/track/0Cp4EGSI11ePgUD3qpt5Nn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:11 | 2022-10-25 |  |
@@ -35,7 +36,7 @@
 | [Niki Fm](https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 3:59 | 2022-10-25 |  |
 | [Oceans](https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 4:26 | 2022-10-25 |  |
 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 | 2022-10-25 |  |
-| [Ohio Is For Lovers \- Lo\-Fi](https://open.spotify.com/track/68kuwYK3mdn415abKKiISa) | [Less Gravity](https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Ohio is for Lovers \(Lo\-Fi\)](https://open.spotify.com/album/0KRDlxHUmKfQRWqSiV0SAw) | 2:54 | 2022-10-25 |  |
+| [Ohio Is For Lovers \- Lofi](https://open.spotify.com/track/68kuwYK3mdn415abKKiISa) | [Less Gravity](https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Ohio is for Lovers \(Lofi\)](https://open.spotify.com/album/0KRDlxHUmKfQRWqSiV0SAw) | 2:54 | 2022-10-25 |  |
 | [Pens And Needles](https://open.spotify.com/track/58kxWzZNk5RftBK6kqiRJm) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:15 | 2022-10-25 |  |
 | [Pet Sematary](https://open.spotify.com/track/1QpkEgTC3ySEhwM3wULOsM) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 3:37 | 2022-10-25 |  |
 | [Push Me Away](https://open.spotify.com/track/7HnVdutArvNtWcOQ7RwU9v) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Push Me Away](https://open.spotify.com/album/06GlK3f7KkzJChrHGOnrcY) | 2:53 | 2022-10-25 |  |
@@ -46,6 +47,7 @@
 | [Somewhere In Between](https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:21 | 2022-10-25 |  |
 | [Spark](https://open.spotify.com/track/0B1DLVAVc2yM9IXJS2vy7G) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Zero](https://open.spotify.com/album/4P4KShJRERTru62QQ8WnO6) | 3:39 | 2022-10-25 |  |
 | [Spray Paint It Black](https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Anthony Raneri](https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj) | [The Rain Just Follows Me](https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz) | 3:18 | 2022-10-25 |  |
+| [Starlighter \(Echo, Utah\)](https://open.spotify.com/track/6nGB0sJyx9bMPMmuVQBSPc) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 3:18 | 2022-12-26 | 2023-01-18 |
 | [Tail Lights](https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:21 | 2022-10-25 |  |
 | [The Business Of Paper Stars](https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:46 | 2022-10-25 |  |
 | [The Darkest Times](https://open.spotify.com/track/2ibiou9bHgZpv03Qe3Fjzh) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:40 | 2022-10-25 |  |

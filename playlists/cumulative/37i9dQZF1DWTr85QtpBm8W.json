@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-08-11",
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
   "name": "Ambient 2000s",
-  "published_playlist_ids": [
-    "0zy8b8voSxCSA3RsWKT2B6"
-  ],
   "tracks": [
     {
       "album": {
@@ -413,6 +410,24 @@
     {
       "album": {
         "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172026,
+      "name": "Corsair",
+      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
+    },
+    {
+      "album": {
+        "name": "Geogaddi",
         "url": "https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24"
       },
       "artists": [
@@ -423,7 +438,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 172026,
       "name": "Corsair",
       "url": "https://open.spotify.com/track/54IGiCAOFeISJAGZoHjtjf"
@@ -1279,10 +1294,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 161853,
       "name": "Sherbet Head",
       "url": "https://open.spotify.com/track/3t2n91JYKy4oDgjIRCKHjI"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161853,
+      "name": "Sherbet Head",
+      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
     },
     {
       "album": {
@@ -1463,10 +1496,28 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 243546,
       "name": "Tears From The Compound Eye",
       "url": "https://open.spotify.com/track/0nRe4ZWzbiFjJIJFEk1u3F"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243546,
+      "name": "Tears From The Compound Eye",
+      "url": "https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar"
     },
     {
       "album": {
@@ -1709,7 +1760,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 618626,
       "name": "Tummaa",
       "url": "https://open.spotify.com/track/3uqfAKW2VR03fYYSOhXbfA"

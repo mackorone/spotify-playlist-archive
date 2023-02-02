@@ -4,7 +4,7 @@
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 44 min - not published yet
+40 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Waterwings \(And Other Poolside Fashion Faux Pas\)](https://open.spotify.com/track/4Hcv9D5PkjFUvJqDme4CeB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:38 | 2022-10-25 |  |
 | [We Are the End](https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:46 | 2022-10-25 |  |
 | [We Are the Sound](https://open.spotify.com/track/522Ujz4WQ0i2YjQk1eWOch) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:40 | 2022-10-25 |  |
+| [World Stops Turning](https://open.spotify.com/track/4LxurqXWbJhXHNwgRv4UV5) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 8:16 | 2022-12-04 | 2022-12-13 |
 | [Young Cardinals](https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 | 2022-10-25 |  |
 
 \*This playlist was first scraped on 2022-10-26. Prior content cannot be recovered.

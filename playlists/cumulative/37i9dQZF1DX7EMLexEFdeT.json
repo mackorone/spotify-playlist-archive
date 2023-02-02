@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-25",
   "description": "Did you hear that?",
   "name": "Haunted",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -1023,10 +1022,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 194760,
       "name": "Running with the Wolves",
       "url": "https://open.spotify.com/track/20qtjUDcb8HH8ouF51BirQ"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "Running with the Wolves",
+      "url": "https://open.spotify.com/track/6qMMJiCtrlHmxGyFUStff8"
     },
     {
       "album": {

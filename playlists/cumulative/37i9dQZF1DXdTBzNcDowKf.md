@@ -4,7 +4,7 @@
 
 > Listen to all of the music from the Minions and Despicable Me movies!
 
-41 songs - 1 hr 49 min - [published](https://open.spotify.com/playlist/101ZpzUF14BgtYe7nIcyQ6)
+41 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

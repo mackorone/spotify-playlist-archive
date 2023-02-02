@@ -4,7 +4,7 @@
 
 > The best of Gorillaz, in one place.
 
-58 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/0C3eODuuVTK4kjBq4D8tUZ)
+58 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-54 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/7j0hx8xgFXlZXHslHq43a6)
+54 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Mün](https://open.spotify.com/track/4s1iQfNHq0hIfLATaQ1wX1) | [brillion.](https://open.spotify.com/artist/77aATgrzmuoRjmqxPcEIHU), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Mün](https://open.spotify.com/album/5XjW3yiZE0QTyAynGN2qka) | 2:35 | 2021-12-06 |  |
 | [Noches IntimaXx](https://open.spotify.com/track/5ECbVbqSsshnGw6wPPNAQS) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Noches IntimaXx](https://open.spotify.com/album/7eXs9Nt1zd979rPgQCBY8n) | 2:47 | 2021-12-06 |  |
 | [NOW I'M ALONE \(feat\. Sofía Valdés\)](https://open.spotify.com/track/43YIg00RcAoXF4isZgqFh7) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [PART 1: WWYD?](https://open.spotify.com/album/1BE6pGMVQh8wSnPp2hfGGs) | 3:44 | 2021-12-06 |  |
-| [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2021-12-06 |  |
+| [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2021-12-06 |  |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-12-06 |  |
 | [outside world](https://open.spotify.com/track/3VcMS5H8mIsV3K7mro9JfB) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [outside world](https://open.spotify.com/album/6CEfIgvkztTumJQ2A44lXz) | 2:53 | 2021-12-06 |  |
 | [Palm Trees](https://open.spotify.com/track/0TyTbWW4xMI6M1Q5HXs3Fj) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Palm Trees](https://open.spotify.com/album/1H4wFGIQ32WkUspkzS9TIp) | 2:47 | 2021-12-06 |  |

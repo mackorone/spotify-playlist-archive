@@ -4,7 +4,7 @@
 
 > Jam and remember the time with this collection of hits by the <a href="spotify:artist:3fMbdgg4jU18AjLCKBhRSm">King of Pop</a>!
 
-89 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/36u71nhzxRama4yUmAOs97)
+89 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

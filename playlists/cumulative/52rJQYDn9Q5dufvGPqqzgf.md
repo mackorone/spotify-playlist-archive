@@ -4,7 +4,7 @@
 
 > Celebrate your baby girl and spread the good news!
 
-25 songs - 1 hr 29 min - [published](https://open.spotify.com/playlist/2sqLSolRhzLvUTjh5we32J)
+25 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-133 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/639MyonEK5vnxNKfmiZBKq)
+134 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 | 2022-01-19 |  |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2022-01-19 |  |
 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 | 2022-01-19 |  |
+| [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 | 2023-01-26 |  |
 | [We Will Make It](https://open.spotify.com/track/7yVh5SkxIS6OpNlL8gf2Qx) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [We Will Make It](https://open.spotify.com/album/3XY93ClwPSOcghbPeDkGzr) | 2:08 | 2022-01-19 |  |
 | [Wengen](https://open.spotify.com/track/4EmOsFxW6Nx84qPs9ACrA5) | [Lorah Weber](https://open.spotify.com/artist/6KPIG4JnXUCcKZPGD8aE5R) | [Wengen](https://open.spotify.com/album/2BopNtLHRQ1mx5YlamsiEg) | 3:10 | 2022-01-19 |  |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2022-01-19 |  |

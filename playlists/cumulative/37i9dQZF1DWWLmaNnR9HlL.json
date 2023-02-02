@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-07-19",
   "description": "La banda sonora para tus cenas en casa.",
   "name": "Cena con Amigos",
-  "published_playlist_ids": [
-    "6f3cqmqdYqRr7cbIDvLNPd"
-  ],
   "tracks": [
     {
       "album": {
@@ -1413,7 +1410,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 169520,
       "name": "I Am a Rock",
       "url": "https://open.spotify.com/track/0byOqNZN9ailhoORv5Ps0Z"
@@ -1569,6 +1566,28 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
+    },
+    {
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261881,
+      "name": "It Runs Through Me",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "album": {
@@ -2079,7 +2098,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 188400,
       "name": "Misread",
       "url": "https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg"
@@ -2455,6 +2474,24 @@
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "album": {
+        "name": "White Ladder",
+        "url": "https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe"
+      },
+      "artists": [
+        {
+          "name": "David Gray",
+          "url": "https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315373,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/1cjouR9u8UPbvBc6vIwktF"
     },
     {
       "album": {
@@ -3464,7 +3501,7 @@
     },
     {
       "album": {
-        "name": "Double Fantasy Stripped Down",
+        "name": "Double Fantasy: Stripped Down",
         "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
       },
       "artists": [
@@ -3529,7 +3566,7 @@
       ],
       "date_added": "2021-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 210466,
       "name": "You Wish",
       "url": "https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz"
@@ -3576,24 +3613,6 @@
     },
     {
       "album": {
-        "name": "Compact Jazz: Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "date_added": "2021-01-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212493,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
-    },
-    {
-      "album": {
         "name": "Antonio Carlos Jobim: Finest Hour",
         "url": "https://open.spotify.com/album/2iBlbJFXs5U3dY8G9UGyTB"
       },
@@ -3613,6 +3632,50 @@
       "duration_ms": 214866,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1CFpxBiLtcnBVIbnmAJCBk"
+    },
+    {
+      "album": {
+        "name": "Compact Jazz: Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 212493,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
+    },
+    {
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2021-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214366,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWLmaNnR9HlL"

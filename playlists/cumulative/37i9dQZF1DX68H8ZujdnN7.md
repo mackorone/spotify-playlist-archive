@@ -4,7 +4,7 @@
 
 > Hair goals, spandex and epic guitar solos\. We got you.
 
-169 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/4bxy2w5YWYTLJmkcQGjnaz)
+169 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

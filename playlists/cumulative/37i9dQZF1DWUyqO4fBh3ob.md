@@ -4,18 +4,18 @@
 
 > The sweet sounds of Syria.
 
-80 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/1T0FUNSxflc8VN7roYu6Gu)
+80 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aal Hob Rooh w Sallimli](https://open.spotify.com/track/0RUDIa4tOnST24USIXuyyV) | [Nesreen Tafesh](https://open.spotify.com/artist/4e4G7w1BJQ3qpfpsKf6wg2) | [Aal Hob Rooh w Sallimli](https://open.spotify.com/album/0M5qhGTUrD1KSN7cHIRGUt) | 3:26 | 2022-06-20 |  |
 | [Aal Hob Rooh W Sallimli](https://open.spotify.com/track/1BK9u4OhQv18WPfvGuzTym) | [Nesreen Tafesh](https://open.spotify.com/artist/4e4G7w1BJQ3qpfpsKf6wg2) | [Aal Hob Rooh W Sallimli](https://open.spotify.com/album/78KVbthYIQhnsTksWTaHQ2) | 3:26 | 2021-10-19 | 2022-07-29 |
 | [Abu Dub](https://open.spotify.com/track/4PYYYrvbQZFd0aK8yKeYby) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Abu Dub](https://open.spotify.com/album/6VcIiBjQaMqCJxNx9Nqq1N) | 4:49 | 2021-10-19 | 2022-07-29 |
-| [Abu Dub](https://open.spotify.com/track/6X3XDA36ekI3xQ75QkfKdZ) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Abu Dub](https://open.spotify.com/album/35zz7cXSUfe67McbGGrRk6) | 4:49 | 2022-06-20 | 2022-11-22 |
+| [Abu Dub](https://open.spotify.com/track/6X3XDA36ekI3xQ75QkfKdZ) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Abu Dub](https://open.spotify.com/album/35zz7cXSUfe67McbGGrRk6) | 4:49 | 2022-06-20 |  |
 | [Al Tayr](https://open.spotify.com/track/3KtalxQzxUlkRVeBWsjEii) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Monologue](https://open.spotify.com/album/1tZH9Nv3aLL1AxJTQNwDHr) | 4:47 | 2021-10-19 |  |
 | [Alloosh](https://open.spotify.com/track/4SutQpeY0rtwP9XeRfa0hi) | [Ali Al Deek](https://open.spotify.com/artist/4gJE3vuk92stqZIRWieUe8) | [Ali Hits](https://open.spotify.com/album/1RL5PDCpMACLDpuIMTsXeI) | 13:43 | 2022-06-20 |  |
 | [Alloosh](https://open.spotify.com/track/5xv6FRGgAvTMDNciqXkV5H) | [Ali El Deek](https://open.spotify.com/artist/33qFtGCQ4HLTagGMaAOn5N) | [Ali Hits](https://open.spotify.com/album/50NsorNvEUNpA8vsrncpOI) | 13:43 | 2021-10-19 | 2022-07-29 |
-| [Alshaela](https://open.spotify.com/track/6tazOzAb4Z0ocUhOhNrNIy) | [Amer Wakka](https://open.spotify.com/artist/3RTvvsSrGsLIpShyrjGrZb) | [Alshaela](https://open.spotify.com/album/7kP3ciU1cgbPbIup4KIqk0) | 3:02 | 2021-10-19 | 2022-11-19 |
+| [Alshaela](https://open.spotify.com/track/6tazOzAb4Z0ocUhOhNrNIy) | [Amer Wakka](https://open.spotify.com/artist/3RTvvsSrGsLIpShyrjGrZb) | [Alshaela](https://open.spotify.com/album/7kP3ciU1cgbPbIup4KIqk0) | 3:02 | 2021-10-19 | 2023-01-03 |
 | [Ana Baashaak](https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ana Baashaak](https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG) | 37:02 | 2021-10-19 |  |
 | [Ana Lamma Bheb](https://open.spotify.com/track/6a4SIj2iNe0mJWyxVrdpCZ) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ana Lamma Bheb](https://open.spotify.com/album/3e5Cj4cSq7KHsWbNzO9OcL) | 3:23 | 2021-10-19 |  |
 | [Azmit Si'a](https://open.spotify.com/track/0754qF0ek1y0HPg17XEW2L) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [From Nassif Zeytoun with Love](https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq) | 3:41 | 2022-06-20 |  |
@@ -61,7 +61,7 @@
 | [Mahlaki](https://open.spotify.com/track/1BoO5X2MnrwnaN6fEKHo7Q) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Mahlaki](https://open.spotify.com/album/7LYuHz535r0Prz2rXmEQ6n) | 4:14 | 2022-06-20 |  |
 | [Mahlaki](https://open.spotify.com/track/5u7fv6kikvIUdtlQ2xqDu0) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Mahlaki](https://open.spotify.com/album/2JBUKhBEh1KTFRUzS4kaMx) | 4:14 | 2021-10-19 | 2022-07-29 |
 | [Mahlaki](https://open.spotify.com/track/7E83hitgLXJ3gEeqMCXfpk) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Midnight America](https://open.spotify.com/album/2VbNjsN8qdjQkhm08XoeAV) | 4:14 | 2022-09-01 | 2022-11-13 |
-| [Malak Halle](https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Malak Halle](https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz) | 4:22 | 2022-08-14 | 2022-11-15 |
+| [Malak Halle](https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Malak Halle](https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz) | 4:22 | 2022-08-14 | 2023-02-01 |
 | [Masa Shamy](https://open.spotify.com/track/1eUoFO2RVoWogedFcU9xIT) | [Nurulez](https://open.spotify.com/artist/3Tpt01jawwzcAPkrjNLR7g) | [Apachi](https://open.spotify.com/album/5O905UHULciUjek70N7dmW) | 3:08 | 2021-10-19 |  |
 | [Metwadaa](https://open.spotify.com/track/47i3WNZ59Ch7cZrHXeYFhb) | [George Koubaily](https://open.spotify.com/artist/3J7vlOVLXXZRwex8Qt2nFT) | [Metwadaa](https://open.spotify.com/album/0rpKka1NxgkYEvogBStAj2) | 4:16 | 2021-10-19 |  |
 | [Mktifi Bhali](https://open.spotify.com/track/1AtrStBh3KmG1Uy5tPqXpq) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Mktifi Bhali](https://open.spotify.com/album/1FeVZ4GMogl4q7NUvZZOVQ) | 4:17 | 2022-11-12 |  |
@@ -79,7 +79,7 @@
 | [Swarat](https://open.spotify.com/track/6jWQ9vgd089Ayk1uws9Fb3) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Swarat](https://open.spotify.com/album/2lHuo0CbcdEzTVZNcpk9gE) | 3:26 | 2021-10-19 |  |
 | [Takke](https://open.spotify.com/track/1mMFP46MOq92keItSUvSb0) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Dance With Nassif Zeytoun](https://open.spotify.com/album/1TABHyMM46DStN9R57uUdE) | 3:28 | 2022-06-20 |  |
 | [Takke](https://open.spotify.com/track/1hnk0ZhStnRSLRq4u2fM7H) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Takke](https://open.spotify.com/album/1BHDLGn3NPPIiQcIS4W9rp) | 3:28 | 2021-10-19 | 2022-07-29 |
-| [Wala Fuse \- Special Version](https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Wala Fuse \(Special Version\)](https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI) | 3:07 | 2022-09-01 |  |
+| [Wala Fuse \- Special Version](https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Wala Fuse \(Special Version\)](https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI) | 3:07 | 2022-09-01 | 2023-01-24 |
 | [Wallé](https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Wallé](https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3) | 2:57 | 2021-10-19 |  |
 | [Wassellik Khabar](https://open.spotify.com/track/4USDc2ee6XNky5miYt5QTN) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [From Nassif Zeytoun with Love](https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq) | 3:56 | 2022-06-20 |  |
 | [Wassellik Khabar](https://open.spotify.com/track/5eLeUIBvwEmwPlKChDhhVQ) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Wassellik Khabar](https://open.spotify.com/album/6ndPBorakdAiDb0Oq98bk1) | 3:56 | 2021-10-19 | 2022-07-29 |

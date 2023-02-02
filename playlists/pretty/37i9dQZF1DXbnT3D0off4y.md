@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnT3D0off4y.md) - [plain]
 
 > The official Ozark playlist with all the music from Season 4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,673 likes - 34 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,857 likes - 34 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

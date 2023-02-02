@@ -4,7 +4,7 @@
 
 > A collection of contemporary classical from Chinese and Chinese\-born composers and musicians, from Bright Sheng and Chen Yi to Qu Xiaosong and Zhu Jianer.
 
-28 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/2dsSefsZxrM5hTDACTums5)
+28 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

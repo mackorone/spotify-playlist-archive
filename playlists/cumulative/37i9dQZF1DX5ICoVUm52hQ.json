@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-10",
   "description": "\u00a1Con las Letras de estas canciones, no querr\u00e1s soltar el micr\u00f3fono!",
   "name": "Karaoke Mexicano",
-  "published_playlist_ids": [
-    "76kqMpYpVXonZ7kbMZnW0n"
-  ],
   "tracks": [
     {
       "album": {
@@ -379,7 +376,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 214933,
       "name": "A\u00fan Hay Algo",
       "url": "https://open.spotify.com/track/6fqpsCQ7jF7OgQolXgYovX"
@@ -664,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Motel",
+        "url": "https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220773,
+      "name": "Dime Ven",
+      "url": "https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk"
+    },
+    {
+      "album": {
         "name": "Mundo Lite",
         "url": "https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd"
       },
@@ -737,7 +752,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-29",
       "duration_ms": 235200,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
@@ -935,7 +950,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 241160,
       "name": "Est\u00e9s Donde Est\u00e9s",
       "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
@@ -1781,7 +1796,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 185800,
       "name": "Olv\u00eddame y Pega la Vuelta",
       "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
@@ -2105,7 +2120,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
@@ -2477,7 +2492,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 285066,
       "name": "Y T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"

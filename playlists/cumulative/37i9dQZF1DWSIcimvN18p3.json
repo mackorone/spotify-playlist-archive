@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Plains",
   "name": "Women of Folk",
-  "published_playlist_ids": [
-    "189GjBlA83HumNay4qpApT"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 220586,
       "name": "(Do You Love Me) Just Say Yes",
       "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
@@ -580,6 +577,32 @@
     },
     {
       "album": {
+        "name": "Be Careful",
+        "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342272,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
+    },
+    {
+      "album": {
         "name": "BREACH",
         "url": "https://open.spotify.com/album/65Ov3Cl0apFHIj2wHY6f2L"
       },
@@ -897,7 +920,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 317466,
       "name": "Boots of Spanish Leather",
       "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
@@ -2249,7 +2272,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 225893,
       "name": "Game To Lose",
       "url": "https://open.spotify.com/track/6hRmSHcTdXbIp66h9Aj8Mc"
@@ -2501,7 +2524,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-01",
       "duration_ms": 192466,
       "name": "Heart Like a Wheel",
       "url": "https://open.spotify.com/track/7ctYp2gIPnE79lRzov5k2n"
@@ -2537,7 +2560,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 249206,
       "name": "Heart to Ride",
       "url": "https://open.spotify.com/track/17NuSPbKO6SgDPcYwMrpml"
@@ -3421,7 +3444,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 194533,
       "name": "Letting Me Down",
       "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
@@ -3518,6 +3541,24 @@
     },
     {
       "album": {
+        "name": "Lonesome L.A. Cowboy",
+        "url": "https://open.spotify.com/album/7GHfzpuu8tmg8HTvXAk7j4"
+      },
+      "artists": [
+        {
+          "name": "The A's",
+          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 259480,
+      "name": "Lonesome L.A. Cowboy",
+      "url": "https://open.spotify.com/track/1sRoE43LJzCL1aGHVlBttN"
+    },
+    {
+      "album": {
         "name": "Courting & Complaint",
         "url": "https://open.spotify.com/album/0V2GllieHjxhhY0F4aZmhh"
       },
@@ -3547,7 +3588,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 172506,
       "name": "Long Shot",
       "url": "https://open.spotify.com/track/06tCoCD4O3VqqnZBlkMg71"
@@ -3601,7 +3642,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 398040,
       "name": "Love Lives Where Rules Die",
       "url": "https://open.spotify.com/track/0iRHvZB3KITU5Un1H2bT23"
@@ -3984,6 +4025,24 @@
     },
     {
       "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY"
+    },
+    {
+      "album": {
         "name": "Circles And Arrows",
         "url": "https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo"
       },
@@ -3995,7 +4054,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": "2023-01-18",
       "duration_ms": 226000,
       "name": "Northern Girl",
       "url": "https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7"
@@ -4161,7 +4220,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 179943,
       "name": "Or Else",
       "url": "https://open.spotify.com/track/3qWnYbvyj79oEgnsbMuU6u"
@@ -4341,7 +4400,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 273150,
       "name": "Plain Letters - Reimagined",
       "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
@@ -4949,7 +5008,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
@@ -5759,7 +5818,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 189077,
       "name": "Thinkin' On You",
       "url": "https://open.spotify.com/track/0bMHwCKXAJJNbiyzpq8Zeb"
@@ -5979,7 +6038,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 272419,
       "name": "Understand",
       "url": "https://open.spotify.com/track/2SGVAIwuauUxP8YY2ujuj9"
@@ -6267,7 +6326,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 234800,
       "name": "Where Have All the Flowers Gone",
       "url": "https://open.spotify.com/track/1WMMzf0o1gD5dyyYhJ46fO"
@@ -6303,7 +6362,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-27",
       "duration_ms": 247320,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW"
@@ -6739,7 +6798,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 167200,
       "name": "Your Sweet and Shiny Eyes - 2008 Remaster",
       "url": "https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE"

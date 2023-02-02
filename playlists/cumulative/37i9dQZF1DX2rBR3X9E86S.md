@@ -4,7 +4,7 @@
 
 > One of the most iconic bands of recent time\. Here is the best of The Black Keys.
 
-52 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/2kbKuS6R6VjLIIKBJd8e0i)
+52 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

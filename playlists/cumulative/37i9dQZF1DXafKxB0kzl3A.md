@@ -4,7 +4,7 @@
 
 > International hitmaker, producer & DJ <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a> takes us through 2022 with his exclusive Spotify mix, featuring banger after banger.
 
-20 songs - 1 hr 0 min - not published yet
+20 songs - 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

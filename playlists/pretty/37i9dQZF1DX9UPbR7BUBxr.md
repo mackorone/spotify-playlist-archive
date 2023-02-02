@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 
 > Songs and episodes to help you find that work/pause balance\. Co\-curation: Varun Duggirala
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,378 likes - 68 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,602 likes - 66 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,34 +47,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UPbR7BUBxr.md) - [plain]
 | 37 | [fresh brew](https://open.spotify.com/track/0c2OGxZ5mUitYu0nClQBIW) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [fresh brew](https://open.spotify.com/album/2T1cSabDmh0KMDkZCGvo1S) | 2:13 |
 | 38 | [hoj ti to](https://open.spotify.com/track/2qzjYqTA8dwy99L6Mhp91n) | [Ted Mandy](https://open.spotify.com/artist/6zuQeHBicF8rBO33EAf5TI) | [hoj ti to](https://open.spotify.com/album/2UuKxvayuxXBjzi5iSVuFO) | 1:50 |
 | 39 | [Sweden](https://open.spotify.com/track/70kcSc9uLi1raZ6BtDJkQA) | [ibi](https://open.spotify.com/artist/6P06yTsM3UACEZDIVCdwt6) | [Sweden](https://open.spotify.com/album/0JOe5cV0SRcNhQwff49twg) | 5:37 |
-| 40 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 |
-| 41 | [Plant Based](https://open.spotify.com/track/5sZYbMFFIS4raZVntbfOfZ) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo) | [Plant Based](https://open.spotify.com/album/2Ep5JJmZhnzaWMK1K33QX2) | 1:57 |
-| 42 | [Relief](https://open.spotify.com/track/1A0kkBkOz7kMyyaYegwysl) | [Midnight Sleep](https://open.spotify.com/artist/6FGYiM51juEWqEWi53MDYS) | [Relief](https://open.spotify.com/album/1JVTYybTxlKDYFs7VcxN8b) | 2:36 |
-| 43 | [City Glow](https://open.spotify.com/track/08MUoQtJnUQjEfFO6Nyv5a) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [City Glow](https://open.spotify.com/album/2zZYmrXtRsIElvMmWtOA7d) | 2:55 |
-| 44 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
-| 45 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
-| 46 | [Green Tea](https://open.spotify.com/track/6x2rtY6FC6YizEpvUVKj6o) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/2rGcNBHziENr3UfAIXiwkw) | 1:15 |
-| 47 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
-| 48 | [Lift Me \(Somehow\)](https://open.spotify.com/track/5xg4pqB1l4LdI46Jw9qgtU) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/5W0f89f4bEX9dgbkk1UgmL) | 2:22 |
-| 49 | [In Love](https://open.spotify.com/track/16Pc6ZWQZxwc8wLzF2VZUf) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Smile](https://open.spotify.com/album/4mXCEus360pAz7z3uF5dp6) | 2:47 |
-| 50 | [solitude](https://open.spotify.com/track/2UonTNnl58lV6nvxQQ0Ly3) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc) | [magic](https://open.spotify.com/album/1jZz5EeVbLzHfhDLDQmPKZ) | 1:18 |
-| 51 | [Lofi One](https://open.spotify.com/track/2FvHJmr7XOhmNI9Dch2x4R) | [DeLeon Rovon](https://open.spotify.com/artist/5CY40uLhxYpHIWjaMozKNb) | [Beats + Smoothies](https://open.spotify.com/album/7zcmnWx6KOoqYxr0oQ0EJt) | 3:50 |
-| 52 | [Nocturnal](https://open.spotify.com/track/1nVHPEb7S4kVlNygXcJ3tU) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 5:12 |
-| 53 | [Felted](https://open.spotify.com/track/0pc7pvoTQFPebXtWw35AK2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [nobuddy](https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v) | [Felted October](https://open.spotify.com/album/5vIvFrE4zGmZq2Fveo3ar4) | 1:51 |
-| 54 | [Views from Yamashita Park](https://open.spotify.com/track/2jcfdXuo45Jl4RP5gWtUxc) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/4pdN4RfKX8F3r8q2OIbREL) | 1:40 |
-| 55 | [Coasting](https://open.spotify.com/track/7JIRlDcPu3HwNedizSrRoG) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Growing Pains](https://open.spotify.com/album/6d35dyULlXBI0kRPEyKT3Y) | 2:01 |
-| 56 | [Floating Between](https://open.spotify.com/track/6nqOGykFeVWsM3Okw3V73C) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Floating Between](https://open.spotify.com/album/1igMIVWhheDDTcSE6y9tjh) | 2:41 |
-| 57 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 |
-| 58 | [Frost](https://open.spotify.com/track/61Ti0m8GexReFbEj02jcOr) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Frost](https://open.spotify.com/album/0xw1B9mtodHCWSHqRVRWQu) | 2:10 |
-| 59 | [nirwana](https://open.spotify.com/track/7Iu0d7ORgRU1CcDymzVPck) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [nirwana](https://open.spotify.com/album/2plF1M083P6jysg6ODjBNj) | 2:17 |
-| 60 | [wonder](https://open.spotify.com/track/0Jnusm5HFoW6RaWHGnadtI) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [wonder](https://open.spotify.com/album/6c1UrlE8aTQ0Ft3fAWgalo) | 1:46 |
-| 61 | [Oceans](https://open.spotify.com/track/5ow7kw6f9wh82887rlrnTD) | [Orangelo](https://open.spotify.com/artist/6rGGEz9rM3t9SeOvwLJNIT) | [Midnight Sun](https://open.spotify.com/album/61ggX6ltMrTBy7fv96Bbip) | 2:30 |
-| 62 | [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 |
-| 63 | [Mystic](https://open.spotify.com/track/1NRSiBSxPdrwyuCLeEhRvA) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Mystic](https://open.spotify.com/album/5IRAzD6GLmmdceauEy33Il) | 1:55 |
-| 64 | [Longing Beats](https://open.spotify.com/track/2S8x2UmgZFqGNPQxe2zLL4) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Longing Beats](https://open.spotify.com/album/1GuLPS3yf1YOdrpnweE0b9) | 2:22 |
-| 65 | [Goodbye](https://open.spotify.com/track/2C4pl7JiNTV0Ae9wd1H8IS) | [by the way](https://open.spotify.com/artist/3W3rHemC3V9S6AspSRpZgo) | [Polar Picnic EP](https://open.spotify.com/album/3qSG7nuarahG2siS04UBPr) | 1:34 |
-| 66 | [Don’t Forget Me](https://open.spotify.com/track/3OjultkM3CXtK0JFmCO5Ux) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Don’t Forget Me](https://open.spotify.com/album/6x2eS7AgwuPqpGkbb3jloG) | 1:49 |
-| 67 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
-| 68 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Moodula](https://open.spotify.com/artist/6e76Meb8yRDdpn42QfFeOh) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
+| 40 | [Plant Based](https://open.spotify.com/track/5sZYbMFFIS4raZVntbfOfZ) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo) | [Plant Based](https://open.spotify.com/album/2Ep5JJmZhnzaWMK1K33QX2) | 1:57 |
+| 41 | [Relief](https://open.spotify.com/track/1A0kkBkOz7kMyyaYegwysl) | [Midnight Sleep](https://open.spotify.com/artist/6FGYiM51juEWqEWi53MDYS) | [Relief](https://open.spotify.com/album/1JVTYybTxlKDYFs7VcxN8b) | 2:36 |
+| 42 | [City Glow](https://open.spotify.com/track/08MUoQtJnUQjEfFO6Nyv5a) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [City Glow](https://open.spotify.com/album/2zZYmrXtRsIElvMmWtOA7d) | 2:55 |
+| 43 | [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 |
+| 44 | [Fading out](https://open.spotify.com/track/35vYyQ06TPM7hiUtNt5Bs3) | [Diamond Telescope](https://open.spotify.com/artist/5y5QOzvDd6odh8MWPt5G79) | [Fading out](https://open.spotify.com/album/1X8oEGczTQOJi9PWeC4mwa) | 2:31 |
+| 45 | [Green Tea](https://open.spotify.com/track/6x2rtY6FC6YizEpvUVKj6o) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Green Tea](https://open.spotify.com/album/2rGcNBHziENr3UfAIXiwkw) | 1:15 |
+| 46 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
+| 47 | [Lift Me \(Somehow\)](https://open.spotify.com/track/5xg4pqB1l4LdI46Jw9qgtU) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/5W0f89f4bEX9dgbkk1UgmL) | 2:22 |
+| 48 | [In Love](https://open.spotify.com/track/16Pc6ZWQZxwc8wLzF2VZUf) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Smile](https://open.spotify.com/album/4mXCEus360pAz7z3uF5dp6) | 2:47 |
+| 49 | [solitude](https://open.spotify.com/track/2UonTNnl58lV6nvxQQ0Ly3) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc) | [magic](https://open.spotify.com/album/1jZz5EeVbLzHfhDLDQmPKZ) | 1:18 |
+| 50 | [Lofi One](https://open.spotify.com/track/2FvHJmr7XOhmNI9Dch2x4R) | [DeLeon Rovon](https://open.spotify.com/artist/5CY40uLhxYpHIWjaMozKNb) | [Beats + Smoothies](https://open.spotify.com/album/7zcmnWx6KOoqYxr0oQ0EJt) | 3:50 |
+| 51 | [Nocturnal](https://open.spotify.com/track/1nVHPEb7S4kVlNygXcJ3tU) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 5:12 |
+| 52 | [Felted](https://open.spotify.com/track/0pc7pvoTQFPebXtWw35AK2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [nobuddy](https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v) | [Felted October](https://open.spotify.com/album/5vIvFrE4zGmZq2Fveo3ar4) | 1:51 |
+| 53 | [Views from Yamashita Park](https://open.spotify.com/track/2jcfdXuo45Jl4RP5gWtUxc) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/4pdN4RfKX8F3r8q2OIbREL) | 1:40 |
+| 54 | [Coasting](https://open.spotify.com/track/7JIRlDcPu3HwNedizSrRoG) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Growing Pains](https://open.spotify.com/album/6d35dyULlXBI0kRPEyKT3Y) | 2:01 |
+| 55 | [Floating Between](https://open.spotify.com/track/6nqOGykFeVWsM3Okw3V73C) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Floating Between](https://open.spotify.com/album/1igMIVWhheDDTcSE6y9tjh) | 2:41 |
+| 56 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 |
+| 57 | [Frost](https://open.spotify.com/track/61Ti0m8GexReFbEj02jcOr) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Frost](https://open.spotify.com/album/0xw1B9mtodHCWSHqRVRWQu) | 2:10 |
+| 58 | [nirwana](https://open.spotify.com/track/7Iu0d7ORgRU1CcDymzVPck) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [nirwana](https://open.spotify.com/album/2plF1M083P6jysg6ODjBNj) | 2:17 |
+| 59 | [wonder](https://open.spotify.com/track/0Jnusm5HFoW6RaWHGnadtI) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [wonder](https://open.spotify.com/album/6c1UrlE8aTQ0Ft3fAWgalo) | 1:46 |
+| 60 | [Oceans](https://open.spotify.com/track/5ow7kw6f9wh82887rlrnTD) | [Orangelo](https://open.spotify.com/artist/6rGGEz9rM3t9SeOvwLJNIT) | [Midnight Sun](https://open.spotify.com/album/61ggX6ltMrTBy7fv96Bbip) | 2:30 |
+| 61 | [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 |
+| 62 | [Mystic](https://open.spotify.com/track/1NRSiBSxPdrwyuCLeEhRvA) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Mystic](https://open.spotify.com/album/5IRAzD6GLmmdceauEy33Il) | 1:55 |
+| 63 | [Longing Beats](https://open.spotify.com/track/2S8x2UmgZFqGNPQxe2zLL4) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Longing Beats](https://open.spotify.com/album/1GuLPS3yf1YOdrpnweE0b9) | 2:22 |
+| 64 | [Goodbye](https://open.spotify.com/track/2C4pl7JiNTV0Ae9wd1H8IS) | [by the way](https://open.spotify.com/artist/3W3rHemC3V9S6AspSRpZgo) | [Polar Picnic EP](https://open.spotify.com/album/3qSG7nuarahG2siS04UBPr) | 1:34 |
+| 65 | [Don’t Forget Me](https://open.spotify.com/track/3OjultkM3CXtK0JFmCO5Ux) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Don’t Forget Me](https://open.spotify.com/album/6x2eS7AgwuPqpGkbb3jloG) | 1:49 |
+| 66 | [Komori Uta](https://open.spotify.com/track/5d0Znm8jnIPkHy54i1OeGu) | [pedrolina.](https://open.spotify.com/artist/2mFdkJcl12IZARwSKYhOjx) | [Bai](https://open.spotify.com/album/0gbH2AB8ATXvDZh9TkOJaB) | 2:27 |
 
-Snapshot ID: `MTY2ODUxMzY3NCwwMDAwMDAwMGZlMzcyMTVhNDhiZTVjN2U2YTVkNTY3YTc2OTZiYWI3`
+Snapshot ID: `MTY3MTQzOTQzMiwwMDAwMDAwMGY3MTE0NDY4Njc5NjliZGNjMzljOTUyN2MzZTViYTdj`

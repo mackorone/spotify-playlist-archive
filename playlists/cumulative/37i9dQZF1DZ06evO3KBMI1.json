@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-10",
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
   "name": "This Is UVERworld",
-  "published_playlist_ids": [
-    "4BvGS6QmMp3Lq2pFlrq9Ly"
-  ],
   "tracks": [
     {
       "album": {
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-18",
       "duration_ms": 406653,
       "name": "7\u65e5\u76ee\u306e\u6c7a\u610f",
       "url": "https://open.spotify.com/track/2697A4jAyN041xwNXRBC3Q"
@@ -199,7 +196,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 268106,
       "name": "BABY BORN & GO",
       "url": "https://open.spotify.com/track/7fyaPmW3CrDlu50E1AlMHv"
@@ -527,7 +524,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 203693,
       "name": "GOOD and EVIL",
       "url": "https://open.spotify.com/track/4NojX9qo5t2aViWKPQjtE3"
@@ -801,6 +798,24 @@
       "duration_ms": 89983,
       "name": "ODD FUTURE short ver.",
       "url": "https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202546,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/4hfdwNAshu0chyIXkIgBD6"
     },
     {
       "album": {

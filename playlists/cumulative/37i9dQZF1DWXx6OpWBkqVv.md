@@ -4,7 +4,7 @@
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
 
-137 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/5BZNLwTZIGRCxnMJoptCxS)
+137 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-55 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3sThgltbrDH5c6hYx5luxv)
+55 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [For the Unknown Is Horrid](https://open.spotify.com/track/1OHJZQs2Xm9OrAl7qyNRc2) | [Odious](https://open.spotify.com/artist/2p24ZFz2mMVQtNjFof9828) | [Mirror of Vibrations](https://open.spotify.com/album/7hkUqzyGRXoGKHPaF9MS3q) | 7:12 | 2021-10-14 | 2022-07-24 |
 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 | 2021-10-14 |  |
 | [Freedom Denied](https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Line of Fear](https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5) | 4:15 | 2021-10-14 |  |
-| [Gnawi](https://open.spotify.com/track/5dmikvdu7jfOtfUk9hu2el) | [Al\-Qasar](https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r) | [Gnawi](https://open.spotify.com/album/41p0qWCRG9MT7Rtirx1y2B) | 5:57 | 2021-10-14 | 2022-11-14 |
+| [Gnawi](https://open.spotify.com/track/5dmikvdu7jfOtfUk9hu2el) | [Al\-Qasar](https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r) | [Gnawi](https://open.spotify.com/album/41p0qWCRG9MT7Rtirx1y2B) | 5:57 | 2021-10-14 | 2022-12-27 |
 | [Hayati](https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1) | [Arkan](https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH) | [Sofia](https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN) | 4:53 | 2021-10-14 |  |
 | [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 | 2021-10-14 |  |
 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 | 2021-10-14 |  |
@@ -44,7 +44,7 @@
 | [Kont Trab](https://open.spotify.com/track/3wULkaOnTXCGpK5MA3kqbe) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 6:17 | 2021-10-14 |  |
 | [Ladders To Sumeria](https://open.spotify.com/track/0MHj9bCzoNtKVIuEGnUeH6) | [Melechesh](https://open.spotify.com/artist/1bjUcmZxY4zJO1V5LaKzUY) | [Emissaries](https://open.spotify.com/album/1U7kNAiW1wSPMbDNrPoipu) | 4:01 | 2021-10-14 |  |
 | [Lay chafi](https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm) | [Betweenatna](https://open.spotify.com/artist/74xbHp6MeHavk2G1OaIeNT) | [Betweenatna](https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8) | 4:02 | 2021-10-14 |  |
-| [Leap of Faith](https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH) | [Luay Rifai](https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g) | [Timeless Truths](https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA) | 5:42 | 2021-10-14 | 2022-07-29 |
+| [Leap of Faith](https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH) | [Luay Rifai](https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g) | [Timeless Truths](https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA) | 5:42 | 2021-10-14 | 2023-02-01 |
 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 | 2021-10-14 |  |
 | [Mejwez](https://open.spotify.com/track/0Ti4bbSLBtIP2pJHHmQgqR) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Arabic Rock Orchestra](https://open.spotify.com/album/2K3NavDtqMRQW1bEPQ9tAu) | 4:09 | 2021-10-14 | 2022-07-28 |
 | [Moongod](https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Moongod](https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa) | 5:41 | 2021-10-14 |  |
@@ -56,8 +56,8 @@
 | [Sidi Arbi](https://open.spotify.com/track/34hbQxtu8e8tw1mDvVkIIT) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 3:35 | 2021-10-14 |  |
 | [Sidi Arbi 2](https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Sidi Arbi 2](https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj) | 3:51 | 2021-10-14 |  |
 | [Son of Muhieddine](https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1) | [Acyl](https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F) | [Aftermath](https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq) | 5:36 | 2021-10-14 |  |
-| [The Cost Of Everything And The Value Of Nothing](https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:08 | 2021-10-14 |  |
-| [The Gambit](https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH) | [Divine Disorder](https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz) | [Garden of Dystopia](https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9) | 8:04 | 2021-10-14 | 2022-11-26 |
+| [The Cost Of Everything And The Value Of Nothing](https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:08 | 2021-10-14 | 2023-01-29 |
+| [The Gambit](https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH) | [Divine Disorder](https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz) | [Garden of Dystopia](https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9) | 8:04 | 2021-10-14 |  |
 | [The Tragedy Within](https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC) | [BILOCATE](https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe) | [Summoning the Bygones](https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx) | 8:44 | 2021-10-14 | 2022-07-29 |
 | [The Twelfth Gate](https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog) | [Crescent](https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz) | [The Order of Amenti](https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01) | 4:00 | 2021-10-14 |  |
 | [The Twelth Gate](https://open.spotify.com/track/1SkWDSHs825x3os2JtxKBQ) | [Crescent](https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz) | [The Order Of Amenti](https://open.spotify.com/album/3ZICoVkNWfn9ers5Dsa6v6) | 4:00 | 2021-10-14 | 2022-07-29 |

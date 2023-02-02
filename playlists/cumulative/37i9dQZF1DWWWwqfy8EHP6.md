@@ -4,7 +4,7 @@
 
 > LeeHi's here for you, Hice Creams!
 
-100 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/64ixMffQEVRKXFtILyCHmm)
+100 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

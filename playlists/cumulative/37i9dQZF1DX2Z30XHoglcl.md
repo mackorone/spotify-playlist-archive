@@ -4,7 +4,7 @@
 
 > EDM's ever stable <a href="spotify:artist:0CbeG1224FS58EUx4tPevZ">Timmy Trumpet</a>  spins his favorite summer anthems in his most recent mix for Spotify.
 
-31 songs - 59 min 40 sec - [published](https://open.spotify.com/playlist/5q0OqQFwrOaKHwPgAWhoE2)
+31 songs - 59 min 40 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,985 likes - 81 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,633 likes - 81 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

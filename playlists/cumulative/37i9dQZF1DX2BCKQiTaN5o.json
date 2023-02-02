@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Celebrate #SelfCareSunday with Michelle Obama's workout mix.",
   "name": "Michelle Obama's Workout Playlist",
-  "published_playlist_ids": [
-    "0ClG1AQzAPgAIoQvOIkI6A"
-  ],
   "tracks": [
     {
       "album": {
@@ -275,7 +272,7 @@
     {
       "album": {
         "name": "Afrowave 2",
-        "url": "https://open.spotify.com/album/1R3refsYPuUJ4yl7sNqir1"
+        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
       },
       "artists": [
         {
@@ -286,6 +283,24 @@
       "date_added": "2020-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Drogba (Joanna)",
+      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
+    },
+    {
+      "album": {
+        "name": "Afrowave 2",
+        "url": "https://open.spotify.com/album/1R3refsYPuUJ4yl7sNqir1"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "date_added": "2020-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
       "duration_ms": 199000,
       "name": "Drogba (Joanna)",
       "url": "https://open.spotify.com/track/4E0teOQQQwagLVvQ7VfYm1"

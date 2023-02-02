@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-127 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/0DfYncW9mxd1xxPkajZXJE)
+128 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bad Romance](https://open.spotify.com/track/7jUIPRC4R6B7NkKZof0Uci) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Divas Pop](https://open.spotify.com/album/0LCGxljG8jn5oaJcRItyMj) | 4:54 | 2022-05-09 | 2022-11-13 |
 | [Beautiful, Dirty, Rich](https://open.spotify.com/track/0Bjr5EAEa5YxfSHHWzZmds) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 2:52 | 2020-10-16\* | 2022-07-29 |
 | [Beautiful, Dirty, Rich](https://open.spotify.com/track/3qrQtMmkuV79LMGfsGDHRf) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 2:52 | 2022-05-09 |  |
+| [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-05 |  |
 | [Born This Way](https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 4:20 | 2020-10-16\* | 2022-07-29 |
 | [Born This Way](https://open.spotify.com/track/6aDi4gOE2Cfc6ecynvP81R) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 4:20 | 2022-05-09 | 2022-11-13 |
 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 | 2022-05-09 |  |

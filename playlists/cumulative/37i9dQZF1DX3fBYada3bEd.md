@@ -4,7 +4,7 @@
 
 > Sing along to these tunes about everything you can find on the farm.
 
-62 songs - 2 hr 30 min - [published](https://open.spotify.com/playlist/5uvSbxeDW7jtSCQFDcy7oO)
+62 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Walking on the Farm](https://open.spotify.com/track/7xIXuKIBQE2w8l8eVTcCFJ) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR), [Emma Hutchinson](https://open.spotify.com/artist/3gPZvdkMPESfv3QM4IA5Ya) | [Nature With Me](https://open.spotify.com/album/194T0fURuku2acIhl62a6S) | 1:17 | 2022-04-01 |  |
 | [Welcome to the Farm](https://open.spotify.com/track/68P5gou9qhS2MN8XVgwfiQ) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Welcome to the Farm](https://open.spotify.com/album/6oqzcaAeYCC4YOAvV4elIp) | 2:02 | 2022-04-01 |  |
 | [Who Took The Cookie? \(On The Farm\)](https://open.spotify.com/track/1n5XK1mgYshYtKeuaXadZK) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Circletime Songs for Kids](https://open.spotify.com/album/5WFZO3IUfgvbMGLns5mnDr) | 2:10 | 2022-04-01 |  |
-| [Working on the Farm](https://open.spotify.com/track/4BfoIFogAKmdWLFkV6ZEoJ) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Working on the Farm](https://open.spotify.com/album/4PdFGvFiInP9D3ee5Ip7Yl) | 3:21 | 2022-07-25 |  |
+| [Working on the Farm](https://open.spotify.com/track/4BfoIFogAKmdWLFkV6ZEoJ) | [The Mik Maks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Working on the Farm](https://open.spotify.com/album/4PdFGvFiInP9D3ee5Ip7Yl) | 3:21 | 2022-07-25 |  |
 | [Working on the Farm](https://open.spotify.com/track/06HgOwvBfxzUC0VVyNaOMO) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Working on the Farm](https://open.spotify.com/album/5FuEOoSK6p139wV3fegYhZ) | 3:21 | 2022-04-01 | 2022-08-27 |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Davido. The essential tracks, all in one playlist.",
   "name": "This Is Davido",
-  "published_playlist_ids": [
-    "2QhYWlxPwMinCJ4N0C2tZh"
-  ],
   "tracks": [
     {
       "album": {
@@ -67,7 +64,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": "2023-01-21",
       "duration_ms": 211696,
       "name": "Achie",
       "url": "https://open.spotify.com/track/5IV1mcpTvqjiio3HrunOGx"
@@ -403,7 +400,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 166822,
       "name": "Bum Bum Bum",
       "url": "https://open.spotify.com/track/2q0GvAQvk1rEAUEFy1sziH"
@@ -447,6 +444,32 @@
       "duration_ms": 194944,
       "name": "Check Am",
       "url": "https://open.spotify.com/track/5q1Go2adbGbqjgXxSD0UZS"
+    },
+    {
+      "album": {
+        "name": "Comfortable (feat. Davido)",
+        "url": "https://open.spotify.com/album/4615wavxmU3iwOfhzC8FoG"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 192119,
+      "name": "Comfortable (feat. Davido)",
+      "url": "https://open.spotify.com/track/0C91daZBEChlLpb8LLqojh"
     },
     {
       "album": {
@@ -571,7 +594,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 219310,
       "name": "Disturbance (feat. Peruzzi)",
       "url": "https://open.spotify.com/track/1alvkxYJx3AcVERNyFJRmF"
@@ -597,7 +620,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": "2022-12-14",
       "duration_ms": 200727,
       "name": "Dollar",
       "url": "https://open.spotify.com/track/3e483clp1e5SGvK3PSdvNK"
@@ -685,7 +708,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-01",
       "duration_ms": 214648,
       "name": "Fall for You",
       "url": "https://open.spotify.com/track/622AxtXA9LRmXkania0tya"
@@ -703,7 +726,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 202222,
       "name": "FEM",
       "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
@@ -761,7 +784,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-16",
       "duration_ms": 170000,
       "name": "FLAMES",
       "url": "https://open.spotify.com/track/6T3Y4utPEBs35xiG3e7Ebp"
@@ -904,6 +927,28 @@
     },
     {
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193758,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4G11wDzAKuCFqApL4g3ixC"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
       },
@@ -919,7 +964,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
@@ -1764,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131891,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/79DdeEycF43qtKSkg9v53L"
+    },
+    {
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -1787,7 +1850,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 248727,
       "name": "Sweet in the Middle (feat. Wurld, Naira Marley & Zlatan)",
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"

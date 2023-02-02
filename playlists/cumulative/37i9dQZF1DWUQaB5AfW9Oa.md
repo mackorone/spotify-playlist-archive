@@ -4,7 +4,7 @@
 
 > Soul classics to keep you company in the kitchen.
 
-65 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/4UGwv63SSnPinWKqpXcsuM)
+65 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

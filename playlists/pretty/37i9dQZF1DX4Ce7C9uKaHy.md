@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,423 likes - 80 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,698 likes - 80 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 65 | [I Need a Drink](https://open.spotify.com/track/1AyUQ8VrPQh37txjLYb3KC) | [Wishkid](https://open.spotify.com/artist/0fBiX79fGtRfNkfv2yR5Rw) | [I Need a Drink](https://open.spotify.com/album/6tXoiYc2Qm2oZPeonX3s9Q) | 2:32 |
 | 66 | [Stay](https://open.spotify.com/track/3VmOcYg433TPhPcp2ADuoG) | [smlr](https://open.spotify.com/artist/1FG84tTPToBCGS5Zn0ARDo) | [Stay](https://open.spotify.com/album/42DGmFWwVsub49PiAwteNv) | 2:08 |
 | 67 | [I still dream of you](https://open.spotify.com/track/72Y9PQKgbZNDDqtJsYuOOI) | [Dysphoria](https://open.spotify.com/artist/0SjvG9TO02Only9hkIBswM) | [Restless](https://open.spotify.com/album/6VzMemVHUEpsdXODPAtOKL) | 1:42 |
-| 68 | [Sassy](https://open.spotify.com/track/7v81zDad0PAPjJ45mphEul) | [Suwanti](https://open.spotify.com/artist/48QEanQFa6GOiSGR3uyiOi), [Cây](https://open.spotify.com/artist/2AMpDRQKGRKMI72ricUKNe) | [Sassy](https://open.spotify.com/album/39cCVhyG7YYWMKLm4yxlp5) | 1:51 |
+| 68 | [Sassy](https://open.spotify.com/track/7v81zDad0PAPjJ45mphEul) | [Suwanti](https://open.spotify.com/artist/48QEanQFa6GOiSGR3uyiOi) | [Sassy](https://open.spotify.com/album/39cCVhyG7YYWMKLm4yxlp5) | 1:51 |
 | 69 | [Meet You in the Park](https://open.spotify.com/track/4it9vYyCde5RrYXxqBbxKo) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Calm Lands](https://open.spotify.com/album/4dglmAUDnppEU1kx3zRCPJ) | 2:31 |
 | 70 | [Pure Imagination](https://open.spotify.com/track/6redzaZ6sGkqvZiUxKLYB8) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Discography](https://open.spotify.com/album/6d5aTFlnrl6n2U9Q7f8HNV) | 1:52 |
 | 71 | [Sometimes](https://open.spotify.com/track/5tAp0bYvWzBQqTWCBiAwf8) | [Kilmalu](https://open.spotify.com/artist/62UCV3nYWbWpXRNXbBjU4G) | [Sometimes](https://open.spotify.com/album/46z9nN5SP1D4W4JR0Ff6Rp) | 2:10 |

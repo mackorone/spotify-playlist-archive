@@ -4,13 +4,14 @@
 
 > Let these contemplative couplets take you away.
 
-68 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/6yqJqn3UTLFElfzmBKUDO9)
+69 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaj Jane Ki Zid Na Karo \(Live\)](https://open.spotify.com/track/4alS0xW23tUwqscT8CkPM3) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Farida Khanum In Concert \(Live\)](https://open.spotify.com/album/2LgI5h8no2UbfcEC09Nwws) | 7:29 | 2021-12-01 |  |
 | [Aapki Yaad Aati Rahi Raat Bhar](https://open.spotify.com/track/2bCwBISaRkGc0CUY5t7X87) | [Chhaya Ganguli](https://open.spotify.com/artist/4psVmgSgmjHIBM7MZuVQyY) | [Gaman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dF7QK9cY4JBCIqnRG7J8N) | 5:02 | 2021-12-01 |  |
-| [Ahista](https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 7:13 | 2021-12-01 |  |
+| [Ahista](https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 7:13 | 2021-12-01 | 2023-01-28 |
+| [Ahista](https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 7:13 | 2023-01-24 |  |
 | [Awara](https://open.spotify.com/track/5ECnRRG6R0dNL1MpJ9lSeu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Horizon](https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg) | 6:22 | 2021-12-01 |  |
 | [Bhej chhana chhan](https://open.spotify.com/track/3ABNBqGrID439kEc347fkD) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [History of Indian Film Music, Volume 5](https://open.spotify.com/album/69LiE5HBfujMW2CtFMf5YC) | 4:03 | 2021-12-01 |  |
 | [Chandi Jaisa Rang \- Live In India](https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Icon](https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3) | 6:42 | 2021-12-01 | 2022-07-29 |

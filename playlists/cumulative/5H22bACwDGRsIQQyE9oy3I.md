@@ -4,7 +4,7 @@
 
 > Relax in the shade and uncover the best new underground folk and rising Americana.
 
-25 songs - 1 hr 30 min - [published](https://open.spotify.com/playlist/33Dtuj74rL8fGjasTxfod2)
+25 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Relax to the sound of a storm setting in.
 
-341 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/07pEfKM7v7h9efPFw1GRWE)
+341 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

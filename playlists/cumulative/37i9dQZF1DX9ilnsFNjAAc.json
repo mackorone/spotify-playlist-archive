@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-13",
   "description": "Raw dance beats pushing club culture forwards. Cover: Shygirl",
   "name": "Industrial Bass",
-  "published_playlist_ids": [
-    "6c2DXccUunEn5VXDoEgAbj"
-  ],
   "tracks": [
     {
       "album": {
@@ -473,10 +470,40 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 187264,
       "name": "Cake - UNiiQU3 Remix",
       "url": "https://open.spotify.com/track/10uB7q0OpZ04C1dgCcrKKl"
+    },
+    {
+      "album": {
+        "name": "12 Thousand Nights - Club",
+        "url": "https://open.spotify.com/album/79Tn0kD97m5InHJoJcdVtD"
+      },
+      "artists": [
+        {
+          "name": "L-Vis 1990",
+          "url": "https://open.spotify.com/artist/3Av5YRDWBegMumHlMOIa91"
+        },
+        {
+          "name": "Sinjin Hawke",
+          "url": "https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN"
+        },
+        {
+          "name": "Cam & China",
+          "url": "https://open.spotify.com/artist/4801sdBxePkTFNoJHn88Nw"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187264,
+      "name": "Cake - UNiiQU3 Remix",
+      "url": "https://open.spotify.com/track/3hJ0Be9LwmDVqBhXXOKi1d"
     },
     {
       "album": {
@@ -585,14 +612,6 @@
         {
           "name": "TNGHT",
           "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
-        },
-        {
-          "name": "Lunice",
-          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
         }
       ],
       "date_added": "2021-02-19",
@@ -943,7 +962,7 @@
     {
       "album": {
         "name": "Ice Bridge",
-        "url": "https://open.spotify.com/album/5krCbpOUzawFzyze0yfYuN"
+        "url": "https://open.spotify.com/album/2lgiqx50EYIRzR2mkzXvtI"
       },
       "artists": [
         {
@@ -954,6 +973,24 @@
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 295205,
+      "name": "Ice Bridge",
+      "url": "https://open.spotify.com/track/36RgzPOiQDMKrflKdo2tRN"
+    },
+    {
+      "album": {
+        "name": "Ice Bridge",
+        "url": "https://open.spotify.com/album/5krCbpOUzawFzyze0yfYuN"
+      },
+      "artists": [
+        {
+          "name": "Air Max '97",
+          "url": "https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
       "duration_ms": 295205,
       "name": "Ice Bridge",
       "url": "https://open.spotify.com/track/4B8HqglWbTLLs0jvQv2S9V"
@@ -1428,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "Giant Swan",
+        "url": "https://open.spotify.com/album/7mqcy9ytfBE7ZV8gU3jLjo"
+      },
+      "artists": [
+        {
+          "name": "Giant Swan",
+          "url": "https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298673,
+      "name": "Pandaemonium",
+      "url": "https://open.spotify.com/track/0meQGpIV8nIRF1OUN1tTgX"
+    },
+    {
+      "album": {
         "name": "Pandaemonium",
         "url": "https://open.spotify.com/album/3FQpDZp9dl3lhCSqaAJSFH"
       },
@@ -1439,7 +1494,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 298673,
       "name": "Pandaemonium",
       "url": "https://open.spotify.com/track/5me2adkCbJjK6f7VrdUlL0"
@@ -1571,6 +1626,10 @@
         {
           "name": "Ivy Lab",
           "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        },
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
       "date_added": "2021-02-19",
@@ -1655,10 +1714,28 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 325590,
       "name": "Silkworm",
       "url": "https://open.spotify.com/track/4OnN0jEOJW4VVF4nvqvkAP"
+    },
+    {
+      "album": {
+        "name": "Silkworm",
+        "url": "https://open.spotify.com/album/5tHnpwtNjuutI0hIsmsTMN"
+      },
+      "artists": [
+        {
+          "name": "Giant Swan",
+          "url": "https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325590,
+      "name": "Silkworm",
+      "url": "https://open.spotify.com/track/6kfGTQ19X0QCN7mOvxXcH0"
     },
     {
       "album": {

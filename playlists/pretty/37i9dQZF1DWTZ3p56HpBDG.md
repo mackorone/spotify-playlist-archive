@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Riz Ahmed
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,235 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,372 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 22 | [Almost](https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Almost](https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq) | 2:20 |
 | 23 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 |
 | 24 | [Good Love 2.0](https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [damnshestamil](https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm) | 2:54 |
-| 25 | [Deal With It](https://open.spotify.com/track/3l9KybL4tK1jAP7u3UkWwe) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5) | 2:31 |
+| 25 | [Deal With It](https://open.spotify.com/track/48iyEjHqc399GIvhbWCDaz) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/4hBcCJ6y6uLtVPJ4l2xpL5) | 2:32 |
 | 26 | [Tension](https://open.spotify.com/track/2JUyPdhD8Mae0QHI6f2w6Z) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd) | [I Am Zack Knight](https://open.spotify.com/album/5lySBRzqQIXmTZlz7jlJlC) | 2:48 |
 | 27 | [I Love You Baby, I Love You Doll](https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Ocean](https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO) | 2:49 |
 | 28 | [Honey Bee](https://open.spotify.com/track/1s2eSfchKBG6NIWpwL6x5B) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/72HabOyINqSkT0YSQ1Pdtv) | 3:39 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 32 | [Neeye Oli](https://open.spotify.com/track/5qX9iF6UmV0cypQgeu4ujh) | [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Made in Jaffna](https://open.spotify.com/album/4fzYyzg0c0c6pFXHOnCVjO) | 3:57 |
 | 33 | [Chasin M's](https://open.spotify.com/track/5labhgEWJVHdSFaV2lFHbq) | [Ali Kulture](https://open.spotify.com/artist/79g4UUYgjUD4uulYV4ie9S), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Dj Rob Mista DMV](https://open.spotify.com/artist/0iaMgxQqEcbMtu9bu9lkYR) | [Chasin M's](https://open.spotify.com/album/58Ofpkh7xXrtngf6cxgtuB) | 3:35 |
 
-Snapshot ID: `MTY2ODY2NTEzOSwwMDAwMDAwMDYzOTc4MGY1Y2E3YzdjYmE3NmYzYmY2MDczYmMyZjBi`
+Snapshot ID: `MTY2ODY2NTEzOSwwMDAwMDAwMGJhMTZiMzc1ZDdkOGZlZjM3MzkyMmUyYjkyNGI2NDM2`

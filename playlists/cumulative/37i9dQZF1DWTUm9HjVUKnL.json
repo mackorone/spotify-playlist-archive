@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-25",
   "description": "Dive into the full collection of Spotify Singles recordings. Cover: Cat Burns. ",
   "name": "Spotify Singles: Complete Collection",
-  "published_playlist_ids": [
-    "0vGu0vKKShLhsGimUZi8EG"
-  ],
   "tracks": [
     {
       "album": {
@@ -3107,7 +3104,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
@@ -3129,7 +3126,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
@@ -3981,6 +3978,46 @@
       "duration_ms": 132390,
       "name": "Don\u2019t Stop - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3nqV59JK49DkHGXvweDD0k"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295761,
+      "name": "Doo Wop (That Thing) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0D9OkPTPIn9QkDucglW4DS"
+    },
+    {
+      "album": {
+        "name": "good 4 u / Dooley's Farm (Spotify Singles)",
+        "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310402,
+      "name": "Dooley's Farm - Spotify Sessions",
+      "url": "https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W"
     },
     {
       "album": {
@@ -6058,6 +6095,28 @@
     },
     {
       "album": {
+        "name": "good 4 u / Dooley's Farm (Spotify Singles)",
+        "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216343,
+      "name": "good 4 u - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
       },
@@ -6203,6 +6262,24 @@
       "duration_ms": 214947,
       "name": "Green Wine",
       "url": "https://open.spotify.com/track/0zlj031DreL4yX72vk7Ib5"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368769,
+      "name": "Guess Who I Saw Today - Spotify Singles",
+      "url": "https://open.spotify.com/track/4y8HI6WI29umdAguVPwFpu"
     },
     {
       "album": {
@@ -7127,6 +7204,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233743,
+      "name": "Horas y Horas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2woqdm6WgKLkmOpLiNrDV6"
       },
       "artists": [
@@ -7561,6 +7656,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6cZYUit3dBM00CccH1WNAZ"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234961,
+      "name": "I Choose You - Spotify Singles",
+      "url": "https://open.spotify.com/track/66nLILdBX8n6ODaN2PYok0"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb"
       },
       "artists": [
@@ -7946,6 +8059,24 @@
     },
     {
       "album": {
+        "name": "Judah & The Lion (Live)",
+        "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "I Won't Back Down - Live",
+      "url": "https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN"
       },
@@ -7957,7 +8088,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 227600,
       "name": "I Won't Back Down - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ"
@@ -8889,10 +9020,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 228629,
       "name": "Kiss from God - mint Singles",
       "url": "https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg"
+    },
+    {
+      "album": {
+        "name": "Kiss from God (mint Singles)",
+        "url": "https://open.spotify.com/album/3luU3JrWxKBSf71MbpYiAu"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228629,
+      "name": "Kiss from God - mint Singles",
+      "url": "https://open.spotify.com/track/5XFTW0rJnYwicp5Db3YRCf"
     },
     {
       "album": {
@@ -14597,6 +14746,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321256,
+      "name": "Someone Like You - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ"
       },
       "artists": [
@@ -15361,6 +15528,24 @@
       "duration_ms": 236054,
       "name": "Super Far - Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270945,
+      "name": "Superstar - Spotify Singles",
+      "url": "https://open.spotify.com/track/2O0tXCpr6AMc0HUe7wI5B8"
     },
     {
       "album": {
@@ -16465,7 +16650,7 @@
           "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         },
         {
-          "name": "Michael Brun",
+          "name": "Micha\u00ebl Brun",
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
@@ -18012,6 +18197,24 @@
     },
     {
       "album": {
+        "name": "Judah & The Lion (Live)",
+        "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363259,
+      "name": "Why Did You Run? - Live",
+      "url": "https://open.spotify.com/track/4QTUnhkVcgGOWlQgcpKXK8"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN"
       },
@@ -18023,7 +18226,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 363259,
       "name": "Why Did You Run? - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3oJRLetXV9sNjdT3zrHHDm"

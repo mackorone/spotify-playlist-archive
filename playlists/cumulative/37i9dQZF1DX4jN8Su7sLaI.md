@@ -4,10 +4,11 @@
 
 > Music from "Yowamushi Pedal", a series of cycle road race manga\. /自転車ロードレースアニメの金字塔、<a href="http://yowapeda.com/">『弱虫ペダル』</a>公式プレイリスト！©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
 
-39 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/2ClVyCrdlSlyiFCMCh0S7S)
+40 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Action](https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [Action](https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb) | 3:39 | 2023-01-31 |  |
 | [ALL FOR ONE](https://open.spotify.com/track/4dCeh7GVusg5NJyWea5NmP) | [今泉俊輔\(CV:鳥海浩輔\)](https://open.spotify.com/artist/6l0ihzxL9SQxFveCIESRi1), [金城真護\(CV:安元洋貴\)](https://open.spotify.com/artist/1b60JNECUGTk6J3yGP59N9) | [TVアニメ「弱虫ペダル」キャラクターソングアルバム](https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy) | 3:45 | 2022-09-27 |  |
 | [Be As One](https://open.spotify.com/track/3ksyq1hry8hfAbfMFVJmHE) | [チーム総北 <小野田坂道\(cv.山下大輝\)、今泉俊輔\(cv.鳥海浩輔\)、鳴子章吉\(cv.福島潤\)、金城真護\(cv.安元洋貴\)、巻島裕介\(cv.森久保祥太郎\)、田所迅\(cv.伊藤健太郎\)>](https://open.spotify.com/artist/1b0DGO2FRixEDN9FerxtXI) | [TVアニメ「弱虫ペダル」オープニングテーマ「Be As One」](https://open.spotify.com/album/41D1qI7ozO3eTophC4TVWr) | 4:13 | 2022-09-27 |  |
 | [Believer](https://open.spotify.com/track/00iJEqP9yfPE953xtpt2S5) | [LASTGASP](https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS) | [弱虫ペダル テーマソングアルバム](https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW) | 4:50 | 2022-09-27 |  |

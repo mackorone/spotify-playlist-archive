@@ -2,10 +2,25 @@
   "date_first_scraped": "2022-09-09",
   "description": "A pastoral, uplifting pan-African caf\u00e9 sound.",
   "name": "Caf\u00e9 Africa",
-  "published_playlist_ids": [
-    "1bxRtWCU4mLIX5e781d1zw"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Spanish Villager No. 3",
+        "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272883,
+      "name": "A Seminar In Tokyo",
+      "url": "https://open.spotify.com/track/0CFc37YTJa449oOe660cSU"
+    },
     {
       "album": {
         "name": "Soaring Wild Lands (The Instrumentals)",
@@ -186,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Sou Ni Tile",
+        "url": "https://open.spotify.com/album/3YkgbENywpHkRQlzT2y3aR"
+      },
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273626,
+      "name": "Baara",
+      "url": "https://open.spotify.com/track/64Sg9NoG09CiIAOxpGhb8l"
+    },
+    {
+      "album": {
         "name": "Agrim Agadez - Musique Guitare de la Republique du Niger",
         "url": "https://open.spotify.com/album/5zmFPo6FvLVZITImjBNvGz"
       },
@@ -241,6 +274,28 @@
       "duration_ms": 211880,
       "name": "Banzelo",
       "url": "https://open.spotify.com/track/1lMzpS330YpyxmeCeAdA68"
+    },
+    {
+      "album": {
+        "name": "Biwamiel",
+        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
+      },
+      "artists": [
+        {
+          "name": "Udulele",
+          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
+        },
+        {
+          "name": "Umoja",
+          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155007,
+      "name": "Biwamiel",
+      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
     },
     {
       "album": {
@@ -465,6 +520,28 @@
       "duration_ms": 305295,
       "name": "Fanta",
       "url": "https://open.spotify.com/track/5PO5AyFVJy4r2rtyGRD5n8"
+    },
+    {
+      "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
+      },
+      "artists": [
+        {
+          "name": "Naomi Achu",
+          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208896,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
     },
     {
       "album": {
@@ -1536,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Rwangaguhunga",
+        "url": "https://open.spotify.com/album/7HF4HBqqUlGGKYqrE04CNE"
+      },
+      "artists": [
+        {
+          "name": "John Wizards",
+          "url": "https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "Rwangaguhunga",
+      "url": "https://open.spotify.com/track/7vpqMS7jm4j7IoRpTd5wWf"
+    },
+    {
+      "album": {
         "name": "Tamala",
         "url": "https://open.spotify.com/album/0HxflxCmZs5FOmTVx2jryV"
       },
@@ -2095,6 +2190,24 @@
       "duration_ms": 228720,
       "name": "White Crocodile Blues (A Song for M)",
       "url": "https://open.spotify.com/track/5TSrOwcE7x7PoRRYkwaE4T"
+    },
+    {
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130024,
+      "name": "Who Do You Call",
+      "url": "https://open.spotify.com/track/0GkuN9Zy932IzxFC6rolo8"
     },
     {
       "album": {

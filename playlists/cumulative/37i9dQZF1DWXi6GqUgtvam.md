@@ -4,7 +4,7 @@
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-74 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/5zqZQ0RHU2SaSCukHbFI9b)
+74 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

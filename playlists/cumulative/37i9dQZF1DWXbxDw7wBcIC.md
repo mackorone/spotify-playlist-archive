@@ -4,7 +4,7 @@
 
 > The birth of the blues, as it happened...
 
-86 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/1JpjmChycgUy5LJL7mX0mN)
+86 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

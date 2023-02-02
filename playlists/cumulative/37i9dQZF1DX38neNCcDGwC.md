@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-53 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/7aFvSWZ4Nwm3VDtLqTwMGM)
+56 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 | 2022-03-03 |  |
 | [Beach in Hawaii](https://open.spotify.com/track/7nCQ6Q6HJeHnwDHydc7x05) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/3DbhHwKGkBX7OEUzmYlgbu) | 3:44 | 2022-03-03 | 2022-10-13 |
 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 | 2019-10-02 |  |
-| [Burnin' And Lootin'](https://open.spotify.com/track/34Jqj42hsT3O3N8yihE3B6) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:13 | 2019-10-02 |  |
+| [Burnin' And Lootin'](https://open.spotify.com/track/34Jqj42hsT3O3N8yihE3B6) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:13 | 2019-10-02 | 2023-01-18 |
+| [Burnin' And Lootin'](https://open.spotify.com/track/3fgLnDbABMr41BpEPTeQCU) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Gold](https://open.spotify.com/album/1MlY1vmHeHaKzLd0I1dNuZ) | 4:14 | 2022-03-03 |  |
 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2019-10-02 |  |
 | [Cry, Cry, Cry](https://open.spotify.com/track/2M7OCTV6KNgATk1T4e0HBj) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Family Time](https://open.spotify.com/album/4q9TZS99i6mrHsKwaWS6O0) | 4:43 | 2022-03-03 | 2022-07-29 |
 | [Cry, Cry, Cry](https://open.spotify.com/track/0AFXdMYA1igrP4m4ubYrOf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 4:43 | 2022-03-03 | 2022-10-13 |
@@ -21,9 +22,11 @@
 | [Exodus](https://open.spotify.com/track/3UuqC9dKWG0bLu6TrPIe4F) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 7:40 | 2022-03-03 |  |
 | [Exodus](https://open.spotify.com/track/5nDPGDOqmAeSV4hXQsAU01) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 7:40 | 2019-10-02 | 2022-07-29 |
 | [Forever Loving Jah](https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 4:02 | 2019-10-02 |  |
-| [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 | 2019-10-02 |  |
+| [Get Up, Stand Up](https://open.spotify.com/track/25ugoarRZ6IaZegrjNxGOx) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:17 | 2019-10-02 | 2023-01-18 |
+| [Get Up, Stand Up](https://open.spotify.com/track/4hLATN2VtjiJ6jLm6V47x1) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 3:17 | 2022-03-03 |  |
 | [High Tide Or Low Tide \- Jamaican Version](https://open.spotify.com/track/2P7dqEsGAvdVBCWeycm0vI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 4:42 | 2019-10-02 |  |
-| [I Shot The Sheriff](https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:39 | 2019-10-02 |  |
+| [I Shot The Sheriff](https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:39 | 2019-10-02 | 2023-01-18 |
+| [I Shot The Sheriff](https://open.spotify.com/track/71zvW0WZ0bap9gphp7Jhgp) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 4:40 | 2022-03-03 |  |
 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 | 2019-10-02 |  |
 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 | 2019-10-02 | 2022-07-29 |
 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-03-03 |  |

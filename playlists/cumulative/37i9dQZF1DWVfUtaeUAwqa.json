@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-20",
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
   "name": "Hot-Jazz Classics",
-  "published_playlist_ids": [
-    "7mDWtjnoYGtiNOTOKCesxv"
-  ],
   "tracks": [
     {
       "album": {
@@ -235,7 +232,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 232489,
       "name": "Carry Me Back to Old Virginia",
       "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
@@ -545,7 +542,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 213626,
       "name": "Jazz Me Blues",
       "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
@@ -925,7 +922,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 189074,
       "name": "Semper Fidelis",
       "url": "https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG"
@@ -1019,7 +1016,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 199314,
       "name": "The Band Played On",
       "url": "https://open.spotify.com/track/5PF3omGkrsdaSOQRTHrPA8"

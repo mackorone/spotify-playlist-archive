@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "All the indelible tunes from the other side of the 00s. Cover: Santigold",
   "name": "Alternative 00s",
-  "published_playlist_ids": [
-    "0l2j8XF9puRyFNeDOUmk2F"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
@@ -674,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
+    },
+    {
+      "album": {
         "name": "Kasabian",
         "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
       },
@@ -791,7 +806,7 @@
           "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 536471,
@@ -1081,7 +1096,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 218586,
       "name": "First of the Gang to Die",
       "url": "https://open.spotify.com/track/0bWKniFVup1UYgoZww89Vp"
@@ -1459,7 +1474,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
@@ -1619,7 +1634,7 @@
           "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
         }
       ],
-      "date_added": "2022-11-19",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 286013,
@@ -1855,7 +1870,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 248626,
       "name": "In For The Kill",
       "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
@@ -1877,6 +1892,24 @@
       "duration_ms": 160720,
       "name": "Islands",
       "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
+    },
+    {
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 207133,
+      "name": "Jenny Don't Be Hasty",
+      "url": "https://open.spotify.com/track/3G3GZnfjmypPEdkItAofp8"
     },
     {
       "album": {
@@ -2273,7 +2306,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-21",
       "duration_ms": 226426,
       "name": "Munich",
       "url": "https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo"
@@ -2507,7 +2540,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 217333,
       "name": "No One's Gonna Love You",
       "url": "https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx"
@@ -2811,7 +2844,7 @@
           "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173693,
@@ -3623,7 +3656,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": "2023-01-05",
       "duration_ms": 202560,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
@@ -3839,7 +3872,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
@@ -3981,7 +4014,7 @@
           "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "date_added": "2022-11-18",
+      "date_added": "2022-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 249066,
@@ -4019,7 +4052,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 202133,
       "name": "When The Sun Goes Down",
       "url": "https://open.spotify.com/track/0ZRrJTPXDToRJ2iLo9oLrW"
@@ -4235,7 +4268,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"

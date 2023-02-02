@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-03",
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
   "name": "Qu\u00e9 Sad!",
-  "published_playlist_ids": [
-    "68BoYlWo5lHOskfBYhYm3g"
-  ],
   "tracks": [
     {
       "album": {
@@ -294,6 +291,24 @@
     },
     {
       "album": {
+        "name": "P\u00e1ramo M\u00edstico",
+        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238043,
+      "name": "Arena Roja",
+      "url": "https://open.spotify.com/track/4sr03bWQ1ECbV6mKnvV9zZ"
+    },
+    {
+      "album": {
         "name": "Aroma a Nostalgia",
         "url": "https://open.spotify.com/album/0aFc2irUha46ey5dF7tXKy"
       },
@@ -363,6 +378,24 @@
       "duration_ms": 181689,
       "name": "Bolerito Sad",
       "url": "https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z"
+    },
+    {
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 224938,
+      "name": "Brillantina",
+      "url": "https://open.spotify.com/track/3s8adoST6a6F2X01hA4g2s"
     },
     {
       "album": {
@@ -1553,7 +1586,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 139489,
       "name": "Los d\u00edas grises",
       "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
@@ -2355,7 +2388,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-23",
       "duration_ms": 189885,
       "name": "QUN",
       "url": "https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC"
@@ -2691,7 +2724,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 182966,
       "name": "Solo Aqu\u00ed",
       "url": "https://open.spotify.com/track/6QwGCWKdDAfj6MSslFhfiw"
@@ -2933,7 +2966,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 216958,
       "name": "Tqm",
       "url": "https://open.spotify.com/track/1vLoNyIDBKikOd8jNMAEOs"
@@ -3071,6 +3104,24 @@
     {
       "album": {
         "name": "Cada Vez M\u00e1s > :-(",
+        "url": "https://open.spotify.com/album/5wfGJBe1sQ4XbuL2fs0tkz"
+      },
+      "artists": [
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Vete a la Chingada",
+      "url": "https://open.spotify.com/track/2Eyhp0Y1c27MJPJNEVLs9n"
+    },
+    {
+      "album": {
+        "name": "Cada Vez M\u00e1s > :-(",
         "url": "https://open.spotify.com/album/1xOsz3xD4Wszm6eysQcZkY"
       },
       "artists": [
@@ -3081,7 +3132,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 187666,
       "name": "Vete a la Chingada",
       "url": "https://open.spotify.com/track/4RYxRVqc2vaKvRjwAX4FQK"

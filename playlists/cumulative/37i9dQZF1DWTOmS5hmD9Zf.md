@@ -4,7 +4,7 @@
 
 > Cause I'm a person just like you but I got better things to do.
 
-129 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/5NtBv1IdltVmxVho4kFItt)
+129 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

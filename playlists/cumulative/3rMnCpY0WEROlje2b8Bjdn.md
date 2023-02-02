@@ -4,7 +4,7 @@
 
 > 
 
-69 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/1CTOGgkHZPQvAZKeWvqGIq)
+69 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Breezin' Along With The Breeze](https://open.spotify.com/track/51XjBjNXipjsTDGyW8A8pw) | [Johnny Marvin "The Ukulele Ace"](https://open.spotify.com/artist/6NA96NRfoh3QxLflata89P) | [50 \#1 Hits Of The '20s & '30s](https://open.spotify.com/album/3lb9NMRkjgkIHQCRLEpNqb) | 3:26 | 2013-06-10 |  |
 | [Bye Bye Blackbird](https://open.spotify.com/track/4bRHvUHdPdINoyHwPI9TBI) | [Gene Austin](https://open.spotify.com/artist/5iFJaXNEwdmI1PADAcM58d) | [The Jazz Mood, Vol.1 \(100 Best Jazz Tracks Remastered\)](https://open.spotify.com/album/2sHgsoc8FGVzjRqLMQWHiz) | 3:02 | 2013-06-10 |  |
 | [Clarinet Marmalade \(12\-08\-26\)](https://open.spotify.com/track/6NIZ3tGAuMlnGT8SfppKt5) | [Fletcher Henderson](https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6) | [Complete Jazz Series 1926 \- 1927](https://open.spotify.com/album/4FMend3xyHSxW8lVWGgWwi) | 2:50 | 2013-06-10 |  |
-| [Come On Boys Let's Do That Messin' Around](https://open.spotify.com/track/0w0qH6keqGrU9EhzmI6phr) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [All the Published Sides](https://open.spotify.com/album/7AgBWTMKOwcXLKkZSSIOXE) | 2:46 | 2013-06-10 |  |
+| [Come On Boys Let's Do That Messin' Around](https://open.spotify.com/track/0w0qH6keqGrU9EhzmI6phr) | [Blind Blake](https://open.spotify.com/artist/0lVQFNxu7zGoKxHCY3NnvP) | [All the Published Sides](https://open.spotify.com/album/7AgBWTMKOwcXLKkZSSIOXE) | 2:46 | 2013-06-10 |  |
 | [Deep Henderson \(04\-21\-26\)](https://open.spotify.com/track/5usSkOSSbOXUJjF15EMtzf) | [King Oliver](https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ) | [Complete Jazz Series 1923 \- 1926](https://open.spotify.com/album/0PdrzQy0cDYh3yuz9jb7tt) | 3:07 | 2013-06-10 |  |
 | [Do\-Do\-Do \- Oh, Kay 1926](https://open.spotify.com/track/68LbNTzv9eZKLkuieUXFNL) | [Gertrude Lawrence, Harold French](https://open.spotify.com/artist/3Q7ZSIg5AfemNCtNyupVLK) | [Broadway \(1919 \- 1946\)](https://open.spotify.com/album/4mjukq7UFdMsTS0zdB7Jl6) | 2:42 | 2013-06-10 |  |
 | [Doctor Jazz Stomp \(1926\)](https://open.spotify.com/track/5JIQGkYRM6rcPOJF1rIsll) | [Jelly Roll Morton](https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD), [Johnny St\. Cyr](https://open.spotify.com/artist/4LVSbS8nWTaRm6G5XKueKN), [John Lindsay](https://open.spotify.com/artist/2SpM0I7iM3fGYi3GKRgSn6), [Omer Simeon](https://open.spotify.com/artist/27AgIZkEalxQ2yqo7MzgZT), [Andrew Hilaire](https://open.spotify.com/artist/0ZWbSGyqV2tGOOlTwE73Eb), [George Mitchell](https://open.spotify.com/artist/0M8FqgzFQpn55M3fUx7o9n), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | ["Serie All Stars Music" Nº4 Exclusive Remastered From Original Vinyl First Edition \(Vintage LPs\)](https://open.spotify.com/album/4LG3wslz2RslncQHMyNfR6) | 3:18 | 2013-06-10 |  |

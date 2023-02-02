@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Keep your night easy and light with this acoustic mix.",
   "name": "Evening Acoustic",
-  "published_playlist_ids": [
-    "0M0Cs9qzLAasLW0h17eQAb"
-  ],
   "tracks": [
     {
       "album": {
@@ -491,7 +488,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 201892,
       "name": "Can't Get My Head Around Loving You",
       "url": "https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G"
@@ -653,7 +650,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": "2023-01-13",
       "duration_ms": 193622,
       "name": "Dark",
       "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
@@ -1155,7 +1152,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 214640,
       "name": "Howling Light",
       "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
@@ -1191,7 +1188,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 317266,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
@@ -1505,7 +1502,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 310733,
       "name": "In the Stream",
       "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
@@ -1523,7 +1520,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 221426,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/18wHQR3ZfXgVqMNGM8Cf1T"
@@ -1819,7 +1816,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 256640,
       "name": "Long Lost Century",
       "url": "https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD"
@@ -1931,6 +1928,24 @@
       "duration_ms": 316492,
       "name": "Mindless Town",
       "url": "https://open.spotify.com/track/0pQZ8JROGkVX0sPqSyb7MI"
+    },
+    {
+      "album": {
+        "name": "Parma Violets",
+        "url": "https://open.spotify.com/album/0EwUDa0erUFKWfzhCk3vNX"
+      },
+      "artists": [
+        {
+          "name": "Jealous of the Birds",
+          "url": "https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235706,
+      "name": "Miss Misanthrope",
+      "url": "https://open.spotify.com/track/0u6rjHF61bxe25gZOOZ5hx"
     },
     {
       "album": {
@@ -3285,7 +3300,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 158813,
       "name": "Trainsong",
       "url": "https://open.spotify.com/track/338sd5AVTuHZLGzIzJY36Q"
@@ -3859,7 +3874,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2022-12-24",
       "duration_ms": 185146,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"

@@ -4,7 +4,7 @@
 
 > Ystad Jazzfestival arrangeras i sommar för tredje gången\. 2012 års festival går av stapeln den 2:a augusti och pågår t.o.m\. den 5:e\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
-32 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/21aumIyo3msDlYoA4EpILu)
+32 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

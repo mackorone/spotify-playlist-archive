@@ -1,11 +1,26 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Your favorite artists, caught in the act!  Recorded Live...just like you were there.  Cover:  Kenny Chesney",
+  "description": "Your favorite artists, caught in the act! Recorded Live...just like you were there. Cover: Cody Johnson",
   "name": "Country Live",
-  "published_playlist_ids": [
-    "26VNM7RZboFEJ69w2h5xCg"
-  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Cody Johnson & The Rockin\u2019 CJB Live",
+        "url": "https://open.spotify.com/album/4VFBMu9CJECPk7fAG2oHkr"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265613,
+      "name": "'Til You Can't - Live",
+      "url": "https://open.spotify.com/track/6aZVQQUl17WqobPx0UZKxo"
+    },
     {
       "album": {
         "name": "Still The One: Live From Vegas",
@@ -812,6 +827,24 @@
     },
     {
       "album": {
+        "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
+        "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208752,
+      "name": "Heading South - Live",
+      "url": "https://open.spotify.com/track/1oahhuBQ0lDwfFj92D1k7V"
+    },
+    {
+      "album": {
         "name": "Pass the Jar - Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta (Live)",
         "url": "https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb"
       },
@@ -1192,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
+        "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213552,
+      "name": "Oklahoma Smokeshow - Live",
+      "url": "https://open.spotify.com/track/38L9BdfJKkWGwot9GWIXMz"
+    },
+    {
+      "album": {
         "name": "Blake Shelton (Live)",
         "url": "https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y"
       },
@@ -1315,6 +1366,28 @@
       "duration_ms": 244906,
       "name": "Round Here - Live From Joe's Bar, Chicago / 2012",
       "url": "https://open.spotify.com/track/40NEsJv5x0HsxDrvvxLwvc"
+    },
+    {
+      "album": {
+        "name": "RSVP (Live)",
+        "url": "https://open.spotify.com/album/0pPmk9j6atfenNZO8ZTMwI"
+      },
+      "artists": [
+        {
+          "name": "Levi Hummon",
+          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
+        },
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172568,
+      "name": "RSVP - Live",
+      "url": "https://open.spotify.com/track/4dkaY74ybKD2a72afxOFRm"
     },
     {
       "album": {
@@ -1463,6 +1536,24 @@
       "duration_ms": 168280,
       "name": "Somebody Else Will - Live at the Ryman",
       "url": "https://open.spotify.com/track/47SHs54oXgZSWp56gMY0oj"
+    },
+    {
+      "album": {
+        "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
+        "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271882,
+      "name": "Something in the Orange - Live",
+      "url": "https://open.spotify.com/track/63Te6rFAEF37YmJ9HwqSzN"
     },
     {
       "album": {
@@ -1713,6 +1804,32 @@
       "duration_ms": 367973,
       "name": "Waymore\u2019s Blues - Live at The Fillmore New York at Irving Plaza/ 2010",
       "url": "https://open.spotify.com/track/2mmtL4ZNo77BwzorkT8yjx"
+    },
+    {
+      "album": {
+        "name": "Wyoming\u2019s Sons Live from Cheyenne",
+        "url": "https://open.spotify.com/album/6DFVfxEm38Lrq7kS6jzyYI"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Tris Munsick",
+          "url": "https://open.spotify.com/artist/6VhJr0L2PbnyAfz5WtLT7R"
+        },
+        {
+          "name": "Sam Munsick",
+          "url": "https://open.spotify.com/artist/65kwDghVUSLY1qzOfOp5no"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312118,
+      "name": "Weakness (feat. Tris Munsick & Sam Munsick) - Live",
+      "url": "https://open.spotify.com/track/3Qrgsm4w3DLoSb4u30mpsb"
     },
     {
       "album": {

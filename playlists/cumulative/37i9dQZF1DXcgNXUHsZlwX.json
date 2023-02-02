@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-01-03",
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
   "name": "Caf\u00e9 montr\u00e9alais",
-  "published_playlist_ids": [
-    "17ts8jbTOK4YpL5tyLJ1kX"
-  ],
   "tracks": [
     {
       "album": {
@@ -491,7 +488,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 247513,
       "name": "Au\u200b-\u200bdel\u00e0 de la mar\u00e9e (la m\u00e8re et le p\u00e8re et leur petit)",
       "url": "https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ"
@@ -521,7 +518,7 @@
       },
       "artists": [
         {
-          "name": "afternoon bike ride",
+          "name": "Afternoon Bike Ride",
           "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
         },
         {
@@ -715,10 +712,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 199794,
       "name": "Carry Me (Acoustic)",
       "url": "https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo"
+    },
+    {
+      "album": {
+        "name": "Heaven, Wait (Acoustic)",
+        "url": "https://open.spotify.com/album/4eumW3GeJQ6oPqqQO1Ot82"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199794,
+      "name": "Carry Me (Acoustic)",
+      "url": "https://open.spotify.com/track/2eaH5ePewiCADzPBeXfe0C"
     },
     {
       "album": {
@@ -1176,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Defunct Baseball Team",
+        "url": "https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG"
+      },
+      "artists": [
+        {
+          "name": "Drucker",
+          "url": "https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 148663,
+      "name": "Defunct Baseball Team",
+      "url": "https://open.spotify.com/track/528146UttVCudD2otAEkEI"
+    },
+    {
+      "album": {
         "name": "Entre deux \u00e9boulements",
         "url": "https://open.spotify.com/album/07l0yqSuVBOALvcDpx2WVN"
       },
@@ -1205,7 +1238,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 245426,
       "name": "Derri\u00e8re le bruit",
       "url": "https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV"
@@ -1447,7 +1480,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 149015,
       "name": "Elle danse",
       "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
@@ -1841,7 +1874,7 @@
       },
       "artists": [
         {
-          "name": "afternoon bike ride",
+          "name": "Afternoon Bike Ride",
           "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
         }
       ],
@@ -1959,7 +1992,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": "2023-01-07",
       "duration_ms": 195360,
       "name": "Grande ivresse",
       "url": "https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf"
@@ -2363,7 +2396,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 150453,
       "name": "J'esp\u00e8re",
       "url": "https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO"
@@ -2883,7 +2916,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "La cascade",
       "url": "https://open.spotify.com/track/2E9Tg1mtfo0JIOnca3JWm6"
@@ -2941,6 +2974,24 @@
       "duration_ms": 234593,
       "name": "La flamme",
       "url": "https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl"
+    },
+    {
+      "album": {
+        "name": "La fum\u00e9e des bougies",
+        "url": "https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "La fum\u00e9e des bougies",
+      "url": "https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL"
     },
     {
       "album": {
@@ -3207,7 +3258,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-30",
       "duration_ms": 179833,
       "name": "Le bois",
       "url": "https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP"
@@ -3481,6 +3532,24 @@
       "duration_ms": 162300,
       "name": "Les anniversaires",
       "url": "https://open.spotify.com/track/07cWpiBsWBWWmgoXpeHHZ0"
+    },
+    {
+      "album": {
+        "name": "Les artifices",
+        "url": "https://open.spotify.com/album/7BvlJsXbXMIxoA9EEJr6cq"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Les artifices",
+      "url": "https://open.spotify.com/track/0ElBgVzjnmsUHx7FwiwPZe"
     },
     {
       "album": {
@@ -4498,7 +4567,7 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 273760,
+      "duration_ms": 273933,
       "name": "M\u00e8res",
       "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
     },
@@ -5387,7 +5456,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 195030,
       "name": "Prendre soin du beau",
       "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
@@ -5593,7 +5662,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": "2023-01-20",
       "duration_ms": 171546,
       "name": "Qui a mis le feu",
       "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
@@ -5705,7 +5774,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 276586,
       "name": "Rien de plus grand",
       "url": "https://open.spotify.com/track/7gUwoDvVkAYMxP7YD2bLLi"
@@ -5983,7 +6052,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-17",
       "duration_ms": 236355,
       "name": "Stains",
       "url": "https://open.spotify.com/track/3oSF0S8651gOA0EF8gKhjk"
@@ -6199,7 +6268,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 185889,
       "name": "The Drudge",
       "url": "https://open.spotify.com/track/1FDZsIBVAYiNe56EwH8IWC"
@@ -6951,7 +7020,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 204000,
       "name": "\u00c0 bient\u00f4t",
       "url": "https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U"

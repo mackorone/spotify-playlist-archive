@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-233 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
+234 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Boowhal\(부활\) \- Stage Comment 7](https://open.spotify.com/track/2MGdJKGEN9mireV7hudDDP) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:58 | 2022-10-06 |  |
 | [Boowhal\(부활\) \- Stage Comment 8](https://open.spotify.com/track/66c3C1YCJgma9P4DoengeQ) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:07 | 2022-10-06 |  |
 | [boy](https://open.spotify.com/track/3S2irTAEETI9q2SxNWNvPz) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Boy Loves Hayley](https://open.spotify.com/album/2XouiD0O47Da4dVQ4Z8zGl) | 3:46 | 2022-10-06 |  |
-| [Burger](https://open.spotify.com/track/4XvXox1Qjw5iadBBJkVRMv) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/3ceIIgqr4ot4QBpdCALSzJ) | 4:06 | 2022-10-02 |  |
+| [Burger](https://open.spotify.com/track/4XvXox1Qjw5iadBBJkVRMv) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/3ceIIgqr4ot4QBpdCALSzJ) | 4:06 | 2022-10-02 | 2022-12-03 |
 | [Bye Bye Planet](https://open.spotify.com/track/1U48ZpowatBIEC22vdKkaw) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Noise on Fire \(Remastered\)](https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ) | 1:47 | 2022-10-06 |  |
 | [Clementine](https://open.spotify.com/track/0XrOG2I7stfgSx8CPzsTPL) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH) | 2:23 | 2022-09-06 |  |
 | [COBALT](https://open.spotify.com/track/28ZZvL8qrT4kSCb6imjaUa) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 4:32 | 2022-08-25 |  |
@@ -221,6 +221,7 @@
 | [공항 가는 길](https://open.spotify.com/track/59a8bElU9C0U0ZAewaCurc) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Just pop](https://open.spotify.com/album/0FF3bgrrpGh8PE4EAnwtxG) | 3:59 | 2022-08-25 |  |
 | [난 어디로 Where Am I Going](https://open.spotify.com/track/48olrtFEJvEXMrUu9b1XHI) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Noise on Fire \(Remastered\)](https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ) | 4:19 | 2022-10-06 |  |
 | [다죽자](https://open.spotify.com/track/5zElW3dIf8kuVjd9ak82MQ) | [크라잉넛](https://open.spotify.com/artist/1SGNqDSdlxbsgJkyoDZiwY) | [서커스 매직 유랑단](https://open.spotify.com/album/3ETdw0CvCfrbLAQFe8UbMo) | 6:48 | 2022-10-06 |  |
+| [버거 Burger](https://open.spotify.com/track/51f4A9WcjkND9aGHpuAh8Q) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/1ZnN6DgqZVnxRHd6OxGsBh) | 4:06 | 2022-10-18 |  |
 | [비밀](https://open.spotify.com/track/4NqSFrKgTTMv846p4hIrvF) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [나는 가수다 2 2012 가왕전 개막제](https://open.spotify.com/album/2Wz7LaK00NEFJBIu6GZTBM) | 4:52 | 2022-10-06 |  |
 | [비와 당신의 이야기](https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [The Best Of Born Again](https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN) | 6:01 | 2022-10-06 |  |
 | [사랑할수록](https://open.spotify.com/track/30GH7aoSEBD9YmgSy83K85) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 4:10 | 2022-10-06 |  |

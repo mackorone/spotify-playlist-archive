@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Kevin Kaarl en portada.",
+  "description": "Sangre fresca en las escenas del indie y el rock. Astronom\u00eda Interior en portada.",
   "name": "EL ROCK NO HA MUERTO",
-  "published_playlist_ids": [
-    "1V1OHh2gBqHE70WTxIG68y"
-  ],
   "tracks": [
     {
       "album": {
@@ -562,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Cuchillos",
+        "url": "https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162719,
+      "name": "Cuchillos",
+      "url": "https://open.spotify.com/track/4vEutziRAYewCT97ziq48J"
+    },
+    {
+      "album": {
         "name": "Estar Bien",
         "url": "https://open.spotify.com/album/2wiOiXYM1X9FxDIm2SG0bz"
       },
@@ -667,7 +682,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-28",
       "duration_ms": 192416,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu"
@@ -1009,7 +1024,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": "2023-01-10",
       "duration_ms": 187658,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq"
@@ -1049,6 +1064,24 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174586,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3"
     },
     {
       "album": {
@@ -1247,7 +1280,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 219626,
       "name": "Hombre perro de Tlatelolco",
       "url": "https://open.spotify.com/track/1IWvQ1eB8B1mFO0pecAYXo"
@@ -1380,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "La Insoportable Levedad del Final",
+        "url": "https://open.spotify.com/album/6qNHPl2FTO7hgeNOO39E4s"
+      },
+      "artists": [
+        {
+          "name": "THE SUPUESTOS",
+          "url": "https://open.spotify.com/artist/6nrVwZIURyY5RIPp3eXPra"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 237633,
+      "name": "La Insoportable Levedad del Final",
+      "url": "https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle"
+    },
+    {
+      "album": {
         "name": "La Izquierda de la Noche",
         "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
       },
@@ -1485,7 +1536,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 194866,
       "name": "La \u00daltima Llamada",
       "url": "https://open.spotify.com/track/3xqO0HGtRgTkS9xzNEQxwb"
@@ -1593,7 +1644,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": "2023-01-24",
       "duration_ms": 207573,
       "name": "Lluvia de Fuego",
       "url": "https://open.spotify.com/track/0xcGGpruM3gbxMtZjyWp1E"
@@ -1701,7 +1752,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 197077,
       "name": "Luciana",
       "url": "https://open.spotify.com/track/1btgrD66tOkrj6C8NjnCWs"
@@ -1889,7 +1940,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-04",
       "duration_ms": 188181,
       "name": "Mi Canci\u00f3n",
       "url": "https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72"
@@ -1933,10 +1984,32 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 155253,
       "name": "Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI"
+    },
+    {
+      "album": {
+        "name": "\u00bfY C\u00f3mo?",
+        "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155533,
+      "name": "Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/399BxbhCL9R03WhKykK8ks"
     },
     {
       "album": {
@@ -1973,6 +2046,24 @@
       "duration_ms": 198558,
       "name": "Mismo Amor",
       "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
+    },
+    {
+      "album": {
+        "name": "Muerte en el Jard\u00edn Bot\u00e1nico",
+        "url": "https://open.spotify.com/album/1xtbJb0nDQuoex12w7yILl"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266347,
+      "name": "Muerte en el Jard\u00edn Bot\u00e1nico",
+      "url": "https://open.spotify.com/track/4HJtmS8JXnrR521Szn3RUE"
     },
     {
       "album": {
@@ -2313,7 +2404,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 247480,
       "name": "Otra vez t\u00fa",
       "url": "https://open.spotify.com/track/1j8D34XxJDjPEmAKdc3cl7"
@@ -2407,7 +2498,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 298174,
       "name": "Piel De Luna",
       "url": "https://open.spotify.com/track/57NtJwiDGoCgcXVs6yi16N"
@@ -2443,7 +2534,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 241160,
       "name": "Polvo C\u00f3smico",
       "url": "https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC"
@@ -2504,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Pronto",
+        "url": "https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Pronto",
+      "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
+    },
+    {
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP"
       },
@@ -2545,6 +2654,24 @@
       "duration_ms": 209440,
       "name": "Quisiera Saber (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
+    },
+    {
+      "album": {
+        "name": "Recovered Files",
+        "url": "https://open.spotify.com/album/4JuXQGRqNVORHmI968HBkv"
+      },
+      "artists": [
+        {
+          "name": "Neuman",
+          "url": "https://open.spotify.com/artist/2ApGJ6o1AkNPjkFrnJQLKM"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432914,
+      "name": "Recovered Files",
+      "url": "https://open.spotify.com/track/2iheT0GXVpykVzVsPWjaVn"
     },
     {
       "album": {
@@ -2895,7 +3022,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 238722,
       "name": "Tantas Cosas Buenas",
       "url": "https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd"
@@ -2960,6 +3087,28 @@
     },
     {
       "album": {
+        "name": "Lapeste",
+        "url": "https://open.spotify.com/album/6cPThDDpJEvAyuqeRlqZgN"
+      },
+      "artists": [
+        {
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+        },
+        {
+          "name": "LaPeste",
+          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 270428,
+      "name": "Todo el D\u00eda de Hoy",
+      "url": "https://open.spotify.com/track/2bNZpngzQy9PfdwUWtv7yS"
+    },
+    {
+      "album": {
         "name": "Lanza Internacional",
         "url": "https://open.spotify.com/album/5MC0RCLUWwbTE4UHGhAtxm"
       },
@@ -2993,6 +3142,24 @@
       "duration_ms": 244268,
       "name": "Transforma",
       "url": "https://open.spotify.com/track/6wBIOgxmVa68TxzBvROZnU"
+    },
+    {
+      "album": {
+        "name": "Tratar\u00e9",
+        "url": "https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247871,
+      "name": "Tratar\u00e9",
+      "url": "https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ"
     },
     {
       "album": {
@@ -3091,6 +3258,28 @@
       "duration_ms": 264837,
       "name": "Ultramar",
       "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
+    },
+    {
+      "album": {
+        "name": "Un Impulso",
+        "url": "https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib"
+      },
+      "artists": [
+        {
+          "name": "iiis",
+          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
+        },
+        {
+          "name": "Florencia Quinteros",
+          "url": "https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233387,
+      "name": "Un Impulso",
+      "url": "https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw"
     },
     {
       "album": {

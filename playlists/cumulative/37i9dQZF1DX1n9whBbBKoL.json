@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-17",
   "description": "Ambient drone to make you feel weightless.",
   "name": "Floating Through Space",
-  "published_playlist_ids": [
-    "23lwFG5SZoywUexjbeApF0"
-  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +20,24 @@
       "duration_ms": 158400,
       "name": "396 Hz Open Mind",
       "url": "https://open.spotify.com/track/2IDuOFkmxNV2Udp8p8oEf7"
+    },
+    {
+      "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/6Iv6r0sYftuDawl7IE66vX"
+      },
+      "artists": [
+        {
+          "name": "Deep Motions",
+          "url": "https://open.spotify.com/artist/5nkmvFGIaDVINeAqIVEEJC"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "852 Hz Inner Peace",
+      "url": "https://open.spotify.com/track/54wmUJNPXM8OiOcPcbmzhH"
     },
     {
       "album": {
@@ -140,7 +155,7 @@
       "artists": [
         {
           "name": "Pristeen",
-          "url": "https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh"
+          "url": "https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj"
         }
       ],
       "date_added": "2022-05-05",
@@ -696,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Cloudbed",
+        "url": "https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL"
+      },
+      "artists": [
+        {
+          "name": "Ceri Rocha",
+          "url": "https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163437,
+      "name": "Cloudbed",
+      "url": "https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6"
+    },
+    {
+      "album": {
         "name": "Convergence",
         "url": "https://open.spotify.com/album/1095m41z6UPcurOL35ybPa"
       },
@@ -1182,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Evolving",
+        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194919,
+      "name": "Evolving",
+      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
+    },
+    {
+      "album": {
         "name": "Fair Game",
         "url": "https://open.spotify.com/album/2HxC0AIJtD05UpH8WUoaOT"
       },
@@ -1413,6 +1464,24 @@
       "duration_ms": 200000,
       "name": "Hohenbol",
       "url": "https://open.spotify.com/track/6TYZYNqAoYfE64csvrZyoy"
+    },
+    {
+      "album": {
+        "name": "Ideaci\u00f3n",
+        "url": "https://open.spotify.com/album/3zgPW7E3jrx0xRXHYzOosw"
+      },
+      "artists": [
+        {
+          "name": "Cameron Sinosa",
+          "url": "https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "Ideaci\u00f3n",
+      "url": "https://open.spotify.com/track/6mBiafKpdwNJr0MIJJRRHO"
     },
     {
       "album": {
@@ -2399,7 +2468,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 217429,
       "name": "Ring Revolutions",
       "url": "https://open.spotify.com/track/5uFDnx2ryH994AZl8Ps0Zs"
@@ -2547,6 +2616,24 @@
       "duration_ms": 154550,
       "name": "Skymning",
       "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
+    },
+    {
+      "album": {
+        "name": "Sleep Drone In C",
+        "url": "https://open.spotify.com/album/2xyKsesDNwPXWot5KRcwLz"
+      },
+      "artists": [
+        {
+          "name": "Kamila Tait",
+          "url": "https://open.spotify.com/artist/25FanX6VBnV0irqD9A6IwL"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Sleep Drone In C",
+      "url": "https://open.spotify.com/track/5fy41aUyrZd4sHSFbq2fJQ"
     },
     {
       "album": {
@@ -2705,7 +2792,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 185780,
       "name": "Source of Wind",
       "url": "https://open.spotify.com/track/0T07s204fGJju5AXG66q9T"
@@ -2817,6 +2904,24 @@
       "duration_ms": 192500,
       "name": "Still",
       "url": "https://open.spotify.com/track/3MAn3fACQt6uwlEaE9IGNN"
+    },
+    {
+      "album": {
+        "name": "Laze",
+        "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
+      },
+      "artists": [
+        {
+          "name": "Aileen Morais",
+          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
     },
     {
       "album": {
@@ -3191,7 +3296,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 179000,
       "name": "Zeppelin See",
       "url": "https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG"
@@ -3209,7 +3314,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 185500,
       "name": "Zero Gravity",
       "url": "https://open.spotify.com/track/7hhB3DTBQSHLvfO9RvyZxf"

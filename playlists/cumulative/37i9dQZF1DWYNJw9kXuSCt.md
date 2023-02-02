@@ -4,7 +4,7 @@
 
 > The 2022 nominees.
 
-152 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/0dCZWjdvmpZmHTm4DVGHGv)
+152 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

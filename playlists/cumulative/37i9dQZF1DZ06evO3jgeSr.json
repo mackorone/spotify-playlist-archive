@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-29",
   "description": "This is Labi Siffre. The essential tracks, all in one playlist.",
   "name": "This Is Labi Siffre",
-  "published_playlist_ids": [
-    "2jFekeZPuzaG7F5m50IpwY"
-  ],
   "tracks": [
     {
       "album": {
@@ -455,7 +452,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-28",
       "duration_ms": 174960,
       "name": "Gimme Some More",
       "url": "https://open.spotify.com/track/6VBoIw0kxcNgXDwNOTNXKn"
@@ -804,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Man Of Reason",
+        "url": "https://open.spotify.com/album/13qWiNM7eIxVIEwmSgRHy2"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 254000,
+      "name": "Lovers in Arms",
+      "url": "https://open.spotify.com/track/4AhAydUmwbUneSEvERkq7U"
+    },
+    {
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/06AAV1gIjFCBjCKL3qooVf"
       },
@@ -858,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Nightmare/Run to Him/The Love Thing",
+        "url": "https://open.spotify.com/album/2iu0cxxPhCMlbhS1ylbMuE"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186253,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/767ZXrndm2nCWSBngN1YqI"
+    },
+    {
+      "album": {
         "name": "The Singer & The Song",
         "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
       },
@@ -905,7 +938,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 237693,
       "name": "Nothing in the World Like Love",
       "url": "https://open.spotify.com/track/2PP9MyExHQv5GzbWJXAhaE"
@@ -1031,7 +1064,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 230626,
       "name": "Run to Him",
       "url": "https://open.spotify.com/track/20Ip9T6BcAOwNCaa8ctCzZ"
@@ -1229,7 +1262,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 305106,
       "name": "Sparrow in the Storm",
       "url": "https://open.spotify.com/track/3Gv9WpKCEpneOn2nrd20p1"
@@ -1319,7 +1352,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 237466,
       "name": "The Life I Got",
       "url": "https://open.spotify.com/track/4sRNeqCO9HtszLpsMqaR53"
@@ -1337,7 +1370,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": "2023-02-01",
       "duration_ms": 215360,
       "name": "The Shadow of Our Love",
       "url": "https://open.spotify.com/track/5VmcD4MxHiUBz1d8oe5S10"
@@ -1506,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184226,
+      "name": "Who Do You See",
+      "url": "https://open.spotify.com/track/7rMcwxMWXeBsbXjSdnA28J"
+    },
+    {
+      "album": {
         "name": "The Last Songs",
         "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
       },
@@ -1575,6 +1626,24 @@
       "duration_ms": 250026,
       "name": "You Make It Easy",
       "url": "https://open.spotify.com/track/1f2tuM9cGS0U3usGnCZ0pY"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 228573,
+      "name": "You'll Let Me Know",
+      "url": "https://open.spotify.com/track/5qFgkAegJUlElcXmdUKJUk"
     },
     {
       "album": {

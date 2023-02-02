@@ -4,7 +4,7 @@
 
 > Beats que le suben el ánimo a tu día.
 
-82 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/5VrVr3VNwavbhZLRyDryhs)
+85 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2021-10-15 |  |
 | [Cream On Chrome](https://open.spotify.com/track/0yzfkTH0QKIAYVeTex1NKJ) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Magnifique](https://open.spotify.com/album/5bFeGIVw5pGnLamK7eVSef) | 4:15 | 2021-10-15 |  |
 | [Cream On Chrome](https://open.spotify.com/track/3s25iX3minD5jORW4KpANZ) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Magnifique](https://open.spotify.com/album/4Lp4NxL8v03Mxg3hbAgW1Z) | 4:15 | 2021-10-15 | 2022-07-29 |
-| [Da Feelin](https://open.spotify.com/track/4JCmpKszRvku5euErqBIPO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Thought So…](https://open.spotify.com/album/0nLCUby65vPnn29qRPFq4I) | 4:41 | 2021-10-15 |  |
+| [Da Feelin](https://open.spotify.com/track/2eV5tSdlAqNQIHRzHUMsXe) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Thought So…](https://open.spotify.com/album/6eRbwkfRJkEWTdNQ7NL3rT) | 4:41 | 2022-10-10 |  |
+| [Da Feelin](https://open.spotify.com/track/4JCmpKszRvku5euErqBIPO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Thought So…](https://open.spotify.com/album/0nLCUby65vPnn29qRPFq4I) | 4:41 | 2021-10-15 | 2023-02-02 |
 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 | 2021-10-15 |  |
 | [Del Ray](https://open.spotify.com/track/6wk7xDBvxOB9mC58mAiHtI) | [Sola Rosa](https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52) | [Get It Together \(Deluxe Edition\)](https://open.spotify.com/album/4cUzBfvfHSs6fTR7zYiHja) | 4:31 | 2021-10-15 |  |
 | [Destination](https://open.spotify.com/track/3Yw5a8qoFLRI6syccll9av) | [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Destination](https://open.spotify.com/album/0tvnTrH77t7WwR59Ww6PP2) | 4:42 | 2021-10-15 |  |
@@ -60,7 +61,8 @@
 | [No Time For Dreaming \- Instrumental](https://open.spotify.com/track/6FEESiC65oKkgebXZlPc5J) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time for Dreaming \(The Instrumentals\)](https://open.spotify.com/album/52Ad1j9o1wFWUj8DRul2sL) | 2:54 | 2021-10-15 |  |
 | [Noble Metals](https://open.spotify.com/track/5Yy17GXyBXDe1W01tXRu8H) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Jaguar Sound](https://open.spotify.com/album/0G4ZUqUhs6LMEiZ6ADc6bX) | 3:32 | 2022-10-10 |  |
 | [Noble Metals](https://open.spotify.com/track/5jf20rikIBhQmhApETtfCv) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Noble Metals](https://open.spotify.com/album/0KS1uMeRpJNDNNSjlJf7a3) | 3:32 | 2022-10-10 | 2022-11-21 |
-| [Oh My God \(feat\. Lily Allen\) \- Instrumental](https://open.spotify.com/track/5KNqTr64pJLzSrDC6P4NH6) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/album/2NPq3xrMiBkXt6dz8LPPTN) | 3:40 | 2021-10-15 |  |
+| [Oh My God \(feat\. Lily Allen\) \- Instrumental](https://open.spotify.com/track/3WQIsoZw1ozbE7KW0C7gfW) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/album/4J086EMlr6bwo4E4o93vvP) | 3:39 | 2022-10-10 |  |
+| [Oh My God \(feat\. Lily Allen\) \- Instrumental](https://open.spotify.com/track/5KNqTr64pJLzSrDC6P4NH6) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/album/2NPq3xrMiBkXt6dz8LPPTN) | 3:40 | 2021-10-15 | 2022-11-28 |
 | [People Everywhere \(Still Alive\)](https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 2:39 | 2021-10-15 |  |
 | [Porcelain](https://open.spotify.com/track/2UKYMN7VnsQo40n0qCt6Sa) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 4:01 | 2021-10-15 | 2022-10-14 |
 | [Porcelain](https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 4:01 | 2021-10-15 | 2022-07-29 |
@@ -88,7 +90,8 @@
 | [You fly me](https://open.spotify.com/track/5R4q6bsvAChmt1icAE1EWh) | [Fingathing](https://open.spotify.com/artist/7l9MYefk0544OMaA9wIPDW) | [Hôtel Costes 6](https://open.spotify.com/album/1VxdV8gGNW9JAdZ7yak3c0) | 2:52 | 2021-10-15 |  |
 | [You Make Me Smile \(Instrumental\)](https://open.spotify.com/track/3erovQ48Iy0iqZb9e9NrZu) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [You Make Me Smile](https://open.spotify.com/album/7gpO1RGycB9OmjuALSkNBO) | 3:25 | 2021-10-15 | 2022-07-29 |
 | [You Make Me Smile \(Instrumental\)](https://open.spotify.com/track/71On3WSmjDOUD9Jct2bzYc) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [You Make Me Smile](https://open.spotify.com/album/24UTCXhd9ITgPpSuIkrrxM) | 3:25 | 2021-10-15 |  |
-| [You Wish](https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 3:30 | 2021-10-15 |  |
+| [You Wish](https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg) | 3:29 | 2022-10-10 |  |
+| [You Wish](https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 3:30 | 2021-10-15 | 2023-02-02 |
 | [You're the Kind of Girl \(Instrumental\)](https://open.spotify.com/track/6gZkoHTufo7bTuMHFyppWv) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Faithful Man \(Instrumentals\)](https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG) | 4:00 | 2021-10-15 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > The best <a href="spotify:genre:classical">classical</a> pieces inspired by dancing snowflakes, or evoke images of winter landscapes\. Enjoy the perfect soundtrack for a winter journey, or a quiet night's reading by the fireside\. Other seasons: <a href="spotify:user:spotify:playlist:37i9dQZF1DWZm0IlR3JPVY">Spring</a>, <a href="spotify:user:spotify:playlist:37i9dQZF1DWYRUctuBGBo1">Summer</a>, <a href="spotify:user:spotify:playlist:37i9dQZF1DX2d2B80QbRDa">Autumn</a>.
 
-50 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/5MlyL0niBoGIZlqfgdhBBp)
+50 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

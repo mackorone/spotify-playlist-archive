@@ -4,7 +4,7 @@
 
 > Gentle classical music to help you relax and reflect.
 
-48 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/5X2uSgbooDuJBwhTBFmpAA)
+48 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

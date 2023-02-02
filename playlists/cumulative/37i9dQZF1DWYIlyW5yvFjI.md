@@ -4,7 +4,7 @@
 
 > Beautiful noise: when Shoegaze goes Ambient\. Cocteau Twins on cover.
 
-91 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/0CAQvjSr54E3ebNuJC92r5)
+91 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [This Is NCT DREAM](https://open.spotify.com/playlist/37i9dQZF1DWVZj12Ektr6v)
 
-> To the world, this is NCT! This is NCT DREAM! The repackaged album, Beatbox is out!
+> To the world, this is NCT! We are NCT DREAM! Our Winter Special Mini Album ‘Candy’ is out!
 
-62 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/02TGDCuKun9YLzos676Haj)
+68 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bungee](https://open.spotify.com/track/2dRiyL82K8xPV3gLBDJZMx) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:28 | 2022-03-28 |  |
 | [Bye My First…](https://open.spotify.com/track/0qhTNlYrAJBXpHHzay7qvM) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:27 | 2022-03-28 |  |
 | [Candle Light](https://open.spotify.com/track/6nUpdTLUSel3Zp6lhHZRbX) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candle Light \- SM STATION](https://open.spotify.com/album/077Bz6P3dTrhGjYx2vF0yY) | 3:56 | 2022-03-28 |  |
+| [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2022-12-16 |  |
 | [Chewing Gum](https://open.spotify.com/track/1oacrRLAurXf6ylXFhF2YT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Chewing Gum](https://open.spotify.com/album/53wPhgvCnPI6QMvF7SABkX) | 3:17 | 2022-03-28 |  |
 | [Countdown \(3, 2, 1\)](https://open.spotify.com/track/5ngy93w3QaZl3mN9YinIux) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:34 | 2022-03-28 |  |
 | [Dear DREAM](https://open.spotify.com/track/42HB7NqTtooRK7Lrwvwrq2) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:09 | 2022-03-28 |  |
@@ -39,6 +40,7 @@
 | [Fire Alarm](https://open.spotify.com/track/4HhjBzw5QUpkPzswMsIWZR) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:12 | 2022-03-28 |  |
 | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/track/1F9FQp9dnnQWTkaK6Nzm1W) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/album/6MYKofPnqIdjfznGSopzCi) | 3:20 | 2022-03-28 |  |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-28 |  |
+| [Graduation](https://open.spotify.com/track/35ytd9cmG15jXG0RKWC9p4) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:57 | 2022-12-16 |  |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2022-03-28 |  |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2022-03-28 |  |
 | [Irreplaceable](https://open.spotify.com/track/3EFNqXf54nYARxXm5b7kGT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:24 | 2022-03-28 |  |
@@ -47,6 +49,7 @@
 | [La La Love](https://open.spotify.com/track/2x9A6XKR8u72GysiSQm7Dw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Young \- The 1st Mini Album](https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b) | 3:01 | 2022-03-28 |  |
 | [Life Is Still Going On](https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:38 | 2022-03-28 |  |
 | [Love Again](https://open.spotify.com/track/2eqehaP6hg04FQ82CLErFd) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:30 | 2022-03-28 |  |
+| [Moon](https://open.spotify.com/track/2T7gEWrBetDarvBXexyw8Z) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 4:13 | 2022-12-16 |  |
 | [My Page](https://open.spotify.com/track/63oREMsb7uCqgVztE72Pyv) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Young \- The 1st Mini Album](https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b) | 3:46 | 2022-03-28 |  |
 | [My Youth](https://open.spotify.com/track/3vG5ilGpaYA2MhVtyTORF1) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:56 | 2022-03-28 |  |
 | [Never Goodbye](https://open.spotify.com/track/5EAfUqytXYbH0yUZR3QGli) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:32 | 2022-03-28 |  |
@@ -61,10 +64,13 @@
 | [Saturday Drip](https://open.spotify.com/track/2ohOA4P55RsoU1bOanNGyB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:00 | 2022-03-28 |  |
 | [Sorry, Heart](https://open.spotify.com/track/6GKShCAPVjtOWJTH5tcSoj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:33 | 2022-05-30 |  |
 | [STRONGER](https://open.spotify.com/track/6pHjX4thmIYqqmODsW1kIy) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:26 | 2022-03-28 |  |
+| [Take My Breath](https://open.spotify.com/track/1v4Jh705vsTcn74IMDNa4s) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:00 | 2022-12-16 |  |
+| [Tangerine Love \(Favorite\)](https://open.spotify.com/track/3yRdRil3CldYFNS3eYAf1X) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 2:58 | 2022-12-16 |  |
 | [Teddy Bear](https://open.spotify.com/track/4j8hB6XdIYspmYbFsBk1DD) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 4:02 | 2022-03-28 |  |
 | [To My First](https://open.spotify.com/track/7cjojsJwncbiCI0rqOOf9j) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:03 | 2022-05-30 |  |
 | [Trigger the fever \(The Official Song of the FIFA U\-20 World Cup Korea Republic 2017\)](https://open.spotify.com/track/6YEzJ1abhCakyaTq826f1j) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Trigger the fever \(The Official Song of the FIFA U\-20 World Cup Korea Republic 2017\)](https://open.spotify.com/album/29KXevMY8U3atSgi1qUH2f) | 3:26 | 2022-03-28 |  |
 | [Up to You \(feat\. NCT DREAM\)](https://open.spotify.com/track/58LUjGxK8NF8VD7KxRvONb) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Up to You \(feat\. NCT DREAM\)](https://open.spotify.com/album/6C3yf6dS7gjx9LEgMkfOka) | 2:40 | 2022-03-28 |  |
+| [Walk With You](https://open.spotify.com/track/0ioPVzKGYu2TTbZZ5Wo4Kd) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:35 | 2022-12-16 |  |
 | [We Go Up](https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:03 | 2022-03-28 |  |
 | [We Young](https://open.spotify.com/track/2nChvM2Tyv1ib8AvfCJcOe) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Young \- The 1st Mini Album](https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b) | 3:44 | 2022-03-28 |  |
 | [같은 시간 같은 자리 Walk you home](https://open.spotify.com/track/48U7tDoHquyAGPW119Xpvi) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Young \- The 1st Mini Album](https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b) | 2:55 | 2022-03-28 |  |

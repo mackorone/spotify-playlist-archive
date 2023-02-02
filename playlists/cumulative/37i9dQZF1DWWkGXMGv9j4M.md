@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-157 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/1Pjd800VkqQ5UHpr6EEuIh)
+160 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [anything](https://open.spotify.com/track/4DtEcOoqORcOaiYl4HQGsS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [anything](https://open.spotify.com/album/2e3TrMSoC2IdX6tksQwpls) | 3:22 | 2020-12-01 | 2022-07-29 |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2020-12-01 |  |
 | [Are You Even Real?](https://open.spotify.com/track/2k0HXdTDW28JFAaS8TaHeA) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Are You Even Real?](https://open.spotify.com/album/4k4iHNk6u4RlloqaNXlzwQ) | 3:51 | 2020-12-01 |  |
-| [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2020-12-01 | 2022-10-25 |
-| [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10) | 1:09 | 2020-12-01 |  |
+| [Bad Idea](https://open.spotify.com/track/5OUGZoUonZ0ksZh3VDIlRP) | [axiiiiiiiii](https://open.spotify.com/artist/3lU88Di4kPdjmZzTDoacwD) | [Archiv3s](https://open.spotify.com/album/22d65J58ShqU0yYBXmNerw) | 1:09 | 2020-12-01 | 2023-01-25 |
+| [bad idea](https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea](https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J) | 1:09 | 2020-12-01 |  |
+| [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [bad idea \(feat\. blackwinterwells\)](https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10) | 1:09 | 2020-12-01 | 2023-01-05 |
 | [Be Honest](https://open.spotify.com/track/1GDe2pacTrpqTvJANhWRXy) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Be Honest](https://open.spotify.com/album/6Sg9GmRJi0tYgBsG2vwCVl) | 3:57 | 2020-12-01 | 2022-07-29 |
 | [Be Honest](https://open.spotify.com/track/3F7FoSj6zuAVSElSh2edDA) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Be Honest](https://open.spotify.com/album/6jq2nhCkz61Qp9COHmbO6S) | 3:57 | 2020-12-01 |  |
 | [Being Harsh](https://open.spotify.com/track/7lPWgqoLTU7zzw2fq5OJbo) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/0PHVIdlkceOpjYgvUER4Nd) | 3:08 | 2020-12-01 | 2022-07-29 |
@@ -77,13 +78,15 @@
 | [It Might Take a Woman](https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb) | 3:10 | 2020-12-01 |  |
 | [Jason](https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 3:05 | 2020-12-01 |  |
 | [Jason](https://open.spotify.com/track/4pCo0hx75daUKKkfi1XXOO) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/6daEdTBi1hyFQgmsnR7oRr) | 3:05 | 2020-12-01 | 2022-07-29 |
-| [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2020-12-01 |  |
+| [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2020-12-01 | 2023-02-02 |
+| [Kerosene!](https://open.spotify.com/track/2OoKzfr7RB5o9cxHArUoIS) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 5:05 | 2020-12-01 |  |
 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 | 2020-12-01 |  |
 | [Lifetime](https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ) | 3:17 | 2020-12-01 |  |
 | [Lifetime](https://open.spotify.com/track/2sA69gKpUk8dcF5SuqApyK) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime Remixes](https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy) | 3:17 | 2020-12-01 | 2022-11-13 |
 | [Lifetime](https://open.spotify.com/track/6UcQPAH459nMfAXAvV9Udc) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/4aymv3MZSQ5GEb1jS6NVSa) | 3:17 | 2020-12-01 | 2022-07-29 |
 | [Loner](https://open.spotify.com/track/40Pa7wCFSPRD5sOeExd5uo) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Loner](https://open.spotify.com/album/4SL4EVh9koAvjdDWx6eXiq) | 3:12 | 2020-12-01 |  |
-| [Long Road Home](https://open.spotify.com/track/31Ocb5xOyTkjIyv7FdBF05) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z) | 3:32 | 2020-12-01 |  |
+| [Long Road Home](https://open.spotify.com/track/2XEVYZ8To1zZcfnSfqecLH) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/5o7JAhPyjgxKUsJH0PpwwZ) | 3:32 | 2020-12-01 |  |
+| [Long Road Home](https://open.spotify.com/track/31Ocb5xOyTkjIyv7FdBF05) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z) | 3:32 | 2020-12-01 | 2023-02-02 |
 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 | 2020-12-01 |  |
 | [Maybe I'll Go Nowhere](https://open.spotify.com/track/4dry9L9GCVDkZccpIQ81LH) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 4:03 | 2020-12-01 |  |
 | [MODUS](https://open.spotify.com/track/5BibcbKVdZUuTttSG02JTp) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:27 | 2020-12-01 |  |

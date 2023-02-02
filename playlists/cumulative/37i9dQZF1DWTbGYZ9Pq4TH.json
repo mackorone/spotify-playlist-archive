@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-05-09",
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
   "name": "Amore Davvero",
-  "published_playlist_ids": [
-    "4xbXrPn6qPTl8i2Ptaki7A"
-  ],
   "tracks": [
     {
       "album": {
@@ -127,7 +124,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 282360,
       "name": "Acqua e Sale",
       "url": "https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr"
@@ -217,7 +214,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-15",
       "duration_ms": 239693,
       "name": "Anche Fragile",
       "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
@@ -329,7 +326,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 274973,
       "name": "Bella senz'anima",
       "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
@@ -661,7 +658,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-15",
       "duration_ms": 228480,
       "name": "Del verde",
       "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
@@ -939,6 +936,24 @@
     {
       "album": {
         "name": "Samuele Bersani",
+        "url": "https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR"
+      },
+      "artists": [
+        {
+          "name": "Samuele Bersani",
+          "url": "https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235693,
+      "name": "Giudizi universali",
+      "url": "https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ"
+    },
+    {
+      "album": {
+        "name": "Samuele Bersani",
         "url": "https://open.spotify.com/album/2RU2nSMerlc8qvcUMvgPqQ"
       },
       "artists": [
@@ -971,7 +986,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 266746,
       "name": "Gli Ostacoli Del Cuore",
       "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
@@ -1069,7 +1084,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 227466,
       "name": "Hola (I Say) (feat. Tom Walker)",
       "url": "https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi"
@@ -1105,7 +1120,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 177000,
       "name": "Il bacio di Klimt",
       "url": "https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF"
@@ -1297,7 +1312,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 296040,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
@@ -1553,7 +1568,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 279706,
       "name": "La donna cannone",
       "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
@@ -1827,7 +1842,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 221631,
       "name": "MADAME - L'anima (feat. Madame)",
       "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
@@ -1935,7 +1950,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 271320,
       "name": "Mi Fido Di Te",
       "url": "https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0"
@@ -2191,7 +2206,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2023-01-13",
       "duration_ms": 228986,
       "name": "Oggi Sono Io",
       "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
@@ -3179,7 +3194,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-03",
       "duration_ms": 185173,
       "name": "Una canzone che non so",
       "url": "https://open.spotify.com/track/6pDqB2dlzxB2i9Inu4h3wC"
@@ -3291,7 +3306,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-29",
       "duration_ms": 241440,
       "name": "Vattene amore (feat. Amedeo Minghi)",
       "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
@@ -3335,7 +3350,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 253626,
       "name": "Vieni A Vedere Perch\u00e8",
       "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"

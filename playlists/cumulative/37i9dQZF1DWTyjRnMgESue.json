@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
   "name": "Today's Singer-Songwriters",
-  "published_playlist_ids": [
-    "4XYhXRn3Q3oPGv6d3LNArS"
-  ],
   "tracks": [
     {
       "album": {
@@ -113,7 +110,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 150054,
       "name": "All in My Head",
       "url": "https://open.spotify.com/track/042VxsK2Y8MMxoWBQ5SLxn"
@@ -475,7 +472,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 215111,
       "name": "Beat of My Heart",
       "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
@@ -493,7 +490,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 258079,
       "name": "Becoming All Alone",
       "url": "https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS"
@@ -1063,7 +1060,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 321662,
       "name": "Como me encanta",
       "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
@@ -1189,7 +1186,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 217242,
       "name": "Dark Bird",
       "url": "https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN"
@@ -1279,7 +1276,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 223733,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft"
@@ -1315,7 +1312,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 242931,
       "name": "Don't Grow Up Too Fast",
       "url": "https://open.spotify.com/track/1moE3Qvo70cpkGT6RcRy9l"
@@ -1557,7 +1554,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 236079,
       "name": "End of the Day",
       "url": "https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u"
@@ -2343,7 +2340,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 202758,
       "name": "Hang On To Me",
       "url": "https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK"
@@ -2867,7 +2864,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 198093,
       "name": "Hymn for Her",
       "url": "https://open.spotify.com/track/6pGiAaDuRg3VJGE18rmWcs"
@@ -3253,7 +3250,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 193367,
       "name": "If Not My Heart",
       "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
@@ -3445,6 +3442,24 @@
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+    },
+    {
+      "album": {
+        "name": "Last Man On Earth",
+        "url": "https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY"
+      },
+      "artists": [
+        {
+          "name": "Anna Bates",
+          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188813,
+      "name": "Last Man On Earth",
+      "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
     },
     {
       "album": {
@@ -3893,7 +3908,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 183360,
       "name": "Make It Out (feat. Maisie Peters)",
       "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"
@@ -4319,7 +4334,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 194560,
       "name": "Occasionally",
       "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
@@ -4543,7 +4558,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 167773,
       "name": "pity season",
       "url": "https://open.spotify.com/track/2YGoL1hWHLGtfyij4zr0hC"
@@ -4669,7 +4684,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 197755,
       "name": "Radiohead",
       "url": "https://open.spotify.com/track/5IL0nIQHoYJk4FEYItYnys"
@@ -4879,6 +4894,24 @@
     {
       "album": {
         "name": "And I'm Still Thinking About That",
+        "url": "https://open.spotify.com/album/5OfSLeae51B6fEflQ08R3g"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Same Effect",
+      "url": "https://open.spotify.com/track/4eQusHQO3bQ2ewZZougkhQ"
+    },
+    {
+      "album": {
+        "name": "And I'm Still Thinking About That",
         "url": "https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B"
       },
       "artists": [
@@ -5051,7 +5084,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 155660,
       "name": "Sleep Deprivation",
       "url": "https://open.spotify.com/track/7sPcz0XlmcxQnd3rK45fOx"
@@ -5333,7 +5366,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
@@ -5499,7 +5532,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 172808,
       "name": "Texas Girl",
       "url": "https://open.spotify.com/track/33ADzejAdZCu13hAcnzkIC"
@@ -5557,6 +5590,24 @@
       "duration_ms": 218226,
       "name": "The Act",
       "url": "https://open.spotify.com/track/5iWQKj4s6KRM5kZLzyGYqd"
+    },
+    {
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/12FtJ1DgVIT12XlvPRxtMb"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190216,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/7qkX2mHStdrHVC2NFWqwpo"
     },
     {
       "album": {
@@ -6501,6 +6552,28 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/07y1wKzh66t1XuJQiIM0Dt"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        },
+        {
+          "name": "Kate York",
+          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196639,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4qW6aTyYPTuiFtAq4pjJta"
     },
     {
       "album": {

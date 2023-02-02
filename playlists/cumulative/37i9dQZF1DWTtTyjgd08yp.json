@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Hauntingly atmospheric, deeply melodic indie.",
   "name": "Deep Dark Indie",
-  "published_playlist_ids": [
-    "3KkA6yjllLvBiw1k7e9VOi"
-  ],
   "tracks": [
     {
       "album": {
@@ -2095,10 +2092,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 266277,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6"
+    },
+    {
+      "album": {
+        "name": "Love and War",
+        "url": "https://open.spotify.com/album/5pt1GAcmsDuMUXgelOQYXA"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266277,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/4PJ7UxGTWvLLbNBn75fcx6"
     },
     {
       "album": {

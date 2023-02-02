@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
   "name": "This Is Luis R Conriquez",
-  "published_playlist_ids": [
-    "6L0IFMoxZABDTeTkmPaFPR"
-  ],
   "tracks": [
     {
       "album": {
@@ -212,6 +209,28 @@
     },
     {
       "album": {
+        "name": "Cuando Te Acuerdes De M\u00ed",
+        "url": "https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 198669,
+      "name": "Cuando Te Acuerdes De M\u00ed",
+      "url": "https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2"
+    },
+    {
+      "album": {
         "name": "Corridos 2019 Vol. 2",
         "url": "https://open.spotify.com/album/7qWQtf7ia2Bf8q22TPMn8D"
       },
@@ -317,10 +336,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 165407,
       "name": "El 8",
       "url": "https://open.spotify.com/track/3MlwQd4W9ySCi505CK5N26"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168277,
+      "name": "El Apache",
+      "url": "https://open.spotify.com/track/6JtzRe7OZeTp3np1d3qULV"
     },
     {
       "album": {
@@ -437,7 +478,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 134000,
       "name": "El Comandante",
       "url": "https://open.spotify.com/track/5ZZIduUosHfi5GQQsbhGGu"
@@ -495,10 +536,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-03",
       "duration_ms": 142863,
       "name": "El De La S",
       "url": "https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9"
+    },
+    {
+      "album": {
+        "name": "El Del Palenque",
+        "url": "https://open.spotify.com/album/4yWgittlnciR60xapf9IYH"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "El Del Palenque",
+      "url": "https://open.spotify.com/track/6LWj1Vkb8eAtvGm4kAc2bD"
     },
     {
       "album": {
@@ -517,6 +580,28 @@
       "duration_ms": 196835,
       "name": "El Dinero No Me Cambia - En Vivo",
       "url": "https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS"
+    },
+    {
+      "album": {
+        "name": "El Doble R",
+        "url": "https://open.spotify.com/album/0qitEBP6yqG4OJNw4NjR7a"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161041,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/516mMyMpgX5AvGZ773buQd"
     },
     {
       "album": {
@@ -691,7 +776,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-21",
       "duration_ms": 185527,
       "name": "El Primito (En Vivo)",
       "url": "https://open.spotify.com/track/5IWf4feNMKgijlJugOLYkJ"
@@ -797,7 +882,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 176195,
       "name": "Equipo RR",
       "url": "https://open.spotify.com/track/14C4FsfMkXf4dmqKF2apqG"
@@ -919,6 +1004,32 @@
       "duration_ms": 151104,
       "name": "Los Pajaros (En Vivo)",
       "url": "https://open.spotify.com/track/5cDiDT7E88eUXiVhkUYEpf"
+    },
+    {
+      "album": {
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260285,
+      "name": "Malas Rachas",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
       "album": {
@@ -1111,7 +1222,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-21",
       "duration_ms": 197714,
       "name": "Por Clave 9-1",
       "url": "https://open.spotify.com/track/0TnUV2vPKYf0TSgKuchTXU"
@@ -1133,6 +1244,24 @@
       "duration_ms": 166347,
       "name": "Por Clave El 02",
       "url": "https://open.spotify.com/track/66gge7FSp4QFJs5usnSvJm"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197781,
+      "name": "Por Clave el 3",
+      "url": "https://open.spotify.com/track/2YPVZzjY8uLt7QUUPg0dU8"
     },
     {
       "album": {
@@ -1266,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Si de B\u00e9licos Hablamos (En Vivo)",
+        "url": "https://open.spotify.com/album/3l4KUKS3RgieBHWLmyjJ3Q"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "Si de B\u00e9licos Hablamos (En Vivo)",
+      "url": "https://open.spotify.com/track/2fTo0N3x8JCEy3iSVNMiHx"
+    },
+    {
+      "album": {
         "name": "Si Respetan, Respeto",
         "url": "https://open.spotify.com/album/4Ug2MkxrrHtdgx6Qg59KUi"
       },
@@ -1372,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185130,
+      "name": "Tropa del Infierno",
+      "url": "https://open.spotify.com/track/414oo6t5s8XI1paph23B3D"
+    },
+    {
+      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -1409,7 +1574,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 202779,
       "name": "Yo Fui El Choki",
       "url": "https://open.spotify.com/track/1k7BcLftj6rmgBDRuK3bpc"

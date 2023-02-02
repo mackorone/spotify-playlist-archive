@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-24",
   "description": "Lo mejor del hip hop espa\u00f1ol. Foto: Natos y Waor",
   "name": "Rap Espa\u00f1ol",
-  "published_playlist_ids": [
-    "6HU8sOAPcOoaf1vF1QQHTH"
-  ],
   "tracks": [
     {
       "album": {
@@ -347,7 +344,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 88000,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6oU0ts0UfSzBAxKsd0pPdN"
@@ -417,7 +414,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 255903,
       "name": "Aon Wanna Kno",
       "url": "https://open.spotify.com/track/5urbTKQoBiPiaDAbOvvP4g"
@@ -607,7 +604,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 252000,
       "name": "Bengala",
       "url": "https://open.spotify.com/track/49FHrJRo7LTlNI2KPwpMVd"
@@ -1015,7 +1012,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-30",
       "duration_ms": 269759,
       "name": "Dime que s\u00ed",
       "url": "https://open.spotify.com/track/5WFukWVre2TgDKG6G4T5Wq"
@@ -1969,10 +1966,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 216555,
       "name": "Mar de Males",
       "url": "https://open.spotify.com/track/2dt8G6Jx5Ngp5WKvZQoXf1"
+    },
+    {
+      "album": {
+        "name": "Mar de Males",
+        "url": "https://open.spotify.com/album/7kmm1jkiaazsTLMW0OX6MC"
+      },
+      "artists": [
+        {
+          "name": "Mayo 214",
+          "url": "https://open.spotify.com/artist/7uXKIO6VDeOCo6ImWZpZJn"
+        },
+        {
+          "name": "La Cantera",
+          "url": "https://open.spotify.com/artist/1T1XaAhbH2hFHDIAUhLAaa"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216555,
+      "name": "Mar de Males",
+      "url": "https://open.spotify.com/track/7ox34DRBx7WjFQkeukX2Zd"
     },
     {
       "album": {
@@ -2349,6 +2368,28 @@
       "duration_ms": 296000,
       "name": "Nana",
       "url": "https://open.spotify.com/track/2kZ1CuF4YhcxZfoHyCq6JM"
+    },
+    {
+      "album": {
+        "name": "Nanai",
+        "url": "https://open.spotify.com/album/73HBLirEmtxzVgwdkNjgVD"
+      },
+      "artists": [
+        {
+          "name": "Anier",
+          "url": "https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS"
+        },
+        {
+          "name": "SOTAN",
+          "url": "https://open.spotify.com/artist/0j5FI8l1hd3jag2yRmZV8O"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172982,
+      "name": "Nanai",
+      "url": "https://open.spotify.com/track/67IUEsbUdToIjiUl1H3QWN"
     },
     {
       "album": {
@@ -3119,7 +3160,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 134399,
       "name": "Siddhartha",
       "url": "https://open.spotify.com/track/5K0xCHlMysYNnBVckJY1yi"
@@ -3152,6 +3193,28 @@
     },
     {
       "album": {
+        "name": "Smokin' Loud",
+        "url": "https://open.spotify.com/album/7G9mS8OL44JTMd9vGKoRas"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "Bombony Montana",
+          "url": "https://open.spotify.com/artist/5sIpYN3jl80npXJ3GkcWG5"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "Smokin Loud",
+      "url": "https://open.spotify.com/track/1gS0Q8S8jOaetLdL4Ji798"
+    },
+    {
+      "album": {
         "name": "Social Drive",
         "url": "https://open.spotify.com/album/4vrHUkGiWCrgL4adOzIyL7"
       },
@@ -3179,6 +3242,32 @@
       "duration_ms": 271648,
       "name": "Social Drive",
       "url": "https://open.spotify.com/track/3SWWgc3aAbor9oRs3fRpzb"
+    },
+    {
+      "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/2EaPSAMGWUxg9OGTCmEUFu"
+      },
+      "artists": [
+        {
+          "name": "Denom",
+          "url": "https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Los del Control",
+          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212918,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/6avzLyDdk3Qjxpazk6EeU1"
     },
     {
       "album": {
@@ -3372,6 +3461,28 @@
     },
     {
       "album": {
+        "name": "Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/0NzEhTxou6gnm7WPvT5VgZ"
+      },
+      "artists": [
+        {
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/5SSZq4JOkw3sWpwBpcqPoK"
+    },
+    {
+      "album": {
         "name": "Tranquilito",
         "url": "https://open.spotify.com/album/5l5ITl4xVnAL3UKtGNGa4X"
       },
@@ -3453,6 +3564,24 @@
       "duration_ms": 131539,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/1PCAyN2UVEacNDzw0VMd8U"
+    },
+    {
+      "album": {
+        "name": "t\u00fa que ves en m\u00ed",
+        "url": "https://open.spotify.com/album/4fNicfMtWvawINqyNCFIy9"
+      },
+      "artists": [
+        {
+          "name": "Juancho Marqu\u00e9s",
+          "url": "https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165675,
+      "name": "t\u00fa que ves en m\u00ed",
+      "url": "https://open.spotify.com/track/2hQCmkGm8EW6U09e0O3p4q"
     },
     {
       "album": {

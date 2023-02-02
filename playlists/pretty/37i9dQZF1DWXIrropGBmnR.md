@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIrropGBmnR.md) - [plain]
 
 > Calm and soothing strings to help you get a good night's rest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,726 likes - 85 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,782 likes - 85 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIrropGBmnR.md) - [plain]
 | 76 | [Calming Cello](https://open.spotify.com/track/3Qv73fHmBLqSPbuKDEryUA) | [Diminuendo](https://open.spotify.com/artist/4y0wtNlcARoHFJ6Q8E2fK0) | [Calming Cello](https://open.spotify.com/album/12ToUSVks87JDIFdU3r3hG) | 2:30 |
 | 77 | [Inner Spaces](https://open.spotify.com/track/6tdACix3S8NrH0UbJKvs0O) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Inner Spaces](https://open.spotify.com/album/1abEGwrMAIiGqEMOoTYoER) | 2:29 |
 | 78 | [The Waiting Room](https://open.spotify.com/track/4NlKazw9AJdSWSBOPIXWEk) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Daisuke Tanabe](https://open.spotify.com/artist/2xQI5A9WmqrOPYdfl23MCM) | [The Waiting Room](https://open.spotify.com/album/3nSD3Cuw5po5hz0hqPhBp1) | 2:18 |
-| 79 | [nighteveryday](https://open.spotify.com/track/3D6hyGiGDkOidw2tWTZkAN) | [Ever So So Deep](https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw) | [nighteveryday](https://open.spotify.com/album/6PFpxGyzOsrkAcC88eUEHu) | 2:46 |
+| 79 | [nighteveryday](https://open.spotify.com/track/18TxczgcjnRnmyBEDGXbXv) | [Ever So So Deep](https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw) | [nighteveryday](https://open.spotify.com/album/6joX6D4D5SLcmbakPYoqTr) | 2:46 |
 | 80 | [Oak Shade](https://open.spotify.com/track/2K17IbJaE2A5XsB642I5LZ) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Oak Shade](https://open.spotify.com/album/6IKJo0CNMr8boHjgHc89Gt) | 3:08 |
 | 81 | [Evergreen](https://open.spotify.com/track/059EkGC2qj13VpNQrl4JQF) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Meditations](https://open.spotify.com/album/0BeOxMxb7pVoCft166u53r) | 2:22 |
 | 82 | [Falling from the Clouds](https://open.spotify.com/track/2tBIuJpUF2rvQn1grBLMx5) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Falling from the Clouds](https://open.spotify.com/album/1jzXfrWVPtMnaEC7eTxULe) | 3:41 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIrropGBmnR.md) - [plain]
 | 84 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:34 |
 | 85 | [Berceuse \(Arr\. For viola and piano\)](https://open.spotify.com/track/6tWg05l8fgCms52XX9qI2C) | [Frank Bridge](https://open.spotify.com/artist/7rj5B6cNPEJhWLnZAPSw9c), [Enikő Magyar](https://open.spotify.com/artist/5ofQKCICPwvadwzRKWYqwe), [Tadashi Imai](https://open.spotify.com/artist/32s7vjlyqSCLwqDvqkkTuw) | [The English Viola](https://open.spotify.com/album/5L28fof2nWQNBwMmDvxtDA) | 3:34 |
 
-Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMDU3MDI0YjM1NzdiZDlmNWU2YTZkZDVhNDM3ZTQ4Yjc5`
+Snapshot ID: `MTY1OTY1NzYwMCwwMDAwMDAwMGY0ODhhODQ5NmI0ZTg2NjgwNDAxYzhhYjJiOTk2NjI4`

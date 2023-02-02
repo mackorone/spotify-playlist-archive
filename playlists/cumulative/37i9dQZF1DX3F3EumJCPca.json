@@ -2,7 +2,6 @@
   "date_first_scraped": "2022-10-29",
   "description": "This is Lil Baby. The essential tracks, all in one playlist. ",
   "name": "This Is Lil Baby",
-  "published_playlist_ids": [],
   "tracks": [
     {
       "album": {
@@ -583,6 +582,28 @@
       "duration_ms": 165366,
       "name": "I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf"
+    },
+    {
+      "album": {
+        "name": "90 Days",
+        "url": "https://open.spotify.com/album/3mYhUHiupqEamB1Qkl9ejL"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196888,
+      "name": "If You Still Wit Me (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4EvFzNPsp8iyiEO9LDHopv"
     },
     {
       "album": {

@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-17",
   "description": "New takes on old classics!",
   "name": "Dance Covers",
-  "published_playlist_ids": [
-    "0zTramhYGvimlHqX2SNvEm"
-  ],
   "tracks": [
     {
       "album": {
@@ -581,10 +578,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 181935,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/02SYgGfAb4sD5JiPfu8JKk"
+    },
+    {
+      "album": {
+        "name": "Music Paradise 2023",
+        "url": "https://open.spotify.com/album/2LKnEJQ6FM0nWV7lOTjb0A"
+      },
+      "artists": [
+        {
+          "name": "Dj Sava",
+          "url": "https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/4OVmZkBJ5s5U4g1yRCHDeR"
     },
     {
       "album": {
@@ -1012,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
+    },
+    {
+      "album": {
         "name": "Black & Gold (LIZOT Mix)",
         "url": "https://open.spotify.com/album/2Gwq4Aftzy4cjXOYfsd9OV"
       },
@@ -1416,7 +1449,7 @@
     },
     {
       "album": {
-        "name": "Strange Fruits Music",
+        "name": "Dance Fruits Music",
         "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
       },
       "artists": [
@@ -2540,7 +2573,7 @@
     },
     {
       "album": {
-        "name": "Strange Fruits Music",
+        "name": "Dance Fruits Music",
         "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
       },
       "artists": [
@@ -3147,8 +3180,8 @@
       },
       "artists": [
         {
-          "name": "Miku Hatsune",
-          "url": "https://open.spotify.com/artist/0ZhOfyJgDIrn8ktsYByYr4"
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         },
         {
           "name": "Jessica",
@@ -5445,7 +5478,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-04",
       "duration_ms": 165847,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/3plnciIJ2K6FHD4gxjcHCy"
@@ -5677,6 +5710,24 @@
     {
       "album": {
         "name": "My Pony",
+        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
+    },
+    {
+      "album": {
+        "name": "My Pony",
         "url": "https://open.spotify.com/album/6Z8k55chq0AjqaYbaMX2tp"
       },
       "artists": [
@@ -5687,7 +5738,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 153414,
       "name": "My Pony",
       "url": "https://open.spotify.com/track/6Qpm8XBZ0CrASw7cTMap99"
@@ -6213,6 +6264,32 @@
       "duration_ms": 165816,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/2CG0r3R1w2ZHPfqkXGZzsq"
+    },
+    {
+      "album": {
+        "name": "People Help the People",
+        "url": "https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157298,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12"
     },
     {
       "album": {
@@ -6964,7 +7041,7 @@
     },
     {
       "album": {
-        "name": "Strange Fruits Music",
+        "name": "Dance Fruits Music",
         "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
       },
       "artists": [
@@ -7219,7 +7296,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 153442,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/01T0m32L0lgGS8EJTbN26x"
@@ -7241,7 +7318,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 153442,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1m59435sSAVd0F9TfZLoaQ"
@@ -7846,7 +7923,7 @@
     },
     {
       "album": {
-        "name": "Strange Fruits Music",
+        "name": "Dance Fruits Music",
         "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
       },
       "artists": [
@@ -9369,6 +9446,32 @@
       "duration_ms": 189375,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/3mu7xOY7p9EWiCI9BTMMwo"
+    },
+    {
+      "album": {
+        "name": "Your Love Keeps Lifting Me Higher",
+        "url": "https://open.spotify.com/album/2b19uYnO6jSwzTrT221lyA"
+      },
+      "artists": [
+        {
+          "name": "Revival",
+          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
+        },
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        },
+        {
+          "name": "GeO Gospel Choir",
+          "url": "https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Your Love Keeps Lifting Me Higher",
+      "url": "https://open.spotify.com/track/7hLqii5dbwnwn3IiHt7k4D"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1OxnjWYRVU0"

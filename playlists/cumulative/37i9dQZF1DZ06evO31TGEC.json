@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-06-02",
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
   "name": "This Is El Chapo De Sinaloa",
-  "published_playlist_ids": [
-    "3E5efmvJV1r2DEf7VgrTDd"
-  ],
   "tracks": [
     {
       "album": {
@@ -41,6 +38,24 @@
       "duration_ms": 160346,
       "name": "Al Diablo Con Tu Amistad",
       "url": "https://open.spotify.com/track/59TFy9HsGcmkqnaHnEiTYl"
+    },
+    {
+      "album": {
+        "name": "Alma De Rey",
+        "url": "https://open.spotify.com/album/2pHURxEnjrk6XfXtdXgFry"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "Alma De Rey",
+      "url": "https://open.spotify.com/track/2MYRLTbJBYYeajqcT9q3Lk"
     },
     {
       "album": {
@@ -181,7 +196,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 285430,
       "name": "Chiquitita",
       "url": "https://open.spotify.com/track/1iG2hQLrcod9GNiBWqav7a"
@@ -199,10 +214,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-17",
       "duration_ms": 236760,
       "name": "Clave Siete",
       "url": "https://open.spotify.com/track/4LJvzv6VvDuLZxQ1tGlexg"
+    },
+    {
+      "album": {
+        "name": "Camina Sin Mirar Atras",
+        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182582,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py"
     },
     {
       "album": {
@@ -404,6 +437,46 @@
     },
     {
       "album": {
+        "name": "30 Aniversario Duetos",
+        "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        },
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "En La Misma Cama - Dueto Con El Chapo",
+      "url": "https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY"
+    },
+    {
+      "album": {
+        "name": "Camina Sin Mirar Atras",
+        "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168153,
+      "name": "Ense\u00f1ame a Olvidar",
+      "url": "https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i"
+    },
+    {
+      "album": {
         "name": "Tu Yo Y La Luna",
         "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
       },
@@ -433,7 +506,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 167224,
       "name": "Equivocate Conmigo",
       "url": "https://open.spotify.com/track/7C2SbfRHXH8PlpS3dwG8Z7"
@@ -451,7 +524,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2022-12-01",
       "duration_ms": 151642,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/5LACTc0id37jxR2cVICzWJ"
@@ -469,7 +542,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 147586,
       "name": "Esa Fue Mi Novia",
       "url": "https://open.spotify.com/track/0UfhN8MDNdqBeVJM2cYqSE"

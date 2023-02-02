@@ -4,7 +4,7 @@
 
 > The soundtrack to J Balvin's world of wellness...to learn more, check out his wellness app, OYE\. Cover: J Balvin
 
-14 songs - 45 min 35 sec - not published yet
+14 songs - 45 min 35 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

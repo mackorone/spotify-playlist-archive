@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "Listen to  <a href=\"spotify:artist:19SmlbABtI4bXz864MLqOS\">Carl</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Carl Cox' track IDs",
-  "published_playlist_ids": [
-    "13aMwxqAthDxS5YN5ONZlm"
-  ],
   "tracks": [
     {
       "album": {
@@ -55,7 +52,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 494328,
       "name": "Acid Dip",
       "url": "https://open.spotify.com/track/73Wrhs4NIuSXrmY2I2BNFp"
@@ -73,7 +70,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 363750,
       "name": "Alphas",
       "url": "https://open.spotify.com/track/7ifXQ8xZqRReWLPmHgu7Iq"
@@ -117,6 +114,46 @@
       "duration_ms": 688000,
       "name": "Armani",
       "url": "https://open.spotify.com/track/6rjDI83PQPPZXOHDaXXYwu"
+    },
+    {
+      "album": {
+        "name": "Belgium",
+        "url": "https://open.spotify.com/album/6M5sIfdTxwbHDyy8Dg4Ss7"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422272,
+      "name": "Belgium",
+      "url": "https://open.spotify.com/track/1mecAHTzBVDduXdtq9CYab"
+    },
+    {
+      "album": {
+        "name": "Belgium",
+        "url": "https://open.spotify.com/album/6M5sIfdTxwbHDyy8Dg4Ss7"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        },
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436764,
+      "name": "Belgium (Josh Wink Remix)",
+      "url": "https://open.spotify.com/track/0u0FirAekGc7ZwQPS1NjNC"
     },
     {
       "album": {
@@ -259,6 +296,28 @@
       "duration_ms": 240004,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4GW2OXX73njuJtNefZBqn1"
+    },
+    {
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/58aLXXQAf6a8l5FNTy1BIP"
+      },
+      "artists": [
+        {
+          "name": "Rory Marshall",
+          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346774,
+      "name": "Deep Business",
+      "url": "https://open.spotify.com/track/6ZyYqGGrgkcLDuLlTcnEfO"
     },
     {
       "album": {
@@ -425,10 +484,28 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 385058,
       "name": "Forwardbase Kodai",
       "url": "https://open.spotify.com/track/2TX5LAzYXc85ZBGNId2kVu"
+    },
+    {
+      "album": {
+        "name": "ASW is Live EP1",
+        "url": "https://open.spotify.com/album/6IWB9OJFWVNbwwPWWFqBcJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390000,
+      "name": "Gangwon",
+      "url": "https://open.spotify.com/track/1XdOmwUJMLTM4PLfDdGlCF"
     },
     {
       "album": {
@@ -451,7 +528,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 333288,
       "name": "Gnawa (feat. Radouan Naim) [TEYMORI Remix]",
       "url": "https://open.spotify.com/track/1nvVaUIefzQh1LEUcbGd0V"
@@ -525,6 +602,28 @@
       "duration_ms": 526672,
       "name": "How It Makes You Feel",
       "url": "https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK"
+    },
+    {
+      "album": {
+        "name": "Our Time Will Come (Chase & Status Remix)",
+        "url": "https://open.spotify.com/album/32tpWqaGicx0jx9sfrfqwl"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526672,
+      "name": "How It Makes You Feel",
+      "url": "https://open.spotify.com/track/2qf323AptaspjpLM0MIU5A"
     },
     {
       "album": {
@@ -631,6 +730,24 @@
       "duration_ms": 361878,
       "name": "Mack Blagic (Shmoo\u2019s Taste of Chicago Remix)",
       "url": "https://open.spotify.com/track/360ODMCFgQGRRZA8qB7TLi"
+    },
+    {
+      "album": {
+        "name": "ASW is Live EP1",
+        "url": "https://open.spotify.com/album/6IWB9OJFWVNbwwPWWFqBcJ"
+      },
+      "artists": [
+        {
+          "name": "Robert Babicz",
+          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589537,
+      "name": "Magic Club Nights",
+      "url": "https://open.spotify.com/track/2nrTdNY8gwRSSKxsnO0RwA"
     },
     {
       "album": {
@@ -759,6 +876,28 @@
       "duration_ms": 356250,
       "name": "One Four Five (Live)",
       "url": "https://open.spotify.com/track/28YHc9CUJEu9SciHhHyX0U"
+    },
+    {
+      "album": {
+        "name": "Our Time Will Come (Chase & Status Remix)",
+        "url": "https://open.spotify.com/album/32tpWqaGicx0jx9sfrfqwl"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270344,
+      "name": "Our Time Will Come - Chase & Status Remix",
+      "url": "https://open.spotify.com/track/4TXE0eudpIQvZWQ3iitEOd"
     },
     {
       "album": {
@@ -952,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "See the Sun Rising",
+        "url": "https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247873,
+      "name": "See the Sun Rising",
+      "url": "https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg"
+    },
+    {
+      "album": {
         "name": "Space Ibiza 25 (DJ Mix)",
         "url": "https://open.spotify.com/album/1AocITr7Rwx1xE2VEvCbNZ"
       },
@@ -1021,7 +1182,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 386976,
       "name": "Soul & Trip",
       "url": "https://open.spotify.com/track/6dreZH1RrXlMYtSMygMPTL"
@@ -1162,6 +1323,28 @@
     },
     {
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/58aLXXQAf6a8l5FNTy1BIP"
+      },
+      "artists": [
+        {
+          "name": "Rory Marshall",
+          "url": "https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370251,
+      "name": "Spooky Business",
+      "url": "https://open.spotify.com/track/0INpOd1bT4lxr4qI7jZczW"
+    },
+    {
+      "album": {
         "name": "Stay Out All Night (Remixes)",
         "url": "https://open.spotify.com/album/2lxXGuqOgt9S6SywMfo5ea"
       },
@@ -1257,7 +1440,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 335367,
       "name": "Tracer",
       "url": "https://open.spotify.com/track/5Mcvn8D5ofcic5ssStw5RA"
@@ -1337,7 +1520,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 441566,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/3AqJH0b0cFwLddG3uPqNSh"
@@ -1359,7 +1542,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 335000,
       "name": "Universal Language - Claude Young Remix",
       "url": "https://open.spotify.com/track/49XuyTqsYIhgzd2W2Evo7H"
@@ -1381,7 +1564,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 399676,
       "name": "Very Chic Blackman (Horatio Remix)",
       "url": "https://open.spotify.com/track/60JxGJU55HwhvdXA1YdRlT"
@@ -1421,7 +1604,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 228769,
       "name": "We Are One",
       "url": "https://open.spotify.com/track/3J3XaMhpQvDfJjCE38ow9x"
@@ -1465,6 +1648,24 @@
       "duration_ms": 423601,
       "name": "Wild Language - Hephaistos Remix",
       "url": "https://open.spotify.com/track/3nueDc50lLRQ1R6vWUUhnH"
+    },
+    {
+      "album": {
+        "name": "Welcome to My World",
+        "url": "https://open.spotify.com/album/7wPqfJhYxRIS8qA1YxlNCQ"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264725,
+      "name": "World Gone Mad",
+      "url": "https://open.spotify.com/track/40tYY6O9fgxJVp4DFMkJ0Y"
     },
     {
       "album": {

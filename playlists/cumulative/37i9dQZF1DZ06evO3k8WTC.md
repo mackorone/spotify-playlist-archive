@@ -4,7 +4,7 @@
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 51 min - not published yet
+34 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Ebroglio](https://open.spotify.com/track/6lXXFgQwctMBep5lEWX7Ei) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 2:47 | 2022-11-17 |  |
 | [Governed By Contagions](https://open.spotify.com/track/3GdvFtZvR2m9fVldPcbYEX) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 3:27 | 2022-11-17 |  |
 | [Helitrope](https://open.spotify.com/track/6J7fIRcmQ7oLtSLmcQX3kk) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:12 | 2022-11-17 |  |
-| [Hostage Stamps](https://open.spotify.com/track/2brkhCo9HHjt3Z2ThG8eel) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 3:53 | 2022-11-17 |  |
+| [Hostage Stamps](https://open.spotify.com/track/2brkhCo9HHjt3Z2ThG8eel) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 3:53 | 2022-11-17 | 2023-02-01 |
+| [Hourglass](https://open.spotify.com/track/4oSyqbzyC7g8x0dAMFANLn) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:25 | 2023-01-24 |  |
 | [Hulahoop Wounds](https://open.spotify.com/track/3uwAwOdZubXp2xdN8t85cw) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:24 | 2022-11-17 |  |
 | [Incurably Innocent](https://open.spotify.com/track/6r4qdXgCys0VC22dmMdpwn) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 3:26 | 2022-11-17 |  |
 | [Initiation](https://open.spotify.com/track/4MGBUqFoUnxiiiwXrFHRJJ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 3:26 | 2022-11-17 |  |
@@ -29,7 +30,8 @@
 | [No Wolf Like The Present](https://open.spotify.com/track/3SOnqTBVSYTKmqbIBf6OPV) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 3:39 | 2022-11-17 |  |
 | [One Armed Scissor](https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 4:20 | 2022-11-17 |  |
 | [Pattern Against User](https://open.spotify.com/track/3PERap2TPq6ZiJzkjdeP0T) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 3:17 | 2022-11-17 |  |
-| [Pickpocket](https://open.spotify.com/track/7tXHRWpHsYH8Yy8w7v4N7d) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 2:38 | 2022-11-17 |  |
+| [Pendulum In A Peasant Dress](https://open.spotify.com/track/33F5JlSEr4wHCM3Hn79W2e) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 3:41 | 2023-01-31 |  |
+| [Pickpocket](https://open.spotify.com/track/7tXHRWpHsYH8Yy8w7v4N7d) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 2:38 | 2022-11-17 | 2023-01-25 |
 | [Point Of Demarkation](https://open.spotify.com/track/6v3MSw7N5mKTgKFjXtTwFo) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Diamanté](https://open.spotify.com/album/6lk1L7N4hCcDnNMaHKhAMf) | 4:21 | 2022-11-17 |  |
 | [Proxima Centauri](https://open.spotify.com/track/0UN5gnkNRusYyOcFIEP8f7) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 2:45 | 2022-11-17 |  |
 | [Rascuache](https://open.spotify.com/track/2VzLvjB0nNqqiVVWKFDV0n) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:21 | 2022-11-17 |  |

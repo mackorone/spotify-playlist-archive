@@ -4,7 +4,7 @@
 
 > Stjärnskottet Seinabo Sey berättar historien bakom sin uppmärksammade debutsingel "Younger", och presenterar den nya versionen av låten som släpps exklusivt på Spotify.
 
-3 songs - 13 min 52 sec - [published](https://open.spotify.com/playlist/7LuoHEh7ZWxFYV3dt4CB19)
+3 songs - 13 min 52 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

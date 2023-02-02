@@ -4,7 +4,7 @@
 
 > Best of the Jazz music scene in India.
 
-71 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/3IKf0F2MVcDBvOjEXJY6yn)
+72 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Here And There Demo](https://open.spotify.com/track/5hyEdsZHsnThf0iiCK3emW) | [HFT](https://open.spotify.com/artist/3YiIREE3iAKZV6kQAJMhKo) | [Acquired Senses Demo](https://open.spotify.com/album/62izSxBzhoGGnizWtsMdUP) | 7:20 | 2022-07-22 |  |
 | [Hope](https://open.spotify.com/track/6lkZVcn2HVlloqWRDKrMrW) | [Manuel ∞ Tincrès Projekt](https://open.spotify.com/artist/1OzSAhVjpFNH8x96NCd8UZ), [Adil Manuel](https://open.spotify.com/artist/1u4itEQMn3oTAT0OnYJ3RN), [Allan Tincrès](https://open.spotify.com/artist/7cJxxSBZUOlNcb4y4LDuJc) | [Hope \- Single](https://open.spotify.com/album/2AQhGt2d8OJuv5ZVSdDICi) | 4:25 | 2022-07-22 |  |
 | [Human Nature](https://open.spotify.com/track/252RIv4mGjHrAuqKk52XDA) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6) | [Solo](https://open.spotify.com/album/1oxpIr4suH9yYpcDNF63ni) | 6:09 | 2022-07-22 |  |
-| [I'll Be With You](https://open.spotify.com/track/1cPRsjayiASoq23P6Qn9sn) | [Apartment Upstairs](https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk), [Doc Awes](https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes), [Abhay Sharma](https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3), [Fakeer](https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf) | [I'll Be With You](https://open.spotify.com/album/5MSJrMjqWAWs1H64tXzuqR) | 3:42 | 2022-07-22 |  |
+| [I'll Be With You](https://open.spotify.com/track/1cPRsjayiASoq23P6Qn9sn) | [Apartment Upstairs](https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk), [Doc Awes](https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes), [Abhay Sharma](https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3), [Fakeer](https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf) | [I'll Be With You](https://open.spotify.com/album/5MSJrMjqWAWs1H64tXzuqR) | 3:42 | 2022-07-22 | 2022-12-16 |
+| [I'll Be With You](https://open.spotify.com/track/7a0i3hGEInHBswOYD5KaH4) | [Apartment Upstairs](https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk), [Doc Awes](https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes), [Abhay Sharma](https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3), [Fakeer](https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf) | [I'll Be With You](https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q) | 3:42 | 2022-12-14 |  |
 | [India](https://open.spotify.com/track/4NZXQBEbbuf6gnK44B1ZXv) | [Shakti](https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [A HANDFUL OF BEAUTY \(with John McLaughlin\)](https://open.spotify.com/album/1mfJkWGwzdCc5Vo6lZBFwu) | 12:38 | 2022-07-22 |  |
 | [Isa Lei](https://open.spotify.com/track/4rrv74IfFp1zjnlS02LvIX) | [Ry Cooder & V.M\. Bhatt](https://open.spotify.com/artist/3KjIiIRezfhefvm4p4Tsp6) | [A Meeting by the River](https://open.spotify.com/album/23aVUUODTi4xa9TnLyoqr5) | 7:49 | 2022-07-22 |  |
 | [Jazzy Little Weird Number](https://open.spotify.com/track/4AxaOBSbZbXsYNXIJwRTq8) | [Shubhangi Joshi](https://open.spotify.com/artist/7drO7eVPdmIAU1nW37sDGU) | [Talking Away the Night](https://open.spotify.com/album/1UH1d6jKRgai706FrPXgPr) | 3:28 | 2022-07-22 |  |

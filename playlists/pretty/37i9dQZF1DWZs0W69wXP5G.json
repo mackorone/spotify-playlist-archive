@@ -1,15 +1,87 @@
 {
-  "description": "Everything Broadway-adjacent. Cover: The Sanderson Sisters",
-  "num_followers": 30776,
+  "description": "Everything Broadway-adjacent. Cover: Matilda",
+  "num_followers": 34894,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDM5OGM1NDBkNzE3MjJmZmU4ODk4Zjg5ZTMwMGZiZmQx",
+  "snapshot_id": "MTY3MjM4Mzc2NywwMDAwMDAwMGI4ZGUwZmQ1ZjgxMGFkMDJiZWUzYzhhNDkxZTMwNjA0",
   "tracks": [
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
+      "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hodson-Prior",
+          "url": "https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF"
+        },
+        {
+          "name": "Meesha Garbett",
+          "url": "https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4"
+        },
+        {
+          "name": "Liberty Greig",
+          "url": "https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4"
+        },
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "duration_ms": 174746,
+      "name": "Revolting Children",
+      "url": "https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt"
+    },
+    {
+      "added_at": "2022-12-30 07:02:47",
+      "album": {
+        "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "Rizwan Manji",
+          "url": "https://open.spotify.com/artist/4mz7AGZHijxHC1fc6bGfYn"
+        }
+      ],
+      "duration_ms": 318533,
+      "name": "Belle",
+      "url": "https://open.spotify.com/track/1SSyCUkZvRADNdol04UqmE"
+    },
+    {
+      "added_at": "2022-12-30 07:02:47",
+      "album": {
+        "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Garfield",
+          "url": "https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72"
+        },
+        {
+          "name": "Vanessa Hudgens",
+          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+        }
+      ],
+      "duration_ms": 164163,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR"
+    },
+    {
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Hocus Pocus 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED"
@@ -33,7 +105,7 @@
       "url": "https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "& Juliet (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
@@ -53,27 +125,27 @@
       "url": "https://open.spotify.com/track/1ADlPE9dCt0Gajze5L7a75"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
-        "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
+        "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
       },
       "artists": [
         {
-          "name": "Andrew Garfield",
-          "url": "https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72"
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
         },
         {
-          "name": "Vanessa Hudgens",
-          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+          "name": "Rizwan Manji",
+          "url": "https://open.spotify.com/artist/4mz7AGZHijxHC1fc6bGfYn"
         }
       ],
-      "duration_ms": 164163,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR"
+      "duration_ms": 221880,
+      "name": "Gaston",
+      "url": "https://open.spotify.com/track/166GvTGtUQyLy4J52yaQnv"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "The Unofficial Bridgerton Musical",
         "url": "https://open.spotify.com/album/7gXx19GNHIiQ3fIbXxeY1U"
@@ -97,7 +169,7 @@
       "url": "https://open.spotify.com/track/6lmke3XxJTBC2x2tT6gMo7"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Don't Rain on My Parade (Glee Cast Version)",
         "url": "https://open.spotify.com/album/5IhO6vqLkXxZ0y2BFPP9ry"
@@ -113,7 +185,7 @@
       "url": "https://open.spotify.com/track/4gyo8vLgo6MPiqqEiM4Tv6"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Lyle, Lyle, Crocodile (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2kchX1pzbXOv6VRpd7vu5G"
@@ -129,7 +201,7 @@
       "url": "https://open.spotify.com/track/7GsdXZI26fL2mFqAhGDGZr"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "13: The Musical (Soundtrack From the Netflix Film)",
         "url": "https://open.spotify.com/album/1gvMZVaVH0AWCzoaXBMc9h"
@@ -145,9 +217,41 @@
       "url": "https://open.spotify.com/track/5Z0WrP05lXzIDFmq104Knq"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
-        "name": "The Night-Time Sky's Got Nothing on You (from \"Almost Famous - The Musical\")",
+        "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Martin Short",
+          "url": "https://open.spotify.com/artist/0dV9xcjrW5YwkxG3gEBhRx"
+        },
+        {
+          "name": "David Alan Grier",
+          "url": "https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "Something There",
+      "url": "https://open.spotify.com/track/3gifBCwPR8K9KA3U1hG5jp"
+    },
+    {
+      "added_at": "2022-12-30 07:02:47",
+      "album": {
+        "name": "The Night-Time Sky's Got Nothing on You",
         "url": "https://open.spotify.com/album/48ybZa5Klu3naTjFcZMxC3"
       },
       "artists": [
@@ -165,11 +269,11 @@
         }
       ],
       "duration_ms": 215853,
-      "name": "The Night-Time Sky's Got Nothing on You - from \"Almost Famous - The Musical\"",
+      "name": "The Night-Time Sky's Got Nothing on You",
       "url": "https://open.spotify.com/track/6NLdEVaTnMouAcIOM2hlnE"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Hand in Hand",
         "url": "https://open.spotify.com/album/1iP7Fdly3Zc1PwBFCLmFHY"
@@ -189,7 +293,23 @@
       "url": "https://open.spotify.com/track/7i49kMKvaJM0TMoeAEMA8x"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
+      "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "duration_ms": 259239,
+      "name": "Still Holding My Hand",
+      "url": "https://open.spotify.com/track/1Nye4OrwEUTDjF1UBiqBJY"
+    },
+    {
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Between the Lines",
         "url": "https://open.spotify.com/album/6OEtqsulWG2hoRFHCGztT1"
@@ -205,7 +325,23 @@
       "url": "https://open.spotify.com/track/5K9F8ptDw1HcmESTVaV34w"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
+      "album": {
+        "name": "Easy Way Out",
+        "url": "https://open.spotify.com/album/4uFnmd6UA4f2wNG031sQ2o"
+      },
+      "artists": [
+        {
+          "name": "Laura Dreyfuss",
+          "url": "https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK"
+        }
+      ],
+      "duration_ms": 191301,
+      "name": "Easy Way Out",
+      "url": "https://open.spotify.com/track/7nwH6jOOzg0T6ZM5iKFESi"
+    },
+    {
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "No One Is Alone (From \"Good Trouble\")",
         "url": "https://open.spotify.com/album/15FrGIi7i0fefNUiUHAPeW"
@@ -221,9 +357,9 @@
       "url": "https://open.spotify.com/track/5kxNp4IRdENMSh9HfzgZZl"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
-        "name": "Everybody's Coming Together (from \"Almost Famous - The Musical\")",
+        "name": "Everybody's Coming Together",
         "url": "https://open.spotify.com/album/54SJhf5ehcNqAVW04RoBeS"
       },
       "artists": [
@@ -233,11 +369,11 @@
         }
       ],
       "duration_ms": 191226,
-      "name": "Everybody's Coming Together - from \"Almost Famous - The Musical\"",
+      "name": "Everybody's Coming Together",
       "url": "https://open.spotify.com/track/5t2IHN1tkZOGT7WzfPJZsq"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "The Drifters Girl (World Premiere Cast, recorded at Abbey Road Studios)",
         "url": "https://open.spotify.com/album/2N0o5p3a8dD9sn51IVJI3O"
@@ -253,7 +389,7 @@
       "url": "https://open.spotify.com/track/3YuIWJDJHcoxGM56TAp224"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
         "url": "https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn"
@@ -277,7 +413,23 @@
       "url": "https://open.spotify.com/track/63V7zJBnSrPEqKJtcJtruQ"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
+      "album": {
+        "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/3I3QV9fD0CQdnekEPNgYIk"
+    },
+    {
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Suite 1 - from Lempicka (Original Cast Recording)",
         "url": "https://open.spotify.com/album/22UlcdIxtmapTzhh6koX1o"
@@ -297,7 +449,7 @@
       "url": "https://open.spotify.com/track/0AqDuGW6j1RZ93r2n3DUGA"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "DRAG: The Musical (The Studio Recording)",
         "url": "https://open.spotify.com/album/6ozegwO34a67mkDh0gjZ6m"
@@ -329,7 +481,7 @@
       "url": "https://open.spotify.com/track/6dG6aRB6ldz3XgdCayRBx3"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Puttin' on the Ritz",
         "url": "https://open.spotify.com/album/5lfj8Fo7O6MYpODE334Rhi"
@@ -345,19 +497,19 @@
       "url": "https://open.spotify.com/track/4dWvPb7ZVX98IyRnqkgcM1"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Assassins (The 2022 Off-Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1RXmNwoVCFP8Ktk0kimN4E"
+        "url": "https://open.spotify.com/album/6U7iRoc5P856IAoVgDBqMk"
       },
       "artists": [
         {
-          "name": "Stephen Sondheim",
-          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
-        },
-        {
           "name": "Adam Chanler-Berat",
           "url": "https://open.spotify.com/artist/3SOOtiaBzkUEnsXie4OCli"
+        },
+        {
+          "name": "Stephen Sondheim",
+          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
         },
         {
           "name": "Tavi Gevinson",
@@ -366,10 +518,10 @@
       ],
       "duration_ms": 217196,
       "name": "Unworthy of Your Love",
-      "url": "https://open.spotify.com/track/18Tsg3JxjoeWGKtKtlwq1L"
+      "url": "https://open.spotify.com/track/05Xy99vdh4zFljTSZR2iCj"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Emily in Paris (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/6XjTTsL4pzC7RVXIBAyzNX"
@@ -389,7 +541,7 @@
       "url": "https://open.spotify.com/track/1xubaVW0WOyUJu65gSaxXQ"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Between the Lines",
         "url": "https://open.spotify.com/album/6OEtqsulWG2hoRFHCGztT1"
@@ -405,7 +557,7 @@
       "url": "https://open.spotify.com/track/6316mbJlRyUMnHIkPFP5wM"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "West Side Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16oKZSg3msLgn69IK1puzi"
@@ -545,7 +697,7 @@
       "url": "https://open.spotify.com/track/7guz8LWGuiHSvp19OUxmbQ"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Heathers: The Musical (World Premiere Cast Recording)",
         "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
@@ -569,7 +721,7 @@
       "url": "https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "The Prom (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/5016dF1FF2mrEtD38l4QiN"
@@ -585,7 +737,7 @@
       "url": "https://open.spotify.com/track/57Bd0IGmgkDMoEMGrAg6bx"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Trevor (Original Cast Recording)",
         "url": "https://open.spotify.com/album/697pMqj7scaSg0VbWoJPh3"
@@ -621,7 +773,7 @@
       "url": "https://open.spotify.com/track/17hoHWF02vMasn0iWhOKSY"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
@@ -653,7 +805,7 @@
       "url": "https://open.spotify.com/track/7k5agf3Bo48jyzXrvrMuhb"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Witness Uganda (An American Musical)",
         "url": "https://open.spotify.com/album/7rWdiSjY8poMBaJHXkLXil"
@@ -681,7 +833,7 @@
       "url": "https://open.spotify.com/track/1aCON8w8JozezoG1xbL6ou"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -697,7 +849,7 @@
       "url": "https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Sextet Montage (Music from the Netflix Film \"tick, tick... BOOM!\")",
         "url": "https://open.spotify.com/album/1btCzvbFOA18CxKSnLsVxQ"
@@ -725,7 +877,7 @@
       "url": "https://open.spotify.com/track/4eW4WH9SW6vcXbome5HfLS"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -765,7 +917,7 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Just Look Up (From Don\u2019t Look Up)",
         "url": "https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4"
@@ -785,7 +937,7 @@
       "url": "https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "West Side Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16oKZSg3msLgn69IK1puzi"
@@ -829,7 +981,7 @@
       "url": "https://open.spotify.com/track/6Jtl7l4GS0OxkDFACQjA5q"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
         "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
@@ -845,7 +997,7 @@
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Fall (from \"Witness Uganda - An American Musical\")",
         "url": "https://open.spotify.com/album/5jY4WhUyAPkc6glBwiW4zV"
@@ -869,7 +1021,7 @@
       "url": "https://open.spotify.com/track/09KncKX0D2yrqAgkNTcQ9g"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
@@ -905,7 +1057,7 @@
       "url": "https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "West Side Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16oKZSg3msLgn69IK1puzi"
@@ -921,7 +1073,7 @@
       "url": "https://open.spotify.com/track/6WbfBu06dfTcYdCRcbVmgb"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Annie Live! (Original Soundtrack of the Live Television Event on NBC)",
         "url": "https://open.spotify.com/album/6o8oNoDE5gX3VqiEOTJbrJ"
@@ -937,7 +1089,7 @@
       "url": "https://open.spotify.com/track/6w15DS1HWBOrnyI0ywBY3t"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/24Ahtqv11h48hMk9UcJPhH"
@@ -957,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4wP9Yds2j0kimeOBMBa3X3"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
@@ -977,7 +1129,7 @@
       "url": "https://open.spotify.com/track/7KjIhqpp6bpUc4W9sllJud"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Song About You",
         "url": "https://open.spotify.com/album/3Krhyaxo0HqjJU7uFYNRfm"
@@ -993,7 +1145,7 @@
       "url": "https://open.spotify.com/track/01Dmc9x1ogPGsk80kWK4nY"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Louder Than Words",
         "url": "https://open.spotify.com/album/74IjHcLoC6K2SJcdp132It"
@@ -1017,7 +1169,7 @@
       "url": "https://open.spotify.com/track/6JNHdUEMA2X2LbubU5IUKR"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Somebody Desperate (From ''Cyrano'' Soundtrack)",
         "url": "https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv"
@@ -1033,7 +1185,7 @@
       "url": "https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Another day in America (with Ozuna)",
         "url": "https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW"
@@ -1053,7 +1205,7 @@
       "url": "https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
         "url": "https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2"
@@ -1077,7 +1229,7 @@
       "url": "https://open.spotify.com/track/7DCQukad5M1Hi43aJUO6Dq"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Together At A Distance",
         "url": "https://open.spotify.com/album/59ninoXyrak9KxDAeGqVVi"
@@ -1097,7 +1249,7 @@
       "url": "https://open.spotify.com/track/6YBmnh6VjgCeM7grsnulWk"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Descendants (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh"
@@ -1117,7 +1269,7 @@
       "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
         "url": "https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2"
@@ -1145,7 +1297,7 @@
       "url": "https://open.spotify.com/track/601EBd3YD8bTwCQIH2x8mV"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Love For Sale (Deluxe)",
         "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
@@ -1165,7 +1317,7 @@
       "url": "https://open.spotify.com/track/5ueoGQzXQDQazPcPq5UvOQ"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Found (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1aGvxd7tlrij5LP191DdIv"
@@ -1185,7 +1337,7 @@
       "url": "https://open.spotify.com/track/1BpZhkNsRMr4GXjrHskAIy"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
@@ -1201,7 +1353,7 @@
       "url": "https://open.spotify.com/track/2iCHrDnD5neO0bNAsN71TK"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Cinderella (Soundtrack from the Amazon Original Movie)",
         "url": "https://open.spotify.com/album/1zrMpRxr8tOAW75p4PrzHV"
@@ -1221,7 +1373,7 @@
       "url": "https://open.spotify.com/track/73QEmww7TRmy7zF3qV5DAE"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/4uoxCSMP6tuTnEYDZQ9qEC"
@@ -1237,7 +1389,7 @@
       "url": "https://open.spotify.com/track/7e0UPfaj00fm8KtJsA7jtX"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Together At A Distance",
         "url": "https://open.spotify.com/album/59ninoXyrak9KxDAeGqVVi"
@@ -1257,7 +1409,7 @@
       "url": "https://open.spotify.com/track/7JcJijcsIRHBhs8nWusExg"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
@@ -1277,7 +1429,7 @@
       "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Wicked Medley",
         "url": "https://open.spotify.com/album/3RUeqc8x6uzYsEsLOxlf2B"
@@ -1293,7 +1445,7 @@
       "url": "https://open.spotify.com/track/2HKBDRRBt8NPX5wjrV5q64"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Ch. 1 Vs. 1",
         "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
@@ -1309,7 +1461,7 @@
       "url": "https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "The Least",
         "url": "https://open.spotify.com/album/6bLKcMg4Be8TmJprOjQXRE"
@@ -1325,7 +1477,7 @@
       "url": "https://open.spotify.com/track/2nlvhe6y2NMYhNcEy6SFDl"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Nose to Nose",
         "url": "https://open.spotify.com/album/3dSzXQev0iDG85clMukCok"
@@ -1341,7 +1493,7 @@
       "url": "https://open.spotify.com/track/7vczAHzfnUqcsRcUbHKZKW"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "36 Questions: The Deluxe Album",
         "url": "https://open.spotify.com/album/7aIu3t8kD1qCud2uMO2wd7"
@@ -1365,7 +1517,7 @@
       "url": "https://open.spotify.com/track/6mfOySZI3Bw3g3pKw2itvo"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "RESPECT (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1EzytFSc1iJY6DjHR6fUMm"
@@ -1381,7 +1533,7 @@
       "url": "https://open.spotify.com/track/6wLJiRkrSbqPzbNnrKSYNX"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Songs For You",
         "url": "https://open.spotify.com/album/2JeYtBmJUBy70zDqD1mBdm"
@@ -1397,7 +1549,7 @@
       "url": "https://open.spotify.com/track/5Ur0R1e2NBgyg0cm604UaT"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "In The Heights (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0F3HOT0E0Jj2MSnPm6tq4n"
@@ -1449,7 +1601,7 @@
       "url": "https://open.spotify.com/track/7oMr1IBlYwnb1jZh6of8kN"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "The Phantom Of The Opera Symphonic Suite (Pt.1)",
         "url": "https://open.spotify.com/album/0HNGzcTvkjeJu7IonaF8Z9"
@@ -1473,7 +1625,7 @@
       "url": "https://open.spotify.com/track/1KgJrBJv7nxhpPunJOXXgt"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "For The Girls",
         "url": "https://open.spotify.com/album/3G0p3xfGbInA8msyvrntEC"
@@ -1493,7 +1645,7 @@
       "url": "https://open.spotify.com/track/5fGPg1WXZToY8WlZhr4gYM"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Annette (Cannes Edition - Selections from the Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6JppDlRuAbcM7f3I4qPuYJ"
@@ -1521,7 +1673,7 @@
       "url": "https://open.spotify.com/track/2DsnKyeVVGNR2EBpXSdqhd"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Love For Sale (Deluxe)",
         "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
@@ -1541,7 +1693,7 @@
       "url": "https://open.spotify.com/track/0ZzE3KupbceBjr17DMhWAo"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
@@ -1561,7 +1713,7 @@
       "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "If I Can't Love Her [From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast]",
         "url": "https://open.spotify.com/album/3kfULyHXSsV9Ki6rkTBcbY"
@@ -1581,7 +1733,7 @@
       "url": "https://open.spotify.com/track/55sEttUljNOT18aG3KzroO"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/6eHRbnNQfCYTOL2biwnl4e"
@@ -1597,7 +1749,7 @@
       "url": "https://open.spotify.com/track/2jbawahJUqTV2LuWQoRpJz"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Crazy Ex-Girlfriend: Season 1 (Original Television Soundtrack, Vol. 1)",
         "url": "https://open.spotify.com/album/5gbZoZ7m1smzPGe5yDWWeL"
@@ -1617,7 +1769,7 @@
       "url": "https://open.spotify.com/track/29ZLj9ivRLJg5vHpMUzYWp"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "For The Girls",
         "url": "https://open.spotify.com/album/3G0p3xfGbInA8msyvrntEC"
@@ -1637,7 +1789,7 @@
       "url": "https://open.spotify.com/track/1By0EoZgkP7shwWfokVzfW"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "The Unofficial Bridgerton Musical",
         "url": "https://open.spotify.com/album/7gXx19GNHIiQ3fIbXxeY1U"
@@ -1661,7 +1813,7 @@
       "url": "https://open.spotify.com/track/7dsxoeycurkfJpmV0Le5Oi"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Crazy Ex-Girlfriend: Season 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/61qQpAsfOVhFo5iDnKth4o"
@@ -1693,7 +1845,7 @@
       "url": "https://open.spotify.com/track/73hr344AmxNViy6IgFw6QL"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Cinderella (Soundtrack from the Amazon Original Movie)",
         "url": "https://open.spotify.com/album/1zrMpRxr8tOAW75p4PrzHV"
@@ -1713,7 +1865,7 @@
       "url": "https://open.spotify.com/track/2ICxfKYY5R1EJTIE25r9rZ"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Only Us (From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF"
@@ -1733,7 +1885,7 @@
       "url": "https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-12-30 07:02:47",
       "album": {
         "name": "Girls5eva (Music From The Peacock Original Series)",
         "url": "https://open.spotify.com/album/6IxbJg2NoDKjxxza4uJjgU"

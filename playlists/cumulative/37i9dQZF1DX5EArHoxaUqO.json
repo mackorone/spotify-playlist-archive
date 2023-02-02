@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-04-19",
   "description": "Make bedtime dreamlike with original lullabies from Timbuktu, Mapei and Pontus Winngren, as well as the artists' personal favorite lullabies.",
   "name": "Mapei & Timbuktu Lullabies",
-  "published_playlist_ids": [
-    "1WjMWUQOKKw29fz69hwFQh"
-  ],
   "tracks": [
     {
       "album": {
@@ -324,6 +321,24 @@
     },
     {
       "album": {
+        "name": "French Riviera",
+        "url": "https://open.spotify.com/album/1zGjmNUUwgqkHDDKdQxunV"
+      },
+      "artists": [
+        {
+          "name": "Rino de Filippi",
+          "url": "https://open.spotify.com/artist/6chjBsgCUvgk03POtYqekx"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215747,
+      "name": "Iconoteca",
+      "url": "https://open.spotify.com/track/05nLdp35XZU72bD5fRQMmn"
+    },
+    {
+      "album": {
         "name": "French Riviera (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1JfyQdgonnrK4t6qPYpctt"
       },
@@ -343,6 +358,24 @@
     {
       "album": {
         "name": "French Riviera (Edited Version)",
+        "url": "https://open.spotify.com/album/5KTcW3YNUr91ErOnULC9tI"
+      },
+      "artists": [
+        {
+          "name": "Rino De Filippi",
+          "url": "https://open.spotify.com/artist/5P3033vbGD0XwYwqNEIRK0"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-30",
+      "duration_ms": 215747,
+      "name": "Iconoteca",
+      "url": "https://open.spotify.com/track/5bodSQgtwaw2Gb6l6qvdxz"
+    },
+    {
+      "album": {
+        "name": "French Riviera (Edited Version)",
         "url": "https://open.spotify.com/album/1DiOn1vpniiSJW8uqo6M45"
       },
       "artists": [
@@ -353,7 +386,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-11",
       "duration_ms": 215747,
       "name": "Iconoteca",
       "url": "https://open.spotify.com/track/7xpKSrGAp1ZpX84Ui6Gc67"

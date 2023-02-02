@@ -1,15 +1,15 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 34482,
+  "num_followers": 36296,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjc4MjMxMDcsMDAwMDAwMDAwZGM1ZGQyNTZiOGRmNDcwNDUyOWEwYjBmYzgzODc4Nw==",
+  "snapshot_id": "Mjc5MjEyMzEsMDAwMDAwMDAwMmFhZDQ4MjFmN2FlNzRiYzE4N2YyYWVlMTIxNjIzYw==",
   "tracks": [
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
@@ -41,71 +41,7 @@
       "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "King Of The Boogie",
-        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 189640,
-      "name": "Boogie Chillen",
-      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 287253,
-      "name": "Chill Out (Things Gonna Change)",
-      "url": "https://open.spotify.com/track/3SQwVXJork7A75pRnQLgtf"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 145026,
-      "name": "I Need Some Money",
-      "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
@@ -129,10 +65,10 @@
       "url": "https://open.spotify.com/track/3h7tr47MIwSz0i53YzliBg"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
-        "name": "It Serves You Right To Suffer",
-        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
       },
       "artists": [
         {
@@ -140,48 +76,12 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Shake It Baby",
-      "url": "https://open.spotify.com/track/69AMgoqKt39WvDRFIX6WQw"
+      "duration_ms": 287253,
+      "name": "Chill Out (Things Gonna Change)",
+      "url": "https://open.spotify.com/track/3SQwVXJork7A75pRnQLgtf"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Blues Legend",
-        "url": "https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "The Motor City Is Burning",
-      "url": "https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Bohemia After Dawn",
         "url": "https://open.spotify.com/album/4dotRnBEHH2pfh4ldApZ4d"
@@ -201,10 +101,10 @@
       "url": "https://open.spotify.com/track/6726edIl6xRsfTuyrtwHRi"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
       "artists": [
         {
@@ -212,12 +112,32 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 402746,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/33aN8gQjmqzR674A0bEwBn"
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
@@ -233,7 +153,55 @@
       "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 402746,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/33aN8gQjmqzR674A0bEwBn"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "It Serves You Right To Suffer",
+        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Shake It Baby",
+      "url": "https://open.spotify.com/track/69AMgoqKt39WvDRFIX6WQw"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Blues Legend",
+        "url": "https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "The Motor City Is Burning",
+      "url": "https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
@@ -253,39 +221,7 @@
       "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "It Serves You Right To Suffer",
-        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 145760,
-      "name": "Bottle Up & Go",
-      "url": "https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Boom Boom",
-        "url": "https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 373920,
-      "name": "Same Old Blues Again",
-      "url": "https://open.spotify.com/track/34DADpi4VumTjOXEkLbrNc"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
@@ -305,7 +241,39 @@
       "url": "https://open.spotify.com/track/35mKWzraWktvQcTGfuAHbV"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "It Serves You Right To Suffer",
+        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145760,
+      "name": "Bottle Up & Go",
+      "url": "https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 373920,
+      "name": "Same Old Blues Again",
+      "url": "https://open.spotify.com/track/34DADpi4VumTjOXEkLbrNc"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Remastered from the Archives",
         "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
@@ -321,43 +289,7 @@
       "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Mr. Lucky",
-        "url": "https://open.spotify.com/album/3OWlts4JGY6PZcg8ULY2tW"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Booker T. Jones",
-          "url": "https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U"
-        }
-      ],
-      "duration_ms": 404453,
-      "name": "I Cover The Waterfront",
-      "url": "https://open.spotify.com/track/0xMtJ4O7DK86F8JF4p9hn6"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 229150,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
@@ -377,23 +309,7 @@
       "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Cry Before I Go",
-      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
@@ -409,10 +325,10 @@
       "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
       "artists": [
         {
@@ -420,15 +336,35 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Wednesday Evenin' Blues",
-      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
+      "duration_ms": 158800,
+      "name": "Cry Before I Go",
+      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+        "name": "Mr. Lucky",
+        "url": "https://open.spotify.com/album/3OWlts4JGY6PZcg8ULY2tW"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Booker T. Jones",
+          "url": "https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U"
+        }
+      ],
+      "duration_ms": 404453,
+      "name": "I Cover The Waterfront",
+      "url": "https://open.spotify.com/track/0xMtJ4O7DK86F8JF4p9hn6"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "King Of The Boogie",
+        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
       },
       "artists": [
         {
@@ -436,28 +372,12 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 208732,
-      "name": "It Serves Me Right to Suffer - Remastered",
-      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
+      "duration_ms": 147066,
+      "name": "No Shoes",
+      "url": "https://open.spotify.com/track/5Zcg5ltKPWOaxvwtRTBk4S"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Medley: Serves Me Right To Suffer/Syndicator",
-      "url": "https://open.spotify.com/track/0XiKlXNrY8b7qlAaB2MjY3"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
@@ -473,7 +393,55 @@
       "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "It Serves You Right To Suffer",
+        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 143693,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 319693,
+      "name": "Annie Mae",
+      "url": "https://open.spotify.com/track/2zpDRicyt7YqxFVJ2S3uc7"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 208732,
+      "name": "It Serves Me Right to Suffer - Remastered",
+      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "King Of The Boogie",
         "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
@@ -493,91 +461,7 @@
       "url": "https://open.spotify.com/track/5KYlh46iJUzViGrydbHpuY"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "My Own Blues",
-      "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 309320,
-      "name": "The Healing Game",
-      "url": "https://open.spotify.com/track/0sbMYtcLDCPxBte1VxzNFd"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Kiddio",
-      "url": "https://open.spotify.com/track/27Rli2IVNCQ5ahAXK2jAqZ"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "King Of The Boogie",
-        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Crawlin' King Snake",
-      "url": "https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Baby Lee",
-      "url": "https://open.spotify.com/track/1WvDNX2WrUppAFBKO7aYA5"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
@@ -597,30 +481,10 @@
       "url": "https://open.spotify.com/track/1R1NIZpyN47AJa3to8vu0x"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 296986,
-      "name": "I Lay Down",
-      "url": "https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
       },
       "artists": [
         {
@@ -628,52 +492,12 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 233360,
-      "name": "Peace Lovin' Man",
-      "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
+      "duration_ms": 386973,
+      "name": "Medley: Serves Me Right To Suffer/Syndicator",
+      "url": "https://open.spotify.com/track/0XiKlXNrY8b7qlAaB2MjY3"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "That's Alright",
-      "url": "https://open.spotify.com/track/629O26FoFJ6uYOOK7mwyOI"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
@@ -684,15 +508,15 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 170506,
-      "name": "Backbiters And Syndicaters",
-      "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
+      "duration_ms": 153293,
+      "name": "My Own Blues",
+      "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
-        "name": "I Didn't Know (Live)",
-        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE"
       },
       "artists": [
         {
@@ -700,12 +524,12 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 198040,
-      "name": "I Didn't Know - Live",
-      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
+      "duration_ms": 309320,
+      "name": "The Healing Game",
+      "url": "https://open.spotify.com/track/0sbMYtcLDCPxBte1VxzNFd"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
@@ -725,7 +549,159 @@
       "url": "https://open.spotify.com/track/0F2IrV5ZPVUD5SP6gLHlie"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Kiddio",
+      "url": "https://open.spotify.com/track/27Rli2IVNCQ5ahAXK2jAqZ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 296986,
+      "name": "I Lay Down",
+      "url": "https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/629O26FoFJ6uYOOK7mwyOI"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Peace Lovin' Man",
+      "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "Sittin' Here Thinkin",
+      "url": "https://open.spotify.com/track/5HrztaUeeQaraA5IsBWzm6"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Major Moves",
+        "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        },
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 341600,
+      "name": "The Blues Medley",
+      "url": "https://open.spotify.com/track/4iX3VpT5WSW39gRmbaOqvt"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "I Didn't Know (Live)",
+        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "I Didn't Know - Live",
+      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
@@ -769,23 +745,7 @@
       "url": "https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 414600,
-      "name": "Let's Go Out Tonight",
-      "url": "https://open.spotify.com/track/4JjcjkUvtgf4qwOCaqbqoF"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
@@ -805,23 +765,7 @@
       "url": "https://open.spotify.com/track/5GPTI1Iw5ZSZbOVgysIOVe"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Festival International De Jazz (Antibes Live 1969)",
-        "url": "https://open.spotify.com/album/57ZYLAwaLjSe9SmBMWjq5u"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 197067,
-      "name": "29 Ways - Live 1969",
-      "url": "https://open.spotify.com/track/2ya4PKaywBGAyIABt6LblA"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
@@ -837,10 +781,10 @@
       "url": "https://open.spotify.com/track/0QwrOUaXvquj1IM8oqiBIo"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
-        "name": "King Of The Boogie",
-        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
       "artists": [
         {
@@ -848,12 +792,44 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 181946,
-      "name": "Hobo Blues",
-      "url": "https://open.spotify.com/track/6SVdBlIXlYwqcbYZSfjJjy"
+      "duration_ms": 414600,
+      "name": "Let's Go Out Tonight",
+      "url": "https://open.spotify.com/track/4JjcjkUvtgf4qwOCaqbqoF"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Backbiters And Syndicaters",
+      "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "The Country Blues Of John Lee Hooker",
+        "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Tupelo Blues",
+      "url": "https://open.spotify.com/track/3Qoo65OB1f4mgqSqQGyPbQ"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
       "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
@@ -869,26 +845,10 @@
       "url": "https://open.spotify.com/track/1hR7F9GFvDAD57EnuKhdM9"
     },
     {
-      "added_at": "2022-11-25 14:27:10",
+      "added_at": "2023-02-01 17:51:21",
       "album": {
-        "name": "Festival International De Jazz (Antibes Live 1969)",
-        "url": "https://open.spotify.com/album/57ZYLAwaLjSe9SmBMWjq5u"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 239830,
-      "name": "I Do Believe - Live 1969",
-      "url": "https://open.spotify.com/track/2HlaS8TVh4PvZVc4BksWi0"
-    },
-    {
-      "added_at": "2022-11-25 14:27:10",
-      "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+        "name": "Mr. Lucky",
+        "url": "https://open.spotify.com/album/7vNIps3OBFC1neFArqUvHI"
       },
       "artists": [
         {
@@ -896,13 +856,61 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         },
         {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
         }
       ],
-      "duration_ms": 247293,
-      "name": "Sittin' Here Thinkin",
-      "url": "https://open.spotify.com/track/5HrztaUeeQaraA5IsBWzm6"
+      "duration_ms": 281440,
+      "name": "Mr. Lucky",
+      "url": "https://open.spotify.com/track/3MvJHgY3n4VSb4GEKYUlLl"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "The Big Soul Of John Lee Hooker",
+        "url": "https://open.spotify.com/album/3gGNap2ZagC4gmWe5r09Ak"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 166225,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/3aosIY82Wisgi7AjqXEHQg"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "No More Doggin'",
+      "url": "https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc"
+    },
+    {
+      "added_at": "2023-02-01 17:51:21",
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 250373,
+      "name": "You Ain't No Big Thing Baby",
+      "url": "https://open.spotify.com/track/3vXtDlGEV0dtBFzDF58GoF"
     }
   ],
   "unique_name": "This Is John Lee Hooker",

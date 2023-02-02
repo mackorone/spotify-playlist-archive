@@ -4,7 +4,7 @@
 
 > SXSW has deep roots in Austin\. Get a sense of the city and all its sounds.
 
-41 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/1iwZsXIoVt8E1wQycCkerw)
+41 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

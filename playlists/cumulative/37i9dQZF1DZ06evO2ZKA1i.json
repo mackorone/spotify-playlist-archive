@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-18",
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
   "name": "This Is Deep Purple",
-  "published_playlist_ids": [
-    "6NXpRx4Qa5rEMzslLaRRN1"
-  ],
   "tracks": [
     {
       "album": {
@@ -37,7 +34,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-10",
       "duration_ms": 148666,
       "name": "7 and 7 Is",
       "url": "https://open.spotify.com/track/6MdMFn6IM6U0mkeYIeCZmk"
@@ -163,7 +160,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 730266,
       "name": "April - 2000 Remaster",
       "url": "https://open.spotify.com/track/242juCDbq2XKb7FaPALYfO"
@@ -181,7 +178,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 323426,
       "name": "Apr\u00e8s Vous - Instrumental Version",
       "url": "https://open.spotify.com/track/7EyoZWxS6IkEYO1ivtLUrf"
@@ -242,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Deepest Purple: The Very Best of Deep Purple",
+        "url": "https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 619266,
+      "name": "Child in Time",
+      "url": "https://open.spotify.com/track/21cp8L9Pei4AgysZVihjSv"
+    },
+    {
+      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -253,7 +268,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-10",
       "duration_ms": 613440,
       "name": "Child in Time - 1995 Remaster",
       "url": "https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr"
@@ -319,7 +334,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 250653,
       "name": "Dopamine - Studio",
       "url": "https://open.spotify.com/track/2p9VEV4D1bPiz8uSBEMgc5"
@@ -463,7 +478,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 205666,
       "name": "Hard Lovin' Woman",
       "url": "https://open.spotify.com/track/1p2rdOyJKHLuqJR9S3uevx"
@@ -553,7 +568,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2023-01-29",
       "duration_ms": 298693,
       "name": "Hungry Daze",
       "url": "https://open.spotify.com/track/4ozxYj7YYkQJFgd4qO5e0Y"
@@ -650,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-12",
+      "duration_ms": 201666,
+      "name": "Lady Double Dealer - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/2HVmjaLefp248iCaaYtpBR"
+    },
+    {
+      "album": {
         "name": "Come Taste The Band: 35th Anniversary Edition",
         "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
       },
@@ -697,7 +730,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 260466,
       "name": "Lay Down, Stay Down - Remastered 2004",
       "url": "https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ"
@@ -719,6 +752,24 @@
       "duration_ms": 442840,
       "name": "Lazy - Remastered 2012",
       "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
+    },
+    {
+      "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 188786,
+      "name": "Love Child - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/0fKq39RZ7eb1Uku3LVvuyJ"
     },
     {
       "album": {
@@ -841,7 +892,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-19",
       "duration_ms": 210506,
       "name": "No Need to Shout",
       "url": "https://open.spotify.com/track/4ctOXWzCBVNvoZFHeeQapU"
@@ -859,7 +910,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-27",
       "duration_ms": 240026,
       "name": "Nobody's Home",
       "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
@@ -1349,6 +1400,24 @@
       "duration_ms": 351693,
       "name": "Woman From Tokyo - Remastered 2000",
       "url": "https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh"
+    },
+    {
+      "album": {
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287906,
+      "name": "You Fool No One - Remastered 2004",
+      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
     },
     {
       "album": {

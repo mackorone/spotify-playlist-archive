@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EkyRFIV92g.md) - [plain]
 
 > This is Kendrick Lamar\. Essential tracks all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,179,923 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,527 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EkyRFIV92g.md) - [plain]
 | 57 | [Hustla’s Story \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/4J56uEZtgVjuTi27Rvclag) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Effected](https://open.spotify.com/album/6CNwXxGCLQtWhG2VHOuiib) | 4:28 |
 | 58 | [Buy The World](https://open.spotify.com/track/01A7PEPSnmtixFPfB2UTal) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Buy The World](https://open.spotify.com/album/0N8ZuxurFs5C4fsC1z7wRK) | 3:46 |
 | 59 | [Wat's Wrong \(feat\. Zacari & Kendrick Lamar\)](https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 5:30 |
-| 60 | [Never Catch Me](https://open.spotify.com/track/6CTG85NJI1Wm60pxTSRNwL) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [You're Dead!](https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj) | 3:54 |
+| 60 | [Never Catch Me](https://open.spotify.com/track/1KOqY0QTSadQFRgbNw1sLh) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [You're Dead!](https://open.spotify.com/album/7DFT5wc0jn6U7DqooS8y6l) | 3:54 |
 
-Snapshot ID: `MTY1MjQxNDUyMCwwMDAwMDAwMDI3MTcxYTBjMmNlZWRiNDc3ZmRmNjI2ZmY3NDk2ZThh`
+Snapshot ID: `MTY1MjQxNDUyMCwwMDAwMDAwMDZmYjNiNjk4M2Q5ZTc5ZTQ4MmFmNTA0NDE0MjBmZWU4`

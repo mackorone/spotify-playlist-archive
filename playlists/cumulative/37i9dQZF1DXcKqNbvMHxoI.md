@@ -4,13 +4,14 @@
 
 > Songs so beautiful, made for the night
 
-151 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/3swmZtZYYuQKpL3J4b3mlh)
+152 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [05:10 AM / DREAM I NEVER HAD](https://open.spotify.com/track/57rsP9XufjzYaw7yG01XAB) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [FRIDAY FOREVER](https://open.spotify.com/album/5i9U5MGjNDeP5wQxZNTOw6) | 4:38 | 2022-02-04 |  |
 | [1000 Nights \(feat\. Jorja Smith\)](https://open.spotify.com/track/1qtERWOl2VIHuH5AcTnYsW) | [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [1000 Nights \(feat\. Jorja Smith\)](https://open.spotify.com/album/6TTKVoj54ICGU47ui1QCgg) | 3:52 | 2022-02-04 |  |
-| [2005 NYE](https://open.spotify.com/track/6ezV370O6dVoAf9DtRK4X9) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/4PPA1thVaDI5MUuRqmNTR9) | 4:47 | 2022-02-04 |  |
+| [2005 NYE](https://open.spotify.com/track/1rzH1WxcHyLEyBuErJQVO0) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/1Epdx4Nl1hobUOEnIXGHVl) | 4:47 | 2022-07-26 |  |
+| [2005 NYE](https://open.spotify.com/track/6ezV370O6dVoAf9DtRK4X9) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [2005 NYE](https://open.spotify.com/album/4PPA1thVaDI5MUuRqmNTR9) | 4:47 | 2022-02-04 | 2022-12-26 |
 | [ain't the same](https://open.spotify.com/track/36HiyxDVheJRnCDhJk73Um) | [Lwny](https://open.spotify.com/artist/0nwK1tWueQUPpKudMyAArz) | [ain't the same](https://open.spotify.com/album/5FZolbTrLLPuvTPoVKidJW) | 4:24 | 2022-02-04 |  |
 | [All About U](https://open.spotify.com/track/50wmUC3yAds4R1E3PMuPjD) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Condition](https://open.spotify.com/album/17Z3b3zcONkAQFS1GJ6AM4) | 3:45 | 2022-02-04 |  |
 | [All for You](https://open.spotify.com/track/6VvtXayx5dU4CNluVzJTgM) | [LILITA](https://open.spotify.com/artist/7yjPJtEHUsXGKXOnRuTvuy) | [All for You](https://open.spotify.com/album/1QXHhDj48buwqHyE9FXSpD) | 4:29 | 2022-02-04 |  |

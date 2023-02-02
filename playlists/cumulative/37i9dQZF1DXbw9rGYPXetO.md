@@ -4,7 +4,7 @@
 
 > A selection of <a href="https://en.wikipedia.org/wiki/Hindustani\_classical\_music">North Indian Classical</a> instrumental music to help you focus and bring you joy.
 
-40 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/3X1us6693X0Vm9BV4EMq7H)
+40 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

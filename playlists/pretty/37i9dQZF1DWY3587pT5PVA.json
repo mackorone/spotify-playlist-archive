@@ -1,15 +1,103 @@
 {
-  "description": "Your favorite songs from Netflix movie musicals all in one playlist.",
-  "num_followers": 1112,
+  "description": "Your favorite songs from Netflix movie musicals all in one playlist. Cover: Matilda the Musical",
+  "num_followers": 2290,
   "original_name": "Netflix Theater Kids Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5OTYwMCwwMDAwMDAwMDY0YWE2OWY4NjIwMzQ3ODY5YzU2ZTQ2NTQwMmQyZDQw",
+  "snapshot_id": "MTY3MDYyNTM3NCwwMDAwMDAwMDAyMzFlZGI3Zjg4ZDgwYmY2NGFkM2NkNTZhOWIxODIy",
   "tracks": [
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
+      "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hodson-Prior",
+          "url": "https://open.spotify.com/artist/4LEQzEfPRz1VQt4q1B7tZF"
+        },
+        {
+          "name": "Meesha Garbett",
+          "url": "https://open.spotify.com/artist/6NZst2OKvVaEoYRpQfeIr4"
+        },
+        {
+          "name": "Liberty Greig",
+          "url": "https://open.spotify.com/artist/51nzPODa7jqt9JK1U2FME4"
+        },
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "duration_ms": 174746,
+      "name": "Revolting Children",
+      "url": "https://open.spotify.com/track/6n9rNjFkKNnY18EqFVvAvt"
+    },
+    {
+      "added_at": "2022-12-07 13:45:21",
+      "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "Alisha Weir",
+          "url": "https://open.spotify.com/artist/4LFK3XsOfUptZuyigAPP2a"
+        },
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/4kKjD66XgNYi8vY4YspmFV"
+    },
+    {
+      "added_at": "2022-12-07 13:45:21",
+      "album": {
+        "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
+      },
+      "artists": [
+        {
+          "name": "Rei Yamauchi Fulker",
+          "url": "https://open.spotify.com/artist/1vDVH1YBvOITLFe04vlW6U"
+        },
+        {
+          "name": "Andrei Shen",
+          "url": "https://open.spotify.com/artist/2HmeDTpg2cFa1mLIwOVwhx"
+        },
+        {
+          "name": "Winter Jarrett Glasspool",
+          "url": "https://open.spotify.com/artist/6Kbak7pyGFEeePN6Tjhi0p"
+        },
+        {
+          "name": "Ashton Robertson",
+          "url": "https://open.spotify.com/artist/0W6urLgHvLObjLnFQBopo5"
+        },
+        {
+          "name": "Lashana Lynch",
+          "url": "https://open.spotify.com/artist/2UDUbzLUtoj0Uv4t1rLaul"
+        },
+        {
+          "name": "Alisha Weir",
+          "url": "https://open.spotify.com/artist/4LFK3XsOfUptZuyigAPP2a"
+        },
+        {
+          "name": "The Cast of Roald Dahl's Matilda The Musical",
+          "url": "https://open.spotify.com/artist/6uJqlXjDcRcpCuxTAXybKf"
+        }
+      ],
+      "duration_ms": 222053,
+      "name": "When I Grow Up",
+      "url": "https://open.spotify.com/track/5cbDOddnHEHcKVNntaRkxC"
+    },
+    {
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Opportunity",
         "url": "https://open.spotify.com/album/7oZZIl1fP6cd1XSvxc3XSk"
@@ -41,7 +129,7 @@
       "url": "https://open.spotify.com/track/1LZ6ZU4aJHcHENkv7b2iy5"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Opportunity",
         "url": "https://open.spotify.com/album/7oZZIl1fP6cd1XSvxc3XSk"
@@ -65,7 +153,7 @@
       "url": "https://open.spotify.com/track/36Ifoa2hkOdFKUx6rGQ68Z"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/3fRer69GOSeMY3yGEWHppA"
@@ -89,7 +177,7 @@
       "url": "https://open.spotify.com/track/5Mu2G7387ww8uqZFAiBqPi"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "My Frankenstein (from the Netflix Series \"Dead End: Paranormal Park\")",
         "url": "https://open.spotify.com/album/5GTREiFNEuWKCs9PM2GFLz"
@@ -105,7 +193,7 @@
       "url": "https://open.spotify.com/track/1nDccJP85l1wcgWhK9C1OZ"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Julie's Greenroom (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/65x8uYflvSpossCuZTJkjf"
@@ -125,7 +213,7 @@
       "url": "https://open.spotify.com/track/5M9k2rBFh5aH9Wm7iLHi0a"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Over the Moon (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
@@ -141,7 +229,7 @@
       "url": "https://open.spotify.com/track/7z6wKPYntTIAPLNOZRQq3t"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Vivo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk"
@@ -165,7 +253,7 @@
       "url": "https://open.spotify.com/track/5UViNf73MOwFliBnEyTzB1"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Over the Moon (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
@@ -181,7 +269,7 @@
       "url": "https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
@@ -213,7 +301,7 @@
       "url": "https://open.spotify.com/track/1e2ofLpE40cjEeMENP7pzv"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Vivo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk"
@@ -229,7 +317,7 @@
       "url": "https://open.spotify.com/track/29Zv8HZ4WPmUFLozdbOABa"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Barbie Big City Big Dreams (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5RT8XYb12RvV6qLcZMX8Yt"
@@ -245,7 +333,7 @@
       "url": "https://open.spotify.com/track/4xA6dhqwScpEjJ8sHWO8WX"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
@@ -265,7 +353,7 @@
       "url": "https://open.spotify.com/track/6VUMlHTs06O4tvQTpuboVR"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Julie's Greenroom (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/65x8uYflvSpossCuZTJkjf"
@@ -285,7 +373,7 @@
       "url": "https://open.spotify.com/track/4sUzexExjg3N7azKotkOto"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Follow Me Home (From The Netflix Film: \u201cArlo The Alligator Boy\u201d)",
         "url": "https://open.spotify.com/album/0xXPyISR7P6Me2GA6kpd40"
@@ -305,7 +393,7 @@
       "url": "https://open.spotify.com/track/3KhEBGZC8whvLi8Xep5OBk"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Barbie Big City Big Dreams (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5RT8XYb12RvV6qLcZMX8Yt"
@@ -321,7 +409,7 @@
       "url": "https://open.spotify.com/track/3Kloh3s5SejkSrGQCiZfzo"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Found (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1aGvxd7tlrij5LP191DdIv"
@@ -341,7 +429,7 @@
       "url": "https://open.spotify.com/track/1BpZhkNsRMr4GXjrHskAIy"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Centaurworld: S2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0XyxLVNxJwHlU6PakJsFae"
@@ -373,7 +461,7 @@
       "url": "https://open.spotify.com/track/1SVZE4fWjs30KmALVoCPb1"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Over the Moon (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
@@ -389,7 +477,7 @@
       "url": "https://open.spotify.com/track/3mrJGJ29t84ndQuwRr0fze"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Barbie Big City Big Dreams (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5RT8XYb12RvV6qLcZMX8Yt"
@@ -405,7 +493,7 @@
       "url": "https://open.spotify.com/track/6gH9hHLU5wOwTBn5sOmXGi"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "The Prom (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/5016dF1FF2mrEtD38l4QiN"
@@ -421,7 +509,7 @@
       "url": "https://open.spotify.com/track/57Bd0IGmgkDMoEMGrAg6bx"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
@@ -457,7 +545,7 @@
       "url": "https://open.spotify.com/track/2gkMTVzIqlTezI37yovfHK"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
@@ -481,7 +569,7 @@
       "url": "https://open.spotify.com/track/5yeHtAPGAFsfN9baoglUlc"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl"
@@ -501,7 +589,7 @@
       "url": "https://open.spotify.com/track/6ofMKJjMpfDEb48JYEAgjX"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Arlo The Alligator Boy (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/4fvJxTrYkLGZ1kiLRDXujq"
@@ -521,7 +609,7 @@
       "url": "https://open.spotify.com/track/5a2HgGlNZ1Y6D9EjZsdts3"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "My Little Pony: A New Generation (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g"
@@ -541,7 +629,7 @@
       "url": "https://open.spotify.com/track/2EhIF9BvXTKFZn5sCuMNrX"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
@@ -561,7 +649,7 @@
       "url": "https://open.spotify.com/track/3gy83YfNaZOsAvkbVgD6IQ"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
@@ -597,7 +685,7 @@
       "url": "https://open.spotify.com/track/2QE54qAFv2rEEKZf6eqY9P"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Centaurworld: S2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0XyxLVNxJwHlU6PakJsFae"
@@ -621,7 +709,7 @@
       "url": "https://open.spotify.com/track/64nr9XgCivx1nDdL6At8gh"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "The Prom (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/5016dF1FF2mrEtD38l4QiN"
@@ -669,7 +757,7 @@
       "url": "https://open.spotify.com/track/6479ssHEb3NXLHQ3OLJ5ki"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
@@ -689,7 +777,7 @@
       "url": "https://open.spotify.com/track/5Agzmpk05TGNkI8YnLfN6Y"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "The Prom (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/5016dF1FF2mrEtD38l4QiN"
@@ -721,7 +809,7 @@
       "url": "https://open.spotify.com/track/5CuiqZdFteipmSPj8yqBOf"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Barbie Big City Big Dreams (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5RT8XYb12RvV6qLcZMX8Yt"
@@ -737,7 +825,7 @@
       "url": "https://open.spotify.com/track/0fqO5VakzBJcfoUbiMjIV5"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "The Loud House Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3BTNO46O7ZLNl24G7LT8JJ"
@@ -761,7 +849,7 @@
       "url": "https://open.spotify.com/track/6gGjGxycyFeXx4s7rWogvU"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Centaurworld: S2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0XyxLVNxJwHlU6PakJsFae"
@@ -781,7 +869,7 @@
       "url": "https://open.spotify.com/track/5TqAajPwzM0pIQeYcQuKeu"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Glowin' Up (from the Netflix film \"My Little Pony: A New Generation\")",
         "url": "https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X"
@@ -801,7 +889,7 @@
       "url": "https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "The Prom (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/5016dF1FF2mrEtD38l4QiN"
@@ -853,7 +941,7 @@
       "url": "https://open.spotify.com/track/4eV3xwQ53Bs7j2JpMd4sOr"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Arlo The Alligator Boy (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/4fvJxTrYkLGZ1kiLRDXujq"
@@ -869,7 +957,7 @@
       "url": "https://open.spotify.com/track/4YA5D0hlFcnCFUJodFZAU9"
     },
     {
-      "added_at": "2022-07-29 13:00:00",
+      "added_at": "2022-12-07 13:45:21",
       "album": {
         "name": "Julie's Greenroom (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/65x8uYflvSpossCuZTJkjf"

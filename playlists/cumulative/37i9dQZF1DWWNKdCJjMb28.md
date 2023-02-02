@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/karencivil/?hl=en">Karen Civil</a>
 
-49 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/3tO2vNLNfXt7eLeo6EtxcD)
+50 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 | 2022-10-01 |  |
 | [The Weekend](https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:32 | 2022-10-01 |  |
 | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \- Remix](https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Throat Baby \(Go Baby\) \(with DaBaby & City Girls\) \[Remix\]](https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD) | 3:31 | 2022-10-01 |  |
-| [Too Deep](https://open.spotify.com/track/3uSSjnDMmoyERaAK9KvpJR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc) | 3:20 | 2022-10-01 |  |
+| [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 | 2022-10-01 |  |
+| [Too Deep](https://open.spotify.com/track/3uSSjnDMmoyERaAK9KvpJR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc) | 3:20 | 2022-10-01 | 2023-01-01 |
 | [Took Her To The O](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 3:16 | 2022-10-01 |  |
 | [Trouble on My Mind](https://open.spotify.com/track/3DzlR0kXE6shimFVhSwI4A) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Fear of God II: Let Us Pray](https://open.spotify.com/album/6ZS2NOEZ7XwlNlKWK2dzPM) | 3:32 | 2022-10-01 |  |
 | [U See Us](https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 3:25 | 2022-10-01 |  |

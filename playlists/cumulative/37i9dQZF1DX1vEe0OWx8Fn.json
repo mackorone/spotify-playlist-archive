@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "it was never just a phase ",
   "name": "dear diary",
-  "published_playlist_ids": [
-    "7zNUe9tpLIHIO7lX9G9AtD"
-  ],
   "tracks": [
     {
       "album": {
@@ -157,6 +154,24 @@
       "duration_ms": 187808,
       "name": "Another Kill For The Highlight Reel",
       "url": "https://open.spotify.com/track/42Zrm6dR3rios7W7I1NizE"
+    },
+    {
+      "album": {
+        "name": "Backtrack",
+        "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158840,
+      "name": "Backtrack",
+      "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
     },
     {
       "album": {
@@ -1203,7 +1218,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-09",
       "duration_ms": 165539,
       "name": "hangar",
       "url": "https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ"
@@ -1257,7 +1272,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 168500,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G"
@@ -1293,7 +1308,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-09",
       "duration_ms": 317837,
       "name": "HeatDeath",
       "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
@@ -1481,7 +1496,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 214359,
       "name": "I Think I Hate Myself",
       "url": "https://open.spotify.com/track/6QKApSR7XgRR4EjuAoGBcv"
@@ -1709,6 +1724,28 @@
       "duration_ms": 157826,
       "name": "in this world of mona lisa's, you\u2019re my jackson pollock",
       "url": "https://open.spotify.com/track/33K0eJS7ZdLAZFtxv2UaU8"
+    },
+    {
+      "album": {
+        "name": "I\u2019m a Mess (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187793,
+      "name": "I\u2019m a Mess (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
     },
     {
       "album": {
@@ -2153,7 +2190,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": "2022-12-06",
       "duration_ms": 186902,
       "name": "please put me in a medically induced coma",
       "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
@@ -2374,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "sos",
+        "url": "https://open.spotify.com/album/5GbZEpMjNPvk9ctHaAXevK"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149627,
+      "name": "sos",
+      "url": "https://open.spotify.com/track/1yIXLkLDBKV70WvEUOCR7u"
+    },
+    {
+      "album": {
         "name": "Stained",
         "url": "https://open.spotify.com/album/4HLLeKI7DK3PXDT9OSCzgy"
       },
@@ -2572,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "The News",
+        "url": "https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7"
+    },
+    {
+      "album": {
         "name": "The Rift",
         "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
       },
@@ -2641,6 +2714,24 @@
       "duration_ms": 208695,
       "name": "These Days R Mine",
       "url": "https://open.spotify.com/track/42WeNaMfqmoMW5BZR43v1z"
+    },
+    {
+      "album": {
+        "name": "This is the End",
+        "url": "https://open.spotify.com/album/1fJStrEMC3WHoDmcStWh0h"
+      },
+      "artists": [
+        {
+          "name": "Baby Fisher",
+          "url": "https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190327,
+      "name": "This is the End",
+      "url": "https://open.spotify.com/track/3j6dcEE1CiLize5IKgtAY4"
     },
     {
       "album": {
@@ -2781,7 +2872,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 98800,
       "name": "wish i was dead",
       "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"
@@ -2842,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "Further Joy",
+        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 229960,
+      "name": "You're So Fucking Pretty",
+      "url": "https://open.spotify.com/track/2UzNrlJnzS5N0PDz2n2kwu"
+    },
+    {
+      "album": {
         "name": "Nothing is True & Everything is Possible",
         "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
       },
@@ -2853,7 +2962,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 173304,
       "name": "{ The Dreamer\u2019s Hotel }",
       "url": "https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL"

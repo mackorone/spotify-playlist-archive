@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "A look back at some of the most impactful songs of 2017.",
   "name": "Rock This: Best of 2017",
-  "published_playlist_ids": [
-    "3pXmTZBNpu2uGfP0OT5yh6"
-  ],
   "tracks": [
     {
       "album": {
@@ -1919,10 +1916,28 @@
       ],
       "date_added": "2017-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-04",
       "duration_ms": 222256,
       "name": "Suit And Jacket",
       "url": "https://open.spotify.com/track/2ZYBwkmtYhgUj1A7teYAZ7"
+    },
+    {
+      "album": {
+        "name": "Folk Hop n' Roll (Deluxe)",
+        "url": "https://open.spotify.com/album/4K1jpuHe0ggkFmm4sNidFm"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "date_added": "2017-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222256,
+      "name": "Suit and Jacket",
+      "url": "https://open.spotify.com/track/3ILLqwupo1Aa6PBNXxV4ey"
     },
     {
       "album": {

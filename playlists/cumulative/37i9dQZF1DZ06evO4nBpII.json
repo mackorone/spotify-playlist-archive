@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-12",
   "description": "This is Green Day. The essential tracks, all in one playlist.",
   "name": "This Is Green Day",
-  "published_playlist_ids": [
-    "534MSxUBcKwFusuT5LJosR"
-  ],
   "tracks": [
     {
       "album": {
@@ -95,6 +92,24 @@
       "duration_ms": 229893,
       "name": "99 Revolutions",
       "url": "https://open.spotify.com/track/3CgT96psOXwPssPNvYPclP"
+    },
+    {
+      "album": {
+        "name": "Alison (Demo)",
+        "url": "https://open.spotify.com/album/6YEqa6Rd3McfnhXd2wGiBY"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154427,
+      "name": "Alison - Demo",
+      "url": "https://open.spotify.com/track/4DbANKRc1W9ChH2pWchb58"
     },
     {
       "album": {
@@ -361,7 +376,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": "2023-01-09",
       "duration_ms": 164666,
       "name": "Having a Blast",
       "url": "https://open.spotify.com/track/0eUJzAGs9OKSOmLVpsng7e"
@@ -437,6 +452,28 @@
       "duration_ms": 189520,
       "name": "Holy Toledo! (from the Original Motion Picture \u201cMark, Mary & Some Other People\u201d)",
       "url": "https://open.spotify.com/track/3fRK9qG08iZyWvqjOWkdKc"
+    },
+    {
+      "album": {
+        "name": "No Fun Mondays",
+        "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
+      },
+      "artists": [
+        {
+          "name": "Billie Joe Armstrong",
+          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
+        },
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134671,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
     },
     {
       "album": {
@@ -660,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Nice Guys Finish Last (Live at the Electric Factory, Philadelphia 11/14/97)",
+        "url": "https://open.spotify.com/album/4jeeRrN9SDSJ9kNqjxC52R"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-10",
+      "duration_ms": 177430,
+      "name": "Nice Guys Finish Last - Live at the Electric Factory, Philadelphia 11/14/97",
+      "url": "https://open.spotify.com/track/5lpnKms51XfMY4XZVNfZkp"
+    },
+    {
+      "album": {
         "name": "\u00a1UNO!",
         "url": "https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w"
       },
@@ -671,7 +726,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": "2023-01-16",
       "duration_ms": 183146,
       "name": "Nuclear Family",
       "url": "https://open.spotify.com/track/206n37mZTmloL45RYhmMlP"
@@ -707,7 +762,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 171160,
       "name": "Oh Yeah!",
       "url": "https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f"
@@ -743,7 +798,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 195017,
       "name": "Pollyanna",
       "url": "https://open.spotify.com/track/4b2h4jQxgHpiWuLH8rp8Vu"
@@ -797,7 +852,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 182506,
       "name": "Scattered",
       "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
@@ -905,10 +960,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 132080,
       "name": "The Grouch",
       "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
+    },
+    {
+      "album": {
+        "name": "Nimrod (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4R802IhlcVX7z3m7xyp7zC"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129104,
+      "name": "The Grouch - Demo",
+      "url": "https://open.spotify.com/track/4eeRBEPxzI07bjK1cWg8sS"
     },
     {
       "album": {
@@ -1143,7 +1216,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-02",
       "duration_ms": 152760,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/5JwuHzmJCmHuHGjP9W6KtK"

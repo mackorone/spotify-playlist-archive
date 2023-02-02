@@ -4,7 +4,7 @@
 
 > 這些歌手將以其令人讚嘆的嗓音和演唱技巧牽動你的心弦。
 
-49 songs - 3 hr 24 min - [published](https://open.spotify.com/playlist/4GzdWnyuh34dYIiqYkZc9p)
+49 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-236 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
+237 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [No love, No Heartbreak](https://open.spotify.com/track/0zFmyYg4HuqFIj4DsNvmu8) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [No love, No Heartbreak](https://open.spotify.com/album/6NEkqFF70eFJD5aPheRBFu) | 3:30 | 2022-02-17 |  |
 | [No matter where](https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Pathos](https://open.spotify.com/album/42FCxz16YLTZ1nw5lVfpaR) | 5:31 | 2022-02-17 |  |
 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 | 2022-02-17 |  |
+| [old song](https://open.spotify.com/track/5IFuZw0mqTVZn1xWzfYqbb) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [SHINE](https://open.spotify.com/album/1IsW5pVRvmq1sz30YOPFxT) | 4:32 | 2022-02-23 |  |
 | [On That Day](https://open.spotify.com/track/4fx2P5JDZ7hszBkTxzftQL) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [On That Day](https://open.spotify.com/album/7hcTxoEyYvl75urS0ee3Sl) | 3:39 | 2022-02-17 |  |
 | [One Day Only](https://open.spotify.com/track/2JJTLtccyOLEqFGMaJEyZv) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:16 | 2022-02-17 |  |
 | [One Love](https://open.spotify.com/track/5alMW854ShjDbupOJtaNKC) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 4:21 | 2022-02-17 |  |
@@ -235,7 +236,7 @@
 | [신촌을 못가 \(소울충만 체키라웃\)](https://open.spotify.com/track/470wF4yeCAUWFJyRyclq4g) | [김진우](https://open.spotify.com/artist/3ltEEQwBgxqpjiJK2hgrpv) | [Mask Singer 41th \(Live Version\)](https://open.spotify.com/album/3m8iMa9b0AMilQJ16EbnoU) | 3:45 | 2022-02-17 |  |
 | [안녕](https://open.spotify.com/track/5QoAukinX7qSw9iWeKdvsQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel del Luna \(Original Television Soundtrack\)](https://open.spotify.com/album/4XPWLocfmwWF1Kx3J8qYZp) | 3:45 | 2022-02-23 | 2022-11-13 |
 | [안녕](https://open.spotify.com/track/7sZwWzSeCtGYo5ZQcWRLlJ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel del Luna \(Original Television Soundtrack\) Pt.10](https://open.spotify.com/album/4tW3kGnzsPIvpWOzgIew2A) | 3:45 | 2022-02-23 |  |
-| [오래된 노래](https://open.spotify.com/track/5gllIJSLyRouz1bGO5ues4) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Shine](https://open.spotify.com/album/2aDdQBInFcVq7XHrPPkxfe) | 4:32 | 2022-02-17 |  |
+| [오래된 노래](https://open.spotify.com/track/5gllIJSLyRouz1bGO5ues4) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Shine](https://open.spotify.com/album/2aDdQBInFcVq7XHrPPkxfe) | 4:32 | 2022-02-17 | 2023-01-29 |
 | [응급실](https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx) | [Izi](https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf) | [izi 1집](https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8) | 3:46 | 2022-02-17 |  |
 | [좋니](https://open.spotify.com/track/1MZdlzU4bO0JYaJPAftt4l) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2017 Yoon Jong Shin 행보 2017 윤종신](https://open.spotify.com/album/37b3GGhNdmdIHhX4wdyzQ2) | 6:15 | 2022-02-17 | 2022-07-29 |
 | [좋니](https://open.spotify.com/track/4qkYFnaKtaaPkUvhSsC8kC) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2017 Yoon Jong Shin](https://open.spotify.com/album/3ukXa5DzYvV5aEXz2PrGLO) | 6:15 | 2022-02-23 |  |

@@ -1,28 +1,52 @@
 {
-  "description": "East Africa Queens in their musical element.",
-  "num_followers": 1659,
+  "description": "East Africa Queens in their music bag",
+  "num_followers": 2211,
   "original_name": "Malkia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTMyMzU0MCwwMDAwMDAwMDYzYzQ4MTQ2NDNmYzZhODcxNzMzNjVkMWI5YjQ0MjRh",
+  "snapshot_id": "MTY3NDgwMzM0NSwwMDAwMDAwMGY1ZDg2YTg2ZjI1NGFjNDliNDEyMzBlZTlhYzUzMTFk",
   "tracks": [
     {
-      "added_at": "2022-11-24 20:59:00",
+      "added_at": "2022-12-16 11:18:45",
       "album": {
-        "name": "My Cherie",
-        "url": "https://open.spotify.com/album/1l7rj6E7ai2q5wPKGWis2S"
+        "name": "Matozo",
+        "url": "https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog"
       },
       "artists": [
         {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+          "name": "Lady Jaydee",
+          "url": "https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS"
+        },
+        {
+          "name": "Rama Dee",
+          "url": "https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks"
         }
       ],
-      "duration_ms": 278068,
-      "name": "My Cherrie",
-      "url": "https://open.spotify.com/track/4k7pec9Cchlj8kxi0vJd0D"
+      "duration_ms": 141853,
+      "name": "Matozo",
+      "url": "https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ"
+    },
+    {
+      "added_at": "2023-01-16 08:15:30",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/4DeGCqMQZgH5K7RCFkAGwi"
+      },
+      "artists": [
+        {
+          "name": "Bey T",
+          "url": "https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 135464,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/03TXdrL0GlDeqIwTnkj6HT"
     },
     {
       "added_at": "2022-10-13 20:59:00",
@@ -39,6 +63,22 @@
       "duration_ms": 180278,
       "name": "On Yah - Intro",
       "url": "https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ"
+    },
+    {
+      "added_at": "2022-11-24 20:59:00",
+      "album": {
+        "name": "My Cherie",
+        "url": "https://open.spotify.com/album/1l7rj6E7ai2q5wPKGWis2S"
+      },
+      "artists": [
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "duration_ms": 278068,
+      "name": "My Cherrie",
+      "url": "https://open.spotify.com/track/4k7pec9Cchlj8kxi0vJd0D"
     },
     {
       "added_at": "2022-09-08 20:59:00",
@@ -73,6 +113,54 @@
       "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
     },
     {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Choore",
+        "url": "https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH"
+      },
+      "artists": [
+        {
+          "name": "Apio Moro",
+          "url": "https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj"
+        }
+      ],
+      "duration_ms": 199655,
+      "name": "Bayi",
+      "url": "https://open.spotify.com/track/1CkRUUq109CKIB96vSXFwR"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Wandiisa Ki",
+        "url": "https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z"
+      },
+      "artists": [
+        {
+          "name": "Rema namakula",
+          "url": "https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr"
+        }
+      ],
+      "duration_ms": 193410,
+      "name": "Wandiisa Ki",
+      "url": "https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo"
+    },
+    {
+      "added_at": "2022-09-20 14:19:20",
+      "album": {
+        "name": "Unintentional",
+        "url": "https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "duration_ms": 164443,
+      "name": "Penzi Wa Kasi",
+      "url": "https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu"
+    },
+    {
       "added_at": "2022-09-29 20:59:00",
       "album": {
         "name": "Colours",
@@ -87,6 +175,26 @@
       "duration_ms": 224857,
       "name": "Colours",
       "url": "https://open.spotify.com/track/5HEEUg2iTaHbHApME7VGJh"
+    },
+    {
+      "added_at": "2023-01-27 07:09:05",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        },
+        {
+          "name": "Chemutai Sage",
+          "url": "https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx"
+        }
+      ],
+      "duration_ms": 179977,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp"
     },
     {
       "added_at": "2022-07-18 11:52:46",
@@ -169,22 +277,6 @@
       "url": "https://open.spotify.com/track/0rMg0aTus0SMln332gVa9M"
     },
     {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Choore",
-        "url": "https://open.spotify.com/album/1JJS21TtylktwlJYPrZuxH"
-      },
-      "artists": [
-        {
-          "name": "Apio Moro",
-          "url": "https://open.spotify.com/artist/3TS6PfDQo5FRZaG03GdkAj"
-        }
-      ],
-      "duration_ms": 199655,
-      "name": "Bayi",
-      "url": "https://open.spotify.com/track/1CkRUUq109CKIB96vSXFwR"
-    },
-    {
       "added_at": "2022-10-27 20:59:00",
       "album": {
         "name": "Mad Man",
@@ -199,22 +291,6 @@
       "duration_ms": 185294,
       "name": "Mad Man",
       "url": "https://open.spotify.com/track/5v8HPYHWaq4qC1OO3WPGQz"
-    },
-    {
-      "added_at": "2022-09-20 14:19:20",
-      "album": {
-        "name": "Unintentional",
-        "url": "https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj"
-      },
-      "artists": [
-        {
-          "name": "Njerae",
-          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
-        }
-      ],
-      "duration_ms": 164443,
-      "name": "Penzi Wa Kasi",
-      "url": "https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu"
     },
     {
       "added_at": "2022-07-18 11:52:46",
@@ -301,20 +377,24 @@
       "url": "https://open.spotify.com/track/1D62kK6VCcfQV1JyOhgsRx"
     },
     {
-      "added_at": "2022-07-18 11:52:46",
+      "added_at": "2022-12-16 11:18:45",
       "album": {
-        "name": "Wandiisa Ki",
-        "url": "https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z"
+        "name": "Nfollowinga",
+        "url": "https://open.spotify.com/album/4gA8KJQVSNlhjy74KRDnLP"
       },
       "artists": [
         {
-          "name": "Rema namakula",
-          "url": "https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr"
+          "name": "Miriam Namaganda",
+          "url": "https://open.spotify.com/artist/4WPIAHlYewpWNZnWOlEhiF"
+        },
+        {
+          "name": "Angella Katatumba",
+          "url": "https://open.spotify.com/artist/1vpGA9WdQqdZHY36FcYoqw"
         }
       ],
-      "duration_ms": 193410,
-      "name": "Wandiisa Ki",
-      "url": "https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo"
+      "duration_ms": 167284,
+      "name": "Nfollowinga",
+      "url": "https://open.spotify.com/track/0VNAMIE10wDY5zy6jqmQQY"
     },
     {
       "added_at": "2022-08-19 13:01:33",
@@ -695,38 +775,6 @@
     {
       "added_at": "2022-07-18 11:52:46",
       "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/35mBssVYgCOrIZRPkDEcpw"
-      },
-      "artists": [
-        {
-          "name": "Wangechi",
-          "url": "https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "KIKI",
-      "url": "https://open.spotify.com/track/5HCMRyG7oBgUIFRmfjbREI"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Blue Print (Official Audio)",
-        "url": "https://open.spotify.com/album/5HcuKyDldkZjAnOOUe4s4l"
-      },
-      "artists": [
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Blue Print - Official Audio",
-      "url": "https://open.spotify.com/track/5LMs2FmgS1W7l3C5Wx824v"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1C4342P9N6QgqnQezg8Ony"
       },
@@ -743,22 +791,6 @@
       "duration_ms": 174545,
       "name": "Money",
       "url": "https://open.spotify.com/track/5wXGMc37E8zPQahBiZGu87"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Salsa (Ready)",
-        "url": "https://open.spotify.com/album/0nrKiDxIeeLFYem4v6vae6"
-      },
-      "artists": [
-        {
-          "name": "Ssaru",
-          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
-        }
-      ],
-      "duration_ms": 219219,
-      "name": "Salsa (Ready)",
-      "url": "https://open.spotify.com/track/4sA3oaBmIceYBuileHFjEf"
     },
     {
       "added_at": "2022-07-18 11:52:46",
@@ -819,22 +851,6 @@
     {
       "added_at": "2022-07-18 11:52:46",
       "album": {
-        "name": "Back4th",
-        "url": "https://open.spotify.com/album/1GfzwGWp0yd53AGZX98zrt"
-      },
-      "artists": [
-        {
-          "name": "Fena Gitu",
-          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Back4th",
-      "url": "https://open.spotify.com/track/3B1ULzAnh4OsrxSeSonN5d"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
         "name": "Ningwetele",
         "url": "https://open.spotify.com/album/1eBVVYNEjwA6kfBl9M8P4w"
       },
@@ -851,26 +867,6 @@
     {
       "added_at": "2022-07-18 11:52:46",
       "album": {
-        "name": "Bella Ciao",
-        "url": "https://open.spotify.com/album/3UgIdYdg7kFsBv8RGV5llw"
-      },
-      "artists": [
-        {
-          "name": "Izabell",
-          "url": "https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al"
-        },
-        {
-          "name": "Kriminell Kunst",
-          "url": "https://open.spotify.com/artist/7EJNCcEc74APLevQVDgINC"
-        }
-      ],
-      "duration_ms": 208883,
-      "name": "Bella Ciao",
-      "url": "https://open.spotify.com/track/7z9Aqb5WrAf8v2UyWXKzle"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
         "name": "One Bite",
         "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
       },
@@ -883,42 +879,6 @@
       "duration_ms": 174315,
       "name": "One Bite",
       "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "Kikole",
-        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Kikole",
-      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
-    },
-    {
-      "added_at": "2022-09-01 20:59:00",
-      "album": {
-        "name": "NYUMBANI",
-        "url": "https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s"
-      },
-      "artists": [
-        {
-          "name": "Colossal Music",
-          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
-        },
-        {
-          "name": "Amara Tari",
-          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
-        }
-      ],
-      "duration_ms": 120960,
-      "name": "Nyumbani",
-      "url": "https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW"
     },
     {
       "added_at": "2022-07-18 11:52:46",
@@ -951,22 +911,6 @@
       "duration_ms": 250666,
       "name": "Praises to Mama",
       "url": "https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY"
-    },
-    {
-      "added_at": "2022-07-18 11:52:46",
-      "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/7KRSyRYblNpRGfHBPgs3dt"
-      },
-      "artists": [
-        {
-          "name": "Mwiyeria Ess",
-          "url": "https://open.spotify.com/artist/1rQ7I0qqPWCp4pQDcvt2im"
-        }
-      ],
-      "duration_ms": 239177,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/6d8TFhchDxGs6SppX2AXOo"
     },
     {
       "added_at": "2022-07-18 11:52:46",
@@ -1015,6 +959,78 @@
       "duration_ms": 164989,
       "name": "Toola",
       "url": "https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/3UgIdYdg7kFsBv8RGV5llw"
+      },
+      "artists": [
+        {
+          "name": "Izabell",
+          "url": "https://open.spotify.com/artist/3sX49HZvwvW0hzWb7Ee1Al"
+        },
+        {
+          "name": "Kriminell Kunst",
+          "url": "https://open.spotify.com/artist/7EJNCcEc74APLevQVDgINC"
+        }
+      ],
+      "duration_ms": 208883,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/7z9Aqb5WrAf8v2UyWXKzle"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/7KRSyRYblNpRGfHBPgs3dt"
+      },
+      "artists": [
+        {
+          "name": "Mwiyeria Ess",
+          "url": "https://open.spotify.com/artist/1rQ7I0qqPWCp4pQDcvt2im"
+        }
+      ],
+      "duration_ms": 239177,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/6d8TFhchDxGs6SppX2AXOo"
+    },
+    {
+      "added_at": "2022-09-01 20:59:00",
+      "album": {
+        "name": "NYUMBANI",
+        "url": "https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "Amara Tari",
+          "url": "https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd"
+        }
+      ],
+      "duration_ms": 120960,
+      "name": "Nyumbani",
+      "url": "https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW"
+    },
+    {
+      "added_at": "2022-07-18 11:52:46",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
     }
   ],
   "unique_name": "Malkia",

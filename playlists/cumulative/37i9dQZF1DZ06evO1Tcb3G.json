@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
   "name": "This Is Mumford & Sons",
-  "published_playlist_ids": [
-    "6jrQNq1cx9gVBJzI5ViIZd"
-  ],
   "tracks": [
     {
       "album": {
@@ -19,7 +16,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-18",
       "duration_ms": 245704,
       "name": "After the Storm",
       "url": "https://open.spotify.com/track/2Omy3B47TotpL7yDfArVqQ"
@@ -135,6 +132,24 @@
     {
       "album": {
         "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/1l1TLPILxVipEsTsSho4u3"
+    },
+    {
+      "album": {
+        "name": "Delta",
         "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
       },
       "artists": [
@@ -163,7 +178,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 265096,
       "name": "Beloved",
       "url": "https://open.spotify.com/track/7HFgnF1oPMzkCqEMBOA2yI"
@@ -207,6 +222,24 @@
       "duration_ms": 327411,
       "name": "Blood with Gang Of Youths (Live from Stockholm)",
       "url": "https://open.spotify.com/track/3sBdNkdyTEzSzWVQjg1vmd"
+    },
+    {
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "Cold Arms",
+      "url": "https://open.spotify.com/track/1Krvbw26ewysVZRY6Rd9n1"
     },
     {
       "album": {
@@ -708,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236883,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5RJeg1KeRTQxsgZcPrxWBD"
+    },
+    {
+      "album": {
         "name": "Johannesburg",
         "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
       },
@@ -962,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
+    },
+    {
+      "album": {
         "name": "Wilder Mind",
         "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },
@@ -973,7 +1042,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-31",
       "duration_ms": 221240,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb"
@@ -1183,7 +1252,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 219628,
       "name": "Winter Winds",
       "url": "https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc"
@@ -1219,7 +1288,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-14",
       "duration_ms": 359691,
       "name": "With A Little Help From My Friends (Live from London)",
       "url": "https://open.spotify.com/track/6Rd8m5KdOL2ayiK00ko1Mu"

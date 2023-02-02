@@ -1,83 +1,15 @@
 {
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Sam Smith & Kim Petras",
-  "num_followers": 3343473,
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: David Guetta & Bebe Rexha",
+  "num_followers": 3363247,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDY0YWMzNjNlNjljOTE5Y2VmODYzZmU4YWRiM2M3MGI4",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDE1NzQ2ZDhiOTdhZWU5NjkwZGNiODFjZTJhYjBhYmJh",
   "tracks": [
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Hold Me Closer (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 248594,
-      "name": "Hold Me Closer - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
-        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 234411,
-      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
-      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "I'm Good (Blue) [Gabry Ponte Remix]",
         "url": "https://open.spotify.com/album/0yspiEXcvJqcTMScgu04gq"
@@ -101,7 +33,71 @@
       "url": "https://open.spotify.com/track/1Ic76JMsAbHdDscO9ooJm9"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
+        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 234411,
+      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
+      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "How Do I Say Goodbye (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6XjTK78pOsk3RcetfMXNUe"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "How Do I Say Goodbye - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2gCyxh8Q7Sj1t7pU5IrE7A"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Made You Look (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Made You Look - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Pump It Louder",
         "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
@@ -121,7 +117,7 @@
       "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Anti-Hero (Remixes)",
         "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
@@ -141,59 +137,47 @@
       "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+        "name": "Players",
+        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         },
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
         }
       ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+      "duration_ms": 117026,
+      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Escape (John Summit Remix)",
-        "url": "https://open.spotify.com/album/3S9GUf0drt2FBoNkwJZQjZ"
+        "name": "Another Love (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         },
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Kx5",
-          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Escape - John Summit Remix",
-      "url": "https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE"
+      "duration_ms": 185365,
+      "name": "Another Love - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Sunroof (Loud Luxury Remix)",
         "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
@@ -217,7 +201,151 @@
       "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Unstoppable (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Unstoppable - R3HAB Remix",
+      "url": "https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
+        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 152672,
+      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
+      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 155676,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
+        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        }
+      ],
+      "duration_ms": 213435,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
@@ -249,107 +377,23 @@
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Another Love (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         }
       ],
-      "duration_ms": 185365,
-      "name": "Another Love - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
+      "duration_ms": 121904,
+      "name": "Goodies",
+      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
-        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 152672,
-      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
-      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 155676,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Unstoppable (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Unstoppable - R3HAB Remix",
-      "url": "https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        }
-      ],
-      "duration_ms": 213435,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Go (Remixes)",
         "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
@@ -369,7 +413,27 @@
       "url": "https://open.spotify.com/track/6RZo8T7GY9EoWZXC5i2587"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "More Than A Woman (SG's Paradise Edit)",
+        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 357936,
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Ferrari (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
@@ -393,43 +457,7 @@
       "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "Goodies",
-      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Love Again (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Love Again - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Memories (feat. Kid Cudi) [2021 Remix]",
         "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
@@ -449,7 +477,27 @@
       "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Love Again (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Love Again - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
@@ -473,47 +521,31 @@
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "More Than A Woman (SG's Paradise Edit)",
-        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
+        "name": "Hold Me Closer (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 357936,
-      "name": "More Than A Woman - SG's Paradise Edit",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Bones (twocolors Remix)",
-        "url": "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         },
         {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         }
       ],
-      "duration_ms": 256092,
-      "name": "Bones - twocolors Remix",
-      "url": "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb"
+      "duration_ms": 248594,
+      "name": "Hold Me Closer - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "About Damn Time (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
@@ -533,59 +565,27 @@
       "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
-        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
+        "name": "Don't Go Yet (Major Lazer Remix)",
+        "url": "https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         }
       ],
-      "duration_ms": 211428,
-      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
-      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
+      "duration_ms": 171265,
+      "name": "Don't Go Yet - Major Lazer Remix",
+      "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
-        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Bootie Brown",
-          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
-        }
-      ],
-      "duration_ms": 274141,
-      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
-      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
@@ -609,7 +609,31 @@
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+        "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+      "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "The Best Part of Life (Imanbek Remix)",
         "url": "https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP"
@@ -629,27 +653,71 @@
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Don't Go Yet (Major Lazer Remix)",
-        "url": "https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo"
+        "name": "Never Gonna Not Dance Again (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/4qxm7mFPzfXYEo5A9LPg5J"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         },
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 171265,
-      "name": "Don't Go Yet - Major Lazer Remix",
-      "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
+      "duration_ms": 167419,
+      "name": "Never Gonna Not Dance Again - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/1U3VkqNBorp6hxLoM6JlQJ"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Believe (feat. Goodboys) [Galantis Remix]",
+        "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "Believe (feat. Goodboys) [Galantis Remix]",
+      "url": "https://open.spotify.com/track/1E5x0AEn7hFZlNwPNRtTGm"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
+        "url": "https://open.spotify.com/album/3dPFgCq5KuPHjBUdSoRmlX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 155989,
+      "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
+      "url": "https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Shivers (Dillon Francis Remix)",
         "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
@@ -669,51 +737,27 @@
       "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Rise (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         },
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 162540,
-      "name": "Rise (Sam Feldt Remix)",
-      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "My Feelings For You (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sebastien Drums",
-          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "My Feelings For You - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
@@ -733,7 +777,27 @@
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Rise (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 162540,
+      "name": "Rise (Sam Feldt Remix)",
+      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "My Universe (Galantis Remix)",
         "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
@@ -757,51 +821,7 @@
       "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Sweetest Pie (David Guetta Remixes)",
-        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Sweetest Pie - David Guetta Dance Remix",
-      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
-        "url": "https://open.spotify.com/album/3dPFgCq5KuPHjBUdSoRmlX"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 155989,
-      "name": "2 Die 4 (Jax Jones Midnight Snacks Remix)",
-      "url": "https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Hallucination (Navos Remix)",
         "url": "https://open.spotify.com/album/0WKL2d7faG0lR3HLJuvT6v"
@@ -825,7 +845,231 @@
       "url": "https://open.spotify.com/track/5VrfQqPD5hymxVQzd5pkkw"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Million Dollar Baby (Nathan Dawe Remix)",
+        "url": "https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 185864,
+      "name": "Million Dollar Baby - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "My Feelings For You (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "My Feelings For You - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Sunshine. The EP",
+        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188825,
+      "name": "Sunshine - MOTi Remix",
+      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Sweetest Pie (David Guetta Remixes)",
+        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Sweetest Pie - David Guetta Dance Remix",
+      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Easy Lover (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/1DoFMDyPXjAyfELfxzx0gx"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 120660,
+      "name": "Easy Lover - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/20m2F7vi3SjKXtq3FyT6qS"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Don't Cry For Me",
+        "url": "https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 199515,
+      "name": "Don't Cry For Me",
+      "url": "https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        },
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "My Head & My Heart (Claptone Remix)",
+        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 182450,
+      "name": "My Head & My Heart - Claptone Remix",
+      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Escape (John Summit Remix)",
+        "url": "https://open.spotify.com/album/3S9GUf0drt2FBoNkwJZQjZ"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Escape - John Summit Remix",
+      "url": "https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Bones (twocolors Remix)",
+        "url": "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 256092,
+      "name": "Bones - twocolors Remix",
+      "url": "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Better Days (Regard Remix)",
         "url": "https://open.spotify.com/album/5QkWVBDHnfAlFpbRaLSXmV"
@@ -853,71 +1097,7 @@
       "url": "https://open.spotify.com/track/7Edhy8323TjVAwvtoqujQu"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Sunshine. The EP",
-        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188825,
-      "name": "Sunshine - MOTi Remix",
-      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "My Head & My Heart (Claptone Remix)",
-        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 182450,
-      "name": "My Head & My Heart - Claptone Remix",
-      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
-        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 175309,
-      "name": "edamame (feat. Rich Brian) - Diplo Remix",
-      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Dawn FM (Alternate World)",
         "url": "https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7"
@@ -937,7 +1117,7 @@
       "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
         "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
@@ -957,95 +1137,7 @@
       "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
-        "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
-      "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        },
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Saved My Life (with R3HAB) [R3HAB VIP Remix]",
-        "url": "https://open.spotify.com/album/1S2tr4ZI7fHQxCelFuGnFW"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Saved My Life (with R3HAB) [R3HAB VIP Remix]",
-      "url": "https://open.spotify.com/track/4U5qWMjVjSypNB0US9oEMM"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Fat Max Gsus",
-          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
-        }
-      ],
-      "duration_ms": 224649,
-      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
         "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
@@ -1069,31 +1161,27 @@
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Numb (Remixes)",
-        "url": "https://open.spotify.com/album/3Q2Ay2Zq5NbpDWqtendJK9"
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "DJ YUKI",
-          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Numb - DJ YUKI Remix",
-      "url": "https://open.spotify.com/track/1M2eYYojjNSeFbVPnh20zF"
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Summertime Sadness (Imanbek Remix)",
         "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
@@ -1113,51 +1201,27 @@
       "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Easy Lover (Jax Jones Remix)",
-        "url": "https://open.spotify.com/album/1DoFMDyPXjAyfELfxzx0gx"
+        "name": "Green Green Grass",
+        "url": "https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         },
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 120660,
-      "name": "Easy Lover - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/20m2F7vi3SjKXtq3FyT6qS"
+      "duration_ms": 138000,
+      "name": "Green Green Grass - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Why Can't You Wait (3LAU Remix)",
-        "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 221612,
-      "name": "Why Can't You Wait - 3LAU Remix",
-      "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
         "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
@@ -1181,7 +1245,75 @@
       "url": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Scandalous (feat. Tinashe) [Remixes]",
+        "url": "https://open.spotify.com/album/0AILrrwUAttkpst8ABOXNK"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "duration_ms": 232857,
+      "name": "Scandalous (feat. Tinashe) - Taiki Nulight Remix",
+      "url": "https://open.spotify.com/track/1DCIiRF0PZdrZFBwuVf8QH"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Sinnerman (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 232632,
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
+        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 175309,
+      "name": "edamame (feat. Rich Brian) - Diplo Remix",
+      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Tell It To My Heart (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30"
@@ -1205,47 +1337,47 @@
       "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+        "name": "Saved My Life (with R3HAB) [R3HAB VIP Remix]",
+        "url": "https://open.spotify.com/album/1S2tr4ZI7fHQxCelFuGnFW"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
         },
         {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
+      "duration_ms": 146000,
+      "name": "Saved My Life (with R3HAB) [R3HAB VIP Remix]",
+      "url": "https://open.spotify.com/track/4U5qWMjVjSypNB0US9oEMM"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Good Ones (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
+        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Fat Max Gsus",
+          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
         }
       ],
-      "duration_ms": 165141,
-      "name": "Good Ones - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
+      "duration_ms": 224649,
+      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Life Goes On (Alok Remix)",
         "url": "https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8"
@@ -1265,111 +1397,51 @@
       "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "CAN'T TOUCH THIS (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
+        "name": "Don't Leave Me Lonely (feat. Elley Duh\u00e9) [Felix Jaehn Happy Rave Mix]",
+        "url": "https://open.spotify.com/album/5M3YqVjk1HX7crUZMQwg9O"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 123214,
-      "name": "CAN'T TOUCH THIS - R3HAB Remix",
-      "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+      "duration_ms": 188571,
+      "name": "Don't Leave Me Lonely (feat. Elley Duh\u00e9) [Felix Jaehn Happy Rave Mix]",
+      "url": "https://open.spotify.com/track/4tvEEOn0swSHPHOifOb8x4"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Steal My Clothes",
-        "url": "https://open.spotify.com/album/0Avx0lSSSHNdu5poOJRAzz"
+        "name": "Good Ones (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
       },
       "artists": [
         {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Steal My Clothes (ft. Bea Miller) \u2013 LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
+      "duration_ms": 165141,
+      "name": "Good Ones - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]",
-        "url": "https://open.spotify.com/album/0fWC4Bvc2DNduV9qLKoPZR"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 238064,
-      "name": "By Your Side (feat. Tom Grennan) - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/3ZFosXgzvmN6wXs9wTaIxh"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Sinnerman (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 232632,
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Original Sin (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/77FbpXGyS9pbEaiHymovlP"
@@ -1389,7 +1461,71 @@
       "url": "https://open.spotify.com/track/0bczsNCHpJzjUnI45UShrx"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "CAN'T TOUCH THIS (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 123214,
+      "name": "CAN'T TOUCH THIS - R3HAB Remix",
+      "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
+        "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 165269,
+      "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
+      "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
+        "url": "https://open.spotify.com/album/3qrEW19p3dENwHK2Opv0Ul"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "David Solomon",
+          "url": "https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR"
+        }
+      ],
+      "duration_ms": 201711,
+      "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
+      "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
@@ -1413,47 +1549,7 @@
       "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Questions (Remix Pack)",
-        "url": "https://open.spotify.com/album/0uDuT93S0B5kocmTo582kE"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 259849,
-      "name": "Questions - Deluxe Remix",
-      "url": "https://open.spotify.com/track/0liCVPZBCrl18tC6jSwqJX"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
-        "url": "https://open.spotify.com/album/3qrEW19p3dENwHK2Opv0Ul"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "David Solomon",
-          "url": "https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR"
-        }
-      ],
-      "duration_ms": 201711,
-      "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
-      "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "what would you do? (Galantis Remix)",
         "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
@@ -1473,31 +1569,55 @@
       "url": "https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Let Somebody Go (Kygo Remix)",
-        "url": "https://open.spotify.com/album/7EZAIhKzfjXbAsL0hrQjGF"
+        "name": "Numb (Remixes)",
+        "url": "https://open.spotify.com/album/3Q2Ay2Zq5NbpDWqtendJK9"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "DJ YUKI",
+          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
         }
       ],
-      "duration_ms": 197267,
-      "name": "Let Somebody Go - Kygo Remix",
-      "url": "https://open.spotify.com/track/31JwHrEcDWkilfTkFZlKNr"
+      "duration_ms": 154838,
+      "name": "Numb - DJ YUKI Remix",
+      "url": "https://open.spotify.com/track/1M2eYYojjNSeFbVPnh20zF"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Steal My Clothes",
+        "url": "https://open.spotify.com/album/0Avx0lSSSHNdu5poOJRAzz"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Steal My Clothes (ft. Bea Miller) \u2013 LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/6Esm09YZlCd58xR08xT021"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Out Of Time (Remix Bundle)",
         "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ"
@@ -1517,7 +1637,7 @@
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Cool Girl (Nora En Pure Remix)",
         "url": "https://open.spotify.com/album/0CK0BfWr8VfZ2jWQ0x94PP"
@@ -1537,75 +1657,51 @@
       "url": "https://open.spotify.com/track/1iJmr8jaTgrFThewtwrLoF"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Drop A Bomb (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/6U2Rfs6iffPRcCZcWumT9R"
+        "name": "By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]",
+        "url": "https://open.spotify.com/album/0fWC4Bvc2DNduV9qLKoPZR"
       },
       "artists": [
         {
-          "name": "Riotron",
-          "url": "https://open.spotify.com/artist/6oW4zCSDSA4RTCwFpatN3k"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 151475,
-      "name": "Drop A Bomb - R3HAB Remix",
-      "url": "https://open.spotify.com/track/2eGOvaIoQBi2nEF908wqDm"
+      "duration_ms": 238064,
+      "name": "By Your Side (feat. Tom Grennan) - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/3ZFosXgzvmN6wXs9wTaIxh"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "High (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p"
+        "name": "drunk text me (Shallou Remix)",
+        "url": "https://open.spotify.com/album/3TWWc8s7UGI6LZYNHOLsUf"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
         },
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 241904,
-      "name": "High - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO"
+      "duration_ms": 162431,
+      "name": "drunk text me - Shallou Remix",
+      "url": "https://open.spotify.com/track/22w2aLBRJTGTpXSj1X7Dc0"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
-        "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
-      "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "IT'S YOU (feat. keshi) [ARMNHMR Remix]",
         "url": "https://open.spotify.com/album/4K87GTtvuKzOZYXFjt7Baw"
@@ -1629,7 +1725,163 @@
       "url": "https://open.spotify.com/track/6EmRDtmAq556gtaj0rOjsW"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Questions (Remix Pack)",
+        "url": "https://open.spotify.com/album/0uDuT93S0B5kocmTo582kE"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 259849,
+      "name": "Questions - Deluxe Remix",
+      "url": "https://open.spotify.com/track/0liCVPZBCrl18tC6jSwqJX"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Stripped - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7lCwZB97kT2240mSxZQjaw"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 215919,
+      "name": "Beautiful - Benny Benassi Remix",
+      "url": "https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Let Somebody Go (Kygo Remix)",
+        "url": "https://open.spotify.com/album/7EZAIhKzfjXbAsL0hrQjGF"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 197267,
+      "name": "Let Somebody Go - Kygo Remix",
+      "url": "https://open.spotify.com/track/31JwHrEcDWkilfTkFZlKNr"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Freaky Deaky (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 140059,
+      "name": "Freaky Deaky - R3HAB Remix",
+      "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
+        "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
+      "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Free Yourself (Paul Woolford Remix)",
+        "url": "https://open.spotify.com/album/4eSdCOymBMoeuqHH1V6yeL"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        }
+      ],
+      "duration_ms": 181670,
+      "name": "Free Yourself - Paul Woolford Remix",
+      "url": "https://open.spotify.com/track/6HakCt8rCQejqqoB3RKj4Y"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Don't Forget My Love - John Summit Remix",
+      "url": "https://open.spotify.com/track/1iKiLPkFnYhbCm5uvaDwjS"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Good Luck (D.O.D Remix)",
         "url": "https://open.spotify.com/album/0SwhUVYIId1xWWjk02CY4g"
@@ -1657,7 +1909,31 @@
       "url": "https://open.spotify.com/track/2iDejv4THvGsopBwdmWbXd"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Why Can't You Wait (3LAU Remix)",
+        "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 221612,
+      "name": "Why Can't You Wait - 3LAU Remix",
+      "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "I Got A Feeling (James Hype Remix)",
         "url": "https://open.spotify.com/album/7uegIm3LnOTWk7QGgs9qiC"
@@ -1685,27 +1961,55 @@
       "url": "https://open.spotify.com/track/4SYbdrmyDpCvWkoC4skk5z"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Million Dollar Baby (TELYKast Remix)",
-        "url": "https://open.spotify.com/album/1k9N6INpFsTp2o25ltbl9a"
+        "name": "Attention (with Justin Bieber) [Disclosure Remix]",
+        "url": "https://open.spotify.com/album/1ERLtCOCCebS12VHYTq3cF"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         },
         {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 193984,
-      "name": "Million Dollar Baby - TELYKast Remix",
-      "url": "https://open.spotify.com/track/1456BwjfgMkjvDZ59lDL7b"
+      "duration_ms": 256644,
+      "name": "Attention (with Justin Bieber) - Disclosure Remix",
+      "url": "https://open.spotify.com/track/1xx7iMgSyLnbDUi170lVbb"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Follow Me (Sick Individuals Remix)",
+        "url": "https://open.spotify.com/album/2DmvFfaBJeA9hy0yDQGuhf"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 166865,
+      "name": "Follow Me - Sick Individuals Remix",
+      "url": "https://open.spotify.com/track/6BtVqI4JYCYi6mPmkzr5Rv"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Si Es Trucho Es Trucho (feat. El Alfa & Farruko) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/6eV4MyQxYM4BApNtVuutdt"
@@ -1733,63 +2037,7 @@
       "url": "https://open.spotify.com/track/2myCSCZ8dbZmtSJs6xOWbN"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Deep Down (feat. Never Dull) [Nathan Dawe Remix]",
-        "url": "https://open.spotify.com/album/0pTxtBYmfKmTqlMdJkQOhx"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        },
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 166463,
-      "name": "Deep Down (feat. Never Dull) - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/6Ku2dAf2mm5ne7tT7QUbdF"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Freaky Deaky (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 140059,
-      "name": "Freaky Deaky - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "So Good (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui"
@@ -1809,115 +2057,7 @@
       "url": "https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Green Green Grass (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/5pV6QQhxoKOEI9keLU3YFV"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Green Green Grass - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/5nS4GAbtHTLQzmLRf7kkg5"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Attention (with Justin Bieber) [Disclosure Remix]",
-        "url": "https://open.spotify.com/album/1ERLtCOCCebS12VHYTq3cF"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 256644,
-      "name": "Attention (with Justin Bieber) - Disclosure Remix",
-      "url": "https://open.spotify.com/track/1xx7iMgSyLnbDUi170lVbb"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Late Night Feels (\u00d6wnboss Remix)",
-        "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Monsta X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Late Night Feels (\u00d6wnboss Remix)",
-      "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "drunk text me (Shallou Remix)",
-        "url": "https://open.spotify.com/album/3TWWc8s7UGI6LZYNHOLsUf"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 162431,
-      "name": "drunk text me - Shallou Remix",
-      "url": "https://open.spotify.com/track/22w2aLBRJTGTpXSj1X7Dc0"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Free Yourself (Paul Woolford Remix)",
-        "url": "https://open.spotify.com/album/4eSdCOymBMoeuqHH1V6yeL"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        },
-        {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        }
-      ],
-      "duration_ms": 181670,
-      "name": "Free Yourself - Paul Woolford Remix",
-      "url": "https://open.spotify.com/track/6HakCt8rCQejqqoB3RKj4Y"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Discoteca (Deorro Remix)",
         "url": "https://open.spotify.com/album/4hbQnVsOamBrrAhYFzw4Fj"
@@ -1941,7 +2081,27 @@
       "url": "https://open.spotify.com/track/5tCSY4kKx54ly2kdJuHUpq"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "High (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 241904,
+      "name": "High - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Turn Up The Sunshine (PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc"
@@ -1965,155 +2125,31 @@
       "url": "https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Stripped - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7lCwZB97kT2240mSxZQjaw"
+        "name": "Hate Me (The Him Remix)",
+        "url": "https://open.spotify.com/album/3ESz5DuNMNkaXkY189CBlS"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
         }
       ],
-      "duration_ms": 215919,
-      "name": "Beautiful - Benny Benassi Remix",
-      "url": "https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t"
+      "duration_ms": 153600,
+      "name": "Hate Me - The Him Remix",
+      "url": "https://open.spotify.com/track/51m8154fLfxtL9Fhlb40ZQ"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Don't Forget My Love - John Summit Remix",
-      "url": "https://open.spotify.com/track/1iKiLPkFnYhbCm5uvaDwjS"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Grand (TroyBoi Remix)",
-        "url": "https://open.spotify.com/album/2znOF5q6Bc0BK7krFhUknf"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Grand - TroyBoi Remix",
-      "url": "https://open.spotify.com/track/4CzvdvPAiMCyxQunCKtQHC"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Don\u2019t Wake Me Up (Sevenn Remix)",
-        "url": "https://open.spotify.com/album/4CI8CduQt7feuYZeSyTuZi"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "Don\u2019t Wake Me Up - Sevenn Remix",
-      "url": "https://open.spotify.com/track/6k5vdsmeY5yFWLcKhMBIsN"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "My Love (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/7MMKSqLZsScjyX29FNqDou"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "My Love - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/1yyQxEZcZBSTyI1sShNGKC"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "On My Way (Marry Me) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/14irOjLIV5xNvGmO2c66qr"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 218209,
-      "name": "On My Way (Marry Me) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/0ldyOpAYtavIapulYOwGfz"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Nieve (Remixes)",
-        "url": "https://open.spotify.com/album/4smxiuT4f7lMI4j2TDmhzr"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 323080,
-      "name": "Nieve - Good Times Ahead Remix",
-      "url": "https://open.spotify.com/track/0Z89MaST5Egh1JGuWtIohT"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Caught Up (feat. Olivia O'Brien) [Remixes]",
         "url": "https://open.spotify.com/album/5fCXGInZnTszdgizArIg00"
@@ -2141,96 +2177,44 @@
       "url": "https://open.spotify.com/track/6rHJ268lwbpsIvdljb9lKR"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Easy Lover (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/7Hi2jinZs7a7dWwoBK2LES"
+        "name": "My Love (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/7MMKSqLZsScjyX29FNqDou"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 251581,
-      "name": "Easy Lover - Four Tet Remix",
-      "url": "https://open.spotify.com/track/08LkoUvYs9AtUTp9RZZvBI"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
-        "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "Suli Breaks",
-          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
-        },
-        {
-          "name": "Jazzie B.",
-          "url": "https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         },
         {
           "name": "MEDUZA",
           "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 191612,
-      "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
-      "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
+      "duration_ms": 211200,
+      "name": "My Love - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/1yyQxEZcZBSTyI1sShNGKC"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Hate Me (The Him Remix)",
-        "url": "https://open.spotify.com/album/3ESz5DuNMNkaXkY189CBlS"
+        "name": "Million Dollar Baby (TELYKast Remix)",
+        "url": "https://open.spotify.com/album/1k9N6INpFsTp2o25ltbl9a"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         },
         {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Hate Me - The Him Remix",
-      "url": "https://open.spotify.com/track/51m8154fLfxtL9Fhlb40ZQ"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Jungle (Rico Nasty Remix)",
-        "url": "https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Jungle - Rico Nasty Remix",
-      "url": "https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX"
+      "duration_ms": 193984,
+      "name": "Million Dollar Baby - TELYKast Remix",
+      "url": "https://open.spotify.com/track/1456BwjfgMkjvDZ59lDL7b"
     }
   ],
   "unique_name": "Pop Remix",

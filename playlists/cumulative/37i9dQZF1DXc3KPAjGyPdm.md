@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-246 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/46rHkOw5I8WIIcWUUhwmZN)
+248 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Atmosphere \- 2010 Remaster](https://open.spotify.com/track/5UPnBgnylUCjtAPtAH4tJY) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ) | 4:09 | 2017-12-20 |  |
 | [B.g.’s One Eye](https://open.spotify.com/track/1V3CJZwyzkDw0QBZY8C0ns) | [The Nuchez's](https://open.spotify.com/artist/5juac9B6Ytvkp5a5s12muD) | [Chocolate Soup for Diabetics, Vol\. 1](https://open.spotify.com/album/4H3Y4L9NS0OTKHFGI5cNnc) | 2:12 | 2022-07-01 |  |
 | [Baba O'Riley \- ConfidentialMX Remix](https://open.spotify.com/track/5iq0Tela3gm73ZW72XZ5dm) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 2:33 | 2019-07-08 |  |
-| [Ballroom Foxtrot](https://open.spotify.com/track/1uWss2nb6rJJruwejEkDAz) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/7s9M6tb7yDJNEis3UbHAnl) | 2:50 | 2019-07-10 |  |
+| [Ballroom Foxtrot](https://open.spotify.com/track/1ZwO6QQRl7ld1IBhqPZjT6) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/4yb8x5btcqVaKzymTgZqh0) | 2:50 | 2019-07-10 |  |
+| [Ballroom Foxtrot](https://open.spotify.com/track/1uWss2nb6rJJruwejEkDAz) | [John Leighton](https://open.spotify.com/artist/62JgHVqcsjhM0GaECg6Q7R) | [Music Featured in "The Catcher Was a Spy"](https://open.spotify.com/album/7s9M6tb7yDJNEis3UbHAnl) | 2:50 | 2019-07-10 | 2022-12-03 |
 | [Ben Hur Chariot Race](https://open.spotify.com/track/4TALhYPQAQLofYU2MksB52) | [Wurlitzer 157 Carousel Organ](https://open.spotify.com/artist/2nKFWbh9n6qxFVBayalksC) | ["COME TO THE FAIR" Old Time Wurlitzer Carousel Music](https://open.spotify.com/album/1wOejKvxw935MURiYqUKnZ) | 3:25 | 2019-07-10 |  |
 | [Blank Makes You Crazy](https://open.spotify.com/track/4rGvCeSB0Sk3iNRGiDC0me) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:06 | 2019-07-10 |  |
 | [Blueprints](https://open.spotify.com/track/2Joj5KWiLxlHu35dvBpol2) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 2:10 | 2019-07-10 |  |
@@ -151,7 +152,8 @@
 | [Open the Door](https://open.spotify.com/track/6d6JJ0RACDrhoB0au4ZKK7) | [Gentlemen Afterdark](https://open.spotify.com/artist/72TUzKxAg7USYLvPjZX2LB) | [Open the Door](https://open.spotify.com/album/5DXzjQDfJzv3gQnnNSgtQh) | 3:25 | 2019-07-10 |  |
 | [Pass the Dutchie](https://open.spotify.com/track/0Z5J7G9K6yeNUBiTJZ033b) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:22 | 2022-05-27 | 2022-07-29 |
 | [Pass The Dutchie](https://open.spotify.com/track/61DMVgtuAhW1C0UHRljmf2) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Throwback Reggae](https://open.spotify.com/album/29bm8H4n8IXsEK6UltWIlO) | 3:23 | 2022-05-27 | 2022-11-13 |
-| [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-05-27 |  |
+| [Pass The Dutchie](https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [The Youth Of Today](https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs) | 3:24 | 2022-05-27 |  |
+| [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-05-27 | 2022-12-19 |
 | [Phone To Phone](https://open.spotify.com/track/6pPKgQdyvfkjG9qKFTXaAO) | [Life By Night](https://open.spotify.com/artist/7A6FpPdAKjqCTqmAHfzjC0) | [Life By Night](https://open.spotify.com/album/02nJuwBiWA8a5y2N3laF8I) | 4:01 | 2019-07-10 |  |
 | [Place In My Heart](https://open.spotify.com/track/1erWAgZvzmPB75mPJbUMFM) | [Brian Page](https://open.spotify.com/artist/7ocXKCgQg92iRXR6KqbjOY) | [The Very Best of Brian Page](https://open.spotify.com/album/3FLC1iqQodpfZm7MGbDoTZ) | 5:56 | 2019-07-10 |  |
 | [Planck's Constant](https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:19 | 2019-07-10 |  |

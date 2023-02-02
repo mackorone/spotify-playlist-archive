@@ -1,10 +1,7 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Electro tunes for your virtual world.",
+  "description": "Electronic tunes for your virtual world.",
   "name": "Pixel Garden",
-  "published_playlist_ids": [
-    "6nn5hAdMA0a7KkNWl7rEwD"
-  ],
   "tracks": [
     {
       "album": {
@@ -59,7 +56,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2022-12-03",
       "duration_ms": 172631,
       "name": "A Cyber's World",
       "url": "https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E"
@@ -138,6 +135,28 @@
     },
     {
       "album": {
+        "name": "All Too Much",
+        "url": "https://open.spotify.com/album/7tAT5guOQp2lRqr72cUoHK"
+      },
+      "artists": [
+        {
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        },
+        {
+          "name": "Olivera",
+          "url": "https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171021,
+      "name": "All Too Much",
+      "url": "https://open.spotify.com/track/2A9Vt5Mzf5kuqtkqikbsW9"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1QaaPVFdfYPPCIt5xT3QHP"
       },
@@ -153,6 +172,24 @@
       "duration_ms": 173214,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6fW7FK6s1EMtWu3mDdvq3X"
+    },
+    {
+      "album": {
+        "name": "\u200eamends (VIP edit)",
+        "url": "https://open.spotify.com/album/2cpxWGU4KlQngmIKmTqs9D"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84144,
+      "name": "amends - VIP edit",
+      "url": "https://open.spotify.com/track/5KSWXdsvxy6urFGnGitIS2"
     },
     {
       "album": {
@@ -189,7 +226,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 239250,
       "name": "ARCADE NIGHT",
       "url": "https://open.spotify.com/track/3VUPk0XASJ8a0HDyj4omX5"
@@ -207,7 +244,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 298782,
       "name": "Are We Dreaming?",
       "url": "https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz"
@@ -251,6 +288,24 @@
       "duration_ms": 192721,
       "name": "Artificial Love",
       "url": "https://open.spotify.com/track/5lAbIEjU5D832P9ILBPzAe"
+    },
+    {
+      "album": {
+        "name": "Astatine",
+        "url": "https://open.spotify.com/album/1PTdPcuA4PZOFiqCA4h4iR"
+      },
+      "artists": [
+        {
+          "name": "Mat Zo",
+          "url": "https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348281,
+      "name": "Astatine",
+      "url": "https://open.spotify.com/track/666PI2ou8H5MI98weRgnXI"
     },
     {
       "album": {
@@ -444,6 +499,32 @@
     },
     {
       "album": {
+        "name": "Best Part About You (camoufly Remix)",
+        "url": "https://open.spotify.com/album/6VMsqDQQWBssZR5j3daWLM"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191823,
+      "name": "Best Part About You - camoufly Remix",
+      "url": "https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn"
+    },
+    {
+      "album": {
         "name": "Biscuit Funk",
         "url": "https://open.spotify.com/album/0g5vyMMS9cmMdpYuIdInnP"
       },
@@ -547,10 +628,36 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-15",
       "duration_ms": 243375,
       "name": "BUBBLE TEA",
       "url": "https://open.spotify.com/track/4YMvlMYV3hD8emKCprfb4N"
+    },
+    {
+      "album": {
+        "name": "BUBBLE TEA",
+        "url": "https://open.spotify.com/album/6chjt5FQOpKOWxLvIvuMok"
+      },
+      "artists": [
+        {
+          "name": "dark cat",
+          "url": "https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI"
+        },
+        {
+          "name": "juu",
+          "url": "https://open.spotify.com/artist/6YDsIjHPnVrYoZRbqlbxAw"
+        },
+        {
+          "name": "Cinders",
+          "url": "https://open.spotify.com/artist/0S6MfM6u0vKuZl0Tjmp89A"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243377,
+      "name": "BUBBLE TEA",
+      "url": "https://open.spotify.com/track/2uxIsWUeOnHY5KmuE4zOyY"
     },
     {
       "album": {
@@ -791,10 +898,36 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 188470,
       "name": "Changa - Blanke Remix",
       "url": "https://open.spotify.com/track/5TL9e2xgtvJFtNCBsq1CgX"
+    },
+    {
+      "album": {
+        "name": "etcetc Yearbook: 2018",
+        "url": "https://open.spotify.com/album/645zH9nKzaoo4KBbMtOaGG"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kira Divine",
+          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188470,
+      "name": "Changa - Blanke Remix",
+      "url": "https://open.spotify.com/track/6rQcfPSmfwiJWae8WhU5k8"
     },
     {
       "album": {
@@ -857,6 +990,24 @@
       "duration_ms": 233566,
       "name": "Charisma",
       "url": "https://open.spotify.com/track/1pAbqGUiV6lQwofu1m31b3"
+    },
+    {
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0HSosI2SBkR4dMq5iCqJNr"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229629,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/0zxAdvhHnewHweDFMquQd1"
     },
     {
       "album": {
@@ -1003,7 +1154,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-27",
       "duration_ms": 155454,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/4l4eOsucKYr7K3OW4NG2iX"
@@ -1025,7 +1176,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 192727,
       "name": "COLORS (James Landino Remix) - SACRA BEATS Singles",
       "url": "https://open.spotify.com/track/4LrV5WggXY45DE0esOTNwg"
@@ -1051,7 +1202,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-06",
       "duration_ms": 156610,
       "name": "Colours - Tsu Nami Remix",
       "url": "https://open.spotify.com/track/1Dsf8jltiUgFKOvSMXLUza"
@@ -1294,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Dragonflame",
+        "url": "https://open.spotify.com/album/5yV6JmK0w8b7BMt29lJ42k"
+      },
+      "artists": [
+        {
+          "name": "Kirara Magic",
+          "url": "https://open.spotify.com/artist/7IPe93LySFSStLX4J5j5Lr"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Dragonflame",
+      "url": "https://open.spotify.com/track/5YT0Pjym5S1kgZoUdOMZU3"
+    },
+    {
+      "album": {
         "name": "DREADED NOTE",
         "url": "https://open.spotify.com/album/3yhKVJspZP2p9T76PPQxTp"
       },
@@ -1345,7 +1514,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 206557,
       "name": "Dream State",
       "url": "https://open.spotify.com/track/3EDw77uNVYQGAEtRiRfLCG"
@@ -1432,6 +1601,42 @@
     },
     {
       "album": {
+        "name": "Drift Like A Cloud, Flow Like Water",
+        "url": "https://open.spotify.com/album/5Tfvcp2QbPL3caRaJQXeIE"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Drift Like A Cloud, Flow Like Water",
+      "url": "https://open.spotify.com/track/4eH90XBDNITj5M8TradkSS"
+    },
+    {
+      "album": {
+        "name": "Drift Like A Cloud, Flow Like Water",
+        "url": "https://open.spotify.com/album/1syy8JwtKmP9j8Yb1pVRa5"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 200869,
+      "name": "Drift Like A Cloud, Flow Like Water",
+      "url": "https://open.spotify.com/track/5rHaDTx6Srktjqza8mLxGz"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/7h4jWZsNcOey1AhDSms5g1"
       },
@@ -1447,7 +1652,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 205935,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/3Tz5z68t6Ii4rf6bTMJHyo"
@@ -1559,7 +1764,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 170285,
       "name": "Error Sound",
       "url": "https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1"
@@ -1863,7 +2068,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 233498,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/0TBWdzXPZX8bGAqDY0Xxn0"
@@ -2264,6 +2469,28 @@
     },
     {
       "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/2S9cQBWOFwq9DlqS8wopRy"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        },
+        {
+          "name": "Chris Boe",
+          "url": "https://open.spotify.com/artist/0uXipJFraqWFx7l2zWNe8O"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 213017,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/2zQAxyTI5SaSFe6sA8uc92"
+    },
+    {
+      "album": {
         "name": "Gigabot",
         "url": "https://open.spotify.com/album/2BSo2GQidiY846ka6OrtDF"
       },
@@ -2523,6 +2750,28 @@
       "duration_ms": 181666,
       "name": "Gyal Drill",
       "url": "https://open.spotify.com/track/3Ti4tUrJvEufPY1qUdknVl"
+    },
+    {
+      "album": {
+        "name": "Rai'Hea",
+        "url": "https://open.spotify.com/album/0r63RTgoskyxYJEmUZQooD"
+      },
+      "artists": [
+        {
+          "name": "AIKA",
+          "url": "https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg"
+        },
+        {
+          "name": "Eleanor Forte",
+          "url": "https://open.spotify.com/artist/2UT4wTTmIHHPnjXKD7jvPM"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 210285,
+      "name": "Heartsore Evermore",
+      "url": "https://open.spotify.com/track/4ukdugLqiwiBwoDy93oybp"
     },
     {
       "album": {
@@ -2850,6 +3099,32 @@
     },
     {
       "album": {
+        "name": "CAGE SCRIPT",
+        "url": "https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "KOTONOHOUSE",
+          "url": "https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC"
+        },
+        {
+          "name": "RANASOL",
+          "url": "https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "IN YOUR EYES \u300c\u77b3\u306e\u4e2d\u3067\u300d",
+      "url": "https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj"
+    },
+    {
+      "album": {
         "name": "Inhale",
         "url": "https://open.spotify.com/album/3plHmbJia8IxmPHy7kBgOd"
       },
@@ -2879,7 +3154,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-13",
       "duration_ms": 205500,
       "name": "It's a DUMMY",
       "url": "https://open.spotify.com/track/1tx36UibkRedbWTqbch4gk"
@@ -3313,7 +3588,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-07",
       "duration_ms": 201600,
       "name": "Magma",
       "url": "https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm"
@@ -3441,7 +3716,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 237379,
       "name": "Message",
       "url": "https://open.spotify.com/track/2HugpozniKFTxu2us4YqBV"
@@ -3797,6 +4072,28 @@
       "duration_ms": 277577,
       "name": "Need You",
       "url": "https://open.spotify.com/track/6PewGjMYsJCzIjldrCuZvB"
+    },
+    {
+      "album": {
+        "name": "Never Be The Same (feat. Paige Duch\u00e9)",
+        "url": "https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN"
+      },
+      "artists": [
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        },
+        {
+          "name": "Paige Duch\u00e9",
+          "url": "https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162663,
+      "name": "Never Be The Same (feat. Paige Duch\u00e9)",
+      "url": "https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY"
     },
     {
       "album": {
@@ -4430,6 +4727,28 @@
     },
     {
       "album": {
+        "name": "pls (\u2212_\u2212;)",
+        "url": "https://open.spotify.com/album/37Hl1DV0EnLAAhrZEI6qDx"
+      },
+      "artists": [
+        {
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+        },
+        {
+          "name": "Deko",
+          "url": "https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126432,
+      "name": "pls (\u2212_\u2212;)",
+      "url": "https://open.spotify.com/track/1y7ZG3g05KN8L2BUm4qRtw"
+    },
+    {
+      "album": {
         "name": "Dynamaxed",
         "url": "https://open.spotify.com/album/41kp28evsZqc4Jom26ZBap"
       },
@@ -4533,6 +4852,28 @@
       "duration_ms": 236101,
       "name": "Proud",
       "url": "https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp"
+    },
+    {
+      "album": {
+        "name": "pure boi",
+        "url": "https://open.spotify.com/album/1u5Brj1ITZoXD7dufOOWqY"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Iimori",
+          "url": "https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU"
+        },
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "pure boi",
+      "url": "https://open.spotify.com/track/4NF5504D4wi9Mwhxxb6xRA"
     },
     {
       "album": {
@@ -4707,7 +5048,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 238400,
       "name": "Remember",
       "url": "https://open.spotify.com/track/60NupHAR0J54haO984RG5t"
@@ -4759,6 +5100,24 @@
       "duration_ms": 235862,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/6KGdBk6B5wqMdzjBsxsk33"
+    },
+    {
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6TzwR0RkTOWE4Z1UO8dXZD"
+      },
+      "artists": [
+        {
+          "name": "Kilamanzego",
+          "url": "https://open.spotify.com/artist/14tWfD2wOEhMgqZ3A4PfKT"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172457,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/09SNUbxd7e1cn6MTYhdz6P"
     },
     {
       "album": {
@@ -5221,7 +5580,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-08",
       "duration_ms": 302680,
       "name": "Somewhere Far Away From Here",
       "url": "https://open.spotify.com/track/1mZsABAFAStMVUKW8AyRX5"
@@ -5579,10 +5938,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 229189,
       "name": "The Princess and the Clock",
       "url": "https://open.spotify.com/track/0jPoMzAErw4Exk2vbwQRHC"
+    },
+    {
+      "album": {
+        "name": "Civilisation",
+        "url": "https://open.spotify.com/album/0L4NMcP4jJOsRwT6WSs2dd"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229189,
+      "name": "The Princess and the Clock",
+      "url": "https://open.spotify.com/track/2zSFmjJR2PCE1eXGWcMiMI"
     },
     {
       "album": {
@@ -5667,7 +6044,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 262895,
       "name": "Tonight (feat. Ezra Koenig) - 8-Bit Button Masher Remix",
       "url": "https://open.spotify.com/track/2pV858uxAKjzi7wuFytpqz"
@@ -5821,7 +6198,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-29",
       "duration_ms": 168652,
       "name": "VLONE",
       "url": "https://open.spotify.com/track/0jYBQcR3imgLDhSZN9npPL"
@@ -5945,7 +6322,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-17",
       "duration_ms": 179428,
       "name": "WHAT THE HELL - OBLVYN Remix",
       "url": "https://open.spotify.com/track/1FMdcepWuMtbyp7YbvCEjd"
@@ -6103,7 +6480,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 209454,
       "name": "With Clouds Below",
       "url": "https://open.spotify.com/track/7hwSaTdDujbwXGGp72hssA"

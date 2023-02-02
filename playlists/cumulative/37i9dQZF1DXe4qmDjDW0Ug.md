@@ -4,7 +4,7 @@
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-113 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/65Hv4SNB2AgNDDopmquTMX)
+113 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [I Want To Fall In Love](https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [I Want To Fall In Love](https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV) | 3:52 | 2021-03-11 |  |
 | [IF I WERE YOU](https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:30 | 2021-03-11 |  |
 | [If You Comeback](https://open.spotify.com/track/3XO4hgrYpLYA5z8n9UCuiH) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:48 | 2021-03-11 | 2022-07-29 |
-| [If You Comeback](https://open.spotify.com/track/7A8iC2yCrq39b2DKej9ek1) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Like Them](https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek) | 4:48 | 2021-03-11 | 2022-11-20 |
+| [If You Comeback](https://open.spotify.com/track/7A8iC2yCrq39b2DKej9ek1) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Like Them](https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek) | 4:48 | 2021-03-11 | 2023-01-16 |
 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 | 2021-03-11 |  |
 | [instagram](https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [instagram](https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687) | 4:15 | 2021-03-11 |  |
 | [It's Over](https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:54 | 2021-03-11 |  |
@@ -45,11 +45,11 @@
 | [Just \(From Young\)](https://open.spotify.com/track/6vs7hcMDl4l6BQKL9KE9pd) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Young](https://open.spotify.com/album/2nfFUxmneuGdBk4Drs0jve) | 3:12 | 2021-03-11 | 2022-07-27 |
 | [Just One Day](https://open.spotify.com/track/1UEHM8m4GswZLNykPkInEy) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Just One Day](https://open.spotify.com/album/2ZRgUweTGRez4yzualNDci) | 4:17 | 2021-03-11 | 2022-07-28 |
 | [Let's start our love again](https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Let's start our love again](https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL) | 4:27 | 2021-03-11 | 2022-07-27 |
-| [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J](https://open.spotify.com/artist/0pwxHyrzsUtx7GgGwNHBXT) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 | 2021-03-11 |  |
+| [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 | 2021-03-11 |  |
 | [Living In the Same Time](https://open.spotify.com/track/1KFZvbAQPSQsDHq9NTvoZB) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 4th\. Come With Me Girl by JUNG YUP](https://open.spotify.com/album/03S0MbCMxYe3nJUbO8PFT8) | 4:10 | 2021-03-11 | 2022-07-25 |
 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 | 2021-03-11 |  |
 | [Love Ballad](https://open.spotify.com/track/0OZxEbt5CR2QwPerD1ihPu) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Browneyed Soul](https://open.spotify.com/album/5JppOEmDyD4x03qHnGmvH9) | 5:01 | 2021-03-11 | 2022-07-29 |
-| [Love Ballad](https://open.spotify.com/track/1HUPqjUMF7m1qShIn1bDw9) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Browneyed Soul](https://open.spotify.com/album/7AujHzdkOYaeBVlhA7Z23j) | 5:01 | 2021-03-11 | 2022-11-13 |
+| [Love Ballad](https://open.spotify.com/track/1HUPqjUMF7m1qShIn1bDw9) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Browneyed Soul](https://open.spotify.com/album/7AujHzdkOYaeBVlhA7Z23j) | 5:01 | 2021-03-11 | 2023-01-24 |
 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 | 2021-03-11 |  |
 | [Memory Loss](https://open.spotify.com/track/2EKF9fFb5X7117shgzvsJT) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:54 | 2021-03-11 | 2022-07-29 |
 | [Memory Of The Wind](https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle Of My Soul](https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4) | 5:08 | 2021-03-11 |  |

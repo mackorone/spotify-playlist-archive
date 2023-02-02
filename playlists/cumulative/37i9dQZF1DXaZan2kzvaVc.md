@@ -4,7 +4,7 @@
 
 > The Beach Boys, the essential tracks, all in one playlist.
 
-50 songs - 2 hr 29 min - [published](https://open.spotify.com/playlist/2LcKdYKo5HcSVFkeuh5PrS)
+50 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8U8pFd8VSmd.md) - [plain]
 
 > Fire up the grill and enjoy this playlist with the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,091 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,114 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8U8pFd8VSmd.md) - [plain]
 | 28 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
 | 29 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
 | 30 | [Get Outside](https://open.spotify.com/track/0Mx4DMMD8NccivXrUg0DWU) | [Wendy and DB](https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM) | [Hey Big World](https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR) | 3:06 |
-| 31 | [Peaches](https://open.spotify.com/track/3VEFybccRTeWSZRkJxDuNR) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604) | 2:51 |
+| 31 | [Peaches](https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:51 |
 | 32 | [Hot Sauce](https://open.spotify.com/track/1FSj3PsTEYUGtHRgk7p3QJ) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Hot Sauce](https://open.spotify.com/album/6UkP9AaaffmY2lQikAjLts) | 2:19 |
 | 33 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
 | 34 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8U8pFd8VSmd.md) - [plain]
 | 49 | [Summer Sunshine](https://open.spotify.com/track/0QfYy4pgfxQ2Af3ScScLWY) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 2:42 |
 | 50 | [La Bamba](https://open.spotify.com/track/6uU5OBhGUE1ngSKDj4wtoq) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Just Another Band From East L.A.: A Collection](https://open.spotify.com/album/0BZQ56leyRCyZu3jdXMZ87) | 2:52 |
 
-Snapshot ID: `MTY0OTM0MDQwNCwwMDAwMDAwMDYwYjNkN2E3MmY0OTMzZTUyYWM0Zjk1OWI1NzE0YTU1`
+Snapshot ID: `MTY0OTM0MDQwNCwwMDAwMDAwMDMyY2VmMjE1ZWQ1ZjI0MmEzODNmZDY5YjNjNWM5YzY5`

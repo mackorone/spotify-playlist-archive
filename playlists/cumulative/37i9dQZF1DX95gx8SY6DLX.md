@@ -4,7 +4,7 @@
 
 > All of their essential songs, all in one place.
 
-50 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/1SnBmw8iuQGOvEnQA1QmIf)
+50 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

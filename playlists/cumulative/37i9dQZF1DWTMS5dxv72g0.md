@@ -4,7 +4,7 @@
 
 > Get to know <a href="spotify:artist:4M5nCE77Qaxayuhp3fVn4V">Sam Beam</a> with a collection featuring his latest album, <a href="spotify:album:2Ha1FUPZ0RDMjLZFu1iVO1">Beast Epic</a>.
 
-59 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/3rsBzyv7vIyXhXeknakosL)
+59 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-21",
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
   "name": "Southern Gothic",
-  "published_playlist_ids": [
-    "4XQxIpr1b9y5T9BKvj7rBC"
-  ],
   "tracks": [
     {
       "album": {
@@ -2365,7 +2362,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-13",
       "duration_ms": 193866,
       "name": "O Death (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
@@ -2675,6 +2672,24 @@
       "duration_ms": 216538,
       "name": "Ribbon",
       "url": "https://open.spotify.com/track/5bR0R96OeLHG8mVS1SRh6I"
+    },
+    {
+      "album": {
+        "name": "Ribbon",
+        "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216538,
+      "name": "Ribbon",
+      "url": "https://open.spotify.com/track/6CD7BVEDI5WpYVwAs30Opk"
     },
     {
       "album": {
@@ -3047,7 +3062,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-01-29",
       "duration_ms": 187186,
       "name": "Stuck In The South",
       "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"

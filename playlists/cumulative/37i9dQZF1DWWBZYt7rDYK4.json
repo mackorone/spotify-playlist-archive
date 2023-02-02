@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-06",
   "description": "A pop soundtrack that both you and your little one can enjoy.",
   "name": "Raised on Pop",
-  "published_playlist_ids": [
-    "4WGXzSJ3RMfwF6SJ6no75o"
-  ],
   "tracks": [
     {
       "album": {
@@ -2297,7 +2294,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-27",
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
@@ -2333,7 +2330,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244813,
       "name": "Torn",
       "url": "https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2"

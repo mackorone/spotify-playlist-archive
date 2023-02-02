@@ -4,7 +4,7 @@
 
 > Breathe deep and release that pressure.
 
-148 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/5GZxzvQkasDyP4drhgqZon)
+151 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Dry Fantasy](https://open.spotify.com/track/2oUXRX74mg3tByEamEIPIW) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Ritchie Sacramento](https://open.spotify.com/album/7l4srAaJNA9IIQNBJj7eqA) | 5:10 | 2021-10-14 | 2022-11-13 |
 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 | 2021-10-14 |  |
 | [Eight](https://open.spotify.com/track/5T20empZEdKnAdIq26xtTA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Eight](https://open.spotify.com/album/5R6BFu0xrBtlOXN8NR12c4) | 2:49 | 2021-10-14 |  |
-| [Ember](https://open.spotify.com/track/6dYcB7modGAixjXyjkk8Hn) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3pH3ulLQ0XIYNTEyrjV63f) | 2:40 | 2021-10-14 |  |
+| [Ember](https://open.spotify.com/track/1xUsZV6sIKDfOBJIxSrAcU) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3kHGKSPT55zIpALNPpI6TM) | 2:40 | 2021-10-14 |  |
+| [Ember](https://open.spotify.com/track/6dYcB7modGAixjXyjkk8Hn) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3pH3ulLQ0XIYNTEyrjV63f) | 2:40 | 2021-10-14 | 2023-01-27 |
 | [Evaporate](https://open.spotify.com/track/0W0OvPCLT47F8FojLyzWM4) | [Dirty Dreamer](https://open.spotify.com/artist/5zoxiaLvLZspEXDf4nRStt) | [Evaporate](https://open.spotify.com/album/1ttNH67F2Yb1E9fMppcyDu) | 4:11 | 2021-10-14 |  |
 | [Fabric](https://open.spotify.com/track/4fKwR6uFpoUMjhkGJSbARk) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Half Light](https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn) | 3:17 | 2021-10-14 |  |
 | [Fabric](https://open.spotify.com/track/6KKX0WTwDjUitN49lJWway) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Fabric](https://open.spotify.com/album/7l6o6Kzr8hBqRNUWbVIv1Q) | 3:17 | 2021-10-14 | 2022-07-29 |
@@ -96,7 +97,8 @@
 | [Magpie](https://open.spotify.com/track/4mRAyZ4H0WbktJqQ7CWCxR) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Magpie](https://open.spotify.com/album/2d7qZUjyAPfRYZ8FVM2pe1) | 5:57 | 2021-10-14 |  |
 | [Meditation V](https://open.spotify.com/track/2jhClwpKo2xK2qmJosqLBq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Convocations](https://open.spotify.com/album/1VSVlgMLuUyNGf6WFRwC12) | 2:10 | 2021-10-14 |  |
 | [Meditation V](https://open.spotify.com/track/574JZ1fLRnQHdTtIkAVUKd) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Meditation V](https://open.spotify.com/album/1uSqhnIz8mVtdZJ02k7aNX) | 2:10 | 2021-10-14 | 2022-07-29 |
-| [Middle Of Nowhere](https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb) | 6:42 | 2021-10-14 |  |
+| [Middle Of Nowhere](https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg) | [Middle Of Nowhere](https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG) | 6:42 | 2021-10-14 |  |
+| [Middle Of Nowhere](https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb) | 6:42 | 2021-10-14 | 2022-12-01 |
 | [Mr\. Sot](https://open.spotify.com/track/0dS4vWR9oJjWE6V7ZkauY8) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Keith In Ballachulish](https://open.spotify.com/album/4sULLbstz1lMLJDviyARqN) | 3:39 | 2021-10-14 | 2022-07-29 |
 | [Mr\. Sot](https://open.spotify.com/track/5WpSqfPsqGH80xLwPh1oin) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Keith in Ballachulish](https://open.spotify.com/album/5AntAYzpR9pTxtMw9MoET9) | 3:39 | 2021-10-14 |  |
 | [Music Again](https://open.spotify.com/track/4BVVSKWz1ABYE2mfPTD38b) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [I've Been Trying To Tell You](https://open.spotify.com/album/4lAlJDRobl1616M78q4lBj) | 5:45 | 2021-10-14 |  |
@@ -151,7 +153,8 @@
 | [Unhold Me](https://open.spotify.com/track/6dVIFfl55kxGl3bAifMiMr) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Unhold Me](https://open.spotify.com/album/132EEc3csmIyKpp4nShpV6) | 3:18 | 2021-10-14 |  |
 | [why did you go use your head?](https://open.spotify.com/track/3jzqVN41cmRK8chGun15On) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [if you were a day, you'd be sunday \(songs to go walking to\)](https://open.spotify.com/album/1Vn2seTK7Ezozor5vEqarE) | 4:47 | 2021-10-14 |  |
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2021-10-14 |  |
-| [Wonder](https://open.spotify.com/track/7wq53xU6AozEaJV4CgNMQq) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 6:32 | 2021-10-14 |  |
+| [Wonder](https://open.spotify.com/track/7wq53xU6AozEaJV4CgNMQq) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 6:32 | 2021-10-14 | 2023-02-02 |
+| [Wonder](https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme, Shabaka Hutchings](https://open.spotify.com/artist/6rGWpRg4lDCG08g5kCXPP8) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 6:32 | 2021-10-14 |  |
 | [You Could Be Happy](https://open.spotify.com/track/6Cvy3TuGdUwhIfOxPPAMAD) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [You Could Be Happy](https://open.spotify.com/album/6tuzebWCjaHiJWWmT9L1FM) | 3:32 | 2021-10-14 |  |
 | [Your Hero Is Not Dead](https://open.spotify.com/track/3fxs1Jh98EQTJwvOJMAp09) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 3:35 | 2021-10-14 |  |
 | [Your Hero Is Not Dead](https://open.spotify.com/track/5bn1TM8cWtBlJsTP4k8quw) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/4jpaYDN9YNMKG4uoGvq8if) | 3:35 | 2021-10-14 | 2022-07-29 |

@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-30",
   "description": "Our editors' picks of the freshest finds of the year! Cover: Lil Tecca",
   "name": "Fresh Finds Presents... Class of 2019",
-  "published_playlist_ids": [
-    "0aCAvaXo84V9CkN7hLiIX5"
-  ],
   "tracks": [
     {
       "album": {
@@ -406,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Cool To You",
+        "url": "https://open.spotify.com/album/33QEbobiBLeUmtw2nsXmE2"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197888,
+      "name": "Cool To You",
+      "url": "https://open.spotify.com/track/09rD9G2Dsbn7NjH6H6LTmL"
+    },
+    {
+      "album": {
         "name": "Cool to You",
         "url": "https://open.spotify.com/album/3RCFqeTVmiEtc8cYfj7Uf7"
       },
@@ -417,7 +432,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-01",
       "duration_ms": 197888,
       "name": "Cool to You",
       "url": "https://open.spotify.com/track/4TxuAw6GMHFPMv6NQeXm6l"
@@ -675,7 +690,7 @@
     {
       "album": {
         "name": "dying together",
-        "url": "https://open.spotify.com/album/31MiwOnaumhyDI1MloNrY3"
+        "url": "https://open.spotify.com/album/2a4x992loSNgqAdvP1LjOn"
       },
       "artists": [
         {
@@ -686,6 +701,24 @@
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 156217,
+      "name": "dying together",
+      "url": "https://open.spotify.com/track/4rT2YF1iXeCemJhhee2pQN"
+    },
+    {
+      "album": {
+        "name": "dying together",
+        "url": "https://open.spotify.com/album/31MiwOnaumhyDI1MloNrY3"
+      },
+      "artists": [
+        {
+          "name": "Josh Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
       "duration_ms": 156217,
       "name": "dying together",
       "url": "https://open.spotify.com/track/703SHNf8XtJnM3gtryjyJ6"
@@ -3085,10 +3118,28 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 179908,
       "name": "Wiggle",
       "url": "https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ"
+    },
+    {
+      "album": {
+        "name": "Wiggle",
+        "url": "https://open.spotify.com/album/7M0hwRTi6xLfbmv91PRXBb"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179908,
+      "name": "Wiggle",
+      "url": "https://open.spotify.com/track/6SsbCH6SPFGKezh81mEseT"
     },
     {
       "album": {

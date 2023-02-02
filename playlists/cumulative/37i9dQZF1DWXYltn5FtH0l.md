@@ -4,7 +4,7 @@
 
 > Feel 'New Establish Style Tempo' in here.
 
-75 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/48qDvQRSVFhyZylVKkXDVY)
+75 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

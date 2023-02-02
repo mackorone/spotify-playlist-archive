@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-120 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/7FOkiByivaOfywG07ibr9a)
+120 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

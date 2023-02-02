@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "The soundtrack to your festive get-together!",
   "name": "Christmas Party",
-  "published_playlist_ids": [
-    "4aTtG0lLgznSH9xY438zpI"
-  ],
   "tracks": [
     {
       "album": {
@@ -27,7 +24,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-07",
       "duration_ms": 556461,
       "name": "12 Days of Christmas",
       "url": "https://open.spotify.com/track/6E4NFTOYOUPKnTCYXsLWWT"
@@ -1476,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Not So Silent Night",
+        "url": "https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239706,
+      "name": "Ring Out The Bells",
+      "url": "https://open.spotify.com/track/2ykBpMiRAKvii89MMclhp9"
+    },
+    {
+      "album": {
         "name": "A Brenda Lee Christmas",
         "url": "https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F"
       },
@@ -1489,7 +1504,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 126146,
-      "name": "Rockin' Around the Christmas Tree",
+      "name": "Rockin' Around the Christmas Tree - Rerecorded Version",
       "url": "https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA"
     },
     {

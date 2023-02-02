@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-03-22",
   "description": "\u00a1M\u00fasica urbana representando a Cuba! Cover: Gente de Zona",
   "name": "Cubat\u00f3n",
-  "published_playlist_ids": [
-    "10FYMQLgw0cDsX64VDlIyb"
-  ],
   "tracks": [
     {
       "album": {
@@ -89,10 +86,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 205440,
       "name": "Apagame la Luz",
       "url": "https://open.spotify.com/track/5YNm7rjtayQtYKgK1tLpcW"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "Srta. Dayana",
+          "url": "https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Apagame la Luz",
+      "url": "https://open.spotify.com/track/6KaCsW4E7ETLaukIDRkpon"
     },
     {
       "album": {
@@ -256,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Calentando la Habana",
+      "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
+    },
+    {
+      "album": {
         "name": "Calentando la Habana",
         "url": "https://open.spotify.com/album/07Gy6UBWNbNzzOs4lmSZKC"
       },
@@ -267,7 +304,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-26",
       "duration_ms": 253714,
       "name": "Calentando la Habana",
       "url": "https://open.spotify.com/track/5D5eHsVVy8JEHBOUXlhd4t"
@@ -436,6 +473,24 @@
     },
     {
       "album": {
+        "name": "El Grande",
+        "url": "https://open.spotify.com/album/6RykDFDZm5Fg4ZdyjpP4n1"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238656,
+      "name": "El Farsante - Timba Remix",
+      "url": "https://open.spotify.com/track/2mXSqDlL6vHv7wjenfhmcC"
+    },
+    {
+      "album": {
         "name": "El Farsante (Timba Remix)",
         "url": "https://open.spotify.com/album/2TbFKVI7lW1Q91nr8ddXUR"
       },
@@ -447,7 +502,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 239156,
       "name": "El Farsante - Timba Remix",
       "url": "https://open.spotify.com/track/6rQ8bYJwMHTWGJhA143RIl"
@@ -1825,6 +1880,32 @@
     {
       "album": {
         "name": "Segundas Partes",
+        "url": "https://open.spotify.com/album/5a0lWQj2QCsbEthtwXl8KJ"
+      },
+      "artists": [
+        {
+          "name": "La Diosa",
+          "url": "https://open.spotify.com/artist/6HNBN7MOvwQqyv3VO94z4q"
+        },
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        },
+        {
+          "name": "Wildey",
+          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202203,
+      "name": "Segundas Partes",
+      "url": "https://open.spotify.com/track/55krWysUpV33JHSCvmiVZ7"
+    },
+    {
+      "album": {
+        "name": "Segundas Partes",
         "url": "https://open.spotify.com/album/2yqDXA8C3OztqCygWf4I4v"
       },
       "artists": [
@@ -1843,7 +1924,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-14",
       "duration_ms": 202203,
       "name": "Segundas Partes",
       "url": "https://open.spotify.com/track/5Ij3qIcQWIrIATGoYVR729"

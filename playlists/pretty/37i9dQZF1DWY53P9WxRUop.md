@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 
 > Summer fun for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,002 likes - 76 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,147 likes - 76 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 27 | [Riding the Waves](https://open.spotify.com/track/5hXDPy8wqd1O9ypkCTjtqa) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Imagination Movers: In a Big Warehouse](https://open.spotify.com/album/2MmbI5cNJ2twmLFWBTUcNq) | 2:14 |
 | 28 | [Playground Day](https://open.spotify.com/track/3BhXUY80wTA1bqekwYpBKV) | [Nanny Nikki](https://open.spotify.com/artist/4PpVyNXXqA5P9e7letrpAx) | [All One Tribe](https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8) | 3:52 |
 | 29 | [Surfin' And Sunnin'](https://open.spotify.com/track/4vLm0SMd4p9OGMuk42R2fh) | [Sunny Day](https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk) | [Keep Styling, Keep Singing](https://open.spotify.com/album/1uxwtl3M3vwzaZDL5Pg9n6) | 0:49 |
-| 30 | [Hot Nights \(feat\. Pat Sansone\)](https://open.spotify.com/track/4lysmuayuw7MrjxNECdhQs) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Brighter Side](https://open.spotify.com/album/5t7evB9uKy03DvgWKnIOOZ) | 2:55 |
+| 30 | [Hot Nights](https://open.spotify.com/track/00lrwYqxiXM1p5Df2QMsFS) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK), [Pat Sansone](https://open.spotify.com/artist/5d2UMbxIe7UqoG329QjrEM) | [Brighter Side](https://open.spotify.com/album/1S95VJgPQTSDT6DFMXv8df) | 2:55 |
 | 31 | [Dancing in the Summertime](https://open.spotify.com/track/19AWv57sKz9q5tzltSFKlx) | [Piccolo Music](https://open.spotify.com/artist/1JYuWmfI1YsWKxb050RxRI) | [Sing Yourself a Smile](https://open.spotify.com/album/6SrFFzym0Z7pieo4kLYFSF) | 2:19 |
 | 32 | [Best Day Ever](https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Best Day Ever](https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5) | 2:30 |
 | 33 | [We Outside](https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [We Outside](https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen) | 2:44 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 40 | [Summer of Fun](https://open.spotify.com/track/2GymMFv7OEYB1mxbroLYlt) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Summer of Fun](https://open.spotify.com/album/4rDlAFbwFF7pwCeSUpo1vM) | 2:54 |
 | 41 | [Ice Cream Man](https://open.spotify.com/track/2hOId5iamZtddQ0n0hMKqA) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/1GS9e5DqsnGJ8qYlr4eYxm) | 3:02 |
 | 42 | [Snowman In The Summer](https://open.spotify.com/track/2paUPL56zqStnGSRpQ0DHR) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [HOT DOG!](https://open.spotify.com/album/0ye96kydrJrnx9mAENEGG2) | 1:57 |
-| 43 | [Getting in a Treetop](https://open.spotify.com/track/6ee0hMZYDgVjRdFA0xyi57) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Gustafer Yellowgold's Mellow Fever](https://open.spotify.com/album/3YOlWxSCB1Dt2NdwciOBfX) | 2:44 |
+| 43 | [Getting In A Tree Top](https://open.spotify.com/track/34neqxm9ArTLTS7l8452Kh) | [Gustafer Yellowgold](https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK) | [Mellow Fever](https://open.spotify.com/album/0qw5psAH3gSgnisO8mNJz0) | 2:44 |
 | 44 | [Beach Song](https://open.spotify.com/track/1bDMoH8fmHwGRqEBy0v8Eg) | [Dog On Fleas](https://open.spotify.com/artist/4IeVO9BEsrReZNdAtF2h6L) | [Beautiful World](https://open.spotify.com/album/5Ko4WA7utUQPe8HJTDGq5p) | 2:45 |
 | 45 | [Endless Summer](https://open.spotify.com/track/3e2ySSCHYJCcdHJ9UR1OXA) | [Joanie Leeds](https://open.spotify.com/artist/4KOQZQuOdq1Zllyn7Nr4hK) | [Endless Summer](https://open.spotify.com/album/32iDg2yZHThP6rwRA4eeTN) | 3:00 |
 | 46 | [Ice Cream](https://open.spotify.com/track/5zhOFutkl4I01RjI9NDEsP) | [Asheba](https://open.spotify.com/artist/6VkqEReE8tIwa8wap4TACw) | [In the Kid Zone](https://open.spotify.com/album/4xRmUIxkuX9fIiYmXWqiEC) | 3:54 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 | 75 | [Let's Go Fly a Kite](https://open.spotify.com/track/0E13OCGuZX4pWcbAttmRpb) | [Wendy and DB](https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM) | [Hey Big World](https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR) | 2:05 |
 | 76 | [Summer Sunshine](https://open.spotify.com/track/0QfYy4pgfxQ2Af3ScScLWY) | [Rebecca Frezza & Big Truck](https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO) | [Special Kind Of Day](https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET) | 2:42 |
 
-Snapshot ID: `MTY1NDY4OTg4NSwwMDAwMDAwMDRhOTAyZTNmZjM0MDc3M2Q2MzBkY2UyMzE2ZjMwYmIz`
+Snapshot ID: `MTY1NDY4OTg4NSwwMDAwMDAwMGJlYTY1NmUwOTdkMzliNTkzNjVmNTYxY2VkM2NkOTQ3`

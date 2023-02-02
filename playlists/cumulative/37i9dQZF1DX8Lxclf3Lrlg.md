@@ -4,7 +4,7 @@
 
 > <a href="https://www.alibiharlem.com/">Alibi Lounge</a> is an openly LGBTQQIA+ lounge in Harlem whose soundtrack reflects the many ways in which they show their Pride in the heart of NYC\. Let the music play!
 
-54 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/0I6NjmMieaYkwAHKRc1A0L)
+54 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

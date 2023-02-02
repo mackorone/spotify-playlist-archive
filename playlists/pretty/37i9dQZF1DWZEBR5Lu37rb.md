@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,393 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,987 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Before You Wake Up](https://open.spotify.com/track/2PKRz9DR6lUX6zAJgW5aRV) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Before You Wake Up](https://open.spotify.com/album/7c3illLdUqSIVXTb6h3zEC) | 2:54 |
-| 2 | [Nobody but Me \- Bonus Track](https://open.spotify.com/track/57rot16Tp9O8pwmkgPoGfd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7), [K.O](https://open.spotify.com/artist/7q2JZvjjqo4Btkt9qmCKkv) | [Money Mondays](https://open.spotify.com/album/7DU7E1G7ZDTejOwJgUgLVO) | 3:58 |
+| 2 | [Nobody but Me \(feat\. K.O\)](https://open.spotify.com/track/0VhQbntrTPGcGHqgCvYQdS) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Money Mondays](https://open.spotify.com/album/3TAUwPnG8hHgBWFE5obk17) | 3:58 |
 | 3 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
 | 4 | [Ndizele Wena](https://open.spotify.com/track/15P4w866PR3iyQ4b3KlLbK) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Power](https://open.spotify.com/album/6dDz2SDdhnaeKTLoe0BRhH) | 2:38 |
 | 5 | [African Queen](https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:24 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 13 | [Haturudi Nyuma](https://open.spotify.com/track/76ru5f5KMaslfUg7nFe2Qk) | [Kidum Kibido](https://open.spotify.com/artist/78NwwxOZkV9sNsdIYDWN9D), [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [The Best Of Kidum Kibido](https://open.spotify.com/album/0W8soVwIq910Q2NYsDSZd7) | 4:47 |
 | 14 | [Running \(To You\)](https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH) | 3:11 |
 | 15 | [Medicine](https://open.spotify.com/track/0dHzOwpLHRw4xA6TEIVIkq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:30 |
-| 16 | [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 |
+| 16 | [Ndikuthandile](https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk) | 4:14 |
 | 17 | [Vaileti](https://open.spotify.com/track/3C9HNfpYE8IbTuwN8WtIBy) | [Matonya](https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI) | [Best of Tanzania Bongo Classics 2](https://open.spotify.com/album/3ZWfP82qw9qk6iCaaeiMir) | 4:49 |
 | 18 | [Duro](https://open.spotify.com/track/4t59zVbRoCgnvyQ9hM3xP1) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Duro](https://open.spotify.com/album/6CIcLjMo4Wjnj2zp6dQSTH) | 3:32 |
 | 19 | [Fanti Love Song](https://open.spotify.com/track/3JjDrDXNBaBK3uheLzc10d) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [No\. 1 Mango Street](https://open.spotify.com/album/6UxffPZr6Ca4nBtz3GObFM) | 3:41 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 83 | [Unajua \(feat\. Wendy Kimani\)](https://open.spotify.com/track/243H8e9aTy851fjYiXc4k4) | [Gilad](https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ), [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT) | [Asante](https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF) | 4:21 |
 | 84 | [Thojana Ya Thesele](https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Black](https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ) | 4:53 |
 | 85 | [Sweet Love](https://open.spotify.com/track/73EVyhT9Wq0diDaasJi9yu) | [Wahu](https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq) | [Wahu Classics](https://open.spotify.com/album/0cu2ZwMtnug5JX2hIFpJY2) | 4:20 |
-| 86 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
+| 86 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 87 | [Nikikutazama](https://open.spotify.com/track/2QweIUK69pkW3dgnEEzPaI) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Nikikutazama](https://open.spotify.com/album/54LLZZzjgU0cDnKJVKMvgl) | 3:56 |
 | 88 | [Sbali](https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 5:00 |
 | 89 | [Kahlet Laayoune](https://open.spotify.com/track/0zqQI8ysvCrDAJPmLuEDev) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Kahlet Laayoune](https://open.spotify.com/album/0tztx9JoOcjRnBZoWvojzF) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 |
 
-Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMGM4YjI2MWViZTNmNDllMThjZGM3ODM4Y2VmODQxYTdm`
+Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMGU1ZGQxOGIzY2I5YmY2NWJlN2ZjOWQzMmY0ZGJkMDhk`

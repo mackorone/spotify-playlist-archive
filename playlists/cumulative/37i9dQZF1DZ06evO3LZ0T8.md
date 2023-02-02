@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-31 songs - 1 hr 34 min - not published yet
+33 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Dance With Me](https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:06 | 2022-10-10 |  |
 | [DNA \- Radio Edit](https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [DNA \(Radio Edit\)](https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU) | 2:58 | 2022-10-10 |  |
 | [Don't Sweat It](https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Don't Sweat It](https://open.spotify.com/album/3u7jL6KxRZ2OhGcyjXesFF) | 2:56 | 2022-10-10 |  |
+| [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 | 2023-01-15 |  |
 | [Furious!](https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Hooders](https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS) | [Furious!](https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49) | 3:18 | 2022-10-10 |  |
 | [Higher](https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Umaedo](https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74) | [Higher](https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS) | 2:55 | 2022-10-10 |  |
 | [Honey Dip](https://open.spotify.com/track/0606StM2HkTudakYuVy2rd) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake the Bass 4](https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd) | 3:03 | 2022-10-10 |  |
@@ -30,6 +31,7 @@
 | [My Mind](https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td) | 3:08 | 2022-10-10 |  |
 | [Never Say Never](https://open.spotify.com/track/1lamYQInWLWWadZ0WJr77I) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Never Say Never](https://open.spotify.com/album/05RILyqqydSjfCP9LK54yX) | 2:33 | 2022-10-15 |  |
 | [Oh Babe](https://open.spotify.com/track/2PLMPEaM0SaBjIgIb8ntxD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Oh Babe](https://open.spotify.com/album/5JfeF8AIoBKK3zdV8ihUTx) | 2:49 | 2022-10-10 |  |
+| [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 | 2022-12-03 |  |
 | [Raise It Up](https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [MC Kane](https://open.spotify.com/artist/7nwtn0dNIn3H879bbwJTwt) | [Raise It Up](https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE) | 3:55 | 2022-10-10 |  |
 | [Resonate](https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Resonate](https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV) | 3:07 | 2022-10-10 |  |
 | [Ride or Die](https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride or Die](https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO) | 3:08 | 2022-10-10 |  |

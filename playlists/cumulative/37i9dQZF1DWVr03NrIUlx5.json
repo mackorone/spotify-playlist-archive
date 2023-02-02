@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-10-26",
   "description": "8 bit bangers.",
   "name": "8 Bit Hits",
-  "published_playlist_ids": [
-    "46CZm4FrkmshiWlNt9Fiv6"
-  ],
   "tracks": [
     {
       "album": {
@@ -1057,7 +1054,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": "2023-01-18",
       "duration_ms": 182026,
       "name": "Don't Start Now (8 Bit Version)",
       "url": "https://open.spotify.com/track/5UBn4Sj3CMH9H017Hv13R1"
@@ -1687,7 +1684,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-12",
       "duration_ms": 389837,
       "name": "Hotel California - 8-Bit Version",
       "url": "https://open.spotify.com/track/72EfHwcUwdfELjCKhYMc1x"
@@ -1983,7 +1980,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": "2022-12-01",
       "duration_ms": 224834,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/6UjUvXX0IG3FjtB6hO1a3m"
@@ -2354,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "Moonbeam",
+        "url": "https://open.spotify.com/album/278e9fT5i3Zgc73UhxljwR"
+      },
+      "artists": [
+        {
+          "name": "Rocket Start",
+          "url": "https://open.spotify.com/artist/63HmQo6u4XFHnqkeYd8GhE"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192705,
+      "name": "Moonbeam",
+      "url": "https://open.spotify.com/track/311stbwUPaP7zluMQEjSzI"
+    },
+    {
+      "album": {
         "name": "8-Bit Versions of The Killers",
         "url": "https://open.spotify.com/album/2OZ8JhqyKJmjh5nwpVXWwU"
       },
@@ -2423,6 +2438,24 @@
       "duration_ms": 196274,
       "name": "Never Gonna Gonna Give You Up (8 Bit Version)",
       "url": "https://open.spotify.com/track/634txvFC5XHmswsUPctRbg"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/7h8RTj6eK4uEdHsKSI1Tnh"
+      },
+      "artists": [
+        {
+          "name": "Cryztal Grid",
+          "url": "https://open.spotify.com/artist/2Z4n0j6djhJxyEmuE5EWCp"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/09C0yAFI6bnY0jDNQJkElj"
     },
     {
       "album": {
@@ -2959,7 +2992,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 217245,
       "name": "Shake It Off - 8-Bit Version",
       "url": "https://open.spotify.com/track/6SGKOA0LzHTtZBue2RfaqF"
@@ -3683,7 +3716,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-16",
       "duration_ms": 214736,
       "name": "The Number of the Beast",
       "url": "https://open.spotify.com/track/3G3QnHwq6j2OzIoqxHhK1H"
@@ -3833,7 +3866,7 @@
           "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
         }
       ],
-      "date_added": "2022-10-01",
+      "date_added": "2022-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 262895,
@@ -4051,7 +4084,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163286,
       "name": "Wannabe (8-Bit Computer Game Version)",
       "url": "https://open.spotify.com/track/7q0eUyGSVhH1ZQwWeDxsyw"
@@ -4123,7 +4156,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-09",
       "duration_ms": 206013,
       "name": "Welcome to the Jungle",
       "url": "https://open.spotify.com/track/6SiYPSuNfD9Erz5mRUH8N4"
@@ -4141,7 +4174,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": "2023-01-11",
       "duration_ms": 206500,
       "name": "What I've Done",
       "url": "https://open.spotify.com/track/1QPqTG2MhhMJsXVfezJriJ"
@@ -4159,7 +4192,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 157655,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/1hntd6loywY4A1A4Wb5sxU"

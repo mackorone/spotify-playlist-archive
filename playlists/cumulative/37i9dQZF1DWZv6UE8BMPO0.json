@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.",
   "name": "Christmas Cocktail Jazz",
-  "published_playlist_ids": [
-    "46l2vnuSexwyIIH7fOoaMY"
-  ],
   "tracks": [
     {
       "album": {
@@ -1816,6 +1813,32 @@
     },
     {
       "album": {
+        "name": "Moods for Christmas",
+        "url": "https://open.spotify.com/album/7tMX542vM15zwil5ox5K4q"
+      },
+      "artists": [
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4hCpwHWh8YPepNlgYF1HaJ"
+    },
+    {
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/6UyHrMcTsIKAtJEIWoWYI3"
       },
@@ -1835,7 +1858,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-08",
       "duration_ms": 232000,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/2xWHyOzveoGRMIZaA9I9ZR"

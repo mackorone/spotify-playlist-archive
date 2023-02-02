@@ -4,7 +4,7 @@
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-338 songs - 1 day 11 hr 23 min - [published](https://open.spotify.com/playlist/5EIQ89frtYPEdP8kUq9hwr)
+338 songs - 1 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

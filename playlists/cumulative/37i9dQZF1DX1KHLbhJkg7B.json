@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-01-02",
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
   "name": "Country Covers",
-  "published_playlist_ids": [
-    "5FG6pwctW4uulQzMoAra0G"
-  ],
   "tracks": [
     {
       "album": {
@@ -231,7 +228,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212666,
-      "name": "Always on My Mind",
+      "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
@@ -319,7 +316,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 202921,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/6LwOHSi4IoJtivi221knNa"
@@ -681,6 +678,28 @@
     {
       "album": {
         "name": "Circles",
+        "url": "https://open.spotify.com/album/7ByBR4dghH8plBWsCl9hBy"
+      },
+      "artists": [
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        },
+        {
+          "name": "The 615 House",
+          "url": "https://open.spotify.com/artist/2CjBXcTF8Jd9WHHA2rOg0q"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198595,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0xESLu1HGNj3xrvsmU0XMO"
+    },
+    {
+      "album": {
+        "name": "Circles",
         "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
       },
       "artists": [
@@ -955,7 +974,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 214495,
       "name": "Die a Happy Man",
       "url": "https://open.spotify.com/track/1mExCoXAGKI6abLGXoG7O3"
@@ -1107,7 +1126,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 202988,
       "name": "Drivers License",
       "url": "https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk"
@@ -1143,7 +1162,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 177098,
       "name": "East Bound And Down",
       "url": "https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd"
@@ -1528,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1IUEz40wavYETWJgak8iI3"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
       },
@@ -1651,7 +1688,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 247765,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb"
@@ -1705,7 +1742,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
@@ -1915,7 +1952,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-26",
+      "date_removed": "2023-01-22",
       "duration_ms": 230453,
       "name": "Home",
       "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
@@ -1951,7 +1988,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 231818,
       "name": "How's It Going To Be",
       "url": "https://open.spotify.com/track/7na30RWB0zAMrXanGSaXCJ"
@@ -2225,7 +2262,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 153066,
       "name": "I'm in a Hurry (Live from Boca Grande)",
       "url": "https://open.spotify.com/track/6G5b1UmULnwGOIo7xKwcn3"
@@ -2685,7 +2722,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 203204,
       "name": "Just a Girl",
       "url": "https://open.spotify.com/track/7d5TsfUb4ZTIwso4mGfPpz"
@@ -2855,7 +2892,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 169317,
       "name": "Lord, I Hope This Day Is Good",
       "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
@@ -2961,6 +2998,24 @@
     {
       "album": {
         "name": "Make Me Want To",
+        "url": "https://open.spotify.com/album/0yeIgCIOOONw8YBtZCFzu9"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/4zBfFrS00t3HNpW50Q2lew"
+    },
+    {
+      "album": {
+        "name": "Make Me Want To",
         "url": "https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU"
       },
       "artists": [
@@ -2971,7 +3026,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-01",
       "duration_ms": 175227,
       "name": "Make Me Want To",
       "url": "https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD"
@@ -3401,7 +3456,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 243545,
       "name": "Outskirts of Heaven",
       "url": "https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI"
@@ -3441,7 +3496,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 272720,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/0JuaYeq8BuDkXpFQ1RlgQc"
@@ -3503,7 +3558,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 249360,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/5nUonsVQLhAD6Qm5znhfSj"
@@ -3539,7 +3594,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 185426,
       "name": "Pop a Top",
       "url": "https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11"
@@ -3597,7 +3652,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 202835,
       "name": "rainbow",
       "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
@@ -3677,6 +3732,24 @@
       "duration_ms": 233347,
       "name": "River In The Rain",
       "url": "https://open.spotify.com/track/4p1NuLTJwxtDOpYM8e4hAh"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
     },
     {
       "album": {
@@ -3821,7 +3894,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 271771,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
@@ -3839,7 +3912,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 173426,
       "name": "Six Days On The Road",
       "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
@@ -3959,6 +4032,28 @@
       "duration_ms": 261769,
       "name": "Sparks Fly",
       "url": "https://open.spotify.com/track/5vdvzc4drsamBYXaSF8l5u"
+    },
+    {
+      "album": {
+        "name": "George & Tammy (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT"
+      },
+      "artists": [
+        {
+          "name": "Jessica Chastain",
+          "url": "https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF"
+        },
+        {
+          "name": "Michael Shannon",
+          "url": "https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165752,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp"
     },
     {
       "album": {
@@ -4353,10 +4448,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-20",
+      "date_removed": "2023-01-20",
       "duration_ms": 204282,
       "name": "The Cowboy Rides Away",
       "url": "https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH"
+    },
+    {
+      "album": {
+        "name": "The Galway Girl",
+        "url": "https://open.spotify.com/album/3hW3sQNLMGyjGyGQmEAMTr"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265033,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/4HrdoGHlfUq1D0wJm1kZkD"
     },
     {
       "album": {
@@ -4425,7 +4542,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-06",
       "duration_ms": 176440,
       "name": "The Race Is On",
       "url": "https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn"
@@ -4850,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "What's Up (What's Going On)",
+      "url": "https://open.spotify.com/track/5FonXR4yh9PWNbQCHQn5I0"
+    },
+    {
+      "album": {
         "name": "What's Your Country Song",
         "url": "https://open.spotify.com/album/5vpq2EODIUw9aCqlty61kF"
       },
@@ -5013,7 +5148,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 371448,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
@@ -5049,7 +5184,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": "2023-01-08",
       "duration_ms": 240224,
       "name": "Wide Open Spaces - Spotify Singles",
       "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"

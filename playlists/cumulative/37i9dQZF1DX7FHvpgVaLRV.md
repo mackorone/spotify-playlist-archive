@@ -4,7 +4,7 @@
 
 > Para acompanhar sua rotina de ioga no conforto do lar.
 
-93 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/0jwL7MrJ5FnWEToiiTEyRD)
+93 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

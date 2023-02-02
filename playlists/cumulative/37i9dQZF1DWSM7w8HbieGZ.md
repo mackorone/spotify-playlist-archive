@@ -4,7 +4,7 @@
 
 > Enjoy music of Gian from Doraemon　テレビアニメ「ドラえもん」からジャイアンが歌う歌を中心にセレクトした公式プレイリスト！©︎藤子プロ・小学館・テレビ朝日・シンエイ・ADK
 
-29 songs - 58 min 26 sec - [published](https://open.spotify.com/playlist/6fIO7ujJXMXYiXqaF5OwZj)
+29 songs - 58 min 26 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

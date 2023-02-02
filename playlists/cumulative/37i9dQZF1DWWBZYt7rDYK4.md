@@ -4,7 +4,7 @@
 
 > A pop soundtrack that both you and your little one can enjoy.
 
-146 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/4WGXzSJ3RMfwF6SJ6no75o)
+146 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,9 +133,9 @@
 | [Together Again](https://open.spotify.com/track/0NOoEWLx5MoQqEusdOLU5F) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Best Of Number Ones](https://open.spotify.com/album/2nluxUhos0yCqlpXazGSVF) | 4:07 | 2021-11-23 | 2022-07-29 |
 | [Together Again](https://open.spotify.com/track/1LhZvAOYbZDUCYI1X33IZq) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Best Of Number Ones](https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda) | 4:07 | 2021-11-23 | 2022-11-13 |
 | [Together Again](https://open.spotify.com/track/2nnU5UH4paoRkWCC7fSR2P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Together Again](https://open.spotify.com/album/6MFr3o4hxxhWrc2DAitc0G) | 4:08 | 2021-11-23 |  |
-| [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 | 2021-11-23 |  |
+| [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 | 2021-11-23 | 2022-11-27 |
 | [Torn](https://open.spotify.com/track/0ojLrv1p6KJYoOpscmLZIu) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [90 Sweet 90s Hits!](https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS) | 4:04 | 2021-11-23 | 2022-11-13 |
-| [Torn](https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Glorious: The Singles 97\-07](https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX) | 4:04 | 2021-11-23 | 2022-07-29 |
+| [Torn](https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Glorious: The Singles 97\-07](https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX) | 4:04 | 2021-11-23 |  |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 | 2021-11-23 |  |
 | [Unwritten](https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/1meis09isQJFDA65afUTt8) | 4:19 | 2021-11-23 | 2022-07-29 |
 | [Unwritten](https://open.spotify.com/track/2aDUcLZMqNdiFo3gzuSF1t) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Músicas Pop para Malhar \| Academia 2022](https://open.spotify.com/album/1r3XBu4zfs2tRlbkfMVJvb) | 4:19 | 2021-11-23 | 2022-11-13 |

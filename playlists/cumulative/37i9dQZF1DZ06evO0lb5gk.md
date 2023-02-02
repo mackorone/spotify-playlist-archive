@@ -4,7 +4,7 @@
 
 > This is Gojira\. The essential tracks, all in one playlist.
 
-53 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/4YbSkWZUmXTIcQHpQjN7lQ)
+54 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [This Emptiness](https://open.spotify.com/track/5HTPySHVzKat76M1IbiNml) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [L'Enfant Sauvage \(Special Edition\)](https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG) | 3:59 | 2022-06-02 | 2022-10-11 |
 | [Torii](https://open.spotify.com/track/6oo0aVkiHB3SNRXdL5aDWD) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 1:43 | 2022-10-14 |  |
 | [Toxic garbage island](https://open.spotify.com/track/5e0OSsSpWpQ2kS7Z9CGLDu) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 4:06 | 2022-05-30 |  |
+| [Unicorn](https://open.spotify.com/track/3ptWdF41pKxABwILCaYJO2) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 2:09 | 2023-01-03 |  |
 | [Vacuity](https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 4:51 | 2022-05-30 |  |
-| [Where Dragons Dwell](https://open.spotify.com/track/2dBTnT6T47pNHeXngkr2Vj) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 6:54 | 2022-05-30 |  |
+| [Where Dragons Dwell](https://open.spotify.com/track/2dBTnT6T47pNHeXngkr2Vj) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 6:54 | 2022-05-30 | 2023-01-04 |
 | [Wisdom comes](https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 2:25 | 2022-05-30 |  |
 | [Wolf down the earth](https://open.spotify.com/track/368sgQMnEzwo5mpShvPFJm) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 6:25 | 2022-05-30 | 2022-10-13 |
 

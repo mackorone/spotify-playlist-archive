@@ -2,9 +2,6 @@
   "date_first_scraped": "2021-12-28",
   "description": "Historias y versos que tocan la piel.",
   "name": "Esenciales Trova",
-  "published_playlist_ids": [
-    "6l3dGa8zCDeH4FpHS3TJ2w"
-  ],
   "tracks": [
     {
       "album": {
@@ -477,10 +474,32 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-12-25",
       "duration_ms": 189787,
       "name": "Como la Nube Se Impone al Sol",
       "url": "https://open.spotify.com/track/6yyjTmxBDhKvQre39r8QxT"
+    },
+    {
+      "album": {
+        "name": "Vamos a Bailar un Son (Special Edition)",
+        "url": "https://open.spotify.com/album/0fJHl8bN8rprMMTLQkppdo"
+      },
+      "artists": [
+        {
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "date_added": "2021-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189787,
+      "name": "Como la Nube Se Impone al Sol (feat. Pablo Milan\u00e9s)",
+      "url": "https://open.spotify.com/track/75vEpGK92zNmo0wTsYgODZ"
     },
     {
       "album": {

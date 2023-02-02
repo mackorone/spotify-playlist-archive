@@ -2,9 +2,6 @@
   "date_first_scraped": "2022-02-17",
   "description": "Delicate digital expressions of the heart.",
   "name": "Electronica Romantica",
-  "published_playlist_ids": [
-    "5z5TOODdOzr7Xe3P1TW7fd"
-  ],
   "tracks": [
     {
       "album": {
@@ -71,7 +68,7 @@
     {
       "album": {
         "name": "Vocal Studies and Uprock Narratives",
-        "url": "https://open.spotify.com/album/6sJO4oNOs8b3owt7a3GHEe"
+        "url": "https://open.spotify.com/album/5GZT4mMtpvjixRGvrKNAkg"
       },
       "artists": [
         {
@@ -82,6 +79,24 @@
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 241093,
+      "name": "Afternoon Love In",
+      "url": "https://open.spotify.com/track/3lAHOMjdWziQscU4HkUZUv"
+    },
+    {
+      "album": {
+        "name": "Vocal Studies and Uprock Narratives",
+        "url": "https://open.spotify.com/album/6sJO4oNOs8b3owt7a3GHEe"
+      },
+      "artists": [
+        {
+          "name": "Prefuse 73",
+          "url": "https://open.spotify.com/artist/0ZsnKPvBsvvycnET2GZMrG"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 241093,
       "name": "Afternoon Love In",
       "url": "https://open.spotify.com/track/5nSJ2ypbWJpwEsghDyidPV"
@@ -99,7 +114,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 321880,
       "name": "aisatsana [102]",
       "url": "https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3"
@@ -481,7 +496,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 90133,
       "name": "Constant Reminder",
       "url": "https://open.spotify.com/track/2R1ie4gZr9VXwVQlqrdGNP"
@@ -535,7 +550,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
@@ -553,10 +568,36 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 192000,
       "name": "Echo's Answer",
       "url": "https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz"
+    },
+    {
+      "album": {
+        "name": "Small Craft On A Milk Sea",
+        "url": "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132306,
+      "name": "Emerald and Stone",
+      "url": "https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4"
     },
     {
       "album": {
@@ -579,7 +620,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 132306,
       "name": "Emerald and Stone",
       "url": "https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl"
@@ -655,7 +696,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 245510,
       "name": "Fine Match",
       "url": "https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4"
@@ -713,7 +754,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 192300,
       "name": "Four Horsemen",
       "url": "https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc"
@@ -749,7 +790,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1351601,
       "name": "Grafts",
       "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
@@ -821,7 +862,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 293306,
       "name": "I Think Of You",
       "url": "https://open.spotify.com/track/5qZhK2zu4yTO1kO1GJ25Gx"
@@ -1063,7 +1104,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": "2023-02-02",
       "duration_ms": 181440,
       "name": "Light Bodied",
       "url": "https://open.spotify.com/track/1cz0kAvZ6lKUQHpzbcI8wF"
@@ -1445,6 +1486,24 @@
     {
       "album": {
         "name": "L.O.S.S.",
+        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
+      },
+      "artists": [
+        {
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267250,
+      "name": "Nobody New Around You",
+      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
+    },
+    {
+      "album": {
+        "name": "L.O.S.S.",
         "url": "https://open.spotify.com/album/1RoBBAroy6tMbqXkkT4yyK"
       },
       "artists": [
@@ -1553,7 +1612,7 @@
     {
       "album": {
         "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
       "artists": [
         {
@@ -1564,6 +1623,24 @@
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
       "duration_ms": 324906,
       "name": "Peacock Tail",
       "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
@@ -1707,7 +1784,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 209806,
       "name": "Promise",
       "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
@@ -1747,7 +1824,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 249534,
       "name": "Saccade",
       "url": "https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh"
@@ -1949,7 +2026,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 256133,
       "name": "Smokebelch II (Beatless Mix)",
       "url": "https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ"
@@ -2309,7 +2386,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 221306,
       "name": "the place",
       "url": "https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN"
@@ -2541,7 +2618,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-02",
       "duration_ms": 389681,
       "name": "Water Music",
       "url": "https://open.spotify.com/track/6PN8bVP6kjAW6UwqileVWR"
@@ -2725,7 +2802,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 167986,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
@@ -2743,7 +2820,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 197407,
       "name": "\u2665",
       "url": "https://open.spotify.com/track/3PMyRSdnhCmXeP93bF89XG"

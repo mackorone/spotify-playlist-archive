@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 240403,
+  "num_followers": 248922,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMGM4OGZlMWU2MzI4ZWM1YTFmYWVhNGY1YTcxNTY0NGY0",
+  "snapshot_id": "MTY0MzI3ODQzNSwwMDAwMDAwMDgzM2Y4ZTQ4N2RhNmQ5ZTIwMmUwZmQzMDViNWU4YjE0",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -35,8 +35,8 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Get Out My Head",
-        "url": "https://open.spotify.com/album/6DwTQ5IU3Tp9YGIyzZwjNw"
+        "name": "New Year's Eve Party 2022",
+        "url": "https://open.spotify.com/album/4SKjR5h4bkN68UlkdSnF6j"
       },
       "artists": [
         {
@@ -46,7 +46,7 @@
       ],
       "duration_ms": 224800,
       "name": "Get Out My Head",
-      "url": "https://open.spotify.com/track/1LC6p9xSpZBogQMqlWZ5SZ"
+      "url": "https://open.spotify.com/track/3EGbEEe2M6CNFpF8vf8dgW"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -123,22 +123,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "No More Idols",
-        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Blind Faith",
-      "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
+      "duration_ms": 219120,
+      "name": "Katy on a Mission",
+      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -163,18 +159,22 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "On A Mission",
-        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
+        "name": "No More Idols",
+        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
       },
       "artists": [
         {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
         }
       ],
-      "duration_ms": 219120,
-      "name": "Katy on a Mission",
-      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
+      "duration_ms": 233666,
+      "name": "Blind Faith",
+      "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -195,22 +195,6 @@
       "duration_ms": 256306,
       "name": "I Need Air (feat. Angela Hunte)",
       "url": "https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "Ya Kidding",
-        "url": "https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Ya Kidding",
-      "url": "https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -247,6 +231,22 @@
       "duration_ms": 214482,
       "name": "Panic Room",
       "url": "https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Ya Kidding",
+        "url": "https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Ya Kidding",
+      "url": "https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -311,22 +311,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Torus",
-        "url": "https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d"
+        "name": "Techno Disco Tool (Radio Edit)",
+        "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Alpines",
-          "url": "https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX"
+          "name": "Mella Dee",
+          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
         }
       ],
-      "duration_ms": 228826,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W"
+      "duration_ms": 194307,
+      "name": "Techno Disco Tool - Radio Edit",
+      "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -343,6 +339,26 @@
       "duration_ms": 304106,
       "name": "Watercolour - Full Version; Single",
       "url": "https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Torus",
+        "url": "https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Alpines",
+          "url": "https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -403,22 +419,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "No More Idols",
-        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "No Problem",
-      "url": "https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Body Music (Remixed)",
         "url": "https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR"
       },
@@ -455,6 +455,22 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
+        "name": "No More Idols",
+        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Techno Disco Tool (Radio Edit)",
-        "url": "https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq"
+        "name": "Different Sides Of The Sun",
+        "url": "https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6"
       },
       "artists": [
         {
-          "name": "Mella Dee",
-          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+          "name": "Hot Natured",
+          "url": "https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3"
         }
       ],
-      "duration_ms": 194307,
-      "name": "Techno Disco Tool - Radio Edit",
-      "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
+      "duration_ms": 399310,
+      "name": "Benediction",
+      "url": "https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -515,34 +531,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Different Sides Of The Sun",
-        "url": "https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6"
+        "name": "It's the Arps",
+        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
       },
       "artists": [
         {
-          "name": "Hot Natured",
-          "url": "https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3"
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
         }
       ],
-      "duration_ms": 399310,
-      "name": "Benediction",
-      "url": "https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "Chunky",
-        "url": "https://open.spotify.com/album/79oalwUgqtwuzWPNYDMEEH"
-      },
-      "artists": [
-        {
-          "name": "Format:B",
-          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
-        }
-      ],
-      "duration_ms": 158114,
-      "name": "Chunky",
-      "url": "https://open.spotify.com/track/5SB73InpxuEQ20qEWhOQFV"
+      "duration_ms": 400751,
+      "name": "Inspector Norse",
+      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -563,18 +563,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "It's the Arps",
-        "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
+        "name": "Chunky",
+        "url": "https://open.spotify.com/album/79oalwUgqtwuzWPNYDMEEH"
       },
       "artists": [
         {
-          "name": "Todd Terje",
-          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+          "name": "Format:B",
+          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
         }
       ],
-      "duration_ms": 400751,
-      "name": "Inspector Norse",
-      "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
+      "duration_ms": 158114,
+      "name": "Chunky",
+      "url": "https://open.spotify.com/track/5SB73InpxuEQ20qEWhOQFV"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -591,22 +591,6 @@
       "duration_ms": 148571,
       "name": "House & Pressure",
       "url": "https://open.spotify.com/track/3W2bm5HR9tnS4ENFNJJ4XF"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "Back In Flight School",
-        "url": "https://open.spotify.com/album/6GgrlO0KZDDgZDyjRkGOAj"
-      },
-      "artists": [
-        {
-          "name": "Miguel Campbell",
-          "url": "https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC"
-        }
-      ],
-      "duration_ms": 282598,
-      "name": "Something Special - Original Mix",
-      "url": "https://open.spotify.com/track/0PQ591KWqZcslQeph3BRs5"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -647,18 +631,18 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "The Renegade EP",
-        "url": "https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7"
+        "name": "Back In Flight School",
+        "url": "https://open.spotify.com/album/6GgrlO0KZDDgZDyjRkGOAj"
       },
       "artists": [
         {
-          "name": "Friend Within",
-          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+          "name": "Miguel Campbell",
+          "url": "https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC"
         }
       ],
-      "duration_ms": 150703,
-      "name": "The Renegade",
-      "url": "https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK"
+      "duration_ms": 282598,
+      "name": "Something Special - Original Mix",
+      "url": "https://open.spotify.com/track/0PQ591KWqZcslQeph3BRs5"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -683,6 +667,22 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
+        "name": "The Renegade EP",
+        "url": "https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7"
+      },
+      "artists": [
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        }
+      ],
+      "duration_ms": 150703,
+      "name": "The Renegade",
+      "url": "https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
         "name": "Welcome Reality +",
         "url": "https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu"
       },
@@ -699,38 +699,22 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "We Do What We Want",
-        "url": "https://open.spotify.com/album/5DLu0Cem636nRBXkqhjDIh"
+        "name": "Solitary Daze",
+        "url": "https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM"
       },
       "artists": [
         {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 505577,
-      "name": "We Do What We Want",
-      "url": "https://open.spotify.com/track/18DjkS5pjqCBROtTVH4GK6"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "I Need A Painkiller (Armand Van Helden Vs. Butter Rush)",
-        "url": "https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
         },
         {
-          "name": "Butter Rush",
-          "url": "https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo"
+          "name": "Gabriel Ananda",
+          "url": "https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX"
         }
       ],
-      "duration_ms": 195960,
-      "name": "I Need A Painkiller",
-      "url": "https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5"
+      "duration_ms": 463405,
+      "name": "Solitary Daze",
+      "url": "https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -747,38 +731,6 @@
       "duration_ms": 241586,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/7dFJsQQMwSlelur7tPuwnr"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "Coma Cat",
-        "url": "https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya"
-      },
-      "artists": [
-        {
-          "name": "Tensnake",
-          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
-        }
-      ],
-      "duration_ms": 177621,
-      "name": "Coma Cat",
-      "url": "https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "Speicher 93",
-        "url": "https://open.spotify.com/album/3ynaPdzABzDYa71e6RSagL"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        }
-      ],
-      "duration_ms": 293578,
-      "name": "Grey",
-      "url": "https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -803,6 +755,74 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
+        "name": "I Need A Painkiller (Armand Van Helden Vs. Butter Rush)",
+        "url": "https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Butter Rush",
+          "url": "https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "I Need A Painkiller",
+      "url": "https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Coma Cat",
+        "url": "https://open.spotify.com/album/6nw5kO6PPxOI2RzuNX7Bya"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 177621,
+      "name": "Coma Cat",
+      "url": "https://open.spotify.com/track/48gv7cE3Fs4DNNSgWkbu1f"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "We Do What We Want",
+        "url": "https://open.spotify.com/album/5DLu0Cem636nRBXkqhjDIh"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 505577,
+      "name": "We Do What We Want",
+      "url": "https://open.spotify.com/track/18DjkS5pjqCBROtTVH4GK6"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Speicher 93",
+        "url": "https://open.spotify.com/album/3ynaPdzABzDYa71e6RSagL"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "duration_ms": 293578,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/1tNxprI7wf87blRuXUyEvC"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
         "name": "Final Credits",
         "url": "https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 439994,
       "name": "Final Credits",
       "url": "https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
-        "name": "Solitary Daze",
-        "url": "https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM"
-      },
-      "artists": [
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        },
-        {
-          "name": "Gabriel Ananda",
-          "url": "https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX"
-        }
-      ],
-      "duration_ms": 463405,
-      "name": "Solitary Daze",
-      "url": "https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8"
     },
     {
       "added_at": "2020-11-06 16:59:04",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Burns (Edit)",
-        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "Burns - Edit",
-      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Mystery Machine",
         "url": "https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj"
       },
@@ -903,6 +887,26 @@
       "duration_ms": 228969,
       "name": "Control",
       "url": "https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "8-track",
+        "url": "https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 275806,
+      "name": "Buggin' - Edit",
+      "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
     }
   ],
   "unique_name": "Warehouse Party",
